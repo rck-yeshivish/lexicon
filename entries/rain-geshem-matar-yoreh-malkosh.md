@@ -14,7 +14,7 @@ words:
   - he: מטר
     tr: matar
     en: rain (as sent)
-    distinct: rain given at its appointed time, and the word used where what falls is sent as judgment (Bereishis 19:24, Shemos 9:18); some make it the general term and geshem the specific one
+    distinct: rain given at its appointed time; on one reading specifically heavy rain, which is why forms of it are used of the fire and brimstone at Sedom (Bereishis 19:24) and the hail in Mitzrayim (Shemos 9:18); some make it the general term and geshem the specific one
   - he: יורה
     tr: yoreh
     en: the first rain
@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:6861 "Rain, Rain Come Again" (2016-07-23) https://articles.ohr.edu/articles/rain-rain-come-again
 authorities: [Taanis 6a]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Rain: geshem / matar / yoreh / malkosh
@@ -47,7 +47,7 @@ cycle.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | גשם | geshem | rain | the commonest word; general rain, or specifically the heavy or blessed rain (the views differ) |
-| מטר | matar | rain | rain sent at its time; the word used when what falls is judgment (Bereishis 19:24) |
+| מטר | matar | rain | rain sent at its time; on one reading heavy rain, hence Sedom's fire and brimstone (Bereishis 19:24) |
 | יורה | yoreh | the first rain | opens the season; "teaches" people to secure roofs and store produce (Taanis 6a) |
 | מלקוש | malkosh | the last rain | falls near Pesach, before the reaping, from *mekoshesh* (Taanis 6a) |
 
@@ -69,11 +69,16 @@ attributed rulings.
    *gashmiyus*. *Matar* is rain that Hashem brings directly at set times, and the
    times are the *yoreh* and the *malkosh* of Devarim 11:14.
 
-The Bottom line does not choose, because no rendering follows from the choice:
-the third view is the most useful to a translator, since it explains the pasuk's
-sequence, but the first two are equally represented and English has one word.
+The Bottom line does not choose, and neither does the article. The third view is
+the most useful to a translator, since it explains the pasuk's sequence, but
+English has one word either way.
 
 ## Distinctions
+
+The article opens by asking why Hebrew has so many words for rain. One answer, it
+says, is simply that rainfall mattered enormously to an agrarian society; but
+since the words of Hebrew bear intrinsic meanings and the Torah is not a
+thesaurus, there must be a deeper implication to the multiplicity.
 
 ### geshem (גשם) and matar (מטר)
 The two are near enough that every account of them has to be argued from usage
@@ -89,6 +94,15 @@ Both are seasonal markers, and Taanis 6a explains each from its own root. *Yoreh
 first rain, and it teaches people to reinforce their roofs and bring the produce
 indoors before the heavier rains come. *Malkosh* is tied to *mekoshesh*, one who
 reaps; it falls at the onset of spring, around Pesach, just before the harvest.
+
+### the article's own answer
+It closes by returning to the question it opened with. The different words for
+rain are not simply a product of rain's agricultural importance; they refer to
+different ways in which Hashem provides for the world. Some elements of Creation
+need a strong, torrential downpour to be quenched, while others need only a
+drizzle and would drown in a deluge. Vegetation grows at different times of the
+year, so rain must fall at those different periods. Hashem accommodates all these
+considerations, and the Hebrew language reflects them.
 
 ## Rendering guidance
 
@@ -116,6 +130,10 @@ Somayach, 17 Tammuz 5776 (2016-07-23): raw text in
 `sources/whats-in-a-word/raw/6861-rain-rain-come-again.md`. Primary loci cited:
 Devarim 11:14 (the second parashah of Shema); Bereishis 19:24; Shemos 9:18;
 Taanis 6a. This is one of the column's short pieces: it names no lexicographers,
-gives the *geshem*/*matar* views anonymously, and rests its one firm distinction,
+gives the *geshem*/*matar* views anonymously ("Some explain... Others take the
+opposite approach... Others explain..."), and rests its one firm distinction,
 *yoreh* against *malkosh*, on the Gemara. Nothing has been supplied here beyond
-what it says.
+what it says. Corrected 2026-09-10: a line claiming the first two *geshem*/*matar*
+views are "equally represented" has been cut, the article counting no one; and
+the article's own closing answer to its opening question, absent from the entry,
+has been added as its own section.

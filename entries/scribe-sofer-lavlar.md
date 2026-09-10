@@ -2,14 +2,14 @@
 cluster: scribe
 hebrew: [סופר, סופרים, לבלר, ספרא]
 roots: [ס-פ-ר]
-translit: [sofer, sofeir, sofrim, soferim, safra, lavlar, livlar, libler]
+translit: [sofer, sofeir, sofrim, soferim, safra, lavlar, livlar, libler, libellarius, libellus, liblarios]
 english: [scribe, scribes, the Sofrim, the early Sages]
 domain: society
 sources:
   - wiaw:10818 "Bishalach: Scribal Culture" (2023-02-04) https://articles.ohr.edu/articles/bishalach-scribal-culture
-authorities: [Rashi, Rabbi Eliyahu HaBachur]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Rabbi Eliyahu HaBachur, Rabbi Yehuda Aryeh Blau, Rabbi Shmuel Krauss]
+status: reviewed
+updated: 2026-09-10
 ---
 # Scribe: sofer / lavlar
 
@@ -17,54 +17,131 @@ updated: 2026-09-09
 
 Both words mean **scribe**, and Rashi uses each to define the other. *Sofer* is
 the Hebrew word, at home in Tanach and in the Mishnah; *lavlar* is the later
-term, confined to Mishnaic and Talmudic Hebrew. The one thing not to get wrong
-is the plural: *sofrim* in rabbinic usage usually does not mean "scribes" at all
-but **the Sofrim**, the early Sages, so *divrei sofrim* is "the words of the
-Sofrim," never "the words of the scribes."
+term, confined to Mishnaic and Talmudic Hebrew and borrowed from Latin. Whether
+they differ in *meaning* is the question the article sets out to answer, and it
+leaves two named views standing (see below), so a translator who needs the
+distinction should say which he is following. The one thing not to get wrong is
+the plural: *sofrim* in rabbinic usage is often not "scribes" at all but **the
+Sofrim**, the early Sages, so *divrei sofrim* is "the words of the Sofrim,"
+never "the words of the scribes."
+
+## Where the authorities disagree
+
+**Do *sofer* and *lavlar* mean two different things?** The article asks this
+outright, notes that the etymological difference is clear (*sofer* and *safra*
+are Hebrew and Aramaic, of Semitic stock; *lavlar* is borrowed from Latin and
+Greek, of Indo-European stock), and reports that the earliest sources it found
+discussing the question are two Hungarian rabbinic scholars of the last century.
+
+1. **Two distinct groups.** Rabbi Dr. Yehuda Aryeh (Lajos) Blau, in his German
+   *Studien zum althebräischen Buchwesen und zur Biblischen Litteratur- und
+   Textgeschichte*, argues that *sofer* implies an official scribe holding a
+   specific bureaucratic post, while *lavlar* is a general term taking in even
+   the run-of-the-mill scribe who worked as a sort of freelance clerk. On his
+   reading every *sofer* is a *lavlar*, but not every *lavlar* is a *sofer*.
+2. **Effectively synonymous.** Rabbi Dr. Shmuel Krauss, in *Talmudische
+   Archäologie*, cites Blau and disagrees with him: the two terms come to the
+   same thing, though the loanword *lavlar* may have carried a somewhat more
+   formal connotation.
+
+The article does not decide between them, and neither does this entry.
 
 ## Distinctions
 
 ### sofer (סופר)
-Root ס-פ-ר, the root behind *sefer* ("book"), *sippur* ("telling"), and
-*mispar* ("number"). At its plainest a *sofer* is one who produces a *sefer*.
+Root ס-פ-ר, a root that carries a wide range of senses: book, story, to tell or
+relate, number, to count, sapphire, spherical, haircut, border, and more. At its
+plainest a *sofer* is one who produces a *sefer*. The word appears more than
+fifty times in Tanach, often of royal scribes who wrote down the king's
+decisions for circulation to the people. Devorah's song praises the tribe of
+Zevulun with "and from Zevulun, those who pull the quill of the *sofer*"
+(Shoftim 5:14).
+
 In Tanach it is both a common noun (Tehillim 45:2, Yirmiyahu 8:8, Yechezkel
-9:2-3) and a title borne by particular men: Seraya, Shevna, Shafan, Elishama,
-Baruch, Ezra HaSofer, Tzadok. In the Mishnah *sofer* is the working scribe
-(Shabbos 12:5, Pesachim 3:1, Gittin 3:1, Bava Metzia 5:11, Sanhedrin 4:3).
+9:2-3) and an appellation with the definite article attached to a particular
+man: Seraya (Shmuel II 8:17), Shemayah (Divrei HaYamim I 24:6), Shva (Shmuel II
+20:25, and see Divrei HaYamim I 18:16), Shevna (Melachim II 18:18, 18:37, 19:2;
+Yeshayahu 36:3, 37:2), Shafan (Melachim II 22:3, 22:8-10, 22:12; Yirmiyahu
+36:10; Divrei HaYamim II 34:15, 34:18, 34:20), Elishama (Yirmiyahu 36:12,
+36:20-21), Baruch (Yirmiyahu 36:26), Yonasan (Yirmiyahu 37:15, 37:20), Ezra
+(Ezra 7:6, 7:11; Nechemyah 8:1-13, 12:26, 12:36), Tzadok (Nechemyah 13:13), and
+Ye'iel (Divrei HaYamim II 26:11).
+
+In the Mishnah *sofer* is the working scribe (Shabbos 12:5, Pesachim 3:1, Gittin
+3:1, 7:2, 8:8, 9:8, Bava Metzia 5:11, Sanhedrin 4:3, 5:5, Keilim 24:6, and see
+Nedarim 9:2), while the plural *sofrim* is often used of the earlier Sages
+(Orlah 3:9, Yevamos 2:4, 9:3, Sotah 9:15, Kiddushin 4:13, Sanhedrin 11:3, Keilim
+13:7, Parah 11:5-6, Taharos 4:7, 4:11, Tevul Yom 4:6, Yadayim 3:2). One Tanna
+does carry the appellation, Rabbi Yeshevav HaSofer, though it is not attached to
+his name in either Talmud but only in later sources: Midrash *Shocher Tov* to
+Tehillim 9, *Iggeres Rav Sherira Gaon*, and the *Eileh Ezkerah* kinah for the
+Ten Martyrs.
 
 But Chazal read the word from the "counting" sense of the root. The Gemara
 (Kiddushin 30a, Chagigah 15b, Yerushalmi Berachos 1:4) teaches that *sofer*
-means one who counts, and the early Sages are called *sofrim* because they
-counted the letters of the Torah. The Yerushalmi (Shekalim 5:1) gives a second
+literally means one who counts, and the early Sages are called *sofrim* because
+they counted the letters of the Torah. The column suggests, tentatively, that
+this may perhaps allude to a scribal practice attested among the later
+Masoretes, who used numbers to help fix the most accurate text of Tanach and to
+check their own work, and that perhaps the early Sages did something similar as
+guardians of the Written Torah. The Yerushalmi (Shekalim 5:1) gives a second
 account of the same title: they "counted" in the sense of drawing up numbered
 lists as a memory aid for involved halachos, and every example is a Mishnah that
 opens with a tally: five who may not separate terumah (Terumos 1:1), five grains
 obligated in challah (Challah 1:1), fifteen women who exempt their co-wives from
-yibum (Yevamos 1:1), thirty-six sins punishable by kares (Kerisus 1:1), four
-avos nezikin (Bava Kamma 1:1), thirty-nine melachos of Shabbos (Shabbos 7:2).
-On this reading the Sages took a scribal habit and applied it to Torah
-she'be'al peh.
+yibum (Yevamos 1:1), thirty-six sins punishable by kares (Kerisus 1:1), thirteen
+rules said about an unslaughtered kosher bird (Taharos 1:1), four avos nezikin
+(Bava Kamma 1:1), thirty-nine melachos of Shabbos (Shabbos 7:2). On this reading
+the Sages took a scribal habit and applied it to Torah she'be'al peh.
 
 ### lavlar (לבלר)
 Not a word of Tanach. It appears three times in the Mishnah: in the name Nachum
-HaLavlar (Peah 2:6), in the rule that a *lavlar* may not go out with his quill
-close to Shabbos (Shabbos 1:3), and in a man hiring a *lavlar* to write a get
-(Gittin 3:1). It is a loanword, from the Late Latin *libellarius* ("scribe"),
-itself from *libellus*, a small book; the Hebrew and the Latin terms are thus
-built the same way, each from its own language's word for a book.
+HaLavlar (Peah 2:6), who was apparently a scribe; in the rule that a *lavlar*
+may not go out with his writing quill close to the onset of Shabbos (Shabbos
+1:3); and in a man contracting a *lavlar* to write a get for his wife (Gittin
+3:1). Scholars agree it is a loanword, from the Late Latin *libellarius*
+("scribe"), which comes in turn from *libellus*, itself a diminutive of
+*liber*/*libri*, book. It could well be that the rabbis took the word through
+its Greek form *liblarios* (also spelled *libellavrio* or *liblavrio*) rather
+than straight from the Latin. The same family survives in English: *libel*,
+which originally meant a small book before it came to mean an accusatory
+statement; *library*, from the Latin *librarius*, itself from *liber*; and
+*leaf* in the sense of a page, whose plural *leaves* shows the connection.
+Modern linguists trace all of them to the Proto-Indo-European root
+*leup*/*leub*/*leubh*.
 
-That the two words are one in meaning is shown from three places. Rashi defines
+That the two words are used interchangeably shows in three places. Rashi defines
 each by the other (Sotah 20a, Gittin 67a, Bava Basra 21b). The Mishnah's ruling
 that a *sofer* who writes up a loan on interest transgresses along with the
 lender (Bava Metzia 5:11) is repeated in the Tosefta (Bava Metzia 6:17) with
 *lavlar* in its place. And while Targum normally renders *sofer* by the
 Aramaicized *safra*, Rabbi Eliyahu HaBachur notes in *Meturgaman* that in one
-place (Targum to Esther 3:12) it renders *sofer* as *lavlar*.
+place (Targum to Esther 3:12) it renders *sofer* as *lavlar*. Whether that
+settles the *meaning* is the open question set out above.
 
-On the vowels: the common *lavlar* looks to be a slip. The Kaufmann manuscript
-of the Mishnah, the earliest vocalized one, reads *livlar*, and the Yerushalmi
-(Gittin 3:1, Bava Metzia 1:4) spells the word with a yud after the lamed, which
-points to a chirik rather than a patach.
+On the vowels: the popular *lavlar*, for all that prominent works use it, looks
+to be a mispronunciation. The Kaufmann manuscript of the Mishnah, the earliest
+vocalized one, reads *livlar*, and the Yerushalmi (Gittin 3:1, Bava Metzia 1:4)
+spells the word with a yud after the lamed, which points to a chirik rather than
+a patach. The column compares Bisyah (Divrei HaYamim I 4:18) and Milkah
+(Bereishis 11:29 and elsewhere), pointed in Tanach with a chirik under the first
+letter yet somehow become Basyah and Malkah with a patach. It also allows the
+possibility that the rabbis altered the pronunciation on purpose in taking the
+word over, so as to say *lavlar* rather than *libler* or something nearer the
+foreign original.
+
+### The shape of the two words
+The Hebrew and the Latin words for a scribe are built alike, each on its own
+language's word for a book (*sofer* and *sefer*, *libellarius* and *liber*).
+The Germanic languages do it differently, building their word for a scribe on
+the verb "to write": English *scribe*, Yiddish and German *schreiber*, neither
+cognate with the word for a book. The column notes the bevy of English relatives
+of the Germanic form (*scrivener*, *scribble*, *describe*, *transcribe*,
+*prescribe*, *subscribe*, *ascribe*, *inscribe*, *proscribe*, *serif*, *script*,
+*manuscript*), and closes with a point of Jewish genealogy: among the countless
+descendants of Rabbi Moshe Sofer, author of the *Chasam Sofer*, some branches
+carry the surname Sofer and others the surname Schreiber, which mean exactly the
+same thing, one in Hebrew and one in Yiddish.
 
 ## Rendering guidance
 
@@ -90,15 +167,29 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "Bishalach: Scribal Culture," What's in a Word?, Ohr
 Somayach (2023-02-04): raw text in
-`sources/whats-in-a-word/raw/10818-bishalach-scribal-culture.md`. Primary loci:
-Shoftim 5:14 (*mosh'chim b'shevet sofer*); Kiddushin 30a, Chagigah 15b,
-Yerushalmi Berachos 1:4, Yerushalmi Shekalim 5:1; Mishnah Peah 2:6, Shabbos
-1:3, Gittin 3:1, Bava Metzia 5:11 with Tosefta Bava Metzia 6:17; Rashi to Sotah
+`sources/whats-in-a-word/raw/10818-bishalach-scribal-culture.md` (ohr.edu's
+stored body is truncated; the closing paragraph is restored there from the
+author's own mirror, so the article is read here in full). Primary loci:
+Shoftim 5:14 (*mosh'chim b'shevet sofer*); the *sofer* appellations listed in
+the body; Tehillim 45:2, Yirmiyahu 8:8, Yechezkel 9:2-3; Kiddushin 30a, Chagigah
+15b, Yerushalmi Berachos 1:4, Yerushalmi Shekalim 5:1 with its Mishnah lists;
+Mishnah Peah 2:6, Shabbos 1:3, Gittin 3:1, Bava Metzia 5:11 with Tosefta Bava
+Metzia 6:17; Yerushalmi Gittin 3:1 and Bava Metzia 1:4; Rashi to Sotah
 20a, Gittin 67a, Bava Basra 21b; Rabbi Eliyahu HaBachur, *Meturgaman*, on
-Targum to Esther 3:12.
+Targum to Esther 3:12; Blau, *Studien zum althebräischen Buchwesen und zur
+Biblischen Litteratur- und Textgeschichte*; Krauss, *Talmudische Archäologie*.
+For the root ס-פ-ר the article refers the reader to five of its own earlier
+pieces: "When Just Counting Doesn't Count" (May 2017), "Telling the Story"
+(April 2019), "Between Books and Scrolls" (February 2022), "Haircut Time" (April
+2022), and "The Shofar's Horn" (September 2022).
 
-The article's one proposed difference in meaning (that *sofer* names an official
-scribe holding a post while *lavlar* covers any freelance scribe, or that the
-loanword carries a more formal ring) rests on two academic works, and is omitted
-here under house rule 9; so are the Proto-Indo-European derivations it gives for
-*libellus* and its English relatives.
+Two loci in the article are corrected here rather than repeated. It gives Shva
+the scribe at Shmuel II 2:25; the pasuk is 20:25. It gives Yonasan the scribe at
+Yirmiyahu 36:15 and 36:20; those pesukim are about Elishama's chamber, and
+Yonasan's house is at 37:15 and 37:20.
+
+The Blau and Krauss dispute over whether the two words differ in meaning, and
+the Latin, Greek and Proto-Indo-European material behind *libellarius*, were
+formerly omitted here under an Orthodox-sources rule that does not belong to
+this guide. Both are restored, attributed as the column attributes them. The
+omission had removed the article's own answer to the question it opens with.

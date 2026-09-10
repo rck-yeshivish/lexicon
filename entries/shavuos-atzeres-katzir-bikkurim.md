@@ -1,9 +1,9 @@
 ---
 cluster: names of Shavuos
-hebrew: [שבועות, עצרת, קציר, ביכורים, חמישים, קהל]
+hebrew: [שבועות, עצרת, קציר, ביכורים, חמישים, קהל, טנא]
 roots: [ש-ב-ע, ע-צ-ר, ק-צ-ר, ב-כ-ר, ק-ה-ל]
-translit: [shavuos, shavuot, chag hashavuos, chag hashavuot, atzeres, atzeret, asartha, chag hakatzir, katzir, katzeer, bikkurim, yom habikkurim, yom hachamishim, yom hakahal, shavua, shavuim]
-english: [Festival of Weeks, Assembly, Festival of the Harvest, Day of the First Fruits, the Fiftieth Day, Day of the Congregation]
+translit: [shavuos, shavuot, chag hashavuos, chag hashavuot, atzeres, atzeret, asartha, chag hakatzir, katzir, katzeer, bikkurim, yom habikkurim, yom hachamishim, yom hakahal, chag hatene, tene, shavua, shavuim]
+english: [Festival of Weeks, Assembly, Festival of the Harvest, Day of the First Fruits, the Fiftieth Day, Day of the Congregation, Festival of the Basket]
 domain: ritual
 words:
   - he: שבועות
@@ -18,7 +18,7 @@ words:
   - he: קציר
     tr: Chag HaKatzir
     en: Festival of the Harvest
-    distinct: Shemos 23:16; the wheat harvest, which ran exactly seven weeks (Rashi to Yirmiyahu 5:24)
+    distinct: Shemos 23:16; Shavuos falls in the grain harvest, wheat in particular, and the grain harvest ran exactly seven weeks (Rashi to Yirmiyahu 5:24)
   - he: ביכורים
     tr: Yom HaBikkurim
     en: Day of the First Fruits
@@ -29,8 +29,8 @@ words:
     distinct: Devarim 18:16, the Torah's name for the day of Matan Torah, and the ground for reading Atzeres as gathering (Rabbi Dovid Tzvi Hoffmann)
 sources:
   - wiaw:7758 "Stop! It's Shavuot!" (2018-05-19) https://articles.ohr.edu/articles/stop-itas-shavuot
-authorities: [Midrash Lekach Tov (Rabbi Tuviah ben Eliezer), Ramban, Rabbi Chaim Elazar Shapiro (Munkatcher Rebbe), Rabbi Moshe Zacuto, Kedushas Levi (Rabbi Levi Yitzchak of Berditchev), Rabbi Dovid Tzvi Hoffmann, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Abramsky, Rabbi Baruch Epstein, Rashi]
-status: draft
+authorities: [Midrash Lekach Tov (Rabbi Tuviah ben Eliezer), Ramban, Rabbi Chaim Elazar Shapiro (Munkatcher Rebbe), Rabbi Moshe Zacuto, Kedushas Levi (Rabbi Levi Yitzchak of Berditchev), Rabbi Dovid Tzvi Hoffmann, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Abramsky, Rabbi Baruch Epstein, Rashi, Josephus, Philo Judaeus]
+status: reviewed
 updated: 2026-09-10
 ---
 # Names of Shavuos: Shavuos / Atzeres / Chag HaKatzir / Yom HaBikkurim
@@ -38,7 +38,9 @@ updated: 2026-09-10
 ## Bottom line
 
 Three names are the Torah's: **Shavuos**, Festival of Weeks; **Chag HaKatzir**,
-Festival of the Harvest; **Yom HaBikkurim**, Day of the First Fruits. **Atzeres**
+Festival of the Harvest; **Yom HaBikkurim**, Day of the First Fruits. Three more
+are post-Biblical: **Yom HaChamishim**, the Fiftieth Day; **Chag HaTene**,
+Festival of the Basket; and **Asartha**, the Aramaic of **Atzeres**. *Atzeres*
 is the name of Chazal and the one the Mishnah and Gemara normally use, though the
 Torah never applies it to this yom tov. Render *Atzeres* by its sense, either
 **Assembly** or **Conclusion** depending on the reading a passage follows, and
@@ -50,64 +52,105 @@ say which. Do not translate *Shavuos* as "Pentecost."
 |---|---|---|---|
 | שבועות | Shavuos | Festival of Weeks | the date is counted, not dated (Shemos 34:22) |
 | עצרת | Atzeres | Assembly, Conclusion | Rabbinic; sense disputed |
-| קציר | Chag HaKatzir | Festival of the Harvest | the wheat harvest season (Shemos 23:16) |
+| קציר | Chag HaKatzir | Festival of the Harvest | the grain harvest season (Shemos 23:16) |
 | ביכורים | Yom HaBikkurim | Day of the First Fruits | first day bikkurim may be brought (Bamidbar 28:26) |
 | קהל | Yom HaKahal | Day of the Congregation | the Torah's name for Matan Torah (Devarim 18:16) |
+| טנא | Chag HaTene | Festival of the Basket | post-Biblical; the baskets the bikkurim came in (Philo) |
 
 ## Where the authorities disagree
 
-**Whether *Atzeres* means conclusion.** The Munkatcher Rebbe, Rabbi Chaim Elazar
-Shapiro: *atzeres* is "stop," and here "the end," so Shavuos concludes Pesach as
-Shemini Atzeres concludes Succos, which is why Rabbinic literature can call it
-"the Atzeres of Pesach" (see Ramban to Vayikra 23:36, and Rabbi Moshe Zacuto).
-The *Kedushas Levi* makes both names one thought: *Shavuos* completes the weeks
-from Pesach, *Atzeres* completes Pesach. Rabbi Dovid Tzvi Hoffmann rejects this,
-there being no evidence that *atzeres* concerns conclusions; he and Rabbi Yaakov
-Tzvi Mecklenburg read it as "gathering," pointing to Devarim 18:16, where the day
-of Matan Torah is called *Yom HaKahal*. The Bottom line keeps both, the choice
-governing the English word.
+**Whether *Atzeres* means conclusion.** Rabbi Chaim Elazar Shapiro of Munkatch
+(1868-1937): *atzeres* means "stop," as Israeli stop signs read *atzor*, and here
+denotes "the end" of something, so Shavuos is the conclusion of Pesach as
+*Shemini Atzeres* is the conclusion of Succos, which is why Rabbinic literature
+sometimes calls Shavuos "the *Atzeres* of Pesach." The column adds that Ramban
+(to Vayikra 23:36) offers a similar idea, and that Rabbi Moshe Zacuto (1625-1697)
+adopts a related approach; neither is credited with the Munkatcher's own
+formulation. The *Kedushas Levi*, Rabbi Levi Yitzchak of Berditchev (1740-1810),
+likewise makes both names one thought, each viewing the yom tov as completing a
+span of time: *Shavuos* completes the weeks leading up from Pesach, *Atzeres* is
+the festive finale of Pesach itself. Rabbi Dovid Tzvi Hoffmann (1843-1921)
+rejects this, arguing there is no evidence that *atzeres* is associated with
+conclusions; he and Rabbi Yaakov Tzvi Mecklenburg (1785-1865) favor "gathering"
+or "congregating," pointing to Devarim 18:16, where the day the Torah was given
+is called *Yom HaKahal*, so that Chazal's name echoes a phrase the Torah had
+already used for that very day. The Bottom line keeps both, the choice governing
+the English word.
 
 **Two further readings of *Atzeres*.** The *Kedushas Levi* also reads it from
-restraint: inspiration slips away unless contained in some worldly vessel, and at
-Sinai Yisrael had no mitzvos yet to serve as one except the command to hold back
-from touching the mountain, so *Atzeres* means both "stop" and "store up." Rabbi
-Yechezkel Abramsky reads it from the absence of a positive mitzvah: the two days
-the Torah calls *Atzeres*, the eighth of Succos (Vayikra 23:36) and the seventh
-of Pesach (Devarim 16:8), are the only yamim tovim with no act commanded, only
-refraining from melachah. Shavuos had the two loaves and two goats while the Beis
-HaMikdash stood (Vayikra 23:16-20); once that lapsed it too was left with
-refraining alone, and the name followed.
+restraint: a spark of inspiration to love or awe of Hashem is easily lost unless
+it is contained in a worldly receptacle, and a mitzvah done straight after the
+inspiration serves as that vessel. At Sinai Yisrael had no mitzvos yet to serve
+so, except the command to refrain from touching the mountain, and by keeping that
+they fashioned a vessel in which the inspiration of Sinai could be stored
+forever. *Atzeres* therefore carries both senses at once, "stop" (refrain from
+the mountain) and "gather" (gather the inspiration into its container). Rabbi
+Yechezkel Abramsky (1886-1976) reads the name from the absence of a positive
+mitzvah: the two days the Torah calls *Atzeres*, the eighth of Succos (Vayikra
+23:36, Bamidbar 29:35) and the seventh of Pesach (Devarim 16:8), are the only
+yamim tovim with no act commanded, only refraining from melachah, unlike lulav on
+Succos, matzah on Pesach, shofar on Rosh Hashanah and the fast of Yom Kippur.
+Shavuos had its own act, the two goats and two leavened loaves (Vayikra
+23:16-20), while the Beis HaMikdash stood; once the First Beis HaMikdash was
+destroyed and that lapsed, Shavuos too was left with refraining alone, and in
+later times people began to call it *Atzeres*. The column notes that the
+*Kedushas Levi* also writes that Shavuos is called *Atzeres* because it carries
+only the prohibition of work and no other mitzvah.
 
-**Whether the name is warranted at all.** *Midrash Lekach Tov* (Rabbi Tuviah ben
-Eliezer) searched the parshiyos of the moadim and found *atzeres* used for other
-days but never for Shavuos. He upholds it from Targum to Bamidbar 28:26, which
-renders *b'shavuoseichem* as *b'atzarteichon*.
+**Whether the name is warranted at all.** *Midrash Lekach Tov* (also called
+*Pesikta Zutrata*), by the eleventh-century Rabbi Tuviah ben Eliezer, notes that
+he examined the parshiyos of the moadim and did not once find *atzeres*
+associated with Shavuos; the word does appear for other days, the eighth of
+Succos and the seventh of Pesach. He nonetheless concludes that *atzeres* is a
+fitting name, because Targum to Bamidbar 28:26 renders *b'shavuoseichem* as
+*b'atzarteichon*, which shows that *atzeres* is somehow an Aramaic rendering of
+*Shavuos*, though the column notes that in other places the Targumim do render
+the word *Shavuos* itself into Aramaic.
 
-**Why the Torah's names fell out of use.** Rabbi Baruch Epstein: with exile from
-the Land, harvest and bikkurim were no longer live, so *Chag HaKatzir* and *Yom
-HaBikkurim* fell away. For *Shavuos* itself an explanation is recorded that
-"weeks" could be heard as calendar weeks beginning on Sunday, the Sadducean
-reckoning of the Omer, and Chazal used *Atzeres* to avoid conceding it; that
-controversy long dead, the Torah's name is used again.
+**Why the Torah's names fell out of use.** Rabbi Baruch Epstein (1860-1941): once
+Yisrael was exiled from the Land and working it was no longer central to their
+lives, *Chag HaKatzir* and *Yom HaBikkurim* fell away, those elements of the yom
+tov having become impossible to fulfill. Why *Shavuos* itself was dropped, which
+has nothing to do with agriculture, the column answers anonymously: some explain
+that since *shavuos* means "weeks," the name may lend credence to the heretical
+Sadducean view that the Omer count always begins on a Sunday and Shavuos
+therefore always falls on a Sunday, after seven complete calendar weeks; Chazal
+discontinued the name to avoid the appearance of supporting that view. Now that
+the Sadducees are no longer a force, the column concludes, we can revert to the
+Torah's own name.
 
 ## Distinctions
 
 ### Shavuos (שבועות)
-Shemos 34:22; Devarim 16:10, 16:16; Divrei HaYamim II 8:13. The Torah gives no
-calendar date, only a count of seven weeks from Pesach; the commentators explain
-that at that season many were camped in their fields and would not know when the
-Sanhedrin had declared Rosh Chodesh Sivan, while everyone knew when Pesach fell.
-*Shavua* means both a seven-day week, plural *shavuos*, and a seven-year
-shemittah cycle, plural *shavuim*; Rashi to the Gemara sometimes writes *shavuim*
-for weeks.
+*Chag Shavuos* at Shemos 34:22 and Devarim 16:10, *Chag HaShavuos* at Devarim
+16:16 and Divrei HaYamim II 8:13. The Torah gives no calendar date, only a fixed
+formula of seven weeks from Pesach; the commentators explain that at that season
+many were camped out in their fields, away from the towns, and so would not know
+when the Sanhedrin had declared Rosh Chodesh Sivan, while those in the field
+certainly knew when Pesach fell and had only to count. *Shavua* means both a
+seven-day period, plural *shavuos* in Biblical Hebrew, and a seven-year shemittah
+cycle, plural *shavuim*; the column notes that for some reason Rashi in his
+commentary to the Gemara sometimes writes *shavuim* for weeks.
 
 ### Chag HaKatzir (קציר) and Yom HaBikkurim (ביכורים)
-Shemos 23:16 names the yom tov for the wheat harvest, which is why the people
-were in the fields; Rashi to Yirmiyahu 5:24 notes that the grain harvest ran
-exactly seven weeks. Bamidbar 28:26 names it for the bikkurim (Devarim 26:1-11),
-and *Bikkurim* 1:3 fixes Shavuos as the first day they may be brought. A further
-post-Biblical name is *Yom HaChamishim*, the Fiftieth Day of Sefiras HaOmer,
-from which the word "Pentecost" comes.
+Shemos 23:16 names the yom tov for the harvest, which is why the people were in
+the fields: Shavuos always falls when farmers are harvesting grain, wheat in
+particular. Rashi to Yirmiyahu 5:24 notes that the harvest season for grain
+lasted exactly seven weeks. Bamidbar 28:26 names it *Yom HaBikkurim* for the
+first fruits that halachah requires be brought to the Beis HaMikdash (Devarim
+26:1-11), and the Mishnah (*Bikkurim* 1:3) teaches that Shavuos is the first day
+on which they may be brought.
+
+### The three post-Biblical names
+*Yom HaChamishim*, literally "the Fiftieth Day," is used by Josephus and other
+Jewish-Hellenistic sources, fitting because Shavuos always falls on the fiftieth
+day of Sefiras HaOmer; the English word "Pentecost" derives from it. *Chag
+HaTene*, "Festival of the Basket," was apparently Philo Judaeus of Alexandria's
+name for it, alluding to the baskets in which the bikkurim were brought.
+*Asartha*, which Josephus records in *Antiquities of the Jews* (Book III) as
+what the Jews customarily called the day, is the Aramaic of *Atzeres*, meaning a
+festive gathering or a stoppage from work. The Mishnah and Gemara generally call
+Shavuos *Atzeres* rather than Shavuos.
 
 ## Rendering guidance
 
@@ -129,13 +172,17 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "Stop! It's Shavuot!," What's in a Word?, Ohr Somayach,
-5 Sivan 5778 (2018-05-19): https://articles.ohr.edu/articles/stop-itas-shavuot;
-raw text in
-`sources/whats-in-a-word/raw/7758-stop-itas-shavuot.md`. Primary loci: Shemos
-23:16, 34:22; Vayikra 23:16-20, 23:36; Bamidbar 28:26, 29:35; Devarim 16:8,
-16:10, 16:16, 18:16, 26:1-11; Divrei HaYamim II 8:13; Rashi to Yirmiyahu 5:24;
-*Mishnah Bikkurim* 1:3; Targum to Bamidbar 28:26; *Midrash Lekach Tov* (*Pesikta
-Zutrasa*); Ramban to Vayikra 23:36. The article's citations of Hellenistic-Jewish
-writers for the post-Biblical names *Yom HaChamishim*, *Chag HaTene* and
-*Asartha* are omitted under the house rule limiting sources to Torah
-authorities; the names themselves are recorded above.
+for the week ending 19 May 2018 / 5 Sivan 5778: raw text in
+`sources/whats-in-a-word/raw/7758-stop-itas-shavuot.md`. Primary loci the article
+cites: Shemos 23:16, 34:22; Vayikra 23:16-20, 23:36; Bamidbar 28:26, 29:35;
+Devarim 16:8, 16:10, 16:16, 18:16, 26:1-11; Divrei HaYamim II 8:13; Rashi to
+Yirmiyahu 5:24; *Mishnah Bikkurim* 1:3; Targum to Bamidbar 28:26; *Midrash Lekach
+Tov* (*Pesikta Zutrata*); Ramban to Vayikra 23:36; Josephus, *Antiquities of the
+Jews*, Book III. The article gives no locus for the Munkatcher Rebbe, the
+*Kedushas Levi*, Rabbi Zacuto, Rabbi Hoffmann, Rabbi Mecklenburg, Rabbi Abramsky
+or Rabbi Epstein, and none is supplied here. The Sadducean explanation for
+dropping the name *Shavuos* is given anonymously ("some explain") and is kept
+anonymous above. Restored in this pass, having previously been dropped from the
+body: Josephus for *Yom HaChamishim* and *Asartha*, and Philo Judaeus for *Chag
+HaTene*, both as the article attributes them, Philo with the article's own hedge
+"apparently."

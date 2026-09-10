@@ -13,8 +13,8 @@ words:
 sources:
   - wiaw:7768 "Razor's Edge" (2018-05-26) https://articles.ohr.edu/articles/razors-edge
 authorities: [Targum, Rashi, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Vayikra Rabbah]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Razor: taar / morah
 
@@ -24,10 +24,11 @@ updated: 2026-09-09
 (Bamidbar 6:5). *Morah* is the word the Neviim use in the same formula (Shoftim
 13:5, 16:17; Shmuel I 1:11), and it is contested: Radak renders it **razor**
 throughout, while Targum and Rashi render it **scissors** by Shimshon and
-**the fear of men** by Shmuel. No source distinguishes the two words where both
-mean a razor, and no source in the column draws one. So render both
-"razor" unless the passage is Shmuel I 1:11, where the reading itself is the
-question.
+**the fear of men** by Shmuel. The column's own conclusion is an admission: he
+has found no source that clearly explains the difference between the two words,
+and has been unable to work out why the Torah says *taar* and the Neviim say
+*morah*. So render both "razor" unless the passage is Shmuel I 1:11, where the
+reading itself is the question.
 
 ## Distinctions
 
@@ -38,16 +39,23 @@ a sword's scabbard: as the razor takes off the hair and lays the skin bare, so
 the sword appears suddenly when it is drawn out.
 
 ### morah (מורה)
-The word in the Neviim for the same prohibition. Three etymologies are offered.
-Rashi (to Shoftim 13:5) ties it to י-ר-ה, "shoots" or "throws away," since the
-razor throws the hair off. Rabbi Shlomo Pappenheim takes the root as מ-ר,
-transferring or switching, the root of *temurah* (transferring *kedushah* from
-one animal to another) and *mumar* (one who leaves Torah for another religion):
-shaving away hair clears the way for new hair to replace it. And *Vayikra
-Rabbah* 10:5 hears "fear" in it: why is the *taar* called a *morah*? Because
-hair fears (*morah*) only the razor, which shaves it with a shaving of
-destruction, as it says "do not destroy the corner of your beard" (Vayikra
-19:27).
+The word in the Neviim for the same prohibition. The column reports that linguists
+admit they do not know its etymological source, though some suggest that its
+original root is also ע-ר-ה, with the initial *ayin* dropped, which would put it
+with *taar* on Rav Hirsch's reading. Two further etymologies are given. Rashi (to
+Shoftim 13:5) ties *morah* to י-ר-ה, "shoots" or "throws away," because the razor
+throws the hair away, so to speak. Rabbi Shlomo Pappenheim takes the root as מ-ר,
+transferring or switching, the root of *temurah* (which attempts to transfer
+*kedushah* from one animal to another) and *mumar* (one who rejects Judaism and
+switches to another religion): shaving away hair paves the way for a new batch to
+replace what was cut.
+
+*Vayikra Rabbah* 10:5 hears "fear" in the word: why is the *taar* called a
+*morah*? Because hair is scared (*morah*) only of the razor, which shaves it with
+a shaving of destruction, as it says "do not destroy the corner of your beard"
+(Vayikra 19:27). The column says the deeper meaning of this Midrash seems
+obscured, and treats it as an opening for the discussion rather than as a settled
+etymology.
 
 ### The dispute at Shmuel I 1:11
 Targum (to Shoftim 13:5 and 16:17) renders *morah* as scissors by Shimshon, and
@@ -87,5 +95,10 @@ Sivan 5778 (2018-05-26): raw text in
 6:5; Shoftim 13:5 and 16:17; Shmuel I 1:11; Vayikra 19:27; *Vayikra Rabbah*
 10:5; *Nazir* 66a (Rabbi Yossi against Rabbi Nehorai); Targum and Rashi to
 Shoftim 13:5, 16:17 and Shmuel I 1:11; Radak there; Rav Hirsch to Bamidbar 6:5.
-The article's unattributed suggestion that *morah* derives from ע-ר-ה with the
-ayin dropped is omitted here under the Orthodox-sources rule.
+Restored 2026-09-10 from an earlier omission note: the article's report that
+linguists do not know the etymology of *morah*, and the unattributed suggestion
+that its original root is ע-ר-ה with the initial *ayin* dropped, had been dropped
+under the Orthodox-sources rule and are now in the body. With that restored, a
+line counting "three etymologies" for *morah* no longer held and has been
+rewritten. The article is dedicated *l'iluy nishmas* the author's mother, Bracha
+bas R' Dovid, and his grandmother, Shprintza bas R' Meir.

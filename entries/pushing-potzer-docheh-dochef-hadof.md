@@ -224,9 +224,9 @@ Yeshayahu 11:12, 27:13; Yirmiyahu 23:12; Tehillim 50:20, 56:14, 116:8, 118:13,
 140:12; Mishlei 14:32, 26:28; Shir HaShirim 5:2; Esther 3:15, 6:12, 8:14; Divrei
 HaYamim II 26:20; *HaKsav VeHaKabbalah* to Bereishis 19:9; Malbim, *Yair Ohr*;
 Abudarham to the *vidui*; Ramban's responsa printed under *Rashba* §127.
-Also *Machberes* lexicographers Menachem Ibn Saruk, Ibn Janach and Radak on
-ד-ח-פ; Rabbi Shlomo Pappenheim's *dofan* list (the article's runs through some
-two dozen tractates); Norbert Pearlroth, *The Indiana Jewish Post*, 29 March
+Also Menachem Ibn Saruk, Ibn Janach and Radak on ד-ח-פ; Rabbi Shlomo Pappenheim's
+*dofan* list (the entry gives a sample; the article's runs through some two dozen
+tractates); Norbert Pearlroth, *The Indiana Jewish Post*, 29 March
 1946, p. 8, and David L. Gold, there, 31 October 1990, p. 16. Two citation slips
 in the article are corrected here: *dofi* is Tehillim 50:20 (the article prints
 50:2, both where it cites Pappenheim and where it cites Rashi), and *kol dodi
