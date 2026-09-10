@@ -19,3 +19,10 @@ scratch/
 # or an entries-only mirror is split out, that directory must be excluded first:
 # it is Rabbi Reuven Chaim Klein's and Ohr Somayach's copyright, held here for
 # research use only.
+
+# Generated site. Rebuilt by `python tools/build_site.py`, so it is output, not
+# source, and committing it would bury real changes under 342 regenerated pages.
+# It is also what gets deployed, and deploying only this folder is what keeps
+# the copyrighted corpus off the web.
+site/
+dist/
