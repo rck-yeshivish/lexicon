@@ -621,9 +621,16 @@ header.bare .brand{flex:1}
 .meth{color:var(--faint);font-size:14px;font-weight:500;white-space:nowrap}
 .meth:hover{color:var(--ink);text-decoration:none}
 .meth.on{color:var(--ink)}
-.seg a{padding:5px 13px;border-radius:7px;font-size:14px;color:var(--dim);font-weight:500}
-.seg a:hover{text-decoration:none;color:var(--ink)}
+.seg a{position:relative;padding:5px 14px;border-radius:7px;font-size:14px;color:var(--dim);font-weight:500}
+.seg a:hover{text-decoration:none;color:var(--ink);background:rgba(255,255,255,.55)}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+/* A hairline between the two segments. On an entry page neither is selected,
+   and without it "Hebrew" and "English" were two identical grey labels 2px
+   apart that read as one phrase. It hides beside a selected segment, as a
+   segmented control does, since the raised pill already separates them. */
+.seg a+a::before{content:"";position:absolute;left:-1px;top:22%;bottom:22%;width:1px;
+  background:var(--faint);opacity:.45}
+.seg a.on::before,.seg a.on+a::before{opacity:0}
 
 /* home -------------------------------------------------------------------- */
 .hero{padding:64px 0 30px;text-align:center}
