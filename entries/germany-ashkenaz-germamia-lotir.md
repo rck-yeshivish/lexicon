@@ -21,7 +21,7 @@ words:
   - he: אלמניא
     tr: almenia
     en: Alemannia, Germany
-    distinct: from the Alamanni confederacy, behind French Allemagne and Spanish Alemania; used mainly by the meforshim of Spain and Provence, Radak among them
+    distinct: from the Alamanni confederacy, behind French Allemagne and Spanish Alemania; used mainly by the meforshim of Spain and France, Radak among them
   - he: גומר
     tr: gomer
     en: Gomer

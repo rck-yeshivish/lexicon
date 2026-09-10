@@ -7,24 +7,30 @@ english: [turban, headdress, cap, helmet, sash, girdle, belt, waistband]
 domain: ritual
 sources:
   - wiaw:7195 "Hats and Belts" (2017-03-25) https://articles.ohr.edu/articles/hats-and-belts
-authorities: [Meiri, Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban, Tosafos HaRosh, Malbim]
-status: draft
-updated: 2026-09-09
+authorities: [Meiri, Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban, Tosafos HaRosh, Malbim, Josephus]
+status: reviewed
+updated: 2026-09-10
 ---
 # Hat and belt: migbaas / mitznefes / kova; avnet / chagor / eizor
 
 ## Bottom line
 
 *Migbaas* is the ordinary *kohen*'s **headdress**, *mitznefes* the *kohen
-gadol*'s **turban**, and *kova* a **helmet**, not a hat at all: every one of its
-six appearances in *Tanach* is a soldier's. For belts, *avnet* is the **sash**
-of the priestly service, *chagor* the general **belt** for anything that goes
-around the body, and *eizor* the **girdle** at the waist, worn by strong men.
-Rashi and Ramban hold *migbaas* and *mitznefes* are simply two names for one
-hat; the majority read them as two different hats, and that is the safer
-default.
+gadol*'s **turban**, and *kova* possibly not a hat at all but a **hard hat** or
+**helmet**: every one of its six appearances in *Tanach* is a soldier's. For
+belts, *avnet* is the **sash** of the priestly service, *chagor* the general
+**belt** for anything that goes around the body, and *eizor* the **girdle** at
+the waist, worn by strong men. Rashi and Ramban maintain that *migbaas* and
+*mitznefes* were the same type of hat and are indeed synonyms; the other sources
+in the article distinguish them, and taking them as two is the safer default.
 
 ## Distinctions
+
+The setting: the regular *kohen* wears four garments, pants, a belt, a hat and a
+tunic; the *kohen gadol* wears four more, a breastplate, an apron, a robe and a
+head-plate (Mishnah Yoma 7:5). Some explain that the *kohen gadol*'s clothes
+differ from the regular *kohen*'s in that they do not wear the same type of hat,
+and by some opinions not the same type of belt either.
 
 ### migbaas (מגבעת)
 Root ג-ב-ע. The Meiri ties *migbaas* to *kova* (roots ג-ב-ע and כ-ב-ע) because
@@ -39,14 +45,25 @@ Root צ-נ-ף. The Meiri: an especially long cloth that the *kohen gadol* winds
 The Vilna Gaon says the same, against the pre-sewn *migbaas*. Others hold both
 were wrapped, and the *mitznefes* is distinguished by reaching down to the
 beard. Rambam has it encircling the perimeter of the head without covering it.
-*Tosafos HaRosh* (Yoma 71b) links *mitznefes* to *tznif*, the royal diadem, so
-the word carries the honor of the wearer rather than the form of the cloth.
+*Tosafos HaRosh* (Yoma 71b) links *mitznefes* to *tznif*, which alludes to the
+honor of wearing a royal diadem.
+
+Against all of these, Rashi and Ramban maintain that *migbaas* and *mitznefes*
+were both the same type of hat and are simply synonyms. Here the column brings
+Josephus, who writes that the regular *kohen* wore a "Masnaemphthes," a
+Greekized *mitznefes*, describing it as a cap that does not come to a point and
+does not encircle the whole head, a crown-like bonnet covering most of the head
+but not all of it. On that view, the column suggests, one may argue that even if
+*migbaas* and *mitznefes* name the same hat they recall different elements of
+it: *migbaas* denotes the hat-like form of the thing, while *mitznefes* focuses
+on the honor that wearing it brings, in line with *Tosafos HaRosh* on *tznif*.
 
 ### kova (כובע)
 Root כ-ב-ע. The everyday word for a hat in Modern Hebrew, but in *Tanach* it
 appears six times and always as part of a warrior's kit (Shmuel I 17:5,
 Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II
-26:14). Render it "helmet."
+26:14), so that it possibly should not be rendered "hat" at all but "hard hat"
+or even "helmet."
 
 ### avnet (אבנט)
 Malbim: a belt worn for ritual purposes, which is why it is the belt of the
@@ -63,8 +80,9 @@ sense.
 Root א-ז-ר. Malbim: specifically the belt at the waist, and one drawn tight.
 Because it is fastened tightly, girding an *eizor* becomes a figure for
 performing a feat of strength, and in *Tanach* it is worn only by mighty men,
-never by women or children. In post-Biblical usage *sinar* is a different item
-again, the belt Ezra instituted for women.
+never by women or children. In post-Biblical writings *sinar* is a different item
+again, a special belt Ezra instituted that women should wear, something like a
+chastity belt.
 
 ## Rendering guidance
 
@@ -79,8 +97,8 @@ again, the belt Ezra instituted for women.
   *eizor*, especially where the verse is using *eizor* for strength; there
   "girded" carries the metaphor and "belted" does not.
 - Where a source treats *migbaas* and *mitznefes* as one hat under two names,
-  the useful line is the Meiri's: *migbaas* names the shape, *mitznefes* names
-  the honor.
+  the useful line is the column's own: *migbaas* names the shape, *mitznefes*
+  names the honor (the honor half rests on *Tosafos HaRosh*).
 
 ## Notes for a project
 
@@ -93,6 +111,5 @@ Rabbi Reuven Chaim Klein, "Hats and Belts," What's in a Word?, Ohr Somayach,
 `sources/whats-in-a-word/raw/7195-hats-and-belts.md`. Primary loci: Mishnah Yoma
 7:5; Yoma 71b with *Tosafos HaRosh*; Shemos 28:4, 28:40; Shmuel I 17:5,
 Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II
-26:14 for *kova*. The article's citation of Josephus on the shape of the
-priestly cap is left out here as a non-traditional source (house rule 9); the
-same point is available from the Meiri and *Tosafos HaRosh*.
+26:14 for *kova*; Josephus on the shape of the priestly cap, as the article
+cites him.

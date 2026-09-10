@@ -7,9 +7,9 @@ english: [honor, esteem, glory, precious, preciousness, rare, dear, costly]
 domain: society
 sources:
   - wiaw:11724 "Ki Sisa/Purim: Heavy Honors" (2025-03-15) https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors
-authorities: [Rabbi Eliyahu Bachur, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Malbim, Rabbi Avraham Vilner, Rabbi Benzion Meir Chai Uziel, Rabbi Baruch HaLevi Epstein, Rabbi Yosef Shaul Nathansohn, Yad Ramah, Maharsha, Aruch L'Ner, Rabbi Efrayim Zalman Margulies, Sfas Emes, Rabbi Zvi Hirsch Chajes]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Eliyahu Bachur, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Malbim, Rabbi Avraham Vilner, Rabbi Benzion Meir Chai Uziel, Rabbi Baruch HaLevi Epstein, Rabbi Yosef Shaul Nathansohn, Yad Ramah, Maharsha, Aruch L'Ner, Rabbi Efrayim Zalman Margulies, Sfas Emes, Rabbi Zvi Hirsch Chajes, Rabbi Eliezer Harstik, Rabbi Naftali Maskileison, Rabbi Dr. Ephraim Kanarfogel]
+status: reviewed
+updated: 2026-09-10
 ---
 # Honor: kavod / yakar
 
@@ -21,8 +21,10 @@ adjective and **esteem** or **preciousness** as a noun: value that comes from
 rarity and from the impact a thing makes (Rabbi Pappenheim; Malbim). In
 Megillas Esther the noun *yikar* is "esteem" or "honor". The authorities split
 on which of the two is inherent: Malbim gives that to *kavod*, Rabbi Avraham
-Vilner to *yakar*; follow Malbim, since it agrees with *yakar* meaning "rare"
-elsewhere. Read *yakar* by context: "rare" (Shmuel I 3:1), "costly" (Tehillim
+Vilner to *yakar*, and the column, having laid both out, says we are back to
+square one; it settles nothing. Our own working default, not the article's, is
+Malbim, since it agrees with *yakar* meaning "rare" elsewhere, but the split
+stands. Read *yakar* by context: "rare" (Shmuel I 3:1), "costly" (Tehillim
 116:15), "dear" (Yirmiyahu 31:19). Trap: "honor" for both when they sit in one
 passage.
 
@@ -46,7 +48,9 @@ one's importance relative to others.
 
 ### yakar (יקר)
 Root י-ק-ר: precious, expensive, honorable. Rabbi Eliyahu Bachur (*Sefer
-HaTishbi*): whatever is precious becomes expensive. Rabbi Pappenheim traces it to
+HaTishbi*): whatever is precious becomes expensive; the column adds that supply
+and demand says the same, the rarer a thing the higher its price. Rabbi
+Pappenheim, explaining the initial yod as radical, traces it to
 ק-ר, a strong impact from great weight or speed: the *yakar* thing makes an
 impact by its mere mention, as a precious gem (Yechezkel 27:22); the rare thing
 (prophecy in Shmuel's youth, Shmuel I 3:1) impresses more than the common one;
@@ -55,25 +59,53 @@ pious ones is *yakar* in Hashem's eyes" (Tehillim 116:15) means He is loath to
 let them die without cause. Malbim splits Rabbi Pappenheim's two senses between
 the two words: *yakar* is primarily "rare", importance that comes from
 circumstance, from having few equals (gems, precious metals), not from inherent
-worth. Rabbi Avraham Vilner: *yakar* is inherent value needing no comparison.
-In Esther the noun *yikar* is excellence, esteem: Achashverosh's display (1:4),
+worth. Rabbi Avraham Vilner, the Vilna Gaon's son, writes the exact opposite of
+Malbim: *yakar* is inherent value needing no comparison, and *kavod* is one's
+standing over against others. The column's own verdict on the pair is that this
+puts us back at square one.
+In Esther the noun *yikar* is excellence, esteem, honorableness: Achashverosh's
+display (1:4),
 wives giving *yikar* to husbands (1:20), the *yikar* due Mordechai (6:3, 6:6),
 and the Jews' *yikar* at the resolution (8:16).
 
 ### The Aramaic question
 Rabbi Eliyahu Bachur (*Meturgeman*): Targum renders כ-ב-ד, both "heavy" (Shemos
 4:10, 7:14; Shmuel II 14:26) and "honor" (Shemos 20:11; Shmuel I 2:29; Yeshayahu
-43:23), with Aramaic י-ק-ר; so one simple line is that *yakar* is *kavod* in
-Aramaic and the difference is linguistic, not semantic. Chazal lean that way:
-Megillah 9a proves Aramaic in Esther from *yikar* (1:20), and Sanhedrin 38b
-proves Adam spoke Aramaic from יקרו in Tehillim 139:17 (Yad Ramah, Maharsha to
-Bava Basra 75b, Aruch L'Ner). Rabbi Uziel objects that *yakar* is Hebrew too
-("precious"). Why 1:20 rather than 1:4: Rabbi Baruch HaLevi Epstein (*Safah
-LaNe'emanim*), several Aramaic words in one verse; Rabbi Nathansohn (*Beis
-Shaul* to Yadayim 4:5), an Aramaic word inflected as Hebrew; the question is
-also handled by *Beis Efrayim* OC 70, Sfas Emes and Maharatz Chajes to Megillah
-9a. A footnote of the column: Rabbeinu Yakar / Yakir was a medieval byname for
-Efrayim, from הבן יקיר לי אפרים (Yirmiyahu 31:19).
+43:23), with Aramaic י-ק-ר; so one simple line, which the column raises as a
+possibility, might be that *yakar* is *kavod* in Aramaic and the difference is
+linguistic, not semantic. The column at once names the problem with its own
+suggestion: י-ק-ר declines many times in Tanach, in stretches written in Hebrew,
+which makes it hard to say *yakar* is Aramaic only. In defense of the suggestion
+the column then points to a rabbinic tradition that treats *yakar* as
+quintessentially Aramaic: Megillah 9a proves there is Aramaic in Esther from
+*yikar* (1:20), and Sanhedrin 38b proves Adam spoke Aramaic from יקרו in Tehillim
+139:17, which the commentators read as the Aramaic word for "honorable" standing
+in for the Hebrew *kavod* (Yad Ramah to Sanhedrin 38b, Maharsha to Bava Basra
+75b, Aruch L'Ner to Sanhedrin 38b). Rabbi Uziel (glosses to Megillah 9a) objects
+to that reading of Sanhedrin: *yakar* exists in Hebrew too, where it means
+"precious." *Yad Ramah* himself offers an alternative elucidation of the sugya,
+that the Gemara's proof was from *re'echa*, "Your thoughts," which he takes as a
+cognate of the Aramaic *ra'ayon*, "idea." Why the Amora chose 1:20 and not 1:4,
+where *yikar* already appears: Rabbi Baruch HaLevi Epstein (*Safah LaNe'emanim*
+pp. 34-35), because one loanword proves nothing and only several foreign words in
+a single sentence show that a text "uses" the other language; Rabbi Nathansohn
+(*Beis Shaul* to Yadayim 4:5), because the Gemara wanted an Aramaic word inflected
+in Hebrew fashion, not merely a word of Aramaic etymology (see also Rabbi Naftali
+Maskileison, *Miskenos Naftali* to Yadayim 4:5); the question is also handled by
+Rabbi Efrayim Zalman Margulies (*Beis Efrayim*, *Orach Chaim* 70), Sfas Emes to
+Megillah 9a, Rabbi Zvi Hirsch Chajes in his glosses to Megillah 9a and Sanhedrin
+38b, and Rabbi Eliezer Harstik (*Raglei Mevasser* to *Sefer HaTishbi*).
+
+The column closes on names. Several medieval rabbanim were called Rabbeinu Yakar
+or Rabbeinu Yakir (*Tosafos* to Eruvin 40b, Avodah Zarah 68a, Chullin 47a),
+including the father of Rabbi Yaakov bar Yakar, Rashi's rebbi, and the father of
+Rabbi Yehuda ben Yakar, Ramban's. Scholars have argued that Yakar/Yakir was not
+a given name at all but a nickname for men named Efrayim, on הבן יקיר לי אפרים
+(Yirmiyahu 31:19); the column reports that Rabbi Dr. Ephraim Kanarfogel wrote to
+him privately that this does not hold across the board. There is a feminine
+counterpart, Yakirah. The punning is not unique: Rashi's grandson Rabbi Yaakov
+ben Meir was called Rabbeinu Tam for *ish tam* (Bereishis 25:27), and Rabbeinu
+Porat was really named Yosef, for *ben poras Yosef* (Bereishis 49:22).
 
 ## Rendering guidance
 
@@ -87,9 +119,9 @@ Efrayim, from הבן יקיר לי אפרים (Yirmiyahu 31:19).
 - In a Targum, Aramaic *yekara* simply is *kavod*: render "honor" or "glory".
 - Trap: "honor" absorbs both. When *kavod* and *yakar* appear together, hold
   "honor" for *kavod* and "esteem" or "preciousness" for *yakar*; Malbim's
-  inherent (*kavod*) against rare (*yakar*) is the safest gloss for a passage
-  that turns on the difference, but note Rabbi Avraham Vilner reads it the other
-  way.
+  inherent (*kavod*) against rare (*yakar*) is our working gloss for a passage
+  that turns on the difference, but Rabbi Avraham Vilner reads it the other way
+  and the column itself leaves the question open.
 - Second trap: "precious" as a term of endearment is *yakar* only; do not use it
   for *chaviv* or *ahuv*.
 
@@ -108,6 +140,13 @@ Shmuel I 2:29, Shmuel II 14:26, Yeshayahu 43:23; *Aholei Yehudah* on the liver
 with Berachos 60b; Rabbi Pappenheim, *Yerios Shlomo* introduction and *Cheshek
 Shlomo* on ק-ר, with Yechezkel 27:22, Shmuel I 3:1, Tehillim 116:15; Malbim,
 *Sefer HaCarmel* and *Yair Ohr*; *Be'er Avraham* to Esther 1:4; Megillah 9a and
-Sanhedrin 38b with Yad Ramah, Maharsha to Bava Basra 75b, Aruch L'Ner, and Rabbi
-Uziel's glosses; *Beis Efrayim* OC 70; *Safah LaNe'emanim* pp. 34-35; *Beis
-Shaul* to Yadayim 4:5; Yirmiyahu 31:19.
+Sanhedrin 38b with Tehillim 139:17, Yad Ramah to Sanhedrin 38b, Maharsha to Bava
+Basra 75b, Aruch L'Ner to Sanhedrin 38b, and Rabbi Uziel's glosses; *Beis
+Efrayim* OC 70; Sfas Emes and Maharatz Chajes to Megillah 9a and Sanhedrin 38b;
+*Raglei Mevasser* to *Sefer HaTishbi*; *Safah LaNe'emanim* pp. 34-35; *Beis
+Shaul* and *Miskenos Naftali* to Yadayim 4:5; Yirmiyahu 31:19; *Tosafos* to
+Eruvin 40b, Avodah Zarah 68a, Chullin 47a; Bereishis 25:27, 49:22. The article's
+remark that Yakar/Yakir was a byname for Efrayim it gives as the argument of
+unnamed scholars, qualified by Rabbi Dr. Ephraim Kanarfogel's private
+correspondence to the author that it does not hold across the board; both are
+carried here as the article carries them.

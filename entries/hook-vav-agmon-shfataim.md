@@ -7,22 +7,23 @@ english: [hook, hanger, hooked reed, ledge, hearth]
 domain: other
 sources:
   - wiaw:9565 "On Hooks and Hangers" (2022-02-05) https://articles.ohr.edu/articles/on-hooks-and-hangers
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashi, Rabbi Shlomo of Urbino, Abarbanel, Rabbi Eliezer of Beaugency, Targum Onkelos, Targum Yonasan]
-status: draft
-updated: 2026-09-09
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashi, Rabbi Shlomo of Urbino, Abarbanel, Rabbi Eliezer of Beaugency, Targum Onkelos, Targum Yonasan, Shadal, A. E. Silverstone]
+status: reviewed
+updated: 2026-09-10
 ---
 # Hook: vav / agmon / shfataim (ankliyot)
 
 ## Bottom line
 
-*Vav* is the plain Biblical word for a **hook**, the fittings of the Mishkan's
+There are seemingly three words for "hook" in Biblical Hebrew and one in
+Mishnaic. *Vav* seems to be the most basic, the fittings of the Mishkan's
 pillars, and it occurs nowhere else in Tanach. *Agmon* is a **hooked reed** or
 thistle, used as a fishhook and then for anything bent. *Shfataim* occurs once
 and is disputed: **hooks** (Targum, Rashi) or a **ledge or setting for pots**
-(Radak, Abarbanel). *Ankliyot* is the Mishnaic word, of Greek origin, the
-barbed part of a hook, and it is what Targum reaches for whenever it renders
-any of the others. Render *vav* "hook" and let the disputed words carry a gloss
-naming the machlokes.
+(Radak, Abarbanel). *Ankliyot* is the Mishnaic word, which appears to be a Greek
+loanword, the barbed part of a hook, and it is what Targum reaches for whenever
+it renders any of the others. Render *vav* "hook" and let the disputed words
+carry a gloss naming the machlokes.
 
 ## Distinctions
 
@@ -30,20 +31,44 @@ naming the machlokes.
 Thirteen appearances, all in the Mishkan chapters of Shemos (26, 27, 36, 38).
 Targum Onkelos never translates it; he leaves *vav* standing as *vav*. Menachem
 Ibn Saruk, Ibn Janach and Radak all take the root as ו-ו; Rabbi Shlomo
-Pappenheim inclines to the single letter ו. Rabbi Aharon Marcus argues that
-*vav* is not a root-word at all: the sixth letter is shaped like a hook, so the
-letter's name came to serve for "hook," and once Klal Yisrael entered Eretz
-Yisrael the usage was dropped, which is why the word appears nowhere else in
-Tanach. Rashi (to Shemos 27:10) glosses *vavim* as *ankliyot*.
+Pappenheim seems somewhat inclined to the single letter ו. Rabbi Aharon Marcus
+(1843-1916) supposes that *vav* is not a root-word at all: the sixth letter is
+shaped like a hook, much as the Arabic numerals 6 and 9 are, so the letter itself
+came to stand for "hook" in early Hebrew, without the word *vav* actually
+meaning "hook." He goes as far as to claim that the crude usage was abandoned
+once Klal Yisrael entered Eretz Yisrael, on the evidence that the word appears
+nowhere else in Tanach. Rashi (to Shemos 27:10) glosses *vavim* as *ankliyot*.
 
 ### ankliyot (אנקליות)
 The Mishnaic word (Pesachim 5:9, Tamid 3:5, Middos 3:5, Keilim 12:2-3),
-especially the barbed part of a hook. It is of Greek origin. Targum uses it to
-render *shfataim* at Yechezkel 40:43, where it is spelled with an initial ayin,
-and to render *agmon* at Iyov 40:26.
+especially the barbed part of a hook. It appears to be a Greek loanword, and the
+column reports it as related to the English *anchor*, *angle*, *angling*, *ankle*
+and *hang*: on the linguists' account Greek and English/Germanic both descend
+from Proto-Indo-European, and the forebear of the family is the PIE *ang*/*ank*,
+"to bend." Some scholars even trace to that word the name of the Angles, the
+Anglo-Saxon tribe behind the name England, arguing either that their homeland was
+a hook-shaped peninsula off the continent or that they were expert fishermen
+adept at angling; if so, *onkliyot* is also the ultimate etymon of the word
+*English*. Targum uses *ankliyot* to render *shfataim* at Yechezkel 40:43, where
+it is spelled with an initial ayin, and to render *agmon* at Iyov 40:26, at
+least there.
+
+The column adds a speculation of its own, that it began to wonder whether the
+Greek *onkliyot* is somehow related to the Greek personal name Onkelos, borne by
+the author of the Targum; a similar Greek name, Akylas, belonged to another
+famous translator of the Torah, and some have argued the two translators were one
+man. The question is treated at length in A. E. Silverstone's *Aquila and
+Onkelos* (Manchester University Press, 1970), which cites a letter Shadal wrote
+to the Maskilic scholar Rabbi Shlomo Yehuda Rappaport of Prague (1786-1867).
+There Shadal argues that the Greek *onkliyot* actually derives from the Hebrew
+root ע-ק-ל, "crooked," and that people who knew the Hebrew term therefore
+mispronounced Onkelos as Akylas; the aleph/ayin difference between the two need
+not trouble us, since in this Greek word the two letters interchange anyway.
 
 ### agmon (אגמון)
-Five appearances (Iyov 40:26, 41:12; Yeshayahu 9:13, 19:15, 58:5). *Machberes
+Five appearances (Iyov 40:26, 41:12; Yeshayahu 9:13, 19:15, 58:5). This is the
+third biblical word, and the column notes that Rabbi Shlomo of Urbino does not
+explicitly list it as a synonym of *vav* and *shfataim*. *Machberes
 Menachem* defines it as a cane with a hooked top. Radak takes it as a kind of
 reed, reading א-ג-ם against ג-מ-א by metathesis, from which *gome*, reed. Rabbi
 Shlomo Pappenheim works the same ground from the two-letter root ג-מ, absorbent
@@ -51,16 +76,19 @@ or spongy matter: *agam* is a swamp, which soaks up water and stays wet; *gome*
 is the spongy reed that grows there; *agmon* is a hook-topped thistle of the
 same marshland, used as a fishhook, and from there the word came to mean
 anything hooked or bent. Note that Targum renders *agmon* differently in
-Yeshayahu 9:13 and 19:15, as *hegmon*, a word of Greek origin meaning a ruler,
-a reading Radak cites in *Sefer HaShorashim*; at Yeshayahu 58:5 Targum leaves
-it untranslated.
+Yeshayahu 9:13 and 19:15, as *hegmon*, itself a word of Greek origin and the
+antecedent of English *hegemony*, a reading Radak cites in *Sefer HaShorashim*;
+at Yeshayahu 58:5 Targum leaves it untranslated.
 
 ### shfataim (שפתים)
-Once only, Yechezkel 40:43. Targum there renders *ankliyot*, hooks, and Rashi
-and Radak cite that reading. But Radak himself (in his commentary and in *Sefer
-HaShorashim* s.v. ש-פ-ת) and Abarbanel explain *shfataim* instead as the
-**place** on which pots were set, a sort of stovetop; *Machberes Menachem*
-implies the same by his classification. Rabbi Pappenheim derives it from the
+Once only, Yechezkel 40:43. Rabbi Shlomo of Urbino, in his lexicon of Hebrew
+synonyms *Ohel Moed*, gives *shfataim* as an alternate word for "hook, hanger."
+Targum there renders *ankliyot*, hooks, and Rashi and Radak cite that reading.
+But Radak himself (in his commentary and in *Sefer HaShorashim* s.v. ש-פ-ת) and
+Abarbanel explain *shfataim* instead as the **place** on which pots were set, a
+sort of stovetop; *Machberes Menachem* implies the same by filing the word under
+his fifth category of the ש-פ root. Rabbi Pappenheim also follows this approach,
+deriving it from the
 two-letter root ש-פ, moving without lifting the feet from the ground: Bilaam
 who went *shefi* (Bamidbar 23:3), the *ashafim* (Daniel 1:20, 2:2, 2:10), and
 the *shefifon*, the snake that never lifts itself off the floor. On that
@@ -101,7 +129,6 @@ Rashi to Shemos 27:10; Mishnah Pesachim 5:9, Tamid 3:5, Middos 3:5, Keilim
 12:2-3; Yechezkel 40:43 with Targum, Rashi, Radak, Abarbanel and Rabbi Eliezer
 of Beaugency; Radak, *Sefer HaShorashim* s.v. שפת; *Machberes Menachem*; Iyov
 40:26, 41:12; Yeshayahu 9:13, 19:15, 58:5; Bamidbar 23:3; Daniel 1:20, 2:2,
-2:10. The article's Proto-Indo-European reconstruction behind *ankliyot*, its
-derivation of the name England, and its discussion of an academic monograph on
-Onkelos and Aquila together with Shadal's letter to Rabbi Shlomo Yehuda
-Rappaport are omitted here under the Orthodox-sources rule.
+2:10; Rabbi Shlomo of Urbino, *Ohel Moed*; A. E. Silverstone, *Aquila and
+Onkelos* (Manchester University Press, 1970), with Shadal's letter to Rabbi
+Shlomo Yehuda Rappaport of Prague.

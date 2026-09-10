@@ -8,8 +8,8 @@ domain: society
 sources:
   - wiaw:7982 "The Gift of Giving" (2018-12-01) https://articles.ohr.edu/articles/the-gift-of-giving
 authorities: [Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Avraham ben Chaim Ibn Ramoch, Malbim, Midrash Shocher Tov, Rabbi Eliyahu HaBachur]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Gift: minchah / matanah / shai / teshurah / eshkar / doron
 
@@ -19,8 +19,10 @@ updated: 2026-09-09
 showing his dependence on the receiver. *Matanah* is a gift that serves the
 **receiver's need**, given with nothing coming back, which is why it is the word
 for *matanos la'evyonim* and why Rabbi Mecklenburg holds it is never used of an
-offering to Hashem. *Shai* is a **substantial gift**, and in Tanach it is always
-given to Hashem. *Teshurah* is the **showpiece gift** brought when one comes
+offering to Hashem. *Shai* is a **weighty gift**, on Bedersi's reading
+substantial in itself and on Wertheimer's weighty in the giver's eyes though not
+in the receiver's; in Tanach it is always given to Hashem. *Teshurah* is the
+**showpiece gift** brought when one comes
 before a great man. *Eshkar* is obscure and disputed. *Doron* is not Hebrew at
 all; it is the Greek word for "gift" that the Targum uses. The trap: *minchah*
 is not "meal-offering," it is "gift," and only the sacrificial context narrows
@@ -49,10 +51,12 @@ the little he has.
 
 ### matanah (מתנה)
 Some twenty appearances. Wertheimer: *matan* and *matanah* are formed from the
-verb of giving itself, and the word fixes on the giving. A *matanah* is given
-where the recipient needs something and the giver gains nothing from it beyond
-having filled that need, which is why it builds friendship and camaraderie, and
-why the mitzvah of Purim is *matanos la'evyonim*. Rabbi Mecklenburg writes that
+verb of giving itself, and the word fixes on the giving. The column notes that
+English *gift* and *give* likewise share an etymology, on the interchange of
+the f and v sounds. A *matanah* is given where the recipient needs something and
+the giver gains nothing from it beyond having filled that need, which is why it
+builds friendship and camaraderie, and why it is mandated on Purim, *matanos
+la'evyonim* (Esther 9:22). Rabbi Mecklenburg writes that
 *matanah* is not used of an offering to Hashem and leaves the reason unstated;
 the article supplies it, that a *matanah* fills a need and Hashem, being
 complete, has none.
@@ -89,10 +93,11 @@ though intoxicated (*shikur*) and unable to weigh its real value. Malbim relates
 *eshkar* to *sachar*, "reward" or "payment," the shin shifting to a sin.
 
 ### doron (דורון)
-Targum Yonasan renders the *minchah* Yaakov sent Esav as *doron*. Rabbi Eliyahu
-HaBachur (*Sefer HaTishbi*) notes that *doron* is not Aramaic but Greek for
-"gift"; it stands in Hebrew as a loanword, and it parallels the name Yonasan,
-"Hashem's gift."
+It does not appear in Tanach at all. Targum Yonasan renders the *minchah* Yaakov
+sent Esav as *doron*. Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) notes that
+*doron* is not Aramaic but Greek for "gift"; it stands in Hebrew as a loanword.
+The column adds that it is close in sense to the name Theodore, "God's gift" in
+Greek, which is the parallel to the Hebrew name Yonasan, "Hashem's gift."
 
 ## Rendering guidance
 
@@ -102,7 +107,8 @@ HaBachur (*Sefer HaTishbi*) notes that *doron* is not Aramaic but Greek for
   word, per Rabbi Mecklenburg's note.
 - *Matanah*: **gift**, plain. *Matanos la'evyonim* stays transliterated.
 - *Shai*: **tribute** in the pesukim where it is brought to Hashem, and never
-  "little present"; the word means the opposite.
+  "little present"; on Bedersi's reading the word means the opposite, and even
+  on Wertheimer's the smallness is only in the receiver's eyes.
 - *Teshurah*: **presentation gift**, or "a gift of greeting" where Malbim's
   setting is in view.
 - *Eshkar*: leave it transliterated and gloss the machlokes; there is no settled

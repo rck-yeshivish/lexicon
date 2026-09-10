@@ -14,7 +14,7 @@ words:
   - he: תרע
     tr: tera
     en: gate
-    distinct: the standard Targumic Aramaic for shaar, and also Targum's word for petach, "opening"; from the Aramaic sense of breaching, a gate being a break in the wall (Rabbi Eliyahu HaBachur)
+    distinct: the standard Targumic Aramaic for shaar, and also Targum's word for petach, "opening"; which Rabbi Eliyahu HaBachur suggests comes from the Aramaic sense of breaching, a gate seemingly being a break in the wall
   - he: בבא
     tr: bava
     en: gate, doorway; section
@@ -41,7 +41,7 @@ Kamma. Neither is a gate.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | שער | shaar | gate | Hebrew; also a settlement, a price, or the act of appraising (Shadal) |
-| תרע | tera | gate | Targumic Aramaic; from "breaching," a gate being a break in the wall (Rabbi Eliyahu HaBachur) |
+| תרע | tera | gate | Targumic Aramaic; from "breaching," a gate seemingly being a break in the wall (Rabbi Eliyahu HaBachur, who suggests this) |
 | בבא | bava | gate; section | Talmudic Aramaic only; also a set, or a section of a text |
 
 ## Where the authorities disagree

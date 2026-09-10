@@ -13,8 +13,8 @@ words:
 sources:
   - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
 authorities: [Ramban, the Kabbalists, Rabbi Reuven Chaim Klein]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Divine judgment: din / rachamim (tekiah / teruah)
 
@@ -33,9 +33,15 @@ to *din*.
 ## Distinctions
 
 ### din (דין)
-Ramban: Rosh Hashanah is *din b'rachamim*, judgment inside mercy, and Yom Kippur
-is *rachamim b'din*, mercy inside judgment; both are called the Day of Judgment,
-and this is what separates them. Rabbi Reuven Chaim Klein unpacks *din* through
+The article opens from the Mishnah (Rosh Hashanah 1:2) that on Rosh Hashanah all
+the inhabitants of the world pass before Hashem like the animals of a corral and
+He judges the whole of Creation, which is why the day is *Yom HaDin*; but Yom
+Kippur is called the Day of Judgment as well, so what separates them? Ramban:
+Rosh Hashanah is *din b'rachamim*, judgment inside mercy, and Yom Kippur is
+*rachamim b'din*, mercy inside judgment. The article calls the distinction
+cryptic and takes up only the Rosh Hashanah half, leaving Yom Kippur for another
+time, so nothing here explains *rachamim b'din*. Rabbi Reuven Chaim Klein
+unpacks *din* through
 a mashal of two philanthropists. Both give large sums, but the second vets every
 applicant, weighs the cause, and sets the amount by what the man before him
 merits. That is *din*: the receiver is the object of focus, so the influx can be
@@ -65,7 +71,20 @@ with the sound of the shofar": the Name of *din* stands with the fragmented
 blast, the Name of *rachamim* with the whole one. Because every *teruah* is
 sandwiched between two *tekios*, all that shows from outside is *rachamim*; this
 is the Kabbalistic *mesikas hadin*, "sweetening the judgment," and the same
-principle in dipping the apple in honey.
+principle in dipping the apple in honey, honey being sweet and so itself
+*rachamim*. The article reads *tiku bachodesh shofar bakeseh l'yom chageinu*
+(Tehillim 81:4) along the same line: the Rosh Chodesh side of the day, the side
+that carries the *din*, is the concealed one.
+
+The article closes by asking what such concealment can accomplish, since we can
+hardly be fooling anyone by closing our eyes to the *din*. Its answer is that
+the concealment works by moving the object of focus. If we are judged, we are
+the object of focus, and with our sins that is a poor place to stand; so on Rosh
+Hashanah we do not speak of sins at all, but of Hashem's greatness and His
+Kingship, and in doing so we shift the focus from the receiver to the Giver,
+which is the *rachamim* paradigm, under which He gives without our deserving it.
+That is how the day is *din* immersed in *rachamim* and sweetened on the
+outside.
 
 ## Rendering guidance
 
@@ -97,6 +116,8 @@ Word?, Ohr Somayach, 28 Elul 5779 (2019-09-28): raw text in
 `sources/whats-in-a-word/raw/8411-rosh-hashana-a-tale-of-two-beginnings.md`.
 Primary loci: Rosh Hashanah 1:2 (all the world passes before Him like sheep of a
 flock); Ramban on *din b'rachamim* and *rachamim b'din*; Tehillim 47:6 (the
-article cites the chapter, 47, without the verse) and Tehillim 81:4 (likewise
-cited as chapter 81); the Gemara's *sulam rauah*. The article's astronomical and
-calendrical material is background, not lexical.
+article cites the chapter, 47, without the verse, and notes it is said seven
+times before the shofar) and Tehillim 81:4 (likewise cited as chapter 81); the
+Gemara's *sulam rauah*. The sun-and-moon parable is carried above as the article
+gives it; its calendrical mechanics (the nineteen-year cycle, intercalation, the
+solar eclipse) are background and are not repeated here.

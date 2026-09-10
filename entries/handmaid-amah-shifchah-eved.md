@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:8120 "The Handmaid's Deal" (2019-02-02) https://articles.ohr.edu/articles/the-handmaids-deal
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Rabbi Eliezer Reines, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Sherrow, Moshav Zekeinim, Rabbi Aharon Marcus, Rabbi Zev Hoberman]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Handmaid: amah / shifchah (and eved)
@@ -34,8 +34,9 @@ whatever work the household needs. *Amah* is a **maidservant** or **handmaid** i
 the higher sense: a nursemaid to her master's children (Bedersi) or a housekeeper
 over the domestic work rather than under it (Rabbi Shlomo Pappenheim). *Eved* is
 the one word for both the Jewish and the non-Jewish male **slave**. The shorthand
-that *shifchah* means a non-Jewish woman and *amah* a Jewish one holds in
-Rabbinic usage but not in Tanach, where both words cross the line.
+that *shifchah* means a non-Jewish woman and *amah* a Jewish one may well hold
+in Rabbinic usage, but it gives only a partial picture of Tanach, where both
+words cross the line.
 
 ## At a glance
 
@@ -51,9 +52,10 @@ Rabbinic usage but not in Tanach, where both words cross the line.
 
 1. **Nursemaid.** Rabbi Avraham Bedersi HaPenini: *amah* is from *eim*,
    "mother," a maid who takes on motherly duties and nurses her master's
-   children. He reads it out of Hagar, who is called *shifchah* throughout
-   Bereishis 16, and *amah* from the birth of Yishmael onward (Bereishis 21;
-   compare 25:12).
+   children. He adduces it from Hagar, who is called *shifchah* throughout
+   Bereishis 16, and *amah* from the birth of Yishmael onward (Bereishis 21, but
+   see 25:12). The column likens the role to the English "nanny," engaged to help
+   raise her employer's children as though she were their mother.
 2. **Housekeeper.** Rabbi Shlomo Pappenheim (*Cheshek Shlomo*), also from *eim*:
    a *shifchah* is put to menial work, an *amah* is more dignified and sees only
    to the ordinary running of the house. He derives the other senses from this
@@ -64,25 +66,30 @@ Rabbinic usage but not in Tanach, where both words cross the line.
    house, and the fear (*aimah*) of the real mistress is upon her.
 
 The Bottom line follows Bedersi and Pappenheim together, since they agree that
-*amah* is the higher station and differ only on which duties define it, and
-Hagar's usage supports the pair. Reines is the outlier, on a different root.
+*amah* is the higher station and differ only on which duties define it; Hagar's
+usage is Bedersi's own proof. Reines is the outlier, on a different root.
 
-**The root of shifchah.** Rabbi Yaakov Tzvi Mecklenburg: ש-פ-ח denotes
-connection, so a *shifchah* is joined to the mistress of the house, both serving
-the master (compare Kesuvos 59b, that a woman who brings a hundred *shefachos*
-into her marriage still owes certain chores herself); *mishpachah*, a family, is
-individuals bound into a unit. Rabbi Aharon Marcus and Rabbi Zev Hoberman: the
-root means an extra appendage attached to something, whence *sapachas*, a type
-of tzaraas (Vayikra 13:2); a *mishpachah* is the patriarch's children as
-attachments to him, and a *shifchah* an adjunct to a complete household.
-Nothing in translation turns on the choice.
+**The root of shifchah.** Rabbi Yaakov Tzvi Mecklenburg: the root, which he
+writes with a shin, sin or samech before peh and ches, denotes connection or
+addition, so a *shifchah* is joined to the mistress of the house, both expected
+to perform services for the master (compare Kesuvos 59b, that a woman who brings
+a hundred *shefachos* into her marriage still owes certain chores herself);
+*mishpachah*, a family, is otherwise separate individuals connected by familial
+relations. Others, including Rabbi Aharon Marcus and Rabbi Zev Hoberman: the
+root refers specifically to an extra appendage attached to something else,
+whence *sapachas*, a type of tzaraas (Vayikra 13:2), and *sapach*, an appendix;
+a *mishpachah* is the patriarch's children as secondary attachments ascribed to
+him, and a *shifchah* an adjunct attached to the otherwise complete faculty of a
+household. Nothing in translation turns on the choice.
 
-**Whether the Jewish/non-Jewish split is in the words themselves.** Some hold
+**Whether the Jewish/non-Jewish split is in the words themselves.** Some argue
 *shifchah* inherently means a non-Jewish slave woman and *amah* a Jewish one.
-Against that: Vayikra 25:44 uses *amah* of female slaves taken from the
-non-Jewish population, Avraham davened for Avimelech's wife and his *amahos*
-(Bereishis 20:17), also non-Jewish, and Avigail calls herself Dovid's *amah* six
-times and his *shifchah* twice (Shmuel I 25). The split is Rabbinic usage.
+That may be true of rabbinic usage, but it is only a partial picture of Tanach:
+Vayikra 25:44 uses *amah* of female slaves taken from the non-Jewish population
+of the Holy Land, Avraham davened for Avimelech's wife and his *amahos*, whose
+wombs had been closed as a punishment (Bereishis 20:17), also non-Jewish, and
+Avigail calls herself Dovid's *amah* six times and his *shifchah* twice (Shmuel
+I 25), which suggests *shifchah* applies to a Jewish handmaid as *amah* does.
 
 ## Distinctions
 

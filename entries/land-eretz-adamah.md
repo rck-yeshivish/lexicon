@@ -13,8 +13,8 @@ words:
 sources:
   - wiaw:7313 "The Land Down Under" (2017-06-24) https://articles.ohr.edu/articles/the-land-down-under
 authorities: [Vilna Gaon, Malbim, Rabbeinu Bachaya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Land: eretz / adamah
 
@@ -62,7 +62,9 @@ imperfect ground that Hashem cursed for Adam's sin (Bereishis 3:17). On his
 reading the vegetable berachah says *adamah* because it acknowledges Hashem's
 kindness now, growing produce out of cursed ground, while the bread berachah
 looks back before the sin, when whole loaves rose from the earth, and forward to
-the days when they will again (Shabbos 30b), and so says *eretz*.
+the days of Mashiach when they will again (Shabbos 30b), and so says *eretz*,
+the land that will by then break free of its curse and return to its pure,
+unblemished state.
 
 ### the dissent
 The Maharshal holds the reverse: *eretz* is limited to the surface and the
@@ -78,8 +80,9 @@ warns that the *adamah* will open its mouth, the *adamah* under them splits, and
 then the *eretz* opens its mouth and swallows them, and the people flee lest the
 *eretz* swallow them too (Bamidbar 16:30-34). Where the episode is recalled it
 is the *eretz* that swallowed them (Bamidbar 26:10, Devarim 11:6). Rabbi Yaakov
-Chaim Sofer: the opening came in two stages, the surface layer first and then
-the depths, and the switch of words records it.
+Chaim Sofer, Rosh Yeshivah of Yeshivas Kaf HaChaim in Yerushalayim, works from
+the distinction above: the opening came in two stages, the surface layer first
+and then the subterranean depths, and the switch of words records it.
 
 ## Rendering guidance
 

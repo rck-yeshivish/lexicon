@@ -9,8 +9,8 @@ sources:
   - wiaw:7204 "Jumping for Passover: Part 1" (2017-04-01) https://articles.ohr.edu/articles/jumping-for-passover-part-1
   - wiaw:7218 "Jumping for Passover: Part 2" (2017-04-08) https://articles.ohr.edu/articles/jumping-for-passover-part-2
 authorities: [Rashi, Vilna Gaon, Rambam, Rosh, Rabbi Shimshon of Shantz, Rabbi Ovadia of Bartenura, Rabbi Yisrael Lipschitz, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Lorberbaum of Lisa, Rabbi Avigdor Nevenzahl, Rabbi Nachshon Schiller]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Jumping: pesach / dilug / kefitzah
 
@@ -29,12 +29,15 @@ a pasuk sets them side by side.
 Root ד-ל-ג. On the Vilna Gaon's reading of Yerushalmi Beitzah 5:2, *dilug* is
 the skip taken with one foot still on the ground while the other springs the
 body forward; Rambam and the Rosh cite the same in their commentaries to Mishnah
-Ohalos 8:5. Wertheimer measures it by height rather than form: in Shir HaShirim
-2:8 *midaleg* is over mountains and *mikapetz* over hills, so *dilug* is the
-higher of the two. The controlling sense, though, is what is skipped: English
-"skip" carries both the gait and the evasion ("he skipped the boring parts"),
-and the Hebrew verb does the same, since a skipping step is exactly a way of not
-treading on what lies underfoot. Rabbi Yaakov Lorberbaum of Lisa allows that
+Ohalos 8:5. Wertheimer suggests measuring it by height rather than form: in Shir
+HaShirim 2:8 *midaleg* is over mountains and *mikapetz* over hills, so *dilug*
+is the higher of the two. The column then posits, in its own voice, that the
+controlling sense is what is skipped, and that *dilug* is therefore better
+rendered "skipping" and *kefitzah* "jumping": English "skip" carries both the
+gait and the evasion ("he skipped the boring parts"), and the two are in truth
+conceptually one, since a skipping step is exactly a way of not treading on what
+lies underfoot, and the Hebrew verb covers both. Part 2 works from that same
+distinction throughout. Rabbi Yaakov Lorberbaum of Lisa allows that
 *dilug* may in fact be the faster motion, but holds that its focus is still on
 what is skipped and not on the speed.
 
@@ -50,28 +53,38 @@ of a man who swore on the spot that he "jumped and swore."
 ### the subject-based reading, and its rejection
 Rabbi Shimshon of Shantz (to Ohalos 8:5): the difference is not the manner of
 the jump but who is jumping, *dilug* for an animal and *kofetz* for a person.
-Bartenura cites both views and takes Rambam's; Rabbi Yisrael Lipschitz rejects
-the Rash outright. The counter-cases: a goat that jumps off a roof is *kofetz*
-(Bava Kama 2:3), and so is the marten that jumps from the ladder to the dovecote
-(Bava Basra 2:4), while a man permitted to jump over graves to greet a king is
-*midaleg* (Berachos 19b). Shir HaShirim 2:8 settles it, since one subject takes
-both verbs.
+Bartenura cites both views and openly accepts Rambam's; Rabbi Yisrael Lipschitz
+takes issue with the Rash. Bartenura's counter-cases, which he says seem to
+contradict the Rash: a goat that jumps off a roof is *kofetz* (Bava Kama 2:3),
+and so is the marten that jumps from the ladder to the dovecote (Bava Basra
+2:4), while a man permitted to jump over graves to greet a king is *midaleg*
+(Berachos 19b). These suggest that *doleg* is not confined to animals nor
+*kofetz* to people, and the column adds that Shir HaShirim 2:8 proves it, since
+one subject takes both verbs.
 
 ### pesach (פסח)
 Root פ-ס-ח. Rashi (Shemos 12:11 and 12:13, Yeshayahu 31:5): an expression of
-*dilug* and *kefitzah* both. Rabbi Avigdor Nevenzahl supplies the *dilug*:
-Hashem has no body and did not literally jump; the Torah speaks from the vantage
-of the aftermath, in which the Egyptian firstborn died and the Jewish ones did
-not. What was skipped was the ordinary prerequisite, that a man first show some
-commitment of his own before Hashem draws him close; at the Exodus that
-requirement was passed over. Rabbi Nachshon Schiller supplies the *kefitzah*:
-Klal Yisrael had sunk to the forty-ninth level of *tumah* and another moment
-would have been past recovery, so the redemption had to be immediate, and the
-Korban Pesach is eaten *b'chipazon* (Shemos 12:11) in imitation of that haste.
+*dilug* and *kefitzah* both. The korban carries the name because it commemorates
+Hashem's passing over the Jewish houses at makkas bechoros, and the Yom Tov is
+named after the korban. Rabbi Avigdor Nevenzahl, Chief Rabbi Emeritus of the Old
+City of Yerushalayim, supplies the *dilug*: Hashem has no body and did not
+literally jump; the Torah speaks from the vantage of the aftermath, in which the
+Egyptian firstborn died and the Jewish ones did not, so that in hindsight it
+seemed *as if* He jumped over them. What was skipped was the general
+requirement, that a man first perform some act of commitment sealing his bond
+with Hashem before Hashem lets him come close; at the Exodus, though they had
+not yet shown that desire, He did miracles for them and took them out anyway.
+Rabbi Nachshon Schiller supplies the *kefitzah*: kabbalistic sources assert that
+Klal Yisrael had fallen to the forty-ninth level of *tumah*, and another moment
+in Egypt would have brought them to the fiftieth, from which there is no
+recovering, so the redemption had to be immediate, and the Korban Pesach is
+eaten *b'chipazon* (Shemos 12:11) in imitation of that haste.
 
-The same root gives *piseach*, the lame man who cannot move at all. Two opposite
-meanings in one root is a recurring feature of Lashon HaKodesh, and it shows that
-Hebrew words carry inherent meaning rather than convention.
+The same root gives *piseach*, the lame or immobile man. The column closes with
+this as an insight of its own: two conceptually opposite meanings sharing one
+spelling is a common phenomenon in Lashon HaKodesh, and it illustrates that
+Hebrew words are not the product of human whim but carry inherent meaning, on a
+Divine intuition not found in other languages.
 
 ## Rendering guidance
 

@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:9005 "Shemot: Hard Work and Hard Hearts" (2021-01-09) https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts
 authorities: [Rabbi Shlomo of Urbino, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rashi, Rabbi Shlomo Pappenheim, Ibn Ezra, Radak, Rabbi Shlomo Ibn Melech, Metzudas Tzion, Rabbi Saadia Gaon, Toras Kohanim]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Hard: kashah / kashiach / perech
 
@@ -30,11 +30,13 @@ three as the Hebrew words for hard; do not render all three "hard," since only
 ## Distinctions
 
 ### kashah (קשה)
-Both senses at once, physical rigidity and difficulty. Shemos 7:3, that Hashem
-will harden (*akasheh*) Pharaoh's heart, is read by most mefarshim in the first
-sense, Pharaoh made unbending, unmoved by the makkos. Rabbi Yaakov Tzvi
-Mecklenburg prefers the second: Hashem told Moshe that He would put Pharaoh
-through an ordeal hard for his heart to bear. Rav Hirsch, on the interchange of
+Both senses at once, physical rigidity and difficulty; it is the word for the
+"hard" work of Mitzrayim at Shemos 1:14 and 6:9. Shemos 7:3, that Hashem will
+harden (*akasheh*) Pharaoh's heart, is read by most commentators in the first
+sense, Pharaoh empowered to go on refusing and left unbudged by the makkos.
+Rabbi Yaakov Tzvi Mecklenburg prefers the second: Hashem conveyed to Moshe that
+He would put Pharaoh through a particularly traumatic ordeal, hard for his heart
+to endure. Rav Hirsch, on the interchange of
 kuf with yud and with gimmel, links *kashah* to *yesh*, existence, since to us
 the more solid a thing is the more real it seems, and to *gishah/gashash*,
 approaching and impacting, since only what is solid is felt to make contact.
@@ -48,8 +50,11 @@ something hard rather than a pliant net, and hard to escape.
 
 In the language of Chazal, *hekesh* is the derashah that compares two areas of
 halachah juxtaposed in one pasuk, that is, the impact or collision of two realms
-in a single verse; in medieval Hebrew, through the Ibn Tibbon translators, it
-widened to any deductive analogy or syllogism. A *kushya* is a logical
+in a single verse. The column notes that the Arabic term *qiyas* names the
+process in Islamic law of deducing new rulings by analogy to existing ones, and
+that in medieval Hebrew, under the influence of the Ibn Tibbon family who
+translated Judeo-Arabic works into Hebrew, *hekesh* took on that meaning too and
+came to mean any deductive analogy or syllogism. A *kushya* is a logical
 difficulty, the clash between a statement and what reason would say, and by a
 tradition from the Geonim leaving a matter as *kashya* does not mean the position
 is refuted, only that the difficulty stands and more study is needed. A *kushya*
@@ -57,18 +62,24 @@ is not a *she'eilah*: the first tries to undo an assertion, the second only asks
 for information.
 
 ### kashiach (קשיח)
-Twice in Tanach: the mother bird who "hardens herself against her young as though
-they were not hers" (Iyov 39:16), and Yeshayahu 63:17, why do You harden our
-hearts from fearing You. Ibn Ezra (to Iyov 39:16) and Radak (*Sefer HaShorashim*)
-define it as cruelty. Rabbi Shlomo Ibn Melech (*Michlal Yofi* to Yeshayahu 63:17)
-sharpens it: cruelty in the form of estrangement from one whom a person should
-have been expected to love. On this reading the word does not share a root with
-*kashah*. *Metzudas Tzion* (to Yeshayahu 63:17 and Iyov 39:16) does connect them,
-reading *kashiach* as a portmanteau of *kashah* and *sach*, remove: one is harsh
-with another and then coldly puts it out of mind, as though nothing had happened.
+Twice in Tanach: the ostrich and stork, which lay eggs and may then callously
+abandon them to be trampled, the mother bird who "hardens herself against her
+young as though they were not hers" (Iyov 39:16); and Yeshayahu 63:17, why do
+You harden our hearts from fearing You. Ibn Ezra (to Iyov 39:16) and Radak
+(*Sefer HaShorashim*) define it as cruelty. Rabbi Shlomo Ibn Melech (*Michlal
+Yofi* to Yeshayahu 63:17) adds that it specifically denotes cruelty in the form
+of estrangement from one whom a person would otherwise have been expected to
+love. That approach supports the notion that the word does not share a
+grammatical root with *kashah*. *Metzudas Tzion* (to Yeshayahu 63:17 and Iyov
+39:16) does connect them, reading *kashiach* as a portmanteau of *kashah* and
+*sach*, remove: one is harsh with another and then coldheartedly removes the
+harshness from his own thoughts, as in *hesech hada'as*, as though nothing out of
+the ordinary had happened.
 Rabbi Shlomo Pappenheim's list leaves *kashiach* out, since a third radical ches
 does not fit his system, which admits only hei, aleph, mem, nun, tav, yud, or vav
-as the added letter.
+as the added letter. (In Modern Hebrew *disk kashiach* is a calque on the English
+"hard drive," rendering "hard" by *kashiach*, which of course has nothing to do
+with cruelty or estrangement.)
 
 ### perech (פרך)
 Literally to break. A lung so dry that it is brittle is *nifreches* and the
@@ -76,10 +87,10 @@ animal is treifah (*Chullin* 46b); a lulav dry enough to be brittle is likewise
 *nifreches* and pasul (Tosafos to *Sukkah* 29b); a *pircha* in the give and take
 of the Gemara is the question that breaks a chain of reasoning. Rashi (to Shemos
 1:13): *avodas parech* is back-breaking labor. Rav Hirsch (to Shemos 1:13 and
-26:31) takes the breaking as separating: the Egyptians conscripted Yisrael in
-order to break the uniformity of their society and open a gap of class between
-them, and he ties *perech* to *paroches*, the curtain separating the Kodesh from
-the Kodesh HaKodashim. A second line reads *perech* as uselessness, what crumbles
+26:31) takes the breaking as separating: the Egyptians drafted Yisrael as
+laborers in order to break the homogeneity of Egyptian society and create a
+class difference between themselves and the Jews, and he ties *perech* to
+*paroches*, the curtain separating the Kodesh from the Kodesh HaKodashim. A second line reads *perech* as uselessness, what crumbles
 to waste and serves no purpose: *Toras Kohanim* (to Vayikra 25:43) defines the
 forbidden *perech* labor as work with no limit or work that is needless, and
 Rabbi Saadia Gaon explains *avodas parech* as the pointless labor Egypt imposed.
@@ -91,8 +102,9 @@ finishing and feels all his work crumbling to nothing. That is what the Torah
 forbids with a Jewish bondsman and what Mitzrayim did to Yisrael.
 
 The Haggadah defines *avodah kashah* as *perech*, and Onkelos (to Shemos 1:13-14,
-Vayikra 25:53) renders *perech* with the Aramaic cognate of *kashah*, *kashyu*,
-which is why the two are often treated as one.
+Vayikra 25:53) renders *perech* with the Aramaic cognate of *kashah*, *kashyu*.
+The column takes this to suggest the two terms are more or less equivalent, and
+sets out from there to explore the differences anyway.
 
 ## Rendering guidance
 
@@ -108,9 +120,11 @@ which is why the two are often treated as one.
   halachah in Vayikra 25:43 turns on which one it is.
 - *Mikshah*: "hammered work," or "beaten from a single block," not "hard work."
 - Trap: English "hard" will take *kashah* and *perech* together, and English
-  "hard-hearted" will take *kashah* and *kashiach* together. The Haggadah's own
-  equation of *avodah kashah* with *perech* is a derashah, not a definition; do
-  not use it to flatten the two in translation.
+  "hard-hearted" will take *kashah* and *kashiach* together. The article reads
+  the Haggadah's equation of *avodah kashah* with *perech*, and Onkelos's
+  *kashyu*, as suggesting the two are roughly equivalent, and then works through
+  their differences all the same; in translation keep them apart wherever the
+  passage turns on the difference.
 
 ## Notes for a project
 
@@ -126,6 +140,5 @@ loci: Shemos 1:13-14, 6:9, 7:3, 25:31 with Rashi, 26:31, 37:22; Bamidbar 8:4;
 Vayikra 25:43 with *Toras Kohanim*, 25:53; Iyov 39:16 with Ibn Ezra; Yeshayahu
 63:17 with *Michlal Yofi* and *Metzudas Tzion*; *Chullin* 46b; Tosafos to *Sukkah*
 29b; Targum Onkelos to Shemos 1:13-14 and Vayikra 25:53; Radak, *Sefer
-HaShorashim*; *Ohel Moed* of Rabbi Shlomo of Urbino. Rabbi Yaakov Tzvi Mecklenburg
-writes in *HaKesav VeHaKabbalah*. The article's excursus on Arabic *qiyas* is
-omitted here under house rule 9.
+HaShorashim*; *Ohel Moed* of Rabbi Shlomo of Urbino, a student of Rabbi Ovadia of
+Bartenura. Rabbi Yaakov Tzvi Mecklenburg writes in *HaKesav VeHaKabbalah*.

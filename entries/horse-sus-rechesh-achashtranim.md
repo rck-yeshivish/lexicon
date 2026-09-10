@@ -26,8 +26,8 @@ words:
 sources:
   - wiaw:10842 "Purim/Trumah: Speedy Horsepower (Part 1/2)" (2023-02-11) https://articles.ohr.edu/articles/purimtrumah-speedy-horsepower-part-12
   - wiaw:10843 "Purim/Titzaveh: Speedy Horsepower (Part 2/2)" (2023-02-11) https://articles.ohr.edu/articles/purimtitzaveh-speedy-horsepower-part-22
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbeinu Bachaya, Rabbi Avraham Saba, Maharal, Ralbag, Ibn Ezra, Rabbi Moshe Ibn Chalava, Ohalei Yehuda, Rabbeinu Nissim of Gerona, Rav Saadia Gaon, Rabbi Yosef Kimchi, Rabbi Tuviah ben Eliezer, Rashi, Rabbi Ernest Klein, Rambam, Rabbi Shlomo Sirilio, Rabbi Yosef Kara, Peirush HaRokeach]
-status: draft
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbeinu Bachaya, Rabbi Avraham Saba, Rabbi Yaakov Ashkenazi of Janow, Maharal, Ralbag, Ibn Ezra, Rabbi Moshe Ibn Chalava, Ohalei Yehuda, Rabbeinu Nissim of Gerona, Rav Saadia Gaon, Rabbi Yosef Kimchi, Rabbi Tuviah ben Eliezer, Rashi, Rabbi Ernest Klein, Rambam, Rabbi Shlomo Sirilio, Rabbi Yosef Kara, Peirush HaRokeach, Targum Sheini, Rabbi Eliyahu HaBachur, Rabbi Yaakov Daniel Amash, Wilhelm Gesenius, Naftali Tur-Sinai, Solomon Rabinowitz, Dr. Alexander Kohut, Dr. Dan Shapira]
+status: reviewed
 updated: 2026-09-10
 ---
 # Horse: sus / rechesh / achashtranim / remachim
@@ -53,14 +53,25 @@ render the four words of that pasuk as four synonyms for "horse."
 ## Where the authorities disagree
 
 **Is *rechesh* a horse at all?** A superior, especially fast young horse (Ralbag
-to Esther 8:10; Ibn Janach). Some swift-running animal, not necessarily a horse,
+to Esther 8:10; Ibn Janach in *Sefer HaShorashim*; and in a similar vein the
+German linguist Wilhelm Gesenius, 1786-1842, who ties *rechesh* to the Arabic verb
+for a horse's running or galloping and so takes it as a superior breed known for
+remarkable speed). Some unspecific swift-running animal, not necessarily a horse,
 since Esther 8:10 and Melachim I 5:8 list *rechesh* beside *sus* (Radak, who
 elsewhere identifies it with the mules). A permutation of *rechush*, property, so
-the king's own horses (Ibn Ezra, Rabbi Moshe Ibn Chalava). A horse decked in its
-rider's weapons, or from *reches*, "tying," the horse-and-rider team bound
-together (*Ohalei Yehuda*). From REISH-KAF-SAMECH, tying, hence the wagon-horse
-(Rav Hirsch to Bereishis 12:5), so *sus* is general and *rechesh* specific. The
-Bottom line follows Rav Hirsch and Ralbag.
+the king's own horses (Ibn Ezra, Rabbi Moshe Ibn Chalava; Solomon Rabinowitz of
+New York, d. 1943, in *Sefer HaMishkalim*, reads *rechush* in Ezra 1:4 the other
+way about, as the *rechesh* horse rather than ordinary property). A horse decked
+in its rider's weapons, itself a kind of *rechush*, or from *reches*, "tying,"
+the horse-and-rider team bound together (*Ohalei Yehuda*, Rabbi Yehudah Aryeh of
+Carpentras). From ר-כ-ס, tying, by the shin/sin-samech interchange, hence the
+wagon-horse (Rav Hirsch to Bereishis 12:5), so *sus* is general and *rechesh*
+specific. The Maskilic Hebrew scholar Naftali Torczyner, Tur-Sinai (1886-1973),
+reaches the wagon-horse independently, taking ר-כ-ש as a metathesis of ק-ש-ר,
+tying and tethering, probably on the kuf/kaf interchange; he goes further and has
+*rechush* derive from *rechesh*, since a man's main property was his livestock,
+or because moveable goods were carried by *rechashim*. Our own working choice,
+not the column's, is Rav Hirsch and Ralbag.
 
 **What *achashtranim* are.** Mules, from a male donkey and a mare, as against the
 weaker hinnies (Rav Saadia Gaon, Ibn Ezra, Radak, Rabbi Moshe Ibn Chalava,
@@ -68,10 +79,21 @@ Ralbag); Rabbi Yosef Kimchi (*Sefer HaGalui*) reports Rav Saadia Gaon's
 etymology, Persian *achash*, "big," plus Aramaic *trein*, "two," one beast
 merging two species. An adjective on *rechesh*, from CHET-SHIN, speed, plus
 TAV-REISH, scouting, the mounts spies used (*Midrash Lekach Tov*), or the same
-roots with TAV-REISH as "jumping" (Rabbi Shlomo Pappenheim). Fast camels (Rashi).
-No animal but an adjective, "government-owned," from Old Persian *khshathra*
-(Rabbi Ernest Klein). Eight-legged beasts that switch legs when tired, האחשתרנים
-equalling 1014, *shel shemonah raglaim* (*Peirush HaRokeach*; Rabbi Yosef Kara).
+roots with TAV-REISH as "jumping," so that the animal's swiftness is in its leap
+rather than its run (Rabbi Shlomo Pappenheim). Fast-running camels (Rashi), whom
+the column marks as somewhat an outlier. No animal at all but an ordinary
+adjective, "government-owned," from the Old Persian *khshathrana*/*khshathra*,
+"dominion, government, province" (Rabbi Ernest Klein), another outlier. Ibn
+Janach adds that it is not too farfetched to presume *achashtranim* and
+*rechashim* are the same thing. Eight-legged beasts that run on one set of four
+legs, then draw those into the body and let the other four down when tired, with
+האחשתרנים in *gematria* (1014) equalling *shel shemonah raglaim*, "of eight legs"
+(*Peirush HaRokeach* to Bereishis 1:25 and Esther 8:10, who reads the extra *es*
+in *v'es habehemah* as including the otherwise unmentioned *achashtranim*, though
+he does not say what sort of animal they are). A similar tradition is in Rabbi
+Yosef Kara's commentary to Esther, though he attaches it to "sons of the
+*remachim*" and makes them **flying camels** with two sets of four legs, close to
+Rashi's camels.
 
 **What "sons of the *remachim*" means.** A wild horse, as against the
 domesticated *sus*, which one might have thought a separate species for the

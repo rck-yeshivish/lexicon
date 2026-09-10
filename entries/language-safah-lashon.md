@@ -8,8 +8,8 @@ domain: speech
 sources:
   - wiaw:7548 "Speaking in Tongues" (2017-12-23) https://articles.ohr.edu/articles/speaking-in-tongues
 authorities: [Rav Dessler, Rashi, Ramban, Chasam Sofer]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Language: safah / lashon
 
@@ -37,26 +37,39 @@ modern Hebrew *safah* is the ordinary word for language, and Hebrew is called
 ### lashon (לשון)
 Literally the tongue, the inner organ. Rav Dessler: a language earns the name
 *lashon* when its speakers internalize what it means. Hence *Lashon HaKodesh*
-and *Leshon Ivri*, since we aim to take in the values the language carries.
-Yeshayahu 19:18 calls Lashon HaKodesh the language of Canaan.
+and *Leshon Ivri*, since we strive to take in the moral and esteemed values the
+language signifies.
 
 ### Yosef and Lashon HaKodesh
-Bereishis 42:23: the brothers spoke freely before the Egyptian viceroy because a
-*meilitz* stood between them. Rashi (there): Yosef deliberately used a translator
-throughout, since he pretended to know only Egyptian and they knew only Lashon
-HaKodesh, so the interpreter had to know both. Rashi and others hold that when
-Yosef revealed himself he spoke to them in Lashon HaKodesh as proof of who he
-was. The Ramban (to Bereishis 45:12) objects: that proves nothing, since the
-Canaanites next door spoke Lashon HaKodesh and a ruler is expected to know his
-neighbors' languages, as Nevuchadnetzar spoke Hebrew though his advisers answered
-in Aramaic (Daniel 2:2-4). The Chasam Sofer answers from the two words. Jews
-driven east in the First Crusade kept German in their homes for centuries among
-peoples who did not speak it, yet after seventy years in Bavel only half the
-returnees could still speak Hebrew (Nechemiah 13:24). Hebrew is unlike other
-languages: it is held only by one who holds a measure of kedushah, and a lapse in
-kedushah loses it. Yosef speaking Lashon HaKodesh proved that after all his years
-in Mitzrayim he had kept the purity the language requires. He held Hebrew as a
-*lashon*, taken inside, not as a *safah*.
+Bereishis 42:23: the brothers spoke freely before the Egyptian viceroy, Reuven
+telling them their troubles were a punishment for what they had done to Yosef,
+because they did not know he understood them, a translator standing between
+them. Rashi (there): Yosef deliberately used a translator throughout, since he
+pretended to know only Egyptian and they knew only Lashon HaKodesh, so the
+interpreter had to know both, which implied to them that the viceroy could not
+follow Lashon HaKodesh on his own. Many commentators, Rashi among them, hold
+that when Yosef revealed himself he spoke to them in Lashon HaKodesh, without an
+interpreter, as proof of who he was. The Ramban (to Bereishis 45:12) objects:
+that proves nothing, since the Canaanites next door spoke Lashon HaKodesh (the
+column notes in passing that Yeshayahu 19:18 calls it the language of Canaan)
+and a king is commonly familiar with the languages of nearby countries, as
+Nevuchadnetzar spoke Hebrew though his advisers answered in Aramaic (Daniel
+2:2-4). The Chasam Sofer answers with what the column calls a novel
+interpretation, and it turns on the nature of Hebrew rather than on the two
+words. He begins from a historical observation: the Jews of Poland, Lithuania
+and Russia spoke Yiddish, a form of Judeo-German, though the local populations
+knew no German at all, because they descended from the Jews of Western Europe
+ousted in the First Crusade (whence *Ashkenazim*, literally Germans), and every
+family raised its children in that dialect for hundreds of years. Yet after a
+mere seventy-year exile to Bavel, Hebrew was forgotten so fast that only half
+the returnees could still speak it (Nechemiah 13:24). Hebrew is unlike other
+languages: it is preserved only by one who maintains a certain degree of
+kedushah, and a lapse in kedushah loses it, while German passes down for
+generations. Yosef speaking Lashon HaKodesh therefore proved that after all his
+years in Mitzrayim he had kept the purity and holiness the language requires,
+and had not defiled himself with the promiscuity Egyptian culture stood for. In
+this way, the column concludes, he typified Hebrew held as a *lashon*, taken
+inside, rather than as a *safah*.
 
 ## Rendering guidance
 

@@ -27,7 +27,7 @@ words:
 sources:
   - wiaw:7874 "Twin Cities: Zion and Jerusalem" (2018-07-28) https://articles.ohr.edu/articles/twin-cities-zion-and-jerusalem
 authorities: [Rabbi Ashtori HaParchi, Radbaz, Rabbi Elazar Azkiri, Rashi, Vilna Gaon, Ibn Ezra, Radak, Dunash ibn Labrat, Midrash Socher Tov, Rabbi Yosef Tuv-Elem, Zohar, Rabbi Yechiel Michel Tukachinsky, Rogatchover Gaon, Targum, Rabbi Moshe Nachum Shapiro]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Jerusalem: Tziyon / Yerushalayim (Ir David, tziyun)
@@ -40,8 +40,9 @@ David**, a separate walled city that only later came inside the walls of
 Yerushalayim" because they are two. Where *tziyon* stands for the Beis
 HaMikdash or for Klal Yisrael, it is the common noun *tziyun*, "outstanding",
 not the place. Render each by its own name and never write one for the other;
-where the Hebrew uses *Tziyon* for the whole city, that is synecdoche, the part
-naming the whole.
+where the Hebrew uses *Tziyon* for the whole city, some sources call it a
+synonym, though the column suggests that synecdoche, the part naming the whole,
+may be the more accurate term.
 
 ## At a glance
 
@@ -59,11 +60,12 @@ Rabbi Elazar Azkiri all prove from Melachim I 8:1 (and Divrei HaYamim II 5:2)
 that they are two: Shlomo gathered the elders *in Yerushalayim* in order to
 bring the Aron up *from the City of David, which is Tziyon*. Rashi (to Sotah
 5a, Yoma 77b) says flatly that Tziyon is outside Yerushalayim. Rabbi Yechiel
-Michel Tukachinsky disagrees: *Tziyon* in Tanach is not always an adjoining
-city but at times a neighborhood inside Yerushalayim. The Zohar (*Idra Zuta*
-296b) takes them as one physical place bearing two spiritual aspects, one of
-*rachamim* and one of *din*. The Bottom line follows the first group, which has
-the pasuk.
+Michel Tukachinsky disagrees with some of this: *Tziyon* in Tanach is not always
+an adjoining city but at times a neighborhood inside Yerushalayim. The Zohar
+(*Idra Zuta* 296b) says the two are two spiritual levels, one the aspect of
+*rachamim* and the other the aspect of *din*, which the column takes as
+suggesting that both names denote one physical place. The Bottom line follows
+the first group, which has the pasuk.
 
 **Where Har Tziyon is.** Tehillim 48:3 places it *yarkesei tzafon*, in the
 north.
@@ -74,42 +76,59 @@ north.
    name for the Mount of Olives.
 3. **South, and "north" is not geography.** *Midrash Socher Tov* asks the
    question outright, that Har Tziyon lies to the south, and answers that
-   "north" here points to the joy of a *chatas* slaughtered north of the
-   mizbeach (Vayikra 1:11). Rabbi Yosef Tuv-Elem (*Tzafnas Panei'ach* to
-   Vayikra 1:11) argues for the south against Ibn Ezra, on the grounds that the
-   Midrash's author, Rabbi Yochanan, lived in Eretz Yisrael, and that he
-   himself lived in Yerushalayim and saw that Har Tziyon lies south of the old
-   city.
+   "north" here points to the intense elation felt at a *chatas* slaughtered
+   north of the mizbeach (Vayikra 1:11). The thirteenth-century Rabbi Yosef
+   Tuv-Elem (Bonfils), in his super-commentary *Tzafnas Panei'ach* to Vayikra
+   1:11, argues for the south against Ibn Ezra, on the grounds that the
+   Midrash's author, Rabbi Yochanan, actually lived in Eretz Yisrael, and that
+   he himself lived in Yerushalayim and saw that Har Tziyon lies south of the
+   old city. He grants that Ibn Ezra visited Yerushalayim as well, but assumes
+   Ibn Ezra came only after he had already written, mistakenly, that Har Tziyon
+   lies to the north.
 
-The present-day Har Tziyon is southwest of the Old City, which fits the third
-view. Translate *yarkesei tzafon* literally and put the machlokes in a note.
+The column's own comment is that none of the first three sources agree with what
+we today call Har Tziyon, which is southwest of the Old City, and that the
+Midrash makes this very point. Translate *yarkesei tzafon* literally and put the
+machlokes in a note.
 
-**How wide "the mountain of Tziyon" is.** HaParchi concedes that "mountains of
-Tziyon" can mean the whole range in that vicinity, taking in Har Tziyon, Har
-HaMoriah, and Har HaZeisim, so that when Tziyon appears alongside the Mikdash it
-covers the Temple Mount as well. Tukachinsky reaches the same place from the
-other side: where *tziyon* means the Mikdash, Har Tziyon is Har HaMoriah.
+**How wide "the mountain of Tziyon" is.** HaParchi, a prominent rabbinic
+topographer, concedes that "mountains of Tziyon" or "mountain of Tziyon" can
+mean not Har Tziyon itself but the mountains of that general vicinity, taking in
+Har Tziyon, Har HaMoriah, and Har HaZeisim, so that when Tziyon appears
+alongside the Mikdash it covers the Temple Mount as well. Tukachinsky reaches
+the same place from the other side: where *tziyon* means the Mikdash, Har Tziyon
+is Har HaMoriah.
 
 ## Distinctions
 
 ### Tziyon (ציון)
 Called *Ir David* and *Metzudas David*, and walled on its own (Rashi to Shmuel II
-8:7). Yerushalayim's outer walls were only later extended to enclose it, in the
-late first Beis HaMikdash period or the early second. Because it was added later,
-its halachic status for eating *kodashim* and *maaser* may not have matched the
-rest of the city, and the inner wall called *chomas beis pagi* went on marking
-Yerushalayim proper off from Tziyon even after the two had merged. The Vilna Gaon
-(to Yeshayahu 1:9): the populations differed too, the noblemen living in Tziyon
-and the common people in Yerushalayim. The Rogatchover Gaon read the Mishnah's
-ruling on spittle in the Upper Marketplace (*Shekalim* 8:1) as referring to
-Tziyon, the district outside the city where gentiles gathered in Mishnaic times.
+8:7). Yerushalayim's outer walls were only later extended to enclose it, which
+may have happened in the late first Beis HaMikdash period or at the beginning of
+the second. Because it was added later, its halachic status for eating
+*kodashim* and *maaser* may not have matched the rest of the city, and the inner
+wall called *chomas beis pagi* went on marking Yerushalayim proper off from
+Tziyon even in the late second Beis HaMikdash period, by which time the two had
+merged; that wall marked out where within greater Yerushalayim one might eat
+from the korbanos. The Vilna Gaon (to Yeshayahu 1:9): the populations differed
+too, the noblemen living in Tziyon and the common people in Yerushalayim.
+
+The column tells the following of the Rogatchover Gaon, whom it describes as an
+anti-Zionist rabbinic figure. Asked his opinion of Zionism, he did not answer
+directly but replied playfully that Tziyon is an area outside Yerushalayim
+proper where gentile heretics historically gathered: the Mishnah rules that
+spittle found in the Upper Marketplace is presumed to come from a non-Jew
+(*Shekalim* 8:1), and he explained that this is the area called Tziyon. By
+pointing out that Tziyon in Mishnaic times was essentially a slum he registered
+his disapproval of the secular Zionists, whom he held to be like those
+historical heretics.
 
 ### Yerushalayim (ירושלים)
 Written *Yerushalem* in Tanach and in Aramaic, a singular form, from which the
 English "Jerusalem" comes; the traditional pronunciation *Yerushalayim* is a
-dual, which is heard as the alluding to two cities joined into one. The Targum
-reads *shevet achim gam yachad* (Tehillim 133:1) as the union of the twin
-cities.
+dual, which is heard as alluding to two cities joined into one. The Targum
+reads *shevet achim gam yachad* (Tehillim 133:1) as the unity of the twin
+cities, and the column's illustration is Buda and Pest becoming Budapest.
 
 ### tziyon as a common noun
 Rabbi Tukachinsky: at Yoel 4:18 and Tehillim 2:6 *tziyon* names the Beis
@@ -147,6 +166,7 @@ Rashi to Sotah 5a and Yoma 77b; Vilna Gaon to Yeshayahu 1:9; Tehillim 48:3 with
 Ibn Ezra, Radak, and Rashi citing Dunash ibn Labrat; *Midrash Socher Tov* and
 Rabbi Yosef Tuv-Elem, *Tzafnas Panei'ach*, to Vayikra 1:11; Yirmiyahu 31:5;
 Tehillim 132:14, 2:6, 133:1 with Targum; Yoel 4:18; Yeshayahu 51:3; *Shekalim*
-8:1; *Zohar*, *Idra Zuta* 296b. The article credits *Har HaKodesh* (Rabbi Moshe
-Nachum Shapiro) and *Ir HaKodesh VeHaMikdash* (Rabbi Yechiel Michel
-Tukachinsky).
+8:1; *Zohar*, *Idra Zuta* 296b. The article closes by saying that much of its
+information was culled from *Har HaKodesh* by the late Rabbi Moshe Nachum
+Shapiro and *Ir HaKodesh VeHaMikdash* by Rabbi Yechiel Michel Tukachinsky; that
+is the whole of what it attributes to the former.

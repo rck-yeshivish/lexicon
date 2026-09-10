@@ -15,8 +15,8 @@ words:
 sources:
   - wiaw:11655 "Vayechi: Good and Pleasant" (2025-01-11) https://articles.ohr.edu/articles/vayechi-good-and-pleasant
 authorities: [Rabbi Eliyahu Bachur, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rav Hirsch, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Shaul Goldman, Rabbi Reuven Chaim Klein]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Good: tov / noam / shapir (shefer)
 
@@ -27,12 +27,14 @@ updated: 2026-09-09
 (*Chotam Tochnit*) defines it as *yofi*. *Shapir* / *shefer* is **fine** or
 **fitting**: goodness in the sense of well done, proper, meeting the standard;
 Bedersi defines it as *tov*, and in the Gemara *shapir* is the adverb "well".
-Two readings of Bedersi's split: the column (Rabbi Klein) takes *noam* as
-subjective, personally felt goodness and *shapir* as objective goodness; Rabbi
-Shaul Goldman takes *noam* as attraction (whatever its basis) and *shapir* as
-plain positivity with no pull in it. Either way the rendering holds: *noam*
-"pleasant", *shapir* "fine". Trap: "good" absorbs all three; when *tov* and
-*naim* sit in one pasuk (Bereishis 49:14) they need two English words.
+Two readings of Bedersi's split, neither of them his own words: the column
+(Rabbi Klein), who freely admits he is probably reading too much into Bedersi,
+takes *noam* as subjective, personally felt goodness and *shapir* as objective
+goodness; Rabbi Shaul Goldman holds that even if both are subjective they name
+different qualities, *noam* attraction and desirability (whatever its basis) and
+*shapir* plain positivity with no pull in it. Either way the rendering holds:
+*noam* "pleasant", *shapir* "fine". Trap: "good" absorbs all three; when *tov*
+and *naim* sit in one pasuk (Bereishis 49:14) they need two English words.
 
 ## Distinctions
 
@@ -51,31 +53,66 @@ also gives *im*, "with": a person bonds with what he finds pleasant, so *noam* i
 the pull toward a thing one wishes to join; in *Cheshek Shlomo* he reduces it
 further to ע, movement. Rav Hirsch (Bereishis 5:30): the pleasant thing arouses
 and moves a person toward a goal. Ibn Janach and Radak (*Sefer HaShorashim*)
-define both *noam* and *shapir* as *yofi*; Menachem Ibn Saruk defines *shapir*
-as *noam* and *noam* as *hadar*. Bedersi: *noam* is *yofi*, beauty. The column:
-subjective goodness, felt personally, as the *yefas toar* need be beautiful only
-in her captor's eyes (Kiddushin 22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim
-21:11); this is why Yissachar, blessed with *na'eimah* (Bereishis 49:14, read of
-Torah by Bereishis Rabbah 98:12 and Zohar Vayechi 242b), became the tribe of the
-poskim (Divrei HaYamim I 12:33; Yoma 26a). Rabbi Goldman: *noam* is attraction
-and desirability, whether grounded in objective features or not. The names
-Naomi, Naamah, Naaman carry the root.
+define both *noam* and *shapir* as *yofi*; Menachem Ibn Saruk (*Machberes
+Menachem*) defines *shapir* as *noam* and *noam* as *hadar*, beauty. Bedersi, in
+*Chosam Tochnis*, the first known book that tries to distinguish Hebrew
+synonyms: *noam* is *yofi*, beauty. The column, saying it seems to it that
+Bedersi means this and admitting it is probably reading too much in: subjective
+goodness, felt personally, as beauty is in the eye of the beholder, the way the
+*yefas toar* need be beautiful only in her captor's eyes (Kiddushin 22a; Sifrei
+Ki Seitzei 211; Ibn Ezra to Devarim 21:11). Rabbi Goldman, in personal
+correspondence with the author: *noam* is attraction and desirability, whether
+grounded in objective features such as symmetry, color and form or in wholly
+subjective ones. Personal names carry the root: Naomi, wife of Elimelech;
+Naamah, daughter of Lemech (Bereishis 4:22) and also a wife of Shlomo (Melachim
+I 14:21, 14:31; Divrei HaYamim II 12:13); Naaman the Aramean general (Melachim
+II 5:2-27); the Arabic Naim and the Modern Hebrew Noam.
 
 ### shapir (שפיר), shefer (שפר)
 Root ש-פ-ר: beauty, improvement, goodness. Iyov 26:13, "by His breath the
-heavens were made *shifrah*", an act of perfecting. Biblical Aramaic *shefar*
-(Daniel 3:32, 4:24, 6:2) is a king's approval, "it seemed good". Talmudic
-*shapir* is "well", "properly" (*ati shapir*, *shapir ka'amar*). Rabbi Moshe
-Shapiro: a *shiphal* form of פ-א-ר, the shin marking an action that produces
-*pe'er*, glory. Bedersi: *shefer* is *tov*. The column: objective goodness, a
-value recognized regardless of the beholder. Rabbi Goldman: plain positivity,
-"good" or "fitting", with no necessary appeal or elegance; good advice is
-*shapir* even when it does not resonate and is hard to accept. Naftali's *imrei
-shefer* (Bereishis 49:21) is read by Midrash Shocher Tov (Tehillim 81:4) as
-spreading Torah, by Sotah 13a through *sefer*, and by Midrash Aggadah as
-cleverness; the Targumim and Midrashim together give good tidings, praise, song,
-verbal wit, even the shofar. Naftali is the Torah's speaker; Yissachar its
-toiler.
+heavens were made *shifrah*", an act of perfecting, making them splendid and
+orderly. Biblical Aramaic *shefar* (Daniel 3:32, 4:24, 6:2) is a king's
+approval, "it seemed good". Talmudic *shapir* is "well", "properly" (*ati
+shapir*, *shapir ka'amar*), affirming that an argument is correct or that a
+thing meets the standard. Rabbi Moshe Shapiro: a *shiphal* form of פ-א-ר, the
+shin marking an action that produces *pe'er*, glory. (The column adds that a
+popular folk etymology ties the old Jewish surname Shapiro or Shapira to
+*shapir*, though historians presume it more plausibly comes from the German
+town Speyer.) Bedersi: *shefer* is *tov*. The column, on the same admittedly
+strained reading of Bedersi: objective goodness, a value recognized regardless
+of the beholder. Rabbi Goldman: plain positivity, "good" or "fitting", with no
+necessary appeal or elegance; a strong logical argument is not always elegant,
+an elegant insight is not always practical, and good advice is *shapir* even
+when it does not resonate and is hard to accept.
+
+Naftali's *imrei shefer* (Bereishis 49:21) is read by *Midrash Shocher Tov*
+(Tehillim 81:4) as spreading Torah, which the column compares to the English
+*gospel*, from Old English *god spell*, "good message"; by Sotah 13a through
+*sefer*, "book", on the interchange of shin or sin with samech; and by *Midrash
+Aggadah* as a blessing that Naftali's Torah students be especially clever. The
+Targumim and Midrashim together give good tidings, thanksgiving and berachos to
+Hashem, agricultural fecundity, song, verbal cleverness, and even the shofar,
+from which the column reads Naftali as the quick and persuasive communicator.
+
+### The question the column opens with, and its answer
+Yaakov gave Yissachar and Naftali essentially the same berachah, that they
+excel in Torah, and the only difference is the word: *na'eimah* for Yissachar
+(Bereishis 49:14, read of Torah by Bereishis Rabbah 98:12, with the Zohar
+Vayechi 242b making "rest" the Written Torah and "the land" the Oral Torah) and
+*imrei shefer* for Naftali (49:21). Yet in practice it is Yissachar who is
+associated with mastery of Torah: Klal Yisrael consulted the children of
+Yissachar for their depth in Torah (Divrei HaYamim I 12:33), Targum Yonasan (to
+Bereishis 46:13) has his descendants wise men and masters of calculation, and
+the poskim generally came from Levi or from Yissachar (Yoma 26a). The column's
+answer, on its own reading of Bedersi: Yissachar experienced Torah as
+*subjectively* good, felt as beautiful and pleasant on a personal level, rather
+than as an objective value held at arm's length; it frames the lesson in terms
+of a "growth mindset," intrinsic motivation over extrinsic validation. Rabbi
+Goldman carries the contrast back to the tribes' origins: Yissachar came of
+Leah's deliberate transaction with Rachel over the *dudaim* (Bereishis
+30:14-18), earned reward through effort, while Naftali came of Rachel's prayers
+and struggles and of her giving Bilhah to Yaakov (Bereishis 30:3-9), following
+the precedent of Sarah and Hagar.
 
 ## Rendering guidance
 
@@ -103,8 +140,11 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "Vayechi: Good and Pleasant," What's in a Word?, Ohr
 Somayach, 11 Teves 5785 (2025-01-11): raw text in
-`sources/whats-in-a-word/raw/11655-vayechi-good-and-pleasant.md`. Primary loci
-the article cites: Bereishis 49:14, 49:21; Tehillim 16:6; Iyov 26:13; Daniel
+`sources/whats-in-a-word/raw/11655-vayechi-good-and-pleasant.md`. The article
+vocalizes the *shin* of Iyov 26:13 as *shafrah*, on the pattern of Tehillim
+16:6; the pasuk there reads *shifrah*. Primary loci the article cites: Bereishis
+4:22, 30:3-9, 30:14-18, 46:13, 49:14, 49:21; Melachim I 14:21, 14:31; Melachim
+II 5:2-27; Divrei HaYamim II 12:13; Tehillim 16:6; Iyov 26:13; Daniel
 3:32, 4:24, 6:2; Rabbi Eliyahu Bachur, *Meturgeman*, on Targum to Vayikra 10:20,
 Bamidbar 24:1, Bereishis 6:2, 12:11, 29:17, 41:2, Shmuel I 8:16, 9:2, Melachim I
 20:3; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo* s.v. נעם; Rav
