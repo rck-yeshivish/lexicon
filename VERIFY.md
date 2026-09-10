@@ -79,10 +79,10 @@ For one entry, with its source article open beside it:
       Rabbi Reuven Chaim Klein, "An Utter Embarrassment," *What's in a Word?*,
       Ohr Somayach, 17 September 2022.
 
-      Loci: Radak to Yeshayahu 45:16 and *Sefer HaShorashim*; Bedersi,
+      Cited in the essay: Radak to Yeshayahu 45:16 and *Sefer HaShorashim*; Bedersi,
       *Chotam Tochnit*; Rav Hirsch to Vayikra 13:59 and Tehillim 139:16; ...
 
-  One citation line per article the entry rests on, then one "Loci:" line
+  One citation line per article the entry rests on, then one "Cited in the essay:" line
   listing only what the body actually uses, each at its correct locus. No
   commentary of any kind: not what was changed or restored, not how the article
   cross-refers to its own earlier pieces, not why the entry attributes

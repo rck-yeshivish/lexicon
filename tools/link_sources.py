@@ -1,4 +1,4 @@
-"""Link each citation in an entry's Sources section to the essay it names.
+"""Tidy each entry's Sources section: link the essay, plain-label the list.
 
 The citation line is written as
     Rabbi Reuven Chaim Klein, "<title>," *What's in a Word?*, Ohr Somayach, <date>.
@@ -6,6 +6,10 @@ and the front matter's `sources:` list already carries each essay's ohr.edu
 address. This matches them by title and turns the title into a link, so every
 citation on the site opens the essay itself. It is idempotent: a title that is
 already a link is left alone.
+
+It also relabels the list of texts. Drafts wrote that line as "Loci:", which is
+Latin scholars' shorthand most readers do not know; it reads "Cited in the
+essay:" instead.
 
     python tools/link_sources.py            # rewrite in place
     python tools/link_sources.py --check    # report only
@@ -40,6 +44,10 @@ def link(text, urls):
     # "Rabbi Reuven Chaim Klein, "Title," ..." -> title becomes a link.
     # A title already written as [Title](url) has no bare quote run, so it is skipped.
     tail = re.sub(r'(Rabbi Reuven Chaim Klein, ")([^"\[\]]+?)(,?")', sub, tail)
+    relabeled = re.sub("(?m)^Loci:", "Cited in the essay:", tail)
+    if relabeled != tail:
+        n += 1
+        tail = relabeled
     return head + sep + tail, n
 
 

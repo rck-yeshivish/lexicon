@@ -17,73 +17,84 @@ words:
 sources:
   - wiaw:7039 "Why? Which \"Why\"?" (2016-12-10) https://articles.ohr.edu/articles/why-which-why
 authorities: [Ibn Parchon, Radak, Rabbeinu Yonah ibn Janach, Ibn Ezra, Ramban, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Shlomo Aharon Wertheimer]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Why: lamah / madua
 
 ## Bottom line
 
-Both mean **why**. *Madua* is the neutral question, asking on what reasoning a
-thing rests; *lamah* asks toward what end, and in most of the authorities it
-carries a charge, either complaint or rebuke, and often expects no answer.
-English has one word for both, so the difference has to be carried by the rest
-of the sentence: render *madua* "why" plainly, and *lamah*, where the context
-supports it, as "why on earth," "for what purpose," or with the objection said
-outright.
+Both mean **why**, and in many places they seem interchangeable; Ibn Parchon
+and Radak hold them synonymous, while the column holds that no two Hebrew words
+mean exactly the same thing. Those who find a difference give four accounts:
+Rabbi Yaakov Tzvi Mecklenburg and the Malbim make *madua* ask the effective
+cause and *lamah* the ultimate purpose; Rabbi Shlomo Aharon Wertheimer makes
+*lamah* imply that the matter is wrong, a complaint or rebuke, and *madua*
+neutral; others make *lamah* rhetorical and *madua* a request for a real
+answer; and some make *madua* specifically the question about a ruling or
+command. English has one word for both, so the difference has to be carried by
+the rest of the sentence: render *madua* "why" plainly, and *lamah*, where the
+context supports Wertheimer's reading, as "why on earth," "for what purpose,"
+or with the objection said outright.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| למה | lamah | why, for what purpose | la- plus mah, "for what"; ultimate purpose (Mecklenburg, Malbim); complaining or rebuking, often rhetorical (Wertheimer) |
-| מדוע | madua | why, on what grounds | mah deah, "what thinking" (Ibn Janach); the effective cause; neutral, and expects a real answer |
+| למה | lamah | why, for what purpose | la- plus mah, "for what"; ultimate purpose (Mecklenburg, Malbim); complaining or rebuking (Wertheimer); rhetorical (others) |
+| מדוע | madua | why, on what grounds | mah deah, "what thinking" (Ibn Janach); the effective cause (Mecklenburg, Malbim); neutral (Wertheimer), and expects a real answer (others) |
 
 ## Where the authorities disagree
 
-**Whether there is a difference at all.** Ibn Parchon and Radak hold the two
-words synonymous. Everyone else quoted here holds that they are not, and the
-Bottom line follows the majority, since Hebrew does not carry two words for one
-sense.
+**Whether there is a difference at all.** Some early grammarians, such as Ibn
+Parchon and Radak, explain that the two words are synonymous. Against them the
+column sets its own principle, demonstrated in its other essays, that the
+Hebrew language is not happenstance and no two words mean exactly the same
+thing; and others find slight differences in connotation. The Bottom line
+follows those who distinguish.
 
-**What the difference is.** Three accounts, and they are not the same account:
+**What the difference is.** Four accounts, not one:
 
 1. **Cause against purpose.** Rabbi Yaakov Tzvi Mecklenburg (*HaKesav
-   VeHaKabbalah* to Shemos 5:4) and the Malbim: *madua* asks after the
-   effective cause of a thing, *lamah* after its final purpose. This falls out
-   of the etymologies, *mah deah* (what reasoning produced this) against *la-mah*
-   (for what end).
-2. **Neutral against loaded.** Rabbi Shlomo Aharon Wertheimer: *madua* asks
-   about something that strikes the asker as strange or out of the ordinary, but
-   implies nothing for or against it; *lamah* implies that the matter is wrong,
-   and is the word of complaint ("why are you doing this to me?") and of rebuke
-   ("why did you do such a thing?").
-3. **Earnest against rhetorical.** A further view: one who asks *lamah* is not
-   waiting for an answer, only registering his objection, while one who asks
-   *madua* genuinely wants a reply.
+   VeHaKabbalah* to Shemos 5:4) and the Malbim, partially on the basis of the
+   etymologies (*mah deah*, what thinking, against *la-mah*, for what): *madua*
+   asks after the effective cause of a thing, *lamah* after its ultimate
+   purpose, its final reason.
+2. **Neutral against loaded.** In a slight departure from that approach, Rabbi
+   Shlomo Aharon Wertheimer: *madua* questions the cause of something seemingly
+   bizarre or out of the ordinary, and simply asks for more information without
+   implying anything positive or negative; *lamah* implies that the matter is
+   somehow wrong, and is the word of complaint ("why are you doing this to
+   me?") and of rebuke ("why did you do such-and-such?").
+3. **Earnest against rhetorical.** Similarly, others explain that one who asks
+   *lamah* does not expect a serious answer, only stating his objection, while
+   one who asks *madua* genuinely seeks one.
+4. **Rulings against everything else.** Some explain that *madua* is used
+   specifically when questioning the rationale of a particular ruling or
+   command, *lamah* in other contexts.
 
-A fourth, narrower position holds that *madua* is specifically the word for
-questioning the reasoning of a ruling or a command, *lamah* being free for other
-contexts. The Bottom line combines readings 2 and 3, which agree in practice and
-are what a translator can actually act on; reading 1 is the etymological account
-underneath them.
+The Bottom line's rendering advice leans on readings 2 and 3, which the column
+joins with "similarly," because they are what a translator can act on; that
+choice is ours, and readings 1 and 4 stand beside them.
 
 ## Distinctions
 
 ### madua (מדוע)
-Rabbeinu Yonah ibn Janach (*Sefer Rikmah*), cited by Radak, reads it as a
-contraction of *mah deah*, "what thinking," a question after the rationale
-behind an occurrence or an act. Ibn Ezra (to Shemos 18:14) says the same, and
-Ramban (to Bereishis 30:20) writes that *madua* is a contraction of two words
-without spelling out which.
+Rabbeinu Yonah ibn Janach (990 to 1050; *Sefer Rikmah*), cited also by Radak,
+reads it as a contraction of *mah deah*, "what thinking," as if asking what
+thinking or rationale lies behind an occurrence or an act. The explanation is
+also found in Ibn Ezra (to Shemos 18:14), and Ramban (to Bereishis 30:20)
+alludes to it, writing that *madua* is a contraction of two words without
+elaborating further.
 
 ### lamah (למה)
-A compound of the prefix *la-*, "for," and *mah*, "what," so that the question
-is for what objective the thing exists or was done.
+It can similarly be seen as a compound of the prefix *la-*, "for," and *mah*,
+"what," so that the question is for what objective the thing exists or was done.
 
 ## Rendering guidance
 
-- Default *madua* to a plain "why." It is the word that carries no verdict.
+- Default *madua* to a plain "why." On Wertheimer's reading it is the word that
+  carries no verdict.
 - Where *lamah* stands in a complaint or a rebuke, let the English sentence
   carry the tone: "Why would you do this?", "For what?", "And why, then…?"
   Simply writing "why" leaves the pasuk flat.
@@ -107,4 +118,4 @@ raw text in `sources/whats-in-a-word/raw/7039-why-which-why.md`. Primary loci
 cited: Rabbeinu Yonah ibn Janach, *Sefer Rikmah* (cited also by Radak); Ibn Ezra
 to Shemos 18:14; Ramban to Bereishis 30:20; Rabbi Mecklenburg, *HaKesav
 VeHaKabbalah* to Shemos 5:4; the Malbim; Rabbi Shlomo Aharon Wertheimer; Ibn
-Parchon.
+Parchon. The column names no work for the Malbim or Rabbi Wertheimer here.

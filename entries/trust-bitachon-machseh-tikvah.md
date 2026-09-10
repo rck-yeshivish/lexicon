@@ -14,8 +14,8 @@ sources:
   - wiaw:8836 "Trusting and Relying on G-d" (2020-08-29) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
 authorities: [Rabbeinu Bachaya Ibn Pakuda, Malbim, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Tzuriel, Peirush HaRokeach, Rabbi Moshe Wolfson]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Trust: bitachon / machseh / tikvah / tocheles / chikui / semichah / mishan / saad / sever / kesel
 
@@ -25,10 +25,14 @@ updated: 2026-09-09
 (Malbim: a state of the heart, silent about action). *Machseh* is **refuge**,
 trust lived out (Malbim), or trust in Hashem beyond what He promised (Vilna
 Gaon). *Tikvah* is **hope**, *tocheles* **expectant waiting** with some doubt,
-*chikui* **waiting** in full certainty (Wertheimer's ascending scale). *Semichah*
-is **leaning** with one's whole weight, *mishan* **leaning for support** out of
-need, *saad* **support** given (Malbim, Pappenheim). *Sever* is **hopeful
-looking-to**; *kesel* **assurance** that nothing bad will happen. Chovos
+*chikui* **waiting** in full certainty (Wertheimer's scale of certainty).
+*Semichah* is **leaning**, *mishan* **leaning for support**, on two different
+lines: for Malbim *semichah* is with one's whole weight and *mishan* only
+partial; for Pappenheim *somech* covers any leaning, even by choice, and
+*mishan* is leaning out of need. *Saad* is **support** given (Malbim: to one
+unaware of it; Pappenheim: to one who needs *mishan*), better rendered "helps"
+according to Rabbi Moshe Tzuriel's suggestion. *Sever* is **hopeful
+looking-to**; *kesel* **assurance** that nothing bad will happen (Malbim). Chovos
 HaLevavos counts these as ten levels of one thing; do not collapse them all into
 "trust."
 
@@ -54,33 +58,41 @@ Yisrael* (Tehillim 130:7), for our sins may block what we await. *Tikvah*: one
 relies wholly on the fulfilment, though he cannot say it is certain. *Chikui*:
 one is sure it will happen and is only waiting. Pappenheim: *tikvah* is from
 ק-ו, *kav*, a straight line (the builder's cord; the rope of Yehoshua 2:18; the
-*mikveh* into which waters run straight, Bereishis 1:9-10); hope sees a
-straight line from now to the anticipated end.
+*mikveh*, the body of water gathered as waters travel in a straight line to
+one place, Bereishis 1:9 to 10, Shemos 7:19, Vayikra 11:36); hope sees a
+straight line from the current situation to the one anticipated.
 
 ### semichah (סמיכה), mishan (משען), saad (סעד)
 *Somech* is "next to," hence leaning. Malbim, from Chagigah 16b (one leans on
 the korban with all his weight): *semichah* is leaning with all one's might,
 *mishan* only partly. Pappenheim: *mishan* is from ש-ע, enjoyment (with
 *sha'ashua*, *yeshuah*, *shav'ah*): the satisfaction of being supported; a
-*mishenes* is the walking-stick. *Somech* is leaning by choice (Moshe on
-Yehoshua, Devarim 34:9; Yisrael on the Leviim, Bamidbar 8:10), *mishan* leaning
-because one is too weak to stand alone. Malbim: *saad* is holding up an
+*mishenes* is the walking-stick, a great satisfaction to the elderly who
+struggle to walk. Pappenheim also divides *somech* from *mishan*: *somech* is any
+leaning or relying, even when done willingly and not forced (Moshe on Yehoshua,
+Devarim 34:9; Yisrael on the Leviim, Bamidbar 8:10, where they would not have
+fallen had they not leaned), while *mishan* is leaning on another for actual
+support because one is too weak to support oneself. Malbim: *saad* is holding up an
 inanimate thing so it does not fall, so also a patron's support of a
 beneficiary who does not know of it; *mishan* is a beneficiary who knowingly
 relies on another, usually Hashem (Michah 3:11). Pappenheim: *saad* is the act
 of helping one who needs *mishan* (so *soed*, refreshing with food, Bereishis
-18:5, Tehillim 104:15; *seudah*). Rabbi Moshe Tzuriel: *saad* is best "helps,"
-for the beneficiary also contributes to his own betterment.
+18:5, Tehillim 104:15; *seudah*). Rabbi Moshe Tzuriel suggests *saad* is better
+translated "helps," for the beneficiary also contributes to his own betterment
+and does not rely wholly on outside help.
 
 ### sever (שבר) and kesel (כסל)
 Peirush HaRokeach: *sever* is spelled like *shever*, food; men look to Hashem
 in hope and He gives them their food (Tehillim 145:15). Wertheimer: *sever* is
 strong trust that grows from recognising Hashem as creator and sustainer of all.
-*Kesel* shares its root with *kesil*, fool. Malbim: in *tikvah* one awaits a
+*Kesel*, confidence or reliance, seems to be a cognate of *kesil*, fool, both
+from כ-ס-ל. Malbim: in *tikvah* one awaits a
 good; in *kesel* one is sure, with almost foolish naivety, that no harm will
-come. Rabbi Moshe Wolfson: to rely on Hashem wholly one must be willing to look
-foolish; such a fool walks in the light, not the dark (Koheles 2:14), and Kislev
-is the month for it.
+come. Rabbi Moshe Wolfson accounts for the connection differently: to rely on
+Hashem wholly one must be willing to appear illogical or foolish; though the
+fool in general walks in the dark (Koheles 2:14), one considered a fool for
+following Hashem walks in the light, and so Kislev, when the light of Chanukah
+illuminates the dark winter, is especially the month to work on *kesel*.
 
 ## Rendering guidance
 
@@ -95,8 +107,8 @@ is the month for it.
   סעד / סועד: "support," "sustains," "helps" (Tzuriel).
 - שבר / משבר: "look to in hope"; כסל: "assurance," "confidence" (Mishlei 3:26).
 - Trap: English "trust" (and "rely") absorbs at least six of these. When a text
-  lists them (the ten of Chovos HaLevavos; a pasuk with two, like Tehillim 71:1
-  or 118:9), give each its own English and keep the author's order; where the
+  lists them (the ten of Chovos HaLevavos; a pasuk with two, like Mishlei 14:26
+  or Tehillim 118:9), give each its own English and keep the author's order; where the
   order is a ladder (Wertheimer's *tocheles* < *tikvah* < *chikui*), make it
   climb in English too.
 
@@ -113,6 +125,9 @@ Ohr Somayach, 9 Elul 5780 (2020-08-29): raw text in
 `sources/whats-in-a-word/raw/9877-trusting-and-relying-on-g-d-2.md`. Primary
 loci the article cites: Chovos HaLevavos, Shaar HaBitachon (close); Yeshayahu
 26:4, 30:18, 64:3; Yirmiyahu 17:7; Tehillim 3:6, 18:19, 18:36, 20:3, 27:14,
-38:16, 41:4, 71:1, 71:6, 118:9, 130:7, 145:15, 146:5; Mishlei 3:26, 14:26 with
-Biur HaGra; Chagigah 16b; Devarim 34:9; Bamidbar 8:10; Michah 3:11; Yehoshua
-2:18; Koheles 2:14.
+38:16, 41:4, 71:1, 71:6, 104:15, 118:9, 130:7, 145:15, 146:5; Mishlei 3:26, 14:26
+with Biur HaGra; Bereishis 1:9, 1:10, 18:5; Shemos 7:19; Vayikra 11:36; Chagigah
+16b; Devarim 34:9; Bamidbar 8:10; Michah 3:11; Yehoshua 2:18; Koheles 2:14.
+Authorities: Rabbeinu Bachaya Ibn Pakuda; Malbim; the Vilna Gaon; Rabbi Shlomo
+Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe Tzuriel; *Peirush
+HaRokeach*; Rabbi Moshe Wolfson.
