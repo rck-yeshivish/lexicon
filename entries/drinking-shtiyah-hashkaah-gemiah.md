@@ -10,9 +10,9 @@ words:
     nk: שׁוֹקֵק
 sources:
   - wiaw:10709 "Chayei Sarah: Take a Drink" (2022-11-12) https://articles.ohr.edu/articles/chayei-sarah-take-a-drink
-authorities: [Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Shadal, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rashi, Rav Hirsch, Rabbi Ernest Klein]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Shadal, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rashi, Rav Hirsch, Rabbi Ernest Klein, Antoine-Chrysostome Quatremere de Quincy]
+status: reviewed
+updated: 2026-09-10
 ---
 # Drinking: lishtos / lehashkos (mashkeh) / hagmieini
 
@@ -22,11 +22,21 @@ updated: 2026-09-09
 animals; over 220 appearances in Tanach. *Lehashkos* is **to give to drink**, to
 water, almost always in *hifil*; over 60 appearances, and it covers watering the
 ground as well as people and beasts, because it names the providing and not the
-drinking. *Mashkeh* is the **beverage**, often a strong one. *Hagmieini* is
-Rivkah's word, **let me sip** or **let me swallow**. The trap: English "drink"
-does both jobs, so "she gave him to drink" and "he drank" collapse into one verb;
-in the Rivkah narrative the Torah alternates the two roots deliberately, and the
-translation has to keep them apart.
+drinking. *Mashkeh* is the **beverage**, sometimes with the implication of an
+alcoholic one. *Hagmieini* is the servant's word, **let me sip** or **let me
+swallow**. The trap: English "drink" does both jobs, so "she gave him to drink"
+and "he drank" collapse into one verb; in the Rivkah narrative the Torah
+alternates the two roots deliberately, and the translation has to keep them
+apart.
+
+Note what the column does *not* claim to have settled. Having laid out the
+usage, it asks why Hebrew should have two different roots for drinking and
+giving to drink, when eating and feeding come off one root (א-כ-ל, *lechol* and
+*leha'achil*), and why the active *lishtos* should be confined to man and beast
+while the causative *lehashkos* reaches even to plants. Its answer, in its own
+words, is that the author has wondered about these questions for years and has
+not yet found a satisfactory answer. What follows are etymological insights, not
+a resolution.
 
 ## Distinctions
 
@@ -41,7 +51,9 @@ drinking: liquid helps the digestive system settle food into its place and draw
 its full nourishment, which is why wherever Tanach juxtaposes the two verbs,
 drinking precedes eating. In *Yerios Shlomo* he puts it slightly differently:
 drinking restores the innards shriveled and constricted by thirst to their
-settled state. On either reading *lishtos* names what happens inside the drinker,
+settled state. On that second reading he also considers that *shesen* may itself
+derive from *lishtos*, urine being the liquid waste that is a byproduct of
+drinking. On either reading *lishtos* names what happens inside the drinker,
 which is why it is never used of watering a field.
 
 ### lehashkos (להשקות) and mashkeh (משקה)
@@ -52,7 +64,8 @@ and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
 - Rabbi Aharon Marcus: from the biliteral ש-ק, movement. So *teshukah* is the
   motivation that sets a man moving, *shok* is the thigh that moves the leg,
   *shuk* is the marketplace everyone strives toward, *meshek gevim* (Yeshayahu
-  33:4) is the marching of locusts in unison, *shaked* is steady diligence, and
+  33:4) is the marching of locusts in unison, *shaked*, diligence or the almond
+  tree, is consistent and diligent movement, and
   Eliezer as Avraham's *meshek* (Bereishis 15:2) is the manager who keeps a
   household in motion. The opposite pole of the same root is *sheket*, the
   stillness of no movement at all.
@@ -71,27 +84,43 @@ and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
   and *shuk* the busy noisy market. On *meshek* (Bereishis 15:2) he agrees it is
   the manager who directs the household's movement and logistics, notes it
   appears only there because it is set beside the similarly spelled *Damesek*,
-  and rejects the reading that makes it a cup-bearer, since in Tanach only kings
-  have cup-bearers and Avraham was no king.
+  and cites the French historian Antoine-Chrysostome Quatremère de Quincy for
+  the reading that *meshek* relates to *mashkeh* in the sense of a cup-bearer,
+  which Shadal rejects on the grounds that in Tanach only kings have cup-bearers
+  and Avraham was no king.
 - Rabbi Shlomo Pappenheim's summary of the pair: *lishtos* is about what drinking
   does to the body, so it is the act itself; *lehashkos* is about the sound of
   liquid not yet drunk, so it is everything before the act, the preparing and
   providing.
 - Rav Hirsch (to Bereishis 40:23; Bamidbar 33:52) reads ש-ק-ה as quenching, filling
   to the maximum, and groups with it ש-כ-ח (forgetting, a mind so full there is no
-  room left), ש-ג-ה (inadvertence), ש-ג-ע, and ש-ג-ח (watching intently).
+  room left), ש-ג-ה (inadvertence, acting without proper focus), ש-ג-ע (insanity,
+  the delusional conceptions of a crazed man), and ש-ג-ח (watching, an intense
+  and focused looking).
 
 ### hagmieini (הגמיאיני)
-Rivkah's word at Bereishis 24:17, "let me drink." All the early lexicographers,
-Ibn Saruk included, give the root ג-מ-א. Rashi (there) connects ג-מ-א to ג-מ-ע,
-which does not appear in Tanach but does in the Mishnah (Shabbos 8:1, 14:4) and
-in Targum (Iyov 39:30) for swallowing; the Gemara (Shabbos 77a) debates which
-letter that Mishnaic word takes and adduces *hagmieini* as proof for the aleph.
-Rabbi Shlomo Pappenheim instead traces it to the biliteral ג-מ, spongy absorbent
-material, whence *gome*, the marsh reed: the request is to drink the way a reed
-soaks up water. The Rabbinic *lugma* (a cheekful) and *legimah* (a sip) may
-belong with it, though Rabbi Ernest Klein holds the origin of the Rabbinic ל-ג-מ
-unknown.
+The servant's word at Bereishis 24:17, meaning something along the lines of "let
+me drink." All the early lexicographers, the biliteralist Menachem Ibn Saruk
+included, give the root ג-מ-א. Rashi (there) takes another approach and connects
+ג-מ-א to ג-מ-ע, the column adding that this is possibly via the interchange of
+*aleph* and *ayin*; ג-מ-ע does not appear in Tanach but does in the Mishnah
+(Shabbos 8:1, 14:4) and elsewhere in rabbinic literature, including the Targum
+to Iyov 39:30, for swallowing. Rashi's comparison rests on the Gemara (Shabbos
+77a), which debates whether that Mishnaic word takes an *aleph* or an *ayin* and
+adduces the pasuk of *hagmieini* as proof for the *aleph*. Rabbi Shlomo
+Pappenheim instead traces it to the biliteral ג-מ, spongy or absorbent material,
+which gives *gome*, the spongy reed of marshy wetlands: the request is to drink
+the way a reed soaks up water.
+
+The column offers two further possibilities of its own. First, that the term may
+be related to the Mishnaic *guma*, a pit or hole (Chullin 2:9; Parah 2:5),
+drinking being a pouring of things down the hole of one's mouth, on the order of
+the English "down the hatch." Second, a suggestion he credits to his wife, Shira
+Yael Klein, that the root is onomatopoeic, rendering the sound of glugging,
+gulping or slurping down a drink. He adds that the rabbinic *lugma* (a cheekful)
+and *legimah* (a sip) may well be related to *hagmieini*, although Rabbi Ernest
+Klein writes that the origin of the rabbinic ל-ג-מ is unknown and may in fact be
+borrowed from the Greek *lygmos*, "swallowing."
 
 ### how the parashah uses them
 Bereishis 24 runs all three through one episode: *lishtos* of the servant
@@ -128,5 +157,6 @@ https://articles.ohr.edu/articles/chayei-sarah-take-a-drink; raw text in
 cited: Bereishis 2:6, 15:2, 24:14-24:46, 40:23; Vayikra 13:48; Bamidbar 33:52;
 Yeshayahu 33:4; Tehillim 11:3; Iyov 39:30; Shabbos 8:1, 14:4, and 77a; Chullin
 2:9; Parah 2:5; *Machberes Menachem*; *Cheishek Shlomo*; *Yerios Shlomo*. The
-article's citation of a French historian on *meshek* as cup-bearer (a reading
-Shadal rejects) and its Greek derivation of *legimah* are omitted here.
+column's citation of Antoine-Chrysostome Quatremère de Quincy on *meshek* as
+cup-bearer (a reading Shadal rejects) and Rabbi Ernest Klein's possible Greek
+*lygmos* behind *legimah* are reported above as the column reports them.

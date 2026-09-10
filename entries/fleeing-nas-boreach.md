@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:7779 "Running Away" (2018-06-02) https://articles.ohr.edu/articles/running-away
 authorities: [Sforno, Malbim, Sefer HaChochmah (Rabbi Elazar Rokeach of Worms), Rabbi Naftali Hertz Treves (Sefer HaGur), Rabbi Shlomo Aharon Wertheimer, Targum Onkelos]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Fleeing: nas / boreach
 
@@ -53,14 +53,16 @@ Sforno: running away out of fear of a future threat, with nobody chasing.
 Malbim: the danger is more abstract, less tangible, not yet immediate. Two
 further marks in Malbim. First, one who is *boreach* runs clandestinely, so that
 even a bystander would not necessarily see that he is on the run, where one who
-is *nas* is unmistakably fleeing. Second, one who is *boreach* is running from
+is *nas* is very obviously fleeing in terror; the column's illustration is the
+difference between a man running from a poisonous snake and an informant hiding
+in witness protection. Second, one who is *boreach* is running from
 an intelligent pursuer, whether a man, an animal, or Hashem. Malbim ties the two
 together: fleeing something that can think requires going undercover, while
 fleeing a mindless danger requires only distance.
 
 ### The Aramaic
 Aramaic draws none of these distinctions. The root ע-ר-ק is its one word for
-running away, and it appears once in Tanach, at Iyov 30:3. The Targumim
+running away, and it appears once in Tanach, at Iyov 30:3. Most of the Targumim
 generally render both *nas* and *boreach* with *arak*, though Onkelos often
 renders *boreach* as *azil*, simply "went."
 

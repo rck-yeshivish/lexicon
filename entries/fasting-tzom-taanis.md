@@ -9,7 +9,7 @@ words:
   - he: צום
     tr: tzom
     en: fast
-    distinct: the Biblical word, near fifty times, for abstaining from food; Radak in his father's name derives it from "gathering", as in tzomes hagidim, where the sinews converge, so a tzom is a fast the whole community joins
+    distinct: the Biblical word, near fifty times, usually for abstaining from food; Radak in his father's name derives it from "gathering", as in tzomes hagidim, where the sinews converge, so a tzom is a fast the whole community joins
   - he: תענית
     tr: taanis
     en: fast day

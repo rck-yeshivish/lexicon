@@ -13,7 +13,7 @@ words:
   - he: כוורא
     tr: kavra
     en: fish
-    distinct: the other common Aramaic word; Tosafos (Moed Katan 11a) leaves open whether it means fish in general or one species, and Chullin 109b, which compares its taste to a bird's, points to a species
+    distinct: the other common Aramaic word; Tosafos (Moed Katan 11a) leaves open whether it means fish in general or one species, Chullin 109b, which compares its taste to a bird's, points to a species, and Jastrow reads it as fish kept live in a basket
   - he: שיבוטא
     tr: shibuta
     en: shibuta (a Babylonian river fish)
@@ -26,8 +26,8 @@ words:
     nk: תַּנִּין
 sources:
   - wiaw:9234 "Fun with Fish (Part 2/2)" (2021-06-05) https://articles.ohr.edu/articles/fun-with-fish-part-22
-authorities: [Rashi, Rivan, Meiri, Tosafos, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Ron Yosef Chaim Masoud Abuchatzeira, Rabbi Avraham Rivlin, Rabbi Nissim Paniri, Rabbi Aryeh Moshe Teicholtz, Rabbi Yitzchak Yishaya Weiss, Minchas Chinuch]
-status: draft
+authorities: [Rashi, Rivan, Meiri, Tosafos, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Ron Yosef Chaim Masoud Abuchatzeira, Rabbi Avraham Rivlin, Rabbi Nissim Paniri, Rabbi Aryeh Moshe Teicholtz, Rabbi Yitzchak Yishaya Weiss, Minchas Chinuch, Marcus Jastrow, Zohar Amar, Ari Zivotofsky]
+status: reviewed
 updated: 2026-09-10
 ---
 # Fish: nun / kavra / shibuta (sandal, tanin, nin)
@@ -56,10 +56,15 @@ derashah on it, not a translation.
 **Which came first, nun or nin.** Rav Hirsch (to Bereishis 1:21): *nun* derives from
 *nin*, offspring, the fish named for its fruitfulness, exactly as *dag* primarily
 denotes fecundity. Rabbi Ron Yosef Chaim Masoud Abuchatzeira: the reverse. Berachos 20a
-teaches that fish multiply because the ayin hara has no hold on them, so naming
-descendants by the fish-word turns the ayin hara from them; he connects this to the
-Tunisian, and especially Jerban, custom of giving children fish-names for that
-protection.
+teaches that fish are fruitful and multiply in large quantities because the ayin hara
+has no hold on them, so naming descendants by the fish-word turns the ayin hara from
+them; he compares this to the well-known custom among Tunisian Jews, especially those
+of Djerba, of giving children fish-related names to immunize them against the ayin
+hara. The column's examples: masculine Hayuta/Hauita ("fish" in some North African
+dialects of Arabic, though in Aramaic it means "snake"), Manani (grouper, possibly
+also related to *nun*), Bugid (striped red mullet), Hadir (torpedo fish), Karutz
+(bass), Uzifa, Wurgana; feminine Shelbia (salema porgy), Svirsa, Murgana, Manana (the
+feminized Manani), and Baharia (mermaid).
 
 **Why Ninveh is named for a fish.** Rabbi Avraham Rivlin: *nun* plus *naveh*, a fish
 inside a house, and Yonah, who refused to go, was made to live out the name inside a
@@ -68,16 +73,20 @@ second nun, so Hashem put him inside a *nun* to supply it. Rabbi Aryeh Moshe Tei
 the name recalls the fish-cult worshipped there. None excludes the others.
 
 **What kavra and shibuta are.** Tosafos (to Moed Katan 11a) leaves *kavra* undecided
-between fish in general and a particular fish; Chullin 109b favors a species. On
-*shibuta*, some say sturgeon or porpoise; Drs. Zohar Amar and Ari Zivotofsky identify
-the shabout, which the article calls the most definitive reading and which fits the
-Yerushalmi (Taanis 4:5) that *shibuta* is found in Bavel and not in Eretz Yisrael;
-*Minchas Chinuch* (550:2) holds the name can cover kosher and non-kosher fish both.
-Since the identification is contested, transliterate.
+between fish in general and a particular fish; Dr. Marcus Jastrow reads it as live
+fish kept in a basket, which would let it cover any fish so housed; Chullin 109b
+favors a species. On *shibuta*, Jastrow says probably the mullet, others the sturgeon
+or porpoise; Drs. Zohar Amar and Ari Zivotofsky identify the shirbot or shabout
+(*Arabibarbus grypus*), which the article calls the most definitive approach and which
+fits the Yerushalmi (Taanis 4:5) that *shibuta* is found in Bavel and not in Eretz
+Yisrael; *Minchas Chinuch* (550:2) suggests the name can cover kosher and non-kosher
+fish both. Since the identification is contested, transliterate.
 
-**Yehoshua bin Nun.** A midrash made famous by Rabbi Avraham Vilner has Yehoshua
-swallowed as a child by a fish and raised in Pharaoh's palace; Rabbi Yitzchak Yishaya
-Weiss has shown its provenance to be unsound. Two other readings stand: *Midrash HaBiur*
+**Yehoshua bin Nun.** His father's name was Nun (Divrei HaYamim I 7:27). An apocryphal
+midrash made famous by Rabbi Avraham Vilner has Yehoshua put into the river as a small
+child and swallowed by a fish, the fish caught and brought to Pharaoh, the child found
+inside, raised in Pharaoh's house and risen to Chief Executioner; Rabbi Yitzchak Yishaya
+Weiss of Neve Achiezer in Bnei Brak has already debunked the midrash's provenance. Two other readings stand: *Midrash HaBiur*
 (to the haftarah of Shelach), that he would swallow the thirty-one kings of Canaan like
 a fish, and *Megaleh Amukos* 27, that Hashem was ready to hear his *tachanunim* once he
 entered the Land.
@@ -86,28 +95,42 @@ entered the Land.
 
 ### nun (נון)
 The ordinary Aramaic word, as *nun*, *nuna* and *nuni*, and what the Targumim put
-wherever the Hebrew has *dag*. Kiddushin 25a records that a town mocked Rav Hamnuna,
+wherever the Hebrew has *dag*; it remains the standard word for fish in Hebrew's
+Semitic sister languages, Aramaic and Ugaritic alike. Kiddushin 25a records that a town mocked Rav Hamnuna,
 whose name sounds like *cham nuna*, hot fish, by calling him *kar nuna*, cold fish. In
-*Ksav Ivri* the letter nun is drawn like a fish. Rabbi Aharon Marcus explains the word's
-absence from Tanach as deliberate: others had made Nun the name of a god, and Hebrew
-avoided the word, leaving *dag* as the standard.
+*Ksav Ivri* the letter nun is drawn like a fish. Rabbi Aharon Marcus theorizes that the
+word's absence from Tanach is deliberate: the Canaanites and other nations deified the
+fish or sea-creature the word denotes, turning Nun into the name of a god, and Biblical
+Hebrew left the word out of every book to downplay that, leaving *dag* as the standard.
 
 ### kavra (כוורא), shibuta (שיבוטא) and sandal (סנדל)
-*Kavra* is common in Aramaic beside *nun*, and the doubt about its scope is old (Tosafos to
-Moed Katan 11a); Chullin 109b, comparing its taste to a bird's, reads like one species
-rather than a class. *Shibuta*: Chullin 109b, that its brain tastes like pork and so serves
+*Kavra* is common in Judeo-Aramaic beside *nun*, and the doubt about its scope is old
+(Tosafos to Moed Katan 11a). Dr. Marcus Jastrow notes that the Mishnaic *kaveres* means a
+beehive or basket (Sheviis 10:7; Bava Basra 5:3; Keilim 8:1, 15:1, 22:10; Ohalos 5:6, 8:1,
+8:3, 9:1) and so explains *kavra* as live fish kept in a cauf, a basket, which would let
+the word cover any fish housed in such a portable tank. On the other hand Chullin 109b,
+which says *kavra* tastes like the *girusa* bird (Jastrow: the moor hen), reads like one
+species rather than a class. *Shibuta*: Chullin 109b, that its brain tastes like pork and so serves
 as the kosher stand-in for that taste; Kiddushin 41a, that Rava salted *shibuta* in honor
-of Shabbos. There is an old tradition of a fish that does not swim on Shabbos (Radak to
-Bereishis 2:3), and some identify it with the *shibuta*, reading the name as *Shabbos* with
-a tes for a tav (*Megadim Chadashim* to Shabbos 119a). *Sandal*: the Mishnah (Bechoros 8:1,
-Kerisos 1:3, Niddah 3:4) discusses a miscarried fetus shaped like a *sandal*; Niddah 25b
-says the shape is that of a sea-fish, and Rashi, Rivan and the Yerushalmi take *sandal* as
-an actual fish, Meiri describing a floating piece of flesh with no distinct limbs.
+of Shabbos. There is an ancient tradition of a fish that does not swim on Shabbos (Radak to
+Bereishis 2:3; *Yalkut Reuveni* to Bereishis 2:2; *Shevet Mussar* ch. 11), and on that
+basis some sources connect *shibuta*, spelled with a tes, to *Shabbos*, spelled with a
+tav, identifying the *shibuta* as that fish (*Megadim Chadashim* to Shabbos 119a).
+*Sandal*: the Mishnah (Bechoros 8:1, Kerisos 1:3, Niddah 3:4) discusses the halachic
+status of a miscarriage shaped like a *sandal*; Niddah 25b explains that the shape is
+that of a sea-fish, and Rashi (there and to Kesuvos 39a), his son-in-law Rivan (to
+Yevamos 12b) and, by implication, the Yerushalmi (Niddah 3:4) take *sandal* as an actual
+fish by that name; Meiri (to Yevamos 12b) adds that it resembles a free-floating piece
+of meat with no clear limbs, on which the column wonders in passing whether a jellyfish
+is meant.
 
 ### tanin (תנין) and nin (נין)
-Bereishis 1:21, the great *taninim* of the fifth day. Rabbi Aharon Marcus treats the tav as
-non-radical, leaving *nun* at the core, and rejects the suggestion that *tanin* is a
-foreign loanword. Rav Hirsch agrees, and takes *nun* itself back to *nin*, offspring.
+Bereishis 1:21, the sea-monsters of the fifth day. Rabbi Aharon Marcus argues that the tav
+is not part of the root, leaving *nun* at the core, and explicitly rejects the scholarly
+speculation that *taninim* is a Sanskrit loanword. Rav Hirsch (to Bereishis 1:21) also
+suggests that *tannin* derives from *nun*, but adds that *nun* itself derives from *nin*,
+offspring (in Modern Hebrew, great-grandchild), comparing this to *dag*, whose primary
+sense is fecundity.
 
 ## Rendering guidance
 
@@ -136,7 +159,6 @@ Rabbi Reuven Chaim Klein, "Fun with Fish (Part 2/2)," What's in a Word?, Ohr Som
 Tosafos; Chullin 109b; Niddah 25b; Yevamos 12b with Rivan and Meiri; Kesuvos 39a with
 Rashi; Yerushalmi Niddah 3:4 and Taanis 4:5; Mishnah Bechoros 8:1, Kerisos 1:3, Niddah
 3:4; Radak to Bereishis 2:3; *Yalkut Reuveni*; *Megaleh Amukos* 27; *Midrash HaBiur*;
-*Minchas Chinuch* 550:2; *Megadim Chadashim* to Shabbos 119a. The article's Ugaritic
-comparison and its citations of Dr. Marcus Jastrow are omitted under house rule 9; the
-identification by Amar and Zivotofsky is retained because the article treats it as the
-settled halachic one.
+*Minchas Chinuch* 550:2; *Megadim Chadashim* to Shabbos 119a; *Shevet Mussar* ch. 11;
+Sheviis 10:7, Bava Basra 5:3, Keilim 8:1, 15:1, 22:10, Ohalos 5:6, 8:1, 8:3, 9:1
+(Mishnah, on *kaveres*); Dr. Marcus Jastrow; Drs. Zohar Amar and Ari Zivotofsky.

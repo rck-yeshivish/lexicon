@@ -12,9 +12,9 @@ words:
     nk: שֶׁבֶר
 sources:
   - wiaw:8546 "A Biblical Feast" (2020-01-04) https://articles.ohr.edu/articles/a-biblical-feast
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachaya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Targum Onkelos, Targum Yonasan]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachaya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Rabbi Yechezkel Weinfeld, Targum Onkelos, Targum Yonasan]
+status: reviewed
+updated: 2026-09-10
 ---
 # Food: ochel / mazon / yevul / tevuah / tenuvah / dagan / bar / shever
 
@@ -78,24 +78,37 @@ son (separated from the mother at birth), *bor* and *boris* (cleansers that
 separate off filth), and *bari* and *barah* (a clarity reached by excluding
 every other possibility). As food, *bar* is grain already separated from its
 chaff. Rabbi Yitzchok of Volozhin (1780 to 1849) says the same, that *bar* means
-chosen or refined, grain without chaff, and explains that Yosef had the Egyptians
-store the grain that way (Bereishis 41:35) because otherwise there would not have
-been room for it all; see also Ramban to Bereishis 41:49.
+chosen or refined, grain without chaff (see also Ramban to Bereishis 41:49), and
+explains that Yosef had the Egyptians store the grain that way (Bereishis 41:35)
+because otherwise there would not have been room for it all.
+
+The column adds a note on the English: the King James Version renders *bar*
+"corn," which did not then mean the yellow stuff on the cob. "Corn" originally
+meant grain with the seed still inside, and was used of whatever staple grain a
+given place grew; only after the discovery of the Americas did it attach almost
+exclusively to what is now called corn, or *maize* in the Native American
+languages the word comes from.
 
 ### shever (שבר)
-Root ש-ב-ר, breaking. Radak (to Amos 8:5, Bereishis 41:56, and *Sefer
-HaShorashim*) and the Meiri (to Mishlei 10:3): produce is *shever* because it
-breaks the famine, which is why almost all its occurrences are in the Yosef
-narrative. *Peirush HaRokeach* connects *shever* to *sever*, hope, since men
-look to Hashem in hope while He gives them their food (Tehillim 145:15). Ibn
-Saruk, *Peirush HaRokeach* and Rabbeinu Bachaya all take *shever* as food
-regarded as a purchased commodity; Rabbeinu Bachaya says the word implies a
-sale, which is why rabbinic *shover* is a receipt, breaking a claimant's ability
-to collect. Rabbi Avraham Rivlin notes that *shever* thus carries two opposite
-senses at once, breaking and sustaining. Rabbeinu Bachaya adds that Yaakov asked
-his sons for *shever* rather than *ochel* or *bar* because *shever* is grain
-still with its chaff, hinting that his descendants would have the hard times
-with the good.
+The word seems to derive from the triliteral ש-ב-ר, breaking. Radak (to Amos
+8:5, Bereishis 41:56, and *Sefer HaShorashim*) and the Meiri (to Mishlei 10:3):
+produce is *shever* because it breaks the famine, which is why most of its
+occurrences in Tanach are in the Yosef narrative. Rabbi Yechezkel Weinfeld of
+Ramat Eshkol compares *shever*, which breaks a famine, to the English
+*breakfast*, the morning meal that breaks the night's fast. *Peirush HaRokeach*
+connects *shever* to *sever*, hope, since men look to Hashem trustingly and
+hopefully while He gives them their food (Tehillim 145:15). Ibn Saruk, *Peirush
+HaRokeach* and Rabbeinu Bachaya all take *shever* as food regarded as a
+purchased commodity; Rabbeinu Bachaya says the word implies a sale, which is
+seen in rabbinic Hebrew, where *shover* is a receipt, attesting to payment and
+so breaking a litigant's ability to claim a debt. (In Modern Hebrew *shover* is
+a voucher and *kabbalah* is the receipt.) Rabbi Avraham Rivlin points out that
+*shever* thus carries two diametrically opposed senses at once, breaking or
+destroying and building or sustaining. Rabbeinu Bachaya adds that Yaakov asked
+his sons for *shever* rather than *ochel* or *bar* because *shever* implies the
+edible grain together with its chaff, alluding to them that in time they would
+endure the bad, the exile in which they would be broken as a people, along with
+the good.
 
 ### avur (עבור)
 The Aramaic leveller. Onkelos renders *ochel*, *bar*, *shever* and *dagan* all
@@ -118,7 +131,7 @@ Yehoshua 5:11, where Radak reads it as last year's grain.
   itself a distinct thing, old grain.
 - *Mezonos* in a halachic context stays transliterated. So does *tevuah* where
   it is the technical produce of the year for maaser or shemittah.
-- Older English versions render *bar* as "corn," which then meant any staple
+- The King James Version renders *bar* as "corn," which then meant any staple
   grain with the seed still in, not maize. In a modern sefer "corn" is a false
   friend; use "grain."
 - *Shever* in the Yosef narrative is a purchase, not a gift. "To buy provisions"

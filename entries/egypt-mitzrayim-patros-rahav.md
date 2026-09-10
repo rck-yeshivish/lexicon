@@ -81,9 +81,10 @@ Mitzrayim himself, revived to watch his wretched descendants destroyed; some
 *Siddur Rokeach* pp. 213 and 222, *Peirush HaRokeach* to 14:30). The plain
 reading takes it collectively.
 
-**Who the Luvim are.** The Luvim come up four times in Tanach: they march with
-Shishak against Yerushalayim in Shlomo's line (Divrei HaYamim II 12:3), again in
-Asa's day (16:8), and at Nachum 3:9 and Daniel 11:43. Rid and pseudo-Rasag (to
+**Who the Luvim are.** The Luvim come up four times in Tanach: countless of them
+march with Shishak against Yerushalayim (Divrei HaYamim II 12:3, in Rechavam's
+reign; the article places it in Shlomo's), again as soldiers a few generations
+later in Asa's day (16:8), and at Nachum 3:9 and Daniel 11:43. Rid and pseudo-Rasag (to
 Daniel 11:43, where the article prints "Pseudo-Radag"), and Tosafos with *Tosafos
 Chitzoniyos* (in *Shitah Mekubetzes* to Bechoros 5b), state plainly that the
 Luvim are the Lehavim, probably, the column adds, because hei and vav

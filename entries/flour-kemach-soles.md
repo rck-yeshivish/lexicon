@@ -8,8 +8,8 @@ domain: other
 sources:
   - wiaw:9275 "Flour Power" (2021-07-03) https://articles.ohr.edu/articles/flour-power
 authorities: [Rashi, Rashbam, Ibn Ezra, Radak, Rabbeinu Yonah ibn Janach, Menachem Ibn Saruk, Donash Ibn Labrat, Ibn Sheshes, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Flour: kemach / soles
 
@@ -17,9 +17,11 @@ updated: 2026-09-09
 
 *Kemach* is ordinary **flour**, ground with the bran and germ still in it:
 **whole wheat flour**, and by extension anything of the coarser grade.
-*Soles* is the sifted, refined grade: **fine flour** (Rav Hirsch: white flour,
-endosperm only). The difference is not chiefly fineness of grind but purity;
-*kemach* has everything in it, *soles* has been sifted clean. Whenever a source
+*Soles* is the sifted, refined grade: **fine flour**. Rav Hirsch (Bereishis
+18:6) makes the point sharply: the difference is not how fine or coarse the
+grind is per se, but the difference between whole wheat flour and white flour,
+*soles* being made of the endosperm alone. So *kemach* has everything in it and
+*soles* has been sifted clean. Whenever a source
 sets them opposite each other, *soles* is the better and *kemach* the lesser,
 and English "flour" must not be allowed to carry both.
 
@@ -38,9 +40,11 @@ Kesubos 112b). Rabbi Yaakov Tzvi Mecklenburg: *kemach* is adulterated flour
 carrying subpar material. As a metaphor it is the lesser stock: "he does not
 care about his *kemach*" (Yevamos 42b, Pesachim 84a, Sukkah 54a) of one who
 speaks imprecisely, since he grinds *kemach* and not *soles* (Rashi there);
-and of Kimchis, whose seven sons served as Kohen Gadol, "all *kemach* yields
-*kemach*, but the *kemach* of Kimchis is *soles*" (Yerushalmi Yoma 1:1 and
-Bamidbar Rabbah 2:26; the story is at Yoma 47a).
+and of Kimchis, the pious woman who merited that each of her seven sons serve as
+Kohen Gadol because she was careful always to cover her hair, even indoors, of
+whom Chazal said "all *kemach* yields *kemach*, but the *kemach* of Kimchis is
+*soles*" (Yerushalmi Yoma 1:1 and Bamidbar Rabbah 2:26; the story is at Yoma
+47a). Just as wheat yields flour, so people yield offspring.
 
 Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) reads *kemach* as a
 compound of ק-מ-ה, standing erect, and מ-ח-ה, erasing, since grinding takes the
@@ -53,14 +57,17 @@ pronunciation Kamchi but keeps Kimchi, since Rabbi Immanuel Frances rhymes it
 with *simchi*.
 
 ### soles (סולת)
-Fifty-two appearances in Tanach, more than half of them in Bamidbar. Every
+Fifty-two appearances in Tanach, more than half of them in Bamidbar, mostly
+clustered in Nasso and Pinchas. Every
 menachah in the Torah is brought of *soles* except the Omer (Vayikra 23:10-11)
 and the Sotah offering (Bamidbar 5:15), both of which are barley and both of
 which the Torah calls *kemach*. On that basis Rashi (Vayikra 2:1) and Rashbam
 (Bereishis 18:6) hold that *soles* always means wheat flour. Rabbi Shlomo
 Pappenheim objects from Shemos 29:2, which says *soles chittim*, flour of
-wheat, implying that *soles* alone does not specify the species; on his reading
-*kemach* at the Sotah marks a different grade, not a different grain. Menachos
+wheat, implying that *soles* alone does not necessarily specify the species. The
+column adds that either way, since the Sotah offering is explicitly said to come
+from *kemach*, the word marks a different type or grade of flour rather than a
+different species of grain. Menachos
 6:7 describes sifting the flour for menachos over and over to yield the finest
 *soles* (see Rashi to Menachos 76b); Rashi to Taanis 9b explains that the finer
 white flour passes the sifter first and the coarser after (see also Tosafos
@@ -82,9 +89,12 @@ Rashi (Menachos 27a): *geres* said of barley (Vayikra 2:14) is to barley what
 Menachem, Ibn Janach and Radak all treat ג-ר-ש and ג-ר-ס as one root meaning
 breaking or grinding. The Aramaic *semida* Rashi glosses as *soles* (Shabbos
 110b, Pesachim 74b, Taanis 24b, Gittin 56a), and Ibn Ezra (Vayikra 2:1) says
-*soles* is white flour, called *semida* in Aramaic. Note the counter-usage:
-Targum Yonasan to Bereishis 18:6 renders *kemach* as *semida* and *soles* as
-*solta*.
+*soles* is white flour, known in Arabic and Aramaic as *semida*. Note the
+counter-usage: the Targum to Bereishis 18:6 often attributed to Rabbi Yonasan
+ben Uziel renders *kemach* as *semida* and *soles* as *solta*. The column adds
+that this Aramaic and Arabic word is the etymological ancestor of the English
+*semolina*, by way of the Greek *semidalis* and the interchange of dalet and
+lammed.
 
 ## Rendering guidance
 
@@ -92,8 +102,9 @@ Targum Yonasan to Bereishis 18:6 renders *kemach* as *semida* and *soles* as
   is live), *soles* = **fine flour**. "Fine flour" is the safe rendering in a
   korbanos context and matches the sifting the Mishnah describes.
 - Do not render *soles* as "semolina." The English word does descend from the
-  Aramaic *semida*, but semolina today is a coarse durum meal, the opposite of
-  what *soles* means.
+  Aramaic *semida*, as the article says; but (our point, not the article's)
+  semolina in current English is a coarse durum meal, the opposite of what
+  *soles* means.
 - Trap: English "flour" alone will swallow both words. In any passage that
   grades them (Avos 5:15, Bava Metzia 87a, the Kimchis maamar) keep the two
   renderings visibly different, and in a metaphor render the sense, "coarse
@@ -120,6 +131,8 @@ Rabbi Reuven Chaim Klein, "Flour Power," What's in a Word?, Ohr Somayach,
 Rosh Hashanah 26b; Taanis 9b with Tosafos, and 24b; Bava Metzia 87a; Yevamos
 42b; Pesachim 84a and 74b; Sukkah 54a; Kiddushin 69b; Kesubos 112b; Sotah 14a;
 Yoma 47a with Yerushalmi Yoma 1:1 and Bamidbar Rabbah 2:26; Shabbos 110b;
-Gittin 56a; Peah 2:7, 4:7, 5:2. The Arabic comparisons are given here only as
-the rishonim themselves argue them (Donash against Menachem); no academic
-Semitic material is carried over (house rule 9).
+Gittin 56a; Peah 2:7, 4:7, 5:2. Nothing the article carries is omitted here,
+including its Arabic comparisons (Donash against Menachem, and Ibn Ezra on
+*semida*) and its derivation of English *semolina* through the Greek
+*semidalis*. The one claim that is ours and not the article's, marked as such in
+the rendering guidance, is what "semolina" denotes in current English.

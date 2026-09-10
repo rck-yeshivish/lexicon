@@ -30,8 +30,8 @@ words:
     distinct: Menachem Ibn Saruk files it under ד-ל; Rabbi Shlomo Pappenheim: a man emptied of his fortune as a well is emptied of its water
 sources:
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
-authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Moshe Tedeschi Ashkenazi (Hoil Moshe), Malbim, Rabbi Chaim Kanievsky]
-status: draft
+authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Moshe Tedeschi Ashkenazi (Hoil Moshe), Malbim, Shadal, Rabbi Chaim Kanievsky, Wilhelm Gesenius]
+status: reviewed
 updated: 2026-09-10
 ---
 # Drawing water: dalah / shoev
@@ -67,11 +67,22 @@ everything else borrowed from it, and he does bring *daliyot* and the Rabbinic
 *dildul* (dangling) under it.
 
 **Whether dal belongs here at all.** Rabbi Moshe Tedeschi Ashkenazi (*Hoil
-Moshe*) derives *dal* from *zol* (cheap) by the interchange of zayin and dalet,
-against Menachem.
+Moshe*) implicitly disagrees with Menachem's classing *dal* under ד-ל, holding
+instead that *dal* derives from *zol*, "cheap," by the well-established
+interchange of *zayin* and *dalet*.
 
-The Bottom line follows Malbim on the practical question, which no one
-disputes; the root debates change the etymology, not the rendering.
+**What the core sense is.** The column also reports Wilhelm Gesenius, saying his
+contribution bears mention because it makes sense: that the core meaning of ד-ל
+is "hanging, swinging." On that reading *delet* is the leaf of a door, the
+flapping apparatus that opens and closes a doorway; *daliyot* are branches that
+hang off a tree loosely enough to move, as is *dildul*; a *dal* is a feeble man
+whose wealth is not well grounded but figuratively hangs and may swing from one
+situation to another; and *dalah* fits because drawing water from a well
+typically means hanging a *d'li* on a rope and lowering it in.
+
+The Bottom line follows Malbim on the practical question, which Shadal (to
+Bereishis 24:13) explains similarly; the root debates change the etymology, not
+the rendering.
 
 ## Distinctions
 
@@ -80,16 +91,44 @@ Root ד-ל-ה, or biliteral ד-ל. Malbim: *dalah* is drawing from a deep well, 
 act that costs effort, lowering the pail and raising it laden. The same verb
 serves for lifting generally: *"aromimcha Hashem ki dilisani,"* "I will exalt
 You, Hashem, for You have lifted me up" (Tehillim 30:2). Hence *d'li*, the pail
-(Bamidbar 24:7, Yeshayahu 40:15), and *daliyot*, the branches at a tree's top
-(Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7, 31:9, 31:12). Rav
-Hirsch (to Bereishis 6:10, 30:32) brings *delet*, a door, into the same family:
-the door gathers everyone in the house into one place, as the pail gathers
-water into one vessel.
+(Bamidbar 24:7, Yeshayahu 40:15), and *daliyot*, the branches at a tree's top,
+eight times in Tanach (Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7,
+31:9, 31:12). Rav Hirsch (to Bereishis 6:10, 30:32) brings *delet*, a door, into
+the same family: the door gathers everyone in the house into one place, as the
+*d'li* gathers water into one vessel.
+
+Two asides the column raises around *dal* and the name Dalia. On *dal*, he
+suggests that perhaps Menachem too would allow a thematic tie between his three
+derivatives: *dal* may relate to "lifting up" as its polar opposite, the pauper
+having been brought as low as possible, in the manner of a word carrying a thing
+and its opposite; or, more hopefully, *dal* may name one who has hit bottom, so
+that the only thing that can come next is being lifted up. On the name: the
+singular *dalia* never appears in Tanach but is likely the basis of the feminine
+name Dalia, which the column notes may also owe something to Arabic, Dalia being
+an Arabic name as well. Some authorities hold one should avoid the name because
+of its association with the negative *dal*, though on the readings just given
+that negative sense is not so clear-cut. Rabbi Chaim Kanievsky asserts that
+Dalia is not a traditional name among Ashkenazim and does not recommend giving
+it unless one's family already has a specific custom to use it.
+
+The column adds a thought of his own about the mirror root ל-ד, "birth," which
+gives *yalad*, *toldos*, *valad* and *yeled*: ל-ד and ד-ל look to him like exact
+opposites, since drawing water applies an outside force pulling the water out of
+where it was, while birth is an inside force pushing the child out, and the
+contrast shows in the order of the consonants themselves.
 
 ### shoev (שאב)
 Root ש-א-ב, on which Menachem, Ibn Janach and Radak agree; it appears nineteen
-times in Tanach. Malbim: *shoev* is drawing without effort, water taken into a
-bucket where it already lies at the surface. Rabbi Shlomo Pappenheim treats the
+times in Tanach, and consistently in the account of Rivkah drawing for Eliezer
+and his camels (Bereishis 24:11-45). It is the word behind the *Simchas Beis
+HaShoeivah* celebrations in the Beis HaMikdash, which attended the drawing of
+the water for the Sukkos Water Libation. In the language of Chazal a magnetized
+stone is an *even shoeves*, literally a stone that draws (Sotah 47a; Sanhedrin
+107b; Avodah Zarah 44a), and in Modern Hebrew a vacuum cleaner is a *sha'avak*,
+a portmanteau of *shoev*, draws, and *avak*, dust. Malbim: *shoev* is drawing
+into a bucket without any effort, most commonly from a spring or waterhole,
+where the water is at the surface and needs no lowering and lifting; Shadal (to
+Bereishis 24:13) explains similarly. Rabbi Shlomo Pappenheim treats the
 aleph as non-radical and reaches the biliteral ש-ב, "return," the root of
 *hashavah* (returning a lost object), *lehashiv* (to answer), *yeshivah*
 (dwelling), and *Shabbos* (returning to rest). On his reading, *shoev* is
@@ -127,7 +166,7 @@ https://articles.ohr.edu/articles/shemos-drawing-water; raw text in
 `sources/whats-in-a-word/raw/10786-shemos-drawing-water.md`. Primary loci:
 Shemos 2:16-19; Tehillim 30:2; Bamidbar 24:7; Yeshayahu 40:15 and 12:3;
 Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7, 31:9, 31:12; Mishlei
-20:5; Bereishis 24:11-45; *Bereishis Rabbah* 60:5; Sotah 47a, Sanhedrin 107b
-and Avodah Zarah 44a (*even shoeves*, the magnet). The article also cites a
-nineteenth-century German philologist on ד-ל as "hanging"; that material is
-omitted here under the house rule limiting sources to Torah authorities.
+20:5; Bereishis 24:11-45 and Shadal to 24:13; *Bereishis Rabbah* 60:5; Sotah
+47a, Sanhedrin 107b and Avodah Zarah 44a (*even shoeves*, the magnet). Wilhelm
+Gesenius on ד-ל as "hanging, swinging" is reported above as the column reports
+it.
