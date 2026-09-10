@@ -17,7 +17,7 @@ words:
 sources:
   - wiaw:7123 "Turning off the Lights" (2017-02-04) https://articles.ohr.edu/articles/turning-off-the-lights
 authorities: [Rashi, Radak, Malbim, Rav Saadia Gaon, Rambam, Chizkuni, Yaavetz, Vilna Gaon, Ramban, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Ibn Parchon, Rabbi Baruch HaLevi Epstein, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Darkness: choshech / afeilah
@@ -25,8 +25,8 @@ updated: 2026-09-10
 ## Bottom line
 
 *Choshech* is plain **darkness**, the dark of an ordinary night. *Afeilah* is
-**thick darkness**, and every authority who separates the two makes it the
-heavier word (Radak). Where they stand together, as in *choshech afeilah* at
+**thick darkness**, something darker than *choshech* (Radak). Where they stand
+together, as in *choshech afeilah* at
 Makkas Choshech (Shemos 10:22), render the pair rather than repeat one word: "a
 thick darkness". The trap is writing "darkness" twice and losing the fact that
 the Torah escalated.
@@ -44,11 +44,13 @@ the Torah escalated.
 cluster, and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
 
 1. **Absence of light.** Rav Saadia Gaon, Rambam, and others: darkness has no
-   existence of its own; the word names a lack. Hashem is said to "create"
-   darkness the way a man who blows out a candle is said to have darkened the
-   room, or by creating the clouds that block the light. Rabbi Yaakov Tzvi
-   Mecklenburg finds a hint for Rambam in the spelling: *choshech* and
-   *chosech*, "lacks", differ only in the dot over the shin.
+   existence of its own; the word names a lack. On their side, Hashem is said to
+   "create" darkness by causing the sun to set, the way one who puts out a candle
+   is said to have made the room dark, or alternatively by creating the clouds
+   that block the light. Rabbi Yaakov Tzvi Mecklenburg finds support for Rambam
+   in the spelling: *choshech* and *chosech*, "lacks", differ only in the dot
+   over the shin, which he says certainly alludes to darkness being just the lack
+   of light.
 2. **A created entity.** Chizkuni, Radak, the Yaavetz, the Vilna Gaon, and
    others: Yeshayahu 45:7 says Hashem formed light and *created* darkness, and
    what is created is something.
@@ -68,8 +70,9 @@ Shlomo Ibn Parchon: *afeilah* means "covered", a qualitative difference. Rabbi
 Yehuda Leib Edel follows that line: *choshech* is the mere lack of light,
 *afeilah* is a tangible thing standing between the light and the eye, which for
 him were dark clouds that filtered the daylight so that it reached Yisrael and
-not the Mitzrim. Rabbi Baruch HaLevi Epstein, apparently on Ibn Parchon's
-reading, takes the covering literally: cataracts grew over the Mitzrim's eyes.
+not the Mitzrim. Rabbi Baruch HaLevi Epstein, possibly on Ibn Parchon's
+reading, takes the covering literally: cataracts grew spontaneously over the
+Mitzrim's eyes, barring them from seeing the light of day.
 Malbim's account is the safer default for translation; the covering readings
 are what to cite when a passage treats the darkness as an object.
 
@@ -83,10 +86,12 @@ is what Malbim then spells out.
 
 ### afeilah (אפילה)
 Radak (*Sefer HaShorashim*): *afeilah* is darker than *choshech*. Rabbi Shlomo
-Aharon Wertheimer hears the same weight in the Haggadah's *me'afeilah l'or
-gadol*: the opposite set against *afeilah* is not light but a *great* light,
-since plain light is the opposite of *choshech*. That is a useful test for the
-word's force in any pasuk.
+Aharon Wertheimer finds an allusion to that way of defining *afeilah* in the
+wording of a tefillah said at the Seder, where we ask to be taken from the
+darkness of galus to the light of the geulah: *me'afeilah l'or gadol*. The
+opposite set against *afeilah* is not simply light, which would be the opposite
+of *choshech*, but a *great* light that ushers in the coming of Mashiach. That is
+a useful test for the word's force in any pasuk.
 
 ## Rendering guidance
 

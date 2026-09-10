@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:7655 "For Crying Out Loud" (2018-02-24) https://articles.ohr.edu/articles/for-crying-out-loud
 authorities: [Rashi, Ramban, Zohar, Malbim, Tosafos, Rabbi Shlomo Pappenheim, Rabbi Elazar Rokeach of Worms, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Emmanuel Chai Ricci, Rabbi Shlomo Aharon Wertheimer]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Crying out: tzaakah / zaakah / shaavah
 
@@ -31,21 +31,28 @@ two.
 ## Distinctions
 
 ### tzaakah (צעקה) and zaakah (זעקה): one word
-Rashi (to Iyov 6:17 and Sotah 36b), Ramban (to Iyov 40:17), and the Zohar (Shemos
-20a) hold the two entirely interchangeable, since *zayin* and *tzadi* are both
-sounded at the teeth and substitute for one another. Rabbi Pappenheim agrees
-there is no difference; he notes that *tzaakah* stands close to *tzaar*, pain,
-but concludes that both words name the outward release of a man's pain. This
+Rashi (to Iyov 6:17 and Sotah 36b), Ramban (to Iyov 40:17), the Zohar (Shemos
+20a) and others hold the two wholly synonymous and interchangeable, since
+*zayin* and *tzadi* yield similar phonemes, both articulated at the teeth, and
+so substitute for one another. Rabbi Pappenheim likewise writes that there is no
+difference; he notes that *tzaakah* stands close to *tzaar*, pain, but concludes
+that both words denote an outward expression of a man's pain and suffering. This
 reading is what lets the Midrash tie Esav's great and bitter cry when the
-berachos were gone (Bereishis 27:34) to Mordechai's cry in Shushan (Esther 4:1),
-even though the Torah writes *tzaakah* there and Megillas Esther writes *zaakah*
+berachos were gone (Bereishis 27:34) to Mordechai's cry in Shushan (Esther 4:1):
+because Yaakov caused Esav to cry out, Yaakov's descendants were later punished
+with the threat of annihilation at the hand of Haman, a descendant of Esav, and
+Mordechai had in his turn to cry out to Hashem. On the synonymous reading the
+Midrash is entirely justified, since Tanach practically uses the same word for
+both, even though the Torah writes *tzaakah* there and Megillas Esther *zaakah*
 here.
 
 ### tzaakah and zaakah: the minority who separate them
-Rabbi Elazar Rokeach of Worms holds they are not synonyms: *zaakah* is a cry
-that lodges a complaint, and *tzaakah* is not; and *zaakah* implies a crowd
-crying, *tzaakah* one man. On his reading the Midrash's link between Esav and
-Mordechai is harder to sustain, since the pesukim use two different words.
+Rabbi Elazar Rokeach of Worms, the late twelfth century Ashkenazic scholar,
+holds they are not synonyms: *zaakah* is a cry
+that lodges a complaint, and *tzaakah* is not; and *zaakah* implies multiple
+people crying, *tzaakah* does not. On his reading the Midrash's link between Esav
+and Mordechai is somewhat difficult to justify, since Tanach uses two different
+words for the two occurrences.
 
 Tehillim 107 is the test case, since all four of its rescued sufferers cry out:
 the traveler lost in the wilderness and the sailor in the storm with *tzaakah*,
@@ -54,17 +61,23 @@ the prisoner and the deathly ill man with *zaakah*.
 - Rabbi Emmanuel Chai Ricci: the *tz* is simply the longer sound. The prisoner
   and the sick man are pinned in place, so they get the shorter word; the other
   two, who still have somewhere to turn, get the longer.
-- Rabbi Shlomo Aharon Wertheimer: the Midrash reads the four as the four
-  kingdoms, with the first and last (Bavel and Edom) the worst of them, which
-  shows that *tzaakah* marks the more severe distress.
+- Rabbi Shlomo Aharon Wertheimer: the Midrash understands the four as the four
+  kingdoms that would subjugate Yisrael, Bavel, Persia/Media, Greece and Rome,
+  and asserts that the first and last of them, Bavel and Rome, were more
+  detrimental to Yisrael than the middle two (the column adding, as its own
+  guess, that this is probably because both destroyed the Beis HaMikdash and
+  exiled the Jews from Yerushalayim). From this Rabbi Wertheimer deduces that
+  *tzaakah* denotes the more intense crying out, indicating a more serious
+  distress.
 - Malbim (to Tehillim 107:6) says the same directly: the wayfarer and the sailor
   are in greater danger than the prisoner and the sick man, so the pasuk gives
   them *tzaakah*. Tosafos (to Berachos 54b) read the four as listed in order of
   danger instead, which cuts against that.
 
 ### shaavah (שועה)
-Rabbi Yehuda Leib Shapira-Frankfurter: *zaakah* and *tzaakah* may be directed at
-a fellow man, but *shaavah* is used only of pleading with Hashem. Rabbi
+Rabbi Yehuda Leib Shapira-Frankfurter, Rav Hirsch's great-uncle: *zaakah* and
+*tzaakah* may be directed at a fellow man, but *shaavah* applies only to one who
+pleads with Hashem. Rabbi
 Pappenheim ties it to *yeshuah*, on the shared root ש-ו-ע: it is a call made in
 the expectation that it will bring the caller's rescue. Rabbi Yaakov Tzvi
 Mecklenburg accepts that all three are cries made in hope of deliverance and

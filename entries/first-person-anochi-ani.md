@@ -8,8 +8,8 @@ domain: speech
 sources:
   - wiaw:7144 "Myself and I" (2017-02-18) https://articles.ohr.edu/articles/myself-and-i
 authorities: [Maharal, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Rabbeinu Bachya, Ibn Ezra, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # First person: anochi / ani
 
@@ -17,10 +17,13 @@ updated: 2026-09-09
 
 Both mean **I**. *Ani* is the plain first person; *anochi* is the emphatic, **I
 myself**, and it is the weightier and rarer word (*ani* outnumbers it more than
-two to one in Tanach). Where the two are contrasted, the working rule is
-Malbim's and Rabbi Pappenheim's: with *anochi* the news is in the subject (I,
-and no one else, did it), with *ani* the news is in the predicate (what I did,
-as against something else I might have done). A translator who renders both "I"
+two to one in Tanach). Where the two are contrasted, the workable rule
+for rendering is Malbim's and Rabbi Pappenheim's: with *anochi* the news is in
+the subject (I, and no one else, did it), with *ani* the news is in the
+predicate (what I did, as against something else I might have done). But that is
+not the only reading in the field: Rav Hirsch takes *anochi*'s force to be
+nearness rather than exclusion, and Rabbi Edel takes the pair to name body and
+soul. A translator who renders both "I"
 loses every derashah built on the difference, beginning with *Anochi Hashem
 Elokecha*.
 
@@ -47,9 +50,9 @@ the opening of the Aseres HaDibros, this is why the Dibrah begins *Anochi*
 Rav Hirsch reads the emphasis differently, and warmly: *anochi* carries the
 speaker's closeness to the one he addresses, in his standing as benefactor. On
 that reading *Anochi* opens the Dibros to establish Hashem's nearness to Klal
-Yisrael as the One who is their God and who brought them out. The Midrashic
-tradition that ties *anochi* here to the Egyptian *anoch*, love and endearment,
-runs in the same direction.
+Yisrael as the One who is their God and who brought them out. This somewhat
+echoes the Midrashic tradition that ties *anochi* in the Dibros to the Egyptian
+word *anoch*, meaning love and endearment.
 
 Rabbeinu Bachya says *anochi* carries deeper, kabbalistic weight than *ani*,
 without explaining further. One might read that as *anochi* for the soul and
@@ -85,8 +88,9 @@ None yet.
 Rabbi Reuven Chaim Klein, "Myself and I," What's in a Word?, Ohr Somayach, 22
 Shevat 5777 (2017-02-18): raw text in
 `sources/whats-in-a-word/raw/7144-myself-and-i.md`. The article's stated loci
-are Shemos 20:2 and, for Ibn Ezra's *anach*, the plumb line; the pesukim for
-*anach* are Amos 7:7-8, which the article does not print. Authorities as above:
+are Shemos 20:2 and, for Ibn Ezra's plumb line, the word itself, which the
+article prints *anoch*; the pesukim are Amos 7:7-8, where the word is אֲנָךְ,
+and the article does not print them. Authorities as above:
 Maharal; Rabbi Shlomo Pappenheim; Malbim; Rav Hirsch; Rabbeinu Bachya; Ibn
 Ezra; Rabbi Yehuda Leib Edel; Rabbi Yaakov Tzvi Mecklenburg (*HaKtav
 VeHaKabbalah*). The article gives no chapter-and-verse for several of these, so

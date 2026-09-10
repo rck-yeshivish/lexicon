@@ -31,7 +31,7 @@ words:
 sources:
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
 authorities: [Avos d'Rabbi Nasan, Metzudas Tziyon, Malbim, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yom Tov Tzahalon, Rabbi Shmuel Yaffe-Ashkenazi, Midrash Mishlei, Rabban Shimon ben Gamliel, Bereishis Rabbah, Radak, Ibn Ezra, Yerushalmi Shabbos, Rabbi David Chaim Chelouche, Rav Hirsch, Rabbi Avraham Bedersi]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Earth: taivel / arka / cheled (charavah, yabashah)
@@ -76,10 +76,13 @@ out, the ground where bodies decay, until techiyas hameisim reverses it.
 **Whether *arka* is Hebrew or Aramaic.** Rabbi Shmuel Yaffe-Ashkenazi: the word
 is Hebrew even though the pasuk around it is Aramaic, since the Aramaic of
 *eretz* is *ara*, TZADI becoming AYIN as it often does, and that form appears in
-the same verse. How Hebrew *eretz* would yield *arka* is unclear; the article
-offers only that TZADI and KUF adjoin in the alef-beis. *Midrash Mishlei* ch. 8
-instead reads *arka* as the land that fled from before Hashem at Matan Torah, on
-the strength of the Aramaic *arak*, to flee, spelled with an AYIN.
+the same verse. How Hebrew *eretz* would yield *arka* is unclear; the column
+offers only that perhaps the TZADI became a KUF because the two letters adjoin in
+the alef-beis. *Midrash Mishlei* ch. 8 instead reads *arka* as the land that fled
+from before Hashem when He came to give the Torah at Sinai. The column says
+plainly that he does not know what this means, and adds that the basis for the
+derashah seems to be the resemblance between Hebrew *arka* with an ALEPH and the
+Aramaic *arka* spelled with an AYIN, which means "to flee."
 
 ## Distinctions
 
@@ -96,9 +99,11 @@ Aramaic: Yirmiyahu's letter to Yehoyachin and the exiles taken to Bavel, telling
 them what to answer Babylonian pressure to serve idols.
 
 ### cheled (חלד) and chedel (חדל)
-Ibn Ezra (to Tehillim 39:6) treats *cheled* (Tehillim 49:2) and *chedel*
-(Yeshayahu 38:11) as metathesized forms of one word, and Radak makes both roots
-synonyms of *zman*, time. Yerushalmi Shabbos 14:1: "dwellers of *cheled*" likens
+*Cheled* (Tehillim 49:2) and *chedel* (Yeshayahu 38:11) seem to be metathesized
+forms of one word, the column citing Ibn Ezra to Tehillim 39:6. Radak (*Sefer
+HaShorashim*) makes both roots synonyms of *zman*, time, presumably, the column
+adds, because the word bears on the ephemeral, temporary nature of This World and
+those who live in it. Yerushalmi Shabbos 14:1: "dwellers of *cheled*" likens
 people to the weasel, *chuldah*, which drags food from place to place and leaves
 it without knowing whom it will feed, as a man leaves things behind without
 knowing who will enjoy them (compare Taanis 23a). Rabbi David Chaim Chelouche:
@@ -109,6 +114,14 @@ in *chadal*, to cease, and *chaludah*, rust: metal wears out, and so does a man.
 ### charavah (חרבה) and yabashah (יבשה)
 Avos d'Rabbi Nasan (version 2): both mean dry land, the earth being so called for
 absorbing the Mabul's waters (*Midrash Mishlei*: for absorbing Hevel's blood).
+
+### The list itself, and karka outside it
+Version 2 of Avos d'Rabbi Nasan adds three further words for the land, *reishis*,
+*gai* and *sadeh*, which the standard edition found too farfetched; and *Vayikra
+Rabbah* 29:11 gives a different list of seven altogether. Rabbi Avraham Bedersi
+sets *karka* outside the whole discussion: in Biblical Hebrew it does not mean
+"land" but the floor underneath a building or a sea, though he admits that in
+Rabbinic Hebrew it came to be almost synonymous with *eretz* and *adamah*.
 
 ### The four and the seasons
 Rabban Shimon ben Gamliel (Bereishis Rabbah 13:12) ties the first four names to
@@ -141,5 +154,4 @@ Tehillim 17:14, 24:1, 39:6, 49:2, 90:2; Yeshayahu 38:11; Yirmiyahu 10:11;
 Bereishis 11:8; Bereishis Rabbah 13:12; Vayikra Rabbah 29:11 (a different list
 of seven); Yerushalmi Shabbos 14:1; Taanis 23a; Radak, *Sefer HaShorashim*;
 *Midrash Mishlei* ch. 8. Part one, on *eretz* against *adamah*, is
-`land-eretz-adamah-ratzon.md`. Avos d'Rabbi Nasan version 2 adds *reishis*, *gai*
-and *sadeh*, which the standard edition judged too far afield.
+`land-eretz-adamah-ratzon.md`.

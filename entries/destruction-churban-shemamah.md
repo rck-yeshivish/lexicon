@@ -13,8 +13,8 @@ words:
 sources:
   - wiaw:7366 "Words of Destruction" (2017-07-29) https://articles.ohr.edu/articles/words-of-destruction
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Chaim of Volozhin]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Destruction: churban / shemamah
 
@@ -30,8 +30,8 @@ both in one pasuk, so a translation must not use one English word twice:
 ## Distinctions
 
 ### churban (חורבן), charbah (חרבה)
-Root ח-ר-ב. Malbim: *churban* is the word used for the destruction of a built-up
-urban area, and it is the milder of the pair. Rabbi Shlomo Pappenheim (1740 to
+Root ח-ר-ב. Malbim: *churban* is the word commonly applied to the destruction of
+a built-up urban area, and it is the milder of the pair. Rabbi Shlomo Pappenheim (1740 to
 1814) reads it differently and more sharply: *churban* names a thing that is not
 damaged in itself but has been severed from something outside it that it needed
 in order to thrive. A ghost town wholly intact but abandoned is a *churban*; it
@@ -48,6 +48,24 @@ once. Radak (*Sefer HaShorashim*) notes that the root carries two senses,
 destruction and astonishment, the latter in *mishtomem*, a man taken aback.
 Mecklenburg joins them: one who comes upon utter ruin stands dumbfounded at the
 sight. *Shemamah* is destruction in the eye of the beholder.
+
+### the two words on the Beis HaMikdash
+This is where the column is going, and it is the article's own answer to the
+question it opens with. Just as a man's *neshamah* is his lifeline to the Upper
+Realms, so the Beis HaMikdash below was joined to a corresponding Mikdash above
+that served as its lifeline. Rabbi Chaim of Volozhin (*Nefesh HaChaim* 1:4)
+asserts that the Jewish sinners whose misdeeds brought on the Churban were far
+worse villains than Nevuchadnetzar and Titus, who destroyed the first and second
+Batei Mikdash: their sins defiled the Heavenly Mikdash and so disconnected the
+physical buildings below from their Heavenly counterparts, and the direct result
+of that disconnection was that the foreign armies were able to come and destroy
+them. Following this approach, the column posits that *Churban HaBayis* does not
+name the physical destruction of the Mikdash at all but its spiritual
+disconnection through sin, while the Torah's *shemamah* of the Mikdash does name
+the physical wrecking of the buildings, the sight of which should deter from
+further sin. When we mourn the *Churban HaBayis* we do not simply mourn the
+demolition of a building; we mourn the spiritual decline that let the
+destruction happen.
 
 ### shahm (שם)
 Ibn Ezra: *shahm* is not always the ordinary "there"; it can belong to ש-מ-ם
@@ -68,12 +86,9 @@ names their condition, not their location: they sat in desolation and wept.
   reference is unmistakable.
 - Where a sefer builds on Pappenheim's sense of *churban* as severance, do not
   render it "demolition." The point of the word there is precisely that nothing
-  visible was demolished. Rabbi Chaim of Volozhin (*Nefesh HaChaim* 1:4) holds
-  that the sinners of those generations were worse than Nevuchadnetzar and
-  Titus, since their sins defiled the Heavenly Mikdash and severed the earthly
-  building from its Heavenly counterpart, which is what let the armies come and
-  destroy it. Read with Pappenheim, *Churban HaBayis* names that severance and
-  *shemamah* names the rubble.
+  visible was demolished. On the column's reading of Rabbi Chaim of Volozhin
+  (above), *Churban HaBayis* names that severance and *shemamah* names the
+  rubble.
 - *Mishtomem* in a mussar context is "stands astounded," not "is desolate";
   Radak's two senses share a root but not a rendering.
 

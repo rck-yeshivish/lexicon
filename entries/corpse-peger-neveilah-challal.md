@@ -8,8 +8,8 @@ domain: body
 sources:
   - wiaw:7788 "Of Corpses and Carcasses" (2018-06-09) https://articles.ohr.edu/articles/of-corpses-and-carcasses
 authorities: [Rabbi Eliyahu HaBachur, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yosef Teomim]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Corpse: peger / neveilah / challal
 
@@ -18,8 +18,8 @@ updated: 2026-09-09
 *Peger* is a human **corpse**, and by Rabbi Eliyahu HaBachur the rotting body
 of a rasha. *Neveilah* is a **carcass**, an animal that died without shechitah,
 and by the same authority it can name a human body too, but only one killed by
-an outside force. *Challal* is the body **emptied** of its soul, hence in
-Tanach the word for the slain. The trap is letting "corpse" cover all three:
+an outside force. *Challal* literally means **empty** or **cavity**: a body
+emptied of its soul is like an empty vessel. The trap is letting "corpse" cover all three:
 *neveilah* in a halachic passage is a technical term and must not be softened,
 and *peger* carries a note of contempt that "body" will lose.
 
@@ -33,12 +33,15 @@ until your *pegarim* are finished in the wilderness" (Bamidbar 14:29-33). Rabbi
 Eliyahu HaBachur (*Sefer HaTishbi*, and his glosses to Radak's *Sefer
 HaShorashim*): *peger* is a human body, and specifically the rotting body of a
 wicked man. He allows one exception, Bereishis 15:11, where *peger* names the
-animal carcasses of the Bris bein HaBesarim; Rashi there ties *peger* to
-*pigul*, disgusting, on the interchange of reish and lamed. Rabbi Shlomo
-Pappenheim reads *peger* as a compound of *po gar*, "here he dwells," without
-elaborating; plausibly the dead body cannot move from its place. In Aramaic the
-root פ-ג-ר carries inactivity or lagging: a festival is a *yoma d'pagra*, a day
-of no work.
+animal carcasses of the Bris bein HaBesarim; Rashi there writes that *peger* is
+related to *pigul*, disgusting, and other commentators note that reish and lamed
+are sometimes interchanged. Rabbi Shlomo Pappenheim maintains that *peger* is a
+portmanteau of *po gar*, "here he lives," but does not elaborate; the column
+suggests this possibly refers to the dead body being immobile, unable to move
+elsewhere, so that it lives in its place for eternity. In Aramaic the root
+פ-ג-ר carries inactivity or at least lagging behind: a festival is a *yoma
+d'pagra*, a day of no work, and the Modern Hebrew cognate *mifager* means
+"retard."
 
 ### neveilah (נבלה)
 Close to fifty appearances. Its root sense is *balah*, worn out or decayed,
@@ -55,13 +58,18 @@ and they too were killed by outside forces.
 
 ### challal (חלל)
 Close to a hundred appearances. The root means empty or hollow: a human body
-emptied of its soul is like an emptied vessel. The same root gives *chalil*, a
-flute, hollow inside; *chalulim*, the body's inner cavities; *chullin*,
-non-sacred meat; *Chol HaMoed*, the days of the festival that are not as holy
-as Yom Tov; and the *chalal* or *chalalah* born to a kohen from a forbidden
-marriage, emptied of the kehunah he would otherwise have inherited. The word
-*chalus*, the taking effect of a halachic status, may belong here too, on the
-pattern of a Hebrew word carrying its own opposite: *chalus* is what fills the
+emptied of its soul is like an emptied vessel. In Modern Hebrew *challal* also
+means outer space. The same root gives *chalil*, a flute, obviously hollow
+inside, and *chalulim*, the body's inner parts, cavities holding the important
+organs. On the same principle, things one would expect to be holy and which are
+not are reckoned hollow, something being missing: *chullin*, the Gemara's term
+for non-sacred meat, and *Chol HaMoed*, the days of the festival that are not as
+holy as Yom Tov in the activities they forbid. And the child born to a kohen
+from a marriage forbidden to him is a *chalal* or *chalalah*, desecrated or
+emptied of the kehunah he or she would otherwise have received through the
+father. The word *chalus* (which yeshiva students commonly pronounce *chaloys*),
+the effectuation of a halachic status, may be linked here too, on the pattern of
+a Hebrew word carrying its own opposite: a *chalus* is really what *fills* the
 void.
 
 ### Why the siddur says pegarim

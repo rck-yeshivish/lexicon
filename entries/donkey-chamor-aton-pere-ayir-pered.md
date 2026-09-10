@@ -8,9 +8,9 @@ domain: nature
 sources:
   - wiaw:11871 "Balak: An Asinine Essay (Part 1/2)" (2025-07-12) https://articles.ohr.edu/articles/balak-an-asinine-essay-part-12
   - wiaw:11869 "Pinchas: An Asinine Essay (Part 2/2)" (2025-07-19) https://articles.ohr.edu/articles/pinchas-an-asinine-essay-part-22
-authorities: [Radak, Rashi, Rashbam, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Shadal, Rabbi David Chaim Chelouche, Rav Hai Gaon, Rabbi Yehoshua Steinberg, Rabbi Aharon Marcus, Ibn Ezra, Targum Onkelos]
-status: draft
-updated: 2026-09-09
+authorities: [Radak, Rashi, Rashbam, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Shadal, Rabbi David Chaim Chelouche, Rav Hai Gaon, Rabbi Yehoshua Steinberg, Rabbi Aharon Marcus, Ibn Ezra, Targum Onkelos, Rabbi Ernest Klein, Rabbi Yehuda ben Simon]
+status: reviewed
+updated: 2026-09-10
 ---
 # Donkey: chamor / aton / pere / ayir / pered
 
@@ -27,30 +27,61 @@ picture.
 
 ## Distinctions
 
-### chamor (חמור)
-First at Bereishis 12:16, among Pharaoh's gifts to Avraham (the first article
-prints this locus as 13:16 twice; the pasuk is 12:16), and roughly a hundred
-times after. Grammatically masculine, but Radak (*Michlol*, *Shaar Dikduk
-HaPe'alim*, and to Shmuel II 19:27) holds it covers a donkey of either sex.
-Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah* to Vayikra 22:28) supports
-him from *peter chamor* (Shemos 13:13, 34:20): the firstborn comes from the womb
-of a *chamor*, and the mother is necessarily female. Rabbinic Hebrew coined the
-explicit feminine *chamorah* (Bechoros 1:2, Moed Katan 12a), never found in
-Tanach.
+### The English words, before the Hebrew ones
+The column opens by sorting the English, because the English is what blurs. The
+older word is *ass*, from Latin *asinus*, with cognates across Indo-European:
+Greek *onos*, and possibly the Sumerian *anse*; English keeps others in
+*onager* (Middle English for a wild donkey), *easel* (a wooden frame that looks
+like a donkey) and *asinine*. *Donkey* is late, first attested in the 1780s, of
+uncertain etymology and with no clear cognates; it displaced *ass* over the
+eighteenth and nineteenth centuries as *ass* turned pejorative. Rabbi Ernest
+Klein proposes that *donkey* comes from Old English *dun*/*dunn* (Welsh *dwn*),
+"brown," with the *k* and *y* as double diminutives, and that the spelling was
+influenced by *monkey*. By sex and age: an adult male is a *jack* or *jackass*,
+an adult female a *jenny* or *jennet*, a young one of either sex a *foal*. The
+two hybrids matter for the last section here: a *mule* is the offspring of a
+male donkey and a female horse, while a *hinny* (Latin *hinnus*) comes of a male
+horse bred to a female donkey.
 
-The root ח-מ-ר also gives wine, brown, clay and mortar. Rabbi Aharon Marcus takes
-"brown" as the core, so the word names the animal's reddish coat; others tie it
-to "clay and material," the pack animal standing for the wholly material side of
-creation, or to "wine," the donkey's dullness matching a drunkard's.
+### chamor (חמור)
+First at Bereishis 12:16, among Pharaoh's gifts to Avraham, and roughly a
+hundred times after. Grammatically masculine, but Radak (*Michlol*, *Shaar
+Dikduk HaPe'alim*, and to Shmuel II 19:27) holds it covers a donkey of either
+sex. Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah* to Vayikra 22:28)
+supports him from *peter chamor* (Shemos 13:13, 34:20): the firstborn comes from
+the womb of a *chamor*, and the mother is necessarily female. Rabbinic Hebrew
+coined the explicit feminine *chamorah*, once in the Mishnah (Bechoros 1:2) and
+several times in the Gemara (Moed Katan 12a and others), never found in Tanach.
+
+*Chamor* is basic enough to have cognates in all the major Semitic languages:
+Aramaic and Syriac *chamara*, Ugaritic *hmr*, Arabic *himar*, Akkadian *imeru*.
+That said, the Hebrew lexicographers all agree it derives from the triliteral
+ח-מ-ר, which also gives wine, brown, clay and mortar, a pile, and *chomer*, a
+unit of area. Rabbi Aharon Marcus takes "brown" as the core, so the word names
+the reddish-brown hue of many donkeys; others tie it to "clay and material," the
+pack animal standing for the wholly material side of creation, or to "wine," the
+dull donkey's intellect matching a drunkard's. Note also the personal name
+Chamor, father of Shechem, thirteen times in Tanach (Bereishis 33-34; Yehoshua
+24:32; Shoftim 9:28).
 
 ### aton (אתון)
-Thirty-four occurrences, densest at Bilaam's she-donkey (Bamidbar 22:21 to 33).
-It stands beside *chamor* in Pharaoh's gifts, and Devorah's song has judges who
-"ride on white *asonos*" (Shoftim 5:10). Radak: specifically female. Rabbi David
-Chaim Chelouche (*Ohr Chadash*) derives it from *es*, the particle of attachment.
-Rav Hirsch (to Bereishis 13:16, Shemos 14:27) links א-ת-ן to א-ד-נ, *tav* and
-*dalet* interchanging, so the name marks her load-bearing capacity, as an *eden*
-holds up what stands on it.
+Thirty-four occurrences, densest at Bilaam's she-donkey (Bamidbar 22:21-23,
+22:25, 22:27-30, 22:32-33). It stands beside *chamor* in Pharaoh's gifts
+(Bereishis 12:16), and Devorah's song praises the judges who "ride on white
+*asonos*" (Shoftim 5:10). Radak: while *chamor* is either sex, *aton* is
+specifically female. Rabbi Ernest Klein's etymological dictionary makes *aton*
+a quintessentially Semitic word, with parallels in Aramaic and Syriac (*atana*),
+Ugaritic (*atnt*), Arabic (*atan*) and Akkadian (*atanu*), all meaning "jenny";
+the column leaves open the question why Semitic has two separate root-words for
+the male and female donkey when other animals take one root for both, as with
+*par* and *parah*, *egel* and *eglah*, *keves* and *kivsah*. Rabbi David Chaim
+Chelouche (*Ohr Chadash* to Bereishis 12:16) proposes that *aton* derives from
+*es*, the particle that carries no meaning of its own but attaches to another
+word: male donkeys being known for an elevated libido (see Yechezkel 23:20), the
+*aton*'s role is to be attached to the male. Rav Hirsch (to Bereishis 12:16,
+Shemos 14:27) links א-ת-ן to א-ד-נ, *tav* and *dalet* interchanging, so the name
+marks her load-bearing capacity, as an *eden*, one of the silver sockets holding
+up the beams of the Mishkan, holds up what stands on it.
 
 Two dissents, both resting on *chamor* itself being usable for a female. Shadal
 (to Bereishis 12:16): *aton* is a separate species, the female of the *pere*, and
@@ -65,8 +96,9 @@ parts tightly joined, and *aton* is the donkey at its full strength.
 
 ### pere (פרא) and arud (ערוד)
 Ten occurrences, with final *aleph* or *hei*: the undomesticated wild ass, and by
-transfer a man of unbridled conduct, as Hashem told Avraham that Yishmael would
-be a *pere adam* (Bereishis 16:12). Rav Hirsch (to Bereishis 16:11) groups פ-ר-א
+transfer a man of unbridled conduct, as Yishmael was foretold to be a *pere
+adam* (Bereishis 16:12; the article says Hashem told this to Avraham, but in the
+pasuk it is the *malach* speaking to Hagar). Rav Hirsch (to Bereishis 16:11) groups פ-ר-א
 with פ-ר-ע, פ-ר-ח, פ-ר-ה, ב-ר-א, ב-ר-ח and ב-ר-ה, all turning on freedom and
 unhindered movement; the man likened to the animal lacks the boundaries a man
 should have. Biblical Aramaic has *aradaya* once (Daniel 5:21), and Targumic
@@ -74,41 +106,70 @@ Aramaic always renders *pere* as *arud*. Mishnaic Hebrew uses *arud*, not *pere*
 crossing a *chamor* with an *arud* is forbidden despite their likeness (Kilayim
 1:6), and Rabbi Akiva sets the time for *Shema* by when one can tell an *arud*
 from a *chamor* (Berachos 9b). The Mishnah calls an *arud* a *chayah* (Kilayim
-8:6), matching Radak; the *arud* of Berachos 33a is an unrelated homonym, a
-venomous creature.
+8:6), matching Radak, and *arud* for the wild ass runs through the Bavli as well
+(Berachos 9b; Rosh Hashanah 3a; Bava Kamma 37a; Chullin 59a; Menachos 103b). The
+*arud* of Berachos 33a and Chullin 127a is an unrelated homonym, a poisonous
+lizard taken as a cross between a snake and a turtle.
 
 ### ayir (עיר) and sayach (סיח)
 Eight occurrences: Yaakov's tribute to Esav (Bereishis 32:16), the thirty sons of
-Yair on thirty *ayarim* (Shoftim 10:4), the seventy sons and grandsons of Ivtzan
-(Shoftim 12:14), so riding one marked rank. Where *ayir* is paired with *aton*
+Yair the Giladi on thirty *ayarim* (Shoftim 10:4), and the forty sons and thirty
+grandsons who rode on seventy *ayarim* at Shoftim 12:14 (the article assigns
+that verse to the judge Ivtzan, but the judge there is Avdon ben Hillel;
+Ivtzan's own account is at 12:8-10). Riding one evidently marked rank, and
+Zecharyah calls Mashiach "riding on a *chamor* and on an *ayir* the son of
+*asonos*" (Zecharyah 9:9). Where *ayir* is paired with *aton*
 (Bereishis 32:16, 49:11, Zecharyah 9:9) it is her offspring, a foal; Radak
 (*Sefer HaShorashim*) allows it for the young of a *chamor* or of a *pere*.
+The classical lexicographers trace *ayir* to the triliteral ע-י-ר, but
 Pappenheim treats the *yod* as inessential and reads ע-ר, "revealing" (so *ir*,
-*ohr*, *ervah*, *taar*, *er*): as *naar* is the stage at which a youth's
-potential shows itself, *ayir* is the donkey whose strength is now coming out. In
-rabbinic usage the value shifts: Rashi (to Rosh Hashanah 3a) takes *ayir* as a
-young horse, and Rashbam (to Bava Basra 78b) gives *sayach* for a young donkey.
+a city with squares open to the public; *ohr*, the skin that is revealed;
+*ervah*, nakedness; *taar*, the razor that reveals the skin; *ar*, an enemy who
+reveals his enmity; and *eir*, awake, since a sleeper's abilities show only on
+waking): as *naar* is the stage at which a youth's potential suddenly reveals
+itself, *ayir* is the adolescent donkey whose strength as a pack animal is now
+being revealed. In rabbinic usage the value shifts: Rashi (to Rosh Hashanah 3a)
+takes *ayir* as a young horse, and Rashbam (to Bava Basra 78b) gives *sayach*
+for a young donkey, though in Modern Hebrew *sayach* means a young horse, a
+colt.
 
 ### pered (פרד) and yeimim (ימים)
 *Pered* is the mule, feminine *pirdah*; root פ-ר-ד, separating. Rav Hai Gaon,
 cited by Radak in *Sefer HaShorashim*: the mule is separated from other animals
 by being unable to reproduce. Rabbi Yehoshua Steinberg compares it to its human
 counterpart the *mamzer*, whose name is tied to *zar*, kept outside on account of
-his parentage. From the Mishnah's ruling that a *pered* may not be mated with a
-horse or a donkey (Kilayim 1:6) comes a further possibility: the root may cover
-both separating and joining what ought to stay apart.
+his parentage; on his reading the *pered*, by dint of its tainted, intermixed
+lineage, may have been seen as something separate from other animals, a kind
+of pariah. The column proposes an alternative of its own from the Mishnah's
+ruling that a *pered* may not be mated with a horse or a donkey (Kilayim 1:6),
+which is the novel case, horse-and-donkey needing no statement: the root may
+cover not only separating but its opposite, joining together what ought to stay
+separate, which is exactly the *pered*'s parentage. A separate caution the
+column raises: the resemblance between *pered* and the German and Yiddish
+*pferd*, "horse," is a common misconception of borrowing in one direction or the
+other; linguists trace the German word to the Proto-Indo-European root *reidh-*,
+"to ride," by way of the Latinate *paraveredus*, "a courier's horse."
 
 *Yeimim* is a *hapax*: Anah found the *yeimim* in the desert while pasturing his
-father Tzivon's donkeys (Bereishis 36:24). Rashi: he bred a male donkey with a
-mare and so invented the mule, fitting for a man himself born of forbidden union;
-the Yerushalmi (Berachos 8:5) reverses the pairing. Shadal (to Bereishis 36:24)
-rejects Rashi's version because it leaves *yeimim* indistinguishable from
-*pered*, and follows the Yerushalmi, so *pered* is a mule and *yeimim* are
-hinnies. Targum Onkelos renders *yeimim* as giants, and Ibn Ezra follows, noting
-that Onkelos calls the Eimim people giants too (Devarim 2:10 to 11). On the name:
-Rashi, following Chullin 7b, connects it to *eimah*, fear, and Pappenheim to the
-biliterals י-ם and ה-ם, wildness; Rabbi Yehuda ben Simon in the Yerushalmi reads
-it as Greek *hemionos*, half-donkey.
+father Tzivon's donkeys (Bereishis 36:24). Rashi: he discovered, or invented,
+mules by mating a male donkey with a mare, which is pointed because Anah was
+himself a *mamzer*, born of the incestuous union of Tzivon and Tzivon's own
+mother. The Yerushalmi (Berachos 8:5) cites a slightly different version of the
+tradition, in which the *yeimim* were born of a male horse and a female donkey.
+The column notes, on Al-HaTorah's authority, that the comment in Rashi giving a
+donkey father and a horse mother does not appear in all manuscript versions of
+Rashi, which makes sense, since it is the converse of the Yerushalmi. Shadal (to
+Bereishis 36:24) alludes to Rashi's explanation and rejects it because he sees
+no difference between *yeimim* and its apparent synonym *pered*, and follows the
+Yerushalmi, so that *pered* is a mule and *yeimim* are hinnies. Targum Onkelos
+renders *yeimim* as giants, and Ibn Ezra follows, noting that Onkelos calls the
+Eimim people giants too (Devarim 2:10-11). On the name: Rashi (to Bereishis
+36:24), following Chullin 7b, connects it to *eimah*, fear, although the word
+has no *aleph*, because the *yeimim* were dangerous animals people feared;
+Pappenheim similarly ties it to the biliterals י-ם and ה-ם, which he defines as
+wildness or chaos; and Rabbi Yehuda ben Simon in the Yerushalmi reads it as
+Greek, a form of *hemionos*, from *hemi-*, half, and *onos*, donkey, which gives
+etymological backing to the tradition that Anah discovered the mule.
 
 ## Rendering guidance
 
@@ -141,12 +202,21 @@ Rabbi Reuven Chaim Klein, "Balak: An Asinine Essay (Part 1/2)" (12 July 2025 /
 Tammuz 5785), What's in a Word?, Ohr Somayach: raw texts in
 `sources/whats-in-a-word/raw/11871-balak-an-asinine-essay-part-12.md` and
 `sources/whats-in-a-word/raw/11869-pinchas-an-asinine-essay-part-22.md`. Primary
-loci cited: Bereishis 12:16 (printed 13:16), 16:12, 32:16, 36:24, 49:11; Shemos
-13:13, 14:27, 34:20; Vayikra 22:28; Bamidbar 22:21 to 33; Devarim 2:10 to 11;
-Shoftim 5:10, 10:4, 12:14; Shmuel II 19:27; Melachim II 4:24; Zecharyah 9:9;
-Daniel 5:21; Mishnah Kilayim 1:6 and 8:6, Bechoros 1:2; Berachos 9b and 33a;
-Rosh Hashanah 3a with Rashi; Bava Basra 78b with Rashbam; Chullin 7b; Yerushalmi
-Berachos 8:5; Radak, *Michlol* and *Sefer HaShorashim*; Rav Hirsch to Bereishis
-13:16 and 16:11; *HaKesav VeHaKabbalah*; Pappenheim, *Cheshek Shlomo*; Shadal;
-Rabbi David Chaim Chelouche, *Ohr Chadash*. Comparative Semitic and
-Indo-European etymologies in the articles are omitted per house rule 9.
+loci cited: Bereishis 12:16, 16:12, 32:16, 33-34, 36:24, 49:11; Shemos 13:13,
+14:27, 34:20; Vayikra 22:28; Bamidbar 22:21-23, 22:25, 22:27-30, 22:32-33;
+Devarim 2:10-11; Yehoshua 24:32; Shoftim 5:10, 9:28, 10:4, 12:8-10, 12:14;
+Shmuel II 19:27; Melachim II 4:24; Yechezkel 23:20; Zecharyah 9:9; Daniel 5:21;
+Mishnah Kilayim 1:6 and 8:6, Bechoros 1:2; Berachos 9b and 33a; Rosh Hashanah
+3a with Rashi; Bava Kamma 37a; Chullin 59a, 127a; Menachos 103b; Bava Basra 78b
+with Rashbam; Chullin 7b; Yerushalmi Berachos 8:5; Radak, *Michlol* and *Sefer
+HaShorashim*; Rav Hirsch to Bereishis 12:16 and 16:11; *HaKesav VeHaKabbalah*;
+Pappenheim, *Cheshek Shlomo*; Shadal; Rabbi David Chaim Chelouche, *Ohr
+Chadash*; Rabbi Ernest Klein's etymological dictionaries of Hebrew and English.
+The comparative Semitic and Indo-European material the articles cite is reported
+here as they give it. Three locus notes: the first article prints Bereishis
+13:16 for the *chamor* of Pharaoh's gifts and for the Chelouche and Rav Hirsch
+comments, but the pasuk with *chamorim* and *atonot* is 12:16, which is given
+here; the first article attributes the *pere adam* prophecy to Hashem speaking
+to Avraham, where the pasuk has the *malach* speaking to Hagar; and the second
+article assigns the seventy *ayarim* of Shoftim 12:14 to the judge Ivtzan,
+where the judge in that passage is Avdon ben Hillel.

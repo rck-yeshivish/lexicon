@@ -10,9 +10,9 @@ words:
     nk: לַהַט
 sources:
   - wiaw:8007 "Playing with Fire" (2018-12-01) https://articles.ohr.edu/articles/playing-with-fire-2
-authorities: [Rabbi Eliyahu HaBachur (Meturgeman), Rabbi Shlomo Pappenheim, Malbim, Radak]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Eliyahu HaBachur (Meturgeman), Rabbi Shlomo Pappenheim, Malbim, Radak, Alexander Beider]
+status: reviewed
+updated: 2026-09-10
 ---
 # Fire: aish / ur / lehavah / shalheves / lahat / lapid
 
@@ -42,14 +42,16 @@ this to *nura* as well, noting that Rabbi Shlomo Pappenheim does not say so
 himself.
 
 ### ur (אור)
-Spelled like *ohr* but pointed differently, and plainly meaning fire. Six times
+Spelled like *ohr* but pointed differently, and plainly meaning fire; the column
+notes that Rabbi Pappenheim does not explicitly mention it. Six times
 in Tanach, only in Yeshayahu and Yechezkel, and the preferred word in the
 Mishnah, where it is common (*Challah* 4:8; *Shabbos* 1:11, 8:7, 16:5; *Yoma*
 6:7; *Beitzah* 4:4 and 4:7; *Rosh Hashanah* 2:3; *Bava Kama* 6:4 and 9:4;
 *Sanhedrin* 9:1; *Avodah Zarah* 5:12; *Avos* 2:10; *Zevachim* 12:6; *Menachos*
 10:4; *Chullin* 3:3; *Tamid* 1:3; *Keilim* 5:11 and 29:8; *Ohalos* 11:7). Ur was
-also the Mesopotamian city where Avraham Avinu lived, and the mesorah reads the
-name as alluding to the fiery furnace its king threw him into. Malbim: *ur* is a
+also the name of an ancient Mesopotamian city where Avraham Avinu lived, and
+according to tradition the name alludes to the fiery furnace its king threw him
+into, from which he emerged unscathed. Malbim: *ur* is a
 smaller fire than *aish*.
 
 ### lahav / lehavah (להב, להבה)
@@ -64,9 +66,9 @@ of Beis Yosef and burns up the straw, which is Beis Eisav.
 
 ### shalheves (שלהבת)
 Close to *lahav*, but Rabbi Shlomo Pappenheim distinguishes it: a *shalheves* is
-a flame attached to something tangible. He links it to *meshulav* ("interlocked,
-joined," Shemos 26:17, Melachim I 7:29), so a *shalheves* is flame mixed into
-the material it is consuming.
+a flame attached to something tangible. He links it both to *lahav* and to *meshulav*
+("mixed," Shemos 26:17, Melachim I 7:29), so a *shalheves* is a flame mixed with
+the material it is burning up.
 
 ### lahat (להט)
 The fast movement of fire, what English calls spreading like wildfire. Rabbi
@@ -77,16 +79,27 @@ borrowed for enthusiasm.
 
 ### lapid (לפיד) and avukah (אבוקה)
 *Lapid* is used when the focus is the object carrying the fire rather than the
-fire itself, so "torch." Radak (to Nachum 2:4) reads *aish pladot* as an
-inverted way of saying *lapid aish*. *Avukah* is post-Biblical and first means a
+fire itself, so "torch." The column reports that some linguists creatively
+connect *lapid* to the Akkadian *diparu*, justifying it by taking the l-sound as
+interchangeable with the r-sound and then applying a metathesis that rearranges
+the consonants of *rapid* into *diparu*; and it notes that this is similar to an
+explanation in Radak (to Nachum 2:4), who reads *aish pladot* as an alternate
+way of saying *lapid aish*. *Avukah* is post-Biblical and first means a
 bundle of twigs for fuelling a fire; from there it came to mean any candle or
 torch with more than one wick lit. Halachah distinguishes the two: Havdalah
 calls for an *avukah*, while *bedikas chametz* and *neros Chanukah* call for a
 *ner*, a single wick.
 
 ### ner (נר) and shraga (שרגא)
-*Ner* is the lamp or candle; the Targumim render it *shraga*, which later became
-a personal name, its Yiddish counterpart being Feivish.
+*Ner* is the lamp or candle; the Targumim generally render it *shraga*, which
+later became a popular Jewish name, much as the Arabic name Siraj is popular in
+the Arab world. Its Yiddish counterpart is Feivish. The column reports that some
+scholars associate Feivish, like Shraga, with light, arguing that it derives
+from the Greek and Latin name Phoebus, the name of the Greek and Roman god of
+light, and it remarks on the turn of events by which a pagan god's name was
+adopted as a Jewish personal name. Dr. Alexander Beider dismisses that
+explanation as folk etymology and argues that Feivish comes from Latin *vivus*,
+"life," which would tie it to the name Chaim rather than to Shraga.
 
 ## Rendering guidance
 
@@ -120,8 +133,6 @@ Rabbi Reuven Chaim Klein, "Playing with Fire," What's in a Word?, Ohr Somayach,
 `sources/whats-in-a-word/raw/8007-playing-with-fire-2.md`. Primary loci cited:
 Ovadiah 1:18; Shemos 7:11, 7:22, 8:3, 26:17; Melachim I 7:29; Nachum 2:4 (Radak);
 the Mishnayos listed above; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Shlomo
-Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*. The Malbim on *ur* is printed
-in the article as Yechezkel 2:5; the *ur* in Yechezkel stands at 5:2. The
-article's Akkadian derivation of *lapid*, its Greek and Latin derivations of the
-name Feivish, and the academic authority cited on that name are omitted here
-under the Orthodox-sources rule.
+Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Dr. Alexander Beider on the
+name Feivish. The Malbim on *ur* is printed in the article as Yechezkel 2:5; the
+*ur* in Yechezkel stands at 5:2.

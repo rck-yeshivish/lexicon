@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:6876 "A Crown is a Crown" (2016-07-30) https://articles.ohr.edu/articles/a-crown-is-a-crown
 authorities: [Malbim, Rabbi Yaakov Tzvi Mecklenburg]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Crown: keter / atarah / nezer
 
@@ -47,9 +47,10 @@ circle in it.
 ### nezer (נזר)
 Related to *zer*, the golden band that ran around several of the kelim of the
 Mishkan, a word that appears ten times in Shemos. But *nezer* carries more than
-ornament. It is the root of *nazir*: the Torah calls him holy "because the *nezer*
+ornament. It is the root of *nazir*: the Torah calls the man who has forsworn wine,
+cutting his hair, and tumah especially holy "because the *nezer*
 of his God is upon his head" (Bamidbar 6:7), which shows itself physically in his
-untouched hair and spiritually in his separation from ordinary people. The same
+long hair and spiritually in his separating himself from the common folk. The same
 word explains the stringencies of the Kohen Gadol, "for the *nezer*, the anointing
 oil of his God, is upon him" (Vayikra 21:12), and he too is set apart from the
 nation in dress and in avodah. So *nezer* is the crown that marks off and
@@ -60,8 +61,12 @@ physically the *nezer* encircles only half the head, a tiara.
 *Klil* is the Aramaic for crown, and likewise means what encompasses something.
 Rabbi Yaakov Tzvi Mecklenburg derives *kallah*, a bride, from it: as a crown
 wholly surrounds the head, a *kallah* is wholly surrounded by her ornaments and
-jewelry. *Tag* or *taga* is the crown in rabbinic idiom, and is the word for the
-*tagin*, the crownlets drawn atop certain letters in a sefer Torah.
+jewelry. *Tag* or *taga* is a fifth word for crown, the one used in rabbinic
+idiom, and is the word for the *tagin*, the crownlets drawn atop certain letters
+in a sefer Torah. The article reports that linguists claim *tag* to be a Persian
+loanword later taken into Aramaic, and adds an aside of its own: given that a
+crown marks its wearer out as special, one can easily see how the Aramaic *tag*
+became the English "tag," which also serves as a marker of sorts.
 
 ## Rendering guidance
 
@@ -91,5 +96,6 @@ https://articles.ohr.edu/articles/a-crown-is-a-crown; raw text in
 `sources/whats-in-a-word/raw/6876-a-crown-is-a-crown.md`. Primary loci: Esther
 1:11, 2:17, 6:8; Bamidbar 6:7; Vayikra 21:12; the *zer zahav* of the Mishkan
 kelim in Shemos. Rabbi Yaakov Tzvi Mecklenburg writes in *HaKesav VeHaKabbalah*;
-the Malbim is cited by the article without a locus. The article's claim that *tag*
-is a Persian loanword, and its aside on the English word "tag," are omitted here.
+the Malbim is cited by the article without a locus. The article's report that
+linguists take *tag* for a Persian loanword, and its own aside on the English
+word "tag," are reported above as the article reports them.

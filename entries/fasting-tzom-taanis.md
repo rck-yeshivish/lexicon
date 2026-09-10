@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:7332 "United We Fast" (2017-07-08) https://articles.ohr.edu/articles/united-we-fast
 authorities: [Radak, Rabbi Yosef Kimchi, Rabbi Akiva Shlomo Deutsch-Dayan of Geneva, Rabbi Avraham Etiel Gurwitz, Rambam, Rema, Rabbi Yechiel Heilpern, Rabbi Moshe Di'Segovia Benveniste]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Fasting: tzom / taanis (inui)
@@ -53,23 +53,27 @@ fasting is one form.
    grants that Ezra sometimes writes closer to Rabbinic Hebrew, and still
    rejects it). Instead: *tzom* is a fast required by law, *taanis* one
    declared *ad hoc* or kept as a custom without being strictly obligatory.
-   Hence *Tzom Gedaliah*, which Yirmiyahu established by prophecy, against
-   *Taanis Esther*, of which the Rema writes that it is not obligatory and one
-   may be lenient when necessary (*Orach Chaim* 686:2). The fasts of the Purim
-   story itself are called *tzomos* because then they were obligatory.
+   Hence *Tzom Gedaliah*, which Yirmiyahu prescribed by prophetic fiat, against
+   *Taanis Esther*, which was instituted in post-Talmudic times and of which the
+   Rema writes that it is not obligatory and one may be lenient when necessary
+   (*Orach Chaim* 686:2). The fasts declared in the Purim story itself are
+   called *tzomos* because at that time they were obligatory.
 2. **Mode of fasting.** Rabbi Avraham Etiel Gurwitz, from Rambam's own usage:
    *tzom* is the undertaking to refrain from food and drink, which is why
    Rambam uses it in *Hilchos Nedarim* for a personal fast; *taanis* is the
    acceptance of a day as halachically distinct, whose distinction rules out
    eating and drinking, which is why Rambam uses it in *Hilchos Taaniyos*.
 
-The two readings often coincide in practice, since publicly fixed days are the
-obligatory ones. Where a text uses both words in one breath, Rabbi Gurwitz's
+The article leaves the two approaches standing side by side; Rabbi Gurwitz
+"takes a different approach," and nothing decides between them. Ours, for
+rendering purposes: where a text uses both words in one breath, Rabbi Gurwitz's
 distinction is the finer instrument; where the question is why a given fast
 bears the name it bears, Rabbi Deutsch-Dayan's answers it.
 
-**Where tzom comes from.** The plain suggestion is *tzamei*, thirsty, since one
-who fasts ends up thirsty. Radak (*Sefer HaShorashim*, and to Melachim I 21:9)
+**Where tzom comes from.** *Tzom* and its variations appear close to fifty times
+in Tanach and usually refer to abstaining from eating. It is probably related to
+*tzamei*, thirsty, since one who fasts generally ends up thirsty. Nonetheless,
+Radak (*Sefer HaShorashim*, and to Melachim I 21:9)
 reports in his father's name that *tzom* literally means gathering, and proves
 it from the Mishnah's *tzomes hagidim* (*Chullin* 4:7), the point in an
 animal's leg where the sinews converge; Modern Hebrew's *tzomes*, a junction,
@@ -79,7 +83,9 @@ preserves the sense. The gathering reading is the one that carries a
 ## Distinctions
 
 ### tzom (צום)
-Zechariah 8:19 names the four fasts by their months: the fast of the fourth (17
+Zechariah 8:19, foretelling a time when the four fast days will be turned into
+holidays, days of joy and gladness, names them by their months: the fast of the
+fourth (17
 Tammuz, when the walls were breached), the fifth (9 Av, the destruction and the
 exile), the seventh (3 Tishrei, when Gedaliah ben Achikam was assassinated),
 and the tenth (10 Teves, when the siege began). All four mark stages of the
@@ -102,9 +108,12 @@ claim: we fasted as one. The Gemara says that a fast which does not take in
 everyone, the sinners of Yisrael included, is no fast (Kerisus 6a). Yeshayahu's
 answer is that the unity was a front; they made a show of loving one another so
 that favors would come back to them. And their *inui* was no better: they
-claimed to be dulling the body to sharpen the soul, while in truth they used
-the free day to press their debtors, "on the day of your fast you pursue your
-desires, and press all those who are indebted to you" (58:3 to 6).
+claimed to be dulling the body to sharpen the soul, while in truth they declared fast
+days for their own convenience, needing time free of their regular schedules to
+harass those who owed them money, "on the day of your fast you pursue your
+desires, and press all those who are indebted to you." The fast Hashem does want
+is the one that "breaks open the shackles of wickedness, unties the bonds of
+injustice, sends free the oppressed, and cuts off all iniquities" (58:3 to 6).
 
 ## Rendering guidance
 

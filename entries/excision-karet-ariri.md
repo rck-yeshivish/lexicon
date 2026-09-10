@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Chaim of Volozhin, Ramban, Rabbeinu Bachya, Ibn Ezra, Rashi, Riva]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Excision: karet / ariri
 
@@ -34,8 +34,11 @@ Root כ-ר-ת. Rabbi Shlomo Pappenheim (*Yerios Shlomo*, in a treatment of more
 than fifteen Hebrew words for cutting): *karet* is the general word for cutting,
 whether or not the cut actually severs. So a *get* is a *sefer krisus* (Devarim
 24:1), a document of cutting, since marriage joins two into one and ending it
-tears one body in two; and so a covenant is *karat*, "cut," from the rite of
-cutting animals in half and passing between the pieces. In *Cheshek Shlomo* he
+tears one body in two; and so a covenant is *karat*, "cut," from the ancient rite
+of cutting animals in half and having the parties to the agreement walk between
+the pieces, which is why the Biblical verb for entering a covenant is *karet* at
+all. Some linguists, the column notes, link this to the English idiom "to cut a
+deal." In *Cheshek Shlomo* he
 takes the two-letter root כ-ר as a kind of digging, which breaks up the earth and
 parts one clod from another, and cutting does the same. *Karet* also carries
 plain destruction, and above all the Divine punishment of spiritual excision, on
@@ -117,6 +120,8 @@ text in `sources/whats-in-a-word/raw/8271-karet-and-ariri.md`. Primary loci:
 Mishnah Kerisos 1:1; Devarim 24:1; Pappenheim, *Yerios Shlomo* and *Cheshek
 Shlomo*; *Nefesh HaChaim* 1:18; Ramban and Rabbeinu Bachya to Vayikra 18:29;
 Bamidbar 15:31; Yerushalmi Bikkurim 2:1 with Bamidbar 4:18 and 8:25; Moed Katan
-28a; Ibn Ezra to Bereishis 17:14 (the article prints his name "Ibn Era");
-Bereishis 15:2; Yirmiyahu 22:30; Vayikra 20:20 and 20:21; Rashi to Shabbos 25b;
-Tosafos and Tosafos Yeshanim to Yevamos 2a.
+28a; Ibn Ezra to Bereishis 17:14; Bereishis 15:2; Yirmiyahu 22:30; Vayikra 20:20
+and 20:21; Rashi to Shabbos 25b (where the article prints Ibn Ezra's name "Ibn
+Era"); Tosafos and Tosafos Yeshanim to Yevamos 2a. The anonymous linguists' link
+between *karas bris* and the English "cut a deal" is reported here as the article
+reports it.

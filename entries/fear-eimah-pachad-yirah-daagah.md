@@ -8,8 +8,8 @@ domain: emotion
 sources:
   - wiaw:7018 "Afraid of Fright or Ready to Fight" (2016-11-26) https://articles.ohr.edu/articles/afraid-of-fright-or-ready-to-fight
 authorities: [Rashi, Ibn Ezra, Rabbi Shlomo Aharon Wertheimer, Beis HaLevi]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Fear: eimah / pachad / yirah (morah) / daagah
 
@@ -30,11 +30,15 @@ Root א-י-ם. Ibn Ezra (Shemos 23:27): *eimah* is the emotive feeling of being 
 as against *pachad*, the outward manifestation of fear. Rashi (Shemos 15:16): *eimah*
 and *pachad* differ as fear of a distant threat differs from fear of one close at
 hand; the versions of Rashi and the other commentators disagree on which is which,
-so the far/near assignment cannot be relied on for a rendering.
+so the far/near assignment cannot be relied on for a rendering. Either way, the
+column observes, a man reacts differently to hearing news of a threat than to
+meeting one, and Hebrew registers those differing fight-or-flight responses in
+two otherwise synonymous words.
 
 ### pachad (פחד)
-Root פ-ח-ד. Rashi (Devarim 11:25), distinguishing it from *morah*: *pachad* is a
-sudden fear, *morah* a fear pent up for some time. Wertheimer: *pachad* is the less
+Root פ-ח-ד. Rashi (Devarim 11:25), distinguishing it from *morah*, repeats the
+far/near distinction there and adds a second one: *pachad* is a sudden fear,
+*morah* a fear pent up for some time. Wertheimer: *pachad* is the less
 intense, sudden but short-lived; and it applies only to human beings, who have the
 intellect to grasp what a danger implies, whereas the other words apply to animals
 too, whose instinct reacts without comprehension. Ibn Ezra: the outward
@@ -54,7 +58,8 @@ HaMelech's counsel, דאגה בלב איש ישחנה (Mishlei 12:25): speak it 
 worry confined to finite words loses its limitlessness; on the second reading,
 distract oneself with other matters. Beis HaLevi: worry over what is foreseen as
 certain. Wertheimer: not the worrying itself but the despondency of one steeped in
-anxious fright.
+anxious fright; the column notes that this echoes Franklin Delano Roosevelt's
+inaugural line that the only thing we have to fear is fear itself.
 
 ## Rendering guidance
 

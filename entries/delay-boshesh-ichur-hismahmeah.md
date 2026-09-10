@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:8644 "Better Late Than …….." (2020-03-14) https://articles.ohr.edu/articles/better-late-than-aeuraeur
 authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Saba, Rav Hirsch, Rabbi Dovid Golumb, Rabbi Aharon Marcus, Rabbi Chanoch Zundel of Bialystok, Piskei HaRosh, Talmidei Rabbeinu Yonah, Maadanei Yom Tov]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Delay: boshesh / ichur / hismahmeah
 
@@ -35,9 +35,12 @@ excusable. Malbim: *ichur* is anything past a pre-set time. Rabbi Yehuda Leib
 Shapira-Frankfurter (*HaRechasim LeVik'ah*): *ichur* is an acceptable
 lateness, what we would call fashionably late.
 
-Rabbi Yaakov Tzvi Mecklenburg, quoting R' Naftali Hertz Wessely, reverses the
-value: *ichur* is being late willingly and by choice, while *boshesh* is being
-held up by forces outside one's control. On that reading Shemos 32:1 says
+Rabbi Yaakov Tzvi Mecklenburg quotes an elaborate discussion of these words from
+the writings of R' Naftali Hertz (Wessely) Weisel, a figure the column describes
+as often maligned as a maskil but whose rabbinic bona fides are also attested to.
+Weisel reverses the value: *ichur* is being late willingly and deliberately,
+while *boshesh* is being held up by forces beyond one's control. On that reading
+Shemos 32:1 says
 *boshesh* because the people assumed Moshe had been prevented from coming down,
 by illness or death, which is why they were ready to accept another leader; in
 truth his delay was an *ichur*, since he was deliberately staying to bask in
@@ -54,9 +57,11 @@ The Midrash (*Bereishis Rabbah* 18:6) parses *boshesh* as *ba'u shesh sha'os*,
 "six hours have come," the people reckoning that midday had passed and Moshe
 was still not there. Rabbi Chanoch Zundel of Bialystok (*Eitz Yosef*) explains
 the derashah's warrant: the Torah's use of *boshesh* where *ichur* was expected
-is itself the anomaly the Midrash is answering. Rabbi Yehuda Leib
-Shapira-Frankfurter suggests the same anomaly is what led Chazal to read the
-people as thinking Moshe was late by many hours: not late, but very late.
+screams for further interpretation, and the Midrash fills that lacuna. Rabbi
+Yehuda Leib Shapira-Frankfurter, on his own supposition that *boshesh* denotes
+excessive lateness, suggests that perhaps the appearance of this word is what led
+Chazal to assume the people thought Moshe was late by many hours: not late, but
+very late.
 
 Rabbi Avraham Saba (*Tzror HaMor*) reads *boshesh* against Aramaic *bshash*,
 food without salt or seasoning, and hears in the word choice the Erev Rav's
@@ -84,10 +89,11 @@ Pappenheim: it is the kind of delay to be ashamed of. Rav Hirsch: the root's
 core is disappointment, and shame is disappointment in oneself upon seeing
 one's own shortcoming, while *boshesh* is a delay so long that those waiting
 are disappointed in the man and give up on him. Rabbi Dovid Golumb
-(*Targumna*): one who is shamed is so belittled that he is no longer worth
-waiting for, so his lateness becomes *boshesh*. Rabbi Aharon Marcus: the core
-of ב-ש is being withheld, whence both lateness and the shame that drains the
-blood from a man's face, blood withheld from its usual course.
+(*Targumna*): one who is shamed is so belittled and ashamed that nobody views him
+as important, and the upshot is that he is no longer deemed worth waiting for
+when he is delayed (*boshesh*). Rabbi Aharon Marcus: the core of ב-ש is
+something being delayed or withheld, whence both lateness and the shame that
+turns a man's face white, his blood withheld from travelling its usual way.
 
 ## Rendering guidance
 
@@ -121,7 +127,8 @@ Bereishis 19:16; Shmuel II 15:28; Shoftim 5:28; Iyov 6:6 with Targum; Berachos
 40a with *Piskei HaRosh*, Talmidei Rabbeinu Yonah, Rashi, and *Maadanei Yom
 Tov*; *HaRechasim LeVik'ah* to Shemos 32:1; Malbim ad loc.; *Tzror HaMor* ad
 loc.; Rabbi Shlomo Pappenheim on ב-ש and on biliteral מ-ה; *Targumna*. The view
-attributed above to R' Naftali Hertz Wessely is given only as Rabbi Yaakov Tzvi
-Mecklenburg quotes it in *HaKsav VeHaKabbalah*; the article itself notes that
-he is often reckoned a maskil. See also the *bushah* / *klimah* / *cherpah*
-entry, which covers the shame side of this root.
+attributed above to R' Naftali Hertz (Wessely) Weisel is given only as Rabbi
+Yaakov Tzvi Mecklenburg quotes it; the article notes that he is often maligned as
+a maskil but that his rabbinic bona fides are also attested to. The article
+glosses *bushah* "embarrassment"; this guide renders it "shame," and see the
+*bushah* / *klimah* / *cherpah* entry, which covers the shame side of this root.

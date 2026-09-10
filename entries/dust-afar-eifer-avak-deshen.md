@@ -8,8 +8,8 @@ domain: nature
 sources:
   - wiaw:8467 "Dirt, Dust and Ashes" (2019-11-09) https://articles.ohr.edu/articles/dirt-dust-and-ashes
 authorities: [Netziv, Beis Shammai, Beis Hillel, Zohar, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliezer Lipman Lichtenstein, Rabbi Yehuda Leib Shapira-Frankfurter]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Dust: afar / eifer / avak / deshen
 
@@ -31,11 +31,16 @@ or broadly "dirt" is a machlokes at *Chullin* 88b over covering the blood of a
 slaughtered chayah or bird (Vayikra 17:13): Beis Shammai holds only literal soil
 may be used, Beis Hillel that ashes serve as well, and the halachah follows Beis
 Hillel, which treats *afar* as the general term. *Shabbos* 18a and Rashi to
-*Taanis* 15a likewise treat *afar* and *eifer* as interchangeable in some
-contexts.
+*Taanis* 15a likewise imply that *afar* and *eifer* are synonyms, or at least
+interchangeable in some contexts.
 
 The Zohar (*Vayishlach* 170a) sets the real line: *afar* is the crucible from
-which growth comes, while what fire or grinding leaves behind grows nothing.
+which growth comes, while what fire or grinding leaves behind grows nothing. The
+Zohar's own formulation treats *eifer* and *avak* as though they were perfect
+synonyms for burnt remnants; the column notes that this is a bit of an
+oversimplification, since although both are formed by a violent destructive
+process they are not the same thing, *eifer* being produced by burning and *avak*
+by pulverizing.
 Rabbi Moshe Shapiro draws the lesson of Bamidbar 19:17, where the Torah calls the
 ashes of the Parah Adumah *afar*: what looks like the residue of destruction can
 become the seed of renewal, which is exactly the point for one purified from
@@ -62,9 +67,12 @@ shreds), and *tefirah* (sewing, which repairs what *primah* did).
 The Netziv reads Avraham's *afar va'eifer* (Bereishis 18:27; the article prints
 19:27) as a double disclaimer before tefillah: some tefillos are answered in the
 merit of righteous forebears (Rashi to Bereishis 25:21) and some in the merit of
-righteous descendants (*Bereishis Rabbah* 29:5). Avraham called himself *afar*
+righteous descendants (*Bereishis Rabbah* 29:5). Having neither, Avraham prefaced
+his tefillah by appealing directly to Hashem's mercy. He called himself *afar*
 because dirt has no useful past, as his own father Terach was an idolater, and
-*eifer* because ashes have no fruitful future, since Yitzchak was not yet born.
+*eifer* because ashes have no fruitful future, since, as far as Avraham could
+tell, he was not destined to father righteous descendants, Yitzchak not yet
+having been born.
 
 ### avak (אבק)
 Fine dust, produced by pulverizing. Rabbi Pappenheim: *afar* is run-of-the-mill
@@ -75,8 +83,10 @@ to the Kisei HaKavod (*Chullin* 91a). Chazal's *avak* compounds work off exactly
 this sense of brushing the edge of a prohibition without crossing it: *avak
 lashon hara* (*Bava Basra* 165a), *avak ribbis* (*Temurah* 6b), *avak sheviis*
 (*Succah* 40b), *avak avodah zarah* (*Tosefta Avodah Zarah* 1:3). Rabbi Yehuda
-Leib Edel, taking ALEPH and CHES as interchangeable, links *avak* to *chibbuk*,
-an embrace, since such particles are met only clinging to something else; and
+Leib Edel proposes that since ALEPH and CHES are sometimes interchangeable,
+*avak* may be related to *chavak*/*chibbuk*, a hug, since such particles are so
+small and insignificant on their own that one meets them only clinging to, or
+"hugging," something else; and
 Rashi (to Bereishis 32:25) describes that same wrestling as *chovek*, a hugging.
 
 ### deshen (דשן)
@@ -88,8 +98,9 @@ reserved for the ashes of the avodah in the Mikdash. Rabbi Pappenheim: "ashes"
 is only the secondary sense of *deshen*, whose primary sense is fat (Devarim
 31:20; Tehillim 63:6; Mishlei 15:30); ashes of burnt animals are called *deshen*
 for the residual fat in them, so on his view *deshen* is only animal ash, while
-burnt flora yields *eifer* alone. He connects *deshe* (Bereishis 1:11) and both
-senses of *deshen* to the biliteral ד-ש.
+burnt flora yields *eifer* alone; fruit and vegetable oils, on his account, are
+*deshe* (Bereishis 1:11). He connects *deshe* and both senses of *deshen* to the
+biliteral ד-ש.
 
 ## Rendering guidance
 

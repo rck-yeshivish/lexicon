@@ -10,9 +10,9 @@ words:
     nk: גַּד
 sources:
   - wiaw:8735 "A Coriander Conundrum" (2020-06-06) https://articles.ohr.edu/articles/a-coriander-conundrum
-authorities: [Targum Onkelos, Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi, Rashbam, Ralbag, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rav Hai Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Krinsky, Rabbi Dovid Golumb, Rabbeinu Chananel, Rabbi Natan of Rome, Tosafos Rabbeinu Elchanan, Tosafos HaRosh, Nimukei Yosef]
-status: draft
-updated: 2026-09-09
+authorities: [Targum Onkelos, Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi, Rashbam, Ralbag, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rav Hai Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Krinsky, Rabbi Dovid Golumb, Rabbeinu Chananel, Rabbi Natan of Rome, Tosafos Rabbeinu Elchanan, Tosafos HaRosh, Nimukei Yosef, Wilhelm Gesenius]
+status: reviewed
+updated: 2026-09-10
 ---
 # Coriander: gad / kusbarta (and gudgedaniyos)
 
@@ -40,8 +40,15 @@ of the body together), *gedud* (a squad joined into one unit), and *haggadah*
 (setting new information into a larger narrative); on the same logic *meged*
 (Devarim 33:13-14), *megadim* (Shir HaShirim 4:13), and *migdanos* (Bereishis
 24:53) are sweet foods, which the palate wants to attach itself to, and he
-suggests the *gad* seed of the man may likewise be a sweet edible seed.
-Coriander seed is sometimes described as sweet.
+suggests that perhaps the *gad* seed of the man is likewise a sort of sweet
+edible seed. Coriander seed is sometimes described as sweet.
+
+As an aside, the column notes that coriander is known as *goid* in North African
+Punic, which led the German linguist Wilhelm Gesenius (1786-1842) to claim that
+*goid* derives from the Hebrew *gadad*, to cut, in allusion to the wrinkled and
+furrowed look of the seeds. Rabbi Golumb makes one further suggestion of his
+own: read *gad* backwards as *dag*, fish, so that the "fish seed" of the man is
+caviar, an especially notable and prominent food.
 
 Against coriander, Rabbi Yehudah Ibn Balaam in the name of Rav Hai Gaon: *zera
 gad* is mustard seed. Ibn Ezra (both commentaries to Shemos 16:31, and to
@@ -60,11 +67,15 @@ Balaam does hold that mustard seeds are white.
 ### kusbar / kusbarta (כוסבר, כוסברתא)
 The Mishnaic and Aramaic word for coriander: *Sheviis* 9:1, *Kilayim* 1:2 (cited
 in *Pesachim* 39a among the vegetables usable for maror), *Maasros* 3:9 and 4:5.
-Rabbi Dovid Golumb (*Targumna*) parses it from two Hebrew roots meaning cut up or
-chewed, כ-ו-ס (or כ-ס-ס) and ב-ר (see Yechezkel 23:47). The word carries a famous
+The column reports that linguists recognize both *kusbara* and *coriander* as
+belonging to very ancient languages, tracing *kusbara* to the Sanskrit
+*kustumbari*/*kustumburu* and *coriander* to *korijadana* in the proto-Greek
+known as Linear B. That said, Rabbi Dovid Golumb (*Targumna*) parses *kusbara*
+from two Hebrew roots meaning cut up, chewed or masticated, כ-ו-ס (or perhaps
+כ-ס-ס) and ב-ר (see Yechezkel 23:47). The word carries a famous
 double sense in *Avodah Zarah* 10b: Antoninus sent Rebbi a coded question about
-his wayward daughter and Rebbi sent back *kusbarta*, read as *kus* (to slaughter,
-as in the Syriac of *Pesachim* 63a) plus *barta* (daughter), that is, put her to
+his wayward daughter and Rebbi sent back *kusbarta*, read as *kus* (to chew or
+slaughter, as in the Syriac of *Pesachim* 63a) plus *barta* (daughter), that is, put her to
 death; when Antoninus objected that this would end his line, Rebbi urged mercy
 (Rabbeinu Chananel, *Sefer HeAruch*, and Rashi there). Others hold Antoninus
 misread it: *kusbarta* stood for *kasah* (cover up) plus *barta*, that he should
@@ -78,13 +89,22 @@ the Biblical *gad*. Jastrow vowelizes *gadgadniyos* and defines it as a clover o
 a cherry (see also Rashi to *Berachos* 57b and *Sefer HaTishbi*).
 
 ### Rashi's two French words
-Rashi renders *gad* in Chumash as *coliander* but the Aramaic *kusbarta* and
-*gida* in the Gemara (*Shabbos* 109a, *Yoma* 75a, *Avodah Zarah* 10b) as
-*aillendre*. Two resolutions: the Jewish dialects of Old French may have dropped
-the opening consonant, so that both are one word and Rashi used them
-interchangeably; or the split is a copyist's matter, since manuscripts of the
-Chumash commentary read *aillendre* and manuscripts of the Talmud commentary read
-*coliander*, and aleph and kuf resemble each other in some scripts.
+Rashi renders *gad* in Chumash as *coliander*, an Old French word for coriander
+(the l-sound and the r-sound being interchangeable, as often happens), but the
+Aramaic *kusbarta* and *gida* in the Gemara (*Shabbos* 109a, *Yoma* 75a,
+*Avodah Zarah* 10b) as *aillendre*, possibly pronounced *aliandre*. The column
+consulted experts and reports that two possibilities seem to resolve the
+contradiction. First, in the Jewish dialects of Old French the opening consonant
+of *coliander* might have been dropped, giving *aillendre*, so that Rashi may
+have used both pronunciations interchangeably; but the column notes at once that
+this does not account for why the Chumash commentary should have the one and the
+Talmud commentary the other. Second, it has been pointed out that alternate
+manuscripts of the Chumash commentary read *aillendre* while alternate
+manuscripts of the Talmud commentary read *coliander*, which suggests that
+*aillendre* is a copyist's error of permutation, aleph and kuf being very
+similar in some scripts. The column thanks Dr. Ariel Shaveh of the Academy of
+the Hebrew Language and Rabbi Tzvi Mordechai Libber of Milwaukee for these
+suggestions.
 
 ## Rendering guidance
 
@@ -94,9 +114,11 @@ Chumash commentary read *aillendre* and manuscripts of the Talmud commentary rea
 - Do not write "white coriander seed." Render "white, like coriander seed" or
   "white, and shaped like coriander seed," which is what Rashi, the Rashbam, and
   Radak insist the pasuk means.
-- Trap: English separates *cilantro*, the leaves and stalks, from *coriander*,
-  the seed. The pesukim speak of the seed, so "coriander" is the only right word
-  there; "cilantro" would put the wrong part of the plant in the pasuk.
+- Trap: American English separates *cilantro* (from the Spanish for coriander),
+  the leaves and stalks, from *coriander*, the seed; *culantro*, etymologically
+  a synonym, in practice names a different plant native to the Americas. The
+  pesukim speak of the seed, so "coriander" is the only right word there;
+  "cilantro" would put the wrong part of the plant in the pasuk.
 - Second trap: *gad* also names the tribe of Gad and, elsewhere in Tanach, fortune
   (and *gid* a sinew). Do not carry the plant sense into those, nor Rabbi Shlomo
   Pappenheim's shared root into a translation; his connection is a derivation, not
@@ -122,5 +144,6 @@ HaShorashim* s.v. גד; Mishnah *Sheviis* 9:1, *Kilayim* 1:2, *Maasros* 3:9 and
 HeAruch*, *Tosafos Rabbeinu Elchanan*, *Tosafos HaRosh*, and *Nimukei Yosef*;
 *Shabbos* 109a; *Yoma* 75a; *Eruvin* 28a; *Gittin* 70a; *Berachos* 57b;
 Devarim 33:13-14; Shir HaShirim 4:13; Bereishis 24:53; Yechezkel 23:47. The
-article's Sanskrit and Linear B derivations, and its citation of Gesenius on Punic
-*goid*, are omitted here under house rule 9.
+article's Sanskrit and Linear B derivations, its citation of Wilhelm Gesenius on
+Punic *goid*, and its thanks to Dr. Ariel Shaveh and Rabbi Tzvi Mordechai Libber
+are reported above as the article reports them.

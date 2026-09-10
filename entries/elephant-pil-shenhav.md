@@ -7,9 +7,9 @@ english: [elephant, ivory, tusk]
 domain: nature
 sources:
   - wiaw:8913 "Elephants Galore" (2020-11-07) https://articles.ohr.edu/articles/elephants-galore
-authorities: [Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo, Abarbanel, Rabbeinu Yonah Ibn Janach, Rabbeinu Efrayim ben Shimshon, HaKallir, Rabbi Avraham ben Shlomo, Rabbi Yosef Bechor Shor, Rabbi Menashe ben Israel, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Yechiel Michel Stern]
-status: draft
-updated: 2026-09-09
+authorities: [Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo, Abarbanel, Rabbeinu Yonah Ibn Janach, Rabbeinu Efrayim ben Shimshon, HaKallir, Rabbi Avraham ben Shlomo, Rabbi Yosef Bechor Shor, Rabbi Menashe ben Israel, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Yechiel Michel Stern, Chaim Tawil]
+status: reviewed
+updated: 2026-09-10
 ---
 # Elephant: pil / shenhav
 
@@ -21,9 +21,12 @@ biblical word, and most of the commentators render it **ivory**, not the animal
 (Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo). A minority read it as
 the elephant itself (Ibn Janach, HaKallir, Rabbi Avraham ben Shlomo, and the
 commentary printed as Rashi to Divrei HaYamim). Render *shenhabim* at Melachim I
-10:22 as **ivory** and note the minority; even on the minority reading the word
-names the elephant precisely as the source of ivory, so "ivory" loses less than
-"elephant" would.
+10:22 as **ivory** and note the minority; even on the minority reading, as the
+article's own summary has it, the word focuses on the elephant specifically as
+the source of ivory, so "ivory" loses less than "elephant" would. That is the
+difference the article settles on: *shenhav* names the beast for its tusks, while
+post-biblical *pil* names it for other properties, its superlative mass or
+possibly its knack for burying the dead.
 
 ## Distinctions
 
@@ -39,12 +42,23 @@ the Metzudos, Ralbag, and Rabbi Yosef Karo follow. Abarbanel (to Melachim I
 a material rather than an animal. On the other side, the commentary printed
 under Rashi's name to Divrei HaYamim (not his) says *shenhav* means both the
 tusk and the animal, tying the word to the clauses on either side of it.
-Rabbeinu Yonah Ibn Janach (*Sefer HaShorashim*) calls it a compound without
-unpacking it; read as *shen* plus *hav*, it would be the beast that gives teeth,
-and so the animal. HaKallir, in an unpublished *piyut* for Yom Kippur, lists
-*shenhabim* among creatures of exceptional height, and Rabbi Avraham ben Shlomo,
-the fourteenth-century Yemenite commentator to Melachim, says outright that it
-means elephants.
+Rabbeinu Yonah Ibn Janach (*Sefer HaShorashim*) suggests that it is a compound of
+two words stuck together, without explaining himself; it is safe to assume, the
+column says, that he means *shen*, tooth, plus *hav*, gives, so that *shenhav*
+would be the beast that "gives" teeth, and he too seems, on that reading, to mean
+the animal rather than the ivory. HaKallir, in an unpublished *piyut* for Yom
+Kippur, lists *shenhabim* among animals of exceptional height, implying that the
+word means elephant, and Rabbi Avraham ben Shlomo, the fourteenth-century
+Yemenite commentator to Melachim, says outright that it means elephants and not
+ivory.
+
+Rabbi Dr. Ernest Klein and others parse the word differently again. They agree
+that *shen* is "tooth," but hold that *hav* is related to the Ancient Egyptian
+*yev*, elephant, the word behind the name of the island of Elephantine in the
+Nile, also known as Yev or Yebu. Rabbi Dr. Klein adds that English *ivory* itself
+comes ultimately from Egyptian *yev*, by way of the Latin *ebur*. Dr. Chaim Tawil
+points out that *shenhabim* is a semantic cognate of the Akkadian *sinni piri*,
+"elephant tusk."
 
 ### pil (פיל)
 Absent from Tanach. Standard from the Mishnah on: Kilayim 8:6, in sorting which
@@ -53,10 +67,12 @@ Gemara, in Aramaic as *pila*. Chazal use it for the outer bound of the
 impossible, the elephant passing through the eye of a needle, in proving that a
 man dreams only of what he has seen or thought of (Berachos 55b); they debate
 whether an elephant in a dream is a good sign (Berachos 56b-57a); and one recites
-a berachah on seeing one (Berachos 58b). Rabbi Ernest Klein notes that the word
-is shared with Persian *pil* and Arabic *fil*; the chess piece we call a bishop
-was the *alfil*, an elephant, and moved diagonally. Where the word comes from
-within Hebrew is unsettled:
+a berachah on seeing one (Berachos 58b). Rabbi Dr. Ernest Klein notes that the Mishnaic
+word is related to the Persian *pil*, the Arabic *fil*, and the Akkadian
+*piru*/*pilu*; and, parenthetically, that the chess piece we call a bishop was
+the *alfil*, Arabic for "the elephant," shaped like one and likewise moving
+diagonally, though it could move only two squares at a time and could jump over
+whatever stood between. Where the word comes from within Hebrew is unsettled:
 
 - Rabbi Yehoshua Steinberg: Chazal themselves seem to associate *pil* with
   *pele*, wonder (Berachos 56b, 57b), which suits a creature of wondrous size.
@@ -67,14 +83,29 @@ within Hebrew is unsettled:
 - The column's own suggestion: פ-ל is bound up with death, in *nefel*, a
   stillborn (Iyov 3:16; Tehillim 58:9), and in *nefilah* as a euphemism for
   dying (Shemos 19:21; Devarim 21:1; Shoftim 3:25, 4:22). Rabbi Menashe ben
-  Israel writes that an elephant that kills a man stands over the body until it
-  can bury him. This is offered as a suggestion, not as a received reading.
+  Israel writes that an elephant that kills a man stands by the corpse until it
+  can bury its victim; other researchers, the column adds, have noted that
+  elephants bury dead animals of all kinds and otherwise seem to take a special
+  interest in death, citing a 2014 *BBC World News* headline, "Kenya elephant
+  buries its victims." The column offers all this humbly as a suggestion,
+  farfetched as it may sound, not as a received reading.
+
+The column closes with a further curiosity: the *Oxford English Dictionary*
+cites the suggestion that English *elephant* derives ultimately from the Hebrew
+*elef*, ox, which might itself be related to *pil*/*pila* by metathesis; and the
+Jewish surnames Helfand, Gelfand and Elfant all mean "elephant."
 
 ### pildash (פלדש)
-The sixth son of Nachor (Bereishis 22:22). Rabbeinu Efrayim ben Shimshon reads
-the name as *pil* plus *dash*, an elephant that threshes, for a man so tall he
-threshed over everyone shorter than himself. That is the only place *pil* comes
-near the biblical text, and only by way of a name.
+The sixth son of Nachor (Bereishis 22:22), whose etymology the column calls
+somewhat unclear. Some linguists read the name as a portmanteau of *pladot*,
+torches, and *aish*, fire, two words that stand side by side in the pasuk (the
+article cites Nechemiah 2:3; the words are at Nachum 2:4); *pladot* itself occurs
+only once in Tanach and seems to be a metathesized form of the more familiar
+*lapidot*, torches. Another tradition, from Rabbeinu Efrayim ben Shimshon, reads
+the name as *pil* plus *dash*, an elephant that threshes, an allusion to
+Pildash's superlative height, which let him "thresh" over everyone shorter than
+himself. That is the only place *pil* comes near the biblical text, and only by
+way of a name.
 
 ## Rendering guidance
 
@@ -106,6 +137,7 @@ Abarbanel; Mishnah Kilayim 8:6; Berachos 55b, 56b-57a, 57b, 58b; Bereishis
 Rabbah 26:7; Bereishis 6:4 and Bamidbar 14:33 with Rabbi Yosef Bechor Shor;
 Iyov 3:16; Tehillim 58:9; Shemos 19:21; Devarim 21:1; Shoftim 3:25 and 4:22;
 Ibn Janach, *Sefer HaShorashim*. The article cites Nechemiah 2:3 for *pladot*;
-the word is at Nachum 2:4. The Ancient Egyptian and Akkadian derivations of
-*shenhav* and *pil*, and the derivation of English *ivory*, are outside our range
-of sources and are left out here.
+the word is at Nachum 2:4, and the entry gives both. The article's comparative
+material (Rabbi Dr. Ernest Klein on Egyptian *yev* and on Persian, Arabic and
+Akkadian *pil*; Dr. Chaim Tawil on Akkadian *sinni piri*; the *Oxford English
+Dictionary* on English *elephant*) is reported here as the article reports it.

@@ -7,9 +7,9 @@ english: [hyperbole, exaggeration, overstatement, figure of speech]
 domain: speech
 sources:
   - wiaw:9756 "Empty Exaggerations" (2022-07-02) https://articles.ohr.edu/articles/empty-exaggerations
-authorities: [Rashi, Rabbeinu Tam, Rabbi Eliezer of Metz, Rabbeinu Nissim, Tosafos Yeshanim, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Aryeh Leib Feinstein, Rabbi Shmuel Jaffa-Ashkenazi, Rabbi Yissachar Ber Eilenberg, Rabbi Eliyahu HaKohen of Izmir, Rabbi Menachem Azariah of Fano, Rabbi Meir Pozna]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Rabbeinu Tam, Rabbi Eliezer of Metz, Rabbeinu Nissim, Tosafos Yeshanim, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Aryeh Leib Feinstein, Rabbi Shmuel Jaffa-Ashkenazi, Rabbi Yissachar Ber Eilenberg, Rabbi Eliyahu HaKohen of Izmir, Rabbi Menachem Azariah of Fano, Rabbi Meir Pozna, Rabbi Ami, Alexander Kohut]
+status: reviewed
+updated: 2026-09-10
 ---
 # Exaggeration: havai / guzma
 
@@ -25,6 +25,16 @@ Rabbi Menachem Azariah of Fano: *havai* marks something that must be taken
 seriously, though not literally.
 
 ## Distinctions
+
+### The sugya that frames the question
+Moshe reports the spies as having seen "great and fortified cities in the
+heavens" (Devarim 1:28). Tamid 29a and Chullin 90b say the Torah is speaking
+hyperbolically there, since the spies did not literally see Canaanite cities
+reaching the heavens: in Rabbi Ami's words, the Torah speaks in *divrei havai*.
+Rabbi Ami adds that the nevi'im, and even the rabbis, are also wont to speak in
+hyperbolic exaggerations. The same passage uses both *havai* and *guzma* for
+this, apparently interchangeably, so that they seem to be synonyms; their
+etymologies, as the column shows, are another matter.
 
 ### havai (הבאי / הואי)
 The older of the two; it is already in the Mishnah, where *guzma* is not.
@@ -44,13 +54,18 @@ derivation for each:
   and hyperbole is a figurative raising of the voice to be heard; Rabbi Shlomo
   Pappenheim reads ה-ב as calling others to make something ready, though he does
   not treat *havai* itself.
-- Rabbi Eliyahu HaBachur derives *havai* from Aramaic *hovai*, a thorn (Targum
-  to Yeshayahu 7:25, 32:13; Iyov 30:4): a thorn counts for nothing against the
-  plant, and *havai* for nothing against sober speech. Rabbeinu Nissim (to
-  Nedarim 20b) cites this first, on *nidrei havai*.
-- Rabbeinu Tam and Rabbi Eliezer of Metz tie *havai* to *hovlim*, foolish talk
-  (Targum to Yechezkel 20:29), a hyperbole that does not answer to reality being
-  so much foolishness (see also *Tosafos Yeshanim* to Nedarim 20b).
+- Rabbi Eliyahu HaBachur suggests *havai* is derived from the Aramaic *hovai*, a
+  thorn (Targum to Yeshayahu 7:25, 32:13; Iyov 30:4): just as thorns count for
+  nothing against the rest of the plant, so *divrei havai* count for nothing, and
+  as untrue, beside other rhetorical devices. Rabbeinu Nissim (to Nedarim 20b)
+  cites this first, on *nidrei havai*. The column notes that it bears some
+  thematic resemblance to Dr. Alexander Kohut's comparison of *havai* to a
+  similar Persian word meaning breath, air, nothingness, futility.
+- Rabbeinu Tam and Rabbi Eliezer of Metz are quoted as relating *havai* to the
+  Biblical *habaim*, engaging in stupidities (Targum to Yechezkel 20:29),
+  presumably, the column adds, because a hyperbole that does not fully answer to
+  the reality it purports to describe is nothing but so much foolishness (see
+  also *Tosafos Yeshanim* to Nedarim 20b).
 - Rabbi Menachem Azariah of Fano refuses to let the word mean "null": *havai*
   points to something that still wants study. He reads it as an acronym for
   *hinei barchu es Hashem* (Tehillim 134:1).
@@ -62,20 +77,33 @@ does not answer to the fact. At Beitzah 4a the Gemara asks why a *baraisa*
 troubled to permit two obviously permitted things, and answers that the
 *baraisa* is a *guzma*; Rashi there takes *guzma* as a rhetorical device, adding
 to a matter in order to press it home, so that rulings entirely true were framed
-as though they were novel. On where the word comes from:
+as though they were novel. Rabbi Eliyahu HaBachur (*Sefer HaTishbi*), gathering
+these sugyos, declares that *guzma* and *havai* mean exactly the same thing, the
+act of overstating something in a way that is not literally true. On where the
+word comes from:
 
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) and Rabbi Binyamin Mussafia (*Mussaf
-  HaAruch*) hold it is a Greek loanword. The article reports that it could not
-  find the Greek word in question and prefers a Hebrew derivation.
-- Rabbi Yaakov Emden: from the Aramaic sense of ג-ז-ם, to threaten (Targum to
+  HaAruch*) hold it is a Greek loanword. The column reports that after some
+  searching it could not pin down any specific Greek word behind it, and for that
+  reason prefers to assume a Semitic origin.
+- In Biblical Hebrew the root ג-ז-ם appears only five times: three as *gazam*, a
+  type of grasshopper (Yoel 1:4, 2:25; Amos 4:9), and twice as the proper name
+  Gazam, whose family were among the Nesinim who came up with Zerubavel (Ezra
+  2:48, Nechemiah 7:51). In rabbinic Aramaic the root took on the further sense
+  of threatening.
+- Rabbi Yaakov Emden: from that Aramaic sense of ג-ז-ם, to threaten (Targum to
   Tehillim 8:3, Mishlei 15:30, Iyov 30:21; Shevuos 46a). Most threats are empty,
   made to frighten and never meant to be carried out, and a *guzma* likewise
   does not answer to the truth.
 - Rav Hirsch (to Bereishis 11:6, Vayikra 26:4, Devarim 18:10): from *gazam*, the
   locust (Yoel 1:4, 2:25; Amos 4:9), which comes in swarms; a *guzma* is
-  something true whose numbers have been swelled. He further links the root to
-  *yazam*, enterprise, and *kesem*, which both turn on producing *more* than
-  there was, and to *geshem*, a solid mass of many parts.
+  something true whose numbers have been swelled. He further links the root, by
+  the interchangeability of gimmel, yod and kuf, to *yazam*, planning or
+  enterprise, the ability to make something *more* out of something less, and to
+  *kasam*, magic, which circumvents nature's limits to yield *more* than usual,
+  or else because the magician claims access to *more* knowledge than an ordinary
+  man; and, by the interchangeability of zayin and shin, to *geshem*, a solid
+  mass made up of a hyperbolic quantity of parts.
 - Rabbi Shlomo Pappenheim does not treat *guzma*, but his core for ג-ז is
   trimming that leaves part attached and part cut away: *geiz*, the grass left
   after mowing (Tehillim 72:6), *gozez*, shearing (Bereishis 31:19, 38:12),
@@ -84,8 +112,10 @@ as though they were novel. On where the word comes from:
   prune for the plant's own good (Avodah Zarah 50b), and suggests that a *guzma*
   is an exaggeration still rooted in a truth rather than cut loose from it.
 - Rabbi Shmuel Jaffa-Ashkenazi (*Yefeh Mareh*, end of Yerushalmi Shekalim) reads
-  *guzma* as *egoz* plus *meah*, speaking of one nut as though there were a
-  hundred (compare Eruvin 2b on *guzma* and the number one hundred).
+  *guzma* as a portmanteau of *egoz* plus *meah*, speaking of one nut as though
+  there were a hundred; he does not explain, the column notes, why *egozim* in
+  particular were chosen for the illustration (compare Eruvin 2b on *guzma* and
+  the number one hundred).
 
 ### How far the exaggeration goes
 Chazal's examples are all from the Mishnah: the *tamid* drinking from a golden
@@ -94,9 +124,11 @@ Golden Vine that took three hundred Kohanim to move (Middos 3:8), the *paroches*
 that took three hundred Kohanim to immerse (Shekalim 8:5). Rabbi Yissachar Ber
 Eilenberg notes that these are a sample of rabbinic hyperbole in the Mishnah,
 not a complete list. Rabbi Yaakov Emden insists that the Mishnah is not lying:
-three hundred Kohanim really were involved with the Golden Vine, in shifts as
-each set tired, and only the impression that all three hundred lifted at once is
-the *guzma*. Rabbi Eliyahu HaKohen of Izmir reads the spies' cities "in the
+what it says is not to be taken literally exactly as it sounds, but is still true
+when properly understood. Three hundred Kohanim really were involved with the
+Golden Vine, and it took that many, Rabbi Emden assumes, because as some tired
+under the weight others had to take their place; only the impression that all
+three hundred were needed at one time is the *guzma*. Rabbi Eliyahu HaKohen of Izmir reads the spies' cities "in the
 heavens" the same way, since anything very tall looks to the eye as though it
 reaches the sky. Rabbi Meir Pozna of London adds a further point on that pasuk:
 the spies themselves said only that the cities were great and fortified (Bamidbar
@@ -136,5 +168,5 @@ Eruvin 2b, Shevuos 46a, Avodah Zarah 50b, with Rashi where cited; Yoel 1:4, 2:25
 Amos 4:9; Ezra 2:48 and Nechemiah 7:51; Tehillim 8:3, 72:6, 134:1; Mishlei 15:30,
 30:15; Iyov 30:4, 30:21; Yeshayahu 7:25, 32:13; Yechezkel 20:29; Bereishis 11:6,
 31:19, 38:12; Vayikra 26:4; Devarim 18:10; *Sefer HaTishbi*; *Mussaf HaAruch*;
-*Yefeh Mareh* to the end of Yerushalmi Shekalim. The article's comparison of
-*havai* to a Persian word, from Alexander Kohut, is outside our range of sources.
+*Yefeh Mareh* to the end of Yerushalmi Shekalim. Dr. Alexander Kohut's comparison
+of *havai* to a Persian word is reported here as the article reports it.

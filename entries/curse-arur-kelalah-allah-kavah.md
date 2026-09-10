@@ -8,15 +8,16 @@ domain: speech
 sources:
   - wiaw:7049 "Clarifying a Collection of Curses" (2016-12-17) https://articles.ohr.edu/articles/clarifying-a-collection-of-curses
 authorities: [Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Radak]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Curse: arur / kelalah / allah / kavah
 
 ## Bottom line
 
 *Arur* is the strong, unrestricted curse: **cursed, a curse** with nothing
-specified, calling down whatever may come. *Kelalah* is the weaker word, rooted
+specified, calling down whatever may come (the Vilna Gaon and Rabbi Mecklenburg;
+Malbim runs *arur* the other way, see below). *Kelalah* is the weaker word, rooted
 in *kal*, light: **disparagement**, or a **curse** that must name what it wishes
 on its target. *Allah* is the curse that either invokes Hashem by name or is laid
 down conditionally: **oath-curse, imprecation**. *Kavah* is the curse pronounced
@@ -28,8 +29,11 @@ switch is the whole point.
 
 ### arur (ארור)
 The Vilna Gaon: *arur* is the true and intense curse, which is why the Torah uses
-it for cursing a king. A king's power is far-reaching and his office is
-inherited, so a man wronged by him may be tempted to curse him in earnest.
+it for cursing a king. A king's powers are more overreaching than a judge's, so
+he can hurt a man more, the more so as kingship is commonly an inherited
+position and the king's moral standing is generally beside the point; a man
+gravely mistreated by him may be tempted to curse him in earnest and not merely
+to disparage him.
 Rabbi Yaakov Tzvi Mecklenburg: *arur* is broad and all-inclusive, wishing every
 misfortune on an adversary, and it can stand alone (one simply declares that an
 *arur* shall come upon him); it can also fall on something abstract, not only on
@@ -39,10 +43,13 @@ or his property, and he links it to *me'erah*, decrease (Devarim 28:20), the
 shrinking of a man's yield.
 
 ### kelalah (קללה)
-The Vilna Gaon: *kelalah* is colloquially "curse" but literally a belittling,
-from *kal*, light or slight; one who utters a *kelalah* about another writes him
-off as of no account. The Torah uses it for cursing a judge, since a judge does
-less harm than a king and the wronged party will settle for disparaging him.
+The Vilna Gaon: *kelalah* is colloquially "curse" but literally a diminutive,
+something one invokes to belittle another and not truly a curse at all, from
+*kal*, light or easy; one who utters a *kelalah* about another dismisses him as
+unimportant. The Torah uses it for cursing a judge, since the harm a judge can
+do a man is not usually so damaging, the more so as society always strives to
+appoint upright judges, and the wronged party will make do with disparaging him
+rather than actually cursing him.
 Rabbi Mecklenburg: *kelalah* is the specific curse and cannot stand alone; the
 one who curses must say in what way the curse should take effect. On his reading
 it applies only to something that physically exists. This is how he reads

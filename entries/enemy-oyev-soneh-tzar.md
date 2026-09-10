@@ -8,8 +8,8 @@ domain: society
 sources:
   - wiaw:6828 "A Variety of Enemies" (2016-07-02) https://articles.ohr.edu/articles/a-variety-of-enemies
 authorities: [Malbim, Vilna Gaon]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Enemy: oyev / soneh / tzar
 
@@ -29,10 +29,13 @@ An enemy who actively tries to harm the object of his hatred, or has at least
 entertained doing so. Malbim: even where the *oyev* makes no attempt at damage,
 he will not hold back his gladness should misfortune strike his victim, because
 he has already pictured himself causing it. Malbim on the *oyev* of Hashem: one
-who actively denies His existence and sets himself against His Godliness.
+who actively denies His existence and opposes His Godliness. As for a *soneh* of
+Hashem, the column adds that it would seem he does so only in his heart and not
+in practice.
 
-The *meforshim* add that the *oyev*, for all his activity, still masks his
-hatred behind a show of goodwill. He is a covert enemy, not an open one.
+The *meforshim* add that the *oyev*, for all his activity, still tries to hide
+his hatred beneath a façade of empathy. Like the *soneh*, he is a clandestine
+enemy, not an overt one.
 
 ### soneh (שונא)
 From *sinah*, hatred. Better rendered "a hater" than "an enemy": the hatred
@@ -58,9 +61,10 @@ resources to do it. Haman is called *tzorer haYehudim* (Esther 9:10).
 
 - Bamidbar 10:35, *kumah Hashem veyafutzu oyvecha veyanusu mesanecha mipanecha*:
   render as two distinct classes, "let Your enemies be scattered and let those
-  who hate You flee," not "enemies... enemies." Following Malbim, Moshe is
-  asking that both kinds be undone, the one who fights Hashem in deed and the
-  one who only despises Him in his heart.
+  who hate You flee," not "enemies... enemies." On Malbim's reading Moshe is
+  davening that both kinds of Hashem's enemies be vanquished, the one who fights
+  Him in deed and the one who, it would seem, only despises Him in his heart, so
+  that His glory should keep spreading unimpeded.
 - Vayikra 19:17: *soneh* is a verb here, "hate," and the whole force of the
   *lav* is that no act is required. Never soften it to "be hostile to."
 - Trap: English "enemy" absorbs *oyev*, *soneh* and *tzar*. Keep "enemy" for

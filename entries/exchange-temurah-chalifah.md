@@ -8,8 +8,8 @@ domain: action
 sources:
   - wiaw:8714 "Old Switcheroo" (2020-05-23) https://articles.ohr.edu/articles/old-switcheroo
 authorities: [Rabbi Yisrael Yaakov Algazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Malbim, Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Exchange: temurah / chalifah
 
@@ -42,8 +42,10 @@ consecrated (Vayikra 27:10, 27:33).
   consequence: once the transfer is forbidden, any attempt at it counts as "for
   the worse" even when the second animal is objectively better, which is why the
   pasuk stating the outcome says *hamer yamir* and does not return to *chalifah*.
-- Malbim: a *cheftza*/*gavra* split. *Temurah* looks at the person effecting the
-  switch. Hence Tehillim 106:20 on the eigel, *vayamiru es kevodam*: Hashem was
+- Malbim: *temurah* looks at the person who effects the switch and *chalifah* at
+  the objects switched, which the column casts as a classic *cheftza*/*gavra*
+  construct. The same event can be described either way.
+  Hence Tehillim 106:20 on the eigel, *vayamiru es kevodam*: Hashem was
   not in fact replaced, since from His side nothing changed, so the object-word
   *chalifah* would not fit; from the people's side there was an exchange, so a
   *temurah* cognate is used.
@@ -65,7 +67,11 @@ The Torah's second verb in the same prohibition.
 - Rav Hirsch: *chelef*/*chalifah* is at bottom moving a thing out of one place or
   state into another, whether or not anything takes its place. Yeshayahu 2:18
   uses *yachalof* for idols simply vanishing. The slaughtering knife is a
-  *chalaf* because it moves an animal from living to dead. And because the word
+  *chalaf* because it moves an animal from living to dead. (Others maintain, the
+  column adds in a bracket, that *chalaf* in the sense of knife comes from the
+  Arabic *chalaf*, "sharp," which is itself likely derived from the Hebrew
+  *charif*, the r-sound and the l-sound being often interchangeable.) And because
+  the word
   fits what one discards and replaces, it is the verb for changing clothes
   (Bereishis 35:2, 41:14) and then the name of the outer garments themselves
   (Bereishis 41:14, Shmuel II 12:20); in Modern Hebrew a *chalifah* is a suit.
@@ -109,5 +115,5 @@ Iyar 5780 (2020-05-23): raw text in
 `sources/whats-in-a-word/raw/8714-old-switcheroo.md`. Primary loci: Vayikra
 27:10 and 27:33; Bereishis 35:2 and 41:14; Shmuel II 12:20; Yeshayahu 2:18;
 Tehillim 106:20; Pappenheim, *Cheshek Shlomo* s.v. מר and *Yerios Shlomo* on
-ח-ל-פ. The article also reports an Arabic derivation of *chalaf* as "sharp";
-omitted here per house rule 9.
+ח-ל-פ. The anonymous Arabic derivation of *chalaf* as "sharp," which the article
+gives in a bracket, is reported here as the article reports it.

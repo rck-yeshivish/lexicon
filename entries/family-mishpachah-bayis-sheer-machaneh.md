@@ -10,9 +10,9 @@ words:
     nk: שִׁפְחָה
 sources:
   - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
-authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Yehudah Aryeh of Carpentras, HaKtav V'HaKabbalah, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Rambam, Sefer HaAruch, Rabbi Eliyahu HaBachur, Rabbi Gedaliah Lipschutz, Rabbi Eliezer Herstik]
-status: draft
-updated: 2026-09-09
+authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Yehudah Aryeh of Carpentras, HaKtav V'HaKabbalah, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Rambam, Sefer HaAruch, Rabbi Eliyahu HaBachur, Rabbi Gedaliah Lipschutz, Rabbi Eliezer Herstik, Alexander Kohut]
+status: reviewed
+updated: 2026-09-10
 ---
 # Family: mishpachah / bayis / machaneh / she'er
 
@@ -32,8 +32,8 @@ these can be pointed at one family group in a single parashah, and English
 ### mishpachah (משפחה)
 Ibn Saruk, Ibn Janach, and Radak trace it to ש-פ-ח but split the root's sense in
 two, unconnected: "maidservant" (*shifchah*) and "family/clan" (*mishpachah*).
-Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*) instead reads a single core
-sense of "attachment": a family is a set of people attached to one another by
+Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*), tracing the word instead to
+the root sin/samech-peh-ches, reads a single core sense of "attachment": a family is a set of people attached to one another by
 common descent, and a *shifchah* is a woman attached to her mistress's
 household. *HaKtav V'HaKabbalah* (to Bereishis 24:38) and Rav Hirsch (to Vayikra
 25:5) take the same line. Rabbi Aharon Marcus and Rabbi Zev Hoberman sharpen it
@@ -47,10 +47,13 @@ Primarily "house," the building. Radak (*Sefer HaShorashim*) explains that in
 of the household, not the structure; so too Rashi to Bereishis 42:19 and 45:2.
 Ibn Janach narrows it further: *bayis* there is one's wife. That matches Rabbi
 Yose, who said he never called his wife *ishti* but *baisi* (Gittin 52a); Rashi
-explains that he was recognizing her as the mainstay of the house. Rabbi
-Pappenheim traces *bayis* to the monoliteral root ב, "inside," and indeed
-*bayis* itself means "inside" (Bereishis 6:14, Shemos 25:11, 37:2, Melachim I
-7:9), like the prefix ב.
+explains that he was recognizing her as the mainstay of the house. The column
+adds an alternative of its own, offered as a "perhaps": that Rabbi Yose called
+her *baisi* because she modestly kept within the confines of her home, and that
+the word *bayis* may itself evoke that idea, since Rabbi Pappenheim traces
+*bayis* to the monoliteral root ב, "inside," and indeed *bayis* itself means
+"inside" (Bereishis 6:14, Shemos 25:11, 37:2, Melachim I 7:9), like the prefix
+ב.
 
 ### machaneh (מחנה)
 The grammarians are unanimous that the root means "dwelling" or "stopping over":
@@ -60,20 +63,24 @@ to ח). Rabbi Pappenheim's core sense is the opposite of being in transit. Rav
 Hirsch: Yaakov's people are a *machaneh* because they are a group settled in one
 spot on the way to somewhere else. Hence "camp," not "family," and in most
 places in Tanach the word carries a military sense. The same root gives the
-later *tachanah* (station), *chanayah* (parking lot), and *chanus* (shop).
+later *tachanah* (bus stop), *chanayah* (parking lot), and *chanus*
+(shop/store).
 
 ### she'er (שאר)
-Ibn Saruk gives three senses: remnant, food, and flesh. Radak links the last two
-through "meat," a staple food that is also flesh, comparable to *lechem*, which
-means food in general and sometimes meat in particular. "Relative" grows out of
-the "flesh" sense (Vayikra 18:6), kin being flesh traced back to one common
-forebear, as Adam said of Chavah, "bone of my bones and flesh of my flesh"
-(Bereishis 2:23). Where the Torah obligates a husband in *she'er* (Shemos
-21:10), Chazal (Kesubos 47b) divide over whether that is food or conjugal
-intimacy, both legitimate senses of the word. *She'er* as specifically one's
-wife underlies the halachos that a man inherits his deceased wife (Bava Basra
-109b, on Bamidbar 27:11) and that a Kohen becomes tamei for her (Yevamos 22b,
-on Vayikra 21:2). Rabbi Pappenheim reduces the word to the two-letter core ש-ר,
+Ibn Saruk gives three senses: remnant, food, and flesh. Radak takes the last two
+to be related; the column reads him as seemingly finding the commonality in
+"meat," a staple food that is also flesh, comparable to *lechem*, which means
+food in general and sometimes meat in particular. "Relative" grows out of the
+"flesh" sense (Vayikra 18:6), presumably because kin share a common fleshy
+source in one common forebear, as Adam said of Chavah, "bone of my bones and
+flesh of my flesh" (Bereishis 2:23); in English too we call our kin our "flesh
+and blood." Where the Torah obligates a husband in *she'er* (Shemos 21:10),
+Chazal (Kesubos 47b) divide over whether that is food or conjugal intimacy, both
+legitimate senses of the word. *She'er* likewise narrows to one's spouse, which
+the column suggests may be because of the sacred bond of flesh between man and
+wife; that narrower sense underlies the halachos that a man inherits his
+deceased wife's property (Bava Basra 109b, on Bamidbar 27:11) and that a Kohen
+may become tamei for her (Yevamos 22b, on Vayikra 21:2). Rabbi Pappenheim reduces the word to the two-letter core ש-ר,
 a focal point: food is the point on which life hinges, and relatives converge on
 one foundational ancestor.
 
@@ -83,18 +90,38 @@ Retinue, court, entourage. In Chazal it is mostly Hashem's angelic host: the
 16b-17a), where Rashi identifies the upper as the angels appointed over the
 nations and the lower as the assembly of Torah scholars; Rabbi Alexandri's
 statement on Torah *lishmah* making peace between them (Sanhedrin 99b); the
-diminished *pamalia* above since the Churban (Chagigah 13b); Hashem consulting
-His *pamalia* (Sanhedrin 38b); *keshafim* read as *makchishin pamalia shel
-maalah* (Sanhedrin 67b, Chullin 7b). It is also used of a human court: Iyov as a
-member of Pharaoh's *pamilia* (Yerushalmi Sotah 5:6, spelled with an extra yod).
+diminished *pamalia* above since the Churban (Chagigah 13b); Rabbi Yochanan's
+teaching that Hashem does nothing without first consulting His *pamalia*
+(Sanhedrin 38b); and Rabbi Yochanan again on *keshafim* read as an abbreviation
+of *makchishin pamalia shel maalah* (Sanhedrin 67b, Chullin 7b). It is also used
+of a human court: on the tradition that Iyov was originally an advisor to
+Pharaoh (Sotah 11a), the Yerushalmi (Sotah 5:6) calls him a prominent member of
+Pharaoh's *pamilia*, spelling the word with an extra yod between the mem and the
+lamed.
 On its origin: Rabbi Gedaliah Lipschutz (*Regel Yesharah* to Derech Eretz Zuta
 ch. 4) reads it as a Hebrew abbreviation, *po maliyasa*, "here is great esteem";
 Rabbi Eliezer Herstik objects that this does not explain the usage. Rambam
 (*Moreh Nevuchim* 2:6) says it is the Greek for "camp" (rendered *machaneh* in
 the standard Hebrew, *tzava* in the Kapach edition), and *Sefer HaAruch* defines
-it as a company of soldiers. Rabbi Eliyahu HaBachur (*Sefer Tishbi*) points it
-*fimilia* and identifies it with Latin *familia*, which does not conflict with
-Rambam and the Aruch, since a *familia* covers a camp and a body of troops too.
+it as a company of soldiers. Rabbi Eliyahu HaBachur (*Sefer Tishbi*) reads it with an initial feh rather than
+peh and a chirik under the mem rather than a patach, and on that reading
+identifies the word with Latin *familia*. Alexander Kohut bolsters the
+connection by noting that the Yerushalmi spells the word with a yod between the
+mem and the lamed. This does not conflict with Rambam and the Aruch, since
+"camp" and "body of troops" fall within the semantic range of Latin *familia*.
+
+### the English comparison
+The column closes by setting the Hebrew words beside their European
+counterparts. The *Oxford English Dictionary* traces English *family* to Latin
+*famulus*, "servant," which widened to a body of servants making up a
+household, then to any entourage or retinue of troops or people, and by the
+time English took it from French, to any group connected by blood or affinity;
+English *familiar*, "intimate," comes from the same Latin word. The actual Latin
+word for "family" was *domus*, literally "house," the ancestor of *domicile*,
+*domestic*, *domain* and *domination*. The parallels run three ways: *mishpachah*
+and *family* are both bound up with "servant"; *family* from a word for a body of
+troops resembles *machaneh* with its military connotation; and Latin *domus* and
+Hebrew *bayis* both mean "family" while their core sense is "house."
 
 ## Rendering guidance
 
@@ -128,8 +155,6 @@ Berachos 16b-17a; Gittin 52a; Kesubos 47b; Sanhedrin 38b, 67b, 99b; Chagigah
 13b; Bava Basra 109b; Yevamos 22b; Chullin 7b; Sotah 11a; Yerushalmi Sotah 5:6;
 Radak, *Sefer HaShorashim*; Rambam, *Moreh Nevuchim* 2:6; *Sefer HaAruch* s.v.
 פמליא; Rabbi Eliyahu HaBachur, *Sefer Tishbi*; *Regel Yesharah* to Derech Eretz
-Zuta ch. 4. The article's citation of Rav Hirsch on *machaneh* prints "Gen. 1:32
-32:3"; the locus is Bereishis 32:3. The article's survey of the English word
-*family* from the Oxford English Dictionary, and Alexander Kohut's support for
-the *familia* reading, are academic and are omitted here; Rabbi Eliyahu
-HaBachur's own identification is retained.
+Zuta ch. 4; *Oxford English Dictionary* (on English *family*). The article's
+citation of Rav Hirsch on *machaneh* prints "Gen. 1:32 32:3"; the locus is
+Bereishis 32:3.

@@ -8,8 +8,8 @@ domain: speech
 sources:
   - wiaw:9428 "Disgraceful Disparagement" (2021-11-06) https://articles.ohr.edu/articles/disgraceful-disparagement
 authorities: [Rashi, Rambam, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi David Chaim Chelouche, Rabbi Ernest Klein, Maggid of Kozhnitz]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Disgrace: bizayon / kalon / zilzul / gnai
 
@@ -36,7 +36,7 @@ times marks a man writing something off entirely: Eisav after selling the
 birthright (Bereishis 25:34), which Rashi reads as his mocking and repudiating
 the service of Hashem, and Haman, for whom striking at Mordechai alone was
 beneath him (Esther 3:6). Malachi turns the same root on Kohanim who despise
-(*bozeh*) the *avodah* with blemished offerings (Malachi 1:6-8), and Hashem
+(*bozei*) the *avodah* with blemished offerings (Malachi 1:6-8), and Hashem
 turns it back on Eisav through Ovadiah, *bazui atah me'od* (Ovadiah 1:2). Rabbi
 Pappenheim groups *bizah*, plunder, under the same core: property taken without
 paying for it is cheap in the taker's eyes. Rabbi David Chaim Chelouche, late
@@ -61,31 +61,46 @@ that almost nothing of it is left.
 Not in Tanach as such, but the root ז-ל is. Rabbi Pappenheim gives its core as
 the inability of parts to stay joined: *zulas*, "apart from," what is not
 attached to the set; *nozel*, flowing liquid, whose parts will not hold together;
-*zol/zolel*, spending that runs away from a man like water. Since one who sells
-low or spends loosely shows the goods meant little to him, the same root yields
-lowered worth (Eichah 1:8), *zalzal*, the useless shoots pruned off a vine
-(Yeshayahu 18:5), and in the language of Chazal *zol*, cheap. *Zilzul* is
-accordingly disparagement by cheapening, treating a thing as available and
-therefore unimportant. Rabbi Eliyahu HaBachur connects *zilzul* to this root
-explicitly and notes that the Targumim use it to render cognates of *kalon*
-(Iyov 40:4; Mishlei 12:9), which is a caution against pressing the
-*kalon*/*zilzul* line too hard in Aramaic.
+*zal/zolel*, unbridled monetary spending (Yeshayahu 46:6), as though a man
+cannot stay attached to assets that just flow away from him. The column compares
+the English "liquidate," selling things cheaper than they are worth. Since one
+who sells low or spends loosely shows the goods meant little to him, the same
+root yields lowered worth (Eichah 1:8), *zalzal*, the unimportant shoots pruned
+off a vine so they do not harm the more valuable fruit (Yeshayahu 18:5), and in
+the language of Chazal *zol*, cheap, since a product supplied in abundance drops
+in price and in people's regard. *Zilzul* is accordingly disparagement by
+cheapening a thing's value. Rabbi Eliyahu HaBachur connects *zilzul* to this
+root explicitly and notes that it is sometimes used by the Targumim to render
+cognates of *kalon* in Aramaic (Iyov 40:4; Mishlei 12:9), which is a caution
+against pressing the *kalon*/*zilzul* line too hard in Aramaic.
 
 ### gnai / genus (גנאי, גנות)
 Also absent from Tanach; it lives in the Targumim and in Mishnaic Hebrew. Rambam
 (Commentary to the Mishnah, Shabbos 6:4 and Yoma 3:11) defines it as the
-opposite of praise, and the Mishnayos he is commenting on show the range:
-weapons as a man's disgrace rather than his ornament (Shabbos 6:4), the
-discredit of Beis Garmu and Beis Avtinas for withholding their crafts from the
-*avodah* (Yoma 3:11), and the rule that the Haggadah opens with *genus* and
-closes with praise (Pesachim 10:4). The adjective is *megunah*. Rabbi Eliyahu
+opposite of praise, and the Mishnayos he is commenting on show the range. In
+*Shabbos* 6:4 it is the point of a machlokes: Rabbi Eliezer holds that carrying
+a weapon is an adornment for a man, while the Sages hold that it is a *gnai*.
+*Yoma* 3:11 applies the term to the House of Garmu, who refused to teach how to
+bake the *lechem hapanim*, the House of Avtinas, who refused to teach how to
+prepare the *ketores*, and others who likewise withheld the skills that would
+have enhanced the *avodah*. *Pesachim* 10:4 teaches that in the Haggadah one
+begins with *genus* and concludes with praise, that is, begins the telling from
+the point at which the nation was in utter disgrace, its pre-Avrahamic pagan
+origins or its slavery in Mitzrayim. The adjective is *megunah*. Rabbi Eliyahu
 HaBachur, in *Meturgaman*, files *gnai* under a four-letter root ג-נ-א-י of its
-own. Rabbi Ernest Klein traces it instead to an Aramaic root meaning to be in
-shade, which sits close to the English "cast a shadow over." Rabbi Pappenheim's
-biliteral ג-נ is protection, yielding *gan*, a guarded plot, *magen*, and
-*niggun*. On that pairing of *gnai* with *gan* the Maggid of Kozhnitz built a
-homiletical reading: a garden thrives on what is offensive, and so does a man
-who reckons honestly with his own low places.
+own. Rabbi Dr. Ernest Klein traces it instead to an Aramaic root ג-נ-י meaning
+to be within shade; the column adds that perhaps this might be related to the
+English "to cast a shadow" over something, and Klein further connects
+*gnai*/*genus* to the Arabic *janyya*, "crime." That Aramaic root evidently
+goes back to Rabbi Pappenheim's biliteral ג-נ, protection, which yields *gan*, a
+guarded and protected plot, *niggun*, a melody whose variety of sounds mimics
+the variety of flora in a garden, and *magen*, a shield. On the pairing of
+*gnai* with *gan* the Maggid of Kozhnitz (Rabbi Yisroel Hopstein) built an
+insight the column marks as Hassidic rather than etymological: a garden needs
+large amounts of manure to thrive, and the more of such "disgraceful" matter
+one adds, the better it grows; so too a man, the more he humbles himself before
+Hashem and understands his own disgracefulness, the more he can grow and reap
+the fruits of his efforts.
 
 ## Rendering guidance
 
@@ -100,8 +115,8 @@ who reckons honestly with his own low places.
   *bizayon* being worse than *kalon*, spend the words: "held light" for *kalon*,
   "held worthless" for *bizayon*.
 - Second trap: *zilzul* and *kalon* look like one word in Aramaic, since the
-  Targum renders *kalon* with *zilzul*. Do not cite a Targum as proof that the
-  two Hebrew words are identical.
+  Targum sometimes renders cognates of *kalon* with *zilzul*. Do not cite a
+  Targum as proof that the two Hebrew words are identical.
 - *Kelalah* under this root: a curse is a species of *kalon*, so where a source
   reads the two together, "make light of" preserves the link that "curse" hides.
 
@@ -117,8 +132,10 @@ Somayach, 2 Kislev 5782 (2021-11-06):
 Bereishis 25:34 (with Rashi), 16:4, 8:11; Esther 3:6; Malachi 1:6-8 (the article
 gives 1:1-8); Ovadiah 1:2; Shmuel II 2:18; Yeshayahu 19:1, 18:5; Shemos 18:22;
 Melachim I 12:4; Devarim 25:3, 27:16; Eichah 1:8; Iyov 40:4; Mishlei 12:9;
-Mishnah Shabbos 6:4, Yoma 3:11, Pesachim 10:4, with Rambam's commentary to the
-first two; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Eliyahu HaBachur,
-*Meturgaman*. The article's citation of Yeshayahu 46:4 for *zal/zolel* does not
-yield that word and should be checked before it is relied on. Rabbi Ernest
-Klein's further comparison to an Arabic cognate is left out here.
+Yeshayahu 46:6; Mishnah Shabbos 6:4, Yoma 3:11, Pesachim 10:4, with Rambam's
+commentary to the first two; Rabbi Eliyahu HaBachur, *Meturgaman*. Two locus
+notes: the article cites Malachi 1:1-8, where the word *bozei* stands at 1:6 and
+the Yaakov/Eisav frame at 1:2-3; and the article cites "Isa. 46:4" for
+*zal/zolel*, but the word *hazalim* stands at Yeshayahu 46:6, which is the locus
+given here. Rabbi Dr. Ernest Klein's Arabic comparison (*janyya*, "crime") is
+included above, as the column gives it.

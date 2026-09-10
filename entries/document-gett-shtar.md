@@ -10,9 +10,9 @@ words:
     nk: שְׁטָר
 sources:
   - wiaw:8704 "Divorce Bills and Other Documents" (2020-05-16) https://articles.ohr.edu/articles/divorce-bills-and-other-documents
-authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Aryeh Leib Tzintz, Rabbi David Tzvi Fetene, Rabbi Eliezer Herstik, Chaim Tawil]
+status: reviewed
+updated: 2026-09-10
 ---
 # Document: gett / shtar (and the biblical sefer kerisus)
 
@@ -23,19 +23,23 @@ Neither *gett* nor *shtar* is biblical. In the language of Chazal both mean
 *Gett* is the broader of the two for Rabbi Yisrael Yaakov Algazi: every *shtar*
 may be called a *gett*, not every *gett* a *shtar*. Unmodified, *gett* means
 **a bill of divorce** (Rashi; Rambam), and that is how to render it standing
-alone. In Tanach the bill of divorce is *sefer kerisus*, **a scroll of
-severance** (Devarim 24:1-3; Yeshayahu 50:1), and a deed of sale is *sefer
+alone. In Tanach the bill of divorce is *sefer kerisus*, literally **a scroll of
+cutting** (Devarim 24:1-3; Yeshayahu 50:1), and a deed of sale is *sefer
 hamiknah* (Yirmiyahu 32). Do not read a biblical *sefer* as a *shtar*.
 
 ## Distinctions
 
 ### gett (גט)
-Technically any document. *Gett ishah* is a writ of divorce, *gett shichrur* a
-writ of emancipation, *gett chov* a bond of debt (Gittin 10a; Bava Kamma 95a;
-Bava Basra 160a). Rashi (Gittin 65b) and Rambam (Commentary to the Mishnah,
-Gittin 2:5) record that in ordinary usage a *gett* with no modifier is a bill of
-divorce. Why this word, and why for divorce, is the subject of a long
-disagreement.
+Technically any document. *Gett ishah*, a "woman's *gett*," is a writ of
+divorce; *gett shichrur*, a "*gett* of freedom," a slave's writ of emancipation;
+*gett chov*, an "obligatory *gett*," which the column glosses as an IOU (Gittin
+10a; Bava Kamma 95a; Bava Basra 160a). Rashi (Gittin 65b) and Rambam
+(Commentary to the Mishnah, Gittin 2:5) record that the default *gett* in
+colloquial terms is a bill of divorce. Rabbi Yisrael Yaakov Algazi adds, as an
+aside, that every *shtar* can also be called a *gett* but not every *gett* a
+*shtar*, and rules from that principle that communal enactments explicitly said
+to govern a *shtar* do not apply to a *gett*. Why this word, and why for
+divorce, is the subject of a long disagreement.
 
 - **Twelve lines.** Tosafos (Gittin 2a) cite Rabbeinu Tam that a *gett* carries
   twelve lines because the *gematria* of גט is twelve. The Maharsha, Maharam
@@ -69,25 +73,50 @@ disagreement.
   (Hilchos Gittin), *Kolbo* 76, the glosses to Rabbi Yaakov Margolis's *Seder
   HaGett*, and the *Levush* (Even HaEzer 125:11) all take *gett* as an
   expression of breaking or cutting, matching the biblical *sefer kerisus*, and
-  cite a lost Yerushalmi that uses it so. Rabbi Shlomo Aharon Wertheimer reads
-  it as erasure (compare Rashi to Berachos 56a).
+  cite a lost Yerushalmi that uses it so. Rabbi Shlomo Aharon Wertheimer
+  similarly suggests it is an expression of erasure (compare Rashi to Berachos
+  56a).
+- **Akkadian.** Despite all of these explanations, the column reports that the
+  scholarly consensus is that the Mishnaic Hebrew *gett* is a loanword from the
+  Akkadian *gittu*, "a (single-column) document."
+
+On the word *ghetto*, the section of Rome to which the Jews were confined, the
+late Rabbi Eliezer Herstik wrote that some explain it derives from *gett*, in
+the sense of "chased away." The column sets three other theories beside it:
+that *ghetto* comes from the Italian *borghetto*, "small part of a city," from
+the Germanic *burg*, "fortress, city, town," the equivalent of English
+"borough" and the Old English suffix *-bury*; that it comes from the Venetian
+*getto*, "metal foundry," there having been such a factory near the Jewish
+ghetto in Venice; and that it comes from the Latin *Aegyptus*, Egypt, where the
+Jews were first ghettoized in exile and slavery in biblical times.
 
 ### shtar (שטר)
-Root ש-ט-ר. Common from the Mishnah onward and always specified by its type:
+Root ש-ט-ר. Absent from Tanach but quite common in later rabbinic literature,
+including the Bar Kochba Letters and the Mishnah, and usually specified by its
+type:
 *shtar chov*, *shtar erusin* (Kesuvos 102b; Kiddushin 9b), *shtar nisuin* and
 *shtar arisus* (Bava Basra 167b), *shtar amanah* (Kesuvos 19a; Gittin 19b; Bava
 Basra 49a, 154b), *shtar berurin* (Moed Katan 18b), *shtar mivrachas* (Kesuvos
 79a). Whether it is the same root as *shoter*, the officer, is disputed. Rabbi
 Eliyahu HaBachur (*Meturgaman*) gives ש-ט-ר two separate entries, the enforcing
-officer and the document, and treats the two senses as unrelated. Rav Hirsch (to
-Shemos 5:6) joins them: a *shtar* is the creditor's instrument for pressing and
-enforcing his claim.
+officer and the document, and treats the two senses as separate. Rav Hirsch (to
+Shemos 5:6) joins them: a *shtar* is the creditor's best means of presenting his
+grievances and enforcing his dues, so both words off ש-ט-ר are related. Dr.
+Chaim Tawil defines the biblical *shoter* as a "record-keeper" or "organizing
+officer" and connects the root to the Akkadian verb *sataru*, "to write"; on his
+account both *shoter* and *sofer* mean a scribe in Akkadian, the former
+specifically a civil servant who is an official scribe, the latter any scribe at
+all. The column adds that the Old English *starr* is a corruption of *shtar* and
+referred to documents or contracts held by Jews, falling out of use after the
+expulsion from England in 1290 until later scholars such as the English
+parliamentarian John Selden revived it.
 
 ### The biblical words
-Tanach has neither term. A bill of divorce is *sefer kerisus*, a scroll of
-severance (Devarim 24:1-3; Yeshayahu 50:1). A deed of purchase is *sefer
-hamiknah*, five times in Yirmiyahu 32, which is the standard biblical term for
-a document of sale.
+Tanach has neither term. A bill of divorce is *sefer kerisus*, literally a
+"Scroll of Cutting" (Devarim 24:1-3; Yeshayahu 50:1). A deed of purchase is
+*sefer hamiknah*, a "Scroll of Acquisition," five times in Yirmiyahu 32, which
+the column calls the standard, or the only, biblical word for a document of
+sale.
 
 ## Rendering guidance
 
@@ -103,9 +132,11 @@ a document of sale.
   will also cover *sefer*. If a source turns on Rabbi Algazi's rule that a
   communal enactment about *shtaros* does not reach a *gett*, the two must stay
   visibly distinct in English.
-- Second trap: *shoter* is "officer," not "scribe," and not "document-keeper."
-  Only use a writing-related rendering where the source is Rav Hirsch's reading
-  and you say so.
+- Second trap: *shoter* is ordinarily "officer," not "scribe." A
+  writing-related rendering ("record-keeper," "organizing officer") belongs to
+  Dr. Chaim Tawil's Akkadian derivation, and Rabbi Eliyahu HaBachur keeps the
+  officer and the document apart altogether. Use either only where the source
+  is one of those readings, and say which.
 
 ## Notes for a project
 
@@ -121,7 +152,8 @@ Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b;
 Kesuvos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah
 Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgaman*; *Divrei
 Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo*
-76. The article's Akkadian derivations of *gett* and of *shoter* are left out
-here, as are the competing Italian and Latin etymologies of *ghetto*; the only
-one within our range is the suggestion Rabbi Eliezer Herstik reports, that
-*ghetto* reflects *gett* in the sense of being driven out.
+76. The column's comparative material is reported here as the column gives it:
+the scholarly consensus deriving *gett* from Akkadian *gittu*; Dr. Chaim
+Tawil's derivation of *shoter* from Akkadian *sataru* and his *shoter*/*sofer*
+distinction; the four theories on the origin of *ghetto*; and the Old English
+*starr*.
