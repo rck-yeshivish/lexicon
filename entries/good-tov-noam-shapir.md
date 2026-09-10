@@ -88,8 +88,9 @@ when it does not resonate and is hard to accept.
 Naftali's *imrei shefer* (Bereishis 49:21) is read by *Midrash Shocher Tov*
 (Tehillim 81:4) as spreading Torah, which the column compares to the English
 *gospel*, from Old English *god spell*, "good message"; by Sotah 13a through
-*sefer*, "book", on the interchange of shin or sin with samech; and by *Midrash
-Aggadah* as a blessing that Naftali's Torah students be especially clever. The
+*sefer*, "book", on the interchange of shin or sin with samech, to which
+*Midrash Aggadah* adds that the blessing is for Naftali's Torah students to be
+especially clever. The
 Targumim and Midrashim together give good tidings, thanksgiving and berachos to
 Hashem, agricultural fecundity, song, verbal cleverness, and even the shofar,
 from which the column reads Naftali as the quick and persuasive communicator.

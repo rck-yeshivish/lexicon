@@ -12,9 +12,9 @@ words:
     nk: כֵּן
 sources:
   - wiaw:11462 "Pinchas: Performance Platforms" (2024-07-27) https://articles.ohr.edu/articles/pinchas-performance-platforms
-authorities: [Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Yaakov Emden, Rabbi Tzvi Hirsch Ferber, Rabbi Baruch HaLevi Epstein, Rabbi Menachem Kasher, Rashi, Rambam, Rabbi Ernest Klein]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Yaakov Emden, Rabbi Tzvi Hirsch Ferber, Rabbi Baruch HaLevi Epstein, Rabbi Menachem Kasher, Rashi, Rambam, Rabbi Ernest Klein, Even Shoshan, Professor Edward Yechezkel Kutscher, Max Weinreich, Julius Pokorny]
+status: reviewed
+updated: 2026-09-10
 ---
 # Platform: kan / duchan / bimah / basis / itztaba
 
@@ -36,8 +36,9 @@ word for the base of the *kiyor* in the Mishkan (Shemos 30:18, 30:28, 31:9,
 35:16, 38:8, 39:39, 40:11; Vayikra 8:11, which the article prints as 8:111),
 and it serves abstractly for a man's position: Yosef told the butler he would
 be restored *al kanecha*, to your post (Bereishis 40:13, fulfilled at 41:13).
-In the Mishnah it is the golden *kan* on which the Kohen Gadol set the vessel
-of blood on Yom Kippur (Yoma 5:3-4). Rabbi Shlomo Pappenheim (*Cheshek
+In this sense the word appears seventeen times in Tanach, on Even Shoshan's
+concordance. In the Mishnah it is the golden *kan* on which the Kohen Gadol set
+the vessel of blood on Yom Kippur (Yoma 5:3-4). Rabbi Shlomo Pappenheim (*Cheshek
 Shlomo*) traces it to the two-letter root כ-נ, base or basis, physical or
 abstract, and gathers under it *kein* (yes) and *nachon* (correct), which
 affirm that a thing has a valid footing, and *tochnis* (plan) and *hachanah*

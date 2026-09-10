@@ -43,14 +43,18 @@ words:
 sources:
   - wiaw:8149 "Solomon's Seven Names" (2019-02-23) https://articles.ohr.edu/articles/solomons-seven-names
 authorities: [Rabbi Yehoshua ben Levi, Targum Sheini, Rashi, Ibn Ezra, Ralbag, Rabbi Yishaya of Trani (the Rid), Tosafos, Tosafos Shantz, Midrash Agur]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Names of Shlomo HaMelech: Shlomo / Koheles / Agur / Lemuel (Yedidyah, Yakeh, Isiel)
 
 ## Bottom line
 
-Rabbi Yehoshua ben Levi counts seven names for Shlomo HaMelech: **Shlomo**,
+Two of the twenty-four books open by ascribing themselves to Shlomo, *Shir
+HaShirim* and *Mishlei*, and a third, *Koheles*, ascribes itself to Koheles son of
+David, king of Yerushalayim, whom tradition identifies as Shlomo; that gives
+three names, and Rabbi Yehoshua ben Levi, the early Amora, adds four more, for
+seven in all: **Shlomo**,
 **Yedidyah**, **Koheles**, and the four proper names in the last two chapters of
 Mishlei, **Agur**, **Yakeh**, **Isiel** and **Lemuel**. Three of them turn on
 completeness and peace (Shlomo, from *shalem* or *shalom*), three on gathering
@@ -65,7 +69,7 @@ so; the Midrashic identification is a second layer, not a replacement.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | שלמה | Shlomo | Shlomo | *shalem*, he completed the Mikdash; or *shalom* (Targum Sheini) |
-| ידידיה | Yedidyah | beloved of Hashem | given by Nosson HaNavi (Shmuel II 12:24-25); Menachos 53 |
+| ידידיה | Yedidyah | friend of Hashem | given by Nosson HaNavi (Shmuel II 12:24-25); Menachos 53 |
 | קהלת | Koheles | Koheles | gathered people (Melachim I 8:1), or gathered wisdom (Rashi) |
 | אגור | Agur | Agur | *agar*, amassed wisdom; Mishlei 30:1 |
 | יקה | Yakeh | Yakeh | *heikiah*, spat out: lost wisdom, or rejected falsehood (Ralbag) |
@@ -102,8 +106,9 @@ verb in opposite directions and the choice is a matter of derashah.
 
 1. **The Midrash**: *nam la'El*, he spoke to Hashem, saying he could take more
    horses, silver and wives than a king may (Devarim 17:16-17) and still not
-   sin. The NUN of *nam* becomes a LAMED, the two being dentals along with
-   DALET, TES and TAV.
+   sin. As the commentaries explain, the NUN of *nam* becomes a LAMED,
+   the two letters being interchangeable, both counted among the dentals along
+   with DALET, TES and TAV.
 2. **A second version of that Midrash**, sharper still: *lamah li El*, "what do
    I need Hashem for", a king throwing off the yoke of Heaven.
 3. **Ibn Ezra** (to Mishlei 31:1): *lemo El*, "to them, El", because in his days
@@ -127,10 +132,11 @@ Midrash lists. The Bottom line follows Tosafos and keeps the count at seven.
 ### Shlomo (שלמה) and Yedidyah (ידידיה)
 The two names given him by people: Shlomo by his parents, David and Batsheva,
 and Yedidyah by Nosson HaNavi (Shmuel II 12:24-25). Shlomo was already fixed by
-prophecy before he was born (Divrei HaYamim I 22:9). *Yedidyah* means beloved of
-Hashem, and he was. The Gemara (Menachos 53) reads a cryptic saying through it:
-"let the beloved, son of the beloved, come and build the beloved for the beloved,
-in the portion of the beloved, so that the beloved may be atoned." Six *yedidim*,
+prophecy before he was born (Divrei HaYamim I 22:9). *Yedidyah* literally means
+friend of Hashem, and he was one. The Gemara (Menachos 53) reads a cryptic saying
+through it: "may the friend, son of the friend, come and build the friend for the
+friend, in the portion of the friend, so the friends will be atoned." Six
+*yedidim*,
 each from its own pasuk: Shlomo (Shmuel II 12:25), descendant of Avraham
 (Yirmiyahu 11:15), building the Beis HaMikdash (Tehillim 84:2) for Hashem
 (Yeshayahu 5:1), in the portion of Binyamin (Devarim 33:12), so that Israel
@@ -160,8 +166,9 @@ of him. *Lemuel* records the same reasoning as speech addressed to Hashem, and
   fine when the point is that the names converge, and wrong when a derashah turns
   on which word a given name is built from. Where both names appear, keep
   *Koheles* to assembling people and *Agur* to amassing wisdom.
-- *Yedidyah* is best left transliterated with a gloss at first mention, "beloved
-  of Hashem"; the Anglicised "Jedidiah" reads foreign in a sefer.
+- *Yedidyah* is best left transliterated with a gloss at first mention, "friend
+  of Hashem", which is how the column renders it; the Anglicised "Jedidiah" reads
+  foreign in a sefer.
 - Where a passage plays *heikiah* against *Yakeh*, English needs the same verb
   twice: "spat out" for both, or the wordplay disappears.
 - For the other Midrashic name-clusters see `names-moshe-yered-avigdor-yekusiel.md`
@@ -181,4 +188,6 @@ Mishlei 30:1, 30:15, 31:1, 31:4; Devarim 17:16-17, 33:12; Yirmiyahu 11:15, 12:7;
 Yeshayahu 5:1; Tehillim 84:2; Menachos 53; Sanhedrin 70b with Rashi; Tosafos to
 Eruvin 19a; Tosafos and Tosafos Shantz to Avodah Zarah 17a; Ralbag and Ibn Ezra
 to Mishlei 30:1 and 31:1; *Targum Sheini*; *Midrash Agur* §4. The seven-name
-tradition is given in the name of the early Amora Rabbi Yehoshua ben Levi.
+tradition is given in the name of the early Amora Rabbi Yehoshua ben Levi. The
+column glosses *Yedidyah* as "friend of G-d," and this entry follows that gloss;
+the `words:` block still carries "beloved of Hashem" and has not been touched.

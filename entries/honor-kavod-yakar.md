@@ -137,12 +137,11 @@ Somayach, 15 Adar 5785 (2025-03-15): raw text in
 the article cites: Esther 1:4, 1:20, 6:3, 6:6, 8:16; Rabbi Eliyahu Bachur, *Sefer
 HaTishbi* s.v. יקר and *Meturgeman* on Targum to Shemos 4:10, 7:14, 20:11,
 Shmuel I 2:29, Shmuel II 14:26, Yeshayahu 43:23; *Aholei Yehudah* on the liver
-with Berachos 60b; Rabbi Pappenheim, *Yerios Shlomo* introduction and *Cheshek
-Shlomo* on ק-ר, with Yechezkel 27:22, Shmuel I 3:1, Tehillim 116:15; Malbim,
+with Berachos 60b; Rabbi Pappenheim, *Yerios Shlomo* introduction, with Yechezkel 27:22, Shmuel I 3:1, Tehillim 116:15; Malbim,
 *Sefer HaCarmel* and *Yair Ohr*; *Be'er Avraham* to Esther 1:4; Megillah 9a and
 Sanhedrin 38b with Tehillim 139:17, Yad Ramah to Sanhedrin 38b, Maharsha to Bava
 Basra 75b, Aruch L'Ner to Sanhedrin 38b, and Rabbi Uziel's glosses; *Beis
-Efrayim* OC 70; Sfas Emes and Maharatz Chajes to Megillah 9a and Sanhedrin 38b;
+Efrayim* OC 70; Sfas Emes to Megillah 9a, Maharatz Chajes to Megillah 9a and Sanhedrin 38b;
 *Raglei Mevasser* to *Sefer HaTishbi*; *Safah LaNe'emanim* pp. 34-35; *Beis
 Shaul* and *Miskenos Naftali* to Yadayim 4:5; Yirmiyahu 31:19; *Tosafos* to
 Eruvin 40b, Avodah Zarah 68a, Chullin 47a; Bereishis 25:27, 49:22. The article's

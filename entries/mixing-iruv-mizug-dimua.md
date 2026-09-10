@@ -7,9 +7,9 @@ english: [mixing, intermingling, blending, diluting, admixture, tear, confusion,
 domain: action
 sources:
   - wiaw:11480 "Devarim: All Mixed Up" (2024-08-10) https://articles.ohr.edu/articles/devarim-all-mixed-up
-authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Shapira, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro]
-status: draft
-updated: 2026-09-09
+authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Shapira, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro, Ritva, Rashba, Maharsha, Yaavetz]
+status: reviewed
+updated: 2026-09-10
 ---
 # Mixing: iruv / mizug / dimua (and dimah, navoch)
 
@@ -20,9 +20,11 @@ updated: 2026-09-09
 of one into another: **mixing, diluting** (a cup of wine). *Dimua* is the
 halachic term for **terumah** that has fallen into unsanctified produce:
 **commingling** (leave it transliterated in a halachic passage). The one thing
-not to miss: *dimua* and *dimah* ("tear") are the same root ד-מ-ע, and most
-rishonim hold the two senses connected, so a source that plays tears against
-mixture is not punning loosely.
+not to miss: *dimua* and *dimah* ("tear") are the same root ד-מ-ע, and how the
+two senses relate is, in the column's words, the subject of much discussion;
+most of the commentators it brings hold them connected, Ibn Janach being the
+one who does not, so a source that plays tears against mixture is not punning
+loosely.
 
 ## Distinctions
 
@@ -42,13 +44,18 @@ word for mixing a cup, which then meant diluting strong wine with water: *mazgu
 lo* for each of the Four Cups (Pesachim 10:2, 10:4, 10:7), also Nazir 2:3 and
 Demai 7:2, with *mezigah* (Shabbos 8:1), *mozeg* (Avodah Zarah 5:5), *mozgin*
 (Berachos 8:2), *mazug* (Negaim 1:2, Niddah 2:6-7) and *limzog* (Pesachim 7:13,
-Sukkah 2:9). Menachem Ibn Saruk argued that the root is really the two-letter
-ז-ג, the *mem* being formative; *zag* is the seed or skin of a grape
-(Nazir 6:2). Rabbi Shlomo Pappenheim: *mizug* is the mixing that pours a drink
-from one vessel into another, and the vessel stands in for the fruit's own skin,
-so the *mizug* takes the place of the *zag*. Rabbi Yehudah Aryeh of Carpentras
-(*Aholei Yehudah*) similarly: it preserves the wine's taste as the *zag* did.
-Analak: *mizug* is for **liquid** ingredients.
+Sukkah 2:9); two original modern uses are *mezeg avir* (weather, literally the
+mixing of air) and *mazgan* (air conditioner). As early as Menachem Ibn Saruk,
+a thousand years ago, it has been suggested that the root is really the
+two-letter ז-ג, the *mem* not belonging to it; *zag* is the seed or skin of a
+grape (Nazir 6:2), though how that connects to *mizug* is not so clear. Rabbi
+Shlomo Pappenheim accounts for the connection: *mizug* is the mixing that pours
+a drink from one vessel into another, and when a juice such as wine is stored
+in a receptacle that vessel stands in for the natural skin of the fruit the
+juice was drawn from, so the *mizug* takes the place of the *zag*. Rabbi
+Yehudah Aryeh of Carpentras (*Aholei Yehudah*) makes a similar point: *mizug*
+preserves the wine's taste as the *zag* naturally does. Analak: *mizug* is for
+**liquid** ingredients, wine mixed with water.
 
 ### dimua (דימוע)
 Root ד-מ-ע. The Mishnaic term for terumah mixed into chullin (Terumos 1:4, 3:1,
@@ -77,28 +84,62 @@ Menachem Ibn Saruk (*Machberes Menachem*): as tears are pristine liquid from the
 eye, so *dimah* is pristine liquid produce, wine or oil without sediment. Ibn
 Ezra and Radak (*Sefer HaShorashim*): pressed wine and oil emerge drop by drop,
 like tears.
-Ramban: either the agricultural sense is borrowed from the tear, or neither is
-borrowed and *dimah* means tear-like droplets of any kind. Maharal (*Gur
-Aryeh*): terumah is *dimah* because it applies once the wine or oil has
-separated from the fruit, as a tear separates from the eye. Rabbi Yaakov Tzvi
-Mecklenburg (*HaKesav VeHaKabbalah*) runs it the other way: mixture is the core
-sense, and tears show outwardly how mixed up a man's feelings are. Rav Hirsch,
-on his letter interchanges, groups ד-מ-ע with ט-מ-ע, ט-מ-א, ט-מ-ה and ד-מ-ה
-around loss of distinct identity through absorption into something else.
+Ramban also suggests that perhaps the agricultural sense is borrowed from the
+tear, or that neither is borrowed and *dimah* means tear-like droplets of any
+kind. Maharal (*Gur Aryeh*): terumah is *dimah* because it applies once the
+wine or oil has separated from the fruit, as a tear separates from the eye.
+Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) runs it the other way:
+mixture is the core sense, as it more commonly is in Mishnaic Hebrew, and tears
+show outwardly how mixed up a man's feelings are.
+
+Rav Hirsch (to Shemos 22:28) takes a different tack: the obligation of terumah
+begins only once produce has been fully worked by man, unlike bikkurim, which
+begins once the fruit ripens on its own, so *dimah* as tithable produce points
+to the manmade character of wine and oil, which have to be pressed out of the
+grape and the olive rather than occurring naturally. He notes that wine is
+called poetically the blood (*dam*) of grapes (Bereishis 49:11; Devarim 32:14),
+pressing being a sort of violence done to the fruit. The column reports itself
+unsure whether Rav Hirsch meant this as an etymology at all, and, if he did,
+whether he held *dimah*, with an ayin, to be etymologically related to *dam*,
+without one. Elsewhere (Vayikra 7:19, 11:43; Bamidbar 18:29) Rav Hirsch
+compares ד-מ-ע with the phonetically near roots ט-מ-ע (mixing, assimilating),
+ט-מ-א (impure), ט-מ-ה (lost, assimilated, destroyed) and ד-מ-ה (resemble,
+be quiet), on the interchange of dalet with tes and of ayin, aleph and hei, and
+suggests that they share a fundamental sense of loss of identity through
+absorption into something else, sometimes to the point of total obliteration
+(*tamyon*): a thing that "resembles" another, or that is silenced, is likewise
+losing something of what is its own.
 
 ### navoch (נבוך) and bocheh (בוכה)
-The Mechilta to Shemos 14:3 reads Pharaoh's *nevuchim ba'aretz* both as confused
-about their route and as pointing to the crying to come (Bamidbar 14:1). Rabbi
-Yisroel Yaakov Algazi (*Kehillas Yaakov*) reads *nevochah* of Shushan (Esther
-3:15) the same way. Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) traces both
-*bocheh* and *navoch* to the biliteral ב-כ, whose core sense is confusion, with
-weeping its involuntary outward reflex. Rabbi Eliyahu Menachem Margulies
-(*Emunas Eliezer*): as tears blur the eye, a man cries because his view of the
-future is blurred, and that is just the tie of *dimah* to *dimua*, the mixture
-of possibilities before him (Tehillim 126:5). Rabbi Moshe Shapiro: the
-antidote is *nechamah*, which per Rashi (Bereishis 5:29, 6:6, 27:42; Shemos
-32:12) is not only comfort but a shift in thinking, the clear view that removes
-the need to cry; hence *nachamu nachamu ami* (Yeshayahu 40:1).
+Pharaoh, chasing after the Jews, took heart from their seeming lost: *nevuchim
+hem ba'aretz* (Shemos 14:3). The Mechilta there explicates *nevuchim* as an
+expression of mixture, Pharaoh thinking they were confused and mixed up about
+where they were headed; alternatively it reads *nevuchim* as related to
+*bocheh*, weeping, Pharaoh foreseeing that they were destined to cry in the
+wilderness (Bamidbar 14:1). The column holds there is reason to think the two
+explanations are actually related. Rabbi Yisroel Yaakov Algazi (*Kehillas
+Yaakov*) explains *navochah* of Shushan (Esther 3:15) the same way: on the
+simple level the Jews were confused as to what the future held, and Algazi adds
+that *navochah* also bears on *bocheh*, one of the last avenues left them being
+to cry out to Hashem to save them. Rabbi Shlomo Pappenheim of Breslau (*Cheshek
+Shlomo*) likewise traces both *bocheh* and *navoch* to the biliteral ב-כ, whose
+core sense he sees as confusion and perplexity, weeping being the involuntary
+outward reflex of confused feelings (cited too in *HaKesav VeHaKabbalah* to
+Bereishis 50:3). Rabbi Eliyahu Menachem Margulies (*Emunas Eliezer*) develops
+the point that crying comes of a man's being unclear about what the future
+holds: as tears blur a man's sight, so he cries precisely because his view of
+the future is blurred, and this is hinted at in the tie of *dimah* to *dimua*,
+since it is the mixture of possibilities before him that brings him to tears.
+He sees a further allusion in *bocheh* being related to the root of *navoch*,
+perplexed, as in the Rambam's *Moreh Nevuchim*; and since the tzaddik can live
+through the uncertainty by relying on Hashem to set everything right in the
+end, the pasuk says *hazorim b'dimah b'rinah yiktzoru*, those who sow in tears
+will reap in joy (Tehillim 126:5). Rabbi Moshe Shapiro: the antidote to crying
+is *nechamah*, which per Rashi (Bereishis 5:29, 6:6, 27:42; Shemos 32:12) is
+not only comfort but a shift in thinking, the word used even of Hashem's
+"regretting" (so to speak) the making of man (Bereishis 6:6); it is the clear
+view of the future that removes the need to cry, and just such a clear view is
+what Yeshayahu opens with, *nachamu nachamu ami* (Yeshayahu 40:1).
 
 ## Rendering guidance
 
@@ -112,9 +153,11 @@ the need to cry; hence *nachamu nachamu ami* (Yeshayahu 40:1).
   fix the renderings (intermingle / dilute / commingle) before translating.
 - Trap: *dimah* is both "tear" and the terumah-tithe. Shemos 22:28 is not about
   tears; render by the tithe and footnote the tear sense if a drashah needs it.
-- Where ד-מ-ע means tear and mixture at once (Bava Basra 15a, Moshe writing the
-  last eight pesukim *b'dema*), name the reading you follow: "with tears," so
-  Ritva and *Sheilas Yaavetz*; in tears instead of ink, so Rashba and Maharsha,
+- Where ד-מ-ע means tear and mixture at once (Bava Basra 15a, where one view is
+  that Yehoshua wrote the last eight pesukim of the Torah and another that
+  Moshe wrote them *b'dema*), name the reading you follow: "with tears," that
+  is, while crying, the classical understanding, so Ritva and *Sheilas Yaavetz*
+  vol. 1 §13; in tears instead of ink, so Rashba and Maharsha,
   and Rabbi Dovid Tzvi Hoffmann prefers this since the Gemara said *b'dema* and
   not *b'dima'os*; or letters written mixed up and unreadable until after his
   death, so the Vilna Gaon (*HaKesav VeHaKabbalah* to Devarim 34:5; *Kol
@@ -134,7 +177,9 @@ cited: Mishlei 14:10, 20:19, 24:21; Tehillim 106:35, 126:5; Ezra 9:2; Daniel
 2:41, 2:43; Shir HaShirim 7:3; Pesachim 10:2, 10:4, 10:7, 44a; Nazir 2:3, 6:2;
 Demai 7:2; Shemos 22:28 with Temurah 4a, the Mechilta, Rashi, Tosafos, Ibn
 Ezra, Radak, Ramban, *Gur Aryeh*, *HaKesav VeHaKabbalah* and Rav Hirsch;
-Yirmiyahu 13:17; Sotah 7:8 on Devarim 17:15; Kesubos 10b; Bava Basra 15a;
-Shemos 14:3 with the Mechilta; Bamidbar 14:1; Esther 3:15; Bereishis 5:29, 6:6,
+Yirmiyahu 13:17; Sotah 7:8 on Devarim 17:15; Kesubos 10b; Bava Basra 15a with
+Ritva, Rashba and Maharsha, and *Sheilas Yaavetz* vol. 1 §13; Bereishis 49:11
+and Devarim 32:14 (Rav Hirsch on the blood of grapes); Shemos 14:3 with the
+Mechilta; Bamidbar 14:1; Esther 3:15; Bereishis 50:3; Bereishis 5:29, 6:6,
 27:42; Shemos 32:12; Yeshayahu 40:1. Rav Hirsch's further root comparisons are
 at Vayikra 7:19, 11:43 and Bamidbar 18:29.

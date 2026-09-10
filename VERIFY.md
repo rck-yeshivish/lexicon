@@ -40,8 +40,18 @@ For one entry, with its source article open beside it:
    was repeated in four places within a single entry, carrying a quotation the
    verse does not contain. Where book names were converted to Hebrew, the
    numbers were not always converted with them.
-8. **Check the Sources paragraph honestly.** It must not claim an omission the
-   entry did not make, and must not list a locus the entry never uses.
+8. **Check the Sources paragraph last, as a separate step, against the finished
+   body.** Every Sources-level slip a cold audit of corrected entries found sat
+   in a footer nobody re-read after the body was fixed: two citations fused into
+   one, a work listed that the article names only to say its author never
+   revisits it. It must not claim an omission the entry did not make, must not
+   list a locus the entry never uses, and must split what the article splits.
+9. **Check the boundary of every named attribution.** The commonest fault left
+   after a correction pass is the columnist's inference quietly promoted to the
+   authority's view. The article gives an authority a narrow point, the column
+   reasons past it to a broader conclusion, and the entry credits the authority
+   with the conclusion. Find the sentence in the article and check where the
+   name's responsibility stops.
 
 ## What not to do
 

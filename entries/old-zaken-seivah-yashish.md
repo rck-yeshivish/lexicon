@@ -12,9 +12,9 @@ words:
     nk: עַתִּיק
 sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
-authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Ernest Klein]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman]
+status: reviewed
+updated: 2026-09-10
 ---
 # Old age: zaken / seivah / yashish / yashan / atik / vatik
 
@@ -22,8 +22,9 @@ updated: 2026-09-09
 
 The three age words run in ascending order: *zaken* is **an elder** (sixty),
 *seivah* is **old age** proper (seventy), *yashish* is **the aged**, older still.
-*Yashan* is **old** of things, not of people ("stale," "aged," "last year's").
-*Atik* is **ancient**, old by remoteness in time. *Vatik* is not an age word at
+*Yashan* is **old** of plants and produce, not of people ("aged," "last year's").
+*Atik* is **ancient**, old by remoteness in time. *Vatik*, on what the column
+calls the more plausible explanation (Rabbi Ernest Klein), is not an age word at
 all: render it **veteran** or **senior**, of standing and reliability, never
 "old." The trap is English "old," which will flatten all six.
 
@@ -57,9 +58,12 @@ only four times in Tanach, all in Iyov (12:12, 15:11, 29:8, 32:6).
 The Aramaic equivalent, the Targum's standing rendering of *yashish* and one of
 its two renderings of *zaken*. Rabbeinu Chananel (Bava Metzia 109b) and Rabbi
 Nosson of Rome (*Sefer HeAruch*): Aramaic *kash* derives from *kashish*, which
-carries the same sense as *yashish*. Rabbi Mordechai Tzvi Herzka (*Divrei
-Chachamim*) proposes that yud and kuf interchange because in gematria they head
-the tens and the hundreds; the column itself calls this unlikely.
+carries the same sense as *yashish*. As for how the two words connect
+etymologically, the column reports that the only idea it could find is an
+unlikely one, proposed by Rabbi Mordechai Tzvi Herzka (*Divrei Chachamim*): that
+aleph, yud and kuf interchange because in gematria they are the first number of
+the ones, the tens and the hundreds respectively, so the yud of Hebrew *yashish*
+becomes the kuf of Aramaic *kashish*.
 
 ### yashan (ישן)
 Old of things rather than of persons. Shapira-Frankfurter pairs it against
@@ -70,31 +74,40 @@ extension for anything that has sat long enough to be last year's.
 Root ayin-tav-kuf, whose primary sense in Tanach is movement in space: Avraham
 and later Yitzchak move camp (*vayaatek*, Bereishis 12:8 and 26:22), and a child
 is *atik* when "moved away" from nursing (Yeshayahu 28:9). In later usage the
-root means to copy or transcribe, information moved from one document to
-another. Because Hebrew treats time and space as of a piece, *atik* also names
-what is far removed in time, hence Daniel's *Atik Yomin*, Ancient of Days
-(Daniel 7:9 and 7:22).
+root means to copy or transcribe, as though one took the information from one
+document and moved it to another. Because Hebrew presumes a connection between
+time and space, *atik* also names what is far removed in time, hence Daniel's
+*Atik Yomin*, Ancient of Days (Daniel 7:9 and 7:22). The column adds a personal
+aside: he used to think the English *antique* was a corruption of *atik*, until
+Rabbi Shaul Goldman told him that linguists parse it otherwise, as the
+Proto-Indo-European *ant*, "front, before," plus *okw*, "to see."
 
 ### vatik (ותיק)
-Rabbi Ernest Klein: *vatik* denotes firmness and dependability, so it names
-seniority and standing in a position rather than a number of years. A *talmid
-vatik* is a seasoned, established disciple; *vatikin* are those who rise to daven
-at the earliest permitted moment, punctilious rather than elderly. *Yedid Nefesh*
-(ascribed to Rabbi Elazar Azikri) addresses Hashem as *Vatik*, which one might
-link to *Atik*, but the two roots are distinct.
+A *talmid vatik* in the Gemara is a veteran or experienced disciple; *vatikin*
+are those who rise to daven at the earliest possible time; and *Yedid Nefesh*,
+ascribed to Rabbi Elazar Azikri, addresses Hashem as *Vatik*, which one might
+connect with His being called *Atik*. In all these one might be tempted to hear
+"old," or at least "old-timer." The column offers a more plausible explanation:
+Rabbi Ernest Klein, in his etymological dictionary, relates *vatik* to the
+Arabic *wathuqa*, "firm, solid," seniority and distinction being what a man
+earns by acting dependably and reliably. On that account *vatik* refers to
+dependability and standing in a particular position, not to an age.
+
+A popular folk etymology connects *vatikin* to the Vatican, the home of the
+Papacy and the Holy See, on the grounds that its leaders too claim to be
+dependable and reliable. Serious linguists reject it, and derive Vatican from
+the Latin *vates*, soothsayer or prophet, and *cano*, to sing or chant, the site
+having housed a pagan oracle before it became the center of Christianity.
 
 ## Rendering guidance
 
 - Trap: "old" absorbs *zaken*, *seivah*, *yashish*, *yashan*, and *atik* at
   once. Where a passage counts stages or builds a series, keep them apart:
   "elder ... old age ... the aged."
-- זקן ושיבה together (as in Tehillim 71:18, *zaknah v'seivah*): render as
-  ascent, "old age and grey hair," not as a synonym pair.
-- *Zaken* in a Torah or halachic context often means elder in the sense of
-  authority and learning, not years; check whether age or standing is the point
-  before writing "old man."
-- *Yashan* against *chadash* is "old" versus "new"; *yashan* of grain or wine is
-  "aged," of an idea "stale." Never use it of a person.
+- Where זקן and שיבה stand together, render them as an ascent, not as a synonym
+  pair; on Bedersi's reading the second is the later stage.
+- *Yashan* of produce is "aged" or "last year's." Never use it of a person;
+  Shapira-Frankfurter's whole point is that people take *zaken*.
 - *Vatik* / *vatikin*: "veteran," "senior," "the punctilious." Writing "the old
   ones" for *vatikin* imports an age the word does not carry.
 - *Atik*: "ancient." Reserve it for remoteness in time; where the root is doing
@@ -113,6 +126,18 @@ https://articles.ohr.edu/articles/the-old-man-and-the-see; raw text in
 cited: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and
 28:9; Iyov 12:12, 14:8, 15:11, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel
 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam
-Tochnis*; *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*.
-Comparative Arabic and Indo-European etymologies in the original, and the
-Vatican folk etymology, are omitted here.
+Tochnis*; *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi
+Ernest Klein's etymological dictionary.
+
+The comparative Arabic and Indo-European etymologies and the Vatican folk
+etymology had been dropped from an earlier version of this entry under a
+mistaken sources rule; they are restored above. The Arabic *wathuqa* is Klein's
+actual argument, so without it the entry's ruling on *vatik* rested on nothing,
+and the Vatican paragraph is what the article's title puns on.
+
+Three claims have been cut from the rendering guidance as not traceable to the
+article: a citation of Tehillim 71:18 for *ziknah v'seivah*, which the article
+never gives; that *zaken* in a halachic context means elder by authority rather
+than years; and the *yashan*/*chadash* contrast with "stale" for an idea. The
+clause saying that the roots of *vatik* and *atik* are distinct is also cut; the
+article says only that one might connect them, and does not rule.

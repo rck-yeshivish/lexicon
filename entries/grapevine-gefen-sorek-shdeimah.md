@@ -77,7 +77,7 @@ one whose grapes have no pits. Rashi: shoots good for planting as trunks in
 their own right (Yeshayahu 5:2), or the vine's especially long tendrils
 (Bereishis 49:11), while at Yirmiyahu 2:21 he seems to follow the choice-vine
 approach, explaining *sorek* as shoots from a good *gefen*. Rabbi Shmuel ben
-Chofni Gaon (998 to 1034, to Bereishis 49:11), the earliest of these: the
+Chofni Gaon (998 to 1034, to Bereishis 49:11), whom the column gives as an earlier explanation: the
 *softest* branches of the vineyard, which the column notes is the sense of
 *al-sarik* in Syrian Arabic (possibly the Sirac or Syrac grapes now known as
 Syrah or Shiraz). Ibn Saruk: simply *sarig*, a tendril. The column suggests
