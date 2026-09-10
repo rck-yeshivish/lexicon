@@ -1,12 +1,9 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
-  // Must match the deployed project. Wrangler generated this file itself and
-  // guessed the name "exicon" from the directory, losing the leading letter;
-  // deploying with that would have created a second, misnamed project.
+  // Pages config. `pages_build_output_dir` is what makes this a Pages project
+  // rather than a Worker; without it wrangler treats the directory as a Worker
+  // with static assets and deploys to <name>.<account>.workers.dev instead of
+  // the plain whatsinaword.pages.dev.
   "name": "whatsinaword",
-  "compatibility_date": "2026-09-10",
-  "observability": { "enabled": true },
-  // The built site. Only this directory is uploaded, which is what keeps the
-  // harvested corpus in sources/ off the web.
-  "assets": { "directory": "site" }
+  "pages_build_output_dir": "site",
+  "compatibility_date": "2026-09-10"
 }

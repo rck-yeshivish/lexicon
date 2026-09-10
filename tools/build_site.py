@@ -25,9 +25,18 @@ FINALS = str.maketrans("ךםןףץ", "כמנפצ")
 ALEFBET = list("אבגדהוזחטיכלמנסעפצקרשת")
 
 
+def show_heb(s):
+    """What a reader sees: nikud removed, spelling otherwise untouched."""
+    return NIKUD.sub("", unicodedata.normalize("NFC", s)).strip()
+
+
 def strip_heb(s):
-    """Fold a Hebrew string to its lookup key: no nikud, no final forms."""
-    return NIKUD.sub("", unicodedata.normalize("NFC", s)).translate(FINALS).strip()
+    """The lookup key: no nikud and final letters folded, for matching only.
+
+    Never render this. Folding turns אבדון into אבדונ, which is a misspelling;
+    it exists so that a word typed with its final form still matches.
+    """
+    return show_heb(s).translate(FINALS)
 
 
 def norm_latin(s):
@@ -217,21 +226,21 @@ def collect():
 
         seen = set()
         for h in fm.get("hebrew", []):
-            k = strip_heb(h)
+            k, disp = strip_heb(h), show_heb(h)
             if not k or k in seen:
                 continue
             seen.add(k)
             w = per.get(k, {})
-            words.append({"h": k, "t": w.get("tr", ""), "e": w.get("en", ""),
+            words.append({"h": disp, "k": k, "t": w.get("tr", ""), "e": w.get("en", ""),
                           "d": w.get("distinct", ""), "c": e["cluster"], "s": slug,
                           "g": e["english"]})
         for k, w in per.items():
             if k in seen:
                 continue
             seen.add(k)
-            words.append({"h": k, "t": w.get("tr", ""), "e": w.get("en", ""),
-                          "d": w.get("distinct", ""), "c": e["cluster"], "s": slug,
-                          "g": e["english"]})
+            words.append({"h": show_heb(w["he"]), "k": k, "t": w.get("tr", ""),
+                          "e": w.get("en", ""), "d": w.get("distinct", ""),
+                          "c": e["cluster"], "s": slug, "g": e["english"]})
 
         # Per-word glosses first, since those carry the Hebrew they render. An
         # entry-level gloss is added only if no word already claimed it, so the
@@ -280,6 +289,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 </main>
 <footer>
   <p>Grounded only in Orthodox sources. Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
+  <p class="muted">The entries are checked for sources and consistency, but have not yet been read one by one against the essays they rest on.</p>
   <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach.</p>
 </footer>
 <script src="{up}assets/app.js"></script>
@@ -299,7 +309,7 @@ def entry_page(e):
         f'<span id="{html.escape(strip_heb(h))}"></span>' for h in e["hebrew"])
     parts = [f'''<article class="entry">
 {anchors}
-<p class="eyebrow">{html.escape(e["domain"])}{' &middot; draft' if e["status"] == "draft" else ''}</p>
+<p class="eyebrow">{html.escape(e["domain"])}</p>
 <h1>{html.escape(e["cluster"])}</h1>
 <p class="heb-title">{heb}</p>''']
     for headname, mdtext in e["sections"]:
@@ -329,7 +339,7 @@ def main():
         f.write_text(text, encoding="utf-8")
         written.add(f.resolve())
 
-    words.sort(key=lambda w: (w["h"], w["c"]))
+    words.sort(key=lambda w: (w["k"], w["c"]))
     english.sort(key=lambda x: (x["e"].lower(), x["c"]))
     data = {
         "built": datetime.date.today().isoformat(),
@@ -349,9 +359,8 @@ def main():
     <p class="wm-sub">Synonyms in the Hebrew Language</p>
     <p class="wm-by">By Rabbi Reuven Chaim Klein</p>
   </div>
-  <p class="lede">An English rendering guide built on the column: {n_words:,} Hebrew headwords
-  across {n_entries} clusters of near-synonyms, each word given its own English and every
-  distinction attributed to the authority who draws it.</p>
+  <p class="lede">Search in Hebrew or in English. {n_words:,} words in {n_entries} groups of
+  near-synonyms, each with its own meaning and the source that draws the line.</p>
   <div class="bigsearch">
     <svg viewBox="0 0 24 24" class="mag" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
     <input id="q" type="search" placeholder="Type Hebrew or English&hellip;" autocomplete="off" spellcheck="false" dir="auto">
@@ -370,7 +379,7 @@ def main():
     letters = "".join(f'<button class="ltr" data-l="{l}">{l}</button>' for l in ALEFBET)
     he_body = f'''<section class="browse">
   <h1>Hebrew</h1>
-  <p class="lede">Alef to tuf. Pick a letter.</p>
+  <p class="lede" dir="rtl" lang="he">מאל&rdquo;ף ועד תי&rdquo;ו</p>
   <div class="letters heb">{letters}</div>
   <div id="list" class="rows"></div>
 </section>'''
@@ -452,6 +461,7 @@ header.bare .brand{flex:1}
 @media (max-width:640px){.wm{font-size:34px}.wm-sub{font-size:16px}.wm-by{font-size:16px}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
 .lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
+.browse .lede[lang="he"]{font-family:var(--heb);font-size:22px;margin:0}
 .bigsearch{position:relative;max-width:620px;margin:0 auto}
 .bigsearch input{width:100%;height:60px;padding:0 22px 0 54px;font-size:19px;
   border:1px solid var(--line);border-radius:16px;background:var(--panel);color:var(--ink);
@@ -488,9 +498,11 @@ header.bare .brand{flex:1}
 
 /* browse ------------------------------------------------------------------ */
 .browse{padding:46px 0 0}
-.browse h1{font-size:36px;letter-spacing:-.02em;font-weight:600;margin:0 0 8px}
+.browse h1{font-size:36px;letter-spacing:-.02em;font-weight:600;margin:0 0 8px;text-align:center}
+.browse > .lede{text-align:center}
 .letters{display:flex;flex-wrap:wrap;gap:7px;margin:26px 0 30px;
   padding-bottom:22px;border-bottom:1px solid var(--line)}
+.letters.heb{direction:rtl}
 .ltr{min-width:44px;height:44px;padding:0 8px;border:1px solid var(--line);background:var(--panel);
   color:var(--ink);border-radius:11px;font:inherit;font-size:17px;cursor:pointer;
   transition:background .12s,border-color .12s}
@@ -499,9 +511,13 @@ header.bare .brand{flex:1}
 .ltr.on{background:var(--accent);border-color:var(--accent);color:#fff}
 .ltr[disabled]{opacity:.3;cursor:default}
 .rows{display:flex;flex-direction:column}
-.rows .r{display:grid;grid-template-columns:120px 130px 1fr;gap:16px;align-items:baseline;
+.rows .r{display:grid;grid-template-columns:150px 1fr;gap:20px;align-items:baseline;
   padding:14px 6px;border-bottom:1px solid var(--line)}
+.rows.en3 .r{grid-template-columns:1fr 150px 200px}
 .rows .r{color:var(--ink)}
+.rows .rhead{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);
+  font-weight:600;padding-bottom:8px;border-bottom:1px solid var(--line)}
+.rows .rhead:hover{background:none}
 .rows .r:hover{background:var(--panel);text-decoration:none}
 .rows .h{font-family:var(--heb);font-size:24px;direction:rtl;text-align:right}
 .rows .en{font-family:inherit;font-size:19px;font-weight:600;direction:ltr;text-align:left}
@@ -572,8 +588,8 @@ function search(q, limit=12){
   if(isHeb(q)){
     const k = foldHeb(q);
     for(const w of DATA.words){
-      const i = w.h.indexOf(k);
-      if(w.h === k) out.push([0 + own(w), w]);
+      const i = w.k.indexOf(k);
+      if(w.k === k) out.push([0 + own(w), w]);
       else if(i === 0) out.push([1 + own(w), w]);
       else if(i > 0) out.push([3 + own(w), w]);
     }
@@ -590,10 +606,10 @@ function search(q, limit=12){
       else if(foldLat(w.c).includes(k)) out.push([5 + own(w), w]);
     }
   }
-  out.sort((a,b) => a[0]-b[0] || a[1].h.localeCompare(b[1].h));
+  out.sort((a,b) => a[0]-b[0] || a[1].k.localeCompare(b[1].k));
   const seen = new Set(), res = [];
   for(const [,w] of out){
-    const id = w.h + "|" + w.s;
+    const id = w.k + "|" + w.s;
     if(seen.has(id)) continue;
     seen.add(id);
     res.push(w);
@@ -602,7 +618,7 @@ function search(q, limit=12){
   return res;
 }
 
-function href(w){ return UP + "entries/" + w.s + ".html#" + encodeURIComponent(w.h); }
+function href(w){ return UP + "entries/" + w.s + ".html#" + encodeURIComponent(w.k); }
 
 function wire(){
   const q = document.getElementById("q"), ac = document.getElementById("ac");
@@ -655,7 +671,7 @@ function initBrowse(mode){
   load().then(() => {
     const bucket = {};
     if(mode === "he"){
-      for(const w of DATA.words) (bucket[w.h[0]] ||= []).push(w);
+      for(const w of DATA.words) (bucket[w.k[0]] ||= []).push(w);
     } else {
       for(const x of DATA.english){
         const c = (x.e[0]||"").toUpperCase();
@@ -669,7 +685,6 @@ function initBrowse(mode){
       const rows = items.map(w => mode === "he"
         ? `<a class="r" href="${href(w)}">
              <span class="h">${esc(w.h)}</span>
-             <span class="t">${esc(w.t)}</span>
              <span>
                ${w.e ? `<span class="e">${esc(w.e)}</span>` :
                        `<span class="cl">in the ${esc(w.c)} cluster: ${esc((w.g||[]).slice(0,4).join(", "))}</span>`}
@@ -678,8 +693,13 @@ function initBrowse(mode){
         : `<a class="r" href="${UP}entries/${w.s}.html${w.h ? "#" + encodeURIComponent(w.h) : ""}">
              <span class="en">${esc(w.e)}</span>
              <span class="h">${esc(w.h)}</span>
-             <span class="cl">${esc(w.c)}</span></a>`).join("");
-      list.innerHTML = `<p class="count">${items.length} ${items.length === 1 ? "word" : "words"}</p>` + rows;
+             <span class="cl">in the ${esc(w.c)} group</span></a>`).join("");
+      const head = mode === "he"
+        ? `<div class="r rhead"><span>Hebrew</span><span>English, and what sets it apart</span></div>`
+        : `<div class="r rhead"><span>English</span><span>Hebrew</span><span>Group</span></div>`;
+      list.className = "rows" + (mode === "en" ? " en3" : "");
+      list.innerHTML = `<p class="count">${items.length} ${items.length === 1 ? "word" : "words"}</p>`
+                     + (items.length ? head : "") + rows;
       history.replaceState(null, "", "#" + encodeURIComponent(l));
     };
     btns.forEach(b => b.addEventListener("click", () => show(b.dataset.l)));

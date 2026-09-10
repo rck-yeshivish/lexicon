@@ -42,3 +42,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          # Must be `pages deploy`. The action's default is `wrangler deploy`,
+          # which would publish a Worker to *.workers.dev instead of updating
+          # whatsinaword.pages.dev.
+          command: pages deploy site --project-name=whatsinaword --branch=main
