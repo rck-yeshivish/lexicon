@@ -83,12 +83,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Tale of Two Arks," What's in a Word?, Ohr Somayach,
-24 September 2016 / 21 Elul 5776: raw text in
-`sources/whats-in-a-word/raw/6943-a-tale-of-two-arks.md`. Primary loci cited:
-Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah
-3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus on *teivah* and *bayis*. The
-article names the *Megillah* commentators only as "the commentators," and offers
-both Biblical distinctions tentatively ("we may argue," "it seems," "we may
-suppose") before showing that the rabbinic usage defeats them; the Rendering
-guidance above is this guide's own.
+Rabbi Reuven Chaim Klein, "A Tale of Two Arks," *What's in a Word?*, Ohr Somayach, 24 September 2016.
+
+Loci: Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah 3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus.

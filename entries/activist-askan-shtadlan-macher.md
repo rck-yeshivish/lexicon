@@ -157,9 +157,9 @@ the community, as the *askan* and the *shtadlan* do.
 - Trap: "activist" and "operator" will each swallow both *askan* and
   *shtadlan*. Where a passage sets them side by side, use "activist" for the
   first and "intercessor" (or "lobbyist", in a modern setting) for the second.
-- *Hishtadlus* in a mussar context is "effort" or "one's own effort", the
-  Targum's wide sense, not "lobbying". Reserve the persuasion sense of *shadal*
-  for where a second party is being worked on.
+- *Hishtadlus* is "effort" or "one's own effort", the Targum's wide sense, not
+  "lobbying". Reserve the persuasion sense of *shadal* for where a second party
+  is being worked on.
 - Bereishis 26:20: *Esek* as a well's name wants a gloss, not a translation.
   "He called the well Esek, because they had contended with him" keeps the
   wordplay visible.
@@ -170,23 +170,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Toldos: The Doers and Fighters," What's in a Word?,
-Ohr Somayach, 2 Kislev 5783 (2022-11-26): raw text in
-`sources/whats-in-a-word/raw/10720-toldos-the-doers-and-fighters.md`. Primary
-loci cited: Bereishis 26:20 with Sforno, and 12:17, 20:11, 20:18, 32:25; Shemos
-22:15 with Targum Onkelos and Rashi; Yehoshua 14:6; Yechezkel 38:4; Rus 2:19;
-Daniel 6:15 with Tosafos to Kiddushin 39b and pseudo-Rasag; Ezra 4:15, 4:19;
-Koheles 3:1, 3:18, 7:8, 8:2; *Avos* 2:5, 4:10, 4:18; Berachos 56a, 58a; Moed
-Katan 22a; Kesubos 8a and 80b; Bava Metzia 68b; Kiddushin 30b; Chullin 57b with
-Rashi; Shavuos 31a and Bava Metzia 14a with Rashi; *Menachos* 10:3 and the
-Mishnaic *esek* loci above; *Mussaf HaAruch*; *Machberes Menachem*; *Aruch
-HaShaleim*. Loci follow the article's numbering, which is the Hebrew one
-(Bereishis 32:25, Shemos 22:15, Daniel 6:15); in English versification these are
-Bereishis 32:24, Shemos 22:16 and Daniel 6:14. The article opens with a question
-put to his Twitter followers by Rabbi David Bashevkin of the OU, what the
-difference is between a *shtadlan* and an *askan*, and the closing paragraph is
-its answer, which the Bottom line above reproduces. Both the Greek etymology and
-its rejection are Dr. Alexander Kohut's in *Aruch HaShaleim*, reported here as
-the column reports them; the derivation from Biblical ע-ש-ק is likewise Kohut's,
-while Rabbi Klein's own contribution is the semantic bridge and the Rashi
-support.
+Rabbi Reuven Chaim Klein, "Toldos: The Doers and Fighters," *What's in a Word?*, Ohr Somayach, 26 November 2022.
+
+Loci: Bereishis 26:20 with Sforno, and 12:17, 20:11, 20:18, 32:25; Shemos 22:15 with Targum Onkelos and Rashi; Yehoshua 14:6; Yechezkel 38:4; Rus 2:19; Daniel 6:15 with Tosafos to Kiddushin 39b and pseudo-Rasag; Ezra 4:15, 4:19; Koheles 3:1, 3:18, 7:8, 8:2; *Avos* 2:5, 4:10, 4:18; Berachos 56a, 58a; Moed Katan 22a; Kesubos 8a and 80b; Bava Metzia 68b; Kiddushin 30b; Chullin 57b with Rashi; Shavuos 31a and Bava Metzia 14a with Rashi; Mishnah *Shekalim* 6:2, *Maaser Sheini* 4:7, *Shabbos* 23:4, *Rosh Hashanah* 4:8, *Sotah* 1:9, *Kiddushin* 4:14, *Eduyos* 2:5, *Kerisos* 4:3, *Menachos* 10:3, *Taharos* 7:8, *Niddah* 8:2, *Zavim* 2:2; *Mussaf HaAruch*; *Machberes Menachem*; *Aruch HaShaleim*.

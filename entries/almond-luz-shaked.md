@@ -145,7 +145,7 @@ though the column sets it aside as a discussion for another time.
   the Targum Yonasan and wrong for Targum Onkelos, who keeps them apart. In a
   passage that quotes Onkelos, or Rashi to Bereishis 30:38, render *luz* as
   "hazel" and say which *Rishon* is being followed.
-- Bereishis 30:37: leave the identification open where the *sefer* does. "*Luz*
+- Bereishis 30:37: leave the identification open where the text does. "*Luz*
   rods" with a gloss beats a confident "almond rods" when Onkelos declined to
   translate the word at all.
 - Shemos 25:33: *meshukadim* is "shaped like almond blossoms," not "hastened."
@@ -159,24 +159,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Almonds in the Bible," What's in a Word?, Ohr
-Somayach, 13 November 2021 / 9 Kislev 5782: raw text in
-`sources/whats-in-a-word/raw/9436-almonds-in-the-bible.md`. Primary loci cited:
-Bereishis 24:65, 28:19, 30:37 to 38, 37:19, 43:11; Shemos 25:33 to 34, 37:19 to
-29; Bamidbar 17:23; Shoftim 1:23 to 26; Yirmiyahu 1:11 to 12 with Rashi;
-Yechezkel 36:35; Zecharyah 2:8; Koheles 12:5 in Targum; Bechoros 8a with Rashi
-and Tosafos; Yerushalmi Taanis 4:5; *Bereishis Rabbah* 69:8; Midrash *Sechel
-Tov*; *Mateh Moshe* 513; Targum Onkelos, Targum Yonasan and Targum Neofiti to
-Bereishis 43:11 and Bamidbar 17:23; Rabbi Saadia Gaon as cited by Radak and Ibn
-Ezra to Bereishis 30:37; *Machberes Menachem*. Even-Shoshan's dictionary, Dr.
-Gary Rensburg on the Aramaic coloring of the Lavan narrative, Dr. Joshua D.
-Klein of the Volcani Center on why the almond is "diligent," the Latin etymology
-of English "almond," and Solomon Löwisohn on Lusitania are all cited by the
-article and are reported here as it reports them.
+Rabbi Reuven Chaim Klein, "Almonds in the Bible," *What's in a Word?*, Ohr Somayach, 13 November 2021.
 
-Two loci to watch. Bamidbar 17:23 for Aharon's staff is the Hebrew numbering,
-which the article uses; in English Bibles it is Numbers 17:8. For the Menorah's
-*meshukadim* the article gives "Ex. 25:33-34, 37:19-29"; the second range
-overshoots, since *meshukadim* occurs at Shemos 37:19 to 20 and the chapter's
-later verses are about other work, so the entry gives 37:19 to 20 and flags the
-article's form.
+Loci: Bereishis 24:65, 28:19, 30:37 to 38, 37:19, 43:11; Shemos 25:33 to 34, 37:19 to 20; Bamidbar 17:23; Shoftim 1:23 to 26; Yirmiyahu 1:11 to 12 with Rashi; Yechezkel 36:35; Zecharyah 2:8; Koheles 12:5 in Targum; Bechoros 8a with Rashi and Tosafos; Yerushalmi Taanis 4:5; *Bereishis Rabbah* 69:8; Midrash *Sechel Tov*; *Mateh Moshe* 513; Targum Onkelos, Targum Yonasan and Targum Neofiti to Bereishis 43:11 and Bamidbar 17:23; Radak and Ibn Ezra to Bereishis 30:37, citing Rabbi Saadia Gaon; *Machberes Menachem*; Even-Shoshan's dictionary; Dr. Gary Rensburg; Dr. Joshua D. Klein; Solomon Löwisohn.

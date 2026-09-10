@@ -153,13 +153,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Man with Enough Light," What's in a Word?, Ohr
-Somayach, 25 Cheshvan 5779 (2018-11-03):
-https://articles.ohr.edu/articles/the-man-with-enough-light; raw text in
-`sources/whats-in-a-word/raw/7974-the-man-with-enough-light.md`. Primary loci
-cited: Bereishis 19:11; Vayikra 19:14; Bamidbar 24:4; Devarim 3:9 with Rashi,
-16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Rashbam and
-Malbim to Bereishis 19:11; *Kli Yakar* to Bamidbar 24:4; Dr. Fred Rosner,
-*Medicine in the Bible and the Talmud*. The article says *sanverim* "appears only
-twice more in the Bible (II Kings 6:18)"; both of those occurrences are inside
-that one verse, which is why the entry counts three in all.
+Rabbi Reuven Chaim Klein, "The Man with Enough Light," *What's in a Word?*, Ohr Somayach, 3 November 2018.
+
+Loci: Bereishis 19:11 with Rashbam and Malbim; Vayikra 19:14; Bamidbar 24:4 with *Kli Yakar*; Devarim 3:9 with Rashi, 16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Dr. Fred Rosner, *Medicine in the Bible and the Talmud*.

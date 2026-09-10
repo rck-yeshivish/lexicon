@@ -121,7 +121,7 @@ people do.
 - Transliterate the rank names: *chayos*, *ofanim*, *erelim*, *chashmalim*,
   *serafim*, *ishim*, *irin*, *kadishin*. Gloss each once at first occurrence.
 - *Kruvim* is the exception: **cherubim** is settled English for the two on the
-  Aron, and reads properly in a sefer.
+  Aron.
 - *Malachim*: **angels** where the word is generic, transliterated where a
   source is listing the ten ranks and *malachim* is one of them. This is the
   place where a translator most easily loses the sense, because the same English
@@ -144,12 +144,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Cherubic Children and Other Angels," What's in a
-Word?, Ohr Somayach (2019-02-09): raw text in
-`sources/whats-in-a-word/raw/8129-cherubic-children-and-other-angels.md`.
-Primary loci: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder
-Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei
-d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7;
-Yechezkel 43:15; Tehillim 78:25 (the article prints 75:25); Kesubos 104a;
-Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to
-Bereishis 21:17.
+Rabbi Reuven Chaim Klein, "Cherubic Children and Other Angels," *What's in a Word?*, Ohr Somayach, 9 February 2019.
+
+Loci: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7; Yechezkel 43:15; Tehillim 78:25; Kesubos 104a; Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to Bereishis 21:17.

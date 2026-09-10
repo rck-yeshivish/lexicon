@@ -10,119 +10,149 @@ words:
     nk: עֲרָבָה
 sources:
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
-authorities: [Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Malbim, the Vilna Gaon, Metzudas David, Rav Hirsch, Rabbeinu Meyuchas ben Eliyahu, Rabbi Tzvi Matisyahu Abrahams, Shoresh Yesha]
-status: draft
-updated: 2026-09-09
+authorities: [Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Malbim, the Vilna Gaon, Metzudas David, Rav Hirsch, Rabbeinu Meyuchas ben Eliyahu, Rabbi Tzvi Matisyahu Abrahams, Shoresh Yesha, Yair Ohr, Wycliffe Bible, Tyndale Bible, King James Version]
+status: reviewed
+updated: 2026-09-10
 ---
 # Wilderness: midbar / aravah / tziyah
 
 ## Bottom line
 
-*Midbar* is the general **wilderness**: land inherently unfit for settlement,
-empty of people, where flocks are driven to graze. *Aravah* is a **desert
-plain** or **arid steppe**, not bone-dry but overrun with thorns and wild
-growth. *Tziyah* is a **parched land**, dried out by heat, the most desolate of
-the three. Malbim is the one who sorts them: *tziyah* and *aravah* are desolate
-from an outside cause (heat; weeds), *midbar* is desolate by its own nature.
+Three readings of how the words differ. *Metzudas David* (to Yirmiyahu 50:12)
+treats them as synonyms, possibly for poetic effect. The Vilna Gaon (to Hoshea
+2:5) holds *midbar* and *tziyah* essentially the same, *tziyah* the more intense
+desolation. Malbim (to Yeshayahu 35:1) separates all three, and this entry
+follows him: *midbar* is the **wilderness**, land inherently unfit for
+settlement or cultivation and so empty of people; *aravah* is a **desert
+plain** overrun with thorns and wild growth, not bone-dry; *tziyah* is a
+**parched land**, dried out by prolonged heat. For Malbim *tziyah* and *aravah*
+are desolate from an outside cause (heat; weeds), *midbar* by its own nature.
 When all three appear in one pasuk, give each a distinct English phrase; do not
-let "desert" swallow the list.
+let "desert" swallow the list. Early English Bibles themselves split on
+*midbar*, "desert" (Wycliffe) against "wilderness" (Tyndale, KJV), and the
+column takes no side.
 
 ## Distinctions
 
 ### midbar (מדבר)
-About 270 occurrences, often bound to a place-name (*Midbar Sinai*, *Midbar
-Paran*, *Midbar Yehudah*). Ibn Janach and Radak (*Sefer HaShorashim*) trace it
-to ד-ב-ר, of which Menachem Ibn Saruk lists six senses: *dibbur* (speech),
-*yadber* (to lead), *dever* (plague), *dvar* (concerning), *devorah* (bee), and
-*dvir* (inner sanctum). Radak joins the first two: animals are led by the
-**speech** of the one in charge, so a *midbar* is at core the far pasture to
-which shepherds drive a flock, and by extension any tract remote from
-settlement. Rabbi Shlomo Pappenheim links it instead to *dever*: an emptied
-place, as though a plague had cleared out its people. Rabbi Tzvi Matisyahu
-Abrahams (*Root Connections in the Torah*) links it to *dibbur* the other way,
-the *midbar* being free of distraction and so fit for hearing another's speech,
-which is why the Torah was given in a *midbar*, and to *devir*, the private
-place where speech carries without eavesdroppers. Malbim (to Yeshayahu 35:1):
-*midbar* is a place where people are simply not found, inherently unworthy of
-cultivation, and empty of settlers and even of passers-by as a result.
+About 270 occurrences, often bound to a place-name (*Midbar Sinai*, *Sin*,
+*Paran*, *Shur*, *Kadesh*, *Damesek*, *Ein-Gedi*, *Yehudah*). Ibn Janach (990 to
+1050) and Radak (*Sefer HaShorashim*) trace it to ד-ב-ר. Menachem Ibn Saruk
+does not explicitly trace *midbar* there, but lists six senses of that root:
+*dibbur* (speech), *yadber* (to lead, or to exterminate), *dever* (plague),
+*dvar* (concerning), *devorah* (bee), and *dvir* (inner sanctum). Radak joins
+the first two: animals are led by the speech of the one in charge, and he
+implies that a *midbar* is at core the far pasture to which shepherds lead a
+flock to graze, and by extension any tract remote from settlement. Rabbi
+Shlomo Pappenheim (1740 to 1814) relates it instead to *dever*: an empty place,
+as though a plague had wiped out its people. Similarly, Rabbi Tzvi Matisyahu
+Abrahams (*Root Connections in the Torah*) relates it to *dibbur*: the
+*midbar* is free of distraction and so especially fit for hearing another's
+speech, which is why the Torah, Hashem's speech, was given in a *midbar*; and he
+connects *devir*, the intimate place where speech carries without eavesdroppers.
+Malbim (to Yeshayahu 35:1): *midbar* is a place where people are generally not
+found, inherently unfit for settlement or cultivation, and empty of settlers and
+even of passers-by as a result.
 
 ### aravah (ערבה)
 Sixty occurrences, sometimes as a place-name (*Arvos Moav*, *Arvos Yericho*).
-All the early lexicographers, Ibn Saruk included, trace it to ע-ר-ב, of which
-Menachem lists eleven senses, among them *erev* (evening), *areiv* (pleasant),
-*aravah* (willow), *areiv* (guarantor), *eiruv* (mixture), *arov*, *oreiv*
-(raven), *aravos* (a name of the heavens), and *aravah* (wilderness). Rabbeinu
-Meyuchas ben Eliyahu reads it topographically: an *aravah* is a sunken valley,
-less exposed to the sun and so dark, which is why it shares a string with *erev*
-and *oreiv*, the black bird. Rabbi Abrahams reads the root as the collapse of
-boundaries so that distinct units blend: *taaroves* / *irbuvya* (mixture),
-*erev* (when failing light makes objects hard to tell apart), *eiruv* (merging
-domains for Shabbos), *areiv* (a guarantor blurring the line between him and
-the borrower), *areiv* (a taste balanced out of a blend). On that reading the
-*aravah* is a plain that is neither mountain nor valley and so blurs the
-difference between them. Rav Hirsch (to Shemos 7:15) explains *arov* the same
-way, the plague turning Mitzrayim into a lawless jungle.
+All the early lexicographers, Ibn Saruk included, explicitly trace it to
+ע-ר-ב, of which Menachem lists eleven senses: *erev* (evening), *areiv* (sweet,
+pleasant), *aravah* (willow), *areiv* (guarantor), *eiruv* (connection,
+mixture), *erev* (the woof of a fabric), *arov* (the mixture of wild animals),
+*erev* or *Arav* (Arabia), *oreiv* (raven), *aravos* (a name of the heavens),
+and *aravah* (wilderness). Rabbeinu Meyuchas ben Eliyahu, a Greek or Byzantine
+scholar of some time before the 1500s (the column's footnote cites him to
+Devarim 1:1), reads it topographically: an *aravah* is a depressed valley, less
+exposed to sunlight and so like a dark jungle, and he compares *erev*, the dark
+part of the day, and *oreiv*, the black bird. Rabbi Abrahams connects the root
+differently, as the breaking down of boundaries so that distinct units blend:
+*taaroves* / *irbuvya* (mixture), *erev* (when failing light makes objects hard
+to tell apart), *eiruv* (merging domains for Shabbos), *areiv* (a guarantor
+blurring the line between himself and the borrower), *areiv* (sweetness, a
+harmonious blend of tastes). Rav Hirsch (to Shemos 7:15) similarly explains
+*arov* as turning Mitzrayim into an untamed jungle with no rules. On this
+rubric the *aravah* is a plain, neither elevated like mountains nor depressed
+like a valley, blurring the difference between them. Rabbi Abrahams also
+connects *aravah* to *Araviyah*, Arabia, homeland of the desert-dwelling Arabs,
+whom he describes as breaking down boundaries through theft and immorality;
+the column's shorthand alludes to their not wanting the Torah because of *lo
+sigzol* and to their getting ten *kavim* of immorality.
 
 Malbim: an *aravah* is dominated by thorns, thistles and wild growth, so it is
-**not** as dry as a *tziyah*; it holds moisture enough to feed weeds. Its
-opposite is a cultivated garden, which is why Yeshayahu 51:3 promises to turn
-her *aravah* into the garden of Hashem.
+**not** as dry as a *tziyah*; it holds moisture enough to support weeds. Its
+opposite is a flourishing garden, which is why Yeshayahu 51:3 foretells that
+Hashem will turn her *aravah* into the garden of Hashem.
 
-On the willow: Rabbi Abrahams calls it a plain plant with no taste and no scent,
-matching the *aravah* of *Vayikra Rabbah* 30:12, the Jew with neither Torah nor
-good deeds; Rav Hirsch (to Vayikra 23:40) explains more simply that willows need
-little water and so grow even in an *aravah*.
+On the willow: Rabbi Abrahams calls it a plain, unremarkable plant with no good
+taste or smell, so that in Chazal's exegesis the *aravah* is the Jew with
+neither Torah nor good deeds (*Vayikra Rabbah* 30:12); Rav Hirsch (to Vayikra
+23:40) explains more simply that willows need little water and so grow even in
+an *aravah*.
 
 ### tziyah (ציה)
 Sixteen occurrences, all in Tehillim, Iyov, or the Later Prophets; never in
 Chumash and never attached to a place-name. The root is disputed: Menachem
 takes it as the monoliteral צ, Ibn Janach as צ-י-י, Radak as צ-י-ה. Radak
 (*Sefer HaShorashim*) gathers under the same root *tziyim*, a desert-dwelling
-creature (Yeshayahu 13:21, 34:14, Yirmiyahu 50:39); *tzi* / *tzim*, a ship
-(Yeshayahu 33:21; Bamidbar 24:24, Daniel 11:30, Yechezkel 30:9); and *Tziyim* as
-a people's name (Tehillim 72:9, Yeshayahu 23:12). He does not connect ship to
-parched land; *Shoresh Yesha* supplies the bridge, either that a ship is the
-non-water at sea as a *tziyah* is the non-water on land, or that a hull's whole
-function is to keep water out, which is dryness.
+creature, often rendered jackal or ostrich (Yeshayahu 13:21, 34:14, Yirmiyahu
+50:39); *tzi* / *tzim*, a ship (Yeshayahu 33:21; Bamidbar 24:24, Daniel 11:30,
+Yechezkel 30:9); and *Tziyim* as the name of a people who either lived in the
+desert or were seafaring (Tehillim 72:9, Yeshayahu 23:13). He does not explain
+how ship relates to parched land; *Shoresh Yesha* does, either that on the high
+seas there is only water and ships, so a ship is the opposite of water as a
+*tziyah* is the opposite of watered land, or that a hull's whole function is to
+keep water out, which is dryness.
 
-Rabbi Shlomo Pappenheim, following Menachem's monoliteral צ, defines the core
-as "going out": a *tziyah* is land whose moisture and inhabitants have left it.
-He gathers *matzah*, *metzitzah* (drawing liquid out), *na'atz*, *tzo'ah*,
-*atz*, *yatza*, *tze'etza*, *tzon*, *tzitz* / *netz*, *nitzotz*, *tzitzis*, and
-*metziah*. Tehillim 107:33-35 pairs *tziyah* with *tzimaon* (a thirsty place),
-which suggests *tzom* and *tzamei* belong here too, though he himself assigns
-those to the biliteral צ-ם.
+Rabbi Shlomo Pappenheim, implicitly following Menachem's monoliteral צ, defines
+the core as "exiting, going out": a *tziyah* is dry and desolate, land whose
+liquid and inhabitants have gone out of it. So too *matzah*, dry, its moisture
+gone, and *metzitzah*, drawing liquid out; he connects *tzi*, the ship, as the
+vessel for going out from one's home base. He also gathers *na'atz* (anger
+that bubbles out), *tzo'ah* (excrement), *atz* (pressure to leave one's
+situation), *yatza*, *tze'etza* (offspring), *tzon* (a flock, whose nature is
+to leave its corral), *tzitz* / *netz* (a bud), *nitzotz* (a spark),
+*tzitzis*, and *metziah* (finding, seeing something out in the open).
 
-Malbim: *tziyah* is a place made especially dry and arid by long exposure to
-heat, the exact opposite of a land of springs; hence Tehillim 107:35, Hashem
-turning a *tziyah* into wellsprings of water.
+Tehillim 107:33-35 pairs *midbar* with *midbar* and *tziyah* with *tzimaon*, a
+thirsty place, implying a connection between those two words; the column
+suggests this might hint that *tzom*, fasting, and *tzamei*, thirsty, also
+belong to the monoliteral צ, though Pappenheim himself assigns them to the
+biliteral צ-ם.
+
+Malbim: *tziyah* is a place made especially dry and arid by prolonged exposure
+to heat, the exact opposite of a land of springs and pools; hence Tehillim
+107:35, Hashem turning a *tziyah* into sources of water. The column's note to
+Malbim's distinction also cites *Yair Ohr* (maareches mem, os dalet).
 
 ### How intense, and in what order
-The Vilna Gaon (to Hoshea 2:5, where Hashem threatens to make her like a
-*midbar* and set her like a *tziyah* land): the two mean essentially the same
-thing, but *tziyah* is the graver desolation, and he reads the escalation as the
-loss of *nevuah*, leaving her a *midbar*, then the loss of even *ruach
-hakodesh*, leaving her a *tziyah*. Yirmiyahu 50:12 stacks all three of Bavel's
-future: *midbar*, *tziyah*, *aravah*. *Metzudas David* there treats them as
-plain poetic synonymy with no semantic difference intended; Malbim (there)
-refers the reader to his distinction at Yeshayahu 35:1, given above. Prefer
-Malbim, who is the one who actually separates them, and whose separation holds
-across the loci.
+The Vilna Gaon, Rabbi Eliyahu Kramer (1720 to 1797), to Hoshea 2:5, where
+Hashem threatens to make her like a *midbar* and set her like a *tziyah* land:
+the two mean essentially the same thing, but *tziyah* implies the more intense
+desolation, and he reads the escalation as the loss of *nevuah*, leaving her a
+*midbar*, then the loss of even *ruach hakodesh*, leaving her a *tziyah*.
+Yirmiyahu 50:12 stacks all three for Bavel's future: *midbar*, *tziyah*,
+*aravah*. *Metzudas David* there, as he often does, treats them as a series of
+synonyms, possibly as poetic expression, with no semantic difference intended;
+Malbim there refers the reader to his distinction at Yeshayahu 35:1, given
+above. The column leaves the three views side by side; the Bottom line follows
+Malbim because he alone separates all three.
 
 ## Rendering guidance
 
 - Yirmiyahu 50:12, all three together: "a wilderness, a parched land, and an
-  arid plain." Do not compress to "a desert waste"; the pasuk is building, and
-  Malbim reads real difference into the sequence. So too Yeshayahu 35:1, where
-  *midbar* and *tziyah* rejoice and the *aravah* is glad: keep the three-way
-  split, since the force of the pasuk is that each kind of emptiness is
-  reversed.
+  arid plain." Do not compress to "a desert waste"; Malbim reads real
+  difference into the sequence. So too Yeshayahu 35:1, where *midbar* and
+  *tziyah* rejoice and the *aravah* is glad: keep the three-way split, since
+  the force of the pasuk is that each kind of emptiness is reversed.
 - Trap: English "desert" will absorb all three, and "wilderness" will absorb
   *midbar* and *aravah*. Fix one English phrase per Hebrew word at the start of
   a passage and hold it.
 - *Midbar* in the Chumash's own usage (*Midbar Sinai*, the years in the
   *midbar*) is "Wilderness," capitalized where it names the period; "Desert of
   Sinai" reads geographical and loses the sense of a place outside settlement.
+  That preference is ours; the column declines to choose between the English
+  Bibles' "desert" and "wilderness."
 - Hoshea 2:5: the pair is climactic, so render *midbar* before *tziyah* as
   "a wilderness ... a parched land," never the reverse and never with the same
   word twice, or the Vilna Gaon's escalation disappears.
@@ -138,10 +168,13 @@ None yet.
 Rabbi Reuven Chaim Klein, "Bamidbar: Out in the Wild," What's in a Word?, Ohr
 Somayach, 29 Iyar 5783 (2023-05-20): raw text in
 `sources/whats-in-a-word/raw/10940-bamidbar-out-in-the-wild.md`. Primary loci
-cited: Bamidbar 1:1; Malbim to Yeshayahu 35:1 and to Yirmiyahu 50:12, with
-*Yair Ohr* (maareches mem, os dalet) and Rabbeinu Meyuchas to Devarim 1:1; the
-Vilna Gaon to Hoshea 2:5; *Metzudas David* to Yirmiyahu 50:12; Radak and Ibn
-Janach, *Sefer HaShorashim* s.v. דבר, ערב, ציה; Menachem Ibn Saruk, *Machberes*;
+cited: Bamidbar 1:1, 24:24; Devarim 1:1 (Rabbeinu Meyuchas); Malbim to
+Yeshayahu 35:1 and to Yirmiyahu 50:12, with *Yair Ohr* (maareches mem, os
+dalet); the Vilna Gaon to Hoshea 2:5; *Metzudas David* to Yirmiyahu 50:12; Radak
+and Ibn Janach, *Sefer HaShorashim* s.v. דבר, ערב, ציה; Menachem Ibn Saruk,
+*Machberes*; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah*;
 Rabbi Shlomo Pappenheim on the monoliteral צ; *Shoresh Yesha*; Rav Hirsch to
-Shemos 7:15 and Vayikra 23:40; *Vayikra Rabbah* 30:12; Tehillim 107:33-35;
-Yeshayahu 51:3. The article's closing remark on *Arav* is not carried over.
+Shemos 7:15 and Vayikra 23:40; *Vayikra Rabbah* 30:12; Tehillim 72:9,
+107:33-35; Yeshayahu 13:21, 23:13, 33:21, 34:14, 51:3; Yirmiyahu 50:39;
+Yechezkel 30:9; Daniel 11:30; the Wycliffe, Tyndale and King James Bibles. The
+column gives the people *Tziyim* at Yeshayahu 23:12; the word is in 23:13.

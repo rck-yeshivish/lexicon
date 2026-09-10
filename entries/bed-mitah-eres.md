@@ -132,15 +132,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Beds of the Righteous," What's in a Word?, Ohr
-Somayach, 9 Av 5779 (2019-08-10),
-https://articles.ohr.edu/articles/beds-of-the-righteous; raw text in
-`sources/whats-in-a-word/raw/8364-beds-of-the-righteous.md`. Primary loci cited:
-Devarim 3:11; Bamidbar 15:21; Tehillim 41:4; Mishlei 7:16; Berachos 37b; Kesubos
-103a; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and
-*Cheishek Shlomo*; *Sefer HeAruch*; *Emunas Chachamim*; *Kav HaYashar*; the
-Greek *kline* and *klino*. Everything in the Distinctions traces to the column,
-its Greek and English etymologies included; the Rendering guidance is this
-guide's own. One note on the article's wording: it renders Og's bed at Devarim
-3:11 as "nine handbreadths its length and four handbreadths its width," where
-the pasuk has *amos*, cubits, not *tefachim*.
+Rabbi Reuven Chaim Klein, "Beds of the Righteous," *What's in a Word?*, Ohr Somayach, 10 August 2019.
+
+Loci: Devarim 3:11; Bamidbar 15:21; Tehillim 41:4; Mishlei 7:16; Berachos 37b; Kesubos 103a; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheishek Shlomo*; *Sefer HeAruch*; *Emunas Chachamim*; *Kav HaYashar*.

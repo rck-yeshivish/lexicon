@@ -15,65 +15,92 @@ words:
 sources:
   - wiaw:8573 "Running on Willpower" (2020-01-25) https://articles.ohr.edu/articles/running-on-willpower
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Tzvi Yehuda Kook, Rabbi Aharon Yehuda Leib Margolios, Malbim, Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Leib Edel, Vilna Gaon, Targum Onkelos]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Will: ratzon / chefetz / tzvi
 
 ## Bottom line
 
-*Ratzon* is **will**: the wanting a man chooses with his mind, and so as a rule
-aimed at something good (Malbim). *Chefetz* is **desire**: the stronger, more
-concrete pull that comes unchosen and can fasten on what is bad for him; the
-majority (Rabbi Pappenheim, Rabbi Tzvi Yehuda Kook, Rabbi Margolios, Malbim)
-rank it the more intense of the two. *Tzvi* in the sense of wanting is
-**yearning**, a wanting that persists (Rabbi Pappenheim). Never swap them:
-*ratzon* is not "desire" and *chefetz* is not "will". Minority: Rabbi Edel reads
-the pair as means (*ratzon*) against final goal (*chefetz*); keep it in mind when
-a passage speaks of *retzon Hashem*.
+*Ratzon* is **will**; *chefetz* is **desire**. A number of commentators make
+*chefetz* the stronger, more physical desire and *ratzon* the subtler wish to
+do right: for Rabbi Shlomo Pappenheim the difference is intensity, for Rabbi
+Tzvi Yehuda Kook *chefetz* is stronger because more concrete, for Rabbi
+Margolios it is the animal drive against the innate wish to do good. Malbim
+makes *ratzon* the mind's chosen wanting, and so aimed at the good, and
+*chefetz* the soul's emotional pull that comes unchosen and can fasten on what
+is bad; Rabbi Avraham Bedersi disputes that *chefetz* is ever unchosen, since
+Hashem is called *chafetz*. Rabbi Yehuda Leib Edel offers a totally different
+axis: *ratzon* can name means as well as ends, *chefetz* only the final goal.
+*Tzvi* in the sense of wanting is **yearning**, a wanting that persists (Rabbi
+Pappenheim). Do not swap the English: *ratzon* is not "desire" and *chefetz* is
+not "will"; keep Rabbi Edel's axis in mind when a passage speaks of *retzon
+Hashem*.
 
 ## Distinctions
 
 ### ratzon (רצון)
-Root ר-צ-ה. Rabbi Aharon Marcus ties it to *ratz*, running: a man runs with more
-resolve toward what he wants; the Midrash (Bereishis Rabbah 5:8) folds *eretz*,
-*ratz* and *ratzon* into one idea, the Land running to do Hashem's will. Rabbi
-Pappenheim: *ratzon* is a plain "want", the milder of the pair. Malbim: *ratzon*
-is the mind's intellectual wanting, the exercise of free choice; since a man in
-his right mind does not choose what harms him, *ratzon* almost always names a
-good and noble wanting. The same word means appeasement, an attempt to sway
-another's free choice. Rabbi Margolios (*Beis Middos*): *ratzon* is the innate
-wish to do good. Rabbi Edel: *ratzon* covers both the means and the end, so the
-mitzvos, *retzon Hashem*, are means toward His ends (Makkos 3:16 on Yeshayahu
-42:21). Aramaic *raavon* (the tzadi becomes ayin); Targum Onkelos uses it for
-*chefetz* and *cheshek* alike (Bereishis 34:8, 34:19; Devarim 21:11, 21:14, 25:8).
+Root ר-צ-ה. Rabbi Aharon Marcus (1843 to 1916) ties it to *ratz*, running: a
+man runs with greater determination and resolve toward what he wants; the
+Midrash (Bereishis Rabbah 5:8) folds *eretz*, *ratz* and *ratzon* into one
+idea, the Land running to do Hashem's will until He told it to stop. Rabbi
+Pappenheim: *ratzon* is a simple "want," the milder of the pair. Malbim:
+*ratzon* is the mind's intellectual wanting, the exercise of free choice, and
+so usually positive; since a man in his right mind would never choose to want
+what is bad for him, *ratzon* always names a good and noble wanting. The same
+word means appeasement, an attempt to sway another's free choice. Rabbi
+Margolios (*Beis Middos*): *ratzon* is the innate desire to do good. Rabbi
+Edel: *ratzon* covers both the means to an end and the end itself. The column
+draws the consequence that the mitzvos, called *retzon Hashem*, would on his
+view be means to Hashem's ends, and finds the point in the Mishnah (Makkos
+3:16), where Rabbi Chananya ben Akashya cites Yeshayahu 42:21: Hashem's final
+will (*chefetz*), to give Yisrael merit, fuels His intermediate will (*ratzon*),
+the mitzvos. Aramaic *raavon* (the Hebrew tzadi commonly becomes an ayin);
+Targum Onkelos uses it for *cheshek* (Bereishis 34:8; Devarim 21:11) and
+*chefetz* (Bereishis 34:19; Devarim 21:14, 25:8).
 
 ### chefetz (חפץ)
 Root ח-פ-ץ. A number of commentators: the stronger, more physical desire, where
 *ratzon* is the subtler wish to do right. Rabbi Pappenheim: a strong-willed
-wanting that is not easily suppressed. Rabbi Tzvi Yehuda Kook: closer to
-perceivable reality and less abstract than *ratzon*; hence Mishnaic *chafetzim*
-for tangible objects (Rashi to Koheles 3:1). Rabbi Margolios: the animal, bodily
-drive; לעשות רצונך אלקי חפצתי (Tehillim 40:9) means the man has harnessed that
-drive to Hashem's will. Malbim: the soul's emotional desire, felt without being
-chosen, so it can want what is bad (Yeshayahu 66:3) and can block one's true
-*ratzon*, as with the brother who "does not want" (*chafetz*) to perform yibum
-(Devarim 25:7-8; Rus 3:13). Rabbi Bedersi objects: Scripture calls Hashem
-*chafetz* (Bamidbar 14:8; Yeshayahu 42:20, 53:10; Melachim I 10:9; Shmuel I
-15:22; Tehillim 147:10), and Hashem has no unchosen wants, so *chefetz* too must
-be a wanting within free choice. (The column defends Malbim: the word is borrowed
-from the human case.) Rabbi Edel: *chefetz* is the final goal itself; Hashem's
-*chefetz* to give Yisrael merit drives His *ratzon*, the mitzvos. The Vilna Gaon
-confines *chefetz* to desire for food (see the *taavah* / *chemdah* entry).
+wanting that cannot be as easily suppressed. Rabbi Tzvi Yehuda Kook (1891 to
+1982), similarly: stronger because closer to perceivable reality and less
+abstract than *ratzon*; hence Mishnaic *chafetzim* for all tangible objects
+(Rashi to Koheles 3:1). Rabbi Aharon Yehuda Leib Margolios of Frankfurt (d.
+1811), along similar lines: generally the animal, bodily drive; לעשות רצונך
+אלקי חפצתי (Tehillim 40:9) means the man has taken Hashem's will as something
+he wants on a behavioral level, harnessing that more powerful drive to it.
+Malbim: the soul's emotional desire, felt without consciously choosing it, so
+it can drive one to want what is bad (Yeshayahu 66:3) and can trump one's true
+*ratzon*, as with the brother whose emotions make him "not want" (*chafetz*) to
+perform yibum (Devarim 25:7-8; Rus 3:13).
+
+Rabbi Avraham Bedersi HaPenini (1230 to 1300) takes issue with those who, like
+Malbim, make *chefetz* an unchosen want: Tanach speaks of Hashem as *chafetz*
+(Bamidbar 14:8; Yeshayahu 42:21, 53:10; Melachim I 10:9; Tehillim 147:10;
+Shmuel I 15:22), and it is difficult, if not heretical, to say Hashem has a
+want He did not choose; so *chefetz* too must be a wanting within free choice.
+In Malbim's defense the column suggests that Tanach borrows the word from the
+human case, and that if Hashem wants something He perforce chooses to want it.
+
+Rabbi Yehuda Leib Edel (1760 to 1828) offers a totally different take:
+*chefetz* is the final goal itself, while *ratzon* can also name intermediate
+goals. The column's illustration: "I want to buy pizza" is a *ratzon*, a means;
+"I want to eat pizza," the final goal, is a *chefetz*. The column recalls from
+an earlier essay ("Deleterious Desires," June 2017) that for the Vilna Gaon
+*chefetz* refers specifically to food-related desires (see the *taavah* /
+*chemdah* entry).
 
 ### tzvi (צבי)
-Root צ-ב-ה. Rabbi Pappenheim derives it from "standing": the desirable thing
-stands before the mind continually, so *tzvi* is a lasting, even obsessive,
-yearning, as against a fleeting want. Rabbi Marcus: the deer is called *tzvi*
-because it runs, or because, being swift enough to escape, it is free to run
-after its heart's wants. In Aramaic *tzvei* is nearly synonymous with *ratzon*;
-Targum Onkelos renders *cheshek* (Devarim 7:7) and *chefetz* (Devarim 25:7) with
-it.
+Rabbi Pappenheim (1740 to 1814) derives *tzvi*, the desirable, from the root
+צ-ב, "standing": the desirable thing stays in one's thoughts as though
+constantly standing before him, so *tzvi* is a continuous, perhaps obsessive,
+yearning over an extended time, as against a fleeting want. Rabbi Marcus: the
+word was borrowed for the deer because deer run quickly, as *ratzon* is tied to
+running; alternatively, the column suggests, a deer is swift enough to escape
+capture and so free to run after its heart's wants. In Aramaic *tzvei* is
+nearly synonymous with *ratzon*: Targum Onkelos renders *cheshek* (Devarim 7:7)
+and *chefetz* (Devarim 25:7) with it, as it renders others of the same words
+with *raavon*.
 
 ## Rendering guidance
 
@@ -103,10 +130,12 @@ None yet.
 Rabbi Reuven Chaim Klein, "Running on Willpower," What's in a Word?, Ohr
 Somayach, 28 Teves 5780 (2020-01-25): raw text in
 `sources/whats-in-a-word/raw/8573-running-on-willpower.md`. Primary loci the
-article cites: Targum Onkelos to Bereishis 34:8, 34:19 and Devarim 7:7, 21:11,
+column cites: Targum Onkelos to Bereishis 34:8, 34:19 and Devarim 7:7, 21:11,
 21:14, 25:7-8; Bereishis Rabbah 5:8; Rashi to Koheles 3:1; Rabbi Margolios,
 *Beis Middos*, on Tehillim 40:9; Malbim on Yeshayahu 66:3 and Devarim 25:7-8,
-Rus 3:13; Bedersi's list of Hashem as *chafetz* (Bamidbar 14:8; Yeshayahu 42:20,
+Rus 3:13; Bedersi's list of Hashem as *chafetz* (Bamidbar 14:8; Yeshayahu 42:21,
 53:10; Melachim I 10:9; Tehillim 147:10; Shmuel I 15:22); Makkos 3:16 on
 Yeshayahu 42:21; the column's earlier "Deleterious Desires" (June 2017) for the
-Vilna Gaon on *chefetz*.
+Vilna Gaon on *chefetz*. The column prints Yeshayahu 42:20 in Bedersi's list;
+*chafetz* of Hashem is in 42:21. The archived text ends in a cut-off
+sponsorship line, but the essay itself is complete.

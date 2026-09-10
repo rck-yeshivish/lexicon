@@ -202,33 +202,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Ki Sisa: Awesome Balsam," What's in a Word?, Ohr
-Somayach, 18 Adar 5783 (2023-03-11); raw text at
-`sources/whats-in-a-word/raw/10824-ki-sisa-awesome-balsam.md`. Primary loci
-cited: Yechezkel 27:17; *Yossiphon* I ch. 38; Rashi to Yechezkel 27:17, Melachim
-II 20:13, Yeshayahu 39:2, *Berachos* 43a, Amos 6:6, Mishlei 27:9; Radak to
-Yechezkel 27:17 and *Sefer HaShorashim*; Zohar, *Bereishis* 47b, 235b, 245b-246b;
-Bereishis 37:25 and 43:11, Yirmiyahu 8:22, 46:11, 51:8; *Kerisus* 6a and
-*Yerushalmi Yoma* 4:5; Rambam, *Hilchos Klei HaMikdash* 2:4 and his commentary
-to *Sheviis* 7:6; Shemos 25:6 and 30:34 with Ramban, Rabbi Saadia Gaon and Rabbi
-Avraham Maimuni; *Bereishis Rabbah* 91:11, 39:1, 27:3, 30:8, 61:2; *Vayikra
-Rabbah* 16:1; *Eichah Rabbah* 4:18; *Megillah* 7b; *Horayos* 11b-12a, *Kerisus*
-5b, *Yerushalmi Shekalim* 6:1 and *Sotah* 8:3; *Shabbos* 26a, 62b, 140a; *Yoma*
-9b; *Avodah Zarah* 30a and *Yerushalmi Avodah Zarah* 3:1; *Taanis* 25a; *Bava
-Basra* 80b and *Rosh HaShanah* 23a; Divrei HaYamim I 25:3; Amos 7:14; Bereishis
-26:34, 36:3 and Melachim I 4:15 and Divrei HaYamim I 7:2 for the *bosem* names;
-Dr. Zohar Amar, *Tzimchei HaMikra*; Josephus, *Antiquities of the Jews* IV ch. 6
-and XIV ch. 4 and *War of the Jews* I ch. 6 and ch. 18; Marcus Jastrow; Dr.
-Richard C. Steiner; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Dr. Alexander
-Kohut, *HeAruch HaShaleim*; the *Oxford English Dictionary*.
+Rabbi Reuven Chaim Klein, "Ki Sisa: Awesome Balsam," *What's in a Word?*, Ohr Somayach, 11 March 2023.
 
-Citation corrections: Targum Onkelos on *tzari* is at Bereishis 37:25 and 43:11
-(the article prints "Ex. 37:25, 43:11"); Rashi on Rabban Shimon ben Gamliel is
-at Shemos 30:34 ("Ex. 39:34"); the *shemen hamishchah* passage is Shemos
-30:22-33 ("30:20-33"). The article also calls Yivsam of Divrei HaYamim I 7:2 one
-of David's warriors, where the pasuk lists him among the sons of Tola of
-Yissachar, counted in David's days.
-
-Everything in the Distinctions traces to the column, including its comparative
-and academic material, which is attributed here as the column attributes it. The
-Rendering guidance is this guide's own.
+Loci: Yechezkel 27:17; *Yossiphon* I ch. 38; Rashi to Yechezkel 27:17, Melachim II 20:13, Yeshayahu 39:2, *Berachos* 43a, Amos 6:6, Mishlei 27:9; Radak to Yechezkel 27:17 and *Sefer HaShorashim*; Zohar, *Bereishis* 47b, 235b, 245b-246b; Bereishis 37:25 and 43:11 with Targum Onkelos, Yirmiyahu 8:22, 46:11, 51:8; *Kerisus* 6a and *Yerushalmi Yoma* 4:5; Rambam, *Hilchos Klei HaMikdash* 2:4 and his commentary to *Sheviis* 7:6; Shemos 25:6 and 30:34 with Rashi, Ramban, Rabbi Saadia Gaon and Rabbi Avraham Maimuni; Shemos 30:22-33; *Bereishis Rabbah* 91:11, 39:1, 27:3, 30:8, 61:2; *Vayikra Rabbah* 16:1; *Eichah Rabbah* 4:18; *Megillah* 7b; *Horayos* 11b-12a, *Kerisus* 5b, *Yerushalmi Shekalim* 6:1 and *Sotah* 8:3; *Shabbos* 26a, 62b, 140a; *Yoma* 9b; *Avodah Zarah* 30a and *Yerushalmi Avodah Zarah* 3:1; *Taanis* 25a; *Bava Basra* 80b and *Rosh HaShanah* 23a; Divrei HaYamim I 25:3; Amos 7:14; Bereishis 26:34, 36:3; Melachim I 4:15; Divrei HaYamim I 7:2; Dr. Zohar Amar, *Tzimchei HaMikra*; Josephus, *Antiquities of the Jews* IV ch. 6 and XIV ch. 4 and *War of the Jews* I ch. 6 and ch. 18; Marcus Jastrow; Dr. Richard C. Steiner; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Dr. Alexander Kohut, *HeAruch HaShaleim*; the *Oxford English Dictionary*.

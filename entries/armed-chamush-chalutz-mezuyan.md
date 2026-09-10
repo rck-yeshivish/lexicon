@@ -197,29 +197,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bishalach: Armed and Ready," What's in a Word?, Ohr
-Somayach, 17 Shevat 5784 (2024-01-27): raw text in
-`sources/whats-in-a-word/raw/11613-bishalach-armed-and-ready.md`. Primary loci
-cited: Shemos 13:18 with *Mechilta d'Rabbi Yishmael*, Rashi, Ramban, *Torah
-Temimah* and Baal HaTurim; *Shemos Rabbah* 20:19; *Bamidbar Rabbah* 13:20;
-Yehoshua 1:14, 4:12 with Malbim, 6:7, 6:9, 6:13; Shoftim 7:11; Shmuel II 2:23,
-3:27, 4:6, 20:10 with Sanhedrin 49a; Bereishis 14:14, 41:34; Bamidbar 21:3 with
-Rashi, 31:3 with Ibn Ezra, 31:5, 32:21-32; Devarim 3:18, 23:14; Yeshayahu 15:4;
-Yirmiyahu 5:8; Yerushalmi *Shabbos* 6:4 with *Korban HaEidah* and Mishnah
-*Shabbos* 6:4; *Avos d'Rabbi Nosson* 29; *Yalkut Shimoni, Devarim* 534;
-*Vayikra Rabbah* 25:4; Shmuel II 23:26 and Divrei HaYamim I 2:39, 11:27, 27:10
-for the name Cheletz; Radak, *Sefer HaShorashim* s.v. חלץ; Ibn Janach, *Sefer
-HaShorashim*; Ibn Saruk, *Machberes Menachem*; *Otzar Nirdafim*
-22; *Ohel Moed*; *Sefer HaTishbi*; the *Aspaklaria* exchange between Rabbi
-Elimelech Bleiberg and Rabbi Itamar Habshush. Three citation notes: the article
-prints Gen. 41:43 for *v'chimesh*, which is Bereishis 41:34; it prints Deut.
-23:4 for *azeinecha*, which is Devarim 23:14; and in reporting Radak on
-*azeinecha* it prints "the initial ALEPH is radical to the root" where the
-sense plainly required is that the alef is *not* radical, since Radak's root
-there is ז-ו-ן. The Rendering guidance above is this guide's own; everything in
-the Distinctions traces to the column, including its comparative material
-(Gesenius on Arabic *hamas*, Ibn Janach on Arabic *chamus*, Rabbi Ernest Klein
-on the five-part formation, David Curwin at Balashon on the name Hamas, and
-David Assaf and Yisrael Bartel on the modern slang sense of *zayin*), and the
-columnist's own two conjectures (the five-fingered fist, and *chalutzim* as
-those who have drawn the weapon) are marked as his.
+Rabbi Reuven Chaim Klein, "Bishalach: Armed and Ready," *What's in a Word?*, Ohr Somayach, 27 January 2024.
+
+Loci: Shemos 13:18 with *Mechilta d'Rabbi Yishmael*, Rashi, Ramban, *Torah Temimah* and Baal HaTurim; *Shemos Rabbah* 20:19; *Bamidbar Rabbah* 13:20; Yehoshua 1:14, 4:12 with Malbim, 6:7, 6:9, 6:13; Shoftim 7:11; Shmuel II 2:23, 3:27, 4:6, 20:10 with Sanhedrin 49a; Bereishis 14:14, 41:34; Bamidbar 21:3 with Rashi, 31:3 with Ibn Ezra, 31:5, 32:21-32; Devarim 3:18, 23:14; Yeshayahu 15:4; Yirmiyahu 5:8; Yerushalmi *Shabbos* 6:4 with *Korban HaEidah* and Mishnah *Shabbos* 6:4; *Avos d'Rabbi Nosson* 29; *Yalkut Shimoni, Devarim* 534; *Vayikra Rabbah* 25:4; Shmuel II 23:26 and Divrei HaYamim I 2:39, 11:27, 27:10; Radak, *Sefer HaShorashim* s.v. חלץ; Ibn Janach, *Sefer HaShorashim*; Ibn Saruk, *Machberes Menachem*; *Otzar Nirdafim* 22; *Ohel Moed*; *Sefer HaTishbi*; the *Aspaklaria* exchange between Rabbi Elimelech Bleiberg and Rabbi Itamar Habshush; Gesenius; Rabbi Ernest Klein; David Curwin, *Balashon*; David Assaf and Yisrael Bartel.

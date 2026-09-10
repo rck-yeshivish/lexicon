@@ -143,19 +143,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Perfect Sacrifice," What's in a Word?, Ohr Somayach
-(2021-03-20), which is a rerun with edits of "Blemished Imperfections" (2020-05-09);
-raw text in `sources/whats-in-a-word/raw/9138-a-perfect-sacrifice.md` and
-`sources/whats-in-a-word/raw/8696-blemished-imperfections.md`. Primary loci:
-Bereishis 22:12, 30:31, 39:23, 45:26; Vayikra 21:16 to 23, 22:17 to 25; Devarim
-32:5; Melachim I 10:21; Mishlei 9:7; Iyov 31:7; Shir HaShirim 2:13; Daniel 1:4,
-3:5, 3:10, 3:15; *Rosh HaShanah* 23b; *Yoma* 70a; *Pesachim* 106a; *Kiddushin*
-10b; *Kesubos* 57b, 84a, and Mishnah *Kesubos* 3:4, 3:7, 5:3, 9:7 to 8;
-*Sanhedrin* 36b, 73a; *Avodah Zarah* 67a; *Chullin* 10a, 17a, and Mishnah
-*Chullin* 3:1; Mishnah *Keilim* 11:6; Mishnah *Bava Metzia* 1:8 and *Bava
-Metzia* 20a; Tosefta *Shevuos* 6:5; *Sefer HaAruch*; Rabbi Binyamin Mussafia;
-*Patshegen* (Rabbi Yaakov Dienna) on Targum Onkelos. The two articles are
-substantially the same essay; where they differ, "A Perfect Sacrifice" has "a
-certain category of rapist" against the earlier "a rapist," and drops "virginal"
-from the earlier guess at the instrument, leaving only "bagpipe." The entry keeps
-both guesses.
+Rabbi Reuven Chaim Klein, "A Perfect Sacrifice," *What's in a Word?*, Ohr Somayach, 20 March 2021.
+
+Rabbi Reuven Chaim Klein, "Blemished Imperfections," *What's in a Word?*, Ohr Somayach, 9 May 2020.
+
+Loci: Bereishis 22:12, 30:31, 39:23, 45:26; Vayikra 21:16 to 23, 22:17 to 25; Devarim 32:5; Melachim I 10:21; Mishlei 9:7; Iyov 31:7; Shir HaShirim 2:13; Daniel 1:4, 3:5, 3:10, 3:15; *Rosh HaShanah* 23b; *Yoma* 70a; *Pesachim* 106a; *Kiddushin* 10b; *Kesubos* 57b, 84a, and Mishnah *Kesubos* 3:4, 3:7, 5:3, 9:7 to 8; *Sanhedrin* 36b, 73a; *Avodah Zarah* 67a; *Chullin* 10a, 17a, and Mishnah *Chullin* 3:1; Mishnah *Keilim* 11:6; Mishnah *Bava Metzia* 1:8 and *Bava Metzia* 20a; Tosefta *Shevuos* 6:5; *Sefer HaAruch*; Rabbi Binyamin Mussafia; *Patshegen* of Rabbi Yaakov Dienna on Targum Onkelos.

@@ -196,8 +196,8 @@ with Rashi; Vayikra Rabbah 27:2 with *Matnos Kehunah*; Mishnah Kiddushin
 Mishnah there; the Targum to Yeshayahu 40:30; the Targum to Tehillim 148:12
 (some versions); Rabbi Eliyahu HaBachur, *Meturgeman*, and his introduction to
 *Sefer HaBachur*; Yevamos 3:5, 59b, 61b, 76a; Sanhedrin 51a; Temurah 29b-30a;
-Avos 2:4; Vayikra 26:9 with Rashi; Bereishis 24:31 (the article says Besuel
-speaks; in the pasuk it is Lavan); Rashi to Shemos 12:30; Taanis 4:8; Kesubos
+Avos 2:4; Vayikra 26:9 with Rashi; Bereishis 24:31 (the article has Besuel
+speaking; in the pasuk it is Lavan); Rashi to Shemos 12:30; Taanis 4:8; Kesubos
 10a; Sukkah 26b; Radak, *Sefer HaShorashim* s.v. ב-ח-ר; Rabbi Yehudah Aryeh of
 Carpentras, *Ohalei Yehudah*; *Shibbolei HaLeket* §140; Dr. Alexander Kohut,
 cited without a work named; Rabbi Dr. Ernest Klein, cited on *ravak* without a

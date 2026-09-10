@@ -114,16 +114,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Beauty of Adar," What's in a Word?, Ohr Somayach,
-2 Adar II 5778 (2018-02-17): raw text in
-`sources/whats-in-a-word/raw/7644-the-beauty-of-adar.md`. Primary loci the
-article cites: *Sefer HaKushyos* on the name Adar; Rabbi Shlomo of Urbino, *Ohel
-Moed*, the ten words for beauty; the Vilna Gaon's sun/moon analogy; Rashi to
-Shemos 34:34; Bamidbar 27:20 with Malbim; Bava Basra 75a with Rabbi Simcha
-Maimon; Sifrei to Devarim 33:17; Zevachim 102a; Divrei HaYamim I 29:25; Daniel
-11:20; Bereishis 37:2 with Rashi; Tehillim 104:1; Iyov 40:10; Mishlei 31:25;
-Eichah 1:6 with the Midrash on the exiles stripped at Adullam; Rav Hirsch on
-Hashem's *hod* and *hadar*; the Babylonian month-name Addaru. The Rendering
-guidance above is this guide's own; the Vilna Gaon's sun and moon, Rabbi Moshe
-Shapiro's Aramaic *hadar*, and Rabbi Mecklenburg citing Shadal are given as the
-column gives them.
+Rabbi Reuven Chaim Klein, "The Beauty of Adar," *What's in a Word?*, Ohr Somayach, 17 February 2018.
+
+Loci: *Sefer HaKushyos*; Rabbi Shlomo of Urbino, *Ohel Moed*; the Vilna Gaon; Rashi to Shemos 34:34; Bamidbar 27:20 with Malbim; Bava Basra 75a with Rabbi Simcha Maimon; *Sifrei* to Devarim 33:17; Zevachim 102a; Divrei HaYamim I 29:25; Daniel 11:20; Bereishis 37:2 with Rashi; Tehillim 104:1; Iyov 40:10; Mishlei 31:25; Eichah 1:6 with the Midrash; Rav Hirsch; Rabbi Moshe Shapiro; Rabbi Yaakov Tzvi Mecklenburg, citing Shadal.

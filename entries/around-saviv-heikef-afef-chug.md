@@ -109,12 +109,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Around in Concentric Circles," What's in a Word?, Ohr
-Somayach, 9 December 2017 / 21 Kislev 5778: raw text in
-`sources/whats-in-a-word/raw/7530-around-in-concentric-circles.md`. Primary loci
-cited: Shemos 13:18; Devarim 16:15, 21:20; Shmuel I 30:16 with Radak and *Sefer
-HeAruch*; Shmuel II 14:20; Yeshayahu 56:12; Mishlei 23:20; Tehillim 91:4, 116:3
-to 4 with Malbim; Iyov 15:10; Mishnah Taanis 3:8. Two citation notes: the
-article spells *heikef* inconsistently, including once as "haifek" (the word is
-היקף), and it prints Taanis 3:4 for the Choni HaMe'agel mishnah, which is Taanis
-3:8. The Rendering guidance above is this guide's own.
+Rabbi Reuven Chaim Klein, "Around in Concentric Circles," *What's in a Word?*, Ohr Somayach, 9 December 2017.
+
+Loci: Shemos 13:18; Devarim 16:15, 21:20; Shmuel I 30:16 with Radak and *Sefer HeAruch*; Shmuel II 14:20; Yeshayahu 56:12; Mishlei 23:20; Tehillim 91:4, 116:3 to 4 with Malbim; Iyov 15:10; Mishnah Taanis 3:8.

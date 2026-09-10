@@ -192,15 +192,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayakhel/Pekudei: Animal Sounds," What's in a Word?,
-Ohr Somayach, 29 Adar 5781 (2021-03-13): raw text in
-`sources/whats-in-a-word/raw/9126-vayakhelpekudei-animal-sounds.md`. Primary
-loci: Donash Ibn Labrat's response to Menachem Ibn Saruk, lines 82 to 83;
-*Machberes Menachem* s.v. ג-ע; Rashi to Yeshayahu 8:19 and 29:4, Yoel 1:20,
-Tehillim 42:2, Mishlei 28:15, Iyov 6:5, Chullin 53a and 79a, Sotah 42a,
-Sanhedrin 102a, Berachos 32a; *Sefer HaAruch* s.v. נער; Vilna Gaon to Mishlei
-28:15; Rav Hirsch to Devarim 25:18; Berachos 3a; *Targum Sheini* to Esther 1:2;
-*Tosefta D'Targum* to Melachim I 10:20; Yechezkel 21:20 for *avchas cherev* (the
-article gives 21:2). Rabbi Aharon Marcus's comparison of *behemah* to the Latin,
-Greek, Old Irish and Slavic words for cattle is the article's own and is reported
-here as it reports it.
+Rabbi Reuven Chaim Klein, "Vayakhel/Pekudei: Animal Sounds," *What's in a Word?*, Ohr Somayach, 13 March 2021.
+
+Loci: Donash Ibn Labrat's response to Menachem Ibn Saruk, lines 82 to 83; *Machberes Menachem* s.v. ג-ע; Rashi to Yeshayahu 8:19 and 29:4, Yoel 1:20, Tehillim 42:2, Mishlei 28:15, Iyov 6:5, Chullin 53a and 79a, Sotah 42a, Sanhedrin 102a, Berachos 32a; *Sefer HaAruch* s.v. נער; Vilna Gaon to Mishlei 28:15; Rav Hirsch to Devarim 25:18; Berachos 3a; *Targum Sheini* to Esther 1:2; Yechezkel 21:20; Rabbi Aharon Marcus.

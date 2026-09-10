@@ -109,12 +109,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Angels and Agents," What's in a Word?, Ohr
-Somayach, 14 Kislev 5778 (2017-12-02): raw text in
-`sources/whats-in-a-word/raw/7512-angels-and-agents.md`. Primary loci the
-article cites: Bereishis 32:4 with Bereishis Rabbah 75:4 and Rashi; Radak,
-*Sefer HaShorashim* s.v. לאך; Rambam, Moreh Nevuchim 2:6; Ralbag on Tanach
-passim; Vilna Gaon to Mishlei 13:17. Bereishis 32:4 is the Hebrew numbering,
-which the article uses; in English Bibles it is Genesis 32:3. The Ugaritic
-evidence for Radak's root and the Modern Hebrew senses of *shagrir* and *shadar*
-are the article's own and are reported here as it reports them.
+Rabbi Reuven Chaim Klein, "Angels and Agents," *What's in a Word?*, Ohr Somayach, 2 December 2017.
+
+Loci: Bereishis 32:4 with *Bereishis Rabbah* 75:4 and Rashi; Radak, *Sefer HaShorashim* s.v. לאך; Rambam, *Moreh Nevuchim* 2:6; Ralbag on Tanach passim; Vilna Gaon to Mishlei 13:17.

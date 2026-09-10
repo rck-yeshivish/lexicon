@@ -81,12 +81,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Just Because," What's in a Word?, Ohr Somayach, 1
-Shevat 5777 (2017-01-28), https://articles.ohr.edu/articles/just-because; raw
-text in `sources/whats-in-a-word/raw/7110-just-because.md`. Primary loci: Shemos
-9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43. The
-two parent-visiting sentences are the article's own illustration. The Rendering
-guidance above is this guide's own; everything in the Distinctions traces to the
-column, which cites Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and the
-Malbim together for the *baavur*/*biglal* distinction and gives no other
-authority for it.
+Rabbi Reuven Chaim Klein, "Just Because," *What's in a Word?*, Ohr Somayach, 28 January 2017.
+
+Loci: Shemos 9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43; Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and Malbim.

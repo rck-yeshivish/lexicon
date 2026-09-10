@@ -150,26 +150,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Basket Case," What's in a Word?, Ohr Somayach,
-16 Elul 5780 (2020-09-05) and again 21 Elul 5782 (2022-09-17):
-https://articles.ohr.edu/articles/a-basket-case and
-https://articles.ohr.edu/articles/a-basket-case-2; raw texts in
-`sources/whats-in-a-word/raw/8846-a-basket-case.md` and
-`.../10020-a-basket-case-2.md`. The two are the same article, republished; the
-second carries no new material. Primary loci cited: Bereishis 40:16, 47:12;
-Vayikra 8:2; Bamidbar 19:20, 33:55; Devarim 26:2, 26:4, 28:5, 28:17; Shoftim
-6:19; Shmuel I 2:14; Yirmiyahu 5:27, 6:9, 24:1-2; Amos 4:2, 8:1; Tehillim 3:3;
-Mishlei 7:16, 22:5; Divrei HaYamim II 35:13; Rosh Hashanah 26b; Chullin 32b,
-53b, 57a; Shabbos 5a, 53a, 90b; Eruvin 33b; Sotah 10a; Bava Basra 33b, 85b,
-126b; Kesubos 72b, 82b; Bava Metzia 9b; Gittin
-77a; Pesachim 88a; Mishnah Peah 7:3, Demai 7:6, Terumos 4:6, Maasros 1:5 and
-4:2, Shabbos 2:2, 20:3 and 21:1, Eruvin 3:8, Sotah 2:1 and 3:1, Kiddushin 2:7,
-Keilim 16:2, 22:9 and 26:1; Dr. Chaim Tawil on Akkadian *sallu*.
+Rabbi Reuven Chaim Klein, "A Basket Case," *What's in a Word?*, Ohr Somayach, 5 September 2020.
 
-Two notes on the article's own wording. It prints the Mishnah tractate Demai as
-*Dema*. And in reporting Rabbi Pappenheim on *tene* it says "the letter ALEPH of
-*tene* is a radical, while its actual root is just TET-NUN," where the sense
-plainly required is that the aleph is *not* a radical, since the root given is
-ט-נ. The Rendering guidance above is this guide's own; everything in the
-Distinctions traces to the column, its Akkadian and Egyptian etymologies
-included.
+Rabbi Reuven Chaim Klein, "A Basket Case," *What's in a Word?*, Ohr Somayach, 17 September 2022.
+
+Loci: Bereishis 40:16, 47:12; Vayikra 8:2; Bamidbar 19:20, 33:55; Devarim 26:2, 26:4, 28:5, 28:17; Shoftim 6:19; Shmuel I 2:14; Yirmiyahu 5:27, 6:9, 24:1-2; Amos 4:2, 8:1; Tehillim 3:3; Mishlei 7:16, 22:5; Divrei HaYamim II 35:13; Rosh Hashanah 26b; Chullin 32b, 53b, 57a; Shabbos 5a, 53a, 90b; Eruvin 33b; Sotah 10a; Bava Basra 33b, 85b, 126b; Kesubos 72b, 82b; Bava Metzia 9b; Gittin 77a; Pesachim 88a; Mishnah Peah 7:3, Demai 7:6, Terumos 4:6, Maasros 1:5 and 4:2, Shabbos 2:2, 20:3 and 21:1, Eruvin 3:8, Sotah 2:1 and 3:1, Kiddushin 2:7, Keilim 16:2, 22:9 and 26:1; Dr. Chaim Tawil.

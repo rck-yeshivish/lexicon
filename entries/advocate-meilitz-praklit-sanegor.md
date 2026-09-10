@@ -144,8 +144,8 @@ prepares grain for brewing.)
 
 ## Rendering guidance
 
-- *Meilitz yosher* in a mussar or tefillah context: "defending advocate" or
-  "advocate for good," never "translator," which belongs only to Bereishis 42:23.
+- *Meilitz yosher*: "defending advocate" or "advocate for good," never
+  "translator," which belongs only to Bereishis 42:23.
 - Where *praklit* and *sanegor* stand in one passage, render *praklit*
   "intercessor" or "character witness" and *sanegor* "defense counsel." English
   "advocate" will otherwise swallow both.
@@ -165,17 +165,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Calling the Defender - Vayelech / Yom Kippur," What's
-in a Word?, Ohr Somayach, 5 Tishrei 5782 (2021-09-11):
-https://articles.ohr.edu/articles/calling-the-defender-vayelech-yom-kippur; raw
-text in `sources/whats-in-a-word/raw/9368-calling-the-defender-vayelech-yom-kippur.md`.
-Primary loci: *Avos* 4:11; Bereishis 42:23; Iyov 33:23-24 and 16:20 with Targum;
-*Shabbos* 32a; *Bava Basra* 10a; *Zevachim* 7b with Tosefta *Parah* 1:1 and
-*Toras Kohanim* to Vayikra 14:20; *Rosh Hashanah* 36a and 26a, Yerushalmi *Rosh
-Hashanah* 3:2 and *Yoma* 7:3; *Chagigah* 13b; *Kiddushin* 5a; Daniel 1:11 and
-1:16; Tehillim 119:103 with Rav Hirsch; *Demai* 5:4 and *Avodah Zarah* 4:9;
-*Sefer Kushyot* 346; *Sefer HaTishbi*; *Melechet Shlomo* and MS Kaufmann to
-*Avos* 4:11. The Greek and Akkadian etymologies, the *Encyclopedia Britannica*
-material on Aristotle and *kategoria*, and Dr. Chaim Tawil's derivation of
-*meltzar* are all the article's own and are reported here as it reports them.
-Loci follow the article's numbering.
+Rabbi Reuven Chaim Klein, "Calling the Defender - Vayelech / Yom Kippur," *What's in a Word?*, Ohr Somayach, 11 September 2021.
+
+Loci: *Avos* 4:11 with *Melechet Shlomo* and MS Kaufmann; Bereishis 42:23; Iyov 33:23-24 and 16:20 with Targum; *Shabbos* 32a; *Bava Basra* 10a; *Zevachim* 7b with Tosefta *Parah* 1:1 and *Toras Kohanim* to Vayikra 14:20; *Rosh Hashanah* 36a and 26a, Yerushalmi *Rosh Hashanah* 3:2 and *Yoma* 7:3; *Chagigah* 13b; *Kiddushin* 5a; Daniel 1:11 and 1:16; Tehillim 119:103 with Rav Hirsch; *Demai* 5:4 and *Avodah Zarah* 4:9; *Sefer Kushyot* 346; *Sefer HaTishbi*; *Encyclopedia Britannica*; Dr. Chaim Tawil.

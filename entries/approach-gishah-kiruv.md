@@ -136,16 +136,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayigash: Coming Close," What's in a Word?, Ohr
-Somayach, 11 Teves 5781 (2020-12-26): raw text in
-`sources/whats-in-a-word/raw/8980-vayigash-coming-close.md`. The article cites the
-clod of earth as Iyov 7:50; Iyov 7 has no such pasuk, and the word is at Iyov 7:5.
-Primary loci: Bereishis 18:23, 20:4, 44:18; Shemos 19:15, 21:25, 22:7; Vayikra
-1:2, 2:8, 18:6, 22:3; Devarim 22:14, 25:1; Yeshayahu 8:3, 59:10; Malachi 3:5;
-Tehillim 32:9; Iyov 7:5; Bava Kama 116b; Bava Metzia 79b; Rav Hirsch to Vayikra
-21:17; Ramban to *Sefer HaMitzvos*, lo saaseh 353; Abarbanel to *Moreh Nevuchim*
-1:18; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Ohalei Yehuda*. The two
-readings of Yehudah's *vayigash*, that he came up close and personal and possibly
-in a threatening way, and that he acted deliberately as a further step in his
-campaign, are both the column's own inferences, marked in it as what "it seems,"
-and are given as such above.
+Rabbi Reuven Chaim Klein, "Vayigash: Coming Close," *What's in a Word?*, Ohr Somayach, 26 December 2020.
+
+Loci: Bereishis 18:23, 20:4, 44:18; Shemos 19:15, 21:25, 22:7; Vayikra 1:2, 2:8, 18:6, 22:3; Devarim 22:14, 25:1; Yeshayahu 8:3, 59:10; Malachi 3:5; Tehillim 32:9; Iyov 7:5; Bava Kama 116b; Bava Metzia 79b; Rav Hirsch to Vayikra 21:17; Ramban to *Sefer HaMitzvos*, lo saaseh 353; Abarbanel to *Moreh Nevuchim* 1:18; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Ohalei Yehuda*.

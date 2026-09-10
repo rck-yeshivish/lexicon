@@ -82,12 +82,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Don't be a Behemah or a Chayah!", What's in a Word?,
-Ohr Somayach, 11 Cheshvan 5777 (2016-11-12):
-`sources/whats-in-a-word/raw/6999-dont-be-a-behemah-or-a-chayah.md`. Primary
-loci and authorities the article cites: Ibn Ezra and Radak on the domesticated
-versus wild distinction; Ramban on herbivore versus carnivore; the Netziv's
-objection from Bava Kamma 19b; Rabbi Chaim Kanievsky's answer, in a letter to
-Rabbi Chaim Tzvi Lehrfeld. The halachos assumed are the prohibition of *cheilev*
-in a *behemah* and the mitzvah of *kisui hadam* in a *chayah* and a bird; the
-article does not give chapter and verse for either.
+Rabbi Reuven Chaim Klein, "Don't be a Behemah or a Chayah!" *What's in a Word?*, Ohr Somayach, 12 November 2016.
+
+Loci: Ibn Ezra and Radak; Ramban; the Netziv, from Bava Kamma 19b; Rabbi Chaim Kanievsky, letter to Rabbi Chaim Tzvi Lehrfeld.

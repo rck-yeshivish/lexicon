@@ -142,18 +142,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Stones and High Altars," What's in a Word?, Ohr
-Somayach, 7 Kislev 5778 (2017-11-25): raw text in
-`sources/whats-in-a-word/raw/7499-stones-and-high-altars.md`. Primary loci the
-article cites: Shemos 27:1-2 and 30:2; Devarim 12:5-18 and 16:22; Bereishis
-28:18-22 and 31:45; Bamidbar 17:11-15; *Sifrei* to Devarim 16 (the article prints
-"Deut. 16:2"; the *matzeivah* verse under discussion is 16:22); Zohar *Vayakhel*
-219a; Radak, *Sefer HaShorashim*; Mishnah *Zevachim* 14:6.
+Rabbi Reuven Chaim Klein, "Stones and High Altars," *What's in a Word?*, Ohr Somayach, 25 November 2017.
 
-Two loci to watch. For Hashem identifying Himself to Yaakov as the One for whom
-the Beis El *matzeivah* was set up, the article gives Bereishis 31:45; that verse
-is Yaakov raising a stone at Gal-Ed with Lavan, and the verse that carries the
-claim is Bereishis 31:13, "*Anochi ha'Kel Beis El asher mashachta sham
-matzeivah*." The entry uses 31:13 and flags the article's form. Bamidbar 17:11-15
-for Aharon and the incense is the Hebrew numbering, which the article uses; in
-English Bibles it is Numbers 16:46-50.
+Loci: Shemos 27:1-2 and 30:2; Devarim 12:5-18 and 16:22; Bereishis 28:18-22 and 31:13; Bamidbar 17:11-15; *Sifrei* to Devarim 16:22; Zohar *Vayakhel* 219a; Radak, *Sefer HaShorashim*; Mishnah *Zevachim* 14:6.
