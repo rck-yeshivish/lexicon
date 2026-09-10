@@ -80,8 +80,12 @@ def check(p):
     if re.search(r"<[^>]{3,}>", body):
         errs.append("template placeholder left in body")
     n = t.count("\n")
-    if n < 30 or n > 340:
-        errs.append(f"length {n} lines (hard limit 30..340)")
+    # Median is 146 lines, p90 is 212. The hard cap is a runaway detector, not
+    # a target: an entry earns its length from the essay behind it, and the
+    # verification pass has been raising these as restored material lands.
+    # 500 sits well clear of the longest real entry so it stops moving.
+    if n < 30 or n > 500:
+        errs.append(f"length {n} lines (hard limit 30..500)")
     elif n > 140:
         warn.append(f"length {n} lines (guidance is 140)")
     bl = re.search(r"## Bottom line\s*\n(.*?)\n## ", body, re.S)

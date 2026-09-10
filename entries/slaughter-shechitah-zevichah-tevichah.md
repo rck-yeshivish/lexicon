@@ -8,8 +8,8 @@ domain: action
 sources:
   - wiaw:8023 "Slaughtering and Butchering" (2018-12-08) https://articles.ohr.edu/articles/slaughtering-and-butchering
 authorities: [Malbim, Ralbag, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Yonah ibn Janach, Rashi, Ibn Ezra, Ramban, Targum Onkelos]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Slaughter: shechitah / zevichah / tevichah (tabach)
 
@@ -18,10 +18,12 @@ updated: 2026-09-09
 *Shechitah* is **ritual slaughter** in the halachic sense, and by Rabbi Shlomo
 Pappenheim's reading it is also the **general word for putting a living thing to
 death**. *Zevichah* is slaughter **for a purpose**, above all **sacrificial
-slaughter**. *Tevichah* is slaughter **for eating**, plain **butchering**, with
-no ritual sense at all. The trap is that English "slaughter" swallows all three;
-where a pasuk turns on the difference, name the purpose (sacrifice, food) rather
-than repeat the same verb.
+slaughter**. *Tevichah* is slaughter **for eating**, killing an animal for food
+in a general way, even outside the frame of ritual slaughter. Rabbi Yonah ibn
+Janach dissents on that last word entirely and reads *tevichah* as **cooking**.
+The trap is that English "slaughter" swallows all three; where a pasuk turns on
+the difference, name the purpose (sacrifice, food) rather than repeat the same
+verb.
 
 ## Distinctions
 
@@ -40,22 +42,30 @@ say Hashem "slaughtered them (*vayishchatem*) in the wilderness" (Bamidbar
 Root ז-ב-ח. Malbim: slaughtering with a stated purpose, whether a ritual
 korban or meat for a festive gathering. Rabbi Shlomo Pappenheim narrows it:
 *zevichah* is a species of *shechitah*, killing for the purpose of sacrifice.
-Ralbag holds two positions in two places: to Devarim 12:21 he says *zevichah*
-does not necessarily name the same act as *shechitah* and can include *nechirah*
-(stabbing), which is halachically invalid (see Targum Yonasan to Bamidbar
-22:40); to Vayikra 1:1 he calls *shechitah* and *zevichah* outright synonyms.
+Ralbag, who the article notes does not offer full definitions of these words,
+stands in two places: to Devarim 12:21 he says *zevichah* does not *per force*
+name the same act as *shechitah* and can also include *nechirah* (stabbing),
+which is a halachically unacceptable way of killing (see Targum Yonasan to
+Bamidbar 22:40); to Vayikra 1:1 he writes that *shechitah* and *zevichah* are in
+fact synonyms.
 
 ### tevichah (טביחה)
-Root ט-ב-ח. Malbim: killing an animal for food in a general way, outside the
-frame of ritual slaughter. Rabbi Shlomo Pappenheim agrees: like *zevichah* it is
-a kind of *shechitah* defined by its reason, here ordinary human consumption.
-The word is rare in Chumash: *u'tevoach tevach* at Yosef's banquet (Bereishis
-43:16), the thief who slaughters the animal he stole (Shemos 21:37), and the
-curse "your ox will be slaughtered (*tavuach*) before your eyes" (Devarim
-28:31). Rabbi Shlomo Aharon Wertheimer (1866-1935) uses the sense to explain the
-thief: precisely because *tevichah* means killing to eat, the Torah blocks the
-excuse that he only wanted the meat and not a profit, and the fourfold or
-fivefold payment stands.
+Root ט-ב-ח. Malbim argues that it is killing an animal for food in a general
+way, even outside the context of ritual slaughtering. Rabbi Shlomo Pappenheim
+agrees that it is a kind of *shechitah* defined by its reason, here ordinary
+human consumption. The word appears three times in Chumash: *u'tevoach tevach*
+at Yosef's banquet (Bereishis 43:16), the thief who slaughters the animal he
+stole (Shemos 21:37), and the curse "your ox will be slaughtered (*tavuach*)
+before your eyes, and you will not eat from it" (Devarim 28:31); the article
+notes that basically all other instances in Tanach fall outside the Chumash.
+The ordinary thief repays double (Shemos 22:3), but one who slaughtered or sold
+the stolen animal pays four times its value for ovacaprines and five for
+bovines. Rabbi Shlomo Aharon Wertheimer (1866-1935) uses the sense of *tevichah*
+to explain why the Torah chose that word there: without it one might have thought
+the penalty falls only on a thief who slaughtered the animal for no good reason
+or to anger its owner, and that a thief who slaughtered it to eat the meat rather
+than to make a profit could excuse himself. The word blocks the excuse, and the
+fourfold or fivefold payment stands.
 
 Rabbi Yonah ibn Janach (990-1050), cited by Wertheimer, dissents on the word
 entirely: *tevichah* means **cooking** (compare Arabic *tovech*), so Yosef told
@@ -65,20 +75,26 @@ rabbinic sources *tevichah* plainly means slaughtering. Both senses survive in
 slaughtered) or a cook; Modern Hebrew *mitbach* is a kitchen.
 
 ### tabach (טבח) as a title
-Potiphar is *sar ha'tabachim* (Bereishis 37:36) and Nevuzaradan *rav
-ha'tabachim* (Melachim II, Yirmiyahu). Rashi to Bereishis 37:36: Potiphar was in
-charge of those who slaughtered the king's animals. Ibn Ezra and Ramban follow
-Targum Onkelos: he was Chief Executioner, or chief warden over those condemned
-to death, which also fits Nevuzaradan. The link is plain, an executioner slays
-men as a slaughterer slays beasts. Ibn Ezra to Daniel 2:14 says instead that
-Potiphar was Pharaoh's Chief Cook, which reads against his own comment on
-Bereishis.
+Two occupations in Tanach are described with *tevichah*-related words: Potiphar,
+the Egyptian courtier to whom Yosef was sold, is *sar ha'tabachim* ("minister of
+*tabachim*," Bereishis 37:36), and Nevuzaradan, the Babylonian general who
+destroyed the first Beis HaMikdash, is *rav ha'tabachim* ("chief of
+*tabachim*," Melachim II and Yirmiyahu). Rashi to Bereishis 37:36: Potiphar was
+in charge of all those who slaughtered the king's animals. Ibn Ezra and Ramban
+follow Targum Onkelos: he was Chief Executioner, or at least chief warden over
+those on death row, which seems also to be the meaning of Nevuzaradan's title.
+The link is plain, an executioner slays men as a slaughterer slays beasts. Ibn
+Ezra to Daniel 2:14 says instead that Potiphar was Pharaoh's Chief Cook, so, as
+the article puts it, he seems to contradict himself.
 
-The article notes a possible sound-link between *zevichah* and *tevichah*: the
-roots share BEIS-CHES, Hebrew *zevichah* appears in Aramaic as *devichah*, and
-dalet interchanges with tes. Hence the dispute in Pesachim 17a over the Mishnah
-in Eduyos 8:4, whether it speaks of *beis mitbachaya* (the Mikdash's
-slaughter-house) or *beis midbachaya* (its sacrifice house).
+The article notes that there might be an etymological link between *zevichah*
+and *tevichah*: the two differ only in the first letter of the root and share
+BEIS-CHES at the end, Hebrew *zevichah* is rendered in Aramaic as *devichah*
+with zayin morphing into dalet, and dalet is sometimes interchangeable with tes.
+It is therefore understandable that when the Mishnah (Eduyos 8:4) declares that
+liquids in the Mikdash are ritually pure, Pesachim 17a disputes whether this
+applies to *beis mitbachaya* (the Mikdash's slaughter-house) or *beis
+midbachaya* (its sacrifice house).
 
 ## Rendering guidance
 
@@ -111,5 +127,5 @@ Bamidbar 14:16, 22:40 (Targum Yonasan); Devarim 12:21 (Ralbag), 28:31; Daniel
 2:14 (Ibn Ezra); Chullin 17a; Pesachim 17a; Eduyos 8:4. The article prints the
 thief's fourfold and fivefold payment at Ex. 21:37, which is Shemos 21:37 in the
 Hebrew numbering, and the twofold payment at Ex. 22:3, printed as Shemos 22:3.
-The article's Arabic cognate for *tevichah* is reported as Rabbi Yonah ibn
-Janach's own argument, not adopted here.
+For Nevuzaradan's title the article cites "II Kings and Jer." without chapter and
+verse.

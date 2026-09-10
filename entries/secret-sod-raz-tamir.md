@@ -10,16 +10,17 @@ words:
     nk: סֵתֶר
 sources:
   - wiaw:10130 "Sukkos - Bereishis - Revealing the Secret" (2022-10-08) https://articles.ohr.edu/articles/sukkos-bereishis-revealing-the-secret
-authorities: [Ibn Janach, Radak, Rav Hirsch, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Malbim, Rabbi Avi Kobernick, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Targum, Chida, Rabbi Dov Kook, Chassidei Ashkenaz]
-status: draft
-updated: 2026-09-09
+authorities: [Ibn Janach, Radak, Rav Hirsch, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Malbim, Rabbi Avi Kobernick, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Targum, Chida, Rabbi Dov Kook, Chassidei Ashkenaz, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Elazar Lipa Gartenhaus, Academy of the Hebrew Language]
+status: reviewed
+updated: 2026-09-10
 ---
 # Secret: sod / raz / tamir (kamus, dvar seter)
 
 ## Bottom line
 
 *Sod* in Tanach is **counsel** or **council** (the circle of advisors and the
-advice they give: Radak, uniting Ibn Janach's two senses); only in Chazal does
+advice they give: Radak, who disagrees with Ibn Janach's split into two distinct
+senses and holds the two are really one); only in Chazal does
 it become **secret**, the confidence shared with a few. The Biblical word for a
 secret proper is *dvar seter*, **a hidden matter** (Pappenheim). *Kamus* is
 **stored away, sealed up** (Devarim 32:34, once only): classified information.
@@ -32,56 +33,142 @@ it is "secret."
 ## Distinctions
 
 ### sod (סוד)
-Root ס-ו-ד (Ibn Janach, Radak) or the biliteral SAMECH-DALET (Ibn Saruk,
-Pappenheim). Ibn Janach (*Sefer HaShorashim*): two senses, a gathering of
-people (Amos 3:7, Hashem reveals His *sod* to the prophets) and advice
-(Mishlei 15:22, plans fail without *sod*). Radak (*Shorashim*): one sense, the
-council one takes counsel from, like English "counsel/council." Hence the
-piyut rubric *misod chachamim u'nevonim* means "from the counsel of the
-sages," not from any secret. The Rabbinic sense follows: only intimates hear
-one's plans, so *sod* became confidential matter (Eruvin 65a, "wine in, *sod*
-out"; Pesachim 49b; Chagigah 14a; Yevamos 63b), and *sod ha'ibbur* (Rosh
-HaShanah 20b) is calendar lore taught in *remazim* (Rashi). Rav Hirsch (to
-Bereishis 49:6): SAMECH/ZAYIN/TZADI-VAV-DALET all mean a plan fomenting in the
-depths of thought: *nazid* the simmering dish, *meizid* the premeditated act,
-*tzad* the trap carried out, *sod* the plan shared for consultation.
-Pappenheim: SAMECH-DALET is "foundation" (*yesod*); the axioms are *yesodos*
-and the less-apparent conclusions drawn from them are *sodos*, confined to
-one's own mind or a small circle. Rabbi Yaakov Tzvi Mecklenburg starts instead
-from *sad*, the prisoner's fetter (Iyov 13:27): a *sod* is information "tied
-down" so it cannot escape, and a council is a body tied together.
+More than twenty times in Tanach, and in none of them quite the "secret" of
+modern usage. Root ס-ו-ד (Ibn Janach, Radak) or the biliteral SAMECH-DALET (Ibn
+Saruk, Pappenheim). Ibn Janach (*Sefer HaShorashim*): two distinct senses, a
+gathering of people (Amos 3:7, Hashem does nothing without revealing His *sod*
+to His servants the prophets) and advice
+(Mishlei 15:22, plans are cancelled without *sod*). Radak (*Shorashim*)
+disagrees with that formulation and holds the two are really one: the *sod* is
+the council one takes counsel from, on the model of English "counsel/council."
+Hence the piyut rubric *misod chachamim u'nevonim* means "from the counsel of
+the earlier sages" who recommended adding the poetic compositions, not from any
+untold secret. The Rabbinic sense follows: only one's closest advisors are privy
+to one's innermost plans, so *sod* expanded to mean any restricted or
+confidential matter (Eruvin 65a and Sanhedrin 38a, "when the wine enters, the
+*sod* comes out"; Pesachim 49b, one of six things said of an ignoramus is that
+one should not reveal one's *sod* to him; Chagigah 14a, Hashem will reveal the
+*sod* in the World to Come to Torah scholars who deprive themselves of sleep in
+this one; Yevamos 63b, reveal your *sod* to one in a thousand), and *sod
+ha'ibbur* (Rosh HaShanah 20b, Kesubos 112a) is calendar lore taught in *remazim*
+(Rashi to Rosh HaShanah 20b). Rav Hirsch (to
+Bereishis 49:6): SAMECH/ZAYIN/TZADI-VAV-DALET, linked by the interchange of
+samech, zayin and tzadi, all mean a plan fomenting in the
+depths of thought: *nazid* the dish left to cook (Bereishis 25:29, Melachim II
+4:38), the longer on the flame the more developed; *meizid* the premeditated
+act cooked up in the mind beforehand;
+*tzad* the trap carried out; *sod* the plan shared with others for mutual
+consultation.
+
+Pappenheim: SAMECH-DALET is "foundation," most obviously *yesod* and *mossad*;
+in the abstract a *yesod* is an axiomatic given of intellectual discourse, and
+the less-apparent conclusions drawn from those *yesodos* are *sodos*. He adds
+that *sod* may also name whatever tools one uses to draw those conclusions,
+whether wise advisors or one's own reasoning, and since such conclusions are
+usually confined to one's own mind or at most to a small group of counselors
+they come to be thought of as secretive. Under the same root he puts the
+Mishnaic *sadan*, the trunk of a tree, the main branch from which it grows
+(Kilayim 1:8, 6:4; Shabbos 12:1; Bava Basra 4:9; Sanhedrin 7:3); *sadin*,
+bedding or linen, four times in Tanach (Shoftim 14:12-13, Yeshayahu 3:23,
+Mishlei 31:24), the sheet spread on a bed as the foundation for body, pillow
+and blanket; *sadeh*, a field, the most fundamental unit of topographical and
+agricultural space, as against anomalous mountains and hills and outlying
+barren land; and from *sadeh* the word *sid*, plaster, made by burning stones
+found in the field.
+
+The Biblical *sad* is literally the ropes and chains that tie down a prisoner
+(Iyov 13:27, 33:11). Pappenheim, following Rashi to Iyov 13:27, takes it as the
+tree trunks prisoners were tied to, and relates *sadan* to it. Rabbi Yaakov Tzvi
+Mecklenburg goes the other way and makes the tying sense the core of
+SAMECH-DALET: a *sod* as a secret is information tied down so it cannot escape
+its purview, and a *sod* as a council is a body of men tied together in a common
+advisory role.
 
 ### dvar seter (דבר סתר) and kamus (כמוס)
-Pappenheim: the true Biblical "secret" is *dvar seter*, Ehud's "hidden matter"
-for Eglon (Shoftim 3:19), from SAMECH-TAV-REISH, hiding. *Kamus*, KAF-MEM-
-SAMECH, is a hapax: "Is it not *kamus* with Me, sealed in My storehouses"
-(Devarim 32:34), what Hashem alone knows of Israel's deeds. Rav Hirsch (to
-Shemos 35:22, Vayikra 2:2, Devarim 32:34) joins it to *kamatz*, gathered and
-minimized: protected, classified information. Rabbi Avi Kobernick reads it
-with its metathesis SAMECH-MEM-KAF, "adjacent": a secret kept close. The
-compound *sod kamus*, "a closely kept secret," is a paytan's coinage (Rabbi
-Yitzchak Ibn Ghiyyat).
+Pappenheim claims that although Biblical *sod* does not quite mean secret, the
+true Biblical word for a secret is *dvar seter*, Ehud's "hidden matter" for
+Eglon (Shoftim 3:19), where Ehud implied he had a secret to reveal and in fact
+had a dagger ready; the second word goes to SAMECH-TAV-REISH, hiding. *Kamus*,
+KAF-MEM-SAMECH, is a hapax: "For is it not *kamus* with Me, sealed in My
+storehouses" (Devarim 32:34), said of the deeds for which Israel will be
+punished while the nations fail to see why, so that Hashem alone is privy to
+what they will really have done and really deserve. A possible cognate appears
+in the Mishnah (Peah 5:8), where sheaves bundled into *kumsaos*, stack bases,
+are exempted from the rule that bundles forgotten in the field are left for the
+poor. Rav Hirsch (to
+Shemos 35:22, Vayikra 2:2, Devarim 32:34), invoking the interchange of kaf and
+kuf and of samech and tzadi, joins *kamus* to *kamatz*, gathered and
+minimized, both of them something stored away and protected: in the case of
+*kamus*, protected classified information kept from those who do not need to
+know. Rabbi Avi Kobernick similarly reads it against its metathesis
+SAMECH-MEM-KAF, next to or adjacent, arguing that closely guarded secrets are
+kept close and not revealed indiscriminately. The column adds a theory it once
+held of its own, that the mem of KAF-MEM-SAMECH is not integral and the core
+etymon is the biliteral KAF-SAMECH, cover, since what is covered becomes hidden.
+The compound *sod kamus*, a secretive secret, was coined by Rabbi
+Yitzchak Ibn Ghiyyat in one of his poems, according to the Academy of the Hebrew
+Language, and has only grown in popularity since.
 
 ### raz (רז, רזא)
-Aramaic (Daniel 2:18-47, 4:6), perhaps once in Hebrew (Yeshayahu 24:16).
+Aramaic (*raz*, Daniel 4:6; *raza*, Daniel 2:18-47), possibly once in Hebrew
+(Yeshayahu 24:16).
 Rashi (to Daniel 2:19, 2:47; Sanhedrin 94a) glosses *seter*; to Daniel 4:6,
-*satum*: an idea closed and sealed from the masses. Pappenheim and Malbim (to
-Iyov 15:12) trace *rezem* (Iyov 15:12) and Mishnaic *remez* (Gittin 5:7),
-hinting, to the biliteral REISH-ZAYIN, "hidden": a wink tells those in the
-know that one holds the secret; and *roznim*, nobles (Shoftim 5:3; Yeshayahu
-40:23; Tehillim 2:2; Mishlei 8:15), are those privy to what the common people
-are not. Rabbi Eliyahu HaBachur (*Tishbi*): the angel Raziel is named from
-*raz*, Hashem's keeper of secrets. The Chassidei Ashkenaz read *zer* and
-*mashzar* in the Mishkan as allusions to the *razin* within; Rabbi Dov Kook
-notes the gematria of *raz*/*zar*.
+*satum*: either way an idea hidden and closed up so as to be inaccessible to the
+masses. The column adds that *raz* is a very common word in the Dead Sea
+Scrolls, used there for various mystical and esoteric allusions, and that
+linguists derive the Aramaic word from the Old Persian *raza*, itself related to
+the Sanskrit *rahasya*, both said to go back to Proto-Indo-Iranian *rajh*.
+
+Pappenheim and Malbim (to Iyov 15:12) trace the Biblical *rezem*, hinting, to
+the biliteral REISH-ZAYIN, "hidden": a wink of the eyes or a gesture tells those
+in the know that one is privy to a secret others are not. The column notes that
+Pappenheim says this only of *rezem*, which is Biblical, and that extending it
+to the Mishnaic *remez* (Gittin 5:7) is its own step, though not much of a
+stretch. Pappenheim and Malbim also derive *roznim*, noblemen and ministers
+(Shoftim 5:3; Yeshayahu 40:23; Tehillim 2:2; Mishlei 8:15, 14:28, 31:4), from
+the same root, since such aristocrats were often privy to information the
+common people were not (see also Malbim to Mishlei 14:28 and *Shoresh Yesha*).
+
+The column suggests, as its own proposal, reading *raz* as a metathesis of *zar*,
+strange or foreign, since the information is withheld from others and so
+estranged from them; it then reports having found that Rabbi Dov Kook of Tiberias
+mentions that the gematria of *raz*/*zar* equals that of *rahav*, the angelic
+representative of Egypt, and of *bahar*, "at the mountain," the term for the
+mitzvos given at Har Sinai, and it says plainly that it has not merited to
+understand the secret behind those connections.
+
+Rabbi Eliyahu HaBachur (*Sefer Tishbi*) writes that the angel Raziel, named in
+many Kabbalistic sources and credited with the book *Raziel HaMalach* ascribed
+to Adam HaRishon, takes his name from the Aramaic *raz*, alluding to his role as
+Hashem's secretary of sorts. (The column notes in passing that the English
+"secretary" itself derives from "secret.") The Chassidei Ashkenaz read *zer*, a
+diadem, and the second syllable of *mashzar*, interwoven, in the account of the
+Mishkan as allusions to the Kabbalistic *razin* contained there (*Tosafos
+HaShalem* to Shemos 25:10 §9, 25:11 §6 and §16, 25:25 §6, 39:2 §1).
 
 ### tamir (טמיר)
 Aramaic. Targum uses it for *tamun* (Bereishis 35:4; Shemos 2:12; Yirmiyahu
 13:5), *kisui* (Iyov 36:32), *seter* (Tehillim 10:11, 27:5, 32:7, 139:15), and
-*mischabeh* (Shmuel I 10:22); Targum Yonasan renders *kamus* as *tumrah*.
-Rabbi Ernest Klein relates it to Hebrew ט-מ-ן by nun/reish interchange. The
-Maggid of Rabbi Yosef Karo called Rabbeinu Yerucham "Yerucham Tamiri," and the
-Chida records that his works belong to "the secret of the Hidden World."
+*mischabeh* (Shmuel I 10:22); Targum Yonasan (to Devarim 32:34) renders *kamus*
+as *tumrah*. Rabbi Ernest Klein proposes that the Hebrew root ט-מ-ן, hidden or
+buried, actually derives from the Aramaic ט-מ-ר, with nun and reish
+interchanging as they often do; the column adds that it is equally possible the
+opposite is true and the Aramaic derives from the Hebrew. Klein also relates the
+English *mattamore*, a subterranean dwelling or storehouse, to this Hebrew and
+Aramaic term, by way of French and Arabic.
+
+The Maggid who spoke to Rabbi Yosef Karo consistently called the Provençal
+posek Rabbeinu Yerucham "Yerucham Tamiri," Yerucham the Hidden One (*Maggid
+Meisharim* to Vayakhel and Tzav). The Chida writes that Rabbeinu Yerucham's
+published works are riddled with typographical errors and other mistakes, and
+relates that he heard from the elder sages of Yerushalayim that Kabbalistically
+those works belong to "the secret of the Hidden World," such that whoever writes
+a commentary to elucidate them will have it destroyed before publication or will
+die in his prime. Rabbi Elazar Lipa Gartenhaus points out that both came true
+for the author's own great-great-great-grandfather, Rabbi Reuven Chaim Klein of
+Davidkoff, who published *Shenos Chaim*, a commentary on the first part of
+Rabbeinu Yerucham's *Toldos Adam v'Chava*: he lost the rest of what he had
+written before he could publish it, and he died at forty-seven.
 
 ## Rendering guidance
 
@@ -111,9 +198,29 @@ Rabbi Reuven Chaim Klein, "Sukkos - Bereishis - Revealing the Secret," What's
 in a Word?, Ohr Somayach, 13 Tishrei 5783 (2022-10-08): raw text in
 `sources/whats-in-a-word/raw/10130-sukkos-bereishis-revealing-the-secret.md`.
 Primary loci the article cites: Ibn Janach and Radak, *Sefer HaShorashim* s.v.
-סוד; Amos 3:7; Mishlei 15:22; Rav Hirsch to Bereishis 49:6; Pappenheim,
-*Cheshek Shlomo* s.v. SAMECH-DALET and REISH-ZAYIN; Shoftim 3:19; Devarim
-32:34 with Rav Hirsch and Targum Yonasan; Daniel 2:18-47, 4:6 with Rashi;
-Eruvin 65a; Pesachim 49b; Chagigah 14a; Yevamos 63b; Rosh HaShanah 20b with
-Rashi; Iyov 13:27 (*sad*), 15:12 (*rezem*); Gittin 5:7; *Sefer Tishbi* s.v.
-Raziel; *Maggid Meisharim* to Vayakhel and Tzav.
+סוד; Amos 3:7; Mishlei 15:22, 8:15, 14:28, 31:4; Rav Hirsch to Bereishis 49:6,
+Shemos 35:22, Vayikra 2:2, Devarim 32:34; Bereishis 25:29; Melachim II 4:38;
+Pappenheim, *Cheshek Shlomo* s.v. SAMECH-DALET and REISH-ZAYIN, with Mishnah
+Kilayim 1:8 and 6:4, Shabbos 12:1, Bava Basra 4:9, Sanhedrin 7:3 (*sadan*) and
+Shoftim 14:12-13, Yeshayahu 3:23, Mishlei 31:24 (*sadin*); Shoftim 3:19; Devarim
+32:34 with Targum Yonasan; Mishnah Peah 5:8 (*kumsaos*); Daniel 2:18-47, 4:6
+with Rashi; Yeshayahu 24:16; Sanhedrin 94a; Eruvin 65a and Sanhedrin 38a;
+Pesachim 49b; Chagigah 14a; Yevamos 63b; Rosh HaShanah 20b with
+Rashi, and Kesubos 112a; Iyov 13:27 and 33:11 (*sad*), 15:12 (*rezem*); Gittin
+5:7; Shoftim 5:3, Yeshayahu 40:23, Tehillim 2:2 (*roznim*), with Malbim to
+Mishlei 14:28 and *Shoresh Yesha*; *Sefer Tishbi* s.v.
+Raziel; *Tosafos HaShalem* to Shemos 25:10 §9, 25:11 §6 and §16, 25:25 §6, 39:2
+§1; *Maggid Meisharim* to Vayakhel and Tzav.
+
+Material the article cites from outside the traditional sources, formerly absent
+from this entry, is restored and attributed as the column attributes it: the
+Dead Sea Scrolls usage of *raz*, the Old Persian *raza* and Sanskrit *rahasya*,
+the Academy of the Hebrew Language on *sod kamus*, and Rabbi Ernest Klein's
+*mattamore*. Three of the column's own moves that had been flattened are
+restored as its own: the KAF-SAMECH theory for *kamus*, the *raz*/*zar*
+metathesis (with its admission that it has not merited to understand Rabbi Dov
+Kook's gematria), and the extension of Pappenheim's *rezem* to the Mishnaic
+*remez*, which Pappenheim himself does not make. The direction of Rabbi Ernest
+Klein's ט-מ-ן / ט-מ-ר derivation was stated backwards here and is corrected. The
+note on *sod* versus *seter* in the Rendering guidance is drawn from the
+`hidden` entry in this guide, not from this article.

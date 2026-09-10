@@ -17,7 +17,7 @@ words:
 sources:
   - wiaw:7562 "Shouldering the Burden" (2017-12-30) https://articles.ohr.edu/articles/shouldering-the-burden
 authorities: [Targum, Rashi, Ibn Ezra, Radak, Ibn Janach, Rabbi Shlomo of Urbino (Ohel Moed), Rabbi Ezra Reuven Dangoor, Rabbi Chaim Elazar Shapiro (Munkatcher Rebbe), Rabbi Dovid Zvi Hoffmann]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Shoulder: shechem / katef
@@ -25,12 +25,12 @@ updated: 2026-09-10
 ## Bottom line
 
 Both mean **shoulder**, and no single ruling settles them. The most useful
-division: *katef* is the shoulder proper, the whole joint; *shechem* is the
-shoulder where it meets the neck and runs into the upper back, so **upper back**
-or **shoulders** (plural) often serves it better. *Shechem* alone carries the
-borrowed senses of a parcel carried there and, from that, a **portion** or
-allotment. Do not render both with a bare "shoulder" in a pasuk that uses them
-together.
+division: *katef* is the shoulder proper, the whole shoulder; *shechem* is the
+part of it directly opposite the neck, so **upper shoulder**, and in the one
+pasuk that sets the two in a spatial relation, **upper back**. *Shechem* alone
+carries the borrowed senses of a parcel carried there and, from that, a
+**portion** or allotment. Do not render both with a bare "shoulder" in a pasuk
+that uses them together.
 
 ## At a glance
 
@@ -41,65 +41,91 @@ together.
 
 ## Where the authorities disagree
 
-Rabbi Shlomo of Urbino (*Ohel Moed*) records two views at the outset: some hold
-the two words identical, and some hold that *shechem* is the portion of the
-shoulder directly opposite the neck while *katef* is the whole shoulder.
+The article's own question, once *shechem* has been shown to be a body part: does
+not *katef* mean "shoulder"? How then can *shechem* mean it too?
 
-**Radak**: *shechem* is not "shoulder" simply, but the part closest to the neck,
-that is, the higher part.
+Rabbi Shlomo of Urbino, a sixteenth-century Italian scholar, writes in *Ohel
+Moed*, a lexicon of Hebrew synonyms, that some explain the two words to mean
+exactly the same thing; he then cites others who explain that the part of the
+shoulder directly opposite the neck is called *shechem* while the whole shoulder
+is called *katef*.
 
-**Against Radak, the pasuk in Iyov.** Iyov swears, "let my *katef* fall from my
-*shechem*, and my arm be broken from its socket" (Iyov 31:22). There the *katef*
-sits atop the *shechem*, which makes *katef* the upper shoulder and *shechem*
-the back beneath it, the reverse of Radak's placement. The commentators note the
-difficulty and it is not resolved.
+**Radak** (1160-1235): *shechem* does not simply mean "shoulder," but the part of
+the shoulder lying closest to the neck.
 
-**Rabbi Ezra Reuven Dangoor**: the division is front and back, not high and low.
-*Shechem* is the back of the shoulder, *katef* the front.
+**Against Radak, the pasuk in Iyov.** Asserting his innocence, Iyov says, among
+other things, "If my hand tricked an orphan… my *katef* shall fall from my
+*shechem*" (Iyov 31:21-22), so sure that he had cheated nobody that he was
+willing to accept the curse on that condition. There *katef* is plainly a body
+part sitting atop the *shechem*, from which it seems that *katef* is the upper
+shoulder and *shechem* is actually the back, which suits a curse that his
+shoulder be dislocated from his back and fall. The commentators point out that
+this is at odds with Radak, who makes *shechem* the higher part; the article
+leaves the difficulty standing.
 
-**The Munkatcher Rebbe, Rabbi Chaim Elazar Shapiro**: the division is number.
-*Shechem* takes in both shoulders; *katef* is one.
+**Rabbi Ezra Reuven Dangoor** (1848-1930), Chief Rabbi of Baghdad: the division
+is front and back, not high and low. *Shechem* is the backside of the shoulder,
+*katef* the front side.
 
-**Ibn Janach and Radak in their respective *Sefer HaShorashim***: *shechem*
-means "corner" or "side" first, and "shoulder" only by borrowing, since the
-shoulder sits at the body's side. On that reading the word runs side, then
-shoulder, then parcel or portion, and it gives no account of what separates
-*shechem* from *katef*, which likewise means both side and shoulder.
+**The Munkatcher Rebbe, Rabbi Chaim Elazar Shapiro** (1871-1937): *shechem* is
+the more inclusive term, taking in both shoulders, while *katef* is a single
+shoulder.
+
+**Rabbi Yonah Ibn Janach** (990-1050) in his *Sefer HaShorashim*: *shechem*
+primarily means "corner" or "side," and refers to the shoulder only as a borrowed
+meaning, the shoulder sitting at the corner or side of the body. Radak cites the
+same explanation in his own work of that name. On that view the word evolved in
+three stages, primarily "side," secondarily "shoulder," and in its tertiary sense
+"package" or "portion." The article notes that this understanding does not
+account for the difference between *shechem* and *katef*, both of which mean
+"shoulder" and "side."
 
 The Bottom line follows the *Ohel Moed*'s second view, with Radak, because it is
 the one that keeps a working difference in English while fitting the ordinary
-usage; Dangoor and the Munkatcher Rebbe are recorded, and Iyov 31:22 is the
-standing objection to all of them.
+usage; Dangoor and the Munkatcher Rebbe are recorded, and Iyov 31:21-22 is the
+standing objection to it.
 
 ## Distinctions
 
 ### shechem (שכם)
-Yaakov to Yosef: *"va'ani nasati lecha shechem echad al achecha,"* "and I have
-given you one *shechem* over your brothers" (Bereishis 48:22). Targum, Rashi and
-Ibn Ezra divide: some read the city of Shechem, taken from the Emori and where
-Yosef's bones were later buried (Yehoshua 24:32); others read an extra
-allotment, since each son received one portion of the Land and Yosef received
-two, one for each of his sons. That sense is borrowed from the body part.
-The literal use is in the blessing to Yissachar: *"vayeit shichmo lisbol,"* "and
-he bent his *shechem* to bear the burden" (Bereishis 49:15), the place a donkey
-carries its yoke. Rabbi Dovid Zvi Hoffmann connects the verb *lehashkim*, to
-rise early, whose letters are those of *shechem*: rising means bringing the
-shoulder up from horizontal to upright. The column also records an explanation
-that loading a beast's back was the first business of the morning, so the word
-for that loading came to mean doing anything early.
+Yaakov to Yosef, after blessing Yosef's two sons: "Behold, I will die and God
+will be with you and return you to the Land of your Forefathers. And I give to
+you one *shechem* over your brothers, which I had taken from the Emorites with my
+sword and my bow" (Bereishis 48:21-22). The commentators, among them Targum,
+Rashi and Ibn Ezra, in the column's word "scramble" to explain what Yaakov
+bequeaths. Some read the Canaanite city of Shechem, which Yaakov's sons had
+already conquered from the Emorites who lived there, and Sefer Yehoshua ends with
+Yosef's bones buried in that city (Yehoshua 24:32). Others read not the city but
+an extra allotment, *shechem* being able to mean a parcel or package: each son
+received one lot of territory, while Yosef received two, one for each of his
+sons. That sense is a borrowed one, secondary or even tertiary; the word literally
+names the body part on which packages were generally carried.
+
+The literal use is in the blessing to Yissachar, "Yissachar is like a boney
+donkey, crouching between the borders. And he saw rest that is good, and the land
+that it is pleasant. And he lowered his *shechem* to carry the burden" (Bereishis
+49:14-15), the *shechem* being the part of the donkey on which it carries its
+yoke. Rabbi Dovid Zvi Hoffmann (1843-1921) connects the verb *lehashkim*, to wake
+up early, whose root is the same letters as *shechem*: waking involves raising
+one's shoulder as one goes from horizontal to vertical. The column adds that some
+linguists argue the link differently, that loading parcels on a beast's back was
+usually done early in the morning, right before setting out for the day, so
+*shechem* came to mean doing anything early in the morning, and even waking early;
+and it closes by recalling Benjamin Franklin (1706-1790), that early to bed and
+early to rise makes a man healthy, wealthy and wise.
 
 ### katef (כתף)
 The shoulder as such, and the piece of the body on which a load actually rides.
 Its only contrastive appearance with *shechem* is Iyov 31:21-22, where Iyov,
-protesting that he never raised his hand against an orphan, accepts a curse that
-his *katef* fall from his *shechem*.
+protesting that his hand never tricked an orphan, accepts a curse that his *katef*
+fall from his *shechem*.
 
 ## Rendering guidance
 
 - When only one of the two appears, "shoulder" is right for either.
-- Bereishis 49:15 (*vayeit shichmo*): "he bent his shoulder to the burden," or
-  "lowered his shoulder." The image is a beast under a yoke; keep it singular
-  and physical.
+- Bereishis 49:15 (*vayeit shichmo*): "he lowered his shoulder to carry the
+  burden," or "bent his shoulder." The image is a beast under a yoke; keep it
+  singular and physical.
 - Bereishis 48:22 (*shechem echad*): decide between "one portion" and "Shechem"
   and let a note carry the other; do not blend them into "one shoulder."
 - Trap: English "shoulder" absorbs both, and Iyov 31:22 is the one pasuk where
@@ -114,8 +140,17 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "Shouldering the Burden," What's in a Word?, Ohr
-Somayach, 12 Teves 5778 (2017-12-30):
+Somayach, for the week ending 30 December 2017 / 12 Teves 5778:
 https://articles.ohr.edu/articles/shouldering-the-burden; raw text in
-`sources/whats-in-a-word/raw/7562-shouldering-the-burden.md`. Primary loci:
-Bereishis 48:21-22, 49:14-15; Iyov 31:21-22; Yehoshua 24:32; Rabbi Shlomo of
-Urbino, *Ohel Moed*; Ibn Janach and Radak, *Sefer HaShorashim* s.v. שכם.
+`sources/whats-in-a-word/raw/7562-shouldering-the-burden.md`. Primary loci the
+article cites: Bereishis 48:21-22, 49:14-15; Iyov 31:21-22; Yehoshua 24:32;
+Rabbi Shlomo of Urbino, *Ohel Moed*; Ibn Janach and Radak, each in his own *Sefer
+HaShorashim*. The article gives no locus for Radak's comment that *shechem* is
+the part closest to the neck, nor any for Rabbi Dangoor, the Munkatcher Rebbe or
+Rabbi Hoffmann, and none is supplied here. The second half of Iyov 31:22, "and my
+arm be broken from its socket," stood in an earlier draft of this entry as though
+quoted from the article; the article quotes only through "my *katef* shall fall
+from my *shechem*," and the clause has been cut. Restored in this pass, having
+previously been dropped: the article's attribution of the loading-at-dawn
+explanation to "some linguists" rather than to Rabbi Hoffmann, and its closing
+Benjamin Franklin aside.

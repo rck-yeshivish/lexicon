@@ -25,7 +25,8 @@ that turns on the difference; where Hashem *pakad* someone, action follows.
 ## Distinctions
 
 The article opens from the six commandments to remember: the Shabbos (Shemos
-20:7 in the article, but see the Sources note), the Exodus (Devarim 16:3), that
+20:7 as the article gives it; the locus is 20:8, see the rendering guidance
+below), the Exodus (Devarim 16:3), that
 Amalek attacked after the Exodus (Devarim 25:17), the giving of the Torah at Har
 Sinai (Devarim 4:9), how the Jews angered Hashem in the wilderness (Devarim
 9:7), and what Hashem did to Miriam when she spoke slander (Devarim 24:9). In

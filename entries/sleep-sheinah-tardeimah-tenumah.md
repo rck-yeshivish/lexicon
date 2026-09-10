@@ -11,9 +11,9 @@ words:
 sources:
   - wiaw:11119 "Bereishit: Sleepy Words (Part 1/2)" (2023-09-25) https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12
   - wiaw:11120 "Sleepy Words (Part 2/2)" (2023-10-19) https://articles.ohr.edu/articles/sleepy-words-part-22
-authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Yitzchak Zeldin, Ibn Ezra, Peirush HaRokeach, Rambam, Rabbi Moshe Sternbuch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Nechemias, the Vilna Gaon, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Malbim, Netziv, Rabbi Ezra Reuven Dangoor, Rabbi Avraham Zacut, Shadal, Rabbi Chaim Vital, Aderet]
-status: draft
-updated: 2026-09-09
+authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Yitzchak Zeldin, Ibn Ezra, Peirush HaRokeach, Rambam, Rabbi Moshe Sternbuch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Nechemias, the Vilna Gaon, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Malbim, Netziv, Rabbi Ezra Reuven Dangoor, Rabbi Avraham Zacut, Shadal, Rabbi Chaim Vital, Aderet, Rabbi Chaim Kanievsky, Targum Onkelos, Radal, Yidei Moshe, HaKsav VeHaKabbalah, Rema, Alexander Kohut, Rabbi Yitzchak Greenblatt]
+status: reviewed
+updated: 2026-09-10
 ---
 # Sleep: sheinah / tardeimah / tenumah (linah, durmitah)
 
@@ -22,91 +22,201 @@ updated: 2026-09-09
 *Sheinah* is ordinary **sleep**, and doubles as the general term. *Tardeimah* is
 **deep sleep**, the sleep that overpowers a man rather than being chosen.
 *Tenumah* is **drowsiness** or **dozing**, the half-asleep state in which one
-still answers to his name. *Linah* is not sleep at all but **staying overnight**,
-and it applies equally to meat and to a corpse. Ibn Ezra's ranking, *tenumah*
-under *sheinah* under *tardeimah*, is the majority reading and the safe default;
-the Netziv reads the words as stages of one cycle, which inverts *tardeimah*.
+still answers to his name. *Linah*, technically speaking, is not "sleeping" at
+all but **leaving something overnight**, though it generally takes in the hours
+people sleep, and it governs meat and a corpse as readily as a guest. Ibn Ezra's
+ranking, *tenumah* under *sheinah* under *tardeimah*, is the one the article sets
+out first, and Radak, *Peirush HaRokeach*, Rabbi Sternbuch, Rabbi Wertheimer and
+Rabbi Yosef Nechemias are all described as following it; the Netziv rejects it
+outright and makes *tardeimah* the *lighter* sleep of one just dropping off,
+which is why it precedes *vayishan*. The two readings stay two, and the article
+declares no winner.
 
 ## Distinctions
 
 ### sheinah (שינה)
-Ibn Chayyuj, Ibn Janach and Radak: root י-ש-נ. Rabbi Yitzchak Zeldin (*Shoresh
-Yesha*) notes the root carries both "sleep" and "old" and holds them one idea;
-Rav Hirsch (to Bereishis 24:1) supplies the sense, that age drains a man and
-leaves him needing sleep. Menachem Ibn Saruk gives the biliteral ש-נ, which Rabbi
-Shlomo Pappenheim reads as "doubling" (*shnayim*, *shanah* to repeat, *shinun*,
-*shinui*, *shein*, *shanah* the year, *yashan*); *sheinah* belongs there because a
-sleeping man rehearses the day's thoughts a second time. Rav Hirsch: *sheinah* is
-ordinary sleep, the senses weakened but not severed, and he groups *yashein* with
-*yashan*, *ishon laylah* (Mishlei 7:9) and *ishon bas ayin* (Tehillim 17:8), all
-words for a deficiency.
+The triliteral lexicographers, Ibn Chayyuj (945-1000), Ibn Janach (990-1055) and
+Radak (1160-1235), give the root י-ש-נ. Rabbi Yitzchak Zeldin (18th-century
+Germany, *Shoresh Yesha*) notes the root carries both "sleep" and "old" and says
+the two meanings are one and the same; the article calls the remark a bit
+unclear and reads it, tentatively, as Rav Hirsch's point (to Bereishis 24:1),
+that the older a man gets the more his energy is sapped and the more he needs
+sleep. The biliteralist Menachem Ibn Saruk (920-970), in *Machberes Menachem*,
+gives ש-נ, whose core meaning Rabbi Shlomo Pappenheim defines as "doubling"
+(*shnayim*, *shanah* to repeat, *shinun* sharpening by repeated rubbing,
+*shinui* change, *shein* the tooth because most people grow two sets, *shanah*
+the year, *yashan* the old); *sheinah* belongs there because a sleeping man
+rehashes the day's thoughts a second time. Rav Hirsch: *sheinah* is ordinary
+sleep, the senses weakened and languid but not wholly severed, and he groups
+*yashein* with *yashan*, *ishon laylah* (Mishlei 7:9, "the black of night") and
+*ishon bas ayin* (Tehillim 17:8, the pupil), all words for the lack of
+something, sleep being a lack of sentience and animation though not a total
+blackout.
+
+Rabbi Aharon Marcus (1843-1916) locates the core of *sheinah* in the letter
+shin alone, which he claims is universally associated in all languages with
+quiet and silence, as in the onomatopoetic *shushing* of a person; seemingly, the
+article says, his point is that a sleeping man is silent, so the very word for
+sleep carries quietness.
 
 ### tardeimah (תרדמה)
-All the early lexicographers give ר-ד-ם. Rav Hirsch (to Bereishis 2:21) links it
-to ר-ת-ם, tying, through the dalet-tav interchange: in *tardeimah* the senses are
-fettered and the man cannot move at will; he suggests Eliyahu HaNavi sat under a
-*rosem* tree (I Melachim 19:4) for its narcotic effect. Rabbi Shlomo Pappenheim
-derives it from the biliteral ר-ד, downward movement, the root of *rodeh* (ruling
-by keeping others down, Bereishis 1:28; Vayikra 25:43) and *meridah*; *tardeimah*
-is sleep that lords itself over a man, taking him unwilling in the middle of what
-he was doing, and Rabbi Tedeschi-Ashkenazi reads it the same way. *Bereishis
-Rabbah* 17:5 and 44:17: *tardeimah* comes in three senses, ordinary slumber
-(Adam), prophetic slumber (Avraham, Bereishis 15:12), and *mortima*, read either
-as a death-like sleep or as hibernation.
+All the early lexicographers, Ibn Saruk this time included, give ר-ד-ם. Rav
+Hirsch (to Bereishis 2:21) links it to ר-ת-ם, tying, through the dalet-tav
+interchange: in *tardeimah* all the bodily senses are metaphorically tied down
+and the man loses his ability to move about consciously, as though fettered. Rav
+Hirsch further speculates that when Eliyahu HaNavi asked Hashem to take his life
+he sat under a *rosem* tree (I Melachim 19:4) because that tree has some
+narcotic effect conducive to falling asleep. Rabbi Shlomo Pappenheim derives it
+from the biliteral ר-ד, descending or downward movement (*yeridah*), the root of
+*rodeh* (governing by keeping subordinates down so they cannot assert
+themselves, Bereishis 1:28; Vayikra 25:43) and *meridah* (rebellion, the plebs
+breaking free of that yoke); *tardeimah* is accordingly sleep that overpowers a
+man and lords itself over him, taking him unwilling in the middle of whatever
+else he was doing, and Rabbi Moshe Yitzchak Tedeschi-Ashkenazi (1821-1898) reads
+it the same way. In Modern Hebrew the cognate *radum* is a person sedated or
+tranquilized, who may still technically be awake and lucid.
+
+*Bereishis Rabbah* 17:5 and 44:17: *tardeimah* appears in three contexts,
+ordinary slumber (Adam), prophetic slumber (Avraham, Bereishis 15:12), and
+*mortima*, which some commentators explain as a death-like slumber, taking the
+word as a loan from the Latin *mortis*, forebear of English *mortal*,
+*mortuary*, *mortician* and *mortgage*, while others see it as an animal's
+winter hibernation. Radal and *Yidei Moshe* (to *Bereishis Rabbah* there) suggest
+emending the Midrash to read *durmitah* instead of *mortima*.
 
 ### tenumah (תנומה)
 Root נ-ו-מ (Ibn Chayyuj, Ibn Janach, Radak) or the biliteral נ-מ (Ibn Saruk,
 Rabbi Shlomo Pappenheim). The Mishnah's *misnamnem* (Yoma 1:7; Pesachim 10:8;
-Megillah 2:2) is its diminutive, and the Gemara defines it (Megillah 18b): *nim
-velo nim, tir velo tir*, a state in which a man called by name answers, cannot
-give a reasoned answer, but can recognize a correct one. Rabbi Tedeschi-Ashkenazi
-ties the word to *ne'um*, speech, since one in that state can still talk.
+Megillah 2:2) is its diminutive, formed by doubling the two core consonants, and
+the Gemara defines it (Megillah 18b): *nim velo nim, tir velo tir* (*nim* being
+an Aramaic form of *tenumah*, *tir* "awake"), a state in which a man called by
+name answers, cannot give a logical answer to a question, but can recognize a
+correct one. Rabbi Tedeschi-Ashkenazi ties the word to *ne'um*, "the word of,"
+since one in that state can still talk coherently; he reads *sheinah*, by
+contrast, as onomatopoeia, its original form *yashein* deriving from the snoring
+sound a sleeper makes.
+
+The piyyut *Melech Elyon* of Rosh Hashanah contrasts human kings, who are
+subject to *tenumah* and *tardeimah*, with the King of Kings, whose potency
+lasts forever without respite. Rabbi Chaim Kanievsky (1927-2021) finds an
+allusion to this in *Bereishis Rabbah* 8:10, that when Hashem first created man
+the ministering angels took him for God, so Hashem made him fall asleep and they
+saw he was a mere mortal.
 
 ### the three ranked
 - Ibn Ezra (to Bereishis 2:21; Koheles 12:2): *tardeimah* deeper than *sheinah*,
   *sheinah* deeper than *tenumah*. Radak (to Bereishis 2:21, Tehillim 121:4, and
   *Sefer HaShorashim*) cites this and adds that the *vayishan* following
   *tardeimah* in one pasuk is a later stage, ordinary sleep during which Adam
-  could feel, while he recovered. *Peirush HaRokeach* likewise makes *tardeimah*
-  a strong *sheinah*.
+  could feel, while he recovered.
+  *Peirush HaRokeach* (to Bereishis 2:21) likewise makes *tardeimah* an
+  especially strong *sheinah*, under which
+  Adam would not feel the rib removed, and (to Bereishis 15:12) explains that
+  Hashem brought a *tardeimah* on Avraham before the Bris Bein HaBesarim so that
+  he would not wake before receiving the whole prophecy.
 - Rambam (*Hilchos Teshuvah* 3:4) sets the two together in the *shofar* charge:
-  awake, sleepers, from your *sheinah*, and rouse yourselves from your
-  *tardeimah*. Rabbi Moshe Sternbuch reads two sinners there, one lately slipped
-  and easily roused, one long astray; Rabbi Shlomo Aharon Wertheimer ties the
-  pair to *tekiah* and the broken *teruah*.
-- Rabbi Yosef Nechemias (to Mishlei 6:11) counts five, adding *linah* as the time
-  for sleeping and *shechivah* as the act of lying down.
-- The Vilna Gaon (to Mishlei 6:4): in *sheinah* thought has stopped, in *tenumah*
-  the lids are shut but the mind still works; elsewhere (to Berachos 60b), the
-  eyes are at rest in *sheinah* and not in *tenumah*.
-- Rabbi Avraham Bedersi (*Chosam Tochnis*) makes it circumstantial, not a matter
-  of depth: *sheinah* goes with tranquility, *tenumah* with indolence, and
-  *tardeimah* is either the end of a long sleep or the sleep of extreme fright,
-  from the pasuk where a dark dread falls on Avraham with it (the article prints
-  Bereishis 14:12; the locus is 15:12).
-- Malbim (to Yeshayahu 5:27): *sheinah* is natural sleep, *tenumah* sleep from
-  extraordinary exhaustion; elsewhere (Tehillim 121:4) *tenumah* is one kind of
-  *sheinah*.
-- The Netziv (*HaEmek Davar* to Bereishis 2:21) rejects Ibn Ezra: *tardeimah* is
-  the lighter sleep of one just dropping off, which is why it precedes
-  *vayishan*. Rabbi Ezra Reuven Dangoor similarly makes *tenumah* the first stage
-  of *sheinah*, chronological rather than lighter. Rabbi Avraham Zacut (*Ikkarei
-  HaTalmud*) makes *tenumah* the broken sleep of one kept awake by suffering and
-  *tardeimah* the sleep of one so overwhelmed by it that he has no other recourse.
+  awake, sleepers, from your *sheinah*, and let the slumberers rouse themselves
+  from your *tardeimah*, search your deeds and return in teshuvah. Rabbi Moshe
+  Sternbuch (Chief Rabbi of Jerusalem) infers two types of sinner from that
+  wording, following Ibn Ezra's model: one who serves Hashem properly in general
+  and has lately fallen out of line, easily roused, and one long astray in a
+  deeper way who takes more effort to wake. Rabbi Shlomo Aharon Wertheimer cites
+  a similar explanation and ties the pair to the two *shofar* sounds, the plain
+  *tekiah* for those in *sheinah* and the broken *teruah* for those in the deeper
+  *tardeimah*.
+- Rabbi Yosef Nechemias (to Mishlei 6:11), also following Ibn Ezra's basic
+  approach, counts five terms, adding *linah* as the time for sleeping and
+  *shechivah* as the act of lying down to sleep.
+- The Vilna Gaon (1720-1797, to Mishlei 6:4): in *sheinah* a man is so deeply
+  immersed that he has lost the capacity for thinking, in *tenumah* the lids are
+  shut but the mind is still at work; elsewhere (to Berachos 60b), the eyes are
+  at rest in *sheinah* and, though closed, not technically at rest in *tenumah*.
+  The article admits it is not sure what exactly the Gaon means, and wonders
+  whether he was alluding to the two modes of sleep neurologists recognize, one
+  of them marked by rapid eye movement.
+- Rabbi Avraham Bedersi (*Chosam Tochnis*), whom the article calls the earliest
+  scholar to work on Hebrew synonyms, makes it circumstantial, not a matter of
+  depth: *sheinah* goes with rest and tranquility, *tenumah* with indolence and
+  laziness, and *tardeimah* he first defines as the end of a long sleep and then
+  suggests is the sleep one falls into in a state of extreme fright, his
+  proof-text being the pasuk where a *tardeimah* falls on Avraham and a dark
+  dread falls on him immediately after (the article prints Bereishis 14:12; the
+  locus is 15:12). Elsewhere in that work Bedersi compares *sheinah*, whose
+  meaning he asserts is well known, with *hozim* (Yeshayahu 56:10), which he
+  takes for an especially long-lasting slumber like a dog that oversleeps; he
+  admits that most other commentators explain *hozim* as people who say
+  exaggerated or unrealistic things in a sort of delirium (compare Modern Hebrew
+  *hazui*). Rabbi Tedeschi-Ashkenazi synthesizes the two: *hozim* are people who
+  say nonsensical things in passing ecstatic bouts of insanity, those who talk in
+  their sleep included.
+- Malbim (1809-1879, to Yeshayahu 5:27): *sheinah* is the regular,
+  naturally-occurring sleep, *tenumah* sleep caused by extraordinary exhaustion;
+  elsewhere (Tehillim 121:4) he varies this slightly, making *sheinah* the
+  umbrella term covering every kind of sleep and *tenumah* one kind under it,
+  the kind induced by extraordinary tiredness.
+- The Netziv (1816-1893, *HaEmek Davar* to Bereishis 2:21) disagrees with Ibn
+  Ezra's ranking: *tardeimah* denotes not a deeper but a *lighter* sleep, that of
+  one just dropping off, which is why in Adam's case it precedes *vayishan*.
+  Rabbi Wertheimer entertains possible support for this position from Targum
+  Onkelos to Bereishis 2:21, but ultimately rejects that proof.
+- Rabbi Ezra Reuven Dangoor (1848-1930), Chief Rabbi of Baghdad, similarly makes
+  *tenumah* the first stage of *sheinah*; he does not explicitly say it is a
+  lighter quality of sleep, only that it is an earlier chronological stage in the
+  cycle. Rabbi Wertheimer infers the same from Rambam's commentary to the Mishnah
+  (Pesachim 10:8), arguing further that *sheinah* is the general term for
+  sleeping while *tenumah* is specifically the beginning of it.
+- Dr. Alexander Kohut (1842-1894) cites a passage from the then-unpublished
+  *Ikkarei HaTalmud* of Rabbi Avraham Zacut (1450-1515): *tenumah* is lighter
+  than *sheinah*, the broken sleep of one whose suffering keeps him from falling
+  fast asleep, perhaps an insomniac; *sheinah* is the natural sleep most people
+  get nightly; and *tardeimah* is the deep sleep that befalls one so subsumed in
+  his suffering that he has no other recourse but to sleep, as a suicidal person
+  gives up on life and dies. The entry has this at second hand, through Kohut, as
+  the article does.
 
 ### linah (לינה) and durmita (דורמיטא)
-Roots ל-ו-נ and ל-י-נ (or ל-נ per Ibn Saruk); Shadal (to Bereishis 24:23) holds
-both one word. Eliezer asked for room *lalin* and Rivkah answered *lalun*
-(Bereishis 24:23-24). But *linah* is leaving something overnight, not sleeping,
-which is why it governs sacrificial meat (Shemos 23:18, 34:25; Devarim 16:4), a
-worker's wages (Vayikra 19:13), and a hanged body (Devarim 21:23). Rabbi Shlomo Pappenheim ties *linah* to
-*laylah*; *malon* is any overnight lodging (Bereishis 42:27); and the same root
-gives "complaining," which Rav Hirsch (to Shemos 15:24) bridges as seeking
-shelter. As for *durmita*, the *Zohar* (Vayigash 207b) associates it with *misah*,
-death, on the sound, and Rabbi Chaim Vital calls it the Aramaic for sleep; the
-Aderet corrects him, since Targum consistently renders *tardeimah* by *sheinsa*
-(Bereishis 2:21; Mishlei 19:15; Iyov 4:13, 33:15) and the word appears in no
-Aramaic text at all.
+Roots ל-ו-נ and ל-י-נ (or ל-נ per Ibn Saruk); Shadal (to Bereishis 24:23) already
+clarifies that both roots mean exactly the same thing despite the different
+middle letter. Eliezer asked whether there was room *lalin* and Rivkah answered
+that there was place *lalun* (Bereishis 24:23-24), that is, room to stay the
+night. But technically *linah* has nothing to do with sleeping; it is leaving
+something overnight, which generally includes the hours people sleep without
+entailing sleep at all. Hence it governs sacrificial meat left past its time
+(Shemos 23:18, 34:25; Devarim 16:4), a day-worker left unpaid overnight (Vayikra
+19:13), and an executed criminal's body left hanging (Devarim 21:23), where the
+subject is not even a living person. Rabbi Shlomo Pappenheim ties *linah*
+etymologically to *laylah*, tracing both to the biliteral ל-ל (see also
+*HaKsav VeHaKabbalah* to Devarim 21:23). *Malon*, from the same root, is any
+place one stays overnight (Bereishis 42:27; Shemos 4:24; Yehoshua 4:3;
+Yeshayahu 10:29), and in Modern Hebrew a hotel. The root ל-ו-נ also gives
+"complaining," a wholly different concept, which Rav Hirsch (to Shemos 15:24)
+bridges as the common notion of seeking protection and safety: in *linah* safe
+lodging for the night, in complaining the solace of airing one's grievances in
+the hope that someone will help.
+
+As for *durmita*, the *Zohar* (Vayigash 207b, see also Naso 142b) uses the word
+and associates it with *misah*, death, presumably on the phonetic similarity,
+though *durmita* is spelled with a tes and *misah* with a tav. Rabbi Chaim Vital
+(1543-1620) claims *durmita* is the Zoharic Aramaic for sleep, implying the
+Targum uses it to render *tardeimah*. The Aderet, Rabbi Eliyahu David
+Rabinowitz-Teomim (1843-1905), correctly points out that the Targumim never do:
+Targum consistently renders *tardeimah* with an Aramaicized form of the Hebrew
+*sheinah*, *sheinsa* (Bereishis 2:21; Mishlei 19:15; Iyov 4:13, 33:15), and
+*durmita* is not an Aramaic word at all, appearing nowhere in the Talmud or any
+other Aramaic document.
+
+So what is it? The article's own answer: *durmita* is of Romance etymology. It
+theorizes that the word is related to the Latin *dormire*, "sleeping," ancestor
+of English *dormant* and *dormitory* (French *dormant*, Spanish *durmiendo*,
+Catalan *dorment*). Rabbi Dr. Yitzchak (Jared) Greenblatt, whom the article calls
+a prominent Aramaicist, concurred, adding that when Greek or Latin words are
+borrowed into Hebrew or Aramaic the t-sound is typically written with tes rather
+than tav, as here (see also Rema, *Even HaEzer* 129:31). The article then floats
+a further thought: linguists say the Latin *dormire* derives from the
+Proto-Indo-European root *drem-*, and since *drem-* uses the same three
+consonants as *tardeimah* with the first two switched, perhaps the connection
+between *durmita* and *tardeimah* should be reconsidered after all. It adds that
+linguists agree the English word *dream* has nothing to do with any of this.
 
 ## Rendering guidance
 
@@ -134,11 +244,14 @@ Words (Part 2/2)," 6 Cheshvan 5784 (2023-10-19),
 https://articles.ohr.edu/articles/sleepy-words-part-22; raw text in
 `sources/whats-in-a-word/raw/11119-bereishit-sleepy-words-part-12.md` and
 `.../11120-sleepy-words-part-22.md`. Primary loci cited: Bereishis 1:28, 2:21,
-15:12, 24:1, 24:23-24, 42:27; Shemos 15:24, 23:18, 34:25; Vayikra 19:13, 25:43;
-Devarim 16:4, 21:23; I Melachim 19:4; Yeshayahu 5:27, 56:10; Tehillim 17:8,
-121:4; Mishlei 6:4, 6:11, 7:9, 19:15; Iyov 4:13, 33:15; Koheles 12:2; Megillah
-2:2 and 18b; Yoma 1:7; Pesachim 10:8; Berachos 60b; *Bereishis Rabbah* 17:5,
-44:17; *Zohar* Vayigash 207b; Rambam, *Hilchos Teshuvah* 3:4. Two citation slips:
-the article prints Bereishis 14:12 for Bedersi's proof-text (the locus is 15:12)
-and 3:21 for Targum's *sheinsa* (2:21). Its Latin derivation of *durmita* and its
-citation of Alexander Kohut for Rabbi Avraham Zacut are omitted.
+15:12, 24:1, 24:23-24, 42:27; Shemos 4:24, 15:24, 23:18, 34:25; Vayikra 19:13,
+25:43; Devarim 16:4, 21:23; Yehoshua 4:3; I Melachim 19:4; Yeshayahu 5:27,
+10:29, 56:10; Tehillim 17:8, 121:4; Mishlei 6:4, 6:11, 7:9, 19:15; Iyov 4:13,
+33:15; Koheles 12:2; Megillah 2:2 and 18b; Yoma 1:7; Pesachim 10:8; Berachos
+60b; *Bereishis Rabbah* 8:10, 17:5, 44:17; *Zohar* Vayigash 207b and Naso 142b;
+Rambam, *Hilchos Teshuvah* 3:4 and his commentary to Pesachim 10:8; Rema, *Even
+HaEzer* 129:31; Targum Onkelos to Bereishis 2:21. Two citation slips in the
+article: it prints Bereishis 14:12 for Bedersi's proof-text (the locus is 15:12)
+and 3:21 for Targum's *sheinsa* (2:21). Rabbi Avraham Zacut's *Ikkarei HaTalmud*
+reaches the article at second hand, through Dr. Alexander Kohut, and is reported
+here that way.
