@@ -10,9 +10,9 @@ words:
     nk: שֵׁכָר
 sources:
   - wiaw:11520 "Ki Seitzei: Getting Drunk" (2024-09-14) https://articles.ohr.edu/articles/ki-seitzei-getting-drunk
-authorities: [Menachem Ibn Saruk, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Rabbi Moshe Tzuriel, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Kara, Rabbi Yosef Nechemias, Rashi, Radak, Rambam, Ramban, Rabbi Aharon Marcus]
-status: draft
-updated: 2026-09-09
+authorities: [Menachem Ibn Saruk, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Rabbi Moshe Tzuriel, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Kara, Rabbi Yosef Nechemias, Rabbi Dr. Asher Weiser, Dr. Lawrence Resnick, Rashi, Radak, Rambam, Ramban, Rabbi Aharon Marcus]
+status: reviewed
+updated: 2026-09-10
 ---
 # Drunkenness: sove / shachar (sheichar)
 
@@ -37,52 +37,72 @@ could intoxicate, whether or not intoxication follows, while *shichrus* is
 having actually become drunk.
 
 On the root, Rabbi Shlomo Pappenheim reduces it to the two-letter ס-ב of
-*sivuv*, going around: the drunkard goes around from tavern to tavern. (He adds,
-tongue in cheek, that they do so to reach better wine and say *HaTov
-V'HaMeitiv*; Rabbi Moshe Tzuriel notes in his glosses to *Yerios Shlomo* that
-this was sarcasm.) Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim*) takes the
+*sivuv*, going around: the drunkard goes around from store to store, tavern to
+tavern, wherever the drink is. (He adds that they do so to reach better wine and
+be able to say *HaTov V'HaMeitiv* over the upgrade, see Shulchan Aruch Orach
+Chaim 175:2; Rabbi Moshe Tzuriel notes in his glosses to *Yerios Shlomo* that
+this last was a sarcastic witticism, drunkards in reality caring nothing for
+berachos.) Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim*) takes the
 same ס-ב differently: people sitting *around* a table drinking together, which
 would make *sove* kin to *mesibah*. Rabbi Yehudah Aryeh of Carpentras (*Aholei
 Yehudah*), Rav Hirsch (to Bereishis 24:25 and Devarim 21:19), Rabbi Shimon
 Yehuda Leib Goldblit (*Leshon Chachamim*) and Rabbi Dr. Asher Weiser (*Mikra
 V'Lashon*) all tie ס-ב-א to its homonym שׂ-ב-ע, *seviah*, satisfaction: the
-*sove* keeps drinking past the point of being full. Rav Hirsch further links
-ס-ב-א to צ-מ-א.
+*sove* keeps drinking past the point of being full. Rav Hirsch also suggests a
+connection between ס-ב-א and צ-מ-א, on the interchangeability of *samech* with
+*tzadi* and of *beis* with *mem*.
 
 ### sava (סבא, as a noun)
 The same root as a noun for drink. Targum, Rashi (to *Bava Basra* 15b) and Rabbi
 Yosef Kara (to Yeshayahu 1:22, "your *sava* is diluted with water") take *sava*
-as wine; so does Rashi to Hoshea 4:18. Elsewhere Rashi treats it as drinks in
-general (Yeshayahu 1:22, Nachum 1:10; and *savyuta*, wine merchants, at *Avodah
-Zarah* 77a). Rabbi Yosef Nechemias (to Mishlei 23:20): because drunkards are
-*sovim*, the drink itself came to be called *sava*. Rabbi Shlomo Aharon
-Wertheimer explains the Yeshayahu charge sharply: a man drunk enough to be a
-*sava* no longer tastes what he is drinking, so the seller waters the wine and
-charges full price. On *savaim* at Yechezkel 23:42, Radak in his commentary
-reads the Sabeans (descendants of Sva, Bereishis 10:7) while in *Sefer
-HaShorashim* he reads drunkards; Targum Yonasan and Rashi read merchants who go
-around, from *sivuv*.
+as wine; so does Rashi to Hoshea 4:18. Elsewhere Rashi seems to treat it as a
+general term for drinks (Yeshayahu 1:22, Nachum 1:10; and *savyuta*, wine
+merchants, at *Avodah Zarah* 77a). Rabbi Yosef Nechemias (to Mishlei 23:20):
+because drunkards are called *sovim*, the word *sava* came to refer to wine
+itself. Rabbi Shlomo Aharon Wertheimer explains the Yeshayahu charge sharply: a
+man drunk enough to be a *sava* is no longer sensitive to the taste of what he
+is drinking, so unsavory sellers serve him wine diluted with water at the full
+price of the unadulterated article, and he never realizes he has been cheated.
+
+Sva, or Seba, is one of the sons of Kush (Bereishis 10:7; Divrei HaYamim I 1:9),
+and his descendants the Sabeans appear later alongside the Kushites (Yeshayahu
+43:3, 45:14). On the *savaim* of Yechezkel 23:42, Radak in his commentary reads
+that Sabean people, while in *Sefer HaShorashim* he writes that they were
+drunkards; Targum Yonasan and Rashi there read merchants who go around, taking
+*savaim* as a cognate of *sivuv*.
 
 ### shachar / sheichar (שכר)
-Root ש-כ-ר. The verb of getting drunk (Noach, *vayishkar*, Bereishis 9:21) runs
-through Tanach; the noun *shikaron*, drunkenness, appears at Yirmiyahu 13:13 and
-Yechezkel 23:33 and 39:19 (also a town in Yehudah's territory, Yehoshua 15:11);
-post-biblical *shikur*, a drunkard, gives Yiddish *shikker*. The noun *sheichar*
-is a beverage. Rabbi Moshe Tedeschi Ashkenazi: strictly it is any intoxicating
+Root ש-כ-ר. The verb of getting drunk (Noach, *vayishkar*, Bereishis 9:21) occurs
+nineteen times in Tanach on Even-Shoshan's biblical concordance; the noun
+*shikaron*, drunkenness, appears in three places (Yirmiyahu 13:13; Yechezkel
+23:33 and 39:19), and is also the name of a town in Yehudah's territory
+(Yehoshua 15:11); post-biblical *shikur*, a drunkard, is the etymon of the
+Yiddish *shikker*. The noun *sheichar*, the beverage that renders one drunk,
+appears twenty-three times. Rabbi Moshe Tedeschi Ashkenazi: strictly it is any intoxicating
 drink, but in Tanach it sometimes means strong wine in particular. Targum
 Onkelos and Rashi to Bamidbar 6:3 read it as aged wine against *yayin*, new
 wine; Rashi to Bamidbar 28:7 as intoxicating wine, and at *Zevachim* 91a he ties
-*sheichar* to *seviah*, the libation satisfying the altar's pipes. Against a
-wine-only reading, Vayikra 10:9 is understood to reach other intoxicants too
-(*Nazir* 4a, *Kerisus* 13b, Ramban to Vayikra 10:9). In Rabbinic Hebrew
-*sheichar* is beer or mead (*Pesachim* 3:1).
+*sheichar* to *seviah*, the libation satisfying the altar's pipes. But sometimes
+*sheichar* in Tanach could refer to other intoxicating drinks: Vayikra 10:9
+forbids drinking *sheichar* before entering the Mikdash, and there is ample
+reason to hold that one may be liable even for other intoxicating substances
+besides wine (*Nazir* 4a, *Kerisus* 13b, Ramban to Vayikra 10:9). In Rabbinic
+Hebrew *sheichar* is what we call beer or mead (*Pesachim* 3:1).
 
-Rav Hirsch (to Shemos 13:12) groups *shachar* with *sheger*, *shir* and
-*sheker*, all naming something brought forth from within oneself; Dr. Lawrence
-Resnick spells this out, with *sheichar* as the drunken state in which the
-imagination builds a reality of its own. Rabbi Aharon Marcus instead derives
-ש-כ-ר from כ-ר(-כ-ר), dancing, as in David *mecharker* before the Aron (Shmuel
-II 6:14, 6:16): drunkenness sets the head dancing.
+Rav Hirsch (to Shemos 13:12) makes a comment the column calls somewhat cryptic,
+connecting *shachar* with *sheger*, *shir* and *sheker* on the
+interchangeability of *kaf*, *gimmel*, *yod* and *kuf*: all of them name
+something born from oneself, and he gives no further detail. Dr. Lawrence
+Resnick (*1,000 Words*, which elucidates Rav Hirsch's word connections) spells
+it out as a production coming from within, mentally or physically: *sheger* is
+one's live offspring, the handiwork of one's own reproductive system; *shir* an
+enthusiastic expression of one's own mental vision; *shechar* the drunken state
+in which the imagination forms a reality of its own making; and *sheker* a
+falsehood consciously presented as true. Rabbi Aharon Marcus instead proposes
+that ש-כ-ר derives from the biliteral כ-ר(-כ-ר), dancing, with the initial *shin*
+peripheral to the stem, as in David *mecharker* before the Aron (Shmuel II 6:14,
+6:16): getting drunk brings on a dizziness as though the head were dancing
+around.
 
 ## Rendering guidance
 
@@ -119,7 +139,7 @@ I 1:9; Yeshayahu 43:3 and 45:14; Yechezkel 23:42 with Radak and Targum Yonasan;
 Bereishis 9:21; Yirmiyahu 13:13; Yechezkel 23:33 and 39:19; Yehoshua 15:11;
 Bamidbar 6:3 and 28:7 with Targum Onkelos and Rashi; *Zevachim* 91a; Vayikra
 10:9 with *Nazir* 4a, *Kerisus* 13b and Ramban; *Pesachim* 3:1; Rav Hirsch to
-Bereishis 24:25, Shemos 13:12 and Devarim 21:19; Shmuel II 6:14 and 6:16. The
-article's citation of Even-Shoshan's biblical concordance for the count of
-ש-כ-ר forms is omitted here under the Orthodox-sources rule; the counts
-themselves are retained without it.
+Bereishis 24:25, Shemos 13:12 and Devarim 21:19; Shmuel II 6:14 and 6:16;
+Shulchan Aruch Orach Chaim 175:2; Dr. Lawrence Resnick, *1,000 Words*. The
+counts of ש-כ-ר forms are given above with the column's own attribution to
+Even-Shoshan's biblical concordance.

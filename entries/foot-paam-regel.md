@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:7828 "Foot Festivals" (2018-06-30) https://articles.ohr.edu/articles/foot-festivals
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Targum Onkelos, Rashi, Ibn Ezra, Ramban, Rabbi Shmuel Dovid Walkin]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Foot: paam / regel
 
@@ -22,25 +22,27 @@ Both words mean **foot** and both can mean **time, instance**. *Regel* is the
 plain foot, the limb; *paam* is the foot as it strikes the ground, so its
 primary sense is **step** and, by extension, **corner** (the low corner of a
 thing) and **each occurrence**. *Shalosh regalim* and *shalosh peamim* both
-render "three times." The trap: *regel* in the sense of "time" occurs in Tanach
-only twice, in Bilaam's donkey (Bamidbar 22:28, 32) and in the three festivals
-(Shemos 23:14); everywhere else it is the limb, and a translator should not
-reach for "time" without one of those two contexts.
+render "three times." The trap: *regel* in the sense of "instance" occurs in
+Tanach in only two contexts, Bilaam's donkey (Bamidbar 22:28 and 32) and the
+three festivals (Shemos 23:14); everywhere else it is the limb, and a translator
+should not reach for "time" without one of those two contexts.
 
 ## Distinctions
 
 ### paam (פעם)
 Malbim: the core sense is **corner**, close to *peah*. The four *paamosav* at
 the bottom of the Aron (Shemos 25:12) are its four corners, and a man's feet are
-called *paam* because they sit at his lower corner. On this reading *paam* and
-*regel* overlap outright, which is what makes the doublet in Yeshayahu 26:6
+called *paam* because they sit at his lower corner. On this reading *paam*
+appears to be synonymous with *regel*, which is what makes the doublet in
+Yeshayahu 26:6
 work: *raglei ani, paamei dalim*, the feet of the poor, the feet of the
 destitute.
 
 Rabbi Shlomo Pappenheim derives *paam* from the biliteral פ-ע, whose words all
 denote steady, repeated motion or sound: *efeh*, the cry of a woman in labor
-(Yeshayahu 42:14) and the rattle of a snake; *po'em*, the regular beat (Bereishis
-41:8); *paamon*, a bell, named for the clapper's repeated strike. A foot earns
+(Yeshayahu 42:14) and the steady noise of the rattlesnake; *po'em*, the steady
+beat of the heart (Bereishis 41:8); *paamon*, a bell, named for the sound of the
+clapper striking its hollow shell. A foot earns
 the name from its metronomic tread, so a *paam* is one contact of the foot with
 the ground, that is, a step; and from there, one occurrence of anything at all.
 
@@ -77,9 +79,11 @@ underneath; see Ramban there.
   the two words against each other (Yeshayahu 26:6; the donkey saying *shalosh
   regalim* where *shalosh peamim* was expected) will read flat. Where the point
   is the choice of word, keep the Hebrew and gloss it.
-- *Shalosh regalim* as the festivals: render "the three festivals" or keep
-  *shalosh regalim* transliterated; "the three times" is right for Bamidbar
-  22:28 and 32 and wrong for Shemos 23:14, even though the phrase is identical.
+- *Shalosh regalim* as the festivals: the article renders Shemos 23:14 literally,
+  "the three times." Our call for a sefer is "the three festivals," or keep
+  *shalosh regalim* transliterated, since English "three times" there reads as a
+  count and not as the pilgrimage; "three times" is the right rendering at
+  Bamidbar 22:28 and 32, where the phrase is identical.
 - Where a derashah rests on *paam* meaning movement rather than a limb (Rabbi
   Walkin on the Aron), do not translate *paamosav* as "its corners"; that reading
   needs "its feet," and the disagreement between Rashi and Ibn Ezra should be
