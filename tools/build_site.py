@@ -358,6 +358,12 @@ def main():
         f.write_text(text, encoding="utf-8")
         written.add(f.resolve())
 
+    def copy(rel, src):
+        f = OUT / rel
+        f.parent.mkdir(parents=True, exist_ok=True)
+        f.write_bytes(pathlib.Path(src).read_bytes())
+        written.add(f.resolve())
+
     words.sort(key=lambda w: (w["k"], w["s"]))
     english.sort(key=lambda x: (x["e"].lower(), x["c"]))
     emap = {e["slug"]: {"c": e["cluster"],
@@ -422,12 +428,29 @@ def main():
                                extra_js='<script>initBrowse("en");</script>'))
 
     method_src = ROOT / "references" / "how-synonyms-differ.md"
+    pdf_src = ROOT / "sources" / "klein-babel-2020" / "synonyms-in-language.pdf"
     if method_src.exists():
         body = method_src.read_text(encoding="utf-8")
-        # Our own distillation, not the magazine's text: the article is credited
-        # and linked, never reproduced.
+        pdf_pane = ""
+        if pdf_src.exists():
+            copy("article/synonyms-in-language.pdf", pdf_src)
+            pdf_pane = ("""
+<div class="pane" id="pane-article" hidden>
+  <object class="pdf" data="article/synonyms-in-language.pdf" type="application/pdf">
+    <p>Your browser will not display the PDF inline.
+       <a href="article/synonyms-in-language.pdf">Open it directly</a>.</p>
+  </object>
+  <p class="pdfnote">&ldquo;Learning to differentiate between apparent synonyms,&rdquo;
+     Rabbi Reuven Chaim Klein, <em>Babel: The Language Magazine</em> 31 (May 2020), 30&ndash;33.</p>
+</div>""")
+        tabs = ('<div class="tabs">'
+                '<button class="tab on" data-pane="summary">Summary</button>'
+                '<button class="tab" data-pane="article">The article</button></div>'
+                if pdf_pane else "")
         emit("method.html", shell("Methodology — What’s in a Word?",
-                                  f'<article class="entry prose">{md(body)}</article>',
+                                  f'<article class="entry prose">{tabs}'
+                                  f'<div class="pane" id="pane-summary">{md(body)}</div>'
+                                  f'{pdf_pane}</article>',
                                   active="me"))
 
     emit(f'assets/{ASSETS["css"]}', CSS)
@@ -500,7 +523,8 @@ header.bare .brand{flex:1}
 @media (max-width:640px){.wm{font-size:34px}.wm-sub{font-size:16px}.wm-by{font-size:16px}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
 .lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
-.browse .lede[lang="he"]{font-family:var(--heb);font-size:22px;margin:0}
+/* margin:0 here would drop the auto side-margins that centre the block, leaving the text centred inside a left-hugging box rather than on the page */
+.browse .lede[lang="he"]{font-family:var(--heb);font-size:22px;margin:0 auto}
 .bigsearch{position:relative;max-width:620px;margin:0 auto}
 .bigsearch input{width:100%;height:60px;padding:0 22px 0 54px;font-size:19px;
   border:1px solid var(--line);border-radius:16px;background:var(--panel);color:var(--ink);
@@ -573,6 +597,14 @@ header.bare .brand{flex:1}
 /* entry ------------------------------------------------------------------- */
 .entry{padding:44px 0 0;max-width:760px}
 .prose h1{font-size:34px;margin:0 0 18px;text-transform:none}
+.tabs{display:inline-flex;gap:2px;padding:2px;background:var(--line);border-radius:9px;margin:0 0 26px}
+.tab{border:0;background:none;color:var(--dim);font:inherit;font-size:14px;font-weight:500;
+  padding:6px 15px;border-radius:7px;cursor:pointer}
+.tab:hover{color:var(--ink)}
+.tab.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+.pdf{width:100%;height:min(82vh,1000px);border:1px solid var(--line);border-radius:var(--radius);
+  background:var(--panel)}
+.pdfnote{color:var(--faint);font-size:14px;margin:12px 0 0}
 .prose h2{font-size:13px;border-bottom:1px solid var(--line);padding-bottom:8px;margin:34px 0 14px}
 .prose h3{font-size:18px}
 .eyebrow{color:var(--faint);font-size:13px;text-transform:uppercase;letter-spacing:.07em;margin:0 0 8px}
@@ -814,8 +846,19 @@ function initBrowse(mode){
   });
 }
 window.initBrowse = initBrowse;
+function wireTabs(){
+  const tabs = [...document.querySelectorAll(".tab")];
+  if(!tabs.length) return;
+  tabs.forEach(t => t.addEventListener("click", () => {
+    tabs.forEach(x => x.classList.toggle("on", x === t));
+    document.querySelectorAll(".pane").forEach(p =>
+      p.hidden = (p.id !== "pane-" + t.dataset.pane));
+  }));
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   wire();
+  wireTabs();
   // Focus the home search without the browser scrolling the headline off-screen,
   // which is what plain autofocus does on a short viewport.
   const big = document.querySelector(".bigsearch #q");
