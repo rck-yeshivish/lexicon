@@ -10,9 +10,9 @@ words:
     nk: רְכוּשׁ
 sources:
   - wiaw:11394 "Bechukosai: All About Money" (2024-06-01) https://articles.ohr.edu/articles/bechukosai-all-about-money
-authorities: [Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Rabbi Shlomo Pappenheim, Rashi, Rashbam, Ibn Ezra, Ibn Janach, Radak, Chida, Rabbi Yitzchok Schmelkes, Rabbi Shlomo Zalman Ehrenreich, Rabbi Chaim of Friedberg, Rabbi Yaakov Emden, Rabbi Azaria Figo, Rabbi Eliezer Herstik, Pri Megadim, Rabbi Shimon Yehuda Leib Goldblit]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Rabbi Shlomo Pappenheim, Rashi, Rashbam, Ibn Ezra, Ibn Janach, Radak, Chida, Rabbi Yitzchok Schmelkes, Rabbi Shlomo Zalman Ehrenreich, Rabbi Chaim of Friedberg, Rabbi Yaakov Emden, Rabbi Azaria Figo, Rabbi Eliezer Herstik, Pri Megadim, Rabbi Shimon Yehuda Leib Goldblit, Theo Vennemann]
+status: reviewed
+updated: 2026-09-10
 ---
 # Money: mammon / damim / maos (zuz, kesef, mechir)
 
@@ -24,8 +24,8 @@ is **the price** or **the value** of a thing, always plural, and it is the
 homonym of *damim*, blood, which is a live trap. *Maos* and *zuzim* are coin
 names that widened into general words for **money**; *kesef* is **silver** that
 widened the same way. *Mechir* is the Biblical **price**. The one thing not to
-get wrong: in a Mishnaic passage *damim* is far more often money than blood, and
-in a Chumash passage it is far more often blood than money.
+get wrong: in a Mishnaic passage *damim* is regularly money, while in Chumash
+it is blood, with only two pesukim disputed.
 
 ## Distinctions
 
@@ -38,11 +38,16 @@ with *dinei mammonos* (Bava Basra 10:8). Rabbi Natan of Rome (*Sefer HeAruch*)
 and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, *Meturgaman*): *mammon* is Targum's
 standard Aramaic for the Biblical *hon* (wealth) and *rechush* (property).
 Etymologies: *Bamidbar Rabbah* 22:8 reads it as *mah atah moneh, eino klum*, what
-are you counting, it is nothing, which points to the root מ-נ-ה, counting. Rabbi
-Ernest Klein prefers *ma'amon*, a deposit or trust, from א-מ-נ, with the opening
-mem part of the root. Rabbi Yitzchok Schmelkes (*Beis Yitzchak*, Yoreh Deah 1:152)
-records that Mammon began as the name of a pagan deity of silver and only later
-became an ordinary word for money. The Chida notes that each letter of ממון is
+are you counting, it is nothing, an exegesis that partly suggests the root מ-נ-ה,
+counting. Rabbi Ernest Klein, in his etymological dictionaries of Hebrew and of
+English, writes that it most probably derives from *ma'amon*, a deposit or
+trust, from א-מ-נ, true or trustworthy, with the opening mem part of the root.
+The word also appears in the Christian Bible as a personification and
+deification of the greedy pursuit of wealth; and Rabbi Yitzchok Schmelkes of
+Lvov (1827-1905, responsa *Beis Yitzchak*, Yoreh Deah vol. 1 §152) explains
+that Mammon was originally the name of the pagan god of silver and money, and
+only afterward became an ordinary word for money. On a more esoteric plane,
+Rabbi Chaim Yosef David Azulai, the Chida, notes that each letter of ממון is
 spelled with its own letter doubled, hinting at "one who loves money is never
 sated with money" (Koheles 5:9): having one mem he wants a second; compare
 *Hafla'ah* to Kesubos 66b.
@@ -50,26 +55,39 @@ sated with money" (Koheles 5:9): having one mem he wants a second; compare
 ### damim (דמים)
 Money in Rabbinic Hebrew, not in Tanach, and always plural. In the Mishnah:
 Maaser Sheini 1:5, Pesachim 7:3, Kiddushin 1:6, Bava Metzia 5:3, Bava Basra 2:7,
-Arachin 5:2, Temurah 5:5, with the construct *demei* in many more (Terumos 5:1,
-6:3-4, 9:2-3; Maaser Sheini 1:4, 2:1; Kesubos 12:1-2; Bava Kamma 8:1-2, 9:1;
-Zevachim 8:1-2; Bechoros 5:6; Meilah 3:2, among others). Rabbi Eliyahu HaBachur
+Arachin 5:2, Temurah 5:5, with the construct *demei* in even more (Terumos 5:1,
+6:3-4, 9:2-3; Maaser Sheini 1:4, 2:1; Pesachim 9:8; Kesubos 12:1-2; Nazir 4:4;
+Bava Kamma 5:4, 8:1-2, 9:1, 9:4, 10:4; Bava Metzia 3:5, 3:12; Zevachim 8:1-2;
+Bechoros 5:6; Arachin 5:2-3; Meilah 3:2; Kinnim 1:4). Rabbi Eliyahu HaBachur
 notes that the sense of money never appears in the singular *dam*, which is what
-makes it hard for a beginner to tell it from the *damim* that means blood; he
+sometimes makes it hard for a novice to tell it from the *damim* that means
+blood, a word found in both Tanach and Mishnah; he
 also notes that *damim* is Targum's standard rendering of the Biblical *mechir*,
-price (II Shmuel 24:24; Yeshayahu 45:13) and *mecher*, sale price (Bamidbar
-20:19). At Yeshayahu 55:1, where *kesef* and *mechir* stand together, Targum
-Yonasan renders *kesef* as *damim* and *mechir* as *mammon*. Two Biblical verses
+usually "price" (II Shmuel 24:24; Yeshayahu 45:13) and *mecher*, sale price
+(Bamidbar 20:19). At Yeshayahu 55:1, where *kesef* and *mechir* stand together,
+Targum Yonasan renders *kesef* as *damim* and *mechir* as *mammon*. Offering
+translations into the European vernaculars, HaBachur writes in *Sefer HaTishbi*
+that *damim* is *gelt* in Yiddish and German and *dinero* in Spanish; the column
+notes that *dinero* takes its name from the medieval Spanish coin, itself
+modelled on the Arabic dinar and the Roman denarius, and that *dinarim* are
+mentioned many times by Chazal in the Mishnah. Two Biblical verses
 are disputed: at Shemos 22:1, a householder who kills a burglar in the tunnel has
 "no *damim*," which Rashi reads as blood (he is no murderer) and Rashbam as money
 (he owes no compensation); and at Tehillim 72:14 Ibn Ezra reads *dam* as blood
 while Ibn Janach and Radak (each in *Sefer HaShorashim*) read it as monetary
-worth. Etymology: Rabbi Ernest Klein derives it from ד-מ-ה, resembling, since
-money stands in for the commodity it is worth. Rabbi Shlomo Pappenheim, working
-only on Biblical Hebrew, builds that root out as "resemblance": *domeh*, *demus*,
-*dimyon* (imagination, which resembles reality without being it), *adam* (created
-in the image of Hashem, Bereishis 1:27), *dom*/*domeim* (still, the incongruity
-between an active mind and a stopped body), *adamah* (ground, passive while
-plants are active in it). Rabbi Shlomo Zalman Ehrenreich reads it instead from
+worth. Etymology: Rabbi Ernest Klein writes that *damim* in the sense of money
+probably derives from ד-מ-ה, being like or equal to something else. Rabbi
+Shlomo Pappenheim builds that root out as "similarity, resemblance": *domeh*,
+*demus*, *dimyon* (imagination, which may resemble reality without truly
+reflecting it), *adam* (created in the image of Hashem, Bereishis 1:27, in that
+he resembles Him in some ways); and since to call two things merely similar
+already rules out their being exactly equal, similarity implies incongruity,
+whence *dom*/*domeim* (quiet, inactive, the incongruity between a mind that
+goes on working and an outward activity that has stopped) and *adamah* (ground,
+which stays passive while the plants in it grow). Pappenheim himself never ties
+any of this to *damim* as money, his work being confined to Biblical Hebrew;
+the step, that money likewise *resembles* commodities in that its value can
+stand in for the commodity itself, is the column's own. Rabbi Shlomo Zalman Ehrenreich reads it instead from
 *dom*, silence: money given to the poor and to *talmidei chachamim* silences the
 prosecuting angel a sin acquires (Avos 4:11), and a Jew is better off silent
 about his wealth than flaunting it. Rabbi Chaim of Friedberg (*Igeres HaTiyul*)
@@ -85,8 +103,10 @@ value it.
 
 ### mammon against damim
 Rabbi Eliezer Herstik (*Ragli Mevaser*): *damim* is the value or price of a
-thing, *mammon* is any property or asset a man holds. The *Pri Megadim*: *mammon*
-is cash, whose value is already known, and *damim* is moveable property whose
+thing, *mammon* is any property or asset a man holds. Rabbi Yosef
+Teomim-Frankel (1727-1792), author of the *Pri Megadim*, writes in one of his
+letters that *mammon*
+is cash, *mobilia*, whose value is already known, and *damim* is moveable property whose
 value has still to be assessed before it can serve as currency; he also holds
 *damim* to be Hebrew (citing Rashbam at Shemos 22:1) against Aramaic *mammon*,
 and ties *damim* to *dimyon*/*demus*, since such property only resembles capital
@@ -104,13 +124,34 @@ crookedness, money corrupting a man so that he is taken from the world before hi
 time; the Tosafists (*Daas Zekeinim* to Bamidbar 32:1) have a version in which
 money perverts justice. *Zuz* likewise began as a coin and widened; *Bamidbar
 Rabbah* 22:8: liquid assets move (*zaz*) out of one man's hand into another's
-quickly. A *maneh* is a hundred *zuz*, from the same root as *moneh*, *manah*,
-and *minyan*.
+quickly. A *maneh*, the mina, is a coin worth a hundred *zuz*, and ostensibly
+from the same root as *moneh* (counting, appointing), *manah* (portion, lot),
+*minyan* (number, quorum) and *mammon* itself; they also seem related, the
+column adds, to the name of the idolatrous deity Meni (Yeshayahu 65:11), who
+was said to allot a man his destiny.
 
 ### kesef (כסף)
-Silver the metal, which became a general word for money, exactly as English
-"silver" once did. Where *kesef* and *mechir* stand in one pasuk (Yeshayahu
-55:1), Targum keeps them apart.
+Silver the metal, which then became another word for money outright. Where
+*kesef* and *mechir* stand in one pasuk (Yeshayahu 55:1), Targum keeps them
+apart.
+
+The column reports two of its own guesses about English, one abandoned and one
+not. It used to think English and German *gold* was related to Yiddish and
+German *gelt*, by Grimm's Law on the interchange of the *d* and *t* sounds,
+paralleling the way Hebrew's word for silver became its word for money; on
+further research it reports the consensus among linguists to be that *gold*
+goes back to the Proto-Indo-European *ghelh*, the more direct ancestor of
+English *yellow* and German *gelb*, while *gelt* goes back to the
+Proto-Indo-European *gheldh*, to pay or award, which is the ancestor of English
+*yield*. It likewise used to think English *money* came somehow from Mishnaic
+*mammon*, and a look at the *Oxford English Dictionary* gives instead that
+*money* and *mint* both come from the Latin *moneta*, the name of a Roman
+goddess in whose temple money was coined, often said to be no more than an
+epithet of the goddess Juno. But the original hunch, the column suggests, may
+not be so far off, since Professor Theo Vennemann Nierfeld proposes that Latin
+*moneta* is a cognate of the name of the god Meni, which would give English
+*money* and *mint* a Hebrew, or at least a Canaanite, Phoenician or Punic,
+origin.
 
 ## Rendering guidance
 
@@ -147,7 +188,6 @@ cited: Devarim 6:5; Berachos 9:5; Kesubos 2:9, 3:2, 66b; Bava Basra 10:8;
 II Shmuel 24:24; Yeshayahu 45:13, 55:1; Bamidbar 20:19, 32:1; Bereishis 1:27;
 Nedarim 64b; Bava Kamma 119a; Avos 2:8, 4:11; *Sefer HeAruch*; *Sefer HaTishbi*
 and *Meturgaman*; *Beis Yitzchak* Yoreh Deah 1:152; *Binah L'Itim* derush 69;
-*Ragli Mevaser*; *Leshon Chachamim*; *Daas Zekeinim* to Bamidbar 32:1. The
-article's Proto-Indo-European derivations of "gold" and "gelt," its Latin
-etymology of "money" and "mint," and Professor Theo Vennemann's proposal are
-omitted here.
+*Ragli Mevaser*; *Leshon Chachamim*; *Daas Zekeinim* to Bamidbar 32:1;
+Yeshayahu 65:11 (Meni); *Iggeres HaTiyul*; *Ezer Ohr* (glosses to *Sefer
+HaTishbi*); *Midrash Shmuel* to Avos 2:8; *Hafla'ah* to Kesubos 66b.

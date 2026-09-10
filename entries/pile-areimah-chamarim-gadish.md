@@ -7,9 +7,9 @@ english: [pile, heap, stack, sheaf, bundle, mound]
 domain: quantity
 sources:
   - wiaw:9534 "Piles and Piles" (2022-01-15) https://articles.ohr.edu/articles/piles-and-piles
-authorities: [Rambam, Rabbi Sherirah Gaon, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Machberet Menachem, Rasag, Donash Ibn Librat, Ibn Ezra, Rashbam, Rashi, Chizkuni, Rabbi Chaim Paltiel, Sefer HaGan, Rabbi Aharon Marcus]
-status: draft
-updated: 2026-09-09
+authorities: [Rambam, Rabbi Sherirah Gaon, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Machberet Menachem, Rasag, Donash Ibn Librat, Ibn Ezra, Rashbam, Rashi, Targum Onkelos, Chizkuni, Rabbi Chaim Paltiel, Sefer HaGan, Rabbi Aharon Marcus]
+status: reviewed
+updated: 2026-09-10
 ---
 # Pile: areimah / chamarim / gadish (omer)
 
@@ -19,10 +19,10 @@ updated: 2026-09-09
 Mishnaic Hebrew alike. *Chamarim* (always doubled, *chamarim chamarim*) is
 **heaps upon heaps**, a mass gathered together. *Gadish* is a **stack** of grain
 still in the sheaf; *omer* is the **bundle** or **sheaf** itself. The trap is
-*areimah* against *gadish*: Rambam treats them as one thing, but Rabbi Shlomo
+*areimah* against *gadish*: Rambam seems to equate them, but Rabbi Shlomo
 Pappenheim separates them, and the difference is threshed grain (*areimah*)
-against unthreshed (*gadish*). No source distinguishes *areimah* from
-*chamarim* in meaning.
+against unthreshed (*gadish*). The column reports that it has found no source that
+distinguishes *areimah* from *chamarim* in meaning.
 
 ## Distinctions
 
@@ -33,46 +33,55 @@ including Yirmiyahu 50:26 (the article prints Jer. 3:26), Chaggai 2:16, Rus 3:7
 cluster in Divrei HaYamim II 31:6-9; in Mishnaic Hebrew at *Terumos* 2:1,
 *Maasros* 1:5-6 and 5:7, and *Beitzah* 4:1. The same root also carries
 "cleverness" (Bereishis 3:1, Iyov 5:12, Mishlei 19:25) and "nakedness."
-*Machberet Menachem* lists all three senses without linking them. Rav Hirsch
-(to Bereishis 2:25) ties "pile" to "cleverness": a pile is many items, each
-worth little alone, that become something when heaped together, and cleverness
-is a pile of thoughts. He does not accept "nakedness" here at all, deriving it
-instead from ע-ו-ר (*ohr*, skin); elsewhere (to Bereishis 13:13) he does connect
-the two, the clever man being stripped bare of the worldly considerations that
-cloud thinking, and Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 3:1) says
-much the same. Rabbi Shlomo Pappenheim traces ע-ר-ם to the biliteral ע-ר,
-"revealing, unconcealed": nakedness reveals the body; a pile of grain is grain
-already taken out of its sheaves and so revealed; *eir* ("awake") is the man
-whose faculties are revealed, and thence "cleverness," the mind that stays
-awake and sharp. He adds *armon* (Bereishis 30:37), a tree bare of branches
-along its length and so "naked" in appearance.
+*Machberet Menachem* lists all three senses without intimating a connection
+between them. Rav Hirsch (1808-1888, to Bereishis 2:25) ties "pile" to
+"cleverness": a pile is many items, each worth little alone, that become
+something important when heaped together, and cleverness is a pile of thoughts a
+man has considered, no one of which looks like much until they are joined. Having
+explained those two, he admits that he does not know how "nakedness" fits the
+picture, and derives that word instead from ע-ו-ר (*ohr*, skin); elsewhere (to
+Bereishis 13:13) he does connect the two, the clever man being unencumbered by
+the worldly considerations that cloud a man's intellect, so that in being "naked"
+he can think straight, and Rabbi Aharon Marcus (1843-1916, *Keses HaSofer* to
+Bereishis 3:1) makes a similar point. Rabbi Shlomo Pappenheim of Breslau
+(1740-1814) traces ע-ר-ם to the biliteral ע-ר, "revealing, unconcealed":
+nakedness exposes the body; a pile of grain is grain already taken out of its
+sheaves and so revealed; *eir* ("awake") is the man whose abilities, hidden while
+he sleeps, are suddenly revealed, and thence "cleverness," the mind that stays
+sharp and aware as though always awake. He adds *armon* (Bereishis 30:37), a tree
+(possibly the *Platanus orientalis*) with branches only at the top and none along
+its length, so that it looks "naked."
 
 ### chamarim (חמרים)
 Root ח-מ-ר. Three times in Tanach for "piles": twice in Shemos 8:10 (the dead
 frogs gathered *chamarim chamarim*) and once in Bamidbar 11:32. In the Mishnah
 at *Uktzin* 2:5, a heap of onions amassed into one grouping (*chamran*); Rabbi
-Sherirah Gaon and Rambam, in their commentaries there, both note that this verb
-cognates with the Biblical *chamarim chamarim*. Rav Hirsch (to Bereishis 1:22-23
+Sherirah Gaon (906-1006) notes in commenting there that the verb used for
+amassing the onions cognates with the biblical *chamarim chamarim*, as does
+Rambam in his commentary there. Rav Hirsch (to Bereishis 1:22-23
 and 11:3) reads ח-מ-ר as unification and conglomeration of many components,
 which is why *chomer* is "matter," *chamarim* are piles of like items, and
 *cheimar* is the mortar that unifies bricks (Bereishis 11:3, 14:10, Shemos 2:3).
 
 ### gadish (גדיש) and omer (עמר)
 Rambam (to *Peah* 6:2 and *Eduyos* 4:4) defines a *gadish* as an *areimah* of
-*amarim*, that is, a stack made of sheaves; Rabbi Yaakov Emden (*Mishneh
-Lechem* to *Peah* 5:1) notes that he chose those two words deliberately because
-they are synonymous. Rabbi Shlomo Pappenheim disagrees with the equation: a
-*gadish* is grain still inside the sheaf, an *areimah* is grain already
-threshed out. Rav Hirsch groups *omer/amar* ("bundling" stalks) with *chamarim*
+*amarim*, that is, a stack made of sheaves; the column reads him as having chosen
+those two related words on purpose because they are indeed synonymous, citing
+Rabbi Yaakov Emden's *Mishneh Lechem* to *Peah* 5:1. Rabbi Shlomo Pappenheim
+takes the other view, contra Rambam, who on the column's reading seems to equate
+*gadish* and *areimah*: a *gadish* is grain still inside the sheaf, an *areimah*
+is grain already threshed out and so revealed. Rav Hirsch groups *omer/amar* ("bundling" stalks) with *chamarim*
 and with *amar* ("statement," many words gathered on one theme), all through
 the interchange of aleph, ches and ayin.
 
 ### The relation between areimah and chamarim
-The article proposes, without a source, that ע-ר-ם relates to ע-מ-ר by
-metathesis and ע-מ-ר to ח-מ-ר by the interchange of ayin and ches, so that
-*areimah* and *chamarim* are ultimately one word. It states plainly that no
-commentator was found who links them, and none who distinguishes their meanings.
-Treat this as the article's own suggestion, not a received distinction.
+The column proposes, without a source, that the connection "does seem tenable" in
+two steps: ע-ר-ם relates to ע-מ-ר ("bundling") by metathesis, and ע-מ-ר to ח-מ-ר
+by the interchange of ayin and ches, so that *areimah* and *chamarim* are
+ultimately related. It states plainly that it has not seen any commentator who
+explicitly links the two, nor found anyone who offers a way of differentiating
+their meanings. Treat this as the column's own suggestion, not a received
+distinction.
 
 ## Rendering guidance
 
@@ -87,17 +96,25 @@ Treat this as the article's own suggestion, not a received distinction.
   unthreshed, or where *gadish* and *areimah* stand in one sentence, force the
   split with pile / stack.
 - Trap: נערמו מים (Shemos 15:8) is contested, and the English must choose.
-  *Mechilta* (to Shemos 14:16), Rasag, Rashbam and Ibn Ezra read it from
-  *areimah*: the waters piled up like a heap of wheat. Targum Onkelos renders
-  *chakimu mayim*, "the waters became wise," and this is Rashi's preferred
-  reading; Chizkuni explains the waters were clever enough to chase the
-  Egyptians, Rabbi Chaim Paltiel that they could tell Jew from Egyptian, and
-  *Sefer HaGan* that they gained the knowledge to sing Hashem's praise. Donash
-  Ibn Librat objected to Rasag, but his own reading is missing from the printed
-  text; Ibn Ezra (*Sefas Yeser*) records only that he differed and that his
-  reading is *drash*, not *pshat*. A third reading, in *Esther Rabbah* 3:15,
-  hears *arum* ("naked") in the word: Hashem punished the Egyptians stripped
-  bare, as He strips the wicked in Gehinnom.
+  *Mechilta* (to Shemos 14:16), which says the waters became *areimos areimos*,
+  Rashbam, who writes that they piled up high like a heap of wheat, Rasag
+  (892-942), and Ibn Ezra in both of his commentaries to Shemos, all read it from
+  *areimah*. Targum Onkelos renders *chakimu mayim*, "the waters became smart,"
+  and this also seems to be Rashi's preferred reading; Chizkuni clarifies that the
+  waters were intelligent enough to pursue the Egyptians and drown them (the
+  column adds that this has nothing to do with added electrolytes), Rabbi Chaim
+  Paltiel that they could tell Jew from Egyptian, and the Tosafistic *Sefer
+  HaGan* that they suddenly gained the knowledge to sing Hashem's praise alongside
+  the Jews. Donash Ibn Librat (920-985) objected to Rasag's reading, but there is
+  an omission in the printed text of his work and his own preferred explanation is
+  missing; Ibn Ezra, whose *Sefas Yeser* defends Rasag against Donash, records
+  only that Donash differs and that his reading should be considered *drash*
+  rather than *pshat*, and the column ventures its own guess that Donash may have
+  preferred the Onkelos and Rashi approach. A third reading, in *Esther Rabbah*
+  3:15, hears *arum* ("naked") in the word: one opinion there says Hashem strips
+  the wicked of their outer clothes in Gehinnom, and another adds that He punished
+  the Egyptians likewise while they were naked, as the first word of *ne'ermu
+  mayim* seems to hint.
 
 ## Notes for a project
 

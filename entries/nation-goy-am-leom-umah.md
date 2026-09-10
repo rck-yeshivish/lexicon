@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:7491 "The Unaffiliated Nations" (2017-11-18) https://articles.ohr.edu/articles/the-unaffiliated-nations
 authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Wolf Heidenheim, Rabbi Yoel Ibn Shuaib, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rabbi Eliyahu Mizrachi, Rabbi Shlomo Ibn Melech, Radak, Rabbeinu Yonah]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Nation: goy / am / leom / umah
@@ -38,8 +38,9 @@ one king over them. *Am* is the tight word: a **people** united under a single
 king, leader, or under Hashem, and the only one of the four that regularly
 takes a possessive (*ami*, "My people"). *Leom* is a **nation** bound by a
 shared religion, so it can cover more than one kingdom. *Umah* stands with
-*leom* against *goy* as a nation that does have a crown. Every *am* is also a
-*goy*; not every *goy* is an *am* (Heidenheim). The trap is the colloquial
+*leom* against *goy* as a nation that does have a crown. On Heidenheim's
+approach it follows that every *am* is also a *goy*, but not every *goy* is an
+*am*. The trap is the colloquial
 "gentile": *goy* literally means nation, and in Tanach it is applied to Yisrael
 too.
 
@@ -58,9 +59,9 @@ too.
 all make *am* the word of shared allegiance or shared conduct and *goy* the
 mere aggregate. The Vilna Gaon (*Biur HaGra* to Yeshayahu 1:4) reverses it:
 *goy* denotes people who share a common manner, *am* a mass of individuals. The
-Bottom line follows the majority, since three of the four *rishonim* and
-*acharonim* cited here read it that way and it explains why *Am Yisrael* is
-*am*; note the Gra where a passage turns on the point.
+column brings the Gra as a "nonetheless" against the others and does not
+adjudicate; the Bottom line leads with the first group because that is the reading
+the column develops at length, and the Gra stands beside it, not behind it.
 
 **Whether goy can name one person.** Rabbi Eliyahu Mizrachi (to Bereishis
 20:4): *goy* is only ever a nation, never an individual. Rabbi Shlomo Ibn
@@ -94,9 +95,11 @@ specific unit than *goy*, and bound up with sovereignty, which is why it is
 almost the standing word for Yisrael. Wertheimer: like-minded people who act
 alike, which is why the day of *Kabbalas HaTorah* makes Yisrael an *am*
 (Devarim 27:9) and why a swarm of locusts is called an *am* (Yoel 2:2) though
-locusts have no king (Mishlei 30:27). Mecklenburg and Malbim: only *am* is
-conjugated possessively, *ami*, *amcha*, *amo*, because a *goy* belongs to no
-one; with Yisrael the possessor is nearly always Hashem. Rabbi Shlomo
+locusts have no king (Mishlei 30:27). Mecklenburg and Malbim: Tanach almost never conjugates
+*goy* in the possessive, but does conjugate *am*, *ami*, *amcha*, *amo*, because
+a loose confederation cannot be attributed to one king while an *am* by
+definition is ruled by one; with Yisrael the possessor is almost always
+Hashem. Rabbi Shlomo
 Pappenheim, cited approvingly by Heidenheim: *am* is spelled like *im*, "with",
 which says that the bond among its members is the closer one.
 

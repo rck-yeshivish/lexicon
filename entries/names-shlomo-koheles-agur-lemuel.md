@@ -13,7 +13,7 @@ words:
     distinct: from shalem, complete, since he saw the Beis HaMikdash completed (the Midrash), or from shalom, since peace prevailed in his reign (Targum Sheini, on Divrei HaYamim I 22:9); given by his parents, and by prophecy before his birth
   - he: ידידיה
     tr: Yedidyah
-    en: Yedidyah, beloved of Hashem
+    en: Yedidyah, friend of Hashem
     distinct: the name the navi Nosson gave him (Shmuel II 12:24-25); Menachos 53 reads the aphorism of the six yedidim through it, and there too the name points at his building the Mikdash
   - he: קהלת
     tr: Koheles

@@ -61,29 +61,64 @@ Kiddushin 71a). Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) already had to say
 that *duchan* is a noun and not a verb. Rabbi Yaakov Emden (*Ezer Ohr*, his
 glosses to *Sefer HaTishbi*): *duchan* is a cognate of the Aramaic *duchta*,
 place, a designated place for Kohanim and Leviim to stand. Rabbi Tzvi Hirsch
-Ferber (*Kerem Tzvi* to Bamidbar 6:23) gives two other readings: a compound of
-a Greek *du*, double, with the Hebrew *kan*, since the platform is twice the
-width of the steps up to it; or from the root ד-ו-כ, to crush or flatten, since
-those standing on so small a platform must press together. Rabbi Baruch HaLevi
-Epstein (*Degel HaTorah* §11) reports that a Rosh Yeshiva was once called a
-*Reish Duchana*, from his lectern; Rabbi Menachem Kasher (*Torah Shleimah* vol.
-26 p. 289) corrects him, since at the one place the term appears (Bava Basra
-21a) Rashi explains it as a teacher's assistant who drilled the children in
-what the melamed had taught.
+Ferber (*Kerem Tzvi* to Bamidbar 6:23) gives two other readings: a portmanteau
+of the Greek prefix *du-*, double, with the Biblical Hebrew *kan*, base, since
+an elevated platform might be twice the width of the stairs that lead up to it,
+so that it literally means "double base"; or from the root ד-ו-כ, to smash or
+flatten, since the *duchan* was typically a small area and those standing on it
+might have to squeeze together. The column extends that second reading on its
+own: the Proto-Indo-European root *plat-*, originally "to spread" or "to
+flatten," yielded a whole family of words for a flat surface, English *flat*,
+*place* (through the Greek *platus*), *platy*, *plaza*, *plate*, *plateau*, and
+also the Rabbinic Hebrew *platya*, street or highway, and the Modern Hebrew
+*plata*, the flat surface for warming food. The same development could be true
+in Hebrew, a name for a flat surface growing out of the verb for flattening, and
+the column notes that Rabbi Ernest Klein makes a similar point. In Modern
+Hebrew a *duchan* is a booth or stand from which a person peddles his wares;
+Klein connects that too to the Arabic *dukkan*, bench or shop. Rabbi Baruch
+HaLevi Epstein (*Degel HaTorah* §11; see also *Mekor Baruch* vol. 3 p. 1442)
+writes that in Talmudic times a Rosh Yeshiva was sometimes known as a *Reish
+Duchana*, on account of his standing as a public lecturer who spoke from a
+special lectern or platform; Rabbi Menachem Kasher (*Torah Shleimah* vol. 26 p.
+289) points out that this is not entirely accurate, since at the one place the
+term appears (Bava Basra 21) Rashi explains it as a low-level teacher's
+assistant paid to drill the children in what the main teacher had taught.
 
 ### bimah (בימה)
 Not in Tanach either. The Mishnah has it twice: the *bimah* built for the king
 to read from at Hakhel (Sotah 7:8), and the ruling that a Jew may not build a
-*bimah* for idolaters (Avodah Zarah 1:7). It is the ordinary word for the
-platform in the middle of the shul on which the Torah is read. Rashi (Sukkah
-51b, Avodah Zarah 16a, Sotah 41a) glosses it into Old French as *almemar*, the
-form German Jewry still uses (see also Rambam's commentary to Keilim 2:3).
+*bimah* for idolaters (Avodah Zarah 1:7). It is the colloquial word for the
+table or surface in the middle of the shul on which the Torah is read, and in
+Modern Hebrew a theatre director is a *bamai*, one who directs what happens on
+the stage. Rashi (Sukkah 51b, Avodah Zarah 16a, Sotah 41a) glosses it into Old
+French as *almemar* (or *almemor*), the form German (Yekkish) Jewry still uses;
+that term, the column notes, itself derives from the Arabic *al-minbar*, the
+pulpit or seat, on the Ethiopic *minbar*, seat (see also Rambam's commentary to
+Keilim 2:3). How an Arabic term reached the medieval French Jewish vernacular
+has hexed linguists and historians like Max Weinreich for generations.
+
+The consensus of scholars, the column reports, is that *bimah* comes from the
+Greek *bema*, pacing, marching, stepping, step or platform, which in turn comes
+from the Greek *bainein*, going, apparently also the source of the Greek *basis*
+below. On that account *bimah* is not an original Hebrew word and does not even
+come from a Semitic language. Professor Edward Yechezkel Kutscher (*Milim
+V'Toldoteihen*) draws the consequence: *bimah* is not related at all to the
+Biblical Hebrew *bamah*, for all that a *bamah* is a high place used for
+sacrificial worship and so resembles what a *bimah* is. *Bamah*, he writes, is a
+native Hebrew word, appearing over a hundred times in Tanach and attested in
+other Semitic languages, Arabic *buhma*, Aramaic *bamata*, Moabite *bamat*,
+Akkadian *bamtu*, Ugaritic *bmt*.
 
 ### basis (בסיס)
 A loanword, in the Mishnah once, for the base of a candelabrum (Keilim 11:7).
 Its halachic career is larger: *basis l'davar ha'assur*, a permitted object
 serving as the base for a forbidden one and thereby becoming forbidden itself
-(Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Chullin 125).
+(Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Chullin 125). The loan is
+from the Latin and Greek *basis*, base, step, pedestal, foot, going, the
+forebear of English *basis*, *base* and *basic*, and, through the
+interchangeability of *s* and *t*, of *diabetes* and *acrobat* as well. The
+Modern Hebrew *besisi*, basic or fundamental, and *basis* in the sense of an
+army base come from the same word.
 
 ### itztaba (אצטבא)
 Four times in the Mishnah, three of them in the Mikdash: the two loaves set on
@@ -91,10 +126,13 @@ the *itztaba* to mark the times for stopping and burning chametz on Erev Pesach
 (Pesachim 1:5); the parochet spread on the roof of the *itztaba* to dry after
 tevilah, so the people could see it (Shekalim 8:4); the lulavim placed on the
 roof of the *itztaba* before Shabbos (Sukkah 4:4). The fourth is the *itztaba*
-of a bathhouse (Niddah 9:3). Rashi (to Taanis 29a and Arachin 11b) defines
-*duchan* by *itztaba*, taking the two as near-synonyms; Rabbi Ernest Klein
-gives it a wider range, colonnade, portico, balcony, shelf, or a bench fixed to
-a wall.
+of a bathhouse (Niddah 9:3), which has nothing to do with the Mikdash. The term
+appears in several other places in the Gemara as well. Rashi (to Taanis 29a and
+Arachin 11b) defines *duchan* by *itztaba*, seemingly taking the two as
+synonymous or near-synonymous; Rabbi Ernest Klein, by contrast, gives it a wider
+range of five senses, colonnade, portico, balcony, shelf, or a bench fixed to a
+wall, and traces it to the Greek *stoa*, colonnade or column, which on Julius
+Pokorny's Proto-Indo-European dictionary goes back to the root *sta-*, to stand.
 
 ## Rendering guidance
 
@@ -112,8 +150,9 @@ a wall.
   absorbs *kan* and *basis*. Rashi's gloss of *duchan* as *itztaba* is a
   statement about two words, so keep both visible: "*duchan*, that is, an
   *itztaba*, a raised platform."
-- Second trap: *bimah* and *bamah* are not the same word and must not be
-  rendered alike. A *bamah* is a high place of worship; a *bimah* is furniture.
+- Second trap: on Kutscher, *bimah* and *bamah* are not the same word and must
+  not be rendered alike. A *bamah* is a high place of worship; a *bimah* is
+  furniture.
 
 ## Notes for a project
 
@@ -130,10 +169,15 @@ Bereishis 40:13, 41:13; Mishnah Yoma 5:3-4, Arachin 2:6, Middos 2:6, Kiddushin
 4:5, Sotah 7:8, Avodah Zarah 1:7, Keilim 11:7, Pesachim 1:5, Shekalim 8:4,
 Sukkah 4:4, Niddah 9:3; Taanis 29a; Arachin 11a-11b; Shabbos 118b; Rosh
 Hashanah 28b, 31b; Sotah 38b, 40a, 48a; Menachos 44a; Kiddushin 71a; Bava Basra
-21a with Rashi; Rashi to Sukkah 51b, Avodah Zarah 16a, Sotah 41a; Rambam to
-Keilim 2:3; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, with Rabbi Yaakov Emden's
+21 with Rashi; Rashi to Sukkah 51b, Avodah Zarah 16a, Sotah 41a; Rambam to
+Keilim 2:3; Rabbi Eliyahu HaBachur, *Sefer Tishbi*, with Rabbi Yaakov Emden's
 *Ezer Ohr*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Kerem Tzvi* to Bamidbar
 6:23; *Degel HaTorah* §11 and *Mekor Baruch* vol. 3 p. 1442; *Torah Shleimah*
-vol. 26 p. 289. The article's Proto-Indo-European derivations, its comparative
-Semitic material on *bamah*, and Professor Kutscher's *Milim V'Toldoteihen* are
-omitted here under the Orthodox-sources rule.
+vol. 26 p. 289; Even Shoshan's concordance for the count of seventeen; Rabbi
+Ernest Klein's etymological dictionary of Hebrew; Professor Edward Yechezkel
+Kutscher, *Milim V'Toldoteihen*; Julius Pokorny's Proto-Indo-European
+dictionary; Max Weinreich named for the unsolved *almemar* question. The article
+prints the *kiyor* verse as Lev. 8:111, a typo for Vayikra 8:11, and gives the
+*Reish Duchana* Rashi as Bava Batra 21 without an amud; both are reproduced here
+as the article has them, with the typo corrected. Nothing the article cites is
+omitted.

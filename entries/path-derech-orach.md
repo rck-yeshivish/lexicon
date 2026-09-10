@@ -42,7 +42,7 @@ sources:
   - wiaw:7893 "Roads and Paths, Ways and Means" (2018-08-25) https://articles.ohr.edu/articles/roads-and-paths-ways-and-means
   - babel:2020 "Learning to differentiate between apparent synonyms" (2020-05) sources/klein-babel-2020/synonyms-in-language.txt
 authorities: [Vilna Gaon, Malbim, Rabbi Tzvi Hirsch Shlez, Rabbi Shlomo Aharon Wertheimer, Zohar, Rabbi Shlomo Pappenheim, Radak, Rashi, Rabbi Moshe Shapiro]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Path: derech / orach
@@ -51,8 +51,8 @@ updated: 2026-09-10
 
 *Derech* is the **way** or **road**: broad, public, open to everyone, the
 general term, and the one that extends to conduct ("the way of Hashem").
-*Orach* is the **path**: short, narrow, seldom traveled, branching off the
-road toward a particular place (Vilna Gaon; Malbim). Keep "way"/"road" for
+*Orach* is the **path**: short, narrow, seldom traveled (Vilna Gaon), the road
+that reaches the outlying towns and villages (Malbim). Keep "way"/"road" for
 *derech* and "path" for *orach* and never swap them; English treats the two as
 interchangeable, the Hebrew does not. Pappenheim's dissent (one road, *derech*
 its length, *orach* its width) is recorded below; the Gaon and Malbim carry
@@ -81,6 +81,12 @@ are recorded here.
 
 ## Distinctions
 
+The first article sets out from Elul and the uptick in mussar it brings, and
+from the road words in the titles of the mussar sefarim themselves: *Orchos
+Tzaddikim*, "Ways of the Righteous"; *Mesillas Yesharim*, "Paths of the Just";
+*Derech Hashem*, "Way of God"; *Nesivos Shalom*, which it renders "The Lanes of
+Peace."
+
 ### derech (דרך)
 Root ד-ר-ך, from *dorech*, to tread, which also means to tread the winepress
 (Yeshayahu 63:2); Rashi (Devarim 33:29): to tread on one's enemies, to subdue
@@ -102,7 +108,8 @@ less-traveled destination, the tzaddik is said to guard the *orach* (Mishlei
 an *orach* is a brand new road no one has trodden, which is why the righteous
 are tied to it: they bring novel Torah into the world and reveal Hashem's
 presence where it had not yet been revealed. Rabbi Tzvi Hirsch Shlez on Dan
-(Bereishis 49:17): Michah's idol was the snake on the *derech*, a passive
+(Bereishis 49:17), reading Yaakov as foreseeing the two idols destined to be set
+up at the city of Dan: Michah's idol was the snake on the *derech*, a passive
 discouragement from the pilgrimage to Shiloh and Yerushalayim, whereas
 Yeravam's calf, which barred the pilgrimage by decree, made the way a narrow
 *orach* with a serpent on it. Radak: *oreach*, a guest, arrives by the road
@@ -161,9 +168,9 @@ sense come together, and no authority is named.
   should not be flattened to "path": "paved road," "footpath," "circular
   path," and, where the derashah from *shafel* is in play, "the path that goes
   down." Plain "path" for any of them loses the very thing that named it.
-- *Orchos* in a plural of conduct (*orchos tzaddikim*, *orchos chaim*):
-  "paths." The received English titles ("Ways of the Righteous," "Paths of the
-  Just") are titles and stay as they are.
+- *Orchos* in a plural of conduct (*orchos tzaddikim*): "paths." The received
+  English titles ("Ways of the Righteous," "Paths of the Just") are titles and
+  stay as they are; the article uses them so.
 - Trap: "path" absorbs both words in English, and "way" drifts to "manner"
   and loses the road altogether. When a pasuk or a derashah sets the two side
   by side (Dan; Mishlei's *derech* and *orach* parallels), the English must
@@ -183,7 +190,11 @@ Word?, Ohr Somayach, 14 Elul 5778 (2018-08-25): raw text in
 loci the article cites: Bereishis 49:16-18 (the pasuk itself is 49:17) with
 Rabbi Tzvi Hirsch Shlez; Mishlei 2:20 with Wertheimer; Zohar Vayakhel 215a and
 Kedoshim 88a; Yeshayahu 63:2 and Rashi to Devarim 33:29 on *dorech*; Radak on
-*oreach*. That article treats *derech* and *orach* alone.
+*oreach*; Rabbi Moshe Shapiro on *dorech* as the treading down of trials. That
+article treats *derech* and *orach* alone, and is explicitly the first
+installment of a series: it opens by promising to study "these different words
+and more" over the following weeks and closes "To be continued." Any later
+installment on the remaining six words has not been consulted here.
 
 The remaining six words come from a second piece by the same author: Rabbi
 Reuven Chaim Klein, "Learning to differentiate between apparent synonyms,"
@@ -195,4 +206,8 @@ for *rechov*, *netiv*, *mesilah*, *mishol*, *maagal* and *shvil*. It cites the
 Zohar for the public *derech* against the private *netiv*, and gives every
 other one of those distinctions unattributed, as "some explain," "others
 explain," "is said to refer" or "is explained as." No further authority
-should be read into them.
+should be read into them. The eight words are introduced there by an anecdote:
+as a boy in Los Angeles the author knew Hollywood Boulevard, Avenue of the
+Stars, Melrose Place, Rodeo Drive, Valley Circle and the Third Street where his
+yeshivah stood, and was bothered by who decided which thoroughfare got which
+name.

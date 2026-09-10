@@ -28,8 +28,8 @@ words:
     distinct: ordinarily soft, tender, young; a minority school reads a second rach meaning "king," from the same reich (Sefer Russiana, Pittsburgher Rebbe, Rabbi Chaim Vital)
 sources:
   - wiaw:10750 "Vayeshev: The Amazing Multi-Named Joseph" (2022-12-17) https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph
-authorities: [Rashi, Targum Onkelos, Targum Yonasan, Ibn Chayyuj, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Levi Yitzchak of Berditchev, Rambam, Chasam Sofer, Ibn Ezra, Rabbi Eliyahu HaBachur, Taz (Divrei Dovid), Rabbi Chaim Vital, Pittsburgher Rebbe, Rabbi Chaim Kanievsky, Rabbi Mordechai Gross]
-status: draft
+authorities: [Rashi, Targum Onkelos, Targum Yonasan, Ibn Chayyuj, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Levi Yitzchak of Berditchev, Rambam, Chasam Sofer, Ibn Ezra, Rabbi Eliyahu HaBachur, Taz (Divrei Dovid), Rabbi Chaim Vital, Sefer Russiana, Pittsburgher Rebbe, Rabbi Chaim Kanievsky, Rabbi Mordechai Gross]
+status: reviewed
 updated: 2026-09-10
 ---
 # Names of Yosef: Yosef / Yehosef / Tzafnas Paneach / Avreich
@@ -64,9 +64,19 @@ three.
    at all: *dein abba l'malka*, "this is the father to the king." Rashi's first
    explanation follows, parsing *avreich* as *av* plus *reich*, king. Our texts
    of Rashi say *reich* is Aramaic for king, but no such Aramaic word exists;
-   it is generally accepted that a copyist's error stands here and Rashi wrote
-   Latin. The word does appear in the Gemara: the emperor tells Herod he is
-   "neither a *reicha* nor the son of a *reicha*" (Bava Basra 4a).
+   it is generally agreed that a mistake crept into our versions and that Rashi
+   should be read as saying *reich* means king in *Latin*. The Latin word does
+   appear in the Gemara: opposing Herod's plan to refurbish the Beis HaMikdash,
+   the emperor warns that on account of his questionable lineage he is "neither a
+   *reicha* nor the son of a *reicha*" (Bava Basra 4a). The column adds that
+   Latin *reggio*/*rex* means king, from the Proto-Indo-European root *reg-*,
+   making it a cognate of German *reich*, kingdom or empire, and of a whole bevy
+   of English words, among them *raj*, *royal*, *regal*, *regius*, *reign*,
+   *regent*, *rector*, *director* and *prerogative*; it also underlies the names
+   Regina, Reginald, Reinhold, Ronald, Rhona, Richard, Heinrich, Hendrik,
+   Aldrich, Rodriguez, Patrick, Derek, Fredrich, Imre and Emmerich, the last of
+   which has as its Italian equivalent the name of Amerigo Vespucci, for whom
+   the Americas are named.
 2. **A father in wisdom, young in years.** *Bereishis Rabbah* 90:3 and *Sifrei
    Devarim* 1 split it as *av* plus *rach* (soft, young), setting Yosef's
    surpassing wisdom against his youth. This is the source of the modern use of
@@ -112,12 +122,17 @@ young. A minority school reads a second *rach*, cognate with *reich*: *Sefer
 Russiana* and, independently, the Pittsburgher Rebbe (*Emunas Avraham*) on Leah's
 eyes as *rakos* (Bereishis 29:17), against Rashi there, who reads them soft from
 weeping; *Targum Yonasan* on David's "I am today *rach* and anointed king"
-(Shmuel II 3:39), which Radak understands as taking *rach* for king; Rabbi Chaim
+(Shmuel II 3:39), which it renders "I am today like a commoner who will grow up
+to be king," and from which Radak *implies* that Targum took *rach* for king;
+Rabbi Chaim
 Vital (*Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19) on *harakah*, the pampered
 woman of Devarim 28:56; and Rashi (to Shabbos 53a) explaining the amora Shmuel's
-nickname Aryoch as royal, since he judged civil law like a king, though Rashi
-elsewhere (Menachos 38b) derives Aryoch from *aryeh*, the lion of Yehudah
-(Bereishis 49:9). The Bottom line keeps "soft" and treats the royal reading as a
+nickname Aryoch as royal, the *rach* of it being the Latin for king, since he
+was expert in civil law and in that role functioned in a way resembling a king,
+though Rashi elsewhere (Menachos 38b) derives Aryoch from *aryeh*, the lion to
+which Yehudah is compared (Bereishis 49:9). The name Aryoch is borne in Tanach by
+the king of Elasar, one of the four kings Avraham fought (Bereishis 14:1, 14:9),
+and by a minister of Nevuchadnetzar (Daniel 2:4, 2:15, 2:24-25). The Bottom line keeps "soft" and treats the royal reading as a
 derashah to be flagged, not assumed.
 
 ## Distinctions
@@ -130,16 +145,23 @@ the yud as extraneous and takes the core as ס-פ, "end," which yields *sof* (an
 end), *sayif* (a sword, which ends a life), *safah* (a lip, edge, or riverbank),
 *saf* (a threshold, a domain's edge), and *asifah* (gathering, which redraws a
 set's boundaries). Adding, on this reading, is extending an end to where it had
-not reached. Three others in Tanach bear the name: the father of Yigal the spy
+not reached. The name *Yosef* appears more
+than 200 times in Tanach of him and of his descendants, and three others there
+bear it: the father of Yigal the spy
 from Yissachar (Bamidbar 13:7), a singer of the family of Assaf in David's day
 (Divrei HaYamim I 25:9), and one of the returnees in the days of Ezra and
 Nechemiah (Ezra 10:42, Nechemiah 12:14).
 
 ### Tzafnas Paneach (צפנת פענח)
 *Paneach* looks quadriliteral, פ-ע-נ-ח, and is otherwise unattested in Biblical
-Hebrew. Ibn Ezra and Rabbi Eliyahu HaBachur hold as a rule that quadriliteral
-roots are not native to Hebrew but loanwords, which is why an Egyptian
-derivation has been sought; those proposals fall outside this guide.
+Hebrew. Ibn Ezra and Rabbi Eliyahu HaBachur hold as a rule that words from quadriliteral
+roots are not native to Hebrew but come in as loanwords, which suggests turning
+to Egyptian. The column says it did so in its author's own *Lashon HaKodesh:
+History, Holiness, & Hebrew*, and lists the possible translations gathered there
+on the assumption of an Egyptian origin: "lord of life," "Neth speaks life," "the
+god speaks and [this man] lives," "redemption of the age," "savior of his time,"
+"he who is called Ip-Ankh," and "the man who knows things." The column presents
+these as possibilities, not as a settled reading.
 
 ## Rendering guidance
 
@@ -170,8 +192,7 @@ Nechemiah 12:14; Sotah 10b and 36b; Niddah 30b; Shabbos 53a; Menachos 38b; Bava
 Basra 4a; *Bereishis Rabbah* 90:3 and 90:4; *Sifrei Devarim* 1; Rambam,
 *Hilchos Klei HaMikdash* 9:9, with *Minchas Chinuch* 99; *Divrei Dovid* to
 Bereishis 41:43; *Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19; *Emunas Avraham*
-to Bereishis 29:17; the piyyut *Even Choger*. The article's Proto-Indo-European
-derivation of Latin *rex*, its list of European names built on that root, and
-its collection of proposed Egyptian translations of *Tzafnas Paneach* are
-omitted under house rule 9; the Gemara's own *reicha* (Bava Basra 4a) is kept,
-since Rashi's reading depends on it.
+to Bereishis 29:17; *Sefer Russiana* to Bereishis 29:17; Bereishis 14:1, 14:9;
+Daniel 2:4, 2:15, 2:24-25; the piyyut *Even Choger*; and the column's own *Lashon
+HaKodesh: History, Holiness, & Hebrew* for the proposed Egyptian renderings of
+*Tzafnas Paneach*.

@@ -14,15 +14,15 @@ words:
     tr: Yisrael
     en: Yisrael
     nk: יִשְׂרָאֵל
-    distinct: given after he prevailed over the angel, from sar, to lord over (Bereishis 32:30); an added name, not a replacement (Rabbeinu Bachya), and used of him as founder of the nation (Maharal, Rav Hirsch). Chasam Sofer parses it yashar plus El, a straightness reached with Divine help
+    distinct: given after he prevailed over the angel, from sar, to lord over (Bereishis 32:29, printed in the article as 32:30); an added name, not a replacement (Rabbeinu Bachya), and used of him as founder of the nation (Maharal, Rav Hirsch). Chasam Sofer parses it yashar plus El, a straightness reached with Divine help
   - he: ישורון
     tr: Yeshurun
     en: Yeshurun
     distinct: four occurrences only (Devarim 32:15, 33:5, 33:26; Yeshayahu 44:2); from yashar, straight, given to refute Esav's slur that Yaakov means crookedness (Ramban); for Chasam Sofer, straightness attained by the nation's own effort
 sources:
   - wiaw:8553 "Jacob's Three Names" (2020-01-11) https://articles.ohr.edu/articles/jacobs-three-names
-authorities: [Rashi, Ramban, Rabbeinu Bachya, Maharal, Maharsha, Vilna Gaon, Ohr HaChaim, Rav Hirsch, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Chasam Sofer, Megaleh Amukos, Arizal, Zohar, Noda BiYehudah]
-status: draft
+authorities: [Rashi, Ramban, Rabbeinu Bachya, Maharal, Maharsha, Vilna Gaon, Ohr HaChaim, Rav Hirsch, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Chasam Sofer, Megaleh Amukos, Arizal, Zohar, Noda BiYehudah, Rabbi Meir Simcha of Dvinsk, Rabbi Nosson Kamenetsky]
+status: reviewed
 updated: 2026-09-10
 ---
 # Names of Yaakov: Yaakov / Yisrael / Yeshurun
@@ -43,12 +43,13 @@ point; do not smooth it to one name.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | יעקב | Yaakov | Yaakov | from the heel he held at birth (Bereishis 25:26); the individual (Maharal, Rav Hirsch); the sorrowing state (Ohr HaChaim); yirah (Rabbi Elimelech of Lizhensk) |
-| ישראל | Yisrael | Yisrael | from sar, prevailing over an angel and over men (Bereishis 32:30); the nation's progenitor; the settled and joyful state (Ohr HaChaim); ahavah (Rabbi Elimelech) |
+| ישראל | Yisrael | Yisrael | from sar, prevailing over an angel and over men (Bereishis 32:29); the nation's progenitor; the settled and joyful state (Ohr HaChaim); ahavah (Rabbi Elimelech) |
 | ישורון | Yeshurun | Yeshurun | from yashar, straight; four occurrences; a title of praise refuting Esav's slur (Ramban); the nation at its peak, straight by its own effort (Chasam Sofer) |
 
 ## Where the authorities disagree
 
-**When the Torah says Yaakov and when Yisrael.** Maharal and Rav Hirsch: the name marks
+**When the Torah says Yaakov and when Yisrael.** Many commentators, among them the
+Maharal and Rav Hirsch: the name marks
 the frame, *Yaakov* for the individual and *Yisrael* for the man in his role as father
 of the nation. Rabbi Elimelech of Lizhensk: the two names stand for two avenues of
 avodah, *Yaakov* for *yiras Hashem* and *Yisrael* for *ahavas Hashem*. The Ohr HaChaim
@@ -68,16 +69,26 @@ v'naeh*, straight and fine, the two phrases matching in *gematria* when *Yeshuru
 spelled with two vavs. Rabbeinu Bachya: from *shur*, to gaze, since they came nearest to
 gazing on the Shechinah at Har Sinai. The Vilna Gaon: from *shir*, song, for the shirah
 at the Sea. Rabbi Yaakov Tzvi Mecklenburg: from *shirah* as a name of the Torah (Devarim
-31:19), since they alone accepted it. The Bottom line follows Ramban, whose reading fits
-all four occurrences and is the one with a stated purpose.
+31:19), since they alone accepted it. The column sets these side by side and does not
+rank them; the Bottom line leads with Ramban because his is the one reading that states
+why the name was given.
 
 **Whether Yeshurun is a name of the Jewish People at all.** The Maharsha holds that
 *Yeshurun* is a Name of Hashem, and ascribes the view to Rashi. Rabbi Yechezkel Landau
 (*Noda BiYehudah Tinyana, Orach Chaim* §126) works out what the Maharsha meant; Rabbi
-Nosson Kamenetsky devoted an essay to the question. The prevailing reading, and the one
-the Bottom line takes, is the plain one of *Tanna DeVei Eliyahu* (*Seder Eliyahu Rabbah*
-ch. 21), the source of the pre-Shacharis passage that says Hashem "called his name
-Yisrael and Yeshurun."
+Nosson Kamenetsky devoted an exhaustive essay to the question. The column itself brings
+the Maharsha only as a bracketed aside, and takes as its plain evidence that *Yeshurun*
+names Yaakov the pre-Shacharis passage that calls the Jewish People "the congregation of
+Your firstborn son Yaakov, whom from Your love that You loved him and from Your
+happiness that You were happy with him, You called his name Yisrael and Yeshurun," whose
+earliest source is *Tanna DeVei Eliyahu* (*Seder Eliyahu Rabbah* ch. 21).
+
+Rabbi Meir Simcha of Dvinsk notes that apart from that prayer the Jews are almost never
+called *Yeshurun* in the liturgy, the exception being the Yom Kippur wording, "Forgiver
+of Israel and Pardoner of the Tribes of Yeshurun in all generations." He accounts for
+the doubled expression by taking "Forgiver of Israel" of sins between man and Hashem,
+typified by the Eigel, and "Pardoner of the Tribes of Yeshurun" of sins between man and
+his fellow, typified by the brothers' sale of Yosef.
 
 **Which name stands highest.** The Zohar ranks them: *Yisrael* above *Yaakov* (*Vayechi*
 222a), and *Yeshurun* above *Yisrael* (*Vayishlach* 177b). The Chasam Sofer (to Yoma
@@ -98,8 +109,10 @@ Bereishis 25:26: named for the *akeiv*, Esav's heel, which he held at birth. Ber
 supplanting or deceit; that slur is what the third name answers.
 
 ### Yisrael (ישראל)
-Bereishis 32:30, the angel of Esav at the Yabok: "for you have lorded (*sarisa*) over
-angels and over men," confirmed by Hashem Himself at Bereishis 35:10. Rabbeinu Bachya: the
+Bereishis 32:29, the angel of Esav at the Yabok: he "lords" (*sar*) over angels
+(*elohim*, or *el* for short) and over men, confirmed by Hashem Himself at Bereishis
+35:10. (The article prints Gen. 32:30; the naming is at 32:29 in Hebrew versification,
+32:28 in English.) Rabbeinu Bachya: the
 earlier name was not withdrawn, so *Yisrael* is an addition and both remain in force, which
 is why the Torah keeps using both.
 
@@ -132,8 +145,10 @@ None yet.
 Rabbi Reuven Chaim Klein, "Jacob's Three Names," What's in a Word?, Ohr Somayach, 14
 Teves 5780 (2020-01-11): raw text in
 `sources/whats-in-a-word/raw/8553-jacobs-three-names.md`. Primary loci cited: Bereishis
-25:26, 27:36, 32:30, 35:10; Devarim 31:19, 32:15, 33:5, 33:26; Yeshayahu 44:2; Michah
+25:26, 27:36, 32:29, 35:10; Devarim 31:19, 32:15, 33:5, 33:26; Yeshayahu 44:2; Michah
 7:20; Yoma 73b with Chasam Sofer; Zohar *Vayishlach* 177b and *Vayechi* 222a; *Seder
 Eliyahu Rabbah* ch. 21; Ramban to Bamidbar 23:10 and Devarim 2:10, 7:12; Rabbeinu Bachya;
 *Megaleh Amukos*; *Arugas HaBosem*; *Peirush HaRokeach* to the Siddur; *Eitz Yosef*;
-*Noda BiYehudah Tinyana, Orach Chaim* §126.
+*Noda BiYehudah Tinyana, Orach Chaim* §126. One locus is corrected against the
+article: it prints Gen. 32:30 for the giving of the name Yisrael, which is Bereishis
+32:29 in Hebrew versification. The `words:` block carries the corrected locus with the article's form noted.
