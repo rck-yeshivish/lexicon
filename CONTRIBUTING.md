@@ -27,6 +27,20 @@ For each line:
    existing entry. If the natural name is taken by a different cluster, add a
    distinguishing word (`fear-pachad-eimah.md` beside `fear-yirah-daagah.md`).
 
+
+## Before you write the distinction
+
+Read `references/how-synonyms-differ.md` once. It lists the eight ways apparent
+synonyms actually differ, drawn from Rabbi Klein's own account of the method:
+general against specific, the same thing from a different angle, degree along a
+scale, act against result, scope or setting, the speaker's stance, different
+language, and loanword against native word.
+
+Ask which one is at work before writing. It keeps a distinction from being
+invented where the real answer is one of these, and it gives the reader the
+shape of the answer as well as the answer. If none fits and no authority draws
+the line, say the sources do not separate the words. That is a finding.
+
 ## Hard rules
 
 - **Front matter complete.** `hebrew` (unpointed, correctly spelled),

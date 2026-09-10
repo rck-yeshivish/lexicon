@@ -129,8 +129,10 @@ def md(text):
         if not line.strip():
             i += 1
             continue
-        if line.startswith("### "):
-            out.append(f"<h3>{inline(line[4:].strip())}</h3>")
+        m = re.match(r"^(#{1,3}) (.+)$", line)                  # headings
+        if m:
+            lvl = len(m.group(1))
+            out.append(f"<h{lvl}>{inline(m.group(2).strip())}</h{lvl}>")
             i += 1
             continue
         if line.lstrip().startswith("|"):                      # table
@@ -293,7 +295,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 {body}
 </main>
 <footer>
-  <p>Grounded only in Orthodox sources. Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
+  <p>Grounded only in Orthodox sources. Every distinction is attributed; where the authorities disagree, the entry names the views. <a href="{up}method.html">How these words differ</a>.</p>
   <p class="muted">The entries are checked for sources and consistency, but have not yet been read one by one against the essays they rest on.</p>
   <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach.</p>
 </footer>
@@ -383,6 +385,7 @@ def main():
 <section class="split">
   <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">א&#1523; ועד ת&#1523;</p></a>
   <a class="card" href="english.html"><h3>Browse English</h3><p>A to Z, from the English back to the Hebrew.</p></a>
+  <a class="card" href="method.html"><h3>How these words differ</h3><p>The handful of ways apparent synonyms actually part company.</p></a>
 </section>'''
     emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
 
@@ -406,6 +409,14 @@ def main():
 </section>'''
     emit("english.html", shell("English — What’s in a Word?", en_body, active="en",
                                extra_js='<script>initBrowse("en");</script>'))
+
+    method_src = ROOT / "references" / "how-synonyms-differ.md"
+    if method_src.exists():
+        body = method_src.read_text(encoding="utf-8")
+        # Our own distillation, not the magazine's text: the article is credited
+        # and linked, never reproduced.
+        emit("method.html", shell("How these words differ — What’s in a Word?",
+                                  f'<article class="entry prose">{md(body)}</article>'))
 
     emit("assets/app.css", CSS)
     emit("assets/app.js", JS)
@@ -483,8 +494,9 @@ header.bare .brand{flex:1}
 .chip{border:1px solid var(--line);background:var(--panel);color:var(--dim);
   border-radius:999px;padding:4px 12px;font:inherit;font-size:14px;cursor:pointer;margin:0 3px}
 .chip:hover{color:var(--ink);border-color:var(--dim)}
-.split{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:56px}
-@media (max-width:640px){.split{grid-template-columns:1fr}.hero h1{font-size:33px}.hero{padding:52px 0 20px}}
+.split{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:56px}
+@media (max-width:860px){.split{grid-template-columns:1fr}}
+@media (max-width:640px){.hero h1{font-size:33px}.hero{padding:52px 0 20px}}
 .card{display:block;padding:24px;border:1px solid var(--line);border-radius:var(--radius);
   background:var(--panel);color:var(--ink);transition:transform .15s,box-shadow .15s}
 .card:hover{text-decoration:none;transform:translateY(-2px);box-shadow:var(--shadow)}
@@ -542,6 +554,9 @@ header.bare .brand{flex:1}
 
 /* entry ------------------------------------------------------------------- */
 .entry{padding:44px 0 0;max-width:760px}
+.prose h1{font-size:34px;margin:0 0 18px;text-transform:none}
+.prose h2{font-size:13px;border-bottom:1px solid var(--line);padding-bottom:8px;margin:34px 0 14px}
+.prose h3{font-size:18px}
 .eyebrow{color:var(--faint);font-size:13px;text-transform:uppercase;letter-spacing:.07em;margin:0 0 8px}
 .entry h1{font-size:38px;letter-spacing:-.021em;font-weight:600;margin:0 0 6px;text-transform:capitalize}
 .heb-title{font-family:var(--heb);font-size:29px;color:var(--dim);margin:0 0 30px;
