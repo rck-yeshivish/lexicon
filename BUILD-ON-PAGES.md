@@ -2,7 +2,7 @@
 
 Cloudflare builds the site itself from this repo, so nothing generated needs to
 be committed. Create the project from the dashboard: **Workers & Pages → Create
-→ Pages → Connect to Git**, pick `lexicon`, then set:
+→ Pages → Connect to Git**, pick `lexicon` (the repo), then set:
 
 | Setting | Value |
 |---|---|
@@ -10,6 +10,11 @@ be committed. Create the project from the dashboard: **Workers & Pages → Creat
 | Build command | `python tools/build_site.py` |
 | Build output directory | `site` |
 | Root directory | *(leave blank)* |
+| Project name | `whatsinaword` |
+
+The project name becomes the subdomain, so this one publishes to
+`whatsinaword.pages.dev`. `lexicon` is already taken by someone else's project;
+the name is global across all Cloudflare accounts, not just yours.
 
 Nothing else is needed. There is no `package.json`, no dependencies to install,
 and the build takes seconds: the script reads `entries/` and writes `site/`.
@@ -30,7 +35,7 @@ If you would rather they did not, deploy the built folder directly instead and
 skip Git integration entirely:
 
 ```bash
-npx wrangler pages deploy site --project-name=lexicon
+npx wrangler pages deploy site --project-name=whatsinaword
 ```
 
 That uploads `site/` and nothing else. The cost is that you run one command
@@ -38,7 +43,7 @@ after each change rather than getting a deploy on every push.
 
 ## Either way, before it is public
 
-- A Pages project is reachable at `lexicon.pages.dev` by default.
+- A Pages project is reachable at `whatsinaword.pages.dev` by default.
 - All 342 entries are `status: draft`: sourced and lint-clean, but not yet read
   against their sources by a person.
 - **Workers & Pages → your project → Settings → Access policy** puts the whole

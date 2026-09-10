@@ -13,12 +13,12 @@ off the web. It is Rabbi Klein's and Ohr Somayach's copyright and must not be
 published; only our own entries go up.
 
 ```bash
-npx wrangler pages deploy site --project-name=lexicon
+npx wrangler pages deploy site --project-name=whatsinaword
 ```
 
 The first run opens a browser to authorise your Cloudflare account and creates
 the project. Every later run is the same one line, and Cloudflare gives you a
-`lexicon.pages.dev` URL plus a preview URL per deploy.
+`whatsinaword.pages.dev` URL plus a preview URL per deploy.
 
 ## The alternative, and why it is second choice
 
