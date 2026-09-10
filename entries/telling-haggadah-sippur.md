@@ -5,6 +5,9 @@ roots: [נ-ג-ד, ג-ד, ס-פ-ר]
 translit: [haggadah, hagadah, higid, lehagid, maggid, magid, vehigadeta, vehigadata, tageid, tagid, aggadah, agadah, sippur, sipur, lesaper, misaper, mesaper, tesaper, tisaper, sefer, sfar, mispar, sofer, sapir, gid, gad, neged]
 english: [tell, relate, declare, recount, narrate, the telling]
 domain: speech
+words:
+  - he: מספר
+    nk: מְסַפֵּר
 sources:
   - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
 authorities: [Ramban, Rashi, Ibn Ezra, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Eliyahu HaBachur, Netziv, Rabbi Dovid Abudraham, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Shapiro, Peirush HaRokeach, Rabbi Chaim Soloveitchik, Brisker Rav, Rabbi Aryeh Pomeranchik, Rabbi Yechiel Michel Feinstein, Rabbi Nosson Gestetner, Rabbi Ari Bergmann, Alshich]

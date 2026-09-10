@@ -5,6 +5,13 @@ roots: [ע-נ-י, א-ב-ה, ס-כ-נ, י-ר-ש, ד-ל-ל, ד-כ-כ, מ-כ-כ, ת
 translit: [ani, oni, evyon, evyonim, misken, miskein, rash, dal, dakh, dach, mach, mak, ish techachim, ish tochachim, heilech, helech, matanos laevyonim, matanot laevyonim, inui, taav, sakanah, deli]
 english: [poor, destitute, needy, unfortunate, dispossessed, crushed, downtrodden, wanderer]
 domain: society
+words:
+  - he: דל
+    nk: דַּל
+  - he: הלך
+    nk: הֵלֶךְ
+  - he: מך
+    nk: מָךְ
 sources:
   - wiaw:8245 "The Poor and Unfortunate" (2019-05-18) https://articles.ohr.edu/articles/the-poor-and-unfortunate
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach]

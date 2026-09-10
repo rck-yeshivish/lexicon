@@ -5,6 +5,13 @@ roots: [כ-ע-ס, ח-מ-ה, ח-ר-ה, ר-ג-ז, ע-ב-ר, ז-ע-ם, ז-ע-ף, ק
 translit: [kaas, ka'as, kaas, cheimah, cheima, chemah, chema, charon, charon af, charon-af, rogez, rogeiz, b'rogez, broiges, evrah, evra, ivrah, zaam, za'am, zaaf, za'af, ketzef, ketsef, af, anaf, ashan, panim, naatz, na'atz, atzvus, atzvut, raam, ra'am, shetzef, ritcha]
 english: [anger, wrath, burning anger, fierce anger, fury, rage, indignation, agitation, upset]
 domain: emotion
+words:
+  - he: חמה
+    nk: חֵמָה
+  - he: אף
+    nk: אַף
+  - he: אנף
+    nk: אָנַף
 sources:
   - wiaw:9296 "Anger Issues" (2021-07-17) https://articles.ohr.edu/articles/anger-issues
 authorities: [Rabbeinu Efrayim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Vilna Gaon, Ibn Janach, Ibn Ezra, Radak, Eitz Yosef, Rambam, Rabbi Avraham Maimuni, Rashi, Menachem, Rabbeinu Tam, Targum Yonatan, Donash, Rabbi Yosef Kimchi]

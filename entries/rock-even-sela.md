@@ -5,6 +5,11 @@ roots: [א-ב-נ, ס-ל-ע, ל-ב-נ]
 translit: [even, ehven, avanim, avnei, sela, selah, slaim, selaim, leveinah, levenah]
 english: [stone, rock, crag, brick]
 domain: nature
+words:
+  - he: אבן
+    nk: אֶבֶן
+  - he: לבנה
+    nk: לְבֵנָה
 sources:
   - wiaw:7990 "Like a Rock (Part 1)" (2018-11-17) https://articles.ohr.edu/articles/like-a-rock-part-1
 authorities: [Malbim, Rabbi Immanuel Chai Ricci, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus]

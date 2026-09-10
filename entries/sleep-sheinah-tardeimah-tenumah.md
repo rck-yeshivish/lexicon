@@ -5,6 +5,9 @@ roots: [י-ש-נ, ש-נ, ר-ד-ם, ר-ד, נ-ו-ם, נ-ם, ל-ו-נ, ל-י-נ]
 translit: [sheinah, sheina, sheintah, yashein, yashen, yashan, tardeimah, tardema, radum, tenumah, tenuma, misnamnem, mitnamnem, nim, linah, lina, lalin, lalun, malon, durmitah, durmita, shechivah, hozim]
 english: [sleep, slumber, deep sleep, dozing, drowsiness, lodging overnight]
 domain: body
+words:
+  - he: ישן
+    nk: יָשֵׁן
 sources:
   - wiaw:11119 "Bereishit: Sleepy Words (Part 1/2)" (2023-09-25) https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12
   - wiaw:11120 "Sleepy Words (Part 2/2)" (2023-10-19) https://articles.ohr.edu/articles/sleepy-words-part-22

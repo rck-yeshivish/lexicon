@@ -5,6 +5,11 @@ roots: [כ-נ, ד-ו-כ, ב-מ-ה]
 translit: [kan, kein, ken, duchan, duchen, duchenen, duchta, bimah, bima, bamah, almemar, almemor, basis, besisi, itztaba, itztava, istaba, nachon, tochnit, tochnis, hachanah, kavanah, kohen]
 english: [base, pedestal, stand, post, platform, stage, dais]
 domain: other
+words:
+  - he: במה
+    nk: בָּמָה
+  - he: כן
+    nk: כֵּן
 sources:
   - wiaw:11462 "Pinchas: Performance Platforms" (2024-07-27) https://articles.ohr.edu/articles/pinchas-performance-platforms
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Yaakov Emden, Rabbi Tzvi Hirsch Ferber, Rabbi Baruch HaLevi Epstein, Rabbi Menachem Kasher, Rashi, Rambam, Rabbi Ernest Klein]

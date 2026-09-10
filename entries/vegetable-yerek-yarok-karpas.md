@@ -5,6 +5,9 @@ roots: [י-ר-ק, ר-ק, כ-ר-פ-ס]
 translit: [yerek, yarak, yarok, yerakot, yerakos, karpas, karpasa, kusbarta, rok, reik, petrozilia]
 english: [vegetable, green, parsley, greens, fine linen]
 domain: nature
+words:
+  - he: כרפס
+    nk: כַּרְפַּס
 sources:
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Tanchum HaYerushalmi, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias, Rabbi Baruch Epstein, Rabbeinu Manoach, Maharil, Ben Ish Chai, Rabbi Yaakov Yisroel Stahl]

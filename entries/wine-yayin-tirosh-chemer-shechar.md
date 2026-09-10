@@ -17,6 +17,7 @@ words:
   - he: חמר
     tr: chemer
     en: wine (red wine)
+    nk: חֶמֶר
     distinct: three times in Tanach and the standard Aramaic word; Rabbi Moshe Ibn Ezra, Rabbi Yehuda Ibn Balaam and Radak read it as "red," an adjective hardened into a noun
   - he: שכר
     tr: shechar

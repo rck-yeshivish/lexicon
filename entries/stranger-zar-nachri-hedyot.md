@@ -5,6 +5,9 @@ roots: [ז-ר, ז-ו-ר, נ-כ-ר]
 translit: [zar, zarah, zara, zarim, nachri, nochri, nachriah, nochriyah, nechar, ben-nechar, chiloni, chilonai, nochrae, hedyot, hedyotos, mamzer, makir, lehakir]
 english: [stranger, outsider, foreigner, alien, non-Kohen, commoner, layman]
 domain: society
+words:
+  - he: זר
+    nk: זָר
 sources:
   - wiaw:9192 "Strange Aliens" (2021-05-01) https://articles.ohr.edu/articles/strange-aliens
 authorities: [Ibn Ezra, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Malbim, Sefer Chassidim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Targum Onkelos, Mechilta]

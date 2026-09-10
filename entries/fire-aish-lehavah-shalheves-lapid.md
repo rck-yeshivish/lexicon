@@ -5,6 +5,9 @@ roots: [א-ש, א-ו-ר, ל-ה-ב, ש-ל-ה-ב, ל-ה-ט, ל-פ-ד, נ-ר]
 translit: [aish, esh, eish, ur, or, ohr, lahav, lehavah, lahavah, shalhevet, shalheves, lahat, lapid, lapidim, avukah, avuka, ner, neros, nur, nura, shraga, menorah, meshulav]
 english: [fire, flame, blaze, torch, lamp, candle, blade]
 domain: nature
+words:
+  - he: להט
+    nk: לַהַט
 sources:
   - wiaw:8007 "Playing with Fire" (2018-12-01) https://articles.ohr.edu/articles/playing-with-fire-2
 authorities: [Rabbi Eliyahu HaBachur (Meturgeman), Rabbi Shlomo Pappenheim, Malbim, Radak]

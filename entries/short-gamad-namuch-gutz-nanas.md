@@ -5,6 +5,9 @@ roots: [ג-מ-ד, מ-כ, ג-ו-צ, נ-נ-ס]
 translit: [gamad, gamadim, gomed, gemed, namuch, namoch, nemucha, gutz, gutza, nanas, nanaset, nanasin, gidem, mach, gamda]
 english: [short, dwarf, low, stunted, truncated]
 domain: body
+words:
+  - he: מך
+    nk: מָךְ
 sources:
   - wiaw:11205 "Vaera: The Vertically-Challenged" (2024-01-13) https://articles.ohr.edu/articles/vaera-the-vertically-challenged
 authorities: [Rashbam, Radak, Sefer HeAruch, Rashi, Mahari Kara, Rabbi Yehoshua Steinberg, Targum Yonasan, Rabbi Eliyahu Bachur, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia]

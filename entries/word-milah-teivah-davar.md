@@ -5,6 +5,11 @@ roots: [מ-ל-ל, מ-ל, ת-ב-ה, ת-י-ב, ד-ב-ר]
 translit: [milah, mila, milin, millel, milel, yimallel, timallel, millelu, teivah, teiva, tevah, teivos, teivot, roshei teivos, davar, dvar, devarim, milta, miltha]
 english: [word, spoken word, written word, thing, utterance]
 domain: speech
+words:
+  - he: דבר
+    nk: דָּבָר
+  - he: מילה
+    nk: מִילָּה
 sources:
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yosef Teomim, Rabbi Shlomo Zalman of Hanau, Rokeach, Rabbeinu Efrayim, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Moshe Shapiro, Rabbi Akiva Tatz]

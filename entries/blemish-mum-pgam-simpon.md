@@ -5,6 +5,9 @@ roots: [מ-מ, א-מ, פ-ג-ם, פ-ג, ס-מ-פ-ן]
 translit: [mum, moom, mumin, meumah, meuma, pgam, pegam, pagum, pogem, pogemet, taam lifgam, pag, vayafag, simpon, simfon, sumponia]
 english: [blemish, defect, flaw, deficiency, nick, cancellation]
 domain: other
+words:
+  - he: מאומה
+    nk: מְאוּמָה
 sources:
   - wiaw:9138 "A Perfect Sacrifice" (2021-03-20) https://articles.ohr.edu/articles/a-perfect-sacrifice
   - wiaw:8696 "Blemished Imperfections" (2020-05-09) https://articles.ohr.edu/articles/blemished-imperfections

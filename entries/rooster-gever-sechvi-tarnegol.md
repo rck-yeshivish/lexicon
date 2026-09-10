@@ -9,6 +9,7 @@ words:
   - he: גבר
     tr: gever
     en: rooster
+    nk: גֶּבֶר
     distinct: usually "man" or "male," from gevurah, strength; called a rooster because its voice stands out among birds as a man's does among women's (Rabbeinu Efrayim)
   - he: שכוי
     tr: sechvi

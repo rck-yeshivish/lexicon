@@ -5,6 +5,9 @@ roots: [י-ר-ה, ל-מ-ד, א-ל-פ, ד-ר-כ, ת-ו-ר]
 translit: [horaah, hora'ah, lhorot, lehorot, yoreh, moreh, limmud, limud, lelamed, llamed, melamed, malmad, alef, aleph, alaf, yalif, yalfuta, ulpan, hadrachah, madrich, derech, torah, orayta, talpiyot, talpiyos, aluf, elef, yalefes, yalefet, lefet]
 english: [instruction, teaching, drilling, training, guidance, ruling]
 domain: cognition
+words:
+  - he: אלף
+    nk: אַלֵּף
 sources:
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
 authorities: [Ibn Janach, Radak, Menachem Ibn Saruk, Malbim, Shadal, Rav Hirsch, Rabbi Shlomo Pappenheim, Vilna Gaon]

@@ -5,6 +5,9 @@ roots: [צ-ו-ר, ח-ל-מ-ש, ס-ל-ע]
 translit: [tzur, tzor, tzurim, tzarur, tzorer, tzayir, chalamish, halamish, sela, selah, even, ehven]
 english: [flintrock, hard rock, flint, crag, stone, source, bedrock]
 domain: nature
+words:
+  - he: אבן
+    nk: אֶבֶן
 sources:
   - wiaw:8000 "Like a Rock (Part 2)" (2018-11-24) https://articles.ohr.edu/articles/like-a-rock-part-2
 authorities: [Rabbi Shlomo Pappenheim, Malbim, Rabbi Yosef Kimchi, Rabbi Chaim Vital, Rabbi Yisrael Menachem Mendel Sacharov, Rabbi Chaim Friedlander, Rambam, Rabbi Moshe Teitelbaum]

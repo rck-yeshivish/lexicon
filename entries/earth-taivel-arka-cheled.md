@@ -22,6 +22,12 @@ words:
     tr: karka
     en: floor, ground
     distinct: not a word for land at all in Biblical Hebrew but the floor under a building or a sea, only later near-synonymous with eretz and adamah (Rabbi Avraham Bedersi)
+  - he: חדל
+    nk: חֶדֶל
+  - he: חרבה
+    nk: חָרָבָה
+  - he: יבשה
+    nk: יַבָּשָׁה
 sources:
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
 authorities: [Avos d'Rabbi Nasan, Metzudas Tziyon, Malbim, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yom Tov Tzahalon, Rabbi Shmuel Yaffe-Ashkenazi, Midrash Mishlei, Rabban Shimon ben Gamliel, Bereishis Rabbah, Radak, Ibn Ezra, Yerushalmi Shabbos, Rabbi David Chaim Chelouche, Rav Hirsch, Rabbi Avraham Bedersi]

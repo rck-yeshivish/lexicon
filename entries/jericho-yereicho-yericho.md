@@ -25,6 +25,7 @@ words:
   - he: ירח
     tr: yareyach
     en: moon
+    nk: יָרֵחַ
     distinct: from י-ר-ח for the classical lexicographers; Pappenheim brings it too under ר-ח, the moon governing the tides and winds
 sources:
   - wiaw:9795 "Matot: The Names of Jericho" (2022-07-23) https://articles.ohr.edu/articles/matot-the-names-of-jericho

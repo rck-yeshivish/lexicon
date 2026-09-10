@@ -5,6 +5,9 @@ roots: [ל-ח-ך, ל-ק-ק, ל-ק, ח-ך]
 translit: [lechichah, lechicha, lechikhah, lichach, lakak, lekikah, lekika, yalok, yaloku, milakekim, lakeku, cheich, chech, cheikh, yelek, melikah, melika, lahak, lahakat]
 english: [lick, lap up, lick away, lick clean]
 domain: action
+words:
+  - he: ילק
+    nk: יֶלֶק
 sources:
   - wiaw:11448 "Balak: Lick It Up" (2024-07-20) https://articles.ohr.edu/articles/balak-lick-it-up
 authorities: [Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Ibn Parchon, Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Berger, Rabbi Yaakov Yehudah Zilberberg, Rabbi Asher Weiser, Ibn Ezra]

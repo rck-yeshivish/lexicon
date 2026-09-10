@@ -5,6 +5,9 @@ roots: [ש-פ-ר, ק-ר-ן, ק-ר, י-ב-ל, ח-צ-ר]
 translit: [shofar, shofarot, shofaros, keren, karnayim, kranot, yovel, yoveil, chatzotzrot, chatzotzros, shfoferet, shefoferes, shefer, shapir, shfar, shipper]
 english: [shofar, horn, ram's horn, trumpet, corner, principal, beauty]
 domain: ritual
+words:
+  - he: יובל
+    nk: יוֹבֵל
 sources:
   - wiaw:9992 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-17) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn
   - wiaw:10060 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-24) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2

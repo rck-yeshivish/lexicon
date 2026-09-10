@@ -5,6 +5,9 @@ roots: [כ-ר-ה, ח-פ-ר, ח-צ-ב, נ-כ-ר]
 translit: [karah, kara, korah, chafirah, chafira, chofer, chafar, chatzivah, chatziva, chotzev, hakarah, hakara, chafran, bor]
 english: [dig, begin to dig, dig out, dig through, hew, quarry, search out]
 domain: action
+words:
+  - he: חפר
+    nk: חָפַר
 sources:
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
 authorities: [Malbim, Ibn Ezra, Ibn Ramoch, Meiri, Rabbi Yaakov Tzvi Mecklenburg, Netziv, Rav Hirsch, Rabbi Shaul Bruch, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara]

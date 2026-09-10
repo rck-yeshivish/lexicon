@@ -17,10 +17,12 @@ words:
   - he: איל
     tr: eil
     en: plain (fertile)
+    nk: אֵיל
     distinct: three readings: a common noun for plain (Onkelos), the proper name of a particular plain (Rashi), or wooded land before a city (Ramban); Mecklenburg makes it the fecund plain against mishor's bare one
   - he: ככר
     tr: kikar
     en: grassland plain
+    nk: כִּכָּר
     distinct: the plain of the Yarden (Bereishis 13:10); Ramban narrows it to lush grassland fed by rivers spilling into it
   - he: אבל
     tr: avel

@@ -5,6 +5,9 @@ roots: [ז-ה-ר, ז-ר, א-ס-ר, ס-ר, ל-א]
 translit: [azharah, azhara, azharos, azharot, hizhartem, lehazhir, issur, isur, assur, asur, essar, lav, lavin, zohar, zoreh, tzohar]
 english: [prohibition, warning, forewarning, forbidden, negative commandment]
 domain: ritual
+words:
+  - he: איסור
+    nk: אִיסּוּר
 sources:
   - wiaw:9211 "Shavuot: Brilliant Prohibitions" (2021-05-15) https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbeinu Avraham ben HaRambam, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Yehuda Ibn Chayyuj, Rabbi Jose Faur]

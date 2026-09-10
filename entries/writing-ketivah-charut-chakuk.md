@@ -5,6 +5,9 @@ roots: [כ-ת-ב, ח-ר-ת, ח-ר-ט, ח-ר-ש, ח-ק-ק, ח-ק, פ-ס-ל, פ-ת
 translit: [ketivah, kesivah, ktov, kasav, katav, vayikatev, charut, charus, cheirut, cheirus, cheret, cheres, chartumim, charushah, charusha, chakuk, chakukah, chok, chukim, mechokek, pasal, pesel, pesilim, pasul, pituach, pituchei chotam, pitchei chosam, galif, gelufah, resham, roshem, reshimah, rashum]
 english: [write, engrave, inscribe, incise, hew, emboss, note down]
 domain: speech
+words:
+  - he: חרות
+    nk: חָרוּת
 sources:
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rashbam, Rabbi Moshe Zacuto, Rabbi Eliyahu HaBachur, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shaul Goldman, Maharal, Rabbi Shem Tov Gaguine, Rabbi Yitzchak Ginsburgh]

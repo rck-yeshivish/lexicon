@@ -5,6 +5,9 @@ roots: [מ-ו-ט, מ-ט, ט-ה, ב-ד-ד, נ-ס-ס, ש-א, ת-ר, ת-ר-ן]
 translit: [mot, mott, motah, motot, motos, bad, badd, badim, baddim, neis, nes, nissim, toren, shapud, shpud, shifud, shipud, shafod, zemorah, zmorah]
 english: [carrying pole, stave, banner pole, mast, skewer, branch]
 domain: other
+words:
+  - he: בד
+    nk: בַּד
 sources:
   - wiaw:11433 "Shelach: Message on a Pole" (2024-06-29) https://articles.ohr.edu/articles/shelach-message-on-a-pole
 authorities: [Rabbi Yaakov Tzvi Mecklenburg, Zohar, Rabbeinu Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rav Hirsch, Rambam, Rashi, Rabbi Ernest Klein, Rabbi Tzvi Matisyahu Abrahams]

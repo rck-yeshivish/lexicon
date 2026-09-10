@@ -5,6 +5,9 @@ roots: [א-פ, א-נ-פ, ח-ט-ם, נ-ח-ר, ח-ר]
 translit: [af, ahf, apayim, appayim, anpin, chotem, chotam, chotmin, chotmim, echetam, nichirayim, nechirayim, nechirah, chor, chomet, charum, charon af, erech apayim]
 english: [nose, nostril, face, anger]
 domain: body
+words:
+  - he: אף
+    nk: אַף
 sources:
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rabbi Aharon Marcus, Rashi, Rabbi Eliyahu Bachur, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yehudah Ibn Balaam, Rabbi Yosef Kara, Ibn Ezra, Zohar, Maharsha, Rabbi Binyamin Mussafia, Rabbi Moshe Yair Weinstock, Rabbi Shlomo Ibn Parchon, Peirush HaRokeach]

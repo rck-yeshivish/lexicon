@@ -5,6 +5,11 @@ roots: [ב-ק-ע, ק-ר-ע, ג-ז-ר, ח-ת-ך, ב-ת-ר, נ-ת-ח, פ-ת-ת, מ
 translit: [bokea, bekiah, bakia, korea, kriah, kriyah, keriah, gozer, gezirah, gzeirah, gizrah, gezarim, chatichah, chaticha, chotech, batar, beter, besarim, netach, nituach, minateach, petitah, pat, pita, milah, mohel, mohl, poleach, pelach, ketev, primah, porem, gada, geda, ketzitzah, ketifah, kares, karet]
 english: [splitting, tearing, cutting, severing, chopping, slicing]
 domain: action
+words:
+  - he: כרת
+    nk: כָּרֵת
+  - he: מילה
+    nk: מִילָה
 sources:
   - wiaw:8098 "Cut it Out! (Part 1 of 2)" (2019-01-19) https://articles.ohr.edu/articles/cut-it-out-part-1-of-2
   - wiaw:8107 "Cut it Out! (Part 2 of 2)" (2019-01-26) https://articles.ohr.edu/articles/cut-it-out-part-2-of-2

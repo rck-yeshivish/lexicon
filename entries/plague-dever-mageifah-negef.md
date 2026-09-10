@@ -5,6 +5,9 @@ roots: [ד-ב-ר, נ-ג-ף, ג-פ-ה, צ-פ-ר-ד-ע]
 translit: [dever, mageifah, magefah, mageifos, mageifotai, negef, nogef, tzfardea, tzefardea, devorah]
 english: [pestilence, plague, epidemic, smiting, blow]
 domain: body
+words:
+  - he: דבר
+    nk: דֶּבֶר
 sources:
   - wiaw:7579 "Plague of Plagues" (2018-01-13) https://articles.ohr.edu/articles/plague-of-plagues
 authorities: [Rashi, Abarbanel, Rabbeinu Chananel, Malbim, Rabbi Menachem ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach (Chavos Yair)]

@@ -5,6 +5,11 @@ roots: [ר-ב-ה, ג-ז-ם, ל-ק-ק, ח-ס-ל, ח-ג-ב, צ-ל-ל, צ-פ-ן]
 translit: [arbeh, arbe, gazam, yelek, yelak, chasil, chagav, chagavim, salam, salaam, chargol, tzlatzel, tziltzal, tzfoni, tzefoni, chanamal, govai, gadyan]
 english: [locust, grasshopper, cricket, katydid, swarm]
 domain: nature
+words:
+  - he: גזם
+    nk: גָּזָם
+  - he: ילק
+    nk: יֶלֶק
 sources:
   - wiaw:7592 "Army of Grasshoppers" (2018-01-20) https://articles.ohr.edu/articles/army-of-grasshoppers
 authorities: [Rashi, Radak, Malbim, Meiri, Rabbi Shmuel ben Meshullam of Gerona, Rav Chaim Kanievsky, Rabbi Menachem Tzioni, Rabbeinu Bachya, Pirush HaRokeach, Rav Saadia Gaon, Ralbag, Ramban, Midrash HaGadol, Midrash Sechel Tov, Targum]

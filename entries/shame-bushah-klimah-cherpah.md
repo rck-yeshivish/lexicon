@@ -9,6 +9,7 @@ words:
   - he: בושה
     tr: bushah
     en: shame
+    nk: בּוּשָׁה
     distinct: the general, milder word, and the one written first when it stands beside another (Radak); covers shame for a good reason as well as a bad one, and can be merely social, the thief ashamed at being seen (Edel)
   - he: כלימה
     tr: kelimah

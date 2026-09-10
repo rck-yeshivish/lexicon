@@ -5,6 +5,9 @@ roots: [ח-ל, ד-ח-ל, ז-ח-ל]
 translit: [chil, chal, chalu, chalchalah, vatischalchal, dachil, dechilah, dachla, dachalah, dachilu, zochel, zachal, zachalti, azchil, zochalin, dichilu urechimu]
 english: [trembling, dread, fear, crawling, writhing]
 domain: emotion
+words:
+  - he: חיל
+    nk: חִיל
 sources:
   - wiaw:11544 "Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)" (2024-09-21) https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13
 authorities: [Rav Hirsch, Rabbi Shlomo Pappenheim, Targum Onkelos, Rabbi Eliyahu Bachur, Menachem Ibn Saruk, Rashi, Ibn Ezra, Ibn Janach, Rabbi Yosef Kara, Sforno, Metzudas Tzion, Rabbi David Golumb, Rabbi Asher Weiser]

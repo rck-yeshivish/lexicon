@@ -5,6 +5,9 @@ roots: [ר-ו-ם, נ-ו-פ, ת-ר-ם]
 translit: [terumah, teruma, terumos, terumot, torem, tenufah, tenufa, tenufos, lehanif, lenofef, nafah, nof, nofes, nofet, anaf, anafah, niuf, ramos, ramot, trei mimeah]
 english: [waving, elevation, lifting, raising, separation, donation, tithe]
 domain: ritual
+words:
+  - he: אנף
+    nk: אָנַף
 sources:
   - wiaw:11422 "Behaaloscha: Lift & Wave" (2024-06-22) https://articles.ohr.edu/articles/behaaloscha-lift-wave
 authorities: [Rashi, Ibn Ezra, Ramban, Rabbeinu Avraham ben HaRambam, Rabbi Yosef Bechor Shor, Peirush HaRokeach, Baal HaTurim, Rambam, Rabbi Shlomo Pappenheim, Rav Hirsch, Meshech Chochmah, HaKtav VeHaKabbalah, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yaakov Zev Lev, Rabbi Yehuda Kalats, Rabbi Yehoshua Steinberg, Yonah Ibn Janach]

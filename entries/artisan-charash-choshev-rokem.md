@@ -5,6 +5,9 @@ roots: [ח-ר-ש, ח-ש-ב, ר-ק-ם, א-מ-ן]
 translit: [charash, choresh, charashim, choshev, maaseh choshev, rokem, roikem, rikmah, uman, oman, aman, cheiresh, cheresh, machshavah, cheshbon]
 english: [craftsman, artisan, designer, brocader, embroiderer, master craftsman]
 domain: action
+words:
+  - he: חרש
+    nk: חָרָשׁ
 sources:
   - wiaw:11298 "Pekudai: Crafty Artisans" (2024-03-16) https://articles.ohr.edu/articles/pekudai-crafty-artisans
 authorities: [Rashi, Rambam, Abarbanel, Rabbi Chaim Kanievsky, Shadal, Rav Hirsch, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rabbi Yehudah Aryeh of Carpentras, Malbim, Rabbi Yosef Kara, Ibn Ezra, Vilna Gaon, Metzudas David, Rabbi Shalom Shabazi, Targum Onkelos]

@@ -9,6 +9,7 @@ words:
   - he: להט
     tr: lahat
     en: sleight of hand, magic arts
+    nk: לַהַט
     distinct: kishuf performed by the practitioner himself, named for the flash of a turning flame or blade (Sanhedrin 67b with Rashi; Ibn Ezra); its plain sense elsewhere is "flame" (Bereishis 3:24)
   - he: לט
     tr: lat

@@ -13,10 +13,12 @@ words:
   - he: בהמה
     tr: behemah
     en: domesticated animal
+    nk: בְּהֵמָה
     distinct: the standard word, near two hundred occurrences; the animal subservient to man, a platform (bamah) for his elevation (Rav Hirsch); alternatively named for its confused, meaningless noise (Rabbi Yaakov Tzvi Mecklenburg)
   - he: חיה
     tr: chayah
     en: wild animal
+    nk: חַיָּה
     distinct: from chai, an independent life-form not subservient to man (Rav Hirsch); see the separate entry on behemah and chayah
   - he: בער
     tr: ba'ar

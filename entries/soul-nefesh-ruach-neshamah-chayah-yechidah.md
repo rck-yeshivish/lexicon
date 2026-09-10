@@ -5,6 +5,9 @@ roots: [נ-פ-ש, ר-ו-ח, נ-ש-ם, ח-י-ה, י-ח-ד]
 translit: [nefesh, nefesh chayah, ruach, ruach hakodesh, neshamah, neshama, nishmas chaim, nishmat chaim, chayah, chaya, yechidah, yechida, vayinafash, neshimah]
 english: [soul, life-soul, spirit, higher soul, breath of life, life-force, singular soul]
 domain: other
+words:
+  - he: חיה
+    nk: חַיָּה
 sources:
   - wiaw:8759 "Take a Breather (Part 1)" (2020-06-27) https://articles.ohr.edu/articles/take-a-breather-part-1
   - wiaw:8768 "Anatomy of a Soul (Part 2 of 3)" (2020-07-04) https://articles.ohr.edu/articles/anatomy-of-a-soul-part-2-of-3

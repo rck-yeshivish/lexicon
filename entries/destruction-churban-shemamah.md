@@ -5,6 +5,9 @@ roots: [ח-ר-ב, ש-מ-ם]
 translit: [churban, chorban, churban habayis, churban habayit, charbah, charba, chorvah, chareiv, shemamah, shmamah, shemama, shamem, vahashimosi, vehashimoti, mishtomem, shahm, sham]
 english: [destruction, ruin, desolation, devastation]
 domain: other
+words:
+  - he: חרבה
+    nk: חָרְבָּה
 sources:
   - wiaw:7366 "Words of Destruction" (2017-07-29) https://articles.ohr.edu/articles/words-of-destruction
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Chaim of Volozhin]

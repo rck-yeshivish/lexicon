@@ -9,6 +9,7 @@ words:
   - he: גשם
     tr: geshem
     en: rain
+    nk: גֶּשֶׁם
     distinct: the commonest word; on one reading the general term for rain of every kind, on another the heavy or blessed rain specifically; also the ordinary course of nature, whence the later gashmiyus, materiality
   - he: מטר
     tr: matar

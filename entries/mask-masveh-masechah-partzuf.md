@@ -13,6 +13,7 @@ words:
   - he: מסכה
     tr: masechah
     en: 'molten image (Modern Hebrew: mask)'
+    nk: מַסֵּכָה
     distinct: in Tanach a cast-metal figure, from nesech, "pouring" (Ibn Janach, Radak), as in egel masechah; the "mask" sense is modern, from that root's secondary sense of covering, or from MEM-SAMECH-KAF, mixing
   - he: פרצוף
     tr: partzuf

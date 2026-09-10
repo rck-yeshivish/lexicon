@@ -13,6 +13,7 @@ words:
   - he: חבל
     tr: chaval
     en: to distrain, to seize as security
+    nk: חָבַל
     distinct: the Biblical verb for a creditor taking a pledge by force, after the debt has fallen due (Rashi to Shemos 22:25; Rabbi Moshe Tedeschi-Ashkenazi)
   - he: עבוט
     tr: avot

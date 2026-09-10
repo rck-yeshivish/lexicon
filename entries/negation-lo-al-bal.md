@@ -5,6 +5,9 @@ roots: [ל-א, א-ל, ב-ל]
 translit: [lo, al, bal, bli, b'li, bilti, bilui, blo, b'lo]
 english: [not, do not, shall not, without, the prohibition of]
 domain: speech
+words:
+  - he: בלי
+    nk: בְּלִי
 sources:
   - wiaw:10949 "Naso/Shavuos: Just Say No" (2023-05-27) https://articles.ohr.edu/articles/nasoshavuos-just-say-no
 authorities: [Rashi, Machberes Menachem, Rabbi Yishaya Pick-Berlin, Rabbi Chizkiyah Medini, Rabbi Betzalel Ashkenazi, Rabbi Meir HaMeili, Rabbi Reuven Margolios, Rabbi Ber Oppenheimer, Rabbi Aharon Maggid, Rabbi Eliyahu Gutmacher, Rabbi Avraham Eliezer Hirshawitz, Rabbi Shlomo Pappenheim, Chasam Sofer]

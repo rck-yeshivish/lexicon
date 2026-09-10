@@ -17,6 +17,7 @@ words:
   - he: במה
     tr: bamah
     en: high place, private altar
+    nk: בָּמָה
     distinct: literally a high place, a private altar outside the central place of worship; cognate to the bimah, the raised platform (article's reading), and forbidden once the Mikdash stood (Zevachim 14:6)
 sources:
   - wiaw:7499 "Stones and High Altars" (2017-11-25) https://articles.ohr.edu/articles/stones-and-high-altars

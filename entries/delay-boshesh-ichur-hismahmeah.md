@@ -5,6 +5,9 @@ roots: [ב-ו-ש, ב-ש, א-ח-ר, מ-ה-ה, מ-ה]
 translit: [boshesh, bosheish, bosh, ichur, icher, acheir, achar, hitmahmah, hismahmeah, hismahmah, mahmeah, bshash, beshash, bushah, busha]
 english: [delay, lateness, tarry, linger, dawdle, shame]
 domain: time
+words:
+  - he: בושה
+    nk: בּוּשָׁה
 sources:
   - wiaw:8644 "Better Late Than …….." (2020-03-14) https://articles.ohr.edu/articles/better-late-than-aeuraeur
 authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Saba, Rav Hirsch, Rabbi Dovid Golumb, Rabbi Aharon Marcus, Rabbi Chanoch Zundel of Bialystok, Piskei HaRosh, Talmidei Rabbeinu Yonah, Maadanei Yom Tov]

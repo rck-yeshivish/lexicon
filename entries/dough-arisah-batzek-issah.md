@@ -5,6 +5,11 @@ roots: [ע-ר-ס, ב-צ-ק, ע-ס-ס, ח-ל-ל, א-ר-ס]
 translit: [arisah, arisa, aristeichem, batzek, batzeik, issah, isah, issa, challah, chalah, arusah, arusa, areivah, eres, issui, assis, asis]
 english: [dough, batch of dough, kneading trough, risen dough]
 domain: other
+words:
+  - he: חלה
+    nk: חַלָּה
+  - he: ארוסה
+    nk: אֲרוּסָה
 sources:
   - wiaw:8744 "Kneading the Dough" (2020-06-13) https://articles.ohr.edu/articles/kneading-the-dough
 authorities: [Ibn Janach, Radak, Rabbeinu Meyuchas bar Eliyahu, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Nosson of Rome, Rav Hirsch, Rabbi Yachya ben Shalom Kohen, Rabbi Yitzchak Ratzabi, Rabbi Shlomo Pappenheim, Rabbi Baruch HaLevi Epstein]

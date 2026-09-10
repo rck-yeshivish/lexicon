@@ -5,6 +5,9 @@ roots: [ד-י-ן, ש-פ-ט, ח-ק-ק, ד-ת, נ-מ-ס]
 translit: [din, deen, mishpat, mishpot, chok, chuk, chukim, chukkim, chukos, chukot, mishpatim, dat, das, dos, dati, nimus, nimmus, nimusim, baal din, gmar din, dina dmalchusa dina, aish dat, eish das]
 english: [law, judgment, verdict, statute, decree, ordinance, edict, custom, rule]
 domain: society
+words:
+  - he: דין
+    nk: דִּין
 sources:
   - wiaw:11715 "Tetzaveh/Purim: Do the Din" (2025-03-08) https://articles.ohr.edu/articles/tetzavehpurim-do-the-din
   - wiaw:8315 "Laws and Orders" (2019-07-06) https://articles.ohr.edu/articles/laws-and-orders

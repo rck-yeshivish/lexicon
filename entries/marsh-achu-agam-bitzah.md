@@ -5,6 +5,9 @@ roots: [א-ח-ו, ג-מ, ב-צ, ס-ו-ף]
 translit: [achu, achoo, agam, agama, agamim, bitzah, bitza, bitzaim, bitzaei mayim, botz, butz, suf, sof, gome, gomeh]
 english: [marsh, marshland, swamp, pond, mire, mud, reed]
 domain: nature
+words:
+  - he: בוץ
+    nk: בּוֹץ
 sources:
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
 authorities: [Rashi, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe ben Shem Tov Gabbai, Ibn Janach, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Meir HaKohen Glanzer]

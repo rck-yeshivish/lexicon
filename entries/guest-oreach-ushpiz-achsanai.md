@@ -5,6 +5,9 @@ roots: [א-ר-ח, ר-ח, כ-ס-ן]
 translit: [oreach, orach, orchim, orcha, aruchah, arucha, ushpiz, ushpizin, ushpiza, ushpizchan, ashpaz, ishpuz, achsanai, achsenai, achsanya, achsanyah, achsania]
 english: [guest, wayfarer, host, lodging, inn, meal, way, caravan]
 domain: society
+words:
+  - he: אורח
+    nk: אוֹרֵחַ
 sources:
   - wiaw:10698 "Be My Guest" (2022-11-12) https://articles.ohr.edu/articles/be-my-guest
 authorities: [Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashi, Rabbeinu Chananel, Tosafos, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yitzchak Avineri, Rabbi Ernest Klein, Rabbi Avi Kobernick, Rabbi Yaakov Chaim Sofer]

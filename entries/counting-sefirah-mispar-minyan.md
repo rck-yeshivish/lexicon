@@ -13,6 +13,7 @@ words:
   - he: מספר
     tr: mispar
     en: number
+    nk: מִסְפָּר
     distinct: a number functioning as a limit, as the mispar of lashes in Devarim 25:2 (Mecklenburg); the Gra makes it the specific number reached, against minyan as the count in general
   - he: מונה
     tr: moneh

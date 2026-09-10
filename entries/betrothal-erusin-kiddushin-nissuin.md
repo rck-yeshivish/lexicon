@@ -5,6 +5,9 @@ roots: [א-ר-ש, ק-ד-ש, נ-ש-א, ש-ד-ך]
 translit: [erusin, eirusin, arusah, arusa, meorasah, kiddushin, kidushin, mekudeshet, mekudeshes, nissuin, nisuin, hekdesh, hekdeish, shidduchin, shiduchin, kedeishah, kedeisha]
 english: [betrothal, first stage of marriage, consecration, designation, marriage, engagement]
 domain: ritual
+words:
+  - he: ארוסה
+    nk: אֲרוּסָה
 sources:
   - wiaw:8883 "Holy Matrimony" (2020-10-03) https://articles.ohr.edu/articles/holy-matrimony
 authorities: [Rabbanan Savorai, Tosafos, Rashi, Rav Hirsch, Rabbi Yitzchak Vana, Rabbi Alexander Sender Shor, Rabbi Elazar Moshe Horowitz, Taz, Rabbi Avraham HaLevi of Barcelona, Rabbi Yosef Ibn Ezra, Rabbi Eliezer Ashkenazi, Rabbi Shalom Mansoura, Rabbi Yitzchak Ratzabi, Rabbi Baruch HaLevi Epstein]

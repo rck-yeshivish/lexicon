@@ -5,6 +5,9 @@ roots: [ש-כ-ח, נ-ש-ה, נ-ש, ת-ש, כ-ח-ש]
 translit: [shachach, shakach, shichachah, shichecha, tishkach, nashah, nasha, nashani, teshi, gid hanasheh, bei nasha, nosheh, anush, enosh, kachash, tikchash, shachiyach, shechiach]
 english: [forget, forgetting, forgetfulness, lapse, blot out, deny]
 domain: cognition
+words:
+  - he: כחש
+    nk: כַּחַשׁ
 sources:
   - wiaw:8389 "Forget About It" (2019-09-14) https://articles.ohr.edu/articles/forget-about-it
 authorities: [Rashi, Menachem Ibn Saruk, Ibn Chayyuj, Rabbeinu Yonah ibn Janach, Radak, Zohar, Tosafos Chachmei Anglia, Rabbeinu Bachya ibn Chalava, Rabbi Yehuda Chalava, Rabbi Binyamin Mussafia, Rabbi Shmuel HaLevi, Rabbi Avraham Menachem Rappaport, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi Ashkenazi, Malbim, Rav Hirsch, Rabbi Eliyahu Katz, Rabbi Yekusiel Yehudah Teitelbaum of Sighet, Rabbi Moshe Shapiro]

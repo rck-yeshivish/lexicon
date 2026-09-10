@@ -5,6 +5,11 @@ roots: [ל-ח-ם, כ-כ-ר, ח-ל-ל, פ-ת-ת]
 translit: [lechem, lachmah, kikar, kikkar, challah, chalah, challos, pat, pas, pita, pitta, rifta, riftah, rifos, nahamah, nahama, lechem haklokel]
 english: [bread, staple food, loaf, meal-cake, morsel, piece of bread]
 domain: other
+words:
+  - he: חלה
+    nk: חַלָּה
+  - he: ככר
+    nk: כִּכָּר
 sources:
   - wiaw:7815 "Let Them Eat Bread" (2018-06-23) https://articles.ohr.edu/articles/let-them-eat-bread
 authorities: [Radak, Rabbi Nosson of Rome, Targum Onkelos, Rabbi Dr. Guy Matalon]

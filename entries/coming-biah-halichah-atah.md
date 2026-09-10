@@ -5,6 +5,11 @@ roots: [ב-א, ב, ה-ל-ך, א-ת-ה, ת]
 translit: [bo, boh, biah, bi'ah, lavo, lehavi, lech, leich, halichah, halicha, holech, molich, atah, asah, ateh, eisayu]
 english: [come, coming, go, going, arrive, arrival]
 domain: action
+words:
+  - he: הלך
+    nk: הָלַךְ
+  - he: אתה
+    nk: אָתָה
 sources:
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
 authorities: [Baal HaTurim, Hadar Zekeinim, Moshav Zekeinim, Ramban, Zohar, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Malbim, Rabbi Menachem Mendel Kasher]

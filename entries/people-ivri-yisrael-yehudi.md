@@ -17,6 +17,7 @@ words:
   - he: ישראל
     tr: yisrael
     en: Israel, Israelite
+    nk: יִשְׂרָאֵל
     distinct: the Torah's ordinary name for the nation, over two thousand occurrences, taken from Yaakov's second name and used as a patronym; connotes the higher standing (Rabbeinu Bachya)
   - he: יהודי
     tr: yehudi

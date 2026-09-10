@@ -13,6 +13,7 @@ words:
   - he: ישראל
     tr: Yisrael
     en: Yisrael
+    nk: יִשְׂרָאֵל
     distinct: given after he prevailed over the angel, from sar, to lord over (Bereishis 32:30); an added name, not a replacement (Rabbeinu Bachya), and used of him as founder of the nation (Maharal, Rav Hirsch). Chasam Sofer parses it yashar plus El, a straightness reached with Divine help
   - he: ישורון
     tr: Yeshurun

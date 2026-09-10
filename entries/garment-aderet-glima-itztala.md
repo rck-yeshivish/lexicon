@@ -5,6 +5,9 @@ roots: [א-ד-ר, ג-ל-מ, כ-ר-כ, ט-ל-ל]
 translit: [aderet, aderes, adderet, glima, gelima, gelem, itztala, itztela, istala, istalvan, itztala drabbanan, tachrich, tachrichin, tachrichim, tallit, tallis, golem, gelem, adir, adirim, sudar]
 english: [mantle, cloak, robe, wrap, shroud, shawl]
 domain: society
+words:
+  - he: טלית
+    nk: טַלִּית
 sources:
   - wiaw:11594 "Toldot: Noble Clothes" (2024-11-30) https://articles.ohr.edu/articles/toldot-noble-clothes
 authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Nosson of Rome, Rabbi David Golumb, Rav Hirsch, Rabbi Eliyahu HaBachur, Rabbi Yosef Chaim of Baghdad]

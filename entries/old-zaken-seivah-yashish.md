@@ -5,6 +5,9 @@ roots: [ז-ק-ן, ש-י-ב, י-ש-ש, ק-ש-ש, י-ש-נ, ע-ת-ק, ו-ת-ק]
 translit: [zaken, zakein, seivah, seiva, sevah, yashish, kashish, yashan, atik, vatik, vasik, vatikin, vasikin, sav, saba, seva yamim]
 english: [elder, old age, aged, ancient, senior, veteran, stale]
 domain: time
+words:
+  - he: ישן
+    nk: יָשָׁן
 sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
 authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Ernest Klein]

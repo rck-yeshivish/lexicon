@@ -9,6 +9,7 @@ words:
   - he: חרש
     tr: cheresh
     en: contemplative silence, holding one's peace
+    nk: חֶרֶשׁ
     distinct: the inward silence of one who is turning something over and not saying it, the quiet of the craftsman and the wise man (Bedersi); from charishah, plowing, since it prepares the ground for speech as plowing prepares a field (Pappenheim); Rav Hirsch has it as acting deaf to a request
   - he: שתיקה
     tr: shetikah

@@ -5,6 +5,9 @@ roots: [כ-ת-ר, ע-ט-ר, נ-ז-ר, כ-ל-ל]
 translit: [keter, kesser, kether, atarah, atara, ateres, nezer, neizer, zer, klil, kelil, kallah, kalah, tag, taga, tagin, nazir]
 english: [crown, royal crown, wreath, coronet, diadem, tiara]
 domain: society
+words:
+  - he: זר
+    nk: זֵר
 sources:
   - wiaw:6876 "A Crown is a Crown" (2016-07-30) https://articles.ohr.edu/articles/a-crown-is-a-crown
 authorities: [Malbim, Rabbi Yaakov Tzvi Mecklenburg]

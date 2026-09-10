@@ -25,6 +25,7 @@ words:
   - he: דל
     tr: dal
     en: poor, destitute
+    nk: דַּל
     distinct: Menachem Ibn Saruk files it under ד-ל; Rabbi Shlomo Pappenheim: a man emptied of his fortune as a well is emptied of its water
 sources:
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water

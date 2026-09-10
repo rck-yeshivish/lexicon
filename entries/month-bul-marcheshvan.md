@@ -21,6 +21,7 @@ words:
   - he: גשם
     tr: geshem
     en: rain
+    nk: גֶּשֶׁם
     distinct: rain as connection, heaven to earth, tzurah joined to chomer (Rabbi Moshe Shapiro); the constructive counterpart of mabul
 sources:
   - wiaw:11123 "Lech Lecha: Eighth Month" (2023-10-28) https://articles.ohr.edu/articles/lech-lecha-eighth-month

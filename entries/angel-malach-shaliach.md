@@ -5,6 +5,9 @@ roots: [ל-א-ך, ל-ך, מ-ל-א-ך, ש-ל-ח, צ-י-ר, צ-ר, ש-ג-ר, ש-ד
 translit: [malach, mal'ach, malachim, malochim, shaliach, shliach, sheliach, shluchim, shelichus, shlichut, tzir, tzirim, mashchis, mashchit, shadar, shagar, shagrir, melachah, malachah]
 english: [angel, messenger, agent, emissary, envoy, proxy]
 domain: other
+words:
+  - he: מלאכה
+    nk: מְלָאכָה
 sources:
   - wiaw:7512 "Angels and Agents" (2017-12-02) https://articles.ohr.edu/articles/angels-and-agents
 authorities: [Radak, Rabbi Shlomo Pappenheim, Malbim, Ralbag, Rambam, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yaakov Lorberbaum of Lissa, Vilna Gaon, Rashi, Bereishis Rabbah]

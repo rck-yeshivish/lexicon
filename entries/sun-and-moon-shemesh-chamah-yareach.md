@@ -13,18 +13,22 @@ words:
   - he: חמה
     tr: chamah
     en: sun
+    nk: חַמָּה
     distinct: literally the hot one, naming the sun by its heat (Rabbi Aharon Marcus); coined later, once shemesh had itself been taken up as the name of a sun-cult
   - he: חרס
     tr: cheres
     en: sun
+    nk: חֶרֶס
     distinct: literally pottery, either for the sun's power to bake pottery, a mainstay of ancient life, or for its reddish, pottery-like hue at sunrise and sunset (Rabbi Aharon Marcus, and others)
   - he: ירח
     tr: yareach
     en: moon
+    nk: יָרֵחַ
     distinct: from orach, path, naming the moon by its orbital course through the heavens (Rabbi Aharon Marcus); the counterpart of shemesh, and likewise later taken up by a moon-cult
   - he: לבנה
     tr: levanah
     en: moon
+    nk: לְבָנָה
     distinct: literally the white one, naming the moon by its perceived color (Rabbi Aharon Marcus)
   - he: סהר
     tr: sahar

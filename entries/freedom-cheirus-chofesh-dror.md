@@ -5,6 +5,9 @@ roots: [ח-ר-ר, ח-פ-ש, ד-ר-ר, ח-ו-ר]
 translit: [cheirus, cheirut, cheiruseinu, cheiruteinu, chofesh, chofshi, chofshit, dror, deror, chorim, chorin, charus, charut, bnei chorin, shichrur]
 english: [freedom, liberty, release, emancipation, free of obligation, unowned]
 domain: society
+words:
+  - he: חרות
+    nk: חֵרוּת
 sources:
   - wiaw:7707 "Defining Freedom" (2018-03-31) https://articles.ohr.edu/articles/defining-freedom
 authorities: [Rashi, Ibn Ezra, Radak, Rabbeinu Yonah ibn Janach, Ramban, Sefer HaAruch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yitzchok Dov Bamberger, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Jonathan Sacks]

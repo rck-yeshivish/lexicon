@@ -25,6 +25,7 @@ words:
   - he: אלץ
     tr: alatz
     en: pressing, urging
+    nk: אָלַץ
     distinct: Delilah's pressure on Shimshon (Shoftim 16:16); Ramban ties it to lachatz by metathesis, Chazal and Sefer HaShoham to chalatz, slipping away
 sources:
   - wiaw:9682 "The Year of Slipping Away (Part 1 of 2)" (2022-05-14) https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2

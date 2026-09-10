@@ -5,6 +5,9 @@ roots: [א-ו-ה, ח-מ-ד, ח-פ-ץ]
 translit: [taavah, ta'avah, taava, tayvah, tayvuh, taivah, taavos, hitavu, hisavu, chemdah, chemda, chemed, chamad, nechmad, chafetz, chefetz, chefets]
 english: [craving, lust, appetite, coveting, desire]
 domain: emotion
+words:
+  - he: חפץ
+    nk: חֵפֶץ
 sources:
   - wiaw:7292 "Deleterious Desires" (2017-06-10) https://articles.ohr.edu/articles/deleterious-desires
 authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim]

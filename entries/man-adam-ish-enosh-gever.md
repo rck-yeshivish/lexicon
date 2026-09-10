@@ -5,6 +5,9 @@ roots: [א-ד-ם, ד-מ-ה, א-נ-ש, נ-ש-ה, א-י-ש, י-ש, ג-ב-ר]
 translit: [adam, odom, enosh, anosh, ish, eesh, gever, gevar, anashim, anoshim, gevirah, geveret, giveret, adamah, hadom, gevurah]
 english: [man, mankind, human being, mortal, person, a man, adult male, male]
 domain: society
+words:
+  - he: גבר
+    nk: גֶּבֶר
 sources:
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
 authorities: [Zohar, Malbim, Maharal of Prague, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Radak, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Yaakov Tzvi Mecklenburg, Ibn Ezra, Rabbi Yehuda Leib Edel, Ibn Yachya]

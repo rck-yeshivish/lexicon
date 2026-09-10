@@ -5,6 +5,9 @@ roots: [כ-ר-ב, ח-י-ה, א-פ-נ, א-ר-ל, ח-ש-מ-ל, ש-ר-פ, מ-ל-א-
 translit: [kruvim, keruvim, keruv, kruv, chayos, chayot, chayos hakodesh, ofanim, ophanim, ofan, erelim, erel, chashmalim, chashmal, serafim, seraphim, malachim, malach, elohim, elokim, bnei elohim, ishim, irin, kadishin, galgalim, ravia, abirim]
 english: [cherubim, living beings, wheels, angels, fiery ones, watchers]
 domain: other
+words:
+  - he: חיות
+    nk: חַיּוֹת
 sources:
   - wiaw:8129 "Cherubic Children and Other Angels" (2019-02-09) https://articles.ohr.edu/articles/cherubic-children-and-other-angels
 authorities: [Rambam, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Orchos Chaim, Kolbo, Masechta Atzilus, Rabbi Moshe ibn Chaviv, Rabbi Dovid Luria, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Mordechai Shlomo Movshovitz, Rashi]

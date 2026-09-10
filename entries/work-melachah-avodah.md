@@ -5,6 +5,9 @@ roots: [ל-א-ך, ע-ב-ד, ש-ר-ת]
 translit: [melachah, melacha, melakhah, melochoh, meleches, melechet, melachos, melachot, avodah, avoda, avodas, avodat, avodos, avodot, eved, meshubad, meshuabad, sheirus, sheirut, sherut, meshares, mesharet, malach, melechet avodah, meleches avodah]
 english: [work, labor, service, toil]
 domain: action
+words:
+  - he: מלאכה
+    nk: מְלָאכָה
 sources:
   - wiaw:8654 "Laborious Work and Angelic Creativity" (2020-03-21) https://articles.ohr.edu/articles/laborious-work-and-angelic-creativity
 authorities: [Ramban, Abarbanel, Rabbi Yitzchak Shmuel Reggio, Rabbi Aharon Leib Steinman, Rabbi Naftali Hertz Wessely, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Moshe Alshich, Rabbi Tzvi Yehuda Kook, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Yoel Teitelbaum of Satmar, Tosafists, Peirush HaRokeach, Rabbi Shmuel David Ungar]

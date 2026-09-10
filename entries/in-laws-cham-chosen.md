@@ -5,6 +5,9 @@ roots: [ח-מ, ח-ת, ח-ת-ן]
 translit: [cham, chami, chamos, chamot, chosen, choten, chosni, chotni, choseness, chotenet, chasan, chatan, mechutanim, mechutan, mori vchami]
 english: [father-in-law, mother-in-law, parents-in-law, groom]
 domain: society
+words:
+  - he: חתן
+    nk: חָתָן
 sources:
   - wiaw:8605 "Heat with the In-Laws" (2020-02-15) https://articles.ohr.edu/articles/heat-with-the-in-laws
 authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack]

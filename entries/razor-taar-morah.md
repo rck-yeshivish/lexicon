@@ -5,6 +5,9 @@ roots: [ת-ע-ר, ע-ר-ה, מ-ו-ר, י-ר-ה, מ-ר]
 translit: [taar, taer, morah, mora, mitaar, temurah, mumar]
 english: [razor, blade, scissors, fear]
 domain: body
+words:
+  - he: מורה
+    nk: מוֹרָה
 sources:
   - wiaw:7768 "Razor's Edge" (2018-05-26) https://articles.ohr.edu/articles/razors-edge
 authorities: [Targum, Rashi, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Vayikra Rabbah]

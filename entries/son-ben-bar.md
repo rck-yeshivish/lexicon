@@ -5,6 +5,9 @@ roots: [ב-נ, ב-ר]
 translit: [ben, bar, bat, bas, banos, barat, beris, bar mitzvah, bas mitzvah, bar minan, binyan, binah, tevunah, avnayim]
 english: [son, daughter, child of]
 domain: society
+words:
+  - he: בר
+    nk: בַּר
 sources:
   - wiaw:8257 "Boys and Bars" (2019-05-25) https://articles.ohr.edu/articles/boys-and-bars
 authorities: [Malbim, Rabbi Yaakov Margolis, Maharshal, Maharik, Rema, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Meir Simcha of Dvinsk, Rabbi David Ovadiah, Rabbi Alexander Sender Feuerstein, Rabbi Meir Mintzberg, Rabbi Yehuda ben Kalonymos of Speyer]

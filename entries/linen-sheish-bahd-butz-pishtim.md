@@ -5,6 +5,13 @@ roots: [ש-ש, ב-ד, ב-ו-ץ, פ-ש-ת, כ-ת-ן, ק-ט-ן]
 translit: [sheish, shesh, bahd, bad, butz, buts, pishtah, pishtan, pishtim, kitna, kitnah, kesones, ketonet, karpas, tzemer gefen, kotna, ketini]
 english: [linen, flax, fine linen, byssus, cotton]
 domain: other
+words:
+  - he: בד
+    nk: בַּד
+  - he: בוץ
+    nk: בּוּץ
+  - he: כרפס
+    nk: כַּרְפַּס
 sources:
   - wiaw:8140 "Is Cotton a Type of Linen?" (2019-02-16) https://articles.ohr.edu/articles/is-cotton-a-type-of-linen
 authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi]

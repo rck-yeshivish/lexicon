@@ -5,6 +5,9 @@ roots: [מ-נ, מ-י-ן, ז-נ, ס-ג, ג-ס]
 translit: [min, minim, minnim, minei, zan, zen, znim, zenei, sug, sugim, temunah, temuna, minyan, moneh]
 english: [species, kind, type, sort, category, genus]
 domain: nature
+words:
+  - he: מין
+    nk: מִין
 sources:
   - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
 authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Ralbag, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal]

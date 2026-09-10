@@ -5,6 +5,11 @@ roots: [ש-ה, צ-א-נ, ע-ז, ת-י-ש, ג-ד-י, ש-ע-ר, ר-ח-ל, א-י-ל
 translit: [seh, tzon, tzon, eiz, ez, izzim, tayish, tayesh, gedi, gediya, seir, sair, seirah, seir izzim, tzfir, rachel, rechelim, ayil, eilim, keves, kevesh, kivsah, kesev, kisbah, tleh, tle, taleh, atud, atudim, yovel, karim, meri, meriim, zachar shel rechalim]
 english: [lamb, flock, she-goat, he-goat, kid, ram, ewe, young sheep, buck, fatling]
 domain: nature
+words:
+  - he: איל
+    nk: אַיִל
+  - he: יובל
+    nk: יוֹבֵל
 sources:
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
 authorities: [Rabbi Shlomo Pappenheim, Rabbi David Ibn Zimra, Abarbanel, Rav Hirsch, Rambam, Rashi, Radak, Ibn Ezra, Ibn Parchon, Rabbi Yishaya of Trani, Turei Zahav, Baal HaTurim, Peirush HaRokeach, Netziv, Rabbi Shmuel Strashun, Malbim, Rabbi Meir Simcha of Dvinsk, Rabbi Aharon Marcus, Rabbi Yisrael David Miller of Grodno, Ramban, Rabbi Yosef Chiyyun, Rabbi Meir Mazuz]

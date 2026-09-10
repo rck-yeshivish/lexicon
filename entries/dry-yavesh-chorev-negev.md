@@ -5,6 +5,11 @@ roots: [י-ב-ש, ב-ש, ח-ר-ב, נ-ג-ב]
 translit: [yavesh, yaveish, yavshah, yabashah, yabasha, vativash, chorev, charev, chareivah, charavah, charvu, negev, negeiv]
 english: [dry, dried out, parched, arid, dry land]
 domain: nature
+words:
+  - he: חרבה
+    nk: חֲרֵבָה
+  - he: יבשה
+    nk: יַבָּשָׁה
 sources:
   - wiaw:9775 "On Dry Land" (2022-07-09) https://articles.ohr.edu/articles/on-dry-land
 authorities: [Vilna Gaon, Rashi, Sefer HaChochmah, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shoresh Yesha, Rabbi Avraham Maimuni, Radak, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Rabbi Yaakov Zev Lev, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Ezra, Rav Hirsch, Peirush HaRokeach]

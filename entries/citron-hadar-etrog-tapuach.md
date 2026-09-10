@@ -9,6 +9,7 @@ words:
   - he: הדר
     tr: hadar
     en: beautiful, splendid
+    nk: הָדָר
     distinct: in Tanach the word means glory or beauty, and identifies the citron only through the Oral Torah, the derashos of Chazal being asmachta (Ibn Ezra; Rambam)
   - he: אתרוג
     tr: esrog

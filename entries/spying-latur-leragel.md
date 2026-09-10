@@ -25,6 +25,7 @@ words:
   - he: חפר
     tr: vayachperu
     en: dig up, mine for
+    nk: חָפַר
     distinct: Devarim 1:22, digging deliberately for damning information; kin to cherpah, disgrace (Rabbi Yaakov Tzvi Mecklenburg)
 sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy

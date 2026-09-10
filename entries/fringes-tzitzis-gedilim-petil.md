@@ -5,6 +5,9 @@ roots: [צ, צ-י-צ, ג-ד-ל, פ-ת-ל, ט-ל-ל]
 translit: [tzitzis, tzitzit, tzitz, tzitzin, gedilim, gedilin, gadil, gedil, gudal, petil, pesil, petilah, tallis, tallit, taliyos, taliyot, matlis, matlit, kruspedin, kruspidin, kruspeda, itztala, techeiles, techelet]
 english: [fringes, braided cords, thread, four-cornered garment, hem]
 domain: ritual
+words:
+  - he: טלית
+    nk: טַלִּית
 sources:
   - wiaw:11857 "Shelach: Growing the Fringes (Part 1/2)" (2025-06-21) https://articles.ohr.edu/articles/shelach-growing-the-fringes-part-12
   - wiaw:11856 "Korach: Growing the Fringes (Part 2/2)" (2025-06-28) https://articles.ohr.edu/articles/korach-growing-the-fringes-part-22

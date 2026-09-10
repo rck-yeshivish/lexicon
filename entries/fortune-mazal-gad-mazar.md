@@ -13,6 +13,7 @@ words:
   - he: גד
     tr: gad
     en: fortune
+    nk: גַּד
     distinct: twice in Tanach (Bereishis 30:11; Yeshayahu 65:11); the spiritual force attached to a particular thing or person, from the biliteral ג-ד, "attaching" (Rabbi Shlomo Pappenheim)
   - he: מזר
     tr: mazar

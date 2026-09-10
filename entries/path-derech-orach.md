@@ -5,6 +5,9 @@ roots: [ד-ר-ך, א-ר-ח]
 translit: [derech, derekh, derachim, drachim, dorech, doreich, orach, orah, orchos, orchot, orchoth, oreach, oreiach, aruchah, arucha]
 english: [way, road, path]
 domain: other
+words:
+  - he: אורח
+    nk: אוֹרַח
 sources:
   - wiaw:7893 "Roads and Paths, Ways and Means" (2018-08-25) https://articles.ohr.edu/articles/roads-and-paths-ways-and-means
 authorities: [Vilna Gaon, Malbim, Rabbi Tzvi Hirsch Shlez, Rabbi Shlomo Aharon Wertheimer, Zohar, Rabbi Shlomo Pappenheim, Radak, Rashi, Rabbi Moshe Shapiro]

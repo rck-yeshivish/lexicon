@@ -18,6 +18,8 @@ words:
     tr: ketilah
     en: killing (Aramaic); striking down
     distinct: the Targumim's word for both Hebrew terms, and the ordinary Aramaic verb; in Hebrew Rabbi Pappenheim limits it to striking a man to the verge of death, and its Talmudic sense of "cutting" may be its core
+  - he: מיתה
+    nk: מִיתָה
 sources:
   - wiaw:10820 "Yisro: Murder He Wrote" (2023-02-11) https://articles.ohr.edu/articles/yisro-murder-he-wrote
 authorities: [Rashbam, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Abarbanel, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Galblum, Rabbi Nathan Adler, Menachem Ibn Saruk, Rashi, Targum Onkelos, Sefer Yeraim, Sefer HaChachmah, Rabbi Aharon Marcus, Rabbi Yaakov Berger]

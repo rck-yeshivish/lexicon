@@ -14,7 +14,7 @@ There is a small markdown renderer here rather than a dependency, because the
 entries use a known, narrow subset (headings, tables, lists, bold, italic,
 links, code) and a build that needs no install is one less thing to break.
 """
-import re, sys, json, html, shutil, pathlib, unicodedata, datetime
+import re, sys, json, html, shutil, pathlib, unicodedata, datetime, hashlib
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 ENTRIES = ROOT / "entries"
@@ -238,15 +238,17 @@ def collect():
                 continue
             seen.add(k)
             w = per.get(k, {})
-            words.append({"h": disp, "k": k, "t": w.get("tr", ""), "e": w.get("en", ""),
-                          "d": w.get("distinct", ""), "s": slug, "i": pos})
+            words.append({"h": disp, "k": k, "n": w.get("nk", ""), "t": w.get("tr", ""),
+                          "e": w.get("en", ""), "d": w.get("distinct", ""),
+                          "s": slug, "i": pos})
             pos += 1
         for k, w in per.items():
             if k in seen:
                 continue
             seen.add(k)
-            words.append({"h": show_heb(w["he"]), "k": k, "t": w.get("tr", ""),
-                          "e": w.get("en", ""), "d": w.get("distinct", ""), "s": slug, "i": pos})
+            words.append({"h": show_heb(w["he"]), "k": k, "n": w.get("nk", ""),
+                          "t": w.get("tr", ""), "e": w.get("en", ""),
+                          "d": w.get("distinct", ""), "s": slug, "i": pos})
             pos += 1
 
         # Per-word glosses first, since those carry the Hebrew they render. An
@@ -270,6 +272,9 @@ def collect():
 
 # ------------------------------------------------------------------ page shells
 
+ASSETS = {"css": "app.css", "js": "app.js"}   # filled in at build time with hashed names
+
+
 def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
     up = "../" * depth
     return f"""<!doctype html>
@@ -279,27 +284,30 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{html.escape(title)}</title>
 <meta name="description" content="A Hebrew-to-English translation guide: one entry per synonym cluster, every distinction attributed to the authority who draws it.">
-<link rel="stylesheet" href="{up}assets/app.css">
+<link rel="stylesheet" href="{up}assets/{ASSETS["css"]}">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>א</text></svg>">
 </head>
 <body data-up="{up}">
 <header class="site{'' if header_search else ' bare'}">
   <a class="brand" href="{up}index.html" aria-label="What&rsquo;s in a Word? — back to the start">What&rsquo;s in a Word?</a>
   {'<div class="hsearch"><input id="q" type="search" placeholder="Search Hebrew or English" autocomplete="off" spellcheck="false" dir="auto"><div id="ac" class="ac" hidden></div></div>' if header_search else ''}
-  <nav class="seg">
-    <a href="{up}hebrew.html" class="{'on' if active == 'he' else ''}">Hebrew</a>
-    <a href="{up}english.html" class="{'on' if active == 'en' else ''}">English</a>
+  <nav class="navs">
+    <a class="meth {'on' if active == 'me' else ''}" href="{up}method.html">Methodology</a>
+    <span class="seg">
+      <a href="{up}hebrew.html" class="{'on' if active == 'he' else ''}">Hebrew</a>
+      <a href="{up}english.html" class="{'on' if active == 'en' else ''}">English</a>
+    </span>
   </nav>
 </header>
 <main>
 {body}
 </main>
 <footer>
-  <p>Grounded only in Orthodox sources. Every distinction is attributed; where the authorities disagree, the entry names the views. <a href="{up}method.html">How these words differ</a>.</p>
+  <p>Grounded only in Orthodox sources. Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
   <p class="muted">The entries are checked for sources and consistency, but have not yet been read one by one against the essays they rest on.</p>
   <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach.</p>
 </footer>
-<script src="{up}assets/app.js"></script>
+<script src="{up}assets/{ASSETS["js"]}"></script>
 {extra_js}
 </body>
 </html>
@@ -332,6 +340,10 @@ def entry_page(e):
 # ------------------------------------------------------------------------ build
 
 def main():
+    for kind, text in (("css", CSS), ("js", JS)):
+        h = hashlib.sha256(text.encode("utf-8")).hexdigest()[:10]
+        ASSETS[kind] = f"app.{h}.{kind}"
+
     entries, words, english = collect()
     # Write in place and sweep stale files afterwards, rather than deleting the
     # tree first: on a OneDrive-synced folder the sync client holds directory
@@ -385,7 +397,6 @@ def main():
 <section class="split">
   <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">א&#1523; ועד ת&#1523;</p></a>
   <a class="card" href="english.html"><h3>Browse English</h3><p>A to Z, from the English back to the Hebrew.</p></a>
-  <a class="card" href="method.html"><h3>How these words differ</h3><p>The handful of ways apparent synonyms actually part company.</p></a>
 </section>'''
     emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
 
@@ -415,11 +426,12 @@ def main():
         body = method_src.read_text(encoding="utf-8")
         # Our own distillation, not the magazine's text: the article is credited
         # and linked, never reproduced.
-        emit("method.html", shell("How these words differ — What’s in a Word?",
-                                  f'<article class="entry prose">{md(body)}</article>'))
+        emit("method.html", shell("Methodology — What’s in a Word?",
+                                  f'<article class="entry prose">{md(body)}</article>',
+                                  active="me"))
 
-    emit("assets/app.css", CSS)
-    emit("assets/app.js", JS)
+    emit(f'assets/{ASSETS["css"]}', CSS)
+    emit(f'assets/{ASSETS["js"]}', JS)
     emit("_headers", HEADERS)
 
     stale = [f for f in OUT.rglob("*") if f.is_file() and f.resolve() not in written]
@@ -466,7 +478,13 @@ header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap
   border-radius:10px;background:var(--panel);color:var(--ink);font-size:15px;outline:none}
 .hsearch input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
 header.bare .brand{flex:1}
-.seg{display:flex;gap:2px;padding:2px;background:var(--line);border-radius:9px;flex:0 0 auto}
+.navs{display:flex;align-items:center;gap:16px;flex:0 0 auto}
+.seg{display:inline-flex;gap:2px;padding:2px;background:var(--line);border-radius:9px}
+/* Quieter than the browse control: it is a different kind of page, not a third
+   way of looking at the same list. */
+.meth{color:var(--faint);font-size:14px;font-weight:500;white-space:nowrap}
+.meth:hover{color:var(--ink);text-decoration:none}
+.meth.on{color:var(--ink)}
 .seg a{padding:5px 13px;border-radius:7px;font-size:14px;color:var(--dim);font-weight:500}
 .seg a:hover{text-decoration:none;color:var(--ink)}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
@@ -494,7 +512,7 @@ header.bare .brand{flex:1}
 .chip{border:1px solid var(--line);background:var(--panel);color:var(--dim);
   border-radius:999px;padding:4px 12px;font:inherit;font-size:14px;cursor:pointer;margin:0 3px}
 .chip:hover{color:var(--ink);border-color:var(--dim)}
-.split{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:56px}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:56px}
 @media (max-width:860px){.split{grid-template-columns:1fr}}
 @media (max-width:640px){.hero h1{font-size:33px}.hero{padding:52px 0 20px}}
 .card{display:block;padding:24px;border:1px solid var(--line);border-radius:var(--radius);
@@ -720,7 +738,7 @@ function wire(){
     }
     ac.innerHTML = list.map((w,i) =>
       `<a class="row${i===sel?" sel":""}" href="${href(w)}">
-         <span class="h">${esc(w.h)}</span>
+         <span class="h">${esc(w.n || w.h)}</span>
          <span class="t">${esc(w.t)}</span>
          <span class="e">${esc(w.e || (ent(w).g || []).slice(0,3).join(", "))}</span>
          <span class="c">${esc(ent(w).c)}</span>
@@ -771,7 +789,7 @@ function initBrowse(mode){
       const items = bucket[l] || [];
       const rows = items.map(w => mode === "he"
         ? `<a class="r" href="${href(w)}">
-             <span class="h">${esc(w.h)}</span>
+             <span class="h">${esc(w.n || w.h)}</span>
              <span>
                ${w.e ? `<span class="e">${esc(w.e)}</span>` :
                        `<span class="cl">in the ${esc(ent(w).c)} group: ${esc((ent(w).g || []).slice(0,4).join(", "))}</span>`}

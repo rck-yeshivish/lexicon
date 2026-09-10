@@ -5,6 +5,9 @@ roots: [כ-ר-ת, ע-ר-ר]
 translit: [karet, kares, kareis, krisus, keritot, kerisos, sefer krisus, ariri, aririm, ariree]
 english: [excision, cut off, childless, extirpation]
 domain: other
+words:
+  - he: כרת
+    nk: כָּרֵת
 sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Chaim of Volozhin, Ramban, Rabbeinu Bachya, Ibn Ezra, Rashi, Riva]

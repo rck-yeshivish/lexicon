@@ -5,6 +5,9 @@ roots: [פ-ש-ע, מ-ר-ד, ר-ד, מ-ר-ה, מ-ר-ר, מ-ר]
 translit: [pesha, pasha, poshea, nifsha, vayifsha, meridah, mered, mored, moredes, yamreh, meri, mamre, mamrim, moreh, mumar, zaken mamre, merudim, rodeh, mar]
 english: [rebellion, revolt, defiance, negligence, insubordination]
 domain: society
+words:
+  - he: מורה
+    nk: מוֹרֶה
 sources:
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
 authorities: [Rashi, Midrash Tanchuma, Rabbi Shlomo Pappenheim, Targum, Rabbi Yonah Ibn Janach, Radak, Machberet Menachem (Rabbi Menachem Ibn Saruk), Rav Hirsch, Rabbi Aharon Marcus, Sifrei]

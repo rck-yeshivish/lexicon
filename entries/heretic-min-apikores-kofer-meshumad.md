@@ -5,6 +5,9 @@ roots: [מ-י-נ, כ-פ-ר, ש-מ-ד, מ-ו-ר]
 translit: [min, minim, minus, minut, apikores, apikoros, epikoros, apikorsim, kofer, kofrim, kefirah, meshumad, meshumadim, meshuamad, mumar, mumarim, shmad, shemad]
 english: [sectarian, heretic, scoffer, denier, apostate, convert-out]
 domain: society
+words:
+  - he: מין
+    nk: מִין
 sources:
   - wiaw:11438 "Korach: Of Heretics and Apostates" (2024-07-06) https://articles.ohr.edu/articles/korach-of-heretics-and-apostates
 authorities: [Rambam, Rashba, Rabbi Yishaya of Trani, Rabbi Eliyahu HaBachur, Rabbi Shmuel David Luzzatto, Rabbi Binyamin Mussafia, Rabbi J. D. Eisenstein, Rabbi Shlomo Tzvi Shick, Ramban, Rav Hai Gaon, Rabbi Moshe Ibn Ezra, Rabbi Shlomo Ibn Parchon, Rashbatz, Kuzari, Rabbi Tanchum HaYerushalmi, Rabbi Yair Chaim Bachrach, Chasam Sofer]

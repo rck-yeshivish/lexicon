@@ -9,6 +9,7 @@ words:
   - he: חדל
     tr: chadal
     en: cease
+    nk: חָדַל
     distinct: stopping because one cannot continue, by nature or by law (Rabbi Yosef Grayever); the halt comes from the person or thing itself, not from outside, and carries no verdict on whether it is right (Rabbi Shlomo Pappenheim)
   - he: מנע
     tr: mana

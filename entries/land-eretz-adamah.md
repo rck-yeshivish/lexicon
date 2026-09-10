@@ -5,6 +5,11 @@ roots: [א-ר-ץ, א-ד-ם]
 translit: [eretz, aretz, aratzos, aratzot, adamah, adama, admas, admat]
 english: [land, country, earth, ground, soil]
 domain: nature
+words:
+  - he: ארץ
+    nk: אֶרֶץ
+  - he: אדמה
+    nk: אֲדָמָה
 sources:
   - wiaw:7313 "The Land Down Under" (2017-06-24) https://articles.ohr.edu/articles/the-land-down-under
 authorities: [Vilna Gaon, Malbim, Rabbeinu Bachaya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer]

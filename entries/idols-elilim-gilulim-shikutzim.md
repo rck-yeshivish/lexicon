@@ -5,6 +5,9 @@ roots: [א-ל-ל, פ-ס-ל, נ-ס-כ, נ-צ-ב, ע-צ-ב, ג-ל-ל, ת-ר-פ, ש
 translit: [elilim, elil, pesel, pesilim, masechah, masecha, matzeivah, matzevah, matzeivos, atzabim, atzavim, gilulim, gillulim, terafim, teraphim, shikutzim, shikkutzim, sheketz, chamanim, asherim, asherah, chalulim, chalalim, megualim, glalim, ishur]
 english: [idols, graven image, molten image, pillar, images, dung-idols, abominations, sun-pillars]
 domain: ritual
+words:
+  - he: מסכה
+    nk: מַסֵּכָה
 sources:
   - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
 authorities: [Avos d'Rabbi Nosson, Malbim, Maharitatz, Rashi, Rabbeinu Nissim, Ritva, Ibn Ezra, Ramban, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh, Rabbeinu Shimshon of Shantz, Pirush HaRaavad, Rav Achai Gaon, Netziv]

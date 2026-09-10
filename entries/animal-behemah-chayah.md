@@ -5,6 +5,13 @@ roots: [ב-ה-מ, ח-י-ה]
 translit: [behemah, beheimah, behema, behemot, behemos, beheimos, chayah, chaya, chayot, chayos]
 english: [animal, beast, domesticated animal, wild animal, livestock]
 domain: nature
+words:
+  - he: חיה
+    nk: חַיָּה
+  - he: חיות
+    nk: חַיּוֹת
+  - he: בהמה
+    nk: בְּהֵמָה
 sources:
   - wiaw:6999 "Don't be a Behemah or a Chayah!" (2016-11-12) https://articles.ohr.edu/articles/dont-be-a-behemah-or-a-chayah
 authorities: [Ibn Ezra, Radak, Ramban, Netziv, Rabbi Chaim Kanievsky]

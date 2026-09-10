@@ -13,10 +13,12 @@ words:
   - he: ירח
     tr: yerach
     en: month (the full span)
+    nk: יֶרַח
     distinct: for Malbim simply a period of thirty days, whether or not the moon is in view; in truth kin to yareach, the moon, and so the whole month rather than its start; Rav Hirsch: the month as a vehicle of ripening, time in its physical, natural aspect
   - he: ירח
     tr: yareach
     en: moon
+    nk: יָרֵחַ
     distinct: the luminary whose cycle fixes the month's length, and the word behind yerach
 sources:
   - wiaw:7687 "Old Month versus New Month" (2018-03-17) https://articles.ohr.edu/articles/old-month-versus-new-month

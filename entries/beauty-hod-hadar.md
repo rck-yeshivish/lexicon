@@ -5,6 +5,9 @@ roots: [ה-ו-ד, ה-ד-ר, א-ד-ר]
 translit: [hod, hodaah, hoda'ah, karnei hod, hod malchus, hod malchut, hadar, hadras panim, hadrat panim, hadar malchus, hadar malchut, eitz hadar, etz hadar, adar, hod v'hadar, hod vehadar]
 english: [splendor, majesty, glory, inner glory, outward glory]
 domain: other
+words:
+  - he: הדר
+    nk: הָדָר
 sources:
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
 authorities: [Sefer HaKushyos, Rabbi Shlomo of Urbino, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shmuel Dovid Luzzatto, Malbim, Rabbi Simcha Maimon, Sifrei, Rav Hirsch]

@@ -5,6 +5,9 @@ roots: [ר-צ-ה, ח-פ-ץ, צ-ב-ה]
 translit: [ratzon, ratson, razon, rotzeh, rotze, retzono, retzoncha, retzon Hashem, chefetz, chefets, chafetz, chofetz, chafatzti, chafetzim, chafatzim, tzvi, tzevi, tzavi, tzvei, raavon, ra'avon, cheshek]
 english: [will, want, desire, yearning]
 domain: emotion
+words:
+  - he: חפץ
+    nk: חֵפֶץ
 sources:
   - wiaw:8573 "Running on Willpower" (2020-01-25) https://articles.ohr.edu/articles/running-on-willpower
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Tzvi Yehuda Kook, Rabbi Aharon Yehuda Leib Margolios, Malbim, Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Leib Edel, Vilna Gaon, Targum Onkelos]

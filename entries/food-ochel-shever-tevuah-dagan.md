@@ -5,6 +5,9 @@ roots: [א-כ-ל, כ-ל, ז-ו-ן, ז-ן, י-ב-ל, ב-ל, ב-ו-א, ב-א, נ-�
 translit: [ochel, ochl, maachal, machal, mazon, mezonos, mezonot, yevul, yvul, tevuah, tvuah, tenuvah, tnuvah, dagan, degan, bar, shever, sever, shover, avur, avor, niv sefasayim]
 english: [food, sustenance, produce, crop, grain, provisions]
 domain: nature
+words:
+  - he: בר
+    nk: בָּר
 sources:
   - wiaw:8546 "A Biblical Feast" (2020-01-04) https://articles.ohr.edu/articles/a-biblical-feast
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachaya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Targum Onkelos, Targum Yonasan]

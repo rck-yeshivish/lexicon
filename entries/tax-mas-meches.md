@@ -5,6 +5,9 @@ roots: [ס, מ-ס, ש-א, כ-ס, כ-ס-ס]
 translit: [mas, missim, misim, meches, mechess, michsas, michsat, minda, mindah, belo, halach, karga, karga d, gulgalta, gulgoles, arnona, arnonah, taska, kis]
 english: [tax, levy, conscripted labor, corvee, customs, poll tax, crop tax, property tax]
 domain: society
+words:
+  - he: הלך
+    nk: הֲלָךְ
 sources:
   - wiaw:8339 "Heavy Taxes and Empty Pockets" (2019-07-27) https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets
 authorities: [Menachem Ibn Saruk, Rabbi Yehuda ibn Chayyuj, Rabbeinu Yonah ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri, Rabbi Baruch Avraham Toledano]

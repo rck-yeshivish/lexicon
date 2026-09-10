@@ -5,6 +5,11 @@ roots: [מ-ל-ך, מ-ש-ל]
 translit: [melech, moshel, meloch, timshol, meluchah, melucha, memshalah, malchus, malchut]
 english: [king, ruler, kingship, dominion]
 domain: society
+words:
+  - he: מושל
+    nk: מוֹשֵׁל
+  - he: מלוכה
+    nk: מְלוּכָה
 sources:
   - wiaw:6893 "Divine Dictator or Populist King?" (2016-08-13) https://articles.ohr.edu/articles/divine-dictator-or-populist-king
 authorities: [Vilna Gaon, Rabbi Moshe Soloveitchik of Switzerland]

@@ -5,6 +5,9 @@ roots: [נ-ט-ה, ש-ב-ט, ש-ע-נ, מ-ק-ל, ש-ר-ב, ח-ט-ר]
 translit: [mateh, matot, matos, mattos, shevet, shevatim, shvatim, mishenet, mishenes, mishan, makel, maklot, maklos, malkot, malkos, makkot, sharvit, sharvis, choter, chutra, shotim, shoteir]
 english: [staff, rod, tribe, cane, stick, scepter, branch]
 domain: society
+words:
+  - he: מטה
+    nk: מַטֶּה
 sources:
   - wiaw:7357 "Tribesmen Stick Together" (2017-07-22) https://articles.ohr.edu/articles/tribesmen-stick-together
 authorities: [Malbim, Rashi, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Yehuda ibn Kuraish, Rabbi Yaakov Lorberbaum of Lissa, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Zev HaKohen Hoberman]

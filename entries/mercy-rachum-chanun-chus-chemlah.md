@@ -5,6 +5,9 @@ roots: [ר-ח-ם, ח-נ-ן, ח-ו-ס, ח-ס, ח-מ-ל]
 translit: [rachum, rachamim, rachamin, rachmanus, rachmanut, chanun, chanan, chein, chen, chaninah, chus, chas, chas veshalom, chemlah, chemla, chomel]
 english: [mercy, compassion, grace, favor, pity, sparing, caring]
 domain: emotion
+words:
+  - he: חן
+    nk: חֵן
 sources:
   - wiaw:7679 "Mercy or Pity" (2018-03-10) https://articles.ohr.edu/articles/mercy-or-pity
 authorities: [Rabbeinu Bachaya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer]

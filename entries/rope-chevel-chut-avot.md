@@ -13,6 +13,7 @@ words:
   - he: חבל
     tr: chevel
     en: rope
+    nk: חֶבֶל
     distinct: the ordinary rope, and for Rabbi Shlomo Pappenheim the parent of every other sense of ח-ב-ל (lot, band of men, scheme, localized pain, pledge), all of them from the rope used to measure
   - he: כבל
     tr: kevel

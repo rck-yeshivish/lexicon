@@ -5,6 +5,11 @@ roots: [ש-ו-ר, ש-ר, פ-ר, ע-ג-ל, א-ל-פ, ל-פ, ב-ק-ר]
 translit: [shor, tor, par, parah, para, egel, eglah, egla, aleph, elef, aluf, alafim, bakar, boker, voker, igul, shar, sharir]
 english: [ox, bull, cow, heifer, calf, cattle, herdsman]
 domain: nature
+words:
+  - he: אלף
+    nk: אֶלֶף
+  - he: בוקר
+    nk: בּוֹקֵר
 sources:
   - wiaw:8333 "Bovine Words: Cows and Cowboys" (2019-07-20) https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys
 authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg]

@@ -22,6 +22,8 @@ words:
     tr: kalkalah
     en: hamper, large basket
     distinct: Mishnaic; an especially large sal for storing all kinds of food, from kalkal, "to sustain" (Rabbi Tanchum HaYerushalmi)
+  - he: דוד
+    nk: דּוּד
 sources:
   - wiaw:8846 "A Basket Case" (2020-09-05) https://articles.ohr.edu/articles/a-basket-case
   - wiaw:10020 "A Basket Case" (2022-09-17) https://articles.ohr.edu/articles/a-basket-case-2

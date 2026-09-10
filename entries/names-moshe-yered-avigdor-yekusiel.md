@@ -21,6 +21,7 @@ words:
   - he: חבר
     tr: Chever
     en: Chever
+    nk: חֶבֶר
     distinct: from chibbur, joining: he bound Israel to Hashem, through the Mishkan (Vilna Gaon); or from ע-ב-ר, to pass, punishment made to pass over
   - he: אבי סוכו
     tr: Avi-Socho

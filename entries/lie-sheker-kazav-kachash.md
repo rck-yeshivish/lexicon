@@ -5,6 +5,9 @@ roots: [ש-ק-ר, כ-ז-ב, כ-ח-ש]
 translit: [sheker, shekker, kazav, kozev, chazav, kachash, kichesh, michachesh, emes, emet, shikur]
 english: [falsehood, lie, deceit, fabrication, denial]
 domain: speech
+words:
+  - he: כחש
+    nk: כַּחַשׁ
 sources:
   - wiaw:9080 "Mishpatim: Feeding the Lie" (2021-02-13) https://articles.ohr.edu/articles/mishpatim-feeding-the-lie
 authorities: [Rabbi Yosef Albo, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbeinu Yosef Bechor Shor, Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Yonah Wilheimer, Rabbi Shlomo Aharon Wertheimer]

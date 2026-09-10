@@ -5,6 +5,9 @@ roots: [ג-ד, כ-ס-ב-ר]
 translit: [gad, gada, gida, kusbar, kusbara, kusbarta, kusbarat, gudgedaniyot, gadgadniyot, meged, megadim, migdanot, migdanos, coliander, aillendre]
 english: [coriander, cilantro, coriander seed, mustard seed, delicacy]
 domain: nature
+words:
+  - he: גד
+    nk: גַּד
 sources:
   - wiaw:8735 "A Coriander Conundrum" (2020-06-06) https://articles.ohr.edu/articles/a-coriander-conundrum
 authorities: [Targum Onkelos, Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi, Rashbam, Ralbag, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rav Hai Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Krinsky, Rabbi Dovid Golumb, Rabbeinu Chananel, Rabbi Natan of Rome, Tosafos Rabbeinu Elchanan, Tosafos HaRosh, Nimukei Yosef]

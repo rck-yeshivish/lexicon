@@ -5,6 +5,9 @@ roots: [פ-ל-ל, ב-ק-ש, ח-נ-ן]
 translit: [tefilla, tefillah, tefila, bakasha, bakashah, bakashot, bakashos, techina, techinah, tachanun, tachanunim, plila, pelilah, tzeloti, bauti, chen]
 english: [prayer, request, petition, supplication, plea]
 domain: ritual
+words:
+  - he: חן
+    nk: חֵן
 sources:
   - wiaw:7090 "Say your Prayers" (2017-01-14) https://articles.ohr.edu/articles/say-your-prayers
 authorities: [Targum Onkelos, Rabbi Simcha Maimon, Rabbi Shmuel Laniado, Rabbi Yaakov Tzvi Mecklenburg]

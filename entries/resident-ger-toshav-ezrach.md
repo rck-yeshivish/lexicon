@@ -5,6 +5,9 @@ roots: [ג-ר, י-ש-ב, ש-ב, ז-ר-ח, ז-ו-ר, ד-ו-ר]
 translit: [ger, gerim, gur, lagur, garti, toshav, toshavim, ezrach, ezrachi, zar, zarim, yeshivah, yeshiva, dirah, dira, madour, dayar, megurah, ger toshav, ger tzedek]
 english: [sojourner, resident, native, citizen, stranger, convert]
 domain: society
+words:
+  - he: זר
+    nk: זָר
 sources:
   - wiaw:9199 "Behar - Bechukotai: Settled Citizens" (2021-05-08) https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens
 authorities: [Malbim, Rav Hirsch, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Moshe Kimchi, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Yonah Ibn Janach, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashi, Ramban, Mizrachi, Rabbi Yisrael Yaakov Algazi, Rabbi Shmuel Modiliano, Rabbi David Chaim Chelouche, Shadal]

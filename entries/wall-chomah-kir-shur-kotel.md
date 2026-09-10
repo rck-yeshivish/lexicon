@@ -5,6 +5,9 @@ roots: [ח-מ, ק-ר, ש-ר, ח-ל, ח-צ, כ-ת-ל]
 translit: [chomah, choma, chomos, chomot, kir, kiros, shur, shura, shor, cheil, cheyl, chayitz, chaitz, kotel, kosel, ktal, mechitzah, mechitza, karkar, korah, tikrah, shoresh, yashar]
 english: [wall, city wall, rampart, partition, structural wall]
 domain: other
+words:
+  - he: חיל
+    nk: חֵיל
 sources:
   - wiaw:8373 "Remembering the Wall" (2020-07-25) https://articles.ohr.edu/articles/remembering-the-wall
 authorities: [Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Raavan, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Ibn Ezra, Ibn Janach, Radak, Rabbi Yitzchok of Volozhin, Rabbi Moshe Zacuto, Rabbi Ernest Klein]

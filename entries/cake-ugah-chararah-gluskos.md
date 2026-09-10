@@ -17,10 +17,12 @@ words:
   - he: ככר
     tr: kikar
     en: loaf
+    nk: כִּכָּר
     distinct: always in kikar lechem; a rounded loaf with body to it, spherical rather than flat (Rabbi Shaul Goldman); see the separate bread entry
   - he: חלה
     tr: challah
     en: loaf, round loaf
+    nk: חַלָּה
     distinct: also round (Ibn Ezra to Vayikra 2:4); appears alone, as challas lechem, and as challas matzah, which is what makes it hard to fix against ugah
   - he: גלוסקא
     tr: gluska

@@ -5,6 +5,11 @@ roots: [ה-ב-ל, ר-י-ק, א-פ-ס, ת-ה-ה, ב, מ-ה, מ-מ, ב-ל-ם]
 translit: [hevel, hevle, havel, rik, reik, reikanya, larik, efes, tohu, sohu, bohu, vohu, toheh, tohe, blimah, blima, bli, meumah, meuma, meum, klum, mah, mahshehu, kolshehu, tehom]
 english: [futility, vanity, emptiness, for naught, formless, void, nothing, anything, nothingness]
 domain: other
+words:
+  - he: בלי
+    nk: בְּלִי
+  - he: מאומה
+    nk: מְאוּמָה
 sources:
   - wiaw:11095 "An Article About Nothing (Part 1 of 2)" (2023-09-09) https://articles.ohr.edu/articles/an-article-about-nothing-part-1-of-2
   - wiaw:11087 "An Article About Nothing (Part 2 of 2)" (2023-09-16) https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2

@@ -5,6 +5,9 @@ roots: [מ-ט-ה, נ-ט-ה, ע-ר-ש, ע-ר-ס]
 translit: [mitah, mita, mittah, eres, eress, arsa, arisah, arisa, isah, isa]
 english: [bed, couch, bedstead, crib, cradle]
 domain: other
+words:
+  - he: מטה
+    nk: מִטָּה
 sources:
   - wiaw:8364 "Beds of the Righteous" (2019-08-10) https://articles.ohr.edu/articles/beds-of-the-righteous
 authorities: [Ramchal, Menachem ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover]

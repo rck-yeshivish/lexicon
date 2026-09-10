@@ -5,6 +5,9 @@ roots: [ק-ש-ר, א-ס-ר, ק-ט-ר, כ-פ-ת, צ-ר-ר, ע-ק-ד, ח-ב-ש, ח
 translit: [keshirah, keshira, kesher, kasher, asirah, asira, assur, asir, issur, isur, ketirah, ketira, katir, kafut, kafus, kefiyah, kefiya, tzror, tzeror, tzarot, tzaros, akeidah, akeida, chavishah, chavisha, chitul, tachboshet]
 english: [tie, bind, fasten, tie down, bind against the will, wrap]
 domain: action
+words:
+  - he: איסור
+    nk: אִיסּוּר
 sources:
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Ibn Chayyuj, Rabbi Eliyahu HaBachur, Rav Hirsch, Radak, Rashi, Chizkuni, Rabbi Yaakov Berger]

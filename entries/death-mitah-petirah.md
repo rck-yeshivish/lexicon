@@ -5,6 +5,9 @@ roots: [מ-ו-ת, מ-ת, פ-ט-ר]
 translit: [mitah, misah, mita, mavet, maves, mos, mot, meis, met, meit, meisim, metim, petirah, petira, nifter, niftar, patur, peter rechem, nach nafshei, nach nafsheih]
 english: [death, died, dying, passing, passed away, departed]
 domain: other
+words:
+  - he: מיתה
+    nk: מִיתָה
 sources:
   - wiaw:10907 "Acharei Mos: Confronting Death" (2024-05-04) https://articles.ohr.edu/articles/acharei-mos-confronting-death
 authorities: [Rabbi Yehuda Chayyuj, Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Menachem ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Avraham Chaim Schor]

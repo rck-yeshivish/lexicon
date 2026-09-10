@@ -5,6 +5,15 @@ roots: [ד-ב-ר, א-מ-ר, מ-ל-ך, מ-ש-ל, ב-ו-א, א-ת-ה]
 translit: [davar, devarim, vayomer, va'yomer, amirah, vayidaber, va'yedaber, dibbur, meluchah, melucha, moshel, ba, bo, atah, asah]
 english: [word, thing, said, spoke, kingship, ruler, came]
 domain: other
+words:
+  - he: דבר
+    nk: דָּבָר
+  - he: אתה
+    nk: אָתָה
+  - he: מושל
+    nk: מוֹשֵׁל
+  - he: מלוכה
+    nk: מְלוּכָה
 sources:
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
 authorities: [Malbim, Ibn Ezra, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer]

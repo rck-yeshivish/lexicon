@@ -26,6 +26,8 @@ words:
     tr: parosh
     en: flea
     distinct: not a louse but a black, jumping kinah (*Metzudas Tziyon* to Shmuel I 24:14), the creature David compares himself to before Shaul
+  - he: כן
+    nk: כֵּן
 sources:
   - wiaw:11666 "VaEra: Lice Ain't Nice" (2025-01-25) https://articles.ohr.edu/articles/vaera-lice-aint-nice
 authorities: [Ibn Janach, Menachem Ibn Saruk, Ibn Parchon, Radak, Rashbam, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Targum Onkelos, Targum Yonasan, Rashi, Metzudas Tziyon, Malbim, Rabbi Dovid Tzvi Hoffmann, Tosafos, Tosafos HaRosh, Sefer HeAruch]

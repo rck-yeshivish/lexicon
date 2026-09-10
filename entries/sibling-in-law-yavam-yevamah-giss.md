@@ -25,10 +25,12 @@ words:
   - he: חתן
     tr: choten
     en: father-in-law
+    nk: חֹתֵן
     distinct: normally the wife's father; Ibn Janach allows it to stretch to brother-in-law, which Radak rejects
   - he: במה
     tr: bamah
     en: private altar, high place
+    nk: בָּמָה
     distinct: brought into this cluster as the etymon of yavam, either as a gathering point of many (Rabbi Shlomo Pappenheim) or as elevation (Rabbi Yaakov Tzvi Mecklenburg)
 sources:
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings

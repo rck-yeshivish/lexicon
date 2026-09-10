@@ -9,6 +9,7 @@ words:
   - he: כנף
     tr: kanaf
     en: wing; edge, corner
+    nk: כָּנָף
     distinct: the outermost part of the wing, farthest from the body (Rabbi Wertheimer), hence the edge or periphery of a garment or a land (Bedersi), and hence the wing that shelters
   - he: אבר
     tr: ever

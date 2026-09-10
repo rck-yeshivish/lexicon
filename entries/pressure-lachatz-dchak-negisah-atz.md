@@ -5,6 +5,9 @@ roots: [ל-ח-צ, ד-ח-ק, נ-ג-ש, ג-ש, א-צ, צ, א-ל-צ, ל-צ]
 translit: [lachatz, lochatzim, lochatz, dchak, dechak, d'chak, negisah, negisha, nogsim, noges, yigos, nosheh, atz, atzim, vayaitzu, alatz, vateiltzeihu]
 english: [pressure, squeeze, crowding, pressing, driving, urging]
 domain: action
+words:
+  - he: אלץ
+    nk: אָלַץ
 sources:
   - wiaw:9658 "Pesach: Putting Pressure" (2022-04-16) https://articles.ohr.edu/articles/pesach-putting-pressure
 authorities: [Rabbi Eliezer Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Shimon Schwab, Rabbi Refael Binyamin Posen, Malbim, Targum Onkelos, Targum Yonatan, Targum Neofiti, Rashi, Menachem Ibn Saruk, Ramban, Radak, Ibn Janach]

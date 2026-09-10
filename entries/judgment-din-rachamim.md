@@ -5,6 +5,9 @@ roots: [ד-י-ן, ר-ח-ם, ת-ק-ע, ר-ו-ע]
 translit: [din, rachamim, tekiah, tekiyah, teruah, teruos, teruot, Elokim, HaElokim, mashpia, mekabel, mesikas hadin, metikat hadin]
 english: [judgment, mercy, unbroken blast, broken blast, giver, receiver]
 domain: other
+words:
+  - he: דין
+    nk: דִּין
 sources:
   - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
 authorities: [Ramban, the Kabbalists, Rabbi Reuven Chaim Klein]
