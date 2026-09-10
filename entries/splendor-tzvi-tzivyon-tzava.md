@@ -29,8 +29,8 @@ words:
     distinct: from the same two-letter צ-ב, "standing"; what is well-grounded stands on established bases (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:8563 "My Dear Deer" (2020-01-18) https://articles.ohr.edu/articles/my-dear-deer
-authorities: [Rashi, Radak, Ritva, Ibn Ezra, Ralbag, Rav Saadia Gaon, Targum, Rabbeinu Gershom, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Chaim Friedlander]
-status: draft
+authorities: [Rashi, Radak, Ritva (Rabbi Yom Tov of Seville), Ibn Ezra, Ralbag, Rav Saadia Gaon, Targum, Rabbeinu Gershom, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur (Elias Levita), Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Chaim Friedlander, Midrash Shocher Tov]
+status: reviewed
 updated: 2026-09-10
 ---
 # Splendor and desire: tzvi / tzivyon / tzava
@@ -51,7 +51,7 @@ Deer" in the derashos of Chazal, and no English phrase carries both.
 | צבי | tzvi | splendor / desire / deer | beauty (Rashi) against desire and glory (Radak) |
 | צביון | tzivyon | consent, or ideal form | consented (Rashi, Rabbeinu Gershom) against beauty (Ritva) |
 | צבא | tzava | legion, army | a group united by one want (Rav Hirsch, Rav Friedlander) |
-| צב | tzav | turtle; covered wagon | bloated in shape, hence stationary (Pappenheim) |
+| צב | tzav | turtle; covered wagon | bloated by its shell; the wagon shaped like it (Pappenheim) |
 | יציב | yatziv | well-grounded | standing on firm bases (Pappenheim) |
 
 ## Where the authorities disagree
@@ -59,24 +59,32 @@ Deer" in the derashos of Chazal, and no English phrase carries both.
 **What tzvi means at its core.** Rashi (to Yeshayahu 4:2): beauty. Radak (there,
 and to Yeshayahu 13:19): desire and glory, Bavel being the *tzvi* of kingdoms as
 the most desired place and the pride of the Chaldeans. The same split runs
-through Yechezkel 7:20 on the Beis HaMikdash, where Targum renders *tzvi* as
-*chedvah*, "delight," and Radak as *pe'er* and *yofi*. Neither is wrong; the
-Bottom line keeps all three senses live and picks by context.
+through Yechezkel 7:20, where the people took the "*tzvi* of Hashem's ornament,"
+the Beis HaMikdash, and turned it into an abominable place of idolatry: Targum
+renders *tzvi* there as *chedvah*, "delight," and Radak as *pe'er* and *yofi*.
+At Yirmiyahu 3:19, the "heritage of *tzvi*," Targum again has "delight" and
+Radak an expression of desire. Neither is wrong; the Bottom line keeps all three
+senses live and picks by context.
 
-**Why Eretz Yisrael is eretz hatzvi.** The Ritva: the most beautiful of lands.
-Radak: the most splendid and desirable, its climate the most balanced. Ibn Ezra
-(to Daniel 8:9): simply "the *tzvi*," most desirable of all; Ralbag there:
-desired by all people; Midrash *Shocher Tov* (to Tehillim 5): all the nations
-desire it. Rav Saadia Gaon (to Daniel 11:16): Hashem wants that land for His
-Presence, so the desire is His. Against these, Chazal read *tzvi* as the deer
+**Why Eretz Yisrael is eretz hatzvi.** The Land is described as the most *tzvi*
+of all lands (Yechezkel 20:6). The Ritva, Rabbi Yom Tov of Seville (1260 to
+1330): the most beautiful of lands. Radak, on the other hand: the most splendid
+and desirable, because it has the most perfect, balanced climate. Ibn Ezra (to
+Daniel 8:9): simply "the *tzvi*," most desirable of all; Ralbag there: desired by
+*all* people; Midrash *Shocher Tov* (to Tehillim 5): all the nations of the world
+desire it and want it. Rav Saadia Gaon (to Daniel 11:16): Hashem wants, that is
+chooses, that land to rest His Presence there. Against these, Chazal read *tzvi*
+as the deer
 (Kesubos 112a; *Sifrei* to Devarim 11:10): as a deer's hide will not stretch back
 over it once flayed, so the Land's produce exceeds what it could hold; or, as the
 deer is swift, so its produce ripens quickly (*Shemos Rabbah* §32:2).
 
 **What tzivyon means.** Rosh Hashanah 11a and Chullin 60a: Hashem created each
 element of nature according to its *tzivyon*. Rashi and Rabbeinu Gershom: its
-will, having been asked and having consented. The Ritva, following Rabbi Nosson
-of Rome's *Sefer HaAruch*: its beauty, each thing made in its most beautiful form.
+will, having been asked and having consented. Alternatively, the Ritva follows
+Rabbi Nosson of Rome's *Sefer HaAruch*: an expression of beauty, each element of
+creation fashioned according to its most beautiful form. (The article notes in
+passing that in Modern Hebrew *tzivyon* means a thing's "nature" or "character.")
 
 ## Distinctions
 
@@ -85,29 +93,56 @@ The *haftarah* of Shemos has Yeshayahu mourning that the *tzvi tiferes* of the
 Kingdom of Israel has withered (Yeshayahu 28:1, 28:4), while Hashem remains an
 *ateres tzvi* for the righteous remnant (28:5). The Land bears three parallel
 titles of desire: *eretz chefetz* (Malachi 3:12), *eretz chemdah* (Yirmiyahu
-3:19; Tehillim 106:24), and *eretz hatzvi* (Daniel 11:16). Since *chefetz* and
-*chemdah* are forms of desire, so is *tzvi*.
+3:19; Zechariah 7:14; Tehillim 106:24), and *eretz hatzvi* (Daniel 11:16,
+11:41). Since *chefetz* and *chemdah* are forms of desire, so is *tzvi*.
 
 ### tzvi as deer (צבי)
 The kosher wild animal of Devarim 14:5. Rabbi Shlomo Pappenheim links it to
 desire: deer are ordinarily tame but among the most desirous of mammals, turning
-wild in their season. The column adds that the deer runs swiftly enough to follow
-its heart's desires, and that the deer-comparison of Shir HaShirim (2:9, 2:17,
-8:14) is an endearment resting on its sleek build. Rabbi Aharon Marcus derives
-the name from צ-ב, "standing," for its stately stance. In Aramaic the tzadi turns
-to tes and *tzvi* becomes *tvi*, beside the ט-ב root meaning "good."
+wild and dangerous in their mating season. The column offers its own suggestion
+("I would suggest"): deer are known for running swiftly, so they are generally
+free to follow their heart's desires; and since *tzvi* is also related to beauty,
+the deer-comparison of Shir HaShirim (2:9, 2:17, 8:14) is a complimentary term of
+endearment, which likely refers to the deer's sleek physique along with its
+beautiful antlers, although usually only the males have antlers, except for
+reindeer. Rabbi Aharon Marcus (1843 to 1916) posits that the deer is called a
+*tzvi*, from the צ-ב root, because of its elegant, stately way of standing. In
+the switch from Hebrew to Aramaic the *tzadi* commonly transforms into a *tes*,
+so *tzvi* becomes *tvi*; and the Semitic ט-ב root in Hebrew and Aramaic means
+"good," goodness being something both desirable and beautiful.
 
 ### the two-letter root צ-ב
 Rabbi Shlomo Pappenheim takes the root as "standing" (Bereishis 24:13; Shemos
 2:4; Devarim 29:9). *Yatziv* stands on established bases; *tzvi* as desire is
 what stands constantly before a man's thoughts. He derives with these:
-*matzeivah*, a monument erected over a grave or at a cultic site; *tzava*, a
-standing army rather than a militia that must be gathered; *tzavah*, the bloating
-of Bamidbar 5:21-22; *tzav*, the turtle of Vayikra 11:29, bloated by its shell;
-and *tzav*, the covered wagon of Bamidbar 7:3, shaped like the turtle (*Bamidbar
-Rabbah* §12:17). Rabbi Eliyahu HaBachur (*Meturgaman*) glosses the Aramaic *tzva*
-of Daniel, "wants," as *emes v'yatziv*. On *tzava* itself Rav Hirsch and Rabbi
-Chaim Friedlander add that men form one body only where they share one want.
+*matzeivah*, a monument erected to mark a tomb or a cultic place of idolatry;
+*tzava*, a standing army ready to take orders, as against a more haphazard
+militia that has to be assembled; *tzavah*, the act of bloating (Bamidbar
+5:21-22), since something swollen and distended is less likely to move from its
+place and will rather remain standing there; *tzav*, the turtle of Vayikra
+11:29, whose large shell makes it appear bloated; and *tzav*, the covered wagon
+of Bamidbar 7:3 and Yeshayahu 66:20, whose shape resembles the turtle (see also
+*Bamidbar Rabbah* §12:17 on why the wagons are called *tzav*). Rabbi Eliyahu
+HaBachur (1469 to 1549), also known as Elias Levita, writes in *Meturgaman* that
+the Aramaic *tzva* of Daniel, "wishes" or "wants," means *emes v'yatziv*, "true
+and well-grounded"; he also explains *tamrukei*, "cosmetics" (Esther 2:3-12),
+which Aramaic renders *tzavhata*, as an expression of beauty and glory. On
+*tzava* itself, Rabbi Chaim Friedlander (1923 to 1986) and Rav Shimshon Raphael
+Hirsch (1808 to 1888) offer the same idea: *tzava* literally means "legion," a
+gathering of people, and any body of people is joined together if and only if
+they share one want; unite for a common goal and they become one army, otherwise
+they are a hodgepodge of unrelated individuals.
+
+### the Arabic cognate and sababa
+The article closes with the modern Hebrew slang *sababa*, which it calls
+untranslatable, used to express enthusiasm, satisfaction or agreement, along the
+lines of "awesome" or "cool." It comes from Arabic *tzababa*, "great" or
+"excellent" in spoken Arabic, whose technical meaning is "yearning" or "strong
+love"; the article holds this Arabic word to be related to the Hebrew and
+Aramaic words under discussion, so that *sababa* should really be pronounced
+*tzababa*, the way Baba Tzali became Baba Sali. The article's own summary is
+that *tzvi* carries a plethora of meanings: desire or wanting, deer or gazelle,
+beauty or glory, good, and delightful or awesome.
 
 ## Rendering guidance
 
@@ -136,5 +171,9 @@ Malachi 3:12; Tehillim 106:24; Daniel 8:9, 11:16, 11:41; Devarim 11:10, 14:5,
 29:9; Bamidbar 5:21-22, 7:3; Vayikra 11:29; Bereishis 24:13; Shemos 2:4; Esther
 2:3-12; Shir HaShirim 2:9, 2:17, 8:14; Rosh Hashanah 11a; Chullin 60a; Kesubos
 112a; *Shemos Rabbah* §32:2; *Bamidbar Rabbah* §12:17; *Shocher Tov* to Tehillim
-5; *Sefer HaAruch*; *Meturgaman*. The closing Arabic derivation of the modern
-slang *sababa* is omitted here.
+5; *Sefer HaAruch*; *Meturgaman*. The article's comparative material is reported
+as it stands there: the Aramaic *tzadi*-to-*tes* shift and the Semitic ט-ב root,
+and the closing Arabic *tzababa* behind the modern slang *sababa*. One slip of
+the article's own: in reporting the Ritva on the Gemara's *tzivyon* it writes
+that "*tzvi* is an expression of beauty," where the word under discussion is
+*tzivyon*.

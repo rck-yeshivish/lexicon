@@ -10,19 +10,21 @@ words:
     nk: זָר
 sources:
   - wiaw:9192 "Strange Aliens" (2021-05-01) https://articles.ohr.edu/articles/strange-aliens
-authorities: [Ibn Ezra, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Malbim, Sefer Chassidim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Targum Onkelos, Mechilta]
-status: draft
-updated: 2026-09-09
+authorities: [Ibn Ezra, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Malbim, Sefer Chassidim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonatan, Peirush Yonatan, Mechilta, Yair, Me'at Tzari, Oxford English Dictionary]
+status: reviewed
+updated: 2026-09-10
 ---
 # Stranger: zar / nachri (chiloni, hedyot)
 
 ## Bottom line
 
-*Zar* and *nachri* both mean "stranger," but they measure different distances. A
-*zar* is estranged **in one respect**, and is often a member of the same nation
-or household: render him **outsider** or **stranger**. A *nachri* is a
-**foreigner** in every respect, from another nation entirely. Malbim states the
-rule plainly: the *nachri* is more unfamiliar than the *zar*. In Kodashim
+*Zar* and *nachri* both mean "stranger," and on the reading of most of the
+commentators they measure different distances. A *zar* is estranged **in one
+respect**, and is often a member of the same nation or household: render him
+**outsider** or **stranger**. A *nachri* is a **foreigner** in every respect,
+from another nation entirely. Malbim puts the rule in a line: the *nachri* is
+*more* unfamiliar than the *zar*. Rabbi Shlomo Pappenheim dissents, holding the
+two equally estranged and differing only in what their roots fix on. In Kodashim
 contexts *zar* is a technical term, the **non-Kohen**, and should be rendered
 that way, never "stranger." *Chiloni* is the Targum's Aramaic for *zar* and the
 Midrash's word for a non-Kohen; *hedyot* is a Greek loanword for a **commoner**
@@ -33,10 +35,13 @@ craftsman, the *Kohen hedyot* against the Kohen Gadol.
 
 ### zar (זר)
 Ibn Ezra (long commentary to Shemos 21:2): *zar* implies someone of the
-speaker's own nation but a different tribe within it. The Vilna Gaon (to Mishlei
-27:2) reads the pasuk the same way. Malbim: a *zar* is from the familiar
-locality but counts as strange with respect to some particular matter, strange
-in one way only.
+speaker's own nation but a different tribe within it. The same understanding can
+be gleaned from the Vilna Gaon's comments to Mishlei 27:2. Malbim: a *zar* is
+from the familiar locality but counts as strange with respect to some particular
+behavior or habit, strange in one way only, while the *nachri* is strange in
+many ways at once. (Rabbi Klein adds an aside on his own account: he used to
+think English *bizarre* was related to *zar*, but the *Oxford English
+Dictionary* feels otherwise.)
 
 Malbim's own illustrations carry the point. A non-Kohen is a *zar* toward
 terumah and the korbanos he may not eat (Vayikra 22:10, 22:12-13), yet he is

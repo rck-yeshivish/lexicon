@@ -9,7 +9,7 @@ words:
   - he: חלק
     tr: chalak
     en: smooth, slippery
-    distinct: the plain adjective for a smooth surface, and by extension slippery and the act of slipping (Rabbi Yaakov Tzvi Mecklenburg); Yiddish glatt
+    distinct: simply an adjective meaning smooth, with no process implied (Rabbi Yaakov Tzvi Mecklenburg); the article adds that it also denotes something slippery and the very act of slipping; Yiddish glatt
   - he: שוע
     tr: shua
     en: smoothed, daubed on
@@ -29,7 +29,7 @@ words:
 sources:
   - wiaw:8497 "Smooth Sliding and Glad Gliding" (2019-11-30) https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding
 authorities: [Targum Onkelos, Rashi, Tosafos, Rambam, Radak, Menachem Ibn Saruk, Rabbi Avraham Vilner (Tirgem Avraham), Rabbi Yaakov Tzvi Mecklenburg (HaKtav VeHaKabbalah)]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Smooth: chalak / shua (shiiya, mishi)
@@ -37,12 +37,12 @@ updated: 2026-09-10
 ## Bottom line
 
 *Chalak* is the adjective: **smooth**, and where a surface lets things slide,
-**slippery**. *Shua* and its Aramaic form *shiiya* are not that. They name the
-act of making smooth by laying or pressing one material onto another, so render
-them **smoothed on**, **daubed**, **plastered**, or in the *shaatnez* sugya
-**combed smooth together** (Rabbi Yaakov Tzvi Mecklenburg). The trap is
-translating both as "smooth"; the halachah in *Kilayim* 9:8 turns on the
-difference.
+**slippery**. *Shua* and its Aramaic form *shiiya* are, in Rabbi Yaakov Tzvi
+Mecklenburg's words, not one hundred percent synonymous with it: they name
+daubing or pasting one material onto another, which incidentally smooths the
+surface, so render them **smoothed on**, **daubed**, **plastered**, or in the
+*shaatnez* sugya **combed smooth together**. The trap is translating both as
+"smooth"; the halachah in *Kilayim* 9:8 turns on the difference.
 
 ## At a glance
 
@@ -72,13 +72,18 @@ where all three were done to wool and linen together.
 The practical case is felt, made by pressing fibers together: not *shaatnez* on
 Rashi's definition, *shaatnez* on the Tosafists'.
 
-**The proof for the second view.** Rabbi Yaakov Tzvi Mecklenburg points to the
-Rambam's commentary on that Mishnah, which defines *shua* from Targum Onkelos to
-Vayikra 14:42, where *v'tach es habayis*, plastering the house after the
-afflicted stones are replaced, is rendered *v'yashua*. Plastering is not
-smoothing a thing in itself; it is attaching plaster to a wall, with smoothness
-the result. He adds the cognate *sha*, closing the eyes (Yeshayahu 6:10, 32:3),
-where the eyelids are as if fastened one to the other.
+**The proof for the second view.** Rabbi Yaakov Tzvi Mecklenburg (1785-1865)
+points to the Rambam's commentary on that Mishnah, which defines *shua* by citing
+Targum Onkelos to Vayikra 14:42, where *v'tach es habayis*, plastering the house
+with fresh mortar once the afflicted stones are removed and replaced, is rendered
+*v'yashua*. As the article unpacks it, in that context *shua*'s primary sense is
+not "making smooth" but "applying plaster"; if the whole of its meaning were
+"making smooth," as Rashi has it, the Targum makes no sense there, so *shua* must
+also mean attaching, with smoothing the implication (and the plaster is smoothed
+over the wall as much as the wall by the plaster). Mecklenburg adds the cognate
+*sha*, closing the eyes (Yeshayahu 6:10, 32:3), where it appears as though the
+upper lid is attached to the lower, which supports his point that *shua* means
+attachment.
 
 **What *mishi* means in Yechezkel 16:4.** Radak (there and in *Sefer
 HaShorashim*): smoothness, since washing smooths the skin. Menachem Ibn Saruk
@@ -88,10 +93,12 @@ surface, but the readings are close and Mecklenburg's own account of *shaashua*
 shows how one becomes the other.
 
 **Whether *shiiya* is Hebrew at all.** The Targumim render Yaakov's *chalak*
-(Bereishis 27:11) with the Aramaic *shiiya*, which would make them a Hebrew and
-Aramaic pair for one idea. Rabbi Avraham Vilner (*Tirgem Avraham*) brings
-Yechezkel 16:4 to show the ש-ע root is native Hebrew as well, which is what
-makes a real distinction between *chalak* and *shua* possible.
+(Bereishis 27:11) with the Aramaic *shiiya*, whose root is ש-ע-(ע), which
+suggests they are a Hebrew and Aramaic pair for one idea. Rabbi Avraham Vilner
+(1765-1808), the Vilna Gaon's son, in *Tirgem Avraham*, brings Yechezkel 16:4 to
+show the ש-ע root in the sense of "smooth" is not unique to Aramaic but exists in
+Hebrew too, which is what makes a real distinction between *chalak* and *shua*
+possible.
 
 ## Distinctions
 
@@ -99,16 +106,30 @@ makes a real distinction between *chalak* and *shua* possible.
 Yaakov: *"v'anochi ish chalak,"* "and I am a smooth man" (Bereishis 27:11);
 Rivkah covers *chelkas tzavarav*, the smooth of his neck (Bereishis 27:16). The
 word extends to slippery footing and to slipping itself. In Rabbinic Hebrew a
-*chaluk* is a plain garment with nothing worked onto it. Yiddish renders it
-*glatt*, which is why lungs free of adhesions are called *glatt*.
+*chaluk* is a plain, smooth garment with no frills.
+
+The Yiddish and German word for *chalak* is *glatt*, best known from the
+stringency requiring an animal's lungs to be smooth and free of bumps, whence
+*glatt* meat. *Glatt* is also a cognate of Yiddish and German
+*gleiten*/*glitchen*, a relative of English *glide*, and the relation between
+smooth and glide is obvious, since one glides easily on a smooth surface.
+*Glitchen* has reached other familiar words: the English *glitch*, a malfunction
+or slip-up, according to some linguists, and etymologists even trace English
+*glad* to the same Germanic root, the feeling of life sailing along smoothly.
+Modern Hebrew *glishah*, surfing or skiing or going down a playground slide,
+derives from *glatt*/*glitch* as well, since Hebrew has no *itch* sound and it
+morphs to *sh*, *glitch* becoming *glish*.
 
 ### shua (שוע), shiiya (שעיע), mishi (משעי)
 Root ש-ע. On Mecklenburg's reading, the root is about laying one thing onto
 another so that the join is smooth: plaster onto a wall (Vayikra 14:42 in
 Onkelos), fibers pressed into one another (*Kilayim* 9:8 on Tosafos' reading),
-eyelid onto eyelid (Yeshayahu 6:10, 32:3). *Mishi* at Yechezkel 16:4, of the
-abandoned infant not washed *l'mishi*, is the same root. And *shaashua*, delight,
-is the root borrowed: what is smooth to the touch is pleasant.
+eyelid onto eyelid (Yeshayahu 6:10, 32:3). *Mishi* at Yechezkel 16:4 is the same
+root: in the navi's metaphor, which likens Hashem's redeeming the Jews from
+Mitzrayim to a kindly stranger taking in an abandoned baby girl, the infant "was
+not washed with water for *mishi*." And *shaashua*, delight or enjoyment, is the
+root borrowed, since feeling something smooth is an enjoyable sensation, so a
+word for smooth is lent to whatever is enjoyable.
 
 ## Rendering guidance
 
@@ -137,4 +158,6 @@ loci: Bereishis 27:11, 27:16; Vayikra 14:42, 19:19; Devarim 22:11; Yeshayahu
 6:10, 32:3; Yechezkel 16:4; *Mishnah Kilayim* 9:8 with the Rambam's commentary;
 Rashi and Tosafos to Yevamos 5b; Radak, *Sefer HaShorashim* s.v. משע; Rabbi
 Avraham Vilner, *Tirgem Avraham*; Rabbi Yaakov Tzvi Mecklenburg. The article's
-closing paragraphs on Germanic and English cognates are omitted here.
+closing paragraphs on the Germanic and English cognates of *glatt* are restored
+to the *chalak* section; the *glitch* derivation it reports is hedged there as
+the view of "some linguists," as the article hedges it.

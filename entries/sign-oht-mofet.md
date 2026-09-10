@@ -9,11 +9,11 @@ words:
   - he: אות
     tr: oht
     en: sign, token
-    distinct: the general word: any sign, natural or otherwise, that points to or reminds of something (Radak; Malbim); Ramban connects it to asa, "come," a sign of what is to come
+    distinct: the general word, covering any sign, natural or otherwise, that points to or reminds of something (Radak; Malbim); Ramban connects it to asa, "come," a sign of what is to come
   - he: מופת
     tr: mofet
     en: wonder, portent
-    distinct: the narrower word: a sign that bends nature, from muflah/pele with the lamed dropped (Ramban); every mofet is an oht but not every oht a mofet (Malbim)
+    distinct: the narrower word, a sign that bends nature, from muflat/niflah/pele with the lamed dropped (Ramban); every mofet is an oht but not every oht a mofet (Malbim)
   - he: עד
     tr: eid
     en: witness, testimony
@@ -22,7 +22,7 @@ words:
 sources:
   - wiaw:8085 "The Sign is Coming" (2019-01-12) https://articles.ohr.edu/articles/the-sign-is-coming
 authorities: [Ramban, Sifrei, Midrash Lekach Tov, Rabbi Shlomo Aharon Wertheimer, Radak, Sforno, Abarbanel, Rabbi Shmuel Ibn Tibbon, Malbim, Rabbi Avraham Menachem HaKohen Rappaport, Rabbi Shlomo Pappenheim]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Sign: oht / mofet
@@ -45,22 +45,42 @@ are called both, Shemos 10:1-2 and 11:9-10) the pairing is doing work.
 | מופת | mofet | wonder, portent | supernatural, from *pele* (Ramban); points to Hashem (Malbim) |
 | עד | eid | witness | reminds and moves to action, where an *oht* only reminds (Pappenheim) |
 
+## The article's question
+
+Parshas Bo carries three signs: the makkos in Mitzrayim are called a sign (Shemos
+10:1-2), the blood the Jews were to put on the doorpost is called a sign (Shemos
+12:13), and the tefillin they are to wear are called a sign (Shemos 13:9, 13:16;
+the article prints 12:9 and 12:16). The word in each case is *oht*. But the ten
+makkos are also called *mofet* (Shemos 11:9-10). So what is the difference
+between an *oht* and a *mofet*?
+
 ## Where the authorities disagree
 
 **Whether mofet is supernatural at all.**
 
-1. **Yes.** Ramban (to Devarim 13:2): *mofet* is shorthand for
-   *muflah*/*niflah*/*pele*, wondrous, the lamed dropped for brevity, so it is a
-   sign that overturns the apparent order of nature; an *oht* is a sign that a
-   prophecy will be fulfilled, from *asa*, "come." Malbim: a *mofet* is a
-   supernatural sign whose purpose is to recall Hashem.
-2. **No.** Abarbanel: neither word refers to a supernatural wonder. An *oht* is
-   a sign within nature; a *mofet* is not physical at all but an abstract,
-   logical proof. He relates *mofet* to *yofi*, beauty, since the truth of an
-   argument lies in the beauty of its honesty, and notes Radak's root י-פ-ת.
-   Rabbi Shmuel Ibn Tibbon, whom Abarbanel follows, was the first to use *mofet*
-   so: a *mofet* establishes a claim conclusively, an *oht* is evidence pointing
-   toward it without proving it.
+1. **Yes.** Ramban (to Devarim 13:2): an *oht* is a sign meant to portend the
+   fulfillment of a prophecy, as when a navi predicts that if such-and-such
+   happens it will be a sign that something else is true; and he relates *oht*,
+   aleph-vav-tav, to the word for coming, aleph-tav-hei, more commonly in its
+   Aramaic form with a second aleph for the hei, because it is a sign of things
+   to come. A *mofet* he takes as a sign that comes about miraculously, bending
+   the apparent rules of nature, the word being shorthand for
+   *muflat*/*niflah*/*pele*, wondrous, with the lammed dropped for brevity.
+   Malbim: a *mofet* is a supernatural sign used to remind one of Hashem, the
+   ultimate mover behind all natural and supernatural phenomena.
+2. **No.** Abarbanel (1437-1508) writes that some commentators claim *oht* and
+   *mofet* to be synonyms referring to supernatural phenomena, and disagrees:
+   neither word refers to a supernatural wonder, both referring to natural signs.
+   An *oht* is a sign or symbol that can lie within nature; a *mofet* is a
+   non-physical sign, a more abstract, logical argument, and he relates *mofet*
+   to *yofi*, beauty, because the veracity of a logical argument lies in the
+   beauty of its honesty. The column adds at that point that Radak in *Sefer
+   HaShorashim* gives the root of *mofet* as י-פ-ת. It also notes that the
+   earliest person to use *mofet* in this way was Rabbi Shmuel Ibn Tibbon
+   (1150-1230), best known for translating the works of the Rambam and others
+   from Judeo-Arabic into Hebrew, who writes that a *mofet* is a proof that
+   conclusively establishes an idea while an *oht* is evidence pointing in the
+   direction of an idea without conclusively proving it.
 
 The Bottom line follows Ramban and Malbim, since that is the sense the word
 carries in Tanach, where the makkos and the staff before Pharaoh are *mofsim*.
@@ -68,46 +88,61 @@ Abarbanel's and Ibn Tibbon's *mofet* is the philosophical term of art, right in 
 philosophical sefer, where it means "demonstration."
 
 **Which word points to the sender and which to the message.** Sforno (to Shemos
-7:9): when the purpose of the miracle is to say something about Hashem, the word
-is *mofet*; when its purpose is to say something about the messenger, *oht*.
-Malbim reads the staff-and-snake so: before Klal Yisrael it is an *oht*, a sign
-that Moshe was truly sent; before Pharaoh a *mofet*, since to a man who denied
-Hashem it was a supernatural trick and nothing more.
+7:9): when Hashem sends someone to perform a miraculous feat, the word used
+depends on the purpose of the miracle. If the purpose is to relate a message
+about Hashem, the term is *mofet*; if it is to relate something about the
+messenger or medium, the term is *oht*. Malbim reads the staff-and-snake so:
+before Klal Yisrael it is an *oht*, a sign to them that Moshe was really sent by
+Hashem; before Pharaoh it is a *mofet*, since to Pharaoh, who denied Hashem, it
+was simply a supernatural parlor trick with no deeper meaning.
 
-**Which is the stronger inducement to belief.** Radak (*Sefer HaShorashim*): an
-*oht* is any sign, a *mofet* specifically a sign meant to bring one to believe in
-something future. Rabbi Avraham Menachem HaKohen Rappaport (*Minchah Belulah*),
-the reverse: an *oht* brings a person directly to belief, a *mofet* only pushes
-him toward it, and he relates *mofet* to *mefateh*, to persuade (Devarim Rabbah
-7:9); alternatively an *oht* is a sign of the heavenly realm and a *mofet* of the
-earthly. He then concludes that the two are simply synonyms.
+**Which is the stronger inducement to belief.** Radak (1160-1235) in *Sefer
+HaShorashim*: an *oht* is any type of sign, while a *mofet* is specifically the
+sort of sign whose purpose is to cause one to believe in something set for the
+future. Rabbi Avraham Menachem HaKohen Rappaport (1520-1594) in *Minchah Belulah*
+gives two differences, and the first pulls the other way: an *oht* directly
+brings a person to a certain belief, while a *mofet* only pushes him in the
+direction of a belief without bringing him to any conclusion, and he relates
+*mofet* to *mefateh*, to seduce or convince (see Devarim Rabbah §7:9);
+alternatively, an *oht* is a sign of the Heavenly realm and a *mofet* a sign in
+the Earthly realm. He then concludes that *oht* and *mofet* are simply synonyms
+meaning exactly the same thing. The article does not set Radak and Rabbi
+Rappaport against each other; it presents each in turn.
 
-**Whether they are synonyms.** The Sifrei (the article cites it to Bamidbar 6:3)
-states outright that *oht* and *mofet* are the same thing. Ramban: this does not
-make them true synonyms, only names of the same class of phenomenon. *Midrash
-Lekach Tov* (*Pesikta Zutrasa*) cites the Sifrei and adds that an *oht*
-signifies something future and a *mofet* something imminent. Rabbi Shlomo Aharon
-Wertheimer harmonizes: the Sifrei means only that both words mean "a sign," and
-the midrash distinguishes when what is signified arrives.
+**Whether they are synonyms.** Ramban cites the Sifrei (the article gives the
+locus as Bamidbar 6:3), which explicitly notes that *oht* and *mofet* are the
+same thing, and explains that this does not literally mean the two are true
+synonyms bearing exactly the same meaning, only that both refer to the same sort
+of phenomenon. *Midrash Lekach Tov*, also known as *Pesikta Zutrasa*, cites the
+Sifrei and adds that an *oht* is a sign about something in the future and a
+*mofet* a sign of something imminent. Rabbi Shlomo Aharon Wertheimer (1866-1935)
+explains that this is no contradiction: *Midrash Lekach Tov* understood the
+Sifrei to mean that there is no difference between the words in that both mean "a
+sign," while they can still differ in the detail of when what is signified is to
+manifest itself.
 
 ## Distinctions
 
 ### oht (אות)
-Ramban derives it from א-ת-ה, "come" (in Aramaic with an alef for the hei), since
-it signals what is to come. Malbim: any sign or symbol that reminds a person of
-what it stands for. Abarbanel's examples make the natural range clear: the sun
-and moon are an *oht* for times and seasons (Bereishis 1:14), tefillin an *oht*
-of the Exodus (Shemos 13:9, 13:16), the tribal flags an *oht* for each tribe
-(Bamidbar 2:2), and each letter of the alef-beis an *oht* for a sound. Rabbi
-Shlomo Pappenheim contrasts *oht* with *eid*: an *oht* reminds, an *eid* reminds
-and spurs to action.
+Ramban derives it from א-ת-ה, "come," in Aramaic with an alef in place of the
+hei, since it signals what is to come. Malbim: any sign or symbol used to remind
+a person of what it symbolizes. Abarbanel's examples make the natural range
+clear: the sun and moon serve as an *oht* for different periods of time
+(Bereishis 1:14), tefillin is an *oht* symbolizing the Exodus (Shemos 13:9,
+13:16), the flags of each tribe bore images serving as an *oht* symbolizing the
+tribe (Bamidbar 2:2), and each letter of the alef-beis is called an *oht* because
+it is a sign representing a certain sound; all of these lie within the confines
+of nature. Rabbi Shlomo Pappenheim (1740-1814) contrasts *oht* with *eid*: an
+*oht* is simply a reminder, while an *eid* serves to remind and to spur one into
+action.
 
 ### mofet (מופת)
 Ramban: from *pele*, a wonder. Radak: the root is י-פ-ת. Rabbi Shlomo Aharon
-Wertheimer reports another view, the root י-פ-ע with the ayin dropped and the yud
-becoming a mem, making *mofet* a relative of *mofia*, "appears," a sign being how
-one presents an idea; his alternative is that a *mofet* presents a phenomenon
-never seen before.
+Wertheimer reports that some claim the root is י-פ-ע, the ayin always dropped and
+the yud sometimes morphing into a mem, making *mofet* a relative of *mofia*,
+"presents itself," since a sign is how one presents an idea to others; his
+alternative is that *mofet* means the presentation of a new, hitherto unseen
+phenomenon.
 
 ## Rendering guidance
 
@@ -132,10 +167,18 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "The Sign is Coming," What's in a Word?, Ohr Somayach,
-6 Shevat 5779 (2019-01-12): https://articles.ohr.edu/articles/the-sign-is-coming;
-raw text in `sources/whats-in-a-word/raw/8085-the-sign-is-coming.md`. Primary
-loci cited: Bereishis 1:14; Shemos 7:9, 10:1-2, 11:9-10, 12:13, 13:9, 13:16 (the
-article prints 12:9 and 12:16 for the tefillin pesukim; they are 13:9 and
-13:16); Bamidbar 2:2; Devarim 13:2 with Ramban; Sifrei; *Midrash Lekach Tov*
-(*Pesikta Zutrasa*); Devarim Rabbah 7:9; Radak, *Sefer HaShorashim*; Sforno to
-Shemos 7:9; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*.
+for the week ending 12 January 2019 / 6 Shevat 5779:
+https://articles.ohr.edu/articles/the-sign-is-coming; raw text in
+`sources/whats-in-a-word/raw/8085-the-sign-is-coming.md`. Primary loci the
+article cites: Bereishis 1:14; Shemos 7:9, 10:1-2, 11:9-10, 12:13, 13:9, 13:16
+(the article prints 12:9 and 12:16 for the tefillin pesukim; they are 13:9 and
+13:16, and the correction is noted in the body); Bamidbar 2:2; Devarim 13:2 with
+Ramban; *Sifrei*, which the article cites to Bamidbar 6:3; *Midrash Lekach Tov*
+(*Pesikta Zutrasa*); Devarim Rabbah §7:9; Radak, *Sefer HaShorashim*; Sforno to
+Shemos 7:9; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*. The
+article gives no locus for Malbim, Abarbanel, Ibn Tibbon, Rabbi Wertheimer or
+Rabbi Pappenheim. Two claims have been cut in this pass as not being in the
+article: that Abarbanel follows Ibn Tibbon (the article says only that Ibn Tibbon
+was the earliest to use *mofet* in that sense), and that Abarbanel himself notes
+Radak's root י-פ-ת (the Radak citation is the column's own addition at that
+point).

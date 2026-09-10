@@ -13,9 +13,9 @@ words:
 sources:
   - wiaw:7321 "Slithering Serpents and Sea Snakes - Part 1" (2017-07-01) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1
   - wiaw:7341 "Slithering Serpents and Sea Snakes - Part 2" (2017-07-15) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-2
-authorities: [Avos d'Rabbi Nassan, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Parchon, Rabbi Yonah ibn Janach, Rabbi Yosef Bechor Shor, Vilna Gaon, Malbim, Radak, Mahari Kara, Rabbi Shalom Buzaglo, Rabbi Natan Nata Shapiro, Rabbi Shlomo Pappenheim, Rabbi Avigdor the Frenchman, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechiel Heilpern, Rabbi Elazar Rokeach of Worms, Rabbi Yaakov Yisroel Stahl]
-status: draft
-updated: 2026-09-09
+authorities: [Avos d'Rabbi Nassan, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Parchon, Rabbi Yonah ibn Janach, Rabbi Yosef Bechor Shor, Vilna Gaon, Malbim, Radak, Mahari Kara, Rabbi Shalom Buzaglo, Rabbi Natan Nata Shapiro, Rabbi Shlomo Pappenheim, Rabbi Avigdor the Frenchman, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechiel Heilpern, Rabbi Elazar Rokeach of Worms, Rabbi Yaakov Yisroel Stahl, Mitchell First]
+status: reviewed
+updated: 2026-09-10
 ---
 # Snake: nachash / saraph / tanin / tzefa / efeh / achshuv / peten / shephiphon
 
@@ -24,81 +24,112 @@ updated: 2026-09-09
 *Nachash* is the general word, **snake**, and on Wertheimer's second reading
 specifically the snake that can be charmed. *Saraph* is the **fiery serpent**
 whose venom burns. *Tanin* is the **sea serpent** (Rashi: simply a large fish).
-*Tzefa* / *tzifoni* and *efeh* are **vipers**, the most venomous and the most
-malignant. *Peten* is the **asp** that charming cannot touch. *Shephiphon* is a
-small **adder** that keeps its body on the ground, and *achshuv* is a *hapax*
-whose identity is unsettled. Avos d'Rabbi Nassan lists the seven beside *nachash*
-but its own explanations have been corrupted by copyists; the distinctions below
-come from other sources.
+*Tzefa* / *tzifoni* is the **viper** so venomous that even its dung is poison,
+and *efeh* is Rashi's completely evil snake, though Radak holds the two are one
+creature under two names. *Peten* is the **asp** that charming cannot touch
+(Wertheimer). *Shephiphon* is a small **adder** that keeps its body on the
+ground, and *achshuv* is a *hapax* whose identity is unsettled. Avos d'Rabbi
+Nassan lists the seven beside *nachash*, but scribal errors have crept into our
+editions and rendered its own treatment unintelligible; the distinctions below
+come from other sources, as the article says it must.
 
 ## Distinctions
 
 ### nachash (נחש)
-Wertheimer gives two options: an umbrella term taking in many kinds of snake, or,
-from *lachash* (a whisper, hence an incantation), the snake whose danger can be
-turned aside by charming it. Rashi (Yirmiyahu 8:17) supports the second, that a
-*nachash* after seventy years becomes a *tzefa* and can no longer be charmed.
-Rabbi Aharon Marcus reads it from ח-ש, slow movement (as in *rocheish*,
-creeping) and stealth (as in *lachash*). The *Rokeach* (cited by Rabbi Yechiel
-Heilpern from *Sefer HaChochmah*): a *nachash* is a yellowish-green snake, the
-color of saffron, whose bite kills, and it is long.
+Rabbi Shlomo Aharon Wertheimer (1866-1935) gives two options: an umbrella term
+taking in many different kinds of snake, or, alternatively, a word related to
+*lachash* (literally a whisper, colloquially an incantation), naming
+specifically the snake whose danger can be averted by charming it into
+submission. Rashi (Yirmiyahu 8:17) implies the second, since he says a *nachash*
+after seventy years turns into a *tzefa* and can no longer be charmed. Rabbi
+Aharon Marcus (1843-1916) similarly argues it derives from ח-ש, which carries
+moving slowly (as in *rocheish*, creeping and crawling) and moving clandestinely
+(as in *lachash*). The *Rokeach* (cited by Rabbi Yechiel Heilpern, 1660-1742,
+from *Sefer HaChochmah*, ascribed to the late-12th-century Ashkenazi Rabbi Elazar
+Rokeach of Worms; parts of it appear in the Torah commentary also ascribed to
+him): a *nachash* is specifically a yellowish-green snake, the color of saffron,
+whose bite is fatal, and it is a long snake.
 
 ### saraph (שרף)
-Rabbi Shlomo Ibn Parchon: venomous because its poison burns (*soref*) like fire.
-Rabbi Yonah ibn Janach: its fiery breath burns whatever it touches, nearly a
-dragon. Rashi (Yeshayahu 30:6) is explicit that the "flying *saraph*" has no
-wings; it is a fire-breathing snake that can jump great distances. Rabbi Yosef
-Bechor Shor: its bite burns a man as though he had fallen into a furnace and
-turns him at once to ash, and this was the snake sent against Klal Yisrael for
-complaining about the *man* (Bamidbar 21:5 through 21:9).
+Rabbi Shlomo Ibn Parchon, a 12th-century grammarian: venomous because its poison
+burns (*soref*) like fire. Rabbi Yonah ibn Janach (990-1050) similarly: its
+fire-like breath burns whatever it comes in contact with, which makes it, on this
+reading, somewhat akin to a mythical dragon. Rashi (Yeshayahu 30:6), however,
+writes explicitly that the "flying *saraph*" does not actually have wings; it is
+a fire-breathing snake that can jump long distances. Rabbi Yosef Bechor Shor, a
+12th-century French commentator: its bite burns a man as though he had fallen
+into a large furnace, turning him at once into a pile of ashes, and this was the
+snake sent against Klal Yisrael for complaining about the *man* (Bamidbar 21:5
+through 21:9). Mitchell First points out that the English word *serpent* bears a
+close resemblance to *saraph*.
 
 ### tanin (תנין)
-The Vilna Gaon: *nachash* is to the land what *tanin* is to the sea, so a sea
-serpent, perhaps an eel. Rashi (Bereishis 1:21 and Niddah 22b) takes it simply
-as a large fish. *Akalason* is not a snake at all but a description, "coiled";
-Yeshayahu 27:1 has the coiled snake and the straight snake (*nachash bariach*),
-which Bava Basra 74b reads as the female and male Leviasan.
+The Vilna Gaon: *nachash* is to land as *tanin* is to sea. The analogy suggests,
+the article says, that *nachash* is a land snake and *tanin* a sea snake,
+possibly an eel or something similar. Rashi (Bereishis 1:21 and Niddah 22b), on
+the other hand, simply writes that a *tanin* is a big fish. Contrary to popular
+belief, *akalason* does not mean snake at all but "coiled," serving as a
+description of a type of sea serpent; Yeshayahu 27:1 has the coiled snake
+(*nachash akalason*) and the straight snake (*nachash bariach*), which Bava
+Basra 74b reads as the female and male Leviasan respectively.
 
 ### tzefa / tzifoni (צפע, צפעוני) and efeh (אפעה)
-Malbim: a *tzefa* is so venomous that even its excrement is poison (modern
-Hebrew "viper"). Rashi (Yeshayahu 59:5): *tzifoni* is an evil snake and *efeh* a
-thoroughly evil one that portends nothing good; Radak, there, holds *tzifoni* and
-*efeh* are two names for one creature.
+Malbim: a *tzefa* is an especially poisonous snake because even its excrement is
+venomous (in Modern Hebrew the word means "viper"). Rashi (Yeshayahu 59:5):
+*tzifoni* is an evil snake and *efeh* a completely evil one that can portend only
+bad; Radak, there, nonetheless says *tzifoni* and *efeh* are two words for the
+same thing.
 
 On the *efeh* (Yeshayahu 30:6, 59:5; Iyov 20:16), Rashi and Mahari Kara: only two
-exist in the world, a male and a female, and they breed once in seventy years.
-Ibn Parchon: the *efeh* is the female *saraph-nachash*, shorter and thicker than
-the male and more potent in its venom. The kabbalists split: Rabbi Natan Nata
-Shapiro (*Megaleh Amukos*) has *efeh* as the female force of evil and *nachash*
-as the male, in line with Ibn Parchon; Rabbi Shalom Buzaglo (*Hadras Melech*)
-reverses it. The Midrash calls the *efeh* an *eches*, said to kill a bird in
-flight by looking at its shadow (modern Hebrew: adder or rattlesnake). Rabbi
-Shlomo Pappenheim: the letters פ-ע in the root always mark consistency of motion
-or sound, here the rattle. Rabbi Avigdor the Frenchman: this, not the *saraph*,
-was the snake sent in the wilderness.
+exist in the world, a male and a female, and they reproduce only once in seventy
+years. Ibn Parchon: the *efeh* is the female *saraph-nachash*, shorter and
+thicker than its male counterpart, but more potent in its venom. The mekubalim
+split: Rabbi Shalom Buzaglo (1700-1780), a Moroccan mekubal, in *Hadras Melech*,
+his commentary to the Zohar, has *efeh* as the male snake and *nachash* as the
+female; the earlier Polish mekubal Rabbi Natan Nata Shapiro (1585-1633) in
+*Megaleh Amukos* has the two words representing the male and female forces of
+evil, *efeh* the female and *nachash* the male, which agrees with Ibn Parchon.
+The Midrash calls the *efeh* a snake called an *eches* (the article notes it is
+unclear in which language), believed able to kill a flying bird just by looking
+at its shadow; in Modern Hebrew *eches* is an adder or rattlesnake. Rabbi Shlomo
+Pappenheim of Breslau (1740-1814): the letters פ-ע in the root always denote
+consistency, in movement or in sound, here the rattlesnake's rattle. Rabbi
+Avigdor the Frenchman, a 14th-century commentator: this, not the *saraph*, was
+the snake sent in the wilderness.
 
 ### achshuv (עכשוב)
-A *hapax legomenon*, Tehillim 140:4. Some hold it is the snake that spits its
-venom; others that it is no snake at all but a spider (*akavish*).
+A *hapax legomenon*, since that venomous creature appears only once, at Tehillim
+140:4. Some commentators explain it is the snake that spits out its poison;
+others that it is no snake at all but some other poisonous creature, a spider,
+say, which in Hebrew is an *achavish*.
 
 ### peten (פתן)
 Wertheimer, against *nachash*: where a *nachash* can be charmed, a *peten* is
 immune to charming and stays dangerous (Tehillim 58:6). Two derivations, both
 his: from *miftan*, a threshold, since whoever meets a *peten* has certainly
 stepped into danger just as whoever enters a house treads on its threshold; or
-from *pitui*, coaxing, for the snake's enticement of Chavah. The *Rokeach*:
-*peten* points to a snake's advanced age, *efeh* to one extremely old and large,
-and *tzefa* is a flying *saraph* with several tails; Wertheimer cites this and
-holds it to be a recovery of the corrupted passage in Avos d'Rabbi Nassan.
+from *pitui*, coaxing, for the snake's cajoling Chavah to eat from the Eitz
+HaDaas. The article adds that the English *python* is likely derived from *peten*.
+The *Rokeach*: *peten* focuses on a snake's advanced age, *efeh* names one
+extremely old and also large, and *tzefa* is a flying *saraph* with multiple
+tails; Wertheimer cites this too and argues it is based on the otherwise
+undecipherable passage in Avos d'Rabbi Nassan.
 
 ### shephiphon (שפיפון)
 Once in Tanach, Bereishis 49:17; Yerushalmi Terumos 8:3 describes it as
-resembling a single hair. Rabbi Yaakov Tzvi Mecklenburg: from the two-letter
-ש-פ, closeness and contact (as in *shifshuf*, rubbing), since it moves by
-wriggling with its body always against the ground. Wertheimer: the final nun
-marks it as small, though a vav-nun ending is not always a diminutive. The
-*Rokeach* has it small against the long *nachash*, but Rabbi Yaakov Yisroel Stahl
-notes that the same commentary elsewhere makes *shephiphon* the large one.
+resembling a single hair. Rabbi Yaakov Tzvi Mecklenburg (1785-1865): from the
+two-letter ש-פ, associated with closeness and attachment between things (as in
+*shifshuf*, rubbing), since this snake gets about by wiggling and crawling with
+its body always touching the ground. Rabbi Aharon Marcus argues instead that
+*shephiphon* is related to the Akkadian *shepu*, "foot," and is an instance of
+the Hebrew phenomenon of words carrying polar-opposite meanings: in Akkadian, the
+lingua franca of the ancient world, *shepu* meant foot, while in Hebrew the word
+names the footless serpent. Wertheimer adds that the final nun implies the
+creature is something small, though appending a vav-nun does not always serve as
+a diminutive. The *Rokeach* has it small against the long *nachash*, but Rabbi
+Yaakov Yisroel Stahl points out that the same commentary apparently contradicts
+itself, since it elsewhere makes *shephiphon* the large snake and *nachash* the
+smaller one.
 
 ## Rendering guidance
 
@@ -140,5 +171,6 @@ Bereishis 49:17; Yerushalmi Terumos 8:3; *Megaleh Amukos*; *Hadras Melech*;
 *Sefer HaChochmah* and the Torah commentary ascribed to Rabbi Elazar Rokeach of
 Worms, cited by Rabbi Yechiel Heilpern. The article places the snake's enticement
 of Chavah at Bereishis 6:1 through 6:6; the locus is Bereishis 3:1 through 3:6.
-An Akkadian derivation of *shephiphon*, and an English etymology of "serpent"
-from a contemporary writer, are omitted here.
+Rabbi Aharon Marcus's Akkadian derivation of *shephiphon* and Mitchell First's
+note on English "serpent" are restored to the body, attributed as the article
+attributes them; the *python* derivation is the article's own.
