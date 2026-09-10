@@ -71,6 +71,32 @@ For one entry, with its source article open beside it:
   `en` or `distinct` there only where the article contradicts it, never an
   `nk:`, and never write an unquoted colon inside a YAML value.
 
+## What an entry must not contain
+
+- **The Sources section is a citation and a list of loci. Nothing else.** It
+  reads, in full:
+
+      Rabbi Reuven Chaim Klein, "An Utter Embarrassment," *What's in a Word?*,
+      Ohr Somayach, 17 September 2022.
+
+      Loci: Radak to Yeshayahu 45:16 and *Sefer HaShorashim*; Bedersi,
+      *Chotam Tochnit*; Rav Hirsch to Vayikra 13:59 and Tehillim 139:16; ...
+
+  One citation line per article the entry rests on, then one "Loci:" line
+  listing only what the body actually uses, each at its correct locus. No
+  commentary of any kind: not what was changed or restored, not how the article
+  cross-refers to its own earlier pieces, not why the entry attributes
+  something as it does, not what the article misprints or fails to specify, not
+  archive details, and never an internal file path. Where the article misprints
+  a locus, the body and the loci list simply give the right one.
+- **No project-specific framing in Rendering guidance.** This guide serves any
+  translation. Do not assume the reader is translating a mussar sefer, working
+  chapter by chapter, or following a house style. "Bakashah standing alone in a
+  mussar sefer usually means the asking part of davening; stay consistent inside
+  a chapter" should be "Bakashah standing alone usually means the petitionary
+  part of davening: request or petition." A project's own rulings belong in that
+  project's overlay file, never here.
+
 ## Marking
 
 When an entry has been through this pass and its claims trace to the article,
