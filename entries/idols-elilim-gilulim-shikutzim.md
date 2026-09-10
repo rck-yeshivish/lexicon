@@ -15,8 +15,8 @@ words:
 sources:
   - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
 authorities: [Avos d'Rabbi Nosson, Malbim, Maharitatz, Rashi, Rabbeinu Nissim, Ritva, Ibn Ezra, Ramban, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh, Rabbeinu Shimshon of Shantz, Pirush HaRaavad, Rav Achai Gaon, Netziv]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Idols: elilim / pesel / masechah / matzeivah / atzabim / gilulim / terafim / shikutzim / chamanim / asherim
 
@@ -27,10 +27,12 @@ is a **carved image**, *masechah* a **molten image**, *matzeivah* a **standing
 pillar**. Four are terms of contempt: *elilim* are **nothings** (or hollow
 things), *gilulim* **dung-idols**, *shikutzim* **abominations**, *terafim*
 **rotten things**. *Atzabim* are **images** made of parts, or the things that
-grieve their worshippers. *Chamanim* are **sun-pillars**, left standing in the
-sun. *Asherim* are the idols that depend on others to prop them up. The one
-thing not to get wrong: unlike the ten Names of Hashem, which name one Being,
-these ten name different things and different reproaches.
+grieve their worshippers. *Chamanim* are named from *chamah*, the sun, because
+they are left standing outside in it. *Asherim* are the idols that get their
+**validation** only from others, or, on the Raavad's reading, that must be
+propped back up by others. The one thing not to get wrong: unlike the ten Names
+of Hashem, which name one Being, these ten name different things and different
+reproaches.
 
 ## The framing
 
@@ -92,14 +94,17 @@ From *sheketz*, an abomination; the plain sense is that they are abominable.
 
 ### chamanim (חמנים)
 From *chamah*, the sun, because they are left standing outdoors in the sun. Rav
-Achai Gaon (*She'iltos*) gives a different reason: they die as animals do. The
-Netziv explains the connection: a person who dies is buried to cover his
-disgrace, while an animal's carcass is left in the open to rot in the sun's
-heat. Idols, once useless, are likewise left out rather than buried.
+Achai Gaon (680-752) in *She'iltos d'Rav Achai Gaon* gives a different reason:
+they die as animals do. The Netziv, Rabbi Naftali Tzvi Yehudah Berlin
+(1816-1893), explains the connection: a person who dies is customarily buried to
+conceal his embarrassment, while an animal's carcass is not given that respect
+but is left in the open to rot under the sun's heat. Idols, once useless, are
+likewise left out rather than buried.
 
 ### asherim (אשרים)
-From *ishur*, validation: an idol gets its endorsement only from others, having
-nothing praiseworthy of its own. Malbim narrows this to moon worship, since the
+From *ishur*, validation: an idol receives its validation, meaning its praise,
+only from others, and is not worthy of praise on its own merits, having no powers
+of its own. Malbim explains it slightly differently, of moon worship, since the
 ancients admitted that the moon has no light of its own and takes it from the
 sun, and worshipped it anyway. *Pirush HaRaavad* reads *asherim* from *yashar*,
 straightening: if the idol falls it cannot right itself and must be set up again
@@ -119,11 +124,13 @@ by someone else.
   Rabbeinu Shimshon restriction, that the contempt is at the object's filthy
   condition, before importing moral disgust into a passage that is describing
   mold and rust.
-- *Matzeivah* is not always pejorative in Tanach (Yaakov sets one up); reserve
-  the idolatrous rendering "pillar" for where the context makes it so.
-- *Asherah* in Tanach is usually a cultic tree or post rather than an abstract
-  "validation"; the *ishur* and *yashar* readings above are homiletic
-  derivations of the name, not a license to translate the word that way.
+- Ours, not the column's: *matzeivah* is not always pejorative in Tanach (Yaakov
+  sets one up), so reserve the idolatrous rendering "pillar" for where the
+  context makes it so.
+- Also ours: *asherah* in Tanach is usually a cultic tree or post rather than an
+  abstract "validation." The *ishur* and *yashar* readings above are the column's
+  homiletic derivations of the name, not a license to translate the word that
+  way.
 
 ## Notes for a project
 

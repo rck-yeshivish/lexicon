@@ -11,20 +11,21 @@ words:
 sources:
   - wiaw:9080 "Mishpatim: Feeding the Lie" (2021-02-13) https://articles.ohr.edu/articles/mishpatim-feeding-the-lie
 authorities: [Rabbi Yosef Albo, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbeinu Yosef Bechor Shor, Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Yonah Wilheimer, Rabbi Shlomo Aharon Wertheimer]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Falsehood: sheker / kazav / kachash
 
 ## Bottom line
 
-*Sheker* is **falsehood** outright, false when it was said and knowingly so.
+*Sheker* is **falsehood** outright, false already when it was said. Whether it
+must also be knowing is left open: Rabbi Edel and Mecklenburg say yes, and the
+column defends Albo's broader *sheker*, which covers the inadvertent untruth too.
 *Kazav* is **a lie that time exposes**: it sounded true, and only later proves
 false (the Gra: he meant it when he said it and then did not keep his word).
 *Kachash* is **denial**, a false answer to a claim already standing against
 him. The trap is rendering all three "lie"; the Yom Kippur confession *b'kachash
-uvchazav* needs two different English words, and a *sheker* is never merely a
-mistake.
+uvchazav* needs two different English words.
 
 ## Distinctions
 
@@ -35,20 +36,29 @@ HaIkkarim* 2:27) works from *emes*, truth, as the antonym of both *sheker* and
 *kazav*: truth requires agreement between the statement and reality, and
 between the mouth and the heart. *Sheker* is the break in the first, a
 statement out of joint with the way things are. Rabbi Yehuda Leib Edel presses
-him: if *sheker* is any objective untruth, how can the Torah forbid swearing
-*sheker*, given that a man can testify only as he perceives things, and given
-that Shevuos 26a exempts one who swore what he believed to be true? So *sheker*
-must carry deliberate deceit. Rabbi Yaakov Tzvi Mecklenburg reaches the same
-place from the wording: the Torah writes *lo teshakru* and not *lo sechazvu*,
-which shows the prohibition covers deliberate lying and not mistaken lying.
+him: if *sheker* is any objective untruth, how can the Torah forbid testifying
+*sheker* or swearing *sheker* (Vayikra 19:11-12), given that a man can present
+things only as he perceives them, and given that Shevuos 26a exempts one who
+swore falsely while thinking that what he said was true? To Rabbi Edel this
+suggests *sheker* must carry an element of advertent deceit. Rabbi Yaakov Tzvi
+Mecklenburg reaches the same place from the wording: the Torah writes *lo
+teshakru* and not *lo sechazvu*, which shows the prohibition covers deliberate
+lying and not mistaken lying (on his reading *kazav* is the mistaken lie, and
+*sheker* the purposeful or deceptive one). The column does not let Rabbi Albo
+fall, though: we may defend him, it says, by holding that the general definition
+of *sheker* does cover any objective untruth, inadvertent or wanton, and that
+the Gemara is applying a separate scriptural imperative, derived from Vayikra
+5:4, which limits the prohibition of false testimony and false oaths to one who
+perjures knowingly. On that defense Albo's broad *sheker* stands.
 Rav Hirsch (to Bereishis 9:21, 21:23, 43:11), taking kuf and kaf as
 interchangeable, joins *sheker* to *shikur*, a drunkard: as the drunk's
 imagination throws up what has no place in reality, *sheker* is what stands
 outside the real.
 
 ### kazav (כזב)
-Albo: *kazav* is the break in the second equation, the mouth saying what the
-heart does not hold. The Vilna Gaon (to Mishlei 12:25) draws the line by time
+Scripture uses it plainly for falsehood: "the remnant of Israel do no iniquity
+and speak no *kazav*" (Tzefaniah 3:13). Albo: *kazav* is the break in the second
+equation, the mouth saying what the heart does not hold. The Vilna Gaon (to Mishlei 12:25) draws the line by time
 instead: *sheker* was a lie the whole time, *kazav* became a lie afterward. A
 man who says he will do what he never intended has spoken *sheker*; a man who
 meant it and then failed to keep his word has spoken *kazav*. Rabbeinu Yosef
@@ -76,13 +86,13 @@ interchangeable): *ka'as* is a real and warranted response to another's
 wrongdoing, *kachash* a manufactured response of denial to another's warranted
 claim. Rabbi Yonah Wilheimer sets *kazav* against *kachash* as the two shapes a
 lie can take: *kazav* says of what is not that it is (fabrication), *kachash*
-says of what is that it is not (denial); on his reading *sheker* is the
-umbrella over both.
+says of what is that it is not (denial). It would seem, the column adds, that on
+his reading *sheker* is then an umbrella term over both.
 
-Rabbi Shlomo Aharon Wertheimer grades all three by how soon the lie can be
-caught: *sheker*, everyone knows it is false the moment it leaves the mouth;
-*kachash*, plausible but not refutable outright; *kazav*, discoverable only
-later.
+Rabbi Shlomo Aharon Wertheimer seems to grade all three by how soon the lie can
+be caught: *sheker*, everyone knows it is false the moment it leaves the mouth;
+*kachash*, plausible but not refutable outright; *kazav*, any lie whose falsity
+can be discovered only later.
 
 ## Rendering guidance
 

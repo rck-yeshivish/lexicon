@@ -21,7 +21,7 @@ words:
   - he: הלמות
     tr: halmus
     en: mallet
-    distinct: the poetic word for the same tool as makeves, both used of Yael (Shoftim 5:26 against 4:21); from ה-ל-ם, "to break" (Ibn Janach, Radak)
+    distinct: the poetic word for the same tool as makeves, both used of Yael (Shoftim 5:26 against 4:21); from ה-ל-ם, "to break" (Ibn Saruk, Ibn Janach, Radak)
 sources:
   - wiaw:11627 "Vayeshev: The Hebrew Hammers (Part 1/2)" (2024-12-21) https://articles.ohr.edu/articles/vayeshev-the-hebrew-hammers-part-12
   - wiaw:11634 "Miketz: The Hebrew Hammers (Part 2/2)" (2024-12-28) https://articles.ohr.edu/articles/miketz-the-hebrew-hammers-part-22

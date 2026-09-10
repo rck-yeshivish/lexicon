@@ -8,8 +8,8 @@ domain: cognition
 sources:
   - wiaw:6850 "Listen Up!" (2016-07-16) https://articles.ohr.edu/articles/listen-up
 authorities: [Sifrei, Baalei HaTosafos, Chizkuni, Abarbanel, Rabbi Yitzchak Arama, Malbim, Rokeach]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Hearing: shema / haazinu
 
@@ -29,17 +29,21 @@ that does not keep them apart destroys the question the meforshim are answering.
 ### haazinu (האזינו)
 From *ozen*, ear. On this reading the verb names the ear's own work, catching
 sound and passing it on, with nothing said about whether the hearer grasped it.
-Rokeach: *haazinu* is listening of any kind, the unmarked verb. He also offers a
-second distinction: *haazinu* is hearing what was only implied and inferring it,
-against *shema* for what was said outright. The Sifrei (to parashas Haazinu):
-*haazinu* is hearing something close by, which needs less concentration.
+Rokeach: *haazinu* is simply listening of any kind, the unmarked verb.
+Elsewhere he offers a second distinction: *haazinu* is listening and inferring
+something only said implicitly, against *shema* for what was stated explicitly.
+The Sifrei (to parashas Haazinu): *haazinu* is listening from close range.
 
 ### shema (שמע)
 Malbim: *shema* is not merely the physical act; it carries a measure of
 intellectual or emotional grasp of what is heard. Rokeach: *shema* is hearkening
-in response to another's call, that is, hearing that answers. The Sifrei: *shema*
-is hearing at a distance, which demands that a man attend closely, catch what
-should be caught, and fix on its meaning.
+in response to another's call, that is, hearing that answers. The column notes
+that these two explanations, Malbim's and Rokeach's first, fail to account for
+the change in phraseology between Moshe's opening and Yeshayahu's, which is the
+question the essay set out with; Rokeach's second distinction is brought after
+that observation. The Sifrei: *shema* is listening from a distance, which
+demands that a man be especially attentive to the sound, concentrate properly,
+hear what should be heard, and focus on its meaning.
 
 ### the reversal in Devarim and Yeshayahu
 Moshe Rabbeinu opens with *haazinu hashamayim* and *v'sishma haaretz* (Devarim
@@ -76,10 +80,12 @@ true synonyms in lashon hakodesh and therefore must distinguish them.
   which is the reverse of the Hebrew. Resist the instinct: *haazinu* is the ear,
   *shema* is the mind.
 - Where *shema* means to obey (*shamoa tishme'u*), render "hearken" or "obey"
-  and note the shift; *haazinu* never carries obedience.
+  and note the shift. (This bullet is ours; the article does not treat the
+  obedience sense.)
 - If a passage follows Chizkuni, Abarbanel or Rabbi Yitzchak Arama rather than
   the Sifrei, say which view the rendering assumes rather than choosing silently;
-  the two schools assign near and far to opposite words.
+  the two sides assign near and far to opposite words, and each explains the
+  difference between Moshe and Yeshayahu accordingly.
 
 ## Notes for a project
 
@@ -91,5 +97,5 @@ Rabbi Reuven Chaim Klein, "Listen Up!", What's in a Word?, Ohr Somayach, 10
 Tammuz 5776 (2016-07-16); raw text at
 `sources/whats-in-a-word/raw/6850-listen-up.md`. Primary loci cited: Devarim 32:1
 and 6:4; Yeshayahu 1:2; Bamidbar 12:8; *Sifrei* to parashas Haazinu; Chizkuni,
-Abarbanel and Rabbi Yitzchak Arama (*Akeidas Yitzchak*) to Devarim 32:1; Malbim;
-Rokeach.
+Abarbanel and Rabbi Yitzchak Arama, whom the article names without giving a
+locus; Malbim; Rokeach, in two places.

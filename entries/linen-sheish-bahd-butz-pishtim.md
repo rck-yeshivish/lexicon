@@ -14,17 +14,17 @@ words:
     nk: כַּרְפַּס
 sources:
   - wiaw:8140 "Is Cotton a Type of Linen?" (2019-02-16) https://articles.ohr.edu/articles/is-cotton-a-type-of-linen
-authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi]
-status: draft
-updated: 2026-09-09
+authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi, Professor Edward Yechezkel Kutscher, Sir Godfrey Rolles Driver]
+status: reviewed
+updated: 2026-09-10
 ---
 # Linen: sheish / bahd / butz / pishtim
 
 ## Bottom line
 
 All four are linen. *Pishtim* (and *pishtah*, *pishtan*) is **flax**, the raw
-material. *Butz* is **fine linen** as a material, the Aramaic-Hebrew equivalent of
-the Egyptian *sheish*. *Sheish* is **fine linen** thread, six fibers to the
+material. *Butz* is **fine linen** as a material, on one view the Aramaic-Hebrew
+rendering of the Egyptian *sheish*. *Sheish* is **fine linen** thread, six fibers to the
 strand, and is the Torah's word for the Mishkan's weaving. *Bahd* is the
 **single-fiber** linen thread, from *bad*, "alone," and it is the word for the
 Kohen Gadol's white garments on Yom Kippur. Cotton is not in this family at all:
