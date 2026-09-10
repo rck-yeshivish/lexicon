@@ -24,8 +24,8 @@ words:
     distinct: Rabbi Nosson of Rome gives both senses; Megillah 6a ties the city's name to it, its fruit being as sweet as a kinnor's sound, not to the lake's shape
 sources:
   - wiaw:8351 "The Shining Sea of Galilee" (2019-08-03) https://articles.ohr.edu/articles/the-shining-sea-of-galilee
-authorities: [Rabbi Nosson of Rome, Rashi, Tosafos, Bereishis Rabbah, Rabbi Yosef Karo, Rabbi Moshe ben Yosef of Trani]
-status: draft
+authorities: [Rabbi Nosson of Rome, Rashi, Tosafos, Bereishis Rabbah, Rabbi Yosef Karo, Rabbi Moshe ben Yosef of Trani, Josephus, Jastrow, Dr. Dov Ginzberg]
+status: reviewed
 updated: 2026-09-10
 ---
 # Kinneres: Kinneret / Ginosar / Yamah shel Tiveria
@@ -34,10 +34,11 @@ updated: 2026-09-10
 
 One lake, three names, each taken from whichever city on its shore was most
 prominent at the time: **Kinneret** in Tanach, **Ginosar** in the Targumim and
-the literature of the Second Temple period, **Yamah shel Tiveria**, the Sea of
-Tiberias, in the Gemara. The lake has no name of its own. Render each name as the
-source gives it and do not harmonize them into "the Sea of Galilee," which is a
-later regional label and not the term any of these sources uses.
+in the works of that era, Josephus included, and **Yamah shel Tiveria**, the Sea
+of Tiberias, in the Gemara. It seems, the article says, that the lake has no
+name of its own at all. Render each name as the source gives it and do not
+harmonize them into "the Sea of Galilee," which is a later regional label and
+not the term any of these sources uses.
 
 ## At a glance
 
@@ -64,35 +65,56 @@ The article states flatly that there is no real source for this. The Gemara
 (*Megillah* 6a), which identifies the Biblical Kinneres with Ginosar, derives the
 name differently and applies it to the city, not the lake: its fruits are as
 sweet as the sound of a *kinnor*. Rabbi Nosson of Rome (*Sefer HeAruch*) defines
-*kinnor* either as a kind of berry (compare Rashi to *Bava Basra* 48b) or as a
+*kinnor* either as a kind of berry, which the column notes Jastrow identifies as
+a thorn jujube (compare Rashi to *Bava Basra* 48b), or as a musical instrument, a
 harp or lyre, so the derashah may be about the fruit twice over. The Bottom line
 follows the Gemara and treats the harp-shape story as folklore.
 
-**Whether Tiveria is a Biblical city.** The Gemara (*Megillah* 5b-6a) identifies
-it with one of two cities named in Yehoshua 19:35, *Chamas* or *Rakas*: *Chamas*,
-"hot," for the natural hot springs there, and *Rakas*, "empty," because even the
-empty and unlearned among its people were as full of mitzvos as a pomegranate is
-of seeds. For the name Tiveria itself the Gemara gives two accounts: the city
-sits at the *tabur*, the navel of Eretz Yisrael, in importance rather than in
+**Whether Tiveria is a Biblical city.** The column sets two accounts against each
+other. Josephus (*Antiquities of the Jews* XVIII:8) has Herod, the Herodian
+tetrarch of the Galilee, found the city and name it in honor of the Roman emperor
+Tiberius. The Gemara (*Megillah* 5b-6a), on the other hand, identifies it with
+one of two cities named in Yehoshua 19:35, *Chamas* or *Rakas*: *Chamas*, "hot,"
+for the natural hot springs there, and *Rakas*, "empty," because even the empty
+and unlearned among its people were as full of mitzvos as a pomegranate is of
+seeds. For the name Tiveria itself the Gemara gives two accounts: the city sits
+at the *tabur*, the navel of Eretz Yisrael, in importance rather than in
 geography, and the name is *tovah re'iyasah*, "its sight is good," which Tosafos
 explains as its beauty, its gardens and orchards.
+
+**Why the rabbinic sources drop the name Kinneres.** The column closes with what
+it calls another fascinating theory that it found. Archaeologists at ancient
+Ugarit (Ras Shamra, in modern Syria) found a list of old Canaanite gods carrying
+a god named Kinnaru, and *kinnor* appears in Ugaritic for a stringed instrument
+in the same sense as the Hebrew; on this some academic scholars have argued that
+Kinnaru was the Canaanite god of music and that the city Kinneres was named after
+him. The late Dr. Dov Ginzberg of the Geological Survey of Israel argued from
+this that perhaps Chazal avoided the Biblical name because of its idolatrous
+origins and named the lake instead for one of the Jewish cities nearby, Ginosar
+or Tiveria. The column presents all of this as a possibility only, and adds that
+if nothing else, perhaps it accounts for the city Kinneres being renamed Ginosar.
 
 ## Distinctions
 
 ### Kinneres (כנרת)
 The name the Torah uses in fixing the eastern border of Eretz Yisrael (Bamidbar
 34:11; Devarim 3:17; Yehoshua 12:3, 13:27). Yehoshua 19:35 lists a fortified city
-Kinneres in the territory of Naftali, captured in Yehoshua's day, and the lake is
-called the Sea of Kinneres because that city was then the leading settlement on
-its shore. Topographically it is a lake, not a sea, but *yam* covers both.
+Kinneres in the territory of Naftali, captured in Yehoshua's day, and the column
+notes that this city's name turns up in various ancient inscriptions as well. The
+lake is called the Sea of Kinneres because that city was then the leading
+settlement on its shore. Topographically it is a lake, not a sea, but *yam*
+covers both.
 
 ### Ginosar (גניסר)
-The Targumim render Kinneres as Ginosar and Yam Kinneres as Yam Ginosar. The
-Gemara (*Megillah* 6a) states that the Biblical city Kinneres is Ginosar. The
-fruit of Ginosar is praised in the highest terms (*Berachos* 44a), and the
-Midrash (*Bereishis Rabbah* 98:17) expounds the name as *ganei sarim*, gardens of
-officers, for the fertility of that land. By the Second Temple period the city
-was known as Ginosar and still prominent, so the lake took its name.
+The Targumim render Kinneres as Ginosar and Yam Kinneres as Yam Ginosar, and
+Josephus (*War of the Jews* III:10) likewise calls it the Lake of Genezareth, an
+anglicization of the Greek form of Ginosar. The Gemara (*Megillah* 6a) states
+that the Biblical city Kinneres is Ginosar. The fruit of Ginosar is praised in
+the highest terms (*Berachos* 44a), and the Midrash (*Bereishis Rabbah* 98:17)
+expounds the name as *ganei sarim*, gardens of officers, for the fertility of
+that land and the fruit it produced. By the Second Temple period the city was
+known as Ginosar and still prominent, so the lake took its name, and that is the
+term the works of that era use.
 
 ### Yamah shel Tiveria (ימה של טבריה)
 The Bavli calls the lake *Yamah shel Tiveria* (*Shabbos* 87a-87b, *Moed Katan*
@@ -113,9 +135,13 @@ the word also names a berry.
   "the Sea of Tiveria" in a sugya. Substituting one for another silently erases
   the chronology, which is the article's whole point.
 - Trap: English "Sea of Galilee" absorbs all three, and it renders none of them.
-  Galilee was the administrative name of the whole northern region in later
-  antiquity, so the phrase is a regional label rather than a translation. Keep it
-  out of a Torah text; if a reader needs the identification, put it in a note.
+  The column traces the phrase to the Christian Bible, which occasionally calls
+  the lake the Sea of Tiberias but more often the Sea of Galilee, and which is
+  why English speakers know it by that name; Galilee was the administrative name
+  of the whole northern region of Eretz Yisrael in Hasmonean and Herodian times,
+  so this too, the column says, is the lake named for its surroundings rather
+  than a name of its own. Keep it out of a Torah text; if a reader needs the
+  identification, put it in a note.
 - Second trap: *kinnor* elsewhere is a harp or lyre and should stay so. Do not
   import "harp" into the lake's name on the strength of the shape story, for
   which no early source is given.
@@ -136,8 +162,9 @@ Somayach, 2 Av 5779 (2019-08-03): raw text in
 the article cites: Bamidbar 34:11; Devarim 3:17; Yehoshua 12:3, 13:27, 19:35;
 *Megillah* 5b-6a; *Berachos* 44a; *Shabbos* 87a-87b; *Moed Katan* 18b; *Bava
 Kamma* 81a-81b; *Bava Basra* 74 and 48b; *Bechoros* 55a; Yerushalmi *Shekalim*
-6:2 and *Bava Basra* 5:1; *Bereishis Rabbah* 98:17; *Sefer HeAruch* s.v. kinnor.
-Josephus, the Christian Bible's "Sea of Galilee," the Ugaritic material on a
-Canaanite deity named Kinnaru, Dr. Dov Ginzberg's suggestion built on it, and
-Jastrow's identification of the berry are omitted here under the Orthodox-sources
-rule.
+6:2 and *Bava Basra* 5:1; *Bereishis Rabbah* 98:17; *Sefer HeAruch* s.v. kinnor;
+Josephus, *War of the Jews* III:10 and *Antiquities of the Jews* XVIII:8;
+Jastrow on the berry; the Ugaritic god-list from Ras Shamra with the deity
+Kinnaru, and the late Dr. Dov Ginzberg of the Geological Survey of Israel on it.
+The article's responsa reference for the *get* dispute is given by name only,
+without a siman, so none is supplied here.

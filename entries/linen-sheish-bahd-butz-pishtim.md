@@ -29,7 +29,8 @@ strand, and is the Torah's word for the Mishkan's weaving. *Bahd* is the
 **single-fiber** linen thread, from *bad*, "alone," and it is the word for the
 Kohen Gadol's white garments on Yom Kippur. Cotton is not in this family at all:
 it did not exist in the ancient Near East, and where Rabbinic Hebrew needs it,
-it says *tzemer gefen*.
+it says *tzemer gefen*. The modern *kotna* is not the Semitic *kitna*, "linen";
+Kutscher traces it to *katan*, "small."
 
 ## Distinctions
 
@@ -42,10 +43,11 @@ further, to the flax while it is still growing in the ground.
 ### sheish (שש)
 Ralbag and Abarbanel: a thread of six fibers, the number being the word
 (*sheish*, six); Rambam draws the same distinction in Hilchos Klei HaMikdash
-8:14. *Daas Zekeinim* (to Bereishis 41:42) reports that *sheish* is an Egyptian
-word for the choicest grade of linen, with *butz* as its Aramaic-Hebrew
-rendering. Pappenheim reads *sheish* as combed linen strands not yet spun into
-thread, and ties the word to *shayish*, marble, for its smoothness.
+8:14. Some say that *sheish* is actually an Egyptian word for the choicest grade
+of linen, with *butz* as its Aramaic-Hebrew rendering (see *Daas Zekeinim* to
+Bereishis 41:42). Pappenheim reads *sheish* as combed linen strands not yet spun
+into thread, and ties the word to *shayish*, marble or limestone, for its
+smoothness.
 
 Two readings make *sheish* not a fabric word at all, which is why Yoma 71b has to
 prove that it means linen. The Steipler Gaon (in a letter to Rabbi Moshe Mordechai
@@ -65,23 +67,45 @@ establishes that *bahd* is linen; on the Steipler's account this is needed
 precisely because the word by itself only says "alone."
 
 ### butz (בוץ) and kitna (כיתנא)
-*Butz* is the later Hebrew and Aramaic word for fine linen. *Kitna* is the
-Talmud's Aramaic for linen (see also Targum to Shemos 9:31), and Yoma 71b and
-Zevachim 18b define *sheish* and *bahd* by it. Rabbi Yaakov Zev Lev (*Me'at
+*Butz* is the later Hebrew and Aramaic word for fine linen; the column notes that
+the Latin *byssus*, a thin silk-like linen, is said to be derived directly from
+it. *Kitna* is the Talmud's Aramaic for linen (see also Targum to Shemos 9:31),
+and Yoma 71b and Zevachim 18b define *sheish* and *bahd* by it. The column adds
+that *kitna* means linen in several other Semitic languages, Akkadian and Arabic
+among them, and is possibly even the basis of the Biblical *kesones*, "tunic":
+Professor Edward Yechezkel Kutscher explains that the Greeks borrowed the Aramaic
+*kitna* as *chiton*, a linen shirt, which by metathesis became the Latin
+"tunic." Rabbi Yaakov Zev Lev (*Me'at
 Tzari* to Vayikra 16:4) separates the two Aramaic words as Pappenheim separated
 the Hebrew: *kitna* is flax unprocessed and still in the ground, *butz* is linen
 already worked.
 
 ### cotton (כותנה, צמר גפן)
-Not a Biblical category. Rabbinic Hebrew calls it *tzemer gefen*, "vine wool";
-Rambam, in his commentary to Mishnah Kilayim 7:2, renders *tzemer gefen* into
-Arabic as *al-qoton*. Some take *karpas* (Esther 1:3) as a foreign word for a
-cotton garment. The modern *kotna* is spelled with a kuf and a tes, and is not
-the same word as *kitna* / *kesones*, which are kaf and tav; Rashi spells the
-French *coton* with kuf and tes (Berachos 28b, Shabbos 21a, Shabbos 110b, Niddah
-17a). The link is rather to *katan*, "small," the cotton fiber being finer than a
-hair of wool; compare the thin threads called *ketini* at Shabbos 105a. So the
-title's question is answered no: cotton is not a kind of linen.
+Not a Biblical category. Cotton simply did not exist in the ancient Near East, so
+it makes sense that there would be no Biblical word for it. Some linguists argue
+that *karpas* (Esther 1:3) is a loanword from Persian, where it meant a cotton
+garment; the Greek *carbasus* and the Latin *karpasos* likewise refer to a cotton
+garment. Rabbinic Hebrew's common term is *tzemer gefen*, "vine wool," which the
+column notes is close in shape to the German *baumwolle*, "tree-wool"; Rambam, in
+his commentary to Mishnah Kilayim 7:2, correctly renders *tzemer gefen* into
+Arabic as *al-qoton*.
+
+Is the Modern Hebrew *kotna* then derived from the Semitic *kitna*, "linen"?
+Professor Kutscher answers no, resoundingly. He points to the English *cotton*,
+Italian *cotone*, Spanish *algodon* and French *coton*, all of them from the
+Arabic *qoton*, and for the Arabic word itself he accepts the etymology proposed
+by the linguist Sir Godfrey Rolles Driver: the Semitic root kuf-tes-nun, "small,"
+as in the Hebrew *katan*. Kutscher explains that cotton was called "small"
+because its fibers run finer and thinner than the hairs of wool, which are much
+thicker (compare the thin threads called *ketini* at Shabbos 105a). So on his
+argument *kotna* goes back to *katan*, and its phonetic likeness to *kesones* /
+*kitna* is merely coincidental: *kotna* really should be spelled with kuf and
+tes, the others with kaf and tav. Rashi indeed spells the French *coton* with kuf
+and tes (Berachos 28b, Shabbos 21a, Shabbos 110b, Niddah 17a). The column adds
+that linguists take the Aramaic *pekolin*, "cotton tufts," to be borrowed from
+the Greek *phakelos*, "bundle" or "fascicle." So the title's question is answered
+no, which the column caps with Betteridge's Law of Headlines: any headline that
+ends in a question mark can be answered with the word "no."
 
 ## Rendering guidance
 
@@ -118,6 +142,8 @@ Yoma 71b; Zevachim 18b; Targum to Shemos 9:31; Ralbag and Abarbanel to Shemos
 *Me'at Tzari* to Vayikra 16:4; Rabbi Moshe Mordechai Schulsinger, *Mishmar
 HaLevi*, with the replies of the Steipler Gaon and Rabbi Dov Landau; Esther 1:3;
 Shabbos 105a; Rashi to Berachos 28b, Shabbos 21a, Shabbos 110b and Niddah 17a.
-The article's Akkadian, Arabic, Greek and Latin derivations and the academic
-linguists who supply them are omitted here, except where a rishon or acharon
-states the point himself.
+The article's comparative material is reported as the article gives it: the
+Akkadian and Arabic *kitna*, the Latin *byssus* from *butz*, the Persian, Greek
+*carbasus* and Latin *karpasos* behind *karpas*, the German *baumwolle*, and the
+etymologies of Professor Edward Yechezkel Kutscher and Sir Godfrey Rolles Driver
+for *kotna* and *pekolin*.

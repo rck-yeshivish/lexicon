@@ -8,8 +8,8 @@ domain: time
 sources:
   - wiaw:7426 "Forthwith in the Fourth Dimension" (2017-09-16) https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension
 authorities: [Maharal of Prague, Rabbi Yishaya Pick-Berlin, Rabbi Yaakov Emden, Rabbi Emmanuel Chai Ricci, Rabbi Betzalel Ronsberg, Rav Hai Gaon, Sefer HaAruch, Rashi, Rashba]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Immediately: teikef / miyad / le'alter / otyom
 
@@ -20,9 +20,10 @@ All four are Rabbinic Hebrew, none of them in Tanach, and all four mean
 another (it also means physically pressed close together). *Miyad* is
 **straightaway**, literally "from hand," the readiness of what is already in
 your hand. *Le'alter* is **on the spot**, a contraction of *al atar*. *Otyom* is
-a technical Mishnaic term, best left as *otyom* with a gloss; the majority hold
-it is a Greek loanword. The trap is that English "immediately" flattens all
-four, and the pair *teikef umiyad* then reads as mere repetition.
+a technical Mishnaic term, best left as *otyom* with a gloss; Rav Hai Gaon, the
+*Aruch*, Rashi and Rashba all hold it is a Greek loanword, and the article
+identifies the Greek as εὐθέως, *eutheos*, "immediately." The trap is that
+English "immediately" flattens all four.
 
 ## Distinctions
 
@@ -30,37 +31,46 @@ four, and the pair *teikef umiyad* then reads as mere repetition.
 Carries both senses at once: "closely pressed together" in space and "rapidly
 succeeding each other" in time. Two objects set right beside one another and two
 events falling right after one another take the same word. This is the article's
-governing idea, that Hebrew joins the spatial and the temporal, which the Maharal
-had already set out long before the space-time continuum entered physics; *olam*
-(the whole world / forever) and *lifnei* and *acharei* (before and after, in
-place and in time) work the same way.
+governing idea, which it says may help shed light on the set: that Hebrew, and
+even English, joins the spatial and the temporal, an idea the Maharal of Prague
+(1525-1609) had already expressed long before the space-time continuum entered
+physics in the last hundred years; *olam* (the whole world / forever) and
+*lifnei* and *acharei* (before and after, in place and in time) work the same
+way.
 
 ### miyad (מיד)
 Hyper-literally "from hand." What sits in a man's hand is the most readily
 transferred thing there is, passing straight to the next hand without an interval;
-so too an event that follows the one before it with nothing in between.
+so too an event that follows the one before it with nothing in between. The
+column adds a thought of its own, that it once wondered whether the English
+"off-hand" is related to *miyad*, so that "I don't remember off-hand" would mean
+"I don't immediately remember."
 
 ### le'alter (לאלתר)
-Rabbi Yishaya Pick-Berlin and Rabbi Yaakov Emden: a contraction of *al atar*,
-"on the spot." Again a word for place doing duty for time. Best known from the
-Rosh Hashanah night greeting, *l'shanah tovah tikaseiv v'seichaseim le'alter
-l'chaim tovim u'l'shalom*.
+Some commentators, among them Rabbi Yishaya Pick-Berlin (1725-1799) and Rabbi
+Yaakov Emden (1697-1776), explain it as a portmanteau of *al atar*, "on the
+spot." Again a word for place doing duty for time. Some Jews have the custom of
+greeting one another on the first night of Rosh Hashanah with *l'shanah tovah
+tikaseiv v'seichaseim le'alter l'chaim tovim u'l'shalom*.
 
 ### otyom (אותיום)
-Appears once in the Mishnah, Niddah 2:2, and plainly means "immediately
-thereafter"; some read the vocalization as *evteos*. Rabbi Emmanuel Chai Ricci,
-in his commentary to the Mishnah, takes it as a Hebrew abbreviation spelling out
-the halachic definition of "immediately" in that sugya. Rabbi Betzalel Ronsberg
-rejects this, since it does not square with what the Gemara concludes about that
-definition, and follows Rav Hai Gaon (in the commentary to Niddah ascribed to
-him), the *Aruch*, Rashi (Yoma 6a, Kerisos 17b) and Rashba (*Toras HaBayis* 7:3),
-who all hold that *otyom* is a Greek word meaning "immediately."
+Appears once in the Mishnah, Niddah 2:2, and clearly means "immediately
+thereafter"; some argue the vocalization should really be *evteos*. Rabbi
+Emmanuel Chai Ricci (1688-1743), in his commentary to the Mishnah, takes it as an
+abbreviation of a Hebrew phrase spelling out the halachic definition of
+"immediately" in that sugya. Rabbi Betzalel Ronsberg (1762-1821) disagrees,
+pointing out that it does not square with the Gemara's conclusions about that
+definition, and prefers Rav Hai Gaon (in the commentary to Niddah ascribed to
+him), *Sefer HaAruch*, Rashi (Yoma 6a, Kerisos 17b) and Rashba (*Toras HaBayis*
+7:3), who all write that *otyom* is actually a Greek word. The column names it:
+the Ancient Greek εὐθέως, *eutheos*, means "immediately."
 
 ## Rendering guidance
 
-- The doubled *teikef umiyad* (as in *teikef umiyad l'geulah*) is not
-  redundancy for its own sake. Render it as an intensifier, "at once and without
-  delay," rather than "immediately and immediately."
+- Ours, not the column's, which does not discuss the phrase: the doubled *teikef
+  umiyad* (as in *teikef umiyad l'geulah*) is not redundancy for its own sake.
+  Render it as an intensifier, "at once and without delay," rather than
+  "immediately and immediately."
 - *Miyad* on its own: "straightaway" or "at once." Keep "immediately" in reserve
   as the neutral fallback so it does not absorb every member of the set.
 - *Le'alter*: "on the spot" preserves the *al atar* sense that Pick-Berlin and
@@ -84,4 +94,6 @@ Word?, Ohr Somayach, 25 Elul 5777 (2017-09-16),
 https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension; raw text in
 `sources/whats-in-a-word/raw/7426-forthwith-in-the-fourth-dimension.md`. Primary
 loci: Mishnah Niddah 2:2; Rashi to Yoma 6a and Kerisos 17b; Rashba, *Toras
-HaBayis* 7:3; Rav Hai Gaon to Niddah; *Sefer HaAruch*.
+HaBayis* 7:3; Rav Hai Gaon to Niddah; *Sefer HaAruch*. The Greek εὐθέως and the
+"off-hand" aside are the article's own; the *teikef umiyad* note in Rendering
+guidance is ours, and is marked there.

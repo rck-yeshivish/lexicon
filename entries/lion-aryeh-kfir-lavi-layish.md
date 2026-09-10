@@ -8,22 +8,26 @@ domain: nature
 sources:
   - wiaw:8039 "Crouching Lion, Hidden Blessing" (2018-12-22) https://articles.ohr.edu/articles/crouching-lion-hidden-blessing
 authorities: [Rabbi Yochanan, Rabbi Levi, Tikkunei Zohar, Rabbi Menachem Azariah of Fano, Rabbi Chaim Palagi, Rashi, the Vilna Gaon, Baal HaTurim, Radak, Abarbanel, Rabbi Yosef Ibn Kaspi, Rashbam, Rabbi Yechiel Michel Stern, Rabbi Yishaya of Trani, Rabbi Pinchas Eliyahu Horowitz, Rabbi Shlomo Pappenheim]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Lion: aryeh / kfir / lavi / layish (shachal, shachatz, gur)
 
 ## Bottom line
 
 All of these render **lion** in English, and Chazal count six or seven of them.
-There are three ways to take the set, and the choice governs the translation.
-Chazal (Sanhedrin 95a; *Yalkut Shimoni*) treat them as one animal named for seven
-different traits. Radak and the Vilna Gaon treat them as stages of one lion's
-life: *gur* the nursing cub, *kfir* the young lion, *aryeh* or *ari* the grown
-lion, *lavi* and *layish* older still, *shachal* the oldest. Abarbanel flattens
-them to two, *gur* and *kfir* young, *aryeh*, *layish* and *lavi* grown. Default
-to Radak's progression, render *gur* "lion cub" and *kfir* "young lion," and
-never let plain "lion" cover two of these words in one pasuk.
+The sources divide on what the set is, and the choice governs the translation.
+The sources of the first group seem to take all seven as the same animal, named
+for seven different attributes of it or human reactions to it (Sanhedrin 95a;
+*Yalkut Shimoni*). Others take them as stages of a lion's life, and differ among
+themselves: Radak's progression runs *gur* the nursing cub, then *kfir*, then
+*aryeh*, then *lavi*, then *layish*, each stage stronger than the last, and he
+does not say where *shachal* fits; the Vilna Gaon has three stages only, *kfir*,
+*aryeh*, *shachal*; Abarbanel flattens the set to two, *gur* and *kfir* young,
+*aryeh*, *layish* and *lavi* grown. A minority reads some of these words as other
+animals altogether. Our own default is Radak's progression: render *gur* "lion
+cub" and *kfir* "young lion," and never let plain "lion" cover two of these words
+in one pasuk.
 
 ## Distinctions
 
@@ -75,17 +79,19 @@ cub is faster and stronger than a grown lion.
 ### kfir (כפיר)
 *Avos d'Rabbi Nasan*: an adolescent lion, so called because he denies (*kofer*)
 his parents. Rabbi Yechiel Michel Stern: a *kfir* is less fierce than an *aryeh*,
-which is why Michah 5:3 has the *kfir* falling on sheep, domesticated and
+which is why Michah 5:7 has the *kfir* falling on sheep, domesticated and
 defenseless, while the *aryeh* takes the beasts of the forest; and Tehillim
 104:21 has the *kfir* roaring to ask for its food, meaning it is still too young
 to hunt. *Zohar* (Terumah 143a): a *kfir* is a small, weak lion.
 
 ### the minority: not lions at all
-Rabbi Yishaya of Trani (to Hoshea 13:8): *lavi* and *laviyah* are a different
-species from lions altogether, though he grants that *shachal* and *shachatz* are
-lions. Rabbi Pinchas Eliyahu Horowitz (*Sefer HaBris*): *shachal* is a panther and
-*layish* a leopard. Rabbi Shlomo Pappenheim: *namer*, *lavi* and *shachal* are all
-words for a spotted leopard, or possibly a tiger.
+The Italian scholar Rabbi Yishaya of Trani (to Hoshea 13:8): *lavi* and *laviyah*
+are a different species from lions altogether, though he himself admits that
+*shachal* and *shachatz* are words for lion. Rabbi Pinchas Eliyahu Horowitz of
+Vilna, in his scientific almanac *Sefer HaBris*: *shachal* is a panther and
+*layish* a leopard, and he understood these not to be alternate words for "lion."
+Rabbi Shlomo Pappenheim similarly: *namer*, *lavi* and *shachal* are all words
+for a spotted leopard, or perhaps a tiger.
 
 ## Rendering guidance
 
@@ -115,7 +121,9 @@ Ohr Somayach, 14 Teves 5779 (2018-12-22),
 https://articles.ohr.edu/articles/crouching-lion-hidden-blessing; raw text in
 `sources/whats-in-a-word/raw/8039-crouching-lion-hidden-blessing.md`. Primary
 loci cited: Bereishis 49:9; Bamidbar 24:9; Devarim 1:17; Shoftim 14:5; Yechezkel
-19:5; Hoshea 13:8; Michah 5:3; Tehillim 104:21; Mishlei 20; Iyov 4:10, 19:29;
+19:5; Hoshea 13:8; Michah 5:7; Tehillim 104:21; Mishlei 20; Iyov 4:10, 19:29;
 Eichah 4:3; Sanhedrin 95a; *Avos d'Rabbi Nasan* version 2 ch. 43; *Tikkunei
 Zohar* 122a; *Zohar* Terumah 143a; *Sefer HaBris*; *Mashmia Yeshua*. The column
-closes without treating the difference between *aryeh* and *ari*.
+prints the *kfir*-and-sheep verse as Michah 5:3; it is Michah 5:7 in Hebrew
+versification (5:8 in English), and the entry gives it there. The column closes
+by saying it must save the difference between *aryeh* and *ari* for another time.

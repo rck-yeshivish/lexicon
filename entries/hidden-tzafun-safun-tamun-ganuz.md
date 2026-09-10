@@ -2,7 +2,7 @@
 cluster: hidden
 hebrew: [צפון, ספון, טמון, גנוז, נסתר, מוסתר, נעלם, סתר, מסתור, גניזה, הטמנה, תעלומה]
 roots: [צ-פ-ן, ס-פ-ן, ט-מ-ן, ג-נ-ז, ס-ת-ר, ע-ל-ם]
-translit: [tzafun, tzafoon, tsafun, tzofun, safun, sfun, tamun, tomun, hatmanah, hatmana, ganuz, gonuz, genizah, geniza, ganaz, nistar, mustar, seter, mistar, mistor, mistorin, neelam, ne'elam, taalumah, ta'alumah, taaluma, hastarah, hastara, tamir]
+translit: [tzafun, tzafoon, tsafun, tzofun, safun, sfun, tamun, tomun, hatmanah, hatmana, ganuz, gonuz, genizah, geniza, ganaz, nistar, mustar, seter, mistar, mistor, mistorin, neelam, ne'elam, taalumah, ta'alumah, taaluma, hastarah, hastara]
 english: [hidden, hidden away, stored up, buried, concealed, stowed, put away, out of view, beyond one's grasp]
 domain: other
 words:
