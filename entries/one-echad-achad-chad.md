@@ -8,8 +8,8 @@ domain: quantity
 sources:
   - wiaw:10975 "Korach: The One and Only" (2023-06-17) https://articles.ohr.edu/articles/korach-the-one-and-only
 authorities: [Rashi, Targum Onkelos, Rashbam, Chizkuni, Ramban, Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Zalman Hanau, Rabbi Moshe Sofer, Malbim, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rabbi Shmuel Yehudah Steiger, Rabbi Yehonosson Eybeschutz]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # One: echad / achad / chad (achat, echat, ach)
 
@@ -28,6 +28,10 @@ turns on it.
 
 ## Distinctions
 
+The essay starts from Moshe's defense against Korach's accusation of monetary
+impropriety: "I did not take a donkey of *echad* of them, and I did not do bad
+to *achad* of them" (Bamidbar 16:15), one pasuk with two words for "one."
+
 ### echad (אחד)
 634 occurrences. Plainly the numeral one, and beyond that the joining of parts
 into a single whole. Chazal read a connotation of importance into it: *Megillah*
@@ -38,8 +42,21 @@ marking the pick of the flock. So too "and *one* of the lads answered" (Shmuel I
 Shaul's entourage, namely Doeg the Edomite. The word is bound up with Hashem
 Himself: *Hashem Elokeinu Hashem Echad* (Devarim 6:4). On that strength the
 Midrash (*Bamidbar Rabbah* 18:10; *Tanchuma Korach* 7) reads Moshe's "I did not
-take a donkey of *echad* of them" (Bamidbar 16:15) as *hekdesh*, property
-belonging to the Ultimate One.
+take a donkey of *echad* of them" (Bamidbar 16:15) as *hekdesh*, consecrated
+property, which belongs to Hashem, the Ultimate One: Moshe pleaded that he had
+not so much as taken a donkey from *hekdesh*, unlike the standard practice of
+political leaders, and was certainly not guilty of Korach's charge.
+
+### the dispute the two forms answer
+Rendering that first clause as "a donkey of one of them," with *echad* meaning
+one of the people, follows Rashi and Targum Onkelos. Rashi's own grandson
+Rashbam, and Chizkuni and Ramban, render it otherwise: "I did not take one
+donkey from them," *echad* attaching to the donkey and not to the people, since
+otherwise the Torah should have written *achad* as it does in the second clause.
+It is against that objection that Rabbi Wolf Heidenheim defends Rashi, and his
+two forms of *achad* are the defense. (His explanation is quoted by Rabbi Yaakov
+Tzvi Mecklenburg, *HaKtav VaHaKabbalah* to Bamidbar 16:15; see also Rabbi Shlomo
+Zalman Hanau, *Shaarei Tefillah* 11.)
 
 ### achad (אחד, construct)
 65 occurrences in all. In the construct form it is simply "one of," and by
@@ -64,12 +81,15 @@ on greater honour, would collapse. Rabbi Moshe Sofer applies the same rule to
 form, so Adam after the sin stood level with the *lowest* creatures rather than
 above them.
 
-Malbim is not consistent here. In *Ayelet HaShachar* (introduction to Vayikra
-69) and to *Parashas Tazria* 43 he adopts Heidenheim's two forms, and his
-comment to Bereishis 3:22 runs close to Rabbi Moshe Sofer's. But in *Artzos
-HaChaim* (Orach Chaim 6:1) he explains the *achad* of *Asher Yatzar* as "the
-most important" organs, citing Bereishis 22:2 and 26:10, though that *achad* is
-not in the construct; on Heidenheim's rule it should mean the opposite.
+Malbim seems to contradict himself here. In *Ayelet HaShachar* (introduction to
+Vayikra 69) and to *Parashas Tazria* 43 he follows Heidenheim's two forms, and
+his comment to Bereishis 3:22 runs very close to Rabbi Moshe Sofer's, who
+explicitly follows Heidenheim. But in *Artzos HaChaim* (Orach Chaim 6:1) he
+explains the *achad* of *Asher Yatzar*, "if one of them were to open or one of
+them to close," as the "most important" organs, citing Bereishis 22:2 and 26:10
+as precedent, though that *achad* is not in the construct; on Heidenheim's rule
+it should mean the opposite, which implies that Malbim did not accept
+Heidenheim's explanation.
 
 ### ach (אח)
 Normally "brother" (also an exclamation of grief, and an "oven"). Rabbi Yonah
@@ -103,9 +123,18 @@ derives *yachad* ("together," many sub-units become one), *chad*/*chidud*
 ("sharp," the whole force brought onto one point), and *chidah* ("riddle," which
 takes all of one's mental force sharpened onto a single question). Pappenheim
 does not treat *ach* here, holding it never means "one." Menachem Ibn Saruk and
-Pappenheim keep *ach* ("brother," א-ח) separate from the *one* words; Rabbi
-Shmuel Yehudah Steiger (*Avnei Shayish*) joins them, all of them naming a
-closeness and joining like brotherhood.
+Pappenheim keep *ach* ("brother," א-ח) separate from the *one* words, which they
+trace to (א-)ח-ד; Rabbi Shmuel Yehudah Steiger (*Avnei Shayish*) joins them, all
+of them naming a closeness and joining together, like brotherhood.
+
+### the aleph of echad
+Rabbi Yehonosson Eybeschutz writes that Adam spoke Hebrew before eating from the
+Tree of Knowledge and Aramaic afterwards, and accounts for the switch through
+this very word. Aleph is the first letter of the alef-beis and has a gematria of
+one, so it stands for oneness and uniqueness; Hebrew's word for one, *echad*,
+opens with it, while the Aramaic *chad* does not. When Adam defied Hashem's
+order he slighted Hashem's all-encompassing dominion, an affront to His Oneness,
+and was demoted to the language whose word for "one" does not carry the aleph.
 
 ## Rendering guidance
 
@@ -117,9 +146,11 @@ closeness and joining like brotherhood.
   distinguished"; absolute *achad* as "any one of them," "a mere one of them."
 - Trap: English "one of" absorbs both forms of *achad* and erases Heidenheim's
   whole point. When both forms sit in one pasuk, as at Bamidbar 16:15, translate
-  them differently or the verse reads as pointless repetition. A workable
-  rendering there: "I did not take a single donkey of theirs, and I did not
-  wrong any one of them."
+  them differently or the verse reads as pointless repetition. On the reading
+  Heidenheim defends: "I did not take a donkey of one of them, and I did not
+  wrong any one of them." Rashbam, Chizkuni and Ramban read the first clause as
+  "I did not take one donkey from them," so a translation there is choosing a
+  side and should say which.
 - *Chad* in a Hebrew context is a clipped *echad*; in Daniel, Ezra, the Bavli
   and Targum it is simply the Aramaic for one and needs no comment.
 - *Ach* at Yechezkel 18:10 is a live dispute. Give "brother" (Targum, Rashi)
@@ -142,4 +173,14 @@ HaShorashim* and *Michlol*; Ibn Janach, *Sefer HaShorashim*; Rabbi Wolf
 Heidenheim as quoted by *HaKtav VaHaKabbalah* to Bamidbar 16:15; Rabbi Shlomo
 Zalman Hanau, *Shaarei Tefillah* 11; Malbim, *Ayelet HaShachar* introduction to
 Vayikra 69 and *Artzos HaChaim* Orach Chaim 6:1; Rabbi Shmuel Yehudah Steiger,
-*Avnei Shayish*.
+*Avnei Shayish*; Rabbi Yehonosson Eybeschutz on Adam's language.
+
+Restored in this pass: the machlokes over Bamidbar 16:15 between Rashi with
+Targum Onkelos and Rashbam with Chizkuni and Ramban, which is the question
+Heidenheim's two forms are answering, and Rabbi Yehonosson Eybeschutz on the
+aleph of *echad*. All five of those authorities stood in the front matter with
+nothing in the body attached to them.
+
+The entry has no `words:` block, and so no pointed forms for אחד, אחת or חד.
+That is left for whoever maintains that block; the entry stays `draft` on
+account of it, not on account of its content.

@@ -65,7 +65,11 @@ For one entry, with its source article open beside it:
 - Do not add material of your own from outside the article. The guide reports
   the essays; it does not supplement them.
 - Do not rewrite for style. This pass changes truth conditions, nothing else.
-- Do not touch the `words:` block or any `nk:` field.
+- The `words:` block is optional and carries nikud for colliding spellings; the
+  per-word rulings live in the body table. A sparse block, or none at all, is
+  not a fault and is not a reason to leave an entry `draft`. Correct a `tr`,
+  `en` or `distinct` there only where the article contradicts it, never an
+  `nk:`, and never write an unquoted colon inside a YAML value.
 
 ## Marking
 
