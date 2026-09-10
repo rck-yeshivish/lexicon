@@ -114,7 +114,7 @@ so a short man is one whose height seems cut off from what one might otherwise
 have expected. Professor Michael Sokoloff, in *A Dictionary of Jewish Babylonian
 Aramaic of the Talmudic and Geonic Periods*, writes that the Aramaic root
 gimmel-vav-tzadi from which *gutz* derives is a later form of the biblical Hebrew
-root kuf-tzadi-tzadi, which also means "cut off" (the article explains the shift
+root kuf-tzadi-tzadi, which also means "cut off" (the column explains the shift
 by "the interchangeability of GIMMEL And TZADI," evidently a slip for gimmel and
 kuf, the interchange it invokes a few lines earlier).
 

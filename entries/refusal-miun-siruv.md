@@ -72,7 +72,7 @@ where Yechezkel 2:3 uses *pesha* for rebellion, Targum renders it with an
 Aramaicized *meridah*. Rabbi Eliyahu HaBachur (1469-1549) points out in *Sefer
 HaTishbi* and *Meturgaman* that most instances of the Hebrew *meridah*, *meri*
 and *mi'un* in the Torah are rendered by the Targumim as *siruv*. In light of
-this, the article writes, it *seems* that the two are indeed synonyms but are
+this, the column writes, it *seems* that the two are indeed synonyms but are
 sourced in different languages: *mi'un* and its cognates, appearing many times
 in Tanach, *seem* to be genuine Hebrew, while *siruv*, which at most appears
 once, *seems* to be a borrowed Aramaic loanword, and so became more popular in

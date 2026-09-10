@@ -10,101 +10,144 @@ words:
     nk: מְסַפֵּר
 sources:
   - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
-authorities: [Ramban, Rashi, Ibn Ezra, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Eliyahu HaBachur, Netziv, Rabbi Dovid Abudraham, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Shapiro, Peirush HaRokeach, Rabbi Chaim Soloveitchik, Brisker Rav, Rabbi Aryeh Pomeranchik, Rabbi Yechiel Michel Feinstein, Rabbi Nosson Gestetner, Rabbi Ari Bergmann, Alshich]
-status: draft
-updated: 2026-09-09
+authorities: [Ramban, Rashi, Ibn Ezra, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Eliyahu HaBachur, Netziv, Rabbi Dovid Abudraham, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Shapiro, Peirush HaRokeach, Rabbi Chaim Soloveitchik, Brisker Rav, Rabbi Aryeh Pomeranchik, Rabbi Yechiel Michel Feinstein, Rabbi Nosson Gestetner, Rabbi Dr. Ari Bergmann, Alshich]
+status: reviewed
+updated: 2026-09-10
 ---
 # Telling: haggadah (maggid) / sippur (misaper)
 
 ## Bottom line
 
 *Haggadah* is **telling** in the strong sense: something new, said forcefully,
-and drawn into the listener's present. *Sippur* is the general **relating** of
-a story, old or new, and it carries the sense of parts joined into one whole.
-Ramban (to Devarim 26:3) treats the two as synonyms; most commentators do not,
-and the Bottom line follows the majority. That is why the Torah commands
-*v'higadta l'vincha* while Chazal call the mitzvah *sippur yetzias Mitzrayim*:
-when the Torah spoke, the story was still news, and by the time of Chazal it
-was a story handed down.
+and, at its core in Rabbi Klein's summary, drawing a past event into the
+listener's present. *Sippur* is the more general **relating** of a story, old
+or new, and for Rav Moshe Shapiro it carries the sense of many details joined
+into one whole. Ramban (to Devarim 26:3) seems to treat the two as synonyms;
+most commentators do not, and the Bottom line follows them. Why the Torah
+commands *v'higadta l'vincha* while Chazal call the mitzvah *sippur yetzias
+Mitzrayim* is answered more than one way: for Rabbi Klein, when the Torah spoke
+the story was still new, and by the time of Chazal it had been handed down for
+generations; for Rabbi Yechiel Michel Feinstein, Chazal took the word the Torah
+uses for the purpose of the miracles (*l'maan tesaper*, Shemos 10:2), where
+*v'higadta* only teaches how to tell; Rabbi Nosson Gestetner concludes that
+they are two separate mitzvos.
 
 ## Distinctions
 
 ### haggadah / maggid (הגדה, מגיד)
 **Force.** Rashi (to Shemos 19:3), on *v'sageid livnei Yisrael*: Moshe was to
-present the matter with strength, the details and the punishments, and *tageid*
-is from *gid*, sinew, something tough and not soft.
+present the matter forcefully to the men, the detailed expectations and the
+punishments for failing them, and *tageid* is related to *gid*, sinew, something
+strong and durable, not soft. From this Rabbi Klein infers that *haggadah* is
+presenting an idea in a strong, assertive way.
 
-**Novelty.** Cognates of *haggadah* attach to information not previously known:
-"who *higid* to you that you are naked" (Bereishis 3:11); Esther not
-*magedes* her origins (Esther 2:20); testimony in court (Vayikra 5:1), where
-the witness brings the court what it did not have. Ibn Ezra (to Shemos 19:9)
-says so outright.
+**Novelty.** Cognates of *haggadah* attach to information not known before it
+was revealed: "who *higid* to you that you are naked" (Bereishis 3:11); Esther
+not *magedes* her origins (Esther 2:20); testimony in court (Vayikra 5:1), where
+the witnesses bring the court new information. In accordance with these
+sources, Ibn Ezra (to Shemos 19:9) writes that *haggadah* is specifically saying
+something new that has not yet been told.
 
-**Roots.** Radak (*Sefer HaShorashim*) takes the root as נ-ג-ד, *neged*,
-opposite; Rabbi Shlomo Pappenheim, Rav Hirsch and Rabbi Yaakov Tzvi Mecklenburg
-explain that one who tells his fellow something new sets it in front of him,
-and Rabbi Yehuda Leib Edel that the new information *opposes* what the listener
-already holds. Menachem Ibn Saruk takes the root as the two-letter ג-ד, which
-Rabbi Pappenheim reads as connection: the telling lets the listener connect to
-what he is told.
+Rabbi Klein finds both implications, force and novelty, in the Haggadah's use
+of Shemos 13:8 for two of the four sons: one speaks strongly and harshly to the
+wicked son, and anything told to the son who does not know how to ask is new.
+
+**Roots.** Radak (*Sefer HaShorashim*) also has *haggadah* telling something
+new, and takes the root as נ-ג-ד, *neged*, opposite; Rabbi Shlomo Pappenheim,
+Rav Hirsch and Rabbi Yaakov Tzvi Mecklenburg explain that one who tells his
+fellow something new sets it opposite, in front of, him, and Rabbi Yehuda Leib
+Edel similarly that the new information *opposes* what the listener already
+knows. Menachem Ibn Saruk takes the root as the two-letter ג-ד, which Rabbi
+Pappenheim understands as connection: the telling lets the listener connect to
+the new information. On either root, Rabbi Klein notes, *haggadah* is linked
+with new information.
 
 **Drawing out.** Rabbi Eliyahu HaBachur (*Sefer HaTishbi*): *aggadah* is an
-expression of pulling or drawing, since aggadic teaching draws the heart of its
-hearers; he brings Targum to Bereishis 37:28, which renders Yosef's being drawn
-from the pit *negidu*. The Netziv accordingly holds that *haggadah* is
-specifically a telling at length, a drawn-out narrative and not a brief
-statement.
+expression of pulling or drawing, since aggadic teaching draws in the heart of
+its audience; he adduces Targum to Bereishis 37:28, which renders Yosef's being
+drawn from the pit *negidu*. In the same vein, the Netziv writes that
+*haggadah* applies specifically to revealing something by explaining it at great
+length, a purposely drawn-out narrative and not a brief statement. (Modern
+Hebrew, Rabbi Klein notes, has unfairly redefined *aggadah* as a fairytale or
+fictional legend.)
 
 **Thanks.** Rabbi Dovid Abudraham reads *haggadah* as an expression of
-admission or thanks. Rabbi Mecklenburg takes the two-letter root *gad* as
-success and fortune, so *lehagid* is praising Hashem in recognizing His hand in
-one's good fortune.
+admission or thanks. Rabbi Mecklenburg expresses a similar sentiment: the
+two-letter root *gad* is success and fortune, so *lehagid* is praising Hashem in
+recognizing His role in one's success and fortune.
 
-**Relevance.** Rabbi Ari Bergmann, in the name of Rav Moshe Shapiro's beis
-midrash: *haggadah* takes a past event and draws it into the present by showing
-what it means now, on the model of *hagadas eidus*, testimony about a past
-event brought to bear on a case before the court (see also Alshich to Bereishis
-24:23). This is why the Haggadah applies Shemos 13:8 to the wicked son, who
-must be answered sharply, and to the son who does not know to ask, for whom
-everything is new. Rabbi Aryeh Pomeranchik heard from the Brisker Rav in the
-name of Rav Chaim Soloveitchik that the Pesach-night *v'higadta* is
-distinguished from the daily mention of yetzias Mitzrayim precisely by this:
-it requires tying the story to the matzah and marror at hand.
+**Relevance.** Rabbi Dr. Ari Bergmann, a student of Rav Moshe Shapiro:
+*haggadah* takes a past event and draws it into the present by demonstrating its
+relevance (see also Alshich to Bereishis 24:23), on the model of *hagadas
+eidus*, testimony about a past event shown to bear on the court's deliberations
+now. In his estimation *v'higadta* requires not merely recounting the story but
+showing how it remains relevant to us. Rabbi Aryeh Pomeranchik heard from the
+Brisker Rav in the name of Rav Chaim Soloveitchik that the Pesach-night
+*v'higadta* differs from the daily mention of yetzias Mitzrayim in that it
+entails explaining the connection between the story and the mitzvos of matzah
+and marror; Rabbi Klein suggests this may be derived from the word *v'higadta*
+itself.
+
+Rabbi Klein's summary: *haggadah* implies new information; its roots convey both
+opposition and connection; it implies a drawn-out narrative, meant to spark
+dialogue; and at its core it gives a historical narrative contemporary
+relevance, whether by thanking Hashem for the benefit of those events or by
+tying the narrative to mitzvos in force.
 
 ### sippur / misaper (ספור, מספר)
 **General.** Radak (*Sefer HaShorashim*): *sippur* relates what already
 happened or was already told; others allow it for new information as well.
-Either way it does not *specify* novelty. Malbim: *haggadah* is telling
-something bearing on the listener, *misaper* telling a story not necessarily
-his. Rabbi Shlomo Aharon Wertheimer draws the line at the speaker's own
-knowledge: *haggadah* is relaying what he saw or heard himself, *sippur* is the
-general word for relating any account, even a dream he did not witness.
+Either way it does not *specify* novelty. Rabbi Bergmann: *haggadah* shows how a
+past event is still relevant, *sippur* simply relates a past event. In that
+spirit, Malbim: *haggadah* is telling something relevant to the listener,
+*misaper* telling a story not necessarily directly related to him. Rabbi Shlomo
+Aharon Wertheimer draws the line at how the speaker knows it: *haggadah* is
+relaying what he directly experienced, heard or saw himself, while *sippur* is
+the general word for relating any story, even a dream, that he did not
+physically perceive.
 
-**Wholeness.** Rav Moshe Shapiro: everything from ס-פ-ר shares one idea,
-binding many details into a single whole. A *sefer* binds its contents into one
-entity; a *sfar*, a border, closes everything within it into one unit; *mispar*
-and *sofeir*, number and counting, are the ordered system in which each item
-holds its place. So *sippur* is structured telling, its parts flowing one from
-the next like the numbers in a count. Rabbi Pomeranchik's report of Rav Chaim
-fits here too: the Pesach-night mitzvah requires a question-and-answer form and
-the *whole* story in order, from the slavery through the miracles to the praise
-of Hashem, where the daily mention requires none of that. *Peirush HaRokeach*:
-*haggadah* is telling something new, *sippur* is "the first time and more," a
-story built to be retold, which is what *sippur yetzias Mitzrayim* is every
-year.
+**Wholeness.** Rav Moshe Shapiro: everything from ס-פ-ר is interrelated, and
+*sippur* is joining many details into a single whole, the "story." A *sefer*
+binds its contents into one entity; a *sfar*, a border, of a country or a city,
+closes everything within it into one unit; *mispar* and *sofer*, number and
+counting, are the system in which the numbers are bound together in an orderly,
+logical way. Rabbi Klein adds that telling and counting are paired in other
+languages too: in German and Yiddish (*zahlen*, to count), and in English
+*tell*, *tale* and *recount*, and some etymologists take the *tell* of "to tell
+time" as counting.
 
-**Clarity.** Rabbi Mecklenburg connects ס-פ-ר to *sapir*, the blue stone, and
-to the clear sky: laying the whole story out plainly clears away the clouds
-with which the wicked obscure Hashem's rule of the world.
+Rabbi Pomeranchik also reports from the Brisker Rav in Rav Chaim's name two
+ways the Pesach-night mitzvah differs from the daily mention: it must take a
+question-and-answer form, and it requires the *entire* story, from the
+enslavement through the miracles and the exit to the praise of Hashem. Rabbi
+Klein finds both components in the word *sippur*: structured telling, its parts
+flowing one from the next in one smooth progression like numbers in a count.
+*Peirush HaRokeach*: *haggadah* is telling something new, *sippur* is "the first
+time and more." Rabbi Klein suggests he perhaps means a story intended to be
+told many times, one instance in a series, which fits *sippur yetzias Mitzrayim*,
+retold every year.
 
-**Why Chazal chose it.** Rabbi Yechiel Michel Feinstein finds the precedent in
-Shemos 10:2, where the purpose of the plagues is *l'maan tesaper* to your
-children, that they may know Hashem. The Torah's *v'higadta* teaches *how* to
-tell; *tesaper* names the purpose, so Chazal built the name of the mitzvah on
-it. Rabbi Nosson Gestetner goes further and counts two mitzvos at the Seder:
-*sippur yetzias Mitzrayim*, saying the sequence of events aloud, which binds
-even one who is alone and already knows the story, and *v'higadta*, revealing
-to one's children what they did not know.
+**Why Chazal chose it.** Rabbi Klein's answer to the opening question: from the
+Torah's perspective the telling was of something new, the story still
+unfolding, hence *v'higadta*; from Chazal's, it had been repeated for
+generations and was to be passed on, hence *misaper*. Rabbi Yechiel Michel
+Feinstein, a son-in-law of the Brisker Rav, finds the precedent in Shemos 10:2,
+where the purpose of the hardening of Pharaoh's heart and the miracles is
+*l'maan tesaper* to your children, that they may know Hashem. Because that is
+the ultimate purpose, Chazal built the name of the mitzvah on it; the Torah's
+*v'higadta* teaches only *how* to tell, not the purpose. Rabbi Mecklenburg
+offers a similar explanation: a hallmark of *sippur* is explaining something
+clearly, and the word is related to *sapir*, the blue gem. Hashem's
+administration of the world is like the clear blue sky, sometimes clouded when
+the wicked obscure His role; spelling it out clearly clears the clouds away.
+Presenting the whole story of the Exodus shows how Hashem oversees all of
+creation.
+
+**Two mitzvos.** After a lengthy discussion Rabbi Nosson Gestetner concludes that
+there are two separate mitzvos at the Seder: *sippur yetzias Mitzrayim*,
+verbalizing the story and sequence of events, which binds even one who is
+alone and already knows the story; and *v'higadta*, revealing to one's children
+ideas or details they did not know.
 
 ## Rendering guidance
 
@@ -113,8 +156,8 @@ to one's children what they did not know.
   it his."
 - *Sippur yetzias Mitzrayim*: **the telling of the Exodus**, or leave the phrase
   transliterated. *Misaper*: **relate**, **recount**.
-- *Aggadah*: **aggadah**, never "legend" or "fairytale"; the modern usage is a
-  distortion of the word.
+- *Aggadah*: **aggadah**, not "legend" or "fairytale"; Rabbi Klein calls the
+  modern usage an unfair redefinition.
 - Trap: English "tell" absorbs both words, and the whole point of the article is
   that the Torah's verb and Chazal's verb differ. Where a passage sets them side
   by side, render *haggadah* **declare** or **set before him** and *sippur*
@@ -132,12 +175,13 @@ Rabbi Reuven Chaim Klein, "Pesach: Telling the Story," What's in a Word?, Ohr
 Somayach, 8 Nisan 5779 (2019-04-13):
 https://articles.ohr.edu/articles/pesach-telling-the-story, raw text in
 `sources/whats-in-a-word/raw/8217-pesach-telling-the-story.md`. Primary loci
-cited: Shemos 13:8; 19:3 with Rashi; 19:9 with Ibn Ezra; 10:2; Bereishis 3:11;
+cited: Shemos 10:2; 13:8; 19:3 with Rashi; 19:9 with Ibn Ezra; Bereishis 3:11;
 Bereishis 37:28 with Targum; Bereishis 24:23 with Alshich; Vayikra 5:1;
 Devarim 26:3 with Ramban; Esther 2:20; Radak, *Sefer HaShorashim*; Menachem Ibn
 Saruk; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; the Netziv; Rabbi Dovid
 Abudraham; Malbim; Rabbi Shlomo Aharon Wertheimer; *Peirush HaRokeach*; Rabbi
 Aryeh Pomeranchik reporting the Brisker Rav in the name of Rav Chaim
-Soloveitchik. The article's comparison of Hebrew "tell" with Germanic *zahlen*
-and the English "recount" and "tell time" is general linguistics and is left
-out here.
+Soloveitchik. The article also compares German and Yiddish *zahlen* and English
+*tell*, *tale*, *recount* and "tell time"; where it calls *tell* and *tale*
+derived from German *zahlen*, the English words are cognates of it rather than
+borrowings.

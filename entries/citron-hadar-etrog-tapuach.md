@@ -130,7 +130,7 @@ do or *esroga* as ordinary people do.
 
 All of those sources spell the word with a tav, whence the Ashkenazi *esrog*,
 but the Peshitta (to Vayikra 23:40), the Syriac translation of Tanach, spells it
-with a tet. The article suggests that this variant may indicate that *esrog* and
+with a tet. The column suggests that this variant may indicate that *esrog* and
 its relatives are not native Hebrew words, or else that the Peshitta's authors
 did not know how to spell it. On the origins, it reports the linguist Dr.
 Michael Sokoloff of Bar Ilan, who takes all these variants to be related to the

@@ -35,7 +35,7 @@ updated: 2026-09-10
 One lake, three names, each taken from whichever city on its shore was most
 prominent at the time: **Kinneret** in Tanach, **Ginosar** in the Targumim and
 in the works of that era, Josephus included, and **Yamah shel Tiveria**, the Sea
-of Tiberias, in the Gemara. It seems, the article says, that the lake has no
+of Tiberias, in the Gemara. It seems, the column says, that the lake has no
 name of its own at all. Render each name as the source gives it and do not
 harmonize them into "the Sea of Galilee," which is a later regional label and
 not the term any of these sources uses.

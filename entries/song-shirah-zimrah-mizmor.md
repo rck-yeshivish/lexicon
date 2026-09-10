@@ -37,7 +37,7 @@ the *shir*/*zemer* pair is offered as one such nuance.
 ## Distinctions
 
 ### shir / shirah (שיר, שירה)
-Root ש-י-ר. The simplest way of telling the two apart, the article says, is that
+Root ש-י-ר. The simplest way of telling the two apart, the column says, is that
 *shirah* is verbal song and *zimrah* instrumental music, a reading proffered by
 a bevy of authorities including Ibn Ezra (Tehillim 105:2), Radak (Divrei HaYamim
 I 16:9), Sforno (Tehillim 105:2), the Vilna Gaon (cited in his son's *Be'er
@@ -90,7 +90,7 @@ Root ז-מ-ר, which in the verb *zomer* also means cutting down or pruning
 instrumental music, hence *klei zemer* and Yiddish *klezmer*, a portmanteau of
 *klei* (instruments) and *zemer* (music). Malbim: somehow a higher, more intense
 form of song than *shirah*, which is why whenever the two appear in tandem
-*shirah* comes first and *zemer* second; and, in what the article says is
+*shirah* comes first and *zemer* second; and, in what the column says is
 possibly a separate explanation, the specifically religious song that speaks of
 Hashem's praises. Edel, similarly: *zimrah* is always a means of acknowledging
 Hashem's part in bringing the happiness and thanking Him for it. Mecklenburg: the
@@ -122,7 +122,7 @@ people sing (*zemer*). Rabbi Nachman of Breslov (1772-1810) reads it as a specia
 
 ### mizmor (מזמור)
 Root ז-מ-ר. Ibn Ezra (to Tehillim 48:1): there is no difference between *mizmor
-shir* and *shir mizmor*. Against him the article says it found two credible
+shir* and *shir mizmor*. Against him the column says it found two credible
 authorities who beg to differ. Pappenheim: used side by side the terms take
 specific senses, *shir* the words and lyrics, *mizmor* the tune; within a given
 song the words sometimes begin before the tune and sometimes the tune is played

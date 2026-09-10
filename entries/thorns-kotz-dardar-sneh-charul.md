@@ -7,114 +7,202 @@ english: [thorn, thistle, brier, nettle, bramble, thornbush, scorpion]
 domain: nature
 sources:
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
-authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Ohalei Yehuda, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Ramban, Donash Ibn Labrat, Mahari Kara, Rabbi Avraham ben Shlomo, Rabbi David Chaim Chelouche, Malbim]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Ohalei Yehuda, Shoresh Yesha, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Ramban, Donash Ibn Labrat, Mahari Kara, Rabbi Avraham ben Shlomo, Rabbi David Chaim Chelouche, Malbim, Rabbi David Golumb, Rabbi Yaakov Yehudah de Kassif, Yaakov Reifman, Rabbi Yechiel Michel Stern, Metzudas Tzion]
+status: reviewed
+updated: 2026-09-10
 ---
 # Thorns: kotz / dardar / sneh / charul (and the rest of the twenty)
 
 ## Bottom line
 
-Hebrew has some twenty words in this field; Rashi (to Yechezkel 2:6) and Rabbi
-Saadia Gaon both say so outright, and Rabbi Shlomo of Urbino (*Ohel Moed*) lists
-seventeen. Default *kotz* to **thorn** (the plain, most frequent term), *dardar*
-to **thistle**, *sneh* to **thornbush** (never translated where it names the
-Burning Bush), *charul* to **nettle**, *chedek* to **brier**, *sikim* and
-*tzninim* to **thorns** in the idioms "thorns in your eyes / in your sides." The
-trap: קוץ ודרדר is two species, not a doubled phrase, so it must read "thorn and
-thistle," never "thorns and brambles" as one blur.
+Hebrew has some twenty words in this field. Rabbi Shlomo of Urbino (*Ohel
+Moed*) lists seventeen in Tanach and treats them as somewhat synonymous, without
+differentiating the species; Rashi (to Yechezkel 2:6) and Rabbi Saadia Gaon (to
+Mishlei 15:19) both say in passing that there are twenty; Rabbi Klein, following
+*Ohel Moed* and adding three more, reaches twenty-one with *na'atzutz*. The
+article is mostly etymology. Explicit contrasts are few: *kotz v'dardar* names
+two different kinds of thorn; the Vilna Gaon sets *kimosh*, the thorns along a
+field's edge, against *charul*, the ordinary thorn; Rabbi Pappenheim splits
+*salon* from *silon*. Renderings are therefore judgment calls: *kotz* **thorn**,
+*dardar* **thistle**, *sneh* **thornbush** (Rashi, Rabbi Saadia Gaon; left
+untranslated where it names the Burning Bush), *charul* **nettle** or thistle
+(as some define it; Radak, a grass-like thorn), *chedek* **brier**, *sikim* and *tzninim*
+**thorns** in "thorns in your eyes / in your sides." The trap: קוץ ודרדר is two
+kinds, not a doubled phrase, so it reads "thorn and thistle."
 
 ## Distinctions
 
 ### kotz (קוץ)
-Twelve times in Tanach as thorn, the unmarked, general word. Ibn Janach and
-Radak read a triliteral ק-ו-צ; Menachem Ibn Saruk and Rabbi Shlomo Pappenheim,
-both biliteralists, read ק-צ, the end or edge of a thing (*keitz*, *ketzeh*,
-*kayitz*, *yekitzah*, *katzin*), so *kotz* is named for its many sharp ends.
+Twelve times in Tanach as thorn, and at least once as a person's name (Divrei
+HaYamim I 4:8). The triliteralists Ibn Janach and Radak read ק-ו-צ; Menachem Ibn
+Saruk, a biliteralist, reads ק-צ. Rabbi Shlomo Pappenheim, another biliteralist,
+gives ק-צ the core sense of the end or conclusion of a thing (*keitz*, *ketzeh*,
+*katz*, *ketzitzah*, *kayitz*, *yekitzah*, *katzin*), so *kotz* is named for its
+many sharp ends.
 
 ### dardar (דרדר)
-Twice, both times in the fixed phrase *kotz v'dardar* and both times naming a
-second, different species alongside *kotz* (Bereishis 3:18, Hoshea 10:8).
-Pappenheim: from ד-ר, movement without hindrance, whence *dror* (freedom); the
-*dardar* is an edible thorn growing in open, ownerless ground. Rabbi Avraham ben
-Shlomo (to Shoftim 8:7): people would peel it and eat the inside. Targum renders
-it *atad*.
+Twice, both times in the phrase *kotz v'dardar* of two different kinds of thorn
+(Bereishis 3:18, Hoshea 10:8). Rabbi Pappenheim: from ד-ר, movement without
+hindrance, whence *dror*, freedom; the *dardar* is an edible thorn growing in
+open, ownerless ground such as deserts. The Yemenite scholar Rabbi Avraham ben
+Shlomo (to Shoftim 8:7), without discussing the word's etymology or exact
+meaning, relates that people would peel the outside of the *dardar* and eat its
+fruit. Rabbi Klein remarks that this sounds to him like a cactus or sabra. The
+Targum renders it *atad*.
 
 ### sneh (סנה)
 Six times, all of the Burning Bush (Shemos 3:2-4, Devarim 33:16). Rashi (to
 Sukkah 13a, Bava Kamma 119b) uses *sneh* to define Aramaic words he elsewhere
-glosses "thorns," so for him it is a thorn bush; so too Rabbi Saadia Gaon's
-*Tafsir* to Shemos 3:2, cited by Ibn Ezra's long commentary. Pappenheim: from
-ס-נ, chaos and disorder (whence *ason*), a tangled bush in which thorns of every
-kind grow.
+explains as thorns (Rashi to Avodah Zarah 47b, Eruvin 34b), so for him it is a
+thorn bush; so too, explicitly, Rabbi Saadia Gaon's *Tafsir* to Shemos 3:2,
+cited by Ibn Ezra's long commentary there. Rabbi Pappenheim: from ס-נ, chaos and
+disorder (whence *ason*, mishap), a messy bush in which thorns of every kind
+grow. Rabbi David Chaim Chelouche, the late Chief Rabbi of Netanya, relates ס-נ
+to ש-ן, tooth, since the thorns on a branch look like sharp teeth.
 
 ### salon / silon (סלון)
 Rashi and Mahari Kara: *salonim* (Yechezkel 2:6) are thorns, and Radak reads the
-pasuk as telling the navi not to fear the nation's jabs. Pappenheim splits the
-two vocalizations, both from ס-ל, repeated action: *salonim* are people who
-provoke again and again, *silon* the thistle whose spikes stab again and again.
+pasuk as telling the navi not to fear the people or their jabs; the same
+commentators take *silon* (Yechezkel 28:24) as thorn too. Rabbi Pappenheim
+differentiates the two, both from ס-ל, repeated action: *salonim* are people
+who repeatedly bother and provoke, *silon* the thistle whose many spikes stab
+the one who holds it again and again.
 
+### choach (חוח), tzninim (צנינים)
+*Choach*: the rose among the *chochim* (Shir HaShirim 2:2). Radak and Rabbi
+Pappenheim relate it to *chach*, from ח-ח (or possibly the single letter ח), a
+piece of jewelry fastened with a pin, the pin's sharp point recalling a thorn.
+*Tzninim* (Bamidbar 33:55): *Ohalei Yehuda* relates it to *sneh*, most likely
+through the interchange of tzadi and samech. Rav Hirsch (to Tehillim 91:4)
+relates צ-נ to ש-נ, through the interchange of tzadi and shin, sharpness, as in
+*v'shinantam* and *shen*. Rabbi Pappenheim takes the core sense of צ-נ as thorn
+outright, whence *tzinah* (a spiked weapon), *tzinah* (sharp cold) and
+*tznumah* (grain damaged by cold).
 
 ### sirim (סירים), atad (אטד), chedek (חדק)
-*Sirim*, four times (Yeshayahu 34:13, Nachum 1:10, Koheles 7:6, Hoshea 2:8);
-Rashi (to Nachum 1:10) reports a view tying it to *hasarah*, removal, and
-Pappenheim traces it to ס-ר, the root of *yissurin* and *mussar*, thorns being
-named as instruments of affliction. *Atad*, four times (Tehillim 58:10, Shoftim
-9:14-15) and the Aramaic for *dardar*; it gives *Goren HaAtad* (Bereishis
-50:10-11), which Sotah 13a expounds from the custom of ringing a granary with a
-thorn fence, as the Canaanite kings ringed Yaakov's coffin with their crowns.
-*Chedek*, twice (Mishlei 15:19, Michah 7:4), a brier; *Ohalei Yehuda*: *chad*
-plus *dak*, or a metathesis of *dochak*, which Ramban (to Chullin 59a) follows.
+*Sirim*, four times (Yeshayahu 34:13, Nachum 1:10, Koheles 7:6, Hoshea 2:8).
+Rashi (to Nachum 1:10) reports that some tie it to *hasarah*, removal, without
+explaining the connection; Rabbi Klein suggests perhaps the painful removal of
+thorns stuck in one's person, or clearing thorns from a place before one can
+enter it. Rabbi Pappenheim offers a more creative account: ס-ר is removing
+something from its place, *yissurin* and *mussar* are affliction meant to
+remove a person from his sinful state, and thorns are *sirim*, in a borrowed
+sense, as instruments of affliction.
+
+*Atad*, four times as thorn (Tehillim 58:10, Shoftim 9:14-15), and the Targum's
+Aramaic for *dardar* (Targum to Bereishis 3:18, Hoshea 10:8). It gives *Goren
+HaAtad* (Bereishis 50:10-11): Sotah 13a, finding a granary of thorns odd at
+face value, expounds it from the custom of ringing a granary with a thorn fence,
+as the kings of Canaan ringed Yaakov's coffin with their crowns.
+
+*Chedek*, twice (Mishlei 15:19, Michah 7:4), a brier. In Mishnaic Hebrew and the
+Gemara ח-ד-ק is cutting, pricking, injuring, wedging in, all likely, Rabbi
+Klein says, from the Biblical thorn. *Ohalei Yehuda*: *chedek* may be *chad*
+(sharp, or single) plus *dak* (thin), or a metathesis of *dochak* (pressure),
+and Ramban (to Chullin 59a) seems to follow the last. (Rabbi Klein wonders
+whether the Tanna Rabbi Chidka, of the four Shabbos meals, Shabbos 117b, is
+named for it.)
 
 ### shamir (שמיר), shayit (שית), barkan (ברקן)
-*Shamir* is Yeshayahu's word, eight times, always paired there with *shayit*
-(5:6, 10:17); it also names a stone-cutting agent (Yirmiyahu 17:1, Zechariah
-7:12, Yechezkel 3:9), a hard stone or the *shamir* worm of Gittin 68a. Ibn
-Saruk, Ibn Janach and Radak file it under ש-מ-ר, guarding, without saying how;
-*Shoresh Yesha* (and Rav Hirsch to Bereishis 24:6): one guards oneself around
-thorns, and thorns are what one fences a field with. Pappenheim on *shayit*:
-from ש-א-ה, uniformity, the root of *shoah*, thorns that come up over ruined
-ground. *Barkan* twice, both alongside *kotz* (Shoftim 8:7, 8:16); the early
-lexicographers assign it to ב-ר-ק with *barak* and *bareket* without saying how a
-thorn belongs there, and Rabbi Yehoshua Steinberg answers that a sword's worth is
-its sharpness, not its shine.
+*Shamir* is eight times a thorn, all in Yeshayahu, as in the vineyard left to
+*shamir vashayit* (5:6, and see 10:17). Three times it is something that cuts
+rock (Yirmiyahu 17:1, Zechariah 7:12, Yechezkel 3:9), either a very hard stone
+or the legendary *shamir* worm (Gittin 68a); either way, Rabbi Klein notes, it
+goes back to the thorn, which is sharp and cuts. Menachem Ibn Saruk, Ibn Janach
+and Radak file it under ש-מ-ר, guarding, without saying how; *Shoresh Yesha*
+(and to some extent Rav Hirsch to Bereishis 24:6): one must guard oneself around
+thorns, and thorns are what one fences a field with to guard it. (English
+*guard*, *yard* and *garden*, Rabbi Klein adds, are related.)
 
-### charul (חרול), kimosh (קימוש), akrav (עקרב), sikim (סיכים)
-*Charul* three times (Tzefanyah 2:9, Mishlei 24:31, Iyov 30:7); Radak, a
-grass-like thorn, others nettle or thistle; Rabbi Aharon Marcus (*Kesses
-HaSofer*) takes ח-ר as strong, obstinate movement that bores a hole, *Ohalei
-Yehuda* as heat and dryness, or ח-ר-ל read through ע-ר-ל, covering. The Vilna
-Gaon (to Mishlei 24:31) draws the one explicit contrast in the field: *kimosh*
-grows along a field's perimeter, *charul* is the ordinary thorn one may touch and
-get burnt by. *Akrav* is a scorpion in Devarim 8:15 and Yechezkel 2:6; in
-Rechavam's threat (Melachim I 12:11, 12:14) the commentators take it as spiked
-flogging sticks resembling scorpions, so its thorn sense is borrowed, and Rav
-Hirsch (to Tehillim 140:2-4) makes its root ק-ר-ב, ever ready for *krav*. *Sikim*
-(Bamidbar 33:55) is the fence-thorn: Radak in *Sefer HaShorashim* derives
-*mesuchah* from its root ש-ו-כ, and in his father's name *sakin* too; Rav Hirsch
-links it to *siyag*, Pappenheim to ס-כ, to cover or protect.
+*Shayit*: Ibn Janach writes that it has an Arabic cognate also meaning thorn.
+Rabbi Pappenheim: from ש-א-ה, uniformity, the root of *shoah*, destruction
+across the board, so thorns that grow in the ruins of desolate places (Rabbi
+Klein: a cactus, perhaps?).
 
-### the remainder
-*Choach*: Radak and Pappenheim tie it to *chach*, a pin-fastened ornament.
-*Tzninim* (Bamidbar 33:55): Rav Hirsch (to Tehillim 91:4) reads ש-נ, sharpness,
-as in *v'shinantam* and *shen*; Pappenheim takes צ-נ as thorn outright, whence
-*tzinah* (spiked weapon) and *tzinah* (sharp cold). *Bashah* (Iyov 31:40), once,
-known as a thorn from its pairing with *choach*. *Sirpad* (Yeshayahu 55:13),
-once, the thorn standing for the wicked opposite the myrtle of the righteous
-(Megillah 10b). *Sansan* (Shir HaShirim 7:9): Ibn Ezra says it has no
-counterpart; Pappenheim and Malbim (to Yechezkel 17:4) tie it to *sneh*.
-*Saravim* (Yechezkel 2:6): most read it from *siruv*, refusal; Donash Ibn Labrat
-makes it a thorn, and Rashi cites him. *Nahalol* (Yeshayahu 7:19): a thorn for
-Ibn Saruk and Mahari Kara, a barren scrub tree for Radak and Metzudas Tzion.
+*Barkan*, twice, both alongside *kotz* (Shoftim 8:7, 8:16). Menachem, Ibn
+Janach and Radak assign it to ב-ר-ק with *barak* (lightning, and a sword's
+luster) and *bareket* (a gem, possibly emerald); Radak explains how those three
+belong together, but none of them says how a thorn does. Rabbi Yehoshua
+Steinberg of the Veromemanu Foundation suggests that, since a sword's real
+power is the sharpness of its blade and not its shine, *barkan*, a sharp thorn,
+was derived from *barak* in the sense of a sword's glow.
+
+### charul (חרול), kimosh (קימוש), akrav (עקרב), bashah (באשה)
+*Charul* three times (Tzefanyah 2:9, Mishlei 24:31, Iyov 30:7). Radak: a
+grass-like thorn; others, nettle or thistle. Rabbi Aharon Marcus (*Kesses
+HaSofer*) takes ח-ר as strong, obstinate movement (in *Barzilai*, anger and
+destruction), many of whose triliteral roots are boring a hole, and so reads
+*charul*. *Ohalei Yehuda* offers two more: ח-ר as heat and dryness plus *lo*,
+"for him," for the dry, fiery thorn; or ח-ר-ל read through ע-ר-ל, blockage or
+covering, by the interchange of ches and ayin, the thorn that covers the face
+of a field.
+
+*Kimosh*: the Vilna Gaon (to Mishlei 24:31) distinguishes it from *charul*:
+*kimosh* grows along a field's perimeter, *charul* is any ordinary thorn one
+might touch and be "burnt" by. (Rabbi Klein wonders whether *kimosh*, with a
+kuf, connects to the Moabite god Kemosh, with a kaf.)
+
+*Akrav* is a scorpion in Devarim 8:15 and Yechezkel 2:6; in Rechavam's threat
+(Melachim I 12:11, 12:14; Divrei HaYamim II 10:11, 10:14) the commentators take
+it as flogging sticks with thorn-like spikes resembling scorpions. Rav Hirsch
+(to Tehillim 140:2-4) holds that four-letter animal names beginning with ayin
+are triliteral roots with the ayin added (*atalef*, *achshuv*, *akavish*,
+*achbar*, *akrav*), so *akrav* is from ק-ר-ב, ever ready for *krav*, battle.
+*Akrav* seems to mean thorns only in a borrowed sense. (Whether Maaleh
+Akrabim, Bamidbar 34:4, Yehoshua 15:3, Shoftim 1:36, has to do with thorns or
+scorpions is unclear.)
+
+*Bashah*, once (Iyov 31:40), known as a thorn weed from its pairing with
+*choach*. Rabbi Pappenheim: from ב-ש, cessation of movement, whose main
+derivative is *bushah*, shame, and from it words of ill repute, *ba'ash*
+(putrid) and *be'ushim* (poor grapes); Rabbi Klein would add the Aramaic
+*bisha*, bad.
+
+### sirpad (סרפד), na'atzutz (נעצוץ)
+*Sirpad*, once (Yeshayahu 55:13): "instead of the *na'atzutz* a cypress, instead
+of the *sirpad* a myrtle." The commentators explain the *sirpad* as a thorn
+standing for the wicked, opposite the myrtle of the righteous (Megillah 10b).
+Rashi and Radak (there, and in *Sefer HaShorashim*) take *na'atzutz* as a thorn
+too, though not all commentators agree.
+
+### sikim (שכים), sansan (סנסן), saravim (סרבים): the three *Ohel Moed* omits
+*Sikim* (Bamidbar 33:55) is the fence-thorn: Radak in *Sefer HaShorashim* notes
+that fences were made of thorns, so *mesuchah*, a fence (Michah 7:4, Yechezkel
+28:13, Mishlei 15:19, Yeshayahu 5:5), shares its root ש-ו-כ, and in his father's
+name derives *sakin*, knife (once, Mishlei 23:2), from *sikim* too. Rav Hirsch
+(to Bamidbar 33:55) links the fence sense to *sugah*/*siyag* by the interchange
+of kaf and gimmel; Rabbi Pappenheim takes ס-כ, to spread, cover or protect,
+since the thorn fence protects the field. In Modern Hebrew *sikah* is a pin.
+
+*Sansan* (Shir HaShirim 7:9), once: Ibn Ezra says it has no counterpart in
+Tanach, but Rabbi David Golumb (1861 to 1935) had already noted that it seems
+related to *sneh*, since palm branches are thorny, a point also made by Rabbi
+Pappenheim, Malbim (to Yechezkel 17:4) and Rabbi Yaakov Yehudah (Zilberberg) de
+Kassif (1914 to 2003).
+
+*Saravim* (Yechezkel 2:6): many commentators read it from *siruv*, refusal or
+rebellion; Donash Ibn Labrat makes it a thorn like *salonim*, and Rashi, citing
+him, adds offhand that there are twenty words for thorn.
+
+### the other lists
+Yaakov Reifman and Rabbi Yechiel Michel Stern, the Rav of Ezras Torah, explaining
+Rashi's twenty, give lists without *sansan* and with *nahalol* (Yeshayahu 7:19)
+instead. *Nahalol* is read three ways: a thorn (*Machberes Menachem*, Mahari
+Kara); lowly trees that bear no fruit (Radak, there and in *Sefer HaShorashim*;
+Metzudas Tzion); or, for Rabbi Pappenheim, from *nohel*/*menahel*, the place a
+shepherd leads his young animals. Rabbi Avraham ben Shlomo (to Shoftim 8:7)
+cites Chazal for seventeen words, but his list drops *tzinim*, *akrav*, *bashah*
+and *sirpad* and adds *maluach*, *masuchah*, *pirchach* and *arar*; he also
+gives Arabic names for some of the thorns, which the article leaves aside.
 
 ## Rendering guidance
 
-- קוץ ודרדר (Bereishis 3:18): "thorn and thistle." Two species, and the pasuk is
+- קוץ ודרדר (Bereishis 3:18): "thorn and thistle." Two kinds, and the pasuk is
   listing, not intensifying. Do not render it "thorns and thorns" or fold it
   into a single English word.
 - סנה: leave it as *sneh* where it names the Burning Bush; the thorn-bush
   identification belongs in a note, since English "bush" loses the point.
-- שמיר ושית: Yeshayahu's fixed pair needs two English words, "briers and thorns."
+- שמיר ושית: Yeshayahu's pair needs two English words, "briers and thorns."
 - Trap: English "thorn" will happily absorb *kotz*, *sirim*, *silon*, *chedek*,
   *charul* and *sikim* at once. Where a pasuk lists two side by side (*kotz
   uvarkan*, *saravim v'salonim*, *shamir vashayit*), give each its own English
@@ -133,8 +221,13 @@ Somayach, 9 Av 5782 (2022-08-06): raw text in
 `sources/whats-in-a-word/raw/9809-of-thorns-and-thistles.md`. The frame is
 Rabbi Shlomo of Urbino, *Ohel Moed*, with Rashi to Yechezkel 2:6 and Rabbi
 Saadia Gaon to Mishlei 15:19 for the count of twenty. Primary loci: Bereishis
-3:18, 50:10-11; Shemos 3:2-4; Bamidbar 33:55; Devarim 8:15, 33:16; Shoftim 8:7,
-8:16, 9:14-15; Mishlei 15:19, 24:31; Yeshayahu 5:6, 7:19, 34:13, 55:13;
-Yechezkel 2:6, 28:24; Iyov 30:7, 31:40; Shir HaShirim 2:2, 7:9; Sotah 13a;
-Gittin 68a; Megillah 10b. The article's Arabic cognates and its maskilic
-list-makers are omitted per house rule 9.
+3:18, 24:6, 50:10-11; Shemos 3:2-4; Bamidbar 33:55, 34:4; Devarim 8:15, 33:16;
+Yehoshua 15:3; Shoftim 1:36, 8:7, 8:16, 9:14-15; Melachim I 12:11, 12:14;
+Divrei HaYamim I 4:8; Divrei HaYamim II 10:11, 10:14; Yeshayahu 5:5, 5:6, 7:19,
+10:17, 34:13, 55:13; Yirmiyahu 17:1; Yechezkel 2:6, 3:9, 17:4, 28:13, 28:24;
+Hoshea 2:8, 10:8; Michah 7:4; Nachum 1:10; Tzefanyah 2:9; Zechariah 7:12;
+Tehillim 58:10, 91:4, 140:2-4; Mishlei 15:19, 23:2, 24:31; Iyov 30:7, 31:40;
+Shir HaShirim 2:2, 7:9; Koheles 7:6; Sukkah 13a; Bava Kamma 119b; Avodah Zarah
+47b; Eruvin 34b; Sotah 13a; Gittin 68a; Megillah 10b; Chullin 59a with Ramban;
+Shabbos 117b. The article prints the *atad* verses in Shoftim as "9:15-15"; the
+word stands in 9:14 and twice in 9:15.

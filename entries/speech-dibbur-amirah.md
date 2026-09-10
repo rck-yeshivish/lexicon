@@ -204,7 +204,7 @@ Rishonim and even alluded to in the Targumim.
   *vayedaber*; he applies Malbim's absolute-against-proposition principle, but
   reasons from it in the exact opposite direction, and the article does not
   report Malbim himself on that pasuk.
-- *Aseres HaDibros*: "Ten Sayings" or "Decalogue," which the article says
+- *Aseres HaDibros*: "Ten Sayings" or "Decalogue," which the column says
   "would be better" than the popular "Ten Commandments." Any derashah on
   *dibros* against *maamaros* is lost with "Commandments."
 - Where the pasuk pairs *emor* with *ve'amarta* (Vayikra 21:1), render the first

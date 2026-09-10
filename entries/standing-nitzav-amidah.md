@@ -7,94 +7,112 @@ english: [standing, stationed, taking up a position, remaining standing]
 domain: body
 words:
   - he: מצבה
-    nk: מַצֵּבָה
+    nk: מַצֵּבָה
 sources:
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
-authorities: [Rabbi Tzvi Elimelech Shapiro of Dinov, Rashi, Bereishis Rabbah, Rabbi Shlomo Pappenheim, Malbim, Radak, Metzudas David, Rabbi Shimon Dov Ber Analak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rambam]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Tzvi Elimelech Shapiro of Dinov, Rashi, Bereishis Rabbah, Targum, Targum Sheini, Rabbi Shlomo Pappenheim, Malbim, Radak, Metzudas David, Rabbi Shimon Dov Ber Analak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rambam]
+status: reviewed
+updated: 2026-09-10
 ---
 # Standing: nitzav / amidah
 
 ## Bottom line
 
 *Amidah* is plain **standing**: upright and stationary, the posture opposite
-sitting, lying and walking, with no purpose implied. *Nitzav* is **taking up a
-position**, standing for a reason, in readiness or anticipation. The majority
-reading (Chazal, Pappenheim, Malbim, Mecklenburg) is this purpose distinction,
-not an intensity one. What a translator must not do is render both "stood" in a
-pasuk that switches from one to the other; every source in the field builds on
-exactly those switches.
+sitting, lying and walking, with no purpose implied (Rabbi Shlomo Pappenheim,
+Malbim). *Nitzav* is **taking up a position**, standing for a reason, in
+readiness or anticipation: so the Midrash (*etimos*, "ready"), Pappenheim,
+Malbim (typically with special effort), Rabbi Shimon Dov Ber Analak and Rabbi
+Yaakov Tzvi Mecklenburg. Two other readings stand beside it: Rabbi Tzvi
+Elimelech Shapiro of Dinov, who concedes there are counter-proofs, makes
+*nitzav* standing anew and *amidah* standing already; Rabbi Shlomo Aharon
+Wertheimer makes *nitzav* prolonged standing, so that *amidah* may be
+momentary. The Bottom line follows the purpose reading. What a translator must
+not do is render both "stood" in a pasuk that switches from one to the other;
+the column's sources repeatedly build on exactly those switches, though
+*Metzudas David* holds the two synonymous at Divrei HaYamim II 20:17.
 
 ## Distinctions
 
 ### amidah (עמידה), omed (עומד)
-Over five hundred times in Tanach. Rabbi Shlomo Pappenheim: simply remaining in
-one place in an upright position. The *shittim* beams are *omdim* (Shemos 26:15)
-because they are erect and stay put; the moon at Givon *amad* (Yehoshua 10:13)
-because it halted where it was. Malbim: a general term for the bodily posture
-that is the opposite of sitting, lying or walking. Wertheimer, from the other
-side of his own distinction: *amidah* can even be momentary.
+Over five hundred times in Tanach. Rabbi Shlomo Pappenheim (1740 to 1814):
+simply remaining in one place in an upright position. The *shittim* beams are
+*omdim* (Shemos 26:15) because they are erect and stay in one spot; the moon at
+Givon *amad* (Yehoshua 10:13) to convey that it stagnated in place. Malbim: a
+general term for the bodily posture that is the opposite of sitting, lying or
+walking. By implication of Wertheimer's view of *nitzav* (below), *amidah* could
+even be momentary.
 
 ### nitzav (נצב)
 Frequent in the Mitzrayim narrative: Miriam *vatetatzav* at a distance from the
 basket (Shemos 2:4), the men *nitzavim* to meet Moshe and Aharon on their way
-out from Pharaoh, whom the Gemara (Nedarim 64b) identifies as Dasan and Aviram
-(Shemos 5:20), and Moshe told *v'nitzavta* at the river's edge before makkas dam
-(Shemos 7:15).
+out from Pharaoh and to criticize their efforts, whom the Gemara (Nedarim 64b)
+identifies as Dasan and Aviram (Shemos 5:20), and Moshe told *v'nitzavta* at the
+river's edge before makkas dam (Shemos 7:15).
 
-- Chazal (*Bereishis Rabbah* 48:7, *Shir HaShirim Rabbah* 2:21, *Shocher Tov* to
-  Tehillim 22:19, *Pesikta Rabbasi* 15): *nitzav* means *etimos*, prepared or
-  ready. Targum bears this out, rendering *nitzav* cognates with the root ע-ת-ד,
-  which gives *asid*, prepared (Bereishis 28:13; Shemos 2:4, 8:16, 34:2; Shmuel
-  I 1:16).
-- Pappenheim: *nitzav* is standing for a specific purpose. Yaakov's ladder is
-  *mutzav* (Bereishis 28:12) because it was set up in place so as to be used for
-  going up and down. He traces it to the biliteral צ-ב, stationing, whence
-  *yatziv* (well-grounded), *tzvi* (desire, what stands constantly before one's
+- The Midrash (*Bereishis Rabbah* 48:7, *Shir HaShirim Rabbah* 2:21, *Shocher
+  Tov* to Tehillim 22:19, *Pesikta Rabbasi* 15, *HaChodesh*), which the column
+  offers as a possible counter-proof to Rabbi Shapiro, states explicitly that
+  *nitzav* means *etimos*, Greek *hétoimos*, "prepared, ready"; *Targum Sheini*
+  (to Esther 3:14) uses the same Greek word to render *atidim*, "prepared."
+  Targum often renders *nitzav* cognates with the root ע-ת-ד, which gives
+  *atid*, prepared, future (Bereishis 28:13; Shemos 2:4, 8:16, 34:2; Shmuel I
+  1:16, as the column cites it).
+- Pappenheim: *amidah* is teleologically neutral, while *nitzav* is standing for
+  a specific purpose. Yaakov's ladder is *mutzav* (Bereishis 28:12) because it
+  was purposefully set up standing so as to be used later for going up and down.
+  The column notes that this dovetails with the Midrash and the Targumim. He
+  traces *nitzav* to the biliteral צ-ב, standing or stationing, whence *yatziv*
+  (true, well-grounded), *tzvi* (desire, what stands constantly before one's
   mind), *tzava* (an army, men stationed in formation), *tzavah* (bloated, stuck
-  in place), *tzav* (turtle) and *tzav* (covered wagon). Parts of this are cited
-  by Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) and by the Malbim
-  (*Yair Ohr*).
-- Malbim: *nitzav* is actively and deliberately presenting oneself, standing with
-  effort, whether standing up to enemies, standing before someone important, or
-  standing over something to supervise it. Radak (to Shmuel I 19:20) implies the
-  same.
-- Wertheimer: *nitzav* is prolonged, continuous standing, which is why an
-  erected stone is a *matzeivah*, meant to stand long. On his reading *amidah* is
-  what may be brief.
+  in place), *tzav* (turtle, whose shell makes it look swollen) and *tzav*
+  (covered wagon, shaped like a turtle). Parts of this are cited by Rabbi Yaakov
+  Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) and by the Malbim (*Yair Ohr*).
+- Malbim, echoing Pappenheim: *nitzav* is actively and purposefully standing and
+  presenting oneself, and so typically implies exerting special effort to
+  remain standing, whether standing up to enemies, standing before someone
+  important, or standing over something to supervise it. A similar explanation
+  is implied by Radak (to Shmuel I 19:20).
+- Rabbi Shimon Dov Ber Analak of Siedlce (1848 to 1907): *amidah* is a neutral
+  term for the posture, *nitzav* standing with a telos, waiting or anticipating
+  something (applied at Shemos 18:13-14, below).
+- Wertheimer (1866 to 1935): *nitzav* is prolonged, continuous standing, which
+  is why an erected stone is a *matzeivah*, meant to stand in place a long time.
 
-A minority reading, and its own author concedes counter-proofs: Rabbi Tzvi
-Elimelech Shapiro of Dinov holds that *nitzav* is standing anew (a man who had
-been sitting and rises), while *amidah* fits one already standing. His pesukim:
+Rabbi Tzvi Elimelech Shapiro of Dinov (1783 to 1841), who himself concedes that
+there are multiple counter-proofs: *nitzav* is standing anew (a man who had been
+sitting and rises), while *amidah* fits one already standing. His pesukim:
 *hisyatzvu ur'u es yeshuas Hashem* (Shemos 14:13), where Moshe tells the people
-to change stance for the miracle, against *Avraham odenu omed lifnei Hashem*
-(Bereishis 18:22), where Avraham had been standing already. He applies it to
-Yeshayahu 3:13, *nitzav lariv Hashem v'omed ladin amim*: judging Klal Yisrael is
-a departure from Hashem's default of mercy, so *nitzav*; judging the nations is
-His standing default, so *omed*. Rashi there reads the same pasuk as hasty and
-merciful judgment for Yisrael against thorough judgment for the nations, and
-notes that *omed* carries the sense of something drawn out or held up.
+to recalibrate their stance, as though standing anew, for the miracle, against
+*Avraham odenu omed lifnei Hashem* (Bereishis 18:22), where Avraham had been
+standing already. He applies it to Yeshayahu 3:13, *nitzav lariv Hashem v'omed
+ladin amim*. Rashi there reads the first half as Hashem judging Yisrael, hastily
+and less thoroughly because of His mercy, and the second as judging the nations
+thoroughly, and adds that *omed* implies something delayed or stalled. Rabbi
+Shapiro reflects the same idea: judging Klal Yisrael is a new development
+against Hashem's default of mercy, so *nitzav*; judging the nations is where He
+already stands by default, so *omed*.
 
 ### the word-switches
-Three places where both roots describe one scene, and each source uses the
-switch as its proof:
+Three places where both roots describe one scene:
 
 - Shemos 18:13-14. The narrator: *vayaamod ha'am al Moshe* from morning to
   evening. Yisro: *madua atah yoshev levadecha v'chol ha'am nitzav alecha*.
-  Rabbi Shimon Dov Ber Analak: Yisro assumed they stood in anticipation, each
-  waiting his turn for judgment, so *nitzav*; the narrator says *amidah* because
-  they stood simply as talmidim stand before a rebbi (Rambam, Hilchos Talmud
-  Torah 4:2), which is precisely Moshe's answer, that they came to learn Torah.
+  Rabbi Analak: Yisro thought they stood for a purpose, each waiting his turn for
+  judgment, so *nitzav*; the narrator says *amidah* because they stood simply as
+  a talmid's proper deportment before his rebbi (Rambam, Hilchos Talmud Torah
+  4:2), which is in line with Moshe's answer that they came to learn Torah, not
+  merely to await judgment.
 - Bereishis 24:13 against 24:30. Eliezer davens *hinei anochi nitzav al ein
-  hamayim*, deliberately posted there to find the girl; later, once Rivkah is
-  identified, he is *omed al hagemalim*. Mecklenburg: the second is standing with
-  no further object, just watching the camels.
-- Divrei HaYamim II 20:17. Yehoshafat: *hisyatzvu imdu ur'u es yeshuas Hashem*.
-  *Metzudas David*: he doubles the words to rouse the men, and here they are
-  synonymous. Malbim keeps his distinction: first *nitzav*, exert yourselves to
-  stand and watch, then *amidah*, you need do nothing at all, the miracle will
-  be plain before you.
+  hamayim*, deliberately standing there to seek out the right girl; later, once
+  Rivkah is identified, he is *omed al hagemalim*. Mecklenburg, drawing on
+  Pappenheim: the second is less deliberate, standing to watch the camels with
+  no higher object.
+- Divrei HaYamim II 20:17. Yehoshafat, somewhat echoing Moshe at the sea:
+  *hisyatzvu imdu ur'u es yeshuas Hashem*. *Metzudas David*: he uses both words
+  to rouse the men, and here they are synonymous. Malbim keeps his distinction:
+  first *nitzav*, exert yourselves to stand and watch, then *amidah*, you need do
+  nothing at all, the miracle will be plain before you.
 
 ## Rendering guidance
 
@@ -105,8 +123,8 @@ switch as its proof:
   people stands waiting on you" for Yisro. If both read "stand," Rabbi Analak's
   reading disappears from the page.
 - Yeshayahu 3:13: "Hashem takes His stand to contend, and He stands to judge the
-  nations." Two different English verbs are required; the whole derashah is the
-  switch.
+  nations." Two different English verbs are required; for Rabbi Shapiro the
+  derashah is the switch.
 - Divrei HaYamim II 20:17: "take your stand, stand firm, and see the salvation of
   Hashem." If following *Metzudas David*, "stand fast, stand still" as a rousing
   doublet is fine, but say which reading is taken.
@@ -128,7 +146,9 @@ Somayach, 6 Shvat 5783 (2023-01-28): raw text in
 `sources/whats-in-a-word/raw/10810-parshas-bo-please-stand-up.md`. Primary loci:
 Bereishis 18:22, 24:13, 24:30, 28:12, 28:13; Shemos 2:4, 5:20, 7:15, 8:16,
 14:13, 18:13-14, 26:15, 34:2; Yehoshua 10:13; Shmuel I 1:16, 19:20; Yeshayahu
-3:13; Divrei HaYamim II 20:17; Esther 3:14 (*Targum Sheini*); Nedarim 64b;
-*Bereishis Rabbah* 48:7; *Shir HaShirim Rabbah* 2:21; *Shocher Tov* to Tehillim
-22:19; *Pesikta Rabbasi* 15; Rambam, Hilchos Talmud Torah 4:2; Pappenheim on
-the root צ-ב, cited in *HaKesav VeHaKabbalah* and *Yair Ohr*.
+3:13 with Rashi; Divrei HaYamim II 20:17 with *Metzudas David* and Malbim;
+Esther 3:14 (*Targum Sheini*); Nedarim 64b; *Bereishis Rabbah* 48:7; *Shir
+HaShirim Rabbah* 2:21; *Shocher Tov* to Tehillim 22:19; *Pesikta Rabbasi* 15;
+Rambam, Hilchos Talmud Torah 4:2; Pappenheim on the root צ-ב, cited in
+*HaKesav VeHaKabbalah* and *Yair Ohr*. Shmuel I 1:16 has no form of *nitzav*;
+the verse with one is presumably 1:26 (הַנִּצֶּבֶת עִמְּכָה).

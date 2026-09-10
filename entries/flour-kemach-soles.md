@@ -102,7 +102,7 @@ lammed.
   is live), *soles* = **fine flour**. "Fine flour" is the safe rendering in a
   korbanos context and matches the sifting the Mishnah describes.
 - Do not render *soles* as "semolina." The English word does descend from the
-  Aramaic *semida*, as the article says; but (our point, not the article's)
+  Aramaic *semida*, as the column says; but (our point, not the article's)
   semolina in current English is a coarse durum meal, the opposite of what
   *soles* means.
 - Trap: English "flour" alone will swallow both words. In any passage that

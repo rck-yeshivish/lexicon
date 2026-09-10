@@ -33,7 +33,7 @@ The essay starts from the Yom Kippur confessionals, in which we mimic the vidui
 of the Kohen Gadol in the Beis HaMikdash. The Mishnah (*Yoma* 4:2) relates that
 when the Kohen Gadol confessed his own sins and his household's he admitted
 specifically to three kinds: *chet*, *avon* and *pesha*. These are not
-synonyms, the article says, but different degrees of sin, and the Gemara (Yoma
+synonyms, the column says, but different degrees of sin, and the Gemara (Yoma
 36b) explains *chet* as an inadvertent sin, the state of mind called *shogeg*,
 *avon* as a wanton or intentional sin, *meizid*, and *pesha* as a sin of
 rebellion. The article then adds that there are other ways of explaining the
@@ -101,7 +101,7 @@ such a context *chet* means whatever *chet* means and *avon* whatever *avon*
 means; but when either appears on its own, without the other, it includes all
 types of sin and not only the specific type it otherwise names.
 
-Nor, the article says, is the classifying black and white. In *Hilchos Teshuvah*
+Nor, the column says, is the classifying black and white. In *Hilchos Teshuvah*
 the Rambam codifies the penitent's obligation to confess by saying *chatati,
 aviti, pashati*, the same formula the Kohen Gadol said in the Beis HaMikdash.
 Rabbi Yosef Babad (1801-1874) in *Minchas Chinuch* writes that one need not

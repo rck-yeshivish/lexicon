@@ -9,118 +9,168 @@ words:
   - he: רמח
     tr: romach
     en: spear, lance
-    distinct: the heavy killing weapon, lethal at a single stab even against the highest-ranking man (Ohalei Yehuda); Rav Hirsch ties the root to ramah, "throwing," so it is hurled rather than thrust
+    distinct: the killing weapon, fatal at a single stab to the highest-ranking and the lowliest alike (Ohalei Yehuda); Rav Hirsch hears ramah, "throwing," in the root, so, it seems, it is hurled rather than thrust
   - he: חנית
     tr: chanit
     en: spear (military)
-    distinct: 'from CHET-NUN, "encamping": the spear of the military camp, either the standard camp-issue weapon (Rabbi Shlomo Pappenheim) or the one planted in the ground where it is "camped" (Rabbi Moshe Tedeschi Ashkenazi)'
+    distinct: 'the weapon commonly found in the military camp, from biliteral CHET-NUN, "encamping" (Rabbi Shlomo Pappenheim), or the one stuck in the ground where it is "camped" (Rabbi Moshe Tedeschi Ashkenazi); other derivations in the body'
   - he: כידון
     tr: kidon
     en: javelin, dart
-    distinct: a small romach carried by kings and nobles (Rambam to Keilim 11:8) and thrown at the enemy; Rabbi Shlomo Pappenheim derives it from kad, a jug, for the spikes protruding at its sides
+    distinct: a small romach carried by kings and nobles (Rambam to Keilim 11:8), usually thrown at the enemy (Rabbi Tanchum HaYerushalmi); Rabbi Shlomo Pappenheim ties it to kad, a jug, for the spikes protruding at its sides
   - he: אלונקי
     tr: alunki
     en: lance
-    distinct: a rabbinic word, from Greek lonche (the ancestor of English "lance"); the Persian version was poison-tipped, hence Shmuel's ruling that its victim will not live (Gittin 70a; Rabbi Shmuel Krauss)
+    distinct: a rabbinic word, from Greek lonche, the ancestor of English "lance" (Rabbi Shmuel Krauss); the Persian version was poison-tipped, which is why Shmuel says its victim will not live (Gittin 70a)
 sources:
   - wiaw:11010 "Pinchas: Piercing Spears" (2023-07-08) https://articles.ohr.edu/articles/pinchas-piercing-spears
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Moshe Tedeschi Ashkenazi, Ohalei Yehuda, Rav Hirsch, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rambam, Rabbi Yehoshua Steinberg, Rabbi Tanchum HaYerushalmi, Rabbi Shmuel Krauss]
-status: draft
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Moshe Tedeschi Ashkenazi, Ohalei Yehuda, Rav Hirsch, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rambam, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Tanchum HaYerushalmi, Targum, Rabbi Shmuel Krauss, HALOT, Dr. Raphael Sappan, Avraham Even-Shoshan, Elimelech Klein]
+status: reviewed
 updated: 2026-09-10
 ---
 # Spear: romach / chanit / kidon (alunki)
 
 ## Bottom line
 
-*Romach* is the full-size **spear** or **lance**, the weapon Pinchas took
-(Bamidbar 25:7), and the only one of the three in the Chumash. *Chanit* is the
-**spear** of the army camp, named from *chanah*, encamping. *Kidon* is a smaller
-thrown weapon, **javelin** or **dart**; Rambam calls it a small *romach*.
-*Alunki* is the rabbinic **lance**, a Greek loan-word. Do not get this wrong:
-*romach* and *chanit* are the two standard Biblical spears, and *kidon* is the
-odd one, small and thrown.
+*Romach* is the **spear** or **lance** Pinchas took (Bamidbar 25:7), the only one
+of the three in the Chumash; "spear" is the common translation, and HALOT
+glosses it "lance." *Chanit* is the **spear** (HALOT's gloss too), for Rabbi
+Shlomo Pappenheim the weapon of the military camp, from the "encamping" root.
+*Kidon* is a small *romach* (Rambam), usually thrown at the enemy (Rabbi Tanchum
+HaYerushalmi), so **javelin** or **dart**; HALOT instead gives "hunting
+knife/scimitar," and Targum renders it *romcha*. *Alunki* is the rabbinic
+**lance**, from Greek (Rabbi Shmuel Krauss). Do not get this wrong: the column
+works by etymology and rules on no difference in use, and for Rabbi Krauss all
+three are one weapon; separate English rests on the etymologies and on Rambam's
+"small *romach*," not on a settled distinction.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| רמח | romach | spear, lance | the lethal one, fatal in a single stab even to the exalted (Ohalei Yehuda); thrown, not thrust (Rav Hirsch) |
-| חנית | chanit | spear | the camp weapon, from CHET-NUN "encamping" (Rabbi Shlomo Pappenheim); or the one stuck in the ground (Tedeschi Ashkenazi) |
-| כידון | kidon | javelin, dart | a small *romach* of kings and nobles (Rambam); Targum to Yehoshua 8:18 renders it *romcha* |
-| אלונקי | alunki | lance | rabbinic, from Greek *lonche*; the Persian one was poisoned (Gittin 70a) |
+| רמח | romach | spear, lance | the killing weapon, fatal in a single stab to exalted and lowly alike (Ohalei Yehuda); for Rav Hirsch, it seems, thrown, not thrust; HALOT "lance" |
+| חנית | chanit | spear | the weapon commonly found in the military camp, from CHET-NUN "encamping" (Rabbi Shlomo Pappenheim); or the one stuck in the ground (Tedeschi Ashkenazi); HALOT "spear" |
+| כידון | kidon | javelin, dart | a small *romach* of kings and nobles (Rambam), usually thrown (Rabbi Tanchum HaYerushalmi); Targum to Yehoshua 8:18 renders it *romcha*; HALOT "hunting knife/scimitar" |
+| אלונקי | alunki | lance | rabbinic, from Greek *lonche* (Rabbi Shmuel Krauss); the Persian one was poison-tipped (Gittin 70a) |
 
 ## Where the authorities disagree
 
-**Whether these are three weapons or one.** Rabbi Shmuel Krauss holds *romach*,
-*chanit*, and *kidon* are plain synonyms, with *alunki* a rabbinic fourth; Targum
-to Yehoshua 8:18 renders *kidon* as *romcha*, supporting him for that pair. The
-etymologists keep them apart by root, and the Bottom line follows them.
+**Whether these are three weapons or one.** Rabbi Shmuel Krauss (1866 to 1948)
+writes that *romach*, *chanit*, and *kidon* are all synonyms for the same sort of
+weapon, and adds that the rabbis used a fourth, *alunki*. Targum to Yehoshua 8:18
+renders *kidon* as *romcha*, which the column takes to imply that those two
+weapons are very similar and their names can even be somewhat interchanged.
+HALOT gives each word its own English: *romach* "lance," *chanit* "spear,"
+*kidon* "hunting knife/scimitar." The column sets out to show how each word's
+inner meaning relates to its own root, and does not rule between Rabbi Krauss
+and the separate glosses. The Bottom line renders the words apart on the
+etymologies and Rambam's "small *romach*," and keeps Rabbi Krauss as the
+opposing view.
 
-**How *romach* is built.** Menachem Ibn Saruk, Ibn Janach, and Radak: a plain
-triliteral root REISH-MEM-CHET, used for nothing but this weapon. Rabbi Moshe
-Tedeschi Ashkenazi (*Otzar Nirdafim*): from MEM-CHET, "erase, annihilate."
-*Ohalei Yehuda*: REISH-VAV-MEM ("exalted") fused with MEM-CHET, so the weapon
-annihilates even the highest, which fits Kozbi the Midianite princess and Zimri
-the *nasi* of Shimon; alternatively REISH-MEM ("remove") with CHET-YOD (*chai*),
-a remover of life. Rav Hirsch (to Shemos 15:1, Bamidbar 25:7) keeps that root but
-hears *ramah*, "throw," in it, CHET for HEI, making the *romach* a hurled weapon.
+**How *romach* is built.** Menachem Ibn Saruk (920 to 970), Yonah Ibn Janach
+(990 to 1055), and Radak (1160 to 1235): a triliteral root REISH-MEM-CHET, used
+for nothing but this weapon. Rabbi Moshe Tedeschi Ashkenazi (1821 to 1898,
+*Otzar Nirdafim*): related to biliteral MEM-CHET, "erase, annihilate," for the
+weapon's destructive nature. *Ohalei Yehuda*: a single stab of a *romach* is
+fatal to anyone, exalted or lowly, so the word fuses REISH-(VAV)-MEM ("high,
+exalted") with MEM-CHET, lethal even to the highest-ranking. (The column adds
+that Kozbi was a Midianite princess and Zimri the prince of the tribe of Shimon,
+yet both fell to Pinchas's *romach*.) Alternatively, *Ohalei Yehuda*: REISH-MEM
+("high, lift, remove") with CHET-YOD (*chai*, "life"), a remover of life. Rav
+Hirsch (to Shemos 15:1, Bamidbar 25:7) follows the triliteralists' REISH-MEM-CHET
+but hears in it the similar *ramah*, "throwing, shooting," CHET interchanging
+with HEI; in his view, it seems, the *romach* is used by throwing, not generally
+by stabbing.
 
-**Whether *kidon* is a weapon or armor.** Rabbi Tanchum HaYerushalmi
-(*HaMadrich HaMaspik*): usually a small thrown *romach*, but Golyas wearing "a
-copper *kidon* between his shoulders" (Shmuel I 17:6) shows it can mean a helmet,
-so *kidon* covers an infantryman's gear generally. Radak (to Shmuel I 17:6): even
-there it is a *romach*-like weapon concealed between the shoulders; at Yirmiyahu
-50:42 Radak himself is undecided. The Bottom line follows Radak.
+**Whether *kidon* is a weapon or armor.** Rabbi Tanchum HaYerushalmi (13th
+century, in the Holy Land; *HaMadrich HaMaspik*): the word usually means a small
+*romach* thrown at the enemy, like an arrow or dart, but Golyas wearing "a copper
+*kidon* between his shoulders" (Shmuel I 17:6) implies it can also mean a helmet.
+From this the column suggests, hedged ("it would seem that perhaps"), that
+*kidon* may be a general term for an infantryman's gear, weaponry or armor.
+Radak (to Shmuel I 17:6): even with Golyas the *kidon* is an offensive weapon,
+not armor, something resembling a *romach* that soldiers hid between their
+shoulders; at Yirmiyahu 50:42 Radak seems unsure which of the two it is. The
+Bottom line treats *kidon* as a weapon, with Radak and with Rabbi Tanchum's usual
+sense.
 
-**Where *chanit* comes from.** Ibn Janach and Radak (*Sefer HaShorashim*):
-CHET-NUN-HEI, camping; Menachem Ibn Saruk does not list the word at all. Rabbi
-Shlomo Pappenheim: biliteral CHET-NUN, the weapon of the *machaneh*. Tedeschi
-Ashkenazi: the spear "camped" upright in the ground. *Shoresh Yesha*: the weapon
-camps fear. *Ohalei Yehuda*: from *chadah*, "sharp," NUN for DALET.
+**Where *chanit* comes from.** Ibn Janach and Radak (each in his *Sefer
+HaShorashim*): triliteral CHET-NUN-HEI ("camping, resting, store"); Menachem Ibn
+Saruk, a biliteralist, does not list the word at all. Rabbi Shlomo Pappenheim
+(1740 to 1814), a biliteralist: CHET-NUN, camping as against travelling, the
+weapon commonly found in the *machaneh* and used for military purposes. Then
+three more: Rabbi Tedeschi Ashkenazi, from CHET-NUN-HEI, the spear often stabbed
+into the ground where it would be "camped"; *Shoresh Yesha*, from the same root,
+the weapon military camps fear; and *Ohalei Yehuda*, related to *chadah*,
+"sharp, pointed," which the column supposes is probably by the interchange of
+NUN and DALET.
 
 ## Distinctions
 
 ### romach (רמח)
 Once in the Chumash (Bamidbar 25:7), fourteen more times elsewhere in Tanach.
-Every derivation offered makes it the lethal weapon: annihilating, life-removing,
-or effective even against the most exalted target.
+Commonly translated "spear"; HALOT, "lance." Tedeschi Ashkenazi's and *Ohalei
+Yehuda*'s derivations make it the lethal weapon (annihilating, life-removing,
+effective even against the most exalted target); Rav Hirsch's makes it, it
+seems, a thrown one; for the classical lexicographers the root names this weapon
+and nothing else.
 
 ### chanit (חנית)
-Forty-seven times in Tanach, never in the Chumash. Rabbi Shlomo Pappenheim builds
-a family from CHET-NUN: *machaneh*, a travelling party that has halted and made
-camp (and so a military camp); *anachnu*, parsed as *ana* plus *chnu*, "we who
-are camping together"; *chen*, favor, since one who finds favor is granted room
-to camp in another's thoughts; and *techinah* and *tachanun*, petitions for
-*chen*.
+Forty-seven times in Tanach, never in the Chumash; HALOT, "spear." Rabbi Shlomo
+Pappenheim builds a family from CHET-NUN: *machaneh*, a united party travelling
+from place to place that has collectively halted and made camp, and so a
+military camp, many individuals working together to capture enemy territory or
+defend the homeland; *anachnu*, parsed as *ana* (cognate with *ani*, *anochi*)
+plus *chnu*, "we who are camping together"; *chen*, favor, since one who finds
+favor is granted room to "camp out" in another's thoughts; and *techinah* and
+*tachanun*, petitions to be granted *chen*.
 
 ### kidon (כידון)
 Nine times in Tanach: Yehoshua 8:18, 8:26; Shmuel I 17:6, 17:45; Yirmiyahu 6:23,
-50:42; Iyov 39:23, 41:21. Never in the Chumash. Root KAF-YOD-DALET; Ibn Janach
-links it to *kid*, "misfortune" (Iyov 21:20), so the *kidon* brings misfortune on
-the enemy. Rambam (to Keilim 11:8): a small *romach*, the weapon kings and
-aristocrats carried at all times, which may make the KAF a *kaf hadimyon* on
-*yad*, "like a hand," always with him. Rabbi Yehoshua Steinberg: a metathesis of
-DALET-KAF, "smashed." Rabbi Shlomo Pappenheim: from biliteral KAF-DALET, a vessel
-with ear-like handles jutting sideways, hence *kad*, a jug; the *kidon*'s spikes
-protrude at its sides the same way (as does *neched*, a side branch of a family).
+50:42; Iyov 39:23, 41:21. Never in the Chumash. HALOT, "hunting
+knife/scimitar." The classical lexicographers: root KAF-YOD-DALET; since *kid*
+from that root means "misfortune, suffering" (Iyov 21:20), Ibn Janach suggests
+the *kidon* is named for bringing misfortune on one's enemies. Rambam (to Keilim
+11:8): a small *romach*, the weapon kings and aristocrats typically carried at
+all times. The column suggests, hedged ("perhaps"), that Rambam read the word as
+*yad*, "hand," with the KAF a *kaf hadimyon*: a weapon always with its owner, as
+a hand is. The philologist Rabbi Ernest Klein ("no relation," the column notes):
+probably related to Arabic *kadda* and Ethiopic *kedda*, verbs for "thrusting."
+In a somewhat similar way Rabbi Yehoshua (Jeremy) Steinberg of the Veromemanu
+Foundation proposes a metathesis of DALET-KAF, "smashed," for how a *kidon* might
+smite the enemy. Rabbi Shlomo Pappenheim: from biliteral KAF-DALET, a vessel with
+ear-like handles protruding sideways, whose most basic derivative is *kad*, a
+jug; in a borrowed sense the *kidon* is a *romach* with spikes protruding from
+its sides like a jug's handles (a third derivative is *neched*, "nephew," a side
+offshoot of the family tree).
 
 ### alunki (אלונקי)
-Rabbinic only. Shmuel: one struck by a Persian *alunki* will not live (Gittin
-70a), because the Persian points were poisoned. Rabbi Shmuel Krauss: from Greek
-*lonche*, the same word English "lance" descends from.
+Rabbinic only. Rabbi Shmuel Krauss counts it the rabbis' fourth synonym for this
+weapon; the example given is Shmuel's statement that one struck by a Persian
+*alunki* will not live (Gittin 70a). Rabbi Krauss derives *alunki* from Greek
+*lonche*, the etymon of English "lance." In the Persian version, the same
+paragraph continues, the points were tipped with poison, so one struck by it is
+unlikely to survive.
 
 ## Rendering guidance
 
-- Trap: English "spear" will swallow all three. Reserve "spear" for *chanit*,
-  give *romach* "spear" or "lance" as the passage needs, and always mark *kidon*
-  as smaller and thrown ("javelin," "dart"), so a verse listing two of them does
-  not read as a repetition. Where a pasuk pairs *chanit* and *kidon* (Yirmiyahu
-  6:23, 50:42), "spear and javelin" keeps the heavy weapon and the light missile
-  apart, which is the point of the pairing.
-- Bamidbar 25:7: "spear" is right for *romach*, and it is a fair note that this
-  is the sole appearance of the word in the Chumash.
+- Trap: English "spear" will swallow all three. Following HALOT, "spear" can be
+  reserved for *chanit* and "lance" for *romach* (though the common rendering at
+  Bamidbar 25:7 is "spear"); give *kidon* English marked as smaller, "javelin"
+  or "dart," with Rambam and Rabbi Tanchum, or HALOT's "hunting knife/scimitar."
+  Where *kidon* stands beside *chanit* in one verse (Shmuel I 17:45, Iyov
+  39:23), separate English keeps the verse from reading as a repetition. This is
+  rendering advice, not the column's ruling; for Rabbi Krauss the words are
+  synonyms.
+- Bamidbar 25:7 is the sole appearance of *romach* in the Chumash.
 - Do not carry Modern Hebrew back into a pasuk: modern *kidon* means javelin,
-  bayonet, and bicycle handlebar.
+  bayonet, and bicycle handlebar. The first two, the column says, are clear
+  outgrowths of the Biblical word, since javelin and bayonet are types of spear.
+  For the handlebar, Dr. Raphael Sappan (1927 to 1995), an expert in the
+  development of Modern Hebrew slang, writes in his additions to Even-Shoshan's
+  dictionary that it comes from the phonetic similarity to the French word for a
+  handlebar; alternatively, the columnist's son Elimelech Klein argues that a
+  biker's hands on the handlebar resemble a javelin thrower's on the javelin.
 
 ## Notes for a project
 
@@ -131,10 +181,15 @@ None yet.
 Rabbi Reuven Chaim Klein, "Pinchas: Piercing Spears," What's in a Word?, Ohr
 Somayach, 19 Tammuz 5783 (2023-07-08): raw text in
 `sources/whats-in-a-word/raw/11010-pinchas-piercing-spears.md`. Primary loci
-cited: Bamidbar 25:7; Shemos 15:1; Yehoshua 8:18, 8:26; Shmuel I 17:6, 17:45;
-Yirmiyahu 6:23, 50:42; Iyov 21:20, 39:23, 41:21; Gittin 70a; Rambam to Keilim
-11:8; Radak, *Sefer HaShorashim*, and to Shmuel I 17:6 and Yirmiyahu 50:42;
-*Otzar Nirdafim*; *HaMadrich HaMaspik*. HALOT, Even-Shoshan and Dr. Raphael
-Sappan on modern *kidon*, and the comparative Arabic and Ethiopic derivation of
-*kidon*, are omitted under house rule 9; the article's appendix on *neched*
-(grandson versus nephew) is a separate cluster.
+cited: Bamidbar 25:7; Shemos 15:1 (Rav Hirsch, with Bamidbar 25:7); Yehoshua
+8:18 (with Targum), 8:26; Shmuel I 17:6, 17:45; Yirmiyahu 6:23, 50:42; Iyov
+21:20, 39:23, 41:21; Gittin 70a; Rambam to Keilim 11:8; Ibn Janach's and Radak's
+*Sefer HaShorashim*; Radak to Shmuel I 17:6 and Yirmiyahu 50:42; *Otzar
+Nirdafim*; *Ohalei Yehuda*; *Shoresh Yesha*; *HaMadrich HaMaspik*; HALOT; Rabbi
+Ernest Klein; Dr. Raphael Sappan's additions to Even-Shoshan. The column prints
+the French word as *guidone*; the French is *guidon*. The verses pairing *kidon*
+with *chanit* (Shmuel I 17:45, Iyov 39:23) are read from the text, not cited as
+a pair by the column; at Yirmiyahu 6:23 and 50:42 *kidon* stands beside *keshes*,
+"bow," not *chanit*. The column's closing note on *neched* (nephew versus
+grandson: Rashbam, Rabbi Berechiah HaNakdan's *Dodi V'Nechdi*, *Mincha Belulah*,
+Rabbi Yitzchok Yishaya Weiss) belongs to another cluster and is not carried here.

@@ -62,7 +62,7 @@ of a thing (Vayikra 6:8, Hoshea 14:8, Tehillim 20:4), in the same sense that a
 memory of something is a whiff of that idea and is not it itself.
 
 ### pakad (פקד)
-Root פ-ק-ד. Its range in Tanach is so wide that the article says it is quite
+Root פ-ק-ד. Its range in Tanach is so wide that the column says it is quite
 difficult to pin down its core meaning: to count (Bamidbar 1:21,
 2:32, Shmuel I 15:4), to be missing (Bamidbar 31:49, Yeshayahu 38:10), to
 command (Tehillim 19:9, 119:56, Ezra 1:2), to appoint (Bamidbar 1:50, 31:14,
@@ -168,7 +168,7 @@ name of their father's family.
   **trace** or **scent** (Hoshea 14:8) before defaulting.
 - The article gives Shemos 20:7 for *zachor es yom haShabbos*; the locus is
   Shemos 20:8, and 20:7 is *lo sisa*. The slip is the article's, not ours.
-- The article says that in all but one of the six commandments the Torah uses
+- The column says that in all but one of the six commandments the Torah uses
   *zachor*, without saying which is the exception. Checking the pesukim, the one
   that does not is Devarim 4:9 (*hishamer lecha... pen tishkach*); Devarim 9:7
   does use *zechor*, alongside *al tishkach*. That identification is ours, not

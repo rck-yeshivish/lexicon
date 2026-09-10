@@ -117,7 +117,7 @@ Onkelos's *tikla* for *beka* is the Aramaicized *shekel*, the Hebrew shin
 turning to an Aramaic tav as it often does. The word appears in the writing on
 the wall in Daniel, *mene mene tekel u'farsin*, count, count, weigh and split
 (Daniel 5:25), and the Mishnah (*Shekalim* 6:5) speaks of *taklin chaditin*, new
-*shekalim*, meaning those donated for that year's tax. The article suggests that
+*shekalim*, meaning those donated for that year's tax. The column suggests that
 the name "New Israeli Shekel" may have been coined as a play on that Mishnaic
 expression.
 
@@ -133,7 +133,7 @@ Yonasan used the word only in the general sense of "coin." Modern Hebrew
 Mishnaic *darkon*. As for the coins themselves, the article reports that
 scholars are unsure which are meant, but typically associate these words with
 the Persian *daric* and the Greek *drachma*; the latter name was taken into
-Arabic as the *dirham*, which is still in use, and which the article says may
+Arabic as the *dirham*, which is still in use, and which the column says may
 somehow be related to the surname of Rabbi David Abudraham.
 
 ## Rendering guidance

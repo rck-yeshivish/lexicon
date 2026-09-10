@@ -71,7 +71,7 @@ changes nothing in translation but everything in a derashah.
    root BET-SHIN, which also means "delaying," because shame first delays the
    normal circulation of the blood and reddens the face; *klimah* is the later
    stage, when the blood rushes away and the face pales, and so it comes after
-   *bushah* chronologically rather than in intensity. (The article writes that
+   *bushah* chronologically rather than in intensity. (The column writes that
    *klimah* "proceeds" *bushah*; from the argument it plainly means that
    *klimah* comes later.) *Chafrah*, for Satanow, is the shamed man's reaction:
    he begins to search and "dig" (*chofer*) for an answer to justify what he

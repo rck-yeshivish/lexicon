@@ -70,7 +70,7 @@ his glosses to Shulchan Aruch (*Even HaEzer* 126:30 and 129:7).
 The Aramaic for daughter is *barat*, but the Targumim tend to leave the Hebrew
 *bas* untranslated (Rabbi Eliyahu HaBachur, *Meturgaman*), so *bas* serves in
 Aramaic too; hence *bas mitzvah* even in an Aramaic phrase. Why the boy is a
-*bar mitzvah* rather than a *ben mitzvah* the article says it answered by
+*bar mitzvah* rather than a *ben mitzvah* the column says it answered by
 scouring different sources and coming up with three possible lessons the word
 *bar* may be teaching him. Rabbi David Ovadiah of Tiberias, a nephew of Rabbi
 Ovadiah Yosef, in the name of Rabbi Meir Simcha of Dvinsk (1843-1926): because

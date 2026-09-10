@@ -9,11 +9,11 @@ words:
   - he: מתוק
     tr: matok
     en: sweet
-    distinct: sweetness to the palate, the objective taste that is the opposite of bitter (Vilna Gaon; Rabbi Shlomo Pappenheim), borrowed for anything commonly agreed to be good
+    distinct: sweetness to the palate (Vilna Gaon); for Rabbi Shlomo Pappenheim the objective taste that is the opposite of bitter, borrowed for anything one might argue is good
   - he: ערב
     tr: areiv
     en: pleasing
-    distinct: subjective sweetness, what appeals to this person; used of a voice and a scent, almost never of food (Rabbi Shlomo Pappenheim)
+    distinct: subjective sweetness, what appeals to this person (Rabbi Shlomo Pappenheim); in Tanach used of a voice, on one view in the Gemara of a scent, and of food only once (the article's own survey)
   - he: נעים
     tr: naim
     en: pleasant
@@ -22,48 +22,59 @@ words:
 sources:
   - wiaw:7611 "Sweet and Pleasant" (2018-01-27) https://articles.ohr.edu/articles/sweet-and-pleasant
 authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Sweet: matok / areiv / na'im
 
 ## Bottom line
 
-*Matok* is **sweet** to the tongue, the objective taste opposed to bitter.
-*Areiv* is **pleasing**, sweetness as this particular person finds it, and it
-attaches to a voice or a scent as readily as to food. *Na'im* is **pleasant**,
-the enjoyment itself rather than the property that causes it. The trap is
-rendering all three "sweet": where the Hebrew moves from *matok* to *areiv* it
-has moved from what everyone tastes to what one soul happens to love, and that
-move is usually the point of the passage.
+*Matok* is **sweet** to the tongue; for Rabbi Pappenheim, the objective taste
+opposed to bitter. *Areiv* is **pleasing**: for Rabbi Pappenheim, sweetness as
+this particular person finds it; in Tanach it attaches to a voice, on one view
+to a scent, and to food only once. *Na'im* is **pleasant**: visual appeal for
+the Vilna Gaon, and for Rabbi Pappenheim not a physical property at all but the
+transcendent pleasure of enjoying the thing. The trap is rendering all three
+"sweet": where the Hebrew moves from *matok* to *areiv* it has moved, on Rabbi
+Pappenheim's reading, from what everyone tastes to what one person happens to
+love, and a passage may turn on that move.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מתוק | matok | sweet | gustatory and objective, the opposite of *mar* (Vilna Gaon; Pappenheim) |
-| ערב | areiv | pleasing | subjective and acquired; auditory and olfactory, rarely culinary (Pappenheim) |
+| מתוק | matok | sweet | gustatory (Vilna Gaon); objective, the opposite of *mar* (Pappenheim) |
+| ערב | areiv | pleasing | subjective and acquired (Pappenheim); in Tanach auditory and perhaps olfactory, culinary only once |
 | נעים | na'im | pleasant | visual appeal (Vilna Gaon) or the soul's pleasure in a thing (Pappenheim) |
 
 ## Where the authorities disagree
 
-**What na'im names.** The Vilna Gaon: *na'im* and *noam* are appeal to the eye,
-as *matok* is appeal to the palate, so the two words divide the senses between
-them. Rabbi Shlomo Pappenheim of Breslau: *na'im* names no physical property at
-all; it is the pleasure a person takes in what is sweet, so *matok* and *areiv*
-sit on the object and *na'im* on the one enjoying it. The Bottom line follows
-Pappenheim, because his reading accounts for the usages the Gaon's does not
-(*noam* of Hashem's ways, of Torah, of brothers dwelling together), while the
-Gaon's visual sense fits only part of them. Where a passage plainly means
-something good to look at, the Gaon's reading is the better fit.
+**What na'im names.** The Vilna Gaon: *na'im* and *noam* are visual appeal, as
+*matok* is gustatory appeal. Rabbi Shlomo Pappenheim of Breslau: *na'im* names
+no physical property at all but the transcendent pleasure one derives from
+enjoying something sweet, so that *matok* and *areiv* refer to the physical and
+*na'im* to the sublime. The article sets the two side by side and does not
+choose between them. For rendering (our note): where a passage plainly means
+something good to look at, the Gaon's reading fits, and where it is the pleasure itself, Rabbi
+Pappenheim's.
 
-The two agree on *matok*, and Pappenheim alone treats *areiv*.
+**Where areiv comes from.** According to etymologists, the article reports, the
+origin of *areiv* is unknown, though some linguists suggest it first meant "to
+be well-mixed," related to *arev*, mixed: a glass of wine properly mixed with
+the right proportion of water is pleasant and especially appealing, and on
+their view that is the basis of *areiv* as "sweet." Rabbi Klein, for his part,
+argues from the whole ע-ר-ב family, which in his view always denotes a form of
+connection (see Distinctions). The Vilna Gaon does not directly address *areiv*.
 
 ## Distinctions
 
 ### matok (מתוק)
-Root מ-ת-ק. The Vilna Gaon: *matok* is gustatory appeal, against *na'im*/*noam*
-as visual appeal. Rabbi Shlomo Pappenheim: *matok* is the objective measure of
+Root מ-ת-ק. At Marah Hashem had Moshe cast a tree into the bitter (*mar*)
+waters and made them *matok*, and the article asks how *matok* differs from
+*areiv*. The Vilna Gaon does not directly address that question, but
+distinguishes *matok*, gustatory appeal, from *na'im*/*noam*, visual appeal. In
+Tanach, the article observes, words related to *matok* or *metek* commonly refer
+to culinary sweetness. Rabbi Shlomo Pappenheim: *matok* is the objective measure of
 taste, the kind everyone recognizes as sweet, found in honey, figs and dates,
 and the polar opposite of bitter. From there it was borrowed for anything one
 would argue is good, desirable, or worthwhile. Pappenheim adds a reading of the
@@ -72,48 +83,57 @@ objectively sweet but by contrast, because the bitterness they had was gone.
 
 ### areiv (ערב)
 Root ע-ר-ב. Pappenheim: against *matok*, *areiv* is a *subjective* sweetness, an
-acquired taste and a matter of personal preference. One with an appetite for
-bitter food could say "bitter is *areiv* to me," but never "bitter is *matok* to
-me." The distribution in Tanach matches: *areiv* is used of a voice (Shir
-HaShirim 2:14, "your voice is *areiv*"), and, on one view in Berachos 43a, of a
-scent, in the berachah *borei shemen areiv* over balsam oil; a culinary *areiv*
-is rare (Mishlei 20:17).
+acquired taste and a matter of personal choice. One with an affinity for bitter
+food might say "bitter is *areiv* to me," but not "bitter is *matok* to me."
+
+Before bringing Rabbi Pappenheim, the article surveys the usage on its own
+account: *areiv* never appears in a gastronomical context in Tanach except
+Mishlei 20:17; it is used of a voice (Shir HaShirim 2:14, "your voice is
+*areiv*"), and one opinion in Berachos 43a has the berachah over balsam oil as
+*borei shemen areiv*, which suggests it also applies to scent. So it seems that
+*matok* refers specifically to a sweet taste, while *areiv* can also refer to a
+sweet voice and a sweet scent.
 
 The column offers a further reading of its own: every group of words built on
 ע-ר-ב denotes a joining of things that were apart. An *arev* is a guarantor,
 tying lender to borrower; *erev* joins day to night; *taarovet* and *irbuv* are
 mixtures; the *eirev* is the woof running through the warp; an *eruv* makes many
 domains one; the plague of *arov* was an assortment of beasts; the *erev rav*
-were a mixed multitude. On this reading *areiv* is sweetness as the thing that
-draws the beholder toward the object, a bond rather than a quality.
+were a mixed multitude. So too *areiv*: sweetness creates a connection between
+the object and the one who beholds it, and the more pleasing a thing is, the
+more one wants to come closer to it, so sweetness, as the impetus for that
+link, is related to the words for binding. He frames this as parallel to Rabbi
+Pappenheim's *na'im*.
 
 ### na'im (נעים)
 Root נ-ע-ם. Vilna Gaon: visual appeal. Pappenheim: not a physical property but
 the transcendent pleasure of enjoying something sweet, so that *matok* and
 *areiv* speak of the physical and *na'im* of the sublime. He notes that the last
-two letters of the root spell *im*, "with," since the soul binds itself to what
-it finds pleasant. Both Pappenheim's *na'im* and the column's *areiv* thus turn
-on joining, which is why the two words often stand close in a pasuk.
+two letters of the root spell *im*, "with," since the soul tends to bond with
+what it finds pleasant; so *na'im*/*noam* is the spiritual pleasantness that
+binds disparate entities and joins them together.
 
 ## Rendering guidance
 
-- מתוק: "sweet," and keep it for the tongue. In a mussar passage where the
-  sense is borrowed ("sweet to him are the words of Torah"), "sweet" still
-  carries; the word itself is a borrowing.
+- מתוק: "sweet," and keep it for the tongue. Where the sense is borrowed (for
+  anything one might argue is good), "sweet" still carries; the word itself is
+  a borrowing.
 - ערב: "pleasing," or "pleasant to him" where the subject matters. Reserve
   "sweet" for *matok*; if *areiv* has to be "sweet" in a liturgical line
   (*ve'haarev na*, "make the words of Your Torah sweet in our mouths"), keep
   the personal sense visible in the surrounding words.
 - נעים: "pleasant." Not "sweet," even where the parallelism tempts it.
-- Trap: English "sweet" will absorb *matok* and *areiv* without complaint. It
-  should not, because the two prayers that use *areiv* are chosen deliberately
-  over *matok*: we ask that the Torah be *areiv* in our mouths, appealing to us
-  personally, and that our prayers be *areiv* before Hashem, favored by Him,
-  since a korban has no intrinsic value of its own but only what Hashem's
-  command gives it. Render both with "sweet" and the argument disappears.
+- Trap: English "sweet" will absorb *matok* and *areiv* without complaint. Rabbi
+  Klein suggests, with a "perhaps," why the two prayers use *areiv* rather
+  than *matok*: we ask that the Torah be *areiv* in our mouths because we want
+  it to appeal to us personally, and this might also be why we ask that our
+  prayers be *areiv* before Hashem like korbanos, since, as opposed to
+  paganism, a korban has no intrinsic value but only the value of Hashem's
+  command, so it should appeal to Him by His personal favor. Render both with
+  "sweet" and that suggestion disappears.
 - When two of them stand in one phrase, translate for the axis, not the
-  temperature: *matok* is what it is, *areiv* is what it is to you, *na'im* is
-  the pleasure of having it.
+  temperature (on Rabbi Pappenheim's scheme): *matok* is what it is, *areiv* is
+  what it is to you, *na'im* is the pleasure of having it.
 
 ## Notes for a project
 
@@ -125,8 +145,9 @@ Rabbi Reuven Chaim Klein, "Sweet and Pleasant," What's in a Word?, Ohr
 Somayach, 11 Shevat 5778 (2018-01-27):
 https://articles.ohr.edu/articles/sweet-and-pleasant; raw text in
 `sources/whats-in-a-word/raw/7611-sweet-and-pleasant.md`. Primary loci cited:
-Shemos 15:23-25 (Marah, *mar* and *matok*); Shir HaShirim 2:14; Mishlei 20:17;
-Berachos 43a (*borei shemen areiv*); the *ve'haarev na* berachah of Birchos
-HaTorah and the *ve'se'erav lefanecha* passage before Birkas Kohanim in the
-Yom Tov Mussaf. A closing paragraph of the article reporting non-traditional
-etymologists on the origin of *areiv* is omitted here under house rule 9.
+Shir HaShirim 2:14; Mishlei 20:17; Berachos 43a (*borei shemen areiv*); the
+*ve'haarev na* berachah of Birchos HaTorah and the *ve'se'erav lefanecha*
+passage before Birkas Kohanim in the Yom Tov Mussaf. The article tells the
+Marah episode without a verse; Shemos 15:23-25 is supplied here. The Vilna
+Gaon and Rabbi Pappenheim are cited without a work. The etymologists and
+linguists on the origin of *areiv* are unnamed in the article.

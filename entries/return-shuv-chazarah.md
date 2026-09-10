@@ -83,7 +83,7 @@ amends, in the same way that *hashavah* and *lehashiv* fill holes previously
 created by thievery or by a question.
 
 ### chazarah (חזרה)
-Part of the *teshuvah* process, the article says, entails making an about-face
+Part of the *teshuvah* process, the column says, entails making an about-face
 and figuratively turning oneself around in a circle to correct course, and the
 Hebrew word for that is *chazarah*. Neither *chazarah* nor its verbs
 *chazar*/*chozer* occur anywhere in Tanach; they are Rabbinic (Mishnaic) Hebrew,

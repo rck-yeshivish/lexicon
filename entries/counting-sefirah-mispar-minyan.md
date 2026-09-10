@@ -93,7 +93,7 @@ not the raw numbers but improving oneself, cleansing oneself of impurities; and
 he connects *sefirah* to *sapir*, the sapphire, since the counting cleanses a
 person as a precious gem is free of impurities.
 
-The name *Sefiras HaOmer* comes, the article explains, from the count's joining
+The name *Sefiras HaOmer* comes, the column explains, from the count's joining
 the annual barley offering brought on the second day of Pesach, the *Korban
 Omer*, to the annual wheat offering of Shavuos. And halachically each day of the
 Omer may be reckoned a separate mitzvah, so that one who misses a whole day

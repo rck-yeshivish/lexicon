@@ -17,8 +17,8 @@ words:
   - he: רגל
     tr: leragel
     en: spy out
-    nk: רִגֵּל
-    distinct: searching out weakness and vulnerability (Rabbi Yaakov Tzvi Mecklenburg); the verb Devarim uses in hindsight, and the root of regel, the lowest part of the body
+    nk: רִגֵּל
+    distinct: searching out weakness and vulnerability (Rabbi Yaakov Tzvi Mecklenburg); the verb Devarim uses in hindsight, derived, Rabbi Klein suggests, from regel, the foot, the lowest part of the body
   - he: מרגלים
     tr: meraglim
     en: spies
@@ -30,8 +30,8 @@ words:
     distinct: Devarim 1:22, digging deliberately for damning information; kin to cherpah, disgrace (Rabbi Yaakov Tzvi Mecklenburg)
 sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
-authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKtav VeHaKabbalah)]
-status: draft
+authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKtav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson]
+status: reviewed
 updated: 2026-09-10
 ---
 # Spying: latur / leragel (tarim, meraglim)
@@ -41,9 +41,10 @@ updated: 2026-09-10
 The two verbs are not interchangeable. *Latur* is to **scout out** with an eye
 for what is good; *leragel* is to **spy out** with an eye for what is weak
 (Rabbi Yaakov Tzvi Mecklenburg). Bamidbar calls Moshe's twelve *tarim*,
-**scouts**, throughout, and never *meraglim*; only Devarim, looking back, uses
-*vayachperu* and *leragel*. A translation that calls them "the spies" in
-Bamidbar has already decided the parashah's question.
+**scouts**, throughout; Tanach never calls them *meraglim*, the traditional
+name, which is drawn from the verb Devarim uses looking back (*leragel*,
+alongside *vayachperu*). A translation that calls them "the spies" in Bamidbar
+has already decided the parashah's question.
 
 ## At a glance
 
@@ -51,41 +52,63 @@ Bamidbar has already decided the parashah's question.
 |---|---|---|---|
 | תור | latur | scout out | looking for the good in a place (Mecklenburg) |
 | תרים | tarim | scouts | Moshe's twelve, as Bamidbar names them |
-| רגל | leragel | spy out | looking for weakness (Mecklenburg); from regel, the lowest limb |
+| רגל | leragel | spy out | looking for weakness (Mecklenburg); from regel, the lowest limb (Rabbi Klein, hedged) |
 | מרגלים | meraglim | spies | Yosef's brothers, Yehoshua's two men; never Moshe's twelve |
 | חפר | vayachperu | dig up | mining for damning information; kin to cherpah (Mecklenburg) |
 
 ## Distinctions
 
 ### latur (תור) and tarim (תרים)
-Rabbi Yaakov Tzvi Mecklenburg: *latur* is the search for advantages. Hashem had
-already promised the Land, so Moshe's errand was not military reconnaissance; it
-was meant to strengthen the nation's conviction by having them see and report
-the good of the Land. That is why Bamidbar, describing the mission as it was
-given, uses only cognates of *latur*.
+Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865): *latur* is the search for the
+good, the positive attributes of what is being scouted. The column explains the
+mission on those lines: Hashem had already promised the Land, and they were
+destined to conquer it no matter what, so Moshe's errand was not for
+conventional military reasons; it was meant to strengthen the nation's
+conviction by having the men see the good of the Land and report it. In the end
+they betrayed the mission and gathered the Land's perceived disadvantages
+instead. Because they were commissioned to look for the good, Bamidbar always
+describes them and their actions as *tarim*.
+
+Two English asides frame the column. Conventional linguists trace "tourist" to
+Old French *tourner*, "to turn"; Dr. Isaac Elchanan Mozeson, whom the column
+calls an unconventional linguist, finds its origin in Hebrew *tor*, and the
+column finds the likeness striking, *tarim* being, so to speak, "tourists" who
+explore a land for positive information. David Curwin notes a conceptual link
+between *tor*, "scout," and *tor*, "dove": doves first appear in Tanach when
+Noach sends one from the Teivah to explore the land, expected to report
+something positive.
 
 ### leragel (רגל) and meraglim (מרגלים)
-The search for vulnerability. Devarim, spoken forty years later, drops the
-earlier verb: *vayachperu lanu es haaretz* (Devarim 1:22) and *vayeraglu osah*
-(Devarim 1:24). Rabbi Yaakov Tzvi Mecklenburg reads *vayachperu* from
-*chafirah*, digging, and ties it to *cherpah*, disgrace: they mined for what
-would shame the Land. The root of *leragel* is *regel*, the foot, the body's
-lowest part, which suits a search for a place's lowest features. The noun
-*meraglim* never describes Moshe's men in Tanach; it is drawn from the Devarim
-verb. It does appear of Yosef's brothers, seven times and every time as an
-accusation (Bereishis 42), and of the two men Yehoshua sent to Yericho to find
-the city's weak points (Yehoshua 2:1). Midrashic tradition identifies those two
-as Kalev and Pinchas; another Midrash names Peretz and Zerach.
+The search for weakness and vulnerability (Mecklenburg). Devarim, which Moshe
+spoke about forty years later, describes the men's actions with other words:
+*vayachperu lanu es haaretz* (Devarim 1:22) and *vayeraglu osah* (Devarim 1:24).
+The first is the verb of digging, the deliberate mining of damning information,
+and Rabbi Mecklenburg points out that *chafirah*, digging, is related to
+*cherpah*, disgrace: here, digging for negative information about the Land.
+Rabbi Klein adds, hedged ("perhaps we can add"), that *leragel* derives from
+*regel*, the foot, the body's lowest part, and so fits a search for a place's
+lowest features.
+
+The noun *meraglim* never describes Moshe's men in Tanach; it is drawn from the
+Devarim verb. It does appear when Yosef, as viceroy, accuses his brothers of
+being spies, seven times and in a decidedly negative context (Bereishis 42), and
+of the two unnamed men Yehoshua sent to scout the vulnerabilities of Yericho
+(Yehoshua 2:1); these and the other instances denote people sent to expose an
+enemy's weaknesses. The popular Midrashic understanding is that Yehoshua's two
+men were Kalev and Pinchas; Pseudo-Philo identifies them as Kenaz and
+Seenamias, the sons of Kalev; another Midrash says they were Peretz and Zerach,
+Yehudah's twin sons.
 
 ## Rendering guidance
 
 - Bamidbar 13-14: "scout out the Land," "the scouts." Reserve "spies" for where
   the Hebrew has a cognate of *ragel*.
-- Devarim 1:22-24: "and they dug out the land for us," then "and they spied it
-  out." The shift in verbs is the point of Moshe's retelling and must survive
-  into English.
-- Bereishis 42 and Yehoshua 2:1: "spies" is right, and the negative charge is
-  intended in both.
+- Devarim 1:22-24: the digging verb, then "and they spied it out." The shift in
+  verbs carries Devarim's hindsight and must survive into English. At 1:22 the
+  verb stands in the people's request ("that they may dig out the land for us").
+- Bereishis 42 and Yehoshua 2:1: "spies" is right. In Bereishis 42 the context
+  is decidedly negative; in Yehoshua 2:1 the men are sent to find the city's
+  vulnerabilities.
 - Trap: English "spy" absorbs both roots, and the traditional name *meraglim*
   for Moshe's men pulls a translator toward it even where the Hebrew says
   *tarim*. Where a passage quotes both the Bamidbar and the Devarim account,
@@ -102,7 +125,9 @@ Rabbi Reuven Chaim Klein, "Spy versus Spy," What's in a Word?, Ohr Somayach,
 23 Sivan 5777 (2017-06-17): https://articles.ohr.edu/articles/spy-versus-spy;
 raw text in `sources/whats-in-a-word/raw/7302-spy-versus-spy.md`. Primary loci:
 Bamidbar 13-14; Devarim 1:22, 1:24; Bereishis 42; Yehoshua 2:1; Rabbi Yaakov
-Tzvi Mecklenburg, *HaKtav VeHaKabbalah*. The article's opening and closing
-paragraphs on English "tourist" and on a non-traditional identification of
-Yehoshua's two men are omitted here. On *chafirah* see the entries
+Tzvi Mecklenburg, *HaKtav VeHaKabbalah*; Pseudo-Philo; Dr. Isaac Elchanan
+Mozeson; David Curwin. The column transliterates Devarim 1:22 as *vayachperu*;
+the verse reads וְיַחְפְּרוּ, part of the people's request to Moshe, not a
+narrative past. Noach's bird is called *yonah* (Bereishis 8:8), so Curwin's link
+to *tor* runs through the bird, not the word. On *chafirah* see the entries
 `dig-karah-chafirah-chatzivah.md` and `shame-bushah-klimah-cherpah.md`.

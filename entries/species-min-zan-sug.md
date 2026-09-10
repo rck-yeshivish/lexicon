@@ -10,120 +10,179 @@ words:
     nk: מִין
 sources:
   - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
-authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Ralbag, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, pseudo-Rashi, Ralbag, Targum, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Rambam, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal, Professor Avi Hurvitz, Dr. Menachem Zvi Kaddari]
+status: reviewed
+updated: 2026-09-10
 ---
 # Species: min / zan / sug
 
 ## Bottom line
 
 *Min* is the Torah's word: **kind** or **species**, a grouping of individuals
-that share defining properties. *Zan* is its Aramaic equivalent, the word Targum
-uses for every *min* in Tanach; in its three Hebrew appearances the meforshim
-argue whether it means "type" at all. *Sug* is post-biblical and, in the
-language of logic, the **genus** above the *min*: Rambam through Rabbi Moshe Ibn
-Tibbon, and Ramchal, make *sug* the parent category and *min* the child. The one
-thing not to get wrong: *min* is not the modern biological species. Ramban and
-the Ran already say the Torah's *minim* need not map onto the taxonomies of
-today, so "species" in a translation should be understood as "kind."
+alike enough in their properties to be classed as one kind (Ibn Janach, Radak).
+*Zan* means the same in Aramaic, the word Targum uses for every *min* in Tanach
+(Rabbi Eliyahu HaBachur); Professor Avi Hurvitz calls it the Late Biblical
+Hebrew equivalent of Classical *min*, and Dr. Menachem Zvi Kaddari an Old Persian
+loanword; in its three Hebrew appearances the meforshim argue whether it means
+"type" at all. *Sug* is post-biblical, in the Mishnah a big container, and in
+the language of logic the **parent category** (genus) above the *min* (Rambam in
+Rabbi Moshe Ibn Tibbon's translation, Rabbi Shmuel Ibn Tibbon, the Ran,
+Ramchal). The one thing not to get wrong: the Torah's *minim* do not necessarily
+line up with the species of modern botany and zoology, as the column notes; the
+Ran reads the *minim* of the Teivah as the ancestors of today's species, though
+Ramban answers the Teivah's capacity with a miracle instead. So "species" in a
+translation should be understood as "kind."
 
 ## Distinctions
 
 ### min (מין)
-Thirty appearances in Chumash, most of them in Shemini and its parallel: the
-non-kosher birds "and its kind" (Vayikra 11:14-19, Devarim 14:13-18), the kosher
-grasshoppers (Vayikra 11:22), the impure creeping things (Vayikra 11:29). It
-appears in Bereishis for the kinds of plants (1:11-12), animals (1:24-25) and
+Thirty appearances in the Chumash, a plurality of them in Shemini: the
+non-kosher birds "and its kind" (Vayikra 11:14-19, and Devarim 14:13-18), the
+kosher grasshoppers (Vayikra 11:22), the impure creeping things (Vayikra 11:29).
+It appears in Bereishis for the kinds of plants (1:11-12), animals (1:24-25) and
 creeping creatures (1:21, 1:25), and in the account of the Teivah (Bereishis
-6-7). Outside Chumash it occurs once (Yechezkel 47:10). Ibn Janach and Radak
-(*Sefer HaShorashim*): a *min* is a set of individuals alike enough in their
-properties to be classed as one kind. Ibn Janach adds that *man*, the manna, is
-from *min*: a kind of food they could not classify, "for they did not know what
-it was" (Shemos 16:15).
+6-7). Outside the Chumash it occurs once (Yechezkel 47:10). Ibn Janach and Radak
+(*Sefer HaShorashim*): a *min* is a grouping of similar individuals sharing
+certain properties, so that they are said to be of one kind and classed
+together. Ibn Janach adds that *man*, the manna, is from *min*: a "type" of food
+they could not categorize, "for they did not know what it was" (Shemos 16:15).
 
-Rabbi Shlomo Pappenheim takes the two-letter root מ-נ as the making of order out
-of causes and effects. Its lead derivative is *moneh* and *minyan*, counting,
-which orders a set by quantifying it; *min* follows, since classification is
-deciding what counts within a grouping and what does not. Shadal (to Shemos
-20:4) and Pappenheim both attach *temunah*, an image, to the same root: a
-*temunah* is a representation close enough to show the kind but not identical to
-any one individual, so that grouping unlike things under one name is itself a
-kind of approximation. (Rav Hirsch to Shemos 20:4 distinguishes *pesel* from
-*temunah*.) Shadal extends this to *min* in the sense of heretic: each has his
-own belief, yet they fall under one heading. Rabbi Eliyahu HaBachur (*Sefer
-HaTishbi*) derives that sense differently, from the idol Meni (Yeshayahu 65:11).
+Shadal (Rabbi Shmuel David Luzzatto, 1800 to 1865, to Shemos 20:4) takes
+*temunah*, an image, from MEM-(VAV)-NUN, which he relates to the Arabic cognate
+*mana*, "lie, false": a *temunah* is a picture that pretends to mimic something
+but cannot be a perfect representation of it. A step further, *min* is a group
+of things that look alike enough but are not exactly the same, so that grouping
+them together is, in a way, something of a "falsehood." Shadal compares this to
+Latin *species*, from "seeing," borrowed for things that "appear" similar enough
+to be categorized together; the column adds that *species* descends from the
+Proto-Indo-European root *spek-*, ancestor of *spectacle*, *special*, *aspect*,
+*suspect*, *scope* and others. Shadal extends the sense to *min*, heretic: each
+heretic's belief differs slightly from the next, yet they all fall into one
+category. Rabbi Eliyahu HaBachur (1469 to 1549, *Sefer HaTishbi*) takes a
+different approach, associating *min* in this sense with the pagan deity Meni
+(Yeshayahu 65:11).
 
-*Minnim* at Tehillim 150:4, "praise Him with *minnim* and pipe," is contested.
-Rav Saadia Gaon reads it as *minim*, an ensemble of types of instrument sounding
-as one (so too Ibn Ezra, *Sefas Yeser* 95, and to Tehillim 150:4 and Daniel
-3:5); Pappenheim reads a single instrument combining features of all the types.
-Donash Ibn Labrat objects that the *dagesh* in the *nun* marks *minnim* off from
-*minim*, making it the name of a particular instrument and unrelated to *min*;
-*Machberes Menachem*, Ibn Janach, Radak and Rashi (to Tehillim 150:4) take that
-side. Rabbi Yehoshua Steinberg suggests *minnim* is a metathesis of *nimim*,
-strings, hence a stringed instrument.
+Rabbi Shlomo Pappenheim (1740 to 1814) takes the two-letter root מ-נ as
+"creating order out of causes and effects." One group of its derivatives is
+headed by *moneh* and *minyan*, counting, which creates mathematical order by
+quantifying a set of givens; *min* derives from it too, since it likewise
+determines what belongs in one grouping and what is excluded (in the column's
+colloquial gloss, what "counts" and what does not). Like Shadal, Pappenheim
+connects *temunah* to *min*, on his own reasoning: a *temunah* is a relatively
+vague picture that may show a certain species without being the image of any one
+individual in it, as a drawing shows a cow but not which cow. (See also Rav
+Hirsch to Shemos 20:4, who distinguishes *pesel* from *temunah*.)
 
-On whether the Torah's *minim* are today's species: Ramban (to Bereishis 6:19)
-holds that a miracle let the Teivah hold specimens of them all; Rabbeinu Nissim
-of Gerona (to Bereishis 6:14) holds instead that the *minim* of the Teivah were
-the ancestral kinds, from before they differentiated into the many kinds known
-now, so that far fewer were aboard.
+*Minnim* at Tehillim 150:4, "praise Him with *minnim* and pipe," is the only
+appearance of the instrument, possibly a *hapax legomenon*, and it is contested.
+Rav Saadia Gaon (892 to 942) explains *minnim* as the same as *minim*, the plural
+of *min*, seemingly an ensemble of types of instrument creating one unified
+sound (see also Ibn Ezra, *Sefas Yeser* 95, and to Tehillim 150:4 and Daniel
+3:5). Or, as Pappenheim prefers, a single instrument that somehow incorporates
+elements of all the types (percussion, string and wind). Donash Ibn Labrat (920
+to 990) disagrees with Rav Saadia: the *dagesh* in the *nun* sets *minnim* apart
+from *minim*, making it the name of a specific instrument unrelated to *min*;
+this seems to be the approach of *Machberes Menachem* (entry on מ-נ), Ibn Janach
+and Radak (each in his *Sefer HaShorashim*) and Rashi (to Tehillim 150:4). Rabbi
+Yehoshua (Jeremy) Steinberg of the Veromemanu Foundation proposes that *minnim*
+is a metathesis of *nimim*, "hairs, strings," and so specifically a stringed
+instrument.
+
+On whether the Torah's *minim* are today's species: the column notes that
+ancient ways of categorizing flora and fauna do not necessarily line up with the
+taxonomy of modern botanists and zoologists, and that the Torah might group
+things by different criteria. It illustrates from the Teivah, whose known
+dimensions could not hold every known species. Ramban (to Bereishis 6:19), the
+first to address the question, posits a miracle that let the Teivah house
+specimens of all those species. Rabbeinu Nissim of Gerona (to Bereishis 6:14)
+answers differently: the *minim* the Torah names there do not correspond to the
+species known today but are their ancestors from before they differentiated, so
+there were far fewer *minim* on the Teivah than one might think.
 
 ### zan (זן)
 Three times in the Hebrew of Tanach (twice in Tehillim 144:13, once in Divrei
 HaYamim II 16:14) and four times in the Aramaic (Daniel 3:5, 3:7, 3:10, 3:15),
-where *zenei zemara* is glossed by Rashi as *minei zemer*, kinds of music. Rabbi
-Eliyahu HaBachur (*Meturgeman*): Targum renders every biblical *min* as *zan*.
-In Hebrew it is disputed. "Our storehouses full, producing from *zan* to *zan*"
-(Tehillim 144:13): Menachem and Rashi tie it to *mazon*, so nourishing foods;
-Ibn Janach reads it broadly as kinds of food; Rav Hirsch (to Tehillim 144:13)
-leaves the choice open; Radak takes the first way in *Sefer HaShorashim* s.v.
-זון and the second elsewhere and in his commentary there. "Spices and *znim*"
-burned for Asa (Divrei HaYamim II 16:14): *Machberes Menachem*, pseudo-Rashi and
-Ralbag read a particular kind of fragrance, not "types"; Ibn Janach and Radak
-read types of incense. Pappenheim, who avoids explaining Hebrew from Aramaic,
-derives both Hebrew forms from the two-letter ז-נ, sustenance and the meeting of
-needs: the first from *mazon*, the second from *zenus*, a spice serving as an
-aphrodisiac (see *Bava Kamma* 16b).
+where *zenei zemara* (Daniel 3:5) is glossed by Rashi as *minei zemer*, types of
+song or music. Rabbi Eliyahu HaBachur (*Meturgeman*): every time *min* appears
+in Tanach, Targum renders it *zan*. The Aramaic *zan* clearly means "type" or
+"sort"; the Hebrew is more debatable. "Our storehouses full, producing from *zan*
+to *zan*" (Tehillim 144:13): Rav Hirsch (there) seems unsure whether the Hebrew
+*zan* is related to *mazon*, "sustenance," and means types of nourishing food,
+as Menachem and Rashi explain, or to the Aramaic *zan*, meaning more broadly
+types of food, as Ibn Janach explains. Radak in *Sefer HaShorashim* (s.v. זון)
+takes the first approach, but elsewhere (there s.v. פוק, and in his commentary
+to Tehillim 144:13) the second. "Spices and *znim*" burned in honor of King Asa
+at his death (Divrei HaYamim II 16:14): *Machberes Menachem* reads a specific
+kind of spice or fragrance, not "types," and pseudo-Rashi and Ralbag (there)
+adopt that; Ibn Janach (*Sefer HaShorashim*) and Radak (to Divrei HaYamim II
+16:14) read types of incense. So at all three Hebrew appearances the meforshim
+debate whether it means what the Aramaic means.
+
+Rabbi Pappenheim, whose way is to set aside Aramaic meanings as far as possible
+in favor of uniquely Hebrew explanations, ignores the possibility of a Hebrew
+*zan* equal to the Aramaic and derives both Hebrew forms from the two-letter ז-נ,
+sustenance and the fulfillment of needs: the first *zan* from *mazon*; the
+second as related to *zenus*, lust (a vice that comes from overindulging in
+sustenance), since it was a type of spice that served as an aphrodisiac (see
+*Bava Kamma* 16b).
+
+If *zan* and *min* do mean the same thing, the column suggests they are still
+not quite synonymous, because they come from different languages. From where in
+Tanach each word appears, Professor Avi Hurvitz argues that *zan* is simply the
+Late Biblical Hebrew equivalent of the Classical Biblical Hebrew *min*. Dr.
+Menachem Zvi Kaddari (1925 to 2011), in his dictionary of Biblical Hebrew,
+proposes that *zan* is a loanword from Old Persian *zana*, "type, class."
 
 ### sug (סוג)
-Not in Tanach in this sense. In the Mishnah *sug* is a large container: produce
-bought wholesale may not be tithed from one portion for the whole even if it
-came in one *sug* and is all one *min* (*Demai* 5:6), and a *sug* is listed
-among vessels susceptible to *tumah* (*Keilim* 16:3). A category may be
-understood as a conceptual container, admitting what meets its criteria and
-shutting out the rest; on that reading *sug* belongs with ס-ג, setting a
-boundary or fence, which yields *sugah* (Shir HaShirim 7:3) and *siyag* (*Avos*
-1:1). Its reverse, ג-ס, yields words of mixing, army, coarseness and undue
-familiarity, all of them the breaking down of a boundary.
+Not in Tanach in the sense of "type," "category," or "species"; a later
+neologism took on that meaning. In the Mishnah *sug* appears twice as a big
+container: produce bought in bulk from a wholesaler may not be tithed from one
+portion to exempt the whole load, even if it was all sold in one *sug* and is all
+one *min* (*Demai* 5:6), and a *sug* is listed among vessels susceptible to
+*tumah* (*Keilim* 16:3). Rabbi Klein's own proposal, hedged ("perhaps"): a
+category is a conceptual container, an abstract vessel that includes what meets
+its criteria and excludes the rest; he therefore derives *sug* from biliteral
+ס-ג, "create a boundary, fence," which yields *sugah* (Shir HaShirim 7:3) and
+*siyag* (*Avos* 1:1). Its polar opposite, ג-ס, yields words for mixing, an army,
+the overly thick, and the familiar or intimate, all of them crossing a line in
+breaking down boundaries.
 
-As a term of logic, *sug* is the genus and *min* the species: Rabbi Moshe Ibn
-Tibbon's translation of Rambam's *Milos HaHigayon* 10, Rabbi Shmuel Ibn Tibbon's
-*Peirush HaMilos HaZaros*, and the Ran's *Derashos* 12. Ramchal (*Derech
-Tevunos* 11:9) adds that the pair is relative, not fixed: mankind is a *min*
-within the *sug* of living creatures, but living creatures is itself a *min*
-within the *sug* of physical entities. The parent-child relation holds even as
-the terms move.
+As a term of logic: Rabbi Moshe Ibn Tibbon's translation of Rambam's work on
+logic (*Milos HaHigayon* 10) explains *min* as a category that includes
+multiple like items and *sug* as the parent category (hypernym) that includes
+multiple like *minim*; the same understanding is evident in Rabbi Shmuel Ibn
+Tibbon's *Peirush HaMilos HaZaros* and the Ran's *Derashos* (*Derush* 12). In
+standard logical English, *sug* is the genus and *min* the species. Ramchal
+(Rabbi Moshe Chaim Luzzatto, 1707 to 1746, *Derech Tevunos* 11:9) expands with an
+example: mankind is a *min* within the *sug* of living creatures, but compared
+with physical entities, living creatures becomes a *min* within that broader
+*sug*. So *min* and *sug* are not static but depend on context, while the
+relationship between them always remains that of parent and child.
 
 ## Rendering guidance
 
-- *Lemineihu* in Bereishis and Shemini: "according to its kind." Resist
-  "species," which imports a modern taxonomy the meforshim expressly do not
-  assume (Ramban and the Ran on the Teivah).
+- *Lemineihu* in Bereishis and Shemini: "according to its kind." Be careful
+  with "species": the column cautions that the Torah's categories do not
+  necessarily line up with modern taxonomy, and the Ran reads the Teivah's
+  *minim* as ancestral kinds (Ramban posits a miracle instead). Shadal, for his
+  part, likens *min* to Latin *species*, both named from looking alike, so the
+  caution concerns modern taxonomy, not the word's origin.
 - Trap: English "kind," "type" and "sort" will absorb *min*, *zan* and *sug*
   indifferently. In a logical passage the pair must be fixed: *sug* is "genus,"
-  *min* is "species," and if you have used "species" for *lemineihu* elsewhere
+  *min* is "species," and if "species" has been used for *lemineihu* elsewhere
   in the same work, add the Hebrew in brackets at the logical use.
 - Where a Targum is quoted beside its pasuk, keep one English word across both,
-  since *zan* is simply the Aramaic for *min*; using two words invents a
+  since Targum renders every *min* as *zan*; two words would invent a
   distinction the Targum does not make.
-- Tehillim 144:13 is a genuine fork. "From kind to kind" follows Ibn Janach;
-  "with every sort of provision" follows Menachem and Rashi's *mazon*. Pick one
-  and footnote the other rather than blending them.
+- Tehillim 144:13 is a genuine fork. "From kind to kind" follows Ibn Janach's
+  Aramaic-sense *zan*; a rendering built on *mazon*, "sustenance," follows
+  Menachem and Rashi. Rav Hirsch seems unsure, and Radak takes each in a
+  different place. Pick one and footnote the other rather than blending them.
 - *Min* as heretic is a separate entry's business; never let "sectarian" or
   "heretic" bleed into a passage where *min* means kind, and be alert that a
-  derashah may deliberately play on both.
+  derashah may deliberately play on both. In Modern Hebrew *min* also means
+  gender or sex, since it makes two easily defined categories; do not carry that
+  back into a pasuk.
 
 ## Notes for a project
 
@@ -138,10 +197,13 @@ Bereishis 1:11-12, 1:21, 1:24-25, 6:14, 6:19 and the Teivah narrative of
 Bereishis 6-7; Shemos 16:15, 20:4; Vayikra 11:14-19, 11:22, 11:29; Devarim
 14:13-18; Yeshayahu 65:11; Yechezkel 47:10; Tehillim 144:13, 150:4; Shir
 HaShirim 7:3; Daniel 3:5, 3:7, 3:10, 3:15; Divrei HaYamim II 16:14; Mishnah
-*Demai* 5:6, *Keilim* 16:3, *Avos* 1:1; *Bava Kamma* 16b; Rambam, *Milos
-HaHigayon* 10 (Rabbi Moshe Ibn Tibbon's translation); Rabbi Shmuel Ibn Tibbon,
-*Peirush HaMilos HaZaros*; *Derashos HaRan* 12; Ramchal, *Derech Tevunos* 11:9;
-Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*. The article's Arabic
-cognate for *temunah*, its Latin and Proto-Indo-European comparison for
-"species," and the academic proposals of Prof. Avi Hurvitz and Dr. M. Z. Kaddari
-are omitted here under house rule 9.
+*Demai* 5:6, *Keilim* 16:3, *Avos* 1:1; *Bava Kamma* 16b; Ibn Janach and Radak,
+*Sefer HaShorashim* (Radak s.v. זון and s.v. פוק); *Machberes Menachem*; Shadal
+and Rav Hirsch to Shemos 20:4; Rav Hirsch to Tehillim 144:13; Ibn Ezra, *Sefas
+Yeser* 95, and to Tehillim 150:4 and Daniel 3:5; Ramban to Bereishis 6:19; the
+Ran to Bereishis 6:14; Rambam, *Milos HaHigayon* 10 (Rabbi Moshe Ibn Tibbon's
+translation); Rabbi Shmuel Ibn Tibbon, *Peirush HaMilos HaZaros*; *Derashos
+HaRan* 12; Ramchal, *Derech Tevunos* 11:9; Rabbi Eliyahu HaBachur, *Sefer
+HaTishbi* and *Meturgeman*; Professor Avi Hurvitz; Dr. Menachem Zvi Kaddari's
+dictionary of Biblical Hebrew. The column prints *Machberes Menachem*'s entry
+as "MUM-NUN," a slip for MEM-NUN.

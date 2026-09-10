@@ -20,20 +20,25 @@ words:
     distinct: saving by being received into a safe space, as an ir miklat receives the accidental killer; post-biblical, and not intrinsically about rescue at all
 sources:
   - wiaw:11148 "Vayishlach: Saving Survivors" (2023-12-02) https://articles.ohr.edu/articles/vayishlach-saving-survivors
-authorities: [Targum Onkelos, Malbim, Rabbi Avraham Bedersi, the Vilna Gaon, Rabbi Avraham Yitzchak Shain, Rashi, Rashbam, Ibn Ezra, Chizkuni, Ramban, Rabbi Yosef Chaim of Baghdad, Rabbi Yitzchak of Zeldin, Rabbi Yehoshua Steinberg, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Nosson Kamenetsky]
-status: draft
+authorities: [Targum Onkelos, Targum pseudo-Yonasan, Malbim, Rabbi Avraham Bedersi, the Vilna Gaon, Rabbi Avraham Yitzchak Shain, Rashi, Rashbam, Ibn Ezra, Chizkuni, Ramban, Rabbi Yosef Chaim of Baghdad, Rabbi Yitzchak of Zeldin, Rabbi Yehoshua Steinberg, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Nosson Kamenetsky]
+status: reviewed
 updated: 2026-09-10
 ---
 # Survivor: pleitah / sarid / klitah
 
 ## Bottom line
 
-*Pleitah* is rescue by **expulsion**: the man is spit out of the danger, so a
-*palit* is a **refugee**. *Klitah* is rescue by **reception**: the man is taken
-in, as a *miklat* receives him, so render it **refuge** or **taking in**.
-*Sarid* is the one who could not get out and lived anyway: **survivor** or
-**remnant**. The trap is the stock pair *sarid u'palit*, where "survivor" will
-swallow both; keep them apart as "survivor nor refugee."
+The Targumim render *klitah* and *pleitah* alike, with the Aramaic word for
+salvation (*shizba*/*shaziv*), so in some ways the two are synonyms, both
+"saving" in general. At the core, though, *pleitah* is rescue by
+**expulsion**: one is spit out of the danger, so a *palit* is a **refugee**.
+*Klitah* is rescue by **reception**: one is taken in, as a *miklat* receives
+him, so render it **refuge** or **taking in**. For Malbim and Bedersi *sarid*
+is the one who was caught and could not get out and lived anyway: **survivor**
+or **remnant**. Rabbi Avraham Yitzchak Shain draws the line differently: the
+*palit* was totally surrounded and spit out, the *sarid* was not necessarily
+enveloped at all. The trap is the stock pair *sarid u'palit*, where "survivor"
+will swallow both; keep them apart as "survivor nor refugee."
 
 ## At a glance
 
@@ -45,66 +50,133 @@ swallow both; keep them apart as "survivor nor refugee."
 
 ## Where the authorities disagree
 
-**What separates sarid from palit.** Malbim and Rabbi Avraham Bedersi (*Chotam
-Tochnit*): a *palit* was in the thick of the calamity and fled out of it; a
-*sarid* was caught in the middle, could not escape, and survived regardless. The
-Vilna Gaon (to Yeshayahu 1:9) adds that *sarid* means one of the exclusive few
-who came through. Rabbi Avraham Yitzchak Shain reads it as a matter of whose war
-it was: survivors of wars waged by non-Jews are *palit* (Bereishis 14:13;
-Yechezkel 33:21-22), survivors of wars waged by Jews are *sarid* (Bamidbar
-21:35; Devarim 2:34, 3:3; Yehoshua 10:28 and on), because a Jewish army may not
-besiege a city on all four sides (*Sifrei* to Matos §157; Rambam, *Hilchos
-Melachim* 6:7), so its enemies were never sealed in to be "spit out." The Bottom
-line follows Malbim and Bedersi, which governs every occurrence.
+**What separates sarid from palit.** Malbim (Rabbi Meir Leibush Weiser, 1809 to
+1879): a *palit* was in the trenches of war or another calamity and was able to
+flee, saving himself (in the article's terms, "spit out" of harm's way); a
+*sarid* was caught in the middle, unable to escape, and somehow survived
+anyway. Rabbi Avraham Bedersi (13th century) presents the same explanation in
+brief in *Chotam Tochnit*. So *palit* is "refugee," *sarid* more accurately
+"survivor" or "remnant." The Vilna Gaon (to Yeshayahu 1:9) implies that *sarid*
+has a quantitative aspect: a member of the exclusive few who survived when the
+vast majority did not.
 
-**Where klitah comes from.** Rabbi Yitzchak of Zeldin (*Shoresh Yesha*): ק-ל-ט
-is a metathesis of ל-ק-ט, "gather," since the sheltered are gathered into one
-safe spot. Rabbi Yehoshua Steinberg: a metathesis of ק-ט-ל, "kill," since the
-one received by a sanctuary escapes being killed. Rabbi Moshe Tedeschi-Ashkenazi
-(*Otzar Nirdafim* §380) derives *pleitah* from a two-letter root ל-ט; Rabbi
-Steinberg derives *klitah* from that same root, making the two words cousins.
-The Bottom line stays with the plain triliteral roots.
+Rabbi Avraham Yitzchak Shain notices another pattern: in general, a survivor
+of a war waged by non-Jews is a *palit* in Tanach (e.g. Bereishis 14:13;
+Yechezkel 33:21-22), and of a war waged by Jews, a *sarid* (Bamidbar 21:35;
+Devarim 2:34, 3:3; Yehoshua 10:28, 10:30, 10:33, 10:37, 10:39, 10:40, 11:8;
+Melachim II 10:11). For him *palit* is one who was totally surrounded
+("swallowed" or "absorbed") by enemies and "spit out" so that he escaped, while
+*sarid* is simply a survivor not necessarily enveloped by enemy troops. A Jewish
+army may not besiege a city or enemy on all four sides but must leave one side
+open for refugees (*Sifrei* to Matos §157; Rambam, *Hilchos Melachim* 6:7), so
+its enemies were never surrounded to be "spit out," and their survivors are
+only *sarid*; non-Jewish armies typically attack from all sides, so their
+survivors are *palit*, not *sarid*. Where Tanach says there was neither *sarid*
+nor *palit* from Ai (Yehoshua 8:22), Rabbi Shain explains that the people of Ai
+used the humanitarian corridor to attack the Jewish army, so the army was
+allowed to surround them on all sides.
 
-**Bigdei srad (Shemos 31:10 and parallels).** Rashi and Rashbam, following Targum
-Onkelos, take *srad* as "service" and the garments as the travel covers for the
-Mishkan's vessels (Bamidbar 4:1-15), Rashi conceding that ש-ר-ד is not used that
-way elsewhere. Ibn Ezra and Chizkuni read it as a cognate of *sarid*, covers made
-from the cloth left over. Ramban and Yoma 72a-b take them to be the bigdei
-kehunah themselves.
+The two accounts do not coincide: for Malbim the *sarid* is the one who could
+not escape, for Rabbi Shain the one who was not sealed in. The Bottom line
+leads with Malbim and Bedersi for rendering; that choice is ours, and Rabbi
+Shain's pattern stands beside it.
+
+**Where klitah and pleitah come from.** Rabbi Yitzchak of Zeldin (*Shoresh
+Yesha*): ק-ל-ט is a metathesis of ל-ק-ט, "gathering" (*leket*, *yalkut*), since
+those sheltered together are as if gathered up into a safe spot. Rabbi Yehoshua
+Steinberg of the Veromemanu Foundation takes a different approach: a
+metathesis of ק-ט-ל, "killing," since *klitah* often refers to those received
+by a sanctuary and so escaping death. Most philologists and lexicographers, the
+article says, trace *pleitah* to the triliteral פ-ל-ט, as the article itself
+does, but some take the פ as not part of the core root (see Sources on the
+article's wording): Rabbi Moshe Tedeschi-Ashkenazi (1821 to 1898, *Otzar
+Nirdafim* §380) derives *pleitah* from the two-letter ל-ט, and Rabbi Steinberg,
+in an essay titled "Run, Lot Run," connects *pleitah* and many other words to
+that biliteral root; he even derives *klitah* from it, so that on his view the
+two words share an etymological source. The Bottom line stays with the
+triliteral roots.
+
+**Bigdei srad (Shemos 31:10, 35:19, 39:1, 39:41).** Rashi and his grandson
+Rashbam (to Shemos 31:10): not the bigdei kehunah, which are listed separately,
+but the cloth covers put over the Mishkan's vessels for travel (Bamidbar
+4:1-15). Rashi cites Targum Onkelos for *srad* here as "service," but admits
+that ש-ר-ד is not used that way elsewhere. Ibn Ezra and Chizkuni (to Shemos
+31:10) read *srad* as a cognate of *sarid*: the covers were made from the cloth
+left over after the donated materials were used for the other cloth parts of
+the Mishkan, so *srad* and *sarid* share the theme of remnants, survivors,
+leftovers. Ramban (to Shemos 31:10) takes them to be the bigdei kehunah, and so
+does the Gemara (Yoma 72a-b): were it not for the bigdei kehunah, through whose
+service Yisrael's sins are atoned, no *sarid* or *palit* of the nation would
+remain.
 
 ## Distinctions
 
 ### pleitah (פליטה)
-Root פ-ל-ט. The core sense is not rescue but discharge: spitting out, releasing,
-emitting. Targum to Yonah 2:11 uses its Aramaic cognate for the fish spitting
-Yonah out; the Gemara (Chullin 108b, 111a, 112b) uses *polet* for a vessel
-expunging absorbed taste. Rescue is the special case of being ejected from a
-fate: the idolater's property is *palat*, spared the destruction his body
-suffers (Sanhedrin 10:4), and the Sotah's remaining body is not *palit* from
-her punishment (Sotah 1:7). The expulsion can run the other way, the sinners in
-the wilderness expelled from the Clouds of Glory and left to Amalek (*Midrash
-Tanchuma*, Ki Seitzei §10; Rashi to Devarim 25:18). Personal names from this
-root are common: Palti, Paltiel, Platyah, and the Geonic Paltoi.
+Root פ-ל-ט. *Pleitah* typically refers to a survivor, remnant or refugee, as
+the *palit* who brings Avraham word that Lot was captured (Bereishis 14:13). A
+closer look at the root, though, shows that its core sense is spitting out,
+releasing, emitting. Targum to Yonah 2:11 uses its Aramaic cognate for the fish
+spitting Yonah out; the Gemara (Chullin 108b, 111a, 112b) uses *polet* for a
+vessel expunging absorbed taste. So in the context of rescue, *pleitah* is being
+spit out of harm's way, spared by being taken out of or excluded from a
+destructive fate. Modern Hebrew keeps the dichotomy with *klitah* in computer
+science, *kelet* for input and *pelet* for output, and in similar terms for
+neurological processes. In the Mishnah, the property of individual idolaters,
+who are stoned, is *palat*, spared their fate, unlike the property of the
+idolatrous city, whose people die by the lighter death of the sword (Sanhedrin
+10:4); and the Sotah's remaining body is not *palit* from her fate (Sotah 1:7).
+Expulsion with nothing to do with saving: a woman who "emits" (*poletet*) semen
+within three days of intimacy is tamei (Berachos 3:6, Shabbos 9:3, Mikvaos 8:3).
+The expulsion can also be to one's detriment: the sinners in the wilderness
+were expelled from the Clouds of Glory and became easy prey for Amalek
+(*Midrash Tanchuma*, Ki Seitzei §10; Targum pseudo-Yonasan and Rashi to
+Devarim 25:18), all of these sources using cognates of *pleitah*. Despite the
+possible negative connotation, various Biblical personal names derive from the
+root: Palti (Bamidbar 13:9; Shmuel I 25:44), Pilti (Nechemiah 12:17), Paltiel
+(Bamidbar 34:26; Shmuel II 3:15), Platyah (Nechemiah 10:23; Divrei HaYamim I
+3:21, 4:42) and Platyahu (Yechezkel 11:1, 11:13); the post-Biblical name Paltoi,
+popular in Geonic and early Medieval times, is also seemingly from this root.
 
 ### sarid (שריד)
-Root ש-ר-ד. The leftover, the one still standing when the rest are gone. Malbim
-and Bedersi separate it from *palit* by the absence of flight. It pairs with
-*palit* as a stock phrase for total annihilation (Yehoshua 8:22; Yirmiyahu
-42:17; Berachos 7a, Yoma 72b and 77a, Megillah 12b, Sanhedrin 44b, 95b, 105b,
-Avodah Zarah 4b). Sarid is also a place on Zevulun's border (Yehoshua 19:10-12).
+Root ש-ר-ד. The third Biblical term for a survivor of war or other calamity.
+Malbim and Bedersi separate it from *palit* by the absence of flight; the Gra
+implies a quantitative sense; Rabbi Shain ties it to wars in which the enemy was
+not surrounded. After Yehoshua 8:22, "*sarid* and *palit*" became a stock phrase
+in Tanach (Yirmiyahu 42:17) and the Gemara (Berachos 7a, Yoma 72b and 77a,
+Megillah 12b, Sanhedrin 44b, 95b, 105b, Avodah Zarah 4b). Sarid is also a place
+on the southern border of Zevulun's territory (Yehoshua 19:10, 19:12), and in
+recent times a popular Jewish name.
 
 ### klitah (קליטה)
-Root ק-ל-ט. The abstract noun is post-biblical; Tanach has *miklat*, the place
-that receives (twenty times, in Bamidbar and Yehoshua, plus Divrei HaYamim I
-6:42, 6:52), always of the *ir miklat*, and *kalut*, an animal whose hooves are
-closed rather than split (Vayikra 22:23; Bechoros 6:7, 7:6). The Mishnah's verb
-is plain reception: an object caught (*kalat*) by a person or a dog on Shabbos
-(Shabbos 11:6), dye that takes to the cloth (Shabbos 1:6). Reception need not
-save: when David passed Shaul's family before the Aron, those it was *kolet*
-were the ones put to death (Yevamos 79a), which Rabbi Yosef Chaim of Baghdad
-(*Benayahu* there) explains as their being held immobile before it. The
-Masoretic siman at the end of Vayishlach uses *klitah* for the parashah's 154
-pesukim, though the word for survival in Bereishis 32:8 is *pleitah*.
+Root ק-ל-ט. The article opens with the Masoretic siman at the end of
+Vayishlach, which gives *klitah* for the parashah's 154 pesukim. The word is
+neither in the parashah nor a Biblical name, but echoes Yaakov dividing his
+camp so that the rest would be "for survival" (Bereishis 32:8), and the
+Haftarah's Har Tziyon as a place "for survival" (Ovadiah 1:17); the word in both
+pesukim, though, is *pleitah*. In a closing note the article corrects itself:
+Rabbi Nosson Kamenetsky (1930 to 2019) points out that the name Klita appears
+three times in Tanach (Ezra 10:23; Nechemiah 8:7, 10:11), though spelled with a
+final aleph, not the final hei of the Masoretic word.
+
+The noun *klitah* itself does not appear in Tanach; two forms of the root do.
+*Miklat* (its mem not part of the root), "place of receiving," appears twenty
+times, all in Bamidbar and Yehoshua except two in Divrei HaYamim I (6:42,
+6:52), and always of the *ir miklat*, which receives the one who killed by
+mistake and protects him from his victim's avengers. In Modern Hebrew a *miklat*
+is a bomb shelter, and *klitah* is reception: of an idea, of a cell-phone
+signal, of immigrants. *Kalut* (Vayikra 22:23; Bechoros 6:7, 7:6) is an animal
+whose hooves are not split: what a shelter receives is protected by being
+closed in, and these hooves are likewise closed. The Mishnah's verb is plain
+reception: an object thrown through a public domain on Shabbos and caught
+(*kalat*) by a person or a dog (Shabbos 11:6); dye that, according to Beis
+Shammai, must take (*kalat*) to the cloth before Shabbos (Shabbos 1:6). The
+receiving sense is so central that it can even be reception to one's death, so
+that *klitah* means "saving" only incidentally, when the one receiving is a
+shelter: when David passed Shaul's family before the Aron to decide whom to put
+to death for the Givonim, those whom the Aron was *kolet* were killed (Yevamos
+79a), which Rabbi Yosef Chaim of Baghdad (1832 to 1909, *Benayahu* there)
+explains as their being miraculously rendered immobile, held by a kind of force
+field from the Aron.
 
 ## Rendering guidance
 
@@ -131,10 +203,22 @@ Rabbi Reuven Chaim Klein, "Vayishlach: Saving Survivors," What's in a Word?, Ohr
 Somayach, 19 Kislev 5784 (2023-12-02):
 https://articles.ohr.edu/articles/vayishlach-saving-survivors; raw text in
 `sources/whats-in-a-word/raw/11148-vayishlach-saving-survivors.md`. Primary loci
-cited: Bereishis 14:13, 32:8; Shemos 31:10 and parallels; Vayikra 22:23;
-Bamidbar 4:1-15, 21:35; Devarim 2:34, 3:3, 25:18; Yehoshua 8:22, 10:28-40,
-19:10-12; Yeshayahu 1:9; Yirmiyahu 42:17; Yechezkel 33:21-22; Ovadiah 1:17;
-Yonah 2:11 with Targum; Divrei HaYamim I 6:42, 6:52; Yevamos 79a with
-*Benayahu*; Yoma 72a-b; Chullin 108b, 111a, 112b; Shabbos 1:6, 11:6; Sotah 1:7;
-Sanhedrin 10:4; Bechoros 6:7, 7:6; *Sifrei* to Matos §157; Rambam, *Hilchos
-Melachim* 6:7; *Chotam Tochnit*; *Shoresh Yesha*; *Otzar Nirdafim* §380.
+cited: Bereishis 14:13, 32:8; Shemos 31:10, 35:19, 39:1, 39:41 with Rashi,
+Rashbam, Ibn Ezra, Chizkuni and Ramban; Vayikra 22:23; Bamidbar 4:1-15, 13:9,
+21:35, 34:26; Devarim 2:34, 3:3, 25:18 with Targum pseudo-Yonasan and Rashi;
+Yehoshua 8:22, 10:28, 10:30, 10:33, 10:37, 10:39, 10:40, 11:8, 19:10, 19:12;
+Shmuel I 25:44; Shmuel II 3:15; Melachim II 10:11; Yeshayahu 1:9 with the Vilna
+Gaon; Yirmiyahu 42:17; Yechezkel 11:1, 11:13, 33:21-22; Ovadiah 1:17; Yonah
+2:11 with Targum; Ezra 10:23; Nechemiah 8:7, 10:11, 10:23, 12:17; Divrei HaYamim
+I 3:21, 4:42, 6:42, 6:52; Berachos 3:6 (Mishnah) and 7a; Shabbos 1:6, 9:3, 11:6;
+Yoma 72a-b, 77a; Megillah 12b; Yevamos 79a with *Benayahu*; Sotah 1:7; Sanhedrin
+10:4, 44b, 95b, 105b; Avodah Zarah 4b; Chullin 108b, 111a, 112b; Bechoros 6:7,
+7:6; Mikvaos 8:3; *Midrash Tanchuma*, Ki Seitzei §10; *Sifrei* to Matos §157;
+Rambam, *Hilchos Melachim* 6:7; *Chotam Tochnit*; *Shoresh Yesha*; *Otzar
+Nirdafim* §380; Rabbi Steinberg, "Run, Lot Run." The article also refers the
+reader to its earlier essay "Murder He Wrote" (February 2023) on *ketilah*.
+Rabbi Shain is cited without a work. Two slips in the article, noted rather than
+repeated: it calls the *kalut* a non-kosher animal, but Vayikra 22:23 speaks of
+an ox or sheep, a kosher species, with that blemish; and it introduces the
+biliteral view by saying some take the initial פ of *pleitah* "as radical to the
+core root," where the examples that follow treat the פ as outside the root.

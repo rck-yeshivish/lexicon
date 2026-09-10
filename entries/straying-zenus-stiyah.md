@@ -29,21 +29,28 @@ words:
 sources:
   - wiaw:7927 "Straying from the Path" (2018-09-08) https://articles.ohr.edu/articles/straying-from-the-path
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Aharon Marcus]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Straying from a path: zenus / stiyah
 
 ## Bottom line
 
-Both roots name departure from a track, and neither is primarily about the sin
-English readers expect. *Zenus* is **straying** from a loyalty owed, which is
-why the Nevi'im use it for avodah zarah as readily as for adultery; render it by
-the disloyalty, not by "prostitution," unless the pasuk is literal. *Stiyah* is
-**deviation** from a marked path, and its family (*sotah*, *shoteh*, *satan*,
-*shtus*) all name something off the track rather than something wicked. The trap
-is that English "immorality" and "madness" carry judgments the Hebrew roots do
-not.
+Both roots denote deviating from a given path. *Zonah* literally refers to one
+who has strayed from a set of expectations: idolatry and adultery both eschew
+an expected loyalty, to Hashem or to a spouse, which is why Tanach, especially
+Hoshea and Yechezkel, uses words of sexual deviance for theistic infidelity.
+Rabbi Shlomo Pappenheim reaches the same breadth from the other end: *zenus*
+comes from ז-ן, sustenance, first named deviance from the sexual norm, and only
+then came to mean deviance from any expectation, idol worship included.
+*Stiyah* is **deviation** from a specific track, and the article traces the
+same root through *sotah*, *satan*, *shoteh* and *ruach shtus*; Rabbi Moshe
+Shapiro relates *shitah*, the ordered approach, to it as its diametric opposite.
+Rabbi Aharon Marcus goes further, holding that the letter tet by itself denotes
+movement to the side, so that *chet*, sin, is a straying. Our rendering advice,
+not the article's: render *zenus* by the straying, not by "prostitution," unless
+the pasuk is literal, and beware English "immorality" and "madness," which
+carry more than the path image.
 
 ## At a glance
 
@@ -58,49 +65,64 @@ not.
 ## Distinctions
 
 ### zenus (זנות)
-A *zonah* whom a kohen may not marry (Vayikra 21:7) is, for that issur, any
-woman who had relations with someone forbidden to her; the word names the
-departure from what was expected of her, not a trade. Moshe warns before his
-death that the people will stray, *v'zanah*, after foreign gods (Devarim 31:16).
-Avodah zarah and adultery both throw off a loyalty that was owed, one to Hashem
-and one to a spouse, which is why Hoshea and Yechezkel especially describe
-faithlessness to Hashem in the language of sexual straying.
+The article sets the cluster in its series on roads and paths: straying from
+the paths of righteousness is deviance from the proper path, as children who
+reject the Torah they were taught are colloquially "off the *derech*." *Zonah*,
+colloquially a prostitute, literally refers to one who has strayed from a
+certain set of expectations. A *zonah* whom a kohen may not marry (Vayikra
+21:7) is, for that issur, any woman who had relations with someone forbidden to
+her. Near Moshe's death the people are warned that they will stray after
+foreign gods (Devarim 31:16), and the word for their straying is from this root
+(see Sources on the form). Idolatry and adultery are conceptually similar in
+that both eschew an expected loyalty, one to Hashem and one to a spouse, which
+is why Tanach, especially Hoshea and Yechezkel, uses words of sexual deviance to
+describe theistic infidelity.
 
-Rabbi Shlomo Pappenheim traces the word to the biliteral ז-ן, the nucleus of
-sustenance: *hazan es haolam kulo* in bentching, and *mazon*, food. Physical
-plenty in excess draws a person toward wholly physical pursuits, and where the
-surplus energy finds no outlet in labor or in learning it turns to craving; the
-Gemara warns that idleness leads to immorality (Kesubos 59b). Once *zenus* named
-departure from the sexual norm, it widened to departure from any expectation,
-avodah zarah included.
+Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) traces *zenus*, promiscuity,
+to the biliteral ז-ן, the nucleus of the words for sustenance: in bentching
+Hashem is He who sustains (*zan*) all of Creation, and *mazon*, food, is
+essential to sustaining life. An over-abundance of *mazon*, a very physical
+substance, draws a person toward wholly physical endeavors, and this leads to
+lustful desires. Excess physical energy generally finds its outlet in strenuous
+activity (work, exercise, or Torah study); one who does not avail himself of
+such outlets enters dangerous territory, as the Gemara warns that inactivity
+leads to sexual misconduct (Kesubos 59b). This is the link between sexual
+deviance and sustenance. Once *zenus* named deviance from the sexual norm, it
+came to mean deviance from any expectation, and could apply to idol worship as
+well.
 
 ### stiyah (סטיה)
-Spelled with a sin in Tanach, with a samech in Rabbinic works. The *sotah*
-(Bamidbar 5) is the wife suspected of having turned aside from the path of
-fidelity. The *satan* is an adversary who blocks a person from continuing on his
-path. A *shoteh* is one whose conduct is unpredictable and follows no path at
-all, and from there the word covers anything irregular: a *bechor shoteh* or
-*bechor satan*, a firstborn to his mother but not to his father (Yevamos 16b),
-and a *hadas shoteh*, a myrtle whose leaves do not grow three from one point
-(Succah 32b). The Gemara says a person does not sin unless a *ruach shtus*, a
-spirit of deviance, has entered him (Sotah 3a).
+Spelled with a sin in Tanach, with a samech in Rabbinic works. The *sotah* is
+the wife suspected of having deviated from the path of fidelity. The *satan* is
+an adversary who impedes a person from continuing on a given path. A *shoteh* is
+a mentally incompetent person, whose erratic conduct is unpredictable and
+follows no specific path, and the word also covers the irregular: a *bechor
+shoteh* or *bechor satan*, a firstborn to his mother but not to his father
+(Yevamos 16b), and a *hadas shoteh*, a myrtle that deviates from the norm in not
+having three leaves growing together (see Succah 32b). The Gemara says a person
+sins only if a *ruach shtus*, a spirit of deviance, has entered him (Sotah 3a).
+From all of these the article concludes that the root ס/ש-ט refers to straying
+from a specific track.
 
-Rabbi Moshe Shapiro adds *shitah*, an ordered and systematic approach, as the
-same root inverted: the settled path against the departure from it, a pattern
-common in Hebrew where a root holds a thing and its opposite. He also reads the
-place name Shittim, where the people strayed after the daughters of Moav
-(Bamidbar 25:1), from *stiyah*.
+Rabbi Moshe Shapiro (1935 to 2017) explains that *shitah*, a systematized and
+ordered approach (commonly an opinion in a Talmudic discussion), is also related
+to *stiyah*, and denotes its thematic diametric opposite: the systematized path
+against the one who deviates from it. The article calls this yet another example
+of a uniquely Hebrew phenomenon, in which words of polar opposite meaning are
+related in their roots. Rabbi Shapiro also relates the place name Shittim, where
+the people strayed after the women of Moav (Bamidbar 25:1), to *stiyah*.
 
 ### the letter tet as a root
-Rabbi Aharon Marcus proposes, as a singular view, that a single letter can bind
-words the way a root does, and that tet itself carries motion to the side:
-*stiyah* (deviation), *natah* (incline), *hitah* (turn aside), *tateh* (broom),
-*tach* (plaster), *taah* (err). On this reading the working letter of *chet*,
-sin, is its middle tet, so that to sin is to move off to the side. He adds that
-*avon* belongs with *ivvus*, warped, the sinner on a contorted path, and *pesha*
-with *posea*, one who has taken steps in the wrong direction. This is his own
-theory and stands on no earlier authority; use it as a derashah, not as
-lexicography.
+The article closes with what it calls a wildly innovative idea of Rabbi Aharon
+Marcus (1843 to 1916): not only are Hebrew roots made up of letters, but an
+individual letter can sometimes itself be a root uniting the words that use it.
+The letter tet denotes movement to the side, that is, straying, as shown by
+*stiyah* (deviation), *natah* (incline), *titah* (turn aside), *tata* (broom),
+*tach* (plastering), *taah* (erred), and more. Most significantly, he argues
+that the active letter of *chet*, sin, is its middle tet, so that to sin is to
+move to the side, off the proper path. He adds that *avon* is related to
+*ivvus*, warped, the sinner being on a warped or contorted path, and *pesha* to
+*posea*, takes a step, the sinner having taken steps in the wrong direction.
 
 ## Rendering guidance
 
@@ -113,8 +135,7 @@ lexicography.
   sound mind," not "fool." Of a plant or a bechor it is "irregular" or
   "abnormal."
 - Trap: English "stray" would absorb *zenus*, *stiyah*, and also *toeh* and
-  *taus*, which are a separate cluster (see `straying-toeh-taut.md`); *toeh* is
-  wandering in error, while these two are leaving a path that was known.
+  *taus*, which are a separate cluster (see `straying-toeh-taut.md`).
 - The three words for sin, *chet*, *avon* and *pesha*, have their own entry
   (`sin-chet-avon-pesha.md`); Rabbi Aharon Marcus's readings above are additional
   to what is recorded there, not a replacement for it.
@@ -130,4 +151,8 @@ Somayach, 28 Elul 5778 (2018-09-08):
 https://articles.ohr.edu/articles/straying-from-the-path; raw text in
 `sources/whats-in-a-word/raw/7927-straying-from-the-path.md`. Primary loci:
 Vayikra 21:7; Devarim 31:16; Bamidbar 25:1; Kesubos 59b; Yevamos 16b; Succah
-32b; Sotah 3a.
+32b; Sotah 3a. At Devarim 31:16 the article has Moshe warning the people and
+using the word *ve'zanu*; the pasuk is Hashem speaking to Moshe, and its form is
+וְזָנָה. Rabbi Moshe Shapiro and Rabbi Aharon Marcus are cited without a work
+or locus. The article ends by promising a fuller discussion of the words for
+sin (see `sin-chet-avon-pesha.md`).

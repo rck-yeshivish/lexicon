@@ -166,7 +166,7 @@ a time to speak." See the dispute above. Mecklenburg also theorizes that
 this root.
 
 ### hass (הס)
-Not a way of being silent but of making others so, and, the article says, its
+Not a way of being silent but of making others so, and, the column says, its
 etymology might be an onomatopoeic adaptation of the sound used to quiet others.
 Bedersi does not mention it either. Pappenheim and Mecklenburg: the verb is
 usually employed where one silences others so they may listen to somebody else,

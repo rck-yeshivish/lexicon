@@ -26,99 +26,111 @@ words:
   - he: גרגרן
     tr: gargaran
     en: glutton
-    distinct: built on gargeres though gorging is done with the veshet; the tension is the article's central question (Tosafos Yom Tov, Rabbi Binyamin Mussafia)
+    distinct: built on gargeres though gorging is done with the veshet, a tension answered four ways (Tosafos Yom Tov, Rabbi Binyamin Mussafia, Rabbi Meir Batzri, and Rabbi Klein's own)
 sources:
   - wiaw:9745 "The Gorgeous Windpipe" (2022-06-25) https://articles.ohr.edu/articles/the-gorgeous-windpipe
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Ezra, Rabbi Moshe Kimchi, Rashi, Rambam, Rabbi Yom Tov Lipmann Heller, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rabbi Tanchum HaYerushalmi, Rabbi Yaakov Weil, Rabbi Amitai Ben-David, Rabbi Yosef de Bonne of Stadthagen, Rabbi Meir Batzri, Shach, Pri Megadim]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Throat: garon / gargeres / kaneh (against veshet)
 
 ## Bottom line
 
-All three name the **windpipe**, but they belong to different strata: *garon* is
-the Biblical word, *gargeres* the Mishnaic, *kaneh* the Talmudic (Rabbi Yaakov
-Emden; Rabbi Tanchum HaYerushalmi). In Tanach *garon* and *gargeres* often mean
-the visible **throat** or **neck** rather than the pipe inside it; from the
-Mishnah on, the word is technical and its partner is *veshet*, the **food pipe**.
-The one thing not to get wrong: in any *shechitah* context *gargeres* or *kaneh*
-is the windpipe and *veshet* the esophagus, and rendering either loosely as
-"throat" destroys the halachah.
+All three name the **windpipe**, and whether they are truly synonymous is
+disputed. For Rabbi Yaakov Emden they are one organ in three strata of the
+language: *garon* the Biblical word, *gargeres* the Mishnaic, *kaneh* the
+Talmudic (Rabbi Tanchum HaYerushalmi likewise calls *gargeres* and *kaneh* two
+words for one thing). For Rabbi Yaakov Weil *gargeres* and *kaneh* are two parts
+of the windpipe, the ringed exterior and the inner membrane, and the difference
+has halachic weight. In Tanach *garon* and *gargeres* often mean the visible
+**throat** or **neck** rather than the pipe inside it, and Rabbi Pappenheim even
+takes *garon* as the food pipe first; from the Mishnah on, *gargeres* and
+*kaneh* are technical and their partner is *veshet*, the **food pipe**. The one
+thing not to get wrong: in any *shechitah* context *gargeres* or *kaneh* is the
+windpipe and *veshet* the esophagus, and rendering either loosely as "throat"
+destroys the halachah.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גרון | garon | throat, windpipe | Biblical; tied to speech in five of its eight appearances (Malbim), and once to eating (Yirmiyahu 2:25) |
+| גרון | garon | throat, windpipe | Biblical; tied to speech in five of its eight appearances and once to eating (Yirmiyahu 2:25); windpipe first for Malbim, food pipe first for Rabbi Pappenheim |
 | גרגרת | gargeres | windpipe, neck | in Mishlei the neck that wears a necklace; always plural, for the trachea's rings (Rashi to Mishlei 1:9) |
 | קנה | kaneh | windpipe | "reed," a hollow tube; the Gemara's term, and for Rabbi Yaakov Weil the inner membrane specifically |
 | ושט | veshet | food pipe | the contrasting pipe throughout *Chullin*; never the windpipe |
-| גרגרן | gargaran | glutton | formed from *gargeres* though gluttony works the *veshet*; see the dispute below |
+| גרגרן | gargaran | glutton | formed from *gargeres* though gluttony works the *veshet*; see the four answers below |
 
 ## Where the authorities disagree
 
 **Which sense of garon is primary.**
 
-1. **Windpipe first.** Malbim: *garon* means the windpipe inside the neck, then
-   widens to the whole throat as an onlooker sees it, and from there even to the
-   food pipe, which is close to its own opposite. The distribution supports him:
-   of eight appearances, five join *garon* to speech (Yeshayahu 58:1; Tehillim
-   5:10, 69:4, 115:7, 149:6), two mean the neck in general (Yeshayahu 3:16;
-   Yechezkel 16:11), and one is about eating and drinking (Yirmiyahu 2:25).
+1. **Windpipe first.** Of *garon*'s eight appearances, five join it to speech,
+   so that it is clearly the windpipe (Yeshayahu 58:1; Tehillim 5:10, 69:4,
+   115:7, 149:6), two mean the throat or neck in general (Yeshayahu 3:16;
+   Yechezkel 16:11), and one is about eating and drinking, so it seems to be the
+   food pipe (Yirmiyahu 2:25). Possibly on the basis of this breakdown, Rabbi
+   Klein suggests, Malbim holds that *garon* means the windpipe inside the neck,
+   then widens to the whole throat as an onlooker sees it, and from there even to
+   the food pipe, which is in a way the opposite of its primary sense.
 2. **Food pipe first.** Rabbi Shlomo Pappenheim: *garon* is the esophagus, and
    since the windpipe is attached to it the word spread to the windpipe and to
-   the whole neck; *gargeres*, the place a necklace sits, came to mean the
-   windpipe because the Adam's apple is the neck's most prominent feature. This
-   follows from his treatment of the two-letter root ג-ר as dragging or
+   the whole neck; *gargeres*, the place a necklace was worn, came to mean the
+   windpipe because the Adam's apple on it is the neck's most prominent feature.
+   This belongs to his treatment of the two-letter root ג-ר as dragging or
    temporary lodging, which yields *ger* (a sojourner), *goren* (the grain's
    temporary home), *nigar* (water gathered), *gerem* (the bone that houses
    marrow), and *garger* (the grape that houses its juice); on that account
    *garon* is where food temporarily lodges on the way to the stomach.
 
-The Bottom line follows Malbim for Tanach, since the pesukim overwhelmingly tie
-*garon* to speech, but Pappenheim's reading is what makes the rabbinic idioms
-easy (below), so it should not be dismissed.
+Rabbi Klein notes that Pappenheim's reading would dissolve the difficulty of the
+rabbinic *gargaran* and *hana'as grono* (below), but that the fact remains that
+in rabbinic literature *gargeres* always stands against the *veshet*, so there
+it must be the windpipe. The Bottom line follows Malbim for Tanach and the
+Mishnah's usage for rabbinic texts.
 
-**Are garon and gargeres different words at all?** Menachem Ibn Saruk
-(*Machberes Menachem*) files both under the seventh category of the two-letter
-ג-ר and draws no distinction. Ibn Ezra (to Mishlei 1:9) and Rabbi Moshe Kimchi
-(to Iyov 40:16) say the *gargeres* surrounds the *garon*, without spelling out
-what that means.
+**Are garon and gargeres different words at all?** Both are built on ג-ר.
+Menachem Ibn Saruk (*Machberes Menachem*) does not seem to posit any difference,
+filing both under the seventh category of the two-letter ג-ר. Ibn Ezra (to
+Mishlei 1:9) and Rabbi Moshe Kimchi (to Iyov 40:16) say the *gargeres*
+surrounds the *garon*, without spelling out what that means.
 
 **Are gargeres and kaneh the same organ?**
 
 1. **Yes, in different dialects.** Rabbi Yaakov Emden: what Tanach calls *garon*,
    the Mishnah calls *gargeres* and the Gemara calls *kaneh*. Rabbi Tanchum
-   HaYerushalmi says plainly that *gargeres* and *kaneh* are two words for one
-   thing.
+   HaYerushalmi, a thirteenth-century exegete in Eretz Yisrael, similarly writes
+   that *gargeres* and *kaneh* are two words for one thing. On this account, as
+   Rabbi Klein concludes, the three terms are synonymous but reflect different
+   stages of the language.
 2. **No, two parts of one organ.** Rabbi Yaakov Weil, in his classic work on
    *shechitah*: *gargeres* is the ring-like exterior structure, *kaneh* the inner
    membrane. Rabbi Amitai Ben-David (*Sichas Chullin* to *Chullin* 18a, 44a, 45a)
-   finds this already in Rashi (to *Chullin* 18a). The distinction is practical:
-   the Mishnah (*Chullin* 2:1) validates *shechitah* of the majority of the
-   windpipe, and Rabbi Yaakov Weil holds that the majority is measured by the
-   circumference of the inner *kaneh* alone, not the outer *gargeres* (see
-   *Shach*, *Yoreh Deah* 21:1, and *Pri Megadim*, *Siftei Daas*, there).
+   finds precedent in Rashi (to *Chullin* 18a), who seems to take *kaneh* as the
+   inner membrane specifically. The distinction is practical: the Mishnah
+   (*Chullin* 2:1) validates *shechitah* of the majority of the windpipe, and
+   Rabbi Yaakov Weil holds that the majority is measured by the circumference of
+   the inner *kaneh* alone, not the outer *gargeres* (see *Shach*, *Yoreh Deah*
+   21:1, and *Pri Megadim*, *Siftei Daas*, there).
 
 The Bottom line follows Rabbi Yaakov Emden for translation and flags Rabbi Yaakov
 Weil wherever a halachic measurement is at stake.
 
-**Why a glutton is a gargaran.** The word is built from *gargeres*, the windpipe,
-yet gorging is done with the *veshet* (*Taharos* 7:9; Targum to Eichah 1:11; and
-in the extended sense of any indulger of appetites, *Niddah* 10:8). Four
-answers. Rabbi Yom Tov Lipmann Heller (*Tosafos Yom Tov* to *Taharos* 7:9): he is
-so taken with his food that he wishes he could eat through his *gargeres* too.
-Rabbi Binyamin Mussafia: in his haste he is likely to choke, sending food down
-the wrong pipe. Rabbi Meir Batzri: while swallowing he cannot breathe, so he
-cancels his *gargeres*, which may be hinted at in Rambam's commentary to the
-Mishnah there, where the epiglottis (*shipui kova*, the tilted cap that covers
-the *gargeres* while one eats) is mentioned alongside the *gargaran* (see also
-*Tosafos Yom Tov* and Rabbi Yaakov Emden's *Lechem Shamayim* there). The article
-adds a fourth: he works his food pipe as constantly as a man works his windpipe
-breathing. The same difficulty attaches to *hana'as grono*, the benefit a man's
-*garon* takes from what he eats (*Chullin* 103b), and on Pappenheim's reading
-neither difficulty arises at all.
+**Why a glutton is a gargaran.** The word is clearly built from *gargeres*, the
+windpipe, yet gorging is done with the *veshet* (*Taharos* 7:9; Targum to Eichah
+1:11; and in the extended sense of any indulger of appetites, *Niddah* 10:8).
+Four answers. Rabbi Yom Tov Lipmann Heller (*Tosafos Yom Tov* to *Taharos* 7:9):
+he is so taken with his food that he wishes he could eat through his *gargeres*
+too. Rabbi Binyamin Mussafia: in his zeal he is liable to choke, sending food
+down the wrong pipe. Rabbi Klein's own: he works his food pipe as constantly as
+a man uses his windpipe to breathe. Rabbi Meir Batzri of Beitar Illit: while
+swallowing he cannot breathe, so he negates his *gargeres*; Rabbi Klein notes
+this may be alluded to in Rambam's commentary to the Mishnah there, which
+seemingly mentions the epiglottis (*shipui kova*, the tilted cap that covers the
+*gargeres* while one eats) together with the *gargaran* (see also *Tosafos Yom
+Tov* and Rabbi Yaakov Emden's *Lechem Shamayim* there). The same difficulty
+attaches to *hana'as grono*, the benefit a man's *garon* takes from what he eats
+(*Chullin* 103b).
 
 ## Distinctions
 
@@ -128,20 +140,22 @@ neck, and once swallowing, which is why its primary sense is disputed.
 
 ### gargeres (גרגרת)
 Four appearances in Tanach, all in Mishlei (1:9, 3:3, 3:22, 6:21), all about
-adorning the outside of the neck, and all in the plural *gargeros*. Rashi (to
-Mishlei 1:9) explains the plural: the outside of the windpipe is made of a series
-of rings along the trachea, so the word for it is inherently plural. In the
-Mishnah the sense is unmistakably the windpipe, since *shechitah* requires
-severing most of both pipes (most of one, in a bird), and the *gargeres* stands
-throughout against the *veshet* (*Chullin* 2:4, 3:1-4). The Mishnah also uses
-*gargeres* for the Adam's apple (*Chullin* 10:4, *Negaim* 10:9), which belongs to
-the windpipe.
+adorning the outside of the neck, so that the Biblical word seems to mean the
+throat or neck in general; and all in the plural *gargeros*. Rashi (to Mishlei
+1:9) explains the plural: the outside of the windpipe is made of a series of
+rings along the trachea, so the word for it is always plural. In the Mishnah the
+sense is more obviously the windpipe, since *shechitah* requires severing most of
+both pipes (most of one, in a bird), and the *gargeres* stands throughout against
+the *veshet* (*Chullin* 2:4, 3:1-4). The Mishnah also uses *gargeres* for the
+Adam's apple (*Chullin* 10:4, *Negaim* 10:9), which belongs to the windpipe.
 
 ### kaneh (קנה)
-More than fifty appearances in Tanach, meaning a reed, stalk, branch, or
-measuring rod, and never the windpipe; every one of those is a long hollow tube,
-which is how rabbinic Hebrew came to use it for the trachea. *Kinamon*,
-cinnamon, which grows as pipe-like sticks, may belong with them. The Mishnah
+More than fifty appearances in Tanach, meaning a reed, stem, branch, or
+measuring stick, and never the windpipe; all are long pipe-like things,
+typically hollow, which is how rabbinic Hebrew came to use it for the trachea.
+Rabbi Klein adds that *kinamon*, cinnamon, which grows as pipe-like sticks, might
+belong with them. (Rabbi Pappenheim connects these words to the two-letter ק-נ
+in a different way, which the article leaves for another time.) The Mishnah
 (*Tamid* 4:3) has one Kohen bring the heart, lungs, and *kaneh* to the altar,
 where the company of heart and lungs settles the meaning. In the Bavli *kaneh* is
 the standard term, regularly paired with *veshet* in place of the Mishnaic
@@ -153,12 +167,25 @@ eating and over reclining leftward at the Seder.
 ### The homiletic reading
 Rabbi Yosef de Bonne of Stadthagen, building on Rabbi Yaakov Weil: the
 *gargeres*, made of rings (*taba'os*, of a root with *teva*, nature), stands for
-the natural forces that pull a man toward appetite and can make a *gargaran* of
-him, his surroundings, his temperament, his intake. The *kaneh*, where those
-rings are joined into one pipe, stands for the unified life of Torah and
-tefillah. The Midrash reads *gulas* in "the *gulas* runs after gold" (Koheles
-12:6) as the *gargeres*, lamed interchanging with reish, making the pasuk about
-appetite squandering money (*Vayikra Rabbah* 18:1, *Koheles Rabbah* 12:6).
+the natural forces that pull a man toward worldly desire and can make a
+*gargaran* of him: his geography and the people around him, his temperament, his
+food and intake, his genetics. The *kaneh*, where those rings are joined into one
+pipe, stands for the supernal way of life, Torah and tefillah with the single
+goal of sanctifying Hashem's name.
+
+### The throat words of other languages
+Rabbi Klein notes the uncanny resemblance of *garon*/*gargeres* to Old French
+*gorge*, throat, which may come from Latin *gurges*, whirlpool, the ancestor of
+English *gorge*, *engorge*, *regurgitate*, *garget*, *gargle*, *gurgle*,
+*gargoyle*, *gargantuan* (from Spanish *garganta*, throat), *gorget* and
+*gorgeous*. Tempting as an etymological link is, he suggests onomatopoeia may be
+at play as well, the gimmel-reish sounds being the sound of gargling; Rabbi
+Mussafia's *Mussaf HeAruch* expressly links the Greek and Latin words for throat
+to *gargeres*. Latin *gula*, throat (whence *gullet* and *gluttony*), resembles
+them too, lamed interchanging with reish; and the Midrash reads *gulas* in "the
+*gulas* runs after gold" (Koheles 12:6) as the *gargeres*, by that same
+interchange, making the pasuk about appetite squandering money (*Vayikra Rabbah*
+18:1, *Koheles Rabbah* 12:6).
 
 ## Rendering guidance
 
@@ -190,11 +217,8 @@ Somayach, 26 Sivan 5782 (2022-06-25): raw text in
 article cites: Yeshayahu 3:16, 58:1; Yirmiyahu 2:25; Yechezkel 16:11; Tehillim
 5:10, 69:4, 115:7, 149:6; Mishlei 1:9, 3:3, 3:22, 6:21; Iyov 40:16; Eichah 1:11;
 Koheles 12:6; *Mishnah Chullin* 2:1, 2:4, 3:1-4, 10:4; *Negaim* 10:9; *Taharos*
-7:9; *Niddah* 10:8; *Tamid* 4:3; *Chullin* 18a-19a and following, 103b;
-*Pesachim* 108a; *Taanis* 5b; *Vayikra Rabbah* 18:1; *Koheles Rabbah* 12:6;
-Rashi to *Chullin* 18a; *Shach*, *Yoreh Deah* 21:1 with *Pri Megadim*, *Siftei
-Daas*. The Old French, Latin, and Indo-European throat words the article
-collects are omitted here under the Orthodox-sources rule; the rabbinic form of
-that observation is Rabbi Binyamin Mussafia's note in *Mussaf HeAruch* linking
-the Greek and Latin words for throat to *gargeres*, with the article's
-suggestion that the gimmel-reish sound is onomatopoeic for gargling.
+7:9 with Rambam, *Tosafos Yom Tov* and *Lechem Shamayim*; *Niddah* 10:8; *Tamid*
+4:3; *Chullin* 18a-19a and following, 103b; *Pesachim* 108a; *Taanis* 5b;
+*Vayikra Rabbah* 18:1; *Koheles Rabbah* 12:6; Rashi to *Chullin* 18a; *Shach*,
+*Yoreh Deah* 21:1 with *Pri Megadim*, *Siftei Daas*; Rabbi Binyamin Mussafia,
+*Mussaf HeAruch*; the Old French, Latin, Spanish and English throat words.

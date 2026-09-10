@@ -26,8 +26,8 @@ AI_TELLS = ["delve", "it's worth noting", "it is worth noting", "important to re
 # and it cannot be done without naming him. The verification pass added that
 # attribution to scores of entries, and this rule then failed the build on
 # every one of them.
-NARRATION = [r"the (article|author) (says|explains|writes|argues|tells|teaches|suggests)",
-             r"according to the (article|author)"]
+NARRATION = [r"\bthe (article|author) (says|explains|writes|argues|tells|teaches|suggests)\b",
+             r"\baccording to the (article|author)\b"]
 
 
 def check(p):

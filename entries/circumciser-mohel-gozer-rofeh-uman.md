@@ -101,7 +101,7 @@ Shabbos 156a, where one born under Maadim is destined to shed blood but chooses
 whether that means bloodletter (*umana*), robber, butcher, or circumciser. The
 verb *mohalin* appears in the Mishnah (Shabbos 19:2, 19:5); one Mishnah (19:6)
 uses the shorter *mal*, the Biblical form (Devarim 30:6; Yehoshua 5:4, 5:7), and
-the article says outright that it does not know why that Mishnah uses a
+the column says outright that it does not know why that Mishnah uses a
 different verb.
 
 Alongside the *mahul* of Yeshayahu 1:22, the Mishnah has comparable words for

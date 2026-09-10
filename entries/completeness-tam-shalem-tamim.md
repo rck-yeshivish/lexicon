@@ -75,7 +75,7 @@ mean the same thing, but proposes a fundamental distinction all the same:
 honest weights that are not short of their declared weight (Devarim 25:15), for
 the uncut stones of the mizbeach, unchipped and unnotched (Devarim 27:6;
 Yehoshua 8:31, which the article prints as 8:21), and for the quota of sin not
-yet full in Avraham's day (Bereishis 15:16, of the Emori; the article says the
+yet full in Avraham's day (Bereishis 15:16, of the Emori; the column says the
 Canaanites). And *shalem* does not exclude excess: *leshalem*, to pay, still
 applies to one who paid more than the price, whereas *tamim* cannot apply
 without an exact match and fails the moment anything is missing or extra.

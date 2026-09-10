@@ -3,102 +3,142 @@ cluster: tax
 hebrew: [מס, מסים, מכס, מכסת, מנדה, בלו, הלך, כרגא, גולגלתא, ארנונא, טסקא]
 roots: [ס, מ-ס, ש-א, כ-ס, כ-ס-ס]
 translit: [mas, missim, misim, meches, mechess, michsas, michsat, minda, mindah, belo, halach, karga, karga d, gulgalta, gulgoles, arnona, arnonah, taska, kis]
-english: [tax, levy, conscripted labor, corvee, customs, poll tax, crop tax, property tax]
+english: [tax, levy, tribute, conscripted labor, corvee, customs, poll tax, crop tax, property tax]
 domain: society
 words:
   - he: הלך
     nk: הֲלָךְ
 sources:
   - wiaw:8339 "Heavy Taxes and Empty Pockets" (2019-07-27) https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets
-authorities: [Menachem Ibn Saruk, Rabbi Yehuda ibn Chayyuj, Rabbeinu Yonah ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri, Rabbi Baruch Avraham Toledano]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Shlomo Pappenheim, Dr. Hayim Tawil, Menachem Ibn Saruk, Rabbi Yehuda ibn Chayyuj, Rabbi Yonah ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri]
+status: reviewed
+updated: 2026-09-10
 ---
 # Tax: mas / meches (and the Aramaic terms)
 
 ## Bottom line
 
-*Mas* is the general Hebrew word and often means not money at all but
-**conscripted labor**: a levy of men, as with the *sarei missim* over the Jews
-in Mitzrayim. *Meches* is the narrower word, a share **reckoned off a total**
-and given to the king; in Bamidbar 31 it is the portion of the Midianite booty
-set aside for Hashem, so render it **levy** or **tribute**, not "tax." The
-Aramaic terms are technical and each names a different tax; keep them
-transliterated and gloss.
+*Mas* is the word typically translated **tax**, and in Modern Hebrew it is the
+generic word; but some scholars argue that a more accurate translation is
+**corvée work**, compulsory unpaid labor imposed by a sovereign, and the Bible
+bears that meaning out in several places (the *sarei missim* over the Jews in
+Mitzrayim, Shlomo HaMelech's conscription). *Meches* is the other Biblical
+Hebrew word that sometimes means tax: six times, all in Bamidbar 31, of the
+consecrated share of the Midianite booty given to Hashem. Its origin is
+disputed three ways: an Akkadian loanword for dues or tributes (Dr. Hayim
+Tawil); a Hebrew root meaning number (Menachem ibn Saruk, Chayyuj, Ibn Janach,
+Radak); a Hebrew root meaning covering, whence the pocket, so the tax that goes
+into the king's own purse (Rabbi Pappenheim). The rendering does not turn on the
+dispute: in Bamidbar 31 "levy" or "tribute" keeps the sense of a consecrated
+share (a judgment call, not the article's). The Aramaic terms are technical;
+keep them transliterated and gloss, and note that the Gemara equates several of
+them (*belo* is *gulgalta*, which is *karga*; *halach* is *arnona*).
 
 ## Distinctions
 
 ### mas (מס)
-Rabbi Shlomo Pappenheim gives three possible derivations. In *Yerios Shlomo*,
-from the single letter *samech*, rejection and disassociation (whence *nas*,
-fleeing, and *ma'us*, repulsive): paying a tax is disassociating oneself from
-that money and handing it to the authorities. In *Cheshek Shlomo*, from מ-ס,
-melting or disintegrating: taxes melt a man's assets away. Also in *Cheshek
-Shlomo*, from ש-א, carrying or lifting: a tax is a burden one carries.
+Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) offers three possible
+etymologies. In *Yerios Shlomo*, from the single letter *samech*, rejection and
+disassociation (whence *nas*, fleeing, and *ma'us*, disgusting): paying a tax is
+disassociating oneself from that money and handing it over to the authorities.
+In *Cheshek Shlomo*, from מ-ס, melting or disintegrating: taxes melt a man's
+assets away. Also in *Cheshek Shlomo*, from ש-א, carrying or lifting: a tax is a
+burden one must carry. Rabbi Klein adds that the *Oxford English Dictionary*
+gives the English noun *tax* two definitions, "a compulsory contribution to
+state revenue" and "a strain or heavy demand"; if Rabbi Pappenheim is correct,
+the second meaning is actually the basis for the first.
 
-The usage that matters for translation: *mas* very often means forced labor
-rather than money. The Egyptian taskmasters set over Yisrael are *sarei missim*
-(Shemos 1:11), and Shlomo HaMelech's conscription of civilians is called a *mas*
-(Melachim I 5:27).
+The usage that matters for translation: although *mas* is typically translated
+"tax," some scholars argue that a more accurate translation would be "corvée
+work," a system of compulsory, unpaid labor or civil service imposed by a
+sovereign, and that meaning is borne out by the Bible in several places. The
+Egyptian taskmasters set over the enslaved Jews are *sarei missim* (Shemos
+1:11), and Shlomo HaMelech's mandatory conscription of civilians is called a
+*mas* (Melachim I 5:27).
 
 ### meches (מכס)
-Six appearances in Tanach, all in one chapter (Bamidbar 31:28-41), of the
-consecrated share of the Midianite spoils given to Hashem. Menachem Ibn Saruk
-gives the root as כ-ס; Rabbi Yehuda ibn Chayyuj, Rabbeinu Yonah ibn Janach and
-Radak give כ-ס-ס. Either way the sense is number, and a rate is a matter of
-numbers, which is how the word came to mean a tax. These grammarians cite
-*michsas* (Shemos 12:4), the count of people joined on one korban Pesach, as
-proof that the root means number.
+Six appearances in Tanach in the sense of tax, all in one chapter (Bamidbar
+31:28-41), of the consecrated booty from the war against Midian, to be given to
+Hashem.
 
-Rabbi Shlomo Pappenheim accepts the root כ-ס but not the meaning: its core sense
-is covering. *Kis*, a pocket, is a covered space for small items such as coins;
-so a *meches* is specifically the tax that ends up in the king's purse, as
-against taxes spent on public works, and in Bamidbar 31 that King is Hashem.
-On *michsas* he says the borrowing is the other way: several people pooling
-their money into one pocket for the korban.
+Dr. Hayim Tawil of Yeshiva University argues that the Biblical *meches* is a
+loanword from the Akkadian *miksu* ("dues" or "tributes"), from the Akkadian
+verb *makasu* ("to collect a share from a rented field, to collect taxes,
+duty"). Others, however, have found a Hebrew basis for the word.
+
+Menachem ibn Saruk (920 to 970) gives the root as כ-ס; Rabbi Yehuda ibn
+Chayyuj, Rabbi Yonah ibn Janach (990 to 1050) and Radak (1160 to 1235) give
+כ-ס-ס. Either way these roots mean number. Rabbi Klein draws the consequence:
+that explains how *meches* was borrowed to mean a tax, since a rate is usually a
+function of numbers. The grammarians point to *michsas* (Shemos 12:4), the
+number of people collectively offering a single korban Pesach, as evidence that
+the root means number.
+
+Rabbi Pappenheim agrees that the root is כ-ס but argues that its core meaning is
+not number but covering. *Kis*, a pocket, is a covered space into which one puts
+small items such as coins so as not to lose them; so *meches* is specifically
+the tax that ends up in the king's pocket or purse, as against other taxes used
+for public works. For the Jewish People that King is Hashem, to whom the
+*meches* is given. *Michsas* he calls merely a borrowed usage as well: it refers
+to several people pooling their money into a single pot or "pocket" to buy the
+korban.
 
 ### the Aramaic terms in Tanach
-Koresh exempted the Anshei Knesses HaGedolah from *mindah*, *belo* and *halach*
-(Ezra 7:24). Rabbi Baruch Avraham Toledano: *mindah* is from *middah*, measure,
-a fee assessed on the size of one's property; *belo* is an expression of wearing
-out, and refers to food, which is consumed and used up; *halach* is from
-*holech*, going, a tax for the upkeep of roads and bridges. Bava Basra 8a and
-Nedarim 62b give a different set: *mindah* is *menas hamelech*, the king's
-portion (which lines up with Pappenheim's *meches*, the tax for the king's own
-purse); *belo* is *gulgalta* money; *halach* is *arnona*.
+The exemption in Ezra 7:24 releases its beneficiaries from *mindah*, *belo* and
+*halach*, all Aramaic words. Rabbi Baruch Avraham Toledano (1825 to 1917):
+*mindah* is related to *middah*, measure, the fee imposed as a function of the
+measurement of one's property; *belo* is an expression of wearing out and refers
+to food, which is digested and "worn out"; *halach* is related to *holech*,
+walking or travelling, taxes for the upkeep of roads, bridges and the like.
+Bava Basra 8a and Nedarim 62b give a different set: *mindah* is *menas
+hamelech*, the king's portion; *belo* is *gulgalta* money; *halach* is
+*arnona*. Rabbi Klein remarks that the Gemara's *mindah* seems to be the Aramaic
+equivalent of *meches* as Rabbi Pappenheim explains it, a tax for the king's
+personal profit.
 
 ### the Aramaic terms in Chazal
-*Karga* (from Persian and Arabic) is a poll tax, a fixed sum owed by each
-person (Rashi to Bava Metzia 73b); the Gemara treats *gulgalta* as the same
-thing, and *gulgalta* is simply the Hebrew *gulgoles*, skull, since the tax is
-by the head. *Arnona* is a crop tax: Rashi (Pesachim 6a, Bava Basra 8a) has it
-as a tenth of one's animals and grain each year. Rabbi Nosson of Rome (*Sefer
-HaAruch*) reads it instead as the meal each city had to supply to the king or
-his army when they passed through, which fits *halach*, going; Rabbeinu Nissim
-(Nedarim 62b) supports this two ways, that *arnona* is Greek for a meal, and
-that it means partnership, as the Arnon river was the boundary joining Moav and
-Emori territory (Bamidbar 21:13). Maharam Chalavah and Meiri (Pesachim 6a) cite
-both. *Taska* is a property tax (Rashi to Gittin 58b, Bava Metzia 73b and
-108a); elsewhere the same word is a sack (Rashi to Megillah 7b) or a basket
-(Tosafos to Avodah Zarah 14b), so the tax sense looks borrowed.
+*Karga*, from the Persian *karaka* and/or the Arabic *harag*, is a poll tax or
+head tax, a fixed sum each individual was obligated to pay (see Rashi to Bava
+Metzia 73b). As the Gemara's ensuing discussion shows, *gulgalta* means the same
+thing, and *gulgalta* is an Aramaicization of the Hebrew *gulgoles*, skull,
+since the tax fell on each head.
 
-In modern Hebrew the words have shifted: *mas* is the generic word for tax,
-*meches* means customs duty, and *arnona* has been reassigned to property tax
-in place of *taska*.
+*Arnona* is a crop tax levied on farmers: Rashi (Pesachim 6a, Bava Basra 8a) has
+it as a tenth of one's animals and grain every year. Rabbi Klein adds that
+historians record a tax in the Roman Empire called *annona*, used to supply
+grain and other foodstuffs to the city of Rome, and named from the Latin
+*annus*, year (whence English *annual*), because it was calculated from the sum
+total of the year's harvests. Alternatively, Rabbi Nosson of Rome (*Sefer
+HaAruch*) explains *arnona* as the meal each city had to supply to the king or
+army travelling through it (Rabbi Klein glosses the travelling as *halach*,
+going). Rabbeinu Nissim (Nedarim 62b) offers two ways of fitting that
+explanation to the word: *arnona* is Greek for a meal; or it means partnership,
+as the Arnon river was the border between Moav and the Emori (Bamidbar 21:13),
+in effect joining the two territories. Maharam Chalavah and Meiri (to Pesachim
+6a) also cite these two explanations.
+
+*Taska* is a property tax (see Rashi to Gittin 58b, Bava Metzia 73b and 108a).
+Elsewhere the word means a sack (Rashi to Megillah 7b) or a basket (Tosafos to
+Avodah Zarah 14b), so it seems that the tax sense is simply a borrowed meaning.
+
+In Modern Hebrew the words have shifted: *mas* is the generic word for tax,
+*meches* means customs duty, and *arnona* has been redefined as property tax in
+place of *taska*.
 
 ## Rendering guidance
 
 - Shemos 1:11, *sarei missim*: "taskmasters" or "officers over the forced
-  labor," never "tax officers." Melachim I 5:27 likewise, "levy" in the sense
-  of conscription.
+  labor," not "tax officers." Melachim I 5:27 likewise, "levy" in the sense of
+  conscription.
 - Bamidbar 31:28, *vaharemosa meches laHashem*: "you shall raise up a **levy**
-  for Hashem" or "a tribute." "Tax" imports a fiscal register that does not
-  belong to a division of spoils consecrated to Hashem.
-- Trap: English "tax" will absorb *mas*, *meches* and all six Aramaic terms at
-  once, and it will hide the fact that *mas* is frequently labor. Decide first
-  whether the passage means money or men.
+  for Hashem" or "a tribute." The article counts these as *meches* in the sense
+  of tax; preferring "levy" or "tribute" to "tax" for a division of spoils
+  consecrated to Hashem is a judgment call.
+- Trap: English "tax" will absorb *mas*, *meches* and every Aramaic term at once,
+  and it will hide the fact that *mas*, on some scholars' reading, is frequently
+  labor. Decide first whether the passage means money or men.
 - Trap: "levy" is a good rendering for both *mas* (a levy of men) and *meches*
-  (a levy off a total). If both words appear in one discussion, keep "levy" for
+  (a levy for Hashem). If both words appear in one discussion, keep "levy" for
   one only and choose "tribute" or "conscription" for the other.
 - The Aramaic terms of Ezra 7:24 and the sugya in Bava Basra 8a: transliterate
   and gloss on first use, and name the reading you are following, since the
@@ -115,8 +155,12 @@ Ohr Somayach, 24 Tammuz 5779 (2019-07-27): raw text in
 `sources/whats-in-a-word/raw/8339-heavy-taxes-and-empty-pockets.md`. Primary
 loci cited: Shemos 1:11, 12:4; Melachim I 5:27; Bamidbar 21:13, 31:28-41; Ezra
 7:24; Bava Basra 8a; Nedarim 62b; Bava Metzia 73b, 108a; Pesachim 6a; Gittin
-58b; Megillah 7b; Tosafos to Avodah Zarah 14b. The article also cites an
-academic Akkadian derivation of *meches*, a Latin derivation of *arnona* from
-Roman practice, and an English dictionary; all are omitted here (house rule 9),
-and the Hebrew derivations of the rishonim and Rabbi Pappenheim are given in
-their place.
+58b; Megillah 7b; Tosafos to Avodah Zarah 14b. Also cited: Rabbi Pappenheim,
+*Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Nosson of Rome, *Sefer HaAruch*;
+Dr. Hayim Tawil on the Akkadian *miksu*; the *Oxford English Dictionary* on
+English *tax*; the Roman *annona* as historians record it. The article names the
+king of Ezra 7:24 as Cyrus and the exempted as the Men of the Great Assembly; in
+the text the verse sits in the letter ascribed to Artachshasta (Ezra 7:11-26)
+and names the kohanim, Levi'im and the other servants of the Beis HaMikdash. The
+article opens by promising three Talmudic terms (*karga*, *arnona*, *taska*) and
+closes by listing four, adding *gulgalta*.

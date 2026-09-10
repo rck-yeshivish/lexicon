@@ -97,7 +97,7 @@ parts tightly joined, and *aton* is the donkey at its full strength.
 ### pere (פרא) and arud (ערוד)
 Ten occurrences, with final *aleph* or *hei*: the undomesticated wild ass, and by
 transfer a man of unbridled conduct, as Yishmael was foretold to be a *pere
-adam* (Bereishis 16:12; the article says Hashem told this to Avraham, but in the
+adam* (Bereishis 16:12; the column says Hashem told this to Avraham, but in the
 pasuk it is the *malach* speaking to Hagar). Rav Hirsch (to Bereishis 16:11) groups פ-ר-א
 with פ-ר-ע, פ-ר-ח, פ-ר-ה, ב-ר-א, ב-ר-ח and ב-ר-ה, all turning on freedom and
 unhindered movement; the man likened to the animal lacks the boundaries a man

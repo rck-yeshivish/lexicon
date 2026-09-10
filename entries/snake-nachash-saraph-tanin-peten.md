@@ -31,7 +31,7 @@ creature under two names. *Peten* is the **asp** that charming cannot touch
 ground, and *achshuv* is a *hapax* whose identity is unsettled. Avos d'Rabbi
 Nassan lists the seven beside *nachash*, but scribal errors have crept into our
 editions and rendered its own treatment unintelligible; the distinctions below
-come from other sources, as the article says it must.
+come from other sources, as the column says it must.
 
 ## Distinctions
 
@@ -65,7 +65,7 @@ close resemblance to *saraph*.
 
 ### tanin (תנין)
 The Vilna Gaon: *nachash* is to land as *tanin* is to sea. The analogy suggests,
-the article says, that *nachash* is a land snake and *tanin* a sea snake,
+the column says, that *nachash* is a land snake and *tanin* a sea snake,
 possibly an eel or something similar. Rashi (Bereishis 1:21 and Niddah 22b), on
 the other hand, simply writes that a *tanin* is a big fish. Contrary to popular
 belief, *akalason* does not mean snake at all but "coiled," serving as a
