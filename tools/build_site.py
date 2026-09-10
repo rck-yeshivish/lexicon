@@ -371,7 +371,7 @@ def main():
     <button class="chip" data-q="humiliation">humiliation</button></p>
 </section>
 <section class="split">
-  <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p>Alef to tuf, every headword in order.</p></a>
+  <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">מאל&rdquo;ף ועד תי&rdquo;ו</p></a>
   <a class="card" href="english.html"><h3>Browse English</h3><p>A to Z, from the English back to the Hebrew.</p></a>
 </section>'''
     emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
@@ -480,6 +480,7 @@ header.bare .brand{flex:1}
 .card:hover{text-decoration:none;transform:translateY(-2px);box-shadow:var(--shadow)}
 .card h3{margin:0 0 6px;font-size:18px;font-weight:600}
 .card p{margin:0;color:var(--dim);font-size:15px}
+.card p.he{font-family:var(--heb);font-size:19px;line-height:1.3}
 
 /* autocomplete ------------------------------------------------------------ */
 .ac{position:absolute;left:0;right:0;top:calc(100% + 8px);background:var(--panel);
