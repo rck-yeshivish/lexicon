@@ -24,8 +24,8 @@ words:
     distinct: the Aramaic form; every kisse in Tanach is rendered kursa in Targum (Rabbi Eliyahu HaBachur), and in Modern Hebrew it has narrowed to an armchair or recliner
 sources:
   - wiaw:10930 "Chair of Thrones" (2023-04-22) https://articles.ohr.edu/articles/chair-of-thrones
-authorities: [Radak, Rabbi Shlomo Pappenheim, Rabbi Avraham Abulafia, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Eliyahu HaBachur, Rashi, Rambam, Rabbi Menachem Mendel of Shklov, Rabbi Ernest Klein, Minchas Shai]
-status: draft
+authorities: [Radak, Rabbi Shlomo Pappenheim, Rabbi Avraham Abulafia, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Eliyahu HaBachur, Rashi, Rambam, Rabbi Menachem Mendel of Shklov, Rabbi Ernest Klein, Minchas Shai, Chaim Tawil]
+status: reviewed
 updated: 2026-09-10
 ---
 # Chair: kisse / kisseh / keis / kursa (kathedra)
@@ -37,9 +37,9 @@ why it is the word for Hashem's *Kisse HaKavod*. *Kisseh* (כסה) and *keis* (�
 same word in two rarer spellings; do not translate them differently, but never let the
 shortened *keis* of Shemos 17:16 pass silently, since the missing letter is the whole
 point of the derashah. *Kursa* is simply the Aramaic of *kisse*, so a Targum or Gemara
-*kursa* is still **throne**; reserve **armchair** for Modern Hebrew. *Kathedra* in the
-Mishnah is an ordinary **chair**, and is the one word in the group with no rank
-attached.
+*kursa* is still **throne**; reserve **armchair** for Modern Hebrew. *Kathedra* is the
+Greek word behind English **chair** and **cathedral**, and it turns up four times in the
+Mishnah.
 
 ## At a glance
 
@@ -63,7 +63,8 @@ without depending on his root analysis, since the rendering is the same either w
 something enveloped (*mukaf*) but something that envelopes (*makif*), Hashem's
 all-encompassing Providence. Rav Hirsch (to Bereishis 41:40) reads it the other way:
 *kisse* is kin to *kisui*, *katzeh* and *miktzoa*, all about cutting off, so a throne
-raises a man above the rest and puts him out of reach. Rabbi David Chaim Chelouche
+raises a man above the rest and puts him out of reach. Hirsch gets there through the interchange of kaf with kuf, samech with tzadi, and aleph
+with hey and ayin. Rabbi David Chaim Chelouche
 follows Hirsch: the king is set apart, covered and hidden away.
 
 **Keis Yah: one word or two.** An Amoraic dispute in Pesachim 117a; *Minchas Shai* (to
@@ -73,22 +74,41 @@ Sassoon 1053 one. Radak (*Sefer HaShorashim*) explains the missing aleph by the 
 reading; the Midrash keeps the absence as a statement in its own right. Render "the
 throne of Yah" either way and note the spelling.
 
-**The reish in kursa.** One approach: *kisse* is older and the reish was inserted later,
-Rabbi Ernest Klein explaining the rhotic as a stand-in for the doubled samech. The
-other: *kursa* is original and Hebrew dropped the reish. Nothing in translation turns on
+**The reish in kursa.** The column put the question to linguists and got two answers.
+The first, which it says seems to be the case: *kisse* without the reish is the older
+form and the Aramaic with it a later development, or corruption. The comparative
+evidence lines up neatly, on this view: Dr. Chaim Tawil relates Hebrew *kisse* to the
+Akkadian *kussu*, both of them very early Semitic and neither carrying a reish, while
+the Arabic cognate *kursiyy* does carry it, Arabic being later and, as Rabbi Ernest
+Klein notes, having probably borrowed the word from Aramaic. The reish's insertion the
+experts explained as dissimilation, and Klein explains the rhotic as inserted (by
+epenthesis) to stand in for a doubled consonant, here the doubled samech marked by the
+dagesh. Other linguists wrote to the column that the rhotic form *kursa* may instead be
+the more original, Hebrew having dropped the reish, in which case the dagesh in the
+samech marks where the reish went, and the phenomenon is assimilation. Nothing in
+translation turns on
 it.
 
 ## Distinctions
 
 ### kisse (כסא)
-The workhorse: 135 occurrences, always with a final aleph. Pappenheim: primarily a chair
+The workhorse: 135 occurrences, always with a final aleph. The column opens on the
+haftarah for Shabbos Rosh Chodesh: "So says Hashem: the heavens are My throne
+[*kisse*], and the earth is My footstool. Which is the house that has been built for Me?
+And which is the place of My resting?" (Yeshayahu 66:1). Pappenheim: primarily a chair
 with a cover or overhead canopy, the canopy itself displaying the honor of the one
-seated, especially a king. Rambam (*Moreh Nevuchim* 1:9): a *kisse* implies importance
-and power, since ordinary people in ancient times had no chairs; the Beis HaMikdash is
+seated, especially a king; his family of words includes *michsah*, a central fund such
+as the one the members of a korban Pesach pool their money into (Shemos 12:4). Rambam
+(*Moreh Nevuchim* 1:9): a *kisse* implies importance
+and power, presumably, the column says, because ordinary people in ancient times had no
+chairs but sat on whatever flat surface was at hand; the Beis HaMikdash is
 called the seat of Hashem's glory because prophecy issues from there. Rabbi Menachem
-Mendel of Shklov connects *kisse* to *ani*, kaf and samech following yod and nun, so
+Mendel of Shklov, if the column understood him correctly, similarly connects *kisse* to
+*ani*, kaf and samech following yod and nun, so
 that the throne connotes the Selfhood of Hashem rather than what merely emanates from
-Him.
+Him; he bolsters it by noting that the Aramaic *kursa* shares its three letters with
+*keres*, the Aramaic of *beten*, so that as the *keres* is integral to a man, *kisse*
+names the "Person" of Hashem.
 
 ### kisseh (כסה) and keis (כס)
 *Kisseh* three times: twice at Melachim I 10:19, of Shlomo HaMelech's throne, and Iyov
@@ -104,9 +124,13 @@ Amalek's descendants remain, Hashem's Name and throne are, so to speak, incomple
 *Kursa* three times, all in the Aramaic of Daniel (5:20, 7:9). Rabbi Eliyahu HaBachur
 (*Meturgaman*): Targum renders every Hebrew *kisse* as *kursa*; Rashi (to Daniel 7:9,
 Yevamos 118b, Kesuvos 75a, Gittin 35a) glosses *kursa* as *kisse*. Modern Hebrew has
-narrowed it to an armchair, no guide to the Aramaic. *Kathedra* is Greek, and the ancestor
-of English *chair* and *cathedral*; it appears four times in Mishnah, at Kesuvos 5:5 and
-Keilim 4:3, 22:3 and 24:2.
+narrowed it to an armchair or recliner, no guide to the Aramaic. English "chair" comes
+from the French *chaiere*, "seat," "throne," which first meant a bishop's throne, and
+that from the Latin *cathedra* and the Greek *kathedra*, which are also the etymons of
+"cathedral," the church where the bishop's throne stands. That Greek *kathedra* appears
+four times in Mishnah: at Kesuvos 5:5, where a woman who brought four maidservants into
+her marriage need do no housework but may simply sit on her *kathedra*, and at Keilim
+4:3, 22:3 and 24:2, on vessels and their susceptibility to tumah.
 
 ## Rendering guidance
 
@@ -135,6 +159,5 @@ Primary loci cited: Yeshayahu 66:1; Shemos 12:4, 17:16; Bereishis 41:40; Melachi
 §11 with Rashi to Shemos 17:16; Rashi to Daniel 7:9, Yevamos 118b, Kesuvos 75a, Gittin
 35a; Radak, *Sefer HaShorashim*; Rambam, *Moreh Nevuchim* 1:9; Rabbi Eliyahu HaBachur,
 *Meturgaman*; *Minchas Shai* to Shemos 17:16; Mishnah Kesuvos 5:5 and Keilim 4:3, 22:3,
-24:2. The article's comparative Akkadian and Arabic material, and the technical terms it
-borrows from academic Semitics, are omitted under house rule 9; Rabbi Ernest Klein's own
-observation is retained.
+24:2; Dr. Chaim Tawil on the Akkadian *kussu*; Rabbi Ernest Klein on the Arabic
+*kursiyy* and on epenthesis; the unnamed linguists the column consulted on the reish.

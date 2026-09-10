@@ -8,8 +8,8 @@ domain: nature
 sources:
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
 authorities: [Rashi, Ibn Ezra, Radak, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi, Rabbi Yishaya of Trani, Rashbam, Abarbanel, Rabbi Yosef Nechemias, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Dovid Golumb, Rabbi Yehoshua Steinberg, Shoresh Yesha]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Cold: kor / tzinah
 
@@ -50,7 +50,8 @@ Yishaya of Trani: the point of the mashal is that a touch of icy cold on a
 summer day gives the same relief as being able to rely on one's agent.
 
 The word's other sense is "shield," and the two are linked in both directions.
-Rabbi Moshe Kimchi (in the Mishlei commentary printed under Ibn Ezra's name):
+Rabbi Moshe Kimchi (in the Mishlei commentary mistakenly attributed to Ibn
+Ezra) suggests that
 cold is called *tzinah* because it shields from the summer heat. Abarbanel
 (Amos 4:2) runs it the reverse way, that a shield guards from the heat of
 battle. *Shoresh Yesha* links both to *tzanua* and *tzenius*: as the modest
@@ -73,7 +74,18 @@ an ice box keeping the manna cold; and *tzinim* in Mishlei 22:5, thorns to most
 commentators but cold to Rabbi Yosef Nechemias and to Radak in *Sefer
 HaShorashim*. Bamidbar 33:55 warns that the remaining Canaanites will be
 *sikim* in your eyes and *tzninim* in your sides: most read both as kinds of
-thorn, but Rashbam ties *tzninim* to *tzinah*, cold.
+thorn, but Rashbam ties *tzninim* to *tzinah*, cold. Rashbam does not say how
+that fits the context; the article offers, as its own suggestion, that the Torah
+may mean a sharp, stinging coldness that vexes a man and hampers what he can
+get done.
+
+Rabbi Yehoshua Steinberg of the Veromemanu Foundation uses the pairing of
+*tzinah* with *sheleg*, snow, in Mishlei 25:13 to join the word's two senses:
+just as snow covers a wide area and surrounds a person on every side, so does a
+*tzinah*, a shield or perhaps armor, cover a wide area and surround the man it
+protects. On that basis he argues that *tzinah* as coldness does not name the
+drop in temperature, as *kor* does, but an all-encompassing cold that covers a
+wide area and envelops a person entirely.
 
 ### tzonen (צונן), the rabbinic form
 Radak: in rabbinic Hebrew the final *nun* doubled, giving *tzonen* for coldness,
@@ -97,7 +109,7 @@ cold; and Sanhedrin 39b says Achav was *metzunan*, frigid.
 - Trap: English "cold" absorbs both words and "chilly" collapses the scale. Fix
   the grades before translating a passage that has both, and do not let *kor*
   come out milder than *tzinah*.
-- Trap: *tzinah* is also "shield" (Tehillim 35:2 and often). Decide by context,
+- Trap: *tzinah* is also "shield." Decide by context,
   and where a commentary is deliberately playing the two senses off each other
   (Rabbi Moshe Kimchi, Abarbanel), transliterate once and gloss both senses
   rather than picking one and losing the argument.

@@ -13,8 +13,8 @@ words:
 sources:
   - wiaw:9396 "Seeking Completion" (2021-10-16) https://articles.ohr.edu/articles/seeking-completion
 authorities: [Rabbeinu Bachaya, Malbim, Rabbi Shlomo Pappenheim, Zohar, Kedushat Levi, Targum Onkelos, Sefer HaBahir, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Bedersi, Rabbi Moshe Sofer, Rabbi Shimon Dov Ber Analak]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Completeness: tam / tamim / shalem
 
@@ -25,16 +25,21 @@ quantity, and having more than enough does not disqualify it (Rabbi Shlomo
 Pappenheim). *Tam* / *tamim* is **whole** in quality: an exact match with
 nothing missing and nothing extra (Rabbeinu Bachaya; Pappenheim); of a korban
 **unblemished**, of a person **wholehearted** or **wholesome**, of the Torah
-**perfect**. So *shleimus* is **completeness** or **wholeness**, not
-"perfection": "perfection" names a ceiling reached, while *shalem* says only
-that nothing is missing and leaves room for more. Keep "perfect" for *tamim*,
-where the exactness earns it, and even there prefer "whole" or "wholehearted"
-of a person.
+**perfect**. For rendering, this guide takes *shleimus* as **completeness** or
+**wholeness** rather than "perfection", since "perfection" names a ceiling
+reached while *shalem*, on Pappenheim's definition, says only that nothing is
+missing and leaves room for more; that last step is ours, not the article's.
+Keep "perfect" for *tamim*, where the exactness earns it, and even there prefer
+"whole" or "wholehearted" of a person.
 
 ## Distinctions
 
 ### tam / tamim (תם, תמים)
-Biliteral ת-ם. Rabbeinu Bachaya (Bereishis 17:1) gives two marks. First, no
+Biliteral ת-ם. All three Avos are called complete with words from this root:
+Hashem told Avraham that with his milah he would become *tamim*, whole
+(Bereishis 17:1); Yitzchak is an *olah temimah*, an unblemished burnt-offering
+(*Bereishis Rabbah* 64:3); and Yaakov is an *ish tam*, a wholesome man
+(Bereishis 25:27). Rabbeinu Bachaya (Bereishis 17:1) gives two marks. First, no
 deficiency and no superfluity: the Torah is *temimah* (Tehillim 19:8) because
 nothing may be added to it or taken from it (Devarim 13:1). Second, the inside
 like the outside: what the *tam* believes in his heart is exactly what his
@@ -47,37 +52,62 @@ appeased. Pappenheim: the word runs across the spiritual (a tzaddik), the
 physical (an unblemished animal, Vayikra 1:3, 22:21; the redness of the parah
 adumah, Bamidbar 19:2), and the quantitative (a full measure); it also names
 the innocent, "wholesome" man whose knowledge is complete to him and who
-seeks nothing beyond it, hence the *tam* of the Haggadah, the simpleton. The
-Zohar (Bamidbar 165b) ranks *tam* above *tamim*. On "be *tamim* with Hashem"
-(Devarim 18:13), after the ban on augury: innocent of outside wisdoms; the
-Kedushat Levi instead reads completeness of trust, seeing Hashem as the One
-who supplies whatever is lacking. Onkelos there renders *shelim*, and Sefer
-HaBahir (137) takes that as proof that *tamim* means *shalem*: colloquially
-the words are synonyms.
+seeks nothing beyond it, hence the *tam* of the Haggadah, the simpleton. (The
+column notes in passing the *whole* inside the English *wholesome*, a semantic
+affinity with *tam*.) The Zohar (Bamidbar 165b) ranks *tam* above *tamim*. On
+"be *tamim* with Hashem" (Devarim 18:13), coming after the ban on augury,
+divination, sorcery and necromancy: innocent and wholesome, not appealing to
+outside forms of wisdom such as the dark arts to know the future; the Kedushat
+Levi does not read *tamim* as "wholesome" here at all, but as completeness of
+trust in Hashem, seeing Him as the One who always supplies whatever is lacking.
+Onkelos there renders *shelim*, an Aramaic cognate of *shalem*, and Sefer
+HaBahir (137) uses that to prove that *tamim* means *shalem*, which the column
+takes to suggest that the two are synonymous, at least colloquially.
 
 ### shalem (שלם)
 Pappenheim traces it to the biliteral ש-ל, removed, cast away (*shal* your
 shoes, Shemos 3:5; *sheol*, *shalal*, *shalvah*, each a taking-away). *Shalem*
 is the completion reached when everything removed has been returned: right
 now, nothing is lacking. *Shalom* likewise: every factor needed for
-well-being present. This is quantitative completeness: whole weights (Devarim
-25:15), uncut stones for the mizbeach (Devarim 27:6), the Emori's quota of
-sin not yet full in Avraham's day (Bereishis 15:16). And it does not exclude
-excess: *leshalem*, to pay, still applies to one who overpaid, whereas *tamim*
-fails the moment anything is missing or extra. Rabbi Shlomo Aharon Wertheimer
-refines this: *shalem* is exclusively quantitative, while *tam* is qualitative
-and includes the quantitative, which is why a count can close with *tam*
-(*vayitmu*, the thirty days for Moshe, Devarim 34:8; the article prints 33:8).
-Rabbi Avraham Bedersi: *shalem* is neutral, no value judgment; *tam* is
-completeness of a positive kind. Rabbi Shimon Dov Ber Analak of Siedlce: *tam*
-is complete in one particular aspect, *shalem* across the board, as Yaakov
-came to Shechem *shalem* (Bereishis 33:18) in body, in Torah, and in wealth
-(Shabbos 33b; the article prints 33a); *tam* is almost always spiritual only.
-Rabbi Moshe Sofer on *vayitmu*: the mourning was completed in quality, when
-they saw they could have been Moshe's talmidim as Yehoshua was. Rabbi Yaakov
-Tzvi Mecklenburg on *sheva shabbasos temimos* (Vayikra 23:15): weeks are
-*temimos* only when Yisrael does Hashem's will (Vayikra Rabbah 28:3), because
-*temimos* is qualitative and cannot be a mere count of days.
+well-being present. Pappenheim allows that *tam* and *shalem* may colloquially
+mean the same thing, but proposes a fundamental distinction all the same:
+*shalem* is quantitative completeness, *tam* qualitative. Hence *shalem* for
+honest weights that are not short of their declared weight (Devarim 25:15), for
+the uncut stones of the mizbeach, unchipped and unnotched (Devarim 27:6;
+Yehoshua 8:31, which the article prints as 8:21), and for the quota of sin not
+yet full in Avraham's day (Bereishis 15:16, of the Emori; the article says the
+Canaanites). And *shalem* does not exclude excess: *leshalem*, to pay, still
+applies to one who paid more than the price, whereas *tamim* cannot apply
+without an exact match and fails the moment anything is missing or extra.
+
+Rabbi Shlomo Aharon Wertheimer takes a similar approach but differs: *shalem*
+is exclusively quantitative, while *tam* is qualitative completion that
+*includes* the quantitative. Rabbi Avraham Bedersi seems to understand both
+words as completion, but *shalem* as a neutral word carrying no value judgment
+and *tam* as a positive form of completion. And if the column has understood him
+correctly, Rabbi Shimon Dov Ber Analak of Siedlce holds that *tam* is completion
+in one particular aspect and not necessarily in all, while *shalem* implies a
+more overall completion, as Yaakov came to Shechem *shalem* (Bereishis 33:18)
+and Chazal expound it of body, Torah and wealth (Shabbos 33b; the article prints
+33a); *tam*, by contrast, almost exclusively denotes completion in the spiritual
+realm, not the physical, intellectual or financial.
+
+The commentators are bothered by *vayitmu*, "and the days of weeping in mourning
+for Moshe were finished" (Devarim 34:8; the article prints 33:8), which uses a
+cognate of *tam* for the closing of a fixed count of days, a quantitative
+measure. The article leaves two answers standing. One may accept Rabbi
+Wertheimer's supposition that *tam* covers quantitative completion as well as
+qualitative, while *shalem* covers only the quantitative. Or one may answer that
+the completion here is not of the days but of the quality of the mourning:
+Rabbi Moshe Sofer explains that the mourning for Moshe was completed when
+Yisrael compounded the loss of their leader with the realization that they
+could have become his talmidim as Yehoshua did, had they not been lazy.
+
+Rabbi Yaakov Tzvi Mecklenburg applies Pappenheim's distinction to *sheva
+shabbasos temimos* (Vayikra 23:15): Chazal teach that the weeks are *temimos*
+only when Yisrael act according to Hashem's will (Vayikra Rabbah 28:3), and
+Rabbi Mecklenburg sees them reading this out of *temimos* itself, which names
+qualitative completeness and so cannot be a mere count of the passage of time.
 
 ## Rendering guidance
 
@@ -109,6 +139,8 @@ Somayach, 10 Cheshvan 5782 (2021-10-16): raw text in
 `sources/whats-in-a-word/raw/9396-seeking-completion.md`. Primary loci the
 article cites: Bereishis 17:1 with Rabbeinu Bachaya; Bereishis 25:27; Bereishis
 Rabbah 64:3; Tehillim 19:8; Devarim 13:1, 18:13 (with Onkelos and Sefer HaBahir
-137), 25:15, 27:6, 34:8; Shemos 3:5; Vayikra 1:3, 22:21, 23:15 with Vayikra
-Rabbah 28:3; Bamidbar 19:2; Bereishis 15:16 and 33:18 with Shabbos 33b; Zohar
-to Bamidbar 165b.
+137), 25:15, 27:6, 34:8; Yehoshua 8:31; Shemos 3:5; Vayikra 1:3, 22:21, 23:15
+with Vayikra Rabbah 28:3; Bamidbar 19:2; Bereishis 15:16 and 33:18 with Shabbos
+33b; Zohar to Bamidbar 165b. Three of the article's loci are corrected here,
+with the article's form noted in the body: Devarim 34:8 (the article prints
+33:8), Shabbos 33b (printed 33a), and Yehoshua 8:31 (printed 8:21).

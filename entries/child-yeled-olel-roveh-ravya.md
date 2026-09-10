@@ -34,7 +34,7 @@ words:
 sources:
   - wiaw:8933 "Toldot: Boys and Girls (Part 2)" (2020-11-21) https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yonah Ibn Janach, Radak, Rashi, Midrash Tadshe, Rabbi Eliyahu HaKohen of Izmir, Rabbi Meir Simcha of Dvinsk, Targum Onkelos, Rabbi Yaakov Kamenetsky, Rashbatz, Bartenura]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Child: yeled / olel / roveh / elem (and Aramaic ravya, talya)
@@ -75,26 +75,31 @@ and nothing turns on it.
 **The order of the stages.** Pappenheim's account runs *olel*, growing through
 childhood, then *elem*. *Midrash Tadshe* (ch. 6) instead sets *elem* after
 *naar* and inserts *roveh* between them, listing the stages of life as *yeled*,
-*naar*, *roveh*, *elem*, *ish*, *sav*, *zaken* (six stages by the Midrash's own
-count, though seven names are printed). What both agree on is that *yeled* is
+*naar*, *roveh*, *elem*, *ish*, *sav*, *zaken* (the article calls them six
+stages, though seven names are printed). What both agree on is that *yeled* is
 the earliest.
 
 **How old a yeled is.** Pappenheim: no fixed age at all, and Yishmael is called
 a *yeled* at sixteen (Bereishis 21:15 to 16). Rashi (to Erachin 18b) on the
 Mishnah's *yeled* (*Erachin* 4:4): anyone from twenty to sixty, as against
-*zaken*, over sixty. Rabbi Eliyahu HaKohen of Izmir cites "sages of astrology"
-who put *yeled* at two to five and *naar* at five to eight. The bracket schemes
+*zaken*, over sixty. Rabbi Eliyahu HaKohen of Izmir cites anonymous "sages of
+astrology" who put *yeled* at two to five, *naar* at five to eight, and *bachur*
+at eight to eighteen. The bracket schemes
 are context-bound; Pappenheim's reading is the one to translate by.
 
 **The Aramaic correspondences.** They do not line up. Onkelos usually renders
-*yeled* as *ravya* (Bereishis 21:8, 21:16; Shemos 2:6), yet at the single
+*yeled* as *ravya* (Bereishis 21:8, 21:16; Shemos 2:6; see also Sukkah 5b), the
+feminine being *rivah/riviysa* (see Rashi to Sanhedrin 58b), yet at the single
 appearance of *yaldah* in Chumash (Bereishis 34:4) he writes *ulemta*, the
-Aramaic of *almah*. *Ulema* and *ulemta* are his normal words for *naar* and
+Aramaic of *almah*, rather than *rivah*. *Ulema* and *ulemta* are his normal words for *naar* and
 *naarah*, but he renders *naar* as *ravya* at Bereishis 37:2, Bamidbar 30:17, and
-Rus 2:5 to 6, and Targum uses both for *bachur* (Rus 3:10, Koheles 11:9). Rashi
-translates *rivah* as *naarah* (Shabbos 127b, Kesubos 62b) but at Sotah 26a
-defines *roveh* as *bachur* and as *yeled*. Rabbi Yaakov Kamenetsky noted the
-inconsistencies and resolved them, outside this article. Practically: do not
+Rus 2:5 to 6; and Targum renders *bachur* with cognates of *revi/ravya* at Rus
+3:10 and Eichah 5:13, but with *ulema* at Koheles 11:9. Rashi
+translates *rivah/riviysa* as *naarah* (Shabbos 127b, Kesubos 62b, Sanhedrin
+109b) but at Sotah 26a
+defines *roveh* as *bachur* and as *yeled*. Rabbi Yaakov Kamenetsky already
+noted some of these inconsistencies; his resolution lies beyond the article's
+scope. Practically: do not
 build an argument on which Aramaic word stands under a Hebrew one.
 
 ## Distinctions
@@ -126,12 +131,19 @@ from the sleep of childhood; Pappenheim adds that the word can carry the youthfu
 irresponsibility of one who shakes off (*l'na'er*) his obligations.
 
 ### ravya (רביא) and talya (טליא)
-Rabbi Reuven Chaim Klein, finding no source that treats their origins: *ravya*
-and its cognates come from the two-letter ר-ב, to grow in Aramaic (see Targum to
+Rabbi Reuven Chaim Klein, having found no source that explicitly treats their
+origins, offers what he calls the straightforward etymologies: *ravya*, *reva*
+and their cognates are clearly derived from the two-letter ר-ב, to grow in
+Aramaic (see Targum to
 Bereishis 25:27), so a boy or girl is one still growing; *talya* and *talyasa*
-connect to *tleh*, a young goat, the same doubling that gives English "kid" both
-senses. On *talya*, the Rashbatz and Bartenura (to *Avos* 1:10) read the name
-Avtalyon as *av* plus *talyon*, father of children (Gittin 36a).
+seem to him related to *tleh*, a young goat, the same doubling that gives
+English "kid" both senses, ostensibly because both run around wildly. Targum
+uses *tali/talya* for *yeled* and for *naar* (Megillah 5b; *Dikdukei Sofrim* to
+Yevamos 114a), and Rashi (to Megillah 5b) likewise defines *tali* as *naar*. On
+the name Avtalyon, the Rashbatz and Bartenura (to *Avos* 1:10) write that it
+alludes to that Sage's role as head of the Sanhedrin: the Gemara (Gittin 36a)
+has the court functioning as father of orphans, and the name can be read as *av*
+(father of) plus *talyon* (children).
 
 ## Rendering guidance
 

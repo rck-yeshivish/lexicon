@@ -60,7 +60,9 @@ Rabbi Shlomo Pappenheim treats the middle aleph as extraneous and takes the root
 as the biliteral reish-shin, pointing to *rishon* spelled with a yud (Iyov 8:8)
 and *reishis* spelled with neither aleph nor yud (Devarim 11:12), and to Aramaic
 *reish* (thirteen times in the Aramaic of Daniel; *reish galusa*, *reish
-mesivta*, Reish Lakish). Under that biliteral he gathers *yerushah* (the heir
+mesivta*, Reish Lakish), where Biblical Aramaic still spells it with an aleph
+like the Hebrew *rosh* and later Aramaic replaces that aleph with a yud. Under
+that biliteral he gathers *yerushah* (the heir
 becomes the head of the estate), *tirosh* (new wine, foremost in quality and at
 the start of its existence), *rishayon*/*reshus* (authority), *reshes* (a net,
 by which a hunter gains mastery over an animal), *rosheh* (weak, easily
@@ -120,7 +122,10 @@ each: "the *reishis* of wisdom is fear of Hashem" (Tehillim 111:10) against "the
   sequence, defined against the items after it; *reishis* is an absolute or primal
   beginning, not part of a sequence, important in itself and encompassing all
   that follows, which is why creation is *b'reishis*; *techilah* negates a prior
-  time without implying any tie to what follows.
+  time without implying any tie to what follows. Malbim adds that creation is
+  called *reishis* rather than *techilah* because it marks the origin of time
+  itself; Rabbi Klein reports this and then adds that he is not quite sure how it
+  adds up.
 - The Vilna Gaon (to Yeshayahu 1:26), on "I will restore your judges as at the
   *rishonah* and your counselors as at the *techilah*": a *reishis*-word for the
   judges because David and Shlomo were not the first judges, only the foremost of
@@ -135,8 +140,11 @@ distinction; anyone settling a hard case should go there.
 ### kedem (קדם)
 Targum Onkelos renders *b'reishis* as *b'kadmin*. *Kodem* is "before" in time,
 with the family *mukdam* (early), *kadmon* and *kadmoniyos* (ancient,
-antiquities), *hakdamah* (introduction), *takdim* (precedent), *mikdamah*
-(advance payment). Spatially, *kedem* and *kadimah* are east, the direction the
+antiquities), *hakdamah* (introduction), *k'dam* (the English prefix "pre-"),
+*kidomes* (prefix), *takdim* (precedent, an occurrence the like of which has
+happened before), *mikdamah* (advance payment), and in Modern Hebrew *kidum*
+(advancement, progress). The term, Rabbi Klein writes, denotes the future
+becoming the present. Spatially, *kedem* and *kadimah* are east, the direction the
 sun rises from and therefore what comes first. The Aramaic *kaman*, *l'kaman*
 and *kamma* (as in Bava Kamma) come from the same root with the dalet dropped,
 the loss marked by the *dagesh* in the mem; Rabbi Shaul Goldman notes that this
@@ -182,7 +190,4 @@ Yechezkel 40:1; Hoshea 1:2; Tehillim 111:10, 139:17; Mishlei 8:22, 9:10; Iyov
 Shimoni* to Yeshayahu 391; *Machberes Menachem*; *Yerios Shlomo*; *Meromei
 Sadeh*; *Nesivos Olam*, *Nesiv Yiras Hashem* ch. 1; *Sefer HaCarmel*. The count
 of thirteen for *techilah* is the article's, taken there from Even-Shoshan's
-concordance, and is not independently checked here. Malbim's further remark that
-creation is called *reishis* rather than *techilah* because it originates time
-itself is left out, since Rabbi Klein reports it and then says he does not see
-how it adds up.
+concordance, and is not independently checked here.

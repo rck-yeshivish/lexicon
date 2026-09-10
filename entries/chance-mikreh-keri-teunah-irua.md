@@ -8,9 +8,9 @@ domain: other
 sources:
   - wiaw:11821 "Bamidbar/Shavuot: Coincidence or Happenstance? (Part 1/2)" (2025-05-31) https://articles.ohr.edu/articles/bamidbarshavuot-coincidence-or-happenstance-part-12
   - wiaw:11822 "Naso: Coincidence or Happenstance? (Part 2/2)" (2025-06-07) https://articles.ohr.edu/articles/naso-coincidence-or-happenstance-part-22
-authorities: [Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Rashi, Rabbi Shaul Goldman]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Rashi, Rabbi Shaul Goldman, Stephen B. Chapman]
+status: reviewed
+updated: 2026-09-10
 ---
 # Chance: mikreh / keri / te'unah / i'rua
 
@@ -19,7 +19,8 @@ updated: 2026-09-09
 *Mikreh* is an **occurrence** or **happenstance**, the collision of a person
 with circumstances he did not arrange. *Keri* is the same root in the Torah's
 rebuke (Vayikra 26), where it is not a neutral event but **offhandedness** or
-**flippancy** toward Hashem, and in Mishnaic Hebrew it is the euphemism for a
+**flippancy** toward Hashem (Rabbi Shlomo Pappenheim reads it instead as the
+sinner's provoking posture), and in Mishnaic Hebrew it is the euphemism for a
 seminal emission (leave it transliterated there). *Te'unah* is a **mishap** or
 **befalling**, named for the causes that converge rather than the point of
 contact. *I'rua* is post-biblical, a plain **event** or **incident**. The trap:
@@ -32,12 +33,16 @@ argument of Vayikra 26, which is about attitude, not chance.
 Root ק-ר-ה / ק-ר-א. In Tanach a *mikreh* is a random happening: the Pelishtim
 test whether their plague was Hashem's hand or merely a *mikreh* (Shmuel I
 6:9); Shlomo HaMelech says one *mikreh* meets man and beast (Koheles 3:19) and
-one *mikreh* the righteous and the wicked (Koheles 9:2-3). The verb carries the
+one *mikreh* the righteous and the wicked (Koheles 9:2-3); the upshot, the
+column says, is that since all is Divinely pre-ordained it is hopeless to try to
+escape one's fate. The verb carries the
 same sense of the unprepared-for: *vayikar* of Hashem appearing to Bilaam
 (Bamidbar 23:4, 23:16), *karahu* of the accident Yaakov feared for Binyamin
 (Bereishis 42:38, 44:29), *karcha* of Amaleik chancing upon Yisrael (Devarim
 25:18), *yikareh* of coming upon a bird's nest (Devarim 22:6), and *vayiker
-mikreh* of Rus arriving in Boaz's field (Rus 2:3).
+mikreh* of Rus arriving in Boaz's field (Rus 2:3). On the Divine Hand behind
+every case of *mikreh* the column points the reader to Professor Stephen B.
+Chapman's essay "Miqreh and YHWH."
 
 Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes the biliteral ק-ר to mean
 "strong impact," and gathers under it *korah* (beam) and *tikrah* (ceiling),
@@ -49,24 +54,30 @@ an extraneous alef: a call gets attention and so brings about a meeting, an
 impact; likewise *likras*, moving toward a meeting.
 
 On *keri* in Vayikra 26 (26:21, 26:23, 26:24, 26:27-28, 26:40-41, and nowhere
-else in Tanach) there are two readings. Rav Hirsch (to Bereishis 42:4 and
-Vayikra 26:21) and most commentators: *keri* is serving Hashem in a
+else in Tanach) there are two readings. Many commentators, Rav Hirsch (to
+Bereishis 42:4 and
+Vayikra 26:21) among them: *keri* is serving Hashem in a
 non-deliberate, glib way, and the measure-for-measure is that Hashem deals
-back offhandedly. Rabbi Shlomo Pappenheim: *keri* is the sinner's deliberately
-antagonistic posture, sin plus the attitude of provoking Hashem, so that the
-word carries his "stronger impact" and draws a stronger response. Use Rav
-Hirsch's reading as the default; it is the majority and it fits the passage's
-own reciprocity.
+back offhandedly. Rabbi Shlomo Pappenheim takes a slightly different approach:
+*keri* is the sinner's
+antagonistic posture, an attempt to anger Hashem through his actions, so that
+the problem is twofold, the sin itself and the attitude behind it; the
+word then carries his "stronger impact" and draws a stronger response. The
+column leaves both standing. Rav
+Hirsch's reading is the easier default for a translator, since it fits the
+passage's own reciprocity, but that preference is ours, not the column's.
 
 In the Mishnah *keri* means a seminal emission (*Berachos* 3:4-6, *Terumos*
-1:6, *Avodah Zarah* 3:4, *Avos* 5:5, *Tamid* 1:1, *Keilim* 1:5, *Niddah* 5:1,
-*Zavim* 1:1-2, and elsewhere), the language avoiding the matter by calling it
+1:6, *Avodah Zarah* 3:4, *Avos* 5:5, *Tamid* 1:1, *Middos* 1:9, *Keilim* 1:5,
+*Mikvaos* 3:4 and 8:4, *Niddah* 5:1,
+*Zavim* 1:1-2 and 2:3), the language avoiding the matter by calling it
 simply "an incident." The euphemism has biblical warrant in *mikreh* used of
 ritual impurity (Devarim 23:11, Shmuel I 20:26).
 
 ### mikreh against metziah (מציאה)
-Malbim (in *Sefer HaCarmel*) treats *mikreh* and *metziah* as near-synonyms and
-separates them by cause: when the cause is unknown or irregular the happening
+Malbim, as cited in *Sefer HaCarmel*, treats *mikreh* and *metziah* as almost
+synonymous and attempts to
+separate them by cause: when the cause is unknown or irregular the happening
 is a *mikreh*; when the cause is ordinary and anticipated it is a *metziah*.
 Hence Yaakov's sons report the *koros* that befell them in Mitzrayim (Bereishis
 42:29), all of it unexpected, while Yehoshua's spies report *motza'os*
@@ -84,8 +95,10 @@ HaCarmel*): *mikreh* is the meeting-point of things, the impact itself, while
 coming-together of factors. His proof is Shemos 21:13: Hashem does not
 transport the killer to the Ir Miklat, He assembles the circumstances that will
 send him there. Rabbi Shaul Goldman notes that the same root א-נ-ה yields
-*anah*, "where?", so *te'unah* also carries the arbitrariness of an event's
-landing place. Modern Hebrew *te'unas derachim*, a road accident, is this word.
+*anah*, "where?", of an unknown location, and accounts for the pairing by saying
+that *te'unah* looks not so much at an event's causes or effects as at the
+unpredictability of its landing place, the arbitrary "where" of it. Modern Hebrew
+*te'unas derachim*, literally an occurrence of the roads, is this word.
 
 ### i'rua (אירוע)
 Root א-ר-ע. Not in Tanach; the verb is Mishnaic. Five things *ir'u* on the
@@ -96,12 +109,39 @@ preoccupies a man (*Kilayim* 7:7, *Taharos* 9:2, *Moed Katan* 2:1-2, *Berachos*
 4:2). It frequently pairs with rabbinic *keri* (*Yoma* 1:1, *Avos* 5:5, *Tamid*
 1:1, *Middos* 1:9 and 2:2). Targum generally renders *mikreh* / *keri* with
 cognates of *i'rua* or of ע-ר-ע; at Tehillim 85:11 it renders *nifgashu*, "met,"
-with a cognate of *i'rua*. Rabbi Shaul Goldman reads the whole cluster through
-the image of a happening as something that falls and lands: א-ר-ע gives Aramaic
-*ar'a*, land (Hebrew *eretz*, tzadi becoming ayin), so an *i'rua* lands on the
-ground; ק-ר-ה gives *karka* and Aramaic *arka* (Yirmiyahu 10:11) and connects to
-ק-ל-ע, to sling, and to Talmudic *ikla*, to happen to arrive. He rules that
-*arai* (non-permanence) is ע-ר-א and unrelated to *i'rua*.
+with a cognate of *i'rua*.
+
+### the falling metaphor
+Rabbi Shaul Goldman proposes that an event or occurrence is habitually framed in
+spatial terms, as something that falls and lands, which conveys a happening with
+no discernible pattern or intention behind it: it is construed as cast from
+above and striking the ground at random. The *mikreh*/*keri* cluster already
+implies a convergence of unrelated factors, and he takes it further, that the
+impact of those converging forces is consistently conceived as a downward fall,
+perhaps because gravity is the most universal form of impact there is. The
+column notes that English does the same, an event "falling out" on a date, and
+that *incident*, *accident* and *coincidence* all come from the Latin *cadere*,
+"falling upon," with *befalling* saying it outright and *landing* naming the end
+of a fall; *somewhere*, *wherever* and *whenever* carry the same sense of a
+place or time not deliberately fixed.
+
+On that model he reads the Hebrew back. By phonetic shift and the interchange of
+reish with lammed and hey with ayin, ק-ר-ה may also relate to ק-ל-ע, to sling or
+hurl, the image of a projectile striking a target, which the Talmudic Aramaic
+*ikla*, someone who happens to arrive somewhere, seems to corroborate. The same
+roots reach the ground itself: *karka*, a doubling of ק-ר, is land, and so is
+the Biblical Aramaic *arka*, which appears once (Yirmiyahu 10:11). The standard
+Aramaic for land is *ar'a*, cognate to Hebrew *eretz* with the tzadi becoming an
+ayin, and its root is the root of *i'ra*/*i'rua*, so that an *i'rua* is not only
+something that happens but something landing on the ground; other uses of א-ר-ע
+in Targumic Aramaic mean ruin or collapse. He adds that *kara*/*kriyah*/*vayikra*,
+primarily to call or proclaim, may also suggest deliberately summoning an event,
+which gives those words a paradoxical double duty, purposeful invocation
+(*mikra kodesh*) beside random occurrence, and a middle ground between accident
+and intention; and the Targumic rendering by ע-ר-ע comes back to א-ר-ע through
+the interchange of ayin and aleph. He maintains that *arai*, non-permanence, is
+properly spelled ע-ר-א and has nothing to do with *i'rua*, whatever the
+occasional spelling with an aleph.
 
 ## Rendering guidance
 
@@ -134,7 +174,8 @@ in `sources/whats-in-a-word/raw/11821-bamidbarshavuot-coincidence-or-happenstanc
 Primary loci cited: Vayikra 26:14-46 with Megillah 31b; Rabbi Shlomo
 Pappenheim, *Cheshek Shlomo* s.v. ק-ר; Malbim, *Sefer HaCarmel*; Rav Hirsch to
 Bereishis 42:4 and Vayikra 26:21; Rashi to Shemos 21:13; Koheles 3:19, 9:2-3;
-Shmuel I 6:9; Rus 2:3; Devarim 22:6, 23:11, 25:18; Tehillim 91:10; Mishlei
-12:21; Yehoshua 2:23. The article's reference to Professor
-Stephen B. Chapman's essay on *miqreh* is omitted here as academic, and the
-Latin *cadere* etymologies are given no weight above.
+Shmuel I 6:9 and 20:26; Rus 2:3; Devarim 22:6, 23:11, 25:18; Tehillim 85:11,
+91:10; Mishlei
+12:21; Yehoshua 2:23; Bereishis 42:29, 42:38, 44:29; Bamidbar 23:4, 23:16;
+Shemos 21:13; Yirmiyahu 10:11; Rabbi Shaul Goldman; Professor Stephen B.
+Chapman, "Miqreh and YHWH."

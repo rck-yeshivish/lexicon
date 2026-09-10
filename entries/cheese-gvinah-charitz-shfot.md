@@ -7,9 +7,9 @@ english: [cheese, curds, soft cheese, hunchback, back, bulge]
 domain: nature
 sources:
   - wiaw:9723 "More Cheese Please" (2022-06-04) https://articles.ohr.edu/articles/more-cheese-please
-authorities: [Rabbi Shimshon of Ostropoli, Ralbag, Rabbi Saadia Gaon, Radak, Abarbanel, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Avi Kobernick, Targum Yonasan, Rashi, Menachem Ibn Saruk, Ibn Janach, Rabbi Yosef Kara, Metzudas Tzion, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Radal, Rabbi Shmuel Yaffe-Ashkenazi, Rabbi Avraham ben Shlomo, Rabbi Avraham Maskileison, Rabbi Chaim Dov Rabinowitz, Rema, Pri Megadim, Rabbi Yosef Nissim Ben-Adahan]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Shimshon of Ostropoli, Ralbag, Rabbi Saadia Gaon, Radak, Abarbanel, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Avi Kobernick, Targum Yonasan, Rashi, Menachem Ibn Saruk, Ibn Janach, Rabbi Yosef Kara, Metzudas Tzion, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Radal, Rabbi Shmuel Yaffe-Ashkenazi, Rabbi Avraham ben Shlomo, Rabbi Avraham Maskileison, Rabbi Chaim Dov Rabinowitz, Rema, Pri Megadim, Rabbi Yosef Nissim Ben-Adahan, Alexander Kohut, Josephus]
+status: reviewed
+updated: 2026-09-10
 ---
 # Cheese: gvinah / charitz / shfot
 
@@ -31,10 +31,16 @@ curdle me like cheese?" (Iyov 10:10), which Ralbag and others read of Hashem
 taking the liquid matter of conception and setting it into a formed human
 being. From the Mishnah on it is simply the word for cheese (*Berachos* 6:3,
 *Shabbos* 17:2, *Nedarim* 6:5, *Eduyos* 5:2, *Avodah Zarah* 2:4-5, *Chullin*
-8:1-3). The same root yields *giben* (Vayikra 21:20), a blemish disqualifying a
-kohen: Rav Saadia Gaon, Radak (*Sefer HaShorashim*), and Abarbanel say a
-hunchback; the Mishnah (*Bechoros* 7:2) says one whose eyebrows are abnormally
-long.
+8:1-3). The word was popular enough in the ancient world to be borrowed into
+Akkadian as *gubnatu*, though Assyriologists argue that *gvinah* is originally
+Aramaic and not Hebrew. The same root yields *giben* (Vayikra 21:20), a blemish
+disqualifying a
+kohen: some commentators, Rav Saadia Gaon, Radak (*Sefer HaShorashim*), and
+Abarbanel among them, say a
+hunchback, which is the sense Modern Hebrew took; the Mishnah (*Bechoros* 7:2)
+says one whose eyebrows are abnormally
+long. Some explain the Midrash on Har Gavnunim as teaching that even a blemish
+like *giben* was healed at Har Sinai.
 
 Rabbi Shlomo Pappenheim reduces ג-ב-ן to the biliteral ג-ב, a bulge, something
 sticking out and plainly seen. Its plainest derivative is *gav*, the back or
@@ -46,21 +52,37 @@ visible from afar), *negev* (dry highland), *geveh* (surface pools, higher than
 an underground spring), *govai* (grasshoppers, which haunt the *geveh*), and
 *yogvim* (those who trap them).
 
-Rabbi Aharon Marcus works the same biliteral ג-ב but defines it as height:
+Rabbi Aharon Marcus works the same biliteral ג-ב, which he argues comes in turn
+from the monoliteral ג, but defines it as height:
 *gavoah*; *gibor*, who rises above his enemies; *gabachas* (Vayikra 13:41-42),
 the bald patch at the top of the forehead; *givah*, a hill; *elgavish*
-(Yechezkel 13:11, 13:13, 38:22), hail, falling from on high. He adds ג-ב-ן here
-as a hump, without saying whether he means the cheese or the blemish. Rabbi Avi
+(Yechezkel 13:11, 13:13, 38:22), hail, falling from on high. He also brings in
+the Arabic *jabal*, "mountain," from which the Hebrew *gvul*, "border," possibly
+derives, that too being a feature that runs upward. He adds ג-ב-ן here
+as a hump, without saying whether he means the cheese or the blemish. Alexander
+Kohut, in his *Aruch HaShalem*, suggests connecting *gavnunim* itself with
+*jabal*/*gvul* on the interchange of nun and lammed, so that *gavnunim* simply
+means mountainous or hilly. Rabbi Avi
 Kobernick reads ג-ב-ן against its metatheses ג-נ-ב (stealing) and נ-ג-ב
 (drying): in each, something integral is removed from where it belongs, the
 object from its owner, the moisture from the substance, liquid from curds.
 
-Derashos: Rabbi Shimshon of Ostropoli connects Shavuos dairy to *Har Gavnunim*,
+Derashos, and the column's opening question, why dairy on Shavuos: Rabbi
+Shimshon of Ostropoli connects it to *Har Gavnunim*,
 an alternate name for Sinai (Tehillim 68:16-17), from *gvinah*. *Shemos Rabbah*
-2:4 reads *Gavnunim* on the model of cheesemaking, which draws pure curds off
-from the dross: Hashem chose the mountain clean of avodah zarah, and Klal
-Yisrael stood there with every blemish healed. Rabbi Yosef Nissim Ben-Adahan:
-*gvinah* has the gematria of seventy, for the seventy faces of Torah.
+2:4, which the column reads as assuming the name relates somehow to *gnivah* and
+to cheese-making, expounds it on the model of cheese, which draws the purest
+curds off
+from the dross: of all the mountains Hashem chose the one clean and pure of
+avodah zarah, and Klal
+Yisrael stood there in their purest state, every dross-like blemish healed.
+Rabbi Yosef Nissim Ben-Adahan:
+*gvinah* has the gematria of seventy, for the seventy planes of interpretation
+in every part of Torah. The column adds two further answers in a postscript:
+David HaMelech died on Shavuos by tradition (Yerushalmi *Chagigah* 2:3, *Rus
+Rabbah* 3:2), and since most of Tanach's cheese occurs in his story, perhaps the
+custom marks him; or, since the heter of dairy is derived from a story about
+him, we honor his memory on the day of his petirah by eating milk foods.
 
 ### charitz (חריץ)
 Yishai sends David with ten *charitzei hechalav* to the officer (Shmuel I
@@ -68,21 +90,29 @@ Yishai sends David with ten *charitzei hechalav* to the officer (Shmuel I
 Bechoros 6b uses the pasuk as one of two proofs that milk and its products are
 permitted and are not *eiver min hachai*. On why the root ח-ר-צ should mean
 cheese: Radak (*Sefer HaShorashim*) and Rabbi Avraham ben Shlomo, pieces of
-fresh cheese, whose making involves a shaking like threshing, and threshing is
+fresh cheese, whose making somehow involves a shaking that resembles threshing,
+and threshing is
 *charutz* (Yeshayahu 10:22, 28:27); Rabbi Yosef Kara (to Shmuel I 17:18),
-cheese was gathered in *charitzim*, trenches dug in the ground (Daniel 9:25;
-*Eruvin* 7:3; *Bava Kamma* 5:5; *Mikvaos* 5:6); *Metzudas Tzion* (there),
-cheese was cut to measure while still being made, and *charitz* is cutting
-(Iyov 14:5); Rabbi Tedeschi-Ashkenazi (*Hoil Moshe*), *charitz* as sharp, a
-cheese of fermented milk with a tang.
+cheese was often gathered in *charitzim*, ditches dug in the ground (Daniel 9:25;
+*Eruvin* 7:3; *Bava Kamma* 5:5; *Mikvaos* 5:6); *Metzudas Tzion* (there)
+suggests that perhaps
+cheese was cut to fixed measures while still being processed, and *charitz* is
+cutting
+(Iyov 14:5); Rabbi Tedeschi-Ashkenazi (*Hoil Moshe* to Shmuel II 17:29),
+*charitz* as sharp, a
+cheese of fermented milk with a tangy flavor.
 
 Against all of these, *Midrash Shmuel* 20:4 takes *charitzei hechalav* not as
 cheese but as young kids, either not yet weaned (*Mahari Cohen*, *Eitz Yosef*,
-Radal) or just weaned (*Yefeh Nof*), a delicacy; Radal derives *charitz* there
-from *charutz*, diligent, one quick to take them from their mothers, and Rabbi
-Shmuel Yaffe-Ashkenazi from cutting, their being cut off from the milk. Ibn
-Janach (*Sefer HaShorashim*) raises a third option, thick coagulated milk in
-the udder. Rabbi Avraham Maskileison uses this to explain why Bechoros 6b
+Radal) or just weaned (*Yefeh Nof*), a delicacy. Both further derivations are
+put conditionally: Radal writes that *if* the phrase means animals still
+nursing, then *charitz* comes from *charutz*, diligent, someone quick to take
+them from their mothers while still young and tender; and Rabbi
+Shmuel Yaffe-Ashkenazi that *if* it means animals recently weaned, then
+*charitz* is cutting, their being cut off from their mother's milk. Ibn
+Janach (*Sefer HaShorashim*) entertains a third possibility, thick coagulated
+milk found in the animal's udder. Rabbi Avraham Maskileison uses these to
+explain why Bechoros 6b
 treats the pasuk as a possible and not a conclusive proof. Halachic aside: Rema
 (Yoreh Deah 89:4) records marking the dairy knife; *Pri Megadim* (*Mishbetzos
 Zahav* 89:7) finds the hint in *charitz* (a groove) beside *chalav*, that dairy
@@ -98,10 +128,15 @@ word to ש-פ, rubbing and massaging (Iyov 33:21; Radak, *Sefer HaShorashim*).
 Rabbi Pappenheim defines the biliteral as movement by rubbing, shifting a thing
 without lifting it, and takes *shfot bakar* as soft, spreadable cheese. Rabbi
 Tedeschi-Ashkenazi (*Hoil Moshe* to Tehillim 127:5, Shmuel II 17:29, Yechezkel
-40:43) ties it to the other *shfot*, setting a pot by the fire (Melachim II
-4:38), the shared sense being bringing things together: pot to fire, curds to
-one another; he groups *ashpah* (quiver) and *shifshuf* with it, and
-alternatively makes *shfot* the wicker basket that strains curds from whey.
+40:43) ties it to the homonymous *shfot*, setting a pot by the fire (Melachim II
+4:38), the shared sense being bringing things closer or joining them: pot to
+fire, the cheesy particles in the milk into one glob; he groups *ashpah*, the
+bin or container for arrows, and *shifshuf* with it, and
+alternatively makes *shfot* the wicker baskets used to filter fermenting milk,
+separating the curds from the whey. The column adds as an aside that Josephus
+mentions a place in Yerushalayim called the Tyropoeon, the Valley of the
+Cheesemakers, which some scholars have identified with Shaar HaAshpah, on the
+strength of that link between *ashpah* and *shfot*.
 Dissenting: Ibn Janach again offers milk in the udder; Radak the udders
 themselves; Rabbi Avraham ben Shlomo butter, which is hard, since *chemah* is
 already named in the pasuk. See *Chasam Sofer* 6:22 on why Bechoros 6b did not
@@ -118,8 +153,8 @@ bring this pasuk as its proof.
 - *Charitzei hechalav*: "rounds of cheese" reads well, but a footnote must
   carry the *Midrash Shmuel* reading, since "cheese" silently decides a
   machlokes.
-- *Giben* is "hunchback" on the majority view and "one with overgrown eyebrows"
-  on the Mishnah's; do not render it "deformed," which loses both.
+- *Giben* is "hunchback" to some commentators and "one with overgrown eyebrows"
+  on the Mishnah's reading; do not render it "deformed," which loses both.
 - *Gavnunim* in Tehillim 68:16-17: "many-peaked mountain"; keep the *gvinah*
   wordplay for a note, not the rendering.
 
@@ -137,10 +172,5 @@ Iyov 10:10, 14:5, 33:21; Shmuel I 17:18; Shmuel II 17:29; Tehillim 3, 68:16-17,
 13:13, 38:22, 40:43; Melachim II 4:38; Daniel 9:25; Bechoros 6b and *Bechoros*
 7:2; *Shemos Rabbah* 2:4; *Midrash Shmuel* 20:4; *Midrash Shocher Tov* to
 Tehillim 3; Yerushalmi *Chagigah* 2:3 and *Rus Rabbah* 3:2 on David's petirah
-on Shavuos; Rema, Yoreh Deah 89:4 with *Pri Megadim* 89:7; *Chasam Sofer* 6:22.
-
-Omitted under house rule 9: the Akkadian *gubnatu* borrowing and the
-Assyriologists' claim that *gvinah* is originally Aramaic; Alexander Kohut's
-*Aruch HaShalem* linking *gavnunim* to Arabic *jabal*, and the same Arabic
-comparison where Rabbi Aharon Marcus makes it; and Josephus with the scholarly
-identification of the Tyropoeon valley.
+on Shavuos; Rema, Yoreh Deah 89:4 with *Pri Megadim* 89:7; *Chasam Sofer* 6:22;
+Alexander Kohut, *Aruch HaShalem*; Josephus on the Tyropoeon.

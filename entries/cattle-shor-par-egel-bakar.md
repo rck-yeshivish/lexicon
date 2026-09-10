@@ -14,9 +14,9 @@ words:
     nk: שׁוֹר
 sources:
   - wiaw:8333 "Bovine Words: Cows and Cowboys" (2019-07-20) https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys
-authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg, Julian Mason]
+status: reviewed
+updated: 2026-09-10
 ---
 # Cattle: shor / par / egel / aleph / bakar
 
@@ -31,6 +31,18 @@ the collective, **cattle**, and its *boker* is the **herdsman**. The trap: Engli
 guarding, since it is not a synonym for *par* at any age.
 
 ## Distinctions
+
+### the English words first
+The column starts on the English side, since it holds that English has neat
+parallels to the Hebrew terms, only without a traceable etymology behind them. A
+*heifer* is a young female bovine, especially one that has not yet calved; a
+*cow* is a mature female that has calved and so gives milk, though colloquially
+"cow" covers any bovine at all. On the male side English marks the gelded off
+from the fertile, the young from the old, and the beast bred for food from the
+beast bred for work: a *bull* keeps its testicles and is used for breeding; one
+castrated young and raised for beef is a *steer* or *bullock*, one castrated
+older a *stag*; an older castrated beast used for draft work is an *ox*, though
+"ox" too is used loosely for any bovine trained to draw.
 
 ### the five names
 Rabbi Eliezer HaKallir's *piyut* for the second day of Pesach uses five Hebrew
@@ -55,7 +67,8 @@ fruit, a microcosm of the tree that comes off it), *pe'er* and *tiferes* (an
 all-encompassing beauty made of many aspects), *hafarah* (dissolving a vow),
 *primah* (tearing a garment into shreds), and *tefirah* (sewing, which repairs
 *primah*). Since *pri* is reproduction, the *par* is the fertile male, unlike the
-*shor*, and the *parah* is kept for exactly what her name says, calving and milk.
+*shor*, and the *parah* is almost always kept for exactly what her name says,
+calving and milk, only a small minority of females ever being made impotent.
 Rashi (to Tehillim 69:32; Chullin 60a; Avodah Zarah 8a): a *shor* is called that
 from the day it is born (see Vayikra 22:27), while *par* is a name it takes on
 only later. Radak (to Tehillim 69:32): a *shor* is big and a *par* is small,
@@ -66,14 +79,18 @@ Rabbi Shlomo Pappenheim: from the biliteral shin-reish, borrowed from *shor* or
 *sharir*, the umbilical cord (Yechezkel 16:4; Mishlei 3:8; Iyov 40:16). As the
 cord at the child's navel joins him to his mother and carries all his growth, so
 the ox holds the core of its strength in its belly. In Aramaic the shin becomes a
-tav, giving *tor*. Whether *shor* means specifically a castrated ox is disputed:
+tav, giving *tor*; some linguists maintain that the Latin *taurus* derives from
+that Aramaic *tor*. Whether *shor* means specifically a castrated ox is disputed:
 many assume it does, but Rabbi Yonah Merzbach argues it cannot, since castrating
 an animal is forbidden (Vayikra 22:24), so *shor* and *par* must stand alike on
 that question.
 
 ### aleph (אלף)
-Eight appearances in Tanach for cattle (Devarim 7:12, 28:4, 28:12, 28:51;
-Tehillim 8:8, 50:10; Mishlei 14:4; Yeshayahu 30:24). Rabbi Shlomo Pappenheim
+Eight appearances in Tanach for cattle (Devarim 7:13, 28:4, 28:18, 28:51;
+Tehillim 8:8, 50:10; Mishlei 14:4; Yeshayahu 30:24). The letter aleph in the
+original paleo-Hebrew script (*ksav ivri*) looked like an ox; that script was
+borrowed by the Phoenicians and then by the Greeks, and became the standard
+alphabet. Rabbi Shlomo Pappenheim
 connects it to the biliteral lamed-peh, a strong hold: the chieftain with a firm
 hold over those under him is an *aluf*, and the number one must command to earn
 that title is an *elef*, a thousand; an *aleph* is on that reckoning the
@@ -88,8 +105,13 @@ comes and one can begin to discern; *bikur cholim* likewise is not merely
 visiting but finding out how the sick man is and what can be done for him. Rabbi
 Yehoshua Steinberg: *bakar* is domesticated cattle precisely because such animals
 need watching, supervision and defense from marauders, and that is the work of
-the *boker* or *voker*, the herdsman (Amos 7:14), who must also seek out better
-pasture for them.
+the *boker* or *voker*, which the column glosses "cowboy" (Amos 7:14), who must
+also seek out greener pasture for them. Some have claimed the English slang
+*buckaroo*, a cowboy, comes from that same *boker*/*voker*; but most linguists,
+the column reports, agree it derives from the Spanish *vaquero*, from *vaca*,
+"cow." Dr. Julian Mason, of the University of North Carolina, argued instead
+that *buckaroo* comes from Gullah, the Creole spoken by African-Americans in
+coastal South Carolina and Georgia, in which *buckra* means "white man."
 
 ## Rendering guidance
 
@@ -99,7 +121,9 @@ pasture for them.
   with the sex supplied where it matters (*Eglah Arufah* is a female calf, and
   that is load-bearing).
 - אלף in a pasuk: "ox" or "oxen," in a poetic register; "cattle" flattens it.
-  בקר: "cattle"; בוקר of a person: "herdsman," not "cowboy."
+  בקר: "cattle"; בוקר of a person: "herdsman." The column's own gloss is
+  "cowboy," which is accurate but too modern a register for most prose; the
+  preference for "herdsman" is ours.
 - Trap: English "ox" will swallow *shor*, *par* and *aleph* at once. Where
   HaKallir or a Midrash is counting the five names (as with the fivefold payment
   of Shemos 21:37), the translation has to keep five distinct English words, or
@@ -119,9 +143,13 @@ Rabbi Reuven Chaim Klein, "Bovine Words: Cows and Cowboys," What's in a Word?,
 Ohr Somayach, 17 Tammuz 5779 (2019-07-20),
 https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys; raw text in
 `sources/whats-in-a-word/raw/8333-bovine-words-cows-and-cowboys.md`. Primary loci
-cited: Shemos 21:37 (the article prints 22:37); Vayikra 22:24, 22:27; Devarim
-7:12, 28:4, 28:12, 28:51; Yeshayahu 30:24; Amos 7:14; Tehillim 8:8, 50:10,
+cited: Shemos 21:37; Vayikra 22:24, 22:27; Devarim
+7:13, 28:4, 28:18, 28:51; Yeshayahu 30:24; Amos 7:14; Tehillim 8:8, 50:10,
 69:32; Mishlei 3:8, 14:4; Yechezkel 16:4; Iyov 40:16; Parah 1:1; Chullin 60a;
-Avodah Zarah 8a; *Tzohar HaTeivah*; Radak, *Sefer HaShorashim*. The article's
-derivations of Latin *taurus* and of English "buckaroo" from Spanish and Gullah
-are omitted here.
+Avodah Zarah 8a; *Tzohar HaTeivah*; Radak, *Sefer HaShorashim*; Dr. Julian
+Mason.
+
+Three loci in the article need correcting. It prints the fivefold-payment pasuk
+as "Ex. 22:37"; the locus is Shemos 21:37. In its list of the eight *aleph*
+pesukim it prints "Deut. 7:12" and "28:12"; neither has the word, and the two
+pesukim that do, and that bring the count to eight, are Devarim 7:13 and 28:18.

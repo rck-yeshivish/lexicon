@@ -13,8 +13,8 @@ words:
 sources:
   - wiaw:7009 "Fowl Language and Poultry" (2016-11-19) https://articles.ohr.edu/articles/fowl-language-and-poultry
 authorities: [Rashi, Radak, Rabbi Yom Tov Lipman Heller, Sifri, Rambam, Ramban, Rabbi Chanoch Zundel of Bialystok]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Bird: of / tzipor / kanaf
 
@@ -34,27 +34,32 @@ inclusion Rashi reads there.
 ### of (עוף)
 Root ע-ו-ף, which also gives the verb "flies." Radak (to Bereishis): the general
 term for any flying creature, with *tzipor* and *kanaf* as classes under it.
-Rabbi Chanoch Zundel of Bialystok adds a character to it: an *of* is a bird with
-strong wings, typically a predator, restless because it depends on nothing but
-itself and is always hunting its next meal.
+Rabbi Chanoch Zundel of Bialystok adds a character to it, on the model of the
+Gemara's own split between *behemah gasah* and *behemah dakah*: an *of* is a bird
+with strong wings, even if it is physically small, typically a predator, restless
+because it depends on nothing but itself and is always hunting its next meal.
 
 ### tzipor (ציפור)
 Root צ-פ-ר. Three readings, and the Tosafos Yom Tov notes the dispute:
-1. Radak (commentary to Bereishis and *Sefer HaShorashim*), with support in
-   Chullin 139b: any bird at all, kosher or not.
-2. Sifri, followed by Rambam in his commentary to the Mishnah: specifically a
-   kosher bird. This is how the Mishnah (Chullin 12:2) knows that *shiluach
-   hakein* (Devarim 22:6 and 22:7) applies only to a kosher bird, since the pasuk
-   there says *tzipor*.
-3. Ramban (to Vayikra 14:4): small birds that wake at dawn and chirp, the word
-   coming from Aramaic *tzafra*, "morning."
+1. Radak (commentary to Bereishis and *Sefer HaShorashim*): any type of bird.
+   The Gemara seems to suggest as much, and the column calls Chullin 139b some
+   Talmudic precedent for it rather than a proof.
+2. Sifri, followed by Rambam in his commentary to the Mishnah: *tzipor* is
+   specifically a kosher bird, while *of* covers all birds. This is how the
+   Mishnah (Chullin 12:2) knows that *shiluach hakein* (Devarim 22:6-7) applies
+   only to a kosher bird, since the pasuk there says *tzipor*.
+3. Ramban (to Vayikra 14:4), who also rejects Radak but narrows the word
+   differently: small birds that wake in the morning and chirp, the word coming
+   from Aramaic *tzafra*, "morning."
 
 Rabbi Chanoch Zundel joins the last two. A *tzipor* is the flimsier, weaker
 bird, not a predator, content with whatever man or nature hands it; because it
 trusts another to feed it, it can sleep at night and wake to sing in the morning.
 That is exactly Ramban's dawn-chirper, and it is exactly the Mishnah's kashrus
-criterion, since Chullin 3:6 disqualifies every predatory bird. So Ramban's
-*tzipor* and Rambam's kosher *tzipor* turn out to describe the same creature.
+criterion: the Torah simply lists the non-kosher birds (Vayikra 11:13-19), and it
+is the Mishnah (Chullin 3:6) that reveals the criterion, that any predatory bird
+is non-kosher. So Ramban's *tzipor* and Rambam's kosher *tzipor* turn out to
+describe the same creature.
 The *mussar* he draws: one who trusts that Hashem provides can rest; one who
 believes only in his own hands is never at ease.
 

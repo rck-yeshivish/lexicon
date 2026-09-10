@@ -12,7 +12,7 @@ words:
     nk: סְפָר
 sources:
   - wiaw:11471 "Matos/Masei: On the Border" (2024-08-03) https://articles.ohr.edu/articles/matosmasei-on-the-border
-authorities: [Rashi, Targum Onkelos, Mahari Kara, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Radak, Rav Hirsch, HaKtav VeHaKabbalah, Rabbi Shlomo Pappenheim, Rabbi Yehoshua Steinberg, Rabbi David Golumb, Rabbi Avraham Rivlin, Rabbi Benzion Chaim Lubetzki, Ramak, Rabbi Saadia Gaon, Rabbi Avraham Yitzchok Shain, Rabbi Pinchas of Koretz]
+authorities: [Rashi, Targum Onkelos, Mahari Kara, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Radak, Rav Hirsch, HaKtav VeHaKabbalah, Rabbi Shlomo Pappenheim, Rabbi Yehoshua Steinberg, Rabbi David Golumb, Rabbi Avraham Rivlin, Rabbi Benzion Chaim Lubetzki, Ramak, Rabbi Saadia Gaon, Rabbi Avraham Yitzchok Shain, Rabbi Pinchas of Koretz, Rabbi Ernest Klein, Wilhelm Gesenius]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -67,12 +67,22 @@ roots not uncommonly carry a sense and its opposite, *shoresh* (root) beside
 *l'sharesh* (to uproot), since a word stands in for the abstract concept it
 represents, and opposites are conceptually related, inversely.
 
+Outside the parshanut, the column notes that philologists such as Wilhelm
+Gesenius have long taken *gevul* as cognate with the Arabic *jabal*,
+"mountain," mountains serving as natural borders between two polities or even
+between two plains. The column adds that the Yemenite Jewish surname
+Jibli/Gibli, from that Arabic word, is the equivalent of the Hebrew surname
+Harari and the Yiddish/German Berg, all of them meaning "mountain."
+
 ### techum (תחום)
 The standard Targumic rendering of *gevul* (Targum to Bereishis 10:19, 23:17,
 Shemos 19:12, 19:23, Devarim 19:4), and in Mishnaic Hebrew the word for what
 falls inside a bound: *techum Shabbos*, the two thousand amos outside the city
 within which one may walk on Shabbos (*Eruvin* 5:5, *Beitzah* 4:2, *Sotah*
-5:3). Rabbi Benzion Chaim Lubetzki (*Midrash Safah Echas*) reads it as a
+5:3). Rabbi Ernest Klein, in his etymological dictionary of Hebrew, takes the
+Rabbinic Hebrew *techum* as a loanword from that Aramaic word, which he in turn
+sees as borrowed from the Akkadian *tahumu*. Rabbi Benzion Chaim Lubetzki
+(*Midrash Safah Echas*) reads it as a
 metathesis of *chasum*, "sealed," the space inside being sealed off by what
 rings it. Rabbi Golumb sets the tav aside and takes the core root as ח-ו-ם,
 "brown/red," again from the fortifying a frontier needs; the article records
@@ -164,7 +174,4 @@ Shemos 7:27, as its own earlier citation has it. On *techum* it writes that
 Rabbi Golumb "sees the TAV as a radical, thus identifying its core root as
 CHET-VAV-MEM," which reads backwards, since a root of chet-vav-mem is precisely
 one in which the tav is not a radical; the substance, that he works from
-ח-ו-ם, is not in doubt, and that is what is given above. Two etymologies the
-article carries are omitted here under house rule 9: Gesenius on *gevul* as
-cognate to Arabic *jabal*, and the derivation of *techum* from an Akkadian
-loanword.
+ח-ו-ם, is not in doubt, and that is what is given above.

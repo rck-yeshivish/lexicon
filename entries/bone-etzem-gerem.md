@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:10785 "Them Bones and Themselves" (2023-01-07) https://articles.ohr.edu/articles/them-bones-and-themselves
 authorities: [Menachem Ibn Saruk, Rashi, Ralbag, Ramban, Rav Hirsch, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Emden, Rabbi Eliyahu HaBachur, Rambam, Rabbi Tanchum HaYerushalmi, Rabbeinu Bachaya, Metzudas Tzion, Tosafos, Rabbi David Chaim Chelouche]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Bone: etzem / gerem
@@ -69,16 +69,20 @@ causing rather than about bones.
    it develops parts of that tissue close up and harden into bone (Iyov 10:11;
    *Chullin* 89b). *Gerem* names specifically the larger bones, the ones that
    carry a heavy load, which is what Yaakov invoked for Yissachar.
-3. **Outside against inside.** The Vilna Gaon, from a pair of pesukim in
-   Mishlei: "a good report fattens the *etzem*" (15:30) against "a broken spirit
-   dries the *gerem*" (17:22). *Etzem* is the hard outer surface of the bone,
-   *gerem* the cavity within, where the marrow lies.
+3. **Outside against inside.** The Vilna Gaon, commenting on "a broken spirit
+   dries the *gerem*" (Mishlei 17:22): *etzem* is the hard outer surface of the
+   bone, *gerem* the cavity within, where the marrow lies. Rabbi Klein adds that
+   the tie of *gerem* to the liquid marrow may find precedent in Tanach if one
+   juxtaposes that pasuk with "a good report fattens the *etzem*" (Mishlei 15:30);
+   the juxtaposition is his, the distinction the Gaon's.
 
 All three are usable; the Bottom line leads with Rav Hirsch, because his reading
 alone explains the rabbinic *grama*, and records the Vilna Gaon because it is
 what drives his ruling on *germani* below.
 
-**Chamor garem (Bereishis 49:14).** What did Yaakov call Yissachar?
+**Chamor garem (Bereishis 49:14).** Yaakov's berachos compare several sons to
+animals, Yehudah to a lion cub (49:9), Dan to a snake (49:17), Naftali to a
+gazelle (49:21), Binyamin to a wolf (49:27). What, then, did he call Yissachar?
 
 1. **A strong-boned donkey.** Rashi: *garem* is *etzem*, so the blessing is a
    strong donkey able to bear heavy burdens, fitting a tribe of talmidei
@@ -93,9 +97,11 @@ what drives his ruling on *germani* below.
    Yissachar was born because Yaakov's donkey brayed as he came in from the field
    and Leah went out to meet him (Bereishis 30:14-18; see *Sefer HeAruch* s.v.
    *chamra*). The Tosafists offer another route to the same reading: mandrakes
-   were said to shriek lethally when uprooted, so they were harvested by starving
-   an old donkey and leaving it alone in the field to pull them up and die, and it
-   was such a donkey that produced the *dudaim* Rachel traded away.
+   were said, by a long-standing legend, to shriek lethally when uprooted, so
+   they were harvested by starving an old donkey and clearing the area of people,
+   leaving the animal to pull them up and die of the shriek; apparently, the
+   article says, the *dudaim* in the trade between Rachel and Leah were got that
+   way, so a donkey "caused" Yissachar to be born.
 
 **Yigarem (Bamidbar 24:8).** Bilam's blessing that Israel will consume their
 enemies "and their bones *yigarem*." Menachem Ibn Saruk (*Machberes Menachem*):
@@ -107,11 +113,12 @@ also Rashi to Yechezkel 23:34).
 **Germani (Negaim 2:1).** The Mishnah says the whitest shade of *tzaraas* looks
 dim on the skin of a *germani*. Rambam (commentary to the Mishnah) and Rabbi
 Tanchum HaYerushalmi (*HaMadrich HaMaspik*) derive the word from *gerem*, since
-bones are white, so a *germani* is a man of very white skin. The Vilna Gaon
+bones are white, so a *germani* is a man of especially white skin. The Vilna Gaon
 (*Shenos Eliyahu* there) does not accept this and takes *germani* as a member of
-the European peoples of the land the Romans called Germanica; on his own
-distinction, *gerem* is the bone's inside, which is exactly the part whose
-whiteness one does not see.
+the European tribes of the lands the Romans called Germanica. Rabbi Klein
+suggests it is likely his own distinction that drove him: if *gerem* is the
+bone's interior, tying *germani* to it becomes problematic, since that is not the
+part whose whiteness one sees.
 
 ## Distinctions
 
@@ -135,8 +142,12 @@ The Targumim render *etzem* with *garmei*, in the sense of bone and in the sense
 of self alike; the Aramaic appears in Daniel 6:25. In Hebrew the noun is written
 *gerem* but pronounced *garem* under the influence of the cantillation and
 vocalization (Mishlei 17:22, 25:15). "A soft tongue breaks a bone (*gerem*)"
-(Mishlei 25:15) is plainly the body part. For the self-sense, *gerem hamaalos*
-is the step itself (Melachim II 9:13). Rabbi Eliyahu HaBachur notes the rabbinic
+(Mishlei 25:15) is plainly the body part; the article introduces that verse as
+Iyov's on the power of prayer to overturn a harsh decree, but the words stand in
+Mishlei. For the self-sense, *gerem hamaalos* is the step itself (Melachim II
+9:13); it would seem, Rabbi Klein writes, that *gerem* as bone gives *gerem* as
+self the same way *etzem* does, a man's self being sometimes characterized by the
+hardest parts of his body. Rabbi Eliyahu HaBachur notes the rabbinic
 extension to causation, *gorem*, *grama*, *garmi*, seen already where Targum
 renders *sabosi*, I brought about, as *garamti* (Shmuel I 22:22), and running
 through the Gemara and the poskim. Rabbi Shlomo Pappenheim derives *gerem* from
@@ -189,4 +200,8 @@ Negaim* 2:1; *Sefer HeAruch* s.v. *chamra*; *Machberes Menachem*; *Shenos
 Eliyahu* to *Negaim* 2:1; *Maggid Mishnah*, Hilchos *Shechitah* 3:12. The
 article prints Vayikra 23:28 for Ramban on a thing's *etzem*; the Ramban there is
 on the *etzem hayom hazeh* of Yom Kippur, which is the same usage under
-discussion.
+discussion. The article also introduces "a soft tongue breaks a *gerem*" as
+Iyov's, though it gives the correct locus, Mishlei 25:15; and it says both that
+Rachel traded her night for the *dudaim* and, later, that she traded the
+*dudaim* to Leah, so the entry does not follow it on the direction of that
+trade.

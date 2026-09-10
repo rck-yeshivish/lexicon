@@ -8,8 +8,8 @@ domain: other
 sources:
   - wiaw:7530 "Around in Concentric Circles" (2017-12-09) https://articles.ohr.edu/articles/around-in-concentric-circles
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Radak, Rabbi Yom Tov Lipmann Heller, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Sefer HeAruch]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Around: saviv / heikef / afef / chug
 
@@ -39,19 +39,22 @@ the point (Shmuel II 14:20).
 Pappenheim adds that *saviv* words usually do mean full circles, and reads a
 family of words that way: *siv*, the fibrous bast wrapped around a palm's
 branches; *soveh*, a drunkard (Devarim 21:20, Mishlei 23:20, Yeshayahu 56:12),
-who does his rounds of the taverns; *sav*, an old man (Iyov 15:10), and *saba*, a
+who does his rounds of the taverns (to taste different sorts of drink, or to
+keep the bartenders from recognizing him, or because he has used up his credit
+in one shop and must drink at the next); *sav*, an old man (Iyov 15:10), and
+*saba*, a
 grandfather, who is nearing the close of the circle of his years. Modern
 Hebrew's *sevivon*, a dreidel, belongs here rather than under *heikef*, since a
 top may stop mid-rotation and never finish its last circle.
 
-Radak, with the Targumim, gives the Aramaic equivalent of ס-ב-ב as *sechor*; from
+Radak, with the Targumim, gives the Aramaic equivalent of ס-ב-ב as *sachor*; from
 it a *socheirah*, a round shield (Tehillim 91:4), and a *socher*, a merchant, who
 travels about to sell his wares.
 
 ### heikef (היקף)
 Always a complete circuit. The circumference of a circle is its *heikef*, and the
 seven circuits around the *bimah* on Sukkos and Simchas Torah are *hakafos*
-because each must be whole. Pappenheim connects *kafah*/*kafui*, congealed or
+because they ought to be complete circuits. Pappenheim connects *kafah*/*kafui*, congealed or
 frozen, to *heikef*: such a substance is completely closed within the bounds of
 its present state and cannot shift shape as a liquid does.
 
@@ -73,12 +76,14 @@ the three the Torah calls a *chag*, the Mishnah's plain *chag* is Sukkos: it is
 the festival most identified with *simchah* (Devarim 16:15), and so with
 dancing. Rabbi Yaakov Tzvi Mecklenburg differs slightly: *chag* evokes the
 festive gait of the *olei regel* going up to Yerushalayim. Chanukah is never
-called a *chag*, which is why the greeting is not *chag sameach*.
+called a *chag*, which is why the customary greeting is not *chag sameach* but
+something on the order of the Yiddish *A Lichtege Chanuka*, an illuminating
+Chanukah.
 
 Rabbi Wolf Heidenheim: since *ches* and *ayin* interchange, *chag* is the same
 word as *ag*, circle. Hence *ugah*, a round food such as a cake; *agil*, an
 earring; and the Mishnah's account of Choni HaMe'agel, who *ag ugah*, drew a
-circle and stood inside it (Taanis 3:4).
+circle and stood inside it (Taanis 3:8).
 
 ## Rendering guidance
 
@@ -95,8 +100,8 @@ circle and stood inside it (Taanis 3:4).
 - Tehillim 116:3: *afafuni* is "beset me" or "closed in on me," never a neutral
   "surrounded me," if Malbim's reading is being followed.
 - *Chag*: translate as "festival," and bring in the circle sense only when
-  quoting the Tosafos Yom Tov or Rabbi Mecklenburg, marking it as *derashah* on
-  the word rather than its working meaning.
+  quoting Rabbi Yom Tov Lipmann Heller or Rabbi Mecklenburg, marking it as
+  *derashah* on the word rather than its working meaning.
 
 ## Notes for a project
 
@@ -109,5 +114,7 @@ Somayach, 9 December 2017 / 21 Kislev 5778: raw text in
 `sources/whats-in-a-word/raw/7530-around-in-concentric-circles.md`. Primary loci
 cited: Shemos 13:18; Devarim 16:15, 21:20; Shmuel I 30:16 with Radak and *Sefer
 HeAruch*; Shmuel II 14:20; Yeshayahu 56:12; Mishlei 23:20; Tehillim 91:4, 116:3
-to 4 with Malbim; Iyov 15:10; Mishnah Taanis 3:4. The article spells *heikef*
-inconsistently, including once as "haifek"; the word is היקף.
+to 4 with Malbim; Iyov 15:10; Mishnah Taanis 3:8. Two citation notes: the
+article spells *heikef* inconsistently, including once as "haifek" (the word is
+היקף), and it prints Taanis 3:4 for the Choni HaMe'agel mishnah, which is Taanis
+3:8. The Rendering guidance above is this guide's own.

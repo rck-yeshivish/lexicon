@@ -28,8 +28,8 @@ words:
     distinct: a prominent kind of camel (Ibn Ezra), any fast-running animal (Radak), or skipping young calves (Rabbi Yosef Bechor Shor)
 sources:
   - wiaw:11619 "Vayishlach: Go Camel" (2024-12-14) https://articles.ohr.edu/articles/vayishlach-go-camel
-authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehuda Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum]
-status: draft
+authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehuda Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum, Rabbi Ernest Klein, Rabbi Aharon Marcus, Avraham Even-Shoshan, Michael Sokoloff]
+status: reviewed
 updated: 2026-09-10
 ---
 # Camel: gamal / nakah / becher / kar
@@ -63,8 +63,10 @@ there, and Ibn Janach and Radak in their *Sifrei HaShorashim*, read it as ב-כ-
 young camels, *becher* in the absolute. Rabbi Saadia Gaon (in his Tafsir) and
 Ibn Ezra read the beis as the preposition "with" or "through," leaving *kar*.
 Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*) explicitly refuses any connection
-between *bichrah* and the *kar hagamal* of Bereishis 31:34. The Bottom line
-follows the first camp, which is the majority and includes Targum.
+between *bichrah* and the *kar hagamal* of Bereishis 31:34. The column leaves
+the dispute standing; the Bottom line above follows the first camp, which is
+ours, not the column's ruling. Rabbi Ernest Klein holds *becher* cognate with
+the Arabic *bakuru* and the Akkadian *bakru*, both of them a young camel.
 
 **What kar means.** Ibn Ezra himself gives two answers in two places. To
 Yeshayahu 16:1 it is a kind of camel that runs very fast; Rabbi Yehuda Ibn
@@ -74,7 +76,8 @@ the *kar hagamal*, it is the camel's saddle-basket. Rabbi Tanchum HaYerushalmi
 (*HaMadrich HaMaspik*) reconciles them: the core sense is a pillow, a camel's
 saddle is called *kar* because it looks like two pillows side by side, and from
 the saddle the name passed to the animal. Ibn Janach (*Sefer HaShorashim*) makes
-*kar* a young camel outright; Radak there cites his father Rabbi Yosef Kimchi
+*kar* a young camel outright; Radak (*Sefer HaShorashim*) cites his father Rabbi
+Yosef Kimchi
 that *kar* is a *keves*, a young sheep, not a camel at all. Rabbi Shlomo
 Pappenheim leaves the camel aside and ties *kar* to כ-ר, digging: a *kar* is a
 fertile field, marked out by ditches dug round it, and *karim* are the fattened
@@ -92,12 +95,20 @@ Hirsch (to Bereishis 12:16, 21:8, 24:17) unifies them under "sufficiently
 nourished and no longer needing outside help": a weaned child (Bereishis 21:8,
 Shmuel I 1:23, Yeshayahu 28:9, Hoshea 1:8), a ripened fruit the tree has
 finished feeding (Bamidbar 17:23, Yeshayahu 18:5), a debt repaid and so brought
-to its conclusion (Tehillim 7:5, Shmuel I 24:17, Mishlei 31:12, Tehillim 13:6,
-116:12), and a camel that has filled its hump and is "weaned" from drinking.
+to its conclusion (Tehillim 7:5, Shmuel I 24:18, Mishlei 31:12, Tehillim 13:6,
+116:12); and he suggests that perhaps the camel too, having filled its hump with
+water and needing none for a long while, seems "weaned" from drinking. The
+column adds, as its own, that Rav Hirsch does not say so but that these
+explanations may support tying ג-מ-ל to ג-מ-ר, *gamar*, "finishing," on the
+lammed/reish interchange: a toddler or a fruit is weaned only on completing its
+term of growth, a debt is repaid only when the loan reaches maturity (see Bava
+Basra 5b), and a camel functions in the desert once it has finished drinking.
 Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) prefers a compound: *gav*
 (body, inside) plus *maleh* (full), the beast that fills itself before a long
-crossing. He offers three weaker alternatives, from *gamad* (a dwarf, the
-camel's opposite), from *gav* plus *mal*, and from *giben* (humpbacked) on the
+crossing. He offers three the column finds less compelling, from *gamad* (a
+dwarf, the
+camel's opposite), from *gav* plus *mal* (the column notes it is unclear whether
+he means "cut" or "speaking"), and from *giben* (humpbacked) on the
 interchange of mem with beis and lamed with nun. He also connects *gamal* to
 *gomel*, repaying, on the strength of Chazal's teaching that camels are modest
 in mating and will not couple before others (Rashi to Bereishis 32:16,
@@ -108,15 +119,27 @@ those who act properly.
 
 ### gamal (גמל)
 Fifty-four occurrences as the animal, on the root ג-מ-ל, whose verbs mean
-weaning, ripening, and requiting. Three men in Tanach carry the root in their
-names, Gamliel (Bamidbar 1:10), Gemali (Bamidbar 13:12), and Gamul (Divrei
+weaning, ripening, and requiting and run to another thirty-seven appearances in
+Tanach by Even-Shoshan's concordance. Three men in Tanach carry the root in their
+names, Gamliel (Bamidbar 1:10, 2:20, 7:54, 7:59, 10:12), Gemali (Bamidbar
+13:12), and Gamul (Divrei
 HaYamim I 24:17), and Gamla appears in the Mishnah (Yoma 3:9, Yevamos 6:4);
-whether these are camels or one of the other senses is open. The Mishnah calls
+whether these are camels or one of the other senses is open. Rabbi Aharon Marcus
+(*Keses HaSofer* to Bereishis 10:2) connects the name Gomer to the root as well,
+on the lammed/reish interchange.
+
+*Gamal* has cognates across the Semitic languages, Aramaic *gamla*, Arabic
+*jamal*, Akkadian *gammalu*, and was borrowed into non-Semitic languages too,
+Greek *kamelos* and Latin *camelus*; the gimmel, whose own name seems related to
+*gamal* and whose character looks much like a camel, became there a hard c or k,
+which is the English "camel." The Mishnah, for its part, calls
 the third Greek letter *gamla* rather than gamma (Shekalim 3:2).
 
 ### nakah (נאקה)
 Twice in the Mishnah (Shabbos 5:1, Keilim 23:2), spelled נאקה or נקה depending
-on the text; not in Tanach. Radak (*Sefer HaShorashim*) notes two roots for
+on the text; not in Tanach, though its apparent cognate *meinikos* is, and the
+Mishnaic word is cognate with the Arabic *nakah*, likewise a female camel.
+Radak (*Sefer HaShorashim*) notes two roots for
 nursing used almost interchangeably, י-נ-ק and נ-י-ק. Rabbi Shlomo Pappenheim
 strips the yud and then the nun, arriving at the monoliteral ק, "expulsion of
 what is superfluous," parent of *hakaah* (regurgitation), *kei* (vomit), and
@@ -126,7 +149,17 @@ hapanim from spoiling; *nakik*, a hollow rock as though cleaned of its minerals;
 *naakah*, prayer, emptying the heart of its sorrows; *anakah*, a lizard whose
 sound resembles unbroken prayer; and *yenikah* and *meineches*, emptying the
 mother's milk. The Mishnaic *tinok* and Aramaic *yenuka*, a baby, belong here
-too.
+too. On that basis the column says it seems cogent to assume that *nakah* for
+the female camel likewise relates to nursing, hers being the camel from which
+other camels nurse.
+
+The column then offers its own answer to the question it opened with, that both
+Hebrew terms for the camel carry a tie to nursing: the female word straight from
+nursing, the male word from weaning, the move away from it, which is the thing
+the male camel does not do. It suggests this may arise from the animal's
+physiology, camels drinking in quantity and storing the water in humps it calls
+breast-like, so that the camel's physical makeup is itself linked to nourishment
+drawn in abundance and stored.
 
 ### becher and bichrah (בכר, בכרה)
 Yirmiyahu 2:23 likens Israel to a *bichrah kalah*, a swift young she-camel
@@ -135,10 +168,23 @@ wilder than a male or an older animal. Rashi (to Sanhedrin 52a) explains why:
 she is not accustomed to heavy loads, so she acts impulsively and without
 responsibility. Targum renders *becher* and *bichrah* as *hugnei* (see also
 Rashi to Yeshayahu 60:6, Yirmiyahu 2:23, Sanhedrin 52a); the word occurs once in
-Bavli (Sanhedrin 52a) and once in Yerushalmi (Chagigah 2:1). The related
+Bavli (Sanhedrin 52a) and once in Yerushalmi (Chagigah 2:1). Dr. Michael
+Sokoloff, in his dictionary of Jewish Babylonian Aramaic, defines *hugna* as a
+dromedary, as against the two-humped Bactrian camel, which is not native to the
+Near East. *Hugnei* is not a native Aramaic word at all but a loanword from the
+Greek εὐγενής (*eugenes*), "noble," "of good stock," from *eu*, "well," and
+*genos*, "race" or "stock"; the name Eugene and the term eugenics come from the
+same root. The related
 Talmudic *mehugan* or *hagun* carries the sense of worthy, of good stock
 (Kiddushin 70a, Eruvin 100b, Nedarim 20a, Yevamos 108a, Kesubos 22a and 54a,
 Bava Kama 80a).
+
+*Becher*/*bichrah* also surfaces where one would least expect it. Rabbi Ernest
+Klein and other etymologists derive the English "albacore," a kind of tuna, from
+the Spanish *albacora*, and that from the Arabic *al bakrah*, "the young camel";
+the column says how camels relate to tuna is beyond it and would like to know,
+and notes that the Oxford English Dictionary cites this etymology and rejects
+it.
 
 ## Rendering guidance
 
@@ -153,8 +199,9 @@ Bava Kama 80a).
 - *Kar* in Bereishis 31:34 must be the saddle-basket, since Rachel sits on it.
   *Kar* in Yeshayahu 16:1 is disputed; do not silently harmonize the two.
 - Do not press *gamal* into "dromedary" or "Bactrian." Tanach does not mark the
-  distinction, and the reading that Targum's *hugnei* means dromedary comes from
-  outside the sources this guide uses.
+  distinction. Sokoloff's "dromedary" is a gloss on Targum's Aramaic *hugnei*,
+  not on *gamal*, and even there *hugnei* is a Greek loanword for "of good
+  stock"; keep the two apart.
 
 ## Notes for a project
 
@@ -165,15 +212,18 @@ None yet.
 Rabbi Reuven Chaim Klein, "Vayishlach: Go Camel," What's in a Word?, Ohr
 Somayach, 13 Kislev 5785 (2024-12-14): raw text in
 `sources/whats-in-a-word/raw/11619-vayishlach-go-camel.md`. Primary loci:
-Bereishis 12:16, 21:8, 24:17, 31:34, 32:16; Vayikra 11:18; Bamidbar 1:10, 7:3,
-13:12, 17:23; Shmuel I 1:23, 24:17; Divrei HaYamim I 24:17; Yeshayahu 16:1,
+Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16; Vayikra 11:18; Bamidbar 1:10,
+2:20, 7:3, 7:54, 7:59, 10:12,
+13:12, 17:23; Shmuel I 1:23, 24:18; Divrei HaYamim I 24:17; Yeshayahu 16:1,
 18:5, 28:9, 60:6, 66:20; Yirmiyahu 2:23; Hoshea 1:8; Tehillim 7:5, 13:6, 116:12;
 Mishlei 31:12; Mishnah Shabbos 5:1, Keilim 23:2, Yoma 3:9, Yevamos 6:4, Shekalim
 3:2; Sanhedrin 52a and 107b; Yevamos 116a; Bava Basra 5b; Yerushalmi Chagigah
 2:1; *Bereishis Rabbah* 76:7; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn
-Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*.
-The article's Aramaic, Arabic, Akkadian, Greek and Latin cognates of *gamal*,
-Rabbi Ernest Klein's Arabic and Akkadian derivations of *becher*, the albacore
-etymology, the Even-Shoshan concordance counts, and Dr. Michael Sokoloff's
-dictionary entry and the Greek derivation of *hugnei* are omitted under house
-rule 9.
+Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*;
+*Keses HaSofer* to Bereishis 10:2; Even-Shoshan's concordance; Rabbi Ernest
+Klein; Dr. Michael Sokoloff's dictionary of Jewish Babylonian Aramaic; the
+Oxford English Dictionary.
+
+The article prints the Shmuel I locus for *gemaltani* as "I Sam. 24:17," which
+is the English versification; in the Hebrew it is Shmuel I 24:18, and that is
+what is given above.

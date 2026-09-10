@@ -25,8 +25,8 @@ words:
     distinct: a named coin worth two selaim (Rambam to Shekalim 2:1), so Targum Yonasan's use of it for beka must be loose, "a coin"
 sources:
   - wiaw:9595 "Vayakhel (Shabbat Shekalim)" (2022-02-26) https://articles.ohr.edu/articles/vayakhel-shabbat-shekalim
-authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ramban, Rambam, Rashbam, Ibn Ezra, Radak, Sefer HaChinuch, Rabbi Menachem Azariah of Fano, Rabbi Yaakov Zev Lev, Rabbi David Schlussel of Munkatch, Rabbi David Cohen, Rabbi Elazar Rokach of Amsterdam, Rabbi Asher Gvirer]
-status: draft
+authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ramban, Rambam, Rashbam, Ibn Ezra, Radak, Sefer HaChinuch, Rabbi Menachem Azariah of Fano, Rabbi Yaakov Zev Lev, Rabbi David Schlussel of Munkatch, Rabbi David Cohen, Rabbi Elazar Rokach of Amsterdam, Rabbi Asher Gvirer, Rabbi Elazar HaKallir]
+status: reviewed
 updated: 2026-09-10
 ---
 # Coins: shekel / sela / beka (darkemon)
@@ -60,7 +60,11 @@ dialects. Onkelos's *shekel* is the Rabbinic one, already equal to the Biblical
 half-shekel; Rashi and Ibn Ezra mean the Biblical shekel. The Bottom line follows
 this, since it leaves every source saying the same amount.
 
-**Why the piyut on Shabbos Shekalim says "a *shekel* I will bear."** Rabbi David
+**Why the piyut on Shabbos Shekalim says "a *shekel* I will bear."** The piyut,
+ascribed to Rabbi Elazar HaKallir and said customarily on Shabbos Shekalim,
+reads "a *shekel* I will bear in the prepared and exalted house," which on its
+face is inaccurate, since the mitzvah is a half-*shekel*. Barring poetic
+license, the wording needs accounting for. Rabbi David
 Schlussel of Munkatch: the *paytan* used *shekel* in the Rabbinic sense, so he
 means exactly the half-shekel the mitzvah requires; Rabbi David Cohen applies the
 same to the name of Maseches Shekalim. Rabbi Elazar Rokach of Amsterdam reads it
@@ -84,6 +88,9 @@ half-*shekel*, people began calling the coin they actually handed over "the
 full-weight sense. Rabbi Menachem Azariah of Fano says the same. Hence the
 Mishnah in Shevuos 6:7 can stage a dispute in which a *shekel* is worth less
 than a *sela*: the lender lent a *sela*, the lost pledge was worth a *shekel*.
+The article also floats, without pursuing it, whether the name of the Pelishti
+coastal city Ashkelon is somehow related to *shekel* or to the root it comes
+from.
 
 ### sela (סלע)
 In Mishnaic Hebrew the word carries two senses, the coin (Peah 8:7, Shekalim 1:6,
@@ -91,7 +98,8 @@ Bava Metzia 4:3, Bechoros 8:2-8, and many more) and the Biblical "rock, bedrock"
 (Kilayim 2:8, Shabbos 6:6, Bava Basra 2:1, and many more). That the coin is the
 Torah's *shekel* is stated by Rabbi Chanina in Yerushalmi Kiddushin 1:3, "all the
 *shekalim* in the Torah are *selaim*," and in Bechoros 50a, where Rava defines the
-*sela d'oraisa* from Shemos 30:13. It shows in how the Mishnah cites pesukim: the
+*sela d'oraisa* from Shemos 30:13 and Rabbi Chanina is cited as saying that all
+unspecified *kesef* in the Torah is a *sela*. It shows in how the Mishnah cites pesukim: the
 five *shekalim* of pidyon haben (Bamidbar 18:16) are five *selaim* in Bechoros,
 the two *shekalim* of the asham (Vayikra 5:15) two *selaim* in Kerisos. Rashi (to Bechoros 5a), Rambam (Hilchos Arachin 4:3, Hilchos Shekalim
 1:2), and *Sefer HaChinuch* (mitzvah 355) state the equation plainly; Onkelos and
@@ -99,16 +107,34 @@ Targum Yonasan render every *shekel* of the parashah *sila*, the Aramaic form.
 
 ### beka (בקע)
 Twice only in Tanach: the golden nose-ring Eliezer gave Rivkah (Bereishis 24:22),
-and "a *beka* per head, half a *shekel* by the holy *shekel*" in the Mishkan's
-silver count (Shemos 38:26). Root ב-ק-ע, "to split," hence half.
+and "a *beka* per skull, half a *shekel* by the holy *shekel*" in the Mishkan's
+silver count (Shemos 38:26). Root ב-ק-ע, "to break" or "to split," hence half.
+(On the head tax there, the article adds that the English *capital* is cognate
+with *cap*, *hat* and *head*, all of them said to go back to the
+Proto-Indo-European *kaput*.)
+
+Onkelos's *tikla* for *beka* is the Aramaicized *shekel*, the Hebrew shin
+turning to an Aramaic tav as it often does. The word appears in the writing on
+the wall in Daniel, *mene mene tekel u'farsin*, count, count, weigh and split
+(Daniel 5:25), and the Mishnah (*Shekalim* 6:5) speaks of *taklin chaditin*, new
+*shekalim*, meaning those donated for that year's tax. The article suggests that
+the name "New Israeli Shekel" may have been coined as a play on that Mishnaic
+expression.
 
 ### darkemon (דרכמון)
 Four times in Tanach (Ezra 2:69; Nechemiah 7:69-71), with *adarchon* twice
 (Divrei HaYamim I 29:7; Ezra 8:27) and *darkon* once in the Mishnah (Shekalim
 2:1). Rambam (to Shekalim 2:1): one *darkon* is two *selaim*, four times a
-half-*shekel*, so Targum Yonasan's *darkemon* for *beka* cannot be a valuation;
-it is the generic word for a coin. Modern Hebrew *darkon*, "passport," is from
-*derech* and unrelated. Academic identifications of these coins are left out.
+half-*shekel*, so on the article's reading it does not make much sense to
+identify a *beka* with the *darkemon* coin; that is why it presumes that Targum
+Yonasan used the word only in the general sense of "coin." Modern Hebrew
+*darkon*, "passport," is from
+*derech*, the documentation for travel on the road, and seems unrelated to the
+Mishnaic *darkon*. As for the coins themselves, the article reports that
+scholars are unsure which are meant, but typically associate these words with
+the Persian *daric* and the Greek *drachma*; the latter name was taken into
+Arabic as the *dirham*, which is still in use, and which the article says may
+somehow be related to the surname of Rabbi David Abudraham.
 
 ## Rendering guidance
 

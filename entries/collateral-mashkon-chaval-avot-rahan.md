@@ -29,8 +29,8 @@ words:
     distinct: never held by the creditor, but a specific asset earmarked for collection on default, "from here you shall collect" (Rashi; Sefer HaAruch)
 sources:
   - wiaw:11066 "Taking Collateral" (2023-08-26) https://articles.ohr.edu/articles/taking-collateral
-authorities: [Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rav Hirsch, Rashi, Tosafos Yom Tov, Rambam, Sefer HaAruch]
-status: draft
+authorities: [Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rav Hirsch, Rashi, Tosafos Yom Tov, Rambam, Sefer HaAruch, Daniel Sperber]
+status: reviewed
 updated: 2026-09-10
 ---
 # Collateral: mashkon / chaval / avot / rahan / apoteiki
@@ -57,19 +57,39 @@ never surrendered. Not to be lost: *chaval* is taken, *avot* and *rahan* given.
 
 **Whether chaval "take a pledge" is the same root as chevel "rope."** Menachem
 Ibn Saruk, Rabbi Yonah Ibn Janach, and Radak list ח-ב-ל as one root but keep its
-senses separate: rope, region, band of people, birth pangs, injury, and taking a
+senses separate: rope, ship's captain (*rav-chovel*, the rope-master), region,
+band of people, birth pangs, injury, and taking a
 pledge do not explain one another. Rabbi Shlomo Pappenheim derives them all from
 "rope": a rope measures (a *chevel* of land, *tachbulah*, measured counsel), and
 what is measured is partial (*chavlei*, localized pains; *chavalah*, partial
-damage), so *chaval* is a measured incursion into the debtor's property. The
-Bottom line follows Pappenheim's practical result, that *chaval* carries force,
-since Rashi reaches it independently from the halachah. Tedeschi-Ashkenazi has
-the creditor dragging the property in as by a rope; Rav Hirsch (to Shemos 22:25)
-has the item tethered to the lender, or the borrower tied to his obligation.
+damage; a *chevel* of people, a sub-group only partly reflecting the larger
+body), so *chaval* is an act of injuring the debtor by a measured incursion into
+his property to settle a debt. The
+Bottom line takes the practical result the article's sources converge on, that
+*chaval* carries force: Tedeschi-Ashkenazi sets it against *avot* as forcible
+against agreed, and Rashi reaches the after-the-fact taking from the halachah.
+Tedeschi-Ashkenazi has
+the creditor pulling the debtor's property into his own domain as by a rope, and
+also considers that *chaval* may be related to *chov*, debt, the two standing
+side by side in Yechezkel 18:7; Rav Hirsch (to Shemos 22:25)
+offers two ways: the item is tethered to the lender, in that the borrower may no
+longer sell or damage it, or else the collateral, as a tangible token of the
+borrower's responsibility, ties the borrower to his debt as a rope ties a thing
+down.
 
 **What apoteiki is.** Rashi (Bava Kamma 11b, Bava Basra 44b) and *Sefer HaAruch*
-read it as an Aramaic notarikon, *a'po te'hei ka'i*, "upon this shall it stand";
-Rabbi Eliyahu HaBachur in *Meturgaman* cites that but holds the word is Greek.
+read it as a portmanteau of the Aramaic *a'po te'hei ka'i*, "upon here shall you
+be," that is, a declaration to the creditor that he is to collect his debt from
+here, from this particular item.
+Rabbi Eliyahu HaBachur in *Meturgaman* cites that tradition as well but notes
+that the word is in fact Greek. The article follows him with Rabbi Dr. Daniel
+Sperber, whose *Dictionary of Greek and Latin Legal Terms in Rabbinic
+Literature* identifies it as the Greek ὑποθήκη (*hypotheke*), literally to put
+down or to pledge, built on the *hypo-* prefix, "down," familiar from
+*hypothesis*, *hypothetical* and the rest; the Latin *hypotheca* gives the
+English *hypothec*, which Merriam-Webster defines as an obligation, right or
+security given by contract or by operation of law to a creditor over the
+debtor's property without transfer of possession or title.
 The dispute is about origin, not meaning.
 
 ## Distinctions
@@ -78,26 +98,43 @@ The dispute is about origin, not meaning.
 Not in Tanach; Mishnaic (Sheviis 10:2, Bava Metzia 6:7, Shevuos 6:7). Rabbi
 Eliyahu HaBachur (*Sefer HaTishbi*): the root is ש-כ-נ, "dwell, settle," with a
 prefixed mem, since the collateral dwells in the creditor's house until
-redeemed; the mem was then felt as a root letter, giving *lemashken* (Peah 8:8,
-Kesubos 11:3, Arachin 5:6).
+redeemed; the mem was then felt as a root letter, giving *lemashken*, to take or
+designate a collateral (Peah 8:8,
+Kesubos 11:3, Arachin 5:6, among a dozen other Mishnayos). Modern Hebrew
+*mashkanta*, a mortgage, descends from it. (The article adds, as an aside, that
+the English *mortgage* has a morbid history of its own, from the Old French
+*mort*, dead, as in *mortal* and *mortuary*, plus *gage*, a pledge or security.)
 
 ### chaval (חבל)
 Root ח-ב-ל. The Torah's word wherever a creditor's taking is restrained: a
 blanket taken as pledge must be returned nightly (Shemos 22:25); a millstone or
 other food-preparing utensil may not be taken (Devarim 24:6), nor a widow's
-garment (24:17). Rashi: taking a pledge once payment has fallen due.
+garment (24:17). Rashi (to Shemos 22:25): taking a pledge to pay off a debt once
+payment has fallen due, after the fact, as against taking one at the time of the
+loan itself. Verbs of *chaval* in this sense come fourteen times in Tanach, on
+Even-Shoshan's concordance.
 
 ### avot (עבוט)
 Root ע-ב-ט. The noun occurs four times, all in Ki Seitzei (Devarim 24:10-13),
 the verb five times, all in Devarim (15:6, 15:8, 24:10). Rashi (Bava Kamma 115a)
 glosses it *mashkon*. Rav Hirsch (to Shemos 22:25, Devarim 15:6, Tehillim 2:3)
 and Tedeschi-Ashkenazi both tie *avot* to *eved*, tes and dalet interchanging:
-an *eved* is tied to his master's will, and so is the borrower, whom the Torah
-calls the lender's servant (Mishlei 22:7).
+an *eved* is tied down to his master's whims and stripped of his freedom, and so
+the borrower is bound to his lender, whom the pasuk itself
+calls his master (Mishlei 22:7); an *avot*, likewise, is an item detained by the
+creditor, its owner no longer free to use it. Rav Hirsch further connects *avot*
+to its homonym *avos* with a final tav, a thick rope used to tie things down.
+
+Two other words seem to come from ע-ב-ט with quite different meanings: a verb in
+Yoel 2:7 meaning to stop, and the noun *avtit* in Chavakuk 2:6, possibly thick
+mud. The Mishnaic *avit* (*Bava Metzia* 5:7, *Keilim* 23:2, *Taharos* 10:4-5) is
+a container for produce.
 
 ### rahan (רהן)
 The Mishnah (Eduyos 8:2) uses it of a Jewish girl handed to non-Jewish creditors
-as security until her family could pay. Tosafos Yom Tov: a *mashkon* is given
+as security until her family could pay, the question there being whether she may
+afterward marry a Kohen. Tosafos Yom Tov (Rabbi Gershon Shaul Yom Tov Lipman
+Heller): a *mashkon* is given
 for a debt already owed, *rahan* is what a would-be borrower places with a
 would-be lender so that he will trust him enough to lend, which he finds
 implicit in the Rambam (*Hilchos Maaser Sheini* 3:18). Rav Hirsch (to Tehillim
@@ -134,8 +171,11 @@ Rabbi Reuven Chaim Klein, "Taking Collateral," What's in a Word?, Ohr Somayach,
 raw text in `sources/whats-in-a-word/raw/11066-taking-collateral.md`. Primary
 loci cited: Shemos 22:25; Devarim 15:6, 15:8, 24:6, 24:10-13, 24:17; Yechezkel
 18:7; Mishlei 22:7; Tehillim 2:3, 37:35; Yoel 2:7; Chavakuk 2:6; Mishnah Sheviis
-10:2, Bava Metzia 6:7, Shevuos 6:7, Eduyos 8:2, Gittin 4:4; Bava Kamma 11b and
+10:2, Bava Metzia 5:7 and 6:7, Shevuos 6:7, Eduyos 8:2, Gittin 4:4, Keilim 23:2,
+Taharos 10:4-5, Peah 8:8, Kesubos 11:3, Arachin 5:6; Bava Kamma 11b and
 115a, Bava Basra 44b, Gittin 40b, Kesubos 54a; Rambam, *Hilchos Maaser Sheini*
 3:18; *Sefer HaTishbi* and *Meturgaman*; Tedeschi-Ashkenazi, *Otzar Nirdafim*.
-A modern concordance count and a Greek etymology are omitted under house
-rule 9.
+The Even-Shoshan concordance count for *chaval* and the Greek etymology of
+*apoteiki* (Rabbi Dr. Daniel Sperber's *Dictionary of Greek and Latin Legal
+Terms in Rabbinic Literature*, with the Latin and English derivatives) are
+reported here as the article gives them.

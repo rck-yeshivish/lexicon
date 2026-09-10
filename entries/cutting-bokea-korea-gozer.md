@@ -14,8 +14,8 @@ sources:
   - wiaw:8098 "Cut it Out! (Part 1 of 2)" (2019-01-19) https://articles.ohr.edu/articles/cut-it-out-part-1-of-2
   - wiaw:8107 "Cut it Out! (Part 2 of 2)" (2019-01-26) https://articles.ohr.edu/articles/cut-it-out-part-2-of-2
 authorities: [Rabbi Yitzchok Meir Alter of Ger, Shulchan Aruch HaRav, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Shlomo Pappenheim, Rav Hirsch]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Cutting: bokea / korea / gozer (and the wider family)
 
@@ -41,37 +41,49 @@ itself; the Oral Torah, speaking from the vantage of Klal Yisrael, says *korea*
 because from below the sea looks acted upon from outside.
 
 ### korea (קריעה)
-Tearing. Halachically, *Shulchan Aruch HaRav* (*Orach Chaim* 340:17) defines
-*korea* as ripping apart two things that had been joined but were once separate.
-The Chiddushei HaRim built on that definition to explain why the Oral Torah calls
-it *kriyas Yam Suf*: the Midrash has Hashem stipulating with the water at
-Creation that it would one day split, so at the sea He was parting what had
-already once been parted. He said openly that he was not permitted to reveal why
-the Written Torah says *bokea*.
+Tearing. Halachically, *Shulchan Aruch HaRav* (*Orach Chaim* 340:17, cited in the
+article as *Shulchan Aruch HaGraz*) defines *korea* as ripping apart two things
+that were joined together but were once separate. Rabbi Yitzchok Meir Alter of
+Ger, the Chiddushei HaRim, was asked this very question, and answered that he had
+much to say but was stopped from Above from giving a full answer; he could reveal
+only a partial one, built on that halachic definition. The Midrash has Hashem
+stipulating with the water at Creation that it would one day split for the Jews
+to cross, so the water can be seen as having already been split from the time of
+Creation, and at the sea He was parting what had already once been parted. That
+is why the Oral Torah calls it *kriyas Yam Suf*. Why the Written Torah says
+*bokea*, he said, he cannot reveal.
 
-Rabbi Shlomo Pappenheim: *korea* is tearing something **soft**, which comes apart
-easily. Hence *kriah*, the mourner's rending of his garment. Applied to the sea,
-the term says that for Hashem the tearing was no feat at all.
+Rabbi Shlomo Pappenheim: *korea* is tearing or ripping something **soft**, which
+comes apart easily. Hence *kriah*, the mourner's rending of his garment. On this
+basis, the column adds, we can explain the fixed phrase *kriyas Yam Suf*: it
+notes that vis-a-vis Hashem, tearing the sea was no great feat, as though He tore
+something that tears easily.
 
 ### gozer (גזירה)
 Tehillim 136:13 calls the sea "cut into cuts" (*l'gezarim*), and Maariv thanks
 Hashem for passing His children between the *gizrei* Yam Suf. Rabbi Pappenheim
-gives two accounts, both usable: *gozer* is precision cutting with an instrument,
-so that whatever is deliberately cut out of a larger whole is *nigzar*; and
-*gozer* is the sawing motion of a blade drawn back and forth through something
-**thick**, as with a person (Melachim I 3:25), an animal (Bereishis 15:17), or
-wood (Melachim II 6:4). The sea, being thick, takes this verb. From the first
+gives two accounts, in two separate discussions, and both are usable: *gozer* is
+precision cutting with an instrument, so that whatever is deliberately cut out of
+a larger whole is *nigzar* or a *gizrah*; and *gozer* is the sawing motion of a
+blade applied continuously, drawn back and forth until it has cut through
+something especially **thick**, as with people (Melachim I 3:25), animals
+(Bereishis 15:17), or wood (Melachim II 6:4). The sea, being reckoned eminently
+thick, takes this verb. From the first
 sense comes *gezeirah*, a decree, the ruling cut out of the surrounding
 give-and-take and left to stand alone. Rav Hirsch (to Tehillim 136:13): the
 Psalmist chose *gozer* precisely because it means deciding as well as cutting,
 since at the sea two nations' fates were decided.
 
-Rabbi Pappenheim traces *gozer* to the biliteral ג-ז, "trimming, shaving," a cut
-that leaves part attached and part detached: *geiz*, the grass left after
-trimming (Tehillim 72:6); *gozez*, shearing wool (Bereishis 31:19, 38:12);
-*gezel*, robbing a man of one possession and leaving the rest; *gazam*, the
-grasshopper that eats some produce and leaves some; *geza*, a truncated tree;
-*gazis*, hewn stone.
+Rabbi Pappenheim and others trace *gozer* to the biliteral ג-ז, primarily
+"shaving" or "trimming," a cut that leaves part attached and part detached:
+*geiz*, the grass left after trimming (Tehillim 72:6); *gozez*, shearing wool
+(Bereishis 31:19, 38:12); *gezel*, robbing a man of one possession and leaving
+the rest intact; *gazam*, the grasshopper that eats some produce and leaves the
+rest; *geza*, a tree whose top has been truncated; *gazis*, hewn stone, part
+shaved down and the rest left in place. The column adds, in a bracketed aside,
+that the Modern Hebrew *gezer* ("carrot") is not directly part of this
+discussion, being derived from the Arabic word for that root vegetable, *jazar*
+(which also means "cut" in Arabic).
 
 ### chatichah (חתיכה)
 The commonest word for cutting, yet a cognate appears only once in Tanach
@@ -84,13 +96,16 @@ Also a cutting in half, but Rabbi Pappenheim narrows it: cutting an animal in tw
 for a covenant, the parties passing between the halves. Hence *Bris Bein
 HaBesarim* (Bereishis 15) and Yirmiyahu 34:18-19. He reads *batar* as kin to
 *bris*, the same three consonants. *Harei bater* (Shir HaShirim 2:17) is a pair
-of mountains once formed as one and since split apart.
+of mountains that appear to have been originally formed as one and to have been
+split from each other over time.
 
 ### netach (נתח)
 Cutting an animal into **many** pieces rather than two, and not for a covenant:
-the butcher portioning a carcass, the cook cutting meat to fit a pot. Rabbi
-Pappenheim contrasts it with *petitah* by focus, not by quality of the cut:
-*netach* keeps its eye on the body being cut up, *petitah* on the pieces produced.
+the butcher selling different parts of the body, the cook cutting meat to fit a
+pot. Rabbi Pappenheim contrasts it with *petitah* by focus, not by quality of the
+cut: *netach* keeps its eye on the whole body being cut up, *petitah* on the
+pieces produced. The Modern Hebrew *nituach* ("surgery") comes from this Biblical
+root.
 
 ### petitah (פתיתה)
 Breaking something up by hand (Vayikra 2:6); hence *pas*, bread broken into
@@ -101,10 +116,15 @@ convinces.
 
 ### The rest of the family
 *Milah*, cutting off the top of something: the foreskin, the tops of stalks (Iyov
-18:16, 24:24) and grass (Tehillim 37:2), the tips of arrows (Tehillim 58:8).
-*Poleach*, cutting open (Tehillim 141:7; Mishlei 7:23), with *pelach* the piece
-cut out, shaped so that its origin in something round is obvious, an orange
-segment or a wedge (Shir HaShirim 4:3; Shmuel I 30:12). *Ketev*, a cut that
+18:16, 24:24) and grass (Tehillim 37:2), the dulling of the tips of arrows
+(Tehillim 58:8); one who does this cutting is a *mohel*. (The column adds that he
+seems to remember reading somewhere that *mohel* or *milah* refers specifically
+to cutting something round, but cannot recall where.) *Poleach*, cutting open
+(Tehillim 141:7; Mishlei 7:23), with *pelach* the piece cut out, and Rabbi
+Pappenheim says something similar here: the hallmark of a *pelach* is that it is
+cut off from a greater circular parent, shaped so that its origin in something
+round or spherical is obvious, an orange segment or a wedge, a "sector" in
+geometrical terms (Shir HaShirim 4:3; Shmuel I 30:12). *Ketev*, a cut that
 slices into the thickness without severing through, like a paper cut; all four
 occurrences (Devarim 32:24; Yeshayahu 28:2; Tehillim 91:6; Hoshea 13:14) are of
 an illness that cuts the innards without severing them. *Primah* (Vayikra 13:45,
@@ -150,5 +170,5 @@ Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7;
 Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24;
 Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov
 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 32:24; Yeshayahu 28:2;
-Hoshea 13:14; Rav Hirsch to Tehillim 136:13. The article's aside deriving the
-Modern Hebrew *gezer* from Arabic is omitted.
+Hoshea 13:14; Rav Hirsch to Tehillim 136:13. The article's bracketed aside
+deriving the Modern Hebrew *gezer* from Arabic is reported here as he gives it.

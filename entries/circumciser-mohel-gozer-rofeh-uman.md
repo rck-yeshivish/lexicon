@@ -24,8 +24,8 @@ words:
     distinct: ordinarily a craftsman; here a bloodletter or barber (Rashi to Bava Basra 21a), though Shabbos 133b uses umana of a circumciser outright
 sources:
   - wiaw:11342 "Tazria: The Cutter" (2024-04-13) https://articles.ohr.edu/articles/tazria-the-cutter
-authorities: [Rashi, Rabbeinu Chananel, Rabbeinu Gershom, Targum Onkelos, Rabbi Shlomo Pappenheim, Shadal, Rabbi Yissachar Tamar, Rabbi David Zacut Modena, Rabbi Dov Kook]
-status: draft
+authorities: [Rashi, Rabbeinu Chananel, Rabbeinu Gershom, Targum Onkelos, Rabbi Shlomo Pappenheim, Shadal, Rabbi Yissachar Tamar, Rabbi David Zacut Modena, Rabbi Dov Kook, Solomon Dubno, Wilhelm Gesenius, Alexander Kohut, Shach]
+status: reviewed
 updated: 2026-09-10
 ---
 # Circumciser: mohel / gozer / rofeh / uman
@@ -52,14 +52,27 @@ also bled and healed a *rofeh* or an *uman*.
 
 **Whether mohel comes from the root of milah.** The Biblical verb is *mal*, root
 מ-ו-ל, with no hei; *mohel* has a hei that behaves like a root letter, pointing
-to מ-ה-ל, which occurs once in Tanach, at Yeshayahu 1:22, "your wine is *mahul*
-in water." Rabbi Shlomo Pappenheim traces *mal* and *milah* to the biliteral
-מ-ל and *mahul* to the biliteral ה-ל, so the resemblance is accidental and
-*mohel* belongs to a Rabbinic stratum of its own. Shadal (to Yeshayahu 1:22):
-diluting wine is itself a cutting, since watering it cuts the wine's potency, so
-the two are relatives and *mohel* is the agent noun of *milah*. Both agree on
+to מ-ה-ל, which occurs once in Tanach, a *hapax legomenon* at Yeshayahu 1:22,
+"your wine is *mahul* in water." One approach keeps the two apart. Scholars have
+already pointed out that the hei is not part of the Biblical root for
+circumcising but a new feature of Rabbinic Hebrew, a point made at length by the
+Maskilic scholar Solomon Dubno (*Tikkun Sofrim* to Bereishis 17:13, printed in
+*Netivos HaShalom* alongside Moses Mendelssohn's *Beiur*), who holds that the
+two roots simply exist in two different strands of the language. (As an aside,
+the article notes that Rabbi Shlomo Pappenheim traces *mal* and *milah* to the
+biliteral מ-ל but *mahul* to the biliteral ה-ל.) The other approach bridges
+them. Shadal (to Yeshayahu 1:22) observes that in both Arabic and Latin idiom
+one is said to kill, slaughter, wound or cut wine when one waters it, since
+watering cuts its sharpness and potency, and on that thematic affinity he holds
+the roots for cutting and for diluting to be etymologically related, so that the
+post-Biblical *mohel* is after all the agent noun of *milah*; the article adds
+that the German linguist Wilhelm Gesenius and Dr. Alexander Kohut accept this
+approach as well. Shadal also brings several Semitic roots in Hebrew and Aramaic
+that are semantically interchangeable, one form with a middle vav and the other
+with a middle hei, though the article judges that none of his examples is that
+clear-cut. Both approaches agree on
 what *mohel* means, so the Bottom line need not choose; for a derashah, Shadal's
-reading makes *mohel* a cutter and Pappenheim's does not.
+reading makes *mohel* a cutter and Dubno's does not.
 
 **What rofeh means in the sugya.** Rashi to Menachos 42a and the Mainz
 commentary attributed to Rabbeinu Gershom: *rofeh* there is the surgeon serving
@@ -80,11 +93,23 @@ of milah.
 ## Distinctions
 
 ### mohel (מוהל)
-Not in Tanach or the Mishnah as an agent noun. The Aramaic *mohala* appears in
+The Torah's own verb for the act is *yimol* (Vayikra 12:3), and words for
+circumcising appear about thirty times in Tanach, mostly in Bereishis (ch. 17,
+21:4, 34:15-22), Shemos (12:44, 12:48) and Yehoshua (ch. 5).
+The agent noun *mohel* is in neither Tanach nor the Mishnah. The Aramaic *mohala* appears in
 Shabbos 156a, where one born under Maadim is destined to shed blood but chooses
 whether that means bloodletter (*umana*), robber, butcher, or circumciser. The
 verb *mohalin* appears in the Mishnah (Shabbos 19:2, 19:5); one Mishnah (19:6)
-uses the shorter *mal*, the Biblical form (Devarim 30:6; Yehoshua 5:4, 5:7).
+uses the shorter *mal*, the Biblical form (Devarim 30:6; Yehoshua 5:4, 5:7), and
+the article says outright that it does not know why that Mishnah uses a
+different verb.
+
+Alongside the *mahul* of Yeshayahu 1:22, the Mishnah has comparable words for
+diluted, watery liquids: *michal* (*Demai* 7:4) and *mochal* (*Taharos* 9:3,
+*Mikvaos* 7:3-4, *Machsirin* 6:5), which some versions read as *mohal*.
+Similarly, the reddish liquid that comes out of a piece of meat after it has
+been salted as halachah requires is called *mohal*, and does not have the
+halachic status of blood (Shach to *Yoreh Deah* 69:79).
 
 ### gozer (גוזר)
 Root ג-ז-ר, "cut," and by extension "decree," whence *gezeirah*. Rav Hoshiya
@@ -94,9 +119,20 @@ circumciser; the Yerushalmi (Rosh Hashanah 3:9) has Rabbi Yehudah Guzraya.
 Targum Onkelos regularly renders words of *milah* with words of *gozer*, and
 renders Tzipporah's *vatichros* (Shemos 4:25) as *ugzeras*; some sources call
 the mitzvah *mitzvasa digzeirasa*, the commandment of cutting (Koheles Rabbah
-3:2). Rabbi David Zacut Modena: he is called *gozer* because the act cuts down
-the forces of tumah that hold the uncircumcised. A *posek* is likewise
-literally a cutter, which is what lets *gozer* mean decisor.
+3:2). Rabbi David Zacut Modena: he is called *gozer* because his physical action chops down
+the spiritual forces of impurity that otherwise possess the uncircumcised. A *posek* is likewise
+literally a cutter, which is what lets *gozer* mean decisor; the article adds
+that the English *decisor* belongs to the same family as *decision*, *scissor*,
+*concise*, *excision*, *precise*, *incision*, *incisors* and *circumcise*, all
+of them cutting words.
+
+The Midrash (*Bereishis Rabbah* 84:7, *Tanchuma Vayeishev* 9 and *Naso* 30,
+*Shocher Tov* to Tehillim 115, and more) has the Splitting of the Sea come about
+in the merit of Yosef, who held himself back from Potiphar's wife, so that it
+was his guarding the holiness of milah that brought the last step of the
+Exodus. Since one of the verbs for the sea's splitting is *gozer* (Tehillim
+136:13), Rabbi Dov Kook of Teveryah writes that the gematria of ג-ז-ר is 210, an
+allusion to the 210 years the Jews were in Egypt.
 
 ### rofeh (רופא) and uman (אומן)
 Roots ר-פ-א, "heal," and א-מ-נ, "craft." A talmid chacham may not live in a
@@ -132,9 +168,14 @@ None yet.
 Rabbi Reuven Chaim Klein, "Tazria: The Cutter," What's in a Word?, Ohr Somayach,
 5 Nissan 5784 (2024-04-13): https://articles.ohr.edu/articles/tazria-the-cutter;
 raw text in `sources/whats-in-a-word/raw/11342-tazria-the-cutter.md`. Primary
-loci cited: Vayikra 12:3; Shemos 4:25; Devarim 30:6; Yehoshua 5:4, 5:7;
+loci cited: Vayikra 12:3; Bereishis ch. 17, 21:4, 34:15-22; Shemos 4:25, 12:44,
+12:48; Devarim 30:6; Yehoshua ch. 5, 5:4, 5:7;
 Yeshayahu 1:22; Tehillim 136:13; Mishnah Shabbos 19:2, 19:5, 19:6, Demai 7:4,
-Taharos 9:3; Shabbos 131b, 133b, 156a; Bava Basra 21a; Sanhedrin 17b; Avodah
+Taharos 9:3, Mikvaos 7:3-4, Machsirin 6:5; Shabbos 131b, 133b, 156a; Bava Basra 21a; Sanhedrin 17b; Avodah
 Zarah 26b; Menachos 42a; Taanis 21b; Yerushalmi Shabbos 19:1 and Rosh Hashanah
-3:9; Bereishis Rabbah 84:7; Koheles Rabbah 3:2; Shach to Yoreh Deah 69:79;
-Shadal to Yeshayahu 1:22. A Maskilic treatment is omitted under house rule 9.
+3:9; Bereishis Rabbah 84:7 with *Tanchuma Vayeishev* 9, *Naso* 30 and *Shocher
+Tov* to Tehillim 115; Koheles Rabbah 3:2; Shach to Yoreh Deah 69:79;
+Shadal to Yeshayahu 1:22. The article's non-traditional citations are reported
+here as it gives them: Solomon Dubno's *Tikkun Sofrim* (to Bereishis 17:13, in
+*Netivos HaShalom*), and Wilhelm Gesenius and Dr. Alexander Kohut as accepting
+Shadal's approach.

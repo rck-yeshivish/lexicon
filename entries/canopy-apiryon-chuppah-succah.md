@@ -8,8 +8,8 @@ domain: ritual
 sources:
   - wiaw:7103 "A Panoply of Canopies" (2017-01-21) https://articles.ohr.edu/articles/a-panoply-of-canopies
 authorities: [Rashi, Maharsha, Rabbi Pheobus Meir Parenzo, Rabbi Tzvi Mordechai Libber]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Canopy: apiryon / chuppah / succah
 
@@ -18,11 +18,14 @@ updated: 2026-09-09
 *Succah* is a **booth**, named for its *sechach*, and the word carries the sense
 of shelter, a covering that protects from what is above. *Chuppah* is a
 **canopy**, from *chofeh*, to cover; it says only that the thing is covered on
-top, with nothing about protection. *Apiryon* is not a canopy at all in its
-plain sense but a **covered litter**, a carriage a person is seated in and
-carried. The trap: the mefarshim who gloss *apiryon* as a *chuppah* are stating
+top, with nothing about protection. *Apiryon* the column takes to be more than a
+canopy: the Mishnah suggests a **mobile enclosure** a woman travels inside, and
+on the reading of those who tie the word to the Sanskrit *paryanka* it is a
+**palanquin**, a covered litter carried on poles. The trap: on that reading, the
+mefarshim who gloss *apiryon* as a *chuppah* are stating
 its halachic function at Amram and Yocheved's remarriage, not equating the two
-words.
+words. The column's working premise throughout is that no two words in Hebrew
+mean exactly the same thing, so a difference must be found.
 
 ## Distinctions
 
@@ -51,22 +54,31 @@ Parenzo (1500 to 1575, in his glosses in the 1566 Venice *Yalkut Shimoni*,
 Shemos §165) and the Maharsha both gloss *apiryon* as a *chuppah*.
 
 Against reading them as simple synonyms stands the Mishnah (*Sotah* 9:14): in
-the Hadrianic persecutions the Chachamim decreed that a kallah not go through
-the city in an *apiryon*, and later permitted it again for reasons of tznius.
-That is not a canopy but a conveyance, a covered box a woman travels inside, in
-which she led her procession; the decree was against the display, and the
-retraction was because the enclosure protects her modesty. So an *apiryon* is a
-covered litter, a seat with pillars and a roof that is carried, and Shlomo
-HaMelech's has exactly the parts of one. Read that way, Parenzo and the Maharsha
-are saying that the litter in which Yocheved was seated served the halachic
-function of a *chuppah*, not that the two words mean one thing.
+the Hadrianic persecutions of the second century the Chachamim decreed that a
+kallah not travel through
+the city inside an *apiryon*, and later rescinded that ruling for reasons of
+tznius. This passage, the column says, suggests that an *apiryon* is not simply
+a canopy but a mobile enclosure a woman may travel in.
+
+Some argue that *apiryon* is related to the Sanskrit *paryanka*, English
+palanquin or sedan chair: a covered litter for one passenger, a large box on two
+horizontal poles borne by four or six men, used by important persons in India
+and other Eastern cultures. On that reading the kallah of the Mishnah led her
+procession from inside such a celebratory box; the Chachamim first outlawed it
+because the excessive joy of her parade was out of place during the persecutions,
+and later lifted the prohibition for reasons of modesty. And on that reading,
+when Parenzo and the Maharsha wrote that an *apiryon* is a *chuppah* they did
+not mean that the words mean one thing, but that in the context of Yocheved's
+marriage to Amram the sedan chair she was seated in took on the halachic role a
+*chuppah* has at a wedding.
 
 ## Rendering guidance
 
 - Default renderings: *succah* stays transliterated, glossed "booth" once;
   *chuppah* stays transliterated, glossed "wedding canopy" once; *apiryon*
-  "canopied litter" or "palanquin," and in Shir HaShirim 3:9 "a palanquin" reads
-  better than "a canopy," since the pasuk goes on to list its seat.
+  "canopied litter" or "palanquin" if you follow the *paryanka* reading, which
+  also suits Shir HaShirim 3:9, where the pasuk goes on to list its seat. This
+  last is our observation, not the column's.
 - Trap: "canopy" will take *chuppah* and *apiryon* both, and "covering" will
   take *chuppah* and *sechach* both. Where a source glosses one by the other
   (*apiryon zu chuppah*), render the gloss as a statement of function: "an
@@ -89,7 +101,5 @@ Somayach (2017-01-21): raw text in
 Shemos 2:1 to 10, 35:12; Shir HaShirim 3:9 to 11; *Sotah* 12a; *Bava Basra*
 120a; Mishnah *Sotah* 9:14; Rashi to *Succah* 2a and to Shemos 35:12; Maharsha
 to *Sotah* 12a; Rabbi Pheobus Meir Parenzo's glosses to *Yalkut Shimoni*, Shemos
-§165 (Venice 1566). The article's derivation of *apiryon* from a Sanskrit word
-for palanquin is comparative philology and is omitted here under house rule 9;
-the palanquin sense is retained on the strength of Mishnah *Sotah* 9:14 and the
-description in Shir HaShirim itself.
+§165 (Venice 1566); the anonymous "some" who tie *apiryon* to the Sanskrit
+*paryanka*.

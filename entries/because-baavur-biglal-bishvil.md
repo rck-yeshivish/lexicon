@@ -8,8 +8,8 @@ domain: other
 sources:
   - wiaw:7110 "Just Because" (2017-01-28) https://articles.ohr.edu/articles/just-because
 authorities: [Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Because: baavur / biglal / bishvil
 
@@ -37,20 +37,27 @@ bring about. "I will visit my parents because I want to build a better
 relationship with them" is *baavur*, the anticipated result standing as the
 reason.
 
-This is why Shemos 9:16 says *baavur* and not *biglal*: Hashem tells Pharaoh
-that He has kept him alive *baavur zos*, to show him His strength and so that His
-Name be told throughout the earth. Pharaoh had no standing merit, nothing
+This is why Shemos 9:16 says *baavur* and not *biglal* or *bishvil*. Before the
+plague of hail Moshe warns Pharaoh that he truly deserves to be killed, but that
+Hashem said He had let him endure *baavur zos*, to show him His strength and so
+that His
+Name be told throughout the earth. *Bishvil* is out of the running to begin
+with, never appearing in Tanach. As for *biglal*, Pharaoh had no standing merit,
+nothing
 already in hand, to justify sparing him; the whole reason was what would come of
 it afterward. (The Midrash, Pirkei d'Rabbi Eliezer chapters 42 and 43, follows
 that outcome: Pharaoh survived *makkas bechoros* though he was a firstborn, and
-survived Krias Yam Suf though his army drowned, and eventually came to Ninveh,
-where he roused its people to heed Yonah and do teshuvah.)
+survived Krias Yam Suf though the rest of his army drowned, and somehow ended up
+a castaway who came in time to Ninveh, where he, or perhaps his descendants or
+his reincarnation, rose to prominence and roused its sinful people to heed
+Yonah's warning and do teshuvah.)
 
 ### bishvil (בשביל)
 Not in Tanach at all; it enters with Chazal, appearing close to fifty times in
 the Mishnah. Literally *bi-shvil*, "on the path," which may itself picture the
-road running from a cause to its effect. It normally does the work of *biglal*,
-though at Bava Metzia 5:10 it carries the sense of *baavur*. Neither *biglal* nor
+road running from a cause to its effect. It usually does the work of *biglal*,
+though in at least one case (Bava Metzia 5:10) it carries the sense of *baavur*.
+Neither *biglal* nor
 *baavur* appears in the Mishnah in its own voice; *baavur* shows up once only,
 inside a pasuk the Mishnah quotes. Modern Hebrew made *bishvil* the catch-all.
 
@@ -77,4 +84,9 @@ None yet.
 Rabbi Reuven Chaim Klein, "Just Because," What's in a Word?, Ohr Somayach, 1
 Shevat 5777 (2017-01-28), https://articles.ohr.edu/articles/just-because; raw
 text in `sources/whats-in-a-word/raw/7110-just-because.md`. Primary loci: Shemos
-9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43.
+9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43. The
+two parent-visiting sentences are the article's own illustration. The Rendering
+guidance above is this guide's own; everything in the Distinctions traces to the
+column, which cites Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and the
+Malbim together for the *baavur*/*biglal* distinction and gives no other
+authority for it.

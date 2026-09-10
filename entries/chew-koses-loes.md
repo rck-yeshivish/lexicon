@@ -7,7 +7,7 @@ english: [chew, chewing, munch, masticate, crunch, gnaw]
 domain: body
 sources:
   - wiaw:11831 "Behaaloscha: Chew That" (2025-06-14) https://articles.ohr.edu/articles/behaaloscha-chew-that
-authorities: [Rashi, Maharsha, Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Mahari Kara, Rabbi Shlomo Pappenheim, Ohr Zarua, Rabbeinu Chananel, Rav Hai Gaon, Rabbi Moshe Tedeschi Ashkenazi, Rema, Ravyah, Rabbi Matzliach Mazuz, Rabbi Meir Mazuz, Rabbi Yitzchak Barda, Rabbi Avi Kobernick, Rabbi Ernest Klein]
+authorities: [Rashi, Maharsha, Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Mahari Kara, Rabbi Shlomo Pappenheim, Ohr Zarua, Rabbeinu Chananel, Rav Hai Gaon, Rabbi Moshe Tedeschi Ashkenazi, Rema, Ravyah, Rabbi Matzliach Mazuz, Rabbi Meir Mazuz, Rabbi Yitzchak Barda, Rabbi Avi Kobernick, Rabbi Ernest Klein, Rabbi Yaakov Yehudah Zilberberg, Dr. Asher Weiser, Samuel Krauss, Dr. A. Weiss]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -20,11 +20,16 @@ for chewing at all (*maaleh geirah* means brings up the cud, not chews it).
 Render *koses* **chew** in the sense of gnawing something raw or eating it in
 an unusual way, and *lo'es* **chew** in the ordinary sense of working food
 before swallowing. Rashi flatly equates them (*lo'es* means *koses*), so treat
-them as synonyms unless a halachic passage turns on the difference; where it
-does, follow Rabbi Meir Mazuz: *le'isah* typically implies chewing toward
-swallowing, while *kesisah* does not necessarily carry that implication. The
-article grants that this difference is hard to substantiate, and hard even to
-state exactly.
+them as synonyms unless a halachic passage turns on the difference. The
+article's own suggestion is that perhaps no semantic difference is called for at
+all, since the two seem to come from different languages. Where a passage does
+turn on the word choice, the article sets out two readings of the difference
+that pull against each other and resolves neither: Rabbi Meir Mazuz has
+*le'isah* typically implying chewing toward swallowing while *kesisah* does not
+necessarily carry that implication, and Rabbi Yitzchak Barda has *kesisah* the
+more enjoying chew and *le'isah* the more workaday one. The article grants that
+the difference the Mazuz family presumes is hard to substantiate, and hard even
+to state exactly.
 
 ## Distinctions
 
@@ -45,7 +50,8 @@ article calls this second one a slightly different definition and leaves it at
 that; the two arguably pull the same way, since raw is the unusual way, but
 that reconciliation is ours.
 
-Etymology: Rabbi Yaakov Yehudah Zilberberg (*Di Kasif*), among others, ties
+Etymology: several philologists, among them Dr. Asher Weiser and Rabbi Yaakov
+Yehudah Zilberberg (*Di Kasif*), tie
 rabbinic כ-ס-ס to biblical ק-ס-ס, which occurs once, *yikoses*, of cutting down
 a metaphoric tree's fruit (Yechezkel 17:9). Rashi there links ק-ס-ס to ק-צ-ץ
 (cutting) by the samech/tzadi interchange; Mahari Kara links it to כ-ת-ת
@@ -59,8 +65,9 @@ lengthwise, while the *kesavos* of the Shulchan (Shemos 25:29, Bamidbar 4:7)
 are tubes cut across their width. He includes *kaskeses*, the scale of a kosher
 fish, in the same family.
 
-Two extensions. *Kaskasa* is to crunch or crush between the teeth; Rabbi Yosef
-Tuv-Elem's piyut *Elokei HaRuchos* requires *kiskusei* of the maror, which the
+Two extensions. *Kaskasa* is to crunch or crush between the teeth; the piyut
+*Elokei HaRuchos* of Rabbi Yosef Tuv-Elem of Bonfils, recited in some
+communities on Shabbos HaGadol, requires *kiskusei* of the maror, which the
 *Ohr Zarua* (*Hilchos Pesachim* 256) reads as munching, so that one does not
 swallow the maror without tasting its bitterness, while Rabbi Shamshon Raphael
 Ortzel of Bayit Ve'Gan suggests it may instead mean vigorous shaking (as in
@@ -68,6 +75,23 @@ Ortzel of Bayit Ve'Gan suggests it may instead mean vigorous shaking (as in
 off first. The verb *l'kaskes* in Mishnah *Niddah* 9:7 is vigorous rubbing in
 laundering, which perhaps resembles chewing in its consistent forceful
 movement.
+
+Beyond the Hebrew, the column reports comparative material. Rabbi Ernest Klein
+(no relation to the columnist) traces *kesisah/koses* back to the Akkadian
+*kasasu* (cutting into pieces) and *kissatu* (fodder), and holds them related to
+an Arabic cognate meaning pounding, grinding or pulverizing. The column also
+notes the French *couscous* (from the Arabic *kuskus*), a food of small bits of
+pounded grain, as cognate with *koses*, since it describes chopped grains that
+look as though they were pre-chewed; but it rules out any connection to the
+English *kasha* (buckwheat), which came by way of Yiddish from the Slavic
+languages, where it meant groats, cereal or porridge and not buckwheat in
+particular. The philologist Samuel Krauss links כ-ס-ס to ע-ס-ס (*assisi*,
+juicy), possibly because chewing a food releases its inner juices and lets one
+taste its flavors. And the column records having seen it claimed by one Dr. A.
+Weiss (in YU's rabbinic journal *Chorev*, 1943, vol. 7, p. 55) that the *kos* of
+the rabbinic *kos shel akarin*, a contraceptive draught, is not *kos* in the
+sense of cup at all but a cognate of *koses*, the ingredients having been cut or
+chopped into small bits and mixed together.
 
 Also from this root, *kisnin*: Targum renders the biblical *nikkudim*, food
 provisions (Yehoshua 9:5, 9:12; Melachim I 14:3), as *kasnin*, and the halachic
@@ -157,9 +181,9 @@ Mahari Kara; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ק-ס; Radak to
 Melachim I 14:3; *Ohr Zarua, Hilchos Pesachim* 256 and *Hilchos Berachos* 149;
 *Sefer HaNer* to Berachos 42a; *Ho'il Moshe* to Melachim I 14:3; *Shulchan
 Aruch, Orach Chaim* 567:3 with the Ravyah, *Hilchos Taanis* 861, and 651:9;
-*Ish Matzliach* vol. 2 *Orach Chaim* 47; *Arim Nissi* to Pesachim 39b. Rabbi
-Ernest Klein's Akkadian and Arabic derivations, Samuel Krauss's link to ע-ס-ס,
-Dr. Asher Weiser (whom the article names alongside Zilberberg for the
-כ-ס-ס / ק-ס-ס connection), Dr. A. Weiss on *kos shel akarin*, and the
-*couscous* and *kasha* comparisons are omitted here as comparative Semitics or
-non-traditional.
+*Ish Matzliach* vol. 2 *Orach Chaim* 47; *Arim Nissi* to Pesachim 39b. The
+comparative material the column itself cites is reported here as it attributes
+it: Rabbi Ernest Klein's Akkadian and Arabic derivations, Samuel Krauss's link
+to ע-ס-ס, Dr. Asher Weiser named alongside Zilberberg for the כ-ס-ס / ק-ס-ס
+connection, Dr. A. Weiss on *kos shel akarin* (*Chorev* 1943 vol. 7 p. 55), and
+the *couscous* and *kasha* comparisons.

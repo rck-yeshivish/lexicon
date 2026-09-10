@@ -25,8 +25,8 @@ words:
     distinct: from ra'ah, to see; the whole picture a thing presents, which may take in more than one color, not the single color alone (Malbim to Vayikra 13:5)
 sources:
   - wiaw:11705 "Terumah: Color Me" (2025-03-01) https://articles.ohr.edu/articles/terumah-color-me
-authorities: [Radak, Rashi, Malbim, Shadal, Maharal, Raavad I, Rambam, Menachem Ibn Saruk, Rabbi Natan of Rome, Rabbi Eliyahu Bachur, Rabbi Aharon Fuld, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shmuel Yehudah Steiger, Rabbi Meir Hellman, Rabbi Shalom Pushinsky, Rabbi Ernest Klein]
-status: draft
+authorities: [Radak, Rashi, Malbim, Shadal, Maharal, Raavad I, Rambam, Menachem Ibn Saruk, Rabbi Natan of Rome, Rabbi Eliyahu Bachur, Rabbi Aharon Fuld, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shmuel Yehudah Steiger, Rabbi Meir Hellman, Rabbi Shalom Pushinsky, Rabbi Ernest Klein, Alexander Kohut, Aharon Aaronsohn]
+status: reviewed
 updated: 2026-09-10
 ---
 # Color: tzeva / gavan / ein / mareh
@@ -74,13 +74,24 @@ being a microcosm of something.
    a thing is perceived to have. Rabbi Shalom Pushinsky refuted this over a
    century ago from Yirmiyahu 12:9, where *tzavua* describes a colorful bird of
    prey with no dyeing in sight.
-2. **Natural against man-made**, the same line Shadal draws for *ein*/*mareh*
-   against *tzeva*: *gavan* is a thing's own color, *tzeva* a color imposed on it.
-3. **Not a semantic difference at all.** The article's own conclusion: *tzeva*
-   is the native Hebrew word and *gavan* an Aramaic borrowing, so no distinction
-   of meaning need be sought. Rabbi Pushinsky and Rabbi Ernest Klein trace
-   *gavan* to Old Persian, noting that it is missing from the earlier Targumim
-   and shows up in the Aramaic most exposed to Persian.
+2. **Natural against man-made.** The botanist Aharon Aaronsohn: *gavan* is a
+   thing's own natural color, *tzeva* a man-made color imposed on it. This is
+   the same line Shadal draws for *ein*/*mareh* against *tzeva*.
+3. **Not a semantic difference at all.** The columnist's own conclusion, offered
+   as his own ("I would say"): *tzeva* is the native Hebrew word and *gavan* an
+   Aramaic borrowing of an Indo-European word, so no distinction of meaning need
+   be sought. Rabbi Shalom Pushinsky argues that *gavan* is native neither to
+   Hebrew nor to Aramaic and does not come from a Semitic language at all,
+   tracing it to Old Persian *gün/gune* ("color"). He supports this from its
+   absence in the earlier Aramaic works (the Targumim, save *sasgavana* above
+   and the relatively late Targum to Esther) and its occurrence only in later
+   Aramaic heavy with Persian influence, such as the Bavli; he adds that on this
+   showing the vav of ג-ו-נ was originally sounded as the vowel *u* and only
+   later as a consonant. Rabbi Ernest Klein, in his etymological dictionary of
+   Hebrew, likewise derives *gavan* from Old Persian, and Dr. Alexander Kohut
+   connects it to the Sanskrit *gaona/gauna*, which apparently also means
+   "color"; the column notes that Sanskrit and Old Persian both belong to the
+   Indo-Iranian branch of Indo-European and share a common ancestor.
 
 The Bottom line follows the third for lexicography and keeps the second as a
 usable rule of thumb, since *tzeva* really does carry the dyeing sense.
@@ -101,7 +112,9 @@ Root צ-ב-ע. The word does not occur in Chumash and appears only four times in
 Tanach, three of them in one pasuk: Sisera's mother imagining *tzeva'im* among
 the spoils (Shoftim 5:30), where Radak explains *tzeva'im* as a single garment
 made of many colors, and Yirmiyahu 12:9, the *tzavua* bird of prey hated by the
-other birds. In the Mishnah the root is everywhere: wool given to be dyed one
+other birds. Beyond these, the column allows a "perhaps" for the given name
+Tziv'on (Bereishis 36) and the place-name Tzevo'im (Nechemiah 11:34, Shmuel I
+13:18). In the Mishnah the root is everywhere: wool given to be dyed one
 color and dyed another (*Bava Kamma* 9:4), dyeing with *orlah* peels (*Orlah*
 3:1), telling a red spot of blood from paint (*Niddah* 9:6). The peacock's three
 hundred and sixty-five colors are its *tzivonim* (*Tanchuma Tazria* 2; see
@@ -109,8 +122,9 @@ hundred and sixty-five colors are its *tzivonim* (*Tanchuma Tazria* 2; see
 *tzavua*, literally colored, because, as Rashi explains (to *Sotah* 22b), the
 color of the outside does not match the inside. Rambam uses the root for dyeing
 the hair black (*Avodah Zarah* 12:10), the coloring of *tzitzis* (*Tzitzis*
-2:3), dyeing on Shabbos (*Shabbos* 9:13), red spotting (*Issurei Biah* 9:36),
-and *shemittah* fruit used for dyeing (*Shemittah* 5:1).
+2:3), dyeing on Shabbos (*Shabbos* 9:13), red spotting (*Issurei Biah* 9:36 and
+*Metamei Mishkav U'Moshav* 4:11), and *shemittah* fruit used for dyeing
+(*Shemittah* 5:1).
 
 In Aramaic the same root means immersing or soaking (Daniel 4:12, 4:20, 4:22,
 4:30, 5:21; Targum to Vayikra 4:6, 11:25, 15:17). Rabbi Yehoshua Steinberg: the
@@ -119,11 +133,19 @@ solution, the root came to cover soaking of every kind. Menachem Ibn Saruk
 (*Machberes Menachem*) and Rabbi Natan of Rome (*Sefer HeAruch*) already imply
 this, listing both senses under one root without their usual separation.
 
+Dr. Alexander Kohut (*HeAruch HaShaleim*) ties צ-ב-ע instead to ט-ב-ע, which
+means sinking or drowning, and also stamping, and also nature, the link resting
+on the interchangeability of tzadi and tes. The column supplies the reasoning it
+presumes he had: dyeing immerses an object in liquid much as a sinking thing is
+immersed; dyeing imprints a lasting color as stamping leaves a permanent mark;
+and *teva*, nature, is what is ingrained in a thing, as a dyed fabric absorbs
+its color until it is inseparable from it.
+
 On the deeper sense of the root, Rabbi Yaakov Tzvi Mecklenburg (*HaKsav
 VeHaKabbalah* to Shemos 8:15, 31:18, Vayikra 4:25) takes it as gripping or
 holding fast: dyeing forges a bond that holds the color to the material, and
-color is the derived sense. That also explains *etzba*, finger, whose alef Radak
-holds is not part of the root (whence *matzbia*, using the finger in the Yom
+color is the derived sense. That also explains *etzba*, finger, which is said to
+come from this root and whose alef Radak holds is not part of it (whence *matzbia*, using the finger in the Yom
 Kippur lottery, *Mishnah Yoma* 2:1, later pointing, and in Modern Hebrew
 voting): the finger is what lets a man hold and control what he grasps, which is
 why the plagues are "the finger of Hashem" (Shemos 8:15) and the Luchos are
@@ -151,7 +173,7 @@ throughout Vayikra 13. Hence Malbim's distinction above: the whole appearance,
 not the single color.
 
 ### gavan (גוון)
-Aramaic, not in Tanach, not in the Mishnah or Yerushalmi, but common in the
+Aramaic, not in Tanach, and seemingly not in the Mishnah or Yerushalmi, but common in the
 Bavli and Targum: the man selling a *tallis* asked what *gavan* it is (*Eruvin*
 53b), and the egg yolk that gives mustard a stronger yellow, *l'gaven* (*Shabbos*
 140a). Targum renders *tachash* as *sasgevana* (to Bamidbar 4:6), which Rashi
@@ -160,7 +182,8 @@ colors, and renders *chur* as *gavan chivar*, white color (Targum to Esther 1:6,
 cited by Rabbi Eliyahu Bachur in *Sefer Tishbi*). The one possible Mishnaic case
 is *Niddah* 3:3, the sac full of water, blood, or *genunim*; the Gemara (*Niddah*
 24b) concludes with Rabbi Ada bar Ahavah that it be read *gavanim*, tissue of
-varied colors, as Rashi there and *Sefer HeAruch* define it. In Modern Hebrew
+varied colors, as Rashi there defines it and as *Sefer HeAruch* seems to do as
+well. In Modern Hebrew
 *gavan* has narrowed to a shade within a color.
 
 ## Rendering guidance
@@ -192,9 +215,9 @@ cites: Shoftim 5:30; Yirmiyahu 12:9; Bereishis 36 (the name Tziv'on); Nechemiah
 *Mishnah Shabbos* 7:2, 13:4; *Mishnah Yoma* 2:1; *Bava Kamma* 9:4; *Orlah* 3:1;
 *Niddah* 3:3, 9:6, 24b; *Eruvin* 53b; *Sotah* 22b; *Tanchuma Tazria* 2;
 *Bereishis Rabbah* 7:4; Rambam, *Yesodei HaTorah* 3:3, *Avodah Zarah* 12:10,
-*Tzitzis* 2:3, *Shabbos* 9:13-14, *Issurei Biah* 9:36, *Tumas Tzaraas* 16:10,
-*Mechirah* 22:14, *Shemittah* 5:1; Raavad I, *Emunah HaRamah* 1:6; Maharal, *Gur
-Aryeh* to Vayikra 13:5. Alexander Kohut's *HeAruch HaShaleim*, and with it the
-Sanskrit comparison the article reports, are omitted here under the
-Orthodox-sources rule, as is the botanist Aharon Aaronsohn's parallel to Shadal's
-natural-against-artificial distinction.
+*Tzitzis* 2:3, *Shabbos* 9:13-14, *Issurei Biah* 9:36, *Metamei Mishkav
+U'Moshav* 4:11, *Tumas Tzaraas* 16:10, *Mechirah* 22:14, *Shemittah* 5:1; Raavad
+I, *Emunah HaRamah* 1:6; Maharal, *Gur Aryeh* to Vayikra 13:5. The article also
+cites Dr. Alexander Kohut (*HeAruch HaShaleim*) for the ט-ב-ע link and the
+Sanskrit comparison, Rabbi Ernest Klein's etymological dictionary, and the
+botanist Aharon Aaronsohn; all are reported above as the article reports them.

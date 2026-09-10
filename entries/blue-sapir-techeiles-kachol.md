@@ -20,8 +20,8 @@ words:
     distinct: from the eye-cosmetic kohl, whose shades ran from blue to black; the Midrash sets Yissachar's kachol flag against Dan's sapir flag, so it is not simply the blue of sapir
 sources:
   - wiaw:8167 "The True Blue" (2019-03-09) https://articles.ohr.edu/articles/the-true-blue
-authorities: [Rashi, Ramban, Rabbeinu Bachya, Targum, Bamidbar Rabbah]
-status: draft
+authorities: [Rashi, Ramban, Rabbeinu Bachya, Targum, Bamidbar Rabbah, Frankie Snyder, Aharon Demsky]
+status: reviewed
 updated: 2026-09-10
 ---
 # Blue: sapir / techeiles / kachol
@@ -47,8 +47,9 @@ does not have.
 
 **What shade techeiles is.** Rashi (to Bamidbar 15:38 and Shemos 25:4) defines
 *techeiles* as wool dyed with the blood of the chilazon, and calls its color
-*yarok*, which in his usage is a catch-all covering the band from orange through
-yellow, green, and blue to violet, so his definition does not settle the shade.
+*yarok*, which in his usage is a catch-all covering the band from orange to
+violet, with yellow, green, blue and indigo in between, so his definition does
+not settle the shade.
 The Midrash fixes it by comparison instead: *techeiles* resembles the color of
 the *sapir* stone, which is why looking at the tzitzis recalls the whole Torah,
 the Luchos having been hewn from *sapir*. The Bottom line follows the Midrash's
@@ -59,16 +60,26 @@ object and not to a name for a hue. On the breadth of *yarok*, see the entry on
 **Whether kachol is blue.** Rashi (Bava Basra 4a and Sukkah 51b) explains
 *avnei kochla*, among the materials with which Herod adorned the Beis
 HaMikdash, as marble that is *kachol*, apparently blue; compare the Ramban to
-Bereishis 49:12. Against a simple identification with blue: the Midrash
-(Bamidbar Rabbah) gives Yissachar's tribal flag as *kachol* and Dan's as
-*sapir*, which would be an odd pair if *kachol* were just the color of *sapir*;
-and the word itself comes from kohl, the antimony powder applied around the eye
-for healing or adornment, whose hues ran through the dark colors from blue to
-black. The Gemara's *kimachol bishfoferes*, "like kohl in its tube," refers to
-the applicator. The Bottom line treats *kachol* as "dark" wherever the context
-allows and reserves "blue" for places, like Rashi's marble, where an authority
-has read it that way. Archaeological and epigraphic arguments the article brings
-on this question are omitted under house rule 9.
+Bereishis 49:12. Against a simple identification with blue, the column
+holds that there are places where *kachol* clearly means black and not blue, and
+gives as its example the Midrash (Bamidbar Rabbah) on the tribal flags, where
+Yissachar's is *kachol* and Dan's is *sapir*. Besides that, the word itself comes
+from kohl, the antimony powder applied around the eye
+for healing or adornment, whose hues ran widely through the dark colors from blue
+to black, so that it certainly does not mean "blue" alone. The Gemara's
+*kimachol bishfoferes*, "like kohl in its tube," refers to the applicator.
+
+Two further arguments the column brings, both from outside the traditional
+sources. Frankie Snyder, an expert in the tiles found at the Temple's site,
+wrote to Rabbi Klein that archaeologists have found several colors of marble from
+Herod's Temple but no blue marble, which suggests to him that *kachol* does not
+really mean blue. And Professor Aharon Demsky of Bar Ilan University points to an
+ancient wine decanter found near Chevron inscribed "[Belonging] to Yachzeyahu,
+wine *kachol*"; since there is no such thing as blue wine, the column takes the
+inscription to mean dark wine, and concludes from the two that *kachol*
+originally meant black or dark rather than blue. The rendering guidance below
+follows that conclusion, keeping "blue" for places, like Rashi's marble, where an
+authority has read it so.
 
 ## Distinctions
 
@@ -79,26 +90,31 @@ resembling the clear sky (Shemos 24:10), and Yechezkel's vision of the throne
 has the likeness of a *sapir* stone (Yechezkel 1:26, 10:1); *sapir* is also
 among the seven precious stones of Gan Eden in the rebuke of the king of Tzor
 (Yechezkel 28:13). Targum renders *even sapir* simply as *even tava*, a good
-stone, without naming a hue. Rabbeinu Bachya: the *sapir* on the Choshen
+stone, without naming a hue. Which gemstone it is the column leaves open:
+gemologists, it reports, tend to identify *sapir* with lapis lazuli or with the
+sapphire, both blue jewels. Rabbeinu Bachya: the *sapir* on the Choshen
 corresponds to Yissachar, who toiled in Torah, since the Luchos of *sapir* were
 Torah made physical; tradition holds that Moshe's staff was *sapir* as well. In
 Rabbinic literature the word is largely displaced by Aramaic variants,
-*sampiryon*, *sanpiryon*, *sampirinon*, *sanpirinon*; one suggestion the article
-records is that these are a form of Aramaic *shappir*, "beautiful," applied to a
-gem. Modern gemological identifications of the stone are omitted under house
-rule 9.
+*sampiryon*, *sanpiryon*, *sampirinon*, *sanpirinon*, which seem to be Aramaic
+variants of the Hebrew. Etymologists, the column reports, admit that the ultimate
+source of the word is obscure: some claim it is a Sanskrit loanword, others
+prefer to see it as a conjugation of the Aramaic *shappir*, "beautiful" or
+"good," applied to a gem, adapted into Greek and reborrowed from there.
 
 ### techeiles (תכלת)
 The Torah commands that the tzitzis carry *techeiles* so that one will remember
 all the mitzvos (Bamidbar 15:38). Rashi, as above: wool dyed with the blood of
-the chilazon. What the chilazon is, traditional sources hold, has been hidden
-from us; identifications proposed in modern times are outside the scope of this
-entry.
+the chilazon. What the chilazon is the column leaves unsettled: some claim it might
+be the *murex trunculus*, a marine snail found off the coast of Eretz Yisrael, or
+the *sepia officinalis*, the common cuttlefish, though traditional sources assert
+that it is something hidden from us, so that we do not know exactly what it is.
 
 ### kachol (כחול)
-Not Biblical Hebrew in the sense of a color. The word comes from the cosmetic
-kohl, historically made from antimony, mentioned often in the Gemara and applied
-with a tube. Its use as the ordinary Hebrew word for the color blue is modern.
+Not a Biblical color word. Its origins are in Arabic, where it was pronounced
+*kohl*: the silverish antimony powder applied around the eye for medicinal or
+cosmetic purposes, mentioned many times in the Gemara and applied with a special
+tube. Its use as the ordinary Hebrew word for the color blue is modern.
 
 ## Rendering guidance
 
@@ -130,5 +146,5 @@ raw text in `sources/whats-in-a-word/raw/8167-the-true-blue.md`. Primary loci
 cited: Shemos 24:10, 25:4, 28:18, 39:11; Bereishis 49:12 with Ramban; Bamidbar
 15:38 with Rashi; Yechezkel 1:26, 10:1, 28:13; Bava Basra 4a and Sukkah 51b with
 Rashi; Bamidbar Rabbah on the tribal flags; Targum to *even sapir*; Rabbeinu
-Bachya on the Choshen. Gemological, Sanskrit, archaeological, and epigraphic
-material adduced by the article is omitted under house rule 9.
+Bachya on the Choshen. The article gives no chapter-and-verse for the Bamidbar
+Rabbah on the flags, and none is supplied here.

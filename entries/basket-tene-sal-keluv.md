@@ -27,8 +27,8 @@ words:
 sources:
   - wiaw:8846 "A Basket Case" (2020-09-05) https://articles.ohr.edu/articles/a-basket-case
   - wiaw:10020 "A Basket Case" (2022-09-17) https://articles.ohr.edu/articles/a-basket-case-2
-authorities: [Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Ernest Klein, Rabbi David Chaim Chelouche, Rabbi Tanchum HaYerushalmi, Rashi, Rashbam, Rabbeinu Gershom, Targum Onkelos]
-status: draft
+authorities: [Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Ernest Klein, Rabbi David Chaim Chelouche, Rabbi Tanchum HaYerushalmi, Rashi, Rashbam, Rabbeinu Gershom, Targum Onkelos, Chaim Tawil]
+status: reviewed
 updated: 2026-09-10
 ---
 # Basket: tene / sal / keluv
@@ -55,14 +55,20 @@ large Mishnaic **hamper**. The trap: English "basket" covers all of them.
 **What the root ס-ל means.** Rav Hirsch (to Bamidbar 19:20; Tehillim 3:3): *sal*
 is literally "to lift," a basket being what helps a man lift and carry, and he
 places *sulam*, *solelah* (a siege mound) and *mesilah* (a road that climbs) in
-the same ס-ל family. Rabbi Aharon Marcus's rule fits this, that in every ס-ל
-word the samech stands in for an ayin, so the root is really ע-ל, what is above
-or goes up, as in *sela*, a rock that comes up out of the ground. Rabbi Shlomo
+the same ס-ל family. Rabbi Aharon Marcus's theory of *sela* fits this: he
+proposed that in every word whose root is the biliteral ס-ל the
+samech stands in for an ayin that follows it, so the root is really ע-ל, what is
+above (*al*, *lemalah*) or ascends (*oleh*, *aliyah*), and *sela* is a rock that
+comes up out of the ground. Rabbi Shlomo
 Pappenheim reads ס-ל as repeated action instead: *mesilah* is a road because
 many have trodden it, and one who twists his hair over and over is *misalsel*
-(Rosh Hashanah 26b), so *sal* is a bread basket, an item in daily use (Bereishis
-40:16). The Bottom line takes "basket" plainly, since Pappenheim himself concedes
-*sal* for a basket of meat (Shoftim 6:19) or grapes (Yirmiyahu 6:9).
+(Rosh Hashanah 26b), so *sal* is a bread basket, an item in constant daily use
+(Bereishis
+40:16, Vayikra 8:2). The Bottom line takes "basket" plainly, since Pappenheim
+himself admits that *sal* can mean any basket in a borrowed sense, even a basket
+of meat (Shoftim 6:19) or grapes (Yirmiyahu 6:9). Against all of this, Dr. Chaim
+Tawil points out that the Hebrew *sal* seems in fact to derive from the Akkadian
+*sallu*, which likewise means basket.
 
 **Where tene comes from.** Rabbi Pappenheim: the aleph is not root, the root
 being ט-נ, and the word names a basket woven with gaps so that air reaches the
@@ -98,17 +104,33 @@ Shmuel I 2:14 and Divrei HaYamim II 35:13, the vessels being much the same shape
 
 ### the Mishnaic and Talmudic words
 *Kalkalah* is frequent in the Mishnah (Peah 7:3; Demai 7:6, which the article
-prints as *Dema*; Terumos 4:6; Maasros 1:5; Shabbos 20:3; Kiddushin 2:7; Keilim
-16:2). Rabbi Tanchum HaYerushalmi: an especially large *sal* for storing every
-kind of food, its name a cognate of *kalkal*, to sustain (Bereishis 47:12).
-*Kefifah*, with a kuf or a kaf, is a wicker basket (Shabbos 2:2; Keilim 26:1).
-Eight more appear in the Gemara, distinguished by context and not by any
-commentator: *dikula*, of palm bast (Chullin 32b); *gridia*, for vegetables
-(Rashi to Sotah 10a); *traskal*, the wide barley basket hung at an animal's neck
-(Rashi to Shabbos 5a); *tzana* (Rashi to Chullin 57a; Rashbam to Bava Basra
-126b), which Rabbi Ernest Klein takes as a basket of thorns, from *tzan*;
-*kelet*, the vase-shaped basket women carried on their heads (Kesubos 72b);
-*sharkafa*, for birds; *tuvila* and *tirina*, for dates (Pesachim 88a).
+prints as *Dema*; Terumos 4:6; Maasros 1:5, 4:2; Shabbos 20:3, 21:1; Eruvin
+3:8; Kiddushin 2:7; Keilim
+16:2, 22:9). Rabbi Tanchum HaYerushalmi: an especially large *sal* people would
+use to store all
+kinds of food, its name a cognate of *kalkal*, to sustain (Bereishis 47:12),
+because its contents provide sustenance and nourishment.
+*Kefifah*, sometimes spelled with a kuf and sometimes with a kaf, seems to mean
+specifically a wicker basket (Shabbos 2:2; Sotah 2:1, 3:1; Keilim 26:1).
+
+Eight more appear in the Gemara. How they differ is not readily apparent and no
+commentator addresses it, so the column reads them from context clues:
+
+- *dikula* (Chullin 32b) seems to be a basket made from the bast of a *dekel*, a
+  palm tree (see Rashi to Shabbos 90b).
+- *gridia*, a vegetable basket (Rashi to Sotah 10a).
+- *traskal*, a wide basket typically filled with barley and hung at an animal's
+  neck so it can eat more easily (Rashi to Shabbos 5a, 53a and Eruvin 33b).
+- *tzana* (Rashi to Chullin 57a; Rashbam to Bava Basra
+  126b), which Rabbi Dr. Ernest Klein explains as a basket made out of thorns,
+  related to the biblical *tzan* (Bamidbar 33:55, Mishlei 22:5, Amos 4:2).
+- *kelet*, a vase-shaped basket women used to wear on their heads (Kesubos 72b,
+  82b; Gittin 77a; Bava Basra 85b; Bava Metzia 9b).
+- *sharkafa*, which seems to be a basket in which birds were placed (Chullin
+  53b, with Rashi and Tosafos there).
+- *tuvila*, apparently a basket used for harvesting dates (Rashi and Rabbeinu
+  Gershom to Bava Basra 33b).
+- *tirina* (Pesachim 88a), which seems to have been a special basket for dates.
 
 ## Rendering guidance
 
@@ -136,7 +158,18 @@ https://articles.ohr.edu/articles/a-basket-case-2; raw texts in
 `.../10020-a-basket-case-2.md`. The two are the same article, republished; the
 second carries no new material. Primary loci cited: Bereishis 40:16, 47:12;
 Vayikra 8:2; Bamidbar 19:20, 33:55; Devarim 26:2, 26:4, 28:5, 28:17; Shoftim
-6:19; Shmuel I 2:14; Yirmiyahu 5:27, 6:9, 24:1-2; Amos 8:1; Tehillim 3:3;
+6:19; Shmuel I 2:14; Yirmiyahu 5:27, 6:9, 24:1-2; Amos 4:2, 8:1; Tehillim 3:3;
 Mishlei 7:16, 22:5; Divrei HaYamim II 35:13; Rosh Hashanah 26b; Chullin 32b,
-53b, 57a; Shabbos 5a, 90b; Sotah 10a; Bava Basra 33b, 126b; Kesubos 72b; Gittin
-77a; Pesachim 88a. Akkadian derivations are omitted under house rule 9.
+53b, 57a; Shabbos 5a, 53a, 90b; Eruvin 33b; Sotah 10a; Bava Basra 33b, 85b,
+126b; Kesubos 72b, 82b; Bava Metzia 9b; Gittin
+77a; Pesachim 88a; Mishnah Peah 7:3, Demai 7:6, Terumos 4:6, Maasros 1:5 and
+4:2, Shabbos 2:2, 20:3 and 21:1, Eruvin 3:8, Sotah 2:1 and 3:1, Kiddushin 2:7,
+Keilim 16:2, 22:9 and 26:1; Dr. Chaim Tawil on Akkadian *sallu*.
+
+Two notes on the article's own wording. It prints the Mishnah tractate Demai as
+*Dema*. And in reporting Rabbi Pappenheim on *tene* it says "the letter ALEPH of
+*tene* is a radical, while its actual root is just TET-NUN," where the sense
+plainly required is that the aleph is *not* a radical, since the root given is
+ט-נ. The Rendering guidance above is this guide's own; everything in the
+Distinctions traces to the column, its Akkadian and Egyptian etymologies
+included.

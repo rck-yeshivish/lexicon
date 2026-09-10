@@ -7,9 +7,9 @@ english: [armed, arms, weapon, vanguard, mustered, equipped]
 domain: action
 sources:
   - wiaw:11613 "Bishalach: Armed and Ready" (2024-01-27) https://articles.ohr.edu/articles/bishalach-armed-and-ready
-authorities: [Rashi, Ramban, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rashbam, Daas Zekeinim, Malbim, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Shlomo of Urbino, Korban HaEidah, Torah Temimah, Rabbi Chaim Kanievsky, Baal HaTurim, Rabbi Ernest Klein]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Ramban, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rashbam, Daas Zekeinim, Malbim, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Shlomo of Urbino, Korban HaEidah, Torah Temimah, Rabbi Chaim Kanievsky, Baal HaTurim, Rabbi Ernest Klein, Wilhelm Gesenius, David Curwin, Rabbi Elimelech Bleiberg, Rabbi Itamar Habshush, David Assaf, Yisrael Bartel]
+status: reviewed
+updated: 2026-09-10
 ---
 # Armed: chamush / chalutz / mezuyan
 
@@ -23,8 +23,9 @@ Yishmael* to Shemos 13:18 and *Shemos Rabbah* 20:19 say it means *mezuyanim*.
 *chamesh*, five.
 *Chalutz* is the **vanguard**, the men drawn out from the nation to go at the
 head of the army. *Mezuyan* is post-biblical, from Aramaic *zayin*, a weapon.
-Targum renders all of them (and *vayarek* of Avraham) by *zariz*, ready at a
-moment's notice. The trap: at Shemos 13:18 "armed" and "a fifth of them" are
+Targum renders *chamush* in all four places by *zariz*, ready at a moment's
+notice, and often renders *chalutz* the same way; Onkelos gives *vayarek* of
+Avraham by *zariz* too. The trap: at Shemos 13:18 "armed" and "a fifth of them" are
 both live readings of one word, so translate one and footnote the other.
 
 ## Distinctions
@@ -35,11 +36,14 @@ Reuven expected to lead the conquest (Yehoshua 1:14) and doing so (Yehoshua
 4:12), and Gidon's war with Midyan (Shoftim 7:11). Ramban reads the peshat at
 Shemos 13:18 as armed, since Yisrael feared attack by the Pelishtim or others
 on the way. The Mechilta and Rashi read *chamushim* from *chamesh*, that only
-one in five (or one in fifty, or one in five hundred) left Mitzrayim.
+one in five (or one in fifty, or one in five hundred) left Mitzrayim. (In
+Modern Hebrew the association with armaments went on developing, so that
+*tachmoshes* is ammunition.)
 
 Menachem Ibn Saruk, Ibn Janach, Ibn Parchon and Radak take the root as
 ח-מ-ש, which also yields *chamesh*, *chomesh*, *chamishah*, *chamishim*. The
-noun *chomesh*, the lower flank, occurs four times, all in Shmuel (Shmuel II
+noun *chomesh*, typically translated "lower abdomen," occurs four times, all in
+Shmuel (Shmuel II
 2:23, 3:27, 4:6, 20:10), of men killed by a stab there; Sanhedrin 49a places it
 by the fifth rib, where the gallbladder and liver hang, so that a blow there
 kills. Ibn Janach, Rabbi Yehudah Ibn Balaam, Ibn Parchon, Ibn Ezra and Radak
@@ -52,16 +56,31 @@ bow, a shield, a club and a spear, and *chamushim* means Yisrael left armed with
 those five. (The standard editions read "fifteen"; the reading "five" is
 preferred by *Korban HaEidah* there, *Torah Temimah* to Shemos 13:18, and Rabbi
 Chaim Kanievsky, and appears to stand in *Mechilta d'Rashbi* and the Yemenite
-*Midrash HaBeiur*; see also Baal HaTurim there.) Rabbi Ernest Klein suggests
-five as a military formation, van, body, rear and two flanks.
+*Midrash HaBeiur*; see also Baal HaTurim there.)
 
-Targum renders *chamush* in all four places by a cognate of *zariz*, prepared
-and ready at once. The related verb *chimesh* (Bereishis 41:34, where Yosef
-advises Pharaoh) is read two ways: Targum Onkelos, Rashi and Ibn Parchon by
-*zariz*, that Pharaoh should spur his subjects to store; Rashbam, Ibn Ezra,
-*Daas Zekeinim*, Radak and (by implication) Ibn Saruk by *chamesh*, that he
-impose a fifth as tax. Ibn Janach reads it as a third thing, cognate to *kamus*,
-hidden.
+The column gives several further routes to the etymology, all of them offered
+as conjecture. Rabbi Dr. Ernest Klein conjectures that *chamush* relates to
+five in the sense of a military formation divided in five parts, van, body,
+rear and two flanks. The columnist adds his own suggestion: the most basic
+weapon a man has is his own fist, which has five fingers, so a word for one
+bearing a weapon might well be tied to five. The German philologist Wilhelm
+Gesenius (1786 to 1842) sees Hebrew *chamush* as related to the Arabic *hamas*,
+to be eager or manly in battle, since a Hebrew shin often becomes a sin or
+samech sound in Arabic. As an aside the column notes David Curwin at the
+Balashon Blog (19 October 2023), who clarifies that the name of the Arab terror
+organization Hamas is technically an acronym for the Arabic term for "The
+Islamic Resistance Movement," but was almost certainly influenced by the Arabic
+*hamas* as well.
+
+Targum renders *chamush* in all four places by a cognate of *zariz* (encourage,
+arouse, strengthen, embolden), which is to say that armed men are prepared and
+ready for a fight at a moment's notice. The related verb *chimesh* (Bereishis
+41:34, where Yosef advises Pharaoh) is read two ways: Targum Onkelos, Rashi and
+Ibn Parchon by *zariz*, that Pharaoh should spur his subjects to store; Rashbam,
+Ibn Ezra, *Daas Zekeinim*, Radak and others by *chamesh*, that he impose a fifth
+as tax (also implied in Ibn Saruk's *Machberes Menachem*). Ibn Janach reads it
+as a third thing, related to the Arabic *chamus*, hidden, a cognate of the
+Hebrew *kamus*.
 
 ### chalutz (חלוץ)
 Seventeen occurrences in the military sense, mostly Bamidbar (31:5, 32:21,
@@ -72,15 +91,26 @@ Devarim 3:18). Rashi (to Bamidbar 21:3) simply defines *chalutzim* as
 *mezuyanim*.
 
 The root ח-ל-צ yields removing something from its place, slipping off a
-garment, rescuing from danger, and *chalatzim*, the loins. As with *chamush*,
+garment, rescuing from danger, and *chalatzim*, the thighs, loins or hips; it
+also gives the given name Cheletz, one of David's warriors (Shmuel II 23:26;
+Divrei HaYamim I 11:27, 27:10) and another man of that name (Divrei HaYamim I
+2:39). As with *chamush*,
 Ibn Balaam, Ibn Ezra (to Bamidbar 31:3) and Ibn Parchon derive the adjective
 from the body part: weapons are fastened at the loins. Radak (*Sefer
 HaShorashim*) accepts that and adds the removal sense: fighting men are
 figuratively removed from the rest of the nation by being designated as
 soldiers. Rabbi Shlomo Pappenheim narrows it: *chalutzim* are the units
-extracted from the formation to serve at the front, ahead of the army. Ibn
-Janach derives it from shedding a garment, since men ready for war strip off
-civilian clothing. Targum again renders it by *zariz*.
+extracted from the formation to serve at the front, ahead of the army. The
+columnist proposes a further possibility of his own, that *chalutzim* are those
+who have drawn their weapon from its holder or sheath, or are ready to do so at
+a moment's notice, while noting that he has found no philologist who says so
+explicitly. Ibn
+Janach (*Sefer HaShorashim*) derives it from shedding a garment, seemingly
+because men ready for battle shed some of their civilian clothing. The Targumim
+again often render it by *zariz*. In the Torah journal *Aspaklaria*, Rabbi
+Elimelech Bleiberg and Rabbi Itamar Habshush debated whether the Modern Hebrew
+*chalutz*, a pioneer, grows out of that Targumic tie between *chalutz* and
+*zariz*, or is a Modern Hebrew coinage.
 
 ### The difference between chamush and chalutz
 Malbim (to Yehoshua 4:12) notes the overlap and separates them: *chamushim* are
@@ -96,21 +126,29 @@ Not in Tanach and not in the Mishnah, but common in Gemara: *listim mezuyanin*,
 armed robbers (Kiddushin 11a; Bava Kamma 57a-b, 80a, 114a; Bava Metzia 22a,
 29b, 43a, 58a, 93b, 95a; Bava Basra 92b; Temurah 15b; Yerushalmi *Shekalim*
 2:1, *Shevuos* 8:1). It comes from the Aramaic noun *zayin*, a weapon, which is
-Targum's standard rendering of Hebrew *neshek*; the ordinary Gemara term is
+Targum's standard rendering of Hebrew *neshek* and comparable terms; the column
+adds that the letter zayin itself orthographically resembles a weapon, perhaps a
+spear. The ordinary Gemara term is
 *klei zayin* (Eruvin 45a, Nazir 59a, Sanhedrin 82a, Makkos 10a, Avodah Zarah
 15b-16a, 25b; Yerushalmi *Peah* 1:1, *Pesachim* 4:3, *Avodah Zarah* 1:6, 2:1).
 Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) glosses *zayin* by German *waffen*
-and Latin *arma*. *Avos d'Rabbi Nosson* 29 uses *mezuyan* and "has a *zayin* in
+(a cognate of English *weapon*) and Latin *arma* (a cognate of English *arms*).
+*Avos d'Rabbi Nosson* 29 uses *mezuyan* and "has a *zayin* in
 his hand" interchangeably: one who has midrash without halachah is a strong man
 unarmed, halachah without midrash a weak man armed, and both together an armed
-warrior.
+warrior. *Yalkut Shimoni* to Devarim 534, having said that a bachelor should see
+to it that he marries, gives a parable for a wife's protectiveness: do not
+settle without a wife, rather make a holder for your *zayin*. (In Modern Hebrew
+slang *zayin* took on a rude sense, which scholars like David Assaf and Yisrael
+Bartel see as a bowdlerized form of the Hebrew *zanav*, tail, used
+insultingly.)
 
 The biblical cousin is *azeinecha*, a weapon (Devarim 23:14). Ibn Saruk takes
 the root as א-ז-ן; Radak holds the initial alef is not radical and the root is
 ז-ו-ן, which brings *azen* very close to *zayin*; Ibn Janach goes both ways.
 Rabbi Shlomo Pappenheim traces both to the biliteral ז-ן, provision and the
 meeting of needs: a weapon is what equips a fighter to withstand an assault.
-(*Sefer HaTishbi* also cites the reading of *susim meyuzanim* at Yirmiyahu 5:8
+(*Sefer HaTishbi* also cites some who explain *susim meyuzanim* at Yirmiyahu 5:8
 as armed horses.)
 
 ### vayarek (ויירק)
@@ -122,8 +160,11 @@ to the group. Rabbi Shlomo Pappenheim traces it to the biliteral ר-ק, emptying
 drawing a sword empties its sheath, and readiness to do so is a fighter's edge.
 
 *Vayikra Rabbah* 25:4 gives the counterweight: Avraham's victories came "not
-through a *zayin* and not through a shield, but through tefillah and
-supplication."
+through a *zayin* and not through a shield (*magen*), but through tefillah and
+supplication." The column closes on the observation that Tehillim 91, said
+against every sort of danger and especially for soldiers at war, contains no
+letter zayin, an allusion to the idea that one who can draw on the power of
+tefillah has no need of physical weapons.
 
 ## Rendering guidance
 
@@ -137,11 +178,12 @@ supplication."
   4:12), give *chalutzim* "the vanguard" or "the men drawn out" and keep
   "armed" for *chamushim*.
 - *Chalutzim* of Bamidbar 32 is "as a vanguard" or "in the lead, armed," not
-  "pioneers"; the modern sense is a separate question and does not belong in a
+  "pioneers"; whether the modern sense grows out of the biblical one is itself
+  disputed (the *Aspaklaria* exchange above), so it does not belong in a
   translation of the pasuk.
-- *Chomesh* in Shmuel is the "flank" or "the fifth rib," with Sanhedrin 49a; do
-  not render it "belly," which loses the anatomical precision the Gemara is
-  supplying.
+- *Chomesh* in Shmuel is the "lower abdomen" or "the fifth rib," with Sanhedrin
+  49a; do not render it "belly," which loses the anatomical precision the Gemara
+  is supplying.
 - Bereishis 41:34, *v'chimesh*: pick one, "he shall take a fifth" (Rashbam, Ibn
   Ezra, Radak) or "he shall organize" (Onkelos, Rashi), and name the other in
   a note. The two readings are not compatible in one English clause.
@@ -165,9 +207,19 @@ Yehoshua 1:14, 4:12 with Malbim, 6:7, 6:9, 6:13; Shoftim 7:11; Shmuel II 2:23,
 Rashi, 31:3 with Ibn Ezra, 31:5, 32:21-32; Devarim 3:18, 23:14; Yeshayahu 15:4;
 Yirmiyahu 5:8; Yerushalmi *Shabbos* 6:4 with *Korban HaEidah* and Mishnah
 *Shabbos* 6:4; *Avos d'Rabbi Nosson* 29; *Yalkut Shimoni, Devarim* 534;
-*Vayikra Rabbah* 25:4; Radak, *Sefer HaShorashim* s.v. חלץ; *Otzar Nirdafim*
-22; *Ohel Moed*; *Sefer HaTishbi*. Two citation notes: the article prints Gen.
-41:43 for *v'chimesh*, which is Bereishis 41:34, and Deut. 23:4 for
-*azeinecha*, which is Devarim 23:14. Gesenius's Arabic *hamas* derivation, the
-Balashon note on the name of the terror organization, and the academic
-discussion of the modern slang sense of *zayin* are omitted here.
+*Vayikra Rabbah* 25:4; Shmuel II 23:26 and Divrei HaYamim I 2:39, 11:27, 27:10
+for the name Cheletz; Radak, *Sefer HaShorashim* s.v. חלץ; Ibn Janach, *Sefer
+HaShorashim*; Ibn Saruk, *Machberes Menachem*; *Otzar Nirdafim*
+22; *Ohel Moed*; *Sefer HaTishbi*; the *Aspaklaria* exchange between Rabbi
+Elimelech Bleiberg and Rabbi Itamar Habshush. Three citation notes: the article
+prints Gen. 41:43 for *v'chimesh*, which is Bereishis 41:34; it prints Deut.
+23:4 for *azeinecha*, which is Devarim 23:14; and in reporting Radak on
+*azeinecha* it prints "the initial ALEPH is radical to the root" where the
+sense plainly required is that the alef is *not* radical, since Radak's root
+there is ז-ו-ן. The Rendering guidance above is this guide's own; everything in
+the Distinctions traces to the column, including its comparative material
+(Gesenius on Arabic *hamas*, Ibn Janach on Arabic *chamus*, Rabbi Ernest Klein
+on the five-part formation, David Curwin at Balashon on the name Hamas, and
+David Assaf and Yisrael Bartel on the modern slang sense of *zayin*), and the
+columnist's own two conjectures (the five-fingered fist, and *chalutzim* as
+those who have drawn the weapon) are marked as his.

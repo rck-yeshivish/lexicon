@@ -12,9 +12,9 @@ words:
     nk: כִּכָּר
 sources:
   - wiaw:7815 "Let Them Eat Bread" (2018-06-23) https://articles.ohr.edu/articles/let-them-eat-bread
-authorities: [Radak, Rabbi Nosson of Rome, Targum Onkelos, Rabbi Dr. Guy Matalon]
-status: draft
-updated: 2026-09-09
+authorities: [Radak, Rabbi Nosson of Rome, Targum Onkelos, Rabbi Dr. Guy Matalon, Jastrow]
+status: reviewed
+updated: 2026-09-10
 ---
 # Bread: lechem / kikar / challah / pat (rifta, nahamah)
 
@@ -37,7 +37,9 @@ Root ל-ח-ם. That *lechem* means bread may not be its literal sense at all but
 only a colloquialism: the article reports hearing from Rabbi Dr. Guy Matalon
 that *lechem* denotes the staple food of a society, which takes on different
 meanings by society. Among Klal Yisrael bread is the staple, so *lechem* is
-bread; in Arabic culture the staple is meat, so *lahm* is meat. The same root
+bread; in Arabic culture the staple is meat, so *lahm* is meat. On that reading,
+the column adds, historians cannot settle the original meaning of Beis Lechem
+(Bethlehem), which could be read "House of Bread" or "House of Meat." The same root
 gives *lochem*, to
 wage war, and *milchamah*; wars were fought over the food supply, and the root
 also carries soldering or pressing things together, which fits both bread, whose
@@ -54,7 +56,8 @@ lechem* (Shemos 29:23, Shoftim 8:5, Shmuel I 10:3, Yirmiyahu 37:21, Mishlei
 alone, and there *kikar* for bread is frequent, where in Tanach it is not.
 
 ### challah (חלה)
-A baked cake of flour. Nearly every occurrence in Tanach is a meal-cake offered
+A baked cake of flour; Jastrow renders it specifically a rolled or rounded
+meal-cake. Nearly every occurrence in Tanach is a meal-cake offered
 as a korban; the one exception is Bamidbar 15:20, the mitzvah to separate a
 special tithe for the kohen, taken from every dough destined for a meal-cake,
 and in the Mishnah, above all in *maseches Challah*, the word generally means
@@ -71,9 +74,17 @@ sometimes (Onkelos to Shemos 29:23).
 
 ### rifta (ריפתא) and nahamah (נהמא)
 Both Aramaic words for bread in the Gemara; *nahamah* also runs through the
-Zohar. In Tanach *rifos* are pounded or softened grain (Shmuel II 17:19, Mishlei
-27:22). Rabbi Nosson of Rome (*Sefer HeAruch*) explains Talmudic *rifta* as a
-meal of two matching loaves, presumably with something between them.
+Zohar. Of *nahamah* the column reports that some linguists claim it is probably
+borrowed from the Persian *nan*, "bread." *Rifta* it calls apparently related to
+the Arabic *raghif*, a flat loaf; linguists, it reports, hold that *rifta* was
+originally written with a tzadi, tying its root to *retzef*/*ritzpah*, a floor,
+which is likewise flat, the tzadi in Aramaic having morphed into an ayin that
+was then dropped. In Tanach *rifos* are pounded or softened grain (Shmuel II
+17:19, Mishlei 27:22). Rabbi Nosson of Rome (*Sefer HeAruch*) explains Talmudic
+*rifta* as a meal of two identical loaves; the column adds that these probably
+had some other food in the middle, an early form of what we call a sandwich,
+and notes in passing the tradition crediting the sandwich to John Montagu, the
+fourth Earl of Sandwich.
 
 ## Rendering guidance
 
@@ -109,10 +120,8 @@ Bamidbar 21:5 (*lechem haklokel*) and 15:20; Shemos 29:23 with Targum Onkelos;
 Shoftim 8:5; Shmuel I 10:3 and 2:36 with Radak; Yirmiyahu 37:21; Mishlei 6:26
 and 27:22; Divrei HaYamim I 16:3 (the article prints "I Chon. 16:3"); Vayikra
 2:6; Shmuel II 17:19; *maseches Challah*; Rabbi Nosson of Rome, *Sefer HeAruch*,
-s.v. *rifta*.
+s.v. *rifta*; Jastrow on *challah*.
 
-Omitted under the Orthodox-sources rule: Marcus Jastrow's gloss of *challah*;
-the unnamed "linguists" deriving *nahamah* from Persian *nan* and *rifta* from
-Arabic *raghif* by way of *retzef*; and the note on the Earl of Sandwich. Rabbi
-Dr. Guy Matalon's staple-food explanation of *lechem* is kept as the article
-gives it, with the Arabic *lahm* comparison it rests on.
+The article closes its opening by saying that these terms are not all synonyms
+for one thing but differ slightly from one another, which is what the
+distinctions above set out.

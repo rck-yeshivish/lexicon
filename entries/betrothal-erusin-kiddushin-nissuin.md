@@ -10,9 +10,9 @@ words:
     nk: אֲרוּסָה
 sources:
   - wiaw:8883 "Holy Matrimony" (2020-10-03) https://articles.ohr.edu/articles/holy-matrimony
-authorities: [Rabbanan Savorai, Tosafos, Rashi, Rav Hirsch, Rabbi Yitzchak Vana, Rabbi Alexander Sender Shor, Rabbi Elazar Moshe Horowitz, Taz, Rabbi Avraham HaLevi of Barcelona, Rabbi Yosef Ibn Ezra, Rabbi Eliezer Ashkenazi, Rabbi Shalom Mansoura, Rabbi Yitzchak Ratzabi, Rabbi Baruch HaLevi Epstein]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbanan Savorai, Tosafos, Rashi, Rav Hirsch, Rabbi Yitzchak Vana, Rabbi Alexander Sender Shor, Rabbi Elazar Moshe Horowitz, Taz, Rabbi Avraham HaLevi of Barcelona, Rabbi Yosef Ibn Ezra, Rabbi Eliezer Ashkenazi, Rabbi Shalom Mansoura, Rabbi Yitzchak Ratzabi, Rabbi Baruch HaLevi Epstein, Shamma Friedman, Michael Satlow]
+status: reviewed
+updated: 2026-09-10
 ---
 # Betrothal: erusin / kiddushin / nissuin (hekdesh, shidduchin)
 
@@ -23,7 +23,7 @@ of marriage: **betrothal**, after which she is halachically his wife and adulter
 applies, though the couple may not yet live together. *Nissuin*, effected by
 chuppah, is the second stage: **marriage** proper. *Shidduchin* is what English
 calls **engagement**, an agreement to marry later. The trap is rendering *erusin*
-"engagement": modern Hebrew uses it that way, but Rav Hirsch (to Shemos 22:16)
+"engagement": modern Hebrew uses it that way, but Rav Hirsch (to Shemos 22:15)
 already warns that the Torah's *erusin* is not that. Where the two words are
 contrasted, *kiddushin* carries the *hekdesh* sense of setting apart and
 *erusin* the sense of binding or tying.
@@ -37,10 +37,12 @@ betrothed to Klal Yisrael as a wife to her husband (*Berachos* 57a, *Pesachim*
 49b). Rabbi Shalom Mansoura of Sanna: *erusin* is an expression of tying. Rabbi
 Yitzchak Ratzabi gives two ways to take that. Rabbi Baruch HaLevi Epstein reads
 א-ר-ש as equivalent to א-ר-ז, since sin/samech and zayin interchange, and א-ר-ז
-is something bound tightly (Yechezkel 27:24), related by metathesis to *eizor*, a
-tight belt. Or, simpler, transpose the last two letters and get א-ס-ר, to bind:
-the betrothed woman is bound to her husband, released only by a get or by his
-death. Rabbi Yitzchak Vana: *arusah* is from *eres*, poison, since one who
+is something packed tightly (Yechezkel 27:24; modern Hebrew *arizah*, a package),
+and Rabbi Epstein adds that א-ר-ז is related by metathesis to *eizor*, a tight
+belt. Alternatively, Rabbi Ratzabi suggests, Rabbi Mansoura may mean a simpler
+metathesis with no letter replaced: transpose the last two letters and get א-ס-ר,
+to tie or bind, the betrothed woman being tied to her husband and released only
+by a get or by his death. Rabbi Yitzchak Vana: *arusah* is from *eres*, poison, since one who
 approaches her illicitly incurs the death penalty as from a snake or scorpion.
 Another Yemenite scholar cited by Rabbi Ratzabi: *arusah* as in *aris*, a
 sharecropper who holds a partial claim, since the betrothed husband has a partial
@@ -62,13 +64,21 @@ her own husband until nissuin (*Kallah* 1:1, Rashi to *Kesuvos* 8a); so only
 after that enactment does she resemble *hekdesh*, forbidden to everyone
 including her husband, and that is why the term is the Rabbis' and not the
 Torah's. The Taz (to *Even HaEzer* 34:2) holds that the two-stage structure
-itself confers a kedushah found nowhere else, which likewise suits a term coined
-by those who instituted the structure.
+itself confers a kedushah found nowhere else; Rabbi Klein offers, as his own
+extension of that, the argument that the Rabbis coined *kiddushin* because they
+were the ones who instituted the two-step framework, while from the Torah's
+perspective that added holiness does not yet exist and betrothal is simply
+*erusin*, a word implying nothing about holiness.
 
 Tosafos (to *Kiddushin* 2b) read *kiddushin* differently, from *kiddush* in the
 sense of preparing or designating (Shemos 19:10, Bamidbar 11:18); *kedeishah*, a
 harlot, is a cognate because she is set aside for a purpose (Rashi to Bereishis
-38:21 and Devarim 23:18). Two supports: Rabbi Avraham HaLevi of Barcelona
+38:21 and Devarim 23:18). Others, the column notes, take *kedeishah* as related
+to the Akkadian *qadistu*, "woman of special status," a definition that fits
+both a harlot and a wife, which led Professor Shamma Friedman of the Academy of
+the Hebrew Language to entertain it as a possible etymology for *kiddushin*
+itself. Either way, these approaches hold that *kiddushin* has nothing to do
+with holiness or consecration as such. Two supports: Rabbi Avraham HaLevi of Barcelona
 (*Chiddushei HaRa'ah* to *Kiddushin* 2b) and Rabbi Yosef Ibn Ezra (*Atzmos
 Yosef*) note that if *mekudeshes* meant consecrated, the groom would be
 forbidding her to himself, which he plainly does not intend; and Rabbi Eliezer
@@ -78,6 +88,13 @@ apply the *hekdesh* paradigm in halachah: one who betroths "half" a woman with
 the language of *kiddushin* effects a full betrothal, as consecrating half an
 animal sanctifies all of it, but one who uses the language of *erusin* effects
 only half.
+
+Dr. Michael Satlow suggests that the Mishnaic *kiddushin* is a loanword from the
+Greek legal term *ekdosis*, the bride's father handing the girl over to her new
+husband. Rabbi Klein calls the proposal fascinating but hard to accept, since
+handing the bride over is the definition of *nissuin* (*Kesubos* 4:5), not of
+*kiddushin*; he allows, though, that the Rabbis may have adopted the Greek word
+and modified its pronunciation and sense, as they often did with foreign words.
 
 ### nissuin (נישואין)
 The second stage, effected by chuppah, after which the couple live together.
@@ -116,10 +133,11 @@ None yet.
 Rabbi Reuven Chaim Klein, "Holy Matrimony," What's in a Word?, Ohr Somayach,
 15 Tishrei 5781 (2020-10-03): https://articles.ohr.edu/articles/holy-matrimony;
 raw text in `sources/whats-in-a-word/raw/8883-holy-matrimony.md`. Primary loci:
-Devarim 33:4 with *Berachos* 57a and *Pesachim* 49b; Shemos 22:15 and 22:16 with
-Rav Hirsch; Devarim 20:7, 22:23-27, 28:30; *Kiddushin* 2a-2b and 7b with Tosafos;
-Mishnah *Kiddushin* 2:1; *Kesubos* 4:5 and Rashi to *Kesuvos* 8a; Maseches
-*Kallah* 1:1; *Turei Zahav* to *Even HaEzer* 34:2; Shemos 19:10, Bamidbar 11:18;
-Rashi to Bereishis 38:21 and Devarim 23:18; Yechezkel 27:24. The article's
-Akkadian *qadistu* proposal and the Greek *ekdosis* proposal, both from academic
-scholars, are omitted here under house rule 9.
+Devarim 33:4 with *Berachos* 57a and *Pesachim* 49b; Shemos 22:15; Devarim 20:7,
+22:23-27, 28:30; *Kiddushin* 2b and 7b with Tosafos; Mishnah *Kiddushin* 2:1;
+*Kesubos* 4:5 and Rashi to *Kesuvos* 8a; Maseches *Kallah* 1:1; *Turei Zahav* to
+*Even HaEzer* 34:2; Shemos 19:10, Bamidbar 11:18; Rashi to Bereishis 38:21 and
+Devarim 23:18; Yechezkel 27:24. The article cites the erusin verse as Shemos
+22:15 and Rav Hirsch's comment as Shemos 22:16; these are the same verse under
+Hebrew and English numbering respectively, and the entry uses the Hebrew form
+throughout.

@@ -12,9 +12,9 @@ words:
     nk: שְׁטָר
 sources:
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
-authorities: [Malbim, Rabbi Shlomo Pappenheim, Ritva, Rabbeinu Tam, Rabbi Shmuel Strashun, Rabbi Elimelech of Lizhensk, Rabbi Moshe Shapiro, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Dov Soloveitchik, Rabbi Jose Faur, Radak, the Vilna Gaon, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Daniel Sperber, Rabbi Ernest Klein, Rabbi Moshe Chaim Leiter]
-status: draft
-updated: 2026-09-09
+authorities: [Malbim, Rabbi Shlomo Pappenheim, Ritva, Rabbeinu Tam, Rabbi Shmuel Strashun, Rabbi Elimelech of Lizhensk, Rabbi Moshe Shapiro, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Dov Soloveitchik, Rabbi Jose Faur, Radak, the Vilna Gaon, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Daniel Sperber, Rabbi Ernest Klein, Rabbi Moshe Chaim Leiter, Raymond P. Dougherty, Avi Hurvitz]
+status: reviewed
+updated: 2026-09-10
 ---
 # Book: sefer / iggeret / megillah (gilayon, shtar, machzor, kuntres)
 
@@ -32,8 +32,11 @@ last; *machzor* originally the **codex**, later the yom tov siddur; *kuntres* a
 ## Distinctions
 
 ### sefer (ספר)
-The generic term, used of the twenty-four books, of a Sefer Torah, and of legal
-documents (the Mishnah, *Yevamos* 15:3, calls a kesubah a *sefer kesubah*).
+The generic term, used of the twenty-four books (though some are called a
+*megillah*), of a Sefer Torah, and of legal documents (the Mishnah, *Yevamos*
+15:3, calls a kesubah a *sefer kesubah*). Moshe's plea after the eigel is the
+column's opening case: erase me from Your *sefer* that You wrote (Shemos 32:32),
+where the word is a book or written document plainly.
 
 Rabbi Elimelech of Lizhensk: *sefer* is from *sfar*, a border, since as a
 border guards a country by making one clear it to enter, the Torah guards Klal
@@ -41,7 +44,11 @@ Yisrael in their closeness to Hashem. Rabbi Moshe Shapiro takes the whole
 ס-פ-ר family as unifying disparate parts: *sippur* joins details into one
 narrative, *sfar* binds a territory into one polity, *mispar* and *sofer* bind
 numbers into one ordered system, and a *sefer* binds all it contains into one
-entity. Avodah Zarah 24b notes that the Persian for *sefer* is *dvir*, which is
+entity, and this holds of books in general and not only sifrei kodesh. Professor
+Raymond P. Dougherty of Yale wrote to explain how *sefer* grows out of the core
+sense "to count": counting is a mental act, memory is unreliable, so one falls
+back on a written tally, and from there *sofer* comes to mean scribe and *sefer*
+a record, a letter, a book. Avodah Zarah 24b notes that the Persian for *sefer* is *dvir*, which is
 how it explains the city Dvir being renamed Kiryas Sefer (Shoftim 1:11).
 
 ### megillah (מגילה)
@@ -53,7 +60,7 @@ margins of a document and then the glosses written in them.
 
 Rabbi Shmuel Strashun notices that when Bava Basra 14b lists the books of
 Tanach, it says *Sefer Tehillim* and *Megillas Esther* and uses neither word
-for any of the other twenty-two. He explains *sefer* of Tehillim as marking its
+for any of the other twenty-two. He postulates that *sefer* of Tehillim marks its
 affinity to the Chumash, which is likewise divided into five and whose verse
 count is comparable (see Kiddushin 30a); and *megillah* of Esther as marking
 the requirement that the Esther read on Purim be written on its own scroll and
@@ -64,49 +71,61 @@ Unqualified *megillah* in rabbinic literature means Esther, and the berachah is
 megillos; the Vilna Gaon (*Biur HaGra* to *Orach Chaim* 490) nonetheless adopts
 that practice, still followed in many communities in Eretz Yisrael.
 
-The popular claim that a *sefer* rolls on two rollers and a *megillah* on one
-has no source: the article's author reports looking for one and coming up
-empty. Do not repeat it as though it were an established distinction.
+The claim that a *sefer* rolls on two wooden pins and a *megillah* on one is
+untraced: Rabbi Klein reports that he understood the difference that way from
+childhood, that he later looked for a source and came up empty-handed, and that
+he would welcome one. Do not repeat it as though it were an established
+distinction.
 
 ### iggeret (אגרת)
 Esther calls itself an *iggeret* (Esther 9:26-29), and Shmuel (Megillah 7a)
-holds it "was said to be read, not said to be written." *Iggeres* appears only
-in the later books, Esther, Ezra and Nechemiah, and Divrei HaYamim II.
+holds it "was said to be read, not said to be written." *Iggeres* and its
+variations appear only in the later, post-Exilic books, Esther, Ezra and
+Nechemiah, and Divrei HaYamim II. Professor Avi Hurvitz builds on exactly that:
+he takes *iggeret* and *sefer* as synonyms, both meaning "letter," and holds that
+the choice between them reflects nothing but the stage of the language, *sefer*
+the older variant and *iggeret* the later one.
 
-Rabbi Jose Faur, from Divrei HaYamim II 30:6, where Chizkiyahu sends runners
-with *igros* calling for teshuvah: an *iggeret* is a government communication
-published aloud by a herald from a written text, with no copies released, which
-is exactly "read but not written," whereas a *sefer* is a published work from
-which copies may be made. He notes that a herald would unroll the whole scroll
-before reading, and that an *iggeret* would not be read with the taamim; so
-reading Esther today, with the taamim but with the scroll first folded out
-entire, is a synthesis of *iggeret* and *sefer*.
+Rabbi Dr. Jose Faur proffers a different account, from Divrei HaYamim II 30:6,
+where Chizkiyahu sends runners with *igros* calling for teshuvah: an *iggeret* is
+a government decision publicized aloud by a royal herald reciting from a written
+memorandum, with no copies released to the public, which is exactly "said to be
+read, not said to be written," whereas a *sefer* is an officially published work
+from which copies may be made. He notes that a herald would unfold the whole
+scroll before reading, and that an *iggeret* would not be read with the taamim;
+from which he concludes that reading Esther today, with the taamim but with the
+scroll first unfolded entire, is a synthesis or compromise of *iggeret* and
+*sefer*.
 
 Ritva distinguishes *shtar* from *iggeret* by durability: a *shtar* is written
-to last, since it must serve as evidence of what it records, while an *iggeret*
-is not. Rabbi Yosef Dov Soloveitchik applies the same axis to *sefer* against
-*iggeret* (see Yirmiyahu 32:14) and uses it to explain Megillah 19a, where Rav
+to last, ostensibly so as to serve as evidence of what it records, while an
+*iggeret* is not. Rabbi Yosef Dov Soloveitchik applies the same sort of axis to
+*sefer* against *iggeret* (see Yirmiyahu 32:14), though without quoting Ritva
+directly, and uses it to explain Megillah 19a, where Rav
 holds that although Esther is called an *iggeret*, which would allow sewing its
 sheets with linen thread, since it is also called a *sefer* it must be sewn
 with sinews, the more lasting material. (Against this, Sotah 13a uses *iggeret*
 for a document attesting a sale, which is closer to a *shtar*.)
 
-In Mishnaic Hebrew *iggeret* is a beis din writ: a get (*Gittin* 6:5, and
-*Gittin* 9:3 gives *sefer serisus*, *iggeres shevukin* and *get pitturin* as
-synonyms), an *iggeres mered* against a rebellious wife (Yevamos 64a), an
+In Mishnaic Hebrew *iggeret* typically means a writ issued by a beis din: a get
+(*Gittin* 6:5, and *Gittin* 9:3 gives *sefer teiruchin*, *iggeres shevukin* and
+*get pitturin* as synonyms), an *iggeres mered* issued against a wife who refuses
+her wifely duties (Yevamos 64a), an
 *iggeres bikores* announcing intent to sell property (*Kesubos* 11:5). It also
 covers halachic letters sent from Eretz Yisrael to Bavel by Ravin (Kesubos 49b,
 Bava Metzia 114a and 139a, Niddah 68a; see also Shabbos 115a, Bava Basra 41b,
 Sanhedrin 29a), and Shabbos 19a speaks of sending an *iggeret* by post.
 
 On etymology the authorities split. Rabbeinu Tam (in Tosafos to Kesubos 100b):
-an *iggeret* is a document issued by one beis din to be sent to another. Rabbi
-Moshe Chaim Leiter accordingly derives it from ג-ר, temporary residence, since
-its first home is temporary; Rabbi Shlomo Pappenheim similarly has it as a
-document carried about a province to publicize its contents. Rabbi Shlomo
-Aharon Wertheimer derives it instead from *agur*, a collection stored long
-term, so an *iggeret* is meant to be preserved, which cuts against Rabbi Jose
-Faur and Rabbi Yosef Dov Soloveitchik.
+an *iggeret* is a document issued by one beis din to be sent to another. In line
+with that, Rabbi Moshe Chaim Leiter of Kiryat Sefer suggests it may derive from
+ג-ר, temporary residence, since a document written to be sent elsewhere has only
+a short-lived first home; Rabbi Shlomo Pappenheim offers a similar understanding,
+a document moved about a province so as to publicize its contents thoroughly,
+which the column notes is closer still to Rabbi Faur. Rabbi Shlomo Aharon
+Wertheimer derives it instead from *agur*, a collection stored long term, so an
+*iggeret* is a document meant to be preserved, which on the surface, the column
+says, seems to contradict Rabbi Faur and Rabbi Soloveitchik.
 
 Malbim's summary is the compact one to hold: an *iggeret* is a document
 between two parties; a *sefer* tells (*mesaper*) about a subject; a *megillah*
@@ -116,18 +135,20 @@ is written to be rolled (*golel*); a *gilayon* is written to be revealed
 ### machzor (מחזור) and kuntres (קונטרס)
 In early medieval sources a Tanach codex is a *machzor* and *sefer* means the
 scroll. The name is from ח-ז-ר, to return, since one can return to a codex's
-beginning at once, unlike a scroll that must be rolled back. The other medieval
-word for a codex was *mitzchaf*, from the Arabic; it fell out of use, and
-*machzor* came to mean the yom tov siddur, now recalling the returning cycle of
-the year.
+beginning at once, unlike a scroll that must be rolled from one end to the other.
+The other medieval word for a codex was *mitzchaf*, apparently borrowed from the
+Arabic *mishaf*; it fell out of use, and *machzor* came to mean the yom tov
+siddur, now recalling the returning cycle of the year's chagim.
 
-A *kuntres* is a short treatise not weighty enough to stand as its own *sefer*;
-the Tosafists call Rashi's Gemara commentary the *kuntres*, and Rashi himself
-uses the word of his rebbi's commentary (to Gittin 82a). Rabbi Binyamin
-Mussafia, Rabbi Ernest Klein and Rabbi Daniel Sperber derive it from Greek
-*commentarius*, Rabbi Sperber pointing to the public register of official
-acts; Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) derives it from Latin
-*quinternus*, a quire of five sheets.
+A *kuntres*, often rendered "notebook," is in current speech a short treatise not
+weighty enough to stand as its own *sefer*; the Tosafists call Rashi's Gemara
+commentary the *kuntres*, and though Rashi does not use the word of his own work
+he uses it of his rebbi's commentary (to Gittin 82a). Rabbi Binyamin Mussafia,
+Rabbi Ernest Klein and Rabbi Daniel Sperber derive it from the Greek
+*commentaries*, so the column has it, Rabbi Sperber explaining the term from the
+records of the public register that documented official government acts; Rabbi
+Eliyahu HaBachur (*Sefer HaTishbi*) derives it instead from the Latin
+*quinternus*, a quire of five sheets of paper.
 
 ## Rendering guidance
 
@@ -164,5 +185,7 @@ Kiddushin 30a; Megillah 7a and 19a; Yevamos 64a; Kesubos 49b and 100b with
 Tosafos; Bava Metzia 114a, 139a; Niddah 68a; Shabbos 19a, 115a; Sanhedrin 29a;
 Sotah 13a; Avodah Zarah 24b; Gittin 82a with Rashi; *Maseches Sofrim* 14:3 with
 *Biur HaGra* to *Orach Chaim* 490; Rabbi Shlomo Pappenheim on biliteral ג-ל;
-*Sefer HaTishbi*. The article's citations of Professor Raymond P. Dougherty and
-Professor Avi Hurvitz are omitted here as academic.
+*Sefer HaTishbi*. Dougherty's remark is paraphrased rather than quoted. The
+article calls *commentaries* a Greek word, and describes the kuntres etymology
+that way here; it also refers the reader, for get against shtar, to its earlier
+essay "Divorce Bills and other Documents" (May 2020), which is not used here.

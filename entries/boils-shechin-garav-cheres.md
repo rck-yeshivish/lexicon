@@ -25,8 +25,8 @@ words:
     distinct: a hapax legomenon; named for melafefes, what attaches itself, since it clings to a man until the day he dies (Rashi, from Bechoros 41a), leaving a scar that never comes off (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:11523 "Ki Savo: No More Boils" (2024-09-21) https://articles.ohr.edu/articles/ki-savo-no-more-boils
-authorities: [Rashi, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak of Zeldin, Rabbi Natan Borgel]
-status: draft
+authorities: [Rashi, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak of Zeldin, Rabbi Natan Borgel, Rabbi Ernest Klein, David A. Clines]
+status: reviewed
 updated: 2026-09-10
 ---
 # Boils: shechin / garav / cheres / yalefet (avabuos)
@@ -57,34 +57,49 @@ His source, Bechoros 41a, says the reverse, moist outside and dry inside; Rabbi 
 Borgel (*Chok Nasan*) proposes emending Rashi's text to match. Quote Rashi's words and
 note the Gemara's.
 
-**What garav means.** Rashi to Devarim 28:27: *garav* is thoroughly moist boils and
-*cheres* thoroughly dry. Rashi to Vayikra 21:20: *garav* is thoroughly dry, and
-*yalefet* is the "Egyptian *chazazis*," both dry and moist. He resolves it himself on
-Bechoros 41a: paired with *cheres*, *garav* is the moist one; standing alone, *garav* is
-the dry.
+**What garav means.** Rashi to Devarim 28:27: *garav* and *cheres* are the less horrid
+sorts of boils, *garav* thoroughly moist and *cheres* thoroughly dry. Rashi to Vayikra
+21:20: *garav* is thoroughly dry, and *yalefet* is the "Egyptian *chazazis*," both dry and
+moist. He resolves it himself on Bechoros 41a: paired with *cheres*, *garav* is the moist
+one; standing alone, *garav* is the dry. (David A. Clines' dictionary of Biblical Hebrew,
+which the column cites here, renders *garav* "eczema" and *cheres* "itch.")
 
 **What cheres is.** Rabbi Avraham Bedersi (*Chosam Tochnis*): named for *cheres*, pottery,
 because it is dry as a shard, samech and sin interchanging; Rashi (to Bechoros 41a) says
 hard like pottery. Bedersi then offers a second possibility, that *cheres* is not boils at
 all but a disease of unbearable itching, reading Iyov 2:8, where Iyov takes a *cheres* to
 scratch himself, as his proof (though that *cheres* has a sin and plainly means a
-potsherd). Rabbi Yaakov Tzvi Mecklenburg cites the same pasuk and still holds *cheres* is a
-dry *garav*, which is why a dry shard suits it, while separately suggesting a link to
-*cheres*, the sun, an affliction of climate. Ibn Saruk, Ibn Janach and Radak keep the two
-senses of ח-ר-ס wholly apart. The Bottom line follows Bedersi's first reading with Rashi.
+potsherd). Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah* to Devarim 28:27) cites the
+same pasuk and still holds explicitly that *cheres* is a dry *garav*, which is why a dry
+shard suits it for scratching, while separately suggesting that perhaps *cheres* is a skin
+affliction brought on by bad climate, related to the sun's power over one's environment;
+Rabbi Klein wonders whether that means sunburn, noting that Mecklenburg does not say so.
+Ibn Saruk, Ibn Janach and Radak intimate no connection at all between the two senses of
+ח-ר-ס. The Bottom line follows Bedersi's first reading with Rashi.
 
 **Where shechin comes from.** Rashi (to Shemos 9:9, Vayikra 13:18, Chullin 8a): from heat,
 flesh made hot by a wound rather than by fire, as in Mishnaic *shechunah*, hot weather
-(Yoma 53b). Rabbi Yitzchak of Zeldin (*Shoresh Yesha*): from *shachum*, Targum's word for
-brown, for the color of the spot. Rabbi Shlomo Pappenheim: from the biliteral ש-ח, bending,
-which yields *hishtachavaah* and the various pits cramped enough that a man must bend
-inside them, and from there *meshichah*, anointing, so that *shechin* is skin smeared with
-a poisonous emollient.
+(Yoma 53b; the Mishnah there, Yoma 5:1, is the Kohen Gadol's short prayer). Rabbi Yitzchak
+of Zeldin (*Shoresh Yesha*): from *shachum*, Targum's standard word for *chum*, brown
+(Onkelos to Bereishis 30:32), for the brownish color of the spot, mem and nun interchanging.
+Rabbi Shlomo Pappenheim: from the biliteral ש-ח, bending, which yields *hishtachavaah* and
+*shuchah*, *shichah* and *shachas*, pits and caves cramped enough that a man inside must
+bend, and from there *meshichah*, anointing, since oil softens what is hard and makes it
+bendable, so that the skin of one struck with *shechin* looks smeared with a poisonous
+emollient; he traces *shechunah* to the same root, its original sense a blight in which
+produce develops *shechin*-like spots from extreme heat and dryness.
+
+**How Targum handles it.** Targumic Aramaic's standard rendering of *cham*, hot, and its
+inflections is related to *shechin* (Shemos 16:21; Melachim I 1:1; Yeshayahu 44:16;
+Koheles 4:11; Iyov 37:17), yet Targum leaves the Hebrew *shechin* itself untranslated, or
+at most Aramaicizes it to *shichana* (Onkelos to Devarim 28:27, 28:35).
 
 ## Distinctions
 
 ### shechin (שחין)
-Thirteen occurrences: four in the sixth makkah (Shemos 9:8-12), four
+The Mishnah (Nega'im 9:1) defines it as a wound caused by being struck with wood or stone,
+or by hot gypsum or peat or hot springs, but not by fire: not a burn, then, but an inflamed
+or infected wound. Thirteen occurrences: four in the sixth makkah (Shemos 9:8-12), four
 in the tzaraas that arises on a healed shechin (Vayikra 13:18-23), two in the tochachah
 (Devarim 28:27, 28:35), two when Yeshayahu treats Chizkiyahu (Melachim II 20:7,
 Yeshayahu 38:21), and Iyov 2:7.
@@ -92,23 +107,39 @@ Yeshayahu 38:21), and Iyov 2:7.
 ### garav (גרב)
 Three occurrences, all in Chumash: Devarim 28:27, and Vayikra 21:20 and
 22:22, where it disqualifies a Kohen from the avodah and an animal from the mizbeach.
+The same triliteral ג-ר-ב seemingly gives two proper names, Garev, one of David's warriors
+(Shmuel II 23:38; Divrei HaYamim I 11:40), and Givat Garev, a hill outside the walls of
+Yerushalayim (Yirmiyahu 31:38); Rabbi Klein says he has no deeper onomastic insight into
+either. In Mishnaic Hebrew the root yields *garav*, a vessel for storing liquids, a barrel
+or jug (Terumos 10:8), and in modern Hebrew *gerev*, plural *garbayim*, a sock (*anpilyaos*
+in rabbinic parlance), which has been connected to the obscure English "greave," leg armor;
+Rabbi Ernest Klein traces both the Hebrew and the English to the Arabic *jawrab*, sock. But
+none of this, Rabbi Klein writes, seems to have anything to do with the Biblical *garav*.
 
 ### cheres (חרס)
 Devarim 28:27, "and with cheres from which you cannot be healed." Written with a samech, so
-it is a homonym both of *cheres* with a sin, pottery, and of *cheres* meaning the sun; both
-readings offered for it run through one of those homonyms.
+it is a homonym both of *cheres* with a sin, pottery, and of *cheres* with a samech meaning
+the sun (Iyov 9:7; Shoftim 8:13, 14:18); both readings offered for it run through one of
+those homonyms.
 
 ### yalefet (ילפת)
 A hapax legomenon at Vayikra 21:20 (the list recurs at 22:22). Rashi, from Bechoros 41a:
 from *melafefes*, what attaches, since it accompanies a man to the day he dies. Pappenheim
-(*Cheshek Shlomo*) reaches the same sense from the biliteral ל-פ, a hold hard to break:
-*aluf*, a chieftain ruling from strength; *vayilafes*, to seize (Shoftim 16:29, Rus 3:8);
-*lefes*, a turnip rooted fast in the ground, and *lefes*, a dip that accompanies bread.
+(*Cheshek Shlomo*) reaches the same sense from the biliteral ל-פ (the opening yud and
+closing tav extraneous), a strong hold from which it is hard to break free: *aluf*, a
+chieftain ruling from strength; *elef*, a thousand, the constituency a warlord needs before
+he can claim the title *aluf*; *vayilafes*/*vayilpos*, to grab or grasp hard (Shoftim 16:29,
+Rus 3:8); *lefes*, a turnip rooted fast in the ground, and *lefes*, a condiment or dip that
+accompanies bread. On this reading *yalefes* is the boil that leaves a scar attached to the
+skin that can never be removed.
 
 ### avabuos (אבעבועות)
 Shemos 9:9-10 only. Bechoros 41a proves from this word that the Egyptian boils were
-moist on the outside, and Rashi explains why: the root is ב-ע (so Ibn Saruk), bubbling
-forth.
+moist on the outside, and Rashi explains why: the root is ב-ע (so Ibn Saruk classifies it),
+bubbling forth, which implies a moist exterior. In modern Hebrew chickenpox is *avabuos
+ruach*. Rabbi Klein reports that he used to think the English "bubble," "burble," "buoy"
+and "bubonic" belonged to this Hebrew root, but that most etymologists take those as
+onomatopoeic for something swollen and distended.
 
 ## Rendering guidance
 
@@ -132,10 +163,12 @@ None yet.
 Rabbi Reuven Chaim Klein, "Ki Savo: No More Boils," What's in a Word?, Ohr Somayach, 18
 Elul 5784 (2024-09-21): raw text in
 `sources/whats-in-a-word/raw/11523-ki-savo-no-more-boils.md`. Primary loci cited: Shemos
-9:8-12; Vayikra 13:18-23, 21:20, 22:22; Devarim 28:15-69, 28:27, 28:35; Shoftim 16:29; Rus
-3:8; Melachim II 20:7; Yeshayahu 38:21; Yirmiyahu 31:38; Iyov 2:7-8, 9:7; Bereishis 30:32
-with Onkelos; Yoma 53b; Bechoros 41a with Rashi and *Chok Nasan*; Chullin 8a; Mishnah
-Nega'im 9:1, Yoma 5:1, Terumos 10:8; Bedersi, *Chosam Tochnis*; *HaKsav VeHaKabbalah*;
-*Shoresh Yesha*; Pappenheim, *Cheshek Shlomo*. The article's citation of David A. Clines'
-dictionary and Rabbi Ernest Klein's Arabic derivation of Modern Hebrew *gerev* are omitted
-under house rule 9.
+9:8-12, 16:21; Vayikra 13:18-23, 21:20, 22:22; Devarim 28:15-69, 28:27, 28:35; Shoftim
+8:13, 14:18, 16:29; Rus 3:8; Shmuel II 23:38; Melachim I 1:1; Melachim II 20:7; Yeshayahu
+38:21, 44:16; Yirmiyahu 31:38; Divrei HaYamim I 11:40; Koheles 4:11; Iyov 2:7-8, 9:7,
+37:17; Bereishis 30:32 with Onkelos; Yoma 53b; Bechoros 41a with Rashi and
+*Chok Nasan*; Chullin 8a; Mishnah Nega'im 9:1, Yoma 5:1, Terumos 10:8; Bedersi, *Chosam
+Tochnis*; *HaKsav VeHaKabbalah*; *Shoresh Yesha*; Pappenheim, *Cheshek Shlomo*; David A.
+Clines' dictionary of Biblical Hebrew; Rabbi Ernest Klein's etymological dictionaries.
+The article's fuller lists of loci for Pappenheim's *lefes* and *shachas* words are not
+reproduced here.

@@ -8,8 +8,8 @@ domain: nature
 sources:
   - wiaw:8287 "On Clouds" (2019-06-15) https://articles.ohr.edu/articles/on-clouds
 authorities: [Talmud Yerushalmi, Midrash Tehillim, Bereishis Rabbah, Rashi, Ibn Ezra, Rabbeinu Bachya, Sefer HaChochmah, Peirush HaRokeach, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Rabbi Yehudah Ibn Balaam, Midrash Lekach Tov, Metzudas Tzion, Rabbi Yaakov Chaim Sofer, Zohar]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Clouds: anan / av / eid / nasi / chaziz
 
@@ -26,10 +26,14 @@ are not interchangeable descriptions but different states of cloud, so English
 ## Distinctions
 
 The Yerushalmi (Taanis 3:3), *Midrash Tehillim* 135 and *Bereishis Rabbah*
-12:12 name five words and read each as a comment on what rain does to a market.
+12:12 assert that Hebrew has five words for clouds: *avim*, *eidim*, *ananim*,
+*nesiim* and *chazizim*. Several of the five they explain by what rain does to a
+market.
 
 ### anan (ענן)
-The unmarked term. Chazal: clouds are *ananim* because the rain they bring makes
+The unmarked term, and the one the article starts from: *anan* and its forms
+come close to a hundred times in Tanach, seventeen of them in Behaaloscha, more
+than in any other parashah. Chazal: clouds are *ananim* because the rain they bring makes
 people *anavim*, humble with one another, since a surplus makes men deal fairly
 where scarcity makes them compete; alternatively because it makes them *aniyim*,
 poor, in the sense that uneven rainfall leaves everyone dependent on barter and
@@ -74,15 +78,19 @@ the rain produces flora of many different appearances; others, because Hashem
 sends such clouds as signs in Heaven for man to read. Pappenheim: the root ח-ז is
 comprehension through sight or imagination, and *chazizim* are specifically the
 clouds that come with thunder, tied to sight because they flash lightning.
-*Sefer HaChochmah*: colorful clouds. The Zohar draws the parallel between rain,
+*Sefer HaChochmah*: colorful clouds, at which the article registers open
+surprise. The Zohar draws the parallel between rain,
 a physical Divine influx, and nevuah, a spiritual one.
 
 ### the three beyond the five
-Rabbi Shlomo of Urbino (*Ohel Moed*) adds *nivlei shamayim* (Iyov 38:37),
-explained as clouds by Rashi and Ibn Ezra; Menachem Ibn Saruk (*Machberes*) ties
+Rabbi Shlomo of Urbino, a sixteenth-century Italian scholar, writes in *Ohel
+Moed*, a lexicon of Hebrew synonyms, that there are two more than the five. He
+adds *nivlei shamayim* (Iyov 38:37),
+explained as clouds by Rashi, Ibn Ezra and others; Menachem Ibn Saruk (*Machberes*) ties
 the phrase to *neivel*, a jug, and Ibn Janach (*Sefer HaShorashim*) and Rabbi
 Yehudah Ibn Balaam (*Sefer HaTzimud*) spell out why: clouds are jugs that pour
-water out. *Kapayim* (Iyov 36:32, Eichah 3:41) is taken as clouds by Rashi and
+water out. *Kapayim* (Iyov 36:32, Eichah 3:41) is taken as clouds by many
+commentators, Rashi among them, and
 by *Midrash Chuppas Eliyahu Rabbah*, which counts six synonyms; *Metzudas Tzion*
 explains that clouds are a *kippah* over one's head. Pappenheim and others
 dissent, taking *kapayim* as the sky as a whole. Rabbi Yaakov Chaim Sofer points

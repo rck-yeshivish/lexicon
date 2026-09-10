@@ -39,7 +39,7 @@ words:
 sources:
   - wiaw:7658 "My Clothes and Me" (2018-02-24) https://articles.ohr.edu/articles/my-clothes-and-me
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Maharik, Ibn Ezra, Rabbi Moshe Shapiro, Rabbi Shlomo of Karlin]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Clothing: beged / levush / kesus / simlah (mad, me'il, maateh)
@@ -68,12 +68,14 @@ and the difference between them carries two separate derashos.
 
 ## Where the authorities disagree
 
-**beged against kesus.** Malbim and the consensus: *beged* is the hypernym and
+**beged against kesus.** Malbim: *beged* is the general term and
 *kesus* the draped covering. The Maharik (Rabbi Yosef Kolon) reverses the axis:
 *beged* is a plain cloth like a tallis, unfitted to its wearer, while *kesus* is
-sewn to his shape; Wertheimer records the contrast without resolving it. The
-Bottom line follows Malbim, whose reading accounts for *beged* as the Torah's
-default word, but keep the Maharik where a sugya turns on tailoring.
+a garment specially sewn to his shape and dimensions. Rabbi Shlomo Aharon
+Wertheimer is the one who points out that the two stand in contrast, and he
+leaves it there. The
+Bottom line follows Malbim, but keep the Maharik where a sugya turns on
+tailoring.
 
 **What kesus names.** Malbim: the manner of wearing, draped rather than donned.
 Rabbi Shlomo Pappenheim: the function, protection from heat and cold. Compatible,
@@ -92,22 +94,28 @@ treachery, since a man who puts one on conceals his inner self and shows the
 world a front.
 
 ### levush (לבוש) and malbush (מלבוש)
-Neither inherently names clothing: both are conjugations of *lovesh*, "he
+Neither inherently names clothing, as many commentators note: both are
+conjugations of *lovesh*, "he
 dresses," so they mean that with which one dresses. In usage a *levush* is worn
-the ordinary way but is distinctive, reserved to certain people, hence *levush
+the ordinary way but is nonetheless special, since most people do not wear that
+sort of garment; it is the dress reserved to certain people, hence *levush
 malchus*, *levush sak*. Against *beged*, *levush* is the plain, honest use of
 clothing: Shabbos 77b reads it as *lo bushah*, "no shame," since its purpose is
-to cover a man respectably. Rabbi Yochanan called his clothes "my honorers"
-(Bava Kamma 91b). Rabbi Shlomo of Karlin: every deed clothes the soul, a good
+to cover a man respectably, with no dastardly motive in it. Rabbi Yochanan
+called his clothes "my honorers"
+(Bava Kamma 91b), seeing them as the means of presenting himself respectably in
+public rather than as a mask to hide behind. Rabbi Shlomo of Karlin: every deed clothes the soul, a good
 deed weaving a *levush* and a bad deed a *beged*. The man makes the clothes.
 
 ### kesus (כסות), simlah (שמלה) and salmah (שלמה)
 *Kesus* literally means "cover," and names the garment one covers oneself with, a
-shawl rather than something put on in the usual manner; the kaf sometimes drops
-and it appears as *sus* (Bereishis 41:11). A *kesus* worn at night is a *salmah*
+shawl or poncho rather than something put on in the usual manner; the kaf sometimes drops
+and it appears as *sus* (Bereishis 49:11; the article prints 41:11). A *kesus* worn at night is a *salmah*
 or *simlah*, and Malbim adds a second difference: *kesus* only covers, while
-*simlah* also honors its wearer. Wertheimer describes it as a linen cloth folded
-over head, neck and torso, opening out to a bed sheet, and a mark of honor.
+*simlah* also honors its wearer. Wertheimer describes it as a linen cloth that
+can be folded to cover head, neck and upper torso, much like a kefiyeh, and
+doubles as a bed sheet when opened to its full size; he agrees that as worn it
+generally serves as a badge of honor.
 
 ### mad (מד), me'il (מעיל), maateh (מעטה)
 *Mad* is cut to its wearer's measure, from *moded*; Modern Hebrew *madim* is a
@@ -137,5 +145,7 @@ None yet.
 Rabbi Reuven Chaim Klein, "My Clothes and Me," What's in a Word?, Ohr Somayach,
 9 Adar II 5778 (2018-02-24): raw text in
 `sources/whats-in-a-word/raw/7658-my-clothes-and-me.md`. Primary loci cited:
-Bereishis 41:11; Shemos 22:25 (Ibn Ezra); Shabbos 77b; Bava Kamma 91b; Malbim
-and Rabbi Shlomo Pappenheim on the set; Wertheimer citing the Maharik.
+Bereishis 49:11 for *sus* (the article prints 41:11, where the word does not
+appear); Shemos 22:25 (Ibn Ezra); Shabbos 77b; Bava Kamma 91b; Malbim
+and Rabbi Shlomo Pappenheim on the set; Wertheimer pointing out the contrast
+with the Maharik.

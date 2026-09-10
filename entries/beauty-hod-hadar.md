@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
 authorities: [Sefer HaKushyos, Rabbi Shlomo of Urbino, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shmuel Dovid Luzzatto, Malbim, Rabbi Simcha Maimon, Sifrei, Rav Hirsch]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Beauty: hod / hadar (adar)
 
@@ -22,8 +22,10 @@ updated: 2026-09-09
 not seen with the eye, the sun's own light (Vilna Gaon; Malbim; Rav Hirsch, of
 Hashem, "His essence"). *Hadar* is **glory**: outward, visible, reflected
 beauty, the moon's light, the *esrog*'s fruit, the trappings of kingship without
-its essence (Vilna Gaon; Malbim; Rabbi Simcha Maimon). *Adar* is *hadar* with
-the Aramaic aleph and names the month. In the fixed pair הוד והדר keep the order
+its essence (Vilna Gaon; Malbim; Rabbi Simcha Maimon). *Adar*, the month's name,
+comes like all the month-names from the Babylonian calendar, where it was
+Addaru, and seems, on the interchange of the Aramaic aleph with the Hebrew hei,
+to be correlated with *hadar*. In the fixed pair הוד והדר keep the order
 and the two words: "splendor and glory". Trap: "glory" absorbs both, and
 "majesty" absorbs both; once one English word is assigned to *hod* in a passage,
 *hadar* must get the other.
@@ -40,9 +42,12 @@ of your *hod* to him" (Bamidbar 27:20) is no physical gift but the unseeable
 spiritual beauty Moshe passed to Yehoshua. Rabbi Simcha Maimon: hence "the face
 of Moshe is like the sun, the face of Yehoshua like the moon" (Bava Basra 75a),
 Yehoshua's *hod* being received, as the moon's is. The same root gives *hodaah*,
-admission and thanksgiving: bringing to the surface what one knows deep down to
-be true, so again *hod* is what lies beneath. Sifrei (Devarim 33:17): *hod* is
-the quality of kingship, the full sovereignty; Shlomo receives *hod malchus*
+admission and thanksgiving: one recognizes what he knows deep down to
+be true and lets it come to the front by saying it aloud, so again *hod* is what
+lies beneath. Sifrei (Devarim 33:17): *hod* is
+the quality of kingship, the full sovereignty, possibly (the column's
+suggestion) because a king assumes inherent powers; Shlomo receives *hod
+malchus*
 (Divrei HaYamim I 29:25). Of Hashem, Malbim: His *hod* is hidden, deeper than we
 can perceive; Rav Hirsch: His *hod* is His essence.
 
@@ -61,13 +66,20 @@ kingship, so Moshe is called a king (Zevachim 102a) and Yehoshua never is.
 Rabbi Simcha Maimon: for the same reason the Chashmonaim, kohanim and not of
 royal stock, have *hadar malchus* (Daniel 11:20), kingship true in practice and
 not in essence, against Shlomo's *hod malchus*. Yosef mirrors Yaakov (Bereishis
-37:2 and Rashi) yet is not an Av: *hadar*, not *hod*; so the month of Adar,
-when Moshe died and Yehoshua took over, belongs to the tribe of Yosef. *Sefer
-HaKushyos* (Chassidei Ashkenaz): Adar is named for the *hadar* of the trees as
-spring nears, or for Moshe, the glory of Yisrael, born in it. Eichah 1:6, "gone
-from the daughter of Tzion is all her *hadar*", is read by the Midrash as
-clothing, the outermost layer (as Hashem "wears" *hod* and *hadar*, Tehillim
-104:1; Iyov 40:10; Mishlei 31:25).
+37:2 and Rashi) yet is not an Av, being only a reflection of that potential:
+*hadar*, not *hod*; and this, the column says, is the connection the
+Kabbalists allude to between the month of Adar,
+when Moshe died and Yehoshua took over, and the tribe of Yosef. *Sefer
+HaKushyos* (the thirteenth-century school of Chassidei Ashkenaz): Adar is named
+because in it the *hadar* of the trees shows itself, spring being at hand, or
+because in it Moshe, the glory of Yisrael, was born. Tanach in several places
+speaks of Hashem as "wearing" *hod* and *hadar* (Tehillim 104:1; Iyov 40:10;
+Mishlei 31:25). So too the Midrash: when Yisrael were exiled to Bavel they still
+had their clothes until they reached Adullam, where the gentiles of that city
+came out and stripped them, leaving them bare and shamed, and the Midrash finds
+the allusion in "gone from the daughter of Tzion is all her *hadar*" (Eichah
+1:6), *hadar* there meaning clothing. There is a fundamental connection, the
+column concludes, between glory and clothing, which it defers to a later essay.
 
 ### The wider cluster
 Rabbi Shlomo of Urbino (*Ohel Moed*) lists ten words for beauty: *yofi*, *hod*,
@@ -93,8 +105,8 @@ is the old name of Iyar.
 - Second trap: *kavod* is also commonly "glory" (*kevod Hashem*). In a passage
   with *kavod* and *hadar* both present, give *kavod* "honor" and keep "glory"
   for *hadar*; see the *kavod* / *yakar* entry.
-- *Hodaah*: "acknowledgment" or "thanksgiving" by context; the etymology (Malbim
-  and the column) supports "acknowledgment" as the root sense.
+- *Hodaah*: "acknowledgment" or "thanksgiving" by context; the etymology the
+  column gives supports "acknowledgment" as the root sense.
 
 ## Notes for a project
 
@@ -111,4 +123,7 @@ Shemos 34:34; Bamidbar 27:20 with Malbim; Bava Basra 75a with Rabbi Simcha
 Maimon; Sifrei to Devarim 33:17; Zevachim 102a; Divrei HaYamim I 29:25; Daniel
 11:20; Bereishis 37:2 with Rashi; Tehillim 104:1; Iyov 40:10; Mishlei 31:25;
 Eichah 1:6 with the Midrash on the exiles stripped at Adullam; Rav Hirsch on
-Hashem's *hod* and *hadar*.
+Hashem's *hod* and *hadar*; the Babylonian month-name Addaru. The Rendering
+guidance above is this guide's own; the Vilna Gaon's sun and moon, Rabbi Moshe
+Shapiro's Aramaic *hadar*, and Rabbi Mecklenburg citing Shadal are given as the
+column gives them.

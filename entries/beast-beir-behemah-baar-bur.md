@@ -30,8 +30,8 @@ words:
     distinct: Mishnaic; either an uncultivated field left desolate (Rashi, Tashbetz, Bartenura to Avos 2:5), a mind empty as a pit, bor (Rabbi Dr. Asher Weiser), or simply a form of ba'ar (Rabbi Eliyahu HaBachur)
 sources:
   - wiaw:10832 "Mishpatim: Boorish Animals" (2023-02-18) https://articles.ohr.edu/articles/mishpatim-boorish-animals
-authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Rav Hirsch, Rabbi Yehuda Leib Edel, Malbim, Rabbi Eliyahu HaBachur, Rabbi Dr. Asher Weiser, Tashbetz, Bartenura, Rabbi Yaakov Yechiel Weinberg]
-status: draft
+authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Rav Hirsch, Rabbi Yehuda Leib Edel, Malbim, Rabbi Eliyahu HaBachur, Rabbi Dr. Asher Weiser, Tashbetz, Bartenura, Rabbi Yaakov Yechiel Weinberg, Rabbi David Chaim Chelouche, Rabbi Shlomo Yehuda Rapoport, Rabbi Shet bar Yefet, Mitchell First, Hillel Halkin]
+status: reviewed
 updated: 2026-09-10
 ---
 # Beast and boor: be'ir / behemah / chayah / ba'ar / bur
@@ -64,42 +64,87 @@ since animals make confused sounds while human speech carries meaning. *Ohalei
 Yehuda* offers a merger of בה with המה, and alternatively *bah mah*, "what is in
 her?", the creature's insignificance beside man (compare Shemos 16:7-8).
 
-**Where be'ir sits in the root ב-ע-ר.** That root carries removing, grazing,
+**Where be'ir sits in the root ב-ע-ר.** Ibn Saruk, Ibn Janach and Radak all take
+*be'ir* from the triliteral ב-ע-ר, a root that carries removing, grazing,
 consuming, destroying, burning, kindling, and foolishness. Ibn Janach files
 *be'ir* under grazing, since animals are typified by eating; Ibn Saruk files it
-under *ba'ar*, "fool." Rashi (to Shemos 22:4) appears to side with grazing,
-though his intent is unclear (see Rabbi Yaakov Yechiel Weinberg, *Seridei Aish*
-vol. 4 §7:2). Rabbi David Chaim Chelouche takes the core as ע-ר, "bare": the
-fool is bare of wisdom, and the grazing animal leaves the field bare.
+under *ba'ar*, "fool." Rashi (to Shemos 22:4) seems to weigh in for grazing,
+though his exact intent remains unclear (see Rabbi Yaakov Yechiel Weinberg,
+*Seridei Aish*
+vol. 4 *Chakiras HaMekoros* §7:2). Against them, Mitchell First (*Words for the
+Wise*, Kodesh Press 2022, p. 149) reasons that *be'ir* is unrelated to any of the
+other senses of ב-ע-ר, and notes that an Arabic cognate of that root means
+"camel" while in some dialects, South Arabic among them, it is a general word for
+animals much as biblical *be'ir* is; on that basis Rabbi Shet bar Yefet
+(*Chemas HaChemdah* to Shemos 22:4) argues that *be'ir* is in fact Arabic and not
+Hebrew.
+
+Others read the bet of *be'ir* as no part of the root. Rabbi Shlomo Yehuda
+Rapoport, a son-in-law of the *Ketzos HaChoshen* whom the column notes is
+typically counted a maskil, argues that *be'ir* should be read "in the city,"
+the bet being the prefix and *ir* the city, which he takes to reflect that
+*be'ir* means specifically the domesticated animals one would find in an urban
+setting, as against *behemah*, which can take in wild animals too (Tehillim 8:8).
+Similarly, Rabbi David Chaim Chelouche takes the core as ע-ר, "bare": the
+fool is bereft of the adornment of wisdom and so left bare, and the grazing
+animal bereaves the field of its produce and leaves it bare.
 
 **Which way the metaphor runs.** Edel and the Malbim: a *ba'ar* is so called
 because his want of intelligence makes him like a *be'ir*. *Ohalei Yehuda*
 reverses it: the animal behaves like a *ba'ar*. A derashah on Tehillim 73:22
 turns on the direction; a translation does not.
 
-**What bur means.** Rashi, the Tashbetz and the Bartenura (to Avos 2:5): from the
-*bur* of an uncultivated, desolate field (Peah 2:1; Targum Onkelos to Bereishis
-47:19). Rabbi Dr. Asher Weiser: from *bor*, a pit, the man whose mind is empty,
-and he links *be'er* and *biur* to that family. Rabbi Eliyahu HaBachur (*Sefer
+**What bur means.** Some explain it as a cognate of the other Mishnaic
+*bur*, an uncultivated, desolate field (Peah 2:1; Targum Onkelos to Bereishis
+47:19; so Rashi, the Tashbetz, the Bartenura and others to Avos 2:5). Rabbi Dr.
+Asher Weiser: from *bor*, a pit, the man whose mind is empty,
+and he links *be'er*, a wellspring, which holds only so much water, and *biur*,
+explanation, the antidote to the *ba'ar*'s ignorance, to that family. Rabbi
+Eliyahu HaBachur (*Sefer
 HaTishbi*): a form of *ba'ar* (Targum to Mishlei 12:1, 30:2). All three give the
 same English, differing on the image, not the sense.
+
+**Whether the English boor belongs here at all.** The column reports that it had
+assumed the English word came from the Hebrew *bur*, and that when asked, the
+translator and literary critic Hillel Halkin, writing as Philologos, replied
+that the two are unrelated: Rabbinic Hebrew *bur*, he holds, is closer to the
+Aramaic *bar*, outside (as in *baraisa*), and has nothing to do with either
+biblical *ba'ar* or English *boor*. Halkin adds that the two words reach a
+similar meaning from opposite ends, *bur* out of rural values, where the
+ignorant mind is unfarmed land, and *boor* out of urban ones, where no one is as
+ignorant as a farmer. Etymologists give two main accounts of the English word:
+some derive it from the French *bouvier*, a herdsman, and so from the Latin
+*bovarius*, bovine, from *bos*/*bov* (the Celtic tribe called the Boii takes its
+name from Proto-Indo-European cognates of the same word for cattle, and lives on
+in the names Bohemia and Bavaria, as the ox's plowing lives on in
+*boustrophedon*, a script that runs one line left to right and the next right to
+left); others tie it to the Old English *gebur*, a dweller, peasant or farmer,
+cognate with the English *neighbor* and the German *bauer*.
 
 ## Distinctions
 
 ### be'ir (בעיר)
 Only six occurrences in the sense of "animal" (Bereishis 45:17; Shemos 22:4;
 Bamidbar 20:4, 20:8, 20:11; Tehillim 78:48), against nearly two hundred for
-*behemah*. Rav Hirsch (to Bereishis 1:24, 45:17; Shemos 22:4; Vayikra 1:2):
-a creature totally subdued, penned, doing only what instinct requires, and so
-cognate with *ba'ar*. Targum flattens the difference, rendering both *behemah*
-and *be'ir* as *be'ira*. Some read Bilam ben Beor here too, parsing Bilam as a
-metathesis of *boel* (*Yad Ramah* to Sanhedrin 105a).
+*behemah*. Rav Hirsch (to Bereishis 1:24, 45:17; Shemos 22:4; Vayikra 1:2;
+Tehillim 73:21):
+a creature totally subdued, more so than the merely domesticated *behemah*,
+trapped in a cage and doing only what instinct pushes it to do to survive, and so
+cognate with *ba'ar*, the boorish man likewise driven by nothing but his
+animal instincts. These nuances are lost in Targumic Aramaic, which renders both
+*behemah*
+and *be'ir* as *be'ira*. Some commentators read the name Bilam ben Beor here
+too, as an allusion to the Gemara's account of Bilam and his donkey: Bilam
+parses as a metathesized form of *boel* and Beor as a form of *be'ir* (*Meor
+Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a).
 
 ### behemah (בהמה) and chayah (חיה)
 Rav Hirsch: *behemah* is related to *bamah*, an elevation or platform, since the
 animal subservient to man carries his menial work and so lifts him toward
 loftier things; alternatively animals are the lower rung of life, figuratively
-trodden upon, and he compares ב-ה-מ to פ-ע-מ, "stepping." *Chayah* he takes from
+trodden upon by their servility to man, and he compares ב-ה-מ to פ-ע-מ,
+"stepping," by the interchange of bet with pei and hei with ayin. *Chayah* he
+takes from
 *chai*, life: the wild animal is an independent life-form, and animal life is a
 higher order than *tzomeach*. For the fuller treatment of this pair, including
 Ramban's division by diet, see `animal-behemah-chayah.md`.
@@ -132,10 +177,13 @@ Somayach, 27 Shevat 5783 (2023-02-18): raw text in
 `sources/whats-in-a-word/raw/10832-mishpatim-boorish-animals.md`. Primary loci
 cited: Shemos 16:7-8, 22:4; Bereishis 1:24, 45:17, 47:19; Vayikra 1:2; Bamidbar
 20:4-11, 22:2; Tehillim 8:8, 73:21-22, 78:48; Mishlei 12:1, 30:2; Avos 2:5; Peah
-2:1; Sanhedrin 105a; *Sefer HaShorashim*; *Ohalei Yehuda*; *Sefer HaTishbi*.
-Omitted as non-traditional: the Arabic cognates of ב-ע-ר cited from Mitchell
-First (and *Chemas HaChemdah*'s claim built on them), and the closing discussion
-of the English word *boor*. Rabbi Shlomo Yehuda Rapoport's reading of *be'ir* as
-"in the city," the urban domesticated animal, is recorded only because the
-column records it, which notes he is counted a maskil; the Bottom line does not
-follow it.
+2:1; Sanhedrin 105a; *Sefer HaShorashim*; *Ohalei Yehuda*; *Sefer HaTishbi*;
+*Meor Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a; *Seridei
+Aish* vol. 4 *Chakiras HaMekoros* §7:2; Mitchell First, *Words for the Wise*
+(Kodesh Press, 2022) p. 149; *Chemas HaChemdah* to Shemos 22:4; Hillel Halkin
+(Philologos). Everything in the Distinctions and in "Where the authorities
+disagree" traces to the column, its Arabic, Latin, Celtic and Old English
+material included, attributed as the column attributes it; Rabbi Shlomo Yehuda
+Rapoport's reading of *be'ir* as "in the city" is reported because the column
+reports it, which notes he is typically counted a maskil, and the Bottom line
+does not follow it. The Rendering guidance is this guide's own.

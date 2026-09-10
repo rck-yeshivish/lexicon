@@ -28,8 +28,8 @@ words:
     distinct: not plain blindness but confusion or distortion of vision, struck miraculously (Rashbam; Malbim); only three occurrences in Tanach
 sources:
   - wiaw:7974 "The Man with Enough Light" (2018-11-03) https://articles.ohr.edu/articles/the-man-with-enough-light
-authorities: [Rabbi Shlomo Pappenheim, Zohar, Rabbi Mordechai HaKohen of Tzfas, Kli Yakar, Rashbam, Malbim, Shadal, Rav Hirsch, Rabbi Yehoshua Trunk of Kutna, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Yehoshua Steinberg]
-status: draft
+authorities: [Rabbi Shlomo Pappenheim, Zohar, Rabbi Mordechai HaKohen of Tzfas, Kli Yakar, Rashbam, Malbim, Shadal, Rav Hirsch, Rabbi Yehoshua Trunk of Kutna, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Yehoshua Steinberg, Immanuel Vilkovsky, Fred Rosner, Evyatar Cohen, Chaim Tawil]
+status: reviewed
 updated: 2026-09-10
 ---
 # Blindness: iver / suma / sagi nahor / sanverim
@@ -38,9 +38,10 @@ updated: 2026-09-10
 
 *Iver* is the Biblical **blind man** and *ivaron* his **blindness**; *suma* is
 the same in Aramaic. *Sagi nahor*, "light enough," is the euphemism, to be
-rendered so the euphemism survives. *Sanverim* is not ordinary blindness but a **dazzlement**
-or disordering of sight, struck miraculously; it occurs three times in Tanach
-and every authority reads it as something other than *ivaron*. Not to be lost:
+rendered so the euphemism survives. *Sanverim* is the harder word: it
+occurs three times in Tanach, and the column collects a wide range of attempts to
+say how it differs from *ivaron*, most of them reading it as a **dazzlement** or
+disordering of sight rather than plain absence of sight. Not to be lost:
 for Rabbi Shlomo Pappenheim *iver* names an eye that works but is covered over,
 which is what makes the bribed-judge metaphor work.
 
@@ -61,21 +62,36 @@ crowding Lot's door, and twice at Melachim II 6:18.
 
 - **Rashbam** (to Bereishis 19:11): blindness combined with confusion. **Malbim**
   (there): distorted vision, not actual blindness.
-- **Shadal**: a contraction of *sonei ohr*, "hater of light," an intolerance of
-  light later borrowed to mean blindness.
-- **Rav Hirsch**: *sneh*, a thorn, with *ohr*, as though the eye were pierced.
+- **Shadal**: a contraction of *sonei ohr*, "hater of light," an
+  over-sensitivity to light (photophobia); the term primarily names one who
+  cannot tolerate light and was borrowed to mean blindness.
+- **Rav Hirsch**: *sneh*, a thorn, with *ohr*, a blind man as though his eye had
+  been poked with a thorn.
 - **Rabbi Yehoshua Trunk of Kutna**: multiplied vision, seeing not double but
-  many, leaving the men of Sodom unable to match what they saw to what was there.
+  many (the column gives the medical term polyplopia), leaving the men at Lot's
+  house unable to translate what they saw into reality.
 - **The Sochatchover Rebbe, Rabbi Shmuel Borenstein**: a confusion of the
-  heart's feeling, so one sees a thing plainly and cannot take it in.
-- **Rabbi Yehoshua Steinberg**: related to *tzinor*, a pipe, a dead eye being
-  like a hollow tube.
+  heart's feeling, so one sees a thing plainly and cannot process it emotionally.
+- **Dr. Immanuel Vilkovsky**, whom the column introduces as an academic
+  conspiracy theorist: *sanverim* differs from *ivaron* in that it denotes
+  blindness inflicted through hypnosis.
+- **Dr. Fred Rosner** (*Medicine in the Bible and the Talmud*): *sanverim* and
+  *averes* both refer to amaurosis, blindness with no visible organic change,
+  from disease of the optic nerve. On this reading the two words are not far
+  apart.
+- **Evyatar Cohen**: related to *snir*, snow (Rashi to Devarim 3:9), since
+  sunlight off snow can blind.
+- **Rabbi Lt. Col. Yehoshua Steinberg**: related to *tzinur*, a pipe, an eye that
+  cannot function resembling a hollow tube.
+- **Chaim Tawil**, in his lexicon of Akkadian: *sanverim* is borrowed from a
+  similar Akkadian word meaning "radiant light," light apparently understood to
+  be strong enough to blind those exposed to it; alternatively he cites other
+  linguists who tie it to the Akkadian word for night-blindness.
 
-The Bottom line follows the common ground of Rashbam, Malbim, and Rabbi Yehoshua
-Trunk, that *sanverim* is disordered sight rather than no sight, since that is
-what the narrative requires: the men of Sodom went on groping for the door.
-Akkadian derivations and a reading of *sanverim* as hypnosis are omitted under
-house rule 9.
+Where this entry has to choose one reading for the rendering guidance below, it
+follows the common ground of Rashbam, Malbim and Rabbi Yehoshua Trunk, that
+*sanverim* is disordered sight rather than no sight. That preference is ours; the
+column lists the views and does not rule between them.
 
 **Whether sagi nahor is ironic or true.** The plain reading is antiphrasis, so
 *sagi nahor* is a euphemism for one who cannot see. The *Kli Yakar* (to Bamidbar
@@ -92,9 +108,11 @@ so that by the time he meets the angel it is covered with them.
 ## Distinctions
 
 ### iver (עור) and ivaron (עורון)
-Root ע-ו-ר, spelled exactly like *ohr*, skin. Rabbi Shlomo Pappenheim ties the
-two: the commonest blindness is a cataract, a skin-like membrane forming over
-the eye, so the blind man is an *iver* and the affliction *ivaron*. Hence "bribery
+Root ע-ו-ר, spelled exactly like *ohr*, skin. The Biblical word: "do not put a
+stumbling block before a blind man" (Vayikra 19:14). Rabbi Shlomo Pappenheim ties
+the two: the commonest cause of blindness is a cataract, a skin-like membrane
+forming over the eye, so the blind man is an *iver* and the affliction *ivaron*.
+Hence "bribery
 blinds the eyes of the wise" (Devarim 16:19): a bribed judge has not lost his
 intellect any more than a man with a cataract has lost his eye; the organ works,
 but something has settled over it, blinding him to the truth of this case.
@@ -104,12 +122,16 @@ Root ס-מ-א. The Gemara's and Targumim's word for a blind man; its weight come
 from the name Samael, as above.
 
 ### sagi nahor (סגי נהור)
-Aramaic, *sagi* "abundant, enough" and *nahor* "light." The phrase names the
-device itself: a *lashon sagi nahor* says the opposite of what it means.
+Aramaic, a portmanteau of *sagi*, "enough," and *nahor*, "light." It names the
+blind man by the rhetorical device of antiphrasis, saying the exact opposite of
+what is meant, so the phrase is euphemistic or sarcastic. (The later idiom
+*lashon sagi nahor* for that device generally is ours, not the column's.)
 
 ### sanverim (סנורים)
-See the dispute above. All the readings share that *sanverim* is inflicted and
-miraculous, while *ivaron* is a condition a man has.
+See the dispute above. In both of its narrative settings the *sanverim* is
+inflicted, and at Bereishis 19:11 miraculously so; the readings collected above
+differ on what exactly was inflicted, and one of them (Rosner) does not separate
+*sanverim* from *averes* at all.
 
 ## Rendering guidance
 
@@ -135,6 +157,9 @@ Rabbi Reuven Chaim Klein, "The Man with Enough Light," What's in a Word?, Ohr
 Somayach, 25 Cheshvan 5779 (2018-11-03):
 https://articles.ohr.edu/articles/the-man-with-enough-light; raw text in
 `sources/whats-in-a-word/raw/7974-the-man-with-enough-light.md`. Primary loci
-cited: Bereishis 19:11; Vayikra 19:14; Bamidbar 24:4; Devarim 16:19; Melachim II
-6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Rashbam and Malbim to Bereishis
-19:11; *Kli Yakar* to Bamidbar 24:4.
+cited: Bereishis 19:11; Vayikra 19:14; Bamidbar 24:4; Devarim 3:9 with Rashi,
+16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Rashbam and
+Malbim to Bereishis 19:11; *Kli Yakar* to Bamidbar 24:4; Dr. Fred Rosner,
+*Medicine in the Bible and the Talmud*. The article says *sanverim* "appears only
+twice more in the Bible (II Kings 6:18)"; both of those occurrences are inside
+that one verse, which is why the entry counts three in all.
