@@ -10,9 +10,9 @@ words:
     nk: רֵיק
 sources:
   - wiaw:11069 "Single Guys" (2023-09-02) https://articles.ohr.edu/articles/single-guys
-authorities: [Rashi, Tosafos, Rambam, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Matnos Kehunah, Radak, Rabbi Yehudah Aryeh of Carpentras, Rabbi Ernest Klein]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Tosafos, Rambam, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Matnos Kehunah, Radak, Rabbi Yehudah Aryeh of Carpentras, Dr. Alexander Kohut, Rabbi Dr. Ernest Klein]
+status: reviewed
+updated: 2026-09-10
 ---
 # Unmarried man: ravak / panui / bachur
 
@@ -20,97 +20,167 @@ updated: 2026-09-09
 
 *Ravak* is the Mishnaic word for an **unmarried man**, and whether it covers a
 divorcé and a widower (Rashi) or only a man never married (Tosafos, Rambam) is a
-machlokes with halachic consequences, so say which reading you follow. *Panui*
-means **unattached** in the sense of **free, available, cleared**, from *panah*,
-to clear away; it is the man's availability, not his status, that the word
-names. *Bachur* is a **young man**, not a bachelor: it is used of men of
-military age and can even be said of a married young man. None of the three
-appears in Tanach in this sense except *bachur*, and *bachur* there never means
-"unmarried" exclusively. The trap to avoid: rendering *bachur* "bachelor."
+dispute among the commentators on the Mishnah's restrictions, so say which
+reading you follow. Its etymology is disputed too: "empty" (*Matnos Kehunah*;
+Rabbi Dr. Ernest Klein, as "more probable"), against Dr. Alexander Kohut's
+loanword from Arabic meaning "youth." *Panui* is **unattached**, from Mishnaic
+*panah*, to clear, empty, make available (Rabbi Eliyahu HaBachur); the article
+explains the man as available and open to marriage, and Rabbi Shlomo Pappenheim
+says he is cleared of a family man's obligations. *Bachur* is a **young man**,
+not exclusively a bachelor: in Tanach it never refers exclusively to an
+unmarried man, colloquially it does mean one but can technically be said of a
+married young man, and its one Mishnaic appearance (Taanis 4:8) clearly means
+unmarried men. *Ravak* and *panui* do not appear in Tanach at all. English
+"bachelor" does not come from *bachur* but from Latin (Klein).
 
 ## Distinctions
 
 ### ravak (רווק)
-Absent from Tanach; three appearances in the Mishnah, all restrictive: a *ravak*
-should not teach young children, should not work as a shepherd, and two
-*revakim* should not sleep under one blanket (Kiddushin 4:13-14). Rashi (to
-Kiddushin 82a) takes *ravak* as any man currently without a wife, whether or not
-he was married before. Tosafos and Rambam (in his commentary to the Mishnah
-there) restrict it to a man who was never married, adducing the Targum to
-Yeshayahu 40:30, which renders *bachurim* as *revakin*; the article records that
-it does not see how that proves the point. Some versions of Targum to Tehillim
-148:12 also render *bachur* as *ravak*, and Rabbi Eliyahu HaBachur nonetheless
-omits *ravak* from his lexicon of Targumic Aramaic, *Meturgeman*.
+Absent from Tanach; three appearances in the Mishnah (Kiddushin 4:13-14), which
+cites the opinions of rabbis who ruled that a *ravak* may not teach young
+children, may not work as a shepherd, and that two *revakim* may not sleep under
+one blanket. (In the Mishnah the second and third are Rabbi Yehudah's, and the
+Chachamim permit; the article does not say so.) In the context of these
+restrictions the commentators dispute what *ravak* means. Rashi (to Kiddushin
+82a) takes it as any unmarried man, whether or not he was married before (and
+then divorced or widowed). Tosafos (to Kiddushin 82a) and Rambam (in his
+commentary to the Mishnah there) disagree and restrict it to a bachelor who was
+never married, citing the Targum to Yeshayahu 40:30, which renders *bachurim* as
+*revakin*; the columnist writes that he does not understand how the Targum's
+rendering supports their view. Some versions of the Targum to Tehillim 148:12
+also render *bachur* as *ravak*, though ours have an Aramaic variant of *elem*
+there. Rabbi Eliyahu HaBachur (1469 to 1549, also known as Elias Levita) does not
+list *ravak* in his lexicon of Targumic Aramaic, *Meturgeman*, though the word
+appears in the Targum at least once.
 
-On the etymology, *Matnos Kehunah* (to Vayikra Rabbah 27:2) connects *ravak* to
-*reik*, "empty": the unmarried man is empty of the obligations loaded onto a
-married one. Rabbi Ernest Klein agrees that the original sense is "empty," from
-ר-י-ק, so that a *ravak* is properly a man whose house is empty of wife and
-children.
+On the etymology the article gives two views. Dr. Alexander Kohut (1842 to
+1894) infers from Rashi's pairing of *ravak* with *panui* (below) an
+etymological as well as a semantic equation, both words meaning "empty," but he
+himself disagrees with what he saw in Rashi: he takes Mishnaic *ravak* as a
+loanword from Arabic, comparing the Aramaic *ravaka* (probably once pronounced
+something like *rawaka*), "young man," and the Arabic cognates *rayq*/*rauq*,
+"youth." On the other side, Rabbi Yissachar Ber HaKohen Katz (Rabbi Berman
+Ashkenazi), the sixteenth-century author of *Matnos Kehunah* (to Vayikra Rabbah
+27:2), does connect *ravak* to *reik*, "empty": the unmarried man is empty of
+the obligations and responsibilities loaded onto married men. Rabbi Dr. Ernest
+Klein (1899 to 1983) acknowledges that some scholars, like Kohut, take those
+Semitic cognates as the base, but disagrees: it is "more probable" that the
+original sense is "empty," from ר-י-ק, so that a *ravak* is properly "a man
+whose house is empty from wife and children." The column notes that Klein thus
+returns to the explanation Kohut saw in Rashi and that *Matnos Kehunah* gives.
 
-The word carries a note of praise, not deficiency. Hashem announces daily that
-He takes pride in an unmarried man who lives in the city and does not sin
-(Pesachim 113a), and in the *ravak* who pays into the community's fund for
-teaching children though he has none of his own (Vayikra Rabbah 27:2).
+The article opens with two passages that laud the *ravak* who overcomes the pull
+of his situation. Hashem announces daily in the Heavens that He is impressed
+with an unmarried man who lives in the city and does not sin, the temptations of
+the city making that laudable (Pesachim 113a, beside the poor man who returns
+lost objects and the rich man who tithes in private). And the Midrash tells of
+the great reward Hashem grants the *ravak* who contributes to the community's
+fund for teaching children though he has none of his own, his temptation to
+withhold making sense from where he stands (Vayikra Rabbah 27:2).
 
 ### panui (פנוי)
-Not in Tanach and not in the Mishnah, but frequent in the Gemara (Yevamos 59b,
-61b, 76a; Sanhedrin 51a; Temurah 29b-30a). Rabbi Eliyahu HaBachur traces it to
-the Mishnaic verb *panah*: to clear, empty, open up, make available, be at
-leisure. The Mishnah's own usage carries it: "Do not say, when I am free
-(*k'she'efneh*) I will learn, for perhaps you will never become free" (Avos
-2:4). So a *panui* is a man who is open and available to be bound to a wife, and
-a *penuyah* a woman likewise; the Mishnah's *mufneh* (Yevamos 3:5) is the same
-word.
+Not in Tanach and not in the Mishnah, but it appears multiple times in the
+Gemara (for example Yevamos 59b, 61b, 76a; Sanhedrin 51a; Temurah 29b-30a). A
+woman is a *penuyah*. The Mishnah's *mufneh* (Yevamos 3:5: three brothers, two
+married to two sisters and the third *mufneh*) is a cognate; for the halachah
+there it makes no difference whether the third brother was entirely unmarried or
+married to a woman who was not a sister of the other two.
 
-Rabbi Shlomo Pappenheim works it back to the two-letter פ-נ, "frontside,
-surface," the root of *panim* ("face") and *pnim* ("interior"), the important
-aspect of a thing, and of the verb *panah*, turning so that a different side
-faces front. He gathers under it *ofan* ("wheel"), *pinah* ("corner"), *pen*
-("lest"), and *peninim* (better "precious stones" than "pearls," either for
-their polished faces and vertices or because they are kept *penimah*, inside).
-Clearing, on this reading, is removing what is peripheral so the *panim* itself
-shows. Hence *pnai*, leisure time, and the hermeneutic *mufneh*, a word in
-Scripture that is free for exposition. Rabbi Pappenheim says explicitly that
-*panui* in the sense of an unmarried man belongs here: he is cleared of the
-obligations that rest on a family man.
+Rabbi Eliyahu HaBachur traces *panui* to the Mishnaic verb *panah*, an elastic
+term for removing or clearing, cleaning, emptying, opening up, making available,
+being free or at leisure: "Do not say, when I am free (*k'she'efneh*) I will
+learn, for perhaps you will never become free" (Avos 2:4). In the same way, the
+article explains, an unmarried man is *panui* because he is available and open
+to marriage, and a *penuyah* likewise, and he can be called *mufneh* for similar
+reasons. (In Modern Hebrew *pinui* is cleaning up, but also eviction,
+evacuation, and other ways of making room.) HaBachur asserts that this sense of
+the root does not occur in Tanach except in an exegetical reading of "I will
+turn to you (*u'fanisi*)" (Vayikra 26:9), which Rashi there explains as Hashem
+clearing Himself of all other tasks to pay the reward of those who follow His
+words. The column disagrees: there seem to be a few Biblical examples, such as
+"and I have cleared (*pinisi*) the house" (Bereishis 24:31). The article puts
+that line in Besuel's mouth; in the pasuk the speaker is Lavan.
 
-Rashi treats the two words as one in meaning: he calls unmarried men *revakim
-penuyim* (to Shemos 12:30) and defines *ravak* by *panui* (to Pesachim 113a).
+Rabbi Shlomo Pappenheim (1740 to 1814) bridges the Biblical and Rabbinic usage
+through the two-letter root פ-נ, whose core he identifies as "frontside,
+surface." Its chief derivatives are *panim*/*pnei* ("face") and *pnim*
+("interior"), the most important facets of a thing, and the Biblical verb
+*panah*, turning so that a different side, the most prestigious flank, faces
+front. He also gathers under it *ofan* ("wheel," which turns a vehicle), *pinah*
+("corner," where one turns to follow a perimeter), *pen* ("lest," of an
+uncertain outcome with several sides to it), and *peninim*, which the article
+glosses as more accurately "precious stones" than "pearls": either a gemstone
+polished so that its faces and vertices show, or jewels hidden *penimah*,
+inside. The column adds its own suggestion that pearls are "inside" because they
+lie concealed in the oyster's shell before harvest. Clearing, on this reading,
+removes what is peripheral so that the *panim* itself shows, as sweeping reveals
+the floor. Hence *pnai*, leisure time, and the hermeneutic *mufnah*, a word in
+Scripture whose presence is extraneous and so open for exposition. Rabbi
+Pappenheim says explicitly that *panui* in the sense of an unmarried man derives
+from this: he is cleared of the obligations incumbent on a family man.
+
+Rashi uses the two words together, *revakim penuyim* (to Shemos 12:30), which,
+the column says, possibly suggests that he took them to mean the same thing, and
+he seems to equate them by defining *ravak* as *panui* (to Pesachim 113a). The
+column reads that as a semantic equation; Kohut inferred an etymological one as
+well (above, under *ravak*).
 
 ### bachur (בחור)
-Close to fifty appearances in Tanach, and never exclusively an unmarried man;
-it is a young man, especially of military age. In colloquial Rabbinic usage it
-does mean an unmarried male (Kesubos 10a), but it can be said of a married young
-man as well (Sukkah 26b). Its one Mishnaic appearance is unambiguously about
-singles: on Tu B'Av and Yom Kippur the girls of Yerushalayim would go out to
-dance in the vineyards and call, "*Bachur*, lift up your eyes and see what you
-choose for yourself" (Taanis 4:8).
+Close to fifty appearances in Tanach, and never exclusively of an unmarried
+man; it is a young man in various contexts, especially one of military age, and
+there is no reason to think it means only an unmarried man. In colloquial usage
+it does refer to an unmarried male (see Kesubos 10a and elsewhere, which seems
+to support that usage), but it can technically be said even of a married young
+man (see, for example, Sukkah 26b). Its one Mishnaic appearance clearly refers
+to unmarried men: on Tu B'Av and Yom Kippur the single girls of Yerushalayim
+would go out to dance in the vineyards and call, "*Bachur*, lift up your eyes
+and see what you choose for yourself" (Taanis 4:8).
 
-Radak (*Sefer HaShorashim*): the root is ב-ח-ר, "choosing." A young unmarried
-man is at the peak of his strength and is therefore the choicest candidate for
-labor or for the army. Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*)
-says the same and adds that a young man of that age has none of the
-responsibilities that sap a mature man's energies; alternatively he parses
-*bachur* as *bo* ("in him") plus *char* ("heat"), for the fire of desire that
-burns in him.
+Radak (1160 to 1235, *Sefer HaShorashim*): the root is ב-ח-ר, "choosing." Young
+unmarried men tend to be at the peak of their strength and are thus the
+choicest candidates for labor or the army, as against older men. Rabbi Yehudah
+Aryeh of Carpentras (an eighteenth-century grammarian and dayan, *Ohalei
+Yehudah*) likewise derives it from ב-ח-ר, "choice": a young adult male is at the
+choicest stage of his life in vigor and aesthetic appeal but does not yet carry
+the responsibilities of a more mature adult that sap his energies.
+Alternatively he parses *bachur* as *bo* ("in him") plus *char* ("heat"), for
+the desire or passion that burns within a *bachur* like a raging fire.
+
+The appellation *HaBachur*: Rabbi Eliyahu HaBachur was so called because he
+married only later in life. Some have argued that the name came from his grammar
+*Sefer HaBachur*, but in its introduction he says the opposite: one reason he
+titled it so is that he himself already bore the name. The appellation was
+likewise given to Rabbi Kalonymus HaBachur (see *Shibbolei HaLeket* §140), a
+Tosafist active in Mainz during the Crusades, to tell him apart from his older
+contemporary Rabbi Kalonymus HaZaken of Speyer.
+
+English "bachelor": the columnist once thought it a corruption of *bachur*, but
+the Hebrew does not refer exclusively to an unmarried boy, and the English word
+is from Latin. Rabbi Dr. Ernest Klein's *Comprehensive Etymological Dictionary
+of the English Language* derives it, by way of Middle English *bachelere* and
+Old French *bacheler*, from Latin *baccalarius*, "young man" and also "owner of a
+small farm." Some trace the Latin further to *vacca*, "cow," but not all
+etymologists agree.
 
 ## Rendering guidance
+
+These are our rendering judgments, built on the article's meanings.
 
 - *Ravak*: **unmarried man**, or **bachelor** where the Tosafos and Rambam
   reading is in force and never-married is the point. In a halachic passage
   leave it transliterated and gloss it once.
 - *Panui* / *penuyah*: **unmarried** in a halachic context, but where the root
-  is doing work, **unattached** or **free**. *Mufneh* in a hermeneutical
-  context is a different sense entirely: a word left **available** for
-  derashah.
+  is doing work, **unattached** or **free**. *Mufnah* in a hermeneutical
+  context is a different application: a word left **available** for derashah.
 - *Bachur*: **young man**. In a Tanach translation never "bachelor" and never
-  "single"; in modern yeshivah usage, leave *bachur* transliterated.
+  "single"; in the Mishnah's one use (Taanis 4:8) the sense is unmarried men;
+  in modern yeshivah usage, leave *bachur* transliterated.
 - Trap: English "single" will absorb *ravak*, *panui*, and colloquial *bachur*
   at once. Where Rashi puts *revakim penuyim* side by side, do not write "single
   singles"; render it "unmarried men, unattached."
-- Trap: *bachur* and *bachir* share a root but not a sense. "Choicest" is the
-  etymology of *bachur*, not a translation of it.
+- Trap: "choicest" is the etymology of *bachur* (Radak), not a translation of
+  it; and English "bachelor" does not derive from *bachur* (Klein, via the
+  article).
 
 ## Notes for a project
 
@@ -120,11 +190,18 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "Single Guys," What's in a Word?, Ohr Somayach, 16
 Elul 5783 (2023-09-02): raw text in
-`sources/whats-in-a-word/raw/11069-single-guys.md`. Primary loci: Pesachim 113a;
-Vayikra Rabbah 27:2; Kiddushin 4:13-14 and 82a; Yeshayahu 40:30; Tehillim
-148:12; Yevamos 3:5, 59b, 61b, 76a; Sanhedrin 51a; Temurah 29b-30a; Avos 2:4;
-Vayikra 26:9 with Rashi; Bereishis 24:31; Rashi to Shemos 12:30; Taanis 4:8;
-Kesubos 10a; Sukkah 26b; Radak, *Sefer HaShorashim* s.v. ב-ח-ר; *Matnos
-Kehunah* to Vayikra Rabbah 27:2; Rabbi Yehudah Aryeh of Carpentras, *Ohalei
-Yehudah*. The article's Arabic-loanword proposal and its English etymology of
-"bachelor" are omitted here per house rule 9.
+`sources/whats-in-a-word/raw/11069-single-guys.md`. Primary loci: Pesachim 113a
+with Rashi; Vayikra Rabbah 27:2 with *Matnos Kehunah*; Mishnah Kiddushin
+4:13-14; Kiddushin 82a with Rashi and Tosafos; Rambam's commentary to the
+Mishnah there; the Targum to Yeshayahu 40:30; the Targum to Tehillim 148:12
+(some versions); Rabbi Eliyahu HaBachur, *Meturgeman*, and his introduction to
+*Sefer HaBachur*; Yevamos 3:5, 59b, 61b, 76a; Sanhedrin 51a; Temurah 29b-30a;
+Avos 2:4; Vayikra 26:9 with Rashi; Bereishis 24:31 (the article says Besuel
+speaks; in the pasuk it is Lavan); Rashi to Shemos 12:30; Taanis 4:8; Kesubos
+10a; Sukkah 26b; Radak, *Sefer HaShorashim* s.v. ב-ח-ר; Rabbi Yehudah Aryeh of
+Carpentras, *Ohalei Yehudah*; *Shibbolei HaLeket* §140; Dr. Alexander Kohut,
+cited without a work named; Rabbi Dr. Ernest Klein, cited on *ravak* without a
+work named, and his *Comprehensive Etymological Dictionary of the English
+Language* on "bachelor." Rabbi Shlomo Pappenheim is cited without a locus. The
+article points to the author's earlier essays "Boys and Girls," Parts I and II,
+for *elem*.

@@ -21,24 +21,28 @@ words:
   - he: מאין
     tr: meayin
     en: from where
-    distinct: the same root with a prefixed mem, which reverses it: origin instead of destination (Rabbi Pappenheim)
+    distinct: the same root with a prefixed mem, which in the column's rule tends to flip a root's meaning, so origin instead of destination
 sources:
   - wiaw:8478 "Where are You" (2019-11-16) https://articles.ohr.edu/articles/where-are-you
 authorities: [Rabbi Shlomo Pappenheim of Breslau, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Eliyahu Mizrachi, Radak, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Uriel Frank]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Where: ayeh (ey) / eifoh / anah
 
 ## Bottom line
 
-*Eifoh* is the plain **where**, the ordinary request for a location. *Ayeh* (and
-its forms *ey*, *ayekah*) is **where is**, and in most of the authorities it
-carries a further charge: the questioner expected the thing to be here and it is
-not. *Anah* is **to where**, a question of destination, not of present place,
-and with a prefixed mem, *me'ayin*, it flips to **from where**, a question of
-origin. The trap is that English "where" covers all of them; where a pasuk
-turns on *ayeh*, the rebuke is inside the word.
+*Eifoh* is the plain **where**, the most common word and, for Rabbi Yehuda Leib
+Shapira-Frankfurter, the one for run-of-the-mill questions. *Ayeh* (and its
+cognates *ey*, *ayekah*) is **where is**, and for Shapira-Frankfurter, followed
+by Rabbi Yaakov Tzvi Mecklenburg, it carries a further charge: the searcher
+expected the thing to be here and is surprised it is not. Rabbi Shlomo Aharon
+Wertheimer and Rabbi Shlomo Pappenheim instead set the two apart by how vague
+the question is, which the column presents as one view. *Anah* is **to where**,
+a question of destination, not of present place (Pappenheim), and with a
+prefixed mem, *me'ayin*, it flips to **from where**, a question of origin. The
+trap is that English "where" covers all of them; where a pasuk turns on *ayeh*,
+on Shapira-Frankfurter's reading the surprise at an absence is inside the word.
 
 ## At a glance
 
@@ -47,73 +51,88 @@ turns on *ayeh*, the rebuke is inside the word.
 | איה / אי | ayeh / ey | where is | present location; a searcher surprised at an absence (Shapira-Frankfurter, Mecklenburg) |
 | איפה | eifoh | where | "which here" (Rashi); the ordinary question; also "now" and "what, who" |
 | אנה / אן | anah / an | to where | destination, not location (Pappenheim); temporally, "until when" |
-| מאין | me'ayin | from where | origin; the mem reverses the root (Pappenheim) |
+| מאין | me'ayin | from where | origin; a prefixed mem tends to flip a root's meaning (the column) |
 
 ## Where the authorities disagree
 
 **Which of ayeh and eifoh is the vaguer question.** Rabbi Shlomo Aharon
-Wertheimer: *ayeh* is the general question, used when one has no inkling at all
-where the thing is, while *eifo* is used when one has a rough sense of the place
-and is asking exactly where. Rabbi Shlomo Pappenheim runs it the other way: the
-root א-י queries a specific location, and *eifoh* is the vaguer question. The
-column sets these side by side as if they agreed; as stated they pull in
-opposite directions, and a translator should not lean on either as settled.
+Wertheimer (1866 to 1935): *ayeh* is the general question, used when one has no
+inkling at all where the thing is, while *eifo* is used when one has a general
+sense of the place and is asking exactly where. Rabbi Shlomo Pappenheim, the
+column says, similarly understands *eifoh* as a vaguer question about location
+than *ey*/*ayeh*, whose root queries a specific location. The column presents
+the two as agreeing. Taken at face value, though, Wertheimer's *ayeh* is the
+question of one with no inkling, while Pappenheim's *ayeh* is the more specific;
+that tension is our observation, not the column's, and a translator should not
+lean on either as settled.
 
-**What ayeh adds beyond location.** Rabbi Yehuda Leib Shapira-Frankfurter
-(*HaRechasim LeVikah*), Rav Hirsch's great uncle: *eifoh* is for ordinary
-"where is" questions, while *ayeh* belongs to someone searching who is surprised
-the thing is not where it should be, so that *ayeh* means, in effect, "why is
-this not here?" Rabbi Yaakov Tzvi Mecklenburg extends this to the angels' *ayeh
-Sarah ishtecha* (Bereishis 18:9): Sarah would have been expected to be preparing
-the meal, all the more so with Avraham weak after his bris, so the question was
-why she was not where they expected. The Bottom line follows this reading, since
-it accounts both for Bereishis 18:9 and for *ayekah* to Adam (Bereishis 3:9).
-(Bava Metzia 87a adds that the angels' question was rhetorical in any case: they
-knew where she was, and asked in order to endear her to her husband by pointing
-at her tznius.)
+**What ayeh adds beyond location.** Along these lines, Rabbi Yehuda Leib
+Shapira-Frankfurter (1743 to 1826), Rav Hirsch's great uncle, writes in
+*HaRechasim LeVikah* that *eifoh* is for run-of-the-mill "where is" questions,
+while *ayeh* is used when someone searching is surprised the thing is not in
+its expected place, so that *ayeh* means, in effect, "Why is this not here?"
+Applied to Adam hiding after his sin, the *ayekah* of Bereishis 3:9 asks
+rhetorically why he was not in his regular place, the obvious answer being
+that he was hiding because of his sin. Rabbi Yaakov Tzvi Mecklenburg (1785 to
+1865) expands on this approach for the angels' *ayeh Sarah ishtecha* (Bereishis
+18:9): Sarah would have been expected to be setting the table for the guests,
+all the more so with Avraham weak after his bris, so the question was why she
+was not where they expected her. The Bottom line follows this reading, since it
+accounts both for Bereishis 18:9 and for Bereishis 3:9. (Bava Metzia 87a adds
+that the angels' question was also rhetorical: they knew where she was, and
+asked in order to endear her to her husband by highlighting her superlative
+modesty.)
 
 **What eifoh means where it is not "where."** Rashi (to Bereishis 27:33 and
-43:11), as Rabbi Eliyahu Mizrachi elucidates him, allows *eifoh* the senses
-"now" (Yeshayahu 22:1) and "what, who" (Shoftim 8:18), and Radak in *Sefer
-HaShorashim* follows; others read those cases as an interjection of confusion
-rather than any sense of "where." Rabbi Uriel Frank (*Kovetz HaMa'yan*, Teves
-5770) treats whether איפה and איפוא are one word or homonyms.
+43:11), as Rabbi Eliyahu Mizrachi (1455 to 1525) elucidates him, allows
+*eifoh* the senses "now" (Yeshayahu 22:1) and "what, who" (Shoftim 8:18), and
+Radak in *Sefer HaShorashim* evidently follows. Others point out that in some
+cases *eifo* is an interjection, a general expression of confusion and
+astonishment, and does not necessarily mean "where." Rabbi Uriel Frank
+(*Kovetz HaMa'yan*, Teves 5770) treats whether *eifoh* (איפה) and *eifo* (אפוא)
+are one word or homonyms.
 
 ## Distinctions
 
 ### ey, ayeh (אי, איה)
-Rabbi Pappenheim: the root is א-י, a query about a particular location. From it
-he derives *ee*, an island, which is literally "where is it?", since water on
-every side leaves no landmark by which to fix it. Rabbi Wertheimer notes that
-besides "where," *ey* sometimes questions whether or how a thing exists at all,
-and can also mean "which." The forms in Chumash are *ayeh* (Bereishis 18:9),
-*ayekah* (Bereishis 3:9) and *ey* (Bereishis 4:9, to Kayin about Hevel).
+Rabbi Pappenheim (1740 to 1814): the root is א-י, a query about a specific
+location. From it he derives *ee*, an island, which is literally "where is
+it?", since water on every side leaves no landmark by which to find it.
+Rabbi Wertheimer notes that besides "where," *ey* sometimes questions whether
+or how a thing actually exists, and can also mean "which." The column's
+examples are *ayeh* (Bereishis 18:9), its cognate *ayekah* (Bereishis 3:9) and
+*ey* (Bereishis 4:9, to Kayin about Hevel).
 
 ### eifoh (איפה)
 Rashi to Iyov 38:4: a compound of *ey*, "which," and *poh*, "here," so that the
 question is literally "which here?" The Aramaic *heicha* and *heichan* are built
-the same way, from *hei*, "which," and *ka* or *kan*, "here."
+the same way, from *hei*, "which," and *ka* or *kan*, "here." English "where"
+is somewhat reminiscent, as if *w* for "which" plus "here," but the column
+notes that linguists trace the English word differently.
 
 ### an, anah, le'an (אן, אנה, לאן)
-Root א-נ. Rabbi Pappenheim: where *ayeh* and *eifoh* ask after a thing's present
-location, this root asks after its destination, "to where." He derives *aniyah*,
-a ship, from it: a ship does not run straight to its port but is pushed about by
-the water, so its destination cannot be read off its course, and the word for it
-is the question itself. Because Hebrew moves freely between space and time, the
-same word asks after a target time, "until when" (Bamidbar 14:11).
+*An* (Shmuel I 10:14; Iyov 8:2), with its more common derivatives *anah* in
+Biblical Hebrew and *le'an* in Rabbinic Hebrew. Root א-נ. Rabbi Pappenheim:
+where *ayeh* and *eifoh* ask after a thing's current location, this root asks
+after its destination, "to where." He derives *aniyah*, a ship, from it: a
+ship does not run straight to its port but is pushed about by the water, so its
+destination cannot be read off its course, and the word for it is the question
+itself. The column adds, from its own paradigm of the interrelation of time and
+space in Hebrew, that *anah* is borrowed from the spatial to the temporal to
+ask after a target time, "until when" (Bamidbar 14:11).
 
 ### me'ayin (מאין)
-A mem prefixed to a root tends to reverse its sense, so this root's destination
-question becomes one of origin: "from where" (Bereishis 29:4; Bamidbar 11:13;
-Tehillim 121:1).
+The column has noted before that a mem added to a root tends to flip its
+meaning, so this root's destination question becomes one of origin: "from
+where" (Bereishis 29:4; Bamidbar 11:13; Tehillim 121:1).
 
 ## Rendering guidance
 
 - איה: "Where is…?" is the safe default, but where the context supplies a
   missing person or thing, "Where has… gone?" or "Why is… not here?" carries
   what Shapira-Frankfurter and Mecklenburg hear in it.
-- איכה to Adam (Bereishis 3:9): "Where are you?" is correct, and the drashah
-  that Hashem asked a man who had left his place belongs in the commentary.
+- איכה to Adam (Bereishis 3:9): "Where are you?" is correct, and the reading
+  that Hashem asked why he was not in his place belongs in the commentary.
 - אנה and לאן: "to where," "whither," or recast as "Where are you going?"
   Rendering them "where" alone loses the distinction, since the pasuk asks
   about the destination.
@@ -136,5 +155,5 @@ cited: Bereishis 3:9, 4:9, 18:9, 27:33, 29:4, 43:11; Bamidbar 11:13, 14:11;
 Shoftim 8:18; Shmuel I 10:14; Yeshayahu 22:1; Tehillim 121:1; Iyov 8:2, 38:4;
 Bava Metzia 87a; Rashi to Iyov 38:4 and to Bereishis 27:33 and 43:11 with Rabbi
 Eliyahu Mizrachi; Radak, *Sefer HaShorashim*; *HaRechasim LeVikah*; Rabbi
-Mecklenburg (*HaKesav VeHaKabbalah*); Rabbi Uriel Frank in *Kovetz HaMa'yan*,
-Teves 5770.
+Uriel Frank in *Kovetz HaMa'yan*, Teves 5770. The column names no work for
+Rabbi Mecklenburg here.

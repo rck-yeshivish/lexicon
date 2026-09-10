@@ -9,19 +9,19 @@ words:
   - he: עיף
     tr: ayef
     en: tired, weary
-    distinct: tired with something still left in him (Rabbi Shimon Schwab); worn down by continuous repeated exertion (Rabbi Yosef of Saragossa) or by a naturally low reserve of energy (Malbim). Rabbi Shlomo Aharon Wertheimer takes it the other way, as fatigue to the point of fainting, and hence also "thirsty"
+    distinct: tired with something still left in him (Rabbi Shimon Schwab); worn down by continuous repeated action (Rabbi Yosef of Saragossa) or the regular tiredness of one with naturally low energy (Malbim). For Rabbi Shlomo Aharon Wertheimer, fatigue to the point of fainting, and hence also "thirsty"
   - he: יעף
     tr: yaef
     en: exhausted, spent
-    distinct: the metathesised twin of ayef; for Schwab the stronger of the pair, one whose energy is entirely gone, which is why the morning berachah says ha'nosen la'yaef koach. The Rid holds the two are simply one word in two orders
+    distinct: the metathesised twin of ayef; for Schwab the stronger of the pair, one whose energy is entirely gone, which is why the morning berachah says ha'nosen la'yaef koach. Some explain the two as simply one word in two orders, and the Rid compares kesev and keves
   - he: יגע
     tr: yagea
     en: worn out, weary from toil
-    distinct: weariness caused by exertion rather than by constitution (Malbim), specifically by working too fast and overreaching (Rabbi Yosef of Saragossa); kin to yaga, he toiled
+    distinct: tiredness that results from (over)exerting oneself, against the natural low energy of ayef (Malbim), or, for Rabbi Yosef of Saragossa, from the speed of one's actions, against the persistence of ayef; related to yaga, he toiled
 sources:
   - wiaw:6774 "Energizing the Tired and Exhausted" (2017-10-28) https://articles.ohr.edu/articles/energizing-the-tired-and-exhausted
 authorities: [Rid, Radak, Malbim, Rabbi Yosef of Saragossa, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimon Schwab]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Tired: ayef / yaef / yagea
@@ -29,70 +29,85 @@ updated: 2026-09-10
 ## Bottom line
 
 *Ayef* is **tired**, the common word and the one Modern Hebrew kept. *Yaef* is the same
-three letters in a different order and reads **exhausted**, one with nothing left; that
-is the whole point of *ha'nosen la'yaef koach* in the morning berachos. *Yagea* is
-**worn out from toil**, weariness traced to exertion rather than to a man's own
-capacity. The trap is that English "tired" will swallow all three; where a passage turns
-on the degree, hold *ayef* and *yaef* apart.
+three letters in a different order. Some explain the two as one word by metathesis (the
+Rid compares *kesev* and *keves*); Rabbi Shimon Schwab reads them as two degrees, *ayef*
+tired but with some energy left, *yaef* **exhausted**, with nothing left, which for him
+is why the morning berachah says *ha'nosen la'yaef koach*. *Yagea* is **worn out**,
+tiredness from a different cause: for Malbim, (over)exertion, against the natural low
+energy of *ayef*; for Rabbi Yosef of Saragossa, the speed of one's actions, against the
+persistence of *ayef*. The trap is that English "tired" will swallow all three; where a
+passage turns on the degree or the cause, hold them apart.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| עיף | ayef | tired, weary | still has some strength in reserve (Schwab); tired from repeated, continuous action (Rabbi Yosef of Saragossa); also "thirsty" by extension (Radak) |
-| יעף | yaef | exhausted, spent | energy entirely used up (Schwab); for the Rid, merely ayef with the letters transposed |
-| יגע | yagea | worn out from toil | fatigue produced by exertion, not by constitution (Malbim); from working too fast (Rabbi Yosef of Saragossa) |
+| עיף | ayef | tired, weary | still has some energy in reserve (Schwab); tired from repeated, continuous action (Rabbi Yosef of Saragossa); the regular tiredness of naturally low energy (Malbim); fatigue to the point of fainting, hence "thirsty" (Wertheimer, with Radak noting the thirst sense) |
+| יעף | yaef | exhausted, spent | energy entirely used up (Schwab); for some, merely *ayef* with the letters transposed (the Rid compares *kesev/keves*) |
+| יגע | yagea | worn out from toil | tiredness that results from (over)exertion, not from natural low energy (Malbim); from the speed of one's actions, overexerting (Rabbi Yosef of Saragossa) |
 
 ## Where the authorities disagree
 
-**Whether ayef and yaef differ at all.** The Rid (Rabbi Yishaya of Trani) says they do
-not: the two are one word by metathesis, the ayin and yud trading places, exactly as
-*kesev* and *keves* are one word for a lamb. Rabbi Shimon Schwab says they differ in
-degree, and reads the morning berachah accordingly: the pasuk in Yeshayahu could have
-said *ayef*, and its choice of *yaef* teaches that Hashem strengthens not only the tired
-but the utterly spent.
+**Whether ayef and yaef differ at all.** Some explain that they do not: the two are one
+word by metathesis, the ayin and yud trading places. Rabbi Yishaya of Trani, the Rid,
+compares the case to another well-known pair of metathetical synonyms, *kesev* and
+*keves*, both "lamb" in Tanach. Rabbi Shimon Schwab says they differ in degree, and
+reads the morning berachah accordingly: on the surface its wording simply follows
+Yeshayahu's, but he sees more in its use of *yaef* rather than *ayef*, chosen for
+maximum effect, that Hashem strengthens not only the tired but the completely
+exhausted.
 
-**Which of the two is the heavier word.** Schwab: *yaef*, since *ayef* still retains
-some energy. Rabbi Shlomo Aharon Wertheimer: *ayef* itself already means fatigue to the
-point of fainting, which is how it comes to mean thirsty as well, since dehydration is
-what makes a tired man faint (Radak, *Sefer HaShorashim*, on the thirst sense at Iyov
-22:7 and Tehillim 63:2). These two cannot both stand. The Bottom line follows Schwab,
-whose reading accounts for the word choice in Yeshayahu 40:29 and in the berachah;
-Wertheimer's fainting sense is right wherever *ayef* stands alone, without *yaef* beside
-it.
+**How heavy ayef is.** Schwab: *ayef* is tired but still retains some energy. Rabbi
+Shlomo Aharon Wertheimer: *ayef* denotes extreme fatigue to the point of fainting, and
+because of this it borrows the meaning "thirsty" (as Radak notes in *Sefer
+HaShorashim*), dehydration being what generally makes tired people faint. The article
+sets the two side by side without comparing them, and Wertheimer says nothing about
+*yaef*. This guide's own judgment, not the article's: where *ayef* and *yaef* stand
+together, follow Schwab, whose reading is addressed to the pair; where *ayef* stands
+alone, Wertheimer's fainting sense is available.
 
-**What sets yagea apart from ayef.** Rabbi Yosef of Saragossa (a talmid of the Ran):
-both mean tired, but from different causes, *ayef* from persistence in an action and
-*yagea* from its speed, the man having overexerted himself. Malbim: *ayef* is the
-ordinary tiredness of one whose energy runs low by nature, *yagea* the tiredness that
-follows exertion. The two accounts agree that *yagea* points at what the man did and
-*ayef* at the man; they differ on whether the trigger is speed or effort as such.
+**What sets yagea apart from ayef.** Rabbi Yosef of Saragossa (d. 1420, a student of
+the Ran) addresses *ayef/yaef* against *yagea*: all mean tired in the same way, but from
+different causes, *ayef* from repeatedly performing certain movements, the persistence
+of the action, and *yagea* from the speed of one's actions, having overexerted oneself.
+Malbim also sees two causes, but different ones: *ayef* is the regular tiredness that
+one with naturally low energy experiences, *yagea* the tiredness that results from
+(over)exerting oneself. So for Rabbi Yosef both words trace tiredness to what the man
+did, persistence against speed; for Malbim *ayef* traces it to his natural state and
+*yagea* to his exertion. The article leaves the two accounts side by side.
 
 ## Distinctions
 
 ### ayef (עיף)
-The commoner of the pair in Tanach and the surviving word in Modern Hebrew. Radak
-(*Sefer HaShorashim*) records its borrowed sense of thirsty, as at Iyov 22:7 and
-Tehillim 63:2. Wertheimer builds on that: the word denotes fatigue severe enough to
-bring a man to faint, and thirst is the usual cause. Schwab and Malbim both treat it as
-the lighter word of the set.
+The more frequent of the pair in Tanach (a few more occurrences than *yaef*) and the
+surviving word in Modern Hebrew. Wertheimer: fatigue severe enough to bring a man to
+faint; from that comes its borrowed sense "thirsty," which Radak notes in *Sefer
+HaShorashim*; the article's examples are Iyov 22:7 and Tehillim 63:2. For Schwab it is
+the lighter of *ayef* and *yaef*; for Malbim it is the ordinary tiredness of one whose
+energy is naturally low; for Rabbi Yosef of Saragossa, tiredness from persistent,
+repeated action.
 
 ### yaef (יעף)
-Yeshayahu 40:29, in the haftarah of Lech Lecha: "He gives strength to the weary
-(*yaef*), and to those without vigor, abundant might." The phrase is paraphrased in the
-morning berachah *ha'nosen la'yaef koach*, and authors commonly print it at the close of
-a sefer to say that the stamina to finish came from Above. The Rid treats the form as
-*ayef* transposed; Schwab treats the transposition as meaningful.
+Yeshayahu 40:29, in the haftarah of Lech Lecha: "the Giver of strength to the tired
+(*yaef*), and to those without energy, an abundance of might." The first part is
+paraphrased in the morning berachah *ha'nosen la'yaef koach*, and is commonly appended
+to the end of works of Torah literature as the author's way of saying that his ability
+to endure weariness while writing came from Above. Some treat the form as *ayef*
+transposed (the Rid compares *kesev/keves*); Schwab treats the choice of *yaef* in the
+berachah as meaningful.
 
 ### yagea (יגע)
-Three occurrences only: Devarim 25:18, of Amalek falling on those who lagged behind,
-*ayef veyagea*; Shmuel II 17:2; and Koheles 1:8. It belongs with the verb *yaga*, to
-toil, so the weariness in it is earned weariness.
+Three occurrences only, per the article: Devarim 25:18 (*ve'atah ayef veyagea*), Shmuel
+II 17:2, and Koheles 1:8 (there in the plural, *yegei'im*). The word is related to the
+root of the verb *yaga*, "he toiled."
 
 ## Rendering guidance
 
-- Yeshayahu 40:29 and the berachah: **"He gives strength to the exhausted."** "Tired"
-  there flattens exactly the word Schwab says was chosen on purpose.
+- The berachah *ha'nosen la'yaef koach*: **"Who gives strength to the exhausted."**
+  "Tired" there flattens exactly the word Schwab says the berachah chose on purpose.
+  Schwab's comment is on the berachah's word choice; the article itself translates the
+  pasuk, Yeshayahu 40:29, "to the tired (*yaef*)." On the metathesis view the two words
+  are one and "tired" is not a loss.
 - Devarim 25:18 puts *ayef* and *yagea* side by side. Render them separately: **"weary
   and worn out"**, or **"faint and exhausted from toil"**. One English word covering
   both is the standard failure here.
@@ -111,6 +126,7 @@ Rabbi Reuven Chaim Klein, "Energizing the Tired and Exhausted," What's in a Word
 Somayach, 8 Cheshvan 5778 (2017-10-28): raw text in
 `sources/whats-in-a-word/raw/6774-energizing-the-tired-and-exhausted.md`. Primary loci
 cited: Yeshayahu 40:29; Devarim 25:18; Shmuel II 17:2; Koheles 1:8; Iyov 22:7; Tehillim
-63:2; Radak, *Sefer HaShorashim* s.v. עיף; the Rid on the *kesev*/*keves* metathesis;
-Malbim; Rabbi Yosef of Saragossa; Rabbi Shlomo Aharon Wertheimer; Rabbi Shimon Schwab on
-*ha'nosen la'yaef koach*.
+63:2. Authorities: the anonymous "some" who read *ayef/yaef* as metathesis, with the Rid
+comparing *kesev/keves*; Rabbi Shimon Schwab on *ha'nosen la'yaef koach*; Rabbi Shlomo
+Aharon Wertheimer on *ayef* as fainting; Radak, *Sefer HaShorashim*, on the thirst
+sense; Rabbi Yosef of Saragossa; Malbim.

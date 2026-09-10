@@ -19,15 +19,6 @@ distinction sharper, and keeps a writer from inventing a difference where the
 real answer is one of these.
 
 
-## Read the original
-
-Rabbi Klein has posted the article himself, so read it from him rather than
-from a copy here:
-
-- [Academia.edu](https://www.academia.edu/43127159/Learning_to_differentiate_between_apparent_synonyms)
-- [ResearchGate](https://www.researchgate.net/publication/341549003_Learning_to_differentiate_between_apparent_synonyms)
-- [Babel No. 31, May 2020](https://babelzine.co.uk/babel-no31-may-2020/), the issue it appeared in
-
 ## The eight mechanisms
 
 **1. General against specific (hypernym and hyponym).** One word is the

@@ -10,110 +10,163 @@ words:
     nk: כַּרְפַּס
 sources:
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Tanchum HaYerushalmi, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias, Rabbi Baruch Epstein, Rabbeinu Manoach, Maharil, Ben Ish Chai, Rabbi Yaakov Yisroel Stahl]
-status: draft
-updated: 2026-09-09
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia Gaon, Ibn Parchon, Ibn Ezra, Rabbi Tanchum HaYerushalmi, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias, Rabbi Baruch Epstein, Rabbi Dr. Ernest Klein, Aquila, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Alan Yuter, Rabbeinu Manoach, Maharil, Ibn Shuaib, Ben Ish Chai, Rabbi Shmuel of Falaise, Rabbi Yosef Tuv-Elem, Rabbi Yaakov Yisroel Stahl]
+status: reviewed
+updated: 2026-09-10
 ---
 # Vegetable: yerek / yarok / karpas
 
 ## Bottom line
 
 *Yerek* (plural *yerakos*) is the generic word: **vegetable**, any of them.
-*Yarok* is the color, **green**, though in Rabbinic Hebrew it stretches from
-yellow through green to blue. *Karpas* is **not** a synonym for *yerek*: in the
-Mishnah it names one particular plant (the Yerushalmi identifies it as
-parsley), and in Megillas Esther it is a **fabric** or a **color**, not a food
-at all. The trap is treating Seder-night *karpas* as the Hebrew for
-"vegetable"; it became the standard term only through a piyut.
+*Yarok* is the color, **green**, though in Rabbinic Hebrew it technically
+reaches from yellow through green to blue. *Karpas* is **not** a synonym for
+*yerek*: in the Mishnah it names one particular plant (the Yerushalmi identifies
+it as parsley, though the article calls the matter "far from settled"), and in
+Megillas Esther the context fairly clearly wants a **fabric**, with the
+commentators divided between a fabric (silk; fine linen), a **color** (green),
+and, in the Targumim, an association with leek. The trap is treating
+Seder-night *karpas* as the Hebrew for "vegetable"; its popular use seems to
+have come from a piyut, where it was one item from a list.
 
 ## Distinctions
 
 ### yerek (ירק) and yarok (ירוק)
-Eleven occurrences of *yerek* and *yarak* in Tanach (Bereishis 1:30, 9:3;
-Bamidbar 22:4; Devarim 11:10; Melachim I 21:2; Melachim II 19:26; Yeshayahu
-15:6, 37:27; Tehillim 37:2; Mishlei 15:17), and constantly in the Mishnah, as
-in the berachah of *borei pri ha'adamah* on vegetables (*Berachos* 6:1) and in
-the *Mah Nishtanah*'s "other *yerakos*" (*Pesachim* 10:4), where *marror* is
-one subset of *yerakos* and the first dipping is another.
+*Yerek* and its close cognate *yarak* appear eleven times in Tanach, by the
+article's count. Its list gives ten loci (Bereishis 1:30, 9:3; Bamidbar 22:4;
+Devarim 11:10; Melachim I 21:2; Melachim II 19:26; Yeshayahu 15:6, 37:27;
+Tehillim 37:2; Mishlei 15:17); Shemos 10:15 (*kol yerek ba'etz*) is presumably
+the eleventh (our check). The word appears countless times in the Mishnah, as in
+the *Mah Nishtanah*'s "other *yerakos*" for the first dipping (*Pesachim* 10:4),
+as against *marror*, a specific subset of *yerakos*, and in the ruling that one
+says *borei pri ha'adamah* on vegetables (*Berachos* 6:1).
 
-Menachem Ibn Saruk, Ibn Janach, and Radak take the root as י-ר-ק, yielding
-three families: vegetable, a green gem, and the color green. Ibn Janach and
-Radak add spitting and spittle to the same root; Ibn Saruk keeps those under a
-separate biliteral ר-ק. Rabbi Avraham Bedersi (*Chosam Tochnis*): vegetables
-are called *yerakos* because they are ordinarily green. On the range of *yarok*
-in Rabbinic Hebrew, from yellow to green to blue, see *HaMadrich HaMaspik*,
-*Teshuvos Maharam MeRothenberg* 631, *Beiur HaGra* to *Tikkunei Zohar* 21.
+The early lexicographers, Menachem Ibn Saruk, Yonah Ibn Janach, and Radak, take
+the root as י-ר-ק. As Ibn Saruk explains it, the root yields three related sets
+of words: vegetable, a greenish gem (the column suggests, with a question mark,
+emerald), and the color green. Ibn Janach and Radak add spitting and spittle to
+the same root; Ibn Saruk derives those from a separate biliteral ר-ק. Rabbi
+Avraham Bedersi (*Chosam Tochnis*): vegetables are called *yerakos* because they
+are typically green (*yarok*). Technically, the article adds, Rabbinic *yarok*
+covers a range from yellow to green to blue (see Rabbi Tanchum HaYerushalmi's
+*HaMadrich HaMaspik*, *Teshuvos Maharam MeRothenberg*, Prague ed. §631, and
+*Beiur HaGra* to *Tikkunei Zohar*, Tikkun 21).
 
-Rabbi Shlomo Pappenheim takes *yarok* itself to the biliteral ר-ק, emptying
-out. A plant's inner liquids give taste and scent, those pushed outward give it
-its look and color; so the green of a living plant is the emptying out of its
-liquid, and the yellowing of a plant past freshness is the same word in a
-borrowed sense. Spitting belongs here too, emptying the mouth. Rabbi Yehudah
-Aryeh of Carpentras (*Aholei Yehudah*) likewise ties *yerek* to *rok*, spit,
-since vegetables come up faster than fruit and the ground seems to spit them
-out; alternatively to *reik*, empty, since the halachic *yerek* is a plant
-whose stem does not renew itself yearly, so all its nourishment is emptied into
-the vegetable itself, unlike a fruit, which must keep a tree alive.
+Rabbi Shlomo Pappenheim takes *yarok* itself to the biliteral ר-ק, emptying or
+depleting. A plant's solid parts form its structure; its liquids give sap,
+flavor, scent, and quality. The liquids remaining inside give taste and scent,
+those expelled outward give its look and color; so the green of a living plant
+is the emptying out of those inner liquids, and in a borrowed sense *yarok* is
+also the yellowish color of less fresh plants drying out. Spitting belongs here
+too, emptying the mouth. Rabbi Yehudah Aryeh of Carpentras (an
+eighteenth-century grammarian and dayan, *Aholei Yehudah*) likewise ties *yerek*
+to *rok*, spit, since vegetables typically grow faster than fruit and the ground
+seems to spit them out; alternatively to *reik*, empty, since the halachic
+*yerek* is a plant whose stem or trunk is not perennial and must be replanted
+each year, so all its nutrients are concentrated in ("emptied out into") the
+vegetable itself, unlike a fruit, which spends some of its nutrients on a tree
+that lasts from year to year.
 
 ### karpas (כרפס), the plant
-*Karpas* appears in the Mishnah (*Shevi'is* 9:1, cited Sukkah 39b) among wild
-plants nobody cultivates and which are therefore presumed ownerless; the
-Yerushalmi there identifies it with *petrozilia*, parsley. Its Aramaic form
-*karpasa* appears in Kesubos 61a: a nursing woman who eats it regularly will
-have a child who is *zivsani*, radiant and distinguished. Rabbeinu Manoach (to
-*Hilchos Chametz U'Matzah* 8:2) links that to the Seder's *karpas*.
+*Karpas* appears in the Mishnah (*Shevi'is* 9:1, cited Sukkah 39b) in a list of
+wild plants that people do not typically cultivate and which are therefore
+presumed ownerless; the Yerushalmi there explicitly identifies it with
+*petrozilia* (Greek *petroselinon*), parsley. Its Aramaic cognate *karpasa*
+appears in Kesubos 61a: a nursing woman who frequently eats it will have a child
+who is *zivsani*, shining, splendid, distinguished. Rabbeinu Manoach (to
+*Hilchos Chametz U'Matzah* 8:2) "somehow," as the article puts it, connects that
+to the Seder's *karpas*. From all this, the column says, it would seem that
+*karpas* literally means parsley, "but the matter is far from settled."
+
+For the vegetable, Dr. Alexander Kohut (1842 to 1894) derives *karpas* from the
+Arabic *krafsa*/*karfs*, which today means celery, though Rabbi Shaul Goldman
+points out that the vowels of the Hebrew and Aramaic words differ from the
+Arabic.
+
+Rabbi Alan Yuter argues that *karpas* is the Greek *karpos*, any fruit,
+vegetable, or produce. The article rejects this: the sources above use *karpas*
+for a specific species, not for produce in general, so although colloquially
+the first dipping's *karpas* can be any vegetable, it is philologically
+difficult to tie the word to the Greek.
 
 ### karpas (כרפס), the word in Esther
-At Achashverosh's banquet the hangings are *chur, karpas, u'secheiles* (Esther
-1:6), white and something and blue, so the context wants a fabric or a color.
-Rabbi Saadia Gaon (*Tafsir*, cited by Ibn Parchon): silk. Ibn Janach (*Sefer
-HaShorashim*) cites and rejects that and reads *karpas* as a color; Rashi, Ibn
-Ezra, and Rabbi Tanchum HaYerushalmi take it the same way. Radak specifies
-green (so too *Midrash Lekach Tov*, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias),
-which puts the Biblical *karpas* in exactly the relation to vegetables that
-*yarok* has to *yerek*: the hue, not the plant. Targum Rishon and Targum Sheini
-associate it with *karti*, leek. Chazal parse the word into parts, a
-four-letter root being rare: Megillah 12a reads *karim* (spreads) and *pasim*
-(silk), as Rabbi Baruch Epstein (*Toseses Berachah* to Esther 1:6) notes
-explicitly.
+At Achashverosh's banquet the decorations are *chur, karpas, u'secheiles*
+(Esther 1:6). In context, the column says, *karpas* fairly clearly refers to
+some sort of fabric, since *chur* and *techeiles* are white and bluish fabrics.
+What sort is disputed:
+
+- Targum Rishon and Targum Sheini associate *karpas* with *karti*, leek, which,
+  the column says, seems to make it a different vegetable from the one first
+  thought.
+- Rabbi Saadia Gaon (*Tafsir* to Esther 1:6, also cited by Ibn Parchon): silk.
+- Ibn Janach (*Sefer HaShorashim*) cites and rejects that and explains *karpas*
+  as a color; Rashi, Ibn Ezra, and Rabbi Tanchum HaYerushalmi adopt the same
+  explanation. Radak follows it and specifies green (see also *Midrash Lekach
+  Tov* to Esther 1:6), as do Ralbag, Ibn Yachya, and Rabbi Yosef Nechmias. On
+  this view, the column concludes, the Biblical *karpas* is not a vegetable but
+  the basic hue of vegetables, just as *yarok* is related to *yerek*.
+- Rabbi Baruch Epstein (1860 to 1941, *Toseses Berachah* to Esther 1:6): since
+  *karpas* seems to come from a four-letter root, which is rare in Hebrew, Chazal
+  sought to parse it into smaller parts; hence Megillah 12a reads it as *karim*
+  (pillows or blankets) of *pasim* (silk).
+- Others presume that the four-letter word is foreign. Rabbi Dr. Ernest Klein
+  (1899 to 1983), in his etymological dictionary of Hebrew, makes the Biblical
+  *karpas* a loanword from Persian *karpas*, "fine linen," which he derives from
+  Old Indian *kaprasa*, "cotton," and Greek *karpasos*, "fine flax"; this suits
+  the fabric. The Midrash (*Esther Rabbah* to Esther 1:6) makes a similar point,
+  citing Aquila's Greek translation as connecting *karpas* with the Greek
+  *karpasinon*.
 
 ### How karpas became the Seder word
 The Mishnah and Gemara never call the first dipping *karpas*; the *Tur* (Orach
 Chaim 473) still does not, and the *Shulchan Aruch* (Orach Chaim 473:4) already
-does. Rashi (to Pesachim 114a) explains the first dipping as done with
-*yerakos*, plain vegetables. The shift came through the Seder-order piyut
-"*Kadesh, Urchatz, Karpas, Yachatz*," ascribed to Rabbi Shmuel of Falaise, a
-twelfth-century French Tosafist. He appears to have taken the Aramaic *karpasa*
-from an earlier piyut, *Elokei HaRuchos* of Rabbi Yosef Tuv-Elem (Bonfils),
-which lists vegetables fit for the first dipping including *karpasa* and
-*kusbarta* (coriander); Ashkenazim say that piyut on Shabbos HaGadol, and Rabbi
-Shmuel of Falaise wrote a commentary on it (in *Ohr Zarua*, *Hilchos Pesachim*
-256). *Machzor Vitri*, quoting Rashi's *Seder HaPesach*, has *karpasa* in such
-a list too, and Rabbi Yaakov Yisroel Stahl's manuscript work finds versions
-saying *yerek* or *pri ha'adamah*. So *karpas* was one item on a list, not a
-category.
+does. The source is Mishnah *Pesachim* 10:3, and Rashi (to Pesachim 114a)
+explains the first dipping as done with *yerakos*, plain vegetables. The popular
+use of *karpas* seems to have come from the Seder-order piyut "*Kadesh, Urchatz,
+Karpas, Yachatz*," ascribed to Rabbi Shmuel of Falaise, a twelfth-century
+French Tosafist, which uses *karpas* as a short-hand for what earlier sources
+called more generically a vegetable; once the poem spread, the word became the
+popular term for any vegetable used for the first dipping. The contemporary
+scholar Rabbi Yaakov Yisroel Stahl (a Slonimer Chossid in Jerusalem), working
+from manuscripts of many times and places, finds that not all the Seder-order
+piyutim call it *karpas*; some use *yerek* or even *pri (ha'adamah)*.
 
-Derashos on the word: Maharil (*Sefer Maharil*) and others read *karpas* as
-*perech* metathesized plus a samech worth sixty, sixty myriads of Jews at
-backbreaking labor. Others parse *kar* plus *pas*: *kar* as sale (Rosh HaShanah
-26a) or rulership (Yeshayahu 16:1), *pas* as Yosef's *kesones pasim* (Bereishis
-37:3), the coat that led to the sale that brought Yaakov's family down to
-Mitzrayim (Rabbeinu Manoach; Ibn Shuaib to Tzav; *Ben Ish Chai*, Tzav 1:32).
+Where Rabbi Shmuel of Falaise got the word: early Ashkenazi sources give lists
+of vegetables for the first dipping, often including *karpasa*. *Machzor Vitri*
+cites such a list in the name of Rashi's *Seder HaPesach*. In the generation
+before Rashi, Rabbi Yosef Tuv-Elem (Bonfils) wrote the piyut *Elokei HaRuchos*,
+the laws of Pesach in rhyme, whose list includes *karpasa* and *kusbarta*;
+Ashkenazim traditionally say it on Shabbos HaGadol, and Rabbi Shmuel of Falaise
+wrote a commentary on it (printed in *Ohr Zarua*, *Hilchos Pesachim* §256). It
+seems that he simply Hebraized the Aramaic *karpasa* of *Elokei HaRuchos*. So,
+the article concludes, *karpas* does not mean "vegetable"; it was one example of
+a specific vegetable for the first dipping, listed beside many alternatives.
+
+Derashos on the word: Rabbi Yaakov Moelin (1365 to 1427) in *Sefer Maharil*,
+and others, read *karpas* as *perech* metathesized plus a samech worth sixty,
+sixty myriads of Jewish men at backbreaking labor. Others parse *kar* plus
+*pas*: *kar* as sale (Rosh HaShanah 26a) or rulership (Yeshayahu 16:1), *pas* as
+Yosef's *kesones pasim* (Bereishis 37:3), the coat that led to the sale that
+brought Yaakov's family down to Mitzrayim (Rabbeinu Manoach; Ibn Shuaib to Tzav;
+*Ben Ish Chai*, Year 1, Tzav §32).
 
 ## Rendering guidance
 
+These are our rendering judgments, built on the article's meanings.
+
 - *Yerek* / *yerakos*: "vegetable(s)." Not "greens," which narrows it, and not
   "herb," which is a different plant class.
-- *Yarok*: "green" ordinarily, but in a halachic passage about colors (blood,
-  esrog, techeiles) say "*yarok*" and gloss the range, since the Rabbinic word
-  reaches yellow and blue and English "green" does not.
+- *Yarok*: "green" ordinarily, but in a halachic passage about colors say
+  "*yarok*" and gloss the range, since the Rabbinic word reaches yellow and
+  blue and English "green" does not.
 - *Karpas* stays transliterated in a Seder context; gloss it "the vegetable for
-  the first dipping," not "parsley," since no halachah requires parsley and
-  communities use potato, onion, cucumber, and more (*Chasam Sofer*, Orach
-  Chaim 132; *Aruch HaShulchan* 473:10; *Piskei Teshuvos* to 473).
+  the first dipping," not "parsley," since, as the column says, no halachah
+  requires one to use *karpas* and communities use potato, onion, cucumber, and
+  even banana or strawberry (*Chasam Sofer*, Orach Chaim 132; *Aruch HaShulchan*
+  473:10; *Piskei Teshuvos* to 473).
 - Trap: English "greens" will absorb *yerek*, *yarok*, and *karpas* at once. In
-  Esther 1:6 *karpas* must not become a vegetable; render it with the fabric or
-  color the commentator you are following holds, and note the dispute.
+  Esther 1:6 render *karpas* with the fabric or color the commentator you are
+  following holds (or leek, with the Targumim), and note the dispute.
 - Where a text pairs *yerek* with *marror*, keep the genus/species relation
   visible: "bitter herbs and other vegetables," not two coordinate items.
 
@@ -129,15 +182,24 @@ What's in a Word?, Ohr Somayach, 12 Nissan 5784 (2024-04-20): raw text in
 Primary loci cited: *Pesachim* 10:3-4 with Rashi to Pesachim 114a; *Berachos*
 6:1; *Shevi'is* 9:1 with Sukkah 39b and the Yerushalmi there; Kesubos 61a;
 Megillah 12a; Rosh HaShanah 26a; Esther 1:6 with Targum Rishon, Targum Sheini,
-Rashi, Ibn Ezra, Radak, Ralbag, and *Midrash Lekach Tov*; Bereishis 1:30, 9:3,
-37:3; Bamidbar 22:4; Devarim 11:10; Melachim I 21:2; Melachim II 19:26;
-Yeshayahu 15:6, 16:1, 37:27; Tehillim 37:2; Mishlei 15:17; *Tur* and *Shulchan
-Aruch*, Orach Chaim 473; *Ohr Zarua*, *Hilchos Pesachim* 256; *Machzor Vitri*.
-
-Omitted under house rule 9: the derivations of *karpas* from Persian, Old
-Indian, and Greek in Rabbi Ernest Klein's dictionary, Alexander Kohut on Arabic
-*karfs* ("celery"), and Rabbi Alan Yuter's proposal that *karpas* is the Greek
-*karpos*, which the article itself rejects, since the Rabbinic sources use it
-for one species and not for produce in general. One comparison here is itself
-rabbinic and may be used: *Esther Rabbah* to Esther 1:6 cites Aquilas'
-rendering *karpasinon*, fine flax, which supports the fabric reading.
+Rashi, Ibn Ezra, Radak, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias, *Midrash
+Lekach Tov*, *Esther Rabbah*, and Rabbi Saadia Gaon's *Tafsir* (cited also by
+Ibn Parchon); Ibn Janach, *Sefer HaShorashim*; Rabbi Baruch Epstein, *Toseses
+Berachah* to Esther 1:6; Bereishis 1:30, 9:3, 37:3; Bamidbar 22:4; Devarim
+11:10; Melachim I 21:2; Melachim II 19:26; Yeshayahu 15:6, 16:1, 37:27;
+Tehillim 37:2; Mishlei 15:17 (the article's ten loci for its count of eleven;
+Shemos 10:15 is our addition); Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi
+Tanchum HaYerushalmi, *HaMadrich HaMaspik*; *Teshuvos Maharam MeRothenberg*,
+Prague ed. §631; *Beiur HaGra* to *Tikkunei Zohar* 21; Rabbi Yehudah Aryeh of
+Carpentras, *Aholei Yehudah*; Rabbeinu Manoach to *Hilchos Chametz U'Matzah*
+8:2; *Tur* and *Shulchan Aruch*, Orach Chaim 473; *Machzor Vitri*; Rabbi Yosef
+Tuv-Elem, *Elokei HaRuchos*, with Rabbi Shmuel of Falaise's commentary in *Ohr
+Zarua*, *Hilchos Pesachim* §256; *Sefer Maharil*; Ibn Shuaib to Tzav; *Ben Ish
+Chai*, Year 1, Tzav §32; *Chasam Sofer*, Orach Chaim 132; *Aruch HaShulchan*,
+Orach Chaim 473:10; *Piskei Teshuvos* to Orach Chaim 473; Rabbi Dr. Ernest
+Klein's etymological dictionary of Hebrew. Rabbi Shlomo Pappenheim, Menachem
+Ibn Saruk, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Alan Yuter, and Rabbi
+Yaakov Yisroel Stahl are cited without a locus. The article points to the
+author's earlier essays "A Coriander Conundrum" (on *kusbarta*), "White is
+Light" (on *chur*), "The True Blue" (on *techeiles*), and "Hard Work & Hard
+Hearts" (on *perech*).

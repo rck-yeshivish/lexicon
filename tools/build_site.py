@@ -702,6 +702,10 @@ header.bare .brand{flex:1}
 .ac .e{font-weight:500;flex:1}
 .ac .c{color:var(--faint);font-size:13px}
 .ac .none{padding:16px;color:var(--dim);font-size:15px}
+.ac-cap{padding:9px 16px 8px;font-size:12.5px;color:var(--faint);border-bottom:1px solid var(--line)}
+.ac .go{color:var(--faint);font-size:22px;line-height:1;margin-left:2px;align-self:center;
+  transition:transform .15s,color .15s}
+.ac .row:hover .go,.ac .row.sel .go{color:var(--accent);transform:translateX(3px)}
 
 /* browse ------------------------------------------------------------------ */
 .browse{padding:46px 0 0}
@@ -916,12 +920,13 @@ function wire(){
       ac.innerHTML = '<div class="none">Nothing under that word yet.</div>';
       ac.hidden = false; return;
     }
-    ac.innerHTML = list.map((w,i) =>
+    ac.innerHTML = '<div class="ac-cap">Pick a word to see its deeper meaning</div>' + list.map((w,i) =>
       `<a class="row${i===sel?" sel":""}" href="${href(w)}">
          <span class="h">${esc(w.n || w.h)}</span>
          <span class="t">${esc(w.t)}</span>
          <span class="e">${esc(w.e || (ent(w).g || []).slice(0,3).join(", "))}</span>
          <span class="c">${esc(ent(w).c)}</span>
+         <span class="go" aria-hidden="true">›</span>
        </a>`).join("");
     ac.hidden = false;
   };
@@ -937,10 +942,12 @@ function wire(){
     if(e.key === "ArrowDown" || e.key === "ArrowUp"){
       e.preventDefault();
       sel = Math.max(0, Math.min(rows.length-1, sel + (e.key === "ArrowDown" ? 1 : -1)));
-      [...ac.children].forEach((c,i) => c.classList.toggle("sel", i === sel));
-      ac.children[sel]?.scrollIntoView({block:"nearest"});
+      const els = ac.querySelectorAll(".row");
+      els.forEach((c,i) => c.classList.toggle("sel", i === sel));
+      els[sel]?.scrollIntoView({block:"nearest"});
     } else if(e.key === "Enter"){
-      if(sel >= 0 && rows[sel]){ e.preventDefault(); location.href = href(rows[sel]); }
+      const pick = rows[sel >= 0 ? sel : 0];
+      if(pick){ e.preventDefault(); location.href = href(pick); }
     } else if(e.key === "Escape"){ close(); q.blur(); }
   });
   document.addEventListener("click", e => { if(!ac.contains(e.target) && e.target !== q) close(); });
