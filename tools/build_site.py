@@ -631,6 +631,28 @@ header.bare .brand{flex:1}
 .seg a+a::before{content:"";position:absolute;left:-1px;top:22%;bottom:22%;width:1px;
   background:var(--faint);opacity:.45}
 .seg a.on::before,.seg a.on+a::before{opacity:0}
+/* Phones. The header never wrapped, so every page was ~495px wide on a 375px
+   screen and scrolled sideways: the English tab sat off the right edge and the
+   header search was crushed to 29px. It now wraps to two rows, wordmark and
+   tabs on the first and a full-width search on the second, measured at 430,
+   390, 375 and 360px. Methodology stays visible at every one of them; only a
+   320px screen takes a third row, and even there nothing scrolls sideways. */
+@media (max-width:700px){
+  header.site{flex-wrap:wrap;gap:8px 10px;padding:8px 12px}
+  .brand{font-size:15px}
+  .navs{gap:8px;margin-left:auto}
+  .meth{font-size:13px;padding:6px 0}
+  .seg a{padding:4px 9px;font-size:13px}
+  .hsearch{order:3;flex:1 1 100%;max-width:none;margin:0}
+  .hsearch input{height:34px}
+}
+@media (max-width:400px){
+  header.site{gap:8px}
+  .brand{font-size:14px;letter-spacing:-.02em}
+  .navs{gap:6px}
+  .meth{font-size:12.5px}
+  .seg a{padding:4px 8px;font-size:12.5px}
+}
 
 /* home -------------------------------------------------------------------- */
 .hero{padding:64px 0 30px;text-align:center}
