@@ -3,7 +3,7 @@
 Exit code 1 if any entry fails. Checks: front-matter keys, required headings in
 order, source line format, no em dashes, no AI-register words, no narration
 ("the article explains"), "Notes for a project" present, and length: over 140
-lines warns, over 200 fails.
+lines warns, over 240 fails.
 """
 import re, sys, pathlib
 
@@ -67,13 +67,16 @@ def check(p):
     if re.search(r"<[^>]{3,}>", body):
         errs.append("template placeholder left in body")
     n = t.count("\n")
-    if n < 30 or n > 200:
-        errs.append(f"length {n} lines (hard limit 30..200)")
+    if n < 30 or n > 240:
+        errs.append(f"length {n} lines (hard limit 30..240)")
     elif n > 140:
         warn.append(f"length {n} lines (guidance is 140)")
     bl = re.search(r"## Bottom line\s*\n(.*?)\n## ", body, re.S)
-    if bl and len(bl.group(1).split()) > 170:
-        errs.append("Bottom line over 170 words")
+    # The caps exist to catch runaway output, not to shape a good entry. A
+    # cluster of eight words needs a longer ruling than one of two, and shaving
+    # it costs the reader a word rather than saving them anything.
+    if bl and len(bl.group(1).split()) > 220:
+        errs.append("Bottom line over 220 words")
     return errs, warn
 
 

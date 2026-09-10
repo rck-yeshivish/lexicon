@@ -49,3 +49,12 @@ The site is publicly readable, and every entry is still `status: draft`:
 sourced and lint-clean, but not yet read against its source by a person.
 Cloudflare Access can gate the whole site in the meantime, under the project's
 **Settings → Access policy**.
+
+## Building on Cloudflare instead of here
+
+Cloudflare Pages can also watch the repo and build on every push (build command
+`python tools/build_site.py`, output directory `site`, project name
+`whatsinaword`). We do not use it: it clones the whole repository into
+Cloudflare's build environment, corpus included, where GitHub Actions already
+holds the repo and uploads only `site/`. Kept here in case that trade ever
+looks different.

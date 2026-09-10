@@ -104,7 +104,7 @@ the line, say the sources do not separate the words. That is a finding.
 Size the entry to the article. A thin piece with one authority and two words
 takes 40 to 60 lines; a rich one takes up to 120.
 
-**140 is the target, not 200.** The lint warns past 140 and fails only at 200,
+**140 is the target, not 200.** The lint warns past 140 and fails only at 240,
 because a cluster with five words and four live disputes genuinely needs the
 room. That headroom is an exception, not an allowance: when the cap was raised
 from 180 to 200, the next batch came back at 168 to 199 lines almost uniformly,

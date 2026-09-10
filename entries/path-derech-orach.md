@@ -126,7 +126,7 @@ only against *derech* and does not sort *netiv* against *orach*; neither do
 we.
 
 ### mesilah (מסילה)
-A paved road. The article says only that a *mesilah* "is said to refer
+A paved road. Recorded only as what a *mesilah* "is said to refer
 specifically to a paved path," without naming who says it. What marks a
 *mesilah* off from its neighbors is thus the making of it, the labor that laid
 its surface, and not its length, its width, or who walks it.
@@ -143,7 +143,7 @@ A circular path, derived from *igul*, a circle. The derivation is the whole of
 the distinction the article draws, and it names no one for it.
 
 ### shvil (שביל)
-Related to the word *shafel*, low, and so, the article explains, a path that
+Related to the word *shafel*, low, and so a path that
 has a steep incline, one that goes downwards. Here too the derivation and the
 sense come together, and no authority is named.
 

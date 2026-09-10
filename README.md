@@ -138,3 +138,11 @@ the Times of Israel mirror for the Aug 2025 onward tail. Planned: Radak's
 *Sefer HaShorashim*, Jastrow's dictionary (for sources and Rabbinic usage),
 Malbim's *Yair Ohr* / *HaCarmel*, Rabbi Shlomo Pappenheim's *Cheshek Shlomo*,
 Rav Hirsch's etymological comments, and the Vilna Gaon's synonym notes.
+
+## The site
+
+`python tools/build_site.py` generates `site/` and `DEPLOY.md` covers shipping
+it. The pages are static: the browse lists are rendered into the HTML rather
+than assembled by script, so the site reads with JavaScript off and a crawler
+sees real links to all 342 entries. `site/llms.txt` points a model at
+`data.json` and documents the record shape.
