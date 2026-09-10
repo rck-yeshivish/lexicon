@@ -24,8 +24,8 @@ words:
     distinct: passive where makkeh is active (Rabbi Eliyahu HaBachur), and for the Tiferes Yisrael broader than striking, covering any defect: an eclipsed luminary or discolored blood is lakah
 sources:
   - wiaw:8584 "That's a Flogging" (2020-02-01) https://articles.ohr.edu/articles/thats-a-flogging
-authorities: [Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Eliyahu HaBachur, Rabbi Naftali HaKohen Katz, Rabbi Shmuel Taieb, Tiferes Yisrael, Rabbi Elazar Rokeach]
-status: draft
+authorities: [Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Eliyahu HaBachur, Rabbi Naftali HaKohen Katz, Rabbi Shmuel Taieb, Tiferes Yisrael, Rabbi Elazar Rokeach, Avraham Even-Shoshan]
+status: reviewed
 updated: 2026-09-10
 ---
 # Flogging: makkot / malkut (lakah)
@@ -34,11 +34,14 @@ updated: 2026-09-10
 
 *Makkah* is a **blow**, and from there a **wound** and a **plague**; the plural
 *makkot* is the Torah's own word for judicial **lashes**. *Malkut* is the
-Mishnaic word for the same punishment, **flogging**, built on the Aramaic
-*lakah*. They translate alike but are not one word in two coats: *makkeh* is the
-one who strikes and *lokeh* the one struck (Rabbi Eliyahu HaBachur), and several
-authorities read a real difference of scope into the pair. Do not render *lakah*
-"hit" everywhere; outside the flogging sugyos it means impaired, not struck.
+Mishnaic word for the same punishment, **flogging**, which the linguist Avraham
+Even-Shoshan derives from the Aramaic root ל-ק-ה. On Even-Shoshan's account the
+two mean essentially the same thing in different languages, and the column
+posits from this that the masechta simply carries a Hebrew name and an Aramaic
+one. Two other authorities do read a real difference of scope into the pair, in
+opposite directions; and in any case *makkeh* is the one who strikes and *lokeh*
+the one struck (Rabbi Eliyahu HaBachur). Do not render *lakah* "hit" everywhere;
+the Tiferes Yisrael holds it can mean impaired rather than struck.
 
 ## At a glance
 

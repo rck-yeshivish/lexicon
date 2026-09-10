@@ -7,9 +7,9 @@ english: [fish, fishes, small fish, fisherman, shoal]
 domain: nature
 sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
-authorities: [Rashi, Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehuda Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HaAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golomb, Rabbi Moshe Batzri]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehuda Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HaAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golomb, Rabbi Moshe Batzri, Moshe Raanan]
+status: reviewed
+updated: 2026-09-10
 ---
 # Fish: dag / dagah
 
@@ -43,8 +43,8 @@ Shabbos brought extra *da'agah*, worry, into the world.
   for the fish of the Nile that died in Makas Dam (Shemos 7:18), where big and
   small perished together. On this reading the *dagah* the people remembered
   eating in Mitzrayim (Bamidbar 11:5) could be either.
-- Rashi (to Yonah 2:1) and *Yalkut Shimoni* 550: *dag* is a male fish, *dagah* a
-  female. The first fish's belly was roomy and Yonah was too much at ease, so
+- Other sources, among them Rashi (to Yonah 2:1) and *Yalkut Shimoni* 550: *dag*
+  is a male fish, *dagah* a female. The first fish's belly was roomy and Yonah was too much at ease, so
   Hashem had it spit him out into a pregnant female whose cavity was cramped,
   and only then did he daven. The difficulty, which the article raises, is why
   only female fish would be eaten in Mitzrayim or killed in the plague. (It may
@@ -55,9 +55,10 @@ Shabbos brought extra *da'agah*, worry, into the world.
   in *Kad HaKemach*; cf. his comments to Bamidbar 22:33) and Rabbi Avraham bar
   Chiya HaNasi (*Higayon HaNefesh*): *dag* is a living fish, *dagah* a dead one.
   Hashem killed the fish around Yonah to make him uncomfortable enough to
-  daven; and Shemos 7:18 uses *dagah* precisely for dead fish. On this reading
-  the people in the midbar recalled eating *dagah* because one may not eat a
-  live fish (see Rema, Yoreh Deah 13:1).
+  daven; and the Zohar further adduces the reading from Shemos 7:18, which uses
+  *dagah* for the dead fish of the plague. On this reading it seems that the
+  people in the midbar recalled eating *dagah* because they ate dead fish, one
+  may not eat a live fish (see Rema, Yoreh Deah 13:1).
 - Ibn Ezra (to Shemos 7:18), and see Rashi to Yirmiyahu 6:6 and Malbim to Yonah
   2:2: *dagah* is the collective, fish as a species rather than an individual
   fish. This explains Shemos and Bamidbar (fish of every kind) but not the
@@ -71,7 +72,7 @@ Yaakov blesses Yosef's sons *v'yidgu*, may they multiply like fish (Bereishis
 48:16). Rav Hirsch notes that this is the only verbal use of ד-ג in all of
 Chumash; everywhere else the cognates are nouns. Menachem alone derives the verb
 from the same root as *dag*; Ibn Janach and Radak assign it a triliteral ד-ג-ה,
-though Radak is the more open to connecting it to *dag*. Rabbi Yehuda Ibn Balaam
+though Radak seems the more open to connecting it to *dag*. Rabbi Yehuda Ibn Balaam
 lists ד-ג-ה among verbs formed from nouns; Rabbi Aharon Marcus reverses the
 direction, making fecundity primary and "fish" the borrowed sense, and uses this
 to account for Chumash never saying *dag/dagim*, only *dagah*, *digas*, and
@@ -79,14 +80,23 @@ to account for Chumash never saying *dag/dagim*, only *dagah*, *digas*, and
 9:2, apparently the construct of *dag*.)
 
 ### the wider family
-Rabbi Pappenheim alone attaches two further words to ד-ג. *Da'agah*, worry: an
+Rabbi Pappenheim also attaches two further words to ד-ג that the other
+commentators do not necessarily see as related. *Da'agah*, worry: an
 apprehension resting on slight grounds, like the fisherman who picks his spot on
 faint signs with no real proof that fish are there. *Dagan*, grain: the most
 fecund of plants, one seed begetting many, as one fish fathers many. Menachem,
 Ibn Janach, and Radak each give these their own triliteral roots, ד-א-ג and
 ד-ג-נ. *Dugmah*, specimen (Shabbos 10:1, Eduyos 5:6, and often in the Gemara),
-is generally taken as the Greek *deigma*; on Pappenheim's biliteral one could
-read it as a sample drawn from a larger quantity, with the mem outside the root.
+is said to be a loanword from the Greek *deigma*; but given Rabbi Pappenheim's
+biliteral, the column conjectures that it may derive from ד-ג too, an example
+being a mere sampling of a quantitatively larger pool, with the mem extraneous
+to the root.
+
+As an aside, Menachem does agree that the name of the Philistine god Dagon
+derives from the same root as *dag*, the idol that represented that deity having
+been fish-shaped; the column treats the deity at length in the encyclopedic
+section of its author's *God versus Gods: Judaism in the Idolatry* (Mosaica
+Press, 2018).
 
 ### the Aramaic small fish
 Rashi glosses several Aramaic words as "small fish": *avruma* (Succah 18a;
@@ -100,9 +110,11 @@ Sanhedrin 49a), which Yerushalmi Nedarim 6:3 gives as the Bavel name for the
 *tarit*. On *munini*: Rabbi David Golomb parses it as a diminutive mem plus the
 Aramaic *nun*, fish; Rabbi Moshe Batzri as a contraction of *mei nuna*, fish
 water. *Tarit* is Rashi's word for tuna (Megillah 6a, Berachos 44a), as are
-*sultanit* and the Spanish *kulyis* (Shabbos 39a, Chullin 66a). Modern species
-identifications for *gildna* (grey mullet or gilt-head bream) and *tzachanta*
-(sardine or anchovy) are naturalists' proposals, not lexical rulings.
+*sultanit* and the Spanish *kulyis* (Shabbos 39a, Chullin 66a). On the species: ichthyologists, mentioned by Dr. Moshe Raanan, identify *gildna*
+with the flathead grey mullet (*Mugil cephalus*) or with gilt-head bream
+(*Sparus aurata*), and modern scholars, also cited by Dr. Raanan, identify
+*tzachanta* with either sardines or anchovies. These are naturalists' proposals,
+not lexical rulings.
 
 ## Rendering guidance
 
@@ -140,7 +152,8 @@ Shabbos 39a, 105b, 110b; Gittin 69b; Horayos 12a; Berachos 44a, 44b; Megillah
 6a; Chullin 66a; Bava Basra 73b; Shabbos 10:1 and Eduyos 5:6 (Mishnah);
 Yerushalmi Nedarim 6:3; Zohar, Beshalach 47b-48a; *Yalkut Shimoni* 550; Rema,
 Yoreh Deah 13:1; Ibn Ezra, *Sefer Tzachus*; Rabbeinu Bachaya, *Kad HaKemach*;
-Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HaAruch* s.v. אברומא.
-The article's closing note on the Philistine deity Dagon, and its modern
-ichthyological identifications, are peripheral to the lexical distinction and
-are not carried here.
+Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HaAruch* s.v. אברומא;
+Dr. Moshe Raanan on the species identifications. Rashi to Yirmiyahu 6:6, cited
+by the article for the collective reading, is on *etzah* there, a singular form
+denoting a plurality, "like *dagah*"; the word *dagah* itself does not occur in
+Yirmiyahu.
