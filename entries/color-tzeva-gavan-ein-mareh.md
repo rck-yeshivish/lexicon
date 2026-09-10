@@ -205,7 +205,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Terumah: Color Me," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Terumah: Color Me](https://articles.ohr.edu/articles/terumah-color-me)," What's in a Word?, Ohr Somayach,
 1 Adar 5785 (2025-03-01): raw text in
 `sources/whats-in-a-word/raw/11705-terumah-color-me.md`. Primary loci the article
 cites: Shoftim 5:30; Yirmiyahu 12:9; Bereishis 36 (the name Tziv'on); Nechemiah

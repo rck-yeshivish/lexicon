@@ -139,7 +139,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shouldering the Burden," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shouldering the Burden](https://articles.ohr.edu/articles/shouldering-the-burden)," What's in a Word?, Ohr
 Somayach, for the week ending 30 December 2017 / 12 Teves 5778:
 https://articles.ohr.edu/articles/shouldering-the-burden; raw text in
 `sources/whats-in-a-word/raw/7562-shouldering-the-burden.md`. Primary loci the

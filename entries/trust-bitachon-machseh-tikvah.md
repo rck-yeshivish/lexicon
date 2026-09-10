@@ -118,7 +118,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Trusting and Relying on G-d," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2)," What's in a Word?,
 Ohr Somayach, 9 Elul 5780 (2020-08-29): raw text in
 `sources/whats-in-a-word/raw/8836-trusting-and-relying-on-g-d.md`; republished
 14 Elul 5782 (2022-09-10) with the same text: raw text in

@@ -142,7 +142,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Fishy Words (Part 1/2)," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/articles/fishy-words-part-12)," What's in a Word?, Ohr
 Somayach, 18 Sivan 5781 (2021-05-29): raw text in
 `sources/whats-in-a-word/raw/9228-fishy-words-part-12.md`. Primary loci:
 Bereishis 9:2, 48:16; Shemos 7:18; Bamidbar 11:5, 22:33; Yeshayahu 19:8;

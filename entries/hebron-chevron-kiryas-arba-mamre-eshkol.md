@@ -175,7 +175,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The City of Four," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[The City of Four](https://articles.ohr.edu/articles/the-city-of-four)," What's in a Word?, Ohr Somayach,
 24 Cheshvan 5782 (2021-10-30): raw text in
 `sources/whats-in-a-word/raw/9416-the-city-of-four.md`. Primary loci the article
 cites: Bereishis 13:18, 14:13, 14:24, 23:2, 23:8, 23:19, 25:9, 35:27, 37:14,

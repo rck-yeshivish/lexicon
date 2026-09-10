@@ -166,7 +166,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Yisro: Murder He Wrote," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Yisro: Murder He Wrote](https://articles.ohr.edu/articles/yisro-murder-he-wrote)," What's in a Word?, Ohr
 Somayach, 20 Shevat 5783 (2023-02-11):
 https://articles.ohr.edu/articles/yisro-murder-he-wrote; raw text in
 `sources/whats-in-a-word/raw/10820-yisro-murder-he-wrote.md`. Primary loci

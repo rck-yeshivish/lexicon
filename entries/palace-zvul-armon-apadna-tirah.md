@@ -157,7 +157,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Castle in the Sky," What's in a Word?, Ohr Somayach
+Rabbi Reuven Chaim Klein, "[Castle in the Sky](https://articles.ohr.edu/articles/castle-in-the-sky)," What's in a Word?, Ohr Somayach
 (2020-11-28): raw text in `sources/whats-in-a-word/raw/8941-castle-in-the-sky.md`.
 Primary loci: Bereishis 30:20, 25:16, 31:18, 35:26, 46:15; Melachim I 8:13,
 15:25; Melachim II 16:18; Divrei HaYamim II 6:2; Yeshayahu 63:15, 13:22;

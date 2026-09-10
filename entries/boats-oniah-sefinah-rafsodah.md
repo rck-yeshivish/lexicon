@@ -17,7 +17,7 @@ words:
   - he: רפסודה
     tr: rafsodah
     en: raft
-    distinct: beams tied together, the same thing as dovrah (Rashi and Radak to Melachim I 5:23 and Divrei HaYamim II 3:15)
+    distinct: beams tied together, the same thing as dovrah (Rashi and Radak to Melachim I 5:23 and Divrei HaYamim II 2:15)
   - he: דוגית
     tr: dugit
     en: fishing skiff
@@ -163,20 +163,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayechi: Boats, Ships and Nautical Rhapsody," What's
-in a Word?, Ohr Somayach, 18 Teves 5781 (2021-01-02): raw text in
-`sources/whats-in-a-word/raw/8991-vayechi-boats-ships-and-nautical-rhapsody.md`.
-Primary loci: Bereishis 49:13; Yonah 1:5, 1:3; Iyov 9:26 with Rashi, Ibn Ezra, and Ralbag;
-Melachim I 5:23, 9:26, 10:22, 22:49; Divrei HaYamim II 2:15; Amos 4:2 with Rashi
-and Radak; Shmuel II 17:28, 19:19; Mishlei 31:14; Tehillim 48:8, 104:26;
-Yeshayahu 2:16, 23:13, 33:21; Devarim 28:68, 33:19 with Abarbanel; Bamidbar
-24:24; Shemos 12:22; Bava Basra 73a; *Sanhedrin* 106a; *Kesuvos* 69b; *Rosh
-HaShanah* 23a; *Bava Metzia* 80b; Shabbos 19b, 32a, 103b, 156b; Bava Kama 116a;
-*Tosefta* Bava Basra 4:1 and Succah 3:2; Yerushalmi Bava Basra 5:1; Rambam to
-Keilim 15:1; *Eitz Chaim*; Rav Hirsch to Bereishis 16:8. The Mishnah loci for
-*sefinah* given here are a sample of the article's much longer list. Two
-corrections to the article's citations: it prints the Zevulun berachah as Devarim
-49:13 (read Bereishis 49:13), and it places *rafsodos* at Divrei HaYamim II 3:15,
-whereas the word stands at Divrei HaYamim II 2:15 in the Hebrew numbering (2:16
-in the English), 3:15 being the pillars of the Beis HaMikdash. The `words:` block
-still carries the article's 3:15 and wants correcting at a later pass.
+Rabbi Reuven Chaim Klein, "[Vayechi: Boats, Ships and Nautical Rhapsody](https://articles.ohr.edu/articles/vayechi-boats-ships-and-nautical-rhapsody)," *What's in a Word?*, Ohr Somayach, 2 January 2021.
+
+Cited in the essay: Bereishis 49:13; Yonah 1:5, 1:3; Iyov 9:26 with Rashi, Ibn Ezra, and Ralbag; Melachim I 5:23, 9:26, 10:22, 22:49; Divrei HaYamim II 2:15; Amos 4:2 with Rashi and Radak; Shmuel II 17:28, 19:19; Mishlei 31:14; Tehillim 48:8, 104:26; Yeshayahu 2:16, 23:13, 33:21; Devarim 28:68, 33:19 with Abarbanel; Bamidbar 24:24; Shemos 12:22; Bava Basra 73a; *Sanhedrin* 106a; *Kesuvos* 69b; *Rosh HaShanah* 23a; *Bava Metzia* 80b; Shabbos 19b, 32a, 103b, 156b; Bava Kama 116a; *Tosefta* Bava Basra 4:1 and Succah 3:2; Yerushalmi Bava Basra 5:1; Rambam to Keilim 15:1; *Eitz Chaim*; Rav Hirsch to Bereishis 16:8.

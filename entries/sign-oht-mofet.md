@@ -166,7 +166,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Sign is Coming," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[The Sign is Coming](https://articles.ohr.edu/articles/the-sign-is-coming)," What's in a Word?, Ohr Somayach,
 for the week ending 12 January 2019 / 6 Shevat 5779:
 https://articles.ohr.edu/articles/the-sign-is-coming; raw text in
 `sources/whats-in-a-word/raw/8085-the-sign-is-coming.md`. Primary loci the

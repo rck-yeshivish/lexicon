@@ -121,7 +121,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "On Clouds," What's in a Word?, Ohr Somayach, 12 Sivan
+Rabbi Reuven Chaim Klein, "[On Clouds](https://articles.ohr.edu/articles/on-clouds)," What's in a Word?, Ohr Somayach, 12 Sivan
 5779 (2019-06-15): raw text in `sources/whats-in-a-word/raw/8287-on-clouds.md`.
 Primary loci: Yerushalmi Taanis 3:3; *Midrash Tehillim* 135; *Bereishis Rabbah*
 12:12; Bereishis 2:6, 49:25; Shemos 19:9, 20:18; Devarim 32:35 (Targum); Shoftim

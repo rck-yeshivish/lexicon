@@ -180,7 +180,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "In the Middle," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[In the Middle](https://articles.ohr.edu/articles/in-the-middle)," What's in a Word?, Ohr Somayach,
 17 Tammuz 5782 (2022-07-16): raw text in
 `sources/whats-in-a-word/raw/9785-in-the-middle.md`. Primary loci cited:
 Yeshayahu 28:20, 40:4; Bereishis 1:6, 2:9, 12:5; Shemos 15:8, 26:28, 28:28,

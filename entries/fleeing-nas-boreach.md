@@ -89,7 +89,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Running Away," What's in a Word?, Ohr Somayach, 19
+Rabbi Reuven Chaim Klein, "[Running Away](https://articles.ohr.edu/articles/running-away)," What's in a Word?, Ohr Somayach, 19
 Sivan 5778 (2018-06-02): raw text in
 `sources/whats-in-a-word/raw/7779-running-away.md`. Primary loci cited: Bamidbar
 10:35; Bereishis 31:21; Yonah 1:3; Shemos 14:27; Yirmiyahu 16:19; Iyov 30:3;

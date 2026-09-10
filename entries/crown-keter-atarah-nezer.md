@@ -90,7 +90,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Crown is a Crown," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[A Crown is a Crown](https://articles.ohr.edu/articles/a-crown-is-a-crown)," What's in a Word?, Ohr Somayach,
 24 Tammuz 5776 (2016-07-30):
 https://articles.ohr.edu/articles/a-crown-is-a-crown; raw text in
 `sources/whats-in-a-word/raw/6876-a-crown-is-a-crown.md`. Primary loci: Esther

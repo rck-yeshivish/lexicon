@@ -166,7 +166,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Pick Your Poison," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Pick Your Poison](https://articles.ohr.edu/articles/pick-your-poison)," What's in a Word?, Ohr Somayach,
 2 Adar Beis 5782 (2022-03-05): raw text in
 `sources/whats-in-a-word/raw/9603-pick-your-poison.md`. Primary loci: Bereishis
 24:33 (article: 23:33); Shemos 4:24-26, 15:22, 30:7, 30:34, 40:27; Vayikra

@@ -207,7 +207,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shemos: Pulling & Drawing," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shemos: Pulling & Drawing](https://articles.ohr.edu/articles/shemos-pulling-drawing)," What's in a Word?, Ohr
 Somayach, 25 Teves 5784 (2024-01-06):
 https://articles.ohr.edu/articles/shemos-pulling-drawing; raw text in
 `sources/whats-in-a-word/raw/11200-shemos-pulling-drawing.md`. Primary loci:

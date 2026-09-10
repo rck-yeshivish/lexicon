@@ -151,7 +151,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Fun with Fish (Part 2/2)," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Fun with Fish (Part 2/2)](https://articles.ohr.edu/articles/fun-with-fish-part-22)," What's in a Word?, Ohr Somayach,
 25 Sivan 5781 (2021-06-05): raw text in
 `sources/whats-in-a-word/raw/9234-fun-with-fish-part-22.md`. Part 1, on *dag* and
 *dagah*, is treated in `entries/fish-dag-dagah.md`. Primary loci cited: Bereishis 1:21,

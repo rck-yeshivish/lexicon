@@ -232,7 +232,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Miketz: Say it Clear (Part 1/2)," What's in a
+Rabbi Reuven Chaim Klein, "[Miketz: Say it Clear (Part 1/2)](https://articles.ohr.edu/articles/miketz-say-it-clear-part-12)," What's in a
 Word?, Ohr Somayach, 4 Teves 5784 (2023-12-16): raw text in
 `sources/whats-in-a-word/raw/11170-miketz-say-it-clear-part-12.md`; and
 "Vayigash: Say it Clear (Part 2/2)," 11 Teves 5784 (2023-12-23): raw text in

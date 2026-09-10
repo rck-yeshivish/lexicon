@@ -142,7 +142,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Jacob's Three Names," What's in a Word?, Ohr Somayach, 14
+Rabbi Reuven Chaim Klein, "[Jacob's Three Names](https://articles.ohr.edu/articles/jacobs-three-names)," What's in a Word?, Ohr Somayach, 14
 Teves 5780 (2020-01-11): raw text in
 `sources/whats-in-a-word/raw/8553-jacobs-three-names.md`. Primary loci cited: Bereishis
 25:26, 27:36, 32:29, 35:10; Devarim 31:19, 32:15, 33:5, 33:26; Yeshayahu 44:2; Michah

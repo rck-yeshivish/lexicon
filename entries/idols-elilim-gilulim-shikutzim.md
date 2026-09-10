@@ -138,7 +138,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Top Ten Words for Idols," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Top Ten Words for Idols](https://articles.ohr.edu/articles/top-ten-words-for-idols)," What's in a Word?, Ohr
 Somayach, 23 Adar II 5779 (2019-03-30):
 https://articles.ohr.edu/articles/top-ten-words-for-idols; raw text in
 `sources/whats-in-a-word/raw/8198-top-ten-words-for-idols.md`. Primary loci

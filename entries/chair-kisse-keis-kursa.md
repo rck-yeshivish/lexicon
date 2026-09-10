@@ -152,7 +152,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Chair of Thrones," What's in a Word?, Ohr Somayach, 1 Iyar
+Rabbi Reuven Chaim Klein, "[Chair of Thrones](https://articles.ohr.edu/articles/chair-of-thrones)," What's in a Word?, Ohr Somayach, 1 Iyar
 5783 (2023-04-22): raw text in `sources/whats-in-a-word/raw/10930-chair-of-thrones.md`.
 Primary loci cited: Yeshayahu 66:1; Shemos 12:4, 17:16; Bereishis 41:40; Melachim I
 10:19; Iyov 26:9; Tehillim 81:4; Daniel 5:20, 7:9; Pesachim 117a; Tanchuma *Ki Seitzei*

@@ -152,7 +152,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Tzav: Good Fat, Bad Fat," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Tzav: Good Fat, Bad Fat](https://articles.ohr.edu/articles/tzav-good-fat-bad-fat)," What's in a Word?, Ohr
 Somayach, 20 Adar II 5784 (2024-03-30):
 https://articles.ohr.edu/articles/tzav-good-fat-bad-fat; raw text in
 `sources/whats-in-a-word/raw/11314-tzav-good-fat-bad-fat.md`. Primary loci

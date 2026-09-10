@@ -169,7 +169,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shavuos: Getting Dirty," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shavuos: Getting Dirty](https://articles.ohr.edu/articles/shavuos-getting-dirty)," What's in a Word?, Ohr
 Somayach, 2 Sivan 5784 (2024-06-08): raw text in
 `sources/whats-in-a-word/raw/11413-shavuos-getting-dirty.md`. Primary loci:
 Iyov 15:16, 33:20; Tehillim 14:3, 53:4, 7:12, 26:10; Shir HaShirim 5:3; Daniel

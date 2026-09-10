@@ -188,7 +188,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Single Guys," What's in a Word?, Ohr Somayach, 16
+Rabbi Reuven Chaim Klein, "[Single Guys](https://articles.ohr.edu/articles/single-guys)," What's in a Word?, Ohr Somayach, 16
 Elul 5783 (2023-09-02): raw text in
 `sources/whats-in-a-word/raw/11069-single-guys.md`. Primary loci: Pesachim 113a
 with Rashi; Vayikra Rabbah 27:2 with *Matnos Kehunah*; Mishnah Kiddushin

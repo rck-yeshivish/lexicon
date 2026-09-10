@@ -135,7 +135,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Number Eleven," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[The Number Eleven](https://articles.ohr.edu/articles/the-number-eleven)," What's in a Word?, Ohr Somayach,
 9 Av 5778 (2018-07-21): https://articles.ohr.edu/articles/the-number-eleven;
 raw text in `sources/whats-in-a-word/raw/7864-the-number-eleven.md`. Primary
 loci cited: Devarim 1:1-3; Tehillim 146:4; Shir HaShirim 5:14 with Rashi;

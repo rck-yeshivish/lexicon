@@ -105,7 +105,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Forms of Forgiveness," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Forms of Forgiveness](https://articles.ohr.edu/articles/forms-of-forgiveness)," What's in a Word?, Ohr
 Somayach, 21 Elul 5779 (2019-09-21): raw text in
 `sources/whats-in-a-word/raw/8400-forms-of-forgiveness.md`. Primary loci the
 article cites: Bamidbar 14:19-20; Vayikra 4:20-35 and 5:10-26; Yeshayahu 43:25;

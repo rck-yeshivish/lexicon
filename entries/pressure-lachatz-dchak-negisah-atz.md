@@ -157,7 +157,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Pesach: Putting Pressure," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Pesach: Putting Pressure](https://articles.ohr.edu/articles/pesach-putting-pressure)," What's in a Word?, Ohr
 Somayach, 15 Nissan 5782 (2022-04-16): raw text in
 `sources/whats-in-a-word/raw/9658-pesach-putting-pressure.md`. Primary loci:
 Bereishis 19:15 (article: 19:9), 32:25; Shemos 3:9 (article, in the Schwab

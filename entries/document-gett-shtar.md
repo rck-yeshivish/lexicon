@@ -144,7 +144,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Divorce Bills and Other Documents," What's in a
+Rabbi Reuven Chaim Klein, "[Divorce Bills and Other Documents](https://articles.ohr.edu/articles/divorce-bills-and-other-documents)," What's in a
 Word?, Ohr Somayach, 22 Iyar 5780 (2020-05-16):
 `sources/whats-in-a-word/raw/8704-divorce-bills-and-other-documents.md`. Primary
 loci: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6;

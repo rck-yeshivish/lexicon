@@ -142,6 +142,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Stones and High Altars," *What's in a Word?*, Ohr Somayach, 25 November 2017.
+Rabbi Reuven Chaim Klein, "[Stones and High Altars](https://articles.ohr.edu/articles/stones-and-high-altars)," *What's in a Word?*, Ohr Somayach, 25 November 2017.
 
-Loci: Shemos 27:1-2 and 30:2; Devarim 12:5-18 and 16:22; Bereishis 28:18-22 and 31:13; Bamidbar 17:11-15; *Sifrei* to Devarim 16:22; Zohar *Vayakhel* 219a; Radak, *Sefer HaShorashim*; Mishnah *Zevachim* 14:6.
+Cited in the essay: Shemos 27:1-2 and 30:2; Devarim 12:5-18 and 16:22; Bereishis 28:18-22 and 31:13; Bamidbar 17:11-15; *Sifrei* to Devarim 16:22; Zohar *Vayakhel* 219a; Radak, *Sefer HaShorashim*; Mishnah *Zevachim* 14:6.

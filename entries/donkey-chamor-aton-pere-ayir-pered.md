@@ -197,7 +197,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Balak: An Asinine Essay (Part 1/2)" (12 July 2025 /
+Rabbi Reuven Chaim Klein, "[Balak: An Asinine Essay (Part 1/2)](https://articles.ohr.edu/articles/balak-an-asinine-essay-part-12)" (12 July 2025 /
 16 Tammuz 5785) and "Pinchas: An Asinine Essay (Part 2/2)" (19 July 2025 / 23
 Tammuz 5785), What's in a Word?, Ohr Somayach: raw texts in
 `sources/whats-in-a-word/raw/11871-balak-an-asinine-essay-part-12.md` and

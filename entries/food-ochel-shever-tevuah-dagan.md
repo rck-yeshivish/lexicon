@@ -143,7 +143,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Biblical Feast," What's in a Word?, Ohr Somayach
+Rabbi Reuven Chaim Klein, "[A Biblical Feast](https://articles.ohr.edu/articles/a-biblical-feast)," What's in a Word?, Ohr Somayach
 (2020-01-04): raw text in
 `sources/whats-in-a-word/raw/8546-a-biblical-feast.md`. The eightfold list of
 words for food is from *Chuppas Eliyahu* and *Pirkei Rabbeinu HaKadosh*. Primary

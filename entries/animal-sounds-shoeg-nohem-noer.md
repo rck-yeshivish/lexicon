@@ -192,6 +192,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayakhel/Pekudei: Animal Sounds," *What's in a Word?*, Ohr Somayach, 13 March 2021.
+Rabbi Reuven Chaim Klein, "[Vayakhel/Pekudei: Animal Sounds](https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds)," *What's in a Word?*, Ohr Somayach, 13 March 2021.
 
-Loci: Donash Ibn Labrat's response to Menachem Ibn Saruk, lines 82 to 83; *Machberes Menachem* s.v. ג-ע; Rashi to Yeshayahu 8:19 and 29:4, Yoel 1:20, Tehillim 42:2, Mishlei 28:15, Iyov 6:5, Chullin 53a and 79a, Sotah 42a, Sanhedrin 102a, Berachos 32a; *Sefer HaAruch* s.v. נער; Vilna Gaon to Mishlei 28:15; Rav Hirsch to Devarim 25:18; Berachos 3a; *Targum Sheini* to Esther 1:2; Yechezkel 21:20; Rabbi Aharon Marcus.
+Cited in the essay: Donash Ibn Labrat's response to Menachem Ibn Saruk, lines 82 to 83; *Machberes Menachem* s.v. ג-ע; Rashi to Yeshayahu 8:19 and 29:4, Yoel 1:20, Tehillim 42:2, Mishlei 28:15, Iyov 6:5, Chullin 53a and 79a, Sotah 42a, Sanhedrin 102a, Berachos 32a; *Sefer HaAruch* s.v. נער; Vilna Gaon to Mishlei 28:15; Rav Hirsch to Devarim 25:18; Berachos 3a; *Targum Sheini* to Esther 1:2; Yechezkel 21:20; Rabbi Aharon Marcus.

@@ -174,7 +174,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Korach: Of Heretics and Apostates," What's in a
+Rabbi Reuven Chaim Klein, "[Korach: Of Heretics and Apostates](https://articles.ohr.edu/articles/korach-of-heretics-and-apostates)," What's in a
 Word?, Ohr Somayach, 30 Sivan 5784 (2024-07-06); raw text at
 `sources/whats-in-a-word/raw/11438-korach-of-heretics-and-apostates.md`. Primary
 loci cited: Rambam, *Hilchos Teshuvah* 3:6-3:9 and his commentary to *Sanhedrin*

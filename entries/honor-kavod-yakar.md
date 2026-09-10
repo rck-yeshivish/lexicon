@@ -131,7 +131,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Ki Sisa/Purim: Heavy Honors," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Ki Sisa/Purim: Heavy Honors](https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors)," What's in a Word?, Ohr
 Somayach, 15 Adar 5785 (2025-03-15): raw text in
 `sources/whats-in-a-word/raw/11724-ki-sisapurim-heavy-honors.md`. Primary loci
 the article cites: Esther 1:4, 1:20, 6:3, 6:6, 8:16; Rabbi Eliyahu Bachur, *Sefer

@@ -90,7 +90,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Tree Words," What's in a Word?, Ohr Somayach, 15
+Rabbi Reuven Chaim Klein, "[Tree Words](https://articles.ohr.edu/articles/tree-words)," What's in a Word?, Ohr Somayach, 15
 Shevat 5777 (2017-02-11): raw text in
 `sources/whats-in-a-word/raw/7133-tree-words.md`. Primary loci cited: *Rosh
 Hashanah* 1:1; Daniel 4:7 with 4:8, 4:11, 4:17, 4:20, 4:23; *Berachos* 6:1;

@@ -128,7 +128,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Playing the Lottery," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Playing the Lottery](https://articles.ohr.edu/articles/playing-the-lottery)," What's in a Word?, Ohr
 Somayach, 9 Adar II 5779 (2019-03-16): raw text in
 `sources/whats-in-a-word/raw/8181-playing-the-lottery.md`. Primary loci cited:
 Esther 3:7 and 9:26; Vayikra 16:8; Bamidbar 26:55; Shemos 12:2, 16:15, 17:13;

@@ -123,7 +123,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Flour Power," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Flour Power](https://articles.ohr.edu/articles/flour-power)," What's in a Word?, Ohr Somayach,
 23 Tammuz 5781 (2021-07-03): raw text in
 `sources/whats-in-a-word/raw/9275-flour-power.md`. Primary loci cited: Vayikra
 2:1, 2:14, 8:2, 23:10-11; Bamidbar 5:15; Shemos 22:5, 29:2; Bereishis 18:6,

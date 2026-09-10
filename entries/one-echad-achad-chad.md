@@ -162,7 +162,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Korach: The One and Only," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Korach: The One and Only](https://articles.ohr.edu/articles/korach-the-one-and-only)," What's in a Word?, Ohr
 Somayach, 28 Sivan 5783 (2023-06-17): raw text in
 `sources/whats-in-a-word/raw/10975-korach-the-one-and-only.md`. Primary loci:
 Bamidbar 16:15 and 28:4; Devarim 6:4; Bereishis 3:22, 22:2, 26:10, 49:16;

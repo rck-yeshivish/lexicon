@@ -97,7 +97,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Deleterious Desires," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Deleterious Desires](https://articles.ohr.edu/articles/deleterious-desires)," What's in a Word?, Ohr
 Somayach, 16 Sivan 5777 (2017-06-10): raw text in
 `sources/whats-in-a-word/raw/7292-deleterious-desires.md`. Primary loci the
 article cites: Bamidbar 11:4 and 11:10 with Chazal's reading of "family matters";

@@ -159,7 +159,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "On Dry Land," What's in a Word?, Ohr Somayach, 10
+Rabbi Reuven Chaim Klein, "[On Dry Land](https://articles.ohr.edu/articles/on-dry-land)," What's in a Word?, Ohr Somayach, 10
 Tammuz 5782 (2022-07-09): raw text in
 `sources/whats-in-a-word/raw/9775-on-dry-land.md`. Primary loci: Bereishis 7:22,
 8:13-14, 12:9, 31:40, 40:10; Shemos 14:21-22, 32:1; Vayikra 7:10; Yehoshua

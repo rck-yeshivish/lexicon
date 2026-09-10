@@ -164,7 +164,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "On Misers and Cheapskates," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[On Misers and Cheapskates](https://articles.ohr.edu/articles/on-misers-and-cheapskates)," What's in a Word?, Ohr
 Somayach, 19 Sivan 5782 (2022-06-18): raw text in
 `sources/whats-in-a-word/raw/9734-on-misers-and-cheapskates.md`. Primary loci:
 Yeshayahu 32:5, 32:7, 40:22; Bereishis 37:18, 41:47; Vayikra 2:2, 5:12, 6:8;

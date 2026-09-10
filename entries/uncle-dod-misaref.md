@@ -167,7 +167,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Say Uncle," What's in a Word?, Ohr Somayach, 12 Iyar
+Rabbi Reuven Chaim Klein, "[Say Uncle](https://articles.ohr.edu/articles/say-uncle)," What's in a Word?, Ohr Somayach, 12 Iyar
 5781 (2021-04-24): raw text in `sources/whats-in-a-word/raw/9184-say-uncle.md`.
 Primary loci: Vayikra 18:12 to 14, 20:19 to 20 and *Toras Kohanim* there;
 Vayikra 21:11 (*HaKsav VeHaKabbalah*); Shemos 6:20; Bereishis 29:10; Shoftim 9:1,

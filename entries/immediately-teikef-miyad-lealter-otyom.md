@@ -89,7 +89,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Forthwith in the Fourth Dimension," What's in a
+Rabbi Reuven Chaim Klein, "[Forthwith in the Fourth Dimension](https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension)," What's in a
 Word?, Ohr Somayach, 25 Elul 5777 (2017-09-16),
 https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension; raw text in
 `sources/whats-in-a-word/raw/7426-forthwith-in-the-fourth-dimension.md`. Primary

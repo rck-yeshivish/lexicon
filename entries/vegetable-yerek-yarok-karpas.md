@@ -176,7 +176,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Metzorah/Shabbos HaGadol: Veggies for the Dipping,"
+Rabbi Reuven Chaim Klein, "[Metzorah/Shabbos HaGadol: Veggies for the Dipping](https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping),"
 What's in a Word?, Ohr Somayach, 12 Nissan 5784 (2024-04-20): raw text in
 `sources/whats-in-a-word/raw/11353-metzorahshabbos-hagadol-veggies-for-the-dipping.md`.
 Primary loci cited: *Pesachim* 10:3-4 with Rashi to Pesachim 114a; *Berachos*

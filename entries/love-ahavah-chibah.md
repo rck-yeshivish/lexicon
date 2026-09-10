@@ -204,7 +204,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "True Love (Part 1/2)," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[True Love (Part 1/2)](https://articles.ohr.edu/articles/true-love-part-12)," What's in a Word?, Ohr Somayach,
 27 Cheshvan 5784 (2023-11-11), and "True Love (Part 2/2)," 5 Kislev 5784
 (2023-11-18): raw text in `sources/whats-in-a-word/raw/10714-true-love-part-12.md`
 and `sources/whats-in-a-word/raw/10983-true-love-part-22.md`. Primary loci: Rav

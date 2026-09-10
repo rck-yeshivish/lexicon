@@ -153,7 +153,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vaera: The Trick of Magi," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vaera: The Trick of Magi](https://articles.ohr.edu/articles/vaera-the-trick-of-magi)," What's in a Word?, Ohr
 Somayach, 28 Teves 5783 (2023-01-21): raw text in
 `sources/whats-in-a-word/raw/10804-vaera-the-trick-of-magi.md`. Primary loci:
 Shemos 7:11, 7:22, 8:3, 8:14-15; Bereishis 3:24; Sanhedrin 67b with Rashi;

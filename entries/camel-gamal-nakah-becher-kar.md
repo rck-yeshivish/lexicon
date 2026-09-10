@@ -209,7 +209,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayishlach: Go Camel," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayishlach: Go Camel](https://articles.ohr.edu/articles/vayishlach-go-camel)," What's in a Word?, Ohr
 Somayach, 13 Kislev 5785 (2024-12-14): raw text in
 `sources/whats-in-a-word/raw/11619-vayishlach-go-camel.md`. Primary loci:
 Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16; Vayikra 11:18; Bamidbar 1:10,

@@ -125,7 +125,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Rain, Rain Come Again," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Rain, Rain Come Again](https://articles.ohr.edu/articles/rain-rain-come-again)," What's in a Word?, Ohr
 Somayach, 17 Tammuz 5776 (2016-07-23): raw text in
 `sources/whats-in-a-word/raw/6861-rain-rain-come-again.md`. Primary loci cited:
 Devarim 11:14 (the second parashah of Shema); Bereishis 19:24; Shemos 9:18;

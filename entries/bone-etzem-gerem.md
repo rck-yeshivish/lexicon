@@ -188,20 +188,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Them Bones and Themselves," What's in a Word?, Ohr
-Somayach, 14 Teves 5783 (2023-01-07): raw text in
-`sources/whats-in-a-word/raw/10785-them-bones-and-themselves.md`. Primary loci
-the article cites: Bereishis 7:13, 26:16, 30:14-18, 49:9, 49:14, 49:17, 49:21,
-49:27, 50:25; Shemos 1:7, 1:9, 12:41, 13:19, 24:10; Vayikra 23:28; Bamidbar 24:8;
-Devarim 25:4; Shmuel I 22:22; Melachim II 9:13; Yeshayahu 29:10, 33:15, 40:29,
-41:21; Yechezkel 23:34; Mishlei 15:30, 17:22, 25:15; Tehillim 38:20, 139:15;
-Iyov 10:11; Eichah 4:7; Daniel 6:25; *Niddah* 31a; *Chullin* 9a, 89b; *Mishnah
-Negaim* 2:1; *Sefer HeAruch* s.v. *chamra*; *Machberes Menachem*; *Shenos
-Eliyahu* to *Negaim* 2:1; *Maggid Mishnah*, Hilchos *Shechitah* 3:12. The
-article prints Vayikra 23:28 for Ramban on a thing's *etzem*; the Ramban there is
-on the *etzem hayom hazeh* of Yom Kippur, which is the same usage under
-discussion. The article also introduces "a soft tongue breaks a *gerem*" as
-Iyov's, though it gives the correct locus, Mishlei 25:15; and it says both that
-Rachel traded her night for the *dudaim* and, later, that she traded the
-*dudaim* to Leah, so the entry does not follow it on the direction of that
-trade.
+Rabbi Reuven Chaim Klein, "[Them Bones and Themselves](https://articles.ohr.edu/articles/them-bones-and-themselves)," *What's in a Word?*, Ohr Somayach, 7 January 2023.
+
+Cited in the essay: Bereishis 7:13, 26:16, 30:14-18, 49:9, 49:14, 49:17, 49:21, 49:27, 50:25; Shemos 1:7, 1:9, 12:41, 13:19, 24:10; Vayikra 23:28 with Ramban; Bamidbar 24:8; Devarim 25:4; Shmuel I 22:22; Melachim II 9:13; Yeshayahu 29:10, 33:15, 40:29, 41:21; Yechezkel 23:34; Mishlei 15:30, 17:22, 25:15; Tehillim 38:20, 139:15; Iyov 10:11; Eichah 4:7; Daniel 6:25; *Niddah* 31a; *Chullin* 9a, 89b; *Mishnah Negaim* 2:1; *Sefer HeAruch* s.v. *chamra*; *Machberes Menachem*; *Shenos Eliyahu* to *Negaim* 2:1; *Maggid Mishnah*, Hilchos *Shechitah* 3:12.

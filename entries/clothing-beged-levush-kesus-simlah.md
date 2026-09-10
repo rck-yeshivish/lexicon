@@ -142,7 +142,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "My Clothes and Me," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[My Clothes and Me](https://articles.ohr.edu/articles/my-clothes-and-me)," What's in a Word?, Ohr Somayach,
 9 Adar II 5778 (2018-02-24): raw text in
 `sources/whats-in-a-word/raw/7658-my-clothes-and-me.md`. Primary loci cited:
 Bereishis 49:11 for *sus* (the article prints 41:11, where the word does not

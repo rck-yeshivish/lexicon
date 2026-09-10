@@ -175,7 +175,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Prime Property," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Prime Property](https://articles.ohr.edu/articles/prime-property)," What's in a Word?, Ohr Somayach,
 11 Cheshvan 5783 (2022-11-05): raw text in
 `sources/whats-in-a-word/raw/10695-prime-property.md`. Primary loci cited:
 Bereishis 12:5, 13:2, 13:6, 14:11, 14:12, 14:16, 14:18, 14:21, 15:14, 31:18,

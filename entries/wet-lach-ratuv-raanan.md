@@ -180,7 +180,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Titzaveh: Wet Words," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Titzaveh: Wet Words](https://articles.ohr.edu/articles/titzaveh-wet-words)," What's in a Word?, Ohr
 Somayach, 15 Adar I 5784 (2024-02-24):
 https://articles.ohr.edu/articles/titzaveh-wet-words; raw text in
 `sources/whats-in-a-word/raw/11276-titzaveh-wet-words.md`. Primary loci cited:

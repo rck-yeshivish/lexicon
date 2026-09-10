@@ -237,7 +237,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bereishit: Sleepy Words (Part 1/2)," What's in a
+Rabbi Reuven Chaim Klein, "[Bereishit: Sleepy Words (Part 1/2)](https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12)," What's in a
 Word?, Ohr Somayach, 29 Tishrei 5784 (2023-09-25),
 https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12, and "Sleepy
 Words (Part 2/2)," 6 Cheshvan 5784 (2023-10-19),

@@ -95,7 +95,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Divine Dictator or Populist King?", What's in a
+Rabbi Reuven Chaim Klein, "[Divine Dictator or Populist King?](https://articles.ohr.edu/articles/divine-dictator-or-populist-king)", What's in a
 Word?, Ohr Somayach, 9 Av 5776 (2016-08-13): raw text in
 `sources/whats-in-a-word/raw/6893-divine-dictator-or-populist-king.md`. Primary
 loci cited: Bereishis 37:8; Pirkei d'Rabbi Eliezer ch. 16; Shoftim 8:22; Rosh

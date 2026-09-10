@@ -145,7 +145,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Acharei Mos/Kedoshim: The Watchers and Guardians,"
+Rabbi Reuven Chaim Klein, "[Acharei Mos/Kedoshim: The Watchers and Guardians](https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians),"
 What's in a Word?, Ohr Somayach, 10 May 2025 / 12 Iyar 5785: raw text in
 `sources/whats-in-a-word/raw/11813-acharei-moskedoshim-the-watchers-and-guardians.md`.
 Primary loci cited: Vayikra 19:18 with Rashi and Malbim; Shemos 22:6; Bereishis

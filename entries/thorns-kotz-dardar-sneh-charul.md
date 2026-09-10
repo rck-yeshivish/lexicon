@@ -216,7 +216,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Of Thorns and Thistles," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Of Thorns and Thistles](https://articles.ohr.edu/articles/of-thorns-and-thistles)," What's in a Word?, Ohr
 Somayach, 9 Av 5782 (2022-08-06): raw text in
 `sources/whats-in-a-word/raw/9809-of-thorns-and-thistles.md`. The frame is
 Rabbi Shlomo of Urbino, *Ohel Moed*, with Rashi to Yechezkel 2:6 and Rabbi

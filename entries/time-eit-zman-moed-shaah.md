@@ -123,7 +123,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Elul 1: Trends in Time," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Elul 1: Trends in Time](https://articles.ohr.edu/articles/elul-1-trends-in-time)," What's in a Word?, Ohr
 Somayach, 11 Elul 5777 (2017-09-02): raw text in
 `sources/whats-in-a-word/raw/7396-elul-1-trends-in-time.md`. Authorities and
 loci the article cites: Rabbi Moshe Shapiro (*zman* and *mizuman*); Rabbi

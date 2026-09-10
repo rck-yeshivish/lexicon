@@ -105,7 +105,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Of Corpses and Carcasses," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Of Corpses and Carcasses](https://articles.ohr.edu/articles/of-corpses-and-carcasses)," What's in a Word?, Ohr
 Somayach, 26 Sivan 5778 (2018-06-09):
 https://articles.ohr.edu/articles/of-corpses-and-carcasses, raw text in
 `sources/whats-in-a-word/raw/7788-of-corpses-and-carcasses.md`. Primary loci

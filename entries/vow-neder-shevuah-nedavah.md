@@ -112,7 +112,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Of Oaths and Promises," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Of Oaths and Promises](https://articles.ohr.edu/articles/of-oaths-and-promises)," What's in a Word?, Ohr
 Somayach, 28 Elul 5776 (2016-10-01): raw text in
 `sources/whats-in-a-word/raw/6963-of-oaths-and-promises.md`. Primary loci
 cited: Bamidbar 30:3; Nedarim 2b; Mishlei 18:21; the third of the Aseres

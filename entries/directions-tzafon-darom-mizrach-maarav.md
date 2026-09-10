@@ -109,7 +109,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Looking Four Directions," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Looking Four Directions](https://articles.ohr.edu/articles/looking-four-directions)," What's in a Word?, Ohr
 Somayach, 3 Kislev 5777 (2016-12-03):
 https://articles.ohr.edu/articles/looking-four-directions, raw text in
 `sources/whats-in-a-word/raw/7029-looking-four-directions.md`. Primary loci

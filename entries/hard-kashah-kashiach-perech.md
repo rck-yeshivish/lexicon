@@ -132,7 +132,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shemot: Hard Work and Hard Hearts," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Shemot: Hard Work and Hard Hearts](https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts)," What's in a Word?,
 Ohr Somayach, 25 Teves 5781 (2021-01-09):
 https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts; raw text in
 `sources/whats-in-a-word/raw/9005-shemot-hard-work-and-hard-hearts.md`. Primary

@@ -231,7 +231,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Emor: A Window into Widows (Part 1/2)," What's in a
+Rabbi Reuven Chaim Klein, "[Emor: A Window into Widows (Part 1/2)](https://articles.ohr.edu/articles/emor-a-window-into-widows-part-12)," What's in a
 Word?, Ohr Somayach, 19 Iyar 5785 (2025-05-17), and "Behar/Bechukosai: A Window
 into Widows (Part 2/2)," 26 Iyar 5785 (2025-05-24): raw texts in
 `sources/whats-in-a-word/raw/11817-emor-a-window-into-widows-part-12.md` and

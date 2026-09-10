@@ -148,7 +148,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Remembering the Wall," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Remembering the Wall](https://articles.ohr.edu/articles/remembering-the-wall)," What's in a Word?, Ohr
 Somayach, 4 Av 5780 (2020-07-25):
 https://articles.ohr.edu/articles/remembering-the-wall, raw text in
 `sources/whats-in-a-word/raw/8373-remembering-the-wall.md`. Loci cited:

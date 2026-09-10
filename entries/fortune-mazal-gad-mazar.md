@@ -165,7 +165,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayetzei: Gad Luck to You," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayetzei: Gad Luck to You](https://articles.ohr.edu/articles/vayetzei-gad-luck-to-you)," What's in a Word?, Ohr
 Somayach, 2 Kislev 5783 (2022-11-26): raw text in
 `sources/whats-in-a-word/raw/10730-vayetzei-gad-luck-to-you.md`. Primary loci:
 Bereishis 30:11 with Rashi; Melachim II 23:5; Yeshayahu 65:11; Iyov 38:32 with

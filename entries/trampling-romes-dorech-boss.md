@@ -174,7 +174,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Don't Trample On Me," What's in a Word?, Ohr Somayach, 4 Av
+Rabbi Reuven Chaim Klein, "[Don't Trample On Me](https://articles.ohr.edu/articles/dont-trample-on-me)," What's in a Word?, Ohr Somayach, 4 Av
 5783 (2023-07-22): raw text in `sources/whats-in-a-word/raw/11024-dont-trample-on-me.md`.
 Primary loci cited: Yeshayahu 1:12, 14:19, 14:25, 16:10, 63:2, 63:6, 63:18; Bereishis
 1:21 (Rav Hirsch), 1:25 (Ramban); Devarim 11:24, 33:29; Yehoshua 1:3; Michah 6:15; Amos

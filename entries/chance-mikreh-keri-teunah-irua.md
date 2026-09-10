@@ -167,8 +167,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bamidbar/Shavuot: Coincidence or Happenstance?
-(Part 1/2)," 4 Sivan 5785 (2025-05-31), and "Naso: Coincidence or Happenstance?
+Rabbi Reuven Chaim Klein, "[Bamidbar/Shavuot: Coincidence or Happenstance?
+(Part 1/2)](https://articles.ohr.edu/articles/bamidbarshavuot-coincidence-or-happenstance-part-12)," 4 Sivan 5785 (2025-05-31), and "Naso: Coincidence or Happenstance?
 (Part 2/2)," 11 Sivan 5785 (2025-06-07), What's in a Word?, Ohr Somayach: raw text
 in `sources/whats-in-a-word/raw/11821-bamidbarshavuot-coincidence-or-happenstance-part-12.md` and `sources/whats-in-a-word/raw/11822-naso-coincidence-or-happenstance-part-22.md`.
 Primary loci cited: Vayikra 26:14-46 with Megillah 31b; Rabbi Shlomo

@@ -106,7 +106,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Hats and Belts," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Hats and Belts](https://articles.ohr.edu/articles/hats-and-belts)," What's in a Word?, Ohr Somayach,
 25 March 2017 / 27 Adar II 5777: raw text in
 `sources/whats-in-a-word/raw/7195-hats-and-belts.md`. Primary loci: Mishnah Yoma
 7:5; Yoma 71b with *Tosafos HaRosh*; Shemos 28:4, 28:40; Shmuel I 17:5,

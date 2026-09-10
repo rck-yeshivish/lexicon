@@ -160,15 +160,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Ki Savo: No More Boils," What's in a Word?, Ohr Somayach, 18
-Elul 5784 (2024-09-21): raw text in
-`sources/whats-in-a-word/raw/11523-ki-savo-no-more-boils.md`. Primary loci cited: Shemos
-9:8-12, 16:21; Vayikra 13:18-23, 21:20, 22:22; Devarim 28:15-69, 28:27, 28:35; Shoftim
-8:13, 14:18, 16:29; Rus 3:8; Shmuel II 23:38; Melachim I 1:1; Melachim II 20:7; Yeshayahu
-38:21, 44:16; Yirmiyahu 31:38; Divrei HaYamim I 11:40; Koheles 4:11; Iyov 2:7-8, 9:7,
-37:17; Bereishis 30:32 with Onkelos; Yoma 53b; Bechoros 41a with Rashi and
-*Chok Nasan*; Chullin 8a; Mishnah Nega'im 9:1, Yoma 5:1, Terumos 10:8; Bedersi, *Chosam
-Tochnis*; *HaKsav VeHaKabbalah*; *Shoresh Yesha*; Pappenheim, *Cheshek Shlomo*; David A.
-Clines' dictionary of Biblical Hebrew; Rabbi Ernest Klein's etymological dictionaries.
-The article's fuller lists of loci for Pappenheim's *lefes* and *shachas* words are not
-reproduced here.
+Rabbi Reuven Chaim Klein, "[Ki Savo: No More Boils](https://articles.ohr.edu/articles/ki-savo-no-more-boils)," *What's in a Word?*, Ohr Somayach, 21 September 2024.
+
+Cited in the essay: Shemos 9:8-12, 16:21; Vayikra 13:18-23, 21:20, 22:22; Devarim 28:15-69, 28:27, 28:35; Shoftim 8:13, 14:18, 16:29; Rus 3:8; Shmuel II 23:38; Melachim I 1:1; Melachim II 20:7; Yeshayahu 38:21, 44:16; Yirmiyahu 31:38; Divrei HaYamim I 11:40; Koheles 4:11; Iyov 2:7-8, 9:7, 37:17; Bereishis 30:32 with Onkelos; Yoma 53b; Bechoros 41a with Rashi and *Chok Nasan*; Chullin 8a; Mishnah Nega'im 9:1, Yoma 5:1, Terumos 10:8; Bedersi, *Chosam Tochnis*; *HaKsav VeHaKabbalah*; *Shoresh Yesha*; Pappenheim, *Cheshek Shlomo*; David A. Clines' dictionary of Biblical Hebrew; Rabbi Ernest Klein's etymological dictionaries.

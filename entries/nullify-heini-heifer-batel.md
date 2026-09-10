@@ -111,7 +111,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Null and Void," What's in a Word?, Ohr Somayach, 2
+Rabbi Reuven Chaim Klein, "[Null and Void](https://articles.ohr.edu/articles/null-and-void)," What's in a Word?, Ohr Somayach, 2
 Av 5778 (2018-07-14): raw text in
 `sources/whats-in-a-word/raw/7851-null-and-void.md`. Primary loci cited:
 Bamidbar 30 (the parashah of *hafaras nedarim*, with Rashi and Ibn Ezra to

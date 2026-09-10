@@ -179,7 +179,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Voeschanan - A Time to Whistle," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Voeschanan - A Time to Whistle](https://articles.ohr.edu/articles/voeschanan-a-time-to-whistle)," What's in a Word?,
 Ohr Somayach, 15 Av 5785 (2025-08-09): raw text in
 `sources/whats-in-a-word/raw/11898-voeschanan-a-time-to-whistle.md`. Primary
 loci: Bereishis 49:11; Vayikra 11:18, 14:4; Devarim 14:17; Melachim I 9:8;

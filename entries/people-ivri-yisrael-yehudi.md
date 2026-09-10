@@ -141,7 +141,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Names of a People," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Names of a People](https://articles.ohr.edu/articles/names-of-a-people)," What's in a Word?, Ohr Somayach,
 11 Cheshvan 5779 (2018-10-20): raw text in
 `sources/whats-in-a-word/raw/7961-names-of-a-people.md`. Primary loci cited:
 Bereishis 11:21-24, 14:13-14, 29:35; Shemos 21:6; *Bereishis Rabbah* 42:8;

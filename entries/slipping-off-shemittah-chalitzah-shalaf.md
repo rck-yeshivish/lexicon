@@ -197,7 +197,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Year of Slipping Away (Part 1 of 2)," What's in a
+Rabbi Reuven Chaim Klein, "[The Year of Slipping Away (Part 1 of 2)](https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2)," What's in a
 Word?, Ohr Somayach, 13 Iyar 5782 (2022-05-14): raw text in
 `sources/whats-in-a-word/raw/9682-the-year-of-slipping-away-part-1-of-2.md`. Part
 2, "The Year of Seven," treats *sheviis* and the words built on *sheva*; see the

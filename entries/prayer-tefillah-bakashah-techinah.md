@@ -97,7 +97,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Say your Prayers," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Say your Prayers](https://articles.ohr.edu/articles/say-your-prayers)," What's in a Word?, Ohr Somayach,
 16 Teves 5777 (2017-01-14): https://articles.ohr.edu/articles/say-your-prayers;
 raw text in `sources/whats-in-a-word/raw/7090-say-your-prayers.md`. Primary loci:
 Bereishis 48:22 and 27:22; *Bava Basra* 123a; Targum Onkelos to Bereishis 48:22.

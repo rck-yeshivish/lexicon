@@ -282,7 +282,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Tetzaveh/Purim: Do the Din," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Tetzaveh/Purim: Do the Din](https://articles.ohr.edu/articles/tetzavehpurim-do-the-din)," What's in a Word?,
 Ohr Somayach, 8 Adar 5785 (2025-03-08): raw text in
 `sources/whats-in-a-word/raw/11715-tetzavehpurim-do-the-din.md`. Primary loci:
 Esther 1:8, 1:13, 1:15, 3:8, 3:15, 8:14; Ezra 8:36; Bereishis 37:17; Bamidbar
@@ -298,7 +298,7 @@ Esther locus of the opening as "Est. 1-13," meaning 1:13. The comparative and
 academic material the article carries (Gesenius, Even-Shoshan, Yaron, Noonan)
 is reported here as the article reports it.
 
-Rabbi Reuven Chaim Klein, "Laws and Orders," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Laws and Orders](https://articles.ohr.edu/articles/laws-and-orders)," What's in a Word?, Ohr Somayach,
 3 Tammuz 5779 (2019-07-06): raw text in
 `sources/whats-in-a-word/raw/8315-laws-and-orders.md`. Primary loci: Bamidbar
 19:2; Shemos 15:25, 5:14, 12:14, 30:21; Vayikra 3:16, 18:4-5, 23:14 with Yoma

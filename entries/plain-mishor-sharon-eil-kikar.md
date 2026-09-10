@@ -211,7 +211,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayeitzei: Name of the Plain," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayeitzei: Name of the Plain](https://articles.ohr.edu/articles/vayeitzei-name-of-the-plain)," What's in a Word?, Ohr
 Somayach, 6 Kislev 5785 (2024-12-07): raw text in
 `sources/whats-in-a-word/raw/11608-vayeitzei-name-of-the-plain.md`. Primary
 loci: Bereishis 12:6, 13:10-11, 13:18, 14:6, 14:13, 18:1, 25:20, 49:21;

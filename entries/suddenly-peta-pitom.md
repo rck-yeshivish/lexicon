@@ -162,7 +162,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "When Suddenly…," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[When Suddenly…](https://articles.ohr.edu/articles/when-suddenlyaeur)," What's in a Word?, Ohr Somayach,
 26 Tammuz 5780 (2020-07-18):
 https://articles.ohr.edu/articles/when-suddenlyaeur; raw text in
 `sources/whats-in-a-word/raw/8790-when-suddenlyaeur.md`. Primary loci cited:

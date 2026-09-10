@@ -118,7 +118,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Indulging in Pleasure," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Indulging in Pleasure](https://articles.ohr.edu/articles/indulging-in-pleasure)," What's in a Word?, Ohr Somayach,
 19 Sivan 5779 (2019-06-22): raw text in
 `sources/whats-in-a-word/raw/8295-indulging-in-pleasure.md`. Primary loci the
 article cites: Pappenheim's root analyses of ע-ד, ע-נ-ג and פ-נ-ק; Bereishis 18:12

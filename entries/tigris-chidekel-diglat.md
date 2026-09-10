@@ -185,7 +185,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Devarim: The Sharp River," What's in a Word?, Ohr Somayach, 8
+Rabbi Reuven Chaim Klein, "[Devarim: The Sharp River](https://articles.ohr.edu/articles/devarim-the-sharp-river)," What's in a Word?, Ohr Somayach, 8
 Av 5785 (2025-08-02): raw text in
 `sources/whats-in-a-word/raw/11903-devarim-the-sharp-river.md`. Primary loci cited:
 Bereishis 2:11, 2:14, 10:22; Shemos 23:31; Bamidbar 1:52, 34:12; Devarim 1:7; Melachim

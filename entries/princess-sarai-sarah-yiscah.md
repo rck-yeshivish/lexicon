@@ -188,7 +188,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Lech Lecha: The Princess' Gaze (Part 1/2)," 8
+Rabbi Reuven Chaim Klein, "[Lech Lecha: The Princess' Gaze (Part 1/2)](https://articles.ohr.edu/articles/lech-lecha-the-princess-gaze-part-12)," 8
 Cheshvan 5785 (2024-11-09), and "Vayera: The Princess' Gaze (Part 2/2)," 15
 Cheshvan 5785 (2024-11-16), What's in a Word?, Ohr Somayach; raw texts at
 `sources/whats-in-a-word/raw/11580-lech-lecha-the-princess-gaze-part-12.md` and

@@ -180,7 +180,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Ki Tisa: Remember Forever," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Ki Tisa: Remember Forever](https://articles.ohr.edu/articles/ki-tisa-remember-forever)," What's in a Word?, Ohr
 Somayach, 22 Adar 5781 (2021-03-06):
 https://articles.ohr.edu/articles/ki-tisa-remember-forever, raw text in
 `sources/whats-in-a-word/raw/9110-ki-tisa-remember-forever.md`. Primary loci

@@ -103,7 +103,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Maybe Yes, Maybe No," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Maybe Yes, Maybe No](https://articles.ohr.edu/articles/maybe-yes-maybe-no)," What's in a Word?, Ohr
 Somayach, 11 November 2017 (22 Cheshvan 5778):
 https://articles.ohr.edu/articles/maybe-yes-maybe-no; raw text in
 `sources/whats-in-a-word/raw/7483-maybe-yes-maybe-no.md`. Primary loci: Rabbi

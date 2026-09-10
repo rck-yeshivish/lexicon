@@ -229,7 +229,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayeshev: Mercantile Man," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayeshev: Mercantile Man](https://articles.ohr.edu/articles/vayeshev-mercantile-man)," What's in a Word?, Ohr
 Somayach, 26 Kislev 5784 (2023-12-09): raw text in
 `sources/whats-in-a-word/raw/11160-vayeshev-mercantile-man.md`. Three slips in
 the article, corrected here rather than repeated: it prints *secharchar* as

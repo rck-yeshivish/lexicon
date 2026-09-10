@@ -139,7 +139,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bovine Words: Cows and Cowboys," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Bovine Words: Cows and Cowboys](https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys)," What's in a Word?,
 Ohr Somayach, 17 Tammuz 5779 (2019-07-20),
 https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys; raw text in
 `sources/whats-in-a-word/raw/8333-bovine-words-cows-and-cowboys.md`. Primary loci

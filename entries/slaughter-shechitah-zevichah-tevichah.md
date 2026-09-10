@@ -119,7 +119,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Slaughtering and Butchering," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Slaughtering and Butchering](https://articles.ohr.edu/articles/slaughtering-and-butchering)," What's in a Word?, Ohr
 Somayach, 30 Kislev 5779 (2018-12-08): raw text in
 `sources/whats-in-a-word/raw/8023-slaughtering-and-butchering.md`. Primary loci
 cited: Bereishis 43:16, 37:36; Shemos 21:37, 22:3; Vayikra 1:1 (Ralbag);

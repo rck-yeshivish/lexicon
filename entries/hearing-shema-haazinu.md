@@ -93,7 +93,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Listen Up!", What's in a Word?, Ohr Somayach, 10
+Rabbi Reuven Chaim Klein, "[Listen Up!](https://articles.ohr.edu/articles/listen-up)", What's in a Word?, Ohr Somayach, 10
 Tammuz 5776 (2016-07-16); raw text at
 `sources/whats-in-a-word/raw/6850-listen-up.md`. Primary loci cited: Devarim 32:1
 and 6:4; Yeshayahu 1:2; Bamidbar 12:8; *Sifrei* to parashas Haazinu; Chizkuni,

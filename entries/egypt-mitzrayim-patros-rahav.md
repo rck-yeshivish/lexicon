@@ -180,7 +180,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Tzav-Pesach: Escape from Patros," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Tzav-Pesach: Escape from Patros](https://articles.ohr.edu/articles/tzav-pesach-escape-from-patros)," What's in a Word?,
 Ohr Somayach, 10 Nisan 5783 (2023-04-01): raw text in
 `sources/whats-in-a-word/raw/10890-tzav-pesach-escape-from-patros.md`. Primary
 loci cited: Bereishis 10:6, 10:13 to 14, 13:10, 40:23, 43:32; Divrei HaYamim I

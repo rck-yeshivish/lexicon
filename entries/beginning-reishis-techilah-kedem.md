@@ -179,6 +179,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bereishis: In the Beginning...," *What's in a Word?*, Ohr Somayach, 26 October 2024.
+Rabbi Reuven Chaim Klein, "[Bereishis: In the Beginning...](https://articles.ohr.edu/articles/bereishis-in-the-beginning)," *What's in a Word?*, Ohr Somayach, 26 October 2024.
 
-Loci: Bereishis 1:1, 33:2, 46:21; Bamidbar 10:10, 15:20-21, 28:11, 31:49; Devarim 11:12, 18:4, 29:17, 32:32-33; Yeshayahu 1:26, 44:6; Yirmiyahu 2:3, 8:14; Yechezkel 40:1; Hoshea 1:2; Tehillim 111:10, 139:17; Mishlei 8:22, 9:10; Iyov 8:8, 20:16, 22:12; Eichah 3:19; Shemos 30:12; Chullin 136b; Avos 3:17; *Yalkut Shimoni* to Yeshayahu 391; *Machberes Menachem*; *Yerios Shlomo*; *Meromei Sadeh*; *Nesivos Olam*, *Nesiv Yiras Hashem* ch. 1; *Sefer HaCarmel*; Even-Shoshan's concordance.
+Cited in the essay: Bereishis 1:1, 33:2, 46:21; Bamidbar 10:10, 15:20-21, 28:11, 31:49; Devarim 11:12, 18:4, 29:17, 32:32-33; Yeshayahu 1:26, 44:6; Yirmiyahu 2:3, 8:14; Yechezkel 40:1; Hoshea 1:2; Tehillim 111:10, 139:17; Mishlei 8:22, 9:10; Iyov 8:8, 20:16, 22:12; Eichah 3:19; Shemos 30:12; Chullin 136b; Avos 3:17; *Yalkut Shimoni* to Yeshayahu 391; *Machberes Menachem*; *Yerios Shlomo*; *Meromei Sadeh*; *Nesivos Olam*, *Nesiv Yiras Hashem* ch. 1; *Sefer HaCarmel*; Even-Shoshan's concordance.

@@ -170,7 +170,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Ovine and Caprine Families," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[The Ovine and Caprine Families](https://articles.ohr.edu/articles/the-ovine-and-caprine-families)," What's in a Word?,
 Ohr Somayach, 9 Kislev 5780 (2019-12-07):
 https://articles.ohr.edu/articles/the-ovine-and-caprine-families; raw text in
 `sources/whats-in-a-word/raw/8505-the-ovine-and-caprine-families.md`. Primary

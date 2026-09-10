@@ -175,7 +175,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Behar - Bechukotai: Settled Citizens," What's in a
+Rabbi Reuven Chaim Klein, "[Behar - Bechukotai: Settled Citizens](https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens)," What's in a
 Word?, Ohr Somayach, 26 Iyar 5781 (2021-05-08): raw text in
 `sources/whats-in-a-word/raw/9199-behar-bechukotai-settled-citizens.md`.
 Primary loci cited: Bereishis 15:13, 23:4, 32:5, 47:4; Shemos 12:45, 18:3,

@@ -127,7 +127,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Running on Willpower," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Running on Willpower](https://articles.ohr.edu/articles/running-on-willpower)," What's in a Word?, Ohr
 Somayach, 28 Teves 5780 (2020-01-25): raw text in
 `sources/whats-in-a-word/raw/8573-running-on-willpower.md`. Primary loci the
 column cites: Targum Onkelos to Bereishis 34:8, 34:19 and Devarim 7:7, 21:11,

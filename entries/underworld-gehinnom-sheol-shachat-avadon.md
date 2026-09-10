@@ -160,7 +160,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Names of the Underworld," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Names of the Underworld](https://articles.ohr.edu/articles/names-of-the-underworld)," What's in a Word?, Ohr
 Somayach, 26 Sivan 5779 (2019-06-29): raw text in
 `sources/whats-in-a-word/raw/8304-names-of-the-underworld.md`. Primary loci
 cited: Eruvin 19a (Rabbi Yehoshua ben Levi's seven, and the Gemara on *gehinnom*

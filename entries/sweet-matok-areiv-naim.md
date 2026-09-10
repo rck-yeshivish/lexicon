@@ -141,7 +141,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Sweet and Pleasant," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Sweet and Pleasant](https://articles.ohr.edu/articles/sweet-and-pleasant)," What's in a Word?, Ohr
 Somayach, 11 Shevat 5778 (2018-01-27):
 https://articles.ohr.edu/articles/sweet-and-pleasant; raw text in
 `sources/whats-in-a-word/raw/7611-sweet-and-pleasant.md`. Primary loci cited:

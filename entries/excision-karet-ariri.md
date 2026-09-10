@@ -114,7 +114,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Karet and Ariri," What's in a Word?, Ohr Somayach, 27
+Rabbi Reuven Chaim Klein, "[Karet and Ariri](https://articles.ohr.edu/articles/karet-and-ariri)," What's in a Word?, Ohr Somayach, 27
 Iyar 5779 (2019-06-01), https://articles.ohr.edu/articles/karet-and-ariri; raw
 text in `sources/whats-in-a-word/raw/8271-karet-and-ariri.md`. Primary loci:
 Mishnah Kerisos 1:1; Devarim 24:1; Pappenheim, *Yerios Shlomo* and *Cheshek

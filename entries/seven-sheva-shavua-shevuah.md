@@ -208,7 +208,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Year of Seven (Part 2 of 2)," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[The Year of Seven (Part 2 of 2)](https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2)," What's in a Word?,
 Ohr Somayach, 20 Iyar 5782 (2022-05-21): raw text in
 `sources/whats-in-a-word/raw/9694-the-year-of-seven-part-2-of-2.md`. The article
 says its first essay treated *shemittah*, "slipping away"; that piece is in this

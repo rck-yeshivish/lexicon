@@ -150,7 +150,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Smooth Sliding and Glad Gliding," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Smooth Sliding and Glad Gliding](https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding)," What's in a Word?,
 Ohr Somayach, 2 Kislev 5780 (2019-11-30):
 https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding; raw text in
 `sources/whats-in-a-word/raw/8497-smooth-sliding-and-glad-gliding.md`. Primary

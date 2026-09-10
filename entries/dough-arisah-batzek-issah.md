@@ -122,7 +122,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Kneading the Dough," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Kneading the Dough](https://articles.ohr.edu/articles/kneading-the-dough)," What's in a Word?, Ohr
 Somayach, 21 Sivan 5780 (2020-06-13):
 https://articles.ohr.edu/articles/kneading-the-dough, raw text in
 `sources/whats-in-a-word/raw/8744-kneading-the-dough.md`. Primary loci cited:

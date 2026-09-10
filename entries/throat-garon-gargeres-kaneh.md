@@ -211,7 +211,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Gorgeous Windpipe," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Gorgeous Windpipe](https://articles.ohr.edu/articles/the-gorgeous-windpipe)," What's in a Word?, Ohr
 Somayach, 26 Sivan 5782 (2022-06-25): raw text in
 `sources/whats-in-a-word/raw/9745-the-gorgeous-windpipe.md`. Primary loci the
 article cites: Yeshayahu 3:16, 58:1; Yirmiyahu 2:25; Yechezkel 16:11; Tehillim

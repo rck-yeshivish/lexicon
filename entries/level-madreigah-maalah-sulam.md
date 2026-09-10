@@ -139,7 +139,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Yisro: Stairs to Above," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Yisro: Stairs to Above](https://articles.ohr.edu/articles/yisro-stairs-to-above)," What's in a Word?, Ohr
 Somayach, 24 Shevat 5784 (2024-02-03): raw text in
 `sources/whats-in-a-word/raw/11245-yisro-stairs-to-above.md`. Primary loci the
 article cites: Shemos 20:23 with Rambam, Hilchos Beis HaBechirah 1:17; Sukkah

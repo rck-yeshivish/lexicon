@@ -162,7 +162,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Chukas: The Right Site," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Chukas: The Right Site](https://articles.ohr.edu/articles/chukas-the-right-site)," What's in a Word?, Ohr
 Somayach, 28 Sivan 5783 (2023-06-17): raw text in
 `sources/whats-in-a-word/raw/10994-chukas-the-right-site.md`. Primary loci the
 article cites: Bamidbar 21:1; *Eichah Rabbah* 1:21; Ibn Janach and Radak, *Sefer

@@ -189,7 +189,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Beautiful Citron," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Beautiful Citron](https://articles.ohr.edu/articles/the-beautiful-citron)," What's in a Word?, Ohr
 Somayach, 28 Elul 5782 (2022-09-24):
 https://articles.ohr.edu/articles/the-beautiful-citron; raw text in
 `sources/whats-in-a-word/raw/10055-the-beautiful-citron.md`. Primary loci cited:

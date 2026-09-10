@@ -119,7 +119,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Old Man and the See," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Old Man and the See](https://articles.ohr.edu/articles/the-old-man-and-the-see)," What's in a Word?, Ohr
 Somayach, 25 Cheshvan 5780 (2019-11-23):
 https://articles.ohr.edu/articles/the-old-man-and-the-see; raw text in
 `sources/whats-in-a-word/raw/8487-the-old-man-and-the-see.md`. Primary loci

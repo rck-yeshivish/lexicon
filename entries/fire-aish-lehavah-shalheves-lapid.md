@@ -128,7 +128,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Playing with Fire," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Playing with Fire](https://articles.ohr.edu/articles/playing-with-fire-2)," What's in a Word?, Ohr Somayach,
 23 Kislev 5779 (2018-12-01): raw text in
 `sources/whats-in-a-word/raw/8007-playing-with-fire-2.md`. Primary loci cited:
 Ovadiah 1:18; Shemos 7:11, 7:22, 8:3, 26:17; Melachim I 7:29; Nachum 2:4 (Radak);

@@ -207,7 +207,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Emor: Getting Stoned," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Emor: Getting Stoned](https://articles.ohr.edu/articles/emor-getting-stoned)," What's in a Word?, Ohr
 Somayach, 15 Iyar 5783 (2023-05-06): raw text in
 `sources/whats-in-a-word/raw/10935-emor-getting-stoned.md`. Primary loci cited:
 Vayikra 20:2, 20:27, 24:10-23; Shemos 17:4, 19:13, 21:28-29, 21:32, 26:1;

@@ -112,7 +112,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Lost or Mistaken," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Lost or Mistaken](https://articles.ohr.edu/articles/lost-or-mistaken)," What's in a Word?, Ohr Somayach,
 3 Tammuz 5778 (2018-06-16): https://articles.ohr.edu/articles/lost-or-mistaken,
 raw text in `sources/whats-in-a-word/raw/7804-lost-or-mistaken.md`. Primary loci
 cited: Bereishis 21:14 with Targum Onkelos; Pirkei DeRabbi Eliezer ch. 30 with

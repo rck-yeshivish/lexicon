@@ -262,7 +262,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Power to Hold Back," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Power to Hold Back](https://articles.ohr.edu/articles/the-power-to-hold-back)," What's in a Word?, Ohr
 Somayach, 8 Tishrei 5781 (2020-09-26), raw text in
 `sources/whats-in-a-word/raw/8868-the-power-to-hold-back.md`; and "The Strong
 Ones," 23 Elul 5780 (2020-09-12), raw text in

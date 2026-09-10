@@ -216,7 +216,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Yom Kippur: Shake & Quake (Pt. 2/3)," 10 Tishrei 5785
+Rabbi Reuven Chaim Klein, "[Yom Kippur: Shake & Quake (Pt. 2/3)](https://articles.ohr.edu/articles/yom-kippur-shake-quake-pt-23)," 10 Tishrei 5785
 (2024-10-12), and "Sukkot: Shake & Quake (Pt. 3/3)," 17 Tishrei 5785
 (2024-10-19), What's in a Word?, Ohr Somayach; raw texts in
 `sources/whats-in-a-word/raw/11526-yom-kippur-shake-quake-pt-23.md` and

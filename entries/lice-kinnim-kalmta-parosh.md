@@ -193,7 +193,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "VaEra: Lice Ain't Nice," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[VaEra: Lice Ain't Nice](https://articles.ohr.edu/articles/vaera-lice-aint-nice)," What's in a Word?, Ohr
 Somayach, 25 Teves 5785 (2025-01-25): raw text in
 `sources/whats-in-a-word/raw/11666-vaera-lice-aint-nice.md`. Primary loci cited:
 Shemos 8:12 to 14 with Rashbam, Ibn Ezra, and Rav Hirsch; Tehillim 105:31;

@@ -122,7 +122,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Prophets and Visionaries," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Prophets and Visionaries](https://articles.ohr.edu/articles/prophets-and-visionaries)," What's in a Word?, Ohr
 Somayach, 21 Teves 5779 (2018-12-29): raw text in
 `sources/whats-in-a-word/raw/8052-prophets-and-visionaries.md`. Primary loci
 cited: Shemos 7:1; Bereishis 15:1, 20:7; Bamidbar 24:4, 24:16; Shmuel I 9 and

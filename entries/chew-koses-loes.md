@@ -169,7 +169,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Behaaloscha: Chew That," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Behaaloscha: Chew That](https://articles.ohr.edu/articles/behaaloscha-chew-that)," What's in a Word?, Ohr
 Somayach, 18 Sivan 5785 (2025-06-14): raw text in
 `sources/whats-in-a-word/raw/11831-behaaloscha-chew-that.md`. Primary loci
 cited: Bamidbar 11:33; Vayikra 11:3-7 and Devarim 14:6-8; Berachos 36b, 37a,

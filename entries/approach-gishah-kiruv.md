@@ -136,6 +136,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayigash: Coming Close," *What's in a Word?*, Ohr Somayach, 26 December 2020.
+Rabbi Reuven Chaim Klein, "[Vayigash: Coming Close](https://articles.ohr.edu/articles/vayigash-coming-close)," *What's in a Word?*, Ohr Somayach, 26 December 2020.
 
-Loci: Bereishis 18:23, 20:4, 44:18; Shemos 19:15, 21:25, 22:7; Vayikra 1:2, 2:8, 18:6, 22:3; Devarim 22:14, 25:1; Yeshayahu 8:3, 59:10; Malachi 3:5; Tehillim 32:9; Iyov 7:5; Bava Kama 116b; Bava Metzia 79b; Rav Hirsch to Vayikra 21:17; Ramban to *Sefer HaMitzvos*, lo saaseh 353; Abarbanel to *Moreh Nevuchim* 1:18; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Ohalei Yehuda*.
+Cited in the essay: Bereishis 18:23, 20:4, 44:18; Shemos 19:15, 21:25, 22:7; Vayikra 1:2, 2:8, 18:6, 22:3; Devarim 22:14, 25:1; Yeshayahu 8:3, 59:10; Malachi 3:5; Tehillim 32:9; Iyov 7:5; Bava Kama 116b; Bava Metzia 79b; Rav Hirsch to Vayikra 21:17; Ramban to *Sefer HaMitzvos*, lo saaseh 353; Abarbanel to *Moreh Nevuchim* 1:18; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Ohalei Yehuda*.

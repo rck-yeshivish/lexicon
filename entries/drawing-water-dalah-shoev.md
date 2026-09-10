@@ -160,7 +160,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shemos: Drawing Water," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shemos: Drawing Water](https://articles.ohr.edu/articles/shemos-drawing-water)," What's in a Word?, Ohr
 Somayach, 21 Teves 5783 (2023-01-14):
 https://articles.ohr.edu/articles/shemos-drawing-water; raw text in
 `sources/whats-in-a-word/raw/10786-shemos-drawing-water.md`. Primary loci:

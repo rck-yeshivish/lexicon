@@ -120,7 +120,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Freezing Cold," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Freezing Cold](https://articles.ohr.edu/articles/freezing-cold)," What's in a Word?, Ohr Somayach,
 7 Teves 5782 (2021-12-11): raw text in
 `sources/whats-in-a-word/raw/9482-freezing-cold.md`. Primary loci cited:
 Bereishis 8:22; Yirmiyahu 18:14; Mishlei 22:5, 25:13, 25:25; Amos 4:2; Shemos

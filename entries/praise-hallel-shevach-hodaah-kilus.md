@@ -115,7 +115,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Ten Expressions of Praise," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Ten Expressions of Praise](https://articles.ohr.edu/articles/ten-expressions-of-praise)," What's in a Word?, Ohr
 Somayach, 14 Elul 5776 (2016-09-17): raw text in
 `sources/whats-in-a-word/raw/6934-ten-expressions-of-praise.md`. Primary loci
 the article cites: the close of Pesukei DeZimrah (Shabbos and Yom Tov), the

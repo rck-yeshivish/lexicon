@@ -237,7 +237,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayechi: White is Light," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayechi: White is Light](https://articles.ohr.edu/articles/vayechi-white-is-light)," What's in a Word?, Ohr
 Somayach, 18 Teves 5784 (2023-12-30): raw text in
 `sources/whats-in-a-word/raw/11188-vayechi-white-is-light.md`. Primary loci:
 Bereishis 11:3, 23:8-9, 40:16, 46:10, 49:12; Shemos 5:7, 5:14, 6:15, 6:17,

@@ -109,7 +109,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Jumping for Passover: Part 1," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Jumping for Passover: Part 1](https://articles.ohr.edu/articles/jumping-for-passover-part-1)," What's in a Word?, Ohr
 Somayach, 5 Nissan 5777 (2017-04-01),
 https://articles.ohr.edu/articles/jumping-for-passover-part-1, and "Part 2," 12
 Nissan 5777 (2017-04-08),

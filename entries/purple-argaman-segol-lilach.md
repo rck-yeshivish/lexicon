@@ -209,7 +209,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Color Purple," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[The Color Purple](https://articles.ohr.edu/articles/the-color-purple)," What's in a Word?, Ohr Somayach,
 11 Adar Alef 5782 (2022-02-12): raw text in
 `sources/whats-in-a-word/raw/9575-the-color-purple.md`; the article credits
 *Kuntres Merkavo Argaman* by Rabbi Yisrael Rosenberg of Lakewood for much of its

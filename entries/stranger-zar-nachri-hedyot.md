@@ -143,7 +143,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Strange Aliens," What's in a Word?, Ohr Somayach, 19
+Rabbi Reuven Chaim Klein, "[Strange Aliens](https://articles.ohr.edu/articles/strange-aliens)," What's in a Word?, Ohr Somayach, 19
 Iyar 5781 (2021-05-01): raw text in
 `sources/whats-in-a-word/raw/9192-strange-aliens.md`. Primary loci: Mishlei 2:16,
 5:10, 5:20, 7:5, 20:16, 27:2; Yeshayahu 28:21, 61:5; Ovadiah 1:11; Tehillim

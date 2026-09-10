@@ -165,7 +165,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vaera: The Vertically-Challenged," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Vaera: The Vertically-Challenged](https://articles.ohr.edu/articles/vaera-the-vertically-challenged)," What's in a Word?,
 Ohr Somayach, for the week ending 13 January 2024 / 3 Shevat 5784:
 https://articles.ohr.edu/articles/vaera-the-vertically-challenged; raw text in
 `sources/whats-in-a-word/raw/11205-vaera-the-vertically-challenged.md`. Primary

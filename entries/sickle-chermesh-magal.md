@@ -142,7 +142,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Pesach: The Sickle and the Exile," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Pesach: The Sickle and the Exile](https://articles.ohr.edu/articles/pesach-the-sickle-and-the-exile)," What's in a Word?,
 Ohr Somayach, for the week ending 27 March 2021 / 14 Nissan 5781: raw text in
 `sources/whats-in-a-word/raw/9153-pesach-the-sickle-and-the-exile.md`. Primary
 loci the article cites: Devarim 16:9, 23:26; Yirmiyahu 50:16; Yoel 4:13 (the

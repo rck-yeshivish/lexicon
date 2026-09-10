@@ -142,7 +142,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Revolting Revolutions," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Revolting Revolutions](https://articles.ohr.edu/articles/revolting-revolutions)," What's in a Word?, Ohr
 Somayach, 2 Tamuz 5781 (2021-06-12): raw text in
 `sources/whats-in-a-word/raw/9245-revolting-revolutions.md`. Primary loci cited:
 Bamidbar 16:1 with Rashi and *Midrash Tanchuma*; Yehoshua 1:18; *Sanhedrin* 49a

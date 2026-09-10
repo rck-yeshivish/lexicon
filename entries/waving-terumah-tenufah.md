@@ -190,7 +190,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Behaaloscha: Lift & Wave," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Behaaloscha: Lift & Wave](https://articles.ohr.edu/articles/behaaloscha-lift-wave)," What's in a Word?, Ohr
 Somayach, 16 Sivan 5784 (2024-06-22): raw text in
 `sources/whats-in-a-word/raw/11422-behaaloscha-lift-wave.md`. Primary loci
 cited: Shemos 25:2, 29:24, 29:26-27, 35:22; Vayikra 7:28-38 (7:30, 7:32, 7:34),

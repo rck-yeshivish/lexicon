@@ -217,7 +217,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shavuot Special Feature!", What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shavuot Special Feature!](https://articles.ohr.edu/articles/shavuot-special-feature)", What's in a Word?, Ohr
 Somayach, 5 Sivan 5779 (2019-06-08): raw text in
 `sources/whats-in-a-word/raw/8272-shavuot-special-feature.md`. The piece runs in
 two parts under the title "That's Amore!": Part 1, "The Ten Sayings," and Part

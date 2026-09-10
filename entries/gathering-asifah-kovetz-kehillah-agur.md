@@ -144,7 +144,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Succot - the Majestic Holiday of Gathering," What's
+Rabbi Reuven Chaim Klein, "[Succot - the Majestic Holiday of Gathering](https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering)," What's
 in a Word?, Ohr Somayach, 13 Tishrei 5780 (2019-10-12):
 https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering;
 raw text in `sources/whats-in-a-word/raw/8439-succot-aeur-the-majestic-holiday-of-gathering.md`.

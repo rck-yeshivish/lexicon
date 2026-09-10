@@ -128,7 +128,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Pharaoh and the King," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Pharaoh and the King](https://articles.ohr.edu/articles/the-pharaoh-and-the-king)," What's in a Word?, Ohr
 Somayach, 19 Teves 5778 (2018-01-06):
 https://articles.ohr.edu/articles/the-pharaoh-and-the-king; raw text in
 `sources/whats-in-a-word/raw/7572-the-pharaoh-and-the-king.md`. Primary loci

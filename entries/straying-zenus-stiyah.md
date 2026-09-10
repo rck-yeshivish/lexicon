@@ -146,7 +146,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Straying from the Path," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Straying from the Path](https://articles.ohr.edu/articles/straying-from-the-path)," What's in a Word?, Ohr
 Somayach, 28 Elul 5778 (2018-09-08):
 https://articles.ohr.edu/articles/straying-from-the-path; raw text in
 `sources/whats-in-a-word/raw/7927-straying-from-the-path.md`. Primary loci:

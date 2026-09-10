@@ -120,7 +120,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Put in Place," What's in a Word?, Ohr Somayach, 6
+Rabbi Reuven Chaim Klein, "[Put in Place](https://articles.ohr.edu/articles/put-in-place)," What's in a Word?, Ohr Somayach, 6
 Shvat 5782 (2022-01-08): raw text in
 `sources/whats-in-a-word/raw/9523-put-in-place.md`. Primary loci cited: Shemos
 10:1-2, 7:22, 9:21, 40:18; Bereishis 3:15, 4:25, 41:33, 45:9, 48:14, 48:17,

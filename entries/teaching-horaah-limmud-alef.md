@@ -155,7 +155,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Ultimate Teacher," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Ultimate Teacher](https://articles.ohr.edu/articles/the-ultimate-teacher)," What's in a Word?, Ohr
 Somayach, 15 Av 5781 (2021-07-24):
 https://articles.ohr.edu/articles/the-ultimate-teacher; raw text in
 `sources/whats-in-a-word/raw/9308-the-ultimate-teacher.md`. Primary loci cited:

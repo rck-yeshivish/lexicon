@@ -151,7 +151,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "My Three Suns (and Moons)," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[My Three Suns (and Moons)](https://articles.ohr.edu/articles/my-three-suns-and-moons)," What's in a Word?, Ohr
 Somayach, 30 Av 5776 (2016-09-03): raw text in
 `sources/whats-in-a-word/raw/6916-my-three-suns-and-moons.md`. The treatment is
 Rabbi Aharon Marcus's (sometimes known as the Chasid from Hamburg), with two

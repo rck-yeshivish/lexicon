@@ -110,7 +110,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Old Switcheroo," What's in a Word?, Ohr Somayach, 29
+Rabbi Reuven Chaim Klein, "[Old Switcheroo](https://articles.ohr.edu/articles/old-switcheroo)," What's in a Word?, Ohr Somayach, 29
 Iyar 5780 (2020-05-23): raw text in
 `sources/whats-in-a-word/raw/8714-old-switcheroo.md`. Primary loci: Vayikra
 27:10 and 27:33; Bereishis 35:2 and 41:14; Shmuel II 12:20; Yeshayahu 2:18;

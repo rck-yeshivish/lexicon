@@ -126,7 +126,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Gift of Giving," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[The Gift of Giving](https://articles.ohr.edu/articles/the-gift-of-giving)," What's in a Word?, Ohr Somayach,
 23 Kislev 5779 (2018-12-01): raw text in
 `sources/whats-in-a-word/raw/7982-the-gift-of-giving.md`. Primary loci: Bereishis
 32:14, 32:19-22, and ch. 27; Shmuel II 8:2; Melachim II 17:3 (the article prints

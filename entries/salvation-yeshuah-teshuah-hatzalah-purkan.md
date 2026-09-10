@@ -122,7 +122,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Seeking Salvation," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Seeking Salvation](https://articles.ohr.edu/articles/seeking-salvation)," What's in a Word?, Ohr Somayach,
 23 Kislev 5782 (2021-11-27): raw text in
 `sources/whats-in-a-word/raw/9464-seeking-salvation.md`. Primary loci the
 article cites: *Al HaNissim*; Eichah 5:8 and Tehillim 136:24 (פ-ר-ק); Rav

@@ -132,7 +132,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Army of Grasshoppers," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Army of Grasshoppers](https://articles.ohr.edu/articles/army-of-grasshoppers)," What's in a Word?, Ohr
 Somayach, 20 January 2018 / 4 Shevat 5778: raw text in
 `sources/whats-in-a-word/raw/7592-army-of-grasshoppers.md`. Primary loci cited:
 Shemos 10:14; Vayikra 11:22; Devarim 28:42, 32:24; Tehillim 78:47 with Rashi;

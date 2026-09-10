@@ -165,7 +165,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Toldot: Boys and Girls (Part 2)," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Toldot: Boys and Girls (Part 2)](https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2)," What's in a Word?,
 Ohr Somayach, 5 Kislev 5781 (2020-11-21): raw text in
 `sources/whats-in-a-word/raw/8933-toldot-boys-and-girls-part-2.md`; Part 1 is
 covered in `youth-naar-almah-elem.md`. Primary loci cited: Bereishis 21:8, 21:15

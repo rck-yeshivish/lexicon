@@ -92,6 +92,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Fowl Language and Poultry," *What's in a Word?*, Ohr Somayach, 19 November 2016.
+Rabbi Reuven Chaim Klein, "[Fowl Language and Poultry](https://articles.ohr.edu/articles/fowl-language-and-poultry)," *What's in a Word?*, Ohr Somayach, 19 November 2016.
 
-Loci: Bereishis 7:14 with Rashi and Radak; Radak, *Sefer HaShorashim* s.v. צפר; Chullin 139b; Mishnah Chullin 12:2 with Rambam's commentary, citing Sifri; Devarim 22:6 and 22:7; Ramban to Vayikra 14:4; Vayikra 11:13 through 11:19; Mishnah Chullin 3:6; Tosafos Yom Tov to the Mishnah.
+Cited in the essay: Bereishis 7:14 with Rashi and Radak; Radak, *Sefer HaShorashim* s.v. צפר; Chullin 139b; Mishnah Chullin 12:2 with Rambam's commentary, citing Sifri; Devarim 22:6 and 22:7; Ramban to Vayikra 14:4; Vayikra 11:13 through 11:19; Mishnah Chullin 3:6; Tosafos Yom Tov to the Mishnah.

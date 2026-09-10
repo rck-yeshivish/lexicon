@@ -134,7 +134,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Seeking Completion," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Seeking Completion](https://articles.ohr.edu/articles/seeking-completion)," What's in a Word?, Ohr
 Somayach, 10 Cheshvan 5782 (2021-10-16): raw text in
 `sources/whats-in-a-word/raw/9396-seeking-completion.md`. Primary loci the
 article cites: Bereishis 17:1 with Rabbeinu Bachaya; Bereishis 25:27; Bereishis

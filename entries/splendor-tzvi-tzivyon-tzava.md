@@ -161,7 +161,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "My Dear Deer," What's in a Word?, Ohr Somayach, 21
+Rabbi Reuven Chaim Klein, "[My Dear Deer](https://articles.ohr.edu/articles/my-dear-deer)," What's in a Word?, Ohr Somayach, 21
 Teves 5780 (2020-01-18): raw text in
 `sources/whats-in-a-word/raw/8563-my-dear-deer.md`. The piece ends "to be
 continued," and its sequel takes up how *tzvi* differs from *ratzon* and

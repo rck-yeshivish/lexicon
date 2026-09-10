@@ -179,7 +179,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shemini: The Nosey Truth," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shemini: The Nosey Truth](https://articles.ohr.edu/articles/shemini-the-nosey-truth)," What's in a Word?, Ohr
 Somayach, 27 Adar Beis 5784 (2024-04-06): raw text in
 `sources/whats-in-a-word/raw/11327-shemini-the-nosey-truth.md`. Primary loci:
 Bereishis 2:7, 50:9; Shemos 15:8; Vayikra 10:1-2, 11:30, 21:18; Devarim 23:4,

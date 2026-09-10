@@ -135,7 +135,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shavuot: Brilliant Prohibitions," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Shavuot: Brilliant Prohibitions](https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions)," What's in a Word?,
 Ohr Somayach, 4 Sivan 5781 (2021-05-15): raw text in
 `sources/whats-in-a-word/raw/9211-shavuot-brilliant-prohibitions.md`. Primary
 loci: Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Bereishis 39:20,

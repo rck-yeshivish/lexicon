@@ -210,7 +210,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Sort of Siblings," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/sort-of-siblings)," What's in a Word?, Ohr Somayach,
 for the week ending 21 August 2021 / 13 Elul 5781:
 https://articles.ohr.edu/articles/sort-of-siblings; raw text in
 `sources/whats-in-a-word/raw/9338-sort-of-siblings.md`. Primary loci the article

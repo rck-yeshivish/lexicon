@@ -122,7 +122,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Energizing the Tired and Exhausted," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Energizing the Tired and Exhausted](https://articles.ohr.edu/articles/energizing-the-tired-and-exhausted)," What's in a Word?, Ohr
 Somayach, 8 Cheshvan 5778 (2017-10-28): raw text in
 `sources/whats-in-a-word/raw/6774-energizing-the-tired-and-exhausted.md`. Primary loci
 cited: Yeshayahu 40:29; Devarim 25:18; Shmuel II 17:2; Koheles 1:8; Iyov 22:7; Tehillim

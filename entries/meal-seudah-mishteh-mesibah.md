@@ -89,7 +89,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Party Hardy," What's in a Word?, Ohr Somayach
+Rabbi Reuven Chaim Klein, "[Party Hardy](https://articles.ohr.edu/articles/party-hardy)," What's in a Word?, Ohr Somayach
 (2017-03-11): raw text in `sources/whats-in-a-word/raw/7176-party-hardy.md`.
 Primary loci: Bereishis 18:5; Shoftim 19:5; Tehillim 104:15; Shir HaShirim 1:2,
 1:12; Koheles 2:3; Esther 5:4; Amos 2:8; *Shabbos* 117b; Radak, *Sefer

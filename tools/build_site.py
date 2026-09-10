@@ -388,6 +388,14 @@ def entry_page(e):
             continue
         cls = {"Bottom line": "bottomline", "At a glance": "glance",
                "Where the authorities disagree": "disagree"}.get(headname, "")
+        if headname == "Rendering guidance":
+            # Collapsed by default: most readers come to understand the words,
+            # not to translate them, and this section is advice for the second
+            # group. <details> needs no script, and a crawler or an LLM reading
+            # the HTML still gets the full text.
+            parts.append(f'<details class="guide"><summary><h2>{html.escape(headname)}</h2>'
+                         f'<span class="guide-hint">For translators</span></summary>{md(mdtext)}</details>')
+            continue
         parts.append(f'<section class="{cls}"><h2>{html.escape(headname)}</h2>{md(mdtext)}</section>')
     parts.append("</article>")
     return shell(f'{e["cluster"]} — What’s in a Word?', "\n".join(parts), depth=1, active="")
@@ -775,6 +783,19 @@ header.bare .brand{flex:1}
 .bottomline p{font-size:18px}
 .disagree{border-left:3px solid var(--line);padding-left:20px}
 .tablewrap{overflow-x:auto;margin:0 0 16px}
+details.guide{margin:28px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+details.guide>summary{display:flex;align-items:baseline;gap:12px;padding:14px 2px;cursor:pointer;
+  list-style:none;-webkit-user-select:none;user-select:none}
+details.guide>summary::-webkit-details-marker{display:none}
+details.guide>summary h2{margin:0;display:inline}
+details.guide>summary::before{content:"";flex:0 0 auto;width:7px;height:7px;align-self:center;
+  border-right:2px solid var(--faint);border-bottom:2px solid var(--faint);
+  transform:rotate(-45deg);transition:transform .15s}
+details.guide[open]>summary::before{transform:rotate(45deg)}
+details.guide>summary:hover h2{color:var(--accent)}
+.guide-hint{color:var(--faint);font-size:13px;font-weight:500}
+details.guide[open]>summary{padding-bottom:6px}
+details.guide>:not(summary){padding-bottom:10px}
 table{border-collapse:collapse;width:100%;font-size:15px}
 th{text-align:left;font-weight:600;color:var(--faint);font-size:12px;text-transform:uppercase;
   letter-spacing:.05em;padding:0 14px 8px 0;border-bottom:1px solid var(--line);white-space:nowrap}

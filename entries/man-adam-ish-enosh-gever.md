@@ -114,7 +114,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bereishet - Be a Man," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Bereishet - Be a Man](https://articles.ohr.edu/articles/bereishet-be-a-man)," What's in a Word?, Ohr
 Somayach, 27 Tishrei 5780 (2019-10-26): raw text in
 `sources/whats-in-a-word/raw/8444-bereishet-be-a-man.md`. Primary loci the
 article cites: Zohar Tazria 48a and Nasso 141b; Bereishis 1:24, 1:26-27, 7:2;

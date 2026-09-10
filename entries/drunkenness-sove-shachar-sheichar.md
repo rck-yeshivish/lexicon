@@ -128,7 +128,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Ki Seitzei: Getting Drunk," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Ki Seitzei: Getting Drunk](https://articles.ohr.edu/articles/ki-seitzei-getting-drunk)," What's in a Word?, Ohr
 Somayach, 11 Elul 5784 (2024-09-14); raw text at
 `sources/whats-in-a-word/raw/11520-ki-seitzei-getting-drunk.md`. Primary loci
 cited: Devarim 21:20 with *Sanhedrin* 8:2 and 71a and *Sifrei Ki Seitzei* 219;

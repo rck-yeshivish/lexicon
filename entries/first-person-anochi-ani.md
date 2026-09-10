@@ -85,7 +85,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Myself and I," What's in a Word?, Ohr Somayach, 22
+Rabbi Reuven Chaim Klein, "[Myself and I](https://articles.ohr.edu/articles/myself-and-i)," What's in a Word?, Ohr Somayach, 22
 Shevat 5777 (2017-02-18): raw text in
 `sources/whats-in-a-word/raw/7144-myself-and-i.md`. The article's stated loci
 are Shemos 20:2 and, for Ibn Ezra's plumb line, the word itself, which the

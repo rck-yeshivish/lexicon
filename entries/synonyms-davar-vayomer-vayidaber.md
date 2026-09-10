@@ -107,7 +107,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Introduction: Synonyms in the Hebrew Language,"
+Rabbi Reuven Chaim Klein, "[Introduction: Synonyms in the Hebrew Language](https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language),"
 What's in a Word?, Ohr Somayach, 19 Sivan 5776 (2016-06-25),
 https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language;
 raw text in

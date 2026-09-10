@@ -169,7 +169,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)," What's
+Rabbi Reuven Chaim Klein, "[Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)](https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13)," What's
 in a Word?, Ohr Somayach, 18 Elul 5784 (2024-09-21): raw text in
 `sources/whats-in-a-word/raw/11544-nitzavim-vayelech-shake-quake-pt-13.md`.
 Primary loci cited: Shemos 15:14, 20:20; Devarim 2:25, 32:24; Bamidbar 21:35

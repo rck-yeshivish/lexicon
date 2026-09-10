@@ -113,7 +113,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Let Them Eat Bread," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Let Them Eat Bread](https://articles.ohr.edu/articles/let-them-eat-bread)," What's in a Word?, Ohr Somayach,
 10 Tammuz 5778 (2018-06-23); raw text at
 `sources/whats-in-a-word/raw/7815-let-them-eat-bread.md`. Primary loci cited:
 Bamidbar 21:5 (*lechem haklokel*) and 15:20; Shemos 29:23 with Targum Onkelos;

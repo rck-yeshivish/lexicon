@@ -183,7 +183,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Moses' Many Names," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Moses' Many Names](https://articles.ohr.edu/articles/moses-many-names)," What's in a Word?, Ohr Somayach,
 21 Teves 5782 (2021-12-25): raw text in
 `sources/whats-in-a-word/raw/9503-moses-many-names.md`. Primary loci: Divrei
 HaYamim I 4:18 and 24:6; Shemos 2:1-2, 2:22, 4:20, 32:32; Bamidbar 11:2; Shoftim

@@ -128,7 +128,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Elephants Galore," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Elephants Galore](https://articles.ohr.edu/articles/elephants-galore)," What's in a Word?, Ohr Somayach,
 20 Cheshvan 5781 (2020-11-07):
 `sources/whats-in-a-word/raw/8913-elephants-galore.md`. Primary loci: Bereishis
 22:22 with Rabbeinu Efrayim ben Shimshon; Melachim I 10:22 and Divrei HaYamim II

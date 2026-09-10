@@ -150,7 +150,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Heavy Taxes and Empty Pockets," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Heavy Taxes and Empty Pockets](https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets)," What's in a Word?,
 Ohr Somayach, 24 Tammuz 5779 (2019-07-27): raw text in
 `sources/whats-in-a-word/raw/8339-heavy-taxes-and-empty-pockets.md`. Primary
 loci cited: Shemos 1:11, 12:4; Melachim I 5:27; Bamidbar 21:13, 31:28-41; Ezra

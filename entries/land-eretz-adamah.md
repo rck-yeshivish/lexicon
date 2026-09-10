@@ -106,7 +106,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Land Down Under," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[The Land Down Under](https://articles.ohr.edu/articles/the-land-down-under)," What's in a Word?, Ohr Somayach,
 30 Sivan 5777 (2017-06-24): raw text in
 `sources/whats-in-a-word/raw/7313-the-land-down-under.md`. Primary loci: Bamidbar
 16:30-34, 26:10; Devarim 11:6; Tehillim 104:14; Bereishis 3:17; Rashi to

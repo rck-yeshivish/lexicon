@@ -134,7 +134,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "United We Fast," What's in a Word?, Ohr Somayach, 14
+Rabbi Reuven Chaim Klein, "[United We Fast](https://articles.ohr.edu/articles/united-we-fast)," What's in a Word?, Ohr Somayach, 14
 Tammuz 5777 (2017-07-08): raw text in
 `sources/whats-in-a-word/raw/7332-united-we-fast.md`. Primary loci cited:
 Zechariah 8:19 (the article prints 9:19; the four fasts are listed at 8:19);

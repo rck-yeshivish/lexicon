@@ -118,7 +118,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Mishpatim: Feeding the Lie," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Mishpatim: Feeding the Lie](https://articles.ohr.edu/articles/mishpatim-feeding-the-lie)," What's in a Word?, Ohr
 Somayach, 1 Adar 5781 (2021-02-13):
 https://articles.ohr.edu/articles/mishpatim-feeding-the-lie, raw text in
 `sources/whats-in-a-word/raw/9080-mishpatim-feeding-the-lie.md`. Primary loci

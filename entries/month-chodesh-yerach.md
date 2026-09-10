@@ -120,7 +120,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Old Month versus New Month," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Old Month versus New Month](https://articles.ohr.edu/articles/old-month-versus-new-month)," What's in a Word?, Ohr
 Somayach, 1 Nissan 5778 (2018-03-17): raw text in
 `sources/whats-in-a-word/raw/7687-old-month-versus-new-month.md`. Primary loci
 cited: Bamidbar 28:14; Shmuel I 20:18; Yeshayahu 1:13; Devarim 24:5, 33:14;

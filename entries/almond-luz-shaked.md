@@ -159,6 +159,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Almonds in the Bible," *What's in a Word?*, Ohr Somayach, 13 November 2021.
+Rabbi Reuven Chaim Klein, "[Almonds in the Bible](https://articles.ohr.edu/articles/almonds-in-the-bible)," *What's in a Word?*, Ohr Somayach, 13 November 2021.
 
-Loci: Bereishis 24:65, 28:19, 30:37 to 38, 37:19, 43:11; Shemos 25:33 to 34, 37:19 to 20; Bamidbar 17:23; Shoftim 1:23 to 26; Yirmiyahu 1:11 to 12 with Rashi; Yechezkel 36:35; Zecharyah 2:8; Koheles 12:5 in Targum; Bechoros 8a with Rashi and Tosafos; Yerushalmi Taanis 4:5; *Bereishis Rabbah* 69:8; Midrash *Sechel Tov*; *Mateh Moshe* 513; Targum Onkelos, Targum Yonasan and Targum Neofiti to Bereishis 43:11 and Bamidbar 17:23; Radak and Ibn Ezra to Bereishis 30:37, citing Rabbi Saadia Gaon; *Machberes Menachem*; Even-Shoshan's dictionary; Dr. Gary Rensburg; Dr. Joshua D. Klein; Solomon Löwisohn.
+Cited in the essay: Bereishis 24:65, 28:19, 30:37 to 38, 37:19, 43:11; Shemos 25:33 to 34, 37:19 to 20; Bamidbar 17:23; Shoftim 1:23 to 26; Yirmiyahu 1:11 to 12 with Rashi; Yechezkel 36:35; Zecharyah 2:8; Koheles 12:5 in Targum; Bechoros 8a with Rashi and Tosafos; Yerushalmi Taanis 4:5; *Bereishis Rabbah* 69:8; Midrash *Sechel Tov*; *Mateh Moshe* 513; Targum Onkelos, Targum Yonasan and Targum Neofiti to Bereishis 43:11 and Bamidbar 17:23; Radak and Ibn Ezra to Bereishis 30:37, citing Rabbi Saadia Gaon; *Machberes Menachem*; Even-Shoshan's dictionary; Dr. Gary Rensburg; Dr. Joshua D. Klein; Solomon Löwisohn.

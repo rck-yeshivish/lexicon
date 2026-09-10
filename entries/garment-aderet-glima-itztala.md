@@ -163,7 +163,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Toldot: Noble Clothes," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Toldot: Noble Clothes](https://articles.ohr.edu/articles/toldot-noble-clothes)," What's in a Word?, Ohr
 Somayach, 29 Cheshvan 5785 (2024-11-30):
 https://articles.ohr.edu/articles/toldot-noble-clothes; raw text in
 `sources/whats-in-a-word/raw/11594-toldot-noble-clothes.md`. Primary loci cited:

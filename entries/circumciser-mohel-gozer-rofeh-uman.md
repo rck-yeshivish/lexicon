@@ -165,7 +165,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Tazria: The Cutter," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Tazria: The Cutter](https://articles.ohr.edu/articles/tazria-the-cutter)," What's in a Word?, Ohr Somayach,
 5 Nissan 5784 (2024-04-13): https://articles.ohr.edu/articles/tazria-the-cutter;
 raw text in `sources/whats-in-a-word/raw/11342-tazria-the-cutter.md`. Primary
 loci cited: Vayikra 12:3; Bereishis ch. 17, 21:4, 34:15-22; Shemos 4:25, 12:44,

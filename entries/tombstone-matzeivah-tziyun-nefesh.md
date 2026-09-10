@@ -137,7 +137,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "On the Tombstone," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[On the Tombstone](https://articles.ohr.edu/articles/on-the-tombstone)," What's in a Word?, Ohr Somayach,
 13 Iyar 5778 (2018-04-28): raw text in
 `sources/whats-in-a-word/raw/7730-on-the-tombstone.md`. Primary loci cited:
 Bereishis 23:8 (Rashi), 35:20; Vayikra 21:1 to 4; Shemos 31:17; Melachim II

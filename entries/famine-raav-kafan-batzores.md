@@ -139,7 +139,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Famishing Famines," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Famishing Famines](https://articles.ohr.edu/articles/famishing-famines)," What's in a Word?, Ohr Somayach,
 7 Teves 5783 (2022-12-31): raw text in
 `sources/whats-in-a-word/raw/10761-famishing-famines.md`. Primary loci:
 Bereishis 12:10, 26:1, 45:11; Vayikra 26:5, 26:26; Yirmiyahu 17:8; Yechezkel

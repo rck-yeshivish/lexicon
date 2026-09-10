@@ -160,7 +160,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Pinchas: Performance Platforms," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Pinchas: Performance Platforms](https://articles.ohr.edu/articles/pinchas-performance-platforms)," What's in a Word?,
 Ohr Somayach, 21 Tammuz 5784 (2024-07-27):
 https://articles.ohr.edu/articles/pinchas-performance-platforms, raw text in
 `sources/whats-in-a-word/raw/11462-pinchas-performance-platforms.md`. Primary

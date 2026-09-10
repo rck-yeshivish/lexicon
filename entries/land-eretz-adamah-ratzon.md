@@ -145,7 +145,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Seasoning the Land," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Seasoning the Land](https://articles.ohr.edu/articles/seasoning-the-land)," What's in a Word?, Ohr Somayach,
 20 Elul 5781 (2021-08-28): raw text in
 `sources/whats-in-a-word/raw/9346-seasoning-the-land.md`. Primary loci cited:
 Avos d'Rabbi Nasan version 1 ch. 37 and version 2 ch. 43; Bereishis Rabbah 5:8;

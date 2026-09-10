@@ -112,7 +112,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Why? Which 'Why'?", What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Why? Which 'Why'?](https://articles.ohr.edu/articles/why-which-why)", What's in a Word?, Ohr Somayach,
 10 Kislev 5777 (2016-12-10): https://articles.ohr.edu/articles/why-which-why;
 raw text in `sources/whats-in-a-word/raw/7039-why-which-why.md`. Primary loci
 cited: Rabbeinu Yonah ibn Janach, *Sefer Rikmah* (cited also by Radak); Ibn Ezra

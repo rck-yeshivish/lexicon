@@ -113,7 +113,7 @@ In Mishnaic Hebrew *iggeret* typically means a writ issued by a beis din: a get
 her wifely duties (Yevamos 64a), an
 *iggeres bikores* announcing intent to sell property (*Kesubos* 11:5). It also
 covers halachic letters sent from Eretz Yisrael to Bavel by Ravin (Kesubos 49b,
-Bava Metzia 114a and 139a, Niddah 68a; see also Shabbos 115a, Bava Basra 41b,
+Bava Metzia 114a, Niddah 68a; see also Shabbos 115a, Bava Basra 41b,
 Sanhedrin 29a), and Shabbos 19a speaks of sending an *iggeret* by post.
 
 On etymology the authorities split. Rabbeinu Tam (in Tosafos to Kesubos 100b):
@@ -175,17 +175,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Between Books and Scrolls," What's in a Word?, Ohr
-Somayach, 18 Adar I 5782 (2022-02-19): raw text in
-`sources/whats-in-a-word/raw/9581-between-books-and-scrolls.md`. Primary loci
-cited: Shemos 32:32 (the article prints Ex. 33:32); Shoftim 1:11; Yirmiyahu
-32:14 and 36:1 with Radak; Esther 9:26-29; Divrei HaYamim II 30:6; Mishnah
-*Yevamos* 15:3, *Gittin* 6:5 and 9:3, *Kesubos* 11:5; Bava Basra 14b and 41b;
-Kiddushin 30a; Megillah 7a and 19a; Yevamos 64a; Kesubos 49b and 100b with
-Tosafos; Bava Metzia 114a, 139a; Niddah 68a; Shabbos 19a, 115a; Sanhedrin 29a;
-Sotah 13a; Avodah Zarah 24b; Gittin 82a with Rashi; *Maseches Sofrim* 14:3 with
-*Biur HaGra* to *Orach Chaim* 490; Rabbi Shlomo Pappenheim on biliteral ג-ל;
-*Sefer HaTishbi*. Dougherty's remark is paraphrased rather than quoted. The
-article calls *commentaries* a Greek word, and describes the kuntres etymology
-that way here; it also refers the reader, for get against shtar, to its earlier
-essay "Divorce Bills and other Documents" (May 2020), which is not used here.
+Rabbi Reuven Chaim Klein, "[Between Books and Scrolls](https://articles.ohr.edu/articles/between-books-and-scrolls)," *What's in a Word?*, Ohr Somayach, 19 February 2022.
+
+Cited in the essay: Shemos 32:32; Shoftim 1:11; Yirmiyahu 32:14 and 36:1 with Radak; Esther 9:26-29; Divrei HaYamim II 30:6; Mishnah *Yevamos* 15:3, *Gittin* 6:5 and 9:3, *Kesubos* 11:5; Bava Basra 14b and 41b; Kiddushin 30a; Megillah 7a and 19a; Yevamos 64a; Kesubos 49b and 100b with Tosafos; Bava Metzia 114a; Niddah 68a; Shabbos 19a, 115a; Sanhedrin 29a; Sotah 13a; Avodah Zarah 24b; Gittin 82a with Rashi; *Maseches Sofrim* 14:3 with *Biur HaGra* to *Orach Chaim* 490; Rabbi Shlomo Pappenheim; *Sefer HaTishbi*; Raymond P. Dougherty.

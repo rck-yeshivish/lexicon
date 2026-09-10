@@ -118,7 +118,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Boys and Bars," What's in a Word?, Ohr Somayach
+Rabbi Reuven Chaim Klein, "[Boys and Bars](https://articles.ohr.edu/articles/boys-and-bars)," What's in a Word?, Ohr Somayach
 (2019-05-25): raw text in `sources/whats-in-a-word/raw/8257-boys-and-bars.md`.
 Primary loci: Mishlei 31:2 with Malbim; Rabbi Yaakov Margolis, *Seder HaGet*;
 Rema, *Even HaEzer* 126:30 and 129:7; Rabbi Eliyahu HaBachur, *Meturgaman*;

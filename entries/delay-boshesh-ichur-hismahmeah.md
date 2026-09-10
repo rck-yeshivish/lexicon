@@ -119,7 +119,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Better Late Than ……..," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Better Late Than ……..](https://articles.ohr.edu/articles/better-late-than-aeuraeur)," What's in a Word?, Ohr
 Somayach, 18 Adar II 5780 (2020-03-14): raw text in
 `sources/whats-in-a-word/raw/8644-better-late-than-aeuraeur.md`. Primary loci
 cited: Shemos 32:1 with Rashi; *Bereishis Rabbah* 18:6 with *Eitz Yosef*;

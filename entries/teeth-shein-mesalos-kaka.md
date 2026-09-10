@@ -181,7 +181,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Showing Teeth," What's in a Word?, Ohr Somayach, 1
+Rabbi Reuven Chaim Klein, "[Showing Teeth](https://articles.ohr.edu/articles/showing-teeth)," What's in a Word?, Ohr Somayach, 1
 Iyar 5783 (2023-04-22): raw text in
 `sources/whats-in-a-word/raw/10931-showing-teeth.md`. Primary loci: Iyov 19:20,
 29:17; Yoel 1:6; Mishlei 10:26, 23:2, 30:14, 31:9; Tehillim 3:8, 35:16, 45:9,

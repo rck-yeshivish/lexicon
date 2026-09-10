@@ -201,7 +201,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Lech Lecha: Eighth Month," What's in a Word?, Ohr Somayach, 13
+Rabbi Reuven Chaim Klein, "[Lech Lecha: Eighth Month](https://articles.ohr.edu/articles/lech-lecha-eighth-month)," What's in a Word?, Ohr Somayach, 13
 Cheshvan 5784 (2023-10-28): raw text in
 `sources/whats-in-a-word/raw/11123-lech-lecha-eighth-month.md`. Primary loci cited:
 Bereishis 1:1, 6:17, 7:11-12, 8:4-5; Shemos 12:2 with Ramban; Vayikra 11:42; Melachim I

@@ -183,7 +183,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayeshev: The Amazing Multi-Named Joseph," What's in
+Rabbi Reuven Chaim Klein, "[Vayeshev: The Amazing Multi-Named Joseph](https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph)," What's in
 a Word?, Ohr Somayach, 23 Kislev 5783 (2022-12-17): raw text in
 `sources/whats-in-a-word/raw/10750-vayeshev-the-amazing-multi-named-joseph.md`.
 Primary loci: Bereishis 29:17, 30:23-24, 41:43, 41:45, 49:9; Bamidbar 13:7;

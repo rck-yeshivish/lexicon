@@ -155,7 +155,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Pick your Wax - Chanukah," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Pick your Wax - Chanukah](https://articles.ohr.edu/articles/pick-your-wax-chanukah)," What's in a Word?, Ohr
 Somayach, 19 Kislev 5781 (2020-12-05): raw text in
 `sources/whats-in-a-word/raw/8953-pick-your-wax-chanukah.md`. Primary loci
 cited: Rema to Orach Chaim 673:1; Michah 1:4; Tehillim 22:15, 68:3, 97:5;

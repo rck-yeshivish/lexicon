@@ -144,6 +144,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Cherubic Children and Other Angels," *What's in a Word?*, Ohr Somayach, 9 February 2019.
+Rabbi Reuven Chaim Klein, "[Cherubic Children and Other Angels](https://articles.ohr.edu/articles/cherubic-children-and-other-angels)," *What's in a Word?*, Ohr Somayach, 9 February 2019.
 
-Loci: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7; Yechezkel 43:15; Tehillim 78:25; Kesubos 104a; Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to Bereishis 21:17.
+Cited in the essay: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7; Yechezkel 43:15; Tehillim 78:25; Kesubos 104a; Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to Bereishis 21:17.

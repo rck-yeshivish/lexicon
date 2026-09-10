@@ -135,7 +135,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Real Toss Up," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[A Real Toss Up](https://articles.ohr.edu/articles/a-real-toss-up)," What's in a Word?, Ohr Somayach,
 21 December 2019 / 23 Kislev 5780: raw text in
 `sources/whats-in-a-word/raw/8528-a-real-toss-up.md`. Primary loci cited:
 Bereishis 21:15, 37:20, 37:22, 37:24; Shemos 1:22, 7:10, 9:8, 15:1, 22:30,

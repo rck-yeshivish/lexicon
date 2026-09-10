@@ -165,6 +165,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Calling the Defender - Vayelech / Yom Kippur," *What's in a Word?*, Ohr Somayach, 11 September 2021.
+Rabbi Reuven Chaim Klein, "[Calling the Defender - Vayelech / Yom Kippur](https://articles.ohr.edu/articles/calling-the-defender-vayelech-yom-kippur)," *What's in a Word?*, Ohr Somayach, 11 September 2021.
 
-Loci: *Avos* 4:11 with *Melechet Shlomo* and MS Kaufmann; Bereishis 42:23; Iyov 33:23-24 and 16:20 with Targum; *Shabbos* 32a; *Bava Basra* 10a; *Zevachim* 7b with Tosefta *Parah* 1:1 and *Toras Kohanim* to Vayikra 14:20; *Rosh Hashanah* 36a and 26a, Yerushalmi *Rosh Hashanah* 3:2 and *Yoma* 7:3; *Chagigah* 13b; *Kiddushin* 5a; Daniel 1:11 and 1:16; Tehillim 119:103 with Rav Hirsch; *Demai* 5:4 and *Avodah Zarah* 4:9; *Sefer Kushyot* 346; *Sefer HaTishbi*; *Encyclopedia Britannica*; Dr. Chaim Tawil.
+Cited in the essay: *Avos* 4:11 with *Melechet Shlomo* and MS Kaufmann; Bereishis 42:23; Iyov 33:23-24 and 16:20 with Targum; *Shabbos* 32a; *Bava Basra* 10a; *Zevachim* 7b with Tosefta *Parah* 1:1 and *Toras Kohanim* to Vayikra 14:20; *Rosh Hashanah* 36a and 26a, Yerushalmi *Rosh Hashanah* 3:2 and *Yoma* 7:3; *Chagigah* 13b; *Kiddushin* 5a; Daniel 1:11 and 1:16; Tehillim 119:103 with Rav Hirsch; *Demai* 5:4 and *Avodah Zarah* 4:9; *Sefer Kushyot* 346; *Sefer HaTishbi*; *Encyclopedia Britannica*; Dr. Chaim Tawil.

@@ -175,7 +175,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Chayei Sarah: All Wrapped Up," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Chayei Sarah: All Wrapped Up](https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up)," What's in a Word?, Ohr
 Somayach (2024-11-23): raw text in
 `sources/whats-in-a-word/raw/11584-chayei-sarah-all-wrapped-up.md`. Primary
 loci: Bereishis 24:65, 25:4, 38:14, 38:19, 40:6; Divrei HaYamim I 1:33; Shir

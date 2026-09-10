@@ -98,7 +98,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Heritage of Inheritance," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[A Heritage of Inheritance](https://articles.ohr.edu/articles/a-heritage-of-inheritance)," What's in a Word?, Ohr
 Somayach, 24 Tammuz 5778 (2018-07-07),
 https://articles.ohr.edu/articles/a-heritage-of-inheritance; raw text in
 `sources/whats-in-a-word/raw/7839-a-heritage-of-inheritance.md`. Primary loci

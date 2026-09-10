@@ -132,6 +132,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Beds of the Righteous," *What's in a Word?*, Ohr Somayach, 10 August 2019.
+Rabbi Reuven Chaim Klein, "[Beds of the Righteous](https://articles.ohr.edu/articles/beds-of-the-righteous)," *What's in a Word?*, Ohr Somayach, 10 August 2019.
 
-Loci: Devarim 3:11; Bamidbar 15:21; Tehillim 41:4; Mishlei 7:16; Berachos 37b; Kesubos 103a; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheishek Shlomo*; *Sefer HeAruch*; *Emunas Chachamim*; *Kav HaYashar*.
+Cited in the essay: Devarim 3:11; Bamidbar 15:21; Tehillim 41:4; Mishlei 7:16; Berachos 37b; Kesubos 103a; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheishek Shlomo*; *Sefer HeAruch*; *Emunas Chachamim*; *Kav HaYashar*.

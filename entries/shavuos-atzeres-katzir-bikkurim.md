@@ -171,7 +171,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Stop! It's Shavuot!," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Stop! It's Shavuot!](https://articles.ohr.edu/articles/stop-itas-shavuot)," What's in a Word?, Ohr Somayach,
 for the week ending 19 May 2018 / 5 Sivan 5778: raw text in
 `sources/whats-in-a-word/raw/7758-stop-itas-shavuot.md`. Primary loci the article
 cites: Shemos 23:16, 34:22; Vayikra 23:16-20, 23:36; Bamidbar 28:26, 29:35;

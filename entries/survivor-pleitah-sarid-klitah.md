@@ -199,7 +199,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayishlach: Saving Survivors," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayishlach: Saving Survivors](https://articles.ohr.edu/articles/vayishlach-saving-survivors)," What's in a Word?, Ohr
 Somayach, 19 Kislev 5784 (2023-12-02):
 https://articles.ohr.edu/articles/vayishlach-saving-survivors; raw text in
 `sources/whats-in-a-word/raw/11148-vayishlach-saving-survivors.md`. Primary loci

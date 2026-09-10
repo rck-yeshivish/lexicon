@@ -161,7 +161,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Mishpatim: Hidden Things," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Mishpatim: Hidden Things](https://articles.ohr.edu/articles/mishpatim-hidden-things)," What's in a Word?, Ohr
 Somayach, 24 Shevat 5785 (2025-02-22): raw text in
 `sources/whats-in-a-word/raw/11696-mishpatim-hidden-things.md`. Primary loci
 the article cites: Shemos 22:5 with Mechilta and Bava Kamma 60a-62a; Yirmiyahu

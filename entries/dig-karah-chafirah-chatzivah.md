@@ -128,7 +128,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Digging Deeper," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/digging-deeper)," What's in a Word?, Ohr Somayach,
 27 Shevat 5782 (2022-01-29): raw text in
 `sources/whats-in-a-word/raw/9554-digging-deeper.md`. Primary loci the article
 cites: Shemos 21:33-34 with Malbim and Rav Hirsch; Bava Kamma 1:1 and 5:5;

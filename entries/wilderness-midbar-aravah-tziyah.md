@@ -165,7 +165,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bamidbar: Out in the Wild," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Bamidbar: Out in the Wild](https://articles.ohr.edu/articles/bamidbar-out-in-the-wild)," What's in a Word?, Ohr
 Somayach, 29 Iyar 5783 (2023-05-20): raw text in
 `sources/whats-in-a-word/raw/10940-bamidbar-out-in-the-wild.md`. Primary loci
 cited: Bamidbar 1:1, 24:24; Devarim 1:1 (Rabbeinu Meyuchas); Malbim to

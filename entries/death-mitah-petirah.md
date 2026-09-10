@@ -105,7 +105,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Acharei Mos: Confronting Death," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Acharei Mos: Confronting Death](https://articles.ohr.edu/articles/acharei-mos-confronting-death)," What's in a Word?,
 Ohr Somayach, 26 Nissan 5784 (2024-05-04): raw text in
 `sources/whats-in-a-word/raw/10907-acharei-mos-confronting-death.md`. Primary
 loci the article cites: Vayikra 16:1 and 16-20; *Machberes Menachem*, *Yerios

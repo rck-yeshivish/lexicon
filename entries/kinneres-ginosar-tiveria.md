@@ -156,7 +156,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Shining Sea of Galilee," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Shining Sea of Galilee](https://articles.ohr.edu/articles/the-shining-sea-of-galilee)," What's in a Word?, Ohr
 Somayach, 2 Av 5779 (2019-08-03): raw text in
 `sources/whats-in-a-word/raw/8351-the-shining-sea-of-galilee.md`. Primary loci
 the article cites: Bamidbar 34:11; Devarim 3:17; Yehoshua 12:3, 13:27, 19:35;

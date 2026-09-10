@@ -109,7 +109,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Words of Redemption," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Words of Redemption](https://articles.ohr.edu/articles/words-of-redemption)," What's in a Word?, Ohr
 Somayach, 20 Iyar 5778 (2018-05-05): raw text in
 `sources/whats-in-a-word/raw/7742-words-of-redemption.md`. Primary loci the
 article cites: Vayikra 25:25-55 and 27:9-34; Bamidbar 35:19 (*goel hadam*);

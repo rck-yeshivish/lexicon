@@ -114,7 +114,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Olives and Oil," What's in a Word?, Ohr Somayach, 24
+Rabbi Reuven Chaim Klein, "[Olives and Oil](https://articles.ohr.edu/articles/olives-and-oil)," What's in a Word?, Ohr Somayach, 24
 Kislev 5777 (2016-12-24): raw text in
 `sources/whats-in-a-word/raw/7061-olives-and-oil.md`. The piece is a Chanukah
 feature, opening from the jug of *shemen zayis zach* of the Menorah. Primary

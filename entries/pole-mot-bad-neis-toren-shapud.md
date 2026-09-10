@@ -168,7 +168,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shelach: Message on a Pole," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shelach: Message on a Pole](https://articles.ohr.edu/articles/shelach-message-on-a-pole)," What's in a Word?, Ohr
 Somayach, 23 Sivan 5784 (2024-06-29): raw text in
 `sources/whats-in-a-word/raw/11433-shelach-message-on-a-pole.md`. Primary loci:
 Bereishis 17:20, 22:1, 39:12; Shemos 15:25, 25:13-15, 25:28, 27:7, 30:4, 37:5,

@@ -126,7 +126,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Holy Priests vs. Unholy Priests," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Holy Priests vs. Unholy Priests](https://articles.ohr.edu/articles/holy-priests-vs-unholy-priests)," What's in a Word?,
 Ohr Somayach, 30 Kislev 5780 (2019-12-28): raw text in
 `sources/whats-in-a-word/raw/8529-holy-priests-vs-unholy-priests.md`. Primary
 loci cited: Bereishis 41:50, 43:30, 47:22; Shemos 2:16, 3:1; Shoftim 18:4;

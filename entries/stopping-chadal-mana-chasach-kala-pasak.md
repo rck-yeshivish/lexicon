@@ -166,7 +166,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Stop It!," What's in a Word?, Ohr Somayach, 28 Teves
+Rabbi Reuven Chaim Klein, "[Stop It!](https://articles.ohr.edu/articles/stop-it)," What's in a Word?, Ohr Somayach, 28 Teves
 5782 (2022-01-01): https://articles.ohr.edu/articles/stop-it; raw text in
 `sources/whats-in-a-word/raw/9513-stop-it.md`. Primary loci: Shemos 9:29, 9:33,
 9:34, 23:5, 36:6; Mishlei 1:15; Bereishis 8:2, 11:8, 18:11, 20:6, 22:12, 22:16,

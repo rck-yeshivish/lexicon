@@ -154,7 +154,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Matos/Masei: On the Border," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Matos/Masei: On the Border](https://articles.ohr.edu/articles/matosmasei-on-the-border)," What's in a Word?, Ohr
 Somayach, 28 Tammuz 5784 (2024-08-03): raw text in
 `sources/whats-in-a-word/raw/11471-matosmasei-on-the-border.md`. Primary loci
 cited: Eichah 1:3 with *Eichah Rabbah* 1:29, Rashi, Ibn Ezra, Targum, Mahari

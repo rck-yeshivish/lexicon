@@ -122,7 +122,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Piles and Piles," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Piles and Piles](https://articles.ohr.edu/articles/piles-and-piles)," What's in a Word?, Ohr Somayach,
 13 Shvat 5782 (2022-01-15): raw text in
 `sources/whats-in-a-word/raw/9534-piles-and-piles.md`. Primary loci cited:
 Shemos 15:8, 8:10, 2:3; Bamidbar 11:32; Bereishis 1:22-23, 2:25, 3:1, 11:3,

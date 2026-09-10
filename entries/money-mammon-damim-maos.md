@@ -179,7 +179,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bechukosai: All About Money," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Bechukosai: All About Money](https://articles.ohr.edu/articles/bechukosai-all-about-money)," What's in a Word?, Ohr
 Somayach, 24 Iyar 5784 (2024-06-01),
 https://articles.ohr.edu/articles/bechukosai-all-about-money; raw text in
 `sources/whats-in-a-word/raw/11394-bechukosai-all-about-money.md`. Primary loci

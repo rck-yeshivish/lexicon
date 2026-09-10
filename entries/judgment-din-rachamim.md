@@ -111,7 +111,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Rosh Hashana: A Tale of Two Beginnings," What's in a
+Rabbi Reuven Chaim Klein, "[Rosh Hashana: A Tale of Two Beginnings](https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings)," What's in a
 Word?, Ohr Somayach, 28 Elul 5779 (2019-09-28): raw text in
 `sources/whats-in-a-word/raw/8411-rosh-hashana-a-tale-of-two-beginnings.md`.
 Primary loci: Rosh Hashanah 1:2 (all the world passes before Him like sheep of a

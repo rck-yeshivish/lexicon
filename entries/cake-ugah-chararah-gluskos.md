@@ -168,7 +168,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Pesach: Eating Cake," What's in a Word?, Ohr Somayach, 19
+Rabbi Reuven Chaim Klein, "[Pesach: Eating Cake](https://articles.ohr.edu/articles/pesach-eating-cake)," What's in a Word?, Ohr Somayach, 19
 Nissan 5784 (2024-04-27): raw text in
 `sources/whats-in-a-word/raw/11363-pesach-eating-cake.md`. Primary loci cited: Bereishis
 3:21, 18:6; Shemos 12:39, 29:2, 29:23; Vayikra 2:4, 7:12-13, 24:5; Bamidbar 6:15, 11:8;

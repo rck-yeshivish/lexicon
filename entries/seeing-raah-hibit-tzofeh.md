@@ -122,7 +122,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Seeing is Believing," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Seeing is Believing](https://articles.ohr.edu/articles/seeing-is-believing)," What's in a Word?, Ohr Somayach,
 15 Cheshvan 5778 (2017-11-04):
 https://articles.ohr.edu/articles/seeing-is-believing; raw text in
 `sources/whats-in-a-word/raw/7463-seeing-is-believing.md`. Primary loci: Vilna

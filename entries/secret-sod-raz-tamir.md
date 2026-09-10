@@ -194,7 +194,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Sukkos - Bereishis - Revealing the Secret," What's
+Rabbi Reuven Chaim Klein, "[Sukkos - Bereishis - Revealing the Secret](https://articles.ohr.edu/articles/sukkos-bereishis-revealing-the-secret)," What's
 in a Word?, Ohr Somayach, 13 Tishrei 5783 (2022-10-08): raw text in
 `sources/whats-in-a-word/raw/10130-sukkos-bereishis-revealing-the-secret.md`.
 Primary loci the article cites: Ibn Janach and Radak, *Sefer HaShorashim* s.v.

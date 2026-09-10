@@ -164,7 +164,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Balaam's Numa," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Balaam's Numa](https://articles.ohr.edu/articles/balaams-numa)," What's in a Word?, Ohr Somayach,
 26 June 2021 / 16 Tammuz 5781: raw text in
 `sources/whats-in-a-word/raw/9266-balaams-numa.md`. Primary loci cited: Bereishis
 3:20, 24:63; Bamidbar 24:3 to 24:16; Shmuel II 23:1; Yeshayahu 1:24 with Ibn

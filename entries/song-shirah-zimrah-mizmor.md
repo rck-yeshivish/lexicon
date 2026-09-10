@@ -163,7 +163,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "PESACH: Sing and Song," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[PESACH: Sing and Song](https://articles.ohr.edu/articles/pesach-sing-and-song)," What's in a Word?, Ohr
 Somayach, 10 Nisan 5780 (2020-04-04): raw text in
 `sources/whats-in-a-word/raw/8681-pesach-sing-and-song.md`. Primary loci the
 article cites: Ibn Ezra and Sforno to Tehillim 105:2; Radak to Divrei HaYamim

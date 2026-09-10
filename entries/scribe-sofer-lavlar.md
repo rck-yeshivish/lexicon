@@ -165,7 +165,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bishalach: Scribal Culture," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Bishalach: Scribal Culture](https://articles.ohr.edu/articles/bishalach-scribal-culture)," What's in a Word?, Ohr
 Somayach (2023-02-04): raw text in
 `sources/whats-in-a-word/raw/10818-bishalach-scribal-culture.md` (ohr.edu's
 stored body is truncated; the closing paragraph is restored there from the

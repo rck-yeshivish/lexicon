@@ -136,7 +136,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Tribesmen Stick Together," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Tribesmen Stick Together](https://articles.ohr.edu/articles/tribesmen-stick-together)," What's in a Word?, Ohr
 Somayach, 28 Tammuz 5777 (2017-07-22):
 https://articles.ohr.edu/articles/tribesmen-stick-together; raw text in
 `sources/whats-in-a-word/raw/7357-tribesmen-stick-together.md`. Primary loci

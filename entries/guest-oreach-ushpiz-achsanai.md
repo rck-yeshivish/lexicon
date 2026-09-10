@@ -152,7 +152,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Be My Guest," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Be My Guest](https://articles.ohr.edu/articles/be-my-guest)," What's in a Word?, Ohr Somayach,
 18 Cheshvan 5783 (2022-11-12): raw text in
 `sources/whats-in-a-word/raw/10698-be-my-guest.md`. Primary loci cited: Shoftim
 19:17, Shmuel II 12:4, Yirmiyahu 9:1 and 14:8; Bereishis 37:25; Radak and Ibn

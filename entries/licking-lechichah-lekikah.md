@@ -143,7 +143,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Balak: Lick It Up," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Balak: Lick It Up](https://articles.ohr.edu/articles/balak-lick-it-up)," What's in a Word?, Ohr Somayach,
 14 Tamuz 5784 (2024-07-20):
 `sources/whats-in-a-word/raw/11448-balak-lick-it-up.md`. Primary loci: Bamidbar
 22:4; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9; Shoftim 7:5-7; Melachim I

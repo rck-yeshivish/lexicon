@@ -209,7 +209,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bo: Follow the Leader (Part 1/2)," Ohr Somayach
+Rabbi Reuven Chaim Klein, "[Bo: Follow the Leader (Part 1/2)](https://articles.ohr.edu/articles/bo-follow-the-leader-part-12)," Ohr Somayach
 (2025-02-01), raw text in
 `sources/whats-in-a-word/raw/11677-bo-follow-the-leader-part-12.md`, and
 "Beshalach: Follow the Leader (Part 2/2)," Ohr Somayach (2025-02-08), raw text

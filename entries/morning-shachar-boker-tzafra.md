@@ -138,7 +138,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Good Morning Sunshine," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Good Morning Sunshine](https://articles.ohr.edu/articles/good-morning-sunshine)," What's in a Word?, Ohr
 Somayach, 16 Kislev 5780 (2019-12-14),
 https://articles.ohr.edu/articles/good-morning-sunshine; raw text in
 `sources/whats-in-a-word/raw/8518-good-morning-sunshine.md`. Primary loci:

@@ -190,7 +190,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Nitzavim/Vayelech/RH: The Shofar's Horn," What's in
+Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2)," What's in
 a Word?, Ohr Somayach (2022-09-17), reposted 28 Elul 5782 (2022-09-24): raw
 text in
 `sources/whats-in-a-word/raw/9992-nitzavimvayelechrh-the-shofars-horn.md` and

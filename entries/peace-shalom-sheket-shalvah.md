@@ -133,7 +133,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Peace and Quiet," What's in a Word?, Ohr Somayach, 18 Av
+Rabbi Reuven Chaim Klein, "[Peace and Quiet](https://articles.ohr.edu/articles/peace-and-quiet)," What's in a Word?, Ohr Somayach, 18 Av
 5780 (2020-08-08): raw text in `sources/whats-in-a-word/raw/8816-peace-and-quiet.md`.
 The column's opening etymology (Latin *pax* behind English "peace" and possibly
 behind Mishnaic *piyus*) is reported here as the column gives it. Primary loci the

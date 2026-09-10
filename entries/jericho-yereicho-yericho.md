@@ -167,7 +167,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Matot: The Names of Jericho," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Matot: The Names of Jericho](https://articles.ohr.edu/articles/matot-the-names-of-jericho)," What's in a Word?, Ohr Somayach,
 24 Tammuz 5782 (2022-07-23): raw text in
 `sources/whats-in-a-word/raw/9795-matot-the-names-of-jericho.md`. Primary loci cited:
 Bamidbar 22:1, 26:3, 26:63, 31:12, 33:48, 33:50, 34:15, 35:1, 36:13; Devarim 32:49, 34:1,

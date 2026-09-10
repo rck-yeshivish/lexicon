@@ -172,6 +172,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Mishpatim: Boorish Animals," *What's in a Word?*, Ohr Somayach, 18 February 2023.
+Rabbi Reuven Chaim Klein, "[Mishpatim: Boorish Animals](https://articles.ohr.edu/articles/mishpatim-boorish-animals)," *What's in a Word?*, Ohr Somayach, 18 February 2023.
 
-Loci: Shemos 16:7-8, 22:4; Bereishis 1:24, 45:17, 47:19; Vayikra 1:2; Bamidbar 20:4-11, 22:2; Tehillim 8:8, 73:21-22, 78:48; Mishlei 12:1, 30:2; Avos 2:5; Peah 2:1; Sanhedrin 105a; *Sefer HaShorashim*; *Ohalei Yehuda*; *Sefer HaTishbi*; *Meor Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a; *Seridei Aish* vol. 4 *Chakiras HaMekoros* §7:2; Mitchell First, *Words for the Wise*, p. 149; *Chemas HaChemdah* to Shemos 22:4; Hillel Halkin, as Philologos; Rabbi Shlomo Yehuda Rapoport.
+Cited in the essay: Shemos 16:7-8, 22:4; Bereishis 1:24, 45:17, 47:19; Vayikra 1:2; Bamidbar 20:4-11, 22:2; Tehillim 8:8, 73:21-22, 78:48; Mishlei 12:1, 30:2; Avos 2:5; Peah 2:1; Sanhedrin 105a; *Sefer HaShorashim*; *Ohalei Yehuda*; *Sefer HaTishbi*; *Meor Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a; *Seridei Aish* vol. 4 *Chakiras HaMekoros* §7:2; Mitchell First, *Words for the Wise*, p. 149; *Chemas HaChemdah* to Shemos 22:4; Hillel Halkin, as Philologos; Rabbi Shlomo Yehuda Rapoport.

@@ -158,7 +158,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shemini: Dancing Away," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shemini: Dancing Away](https://articles.ohr.edu/articles/shemini-dancing-away)," What's in a Word?, Ohr
 Somayach, 28 Nisan 5785 (2025-04-26): raw text in
 `sources/whats-in-a-word/raw/11784-shemini-dancing-away.md`. Primary loci:
 Bereishis 11:9, 13:10, 49:4, 49:24 (the article's Radak citation prints 39:24);

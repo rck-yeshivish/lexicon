@@ -180,7 +180,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Solomon's Seven Names," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Solomon's Seven Names](https://articles.ohr.edu/articles/solomons-seven-names)," What's in a Word?, Ohr
 Somayach, 18 Adar I 5779 (2019-02-23): raw text in
 `sources/whats-in-a-word/raw/8149-solomons-seven-names.md`. Primary loci: Shmuel
 II 12:24-25; Divrei HaYamim I 22:9; Melachim I 8:1; Koheles 1:1 with Rashi;

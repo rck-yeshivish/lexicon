@@ -141,7 +141,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Take Your Spoils," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Take Your Spoils](https://articles.ohr.edu/articles/take-your-spoils)," What's in a Word?, Ohr Somayach,
 13 Shevat 5780 (2020-02-08): raw text in
 `sources/whats-in-a-word/raw/8594-take-your-spoils.md`. Primary loci: Shemos
 15:9, 3:5, 25:15 (Targum Onkelos); Bamidbar 31:11-12 and 31:27, with Rashi and

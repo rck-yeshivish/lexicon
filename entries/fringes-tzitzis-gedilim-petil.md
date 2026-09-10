@@ -208,7 +208,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shelach: Growing the Fringes (Part 1/2)," What's in a
+Rabbi Reuven Chaim Klein, "[Shelach: Growing the Fringes (Part 1/2)](https://articles.ohr.edu/articles/shelach-growing-the-fringes-part-12)," What's in a
 Word?, Ohr Somayach, 25 Sivan 5785 (2025-06-21), raw text in
 `sources/whats-in-a-word/raw/11857-shelach-growing-the-fringes-part-12.md`; and
 "Korach: Growing the Fringes (Part 2/2)," 2 Tamuz 5785 (2025-06-28), raw text in

@@ -143,7 +143,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Foreheads and Fadihot," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Foreheads and Fadihot](https://articles.ohr.edu/articles/foreheads-and-fadihot)," What's in a Word?, Ohr
 Somayach, 4 Adar II 5780 (2020-02-29):
 `sources/whats-in-a-word/raw/8622-foreheads-and-fadihot.md`. Primary loci: Shemos
 28:38 with Targum Yonasan (the article's opening prints Shemos 29:38 and

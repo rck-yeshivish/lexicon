@@ -115,7 +115,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Down by the River," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Down by the River](https://articles.ohr.edu/articles/down-by-the-river)," What's in a Word?, Ohr Somayach,
 28 Teves 5779 (2019-01-05):
 `sources/whats-in-a-word/raw/8076-down-by-the-river.md`. Primary loci: Shemos
 7:19 with Rashi; Bereishis 2:11; Yirmiyahu 46:10 and Yeshayahu 19:5 with Malbim;

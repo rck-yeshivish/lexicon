@@ -194,7 +194,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "To Remain Silent," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[To Remain Silent](https://articles.ohr.edu/articles/to-remain-silent)," What's in a Word?, Ohr Somayach,
 for the week ending 7 March 2020 / 11 Adar II 5780: raw text in
 `sources/whats-in-a-word/raw/8634-to-remain-silent.md`. Primary loci the article
 cites: Esther 4:14 with *Esther Rabbah* 8:6; Yonah 1:11 to 12; Targum to Bereishis

@@ -168,7 +168,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Nursing from the Good," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Nursing from the Good](https://articles.ohr.edu/articles/nursing-from-the-good)," What's in a Word?, Ohr
 Somayach, 13 Av 5784 (2024-08-17):
 https://articles.ohr.edu/articles/nursing-from-the-good; raw text in
 `sources/whats-in-a-word/raw/11489-nursing-from-the-good.md`. Primary loci:

@@ -146,7 +146,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayikra: The Kidneys Advisory," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayikra: The Kidneys Advisory](https://articles.ohr.edu/articles/vayikra-the-kidneys-advisory)," What's in a Word?, Ohr
 Somayach, 13 Adar II 5784 (2024-03-23): raw text in
 `sources/whats-in-a-word/raw/11307-vayikra-the-kidneys-advisory.md`. The article's
 list of the korbanos loci prints "Lev. 2:15" and "4:7"; the fifteen instances run

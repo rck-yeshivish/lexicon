@@ -192,7 +192,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shelach: Learning the Ropes," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shelach: Learning the Ropes](https://articles.ohr.edu/articles/shelach-learning-the-ropes)," What's in a Word?, Ohr
 Somayach, 21 Sivan 5783 (2023-06-10): raw text in
 `sources/whats-in-a-word/raw/10974-shelach-learning-the-ropes.md`. Primary loci:
 Yehoshua 2:1-22, and 2:15 for the *chevel*; Bereishis

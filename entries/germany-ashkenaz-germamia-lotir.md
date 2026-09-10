@@ -208,7 +208,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Noach: Ashkenaz and Teutonic Jews," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Noach: Ashkenaz and Teutonic Jews](https://articles.ohr.edu/articles/noach-ashkenaz-and-teutonic-jews)," What's in a Word?,
 1 Cheshvan 5784 (2024-11-02): raw text in
 `sources/whats-in-a-word/raw/11563-noach-ashkenaz-and-teutonic-jews.md`. Primary
 loci cited: Bereishis 10:2-3; Divrei HaYamim I 1:5-6; Yirmiyahu 51:27; Ovadiah

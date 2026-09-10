@@ -121,7 +121,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Spy versus Spy," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," What's in a Word?, Ohr Somayach,
 23 Sivan 5777 (2017-06-17): https://articles.ohr.edu/articles/spy-versus-spy;
 raw text in `sources/whats-in-a-word/raw/7302-spy-versus-spy.md`. Primary loci:
 Bamidbar 13-14; Devarim 1:22, 1:24; Bereishis 42; Yehoshua 2:1; Rabbi Yaakov

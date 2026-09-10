@@ -113,7 +113,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Marshes, Marshes, Marshes," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Marshes, Marshes, Marshes](https://articles.ohr.edu/articles/marshes-marshes-marshes)," What's in a Word?, Ohr
 Somayach, 3 Shevat 5781 (2021-01-16); raw text at
 `sources/whats-in-a-word/raw/9031-marshes-marshes-marshes.md`. Primary loci
 cited: Bereishis 41:2 and 41:18 with Rashi and Ramban; Shemos 7:19 and 8:1 with

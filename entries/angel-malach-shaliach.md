@@ -109,6 +109,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Angels and Agents," *What's in a Word?*, Ohr Somayach, 2 December 2017.
+Rabbi Reuven Chaim Klein, "[Angels and Agents](https://articles.ohr.edu/articles/angels-and-agents)," *What's in a Word?*, Ohr Somayach, 2 December 2017.
 
-Loci: Bereishis 32:4 with *Bereishis Rabbah* 75:4 and Rashi; Radak, *Sefer HaShorashim* s.v. לאך; Rambam, *Moreh Nevuchim* 2:6; Ralbag on Tanach passim; Vilna Gaon to Mishlei 13:17.
+Cited in the essay: Bereishis 32:4 with *Bereishis Rabbah* 75:4 and Rashi; Radak, *Sefer HaShorashim* s.v. לאך; Rambam, *Moreh Nevuchim* 2:6; Ralbag on Tanach passim; Vilna Gaon to Mishlei 13:17.

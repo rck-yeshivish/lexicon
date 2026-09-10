@@ -170,7 +170,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Devarim: All Mixed Up," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Devarim: All Mixed Up](https://articles.ohr.edu/articles/devarim-all-mixed-up)," What's in a Word?, Ohr
 Somayach, 6 Av 5784 (2024-08-10): raw text in
 `sources/whats-in-a-word/raw/11480-devarim-all-mixed-up.md`. Primary loci
 cited: Mishlei 14:10, 20:19, 24:21; Tehillim 106:35, 126:5; Ezra 9:2; Daniel

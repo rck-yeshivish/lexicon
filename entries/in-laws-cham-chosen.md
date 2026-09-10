@@ -113,7 +113,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Heat with the In-Laws," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Heat with the In-Laws](https://articles.ohr.edu/articles/heat-with-the-in-laws)," What's in a Word?, Ohr
 Somayach, 20 Shevat 5780 (2020-02-15): raw text in
 `sources/whats-in-a-word/raw/8605-heat-with-the-in-laws.md`. Primary loci
 cited: Shemos 18:1-27; Devarim 27:23; Bereishis 38:13, 38:25; Rus 2:11-3:17;

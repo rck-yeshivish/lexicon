@@ -126,7 +126,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Return to Sender: The True Meaning of Teshuva,"
+Rabbi Reuven Chaim Klein, "[Return to Sender: The True Meaning of Teshuva](https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva),"
 What's in a Word?, Ohr Somayach, 6 Tishrei 5780 (2019-10-05): raw text in
 `sources/whats-in-a-word/raw/8422-return-to-sender-the-true-meaning-of-teshuva.md`.
 Primary loci: Hoshea 14:2; Devarim 30:2, 22:1; Vayikra 5:23, 11:2; Bereishis

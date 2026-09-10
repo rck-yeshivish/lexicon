@@ -95,7 +95,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Rabbi of Robbers," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Rabbi of Robbers](https://articles.ohr.edu/articles/rabbi-of-robbers)," What's in a Word?, Ohr Somayach,
 29 Shevat 5777 (2017-02-25): raw text in
 `sources/whats-in-a-word/raw/7153-rabbi-of-robbers.md`. Primary loci cited:
 *Bava Metzia* 84a (Reish Lakish and Rabbi Yochanan); *Berachos* 60b (*Ribbon

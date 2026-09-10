@@ -146,7 +146,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Family Matters," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Family Matters](https://articles.ohr.edu/articles/family-matters)," What's in a Word?, Ohr Somayach,
 16 Kislev 5782 (2021-11-20): raw text in
 `sources/whats-in-a-word/raw/9448-family-matters.md`. Primary loci: Bereishis
 32:9, 33:8, 35:2, 2:23, 6:14, 24:38, 42:19, 45:2; Shemos 21:10, 25:11, 37:2;

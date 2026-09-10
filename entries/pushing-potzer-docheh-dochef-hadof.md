@@ -215,7 +215,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayera: Getting Pushy," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayera: Getting Pushy](https://articles.ohr.edu/articles/vayera-getting-pushy)," What's in a Word?, Ohr
 Somayach, 20 Cheshvan 5784 (2023-11-04): raw text in
 `sources/whats-in-a-word/raw/11128-vayera-getting-pushy.md`. Primary loci:
 Bereishis 19:3, 19:9, 20:13, 33:11, 33:13; Bamidbar 35:20, 35:22, 33:12-13;

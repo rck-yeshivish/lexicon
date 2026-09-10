@@ -120,7 +120,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "On Hooks and Hangers," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[On Hooks and Hangers](https://articles.ohr.edu/articles/on-hooks-and-hangers)," What's in a Word?, Ohr
 Somayach, 4 Adar Alef 5782 (2022-02-05):
 https://articles.ohr.edu/articles/on-hooks-and-hangers, raw text in
 `sources/whats-in-a-word/raw/9565-on-hooks-and-hangers.md`. Primary loci cited:

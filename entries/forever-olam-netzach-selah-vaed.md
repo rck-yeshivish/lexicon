@@ -107,7 +107,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Forever and Ever," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Forever and Ever](https://articles.ohr.edu/articles/forever-and-ever)," What's in a Word?, Ohr Somayach,
 25 Shevat 5778 (2018-02-10),
 https://articles.ohr.edu/articles/forever-and-ever; raw text in
 `sources/whats-in-a-word/raw/7633-forever-and-ever.md`. Primary loci: Shemos

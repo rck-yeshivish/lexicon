@@ -101,7 +101,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Mercy or Pity," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Mercy or Pity](https://articles.ohr.edu/articles/mercy-or-pity)," What's in a Word?, Ohr Somayach,
 23 Adar II 5778 (2018-03-10): raw text in
 `sources/whats-in-a-word/raw/7679-mercy-or-pity.md`. Primary loci the article
 cites: Rabbeinu Bachaya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos,

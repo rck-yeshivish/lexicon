@@ -154,7 +154,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayakhel (Shabbat Shekalim)," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayakhel (Shabbat Shekalim)](https://articles.ohr.edu/articles/vayakhel-shabbat-shekalim)," What's in a Word?, Ohr
 Somayach, 25 Adar I 5782 (2022-02-26): raw text in
 `sources/whats-in-a-word/raw/9595-vayakhel-shabbat-shekalim.md`. Primary loci:
 Shemos 30:11-16, 38:26, 17:16 with Rashi; Bereishis 24:22; Vayikra 5:15;

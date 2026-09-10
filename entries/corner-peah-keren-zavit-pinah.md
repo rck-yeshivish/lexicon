@@ -205,7 +205,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayakhel-Pekudai: Turning the Corner (Part 1/2)"
+Rabbi Reuven Chaim Klein, "[Vayakhel-Pekudai: Turning the Corner (Part 1/2)](https://articles.ohr.edu/articles/vayakhel-pekudai-turning-the-corner-part-12)"
 (2023-03-18) and "Vayikra: Turning the Corner (Part 2/2)" (2023-03-25), What's
 in a Word?, Ohr Somayach: raw text in
 `sources/whats-in-a-word/raw/10884-vayakhel-pekudai-turning-the-corner-part-12.md`

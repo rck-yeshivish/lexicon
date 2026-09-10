@@ -92,7 +92,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Speaking in Tongues," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Speaking in Tongues](https://articles.ohr.edu/articles/speaking-in-tongues)," What's in a Word?, Ohr Somayach,
 5 Teves 5778 (2017-12-23):
 https://articles.ohr.edu/articles/speaking-in-tongues; raw text in
 `sources/whats-in-a-word/raw/7548-speaking-in-tongues.md`. Primary loci:

@@ -98,7 +98,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "G-d's Best Friend," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[G-d's Best Friend](https://articles.ohr.edu/articles/g-ds-best-friend)," What's in a Word?, Ohr Somayach,
 18 Shevat 5778 (2018-02-03): raw text in
 `sources/whats-in-a-word/raw/7620-g-ds-best-friend.md`. Primary loci cited: the
 Midrash on Yisro's seven names; Devarim 13:7; Vayikra 19:18; Shemos 11:2;

@@ -113,7 +113,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "For Crying Out Loud," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[For Crying Out Loud](https://articles.ohr.edu/articles/for-crying-out-loud)," What's in a Word?, Ohr Somayach,
 9 Adar II 5778 (2018-02-24):
 `sources/whats-in-a-word/raw/7655-for-crying-out-loud.md`. Primary loci:
 Bereishis 27:34; Esther 4:1; Tehillim 107 (verses 6, 13, 19, 28) with Malbim at

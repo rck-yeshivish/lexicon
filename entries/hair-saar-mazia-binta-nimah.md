@@ -131,7 +131,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "All About Hair," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[All About Hair](https://articles.ohr.edu/articles/all-about-hair)," What's in a Word?, Ohr Somayach,
 20 June 2020 / 28 Sivan 5780: raw text in
 `sources/whats-in-a-word/raw/8754-all-about-hair.md`. Primary loci cited:
 Bamidbar 8:7, 16:1; Vayikra 13:37, 14:9; Devarim 21:12, 32:24 with Rashi;

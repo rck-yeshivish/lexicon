@@ -139,7 +139,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bo: Come To Pharaoh," What's in a Word?, Ohr Somayach
+Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articles/bo-come-to-pharaoh)," What's in a Word?, Ohr Somayach
 (2021-01-23): raw text in
 `sources/whats-in-a-word/raw/9039-bo-come-to-pharaoh.md`. Primary loci: Shemos
 10:1, 7:15, 7:26, 9:1, 8:15; Bereishis 29:9, 37:19, 4:15; Devarim 33:2;

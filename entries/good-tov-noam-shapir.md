@@ -139,7 +139,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayechi: Good and Pleasant," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayechi: Good and Pleasant](https://articles.ohr.edu/articles/vayechi-good-and-pleasant)," What's in a Word?, Ohr
 Somayach, 11 Teves 5785 (2025-01-11): raw text in
 `sources/whats-in-a-word/raw/11655-vayechi-good-and-pleasant.md`. The article
 vocalizes the *shin* of Iyov 26:13 as *shafrah*, on the pattern of Tehillim

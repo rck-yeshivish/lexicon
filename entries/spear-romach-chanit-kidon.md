@@ -178,7 +178,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Pinchas: Piercing Spears," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Pinchas: Piercing Spears](https://articles.ohr.edu/articles/pinchas-piercing-spears)," What's in a Word?, Ohr
 Somayach, 19 Tammuz 5783 (2023-07-08): raw text in
 `sources/whats-in-a-word/raw/11010-pinchas-piercing-spears.md`. Primary loci
 cited: Bamidbar 25:7; Shemos 15:1 (Rav Hirsch, with Bamidbar 25:7); Yehoshua

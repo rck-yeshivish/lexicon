@@ -150,7 +150,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Chayei Sarah: Take a Drink," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Chayei Sarah: Take a Drink](https://articles.ohr.edu/articles/chayei-sarah-take-a-drink)," What's in a Word?, Ohr
 Somayach, 18 Cheshvan 5783 (2022-11-12),
 https://articles.ohr.edu/articles/chayei-sarah-take-a-drink; raw text in
 `sources/whats-in-a-word/raw/10709-chayei-sarah-take-a-drink.md`. Primary loci

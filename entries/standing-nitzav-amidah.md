@@ -141,7 +141,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Parshas Bo: Please Stand Up," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Parshas Bo: Please Stand Up](https://articles.ohr.edu/articles/parshas-bo-please-stand-up)," What's in a Word?, Ohr
 Somayach, 6 Shvat 5783 (2023-01-28): raw text in
 `sources/whats-in-a-word/raw/10810-parshas-bo-please-stand-up.md`. Primary loci:
 Bereishis 18:22, 24:13, 24:30, 28:12, 28:13; Shemos 2:4, 5:20, 7:15, 8:16,

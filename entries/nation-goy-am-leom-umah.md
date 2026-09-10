@@ -135,7 +135,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Unaffiliated Nations," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Unaffiliated Nations](https://articles.ohr.edu/articles/the-unaffiliated-nations)," What's in a Word?, Ohr
 Somayach, 29 Cheshvan 5778 (2017-11-18): raw text in
 `sources/whats-in-a-word/raw/7491-the-unaffiliated-nations.md`. Primary loci
 cited: Bereishis 25:23 with Rashi and Targum; Rashi to Tehillim 2:1 citing Ibn

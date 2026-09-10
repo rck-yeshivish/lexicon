@@ -126,7 +126,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Disgraceful Disparagement," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Disgraceful Disparagement](https://articles.ohr.edu/articles/disgraceful-disparagement)," What's in a Word?, Ohr
 Somayach, 2 Kislev 5782 (2021-11-06):
 `sources/whats-in-a-word/raw/9428-disgraceful-disparagement.md`. Primary loci:
 Bereishis 25:34 (with Rashi), 16:4, 8:11; Esther 3:6; Malachi 1:6-8 (the article

@@ -101,7 +101,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Burke and Rebuke," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Burke and Rebuke](https://articles.ohr.edu/articles/burke-and-rebuke)," What's in a Word?, Ohr Somayach,
 24 Iyar 5777 (2017-05-20): raw text in
 `sources/whats-in-a-word/raw/7260-burke-and-rebuke.md`. Primary loci the
 article cites: Vayikra 19:17 (the mitzvah of rebuke); Vayikra 26:14-43 and

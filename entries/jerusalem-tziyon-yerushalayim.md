@@ -158,7 +158,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Twin Cities: Zion and Jerusalem," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Twin Cities: Zion and Jerusalem](https://articles.ohr.edu/articles/twin-cities-zion-and-jerusalem)," What's in a Word?,
 Ohr Somayach, 16 Av 5778 (2018-07-28): raw text in
 `sources/whats-in-a-word/raw/7874-twin-cities-zion-and-jerusalem.md`. Primary
 loci cited: Melachim I 8:1 and Divrei HaYamim II 5:2; Shmuel II 8:7 with Rashi;

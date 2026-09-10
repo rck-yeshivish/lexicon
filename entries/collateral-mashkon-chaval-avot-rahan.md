@@ -166,7 +166,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Taking Collateral," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Taking Collateral](https://articles.ohr.edu/articles/taking-collateral)," What's in a Word?, Ohr Somayach,
 9 Elul 5783 (2023-08-26): https://articles.ohr.edu/articles/taking-collateral;
 raw text in `sources/whats-in-a-word/raw/11066-taking-collateral.md`. Primary
 loci cited: Shemos 22:25; Devarim 15:6, 15:8, 24:6, 24:10-13, 24:17; Yechezkel

@@ -116,7 +116,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Crouching Lion, Hidden Blessing," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Crouching Lion, Hidden Blessing](https://articles.ohr.edu/articles/crouching-lion-hidden-blessing)," What's in a Word?,
 Ohr Somayach, 14 Teves 5779 (2018-12-22),
 https://articles.ohr.edu/articles/crouching-lion-hidden-blessing; raw text in
 `sources/whats-in-a-word/raw/8039-crouching-lion-hidden-blessing.md`. Primary

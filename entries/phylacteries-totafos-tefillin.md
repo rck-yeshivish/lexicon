@@ -197,7 +197,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Bo: Filling your Phylacteries," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Bo: Filling your Phylacteries](https://articles.ohr.edu/articles/bo-filling-your-phylacteries)," What's in a Word?,
 Ohr Somayach (2024-01-20): raw text in
 `sources/whats-in-a-word/raw/11218-bo-filling-your-phylacteries.md`. Primary
 loci: Shemos 13:16, Devarim 6:8, 11:18, 28:10; Menachos 34b with Tosafos and

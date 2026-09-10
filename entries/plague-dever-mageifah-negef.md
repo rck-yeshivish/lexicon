@@ -106,7 +106,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Plague of Plagues," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Plague of Plagues](https://articles.ohr.edu/articles/plague-of-plagues)," What's in a Word?, Ohr Somayach,
 26 Teves 5778 (2018-01-13): raw text in
 `sources/whats-in-a-word/raw/7579-plague-of-plagues.md`. Primary loci cited:
 Shemos 5:3, 7:27, 9:14, 21:22, 21:35, 30:12; Bamidbar 25:9; Shmuel II 24:15;

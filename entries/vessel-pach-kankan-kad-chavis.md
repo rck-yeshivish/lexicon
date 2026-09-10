@@ -178,7 +178,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Miketz: Cans of Oil," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Miketz: Cans of Oil](https://articles.ohr.edu/articles/miketz-cans-of-oil)," What's in a Word?, Ohr Somayach,
 23 Kislev 5783 (2022-12-17): raw text in
 `sources/whats-in-a-word/raw/10751-miketz-cans-of-oil.md`. Primary loci cited:
 Shabbos 21b; *Megillas Taanis* to 25 Kislev; *Sheiltos D'Rav Achai Gaon*,

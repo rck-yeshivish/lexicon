@@ -174,7 +174,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Welcome to Rooster City," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Welcome to Rooster City](https://articles.ohr.edu/articles/welcome-to-rooster-city)," What's in a Word?, Ohr
 Somayach, 1 Av 5781 (2021-07-10): raw text in
 `sources/whats-in-a-word/raw/9288-welcome-to-rooster-city.md`. Primary loci:
 Bamidbar 24:3, 24:15, 33:35-36; Devarim 2:8; Vayikra 11:19; Melachim I 9:26,

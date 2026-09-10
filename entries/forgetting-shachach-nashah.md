@@ -116,7 +116,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Forget About It," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Forget About It](https://articles.ohr.edu/articles/forget-about-it)," What's in a Word?, Ohr Somayach,
 14 Elul 5779 (2019-09-14): raw text in
 `sources/whats-in-a-word/raw/8389-forget-about-it.md`. Primary loci cited:
 Devarim 4:9, 4:23, 4:31, 6:12, 8:11, 8:14, 8:19, 9:7, 25:19, 26:13, 31:21,

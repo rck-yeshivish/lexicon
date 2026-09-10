@@ -119,7 +119,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Raise the Curtain," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Raise the Curtain](https://articles.ohr.edu/articles/raise-the-curtain)," What's in a Word?, Ohr Somayach,
 25 Adar I 5779 (2019-03-02): raw text in
 `sources/whats-in-a-word/raw/8157-raise-the-curtain.md`. Primary loci cited:
 Shemos 1:13, 26:31, 26:31-33, 26:36, 35:12; Shmuel II 17:19; Tehillim 105:39;

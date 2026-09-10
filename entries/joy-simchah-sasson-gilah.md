@@ -88,7 +88,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Subtleties of Simcha and Sasson," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Subtleties of Simcha and Sasson](https://articles.ohr.edu/articles/subtleties-of-simcha-and-sasson)," What's in a Word?,
 Ohr Somayach, 3 Tammuz 5776 (2016-07-09): raw text in
 `sources/whats-in-a-word/raw/6839-subtleties-of-simcha-and-sasson.md`. Primary
 loci the article cites: Sukkah 48b (the contest of Simchah and Sasson); Esther

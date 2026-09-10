@@ -149,7 +149,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Laundering and Cleaning," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Laundering and Cleaning](https://articles.ohr.edu/articles/laundering-and-cleaning)," What's in a Word?, Ohr
 Somayach, 20 Shevat 5782 (2022-01-22); raw text at
 `sources/whats-in-a-word/raw/9544-laundering-and-cleaning.md`. Primary loci
 cited: Shemos 19:10 with *Yevamos* 46b and Targum Onkelos; Vayikra 6:20, 6:21

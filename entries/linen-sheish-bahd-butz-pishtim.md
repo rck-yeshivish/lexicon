@@ -132,7 +132,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Is Cotton a Type of Linen?", What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Is Cotton a Type of Linen?](https://articles.ohr.edu/articles/is-cotton-a-type-of-linen)", What's in a Word?, Ohr
 Somayach, 11 Adar I 5779 (2019-02-16),
 https://articles.ohr.edu/articles/is-cotton-a-type-of-linen; raw text in
 `sources/whats-in-a-word/raw/8140-is-cotton-a-type-of-linen.md`. Primary loci:

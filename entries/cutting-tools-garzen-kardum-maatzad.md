@@ -213,7 +213,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayigash: Cutting Tools," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayigash: Cutting Tools](https://articles.ohr.edu/articles/vayigash-cutting-tools)," What's in a Word?, Ohr
 Somayach, 4 Teves 5785 (2025-01-04): raw text in
 `sources/whats-in-a-word/raw/11644-vayigash-cutting-tools.md`. Primary loci:
 Devarim 19:5, 20:19; Yeshayahu 10:15 (the article prints 10:5) and 44:12;

@@ -142,7 +142,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Stealing and Robbing," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Stealing and Robbing](https://articles.ohr.edu/articles/stealing-and-robbing)," What's in a Word?, Ohr
 Somayach, 27 Shevat 5780 (2020-02-22): raw text in
 `sources/whats-in-a-word/raw/8613-stealing-and-robbing.md`. Primary loci:
 Vayikra 5:23, 19:11, 19:13; Shemos 20:13, 21:37, 22:3, 23:19 with Rav Hirsch;

@@ -133,7 +133,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Coriander Conundrum," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[A Coriander Conundrum](https://articles.ohr.edu/articles/a-coriander-conundrum)," What's in a Word?, Ohr
 Somayach, 14 Sivan 5780 (2020-06-06):
 https://articles.ohr.edu/articles/a-coriander-conundrum; raw text in
 `sources/whats-in-a-word/raw/8735-a-coriander-conundrum.md`. Primary loci: Shemos

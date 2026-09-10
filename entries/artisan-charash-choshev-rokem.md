@@ -163,6 +163,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Pekudai: Crafty Artisans," *What's in a Word?*, Ohr Somayach, 16 March 2024.
+Rabbi Reuven Chaim Klein, "[Pekudai: Crafty Artisans](https://articles.ohr.edu/articles/pekudai-crafty-artisans)," *What's in a Word?*, Ohr Somayach, 16 March 2024.
 
-Loci: Bereishis 4:22; Shemos 22:17, 26:1, 26:31, 28:11, 31:5, 35:33, 35:35, 38:23; Shoftim 5:30, 16:2; Shmuel I 23:9; Shmuel II 5:11; Melachim II 12:12, 24:14, 24:16; Yeshayahu 3:3, 44:12-13; Yirmiyahu 29:2; Yechezkel 17:3; Mishlei 3:29; Iyov 4:8; Shir HaShirim 7:2; Ezra 3:7; Divrei HaYamim I 22:15, II 24:12; Yoma 72b; Gittin 88a; Sanhedrin 38a; Rambam, *Hilchos Klei HaMikdash* 8:15; Ibn Janach's introduction to *Sefer HaDikduk*; Dr. Alexander Kohut, *He'Aruch HaShaleim*, citing Peretz Smolenskin.
+Cited in the essay: Bereishis 4:22; Shemos 22:17, 26:1, 26:31, 28:11, 31:5, 35:33, 35:35, 38:23; Shoftim 5:30, 16:2; Shmuel I 23:9; Shmuel II 5:11; Melachim II 12:12, 24:14, 24:16; Yeshayahu 3:3, 44:12-13; Yirmiyahu 29:2; Yechezkel 17:3; Mishlei 3:29; Iyov 4:8; Shir HaShirim 7:2; Ezra 3:7; Divrei HaYamim I 22:15, II 24:12; Yoma 72b; Gittin 88a; Sanhedrin 38a; Rambam, *Hilchos Klei HaMikdash* 8:15; Ibn Janach's introduction to *Sefer HaDikduk*; Dr. Alexander Kohut, *He'Aruch HaShaleim*, citing Peretz Smolenskin.

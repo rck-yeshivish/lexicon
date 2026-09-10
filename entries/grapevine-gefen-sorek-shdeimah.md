@@ -153,7 +153,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Through the Grapevine," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Through the Grapevine](https://articles.ohr.edu/articles/through-the-grapevine)," What's in a Word?, Ohr
 Somayach, 14 Teves 5782 (2021-12-18): raw text in
 `sources/whats-in-a-word/raw/9491-through-the-grapevine.md`. Primary loci
 cited: Bereishis 49:11 and 40:10 to 40:12; Devarim 32:32; Yeshayahu 5:2, 16:4,

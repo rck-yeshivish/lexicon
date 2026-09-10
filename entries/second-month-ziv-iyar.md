@@ -191,7 +191,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Shiny Month," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[The Shiny Month](https://articles.ohr.edu/articles/the-shiny-month)," What's in a Word?, Ohr Somayach,
 17 Iyar 5784 (2024-05-25), dedicated to the memory of the author's grandfather
 Dovid (Dezider) Messinger, who died on the twentieth of Iyar 2009, the day of
 Bamidbar 10:11 with which the essay opens: raw

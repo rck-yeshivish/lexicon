@@ -171,7 +171,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Pesach: Telling the Story," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Pesach: Telling the Story](https://articles.ohr.edu/articles/pesach-telling-the-story)," What's in a Word?, Ohr
 Somayach, 8 Nisan 5779 (2019-04-13):
 https://articles.ohr.edu/articles/pesach-telling-the-story, raw text in
 `sources/whats-in-a-word/raw/8217-pesach-telling-the-story.md`. Primary loci

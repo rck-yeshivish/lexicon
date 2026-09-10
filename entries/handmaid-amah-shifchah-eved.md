@@ -138,7 +138,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Handmaid's Deal," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Handmaid's Deal](https://articles.ohr.edu/articles/the-handmaids-deal)," What's in a Word?, Ohr
 Somayach, 27 Shevat 5779 (2019-02-02):
 https://articles.ohr.edu/articles/the-handmaids-deal; raw text in
 `sources/whats-in-a-word/raw/8120-the-handmaids-deal.md`. Primary loci cited:

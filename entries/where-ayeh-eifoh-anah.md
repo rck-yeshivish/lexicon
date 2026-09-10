@@ -148,7 +148,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Where are You," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Where are You](https://articles.ohr.edu/articles/where-are-you)," What's in a Word?, Ohr Somayach,
 18 Cheshvan 5780 (2019-11-16): https://articles.ohr.edu/articles/where-are-you;
 raw text in `sources/whats-in-a-word/raw/8478-where-are-you.md`. Primary loci
 cited: Bereishis 3:9, 4:9, 18:9, 27:33, 29:4, 43:11; Bamidbar 11:13, 14:11;

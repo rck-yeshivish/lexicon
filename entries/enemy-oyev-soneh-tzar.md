@@ -80,7 +80,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Variety of Enemies," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[A Variety of Enemies](https://articles.ohr.edu/articles/a-variety-of-enemies)," What's in a Word?, Ohr
 Somayach, 2 July 2016 / 26 Sivan 5776: raw text in
 `sources/whats-in-a-word/raw/6828-a-variety-of-enemies.md`. Primary loci cited:
 Bamidbar 10:35; Vayikra 19:17; Mishnah Sanhedrin 3:5; Esther 9:10; Malbim and

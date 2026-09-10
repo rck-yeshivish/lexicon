@@ -151,7 +151,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "That's a Flogging," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[That's a Flogging](https://articles.ohr.edu/articles/thats-a-flogging)," What's in a Word?, Ohr Somayach,
 6 Shevat 5780 (2020-02-01):
 https://articles.ohr.edu/articles/thats-a-flogging; raw text in
 `sources/whats-in-a-word/raw/8584-thats-a-flogging.md`. Primary loci cited:

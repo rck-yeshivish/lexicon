@@ -111,7 +111,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Defining Freedom," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Defining Freedom](https://articles.ohr.edu/articles/defining-freedom)," What's in a Word?, Ohr Somayach,
 15 Nisan 5778 (2018-03-31): raw text in
 `sources/whats-in-a-word/raw/7707-defining-freedom.md`. Primary loci cited:
 Vayikra 25:10; Rosh Hashanah 9b; Beitzah 24a; Radak, *Sefer HaShorashim* s.v.

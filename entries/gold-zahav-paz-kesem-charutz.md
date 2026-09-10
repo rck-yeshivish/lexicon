@@ -198,7 +198,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Where's The Gold?," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Where's The Gold?](https://articles.ohr.edu/articles/wheres-the-gold)," What's in a Word?, Ohr Somayach,
 7 Sivan 5780 (2020-05-30): raw text in
 `sources/whats-in-a-word/raw/8724-wheres-the-gold.md`. Primary loci: Bereishis
 2:11-12, 10:29, 49:23-24; Melachim I 6 and 7, 9:28, 10:11, 10:16-18, 22:49;

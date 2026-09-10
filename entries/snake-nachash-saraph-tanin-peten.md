@@ -157,7 +157,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Slithering Serpents and Sea Snakes, Part 1," What's
+Rabbi Reuven Chaim Klein, "[Slithering Serpents and Sea Snakes, Part 1](https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1)," What's
 in a Word?, Ohr Somayach, 7 Tammuz 5777 (2017-07-01),
 https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1, and
 "Part 2," 21 Tammuz 5777 (2017-07-15),

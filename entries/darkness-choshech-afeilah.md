@@ -112,7 +112,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Turning off the Lights," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Turning off the Lights](https://articles.ohr.edu/articles/turning-off-the-lights)," What's in a Word?, Ohr
 Somayach, 8 Shevat 5777 (2017-02-04): raw text in
 `sources/whats-in-a-word/raw/7123-turning-off-the-lights.md`. Primary loci
 cited: Shemos 10:21 to 23 with Rashi and Ramban; Yeshayahu 45:7; Radak, *Sefer

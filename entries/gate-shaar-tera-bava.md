@@ -151,7 +151,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Vayishlach: Enter the Gate," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Vayishlach: Enter the Gate](https://articles.ohr.edu/articles/vayishlach-enter-the-gate)," What's in a Word?, Ohr
 Somayach, 9 Kislev 5783 (2022-12-03): raw text in
 `sources/whats-in-a-word/raw/10740-vayishlach-enter-the-gate.md`. Two article
 slips: it cites a *bavas* discussion at "Ketubot 1061," evidently 106a; and it

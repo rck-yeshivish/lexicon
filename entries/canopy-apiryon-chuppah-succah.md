@@ -95,7 +95,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Panoply of Canopies," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[A Panoply of Canopies](https://articles.ohr.edu/articles/a-panoply-of-canopies)," What's in a Word?, Ohr
 Somayach (2017-01-21): raw text in
 `sources/whats-in-a-word/raw/7103-a-panoply-of-canopies.md`. Primary loci:
 Shemos 2:1 to 10, 35:12; Shir HaShirim 3:9 to 11; *Sotah* 12a; *Bava Basra*

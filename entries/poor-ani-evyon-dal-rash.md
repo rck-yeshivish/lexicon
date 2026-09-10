@@ -150,7 +150,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Poor and Unfortunate," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[The Poor and Unfortunate](https://articles.ohr.edu/articles/the-poor-and-unfortunate)," What's in a Word?, Ohr
 Somayach, 13 Iyar 5779 (2019-05-18):
 https://articles.ohr.edu/articles/the-poor-and-unfortunate; raw text in
 `sources/whats-in-a-word/raw/8245-the-poor-and-unfortunate.md`. The nine-word

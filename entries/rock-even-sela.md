@@ -111,7 +111,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Like a Rock (Part 1)," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Like a Rock (Part 1)](https://articles.ohr.edu/articles/like-a-rock-part-1)," What's in a Word?, Ohr
 Somayach, 9 Kislev 5779 (2018-11-17); raw text at
 `sources/whats-in-a-word/raw/7990-like-a-rock-part-1.md`. Primary loci cited:
 Bereishis 28:11, 28:18, 29:10, 49:24; *Zevachim* 13:3 with the machlokes of

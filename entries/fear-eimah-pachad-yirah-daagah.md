@@ -87,7 +87,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Afraid of Fright or Ready to Fight," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Afraid of Fright or Ready to Fight](https://articles.ohr.edu/articles/afraid-of-fright-or-ready-to-fight)," What's in a Word?,
 Ohr Somayach, 25 Cheshvan 5777 (2016-11-26): raw text in
 `sources/whats-in-a-word/raw/7018-afraid-of-fright-or-ready-to-fight.md`. Primary
 loci the article cites: Rashi to Shemos 15:16 and Devarim 11:25; Ibn Ezra to Shemos

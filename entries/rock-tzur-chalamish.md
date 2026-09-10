@@ -133,7 +133,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Like a Rock (Part 2)," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Like a Rock (Part 2)](https://articles.ohr.edu/articles/like-a-rock-part-2)," What's in a Word?, Ohr
 Somayach, 16 Kislev 5779 (2018-11-24); raw text at
 `sources/whats-in-a-word/raw/8000-like-a-rock-part-2.md`. Primary loci cited:
 Shemos 4:25 and 39:11; Yehoshua 5:2-3; Devarim 8:15, 32:4, 32:13, 32:18, 32:30;

@@ -152,7 +152,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Haircut Time," What's in a Word?, Ohr Somayach, 1
+Rabbi Reuven Chaim Klein, "[Haircut Time](https://articles.ohr.edu/articles/haircut-time)," What's in a Word?, Ohr Somayach, 1
 Nissan 5782 (2022-04-02), https://articles.ohr.edu/articles/haircut-time; raw
 text in `sources/whats-in-a-word/raw/9642-haircut-time.md`. Primary loci:
 Vayikra 14:8 and 14:9; Bamidbar 6:9, 6:18 and 6:19; Rav Hirsch to Bereishis 9:21

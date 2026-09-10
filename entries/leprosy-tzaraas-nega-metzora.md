@@ -205,7 +205,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Tazria/Metzora: Spot on (Tzar'at)," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Tazria/Metzora: Spot on (Tzar'at)](https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat)," What's in a Word?,
 Ohr Somayach, 5 Iyar 5785 (2025-05-03): raw text in
 `sources/whats-in-a-word/raw/11793-tazriametzora-spot-on-tzarat.md`. The
 published text is cut short at the source, breaking off mid-word inside Shadal's

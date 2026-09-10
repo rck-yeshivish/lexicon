@@ -163,7 +163,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Matos Masei: The Shiloach Waters," What's in a
+Rabbi Reuven Chaim Klein, "[Matos Masei: The Shiloach Waters](https://articles.ohr.edu/articles/matos-masei-the-shiloach-waters)," What's in a
 Word?, Ohr Somayach, 26 Tamuz 5783 (2023-07-15): raw text in
 `sources/whats-in-a-word/raw/11019-matos-masei-the-shiloach-waters.md`. Primary
 loci cited: Bereishis 2:13 and 3:14; Melachim I 1:33, 1:38, 1:45; Divrei

@@ -98,7 +98,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Words of Destruction," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Words of Destruction](https://articles.ohr.edu/articles/words-of-destruction)," What's in a Word?, Ohr
 Somayach (2017-07-29): raw text in
 `sources/whats-in-a-word/raw/7366-words-of-destruction.md`. Primary loci:
 Vayikra 26:31; Tehillim 137:1; Radak, *Sefer HaShorashim* s.v. שמם; Ibn Ezra on

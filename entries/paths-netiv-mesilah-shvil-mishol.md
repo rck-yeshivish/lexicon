@@ -115,7 +115,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "On the Straight and Narrow," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[On the Straight and Narrow](https://articles.ohr.edu/articles/on-the-straight-and-narrow)," What's in a Word?, Ohr
 Somayach, 21 Elul 5778 (2018-09-01): raw text in
 `sources/whats-in-a-word/raw/7917-on-the-straight-and-narrow.md`. The piece is
 the sequel to the column's own treatment of *derech* and *orach*. Primary loci:

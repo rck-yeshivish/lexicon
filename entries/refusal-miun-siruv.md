@@ -165,7 +165,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Biblical Refuseniks," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Biblical Refuseniks](https://articles.ohr.edu/articles/biblical-refuseniks)," What's in a Word?, Ohr
 Somayach, 9 Tammuz 5781 (2021-06-19): raw text in
 `sources/whats-in-a-word/raw/9254-biblical-refuseniks.md`. Primary loci cited:
 Bamidbar 20:21, 22:13; Bereishis 37:35, 39:8, 48:19; Shmuel II 13:9; Shemos

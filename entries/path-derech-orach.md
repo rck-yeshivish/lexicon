@@ -184,7 +184,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Roads and Paths, Ways and Means," What's in a
+Rabbi Reuven Chaim Klein, "[Roads and Paths, Ways and Means](https://articles.ohr.edu/articles/roads-and-paths-ways-and-means)," What's in a
 Word?, Ohr Somayach, 14 Elul 5778 (2018-08-25): raw text in
 `sources/whats-in-a-word/raw/7893-roads-and-paths-ways-and-means.md`. Primary
 loci the article cites: Bereishis 49:16-18 (the pasuk itself is 49:17) with

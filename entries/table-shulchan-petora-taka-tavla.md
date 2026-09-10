@@ -193,7 +193,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Terumah: A Table for Thee," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Terumah: A Table for Thee](https://articles.ohr.edu/articles/terumah-a-table-for-thee)," What's in a Word?, Ohr
 Somayach, 8 Adar Alef 5784 (2024-02-17):
 https://articles.ohr.edu/articles/terumah-a-table-for-thee; raw text in
 `sources/whats-in-a-word/raw/11261-terumah-a-table-for-thee.md`. Primary loci

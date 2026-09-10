@@ -98,7 +98,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Foot Festivals," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Foot Festivals](https://articles.ohr.edu/articles/foot-festivals)," What's in a Word?, Ohr Somayach,
 17 Tammuz 5778 (2018-06-30): raw text in
 `sources/whats-in-a-word/raw/7828-foot-festivals.md`. Primary loci: Bamidbar
 22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8;

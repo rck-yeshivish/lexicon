@@ -157,7 +157,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shemot: Here We Go," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Shemot: Here We Go](https://articles.ohr.edu/articles/shemot-here-we-go)," What's in a Word?, Ohr Somayach,
 18 Teves 5785 (2025-01-18): https://articles.ohr.edu/articles/shemot-here-we-go;
 raw text in `sources/whats-in-a-word/raw/11665-shemot-here-we-go.md`. Primary
 loci: Shemos 3:5; Zevachim 102a with Maharsha; *Bereishis Rabbah* 45:1; *HaKtav

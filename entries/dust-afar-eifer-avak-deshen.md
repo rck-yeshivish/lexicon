@@ -127,7 +127,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Dirt, Dust and Ashes," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Dirt, Dust and Ashes](https://articles.ohr.edu/articles/dirt-dust-and-ashes)," What's in a Word?, Ohr
 Somayach, 11 Cheshvan 5780 (2019-11-09): raw text in
 `sources/whats-in-a-word/raw/8467-dirt-dust-and-ashes.md`. Primary loci cited:
 Bereishis 13:16, 18:27 (the article prints 19:27), 25:21, 32:25, 1:11; Vayikra

@@ -190,7 +190,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Shemini: Types of Species," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Shemini: Types of Species](https://articles.ohr.edu/articles/shemini-types-of-species)," What's in a Word?, Ohr
 Somayach, 24 Nisan 5783 (2023-04-15): raw text in
 `sources/whats-in-a-word/raw/10897-shemini-types-of-species.md`. Primary loci:
 Bereishis 1:11-12, 1:21, 1:24-25, 6:14, 6:19 and the Teivah narrative of

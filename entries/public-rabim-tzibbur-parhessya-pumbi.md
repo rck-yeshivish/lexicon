@@ -183,7 +183,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Chukas: Out in Public," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Chukas: Out in Public](https://articles.ohr.edu/articles/chukas-out-in-public)," What's in a Word?, Ohr
 Somayach (2024-07-13): raw text in
 `sources/whats-in-a-word/raw/11449-chukas-out-in-public.md`. Primary loci:
 Bamidbar 20:12; Avos 3:11; Mishnah Peah 2:1, Kilayim 4:7, Eruvin 5:6, Megillah

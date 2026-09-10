@@ -143,7 +143,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Wake-up Time," What's in a Word?, Ohr Somayach
+Rabbi Reuven Chaim Klein, "[Wake-up Time](https://articles.ohr.edu/articles/wake-up-time)," What's in a Word?, Ohr Somayach
 (2021-12-04): raw text in `sources/whats-in-a-word/raw/9473-wake-up-time.md`.
 Primary loci: Bereishis 6:13, 9:24, 23:9, 28:16, 41:4, 41:7; Shemos 39:3;
 Bamidbar 22:6 (as the article prints it; the word stands at 22:36 and 22:41);

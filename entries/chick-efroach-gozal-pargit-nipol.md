@@ -141,7 +141,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Ki Saytzei: Flowering Chicklings," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Ki Saytzei: Flowering Chicklings](https://articles.ohr.edu/articles/ki-saytzei-flowering-chicklings)," What's in a Word?,
 Ohr Somayach, 14 Elul 5782 (2022-09-10); raw text at
 `sources/whats-in-a-word/raw/9906-ki-saytzei-flowering-chicklings.md`. Primary
 loci cited: Devarim 22:6-7 (*efroach*, twice), Iyov 39:30, Tehillim 84:4;

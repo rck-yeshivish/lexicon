@@ -134,7 +134,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Laughing Matter," What's in a Word?, Ohr Somayach
+Rabbi Reuven Chaim Klein, "[A Laughing Matter](https://articles.ohr.edu/articles/a-laughing-matter)," What's in a Word?, Ohr Somayach
 (2020-10-31): raw text in
 `sources/whats-in-a-word/raw/8903-a-laughing-matter.md`. Primary loci: Bereishis
 15:13, 17:17, 17:19, 18:12, 21:6, 25:19; Shemos 6:2, 25:29; Bamidbar 32:3;

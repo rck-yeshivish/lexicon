@@ -158,7 +158,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Empty Exaggerations," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Empty Exaggerations](https://articles.ohr.edu/articles/empty-exaggerations)," What's in a Word?, Ohr Somayach,
 3 Tamuz 5782 (2022-07-02):
 `sources/whats-in-a-word/raw/9756-empty-exaggerations.md`. Primary loci: Devarim
 1:28 and 9:1; Bamidbar 13:28; Tamid 29a and Chullin 90b (Rabbi Ami); Mishnah

@@ -90,7 +90,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Clarifying a Collection of Curses," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[Clarifying a Collection of Curses](https://articles.ohr.edu/articles/clarifying-a-collection-of-curses)," What's in a Word?,
 Ohr Somayach, 17 Kislev 5777 (2016-12-17):
 https://articles.ohr.edu/articles/clarifying-a-collection-of-curses; raw text in
 `sources/whats-in-a-word/raw/7049-clarifying-a-collection-of-curses.md`. Primary

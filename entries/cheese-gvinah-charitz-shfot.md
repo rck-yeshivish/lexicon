@@ -164,7 +164,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "More Cheese Please," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[More Cheese Please](https://articles.ohr.edu/articles/more-cheese-please)," What's in a Word?, Ohr
 Somayach, 5 Sivan 5782 (2022-06-04): raw text in
 `sources/whats-in-a-word/raw/9723-more-cheese-please.md`. Primary loci cited:
 Iyov 10:10, 14:5, 33:21; Shmuel I 17:18; Shmuel II 17:29; Tehillim 3, 68:16-17,

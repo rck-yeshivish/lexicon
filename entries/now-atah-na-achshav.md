@@ -99,7 +99,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Elul 2: Now!", What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Elul 2: Now!](https://articles.ohr.edu/articles/elul-2-now)", What's in a Word?, Ohr Somayach,
 18 Elul 5777 (2017-09-09): `sources/whats-in-a-word/raw/7409-elul-2-now.md`.
 Primary loci and authorities: the Aramaic portions of Daniel and Ezra for
 *ke'an*; the Targumim's rendering of *atah* and *na*; Rabbi Eliyahu HaBachur on

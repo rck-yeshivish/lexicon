@@ -191,7 +191,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "An Utter Embarrassment," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[An Utter Embarrassment](https://articles.ohr.edu/articles/an-utter-embarrassment)," What's in a Word?, Ohr
 Somayach, for the week ending 17 September 2022 (the archived header gives the
 Hebrew date as 21 Elul, with the year misprinted 5787): raw text in
 `sources/whats-in-a-word/raw/9907-an-utter-embarrassment.md`. The article frames

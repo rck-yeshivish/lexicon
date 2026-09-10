@@ -160,7 +160,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Balak: Muzzled Up," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Balak: Muzzled Up](https://articles.ohr.edu/articles/balak-muzzled-up)," What's in a Word?, Ohr Somayach,
 12 Tammuz 5783 (2023-07-01): raw text in
 `sources/whats-in-a-word/raw/11006-balak-muzzled-up.md`. Primary loci cited:
 Bereishis 10:12, 13:7; Bamidbar 23:16 with Rashi and *Bamidbar Rabbah* 20:20;

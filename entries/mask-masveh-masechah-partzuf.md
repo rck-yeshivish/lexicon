@@ -145,7 +145,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Purim: Fake Faces," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Purim: Fake Faces](https://articles.ohr.edu/articles/purim-fake-faces)," What's in a Word?, Ohr Somayach,
 8 Adar 5781 (2021-02-20): raw text in
 `sources/whats-in-a-word/raw/9092-purim-fake-faces.md`. Primary loci cited:
 Shemos 32:4, 32:8, 34:29-35; Bereishis 49:11 (the article prints Ibn Ezra "to

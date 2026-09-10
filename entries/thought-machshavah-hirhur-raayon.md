@@ -98,7 +98,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Word for a Thought," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[A Word for a Thought](https://articles.ohr.edu/articles/a-word-for-a-thought)," What's in a Word?, Ohr
 Somayach, 9 Teves 5777 (2017-01-07): raw text in
 `sources/whats-in-a-word/raw/7082-a-word-for-a-thought.md`. Primary loci the
 article cites: Vilna Gaon, commentary to *Sefer Yetzirah* (for the first

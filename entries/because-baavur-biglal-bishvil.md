@@ -81,6 +81,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Just Because," *What's in a Word?*, Ohr Somayach, 28 January 2017.
+Rabbi Reuven Chaim Klein, "[Just Because](https://articles.ohr.edu/articles/just-because)," *What's in a Word?*, Ohr Somayach, 28 January 2017.
 
-Loci: Shemos 9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43; Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and Malbim.
+Cited in the essay: Shemos 9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43; Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and Malbim.

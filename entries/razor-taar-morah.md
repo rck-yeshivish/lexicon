@@ -89,7 +89,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Razor's Edge," What's in a Word?, Ohr Somayach, 12
+Rabbi Reuven Chaim Klein, "[Razor's Edge](https://articles.ohr.edu/articles/razors-edge)," What's in a Word?, Ohr Somayach, 12
 Sivan 5778 (2018-05-26): raw text in
 `sources/whats-in-a-word/raw/7768-razors-edge.md`. Primary loci cited: Bamidbar
 6:5; Shoftim 13:5 and 16:17; Shmuel I 1:11; Vayikra 19:27; *Vayikra Rabbah*

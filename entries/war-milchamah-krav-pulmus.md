@@ -168,7 +168,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Chukas: Words for War," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Chukas: Words for War](https://articles.ohr.edu/articles/chukas-words-for-war)," What's in a Word?, Ohr
 Somayach, 9 Tammuz 5785 (2025-07-05):
 https://articles.ohr.edu/articles/chukas-words-for-war; raw text in
 `sources/whats-in-a-word/raw/11889-chukas-words-for-war.md`. Primary loci:

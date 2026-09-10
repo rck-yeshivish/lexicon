@@ -184,7 +184,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "All Tied Up," What's in a Word?, Ohr Somayach, 14
+Rabbi Reuven Chaim Klein, "[All Tied Up](https://articles.ohr.edu/articles/all-tied-up)," What's in a Word?, Ohr Somayach, 14
 Sivan 5783 (2023-06-03), https://articles.ohr.edu/articles/all-tied-up; raw text
 in `sources/whats-in-a-word/raw/10970-all-tied-up.md`. Primary loci cited:
 Bereishis 22:3, 22:9, 25:1, 30:35 to 40, 31:8 to 12, 38:28, 39:20, 40:5, 44:30,

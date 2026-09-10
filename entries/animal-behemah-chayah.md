@@ -82,6 +82,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Don't be a Behemah or a Chayah!" *What's in a Word?*, Ohr Somayach, 12 November 2016.
+Rabbi Reuven Chaim Klein, "[Don't be a Behemah or a Chayah!](https://articles.ohr.edu/articles/dont-be-a-behemah-or-a-chayah)" *What's in a Word?*, Ohr Somayach, 12 November 2016.
 
-Loci: Ibn Ezra and Radak; Ramban; the Netziv, from Bava Kamma 19b; Rabbi Chaim Kanievsky, letter to Rabbi Chaim Tzvi Lehrfeld.
+Cited in the essay: Ibn Ezra and Radak; Ramban; the Netziv, from Bava Kamma 19b; Rabbi Chaim Kanievsky, letter to Rabbi Chaim Tzvi Lehrfeld.

@@ -83,6 +83,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "A Tale of Two Arks," *What's in a Word?*, Ohr Somayach, 24 September 2016.
+Rabbi Reuven Chaim Klein, "[A Tale of Two Arks](https://articles.ohr.edu/articles/a-tale-of-two-arks)," *What's in a Word?*, Ohr Somayach, 24 September 2016.
 
-Loci: Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah 3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus.
+Cited in the essay: Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah 3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus.

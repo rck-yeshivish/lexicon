@@ -115,7 +115,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Sacred Spaces," What's in a Word?, Ohr Somayach,
+Rabbi Reuven Chaim Klein, "[Sacred Spaces](https://articles.ohr.edu/articles/sacred-spaces)," What's in a Word?, Ohr Somayach,
 6 Adar II 5777 (2017-03-04): raw text in
 `sources/whats-in-a-word/raw/7164-sacred-spaces.md`. Primary loci cited: Eruvin
 2a; Mishnah Zevachim 14:6; Yoma 9a-9b; Zevachim 119a; Devarim 12:9. This is a

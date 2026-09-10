@@ -182,6 +182,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Anger Issues," *What's in a Word?*, Ohr Somayach, 17 July 2021.
+Rabbi Reuven Chaim Klein, "[Anger Issues](https://articles.ohr.edu/articles/anger-issues)," *What's in a Word?*, Ohr Somayach, 17 July 2021.
 
-Loci: the lists of Rabbeinu Efrayim, Bedersi and Rabbi Shlomo of Urbino; Malbim; Rabbi Shlomo Pappenheim; Peirush HaRokeach to Shemos 16:20; Ibn Ezra to Esther 1:12; Radak, *Sefer HaShorashim* s.v. קצף; Eitz Yosef to Eichah Rabbah 2:3; Berachos 7a, Rosh Hashanah 32b, Sanhedrin 48b; Chullin 63a on Vayikra 11:19 and Devarim 14:18; Rashi to Shemos 15:24, Yechezkel 27:35, Yeshayahu 54:8; Bava Metzia 4:6 and 6:1.
+Cited in the essay: the lists of Rabbeinu Efrayim, Bedersi and Rabbi Shlomo of Urbino; Malbim; Rabbi Shlomo Pappenheim; Peirush HaRokeach to Shemos 16:20; Ibn Ezra to Esther 1:12; Radak, *Sefer HaShorashim* s.v. קצף; Eitz Yosef to Eichah Rabbah 2:3; Berachos 7a, Rosh Hashanah 32b, Sanhedrin 48b; Chullin 63a on Vayikra 11:19 and Devarim 14:18; Rashi to Shemos 15:24, Yechezkel 27:35, Yeshayahu 54:8; Bava Metzia 4:6 and 6:1.

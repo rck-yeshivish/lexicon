@@ -138,7 +138,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Degrees of Sin," What's in a Word?, Ohr Somayach, for
+Rabbi Reuven Chaim Klein, "[Degrees of Sin](https://articles.ohr.edu/articles/degrees-of-sin)," What's in a Word?, Ohr Somayach, for
 the week ending 15 September 2018 / 6 Tishrei 5779: raw text in
 `sources/whats-in-a-word/raw/7940-degrees-of-sin.md`. Primary loci the article
 cites: Mishnah Yoma 4:2 and Yoma 36b (the Kohen Gadol's confession); Melachim I

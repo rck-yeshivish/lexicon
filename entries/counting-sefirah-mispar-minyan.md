@@ -143,7 +143,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "When Just Counting Doesn't Count," What's in a Word?,
+Rabbi Reuven Chaim Klein, "[When Just Counting Doesn't Count](https://articles.ohr.edu/articles/when-just-counting-doesnt-count)," What's in a Word?,
 Ohr Somayach, 17 Iyar 5777 (2017-05-13):
 https://articles.ohr.edu/articles/when-just-counting-doesnt-count; raw text in
 `sources/whats-in-a-word/raw/7251-when-just-counting-doesnt-count.md`. Primary

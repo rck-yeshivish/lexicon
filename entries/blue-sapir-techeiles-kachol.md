@@ -140,11 +140,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The True Blue," What's in a Word?, Ohr Somayach,
-2 Adar II 5779 (2019-03-09): https://articles.ohr.edu/articles/the-true-blue;
-raw text in `sources/whats-in-a-word/raw/8167-the-true-blue.md`. Primary loci
-cited: Shemos 24:10, 25:4, 28:18, 39:11; Bereishis 49:12 with Ramban; Bamidbar
-15:38 with Rashi; Yechezkel 1:26, 10:1, 28:13; Bava Basra 4a and Sukkah 51b with
-Rashi; Bamidbar Rabbah on the tribal flags; Targum to *even sapir*; Rabbeinu
-Bachya on the Choshen. The article gives no chapter-and-verse for the Bamidbar
-Rabbah on the flags, and none is supplied here.
+Rabbi Reuven Chaim Klein, "[The True Blue](https://articles.ohr.edu/articles/the-true-blue)," *What's in a Word?*, Ohr Somayach, 9 March 2019.
+
+Cited in the essay: Shemos 24:10, 25:4, 28:18, 39:11; Bereishis 49:12 with Ramban; Bamidbar 15:38 with Rashi; Yechezkel 1:26, 10:1, 28:13; Bava Basra 4a and Sukkah 51b with Rashi; *Bamidbar Rabbah* on the tribal flags; Targum to *even sapir*; Rabbeinu Bachya on the Choshen.

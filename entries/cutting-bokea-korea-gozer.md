@@ -161,7 +161,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Cut it Out! (Part 1 of 2)," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Cut it Out! (Part 1 of 2)](https://articles.ohr.edu/articles/cut-it-out-part-1-of-2)," What's in a Word?, Ohr
 Somayach, 13 Shevat 5779 (2019-01-19), and "Cut it Out! (Part 2 of 2)," 20 Shevat
 5779 (2019-01-26): raw text in `sources/whats-in-a-word/raw/8098-cut-it-out-part-1-of-2.md`
 and `sources/whats-in-a-word/raw/8107-cut-it-out-part-2-of-2.md`. Primary loci

@@ -128,7 +128,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Naso/Shavuos: Just Say No," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Naso/Shavuos: Just Say No](https://articles.ohr.edu/articles/nasoshavuos-just-say-no)," What's in a Word?, Ohr
 Somayach, 7 Sivan 5783 (2023-05-27):
 https://articles.ohr.edu/articles/nasoshavuos-just-say-no, raw text in
 `sources/whats-in-a-word/raw/10949-nasoshavuos-just-say-no.md`. Primary loci

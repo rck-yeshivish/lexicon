@@ -170,6 +170,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Toldos: The Doers and Fighters," *What's in a Word?*, Ohr Somayach, 26 November 2022.
+Rabbi Reuven Chaim Klein, "[Toldos: The Doers and Fighters](https://articles.ohr.edu/articles/toldos-the-doers-and-fighters)," *What's in a Word?*, Ohr Somayach, 26 November 2022.
 
-Loci: Bereishis 26:20 with Sforno, and 12:17, 20:11, 20:18, 32:25; Shemos 22:15 with Targum Onkelos and Rashi; Yehoshua 14:6; Yechezkel 38:4; Rus 2:19; Daniel 6:15 with Tosafos to Kiddushin 39b and pseudo-Rasag; Ezra 4:15, 4:19; Koheles 3:1, 3:18, 7:8, 8:2; *Avos* 2:5, 4:10, 4:18; Berachos 56a, 58a; Moed Katan 22a; Kesubos 8a and 80b; Bava Metzia 68b; Kiddushin 30b; Chullin 57b with Rashi; Shavuos 31a and Bava Metzia 14a with Rashi; Mishnah *Shekalim* 6:2, *Maaser Sheini* 4:7, *Shabbos* 23:4, *Rosh Hashanah* 4:8, *Sotah* 1:9, *Kiddushin* 4:14, *Eduyos* 2:5, *Kerisos* 4:3, *Menachos* 10:3, *Taharos* 7:8, *Niddah* 8:2, *Zavim* 2:2; *Mussaf HaAruch*; *Machberes Menachem*; *Aruch HaShaleim*.
+Cited in the essay: Bereishis 26:20 with Sforno, and 12:17, 20:11, 20:18, 32:25; Shemos 22:15 with Targum Onkelos and Rashi; Yehoshua 14:6; Yechezkel 38:4; Rus 2:19; Daniel 6:15 with Tosafos to Kiddushin 39b and pseudo-Rasag; Ezra 4:15, 4:19; Koheles 3:1, 3:18, 7:8, 8:2; *Avos* 2:5, 4:10, 4:18; Berachos 56a, 58a; Moed Katan 22a; Kesubos 8a and 80b; Bava Metzia 68b; Kiddushin 30b; Chullin 57b with Rashi; Shavuos 31a and Bava Metzia 14a with Rashi; Mishnah *Shekalim* 6:2, *Maaser Sheini* 4:7, *Shabbos* 23:4, *Rosh Hashanah* 4:8, *Sotah* 1:9, *Kiddushin* 4:14, *Eduyos* 2:5, *Kerisos* 4:3, *Menachos* 10:3, *Taharos* 7:8, *Niddah* 8:2, *Zavim* 2:2; *Mussaf HaAruch*; *Machberes Menachem*; *Aruch HaShaleim*.

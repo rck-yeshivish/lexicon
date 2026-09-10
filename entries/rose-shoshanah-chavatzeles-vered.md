@@ -194,7 +194,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Emor: Rose by Another Name," What's in a Word?, Ohr
+Rabbi Reuven Chaim Klein, "[Emor: Rose by Another Name](https://articles.ohr.edu/articles/emor-rose-by-another-name)," What's in a Word?, Ohr
 Somayach, 10 Iyar 5784 (2024-05-18): raw text in
 `sources/whats-in-a-word/raw/11391-emor-rose-by-another-name.md`. Primary loci:
 Shir HaShirim 2:1, 2:2, 4:3, 5:13, 6:2; Yeshayahu 35:1; Tehillim 45:1, 69:1,

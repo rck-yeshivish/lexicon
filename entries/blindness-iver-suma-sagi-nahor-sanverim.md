@@ -153,6 +153,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Man with Enough Light," *What's in a Word?*, Ohr Somayach, 3 November 2018.
+Rabbi Reuven Chaim Klein, "[The Man with Enough Light](https://articles.ohr.edu/articles/the-man-with-enough-light)," *What's in a Word?*, Ohr Somayach, 3 November 2018.
 
-Loci: Bereishis 19:11 with Rashbam and Malbim; Vayikra 19:14; Bamidbar 24:4 with *Kli Yakar*; Devarim 3:9 with Rashi, 16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Dr. Fred Rosner, *Medicine in the Bible and the Talmud*.
+Cited in the essay: Bereishis 19:11 with Rashbam and Malbim; Vayikra 19:14; Bamidbar 24:4 with *Kli Yakar*; Devarim 3:9 with Rashi, 16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Dr. Fred Rosner, *Medicine in the Bible and the Talmud*.
