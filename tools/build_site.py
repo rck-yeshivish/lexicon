@@ -107,6 +107,26 @@ def sections(body):
 
 # ------------------------------------------------------------ markdown renderer
 
+# Hebrew letters and points as a character class, built without escapes.
+_HEB = chr(0x0590) + "-" + chr(0x05FF)
+HEB_RUN = re.compile("[" + _HEB + "]+(?:[ -][" + _HEB + "]+)*")
+HEB_CH = re.compile("[" + _HEB + "]")
+LATIN_CH = re.compile("[A-Za-z]")
+
+
+def bidir(s):
+    """Direction for one block: rtl only when it is mostly Hebrew.
+
+    This used to be dir="auto", which takes the FIRST strong character. The
+    Rendering guidance bullets are English sentences that open on a Hebrew
+    headword, so each one was laid out right to left: bullet on the right,
+    trailing punctuation at the wrong end, mixed runs reordered. Count the
+    scripts instead of trusting the first letter.
+    """
+    plain = re.sub("<[^>]+>", "", s)
+    return "rtl" if len(HEB_CH.findall(plain)) > len(LATIN_CH.findall(plain)) else "ltr"
+
+
 def inline(s):
     s = html.escape(s, quote=False)
     s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)
@@ -117,6 +137,9 @@ def inline(s):
     # italic pass then handles what sits inside it.
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s, flags=re.S)
     s = re.sub(r"(?<!\*)\*([^*\n]+)\*(?!\*)", r"<em>\1</em>", s)
+    # Isolate each Hebrew run so it keeps its own order inside English prose
+    # without dragging neighbouring punctuation across.
+    s = HEB_RUN.sub(lambda m: '<bdi lang="he">' + m.group(0) + "</bdi>", s)
     return s
 
 
@@ -149,7 +172,7 @@ def md(text):
                 t.append("<thead><tr>" + "".join(f"<th>{inline(c)}</th>" for c in head) + "</tr></thead>")
             t.append("<tbody>")
             for r in body_rows:
-                t.append("<tr>" + "".join(f'<td dir="auto">{inline(c)}</td>' for c in r) + "</tr>")
+                t.append("<tr>" + "".join(f'<td dir="{bidir(c)}">{inline(c)}</td>' for c in r) + "</tr>")
             t.append("</tbody></table></div>")
             out.append("".join(t))
             continue
@@ -163,7 +186,7 @@ def md(text):
                     item.append(lines[i].strip())
                     i += 1
                 items.append(" ".join(item))
-            out.append("<ul>" + "".join(f'<li dir="auto">{inline(x)}</li>' for x in items) + "</ul>")
+            out.append("<ul>" + "".join(f'<li dir="{bidir(x)}">{inline(x)}</li>' for x in items) + "</ul>")
             continue
         if re.match(r"^\s*\d+\.\s+", line):                     # numbered
             items = []
@@ -175,7 +198,7 @@ def md(text):
                     item.append(lines[i].strip())
                     i += 1
                 items.append(" ".join(item))
-            out.append("<ol>" + "".join(f'<li dir="auto">{inline(x)}</li>' for x in items) + "</ol>")
+            out.append("<ol>" + "".join(f'<li dir="{bidir(x)}">{inline(x)}</li>' for x in items) + "</ol>")
             continue
         para = [line]                                            # paragraph
         i += 1
@@ -183,7 +206,8 @@ def md(text):
                 and not re.match(r"^\s*([-*]|\d+\.)\s+", lines[i]):
             para.append(lines[i])
             i += 1
-        out.append(f'<p dir="auto">{inline(" ".join(x.strip() for x in para))}</p>')
+        txt = " ".join(x.strip() for x in para)
+        out.append(f'<p dir="{bidir(txt)}">{inline(txt)}</p>')
     return "\n".join(out)
 
 
