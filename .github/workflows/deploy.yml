@@ -1,0 +1,44 @@
+name: Deploy
+
+# Every push to main rebuilds the site and deploys it.
+#
+# Why GitHub Actions rather than Cloudflare's own Git integration: Cloudflare's
+# builder would clone the whole repository, including sources/whats-in-a-word/raw/,
+# which is Rabbi Klein's and Ohr Somayach's copyright. GitHub already holds this
+# repo, so building here adds no new party to it, and only the built site/ is
+# uploaded to Cloudflare.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version-file: .python-version
+
+      - name: Check the entries before publishing anything
+        run: python tools/check_entries.py
+
+      - name: Build the site
+        run: python tools/build_site.py
+
+      - name: Refuse to deploy if the corpus leaked into the payload
+        run: |
+          if [ -d site/sources ]; then
+            echo "site/sources exists: the harvested corpus would be published. Stopping."
+            exit 1
+          fi
+          echo "payload carries entries, assets and data.json only"
+
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

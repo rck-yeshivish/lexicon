@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Must match the deployed project. Wrangler generated this file itself and
+  // guessed the name "exicon" from the directory, losing the leading letter;
+  // deploying with that would have created a second, misnamed project.
+  "name": "whatsinaword",
+  "compatibility_date": "2026-09-10",
+  "observability": { "enabled": true },
+  // The built site. Only this directory is uploaded, which is what keeps the
+  // harvested corpus in sources/ off the web.
+  "assets": { "directory": "site" }
+}

@@ -1,47 +1,51 @@
-# Deploying to Cloudflare Pages
+# Deploying
 
-The site is a plain static folder. `site/` is generated, so build it first:
+The site is live at **https://whatsinaword.yehron.workers.dev**
+
+`site/` is generated, so build before deploying:
 
 ```bash
 python tools/build_site.py
+npx wrangler deploy
 ```
 
-## Deploy only the built folder (recommended)
+`wrangler.jsonc` holds the project name and points at `site/` as the asset
+directory. Only that directory is uploaded, which is what keeps the harvested
+corpus in `sources/` off the web.
 
-This uploads `site/` and nothing else, which is what keeps the harvested corpus
-off the web. It is Rabbi Klein's and Ohr Somayach's copyright and must not be
-published; only our own entries go up.
+## Automatic deploys
 
-```bash
-npx wrangler pages deploy site --project-name=whatsinaword
-```
+`.github/workflows/deploy.yml` rebuilds and deploys on every push to `main`.
+It lints the entries first and refuses to deploy if the corpus ever appears in
+the payload.
 
-The first run opens a browser to authorise your Cloudflare account and creates
-the project. Every later run is the same one line, and Cloudflare gives you a
-`whatsinaword.pages.dev` URL plus a preview URL per deploy.
+It needs two repository secrets, under **Settings → Secrets and variables →
+Actions** on GitHub:
 
-## The alternative, and why it is second choice
-
-Cloudflare Pages can instead watch the GitHub repo and build on every push
-(build command `python tools/build_site.py`, output directory `site`). It is
-more automatic, but it clones the whole private repo into Cloudflare's build
-environment, corpus included. Nothing is served from it, yet the copyrighted
-text does leave your machine. Direct upload avoids that question entirely.
-
-## Keeping it private
-
-Cloudflare Access can put the whole site behind a login: Pages project →
-Settings → Access policy. Worth doing while the entries are still marked
-`status: draft`, since none of them has yet been read against its source by a
-person.
-
-## What gets served
-
-| | |
+| Secret | Value |
 |---|---|
-| Pages | 342 entries, plus home, Hebrew and English browse |
-| Data | one `data.json`, about 580 KB, fetched once and cached |
-| Total | roughly 4.6 MB |
+| `CLOUDFLARE_API_TOKEN` | a token with the **Edit Cloudflare Workers** template |
+| `CLOUDFLARE_ACCOUNT_ID` | `bcb0f74507b5013b6b3188ef7a30a267` |
 
-`_headers` sets long immutable caching on `/assets/*` and an hour on
-`data.json`, so a redeploy of the data does not strand visitors on a stale copy.
+Create the token at **My Profile → API Tokens → Create Token** in the
+Cloudflare dashboard.
+
+### Why not Cloudflare's own Git integration
+
+It would clone the whole repository into Cloudflare's build environment, corpus
+included. GitHub already holds this repo, so building on a GitHub runner adds
+no new party to the copyrighted text, and only `site/` reaches Cloudflare.
+
+## A note on the URL
+
+Cloudflare Pages is now part of Workers, so new projects deploy to
+`*.workers.dev` rather than `*.pages.dev`. The site is the same static site
+either way. Deploying to the older Pages platform, and a `pages.dev` address,
+means re-running the create command with `--force`.
+
+## Before sharing the link
+
+The site is publicly readable, and every entry is still `status: draft`:
+sourced and lint-clean, but not yet read against its source by a person.
+Cloudflare Access can gate the whole site in the meantime, under the project's
+**Settings → Access policy**.
