@@ -13,6 +13,7 @@ words:
   - he: שורק
     tr: sorek
     en: choice vine
+    nk: שׂוֹרֵק
     distinct: not a plain vine but the best kind; Targum Yonasan renders it "a choice gefen"; Radak, citing Rabbi Yitzchak Ibn Ghiyyat, says its grapes are seedless; Rashi instead reads it as the vine's long tendrils or its shoots fit for planting
   - he: שדמה
     tr: shdeimah

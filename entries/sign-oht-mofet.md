@@ -17,6 +17,7 @@ words:
   - he: עד
     tr: eid
     en: witness, testimony
+    nk: עֵד
     distinct: an oht merely reminds; an eid reminds and moves a person to act (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:8085 "The Sign is Coming" (2019-01-12) https://articles.ohr.edu/articles/the-sign-is-coming

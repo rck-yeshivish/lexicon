@@ -5,6 +5,9 @@ roots: [ס-ו-ד, ר-ז, ט-מ-ר, כ-מ-ס, ס-ת-ר, ר-ז-ם]
 translit: [sod, sohd, sodos, sodot, raz, roz, raza, razin, tamir, tomir, tumrah, kamus, komus, sod kamus, dvar seter, devar seter, seter, remez, rezem, roznim, sod haibbur, Raziel]
 english: [secret, counsel, council, hidden matter, mystery, hidden, stored away, hint]
 domain: other
+words:
+  - he: סתר
+    nk: סֵתֶר
 sources:
   - wiaw:10130 "Sukkos - Bereishis - Revealing the Secret" (2022-10-08) https://articles.ohr.edu/articles/sukkos-bereishis-revealing-the-secret
 authorities: [Ibn Janach, Radak, Rav Hirsch, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Malbim, Rabbi Avi Kobernick, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Targum, Chida, Rabbi Dov Kook, Chassidei Ashkenaz]

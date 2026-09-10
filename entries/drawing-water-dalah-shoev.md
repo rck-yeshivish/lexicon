@@ -13,6 +13,7 @@ words:
   - he: שאב
     tr: shoev
     en: draw
+    nk: שָׁאַב
     distinct: drawing water with no effort, from a spring or surface pool, no lowering and raising (Malbim); Rabbi Shlomo Pappenheim ties it to ש-ב, bringing flowing water to rest
   - he: דלי
     tr: dli

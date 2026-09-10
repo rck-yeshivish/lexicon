@@ -8,6 +8,8 @@ domain: speech
 words:
   - he: חרות
     nk: חָרוּת
+  - he: פסל
+    nk: פָּסַל
 sources:
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rashbam, Rabbi Moshe Zacuto, Rabbi Eliyahu HaBachur, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shaul Goldman, Maharal, Rabbi Shem Tov Gaguine, Rabbi Yitzchak Ginsburgh]

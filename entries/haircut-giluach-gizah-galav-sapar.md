@@ -5,6 +5,11 @@ roots: [ג-ל-ח, ג-ז-ז, ג-ל-ב, ס-פ-ר]
 translit: [giluach, gilu'ach, galach, gizah, geziza, gezizah, gozez, geiz, galav, gallav, maglev, sapar, saper, lesaper, tisporet, misparayim, misperet, maspar, taar, ta'ar]
 english: [shaving, haircutting, shearing, barber, razor]
 domain: action
+words:
+  - he: ספר
+    nk: סַפָּר
+  - he: תער
+    nk: תַּעַר
 sources:
   - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
 authorities: [Rav Hirsch, Rabbi David Golumb, Rabbi Shlomo Pappenheim, Radak, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rashi, Mahari Kara, Rabbi Avraham Abulafia]

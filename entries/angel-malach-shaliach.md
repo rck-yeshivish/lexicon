@@ -8,6 +8,10 @@ domain: other
 words:
   - he: מלאכה
     nk: מְלָאכָה
+  - he: שלח
+    nk: שָׁלַח
+  - he: שדר
+    nk: שַׁדַּר
 sources:
   - wiaw:7512 "Angels and Agents" (2017-12-02) https://articles.ohr.edu/articles/angels-and-agents
 authorities: [Radak, Rabbi Shlomo Pappenheim, Malbim, Ralbag, Rambam, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yaakov Lorberbaum of Lissa, Vilna Gaon, Rashi, Bereishis Rabbah]

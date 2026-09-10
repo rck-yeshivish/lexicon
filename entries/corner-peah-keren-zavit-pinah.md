@@ -1,10 +1,16 @@
 ---
 cluster: corner
-hebrew: [פאה, קרן, זוית, פינה, מקצוע, קצה, עתיק, דמשק]
-roots: [פ-א-ה, ק-ר-ן, ז-ו-י, פ-נ-ה, ק-צ-ע, ק-צ-ה, נ-ת-ק]
+hebrew: [פאה, קרן, זוית, פינה, מקצוע, קצה, אתיק, דמשק]
+roots: [פ-א-ה, ק-ר-ן, ז-ו-י, פ-נ-ה, ק-צ-ע, ק-צ-ה, נ-ת-ק, א-ת-י-ק]
 translit: [peah, pe'ah, peot, peyot, paat, keren, qeren, karnayim, zavit, zavis, zaviyot, pinah, pina, pinos, pinot, miktzoa, miktzo'a, mikztoa, ketzia, ketziah, katzeh, katze, ketzot, ketzavot, atik, asik, demeshek, ziv, rosh pinah, keren zavit]
 english: [corner, edge, side, angle, cornerstone, prominence]
 domain: other
+words:
+  - he: אתיק
+    tr: atik
+    nk: אַתִּיק
+  - he: קרן
+    nk: קֶרֶן
 sources:
   - wiaw:10884 "Vayakhel-Pekudai: Turning the Corner (Part 1/2)" (2023-03-18) https://articles.ohr.edu/articles/vayakhel-pekudai-turning-the-corner-part-12
   - wiaw:10883 "Vayikra: Turning the Corner (Part 2/2)" (2023-03-25) https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22

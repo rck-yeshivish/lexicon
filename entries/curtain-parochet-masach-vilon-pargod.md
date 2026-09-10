@@ -5,6 +5,9 @@ roots: [פ-ר-כ, ס-כ, פ-ר-ג-ד]
 translit: [parochet, paroches, poroches, masach, massach, vilon, vilan, pargod, pargodim, perech, pircha, maseichah, sechach, sukkah]
 english: [curtain, partition, screen, veil, divider]
 domain: ritual
+words:
+  - he: פרוכת
+    nk: פָּרוֹכֶת
 sources:
   - wiaw:8157 "Raise the Curtain" (2019-03-02) https://articles.ohr.edu/articles/raise-the-curtain
 authorities: [Rashi, Rabbi Shlomo Pappenheim, Shoresh Yesha, Sefer HaAruch, Rav Hai Gaon, Rabbi Ernest Klein]

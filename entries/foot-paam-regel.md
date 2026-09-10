@@ -5,6 +5,9 @@ roots: [פ-ע, פ-ע-ם, ר-ג-ל]
 translit: [paam, paamim, peamim, paamosav, paamotav, paamon, poem, regel, raglayim, regalim, shalosh regalim, shalosh peamim, efeh]
 english: [foot, step, corner, time, instance, pilgrimage festival]
 domain: body
+words:
+  - he: רגל
+    nk: רֶגֶל
 sources:
   - wiaw:7828 "Foot Festivals" (2018-06-30) https://articles.ohr.edu/articles/foot-festivals
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Targum Onkelos, Rashi, Ibn Ezra, Ramban, Rabbi Shmuel Dovid Walkin]

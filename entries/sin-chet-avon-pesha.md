@@ -5,6 +5,9 @@ roots: [ח-ט-א, ע-ו-ה, פ-ש-ע, ע-ב-ר]
 translit: [chet, cheit, chait, chatas, chatat, chataim, chatati, chatasi, avon, aavon, avonos, avonot, aviti, avisi, pesha, peshaim, pashati, pashasi, aveirah, aveira, averah, aveiros, aveirot, avaryan, shogeg, meizid, mezid]
 english: [sin, inadvertent sin, iniquity, willful sin, rebellious sin, transgression]
 domain: action
+words:
+  - he: פשע
+    nk: פֶּשַׁע
 sources:
   - wiaw:7940 "Degrees of Sin" (2018-09-15) https://articles.ohr.edu/articles/degrees-of-sin
 authorities: [Rashi, Vilna Gaon, Rabbi Yechezkel Landau, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Malbim, Peirush HaRokeach, Rabbi Netanel Weil, Rambam, Rabbi Yosef Babad, Rabbi Elazar Menachem Mann Shach, Rabbi Yaakov Tzvi Mecklenburg]

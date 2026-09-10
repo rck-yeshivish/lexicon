@@ -10,6 +10,8 @@ words:
     nk: חֲרֵבָה
   - he: יבשה
     nk: יַבָּשָׁה
+  - he: נגב
+    nk: נֶגֶב
 sources:
   - wiaw:9775 "On Dry Land" (2022-07-09) https://articles.ohr.edu/articles/on-dry-land
 authorities: [Vilna Gaon, Rashi, Sefer HaChochmah, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shoresh Yesha, Rabbi Avraham Maimuni, Radak, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Rabbi Yaakov Zev Lev, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Ezra, Rav Hirsch, Peirush HaRokeach]

@@ -10,6 +10,10 @@ words:
     nk: חַלָּה
   - he: ארוסה
     nk: אֲרוּסָה
+  - he: ערבה
+    nk: עֲרֵבָה
+  - he: עריסה
+    nk: עֲרִיסָה
 sources:
   - wiaw:8744 "Kneading the Dough" (2020-06-13) https://articles.ohr.edu/articles/kneading-the-dough
 authorities: [Ibn Janach, Radak, Rabbeinu Meyuchas bar Eliyahu, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Nosson of Rome, Rav Hirsch, Rabbi Yachya ben Shalom Kohen, Rabbi Yitzchak Ratzabi, Rabbi Shlomo Pappenheim, Rabbi Baruch HaLevi Epstein]

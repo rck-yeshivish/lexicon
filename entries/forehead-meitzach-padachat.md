@@ -5,6 +5,9 @@ roots: [מ-צ-ח, צ-ח, פ-ד-ח]
 translit: [meitzach, metzach, meizach, mitzcho, padachat, padachas, padachta, pedachat, tzach, netzach, nitzachon, azut metzach, azus meitzach]
 english: [forehead, brow, top of the head]
 domain: body
+words:
+  - he: ציץ
+    nk: צִיץ
 sources:
   - wiaw:8622 "Foreheads and Fadihot" (2020-02-29) https://articles.ohr.edu/articles/foreheads-and-fadihot
 authorities: [Targum Yonasan, Rashi, Ritva, Tosafos Yeshanim, Tosafos HaShalem, Rav Hai Gaon, Rabbeinu Chananel, Sefer HaAruch, Rabbi Zecharia Aghmati, Rabbi Shlomo Pappenheim, Rabbi David Chaim Chelouche, Rabbi Yaakov Yehuda Zilberberg, Rabbi Yehoshua Steinberg]

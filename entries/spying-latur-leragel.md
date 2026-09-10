@@ -17,6 +17,7 @@ words:
   - he: רגל
     tr: leragel
     en: spy out
+    nk: רִגֵּל
     distinct: searching out weakness and vulnerability (Rabbi Yaakov Tzvi Mecklenburg); the verb Devarim uses in hindsight, and the root of regel, the lowest part of the body
   - he: מרגלים
     tr: meraglim

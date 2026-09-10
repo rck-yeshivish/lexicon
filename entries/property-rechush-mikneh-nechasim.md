@@ -9,6 +9,7 @@ words:
   - he: רכוש
     tr: rechush
     en: property, possessions
+    nk: רְכוּשׁ
     distinct: movable goods, gold and silver and the like; a hypernym covering every kind of asset (Radak), or specifically inanimate movables as against livestock (Rav Hirsch); root tied to reches, "binding together" (Rav Hirsch)
   - he: מקנה
     tr: mikneh
@@ -18,6 +19,8 @@ words:
     tr: nechasim
     en: assets
     distinct: always plural, and the standard rabbinic word for a person's total assets; from kisui, "covered," because wealth is hidden from one and revealed to another (Bamidbar Rabbah 22:8), or from kis, a pocket, as what a man pockets (Rabbi Shlomo Pappenheim)
+  - he: רכש
+    nk: רָכַשׁ
 sources:
   - wiaw:10695 "Prime Property" (2022-11-05) https://articles.ohr.edu/articles/prime-property
 authorities: [Rav Hirsch, Ramban, Radak, Ibn Ezra, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Rabbi Aharon Marcus, Rabbi Shmuel de Ucedah, Rabbi Shimon Yehuda Leib Goldblit, Shoresh Yesha, Ohalei Yehudah]

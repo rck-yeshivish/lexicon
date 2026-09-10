@@ -9,6 +9,7 @@ words:
   - he: ציון
     tr: Tziyon
     en: Tziyon (Zion)
+    nk: צִיּוֹן
     distinct: not a synonym for Yerushalayim; the City of David, walled separately and outside Yerushalayim proper (Rashi to Sotah 5a and Yoma 77b, Rabbi Ashtori HaParchi, Radbaz, Rabbi Elazar Azkiri), though Rabbi Yechiel Michel Tukachinsky makes it a neighborhood within the city
   - he: ירושלים
     tr: Yerushalayim
@@ -21,6 +22,7 @@ words:
   - he: ציון
     tr: tziyun
     en: outstanding, a marker
+    nk: צִיּוּן
     distinct: the common noun behind the name, used where tziyon stands for the Beis HaMikdash (Yoel 4:18, Tehillim 2:6) or for Klal Yisrael (Yeshayahu 51:3), it is this word, not the place name (Tukachinsky)
 sources:
   - wiaw:7874 "Twin Cities: Zion and Jerusalem" (2018-07-28) https://articles.ohr.edu/articles/twin-cities-zion-and-jerusalem

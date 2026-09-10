@@ -9,6 +9,7 @@ words:
   - he: צבי
     tr: tzvi
     en: splendor, glory; desire; deer
+    nk: צְבִי
     distinct: Rashi reads it as beauty, Radak as desire and glory; the same word names the deer (Devarim 14:5), which Rabbi Shlomo Pappenheim ties to desire and Rabbi Aharon Marcus to its stately standing
   - he: צביון
     tr: tzivyon

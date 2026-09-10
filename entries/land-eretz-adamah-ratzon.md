@@ -19,6 +19,7 @@ words:
   - he: רצון
     tr: ratzon
     en: will
+    nk: רָצוֹן
     distinct: a person's ultimate will, what he really wants underneath, as against chefetz, the immediate tangible goal (Rav Tzvi Yehuda Kook); the same root as eretz, which likewise reaches below the surface
   - he: חפץ
     nk: חֵפֶץ

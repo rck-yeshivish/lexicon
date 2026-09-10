@@ -9,6 +9,7 @@ words:
   - he: עצם
     tr: etzem
     en: bone, the thing itself
+    nk: עֶצֶם
     distinct: the bone as the hard, durable, self-contained part (Rav Hirsch); for the Vilna Gaon its hard outer surface, and for Rabbi Shlomo Aharon Wertheimer the general word covering every kind of bone
   - he: גרם
     tr: gerem

@@ -17,6 +17,7 @@ words:
   - he: נעים
     tr: naim
     en: pleasant
+    nk: נָעִים
     distinct: for the Vilna Gaon, appeal to the eye; for Rabbi Shlomo Pappenheim, not a physical property at all but the pleasure the soul takes in a thing, from the root shared with im, "with"
 sources:
   - wiaw:7611 "Sweet and Pleasant" (2018-01-27) https://articles.ohr.edu/articles/sweet-and-pleasant

@@ -5,6 +5,9 @@ roots: [ש-ע-ר, מ-ז-י, ב-נ-ת, נ-י-מ]
 translit: [saar, sear, se'ar, saarah, searah, saara, sara, mazia, maziya, maazia, binta, binsa, bintah, nimah, nima, nimin]
 english: [hair, a hair, strand, lock, head of hair, thread, string]
 domain: body
+words:
+  - he: שער
+    nk: שֵׂעָר
 sources:
   - wiaw:8754 "All About Hair" (2020-06-20) https://articles.ohr.edu/articles/all-about-hair
 authorities: [Rashi, Ibn Janach, Ibn Parchon, Ibn Ezra, Radak, Rabbi Eliyahu HaBachur, Tosafos Yom Tov, Rabbi Avraham Meir Israel, Rabbi Jared Greenblatt]

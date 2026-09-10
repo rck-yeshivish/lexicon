@@ -13,6 +13,7 @@ words:
   - he: סלע
     tr: sela
     en: sela
+    nk: סֶלַע
     distinct: the Mishnaic name for exactly what Tanach calls a shekel (Yerushalmi Kiddushin 1:3; Rashi, Rambam, Sefer HaChinuch); its other Mishnaic sense is still "rock"
   - he: בקע
     tr: beka

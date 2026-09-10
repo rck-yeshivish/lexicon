@@ -5,6 +5,13 @@ roots: [ט-ו-ב, נ-ע-ם, ש-פ-ר]
 translit: [tov, tob, tovah, noam, no'am, naim, na'im, neimah, ne'imah, na'eimah, neimim, ne'imim, shapir, shappir, shafir, shefer, shafer, shafrah, imrei shefer, imrei shafer]
 english: [good, pleasant, pleasantness, fine, fitting, well, beautiful]
 domain: other
+words:
+  - he: נעים
+    nk: נָעִים
+  - he: שפיר
+    nk: שַׁפִּיר
+  - he: שפר
+    nk: שֶׁפֶר
 sources:
   - wiaw:11655 "Vayechi: Good and Pleasant" (2025-01-11) https://articles.ohr.edu/articles/vayechi-good-and-pleasant
 authorities: [Rabbi Eliyahu Bachur, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rav Hirsch, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Shaul Goldman, Rabbi Reuven Chaim Klein]

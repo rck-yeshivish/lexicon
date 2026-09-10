@@ -5,6 +5,9 @@ roots: [נ-ו-ס, ב-ר-ח, ר-ו-ץ, ע-ר-ק, נ-ס-ע]
 translit: [nas, nos, nisah, nissah, vayanusu, veyanusu, boreach, borach, bericha, brichah, ratz, arak, azil, nasa]
 english: [flee, run away, escape, take flight, run]
 domain: action
+words:
+  - he: נס
+    nk: נָס
 sources:
   - wiaw:7779 "Running Away" (2018-06-02) https://articles.ohr.edu/articles/running-away
 authorities: [Sforno, Malbim, Sefer HaChochmah (Rabbi Elazar Rokeach of Worms), Rabbi Naftali Hertz Treves (Sefer HaGur), Rabbi Shlomo Aharon Wertheimer, Targum Onkelos]

@@ -5,6 +5,9 @@ roots: [י-ש-ע, ש-ו-ע, נ-צ-ל, צ-ל, פ-ר-ק, ש-ע]
 translit: [yeshuah, yeshua, yeshuos, yeshuot, teshuah, teshua, teshuos, teshuot, hatzalah, hatzala, hatzolah, matzil, moshia, purkan, purkana, shavah, shaavah, shav'ah]
 english: [salvation, deliverance, rescue, redemption, saving, victory]
 domain: action
+words:
+  - he: שועה
+    nk: שַׁוְעָה
 sources:
   - wiaw:9464 "Seeking Salvation" (2021-11-27) https://articles.ohr.edu/articles/seeking-salvation
 authorities: [Rabbi Yitzchak Eliyahu Landau of Dubno, Rav Hirsch, Rabbi Shlomo Pappenheim, Sefer HaAruch, Rashi, Tosafos, Peirush HaRokeach, Malbim, Rabbi Yechiel Michel Heilpern, Rabbi Chanoch Zundel of Bialystok, Radak, Ibn Janach]

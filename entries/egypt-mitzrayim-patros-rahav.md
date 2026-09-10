@@ -9,6 +9,7 @@ words:
   - he: מצרים
     tr: Mitzrayim
     en: Egypt
+    nk: מִצְרַיִם
     distinct: the standard word, 680 times in Tanach; first a person, Cham's son (Bereishis 10:6), then the land his descendants held; the yod-mem ending is variously a dual, a mark of the sea (Bereishis Rabbah), or meitzar plus yam (Rabbi Chaim Vital)
   - he: מצור
     tr: Matzor

@@ -5,6 +5,9 @@ roots: [ר-מ-ם, ר-מ, ת-ל-ע, ל-ע]
 translit: [rimah, rima, toleah, tolea, tola, tolaas, tolaat, tolaim, mitalot, mesalos, metalot, loa, vayarum]
 english: [maggot, worm, larva, teeth, throat]
 domain: nature
+words:
+  - he: מתלעות
+    nk: מְתַלְּעוֹת
 sources:
   - wiaw:11902 "Matos-Masei: The Wormy Place" (2025-07-26) https://articles.ohr.edu/articles/matos-masei-the-wormy-place
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Netziv, Vilna Gaon, Rabbi Binyamin Rivlin, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu Bachur, Rashbam, Rabbi Yehudah Aryeh of Carpentras, Rabbi David Chaim Chelouch, Rabbi Shaul Goldman]

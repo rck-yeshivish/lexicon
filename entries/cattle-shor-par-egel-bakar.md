@@ -10,6 +10,8 @@ words:
     nk: אֶלֶף
   - he: בוקר
     nk: בּוֹקֵר
+  - he: שור
+    nk: שׁוֹר
 sources:
   - wiaw:8333 "Bovine Words: Cows and Cowboys" (2019-07-20) https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys
 authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg]

@@ -5,6 +5,9 @@ roots: [נ-ת-ן, ת-ן, ש-י-ם, ס-ם, ש-ת, ש-א]
 translit: [natan, nasan, sam, sim, som, shat, shas, shes, samim, bosem, besamim, osem, siman, shetot, shesos, sheti, shesi, even shtiyah]
 english: [place, put, set, lay, install]
 domain: action
+words:
+  - he: שם
+    nk: שָׂם
 sources:
   - wiaw:9523 "Put in Place" (2022-01-08) https://articles.ohr.edu/articles/put-in-place
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Moshe Zuriel, Rabbi Avraham Shick of Slonim (Eshed HaNechalim)]

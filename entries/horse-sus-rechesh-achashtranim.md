@@ -13,6 +13,7 @@ words:
   - he: רכש
     tr: rechesh
     en: courier horse, swift steed
+    nk: רֶכֶשׁ
     distinct: 'a specific fast horse, not the general term: a superior young horse (Ibn Janach, Ralbag), a wagon-horse from reches, "tying" (Rav Hirsch), or the king''s own property, rechush (Ibn Ezra)'
   - he: אחשתרנים
     tr: achashtranim

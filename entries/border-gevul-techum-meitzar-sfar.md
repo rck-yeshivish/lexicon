@@ -5,6 +5,11 @@ roots: [ג-ב-ל, ת-ח-ם, צ-ר, ס-פ-ר]
 translit: [gevul, gvul, gvulim, techum, techoma, techumin, meitzar, metzar, mitzarim, meitzarim, bein hametzarim, sfar, sefar, sefarah, givlim, gvilim, sefirah]
 english: [border, boundary, territory, limit, frontier, straits]
 domain: society
+words:
+  - he: מצרים
+    nk: מְצָרִים
+  - he: ספר
+    nk: סְפָר
 sources:
   - wiaw:11471 "Matos/Masei: On the Border" (2024-08-03) https://articles.ohr.edu/articles/matosmasei-on-the-border
 authorities: [Rashi, Targum Onkelos, Mahari Kara, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Radak, Rav Hirsch, HaKtav VeHaKabbalah, Rabbi Shlomo Pappenheim, Rabbi Yehoshua Steinberg, Rabbi David Golumb, Rabbi Avraham Rivlin, Rabbi Benzion Chaim Lubetzki, Ramak, Rabbi Saadia Gaon, Rabbi Avraham Yitzchok Shain, Rabbi Pinchas of Koretz]

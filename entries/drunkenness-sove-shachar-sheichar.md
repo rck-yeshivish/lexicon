@@ -5,6 +5,9 @@ roots: [ס-ב-א, ש-כ-ר, ז-ל-ל]
 translit: [sove, soveh, sova, sava, savim, sovim, savaim, savyuta, shachar, shikor, shikur, shikaron, shichrus, shichrut, sheichar, shechar, zollel, zolel]
 english: [swilling, drinking to excess, drunkenness, getting drunk, strong drink, gluttony]
 domain: action
+words:
+  - he: שכר
+    nk: שֵׁכָר
 sources:
   - wiaw:11520 "Ki Seitzei: Getting Drunk" (2024-09-14) https://articles.ohr.edu/articles/ki-seitzei-getting-drunk
 authorities: [Menachem Ibn Saruk, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Rabbi Moshe Tzuriel, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Kara, Rabbi Yosef Nechemias, Rashi, Radak, Rambam, Ramban, Rabbi Aharon Marcus]

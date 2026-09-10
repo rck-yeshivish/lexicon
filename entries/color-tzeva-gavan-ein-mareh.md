@@ -21,6 +21,7 @@ words:
   - he: מראה
     tr: mareh
     en: appearance, sight, color
+    nk: מַרְאֶה
     distinct: from ra'ah, to see; the whole picture a thing presents, which may take in more than one color, not the single color alone (Malbim to Vayikra 13:5)
 sources:
   - wiaw:11705 "Terumah: Color Me" (2025-03-01) https://articles.ohr.edu/articles/terumah-color-me

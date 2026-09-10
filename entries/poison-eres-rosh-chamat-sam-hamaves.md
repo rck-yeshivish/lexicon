@@ -5,6 +5,9 @@ roots: [א-ר-ס, ס-מ, ר-ש, ח-מ, ר-ע-ל, ע-כ-ס]
 translit: [eres, iras, sam hamaves, sam hamavet, sam hachaim, samim, rosh, rowsh, chamat, chemat, raal, ra'al, tarelah, tarela, eches, achsa, laanah, la'anah]
 english: [venom, poison, deadly drug, snake venom, wormwood]
 domain: nature
+words:
+  - he: ראש
+    nk: רֹאשׁ
 sources:
   - wiaw:9603 "Pick Your Poison" (2022-03-05) https://articles.ohr.edu/articles/pick-your-poison
 authorities: [Rashi, Ibn Ezra, Radak, Vilna Gaon, Rabbi Yeshayah of Trani, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rabbi Menachem Azariah of Fano, Targum Sheini, Midrash Sechel Tov, Midrash Aggadah, Daas Zekeinim, Rabbi Yehuda Feliks]

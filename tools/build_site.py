@@ -270,6 +270,39 @@ def collect():
     return entries, words, english
 
 
+
+def he_rows(words, emap):
+    out = []
+    for w in words:
+        e = emap[w["s"]]
+        shown = w.get("n") or w["h"]
+        if w["e"]:
+            right = f'<span class="e">{html.escape(w["e"])}</span>'
+            if w["d"]:
+                right += f'<span class="d">{html.escape(w["d"])}</span>'
+        else:
+            right = ('<span class="cl">in the ' + html.escape(e["c"]) + ' group: '
+                     + html.escape(", ".join(e["g"][:4])) + '</span>')
+        out.append(f'<a class="r" data-l="{html.escape(w["k"][0])}" '
+                   f'href="entries/{w["s"]}.html#{w["k"]}">'
+                   f'<span class="h">{html.escape(shown)}</span><span>{right}</span></a>')
+    return "".join(out)
+
+
+def en_rows(terms):
+    out = []
+    for x in terms:
+        c = x["e"][:1].upper()
+        if not ("A" <= c <= "Z"):
+            continue
+        anchor = f'#{x["h"]}' if x["h"] else ""
+        out.append(f'<a class="r" data-l="{c}" href="entries/{x["s"]}.html{anchor}">'
+                   f'<span class="en">{html.escape(x["e"])}</span>'
+                   f'<span class="h">{html.escape(x["h"])}</span>'
+                   f'<span class="cl">in the {html.escape(x["c"])} group</span></a>')
+    return "".join(out)
+
+
 # ------------------------------------------------------------------ page shells
 
 ASSETS = {"css": "app.css", "js": "app.js"}   # filled in at build time with hashed names
@@ -411,7 +444,8 @@ def main():
   <h1>Hebrew</h1>
   <p class="lede" dir="rtl" lang="he">א&#1523; ועד ת&#1523;</p>
   <div class="letters heb">{letters}</div>
-  <div id="list" class="rows"></div>
+  <p class="count" id="count">{len(words):,} words</p>
+  <div id="list" class="rows">{he_rows(words, emap)}</div>
 </section>'''
     emit("hebrew.html", shell("Hebrew — What’s in a Word?", he_body, active="he",
                               extra_js='<script>initBrowse("he");</script>'))
@@ -422,7 +456,8 @@ def main():
   <h1>English</h1>
   <p class="lede">A to Z, from the English rendering back to the Hebrew it translates.</p>
   <div class="letters">{en_letters}</div>
-  <div id="list" class="rows"></div>
+  <p class="count" id="count">{sum(1 for x in english if x["e"][:1].upper().isalpha()):,} terms</p>
+  <div id="list" class="rows en3">{en_rows(english)}</div>
 </section>'''
     emit("english.html", shell("English — What’s in a Word?", en_body, active="en",
                                extra_js='<script>initBrowse("en");</script>'))
@@ -452,6 +487,61 @@ def main():
                                   f'<div class="pane" id="pane-summary">{md(body)}</div>'
                                   f'{pdf_pane}</article>',
                                   active="me"))
+
+    # --- machine-facing files ------------------------------------------------
+    # The 342 entry pages were linked only from browse pages built by JS, so
+    # nothing that does not run scripts could find them. A sitemap makes them
+    # discoverable, and llms.txt points a model straight at the JSON rather
+    # than making it scrape HTML.
+    base = "https://whatsinaword.pages.dev"
+    urls = (["", "hebrew.html", "english.html", "method.html"]
+            + [f'entries/{e["slug"]}.html' for e in entries])
+    today = datetime.date.today().isoformat()
+    sm = ['<?xml version="1.0" encoding="UTF-8"?>',
+          '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for u in urls:
+        sm.append(f"<url><loc>{base}/{u}</loc><lastmod>{today}</lastmod></url>")
+    sm.append("</urlset>")
+    emit("sitemap.xml", "\n".join(sm))
+
+    emit("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
+
+    emit("llms.txt", f"""# What's in a Word?
+
+> A Hebrew-to-English translation guide. {len(entries)} entries, each taking one
+> cluster of near-synonyms, giving every word its own English, and attributing
+> each distinction to the authority who draws it. Where the authorities
+> disagree, the entry names the views rather than picking one silently.
+
+Built on Rabbi Reuven Chaim Klein's column "What's in a Word?" (Ohr Somayach).
+Every entry cites the essay it rests on. Sources are Orthodox only: no academic
+Semitics, no comparative Ugaritic or Akkadian, no Gesenius or BDB.
+
+## Machine-readable data
+
+- [data.json]({base}/data.json): every headword in one file.
+  `entries` maps a slug to its cluster name, transliterations and English
+  glosses. `words` is one record per Hebrew word: `h` the spelling, `k` the
+  same folded for matching (no nikud, final letters normalised), `n` the
+  pointed form where known, `t` transliteration, `e` its own English, `d` the
+  line that separates it from its neighbours, `s` its entry slug.
+  `english` maps English terms back to Hebrew.
+- [sitemap.xml]({base}/sitemap.xml): all {len(urls)} pages.
+
+## Pages
+
+- [Hebrew index]({base}/hebrew.html): {len(words):,} headwords, alef to tav.
+- [English index]({base}/english.html): the English renderings, A to Z.
+- [Methodology]({base}/method.html): the ways apparent synonyms actually
+  differ, and the article that sets them out.
+
+## Caveats worth passing on
+
+Entries are marked `status: draft`: sourced and checked for consistency, but
+not yet read one by one against the essays they rest on. Where a word has no
+per-word ruling, the site says which group it belongs to rather than implying
+its neighbours' glosses are its own meaning.
+""")
 
     emit(f'assets/{ASSETS["css"]}', CSS)
     emit(f'assets/{ASSETS["js"]}', JS)
@@ -801,49 +891,30 @@ function wire(){
 }
 
 function initBrowse(mode){
+  // The rows are already in the HTML, so this only filters them. That is what
+  // lets the page work with scripts off and gives a crawler real links.
   const list = document.getElementById("list");
+  const rows = [...list.querySelectorAll(".r")];
   const btns = [...document.querySelectorAll(".ltr")];
-  // The buttons do nothing until data.json is in; say so rather than look broken.
-  list.innerHTML = '<p class="count">Loading&hellip;</p>';
-  load().then(() => {
-    const bucket = {};
-    if(mode === "he"){
-      for(const w of DATA.words) (bucket[w.k[0]] ||= []).push(w);
-    } else {
-      for(const x of DATA.english){
-        const c = (x.e[0]||"").toUpperCase();
-        if(c >= "A" && c <= "Z") (bucket[c] ||= []).push(x);
-      }
+  const count = document.getElementById("count");
+  const have = new Set(rows.map(r => r.dataset.l));
+  btns.forEach(b => { if(!have.has(b.dataset.l)) b.disabled = true; });
+
+  const noun = mode === "en" ? "terms" : "words";
+  const show = l => {
+    btns.forEach(b => b.classList.toggle("on", b.dataset.l === l));
+    let n = 0;
+    for(const r of rows){
+      const hit = !l || r.dataset.l === l;
+      r.hidden = !hit;
+      if(hit) n++;
     }
-    btns.forEach(b => { if(!(bucket[b.dataset.l]||[]).length) b.disabled = true; });
-    const show = l => {
-      btns.forEach(b => b.classList.toggle("on", b.dataset.l === l));
-      const items = bucket[l] || [];
-      const rows = items.map(w => mode === "he"
-        ? `<a class="r" href="${href(w)}">
-             <span class="h">${esc(w.n || w.h)}</span>
-             <span>
-               ${w.e ? `<span class="e">${esc(w.e)}</span>` :
-                       `<span class="cl">in the ${esc(ent(w).c)} group: ${esc((ent(w).g || []).slice(0,4).join(", "))}</span>`}
-               ${w.d ? `<span class="d">${esc(w.d)}</span>` : ""}
-             </span></a>`
-        : `<a class="r" href="${UP}entries/${w.s}.html${w.h ? "#" + encodeURIComponent(w.h) : ""}">
-             <span class="en">${esc(w.e)}</span>
-             <span class="h">${esc(w.h)}</span>
-             <span class="cl">in the ${esc(w.c)} group</span></a>`).join("");
-      const head = mode === "he"
-        ? `<div class="r rhead"><span>Hebrew</span><span>English, and what sets it apart</span></div>`
-        : `<div class="r rhead"><span>English</span><span>Hebrew</span><span>Group</span></div>`;
-      list.className = "rows" + (mode === "en" ? " en3" : "");
-      list.innerHTML = `<p class="count">${items.length} ${items.length === 1 ? "word" : "words"}</p>`
-                     + (items.length ? head : "") + rows;
-      history.replaceState(null, "", "#" + encodeURIComponent(l));
-    };
-    btns.forEach(b => b.addEventListener("click", () => show(b.dataset.l)));
-    const want = decodeURIComponent(location.hash.slice(1));
-    show(btns.some(b => b.dataset.l === want && !b.disabled)
-         ? want : (btns.find(b => !b.disabled)?.dataset.l));
-  });
+    if(count) count.textContent = `${n.toLocaleString()} ${n === 1 ? noun.slice(0, -1) : noun}`;
+    if(l) history.replaceState(null, "", "#" + encodeURIComponent(l));
+  };
+  btns.forEach(b => b.addEventListener("click", () => show(b.dataset.l)));
+  const want = decodeURIComponent(location.hash.slice(1));
+  if(want && btns.some(b => b.dataset.l === want && !b.disabled)) show(want);
 }
 window.initBrowse = initBrowse;
 function wireTabs(){

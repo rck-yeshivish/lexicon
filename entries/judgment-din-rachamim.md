@@ -8,6 +8,8 @@ domain: other
 words:
   - he: דין
     nk: דִּין
+  - he: רחמים
+    nk: רַחֲמִים
 sources:
   - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
 authorities: [Ramban, the Kabbalists, Rabbi Reuven Chaim Klein]

@@ -5,6 +5,11 @@ roots: [ר-א-ש, ר-ש, ח-ל-ל, ח-ל, ק-ד-ם, ק-ד]
 translit: [reishis, reishit, breishis, bereishit, rishon, rishonah, rosh, reish, techilah, techila, techilas, lehaschil, lechatchilah, lechatchila, kedem, kodem, kadam, kadmin, kadimah, kamma, kodkod]
 english: [beginning, first, foremost, head, onset, outset, before, east]
 domain: time
+words:
+  - he: קדם
+    nk: קֶדֶם
+  - he: ראש
+    nk: רֹאשׁ
 sources:
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
 authorities: [Rashi, Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Maharal, the Vilna Gaon, Malbim, Rabbi Zev Hoberman, Rabbi Shaul Goldman, Targum Onkelos, Targum Yerushalmi]

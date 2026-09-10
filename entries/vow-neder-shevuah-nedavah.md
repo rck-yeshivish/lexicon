@@ -5,6 +5,11 @@ roots: [נ-ד-ר, ש-ב-ע, נ-ד-ב]
 translit: [neder, nedarim, shevuah, shevuot, shevuos, nedavah, nedavos, konam, korban]
 english: [vow, oath, freewill offering, pledge]
 domain: speech
+words:
+  - he: שבועות
+    nk: שְׁבוּעוֹת
+  - he: שבועה
+    nk: שְׁבוּעָה
 sources:
   - wiaw:6963 "Of Oaths and Promises" (2016-10-01) https://articles.ohr.edu/articles/of-oaths-and-promises
 authorities: [Chazal (Nedarim 2b)]

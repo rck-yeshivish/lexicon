@@ -21,6 +21,7 @@ words:
   - he: עלם
     tr: elem
     en: young man
+    nk: עֶלֶם
     distinct: from ע-ל, on top, hence one who has grown up to nearly his full height (Pappenheim); against naar, elem marks physical maturity where naar marks the mind (Mecklenburg)
   - he: רביא
     tr: ravya

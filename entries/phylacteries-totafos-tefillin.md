@@ -5,6 +5,9 @@ roots: [ט-ט-פ, ט-פ, פ-ל-ל, ת-פ-ל, פ-ת-ל]
 translit: [totafot, totafos, totefes, totafta, tefillin, tefilin, tefillah, tefilah, tefillav, netifos, ptil, pesil]
 english: [phylacteries, tefillin, frontlets, head-ornament]
 domain: ritual
+words:
+  - he: תפילה
+    nk: תְּפִילָּה
 sources:
   - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
 authorities: [Targum Onkelos, Targum Yonasan, Ibn Ezra, Tosafos, Ibn Janach, Radak, Rashbam, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rashi, Chizkuni, Rabbi Yosef Bechor Shor, Rabbi Yissocher Ber Eilenberg, Rabbi Mordechai Yaffe, Daas Mikra, Rabbi Shlomo Pappenheim, Rabbi Akiva, Rabbeinu Chaim Paltiel, Rabbi Avraham Saba, Abarbanel, the Rosh, the Tur, Maharal, Rabbi Yaakov Emden, Tiferes Yisrael, Sefer HeAruch, Rabbi Eliyahu Bachur, Pri Megadim, Rabbi Mordechai Abadi]

@@ -26,6 +26,8 @@ words:
     tr: tzi
     en: large ship, warship
     distinct: an especially large vessel (Rashi to Bamidbar 24:24, Yeshayahu 23:13), typically a battleship, built big and strong (Malbim)
+  - he: עברה
+    nk: עֲבָרָה
 sources:
   - wiaw:8991 "Vayechi: Boats, Ships and Nautical Rhapsody" (2021-01-02) https://articles.ohr.edu/articles/vayechi-boats-ships-and-nautical-rhapsody
 authorities: [Rashi, Radak, Ibn Ezra, Ralbag, Malbim, Rav Hirsch, Rabbi Shlomo Pappenheim, Rambam, Abarbanel, Sumchos, Rabbi Yaakov ben Yehudah Chazzan of London, Rabbi Dr. Daniel Sperber]

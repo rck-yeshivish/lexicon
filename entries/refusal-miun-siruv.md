@@ -5,6 +5,11 @@ roots: [מ-א-ן, ס-ר-ב, מ-ר-ה]
 translit: [miun, mieun, vayimaen, maen, meen, siruv, seiruv, sarvan, sarvanim, saravim, misarev, misharev, sarvanus, meri, meridah, merida, salonim]
 english: [refuse, refusal, decline, rebel, rebellion, pester]
 domain: speech
+words:
+  - he: מרי
+    nk: מְרִי
+  - he: מרידה
+    nk: מְרִידָה
 sources:
   - wiaw:9254 "Biblical Refuseniks" (2021-06-19) https://articles.ohr.edu/articles/biblical-refuseniks
 authorities: [Menachem Ibn Saruk, Donash Ibn Labrat, Rashi, Radak, Rambam, Bartenura, Tosafos Yom Tov, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yaakov Dienna]

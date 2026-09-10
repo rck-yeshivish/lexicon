@@ -5,6 +5,11 @@ roots: [ב-ט-ח, ח-ס-ה, ח-ס, ק-ו-ה, ק-ו, י-ח-ל, ח-כ-ה, ס-מ-ך
 translit: [bitachon, bitochon, betach, boteach, machseh, machaseh, chasah, lachasos, lachasot, tikvah, tikva, kaveh, mekaveh, tocheles, tochelet, yachel, meyachel, chikui, chakeh, mechakeh, semichah, semicha, somech, mishan, mish'an, mishenes, saad, sa'ad, soed, seudah, sever, seiver, kesel, kesil]
 english: [trust, confidence, refuge, hope, expectation, waiting, leaning, reliance, support, security]
 domain: emotion
+words:
+  - he: שבר
+    nk: שֵׂבֶר
+  - he: סעד
+    nk: סָעַד
 sources:
   - wiaw:8836 "Trusting and Relying on G-d" (2020-08-29) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2

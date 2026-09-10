@@ -9,14 +9,17 @@ words:
   - he: מצבה
     tr: matzeivah
     en: monument, headstone
+    nk: מַצֵּבָה
     distinct: the standard word (Bereishis 35:20); it makes the grave visible so that people can come and daven there (Rabbi Yechiel Michel Tukachinsky); from netziv, "standing," a token of the Resurrection (Rabbi Moshe Shick)
   - he: ציון
     tr: tziyun
     en: marker
+    nk: צִיּוּן
     distinct: it fixes exactly where the body lies so that others, Kohanim above all, do not contract tumah (Tukachinsky); as a road marker it reminds the passerby where he is headed (Rabbi Asher Pollak)
   - he: נפש
     tr: nefesh
     en: memorial
+    nk: נֶפֶשׁ
     distinct: the Mishnaic word (Shekalim 2:5); it honors the deceased and his soul, which may linger by the resting place of its body (Tukachinsky); Rabbi Eliyahu Katz ties it instead to vayinafash, rest
 sources:
   - wiaw:7730 "On the Tombstone" (2018-04-28) https://articles.ohr.edu/articles/on-the-tombstone

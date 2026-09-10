@@ -5,6 +5,11 @@ roots: [ת-מ-ם, ש-ל-ם]
 translit: [tam, tamim, temimah, temimos, temimot, temimus, temimut, tom, tumah, shalem, shaleim, shalaim, shleimus, shleimut, shelemus, shelemut, sheleimus, shalom, shelim, leshalem]
 english: [complete, whole, wholeness, completeness, unblemished, wholehearted, wholesome, perfect]
 domain: other
+words:
+  - he: שלם
+    nk: שָׁלֵם
+  - he: שלום
+    nk: שָׁלוֹם
 sources:
   - wiaw:9396 "Seeking Completion" (2021-10-16) https://articles.ohr.edu/articles/seeking-completion
 authorities: [Rabbeinu Bachaya, Malbim, Rabbi Shlomo Pappenheim, Zohar, Kedushat Levi, Targum Onkelos, Sefer HaBahir, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Bedersi, Rabbi Moshe Sofer, Rabbi Shimon Dov Ber Analak]

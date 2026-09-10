@@ -8,6 +8,8 @@ domain: nature
 words:
   - he: בר
     nk: בָּר
+  - he: שבר
+    nk: שֶׁבֶר
 sources:
   - wiaw:8546 "A Biblical Feast" (2020-01-04) https://articles.ohr.edu/articles/a-biblical-feast
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachaya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Targum Onkelos, Targum Yonasan]

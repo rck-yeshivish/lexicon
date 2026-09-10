@@ -13,6 +13,7 @@ words:
   - he: עם
     tr: am
     en: people, nation
+    nk: עַם
     distinct: the narrower word, a body of people united under one king, leader, or God (Heidenheim, Malbim), or like-minded people who act alike (Wertheimer); hence it takes possessive forms, ami, amcha (Mecklenburg, Malbim)
   - he: לאום
     tr: leom

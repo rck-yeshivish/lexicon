@@ -9,6 +9,7 @@ words:
   - he: עד
     tr: eid
     en: witness
+    nk: עֵד
     distinct: the Hebrew word; the one who was there and knows, so his testimony ties the deed to the doer (Rabbi Shlomo Pappenheim); it carries a second sense of "warn"
   - he: עדות
     tr: eidus

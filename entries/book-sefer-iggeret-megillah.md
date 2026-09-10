@@ -5,6 +5,11 @@ roots: [ס-פ-ר, א-ג-ר, ג-ל, ג-ר, ח-ז-ר, כ-ת-ב]
 translit: [sefer, seforim, sfar, sofer, sippur, mispar, iggeret, igros, igeret, megillah, megilla, megillos, megillot, gilayon, gilyon, shtar, shetar, machzor, machzorim, kuntres, kuntreis, ksav, ktav, mitzchaf]
 english: [book, scroll, letter, epistle, document, deed, codex, pamphlet, sheet]
 domain: other
+words:
+  - he: ספר
+    nk: סֵפֶר
+  - he: שטר
+    nk: שְׁטָר
 sources:
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Ritva, Rabbeinu Tam, Rabbi Shmuel Strashun, Rabbi Elimelech of Lizhensk, Rabbi Moshe Shapiro, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Dov Soloveitchik, Rabbi Jose Faur, Radak, the Vilna Gaon, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Daniel Sperber, Rabbi Ernest Klein, Rabbi Moshe Chaim Leiter]

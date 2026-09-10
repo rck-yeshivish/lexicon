@@ -5,6 +5,9 @@ roots: [ר-א-ה, נ-ב-ט, ש-ק-ף, צ-פ-ה, ש-ו-ר, צ-ו-ץ, ש-ג-ח]
 translit: [raah, ra'ah, roeh, hibit, hibbit, habatah, hashkafah, mashkif, hishkif, tzofeh, tzofim, mitzapeh, shur, shar, metzitz, meitzitz, mashgiach, hashgachah]
 english: [see, look, gaze, peer, peek, watch, oversee, anticipate]
 domain: cognition
+words:
+  - he: שור
+    nk: שׁוּר
 sources:
   - wiaw:7463 "Seeing is Believing" (2017-11-04) https://articles.ohr.edu/articles/seeing-is-believing
 authorities: [Malbim, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro]

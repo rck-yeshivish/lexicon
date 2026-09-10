@@ -5,6 +5,9 @@ roots: [ע-ת, ז-מ-ן, י-ע-ד, ש-ע-ה, ע-ת-ד]
 translit: [eit, eis, et, es, ittim, itim, zman, zeman, zman, zmanim, moed, moeid, moadim, moados, shaah, sha'ah, shoah, shaos, shaot, bechol eit uvechol shaah, ish itti, atid, asid, mizuman, mezuman]
 english: [time, a time, season, appointed time, set time, hour]
 domain: time
+words:
+  - he: עת
+    nk: עֵת
 sources:
   - wiaw:7396 "Elul 1: Trends in Time" (2017-09-02) https://articles.ohr.edu/articles/elul-1-trends-in-time
 authorities: [Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Maharal of Prague, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe Isserles, Rabbi Yaakov Emden, Targumim]

@@ -13,6 +13,7 @@ words:
   - he: מצבה
     tr: matzeivah
     en: single-stone altar, pillar, monument
+    nk: מַצֵּבָה
     distinct: from netziv, a standing pillar; Rashi makes it an altar of one stone, Ramban an idolatrous entrance-pillar and not an altar at all
   - he: במה
     tr: bamah

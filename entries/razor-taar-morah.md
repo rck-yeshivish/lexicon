@@ -8,6 +8,8 @@ domain: body
 words:
   - he: מורה
     nk: מוֹרָה
+  - he: תער
+    nk: תַּעַר
 sources:
   - wiaw:7768 "Razor's Edge" (2018-05-26) https://articles.ohr.edu/articles/razors-edge
 authorities: [Targum, Rashi, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Vayikra Rabbah]

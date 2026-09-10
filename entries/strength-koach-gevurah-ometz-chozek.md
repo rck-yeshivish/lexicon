@@ -5,6 +5,11 @@ roots: [כ-ח, ג-ב-ר, ח-ז-ק, א-מ-ץ, ע-צ-ם, ע-ז-ז, א-ת-ן, א-ד
 translit: [koach, koah, ko'ach, kochos, kochot, gevurah, gevura, gibbor, gibor, chozek, chizuk, chizzuk, chazak, chazak v'ematz, chazak ve'ematz, ometz, omets, imutz, ematz, amutzim, otzem, etzem, oz, az, izuz, eitan, eisan, eitanim, adir, kabir, takif, tokef, matkif, chayil]
 english: [strength, power, might, heroism, fortitude, resolve, steadfast, mighty, overpowering]
 domain: other
+words:
+  - he: עז
+    nk: עֹז
+  - he: עצם
+    nk: עֹצֶם
 sources:
   - wiaw:8868 "The Power to Hold Back" (2020-09-26) https://articles.ohr.edu/articles/the-power-to-hold-back
   - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones

@@ -27,6 +27,8 @@ words:
     tr: mifkad
     en: census, muster
     distinct: a third set the article leaves for another time; Rabbi Wertheimer treats mifkad as the word for a specific count, against mispar as the general number
+  - he: ספר
+    nk: סֹפֵר
 sources:
   - wiaw:7251 "When Just Counting Doesn't Count" (2017-05-13) https://articles.ohr.edu/articles/when-just-counting-doesnt-count
 authorities: [the Vilna Gaon, Rabbi Wertheimer, Rabbi Shlomo Pappenheim of Breslau, Rabbi Yaakov Tzvi Mecklenburg]

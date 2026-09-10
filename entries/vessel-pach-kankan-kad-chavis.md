@@ -25,6 +25,7 @@ words:
   - he: קנה
     tr: kaneh
     en: reed, stem, tube
+    nk: קָנֶה
     distinct: not a container but a hollow pipe-like item; hollowness is its defining feature, which is why Rashbam and Ibn Ezra hold the Menorah's kanim were hollow inside
 sources:
   - wiaw:10751 "Miketz: Cans of Oil" (2022-12-17) https://articles.ohr.edu/articles/miketz-cans-of-oil

@@ -9,6 +9,7 @@ words:
   - he: שבועות
     tr: Shavuos
     en: Festival of Weeks
+    nk: שָׁבוּעוֹת
     distinct: the Torah's own name, since the date is fixed by counting seven weeks from Pesach rather than by a calendar day (Shemos 34:22; Devarim 16:10, 16:16)
   - he: עצרת
     tr: Atzeres

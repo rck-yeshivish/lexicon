@@ -5,6 +5,11 @@ roots: [צ-פ-ן, ס-פ-ן, ט-מ-ן, ג-נ-ז, ס-ת-ר, ע-ל-ם]
 translit: [tzafun, tzafoon, tsafun, tzofun, safun, sfun, tamun, tomun, hatmanah, hatmana, ganuz, gonuz, genizah, geniza, ganaz, nistar, mustar, seter, mistar, mistor, mistorin, neelam, ne'elam, taalumah, ta'alumah, taaluma, hastarah, hastara, tamir]
 english: [hidden, hidden away, stored up, buried, concealed, stowed, put away, out of view, beyond one's grasp]
 domain: other
+words:
+  - he: סתר
+    nk: סֵתֶר
+  - he: צפון
+    nk: צָפוּן
 sources:
   - wiaw:11696 "Mishpatim: Hidden Things" (2025-02-22) https://articles.ohr.edu/articles/mishpatim-hidden-things
 authorities: [Mechilta, Rabbi Shlomo Pappenheim, Rabbi Yosef Kimchi, Rashi, Menachem Ibn Saruk, Shadal, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein, Rabbi Yehuda Leib Shapira-Frankfurter, Targum]

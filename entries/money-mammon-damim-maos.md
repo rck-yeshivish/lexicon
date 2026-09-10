@@ -5,6 +5,9 @@ roots: [מ-נ-ה, א-מ-נ, ד-מ-ה, ז-ו-ז, כ-ס-ף, מ-כ-ר]
 translit: [mammon, mamon, mammonos, mammonot, damim, damin, dmei, demei, maos, maot, maah, zuz, zuzim, kesef, mechir, mecher, hon, rechush, geirah, gera, maneh, maos chitim]
 english: [money, funds, price, value, cash, coin, silver]
 domain: society
+words:
+  - he: רכוש
+    nk: רְכוּשׁ
 sources:
   - wiaw:11394 "Bechukosai: All About Money" (2024-06-01) https://articles.ohr.edu/articles/bechukosai-all-about-money
 authorities: [Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Rabbi Shlomo Pappenheim, Rashi, Rashbam, Ibn Ezra, Ibn Janach, Radak, Chida, Rabbi Yitzchok Schmelkes, Rabbi Shlomo Zalman Ehrenreich, Rabbi Chaim of Friedberg, Rabbi Yaakov Emden, Rabbi Azaria Figo, Rabbi Eliezer Herstik, Pri Megadim, Rabbi Shimon Yehuda Leib Goldblit]

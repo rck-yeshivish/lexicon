@@ -21,10 +21,12 @@ words:
   - he: שבת
     tr: shabbos
     en: Shabbos, week, Sabbatical year
+    nk: שַׁבָּת
     distinct: a synecdoche, the day and the whole week it closes (Ramban to Vayikra 23); Mecklenburg denies it ever means week and reads it as cessation
   - he: שבועה
     tr: shevuah
     en: oath
+    nk: שְׁבוּעָה
     distinct: the oath binds the swearer under Hashem, "the Seventh One" (Ibn Ezra, on Sefer Yetzirah 4:2), or delivers him into Hashem's hand (Rav Hirsch)
   - he: שבויה
     tr: shevuyah

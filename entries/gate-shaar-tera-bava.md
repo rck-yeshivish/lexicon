@@ -9,6 +9,7 @@ words:
   - he: שער
     tr: shaar
     en: gate
+    nk: שַׁעַר
     distinct: the Hebrew word, some 375 times in Tanach; also a settlement, and in the Mishnah a market price or the act of appraising, since the merchants who set prices sat at the gate (Shadal)
   - he: תרע
     tr: tera

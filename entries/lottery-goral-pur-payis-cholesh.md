@@ -8,6 +8,8 @@ domain: society
 words:
   - he: חבל
     nk: חֶבֶל
+  - he: פור
+    nk: פּוּר
 sources:
   - wiaw:8181 "Playing the Lottery" (2019-03-16) https://articles.ohr.edu/articles/playing-the-lottery
 authorities: [Maharitatz (Rabbi Yom Tov Tzahalon), Rabbi Yaakov Lorberbaum of Lissa, Midrash Lekach Tov, Rashbam, Ibn Ezra, Ramban, Rabbi Yosef ben Yosef Ibn Nachmias, Rabbi Shlomo Pappenheim, Tosafos Yom Tov, Meiri, Sefer HaAruch, Rabbi Shlomo HaAdani (Meleches Shlomo), Rabbi Yosef Yishai Rain]

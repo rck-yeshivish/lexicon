@@ -8,6 +8,12 @@ domain: society
 words:
   - he: מורה
     nk: מוֹרֶה
+  - he: מרי
+    nk: מְרִי
+  - he: מרידה
+    nk: מְרִידָה
+  - he: פשע
+    nk: פֶּשַׁע
 sources:
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
 authorities: [Rashi, Midrash Tanchuma, Rabbi Shlomo Pappenheim, Targum, Rabbi Yonah Ibn Janach, Radak, Machberet Menachem (Rabbi Menachem Ibn Saruk), Rav Hirsch, Rabbi Aharon Marcus, Sifrei]

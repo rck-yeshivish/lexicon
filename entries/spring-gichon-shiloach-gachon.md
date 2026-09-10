@@ -5,6 +5,9 @@ roots: [ג-ו-ח, ש-ל-ח, ג-ח, נ-ג-ח]
 translit: [gichon, gihon, shiloach, shiloah, shelach, shilucha, gachon, gochon, negichah, negicha, mei shiloach, siloam]
 english: [Gichon, Shiloach, belly, spring, wellspring, goring]
 domain: nature
+words:
+  - he: שלח
+    nk: שֶׁלַח
 sources:
   - wiaw:11019 "Matos Masei: The Shiloach Waters" (2023-07-15) https://articles.ohr.edu/articles/matos-masei-the-shiloach-waters
 authorities: [Rashi, Radak, Ibn Janach, Rabbi Yosef Kimchi, Ibn Ezra, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabbi Meir Abulafia (Ramah), Targum, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe Ibn Chaviv, Rabbi Yoel Teitelbaum of Satmar]

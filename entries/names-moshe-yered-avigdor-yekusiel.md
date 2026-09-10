@@ -9,6 +9,7 @@ words:
   - he: משה
     tr: Moshe
     en: Moshe
+    nk: מֹשֶׁה
     distinct: the name Basyah gave him, and the only one the Torah and Hashem Himself use, her reward for the chesed of taking him in (Vayikra Rabbah 1:3)
   - he: ירד
     tr: Yered

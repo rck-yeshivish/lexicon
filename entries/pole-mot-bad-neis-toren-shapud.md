@@ -8,6 +8,8 @@ domain: other
 words:
   - he: בד
     nk: בַּד
+  - he: נס
+    nk: נֵס
 sources:
   - wiaw:11433 "Shelach: Message on a Pole" (2024-06-29) https://articles.ohr.edu/articles/shelach-message-on-a-pole
 authorities: [Rabbi Yaakov Tzvi Mecklenburg, Zohar, Rabbeinu Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rav Hirsch, Rambam, Rashi, Rabbi Ernest Klein, Rabbi Tzvi Matisyahu Abrahams]

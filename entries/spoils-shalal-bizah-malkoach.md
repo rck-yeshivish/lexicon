@@ -5,6 +5,9 @@ roots: [ש-ל, ש-ל-ל, ב-ז, ב-ז-ז, ל-ק-ח, ש-ב-ה, ע-ד]
 translit: [shalal, shallal, baz, bizah, biza, bizas, bizat, malkoach, malkoah, shevi, shvi, ad, adi, shelilah, shelili]
 english: [spoils, booty, plunder, loot, captives, live captives, ornaments]
 domain: society
+words:
+  - he: עד
+    nk: עַד
 sources:
   - wiaw:8594 "Take Your Spoils" (2020-02-08) https://articles.ohr.edu/articles/take-your-spoils
 authorities: [Rashi, Rabbi Avraham Bedersi HaPenini, Maharal, Radak, Rabbi Yaakov Chaim Sofer, Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Baruch HaLevi Epstein, Menachem Ibn Saruk, Ibn Janach, Rabbi Shmuel Ibn Tibbon]

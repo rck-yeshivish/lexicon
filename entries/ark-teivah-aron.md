@@ -5,6 +5,9 @@ roots: [ת-ב-ה, א-ר-ן]
 translit: [teivah, teiva, tevah, teva, aron, oron, aronos, aronot]
 english: [ark, box, chest, basket, coffin, closet]
 domain: other
+words:
+  - he: תיבה
+    nk: תֵּיבָה
 sources:
   - wiaw:6943 "A Tale of Two Arks" (2016-09-24) https://articles.ohr.edu/articles/a-tale-of-two-arks
 authorities: [Rabbi Aharon Marcus]

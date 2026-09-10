@@ -10,6 +10,8 @@ words:
     nk: אֶבֶן
   - he: לבנה
     nk: לְבֵנָה
+  - he: סלע
+    nk: סֶלַע
 sources:
   - wiaw:7990 "Like a Rock (Part 1)" (2018-11-17) https://articles.ohr.edu/articles/like-a-rock-part-1
 authorities: [Malbim, Rabbi Immanuel Chai Ricci, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus]

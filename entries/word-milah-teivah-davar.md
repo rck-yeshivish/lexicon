@@ -10,6 +10,8 @@ words:
     nk: דָּבָר
   - he: מילה
     nk: מִילָּה
+  - he: תיבה
+    nk: תֵּיבָה
 sources:
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yosef Teomim, Rabbi Shlomo Zalman of Hanau, Rokeach, Rabbeinu Efrayim, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Moshe Shapiro, Rabbi Akiva Tatz]

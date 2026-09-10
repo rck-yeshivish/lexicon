@@ -8,6 +8,8 @@ domain: emotion
 words:
   - he: חן
     nk: חֵן
+  - he: רחמים
+    nk: רַחֲמִים
 sources:
   - wiaw:7679 "Mercy or Pity" (2018-03-10) https://articles.ohr.edu/articles/mercy-or-pity
 authorities: [Rabbeinu Bachaya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer]

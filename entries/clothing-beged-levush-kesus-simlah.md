@@ -34,6 +34,8 @@ words:
     tr: maateh
     en: wrap, covering
     distinct: wrapping or enveloping generally, not necessarily clothing at all
+  - he: שלמה
+    nk: שַׂלְמָה
 sources:
   - wiaw:7658 "My Clothes and Me" (2018-02-24) https://articles.ohr.edu/articles/my-clothes-and-me
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Maharik, Ibn Ezra, Rabbi Moshe Shapiro, Rabbi Shlomo of Karlin]

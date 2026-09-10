@@ -5,6 +5,11 @@ roots: [ש-ל-ם, ש-ל-ה, ש-ק-ט, ש-א-ן]
 translit: [shalom, sholom, shalem, shaleim, shalvah, shalva, shalev, shaleiv, shalu, sheket, shekes, hashket, hashkeit, shaanan, sha'anan, shalanan, betach, nachas, nachat]
 english: [peace, wholeness, tranquility, ease, quiet, stillness, calm, serenity]
 domain: emotion
+words:
+  - he: שלום
+    nk: שָׁלוֹם
+  - he: שלם
+    nk: שָׁלֵם
 sources:
   - wiaw:8816 "Peace and Quiet" (2020-08-08) https://articles.ohr.edu/articles/peace-and-quiet
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Ibn Janach, Radak, Rashi, Ibn Ezra, Ramban]

@@ -5,6 +5,9 @@ roots: [ד-ב-ר, ע-ר-ב, צ-י-ה, צ]
 translit: [midbar, midbor, aravah, arava, aravot, arvos, arvot, tziyah, tziya, tzia, tziyim, tzi, tzim, tzimaon, tzimmaon]
 english: [wilderness, desert, plain, arid waste, parched land]
 domain: nature
+words:
+  - he: ערבה
+    nk: עֲרָבָה
 sources:
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
 authorities: [Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Malbim, the Vilna Gaon, Metzudas David, Rav Hirsch, Rabbeinu Meyuchas ben Eliyahu, Rabbi Tzvi Matisyahu Abrahams, Shoresh Yesha]

@@ -5,6 +5,9 @@ roots: [ש-פ-ח, ב-י-ת, ח-נ-ה, ש-א-ר]
 translit: [mishpachah, mishpacha, mishpocho, bayis, bayit, bayti, machaneh, machane, sheer, sheair, shear, shifchah, shifcha, pamalia, pamalya, pamilia, tachanah, chanayah, sapachas, sapachat]
 english: [family, household, camp, kinsman, relative, entourage]
 domain: society
+words:
+  - he: שפחה
+    nk: שִׁפְחָה
 sources:
   - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
 authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Yehudah Aryeh of Carpentras, HaKtav V'HaKabbalah, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Rambam, Sefer HaAruch, Rabbi Eliyahu HaBachur, Rabbi Gedaliah Lipschutz, Rabbi Eliezer Herstik]

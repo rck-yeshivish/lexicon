@@ -5,6 +5,9 @@ roots: [ש-ת-ה, ש-ת, ש-ק, ג-מ-א, ג-מ]
 translit: [shtiyah, shesiyah, lishtos, lishtot, hashkaah, lehashkos, lehashkot, hishkah, mashkeh, hagmieini, hagmiini, gemiah, gemia, teshukah, teshuka, shokek, meshek, shok, shuk, sheket, neshikah, lugma, legimah]
 english: [drink, drinking, give to drink, water, beverage, let me sip, swallow]
 domain: action
+words:
+  - he: שוקק
+    nk: שׁוֹקֵק
 sources:
   - wiaw:10709 "Chayei Sarah: Take a Drink" (2022-11-12) https://articles.ohr.edu/articles/chayei-sarah-take-a-drink
 authorities: [Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Shadal, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rashi, Rav Hirsch, Rabbi Ernest Klein]

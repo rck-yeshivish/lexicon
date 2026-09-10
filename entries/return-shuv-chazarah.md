@@ -5,6 +5,9 @@ roots: [ש-ב, ש-ו-ב, ח-ז-ר]
 translit: [shuv, shuva, shuvah, teshuva, teshuvah, hashava, hashavah, lehashiv, chazar, chozer, chazara, chazarah, shabbos, shabbat, shevi, chazir]
 english: [return, repentance, revert, turn back, go back, retrace]
 domain: action
+words:
+  - he: שבת
+    nk: שַׁבָּת
 sources:
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachaya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi]

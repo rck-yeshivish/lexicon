@@ -8,6 +8,8 @@ domain: ritual
 words:
   - he: חן
     nk: חֵן
+  - he: תפילה
+    nk: תְּפִילָּה
 sources:
   - wiaw:7090 "Say your Prayers" (2017-01-14) https://articles.ohr.edu/articles/say-your-prayers
 authorities: [Targum Onkelos, Rabbi Simcha Maimon, Rabbi Shmuel Laniado, Rabbi Yaakov Tzvi Mecklenburg]

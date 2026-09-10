@@ -10,6 +10,8 @@ words:
     nk: בְּלִי
   - he: מאומה
     nk: מְאוּמָה
+  - he: ריק
+    nk: רִיק
 sources:
   - wiaw:11095 "An Article About Nothing (Part 1 of 2)" (2023-09-09) https://articles.ohr.edu/articles/an-article-about-nothing-part-1-of-2
   - wiaw:11087 "An Article About Nothing (Part 2 of 2)" (2023-09-16) https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2

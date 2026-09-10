@@ -8,6 +8,12 @@ domain: ritual
 words:
   - he: יובל
     nk: יוֹבֵל
+  - he: קרן
+    nk: קֶרֶן
+  - he: שפיר
+    nk: שַׁפִּיר
+  - he: שפר
+    nk: שֶׁפֶר
 sources:
   - wiaw:9992 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-17) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn
   - wiaw:10060 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-24) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2

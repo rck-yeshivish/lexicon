@@ -5,6 +5,11 @@ roots: [נ-ו-א, פ-ר-ר, ב-ט-ל]
 translit: [heini, heni, yani, hafarah, hafaras nedarim, heifer, hefer, batel, bittul, bitul, bitul chametz, batalah, pur, na]
 english: [nullify, annul, void, restrain, withhold, break]
 domain: action
+words:
+  - he: נא
+    nk: נָא
+  - he: פור
+    nk: פּוּר
 sources:
   - wiaw:7851 "Null and Void" (2018-07-14) https://articles.ohr.edu/articles/null-and-void
 authorities: [Rabbi Shlomo Aharon Wertheimer, Malbim, Rav Hirsch, Menachem Ibn Saruk, Dunash Ibn Labrat, Rabbi Saadia Gaon, Rashi, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg]

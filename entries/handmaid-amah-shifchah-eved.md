@@ -13,6 +13,7 @@ words:
   - he: שפחה
     tr: shifchah
     en: bondwoman
+    nk: שִׁפְחָה
     distinct: the true female counterpart of eved, put to any and every task (Rabbi Shlomo Aharon Wertheimer); from a root of attachment, one joined to the household (Rabbi Yaakov Tzvi Mecklenburg)
   - he: עבד
     tr: eved

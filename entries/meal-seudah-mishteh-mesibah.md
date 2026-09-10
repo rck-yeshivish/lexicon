@@ -5,6 +5,9 @@ roots: [ס-ע-ד, ש-ת-ה, ס-ב-ב]
 translit: [seudah, seuda, seudos, seudot, saad, saad lev, mishteh, mishte, mishtaos, mesibah, mesiba, mesubin, haseibah, hasebah]
 english: [meal, feast, banquet, drinking-feast, party]
 domain: ritual
+words:
+  - he: סעד
+    nk: סָעַד
 sources:
   - wiaw:7176 "Party Hardy" (2017-03-11) https://articles.ohr.edu/articles/party-hardy
 authorities: [Radak, Rabbi Tzaddok HaKohen of Lublin, Rashi, Rashbam, Rabbi Levi Yitzchok of Berditchev]

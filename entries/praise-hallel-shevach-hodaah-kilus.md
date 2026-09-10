@@ -5,6 +5,9 @@ roots: [י-ד-ה, ה-ל-ל, ש-ב-ח, פ-א-ר, ר-ו-ם, ה-ד-ר, ב-ר-ך, ע
 translit: [hodaah, hoda'ah, lehodos, lehodot, hallel, lehallel, shevach, leshabeach, leshabei'ach, leshabeiach, pe'er, lefaer, lefa'er, romem, leromem, hadar, lehader, berachah, levarech, levareich, iluy, lealeh, le'aleh, kilus, kilos, lekales, lekalles, lenatzeach, lenatze'ach, lenatzeiach, netzach]
 english: [thank, praise, laud, glorify, beautify, extol, bless, raise high, exalt, eternalize]
 domain: speech
+words:
+  - he: נצח
+    nk: נֶצַח
 sources:
   - wiaw:6934 "Ten Expressions of Praise" (2016-09-17) https://articles.ohr.edu/articles/ten-expressions-of-praise
 authorities: [Arizal, Maharal of Prague, Abudraham, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimshon Pincus, Rabbi Chaim Volozhiner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg]

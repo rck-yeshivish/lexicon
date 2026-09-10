@@ -8,6 +8,10 @@ domain: ritual
 words:
   - he: מסכה
     nk: מַסֵּכָה
+  - he: מצבה
+    nk: מַצֵּבָה
+  - he: פסל
+    nk: פֶּסֶל
 sources:
   - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
 authorities: [Avos d'Rabbi Nosson, Malbim, Maharitatz, Rashi, Rabbeinu Nissim, Ritva, Ibn Ezra, Ramban, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh, Rabbeinu Shimshon of Shantz, Pirush HaRaavad, Rav Achai Gaon, Netziv]

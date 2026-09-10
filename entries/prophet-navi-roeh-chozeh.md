@@ -5,6 +5,9 @@ roots: [נ-ב-א, נ-י-ב, ר-א-ה, ח-ז-ה, ב-א]
 translit: [navi, nevi, neviim, roeh, roe, chozeh, choze, machazeh, machaze, mareh, marah, chazon, niv, meturgaman, meturgeman]
 english: [prophet, seer, visionary, spokesman, vision]
 domain: society
+words:
+  - he: מראה
+    nk: מַרְאֶה
 sources:
   - wiaw:8052 "Prophets and Visionaries" (2018-12-29) https://articles.ohr.edu/articles/prophets-and-visionaries
 authorities: [Rashi, Rashbam, Ibn Ezra, Rabbi Yonah Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Malbim, Vilna Gaon, Rabbi Aharon Marcus, Targum Onkelos, Rasag]

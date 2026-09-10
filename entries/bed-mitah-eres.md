@@ -8,6 +8,8 @@ domain: other
 words:
   - he: מטה
     nk: מִטָּה
+  - he: עריסה
+    nk: עֲרִיסָה
 sources:
   - wiaw:8364 "Beds of the Righteous" (2019-08-10) https://articles.ohr.edu/articles/beds-of-the-righteous
 authorities: [Ramchal, Menachem ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover]

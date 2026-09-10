@@ -8,6 +8,8 @@ domain: nature
 words:
   - he: כנף
     nk: כָּנָף
+  - he: צפרא
+    nk: צַפְרָא
 sources:
   - wiaw:7009 "Fowl Language and Poultry" (2016-11-19) https://articles.ohr.edu/articles/fowl-language-and-poultry
 authorities: [Rashi, Radak, Rabbi Yom Tov Lipman Heller, Sifri, Rambam, Ramban, Rabbi Chanoch Zundel of Bialystok]

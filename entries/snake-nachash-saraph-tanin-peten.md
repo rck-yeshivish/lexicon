@@ -5,6 +5,11 @@ roots: [נ-ח-ש, ש-ר-ף, ת-נ-ן, צ-פ-ע, א-פ-ע, ע-כ-ש, פ-ת-ן, ש
 translit: [nachash, nahash, saraph, saraf, seraph, tanin, tannin, tzefa, tzifoni, tzefoni, efeh, ef'eh, achshuv, achshub, peten, pesen, shephiphon, shefifon, akalaton, lachash, eches]
 english: [snake, serpent, viper, adder, asp, sea serpent, fiery serpent]
 domain: nature
+words:
+  - he: שרף
+    nk: שָׂרָף
+  - he: תנין
+    nk: תַּנִּין
 sources:
   - wiaw:7321 "Slithering Serpents and Sea Snakes - Part 1" (2017-07-01) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1
   - wiaw:7341 "Slithering Serpents and Sea Snakes - Part 2" (2017-07-15) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-2

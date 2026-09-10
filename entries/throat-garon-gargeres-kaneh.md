@@ -17,6 +17,7 @@ words:
   - he: קנה
     tr: kaneh
     en: windpipe
+    nk: קָנֶה
     distinct: literally a reed or hollow stalk; the Gemara's standard word for the windpipe, and for Rabbi Yaakov Weil the inner membrane as against the ringed exterior
   - he: ושט
     tr: veshet

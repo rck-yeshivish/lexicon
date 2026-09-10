@@ -5,6 +5,9 @@ roots: [נ-ע-ר, ע-ל-ם]
 translit: [naar, na'ar, naarah, na'arah, nearim, elem, almah, alma, alamos, alim, neelam, eilum]
 english: [youth, lad, young man, young woman, maiden, attendant]
 domain: society
+words:
+  - he: עלם
+    nk: עֶלֶם
 sources:
   - wiaw:8922 "Chayei Sarah: Boys and Girls (Part 1)" (2020-11-14) https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1
 authorities: [Rashi, Rabbi Eliyahu Mizrachi, Radak, Ibn Ezra, Rav Hirsch, Peirush HaRokeach, Rabbeinu Efrayim ben Shimshon, Rabbi Shimon Dov Ber Analak, Chizkuni]

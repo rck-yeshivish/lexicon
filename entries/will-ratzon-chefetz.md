@@ -8,6 +8,10 @@ domain: emotion
 words:
   - he: חפץ
     nk: חֵפֶץ
+  - he: צבי
+    nk: צְבִי
+  - he: רצון
+    nk: רָצוֹן
 sources:
   - wiaw:8573 "Running on Willpower" (2020-01-25) https://articles.ohr.edu/articles/running-on-willpower
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Tzvi Yehuda Kook, Rabbi Aharon Yehuda Leib Margolios, Malbim, Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Leib Edel, Vilna Gaon, Targum Onkelos]

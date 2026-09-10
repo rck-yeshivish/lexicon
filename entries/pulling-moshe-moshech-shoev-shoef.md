@@ -9,6 +9,7 @@ words:
   - he: משה
     tr: moshe
     en: draw out of water
+    nk: מֹשֶׁה
     distinct: pulling something out from within water specifically, never a general pull (Rashbam, Rabbi David Chaim Chelouche); the root of the name Moshe
   - he: משך
     tr: moshech
@@ -17,6 +18,7 @@ words:
   - he: שאב
     tr: shoev
     en: draw water
+    nk: שָׁאַב
     distinct: drawing water, in Tanach almost only from a well (Rabbi Shlomo Aharon Wertheimer); which stage of the act it names is disputed
   - he: שאף
     tr: shoef

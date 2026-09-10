@@ -8,6 +8,8 @@ domain: time
 words:
   - he: בוקר
     nk: בּוֹקֶר
+  - he: צפרא
+    nk: צַפְרָא
 sources:
   - wiaw:8518 "Good Morning Sunshine" (2019-12-14) https://articles.ohr.edu/articles/good-morning-sunshine
 authorities: [Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Alkabetz, Rashi, Rabbi Menachem ibn Saruk, Ibn Ezra, Radak, Rabbi Wolf Heidenheim, Peirush HaRokeach, Zohar, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Eliyahu HaBachur, Ramban, Rabbi Aharon Marcus, Rabbi Yaakov Zev Lev, Rabbi Moshe Kosover of Beit Chilkiyah]

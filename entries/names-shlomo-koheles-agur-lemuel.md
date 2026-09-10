@@ -9,6 +9,7 @@ words:
   - he: שלמה
     tr: Shlomo
     en: Shlomo
+    nk: שְׁלֹמֹה
     distinct: from shalem, complete, since he saw the Beis HaMikdash completed (the Midrash), or from shalom, since peace prevailed in his reign (Targum Sheini, on Divrei HaYamim I 22:9); given by his parents, and by prophecy before his birth
   - he: ידידיה
     tr: Yedidyah
@@ -37,6 +38,7 @@ words:
   - he: עלוקה
     tr: Alukah
     en: Alukah
+    nk: עֲלוּקָה
     distinct: at Mishlei 30:15, literally a leech; the Rid counts it an eighth name, for one who drank in every kind of wisdom, and Tosafos deny it can be Shlomo since it is not among the seven
 sources:
   - wiaw:8149 "Solomon's Seven Names" (2019-02-23) https://articles.ohr.edu/articles/solomons-seven-names

@@ -5,6 +5,9 @@ roots: [ג-ט, ש-ט-ר]
 translit: [gett, get, git, gittin, gitin, shtar, shetar, shtarot, shtaros, shetarot, sefer kerisus, sefer kritut, sefer hamiknah, sefer hamikna, shoter, shotrim, sofer]
 english: [document, writ, bill, deed, bill of divorce, contract]
 domain: society
+words:
+  - he: שטר
+    nk: שְׁטָר
 sources:
   - wiaw:8704 "Divorce Bills and Other Documents" (2020-05-16) https://articles.ohr.edu/articles/divorce-bills-and-other-documents
 authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch]

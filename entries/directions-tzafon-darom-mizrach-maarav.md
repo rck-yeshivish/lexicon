@@ -5,6 +5,15 @@ roots: [י-מ-ם, ע-ר-ב, א-ח-ר, ז-ר-ח, ק-ד-ם, פ-נ-ה, צ-פ-ן, ש
 translit: [yam, maarav, ma'arav, meurav, acharon, mizrach, kedem, kodem, panim, tzafon, tzafun, tzifiyah, smol, semol, estan, asuta, darom, derech yom, negev, teiman, yemin, yamin]
 english: [west, east, north, south, seaward, forward, hidden, dry country, right, left]
 domain: nature
+words:
+  - he: נגב
+    nk: נֶגֶב
+  - he: פנים
+    nk: פָּנִים
+  - he: צפון
+    nk: צָפוֹן
+  - he: קדם
+    nk: קֶדֶם
 sources:
   - wiaw:7029 "Looking Four Directions" (2016-12-03) https://articles.ohr.edu/articles/looking-four-directions
 authorities: [Rabbeinu Bachaya]

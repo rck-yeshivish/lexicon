@@ -5,6 +5,9 @@ roots: [צ-ע-ק, ז-ע-ק, ש-ו-ע]
 translit: [tzaakah, tzeakah, tzaaka, tzaak, vayitzak, zaakah, zeakah, zaaka, vayizak, shaavah, shavah, shaava, shivah, shava, yeshuah, tzaar]
 english: [cry out, outcry, cry for help, plea]
 domain: speech
+words:
+  - he: שועה
+    nk: שַׁוְעָה
 sources:
   - wiaw:7655 "For Crying Out Loud" (2018-02-24) https://articles.ohr.edu/articles/for-crying-out-loud
 authorities: [Rashi, Ramban, Zohar, Malbim, Tosafos, Rabbi Shlomo Pappenheim, Rabbi Elazar Rokeach of Worms, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Emmanuel Chai Ricci, Rabbi Shlomo Aharon Wertheimer]

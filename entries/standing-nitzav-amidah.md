@@ -5,6 +5,9 @@ roots: [צ-ב, נ-צ-ב, ע-מ-ד]
 translit: [nitzav, nitzavim, nitzavta, hisyatzvu, hityatzvu, vatetatzav, mutzav, matzeivah, matzeva, amidah, amida, omed, imdu, amdah, yatziv]
 english: [standing, stationed, taking up a position, remaining standing]
 domain: body
+words:
+  - he: מצבה
+    nk: מַצֵּבָה
 sources:
   - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
 authorities: [Rabbi Tzvi Elimelech Shapiro of Dinov, Rashi, Bereishis Rabbah, Rabbi Shlomo Pappenheim, Malbim, Radak, Metzudas David, Rabbi Shimon Dov Ber Analak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rambam]

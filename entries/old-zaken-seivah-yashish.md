@@ -8,6 +8,8 @@ domain: time
 words:
   - he: ישן
     nk: יָשָׁן
+  - he: עתיק
+    nk: עַתִּיק
 sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
 authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Ernest Klein]

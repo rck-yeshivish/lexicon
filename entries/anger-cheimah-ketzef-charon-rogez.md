@@ -12,6 +12,10 @@ words:
     nk: אַף
   - he: אנף
     nk: אָנַף
+  - he: עברה
+    nk: עֶבְרָה
+  - he: פנים
+    nk: פָּנִים
 sources:
   - wiaw:9296 "Anger Issues" (2021-07-17) https://articles.ohr.edu/articles/anger-issues
 authorities: [Rabbeinu Efrayim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Vilna Gaon, Ibn Janach, Ibn Ezra, Radak, Eitz Yosef, Rambam, Rabbi Avraham Maimuni, Rashi, Menachem, Rabbeinu Tam, Targum Yonatan, Donash, Rabbi Yosef Kimchi]

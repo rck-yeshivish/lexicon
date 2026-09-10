@@ -5,6 +5,9 @@ roots: [ש-ר-ק, צ-פ-צ-ף, צ-פ]
 translit: [shreikah, shrekah, sherikah, sharak, sharku, yishrok, tishrok, sharakrak, mashrokita, mashrokisa, tziftzuf, tzaftzuf, mitzaftzef, tzaftzafah, racham, shuruk, shurek]
 english: [whistle, hiss, chirp, twitter, prattle, piping]
 domain: speech
+words:
+  - he: שורק
+    nk: שׁוּרֶק
 sources:
   - wiaw:11898 "Voeschanan - A Time to Whistle" (2025-08-09) https://articles.ohr.edu/articles/voeschanan-a-time-to-whistle
 authorities: [Rashi, Radak, Rabbi Shlomo Ibn Prachon, Menachem Ibn Saruk, Ibn Janach, Rabbi Moshe Kimchi, Rabbi Shlomo Pappenheim, Ibn Ezra, Maharsha, Ramban, Rema, Aruch HaShulchan, Tur, Rabbi Yaakov Berger, Rabbi Shaul Goldman]

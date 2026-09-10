@@ -5,6 +5,9 @@ roots: [ש-ל, א-ב-ד, ש-ח, ש-א-ן, י-ן]
 translit: [gehinnom, gehinom, sheol, shol, avadon, avaddon, shachat, shachas, beer shachat, bor shaon, tit hayaven, tzalmavet, tzalmaves, eretz tachtit, eretz hatachtit, eretz chittit, tophet, tofet, alukah, dumah]
 english: [Gehinnom, grave, pit, destruction, shadow of death, underworld]
 domain: other
+words:
+  - he: עלוקה
+    nk: עֲלוּקָה
 sources:
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
 authorities: [Rabbi Yehoshua ben Levi, Rashi, Ibn Ezra, Malbim, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Tosafos, Maharsha, Maharal, Rabbi Chaim of Volozhin, Rabbi Yitzchak Abuhab, Rabbi Tzvi Matisyahu Abrahams]

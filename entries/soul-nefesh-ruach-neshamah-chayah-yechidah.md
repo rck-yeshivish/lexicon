@@ -8,6 +8,8 @@ domain: other
 words:
   - he: חיה
     nk: חַיָּה
+  - he: נפש
+    nk: נֶפֶשׁ
 sources:
   - wiaw:8759 "Take a Breather (Part 1)" (2020-06-27) https://articles.ohr.edu/articles/take-a-breather-part-1
   - wiaw:8768 "Anatomy of a Soul (Part 2 of 3)" (2020-07-04) https://articles.ohr.edu/articles/anatomy-of-a-soul-part-2-of-3

@@ -5,6 +5,9 @@ roots: [ש-ן, ת-ל-ע, ל-ת-ע, ל-ע, ג-ל-ל, ח-ט-ט]
 translit: [shein, shen, shina, shinayim, mesalos, metallot, mitalot, maltaos, maltiot, malteos, kaka, kakka, nivi, niv, nivin, gallal, galal, chit, chut, loe]
 english: [tooth, teeth, incisors, molars, fangs, gums, ivory]
 domain: body
+words:
+  - he: מתלעות
+    nk: מְתַלְּעוֹת
 sources:
   - wiaw:10931 "Showing Teeth" (2023-04-22) https://articles.ohr.edu/articles/showing-teeth
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rabbi David Chaim Chelouche, Rabbi Moshe Tedeschi Ashkenazi, Rashi, Biur HaGra, Ibn Parchon, Tosafos, Rabbeinu Chananel, Rabbeinu Gershom, Rabbi Nosson of Rome, Rambam]

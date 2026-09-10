@@ -5,6 +5,9 @@ roots: [ר-י-ק, פ-נ, פ-נ-ה, ב-ח-ר]
 translit: [ravak, ravok, revakim, panui, penuyah, penuiah, mufneh, mufnah, pnai, penai, bachur, bochur, bachurim, reik, elem]
 english: [unmarried man, bachelor, single, unattached, available, young man]
 domain: society
+words:
+  - he: ריק
+    nk: רֵיק
 sources:
   - wiaw:11069 "Single Guys" (2023-09-02) https://articles.ohr.edu/articles/single-guys
 authorities: [Rashi, Tosafos, Rambam, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Matnos Kehunah, Radak, Rabbi Yehudah Aryeh of Carpentras, Rabbi Ernest Klein]

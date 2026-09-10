@@ -5,6 +5,11 @@ roots: [ע-ת, נ-א, ע-ד-ן]
 translit: [atah, ata, attah, na, achshav, achshov, achshaiv, kean, kaan, kedon, kadon, hashta, hashata, ha shaata, haidna, haidana, ha idana, eit, es, idan, idana]
 english: [now, at present, nowadays, at this hour]
 domain: time
+words:
+  - he: נא
+    nk: נָא
+  - he: עת
+    nk: עֵת
 sources:
   - wiaw:7409 "Elul 2: Now!" (2017-09-09) https://articles.ohr.edu/articles/elul-2-now
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Wolf Heidenheim]

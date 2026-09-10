@@ -22,6 +22,8 @@ words:
     tr: sandal
     en: sandal-fish
     distinct: a flat limbless fish (Niddah 25b), the shape a certain miscarried fetus is compared to; Meiri describes a free-floating piece of flesh with no defined limbs
+  - he: תנין
+    nk: תַּנִּין
 sources:
   - wiaw:9234 "Fun with Fish (Part 2/2)" (2021-06-05) https://articles.ohr.edu/articles/fun-with-fish-part-22
 authorities: [Rashi, Rivan, Meiri, Tosafos, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Ron Yosef Chaim Masoud Abuchatzeira, Rabbi Avraham Rivlin, Rabbi Nissim Paniri, Rabbi Aryeh Moshe Teicholtz, Rabbi Yitzchak Yishaya Weiss, Minchas Chinuch]

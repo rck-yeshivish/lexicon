@@ -10,6 +10,8 @@ words:
     nk: אַיִל
   - he: יובל
     nk: יוֹבֵל
+  - he: עז
+    nk: עֵז
 sources:
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
 authorities: [Rabbi Shlomo Pappenheim, Rabbi David Ibn Zimra, Abarbanel, Rav Hirsch, Rambam, Rashi, Radak, Ibn Ezra, Ibn Parchon, Rabbi Yishaya of Trani, Turei Zahav, Baal HaTurim, Peirush HaRokeach, Netziv, Rabbi Shmuel Strashun, Malbim, Rabbi Meir Simcha of Dvinsk, Rabbi Aharon Marcus, Rabbi Yisrael David Miller of Grodno, Ramban, Rabbi Yosef Chiyyun, Rabbi Meir Mazuz]
