@@ -2,7 +2,7 @@
 cluster: month
 hebrew: [חדש, ירח, ירח]
 roots: [ח-ד-ש, י-ר-ח]
-translit: [chodesh, chodesh, chadash, chiddush, rosh chodesh, yerach, yeirach, yareach, yerachim, oraiach]
+translit: [chodesh, chodesh, chadash, chiddush, rosh chodesh, yerach, yeirach, yareach, yerachim, oraiach, itrachish]
 english: [month, new moon, lunar month]
 domain: time
 words:
@@ -23,7 +23,7 @@ words:
 sources:
   - wiaw:7687 "Old Month versus New Month" (2018-03-17) https://articles.ohr.edu/articles/old-month-versus-new-month
 authorities: [Malbim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Mordechai Jaffe]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Month: chodesh / yerach
@@ -32,10 +32,12 @@ updated: 2026-09-10
 
 Both words come out **month** in English, but they name different things.
 *Chodesh* is properly the **new moon**, the month's beginning, from *chadash*,
-"new"; "month" is a secondary, borrowed sense (Malbim, Rav Hirsch). *Yerach* is
-the month as a full span of days, kin to *yareach*, the moon. Where a pasuk uses
+"new"; "month" is a secondary, borrowed sense (Malbim, Rav Hirsch). *Yerach* the
+column takes, as a suggestion and not a ruling, to be the month as a full span of
+days, kin to *yareach*, the moon; Malbim himself reads it as simply a thirty-day
+period. Where a pasuk uses
 *chodesh* in a place that calls for *Rosh Chodesh*, render "new moon," not
-"month." Practically: a *kesubah* says *chodesh* and a *get* says *yerach*
+"month." Practically: by custom a *kesubah* says *chodesh* and a *get* says *yerach*
 (Levush), so the two are not interchangeable even in a document.
 
 ## At a glance
@@ -48,19 +50,22 @@ the month as a full span of days, kin to *yareach*, the moon. Where a pasuk uses
 
 ## Where the authorities disagree
 
-**The simple view,** which the column records and passes over: *chodesh* is
-Aramaic and *yerach* Hebrew. Nothing in usage supports treating this as the
-distinction, and the Bottom line does not follow it.
+**The simple view,** which the column records and passes over: *some say*
+that *chodesh* is Aramaic and *yerach* Hebrew. Others, the column says, offer a
+more sophisticated approach, and it is those that the entry follows.
 
 **Malbim:** *chodesh* is the month's beginning, and *yerach* is a period of
 thirty days as such, whether or not those thirty days answer to any lunar event.
 On this reading *yerach* is a unit of counting, not an astronomical term.
 
-**Against that,** *yerach* is plainly related to *yareach*, the moon, whose
-motion fixes the month's length, which yields the cleaner division: *chodesh* is
-the start of the month, *yerach* the whole of it.
+**Against that,** in truth *yerach* is related to *yareach*, the moon, whose
+lunar movements help fix the month's length. On that basis, the column says, *we
+may posit* the cleaner division: *chodesh* denotes the *beginning* of the month,
+*yerach* the entire month as a whole. The column offers this as a suggestion,
+not as a ruling.
 
-**Rav Hirsch** divides them on a different axis again: *chodesh* is the month as
+**Rav Hirsch** offers another way of dividing them, which the column says fits
+its own model: *chodesh* is the month as
 an abstract unit of time, measured by the moon's light vanishing and returning,
 while *yerach* is the month as a vehicle of maturation, the passage of time made
 tangible in the growth of produce, a month bound to the rules of nature.
@@ -72,16 +77,22 @@ Malbim and Rav Hirsch: the primary sense is not "month" but "the beginning of th
 month." Hence the places where *chodesh* stands where one would expect *Rosh
 Chodesh*: Bamidbar 28:14, Shmuel I 20:18, Yeshayahu 1:13. The word carries
 *chadash*, "new," and *chiddush*, renewal, so what it names is the novelty of
-the month. That first of the months is Nissan, the month of miracles and of
-Yetzias Mitzrayim, and the column reads the common preference for *chodesh* along
-these lines: it looks at what Hashem introduces into the world beyond the settled
-run of nature.
+the month. The first of the months is Nissan, whose very meaning is "miracles,"
+because Yetzias Mitzrayim, one of the greatest miracles of all time, happened
+then.
 
 ### yerach (ירח) and yareach (ירח)
 Rabbi Aharon Marcus ties *yerach* to *oraiach*, "path," and to the Aramaic
-*israchish*, "it happened." Read with the above, *yerach* names time running its
-natural course, as if the month merely happened, with nothing breaking the
-system of nature; that is why it is the less common word.
+*itrachish*, "it happened." Marcus does not explain the thematic link between
+these words; the reading that follows is the columnist's own ("to me it seems
+fairly clear"). *Chodesh*, being bound up with "new," alludes to Hashem's
+introducing new occurrences outside the normal system of nature, which is what
+we call miracles; that, he suggests, is why *chodesh* is the word we use
+colloquially, since we wish to focus on Hashem and His awesome miracles.
+*Yerach*, tied to "path," connotes nothing "happening" beyond the regular system
+of nature: time running its course naturally, as if the month just happened,
+seemingly without Hashem's miraculous intervention. That, on this reading, is
+why it is the less common word.
 
 ### the practical ruling
 Rabbi Mordechai Jaffe, the *Levush*: the custom is that a *get* dates the month

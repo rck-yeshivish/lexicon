@@ -12,24 +12,35 @@ words:
     nk: יֶלֶק
 sources:
   - wiaw:7592 "Army of Grasshoppers" (2018-01-20) https://articles.ohr.edu/articles/army-of-grasshoppers
-authorities: [Rashi, Radak, Malbim, Meiri, Rabbi Shmuel ben Meshullam of Gerona, Rav Chaim Kanievsky, Rabbi Menachem Tzioni, Rabbeinu Bachya, Pirush HaRokeach, Rav Saadia Gaon, Ralbag, Ramban, Midrash HaGadol, Midrash Sechel Tov, Targum]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Radak, Malbim, Meiri, Rabbi Shmuel ben Meshullam of Gerona, Rav Chaim Kanievsky, Rabbi Menachem Tzioni, Rabbeinu Bachya, Pirush HaRokeach, Rav Saadia Gaon, Ralbag, Ramban, Midrash HaGadol, Midrash Sechel Tov, Targum, Rabbi Richard Jacobs]
+status: reviewed
+updated: 2026-09-10
 ---
 # Locust: arbeh / gazam / yelek / chasil (and the kosher four)
 
 ## Bottom line
 
-These are species names, not synonyms. *Arbeh* is both one species and the
-umbrella word: render it **locust** and let it carry the swarm. *Gazam* is the
-cutter, *yelek* the licker, *chasil* the finisher, and in Yoel 1:4 they arrive in
-that fixed order, each eating what the one before left; keep four distinct
-English words there, since one repeated "locust" destroys the pasuk. *Chagav* is
-the general term for **kosher** grasshoppers (Meiri, *Ohel Mo'ed*). The trap is
+It seems these are species names and not merely synonyms, though the column says
+plainly that we do not know for sure what each one is. *Arbeh* is both one
+species and the umbrella word: render it **locust** and let it carry the swarm.
+*Gazam* is the cutter, *yelek* the licker, *chasil* the finisher, and in Yoel 1:4
+they arrive in a fixed order, *gazam*, *arbeh*, *yelek*, *chasil*, each eating
+what the one before left; keep four distinct English words there, since one
+repeated "locust" destroys the pasuk. *Chagav* is the general term for **kosher**
+grasshoppers (Meiri, *Beis HaBechirah*, and Rabbi Shmuel ben Meshullam of Gerona,
+*Ohel Mo'ed*). The trap is
 translating any of them as "grasshopper" in a plague context, where the sense is
 a devouring swarm.
 
 ## Distinctions
+
+### the set as a whole
+It seems, the column says, that these words are not simply synonyms but names of
+different types of grasshopper. We do not know for sure what each one is; they
+are probably different forms of grasshoppers, crickets, katydids (bush crickets)
+and other orthoptera. Counting the words the column gathers, there are nine:
+*arbeh*, *gazam*, *yelek*, *chasil*, *tzfoni*, *sal'am*, *chargol*, *chagav* and
+*chanamal*, with *tzlatzel* added at the end as another possible one.
 
 ### arbeh (ארבה)
 The eighth *makkah* (Shemos 10:14, "before it there was never an *arbeh* like
@@ -48,9 +59,10 @@ a crawling thing (compare Devarim 32:24, where the word means a snake).
 Radak: from *melakek*, to lick, for its habit of licking and chewing at the
 grass. Third in Yoel's sequence. Nachum 3:15 describes the *yelek* as one that
 "spreads out and flies away," and on that Malbim builds a life cycle: born as a
-kind of worm, then a cocoon, then emerging winged. The article notes that Ohr
-Somayach's zoologist, Rabbi Richard Jacobs, could not confirm a grasshopper that
-develops this way. Targum: *parcha*, a flying thing.
+kind of worm, then a cocoon, then emerging winged. The columnist adds that after
+consulting Ohr Somayach's resident zoologist, Rabbi Richard Jacobs, he has been
+unable to confirm that such a grasshopper exists. Targum: *parcha*, a flying
+thing.
 
 ### chasil (חסיל)
 Radak: the one that finishes off (*chasal*) whatever produce remains, the word
@@ -63,12 +75,13 @@ HaBechirah*) and Rabbi Shmuel ben Meshullam of Gerona (*Ohel Mo'ed*), also the
 general term for all kosher grasshoppers; see Rav Chaim Kanievsky, *Karnei
 Chagavim* 2. The Gemara (Chullin 63b) says there are eight hundred kinds of
 *chagav*. Aramaic (Chullin 65a): *sal'am* is *rishon*, *chargol* is *nipol*,
-*chagav* is *gadyan*.
+*chagav* is *gadyan* (see also Radak to Amos 7:1).
 
 ### tzfoni (צפוני)
-Yoel 2:20, "and I will distance the *tzfoni* from you." Rashi and Radak: another
-word for these pests, so called because they come down on Eretz Yisrael from the
-north (*tzafon*).
+Yoel 2:20, God's own promise if the Jewish People repent their sins and pray:
+"I will distance the *tzfoni* from you." Rashi and Radak: another word for these
+pests, so called because they usually migrate from the north (*tzafon*) of Eretz
+Yisrael.
 
 ### tzlatzel (צלצל)
 Rashi (to Devarim 28:42 and Bava Kama 116b): another kind of grasshopper.
@@ -86,7 +99,8 @@ Tehillim 78:47, in the retelling of the *makkos*. Rashi: grasshoppers. Other
 ### How many were in Mitzrayim
 *Midrash HaGadol* (to Shemos 10:14): seven of the nine kinds made up the *makkah*
 of *arbeh*, namely *arbeh*, *sal'am*, *chargol*, *chagav*, *gazam*, *yelek* and
-*chasil*. Rabbi Menachem Tzioni adds *chanamal* for eight, each of the eight
+*chasil*. Rabbi Menachem Tzioni, a fourteenth-century German mekubal, adds
+*chanamal* for eight, each of the eight
 containing a hundred sub-species, eight hundred in all, matching the Gemara's
 eight hundred kinds of *chagav*. *Midrash Sechel Tov* has the same tradition
 with *tzlatzel* in place of *chanamal*.

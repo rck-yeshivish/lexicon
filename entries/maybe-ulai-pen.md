@@ -8,29 +8,43 @@ domain: other
 sources:
   - wiaw:7483 "Maybe Yes, Maybe No" (2017-11-11) https://articles.ohr.edu/articles/maybe-yes-maybe-no
 authorities: [Rabbi Shlomo of Urbino, Rabbi Eliyahu HaBachur, Rabbi Immanuel Benevento, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Vilna Gaon, Rashi, Rabbi Yehuda Leib Edel, Rabbi Tzvi Hirsch Chayes, Rabbi Seligman Baer Bamberger, Rabbi Shlomo Aharon Wertheimer, Rabbi Zalman Sorotzkin, Rabbi Meir Mazuz]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Maybe: ulai / pen
 
 ## Bottom line
 
 *Ulai* is **maybe** for an outcome the speaker wants (or at least expects);
-*pen* is **lest**, a maybe the speaker hopes will not happen. Biblical Hebrew,
-on the dominant view, has no neutral "maybe" at all: every *ulai* and every
-*pen* carries the speaker's leaning. Aramaic *shema* / *dilma* is the neutral
-word. Do not flatten *pen* into "maybe"; "lest" or "in case" keeps the
+*pen* is **lest**, a maybe the speaker hopes will not happen. On Rabbi Eliyahu
+HaBachur's and Rabbi Immanuel Benevento's view, Biblical Hebrew has no neutral
+"maybe" at all: every *ulai* and every *pen* carries the speaker's leaning.
+Rabbi Shlomo of Urbino holds the opposite, that *ulai* is as neutral as English
+"maybe," and the column leaves the machlokes standing, noting a significant
+problem with the first view. Aramaic *shema* / *dilma* is neutral on all
+accounts. Do not flatten *pen* into "maybe"; "lest" or "in case" keeps the
 aversion that the derashos hang on.
 
 ## Distinctions
 
 ### ulai (אולי)
-Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) and Rabbi Immanuel Benevento
-(*Livyat Chen*): *ulai* introduces a possibility the speaker desires.
-Malbim softens this: *ulai* implies either a wish for that outcome or simply
-the judgment that it is the likelier of the two. Rabbi Shlomo of Urbino
-(*Ohel Moed*) dissents and reads *ulai* as neutral, like English "maybe";
-his is the minority view, and the exegesis below assumes against it.
+Rabbi Shlomo of Urbino, a sixteenth-century Italian scholar, writes in *Ohel
+Moed*, his lexicon of Hebrew synonyms, that *ulai* carries a neutral charge,
+like English "maybe" and like Aramaic *dilma*/*shema*. Two other Italian
+grammarians of the same generation disagree: Rabbi Eliyahu HaBachur (1469-1549)
+in *Sefer HaTishbi* and Rabbi Immanuel Benevento in *Livyat Chen* hold that
+Biblical Hebrew has no neutral word for "maybe" at all, and that *ulai*
+introduces a possibility the speaker desires. Malbim writes similarly: *ulai*
+implies either a certain desire for that outcome or the recognition that it is
+the likelier of the two to materialize.
+
+The column's illustration: "I bought a lottery ticket because *maybe* I will
+win" takes *ulai*; "I wear a seatbelt because *maybe* I will get in an
+accident" takes *pen*.
+
+The distinction, the column notes, is also somewhat supported by linguists.
+Some experts explain *ulai* as a portmanteau of *oh lo* ("or not"), or relate
+it to Hebrew *lu* or Aramaic *levai* ("if only").
 
 ### pen (פן)
 HaBachur and Benevento: *pen* introduces a possibility the speaker raises in
@@ -39,22 +53,31 @@ Mecklenburg ties *pen* to *panah*, "turned away," since the speaker hopes his
 listener will turn away from the possibility he has just named.
 
 ### the test case: Bereishis 24:39 and 27:12
-The Vilna Gaon applies the distinction to Rashi. Eliezer says *ulai lo seilech
+The Vilna Gaon made the idea famous by applying it to exegesis, and to Rashi in
+particular. Eliezer says *ulai lo seilech
 ha'ishah acharai*, "maybe the woman will not follow me" (Bereishis 24:39);
 Rashi reads a hidden hope there, that Eliezer wanted his own daughter for
 Yitzchak. The Gaon locates Rashi's proof in the word: had Eliezer genuinely
 wanted the mission to succeed he would have said *pen*.
 
 Yaakov's *ulai yemusheini avi*, "maybe my father will feel me" (Bereishis
-27:12), is the standing difficulty, since he plainly did not want to be
-caught. Rabbi Yehuda Leib Edel, Rabbi Tzvi Hirsch Chayes, Rabbi Seligman Baer
-Bamberger, Rabbi Shlomo Aharon Wertheimer and Rabbi Zalman Sorotzkin all
-answer that Yaakov, whose *middah* is *emes* (Michah 7:20), really did want to
-be found out and the deception ended. Mecklenburg answers differently: Yaakov
-wanted the touch, not the discovery, his father's hands laid on his head for
-the *berachah*. On Malbim's reading no answer is needed, since *ulai* need
-only mark the likelier outcome; Wertheimer argues the same way for Avraham's
-*ulai* at Bereishis 18:28.
+27:12), is what the column calls a significant problem with the way HaBachur,
+Benevento and the Vilna Gaon explain *ulai*, since Yaakov plainly did not want
+to be caught. A bevy of commentators, among them Rabbi Yehuda Leib Edel
+(1760-1828), Rabbi Tzvi Hirsch Chayes (1805-1855), Rabbi Seligman Baer
+(Yitzchok Dov) Bamberger of Würzburg (1807-1878), Rabbi Shlomo Aharon
+Wertheimer (1866-1935) and Rabbi Zalman Sorotzkin (1881-1966), answer that
+Yaakov is the one most associated with commitment to truth, the navi Michah
+(7:20) associating him with *emes* as he associates Avraham with
+*chesed*, and that he therefore really did want his father to feel him and put
+an end to the deception; he was so bound to truth that passing a lie to his
+father made him uncomfortable even where it was justified. Mecklenburg too
+holds that Yaakov *wanted* his father to feel him, but not so as to expose the
+ploy: he wanted his father's hands laid on his head for the *berachah*.
+Alternatively, the column suggests, on Malbim's view no answer is needed, since
+*ulai* need not mean Yaakov wanted it, only that he felt it most likely to
+happen; Rabbi Wertheimer uses a similar argument for the *ulai* of Bereishis
+18:28.
 
 ## Rendering guidance
 
@@ -67,8 +90,12 @@ only mark the likelier outcome; Wertheimer argues the same way for Avraham's
   each other, render them with different English words on purpose.
 - Aramaic שמא / דלמא in a Gemara passage: "perhaps," neutral. Do not import
   the *ulai* leaning into them.
-- Pronunciation of שמא: *shema* is the received form; Rabbi Meir Mazuz argues
-  for *sheme*, and the Kaufmann manuscript of the Mishnah vowelizes *shemay*.
+- Pronunciation of שמא: *shema*, with a kamatz under the mem, is the
+  traditional form; Rabbi Meir Mazuz, a contemporary Sephardic grammarian in
+  Bnei Brak, claims on the basis of HaBachur's vowelization and other sources
+  that the correct pronunciation is *sheme*, with a segol; and the Kaufmann
+  Manuscript, the oldest vowelized manuscript of the Mishnah, consistently
+  vowelizes *shemay*, with a tzeirei.
 
 ## Notes for a project
 
@@ -82,6 +109,6 @@ https://articles.ohr.edu/articles/maybe-yes-maybe-no; raw text in
 `sources/whats-in-a-word/raw/7483-maybe-yes-maybe-no.md`. Primary loci: Rabbi
 Shlomo of Urbino, *Ohel Moed*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi
 Immanuel Benevento, *Livyat Chen*; Rashi to Bereishis 24:39; Bereishis 18:28,
-24:39, 27:12; Michah 7:20. The article also cites unnamed modern linguists for
-a derivation of *ulai* from *oh lo* or from *lu* / *levai*; that material is
-omitted here under the Orthodox-sources rule.
+24:39, 27:12; Michah 7:20. The linguists the column cites for a derivation of
+*ulai* from *oh lo*, or from *lu* / *levai*, are unnamed there ("some
+experts"), and are reported here as the column reports them.

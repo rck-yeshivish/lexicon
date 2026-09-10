@@ -9,11 +9,11 @@ words:
   - he: יריחו
     tr: Yericho
     en: Jericho
-    distinct: the vocalization used throughout Yehoshua and at Shmuel II 10:5, spelled with a yod between reish and ches, matching reyach, scent (Yossiphon as Rashi reads him)
+    distinct: the vocalization used throughout Yehoshua and at Shmuel II 10:5, spelled with a yod between reish and ches; on the Oraysa editor's suggested rule the yod points to reyach, scent
   - he: ירחו
     tr: Yereicho
     en: Jericho
-    distinct: the vocalization of Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah and Divrei HaYamim, without that yod, matching yareyach, the moon
+    distinct: the vocalization of Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah and Divrei HaYamim, without that yod; most of the sources hear reyach, scent, in this form (Yossiphon as Rashi reads him, Rabbeinu Yoel, the Peirush HaRokeach), while the Oraysa editor's rule would give it yareyach, the moon
   - he: עיר התמרים
     tr: Ir HaTmarim
     en: the City of Dates
@@ -29,8 +29,8 @@ words:
     distinct: from י-ר-ח for the classical lexicographers; Pappenheim brings it too under ר-ח, the moon governing the tides and winds
 sources:
   - wiaw:9795 "Matot: The Names of Jericho" (2022-07-23) https://articles.ohr.edu/articles/matot-the-names-of-jericho
-authorities: [Rashi, Radak, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Yossiphon, Rabbeinu Yoel, Peirush HaRokeach, Rabbi Menachem Azaria of Fano, Rabbi Yedidya Tia Weil, Rabbi David Luria, Rabbi Shimon Schwab, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashash]
-status: draft
+authorities: [Rashi, Radak, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Josephus, Yossiphon, Rabbeinu Yoel, Peirush HaRokeach, Rabbi Menachem Azaria of Fano, Rabbi Yedidya Tia Weil, Rabbi David Luria, Rabbi Shimon Schwab, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashash]
+status: reviewed
 updated: 2026-09-10
 ---
 # Jericho: Yereicho / Yericho (Ir HaTmarim, reyach, yareyach)
@@ -39,46 +39,82 @@ updated: 2026-09-10
 
 One city, two vocalizations, and three descriptive names. Render the place **Jericho** (or
 **Yericho**) throughout; what a translator must not do is flatten the vowels, since every
-explanation offered turns on which form a given sefer uses. *Yericho* (with a yod, the form
-of Yehoshua) is heard as *reyach*, scent; *Yereicho* (without it, the form of Chumash) as
-*yareyach*, the moon. **Ir HaTmarim**, the City of Dates, is a title, not a separate city,
-and where it appears without a name it means Jericho (Targum, Rashi).
+explanation offered turns on which form a given sefer uses. *Yericho* (with a yod between
+the reish and the ches) is the form of Yehoshua and Shmuel II; *Yereicho* (without it) the
+form of Chumash and of most of the later sefarim. Which vowel carries which sense is not
+settled: most of the sources in the column hear *reyach*, scent, in the yod-less
+*Yereicho* (*Yossiphon* as Rashi reads him, Rabbeinu Yoel, the *Peirush HaRokeach*), while
+the anonymous editor of the Oraysa *Yossiphon* suggests the opposite alignment, yod present
+for *reyach* and yod absent for *yareyach*, the moon. **Ir HaTmarim**, the City of Dates,
+is a title, not a separate city, and where it appears without a name it means Jericho
+(Targum, Rashi).
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| יריחו | Yericho | Jericho | the form in Yehoshua and Shmuel II 10:5; hears reyach, scent (Yossiphon; Rashi) |
-| ירחו | Yereicho | Jericho | the form in Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah, Divrei HaYamim; hears yareyach, the moon |
-| עיר התמרים | Ir HaTmarim | the City of Dates | Devarim 34:3; the standalone phrase at Shoftim 1:16 means Jericho (Targum, Rashi, Radak) |
+| יריחו | Yericho | Jericho | the form in Yehoshua and Shmuel II 10:5, and in most of Melachim; on the Oraysa editor's suggestion the yod points to reyach |
+| ירחו | Yereicho | Jericho | the form in Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah, Divrei HaYamim, Melachim II 25:5; Yossiphon (as Rashi reads him), Rabbeinu Yoel and the Rokeach hear reyach in it, the Oraysa editor yareyach |
+| עיר התמרים | Ir HaTmarim | the City of Dates | Devarim 34:3, Divrei HaYamim II 28:15; the standalone phrase at Shoftim 1:16 means Jericho (Targum, Rashi, Radak) |
 | ריח | reyach | scent | the balsam and dates of the region (Yossiphon: Ir HaReyach, the City of Scent) |
 | ירח | yareyach | moon | Yossiphon: Ir HaYareach, since the new moon was sighted there first |
 
 ## Where the authorities disagree
 
-**Why the vocalization changes.** Rabbi Menachem Azaria of Fano: the Canaanites,
-moon-worshippers, called it *Yereicho* after the moon, and once the Jews conquered it and
-its dates received a berachah of fragrance it became *Yericho*; Rabbi David Luria says much
-the same. Both face the objection the article states plainly: Yirmiyahu, Ezra-Nechemiah,
-Divrei HaYamim and part of Melachim all post-date the conquest and still write *Yereicho*.
-Rabbi Yedidya Tia Weil answers without a chronology: the city proper had one name and the
-surrounding country, where the balsam and date trees grew, the other, and he works through
-every occurrence to show it; Rabbi Shimon Schwab reached the same conclusion independently.
-The article's account of Weil is internally tangled, pairing the yod-form with *Yericho* and
-then attaching *reyach* to *Yereicho*; the rule it states in its own voice, from the Oraysa
-edition's editor, is: yod present, *reyach*; yod absent, *yareyach*.
+**Why the vocalization changes.** The kabbalist Rabbi Menachem Azaria of Fano: the
+Canaanites, who worshipped the moon and the other celestial bodies, called it *Yereicho*
+after the moon, and once the Jews conquered it and its dates received a special Divine
+blessing of strong fragrance it was renamed *Yericho*. Rabbi David Luria offers a similar
+explanation: the pagan Canaanites were evidently moon-worshippers, and because of the
+name's idolatrous associations the Jews changed it to *Yericho*, for the sweet-smelling
+balsam they found there. (The column notes that archaeologists have found evidence of an
+ancient Canaanite moon-god named Yarikh.) Both face the objection the article states
+plainly: Yirmiyahu, Ezra-Nechemiah, Divrei HaYamim and part of Melachim all post-date the
+conquest and still write *Yereicho*.
 
-**Which sense the name carries.** *Yossiphon* gives both: *Ir HaReyach*, the City of Scent,
-for the balsam that grew there, and *Ir HaYareach*, the City of the Moon, because the new
-moon was sighted at Jericho before anywhere else, so the most reliable witnesses before the
-Sanhedrin came from there. Rashi (to Melachim II 20:13, Yeshayahu 39:2, Yechezkel 27:17,
-Berachos 43a) quotes *Yossiphon* only for the scent; Rabbeinu Yoel and the *Peirush
-HaRokeach* also read the name from *reyach*, but attach it to the dates.
+Rabbi Yedidya Tia Weil, son of Rabbi Nesanel Weil the famed author of *Korban Netanel*,
+answers without a chronology. He presumes that the two vocalizations track the two
+spellings, and at first considers that the extra yod is a tribute to Hashem, whose
+four-letter Name opens with a yod, hinting at the great miracle of the conquest and the
+city's consecration; but he concludes that the difference is more practical, that the city
+proper bore one name and the surrounding country, where the balsam and date trees grew,
+the other, and he works through every occurrence in Tanach to show it. Rabbi Shimon Schwab
+(*Maayan Beis HaShoeivah*) reached the same conclusion independently. The article's account
+of Weil is internally tangled: it pairs the yod-form with *Yericho*, then calls the yod
+"the additional YOD in *Yereicho*," and attaches *reyach* to *Yereicho* against the rule it
+had just quoted from the Oraysa editor. That rule, which the editor offers as something by
+which "perhaps" the variants can be accounted for, is: yod present, *reyach*; yod absent,
+*yareyach*.
+
+**Which sense the name carries.** The earliest source the column brings for Jericho's palms
+and balsam trees is the Jewish-Roman historian Flavius Josephus (*Antiquities of the Jews*
+IV:6 and XIV:4, *War of the Jews* I:6 and I:18); the connection is elaborated in
+*Yossiphon*, a Hebrew abridgement and adaptation of Josephus' writings, probably written in
+tenth-century Italy. *Yossiphon* gives both names: *Ir HaReyach*, the City of Scent, for the
+balsam trees that produced the sweet-smelling balsam oil, and *Ir HaYareach*, the City of
+the Moon, because the new moon was sighted at Jericho before anywhere else, so the most
+reliable witnesses before the Sanhedrin tended to come from there. (He also relates a
+legend that balsam would grow nowhere but around Jericho, withering when foreign kings
+tried to transplant it, apparently until the churban of the second Beis HaMikdash, after
+which it took root even in Egypt.) On both counts the column says only that it *seems*
+*Yossiphon* understood the place-name that way. Rashi (to Melachim II 20:13, Yeshayahu
+39:2, Yechezkel 27:17, Berachos 43a) is read as taking *Yossiphon* for the scent, since he
+quotes him that *Yereicho* is so called for the sweet-smelling balsam; Rabbeinu Yoel and the
+*Peirush HaRokeach* likewise read the name, in the *Yereicho* form that stands in most of
+Tanach, from *reyach*, but attach it to the smell of the dates.
+
+The column adds one observation of its own, and marks its own limits: the Mishnah (Tamid
+3:8) says the sounds of the avodah, and the scent of the ketores, carried from Yerushalayim
+as far as Jericho, which implies some connection between Jericho and smells, but he writes
+that he has seen no source that explicitly ties this to the city's name.
 
 **Whether reyach and yareyach share a root.** Ibn Saruk, Ibn Janach and Radak keep them
 separate, ר-י-ח for scent and י-ר-ח for the moon. Pappenheim derives both from the biliteral
-ר-ח, air, whose plainest form is *ruach*: scent is the one perception that travels on the
-air, and the moon is named for its governing of tides and winds.
+ר-ח, air, whose commonest manifestation is *ruach*, wind: because air is light and all but
+imperceptible, *ruach* is also the soul and whatever else is spiritual and beyond the
+physical senses, and *reyach* is accordingly the perception no other sense can register,
+travelling within the *ruach*; the moon is called *yareyach* because its movements somehow
+control the *ruach*, the tides and winds.
 
 **Ir HaTmarim.** Mishnah Yevamos 16:7 applies the title to Tzoar, as does Targum Yerushalmi
 to Devarim 34:3; the Rashash already notes that this stands against Devarim 34:3 itself,
@@ -88,9 +124,12 @@ which calls Jericho Ir HaTmarim.
 
 ### Yereicho and Yericho (ירחו / יריחו)
 The city runs through Bamidbar and Devarim as the marker of the last encampment across
-the Yarden (Bamidbar 22:1, 26:3, 31:12, 33:48-50, 34:15, 35:1, 36:13; Devarim 32:49,
-34:1, 34:3), always vocalized *Yereicho*. In Yehoshua it occurs thirty times, always
-*Yericho*, as at Shmuel II 10:5.
+the Yarden (Bamidbar 22:1, 26:3, 26:63, 31:12, 33:48, 33:50, 34:15, 35:1, 36:13; Devarim
+32:49, 34:1, 34:3), always vocalized *Yereicho*, and so too in Yirmiyahu (39:5, 52:8),
+Ezra-Nechemiah (Ezra 2:34; Nechemiah 3:2, 7:36) and Divrei HaYamim (I 6:63, 19:5; II
+28:15). In Yehoshua it occurs thirty times, always *Yericho*, as at Shmuel II 10:5. Melachim
+has both: *Yereicho* at Melachim II 25:5, *Yericho* at Melachim I 16:34 and Melachim II
+2:4-5, 2:15, 2:18.
 
 ### the City of Dates and the City of Scent
 Devarim 34:3 and Divrei HaYamim II 28:15
@@ -101,10 +140,13 @@ Targum and Rashi again read as Jericho.
 
 ### reyach (ריח), yareyach (ירח) and tamar (תמר)
 On *reyach* and *yareyach*, see the dispute above. On *tamar*: the classical lexicographers
-give ת-מ-ר, the date and the date palm, and Radak extends it to whatever is tall and
-straight, which is how *timros* comes to mean columns of smoke (Yoel 3:3). Pappenheim
-traces it to the biliteral מ-ר, replacing: parts of the palm are constantly cut away, for a
-*lulav*, for *schach*, for the dates, and the tree grows them back.
+give ת-מ-ר, covering *tamar* and its cognate *tomer*, the date and the date palm, and Radak
+extends it to whatever is tall and straight, which is how *timros* comes to mean columns of
+smoke (Yoel 3:3, Shir HaShirim 3:6). Rabbi Aharon Marcus claims the root of *tamar* is
+related to the Akkadian and Sumerian word for "sight," since a tall palm can be seen from a
+long way off. Pappenheim traces it to the biliteral מ-ר, replacing: parts of the palm are
+constantly cut away, for a *lulav*, for *schach*, for the dates, and the relatively
+fast-growing tree duly replaces them.
 
 ## Rendering guidance
 
@@ -128,13 +170,15 @@ None yet.
 Rabbi Reuven Chaim Klein, "Matot: The Names of Jericho," What's in a Word?, Ohr Somayach,
 24 Tammuz 5782 (2022-07-23): raw text in
 `sources/whats-in-a-word/raw/9795-matot-the-names-of-jericho.md`. Primary loci cited:
-Bamidbar 22:1, 26:3, 31:12, 33:48-50, 34:15, 35:1, 36:13; Devarim 32:49, 34:1, 34:3;
-Shoftim 1:16; Shmuel II 10:5; Melachim I 16:34; Melachim II 2:4-5, 2:15, 2:18, 20:13, 25:5;
-Yeshayahu 39:2; Yirmiyahu 39:5, 52:8; Yechezkel 27:17, 47:19; Yoel 3:3; Shir HaShirim 3:6;
-Ezra 2:34; Nechemiah 3:2, 7:36; Divrei HaYamim I 6:63, 19:5; Divrei HaYamim II 28:15;
+Bamidbar 22:1, 26:3, 26:63, 31:12, 33:48, 33:50, 34:15, 35:1, 36:13; Devarim 32:49, 34:1,
+34:3; Shoftim 1:16; Shmuel II 10:5; Melachim I 16:34; Melachim II 2:4-5, 2:15, 2:18, 20:13,
+25:5; Yeshayahu 39:2; Yirmiyahu 39:5, 52:8; Yechezkel 27:17, 47:19; Yoel 3:3; Shir HaShirim
+3:6; Ezra 2:34; Nechemiah 3:2, 7:36; Divrei HaYamim I 6:63, 19:5; Divrei HaYamim II 28:15;
 Berachos 43a; Mishnah Tamid 3:8 and Yevamos 16:7 with *Hagahos HaRashash*; Targum
-Yerushalmi to Devarim 34:3; *Yossiphon* (the 1999 Oraysa edition, whose editor supplies the
-yod rule); *Peirush HaRokeach*; Rabbi Shimon Schwab, *Maayan Beis HaShoeivah*. Omitted
-under house rule 9: the citations of Josephus' own works, which reach the discussion
-through *Yossiphon* in any case, the archaeological evidence for a Canaanite moon-god, and
-Rabbi Aharon Marcus' Akkadian and Sumerian derivation of *tamar*.
+Yerushalmi to Devarim 34:3; Josephus, *Antiquities of the Jews* IV:6 and XIV:4 and *War of
+the Jews* I:6 and I:18; *Yossiphon* (the 1999 Oraysa edition, whose anonymous editor
+supplies the yod rule); *Peirush HaRokeach*; Rabbi Shimon Schwab, *Maayan Beis HaShoeivah*.
+The article gives Bamidbar 33:48 and 33:50 separately, and 33:49 does not name the city; an
+earlier draft of this entry ran them together as 33:48-50 and dropped 26:63. The `words:`
+block still carries the Oraysa editor's alignment as though it were the settled reading of
+*Yossiphon* and Rashi; the body above states the machlokes instead.
