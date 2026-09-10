@@ -53,3 +53,12 @@ python tools/check_entries.py && python tools/build_index.py
 
 Entries are marked `status: draft` until a human has read one against its
 source; `reviewed` is that human's mark, not the drafter's.
+
+## The site
+
+`python tools/build_site.py` generates `site/`, a static Cloudflare Pages
+folder: a home page whose search is the page, Hebrew and English browse pages
+driven by a letter strip, and one page per entry. It reads the entries directly,
+so the site is never a second copy of the data to keep in sync. Rebuild it after
+`build_index.py`. Deployment, and why only `site/` should ever be uploaded, is
+in `DEPLOY.md`.

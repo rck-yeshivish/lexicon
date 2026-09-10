@@ -36,3 +36,11 @@ pieces in:
 - **`patch_truncated.py`** completes a truncated article from another copy and
   records the provenance in its front matter. Kept for the method as much as
   the use.
+
+## The site
+
+- **`build_site.py`** generates `site/` from the entries: home, Hebrew and
+  English browse, one page per entry, and a single `data.json` the pages fetch
+  once. Run it after `build_index.py`. It writes in place and sweeps stale
+  files rather than deleting the tree, because a OneDrive-synced folder holds
+  directory handles and `rmtree` fails part way through.
