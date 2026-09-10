@@ -10,9 +10,9 @@ words:
     nk: טַלִּית
 sources:
   - wiaw:11594 "Toldot: Noble Clothes" (2024-11-30) https://articles.ohr.edu/articles/toldot-noble-clothes
-authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Nosson of Rome, Rabbi David Golumb, Rav Hirsch, Rabbi Eliyahu HaBachur, Rabbi Yosef Chaim of Baghdad]
-status: draft
-updated: 2026-09-09
+authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Nosson of Rome, Rabbi David Golumb, Rav Hirsch, Rabbi Eliyahu HaBachur, Rabbi Yosef Chaim of Baghdad, Dr. Michael Sokoloff, Dr. Alexander Kohut]
+status: reviewed
+updated: 2026-09-10
 ---
 # Outer garment: aderes / glima / itztala / tachrich
 
@@ -30,13 +30,16 @@ wearer's standing.
 ## Distinctions
 
 ### aderes (אדרת)
-Eleven occurrences in Tanach. Eisav is born "ruddy, entirely like a hairy
-*aderes*" (Bereishis 25:25). Achan steals a Babylonian *aderes* from the
-consecrated spoil of Yericho (Yehoshua 7:21, 7:24). It is above all Eliyahu
-HaNavi's garment: he hides his face in it at Chorev (Melachim I 19:13), he is
-known as a hairy man on its account (Melachim II 1:8; the article prints 2:8),
-he splits the Yarden with it (Melachim II 2:8), and Elisha takes up the *aderes*
-that fell from him as the sign of the succession (Melachim II 2:13-14).
+Eleven occurrences in Tanach. It is a furry article of clothing, and the column
+notes it has been rendered variously "robe," "cloak," "cape," "gown," "coat"
+and "mantle." Eisav is born "ruddy, entirely like a hairy *aderes*" (Bereishis
+25:25). Achan steals a Babylonian *aderes* from the consecrated spoil of
+Yericho (Yehoshua 7:21, 7:24). It is above all Eliyahu HaNavi's garment: he
+hides his face in it at the mountain (Melachim I 19:13), he is called a hairy
+man, which the column says is probably a reference to the *aderes* (Melachim II
+1:8; the article prints 2:8), he splits the Yarden with it (Melachim II 2:8),
+and Elisha takes up the *aderes* that fell from him as the sign of the
+succession (Melachim II 2:13-14).
 
 Rashi (Zechariah 13:4) and Ibn Janach and Radak in their respective *Sifrei
 HaShorashim* define *aderes* as a *tallis*, a shawl. Radak ties it to the root
@@ -63,7 +66,8 @@ Rabbi Yosef Chaim of Baghdad, *Torah Lishmah* 327). The root is the biblical
 gimmel-lamed-mem, which occurs three times (Melachim II 2:8; Tehillim 139:16;
 Yechezkel 27:24) in the sense of wrapping or of unformed matter, and which gives
 *golem*, the Mishnah's opposite of the *chacham* (*Avos* 5:7), a man not yet
-formed.
+formed; the famous legend of the Golem is of a soulless man with the outer
+trappings of a human being and no intellect from a soul.
 
 Shabbos 77b expounds *glima* as "made like a *golem*." Rashi there: a garment
 not cut to the shape of the limbs but essentially a flat sheet covering the
@@ -83,6 +87,11 @@ interchange of gimmel and kaf: as a *golem* lacks shape, so the humiliated man
 feels stripped of his form, part of his humanity taken from him. Rabbi Golumb
 notes the parallel to Chazal's reading of *levush* as *lo bushah*, no shame.
 
+On the word's outside origins the column gives two views. Dr. Michael Sokoloff,
+in his dictionary of Jewish Babylonian Aramaic, relates *glima* to an apparent
+Akkadian cognate *gulenu*, "coat"; Dr. Alexander Kohut takes it as Persian, "as
+he often does."
+
 ### itztala (איצטלא)
 An outer garment worn as a mark of status. Targum renders Achan's Babylonian
 *aderes* by it, and Rav (Sanhedrin 44a) specifies that what Achan coveted was a
@@ -101,6 +110,22 @@ Targum to Esther 7:6, where Esther charges Haman with wanting to wear the king's
 *istala*, and Targum to Bereishis 45:22, where Yosef's gifts to his brothers are
 *istalvan*. Rabbi Eliyahu HaBachur (*Meturgeman*) already noted the
 inconsistency, which follows from the word being a loanword rather than native.
+On the column's reading, *itztala* comes from Latin *stola* and Greek στολή
+(*stolē*), words for a garment or equipment, which *The American Heritage
+Dictionary of Indo-European Roots* traces to the root *stel-*, "standing,
+putting," behind English *still*, *apostle*, *epistle*, *install*, *pedestal*,
+*gestalt* and more; the closest English cognate is *stole*, the long narrow
+scarf-like garment worn by Christian clergy as a sign of the duties of the
+ministry, which the column compares to Eliyahu's *aderes*. On the spelling, the
+column reports that a cursory look at the *Comprehensive Aramaic Lexicon
+Project* suggests to it that the samech spelling belongs to Jewish Palestinian
+Aramaic, while Jewish Babylonian Aramaic writes the word either way.
+
+The column takes *itztala* as the word that acquired the figurative sense of
+English "mantle," as in "to assume the mantle," the outer garment standing for
+the duties of the role; it lists as further English parallels *investiture*
+(with *vest* and *vestment*), "stepping into the shoes," and *defrocking* (from
+*frock*).
 
 ### tachrich (תכריך)
 Mordechai is dressed in a *tachrich* of *butz* and *argaman* (Esther 8:15). The
@@ -115,9 +140,11 @@ Hebrew the plural *tachrichin* is the standing term for burial shrouds.
   and Rashi's *tallis* gloss makes the collapse tempting. Where a passage
   contrasts them, use "mantle" for *aderes*, "robe" for *glima*, and "cloak of
   office" or "ceremonial cloak" for *itztala*.
-- *Aderes* in the Eliyahu narratives is "mantle," and English already carries
-  the transfer of authority in "assume the mantle," which matches Elisha taking
-  it up at Melachim II 2:13-14. Do not weaken it to "coat."
+- *Aderes* in the Eliyahu narratives is "mantle." The column attaches the
+  English idiom "assume the mantle" to *itztala*, not to *aderes*; that it fits
+  Elisha taking up the fallen *aderes* at Melachim II 2:13-14 is ours, not the
+  column's. "Coat" is on the column's own list of accepted renderings, so it is
+  not wrong, only flatter.
 - *Itztala d'rabbanan* is figurative. Render it "the mantle of the sages" or
   leave it transliterated and gloss it; "the sages' robe" reads as a literal
   garment and loses the point.
@@ -147,5 +174,7 @@ Tehillim 139:16; Esther 7:6, 8:15; *Avos* 5:7; *Gittin* 6:5; Shabbos 10a, 77b,
 119b; Bava Metzia 17a, 28a, 47a, 114b; Bava Basra 128a; Sanhedrin 7a, 44a;
 Shevuos 31a; Bechoros 34b; Chullin 127a; Ibn Janach and Radak, *Sifrei
 HaShorashim*; *Sefer HeAruch*; *Meturgeman*; *Torah Lishmah* 327. The Akkadian,
-Persian, Greek, and Indo-European derivations offered in the original are
-omitted here.
+Persian, Greek and Indo-European derivations offered in the original (Dr.
+Michael Sokoloff, Dr. Alexander Kohut, *The American Heritage Dictionary of
+Indo-European Roots*, the *Comprehensive Aramaic Lexicon Project*) were
+previously dropped from this entry and have been restored to the body.

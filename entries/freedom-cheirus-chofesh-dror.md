@@ -10,9 +10,9 @@ words:
     nk: חֵרוּת
 sources:
   - wiaw:7707 "Defining Freedom" (2018-03-31) https://articles.ohr.edu/articles/defining-freedom
-authorities: [Rashi, Ibn Ezra, Radak, Rabbeinu Yonah ibn Janach, Ramban, Sefer HaAruch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yitzchok Dov Bamberger, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Jonathan Sacks]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Ibn Ezra, Radak, Rabbeinu Yonah ibn Janach, Ramban, Sefer HaAruch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yitzchok Dov Bamberger, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Jonathan Sacks, Isaiah Berlin]
+status: reviewed
+updated: 2026-09-10
 ---
 # Freedom: cheirus / chofesh / dror
 
@@ -46,9 +46,11 @@ Root ח-פ-ש. The Tanach's other slave-freeing word (Shemos 21, Devarim 15,
 Yirmiyahu 34); in modern Hebrew it has drifted to "vacation." Rabbi Shlomo
 Aharon Wertheimer draws the line: *chofshi* is freedom from an obligation to
 work, while *dror* is freedom from subjugation to a particular person who lords
-over him. Rabbi Jonathan Sacks reads *chofesh* against *chafetz* ("desire") and
-*chapess* ("search out"): the *chofshi* may now do as his heart wants, which is
-freedom defined by the absence of coercion and nothing more.
+over him. Rabbi Lord Jonathan Sacks, building on the British philosopher Isaiah
+Berlin's distinction between "negative liberty" and "positive liberty," reads
+*chofesh* against *chafetz* ("desire") and *chapess* ("search out"): *chofshi* is
+what a slave becomes when he goes free, able to do whatever his heart desires,
+which Rabbi Sacks identifies as negative liberty, the mere absence of coercion.
 
 ### cheirus (חירות)
 Root ח-ר-ר. Absent from Tanach in the sense of freedom, yet the standard word
@@ -58,9 +60,16 @@ Seder night, and *Birkas HaChodesh* asks to be brought from *avdus* to
 *cheirus*. Avos 6:2 finds the scriptural hook in *charus* ("engraved") on the
 Luchos (Shemos 32:16), spelled there with a *tav* rather than the usual *tes*:
 read not *charus* but *cheirus*, for no one is free except one occupied with
-Torah. Rabbi Sacks builds the distinction on that reading: *cheirus* is the
-freedom of a society whose law is not imposed but studied until it is engraved
-on the heart, so what looks restrictive is what actually frees.
+Torah. The column remarks that it seems fairly clear that if the whole purpose of
+Yetzias Mitzrayim was Matan Torah, the word for the freedom that came of it
+should indeed be *cheirus*, and the Yom Tov that celebrates it *Zman
+Cheiruseinu*. Rabbi Sacks builds his distinction on that reading: negative
+liberty may serve an individual, but a society needs law, and law that is imposed
+coercively is resented and resisted, so it must be taught until it is accepted
+willingly and becomes part of a man's essence. *Cheirus* is therefore the freedom
+of a society that studies its law until it is engraved on the heart, so that
+*charus* and *cheirus* become one. This "positive liberty" looks restrictive on
+the surface and proves in fact to be what frees.
 
 ### chorim (חורים)
 The *cheirus*-cognate that does appear in Tanach, thirteen times, but of
@@ -70,9 +79,11 @@ Yitzchok Dov Bamberger, the Wurzburger Rav, connects *chorim* to the Aramaic
 root ח-ו-ר, "white": a dignitary's name must be unstained, and in the ancient
 world only the important wore white. Rabbi Yaakov Tzvi Mecklenburg instead
 links *cheirus* to *chor*, "hole," the same three letters; the article records
-this and does not develop it. On this ground Rabbi Klein suggests that Chazal
-chose *cheirus* for Pesach because a freed slave starts clean and may yet
-become a person of consequence.
+this and expressly does not develop it. Separately, the column offers a
+suggestion of its own, hedged "it seems to me": Chazal chose *cheirus* to stress
+that newly freed slaves begin with a clean slate and have it in them to become
+people of consequence in their own right, and on Pesach we celebrate that
+potential for greatness.
 
 *Hefker*, "ownerless," is named as conceptually related and is not distinguished
 in the article.
@@ -106,7 +117,8 @@ Rabbi Reuven Chaim Klein, "Defining Freedom," What's in a Word?, Ohr Somayach,
 Vayikra 25:10; Rosh Hashanah 9b; Beitzah 24a; Radak, *Sefer HaShorashim* s.v.
 דרר; Shemos 30:23; Esther 1:6 with Megillah 12a; Shemos 21; Devarim 15;
 Yirmiyahu 34; Avos 6:2 on Shemos 32:16; Yirmiyahu 27:20 with Rashi; Rashi to
-Sotah 49a. The article frames Rabbi Sacks's *chofesh*/*cheirus* distinction in
-the vocabulary of a twentieth-century secular political philosopher; that
-framing is omitted here and the distinction is given in Rabbi Sacks's own terms
-(house rule 9).
+Sotah 49a. Nothing the article carries is omitted here, including Isaiah Berlin's
+negative and positive liberty, in whose terms it frames Rabbi Sacks's
+*chofesh*/*cheirus* distinction. *Hefker* is listed by the article as
+conceptually related but never distinguished there, and so is not distinguished
+here either.

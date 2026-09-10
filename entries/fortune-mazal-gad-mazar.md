@@ -21,8 +21,8 @@ words:
     distinct: a hapax (Iyov 38:32); the same as mazal with reish for lamed (Rabbi Saadia Gaon, Menachem, Ibn Janach, Rashi), or a particular star or group of stars (Ibn Ezra)
 sources:
   - wiaw:10730 "Vayetzei: Gad Luck to You" (2022-11-26) https://articles.ohr.edu/articles/vayetzei-gad-luck-to-you
-authorities: [Rashi, Ibn Janach, Radak, Menachem Ibn Saruk, Ibn Ezra, Ramban, Ralbag, Rabbi Saadia Gaon, Rabbi Moshe Kimchi, Dunash Ibn Labrat, Rabbi Yitzchak the Blind, Rabbi Yosef Gikatilla, Tiferes Yisrael, Ramchal, Rabbi Shlomo Pappenheim, Rabbi Yosef Grayever, Rabbi Yehudah Aryeh of Carpentras, Rabbi Eliyahu Katz]
-status: draft
+authorities: [Rashi, Ibn Janach, Radak, Menachem Ibn Saruk, Ibn Ezra, Ramban, Ralbag, Rabbi Saadia Gaon, Rabbi Moshe Kimchi, Dunash Ibn Labrat, Rabbi Yitzchak the Blind, Rabbi Yosef Gikatilla, Tiferes Yisrael, Ramchal, Rabbi Shlomo Pappenheim, Rabbi Yosef Grayever, Rabbi Yehudah Aryeh of Carpentras, Rabbi Eliyahu Katz, Rav Hirsch, Ernest Klein, Chaim Tawil]
+status: reviewed
 updated: 2026-09-10
 ---
 # Fortune: mazal / gad / mazar
@@ -52,17 +52,28 @@ Rabbi Moshe Kimchi: the same as *mazal*, *reish* and *lamed* interchanging (see
 Ramban to Shemos 22:15). Ibn Ezra calls that far-fetched and makes *mazaros* one
 star or group of stars, as Ramban and Ralbag also cite. Dunash Ibn Labrat takes
 it out of the sky entirely: a blowing wind. Rabbi Yitzchak the Blind (to *Sefer
-Yetzirah* 5) keeps it astrological but distinct from *mazal*. Follow the
-majority, since Rashi and the lexicographers carry the field, and flag Ibn Ezra.
+Yetzirah* 5) keeps it astrological but somehow different from *mazal*, and the
+column says frankly that his explanation lies beyond its level of understanding.
+Follow the majority, since Rashi and the lexicographers carry the field, and flag
+Ibn Ezra.
 
 **How *mazal* is derived.** The anonymous commentator to Rambam's Hilchos Yesodei
 HaTorah: from the Aramaic *azal*, "going," since the sun and moon travel through
-them. Ibn Janach and Radak: from נ-ז-ל, "to flow or drip," the *nun* absorbed
-into the *dagesh*, Radak adding that the *mazalos* move with a steady flow. Rabbi
-Shlomo Pappenheim reduces that to the biliteral ז-ל, the failure of parts to hold
-together, which also gives *zolel* (spending that flows away), *zol* (cheap), and
-*zulas* (apart from); the *mazalos* are the forces that regulate rainfall, and
-from there any bestowal of good. All three land on the same English.
+them or near them; he also relates *mazal* to the Arabic *al-manazil*, a house or
+lunar station, and takes it to mean the same as the Arabic *burj*, a tower or
+constellation. Rabbi Dr. Ernest Klein derives the Hebrew *mazal* from the
+Akkadian *mazaztu* or *mazaltu*, the static position of the stars, itself from
+the Akkadian *nazazu*, "to stand," which he also makes the ultimate etymon of
+*mezuzah* by way of the Akkadian *manzazu*, "doorpost." Dr. Chaim Tawil agrees
+with Klein only about *mezuzah*, and sees *mazal* as related instead to the
+Akkadian *manzaltu*, a clear cognate of the Arabic *manazil*. The classical
+lexicographers offer an alternative: Ibn Janach and Radak derive it from נ-ז-ל,
+"to flow or drip," the disappearing *nun* replaced by the dot in the *zayin*,
+Radak adding that the *mazalos* move with a steady flow. Rabbi Shlomo Pappenheim
+reduces that to the biliteral ז-ל, the failure of related components to hold
+together, which also gives *zolel* (spending that flows away from a man), *zol*
+(cheap), and *zulas* (apart from); the *mazalos* are the forces that seem to
+regulate rainfall, and in a borrowed sense any bestowal of good.
 
 **Whether to say "*mazal tov*."** Rabbi Eliyahu Katz, formerly Chief Rabbi of
 Slovakia, held that the word's ambiguity makes the greeting best avoided, lest it
@@ -73,9 +84,10 @@ say it, understanding it of Hashem's bestowal of good rather than of chance.
 
 ### mazal (מזל)
 Once in Tanach, in Yoshiyahu's campaign against idolatry: those burning incense
-"to the Baal, to the sun, to the moon, to the *mazalos*, and to all the host of
-heaven" (Melachim II 23:5), understood as the twelve constellations of the zodiac
-(Berachos 32b). In Chazal it also names the channel of Hashem's *shefa* into this
+"to the Baal, to the sun, to the moon, to the *mazalos*, and to all the legions of
+heaven" (Melachim II 23:5). There it seems to be some astronomical phenomenon,
+usually understood as the twelve constellations of the zodiac (Berachos 32b),
+which the idolaters deified and brought korbanos to. In Chazal it also names the channel of Hashem's *shefa* into this
 world, as in "everything depends on *mazal*, even a sefer Torah in the heichal"
 (Zohar Naso 134a), which Rabbi Yosef Gikatilla (*Shaarei Orah*) explains of
 *Keser*, the highest sefirah, from which every energy flows down. The *Tiferes
@@ -84,7 +96,7 @@ from Above. Ramchal separates two senses: Hashem's governance through the astral
 forces, which the nations mistook for independent powers and worshipped, and His
 governance of circumstance by other means, with much discussion of whether Klal
 Yisrael is subject to the first at all. *Mazal* also names the guardian force
-behind a person (Rashi to Megillah 3a; Shabbos 53b).
+behind a person (Rashi to Megillah 3a; Shabbos 53b and 61b).
 
 ### gad (גד)
 Twice in Tanach: Leah's cry at the birth of Zilpah's son, "*ba gad*," from which
@@ -95,20 +107,44 @@ thing: one who worships the mountain against one who worships "the *gada* of the
 mountain" (Chullin 40a), and "the bed of the *gada*," a bed left unused in honor
 of the house's *mazal* (Nedarim 56a with the Ran and *Sefer HeAruch*). *Shoresh
 Yesha* links *gad* to *haggadah*, "telling," on the pagan notion that the stars
-tell a man his future. Rabbi Shlomo Pappenheim derives it from the biliteral ג-ד,
-"attaching," which also yields *agudah*, *gid* (the sinew holding the body
-together), *gedud* (a joined-up troop), and *meged*; on that reading Leah was
-saying the heavenly force charged with granting children had come. Rabbi Yosef
-Grayever of Ostrow reads *gad* as a form of *meged*, Leah greeting the birth as
-one greets good things arriving.
+and constellations can tell a man his future. Rabbi Shlomo Pappenheim derives it
+from the biliteral ג-ד, "attaching" or "connecting," which also yields
+*agudah*/*egged*/*iggud*, *gid* (the sinew holding the body's parts together),
+*gedud* (a squad of soldiers joined together), *meged* (delicacies, which the
+palate wants to attach itself to), and *haggadah* (presenting new information by
+integrating it into a broader narrative); on that reading Leah was acknowledging
+that the heavenly force charged with granting pregnancy had visited her. Rabbi
+Yosef Grayever of Ostrow reads *gad* here instead as an alternate form of
+*meged*, Leah greeting the birth as one greets the arrival of delicacies and
+other good things.
+
+The column notes in a bracket that another set of words on the ג-ד string means
+cutting and separating, the polar opposite of attaching, and refers the reader to
+its author's own book *God versus Gods: Judaism in the Age of Idolatry*
+(discussing the Canaanite deity Gad, worshipped as a god of luck) for how the
+contradictory senses of *gad* may be reconciled, and to Rav Hirsch on Bereishis
+30:11. It also points to a lecture of its author's on the name Gad, the Semitic
+*gad*/*gada*, and the English *god* and *good*.
+
+As an aside, the column brings *gadish*, a pile brimming with produce, which
+appears four times in Tanach (Shemos 22:5; Iyov 5:26 and 21:32; Shoftim 15:5) and
+many times in the Mishnah. Most lexicographers trace it to the triliteral ג-ד-ש,
+but Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) suggests that *gadish*
+is really *gad* ("luck," *mazal*) plus *yesh* ("there is"), an allusion to the
+source of overflowing abundance.
 
 ### mazar (מזר)
 The single occurrence is Hashem's rebuke to Iyov (38:32). Rabbi Shlomo Pappenheim
 derives it from the biliteral ז-ר, "estrangement, disconnection," the root of
 *zar* (a stranger), *mamzer*, *nazir*, and *nezer*, and of a second family headed
-by *zoreh*, "to scatter": *zohar*, *azharah*, *mazor*, and *zerem* (a current).
-On that reading *mazar* belongs with *zerem*, the forces regulating the flow of
-water, which is where it meets his account of *mazal* as the regulator of rain.
+by *zoreh*, "to scatter or throw": *zorer* (a sneeze, which flings liquid from the
+nose), *zohar* (light, which scatters), *azharah* (a warning, which enlightens a
+man as to what is expected of him), *mazor* (a remedy spread on a wound), and
+*zerem* (a current). On that reading *mazar* belongs with *zerem*, the heavenly
+forces regulating the flow of water, which is where it meets his account of
+*mazal* as the regulator of rain. The column adds a suggestion of its own, that
+Dunash's "powerful wind" could be justified etymologically by tying *mazar*
+instead to *zorer*, a sneeze being a wind-like gust.
 
 ## Rendering guidance
 
@@ -136,6 +172,9 @@ Bereishis 30:11 with Rashi; Melachim II 23:5; Yeshayahu 65:11; Iyov 38:32 with
 Rabbi Saadia Gaon, Rashi, Ibn Ezra, Ramban, and Ralbag; Berachos 32b; Chullin
 40a; Nedarim 56a with the Ran; Megillah 3a and Shabbos 53b, 61b with Rashi; Zohar
 Naso 134a; *Shaarei Orah* shaar 3; *Tiferes Yisrael* to Kiddushin 4; Ramban to
-Shemos 22:15; *Sefer HaShorashim* s.v. נזל and מזר; *Cheshek Shlomo* s.v. זל;
-*Sefer HeAruch* s.v. גד; Dunash's replies to Rabbi Saadia Gaon. Akkadian and
-Arabic derivations of *mazal* are omitted.
+Shemos 22:15; Shemos 22:5, Iyov 5:26 and 21:32, Shoftim 15:5 (*gadish*); *Sefer
+HaShorashim* s.v. נזל and מזר; *Cheshek Shlomo* s.v. זל; *Sefer HeAruch* s.v. גד;
+Dunash's replies to Rabbi Saadia Gaon; *Ohalei Yehudah*. Nothing the article
+carries is omitted here, including the Arabic comparisons of the anonymous
+commentator to Rambam and the Akkadian derivations of Ernest Klein and Chaim
+Tawil.

@@ -163,5 +163,10 @@ raw text in `sources/whats-in-a-word/raw/11665-shemot-here-we-go.md`. Primary
 loci: Shemos 3:5; Zevachim 102a with Maharsha; *Bereishis Rabbah* 45:1; *HaKtav
 VeHaKabbalah* and *HaRechasim LeVikah* to Bereishis 16:13; Rabbi Shlomo
 Pappenheim, *Cheshek Shlomo*; Bedersi, *Chosam Tochnis*. David's prayer is Shmuel
-II 7:18 (the article prints I Sam. 7:18); Luzzatto's readings are those Malbim
-cites in *Yair Ohr*.
+II 7:18 (the article prints I Sam. 7:18); the article also gives Bereishis 15:6
+for Targum's *hacha* rendering *heinah*, where the pasuk carrying *heinah* is
+15:16. Luzzatto's readings are those Malbim cites in *Yair Ohr*. The article
+credits Rabbi Eliezer Cohn with the observation that Rav Hirsch follows
+Shapira-Frankfurter, and quotes Dr. Lawrence Resnick's summary of Rav Hirsch on
+*halom*; both are named here as the article names them. Rabbi Grayever's reading
+the article states only in brief, saying it needs a full article of its own.

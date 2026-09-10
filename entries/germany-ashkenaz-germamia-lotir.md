@@ -28,8 +28,8 @@ words:
     distinct: Yefes's son and Ashkenaz's father (Bereishis 10:2); Chazal identify his descendants as Germamia, and Radak reads both Gomer and Ashkenaz as Alemania
 sources:
   - wiaw:11563 "Noach: Ashkenaz and Teutonic Jews" (2024-11-02) https://articles.ohr.edu/articles/noach-ashkenaz-and-teutonic-jews
-authorities: [Shadal, Targum Yerushalmi, Targum Rav Yosef, Vilna Gaon, Rabbi Nathan of Rome, Rashi, Rabbeinu Tam, Rashbam, Maharshal, Rabbi Yaakov Emden, Rabbeinu Efrayim, Radak, Rabbi Aryeh Kaplan, Rabbi Aharon Marcus, Rabbi Yosef Prager]
-status: draft
+authorities: [Shadal, Filosseno Luzzatto, Targum Yerushalmi, Targum Rav Yosef, Vilna Gaon, Rabbi Nathan of Rome, Rashi, Rabbeinu Tam, Rashbam, Maharshal, Rabbi Yaakov Emden, Rabbeinu Efrayim, Radak, Rabbi Aryeh Kaplan, Rabbi Aharon Marcus, Rabbi Yosef Prager, Rabbi Ernest Klein, Wilhelm Gesenius, Brown-Driver-Briggs, Alfred Jones, David L. Gold, Rainer Josef Barzen]
+status: reviewed
 updated: 2026-09-10
 ---
 # Names for Germany: Ashkenaz / Germamia / Lotir / Almenia
@@ -59,26 +59,55 @@ own **Rhineland**; *Almenia* is **Alemannia**.
 **What the Biblical Ashkenaz was.** The earliest rabbinic sources say simply
 "Asia" (Targum Yerushalmi and Neofiti to Bereishis 10:3; Targum Rav Yosef to
 Divrei HaYamim I 1:6; Yerushalmi Megillah 1:9), which in antiquity could take in
-Asia Minor and much besides. Shadal (there) argues for a nation near Armenia, or,
-in his son's name, a people near the Sea of Azov. Rabbi Aryeh Kaplan (*The Living
-Torah* there), from Josephus's "Aschanaxians, now called Rheginians," lists four
-candidates: Rhegium in Italy; Rhagae in Media; Regnum Polemonis southeast of the
-Black Sea, which he prefers as fitting Chazal's "Asia"; and the Rhine region,
-which fits the medieval usage. Rabbeinu Efrayim (there) is the outlier: Ashkenaz
-is France along the Seine, and Elisha is Almenia; Radak reads both Gomer and
-Ashkenaz as Alemania. The Bottom line leaves the name untranslated.
+Asia Minor and much besides. Shadal (there) gives two possibilities: a nation
+living near Armenia, citing in the name of a scholar called Ilasse that the
+second word of the ancient Greek name for the Black Sea, Pontus *Euxinus* or
+Pontus *Axenus*, is a cognate of Ashkenaz (Rabbi Ernest Klein mentions the same
+in his English etymological dictionary under *Euxine*); or, in the name of his
+son Filosseno Luzzatto, the Asuciandae or Ascantii, whom Pliny the Elder places
+near the Sea of Azov and who may be the people Strabo, a generation earlier,
+calls the Sittaceni. The column reports that the more accepted view in
+scholarly circles is the Iranian Scythians, called *Ashkuza* (also *Ashguza*,
+*Ishguza*) in Akkadian and *Saka* in Old Persian; other sources identify
+Ashkenaz with Ascanius, an Italian king of Greco-Roman mythology; and the
+Brown-Driver-Briggs lexicon suggests the Ascanians, taking the final *-az* as
+an Armenian patronymic suffix. Rabbi Aryeh Kaplan (*The Living Torah* there),
+from Josephus's "Aschanax founded the Aschanaxians, who are now called by the
+Greeks Rheginians," lists four candidates: Rhegium at the tip of the Italian
+peninsula; Rhagae in Media; Regnum Polemonis southeast of the Black Sea, which
+he prefers as fitting Chazal's "Asia"; and the Rhine region, which fits the
+medieval usage. Rabbeinu Efrayim (there) is the outlier: Ashkenaz is France
+along the Seine, and Elisha is Almenia; Radak reads both Gomer and Ashkenaz as
+Alemania. The Bottom line leaves the name untranslated.
 
 **Whether Germamia glosses Gomer or Magog.** Yoma 10a and Yerushalmi Megillah 1:9
 give Germamia for Gomer, close to an anagram of the name, and the Vilna Gaon
 emends to Germania, the Roman province (see also Negaim 2:1, and *Hagahos
 Yaavetz* to Megillah 6a). But Targum pseudo-Yonasan and Targum Yerushalmi to
 Bereishis 10:2, and Targum Rav Yosef to Divrei HaYamim I 1:5, appear to use it
-for Magog (so *Yefeh Einayim* to Yoma 10a). Rabbi Nathan of Rome settles the
-practical question in *Sefer HeAruch*: Germamia is the Land of Ashkenaz.
+for Magog, Gomer's brother (so *Yefeh Einayim* to Yoma 10a). Rabbi Nathan of
+Rome settles the practical question in *Sefer HeAruch*: Germamia is the Land of
+Ashkenaz. In Modern Hebrew the standard word for Germany is *Germaniya*.
 
-**Whether Ashkenaz has a Hebrew etymology at all.** One traditional source parses
-it as Hebrew: Rabbi Yaakov Emden (*Eim L'Binah*), a portmanteau of *mishkan* and
-*ziv*, the dwelling of the crown jewels of Klal Yisrael.
+**Whether Ashkenaz has a Hebrew etymology at all.** The column says that of all
+the sources it consulted only two parse the word as though it were natively
+Hebrew or Semitic. Rabbi Yaakov Emden (*Eim L'Binah*) reads it as a portmanteau
+of *mishkan* and *ziv*, ostensibly the dwelling place of the crown jewels of
+Klal Yisrael, and the column notes that Rabbi Yaakov Emden himself lived in the
+area colloquially called Ashkenaz. The second is Alfred Jones, *The Proper Names
+of the Old Testament Scriptures Expounded and Illustrated* (London, 1856), who
+claims it means "so fire is scattered," from *aish*, the letter kaf, and
+*nazah*; the column says it would like to know Jones's source and what other
+etymologies have been proposed.
+
+The German philologist Wilhelm Gesenius, whom the column calls anti-Semitic and
+quotes to that effect ("The modern Jews understand it to be *Germany*, and call
+that country by this Hebrew name, which is only to be attributed to their
+wonderful ignorance of geography"), holds that since the pasuk ties Ashkenaz to
+Gomer it must be a nation sprung from the Cimmerians or a province within their
+country. The column also credits him with an interesting point: the closeness of
+Ashkenaz to Ashpenaz, the name of an administrator in Nevuchadnetzar's court
+(Daniel 1:3).
 
 ## Distinctions
 
@@ -88,26 +117,79 @@ Divrei HaYamim I 1:6), and the kingdom of Ashkenaz among the peoples who will
 help Persia against Bavel (Yirmiyahu 51:27). By the eleventh century it means
 Germany: Rashi calls German *leshon Ashkenaz* (Sukkah 17a, Gittin 55b, Bava
 Metzia 73b, Chullin 93a), and on Kesubos 77a he says he did not understand the
-dung-gatherer's trade until he was "in Ashkenaz" and saw clothes soaked in it; he
-had learned in Worms. Radak (to Ovadiah 1:20) speculates that the people of
-Almenia are Canaanites who fled Yehoshua.
+dog-dung gatherer's trade until he was "in Ashkenaz" and saw people soaking
+clothes in it for a day or two before cleaning them; he had learned in Worms
+before returning to Troyes. The name stayed with the Jews who moved on from the
+West into Central and Eastern Europe after the expulsions from Germany, France
+and England that the Black Plague made worse. Radak (to Ovadiah 1:20) speculates
+that the people of Almenia are Canaanites who fled Yehoshua.
+
+Shadal's point that the later usage simply borrowed an old name for a new place
+has a parallel the column draws from its own book *Lashon HaKodesh: History,
+Holiness, and Hebrew*: medieval Jews called the Slavic and Czech lands and
+language *Knaanic*, "Canaanite," though the original term plainly meant the
+ancient tribes of Eretz Yisrael.
+
+### Gomer (גומר)
+Rabbi Aryeh Kaplan (*The Living Torah* to Bereishis 10:2) collects the
+identifications of Gomer's descendants: the Cimmerians, who lived around the
+Black Sea; the Franks or the Gauls, the Franks being ancestors of the modern
+Germans and French; the Cimbrians of Jutland, a tribe of Teutonized Celts, on
+the identification of Cimmerians with Cimbrians; and the Phrygians, driven from
+their land by the Cimmerians and settled in Galatia, which the Gauls later
+conquered (see also *Kovetz Yeshurun* vol. 17, p. 845ff). Separately, Gomer is
+also a woman's name in Tanach: Gomer bas Divlayim, whom Hoshea was commanded to
+marry (Hoshea 1:1-3).
 
 ### Lotir (לותיר)
-Charlemagne's empire was divided among his heirs; Lothair II inherited the
-central portion of Middle Francia, which took his name as Lotharingia, later
-Lorraine. Mainz lay within it, and the Early Ashkenaz sources call the region
-*Lotir*, which Rabbi Yosef Prager (*Yerushaseinu*, 2008) argues covered the whole
-Rhineland: Rabbeinu Tam on "the Elders of Lothar" (Tosafot to Bava Basra 74a); the
-Rashbam on "my masters in Lothar" (Bava Basra 150b, 158b); Tosafot to Berachos
-18a and Pesachim 105a; and the Maharshal (§29), who calls Rabbeinu Gershom Meor
-HaGolah one of the "sages of Lothar."
+Charlemagne (d. 814) united much of continental Europe, and by Jewish tradition
+the Jews who founded the core Ashkenazi community came from Italy at his
+invitation. His empire was divided among his heirs; his grandson Lothair I
+(795-855) held Middle Francia, and Lothair I's second son Lothair II (835-869)
+inherited its central portion, which took his name as Lotharingia (*Lothringen*
+in German), later simply Lorraine, itself the source of the name Loraine and the
+family name Luria. Mainz lay within it, and it was around then that Rabbeinu
+Gershom's teacher Rabbeinu Yehudah Leontin came there. The Early Ashkenaz
+sources call the region *Lotir*, which Rabbi Yosef Prager (*Yerushaseinu*, 2008)
+argues covered the whole Rhineland, Worms and Speyer and Mainz together, and was
+not limited to the Lotharingia known to history: Rabbeinu Tam on "the Elders of
+Lothar" (Tosafos to Bava Basra 74a); his older brother the Rashbam on "my
+masters in Lothar" (Bava Basra 150b, 158b); Tosafos to Berachos 18a and Pesachim
+105a; Rashi's responsa and his *Sefer HaPardes*; and the Maharshal (§29), who
+calls Rabbeinu Gershom Meor HaGolah, of Mainz in the generation before Rashi,
+one of the "sages of Lothar." Joel (Julius) Muller published a compendium of Old
+Ashkenaz responsa in 1881 under the title *Teshuvos Chachmei Tzarfas V'Lotir*,
+and the column points to Professor Rainer Josef Barzen's 2021 paper "West and
+East in Ashkenaz in the Time of Judah he-Hasid" for a scholarly treatment of
+*Lotir* and *Ashkenaz* together.
 
 ### Almenia (אלמניא)
-From the Alamanni, a confederacy of Germanic tribes, whose name gave French
-Allemagne and Spanish Alemania; the form is used chiefly by the meforshim of
-Spain and France. *Tedeschi* and *Ashkenazi* are the same word in two languages,
-which is why Rabbi Moshe Tedeschi-Ashkenazi carries both; see also Rabbi Aharon
-Marcus (*Keses HaSofer* there) on *diutisc* for Runic script.
+From the Alamanni, a confederacy of Germanic tribes that formed as the Western
+Roman Empire went into its final decline; the name means "all people" in
+proto-Germanic (*alle*, all, and *mann*, man), and in French and Spanish it came
+to cover the whole region, hence Allemagne and Alemania. The form is used
+chiefly by the meforshim of Spain and France.
+
+### Deutsch, Tedeschi, yekke
+Not Hebrew, but the column carries the German side of the name through. German
+*Deutschland*, "German land," goes back to Old High German *diutisc* (Latin
+*theodiscus*), rooted in the Proto-Indo-European *teuta*, "people, folk," which
+also gives German *deutsch* and Italian *tedeschi*. Some argue an earlier term
+for the Germanic peoples was *Ascenos*, which became *Tuiscones* and then
+*Teutons*; *Teuton* itself is traced to Proto-Indo-European *tewteha* or
+Proto-Celtic *towta*, "people, tribe." (Rabbi Aharon Marcus, *Keses HaSofer* to
+Bereishis 10:3, writes that Runic script was distinguished from Latin script by
+calling it *diutisc*.) Grimm's Law accounts for the t of *taytsh*, *teutonic*
+and *tedeschi* against the d of *deutsch*, and *Dutch* shares the origin though
+it now names a different people. So *Tedeschi* and *Ashkenazi* are the same word
+in two languages, which is why Rabbi Moshe Tedeschi-Ashkenazi, author of *Ho'il
+Moshe* and *Otzar Nirdafim*, carries both. The Yiddish *yekke*, for a Jew of
+Germany and sometimes of Western Europe generally, stereotyped as unbending and
+punctual to a fault, is traditionally understood to come from German *yak*,
+jacket, Western European Jews having worn short modern jackets against the long
+coats of the East; Professor David L. Gold of the University of Haifa canvassed
+other etymologies for this sometimes derogatory word in a 1981 essay, "The
+Etymology of Yiddish Yeke."
 
 ## Rendering guidance
 
@@ -132,8 +214,13 @@ Rabbi Reuven Chaim Klein, "Noach: Ashkenaz and Teutonic Jews," What's in a Word?
 loci cited: Bereishis 10:2-3; Divrei HaYamim I 1:5-6; Yirmiyahu 51:27; Ovadiah
 1:20; Yoma 10a; Yerushalmi Megillah 1:9; Megillah 6a; Kesubos 77a; Sukkah 17a;
 Gittin 55b; Bava Metzia 73b; Chullin 93a; Bava Basra 74a, 150b, 158b; Berachos
-18a; Pesachim 105a; Negaim 2:1; *Sefer HeAruch*; *Eim L'Binah*; *Yefeh Einayim*;
-*Maharshal* §29. Omitted as non-traditional: Gesenius (quoted only to record his
-contempt for "the modern Jews"), Brown-Driver-Briggs, the Akkadian and Old
-Persian identifications, Pliny and Strabo, Alfred Jones, and the
-Proto-Indo-European derivations of *Teuton*.
+18a; Pesachim 105a; Negaim 2:1; Daniel 1:3; Hoshea 1:1-3; *Sefer HeAruch*; *Eim
+L'Binah*; *Yefeh Einayim*; *Maharshal* §29; Rabbi Aryeh Kaplan, *The Living
+Torah* to Bereishis 10:2-3; *Kovetz Yeshurun* vol. 17. The article's
+non-traditional citations (Gesenius, both his identification of Ashkenaz and his
+contempt for "the modern Jews," together with the column's own credit to him on
+Ashpenaz; Brown-Driver-Briggs; the Akkadian *Ashkuza* and Old Persian *Saka*;
+Pliny and Strabo; Josephus; Alfred Jones; Joel Muller; Professor Rainer Josef
+Barzen; Professor David L. Gold; and the Proto-Indo-European derivations of
+*Teuton*) were previously dropped from this entry and have been restored to the
+body.

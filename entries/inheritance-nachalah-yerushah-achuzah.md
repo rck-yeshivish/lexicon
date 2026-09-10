@@ -8,8 +8,8 @@ domain: society
 sources:
   - wiaw:7839 "A Heritage of Inheritance" (2018-07-07) https://articles.ohr.edu/articles/a-heritage-of-inheritance
 authorities: [Malbim, Shadal, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Inheritance: nachalah / yerushah / achuzah
 
@@ -20,7 +20,9 @@ down the generations from father to son, ordinarily as one portion among
 several. *Yerushah* is **inheritance** as a bare legal transfer: property that
 passes out of one man's *reshus* into another's, with no assumption that it was
 willingly given or that anyone else shares in it. *Achuzah* is the **holding**,
-inherited property the heir has actually taken hold of. The trap: English
+inherited property the heir has actually taken hold of. The column gives
+several competing approaches to the first two, and they do not reduce to one
+another; the summary above is the working shape they share. The trap: English
 "inheritance" absorbs the first two, so where a passage turns on the difference,
 render *nachalah* "patrimony" or "ancestral portion" and reserve plain
 "inheritance" for *yerushah*.
@@ -28,31 +30,40 @@ render *nachalah* "patrimony" or "ancestral portion" and reserve plain
 ## Distinctions
 
 ### nachalah (נחלה)
-Root נ-ח-ל. Malbim: *nachalah* is specifically transgenerational, the transfer
-of property along the continuum from parent to child; and it is specifically
-what the bequeather *willingly* passes on. Shadal: a *nachalah* is what one
-receives as his share in the dividing up of a single estate, alongside others
-who take their portions in tandem; he ties *nachalah* to *chelek* ("portion")
-through the shared ches-lamed. His two examples: the *bechor*'s double share
-against his younger brothers' single shares is called *nachalah* (Devarim
-21:16), and the seventy nations each received a *nachalah* when the world was
-divided among them (Devarim 32:8). Rav Hirsch: *nachalah* is the healthier of
-the two models of how a younger generation relates to an older one. It is
-cognate with *nachal*, a river; the estate flows on seamlessly, because the
-young see themselves as the continuation of the old and not as its replacement.
+Root נ-ח-ל. Malbim offers two ways of separating *nachalah* from *yerushah*.
+First: *nachalah* is specifically transgenerational, the transfer of property
+along the continuum from parent to child. Second: *nachalah* is specifically
+what the bequeather *willingly* passes on. Shadal proposes a different
+distinction: a *nachalah* is what one receives as his share in the dividing up
+of a single estate, alongside others who take their portions in tandem; he even
+contends that *nachalah* is related to *chelek* ("portion"), both containing the
+ches-lamed combination. His two examples: the *bechor*'s double share against
+his younger brothers' single shares is called *nachalah* (Devarim 21:16), and
+the seventy nations each received a *nachalah* when the world was divided among
+them (Devarim 32:8). Rav Hirsch: *nachalah* is the preferred, more conservative
+of the two models of how a younger generation relates to an older one. It is
+cognate with *nachal*, a river; the estate flows on seamlessly and naturally,
+because the young see themselves as the continuation of the old and not as its
+replacement, and there is no repudiation on either side.
 
 ### yerushah (ירושה)
 Root י-ר-ש. Malbim: *yerushah* is related to *reshus*, "domain" or "charge," and
 denotes nothing more than property crossing from one party's domain into
 another's, sanctioned by the deceased or not. Shadal: *yerushah* is the
 winner-takes-all case, one heir with no rivals to split with; hence Avraham
-Avinu, childless, said of his steward that he would be his *yoresh* (Bereishis
-15:3) and not his *nochel*. Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi
-Mecklenburg: the root is reish-shin, allied to *rosh*, since the heir becomes the
-head of the estate he takes over. Rav Hirsch: *yerushah* belongs with *geirush*
-("driving out") and with Koresh, the king who took the whole civilized world for
-himself; it is the model in which the young generation treats itself as primary,
-cuts its tie to the past, and simply enjoys what its elders built.
+Avinu, childless, complained that his household steward was seemingly destined
+to inherit everything, and the word he used was *yoresh* (Bereishis 15:3) and
+not *nochel*. Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi Mecklenburg: the
+root is reish-shin, allied to *rosh*, since the heir becomes the head of the
+estate he takes over. The column adds that the English *inherit* comes from the
+Latin *inhereditare*, "to be appointed as heir," on which reckoning too the one
+who inherits assumes the deceased's position of power. Rav Hirsch, in what the
+column calls an almost-prophetic reading of current events: *yerushah* belongs
+with *geirush* ("chasing away") and with Koresh, the Persian king who conquered
+the whole civilized world for himself, and who by some legends came to the
+throne by killing his own grandfather; it is the model in which the young
+generation treats itself as primary, rejects its connection to the past, and,
+bereft of its elders, is free to enjoy the fruits of what they built.
 
 An unnamed view in the column narrows both differently: *nachalah* is strictly
 father-to-son, while *yerushah* covers inheritance between relatives generally,
@@ -94,4 +105,5 @@ https://articles.ohr.edu/articles/a-heritage-of-inheritance; raw text in
 the article cites: Bamidbar 27:1-11 (the laws of inheritance, where both words
 appear); Devarim 21:16 (the firstborn's double portion); Devarim 32:8 (the
 nations' portions); Bereishis 15:3 (Avraham's steward as *yoresh*). The
-article's Latin etymology of English "inherit" is omitted here.
+article's Latin etymology of English "inherit" is carried in the *yerushah*
+section, as the article gives it.

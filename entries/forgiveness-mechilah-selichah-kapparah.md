@@ -38,27 +38,34 @@ cognates cluster around the forgiveness a korban brings (Vayikra 4:20-35,
 be a reference to the sprinkling of the blood on the mizbeach, the main
 component of the korbanos. Rabbi Moshe Meth (*Matteh Moshe*)
 and Rabbi Yitzchak Eizik of Tirna (*Sefer HaMinhagim*): *selichah* pairs with
-*avon* (Bamidbar 14:19). Rabbi Yaakov Tzvi Mecklenburg: *selichah* is
-quantitatively the stronger, it reaches the whole sin, but only by deferring
-its punishment; the sin itself is left as it was. Rabbi Shlomo Aharon
+*avon* (Bamidbar 14:19). Rabbi Yaakov Tzvi Mecklenburg: *selichah* may be
+quantitatively the stronger, since it reaches the whole quantity of the sin, but
+only by completely deferring its punishment to a later time; the sin itself is
+left as it was. Rabbi Shlomo Aharon
 Wertheimer: a reprieve, the sinner is not punished all at once but given time
 to repay slowly. Rav Hirsch: the correction of the relationship between the
 sinner and the one (or One) he wronged. The word also names the *piyyut*
-genre, *Selichos*, once said inside the *selach lanu* berachah.
+genre, *Selichos*, originally said inside the *selach lanu* berachah of Shemoneh
+Esrei and nowadays before davening begins or after Shemoneh Esrei.
 
 ### mechilah (מחילה)
-Root מ-ח-ל, of uncertain etymology. Rabbi Eliyahu HaBachur: absent from Tanach,
+Root מ-ח-ל, which Ernest Klein's *A Comprehensive Etymological Dictionary of the
+Hebrew Language* calls of uncertain etymology. Rabbi Eliyahu HaBachur: absent from Tanach,
 present in Rabbinic literature and the liturgy; besides forgiveness it means
 cancelling a debt or forgoing what one deserves. Matteh Moshe and Sefer
 HaMinhagim pair it with *pesha*, and since no pasuk has *mechilah* they prove
 it from *mocheh peshaecha* (Yeshayahu 43:25), reading *mochel* as *mocheh*, to
 wipe away; Rabbi Aharon Fuld (glosses to HaBachur): *mochel* is *mocheh* plus
 *al*. Rabbi Moshe Yitzchak Avigdor and Rabbi Yehuda Aszad: kin to *yachel*
-(Bamidbar 30:3), which Targum renders cancel, nullify. Rabbi Shlomo Pappenheim's
-rule that a leading *mem* inverts a two-letter root (*chok* engrave, *machak*
-erase; *rad* rule, *marad* rebel) is applied by the column: ח-ל is hollowing
-and profaning, so מ-ח-ל refills the sinner who had emptied himself of his
-holiness. Mecklenburg: qualitatively the stronger, it can erase part of the
+(Bamidbar 30:3), which Targum renders cancel, nullify. Rabbi Shlomo Pappenheim
+holds that many three-letter roots opening with *mem* are really the remaining
+two letters with the *mem* flipping the sense to its opposite (*chok* engrave,
+*machak* erase; *leitz* scorn, *meilitz* defend; *na* movement, *mana*
+withholding; *rad* rule, *marad* rebel, and more). Pappenheim himself does not
+apply this to *mechilah*; the column suggests that perhaps we may: ח-ל is
+hollowing out, and so profaning something holy by emptying it, and a Jew who
+sins makes himself a hollow vessel, so מ-ח-ל would be the mechanism by which
+Hashem fills the hollow and re-infuses the penitent with holiness. Mecklenburg: qualitatively the stronger, it can erase part of the
 sin outright even if not all of it. Wertheimer: immediate and complete
 forgiveness. Rav Hirsch: commuting the punishment the guilty party deserves.
 
@@ -69,8 +76,11 @@ Yeshayahu 27:9, Tehillim 78:38), but the Chumash pairing with *chet* governs.
 Malbim records two derivations. From *kofer*, ransom: *kapparah* is a price
 paid for forgiveness, usually a korban (hence Yom HaKippurim, and the Erev Yom
 Kippur *kapparos*). From *kapporet*, cover: *kapparah* covers the sin on the
-surface so it is no longer seen, without removing it. Either way the word
-recalls the price of sin and the transactional side of atonement. Rav Hirsch:
+surface so it is no longer visible, but does not completely remove or wipe it
+away. The column offers a harmonization of its own, that in English one
+"covers" a cost by offsetting it, so covering and paying a price can be two
+facets of one idea. Malbim's own summary is that *kapparah* recalls the price
+paid for sin and focuses on the transactional side of atonement. Rav Hirsch:
 the total negation of any negative ramification of the sin. Mecklenburg and
 Wertheimer do not place *kapparah* against the other two.
 
@@ -101,4 +111,6 @@ Somayach, 21 Elul 5779 (2019-09-21): raw text in
 article cites: Bamidbar 14:19-20; Vayikra 4:20-35 and 5:10-26; Yeshayahu 43:25;
 Bamidbar 30:3 with Targum; Shemos 32:30; Mishlei 16:6, Yeshayahu 27:9, Tehillim
 78:38; Matteh Moshe and Sefer HaMinhagim on the three words for sin; Rabbi
-Aharon Fuld's glosses to HaBachur; Rav Hirsch's three-way definition.
+Aharon Fuld's glosses to HaBachur; Rav Hirsch's three-way definition. Nothing
+the article carries is omitted here, including Ernest Klein's dictionary on
+מ-ח-ל and the Akkadian and Aramaic comparison for *selichah*.

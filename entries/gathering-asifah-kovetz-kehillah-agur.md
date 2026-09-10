@@ -33,7 +33,7 @@ words:
 sources:
   - wiaw:8439 "Succot - the Majestic Holiday of Gathering" (2019-10-12) https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering
 authorities: [Rashi, Radak, Malbim, Vilna Gaon, Rabbi Yehuda Leib Edel, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Gathering: asifah / kovetz / aggudah / kehillah / eidah / agur
@@ -71,9 +71,10 @@ stand in consecutive pesukim the difference must show in the English.
 2. **The Vilna Gaon** (Chavakuk 2:5): *asifah* brings things inside, *kovetz*
    puts what is inside in one place; Yaakov calls his sons twice, *he'asfu*
    (Bereishis 49:1) for those outside, then *hikavtzu* (49:2).
-3. **Radak** (*Sefer HaShorashim*) rejects the "proper place" idea: the
-   difference is distance, *asifah* for what is near, *kovetz* for what is
-   dispersed, which is the reverse of Malbim's reading of Esther 2:3.
+3. **Radak** (*Sefer HaShorashim*) rejects the "proper place" idea, disagreeing
+   with Rashi even on death, which he explains as being gathered together with
+   one's forefathers. On his account the difference is distance: *asifah* for
+   what is near, *kovetz* for what is dispersed further off.
 4. **Rabbi Shlomo Pappenheim.** *Asifah* takes in all the parts at once,
    *kovetz* accumulates them little by little; he derives it from ס-ף, a
    threshold, the group's moving boundary as more are added.
@@ -95,14 +96,20 @@ Bedersi, fitting the ordinary usage *adas Yisrael*.
 ### aggudah (אגודה)
 More than assembly: the gathered are tied into one, physically (three of the four
 species bound for the lulav, Succah 11b, 13a) or by an agreement binding people's
-fates. Rabbi Shlomo Pappenheim traces it to ג-ד, attaching, whence *gid* (sinew)
-and *gedud* (a squad joined as one).
+fates. Rabbi Shlomo Pappenheim traces it to ג-ד, attaching, whence *gad*, a
+spiritual force attached to a particular physical entity; *gid*, the sinew that
+holds the parts of the body together; *gedud*, a squad joined as one; and
+*haggadah*, presenting new information by weaving it into a broader narrative.
 
 ### kehillah (קהילה)
 Rabbi Shlomo Pappenheim: used of human beings only, never of animals or objects,
-and kin to *kol*, sound, since people gather at the sound that summons them (the
-trumpets of Bamidbar 10:2). Shlomo is *Koheles* because his teaching was given in
-gatherings (Melachim I 8:1), or because he gathered wisdom (Rashi, Koheles 1:1).
+and kin to *kol*, sound, since people heed the sound that tells them to band
+together (the trumpets of Bamidbar 10:2); alternatively, because a gathering of
+many people is always noisy. He derives *kol* itself from ק-ל, light as against
+heavy, either because sound is light enough to travel in air and not sink, or
+because it moves fast, unweighed down. Shlomo is *Koheles* because his teaching
+was given in gatherings (Melachim I 8:1), or because he gathered up many forms
+of wisdom (Rashi, Koheles 1:1).
 
 ### agur (אגר)
 Shlomo's other name, Agur (Mishlei 30:1), for having gathered up the Torah's
@@ -111,7 +118,14 @@ as one in his days. Rabbi Shlomo Aharon Wertheimer and Rabbi Shlomo Pappenheim:
 collecting little by little for later use. Rabbi Avraham Bedersi: inanimate
 objects only, wine (Devarim 28:39) or silver (Shmuel I 2:36), while *asifah*,
 *kovetz* and *kehillah* also take living things. Rabbi Shlomo Pappenheim's root
-is ג-ר, temporary lodging, whence *ger*, *goren*, and the coin *geirah*.
+is ג-ר, temporary residence, whence *ger*, a sojourner, and *goren*, the
+granary that houses the grain until its processing is done; and, in the
+gathering sense, *gargir*, a grape with the juice gathered inside it, and the
+small coin *geirah* (Shemos 30:13), also called *agurah* (Shmuel I 2:36), which
+is worth almost nothing singly and has value only collected together. (The
+column adds that the Aramaic *agra*, wages or reward, as in Avos 5:22 and Targum
+Onkelos to Bereishis 15:1, may derive from *agurah*; and that a hundred
+Modern Hebrew *agurot* make a shekel.)
 
 ## Rendering guidance
 
@@ -136,5 +150,8 @@ https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering;
 raw text in `sources/whats-in-a-word/raw/8439-succot-aeur-the-majestic-holiday-of-gathering.md`.
 Primary loci: Shemos 23:16, 30:13, 34:22; Bereishis 49:1-2, 49:29, 49:33;
 Bamidbar 10:2, 11:30, 27:13; Devarim 28:39; Shmuel I 2:36; Melachim I 8:1;
-Chavakuk 2:5; Mishlei 5:14, 30:1; Koheles 1:1 with Rashi; Esther 2:3; Succah
-11b, 13a; Radak, *Sefer HaShorashim* s.v. אסף; *Midrash Agur* 4.
+Chavakuk 2:5; Mishlei 5:14, 30:1; Koheles 1:1 with Rashi; Esther 2:3; Bereishis
+15:1 in Targum Onkelos; Succah 11b, 13a; Avos 5:22; Radak, *Sefer HaShorashim*
+s.v. אסף; *Midrash Agur* 4. *Midrash Agur* reads the two names as the sign of a
+nation gathered as one in Shlomo's days with no in-fighting, what the column
+calls the *pax Judaica*.

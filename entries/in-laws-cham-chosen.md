@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:8605 "Heat with the In-Laws" (2020-02-15) https://articles.ohr.edu/articles/heat-with-the-in-laws
 authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # In-laws: cham and chamos / chosen and choseness
 
@@ -33,18 +33,19 @@ Root, on the Hebrew side, ח-מ, heat. The wife's words. Yehudah is called Tamar
 *cham* (Bereishis 38:13, 38:25), and Naomi is Rus's *chamos* (Rus 2:11 through
 3:17).
 
-Rav Hirsch: a woman marrying leaves her parents' family and joins her husband's,
-where his relatives stand around her like a *chomah*, a wall; hence *cham* and
-*chamos*. Rabbi Shlomo Pappenheim reads the same letters as the biliteral ח-מ,
-hot: a bride must stress the warm love she receives from her new relatives in
-order to honor her husband, and love is spoken of as fire (Shir HaShirim 8:7),
-so she names them from the root of heat. Rabbi Menachem Azariah of Fano: the
-husband's parents did not *give* a child in the way the wife's parents gave
-their daughter; their contribution is that they bore him, so the words derive
-from *yechemasni*, of conception (Tehillim 51:7).
+Rav Hirsch: in a traditional patriarchal society a woman marrying leaves her
+parents' family and joins her husband's, where his relatives stand around her
+like a *chomah*, a wall; hence *cham* and *chamos*. Rabbi Shlomo Pappenheim
+reads the same letters as the biliteral ח-מ, hot: a bride must stress the warm
+love she receives from her new relatives in order to honor her husband, and
+love is spoken of metaphorically as fire (Shir HaShirim 8:7), so it makes sense
+that she names them from the root of heat. The kabbalist Rabbi Menachem Azariah
+of Fano: the husband's parents do not *give* their son in the way the wife's
+parents give their daughter; their contribution is that they gave birth to him,
+so the words derive from *yechemasni* ("birth," Tehillim 51:7).
 
-The *Pri Megadim* (Rabbi Yosef Teomim-Frankel), in a letter on dikduk, works
-from the Aramaic instead: ח-מ there means "to see," and the Targumim always
+The *Pri Megadim* (Rabbi Yosef Teomim-Frankel), in a letter on dikduk, suggests
+working from the Aramaic instead: ח-מ there means "to see," and the Targumim always
 render Hebrew *chosen*/*choseness* with cognates of *cham*/*chamos*. A woman's
 mother-in-law is *chamos* because she is forever watching her daughter-in-law,
 for good or otherwise (Yevamos 15:4 presumes that the two are always assumed to
@@ -59,7 +60,10 @@ reads *shochev im chosanto* (Devarim 27:23).
 
 Rav Hirsch: the husband does not join a new family; his family forms a
 connection with another family while he remains in his own, so his words for
-his in-laws are built on connection, like *chasan*. Rabbi Shlomo Pappenheim
+his in-laws are built on connection, like *chasan*. (The column adds, in
+passing, that Hebrew and Yiddish have *mechutanim* for two people whose
+children have married each other, and that English has no word for that
+relationship at all.) Rabbi Shlomo Pappenheim
 derives *chasan* from the biliteral ח-ת, descending or setting down, since the
 groom branches off from his family to found a new subdivision; his parents-in-
 law are *chosen* and *choseness* because in giving him their daughter they gave
@@ -79,11 +83,13 @@ wife's, even in Mishnaic Hebrew.
 ### The Mishnaic widening
 Radak notes that in Mishnaic Hebrew *cham* is already used of a husband's
 father-in-law (Kesubos 1:5) and *chamos* of a husband's mother-in-law (Yevamos
-1:1). Rabbi Shimon Pollack (*Shem MiShimon*) builds a point of usage on it: a
-man says *avi mori* of his father but *mori vechami* of his father-in-law,
-putting "my teacher" first, because *chami* in that sense is only Mishnaic and
-rests on Aramaic, and Hebrew is given precedence; but if he uses the Biblical
-*chosni*, he says *chosni mori*, both words being Hebrew.
+1:1). Rabbi Shimon Pollack (responsa *Shem MiShimon*), asked why a man says
+*avi mori* of his father but *mori vechami* of his father-in-law, putting "my
+teacher" first in the second, offers as one suggestion that *chami* in that
+sense is only Mishnaic and rests on Aramaic, so the Hebrew *mori* is given
+precedence; whereas for one's father both words are Hebrew. He supports this
+from the fact that a man who uses the Biblical *chosni* will usually say
+*chosni mori*, both words there being Hebrew.
 
 ## Rendering guidance
 

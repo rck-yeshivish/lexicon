@@ -13,11 +13,11 @@ words:
   - he: מכות
     tr: makkot
     en: blows, lashes
-    distinct: the Torah's own word for judicial flogging (Devarim 25:2-3), and the name of the masechta; for Rabbi Shmuel Taieb the Gemara reserves it for rabbinically ordained lashes, makkos mardus
+    distinct: the Torah's own word for judicial flogging (Devarim 25:2-3), and the name of the masechta; for Rabbi Shmuel Taieb the Gemara uses it in many instances for rabbinically ordained lashes, makkos mardus
   - he: מלקות
     tr: malkut
     en: flogging, lashes
-    distinct: Mishnaic and Aramaic in origin, from ל-ק-ה; for Rabbi Shmuel Taieb the term for lashes ordained by the Torah
+    distinct: Mishnaic, from ל-ק-ה, which Even-Shoshan derives from the Aramaic; for Rabbi Shmuel Taieb the term for lashes ordained by the Torah
   - he: לקה
     tr: lakah
     en: to be struck, to be impaired
@@ -54,8 +54,9 @@ the Tiferes Yisrael holds it can mean impaired rather than struck.
 
 ## Where the authorities disagree
 
-**Which of the two is the wider word.** Two opposed readings, both prompted by
-the question of why the masechta is called Makkos.
+**Which of the two is the wider word.** Three readings, the first two opposed
+and both prompted by the question of why the masechta is called Makkos, the
+third denying that there is a difference at all.
 
 1. **Makkot is the narrower, so the better name.** Tiferes Yisrael (Rabbi
    Yisrael Lipschutz): *lakah* is not specifically "hit" but a general word for
