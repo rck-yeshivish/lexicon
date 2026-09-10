@@ -7,9 +7,9 @@ english: [guard, watch, safeguard, keep, preserve, wait, hold on to, harbor]
 domain: action
 sources:
   - wiaw:11813 "Acharei Mos/Kedoshim: The Watchers and Guardians" (2025-05-10) https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians
-authorities: [Rashi, Malbim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Siddur HaRokeach, Rabbi Shimon Dov Ber Analak, Rabbi Asher Weiser, Mahari Kara, Rabbi Eliyahu Bachur]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Malbim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Siddur HaRokeach, Rabbi Shimon Dov Ber Analak, Rabbi Dr. Asher Weiser, Mahari Kara, Rabbi Eliyahu Bachur, Vayikra Rabbah]
+status: reviewed
+updated: 2026-09-10
 ---
 # Guarding: shemirah / netzirah / netirah
 
@@ -52,15 +52,18 @@ it passes, not an everlasting guardianship.
 
 ### netzirah (נצירה)
 Root נ-צ-ר, about sixty occurrences; the initial *nun* often drops. The Vilna
-Gaon (to Mishlei 2:8): *netzirah* is a weightier watching than *shemirah*. On
-"*lintzor orchos mishpat vederech chasidav yishmor*" he reads two types of
-upright Jew, the *talmid chacham* wholly given to Torah and the *chassid* given
-to *mitzvos*; because the *yetzer hara* presses hardest on *talmidei chachamim*
-(Sukkah 52a), Shlomo HaMelech gave the stronger word *netzirah* to the wisdom
-that shields the scholar and kept *shemirah* for the *chassid*.
+Gaon (to Mishlei 2:8) postulates that *netzirah* is a more substantial watching
+than *shemirah*. On "*lintzor orchos mishpat vederech chasidav yishmor*" he
+reads two types of upright Jew, the *talmid chacham* wholly given to Torah and
+the *chassid* given to *mitzvos*; many devote themselves to *mitzvos* and only
+a select elite to Torah study, and the *yetzer hara* presses hardest on
+*talmidei chachamim* (Sukkah 52a), so Shlomo HaMelech gave the stronger word
+*netzirah* to the wisdom that shields the scholar and reserved *shemirah* for
+the *chassid*, who needs less protection from the *yetzer hara*.
 
-Rabbi Shimon Dov Ber Analak of Shidlitz: the difference is voice, not degree.
-*Shemirah* is passive watching, *netzirah* active watching.
+Another approach: Rabbi Shimon Dov Ber Analak of Shidlitz (1848 to 1907)
+theorizes that *shemirah* implies a passive form of watching over something,
+*netzirah* an active form.
 
 The *Siddur HaRokeach* (on "*chasdecha va'amitcha tamid yitzruni*", Tehillim
 40:12): *netzirah* is watching over something forever, not guarding it from one
@@ -76,8 +79,8 @@ each arises, so *shemirah*; Torah study is unceasing (Yehoshua 1:8), so
 Root נ-ט-ר, the rarest of the three: nine occurrences in the Hebrew portions of
 Tanach and one in the Aramaic (Daniel 7:28); its *nun* also drops. Malbim (to
 Vayikra 19:18, Tehillim 103:9, Yirmiyahu 3:5, Shir HaShirim 1:6, and in *Sefer
-HaCarmel*): *netirah* is not physical guarding at all but the abstract holding
-on to a conception in the mind. Hence *lo sitor*, harboring a grievance without
+HaCarmel*) presumes that *netirah* is not physical guarding at all but the
+abstract holding on to a conception in the mind. Hence *lo sitor*, harboring a grievance without
 watching anything tangible. Rashi's classic illustration of the pair: to answer
 "I will not lend you my ax, as you did not lend me your sickle" is *nekamah*;
 to say "here it is, I am not like you" is *netirah*, because the ill will is
@@ -95,13 +98,29 @@ something tangible, *netirah* can extend to something abstract, and *netzirah*
 is the strongest watching of all.
 
 ### The Aramaic collapse
-The Targumim render *shemirah*, *netzirah* and *netirah* alike with נ-ט-ר forms
-(see Rabbi Eliyahu Bachur, *Meturgeman*), so the Hebrew distinctions do not
-survive into Aramaic; *neturei karta* is simply "the guardians of the city."
-Rabbi Asher Weiser (*Mikra V'Lashon*) treats נ-צ-ר and נ-ט-ר as near
-synonymous, *tzadi* and *tes* being interchangeable, with only this shade
-between them: *netirah* is localized, specific guardianship, *netzirah* is
-watching in a general sense.
+The Targumim render *shemirah*, *netzirah* and *netirah* indiscriminately with
+נ-ט-ר forms (see Rabbi Eliyahu Bachur, *Meturgeman*), which might mean that
+whatever nuances hold in Hebrew disappear entirely in Aramaic, the meanings
+melding together; *neturei karta* is simply "the guardians of the city."
+Rabbi Dr. Asher Weiser (*Mikra V'Lashon*) goes so far as to write that נ-צ-ר
+and נ-ט-ר are almost used synonymously, especially since *tzadi* and *tes* are
+often interchangeable, with only a slight nuance between them: *netirah* is
+localized, specific guardianship, *netzirah* is watching in a general sense.
+
+### The names
+The column closes with an onomastic aside. Several names look related to
+*shemirah*: the places Shamir (Yehoshua 15:48; Shoftim 10:1 to 10:2), Shomron
+(Samaria, over 110 times in Tanach), Shamrayin (its Aramaic name, Ezra 4:10,
+4:17) and Shimron (Yehoshua 11:1, 12:20, 19:15); and the personal names Shemer,
+Shomer, Shimron, Shamir, Shimras, Shimri, Shemiramos, Shmaryahu and Shmaryah
+(the last two abbreviated in Yiddish as Shmerel), with the feminine Shimris. In
+rabbinic tradition the name of Nevuchadnetzar's wife is related to *shemirah*,
+though there is a dispute as to what it was: Shemirah, Shemirmos or Shemiram
+(*Vayikra Rabbah* 19:6). From *netirah* comes the Geonic name Natronai; beyond
+that the column knows of no Hebrew name from *netirah* or *netzirah*, but adds
+that the surname of Hasan Nasrallah of Hezbollah seems to derive from an Arabic
+cognate of *netzirah*, parsing as *netzirah*, protection, plus *allah*, exactly
+as Shmaryahu and Shmaryah are *shemirah* plus a theophoric Yah or Yahu.
 
 ## Rendering guidance
 
@@ -135,5 +154,9 @@ Primary loci cited: Vayikra 19:18 with Rashi and Malbim; Shemos 22:6; Bereishis
 105:45, 121:7, 130:3; Mishlei 2:8 with the Vilna Gaon; Shir HaShirim 1:6;
 Daniel 7:28, 11:7; Berachos 3a; Sukkah 52a; Malbim, *Sefer HaCarmel*; Rabbi
 Shlomo Aharon Wertheimer, *Biurei Shemos HaNirdafim*; *Siddur HaRokeach*; Rabbi
-Eliyahu Bachur, *Meturgeman*; Rabbi Asher Weiser, *Mikra V'Lashon*. The
-article's closing comparison with an Arabic cognate is omitted here.
+Eliyahu Bachur, *Meturgeman*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon*;
+*Vayikra Rabbah* 19:6. For the closing onomastic aside the article gives a
+fuller list of loci than is reproduced here; two of its references appear to
+have slipped (it prints "II Chron. 5:21" for Shimras, which is I Divrei
+Hayamim 8:21, and "Ezra 10:3" for Shmaryah, which is Ezra 10:32), so the
+uncertain ones are left uncited above rather than repeated.

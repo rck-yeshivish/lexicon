@@ -26,7 +26,7 @@ words:
 sources:
   - wiaw:9491 "Through the Grapevine" (2021-12-18) https://articles.ohr.edu/articles/through-the-grapevine
 authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rashi, Rabbeinu Bachaya, Ibn Ezra, Ohalei Yehuda, Targum Yonasan, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Shmuel ben Chofni Gaon, Maharsha, Rivan, Shitah Mekubetzes]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Grapevine: gefen / sorek / shdeimah (sarig)
@@ -40,7 +40,9 @@ is the disputed one: Rashi makes it a **grain field**, the grammarians a
 is the **tendril**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists *gefen*,
 *sorek*, and *shdeimah* together as "grapevines", but the sources that treat
 each word separately do not let them collapse: keep the quality in *sorek* and
-keep *shdeimah* open.
+keep *shdeimah* open. The column itself closes undecided, offering that perhaps
+all these different explanations of *sorek* are somehow describing the same
+thing.
 
 ## At a glance
 
@@ -49,7 +51,7 @@ keep *shdeimah* open.
 | גפן | gefen | grapevine | the common, unmarked word (55 times); root ג-פ-נ (Ibn Saruk, Ibn Janach, Radak) or ג-פ, protruding (Pappenheim) |
 | שורק | sorek | choice vine | the choicest stock (Targum Yonasan, Ibn Janach, Radak), seedless grapes (Ibn Ghiyyat); or tendrils/plantable shoots (Rashi) |
 | שדמה | shdeimah | field (or vine) | grain field (Rashi) against vine (Ibn Janach, Ibn Ezra, Radak, Rabbeinu Bachaya); nourishing ground (Pappenheim); poor field (*Ohalei Yehuda*, *Shoresh Yesha*) |
-| שריג | sarig | tendril | the twining shoot of Bereishis 40:10; from ש-ר-ג, entangling; Ibn Saruk equates sorek with it |
+| שריג | sarig | tendril | the twining shoot of Bereishis 40:10; seemingly from ש-ר-ג, entangling; Ibn Saruk equates sorek with it, possibly via the kuf and gimmel interchange |
 
 ## Where the authorities disagree
 
@@ -60,10 +62,11 @@ Rabbeinu Bachaya (to Devarim 32:32), who reads the pasuk as deliberate doubled
 verbiage, with Ibn Janach (*Sefer HaShorashim*), Ibn Ezra and Radak (to
 Yeshayahu 16:8). **Any nourishing ground**: Pappenheim, not a vine and not
 Rashi's grain field either, but land juicy enough to feed what grows in it. **A
-poor field**: *Ohalei Yehuda* and *Shoresh Yesha*, a portmanteau of *sadeh* and
-*mah*, "what sort of field", with mem interchanging with peh to link ש-ד-ם to
-ש-ד-פ, wind-blasted (Ibn Janach and Radak make a similar point at Yeshayahu
-37:27, though not for every instance). The Bottom line keeps "field" by
+poor field**: *Ohalei Yehuda* and *Shoresh Yesha*, a portmanteau of *sadeh*,
+field, and *mah*, what, seemingly invoking the shin and sin interchange, with
+mem interchanging with peh to link ש-ד-ם to ש-ד-פ, wind-blasted (Ibn Janach and
+Radak make a similar point at Yeshayahu 37:27, though not for every instance).
+The Bottom line keeps "field" by
 default, since Rashi is the plainest reading and Pappenheim also refuses the
 vine, and flags the synonym reading where a passage pairs *shdeimah* with
 *gefen*.
@@ -72,28 +75,37 @@ vine, and flags the synonym reading where a passage pairs *shdeimah* with
 Janach and Radak: the choicest grapevine, and per Ibn Ghiyyat in Radak's name
 one whose grapes have no pits. Rashi: shoots good for planting as trunks in
 their own right (Yeshayahu 5:2), or the vine's especially long tendrils
-(Bereishis 49:11), though at Yirmiyahu 2:21 he too speaks of shoots from a good
-*gefen*. Rabbi Shmuel ben Chofni Gaon (to Bereishis 49:11): the softest
-branches of the vineyard. Ibn Saruk: simply *sarig*, a tendril. The readings
-may describe one thing from different angles; they are not interchangeable in
-English.
+(Bereishis 49:11), while at Yirmiyahu 2:21 he seems to follow the choice-vine
+approach, explaining *sorek* as shoots from a good *gefen*. Rabbi Shmuel ben
+Chofni Gaon (998 to 1034, to Bereishis 49:11), the earliest of these: the
+*softest* branches of the vineyard, which the column notes is the sense of
+*al-sarik* in Syrian Arabic (possibly the Sirac or Syrac grapes now known as
+Syrah or Shiraz). Ibn Saruk: simply *sarig*, a tendril. The column suggests
+that perhaps all these readings describe one thing from different angles; they
+are still not interchangeable in English.
 
 **The root of gefen.** The early grammarians (Ibn Saruk, Ibn Janach, Radak)
 hold the triliteral ג-פ-נ; Pappenheim derives it from the biliteral ג-פ,
 outward protrusion, with *gaf* (side, Mishlei 9:3), a bird's wing, *guf* (the
 body as the outward projection of the person), *mageifah* (a plague spreading
-by contact), and *agaf* (a flank of troops spread like wings). *Shoresh Yesha*,
-invoking the gimmel and kaf interchange, relates ג-פ-נ to כ-פ-נ, famine, since
-wine makes a man hungry (Pesachim 107b to 108a).
+by contact), and *agaf* (a flank of troops spread like wings; in Modern Hebrew
+a department within a larger body). *Shoresh Yesha*, implicitly invoking the
+gimmel and kaf interchange, relates ג-פ-נ to כ-פ-נ, famine, since wine makes a
+man hungry (Pesachim 107b to 108a). The column further notes that in
+Ugaritic and Canaanite mythological texts the *gefen* is deified as an
+idolatrous god named Gapnu, understood there to be a messenger of Baal.
 
 ## Distinctions
 
 ### gefen (גפן) and sorek (שורק)
 *Gefen* is the default: its cognates appear 55 times in Tanach, against six for
-*shdeimah* and three for *sorek* and *sorekah*, and frequency alone marks it as
+*shdeimah* (Devarim 32:32; Yeshayahu 37:27, 16:8; Chavakuk 3:17; Yirmiyahu
+31:39; Melachim II 23:4) and three for *sorek* and *sorekah* (Bereishis 49:11,
+Yeshayahu 5:2, Yirmiyahu 2:21), and frequency alone marks it as
 the unmarked term. *Sorek* always carries a quality claim or names a particular
 part of the vine, never simply "a vine". Ibn Saruk also defines *shdeimah* as a
-*sorek*, which is part of why the three look like synonyms in *Ohel Moed*.
+*sorek*, a fact the column reports with a shrug; it is part of why the three
+look like synonyms in *Ohel Moed*.
 
 ### shdeimah (שדמה)
 See the dispute above. Pappenheim's route to it runs through the biliteral ש-ד,
@@ -108,14 +120,20 @@ a field juicy enough to nourish growth.
 
 ### sarig (שריג) and srak (סרק)
 *Sarig* appears twice in Chumash, in the butler's dream of a *gefen* with three
-*sarigim* (Bereishis 40:10, 40:12), and once in Yoel 1:7; it belongs with
-ש-ר-ג, entangling (Iyov 40:17, Eichah 1:14). *Srak* in Mishnaic Hebrew is a
-non-fruit-bearing tree (*Kilayim* 6:3, *Shevi'is* 1:3, *Bava Basra* 2:7).
-Kesubos 111b expounds *sorekah* of Bereishis 49:11, spelled with a sin, as
-though it were *srak* with a samech. Maharsha: a deliberate drashah on the
-spelling, and he grants that the *peshat* is about vines. Rivan there, and
-*Shitah Mekubetzes* in Rashi's name: even vines that would count as barren will
-yield plentifully.
+*sarigim* (Bereishis 40:10, 40:12), and once in Yoel 1:7; it seems to belong
+with ש-ר-ג, entangling (Iyov 40:17, Eichah 1:14). *Srak* in Mishnaic Hebrew is
+a non-fruit-bearing tree (*Kilayim* 6:3 and 6:5, *Shevi'is* 1:3, *Sotah* 8:3,
+*Bava Basra* 2:7, *Bechoros* 4:8). Describing the abundance of the Holy Land in
+Messianic times, Kesubos 111b expounds *sorekah* of Bereishis 49:11, spelled
+with a sin, as though it were *srak* with a samech, so that even trees that
+bear no fruit will yet bear fruit. That reading has seemingly nothing to do
+with grapevines, which is the question the passage raises. Maharsha (Rabbi
+Shmuel Eidels, 1555 to 1631): the rabbis expounded the word as though it were
+spelled with a samech, in an allusion to a *srak* tree, and he concedes that
+the plain sense of the pasuk they expound is about grapevines, not other trees.
+Alternatively Rivan there, Rashi's son-in-law (see also *Shitah Mekubetzes*
+there in Rashi's name): even grapevines that would otherwise count as barren
+will still yield a plentitude of grapes.
 
 ## Rendering guidance
 
@@ -142,6 +160,7 @@ cited: Bereishis 49:11 and 40:10 to 40:12; Devarim 32:32; Yeshayahu 5:2, 16:4,
 16:8, 37:27, 60:16; Yirmiyahu 2:21, 31:39; Chavakuk 3:17 (the article prints
 "Hab. 13:17" once; Chavakuk has only three perakim); Melachim II 23:4; Yoel
 1:7; Tehillim 32:4; Mishlei 9:3; Koheles 2:8; Bamidbar 11:8 and 21:15; Iyov
-40:17; Eichah 1:14; Pesachim 107b to 108a; Kesubos 111b with Maharsha, Rivan,
-and *Shitah Mekubetzes*; *Ohel Moed*, *Machberes Menachem*, and the *Sifrei
-HaShorashim*. The Ugaritic and Canaanite aside is omitted under house rule 9.
+40:17; Eichah 1:14; *Kilayim* 6:3 and 6:5, *Shevi'is* 1:3, *Sotah* 8:3, *Bava
+Basra* 2:7, *Bechoros* 4:8; Pesachim 107b to 108a; Kesubos 111b with Maharsha,
+Rivan, and *Shitah Mekubetzes*; *Ohel Moed*, *Machberes Menachem*, and the
+*Sifrei HaShorashim*.

@@ -7,9 +7,9 @@ english: [forgiveness, pardon, atonement]
 domain: action
 sources:
   - wiaw:8400 "Forms of Forgiveness" (2019-09-21) https://articles.ohr.edu/articles/forms-of-forgiveness
-authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Meth, Rabbi Yitzchak Eizik of Tirna, Rabbi Aharon Fuld, Rabbi Moshe Yitzchak Avigdor, Rabbi Yehuda Aszad, Rabbi Shlomo Pappenheim, Rabbi Yechezkel Landau, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Meth, Rabbi Yitzchak Eizik of Tirna, Rabbi Aharon Fuld, Rabbi Moshe Yitzchak Avigdor, Rabbi Yehuda Aszad, Rabbi Shlomo Pappenheim, Rabbi Yechezkel Landau, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Ernest Klein]
+status: reviewed
+updated: 2026-09-10
 ---
 # Forgiveness: mechilah / selichah / kapparah
 
@@ -23,8 +23,9 @@ forgoing what one is owed. *Kapparah* is **atonement**: every consequence of
 the sin wiped out (Rav Hirsch), at a price and usually through a korban
 (Malbim). The liturgy's סלח לנו, מחל לנו, כפר לנו wants three English words,
 "forgive us, pardon us, grant us atonement"; never let "forgive" cover all
-three. Rav Hirsch's three-way map is followed here because it is the only
-account that places all three words.
+three. Rav Hirsch's three-way map is followed here because, as the column says,
+it is slightly more comprehensive than the others: neither Mecklenburg nor
+Wertheimer addresses how their two words differ from *kapparah* at all.
 
 ## Distinctions
 
@@ -32,8 +33,10 @@ account that places all three words.
 Root ס-ל-ח. Close to fifty Biblical occurrences, most famously Hashem's answer
 to Moshe after the Meraglim, *salachti kidvarecha* (Bamidbar 14:20). Its
 cognates cluster around the forgiveness a korban brings (Vayikra 4:20-35,
-5:10-26); the column notes the linguists' link to Akkadian and Aramaic words
-for sprinkling, the blood on the mizbeach. Rabbi Moshe Meth (*Matteh Moshe*)
+5:10-26). The column notes that linguists connect *selichah* to the Akkadian
+*salahu* and the Aramaic *zelicha*, both meaning "sprinkling," which it says may
+be a reference to the sprinkling of the blood on the mizbeach, the main
+component of the korbanos. Rabbi Moshe Meth (*Matteh Moshe*)
 and Rabbi Yitzchak Eizik of Tirna (*Sefer HaMinhagim*): *selichah* pairs with
 *avon* (Bamidbar 14:19). Rabbi Yaakov Tzvi Mecklenburg: *selichah* is
 quantitatively the stronger, it reaches the whole sin, but only by deferring

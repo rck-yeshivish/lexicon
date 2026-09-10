@@ -29,7 +29,7 @@ and Malbim's distinction is exactly the difference between the two.
 ## Distinctions
 
 ### sove (סבא)
-Root ס-ב-א, some eight biblical occurrences for getting drunk or for the drink
+Root ס-ב-א, appearing at least eight times in Tanach for getting drunk or for the drink
 that does it. Menachem Ibn Saruk (*Machberes Menachem*) defines *sove* simply as
 *shichrus*, drunkenness. Rabbi Shlomo of Urbino (*Ohel Moed*) counts it as a
 fourth synonym for drinking. Malbim (*Yair Ohr*): *sove* is drinking things that

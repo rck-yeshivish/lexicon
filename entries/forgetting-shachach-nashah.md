@@ -10,9 +10,9 @@ words:
     nk: כַּחַשׁ
 sources:
   - wiaw:8389 "Forget About It" (2019-09-14) https://articles.ohr.edu/articles/forget-about-it
-authorities: [Rashi, Menachem Ibn Saruk, Ibn Chayyuj, Rabbeinu Yonah ibn Janach, Radak, Zohar, Tosafos Chachmei Anglia, Rabbeinu Bachya ibn Chalava, Rabbi Yehuda Chalava, Rabbi Binyamin Mussafia, Rabbi Shmuel HaLevi, Rabbi Avraham Menachem Rappaport, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi Ashkenazi, Malbim, Rav Hirsch, Rabbi Eliyahu Katz, Rabbi Yekusiel Yehudah Teitelbaum of Sighet, Rabbi Moshe Shapiro]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Menachem Ibn Saruk, Ibn Chayyuj, Rabbeinu Yonah ibn Janach, Radak, Zohar, Tosafos Chachmei Anglia, Rabbeinu Bachya ibn Chalava, Rabbi Yehuda Chalava, Rabbi Binyamin Mussafia, Rabbi Shmuel HaLevi, Rabbi Avraham Menachem Rappaport, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi Ashkenazi, Malbim, Rav Hirsch, Rabbi Eliyahu Katz, Rabbi Yekusiel Yehudah Teitelbaum of Sighet, Rabbi Moshe Shapiro, Daas Mikra, Robert Alter]
+status: reviewed
+updated: 2026-09-10
 ---
 # Forgetting: shachach / nashah
 
@@ -23,8 +23,8 @@ Devarim uses for every warning not to forget: **forget**. *Nashah* is rare and,
 on the majority reading, heavier: **forget entirely, put out of mind for good**.
 Malbim: what is *shachach* can still be recalled, what is *nashah* cannot. Rav
 Hirsch adds the moral note, that *nashah* attaches to a man who held the thing
-lightly, so the forgetting is his own fault. A minority (Rabbi Eliyahu Katz)
-denies any difference at all.
+lightly, so the forgetting is his own fault. Rabbi Eliyahu Katz disagrees with
+both of them and denies that there is any difference at all.
 
 ## Distinctions
 
@@ -38,11 +38,12 @@ Rav Hirsch (Bereishis 8:1): *shachach* is forgetting inadvertently; elsewhere
 something else. Malbim (Iyov 11:6): what is forgotten by *shachach* can be
 retrieved later.
 
-Rabbi Yekusiel Yehudah Teitelbaum of Sighet (*Yitav Lev* to Shemos 10:1) reads
-ש-כ-ח against its metathesis כ-ח-ש, deny or weaken: forget Hashem and your
-obligations to Him, and you will end by denying Him outright. On the same
-interchange, *Daas Mikra* explains *tishkach* in Tehillim 137:5 ("let my right
-hand be forgotten") as *tikchash*, let it be weakened.
+By way of metathesis, some connect ש-כ-ח to כ-ח-ש, deny or weaken, which uses
+the same letters. Rabbi Yekusiel Yehudah Teitelbaum of Sighet (*Yitav Lev* to
+Shemos 10:1) is the column's example: forget Hashem and your obligations to Him,
+and you will end by denying His existence outright. On the same interchange,
+Robert Alter and the editors of *Daas Mikra* explain *tishkach* in Tehillim
+137:5 ("let my right hand be forgotten") as *tikchash*, let it be weakened.
 
 Rabbi Moshe Shapiro on the Aramaic *shachiach*, common or frequent, which shares
 the root: one would expect the frequent thing to be the best remembered. Rather,
@@ -53,17 +54,19 @@ remember.
 ### nashah (נשה)
 The rare word. The unambiguous case is Yosef naming Menashe: *ki nashani
 Elokim es kol amali ve'es kol beis avi* (Bereishis 41:51). Rabbi Avraham
-Menachem Rappaport (*Minchah Belulah*) held that this is the only cognate in
-Tanach; the article shows others. Devarim 32:18 pairs both words in one pasuk,
-*tzur yeladcha teshi vatishkach Kel mecholelecha*, where *teshi* is the same
-root with the *nun* dropped for a *tav* (Rashi there). Further cases: Eichah
+Menachem Rappaport (*Minchah Belulah*) claimed that this is the only cognate in
+Tanach; the column answers that there seem to be a few more. Another possible
+case is Devarim 32:18, which pairs both words in one pasuk, *tzur yeladcha teshi
+vatishkach Kel mecholelecha*, where *teshi* is the same root with the *nun*
+dropped in favor of a *tav* (Rashi there). Further cases: Eichah
 3:17; Yirmiyahu 23:39; Yeshayahu 44:21; Iyov 39:17 and 11:6. The *gid hanasheh*
 (Bereishis 32:33) is read by the Zohar (Bereishis 170b) as food for the yetzer
 hara that makes a man forget his duties to Hashem, so the name itself is from
 *nashah*. The Gemara's *bei nasha* for a married woman's family of origin was
 explained in the same sense, that on marrying she leaves the first household
-behind: so *Tosafos Chachmei Anglia* to Kiddushin 24a, then Rabbi Yehuda
-Chalava and Rabbeinu Bachya ibn Chalava (each to Bereishis 41:51), and later
+behind and joins her husband's: so *Tosafos Chachmei Anglia* to Kiddushin 24a
+first, then Rabbi Yehuda Chalava (a son of the Maharam Chalava) and his cousin
+Rabbeinu Bachya ibn Chalava (each to Bereishis 41:51), and later
 Rabbi Binyamin Mussafia (*Musaf HaAruch*) and Rabbi Shmuel HaLevi (*Nachalas
 Shivah*).
 
@@ -83,10 +86,12 @@ Malbim (Iyov 11:6): *shachach* is recoverable, *nashah* is irretrievable.
 Rav Hirsch (Bereishis 8:1): *shachach* is inadvertent, *nashah* is what happens
 to a man who treated the matter flippantly, so he bears more blame for having
 forgotten; and (Devarim 4:9) *shachach* is displacement by another focus while
-*nashah* is a weakened memory. Rabbi Eliyahu Katz disagrees with both: the
-Targumim regularly render *shachach* and its cognates with *nashah*-words, so
-in his view *nashah* is simply the Aramaic for *shachach* and no distinction
-exists. The Bottom line follows Malbim and Rav Hirsch, the majority.
+*nashah* is a weakened memory. Rabbi Eliyahu Katz, formerly Chief Rabbi of
+Slovakia and later of Be'er Sheva, disagrees with both: the Targumim tend to
+render *shachach* and its cognates with *nashah*-words, which he takes as
+evidence that *nashah* is simply the Aramaic way of saying *shachach* and that
+no distinction exists. The Bottom line follows Malbim and Rav Hirsch; Rabbi
+Katz's dissent stays live.
 
 ## Rendering guidance
 
@@ -117,6 +122,6 @@ Rabbi Reuven Chaim Klein, "Forget About It," What's in a Word?, Ohr Somayach,
 Devarim 4:9, 4:23, 4:31, 6:12, 8:11, 8:14, 8:19, 9:7, 25:19, 26:13, 31:21,
 32:18; Bereishis 8:1, 32:33, 41:51; Eichah 3:17; Yirmiyahu 23:39; Yeshayahu
 44:21; Iyov 11:6, 39:17; Tehillim 137:5; Zohar Bereishis 170b; Kiddushin 24a;
-Chullin 75b; Shemos 10:1 (*Yitav Lev*). The article also quotes a
-twentieth-century academic Bible translator alongside *Daas Mikra* on Tehillim
-137:5; only *Daas Mikra* is carried here (house rule 9).
+Chullin 75b; Shemos 10:1 (*Yitav Lev*). Nothing the article carries is omitted
+here, including Robert Alter, whom it names alongside *Daas Mikra* on Tehillim
+137:5.
