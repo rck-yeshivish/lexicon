@@ -1,35 +1,9 @@
 {
  "truncated": [
-  "10698-be-my-guest.md",
-  "10818-bishalach-scribal-culture.md",
   "10883-vayikra-turning-the-corner-part-22.md",
   "11433-shelach-message-on-a-pole.md",
-  "11655-vayechi-good-and-pleasant.md",
-  "11793-tazriametzora-spot-on-tzarat.md",
-  "7039-why-which-why.md",
-  "7144-myself-and-i.md",
-  "7153-rabbi-of-robbers.md",
-  "7164-sacred-spaces.md",
-  "7176-party-hardy.md",
-  "7195-hats-and-belts.md",
-  "7204-jumping-for-passover-part-1.md",
-  "7218-jumping-for-passover-part-2.md",
-  "7251-when-just-counting-doesnt-count.md",
-  "7260-burke-and-rebuke.md",
-  "7292-deleterious-desires.md",
-  "7302-spy-versus-spy.md",
-  "7313-the-land-down-under.md",
-  "7321-slithering-serpents-and-sea-snakes-part-1.md",
-  "7332-united-we-fast.md",
-  "7341-slithering-serpents-and-sea-snakes-part-2.md",
-  "7357-tribesmen-stick-together.md",
-  "7366-words-of-destruction.md",
-  "7396-elul-1-trends-in-time.md",
-  "7409-elul-2-now.md",
-  "7426-forthwith-in-the-fourth-dimension.md",
-  "8573-running-on-willpower.md",
-  "9405-words-for-words.md",
-  "9534-piles-and-piles.md"
+  "11696-mishpatim-hidden-things.md",
+  "11793-tazriametzora-spot-on-tzarat.md"
  ],
  "mojibake": [
   "10060-nitzavimvayelechrh-the-shofars-horn-2.md",
@@ -44,5 +18,6 @@
   "11655-vayechi-good-and-pleasant.md",
   "9184-say-uncle.md",
   "9992-nitzavimvayelechrh-the-shofars-horn.md"
- ]
+ ],
+ "_note_truncated": "Four articles, confirmed damaged at the publisher: every ohr.edu code path (articles API, slug page, legacy numeric page, yhiy/article.php, RSS, print) and every Wayback capture from 2023 to 2025 cut at the identical word. Only the author can supply the rest. An earlier list of 41 was a detector artifact: 35 of those end on the standard dedication line, which carries no final period, and 2 more end on a real closing formula or a cut sponsorship credit. Do not test for truncation by trailing punctuation alone."
 }

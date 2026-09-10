@@ -6,7 +6,7 @@ date: 2025-02-22
 hebrew_date: "For the week ending 22 February 2025 / 24 Shvat 5785"
 url: https://articles.ohr.edu/articles/mishpatim-hidden-things
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
-truncated_upstream: "the body stops mid-sentence at the source; too recent for the author's mirror. Missing: the close of a sentence listing further hidden-words the essay does not treat."
+truncated_upstream: "the body stops mid-sentence at the source; too recent for the author's mirror. Missing: the close of a sentence listing further hidden-words the essay does not treat. Re-checked 2026-09-10: every Ohr Somayach code path (articles API, slug page, legacy numeric page, yhiy/article.php, RSS and print views) returns the identical cut, and it is already present in the Wayback capture of the legacy page (20250206190946), so the loss is in the stored row itself. No mirror carries the tail: the Times of Israel repost is either cut at the same word or is an abridged teaser pointing back to ohr.edu, and the Jewish Press syndication is a differently-scoped edit that stops before this passage."
 ---
 # Mishpatim: Hidden Things
 

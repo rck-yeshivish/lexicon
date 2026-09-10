@@ -6,6 +6,7 @@ date: 2018-01-27
 hebrew_date: "For the week ending 27 January 2018 / 11 Shevat 5778"
 url: https://articles.ohr.edu/articles/sweet-and-pleasant
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+not_truncated_verified: "not truncated: this is the article's real ending; the closing dedication line simply carries no final period, which is what tripped the tail heuristic; verified against Ohr Somayach's own pre-SPA page ohr.edu/this_week/whats_in_a_word/7715 as captured by the Wayback Machine (20220810181101), which ends at exactly the same point."
 ---
 # Sweet and Pleasant
 

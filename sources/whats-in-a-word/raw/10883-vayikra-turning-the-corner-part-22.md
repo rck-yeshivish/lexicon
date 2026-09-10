@@ -6,7 +6,7 @@ date: 2023-03-25
 hebrew_date: "For the week ending 25 March 2023 / 3 Nissan 5783"
 url: https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
-truncated_upstream: "the body stops mid-sentence in EVERY published copy (articles.ohr.edu API, the legacy ohr.edu/11134 page, and the author's Times of Israel mirror), so the tail is lost upstream, not by this harvest. Missing: the close of an aside on rosh tor and the letter aleph."
+truncated_upstream: "the body stops mid-sentence in EVERY published copy (articles.ohr.edu API, the legacy ohr.edu/11134 page, and the author's Times of Israel mirror), so the tail is lost upstream, not by this harvest. Missing: the close of an aside on rosh tor and the letter aleph. Re-checked 2026-09-10: every Ohr Somayach code path (articles API, slug page, legacy numeric page, yhiy/article.php, RSS and print views) returns the identical cut, and it is already present in the Wayback capture of the legacy page (20230929191332), so the loss is in the stored row itself. No mirror carries the tail: the Times of Israel repost is either cut at the same word or is an abridged teaser pointing back to ohr.edu, and the Jewish Press syndication is a differently-scoped edit that stops before this passage."
 ---
 # Vayikra: Turning the Corner (Part 2/2)
 

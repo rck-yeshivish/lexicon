@@ -6,6 +6,7 @@ date: 2017-11-11
 hebrew_date: "For the week ending 11 November 2017 / 22 Heshvan 5778"
 url: https://articles.ohr.edu/articles/maybe-yes-maybe-no
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+not_truncated_verified: "not truncated: this is the article's real ending; the closing dedication line simply carries no final period, which is what tripped the tail heuristic; verified against Ohr Somayach's own pre-SPA page ohr.edu/this_week/whats_in_a_word/7576 as captured by the Wayback Machine (20190721222559), which ends at exactly the same point."
 ---
 # Maybe Yes, Maybe No
 

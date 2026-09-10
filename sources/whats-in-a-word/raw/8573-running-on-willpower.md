@@ -6,6 +6,7 @@ date: 2020-01-25
 hebrew_date: "For the week ending 25 January 2020 / 28 Tevet 5780"
 url: https://articles.ohr.edu/articles/running-on-willpower
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+not_truncated_verified: "not truncated: the essay text and the author's contact line are complete; only the trailing sponsorship credit is cut off; verified against Ohr Somayach's own pre-SPA page ohr.edu/this_week/whats_in_a_word/8704 as captured by the Wayback Machine (20220810171408), which ends at exactly the same point."
 ---
 # Running on Willpower
 

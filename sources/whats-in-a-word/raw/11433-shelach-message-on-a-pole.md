@@ -6,7 +6,7 @@ date: 2024-06-29
 hebrew_date: "For the week ending 29 June 2024 / 23 Sivan 5784"
 url: https://articles.ohr.edu/articles/shelach-message-on-a-pole
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
-truncated_upstream: "the body stops mid-sentence at the source; too recent for the author's mirror, which runs about two years behind. Missing: the close of an aside on the Danish word spid."
+truncated_upstream: "the body stops mid-sentence at the source; too recent for the author's mirror, which runs about two years behind. Missing: the close of an aside on the Danish word spid. Re-checked 2026-09-10: every Ohr Somayach code path (articles API, slug page, legacy numeric page, yhiy/article.php, RSS and print views) returns the identical cut, and it is already present in the Wayback capture of the legacy page (20240627172606), so the loss is in the stored row itself. No mirror carries the tail: the Times of Israel repost is either cut at the same word or is an abridged teaser pointing back to ohr.edu, and the Jewish Press syndication is a differently-scoped edit that stops before this passage."
 ---
 # Shelach: Message on a Pole
 

@@ -173,9 +173,14 @@ grows out of returning, and a captive is forced into that same stillness.
 Mecklenburg holds that seven's cyclical importance is embedded in creation, since
 the week answers to no astronomical cycle as day, month, and year do; he points
 to the seven musical notes, and Rabbi Moshe Zuriel to the seven colors of the
-rainbow, to which the article adds the seven visible planets, the seven letters
-that take a *dagesh*, and the seven openings of the head (*Sefer Yetzirah* 4:3),
-while granting that notes and colors could be divided otherwise. The Shelah
+rainbow, to which the article adds the seven planets visible to the naked eye,
+the seven letters that take a *dagesh*, the seven orifices of the head (*Sefer
+Yetzirah* 4:3), and perhaps the reputed seven-chambered uterus. The column then
+qualifies itself: the first examples are not foolproof and could be understood
+as social constructs, since seven notes and seven colors of the rainbow may
+reflect no more than a human consensus that fixed on seven, and in reality the
+notes or the colors could be divided into any number, though we are not
+conditioned to think of them so. The Shelah
 closes the theme: Hashem made the world in six days and rested on the seventh to
 teach a man to use his seventy years (Tehillim 90:10) and waste none of them, and
 the mitzvos built on seven, the seven days of *chametz*, the seven days of *sheva
@@ -205,8 +210,10 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "The Year of Seven (Part 2 of 2)," What's in a Word?,
 Ohr Somayach, 20 Iyar 5782 (2022-05-21): raw text in
-`sources/whats-in-a-word/raw/9694-the-year-of-seven-part-2-of-2.md`. Part 1, "The
-Year of Slipping Away," treats *shemittah* and its neighbours. Primary loci the
+`sources/whats-in-a-word/raw/9694-the-year-of-seven-part-2-of-2.md`. The article
+says its first essay treated *shemittah*, "slipping away"; that piece is in this
+corpus as "The Year of Slipping Away (Part 1 of 2)." It also points the reader
+to its earlier "Stop! It's Shavuot" (May 2018) on the name *Atzeres*. Primary loci the
 article cites: Bereishis 4:24, 21:23-33, 24:9, 29:27-28; Shemos 23:11; Vayikra
 12:5, 23:11, 23:15-16, 25:2-8, 25:20, 26:18, 26:24, 26:28, 26:34-35; Bamidbar
 30:3; Devarim 6:13, 10:20, 15:12, 16:9; Mishlei 24:16; Tehillim 90:10 (the
@@ -214,6 +221,14 @@ article prints 90:19); Daniel 4:24, 9:25-27, 10:2-3; Nechemiah 10:32; Divrei
 HaYamim II 15:11-15, 36:21; *Shevuos* 36a; *Pesachim* 12a, 86a; *Moed Katan*
 12a; *Sotah* 44a; *Bava Metzia* 110b; *Sanhedrin* 97a; *Sefer Yetzirah* 4:2-3;
 *Sefer HaChinuch* mitzvah 330; the mishnayos listed above for *shabbos* as week
-and *shavua* as a seven-year cycle. The Brown-Driver-Briggs lexicon's account of
-the oath, which the article quotes, is omitted here under the Orthodox-sources
-rule.
+and *shavua* as a seven-year cycle.
+
+Two slips in the article are not repeated. In citing the seventy-year lifespan
+from the Shelah it prints Tehillim 90:19; that perek has seventeen pesukim and
+the verse is 90:10. And in giving the Omer pesukim it prints "Lev. 23:11,
+11:15-16," where the second reference is a garble for 23:15-16.
+
+The Brown-Driver-Briggs account of the oath, which the article quotes, was
+formerly omitted here under an Orthodox-sources rule that does not belong to this
+guide. It is restored: it is the link the column uses to get from the repetition
+argument to the seven treaty animals.

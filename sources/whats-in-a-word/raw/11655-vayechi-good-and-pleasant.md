@@ -6,6 +6,7 @@ date: 2025-01-11
 hebrew_date: "For the week ending 11 January 2025 / 11 Tevet 5785"
 url: https://articles.ohr.edu/articles/vayechi-good-and-pleasant
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+not_truncated_verified: "not truncated: the essay ends with the traditional formula recited on completing a book of the Torah, which is its real close; verified against Ohr Somayach's own pre-SPA page ohr.edu/this_week/whats_in_a_word/11935 as captured by the Wayback Machine (20250108180136), which ends at exactly the same point."
 ---
 # Vayechi: Good and Pleasant
 

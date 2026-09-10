@@ -6,6 +6,7 @@ date: 2017-11-25
 hebrew_date: "For the week ending 25 November 2017 / 7 Kislev 5778"
 url: https://articles.ohr.edu/articles/stones-and-high-altars
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+not_truncated_verified: "not truncated: this is the article's real ending; the closing dedication line simply carries no final period, which is what tripped the tail heuristic; verified against Ohr Somayach's own pre-SPA page ohr.edu/this_week/whats_in_a_word/7592 as captured by the Wayback Machine (20220810182310), which ends at exactly the same point."
 ---
 # Stones and High Altars
 

@@ -6,7 +6,7 @@ date: 2025-05-03
 hebrew_date: "For the week ending 3 May 2025 / 5 Iyar 5785"
 url: https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
-truncated_upstream: "the body stops mid-sentence at the source; too recent for the author's mirror. Missing: the close of the tzarua/metzora distinction."
+truncated_upstream: "the body stops mid-sentence at the source; too recent for the author's mirror. Missing: the close of the tzarua/metzora distinction. Re-checked 2026-09-10: every Ohr Somayach code path (articles API, slug page, legacy numeric page, yhiy/article.php, RSS and print views) returns the identical cut, and it is already present in the Wayback capture of the legacy page (20250414232251), so the loss is in the stored row itself. No mirror carries the tail: the Times of Israel repost is either cut at the same word or is an abridged teaser pointing back to ohr.edu, and the Jewish Press syndication is a differently-scoped edit that stops before this passage."
 ---
 # Tazria/Metzora: Spot on (Tzar'at)
 

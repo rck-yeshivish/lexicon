@@ -30,12 +30,12 @@ words:
   - he: במה
     tr: bamah
     en: private altar, high place
-    nk: בָּמָה
+    nk: בָּמָה
     distinct: brought into this cluster as the etymon of yavam, either as a gathering point of many (Rabbi Shlomo Pappenheim) or as elevation (Rabbi Yaakov Tzvi Mecklenburg)
 sources:
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Ibn Ezra, Meshech Chochmah, Rabbi Eliyahu HaBachur, Rabbi Tanchum HaYerushalmi, Ritva, Nimukei Yosef, Rabbi Yaakov Emden, Ibn Janach, Radak, Pri Megadim]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Sibling-in-law: yavam / yevamah / giss
@@ -47,7 +47,9 @@ widow**, or **brother-in-law** and **sister-in-law** where the mitzvah context i
 plain. *Giss* is the Mishnaic word, a man's word for his wife's brother and by
 most usage his sister's husband too. Biblical Hebrew has no general word for a
 sibling-in-law, only *eishes achiv*. English "brother-in-law" covers four
-relations, so name the relation rather than leaning on it.
+relations at once, a woman's husband's brother, a woman's sister's husband, a
+man's wife's brother and a man's sister's husband, so name the relation rather
+than leaning on it.
 
 ## At a glance
 
@@ -62,55 +64,132 @@ relations, so name the relation rather than leaning on it.
 
 ## Where the authorities disagree
 
-**Why the levir is a *yavam*.** Rabbi Shlomo Pappenheim traces it to the
-biliteral ב-מ, as in *bam*, "in them," a root of gathering: one has a single
-father-in-law, but marriage can bring any number of siblings-in-law at once, and
-*bamah*, the private altar, is his prime example of that root, a place where many
-gathered. Rabbi Yaakov Tzvi Mecklenburg prefers the plain sense of *bamah* as a
-high place: *yibbum* lifts up a childless widow, or elevates the brother's
-neshamah by raising a family in his name.
+**Why the levir is a *yavam*.** Rabbi Shlomo Pappenheim of Breslau (1740-1814)
+traces it to the biliteral ב-מ, whose core sense shows in *bam*, "in them" or
+"through them," which he further breaks down into two monoliteral roots, the beis
+of "in, through" and the mem of "them," so that the two-letter root denotes the
+conglomeration and meeting point of several parties. *Bamah*, the private altar,
+he derives from it as a site where many gathered in communal worship; *bamah*
+also means "high place," which the column notes many commentators take to be the
+word's original meaning, since such gatherings were usually held at elevated
+spots to be seen. Pappenheim then sets *yavam* against the other in-law terms: a
+spouse has only one father-in-law and one mother-in-law, so *choten* / *chosenes*
+and *cham* / *chamos* are always limited to one person, whereas marriage can
+bring any number of siblings-in-law at once, a kind of mass gathering of family.
+Rabbi Yaakov Tzvi Mecklenburg (1785-1865) cites Pappenheim but ultimately prefers
+another approach, connecting *yibbum* to *bamah* through the traditional sense of
+a high place: *yibbum* lifts up a downtrodden childless widow by marrying her and
+making her feel important again, or, he alternatively suggests, elevates the
+deceased brother's neshamah by establishing a family in his name.
 
 **What the verb *yibbum* does to her status.** Rabbi Shlomo Pappenheim: at the
-husband's death she ceased in practice to be a sister-in-law to the surviving
-brothers, and marrying her brings her back as a *yevamah*. Rabbi Wolf Heidenheim
-holds the reverse: halachically she never stopped being their *yevamah*, and
-*yibbum* removes that status by making her a wife, as *l'sharesh* means to uproot
-a *shoresh*. Ibn Ezra (Bereishis 38:8; *Meshech Chochmah* to Devarim 25:5) refers
-it to him: the brother-in-law doing what a brother-in-law should.
+husband's death she was no longer actively considered a sister-in-law to the
+surviving brothers, and one of them marrying her brings her back into the family
+as a *yevamah* to the rest, which is why the mitzvah is called *yibbum*. Rabbi
+Wolf Heidenheim (1757-1832) takes the exact opposite approach: *yibbum* does not
+reinstate a lost status, particularly since halachically she never stopped being
+a sister-in-law to her husband's brothers; rather it makes her a wife instead of
+a *yevamah* and so eliminates that status as regards him, on the pattern of
+*shoresh*, a root, against *l'sharesh*, to uproot. Ibn Ezra (Bereishis 38:8)
+seems to explain, alternatively, that *yibbum* refers not to the *yevamah* but to
+the *yavam*: it is the quintessential act of brother-in-lawing, the *yavam*
+acting as brothers-in-law should who take charge of a widowed sister-in-law and
+bring her into their own family (see also *Meshech Chochmah* to Devarim 25:5).
 
-**Whether *yavam* is a kinship word at all.** Rabbi Yaakov Tzvi Mecklenburg and
-others cited by Rabbi Wolf Heidenheim: *yavam* and *yevamah* name only the
-parties to the mitzvah, and the Rabbinic *giss* was coined to fill the gap. Ibn
-Ezra and Rabbi Eliyahu HaBachur use them as ordinary kinship terms.
+**Whether *yavam* is a kinship word at all.** Rabbi Mecklenburg and others, cited
+by Rabbi Heidenheim: Biblical Hebrew has no special word for brother-in-law or
+sister-in-law, the latter being *eishes achiv*, "his brother's wife" (Bereishis
+38:8-9; Vayikra 18:16, 20:21), and only later Rabbinic Hebrew introduced *giss* /
+*gissa*. On their view *yavam* / *yevamah* name specifically the parties to the
+mitzvah of *yibbum* and are not general kinship terms. Rabbi Heidenheim himself
+cites Ibn Ezra and HaBachur as clearly disagreeing, taking *yavam* / *yevamah* as
+kinship terms even outside a *yibbum* context.
 
 **What *giss* covers.** Rabbi Wolf Heidenheim: only a spouse's sibling or that
-sibling's spouse, so two men who married two sisters are *gissim*, but a
-sister's husband is not. His proof is *Sanhedrin* 3:4, which disqualifies *baal
-achoso* and *gisso* separately; Rabbi Tanchum HaYerushalmi agrees. Against this,
-Chullin 18b has Rabbi Yochanan address Reish Lakish as *gissa gissa*, and the
-Ritva notes that Reish Lakish had married his sister (Bava Metzia 84a); the
-*Nimukei Yosef* concludes that a sister's husband is a *giss*. Rabbi Eliyahu
-HaBachur cuts it by the speaker: a man says *giss*, a woman *yavam*, even where
-no *yibbum* applies (Zevachim 102a; Rus 1:15). The Bottom line follows HaBachur
-and the *Nimukei Yosef*, both fitting the Talmudic usage.
+sibling's spouse, so two men are *gissim* only if they married two sisters, and a
+man's sister's husband is not his *giss* even though English would call him a
+brother-in-law. His proof is the Mishnah (*Sanhedrin* 3:4), which lists the
+relatives disqualified from testifying and mentions *baal achoso*, his sister's
+husband, separately from *gisso*. Rabbi Tanchum HaYerushalmi, a thirteenth-century
+exegete who lived in Eretz Yisrael, defines *giss* as a man's wife's sister's
+husband, which the column reads as implying that his sister's husband is not his
+*giss*. The column then says Heidenheim's proof from the Mishnah is not
+foolproof: Chullin 18b has Rabbi Yochanan calling Reish Lakish *gissa gissa*,
+which the Ritva says recalls that Reish Lakish was married to Rabbi Yochanan's
+sister (Bava Metzia 84a), and on that basis the *Nimukei Yosef* (*Sanhedrin* 6a
+in the Alfasi pagination), written by a student of the Ritva, explains that a
+sister's husband can evidently still be called a *giss* despite the Mishnah's
+separate listing. Rabbi Eliyahu HaBachur (1469-1549) cuts it by the speaker: a
+man calls his wife's brother a *giss*, a woman calls her husband's brothers her
+*yavam*, even where the mitzvah of *yibbum* does not apply, as when the Midrash
+speaks of Moshe from the standpoint of his sister-in-law Elisheva, Aharon's wife,
+and the Gemara (Zevachim 102a) calls him her *yavam*; so too two women married to
+brothers call each other *yevamos* (Rus 1:15). For HaBachur both a man's sister's
+husband and his wife's brother may be called *giss*, so two men married to two
+sisters are *gissim*; he concedes that a man might call his brother's wife or his
+wife's sister *gisaso*, but holds that a borrowed rather than the primary sense.
+The Bottom line follows HaBachur and the *Nimukei Yosef*, both fitting the
+Talmudic usage.
 
-**Whether *choten* can mean brother-in-law.** Ibn Janach says yes, from Chovav
-ben Reuel, whom Bamidbar 10:29 makes Yisro's son and Shoftim 4:11 calls Moshe's
-*choten*. Radak says no: Chovav is another name for Yisro, so *choten* there is
-father-in-law as usual.
+**Whether *choten* can mean brother-in-law.** Ibn Janach (990-1050) says yes,
+adducing it from his understanding that Chovav ben Reuel was a son of Moshe's
+father-in-law Yisro/Reuel (Bamidbar 10:29), while Shoftim 4:11 describes Chovav
+as Moshe's *choten*. Radak (1160-1234) disagrees and clarifies that Chovav is
+another name for Yisro and Reuel was Chovav's father, so Chovav was Moshe's
+father-in-law and there is no proof at all that *choten* can mean brother-in-law.
+The column observes that both of them seem to disregard the Midrashic position
+that Reuel and Chovav are both alternate names for Yisro. It adds that there is
+precedent for Ibn Janach's assertion in other languages: the Akkadian cognate of
+*choten* can mean both father-in-law and brother-in-law, and in Yiddish
+*shvugger*, brother-in-law, and *shver*, father-in-law, ultimately derive from a
+shared etymon, *swehuraz* in proto-Germanic and *swekuros* in proto-Indo-European.
 
 ## Distinctions
 
+### yavam and yevamah (יבם, יבמה)
+The starting point is the mitzvah of *yibbum*: when a married man dies childless,
+one of his brothers must marry the widowed sister-in-law (Devarim 25:5). The
+*yavam* is the deceased's brother and the *yevamah* the deceased's widow, the two
+commanded to marry each other; the English "levirate marriage" comes from the
+Latin *levir*, brother-in-law. On the Talmudic principle that a man and his wife
+are considered one, Rabbi Pappenheim broadens *yavam* / *yevamah* to take in a
+spouse's sibling's spouse as well, citing Rus 1:15, where Naomi calls Orpah Rus's
+*yevamah* although she was Rus's husband's brother's wife; the column notes the
+same usage in the Mishnah (*Yevamos* 15:4), where *yevamah* is a woman's
+husband's brother's wife.
+
 ### giss (גיס)
 Root ג-ס, which does not appear in Tanach at all; the two letters never stand
-adjacent there. In Mishnaic Hebrew it yields "mix" (*Pesachim* 5:10), "army"
-(*Rosh Hashanah* 2:5), "thick" (*Shabbos* 4:1), and "intimate" (*Yevamos* 4:10,
-*Avos* 4:7). Rabbi Yaakov Emden reads *giss* from the last. All four sit under
-"mixing": an army is fighters mixed for one cause, thickness is mass gathered in
-one place, and marriage mixes two families, which brings the word close to Rabbi
-Shlomo Pappenheim's ב-מ. It also gives *gassus ruach*, haughtiness, and in
-Aramaic *gissa*, a side. Rabbi Eliyahu HaBachur vocalizes *gass*; the *Pri
-Megadim* notes the spelling with a yod, supporting *giss*.
+adjacent anywhere in it. In Mishnaic Hebrew the two-letter string yields four
+senses, each with a long list of loci in the article: "mixing" (among them
+*Pesachim* 5:10), "army" (*Rosh Hashanah* 2:5), "thick" (*Shabbos* 4:1), and
+"familiar, intimate" (*Yevamos* 4:10, *Avos* 4:7). Rabbi Yaakov Emden (1697-1776)
+submits that *giss* as brother-in-law relates to the last of these, connoting
+closeness and family intimacy. The column then offers its own suggestion, that
+all four senses may derive from a core meaning of mixing: an army is fighters
+mixed for a common cause, thickness is mass concentrated in one place, and
+intimacy is two parties joined close, so that *giss* / *gissa* fits a root about
+families mixing together in matrimony, which it says is reminiscent of Rabbi
+Pappenheim's ב-מ.
+
+The same root gives *gassus* or *gassus ruach*, haughtiness (*Avos* 4:7 and
+Targum to Tehillim 10:2, 10:4, 76:13, 101:5, and Mishlei 16:18), the arrogant man
+feeling higher and more important than others, which the column notes would make
+words related to *giss* semantically close to Rabbi Mecklenburg's reading of
+*yibbum* as elevation. In Talmudic Aramaic *gissa* also means "side" (see Targum
+to Vayikra 3:4 and Yeshayahu 60:4, 66:12), which the column suggests, as a
+"perhaps," may relate to the sibling-in-law standing figuratively on the other
+side of the family tree.
+
+HaBachur vocalizes the word *gass*; Rabbi Yosef Teomim-Frankel (1727-1792),
+author of the *Pri Megadim*, points out that it is sometimes written with a yod
+between the gimmel and the samech, which supports vocalizing the gimmel with a
+chirik as is the common practice. Some versions of the Mishnah, that printed in
+the Yerushalmi and the Kaufmann manuscript, spell it with an initial aleph,
+*agiss*. In Modern Hebrew aleph-gimmel-samech, *agas*, is a pear, and in the
+Mishnah (*Kilayim* 1:4, *Maasros* 1:3, *Uktzin* 1:6) it certainly names some sort
+of fruit; the column adds, as an irony, that *agiss* has become the accepted
+Israeli spelling of the diaper brand "Huggies."
 
 ## Rendering guidance
 
@@ -131,12 +210,24 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Sort of Siblings," What's in a Word?, Ohr Somayach, 13
-Elul 5781 (2021-08-21): https://articles.ohr.edu/articles/sort-of-siblings; raw
-text in `sources/whats-in-a-word/raw/9338-sort-of-siblings.md`. Primary loci:
-Devarim 25:5; Bereishis 38:8-9; Vayikra 18:16, 20:21; Rus 1:15; Bamidbar 10:29;
-Shoftim 4:11; *Mishnah Yevamos* 15:4; *Mishnah Sanhedrin* 3:4; Chullin 18b with
-Ritva; Bava Metzia 84a; Zevachim 102a; *Nimukei Yosef*, Sanhedrin 6a in the Rif
-pagination; Ibn Ezra to Bereishis 38:8; *Meshech Chochmah* to Devarim 25:5. The
-article's closing comparisons to Akkadian and Germanic kinship terms are omitted
-under the house rule limiting sources to Torah authorities.
+Rabbi Reuven Chaim Klein, "Sort of Siblings," What's in a Word?, Ohr Somayach,
+for the week ending 21 August 2021 / 13 Elul 5781:
+https://articles.ohr.edu/articles/sort-of-siblings; raw text in
+`sources/whats-in-a-word/raw/9338-sort-of-siblings.md`. Primary loci the article
+cites: Devarim 25:5; Bereishis 38:8-9; Vayikra 3:4, 18:16, 20:21; Rus 1:15;
+Bamidbar 10:29; Shoftim 4:11; Yeshayahu 60:4, 66:12; Tehillim 10:2, 10:4, 76:13,
+101:5; Mishlei 16:18; *Mishnah Yevamos* 15:4 and 4:10; *Mishnah Sanhedrin* 3:4;
+*Mishnah Pesachim* 5:10; *Rosh Hashanah* 2:5; *Shabbos* 4:1; *Avos* 4:7;
+*Kilayim* 1:4; *Maasros* 1:3; *Uktzin* 1:6; Chullin 18b with Ritva; Bava Metzia
+84a; Zevachim 102a; *Nimukei Yosef*, Sanhedrin 6a in the Alfasi pagination; Ibn
+Ezra to Bereishis 38:8; *Meshech Chochmah* to Devarim 25:5. The article's lists
+of loci for the four Mishnaic senses of ג-ס are much longer than the samples
+kept above, which are drawn from those lists. It gives no locus for Rabbi
+Pappenheim, Rabbi Mecklenburg, Rabbi Heidenheim, Rabbi Emden, HaBachur, Rabbi
+Tanchum, Ibn Janach or Radak. Restored in this pass, having previously been
+dropped: the Latin *levir* behind "levirate marriage"; the Akkadian cognate of
+*choten* and the Yiddish *shvugger* / *shver* pair with their proto-Germanic
+*swehuraz* and proto-Indo-European *swekuros*, which are the article's only
+support for the Ibn Janach position the entry already carried; and the column's
+note that Ibn Janach and Radak both seem to disregard the Midrashic position that
+Reuel and Chovav are alternate names for Yisro.
