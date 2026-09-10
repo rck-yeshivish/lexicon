@@ -268,7 +268,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 </head>
 <body data-up="{up}">
 <header class="site{'' if header_search else ' bare'}">
-  <a class="brand" href="{up}index.html">Lexicon</a>
+  <a class="brand" href="{up}index.html" aria-label="What&rsquo;s in a Word? — back to the start">What&rsquo;s in a Word?</a>
   {'<div class="hsearch"><input id="q" type="search" placeholder="Search Hebrew or English" autocomplete="off" spellcheck="false" dir="auto"><div id="ac" class="ac" hidden></div></div>' if header_search else ''}
   <nav class="seg">
     <a href="{up}hebrew.html" class="{'on' if active == 'he' else ''}">Hebrew</a>
@@ -280,7 +280,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 </main>
 <footer>
   <p>Grounded only in Orthodox sources. Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
-  <p class="muted">Drawn from <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein (Ohr Somayach). Each entry links to the essay it rests on.</p>
+  <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach.</p>
 </footer>
 <script src="{up}assets/app.js"></script>
 {extra_js}
@@ -309,7 +309,7 @@ def entry_page(e):
                "Where the authorities disagree": "disagree"}.get(headname, "")
         parts.append(f'<section class="{cls}"><h2>{html.escape(headname)}</h2>{md(mdtext)}</section>')
     parts.append("</article>")
-    return shell(f'{e["cluster"]} — Lexicon', "\n".join(parts), depth=1, active="")
+    return shell(f'{e["cluster"]} — What’s in a Word?', "\n".join(parts), depth=1, active="")
 
 
 # ------------------------------------------------------------------------ build
@@ -344,10 +344,14 @@ def main():
 
     n_words, n_entries = len(words), len(entries)
     home = f'''<section class="hero">
-  <h1>Which English word does it take?</h1>
-  <p class="lede">{n_words:,} Hebrew headwords across {n_entries} clusters of near-synonyms.
-  Each entry gives every word its own English and attributes the distinction to the
-  authority who draws it.</p>
+  <div class="banner">
+    <h1 class="wm">What&rsquo;s in a Word?</h1>
+    <p class="wm-sub">Synonyms in the Hebrew Language</p>
+    <p class="wm-by">By Rabbi Reuven Chaim Klein</p>
+  </div>
+  <p class="lede">An English rendering guide built on the column: {n_words:,} Hebrew headwords
+  across {n_entries} clusters of near-synonyms, each word given its own English and every
+  distinction attributed to the authority who draws it.</p>
   <div class="bigsearch">
     <svg viewBox="0 0 24 24" class="mag" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
     <input id="q" type="search" placeholder="Type Hebrew or English&hellip;" autocomplete="off" spellcheck="false" dir="auto">
@@ -361,7 +365,7 @@ def main():
   <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p>Alef to tuf, every headword in order.</p></a>
   <a class="card" href="english.html"><h3>Browse English</h3><p>A to Z, from the English back to the Hebrew.</p></a>
 </section>'''
-    emit("index.html", shell("Lexicon — Hebrew to English, precisely", home, header_search=False))
+    emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
 
     letters = "".join(f'<button class="ltr" data-l="{l}">{l}</button>' for l in ALEFBET)
     he_body = f'''<section class="browse">
@@ -370,7 +374,7 @@ def main():
   <div class="letters heb">{letters}</div>
   <div id="list" class="rows"></div>
 </section>'''
-    emit("hebrew.html", shell("Hebrew — Lexicon", he_body, active="he",
+    emit("hebrew.html", shell("Hebrew — What’s in a Word?", he_body, active="he",
                               extra_js='<script>initBrowse("he");</script>'))
 
     en_letters = "".join(f'<button class="ltr" data-l="{c}">{c}</button>'
@@ -381,7 +385,7 @@ def main():
   <div class="letters">{en_letters}</div>
   <div id="list" class="rows"></div>
 </section>'''
-    emit("english.html", shell("English — Lexicon", en_body, active="en",
+    emit("english.html", shell("English — What’s in a Word?", en_body, active="en",
                                extra_js='<script>initBrowse("en");</script>'))
 
     emit("assets/app.css", CSS)
@@ -403,10 +407,12 @@ CSS = r""":root{
   --bg:#fbfbfd; --panel:#fff; --ink:#1d1d1f; --dim:#6e6e73; --faint:#86868b;
   --line:#e3e3e6; --accent:#0066cc; --accent-soft:#e8f0fe; --shadow:0 1px 3px rgba(0,0,0,.06),0 8px 28px rgba(0,0,0,.05);
   --radius:14px; --heb:"SF Hebrew","Noto Sans Hebrew","Arial Hebrew","Times New Roman",serif;
+  --brand:#14601f; --brand-sub:#2f6b3a;
 }
 @media (prefers-color-scheme:dark){:root{
   --bg:#000; --panel:#1c1c1e; --ink:#f5f5f7; --dim:#a1a1a6; --faint:#8a8a8e;
   --line:#2c2c2e; --accent:#409cff; --accent-soft:#12243c; --shadow:0 1px 3px rgba(0,0,0,.5);
+  --brand:#5fbf72; --brand-sub:#89c996;
 }}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -422,7 +428,9 @@ header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap
   padding:11px 22px;background:color-mix(in srgb,var(--bg) 82%,transparent);
   backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);
   border-bottom:1px solid var(--line)}
-.brand{font-weight:600;letter-spacing:-.01em;color:var(--ink);font-size:16px;flex:0 0 auto}
+.brand{font-weight:800;letter-spacing:-.015em;color:var(--brand);font-size:17px;flex:0 0 auto;
+  white-space:nowrap}
+.brand:hover{text-decoration:none;opacity:.75}
 .hsearch{flex:1 1 auto;position:relative;max-width:520px;margin:0 auto}
 .hsearch input{width:100%;height:36px;padding:0 14px;border:1px solid var(--line);
   border-radius:10px;background:var(--panel);color:var(--ink);font-size:15px;outline:none}
@@ -434,9 +442,16 @@ header.bare .brand{flex:1}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
 
 /* home -------------------------------------------------------------------- */
-.hero{padding:86px 0 30px;text-align:center}
+.hero{padding:64px 0 30px;text-align:center}
+.banner{margin:0 0 30px}
+.wm{font-weight:800;color:var(--brand);font-size:52px;line-height:1.02;
+  letter-spacing:-.025em;margin:0 0 6px}
+.wm-sub{color:var(--brand-sub);font-size:20px;font-weight:600;margin:0 0 14px;
+  letter-spacing:-.005em}
+.wm-by{color:var(--ink);font-size:19px;margin:0;font-weight:400}
+@media (max-width:640px){.wm{font-size:34px}.wm-sub{font-size:16px}.wm-by{font-size:16px}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
-.lede{color:var(--dim);font-size:19px;max-width:620px;margin:0 auto 34px}
+.lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
 .bigsearch{position:relative;max-width:620px;margin:0 auto}
 .bigsearch input{width:100%;height:60px;padding:0 22px 0 54px;font-size:19px;
   border:1px solid var(--line);border-radius:16px;background:var(--panel);color:var(--ink);
