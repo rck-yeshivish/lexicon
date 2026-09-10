@@ -336,8 +336,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 {body}
 </main>
 <footer>
-  <p>Grounded only in Orthodox sources. Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
-  <p class="muted">The entries are checked for sources and consistency, but have not yet been read one by one against the essays they rest on.</p>
+  <p>Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
   <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach.</p>
 </footer>
 <script src="{up}assets/{ASSETS["js"]}"></script>
@@ -514,8 +513,8 @@ def main():
 > disagree, the entry names the views rather than picking one silently.
 
 Built on Rabbi Reuven Chaim Klein's column "What's in a Word?" (Ohr Somayach).
-Every entry cites the essay it rests on. Sources are Orthodox only: no academic
-Semitics, no comparative Ugaritic or Akkadian, no Gesenius or BDB.
+Every entry cites the essay it rests on, and reports what that essay cites,
+attributed as he attributes it. Nothing is brought in from outside the essays.
 
 ## Machine-readable data
 

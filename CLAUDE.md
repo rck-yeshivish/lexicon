@@ -1,9 +1,9 @@
 # Lexicon
 
-A Hebrew-to-English translation guide, written for LLMs and grounded only in
-Orthodox sources. Each entry takes one cluster of near-synonyms, gives every
-word its own English, and attributes each distinction to the authority who
-draws it. Where authorities disagree, the entry says so and names them.
+A Hebrew-to-English translation guide, written for LLMs. Each entry takes one
+cluster of near-synonyms, gives every word its own English, and attributes each
+distinction to the authority who draws it. Where authorities disagree, the entry
+says so and names them.
 
 Read `README.md` first. It explains the format, why it is shaped this way, and
 the protocol for looking a word up.
@@ -23,9 +23,11 @@ the protocol for looking a word up.
    named authority in a real source. If the sources are silent, the entry says
    they are silent. A rendering with nothing behind it is a judgment call and
    must be labelled as one.
-2. **Orthodox sources only.** No academic Semitics, no comparative Ugaritic or
-   Akkadian derivation, no Gesenius, BDB, HALOT or Even-Shoshan. Where a source
-   article leans on them, the entry says what was left out and why.
+2. **Report what the article cites, whatever its provenance.** The article is
+   the conduit, not the authority. If Rabbi Klein brings Gesenius, an Akkadian
+   or Ugaritic cognate, a Greek or Latin etymology, or a named academic, that
+   material belongs in the entry, attributed the way he attributes it. What you
+   may not do is bring in material of your own from outside the article.
 3. **Disputes stay disputes.** Name each view and its holder, say which the
    Bottom line follows. Never smooth a machlokes into one answer.
 4. **No em dashes.** Commas, semicolons, parentheses, or recast.

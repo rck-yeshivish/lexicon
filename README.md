@@ -1,9 +1,9 @@
 # Lexicon: a Hebrew-to-English translation guide for LLMs
 
 A guide to rendering Hebrew (Biblical, Rabbinic, and *mussar* vocabulary) into
-precise English, written in the form an LLM uses best and grounded only in
-Orthodox sources. Each entry takes one cluster of near-synonyms, gives each word
-its own English, and attributes every distinction to the authority who draws it.
+precise English, written in the form an LLM uses best. Each entry takes one
+cluster of near-synonyms, gives each word its own English, and attributes every
+distinction to the authority who draws it.
 
 It is meant to be used by any translation project. A project keeps its own house
 rulings in its own overlay file; the guide stays general.
