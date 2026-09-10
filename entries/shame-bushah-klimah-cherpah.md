@@ -61,9 +61,7 @@ changes nothing in translation but everything in a derashah.
    this a general rule for every set of synonyms in Tanach.
 2. **Sequence, not intensity.** Rabbi Yehuda Leib Shapira-Frankfurter: *bushah*
    is the shaming act that causes it, *klimah* the shame that results, so the
-   order is cause then effect. He explicitly rejects the intensity reading, and
-   rejects with it the blush-then-pale account of a Maskilic writer that the
-   column records and dismisses.
+   order is cause then effect. He rejects the intensity reading outright.
 
 **Which word is the most intense.** Bedersi says *klimah*. Malbim says
 *chafrah*, one who would bury his head. They are not reconcilable; follow
@@ -110,7 +108,7 @@ he could achieve anything without Hashem.
 
 Minority readings of the *bushah*/*klimah* order treat it as sequence rather
 than intensity: Rabbi Yehuda Leib Shapira-Frankfurter (cause, then the shame it
-produces). The column records and rejects a Maskilic blush-then-pale reading.
+produces).
 
 ## Rendering guidance
 

@@ -73,6 +73,14 @@ the line, say the sources do not separate the words. That is a finding.
   on). Where they disagree, list the views; the Bottom line picks the majority
   or most useful reading and says which. **Never invent** a source, a
   distinction, or an authority the article does not give.
+- **Do not import a view only to reject it.** If a reading comes from outside
+  the sources this guide admits, leave it out entirely rather than record it and
+  dismiss it. It teaches the reader nothing about how to render the word, and
+  putting an excluded voice in the text does not become acceptable because a
+  rejection follows. This does **not** apply between the authorities we do use:
+  Radak rejecting Ibn Janach is the machlokes, and belongs in the entry. Where
+  an authority's argument only makes sense as a response to an excluded view,
+  give his positive claim and drop the polemic.
 - **Orthodox sources only** (house rule 9). Leave out Gesenius, BDB, HALOT,
   Klein's etymological dictionary, Even-Shoshan, academic Semitics, and
   comparative Ugaritic or Akkadian derivations. Say in the Sources paragraph
