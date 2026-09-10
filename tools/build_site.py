@@ -371,7 +371,7 @@ def main():
     <button class="chip" data-q="humiliation">humiliation</button></p>
 </section>
 <section class="split">
-  <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">מאל&rdquo;ף ועד תי&rdquo;ו</p></a>
+  <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">מא&#1523; ועד ת&#1523;</p></a>
   <a class="card" href="english.html"><h3>Browse English</h3><p>A to Z, from the English back to the Hebrew.</p></a>
 </section>'''
     emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
@@ -379,7 +379,7 @@ def main():
     letters = "".join(f'<button class="ltr" data-l="{l}">{l}</button>' for l in ALEFBET)
     he_body = f'''<section class="browse">
   <h1>Hebrew</h1>
-  <p class="lede" dir="rtl" lang="he">מאל&rdquo;ף ועד תי&rdquo;ו</p>
+  <p class="lede" dir="rtl" lang="he">מא&#1523; ועד ת&#1523;</p>
   <div class="letters heb">{letters}</div>
   <div id="list" class="rows"></div>
 </section>'''
@@ -501,7 +501,7 @@ header.bare .brand{flex:1}
 .browse{padding:46px 0 0}
 .browse h1{font-size:36px;letter-spacing:-.02em;font-weight:600;margin:0 0 8px;text-align:center}
 .browse > .lede{text-align:center}
-.letters{display:flex;flex-wrap:wrap;gap:7px;margin:26px 0 30px;
+.letters{display:flex;flex-wrap:wrap;justify-content:center;gap:7px;margin:26px 0 30px;
   padding-bottom:22px;border-bottom:1px solid var(--line)}
 .letters.heb{direction:rtl}
 .ltr{min-width:44px;height:44px;padding:0 8px;border:1px solid var(--line);background:var(--panel);
@@ -512,12 +512,14 @@ header.bare .brand{flex:1}
 .ltr.on{background:var(--accent);border-color:var(--accent);color:#fff}
 .ltr[disabled]{opacity:.3;cursor:default}
 .rows{display:flex;flex-direction:column}
-.rows .r{display:grid;grid-template-columns:150px 1fr;gap:20px;align-items:baseline;
-  padding:14px 6px;border-bottom:1px solid var(--line)}
-.rows.en3 .r{grid-template-columns:1fr 150px 200px}
+.rows .r{display:grid;grid-template-columns:130px 1fr;gap:18px;align-items:first baseline;
+  padding:15px 6px;border-bottom:1px solid var(--line)}
+.rows.en3 .r{grid-template-columns:minmax(0,230px) minmax(0,130px) minmax(0,1fr)}
 .rows .r{color:var(--ink)}
 .rows .rhead{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);
   font-weight:600;padding-bottom:8px;border-bottom:1px solid var(--line)}
+.rows:not(.en3) .rhead span:first-child{text-align:right}
+.rows.en3 .h{text-align:left}
 .rows .rhead:hover{background:none}
 .rows .r:hover{background:var(--panel);text-decoration:none}
 .rows .h{font-family:var(--heb);font-size:24px;direction:rtl;text-align:right}
