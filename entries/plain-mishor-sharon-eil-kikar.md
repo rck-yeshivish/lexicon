@@ -13,7 +13,7 @@ words:
   - he: שרון
     tr: sharon
     en: fertile plain
-    distinct: not any plain but one saturated with rich soil and fit for farming (Radak); Rabbi Shlomo Pappenheim makes it a plain set off against a nearby mountain; in Tanach usually the proper name of the coastal plain
+    distinct: not any plain but one saturated with rich soil and fit for farming (Radak); Rabbi Shlomo Pappenheim makes it a plain set off against a nearby mountain; in Tanach the proper name of the coastal plain in at least some cases, if not all
   - he: איל
     tr: eil
     en: plain (fertile)
@@ -31,11 +31,11 @@ words:
   - he: פדן
     tr: padan
     en: field, plain
-    distinct: the Aramaic of sadeh, proved by Hoshea calling the same place Sdeh Aram (Rashi, Ibn Ezra)
+    distinct: the Aramaic of sadeh, which Shadal proves from Hoshea calling the same place Sdeh Aram; Rashi and Ibn Ezra render it plain or field
 sources:
   - wiaw:11608 "Vayeitzei: Name of the Plain" (2024-12-07) https://articles.ohr.edu/articles/vayeitzei-name-of-the-plain
-authorities: [Rashi, Ibn Ezra, Targum Onkelos, Ramban, Ibn Janach, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Rabbi Shmuel Masnuth, Rabbi Hai Gaon, Sefer HaAruch, Rabbi Shlomo of Urbino, Rambam, Rabbi Yishaya of Trani, Rabbi Yosef Kara, Rabbi David Tzvi Hoffmann, Rabbi Aharon Marcus]
-status: draft
+authorities: [Rashi, Ibn Ezra, Targum Onkelos, Bereishis Rabbah, Ramban, Ibn Janach, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Rabbi Shmuel Masnuth, Rabbi Hai Gaon, Sefer HaAruch, Rabbi Shlomo of Urbino, Rambam, Rabbi Yishaya of Trani, Rabbi Yosef Kara, pseudo-Rashbam, Shadal, Rabbi David Tzvi Hoffmann, Rabbi Ernest Klein, Rabbi Aharon Marcus, Even-Shoshan concordance]
+status: reviewed
 updated: 2026-09-10
 ---
 # Plain: mishor / sharon / eil / kikar (avel, padan)
@@ -72,10 +72,14 @@ straightness, so a *mishor* in a mussar passage is uprightness, not geography.
 2. **The proper name of a specific plain.** Rashi himself, against Onkelos. On
    his reading each plain has its own name: the Paran plain is Eil, the Mamre
    plain Eilonei (Bereishis 13:18, 14:13, 18:1), the Yarden plain Kikar
-   (Bereishis 13:10-11), the Shittim plain Avel (Bamidbar 33:49), the Gad plain
-   Baal (Yehoshua 11:17, 12:7, 13:5). Targum flattens all of them to *meishar*
-   because *meishar* is the generic word. (Chizkuni to Bamidbar 21:25 and 22:41
-   supplies further instances of *baal* for a plain.)
+   (Bereishis 13:10-11), the Shittim plain Avel (Bamidbar 33:49, as Rashi notes
+   there too), the Gad plain Baal (Yehoshua 11:17, 12:7, 13:5). Targum flattens
+   all of them to *meishar* because *meishar* is the generic word. (Chizkuni to
+   Bamidbar 21:25 and 22:41 supplies further instances of *baal* for a plain.)
+   The column adds an aside it does not pursue: both El and Baal were names of
+   Canaanite deities, both were used as epithets for Hashem, and on this reading
+   of Rashi both were apparently also words for "plain"; there is more to say
+   about that, it writes, but for another time.
 3. **Wooded land in front of a city.** Ramban (to Bereishis 14:6) rejects both,
    citing the old practice of planting trees at a city's entrance, and ties
    *eil* / *eilonei* to *elah* (terebinth) and *alon* (oak). Rabbi Shmuel
@@ -90,36 +94,51 @@ plain, but denies they are interchangeable: *mishor* is flatness as such, which
 may be dry sandy steppe good for neither sowing nor pasture, while *eil* /
 *eilonei* is a plain that matters in its own right, a fertile biome fit for
 crops or grazing. He grounds this in א-ל as "power," alluded to in the Zohar
-(*Vayera* 97b) reading *eilonei* as *tokef*; the same root gives *ayil* (the
-ram, strongest of an otherwise weak family), *alyah* (its fatty tail), and
-*elah* / *alon* (trees with thick roots and hard wood). Rabbi Shlomo Pappenheim
-in *Cheshek Shlomo* develops א-ל at length in the same direction, and Rav Hirsch
-(to Bereishis 12:6) reads the aleph-(yud)-lamed string as "the power to develop
-and move forward," extending it to a plain that runs far or cuts a level surface
-through hill country. Ibn Ezra there reads *elon* simply as trees or forest, or
-as field or plain.
+(*Vayera* 97b) reading *eilonei* as *tokef*; the same root gives *ayil* (the ram,
+the strongest member of an otherwise weak ovicaprine family; see also *HaKsav
+VeHaKabbalah* to Vayikra 1:9), *alyah* (its especially fatty tail, as though its
+power came from there), and *elah* / *alon* (trees with especially thick roots
+and hard, strong wood). Rabbi Shlomo Pappenheim in *Cheshek Shlomo* develops א-ל
+at great length in the same direction. On Elon Moreh, Avraham's first stop on
+entering the land (Bereishis 12:6), Ibn Ezra reads *elon* simply as trees or
+forest, or as field or plain, and Rav Hirsch there expands it, relating *elon* to
+the Aramaic *ilan* ("tree") and to *elah* and *alon*, and reading the
+aleph-(yud)-lamed string generally as "the power to develop and move forward,"
+close to Mecklenburg's understanding, which he extends to a plain that stretches a
+great distance or paves a level surface through otherwise hilly country.
 
 **Whether sharon is a common noun.** Ibn Ezra, Rabbi Yishaya of Trani, Rabbi
 Yosef Kara, pseudo-Rashbam, and Rambam (commentary to Bava Basra 6:2) gloss
 *sharon* in Shir HaShirim 2:1 as *mishor*, a plain. Rabbi Hai Gaon (to Niddah
 2:7) and *Sefer HaAruch* take it as the flatlands of Eretz Yisrael as against the
 hills around Yerushalayim (compare Tehillim 125:2), which is a place-name.
-In at least some occurrences, and possibly all seven, it is the name of the
-coastal plain.
+In at least some of its seven occurrences, if not all of them, it is the name of
+the coastal plain: in modern usage the Sharon is the central stretch of the
+Israeli coastal plain between the Mediterranean and the hills of Shomron, taking
+in Netanya, Herzliya, Ramat HaSharon and Ra'anana. The English given name Sharon,
+and its Latinate form Sharona, are borrowed from that region.
 
-**How sharon differs from mishor.** Radak: *sharon* is a plain saturated with
-fertile soil, unusually good for agriculture, on the root ש-ר-ה shared with
-*siryon* (armor, protecting) and *mishras* (something soaked). Rabbi Pappenheim
+**How sharon differs from mishor.** Ibn Janach and Radak, each in his *Sefer
+HaShorashim*, suggest the root ש-ר-ה, which also yields *siryon* (armor,
+protecting) and *mishras* (something soaked); the column wonders aloud whether
+those two senses collapse into one, since one way to protect a thing is to embed
+it in an outer layer and leave it there. Radak explains that these bear on
+*sharon*, which denotes not an ordinary plain but one saturated with fertile soil
+and so unusually good for agriculture. Rabbi Pappenheim
 in *Yerios Shlomo*: *sharon* is a plain near a mountain or hill, so that the
 contrast makes it conspicuous, while *mishor* is a plain of any kind. He derives
-both from ש-ר, "focal point," parent of *yashar*, the most direct line to a
-point, and he leaves open whether *sharon* descends from *yashar* or from
-*shar* / *sharir*, the navel (Yechezkel 16:4, Mishlei 3:8, Iyov 40:16).
+both from ש-ר, "focal point," parent of *yashar*, the quickest and most direct way
+to a given point; *mishor* he ties to *yashar* because a plain is a straight,
+level surface without unevenness, but for *sharon* he is unsure whether the
+etymology runs through *yashar* or through another derivative of the same
+biliteral, *shar* / *sharir*, the umbilical cord or navel (Yechezkel 16:4,
+Mishlei 3:8, Iyov 40:16).
 
 ## Distinctions
 
 ### mishor (מישור)
-Root י-ש-ר for Ibn Janach and Radak in their *Sifrei HaShorashim*, who take both
+Twenty-three times in Tanach, by Avraham Even-Shoshan's concordance. Root י-ש-ר
+for Ibn Janach and Radak in their *Sifrei HaShorashim*, who take both
 its senses from *yashar*: level ground, as against mountain or crater, and
 straightness in the moral sense. Its Aramaic cognate *meishar* is the Targumic
 workhorse: wherever Rashi says a plain has a name, Targum simply writes
@@ -134,20 +153,31 @@ relative.
 
 ### padan (פדן)
 The place-name Padan Aram occurs eleven times, all in the second half of
-Bereishis. Rashi and Ibn Ezra (to Bereishis 25:20) gloss *padan* as *sadeh*,
-field or flatland, and Hoshea 12:13, recalling Yaakov's flight, calls the place
-Sdeh Aram. Rabbi David Tzvi Hoffmann (there) reads Padan Aram as specifically
-the plain that surrounds Charan, which sits ringed by mountains.
+Bereishis. Rashi and Ibn Ezra (to Bereishis 25:20) gloss *padan* as meaning the
+same as *sadeh*, field or flatland, and Hoshea 12:13, recalling Yaakov's flight,
+calls the place Sdeh Aram, using the construct of *sadeh*. In that light, the
+column says, it makes sense that Shadal (to Bereishis 25:20) writes that *padan*
+is Aramaic for *sadeh*. Rabbi David Tzvi Hoffmann (there) similarly takes *padan*
+for an Aramaic term, itself a loanword from the Nabatean and Arabic *feddan*, a
+unit of area like an acre or a hectare, and on that basis reads Padan Aram as
+specifically the plain surrounding the town of Charan, noting that archaeologists
+and geographers have confirmed that ancient Charan lay on a plain otherwise ringed
+by mountains. Alternatively, Rabbi Ernest Klein, in his etymological dictionary of
+Hebrew, surmises that *padan* possibly derives from the Akkadian *padanu*, "road"
+or "garden."
 
 ### ayalah (אילה)
-Chizkuni (to Bereishis 49:21) reads Yaakov's blessing to Naftali, "an *ayalah*
-sent forth," not as a doe but as a plain, cognate with *eil* and *eilonei*: may
-your plains be so well seeded that they yield fine fruit, the "good tidings" of
-the pasuk. Rabbi Mecklenburg endorses this and sees Rashi there hinting at it
-by invoking the Genussar valley. Rabbi Aharon Marcus (*Keses HaSofer* to
-Bereishis 13:18) treats the four words spelled aleph-yud-lamed, *ayil* (ram),
-*ayal* (deer), *eil* (plain), and *eyal* (power), as a set that speakers without
-the Hebrew vowel signs had to disambiguate by other means.
+Yaakov's blessing to Naftali, "an *ayalah* sent forth, who gives good tidings"
+(Bereishis 49:21), is explained in many ways, most of them rendering *ayalah* a
+doe on the strength of the masculine *ayal*, deer. Chizkuni (there) instead reads
+*ayalah* as a plain, cognate with *eil* and *eilonei*: may Naftali's plains be so
+thoroughly seeded that they yield high-quality fruit, the "good tidings" of the
+pasuk. Rabbi Mecklenburg (*HaKsav VeHaKabbalah* to Bereishis 18:1, 49:21) endorses
+this and sees Rashi there alluding to it by invoking the Genussar valley. Rabbi
+Aharon Marcus (*Keses HaSofer* to Bereishis 13:18) gives an account of how the
+four words spelled aleph-yud-lamed, *ayil* (ram), *ayal* (deer), *eil* (plain),
+and *eyal* (power), were handled by Aramaic and Arabic speakers who did not have
+the Hebrew vowelization system that keeps them apart.
 
 ### The full inventory
 Rabbi Shlomo of Urbino (*Ohel Moed*, a lexicon of Hebrew synonyms) lists
@@ -166,10 +196,14 @@ rendered "valley" than "plain," but all name flat stretches of land.
 - Where Rashi calls a word "the name of the plain," treat it as a proper noun
   and capitalize it, since translating it as a common noun silently adopts
   Onkelos against Rashi.
-- Names built on these words stay names: Alon (Divrei HaYamim I 4:37), Elon
-  (Bereishis 26:34, 46:14, Shoftim 12:11), Elah (Melachim I 16:6, Melachim II
-  15:30, Divrei HaYamim I 4:15). Sharon is a place-name before it is anything
-  else.
+- Names built on these words stay names, and they are not modern coinages: Alon,
+  a man of Shimon (Divrei HaYamim I 4:37); Elon, one or two of Esav's
+  fathers-in-law (Bereishis 26:34, 36:2), a son of Zevulun (Bereishis 46:14,
+  Bamidbar 26:26), and a judge from Zevulun (Shoftim 12:11-12); Elah, the son of
+  Baasha (Melachim I 16:6, 16:8, 16:13-14), the father of Hoshea ben Elah, last
+  king of the northern kingdom (Melachim II 15:30, 17:1, 18:1, 18:9), a son of
+  Kalev (Divrei HaYamim I 4:15), and the head of a Binyamite family (Divrei
+  HaYamim I 9:8). Sharon is a place-name before it is anything else.
 
 ## Notes for a project
 
@@ -187,7 +221,17 @@ Rabbah* 42:6 to Bereishis 14:6; Zohar *Vayera* 97b; Rambam to Bava Basra 6:2;
 Rabbi Hai Gaon to Niddah 2:7; *Sefer HaAruch*; *Sifrei HaShorashim* of Ibn
 Janach and Radak; *HaKsav VeHaKabbalah* to Bereishis 18:1, 49:21 and Vayikra
 1:9; *Cheshek Shlomo* and *Yerios Shlomo*; *Ohel Moed*; *Bereishis Zuta* to
-Bereishis 14:6. The article's Akkadian derivation of *padan*, its Nabatean and
-Arabic *feddan*, the Even-Shoshan concordance count, and the reading given in
-Shadal's name are omitted under house rule 9; Rabbi Hoffmann's geographic
-identification is kept.
+Bereishis 14:6; Bereishis 36:2, 46:14; Bamidbar 21:25, 22:41, 26:26; Yehoshua
+12:7, 13:5; Shoftim 12:11-12; Melachim I 16:6, 16:8, 16:13-14; Melachim II 15:30,
+17:1, 18:1, 18:9; Divrei HaYamim I 4:15, 4:37, 9:8. The column's Akkadian
+derivation of *padan* (Rabbi Ernest Klein), its Nabatean and Arabic *feddan*
+(Rabbi Hoffmann, on which his geographic identification rests), the Even-Shoshan
+concordance count for *mishor*, and Shadal's reading are all reported here as the
+column gives them.
+
+One fault is left standing because this pass does not touch the `words:` block:
+its entry for פדן credits "the Aramaic of *sadeh*" to Rashi and Ibn Ezra, whereas
+the column has Rashi and Ibn Ezra saying only that *padan* means the same as
+*sadeh*, and gives the Aramaic identification in Shadal's name. Its entry for שרון
+also says *sharon* is "usually" the proper name of the coastal plain, where the
+column says "in at least some of the places... if not all of them."

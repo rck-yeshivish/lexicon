@@ -13,17 +13,20 @@ words:
 sources:
   - wiaw:7090 "Say your Prayers" (2017-01-14) https://articles.ohr.edu/articles/say-your-prayers
 authorities: [Targum Onkelos, Rabbi Simcha Maimon, Rabbi Shmuel Laniado, Rabbi Yaakov Tzvi Mecklenburg]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Prayer: tefillah / bakashah / techinah
 
 ## Bottom line
 
-*Tefillah* is prayer proper: the fixed, formal **prayer** with its nusach and its
-halachos, and, on Rabbi Yaakov Tzvi Mecklenburg's reading of the root, a plea
-that Hashem set right what the petitioner feels is unjust. *Bakashah* is the
-**request**, the unscripted asking for one's needs. *Techinah* or *tachanun* is
+*Tefillah* is prayer proper. Rabbi Simcha Maimon offers two ways of taking it
+against *bakashah*: either it is the praising side of prayer and *bakashah* the
+asking side, or it is the fixed, formal **prayer** with its nusach and its
+halachos against an *ad hoc* asking. On Rabbi Yaakov Tzvi Mecklenburg's reading
+of the root it is a plea that Hashem set right what the petitioner feels is
+unjust. *Bakashah* is the **request**, the unscripted asking for one's needs.
+*Techinah* or *tachanun* is
 **supplication**: the appeal of one who admits he has no claim and asks to be
 given anyway, out of *chen*, favor. The trap is rendering all three "prayer";
 where Yaakov's sword and bow are darshened (*Bava Basra* 123a), *tefillah* and
@@ -31,32 +34,47 @@ where Yaakov's sword and bow are darshened (*Bava Basra* 123a), *tefillah* and
 
 ## Distinctions
 
+On his deathbed Yaakov leaves Yosef the city of Shechem, "which I took from the
+Emori with my sword and with my bow" (Bereishis 48:22). Yaakov was neither a
+swordsman nor an archer; his power was in his voice (Bereishis 27:22). So the
+mesorah (*Bava Basra* 123a) reads the pasuk non-literally: "my sword" is
+*tefillah*, prayer, and "my bow" is *bakashah*, request. Targum Onkelos renders
+the words the same way, *tzeloti* and *bausi*. That the two stand side by side
+suggests they are not the same thing, and the article's question is both what
+divides them and what either has to do with swords and arrows.
+
 ### tefillah (תפילה)
 Root פ-ל-ל. Rabbi Yaakov Tzvi Mecklenburg derives *tefillah* from *pelilah*,
-arbitration or judgment: the one who prays presses his case before Hashem, asking
-Him to address a wrong. Rabbi Simcha Maimon gives two readings against
-*bakashah*. First, *tefillah* is the praising side of prayer, the words that
-extol Hashem, while *bakashah* is the asking side. Second, *tefillah* is formal,
-instituted prayer with a set text and set laws, while *bakashah* is *ad hoc*.
-On the second reading, *tefillah* answers to Yaakov's sword: the words themselves
-carry power, as a sword is dangerous by its own edge.
+arbitration or judgment (in Modern Hebrew the word means "criminal"): the one who
+prays presses his case before Hashem, demanding that He address a perceived
+injustice. Rabbi Simcha Maimon, a prominent Rosh Yeshiva in Yerushalayim, gives
+two readings against *bakashah*. First, *tefillah* is the "flattering" side of
+prayer, in which one praises Hashem, while *bakashah* is the "wishful" side, in
+which one asks Him for one's needs. Second, *tefillah* is formal, instituted
+prayer with set formulae and set halachos, while *bakashah* is *ad hoc*. On the
+second reading, *tefillah* answers to Yaakov's sword: the words themselves carry
+inherent power, as a sword is dangerous by its own sharpness.
 
 ### bakashah (בקשה)
-Root ב-ק-ש. The request made of Hashem in one's own words. Rabbi Simcha Maimon:
-because it lacks the formality of *tefillah* it is not powerful of itself, like
-an arrow, which need not be as sharp as a sword; its force comes from the
-release, that is, from the urgency the one praying feels, not from the words.
-Rabbi Shmuel Laniado reads the bow differently: an archer strikes without
-approaching his enemy, and so a *bakashah* lets a man standing in his own
-distress, without moving from where he is, send his prayer through to the upper
-worlds. The link of *bakashos* to *keshasos*, bows, is at least a play on the
-similar sound, which is why the derashah reaches for it.
+Root ב-ק-ש. The request made of Hashem in one's own words. The link between
+*bakashos* and *keshasos*, bows, may simply be homiletical, since the two words
+are spelled and sounded so much alike. Rabbi Simcha Maimon nonetheless works out
+a conceptual link: because a *bakashah* lacks the formality of *tefillah* it is
+not inherently a powerful form of prayer, just as an archer's projectile need not
+be as sharp as a sword; but an arrow's efficacy lies not in the arrow itself but
+in the kinetic energy of its release, just as a *bakashah*'s lies not in the
+words but in the urgency the supplicant feels. Rabbi Shmuel Laniado, a
+sixteenth-century Syrian scholar, offers a similar observation on the bow: an
+archer strikes without having to approach his enemy, and so a *bakashah* lets a
+man standing in a dire situation in This World, without leaving where he is,
+send his prayer through the upper realms to the Heavens.
 
 ### techinah / tachanun (תחינה, תחנון)
 Root ח-נ-ן, from *chen*, favor. Rabbi Yaakov Tzvi Mecklenburg: the one who says
-*tachanun* concedes that he does not deserve what he asks for and begs that it be
-granted as a gift. This is the opposite footing from *tefillah* on his reading:
-*tefillah* claims a right, *techinah* disclaims one.
+*tachanun* appeals as one who admits he is not worthy of what he asks and
+beseeches Hashem to grant it graciously anyway, hoping to find favor in His eyes
+undeserving as he is. This is the opposite footing from *tefillah* on his
+reading: *tefillah* presses a claim, *techinah* disclaims one.
 
 ## Rendering guidance
 
@@ -83,5 +101,7 @@ Rabbi Reuven Chaim Klein, "Say your Prayers," What's in a Word?, Ohr Somayach,
 16 Teves 5777 (2017-01-14): https://articles.ohr.edu/articles/say-your-prayers;
 raw text in `sources/whats-in-a-word/raw/7090-say-your-prayers.md`. Primary loci:
 Bereishis 48:22 and 27:22; *Bava Basra* 123a; Targum Onkelos to Bereishis 48:22.
-Rabbi Yaakov Tzvi Mecklenburg writes in *HaKesav VeHaKabbalah*; Rabbi Simcha
-Maimon and Rabbi Shmuel Laniado are cited by the article without a locus.
+Rabbi Yaakov Tzvi Mecklenburg, Rabbi Simcha Maimon and Rabbi Shmuel Laniado are
+all cited by the article without a locus, and without naming any of their works;
+a reference here to Mecklenburg's *HaKesav VeHaKabbalah* has been removed, since
+the article does not name it. Nothing the article cites is omitted.

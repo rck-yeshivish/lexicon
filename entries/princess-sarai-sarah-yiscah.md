@@ -8,9 +8,9 @@ domain: society
 sources:
   - wiaw:11580 "Lech Lecha: The Princess' Gaze (Part 1/2)" (2024-11-09) https://articles.ohr.edu/articles/lech-lecha-the-princess-gaze-part-12
   - wiaw:11581 "Vayera: The Princess' Gaze (Part 2/2)" (2024-11-16) https://articles.ohr.edu/articles/vayera-the-princess-gaze-part-22
-authorities: [Rashi, Rabbi Shlomo Pappenheim, Maharal, Maharsha, Abarbanel, Rabbi Shlomo Astruc, Rabbi David Luria, Rabbi Shmuel David Luzzatto, Kli Yakar, Rav Hirsch, Rabbeinu Nissim, Baal HaTurim, Peirush HaRokeach, Rabbeinu Efrayim bar Shimshon, Ibn Ezra, Rabbi Avraham Abba Herczl, Rabbi Shabsai Bass, Rabbi Eliyahu Benamozegh, Rabbi Yaakov Emden, Rabbi Yosef Chaim of Baghdad, Rabbi Aharon Marcus, Chasam Sofer, Rabbi Eliyahu HaBachur]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Rabbi Shlomo Pappenheim, Maharal, Maharsha, Abarbanel, Rabbi Shlomo Astruc, Rabbi David Luria, Rabbi Shmuel David Luzzatto, Kli Yakar, Rav Hirsch, Rabbeinu Nissim, Baal HaTurim, Peirush HaRokeach, Rabbeinu Efrayim bar Shimshon, Ibn Ezra, Rabbi Avraham Abba Herczl, Rabbi Shabsai Bass, Rabbi Eliyahu Benamozegh, Rabbi Yaakov Emden, Rabbi Yosef Chaim of Baghdad, Rabbi Aharon Marcus, Chasam Sofer, Rabbi Eliyahu HaBachur, Septuagint, Philo of Alexandria, Josephus, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Yosef Kerman, Professor Grant W. Smith]
+status: reviewed
+updated: 2026-09-10
 ---
 # Princess: Sarai / Sarah / Yiscah
 
@@ -19,12 +19,13 @@ updated: 2026-09-09
 All three names turn on rank. *Sarai*, with its final yod, reads as **"my
 princess,"** a princess of her own house and nation; *Sarah* is **"princess"**
 without limit, over the whole world (*Berachos* 13a, Rashi to Bereishis 17:15).
-*Yiscah* is the third name Chazal identify with her (*Megillah* 14a, *Sanhedrin*
-69b), read either as **the one who gazed** with ruach hakodesh or **the one all
-gazed upon** for her beauty; Rashi adds a fourth sense, *nesichah*, princess
-again. The trap: rendering both *Sarai* and *Sarah* as "Sarah" in English
-erases the whole point of Bereishis 17:15, where the change of name is the
-berachah.
+*Yiscah* is a third name an ancient tradition identifies with her (*Megillah*
+14a, *Sanhedrin* 69b), read either as **the one who gazed** with ruach hakodesh
+or **the one all gazed upon** for her beauty; Rashi adds a third sense,
+*nesichah*, princess again. Ibn Ezra and Shadal are skeptical of the
+identification. The trap: rendering both *Sarai* and *Sarah* as "Sarah" in
+English erases the whole point of Bereishis 17:15, where the change of name is
+the berachah.
 
 ## Distinctions
 
@@ -42,12 +43,16 @@ from Bereishis 11:29 until Bereishis 17:15. *Berachos* 13a (with *Tosefta
 Berachos* 1:14 and *Bereishis Rabbah* 47:1): *Sarai* means she was a princess to
 her own nation. Rashi (to *Berachos* 13a and Bereishis 17:15): the final yod
 carries the sense of the first-person possessive, "my princess," and that is
-what limits her. Maharal (*Tiferes Yisrael* ch. 49): the yod is the smallest
-letter in form, so ending a name in it signals diminution, while a final *hei*
-signals expansion. Abarbanel: her parents named her *Sarai* for her destiny as
-the lady of one great man, and Hashem renamed her to mark her greatness in her
-own right. Rabbi Shlomo Astruc: mistress of her own household, then mistress of
-the world. Maharsha (to *Berachos* 13a) reads it as duration rather than extent:
+what limits her. Maharal (*Tiferes Yisrael* ch. 49): the yod is orthographically the smallest
+letter, so ending a name in it implies diminution and limitation, while the
+final *hei* of *Sarah* implies expansion and growth. In the Septuagint the name
+runs Sara and then Sarra, and Philo of Alexandria reads that change the same
+way, from Avraham's personal princess to a princess in general, the later name
+relating to *serarah*, which the column notes is not unlike the Gemara's
+derashah. Abarbanel offers a similar reading: her parents named her *Sarai* for
+her destiny as the lady of one special man, and Hashem renamed her to stress her
+specialness in her own right. Likewise Rabbi Shlomo Astruc: mistress of her own
+household, then mistress of the world. Maharsha (to *Berachos* 13a) reads it as duration rather than extent:
 as *Sarai* her standing would end with her life, having no child to carry it,
 while *Sarah* was destined to bear Yitzchak and so to rule past her own
 lifetime. Rabbi David Luria, on *Bereishis Rabbah* 47:1, reads "do not call her
@@ -67,42 +72,92 @@ letter of a righteous man's. Rabbi Shmuel David Luzzatto (to Bereishis 17:15)
 sets the change in the pattern of a commoner given a new name on rising to
 greatness: Yosef to Tzafnas Paneach (Bereishis 41:45), Hoshea to Yehoshua
 (Bamidbar 13:16), Matanyahu to Tzidkiyahu (Melachim II 24:17), Daniel, Chananyah,
-Mishael and Azaryah renamed at Daniel 1:7. He also reads the added *hei* as a
-feminine, fertility-bearing letter given to both names, as does *Kli Yakar*
-there. Rav Hirsch (to Bereishis 17:15) compares ש-ר-ה with ז-ר-ע, sin and zayin
-interchanging and *hei* and ayin interchanging, and reads the change as her
-passing from a solitary figure to the moral leader every daughter of Yisrael
-looks to.
+Mishael and Azaryah renamed by Nevuchadnetzar at Daniel 1:7. He also suggests
+that the added *hei* signifies femininity and was given to both names as a sign
+of fertility and procreation, as *Kli Yakar* there explains similarly.
+
+Shadal further writes that the name Sarah is related to an Arabic word *shara*,
+which apparently means having many children. The column reports that its friends
+Rabbi Yosef Kerman and Rabbi Shaul Goldman are unsure which Arabic word Shadal
+meant. Rabbi Goldman suggests *zara*, sowed, seeded, planted, or *dhara*, grain,
+seed, produce, but then wonders why Shadal reached for Arabic at all when the
+Hebrew *zera*, seed or offspring, would have made the same point. Rabbi Goldman
+observes that the root ז-ר-ע behind *zera* may be seen as related to ש-ר-ה, the
+letters of the name Sarah, since sin interchanges with zayin and *hei* with
+ayin. Rav Hirsch (to Bereishis 17:15) does compare ש-ר-ה with ז-ר-ע, and reads
+the change as her passing from an isolated figure to one embodying moral
+leadership for all, the role every daughter of Yisrael aspires to emulate; the
+interchange rationale, though, is Rabbi Goldman's and not his.
 
 ### Yiscah (יסכה)
-Named once only, Bereishis 11:29, as a daughter of Haran. *Seder Olam Rabbah*
-ch. 2, *Megillah* 14a, *Sanhedrin* 69b and Targum Yonasan identify her with
-Sarai. Rabbeinu Nissim proves it from the pasuk's shape: the Torah gives
+Named once only, Bereishis 11:29, as a daughter of Haran, and never mentioned
+again in Tanach. An ancient tradition preserved in *Seder Olam Rabbah* ch. 2,
+*Megillah* 14a, *Sanhedrin* 69b and Targum Yonasan, and by Josephus
+(*Antiquities of the Jews*, Book I ch. 6), identifies her with Sarai. Rabbeinu
+Nissim proves it from the pasuk's shape: the Torah gives
 Milkah's paternity but not Sarai's, which is only reasonable if Sarai is the
 Yiscah whose father the pasuk has just named. *Baal HaTurim*, *Peirush
 HaRokeach* and Rabbeinu Efrayim bar Shimshon (to Bereishis 11:29) find it in
 At-Bash: שרה becomes בגצ, whose gematria matches יסכה, ninety-five. Ibn Ezra and
 Rabbi Shmuel David Luzzatto (to Bereishis 11:29) doubt the identification.
 
-On the name itself, the Gemara gives two readings, both from ס-כ-ה, to gaze
-(a root Rabbi Eliyahu HaBachur's *Meturgeman* shows the Targumim using to render
-*habatah*, *hashkafah*, *tzofeh*, *shur* and *hover*): she gazed (*sachta*) with
-ruach hakodesh, or all gazed (*sachin*) at her beauty. Rabbi Avraham Abba Herczl
-takes the root as ס-כ-ל, of *histakel*, and offers two further readings: from
-*sukkah*, a covering, for her modesty in keeping her prophecy hidden; and from
-*sichah* with a ches, that people *spoke* of her beauty rather than stared at
-it. Rashi (to Bereishis 11:29) supplies a separate sense: *Yiscah* from
-*nesichah*, princess, as *Sarah* is from *serarah*; Rabbi Eliyahu Benamozegh
-(*Eim LaMikra*) and Rabbi Yaakov Emden (*Eim LaBinah*) argue from that very
-overlap of meaning that one woman bore both names, and see Rabbi Shabsai Bass
-(*Sifsei Chachamim*) on why Rashi added a sense the Gemara does not give. Rabbi
+On the name itself, the Gemara gives two readings, both seemingly from ס-כ-ה, to
+gaze in Rabbinic Hebrew (a root Rabbi Eliyahu HaBachur's *Meturgeman* shows the
+Targumim using to render *habatah*, *hashkafah*, *tzofeh*, *shur* and *hover*):
+she gazed (*sachta*) with ruach hakodesh, or all gazed (*sachin*) at her beauty.
+Dr. Alexander Kohut (*HeAruch HaShaleim*) likewise connects that root to the
+Gemara's derashah, and theorizes further that it may perhaps be of Indo-European
+stock, related to the German *schauen*, to look, the Sanskrit *sku* and the
+English *see*. Rabbi Avraham Abba Herczl (*Sifsei Chachamim* to *Megillah* 14a,
+a different work from Rabbi Shabsai Bass's supercommentary of the same name)
+seems to follow the same line but takes the root as ס-כ-ל, of *histakel*; he
+then suggests that perhaps the Gemara meant *sukkah*, a hut or covering, for her
+extreme modesty in covering over her prophetic level rather than showing it off,
+and that perhaps its second reading means that people *spoke* (*sichah*, with a
+ches) of her superlative beauty rather than stared at it. Rashi (to Bereishis
+11:29) adds a further sense: *Yiscah* from *nesichah*, princess, as *Sarah* is
+from *serarah*; Rabbi Eliyahu Benamozegh (*Eim LaMikra Eim LaMesores*) and Rabbi
+Yaakov Emden (*Eim LaBinah* there) argue from that very affinity of meaning that
+one woman bore both names, and see Rabbi Shabsai Bass's *Sifsei Chachamim* on
+why Rashi felt the need to add a sense the Gemara does not give. Rabbi
 Yosef Chaim of Baghdad (*Ben Yehoyada* to *Sanhedrin* 69b, *Benayahu* to
 *Megillah* 14a) joins the Gemara's two: in her youth the name marked her beauty,
 and in maturity it emerged as marking her nevuah; the Torah otherwise avoids the
-name because it leans on outward beauty. Rabbi Aharon Marcus (*Keses HaSofer* to
-Bereishis 11:29): Yiscah was her childhood name, Sarai her name from marriage,
-Sarah from her late eighties. Chasam Sofer (*Toras Moshe* to Bereishis 23:5):
-Yiscah was her Aramaic name, Sarai and Sarah her Hebrew one.
+name because, for all its positive sense, it also implies an undue focus on
+outward beauty, against the ideals of tznius, and might give the reader the
+wrong impression of her. The column adds two explanations it found on its own.
+Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 11:29) notes that having more
+than one name, one from childhood and another taken on after marriage, is a
+well-attested phenomenon in the Ancient Near East, so Yiscah was her childhood
+name, Sarai her name from her marriage, and Sarah the name Hashem gave her in
+her late eighties. Rabbi Moshe Sofer, the Chasam Sofer (*Toras Moshe* to
+Bereishis 23:5): Yiscah was her Aramaic name, Sarai and Sarah her Hebrew one.
+
+### the name in English
+The English *Jessica*, which first appears in Shakespeare's *The Merchant of
+Venice* as the name of Shylock's daughter, is generally understood by onomasts
+as an Anglicization of *Yiscah*. Professor Grant W. Smith of Eastern Washington
+University argues otherwise, that the name comes from falconry: "jess strings"
+are the straps tethering a falcon's legs to its master, from the Old French
+*gesse* and ultimately the Latin *jactus*, throw or cast, and the *-ica* is a
+Latin feminine nominative ending as in *Judaica* and *Hebraica*, so that
+Shakespeare, who referred to falconry often, coined the name for a girl who
+feels trapped under her father's control. The column allows that as an
+intriguing layer of wordplay but maintains the simpler derivation from *Yiscah*,
+since English Bibles before Shakespeare already rendered the name "Jescha"
+(Wycliffe) and "Jisca" (Coverdale), and since other obscure names in the play
+come from Bereishis as well, Shylock having been argued to come from Shelach
+(Bereishis 10:24), and Tuball and Chus from other names there.
+
+The name Sarah has produced a long line of derivatives: the given names Sari,
+Suri, Szori, Sarolta, Zara, Serita and Serl; the English *Sadie*, which began as
+a nickname for Sarah, the "sar-" sound softening to "sad-" with an endearing
+"-ie"; and *Sally*, on the English pattern of swapping *r* for *l* in
+diminutives, as Harry gives Hal, Mary Molly, and Dorothy Dolly. Several Jewish
+surnames look related as well, Shore, Sirkes, Sharlin and Sarles. (The columnist
+recalls a girl in his grade at Emek Hebrew Academy named Sara Sarles.) Some have
+argued that the Hungarian surname Soros belongs here too, while others tie it
+instead to Schorsch, a Germanized form of George.
 
 ## Rendering guidance
 
@@ -119,8 +174,10 @@ Yiscah was her Aramaic name, Sarai and Sarah her Hebrew one.
   thin for what *Berachos* 13a is claiming for her.
 - יסכה: transliterate as *Yiscah*, and gloss with the reading the passage is
   using, "the one who gazed" for the ruach hakodesh reading, "the one all gazed
-  upon" for the beauty reading. Never render the name as "Jessica," which is an
-  English convention with nothing to do with the pasuk.
+  upon" for the beauty reading. Do not render the name as "Jessica" in a frum
+  text, even though the column holds that *Jessica* is in fact an Anglicization
+  of *Yiscah*; the English name carries none of the pasuk's sense and reads as a
+  modern given name.
 - Where a source treats Yiscah and Sarai as one woman, do not add "that is,
   Sarah" into the translation; Ibn Ezra and Rabbi Shmuel David Luzzatto hold
   otherwise, and the identification belongs in a note.
@@ -141,15 +198,19 @@ Melachim II 24:17; Daniel 1:7; *Berachos* 13a with Rashi and Maharsha; *Tosefta
 Berachos* 1:14; *Bereishis Rabbah* 47:1 with Rabbi David Luria; *Yerushalmi
 Sanhedrin* 2:6; *Sanhedrin* 107a and 69b; *Megillah* 14a; *Seder Olam Rabbah*
 ch. 2; Targum Yonasan to Bereishis 11:29; Maharal, *Tiferes Yisrael* ch. 49;
-*Kli Yakar* and Rav Hirsch to Bereishis 17:15.
+*Kli Yakar* and Rav Hirsch to Bereishis 17:15; Shadal to Bereishis 11:29 and
+17:15; the Septuagint with Philo of Alexandria; Josephus, *Antiquities of the
+Jews* Book I ch. 6; Dr. Alexander Kohut, *HeAruch HaShaleim*; Rabbi Eliyahu
+HaBachur, *Meturgeman*; Rabbi Avraham Abba Herczl, *Sifsei Chachamim* to
+*Megillah* 14a, which is a different work from Rabbi Shabsai Bass's *Sifsei
+Chachamim* on Rashi, both of which the article cites; Rabbi Yosef Kerman and
+Rabbi Shaul Goldman on Shadal's Arabic comparison; Professor Grant W. Smith on
+*Jessica*, with Wycliffe and Coverdale; Bereishis 10:24 for Shelach.
 
-Citation correction: part 1 opens by placing Sarai's introduction at "Genesis
-12:29"; the pasuk is Bereishis 11:29, as the second part gives it.
+Two slips in the article are corrected rather than repeated. Part 1 opens by
+placing Sarai's introduction at "Genesis 12:29"; the pasuk is Bereishis 11:29,
+as the second part gives it. Part 1 also writes that "the letter HEY went from
+being the last letter in the name of a righteous woman to being the first letter
+in the name of a righteous man"; the letter that moved is the yod.
 
-Omitted under the Orthodox-sources rule: the Septuagint and Philo of Alexandria
-on Sara/Sarra; Josephus on the identification of Yiscah; Dr. Alexander Kohut's
-Indo-European derivation of ס-כ-ה; Rabbi Shmuel David Luzzatto's Arabic
-comparison for the name Sarah, with the discussion of which Arabic word he meant
-(the Hebrew-side observation comparing ש-ר-ה to ז-ר-ע is kept, since Rav Hirsch
-makes it independently); and the whole closing treatment of Jessica, Shakespeare
-and the English and Jewish derivatives of the name Sarah.
+Nothing the article cites is omitted.

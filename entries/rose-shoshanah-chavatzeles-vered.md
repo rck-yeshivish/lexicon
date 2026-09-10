@@ -9,7 +9,7 @@ words:
   - he: שושנה
     tr: shoshanah
     en: rose
-    distinct: the flower of Shir HaShirim, associated with red (lips, Shir HaShirim 5:13); six petals on the tradition Ibn Ezra and Radak cite, which would make it a lily, five or thirteen in the Zohar, which would make it a rose
+    distinct: the flower of Shir HaShirim, with reason to think it reddish (lips, Shir HaShirim 5:13); six petals on the tradition Ibn Ezra and Radak cite, which would rule out a rose, five or thirteen in the Zohar at Hakdamah 1a, which fits one, though the Zohar elsewhere says six
   - he: חבצלת
     tr: chavatzeles
     en: rose (young), daffodil
@@ -24,8 +24,8 @@ words:
     distinct: the identification of chavatzeles adopted by Shulchan Aruch (Orach Chaim 216:9), against an alternate view there that it is a lily
 sources:
   - wiaw:11391 "Emor: Rose by Another Name" (2024-05-18) https://articles.ohr.edu/articles/emor-rose-by-another-name
-authorities: [Rashi, Radak, Ibn Ezra, Ibn Janach, Menachem Ibn Saruk, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo of Urbino, Rabbi Shlomo Aharon Wertheimer, Matnos Kehunah, Eitz Yosef, Maharzu, Peirush HaRokeach, Peirush Chachmei Tzarfas, Targum, Rav Yehudai Gaon, Rav Hai Gaon, Rabbi Saadia Gaon, Rabbi Shemaryah ben Elchanan, Rabbeinu Yonah, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rambam, Rabbi Yosef Karo, Rabbi Massoud Chai Rokach, Rabbi Yirmiyahu Low, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Daniel Frisch]
-status: draft
+authorities: [Rashi, Radak, Ibn Ezra, Ibn Janach, Menachem Ibn Saruk, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo of Urbino, Rabbi Shlomo Aharon Wertheimer, Matnos Kehunah, Eitz Yosef, Maharzu, Peirush HaRokeach, Peirush Chachmei Tzarfas, Targum, Rav Yehudai Gaon, Rav Hai Gaon, Rabbi Saadia Gaon, Rabbi Shemaryah ben Elchanan, Rabbeinu Yonah, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rambam, Rabbi Yosef Karo, Rabbi Massoud Chai Rokach, Rabbi Yirmiyahu Low, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Daniel Frisch, Sefer HeAruch, Rabbi Ernest Klein, Zohar Amar]
+status: reviewed
 updated: 2026-09-10
 ---
 # Rose: shoshanah / chavatzeles / vered (narkis)
@@ -57,7 +57,8 @@ The trap: one English "rose" flattens all three, and Shir HaShirim 2:1 sets
 HaShirim 2:1) cites a tradition explaining the doubled shin as *shesh*, six, so
 the flower has six petals; Radak (*Sefer HaShorashim*) says the same, and Rabbi
 Shlomo Pappenheim traces the word to the biliteral ש-ש on that basis. Six petals
-means a lily, not a rose, since roses run to five or multiples of five. The Zohar
+would rule out a rose, since roses typically have five petals or multiples of
+five. The Zohar
 cuts across this: at *Hakdamah* 1a a *shoshanah* is ringed by thirteen petals,
 like Knesses Yisrael ringed by the thirteen middos of rachamim, and on the same
 page it has five "strong" petals, which is why the five fingers should encircle
@@ -69,11 +70,15 @@ reading and rejects it: Shir HaShirim has the *shoshanah* growing among thorns
 **Whether chavatzeles and shoshanah are one flower.** Four positions.
 
 1. **The same.** Rashi (to Shir HaShirim 2:1): *chavatzeles* means *shoshanah*.
-   Radak (*Sefer HaShorashim*) defines *chavatzeles* as a rose and links it to
-   *vered*. Rabbi Shlomo of Urbino (*Ohel Moed*) and Rabbi Shlomo Aharon
-   Wertheimer (*Beiurei Shemos HaNirdafim*) treat them as synonyms. Some texts of
-   Rashi read "a type of *shoshanah*," which makes *chavatzeles* a species under
-   the genus rather than an equal.
+   Radak (*Sefer HaShorashim*) defines *chavatzeles* outright as *rosa*, a rose,
+   and explicitly links it to *vered*. Rabbi Shlomo of Urbino (*Ohel Moed*) and
+   Rabbi Shlomo Aharon Wertheimer (*Beiurei Shemos HaNirdafim*) treat them as
+   synonyms. The column adds that the same understanding seems evident from the
+   old translations, which do not distinguish the two words: the Peshitta, the
+   early Syriac rendering, has *shoshnat* for both, the Septuagint has the Greek
+   *krinon* for both, and the Vulgate has the Latin *lilium*, lily, for both.
+   Some texts of Rashi read "a type of *shoshanah*," which makes *chavatzeles* a
+   species under the genus rather than an equal.
 2. **The same flower at two ages.** *Shir HaShirim Rabbah* 2:3: *chavatzeles* is
    the flower young, *shoshanah* grown. Rabbi Wertheimer builds on this and
    takes the final tav as a diminutive, a young rose whose bud has not opened.
@@ -88,15 +93,24 @@ reading and rejects it: Shir HaShirim has the *shoshanah* growing among thorns
    and yellows, and is called *chavatzeles*; grown in a valley it keeps its
    moisture and its natural whitish-reddish-pink, and is called *shoshanah*.
    *Peirush Chachmei Tzarfas* fixes the colors differently: *chavatzeles* white,
-   *shoshanah* red.
+   *shoshanah* red. (The column remarks that for some odd reason all of this
+   puts him in mind of the War of the Roses in England.)
 4. **A different flower, the narkis.** Targum (to Shir HaShirim 2:1), Ibn Janach
    in the name of Rav Yehudai Gaon, Rabbi Saadia Gaon's *Tafsir*, *Kaftor
    VaFerach* ch. 56 in the name of Rav Hai Gaon, Rabbi Shemaryah ben Elchanan of
-   Cairo, and Ibn Ezra. *Shulchan Aruch* (*Orach Chaim* 216:9) codifies
-   *chavatzeles* as *narkis* and then cites the alternative, a lily, which is
-   Rabbeinu Yonah's view (Berachos 31b in the Rif). Rashi (to Berachos 43b) ties
+   Cairo, and Ibn Ezra. *Narkis* is a Hebraicization of the Arabic *narjis*,
+   which comes in turn from the Latin *narcissus*, itself from the Greek
+   *narkissos*, and it is the flower English calls the daffodil. *Shulchan Aruch*
+   (*Orach Chaim* 216:9) codifies *chavatzeles* as *narkis* and then cites the
+   alternative, *lirio*, Spanish for lily, which is Rabbeinu Yonah's view
+   (Berachos 31b in the Alfasi pagination). Rashi (to Berachos 43b) ties
    the Gemara's *narkom*, read *narkis* in *Sefer HeAruch* and others, back to
-   the Biblical *chavatzeles*.
+   the Biblical *chavatzeles*. The column notes the Greek myth the Latin name
+   carries: Narcissus, a young man of extraordinary beauty and self-absorbed
+   selfishness, caught sight of his own reflection, fell in love with it, and
+   wasted away by the pool, and the *narcissus* flower bloomed where he died;
+   for a similar tale in rabbinic literature it points to Nedarim 9b. (It also
+   notes that the Windows Hebrew font Narkisim seems to be named for the flower.)
 
 **Whether shoshanah and vered are the same.** Rambam (*Hilchos Berachos* 9:6)
 lists *shoshanah*, *narkis* (*chavatzeles*), and *vered* separately, which led
@@ -104,11 +118,16 @@ Rabbi Yosef Karo (*Kesef Mishneh*) to ask: if *vered* and *shoshanah* are not
 one, what is a *shoshanah*? Rabbi Massoud Chai Rokach (*Maaseh Rokeach*) answers
 that Rabbi Karo knew both are roses and one is red and the other white, and only
 wanted to know which is which (see Rambam to Mishnah Sheviis 7:6). Rabbi
-Yirmiyahu Low (*Divrei Yirmiyahu*) answers differently: *vered* is the general
-term and *shoshanah* a kind of *vered*, which fits *Vayikra Rabbah* 23:3,
-"*shoshanah achas shel vered*." A third possibility is that *vered* is the plant
-and *shoshanah* the bloom. The Zohar (*Ki Sisa* 189b) appears to equate them
-outright, and the Targumim render *shoshanah* as *vered*.
+Yirmiyahu Low (*Divrei Yirmiyahu*) answers differently: *vered* is a general
+term that can take in various flowers and *shoshanah* the more specific term,
+the rose as a kind of *vered*, which is borne out by *Vayikra Rabbah* 23:3,
+"*shoshanah achas shel vered*." The column offers a third possibility of its
+own, that *vered* is the whole plant and *shoshanah* specifically the flower.
+The Zohar (*Ki Sisa* 189b) appears to equate them outright, and the Targumim
+render *shoshanah* as *vered*. Ibn Ezra (to Shir HaShirim 2:1) cites some
+commentators who explain *chavatzeles* as *vered* and others who explain
+*shoshanah* as *vered*; taken together, the column suggests, this might echo the
+view that *chavatzeles* and *shoshanah* are one and the same.
 
 ## Distinctions
 
@@ -116,10 +135,14 @@ outright, and the Targumim render *shoshanah* as *vered*.
 Twelve occurrences as a plant, eight of them in Shir HaShirim (for instance 6:2,
 gathering *shoshanim*). It appears in the Mishnah too (Kilayim 5:8, Taharos 3:7),
 and *shoshanim* names a musical instrument in three Tehillim headings (45:1,
-69:1, 80:1), presumably shaped like the flower. Two data point to red: the
-lover's lips are compared to *shoshanim* (Shir HaShirim 5:13, and see 4:3), and
+69:1, 80:1), whose shape somehow resembles the flower. There is reason to think
+the flower reddish, on two counts: the lover's lips, presumably red, are compared
+to *shoshanim* (Shir HaShirim 5:13, and see 4:3), and
 *Vayikra Rabbah* 19:6 praises Yechonyah for separating from his wife when she
-saw a stain like a *shoshanah adumah*. Rabbi Yehudah Aryeh of Carpentras
+saw a stain like a *shoshanah adumah*. Shoshanah has been a Jewish woman's name
+since the Second Temple period, on the strength of the story of a woman named
+Shoshanah appended to the Septuagint's Daniel, and the English Sue, Susan and
+Suzanna all derive from it. Rabbi Yehudah Aryeh of Carpentras
 (*Aholei Yehudah*) connects *shoshanah* to *sasson*, gladness, on the interchange
 of sin and shin: a beautiful, fragrant flower gladdens whoever meets it.
 
@@ -131,15 +154,23 @@ a *chavatzeles*" (35:1). The commentators to the Midrash, *Matnos Kehunah*,
 (hidden) plus *tzel* (shadow): the young flower's beauty is still hidden in its
 own shade. *Shir HaShirim Rabbah* 2:1 reads it as *chaviv* (dear) plus *tzel*,
 and develops several ways in which comparing Israel to the *chavatzeles* is
-praise. Rabbi Moshe Tedeschi-Ashkenazi (*Ho'il Moshe*) sees *batzel*, an onion,
-inside the word, so a flower growing from a bulb.
+praise. Rabbi Moshe Tedeschi-Ashkenazi (*Ho'il Moshe*) sees the string *batzel*, an
+onion, inside the five-letter word, so a flower that grows from an onion; he
+then adds a comment in Italian that a *chavatzeles* is a lily or a hyacinth.
+Rabbi Ernest Klein surmises that *chavatzeles* is somehow related to the
+Akkadian *habasillatu*, stalk.
 
 ### vered (ורד)
 Not in Tanach; Mishnaic (Sheviis 7:6-7, Maasros 2:5, Shabbos 14:4) and the
 Targumic rendering of *shoshanah*. Modern Hebrew's *varod*, pink, comes from it.
-Rabbi Eliyahu HaBachur derives the Mishnaic *vradin*, the veins of an animal's
-neck (Chullin 2:1), from *vered* as something red; Rabbi Yaakov Emden (*Ezer
-Ohr* to *Sefer Tishbi*) finds that connection far-fetched.
+Rabbi Eliyahu HaBachur derives the Mishnaic *vradin*, the veins inside an
+animal's neck (Chullin 2:1), from *vered* as something likewise red; Rabbi Yaakov
+Emden (*Ezer Ohr* to *Sefer Tishbi*) finds that connection too far-fetched.
+Rabbi Ernest Klein traces *vered* itself to the Aramaic *varda*, *vardina* in
+some dialects, which he takes as a loanword from the Old Iranian *wrda*; he
+explains that word as the etymon of the Greek *rodon* and the Latin *rosa*, so
+that the English "rose," which comes from the Latin, is etymologically related
+to *vered*.
 
 ## Rendering guidance
 
@@ -176,6 +207,17 @@ Ibn Janach and of Radak; *Machberes Menachem*; *Sefer Tishbi* with *Ezer Ohr*;
 Mishnah Sheviis 7:6, with *Kesef Mishneh* and *Maaseh Rokeach*; *Shulchan Aruch,
 Orach Chaim* 216:9; Rabbeinu Yonah, Berachos 31b in the Rif; *Ohel Moed*;
 *Beiurei Shemos HaNirdafim*; *Aholei Yehudah*; *Ho'il Moshe*; *Masok MiDvash*.
-Omitted under house rule 9: the Peshitta, Septuagint and Vulgate renderings, the
-Greek myth behind *narcissus*, Rabbi Ernest Klein's Akkadian *habasillatu* and
-Old Iranian *wrda*, and Prof. Zohar Amar's botanical identifications.
+
+The essay is dedicated to the memory of the author's grandmother Rose (Roszi)
+Klein, born in Bonyhad in 1928, who survived the Holocaust, settled in Brooklyn,
+and was known as Shoshanah after her English name. The Peshitta, Septuagint and
+Vulgate renderings, the Greek myth behind *narcissus*, Rabbi Ernest Klein's
+Akkadian *habasillatu* and Old Iranian *wrda*, and the pointer to Prof. Zohar
+Amar's *Tzimchei HaMikra* for further botanical identifications were formerly
+omitted here under an Orthodox-sources rule that does not belong to this guide;
+all are restored, attributed as the column attributes them.
+
+One wording is reproduced from the article as printed rather than resolved: on
+the final tav of *chavatzeles*, the article says Ibn Janach and Radak understand
+it as "radical to the core root" while Menachem Ibn Saruk "sees it as integral,"
+a contrast it does not spell out.

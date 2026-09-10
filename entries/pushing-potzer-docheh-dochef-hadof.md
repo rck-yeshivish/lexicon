@@ -9,7 +9,7 @@ words:
   - he: פוצר
     tr: potzer
     en: presses, urges
-    distinct: poking or prodding at someone until he gives in (Rav Hirsch); Rabbi Yaakov Tzvi Mecklenburg takes the second occurrence in Sedom as a literal shove
+    distinct: poking or prodding at someone until he gives in (Rav Hirsch); for Shadal an offshoot of tzar, narrow, since one pressed is left with narrow choices; Rabbi Yaakov Tzvi Mecklenburg takes the second occurrence in Sedom as a literal shove
   - he: דוחה
     tr: docheh
     en: pushes away, sets aside
@@ -28,8 +28,8 @@ words:
     distinct: a repeated beat against something; driving livestock too hard (Bereishis 33:13), knocking at a door, and later a pulse (Ramban)
 sources:
   - wiaw:11128 "Vayera: Getting Pushy" (2023-11-04) https://articles.ohr.edu/articles/vayera-getting-pushy
-authorities: [Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Malbim, Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi David Abudarham, Rabbi Yosef Kimchi, Rabbi David Golomb, Ramban, Targum Yonasan, Metzudas Tzion]
-status: draft
+authorities: [Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Malbim, Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi David Abudarham, Rabbi Yosef Kimchi, Rabbi David Golomb, Ramban, Targum Yonasan, Metzudas Tzion, Shadal, Rabbi Abraham Grego, Norbert Pearlroth, David L. Gold]
+status: reviewed
 updated: 2026-09-10
 ---
 # Pushing: potzer / docheh / dochef / hadof / dofek
@@ -57,42 +57,59 @@ and *docheh* in a sugya is not physical at all.
 
 ## Where the authorities disagree
 
+The article opens by saying it is important to distinguish the physical act of
+pushing from the metaphorical sense of being pushed around or coerced, and that
+some of these words carry both.
+
 **Whether potzer is physical.** Rav Hirsch (to Bereishis 19:3) reads it as
-poking or stabbing at someone until he yields, an image of persistence rather
-than force, which fits Lot pressing his guests and Yaakov pressing Eisav to take
-the gift (Bereishis 33:11). Rabbi Yaakov Tzvi Mecklenburg (*HaKsav
-VeHaKabbalah* to Bereishis 19:9) reads the second occurrence, of the Sedomites,
-literally: they physically shoved Lot away from his own door. The Bottom line
-keeps "press" as the default and allows the physical sense where the narrative
-demands it.
+primarily poking or stabbing at someone or something until they acquiesce to the
+desires of the one pushing, an image of persistence and determination rather than
+force, which fits Lot pressing his guests and Yaakov pressing Eisav to take the
+gift (Bereishis 33:11). Shadal (to Bereishis 33:11) enriches this by arguing that
+פ-צ-ר is itself an offshoot of the biliteral צ-ר, narrow or strait, since pushing
+a person leaves him with narrow choices until he relents, akin to navigating a
+narrow passageway; evidently, the column notes, Shadal took the *peh* as a
+radical added to the core two-letter root. Rabbi Yaakov Tzvi Mecklenburg (*HaKsav
+VeHaKabbalah* to Bereishis 19:9) interprets the second occurrence, of the
+Sedomites, in the physical sense: they physically pushed Lot away from the door,
+preventing him from protecting his guests. This guide keeps "press" as the
+default and allows the physical sense where the narrative demands it.
 
 **Where dochef comes from.** Menachem Ibn Saruk, Ibn Janach, and Radak all trace
 it to the triliteral ד-ח-פ. Rabbi Shlomo Pappenheim instead reads it as a fusion
 of two biliteral roots, ד-ח (push) and א-פ (*af*, face or nose): to push
-someone's face away, rejecting his presence and sending him off to something
-else. Rabbi David Golomb takes a third route, tying *hadof* to *dochef* on the
-interchange of hei and ches together with a reordering that moves the guttural
-into second position.
+someone's face away, symbolizing the rejection of his presence and the urgency to
+redirect himself toward another task. Separately, Rabbi David Golomb writes that
+*hadof* is related to *dochef*, arguing that *hei* and *ches* can be viewed as
+interchangeable; the reordering that moves the guttural into second position is
+marked in the article as the columnist's own inference ("and, evidently").
 
 **How hadof differs from docheh.** Rabbi Pappenheim derives *hadof* from ד-פ,
 "pushing away with ease," and illustrates it with Geichazi shoving the Shunamis
-woman (Melachim II 4:27), which he says was easy because she stood on a slope
-that made her footing precarious. The Malbim (*Yair Ohr*) reaches a similar
-distinction from a different angle: *hadof* is used of something less rooted
-where it stands. Note that Targum there renders Geichazi's act with an Aramaic
-form of *dachah*, which is evidence the two overlap in practice.
+woman (Melachim II 4:27), which he says was easy because she was on a mountain
+and the incline made her footing more precarious. The Malbim (*Yair Ohr*) offers
+a similar explanation from a different angle, insinuating that *hadof* implies
+pushing away something less rooted in its original location. The article also
+records, without drawing a conclusion from it, that Targum there uses an Aramaic
+form of *dachah* for what Geichazi did.
 
-**What dofi means.** Rashi (to Tehillim 50:20) and Rabbi David Abudarham (to the
-*vidui*) tie it to *hadof*: slander pushes its victim aside for the speaker's
-own gain. Rabbi Yosef Kimchi, cited by Abudarham, reads it instead as a compound
-of the Greek *di* (double) and Hebrew *pi* (mouth), duplicitous speech from two
-mouths at once. The Bottom line follows Rashi and Abudarham as the majority.
+**What dofi means.** Rabbi Pappenheim traces *dofi* to this root, and the article
+notes that Rabbi David Abudarham of Seville had made the same connection earlier,
+in his commentary to the *vidui*, where the penitent admits to having spoken
+*dofi*: it is speaking derogatorily about another, by which one has essentially
+pushed away the victim of his hateful speech for personal gain. That explanation
+is Abudarham's; Rashi (to Tehillim 50:20) is cited only for the narrower point
+that he too links *dofi* with *hadof*. Rabbi Yosef Kimchi, cited by Abudarham,
+explains *dofi* instead as a portmanteau of the Greek prefix *di-*, two or
+double, and the Hebrew *pi*, mouth: duplicitous speech, as though one spoke with
+two different mouths, like the English "speaks with a forked tongue." The column
+does not rank the two.
 
 **What the men of Givah did at the door.** *Mitdapkim* (Shoftim 19:22): Targum
-Yonasan renders it with a cognate of *dchak*, pushing hard enough to break the
-door in. *Metzudas Tzion* (there, and to Shir HaShirim 5:2) reads it as mere
-knocking, to get the host to open. This is the whole difference between menace
-and request, so a translator must choose.
+Yonasan uses a cognate of *dchak*, the people pushing the door to break it open.
+*Metzudas Tzion* (there, and to Shir HaShirim 5:2) explains that they were more
+gently knocking, to convince the host to open up. This is the whole difference
+between menace and request, so a translator must choose.
 
 ## Distinctions
 
@@ -104,12 +121,15 @@ with Lot (Bereishis 19:3, 19:9), Yaakov pressing Eisav to accept his gift
 ### docheh (דוחה)
 Root ד-ח-ה, with the near-identical ד-ו-ח carrying the same sense, mostly in
 Tehillim: *dacho dechisani*, "I was surely pushed to falling, and Hashem helped
-me" (Tehillim 118:13); "my foot from being pushed," *dechi* (Tehillim 116:8, and
-see 56:14); also Mishlei 14:32, 26:28, Yirmiyahu 23:12. Rabbi Shlomo Pappenheim
-takes ד-ח as the core, meaning "push," and reads its family as pushing something
-out of place: *nidach* (Devarim 22:1, Yeshayahu 11:12), one pushed out of his
-homeland; *hadachah*, rinsing, water pushing filth away; *dochan*, millet, whose
-grains are pushed out of their husks. Rav Hirsch (to Bereishis 20:13) compares
+me" (Tehillim 118:13); "extracting my soul from death, my foot from being
+pushed," *dechi* (Tehillim 116:8, and see 56:14); also Mishlei 14:32, 26:28,
+Yirmiyahu 23:12. Inflections of ד-ח-ה appear eleven times in Tanach, as
+Even-Shoshan lists them, mostly in Tehillim. Rabbi Shlomo Pappenheim takes ד-ח as
+the core, meaning "push," and reads its family as pushing something out of place:
+*nidach*/*nidchei* (Devarim 22:1, Yeshayahu 11:12, 27:13), a refugee or rejected
+person, one pushed away from his homeland; *hadachah*, rinsing, water pushing
+filth away; *dochan*, rice or millet, grain-like granules extracted by pushing
+them out of their husks. Rav Hirsch (to Bereishis 20:13) compares
 *docheh* to *toeh* (becoming lost), on the interchange of dalet with tav and
 ches with ayin: a man pushed from home and a man who has lost his way are both
 severed from a secure base. The root ד-ח-ק (*dchak*) is the article's near
@@ -120,8 +140,9 @@ neighbor, treated in its own piece. In Talmudic usage a positive command
 ### dochef (דוחף)
 Root ד-ח-פ, five occurrences, all urgent: Achashverosh's couriers driven out
 with his decrees (Esther 3:15, 8:14), Haman hurrying home after leading Mordechai
-through the city (Esther 6:12), Uziyahu struck with tzaraas in the Beis
-HaMikdash and *nidchaf* to leave at once (Divrei HaYamim II 26:20), and Tehillim
+through the city (Esther 6:12), Uziyahu (Azariah), king of Yehudah, suddenly
+struck with tzaraas on his forehead in the Beis HaMikdash and *nidchaf* to leave
+the premises as quickly as possible (Divrei HaYamim II 26:20), and Tehillim
 140:12. Modern Hebrew's *dachuf*, urgent, preserves the sense exactly.
 
 ### hadof (הדף)
@@ -130,21 +151,48 @@ Yehoshua 23:5); pushing a man to his death, whether by accident (Bamidbar 35:22)
 or deliberately (Bamidbar 35:20); Geichazi and the Shunamis woman (Melachim II
 4:27). Rabbi Pappenheim brings the Mishnaic *dofan* here, a flimsy wall easily
 pushed aside (Yoma 2:3, Sukkah 1:1, Zevachim 8:1, Keilim 2:2, and many more),
-and with it *daf*, the board such a wall was built of, which in medieval Hebrew
-becomes a page. He also brings *dofi* (Tehillim 50:20), a fault or misdeed.
+and with it *daf*, the wooden board such a wall was often built of, which in
+later medieval Hebrew becomes a page or folio in a book. The article adds in
+brackets that in most of its Mishnaic occurrences *dofan* is used in a borrowed
+sense, of a child born by Cesarean section or otherwise by cutting through a
+physiological barrier to remove the child from the womb. Pappenheim also brings
+*dofi* (Tehillim 50:20), a fault or misdeed.
 Rav Hirsch (to Bamidbar 35:20) groups *hadof* with ע-ד-פ (*adif*, extra),
 ח-ט-פ (*chatifah*, seizing), ח-ט-ב (*chativah*, cutting off), and ע-ט-פ
-(*atifah*, wrapping), on the interchange of hei, ayin and ches and of dalet and
-tes: all five treat something as extra, to be moved, cut, or set apart.
+(*atifah*, wrapping or enveloping), on the interchange of hei, ayin and ches and
+of dalet and tes. The theme uniting all five is something deemed extra or even
+extraneous: *hadof* pushes a thing away because it is superfluous, *adif* is
+literally extra, *chatifah* grabs what was extraneous where it stood and belongs
+elsewhere, *chativah* cuts off what is extra, and *atifah* wraps a thing to set
+it apart from the rest.
 
 ### dofek (דפק)
-Root ד-פ-ק, three occurrences. Yaakov declines to travel with Eisav because
-driving (*defakum*) his flocks hard would kill them (Bereishis 33:13); "the
-voice of my beloved knocks, open for me" (Shir HaShirim 5:2); the men of Givah
-*mitdapkim* at the door (Shoftim 19:22). Ramban (in the responsa printed under
-*Rashba* §127) already uses *dofek* for the heartbeat, a natural extension of a
-persistent knock. One of the Wilderness encampments was named Dafkah (Bamidbar
-33:12-13).
+Root ד-פ-ק, three occurrences, each read slightly differently. Yaakov declines to
+travel with Eisav because driving (*defakum*) his flocks hard would kill them
+(Bereishis 33:13); "the voice of my beloved knocks, open for me" (Shir HaShirim
+5:2); the men of Givah *mitdapkim* at the door (Shoftim 19:22). Shadal (to
+Bereishis 33:13) gives the root as "to knock, bang, beat, push," and cites his
+student Rabbi Abraham Grego of Verona, who posits that it derives from ד-פ,
+alongside the roots of *dochef* and *hadof*. The persistent sound of a knock on a
+door resembles the persistent beat of the heart, and Ramban (in his responsa
+misattributed to *Rashba* §127) already uses *dofek* for a heartbeat, a usage
+that continues into Modern Hebrew and is not far from the original in Shir
+HaShirim. One of the Wilderness encampments was named Dafkah (Bamidbar
+33:12-13), seemingly from the same root.
+
+The article closes with a historical aside. Norbert Pearlroth, who served as
+research director of *Ripley's Believe It or Not!* for over half a century, wrote
+in his column on Jewish family names (*The Indiana Jewish Post*, 29 March 1946,
+p. 8) that the surname Deifik comes from *dofek*, "pulse": before 1848 Jews could
+not attend Polish or Russian medical schools and were limited to para-medical
+work such as barber-surgeon, and the patriarch of the Deifik family had the habit
+of feeling his patients' pulse, so the Hebrew word for heartbeat became the
+family name. Pearlroth's successor in that column, David L. Gold, later clarified
+(*The Indiana Jewish Post*, 31 October 1990, p. 16) that Deifik in fact derives
+from a nickname given to that patriarch. The columnist adds that Deifik is his
+wife's maiden name, and that on his own amateur genealogical research everyone
+bearing it (originally spelled Dojfig, Deifig or Dojfik) descends from her
+family, who came from Michalcze, today Mykhal'che in Ukraine, near Horodenka.
 
 ## Rendering guidance
 
@@ -176,8 +224,21 @@ Yeshayahu 11:12, 27:13; Yirmiyahu 23:12; Tehillim 50:20, 56:14, 116:8, 118:13,
 140:12; Mishlei 14:32, 26:28; Shir HaShirim 5:2; Esther 3:15, 6:12, 8:14; Divrei
 HaYamim II 26:20; *HaKsav VeHaKabbalah* to Bereishis 19:9; Malbim, *Yair Ohr*;
 Abudarham to the *vidui*; Ramban's responsa printed under *Rashba* §127.
-Two citation slips in the article are corrected here: *dofi* is Tehillim 50:20
-(the article prints 50:2), and *kol dodi dofek* is Shir HaShirim 5:2 (the
-article prints 2:5). The Even-Shoshan occurrence count, the readings given in
-Shadal's name and that of his student Rabbi Abraham Grego, and the surname
-research of Norbert Pearlroth and David L. Gold are omitted under house rule 9.
+Also *Machberes* lexicographers Menachem Ibn Saruk, Ibn Janach and Radak on
+ד-ח-פ; Rabbi Shlomo Pappenheim's *dofan* list (the article's runs through some
+two dozen tractates); Norbert Pearlroth, *The Indiana Jewish Post*, 29 March
+1946, p. 8, and David L. Gold, there, 31 October 1990, p. 16. Two citation slips
+in the article are corrected here: *dofi* is Tehillim 50:20 (the article prints
+50:2, both where it cites Pappenheim and where it cites Rashi), and *kol dodi
+dofek* is Shir HaShirim 5:2 (the article prints 2:5, and again in its citation of
+*Metzudas Tzion*). Restored 2026-09-10 from an earlier omission note: the
+Even-Shoshan count of eleven for ד-ח-ה, Shadal on both פ-צ-ר and ד-פ-ק with his
+student Rabbi Abraham Grego of Verona, and the Pearlroth/Gold research into the
+surname Deifik, all dropped under the Orthodox-sources rule, are now in the body.
+Shadal's cut had removed a live third reading of *potzer*. Two attributions were
+also corrected: the explanation of *dofi* as pushing aside the victim of one's
+speech is Abudarham's, not Rashi's (Rashi is cited only for linking *dofi* with
+*hadof*), and a former line calling Rashi and Abudarham "the majority" over Rabbi
+Yosef Kimchi has been cut, the article ranking no one. The article also refers
+the reader to its own earlier pieces "Putting Pressure" (April 2022) on ד-ח-ק and
+"Lost or Mistaken" (June 2018) on *toeh*; the entry does not draw on them.

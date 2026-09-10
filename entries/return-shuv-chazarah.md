@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachaya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Return: shuv (teshuvah) / chazarah
 
@@ -28,9 +28,17 @@ appears in Tanach, so a rendering of a pasuk should never lean on it.
 
 ## Distinctions
 
+The article opens on Shabbos Shuvah, with Hoshea's words in the haftarah,
+"Return O Yisrael until Hashem your God" (Hoshea 14:2). *Shuv* / *shuva* is the
+basis of *teshuvah*, and cognates of *shuva* are used throughout Tanach for
+repentance (for example Devarim 30:2). But there is a second Hebrew word for
+returning, *chazar*, and a lapsed Jew who has come back to observance is
+colloquially one who *chazar b'teshuvah*, a phrase built from two different
+verbs both meaning to return. That is the question the essay sets itself.
+
 ### shuv, teshuvah (שוב, תשובה)
-Rabbi Shlomo Pappenheim: the two-letter root ש-ב denotes returning to a prior
-place or situation. He groups with it *hashavah*, returning a lost object
+Rabbi Shlomo Pappenheim of Breslau (1740-1814): the two-letter root ש-ב denotes
+returning to a prior place or situation. He groups with it *hashavah*, returning a lost object
 (Devarim 22:1) or stolen goods (Vayikra 5:23), since both address something
 earlier in time and set it right; *lehashiv*, "to answer," because the answer
 fills the hole the question opened; and *shev*/*yeshivah*, "dwelling," because
@@ -39,33 +47,62 @@ settling in a place creates a home base one always comes back to.
 Pappenheim adds a second sense that carries the whole idea of *teshuvah*: ש-ב
 can mean reverting to one's **natural** state even where that was never one's
 prior state. So *Shabbos* is a return to man's natural condition of rest even
-for someone who has never rested; so too *lasheves*, to sit, and *shevi*, a
-captive whose movement has been arrested. On the same logic Avraham's servant
-could ask whether to "return" (*hasheiv ashiv*) Yitzchak to Charan (Bereishis
-24:5), a place Yitzchak had never been, since it was his father's homeland and
-so his natural place.
+for someone who has never rested; so too *lasheves*, to sit, and *shevi* /
+*shevuyah*, a captive whose freedom of movement has been curtailed by his
+captors, as if stuck in a position of rest. On the same logic Avraham's
+servant, charged with finding a wife for Yitzchak in Avraham's homeland Charan,
+could ask what to do if the woman would not agree to leave, "Should I return
+(*hehashev ashiv*) your son to the land from which you left?" (Bereishis 24:5).
+Although Yitzchak had never been in Charan, he could still return there, since
+it was his father's homeland and so, by extension, could be considered his
+natural place.
 
-The article grounds this in Yechezkel 33:18-19 read with Berachos 29a. Chazal
-explain the righteous man who "returns" from his righteousness as one who
-sinned, repented, and went back to sinning, that is, an actual prior state. They
-do not say the same about the wicked man who "returns" from his wickedness,
-because righteousness is man's natural state and sin is not; the *baal teshuvah*
-returns to what he always was, whether or not he was ever there.
+The article grounds this in Yechezkel 33:18-19 (see also Yechezkel 18:21-27)
+read with Berachos 29a. The Gemara explains the righteous man who "returns"
+from his righteousness as one who had been a sinner, repented, and then returned
+to sinning, an actual prior state. It does not explain the wicked man who
+"returns" from his wickedness as one who was first righteous, then became evil,
+and then returned to his former righteousness. How, then, can the wicked man be
+called a returnee if he had never been righteous to begin with? The answer is
+that righteousness is man's natural state and sinfulness unnatural: *teshuvah*
+brings a man back to his innate righteousness, so the wicked man who repents is
+returning to that natural state. The converse does not hold. When a righteous
+man recants his righteousness and becomes a sinner, he cannot justifiably be
+said to be returning to anything, unless, as the Gemara explains, he had
+previously been a sinner.
+
+This is the article's own answer to the question in its title. *Teshuvah*
+denotes a man's journey to his natural sin-free state; he is returning to where
+he is supposed to be, whether or not he was ever there before, returning to his
+spiritual default position, his home base. The article calls it the quest for
+peace and tranquility, the return to one's roots. Moreover, the process of
+*teshuvah*, in which one harnesses the power of his regret over past sins as
+fuel for personal growth, enables him to revisit the past and recast his former
+sins as merits: doing *teshuvah*, one goes back to his previous deeds to make
+amends, in the same way that *hashavah* and *lehashiv* fill holes previously
+created by thievery or by a question.
 
 ### chazarah (חזרה)
-Neither *chazarah* nor its verbs *chazar*/*chozer* occur anywhere in Tanach;
-they are Mishnaic Hebrew, and they mean variously to regret, recant, retract,
-repeat, return, or repent. Rabbi Eliyahu HaBachur: the Targumim regularly render
-Hebrew *sivuv*, "go around, circle about," with the Aramaic *chazar* and its
-cognates. So *chazarah* carries the picture of wheeling about in place, the
-correction of course rather than the arrival.
+Part of the *teshuvah* process, the article says, entails making an about-face
+and figuratively turning oneself around in a circle to correct course, and the
+Hebrew word for that is *chazarah*. Neither *chazarah* nor its verbs
+*chazar*/*chozer* occur anywhere in Tanach; they are Rabbinic (Mishnaic) Hebrew,
+and they mean variously to regret, recant, retract, repeat, return, or repent.
+Rabbi Eliyahu HaBachur (1469-1549), known in Latin as Elias Levita, notes that
+the standard way the Targumim render Hebrew *sivuv*, "go around" or
+"circumnavigate," is with the Aramaic/Syriac *chazar* and its cognates. The
+article's own summary of the pair: *shuva* implies focusing on the goal of
+getting back to where one used to be, while *chazarah* focuses on the act of
+getting out of the rut one is currently stuck in and making a U-turn.
 
-On the root ח-ז-ר in Tanach, the only word the article finds is *chazir*, "pig."
-Rabbi Menachem Ricanati (to Vayikra 11:2): the pig is a *chazir* because in the
-future Hashem will "return" to us the permission to eat it, our relationship to
-it reversing course. Rabbeinu Bachaya and Rabbi David Ibn Zimra hold this is not
-to be taken literally. Rabbi Yosef Ibn Kaspi: the name comes from the pig's
-habit of turning around backwards and walking in circles.
+The closest word to *chazarah* in Tanach is *chazir*, "pig," whose root is also
+ח-ז-ר. Rabbi Menachem Ricanati (to Vayikra 11:2): the pig is called *chazir*
+because in the future Hashem will "return" to us the right to eat it, our
+relationship with the pig thus reversing course, after a fashion. (Rabbeinu
+Bachaya and Rabbi David Ibn Zimra write that this should not be taken
+literally.) Ibn Kaspi also points out that the root of *chazarah* appears in
+Tanach only in the word *chazir*, which he explains gets that name because pigs
+commonly turn around backwards to walk aimlessly in circles.
 
 ## Rendering guidance
 
@@ -93,6 +130,15 @@ Rabbi Reuven Chaim Klein, "Return to Sender: The True Meaning of Teshuva,"
 What's in a Word?, Ohr Somayach, 6 Tishrei 5780 (2019-10-05): raw text in
 `sources/whats-in-a-word/raw/8422-return-to-sender-the-true-meaning-of-teshuva.md`.
 Primary loci: Hoshea 14:2; Devarim 30:2, 22:1; Vayikra 5:23, 11:2; Bereishis
-24:5; Yechezkel 33:18-19 and 18:21-27; Berachos 29a; Rabbi Shlomo Pappenheim,
-*Yerios Shlomo* / *Cheshek Shlomo* on the root ש-ב; Rabbi Eliyahu HaBachur on the
-Targumic *chazar*; Ricanati to Vayikra 11:2.
+24:5; Yechezkel 33:18-19 and 18:21-27; Berachos 29a; Rabbi Shlomo Pappenheim of
+Breslau on the root ש-ב; Rabbi Eliyahu HaBachur, known in Latin as Elias Levita,
+on the Targumic *chazar*; Ricanati to Vayikra 11:2, with Rabbeinu Bachaya and
+Rabbi David Ibn Zimra against taking it literally, and Ibn Kaspi on *chazir* as
+the sole biblical appearance of the root. An earlier draft of this paragraph
+named *Yerios Shlomo* and *Cheshek Shlomo* as the source for Pappenheim; the
+article names no work of his, and the titles have been removed. Two things in
+the rendering guidance are ours: the warning off "atonement" for *teshuvah*
+(*kapparah* is a separate cluster, which this article does not discuss) and the
+suggested handling of *chazar b'teshuvah* in English. The Latin name Elias
+Levita had been dropped from this entry and is now restored, since the column
+itself gives it.

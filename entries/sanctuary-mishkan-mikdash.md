@@ -17,7 +17,7 @@ words:
 sources:
   - wiaw:7164 "Sacred Spaces" (2017-03-04) https://articles.ohr.edu/articles/sacred-spaces
 authorities: [Eruvin 2a, Mishnah Zevachim 14:6, Yoma 9a-9b, Zevachim 119a, Rabbi Avraham Wittenstein]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Sanctuary: Mishkan / Mikdash
@@ -41,15 +41,17 @@ are borrowed usages, not evidence that they are synonyms.
 
 ## Where the authorities disagree
 
-The sources do not split on the meanings, but they do pull in two directions on
-how firm the line is. Eruvin 2a allows that the two words are sometimes used
-almost interchangeably. Against that stands the whole body of halachic
-difference: private altars are permitted under a *Mishkan* and forbidden once
-the *Mikdash* stands. The resolution the article works with is that the
-interchangeable usages are borrowed, and the real referents stay distinct.
-Mishnah Zevachim 14:6 supplies the middle case that shows how the line can
-blur: the *Mishkan* at Shiloh had stone walls, like a permanent building, but
-was still roofed with a curtain, so it held a quasi-*Mikdash* status.
+The sources do not split on the meanings. The column notes that Eruvin 2a admits
+the two words are sometimes used almost interchangeably, and rules even so that
+they are not truly synonymous: they name two specific types of holy place, and
+the other usages are simply borrowed meanings. What the article does supply is a
+middle case. Mishnah Zevachim 14:6 gives the *Mishkan* at Shiloh
+quasi-*Mikdash* status: its stone walls had the properties of a permanent
+edifice, unlike the *Mishkan* everywhere else, yet it was still covered with a
+curtain as it had been elsewhere, and it stood there almost four hundred years,
+which itself lent it permanence. So Shiloh was not a temporary Sanctuary at all
+but a semi-permanent stepping-stone between the temporary *Mishkan* and the
+permanent *Mikdash*.
 
 ## Distinctions
 
@@ -74,16 +76,22 @@ dimensions were larger. Once it stood, private altars were forbidden for good.
 
 ### The two eras
 Yoma 9a-9b gives the causes of each destruction: the Shiloh Sanctuary for
-desecration of holy foodstuffs and immorality, the first Beis HaMikdash for the
-three cardinal sins, the second for baseless hatred among Jews. Zevachim 119a
+desecration of holy foodstuffs and for impropriety in intimacy, the first Beis
+HaMikdash for the three cardinal sins (idolatry, impropriety in intimacy, and
+murder), the second for baseless hatred among Jews. The destruction of the two
+*Batei Mikdash* is mourned each year on Tishah B'Av; the column adds that in
+some ways the destruction of Mishkan Shiloh is an equally sad catastrophe.
+Zevachim 119a
 reads Devarim 12:9, "for you have not yet come to the resting place or to the
 inheritance," as the two stages: the resting place is the Mishkan at Shiloh, the
-inheritance the Beis HaMikdash in Yerushalayim. Rabbi Avraham Wittenstein: the
-*Mishkan* paradigm had an advantage of its own, since it carried the Presence
-forward unbroken from Har Sinai; when the Pelishtim destroyed Shiloh they cut
-that continuity, so the Presence in the later Sanctuaries at Nov and Givon and in
-the Beis HaMikdash was a fresh revelation, earned by the work of Shmuel HaNavi
-and David HaMelech, rather than the direct continuation of Sinai.
+inheritance the Beis HaMikdash in Yerushalayim. Rabbi Avraham Wittenstein, of
+Yeshivas Mir in Yerushalayim, explains that the *Mishkan* paradigm had an
+advantage of its own, since it reflected the continuous manifestation of
+Hashem's Presence from the revelation at Har Sinai; when the Pelishtim destroyed
+Shiloh they caused a kind of disconnection from Sinai, so that the Presence in
+the later Sanctuaries at Nov and Givon and in the Beis HaMikdash was not the
+direct continuation of Sinai but a new sort of revelation, one that could be
+achieved only through the hard work of Shmuel HaNavi and David HaMelech.
 
 ## Rendering guidance
 
@@ -113,6 +121,13 @@ Rabbi Reuven Chaim Klein, "Sacred Spaces," What's in a Word?, Ohr Somayach,
 2a; Mishnah Zevachim 14:6; Yoma 9a-9b; Zevachim 119a; Devarim 12:9. This is a
 historical and halachic piece more than a lexical one: beyond the roots ש-כ-נ and
 ק-ד-ש it names no grammarians, so the distinctions here rest on the Gemara and on
-the physical differences between the two buildings. The article's line that the
-Babylonians destroyed the first Beis HaMikdash "about 410 years after its
-destruction" is a slip for after its building.
+the physical differences between the two buildings. It cites no material from
+outside the traditional sources, so nothing was dropped here on that account.
+
+Two slips in the article are not repeated. It writes that the Babylonians
+destroyed the first Beis HaMikdash "about 410 years after its destruction,"
+which is a slip for after its building. And in explaining why the *Mikdash* was
+larger it writes "because the latter was meant to be a permanent structure, not
+a movable, temporary one," where the sense requires the former. The article
+closes with the author's note, *le'zechus refuah sheleimah* for Bracha bas Chaya
+Rachel.

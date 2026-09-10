@@ -10,9 +10,9 @@ words:
     nk: נֶצַח
 sources:
   - wiaw:6934 "Ten Expressions of Praise" (2016-09-17) https://articles.ohr.edu/articles/ten-expressions-of-praise
-authorities: [Arizal, Maharal of Prague, Abudraham, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimshon Pincus, Rabbi Chaim Volozhiner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg]
-status: draft
-updated: 2026-09-09
+authorities: [Arizal, Maharal of Prague, Abudraham, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimshon Pincus, Rabbi Chaim Volozhiner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Franz Boas]
+status: reviewed
+updated: 2026-09-10
 ---
 # Praise: hallel / shevach / hoda'ah / kilus (the ten expressions)
 
@@ -24,54 +24,65 @@ Haggadah, the close of Hallel) reads, in order: *lehodos* **to thank**,
 *leromem* **to extol**, *lehader* **to beautify**, *levarech* **to bless**,
 *le'aleh* **to raise high**, *lekales* **to exalt**; Nusach Sefard (Arizal)
 adds *lenatzei'ach* **to eternalize** after *lehader*, Nusach Ashkenaz
-(Maharal) omits it. Keep the order and give each verb its own English: thanks
-comes before praise because personal gratitude precedes the general duty
-(Wertheimer), and *lekales* is "exalt," not "disparage," though the Biblical
-verb means the latter.
+(Maharal) omits it. Keep the order and give each verb its own English: thanking
+generally comes before lauding because personal gratitude precedes the general
+duty (Wertheimer), and *lekales* is "exalt," not "disparage," though the
+Biblical verb means the latter.
 
 ## Distinctions
+
+The column opens with an analogy. The Jewish-German linguist and anthropologist
+Franz Boas (1858-1942) claimed that the Eskimos of Arctic North America have
+more than twenty-five words for ice, and the usual explanation is that a people
+picks up every nuance of what matters most to it and gives each one a name. So
+too, the column suggests, Hebrew carries a multitude of words for praise,
+precisely because praising Hashem is so central a part of Yiddishkeit.
 
 ### lehodos (להודות), lehallel (להלל), leshabei'ach (לשבח)
 Thanking is the admission that another did one a good turn and is owed
 gratitude. Praising is relaying another's virtue to a third party. Lauding
 is dwelling on another's good traits as such, apart from any dealing one had
-with him. Rabbi Shlomo Aharon Wertheimer: thanking Hashem always stands
-before lauding Him, because one's personal debt of gratitude comes before the
-general obligation to praise. Abudraham counts seven expressions only, and
-leaves out *levarech* and *lekales*.
+with him. Rabbi Shlomo Aharon Wertheimer (1866-1935) notes that in general
+thanking Hashem stands before lauding Him, because one's personal
+responsibility to show gratitude comes before the general obligation to praise
+Him. Abudraham recognizes seven expressions only, since he also leaves out
+*levarech* and *lekales*.
 
 ### lefa'er (לפאר) and lehader (להדר)
-Rabbi Shimshon Pincus: to glorify is to fix on one particular praiseworthy
-feature; to beautify is to speak of the whole, the symmetrical and
-all-embracing praiseworthiness in every aspect. Nusach Sefard, following the
-Arizal, places *lenatzei'ach*, to eternalize, right after *lehader*; the
-Maharal's Ashkenaz rite has no tenth term.
+Rabbi Shimshon Pincus (1944-2001): to glorify is to fix on one specific
+praiseworthy aspect; to beautify is to stress the whole, the symmetrical and
+all-encompassing praiseworthiness in every aspect. Nusach Sefard, following the
+Arizal (1534-1572), places *lenatzei'ach*, to eternalize, right after *lehader*;
+Nusach Ashkenaz, following the Maharal of Prague (1525-1609), has no tenth term.
 
 ### leromem (לרומם) and le'aleh (לעלה)
-Rabbi Shimshon Pincus: both raise Hashem's standing, but *leromem* is the
-admission that He is above *us*, while *le'aleh* is that He is above
-*everything*. (The article's gloss for *le'aleh* is "exult"; since that
+Rabbi Shimshon Pincus: both raise Hashem's standing, but in different ways,
+*leromem* being the admission that He is above *us* and *le'aleh* that He is
+above *everything*. (The article's gloss for *le'aleh* is "exult"; since that
 English word ordinarily means "rejoice," "raise high" or "elevate" says what
 Pincus means without ambiguity.)
 
 ### levarech (לברך)
-A mortal cannot bless the Creator as He blesses him. The accepted sense:
-to bless Hashem is to acknowledge Him as the source of every blessing, so
-"blessing" means attributing all blessing to Him. Rabbi Chaim Volozhiner
-develops this in *Nefesh HaChaim*, Shaar 2.
+Calling it "blessing" is something of a misnomer: a mere mortal cannot bless the
+Creator as He blesses him. The accepted sense: to bless Hashem is to
+acknowledge Him as the source of all blessing, so "blessing" here means
+attributing all blessing to Him. Rabbi Chaim Volozhiner (1749-1821) elaborates
+on it in his magnum opus, *Nefesh HaChaim*, Shaar 2.
 
 ### lekales (לקלס)
-The disputed tenth. In Biblical Hebrew *lekales* means "to disparage"; in
-Rabbinic Hebrew "to exalt," and some authorities therefore advise omitting it.
-Rabbi Shlomo Pappenheim (cited often by Rabbi Yaakov Tzvi Mecklenburg)
-reconciles the two: the praise called *kilus* carries a negative edge, in one
-of three ways. It may be embellished, undeserved praise offered to spur a
-mildly good behavior on (praising a child's poor handwriting so he keeps
-practicing); it may be a verbal put-down meant as its opposite (calling a
-handsome child "ugly" so he does not grow vain); or it may be praise
-exaggerated in order to denigrate, magnifying a man's honor so that his
-disgraceful act stands out the more. In the liturgy the sense is the Rabbinic
-one: exalt.
+The disputed one, somewhat controversial. In Biblical Hebrew *lekales* means
+"to disparage"; in Rabbinic Hebrew "to exalt," and some authorities therefore
+recommend omitting it. Rabbi Shlomo Pappenheim of Breslau, whose work is
+frequently cited by the more famous Rabbi Yaakov Tzvi Mecklenburg (1785-1865),
+reconciles the apparent contradiction: the praise called *kilus* carries a
+somewhat negative connotation, and he offers three ways of understanding that.
+It may be embellished, undeserved praise offered simply to inspire a person to
+keep up a slightly good behavior (a parent praising a child's poor handwriting
+so he keeps practicing); it may be a verbal insult meant as its opposite
+(calling a handsome child "ugly" so he does not grow arrogant); or it may be
+praise exaggerated in order to denigrate, magnifying a man's honor so that some
+disgraceful act of his stands out the more. The siddur's list is in Rabbinic
+Hebrew, where the verb means to exalt.
 
 ## Rendering guidance
 
@@ -94,8 +105,9 @@ one: exalt.
   When the passage enumerates, hold the ten apart; when it uses one word in
   passing, "praise" is fine.
 - Trap: "extol" and "exalt" and "raise high" are near-synonyms in English;
-  the article assigns extol to *leromem*, raise high to *le'aleh*, exalt to
-  *lekales*. Keep that assignment fixed across a project.
+  the article assigns extol to *leromem*, exult to *le'aleh* and exalt to
+  *lekales*, and this entry substitutes "raise high" for *le'aleh* for the
+  reason given above. Keep whichever assignment you take fixed across a project.
 
 ## Notes for a project
 
@@ -110,4 +122,10 @@ the article cites: the close of Pesukei DeZimrah (Shabbos and Yom Tov), the
 Haggadah, and the concluding berachah of Hallel; Arizal (Nusach Sefard) and
 Maharal (Nusach Ashkenaz) on *lenatzei'ach*; Abudraham's seven; Rabbi Chaim
 Volozhiner, *Nefesh HaChaim* Shaar 2; Rabbi Shimshon Pincus on the four paired
-verbs; Pappenheim on *lekales* as cited by Mecklenburg (*HaKsav VeHaKabbalah*).
+verbs; Rabbi Shlomo Pappenheim on *lekales*; Franz Boas for the opening
+analogy. The article names no work of Mecklenburg's here, and does not say that
+he cites Pappenheim on *lekales* in particular, only that he frequently cites
+Pappenheim's work; an earlier reference here to *HaKsav VeHaKabbalah* has been
+removed. The article itself counts the liturgical expressions as nine and then
+calls them ten once the Sefard *lenatzei'ach* is added; the entry keeps both
+counts as the article has them. Nothing the article cites is omitted.

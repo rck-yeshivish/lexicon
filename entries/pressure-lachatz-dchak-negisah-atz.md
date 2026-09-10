@@ -11,18 +11,23 @@ words:
 sources:
   - wiaw:9658 "Pesach: Putting Pressure" (2022-04-16) https://articles.ohr.edu/articles/pesach-putting-pressure
 authorities: [Rabbi Eliezer Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Shimon Schwab, Rabbi Refael Binyamin Posen, Malbim, Targum Onkelos, Targum Yonatan, Targum Neofiti, Rashi, Menachem Ibn Saruk, Ramban, Radak, Ibn Janach]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Pressure: lachatz / d'chak / negisah / atz / alatz
 
 ## Bottom line
 
-*Lachatz* is **pressure** applied, with the eye on the one applying it.
-*D'chak* is **crowding** or **squeezing out**, pressure that shoves a man from
-his place, usually so that someone else can have it. *Negisah* is the
+*Lachatz* is **pressure** applied; on Rabbi Shimon Schwab the eye is on the one
+applying it. *D'chak* is **crowding** or **squeezing out**, and on Rabbi Shlomo
+Pappenheim's crudest sense it is shoving a man from his place so that someone
+else can have it. How the two differ is itself disputed, and the article gives
+five readings that do not agree, Rabbi Eliezer Ashkenazi and Pappenheim taking
+opposite sides on which of the two carries the malice. *Negisah* is the
 **taskmaster's driving**, relentless and up close. *Atz* is **hurrying** someone
-along. *Alatz* is **wearing a man down with words**. The trap: English "press"
+along, or on Rabbi Posen's Targum reading physically pushing him. *Alatz* is
+**pressing with words**, cajoling on Pappenheim, tied to *lachatz* by Ramban and
+Radak, and read as making a man angry by Ibn Janach. The trap: English "press"
 takes all five. The Haggadah's *v'es lachatzeinu, zeh had'chak* is a gloss of
 one by the other, so a translation that renders both "oppression" makes the
 derashah say nothing.
@@ -30,39 +35,50 @@ derashah say nothing.
 ## Distinctions
 
 ### lachatz (לחץ) and d'chak (דחק)
-The Haggadah, on *v'es amaleinu v'es lachatzeinu* (Devarim 26:7), explains
-*lachatz* as *d'chak* and brings as its raya Shemos 3:9, *v'gam raisi es
-halachatz asher Mitzrayim lochatzim osam*, another *lachatz* verse. Every
-authority below is answering the same question: what does the gloss add, and how
-does the second pasuk prove it.
+The Haggadah, on the mikra bikkurim declaration *v'es amaleinu v'es lachatzeinu*
+(Devarim 26:7), explains *lachatz* as *d'chak* and brings as its raya Shemos
+3:9, *v'gam raisi es halachatz asher Mitzrayim lochatzim osam*, another
+*lachatz* verse. The derashah therefore begs for a deeper explanation, since it
+defines a word by a word and proves it from a second pasuk carrying the very
+same word. Every authority below is answering the same two questions: what
+divides *lachatz* from *d'chak*, and how the second pasuk shows that the first
+one's *lachatz* really is *d'chak*.
 
-- Rabbi Eliezer Ashkenazi (*Maaseh Hashem*): *lachatz* by itself implies nothing
-  malicious, only pressure applied to extract some benefit from the one
-  pressured. Calling it *d'chak* says the Mitzrim were not merely working the
-  Jews for profit but meant them harm.
-- Rabbi Shlomo Pappenheim reverses the two (see Shoftim 2:18, Yoel 2:8):
-  *lachatz* is pressure meant to make a man suffer, *d'chak* is pressure applied
-  for the presser's own benefit even at the other's cost, at root pushing a man
-  out of his place so that another can take it. On his reading the Haggadah's
-  gloss softens the pasuk: the Mitzrim's object was their own gain, the Jews'
-  suffering being collateral, and the Jews were pushed aside only where the two
-  interests collided.
-- Rabbi Shimon Schwab: *lachatz* looks at the one applying the pressure and says
-  nothing about whether it worked; a man may be strong enough to bear it.
-  *D'chak* is pressure strong enough to force the other's hand. So Devarim 26:7
-  reports only that pressure was applied, and the Haggadah adds that it
-  succeeded. His proof is that in the second pasuk the Mitzrim are the subject
-  and Yisrael the object of the verb, so the pressure landed. (The article cites
-  this pasuk as Yechezkel 3:9; the locus is Shemos 3:9.)
-- Rabbi Refael Binyamin Posen reads it through Targum. *Lachatz* covers physical
-  pressure and psychological pressure both. Where it is physical, Onkelos
-  renders it with *d'chak*, as with Bilam's foot pressed against the wall
-  (Bamidbar 22:25); where it is psychological, Onkelos uses ע-ו-ק, as in the
-  prohibition against pressuring a ger (the article cites Yechezkel 22:20; the
-  Torah's prohibition is Shemos 22:20). Onkelos renders Devarim 26:7 as *d'chak*,
-  so the Haggadah is saying that even the bare physical pressure was enough to
-  move Hashem to redeem them.
-- Malbim, in four places and not consistently. To Shoftim 2:18: *lachatz* is
+- Rabbi Eliezer Ashkenazi (1512-1585, *Maaseh Hashem*): *lachatz* does not
+  necessarily imply anything nefarious in the one applying it, and typically
+  connotes pressure applied to extract some benefit from the one pressured.
+  Calling it *d'chak* says the Mitzrim were not merely reaping the benefit of
+  the Jews' work but had malevolent intentions and meant them harm.
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814) takes it conversely (see
+  Shoftim 2:18, Yoel 2:8): *lachatz* is pressuring a man chiefly to make him
+  suffer, *d'chak* is pressuring another for one's own benefit even at his cost,
+  and in its crudest sense pushing a man out of his place so that another can
+  take it, where the intention is not to hurt the one pushed but to benefit the
+  one who replaces him. On his reading the Haggadah's gloss softens the pasuk:
+  the Mitzrim's primary goal was to benefit themselves, the Jews' suffering
+  being collateral damage, so that the Jews were pushed aside only where the two
+  sets of interests collided, and in general, he argues, they had the same
+  rights and privileges as Egyptian citizens.
+- Rabbi Shimon Schwab (1908-1995): *lachatz* focuses on the one applying the
+  pressure and says nothing about whether it worked; one man may be resilient
+  enough to withstand it and another too weak to bear it, and *lachatz* covers
+  both. *D'chak* is pressure strong enough actually to force the other's hand.
+  So Devarim 26:7 reports only that pressure was applied, and the Haggadah adds
+  that it succeeded in pushing the Jews into doing the Mitzrim's bidding. His
+  proof is that in the second pasuk the Mitzrim are the subject and Yisrael the
+  object of the verb, so the pressure landed. (The article cites this pasuk as
+  Yechezkel 3:9; the locus is Shemos 3:9.)
+- Rabbi Dr. Refael Binyamin Posen (1942-2016) reads it through Targum.
+  *Lachatz* covers physical pressure and psychological pressure both. Where it
+  is physical, Onkelos renders it with *d'chak*, as with Bilam's foot pressed
+  against the wall (Bamidbar 22:25); where it is psychological, Onkelos uses
+  ע-ו-ק, as in the prohibition against pressuring a ger (the article cites
+  Yechezkel 22:20; the Torah's prohibition is Shemos 22:20). Onkelos renders
+  Devarim 26:7 as *d'chak*, so the Haggadah is saying that Hashem pitied them not
+  only for the psychological pressures they bore but that even the bare physical
+  pressure was enough to sway His decision to release them.
+- The Malbim, Rabbi Meir Leibush ben Yechiel Michel Weiser (1809-1879), seems to
+  somewhat contradict himself across four places. To Shoftim 2:18: *lachatz* is
   financial pressure and forced labor, *d'chak* is restriction on where one may
   live. To Shemos 3:9: *negisah* is the financial pressure and forced labor,
   *lachatz* the restriction on where one may live. To Yeshayahu 3:5: *negisah*
@@ -73,18 +89,24 @@ does the second pasuk prove it.
   picks the second, the cramped quarters the Mitzrim confined them to.
 
 ### negisah (נגישה)
-Shemos 5:13, *v'hanogsim atzim*, the taskmasters driving the people to meet the
-quota without straw. Targum Neofiti renders *nogsei* as *dachkoi* (Shemos 5:14),
-and Targum Yonatan renders *lo yigos* (Devarim 15:2), the creditor forbidden to
-press after shemittah, with a *d'chak* cognate as well.
+When Moshe first tried to free them, Pharaoh stopped supplying straw and kept
+the quota, and the pasuk says *v'hanogsim atzim* (Shemos 5:13), two words for
+pressure in one clause, the taskmasters driving the people to work as though the
+straw were still coming. Targum Neofiti renders *nogsei* as *dachkoi* (Shemos
+5:14), cementing the tie between *negisah* and *d'chak*, and the Targum known as
+Yonatan renders *lo yigos* (Devarim 15:2), the lender forbidden to press for his
+debt after shemittah, with a *d'chak* cognate as well.
 
 Pappenheim traces *negisah* to the biliteral ג-ש, closeness, notwithstanding the
 sin: *gishah* (drawing as near as possible), *gush* (a tightly packed clump),
-*geshem* (rain from densely concentrated vapor), and even Goshen, the one
-settled region, for its compacted soil against the sand of the rest of Mitzrayim.
-So *negisah* is pressure by repeated close contact, standing over a man and not
-letting him breathe. Malbim (to Yeshayahu 3:5) draws a further line: *negisah* is
-pressing a man for money he does not owe, *nosheh* is pressing for money he does.
+*geshem* (rain from clouds of highly concentrated vapor), and he even suggests
+Goshen, the one region the Jews were allowed to settle, for its compact dirt
+against the sandier rest of Mitzrayim. So *negisah* is marked by repeated
+encounters between the one pressing and the one pressed, the two as close as can
+be, standing over a man and not giving him space to breathe. Malbim (to
+Yeshayahu 3:5) draws a further line: *negisah* is pressing a man to pay money he
+does not actually owe, *nosheh* is pressing for money he is already obligated to
+pay.
 
 ### atz (אץ)
 Bereishis 19:15, *vayaitzu hamalachim b'Lot* (the article prints 19:9). Onkelos
@@ -102,9 +124,10 @@ there renders it *d'chak*. Ramban (to Bereishis 32:25) treats the aleph of
 *alatz* as interchangeable with the ches of *chalatz*, itself a metathesis of
 *lachatz*; Radak in *Sefer HaShorashim* likewise associates *alatz* with
 *lachatz*. Ibn Janach dissents, glossing the verb "making him angry" rather than
-pressuring him. Pappenheim traces it to ל-צ, logical verbalizing, whence
-*melitzah* and *leitzanus*, so *alatz* is talking a man into something by
-persistent argument.
+putting pressure on him. Pappenheim traces it to ל-צ, logical verbalizing,
+whence *melitzah* (verbal justification or defense, also translation) and
+*leitzanus* (scorn or mockery), so *alatz* is the adept use of words to cajole a
+man and convince him into something.
 
 ## Rendering guidance
 
@@ -118,8 +141,8 @@ persistent argument.
 - Bereishis 19:15: "the malachim urged Lot on." If Rabbi Posen's reading is
   wanted, "pressed Lot" and note the Targum; Pappenheim's reading gives "hurried
   Lot."
-- Shoftim 16:16: "she pressed him with her words" or "she wore him down."
-  Following Ibn Janach it would be "she vexed him"; say which.
+- Shoftim 16:16: "she pressed him with her words," or following Pappenheim "she
+  cajoled him." Following Ibn Janach it would be "she vexed him"; say which.
 - Devarim 15:2, *lo yigos*: "he shall not press [for payment]." Not "oppress,"
   which is too strong for a creditor collecting a real debt, and Malbim's
   *negisah*/*nosheh* line depends on the difference.
@@ -142,5 +165,12 @@ paragraph: Yechezkel 3:9), 5:13, 5:14, 22:20 (article: Yechezkel 22:20);
 Bamidbar 22:25; Devarim 15:2, 26:7; Shoftim 2:18, 16:16; Melachim I 22:27;
 Yeshayahu 3:5, 30:20; Yoel 2:8; Divrei HaYamim II 18:26; the *Haggadah Shel
 Pesach* on *v'es lachatzeinu*; Targum Onkelos, Targum Yonatan and Targum
-Neofiti at the loci above; Radak, *Sefer HaShorashim*; Malbim, *Midrash
-Haggadah*.
+Neofiti at the loci above; Rashi and *Machberes Menachem* on the *alatz* hapax;
+Radak, *Sefer HaShorashim*; Ibn Janach; Ramban to Bereishis 32:25; Rabbi Eliezer
+Ashkenazi, *Maaseh Hashem*; Rabbi Shimon Schwab; Rabbi Dr. Refael Binyamin
+Posen; Malbim to Shoftim 2:18, Shemos 3:9 and Yeshayahu 3:5 and in *Midrash
+Haggadah*. Three loci are corrected rather than repeated: the article's Yechezkel
+3:9 in the Schwab paragraph is Shemos 3:9, its Yechezkel 22:20 for the ger
+prohibition is Shemos 22:20, and its Gen. 19:9 for *vayaitzu* is Bereishis
+19:15. The article also calls Delilah Shimshon's wife, which the entry does not
+follow. Nothing the article cites is omitted.

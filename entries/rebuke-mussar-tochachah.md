@@ -8,8 +8,8 @@ domain: action
 sources:
   - wiaw:7260 "Burke and Rebuke" (2017-05-20) https://articles.ohr.edu/articles/burke-and-rebuke
 authorities: [Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Rebuke: mussar / tochachah
 
@@ -20,11 +20,21 @@ other that he did wrong, about his past deeds, and possible between equals.
 *Mussar* is **discipline** (or **chastisement**): from a superior to a
 subordinate, by word or by blow, aimed at his future conduct; the Vilna Gaon
 ties it to *yissurin*, afflictions. Together, מוסר ותוכחת is "discipline and
-reproof." Do not let "rebuke" absorb both; and when *mussar* means the ethical
-discipline itself (the sefarim, the study, the movement) it is a proper term,
-**moral instruction**, and not "rebuke" at all.
+reproof" (our pairing; the article treats the two words separately and does not
+discuss them as a phrase). Do not let "rebuke" absorb both; and when *mussar*
+means the ethical discipline itself (the sefarim, the study, the movement) it is
+a proper term, **moral instruction**, and not "rebuke" at all (this second sense
+is ours as well; the article treats *mussar* only as rebuke).
 
 ## Distinctions
+
+The article frames the whole discussion with the mitzvah of rebuke (Vayikra
+19:17) and with a dictum the column says Edmund Burke (1729-1797), the father of
+contemporary conservatism, purportedly said: that the triumph of evil needs
+nothing more than that good men do nothing. The Torah, the column writes, takes
+this Burkian approach to the responsibility of the righteous and implores us to
+reprimand the wicked for their sins. Hebrew collates the notion of rebuking
+sinners in two words, *tochachah* and *mussar*.
 
 ### tochachah (תוכחה)
 Root י-כ-ח. Vilna Gaon: rebuke that comes from the mouth. Hashem's spoken
@@ -34,13 +44,22 @@ warning of what will befall Yisrael if they abandon the Torah is called the
 who, the what, and the why: *tochachah* may pass even between equals; it is
 exclusively verbal, admonishing by logically proving that the other has done
 wrong; and it looks backward, castigating for past deeds (the Gaon also has
-this third point). Rabbi Shlomo Pappenheim: kin to *nochach*, opposite, since
-the rebuker stands against the rebuked in view and perhaps in place; and kin
-to *hochachah*, proof, and *vikuach*, debate. The most effective rebuke is not
-a direct confrontation but an "innocent" question that opens a debate, so
-the sinner sees the folly himself; fire-and-brimstone stirs a passing
-contrition, whereas *tochachah* proves the emptiness of sin and gives the mind
-grounds for a lasting acceptance to do good.
+this third point). Rabbi Shlomo Pappenheim of Breslau (1740-1814): kin to
+*nochach*, opposite, in ideology and in physical location alike, since by
+offering his criticism the rebuker opposes the rebuked ideologically and
+possibly physically too, if the two meet face to face. Nonetheless, Pappenheim
+argues that the most effective way of rebuking is not direct confrontation but
+to question the other's actions "innocently" and spur a debate about whether
+they are right; hopefully the ensuing discussion will let the sinner realize the
+folly of his ways more powerfully than a litany of his misdeeds would. For that
+reason *tochachah* is also related to *hochachah*, proof, and *vikuach*, debate.
+The column contrasts this with sermonizing about fire and brimstone in the vein
+of Jonathan Edwards's Puritan tract *Sinners in the Hands of an Angry God*: such
+a tract may indeed arouse emotive feelings of repentance through elaborate
+descriptions of the hellish fires of purgatory, but those emotions are merely
+fleeting bursts of contrition unless backed by a logical and intellectual
+acceptance to do only good. *Tochachah* seeks to prove the vanity of sin
+logically and to provide fodder for a rational acceptance to do only good.
 
 ### mussar (מוסר)
 Root י-ס-ר. Vilna Gaon: rebuke that comes from the other limbs, not the mouth:
@@ -88,6 +107,10 @@ Rabbi Reuven Chaim Klein, "Burke and Rebuke," What's in a Word?, Ohr Somayach,
 article cites: Vayikra 19:17 (the mitzvah of rebuke); Vayikra 26:14-43 and
 Devarim 28:15-68 (the two Tochachos); the Vilna Gaon and Malbim on
 *tochachah* versus *mussar*; Rabbi Shlomo Pappenheim on *nochach*,
-*hochachah*, *vikuach*, *lehasir*, and *assur*. The Mishlei 5:12 pairing in the
-rendering guidance is supplied here as a worked example; the article does not
-cite it.
+*hochachah*, *vikuach*, *lehasir*, and *assur*; Rabbi Yaakov Tzvi Mecklenburg
+on *mussar* as tying. The column's two non-Jewish references, Edmund Burke's
+purported dictum in the opening frame and Jonathan Edwards's *Sinners in the
+Hands of an Angry God* as the foil to *tochachah*, had been dropped from this
+entry and are now restored, since the column itself cites them. The Mishlei
+5:12 pairing in the rendering guidance, and the sense of *mussar* as the ethical
+discipline itself, are supplied here; the article cites neither.

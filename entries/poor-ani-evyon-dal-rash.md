@@ -14,9 +14,9 @@ words:
     nk: מָךְ
 sources:
   - wiaw:8245 "The Poor and Unfortunate" (2019-05-18) https://articles.ohr.edu/articles/the-poor-and-unfortunate
-authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach]
-status: draft
-updated: 2026-09-09
+authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach, Midrash Tanchuma, Midrash Mishlei, Vayikra Rabbah, Dr. Leon Aryeh Feldman]
+status: reviewed
+updated: 2026-09-10
 ---
 # Poverty: ani / evyon / misken / rash / dal / dach / mach / heilech
 
@@ -29,39 +29,53 @@ updated: 2026-09-09
 *Misken* is **wretched, unfortunate**, poor and despised with it. *Dach* is
 **emaciated** (physically crushed), *mach* **downtrodden** (crushed by
 circumstance). *Heilech* is the **itinerant**, a door-to-door beggar or
-wanderer. The one thing not to get wrong: *ani* and *evyon* are graded, and
-*evyon* is the lower of the two.
+wanderer. The one thing not to get wrong: the Gemara seems to grade *ani* and
+*evyon*, and *evyon* is the lower of the two.
 
 ## Distinctions
+
+The Midrashim (*Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22;
+*Vayikra Rabbah* §34:6) list up to nine Hebrew words for the poor: *ani*,
+*evyon*, *misken*, *rash*, *dal*, *dach*, *mach*, *ish techachim* and *heilech*.
 
 ### ani (עני)
 Bava Metzia 111b: given the choice, hire the *ani* rather than the *evyon*, for
 the *evyon* is worse off but accustomed to it and unashamed to ask for handouts,
-while the *ani* is too embarrassed to ask and so his need goes unmet. So an
-*ani* is poor but keeps up a normal front. Rabbi Avraham Bedersi HaPenini
-(*Chosam Tochnis*) derives *ani* (with an ayin) from *inui*, affliction: strictly
-it is anyone afflicted by anything, though in nearly every context the
-affliction is financial. Rabbi Yehuda Kalatz (*Sefer HaMussar*): the *ani* works
-hard his whole life and manages only a meager living.
+while the *ani* is too embarrassed to ask and so his need goes unmet. The Gemara
+thus seems to imply that *ani* and *evyon* mark degrees of poverty: an *ani* is
+poor but still has his pride and keeps up a normal front, while an *evyon* has
+given up all pretense of self-sufficiency. Rabbi Avraham Bedersi HaPenini
+(1230-1300, *Chosam Tochnis*) derives *ani* (with an ayin) from *inui*,
+affliction: strictly it is anyone afflicted by anything, though in nearly every
+context the affliction is financial. Rabbi Yehuda Kalatz (*Sefer HaMussar*), a
+late fifteenth-century scholar exiled from Spain to North Africa: the *ani*
+works hard his whole life and manages only a meager living.
 
 ### evyon (אביון)
 Related to *ta'av*, desire: full of wants he cannot fill. Bedersi draws the
 striking consequence that a rich man who wants more than he has and cannot get
-it is in that respect an *evyon*, which sharpens the Mishnah "Who is rich? He
-who is happy with his lot" (*Avos* 4:1). Rabbi Yehuda Kalatz agrees on the
-definition and adds a moral edge: the *evyon* brought it on himself by refusing
-to try, having no trade, no skill, no business, and not even the knack of
-appealing for charity.
+it is in that respect an *evyon*, and notes that most wealthy people do want
+more than they have, so that in certain ways they may aptly be called
+*evyonim*, which sharpens the Mishnah "Who is rich? He who is happy with his
+lot" (*Avos* 4:1). Rabbi Yehuda Kalatz agrees on the definition and adds a moral
+edge: the *evyon* is lazy and brought it on himself by refusing even to try,
+having no trade, no skill, no business, and not even the knack of appealing for
+charity.
 
 The gradation carries halachic weight in *matanos la'evyonim* on Purim. Rabbi
-Yair Chaim Bachrach and Rabbi Moshe Sternbuch: give preferentially to an *evyon*
-rather than an ordinary *ani*. Rabbi Yechiel Michel Epstein and Rav Chaim
-Kanievsky read it the other way: the Megillah says the gifts may be given *even*
-to an *evyon*, and certainly to an *ani*, whose need is more pressing precisely
-because he will not ask. Rabbi Avraham ben Yitzchak HaLevi Tamach, on *Eishes
-Chayil*, reads the doubled clause "she stretched her palm to an *ani* and sent
-forth her hands to an *evyon*" (Mishlei 31:20) as one hand for the *ani* and two
-for the *evyon*, whose need is greater.
+Yair Chaim Bachrach (1639-1702) and Rabbi Moshe Sternbuch: give preferentially
+to an *evyon* rather than an ordinary *ani*. Rabbi Yechiel Michel Epstein
+(1829-1907) and Rav Chaim Kanievsky read it the other way: the Megillah says the
+gifts may be given *even* to an *evyon*, and certainly to an *ani*, whose need is
+more pressing and otherwise less likely to be met precisely because he will not
+ask. Along these lines Rabbi Shlomo Aharon Wertheimer (1866-1935) reports an
+idea he saw in an unpublished commentary of Rabbi Avraham ben Yitzchak HaLevi
+Tamach (d. 1393) to *Eishes Chayil*: the doubled clause "she stretched her palm
+to an *ani* and sent forth her hands to an *evyon*" (Mishlei 31:20) gives one
+hand to the *ani* and two to the *evyon*, whose need is greater. Wertheimer saw
+that commentary only in manuscript; it was published later, by Dr. Leon Aryeh
+Feldman of Rutgers University, in a 1971 *Sefer Zikaron* honoring Dr. Shmuel
+Mirsky.
 
 ### misken (מסכן)
 Related to *sakanah*, danger: the forced austerity endangers his life. Rabbi
@@ -71,16 +85,17 @@ a madman and pay him no attention.
 
 ### rash (רש)
 Tied to *yerushah*, inheritance, in two directions. One: property dispossessed
-by others, so that he has lost everything. Two (Wertheimer): a poor man son of a
-poor man, who never knew prosperity and inherited his poverty from the cradle.
+by others, so that he has lost everything. Two, as Wertheimer suggests: a poor
+man son of a poor man, who never knew prosperity and inherited his poverty from
+the cradle.
 
 ### dal (דל)
-Literally reduced or subtracted. Malbim: *dal* is anyone who lost money, even
+Literally minus or subtracted. Malbim: *dal* is anyone who lost money, even
 one not poor enough to take charity, which is why *dal* never appears in a
 charity context. Rabbi Yehuda Kalatz: specifically a man once rich who lost his
-wealth. Rabbi Shlomo Pappenheim: the dalet-lamed root primarily means drawing
-water from a well (hence *deli*, a pail), borrowed for poverty because a man
-emptied of his fortune is a well emptied of its water.
+wealth. Rabbi Shlomo Pappenheim of Breslau (1740-1814): the dalet-lamed root
+primarily means drawing water from a well (hence *deli*, a pail), borrowed for
+poverty because a man bereft of his fortune is like a well emptied of its water.
 
 ### dach (דך)
 Crushed, sharing a root with *medochah*, a pestle. He looks smashed because want
@@ -102,10 +117,12 @@ from *toch*, inside or middle, and names a man of means (he has something
 inside) or one of middling circumstances, not a poor man at all.
 
 ### heilech (הלך)
-From "going," and it occurs once in Tanach in this sense. Either the poor man
-who goes door to door raising money, or the man whose assets have all gone. It
-can equally mean any panhandler or itinerant peddler whatever his means, which
-is likely why it appears in only some of the midrashic lists.
+From "going," and it occurs once in Tanach in this sense, in Nasan's parable to
+David (Shmuel II 12:4; the article prints I Sam. 12:4). Either the poor man who
+goes door to door raising money, or the man whose assets have all gone. It can
+equally mean any panhandler or itinerant peddler whatever his means, which is
+perhaps why, as the column suggests, it appears in only some of the midrashic
+lists.
 
 ## Rendering guidance
 
@@ -120,8 +137,7 @@ is likely why it appears in only some of the midrashic lists.
   contradicts the halachic discussion above.
 - *Dal* against *ani*: since Malbim ties *dal* to loss rather than to
   eligibility for charity, "the reduced" or "one brought low" beats "the poor
-  man" in a passage about a fall from wealth. In Vayikra's *ki yamuch achicha*
-  language, *mach* is "brought low," not "impoverished."
+  man" in a passage about a fall from wealth.
 - *Dach* and *mach* are near-homophones with opposite emphases, physical against
   circumstantial. Where both appear, "emaciated" and "downtrodden" keep them
   apart.
@@ -139,7 +155,15 @@ Somayach, 13 Iyar 5779 (2019-05-18):
 https://articles.ohr.edu/articles/the-poor-and-unfortunate; raw text in
 `sources/whats-in-a-word/raw/8245-the-poor-and-unfortunate.md`. The nine-word
 lists are in *Midrash Tanchuma*, *Behar* 3; *Midrash Mishlei* ch. 22; and
-*Vayikra Rabbah* 34:6. Other loci cited: Bava Metzia 111b; *Avos* 4:1; Mishlei
-29:13 and 31:20. The single *heilech* pasuk is Shmuel II 12:4 (the article
-prints I Sam. 12:4). Bedersi, *Chosam Tochnis*; Rabbi Yehuda Kalatz, *Sefer
-HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Wertheimer.
+*Vayikra Rabbah* §34:6. Other loci cited: Bava Metzia 111b; *Avos* 4:1; Mishlei
+29:13 and 31:20. The single *heilech* pasuk is Shmuel II 12:4; the article
+prints it as I Sam. 12:4, which does not contain the word, and the entry
+corrects it rather than repeating it. Bedersi, *Chosam Tochnis*; Rabbi Yehuda
+Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Wertheimer, including
+his report of Rabbi Avraham ben Yitzchak HaLevi Tamach's manuscript commentary
+to *Eishes Chayil*, later published by Dr. Leon Aryeh Feldman in a 1971 *Sefer
+Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach and Rabbi Moshe
+Sternbuch against Rabbi Yechiel Michel Epstein and Rav Chaim Kanievsky on
+*matanos la'evyonim*. A rendering-guidance line applying *mach* to Vayikra's *ki
+yamuch achicha* has been cut: the article never discusses that pasuk. Nothing
+the article cites is omitted.

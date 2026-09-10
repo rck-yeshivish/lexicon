@@ -177,7 +177,7 @@ vol. 26 p. 289; Even Shoshan's concordance for the count of seventeen; Rabbi
 Ernest Klein's etymological dictionary of Hebrew; Professor Edward Yechezkel
 Kutscher, *Milim V'Toldoteihen*; Julius Pokorny's Proto-Indo-European
 dictionary; Max Weinreich named for the unsolved *almemar* question. The article
-prints the *kiyor* verse as Lev. 8:111, a typo for Vayikra 8:11, and gives the
-*Reish Duchana* Rashi as Bava Batra 21 without an amud; both are reproduced here
-as the article has them, with the typo corrected. Nothing the article cites is
-omitted.
+prints the last *kiyor* verse as Lev. 8:111, a typo for Vayikra 8:11, which the
+entry corrects and flags. It gives the *Reish Duchana* Rashi as Bava Batra 21
+without an amud, and the entry keeps it as the article has it. Nothing the
+article cites is omitted.

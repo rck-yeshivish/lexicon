@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:8052 "Prophets and Visionaries" (2018-12-29) https://articles.ohr.edu/articles/prophets-and-visionaries
 authorities: [Rashi, Rashbam, Ibn Ezra, Rabbi Yonah Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Malbim, Vilna Gaon, Rabbi Aharon Marcus, Targum Onkelos, Rasag]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Prophet: navi / roeh / chozeh
 
@@ -45,7 +45,16 @@ two comments and does not resolve it. Rav Hirsch (to Bereishis 20:7) also holds
 source of": a *navi* is the source from which Hashem's word issues, the vehicle
 through which His spirit speaks to man. Rabbi Shlomo Pappenheim takes the
 biliteral ב-א, "come, bring": the *navi*'s job is to bring Hashem's word to its
-intended audience.
+intended audience, and in the case of Moshe and Aharon, Aharon was Moshe's *navi*
+because his role was that of a spokesman, to bring Moshe's words to Paroh.
+
+The article hangs a live question on which root one accepts. In 2018
+archaeologists found a seal inscribed with the name Yishaya followed by the
+letters נ-ב-י. Could it be the seal of Yeshayahu HaNavi? It could be, the column
+suggests, that this depends on the root of *navi*: if the *aleph* belongs to the
+root, then the word after Yishaya on a seal without an *aleph* is not *navi* but
+something else, such as "Nobite"; if the *aleph* is not part of the root, then it
+is possible the seal really was the prophet's.
 
 ### roeh (רואה)
 Shmuel I 9:9 states outright that what a later generation called a *navi* an
@@ -70,17 +79,22 @@ the earliest prophets, whose visions were sharp; *chozeh* is the Aramaic word
 for one who sees, and later prophets bear the Aramaic term because Hebrew is
 the more spiritually attuned language, so the Aramaic marks a vision less
 clearly grasped. Accordingly the earlier prophet's vision is a *mareh* and the
-later prophet's a *chazon* or *machazeh*. Rabbi Aharon Marcus: *machazeh*
-denotes the lower grade of prophecy, the kind Avraham Avinu had before his
-*milah* (Bereishis 15:1) and the kind Bilaam had (Bamidbar 24:4, 24:16).
+later prophet's a *chazon* or *machazeh*. *Machazeh*, the column adds, denotes a
+lower level of prophecy; Rabbi Aharon Marcus is the one who points out that this
+is the type Avraham Avinu experienced before his *milah* (Bereishis 15:1) and,
+later, the heathen prophet Bilaam (Bamidbar 24:4, 24:16).
 
 ### navi as spokesman (Shemos 7:1)
-Hashem tells Moshe that Aharon "will be your *navi*," which cannot mean Moshe's
-prophet. Targum Onkelos and Rasag (both to Shemos 7:1): Aharon was to serve as
-Moshe's *meturgaman*, his interpreter and spokesman before Paroh. This fits
-Rabbi Shlomo Pappenheim's ב-א exactly: Aharon's role was to bring Moshe's words
-to their hearer. *Avos d'Rabbi Nasan* ch. 34 is where the three words are
-listed together.
+Hashem tells Moshe that Aharon "will be your *navi*," which does not seem to mean
+Moshe's prophet but something else. Targum Onkelos and Rasag (both to Shemos
+7:1): Aharon was to serve as Moshe's *meturgaman*, his interpreter, translator
+and spokesman before Paroh. That is Rabbi Shlomo Pappenheim's ב-א exactly, and
+Pappenheim himself applies it so. The column notes that the root of
+*meturgaman*/*targum* seems to be ר-ג-ם, which has no other cognates in Hebrew
+but in Ugaritic means "saying," so that the Hebrew word for translating from one
+language into another is itself derived from the word for "saying" in a different
+language. *Avos d'Rabbi Nasan* ch. 34 is where the three words are listed
+together.
 
 ## Rendering guidance
 
@@ -97,8 +111,10 @@ listed together.
   *mareh* and *machazeh*. Where the passage is the Vilna Gaon's grading, or
   Shmuel I 9:9's historical note, one English word for two Hebrew ones erases
   the point being made.
-- Trap: do not read the *navi*/*roeh* difference as one of rank. Malbim makes it
-  a difference of function and of the generation being served, not of stature.
+- Trap: do not turn the *navi*/*roeh* difference into a grading. Malbim's account
+  is one of function and of the generation being served. The grading of clarity
+  in the article is the Vilna Gaon's, and it runs between *roeh* and *chozeh*,
+  not between *navi* and *roeh*.
 
 ## Notes for a project
 
@@ -113,6 +129,11 @@ cited: Shemos 7:1; Bereishis 15:1, 20:7; Bamidbar 24:4, 24:16; Shmuel I 9 and
 9:9; Yeshayahu 1:1, 57:19; Mishlei 22:12; Nechemiah 6:7; *Avos d'Rabbi Nasan*
 ch. 34; Ibn Janach and Radak, *Sefer HaShorashim*; Rav Hirsch to Bereishis
 20:7; Vilna Gaon to Mishlei 22:12 and Yeshayahu 1:1; Targum Onkelos and Rasag
-to Shemos 7:1. The article's discussion of an archaeological seal and its
-Ugaritic derivation of *targum* are omitted here under the Orthodox-sources
-rule.
+to Shemos 7:1. Restored 2026-09-10 from an earlier omission note: the 2018
+Yishaya seal, which the column ties to the *aleph* machlokes, and the Ugaritic
+derivation of *targum* had been dropped under the Orthodox-sources rule and are
+now in the body. The article closes by pointing the reader to Mitchell First,
+*Roots and Rituals: Insights into Hebrew, Holidays, and History* (Kodesh Press,
+2018) for another look at the etymology of *navi*; the entry does not draw on it.
+The article gives Rabbi Shlomo Pappenheim's dates as 1714-1814, which does not
+match the 1740-1814 it gives elsewhere; the entry cites no dates for him.

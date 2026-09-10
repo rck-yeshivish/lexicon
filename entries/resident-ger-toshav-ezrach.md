@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:9199 "Behar - Bechukotai: Settled Citizens" (2021-05-08) https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens
 authorities: [Malbim, Rav Hirsch, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Moshe Kimchi, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Yonah Ibn Janach, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashi, Ramban, Mizrachi, Rabbi Yisrael Yaakov Algazi, Rabbi Shmuel Modiliano, Rabbi David Chaim Chelouche, Shadal]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Resident: ger / toshav / ezrach (zar)
 
@@ -21,13 +21,19 @@ updated: 2026-09-09
 *Ger* is the **sojourner**, cut off from his place of origin and living
 somewhere temporarily; *toshav* is the settled **resident** who is there for
 the long term; *ezrach* is the **native** or **citizen**, whose family and
-origins are known to everyone. *Zar* is the plain **stranger**. Rabbi Shlomo
-Aharon Wertheimer's summary is the one to hold: a *ger* is neither an *ezrach*
-nor a *toshav*, but a man passing through. The trap is that *ger* in halachic
-usage means a convert, and in Chumash usually does not; decide from the
+origins are known to everyone. *Zar* is the plain **stranger**. The article's own capsulization is Rabbi Shlomo
+Aharon Wertheimer's: a *ger* is the opposite of an *ezrach* and the opposite of a
+*toshav*, neither a full-fledged citizen of this land nor an alien resident, but
+simply living here as one stop in a greater journey. The trap is that *ger* in
+halachic usage means a convert while in Chumash it often does not (that
+frequency judgment is ours; the article gives no count); decide from the
 context, and never render *ger v'toshav* of Vayikra 25:35 as two people.
 
 ## Distinctions
+
+The article opens from Modern Hebrew, where *ezrach* means "citizen," *toshav*
+means "resident (without citizenship)," and verb cognates of *ger* simply mean
+"dwelling," although *ger* itself retains a religious connotation.
 
 ### ger (גר)
 Malbim: a *ger* is one living in a land other than his own homeland, whether
@@ -36,12 +42,14 @@ far from it (Bereishis 15:13, Shemos 18:3) or near (Shoftim 19:1, 19:16).
 Rav Hirsch (to Bereishis 12:14, 23:4) takes the biliteral ג-ר as "detachment
 from one's roots," and gathers under it *ger*, *gur* (a lion cub, newly weaned
 and detached from its mother), *gur* (fear, the ground yanked out from under
-one), and *megurah* (a silo for grain already detached from the earth). Ibn
-Ezra (to Bereishis 15:13, 23:4, Tehillim 37:35) likewise reads *ger* as
-disconnection. Rabbi Yaakov Tzvi Mecklenburg offers two other derivations: from
-*megirah* / *agurah*, gathering, since the *ger* has gathered himself into his
-new land and community; and from *girui*, provocation, for the *ger* who
-provokes a fight with his own desires and wins it.
+one), and *megurah* (or *megirah*, "closet/drawer" in Modern Hebrew), a silo for
+storing harvested grain already detached from the ground. Ibn Ezra (to Bereishis
+15:13, 23:4, Tehillim 37:35) likewise reads *ger* as an expression of
+disconnection. Rabbi Yaakov Tzvi Mecklenburg (1785-1865) offers two other
+derivations: from *megirah* / *agurah*, gathering, since the *ger* has now
+gathered himself into his newfound land and community; and from *girui*,
+irritation or instigation, for the *ger*'s knack for instigating a fight against
+his natural desires and overcoming them.
 
 The temporariness is rabbinic tradition, not only etymology. Yosef's brothers
 tell Pharaoh they came *lagur* in Mitzrayim (Bereishis 47:4), and the Haggadah
@@ -56,9 +64,12 @@ notable exception), a word with Aramaic relatives (Daniel 2:11, 4:9, 4:32,
 Meyuchas L'Ramban* 257 on whether a ban against establishing a *dirah* in a
 place also bars opening a store there).
 
-Rabbi Eliyahu HaBachur: *ger* at its core is one who repudiates avodah zarah,
-which follows from the sense of a man who has cut himself off from where he
-came from. Halachically there are two: a *ger toshav*, a gentile who rejects
+Rabbi Eliyahu HaBachur (1469-1549): *ger* primarily refers to one who repudiates
+avodah zarah and accepts upon himself not to engage in that practice. This, the
+column adds, *may be derived from* the understanding that a *ger* is primarily
+one who has disconnected himself from his homeland; the derivation is the
+column's suggestion, not HaBachur's stated reasoning. Halachically there are
+two: a *ger toshav*, a gentile who rejects
 avodah zarah and is thereby granted residence in Eretz Yisrael (some require
 that he also accept the sheva mitzvos, see Avodah Zarah 64b and Ramban to
 Shemos 20:10), and a *ger tzedek*, who accepts the whole Torah and joins Klal
@@ -76,13 +87,17 @@ Shlomo Pappenheim defines as returning or reverting to a former place or
 status: a *yeshivah* is a permanent dwelling that removes any need to return
 elsewhere, and a *toshav* is the permanent resident who engages in *yeshivah*.
 
-Rabbi Yisrael Yaakov Algazi cites a responsum of Rabbi Shmuel Modiliano
-distinguishing them by ownership: *toshav* / *yeshivah* is settling where one
-owns or holds rights in the real estate, while *gar* / *dirah* is living
-somewhere by right of residence without owning the ground the house stands on.
+Rabbi Yisrael Yaakov Algazi (1680-1757) cites what the article calls a
+fascinating responsum by Rabbi Shmuel Modiliano, who *argues* that they divide
+by ownership: *toshav* / *yeshivah* denotes settling in a place where one owns
+or has rights to the real estate, while *gar* / *dirah* denotes living somewhere
+by right of residence without owning the property his home stands on. Modiliano
+cites multiple biblical prooftexts to this effect.
 
-Avraham Avinu calls himself both, *ger v'soshav anochi imachem* (Bereishis
-23:4). Rabbi Moshe Kimchi, Radak's brother: *ger* because he emigrated from his
+When Avraham presented himself before the Hittites to buy a burial place for
+Sarah, he called himself both, *ger v'soshav anochi imachem* (Bereishis
+23:4). Rabbi Moshe Kimchi (1120-1190), Radak's brother: *ger* because he
+emigrated from his
 homeland, *toshav* because his family had settled Canaan and made it home, so
 that his descendants would remain there even after his death.
 
@@ -94,21 +109,44 @@ identity and family are out in the open, against the *ger*, whose origins stay
 unknown. Bava Basra 15a has Avraham writing in Tehillim under the name Eisan
 HaEzrachi, and Targum (to Tehillim 89:1) explains the title as marking that he
 came from the east, *mizrach*, itself from ז-ר-ח because the sun begins to
-shine there. Rabbi David Chaim Chelouche extends this: the bounds of
-civilization were reckoned to the east, so the properly placed member of
-society is an easterner, an *ezrach*, while one who goes out beyond settlement
-is a *ger* or a *zar*.
+shine there. Rabbi David Chaim Chelouche (1920-2016), the late Chief Rabbi of
+Netanya, takes this a step further to account for *ezrach* as "citizen": in
+ancient times the boundaries of civilization were broadly understood to lie in
+the east, so a legitimate citizen properly oriented in society is likewise
+called an easterner, an *ezrach*, while one who leaves the confines of
+civilization and sojourns beyond the pale of settlement is branded a stranger or
+an occidental, in Hebrew a *ger* or a *zar*.
+
+Rabbi Chelouche attempts to prove the point by noting that in Arabic *maghreb*
+means "west" and *ghurayb* means "stranger," assuming both are cognates of the
+Hebrew *ger*. The column rejects that proof: linguistically the theory does not
+hold, because the letter representing the *gh-* sound in Arabic is related to the
+Hebrew ayin, so that *maghreb* cognates with the Hebrew *maarav*, "west," and
+*erev*, "evening," rather than with *ger*. The column rejects only the Arabic
+proof; it leaves Chelouche's east-and-west explanation itself standing.
+
+To capsulize the discussion, Rabbi Shlomo Aharon Wertheimer (1866-1935) writes
+that *ger* is the opposite of *ezrach* and the opposite of *toshav*: a *ger*
+denotes a sojourner who is neither a full-fledged citizen of this particular
+land (*ezrach*) nor an alien resident (*toshav*), but is simply living here as
+one stop in his greater journey.
 
 ### zar (זר)
-The plain stranger. Rabbi Yosef Kimchi (*Sefer Zikaron*) and Radak (to
-Yechezkel 25:7) rule that zayin and gimmel interchange; applied to *zar* and
-*ger* this yields an affinity between the two, which is the assumption behind
-Shadal naming his Chumash commentary *Ohev Ger*.
+The plain stranger. Radak's father Rabbi Yosef Kimchi (in *Sefer Zikaron*) and
+Radak himself (to Yechezkel 25:7) *note* that the letters zayin and gimmel *can
+be* interchangeable. They do not cite this example; it is the column that
+applies their rule to *zar* and *ger* to find some affinity between the two, so
+that just as *zar* means stranger, so does *ger*. Its case in point: Rabbi
+Shmuel David Luzzatto (1800-1865), known as Shadal, named his commentary to the
+Chumash *Ohev Ger*, "Lover of Strangers," and similarly named it Philosseno
+(*philo*, lover, *xeno*, stranger or alien, which the column calls Latin), thus
+also presuming a connection between *ger* and *zar*.
 
-Where the Torah pairs *ezrach* and *ger* it is to say a mitzvah binds both
-alike, and both are inside the settled community (Vayikra 16:29, 18:26;
-Bamidbar 15:29, 15:30). Where it pairs *ger* and *toshav* it is of the resident
-alien who is to be pitied (Bereishis 23:4; Vayikra 25:35, 25:47).
+Where the Torah pairs *ezrach* and *ger* it is to stress that certain mitzvos
+apply to both alike, both of them living within the established community
+(Vayikra 16:29, 18:26; Bamidbar 15:29, 15:30). Where it pairs *ger* and *toshav*
+it is of alien residents who ought to be pitied (Bereishis 23:4; Vayikra 25:35,
+25:47).
 
 ## Rendering guidance
 
@@ -125,6 +163,8 @@ alien who is to be pitied (Bereishis 23:4; Vayikra 25:35, 25:47).
   *zar*, and hold the assignment through a passage.
 - Halachic *ger* (a convert) stays transliterated; do not render it "stranger"
   or "proselyte." *Ger tzedek* and *ger toshav* stay transliterated as units.
+  (The article itself glosses *ger tzedek* as "proselyte"; the objection to that
+  word in a sefer is ours.)
 - *Ezrach* in a pasuk about mitzvos binding *ha'ezrach v'hager* is "the
   native-born," not "the citizen"; "citizen" is the modern Hebrew sense and
   reads civic rather than familial.
@@ -145,8 +185,16 @@ Targum; Yechezkel 25:7; Avodah Zarah 64b; Yevamos 48b; Gittin 57b; Kiddushin
 20a; Bava Kamma 113b; Bava Metzia 71a, 111b; Sanhedrin 96b; Arachin 30b; Bava
 Basra 15a; Radak, *Sefer HaShorashim* s.v. ישב and s.v. זרח; Rabbi Yosef
 Kimchi, *Sefer Zikaron*; Rav Hirsch to Bereishis 12:14 and 23:4; *Rashba
-Meyuchas L'Ramban* 257. Two notes on the article's citations: it prints "Gen.
-23:4, 25:35, 25:47" for the *ger v'toshav* loci, where the second and third are
-Vayikra 25:35 and 25:47; and it lists Tehillim 84:11 among the Biblical Aramaic
-attestations of *dayar*, which is Hebrew. The article's Arabic *maghreb* /
-*ghurayb* excursus, which it itself rejects, is omitted here.
+Meyuchas L'Ramban* 257; and Shadal's *Ohev Ger* / Philosseno. Two notes on the
+article's citations: it prints "Gen. 23:4, 25:35, 25:47" for the *ger v'toshav*
+loci, where the second and third are Vayikra 25:35 and 25:47; and it lists
+Tehillim 84:11 among the Biblical Aramaic attestations of *dayar*, though that
+verse is Hebrew, so the entry leaves it out of the body and records the slip
+here. The article's Arabic excursus, in which Rabbi Chelouche tries to prove his
+east-and-west reading from *maghreb* and *ghurayb* and the column rejects the
+proof on the ground that Arabic *gh-* answers to Hebrew ayin, had been dropped
+from this entry and is now restored; so is the article's note that Shadal gave
+his commentary the second title Philosseno. Two things are ours: the judgment
+that "proselyte," which the column uses, is wrong for a sefer, and the estimate
+that *ger* in Chumash often does not mean a convert, for which the article gives
+no count.

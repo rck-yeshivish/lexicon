@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:7579 "Plague of Plagues" (2018-01-13) https://articles.ohr.edu/articles/plague-of-plagues
 authorities: [Rashi, Abarbanel, Rabbeinu Chananel, Malbim, Rabbi Menachem ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach (Chavos Yair)]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Plague: dever / mageifah / negef
 
@@ -20,26 +20,36 @@ updated: 2026-09-09
 
 *Dever* is **pestilence**, a lethal contagious disease. *Mageifah* is the wider
 word for a **plague** or **blow**, from a root that means striking, and by
-Rashi's reading it does not by itself mean anything fatal. *Negef*, *mageifah*'s
-close relative, is the exception: Malbim reads it as a plague that does kill,
-and Rashi glosses it as *dever*. The one thing not to get wrong: *mageifah* is
-not a milder *dever* and not a graver one. It names the striking; *dever* names
-the disease.
+Rashi's reading it does not by itself mean anything fatal. *Negef*, which the
+column calls *mageifah*'s first cousin, is the exception: Malbim reads it as a
+plague that does kill, and Rashi glosses it as *dever*. The one thing not to get
+wrong: *mageifah* names the striking, *dever* names the disease. On the column's
+own summary a *mageifah* is just a plague while a *dever* is an especially deadly
+one; but the difference is not one of scale, as Rabbi Yair Chaim Bachrach shows
+against the sage who made *mageifah* the deadlier of the two.
 
 ## Distinctions
 
 ### dever (דבר)
 The fifth *makkah*, the sudden death of Egypt's horses, donkeys, camels, cattle
 and sheep, and the word Moshe uses twice in warning about the tenth (Shemos 5:3,
-9:14). Rabbi Shlomo Pappenheim links *dever* to *devorah* ("bee"), because
-*dever* raises lesions on the body before it kills, and those lesions resemble
-the inflammation of a bee sting; the description matches the buboes of the
-bubonic plague. Rabbi Yair Chaim Bachrach (*Chavos Yair*): *dever* is any deadly
+9:14). That *dever* denotes a plague bringing death the column supports from the
+cognate languages, noting that in other Semitic languages words spelled DBR mean
+"death." Rabbi Shlomo Pappenheim of Breslau (1740-1814) links *dever* to *devorah*
+("bee"), because *dever* raises lesions on the body before it kills, and those
+lesions somewhat resemble the inflammation of an allergic reaction to a bee sting;
+his understanding, the column adds, seems consistent with descriptions of the
+bubonic plague, which is held responsible for the death of about half of Europe's
+population in the fourteenth-century outbreak known as the Black Death, and which
+turns inflamed lymph nodes into black, blister-like buboes. Rabbi Yair Chaim
+Bachrach (1639-1702, *Chavos Yair*): *dever* is any deadly
 sickness that is contagious and passes easily from person to person or family to
 family. He grounds this in the Mishnah (*Taanis* 3:4), which calls for fasts
 when there is *dever* in a city and defines it as three deaths in three days in
-a city of five hundred adult men, a rate that can only mean an infectious
-disease; and in the Gemara (*Bava Kama* 60b), which advises staying indoors when
+a city of five hundred adult men, on the assumption that so many deaths in so
+short a span must mean an infectious disease (the column contrasts the world death
+rate per day reported by the Ecology Global Network, eight per thousand people);
+and in the Gemara (*Bava Kama* 60b), which advises staying indoors when
 there is *dever* in the city. On his reading, *dever* is the sudden death by
 pestilence that leaves no visible wound on any one part of the body.
 
@@ -68,9 +78,11 @@ neither is the neutral "striking" that *mageifah* is for Rashi.
 Rabbi Yair Chaim Bachrach cites an anonymous sage who held that *dever* and
 *mageifah* name the same kind of fatal plague, with *mageifah* the deadlier of
 the two, adducing the twenty-four thousand who fell in the *mageifah* after Baal
-Peor (Bamidbar 25:9). He refutes it: the plague following Dovid HaMelech's
-census killed seventy thousand and is called a *dever* (Shmuel II 24:15), so the
-difference between the words is not one of scale.
+Peor (Bamidbar 25:9). He writes that he disproved it from elsewhere: the plague
+that followed Dovid HaMelech's illegal and unnecessary census killed seventy
+thousand and is called a *dever* (Shmuel II 24:15), which shows that a *dever*
+can yield more deaths than a *mageifah*, so the difference between the words
+cannot lie in the extent of their impact.
 
 ## Rendering guidance
 
@@ -100,6 +112,7 @@ Rabbi Reuven Chaim Klein, "Plague of Plagues," What's in a Word?, Ohr Somayach,
 Shemos 5:3, 7:27, 9:14, 21:22, 21:35, 30:12; Bamidbar 25:9; Shmuel II 24:15;
 Mishnah *Taanis* 3:4; *Bava Kama* 2b and 60b; Rashi to Shemos 7:27 and 30:12;
 Abarbanel and Rabbeinu Chananel on *tzfardea*; Rabbi Yair Chaim Bachrach,
-*Chavos Yair*. The article's comparative-Semitic remark that DBR means "death"
-in cognate languages is omitted here under the Orthodox-sources rule, as is its
-citation of a secular mortality statistic.
+*Chavos Yair*. The column's comparative-Semitic remark that words spelled DBR mean
+"death" in other Semitic languages, its bubonic-plague comparison, and its
+contrasting mortality figure from the Ecology Global Network are reported here as
+the column gives them.

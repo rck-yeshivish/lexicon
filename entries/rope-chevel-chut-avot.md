@@ -34,11 +34,11 @@ words:
   - he: עבות
     tr: avot
     en: thick rope, cable
-    distinct: a rope thicker than usual because more fibers are worked into it (Rabbi Shlomo Pappenheim, from av, thick); Malbim: three chevel or moseirah strands braided together
+    distinct: most lexicographers trace it to ayin-beis, thick; a rope thicker than usual because more fibers are worked into it (Rabbi Shlomo Pappenheim, from av, thick), and for Malbim three chevel or moseirah strands braided together
 sources:
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
 authorities: [Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Abarbanel, Targum Yonasan, Targum Onkelos, Malbim, Rashi, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Amitai Ben-David, Rabbi Ernest Klein]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Rope: chevel / chut / avot (kevel, eitun, meitar, moseirah)
@@ -51,7 +51,8 @@ cable, braided from three. *Meitar* is the cord under tension, so a **tent cord*
 or a **bowstring**; *moseirah* the **bond** that restrains a captive, and *kevel*
 the iron **fetter**; *eitun* a **cord of fine linen**, once only. The trap is
 that English "cord" and "rope" will swallow five of these at once, and Shoftim
-16:12 sets *avot* against *chut* in one sentence precisely to contrast them.
+16:12 puts *avot* and *chut* in a single sentence, Shimshon snapping the one off
+his arms as though it were the other.
 
 ## At a glance
 
@@ -79,21 +80,27 @@ deficiency, and the *korban chatas*, which cleans up the one who sinned. A
 line does not need to choose: the rendering is "thread" either way.
 
 **Whether the spies' rope and Rachav's marker were the same object.** The
-narrative uses two words: Rachav lowered the spies through the window on a
+narrative uses three words: Rachav lowered the spies through the window on a
 *chevel* (Yehoshua 2:15; the article prints 3:15), and the sign she was to tie
-in the window is a *tikvah* or *chut* (2:18, 2:21). Abarbanel holds they were one
-and the same cord, notwithstanding the change of word. The plain reading keeps
-them separate, a rope to descend on and a thread to mark with, which is what the
-two words themselves say.
+in the window is a *tikvah* or *chut* (2:18, 2:21). Abarbanel argues that the
+*chevel* the spies descended on was the very *chut* Rachav tied as a sign, even
+though the pesukim use two different words. The column records this as a
+surprising reading and puts no named authority against it. *Tikvah* itself the
+column leaves for another time, noting only that the commentators connect it
+with *kav*, straight, a plumb line.
 
-**The root of *meitar*.** Rabbi Shlomo Pappenheim derives it from the biliteral
+**The root of *meitar*.** The word enters the cluster through *eitun*: Targum to
+Mishlei 7:16 renders *eitun* as *meitar*. Rabbi Shlomo Pappenheim derives it from the biliteral
 ת-ר, elasticity, covering both the stretching of a cord into tension and the
 release of tension where it was expected, whence *mattir*, to untie, and *heter*
-and *muttar*, permitted. Rabbi David Chaim Chelouche derives it from ת-ר in the
-sense of seeing: the *meitar* was first the crossbow string drawn to hold the
-arrow, released when the archer sees his target in range, and only afterward any
-strong cord. The Bottom line follows Pappenheim, since the tent-cord pesukim have
-nothing to do with sight, but Chelouche fits the bowstring of Tehillim 21:13.
+and *muttar*, permitted. Rabbi David Chaim Chelouche derives it instead from ת-ר
+in the sense of seeing: the *meitar* was first the crossbow string drawn to hold
+the arrow, released when the archer sees his enemy within range, and only in a
+borrowed sense any especially strong string or rope. The Bottom line follows
+Pappenheim, since the tent-cord pesukim have nothing to do with sight, but
+Chelouche fits the bowstring of Tehillim 21:13. The column notes in passing that
+this is the word for "string" in the name of the String Bridge in Yerushalayim,
+the *Gesher HaMeitarim*.
 
 **What *eitun* is.** Radak: ropes of high-grade Egyptian linen, matching Targum
 Yonasan (to Yehoshua 2:15), which renders *chevel* as *atuna*. Rabbi Shlomo
@@ -103,10 +110,15 @@ the Targum equation is what puts the word in this cluster at all.
 
 **Whether *kevel* belongs here.** The tie to *chevel* by the interchange of CHET
 and KAF is offered by the article's author as his own suggestion, with the
-express note that he has not seen it stated; treat it as a proposal, not a
-ruling. Rabbi Amitai Ben-David records the modern Hebrew *kevel* for an electric
-cable, and Rabbi Ernest Klein records both the claim that English *cable*
-descends from it and the rival Latin derivation.
+express note that he has not seen it stated explicitly; treat it as a proposal,
+not a ruling. Rabbi Amitai Ben-David notes that in modern Hebrew *kevel* or
+*kabel* took on a different meaning and is used specifically of electric cables
+and cable cars. Rabbi Ernest David Klein, in *A Comprehensive Etymological
+Dictionary of the English Language*, cites two opinions on the English word
+*cable*: that it derives ultimately from the Hebrew *chevel* and *kevel* by way
+of French, Portuguese and Arabic, and that it more likely comes from the Latin
+*capulum*, rope or lasso, from *capere*, to seize, which linguists trace to the
+proto-Indo-European root *kap*, to grasp.
 
 ## Distinctions
 
@@ -132,7 +144,9 @@ creditor partly destroys his debtor's livelihood by taking what he needs; for
 that branch see `collateral-mashkon-chaval-avot-rahan.md`.
 
 ### avot (עבות)
-From *av*, thick. Malbim ties it to the rest of the cluster: an *avot* is three
+Most lexicographers trace it to ע-ב, thick; Rabbi Shlomo Pappenheim explains
+that an *avot* is a rope thicker than usual because more strings or fibers go
+into it than into an ordinary rope. Malbim ties it to the rest of the cluster: an *avot* is three
 *chevel* or *moseirah* strands braided into one. He learns the number of three
 from Rashi (to Sukkah 33a), who reasons that since the *anaf etz avot* of
 Vayikra 23:40 is the hadas, the branch must carry leaves in groups of three, so
@@ -181,14 +195,28 @@ None yet.
 Rabbi Reuven Chaim Klein, "Shelach: Learning the Ropes," What's in a Word?, Ohr
 Somayach, 21 Sivan 5783 (2023-06-10): raw text in
 `sources/whats-in-a-word/raw/10974-shelach-learning-the-ropes.md`. Primary loci:
-Yehoshua 2:1-22, and 2:15 for the *chevel* (the article prints 3:15); Bereishis
-14:23; Shir HaShirim 4:3; Koheles 4:12 (the article prints Mishlei 4:12) with
+Yehoshua 2:1-22, and 2:15 for the *chevel*; Bereishis
+14:23; Shir HaShirim 4:3; Koheles 4:12 with
 Bava Basra 59a; Shoftim 16:12; Melachim I 1:21; Mishlei 7:16; Tehillim 2:3,
-21:13, 105:18, 107:14, 149:8; Shemos 35:18, 39:40; Bamidbar 3:26, 3:37, 4:26,
-4:32, 15:38; Vayikra 23:40 with Rashi to Sukkah 33a; Devarim 22:12; Yeshayahu
-54:2; Yirmiyahu 10:20; Targum Yonasan to Yehoshua 2:15; Targum Onkelos to
+21:13, 105:18, 107:14, 116:16, 149:8; Shemos 35:18, 39:40; Bamidbar 3:26, 3:37,
+4:26, 4:32, 15:38; Vayikra 23:40 with Rashi to Sukkah 33a; Devarim 22:12;
+Yeshayahu 52:2 and 54:2; Yirmiyahu 5:5, 10:20, 30:8; Nachum 1:13; Iyov 39:5;
+Targum Yonasan to Yehoshua 2:15; Targum to Mishlei 7:16; Targum Onkelos to
 Bamidbar 15:38; Radak and Ibn Janach, *Sefer HaShorashim*; Menachem Ibn Saruk,
-*Machberes Menachem*. The closing list of further words for cord (*chartzubah*,
-*ratok*, *kislo*, *seruch*, *koshar*) is given there without discussion and is
-not treated here; the proto-Indo-European derivation of English *cable* is left
-out under house rule 9.
+*Machberes Menachem*; Rabbi Ernest David Klein, *A Comprehensive Etymological
+Dictionary of the English Language*.
+
+Three loci in the article are corrected here rather than repeated. It prints
+Yehoshua 3:15 twice for Rachav's rope and for the Targum on it; the pasuk is
+2:15. It prints Mishlei 4:12 for the *chut hameshulash*; the pasuk is Koheles
+4:12. And in the list of *moseirah* pesukim it prints Yeshayahu 54:2, which is
+the *meitar* pasuk it had already cited; the *moseirah* pasuk is Yeshayahu 52:2.
+
+The closing list of further words for cord (*chartzubah*, *ratok*, *kislo*,
+*seruch*, *koshar*) is given there without discussion and is not treated here.
+The article's account of the English *cable*, including the Latin *capulum* and
+the proto-Indo-European *kap* that Rabbi Ernest David Klein records alongside
+the Hebrew derivation, was formerly left out under an Orthodox-sources rule that
+does not belong to this guide; it is restored. One sentence of our own, setting
+a "plain reading" against Abarbanel on Rachav's cord, has been cut: the column
+gives Abarbanel's identification without a rival.
