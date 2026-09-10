@@ -28,7 +28,7 @@ words:
     distinct: the Biblical Aramaic form, where Daryavesh strove to save Daniel (Daniel 6:15); Ramban ties it to shadal by the lamed and reish interchange, and reads eshtadur (Ezra 4:15) as rebellion from the same root
 sources:
   - wiaw:10720 "Toldos: The Doers and Fighters" (2022-11-26) https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
-authorities: [Sforno, Targum Onkelos, Rashi, Ramban, Menachem Ibn Saruk, Rabbi Binyamin Mussafia, pseudo-Rasag, Tosafos, Rabbi Ernest Klein, Rabbi Reuven Chaim Klein]
+authorities: [Sforno, Targum Onkelos, Rashi, Ramban, Menachem Ibn Saruk, Rabbi Binyamin Mussafia, pseudo-Rasag, Tosafos, Rabbi Ernest Klein, Alexander Kohut, Rabbi Reuven Chaim Klein]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -56,19 +56,25 @@ that one acts and the other persuades.
 
 ## Where the authorities disagree
 
-**Where the Mishnaic esek comes from.** Rabbi Binyamin Mussafia (*Mussaf
-HaAruch*): the rabbinic sense of "busy, preoccupied" is a borrowing from Greek,
-though he gives no cognate. Against this the article sets a derivation from the
-Biblical root ע-ש-ק, the sin morphing into a samech in Rabbinic Hebrew, an
-ordinary enough shift; that derivation is the lexicographer Alexander Kohut's,
-not a traditional authority's (see Sources). Rabbi Reuven Chaim Klein does not
-propose the derivation but supplies the semantic bridge Kohut leaves out: to
-him the connection is obvious, since both fighting and communal toil are marked
-by refusing to back down. He adds that even in rabbinic literature *esek*
+**Where the Mishnaic esek comes from.** Rabbi Binyamin Mussafia (1606-1675) in
+*Mussaf HaAruch*: the rabbinic sense of "busy, preoccupied" derives from Greek,
+though he supplies no cognate Greek word. Dr. Alexander Kohut (1842-1894) in
+*Aruch HaShaleim* presumes that Rabbi Mussafia meant the Greek ἀσχέω
+(*áschéó*), which the column glosses, on the strength of Google Translate, as
+"I don't care", possibly what a man already busy with one thing feels about
+being asked to do another. Kohut himself rejects that etymology and assumes
+instead that the Rabbinic Hebrew sense grows out of the root's original Biblical
+meaning, the sin of ע-ש-ק morphing into a samech in Rabbinic Hebrew, an
+interchange the column calls not at all unusual. Kohut neglects to explain the
+semantic shift from *esek* as "fighting" to *esek* as "busy dealing"; Rabbi
+Reuven Chaim Klein supplies that bridge himself, and to him the connection is
+patently obvious, since fighting is marked by the obstinate persistence of
+parties who refuse to back down, and that same perseverance describes those who
+toil for the public good. He adds that even in rabbinic literature *esek*
 somewhat retains its Biblical sense, since it sometimes refers specifically to a
-matter that is in dispute (Rashi to Shavuos 31a, Bava Metzia 14a). Follow the
-second reading; it accounts for the usage without importing a word nobody can
-produce.
+matter that is subject to controversy (Rashi to Shavuos 31a, Bava Metzia 14a).
+Follow Kohut's second reading with Rabbi Klein's bridge; that is where the
+column comes out.
 
 **What eshtadur is.** Menachem Ibn Saruk (*Machberes Menachem*): a
 quadriliteral root א-ש-ד-ר, unrelated to *shadal*. Ramban seems to take the
@@ -122,7 +128,9 @@ It seems to derive from the root ש-ד-ל, but no words from that root appear in
 Tanach itself. Sforno (to Bereishis 26:20) reads the shepherds' *his'asku* as
 *hishtadlu*, that they were trying to talk Yitzchak's men out of the well,
 which is the bridge from *esek* to *shtadlanus*. A *shtadlan*, then, is one
-whose work is to work on others.
+whose work is to work on others. (One homograph to watch: the column notes in
+an aside that the Italian scholar R. Shmuel Dovid Luzzatto, 1800-1865, whom it
+calls controversial, is known by his initials as Shadal.)
 
 ### shadar (שדר)
 Biblical Aramaic, where it appears at least once: Daryavesh, distressed at
@@ -171,11 +179,14 @@ Daniel 6:15 with Tosafos to Kiddushin 39b and pseudo-Rasag; Ezra 4:15, 4:19;
 Koheles 3:1, 3:18, 7:8, 8:2; *Avos* 2:5, 4:10, 4:18; Berachos 56a, 58a; Moed
 Katan 22a; Kesubos 8a and 80b; Bava Metzia 68b; Kiddushin 30b; Chullin 57b with
 Rashi; Shavuos 31a and Bava Metzia 14a with Rashi; *Menachos* 10:3 and the
-Mishnaic *esek* loci above; *Mussaf HaAruch*; *Machberes Menachem*. Loci follow
-the article's numbering, which is the Hebrew one (Bereishis 32:25, Shemos 22:15,
-Daniel 6:15). The Greek etymology is given only as Rabbi Mussafia's claim, and
-the article's own reconstruction of it (a Greek word supplied by Dr. Alexander
-Kohut in *Aruch HaShaleim*) is omitted under house rule 9. The competing
-derivation from the Biblical ע-ש-ק is also Kohut's, named here because the entry
-keeps its substance; Rabbi Klein's contribution is the semantic bridge and the
-Rashi support, and the entry rests on those.
+Mishnaic *esek* loci above; *Mussaf HaAruch*; *Machberes Menachem*; *Aruch
+HaShaleim*. Loci follow the article's numbering, which is the Hebrew one
+(Bereishis 32:25, Shemos 22:15, Daniel 6:15); in English versification these are
+Bereishis 32:24, Shemos 22:16 and Daniel 6:14. The article opens with a question
+put to his Twitter followers by Rabbi David Bashevkin of the OU, what the
+difference is between a *shtadlan* and an *askan*, and the closing paragraph is
+its answer, which the Bottom line above reproduces. Both the Greek etymology and
+its rejection are Dr. Alexander Kohut's in *Aruch HaShaleim*, reported here as
+the column reports them; the derivation from Biblical ע-ש-ק is likewise Kohut's,
+while Rabbi Klein's own contribution is the semantic bridge and the Rashi
+support.

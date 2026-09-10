@@ -23,7 +23,7 @@ words:
 sources:
   - wiaw:7499 "Stones and High Altars" (2017-11-25) https://articles.ohr.edu/articles/stones-and-high-altars
 authorities: [Rashi, Ramban, Radak, Rabbi Yonah Ibn Janach, Rabbi Avraham Maimuni, Zohar, Rabbi Elimelech of Lizhensk, Sifrei, Mishnah Zevachim]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Altar: mizbeach / matzeivah / bamah
@@ -63,12 +63,15 @@ the hated *matzeivah* disappears.
    rather than a place of offering.
 
 The Bottom line follows Rashi for the rendering, since it is the reading that
-governs the *matzeivos* of the Avos (Yaakov at Beis El, Bereishis 28:18-22 and
-31:45), but keeps "pillar" available, because Ramban's reading is live wherever
-the *matzeivah* is an idolater's and no sacrifice is mentioned. On Rashi's
-reading the change is historical, not lexical: the *Sifrei* (to Devarim 16) says
-Hashem cherished single-stone altars in the era of the Avos and came to abhor
-them once the Canaanites adopted them for their rituals.
+governs the *matzeivos* of the Avos (Yaakov at Beis El, Bereishis 28:18-22, and
+Hashem later identifying Himself to him as the One for whom that *matzeivah* was
+set up, Bereishis 31:13; the article gives that second locus as 31:45), but keeps
+"pillar" available, because Ramban's reading is live wherever the *matzeivah* is
+an idolater's and no sacrifice is mentioned. On Rashi's reading the change is
+historical, not lexical: the *Sifrei* (to Devarim 16) says Hashem originally
+cherished single-stone altars in the era of the Avos, and that by the time the
+Jews left Mitzrayim He abhorred them, because the Canaanites had formally adopted
+them as a medium of idol worship.
 
 **Why the Golden Altar is called a mizbeach**, though no animal was slaughtered
 on it. Three views:
@@ -146,3 +149,11 @@ article cites: Shemos 27:1-2 and 30:2; Devarim 12:5-18 and 16:22; Bereishis
 28:18-22 and 31:45; Bamidbar 17:11-15; *Sifrei* to Devarim 16 (the article prints
 "Deut. 16:2"; the *matzeivah* verse under discussion is 16:22); Zohar *Vayakhel*
 219a; Radak, *Sefer HaShorashim*; Mishnah *Zevachim* 14:6.
+
+Two loci to watch. For Hashem identifying Himself to Yaakov as the One for whom
+the Beis El *matzeivah* was set up, the article gives Bereishis 31:45; that verse
+is Yaakov raising a stone at Gal-Ed with Lavan, and the verse that carries the
+claim is Bereishis 31:13, "*Anochi ha'Kel Beis El asher mashachta sham
+matzeivah*." The entry uses 31:13 and flags the article's form. Bamidbar 17:11-15
+for Aharon and the incense is the Hebrew numbering, which the article uses; in
+English Bibles it is Numbers 16:46-50.

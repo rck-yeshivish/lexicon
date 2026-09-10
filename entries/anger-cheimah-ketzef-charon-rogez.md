@@ -19,8 +19,8 @@ words:
 sources:
   - wiaw:9296 "Anger Issues" (2021-07-17) https://articles.ohr.edu/articles/anger-issues
 authorities: [Rabbeinu Efrayim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Vilna Gaon, Ibn Janach, Ibn Ezra, Radak, Eitz Yosef, Rambam, Rabbi Avraham Maimuni, Rashi, Menachem, Rabbeinu Tam, Targum Yonatan, Donash, Rabbi Yosef Kimchi]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Anger: kaas / cheimah / charon / evrah / zaam / ketzef / rogez / af
 
@@ -37,67 +37,127 @@ ketzef, evrah), so a pasuk that stacks two never gets one English word twice.
 
 ## Distinctions
 
+The article counts the words three ways: Rabbeinu Efrayim finds eight, Rabbi
+Avraham Bedersi HaPenini ten, and Rabbi Shlomo of Urbino fifteen. Some of the
+words mark different points on the spectrum from annoyed to incensed, others fix
+on the object of the anger, others on its effects, and others on its cause.
+
 ### kaas (כעס)
 Root כ-ע-ס. The commonest, most generic term (Shmuel I 1:6, Iyov 6:2). Rabbeinu
 Efrayim: a metathesis of *eches*, poison in the heart. Malbim: anger pent up in the
 heart and never brought out into action. Pappenheim: the simplest, lowest grade.
 
 ### cheimah (חמה)
-Rabbeinu Efrayim: from *cham*, hot. Bedersi supports this from the verb "burning"
-used with it (Esther 1:12), and notes that only *cheimah* is used of an animal's
-anger too (Devarim 32:33, Tehillim 58:5, 140:4). Malbim: anger held in the heart a
-long time without any act of rage. The Vilna Gaon, against *af*: *cheimah* is the
-developed stage where *af* is the beginning; anger in action where *af* is anger in
-thought; reserved for real enemies where *af* reaches even those who merely fail to
-do one's will.
+Yeshayahu 27:4, Esther 7:10. Rabbeinu Efrayim: from *cham*, hot, since an angry
+man gets heated up. Bedersi supports this from the verb "burning" used with it
+(Esther 1:12), and notes that all the words for anger in Tanach apply to human
+anger alone except *cheimah*, which is used of an animal's anger too (Devarim
+32:33, Tehillim 140:4, 58:5). Malbim: anger held in the heart a long time without
+any act of rage. The Vilna Gaon, against *af*: *cheimah* is the developed stage
+where *af* is the beginning; anger in action where *af* is anger in thought;
+reserved for real enemies and those who would harm him, where *af* reaches even
+those who merely fail to follow one's wishes.
 
 ### charon (חרון) and charon af (חרון אף)
-Rabbeinu Efrayim: from *chor*, a hole, the heat piercing the body. Bedersi: greater
-than *cheimah*, for *cheimah* is "hot" while *charon* is "burnt" (Yechezkel 24:10).
-Pappenheim: from *nechirim*, nostrils, the hot exhalation. Peirush HaRokeach:
-*charon* alone is "upset"; *charon af* is anger. Rambam (cited by Rabbi Avraham
-Maimuni): *charon* arouses the thirst for vengeance; *atzvus* does not.
+Yechezkel 7:12, Zecharyah 10:3. Rabbeinu Efrayim: from *chor*, a hole, the heat
+piercing the body. Bedersi: greater than *cheimah*, for *cheimah* is "hot" while
+*charon* is "burnt" (Yechezkel 24:10). Pappenheim departs from that trend: from
+*nechirim*, nostrils, the angry man's heightened exhaling of hot air. Peirush
+HaRokeach: *charon* alone is "upset"; *charon af* is anger. Rambam (cited by his
+son Rabbi Avraham Maimuni): *charon* arouses the thirst for vengeance; *atzvus*
+does not.
 
 ### rogez (רוגז)
-Elsewhere "shaking" and "fear." Rabbeinu Efrayim: anger that arouses the whole body,
-as shaking and fear do. Bedersi: not always anger; sometimes the shaking is fear.
-Rokeach: the tranquil man who suddenly bursts into anger. Malbim: anger that harries
-a person and allows him no respite (hence Yiddish *broiges*).
+Iyov 3:17, Melachim II 19:27. Elsewhere "shaking" and "fear." Rabbeinu Efrayim:
+anger that arouses the whole body, as shaking and fear do. Bedersi: not always
+anger; sometimes the shaking is out of fear. Rokeach: the tranquil man who
+suddenly bursts into anger. Malbim: anger that harries a person and allows him no
+respite to live in tranquility (from which the Yiddish *broiges*, of two people
+in a fight).
 
 ### evrah (עברה)
-Rabbeinu Efrayim: from *oveir*, to pass over or violate; the angry man violates his
-own and his Creator's expectations of him. Malbim: anger that passes beyond its
-bounds to fall on those who did him no wrong. Rokeach: related to *me'uberes*,
-pregnant (the swollen body, or the long-carried grudge). Pappenheim ranks it
-highest: the body puffed up and distended with fury.
+Tehillim 78:49, Devarim 3:26. Rabbeinu Efrayim: from *oveir*, to pass over or
+violate; the angry man violates his own and his Creator's expectations of him.
+Malbim: anger that passes beyond its bounds to fall on those who did not act
+against him. Peirush HaRokeach relates it to *me'uberes*, pregnant, though the
+column says the connection to anger remains unclear and offers two guesses of its
+own: perhaps the angry man's body swells like a pregnant woman's, or perhaps his
+wrath stays with him a long time as a pregnancy runs nine months. Pappenheim
+ranks it highest: the body puffed up and distended with fury.
 
 ### zaam (זעם)
-Rabbeinu Efrayim: from ז-ע, shaking (as in *zei'ah*, sweat). Ibn Janach and
-Bedersi: anger that stems from disgust or contempt for another. Malbim: literally
-"to curse"; as anger it names an effect of rage, the angry man cursing his object
-as long as the anger lasts. Vilna Gaon: suppressed anger, held back from showing.
+Yirmiyahu 15:17, Zecharyah 1:12. Rabbeinu Efrayim: from ז-ע, shaking and moving,
+since the very angry man trembles and so breaks out in sweat (*zei'ah*, from the
+same root). Ibn Janach and Bedersi: anger that stems from disgust or contempt for
+another. Malbim: the word does not primarily mean anger at all; its literal sense
+is "to curse", and in an anger context it names an effect of rage, the angry man
+cursing his object as long as the anger lasts. Vilna Gaon: suppressed anger, held
+back from showing outwardly.
 
 ### ketzef (קצף)
-Ibn Ezra (Esther 1:12) and Radak (*Sefer HaShorashim* s.v. קצף): the bubbles of
-boiling water (Hoshea 10:7); Aramaic *ritcha*, boiling, serves Chazal as a word for
-anger (Berachos 7a, Rosh Hashanah 32b, Sanhedrin 48b). Rokeach (Shemos 16:20): the
-sweat on the face, as bubbles rise to the surface. Eitz Yosef (Eichah Rabbah 2:3):
-the most extreme and dangerous form, tied to Gavriel and Middas HaDin. Rabbeinu
-Efrayim: the scum atop water, the trifle that set it off. Malbim: outward anger
-coolly formed by the intellect, not an emotional fit; it can answer a wrong done to
-someone else. Pappenheim: foam at the lips.
+Bamidbar 17:11, Zecharyah 1:2; a very intense anger, the angry man having reached
+a boiling point. Ibn Ezra (Esther 1:12) and Radak (*Sefer HaShorashim* s.v. קצף)
+note that the word also names the bubbles that rise from boiling water (Hoshea
+10:7), and the Aramaic *ritcha*, boiling, serves Rabbinic Hebrew as a synonym for
+anger (Berachos 7a, Rosh Hashanah 32b, Sanhedrin 48b). Rokeach (Shemos 16:20):
+the anger is visible in the sweat on the face, as bubbles in boiling water come
+up plainly to the surface. Eitz Yosef (Eichah Rabbah 2:3): the most extreme and
+dangerous form, associated with the archangel Gavriel, who represents Middas
+HaDin. Rabbeinu Efrayim seems to relate it to the scum or froth atop water, an
+allusion to the invariably unimportant thing that set the anger off. Malbim:
+outward anger coolly formulated by the intellect and by reflection, not a fit of
+emotional rage, and it can even answer something done against a third party
+rather than against oneself. Pappenheim: foam at the lips. In Modern Hebrew
+*katzefet* is whipped cream.
 
 ### af (אף) and the lesser words
-*Af* is nose or face; Rabbeinu Efrayim: the nose's proverbial smoke. Malbim: anger
-visible in the face, born of emotion not intellect, at times spontaneous. Radak: the
-true root is א-נ-ף; Rokeach: *anaf* is anger that moves to immediate retribution.
-*Panim*, face (Yirmiyahu 3:12), and *ashan*, smoke (Devarim 29:19), are borrowed.
-Pappenheim: *zaaf* joins ז-ע (shaking) and א-ף (face), the furious twitch; *naatz*
-is contempt that at last goes out into open anger (Malbim: pushing the other away as
-disgusting). *Atzvus* is "upset," not anger, and elsewhere sadness. *Raam* is roar,
-yelling (Rashi, Shemos 15:24, ties *taromes* to it). *Shetzef* (Yeshayahu 54:8) is
-anger for Menachem and Rabbeinu Tam, "a little" for Targum Yonatan, Donash, Ibn
-Janach, Rabbi Yosef Kimchi, and Radak.
+*Af* (Shemos 34:6, Devarim 6:15) is nose or face; Rabbeinu Efrayim: the angry
+man's nose emits proverbial smoke. Malbim: anger physically visible in the face,
+born of emotion not intellect, at times roused spontaneously.
+
+*Anaf* (Devarim 1:37, Yeshayahu 12:1, Tehillim 2:12) is disputed against *af*:
+Rabbeinu Efrayim holds it is the same word as *af* with an extra nun, while Radak
+writes the exact opposite, that the true root of *af* is א-נ-ף and the nun
+sometimes drops out. Rokeach: *anaf* is anger that spurs one to immediate revenge.
+Pappenheim, as an aside, traces *anaf* instead to the biliteral נ-פ, movement, the
+body twitching and convulsing out of sheer anger. The non-kosher *anafah* of
+Vayikra 11:19 and Devarim 14:18 is explained by the Gemara (Chullin 63a) as a
+*dayah ragzanit*, an angry bird.
+
+*Ashan*, smoke (Shmuel II 22:9, Tehillim 18:9 and 80:5, Devarim 29:19): Radak
+explains this as a borrowed term that came to mean anger because smoke is a
+byproduct of a burning fire, and the words for anger are metaphorically tied to
+boiling, heat and fire. *Panim*, face (Yirmiyahu 3:12, Bereishis 32:21), is
+likewise borrowed, since a man's emotional state is readily seen on his face.
+
+Pappenheim: *zaaf* (Michah 7:9, Divrei HaYamim II 26:19) joins ז-ע (shaking,
+moving) and א-ף (face), a level of anger that brings on a furious facial twitch.
+*Naatz* (Bamidbar 14:11, 14:23, 16:30) is a machlokes: Pappenheim traces it to
+the one-letter root צ, "goes out", so that a man tolerates what he holds in
+contempt only so long before his annoyance goes out into openly expressed anger,
+while Malbim takes the opposite approach, that *naatz* is anger that leads one to
+reject and push another away as though he were disgusting.
+
+*Atzvus* (Melachim I 1:6, Yeshayahu 63:10, Tehillim 78:40) in many places means
+"upset" or "disappointed," feelings that can lead to anger but are not anger; in
+other places it came to mean sadness or melancholy, a slightly different concept.
+*Raam* (Yechezkel 27:35, Shmuel I 1:6) also means noise or roar (Tehillim 77:19,
+81:8, Iyov 26:14, 39:25), since the angrier a man is the likelier he is to lash
+out by yelling; Rashi (to Shemos 15:24 and Yechezkel 27:35) connects the Mishnaic
+*taromes* (Bava Metzia 4:6, 6:1), often mispronounced *taarumos*, meaning
+complaint or grievance, to the same root, both being verbal expressions of
+dissatisfaction.
+
+*Shetzef* (Yeshayahu 54:8) appears only once in Tanach and its meaning is not
+completely clear, which is why, the column says, it makes sense that it does not
+reach Rabbi Shlomo of Urbino's list of fifteen. In its one occurrence it is
+paired with *ketzef*. Menachem and Rabbeinu Tam: just as *ketzef* means anger, so
+does *shetzef*. Targum Yonatan there, Donash, Ibn Janach, Rabbi Yosef Kimchi, and
+Radak all argue it means "a little bit of"; Rashi to Yeshayahu 54:8 cites both
+possibilities. Donash also suggests it means the same as *rega*, a fleeting
+moment, and Peirush HaRokeach similarly reads it as an expression of speed, the
+column adding that this probably recalls how people act in haste when they blow
+their fuse.
 
 ## Rendering guidance
 
@@ -128,4 +188,7 @@ Primary loci: the lists of Rabbeinu Efrayim (eight), Bedersi (ten), Rabbi Shlomo
 Urbino (fifteen); Malbim's definitions; Pappenheim's ranking; Peirush HaRokeach to
 Shemos 16:20; Ibn Ezra to Esther 1:12; Radak, *Sefer HaShorashim* s.v. קצף; Eitz
 Yosef to Eichah Rabbah 2:3; Berachos 7a, Rosh Hashanah 32b, Sanhedrin 48b; Chullin
-63a; Rashi to Shemos 15:24, Yechezkel 27:35, Yeshayahu 54:8.
+63a on the *anafah* of Vayikra 11:19 and Devarim 14:18; Rashi to Shemos 15:24,
+Yechezkel 27:35, Yeshayahu 54:8; Bava Metzia 4:6 and 6:1 for *taromes*. Loci
+follow the article's numbering, which is the Hebrew one (Bamidbar 17:11 for
+*ketzef* is Numbers 16:46 in English Bibles).

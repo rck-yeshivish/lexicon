@@ -34,7 +34,7 @@ words:
 sources:
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
 authorities: [Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, Rabbi Nosson of Rome (Sefer HaAruch), Vilna Gaon, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yechiel Michel Stern, Rabbi David Chaim Chelouche, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Aharon Marcus]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Animal sounds: shoeg / nohem / yehegeh / noer (shokek, nohek)
@@ -42,7 +42,12 @@ updated: 2026-09-10
 ## Bottom line
 
 Biblical Hebrew assigns each animal its own verb, exactly as English does not
-let a cow bark. A lion has four: *shoeg* is **roars** (hunger, dominance),
+let a cow bark. The article's frame is onomatopoeia: it holds that in all
+languages the words for animal sounds seem to derive from the sounds themselves,
+and that societies hear those sounds differently, which is why an American child
+says a rooster crows "cock-a-doodle-do" and an Israeli child "koo-koo-ri-koo",
+and why a dog goes "bow-wow" in one place and "hav-hav" in another. A lion has
+four verbs: *shoeg* is **roars** (hunger, dominance),
 *nohem* is **growls** (satisfaction turned wild), *yehegeh* is **moans** (steady
 and sustained, also said of a dove), and *noer* is a sudden **roar** let out by
 a cub. A bear is *shokek*, a wild donkey *nohek* (**brays**), a cow *goeh*
@@ -68,25 +73,30 @@ roar, tied to *shokek* in the sense of desire, since a bear is perpetually
 hungry. Ibn Janach and Radak deny it is a sound at all: it describes the bear's
 sauntering walk, from *shok*, the calf of the leg that moves as one walks.
 Rabbi Shlomo Pappenheim sides with sound but by a different route, tracing it to
-ש-ק, "making consecutive sounds," which also yields *teshukah* (desire, the
-heartbeat grown insistent) and *neshikah* (a kiss, either the outward act of
-*teshukah* or the sound it makes) and *neshek* (a weapon). The Bottom line keeps
-"roars," the majority of the three, but a translator working in Mishlei 28:15
-should know the gait reading exists.
+ש-ק, "making consecutive sounds," which also yields *teshukah* (desire, since in
+the throes of desire the heartbeat grows noticeably consistent and consecutive)
+and *neshikah* (a kiss, either the outward realization of *teshukah* or because
+kissing makes a distinct sound) and *neshek* (a weapon, either because its
+mechanics make a certain noise or because two combatants approaching each other
+on the battlefield resemble two lovers approaching for a kiss). The Bottom line
+keeps "roars," the majority of the three, but a translator working in Mishlei
+28:15 should know the gait reading exists.
 
-**What separates the lion's four verbs.** Rabbi Yechiel Michel Stern: the
-difference is the reason the lion is making noise, and he brings the Vilna Gaon
-(*shoeg* when hungry) and Rashi (to Sanhedrin 102a, Berachos 32a: *nohem* when
-it has eaten well and goes berserk with happiness). He offers no account of
-*yehegeh* or *noer*. Rabbi Pappenheim works instead from the biliteral roots and
+**What separates the lion's four verbs.** Rabbi Yechiel Michel Stern, Rav of the
+Ezras Torah neighborhood in Yerushalayim, suggests that the difference is the
+reason the lion is making noise, and he brings the Vilna Gaon (*shoeg* when
+hungry) and Rashi (to Sanhedrin 102a, Berachos 32a: *nohem* when it has a lot to
+eat, so that it becomes especially happy and goes berserk). He does not explain
+what causes a lion to be *yehegeh* or *noer*. Rabbi Pappenheim works instead from the biliteral roots and
 gets a different grid: *shoeg* involuntary, *nohem* deliberate, *yehegeh*
 steady, *noer* sudden. The two are compatible in practice and the entry keeps
 both, Stern for the cause and Pappenheim for the manner.
 
-**Where nohek comes from.** Rabbi David Chaim Chelouche derives both *nohem* and
-*nohek* from נ-ה, which also gives *nehi*, the onomatopoeic sigh (Yirmiyahu
-9:17, Amos 5:16, Michah 2:4). Rabbi Pappenheim instead traces *nohek* to the
-one-letter root ק, "expulsion," parent of נ-ק, "cleaning."
+**Where nohek comes from.** Rabbi David Chaim Chelouche (1920-2016), the late
+Chief Rabbi of Netanya, argues that both *nohem* and *nohek* derive from נ-ה,
+which also gives *nehi*, the onomatopoeic interjection denoting sighing
+(Yirmiyahu 9:17-19 and 31:14, Amos 5:16, Michah 2:4). Rabbi Pappenheim instead
+traces *nohek* to the one-letter root ק, "expulsion," parent of נ-ק, "cleaning."
 
 ## Distinctions
 
@@ -102,6 +112,22 @@ adds: a lion *shoeg* (Amos 3:8, Yechezkel 22:25, Tehillim 104:21), a bear
 (Yeshayahu 59:11). Rashi cites the list, in whole or in part, to Yeshayahu 8:19
 and 29:4, Yoel 1:20, Tehillim 42:2, Mishlei 28:15, Iyov 6:5, and Chullin 53a,
 and adds *charatz* for a dog's bark (Shemos 11:7).
+
+### Rabbi Pappenheim's biliteral roots
+Beyond the lion's four, Rabbi Pappenheim traces several of these verbs to their
+core two-letter roots. *Goeh*, a cow's moo, comes from ג-ע, exertion to the point
+of exhaustion, which also gives *yagea* (tired), *yegiyah* (toiling) and *geviyah*
+(expiration, death), since a cow exerts much effort in letting out those moos.
+*Mitzaftzef*, chirping, comes from צ-פ, the root behind *mitzapeh* and *zipui*
+(coating), *tzofeh* (gaze) and *tzipiyah* (anticipation), the bird's chirp
+expressing its anticipation and hope for its mate or its food. *Novayach*,
+barking, comes from ב-ח, sound that travels through the air, whose only other
+derivative is the first word of *avchas cherev*, the swooshing of a sword
+(Yechezkel 21:20; the article gives 21:2). For *nohem* the root is ה-ם,
+storminess or chaos, which also gives *hamon* (multitudes, masses joined in a
+stormy gathering) and *tehomos* (the depths of the sea, where the deep waters are
+wild and stormy); a lion's *nohem* is likewise an outward expression of inner
+turmoil, though done more deliberately than *shoeg*.
 
 ### noer (נוער)
 Root נ-ע-ר. In Tanach it appears once, of a lion cub (Yirmiyahu 51:38); in
@@ -124,16 +150,20 @@ tzadi with zayin and peh with beis.
 ### behemah (בהמה)
 Rabbi Yaakov Tzvi Mecklenburg: the very word for a domestic animal is built on
 ה-מ(-ה), "incoherent noise," the same root Rabbi Pappenheim reads in *nohem*.
-Rabbi Aharon Marcus reads it as ב-ה-ה, an onomatopoeic rendering of a bleat.
-Either way *behemah* stands against man, called a *medaber*, a speaker: the
-animal makes noise, man makes intelligible speech.
+Rabbi Aharon Marcus (1843-1916) similarly reads it as ב-ה-ה, an onomatopoeic
+rendering of a common animal sound, "baaaa," and links it to the ancient Latin
+and Old Irish *bo(s)*, the etymon of English *bovine*, related also to Greek
+*bous* and to *bol*/*vol* in various Slavic languages. Either way *behemah*
+stands against man, called a *medaber*, a speaker: the animal just makes sounds,
+man has the unique ability to produce understandable sounds through speech.
 
 ### Two cautions from the article
-Donash also lists a rooster (*gever*) as *tzorayach*, but *tzorayach* in
-Tzefaniah 1:14 and Yeshayahu 42:13 is the war cry of a *gibbor*, a human
-warrior, not of a bird. And printed editions of Donash read *nohem* for the wild
-donkey; *nohek* is almost certainly correct, since *nohem* never appears of a
-wild donkey in Tanach while *nohek* does. Berachos 3a does use *nohem* of a
+Donash also writes in that passage that a rooster (*gever*) is *tzorayach*, but
+that understanding seems to rest on a mistaken reading of Tzefaniah 1:14 and
+Yeshayahu 42:13, which use *tzorayach* for the battle cry of a *gibbor*, a human
+warrior, not of a *gever*. And printed editions of Donash read *nohem* for the
+wild donkey; that is most likely a scribal error, since *nohem* never appears of
+a wild donkey in Tanach while *nohek* does. Berachos 3a does use *nohem* of a
 dove.
 
 ## Rendering guidance
@@ -147,12 +177,14 @@ dove.
   Hebrew has deliberately borrowed a different animal's verb. Berachos 3a's
   *noer* of a donkey is a borrowing (*Sefer HaAruch*), and flattening it to
   "brays" erases the point.
-- The Midrash of Shlomo HaMelech's throne (cited in *Sodi Razi*, *Hilchos
-  Kisei*, and by Rabbi Avraham ben Shlomo of Yemen to Melachim I 10:18) supplies
-  further verbs found nowhere in Tanach: a hart *tzohel*, a tiger *tzorayach*, a
-  sheep *chonev*, a wolf *zorer*, a deer *mifaret*, a bear *migamgem*, an
-  elephant *nohem*, a giraffe *milavlev*. Treat these as aggadic, not as
-  Biblical usage.
+- An apocryphal Midrash on the enchanted animals etched into Shlomo HaMelech's
+  throne (cited by the kabbalistic *Sodi Razi*, *Hilchos Kisei*, ascribed to
+  Rabbi Elazar Rokeach of Worms, and by Rabbi Avraham ben Shlomo of Yemen to
+  Melachim I 10:18) supplies further verbs, most of them found nowhere in Tanach:
+  a hart *tzohel*, a tiger *tzorayach*, a sheep *chonev*, a wolf *zorer* or
+  *zored*, a deer *mifaret*, a bear *migamgem*, a donkey or ibex *mavrim* or
+  *mavris*, an elephant *nohem* or *tofes*, a *re'em* *mitzaltzel*, a giraffe
+  *milavlev*. Treat these as aggadic, not as Biblical usage.
 
 ## Notes for a project
 
@@ -168,6 +200,7 @@ loci: Donash Ibn Labrat's response to Menachem Ibn Saruk, lines 82 to 83;
 Tehillim 42:2, Mishlei 28:15, Iyov 6:5, Chullin 53a and 79a, Sotah 42a,
 Sanhedrin 102a, Berachos 32a; *Sefer HaAruch* s.v. נער; Vilna Gaon to Mishlei
 28:15; Rav Hirsch to Devarim 25:18; Berachos 3a; *Targum Sheini* to Esther 1:2;
-*Tosefta D'Targum* to Melachim I 10:20. Rabbi Aharon Marcus's comparison of
-*behemah* to Latin, Greek, Old Irish and Slavic words for cattle is omitted
-under house rule 9; his Hebrew root reading is kept.
+*Tosefta D'Targum* to Melachim I 10:20; Yechezkel 21:20 for *avchas cherev* (the
+article gives 21:2). Rabbi Aharon Marcus's comparison of *behemah* to the Latin,
+Greek, Old Irish and Slavic words for cattle is the article's own and is reported
+here as it reports it.

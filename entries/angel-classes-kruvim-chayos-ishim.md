@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:8129 "Cherubic Children and Other Angels" (2019-02-09) https://articles.ohr.edu/articles/cherubic-children-and-other-angels
 authorities: [Rambam, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Orchos Chaim, Kolbo, Masechta Atzilus, Rabbi Moshe ibn Chaviv, Rabbi Dovid Luria, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Mordechai Shlomo Movshovitz, Rashi]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Angel classes: kruvim / chayos / ofanim / erelim / ishim
 
@@ -41,39 +41,43 @@ Eliezer* ch. 4, understands that midrash to hold *ofanim* and *galgalim*
 synonymous, and *kruvim* and *chayos* likewise.
 
 ### chayos (חיות)
-The highest created rank. The anonymous commentator to Rambam brings two
-explanations. They appeared to Yechezkel in the form of *chayos*, wild animals,
-because in this world man stands at the peak of creation and animals do not; so
-the highest of the angels appeared as animals to teach that even the highest
-creature Above is as an animal beside Hashem. Alternatively they are so called
-because through them the *chiyus*, the life-force, is given to all lower
-creations.
+The highest created rank, and the article is careful that they are not the
+highest of all entities, only the highest of all *created* entities in the Upper
+Realms. The anonymous commentator to Rambam brings two explanations, the first
+of them as what "some explain": they appeared to Yechezkel in the form of
+*chayos*, wild animals, because in this world man stands at the peak of creation
+and animals do not, so the highest of the angels appeared as animals to teach the
+*navi* that even the highest creature Above is as an animal beside Hashem.
+Alternatively they are so called because through them the *chiyus*, the
+life-force, is given to all lower creations.
 
 ### ofanim (אופנים)
 Second rank; the word also means "wheel." If the Divine glory is likened to a
 chariot, as in Yechezkel's visions, the *ofan* is the wheel that carries it. In
-works of the school of Rabbi Elazar Rokeach of Worms, the *ofan* is the inside
-of the wheel and the *galgal* its outside.
+several works ascribed to the school of Rabbi Elazar Rokeach of Worms, the *ofan*
+is the inside of the wheel and the *galgal* its outside, meaning its spokes.
 
 ### erelim (אראלים)
 Third rank (Yeshayahu 33:7). The anonymous commentator: the word denotes
 something strong or important, as the Beis HaMikdash and the Mizbeach are called
 *Ariel* and *Harel* (Yechezkel 43:15). The school of the Rokeach: the *erelim*
-announce Hashem's decrees to the other angels. Bar Kappara announced the passing
-of Rabbi Yehudah HaNasi by saying that the *erelim* and the righteous both took
-hold of the Holy Ark, the *erelim* prevailed, and the Ark was captured (Kesubos
-104a), the *erelim* being those charged with carrying out the decree.
+tell the other angels about Hashem's decrees. Bar Kappara, a talmid of Rabbi
+Yehudah HaNasi, is said to have announced his rebbi's passing by proclaiming that
+the *erelim* and the afflicted, meaning the human righteous, both took hold of
+the Holy Ark, the *erelim* overpowered the afflicted, and the Ark was captured
+(Kesubos 104a), the *erelim* being those charged with carrying out the decree.
 
 ### chashmalim (חשמלים)
-Fourth rank; they reveal themselves to the nevi'im in flashes of fire. The
-Gemara (Chagigah 13b) reads the name as *chash* (silent) and *mal* (speaking),
-because at times they speak of Hashem's glory and at times they are silent. The
-school of the Rokeach reads it as *chashuv* (important, from their nearness to
-the Divine glory) and *mal* (speaking).
+Fourth rank; they reveal themselves to the nevi'im in fiery flashes of light. The
+Gemara (Chagigah 13b) reads the name as *chash* (quiet) and *mal* (speak),
+because at times they speak of Hashem's glory and at times they remain quiet. The
+school of the Rokeach reads it as a portmanteau of *chashuv* (important, on
+account of their nearness to the Divine glory) and *mal* (speak, since they speak
+of Hashem's holiness). In Modern Hebrew *chashmal* means electricity.
 
 ### serafim (שרפים)
-Fifth rank, named for their appearance, so awesome that one who gazes on them is
-burned up (*saruf*).
+Fifth rank. The anonymous commentator: they are named for their appearance, which
+is so awesome that one who gazes on them is automatically burned up (*saruf*).
 
 ### malachim (מלאכים)
 Sixth rank, and also the general word for every rank, which the anonymous
@@ -87,13 +91,15 @@ authority, and is used of an angel, a judge, a navi, and of Hashem Himself. The
 *bnei elohim* are so called because they are secondary to the *elohim*.
 
 ### kruvim (כרובים)
-Ninth. Many meforshim derive *kruv* from the Aramaic *ravia* (lad), found in
-Targum to Bereishis 21:17 and elsewhere, with the kaf as the prefix "like." That
-is the basis for the Gemara's statement (Chagigah 13b, Sukkah 5b) that the
-*kruvim* had the faces of children. Whether the two on the Aron were two boys or
-a boy and a girl is disputed; other sources give them the form of birds, or a
-child-bird combination. The word also names the destructive angels set to guard
-the way to the Eitz HaChaim (Rashi to Bereishis 3:24).
+Ninth. The Torah commands that two *kruvim* be made atop the Aron in the Mishkan,
+facing one another. Many meforshim explain *kruv* as derived from the Aramaic
+*ravia* (lad), found in Targum to Bereishis 21:17 and many other places, the kaf
+at the front meaning "like" or otherwise marking a simile. That etymology is the
+basis for the Gemara's assertion (Chagigah 13b, Sukkah 5b) that the *kruvim*
+looked like children. Whether the two on the Aron were two boys or a boy and a
+girl is subject to dispute; other sources say they were in the shape of birds, or
+some sort of child-bird hybrid. The word also names the destructive angels said
+to guard the path to the Eitz HaChaim (Rashi to Bereishis 3:24).
 
 ### ishim (אישים)
 The lowest rank in Rambam's list, the angels who speak with human nevi'im.
@@ -123,6 +129,9 @@ people do.
 - Trap: "angel" absorbs every word in this entry. When a passage runs the ranks
   in order, transliterate the whole list rather than translating any member of
   it, and let the introduction say "ten classes of angels."
+- Trap in the other direction: *chashmal* is the modern Hebrew word for
+  electricity, so the class name wants a gloss at first occurrence lest a reader
+  hear the modern sense.
 - *Elohim* as a rank of angels is not the Divine Name; render it by the class
   name and let the context carry it. Where a pasuk's *elohim* is being read as
   angels or as judges, say which, since the English cannot show it.
