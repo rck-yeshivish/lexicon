@@ -65,7 +65,7 @@ changes nothing in translation but everything in a derashah.
    several synonyms for one concept appear in tandem, Tanach sets them in
    ascending order from least intense to most intense. On that basis he holds
    *bushah* less intense than *klimah* and *cherpah* both.
-2. **Physiological sequence.** Isaac Satanow (1732–1804), whom the column
+2. **Physiological sequence.** Isaac Satanow (1732 to 1804), whom the column
    identifies as a Maskillic scholar, builds on *Bava Metzia* 58b, that one
    publicly shamed first blushes and then turns white. *Bushah* he ties to the
    root BET-SHIN, which also means "delaying," because shame first delays the
@@ -76,7 +76,7 @@ changes nothing in translation but everything in a derashah.
    *klimah* comes later.) *Chafrah*, for Satanow, is the shamed man's reaction:
    he begins to search and "dig" (*chofer*) for an answer to justify what he
    did.
-3. **Cause, then effect.** Rabbi Yehuda Leib Shapira-Frankfurter (1743–1826)
+3. **Cause, then effect.** Rabbi Yehuda Leib Shapira-Frankfurter (1743 to 1826)
    alludes to Satanow's explanation and rejects it, berating Satanow for
    irreverence and perversion. Yet he assumes, as Satanow does, that the terms
    do not mark intensity but chronological sequence: *bushah* is the shaming
@@ -84,7 +84,7 @@ changes nothing in translation but everything in a derashah.
    results, so the word order reflects cause and effect.
 
 **Which word is the most intense.** Bedersi says *klimah*. Malbim says
-*chafrah*, one who would bury his head. Rabbi David Chaim Chelouche (1920–2016),
+*chafrah*, one who would bury his head. Rabbi David Chaim Chelouche (1920 to 2016),
 the late Chief Rabbi of Netanya, says *cherpah*, more intense than *bushah* and
 *klimah* both. The three are not reconcilable; follow Bedersi for the common
 *bushah*/*klimah* pair, and Malbim where *chafrah* appears.
@@ -107,7 +107,7 @@ hyponym confined to the negative reason. Rabbi Avraham Bedersi (*Chotam
 Tochnit*): *bushah* is the shame of an expectation that failed, whether of
 something happening or of one's own ability to do something; *chafrah* he makes
 its inverse, shame at something happening that was not supposed to happen.
-Rabbi Yehuda Leib Edel (1760–1828): *bushah* sometimes names a shame not
+Rabbi Yehuda Leib Edel (1760 to 1828): *bushah* sometimes names a shame not
 inherent to the act at all but felt from the circumstances, as with the thief
 ashamed at being seen (Yirmiyahu 2:26), which stems from man's standing as a
 social creature and bespeaks nothing of his moral contrition. Malbim: *bushah*
@@ -120,9 +120,9 @@ one ought not, or for being screamed at or otherwise called out for it. Edel:
 *klimah* and *cherpah* name the inherently shameful and humiliating aspect of
 what was done, so a thief who describes his theft with one of them shows he
 recognizes the moral reprehensibility of the act, not merely his shame at being
-caught. Malbim and Rabbi Shlomo Aharon Wertheimer (1866–1935): *klimah* is shame
+caught. Malbim and Rabbi Shlomo Aharon Wertheimer (1866 to 1935): *klimah* is shame
 that comes from outside, from another person humiliating him. Rabbi Dovid Golumb
-(1861–1935) relates the root KAF-LAMMED-MEM to KAF-LAMMED-ALEPH, whence *kele*
+(1861 to 1935) relates the root KAF-LAMMED-MEM to KAF-LAMMED-ALEPH, whence *kele*
 ("jail, incarceration"): a shamed man retreats into himself and locks himself up,
 in some sense, to avoid the outside world. Rav Hirsch (to Vayikra 13:59, Tehillim
 139:16) similarly sees the root as related to the phonetically close
@@ -154,16 +154,16 @@ metathesized *chafrah*. That is the column's suggestion, not a cited authority's
 Targum typically renders *bushah* as *bahat* and *klimah* as *kissuf*; hence the
 Talmudic Aramaic *ichsaf*, to become ashamed, and the kabbalistic *nehama
 d'kisufa*, "the bread of shame," for the Divine sustenance Hashem grants a man
-who is undeserving. Rabbi Eliyahu HaBachur (1469–1549) in *Meturgaman* points out
+who is undeserving. Rabbi Eliyahu HaBachur (1469 to 1549) in *Meturgaman* points out
 that *cherpah* is usually rendered by Targum as *chisda* or the like, which led
-the Maggid of Kozhnitz (Rabbi Yisroel Hopstein, 1737–1814) to read *chassid* as
+the Maggid of Kozhnitz (Rabbi Yisroel Hopstein, 1737 to 1814) to read *chassid* as
 one ashamed at the thought that he could accomplish anything on his own without
 Hashem's help.
 
 The root כ-ס-ף also yields *kesef* ("silver, money") and *nichsaf* ("desiring").
 The Maharal (*Netivos Olam*, *Nesiv HaOsher*, ch. 2) ties those two together:
 man's drive to accrue more and more money derives from his desire to become
-rich. Radak's father, Rabbi Yosef Kimchi (1105–1170), finds the shame sense of
+rich. Radak's father, Rabbi Yosef Kimchi (1105 to 1170), finds the shame sense of
 this root already in Tzefaniah 2:1, though others read that verse as "desiring."
 The column leaves the link open, saying that it remains unclear how *kissuf* as
 shame relates to money and desire, and offering three possibilities only as
@@ -195,7 +195,7 @@ Rabbi Reuven Chaim Klein, "An Utter Embarrassment," What's in a Word?, Ohr
 Somayach, for the week ending 17 September 2022 (the archived header gives the
 Hebrew date as 21 Elul, with the year misprinted 5787): raw text in
 `sources/whats-in-a-word/raw/9907-an-utter-embarrassment.md`. The article frames
-the essay with Rabbeinu Yonah of Gerona (1180–1263), whose twenty-step teshuvah
+the essay with Rabbeinu Yonah of Gerona (1180 to 1263), whose twenty-step teshuvah
 program in *Shaarei Teshuvah* puts shame at the sixth stage; it gives no
 chapter-and-siman for that passage. Primary loci the article cites: Radak to
 Yeshayahu 45:16 and *Sefer HaShorashim*; Bedersi, *Chotam Tochnit*; Rav Hirsch to
