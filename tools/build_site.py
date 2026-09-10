@@ -111,7 +111,11 @@ def inline(s):
     s = html.escape(s, quote=False)
     s = re.sub(r"`([^`]+)`", r"<code>\1</code>", s)
     s = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', s)
-    s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
+    # Non-greedy, and NOT [^*]: a bold lead-in often carries an italic term
+    # inside it, as in "**What *atzeh* is**". Excluding asterisks made that
+    # fail to match, and the raw ** showed on 28 pages. Bold runs first so the
+    # italic pass then handles what sits inside it.
+    s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s, flags=re.S)
     s = re.sub(r"(?<!\*)\*([^*\n]+)\*(?!\*)", r"<em>\1</em>", s)
     return s
 
@@ -225,6 +229,7 @@ def collect():
         entries.append(e)
 
         seen = set()
+        pos = 0
         for h in fm.get("hebrew", []):
             k, disp = strip_heb(h), show_heb(h)
             if not k or k in seen:
@@ -232,15 +237,15 @@ def collect():
             seen.add(k)
             w = per.get(k, {})
             words.append({"h": disp, "k": k, "t": w.get("tr", ""), "e": w.get("en", ""),
-                          "d": w.get("distinct", ""), "c": e["cluster"], "s": slug,
-                          "g": e["english"]})
+                          "d": w.get("distinct", ""), "s": slug, "i": pos})
+            pos += 1
         for k, w in per.items():
             if k in seen:
                 continue
             seen.add(k)
             words.append({"h": show_heb(w["he"]), "k": k, "t": w.get("tr", ""),
-                          "e": w.get("en", ""), "d": w.get("distinct", ""),
-                          "c": e["cluster"], "s": slug, "g": e["english"]})
+                          "e": w.get("en", ""), "d": w.get("distinct", ""), "s": slug, "i": pos})
+            pos += 1
 
         # Per-word glosses first, since those carry the Hebrew they render. An
         # entry-level gloss is added only if no word already claimed it, so the
@@ -339,11 +344,16 @@ def main():
         f.write_text(text, encoding="utf-8")
         written.add(f.resolve())
 
-    words.sort(key=lambda w: (w["k"], w["c"]))
+    words.sort(key=lambda w: (w["k"], w["s"]))
     english.sort(key=lambda x: (x["e"].lower(), x["c"]))
+    emap = {e["slug"]: {"c": e["cluster"],
+                        "a": e["translit"],      # searchable: most transliterations live here
+                        "g": e["english"]}
+            for e in entries}
     data = {
         "built": datetime.date.today().isoformat(),
         "counts": {"entries": len(entries), "words": len(words), "english": len(english)},
+        "entries": emap,
         "words": words,
         "english": english,
     }
@@ -371,7 +381,7 @@ def main():
     <button class="chip" data-q="humiliation">humiliation</button></p>
 </section>
 <section class="split">
-  <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">מא&#1523; ועד ת&#1523;</p></a>
+  <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">א&#1523; ועד ת&#1523;</p></a>
   <a class="card" href="english.html"><h3>Browse English</h3><p>A to Z, from the English back to the Hebrew.</p></a>
 </section>'''
     emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
@@ -379,7 +389,7 @@ def main():
     letters = "".join(f'<button class="ltr" data-l="{l}">{l}</button>' for l in ALEFBET)
     he_body = f'''<section class="browse">
   <h1>Hebrew</h1>
-  <p class="lede" dir="rtl" lang="he">מא&#1523; ועד ת&#1523;</p>
+  <p class="lede" dir="rtl" lang="he">א&#1523; ועד ת&#1523;</p>
   <div class="letters heb">{letters}</div>
   <div id="list" class="rows"></div>
 </section>'''
@@ -480,7 +490,7 @@ header.bare .brand{flex:1}
 .card:hover{text-decoration:none;transform:translateY(-2px);box-shadow:var(--shadow)}
 .card h3{margin:0 0 6px;font-size:18px;font-weight:600}
 .card p{margin:0;color:var(--dim);font-size:15px}
-.card p.he{font-family:var(--heb);font-size:19px;line-height:1.3}
+.card p.he{font-family:var(--heb);font-size:19px;line-height:1.3;text-align:left}
 
 /* autocomplete ------------------------------------------------------------ */
 .ac{position:absolute;left:0;right:0;top:calc(100% + 8px);background:var(--panel);
@@ -518,11 +528,10 @@ header.bare .brand{flex:1}
 .rows .r{color:var(--ink)}
 .rows .rhead{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);
   font-weight:600;padding-bottom:8px;border-bottom:1px solid var(--line)}
-.rows:not(.en3) .rhead span:first-child{text-align:right}
 .rows.en3 .h{text-align:left}
 .rows .rhead:hover{background:none}
 .rows .r:hover{background:var(--panel);text-decoration:none}
-.rows .h{font-family:var(--heb);font-size:24px;direction:rtl;text-align:right}
+.rows .h{font-family:var(--heb);font-size:24px;direction:rtl;text-align:left}
 .rows .en{font-family:inherit;font-size:19px;font-weight:600;direction:ltr;text-align:left}
 .rows .t{color:var(--dim);font-style:italic;font-size:15px}
 .rows .e{font-weight:500}
@@ -582,6 +591,45 @@ function load(){
   return dataP;
 }
 
+
+// A transliteration on an entry names one of its words, but nothing records
+// which. Compare consonants: "megillah" reduces to m-g-l, which threads through
+// מגילה and not through ספר. Each latin consonant maps to the Hebrew letters it
+// could be, and the match is a greedy in-order walk, so extra Hebrew letters
+// (matres lectionis above all) do not break it.
+const SKEL = {ch:"כח", kh:"כח", tz:"צ", ts:"צ", sh:"ש", th:"ת",
+              b:"בו", v:"בו", w:"ו", g:"ג", d:"ד", h:"ה", z:"ז", t:"טת",
+              y:"י", j:"י", k:"כק", c:"כק", q:"ק", l:"ל", m:"מ", n:"נ",
+              s:"סשצ", p:"פ", f:"פ", r:"ר"};
+
+function skeleton(latin){
+  const t = (latin || "").toLowerCase().replace(/[^a-z]/g, "");
+  const out = [];
+  for(let i = 0; i < t.length; ){
+    const two = t.slice(i, i + 2);
+    if(SKEL[two]){ out.push(SKEL[two]); i += 2; continue; }
+    if(SKEL[t[i]]) out.push(SKEL[t[i]]);
+    i++;
+  }
+  // A doubled latin consonant is a dagesh, not two letters: "megillah" is
+  // מ-ג-ל-ה with one lamed. Without collapsing, the walk fails on the second.
+  return out.filter((c, n) => c !== out[n - 1]);
+}
+
+function namesWord(latin, heb){
+  const sk = skeleton(latin);
+  if(sk.length < 2) return false;
+  let j = 0;
+  for(const cls of sk){
+    while(j < heb.length && !cls.includes(heb[j])) j++;
+    if(j >= heb.length) return false;
+    j++;
+  }
+  return true;
+}
+
+const ent = w => (DATA.entries && DATA.entries[w.s]) || {c: "", a: [], g: []};
+
 function search(q, limit=12){
   if(!DATA || !q.trim()) return [];
   const out = [];
@@ -599,22 +647,43 @@ function search(q, limit=12){
   } else {
     const k = foldLat(q);
     if(!k) return [];
+    // Most transliterations live on the entry, not the word: 1,522 of the 2,001
+    // words carry none of their own. Without searching the entry's list,
+    // "sefer" found nothing even though its entry is titled Book.
+    const alias = {};
+    for(const slug in DATA.entries){
+      const a = DATA.entries[slug].a || [];
+      for(const x of a){
+        const f = foldLat(x);
+        if(!f) continue;
+        const r = (f === k) ? 0 : f.startsWith(k) ? 1 : f.includes(k) ? 3 : 9;
+        if(r < (alias[slug]?.r ?? 9)) alias[slug] = {r, text: x};
+        if(r === 0) break;
+      }
+    }
     for(const w of DATA.words){
-      const t = foldLat(w.t), e = foldLat(w.e), g = foldLat((w.g||[]).join(" "));
-      if(t === k || e === k) out.push([0 + own(w), w]);
+      const e = ent(w);
+      const t = foldLat(w.t), en = foldLat(w.e), g = foldLat((e.g || []).join(" "));
+      const a = alias[w.s];
+      // the word the matched transliteration actually names comes first
+      const bonus = a && namesWord(a.text, w.k) ? -1.2 : 0;
+      if(t === k || en === k) out.push([0 + own(w), w]);
       else if(t.startsWith(k)) out.push([1 + own(w), w]);
-      else if(e.startsWith(k)) out.push([2 + own(w), w]);
-      else if(t.includes(k) || e.includes(k)) out.push([3 + own(w), w]);
-      else if(g.includes(k)) out.push([4 + own(w), w]);
-      else if(foldLat(w.c).includes(k)) out.push([5 + own(w), w]);
+      else if(a !== undefined) out.push([1.6 + a.r + bonus + own(w), w]);
+      else if(en.startsWith(k)) out.push([2 + own(w), w]);
+      else if(t.includes(k) || en.includes(k)) out.push([3 + own(w), w]);
+      else if(g.includes(k)) out.push([5 + own(w), w]);
+      else if(foldLat(e.c).includes(k)) out.push([6 + own(w), w]);
     }
   }
-  out.sort((a,b) => a[0]-b[0] || a[1].k.localeCompare(b[1].k));
-  const seen = new Set(), res = [];
+  out.sort((a,b) => a[0]-b[0] || (a[1].i|0)-(b[1].i|0) || a[1].k.localeCompare(b[1].k));
+  const seen = new Set(), perEntry = {}, res = [];
   for(const [,w] of out){
     const id = w.k + "|" + w.s;
     if(seen.has(id)) continue;
     seen.add(id);
+    perEntry[w.s] = (perEntry[w.s] || 0) + 1;
+    if(perEntry[w.s] > 3) continue;   // one cluster must not fill the list
     res.push(w);
     if(res.length >= limit) break;
   }
@@ -638,8 +707,8 @@ function wire(){
       `<a class="row${i===sel?" sel":""}" href="${href(w)}">
          <span class="h">${esc(w.h)}</span>
          <span class="t">${esc(w.t)}</span>
-         <span class="e">${esc(w.e || (w.g||[]).slice(0,3).join(", "))}</span>
-         <span class="c">${esc(w.c)}</span>
+         <span class="e">${esc(w.e || (ent(w).g || []).slice(0,3).join(", "))}</span>
+         <span class="c">${esc(ent(w).c)}</span>
        </a>`).join("");
     ac.hidden = false;
   };
@@ -690,7 +759,7 @@ function initBrowse(mode){
              <span class="h">${esc(w.h)}</span>
              <span>
                ${w.e ? `<span class="e">${esc(w.e)}</span>` :
-                       `<span class="cl">in the ${esc(w.c)} cluster: ${esc((w.g||[]).slice(0,4).join(", "))}</span>`}
+                       `<span class="cl">in the ${esc(ent(w).c)} group: ${esc((ent(w).g || []).slice(0,4).join(", "))}</span>`}
                ${w.d ? `<span class="d">${esc(w.d)}</span>` : ""}
              </span></a>`
         : `<a class="r" href="${UP}entries/${w.s}.html${w.h ? "#" + encodeURIComponent(w.h) : ""}">
