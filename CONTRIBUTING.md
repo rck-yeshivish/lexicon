@@ -73,19 +73,20 @@ the line, say the sources do not separate the words. That is a finding.
   on). Where they disagree, list the views; the Bottom line picks the majority
   or most useful reading and says which. **Never invent** a source, a
   distinction, or an authority the article does not give.
-- **Do not import a view only to reject it.** If a reading comes from outside
-  the sources this guide admits, leave it out entirely rather than record it and
-  dismiss it. It teaches the reader nothing about how to render the word, and
-  putting an excluded voice in the text does not become acceptable because a
-  rejection follows. This does **not** apply between the authorities we do use:
-  Radak rejecting Ibn Janach is the machlokes, and belongs in the entry. Where
-  an authority's argument only makes sense as a response to an excluded view,
-  give his positive claim and drop the polemic.
-- **Orthodox sources only** (house rule 9). Leave out Gesenius, BDB, HALOT,
-  Klein's etymological dictionary, Even-Shoshan, academic Semitics, and
-  comparative Ugaritic or Akkadian derivations. Say in the Sources paragraph
-  that they were omitted when the article leaned on them. Rabbi Ernest Klein
-  and Rabbi Yehoshua Steinberg are fine.
+- **Report what the article cites, whatever its provenance.** The article is
+  the conduit, not the authority. If Rabbi Klein brings Gesenius, an Akkadian
+  or Ugaritic cognate, a Greek or Latin etymology, or a named academic, that
+  material belongs in the entry, attributed the way he attributes it. He vetted
+  it by citing it, and an entry that silently drops it misreports his essay.
+  Say "the column notes" or name the scholar, exactly as he does.
+- **What you may not do is bring in material of your own** from outside the
+  article. The guide reports the essays; it does not supplement them from
+  elsewhere. If you know something the article does not say, either leave it
+  out or mark it plainly as ours.
+- **Do not import a view only to reject it** when the article does not. Where
+  the article records a view and rejects it, record both, since the rejection
+  is part of what he wrote. Never repeat a slur against an authority while
+  dropping the article's defence of him.
 - **Notes for a project**: write `None yet.` unless you are told a project
   ruling. Do not invent one.
 - **Sources** section: article title, date, raw path, and the primary loci the

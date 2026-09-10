@@ -15,9 +15,12 @@ updated: 2026-09-09
 
 ## Bottom line
 
-All three mean **armed**, and the Midrashim equate them outright. *Chamush* is
-the Chumash's word (Shemos 13:18), tied by the grammarians to the *chomesh*,
-the flank where a weapon is girded, and by the derashos to *chamesh*, five.
+All three mean **armed**, and the Midrashim equate them outright: *Bamidbar
+Rabbah* 13:20 says *chamushim* means *chalutzim*, while *Mechilta d'Rabbi
+Yishmael* to Shemos 13:18 and *Shemos Rabbah* 20:19 say it means *mezuyanim*.
+*Chamush* is the Chumash's word (Shemos 13:18), tied by the grammarians to the
+*chomesh*, the part of the body where a weapon is girded, and by the derashos to
+*chamesh*, five.
 *Chalutz* is the **vanguard**, the men drawn out from the nation to go at the
 head of the army. *Mezuyan* is post-biblical, from Aramaic *zayin*, a weapon.
 Targum renders all of them (and *vayarek* of Avraham) by *zariz*, ready at a

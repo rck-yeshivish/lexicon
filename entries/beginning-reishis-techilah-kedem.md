@@ -13,19 +13,21 @@ words:
 sources:
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
 authorities: [Rashi, Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Maharal, the Vilna Gaon, Malbim, Rabbi Zev Hoberman, Rabbi Shaul Goldman, Targum Onkelos, Targum Yerushalmi]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Beginning: reishis / techilah / kedem (rishon, rosh)
 
 ## Bottom line
 
-*Reishis* is the **beginning** that is also the **foremost**: an absolute
-starting point that carries importance in its own right, and that need not imply
-anything before or after it. *Rishon* is **first** in a counted series, one of
-several. *Techilah* is the **onset**, the point marking that a thing did not
-exist before, without any claim of primacy. *Kedem* is **before**, and in space
-**east**. The one thing not to get wrong: *reishis* is valued, not merely
+*Reishis* is the **beginning** that is also the **foremost**: a starting point
+that carries importance in its own right. How absolute that starting point is
+depends on whom you follow: for Malbim it stands outside a counted sequence
+altogether, while the Vilna Gaon has *reishis* mean the first of a series without
+denying that something preceded the series. *Rishon* is **first** in a counted
+series, one of several. *Techilah* is the **onset**, marking (on Malbim's
+account) that a thing did not exist before, without tying itself to what follows.
+*Kedem* is **before**, and in space **east**. The one thing not to get wrong: *reishis* is valued, not merely
 ordinal. Rendering it flatly "the first" throws away the importance on which
 Rashi's opening comment and the Netziv's *terumah* reading both depend.
 
@@ -41,10 +43,18 @@ people (Shemos 30:12; Bamidbar 31:49; Tehillim 139:17; Iyov 22:12). Rav Hirsch
 (to Shemos 30:12) reads that differently: *rosh* there is not the individuals
 counted but the final total, since as the head unites the body's parts, the
 number gathers all the units under one head. *Rosh* also means poison (Devarim
-29:17, 32:32-33; Iyov 20:16; Eichah 3:19); Rav Hirsch (to Devarim 29:17) has it
-drawn from both the plant and the animal kingdom, some read it as snake venom
-from the snake's *rosh* (Targum and Rashi to Yirmiyahu 8:14), and Rabbi Shlomo
-Pappenheim reads it as a plant whose round top looks like a head.
+29:17, 32:32-33; Iyov 20:16; Eichah 3:19, and more); Rav Hirsch (to Devarim
+29:17) has it drawn from both the plant and the animal kingdom, some read it as
+snake venom from the snake's *rosh* (Targum and Rashi to Yirmiyahu 8:14), and
+others take it as a poisonous plant, Rabbi Shlomo Pappenheim explaining that the
+plant in question has a round top that looks like a head.
+
+Rabbi Klein offers his own account, doubly hedged, of how these senses hang
+together: the anatomical head is likely the central sense, the head controls the
+body and so lends its name to anything in a controlling position, such positions
+usually go to prominent people and so *rosh* comes to mean important, and since
+the head normally emerges first at birth *rosh* also comes to mean first. The two
+then converge, since what is important tends to be listed or done first.
 
 Rabbi Shlomo Pappenheim treats the middle aleph as extraneous and takes the root
 as the biliteral reish-shin, pointing to *rishon* spelled with a yud (Iyov 8:8)
@@ -61,11 +71,14 @@ Chullin 136b) uses this to resolve the Tosafists' difficulty. *Terumah* is calle
 *reishis* (Bamidbar 15:20-21; Devarim 18:4) and the Gemara derives that one may
 not consecrate his whole crop, since a remnant must stay ordinary; yet *reishis
 hagez* (Devarim 18:4) carries no such requirement. The Netziv: in *terumah*,
-*reishis* means importance, and importance is relative, so something must be left
-unimportant beside it; in the shearing, *reishis* means only first in succession,
-and being first implies nothing that must follow. The same point stands behind "I
-am *rishon* and I am last, and besides Me there is no god" (Yeshayahu 44:6): being
-first does not posit a second. Rashi (to Bereishis 1:1) reads *b'reishis* for
+*reishis* means importance, so the tithe is taken from the choicest produce of
+the field, and importance is relative, so something must be left unimportant
+beside it; in the shearing, *reishis* means only first in succession, so the
+mitzvah falls on the first batch of wool with no bar to giving all of it. Rabbi
+Klein adds, as his own point, that saying a thing comes first does not require
+that something come after it, and finds it in "I am *rishon* and I am last, and
+besides Me there is no god" (Yeshayahu 44:6): being first does not posit a
+second. Rashi (to Bereishis 1:1) reads *b'reishis* for
 that valued sense, expounding it of the Torah and of Klal Yisrael, each called
 *reishis* elsewhere (Mishlei 8:22; Yirmiyahu 2:3, where Klal Yisrael has
 *terumah*-like status and whoever "eats" of them bears the guilt). Targum
@@ -75,9 +88,11 @@ and their children *rishonah*, in front, and Leah and Rachel behind (Bereishis
 33:2).
 
 ### techilah (תחילה)
-Thirteen appearances in Tanach, the opening act of a sequence: "the *techilas* of
-Hashem's speaking to Hoshea" (Hoshea 1:2). Rashi's own verb for beginning the
-Torah elsewhere is *lehaschil*, a cognate. Root: ח-ל-ל triliterally (Ibn Janach,
+Thirteen appearances in Tanach counting its inflections, by Even-Shoshan's
+concordance, the opening act of a sequence: "the *techilas* of Hashem's speaking
+to Hoshea" (Hoshea 1:2). In the very comment to Bereishis 1:1 that asks why the
+Torah opens with creation rather than with the first mitzvos, Rashi's own verb
+for beginning the Torah is *lehaschil*, a cognate. Root: ח-ל-ל triliterally (Ibn Janach,
 Radak) or the biliteral ח-ל (Menachem Ibn Saruk). Rabbi Shlomo Pappenheim, on the
 biliteral, reads that root as circularity and encirclement, so *techilah* is the
 moment a process enters its natural cycle and begins to run. The halachic
@@ -125,10 +140,12 @@ antiquities), *hakdamah* (introduction), *takdim* (precedent), *mikdamah*
 sun rises from and therefore what comes first. The Aramaic *kaman*, *l'kaman*
 and *kamma* (as in Bava Kamma) come from the same root with the dalet dropped,
 the loss marked by the *dagesh* in the mem; Rabbi Shaul Goldman notes that this
-dropping is post-Tannaitic, absent from Biblical Aramaic and the Targumim and
-present in Amoraic works. Rabbi Shlomo Pappenheim traces ק-ד-ם to the biliteral
-kuf-dalet and reads *kedem* with *kodkod*, the skull, which parallels *rosh*
-meaning both head and beginning exactly.
+dropping seemingly happened in the post-Tannaitic period, since it is absent from
+Biblical Aramaic, Targum Onkelos and Targum Yonasan and present in Amoraic works
+(*Pesikta*, Yerushalmi, Bavli). Rabbi Shlomo Pappenheim suggests that ק-ד-ם
+derives from the biliteral kuf-dalet, reading *kedem* with *kodkod*, head or
+skull; Rabbi Klein observes that this parallels *rosh* meaning both head and
+beginning.
 
 ## Rendering guidance
 
@@ -143,8 +160,8 @@ meaning both head and beginning exactly.
   *rishonah* and *techilah* in consecutive clauses), you must split them, or the
   Vilna Gaon's whole reading disappears: "as at first" for the one and "as at the
   very outset" for the other.
-- Second trap: ראש is head, chief, tally, and poison. Check which before reaching
-  for "head."
+- Second trap: ראש is head, chief, tally, poison, and a personal name (a son of
+  Binyamin, Bereishis 46:21). Check which before reaching for "head."
 - Where *reishis* is a tithe term (*terumah*, *reishis hagez*, *challah*), it is
   the portion itself, "the first of," not "the beginning."
 
@@ -163,6 +180,9 @@ Devarim 11:12, 18:4, 29:17, 32:32-33; Yeshayahu 1:26, 44:6; Yirmiyahu 2:3, 8:14;
 Yechezkel 40:1; Hoshea 1:2; Tehillim 111:10, 139:17; Mishlei 8:22, 9:10; Iyov
 8:8, 20:16, 22:12; Eichah 3:19; Shemos 30:12; Chullin 136b; Avos 3:17; *Yalkut
 Shimoni* to Yeshayahu 391; *Machberes Menachem*; *Yerios Shlomo*; *Meromei
-Sadeh*; *Nesivos Olam*, *Nesiv Yiras Hashem* ch. 1; *Sefer HaCarmel*. The
-article's reliance on Even-Shoshan's concordance for the count of *techilah* is
-noted but not followed here.
+Sadeh*; *Nesivos Olam*, *Nesiv Yiras Hashem* ch. 1; *Sefer HaCarmel*. The count
+of thirteen for *techilah* is the article's, taken there from Even-Shoshan's
+concordance, and is not independently checked here. Malbim's further remark that
+creation is called *reishis* rather than *techilah* because it originates time
+itself is left out, since Rabbi Klein reports it and then says he does not see
+how it adds up.

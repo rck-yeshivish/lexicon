@@ -47,9 +47,13 @@ For one entry, with its source article open beside it:
 
 - Do not smooth a machlokes the article leaves open. If the article closes with
   two live views, the entry closes with two live views.
-- Do not import a view from an excluded source in order to reject it, and do
-  not repeat a slur against an authority while dropping the article's defense
-  of him.
+- **Restore anything dropped as "omitted under house rule 9".** That rule was
+  carried over from a different project by mistake. Material the article itself
+  cites belongs in the entry whatever its provenance, attributed as the article
+  attributes it. Where an entry says it omitted an etymology, a cognate or a
+  named scholar, put it back and delete the omission note.
+- Do not add material of your own from outside the article. The guide reports
+  the essays; it does not supplement them.
 - Do not rewrite for style. This pass changes truth conditions, nothing else.
 - Do not touch the `words:` block or any `nk:` field.
 

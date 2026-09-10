@@ -17,13 +17,19 @@ updated: 2026-09-09
 
 *Meilitz* is the only native Hebrew word of the three: a **go-between**, in
 Bereishis an **interpreter**, and in the phrase *meilitz yosher* a **defending
-advocate** who speaks up for a man's uprightness. *Praklit* is the patron or
-**character witness** whose presence and testimony to good character help the
-defendant, not necessarily by arguing the case. *Sanegor* is the **defense
-counsel** who does argue it, the standing antonym of *kategor*, the **accuser**
-or **prosecutor**. Do not flatten all three into "defender"; where a source
-pairs *sanegor* against *kategor* the point is courtroom advocacy, and where it
-says *praklit* the point is who vouches for the man.
+advocate** who speaks up for a man's uprightness. *Praklit* and *sanegor* are
+both Greek loanwords for a defender, and the traditional sources quoted in the
+article define each of them by *meilitz yosher*, so the difference between them
+comes not from those sources but from what historians of Greek law say the two
+offices were: the *praklit* the **patron** or **character witness** whose
+standing and vouching help the defendant, the *synegoros* the **defense counsel**
+who argues the case before the assembly (and some scholars go as far as saying
+the *praklit* helped silently, by showing up). *Kategor* is the fixed antonym of
+*sanegor*: the **accuser** or **prosecutor**. Do not flatten all three into
+"defender"; where a source pairs *sanegor* against *kategor* the point is
+courtroom advocacy, and where it says *praklit* the point is who vouches for the
+man. Modern Hebrew inverts this: a *praklit* there is a state attorney, that is,
+a prosecutor.
 
 ## Distinctions
 
@@ -36,24 +42,35 @@ is the Hebrew term the others are explained by. Its plain sense in Bereishis
 42:23 is an interpreter standing between two parties, and more broadly a
 middle-man. The full phrase comes from Iyov 33:23-24, where a single *meilitz*
 angel out of a thousand tells of a man's *yashro*, his straightness, and he is
-spared. Ibn Janach and Radak trace *meilitz* either to מ-ר-צ, *meretz* (fluency,
-persistence), by the interchange of lammed and reish, so the word names the
-smoothness of the advocate's speech, or to ל-ו-צ (thinking, explaining), so it
-names his reasoning. Rabbi Shlomo Pappenheim takes the core of ל-צ as logical
-verbalization, usable for good (*meilitz*) or for ill (*leitzanus*, mockery); he
-holds that a prefixed mem reverses a two-letter root, so *leitz* (scorn) becomes
-*meilitz* (justification, defense).
+spared. *Meilitz* can be traced either to מ-ל-צ or to ל-ו-צ. Ibn Janach and
+Radak relate the first to מ-ר-צ, *meretz* (fluency, persistence), by the
+interchange of lammed and reish, and on that reading the word seems to name the
+smoothness and consistency the advocate's speech requires; they also trace it to
+ל-ו-צ (thinking, explaining), so that it names his reasoning. Rabbi Shlomo
+Pappenheim takes the core of ל-צ as logical verbalization, usable for good
+(*meilitz*) or for ill (*leitzanus*, mockery); elsewhere he holds that a prefixed
+mem reverses a two-letter root, so *leitz* (scorn) becomes *meilitz*
+(justification, defense). Modern Hebrew's *leitzan*, a clown, comes from *leitz*
+but has lost the pejorative edge.
 
 ### praklit (פרקליט)
 A loanword, not Hebrew. It appears in Targum as the Aramaic rendering of
 *meilitz* (Targum to Iyov 16:20 and 33:23), and Targum to Iyov 33:23 reads the
-pasuk as one *praklit* against a thousand *kategorin*. *Melechet Shlomo* (to
-*Avos* 4:11) vowelizes it *paraklet*, and MS Kaufmann *parakilit*; the *Tiferet
-Yisrael* (to *Avos* 4:11, *Yachin* 51) connects it to the Greek *parakletos*, one
-called from outside to stand by a man. Hence the force of *Shabbos* 32a, that a
-man led out to be sentenced is saved if he has great *praklitin*, and these are
-teshuvah and good deeds, and of *Bava Basra* 10a, that tzedakah and chessed are a
-man's *praklitin*: they testify to his character rather than argue his case. Rabbi
+pasuk as one *praklit* from among a thousand *kategorin*. *Melechet Shlomo* (to
+*Avos* 4:11) vowelizes it *paraklet*, and MS Kaufmann, the oldest vowelized
+manuscript of the Mishnah, *parakilit*; the *Tiferet Yisrael* (to *Avos* 4:11,
+*Yachin* 51) connects it to the Greek *parakletos*. The article breaks that word
+into *para*, outside or beside, and *kalein*, to call: one called in from outside
+to defend a man. What sort of defender he was is a question the article answers
+from historians rather than from the traditional sources: not a lawyer for hire
+but one's patron, who doubled as standing counsel and interceded in court when
+needed; some scholars argue he did not speak at all but helped by showing up and
+lending moral support, while others explain him as a character witness who
+attests to the defendant's virtue without arguing the case at hand. Rabbi Klein
+reads *Shabbos* 32a in that light, that a man led out to be sentenced is saved if
+he has great *praklitin*, and these are teshuvah and good deeds, and likewise
+*Bava Basra* 10a, that tzedakah and chessed are a man's *praklitin*: they testify
+to his character rather than argue his case. Rabbi
 Shimon bar Yochai (*Zevachim* 7b, Tosefta *Parah* 1:1, *Toras Kohanim* to Vayikra
 14:20): the chatas precedes the olah because the *praklit* enters first to
 appease, and only then is the gift accepted.

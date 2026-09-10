@@ -29,7 +29,7 @@ words:
 sources:
   - wiaw:10720 "Toldos: The Doers and Fighters" (2022-11-26) https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
 authorities: [Sforno, Targum Onkelos, Rashi, Ramban, Menachem Ibn Saruk, Rabbi Binyamin Mussafia, pseudo-Rasag, Tosafos, Rabbi Ernest Klein, Rabbi Reuven Chaim Klein]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Communal activist: askan / shtadlan (esek, shadal, shadar)
@@ -52,36 +52,41 @@ that one acts and the other persuades.
 | עסקן | askan | communal activist | verifies and does for himself (Rashi to Chullin 57b); gets his hands dirty |
 | שדל | shadal | persuade, make an effort | Onkelos' word for pitui (Shemos 22:15); a campaign to sway (Ramban) or any attempt (Targum to Yechezkel 38:4) |
 | שתדלן | shtadlan | intercessor, lobbyist | goes to the authorities on the community's behalf; persuasion, not action |
-| שדר | shadar | strive, contend | Biblical Aramaic (Daniel 6:15); cognate to shadal by lamed/reish interchange (Ramban) |
+| שדר | shadar | strive, contend | Biblical Aramaic (Daniel 6:15); cognate to shadal by lamed/reish interchange (Ramban's theory) |
 
 ## Where the authorities disagree
 
 **Where the Mishnaic esek comes from.** Rabbi Binyamin Mussafia (*Mussaf
 HaAruch*): the rabbinic sense of "busy, preoccupied" is a borrowing from Greek,
-though he gives no cognate. Rabbi Reuven Chaim Klein takes it instead from the
-Biblical root ע-ש-ק, the sin hardening into a samech in Rabbinic Hebrew, an
-ordinary enough shift, and bridges the meanings by noting that both fighting
-and communal toil are marked by refusing to give ground. Support for keeping
-the Biblical sense alive: Rashi (to Shavuos 31a, Bava Metzia 14a) uses *esek*
-for a matter that is itself in dispute. Follow the second reading; it accounts
-for the usage without importing a word nobody can produce.
+though he gives no cognate. Against this the article sets a derivation from the
+Biblical root ע-ש-ק, the sin morphing into a samech in Rabbinic Hebrew, an
+ordinary enough shift; that derivation is the lexicographer Alexander Kohut's,
+not a traditional authority's (see Sources). Rabbi Reuven Chaim Klein does not
+propose the derivation but supplies the semantic bridge Kohut leaves out: to
+him the connection is obvious, since both fighting and communal toil are marked
+by refusing to back down. He adds that even in rabbinic literature *esek*
+somewhat retains its Biblical sense, since it sometimes refers specifically to a
+matter that is in dispute (Rashi to Shavuos 31a, Bava Metzia 14a). Follow the
+second reading; it accounts for the usage without importing a word nobody can
+produce.
 
 **What eshtadur is.** Menachem Ibn Saruk (*Machberes Menachem*): a
-quadriliteral root א-ש-ד-ר, unrelated to *shadal*. Ramban: the aleph is
-extraneous, the root is ש-ד-ר, and the word means rebellion, contravening (Ezra
-4:15, 4:19). Ramban's reading is what allows *shadar* and *shadal* to be one
-family, and Rabbi Ernest Klein accepts it.
+quadriliteral root א-ש-ד-ר, unrelated to *shadal*. Ramban seems to take the
+aleph as extraneous to the core root ש-ד-ר, and reads the word as rebellion,
+contravening (Ezra 4:15, 4:19). Ramban's reading is what allows *shadar* and
+*shadal* to be one family, and Rabbi Ernest Klein accepts it.
 
-**How wide shadal is.** Ramban (to Bereishis 32:25, Shemos 22:15) centers it on
-persuasion: Onkelos renders Yaakov's wrestling with the angel of Esav
-(*vaye'aveik*) as *ishtadel*, and Ramban reads that struggle as each side
-trying to convince the other, using *esek* itself to define *shadal*. But the
-Targum to Yechezkel 38:4 and Rus 2:19 uses *shadal* for effort with no
-persuasion in it, which is the sense of the ordinary *hishtadlus*, and of
-*hishtadel lihyos ish* (Avos 2:5, and see 4:18) and *yishtadel adam* (Berachos
-58a). Rabbi Klein makes "attempting" the base and derives persuading,
-contending, and rebelling from it, since each is a matter of not backing down.
-That ordering is the one to follow.
+**How wide shadal is.** Ramban (to Bereishis 32:25, Shemos 22:15) points out
+that *shadal* has various meanings, and centers one of them on persuasion:
+Onkelos renders Yaakov's wrestling with the angel of Esav (*vaye'aveik*) as
+*ishtadel*, and Ramban sees that struggle as each side trying to convince the
+other, using *esek* itself to define *shadal*. But the Targum to Yechezkel 38:4
+and Rus 2:19 uses *shadal* for any sort of attempt or effort, whether or not a
+second party is being worked on, which is the sense of the ordinary
+*hishtadlus*, and of *hishtadel lihyos ish* (Avos 2:5, and see 4:18) and
+*yishtadel adam* (Berachos 58a). To Rabbi Klein it seems that "attempting" is
+the base, with persuading, rebelling, and fighting derived from it, since each
+is a matter of not backing down. That ordering is the one to follow.
 
 ## Distinctions
 
@@ -91,14 +96,16 @@ the well *Esek* because Avimelech's shepherds *his'asku*, fought, with his own
 (Bereishis 26:20). In the Mishnah the samech form means being taken up with
 something, often so taken up that another act is done haphazardly or unknowingly
 (*Shekalim* 6:2, *Rosh Hashanah* 4:8, *Sotah* 1:9, *Kiddushin* 4:14, *Eduyos*
-2:5, *Kerisos* 4:3, *Niddah* 8:2). From there: *osek b'divrei Torah* for toil in
-learning; *esek* as an affair one must attend to (*Maaser Sheini* 4:7); *esek
-gadol* for making much of the cutting of the Omer (*Menachos* 10:3); and the
-Targumim's *esek* and *iska* for any matter needing attention (Bereishis 12:17,
-20:11, 20:18; Yehoshua 14:6; Koheles 3:1, 3:18, 7:8, 8:2). It also means commerce
-(*Avos* 4:10; Rashi to Berachos 56a, Shabbos 19b, Kesubos 80b, Kiddushin 30b),
-and extends to other transactions including shidduchim (Kesubos 8a, Bava Metzia
-68b). In Modern Hebrew an *osek* is a freelancer and *issuk* one's occupation.
+2:5, *Kerisos* 4:3, *Taharos* 7:8, *Niddah* 8:2, *Zavim* 2:2). From there: *osek
+b'divrei Torah* for toil in learning; *esek* as an affair one must attend to
+(*Maaser Sheini* 4:7, *Shabbos* 23:4); *esek gadol* for making much of the
+cutting of the Omer (*Menachos* 10:3); and the Targumim's *esek* (Bereishis
+12:17, 20:11, 20:18; Yehoshua 14:6) and *iska* (Koheles 3:1, 3:18, 7:8, 8:2) for
+any matter needing attention. *Esek* also means commerce (*Avos* 4:10), as does
+the Aramaic *iska* (Rashi to Berachos 56a, Shabbos 19b, Moed Katan 22a, Kesubos
+80b, Kiddushin 30b), and it extends to other transactions including shidduchim
+(Kesubos 8a, Bava Metzia 68b). In Modern Hebrew an *osek* is a freelancer and
+*issuk* one's occupation.
 
 ### askan (עסקן)
 Rashi (to Chullin 57b): Rabbi Shimon ben Chalafta was called an *askan* because
@@ -109,20 +116,30 @@ one's own hands, which is exactly the modern communal *askan*.
 ### shadal (שדל) and shtadlan (שתדלן)
 Targum Onkelos renders *pitui*, seducing or convincing, as *shadal* (Shemos
 22:15), and Rashi (there, and to Yoma 35b, Kiddushin 31a) confirms that the
-Hebrew and Aramaic terms match. The root ש-ד-ל yields no words in Tanach
-itself. Sforno (to Bereishis 26:20) reads the shepherds' *his'asku* as
+Hebrew and Aramaic terms match. The Aramaic term recurs throughout the Gemara
+for convincing, cajoling, or seducing another into agreeing to what one wants.
+It seems to derive from the root ש-ד-ל, but no words from that root appear in
+Tanach itself. Sforno (to Bereishis 26:20) reads the shepherds' *his'asku* as
 *hishtadlu*, that they were trying to talk Yitzchak's men out of the well,
 which is the bridge from *esek* to *shtadlanus*. A *shtadlan*, then, is one
 whose work is to work on others.
 
 ### shadar (שדר)
-Biblical Aramaic: Daryavesh, distressed at Daniel's sentence, *mishtadar* until
-sunset to save him (Daniel 6:15), meaning he tried everything he could (Tosafos
-to Kiddushin 39b). Pseudo-Rasag there reads it much as Ramban does and likewise
-reaches for *esek*, that the king had to fight to bring his officers around;
-Ramban notes that some versions of *Avos* 2:5 read *hishtadar* for *hishtadel*.
-The Yiddish *macher*, from *mach*, to do, is the cognate of English "make": not a
-technical word, just a man who goes around getting things done.
+Biblical Aramaic, where it appears at least once: Daryavesh, distressed at
+Daniel's sentence, *mishtadar* until sunset to save him (Daniel 6:15), meaning
+he tried everything he could (Tosafos to Kiddushin 39b). Pseudo-Rasag there
+gives an explanation similar to Ramban's and likewise reaches for *esek*, that
+the king had to fight to convince his officers to save Daniel; Ramban theorizes
+that *shadal* and *shadar* are cognates, on the ground that lammed and reish
+often interchange, and notes that some versions of *Avos* 2:5 read *hishtadar*
+for *hishtadel*. Watch the other sense: in post-Biblical Aramaic *shadar* means
+"to send", which has nothing to do with striving (see the *malach*/*shaliach*
+entry).
+
+### macher (Yiddish)
+The Yiddish *macher*, from *mach*, to do, is the cognate of English "make": not
+a technical word, just a man who goes around getting things done for the good of
+the community, as the *askan* and the *shtadlan* do.
 
 ## Rendering guidance
 
@@ -151,8 +168,14 @@ Ohr Somayach, 2 Kislev 5783 (2022-11-26): raw text in
 loci cited: Bereishis 26:20 with Sforno, and 12:17, 20:11, 20:18, 32:25; Shemos
 22:15 with Targum Onkelos and Rashi; Yehoshua 14:6; Yechezkel 38:4; Rus 2:19;
 Daniel 6:15 with Tosafos to Kiddushin 39b and pseudo-Rasag; Ezra 4:15, 4:19;
-Koheles 3:1, 3:18, 7:8, 8:2; *Avos* 2:5, 4:10, 4:18; Berachos 56a, 58a; Chullin
-57b with Rashi; Shavuos 31a and Bava Metzia 14a with Rashi; *Menachos* 10:3 and
-the Mishnaic *esek* loci above; *Mussaf HaAruch*; *Machberes Menachem*. The Greek
-etymology is given only as Rabbi Mussafia's claim; the academic lexicography
-built on it (Kohut's *Aruch HaShaleim*) is omitted under house rule 9.
+Koheles 3:1, 3:18, 7:8, 8:2; *Avos* 2:5, 4:10, 4:18; Berachos 56a, 58a; Moed
+Katan 22a; Kesubos 8a and 80b; Bava Metzia 68b; Kiddushin 30b; Chullin 57b with
+Rashi; Shavuos 31a and Bava Metzia 14a with Rashi; *Menachos* 10:3 and the
+Mishnaic *esek* loci above; *Mussaf HaAruch*; *Machberes Menachem*. Loci follow
+the article's numbering, which is the Hebrew one (Bereishis 32:25, Shemos 22:15,
+Daniel 6:15). The Greek etymology is given only as Rabbi Mussafia's claim, and
+the article's own reconstruction of it (a Greek word supplied by Dr. Alexander
+Kohut in *Aruch HaShaleim*) is omitted under house rule 9. The competing
+derivation from the Biblical ע-ש-ק is also Kohut's, named here because the entry
+keeps its substance; Rabbi Klein's contribution is the semantic bridge and the
+Rashi support, and the entry rests on those.

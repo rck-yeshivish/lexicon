@@ -21,11 +21,11 @@ updated: 2026-09-09
 ## Bottom line
 
 *Lechem* is the wide word, **bread** in the sense of the staple food, over three
-hundred times in Tanach. *Kikar* is the **loaf**, named for its round shape, and
-in Tanach usually means a talent of metal or a round plain, not bread. *Challah*
-in Tanach is a **meal-cake**, almost always one brought as a korban, and in the
-Mishnah the **tithe** separated from dough, not the loaf we call by that name
-today. *Pat* is a **morsel**, a broken piece, which became a plain synonym for
+hundred times in Tanach. *Kikar* seems to mean a circle; it is the **loaf**,
+named for its round shape, but in Tanach it usually means a talent of metal or a
+valley ringed by mountains, not bread. *Challah* in Tanach is a **meal-cake**,
+almost always one brought as a korban, and in the Mishnah generally the
+**tithe** separated from dough, not the loaf we call by that name today. *Pat* is a **morsel**, a broken piece, which became a plain synonym for
 bread in Rabbinic usage. *Rifta* and *nahamah* are the Aramaic words for bread.
 The trap: "loaf" for both *kikar* and *challah*, which conflates a shape with a
 korban and a mitzvah.
@@ -33,8 +33,12 @@ korban and a mitzvah.
 ## Distinctions
 
 ### lechem (לחם)
-Root ל-ח-ם. Rabbi Dr. Guy Matalon: *lechem* means the staple food of a society,
-which is why it names bread among Klal Yisrael. The same root gives *lochem*, to
+Root ל-ח-ם. That *lechem* means bread may not be its literal sense at all but
+only a colloquialism: the article reports hearing from Rabbi Dr. Guy Matalon
+that *lechem* denotes the staple food of a society, which takes on different
+meanings by society. Among Klal Yisrael bread is the staple, so *lechem* is
+bread; in Arabic culture the staple is meat, so *lahm* is meat. The same root
+gives *lochem*, to
 wage war, and *milchamah*; wars were fought over the food supply, and the root
 also carries soldering or pressing things together, which fits both bread, whose
 parts are fused in baking, and combatants closing with each other on a
@@ -42,25 +46,28 @@ battlefield. At Bamidbar 21:5 the Manna is called *lechem haklokel*, the
 insubstantial bread.
 
 ### kikar (ככר)
-Literally a circle. In Tanach it usually means a talent of gold or silver, and
-secondarily a plain ringed by mountains; loaves being round, it came to mean a
-loaf, in the phrase *kikar lechem* (Shemos 29:23, Shoftim 8:5, Shmuel I 10:3,
-Yirmiyahu 37:21, Mishlei 6:26, Divrei HaYamim I 16:3). The Mishnah shortens the
-phrase to *kikar* alone, which is why *kikar* is common for bread there and rare
-for bread in Tanach.
+The word seems literally to mean a circle. In Tanach it most commonly means a
+talent of gold or silver, and secondarily a valley ringed by mountains; loaves
+being commonly round in shape, it came also to mean a loaf, in the phrase *kikar
+lechem* (Shemos 29:23, Shoftim 8:5, Shmuel I 10:3, Yirmiyahu 37:21, Mishlei
+6:26, Divrei HaYamim I 16:3). The Mishnah later shortens the phrase to *kikar*
+alone, and there *kikar* for bread is frequent, where in Tanach it is not.
 
 ### challah (חלה)
 A baked cake of flour. Nearly every occurrence in Tanach is a meal-cake offered
-as a korban; the exception is Bamidbar 15:20, the mitzvah to separate a portion
-for the kohen from every dough, and in the Mishnah, above all in *maseches
-Challah*, the word generally means that tithe. The everyday sense, any loaf of
+as a korban; the one exception is Bamidbar 15:20, the mitzvah to separate a
+special tithe for the kohen, taken from every dough destined for a meal-cake,
+and in the Mishnah, above all in *maseches Challah*, the word generally means
+that tithe. The everyday sense, any loaf of
 bread, is vernacular and later.
 
 ### pat (פת) and pita (פיתא)
-Radak (to Shmuel I 2:36): a broken piece, a morsel. The imperative *pasos* at
-Vayikra 2:6 means to break into pieces. Of fourteen occurrences in Tanach,
-eleven are the phrase *pas lechem*, a piece of bread. In Mishnah and Gemara *pas*
-is simply bread; Targum Onkelos even renders *kikar* as *pas* (Shemos 29:23).
+*Pat* in Hebrew, *pita* in Aramaic. Radak (to Shmuel I 2:36): a broken piece, a
+morsel. The imperative *pasos* at Vayikra 2:6 means to break into pieces. Of
+fourteen occurrences in Tanach, eleven are the phrase *pas lechem*, a piece of
+bread. In practice *pas* simply became another synonym for bread, which is how
+Mishnah and Gemara commonly use it; Targum even renders *kikar* as *pas*
+sometimes (Onkelos to Shemos 29:23).
 
 ### rifta (ריפתא) and nahamah (נהמא)
 Both Aramaic words for bread in the Gemara; *nahamah* also runs through the

@@ -8,8 +8,8 @@ domain: body
 sources:
   - wiaw:11831 "Behaaloscha: Chew That" (2025-06-14) https://articles.ohr.edu/articles/behaaloscha-chew-that
 authorities: [Rashi, Maharsha, Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Mahari Kara, Rabbi Shlomo Pappenheim, Ohr Zarua, Rabbeinu Chananel, Rav Hai Gaon, Rabbi Moshe Tedeschi Ashkenazi, Rema, Ravyah, Rabbi Matzliach Mazuz, Rabbi Meir Mazuz, Rabbi Yitzchak Barda, Rabbi Avi Kobernick, Rabbi Ernest Klein]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Chewing: koses / lo'es
 
@@ -21,13 +21,15 @@ Render *koses* **chew** in the sense of gnawing something raw or eating it in
 an unusual way, and *lo'es* **chew** in the ordinary sense of working food
 before swallowing. Rashi flatly equates them (*lo'es* means *koses*), so treat
 them as synonyms unless a halachic passage turns on the difference; where it
-does, follow Rabbi Meir Mazuz: *le'isah* implies chewing toward swallowing,
-*kesisah* does not.
+does, follow Rabbi Meir Mazuz: *le'isah* typically implies chewing toward
+swallowing, while *kesisah* does not necessarily carry that implication. The
+article grants that this difference is hard to substantiate, and hard even to
+state exactly.
 
 ## Distinctions
 
 ### koses / kesisah (כסס, כסיסה)
-The commoner of the two. Berachos 37a: one who is *koses* raw wheat or rice
+The one with the wider spread of citations. Berachos 37a: one who is *koses* raw wheat or rice
 says *borei pri ha'adamah*, not *borei minei mezonos*; the Tosefta (*Berachos*
 4:6-7) uses the same verb for the rejected opinion of *borei minei zera'im*.
 Mishnah *Nedarim* 6:10 and Tosefta *Nedarim* 3:7 ask whether one who forswore
@@ -38,8 +40,10 @@ chewing dry pepper or ginger on Yom Kippur, which Rava holds is not biblically
 Rashi gives two definitions. To Megillah 7b, Kesubos 77a, Berachos 36b, Yoma
 81a and Chullin 15a: *kesisah* is eating in any abnormal or non-standard way.
 (Maharsha to Megillah 7b suggests the plate there may simply have been edible.)
-To Beitzah 26b: whatever can be eaten raw, eating it raw is *koses*. The two
-definitions pull the same way, since raw is the unusual way.
+To Beitzah 26b: whatever can be eaten raw, eating it raw is *koses*. The
+article calls this second one a slightly different definition and leaves it at
+that; the two arguably pull the same way, since raw is the unusual way, but
+that reconciliation is ours.
 
 Etymology: Rabbi Yaakov Yehudah Zilberberg (*Di Kasif*), among others, ties
 rabbinic כ-ס-ס to biblical ק-ס-ס, which occurs once, *yikoses*, of cutting down
@@ -47,9 +51,10 @@ a metaphoric tree's fruit (Yechezkel 17:9). Rashi there links ק-ס-ס to ק-צ-
 (cutting) by the samech/tzadi interchange; Mahari Kara links it to כ-ת-ת
 (smashing) by kuf/kaf and samech/tav. Ibn Janach and Radak take the root as
 triliteral; Menachem Ibn Saruk takes it as the biliteral ק-ס. Rabbi Shlomo
-Pappenheim (*Cheshek Shlomo*) follows the biliteral and defines ק-ס as "a cut
+Pappenheim (*Cheshek Shlomo*) implicitly follows the biliteral and defines ק-ס as "a cut
 tube": *yikoses* takes the cutting side; *keses* (a scribe's stylus, Yechezkel
-9:2, 9:11), *kesem*, and *kisam* (toothpick) take the tube side, tubes cut
+9:2, 9:11), *kesem* (a magic wand, or magical writings written with a *keses*),
+and *kisam* (toothpick) take the tube side, tubes cut
 lengthwise, while the *kesavos* of the Shulchan (Shemos 25:29, Bamidbar 4:7)
 are tubes cut across their width. He includes *kaskeses*, the scale of a kosher
 fish, in the same family.
@@ -58,19 +63,21 @@ Two extensions. *Kaskasa* is to crunch or crush between the teeth; Rabbi Yosef
 Tuv-Elem's piyut *Elokei HaRuchos* requires *kiskusei* of the maror, which the
 *Ohr Zarua* (*Hilchos Pesachim* 256) reads as munching, so that one does not
 swallow the maror without tasting its bitterness, while Rabbi Shamshon Raphael
-Ortzel reads it as vigorous shaking (as in *Shulchan Aruch, Orach Chaim* 651:9
-for the lulav), meaning shake the charoses off first. The verb *l'kaskes* in
-Mishnah *Niddah* 9:7 is vigorous rubbing in laundering, a forceful repeated
-motion like chewing.
+Ortzel of Bayit Ve'Gan suggests it may instead mean vigorous shaking (as in
+*Shulchan Aruch, Orach Chaim* 651:9 for the lulav), meaning shake the charoses
+off first. The verb *l'kaskes* in Mishnah *Niddah* 9:7 is vigorous rubbing in
+laundering, which perhaps resembles chewing in its consistent forceful
+movement.
 
-Also from this root, *kisnin*: Targum renders the biblical *nikkudim*
-(Yehoshua 9:5, 9:12; Melachim I 14:3) as *kasnin*, and the halachic *pas
-haba'ah b'kisnin* (Berachos 42a) is built on it. Radak (to Melachim I 14:3):
-*kisnin* are the treats one munches at a celebration; the same reading is cited
-from Rabbeinu Chananel (*Ohr Zarua, Hilchos Berachos* 149) and Rav Hai Gaon
-(*Sefer HaNer* to Berachos 42a). Rabbi Moshe Tedeschi Ashkenazi (*Ho'il Moshe*
-to Melachim I 14:3) ties it to *koses* differently, since *kisnin* crumble into
-small pieces.
+Also from this root, *kisnin*: Targum renders the biblical *nikkudim*, food
+provisions (Yehoshua 9:5, 9:12; Melachim I 14:3), as *kasnin*, and the halachic
+*pas haba'ah b'kisnin* (Berachos 42a) uses the same word. Radak (to Melachim I
+14:3) relates *kisnin* to *koses*: they are the sorts of treats one munches at
+a party or a wedding. Comparable definitions are cited in the name of Rabbeinu
+Chananel (*Ohr Zarua, Hilchos Berachos* 149) and Rav Hai Gaon (*Sefer HaNer* to
+Berachos 42a). Rabbi Moshe Tedeschi Ashkenazi (*Ho'il Moshe* to Melachim I
+14:3) suggests a different tie to *koses*, since *kisnin* are a food that
+crumbles into small pieces.
 
 ### lo'es / le'isah (לעס, לעיסה)
 Three times in the Mishnah. *Shabbos* 19:2: if cumin was not ground before
@@ -83,27 +90,34 @@ bowels, so chew it and spit it out, again with *lo'es*.
 Rashi twice defines it by the other word, to Pesachim 39b and to Berachos 44b:
 *lo'es* is *koses*. The root ל-ע-ס is Aramaic and Syriac for chewing and
 appears in Targum (to Koheles 12:3); beyond that its origin is obscure. Rabbi
-Avi Kobernick (*Hipuch Otiyos*) offers a metathesis of ס-ל-ע, rock: a *sela* is
-what will not break down, and *lo'es* is precisely breaking down.
+Avi Kobernick (*Hipuch Otiyos*) offers a speculative metathesis of ס-ל-ע, rock:
+a *sela* is what will not break down, and *lo'es* is precisely breaking down.
 
 ### Are they synonyms?
-One resolution is that the two need no semantic difference at all, since they
-are of different origins: *koses* is native Hebrew, *lo'es* a borrowing from
-Aramaic, so their overlap is not superfluity.
+The article's own suggestion is that perhaps the two need no semantic
+difference at all, since they appear to be of different origins: *koses* seems
+to be a native Hebrew word, *lo'es* seems to be a loanword from Aramaic, so
+their overlap would not be superfluity.
 
-The Mazuz school assumes a real difference. Rabbi Matzliach Mazuz (*Ish
-Matzliach* vol. 2, *Orach Chaim* 47) leans on the choice of *kas* rather than
-*lo'es* for chewing *pilpel* on a fast day in deciding what *pilpel* is. Rabbi
-Meir Mazuz (*Arim Nissi* to Pesachim 39b): *le'isah* ordinarily implies chewing
-as part of eating, in preparation for swallowing, while *kesisah* carries no
-such implication; that is why Rashi glosses *lo'es* as *koses* in the case of
+Members of the Mazuz family of Tunisia seem to presume a real difference,
+though the article grants that it is hard to substantiate and hard even to say
+exactly what it means. Rabbi Matzliach Mazuz (*Ish Matzliach* vol. 2, *Orach
+Chaim* 47), discussing at length whether *pilpel* is the common pepper, black
+pepper, or both, raises how the use of *kas* rather than *lo'es* for chewing
+*pilpel* on a fast day might bear on that question. Rabbi Meir Mazuz (*Arim
+Nissi* to Pesachim 39b): *le'isah* typically implies chewing as part of eating,
+in preparation for swallowing, while *kesisah* does not necessarily bear that
+implication; that is why Rashi glosses *lo'es* as *koses* in the case of
 chewing wheat for a bandage, to say that this man was not chewing in order to
-swallow but only to soften the grain. Rabbi Yitzchak Barda notes that the Rema
-(*Orach Chaim* 567:3, following the Tur) permits *lo'es* of cinnamon sticks on
-a fast day to moisten the throat provided one spits it out, while his source,
-the Ravyah (*Hilchos Taanis* 861), writes *lachus*; he reads *kesisah* as the
-chewing with more enjoyment of the spice's sweetness, and *le'isah* as the more
-utilitarian chewing. Note that this runs against Rabbi Meir Mazuz's line, which
+swallow but only to soften the grain. Rabbi Yitzchak Barda (a son-in-law of Rabbi
+Matzliach Mazuz) notes that the Rema (*Orach Chaim* 567:3, following the Tur)
+permits *lo'es* of cinnamon sticks and other unpulverized spices on a fast day
+other than Yom Kippur, to wet the throat, provided one spits it out, while his
+source, the Ravyah (*Hilchos Taanis* 861), writes *lachus*; he explains
+*kesisah* as the chewing with more enjoyment of the spices' sweet juices than
+*le'isah* implies. The article glosses that as *kesisah* connoting forceful or
+even indulgent mastication and *le'isah* leaning toward a more utilitarian
+chewing, but that gloss is its own reading of him. Note that this runs against Rabbi Meir Mazuz's line, which
 attaches the eating-toward-swallowing sense to *le'isah*; the article records
 both without resolving them.
 
@@ -122,8 +136,8 @@ both without resolving them.
 - Bamidbar 11:33, *bein shineihem*, is "between their teeth," not "while they
   were still chewing"; the Torah has no verb for chewing and the phrase should
   not acquire one.
-- *Maaleh geirah* is "brings up its cud," not "chews its cud," wherever the
-  literal wording is load-bearing.
+- *Maaleh geirah* (Vayikra 11:3-7, Devarim 14:6-8) is "brings up its cud," not
+  "chews its cud," wherever the literal wording is load-bearing.
 
 ## Notes for a project
 
@@ -145,5 +159,7 @@ Melachim I 14:3; *Ohr Zarua, Hilchos Pesachim* 256 and *Hilchos Berachos* 149;
 Aruch, Orach Chaim* 567:3 with the Ravyah, *Hilchos Taanis* 861, and 651:9;
 *Ish Matzliach* vol. 2 *Orach Chaim* 47; *Arim Nissi* to Pesachim 39b. Rabbi
 Ernest Klein's Akkadian and Arabic derivations, Samuel Krauss's link to ע-ס-ס,
-and the *couscous* and *kasha* comparisons are omitted here as comparative
-Semitics or non-traditional.
+Dr. Asher Weiser (whom the article names alongside Zilberberg for the
+כ-ס-ס / ק-ס-ס connection), Dr. A. Weiss on *kos shel akarin*, and the
+*couscous* and *kasha* comparisons are omitted here as comparative Semitics or
+non-traditional.
