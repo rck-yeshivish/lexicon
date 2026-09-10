@@ -47,27 +47,31 @@ Malbim's own illustrations carry the point. A non-Kohen is a *zar* toward
 terumah and the korbanos he may not eat (Vayikra 22:10, 22:12-13), yet he is
 plainly no total stranger. A man other than a married woman's husband is a *zar*
 to her (Devarim 25:5, Yechezkel 16:32) because she is forbidden to him, and no
-more than that. Chazal derive *mamzer* from *zar* (Yevamos 76b), which fits: a
-*mamzer* is a full Jew, foreign only as regards marrying into unblemished
-lineage.
+more than that. *Mamzer* is said to be related to *zar* (Yevamos 76b), which,
+given Malbim's understanding, makes sense: a *mamzer* is a full Jew, foreign
+only as regards marrying into unblemished lineage. He is therefore termed a
+*zar* and not a *nachri*.
 
-The same reasoning explains a Gemara. Tehillim 81:10 pairs *el zar* with *el
-nechar*, yet Shabbos 105b declines to read the first clause as literal idolatry
-and applies *el zar* to the yetzer hara. Since from a Jewish perspective no
-"other god" could be anything but wholly foreign, the word *zar* would have no
-place; the yetzer hara, on the other hand, is intimate (it lives inside a man)
-and estranged (it stands against everything the Torah is) at once.
+The same reasoning seems to explain a Gemara. Tehillim 81:10 pairs *el zar* with
+*el nechar*, yet Shabbos 105b seemingly declines to read the first clause in its
+literal sense as outlawing foreign gods, and applies *el zar* to the yetzer
+hara. The forced explanation presumably stems from the word *zar*: from a Jewish
+perspective no "other god" could be anything but wholly foreign, so *zar* would
+have no place. The yetzer hara, on the other hand, is intimate (it rests within
+a person) and foreign (it goes against everything the Torah stands for) at once.
 
-Rabbi Shlomo Pappenheim traces *zar* to the two-letter ז-ר, "estrangement,
-disconnection": the stranger is cut off from the society he finds himself in.
+Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) traces *zar* to the
+two-letter ז-ר, "estrangement, disconnection": the stranger is cut off from the
+society he finds himself in.
 
 ### nachri (נכרי)
 Ibn Ezra: from an entirely different nation. Rabbi Shlomo Aharon Wertheimer
-notes that *nachri* is several times set against a relative (Bereishis 31:15,
-Devarim 23:21). Malbim: a complete foreigner, from another land and another
-people, strange in many ways at once.
+(1866 to 1935) points out that *nachri* is in several places used to mean the
+opposite of a relative (Bereishis 31:15, Devarim 23:21). Malbim: a complete
+foreigner, from another land and another people, strange in many ways at once.
 
-Rabbi Yaakov Tzvi Mecklenburg: the root נ-כ-ר bears opposite senses,
+Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865): the root נ-כ-ר bears opposite
+senses,
 "recognizing" (*makir*, *lehakir*) and "not recognizing" (*nachri*), and a verb
 of the same root means to deny or repudiate (Devarim 32:27, Iyov 21:29). This is
 why the Mechilta (to Shemos 12:43) defines *ben-neichar* as any heretic who
@@ -89,10 +93,17 @@ wisdom that can never enhance Torah, as a Jew may never marry a non-Jewish
 woman, its heresies staying irreconcilable.
 
 ### chiloni (חילוני)
-The Targumim render Hebrew *zar* into Aramaic as *chiloni* (Onkelos to Shemos
-29:33, 30:33), and *nachri* as *nochrae* (Targum to Devarim 17:15, Shmuel II
-15:19, Mishlei 27:2); the Targum to Tehillim (81:10, 137:4) reverses the pair.
-The Midrash (Vayikra Rabbah 24:7) uses *chiloni* for a non-Kohen: a Kohen Gadol
+The Targumim often render Hebrew *zar* into Aramaic as *chiloni* (Onkelos to
+Shemos 29:33, 30:33; *Peirush Yonatan* to Targum Yonatan to Bereishis 42:7), and
+*nachri* as *nochrae* (Targum to Devarim 17:15, Shmuel II 15:19, Mishlei 27:2);
+as an aside, the Targum to Tehillim (81:10, 137:4) reverses the trend. Either
+way *chiloni* denotes foreignness or strangeness just as *zar* and *nachri* do
+(see *Yair* to Devarim 25:5 and *Me'at Tzari* there).
+
+The Midrash (Vayikra Rabbah 24:7) uses *chiloni* the way Scripture uses *zar*,
+of a non-Kohen. The Midrash explains that the Torah commands all Jews to "be
+holy" (Vayikra 19:2) because if they want to walk with Hashem they must live up
+to His standards, and illustrates it with a parable: a Kohen Gadol
 meets a *chiloni* on the road who asks to walk with him, and is told that a
 Kohen keeps to ritually pure paths and does not pass through cemeteries; join me
 at that standard or I walk alone. In Modern Hebrew *chiloni* is a secular Jew,

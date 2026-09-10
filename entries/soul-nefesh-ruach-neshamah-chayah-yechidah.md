@@ -14,9 +14,9 @@ sources:
   - wiaw:8759 "Take a Breather (Part 1)" (2020-06-27) https://articles.ohr.edu/articles/take-a-breather-part-1
   - wiaw:8768 "Anatomy of a Soul (Part 2 of 3)" (2020-07-04) https://articles.ohr.edu/articles/anatomy-of-a-soul-part-2-of-3
   - wiaw:8779 "The Chayah and Yechidah (Part 3 of 3)" (2020-07-11) https://articles.ohr.edu/articles/the-chayah-and-yechidah-part-3-of-3
-authorities: [Rambam, Raavad, Rashi, Radak, Ibn Ezra, Rabbeinu Yonah, Targum Onkelos, Maharsha, Vilna Gaon, Rabbi Chaim of Volozhin, Rabbi Yosef Karo, Shelah, Rabbi Alexander Sender Shor, Rabbi Yaakov Yehoshua Falk, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg]
-status: draft
-updated: 2026-09-09
+authorities: [Rambam, Raavad, Rashi, Radak, Ibn Ezra, Rabbeinu Yonah, Targum Onkelos, Maharsha, Vilna Gaon, Rabbi Chaim of Volozhin, Rabbi Yosef Karo, Rabbi Yitzchak Karo, Shelah, Rabbi Alexander Sender Shor, Rabbi Yaakov Yehoshua Falk, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Reuven Margolios, Ibn Janach, Shoresh Yesha, Rabbi Yaakov Kamenetsky, Rabbi Aharon Marcus]
+status: reviewed
+updated: 2026-09-10
 ---
 # Soul: nefesh / ruach / neshamah / chayah / yechidah
 
