@@ -669,6 +669,12 @@ header.bare .brand{flex:1}
   padding:15px 6px;border-bottom:1px solid var(--line)}
 .rows.en3 .r{grid-template-columns:minmax(0,230px) minmax(0,130px) minmax(0,1fr)}
 .rows .r{color:var(--ink)}
+/* The browse filter hides rows with el.hidden, which leans on the browser's
+   own [hidden]{display:none}. An author rule beats a user-agent rule, so the
+   display:grid above kept every row on screen and the letter buttons appeared
+   to do nothing while the count changed. Anything the script hides must be
+   hidden here too. */
+[hidden]{display:none!important}
 .rows .rhead{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);
   font-weight:600;padding-bottom:8px;border-bottom:1px solid var(--line)}
 .rows.en3 .h{text-align:left}
