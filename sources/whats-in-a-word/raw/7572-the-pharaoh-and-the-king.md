@@ -1,0 +1,65 @@
+---
+id: 7572
+slug: the-pharaoh-and-the-king
+title: "The Pharaoh and the King"
+date: 2018-01-06
+hebrew_date: "For the week ending 6 January 2018 / 19 Tevet 5778"
+url: https://articles.ohr.edu/articles/the-pharaoh-and-the-king
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# The Pharaoh and the King
+
+I still remember my fifth grade *rebbe*, Rabbi A. Y. Berman, asking the one-hundred-dollar question: Why does the Torah sometimes refer to the Egyptian monarch as *Melech Mitzrayim *(“the King of Egypt”) and sometimes as *Pharaoh *(“the Pharaoh”)? The term *Melech Mitzrayim *appears in the Bible close to fifty times, while the word *Pharaoh *appears a whopping 274 times! In six cases, both names are used together: *Pharaoh Melech Mitzrayim *(Ex. 6:11; 6:13; 6:29; 14:8, I Kgs. 3:1, and Ezek. 29:2). Why does the Bible sometimes use one term, sometimes the other — and sometimes both?
+
+
+
+ As you might know, Pharaoh is not a personal name, but rather it is a title held by the King of Egypt. Rashi (to Ps. 34:1 and Ezra 6:14) writes that every king of Egypt is called Pharaoh (in contrast, Radak to Gen. 26:9 writes that *most *kings of Egypt were named/called Pharaoh). When the Pharaoh's butler spoke up to recommend Yosef as a dream-interpreter, the butler began his speech by saying, "I shall mention my sin today: Pharaoh became angry at his servant (i.e. me) and he put me in detention..." (Gen. 41:10) In some versions of Rashi’s commentary, here he again comments that every king of Egypt is called Pharaoh. Rabbi Ovadia of Bartenura (1440-1500) points out that Rashi proffered that explanation because one might otherwise think that Pharaoh was the king’s name and the butler acted disrespectfully by referring to the king by his personal name. To preclude that understanding, Rashi explained that all Egyptian kings are called Pharaoh, so Pharaoh is a title and not a name. Ibn Ezra (there) makes a similar point.
+
+
+
+ Nonetheless, the Bible does give us the personal names of three different Egyptian kings. Firstly, the Egyptian king during the reigns of King Solomon and his son Rehoboam was named Shishak (interestingly, the Bible never describes him as *Pharaoh*, but only as *Melech Mitzrayim*). Shishak is commonly identified by archeologists as Pharaoh Shoshenq I. Secondly, the Egyptian king during the reign of King Josiah was Pharaoh Necho (“lame” or “handicap” Pharaoh). According to the Midrash, he was called such because he was partially paralyzed. When Necho killed Josiah in battle, he captured King Solomon’s Throne, and when he dared sit on it one of the lions on the throne struck him, rendering him partially paralyzed. The third king mentioned by name is in the generation after Josiah. When Jeremiah foretells the downfall of Egypt, he mentions its leader by name: Pharaoh Chafra, king of Egypt (Jer. 44:30).
+
+
+
+ The Apocryphal Midrash *Sefer HaYashar *gives us the personal names of some more kings of Egypt. According that source, Severus, son of Anam (see Gen. 10:13 which lists the Anamites as descendants of Ham’s son Mitzrayim, the progenitor of the Egyptians) who was the king of Egypt when a man from Babylon named Rakayon impressed the king and his nation with his great wisdom. In the end, Severus renamed Rakayon “Pharaoh” and appointed him the day-to-day ruler of Egypt, while Severus himself remained the ultimate king of Egypt (who would appear in public only once a year). The Egyptians paid special homage to Rakayon by decreeing that all future kings of Egypt should be named Pharaoh.
+
+
+
+ According to *Sefer HaYashar*, the Pharaoh in the generation after Yosef’s death was Pharaoh Melol. He ruled for ninety-four years. Instead of calling him *Melol, Melech Mitzrayim, *the Jews called him *Maror*
+
+*Melech Mitzrayim *because he made the lives of the Jews bitter (*maror) *by enslaving them. Interestingly, Egyptologists have discovered that in ancient Egyptian hieroglyphics, the same glyph was used for the r-sound and the l-sound. Even more interestingly, some scholars identify Pharaoh Melol with Pharaoh Pepi II, whose alternate name was Merire.
+
+
+
+
+
+*Sefer HaYashar *relates that Melol’s successor was his son Pharaoh Adikam. He was also known as Adikam Achuz because *achuz *means “short” in Egyptian and Adikam was only one *amah* (cubit) tall (see also *Mo’ed Katan* 18a). Adikam was a short, ugly fellow whose beard reached to his ankles. It was during Adikam’s reign that the Jews’ Exodus from Egypt happened.
+
+
+
+ According to *Sefer HaYashar, Pharaoh* and *Melech Mitzrayim* were originally two different titles held by different people, but eventually, it seems, those two offices were merged. This, however, does not explain why the Bible sometimes uses one title, sometimes the other, and sometimes both.
+
+
+
+ The *Zohar* (*Shemot* 17a; 19b) explains that in most of the opening story of the Book of Exodus, the Bible mentions *Melech Mitzrayim*. This refers to the angelic minister who represents the Egyptian nation in the Heavens. On the other hand, when the Torah refers to* Pharaoh *or* Pharaoh Melech Mitzrayim*, this refers to the human king of the Egyptians. Following this approach, the *Zohar *explains that when the Torah reports “…and *Melech Mitzrayim *died…” (Exodus 2:23), this does not refer to the death of the earthly King of Egypt, but to the removal of the Egyptians’ Heavenly minister from its prominence. Only once G-d demoted the Egyptians’ Heavenly representative did He begin to listen to the Jews’ prayers for redemption.
+
+
+
+ Rabbeinu Bachaya (to Gen. 41:1) writes that throughout the story of Yosef's interpreting Pharaoh’s dreams, the king is only referred to as *Pharaoh* and not *Melech Mitzrayim *because that story was the beginning of Pharaoh’s personal downfall, which culminates in the Jews’ exodus from Egypt and the Egyptians drowning in the Red Sea. The only exception to this is that when mentioning Yosef's standing in front of Pharaoh, he is called *Pharaoh Melech Mitzrayim *(Gen. 41:46) in order to stress that he was able to remain king only because he listened to Yosef’s sagely advice. The drawback of Rabbeinu Bachaya’s explanation is that he does not offer an all-encompassing theory as to when the Bible uses *Pharaoh *and when it uses *Melech Mitzrayim *and when it uses both.
+
+
+
+ Partially basing himself on Rabbeinu Bachaya, Rav Chaim Kanievsky offers a comprehensive discussion about the three different ways in which the Bible refers to the Pharaoh. He explains that when the Pharaoh was acting on behalf of national interests, then he is referred to as *Melech Mitzrayim*. In contrast, when Pharaoh’s actions are motivated by his own, selfish interests (be that his self-aggrandizement or simply his pathological stubbornness), then he is called *Pharaoh*. When both of these factors played a role, then the king is known as *Pharaoh Melech Mitzrayim*.
+
+
+
+ What does the word *Pharaoh* mean? Rabbi Yitzchak Abarbanel (1437-1508) and Rabbi Avraham Menachem Rappaport (1520-1596) explain that “Pharaoh” is a term the Bible uses to illustrate the Egyptian king’s depravity, and is either a contraction of the Hebrew phrase *po’el ra *(“doer of evil”) or *peh ra *(“bad mouth”). Rabbi Eliezer ben Eliyahu Ashkenazi (1515-1585) claims in his work *Ma’ase Hashem* that the Egyptians spoke Latin/Italian. He uses that notion to explain the meaning of the name Pharaoh by arguing that “Pharaoh” means “master” in Italian. (After consulting with experts, we remain unable to confirm this.) Nonetheless, it is virtually a historical fact that the Egyptians spoke Egyptian, not Latin. Academia tends to explain that Pharaoh means “the great house”.
+
+
+
+
+
+
+- 
+
+*L'Ilyu Nishmat *my mother Bracha bat R' Dovid and my grandmother Shprintza bat R' Meir

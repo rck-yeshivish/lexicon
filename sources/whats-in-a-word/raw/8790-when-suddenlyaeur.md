@@ -1,0 +1,80 @@
+---
+id: 8790
+slug: when-suddenlyaeur
+title: "When Suddenlyâ€¦"
+date: 2020-07-18
+hebrew_date: "For the week ending 18 July 2020 / 26 Tammuz 5780"
+url: https://articles.ohr.edu/articles/when-suddenlyaeur
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# When Suddenlyâ€¦
+
+The way the Torah looks at it, there are three types of murderers: One who kills by mistake (*shogeg), * one who kills by complete accident (*oness)*, and one who kills on purpose (*meizid*). The Torahmandates that one who murderers another by mistake must flee to a City of Refuge. In describing how one might inadvertently kill somebody, the Torah says: “And if, with suddenness (*peta*), without enmity, did he (the murderer) push him (his victim), or he threw an instrument upon him…” (Num. 35:22). In this passage, the word *peta *(technically, *feta*) appears in the sense of something that happened “suddenly.” This rare word appears only seven times in the entire Bible, often accompanied by its apparent synonym *pitom *(“suddenly”). In this essay we will consider what — if anything — is the difference between the words *peta * and *pitom.*
+
+
+
+ The Torah teaches that if a Nazirite becomes ritually impure, he must shave his hair, bring certain sacrifices, and restart his term as a Nazirite. In introducing this law, the Torah writes: “And if a person should die upon him (the Nazirite) with sudden (*peta) * suddenness (*pitom*), and he became impure…” (Num. 6:9). In this passage, *peta * and *pitom * appear in tandem, to stress that the Nazirite must restart even if he became ritually impure unintentionally — meaning, even if it happened “all of a sudden.” [The Bible also uses *peta * and *pitom * as a couplet in Isa. 29:5, Isa. 30:13 and Prov. 6:15. In the other two Biblical passages where *peta * appears (Chavakuk 2:7, Prov. 29:1), *pitom * does not appear alongside it; *pitom * appears a total of twenty-five times in the Bible.]
+
+
+
+ The Mishna (*Kritut* 2:2) rules that although one generally brings a sin-offering or guilt-offering for a sin committed by mistake, when it comes to the Nazirite who became ritually impure, he must bring a guilt-offering, whether he violates the terms of his Nazirite vow by mistake (*shogeg*), by accident (*oness*), or on purpose (*meizid*). The Talmud (*Kritut *9a) justifies this ruling by explaining that regarding the Nazirite becoming impure, the Torah uses the words *peta * and *pitom*. Now, the Talmud maintains that *pitom * is the more ambiguous of these two terms, as it could refer to *shogeg, oness, * and even *meizid *(see below). Because of this, one might have thought that just as, in general, a guilt-offering is brought only when one’s sin is *shogeg, * but not if it was *oness * or *meizid*, so too does the term *pitom * when discussing the Nazirite refer only to *shogeg*. This supposition would exempt the Nazirite from bringing sacrifices if he became ritually impure by accident or on purpose. In order to obviate this supposition, the Torah wrote *peta * alongside *pitom*. Since *peta only* means *shogeg *(see below), then *pitom * must mean something other than *shogeg, * thus providing the basis for the Mishna’s ruling that the Nazirite must offer a guilt-offering even if he *purposely* (*meizid*) becomes ritually impure.
+
+
+
+ How does the Talmud know that *pitom * can refer to *shogeg, oness, * and *meizid? * The Talmud cites three proof-texts in which *pitom * or words similar to it appear in situations of *shogeg, oness, * and *meizid*. The first passage reads, “The clever one sees evil and hides, while the fools (*petaiim*) violate and are punished” (Prov. 22:3). This verse alludes to deliberate sinning (*meizid*), and refers to such foolish sinners with a word that resembles *pitom, * thus teaching that *pitom * can mean *meizid. * Then the Talmud cites another passage: “The fool (*peti*) believes everything” (Prov. 14:15). This verse criticizes the fool’s naivety that can lead to mistaken (*shogeg*) sin. Since the word for “fools” (*peti*) is similar to *pitom, * this shows that *pitom * can also refer to *shogeg*. [Bartenuro (cited below) cites Ezek. 45:20 to illustrate the *pitom-peti * connection.] Finally, when it comes to *pitom * meaning *oness, * the Talmud cites the verse, “And G-d spoke suddenly (*pitom*) to Moshe, Aharon, and Miriam…” (Num. 12:4). This means that He suddenly foisted a prophecy unto the trio in a way that was totally beyond their control. This is akin to an *oness, * which is something that happens by complete accident and is totally beyond a person’s control. Because *pitom * appears in that passage, the Talmud understands that *pitom * can refer to *oness*.
+
+
+
+ How do we know that *peta * means *shogeg? * The Talmud explains that *peta * refers to *shogeg * because the unintentional murderer is only obligated to flee to a City of Refuge if he killed somebody by mistake (*shogeg*), but if he innocently killed somebody in a freak accident (*oness*), then he is exempt from fleeing to a City of Refuge. Since in that context the Torah uses *peta * to describe the inadvertent killer’s “sudden” action that led to his victim’s death, this indicates that *peta * refers to *shogeg*.
+
+
+
+ If truth be told, not all of the Sages agree to the Talmud’s assumption that *peta * refers to *shogeg * and *pitom * refers to all three frames of mind. The Midrash (*Sifrei* to Num. 6:9) admits that *peta * and *pitom * refer to two different degrees of unintended actions, but registers a dispute over how exactly this works out: According to Rabbi Yoshiya, *peta * refers to *shogeg *(like the Talmud assumes) and*pitom * refers to *oness, * while Rabbi Yonatan maintains that *peta * refers to *oness * and*pitom * refers to *shogeg. * Rashi (to Num. 6:9) seems to follow Rabbi Yonatan in explaining that *peta* means *oness* and *pitom* means *shogeg*. However, Rabbi David HaLevi Segal (1586–1667), author of *Turei Zahav (TaZ), * explains in *Divrei David *(there) how Rashi actually follows the Talmud in adopting Rabbi Yoshiya’s opinion (see also *Biur HaGra * to Prov. 6:15).
+
+
+
+ To summarize our findings so far, *peta * and *pitom * both refer to something that happened “suddenly,” but seem to refer to different degrees of intentionality in the one who executed/experienced that sudden event.
+
+
+
+ Interestingly, Rashi (to Num. 35:22, Prov. 6:15, and *Makkos *7b) explains *peta * as an expression of “closeness” and “immediacy.” In this sense, it denotes something “sudden” as happening in such quick succession that one could not have possibly been careful about preventing it. In fact, the word *haftaah* (“surprise”) in Modern Hebrew is derived from *peta*. All this seems to fit with Rashi’s ostensible opinion that *peta * refers to *oness*.
+
+
+
+ Rabbi Ovadiah of Bartenuro (*Amar Nakeh* to Num. 6:9) offers a slightly different take on why *peta * should refer to *oness*. The triliteral root of *peta * is PEH-TAV-AYIN, but Bartenuro explains that since the letter PEH is often interchangeable with the phonetically-similar letter BET, we can view the root of *peta * as BET-TAV-AYIN. Bartenuro explains that BET-TAV-AYIN is, in turn, a permutation of BET-AYIN-TAV, which means “startled” or “frightened” in Biblical Hebrew (for examples, see Esther 7:6 and Jer. 8:15). The Arabic word *baghta * is a cognate of this root and means “unexpected event.” Bartenuro explains that *peta * refers to something that happened in a surprising way that caught somebody totally off-guard. This means that *peta * must refer to *oness*.
+
+
+
+ Rabbi Shlomo Pappenheim (1740-1814) explains that BET-AYIN-TAV is actually derived from the two-letter root BET-AYIN, which refers to something that “reveals itself from beneath the surface.” Thus, he explains that a *bua/avabua* (Ex. 9:9-10, Isa. 64:1) refers to “boils,” which bubble up on the surface of one’s skin. As a corollary of that usage, this root came to mean “fear,” which is often accompanied by goose-bumps on the surface of one’s skin.
+
+
+
+ Rabbeinu Efrayim ben Shimshon of Regensburg (to Num. 12:4) parses the word *pitom* as a portmanteau comprised of the words *peh *(“mouth”) and *toem *(“fits” or “matches”). He ostensibly explains that something which happens *pitom * happens so quickly and suddenly that it resembles the speed at which words exit one’s mouth. Rabbi David Golomb (1861-1935) similarly writes that the TAV-ALEPH-MEM element in the word *pitom * denotes “fitting” or “matching,” as if to say that when something happens suddenly, a person may have been in the midst of experiencing a calm serene moment (where everything is “in sync” and “fits together”) — *when*
+
+*suddenly * something happens to disrupt the idyllic situation.
+
+
+
+ Rabbi Samson Raphael Hirsch (to Gen. 9:27, Num. 6:9) offers a discussion on the concept of *pitui *(“convincing” or “seducing”) which is relevant to our study. He explains that *pitui * essentially recalls a state wherein a person is easily swayed by external impressions and influences. Rabbi Hirsch relates *pitui * to *petach/patuach *(“open”), because for one to be convinced by another, one must be “open” — and thus susceptible — to the influence of such external stimuli. This also relates to the simple-minded fool (*peti*)*, * who can be easily deceived or talked into doing things.
+
+
+
+ In this spirit, Rabbi Hirsch explains that *peta * refers to a “surprise” that a person could have foreseen if he had simply thought about the likely outcomes of a given situation or course of action. This is comparable to the halachic level of *shogeg*, where one’s inadvertency derives from a mistake. If the inadvertent sinner had been a bit more mindful, then he could have avoided sinning. In a similar way, the “surprise element” of a *peta * could have been neutralized if only one would have put more thought into the matter.
+
+
+
+ On the other hand, the term *pitom * denotes a surprise occurrence that no amount of analytics or forecasting could predict. When it comes to such an event, the “surprise element” and lack of foreknowledge renders one akin to a *peti, * who could not have anticipated or prepared for this sudden event. In further clarifying the difference between *peta * and *pitom*, Rabbi Hirsch summarizes that *peta * denotes a subjective surprise, while *pitom * denotes an objective surprise.
+
+
+
+ Rabbi Pappenheim actually writes the exact opposite. He maintains that *peta * refers to a surprise occurrence, whose catalyst or direct cause is not readily visible in an objective way, while *pitom * refers to a surprise occurrence that those affected by the sudden surprise were subjectively unable to prepare for, even though the signs of its impending arrival were demonstrably clear. Either way, most sources point to a marked difference between the words *peta * and *pitom* — whatever the exact difference between those two words may be.
+
+
+
+ In contrast to all this, Ibn Ezra (to Num. 35:22) seems to say that *peta * and *pitom * are one and the same. Rabbi Avraham Menachem Rappaport (*Minchah Belulah* to Num. 12:4) seemingly follows this idea when he suggests that *peta * and *pitom * are etymologically-related because the letters AYIN and ALEPH can be interchangeable, such that PEH-TAV-AYIN equals PEH-TAV-ALPEH-(MEM). According to this approach, *peta * and *pitom* may actually mean the exact same thing; they are not synonyms but rather are different forms of the same word!
+
+
+
+
+
+*For questions, comments, or to propose ideas for a future article, please contact the author at *[*rcklein@ohr.edu*](mailto:rcklein@ohr.edu)

@@ -1,0 +1,96 @@
+---
+id: 10975
+slug: korach-the-one-and-only
+title: "Korach: The One and Only"
+date: 2023-06-17
+hebrew_date: "For the week ending 17 June 2023 / 28 Sivan 5783"
+url: https://articles.ohr.edu/articles/korach-the-one-and-only
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Korach: The One and Only
+
+When Korach rebelled against the authority of Moses and Aaron, he engaged in a classical mudslinging campaign that accused Moses of monetary impropriety and taking public funds for personal use. Moses defended himself to Hashem by saying, “I did not take a donkey of one [*echad*] of them, and I did not do bad to one [*achad*] of them” (Num. 16:15). This verse uses two different words that mean “one,” *echad * and *achad*. As this essay will explore, the Bible uses several more words to mean “one” — like *echat*, *achat*, *chad*, *chadah*, and *ach*. Even though all of these words are built on basically the same few letters, this may not be a simple case of synonymy, but of discrete words that carry their own special meanings and connotations. [For another possible word for “one,” see my earlier essay, “[The Number Eleven](https://ohr.edu/this_week/whats_in_a_word/7974)” (July 2018).]
+
+
+
+ The word *echad* appear a whopping 634 times in the Bible. Indeed, in its simplest meaning, the word *echad * denotes the number one (as opposed to a different number), and in a more complex way, it refers to the unity of sub-parts that have joined together to become one.
+
+
+
+ Moreover, the rabbis understood that the word *echad * connotes something important and special, besides its typical numerical detonation. For example, the Talmud (*Megillah* 28a) postulates that the *Korban Tamid* ought to be brought from the choicest animal available, because the Torah states: "the one [*echad*] sheep shall you do in the morning, and the second sheep shall you do in the afternoon" (Num. 28:4). In this case, the word *echad * implies something more important and more special than the rest. Similarly, when King Saul sought out somebody to play music for him and asked his servants to help him find such a talented person, the Bible reports "and one [*echad*] of the lads answered..." (I Sam. 17:18) without revealing who this was. Rashi (there) cites the Talmud (*Sanhedrin* 93b) as explaining that this “one” refers to a lad who was special and important amongst the people of Saul’s entourage, identifying the person in question as none other than Doeg the Edomite.
+
+
+
+ The rabbis see the term *echad * as especially associated with Hashem in many places. Perhaps most famously, it is used in the phrase *shema Yisroel, Hashem elokeinu, Hashem echad*, meaning, “Hear O Israel, Hashem our G-d — Hashem is one/unique [*echad*]” (Deut. 6:4). In line with this, the Midrash (*Bamidbar Rabbah* §18:10, *Tanchuma Korach *§7) explains that the term *echad * in the phrase “a donkey of one [*echad*] of them” refers to *hekdesh *(“consecrated property”), which belongs to Hashem, the Ultimate One. According to this Midrash, Moses pled his innocence by saying that he did not even take a donkey from “consecrated property” (unlike the standard operating procedure for political leaders who were accustomed to using such property for their personal needs) and was therefore certainly not guilty of the accusations that Korach levelled against him.
+
+
+
+ Now, the truth is, the way I translated the first clause in Moses’ defense against Korach’s campaign actually follows the explanation of Rashi (and Targum Onkelos), who explain the word *echad * as referring to “one” of the people, with Moses arguing that he did not even repossess a donkey from even “one” Jew. However, other commentators, including Rashi’s own grandson Rashbam (as well as Chizkuni and Ramban), render that clause differently: “I did not take one [*echad*] donkey from them.” They explain that *echad* must be referring to “donkey,” not one of the people because otherwise the Torah should have used the word *achad * in this context, just like it did in the second clause of Moses’ defense, “and I did not do bad to one [*achad*] of them [the people].”
+
+
+
+ Without getting into all of the grammatical technicalities that he discusses, Rabbi Wolf Heidenheim (1757–1832) defends Rashi and, in doing so, explains that there are actually two forms of the word *achad, * with each one bearing its own connotation.
+
+
+
+ One type of *achad * is simply a construct form of *echad *(i.e., “one of…”)*, * so it semantically means essentially the same thing as *echad* in implying something important and unique. Examples of *achad * in this sense include the verse in which Hashem commanded Abraham, "take your son... and go to the Land of Moriah and put him up there as a burnt-offering on one of [*achad*] the mountains that I will say to you" (Gen. 22:2). In that verse, the word *achad * appears in the construct and refers specifically to an important mountain — Mount Moriah, where the Holy Temple will later be built. Similarly, when Avimelech chastised Abraham for his subterfuge in presenting Sarah as his sister instead of his wife, Avimelech said, “what is this that you have done to us? One of [*achad*] the nation almost lied with your wife, and you [would] have brought guilt upon us” (Gen. 26:10). In that verse, Rashi explains that *achad * implies somebody important and unique from amongst the people of the nation — a reference to the king Avimelech himself, who wanted to take Sarah for himself. Finally, on his deathbed, Jacob blessed each of his twelve sons, saying specifically to Dan (whose descendants were notoriously involved in idolatry) that he should be "like one of [*achad*] the tribes of Israel" (Gen. 49:16). In that verse, Rashi explains that *achad * refers to one of the *important*/*special* tribes, namely the Tribe of Judah (see also *Bereishit Rabbah* §98:13).
+
+
+
+ The other type of *achad * is not in the construct form (even though it looks like it is), but is actually in the absolute form (i.e., “one”). You can tell that it is not in the construct because it is usually followed by a word beginning with the prefix MEM (“from/of”), while construct words assume the “of” within the word itself. Rabbi Heidenheim contends that this second type of *achad * connotes something different from the first type of *achad*, as it actually implies something that is *not as important or special*. In this way, *achad* in the absolute form actually has the *exact * opposite connotation of *echad* (and *achad* in the construct), because *echad* implies something important and unique, while *achad * implies just the opposite of that.
+
+
+
+ One example of this type of *achad* appears when Saul's father Kish lost some donkeys, so he said to Saul, "please take with you one [*achad*] of the lads and get up and go seek out the donkeys" (I Sam. 9:3). In this verse, the lad who would accompany Saul was not an honorable or special person in any way, so the word *achad * in the absolute form is used. Similarly, when a person has a suspected case of *tzarat* (roughly, “leprosy”), the Torah commands that "he be brought to Aaron the Kohen, or to one [*achad*] of his [Aaron’s] sons, the Kohanim" (Lev. 13:2). In this verse too, the “one” mentioned is not as important or special as “Aaron the Kohen” (who was, after all, the Kohen Gadol), as it could refer to any ordinary Kohen. Because of this, the word *achad * in the absolute form is used.
+
+
+
+ Based on this, when explaining the verse “I did not take *chamor echad* from them, and I did not do bad to one [*achad*] from them,” Rabbi Heidenheim notes that if the first clause would have used the word *achad, * since it is not in the construct form, we would have understood it as referring to a *less honorable * entity*, * would defeat the whole point, as the Midrash explains it is a reference to *hekdesh*, which is *more* important and honorable. This is why even though *echad * and *achad * mean the same thing in that verse, the Torah specifically uses the word *echad * in the first clause, and not *achad*. [Rabbi Heidhenheim’s explanation is quoted by Rabbi Yaakov Tzvi Mecklenburg (1785–1865) in his work *HaKtav VaHaKabbalah *(to Num. 16:15). See also *Shaarei Tefillah *(§11) by Rabbi Shlomo Zalman Hanau (1687–1746).]
+
+
+
+ After Adam had fallen from grace by eating from the Tree of Knowledge, Hashem commented about the postlapsarian man, "Behold the man has become like one [*achad*] of them..." (Gen. 3:22). Based on Rabbi Heidenheim’s explanation, Rabbi Moshe Sofer () notes that in this case the word *achad * appears in the absolute form, not in the construct, so it refers to something *less* important. Accordingly, he explains that this passage refers to the fact that Adam’s spiritual stature had diminished after his sin, and that he was now on par with the lowest creatures in existence, instead of on a loftier plane than them.
+
+
+
+ Interestingly, the Malbim seems to contradict himself about all of this. On the one hand, Malbim follows Rabbi Heidenheim in differentiating between two forms of *achad*, and explaining how the construct version implies the same thing as *echad *(*Ayelet HaShachar* introduction to Lev. §69, and Malbim to *Parashat Tzaria* §43). In fact, in his commentary to Gen. 3:22, he even offers an explanation that is very similar to that of Rabbi Sofer (who explicitly follows Rabbi Heidenheim).
+
+
+
+ On the other hand, Malbim elsewhere seems to disagree with Rabbi Heidenheim's understanding. This is because in the *Asher Yatzar* blessing (recited after using the bathroom), it says “for if one [*achad*] of them [i.e., a person's inner organs] would open or one [*achad*] of them [i.e., a person’s bodily crevices] would close, it would be impossible for a person to last and stand before You for even one hour." In explicating that line, Malbim in *Artzot HaChaim* (*Orach Chaim* §6:1) writes that the word *achad* refers to the “most important” organs, citing Gen. 22:2 and 26:10 as precedent for that explanation. According to Rabbi Heidenheim, since the word *achad* in that blessing is not in the construct form, it has a different meaning than the *achad * in those verses. Yet Malbim explains *achad * in this case along the lines of *echad * as implying something special and important, which implies that he did not accept Rabbi Heidenheim’s explanation.
+
+
+
+ By the way, compared to the word *echad * which we noted appears hundreds of times in the Bible, the word *achad* is much less common, appearing only 65 in the entire Bible. While the words *echad * and *achad* are grammatically in masculine form, there are two similar words in the feminine form: The word *achat* (“one”) appears over 200 times in the Bible, while its cognate *echat* appears less than 70 times. To capsulize the difference, the dominant feminine form is overwhelmingly *achat*, but sometimes, depending on the word’s position in a verse, it might be vowelized as *echat* (especially if it is the final word of the verse or is cantillated with an *etnachta*).
+
+
+
+ In general, the word *ach * means “brother” (although it is sometimes an onomatopoeic exclamation of sorrow along the lines of “ach” or “ouch,” or refers to an “oven”). However, in one case, the Bible uses the word *ach *(Ezek. 18:10), and Rabbi Yonah Ibn Janach (990–1050) and Radak (there and *Sefer HaShorashim*) insist that it means “one,” not “brother.” It should be noted that other commentators (like Targum and Rashi to Ezek. 18:10) understand *ach * even in that case to mean “brother,” like it normally does. Interestingly, Ibn Janach finds another example of *ach* as “one” in Ps. 49:8, but Radak disagrees with him on this point, explaining *ach * there in its regular sense of “brother.”
+
+
+
+ Rabbi Yonah Ibn Janach (in *Sefer HaShorashim) * writes that the words *achat/echat* (“one”) are simply the feminine forms of *echad*/*achad*, with a feminine TAV appended to the word. He explains that technically, the feminine words should be something like *echadet* or *achadet*, but in practice the letter DALET is instead dropped to become *achat* (probably to avoid having the letters DALET and TAV, which are both pronounced by the same part of the mouth, in succession). However, Radak in his *Sefer HaShorashim * disagrees with Ibn Janach’s assessment, instead preferring to argue that *achat/echat* are the feminine forms of the word *ach* (“one”) mentioned above, but that *echad*/*achad* do not technically have a feminine form.
+
+
+
+ In his *Michlol, * Radak explains this slightly differently, noting that all the words in question are etymologically the same, but that sometimes the DALET of *echad/achad * is dropped to become *ach*, and sometimes the ALEPH is dropped to become *chad *(see below), while the feminine forms *achat/echat* are both derivatives of *ach*.
+
+
+
+ The masculine word *chad * appears in the Bible multiple times, but only once in a Hebrew part of the Bible (Ezek. 33:30). Radak (there and in his *Sefer HaShorashim*) explains that it is really the same thing as the Hebrew word *echad, * except that the initial ALEPH was dropped simply to abbreviate the word. The other five cases of *chad * in the Bible are all in the Aramaic parts of Daniel (Dan. 2:31, 3:19, 6:3, 7:5, and 7:16). Its close counterpart, the feminine word *chadah *(with a HEY at the end), appears nine times in the Bible—all in the Aramaic parts of Daniel and Ezra. Another Aramaic variant is *chada *(with an ALEPH at the end to denote the definite article “the”), which never appears in the Bible, but appears quite often in the Babylonian Talmud and the Targumim.
+
+
+
+ Rabbi Shlomo Pappenheim (1740–1814) traces the words *echad, achad, * and *chad* to the biliteral root CHET-DALET, whose core meaning refers to the concept of “singularity/unification.” Accordingly, these three words for the number “one” refer to something singular and unique (something which is “one” has no counterpart which would make them “two” or more). Other words which Rabbi Pappenheim sees as deriving from this root include: *yachad *(“together,” that is, a “single” unit comprised of multiple sub-units who joined to become “one”), *chad/chidud *(“sharp,” because the full force focuses on “one” point), *chidah *(“riddle,” because solving such a puzzle requires *sharpen* ing one’s mind and harnessing all of one’s mental energies towards the resolution of “one” question), and more. [Rabbi Pappenheim does not discuss the word *ach * in this context because he seemingly follows the approach that it never means “one.”]
+
+
+
+ Biliteralists in the mold Menachem Ibn Saruk (920–970) and Rabbi Pappenheim trace the words *ach *(“brother”) to a separate two-letter root than the words *echad/achad/echat/achat *(“one”), with the former deriving from ALEPH-CHET and the latter, from (ALEPH-)CHET-DALET. However, Rabbi Shmuel Yehudah Steiger (1876-1928) in *Avnei Shayish* explains that they are all related because they all connote a certain closeness and joining together, like “brotherhood.”
+
+
+
+ Interestingly, Rabbi Yehonosson Eybeschutz (1690–1764) writes that before eating from the Tree of Knowledge, Adam spoke Hebrew, while subsequent to that sin, he spoke Aramaic. Rabbi Eybeschutz accounts for this switch by explaining that when Adam defied Hashem’s order, he slighted Hashem’s all-encompassing dominion, causing an affront to His Oneness. As you may have realized by now, the word for “one” in Hebrew is *echad*, which has an ALEPH as its initial letter, while the Aramaic word for “one” is *chad*, sans that initial ALEPH. Because ALEPH is the first letter of the Hebrew Alphabet and has a *gematria *(“numerical value”) of one, it represents the concept of “oneness/uniqueness.” Consequently, explains Rabbi Eyebschutz, before Adam slighted Hashem’s Oneness, he spoke Hebrew, the language that capsulizes Hashem uniqueness by virtue of its very word for “one” starting with an ALEPH. However, after dishonoring His Oneness, Adam was punished and demoted to speaking only Aramaic, which does not symbolize Hashem’s Oneness as much as Hebrew.
+
+
+
+ For more about what language(s) Adam spoke before and after his sin, check out the first chapter of my book [*Lashon HaKodesh: History, Holiness, & Hebrew*](https://amzn.to/45yHTas) (Mosaica Press), available at: [https://amzn.to/45yHTas](https://amzn.to/45yHTas) and at better Jewish Bookstores.

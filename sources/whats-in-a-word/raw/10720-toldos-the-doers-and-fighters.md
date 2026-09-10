@@ -1,0 +1,88 @@
+---
+id: 10720
+slug: toldos-the-doers-and-fighters
+title: "Toldos: The Doers and Fighters"
+date: 2022-11-26
+hebrew_date: "For the week ending 26 November 2022 / 2 Kislev 5783"
+url: https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Toldos: The Doers and Fighters
+
+Back in November 2021, the inimitable Rabbi David Bashevkin of the OU challenged his Twitter followers to consider the following question: "What’s the difference between a *shtadlan* and an *askan*?" Both Hebrew terms refer to those tireless individuals who busy themselves with public service and helping out the community-at-large. But how do these terms differ from one another? This essay explores precisely that question and — instead of the witty answers offered by Rabbi Bashevkin’s followers — offers a serious look at the words’ respective etymologies for clues.
+
+
+
+ The term *askan * seemingly comes from the root AYIN-SAMECH-KUF, but where do we find such a root in the Hebrew language?
+
+
+
+ The Torah recounts a series of incidents between the shepherds employed by Isaac and those employed by Abimelekh (Philistine king of Gerar), in which the former dug wells, and the latter tried to usurp control of those wells. In telling this story, the Torah relates that Isaac called the first well *Esek*, because Abimelekh’s shepherds “had fought” (*hitasku*) with him (Gen. 26:20). The name *Esek * and the verb *hitasku* are the only two instances of the three-letter root AYIN-SIN-KUF in all of the Bible.
+
+
+
+ In the Mishnah, verb forms of *esek * refer to somebody who was “busy dealing with” something, which often causes one to do another action only haphazardly and unawares (see *Shekalim* 6:2, *Rosh HaShananh* 4:8, *Sotah* 1:9, *Kiddushin* 4:14, *Eduyot* 2:5, *Kritot* 4:3, *Taharot* 7:8, *Nidah* 8:2, and *Zavim* 2:2). From this sense of the term, the act of “toiling” in Torah Study came to be known as *osek b’divrei torah*, and noun forms of the word refer to specific “matters” or “affairs” with which one might have to deal (*Maaser Sheini* 4:7, *Shabbat* 23:4). When the Mishnah says that the rabbis wanted to make a “big deal” out of the cutting of the Omer, the term used in the Mishnah is *esek gadol* (*Menachot *10:3). In other contexts, the Targumim use cognates of *esek* (for examples, see Gen. 12:17, 20:11, 20:18, Josh. 14:6) or *iska* (Ecc. 3:1, 3:18, 7:8, 8:2) when discussing any matter with which one must deal, or to which one must otherwise attend.
+
+
+
+ Rabbi Binyamin Mussafia (1606-1675) in *Mussaf HaAruch* writes that *esek* in the rabbinic sense of "busy/preoccupied" actually derives from Greek, but he does not provide us with a cognate Greek word that relates to this concept. Dr. Alexander Kohut (1842–1894) in his *Aruch HaShaleim * presumes that Rabbi Mussafia was referring to the Greek word Î¬σχÎ­ÏŽ (pronounced *áschéó*) which, according to Google Translate, means "I don't care" — possibly what a busy person who is already doing one thing feels about doing something else.
+
+
+
+ However, Kohut rejects this etymology and instead assumes that the Rabbinic Hebrew sense of this root derives from its original Biblical Hebrew meaning. According to this understanding, the SIN of the Biblical Hebrew root AYIN-SIN-KUF morphs into a SAMECH in Rabbinic Hebrew to become AYIN-SAMECH-KUF. The interchangeability of the Biblical SIN with the Rabbinic SAMECH is not at all unusual.
+
+
+
+ Yet, Kohut neglects to explain the semantic shift in how *esek * in the sense of “fighting” becomes *esek * in the sense of “busy dealing/toiling.” To me, however, the connection is patently obvious: Fighting is characterized by the obstinate persistence of the parties involved, who refuse to back down from their respective positions. This sort of perseverance and resolve is also an apt description of those who busy themselves in dealing with various issues and toiling over their efforts for the public good. Indeed, even in rabbinic literature, the term *esek* somewhat retains its Biblical meaning, as it sometimes refers specifically to a matter that is subject to controversy or disagreement (see Rashi to *Shavuot* 31a, *Bava Metzia* 14a).
+
+
+
+ In the Talmud, Rabbi Shimon ben Chalafta was called an *askan* because he did not just accept things that other authorities said verbatim, he would go out and try to see for himself if they can be verified or falsified (see Rashi to *Chullin* 57b). In this way, the term *askan * connotes the extra effort exerted in trying to get things done by oneself. Indeed, the modern-day *askan* is also known for busying himself with extreme efforts in doing whatever needs to be done for the general community — even if that means rolling up his sleeves and getting his hands dirty.
+
+
+
+ Another sort of enterprise which people might busy themselves with is business. As you may have just realized, the English word *business * is actually related to the word *busy. * The same is true in Hebrew, wherein the term *esek* also means “business/commerce” (*Avot* 4:10), as does its Aramaic counterpart *iska* (see Rashi to *Brachot* 56a, *Shabbat* 19b, *Moed Katan* 22a, *Ketubot* 80b, *Kiddushin* 30b). It also can be used in reference to other sorts of transactions, like matchmaking (*Ketubot* 8a, *Bava Metzia* 68b) because these are the sorts of endeavors with which people tend to occupy themselves and need to deal with. In Modern Hebrew, an *osek* refer to an independent/freelance worker, and *issuk* refers more broadly to one’s occupation or job.
+
+
+
+ Going back to Abimelekh’s shepherds, Sforno (to Gen. 26:20) writes that when the Torah says they “had fought” (*hitasku*) with Isaac’s shepherds, it means that they were attempting to “convince” (*hishtadlu*) Isaac’s shepherds to leave the well to them. This brings us to the etymological forebearers of the later term *shtadlan* (sometimes rendered *shadlan*).
+
+
+
+ Targum Onkelos (to Ex. 22:15) translates the Hebrew term *pitui *(“convincing/seducing”) into the Aramaic *shadal*, and Rashi (to Ex. 22:15, *Yoma* 35b, *Kiddushin* 31a) confirms that indeed these Hebrew and Aramaic terms mean the same thing. This Aramaic term also appears in the Talmud in numerous places in the context of “convincing, cajoling, or seducing” others to agree to whatever one wants of them. The term *shadal* seems to be derived from the triliteral root SHIN-DALET-LAMMED, but no words from this root actually appear in the Bible.
+
+
+
+ Nachmanides (to Gen. 32:25, Ex. 22:15) points out that the term *shadal * has various meanings. When Jacob fought with the Angel of Esau, the Bible uses the term *vay’avek *(Gen. 32:25), which Targum Onkelos translates into Aramaic as *ishtadel* — a cognate of *shadal*. In this case, Nachmanides sees the cosmic struggle between Jacob and the angel as an effort by each side to ”convince” the other of their correctness. According to this, *shadal * would refer to engaging in a campaign or effort to sway another’s opinion. In this context, Nachmanides actually uses the word *esek * to help define *shadal.*
+
+
+
+ Yet, Targum (to Ezek. 38:4, Ruth 2:19) uses the term *shadal * to refer to any sort of attempt or effort to get something done, whether or not that endeavor entails trying to influence or otherwise persuade another party. This is the meaning of the more common term *hishtadlut *(“a try/attempt”), a permutation of which appears in the famous passages in *Pirkei Avot*: "In a place where there are no men, try (*hishtadel*) to be a man" (*Avot* 2:5, see also *Avot* 4:18). Other variations of this term appear throughout rabbinic literature, like when the rabbis advise "a person should always try (*yishtadel*) to greet a Jewish king" (*Brachot* 58a).
+
+
+
+ Interestingly, Nachmanides theorizes that the Targumic/Rabbinic term *shadal * is actually related to the Biblical Aramaic term *shadar, * derived from the triliteral root SHIN-DALET-REISH. Unlike *shadal, shadar* actually appears in the Bible at least once: when the Persian king Darius was dismayed by the fact that Daniel had to be sentenced to a lion’s den “…until sunset, he [the king] tried (*mishtadar*) to save him [Daniel]” (Dan. 6:15). This means that Darius tried to do everything he can in order to save Daniel (see *Tosafot* to *Kiddushin* 39b).
+
+
+
+ Nachmanides contends that there is actually another derivative of this Aramaic root in the Bible, *eshtadur *(Ezra 4:15, 4:19), which means “rebellion/contravening.” Although Menachem Ibn Saruk in *Machberet Menachem * sees this particular term as derived from an unrelated quadriliteral root ALEPH-SHIN-DALET-REISH, Nachmanides seems to understand the initial letter ALEPH as a radical that is extraneous to the core root.
+
+
+
+ After explaining that the core meaning of *shadar* is “rebel,” Nachmanides notes that it often happens that the letters LAMMED and REISH are interchangeable (see there for examples), leading to his understanding that *shadal * and *shadar * are actually cognates. Indeed, Nachmanides notes that in some versions of the famous Mishnah cited above “…try to be a man," the word used is actually spelled *hishtadar, * not *hishtadel*. Nachmanides’ etymology of *shadal* that connects it with *shadar * is also accepted by the esteemed etymologist Rabbi Dr. Ernest Klein (1899–1983).
+
+
+
+ A similar explanation of *mishtadar* that connects *shadar* and *shadal* is found in pseudo-Rasag (to Dan. 6:15), who also uses the Hebrew *esek * in sharpening the meaning of the term. The way he puts it, the Persian king actually had to “fight” to convince his subordinates that they should save Daniel. [By the way, in post-Biblical Aramaic *shadar * means “to send,” as discussed in my earlier essay “[Angels and Agents](https://ohr.edu/this_week/whats_in_a_word/7605)” (Dec. 2017).]
+
+
+
+ To me, it seems that these various meanings of *shadal *(“convincing,” “attempting,” “rebelling,” and “fighting”) are all related in the same way that the various meanings of *esek* are related. In other words, the most basic meaning of *shadal * is “attempting.” Often times, truly attempting to do something requires a sort of dedication and perseverance by which one commits oneself to not give up and keep trying. From this meaning came about the meaning of “convincing” because in order to convince somebody, one might have to keep on trying over and over again until one succeeds through various different arguments and tactics. Similarly, “rebelling” and “fighting” typically entail long-term dedications to the divisive endeavor, along with a commitment to not back down from one’s position. [Something would be amiss if I used the word *shadal* as many times as I did, but did not mention the name of the controversial Italian scholar R. Shmuel Dovid Luzzatto (1800–1865), who is sometimes known by his initials as Shadal.]
+
+
+
+ Another related term is the Yiddish expression *macher *(“doer”). Because Yiddish and English are both Germanic languages, it is easy enough for us to realize that the Yiddish verb *mach *(“to do”) is actually a cognate with the English word *make*. Like the *askan * and *shtadlan*, the *macher * is also very busy trying to “get things done” for the betterment of the community.
+
+
+
+ In short, an *askan * is “busy/preoccupied” with representing his community and “dealing” with whatever issues come up, a *shtadlan * intercedes on behalf of the community with the relevant authorities to “convince” them of changing their position (like a lobbyist), and a *macher * is simply a person who goes around “doing” things.

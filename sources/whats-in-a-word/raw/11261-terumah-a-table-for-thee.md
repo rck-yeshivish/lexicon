@@ -1,0 +1,88 @@
+---
+id: 11261
+slug: terumah-a-table-for-thee
+title: "Terumah: A Table for Thee"
+date: 2024-02-17
+hebrew_date: "For the week ending 17 February 2024 / 8 Adar Alef 5784"
+url: https://articles.ohr.edu/articles/terumah-a-table-for-thee
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Terumah: A Table for Thee
+
+One of the most important components of the Tabernacle and the Holy Temple was the golden *shulchan*, upon which the twelve loaves of the weekly shewbread (also spelled showbread) were placed. The word *shulchan * is commonly translated as “table,” and refers to a flat surface upon which food is put down. In the 21 times that the word *shulchan* appears throughout the Pentateuch, it always refers to the ritual *shulchan* found in the Tabernacle. However, in the other 50 times that this word appears in the Bible, it can also refer to a general “table” upon which a king or important person eats and feeds the members of his household. In this essay, we encounter three words in Rabbinic parlance that also mean “table” and are understood to be equivalent to the Biblical Hebrew *shulchan *— *petora, taka, * and *tavla.*
+
+
+
+ Ibn Janach (990–1055) and Radak (1160–1235) trace the word *shulchan * to the triliteral root SHIN-LAMMED-CHET (“to dispatch,” “to send away,” “sword”), but exactly how it connects to the meanings derived from that root are not readily apparent. Menachem Ibn Saruk (920–970) in *Machberet Menachem * sees *shulchan * as derived from its own quadriliteral root SHIN-LAMMED-CHET-NUN. Either way, the Targumim consistently render the Hebrew word *shulchan* into Aramaic as *petora*. Conversely, Rashi (to *Beitzah* 29b) defines the Aramaic word *petorah* (when it appears in the Talmud) as *shulchan*.
+
+
+
+ There is another parallel between *shulchan * and its Aramaic equivalent *petorah: * In Mishnaic Hebrew, the term *shulchani * refers to a “moneychanger” (*Maaser Sheini* 4:2, *Bava Metzia* 2:4, 3:114:6, 9:12, *Shavuot* 7:6, *Meilah* 6:5, *Keilim* 12:5), as those who served in that occupation typically worked from behind a *shulchan *(“table/desk”), upon which they would place the money. Just like *petorah * in Aramaic means the same thing as *shulchan * in Hebrew, so does *petora’ah* in Aramaic mean the same thing as *shulchani * in Hebrew — “moneychanger” (see Rashi to *Chullin* 54b).
+
+
+
+ When Balak sought out the services of the evil sorcerer Balaam to put a hex on the Jews, the Bible relates that Balak sent messengers “*petorah*” (Num. 22:5), which literally means “to Pethor.” In line with the above, the Midrash (*Bamidbar Rabbah* §20:7, *Tanchuma Balak* §4) and Rashi (to Num. 22:5) explain that when the Bible associated Balaam with *petorah*, this means he functioned, after a fashion, like a moneychanger, as all the different kings ran over to Balaam to “do business” with him, just like those involved in commerce might chase after a moneychanger to “do business” with him. The *Matnot Kehunah* explains this connection by noting (as we already explained) that *petora * in Aramaic means “table,” and the Hebrew term for moneychanger in the Mishnah is *shulchani*, which derives from the Hebrew word *shulchan*.
+
+
+
+ Rabbi Avraham Menachem Rappaport (1520–1596) in *Minchah Belulah *(to Num. 22:5) offers two more exegetical ways of interpreting the word *petorah * used in connection with Balaam: Firstly, he connects *petorah * to the word *pitaron *(“interpretation/explanation”) as a reference to Balaam’s occupation as a “dream interpreter.” Secondly, he sees the word *petorah* as related to the Aramaic word *petora* for “table.” The way he explains it, Balaam’s pagan practices included idolatrous rites like “setting a table [*shulchan*] for Gad” (Isa. 7:5). Just as in the Holy Temple, there was a ritual *shulchan* set up for the holy worship of Hashem, so did idolators also set up a ritual table for their unholy worship of their deities. This is because the acts of the holy and unholy often parallel each other in mirror images.
+
+
+
+ Either way, it is interesting that the Talmud (*Shabbat* 36a) states that the word *patora * and its diminutive form *patorta * respectively once referred to a “big table” and a “small table,” but that after the destruction of the Holy Temple in Jerusalem, the meanings of those two words switched.
+
+
+
+ Our second word for “table” in rabbinic literature is *taka*. Indeed, Rashi (to *Brachot* 46b, *Gittin* 67b, *Kiddushin* 81a) defines the Aramaic word *taka * as *shulchan*. This word appears many times in the Talmud, but I will only cite a few colorful examples: The Talmud states (*Brachot* 42a) that once the table (*taka*) has been removed at the end of a meal, one has essentially declared intent to recite the Grace after Meals, and is therefore no longer allowed to eat until after doing so. Yet, the Talmud records a story wherein Rava once ate at the exilarch’s house and even after Rava’s table (*taka*) had been removed, Rava continued to eat food sent to him by the exilarch. When questioned about this behavior, Rava remarked that even though his table had been removed, he did not yet intend to recite the Grace after Meals because he relied on the exilarch's table (*taka*), which had not yet been removed.
+
+
+
+ Similarly, the Talmud (*Yevamot* 63b) cites two descriptions of how the archetypical “bad wife” treats her husband, with Abaye saying “she adorns for him a table [*taka*], and [until mealtime] she adorns for him her mouth [i.e., she curses him out]” and Rava saying “she adorns for him a table [*taka*], and she turns her back on him [i.e., refuses to eat with him].” In all of these Talmudic passages, the word used for “table” is *taka*. [See *Nedarim* 20a-20b, in which the term *shulchan * is used euphemistically to refer to marital intimacy.]
+
+
+
+ Although the Aramaic word *taka * does not seem to appear anywhere in the Bible, there is one particular verse in which some commentators explain a word that is similar to *taka * as referring to our word. When describing theJewish People’s relationship with Hashem, Moses described their servility by stating, “…and they are *tuku * to Your feet.” The meaning of the word *tuku * in this passage is obscure and various explanations have been offered throughout the generations. In particular, Rabbi Shmuel David Luzzatto (1800–1865) and Rabbi Ezra Reuven Dangoor (1848–1930) write that the word *tuku * is related to the Aramaic *taka, * explaining that *tuku* refers to the act of "sitting a table." The way they explain it, Moses' description refers to the Jews as though they sit at Hashem's "table" to accept His directives and receive His blessings, like a guest who sits at their host’s table.
+
+
+
+ Now that we have established that *petora * and *taka * both mean “table,” we can start discussing the interplay between these two words and whether or not they are truly synonymous.
+
+
+
+ The Talmud (*Pesachim* 115b) relates that one Passover Night, Abaye was hosted at Rabbah’s house, and upon the onset of the *Maggid* portion of the Passover Seder, the “table” was lifted up in order to be removed, as though the meal had already been finished. Abaye was surprised by this irregularity, which prompted him to ask why the “table” was removed if the meal had not yet even been served. His teacher Rabbah responded that Abaye’s question exempted the sages from asking the Four Questions.
+
+
+
+ In our printed versions of the Talmud, the word used for “table” in this anecdote is the Aramaic word *taka.* However, when Rabbi Yitzchak Alfasi (1013–1103) cites this story (*Pesachim* 25b in the Alfasi pagination), his version of the story uses the word *petora * in both instances. A third version is found in Rabbi David Abudarham’s commentary to the *Haggadah Shel Pesach*, according to which the word used by the narrator for the “table” that was removed is *petora*, but when Abaye asked about this occurrence, the word for “table” used in his dialogue is *taka*. All three of these variant readings of the Babylonian Talmud are also attested to in manuscripts of the Talmud available on the *Hachi Garsinan* website. For our purposes, it seems that the interchangeability of these two Aramaic terms points to the notion that they are indeed synonymous.
+
+
+
+ The famous Kabbalist Rabbi Yitzchak Luria (1534–1572), often known as the Arizal, wrote a series of liturgical poems in Aramaic. Each poem begins with the words *Atkinu Seudata * and is supposed to be recited at a different meal. In referring to the “Shabbos Table” in these Kabbalistically-infused poems, Arizal uses two different Aramaic words for “table.” In his poem for the Friday Night meal, he refers to a *petora chadatah *(“new table”) and in his poem for the Shabbat Morning meal, he refers to *l’ater petora *(“to adorn the table”). Yet, in his poem for the Third Meal on Shabbat, Arizal refers to “this table” (*hai taka*), replacing the Aramaic word *petora * with *taka*. But do *petora * and *taka * actually mean the same thing?
+
+
+
+ Rabbi Mordechai Dov Yudelovitch of Lida (d. 1951) — whose surname is also spelled Judilovitz — would say no. He writes that *petora * refers to a “large table,” while *taka* refers to a “small, private table” upon which people would customarily eat on festive occasions or in the presence of esteemed guests. In other words, *taka * refers to a portable personal tray-table for one, while *petora * refers to a longer table of the sort one might have in one’s dining room. This approach is endorsed by Rabbi Shaul Goldman, who independently arrived at the same conclusion. Thus, despite Rashi defining both terms with the Hebrew *shulchan*, these two Aramaic terms do not mean exactly the same thing. Indeed, if one looks back at all the examples of *taka * in the Talmud cited above, one will see that they refer to private tables upon which single individuals would eat, as opposed to the more communal *petora.*
+
+
+
+ It should be noted that from an etymological perspective, this is another difference between *petora * and *taka. * Dr. Michael Sokoloff writes in his dictionary of Jewish-Palestinian Aramaic in the Byzantine Period that the Aramaic word *petora* is a cognate, or even derivative, of the Akkadian word *passuru* (which is the plural form of the Akkadian word *passurum*), which is, in turn, borrowed from the Sumerian word *bansur* ("table"). On the other hand, in his dictionary of Jewish-Babylonian Aramaic in the Talmudic and Geonic Periods, Dr. Sokoloff notes that the etymology of the word *taka* is unknown.
+
+
+
+ Our third word for “table” in Rabbinic parlance is *tavla*. This word appears multiple times in the Mishnah (*Eruvin* 5:1, *Yoma* 3:10, *Keilim* 2:3, 16:8, 25:1, 27:1, *Mikvaot* 4:2), as well as in the Talmud (for example, see *Pesachim* 57a). Rabbi Eliyahu HaBachur (1469–1549) in *Sefer Tishbi* notes that *tavla * is the Rabbinic Hebrew equivalent to the Biblical Hebrew word *shulchan. * In his entry on this word, HaBachur connects *tavla* to the Latin *tabula*, which is the forebearer of the English words *table, tablet *(“small slab”), *tabulate*, *tabloid, * and more.
+
+
+
+ Nonetheless, Rabbi Shimshon of Sens (*Rash M’Shantz* to *Ohalot *15:2) writes that a *shulchan * actually differs from a *tavla, * because a *shulchan * is a flat surface that is attached to four legs that hold it up, while a *tavla * simply refers to a table top that is not attached to four legs (so it can even be simply a flat board or plank serving as an even surface).
+
+
+
+ Interestingly, Rabbeinu Manoach (to Maimonides’ Laws of *Chametz *& *Matzah* 6:7) writes that the word *tevel* (in reference to food from which tithes had not yet been taken off) is related to the word *tavla*, in the sense that just as a person cannot eat a wooden or metal table — but rather eats food *from * such a table — so too may a person not eat *tevel*, but rather must separate tithes and may only eat from a subset of that foodstuff.
+
+
+
+ Alternatively, he explains *tevel * as a portmanteau of *tav* ("good") and *lo* ("not"). [This explanation is also offered by *Sefer Ha'Aruch*, Bartenura (to *Brachot* 7:1), Rabbi Chaim Vital in *Eitz Chaim* (*Shaar* #50 ch. 3), and *Kli Yakar* (to Jud. 11:3)]. Additionally, Rabbi Manoach suggests that *tevel * is related to the Arabic word *mitabel* (food that has something mixed into it), which — although he does not note this — is a cognate of the Hebrew word *tavlin, *“spice” (see also *Ha’Ktav V’Ha’Kabbalah* to Ex. 22:28).
+
+
+
+ One last interesting point is that we find names of sages in the Talmud related to the word *petora *(for example, Ben Petora, also spelled Betorah) and *tavla *(for example, Rav Tavla appears in *Bava Batra* 111a, *Chullin* 132b), but not *taka. * Although, I should also point out that the Yiddish names Tevle/Tevele are unrelated to the word *tavla*. Instead, Alexandre Beider explains that they are permutations of the names David (with the interchangeability of the t-sound and d-sound) and/or Tuvia, with the additional diminutive *-le* appended.

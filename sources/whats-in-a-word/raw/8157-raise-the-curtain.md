@@ -1,0 +1,64 @@
+---
+id: 8157
+slug: raise-the-curtain
+title: "Raise the Curtain"
+date: 2019-03-02
+hebrew_date: "For the week ending 2 March 2019 / 25 Adar I 5779"
+url: https://articles.ohr.edu/articles/raise-the-curtain
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Raise the Curtain
+
+We call the special ornamental curtain which hangs in front of the Ark in a synagogue a *parochet*. That word comes from the Biblical passages concerning the Tabernacle, in which the word *parochet * refers to a “curtain” that separates one area from another. However, another word is also used in that very same context: *masach*. In this essay, we will sharpen the differences between the meanings of these two words, and we will also explain the etymology of the words *vilon * and *pargod* that appear in the Talmud and other rabbinic sources as “curtain”.
+
+
+
+ Rashi (to Ex. 26:31) explains that *parochet * refers to a “curtain” that separates between a king and his people. In the context of the Tabernacle the *parochet * is used to separate between the Sanctuary and the Holy of Holies (see Ex. 26:31-33).
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau (1740-1814) explains that the word *parochet * is related to the root *PEH-REISH-KAF*. That root refers to a form of “breaking” whose purpose is to begin something new. For example, the Jews’ work in Egypt is described as *avodat perech *(Ex. 1:13), because the Egyptians would constantly interrupt the Jews in middle of their work and make them work on something else. Constantly stopping the Jews from finishing their project was a form of torture which the Egyptians inflicted upon them. In Talmudic parlance a *pircha * is the type of question which interrupts the intended flow of a discussion and forces the topic into a different direction.
+
+
+
+ Similarly, explains Rabbi Pappenheim, the word *parochet * serves as a partition to “break off” one area and mark off the beginning of a new area. This is why in the Tabernacle a *parochet * is used to demarcate the Holy of Holies and separate it from the Sanctuary. The *parochet * essentially screams: “Up until here is the Sanctuary; from here and onwards is something new and holier — the Holy of Holies.” Based on this, Rabbi Pappenheim argues that the word *parochet * does not inherently refer to a “curtain,” but rather it refers to any sort of barrier or divider used to establish the borders between different domains.
+
+
+
+
+
+*Shoresh Yesha * explains that the word *parochet* denotes “glory”. He justifies this meaning by offering two possible etymologies for the word *parochet*. Firstly, he suggests that it is related to the word *pe’er* (“glory”). Secondly, he suggests that the letter *PEH* at the beginning of the word is interchangeable with the letter *BET*, such that scrambling the consonants in the word *parochet * yields the word *rechev *(“vehicle”). This means that the *parochet * is the feature of G-d’s “glory,” just as His Chariot (*merkavah*) and the cherubs(*kruvim*) are.
+
+
+
+ In contrast to all of this, the term *masach * has a completely different connotation. Rashi (to Ex. 26:36) explains that a *masach * is a curtain which covers the entrance to a building or room (see also Rashi to Ex. 35:12).
+
+
+
+ Rabbi Pappenheim explains that the word *masach * is derived from the root *SAMECH-KAF*, which refers to “covering”. Other cognates of that root include *sukkah *(a “hut” covered with *s’chach*) or the Modern Hebrew word *maseicha* (“mask” which covers one’s face). In a similar fashion the word *masach * refers to a screen or curtain that protects something from the eyes of onlookers. In fact, *masach* in Modern Hebrew refers to any sort of “screen” (e.g. a computer monitor). Rabbi Pappenheim further explains that *masach* refers to any thick cloth used for protective purposes, whether it is placed on top of something as a cover (like in II Sam. 17:19 and Ps. 105:39), or drapes down from its side like a curtain.
+
+
+
+ Based on this, Rabbi Pappenheim notes that the “curtain” that marks off the Holy of Holies in the Tabernacle is called a *parochet hamasach *(Ex. 35:12) because it has both the qualities of a *parochet *(for it delineates between the Sanctuary and the Holy of Holies) and a *masach *(because it is a thick fabric which protects the Holy of Holies by screening out the dust from the *kohanim* working in the Sanctuary).
+
+
+
+
+
+*Vilon *— another word for “curtain” — appears four times in the Mishna (*Keilim* 20:6, 24:13, 27:9, and *Negaim* 11:11). It is also the name of the first of the Seven Heavens (*Chagiga *12b) because it serves as a “curtain” that covers the entrance to the Heavens. However, the origins of this word are neither Hebrew nor Aramaic — it’s Greek. The Mishnaic word *vilon * is a loanword from the Greek *velum*, which is related to the English word *veil*. The word *velum * survives in English scientific terminology, where it refers to a thin veil-like membrane. The English words *reveal * and *unveil * literally mean to “undo a veiling”.
+
+
+
+ In Rabbinic Hebrew, the word *pargod * is used instead of *parochet*. Rabbi Nosson of Rome (1035-1106) writes in *Sefer HaAruch * that a *pargod * is the word for a “curtain” that separates a bridegroom from everyone else. This, of course, mirrors the way that a *parochet * refers to the “curtain” that separates a king from the masses, or the Holy of Holies from the Sanctuary. Indeed, when the Mishna (*Keilim* 29:1) uses the word *pargod,* Rav Hai Gaon’s commentary there explains that *pargod * means *parochet*.
+
+
+
+ Like the word *vilon, pargod * also has some Heavenly connotations. The Talmud (*Chagiga* 15a) relates that the apostate Elisha ben Avuyah claimed that he heard from beyond the *pargod * a call for everyone else to repent except for him. Similarly, in the Yom Kippur Mussaf liturgy a poem is read that describes Rabbi Yishmael ben Elisha ascending to the Heavens and reporting that he heard “from beyond the *pargod*” about the Divine decree concerning the Ten Martyrs. In similar contexts, Rashi (to *Bava Metzia* 59a) defines *pargod * as the separation between G-d and His angels, while elsewhere, Rashi (to *Berachot* 18b) explains *pargod * as the separation between G-d and His Holy Presence.
+
+
+
+ The esteemed etymologist Ernest Klein (no relation) writes that the word *pargod * is derived from the Greek *paragaudos*/*paragaudion* and the Latin *paragauda*, which refer to a “laced garment” or “tunic.” In this way, the lattice design of a curtain somewhat resembles the make of the garment in question. Others explain that *pargod * comes from the Latin word *pergere *(“come” or “go forward”), which in turn might ultimately be derived from the Akkadian *paraku* (“to go across”). This refers to the curtain’s position at the entrance to a building or room, and how one must pass through the curtain to enter. Another derivative of *pergere * is the Latin word *pergola — * from which the English word pergolais derived — which refers to a “roof” that “comes out” or “protrudes” from elsewhere.
+
+
+
+ · *For questions, comments, or to propose ideas for a future article, please contact the author at [rcklein@ohr.edu](mailto:rcklein@ohr.edu)*

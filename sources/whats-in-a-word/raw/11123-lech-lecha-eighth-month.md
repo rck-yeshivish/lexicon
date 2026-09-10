@@ -1,0 +1,106 @@
+---
+id: 11123
+slug: lech-lecha-eighth-month
+title: "Lech Lecha: Eighth Month"
+date: 2023-10-28
+hebrew_date: "For the week ending 28 October 2023 / 13 Cheshvan 5784"
+url: https://articles.ohr.edu/articles/lech-lecha-eighth-month
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Lech Lecha: Eighth Month
+
+Two of the most significant events in World History were said to have happened in the month of Marcheshvan: Firstly, when Hashem brought a *mabul *(“flood”) to wipe out humanity in the time of Noah, this calamity began in the eighth month from Nissan — what we call Marcheshvan (see *Rosh Hashanah* 11b, Rashi to Gen. 7:11–12; 8:4–5, and Targum pseudo-Jonathan to Gen. 7:11), sometimes abbreviated as just Cheshvan. Secondly, the Bible reports that the construction of the first Holy Temple in Jerusalem was completed in the eighth month, which the Bible explicitly calls the month of Bul (I Kgs. 6:38). Thus, we have two names for the same month, Marcheshvan and Bul. Elsewhere in the Bible, this month is referred to generically as *chodesh ha’shemini *(I Kgs. 12:32-33, Zech. 1:1), which literally means “the eighth month.” In this essay, we explore the possible origins and meaning of these different terms for the same month.
+
+
+
+ In most of the Bible, the months are named ordinally — that is, the “first month,” the “second month,” the “third month,” etc… with the first month starting from the spring month that we now call Nissan. The Jerusalemic Talmud (*Rosh HaShanah* 1:2) explains that the names of the months in the Jewish Calendar as we know it are of Babylonian origin, but that before the Jews were exiled, a different nomenclature was in use (see also Nachmanides to Ex. 12:2). One example of this is the aforementioned verse that refers to the completion of the Solomonic Temple in the month of Bul. It seems that the original names of the months in the Jewish Calendar mirrored the names of the months that the Canaanites used. Indeed, in the inscription found on the sarcophagus of the Tyrian (Canaanite) king Ashmunezer II, the king refers to the month Bul.
+
+
+
+ Nonetheless, the Jerusalemic Talmud (there) expounds on the name Bul to explain that it refers to the month when the leaves are falling (*novel*), the earth is made into wet clumps (*bul*) because of the onset of rainfall, and one must mix (*bolel*) feed for animals indoors because the grass has already disappeared from the field (see also Targum Yonatan to I Kgs. 6:38).
+
+
+
+ Similarly, Rabbi Yeshayah of Trani (to I Kgs. 6:38) likewise connects the month-name Bul to the Hebrew word *yevul *(“produce”), alluding to the idea that in the month of Bul, once has already gathered all of one’s produce indoors. Menachem Ibn Saruk (in *Machberet Menachem*) likewise traces Bul to the biliteral root BET-LAMMED, explicitly connecting it to *yevul.* Rabbi Shlomo Pappenheim (1740–1814) elaborates on that biliteral root, offering a whole slew of derivatives and declensions. When it comes to the month-name Bul in particular, he connects it to the term *bilui* (“wearing out”) because the eighth month always occurs in the autumn/fall, when the various plants and leaves begin to get “worn out” and withered. [For a list of all the different words that Rabbi Pappenheim traces to this biliteral root, see “[Just Say No](https://ohr.edu/this_week/whats_in_a_word/11209)” (May 2023).]
+
+
+
+ The prophet Isaiah criticizes those idolaters who bow to the *bul* of a tree (Isa. 44:19), which the Radak (there) explains as referring to a tree’s “branch.” Based on this, Rabbi Yosef Teomim-Frankel (1727–1792), author of the *Pri Megadim*, writes that the eighth month is called Bul because it “branches off” from the previous month of Tishrei, which is the first month of the Jewish calendar (and is called *rosh Hashanah* in ezek. 40:1).
+
+
+
+ Rabbi Aharon Marcus (1843–1916) takes a different approach, explaining the “*bul* of a tree” as referring to an extraordinarily thick tree. In line with this, he argues that *bul * in general refers to “extraordinary increases,” thus explaining *mabul* (“flood”) as an excessive increase in water. Consequently, he explains the month-name Bul as referring to the surplus in the amount of grain and produce in one's house and storage facilities after the harvest season. Dr. Alexander Kohut (1842–1894) in *Aruch HaShalem* offers a similar understanding.
+
+
+
+ Speaking of *mabul,*
+
+*Midrash Tanchuma* (*Noach* §11) connects the name Bul to the word *mabul*, by explaining that until King Solomon built the Temple, every year rain that had the potential to turn into a flood would pour on the world for forty days. However, once Solomon’s Temple was built, that forty-day rain was eliminated, as though the letter MEM were removed from the word *mabul * to become Bul. While Rabbi Jonah Ibn Janach (in his *Sefer HaShorashim*) relates the month-name Bul to *balul* (“mixing”) because rainfall is a liquid into which things are mixed, Radak (to I kgs. 6:38 and in his *Sefer HaShorashim*) explains Bul as related to *mabul* as that month ushers in the rainy season. [In Modern Hebrew, *bul * means “exactly/precisely,” but that seems to be a borrowing from the English phrase “bull’s eye.” Similarly, in Modern Hebrew, *bul/bool* also means “stamp,” but that usage is borrowed from Arabic.]
+
+
+
+ Rashi (to Gen. 6:17) defines *mabul* as referring to a flood that “destroys/ruins/wastes” everything (*bilui*), confuses everything (*bilbul*), and transports (*movil*) things from up to down. He clearly saw *mabul * as a derivative of BET-LAMMED as well. (The English word *mobile* is not related to *movil*, rather it derives from the Latin *movere*, which is also the etymon of the English *move*). Based on this, Rabbi Moshe Shapiro (1935–2017) explains that the very same waters that fall from the Heavens can serve as either a destructive *mabul* or as a constructive *geshem*. The difference lies in whether people deserve Hashem's rain to function as an influx of blessing or the opposite (see Rashi to Gen. 7:12).
+
+
+
+ Rabbi Shapiro further explains the term *geshem* as an expression of "connection," specifically as regards the connection between the Heavens and the Earth — both in a superficial way (because rain falls from the Heavens to the Earth) and in a metaphysical way (because the Heavens represent *tzurah*, while the earth represents the concept of *chomer*, while *geshem* refers to a physical item that has both *chomer* and *tzurah* married together). [For more on *geshem * as the strong force that holds together the pieces of a physical object, see “[Coming Close](https://ohr.edu/this_week/whats_in_a_word/9125)” (Dec. 2020).]
+
+
+
+ Another entity that represents the connexus between Heaven and Earth is the Holy Temple in Jerusalem, which joins the physical with the spiritual. Accordingly, when Jeroboam (the first king of the anti-Davidic Kingdom of Israel) wanted to forbid his constituents from pilgrimaging to Jerusalem to visit the Holy Temple, he erected Golden Calves in Beth El and Dan, and created a new holiday in the eighth month that mimicked the holiday of Sukkot in Jerusalem (celebrated earlier in the seventh month). The phraseology that the Bible (I Kgs. 12:33) uses to say that Jeroboam made up this holiday was that he fabricated it *m'libo* ("from his heart"). Rabbi Moshe Shapiro notes that *m’libo* is a perfect anagram of *mabul*, thus alluding to the fact that Jeroboam's evil policy turned *geshem* into *mabul*, as it defaced the *tuzrah* and led down a slippery slope that eventually caused the exile of the Ten Tribes.
+
+
+
+ Interestingly, the Talmud asserts (*Kiddushin* 30a) that the middle letter of the Pentateuch is the letter VAV in the word *gachon* (Lev. 11:42). Based on this, Rabbi Yosef Chaim of Baghdad (1832–1909) that the first letter of the Torah (BET in Gen. 1:1), middle letter (VAV in *gachon*), and last letter (LAMEMD in Deut. 34:12) together spell out the name Bul. Rabbi Moshe Shapiro also cites this homily and compares this to the notion that *emet* is likewise comprised of the first (ALEPH), middle (MEM), and last (TAV) letters of the Hebrew Alphabet.
+
+
+
+ Turning to the month-name Marcheshvan, it should be noted from the onset that unlike other names for months in use nowadays, Marcheshvan never appears in the Bible — but it does appear in the Mishnah (*Taanit* 1:3–4). As mentioned above, the Jeruslaemic Talmud asserts that the month-names currently in use came from Babylonia. Indeed, archeologists have found in Old Assyrian and Babylonian inscriptions that the eighth month is named Arahsamna (spelled *waraá¸«samna* in Akkadian). Scholars have parsed this word as a portmanteau of *arah* (cognate with the Hebrew *yerach*, “month”) and *samna* (cognate with the Hebrew *shemonah, *“eight”), such that Arahsamna essentially means “eighth month.” This seems to be the most widely-accepted etymology for Marcheshvan.
+
+
+
+ Indeed, Rabbi Dr. Ari Zivotofsky even notes that Yemenite Jews are accustomed to pronouncing the name of this month as Marach-Shwan (as opposed to Mar-Cheshvan), which supports this explanation. Rabbi Dr. Ernest Klein (1899–1983) in his etymological dictionary of Hebrew also follows this approach, and explains that the MEM in the Babylonian form of the name morphed into a VAV (much like *argaman* in Hebrew becomes *argavan * in Aramaic).
+
+
+
+ However, the scholar Avraham Epstein (1841–1918) questions this theory in light of the fact that none of the other months in the Babylonian calendar are named ordinally. Meaning, all the other months in the Babylonian calender are named after a pagan deity, not after the ordinal number in which they are ordered. Instead, Epstein suggests that Arahsamna (and thus Marcheshvan) was named after the Canaanite moon-god *Yarikh* (cognate with the Hebrew *yerach*)and the Tyrian deity Eshmun (who may have been named after his being 8[th] in birth order, depending on the myth). Alternatively, Rabbi Shaul Goldman suggests that perhaps the name Arahsamna/Marcheshvan might originally have had to do with the olive harvest and pressing for oil, in which case it would derive from the Hebrew word *shemen *(“oil”).
+
+
+
+ In Jewish Numerology, the number seven represents a complete unit, such that the number eight represent the new beginning after a complete cycle, starting again from number one. In the Maharal’s theosophical system, the number seven represents nature, while the number eight represents that which lies beyond nature. Accordingly, the number *shemonah *(“eight”) relates to the concept of *shemen *(“oil”), because just like oil rises about water (the most instrumental element of life in nature), so does the super-natural rise above the natural. In light of this, whether Marcheshvan is related to *shemonah * or *shemen*, those two concepts are interrelated.
+
+
+
+ Before the discovery of the aforementioned Old Babylonian inscriptions, there was much speculation in traditional sources over the meaning of the month-name Marcheshvan, with some sages even understanding the *mar- * element of the month-name to be separate from the rest of the name. For example, Rabbi Yechiel Michel Epstein (1829-1907) in *Aruch HaShulchan* speculates that the *mar* element of Marcheshvan means "switch" (like *temurah*) and refers to Jeroboam switching out the seventh month (Tishrei) for the eighth month in establishing his Sukkot-like holiday. [For more on the word *mar* in the sense of “switching/bitter,” see “[The Old Switcheroo](https://ohr.edu/this_week/whats_in_a_word/8847)” (May 2020).]
+
+
+
+ According to this, *mar* serves as a double entendre because it also refers to the "bitterness/suffering" (*mar*) that Jeroboam's action caused for the Jewish people down the line (similar to Rabbi Shapiro’s explanation of Bul). However, Rabbi Epstein ultimately concludes that we cannot expound on the month's names in this way, especially if it can create halachic ramifications (in his case, to allow writing a *gett* with the name *Mar Cheshvan* spelled as two words). [For a discussion of whether a *gett* that uses the term Cheshvan instead of Marcheshvan is valid, see *Pitchei Teshuvah* (*Even HaEzer* §126:12).]
+
+
+
+ Similarly, Rabbi Chizkiyahu Medini of Hebron (1834–1904) writes that in some communities there is a custom not to make weddings during the month of Marcheshvan because the *mar* element at the beginning of the month's name means "bitter," in Hebrew and therefore the very name of the month serves as a bad omen.
+
+
+
+ However, other reject this homily, arguing (per *Pri Chadash* to *Even HaEzer* §126) that the *mar* element actually refers to "drops" of rain (see Isa. 40:15), or simply refers to the "bitterness" of no holiday falling out during that month, or the “bitterness” over the death of the matriarchs (Sarah and/or Rachel). This would mean that there is no reason to refrain making weddings during Marcheshvan. Moreover, based on the above, Rabbi Betzalel Stern (1911–1988) concludes that the *mar* element of the name Marcheshvan is not even Hebrew, and should not be taken as an omen for anything. That said, Rabbi Chaim Dov Lieman of Kiryat Sefer in *Otzar Peninim* (§28) defends the practice of refraining from making weddings during Marcheshvan as reflecting the view of Rashi (to *Bereishit Rabbah* §48:9) who understood that the names of the month were not taken verbatim from the Babylonian calendar, but were revealed through prophecy, which implies that it is entirely appropriate to homiletically expound the *mar* element of Marcheshvan as portending a bad omen.
+
+
+
+ Rabbi Shmuel ben David Halevi (1625-1681) in *Nachalat Shivah * writes that *mar* of Marcheshvan is an expression of importance (like *mar * as an honorific, found in the Talmudic Mar Zutra or *Amar Mar*, similar to its Modern Hebrew usage of “mister”), because the date of the beginning of Marcheshvan is important for calculating the entire year’s calendar. Nonetheless, he ultimately rejects this approach, concluding that Marcheshvan is a proper name for the month and the *mar* element should not be interpreted separately.
+
+
+
+ Looking generally at the name Marcheshvan, Rabbi Zecharia HaRofeh (a 15[th] century Yemenite sage) in *Midrash HaChefetz* (to Ex. 12:2) writes that this month-name is related to the Aramaic word *itrachish* ("happening/occurrence"), as one of the most monumental occurrences in human history happened in that month — the completion of the construction of the First Temple in Jerusalem. [For a discussion of how the Aramaic *itrachish* might be related to the Hebrew *yerach *(“month/moon”) and *oraiach *(“path/guest”), see “[Old Month versus New Month](https://ohr.edu/this_week/whats_in_a_word/7791)” (March 2018).]
+
+
+
+ An anonymous sage who studied under Rabbi Meir of Rothenberg (1215–1293) wrote a work published by Rabbi Y. Y. Stahl as *Sefer HaKushyot*. In that work, he writes that the month name Marcheshvan derives from the Hebrew root REISH-CHET-SHIN (*rochesh*, “aroused/moved/bubbling/boiling/sizzling/speaking/murmuring”), which somehow relates to that month ushering in the completion of First Temple. Alternatively, he explains the root of Marcheshvan as SHIN-VAV-HEY ("equal"), explaining it to somehow be "equalized in rains.” Interestingly, the Christian Hebraist and philologist Johannes Buxtorf (1564–1629) also presumes that Marcheshvan derives from REISH-CHET-SHIN, citing the word *marcheshet* ("deep pan," in which fried things sizzle) in Lev. 2:7 as referring to something liquidy, and connects this to Marcheshvan being related to the onset of the rainy season.
+
+
+
+ Rabbi Samson Raphael Hirsch (1808–1880) drops the *mar* element of the month’s name to see Cheshvan as related to the root CHET-SHIN-(HEY), which means “quiet.” The way he explains it, it alludes to the "quiet" after the busy month of Tishrei that preceded it, which gives a person time to privately introspect and think about all that occurred during the holiday season before. On the other hand, Rabbi Yisrael Friedman of Ruzhin (1796-1850) explained that Marcheshvan is so-called because our lips are still *rochesh * from the special prayers of the High Holidays of the previous month.
+
+
+
+ The Hebrew Wikipedia reports that several Medieval Ashkenazi manuscripts refer to the month as simply "Shvan," but at press time I was not able to find out more about this.

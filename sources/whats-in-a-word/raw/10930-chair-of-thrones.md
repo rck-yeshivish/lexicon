@@ -1,0 +1,72 @@
+---
+id: 10930
+slug: chair-of-thrones
+title: "Chair of Thrones"
+date: 2023-04-22
+hebrew_date: "For the week ending 22 April 2023 / 1 Iyar 5783"
+url: https://articles.ohr.edu/articles/chair-of-thrones
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Chair of Thrones
+
+When Rosh Chodesh falls out on Shabbat, a special *Haftarah * from the Book of Isaiah is read that is unrelated to the weekly Parashah, but rather focuses on themes related to Rosh Chodesh. It begins with a statement that Hashem is greater and more vast than any Temple that might contain Him, and ends with a prophecy that in the future all people will come to bow before Him every Shabbat and Rosh Chodesh. The opening words to the *Haftarah* read: "So says Hashem: 'The Heavens are My throne [*kisse*], and the Earth is My footstool. Which is the house that has been built for Me? And which is the place of My resting?’" (Isa. 66:1). In this essay, we will discuss three closely-related words for “chair/throne” in the Bible — *kisse, kisseh, keis, * and *kursa*.
+
+
+
+ The word *kisse* appears 135 times in the Bible, and is always spelled with an ALEPH at the end. Although the classical lexicographers trace the word to the triliteral root KAF-SAMECH-ALEPH, Rabbi Shlomo Pappenheim actually traces it to the biliteral root KAF-SAMECH (“covering”).
+
+
+
+ He sees a whole slew of words as deriving from that root, including: *kisui* (“a covering”), *michaseh* (“act of covering”), *kesut* (“clothing,” i.e., garments that *cover* one’s skin), *kos* (a type of “cup” that has a cover), *kis* (“pocket,” i.e., a covered container), *meches *(type of “tax” that contributes to the king’s coffers, as though placed in his *kis*), *nechasim* (“property/profit”), and *michsah* (a central “pot of funds,” for example a fund into which all members of a Paschal Offering pool their monies to cover the costs, see Ex. 12:4). In line with those themes, Rabbi Pappenheim postulates that the term *kisse* in the Bible primarily refers to a special “chair” or “throne” that has a sort of *cover* or *overhead canopy* — thus demonstrating the honor or glory of whoever sits upon it (especially a king). [For a discussion of how *nechasim * relates to these ideas, see my essay “[Prime Property](https://ohr.edu/this_week/whats_in_a_word/10935)” (Nov. 2022).]
+
+
+
+ In explaining the esoteric concept of Hashem’s *Kisse HaKavod* (“Throne of Glory”), Rabbi Avraham Abulafia (1240–1291) notes that the connection between *kisse * and “covering” does not invoke the idea of something covered/enveloped (*mukaf*), but rather alludes to that which covers/envelopes others (*makif*). In this sense, Hashem’s Providence is called His *kisse * because it is all-encompassing, as it envelops and covers the entirety of creation.
+
+
+
+ Rabbi Samson Raphael Hirsch (to Gen. 41:40) sees the word *kisse * as related to its phonetic counterparts *kisui* (“covered”), *katzeh* (“edge”) and *miktzoa *(“corner”), via the interchangeability of KAF/KUF, SAMECH/TZADI, and ALEPH/HEY/AYIN. He explains that just as the latter words denote “separation” and “cutting off” — with *kisui* even referring to something totally withdrawn from sight — so does the word *kisse * as "throne" denote raising one person above the rest and rendering him unreachable to others. Rabbi David Chaim Chelouche (1920–2016) similarly explains that *kisse * primarily refers to a king’s throne, which is the symbol of the king’s exceptionalism that sets him apart from everyone else. This exceptionalism is also expressed in the way that the king is not accessible or visible to the public, as though he were *covered* and *hidden away*.
+
+
+
+ The word *kisseh * is pronounced the same as *kisse, * but is spelled with an ultimate HEY instead of an ALEPH. This word only three times in the Bible (twice in I Kgs. 10:19 when discussing King Solomon's mythical throne and once in Job 26:9), and the Radak in *Sefer HaShorashim * sees it as the same word as *kisse, * thereby tracing it to the triliteral root to KAF-SAMECH-ALEPH (although he does not explain why it is actually spelled with a HEY).
+
+
+
+ The Psalmist refers to the holiday of Rosh Hashanah as the *keseh *(literally, “hidden/covered”) holiday (Ps. 81:4). Rabbi Samson Raphael Hirsch (there) explains that on a plain level this refers to the fact that on Rosh Hashanah (which falls out in the beginning on the lunar month) the moon is totally hidden, as the new moon is not yet large enough to be seen. However, Rabbi Hirsch adds that on a deeper level, this appellation refers to the fact that on Rosh Hashanah, Hashem figuratively sits on His *kisse *(“throne”) like a king, as He judges the entirety of creation. Rabbi Hirsch adduces this explanation from the fact that the word *kisse *(with an ALEPH) is sometimes spelled *kisseh *(with a HEY) making it orthographically identical to *keseh*.
+
+
+
+ The word *keis* (without ALEPH) appears only once in the entire Bible, when Hashem undertook to wage war against Amalek for all generations (Ex. 17:16). The expression used to denote His promise is "for the hand is upon the *keis* of Yah," with Yah referring to His abbreviated name and *keis* referring to His throne. The rabbis already took note of this anomalous spelling for the word *kisse * and saw its juxtaposition to the short spelling of His name as telling of a bigger idea. Because of this, they taught in the Midrash (*Tanchuma Ki Teitzei* §11, cited by Rashi to Ex. 17:16) that as long as Amalek’s descendants continue to exist, Hashem’s name and throne are “incomplete,” so to speak, which is why the word *kisse * is spelled sans the ALEPH in this context and His Divine name is likewise abbreviated.
+
+
+
+ Radak (in *Sefer HaShorashim*) traces this word as well to the root KAF-SAMECH-ALEPH, explaining that the ALEPH is dropped because the word keis should be considered one word attached to Hashem’s name Yah that follows it, as though it said *keisyah. * Actually, the Talmud (*Pesachim* 117a) already records an Amoraic dispute about whether this term should be written as one word or two words, and *Minchat Shai* (to Ex. 17:16) mentions that the later Masoretes similarly disagreed about this point. In fact, some early manuscripts of the Bible, like the Leningrad Codex and Sassoon 507, have it written as two words (*keis Yah, * which is the accepted custom*)*, while the Aleppo Codex and Sassoon 1053 have them written as one word (*keisyah*).
+
+
+
+ The word *kursa* appears thrice in the Bible — all in the Aramaic sections of Daniel (Dan. 5:20, 7:9). As Rabbi Eliyahu HaBachur (1468–1549) points out in his work *Meturgaman*, every time the Hebrew word *kisse * appears in the Bible, the Targumim translate it into Aramaic as *kursa/kursei*. Conversely, Rashi (to Dan. 7:9, *Yevamot* 118b, *Ketubot* 75a, *Gittin* 35a) explains that the Aramaic *kursa * means *kisse. * In Modern Hebrew, the term *kursa* denotes a specific type of chair — an “armchair” or “recliner.”
+
+
+
+ Essentially, the word *kursa * is spelled the same as *kisse, * except that it has an additional REISH after the initial KAF consonant. From the various linguists with whom I consulted, it seems that the Hebrew version without the REISH is the older form of the word, and the Aramaic version with the REISH is a later development (or “corruption”) of that form of the word. Indeed, when we look at other Semitic languages, we see this play out very nicely: Dr. Chaim Tawil sees the Hebrew *kisse * as related to the Akkadian *kussu*, and both of them are very early Semitic languages and both of them clearly do not have the REISH. On the other hand, the Arabic cognate *kursiyy * does include the REISH sound, but Arabic is a later language and, as Rabbi Dr. Ernest Klein (1899–1983) notes, probably borrowed the word from Aramaic.
+
+
+
+ But how did this extra REISH in the Aramaic form of the word come about? The experts with whom I consulted explained the insertion of the letter REISH as an example of a linguistic phenomenon called dissimilation. Rabbi Dr. Ernest Klein explains that the rhotic sound expressed by the letter REISH is often inserted into a word (through a process called epenthesis) to serve as a stand-in for the reduplication of the same consonant. Meaning, in the word *kisse*, since the SAMECH sound is doubled (hence, the *dagesh* in that letter), the letter REISH was later inserted to help smooth the pronunciation. [For more examples of Hebrew word that are spelled without a REISH whose Aramaic counterparts are spelled with a REISH, see “[Kneading the Dough](https://ohr.edu/this_week/whats_in_a_word/8879)” (June 2020).]
+
+
+
+ Others linguists wrote to me that it is possible that the rhotic version of the word — that is, the one with the REISH (*kursa*) — was the more original form, and in Hebrew the REISH was dropped (to become *kisse*). According to this approach, the *dagesh * in the letter SAMECH of *kisse * actually alludes to the disappearance of the original REISH. With this approach, the phenomenon of the disappearing REISH can be termed assimilation, as the REISH “assimilated” into the SAMECH that preceded it.
+
+
+
+ Maimonides (*Guide for the Perplexed* 1:9) writes that the idea of a *kisse* implies importance and power, presumably because in ancient times ordinary people did not have chairs, but merely sat on whatever flat surfaces were available. The Holy Temple is called the “seat” of Hashem’s glory because it is from there that prophetic revelations that come directly from Him emanate.
+
+
+
+ If I understood him correctly, Rabbi Menachem Mendel of Shklov (1740–1827) similarly explains that the word *kisse* alludes to Hashem's role as the First Person actor who administers all of creation. He arrives at this conclusion by connecting the word *kisse* with the word *ani* ("I/Myself"), noting that the letters KAF and SAMECH that make up the word *kisse* consecutively follow the letters YOD and NUN that make up the word *ani* (with the ALEPH remaining the same in both words). Thus, he explains that *kisse * connotes the Selfhood of Hashem, as opposed to things that merely emanate from Him, but are not synonymous with Him. To bolster this assertion, Rabbi Menachem Mendel notes that the Aramaic form of *kisse *— *kursa* — uses the same three-letter root as the word *keres, * the Aramaic form of the Hebrew *beten *(“stomach/innermost element”) As a result of this parallelism, he understands that just like the *keres * is an integral part of one’s person, so does the term *kisse * refer to the "Person” of Hashem.
+
+
+
+ Before we conclude, I wanted to make an interesting point about the English word *chair* itself. That word derives from the French word *chaiere* ("seat," "throne,"), which originally referred to a bishop's throne. That French word, in turn, derives from the Latin word *cathedra* and the Greek *kathedra*. As you may have realized those Latin and Greek words are the ultimate etymons of the English word *cathedral*, that is "a church in which the bishop's throne is located." What is interesting for our purposes is that the Greek work *kathedra* actually appears four times in the Mishnah, once when relating that a woman who brought four maidservants into her marriage is not required to do any household chores, but can simply sit on her *kathedra* (*Ketubot* 5:5), and three times when discussing various vessels and their susceptibility to ritual impurity (*Keilim* 4:3, 22:3, 24:2).

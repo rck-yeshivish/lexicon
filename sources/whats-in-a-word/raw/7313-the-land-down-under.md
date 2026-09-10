@@ -1,0 +1,53 @@
+---
+id: 7313
+slug: the-land-down-under
+title: "The Land Down Under"
+date: 2017-06-24
+hebrew_date: "For the week ending 24 June 2017 / 30 Sivan 5777"
+url: https://articles.ohr.edu/articles/the-land-down-under
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# The Land Down Under
+
+When relating the story of Korach and his household being miraculously swallowed into the ground, the Torah (Numbers 16:30-34) employs an interesting word-switch that we will closely examine. In response to Korach’s rebellion, Moshe warned that G-d will implement a supernatural phenomenon whereby the land (*adamah*) will open its mouth and swallow Korach’s household. As Moses finished uttering these words, the ground (*adamah*) that was under them split open, and the land (*eretz*) opened its mouth and swallowed them. Then, all the Jews who were present fled because they feared being swallowed by the land (*eretz*). In other places where the Torah recalls this episode, Korach and his household were said to have been swallowed by the *eretz *(Numbers 26:10 and Deuteronomy 11:6). Why does the Torah switch between two seemingly synonymous words for “land” and what is the difference between them?
+
+
+
+ The Vilna Gaon (1720-1797) explains that the word *eretz* (or *aretz*) connotes the national settlement of land, and can be used in the construct form to denote the land of a specific nation. In this way, *eretz* can be aptly translated as “country”. In many instances, an unspecified *eretz *refers especially to the Land of Israel. The word *adamah*, on the other hand, specifically denotes uninhabited lands set aside for agrarian purposes.
+
+
+
+ Similarly, Malbim (1809-1879) explains that *eretz* includes the entire earth, from the surface of the planet to its innermost core, while the word *adamah* generally refers to only the surface layer of the earth’s crust, whose dirt is used for agriculture.
+
+
+
+ The difference between the words *eretz* and *adamah* is accentuated by their respective appearances in ritual blessings over food. Before eating bread, one blesses G-d as the One “who brings forth bread from the land (*eretz*)”, while the blessing recited over vegetables blesses G-d as He “who creates the fruit of the ground (*adamah*).” For some reason, bread is more associated with *eretz *and vegetables are more associated with *adamah*.
+
+
+
+ Rabbeinu Bachaya (1255-1340) and the Ritva (1250-1330) note that the blessing over bread should have used the more specific word *adamah* (which refers to a field), but instead uses the vague word *eretz*. They explain that this is because the Rabbis decided that the wording of the blessing should mirror the terminology of the Bible (Psalms 104:14), which explicitly says that G-d brings forth bread “from the *eretz”*.
+
+
+
+ Rabbi Yechiel Michel Moravsky (Moraftschik) of Lublin (d. 1593) writes that the word *eretz *is more encompassing than the word *adamah *because *adamah *is limited to the immediate top level of dirt, while *eretz *can mean even that which lies underground. As a result, because the grain needed for making bread develops roots which descend deep underground (see, for example, *Yerushalmi Ta’anit* 1:3 which asserts that the roots of wheat penetrate fifty handbreadths into the ground), bread is said to come from the *eretz*. Other vegetables, on the other hand, do not necessarily require such deep roots, and so they are called fruits of the *adamah*. Rabbi Yisrael Lipschitz (1782-1860) offers a similar explanation.
+
+
+
+ In light of this distinction between the words *eretz *and *adamah*, Rabbi Yaakov Chaim Sofer (Rosh Yeshiva of Yeshivat Kaf HaChaim in Jerusalem) explains the passages concerning the ground swallowing up Korach. He argues that the opening of the ground transpired in two stages: first the uppermost layer of the ground opened up and then the deeper layers of the ground opened up. These two stages are reflected in the word change found in the Bible, as first the Bible uses the word *adamah *to describe the surface-level opening of the ground, and then it uses the word *eretz *to record the opening of the subterranean depths.
+
+
+
+ Nonetheless, in contrast to the explanations above, Rabbi Shlomo Luria (1510-1573) understands that *eretz *is limited to the surface of the earth, while the word *adamah *also includes the depths of the land. He explains that bread is said to come forth from the *eretz *because the word *eretz* is limited to the surface of the earth and up to three cubits of topsoil (see Rashi to Genesis 6:13). Therefore, when the grains used to make bread shoot forth from the land, they are said to be coming forth from the *eretz*. However, since vegetables receive their nourishment from the depths of the soil, they are said to be created from the more general word for land, *adamah*, which includes the *eretz *and more. These assumptions about the meanings of *eretz *and *adamah *are also adopted by the illustrious Wurzberger Rav, Rabbi Yitzchok Dov Bamberger (1807-1878).
+
+
+
+ Rabbi Yosef Teomim-Frankel (1727-1792), author of the *Pri Megadim*, writes that the word *eretz* refers to land in its supernal, unblemished state. (It is therefore appropriately associated with the Holy Land which is viewed as the terrestrial epitome of good). In contrast, the word *adamah* focuses on the stained and imperfect land which G-d cursed in response to Adam’s sin of eating from the Tree of Knowledge (Genesis 3:17). The blessing for vegetables thus uses the word *adamah *because it recalls G-d’s benevolence in contemporary times, whereby He forms vegetables which grow from the cursed land below. However, the blessing over bread conjures the period before Adam’s sin, when complete loaves of bread would rise from the ground, just as they will do in the Messianic Era (see *Shabbat* 30b). Accordingly, the blessing for bread uses the word *eretz *to describe the land from whence it comes — which will by then break free from its curse and return to its pure, unblemished state.
+
+
+
+
+
+
+- 
+
+*Author’s note: Le’Zechut Refuah Shleimah for Bracha bat Chaya Rachel*

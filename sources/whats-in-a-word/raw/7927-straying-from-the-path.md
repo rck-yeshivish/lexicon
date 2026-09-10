@@ -1,0 +1,40 @@
+---
+id: 7927
+slug: straying-from-the-path
+title: "Straying from the Path"
+date: 2018-09-08
+hebrew_date: "For the week ending 8 September 2018 / 28 Elul 5778"
+url: https://articles.ohr.edu/articles/straying-from-the-path
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Straying from the Path
+
+Over the last few weeks we spoke about different words for roads and paths — mostly in a literal sense. Those words, of course, also relate to the means towards reaching ethical destinations and living up to moral expectations. Any straying from what is viewed as the paths towards righteousness can likewise be understood to be deviance from the proper paths. Those children who received a Jewish education, but unfortunately decided to reject the tenets of Judaism, are colloquially known as children who are “off the *derech*”. In this installment we will discuss different Hebrew roots which denote deviating from a given path.
+
+
+
+ The word *zonah *(colloquially, a prostitute) literally refers to one who has strayed from a certain set of expectations. The Torah forbids a *kohen* from marrying a *zonah* (Lev. 21:7) — who, for the purposes of this prohibition, is any woman who engaged in relations with somebody forbidden to her. Similarly, on his deathbed Moshe warns the Jewish People of the tragedies that will befall them should they stray after foreign gods (Deut. 31:16). In that context, Moshe uses the word *ve’zanu *to express the action of straying. Idolatry and adultery are conceptually similar in that both eschew an expected loyalty (either to one’s G-d or to one’s spouse). For this reason, the Bible (especially in Hosea and Ezekiel) uses words associated with sexual deviance to describe theistic infidelity.
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau (1740-1814) offers a fascinating insight into the etymological development of the word *zenut *(promiscuity). He explains that at its core lies the two letter combination *ZAYIN-NUN*. Those two letters make up the nucleus of the root-words associated with “sustenance.” In the Grace after Meals we describe G-d as He who is graciously *zan *(“sustains”) the entirety of Creation, and the word *mazon *(“food” or “nourishment”) denotes an essential component in sustaining life.
+
+
+
+ Based on this, Rabbi Pappenheim proposes that an over-abundance of *mazon *— a very physical substance — causes a person to be drawn towards wholly physical endeavors, and this leads to lustful desires. A person’s excess physical proclivities generally find outlet in his toiling in strenuous activities (such as work or exercise, or Torah study), but one who does not avail himself of such opportunities enters dangerous territory, as the Talmud (*Ketubot* 59b) warns that inactivity/boredom leads to sexual misconduct. This is the basis for the connection between sexual deviance and sustenance. Once the term *zenut *came to refer to deviance from the sexual norm, it came to mean deviance from any expectation, and could aptly apply to idol worship as well.
+
+
+
+ Another word which denotes deviating from a given path is *stiyah* (spelled with a *SIN* in the Bible and with a *SAMECH *in rabbinic works). A woman suspected of adultery is called a *sotah* because she is suspected of having deviated from the path of fidelity. The *satan *is an adversary who impedes one’s ability to continue in a given path. The word *shoteh *refers to a mentally incompetent person, whose erratic behavior is unpredictable and certainly does not follow any specific path. The word *bechor *refers to a “firstborn”, and the term *Bechor Shoteh *or *Bechor Satan *(*Yevamot* 16b) refers to an irregular firstborn (i.e., one who is a firstborn to his mother, but not to his father). Similarly, a *Hadas Shoteh* refers to a myrtle branch which deviates from the norm in that it does not have three leaves growing together (see *Succah *32b). Finally, the Talmud asserts (*Sotah* 3a) that a person sins only if a *ruach shtut *(“spirit of deviance”) enters him. From all of these sources we see that the root *SAMECH/SIN-TET* refers to straying from a specific track.
+
+
+
+ Interestingly, Rabbi Moshe Shapiro (1935-2017) explains that the word *shitah *— which refers to a “systemized and ordered” approach to something (commonly used to refer to an opinion in a Talmudic discussion) — is also related to *stiyah. *In fact, it denotes the thematically diametric opposite of *stiyah* (which refers to one who *deviates* from the systemized path). This is yet another example of a uniquely Hebrew phenomenon, in which words that mean the polar reverse from one another are actually related in their roots. Rabbi Shapiro also explains that the place-name *Shittim*, where the Jews strayed after the Moabite women (Num. 25:1), is also related to the word *stiyah*.
+
+
+
+ We conclude with a wildly innovative idea presented by Rabbi Aharon Marcus (1843-1916). He suggests that not only are roots in the Hebrew language made up of letters, but individual letters themselves can sometimes be a root that unites words that use those letters. To this effect he proposes that the very letter *TET *actually denotes “movement to the side” — i.e., straying. He shows this idea through a bevy of words which contain the letter *TET* and imply such movement: *stiyah*, (“deviation”), *natah *(“to incline”), *titah *(“turn aside”), *tata* (“broom”), *tach* (“plastering”), *taah *(“erred”), and more.
+
+
+
+ Most significantly, Rabbi Marcus argues that the active letter of the word *chet *(“sin”) is the *TET* in the middle. This implies that to “sin” is to “move to the side” — i.e., stray from the proper path. In fact, Rabbi Marcus adds that two other words for “sin” are also related to this idea: the word *avon *is related to the word *ivvut *(“warped”) because a sinner is on a *warped* or contorted path, and the word *pesha *is related to *posea *(“takes a step”) because a sinner has *taken steps* in the wrong direction. (A fuller discussion on the words for “sin” is forthcoming.)

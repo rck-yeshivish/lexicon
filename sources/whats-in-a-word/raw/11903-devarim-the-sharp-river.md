@@ -1,0 +1,100 @@
+---
+id: 11903
+slug: devarim-the-sharp-river
+title: "Devarim: The Sharp River"
+date: 2025-08-02
+hebrew_date: "For the week ending 2 August 2025 / 8 Av 5785"
+url: https://articles.ohr.edu/articles/devarim-the-sharp-river
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Devarim: The Sharp River
+
+Although the Book of Numbers delineates the Holy Land’s eastern border as following the Jordan River (Num. 34:12), the Book of Deuteronomy envisions a Greater Israel that stretches in the east all the way to the Euphrates River — “until the Great River, the River Euphrates” (Deut. 1:7). The Book of Exodus likewise implies this more expansive vision, stating that the land that the Jews are destined to conquer should reach “until the river” (Ex. 23:31), which Targum Onkelos and Rashi identify as referring to the Euphrates. As is well-known, the center of the Ancient World and the so-called “cradle of civilization” was Mesopotamia, a Greek term that literally means “the country between two rivers” — the land between the Euphrates and the Tigris. The Tigris River is known in Biblical Hebrew as *Chidekel*, but in later Hebrew is referred to as *Diglat*. In this essay, we explore these two synonyms for the mighty river that defines the eastern border of Mesopotamia, looking at their etymological bases and seeing how the terms came into being.
+
+
+
+ Let’s talk about the hydronym (that is, a technical onomastic term for the name of a body of water, like a river) *Chidekel*. The river-name *Chidekel* (sometimes rendered *Hiddekel * in English) appears twice in the Bible: The first time is in the Creation Narrative, wherein the Bible reports that four rivers exited from Eden, the third of which was named *Chidekel* — that is, the river east of Assyria (Gen. 2:14). The other time this river appears is in the Book of Daniel, as Daniel relates that one of the visions he saw was presented to him "when I was next to the Great River that is *Chidekel*" (Dan. 10:4). In that second verse, the name of the river is actually vocalized slightly differently as *Chidakel*, but that results from a grammatical consideration pertaining to segolite words that appear at the end of a verse, whose cantillation calls for morphing the *segol* into a *kamatz*.
+
+
+
+ Rabbi Aharon Marcus (*Keset HaSofer* to Gen. 2:11 and *Barzilai* p. 127) contends that the name *Chidekel* is an ancient Hebrew quadriliteral, even though, in general, Hebrew words only use roots comprised of three letters or less. He further conjectures that the root of *Chidekel* is actually CHET-DALET-KUF, with the additional LAMMED at the end as radical to the core root. He lists other examples of four-letter roots in Hebrew that are really comprised of a three-letter core and a final LAMMED, including *barzel *(“iron”)*, karsul *(“ankle”)*, chanamal *(“grasshoppers/hail”)*, arafel* (“darkness”)*, carmel *(“orchard/fresh ears of grain”)*, chargol *(“grasshopper”), and *givol* (“bud”). His exact way of explaining the meaning of the triliteral CHET-DALET-KUF and how it relates to the Tigris River is not so clear.
+
+
+
+ That said, the rabbis use different hydronym in reference to the Tigris River: *Diglat*. For instance, Targum Onkelos (to Gen. 2:14) renders the Biblical Hebrew word *Chidekel* as *Diglat*. This Aramaic name *Diglat* also appears in Targum to Nah. 1:12 (even though *Chidekel* does not appear in the Bibe’s original Hebrew text there). Likewise, in the various places where the Talmud refer to the Tigris River, it is always known as the *Diglat*: The Talmud (*Bava Kamma* 30a) relates that pious men would make sure to dispose of glass shards and thorns in a way that they do not post a public hazard. In that context, it is related that Rava used to those such things into the *Diglat* River. When Rava prayed for rain, the rain fell in such abundance, that the water-gutters of Mechoza flooded all the way to the *Diglat* River (*Taanit* 24b). There are several other instances in which the Talmud mentions the river *Diglat* in conjunction with the Amoraic sage Rava (*Eruvin* 57b, *Moed Katan* 25b, *Yevamot* 121a). The Talmud (*Kiddushin* 71b) also mentions the river *Diglat * when delineating the borders of Babylonia for the purposes of *yuchasin* (“genealogical lineage”) and again when discussing the laws of *eruvin* (*Eruvin* 22b).
+
+
+
+ In case it is not yet clear that the Aramaic/Rabbinic Hebrew term *Diglat* refers to the same river as the Biblical Hebrew *Chidekel*, Rashi in his comments to the Talmud (to *Taanit* 24b, *Moed Katan* 25b, *Bava Kamma* 30a) makes that point explicit, writing that the *Diglat* River referred to in the Talmud is the same thing as the *Chidekel* River mentioned in the Bible.
+
+
+
+ The Talmud (*Brachot* 59b) also states that upon seeing certain parts of the river *Diglat*, one should recite the blessing “Blessing… who makes ‘*bereishit*’.” This is because only certain places along the river’s current are part of its original path from when Hashem first created the world, while other parts of the river are man-made diversion from the river’s original path. Immediately after stating this Halacha, the Talmud then asks about the Biblical hydronym *Chidekel* and expounds on that name as a portmanteau of the words *chad *(“sharp/pointy”) and *kal *(“light/swift”). Afterwards, the Talmud records that Rava (who obviously had some special connection to this river) commented that the people of Mechoza were especially “sharp” because they drink from the waters of the *Diglat*.
+
+
+
+ Interestingly, the Talmud’s exegetical explanation of the name *Chidekel * is also cited by Josephus (*Antiquities of the Jews*, Book 1 ch. 1:3), who writes that the river-name Tigris/Diglath signifies what is “swift, with narrowness.” This exegesis also appears in the Midrash (*Bereishit Rabbah* §16:4), which discusses how the Four Rivers that flow from Eden allude to the Four Kingdoms that will rule over the Jewish People before the End of Days. In that context, the Midrash states that *Chidekel* alludes to the Greeks, whose decrees against the Jewish People were said to be especially "swift and sharp." [By the way, Jewish philosophers like Rabbi Levi ben Avraham and Rabbi Nissim of Marseilles connect the Four Rivers to the four elements of Hellenistic natural science (fire, water, earth, and air), saying that the *Chidekel* alludes specifically to the element of water.]
+
+
+
+ Although the Talmud seems to present its exegesis as a seemingly straightforward expounding of the Biblical name Chidekel, Rabbi Naftali HaKohen Katz (author of *Semichat Chachamim*) in his work *Kedushah U'Brachah* (to *Brachot* 59b) explains that the Talmud actually meant to answer the following unspoken question: Why is it that the popular, in-use geographical placenames were used in the Creation Narrative for places like Kush and Ashur, yet when it comes to the Tigris River, the Bible uses an obscure term (*Chidekel*) instead of the more popular term (*Diglat*)? To this, the Talmud answers that the Bible specifically used the name *Chidekel* as an allusion to the features of that river.
+
+
+
+ Rabbi Baruch HaLevi Epstein (*Torah Temimah* to Gen. 2:14) explains that the basis for the Talmud’s exegesis is the fact that *Chidekel* is a quadriliteral word (meaning, its root seems to be comprised of four letters), which are rare in Hebrew. Because of that, the rabbis sought to explain the word as a portmanteau of two biliteral words, rather than as a single four-letter word. Either way, he writes that the Talmud means that the waters from the Tigris River have a “sharp” taste to them, and they are especially “light” in the sense that they are not hard on the body and they actually weigh less than water from other places (perhaps there are less minerals in its waters?).
+
+
+
+ Rabbi Refael Mamo (in *Shevo V'Achlamah* to *Brachot* 59b) explains that *Chidekel* and *Diglat* are related to the word *dekel* ("palm tree"), as *Chidekel* includes the word *dekel*, and *diglat* is likewise related because the letters KUF and GIMMEL are interchangeable. He further explains that this connected is because the area around the Tigris River is fertile ground for palm trees, and even today there are many palm trees there. Accordingly, he explains that when the Talmud asked "what is *Chidekel*?," it was not actually asking about the meaning of that name, but was rather seeking to understand the implication of the initial CHET added to the beginning of *dekel* to become *Chidekel*. To this, the Talmud answered that the CHET alludes to the "sharpness" of the river (*chad*). Furthermore, Rabbi Mamo explains that when the Talmud says that the river is “sharp,” this refers to the fact that the Tigris River flows very fast, as opposed to the Euphrates River which flows at a much slower speed. Accordingly, he explains that anything that works fast is called "sharp" in Chazalic parlance, just like a sharp knife can be used to cut something very quickly.
+
+
+
+ In a 1937 letter written to Rabbi Chawita Kohen of Djerba, Rabbi Matzliach Mazuz (*Vaya’an Shmuel* vol. 12 p. 76, also appears in *Shayarei Kehunah HaChadash, Orach Chaim* §47) wondered why the rabbis preferred using the term *Diglat* when referring to the Tigris River, instead of the Biblical term *Chidekel*. He resolves this question by assuming that it must that by the time of the rabbis, people no longer called the river *Chidekel* and instead it became commonplace to call it *Diglat*, so the rabbis used the more familiar term. We can somewhat expand on this answer by presuming that the two names are from two different languages, *Chidekel* is Hebrew and *Diglat* is Aramaic.
+
+
+
+ The truth is that Shadal (to Gen. 2:14) already notes that the Hebrew *Chidekel* and the Aramaic *Diglat * are actually cognates, with the Aramaic name for the Tigris dropping the initial CHET from the Hebrew word and switching out the KUF for a GIMMEL (as those two letters are often interchangeable). In fact, if we look at other Semitic languages, we will notice that their words for the river are also variants of *Chidekel/Diglat*. For example, the closest variant to the Biblical Hebrew *Chidekel* is the Akkadian term *Idiqlat*/*Idiglat*. Rabbi Aharon Marcus claims that the Akkadian form of the word is a corruption of the original Hebrew form, noting that initial CHET is often hard to pronounced, so that letter was replaced with a softer initial ALEPH, plus a final TAV was added to become *Idiqlat*. But modern linguists say that this Akkadian name for the river actually derives from the Sumerian word *Idigna* (meaning, “the river that goes”) adapted to Akkadian phonology.
+
+
+
+ Likewise, the Arabic name for the Tigris River is *dijlah*, which sounds a lot like *Diglat* (this name for the river can be found in Rabbi Saadia Gaon’s *Tafsir * to Gen. 2:14). Targum Neofiti (to Gen. 2:14) and the Peshitta (a Syriac translation of the Bible) translate the Hebrew *Chidekel* as *Tiklat* (with a KUF, instead of a GIMMEL as in *Diglat*). The Turkish name for the river, Dicle, is also used as a given name in that language.
+
+
+
+ Interestingly, the Samaritan Bible (in its parallel to Gen. 2:14) refers to the Tigris River as *ha’dekel *(often rendered "addeqel" in English) instead of *Chidekel*. Perhaps the Samaritans somehow thought that the CHET in the beginning of the word *Chidekel* in the Masoretic Text was a typo, so they had the audacity to change it to a HEY.
+
+
+
+ Even more interestingly, the root of *Diglat* would seem to be DALET-GIMMEL-LAMMED (as in *degel*, “flag”) and the root of *ha’dekel * would likewise be DALET-KUF-LAMMED (as in *dekel, *“palm tree”). Without mentioning about the river in question, Rabbi Samson Raphael Hirsch (to Num. 1:52) notes a similarity between those two roots (especially because GIMMEL and DALET are often interchangeable), explaining that the "flag" is a special symbol that can be seen from afar and a "palm tree" is likewise a tall tree that can be seen from a distance. We might add that perhaps the Tigris River connects to DALET-KUF-LAMMED, and maybe even DALET-GIMMEL-NUN (*dagan*, as in “grain”) because that river was what supplied the water to allows those products to grow in the fertile crescent.
+
+
+
+ If we’re looking for appearances of *Chidekel/Diglat* as part of given names, it makes sense that we would look to the Assyrians who are so closely associated with the Tigris River. In fact, the Assyrian King who started the process of destroying and exiling the Jews from the Northern Kingdom of Israel was named Tiglat-Pileser (II Kgs. 15:29, 16:10), Tiglat-Plesser (II Kgs. 16:7), or Tiglat-Pilnesser (I Chron. 5:6, II Chron. 28:20). His name is sometimes spelled in archaic English source as “Theglathphalasar.” The German philologist Wilhelm Gesenius understood that the *Tiglat*- element of the king’s given-name serves as a reference to the *Diglat*, which was so important to the Assyrians. Needless to say, this connection is based on that interchangeability of the letters TAV and DALET. Because of this, Gesenius translates the Assyrian king’s name as “Lord of the Tigris.”
+
+
+
+ That said, over the last century, modern Assyriologists have revealed that the king’s original Assyrian name was actually TukultÄ«-apil-Ešarra, which translates into "My trust is in the son of Ashur.” Ashur, of course, was the name of the Assyrian nation, which descends from Shem’s son Ashur (Gen 10:22), and Ashur was also the name of the chief deity worshipped by the Assyrians. None of this has anything to do with the Tigris River.
+
+
+
+ Now that we’ve discussed the names *Chidekel/Diglat * for the Tigris River, we can start talking about the name *Tigris* itself. The name *Tigris* is first recorded in Greek and Latin, but philologists have long argued that it is of Persian origin. The personal name Tigranes was borne by several kings of Armenia during the Roman period.
+
+
+
+ In fact, some scholars trace the term *Tigris* to the Old Persian word *tigra-* ("sharp, pointed"), which, in turn, derives from the Avestan *tighri-* ("arrow"). Rabbi Ernest Klein in his etymological dictionary of English traces that Avestan word to the Indo-European root *(s)teig-* which means “pricking/piercing/sticking,” and is said to be the basis for the English word *stick. * That said, nowadays connecting *Tigris* to the Avestic word for “arrow” is often understood to be a mere folk etymology. Either way, this etymology is thematically similar to how the Talmud sees the name *Chidekel * as derived from the Hebrew word for “sharp” (*chad*).
+
+
+
+ Rabbi Aharon Marcus surmises that the Persian-based name for the Tigris River is a corruption of the Aramaic name *Diglat, * with the liquid *l*-sound turning into a liquid *r*-sound as is apparently common in Persian languages (plus the initial d-sound turning into a t-sound, as is also common). According to this, the etymology of *Tigris* does not differ from the words *Chidekel/Diglat* that we’ve been discussing in this essay.
+
+
+
+ Abarbanel (to Gen. 2:14) takes a different approach to the etymology of *Tigris. * He writes that the *Chidekel* is called *Tigris* because its waters move in a fast-running current just like *tigris* (“tiger”) is the name of a swift-moving wild animal. Now, the English word *tiger * for the animal comes from the Latin and Greek words *tigris *(which is also the word for “tiger” in Modern Hebrew). These words are also said to have come from the Persian word for “arrow” (in reference to the tiger’s habit of suddenly jumping its prey like an arrow swiftly strikes its victim).
+
+
+
+ The Talmud (*Chullin* 59b) states that the *tigras* is "the Lion of the Upper Forest." Rabbi Binyamin Mussafia in *Mussaf HeAruch* explains that this refers to the tiger, which is called so because it runs as swiftly as an arrow. Like Abarbanel, he too notes that the Tigris River is called so on account of its fast-moving current. This etymology cited by Abarbanel and Rabbi Mussafia is first found in the Latin work *Etymologies* by Isidore of Seville (written around the year 600).
+
+
+
+ But there’s another approach to understanding the Talmudic term *tigras: * Dr. Alexander Kohut (*HeAruch HaShaleim*) rejects Rabbi Mussafia's understanding, partially because a tiger has nothing to do with a lion. Moreover, he notes that in context, it seems that the Talmud is talking about a *mythological* animal, not an actual existing creature. Because of this, Kohut explains that the Talmudic *tigras* refers to what is known as a *martichoras* ("manticore") in Old Persian mythology, which told of a legendary sphinxlike lion that had the face of a human, the body of a lion and the tail of a scorpion. He implies that the rabbis parsed the name *martichoras* as though it were comprised of *mar* ("mister/master") and *tichoras*, with the latter becoming corrupted into *tigras*.

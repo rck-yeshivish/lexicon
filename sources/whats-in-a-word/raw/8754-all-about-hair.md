@@ -1,0 +1,56 @@
+---
+id: 8754
+slug: all-about-hair
+title: "All About Hair"
+date: 2020-06-20
+hebrew_date: "For the week ending 20 June 2020 / 28 Sivan 5780"
+url: https://articles.ohr.edu/articles/all-about-hair
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# All About Hair
+
+The story of Korach and his rebellion against Moshe is all about hair. Korach — whose name literally means “bald” in Hebrew — was said to have resented the fact that he was left shaven without hair, while Aharon the Kohen Gadol was decked with clothes befitting a king (*Zohar, Tazria *49a). Moreover, the Talmud (*Sanhedrin *110a) relates that Korach’s wife egged him on by telling him that the requirement to shave all the Levites’ hair (Num. 8:7) was intended to humiliate him. In those two sources, two different words for “hair” appear: the *Zohar * uses the word *saara*, while the Talmud uses the word *mazia*. In this essay we will discuss four different words for “hair” in Aramaic (*saara, mazia, binta, * and *nimah*), exploring their etymology and trying to understand how those words might differ from each other.
+
+
+
+ When it comes to the Aramaic term *mazia *(whose first three letters are MEM-ZAYIN-YOD)*, * Rabbi Dr. Jared Greenblatt argues that it is related to the Syriac/Aramaic word *ma’azia *(spelled MEM-AYIN-ZAYIN-YOD) which means “goat hair.” The latter word appears in multiple places in the Targumim (e.g., see Targum Onkelos to Ex. 25:4, 26:7, 35:6) and is clearly a cognate of the Hebrew word *eiz *(“goat”). Rabbi Greenblatt argues that in later permutations of the word *ma’azia*, there was a germination of the letter ZAYIN so that it morphed into *mazia*, as if the AYIN was dropped. Rabbi Dr. Alexander Kohut (1842-1894), on the other hand, contends that *mazia* is unrelated to *ma’azia,* but is rather derived from Old Persian, noting that it is related to the Old Persian word for “hair of the eyebrows.” Either way, Rashi (to Deut. 32:24) identifies the first word in the phrase *mizei raav *(Deut. 32:24) to be the sole appearance of this Aramaic word in the Bible (although others including Ibn Janach, Ibn Parchon, Ibn Ezra, and Radak explain *mizei* differently).
+
+
+
+ The word *mazia* appears in the Talmud in many places, including when Mordechai asked Haman to cut his “hair” (*Megillah* 16a), when Rabbi Akiva picked out the hay from his wife Rachel’s “hair” (*Nedarim* 50a), and when Rebbe allowed his “hair” to grow long as part of his repentance (*Sanhedrin *25a). The translation known as Targum Yonason (to Deut. 21:12) also uses this word when saying that the beautiful captive woman must shave the *mazia * of her head before a Jewish soldier can legally marry her.
+
+
+
+ The word *binta * appears in a famous Talmudic passage that compares death by way of Divine Kiss to “lifting a hair (*binta*) out of milk” (*Berachot *8a). The Talmud refers to a type of medicinal leech called a *“Bini * of the Water” (*Gittin* 68b), which Kohut explains is related to the Aramaic word *binta, * because such leeches are long and thin like strands of hair. Kohut also notes that elsewhere this type of leech is called a “*Nimah * of the Waters” (*Avodah Zarah *12b), using another common term for “hair” (see below).
+
+
+
+ In another famous Talmudic passage, the Rabbis speak about taming the force of the evil inclination for idolatry, which took on the animified form of a lion made of fire. The Talmud relates that when the Rabbis captured this fiery lion, a “hair-strand” (*binta*)from its “hair” (*mazia*) slipped off (*Yoma *69b), symbolizing that the fight against idolatry is not completely over. In this case, the words *binta * and *mazia * appear side-by-side. Those two words again appear in tandem when the Talmud (*Bava Metzia* 84b) relates that after Rabbi Elazar (son of Rabbi Shimon bar Yochai) died, his body was kept in an attic for many years and did not rot, such that if a single “hair” (*binta*) slipped away from his “hair” (*mazia*), his body would start bleeding.
+
+
+
+ One major player in the Korach saga was On ben Pelet. He was originally listed as part of Korach’s entourage (Num. 16:1), but later disappears from story’s continuation. The Talmud (*Sanhedrin *109b-110a) accounts for On’s disappearance by explaining that his righteous wife saved him from joining in the rebellion by uncovering her hair (*mazia*). When Korach’s men came to bring On to the final showdown against Moshe, those “pious” people were deterred by the presence of a woman with uncovered hair — they turned back and never came to get On.
+
+
+
+ The Talmud lauds the actions of On ben Pelet’s righteous wife by applying to her the verse, “The wise among women builds her house”(Prov. 14:1). As Rabbi Avraham Meir Israel (1913-1995) explains in *Yalkut HaMeiri, * the Hebrew word for “builds”(*bantah*) is phonetically similar to the Aramaic word *binta* (“hair”), thus hinting to the role of “hair” in this story.
+
+
+
+ The Bible reports that Benjaminite sharpshooters were said to be able to sling a rock at a hair without missing (Judges 20:16). The Hebrew word for “hair” in that verse is *saarah*, but Targum (there) renders it *binat saara * in Aramaic*. * Other places in which cognates of *binta * appear in the Targumim include Ps. 40:13 and Iyov 9:17. However, Rabbi Eliyahu HaBachur (1469-1549) notes in *Meturgaman* that these three examples are the only instances of *binta* in the Targum. In all other cases the Targumim simply Aramaicize the Hebrew *saar * into the Aramaic *saara * without really translating it.
+
+
+
+ The Hebrew word *saar/se’ar* refers to both a single strand of hair (Lev. 13:37) and a collective of hairs (Lev. 14:9). Rabbi Greenblatt theorizes that the Hebrew and Aramaic words *saar(a) * appear to be cognates with words for “barley” (*seora*), and explains that barley is possibly called "hairy" because it has longer awns than wheat does. Indeed, the Mishna uses the word *se’ar * to refer to the fibers that protrude from various produce (see *Shabbat *21:3 and *Kilayim *3:5). Rabbi Greenblatt also notes that both sets of words may be related to *seir *(“goat”), just like *ma’azia* is. (Some Hebrew grammarians differentiate between the word *se’ar, * which denotes a “patch of hair,” and *se’arah, * which denotes a single strand of hair — see *Tosefot Yom Tov* for *Negaim* 4:1 and *Niddah* 3:2.)
+
+
+
+ The word *nimah* is the common word for “hair” in the Talmud. For example, the Talmud (*Yoma *38b) reinforces the idea of Divine Oversight by saying: “A person can never touch that which is set aside for his friend — even a mere hair’s worth (*nimah*).” *Nimah* also refers to the hair on a person’s body in the context of immersing in the *Mikveh* (see *Eruvin* 4b and *Succah* 6a). Finally, the Talmud uses the word *nimah * in reference to “pubic hair” when discussing Tamar tying a “pubic hair” that castrated Amnon as he raped her (*Sanhedrin* 21a), and in explaining that the concubine in the story of *Pilegesh B’Givah* was rejected by her husband because she had failed to remove a “pubic hair” (*Gittin *6b).
+
+
+
+ That said, it seems that *nimah * means “hair” only as a secondary, borrowed meaning. In other instances, *nimah * actually refers to a “string” or “cord.” It is the word typically used to refer to the cords of a stringed-instrument (Targum to Ps. 6:1, Tosefta *Arachin* 2:7, *Eruvin* 102b) or the string of a bow (Targum to Ps. 11:2, Iyov 30:11). *Nimah * is also used to refer to “threads” used for sowing (see *Shabbat *64a, 74b) or that stick out of clothing (*Menachot* 42b, *Succah* 9a). In fact, several philologists and linguists note that the Aramaic word *nimah * is derived from the Ancient Greek word *nema *(“thread”). *Nimah * is also borrowed to mean “kernel” (*Shabbat* 79a).
+
+
+
+ I have not found any theories about why Talmudic Aramaic would have four different words that all mean “hair.” However, based on what we have written above, I would like to suggest the following. The term *mazia * refers specifically to a patch of hair, the term *binta * refers to a single strand of hair, and *nimah * refers to hair that is sticking out or is otherwise considered undesirable. That accounts for the first three words, and *saara * simply means “hair” in Hebrew and was adopted into Aramaic in that sense as well.

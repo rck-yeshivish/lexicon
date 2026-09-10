@@ -1,0 +1,177 @@
+---
+cluster: names of Yosef
+hebrew: [יוסף, יהוסף, צפנת פענח, אברך, רך]
+roots: [י-ס-פ, ס-פ, צ-פ-נ, ב-ר-כ, ר-כ-כ]
+translit: [yosef, yoseif, yehosef, yehoseif, tzafnas paneach, tzafnat paneach, paneach, paneiach, avreich, avrech, avreikh, rach, rakot, rakos, harakah, aryoch, asaf, sof]
+english: [Yosef, Yehosef, revealer of mysteries, father to the king, young sage]
+domain: other
+words:
+  - he: יוסף
+    tr: Yosef
+    en: Yosef
+    distinct: from yosef, "He shall add," as Rachel said at his birth (Bereishis 30:24); Rabbi Shlomo Pappenheim reads the yud as non-root and takes it from ס-פ, "end," adding meaning extending a boundary
+  - he: יהוסף
+    tr: Yehosef
+    en: Yehosef
+    distinct: the added hei of Hashem's Name, earned for withstanding Potiphar's wife in private (Sotah 10b, 36b); appears once, Tehillim 81:6
+  - he: צפנת פענח
+    tr: Tzafnas Paneach
+    en: revealer of mysteries
+    distinct: Pharaoh's name for him (Bereishis 41:45); Rashi "revealer of mysteries," Chasam Sofer "concealer of mysteries"
+  - he: אברך
+    tr: avreich
+    en: father to the king / young sage
+    distinct: three readings: av plus reich, father to the king (Onkelos, Rashi's first); av plus rach, a father in wisdom though young in years (Bereishis Rabbah); or from berech, one before whom all kneel (Sifrei)
+  - he: רך
+    tr: rach
+    en: soft, young / royal
+    distinct: ordinarily soft, tender, young; a minority school reads a second rach meaning "king," from the same reich (Sefer Russiana, Pittsburgher Rebbe, Rabbi Chaim Vital)
+sources:
+  - wiaw:10750 "Vayeshev: The Amazing Multi-Named Joseph" (2022-12-17) https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph
+authorities: [Rashi, Targum Onkelos, Targum Yonasan, Ibn Chayyuj, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Levi Yitzchak of Berditchev, Rambam, Chasam Sofer, Ibn Ezra, Rabbi Eliyahu HaBachur, Taz (Divrei Dovid), Rabbi Chaim Vital, Pittsburgher Rebbe, Rabbi Chaim Kanievsky, Rabbi Mordechai Gross]
+status: draft
+updated: 2026-09-10
+---
+# Names of Yosef: Yosef / Yehosef / Tzafnas Paneach / Avreich
+
+## Bottom line
+
+*Yosef* is a name, not a word to translate; Rachel gave it from *yosef*, "He
+shall add" (Bereishis 30:24). *Yehosef* is the same person with a hei of
+Hashem's Name added (Tehillim 81:6), so it is **Yehosef**, never "Yosef" with a
+note. *Tzafnas Paneach* stays transliterated; if it must be glossed, Rashi's
+**revealer of mysteries**. *Avreich* is the one genuinely contested word here,
+and the choice between **father to the king**, **a father in wisdom though young
+in years**, and **one before whom all kneel** commits you to a mefaresh. Do not
+render *rach* as "royal" without knowing you have left the mainstream.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| יוסף | Yosef | Yosef | "He shall add" (Bereishis 30:24); from ס-פ, "end," on Pappenheim's reading |
+| יהוסף | Yehosef | Yehosef | the extra hei of the Divine Name, earned in Potiphar's house (Sotah 10b, 36b) |
+| צפנת פענח | Tzafnas Paneach | revealer of mysteries | Pharaoh's title for him (Rashi); "concealer of mysteries" (Chasam Sofer) |
+| אברך | avreich | father to the king / young sage | *av* + *reich* (Onkelos), *av* + *rach* (Bereishis Rabbah), or *berech*, kneeling (Sifrei) |
+| רך | rach | soft, young | the plain sense; a minority reads a homonym meaning "king" (Sefer Russiana, Rabbi Chaim Vital) |
+
+## Where the authorities disagree
+
+**What avreich means** (Bereishis 41:43). Three readings, and Rashi carries all
+three.
+
+1. **Father to the king.** Targum Onkelos does not leave the word untranslated
+   at all: *dein abba l'malka*, "this is the father to the king." Rashi's first
+   explanation follows, parsing *avreich* as *av* plus *reich*, king. Our texts
+   of Rashi say *reich* is Aramaic for king, but no such Aramaic word exists;
+   it is generally accepted that a copyist's error stands here and Rashi wrote
+   Latin. The word does appear in the Gemara: the emperor tells Herod he is
+   "neither a *reicha* nor the son of a *reicha*" (Bava Basra 4a).
+2. **A father in wisdom, young in years.** *Bereishis Rabbah* 90:3 and *Sifrei
+   Devarim* 1 split it as *av* plus *rach* (soft, young), setting Yosef's
+   surpassing wisdom against his youth. This is the source of the modern use of
+   *avreich* for a young man in kollel.
+3. **One before whom all kneel.** Others in *Sifrei Devarim* 1 take it from
+   ב-ר-כ, *berech*, a knee. The Taz in *Divrei Dovid* notes why: these
+   authorities rejected splitting the name into two words at all, so they needed
+   a single root. *Targum Yonasan* synthesizes the first and third readings.
+
+The Bottom line leaves *avreich* transliterated in narrative and glosses it by
+whichever mefaresh the passage is following.
+
+**Whether Tzafnas Paneach reveals or conceals.** *Bereishis Rabbah* 90:4 gives
+four readings; three take *tzafnas* from צ-פ-נ, hidden. On *paneach* there is
+less agreement. The Midrash's own reading combines פ-ע (appearing) with נ-ח
+(easing or placating): Yosef unravels hidden matters easily, or he settles
+people's questions by disclosing what was hidden. Rashi (to Bereishis 41:45)
+therefore renders "revealer of mysteries." The Chasam Sofer reverses it:
+"concealer of mysteries," for Yosef's undertaking to keep secret that Pharaoh
+could not speak Lashon HaKodesh (Sotah 36b). Later Hebrew, in *Nishmas* and in
+HaKallir's piyyutim, uses *paneach* as a verb for deciphering, which may simply
+follow the Midrash.
+
+**Whether Yosef and Yehosef are one name or two.** Rabbi Chaim Kanievsky is
+reported to have first held them distinct, so that a father could name one son
+Yosef and another Yehosef; he later retracted and ruled that for naming siblings
+and for shidduchim they be treated as one name. Rabbi Mordechai Gross of Bnei
+Brak leaves it in doubt. The two spellings also stand side by side in the
+Mikdash: Rambam (*Hilchos Klei HaMikdash* 9:9) has *Yehosef* on the shoham
+stones of the Kohen Gadol's shoulders while the choshen reads *Yosef* (see
+*Minchas Chinuch* 99).
+
+**When Yosef became Yehosef.** Sotah 10b and 36b: the hei was added when the
+angel Gavriel came to teach him the seventy languages, not at the moment of the
+test. Rabbi Levi Yitzchak of Berditchev infers from the piyyut *Even Choger*
+(Shacharis, first day of Rosh HaShanah) that he was Yehosef already in the womb.
+He reconciles them with Niddah 30b: the unborn child is taught the whole Torah
+by an angel, and all seventy languages are contained in Torah, so the name fit
+him then; birth made him forget, and Gavriel restored him to Yehosef.
+
+**Whether rach can mean "king."** The plain sense everywhere is soft, tender, or
+young. A minority school reads a second *rach*, cognate with *reich*: *Sefer
+Russiana* and, independently, the Pittsburgher Rebbe (*Emunas Avraham*) on Leah's
+eyes as *rakos* (Bereishis 29:17), against Rashi there, who reads them soft from
+weeping; *Targum Yonasan* on David's "I am today *rach* and anointed king"
+(Shmuel II 3:39), which Radak understands as taking *rach* for king; Rabbi Chaim
+Vital (*Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19) on *harakah*, the pampered
+woman of Devarim 28:56; and Rashi (to Shabbos 53a) explaining the amora Shmuel's
+nickname Aryoch as royal, since he judged civil law like a king, though Rashi
+elsewhere (Menachos 38b) derives Aryoch from *aryeh*, the lion of Yehudah
+(Bereishis 49:9). The Bottom line keeps "soft" and treats the royal reading as a
+derashah to be flagged, not assumed.
+
+## Distinctions
+
+### Yosef (יוסף)
+Root י-ס-פ for Ibn Chayyuj, Ibn Janach, and Radak: to add. Rachel names him from
+two things at once, *asaf* (Hashem has gathered up my disgrace) and *yosef* (may
+Hashem add me another son), Bereishis 30:23-24. Rabbi Shlomo Pappenheim treats
+the yud as extraneous and takes the core as ס-פ, "end," which yields *sof* (an
+end), *sayif* (a sword, which ends a life), *safah* (a lip, edge, or riverbank),
+*saf* (a threshold, a domain's edge), and *asifah* (gathering, which redraws a
+set's boundaries). Adding, on this reading, is extending an end to where it had
+not reached. Three others in Tanach bear the name: the father of Yigal the spy
+from Yissachar (Bamidbar 13:7), a singer of the family of Assaf in David's day
+(Divrei HaYamim I 25:9), and one of the returnees in the days of Ezra and
+Nechemiah (Ezra 10:42, Nechemiah 12:14).
+
+### Tzafnas Paneach (צפנת פענח)
+*Paneach* looks quadriliteral, פ-ע-נ-ח, and is otherwise unattested in Biblical
+Hebrew. Ibn Ezra and Rabbi Eliyahu HaBachur hold as a rule that quadriliteral
+roots are not native to Hebrew but loanwords, which is why an Egyptian
+derivation has been sought; those proposals fall outside this guide.
+
+## Rendering guidance
+
+- Names stay names. Write Yosef, Yehosef, Tzafnas Paneach, and do not translate
+  them in running text; gloss once in a footnote if the derashah needs it.
+- Trap: "Joseph" absorbs both Yosef and Yehosef and destroys Tehillim 81:6,
+  where the whole point is the extra letter. Transliterate both, distinctly.
+- *Avreich* is the trap in the other direction. In a modern sentence it means a
+  kollel man; in Bereishis 41:43 it does not, and importing the modern sense is
+  an anachronism. Where the pasuk is quoted, leave *avreich* and gloss it by the
+  reading the passage assumes.
+- Where *rach* appears with a person (Leah's eyes, David after Avner's death,
+  the pampered woman of Devarim 28:56), "soft," "tender," or "delicate" is the
+  safe rendering; reserve "royal" for a passage explicitly citing that reading.
+
+## Notes for a project
+
+None yet.
+
+## Sources
+
+Rabbi Reuven Chaim Klein, "Vayeshev: The Amazing Multi-Named Joseph," What's in
+a Word?, Ohr Somayach, 23 Kislev 5783 (2022-12-17): raw text in
+`sources/whats-in-a-word/raw/10750-vayeshev-the-amazing-multi-named-joseph.md`.
+Primary loci: Bereishis 29:17, 30:23-24, 41:43, 41:45, 49:9; Bamidbar 13:7;
+Devarim 28:56; Shmuel II 3:39; Tehillim 81:6; Divrei HaYamim I 25:9; Ezra 10:42;
+Nechemiah 12:14; Sotah 10b and 36b; Niddah 30b; Shabbos 53a; Menachos 38b; Bava
+Basra 4a; *Bereishis Rabbah* 90:3 and 90:4; *Sifrei Devarim* 1; Rambam,
+*Hilchos Klei HaMikdash* 9:9, with *Minchas Chinuch* 99; *Divrei Dovid* to
+Bereishis 41:43; *Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19; *Emunas Avraham*
+to Bereishis 29:17; the piyyut *Even Choger*. The article's Proto-Indo-European
+derivation of Latin *rex*, its list of European names built on that root, and
+its collection of proposed Egyptian translations of *Tzafnas Paneach* are
+omitted under house rule 9; the Gemara's own *reicha* (Bava Basra 4a) is kept,
+since Rashi's reading depends on it.

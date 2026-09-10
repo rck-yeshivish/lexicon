@@ -1,0 +1,134 @@
+---
+cluster: idols
+hebrew: [אלילים, פסל, מסכה, מצבה, עצבים, גלולים, תרפים, שקוצים, חמנים, אשרים]
+roots: [א-ל-ל, פ-ס-ל, נ-ס-כ, נ-צ-ב, ע-צ-ב, ג-ל-ל, ת-ר-פ, ש-ק-צ, ח-מ-מ, א-ש-ר]
+translit: [elilim, elil, pesel, pesilim, masechah, masecha, matzeivah, matzevah, matzeivos, atzabim, atzavim, gilulim, gillulim, terafim, teraphim, shikutzim, shikkutzim, sheketz, chamanim, asherim, asherah, chalulim, chalalim, megualim, glalim, ishur]
+english: [idols, graven image, molten image, pillar, images, dung-idols, abominations, sun-pillars]
+domain: ritual
+sources:
+  - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
+authorities: [Avos d'Rabbi Nosson, Malbim, Maharitatz, Rashi, Rabbeinu Nissim, Ritva, Ibn Ezra, Ramban, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh, Rabbeinu Shimshon of Shantz, Pirush HaRaavad, Rav Achai Gaon, Netziv]
+status: draft
+updated: 2026-09-09
+---
+# Idols: elilim / pesel / masechah / matzeivah / atzabim / gilulim / terafim / shikutzim / chamanim / asherim
+
+## Bottom line
+
+Ten words, and they are not interchangeable. Three name the manufacture: *pesel*
+is a **carved image**, *masechah* a **molten image**, *matzeivah* a **standing
+pillar**. Four are terms of contempt: *elilim* are **nothings** (or hollow
+things), *gilulim* **dung-idols**, *shikutzim* **abominations**, *terafim*
+**rotten things**. *Atzabim* are **images** made of parts, or the things that
+grieve their worshippers. *Chamanim* are **sun-pillars**, left standing in the
+sun. *Asherim* are the idols that depend on others to prop them up. The one
+thing not to get wrong: unlike the ten Names of Hashem, which name one Being,
+these ten name different things and different reproaches.
+
+## The framing
+
+*Avos d'Rabbi Nosson* ch. 34: as there are ten Names for Hashem, so there are
+ten words for idolatry. Malbim: the correspondence is deliberate, since Hashem
+set the forces of good and of evil in balance so that a person's choice would be
+genuinely free, which is the ground of all reward and punishment. Maharitatz
+(Rabbi Yom Tov Tzahalon) enters the caution that matters for translation: the
+ten Names all name One, but the ten words for idolatry name ten different sorts
+of idol worship and are not contextually interchangeable, even though Chazal saw
+in all of them a reproach to idolatry as such.
+
+## Distinctions
+
+### elilim (אלילים)
+Two lines of explanation. From *chalul*, hollow: Malbim, that idolaters pretend
+a holy spirit dwells within the idol when in truth it is hollow and empty; and
+the version of Rashi to Shabbos 149a cited by Rabbeinu Nissim and Ritva, that
+their existence was imagined in the empty cavity of their worshippers' hearts.
+The printed Rashi there instead links *elilim* to *chalalim*, corpses,
+lifeless things. Separately, Rashi (Vayikra 19:4; Yirmiyahu 14:14; Zechariah
+11:17; Iyov 13:4), Ibn Ezra (Vayikra 19:4), and Ramban (Iyov 13:4) derive *elil*
+from *al*, "not": the sheer nothingness of an idol's power.
+
+### pesel (פסל)
+From *pasul* / *nifsal*, disqualified: the idol is ruled out of the range of
+legitimate worship. (The same root gives carving, which is why *pesel* is the
+carved image.)
+
+### masechah (מסכה)
+From *nisuch*, pouring: Malbim and Rabbi Shlomo Pappenheim, metal idols formed
+by molten metal poured into a mold. Rabbi Eliyahu Benamozegh reads it instead
+from *sichah*, anointing, the consecration rite said to draw the deity's spirit
+into the image.
+
+### matzeivah (מצבה)
+From *nitzav*, standing: the single-stone altar, and by extension the idol that
+must stand where it is put and cannot move of itself.
+
+### atzabim (עצבים)
+Given in the article as literally "bones," idols being assembled from many parts
+as a body is from bones, where Hashem is not composed of parts at all. Malbim
+reads it from *atzuv*, grieved: they sadden those who serve them, because they
+never deliver what was expected.
+
+### gilulim (גלולים)
+From *megual*, defiled, and *glalim*, excrement. Rabbeinu Shimshon of Shantz and
+*Pirush HaRaavad* to *Toras Kohanim* make an important restriction: the disgust
+is not at the sin of idolatry but at the physical state of the idols themselves.
+Left out in the rain, wooden idols go moldy and metal ones rust; scorched by
+fire they turn filthy and repulsive. Malbim locates the disgust in the faces of
+the images, portrayed as insects, moles, and bats.
+
+### terafim (תרפים)
+From rotting: they go putrid.
+
+### shikutzim (שקוצים)
+From *sheketz*, an abomination; the plain sense is that they are abominable.
+
+### chamanim (חמנים)
+From *chamah*, the sun, because they are left standing outdoors in the sun. Rav
+Achai Gaon (*She'iltos*) gives a different reason: they die as animals do. The
+Netziv explains the connection: a person who dies is buried to cover his
+disgrace, while an animal's carcass is left in the open to rot in the sun's
+heat. Idols, once useless, are likewise left out rather than buried.
+
+### asherim (אשרים)
+From *ishur*, validation: an idol gets its endorsement only from others, having
+nothing praiseworthy of its own. Malbim narrows this to moon worship, since the
+ancients admitted that the moon has no light of its own and takes it from the
+sun, and worshipped it anyway. *Pirush HaRaavad* reads *asherim* from *yashar*,
+straightening: if the idol falls it cannot right itself and must be set up again
+by someone else.
+
+## Rendering guidance
+
+- Trap: English "idols" will absorb all ten. Where a pasuk stacks two or three
+  of them, translate each by its own reproach rather than by the category.
+- *Pesel* and *masechah* are a standing pair (*pesel umasechah*): "a carved
+  image and a molten image." They name two manufacturing methods, so do not
+  render either simply "idol."
+- *Elilim* is best rendered "nothings" or "worthless things" where the pasuk is
+  making the *al* point, and "hollow things" where the *chalul* reading is in
+  play. Say which reading you are following if the passage turns on it.
+- *Gilulim*: "dung-idols" is harsh, and it is meant to be. Note the Raavad and
+  Rabbeinu Shimshon restriction, that the contempt is at the object's filthy
+  condition, before importing moral disgust into a passage that is describing
+  mold and rust.
+- *Matzeivah* is not always pejorative in Tanach (Yaakov sets one up); reserve
+  the idolatrous rendering "pillar" for where the context makes it so.
+- *Asherah* in Tanach is usually a cultic tree or post rather than an abstract
+  "validation"; the *ishur* and *yashar* readings above are homiletic
+  derivations of the name, not a license to translate the word that way.
+
+## Notes for a project
+
+None yet.
+
+## Sources
+
+Rabbi Reuven Chaim Klein, "Top Ten Words for Idols," What's in a Word?, Ohr
+Somayach, 23 Adar II 5779 (2019-03-30):
+https://articles.ohr.edu/articles/top-ten-words-for-idols; raw text in
+`sources/whats-in-a-word/raw/8198-top-ten-words-for-idols.md`. Primary loci
+cited: *Avos d'Rabbi Nosson* ch. 34; Vayikra 19:4; Yirmiyahu 14:14; Zechariah
+11:17; Iyov 13:4; Shabbos 149a with Rabbeinu Nissim and Ritva; Rabbeinu Shimshon
+of Shantz and *Pirush HaRaavad* to *Toras Kohanim*; *She'iltos d'Rav Achai
+Gaon*; Malbim; Rabbi Shlomo Pappenheim; Maharitatz.

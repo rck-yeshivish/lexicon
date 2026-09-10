@@ -1,0 +1,60 @@
+---
+id: 9275
+slug: flour-power
+title: "Flour Power"
+date: 2021-07-03
+hebrew_date: "For the week ending 3 July 2021 / 23 Tammuz 5781"
+url: https://articles.ohr.edu/articles/flour-power
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Flour Power
+
+Of the 52 times that the word *solet * appears in the Bible, more than half of those are in the Book of Numbers, mostly clustered in Nasso and Pinchas. Whenever the Torah discusses meal-offerings, it always refers to the cereal grains used in those offerings as *solet *— except for when discussing the *Omer* offering (Lev. 23:10–11) and the*Sotah* offering (Num. 5:15). In the latter case, instead of the word *solet*, the Torah uses the word *kemach*. This essay seeks to explore the difference between the terms *solet * and *kemach* in an attempt to better understand how they are not actual synonyms.
+
+
+
+ What the*Omer* and *Sotah* offerings have in common is that both are brought from barley, while all other meal-offerings are brought from wheat. Grounded in this fact, Rashi (to Lev. 2:1) and Rashbam (to Gen. 18:6) assert that the word *solet * always implies “wheat flour,” thus accounting for this word’s absence from the *Omer* and *Sotah * offerings, which are not brought of wheat. Nevertheless, Rabbi Shlomo Pappenheim (1740-1814) points out that the Bible (Ex. 29:2) once uses the term *solet-chitim *(“*solet* of wheat”), which implies that the word *solet * on its own does not necessarily imply a wheat product. Either way, when the *Sotah* offering is explicitly said to come from *kemach*, this implies a different type or grade of “flour” than *solet * does, as opposed to a different species of grain. But what exactly does *kemach* actually mean?
+
+
+
+ Donash Ibn Labrat (920-990) writes in one of his diatribes against Menachem Ibn Saruk (920-970) that one can look to Arabic to understand the meaning of words in Hebrew. He cites several examples where Arabic can be helpful for understanding the meanings of Hebrew words, one of which is the Hebrew word *kemach*, which appears fourteen times in the Bible. The ostensible Arabic cognate to the Hebrew *kemach * means “wheat.” However, an anonymous student of Menachem defends his teacher by noting that *kemach* in Arabic means “wheat” in general, while *kemach* in Hebrew specifically refers to wheat that has been ground (i.e. “flour”), but not *all* wheat. That said, Donash’s student Ibn Sheshet concedes that in the case of the *Sotah’s* meal-offering, where the Torah uses the phrase *kemach-seorim* (“*kemach * of barley”), the word *kemach * cannot possibly mean “wheat” like it does in Arabic.
+
+
+
+ The Mishna (*Menachot* 6:7) teaches that the sifting process to yield the finest *solet * for various meal-offerings involved sifting the flour multiple times (see Rashi to *Menachot* 76b). However, Rabbi Samson Raphael Hirsch (to Gen. 18:6) clarifies that the difference between *kemach * and *solet * is not in how fine or coarse the flour is per se. Rather, the core difference between *kemach * and *solet * is the same thing as the difference between “whole wheat flour” and “white flour.” White flour consists of only the endosperm of the wheat kernel, making sure that the bran and wheat germ are separated from the wheat berry. Thus, *kemach * refers to whole wheat flour, which includes the husks and fibers, while *solet * refers to flour made exclusively from the endosperm. Depending on how well it is ground up, *kemach * could mean “fine flour,” even if within its granules are such impurities as the husks/bran and other fibers (see Rashi to *Ketuvot* 112b). Like Rashi (to *Sotah* 14a) points out, “everything” is mixed into *kemach*.
+
+
+
+ Accordingly, *solet * refers to white flour, which is typically lighter and less coarse than *kemach* because it is free from heavier particles such as bran. Rabbi Yaakov Tzvi Mecklenburg (1785-1865) similarly writes that *kemach* denotes adulterated “flour” that includes all sorts of subpar materials, while *solet * refers to a purer “flour.” The latter type of flour was often sifted time and again, such that only the finest flour was left. Rashi (to *Taanit* 9b) explains that first the finer white flour would pass through the sifter, and only afterwards would the coarser whole-wheat flour pass through (see also *Tosafot* there). The Mishna (*Avot* 5:15) alludes to this process by saying,”A sifter filters out the *kemach* and keeps only the *solet.*”
+
+
+
+ Rashi (to *Bava Metzia* 87a) writes that *solet * is “better” than *kemach*. Similarly, the Talmud uses the expression “He doesn’t care about his *kemach*” (*Yevamot* 42b, *Pesachim* 84a, *Sukkah* 54a) to criticize a person who is not careful to speak precisely. As Rashi explains, such a person disregards the quality of his speech, as if he is grinding *kemach *(as opposed to *solet*). The Talmud (*Kiddushin* 69b) says that before Ezra left Babylonia for the Holy Land, he ensured that the Jews who remained in Babylonia were of impeccable lineage, such that the Jewish community there was considered like “pure *solet*” vis-à-vis the “mixed dough” that was the Jewish community in the Holy Land.
+
+
+
+ Even though *kemach * and *solet * mean two very different types of “flour,” there is one instance in the Bible where both words are used together: When Abraham greeted the three angels who came to visit him, he told his wife Sarah to make *kemach-solet* into cakes for them (Gen. 18:6). Given the different connotations of these two words, the Talmud (*Bava Metzia* 87a) is bothered by this verse using both words together. To resolve this difficulty, the Talmud posits that Abraham was more generous than his wife Sarah and offered the guests higher quality cake (made from *solet*), while Sarah was stingier than him and instead wanted to serve a *kemach*-product. (However, Radak to Gen. 18:6 explains *kemach-solet* as *kemach* in order to make *solet*.)
+
+
+
+ Rabbi Yehudah Aryeh of Carpentras writes in *Ohalei Yehuda* that the word *kemach * is derived from a combination of the roots KUF-MEM-HEY (“standing,” “erect”) and MEM-CHET-HEY (“erasure,” “destruction”), as the grinding process takes the once-proud stalk of wheat that stood erect in the field and cuts it down to size to produce flour. Indeed, the word *kamah *(Ex. 22:5, *Peah* 2:7, 4:7, 5:2, *Menachot* 10:9) denotes uncut grain that “stands” in the field. Alternatively, he explains the word *kemach* as derived directly from the root YOD-MEM-CHET (“erasure,” “destruction”), based on the interchangeability of the letters KUF and YOD.
+
+
+
+ Interestingly, the word *kemach * seems to lend itself to two well known names: First, the Babylonian Talmud (*Yoma* 47a) tells of a pious woman named Kimchit who merited that each of her seven sons would function as a Kohen Gadol because she was careful to always cover her hair — even inside her house. In lauding the high quality of Kimchit’s offspring, the Rabbis said: “All *kemach* yields [naught but] *kemach*, but Kimchit’s *kemach* is *solet*” (Jerusalem Talmud *Yoma* 1:1 and *Bamidbar Rabbah *2:26). Just as wheat yields flour, likewise, people yield offspring. In this sense, *kemach* serves as a metaphor for one’s subpar descendants, while *solet * refers to the cream of the crop.
+
+
+
+ Second, the name of the illustrious Kimchi family, famous for producing such great Hebrew grammarians as Rabbi Yosef Kimchi (1105-1170) and his two sons Rabbi David Kimchi (1160-1235) and Rabbi Moshe Kimchi (1120-1190), seems to be derived from the word *kemach*. Some have suggested pronouncing the surname of this famed family as Kamchi instead of Kimchi. However, the more popular pronunciation is certainly Kimchi, and Rabbi Immanuel Frances (1618-1703) even rhymes this family name with the Hebrew word *simchi* ("my happiness"), thus ostensibly attesting to the accuracy of the Kimchi pronunciation.
+
+
+
+ Rabbi Pappenheim traces the word *solet * to the biliteral root SAMECH-LAMMED, which refers to “repeated actions.” For example, *mesilah *(“road”) refers to a well-travelled path, upon which many have trodden. Similarly, one who constantly twists and twirls one’s hair is said to be *misalsel *(*Rosh Hashanah* 26b), because he repeatedly does the same action. In that spirit, Rabbi Pappenheim explains that *sal * refers specifically to a “bread basket” (see Gen. 40:16, Lev. 8:2), because it is an item constantly in use every single day. Accordingly, he proposes that *solet* refers to flour that is considered so valuable and treasured that it is not dumped into a sack or a bag like the less precious *kemach*, but is instead stored in a more dignified *sal*. Alternatively, he explains that the word *solet * invokes the repeated pressing, grinding and crushing necessary to produce high-quality flour.
+
+
+
+ Rashi (to *Menachot* 27a) notes that the term *geres *(Lev. 2:14) said about “barley flour” means the same thing as the term *solet * in the context of “wheat flour.” The same is implied by Ibn Janach, who actually uses the word *solet * to define *geres*. All the early lexicographers like Menachem, Ibn Janach, and Radak understand that the roots GIMMEL-REISH-SIN and GIMMEL-REISH-SAMECH are one and the same, with the shared meaning of “breaking/grinding.”
+
+
+
+ Interestingly, Rashi (to *Shabbat* 110b, *Pesachim* 74b, *Taanit* 24b, *Gittin* 56a) defines the Aramaic word *semida* as *solet* (although, see the Targum, often attributed to Rabbi Yonatan ben Uziel, to Gen. 18:6, which renders *kemach * as *semida*, and *solet* as *solta*). Similarly, Ibn Ezra (to Lev. 2:1) writes that *solet * refers to “white flour,” which is known in Arabic and Aramaic as *semida*. This Aramaic/Arabic word is the etymological ancestor of the English word *semolina* (via the Greek word *semidalis¸ * and the interchangeability of DALET and LAMMED).

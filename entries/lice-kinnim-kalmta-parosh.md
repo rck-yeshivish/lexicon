@@ -1,0 +1,154 @@
+---
+cluster: lice
+hebrew: [כנים, כנם, כנה, כן, קלמתא, כלמי, פרעש]
+roots: [כ-נ, כ-נ-ם, ק-ל-ם, פ-ר-ע-ש]
+translit: [kinnim, kinim, kinam, kinah, kein, ken, kalmta, kalmei, kalmi, parosh, paros, kinui, kan, kavanah, hachanah]
+english: [lice, louse, flea, nit]
+domain: nature
+words:
+  - he: כנים
+    tr: kinnim
+    en: lice
+    distinct: the plural, "many lice"; the classical lexicographers (Ibn Janach, Rashbam, Ibn Ezra, Ibn Parchon) hold the mem is not part of the root, which is the biliteral כ-נ
+  - he: כנם
+    tr: kinam
+    en: the lice, as a species
+    distinct: a singular form naming the whole species of lice rather than individuals (Ibn Janach, Rashbam, Ibn Ezra, Ibn Parchon), used twice in the makkah account (Shemos 8:13 to 14)
+  - he: כנה
+    tr: kinah
+    en: a louse
+    distinct: the singular, absent from Tanach but standard in Mishnah and Gemara (*Parah* 9:2, Shabbos 12b); at *Parah* 9:2 it is a *kinah* of the grain, a field pest
+  - he: קלמתא
+    tr: kalmta
+    en: lice (Aramaic)
+    distinct: the Targum's word for kinnim (Onkelos and Targum Yonasan to Shemos 8:12 to 14); the Gemara's form is kalmei (Berachos 51b, Niddah 20b), which Rashi identifies with it
+  - he: פרעש
+    tr: parosh
+    en: flea
+    distinct: not a louse but a black, jumping kinah (*Metzudas Tziyon* to Shmuel I 24:14), the creature David compares himself to before Shaul
+sources:
+  - wiaw:11666 "VaEra: Lice Ain't Nice" (2025-01-25) https://articles.ohr.edu/articles/vaera-lice-aint-nice
+authorities: [Ibn Janach, Menachem Ibn Saruk, Ibn Parchon, Radak, Rashbam, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Targum Onkelos, Targum Yonasan, Rashi, Metzudas Tziyon, Malbim, Rabbi Dovid Tzvi Hoffmann, Tosafos, Tosafos HaRosh, Sefer HeAruch]
+status: draft
+updated: 2026-09-10
+---
+# Lice: kinnim / kinam / kinah (kalmta, parosh)
+
+## Bottom line
+
+*Kinnim* is **lice**, the plural; *kinam* is the same creature named as a
+**species**; *kinah* is a single **louse**, a word of the Mishnah and Gemara
+rather than of Tanach. The Aramaic is *kalmta*, and in the Gemara *kalmei*. A
+*parosh* is not a louse at all but a **flea**. The trap is treating *kein* in
+Yeshayahu 51:6 and Bamidbar 13:33 as "louse" without saying so; the standard
+reading there is "so, likewise", and the louse reading is Malbim's.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כנים | kinnim | lice | plural, many individual lice (Ibn Janach, Rashbam, Ibn Ezra) |
+| כנם | kinam | the lice | the species as a whole, not a count (the same lexicographers) |
+| כנה | kinah | a louse | the singular, Mishnaic and Talmudic only; at *Parah* 9:2, a grain pest |
+| קלמתא | kalmta | lice (Aramaic) | the Targum's rendering; the Gemara's *kalmei* is the same word (Rashi to Berachos 51b) |
+| פרעש | parosh | flea | jumps and is black (*Metzudas Tziyon*); a distinct creature |
+
+## Where the authorities disagree
+
+**Where kinnim comes from.** Both readings run through Pappenheim's biliteral
+כ-נ, whose core sense he gives as "base", the root of *kein* and *nachon* (a
+claim resting on a valid basis), *tochnis* and *hachanah* (the groundwork of
+any undertaking), *kohen* (who sees to the preparations for the *avodah*),
+*kavanah*, and *kan*, a stand or base on which a thing rests.
+
+1. **From kinui, an epithet.** Rabbi Shlomo Pappenheim (*Cheshek Shlomo*): a
+   *kinui* is a linguistic base for referring to something without saying its
+   name, and lice are so repellent that people would not give them a proper
+   word, naming them obliquely instead.
+2. **From kan, a base.** Rav Hirsch (to Shemos 8:12), more simply: a *kan* is
+   what a thing rests on and is secondary to it, and lice are parasites resting
+   on a host's body or hair, secondary to him.
+
+Hirsch's is the plainer reading and needs no assumption about naming taboos.
+
+**Whether the mem is part of the root.** Ibn Janach (*Sefer HaShorashim*),
+Rashbam, Ibn Ezra (to Shemos 8:12), and Ibn Parchon (*Machberes HeAruch*) all
+take pains to say it is not: the root is the biliteral כ-נ, *kinnim* is the
+plural, *kinam* the species. Ibn Saruk and Radak likewise trace the word to
+כ-נ. Rabbi Reuven Chaim Klein suggests against them that the Aramaic *kalmei*
+corresponds to a Hebrew כ-נ-ם, which would make the mem a radical and make
+*kinam* a distinct word from *kinnim* rather than a form of it. The classical
+view is the one to follow; the suggestion is worth knowing where a passage
+turns on why the Torah alternates the two forms.
+
+**Whether kein ever means "louse".** Yeshayahu 51:6, "and its inhabitants will
+die *kein*", and Bamidbar 13:33, "and so were we *kein* in their eyes". Targum
+Yonasan and the classical reading: "likewise", "so". Malbim (to both places)
+and Rabbi Dovid Tzvi Hoffmann (to Shemos 8:12) read *kein* as "louse": the
+earth's inhabitants will die like lice, and the *meraglim* felt themselves as
+grasshoppers in their own eyes and as lice in the giants' eyes. The louse
+reading is a *chiddush*; keep "likewise" in the text and Malbim in a note.
+
+## Distinctions
+
+### kinnim (כנים) and kinam (כנם)
+Six undisputed occurrences: five in Shemos 8:12 to 14, once in Tehillim 105:31.
+Two of the five (Shemos 8:13 to 14) are vocalized *kinam*. The Torah's
+consistency in keeping the mem is exactly what prompted the *rishonim* to note
+that it is not a radical.
+
+### kinah (כנה)
+Not in Tanach. Once in the Mishnah (*Parah* 9:2), and repeatedly in the Gemara
+(Shabbos 12b, 107b; Chullin 105b; Eruvin 65a; Chagigah 5a; Bava Metzia 107b;
+Zevachim 19a). The Mishnah's instance is a *kinah* of the grain, which is a
+field pest rather than a body louse, a usage worth remembering before rendering
+the word.
+
+### kalmta (קלמתא) and kalmei (כלמי)
+Targum Onkelos and Targum Yonasan render *kinnim* and *kinam* as *kalmta* (so too
+the Targum to Tehillim 105:31), spelled with a kuf in our editions. The Gemara's
+form is spelled with a kaf: "from rags come *kalmei*" (Berachos 51b), where Rashi
+explains *kalmei* as *kinnim* and identifies the word with the Targum's *kalmta*;
+and at Niddah 20b, where Rava sent Ifra Hormiz a lice-comb to hint that the blood
+she asked about was the blood of crushed lice. The *Aruch* is itself inconsistent
+about the kuf and the kaf.
+
+### parosh (פרעש)
+David tells Shaul it is beneath a king to pursue him, comparing himself to a
+*parosh* (Shmuel I 24:14, 26:20). *Metzudas Tziyon* (to 24:14): a black *kinah*
+that jumps, which is a flea. Ibn Saruk, Ibn Janach, and Radak treat the root as
+the four-letter פ-ר-ע-ש; Rav Hirsch (to Bereishis 25:6) counts it among
+four-letter roots that are really three-letter roots with a shin added. On how a
+*parosh* differs from a *kinah*, see Tosafos and *Tosafos HaRosh* to Shabbos 12a.
+
+## Rendering guidance
+
+- The makkah is "lice". Where the Torah writes *kinam*, "the lice" or "the
+  vermin" reads better than "a louse"; the form is collective, not singular.
+- Trap: English "lice" will take in *kinnim*, *kinah*, *kalmta*, and *parosh*
+  together. Keep "flea" for *parosh*; when David's line becomes "a single
+  louse" the image of a jumping, uncatchable creature is lost.
+- *Kein* in Bamidbar 13:33 stays "so" or "likewise" in the body. If Malbim's
+  reading is being taught, give it as his and keep it out of the pasuk itself.
+- In a Gemara passage, translate *kalmei* as "lice" and note that it is the
+  Targum's word; do not invent a distinct English creature for it.
+
+## Notes for a project
+
+None yet.
+
+## Sources
+
+Rabbi Reuven Chaim Klein, "VaEra: Lice Ain't Nice," What's in a Word?, Ohr
+Somayach, 25 Teves 5785 (2025-01-25): raw text in
+`sources/whats-in-a-word/raw/11666-vaera-lice-aint-nice.md`. Primary loci cited:
+Shemos 8:12 to 14 with Rashbam, Ibn Ezra, and Rav Hirsch; Tehillim 105:31;
+Bamidbar 13:33 with Malbim; Yeshayahu 51:6 with Targum Yonasan and Malbim, and
+19:6, 33:9 for the separate root meaning withering; Shmuel I 24:14 with
+*Metzudas Tziyon*, and 26:20; Bereishis 25:6 with Rav Hirsch; Ezra 2:3, 8:3,
+10:25; Nechemiah 3:25, 7:8, 10:15; *Parah* 9:2; Shabbos 12a with Tosafos and
+*Tosafos HaRosh*, 12b, 107b; Berachos 51b with Rashi; Niddah 20b; Chullin 105b;
+Eruvin 65a; Chagigah 5a; Bava Metzia 107b; Zevachim 19a; *Sefer HeAruch*;
+Pappenheim, *Cheshek Shlomo*. The comparative-Semitic and archaeological material
+and the non-traditional scholars who first read *kein* as "louse" are omitted
+under house rule 9.

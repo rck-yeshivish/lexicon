@@ -1,0 +1,99 @@
+---
+cluster: foot
+hebrew: [פעם, רגל, פעמון, פעמותיו]
+roots: [פ-ע, פ-ע-ם, ר-ג-ל]
+translit: [paam, paamim, peamim, paamosav, paamotav, paamon, poem, regel, raglayim, regalim, shalosh regalim, shalosh peamim, efeh]
+english: [foot, step, corner, time, instance, pilgrimage festival]
+domain: body
+sources:
+  - wiaw:7828 "Foot Festivals" (2018-06-30) https://articles.ohr.edu/articles/foot-festivals
+authorities: [Malbim, Rabbi Shlomo Pappenheim, Targum Onkelos, Rashi, Ibn Ezra, Ramban, Rabbi Shmuel Dovid Walkin]
+status: draft
+updated: 2026-09-09
+---
+# Foot: paam / regel
+
+## Bottom line
+
+Both words mean **foot** and both can mean **time, instance**. *Regel* is the
+plain foot, the limb; *paam* is the foot as it strikes the ground, so its
+primary sense is **step** and, by extension, **corner** (the low corner of a
+thing) and **each occurrence**. *Shalosh regalim* and *shalosh peamim* both
+render "three times." The trap: *regel* in the sense of "time" occurs in Tanach
+only twice, in Bilaam's donkey (Bamidbar 22:28, 32) and in the three festivals
+(Shemos 23:14); everywhere else it is the limb, and a translator should not
+reach for "time" without one of those two contexts.
+
+## Distinctions
+
+### paam (פעם)
+Malbim: the core sense is **corner**, close to *peah*. The four *paamosav* at
+the bottom of the Aron (Shemos 25:12) are its four corners, and a man's feet are
+called *paam* because they sit at his lower corner. On this reading *paam* and
+*regel* overlap outright, which is what makes the doublet in Yeshayahu 26:6
+work: *raglei ani, paamei dalim*, the feet of the poor, the feet of the
+destitute.
+
+Rabbi Shlomo Pappenheim derives *paam* from the biliteral פ-ע, whose words all
+denote steady, repeated motion or sound: *efeh*, the cry of a woman in labor
+(Yeshayahu 42:14) and the rattle of a snake; *po'em*, the regular beat (Bereishis
+41:8); *paamon*, a bell, named for the clapper's repeated strike. A foot earns
+the name from its metronomic tread, so a *paam* is one contact of the foot with
+the ground, that is, a step; and from there, one occurrence of anything at all.
+
+Rabbi Shmuel Dovid Walkin: "foot" is the borrowed sense of *paam*; "step" is
+primary. That is why the Aron has *paamosav*, feet: even the holiest object in
+the Mishkan is not meant to stand still. A Jew is likewise never to stagnate in
+his learning but to keep climbing. He contrasts the malachim, who have a single
+*regel* (Yechezkel 1:7), fixed in the form they were created in, with no bechirah
+and so no growth; man has *paamim*, feet that move, because he must meet
+changing situations and choose rightly each time. Bilaam did not, and so the
+word *paam* is withheld from him.
+
+### regel (רגל)
+The ordinary word for foot, and the one used for Bilaam's foot crushed against
+the wall (Bamidbar 22:25). Its extension to "time" is narrow: the donkey's
+*shalosh regalim* and the *shalosh regalim* of Pesach, Shavuos, and Succos
+(Shemos 23:14), where all able men present themselves before Hashem in the Beis
+HaMikdash. There the two senses fuse, since the olei regel came up to Yerushalayim
+on foot; and the tradition applies to those pilgrimages the pasuk *mah yafu
+pe'amayich ba'ne'alim, bas nadiv*, how lovely are your footsteps in sandals,
+daughter of nobles (Shir HaShirim 7:2).
+
+### the paamos of the Aron
+Targum Onkelos and Rashi (to Shemos 25:12): the four *paamos* are the Aron's
+four corners. Ibn Ezra disagrees and reads them as four feet attached
+underneath; see Ramban there.
+
+## Rendering guidance
+
+- *Regel*: "foot." *Paam*: "step" as a movement, "time" or "instance" as a
+  count, "corner" only where the sense is a low corner of an object.
+- Trap: English "time" absorbs both *paam* and *regel* in the counting sense,
+  and English "foot" absorbs both in the bodily sense, so a passage that plays
+  the two words against each other (Yeshayahu 26:6; the donkey saying *shalosh
+  regalim* where *shalosh peamim* was expected) will read flat. Where the point
+  is the choice of word, keep the Hebrew and gloss it.
+- *Shalosh regalim* as the festivals: render "the three festivals" or keep
+  *shalosh regalim* transliterated; "the three times" is right for Bamidbar
+  22:28 and 32 and wrong for Shemos 23:14, even though the phrase is identical.
+- Where a derashah rests on *paam* meaning movement rather than a limb (Rabbi
+  Walkin on the Aron), do not translate *paamosav* as "its corners"; that reading
+  needs "its feet," and the disagreement between Rashi and Ibn Ezra should be
+  noted rather than silently decided.
+- Yechezkel 1:7: *regel yesharah*, the single straight foot of the malachim. Do
+  not import "step" there; the whole force of the contrast is that they do not
+  move.
+
+## Notes for a project
+
+None yet.
+
+## Sources
+
+Rabbi Reuven Chaim Klein, "Foot Festivals," What's in a Word?, Ohr Somayach,
+17 Tammuz 5778 (2018-06-30): raw text in
+`sources/whats-in-a-word/raw/7828-foot-festivals.md`. Primary loci: Bamidbar
+22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8;
+Yechezkel 1:7; Shir HaShirim 7:2; Targum Onkelos, Rashi, Ibn Ezra, and Ramban to
+Shemos 25:12.

@@ -1,0 +1,92 @@
+---
+id: 10897
+slug: shemini-types-of-species
+title: "Shemini: Types of Species"
+date: 2023-04-15
+hebrew_date: "For the week ending 15 April 2023 / 24 Nisan 5783"
+url: https://articles.ohr.edu/articles/shemini-types-of-species
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Shemini: Types of Species
+
+The word *min *(“species/types”) appears thirty times in the Pentateuch, with a plurality of those appearances concentrated in *Parashat Shemini*. More specifically, the word *min * is used to denote that non-Kosher birds include the ones listed explicitly “and their *min*” (Lev. 11:14–19, Deut. 14:13–18), and conversely Kosher grasshoppers include the ones listed explicitly “and their *min*” (Lev. 11:22). Similarly, impure insects include frogs “and their *min*” (Lev. 11:29). The word *min * also appears in *Parashat Bereishit*, when detailing how Hashem created various “types” of plants (Gen. 1:11–12), animals (Gen. 1:24–25), and creeping bugs (Gen. 1:21, 1:25). It then appears again in *Parashat Noach*, when Noah brings various *minim* into his ark (Gen. 6–7). Outside of the Pentateuch, *min * only appears one more time in the entire Bible (Ezek. 47:10). In this essay, we discuss the etymology of *min * and other words related to it, and explore how *min * relates to its apparent synonyms *zan * and *sug*.
+
+
+
+ As Ibn Janach and Radak (in their respective *Sefer HaShorashim*) explain it, a *min * refers to a grouping of similar individuals that share certain characteristics/properties. Because of those similarities, they are said to be of one kind and can thus be categorized into one class. In Modern Hebrew, the word *min* refers to gender/sex, because it creates two easily-definable categories (male and female) to which any given individual might belong.
+
+
+
+ Interestingly, Ibn Janach adds that the word *man *(“manna”) is derived from *min * because it referred to a “type” of food that the Jews were unable to categorize, as it says: "And Children of Israel saw [the manna], and they said each man to his fellow, 'it is *man*,' for they did not know what it is" (Ex. 16:15).
+
+
+
+ Rabbi Shmuel David Luzzatto (1800–1865), also known as Shadal, writes (to Ex. 20:4) that the word *temunah *(“image/picture”) comes from the root MEM-(VAV)-NUN, which he sees as related to its Arabic cognate *mana *("lie/false"). Because of this, Shadal explains that *temunah* refers to a picture that pretends to mimic something else, but cannot be a perfect representation of it. Taking this a step further, Shadal notes that *min *("species") refers to a group of things that all appear similar enough to each other, but are not exactly the same, so that, in a way, it is something of a “falsehood” to group those things together.
+
+
+
+ Interestingly, Shadal compares his understanding of the etymology of *min * to the Latin/English word *species*, because that word relates to the concept of “seeing,” which was borrowed to refer to things that "appear" similar enough that they can be taxonomically categorized together. It is derived from the Proto-Indo-European root *spek*- which is the ultimate ancestor of many English words (like *spectacle, spectator, special, speculate, aspect, inspect, respect, suspect, despicable, scope, * and *telescope*).
+
+
+
+ Shadal also explains that *min* in the sense of “heretic” also relates to this sense of the word because each heretic has a slightly different belief system than the other, but in general they can all fall into one category. Rabbi Eliyahu HaBachur (1469–1549) in *Sefer HaTishbi* takes a different approach, associating the word *min * in this sense with the pagan deity Meni/Manes (Isa. 65:11). [For more about that idolatrous god, see my book[*God versus Gods: Judaism in the Age of Idolatry*](https://amzn.to/36a05Kt)(Mosaica Press, 2018).]
+
+
+
+ Rabbi Shlomo Pappenheim (1740–1814) explains that the essential meaning of the biliteral root MEM-NUN is “creating order out of causes and effects.” One group of words derived from that core root is headlined by the term *moneh/minyan *(“count”), which seeks to create mathematical order by quantifying a set of givens. Rabbi Pappenheim adds that the word *min * is a derivative of this, because it too seeks to determine what ought to be grouped in one grouping and what ought to be excluded. Colloquially-speaking, when classifying things that either fit or do not fit into a given category, we might consider what “counts” and what does not “count.”
+
+
+
+ Like Shadal, Rabbi Pappenheim also connects the word *temunah * to *min*, arguing that a *temunah * is a relatively-vague pictorial representation that might reflect a certain species, but is not necessarily the spitting image of a specific individual within that species. For example, somebody might draw a picture of a cow or a person, and you can recognize that the picture is showing a cow or person in general, but you cannot say which specific cow or person is being shown in the picture (see also Rabbi Hirsch to Ex. 20:4 who differentiates between *pesel* and *temunah*).
+
+
+
+ One of the final verses of Psalms describes praising Hashem with musical instrument like “*minnim* and pipes” (Ps. 150:4). This is the only place that the instrument *minim * appears in the Bible, possibly making it a *hapax legomenon*. Rabbi Saadia Gaon (892–942) already explained the word *minnim * in this context as meaning the same thing as *minim *(the plural of *min*), seemingly interpreting the word as a reference to an ensemble of various “types” of musical instruments that create one unified sound (see also Ibn Ezra in *Sefat Yeter *§95, to Ps. 150:4, and to Dan. 3:5). Or, as Rabbi Pappenheim prefers to explain it, *minnim* is a certain type of musical instrument that somehow incorporates elements of all different “types” of instruments (percussion, string, and wind).
+
+
+
+ On the other hand, Donash Ibn Labrat (920–990) disagrees with Rabbi Saadia Gaon, arguing that the *dagesh* in the letter NUN of *minnim* sets that word apart from *minim*. Instead, he explains *minnim* as the name of a specific musical instrument and thus unrelated to *min*. This seems to be the approach favored by *Machberet Menachem* (entry on MUM-NUN), Ibn Janach (in his *Sefer HaShorashim*), Radak (in his *Sefer HaShorashim*), and Rashi (to Ps. 150:4). Rabbi Yehoshua (Jeremy) Steinberg of the Veromemanu Foundation proposes that the word *minnim* reflects a metathesized form of the word *nimim* ("hairs/strings") and thus refers specifically to a stringed-instrument. [For more about the word *nima * and other Hebrew/Aramaic words for “hair,” see “[All about Hair](https://ohr.edu/this_week/whats_in_a_word/8889)” (June 2020).]
+
+
+
+ It should be noted that the ancient ways of categorizing things like flora and fauna do not necessarily line up with the taxonomical methods of botanists and zoologists used nowadays. The Torah’s perspective might group things together using different criteria from what scientists use. To illustrate this idea, let’s think of Noah’s Ark. The Torah reports that Noah took with him all different *minim* of animals and birds, yet we know the precise dimensions of that vessel and it could not possibly fit all the different known species in such a small space. Nachmanides (Gen. 6:19) first addresses this question and resolves it by positing that a miracle had occurred that allowed Noah’s Ark to house specimens from all those species. However, Rabbeinu Nissim of Gerona (in his commentary to Gen. 6:14) offers a different answer: When the Torah refers to these various *minim*, they do not correspond to the different species that we know about nowadays, but rather refer to the evolutionary ancestors of all the different species from before their special differentiation. This means there were a lot less *minim* on the ark than you might have otherwise thought.
+
+
+
+ The word *zan * appears three times in the Hebrew parts of the Bible (twice in Ps. 144:13 and once in II Chron. 16:14) and four times in the Aramaic parts of the Bible (Dan. 3:5, 3:7, 3:10, 3:15). For example, the Aramaic phrase *zenei zemara* (Dan. 3:5) is explicated by Rashi as *mini zemer* — "types of song/music." Moreover, as Rabbi Eliyahu HaBachur details in *Meturgaman*, every time the word *min * appears in the Bible, Targum renders that word in Aramaic as *zan*. While the Aramaic word *zan * clearly means “type” or “sort,” the meaning of the Hebrew word *zan * is more debatable.
+
+
+
+ The Psalmist praises Hashem for insuring that "our storage-houses are full, producing from *zan* to *zan*" (Ps. 144:13). In that context, Rabbi Samson Raphael Hirsch (to Ps. 144:13) seems unsure as to whether the Hebrew *zan* is related to the Hebrew word *mazon* (“sustenance”) and refers to types of “nutritional” foods (like Menachem and Rashi explain), or to the Aramaic *zan* and refers more broadly to “types” of food (like Ibn Janach explains). Radak in *Sefer HaShorashim* (s.v. זון) takes the first approach, but elsewhere (there s.v., פוקand in his commentary to Ps. 144:13) takes the second approach.
+
+
+
+ The other time that the Hebrew *zan * appears in the Bible, it refers to “spices and *znim*” burnt in honor of the death of King Asa (II Chron. 16:14), *Machberet Menachem* writes that *znim * here refers to a specific kind “spice/fragrance” (but does not mean “type”). This approach is also adopted by pseudo-Rashi (to II Chron. 16:14) and Ralbag (there). However, Ibn Janach (in *Sefer HaShorashim*) and Radak (to II Chron. 16:14) explain that *znim * refers to “types” of incense burnt in the dead king’s honor. Thus, all three times that the Hebrew word *zan * appears in the Bible, the exegetes debate whether it means the same thing as the Aramaic word *zan. *
+
+
+
+ As is his way, Rabbi Pappenheim tries as much as possible to ignore Aramaic meanings of words and present uniquely Hebraic explanations. In line with that, he ignores the possibility of a Hebrew word *zan* that means the same thing as the Aramaic term. Instead, he chooses to explain that both Hebrew forms of *zan* derive from the biliteral root ZAYIN-NUN ("sustenance and fulfillment of needs"). In doing so, he explains the first *zan * as related to *mazon, * and the second *zan * as related to the word *zenut *(“promiscuity/sexual desire,” a vice that comes from overindulging and consuming too much sustenance) in the sense that it referred to a type of spice that served as an aphrodisiac (see *Bava Kama* 16b).
+
+
+
+ Assuming that *zan * and *min * actual do mean the same thing, we may argue that they are not quite synonymous simply because they come from different languages. Based on the distribution of where in the Bible the words *zan * and *min * appear*, * Professor Avi Hurvitz argues that *zan * is simply the Late Biblical Hebrew equivalent to the Classical Biblical Hebrew term *min. * Dr. Menachem Zvi Kaddari (1925–2011) in his dictionary of Biblical Hebrew proposes that *zan * is actually a loanword from the Old Persian *zana,* which means “type/class.”
+
+
+
+ The term *sug* does not appear in the Bible in the sense of “type,” “category,” or “species.” Rather, it is a later neologism that took on that meaning. In the Mishnah, the word *sug * appears twice in the sense of a “big container.” In one case, the Mishnah rules that if one bought a large quantity of produce from a wholesaler, one may not take off tithes from one segment of the produce in order to exempt the entire load, even if all the produce was sold in one *sug * and even if all the produce was of one *min* (*Demai* 5:6). In another Mishnah, the *sug * is listed among other vessels that are susceptible to ritual impurity (*Keilim* 16:3).
+
+
+
+ Perhaps we may understand the word *sug * in the sense of “type” as a sort of conceptual “container” that contains all the different individuals who have been grouped together because of their common similarities. In this way, a category functions like an abstract vessel that can include what needs to be included and exclude the rest. Taking this a step further, I propose seeing the word *sug * as a derivative of the biliteral root SAMECH/SIN-GIMMEL (“create boundary/fence”), which gives us words like *sugah *(Song of Songs 7:3) and *siyag* (*Avot* 1:1). Essentially, a “category/type” has set criteria for inclusion, and therefore creates a *boundary* by only including that which meets those specifications, while blocking out everything else.
+
+
+
+ In this way, SAMECH-GIMMEL is the polar opposite of the root GIMMEL-SAMECH, which gives us words that mean “mixing,” “army,” "overly thick,” and “familiar/intimate.” All of these words represent crossing the line in the breaking down of boundaries. For example, “mixing” involves taking discrete ingredients and making them one, an “army” typically involves itself in incursions that impinge on the enemy land’s sovereignty and independence by crossing or moving the border, something “overly thick” goes past the bounds of expectation, and people who are “familiar/intimate” go beyond the regular boundaries of decency that divide people from one another. [For more about the root GIMMEL-SAMECH, see “[Sort of Siblings](https://ohr.edu/this_week/whats_in_a_word/9500)” (Aug. 2021).]
+
+
+
+ Rabbi Moshe Ibn Tibbon’s translation of Maimonides’ work on formal logic (*Milot Higayon *§10) explains that *min* refers to a category that includes multiple like items, while *sug* is a parent category (hypernym) that includes multiple like *minim* (hyponym). The same understanding of the relationship between these taxonomical/philosophical terms is evident from Rabbi Shmuel Ibn Tibbon’s *Peirush HaMilot HaZarot* (“Explanation of Bizarre Words”) and R. Nissim of Gerona’s *Drashot HaRan* (*Drush* #12).
+
+
+
+ Rabbi Moshe Chaim Luzzatto (1707–1746), also known as Ramchal, expanded on this point in his work on logic entitled *Derech Tevunot *(11:9), providing an example to help better illustrate the idea. He explains that, for example, “mankind” may be considered a *min*, while “living creatures” may be considered a *sug, * within which “mankind” may be included. However, Ramchal clarifies that this is only true if we compare “mankind” to “living creatures.” But if we were to compare “living creatures” to “physical entities,” then “living creatures” becomes a *min* that is included in the broader *sug * of “physical entities.” Thus, although the terms *min * and *sug * are not static, but rather depend on contextual circumstances, the relationship between the terms always remains like that of parent and child.

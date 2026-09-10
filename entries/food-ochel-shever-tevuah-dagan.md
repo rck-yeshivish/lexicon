@@ -1,0 +1,138 @@
+---
+cluster: food
+hebrew: [אוכל, מזון, יבול, תבואה, תנובה, דגן, בר, שבר, עבור]
+roots: [א-כ-ל, כ-ל, ז-ו-ן, ז-ן, י-ב-ל, ב-ל, ב-ו-א, ב-א, נ-ו-ב, ד-ג-ן, ב-ר, ש-ב-ר]
+translit: [ochel, ochl, maachal, machal, mazon, mezonos, mezonot, yevul, yvul, tevuah, tvuah, tenuvah, tnuvah, dagan, degan, bar, shever, sever, shover, avur, avor, niv sefasayim]
+english: [food, sustenance, produce, crop, grain, provisions]
+domain: nature
+sources:
+  - wiaw:8546 "A Biblical Feast" (2020-01-04) https://articles.ohr.edu/articles/a-biblical-feast
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rav Hirsch, Meiri, Rabbeinu Bachaya, Peirush HaRokeach, Rabbi Yitzchok of Volozhin, Ramban, Rabbi Yehuda HaChassid, Rabbi Avraham Rivlin, Targum Onkelos, Targum Yonasan]
+status: draft
+updated: 2026-09-09
+---
+# Food: ochel / mazon / yevul / tevuah / tenuvah / dagan / bar / shever
+
+## Bottom line
+
+*Ochel* is **food**, anything eaten, the widest word. *Mazon* is **sustenance**,
+food that actually nourishes. Of the produce words: *tevuah* is **crop**, what
+comes forth (ripe or not); *tenuvah* is **ripe produce**; *yevul* is
+**produce** seen as perishable; *dagan* is threshed **grain**; *bar* is grain
+**cleaned of its chaff**; *shever* is **provisions**, grain bought in a famine.
+The trap: Onkelos renders *ochel*, *bar*, *shever* and *dagan* all by *avur*,
+and English "grain" or "food" will do the same. Where a pasuk uses two of them,
+the difference is usually the state of the grain, so translate the state.
+
+## Distinctions
+
+### ochel (אוכל), maachal (מאכל)
+Root א-כ-ל, and so anything eaten. The grammarians note that the root covers
+consuming and destroying generally, by fire (Shemos 3:2, 24:17) or by sword
+(Devarim 32:42; Yirmiyahu 46:10). Rabbi Shlomo Pappenheim (1740 to 1814) traces
+it to the biliteral כ-ל, utter destruction, *kilayon*. Rabbi Yehuda HaChassid
+notes that *dagan* and *ochel* share a gematria of 57.
+
+### mazon (מזון)
+Bereishis 45:23. Narrower than *ochel*: food that gives the body what it needs.
+Menachem Ibn Saruk and Pappenheim take the root as the biliteral ז-ן; Ibn
+Chayyuj, Ibn Janach and Radak as ז-ו-ן. The sense is not in dispute.
+
+### yevul (יבול)
+Ibn Saruk and Pappenheim: root ב-ל; Ibn Janach and Radak: י-ב-ל. Pappenheim
+reads ב-ל as decomposition and gives two applications: in *Yerios Shlomo*, all
+produce is *yevul* because the seed decomposes to let what grows from it come
+up; in *Cheshek Shlomo*, the especially perishable produce is *yevul* because it
+rots if it is not looked after.
+
+### tevuah (תבואה)
+Rabbi Shlomo Aharon Wertheimer (1866 to 1935): root ב-א, coming or bringing, so
+whatever comes forth from a seed or a tree; hence its extension to the fruits of
+any conduct (Mishlei 3:14, 18:20, and 10:16, which the article prints as 10:15).
+Wertheimer stresses that produce is *tevuah* even before full ripeness and even
+while still attached to the ground, once it has reached a third of its growth
+(Yerushalmi *Kilayim* 7:5). Ibn Janach: produce is *tevuah* because it comes in
+at set times of the year. Radak (to Yehoshua 5:11 and *Sefer HaShorashim*) sets
+*tevuah* against *avur*: *avur* goes with *avar*, past, and is grain of previous
+years, while *tevuah* goes with *ba* and is this year's. Rav Hirsch: *tevuah* is
+the choicest produce, the kind a farmer wants to bring into his house.
+
+### tenuvah (תנובה)
+Pappenheim: root נ-ו-ב, fully developed products, agricultural and verbal
+alike, so *tenuvah* is specifically ripe produce (Devarim 32:13), and *niv
+sefasayim* (Yeshayahu 57:19), the product of the lips, is well-formed speech.
+
+### dagan (דגן)
+Wertheimer: the five grains (wheat, barley, oats, spelt and rye), and only once
+they have been ripened, reaped, and heaped into a smooth pile (see Rashi to
+*Berachos* 47b).
+
+### bar (בר)
+Pappenheim: the biliteral ב-ר is separating and excluding, which gives *bar* as
+son (separated from the mother at birth), *bor* and *boris* (cleansers that
+separate off filth), and *bari* and *barah* (a clarity reached by excluding
+every other possibility). As food, *bar* is grain already separated from its
+chaff. Rabbi Yitzchok of Volozhin (1780 to 1849) says the same, that *bar* means
+chosen or refined, grain without chaff, and explains that Yosef had the Egyptians
+store the grain that way (Bereishis 41:35) because otherwise there would not have
+been room for it all; see also Ramban to Bereishis 41:49.
+
+### shever (שבר)
+Root ש-ב-ר, breaking. Radak (to Amos 8:5, Bereishis 41:56, and *Sefer
+HaShorashim*) and the Meiri (to Mishlei 10:3): produce is *shever* because it
+breaks the famine, which is why almost all its occurrences are in the Yosef
+narrative. *Peirush HaRokeach* connects *shever* to *sever*, hope, since men
+look to Hashem in hope while He gives them their food (Tehillim 145:15). Ibn
+Saruk, *Peirush HaRokeach* and Rabbeinu Bachaya all take *shever* as food
+regarded as a purchased commodity; Rabbeinu Bachaya says the word implies a
+sale, which is why rabbinic *shover* is a receipt, breaking a claimant's ability
+to collect. Rabbi Avraham Rivlin notes that *shever* thus carries two opposite
+senses at once, breaking and sustaining. Rabbeinu Bachaya adds that Yaakov asked
+his sons for *shever* rather than *ochel* or *bar* because *shever* is grain
+still with its chaff, hinting that his descendants would have the hard times
+with the good.
+
+### avur (עבור)
+The Aramaic leveller. Onkelos renders *ochel*, *bar*, *shever* and *dagan* all
+as *avur* (Bereishis 41:35, 42:1; Devarim 2:28, 7:13), and Targum Yonasan does
+the same to both words in the single pasuk of Amos 8:5. The Hebrew form is at
+Yehoshua 5:11, where Radak reads it as last year's grain.
+
+## Rendering guidance
+
+- Default renderings: *ochel* "food"; *mazon* "sustenance" or "nourishment";
+  *yevul* "produce"; *tevuah* "crop" or "yield"; *tenuvah* "ripe produce";
+  *dagan* "grain"; *bar* "cleaned grain" or "kernels"; *shever* "provisions" or
+  "rations."
+- Trap: English "grain" will absorb *dagan*, *bar* and *shever* together, and
+  "produce" will absorb *yevul*, *tevuah* and *tenuvah*. Where two stand in one
+  pasuk (Amos 8:5 has *shever* and *bar*), translate the state of the grain and
+  not just the substance: "provisions" against "cleaned grain."
+- Do not read Onkelos back into the Hebrew. His single *avur* is a feature of
+  Aramaic, not evidence that the Hebrew words are synonyms; Radak's *avur* is
+  itself a distinct thing, old grain.
+- *Mezonos* in a halachic context stays transliterated. So does *tevuah* where
+  it is the technical produce of the year for maaser or shemittah.
+- Older English versions render *bar* as "corn," which then meant any staple
+  grain with the seed still in, not maize. In a modern sefer "corn" is a false
+  friend; use "grain."
+- *Shever* in the Yosef narrative is a purchase, not a gift. "To buy provisions"
+  keeps Rabbeinu Bachaya's sense of a sale; "to get food" loses it.
+
+## Notes for a project
+
+None yet.
+
+## Sources
+
+Rabbi Reuven Chaim Klein, "A Biblical Feast," What's in a Word?, Ohr Somayach
+(2020-01-04): raw text in
+`sources/whats-in-a-word/raw/8546-a-biblical-feast.md`. The eightfold list of
+words for food is from *Chuppas Eliyahu* and *Pirkei Rabbeinu HaKadosh*. Primary
+loci: Bereishis 41:35, 41:49, 41:56, 42:1, 45:23; Shemos 3:2, 24:17; Devarim
+2:28, 7:13, 32:13, 32:42; Yehoshua 5:11; Yeshayahu 57:19; Yirmiyahu 46:10; Amos
+8:5; Tehillim 145:15; Mishlei 3:14, 10:3, 10:16 (the article prints 10:15),
+18:20; Yerushalmi *Kilayim* 7:5; *Berachos* 47b with Rashi; Radak, *Sefer
+HaShorashim*, and to Yehoshua 5:11, Bereishis 41:56, Amos 8:5; Meiri to Mishlei
+10:3; Ramban to Bereishis 41:49; Rabbeinu Bachaya on the Yosef narrative;
+*Peirush HaRokeach*; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*.

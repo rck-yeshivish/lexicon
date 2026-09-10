@@ -1,0 +1,88 @@
+---
+id: 11523
+slug: ki-savo-no-more-boils
+title: "Ki Savo: No More Boils"
+date: 2024-09-21
+hebrew_date: "For the week ending 21 September 2024 / 18 Elul 5784"
+url: https://articles.ohr.edu/articles/ki-savo-no-more-boils
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Ki Savo: No More Boils
+
+In one of the scariest passages in the entire Bible, the Torah lists a whole slew of horrible curses set to befall whosoever fails to uphold the Torah’s laws (Deut. 28:15–69). The Talmud (see *Megillah* 31b) teaches that the rabbis instituted that this passage be publicly read before Rosh HaShanah, as if to say, “may the [current] year and its curses finish, may the [next] year and its blessings commence.” One of the verses within the passage in question states: “Hashem will smite you with Egyptian *shechin, * and with *techorim/afolim *[i.e., hemorrhoids], and with *garav*, and with *cheres* from which you cannot be healed” (Deut. 28:27). A subsequent verse reads “Hashem will smite you with awful *shechin* on the knees and on the shank” (Deut. 28:35). And so forth. In this essay, we seek to explore the meaning of the different words used here alongside *shechin*, and attempt to understand how these apparent synonyms may be differentiated from one another.
+
+
+
+ The word *schechin* appears thirteen times in the entire Bible: As my readers almost certainly know already, *shechin * is the name of the sixth plague out of the Ten Plagues with which Hashem smote the Egyptians in the lead-up to the exodus (Ex. 9:8–12). In that context, the word *shechin* is used four times. There are also types of *tzar’at* that appear on places where one had *shechin* (Lev. 13:18–23), which accounts for another four instances of the word *shechin* in the Bible. Those occurrences, plus the two times that *shechin* appear in the aforementioned curses (Deut. 28:27, 28:35) and the two times that the Bible reports about Isaiah helping Hezekiah remedy his *shechin *(II Kgs. 20:7, Isa. 38:21) bring us to twelve cases. And the thirteenth appearance of this word occurs when the Bible reports that Job was struck with “horrible *shechin*” (Job 2:7).
+
+
+
+ What exactly is *shechin*? The Mishnah (*Negaim* 9:1) defines *shechin* as referring to a wound that was caused by being struck with wood, stone, hot gypsum/peat, or hot springs but not by fire. This means that *shechin* does not refer to a mere burn, but to an inflamed or infected wound. Yet, the term *shechin * is commonly translated as “boil/blister.” We should never know, but boils are painful, pus-filled bumps that form under the skin when bacteria infect and inflame one or more hair follicles. They often start as red, tender areas that become firm and painful as they fill with pus. Over time, the center of the boil softens and may burst, releasing the pus.
+
+
+
+ Indeed, Rashi (to Ex. 9:9, Lev. 13:18, *Chullin* 8a) writes that *shechin* is an expression of "heat," adding that it refers to a cause of a person's flesh becoming "heated" (i.e., inflamed) because of a wound, as opposed to being heated or burnt through an actual fire. As Rashi notes, in Mishnaic Hebrew, the root SHIN-CHET-NUN refers to "heat." For example, the Mishnah (*Yoma* 5:1) states that the Kohen Gadol would offer a short prayer on his way out of the Holy of Holies on Yom Kippur, with the Talmud (*Yoma* 53b) explaining that he would pray to Hashem that the upcoming year be “rainy and hot [*shechunah*],*” * with each type of weather falling out in its appropriate time.
+
+
+
+ In fact, the standard term in Targumic Aramaic for *cham* ("hot") and its various inflections are related to *shechin* (see Ex. 16:21, I Kgs. 1:1, Isa. 44:16, Ecc. 4:11, Job 37:17), yet Targum leaves examples of the Biblical Hebrew *shechin* itself untranslated or at least simply Aramaicizes them into *shichana* (see Onkelos to Deut. 28:27, 28:35).
+
+
+
+ Rabbi Yitzchak of Zeldin writes in *Shoresh Yesha* that the word *shechin * is related to the word *shachum *(via the interchangeability of the letters MEM and NUN). *Shachum * is the standard Targumic word for translating the Hebrew *chum* ("brown") — for example see Onkelos to Gen. 30:32. This would refer to the brownish color of a *shechin* spot on one’s skin. [For more about the color brown, see my article “[Words for Wine (Part 2)](https://ohr.edu/this_week/whats_in_a_word/9800)” from March 2022].
+
+
+
+ Rabbi Shlomo Pappenheim traces the word *shechin * to the core biliteral root SHIN-CHET, whose prime meaning he defines as “bending.” Other words that he explains as deriving from that root include *hishtachavaah *(“bowing/prostrating,” by which one bends one’s physical stature), as well as *shuchah* (Jer. 18:20-22, Prov. 22:14, 23:27), *shichah* (Jer. 18:22, Ps. 57:7), and *shachat* (Ps. 7:16, 94:13, Prov. 26:27, Job 33:24), which refer to different sorts of pits and caves that are cramped spaces such that one inside is forced to “bend” his body.
+
+
+
+ In that spirit, Rabbi Pappenheim writes that *meshichah* (“anointing”) also derives from this root because applying oil to hard things softens them, leaving them more pliable and “bendable.” Based on this, Rabbi Pappenheim argues that *shechin * relates to *meshichah* in the sense that the skin of one struck with *shechin * appears to have been anointed with “a poisonous emollient” that afflicts his body. Finally, Rabbi Pappenheim actually traces the Rabbinic Hebrew/Aramaic word *shechunah* to this biliteral root, explaining its original meaning as a type of “blight” by which agricultural produce might develop *shechin*-like spots because of extreme heat and dryness.
+
+
+
+ We mentioned above that one of the curses that the Torah threatens is being smitten by “Egyptian *shechin*.” What does that term mean? Rashi (to Deut. 28:27) explains that “Egyptian *shechin*” refers to the sort of boils with which Hashem afflicted the Egyptians in the Ten Plagues. He explains that this happened to have been an especially horrendously dreadful type of boils because it was both moist on the inside and dry on the outside. That ensured that the usual ways of coping with moist or dry boils were essentially useless because those remedies were mutually exclusive. [It should be noted that Rashi’s source for this explanation is the Talmud (*Bechorot* 41a), which actually explains that “Egyptian *shechin*” was moist on the outside and dry on the inside. In light of that variance, Rabbi Natan Borgel (in *Chok Natan * to *Bechorot* 41a) proposes emending Rashi’s comments to match what the Talmud says.]
+
+
+
+ When it comes to the Deuteronomic curses that threaten *garav * and *cheres,* Rashi (there) understands these terms as referring to less horrid forms of boils, explaining that *garav * refers to thoroughly moist boils and *cheres * refers to thoroughly dry boils. In David A. Clines’ dictionary of Biblical Hebrew, he defines *garav* as “eczema” and *cheres* as “itch.”
+
+
+
+ Two of the physical blemishes that disqualify a Kohen from functioning in the Holy Temple (Lev. 21:20) and disqualify an animal from being offered as a ritual sacrifice (Lev. 22:22) are *garav * and *yalefet*. In that context, Rashi (to Lev. 21:20) explains that *garav * refers to thoroughly dry boils, while *yalefet * refers to a type of boils known as “Egyptian *chazazit,*” which is both dry and moist (per above). He explains (based on *Bechorot* 41a) that when *garav * and *cheres * appear in tandem, then *garav * refers specifically to moist boils and *cheres * refers specifically to dry boils, but when *garav * appears without *cheres*, then *garav * refers to dry boils.
+
+
+
+ At this point, I would like to discuss the etymologies of these three words: *yalefet, cheres, * and *garav*, which all seem to be hyponyms that are more specific words that can be classified under the umbrella term *shechin.*
+
+
+
+ In explaining the etymology of the term *yalefet* — which happens to be a *hapax legomenon * in the Bible — Rashi (to Lev. 21:20, again following *Bechorot *41a) writes that it is related to the word *melafefet *(“accompaniment/attachment”) because it is the type of affliction that “accompanies” a person and sticks to him until the day he dies (see also Rashi to *Bechorot* 41a and to Lev. 22:22).
+
+
+
+ Rabbi Pappenheim in *Cheshek Shlomo * similarly traces *yalefet* to the two-letter root LAMMED-PEH (explaining the initial YOD and final TAV as extraneous), whose core meaning he explains as "strong hold from which it is difficult to break free." He sees various Biblical Hebrew words as deriving from this core root, including: *aluf* (“chieftain,” a strongman who rules from a position of strength), *elef *(“one-thousand,” i.e., the number of constituents needed before a warlord can claim the title *aluf*), and *vayilafet/vayilpot* (verbs in reference to “grabbing” or “grasping” something with a strong hold, see Jud. 16:29, Ruth 3:8). He also connects this to the word *lefet *(“turnip”) in Rabbinic Hebrew (*Kilayim* 1:3, 1:9, 3:1, *Maasrot* 5:2, 5:8, *Chullin* 7:4, *Keilim* 9:4, *Uktzin* 1:4), which refers to that root vegetable being firmly entrenched in the ground, as well as the term *lefet* in Talmudic parlance (*Brachot* 41a, *Avodah Zarah* 38a), which refers to a "condiment" or "dip" that *accompanies* or *joins with* bread. In line with all of this, Rabbi Pappenheim explains that *yalefet * refers to a certain type of skin boil that leaves a scar attached to one's skin that can never be removed. [For more about this root, see “[The Ultimate Teacher](https://ohr.edu/this_week/whats_in_a_word/9468)” (July 2021).]
+
+
+
+ The Biblical word *cheres * that we have been discussing is spelled CHET-REISH-SAMECH. This makes it a homonym with the Biblical word *cheres *(“clay/pottery”) spelled CHET-REISH-SIN. Rabbi Avraham Bedersi in *Chotam Tochnit* writes that the skin-disease *cheres * is so called because it is “dry” just like clay pottery is dry (as we mentioned above). This is also implied by Rashi (to *Bechorot* 41a), who writes that *cheres * refers to a type of *shechin * that is “hard” like pottery. These comparisons are implicitly based on the interchangeability of the letters SAMECH and SIN.
+
+
+
+ The root CHET-REISH-SAMECH in the Bible also has another meaning: It refers to the “sun” (see Job 9:7, Jud. 8:13, 14:18). The classical lexicographers like Menachem Ibn Saruk, Yonah Ibn Janach, and Radak do not intimate any connection between the two meanings of CHET-REISH-SAMECH. However, Rabbi Yaakov Tzvi Mecklenburg in *HaKtav VeHaKabbalah* (to Deut. 28:27) suggests that perhaps *cheres* refers to a skin affliction that results from bad climate/weather, thus making it related to the sun’s power to affect one’s environment. Perhaps this might refer to sun burn, although he does not explicitly state this. [For more about *cheres* as “sun,” see one of my earliest essays in this series “[My Three Suns (and Moons)](https://ohr.edu/this_week/whats_in_a_word/7004),” first published in Sep. 2016.]
+
+
+
+ Rabbi Bedersi also suggests that perhaps *cheres* is not actually a type of boils, but is rather a disease whereby a person is struck with irresistible itches that he feels impelled to scratch. He finds a prooftext for this explanation in the verse that describes how after being afflicted with “horrible *shechin*” (Job 2:7), Job takes a *cheres* to scratch himself with it (Job 2:8) — although that *cheres * is spelled with a final SIN and clearly refers to a pottery shard. On the other hand, Rabbi Mecklenburg also cites that verse, but still explicitly maintains that *cheres* in the sense of skin disease is a type of “dry *garav*” (for which one might use a dry piece of pottery to scratch, *à la* Job).
+
+
+
+ Besides for the three times that the word *garav * appears in the Bible in reference to a type of *shechin*— all of which are within the Pentateuch — there also is a proper name seemingly derived from the same triliteral root GIMMEL-REISH-BET: one of King David’s warriors was named Garev (II Sam. 23:38, I Chron 11:40) and there was a hill just outside the walls of Jerusalem known as Givat Garev (Jer. 31:38). That said, I don’t have any deeper onomastic insights into the meaning of these names.
+
+
+
+ In Mishnaic Hebrew, the three-letter root GIMMEL-REISH-BET gives way to the word *garav* (*Terumot* 10:8), which refers to a vessel used for storing liquids (like a “barrel” or “jug”). In Modern Hebrew, this triliteral root begets the word *gerev *(in plural form *garbayim*), which means “sock” (known as *anpaliyot* in Rabbinic parlance). This term has been connected to an obscure English word *greave*, which refers to "leg armor." In fact, Rabbi Ernest Klein in his etymological dictionaries of English and Hebrew trace both of these terms to the Arabic word *jawrab *(“sock/socking”). But none of this seems to have anything to do with the Biblical Hebrew word *garav*.
+
+
+
+ One more interesting word before we close this essay: *avabuot*. That Hebrew term is only used twice in the Bible, both times in describing the Plague of *Shechin* that afflicted the Egyptians (Ex. 9:9–10). The Talmud (*Bechorot* 41a) uses the presence of this term in that context to prove that the boils that afflicted the Egyptians were moist on the outside. Rashi (there) explains the assertion by noting that *avabuot * derives from the biliteral root BET-AYIN (as classified by Ibn Saruk), which means “bubbling forth,” thus implying a moist exterior. In Modern Hebrew, the disease known as chickenpox/varicella is called *avabuot ruach*. I used to think that the English words *bubble, burble, buoe, bubonic * were related to this Hebrew root as well, but most etymologist see those words as onomatopoeic representations of something swollen and distended.

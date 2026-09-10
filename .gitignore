@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+# Scratch
+*.tmp
+tmp/
+scratch/
+
+# NOTE: sources/whats-in-a-word/raw/ is deliberately NOT ignored.
+# Those 374 articles are the evidence base every entry cites, and the repo is
+# private, so they are stored, not published. If this repo is ever made public,
+# or an entries-only mirror is split out, that directory must be excluded first:
+# it is Rabbi Reuven Chaim Klein's and Ohr Somayach's copyright, held here for
+# research use only.

@@ -1,0 +1,116 @@
+---
+id: 11619
+slug: vayishlach-go-camel
+title: "Vayishlach: Go Camel"
+date: 2024-12-14
+hebrew_date: "For the week ending 14 December 2024 / 13 Kislev 5785"
+url: https://articles.ohr.edu/articles/vayishlach-go-camel
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Vayishlach: Go Camel
+
+When Jacob offered a tribute of animals to his evil brother Esau in order to appease him, the Torah reports that Jacob sent him, among other animals, thirty female camels (*gemalim meinikot*) and thirty male camels (Gen. 32:16). In this essay, we take a close look at the Hebrew word *gamal * and its etymological basis, before exploring other Hebrew words for the desert beast of burden known as the “camel.” In doing so, we clarify that these words are not actually synonymous with one another but represent different camelids within the family of camels.
+
+
+
+ The Biblical Hebrew noun *gamal * in the sense of the humped-back “camel” with which we are all familiar derives from the three-letter root GIMMEL-MEM-LAMMED and appears fifty-four times throughout the Bible. Besides that, the triliteral root GIMMEL-MEM-LAMMED appears another thirty-seven times in verbs in the Bible (according to Even Shoshan’s concordance). Those verbs refer to “weaning [from nursing],” “finishing/ripening,” and “repaying.” Menachem Ibn Saruk collapses the first meanings of those verbs into one category, and thus writes that there are three — seemingly distinct — meanings of GIMMEL-MEM-LAMMED: “growing,” “repaying,” and “camel.”
+
+
+
+ In the Bible, there are three people whose personal names incorporates this three-letter root: Gamliel (Num. 1:10, 2:20, 7:54, 7:59, 10:12), Gemali (Num. 13:12), and Gamul (I Chron. 24:17). The given name Gamla also appears in the *Mishnah* (*Yoma* 3:9, *Yevamot* 6:4). Whether these names relate to “camels” or to one of the other meanings of the root in discussion seems like an open question. [Rabbi Aharon Marcus (*Keset HaSofer* to Gen.10:2) actually connects the Biblical name Gomer to this root as well (invoking the interchangeability of LAMMED and REISH). For more about Gomer, see “[Ashkenaz and Teutonic Jews](https://ohr.edu/this_week/whats_in_a_word/11840)” (Nov. 2024)].
+
+
+
+ As is his wont, Rabbi Shamshon Raphael Hirsch (to Gen. 12:16, 21:8, 24:17) attempts to connect the noun *gamal * to the verbs derived from GIMMEL-MEM-LAMMED. He suggests that perhaps *gamal * relates to that triliteral root in the sense that a camel that fills its hump with water and no longer needs to drink for a long duration makes it seem as though it has been “weaned” from its need to drink.
+
+
+
+ Rabbi Shamshon Raphael Hirsch (to Gen. 21:8) further expands on the meanings of GIMMEL-MEM-LAMMED by explaining the connection between these various meanings of that root as being broadly related to something which has been sufficiently nourished and no longer requires outside assistance. For example, words derived from this root are used when describing a child who has grown up and is “weaned” from their mother’s milk (see Gen. 21:8 I Sam. 1:23, Isa. 28:9, Hos. 1:8). Similarly, when a tree finishes supplying a fruit with the necessary nutrients and minerals needed to fully grown and ripen on its own, derivatives of this root are once again used (Num. 17:23, Isa. 18:5).
+
+
+
+ Taking this a step further, Rabbi Hirsch reflects on the idea of looking at all events and occurrences as “fruits” that have matured on the proverbial tree of time. In that sense, a fruit comes to maturity only when the full circle has been completed and a person gets what he deserves. In this sense, cognates of GIMMEL-MEM-LAMMED are used to denote “requitting” or “recompensing” a debt, which likewise brings the matter to its final conclusion. This usage occurs both in the negative sense of somebody repaying good with evil (Ps. 7:5, I Sam. 24:17), or in the positive sense of receiving reward for good deeds Prov. 31:12). It is also used to express gratitude to Hashem, as if to ask how can one repay Him for all the weal He has brought (Ps. 13:6, 116:12).
+
+
+
+ Although Rabbi Hirsch does not explicitly mention it, perhaps these explanations support the notion that GIMMEL-MEM-LAMMED is related to GIMMEL-MEM-REISH (*gamar, *“finishing”), via the interchangeability of the letters LAMMED and REISH. It is only when a toddler or fruit has “completed” a specific period of cultivation and growth that it can be weaned from an outside source of nutrients. Similarly, a debt is typically only repaid once the loan reaches maturity by “finishing” the time allotted to the borrower to hold on to the lender’s money (see *Bava Batra* 5b). Perhaps this relates to camels as well because when the animal “finishes” drinking, it then retains the ability to function for a prolonged time in arid environments without needing to drink more. Moreover, the ideas recompense or completion are possibly reflected in the camel's essential role in providing transportation, sustenance, and trade in harsh desert conditions.
+
+
+
+ Rabbi Yehudah Aryeh of Carpentras in his work *Aholei*
+
+*Yehuda* offers several original ways of explaining the etymology of the word *gamal: * His best explanation is that the word *gamal * ought to be parsed as a combination of *go/gav *(“body/inside”) and *maleh *(“full”), alluding to the camel’s capacity for filling itself up on water before travelling long distances without drink. His other explanations are less compelling: on account of its large hump, the camel appears to be the opposite of the *gamad *(“dwarf”), so somehow that accounts for the name *gamal*. Or, *gamal * could be read as a portmanteau of *go/gav* and *mal *(unclear whether he refers to “cut” or “speaking”). Or, *gamal * is related to the word *giben *(“humpback” via the interchangeability of MEM and BET, and of LAMMED and NUN. [For more about the word *gamad, * see “[The Vertically-Challenged](https://ohr.edu/this_week/whats_in_a_word/11473)” (Jan. 2024) and for more about the word *giben*, see “[More Cheese Please](https://ohr.edu/this_week/whats_in_a_word/9901)” (June 2022).].
+
+
+
+ Additionally, *Aholei*
+
+*Yehuda* writes that the rabbis teach that camels are especially known for their modesty in copulation in that they refrain from engaging in such actions when others are present (see Rashi to Gen. 32:16 and *Bereishit Rabbah *§76:7). Based on this, he explains that camels act as though they were cognizant of Hashem’s Providence in watching over all creatures and paying back those who act properly. This is what leads camels to being bashful when reproducing, without pursuing their animal instincts for the survival of their species at all costs. Accordingly, he connects the noun *gamal * to the verb *gomel * in the sense of “repaying,” as the camel is an animal who acts as though he is aware of the Divine system of repayment and retribution.
+
+
+
+ The Hebrew word *gamal * has cognates in various Semitic languages, including Aramaic (*gamla*), Arabic (*jamal*), and Akkadian (*gammalu*). This word was even borrowed into non-Semitic languages like Greek (*kamelos*/κÎ¬μηλος) and Latin (*camelus*). When entering those Indo-European languages, the Hebrew letter GIMMEL — whose name seems to be related to the word *gamal * and is orthographically represented by a character that looks awfully like a camel — morphed into a hard c or k-sound, as in the English word *camel*. By the way, when the Mishnah refers to the third letter of the Greek alphabet, the Mishnah calls is *gamla* (Shekalim 3:2), as opposed to *gamma*.
+
+
+
+ I have another way of understanding why camels are related to “weaning,” but before we get there, we have to discuss the Hebrew word for female camels. Rabbi Yitzchak Avineri notes that although in Biblical Hebrew, the word *gamal* always appears in masculine form, this term could also include female camels as well. When the Bible refers to Jacob gifting Esau she-camels, it uses the compound phrase *gemalim meinikot *(Gen. 32:16), which literally means “nursing camels” to refer to female camels. Comparable verbiage appears in the Mishnah, which twice uses the word *nakah* in reference to a “female camel” (*Shabbat* 5:1, *Keilim* 23:2). Depending on what version of the Mishnah one consults with, the word *nakah * is either spelled NUN-ALEPH-KUF-HEY or NUN-KUF-HEY. Either way, this Mishnaic Hebrew word is cognate with the Arabic word *nakah * which likewise refers to a “female camel.” Although the word *nakah * does not appear in the Bible, its apparent cognate *meinikot * does appear in the Bible and is related to the verb for “nursing.”
+
+
+
+ Let’s probe a bit into the etymology of the word *nakah*. Radak writes in *Sefer HaShorashim* that there are two triliteral roots used in Biblical Hebrew that produce verbs related to “nursing” — YOD-NUN-KUF and NUN-YOD-KUF. Both of these roots are used throughout the Bible almost interchangeably and comprised of the very same consonants (albeit in a different order). If we look to Rabbi Shlomo Pappenheim’s biliteral system, we will notice that the letter YOD can be understood as extraneous to the core root, which leaves us with the biliteral string NUN-KUF. But actually, in Rabbi Pappenheim’s system, the letter NUN can also be extraneous to the core root. This leads Rabbi Pappenheim to explaining that while there is a biliteral root NUN-KUF, that root itself can be traced to the monoliteral root KUF (or the biliteral KUF-ALEPH).
+
+
+
+ Rabbi Pappenheim explains that the more rudimentary monoliteral root refers to the “expulsion of superfluity.” For example, *hakaah* denotes "regurgitation" or "ejection," *kei* refers to “vomit” or “excrement,” and *kaat* refers to a type of bird that constantly throws up whatever it has eaten (see Ibn Ezra to Lev. 11:18). The biliteral root NUN-KUF derives from this more basic monoliteral root, embodying the concept of "cleaning," which involves removing excess substances like dirt or dross. For instance, *menakiyot* were the tubes of the *shulchan* (Table of the Showbread) designed to prevent the bread from rotting or growing mold, effectively "cleaning" the bread. *Nakik* refers to a hollow rock, as if it had been "cleaned" of its minerals. *Naakah* (prayer) signifies the emptying of the heart's sorrows, while *anakah* refers to a type of lizard that produces a sound resembling continuous prayer. Finally, the terms *yenikah* (“nursling/sapling”) and *meineket* ("nursing") describe the act of emptying a mother's mammary glands, as though "cleaning" them. Similarly, we can add the Mishnaic Hebrew *tinok* and Aramaic *yenuka*, which refers to a “baby” as one who nurses from his mother. In light of this, it seems cogent to assume that the term *nakah* in reference to the “female camel” also relates to “nursing” because it is the cameloid animal from which other camels nurse.
+
+
+
+ What this means is that the Hebrew terms for both male and female camels carry connections to nursing: the word for female camel directly relates to the act of “nursing” (as female camels naturally nurse their young) and the term for male camel is associated with the act of “weaning,” meaning the transition away from nursing —a role that the male camel does not perform. This association may arise from the camel's unique physiology: camels are known for drinking large quantities of water and storing it in their "breast-like" humps. This characteristic mirrors the nurturing and sustaining essence of “nursing,” where nourishment is drawn in abundance and stored for provision and development. Thus, the very physical essence of the camel appears symbolically linked to the broader concept of nurturing and sustenance through nursing, hence the association of the two Hebrew words for “camels” with “nursing” and “not-nursing.”
+
+
+
+ There are more terms for “camel” in Hebrew: In another passage, Jeremiah chastised the Jewish People for denying their involvement in the sin of idolatry, saying: "How can you say, 'I have not become impure', 'I have not gone after the Baalim'? Look at your way in the valley, know what you have done. [You are like] a swift young camel [*bichrah*], twisting her ways" (Jer. 2:23). Rashi and Radak (there) explain that *bichrah * refers to a young she-camel, which is said to run faster and more wildly than a male or older camel. Rashi (to *Sanhedrin* 52a) adds that the problem with the young she-camel is that she is not used to carrying heavy burdens, so she feels free to act more impulsively and less responsibly.
+
+
+
+ The prophet Isiaah foretells of a time when all the nations of the world will look up towards the Jewish People and will even send them tributes, saying, inter alia: "A flux of camels [*gemalim*] will cover you / *bichrei* Midian and Eifah will all come from Sheba" (Isa. 60:6). The word *bichrei* (which is clearly in the construct form) is somewhat difficult to understand and its exact meaning is subject to dispute. Targum, Rashi, Mahari Kara, and Radak (there) understand the word as a declension of the root BET-KAF-REISH, explaining the word as referring to "young camels." This is also the approach taken by Ibn Janach and Radak in their respective *Sefer HaShorashim* in their entries on that triliteral root. According to this, *becher *(the absolute form of *bichrei*) also means “camel,” but refers specifically to a young’un. Rabbi Ernest Klein writes that this term cognate with the Arabic *bakuru* and the Akkadian *bakru*, which also mean "young camel."
+
+
+
+ On the other hand, Rabbi Saadia Gaon (in his Tafsir to Isa. 60:6) and Ibn Ezra (there) understand the letter BET in *bichrei * as serving a grammatic function (“on/through/with”), and thus interpret the word as related to *kar *(KAF-REISH). Within the Ibn Ezra’s commentators there appear to be two different ways of explaining what *kar * means in this sense: In one place, Ibn Ezra (Isa. 16:1) writes that *kar * refers to a “type of camel that runs very quickly.” (Rabbi Yehuda Ibn Balaam connects this usage of the term *kar * to the rabbinic expression *gamla parcha, * literally “flying camel” in *Yevamot* 116a and *Sanhedrin* 107b.)
+
+
+
+ In another place — when commenting on the Bible reporting that Rachal stole Laban's *terafim* and put in them in the *kar*
+
+*hagamal* (Gen. 31:34) — Ibn Ezra explains that *kar * refers to a camel’s saddle-basket. Rabbi Tanchum HaYerushalmi (in his lexicon of Rabbinic Hebrew, *HaMadrich HaMaspik*) contextualize these two explanations by noting that the core meaning of *kar * is “pillow,” and that a camel’s saddle is called a *kar * because it resembles two pillows placed side-by-side, and this led to camels themselves being called *kar*. It should be noted that Rabbi Shlomo Ibn Parchon in *Machberet HeAruch* explicitly rejects any connection between *bichrah*/*bichrei* and *b’kar hagamal*. By the way, Ibn Janach explains in his *Sefer HaShorashim* that *kar* refers to a “young camel,” but Radak (in his *Sefer HaShorashim*)cites his father Rabbi Yosef Kimchi as explaining that *kar* refers to a *keves *(“young sheep”).
+
+
+
+ Isaiah foretells of a time when the nations of the world will rush to offer sacrifices at the Temple in Jerusalem, riding on various quick-travelling animals to get there faster. In his list of such animals, Isaiah mentions *kirkarot* (Isa. 66:20). Ibn Ezra (there) explains that this refers to an especially prominent type of camel, leading him to connect the word *kirkarot* to the word *kar *(per his explanation cited above). However, Radak (to Isa. 66:20 and *Sefer HaShorashim*) sees the word *kirkarot* as a general term for a “camel or any other animal that runs fast.” In fact, Rabbi Yosef Bechor-shor (to Num. 7:3) explains that *kirkarot* refers specifically to young female *calves* that jump and skip as though they were dancing.
+
+
+
+ Rabbi Pappenheim ties the word *kar* to the biliteral root KAF-REISH, which refers to "digging." One group of words he sees as deriving from that root is headlined by the word *kar* (“fertile field”), which refers to a place whose borders were typically demarcated by "digging" ditches around its perimeter. *Karim* refer to the “fat animals” who feast on the grounds of a *kar* and hang out thereabouts. [For more about this biliteral root, see “[Digging Deeper](https://ohr.edu/this_week/whats_in_a_word/9719)” (Jan. 2022).]
+
+
+
+ Rabbi Nosson of Rome in *Sefer HeAruch* summarizes the three Hebrew terms for "camel" by explaining that when such an animal is first born, it is called a *becher* (male)/*bichrach* (female), and then when it grows up and can carry heavy loads, it is either called a *gamal* (male) or a *nakah* (female).
+
+
+
+ The term *becher*/*bichrah* actually comes up in English in a place where you’d least expect it: tuna fish. One of the types of tuna fish is known as albacore (also known as “long-fin tunny”). Rabbi Ernest Klein and other etymologists explain that this English word derives from the Spanish *albacora*, which in turn derives from the Arabic *al bakrah* ("the young camel"), with the word *al* serving as the definite article (“the”). How young camels relate back to tuna fish is beyond me, but I’d love to know if someone has a way of explaining it. That said, I should note that the Oxford English Dictionary (OED) cites and rejects this etymology of the English word *albacore*.
+
+
+
+ The terms *becher*
+
+*bichrah* are translated into Aramaic by Targum as *hugnei* (see also Rashi to Isa. 60:6, Jer. 2:23, and *Sanhedrin* 52a). That term appears once in the Babylonian Talmud (*Sanhedrin* 52a) and once in the Jerusalemic Talmud (*Chagigah* 2:1). Dr. Michael Sokoloff in his dictionary of Jewish Babylonian Aramaic defines *hugna * as “dromedary” (which is a type of camel), as opposed to the Bactrian camel, which has two humps and is not native the Native East, but seem to have come from the Central Asian steppes.
+
+
+
+ The truth is that *hugnei* is not even a native Aramaic word; it is a loanword derived from the Greek term εá½γενÎ®ς (*eugenÄ“s*), meaning "noble" or "of good stock." This word is composed of εá½– (*eu*), meaning "well," and γÎ­νος (*genos*), meaning "race," "stock," or "kin." The name Eugene, a common male given name, originates from this Greek root. Its shortened form is Gene, and the feminine variants are Eugenia or Eugenie. The concept also appears in the term *eugenics*, which refers to a set of beliefs and practices aimed at improving the genetic quality of a human population—either by encouraging the reproduction of individuals with desirable traits (*positive eugenics*) or by limiting the reproduction of those considered to have undesirable traits (*negative eugenics*).
+
+
+
+ In the Talmud, the term *mehugan* (or *hagun*) carries a related connotation of worthiness and suitability, often implying qualities of "elite" or "choice stock." For example, the Talmud states that if a man marries a woman for financial reasons (*Kiddushin 70a*) or engages in certain immodest behaviors (*Eruvin 100b; Nedarim 20a*), then his children will not be *mehugan*. Similarly, a woman is said to want to avoid marrying a man who is not *mehugan* for her (*Yevamot 108a; Ketubot 22a, 54a; Bava Kamma 80a*). Thus, *mehugan* implies not only suitability but also a certain elevated quality, particularly in the context of lineage and character.

@@ -1,0 +1,105 @@
+---
+id: 10931
+slug: showing-teeth
+title: "Showing Teeth"
+date: 2023-04-22
+hebrew_date: "For the week ending 22 April 2023 / 1 Iyar 5783"
+url: https://articles.ohr.edu/articles/showing-teeth
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Showing Teeth
+
+The word *shein* appears 55 times in the Bible, mostly in reference to a “tooth” as found inside the mouth of a person or animal. In this essay, we explore a whole litany of other words in Hebrew and Aramaic that also mean “tooth”: *mitalot*, *maltiot*, *kaka*, *nivi*, *gallal*, and *chit. * We will pick at these words and try to tease out whether they are truly synonyms, or there are slight, nuanced differences between them.
+
+
+
+ Although the word *shein * usually means “tooth,” in others cases, *shein* refers to things made out of “ivory,” which is a material made out of teeth. Such terms include: Ivory House (I Kgs. 22:39, Amos 3:15), Ivory Palace (Ps. 45:9), Ivory Towers (Song of Songs 7:5), Ivory Thrones/Chairs (I Kgs. 10:18, II Chron. 9:17), Ivory Beds (Amos 6:4), and the like. [For more about the Hebrew terms for “ivory,” see “[Elephants Galore](https://ohr.edu/this_week/whats_in_a_word/9056)” (Nov. 2020).]
+
+
+
+ The word *shein * also appears in Mishnaic Hebrew in the sense of a person or animal’s “tooth” (*Shabbat* 6:5, 6:10, 10:6, 14:4, 19:2, *Beitzah *4:6, *Bava Kamma* 3:10, *Shavuot* 5:5, *Bechorot* 7:5, *Chullin* 1:2, *Ohalot* 3:1, *Parah* 2:2), and in the more abstract sense of a category of tort damage similar to those caused by one’s animals eating another’s property with its “tooth” (*Bava Kamma* 1:4, 2:2, 2:5). Elsewhere, the Mishnah uses the word *shein * in a borrowed sense to refer to the “teeth” of vessel or tool, like that of a sickle (*Chullin* 1:2), hoe/mattock (*Keilim* 13:2, 18:7), fine-writer (*Keilim* 13:2), saw (*Keilim* 13:4, 14:3), lock/key (*Keilim* 13:6), and comb (*Keilim* 13:7–8, *Tevol Yom* 4:6). In all of those cases, the instruments in question use a sharp, tooth-like protrusion, for which the Mishnah borrowed the word *shein.*
+
+
+
+ In rabbinic idiom, the word *shein * appears in several flavorful expressions in the Mishnah and Talmud. For example, in the Mishnah an obviously pregnant woman is said to have “her stomach in between her teeth” (*Rosh Hashanah* 2:8). The Talmud says that is better to be genial and friendly than to simply give people presents, “One who whitens his teeth to his friend [i.e., smiles] is better than one who feeds him milk” (*Ketubot* 111b), while a person who put himself in a sticky situation is said to have “placed his finger between his teeth” (*Ketubot* 71a). And when the Passover Haggadah says that one should refute the arguments of the Wicked Son, it says “you too shall stun his teeth.”
+
+
+
+ All the classical Hebrew lexicographers, like Menachem Ibn Saruk (920–970), Rabbi Yonah Ibn Janach (990–1050), and Rabbi David Kimchi (1160–1235), trace the word *shein * to the biliteral root SHIN-NUN, but they do not explain how it relates to other roots or words that also use that two-letter string.
+
+
+
+ Rabbi Shlomo Pappenheim (1714–1814) explains the core meaning of SHIN-NUN as “double.” He explains that *shein * relates to this meaning because most people grow *two* sets of teeth: one as a baby and one as an older toddler/child — thus, the very word for “tooth” relates to “doubling.” Other words Rabbi Pappenheim sees as derivatives of the same biliteral root include *shnayim/shnei *(“two”), *shanah* (“repeat”), *shinun *(“sharpening,” a repetitive action done by rubbing a blunt metal against a stone to sharpen it), *shoneh *(“change,” because when something is repeated, it inevitably changes, as it is impossible to exactly replicate what was before), *sheinah* (“sleep,” because when sleeping, one’s brain rehashes a second time all of one’s thoughts from throughout the day), *shanah *(“year,” an astronomical duration defined by the sun completing its annual cycle and repeating it by starting anew), and *yashan *(“old,” a person who has experienced many years).
+
+
+
+ The work *Shoresh Yesha * actually argues that *shein * is more closely related to *shinun, * in the sense that when one chews with one’s teeth, one performs a “repetitive” action meant to break down one’s food, just like “sharpening” entails repetitive motions. Interestingly, Rabbi David Chaim Chelouche (1920–2016) sees SHIN-NUN as related to SAMECH-NUN (“thornbush” like in *sneh*), because the various thorns on a branch resemble “sharp teeth.”
+
+
+
+ Two more words for “teeth” in the Bible are *mitalot* (Job 29:17, Joel 1:6, and Prov. 30:14) and *maltiot *(Ps. 58:7). Both words always appear in the plural form and the commentaries agree that both words mean the same thing, except that the consonants are metathesized, with LAMMED and TAV switching positions within the word. Because of this, Menachem, Ibn Janach, and Radak all trace *mitalot* to the triliteral TAV-LAMMED-AYIN and *maltiot * to LAMMED-TAV-AYIN, with no semantic difference noted between these roots.
+
+
+
+ However, Rabbi Pappenheim disagrees with the classical lexicographers about the words *mitalot* and *maltiot. * He argues that the letter TAV is not crucial to the core root, which allows him to trace both words to the biliteral root LAMMED-AYIN, defined by him as “the organ of swallowing” (i.e., throat). The word *loe * is used once in the Bible in sense of throat (Prov. 23:2), and Rabbi Pappenheim sees *mitalot* and *maltiot * as derived from same etymological root on account of the teeth being very close the throat (see below). He also argues that the word *tolaat* ("worm") derives from this root because worms consume their food very quickly, as though simply swallowing without chewing. Furthermore, Rabbi Pappenehim even views the word *bala* ("to swallow") as related to this root, parsing the triliteral BET-LAMMED-AYIN as a portmanteau of BET-ALEPH ("come/enter") and LAMMED-AYIN. Of course, the act of “swallowing” is simply the act of causing food to “enter” the “throat,” so it all makes sense.
+
+
+
+ Rabbi Moshe Tedeschi Ashkenazi (1821–1898) in his work *Otzar Nirdafim * on Hebrew synonyms argues that the word *shein * refers specifically to one of the eight “incisors,” which are the teeth closest to the front of the mouth (used for initial biting and cutting of one’s food). On the other hand, he explains that the terms *mitalot*/*maltiot * refer specifically to the ten molars in the back of the mouth. As Rabbi Tedeschi explains, the molars are used for chewing and grinding food right before one swallows, and in light of Rabbi Pappenheim’s argument that those words are related to the root LAMMED-AYIN, everything dovetails quite nicely. This is also in consonance with Rashi (to Joel 1:6 and Prov. 30:14), Radak (*Sefer HaShorashim)*, and *Biur HaGra* (to Prov. 31:9) who all explain *mitalot* and *maltiot * as “thick teeth” that are deeper inside the mouth than a *shein.*
+
+
+
+ Taking this a step further, Rabbi Tedeschi explains *mitalot* as a portmanteau derived from the two biliteral roots TAV-LAMMED (“hanging/suspending,” because a tooth hangs onto the gums inside the mouth) and LAMMED-AYIN (“swallowing”). In fusing these two biliteral roots and not repeating the LAMMED, one is left with a seemingly three-letter root TAV-LAMMED-AYIN. Rabbi Tedeschi additionally notes that this triliteral root bears an affinity to the triliteral root LAMMED-AYIN-TET (by metathesizing the consonants and exchange TAV for TET), which means “to guzzle/gulp/swallow,” as in the Biblical Hebrew word *haliteini *(in Gen. 25:30, as noted by Rabbi Tedeschi’s teacher Shadal in his commentary there), or *malitin* ("force-feed") in the Mishnah (*Shabbat* 24:3). He also relates these roots to another triliteral root, LAMMED-AYIN-SAMECH, which in Rabbinic Hebrew refers to the act of “chewing/masticating” (see Mishnah *Shabbat* 19:2, *Pesachim* 2:7, and *Niddah* 9:7).
+
+
+
+ Rabbi Shlomo Ibn Parchon (an early grammarian from the 12[th] century) in his lexicon *Machberet HaAruch* writes that *mitalot* and *maltiot * refers to especially long teeth that protrude from a wild animal’s mouth (“fangs”). A third way of differentiating between *shein * and *mitalot*/*maltiot * is by positing that *shein * is a general term for all different types of teeth, while *mitalot*/*maltiot * refers to specific teeth (whether “fangs,” “tusks,” or “molars”).
+
+
+
+ The difference between *shein * and *mitalot*/*maltiot * is also evident from the Targumim who use different Aramaic terms when translating those Hebrew terms. The Targumim consistently translate the Hebrew word *shein * into the Aramaic *kaka *(e.g., Ps. 3:8, 35:16, 58:7, Job 19:20, 29:17), spelled KAF-KAF-ALEPH, or simply Aramaicize *shein * into *shina * but otherwise leave it untranslated (e.g., Ex. 21:24, Prov. 10:26, 30:14, Joel 1:6, Amos 4:6).
+
+
+
+ The Aramaic term *kaka * also appears many times in the Talmud in the sense of “tooth.” For example, when Rabbi Chiyya recommended his son not to get his sickly “tooth” removed (*Pesachim* 113a) and when Rabbi Yochanan had a dangerous “tooth” disease (*Yoma* 84a). In one of the dreams that Rava related to the infamous dream interpreter Bar Hedya, Rava said that he saw all his *shein* and *kaka* fall out (*Brachot* 56a). Rashi (there) explains that in that context *kaka * refers to Rava’s inner teeth (“molars”), implying that *shein * refers to his outer teeth (“incisors”). Elsewhere, the Tosafists (to *Avodah Zarah* 28a and *Gittin* 69a) dispute the notion that *kaka * could refer to the “gums,” instead explaining that term as referring to “large teeth” (again, “molars”). In a borrowed sense, the Aramaic word *kaka * is also used to refer to the “teeth” of a wooden key (*Shabbat* 89b).
+
+
+
+ By contrast, the Targumic rendering of *mitalot* and *maltiot * in Aramaic is *nivi *(Prov. 30:14, Job 29:17, Joel 1:6, Ps. 58:7). This Aramaic word appears several times in the Talmud. For example, when discussing the possibility of determining an animal’s kosher status by looking at its teeth, the Talmud (*Chullin* 59a) mentions two types of teeth, *shein* and *nivi*. While *shein * refers to what we generally call “teeth,” the meaning of *nivi * in this context is not readily understood. Rashi (to *Chullin* 59a) offers two explanations as to what *nivi* are: In his first explanation, he clarifies that *nivi * are two specific teeth that stand out from the rest of the teeth in an animal’s mouth (possibly “fangs”?), while in his second explanation he claims that *nivi * are actually indentations in animal’s gums where one would have otherwise expected there to be actual teeth. The Tosafists (to *Chullin* 59a) favor Rashi’s first approach, although the *Shulchan Aruch *(*Yoreh Deah* §79:1) cites both explanations (see also Rashi to *Shabbat* 63b and *Bava Kamma* 83a). [A similar word, *niv*, exists in Biblical Hebrew and is also associated with the mouth (Isa. 57:19, Mal. 1:12). However, the Hebrew *niv * refers to “speech,” as I explained in “[Prophets and Visionaries](https://ohr.edu/this_week/whats_in_a_word/8165)” (Dec. 2018).]
+
+
+
+ The prophet Ahijah the Shilonite foretold of the destruction of House of Jeroboam by saying that they will be annihilated "like the *gallal* consumes until total obliteration" (I Kgs. 14:10). The Talmud (*Bava Kamma* 2b) explains that *gallal* refers to a “tooth.” Technically, in context it refers to any type of damage similar to that caused by the tooth (for example if one’s animal eat somebody else’s produce). There are three ways of explaining the connection between *gallal * and “tooth”:
+
+
+
+
+
+
+- Rabbeinu Chananel (cited by the Tosafists there) explains that the word *gallal * literally means something “rock hard” (see Ezra 5:8, 6:5), and therefore it can refer to “teeth” which are rock hard.
+
+
+- Rashi (to *Bava Kamma* 3a) explains that *gallal * is related to the word *gilui* (“revealing”), and refers to a part of the body which is sometimes revealed and sometimes not — an apt description of “teeth.”
+
+
+- Alternatively, Rashi (there) explains that *gallal * literally means “dung” (often in round fecal pellets), and refers to “teeth” because one of the body’s tools for consuming food and converting it into bodily refuse.
+
+
+
+ When detailing the bodily blemishes that disqualify/exempt an animal from being offered as a *bechor* ("firstborn"), the Mishnah (*Bechorot* 6:4) and Midrash (*Sifra*, also known as *Torat Kohanim*, to *Emor Parshata* 7:12) mention the *chit* (spelled CHET-(YOD)-TET), saying that if the “outer *chit*” is deficient or otherwise cut, or the “inner *chit*” is totally uprooted, then this is considered a blemish. But, if its "inner *chit*" was merely deficient but not totally uprooted, then this is not considered a blemish (*Bechorot* 6:12).
+
+
+
+ What is a *chit*?
+
+
+
+ Rashi (to *Bechorot* 35a) explains that it refers to the animals’ "gums," wherein the teeth are expected to be. Based on this, he clarifies that the "outer *chit*" refers to the part of the gums where the incisors ought to be, while the "inner *chit*" refers to the part of the gums where the molars ought to be. The Mainz commentary ascribed to Rabbeinu Gershom (to *Bechorot* 35a) explains it differently: *chit* actually refers to the "teeth" themselves (incisors and molars, respectively), not the "gums" in which the teeth are set. This latter explanation is also adopted by Rabbi Nosson of Rome (1035–1106) in his classical work *Sefer HaAruch*. [Maimonides (to *Bechorot* 6:4) and others have a different version of the Mishnah, wherein the word is read as *chut, * spelled with a VAV.]
+
+
+
+ Until very recently, the word *chit * was not attested to anywhere in the Bible or Rabbinic Literature save for that one reference in the Mishnah and Midrash*. * However, in 2022, an international group of archeologists led by Dr. Daniel Vainstub from Ben-Gurion University reported in the *Jerusalem Journal of Archaeology* that they had discovered an interesting find at the site of the ancient city of Lachish. They found an ivory comb with an inscription written in Canaanite script that has been reconstructed to read: “May this *chit * root out the lice of the hair and the beard.” The author of this inscription referred to the comb as a *chit * both because it was made of ivory — that is, an elephant’s “tooth”— and because as a comb it uses “teeth” (in a borrowed sense, as per above). Amazingly, in this inscription, we find evidence of the fact that Rabbinic Hebrew even preserved ancient Semitic (Canaanite) words that predate the Bible, yet are not found in the Bible.
+
+
+
+ Dr. Alexander Kohut in *HaAruch HaShaleim * argues that the word *chit * derives from the root CHET-TET-TET, which means to “dig/peck” and refers to the tooth’s role in digging into food and helping cut it into smaller digestible bits. However, I was thinking that perhaps *chit * is related to the word *chitah *(“wheat”). In fact, if you look at a stalk of wheat, you might notice that the spikelets protrude from the rachis in a way that somewhat looks like teeth protrude from the gums.

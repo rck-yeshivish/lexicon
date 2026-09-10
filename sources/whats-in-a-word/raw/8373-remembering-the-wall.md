@@ -1,0 +1,82 @@
+---
+id: 8373
+slug: remembering-the-wall
+title: "Remembering the Wall"
+date: 2020-07-25
+hebrew_date: "For the week ending 25 July 2020 / 4 Av 5780"
+url: https://articles.ohr.edu/articles/remembering-the-wall
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Remembering the Wall
+
+The best way to remember the glory of the Holy Temple is to imagine ourselves reliving those times of old. Imagine walking past the Walls of Jerusalem (*Chomot Yerushalayim*) towards the Temple Mount. We can picture ourselves moving beyond the wall of the rampart (the *Cheil*) and into the Temple building. We can envision ourselves gazing upon the altar and seeing its bloodied walls (*Kir HaMizbeach*). But alas, the only remnant of that magnificent complex that still stands is the Western Wall, the *Kotel HaMaaravi*. In this essay we will explore six Hebrew words that mean “wall” (*chomah, kir, shur, cheil, chayitz, * and *kotel*) to better understand the nuances conveyed by each individual word.
+
+
+
+ As is his wont, Rabbi Shlomo of Urbino (a 16th century Italian scholar) writes in his work *Ohel Moed *(a lexicon of Hebrew synonyms) that the six words in question all mean the exact same thing. However, if we dig deeper into the roots of these words, we will see that there is more to it than that. Rabbi Shlomo Pappenheim of Breslau (1740-1814) traces the words *cheil, chomah, kir, shur, * and *chayitz* to their respective two-letter roots. In doing so, he helps shed light on the nuances conveyed by these different words.
+
+
+
+ The word *chomah* appearsmore than 130 times in the Bible and always refers to a “wall” that surrounds a city or an important/large building. Rabbi Pappenheim (like Menachem Ibn Saruk) traces the word *chomah * to the two-letter root CHET-MEM, which, he explains, refers primarily to “heat.” As a derivative of this meaning, that biliteral root gives way to the word *milchamah *(“war”) — which is the culmination of a *heated* fight between multiple parties. Based on this, Rabbi Pappenheim suggests that perhaps the word *chomah * is related to *milchamah*, as the main purpose of building a city wall is to protect its inhabitants from enemy warfare. Alternatively, Rabbi Pappenheim proposes that the word *chomah * is related to this two-letter root because the city wall might serve to block cool winds from entering, thus keeping the city warm.
+
+
+
+ Rabbi Eliezer ben Nosson (1090-1170), also known as the Raavan, notes that *chomah * is also related to “sight,” as the Aramaic root CHET-MEM-HEY refers to “seeing” (for example, see Targum Yonatan to Ex. 14:31). Rabbi Samson Raphael Hirsch (to Gen. 49:22) makes a similar point.
+
+
+
+ [Rabbi Yaakov Tzvi Mecklenburg (1785-1865) in *HaKsav VeHaKabbalah * connects *chomah * to *cheimah *(“anger”) and *chamah *(“sun”), focusing on how a city wall sets a city apart from everything beyond its walls. Interestingly, Rabbi Hirsch (to Gen. 21:15) proposes that the word *cheimet *(“flask”) is related to *chomah* because a flask encloses and protect its contents, just like a city wall surrounds and protects a city.]
+
+
+
+ The word *kir * in the sense of “wall” appears about 74 times in the Bible. Most grammarians trace *kir * to the triliteral KUF-YOD-REISH, but some understand that the letter YOD is not part of the root. Rabbi Yehudah Aryeh of Carpentras (an 18th century grammarian and *dayan*) writes in *Ohalei Yehuda * that *kir* is related to *kor*/*kar* (“cold”), as it refers to a wall whose purpose is to provide shade and allow people to “cool off.”
+
+
+
+ Rabbi Pappenheim takes a different approach. He traces *kir * to the two-letter root KUF-REISH, which refers to the “strong impact” that results from extreme weight or velocity. One branch of words derived from this root are *korah *(“wooden beam”) and *tikrah *(“ceiling”), because the weight of the horizontal beams that comprise the ceiling weigh down on a building’s support, thus creating a point of impact. With this in mind, Rabbi Pappenheim explains that *kir *(“wall”) refers to a vertically positioned wooden beam that bears the weight of a structure. From that original sense, *kir* was borrowed to refer to any sort of wall (i.e. even of stone or metal).
+
+
+
+ When Balaam foretells of Jewish ascendancy in Messianic times, he says that the Jews will *karkar* all the other nations of the world (Num. 24:17). Most commentators (Rashi and Ibn Ezra there, Ibn Janach in his *Sefer HaShorashim*) explain that this means that the Jews will “destroy” those nations, but they fail to explain the etymology of the word *karkar * and how it means “destroy*.*”Nevertheless, Radak in his *Sefer HaShorashim* writes that *karkar * derives from *kir*, explaining that this verb refers to “destroying a wall” (i.e. eliminating their means of protection). He compares *kir* to the noun *shoresh *(“root”), whose verb-form of *misharesh * means “to uproot.” Thus, *kir * can refer both to building a wall and also to tearing down a wall — two polar opposites. (Rabbi Hirsch (to Lev. 19:28, Num. 24:17) and Rabbi Yitzchok of Volozhin’s *Peh Kadosh* (to Num. 24:17) both offer comparable explanations).
+
+
+
+ The word *shur * in the sense of “wall” appears only in a handful of places in the Bible (Gen. 49:22, II Sam. 22:30, Ps. 18:30, and possibly Jer. 5:10 and Iyov 24:11). *Shur *(or more specifically, *shura*) appears more commonly in the Targumim as an Aramaic rendering of the Hebrew word *chomah *(Lev. 25:29, Joshua 2:15, 6:20, Lam. 2:8).
+
+
+
+ Rabbi Pappenheim traces the word *shur * to the two-letter SHIN-REISH, which refers to a “focal point.” He notes that the word*shar/sharir* (see Yechezkel 16:4, Prov. 3:8, and Iyov 40:16), which means “umbilical cord,” is the focal point that connects a fetus to its mother, and *shor * refers to an “ox,” whose main strength lies in its torso, thus placing a focus on its navel area. Based on this, Rabbi Pappenheim writes that the word *shoresh *(“root”) is also derived from this root because a plant’s roots are the focal point of its growth. Rabbi Pappenheim also explains that the word *yashar *(“straight”) derives from this root, as it denotes the fastest and shortest way to reach a specific focal point. To that effect, he notes that the word *shir *(“song”) relates to this root’s core meaning because it denotes a poetic composition that centers around one specific topic (“point”) and does not deviate from that theme.
+
+
+
+ Rabbi Pappenheim also writes that *shur * in the sense of “seeing” (see Num. 23:8, 24:27, Iyov 35:5) is also derived from SHIN-REISH because, unlike the other senses, the sense of sight can be directed to focus on a specific point and is not forced to take in everything at once. As corollaries to this meaning, *teshurah *(“tribute”) refers to a special gift given to somebody who greets (i.e. “sees”) a dignitary, *nesher *(“eagle”) refers to a bird who can “see” to far distances, and *sheirut *(“service”) refers to one who over*sees * the fulfillment of his master’s needs. (Alternatively, Rabbi Pappenheim explains that *sheirut * refers to “straightening” out the household affairs or remaining “straightforward” and steadfast to one’s boss’s wishes.)
+
+
+
+ When it comes to *shur * in the sense of “wall,” Rabbi Pappenheim offers two ways of connecting this word back to the primary meaning of SHIN-REISH. First, he proposes connecting *shur * with *yashar, * explaining that it refers specifically to a wall that is built as a straight line (as opposed to a *chomah* that encircles a city). Secondly, he writes that *shur * as “wall” is related to *shur * as “seeing,” because it denotes a tall wall that is used as a lookout post. In line with this latter supposition, Rabbi Dr. Ernest Klein (1899-1983) notes that both *shur * and *chomah * are words that bear the double meaning of “wall” and “seeing.” (See Rashi to Gen. 49:22 who seems unsure about whether *shur * there means “wall” or “seeing”. Interestingly, Radak writes that the word *shor * in Gen. 49:6 means “wall,” just as *shur * later in that chapter does.)
+
+
+
+ In discussing the word *cheil, * Rabbi Pappenheim explains that this word derives from the biliteral root CHET-LAMMED, which refers to “circular movement” and the “empty space” within a circumscribed circle. Accordingly, he understands that *cheil * refers to a short wall which surrounds a taller wall. The *cheil * thus creates an “empty” space between the two walls that serves as a sort of no man’s land. Rabbi Pappenheim further adduces his position from the Mishna (*Middos *2:3) that refers to the space between the walls of the Temple Mount and the actual Temple building (i.e. the Women’s Courtyard) as the *cheil*.
+
+
+
+ The Talmud (*Pesachim *86a) characterizes a *chomah * and a *cheil * as “a *shura * and a *bar*-*shura*” (“a wall and the son of a wall”). According to Rashi this means that *chomah * refers to an exterior wall while *cheil * refers to a shorter wall within the *chomah *(thus resembling a small son overshadowed by his bigger father). Radak seems unsure about whether *cheil * denotes a wall that is outside a *chomah * or inside a *chomah. * He then suggests that perhaps *cheil * does not even mean a “wall”, but rather it refers to a moat dug on the outskirts of a *chomah*.
+
+
+
+ The Hebrew word *chayitz* is a *hapax legomenon * because it only appears once in the entire Bible (Ezek. 13:10). Ibn Janach writes that the YOD is in place of an additional TZADI, so its root is really CHET-TZADI-TZADI, which means to "partition." Rabbi Pappenheim similarly understands the word *chayitz* as an offshoot of the root CHET-TZADI, which means “dividing” or “splitting” something into two parts. Other words derived from this root include *chatzi *(“half”), *chazot *(“midday” or “midnight”), *chutz* (“outside/exterior”)*, * and *cheitz *(“arrow”). Rabbi Pappenheim theorizes that *chayitz * specifically refers to a wall that divides one area/domain into two, and is thus synonymous with the Mishnaic Hebrew word *mechitzah* (see *Bava Basra* 1:1)*. * That said, Rabbi Moshe Zacuto (1625-1697) in *Kol HaRamaz *(to *Sheviis *3:8) writes that *chayitz * specifically denotes a “flimsy partition,” while *mechitzah * can apply to any sort of “partition” or “divider.”
+
+
+
+ Finally, we have arrived at the word *kotel. * This word appears only three times in the Bible: Once in Hebrew in Song of Songs 2:9, and twice in the Aramaic cognate *ktal *(Dan. 5:5, Ezra 5:8). The word *kotel * more commonly appears in the Targumim as an Aramaic rendering of the Hebrew word *kir *(see Targum to Lev. 1:15, 14:37, Joshua 2:15 and more), and Rabbi Ernest Klein actually connects *kotel* with the Akkadian *kutallu *(“backside”).
+
+
+
+ To summarize: *chomah *= city wall or lookout post, *kir *= generic term for any structural wall, *cheil *= short wall, *chayitz *= flimsy partition, *mechitzah = * any partition*, shur* = Aramaic for *chomah*, *kotel *= Aramaic for *kir.*
+
+
+
+
+
+*For questions, comments, or to propose ideas for a future article, please contact the author at **[rcklein@ohr.edu](mailto:rcklein@ohr.edu)*

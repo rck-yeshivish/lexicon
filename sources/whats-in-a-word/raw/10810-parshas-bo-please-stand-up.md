@@ -1,0 +1,64 @@
+---
+id: 10810
+slug: parshas-bo-please-stand-up
+title: "Parshas Bo: Please Stand Up"
+date: 2023-01-28
+hebrew_date: "For the week ending 28 January 2023 / 6 Shvat 5783"
+url: https://articles.ohr.edu/articles/parshas-bo-please-stand-up
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Parshas Bo: Please Stand Up
+
+Although the word *amidah *(“standing”) and its variants appear over 500 times in the Bible, the word *nitzav *(and its various inflections) also means “standing,” and makes quite a few appearances in the Exodus narrative and the Book of Exodus in general. For example, when baby Moses is placed in a basket on the Nile River, his sister Miriam “stood (*v’titatzav*) from afar” (Ex. 2:4) to follow her little brother’s fate. Similarly, after Moses and Aaron’s first audience with the Pharaoh, the Bible relates that certain men — identified by the Talmud (*Nedarim* 64b) as Dathan and Abiram — were “standing” (*nitzavim*) to greet the future saviors and criticize their noble efforts (Ex. 5:20). Later on, in the lead-up to the Plague of Blood, Hashem tells Moses “Go to Pharaoh in the morning, behold he goes out to the waters, and you shall stand (*nitzavta*) to greet him at the edge of the river” (Ex. 7:15). What is the difference between the type of “standing” meant by the term *amidah*, and how does it differ from the type of “standing” denoted by *nitzav*?
+
+
+
+ Rabbi Tzvi Elimelech Shapiro of Dinov (1783–1841) explains that *nitzav * implies a new act of “standing” (for example, if one was first sitting and then stood up), while *amidah* can apply to somebody or something that had already been “standing” hitherto. As prooftexts to this distinction, Rabbi Shapiro cites two verses: In one verse, Moses tells the Jewish People at the edge of the Reed Sea to brace themselves in anticipation of a great miracle, “And Moses said to the nation: ‘Do not fear, stand up (*hityatzvu*), and you will see the salvation of Hashem…’” (Ex. 14:13). In this passage, a cognate of *nitzav* is employed, because Moses essentially told the People to recalibrate their stance as though standing anew, in order for them be behold the miraculous spectacle that was about to happen. He basically asked them to “switch positions” from something akin to sitting into something akin to standing. In another verse, the Bible describes that Abraham was “already standing (*omed*) before Hashem” (Gen. 18:22), when he began to plead for Hashem to save Sodom. In this case, a variation of *amidah * is used, because it denotes Abraham having *already been* standing from before, not standing anew.
+
+
+
+ Although Rabbi Shapiro actually concedes that there are multiple counter-proofs to the distinction he drew between these terms, that did not stop him from using his distinction to explicate another verse. He uses his distinction between *nitzav * and *amidah * to explicate a passage wherein both words appear in tandem while telling of Hashem’s role as the Ultimate Judge: “Hashem stands (*nitzav*) for litigation, and He stands (*omed*) for the judgement of nations” (Isa. 3:13). As Rashi explains it, the first part of this verse discusses Him judging the Jewish People, which is done in a hasty and less-thorough way because He has mercy on His nation. The second part of the verse discusses Hashem judging the other nations through more thorough and meticulous proceedings. Rashi adds that the word *omed * implies something that is delayed or stalled (as though it was just “standing” there for an extended time).
+
+
+
+ Rabbi Shapiro reflects on the same idea by explaining that when it comes to describing the judgement against the Jewish People, Isaiah uses a cognate of *nitzav*, because Hashem standing for judgement against them is a “new development” that goes against His default approach of mercy. On the other hand, when it comes to describing His judgement against the other nations, a cognate of *amidah* appears, because Hashem is “already standing” in judgement against those nations by default, ready to hear any grievances against them.
+
+
+
+ One of the sources which may serve as a counter-proof to Rabbi Shapiro’s explanation is the Midrash (*Bereishit Rabbah* §48:7, *Shir HaShirim Rabbah *§2:21, Midrash *Shocher Tov* to Ps. 22:19, and *Pesikta Rabbati* §15 *HaChodesh*) that explicitly states that the difference between *nitzav * and *amidah* is that *nitzav * means *etimos/hétoimos*, which is a Greek word that means “prepared/ready.” This Greek word is also used in *Targum Sheini* (to Est. 3:14) to render the Hebrew term *atidim *(“prepared”). Indeed, cognates of the term *nitzav * are often rendered by Targum as variants of the root AYIN-TAV-DALET (see Gen. 28:13, Ex. 2:4, 8:16, 34:2 and I Sam. 1:16), which gives us words like *atid *(“prepared,” “future”).
+
+
+
+ These facts lead us into another possible way of differentiating between *nitzav * and *amidah*. Rabbi Shlomo Pappenheim (1740–1814) explains that the term *amidah* denotes the simple act of remaining stationary in a specific place whilst in an upright position. In Ex. 26:15, *shittim* trees are said to stand (*omed*), because they are erect and stay in one spot. Similarly, when Joshua caused the moon to stop its lunar movements while he fought at Gibeon, the Bible (Josh 10:13) relates that the moon "stood" (*omed*) to convey the idea that it stagnated in place.
+
+
+
+ While the term *amidah* is teleologically neutral and simply relays the notion of standing in place, the term *nitzav * implies standing for a specific purpose. For example, the ladder in Jacob’s dream was described as *mutzav *(Gen. 28:12), because the ladder was purposefully set up in a standing position so that it may later be used for going up and down. This explanation dovetails nicely with the Midrash and Targumim we cited above that explain *nitzav * as implying “standing” for a specific reason, that is, as a means of preparing oneself and/or anticipating a future development.
+
+
+
+ Rabbi Pappenheim traces the word *nitzav * to the two-letter root TZADI-BET, meaning “standing/stationing.” Other words derived from this biliteral root in Rabbi Pappenheim’s estimation include *yatziv *(“true/well-grounded,” because it has a well-established basis so it stands on solid footing), *tzvi* (“desire/want,” because desirable things always remain in one’s thoughts, as though constantly “standing” in front of him), *tzava* (“army,” because soldiers are stationed at certain positions to complete a military formation), *tzavah* (“bloated,” because something totally inflated becomes stuck in its place where it remains stationed), *tzav *(“turtle,” a creature whose shell makes it appear to be swollen and distended), and *tzav* (“covered wagon,” a vehicle that resembles the shape of a turtle). Parts of Rabbi Pappenheim’s explanation are cited by Rabbi Yaakov Tzvi Mecklenburg (1785–1865) in *Ha’ktav Ve’ha’kabbalah* and by the Malbim in *Yair Ohr*.
+
+
+
+ In echoing Rabbi Pappenheim’s explanation to these word, the Malbim notes that *amidah * is a general term that simply denotes the bodily posture that is the antonym of “sitting,” “lying,” or “walking.” By contrast, the term *nitzav * implies one actively and purposefully standing and presenting oneself. The term *nitzav * thus typically implies exerting special effort to continue standing in a certain situation (whether that means “standing up” against one’s enemies, “standing up” in presenting oneself to somebody important, or “standing over” something by actively watching/supervising it). A similar explanation is implied by Radak (to I Sam. 19:20).
+
+
+
+ In a pep talk given before a major battle, Jehoshaphat the King of Judah, somewhat echoed Moses’ words at the Reed Sea by saying: “stand (*hityatzvu*), stand (*imdu*), and you will see the salvation of Hashem with you..." (II Chron. 20:17). The *Metzudat David* (there) explains that Jehoshaphat used both words for “standing” in order to especially arouse and inspire his soldiers, but that in this context they are actually synonymous. However, Malbim continues with his approach that differentiates between *nitzav * and *amidah* by explaining that first Jehoshaphat used the word *nitzav * to exhort his men to put in special effort to be able to “stand up” and see how Hashem will miraculously bring about the salvation; but subsequently, Jehoshaphat used the word *amidah* to connote them not having to actively do anything to see the great miracle, they can sit back and relax while the miracle will be plainly visible in front of them.
+
+
+
+ In a similar vein, Rabbi Shimon Dov Ber Analak of Siedlce (1848–1907) notices an interesting word-switch in which the Bible first uses *amidah* and then switches to *nitzav*: The Bible reports that the day after Jethro rejoined Moses and the Jewish People, “the nation stood (*amidah*) on Moses from the morning until the evening” (Ex. 18:13), yet when Jethro asks his son-in-law about that very phenomenon, he wonders, “Why do you sit alone, and the entire nation stands (*nitzav*) on you from morning until evening?” (Ex. 18:14).
+
+
+
+ Rabbi Shimon Dov Ber Analak accounts for this by explaining that *amidah* is a neutral term that denotes the postural position of “standing,” while *nitzav* implies “standing” with a specific telos, as a way of waiting or anticipating something to happen. Based on this, he explains the curious word-switch by noting that Jethro originally thought that the Jews were “standing” before Moses for a specific purpose, i.e., each person was waiting for their turn to have their cases adjudicated before him. Because of this, Jethro used the term *nitzav* which implies “standing” in anticipation of something else. By contrast, when the narrator states that the Jews were “standing” before Moses, *amidah* is used because they were standing simply for the purpose of “standing” before Moses. Meaning, they stood in front of Moses because “standing” is the appropriate deportment for a student’s body to be in while studying Torah from one’s teacher (see Maimonides’ Laws of *Talmud Torah* 4:2). This is in line with Moses’ answer to Jethro that the Jews assembled before him in order to learn Torah, not simply as a means of getting their turn to be judged.
+
+
+
+ Drawing on Rabbi Pappenheim’s distinction between *amidah * and *nitzav*, Rabbi Mecklenburg sharpens a difference in wording in the story of Abraham’s servant seeking out a match for Isaac. When the servant prayed to Hashem that he be successful in his mission, he said “behold I am standing (*nitzav*) at the wellspring” (Gen. 24:13), yet a few verses later, when Rebecca’s brother Laban came to meet the servant, the Bible reports “and behold he [Abraham’s servant] was standing (*omed*) over the camels at the wellspring” (Gen. 24:30). Rabbi Mecklenburg explains that in the first instance, Abraham’s servant was deliberately standing by the well for the purpose of seeking out a proper maiden. To connote the deliberate, anticipatory nature of his “standing,” the word *nitzav* is used. Later on, once Abraham’s servant already encountered Rebecca and identified her as the proper spouse for Isaac, he is described as “standing” by the well using the term *amidah*, which denotes a less deliberate action, because he was simply standing there to watch his camels, but not for any higher purpose or objective.
+
+
+
+ Rabbi Shlomo Aharon Wertheimer (1866–1935) explains that *nitzav* implies a prolonged or continuous "standing." He adds that for this reason a *matzeivah* (“single-stone altar” or “monument”) is called so, because it denotes something erected in a way that it was intended to stand in place for a long time. The implication of this is that *amidah, * by contrast, could even refer to momentary “standing” that does not span a long time.

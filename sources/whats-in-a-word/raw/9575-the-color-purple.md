@@ -1,0 +1,92 @@
+---
+id: 9575
+slug: the-color-purple
+title: "The Color Purple"
+date: 2022-02-12
+hebrew_date: "For the week ending 12 February 2022 / 11 Adar Alef 5782"
+url: https://articles.ohr.edu/articles/the-color-purple
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# The Color Purple
+
+Let's clarify this from the get-go: There is no word in Classical Hebrew for the color “purple.” I repeat: There is no word in Classical Hebrew for the color “purple.” In fact, the English word *purple * itself does not necessarily even refer to what we call “purple” nowadays. That being said, there are three Hebrew words which have come to be associated with “purple” — *argaman, segol, * and *lilach*. In this essay we will show how *argaman* does not mean “purple” and is not, in fact, even a color, and how *segol * and *lilach* are Modern Hebrew neologisms that only recently came to mean “purple.”
+
+
+
+ The word *argaman* appears 38 times in the Bible. Additionally, the words *argavan* in Biblical Hebrew (II Chron. 2:6) and *argavana* in Biblical Aramaic (Dan. 5:7) are alternate forms of *argaman,* based on the interchangeability of the letters MEM and VAV. Moreover, *argavana * is also the Aramaic word used by the Targum to translate the Hebrew *argaman*. But what does the word *argaman*/*argavan* mean, and from where does this word come?
+
+
+
+ The root of *argaman * seems to be comprised of five letters: ALEPH-REISH-GIMMEL-MEM-NUN. When writing about four — (quadriliteral), or five — (pentaliteral) letter roots in Hebrew, Ibn Ezra asserts that such atypical words are either compound roots comprised of multiple roots fused together, or are loanwords borrowed from a language other than Hebrew. Indeed, scholars like Rabbi Dr. Ernest Klein (1899-1983) and Dr. Chaim Tawil see the Hebrew *argaman * as borrowed from the Akkadian *argamannu*. The famous American archeologist William Foxwell Albright (1891-1971) argued that the Hebrew word *argaman* cognates with similar Hittite and Ugaritic words that mean "tribute/offering," and thus evoke *argaman* as an expensive dyed cloth that was often paid as tribute.
+
+
+
+ In detailing the laws of the Temple and its paraphernalia, Maimonides (*Laws of Klei HaMikdash* 8:13) writes that *argaman* refers to wool that was dyed red. In his commentary to the Mishna, Maimonides (to *Kilayim* 9:1) again defines *argaman*, this time using the Arabic word *laca*. Bartenuro (there) uses that same word, but also clarifies that *argaman* was wool dyed red. The word *lac* is actually also an English word and refers to a "red resin." It comes up more often in the English terms *shellac* and *lacquer*, which refer to red coloring. Maimonides' approach that *argaman * refers to something dyed red is echoed by later authorities, including his son Rabbi Avraham Maimuni (to Ex. 25:4), Rabbi Tanchum HaYerushalmi (to Dan. 5:7), and *Torat HaMincha* (*Parshat Tetzaveh*).
+
+
+
+ The Midrash (*Shir HaShirim Rabbah* 3:16, *Bamidbar Rabbah* 12:4) states that *argaman * resembles the gold of the *kapporet*, which was of a reddish hue (*Yoma* 45a). In fact, Rabbi Yechiel Michel Epstein (1829-1908) in *Aruch HaShulchan HaAtid *(*Klei Hamikdash *28:12) adduces Maimonides’ position from this source.
+
+
+
+ Radak, in his *Sefer HaShorashim,* initially writes that *argaman* refers to crimson red, but then cites Rasag as explaining that *tola’at shani* refers to crimson red. He therefore concludes that *argaman* must refer to a different shade of red. Several Midrashic sources assert that *argaman* resembles fire, which points to the notion that *argaman* refers to something akin to the color orange (see *Sifrei Zuta, Midrash HaGadol* and *Yalkut Midrashei Teiman * to Num. 4:13, and *Midrash Agur* ch. 14). Several Yemenite sources, including *Midrash Chefetz* and *Meor HaAfeilah* (to Ex. 25:4) write that *argaman* refers to a yellowish-red, while *tola’at shani* refers to a strong red. So perhaps Radak would agree that *argaman * wasorange-colored. (After writing that *argaman * cannot refer to crimson but must be a different shade of red, Radak mentions those who explain *argaman* as *lac*.)
+
+
+
+ Explaining *argaman* as red does not preclude also explaining *argaman* as orange, for essentially orange is a shade of red (mixed with yellow). What is clear, though, is that none of these sources see *argaman* as a mixture of red and blue/green. This omission seems to obviate the notion that *argaman* refers to what we call “purple.” Moreover, all commentators agree that *argaman* does not actually denote a color, but rather refers to woolen fabric that was dyed a certain color. So even if *argaman* refers to purple, it does not refer to the *color* purple, but to wool that was dyed purple.
+
+
+
+ Maimonides’ famed interlocutor Rabbi Avraham ben David of Posquieres (1110-1180), also known as Raavad, disagrees with his position. Instead, he asserts that *argaman* refers to something comprised of two or three colors “woven” (*arug*) together. As Rabbi Yosef Kurkis (circa. 1540) and Rabbi Yosef Karo (1488-1575) clarify, Raavad understood the word *argaman* as a portmanteau of the triliteral root ALEPH-REISH-GIMMEL (like in *arigah*, “weaving/tapestry”) and the word *min *(“species/type”). Thus, he understood *argaman* as reflecting a sort of panoply of colors, not just one specific color.
+
+
+
+ The Midrash (*Bamidbar Rabbah* 12:4) states that the term *argaman* alludes to the sun, who prepares (*oreg*, literally “weaves”) different forms of “sustenance” (*manna*). Alternatively, *argaman * is a reference to G-d, Who “weaves (*oreg*) together the world, so that each thing brings out its species (*min*), and one species will not mix with another.” Similarly, the *Zohar* in *Idra Rabbah* (141b) seems to understand that *argaman* refers to a hue of red that includes other shades as well (see also *Zohar Terumah* 139a).
+
+
+
+ Rashi (to Psalms 68:28), basing himself on *Machberet Menachem*, seems to explain that *argaman* is derived from the triliteral root REISH-GIMMEL-MEM, which usually means “gathering” or “stoning somebody to death.” As Rashi explains it, that root is, in turn, related to the root REISH-KUF-MEM (possibly via the interchangeability of KUF and GIMMEL), which usually refers to “embroidery.” Although Rashi does not explicitly make this point, the common denominator between all the meanings of REISH-KUF-MEM and REISH-GIMMEL-MEM is that they refer to gathering things together — be they multiple stones to kill a person or multiple threads to produce needlework. This perhaps suggests that Rashi follows Raavad’s understanding of *argaman* as consisting of multiple shades joined together.
+
+
+
+ Like Rashi, Ibn Ezra (to Proverbs 26:8) also seems to understand *argaman* as a derivative of the root REISH-GIMMEL-MEM, but he explains that root as referring to “exalted” things, with *argaman* thus seemingly referring to an “exalted” sort of dyed fabric.
+
+
+
+
+
+*Ohalei Yehuda * sees the word *argaman* as a portmanteau of *oreg* (“weaving”) and *manah *(“respectable portion”) in reference to *argaman* being considered an important type of clothing in the ancient world. Alternatively, he prefers the understanding that *argaman* derives from *argavan*, which is comprised of the roots ALEPH-VAV-REISH (“light”) and GIMMEL-VAV-NUN (“color/appearance”), in allusion to the bright color that *argaman* denotes. I similarly propose that *argavan * could be seen as a contraction of ALEPH-REISH-GIMMEL (“weaving”) and GIMMEL-VAV-NUN (“color/appearance”), with the middle letter GIMMEL related to both etymons.
+
+
+
+ Even though Raavad, Rashi, and the others do not explicitly identify *argaman * as red, that does still seem to be their understanding. However, they seem to understand that *argaman* includes multiple shades of red. Indeed, Professor Athalya Brenner-Idan sees *argaman* as a general term that includes various shades of red that range from pink all the way to violet/dark purple. She supports this position by noting that the Temple Scroll (found within the DSS) uses the expression *argaman adom* ("red *argaman*"), implying that the term *argaman* alone can also include shades that are not typically understood as strictly "red."
+
+
+
+ There are some cases in which it is fairly clear that *argaman * does not refer to purple. For example, Rashi (to Song of Songs 7:6) implies that *argaman* is a color that is sometimes found in women’s hair. Yet, as Professor Brenner-Idan first pointed out, it is dissatisfactory to understand *argaman* as referring to purple in that case, because no natural hair is purple-colored. In that particular instance, she supposes that perhaps *argaman* does not refer to a specific color, but serves as a stand-in for any expensive or rare item. See also Targum Onkelos (to Gen. 49:11) and Rashi (there) who write that *argaman* resembles the color of wine, which again seemingly precludes *argaman* as referring to “purple.”
+
+
+
+ That said, the Septuagint consistently translates *argaman* into Greek as *porphyra, * which is the antecedent of the Latin *purpura*, and, ultimately, the Old English word *purpure*. The Modern English word *purple * derives from those earlier words, butdid not always refer exclusively to the red-blue combination with which most English speakers are now familiar. Rather, in several languages the word *purple* means “red,” and the word for what we call “purple” is actually *violet.* The same was true in English until relatively recently. Indeed, the *Oxford English Dictionary* offers the following alternate definition for the word *purple*: “Formerly: of any generally red shade; (now) of a deep, rich shade intermediate between crimson and violet.” Thus, when we hear the word *argaman * translated into *purple*, this is not necessarily what we call “purple,” but rather a generic type of red.
+
+
+
+ The Midrash (*Bamidbar Rabbah* 12:4) states that *argaman* is the most esteemed of the different fabrics used in the Tabernacle and Temple because it represents the garments used by royalty. In many other Midrashic sources, the word used for royal clothes is *purpira*. For instance, the Midrash (*Pirkei D'Rabbi Eliezer,* ch. 50) writes about Mordecai that just as the king wore *pupira*, so did Mordecai wear *purpira*. We also know from various Greco-Roman historians that Tyrian purple was a controlled commodity that was typically only made available to the royal family. However, just because the Greek word we are discussing is a cognate of the Modern English word *purple*, this does not mean that the actual color of the clothes in question was really what we call “purple.”
+
+
+
+ In 1894, Yechiel Michel Pines introduced a new word for “purple”: *segol*. This word seems to be influenced by the English word *violet*, which was originally the name of a purple-colored flower, and then became the word for the color itself. The Talmud (*Brachot* 43b, *Shabbat* 50b) mentions a plant called a *siglei*, which Rashi (there) explains is a reference to the three-petal “violet” flower.
+
+
+
+ Rabbi Dr. Ernest Klein suggests that the name *siglei* derives from the Aramaic word *sigla* (“cluster of grapes”), probably because the formation and color of grapes on a cluster resembles the formation and color of the violet flower. I would further argue that perhaps the Aramaic word *sigla * itself derives from the Hebrew word *eshkol* due to the interchangeability of SHIN and SAMECH, as well as KAF and GIMMEL. We find, in fact, that Targum Yerushalmi typically translates the Hebrew word *eshkol * into the Aramaic *sigla*. Interestingly, Rabbi Eliyahu HaBachur (1468-1549) in *Meturgaman* notes that *sigla * also lends its name to the vowelization symbol *segol*, which is comprised of three dots in a cluster-shaped formation.
+
+
+
+ Another Modern Hebrew term for the color “purple” is *lilach*. Just like *segol * primarily refers to the violet flower and was later extended to refer to the color of said flower, so too was *lilach *(literally, “lilac”) a term originally used from the lilac flower that was later extended to the color of said flower. The same is true of the Modern Hebrew words for “lavender” and “mauve,” which are also recognized by the Academy of the Hebrew Language as different words for “purple.”
+
+
+
+ For more information about the meaning of *argaman*, see *Kuntres*
+
+*Merkavo Argaman* by Rabbi Yisrael Rosenberg of Lakewood. Many of the ideas and sources discussed in this essay were inspired by that work.

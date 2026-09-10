@@ -1,0 +1,64 @@
+---
+id: 8735
+slug: a-coriander-conundrum
+title: "A Coriander Conundrum"
+date: 2020-06-06
+hebrew_date: "For the week ending 6 June 2020 / 14 Sivan 5780"
+url: https://articles.ohr.edu/articles/a-coriander-conundrum
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# A Coriander Conundrum
+
+The Torah twice describes the manna as resembling the *gad * seed (Ex. 16:31, Num. 11:7), but the meaning of the word *gad * is not readily understood. Targum Onkelos leaves the word untranslated in both cases, instead aramaicizing the Hebrew word *gad * into the Aramaic *gada*. Other commentators suggest identifying the Hebrew word *gad * with known plants such as “coriander.” In this essay we will discuss multiple words for “coriander” in Hebrew and other Jewish languages. Afterwards we will cite several alternate commentators who explain *gad * as something other than “coriander.”
+
+
+
+ While Targum Onkelos leaves the word *gad * untranslated, Targum Yonatan (to Ex. 16:31 and Num. 11:7) translates it as *kusbar* — “coriander.” Menachem Ibn Saruk similarly identifies *gad * as *kusbarat*, while Radak in *Sefer HaShorashim * explains that it refers to what the Rabbis call *kusbarta. * Rashi (in both places) also explains that the *gad * plant, whose seeds were said to resemble the manna, refers to *coliander*, an Old French word for “coriander” (with the *l*-sound and *r*-sound being interchangeable, as is often the case).
+
+
+
+ In his commentary to the Talmud, Rashi (to *Shabbat* 109a, *Yoma* 75a, *Avodah Zarah* 10b) explains the Aramaic words *kusbarta * and *gida * with a different Old French word for “coriander” — *aillendre* (possibly pronounced *aliandre*)*. * What is the difference between *coliander * and *aillendre*?
+
+
+
+ After consulting with some experts, it seems that the following two possibilities may resolve this “contradiction” in Rashi: First of all, it seems that in Jewish dialects of Old French the opening consonant of the word *coliander* might have been dropped, thus rendering the word as *aillendre*. According to this understanding, Rashi may have used both pronunciations interchangeably. So, in one of his works he uses one word while in the other work he uses the other word. However, this explanation does not account for why Rashi’s commentary to the Chumash uses the word *coliander,* while his commentary to the Talmud uses *aillendre.*
+
+
+
+ Secondly, it has been pointed out that alternate manuscripts of Rashi’s commentary to the Chumash read *aillendre* instead of *coliander*, while alternate manuscripts of his commentary to the Talmud read *coliander* instead of *aillendre*. This suggests that the appearance of the term *aillendre* is unintentional, and actually reflects a copyist’s error stemming from permutation, as in some scripts the letters ALEPH and KUF appear very similar. (Special thanks to Dr. Ariel Shaveh of the Academy of the Hebrew Language and Rabbi Tzvi Mordechai Libber of Milwaukee for these suggestions.)
+
+
+
+ In American English, the term *cilantro *(which comes from the Spanish word for “coriander”) refers to the leaves and stalks of a coriander plant, while the seeds are called *coriander*. Etymologically-speaking, the American English word *culantro * is a synonym for *cilantro*, but in practice it refers to a different plant that is native to the Americas.
+
+
+
+ The word *kusbar * appears several times in the Mishna, including: *Sheviit* 9:1, *Kilyaim* 1:2 (cited in *Pesachim* 39a in a discussion of what vegetables may be used for *Maror * on Passover), and *Maasrot* 3:9, 4:5. Linguists recognize both the words *kusbara * and *coriander * as belonging to very ancient languages, tracing *kusbara * to the Sanskrit *kustumbari*/*kustumburu, * and *coriander * to *korijadana* in the proto-Greek language known as Linear B. That said, Rabbi Dovid Golumb (1861-1935) in *Targumna* parses the word *kusbara * as comprised of two Hebrew roots that mean “cut up,” “chewed up,” or “masticated”: KAF-VAV-SAMECH (or, perhaps, KAF-SAMECH-SAMECH) and BET-REISH (see Yechezkel 23:47).
+
+
+
+ Interestingly, the Talmud (*Avodah Zarah *10b) relates that when Antoninus sent Rebbe a coded message about his promiscuous daughter, Rebbe replied by sending him *kusbarta, * which was supposed to mean that he should put her to death, as *kus * means to “chew” or “slaughter” (see *Pesachim* 63a which teaches that *kus * in Syriac means to “slaughter”) and *barta, * which means“daughter.” Ultimately, when Antoninus pointed out that doing so would totally erase his progeny, Rebbe encouraged the Roman official to have mercy on his deviant daughter (see Rabbeinu Chananel, *Sefer HaAruch, * and Rashi there). Others explain that Antoninus actually misunderstood the meaning of Rebbe’s message, as the word *kusbarta * was really meant to stand for *kasah *(“cover up”) and *barta *(“daughter”), which means that Antoninus should cover up her misdeeds and not punish her (*Tosafot Rabbeinu Elchanan, Tosafot HaRosh, * and *Nimukei Yosef*).
+
+
+
+ Going back to the word *gad, * Rabbi Shlomo Pappenheim of Breslau (1740-1814) understands that the two-letter root GIMMEL-DALET means “attachment/connection.” He explains some other words derived from this root include *gad *(a “spiritual force” that is *attached* to a specific physical entity), *gid *(“sinew,” which *holds together* different parts of the body), *gedud *(“squad,” a unit of soldiers *joined together*), and *haggadah* (the act of presenting new information by *merging it into* a broader narrative). In that spirit he explains that *meged *(Deut. 33:13-14), *megadim *(Song of Songs 4:13), and *migdanot *(Gen. 24:53) all refer to sweet-tasting foods, as one’s palate desires to “connect” to such delicacies. Based on this, Rabbi Pappenheim suggests that perhaps the *gad * seeds referenced when describing the manna also refer to a sort of sweet edible seed. (By the way, coriander seeds are sometimes described as sweet).
+
+
+
+ As an aside, coriander is known as *goid* in North African Punic, leading the German linguist Wilhelm Gesenius (1786-1842) to claim that *goid * is derived from the Hebrew *gadad* (“to cut”), in allusion to the wrinkled and furrowed appearance of the seeds.
+
+
+
+ The Talmud mentions a food called *gudgedaniyot*, which Rashi (to *Eruvin* 28a and *Gittin* 70a) defines as *aillendre * in Old French (“coriander”). Jastrow vowelizes the word as *gadgadniyot,* and defines it as a type of “clover” or “cherry” (see also Rashi to *Berachot* 57b and *Sefer HaTishbi*). Either way, it seems that Rashi understood the Talmudic word *gudgedaniyot* as related to the Biblical *gad*.
+
+
+
+ As mentioned in the beginning of this essay, not everybody agrees that *gad * refers to “coriander.” Rabbi Yehudah Ibn Balaam (1000-1070) writes in the name of Rabbi Hai Gaon (939-1038) that “*gad * seed” refers to “mustard seeds.” This opinion is also cited by Ibn Ezra (in both his “long” and “short” commentaries to Ex. 16:31, and in his comments to Num. 11:7), who writes the “coriander” explanation as well, and concludes that he is unsure about which view is correct. Rabbi Yehuda Leib Krinsky (1840-1915) writes in *Yahel Ohr * that Ibn Ezra reasoned that the word *gad * is related to *gedi *(“kid” or “young goat”), which denotes the smallest type of caprine animal, and so it could make sense that when talking about seeds it would refer specifically to the “mustard” seed, which is used in the Talmud to denote the smallest type of seed.
+
+
+
+ Rashi (to Ex. 16:31), Rashbam and Radak all clarify that when the Torah describes the manna as resembling “white *gad * seed,” this should not be taken to mean that *gad * seeds are white. Rather, the Torah means that the manna was white and that its shape resembled a *gad * seed. In fact, these commentators explicitly note that the *gad * seeds are *not * white. This fits with those who interpret *gad * as “coridander,” whose seeds are yellowish-brown, and even with those who interpret it as “mustard,” whose seeds are dullish gray and brown. On the other hand, Gersonides (to Ex. 16:14 and 16:31) writes that the *gad * seed was indeed white. Since neither coriander seeds nor mustard seeds are white, Gersonides seems to identify *gad * with something else. (Although, truth be told, Ibn Balaam does claim that mustard seeds are white.)
+
+
+
+ Finally, Rabbi Golumb suggests reading the word *gad * backwards as *dag *(“fish”). He explains that “fishseed” in the context of the manna refers to caviar, an especially notable and prominent food.

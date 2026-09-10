@@ -1,0 +1,34 @@
+---
+id: 6963
+slug: of-oaths-and-promises
+title: "Of Oaths and Promises"
+date: 2016-10-01
+hebrew_date: "For the week ending 1 October 2016 / 28 Elul 5776"
+url: https://articles.ohr.edu/articles/of-oaths-and-promises
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Of Oaths and Promises
+
+The Torah exhorts man to “keep his word” and identifies two types of verbal utterances which must be followed: a *neder *and a *shevuah *(Numbers 30:3). The word *neder *is commonly translated as a “promise”, while *shevuah *is commonly translated as an “oath”. This rendering implies that the two words are basically synonymous, with a *shevuah *being a more serious type of *neder*. However, the Talmud (*Nedarim* 2b) understands that *neder *and *shevuah *are two different types of verbal expressions, and each must be dealt with on its own terms. In fact, the Mishnah has two separate tractates in two separate Mishnaic Orders which deal with these laws: *Nedarim* is in the Order of *Nashim* and *Shevuot* is in the Order of *Nezikin*.
+
+
+
+ A *shevuah *is an oral statement that generally invokes the name of G-d, and focuses on the person who makes the statement. These statements may take positive or negative forms, and may refer to either the past or the future. For example, in a *shevuah *a man says, “I swear I *will do* such-and-such”, “I swear I *will*
+
+*not *do such-and-such”. Similarly: “I swear I *did do* such-and-such”, or “I swear I *did not do* such-and-such”. Additionally, in the course of civil litigation a Jewish court may impose two more types of *shevuot*: One type of *shevuah *is imposed on a litigant in order to substantiate the veracity of his argument(s), and the other type of *shevuah *is imposed on potential witnesses who were subpoenaed by the court, but claim they have nothing to testify. All of these *shevuot *must be fulfilled or must refer to something that is already true.
+
+
+
+ There is also an illegal type of *shevuah* outlawed by the third of the Ten Commandments. That commandment forbids one from taking G-d’s name in vain, and refers to four types of vain oaths: Swearing about something which is patently false (“I swear that this marble column is gold”), swearing about something which is blatantly obvious (“I swear that the heavens are the heavens” and other examples of reflexive redundancies), swearing to violate the law of the Torah (“I swear that I will not wear *tefillin*”), and swearing to do something impossible (“I swear I will refrain from sleeping for three full days”).
+
+
+
+ A *neder *is a verbal declaration which creates a halachic status shift, and focuses on an *object* instead of on the *person* making the declaration. For example, a *neder *can be used to create a prohibition from deriving benefit from another thing or person, or from eating a particular foodstuff. The mechanics of a *neder *essentially renders the object of one’s verbal declaration into quasi-consecrated property, thereby marking it as forbidden. In other words, a *neder *mimics the procedure for making an object into the holy property of the Temple. This type of *neder *is called a *konam* (a purposefully bowdlerized form of the word *korban — *sacrifice). Case in point: If one makes a *neder *that he will not smoke, he has essentially said, “I promise that benefits derived from cigarettes shall be forbidden to me, just like the use of a consecrated animal is forbidden to me”. Indeed, when one promises to donate a sacrifice or other component to the Holy Temple, that pledge is also called a *neder. *
+
+
+
+ Another type of *neder *is called a *nedava*, which is essentially one statement that includes the promise to offer a sacrifice (sometimes only implicitly), plus the designation of a specific animal as said sacrifice. E.g., if one points to his ram and says, “This ram shall be a burnt-offering”, he is essentially obligating himself to bring a burnt-offering, and is also designating *that* ram as the consecrated item.
+
+
+
+ In short, both a *neder *and a *shevuah* refer to oral pronouncements that have legal standing in the Torah, but their points of foci are on different aspects. The *neder *focuses on a specific object, rendering forbidden that object or the benefits which can be derived from it. The *shevuah *focuses on the party pronouncing the oral declaration, and obligates him to do or not do a specific action. All in all, man’s power to create these types of legal realities by way of words shows the influence and importance granted to the concept of speech. Indeed, King Solomon said, “*Death and life are in the hands of the tongue” *(Proverbs 18:21). Because of the gravity of such matters, it is customary to render null and void all *nedarim *and *shevuot *on the eve of Rosh Hashana and Yom Kippurin order to save people from potentially violating their own verbal utterances.

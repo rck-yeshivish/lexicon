@@ -1,0 +1,80 @@
+---
+id: 9368
+slug: calling-the-defender-vayelech-yom-kippur
+title: "Calling the Defender - Vayelech / Yom Kippur"
+date: 2021-09-11
+hebrew_date: "For the week ending 11 September 2021 / 5 Tishrei 5782"
+url: https://articles.ohr.edu/articles/calling-the-defender-vayelech-yom-kippur
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Calling the Defender - Vayelech / Yom Kippur
+
+The great Tannaitic sage Rabbi Eliezer ben Yaakov said: “A person who performs one mitzvah acquires for himself one *praklit*. A person who violates one transgression acquires for himself one *kategor*" (*Avot* 4:11). In other words, if a person does a good deed, he gains a Heavenly defender (*praklit*), while when a person sins, he gets a Heavenly accuser (*kategor*). In other cases, the antonym of *kategor* is *sanegor* (“defender”). Rashi (to *Avot* 4:11, to *Zevachim* 7b, *Bava Batra* 10a), *Machzor Vitri* (*Avot* 4:11), and Maimonides (to *Avot* 4:11) define *praklit* as *meilitz yosher* or *meilitz tov,* while Rashi (to *Chagigah* 13b) and Rabbeinu Chananel (to *Rosh Hashanah* 26a, *Kiddushin* 5a) similarly define *sanegor * as *meilitz yosher.* What is the difference between the seemingly synonymous terms *praklit, sanegor, * and *meilitz yosher* if they all mean “defender”? In the coming paragraphs we seek to address this question and further sharpen our understanding of the etymologies behind this trio of words.
+
+
+
+ What is a *meilitz yosher*? The Torah states that that when Joseph's brothers mentioned their lost brother in front of the Egyptian viceroy, they did not realize that Joseph actually understood what they were saying, “because there was a *meilitz* between them” (Gen. 42:23). In this context, the term *meilitz * refers to a sort of “translator” or “interpreter” who interfaces between two parties speaking different languages. More broadly, a *meilitz * is a “middle-man” who serves as a go-between to mediate between interlocutors.
+
+
+
+ The particular verbiage *meilitz yosher* is derived from Iyov 33:23-24: "If there is a single defending (*meilitz*) angel from among one-thousand [who speak about a person's sins] to tell about a man’s straightness (*yashro*), [then] G-d will favor that man and say, ‘He has been redeemed from descending to the pits. I have found atonement [for him through his upright deeds]'.” Thus, a *meilitz yosher * is a “defender” who emphasizes a person’s “good” and “straight” deeds, as opposed to a “prosecutor” who emphasizes a person’s “evil” and “criminal” deeds. The Targum (there) renders the verse as referring to “a single *praklit* from among one thousand *kategors*.” In this case, the *meilitz yosher* interfaces between the judge and the defendant in order to highlight the defendant’s worthiness and save him from an unfavorable verdict.
+
+
+
+ The word *meilitz* can be traced to either the root MEM-LAMMED-TZADI or LAMMED-(VAV)-TZADI. Ibn Janach and Radak see the former as related to the root MEM-REISH-TZADI, *meretz *(“fluency,” “persistency”), based on the interchangeability of LAMMED and REISH. In the case of the translator or defender, *meilitz* seems to refer to the requisite smoothness and consistency of one’s oratory skills. Alternatively, Ibn Janach and Radak also trace *meilitz * to the root LAMMED-VAV-TZADI (“thinking,” “explaining,” and “elucidating”), explaining that the *meilitz* uses his logic skills to expand on an argument and explain why it makes sense.
+
+
+
+ Rabbi Pappenheim sees the core meaning of LAMMED-TZADI as “logical verbalizations,” explaining that this can be used for good — like a *meilitz * who tries to defend the accused — or for bad. Hence, the term *leitzanut *(“scorn” or “mockery”) can also be derived from this root to mean the misuse of logical expressions for evil purposes. Elsewhere, Rabbi Pappenheim writes that the letter MEM at the beginning of many three-letter roots serves to switch the meaning of the core two-letter root to its exact opposite. In that way, the two-letter root LAMMED-TZADI (*leitz*) means “scorn/mockery,” while MEM-LAMMED-TZADI (*meilitz)* means just the opposite: “justification” or “defense.” (In Modern Hebrew, the related word *leitzan — *“clown” — is derived from *leitz, * but in this sense, takes on a more positive connotation.)
+
+
+
+ The Hebrew word *meltzer* ("guard" or "waiter") appears twice in the Bible (Dan. 1:11, 1:16). This word might be derived from the same core root as the word *meilitz*, with an additional REISH appended as a suffix to mean the same thing that the English suffix *-er * does. In other words, the added REISH might serve to form an agent noun from a verb or another noun, such that the *meltzer * is the person who engages in being *meilitz*, in the same way that a *baker *(noun) is one who *bakes* (verb), or a *butler* (noun) is one who deals with *bottles* (noun). The *meltzer* as a “waiter” interfaces between the kitchen and those participating in a meal, while a “guard” also interfaces between that which falls under his protection and those who seek to harm his charge.
+
+
+
+ There is some precedent for this explanation in the case of Rabbi Yochanan HaSandler, who was said to be a shoemaker. The word *sandal* in Greek and Mishnaic Hebrew refers to a type of shoe, just like it does in English. The Rashbatz, Rabbi Shimon ben Tzemach Duran (1361-1444), in his commentary to *Avot* 4:11, explains that the added REISH to the appellation *HaSandler * denotes Rabbi Yochanan’s occupation of *shoemaker* (noun), as someone who deals with *shoes* (noun). Rashbatz offers another example by noting that the word Mishnaic Hebrew word *palter *(“professional baker”) — found in *Demai* 5:4 and *Avodah Zarah* 4:9 — is derived from the Greek word *plateia* (“open street”), because a professional baker would typically sell his goods on the street. *Plateia*, by the way, is the etymological ancestor of the English words *place* and *plaza*.
+
+
+
+ Alternatively, Rabbi Yaakov Yehuda Zilberberg (1914-2003) explains that a *meilitz* can manipulate verbal expressions and can produce a sweet-sounding rhetorical trope (see Ps. 119:103 and Rabbi Hirsch there). In the same way that the *meilitz * is occupied with making sure his words are “tasty,” the *meltzer * also taste-tests food before serving it. Dr. Chaim Tawil actually understands *meltzer * to be unrelated to the Hebrew *meilitz*, arguing that *meltzer * is borrowed from the Akkadian word *massaru*/*mansaru *(with the letters NUN and LAMMED interchanging). (The Ashkenazic Jewish surname Meltzer is unrelated to the Biblical *meltzer*, but rather derives from German/English word *malt,* and refers to the occupational maltster who prepares grains for brewing.)
+
+
+
+ Of the three terms that this essay discusses, only *meilitz yosher * is truly Hebrew. The other two words that we will discuss — *praklit* and *sanegor* — are actually loanwords that come from Greek. The word *praklit * appears in the Targum as the Aramaic rendering of the Hebrew word *meilitz *(Targum to Iyov 16:20, 33:23). Although the word is typically pronounced *praklit, Melechet Shlomo* (to *Avot* 4:11) actually vowelizes it as *paraklet*, and MS Kaufmann (the oldest vowelized manuscript of the Mishna) similarly vowelizes it as *parakilit. * In fact, Rabbi Yisroel Lipschutz (1782-1860) in *Tiferet Yisrael* (to *Avot* 4:11, *Yachin* 51) connects this Mishnaic Hebrew word to the Greek word *parakletos *(*paraclete* in Latin).
+
+
+
+
+
+*Praklit*/*parakletos* is often understood as a Greek legal term that variously means “supporter,” “helper,” “sponsor,” “advocate,” and "intercessor.” This Greek term is comprised of *para *(“outside”/“beside”) and *kalein *(“to call”), making the *praklit * a person from outside whom one calls upon to defend him. Historians explain that this term does not refer to the sort of lawyer-for-hire that we might be familiar with in contemporary times. Rather, it refers to one’s patron, who also doubled as one’s standing *counsel* who would intercede on one’s behalf in court when needed. Some scholars even argue that in contrast to the *sanegor,* who would typically have a speaking role in defending his client, the *praklit* would silently help by simply showing up to a hearing and providing moral support. The *praklit*’s mere presence already helps make a litigant’s case. Others explain the *praklit * as a sort of character witness who attests to the defendant’s virtue, but does not directly argue about the case at hand. (In Modern Hebrew, the term *praklit* means "state attorney," who is actually a prosecutor, not a defense lawyer.)
+
+
+
+ With this in mind, we can have a better appreciation of the following Talmudic passage: "Anyone who is taken to the gallows to be sentenced, if he has great *praklitim*, he can be saved. But if he does not, he will not be saved. These are a person’s *praklitim — * repentance and good deeds” (*Shabbat* 32a). In this case, repentance and good deeds serve as “character witnesses” to show a person’s true disposition and allow him to be saved from harsh judgment, even if he is actually guilty of what he is accused. Similarly, the Talmud says that one’s acts of righteousness and kindness serve as one’s*praklitim* before G-d (*Bava Batra* 10a) because they similarly attest to his good character and worthiness. Additionally, Rabbi Shimon bar Yochai explains that when one is obligated to bring a sin-offering and a burnt-offering, the former is always brought first, because “a sin-offering resembles a *praklit* who enters [the king or judge] to appease” and only once the *praklit* achieves that appeasement does the “gift” of a burnt-offering become appropriate (*Zevachim* 7b, Tosefta *Parah* 1:1, and *Torat Kohanim* to Lev. 14:20).
+
+
+
+ The Greek word *sanegor* might be more accurately spelled *synagor*, as it is comprised of the Greek roots *syn* ("together"/"same") and *agor *(“gathering place”/“assembly”). English words that contain the Greek *syn * include *synonym*, *syntax*, *synagogue*, and *synthesis*, while the word *agor * is possibly related to the Hebrew *agur *(“gathering”). The *synegoros* in Ancient Greece was a legal expert who would argue before the assembly on a defendant’s behalf.
+
+
+
+ From an exegetical perspective, many sources explain the word *sanegor* as a contraction of *sani* (“to despise/hate”) and *tigra* (“fighting/argument”), in reference to the *sanegor*’s role as a peacemaker in trying to quell the accusations of the prosecutor. This explanation is cited by Rashi (on *Ein Yaakov Chagigah* 13b), *Machzor Vitri* (to Avot 4:11, and to Laws of Rosh Hashanah), Rabbeinu Elyakim (quoted by *Imrei Noam* to Lev. 16:4), and *Moshav Zekanim* (to Lev. 16:4).
+
+
+
+ Both the Babylonian Talmud (*Rosh Hashanah* 36a) and the Jerusalem Talmud (*Rosh Hashanah* 3:2) explain that one cannot fulfill the mitzvah of *shofar * on Rosh Hashanah by blowing a cow’s horn because “the *kategor * cannot become a *sanegor*.” Meaning, because the bovine beast represents the sin of the Golden Calf, which causes Heavenly accusations to be leveled against the Jewish People, its horn cannot be used for the protective mitzvahof *shofar*. The same explanation is given for why the Kohen Gadol does not wear his Golden Vestments when performing the holiest Temple services on Yom Kippur: since gold invokes the sin of the Golden Calf, which causes Heavenly accusations, that metal cannot be used for the performance of the especially sacred rites on Yom Kippur (Babylonian Talmud *Rosh Hashanah* 36a and Jerusalem Talmud *Yoma* 7:3).
+
+
+
+ Something would be amiss if we discussed the etymologies of the words *praklit * and *sanegor*, but not the word *kategor *(“accuser”)*. * This word also comes from Greek and is comprised of the Greek root *kata *(“down,” “reverse,” “against”) and *agora *(“assembly”). The “accuser” is one who speaks *against * somebody else in front of an assembly. *Encyclopedia Britannica* explains that although *kategoria* originally referred to an "accusation," the early Greek philosopher Aristotle (384 bc-322 bc) already began to use this word in the philosophical sense of an “assertion.” It is an early term from which the English word *category *(“class,” or “group”) is derived*, * into which one can “assert” that an item belongs.
+
+
+
+ Many commentators understand the word *kategor* to mean “slanderer,” as the prosecutor/accuser essentially snitches/informs on people to get them in trouble (see Rabbeinu Chananel to *Rosh Hashanah* 26a and *Kiddushin* 5a, Maimonides to *Avot* 4:11, Rashbatz and Rabbi Yaakov bar Shimshon to *Avot* 4:11). Based on this, Rabbi Eliyahu HaBachur (1469-1549) in *Sefer Tishbi * claims that *kategor * is related to the Latin word *interrogator*. However, from an etymological perspective this does not quite pan out because *interrogator* is comprised of the Latin roots *inter *(“between”) and *rogare* ("to ask"), which has nothing to do with the origins of the word *kategor*.
+
+
+
+
+
+*Machzor Vitri* interprets *kategor * as a portmanteau of *ketata* (“dispute”) and *tigra* (“fighting/argument”), while others explain the term as a contraction of *magur ketat*, which means “instigator of dispute” (*Sefer Kushyot* 346, *Moshav Zekanim* to Lev. 16:4), or *kara tigra* (“calling for a fight”). The later Hebrew word *kitrug* (“accusation”) seems to be a metathesis of *kategor*, with the REISH and GIMMEL consonants switching places.

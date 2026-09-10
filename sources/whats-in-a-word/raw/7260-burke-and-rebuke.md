@@ -1,0 +1,41 @@
+---
+id: 7260
+slug: burke-and-rebuke
+title: "Burke and Rebuke"
+date: 2017-05-20
+hebrew_date: "For the week ending 20 May 2017 / 24 Iyyar 5777"
+url: https://articles.ohr.edu/articles/burke-and-rebuke
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Burke and Rebuke
+
+Edmund Burke (1729-1797), the father of contemporary conservatism, purportedly said, “All that is necessary for the triumph of evil is that good men do nothing.” When good people stand idly by and allow evil people to do as they please, then evil will certainly triumph. The implication of Burke’s dictum is that it is incumbent upon good people to stop the treachery of evildoers. The Torah takes this Burkian approach to the responsibility of the righteous and implores us to reprimand the wicked for their sins (Lev. 19:17). The Hebrew language collates the notion of rebuking sinners in two different words: *tochachah* and *mussar*. In the following paragraphs we shall seek to delineate the differences between these two words and their implied approaches to rebuke.
+
+
+
+ The Vilna Gaon (1720-1797) explains that *tochachah* is rebuke that comes from the mouth, while *mussar* comes from other body parts. In other words, telling somebody off for his misdeeds constitutes *tochachah*, while physically driving home the same point is called *mussar*. Thus, when a parent disciplines his child by hitting him (obviously, in a non-abusive way) or when G-d teaches somebody a lesson by afflicting him, that is called *mussar*. In fact, the Vilna Gaon connects the word *mussar *with the word *yissurin *(“suffering”). When G-d warns the Jews of the calamities that shall befall them should they fail to properly heed the Torah’s laws, this is called *tochachach*. Indeed, there are two passages in the Torah which do exactly that, and each is traditionally known as “the *tochachach*”: Leviticus 26:14-43 (which is always read before Shavuot) and Deuteronomy 28:15-68 (which is always read before Rosh Hashana).
+
+
+
+ The Malbim (1809-1879) identifies three differences between the implication of the words *tochachah *and *mussar*. Those differences lie in the “who, what, and why” of the admonition in question. Firstly, *mussar *is rebuke given by a person of authority to a subordinate, while *tochachah *may even be rebuke exchanged amongst equals. Secondly, *mussar *may be carried out through corporal punishment or simply a verbal tongue-lashing, while *tochachah *exclusively refers admonishing another by logically proving that he has done wrong. Thirdly, *mussar *focuses on inculcating proper behavior for the future, while *tochachah *focuses on castigating a sinner for his past deeds. (This last distinction is also found in the writings of the Vilna Gaon.)
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau (1740-1814) connects the word *tochachah* to *nochach*, which means “opposite” — both in terms of ideology (e.g., “Communism is the *opposite* of Capitalism.”) and physical location (e.g., “The car stopped *opposite* the red light.”). By offering his words of criticism, the rebuker *opposes *the rebukee, both in an ideological sense and possibly even in a physical sense, if the two meet face-to-face.
+
+
+
+ Nonetheless, Rabbi Pappenheim argues that the most effective way of rebuking another is not direct confrontation, but to “innocently” question his actions and spur a debate about their correctness. Hopefully, the ensuing discussion will allow the sinner to realize the folly of his ways in a more powerful way than if he was simply confronted with a litany of his misdoings. For this reason, the word *tochachah *is also related to the words *hochachah* (proof) and *vikuach* (debate). Indeed, the proper way of chastising is not simply sermonizing about fire and brimstone descending from the heavens à la Jonathan Edwards’ *Sinners in the Hands of an Angry God*. That Puritan tract may indeed arouse emotive feelings of repentance through elaborate descriptions of the hellish fires of purgatory, but such emotions are merely fleeting bursts of contrition, unless they are backed with a logical and intellectual acceptance to do only good. *Tochachah *seeks to logically *prove *the vanity of sin and provide fodder for a rational acceptance to do only good.
+
+
+
+ On the other hand, Rabbi Pappenheim writes that the word *mussar* is related to the word *le’hasir *(“to remove” or “to separate”). This is either because *mussar* seeks to “displace” or “remove” an offender from the path of sin within which he had been entrenched or because it clearly “delineates” and “separates” between what is right and what is wrong. Alternatively, the word *mussar *is related to the word *assur *(which literally means “tied”, although it colloquially means “forbidden”) because the rebuker seeks to show the rebukee that he is “bound” to certain expectations of right and wrong. Rabbi Yaakov Tzvi Mecklenburg (1785-1865) similarly explains that *mussar *is related to “tying” because it gives a person the ability to tie down his evil inclination and keep his illicit desires in check.
+
+
+
+
+
+
+- 
+
+*Author’s note: Le’Zechut Refuah Shleimah for Bracha bat Chaya Rachel*

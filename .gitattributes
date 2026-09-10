@@ -1,0 +1,9 @@
+# Store text as LF in the repository regardless of the checkout platform, so a
+# diff never turns into a whole-file rewrite when the project moves machines.
+* text=auto eol=lf
+
+# The entries and the harvested corpus are UTF-8 with Hebrew throughout; mark
+# them as text explicitly so git never guesses binary on a Hebrew-heavy file.
+*.md text
+*.py text
+*.json text

@@ -1,0 +1,132 @@
+---
+id: 11188
+slug: vayechi-white-is-light
+title: "Vayechi: White is Light"
+date: 2023-12-30
+hebrew_date: "For the week ending 30 December 2023 / 18 Tevet 5784"
+url: https://articles.ohr.edu/articles/vayechi-white-is-light
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Vayechi: White is Light
+
+While on his deathbed, Jacob gathered his sons to offer them blessings before his demise. In doing so, Jacob prayed that the future territory of his son Judah will yield an abundance, saying that the Tribe of Judah should attain "redness of eyes from [an abundance of] wine, and whiteness (*lavan*) of teeth from [an abundance of livestock to produce] milk (*chalav*)" (Gen. 49:12). In this essay, we focus on the Hebrew words for “white/whiteness,” starting with the word *lavan * mentioned in this passage. In doing so, we will consider how *lavan* differs from its apparent synonyms *chivar * and *tzochar*. To do that, we trace the etymologies of these different words and compare them to various cognates to sharpen their nuanced meaning.
+
+
+
+ The word *lavan* in the sense of “the color white” appears many times in the Bible, with a majority of those instances clustered around the laws of leprosy (Lev. 13). Inflections of this root also appear as verbs that mean “whitening” (Isa. 1:18, Joel 1:7, Ps. 51:9) and “elucidating” (Dan. 11:35, 12:10).
+
+
+
+ The classical lexicographers all trace *lavan* to the triliteral root LAMMED-BET-NUN, which means that *lavan * derives from the same root as the Hebrew nouns *leveinah* (“brick”), *levanah* (“moon”), *livneh* (“styrax” or “white poplar” tree), and *levonah* (“frankincense”). The former of those words appears twelve times in the Bible, with a plurality of its appearances in the Book of Exodus in the context of the enslaved Jews needing to produce their own “bricks” when working for the Egyptians. A verb form of that word which means “preparing bricks” also appears in the Bible (Gen. 11:3, Ex. 5:7, 5:14).
+
+
+
+ The three-letter string LAMMED0BET-NUN also makes appearances in proper names. For example, the personal name Lavan (Laban) appears multiple times in Genesis in reference to Jacob’s uncle/father-in-law. Later on, Jacob’s grandson Gershon had a son named Livni (Libni) who is mentioned several times in the Bible (Ex. 6:17, Num. 3:18–21, 26:58, I Chron. 6:2-14). It is possible that Livni was actually named after his great-great-grandfather Laban. A man named Levanah was listed as descending from the Netinim (mentioned in Ezra 2:45 and Neh. 7:48).
+
+
+
+ Several place-names related to *lavan* include Livnah (Libnah), also known as Lavan (Laban), one of the places to which the Jews travelled in the Wilderness (Num. 33:20-21, Deut. 1:1); Libnah, a Canaanite city-state near Lachish that was conquered in the time of Joshua (Josh. 10:29-39, 12:15); and Levanon (Lebanon), a mountain range north of the Holy Land, especially related to the often snow-topped Mount Lebanon. Nowadays, Lebanon is also the name of the country directly north of the State of Israel.
+
+
+
+ Since Hebrew and Arabic are both classified by linguists as Semitic languages, it makes sense that a word related to *lavan* would pop up in Arabic. Indeed, the Arabic word *laban* refers to "milk," but more specifically "sour milk." Either way, it relates to the Hebrew word *lavan* because its color is invariably "white. This Arabic term is actually the basis for the Yiddish and Modern Hebrew term *leben* (“coagulated sour milk,” “yogurt”).
+
+
+
+ While most grammarians and philologists see the word *lavan * as derived from the aforementioned triliteral root, Rabbi Shlomo Pappenheim (1740–1814) takes a wildly different approach. He developed a system of Hebrew etymology wherein core two-letter roots may be joined with the letters HEY, ALEPH, MEM, NUN, TAV, YUD, or VAV to create three-letter roots. In line with that system, Rabbi Pappenheim offers an original way of understanding the word *lavan* by seeing the final NUN of its root as non-essential to its core, leading him to trace *lavan* to the biliteral root LAMMED-BET (*lev*, “heart”).
+
+
+
+ Various other words that Rabbi Pappenheim sees as deriving from this root include *lev *(“middle,” just like the heart is the central organ of the circulatory system and is located in the middle of the body), *lavi* (“lioness,” a ferocious beast with much courage because of its heart), *levivot* (“thin wafers,” food that sustains the heart or food made in the shape of heart, although in Modern Hebrew it refers to *latkes*), *labat*/*lahav* (“flame,” just as the heart pumps out blood from the center of the body, so does a fire pump out heat from its center), *leveinah* (“brick,” prepared by the use of a strong fire in a kiln), and *malbein* (“kiln,” although in Modern Hebrew it means “rectangle”). Under this rubric, Rabbi Pappenheim explains that the word *lavan * relates to the last two words, because many objects when placed in a hot oven will become white-hot, so whiteness is a reflection of the effects of fire (see below). Rabbi Pappenheim adds that this is why in Rabbinic Hebrew, the verb for “heating” a metal is *libbun* — an inflection of *lavan*. [Radak in *Sefer Hashorashim* offers a similar explanation of *lavan, * as does Rabbi Samson Raphael Hirsch (to Ex. 5:7).]
+
+
+
+ Our next word for “white” is *chivar*. This word appears once in Biblical Hebrew in the verb that refers to the “whitening” of one’s face (Isa. 29:22). In Modern Hebrew, it likewise refers to somebody whose face has become “pale.” But looking more broadly, the word *chivar * actually just means “white.” It already appears in Biblical Aramaic in the phrase *tlag chivar*, which means “white snow” (Dan. 7:9). In fact, *chivar * is the standard word in the Targumim for translating the Hebrew word *lavan*. Some readers might be familiar with an inflection of *chivar * in the phrase *chamar chivaryan* (“white wine”) mentioned in the *Pitum HaKetoret* prayer, while other readers might recognize the Talmudic term *michavarta* to refer to an explanation which is deemed the “whitest”— that is, the “clearest,” or “most logically-sound.”
+
+
+
+ In the word *chivar*, the middle VAV of the triliteral root CHET-VAV-REISH is vocalized. Meaning, the VAV is pronounced like a consonant, not a vowel. Yet, there are several words in the Bible in which the VAV in that triliteral root functions like a vowel, but they are still said to be related to *chivar*. Case in point: When the jailed baker related his dream to Joseph, he related that he saw three *salei*
+
+*chori* (“baskets of *chori”) * balanced on his head (Gen. 40:16). The word *chori * uses the same three-letter string as *chivar, * but its VAV is pronounced like a vowel (*cholam*). Rabbi Saadia Gaon — in an explanation seemingly endorsed by Ibn Ezra (to Gen. 40:16), Nachmanides (there), and Shadal (there) — links *chori * to *chivar* by explaining that *chori * refers to “white” bread (as opposed to whole wheat). Similarly, Radak (in *Sefer HaShorashim*) writes that *chori* baskets actually refers to “white baskets,” which were made of white strips of peeled bark woven together.
+
+
+
+ Another example is the Biblical word *chorim* (Ecc. 10:17, I Kgs. 21:8, Neh. 4:8, 4:13, 5:7, 7:5), which means “dignitary” or “nobleman.” A similar expression *ben chorin *(“freedman,” as opposed to a slave) appears many times in the Mishnah (*Peah* 3:8, *Terumot* 8:1, *Pesachim* 8:1, *Ketubot* 12:2, *Sotah *9:15, *Gittin* 4:4-6, 9:3, *Kiddushin* 3:13, *Bava Kama* 1:3, 8:6, 10:8, *Sanhedrin* 11:1, *Eduyot* 1:13, *Avot* 2:16, 6:2, *Arachin* 3:3, *Kritot* 2:5). Rabbi Shmuel de Uçeda (1545-1604) in *Midrash Shmuel* (to *Avot* 6:2) cites an anonymous earlier commentator who explained that *chorim/chorin* is related to the word *chivar*. In fact, Rabbi Samson Raphael Hirsch (to Gen. 40:16) explains *salei chori * refers to “baskets of important people.” In explaining the connection of *chorin* to *chivar*, Rabbi Pappenheim posits that in ancient times, only prominent people like the gentry were allowed to wear white clothes that been bleached in the sun, so the very word for “white” eventually came to mean “important people” or “noblemen.”
+
+
+
+ Similarly, when the Bible reports that Achashverosh decked his showy banquet with *chur, karpas, * and *techeilet* (Est. 1:6, 8:15), many Medieval commentators explain that *chur* is related to the word *chivar, * and thus refers specifically to luxurious “white” fabrics. These early commentators include Ibn Ezra, Rabbi Yosef of Trani (Rid), Ibn Janach, Radak, Ralbag, Rabbi Moshe Chalavah, and Rabbi Yosef Nechemias (see also Rashi to *Megillah* 12a). Interestingly, there were also various people named Chur in the Bible, including Moses’ nephew and grandfather of Betzalel (Ex. 17:10-12, 24:14, 31:2, 35:30, 38:22, II Chron. 1:5) and a Midianite chieftain (Num. 31:8, Josh. 13:21).
+
+
+
+ The Italian scholar Rabbi Moshe Yitzchak Tedeschi Ashkenazi (1821–1898) writes in his work *Otzar Nirdafim * that the word *chivar* is related to the word *ohr* (“light”), via the interchangeability of the Hebrew letters CHET and ALEPH (for a similar idea, see Rabbi Hirsch to Gen. 1:3). As science has taught us more recently, the visible light of the electromagnetic light spectrum can come in all sorts of different colors, but white is produced when all the different colored light photons bounce back and are not absorbed by an object. So the connection between “white” and “light” becomes more understandable.
+
+
+
+ Interestingly, in many of the instance where the Aramaic word *chivar* or its various inflections appears in the Talmud, Rashi (to *Brachot* 28a, *Gittin* 69b, 73a, *Bava Batra* 73a, *Avodah Zarah* 28a, *Chullin* 55b) translates it back into Hebrew as *lavan*. This implies that perhaps Rashi understood *lavan* and *chivar* to actually mean the exact same thing ("white"), yet they may not technically be considered synonyms because *lavan* is a Hebrew word, while *chivar* comes from Aramaic.
+
+
+
+ But there is another way of looking at things: Without explicitly stating that he is attempting to differentiate *chivar* from its near synonym *lavan*, Rabbi Pappenheim writes that *chivar* refers to a specific type of “whiteness” that is not the natural color of a give item, but its rather an assumed property in that it has been caused by an outside force. For example, if something was "whitened" by putting it in a fire, then this would be called *chivar*. Rabbi Pappenheim understands this as stemming from what he considered a scientific fact that most objects are naturally white, but that other colors are typically the results of various sorts of impurities. Based on this, he understood that when most objects are put into a hot furnace, the fire will melt away those impurities and leave the item with its natural white hue.
+
+
+
+ In line with this quasi-scientific understanding, Rabbi Pappenheim traces the word *chivar * to the biliteral root CHET-REISH, which according to his etymological system, yield a group of words related to the concept of a “hole” (*chor*). The way he explains it, when a fire penetrates the nooks and crannies of an object in order to whiten it, it reaches all of those little “holes,” so the word for “whitening” becomes *chivar*. Either way, according to Rabbi Pappenheim, it seems that *lavan* is an umbrella term that includes all sorts of manifestations of the color “white,” while *chivar* refers specifically to the whiteness of something that had been whitened by some outside force.
+
+
+
+ Our third word for the color relates to the triliteral root TZADI-CHET-REISH, which only occurs twice in the Bible: The first case is in Deborahs’ song that marked the Jews’ victory over the Canaanite general Sisera, wherein she praised those Jewish judges who “rode she-donkeys that were *tzchorot*” (Jud. 5:10). In this case, the word *tzachor* is used as an adjective to describe donkeys, and Rashi (there) explains that this refers to “white” donkeys. Said judges are praised for continuing to function during the war, and not being scared that they would immediately be sighted by enemies on account of their highly visible donkeys.
+
+
+
+ The second appearance is when Ezekiel lists various commodities that were said to be exported from Damascus, and he mentions *tzachar* wool (Ezek. 27:18). Rashi again explains that this refers to “white” wool, and points to the aforementioned verse in Judges as proof that this triliteral root refers to “whiteness.”
+
+
+
+ Although content words derived from this root only appear twice in the Bible, there are several proper nouns that seem to be derived from it. For example, the given name *Tzochar* in the Bible is used in reference to three different people: the father of Ephron, from whom Abraham bought the Cave of Machpelah (Gen. 23:8-9); a son of Jacob’s son Simon (Gen. 46:10, Ex. 6:15); and as a nickname for Moses’ sister Miriam (I Chron. 4:7). The Talmud (*Sotah* 12a) explains that Miriam was called Tzochar because her face shined as brightly as the noon (*tzahar*, or *tzaharayim*).
+
+
+
+ Interestingly, in alternate lists of Simon’s children, the name Tzochar is absent and the name Zerach appears instead (see Num 26:13 and I Chron. 4:24). Rashi (to Num. 26:13, see also responsa *Rashba * vol. 1 §12) accounts for this by explaining that writes that Tzochar, son of Simon, is the same person as Zerach, son of Simon. He explains that because the meanings of these two names bear a semantic and thematic affinity, they can be used interchangeably. In doing so, Rashi defines *tzochar* as *tzohar* (“light/bright”), presumably based on the interchangeability of CHET and HEY, which is thematically similar to the meaning of *zerach *(“shining”). I would add that it is quite possible that Jacob’s grandson Tzochar was actually named after his great-grandfather Laban, as the both the words *lavan * and *tzochar * mean “white” — but I have not seen any sources that make this connection.
+
+
+
+ A cognate of *tzochar* also appears once in the Talmud in a very specific context: When Elkanah’s wife Hannah prayed for Hashem to grant them a son, she asked that her son not be “too tall or too short, too small or too fat, too white [*tzachor*] or too ruddy, too smart or too stupid” (*Brachot* 31b). According to the best versions of Rashi (there), Rashi explains that *tzachor* means “white.”
+
+
+
+ Although the mainline approach to the etymology of *tzochar * tracesit to the three-letter root TZADI-CHET-REISH, there are some other interesting theories: Rabbi David Luria (1798–1855), known as Radal, writes that *tzochar* is related to *tzach* (“clean,” “clear,” “pristine”). Rabbi Benzoin Chaim Lubetzky (d. 1945) similarly notes that the consonants in the triliteral root TZADI-CHET-REISH can be rearranged to yield the triliteral root REISH-CHET-TZADI (*rechitzah*, “bathing” cleansing”).Both of these possibilities were independently suggested by Rabbi Dovberish Rosenberg of Zurich in his work *Davar Tov*. Continuing from the *tzach* theory, Rabbi Tedeschi (in *Otzar Nirdafim*) and Rabbi Yehudah Aryeh of Carpentras (in *Aholei*
+
+*Yehuda**) see *tzochar* as a portmanteau of TZADI-CHET (*tzach*, “pristine/clear”) and CHET-VAVREISH (*chivar*, “white”), while Rabbi Yitzchak of Zeldin (in *Shoresh Yesha)* sees it as a portmanteau of *tzach * and *ohr *(“light”).
+
+
+
+ The first work on Hebrew synonyms, *Chotam Tochnit* by Rabbi Avraham Bedersi, differentiates between *lavan * and *tzochar * by actually disputing the notion that *tzochar* means “white.” Instead, he prefers Ibn Janach’s view that *tzochar * primarily means “combed.” It just happens to be that when one combs a sheep’s wool, it is left white and pristine, but that is not primary to the definition of *tzochar*. When it comes to the white asses mentioned in Deborah’s song, Rabbi Bedersi explains that this refers to the fact that people would often comb the hair of the beasts their rode to avoid fleas, but does not mean that they actually rode “white” donkeys. This fits with some of the etymologies for *tzochar * that we saw above that relate *tzochar * to “pristine” or “clean,” which shows that its core meaning is not quite white.
+
+
+
+ I was recently asked if the English word *albino* (in reference to a person or animal with a particularly pale and whitish complexion) is somehow related to the Hebrew word *lavan*. After looking into the matter, it has been determined that this English word actually comes from the Latin word *albus* ("white") by way of Spanish and/or Portuguese, so the *n*-sound is not actually part of the root of *albino*, and therefore there is no reason to think that it connects to the Hebrew word *lavan*. Linguists further argue that that Latin word ultimately derives from the Proto-Indo-European root *albho-* (also spelled *hele-bho*). Other English words related to this include *albumen* (“egg white”), *album* (which has “white” pages for you put your pictures), Albania (don’t ask how), and more.
+
+
+
+ But there is an interesting theory out there that actually would seem to connect *albino* to Hebrew, but not to the Hebrew word *lavan*. Let me explain.
+
+
+
+ Earlier, we mentioned that the prophet Ezekiel listed various items that were exported from Damascus. One of the commodities on that list is *chelbon* wine (Ezek. 27:18). Rashi explains that *chelbon* refers to the color of the wine, meaning it was "white" wine. This also lines up with the Rabbinic Hebrew word *chelbon *(“egg white,” or “albumen,” although in Modern Hebrew it means “protein”). These understandings seemingly interpret *chelbon * as related *chalav* because both are “white.” [Interestingly, this word is also seemingly the etymon of the given name Chelbo, borne by several sages mentioned in rabbinic literature.]
+
+
+
+ Other ways of explaining “*chelbon * wine” see the word *chelbon* as meaning “fattiness/oiliness,” as a way of expressing that the wine was of especially good quality (see Peshitta there, as well as Rashi there in the name of Menachem and *Machberet Menachem*). This approach seems to relate *chelbon * to *cheilev* (“fat/grease”), rather than *chalav*. Alternatively, Radak explains *chelbon* as a place-name that refers to a specific area in Aram (Syria) that produced quality wine. Rabbi Tedeschi takes this a step further by identifying that place as Chalab (also known Aleppo or Aram Tzoba). That understanding reminds me of a fascinating tradition cited by Rabbi (12[th] century), who wrote that Aleppo was called Chalab because that was where Abraham had stationed his livestock for grazing, and it was from that site that Abraham used to give out “milk” to the poor.
+
+
+
+ As an aside, Rabbi Matisyahu Strashun (1817–1885) and Rabbi Binyamin Rabinowitz-Teomim argue that when Jacob blessed Judah that his territory will yield much *yayin * and *chalav, * he did not refer to “wine and milk,” but rather to “*red* wine and *white* wine,” with the word *chalav * meaning “white [wine]” (see also Targum to Song of Songs 5:1 which likewise translates *chalav * there as “white wine”).
+
+
+
+ Now, cognates of the Hebrew word *chalav * are attested to in many different Semitic languages — like the Aramaic *chalba*, Arabic *halab*, Ethiopic *halib*, Ugaritic *hlb*, and Akkadian *halabu*. Here comes the clincher: Rabbi Aharon Marcus (1843–1916) suggests that the original word for "white" in all languages is *chalav*, even claiming that there is a Celtic word for “white” which is a cognate of the Hebrew *chalav. * In doing so, he posits a connection between the Latin *albus* and the Hebrew *chalab *(which the CHET sound morphing into something more like an ALEPH). Based on this, Rabbi Marcus explains that the name of the Alps mountain range derive from this word, because those snow-capped mountains are white "like milk," as does the name of the River Elbe (Albis in Latin). (Although, nowadays this is considered something of a folk etymology.) Rabbi Marcus also writes that he is unsure about which came first, did the word *chalav* originally "milk" and then expand to mean “white” because milk is white, or did it originally refer to the color “white” and then expand to “milk” because of that drink’s whitish color. Either way, he also considers that *chalav* derives from the Aramaic word *chali* ("sweet") — with an additional letter BET appended to it — noting that Targum (to Ezek. 27:18) translates “*chelbon* wine” as *chemar cheilat* (literally, "sweet wine”). According to Rabbi Marcus, it comes out that *albino * is related to the Hebrew *chalav*.
+
+
+
+ *NOTE: I always referred to this work as *Ohalei Yehuda*. However, a helpful reader named David Masri recently pointed out to me that based on the vocalization of that phrase in Zech. 12:7, the name of the book should be *Aholei Yehuda *(due to double consecutive guttural letters). So *Aholei * it is!

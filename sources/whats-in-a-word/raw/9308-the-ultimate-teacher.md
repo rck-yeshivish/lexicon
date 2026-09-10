@@ -1,0 +1,76 @@
+---
+id: 9308
+slug: the-ultimate-teacher
+title: "The Ultimate Teacher"
+date: 2021-07-24
+hebrew_date: "For the week ending 24 July 2021 / 15 Av 5781"
+url: https://articles.ohr.edu/articles/the-ultimate-teacher
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# The Ultimate Teacher
+
+Words derived from the Hebrew root LAMMED-MEM-DALET (“learn,” “teach”) appear eighty-six times in the Bible. But if you look at just the Pentateuch, such words appear only in the Book of Deuteronomy and nowhere else. Within the Book of Deuteronomy, most of these words appear in Va’etchanan. In the essay before you we explore three different Hebrew terms associated with the concept of “learning/teaching”: *limmud*, *hora’ah, * and *alef*. We will investigate the core roots of these words and try to zero in on their exact meanings and how they differ from one another.
+
+
+
+ According to Ibn Janach and Radak, the term *hora’ah *(“teaching”) derives from the triliteral root YOD-REISH-HEY. This root yields words with three meanings: “throwing,” as in *yarah ba’yam *(Ex. 15:4); “teaching,” as in *yoreh deah *(Isa. 28:9); and “rain,” as in *yoreh*/*moreh* (Deut. 11:14, Yoel 2:23). Similarly, Menachem Ibn Saruk traces these three words to the monoliteral root REISH, adding a fourth meaning “spittle/bodily excretion,” as in *rir/rar *(Lev. 15:3, I Shmuel 21:14, Iyov 6:6).
+
+
+
+ None of these great grammarians intimate a thematic connection between the four different semantic inflections of the root. However, I propose that the common theme is the concept of unidirectional movement (similar to a *ray* in English). In the case of “throwing,” one who throws an object chucks that item *away* from oneself, as opposed to *toward* oneself. In the case of “rain” and “spittle,” these liquids always flow in one particular direction — *downwards*, but never *upwards*. Finally, in terms of “teaching,” *yoreh/hora’ah * implies imparting information in one particular direction — namely, from teacher to student, and not vice versa. This is reflected in the popular teaching method of a lecture format, whereby the teacher essentially “throws” information at the student and hopes he/she catches it.
+
+
+
+ In Mishnaic Hebrew, the term *hora’ah * refers specifically to the ability/responsibility to render halachic decisions (*Avot* 4:7, 6:6, *Horayot* 1:1, 1:4, *Parah* 7:9). In fact, Tractate *Horayot * deals with the consequences of mistaken halachic rulings/teachings decided by the Sanhedrin and other Jewish courts. This meaning of *hora’ah * also reflects the unidirectional trickling down of jurisprudence, which emanates from a halachic authority and flows down to those less knowledgeable. In Modern Hebrew, the term *hora’ah* retains the more neutral meaning of “teaching/instructing,” without the specific connotation of referring to halachic or legal matters.
+
+
+
+ Radak adds that the word *Torah *(as well as its Aramaic counterpart *Orayta*) also derives from the triliteral root YOD-REISH-HEY. According to this, *Torah * might be best translated as “a teaching” or “instruction.” Alternatively, Radak also considers Ibn Janach’s view that the word *Torah* derives from the root TAV-VAV-REISH, which primarily refers to “investigation/inquiry” or “scouting/spying”. (This etymology would not account for *Torah*’s Aramaic cognate). A corollary of this meaning are the concepts of “system” and “order,” which are the products of a properly executed investigation. In this way, the word *tor *(“turn,” like “your *turn* in line”) denotes a specific spot within a more clearly-defined arrangement. In this sense, the word *Torah * refers to the Scriptural law as laid out in a systematic and well-defined code.
+
+
+
+ How does *l’horot * in the sense of “teaching” differ from *l’lamed * in the sense of “teaching”?
+
+
+
+ Rabbi Meir Leibush Weiser (1809-1879), better known as the Malbim, offers an explanation in the name of Rabbi Shmuel Dovid Luzzatto (1800-1865), known as Shadal. He explains that the sort of “learning/teaching” implied by the term *limmud * entails repeating a lesson over and over until it is engraved in the student’s heart and he/she knows it well. On the other hand, the term *hora’ah * refers to teaching something one time, expecting that the pupil will learn the lesson and retain that datum of knowledge.
+
+
+
+ The wicked Queen Athaliah went on a murderous rampage to wipe out the descendants of King David, but little did she know that her own grandson, the future King Joash, was secretly saved from his homicidal grandmother. As a young child, Joash was hidden away in the Holy Temple by his uncle Jehoiada the Kohen Gadol, and then ascended the throne after Athaliah was disposed of. The Bible reports that Joash did what was righteous in G-d's eyes all the years that his teacher and savior Jehoiada was alive, “in accordance with what Jehoiada taught (*horahu*) him” (II Kings 12:3). But the moment Jehoiada died, Joash no longer maintained those teachings, and even ended up deifying himself.
+
+
+
+ As Shadal explains it, embedded in the Bible’s wording of this turn of events is a criticism against Jehoiada’s pedagogical methodology. Jehoiada chose to use the modality of *hora’ah* instead of *limmud*. When he was raising and teaching the young king, he never bothered to *repeat* his essential messages of how to properly act as a righteous Jew in the service of G-d. Because of this, the moment that Jehoiada was out of the picture, Joash was left to his own devices and did not live up to what was expected of him. If Jehoiada would have reinforced the important lessons he wished to impart to the boy-king by teaching those ideas again and again, they would have become second nature to Joash — and even when his teacher would later die, he would never stray from those lessons. But alas, Jehoiada did not use the right form of didactics, and when he was gone, his pupil Joash no longer followed in his righteous ways.
+
+
+
+ Rabbi Samson Raphael Hirsch (to Gen. 26:5, Deut. 4:1) offers a similar message. He contends that the root of the word *Torah* is not YOD-REISH-HEY or TAV-VAV-REISH, but is rather HEY-REISH-HEY. The latter root begets the verb “to impregnate,” as if to imply that the Torah represents the seeds of goodness and morality. When a person is instilled with Torah values, he/she can grow into a true paragon of virtue. However, in the Book of Deuteronomy, Moses specifically uses cognates of the word *limmud* to describe his role in instructing the Jewish People. This phraseology, as opposed to *Torah*, implies that Moses did not suffice with just “planting the seeds,” but sought to see to the fruition of those efforts. Both Shadal and Rabbi Hirsch understand that *hora’ah * is just one step in the learning process, while *limmud * implies bringing that process to its logical conclusion.
+
+
+
+ Malbim explains that the common thread between *hora’ah* and *limmud* (and ostensibly *alef, * see below*)* is the imparting of new knowledge. He contrasts this with the role of the *madrich* (“guide”, “counselor,” or “coach”) who offers *hadrachah* (“counsel”) that guides a student in the practical application of what he or she already knows. This term is related to the Hebrew word *derech* (“path”), as the *madrich * sets up a “path” for those in his counsel to follow. He is not necessarily providing them with new information per se. (The agricultural tool *malmad habakar* in Judges 3:31 refers to an “ox-goad,” used in “training” cow-beasts to plow fields, and the early grammarians note that it too is derived from the same root as *limmud*.)
+
+
+
+ The term *alef* (Iyov 33:33, 35:11, Prov. 22:25) also refers to “teaching.” However, the Malbim clarifies that this particular expression refers to teaching inadvertently. In other words, when something or somebody serves as a prototype or archetype from which one can derive important lessons, then that thing or person can be said to be “teaching” that lesson, even if this teaching is not done actively or even purposely. For example, if Bob says his thing, and almost incidentally George was listening and learned a lesson from what Bob said, then we can say that Bob “taught” George a lesson. In Rabbinic Hebrew, the derivation of such lessons is called a *yalfuta* (verb: *yalif*), and usually refers to inducing an idea from a Scriptural verse or hermeneutic homily. This term is also the basis for the Modern Hebrew word *ulpan, * which is a center for the “study” of the Hebrew language.
+
+
+
+ Menachem Ibn Saruk (920-970) writes in *Machberet Menachem* that the core root of *alef * is ALEPH-LAMMED-PEH, but that sometimes the ALEPH is dropped, and one could also say that the root is also LAMMED-PEH. Menachem and Radak thus suggest that the word *talpiyot — * which appears only once in the Bible (Song of Songs 4:4) — is also related to this root, even though the letter ALEPH is missing. That complete verse reads: “Your neck is like the Tower of David, built as a *talpiyot*.” The meaning of the word *talpiyot * in this context is obscure, although the Rabbis interpreted it as a portmanteau of the words *tel *(“mound”) and *piyot *(“mouths”), explaining the term as an allusion to the Holy Temple, “the mount to which all mouths direct their prayers” (*Berachot* 30a).
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau (1740-1814) traces the root of *alef* to the biliteral root LAMMED-PEH, which refers to a "strong hold from which it is difficult to break free." In that sense, he explains that a certain type of skin boil known as *yalefet* (Lev. 21:20) is called so because it leaves a scar attached to one's skin that can never be removed, and an *aluf* (“chieftain”) is a strongman who rules his dominion from a position of strength. The word *elef * means “one thousand” because that is the number of constituents needed before a warlord can claim the title of *aluf*. Malbim explains that an *aluf* is called so because a powerful leader is required to *teach* his consistent how they should act. (In Modern Hebrew, *aluf * means “champion” of a sporting competition, and is also used for the rank of Major-General in the Israeli army.)
+
+
+
+ Verbs derived from the root LAMMED-PEH-TAV refer to “grabbing” or “grasping” something with a strong hold (see Judges 16:29, Ruth 3:8), and the word *lefet *(“turnip”) in Rabbinic Hebrew (*Kilayim* 1:3, 1:9, 3:1, *Maasrot* 5:2, 5:8, *Chullin* 7:4, *Keilim* 9:4, *Uktzin* 1:4) refers to that root vegetable being firmly entrenched in the ground.
+
+
+
+ Continuing this theme, Rabbi Pappenheim explains that the form of “learning” denoted by the word *alef* can be characterized by the learner’s strong grasp of the materials/lesson that comes about through repeated instruction. Interestingly, like Menachem and Radak, Rabbi Pappenheim also connects the word *talpiyot * to *alef. * However*, * unlike them, he offers an explanation of this connection: *talpiyot* refers to a tower built for the purposes of "instructing" young soldiers in the art of war, a sort of shooting-range where they can hone their craft and "learn" how to use their weapons.
+
+
+
+ The word *alef * also appears in the Bible when referring to “oxen” (see Deut. 7:12, 28:4, 28:12, 28:51, Ps. 8:8, 50:10, Prov. 14:4, and Isa. 30:24). Malbim explains that *alef* refers to a *trained* ox, which has already “learned” how to work the land. The Book of Proverbs states: “Through a lack of oxen (*alafim*), the trough becomes [an empty] pit” (Prov. 14:4). The Vilna Gaon explicates the word *alafim * as referring to “students,” drawing on *alef’s * meaning of “teaching/learning.” Based on this, he understands this verse as a warning to a teacher: without students, the teacher will devolve into an empty vessel. When a teacher or educator has students to whom he or she is responsible, then the teachers are more likely to fill themselves with knowledge and become conduits for relaying that information. About this, Rabbi Yehuda HaNasi said: “I learned much Torah from my masters, I learned even more from my colleagues, and from my students — I learned the most.” (*Taanit* 7a, *Makkot* 10a)

@@ -1,0 +1,90 @@
+---
+id: 11342
+slug: tazria-the-cutter
+title: "Tazria: The Cutter"
+date: 2024-04-13
+hebrew_date: "For the week ending 13 April 2024 / 5 Nissan 5784"
+url: https://articles.ohr.edu/articles/tazria-the-cutter
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Tazria: The Cutter
+
+The Torah commands that when a Jewish boy is born, he should be circumcised on the eighth day (Lev. 12:3). The verb used in that passage to denote “circumcising” the child is *yimol*, and similar words for the act of “circumcising” appear approximately 30 times in the Bible, mostly in the Books of Genesis (Gen. 17, 21:4, 34:15–22), Exodus (Ex. 12:48, 12:44), and Joshua (Josh. 5). Those words are derived from the root MEM-(VAV)-LAMMED, as is the word *milah * in the phrase *Brit Milah*. That said, this essay focuses not on the act of “circumcision,” but on the person performing that act — the “circumcisor.” In this essay, we will explore several terms used to denote the “circumcisor,” namely, *mohel, gozer, umana*, and *rofeh*. In doing so, we will trace the etymologies of these various terms and attempt to show how they differ from one another.
+
+
+
+ The most common term in use nowadays for a practitioner of circumcision is *mohel*. While the term *mohel* does not appear in the Bible or the Mishnah, an Aramaic form of this word already appears in the Babylonian Talmud: The Talmud (*Shabbat* 156a) states that while a person born under the astrological influence of Mars (the Red Planet) may be destined to serve in an occupation where he will shed blood, the individual himself retains the freewill to decide whether this means he will be a professional bloodletter (*umana*), robber, butcher, or circumcisor (*mohala*). Cognates of the word *mohel * appear twice in the Mishnah (*Shabbat* 19:2, 19:5) in reference to the act of circumcision (*mohalin*).
+
+
+
+ It is tempting to say that the words *mohel* and *mohalin* derives from the same Biblical root MEM-(VAV)-LAMMED as the Biblical verbs for “circumcising” mentioned above. However, this is somewhat problematic because *mohel* has an extra HEY that seems to be part of the root, while the Biblical root has no HEY in the middle. The presence of this extra HEY suggests that the root of *mohel * is actually MEM-HEY-LAMMED, not MEM-(VAV)-LAMMED. [Interestingly, in one case the Mishnah uses the more abbreviated verb *mal* (*Shabbat* 19:6) to denote “circumcising.” That word actually appears already in the Bible (Deut. 30:6, Josh. 5:4, 5:7), and does not have the elusive HEY that we are discussing. I do not know why this particular Mishnah uses a different verb for “circumcising.”]
+
+
+
+ Indeed, it has already been pointed out by scholars that the HEY in the word *mohel* is not part of the original Biblical Hebrew root for "circumcising," but is rather a new feature of Rabbinic Hebrew. This point is made at great length by the Maskillic scholar Solomon Dubno (1738-1813) in his work *Tikkun Sofrim* (to Gen. 17:13, printed in *Netivot HaShalom* alongside Moses Mendelssohn's *Beiur*). According to his understanding, the two roots MEM-(VAV)-LAMMED and MEM-HEY-LAMMED simply exist in two different strands of the Hebrew language.
+
+
+
+ But there is another approach which bridges the gap between these two roots and sees them as interrelated. Even though I already mentioned that cognates of *mohel * in the sense “circumcising” do not appear in the Bible, the root MEM-HEY-LAMMED does appear once in the Bible in a context that seemingly has nothing to do with circumcision. When Isaiah criticizes the Jewish People for engaging in questionable business practices, he accuses, “your wine is diluted [*mahul*] in water” (Isa. 1:22), charging that wine merchants would regularly dilute their wine in water, but would continue to sell it as though they were hawking unadulterated wine. The word *mahul* here is a *hapax legomenon* that refers to “diluting,” and is thus the only instance of the root MEM-HEY-LAMMED in the Bible. [In the Mishnah there are comparable terms, like *michal* (*Demai* 7:4) or *mochal* (*Taharot* 9:3, *Mikvaot* 7:3-4, *Machsirin* 6:5), and some versions actually read *mohal*. All of these refer to “diluted, watery liquids.” Similarly, the reddish liquids that comes out of a piece of meat after it had been salted according to Halacha is called *mohal, * and does not have the Halachic status of blood (see *Shach * to *Yoreh Deah* §69:79).]
+
+
+
+ In discussing the Biblical word *mahul*, Rabbi Shmuel David Luzzatto (1800–1865), known as Shadal (in his commentary to Isa. 1:22) connects that word back to the concept of “circumcising/cutting.” He explains that in both Arabic and Latin idiom, when one dilutes wine by mixing it into water, one can be said to "kill," "slaughter," "wound," or "cut" the now-adulterated wine. This is because one essentially “cuts” the sharpness/potency of wine by watering it down. Based on this thematic affinity, Shadal understands that it makes sense to say that the roots for “circumcising/cutting” and the roots for “diluting” are etymologically-related to each other, as “diluting” is just another form of “cutting.” This approach is also accepted by other language scholars like the German linguist Wilhelm Gesenius (1786–1842) and Dr. Alexander Kohut (1842–1894).
+
+
+
+ Shadal also provides several examples of Semitic roots in Hebrew and Aramaic that are semantically interchangeable, wherein one form has a middle VAV (like *mal*/*milah*) and the other form has a middle HEY (like *mahul*). This would mean that the post-Biblical term *mohel * for the noun agent “circumcisor” is indeed etymologically related to the Biblical terms for “circumcising.” Nevertheless, none of Shadal’s examples of the middle VAV and the middle HEY being interchangeable are that clear-cut.
+
+
+
+ As an aside, it should be noted that Rabbi Shlomo Pappenheim (1740–1814) traces the Biblical words *mal/milah * to the biliteral root MEM-LAMMED, while he traces the Biblical word *mahul * to the biliteral root HEY-LAMMED. [For more on the word *milah*, see “[Words for Words](https://ohr.edu/this_week/whats_in_a_word/9566)” (Oct. 2021) and “[Cut it Out (Part 2/2)](https://ohr.edu/this_week/whats_in_a_word/8220)” (Jan. 2019).]
+
+
+
+ Another word for “circumcisor” is *gozer. * The Talmud relates that Rav Hoshiyah asked a question related to ritual circumcision from one Rabbi Yehuda HaGozer (Babylonian Talmud *Shabbat* 131b, Jerusalemic Talmud *Shabbat* 19:1), with both Rashi and Rabbeinu Chananel (to *Shabbat* 131b) explaining that Rabbi Yehuda HaGozer was a ritual circumcisor. A similar title also appears elsewhere in the Jerusalemic Talmud (*Rosh HaShanah* 3:9) in the name Rabbi Yehuda Guzraya (which is an Aramaicized form of *gozer*).
+
+
+
+ The word *gozer * literally means “cutter.” Relatives of that word that also derive from the triliteral root GIMMEL-ZAYIN-REISH appear in both the Hebrew and Aramaic parts of the Bible to denote the act of “cutting” or “decreeing” (hence, the term *gezeirah * in Rabbinic Hebrew). In truth, Targum Onkelos typically renders Biblical Hebrew words related to *milah * into Aramaic words related to *gozer*, thus solidifying the connection to “circumcisors.” Similarly, when Moses’ wife Zipporah “cut” her son’s foreskin (Ex. 4:25), Targum Onkelos renders the Hebrew verb *va’tichrot* (“and she cut”) as *v’gazrit* (“and she cut”) — again using a cognate of *gozer*. In fact, some Rabbinic sources actually refer to the commandment of circumcision not as *milah*, but as *Mitzvata D’Gezeirata, * which literally means “the Commandment of Cutting” (*Kohelet Rabbah* §3:2).
+
+
+
+ Although the term *gozer * for a ritual circumcisor may have been used in Talmudic times, nowadays it is quite an obscure term and the word *mohel * has become more popular. Yet, in 13[th] century Germany, two prominent figures known as Rabbi Yaakov HaGozer and his son, Rabbi Gershom HaGozer, were known for their expertise as *mohalim*. The father authored a seminal work on the laws of *Brit Milah* and is believed to have been the nephew of the Tosafist Rabbi Efrayim of Bonn (1132—1221). His son, Gershom, expanded upon his father's work by incorporating additional insights. Their written works provide practical guidance for performing a *Brit Mmilah* and its related laws/customs. Either way, it seems that in their time and place, the term *gozer * was once again used when referring to a ritual circumcisor.
+
+
+
+ The way Rabbi Yissachar Tamar (1896–1982) first summarizes this discussion, he writes that this originally “Palestinian” phraseology found in Talmud in conjunction with Amoraic scholars in the Holy Land continued to be used in early Ashkenaz, which is why Rabbi Yaakov HaGozer and Rabbi Gershom HaGozer were given the appellation *gozer*. This might have interesting implications for understanding the origins of Ashkenazi Jewry’s intellectual roots. Yet, Rabbi Tamar later points out that this a difficult way of understanding it because we do not find the title *gozer * for ritual circumcizors in any other Medieval source, so there is no reason to posit any continuity between the Talmudic term and its Medieval usage. Furthermore, Rabbi Tamar notes that in the works of Rabbi Yaakov HaGozer and Rabbi Gershom HaGozer themselves, the ritual circumcisor is always referred to as a *mohel*, not a *gozer*.
+
+
+
+ In light of these points, Rabbi Tamar argues that by Medieval times, the term *gozer* had already fallen into disuse, but specifically in the cases of Rabbi Yaakov HaGozer and his son, the term was brought back as a sort of literary honorific. He explains that this is because the word *gozer* has two meanings: one was the then-historical meaning of "circumcisor" and the other is the term "decisor." Both of these meanings uniquely applied to Rabbi Yaakov HaGozer and his son, because they functioned as both ritual circumcisors and Halachic decisors, who ruled and codified the laws of ritual circumcision.
+
+
+
+ We can better appreciate the second meaning of *gozer * in the sense of “Halachic decisor” when realizing that the more common word *posek * also literally means “the cutter.” In fact, the English word *decisor* is directly related to the English words *decision*, *scissor*, *concise*, *excision,*
+
+*precise*, *incision*, *incisors*, and of course *circumcise* — all of which relate to “cutting” in one way or another.
+
+
+
+ Rabbi David Zacut Modena (1178–1865) writes that a circumcisor is called a *gozer* because his physical action “chops down” the spiritual forces of impurity that otherwise possess the uncircumcised.
+
+
+
+ The Midrash (*Bereishit Rabbah* §84:7, *Tanchuma Vayeshev *§9, *Naso* §30, *Shocher Tov* to Ps. 115, and more) relates that the Splitting of the Sea occurred in the merit of Joseph, who remained steadfastly righteous and was able to control himself and not sin with Potiphar's wife. Thus, it was Joseph’s righteousness in upholding the holiness of circumcision that led to the final step in the Jews’ exodus from Egypt. As mentioned in a previous article ("[Splitting the Sea Part 1/2](https://ohr.edu/this_week/whats_in_a_word/8211)," Jan. 2019), one of the verbs used in the Bible to describe the Red Sea "splitting/cutting” open is *gozer* (see Ps. 136:13). Based on this, Rabbi Dov Kook of Tiberias writes that the *gematria* of the triliteral root GIMMEL-ZAYIN-REISH equals 210, which serves as an allusion to the Jews' exile and servitude in Egypt that is traditionally-understood to have lasted exactly 210 years.
+
+
+
+ There are two more words used in the Talmud in reference to a ritual circumcisor: the Talmud (*Bava Batra* 21a, *Sanhedrin* 17b) states that it is forbidden for a Torah Scholar to live in a city which does not have a *rofeh * and an *uman*. Rashi (there) explains that *rofeh *— which derives from the root REISH-PEH-ALEPH, “healing/remedy/medicine” and usually means “doctor/physician” — refers to a “circumcisor” who can circumcise Jewish children, and *uman* (which usually means “artisan/craftsman” in a general sense) refers to a “bloodletter/barber.”
+
+
+
+ Similarly, the Talmud (*Avodah Zarah* 26b, *Menachot *42a) discusses when a Jewish circumcisor is unavailable in a given city, whether it is preferable that an Aramean *rofeh* perform circumcisions or a Cuthean *rofeh* does so. Both Rashi and the Mainz Commentary attributed to Rabbeinu Gershom (to *Menachot* there) clarify that *rofeh * in this case actually refers to the surgeon who serves as a circumcisor. On the other hand, Rashi elsewhere (to *Avodah Zarah* 26b) writes that *rofeh * does not *mean * circumcisor, but rather refers to a physician who *also* knows how to perform a circumcision.
+
+
+
+ Although we mentioned earlier that the term *uman* refers to a “bloodletter” (as it also means in *Taanit* 21b), the Talmud elsewhere uses the word *umana* (*Shabbat* 133b) in a way that it clearly refers to a ritual circumcisor, making it our fourth term for such a person.
+
+
+
+ In explaining how these latter two terms (*rofeh* and *umana*) fit with our discussion, Rabbi Yissachar Tamar argues that a circumcisor whose main profession was just to perform ritual circumcisions was called a *mohel*, while a physician/barber who also engaged in blood-letting and/or other types of healing (but did not specialize just in circumcisions) was called either a *rofeh* or *uman*.

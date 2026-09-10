@@ -1,0 +1,78 @@
+---
+id: 11584
+slug: chayei-sarah-all-wrapped-up
+title: "Chayei Sarah: All Wrapped Up"
+date: 2024-11-23
+hebrew_date: "For the week ending 23 November 2024 / 22 Cheshvan 5784"
+url: https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Chayei Sarah: All Wrapped Up
+
+In the climatic ending to the story of Abraham's servant finding a bride for Isaac, Rebecca and her entourage encounter Isaac praying in the field towards the evening. When Rebecca confirms with Abraham's servant that the man they have encountered is indeed her intended groom, she takes a *tza'if* and covers herself (Gen. 24:65). Although in Modern Hebrew, *tza’if * refers to a “scarf” or “mask,” the Biblical word is variously translated into English as “veil,” “shawl,” or “headcloth.” Targum pseudo-Jonathan and Targum Yerushalmi always render the word *tza'if* into Aramaic as *redida*, which is an Aramaicized form of the Biblical Hebrew word *redid*. In this essay, we discuss the synonyms *tza’if* and *redid, * particularly focusing on their respective etymologies and trying to determine what exactly they mean.
+
+
+
+ Besides for when Rebecca bashfully covering herself with a *tza’if* when meeting Isaac, the term *tza’if* appears twice more in the Bible — both times in the Book of Genesis when talking about Judah’s daughter-in-law Tamar: In order to fool her father-in-law into performing the rite of the Levirate Marriage with her, Tamar disguised herself as a prostitute, and the Bible reports that in doing so she removed her widow’s habit and covered herself in a *tza'if* (Gen. 38:14). After consummating her plan with Judah, the Bible again reports that she removed her *tza'if* from upon herself, and dressed once more in her widow clothes (Gen. 38:19).
+
+
+
+ Rabb Menachem ben Shlomo in *Midrash Sechel Tov* (to Gen. 24:65) parses the word *tza’if* as a contraction of the phrase *mutza al paneha* (“spread upon her face”). Rabbi Yehudah Aryeh of Carpentras in *Ohalei Yehuda * likewise explains *tza’if* as a portmanteau of *tza *(as in *mutza, *“spread”) and *af *(as in *apayim, *“face”). Similarly, Rabbi Saadia al Damari (in *Midrash HaBeiur* to Gen. 24:65) explains the word *tza’if* as a notarikon for *tzaf al paneha* ("floats on her face").
+
+
+
+ Even though Targum pseudo-Jonathan and Targum Yerushalmi (to Gen. 24:65, 38:14, 38:19) consistently translate *tza’if* into Aramaic as *redida *(as mentioned above), Targum Onkelos (there) consistently renders *tza’if* as *eifa* (spelled AYIN-PEH-ALEPH). The Vilna Gaon’s son Rabbi Avraham Vilner (1765–1808) writes in *Tirgem Avraham* (to Gen. 24:65) that that Aramaic term is simply the Hebrew word *tza’if* with the initial TZADI dropped. Rabbi Yaakov Zev Lev (in *Me’at Tzari* to Gen. 38:14) explains that this may be a result of the fact that the Hebrew TZADI very often morphs into an Aramaic AYIN (like *tzemer* becoming *amar*), and since *tza’if* already has an AYIN after the initial TZADI, the first letter was simple dropped to become *eifa*. [As an aside, Eifah (spelled with a final HEY) was also the name of Abraham's grandson (through his son Midian), as recorded in the Bible (Gen. 25:4, Chon. 1:33).]
+
+
+
+ Rabb Menachem ben Shlomo in *Midrash Sechel Tov* (to Gen. 24:65) explains that *eifa* in Aramaic means “doubling,” “folding,” or “wrapping” (see Targum Onkelos to Ex. 26:9, 28:16) and refers to the fact that the *tza’if* was so thin that it was fairly see-through, so it had to be folded over in order to become opaque enough to obscure the hair of the woman who wore it. Rabbi Yehoshua Steinberg of the Veromemanu Foundation adds that this meaning of the Aramaic root AYIN-PEH is similar to the meaning of the Hebrew root AYIN-BET (*av*, “thick”), and the two roots might be connected by the interchangeability of the letters PEH and BET.
+
+
+
+ Alternatively, Rabbi Yitzchak Ratzabi (a prominent Yemenite rabbi in the Neve Achiezer neighborhood of Bene Barak) explains that the *tza’if* would be worn by folding the edges or sides to make it fit the wearer’s needs. He also suggests that perhaps *tza’if* relates to “doubling” because it was an *extra* head covering that was used in addition to another headcover. He also sees the letter TZADI at the beginning of the Hebrew *tza’if* as alluding to the Hebrew word *tzei *(“exit/go out), as he understands that a *tza’if* was primarily worn by a woman when she would go outside (see below how this contrasts with the term *redid*).
+
+
+
+ The classical Hebrew lexicographers (including Ibn Saruk, Ibn Janach, and Radak) all trace the Biblical Hebrew word *tza’if* to the triliteral root TZADI-AYIN-PEH. That said, Wilhelm Genesius argues that the root TZADI-AYIN-PEH is actually a permutation of the root AYIN-TET-PEH (“wrapping”). He justifies this connection by invoking the interchangeability of the letters TET and TZADI, plus appealing to metathesis to account for switching the order of the letters. Shadal (to Gen. 24:65) cites this explanation approvingly.
+
+
+
+ Finally, Rabbi Shamshon Raphael Hirsch has two pieces on the word *tza’if*. In the first comment (to Gen. 24:65), he suggests that TZADI-AYIN-PEH is related to the root SHIN-ALEPH-PEH (via the interchangeability of TZADI and SHIN, and the interchangeability of the AYIN and ALEPH). The latter root refers to the acting of “drawing into oneself” by “inhaling.” In the same way, one draws the *tza’if* closer to one’s person by wrapping it around and making sure it fits snugly. In his second comment (to Gen. 40:6), Rabbi Hirsch connects TZADI-AYIN-PEH to the phonetically similar ZAYIN-AYIN-PEH (“upset/troubled”). He explains that while *tza'if* involves the external veiling of one's face, the latter involves the veiling of the countenance or facial expression from within. In other words, the appearance of a troubled face resembles that of a sleeping or dead person, as the life or soul is missing from such a person's facial expression, and as such his otherwise lively expression is thus “veiled.”
+
+
+
+ The word *redid * appears only twice in the entire Bible, once in Song of Songs and once in Isaiah. In the first case, the female narrator reports that when looking for her beloved, she was found by the city guards who go around the city. They beat her up and removed her *redid* from upon her (Song of Songs 5:7). In the other passage, Isaiah lists all the different types of adornments/jewelry that the Daughters of Zion would haughtily wear and included in that list are *redidim* (Isa. 3:23).
+
+
+
+ A 1984 essay in *Beit Mikra: Journal for the Study of the Bible of Its World* by Bible scholar Samuel Shaviv actually sees this latter case as an example of Isaiah borrowing from Song of Songs. As he elaborates in his essay, this would mean that Song of Songs was written before Isaiah, which gives credence to the traditional view that Song of Songs was written by King Solomon. This is unlike the popular academic view that Song of Songs was written after the destruction of the First Temple in the Persian Period.
+
+
+
+ Either way, the word *redid * comes up once in the Mishnah, when discussing how much of a string that hangs from a *redid * is considered part of the *redid * regarding the laws of ritual purity and impurity (*Keilim* 29:1). In that context, Rabbi Nosson of Rome in *Sefer HaAruch* defines a *radid * as a thin *tza'if* used by women to cover their heads. Likewise, Ibn Ezra (to Isa. 3:23, Song of Songs 5:7) explains that in Arabic, *redid* refers to something akin to a *tallit* ("shawl"), and Radak (there) similar writes that *redid* refers to a “thin article of clothing.” Although Radak relates the Hebrew *redid * to the Arabic *arid, Sefer HaAruch * and others connect it with the Arabic *rida* (which is a fabric used to wrap one’s upper body).
+
+
+
+ Maimonides (Laws of *Ishut* 13:11, 24:12) mentions a custom that Jewish women had to refrain from appearing in public even if their hair was covered unless they were wrapped in a *redid*. By contrast, he writes that when degrading the suspected adulteress (*safek sotah*) as part of her ritual ordeal, the woman is expected to publicly appear before all the onlookers without her *redid* (Laws of *Sotah* 3:5). Interestingly, the term *redid* appears once more in Maimonides' code, when relating that a judge once disqualified himself from adjudicating somebody else's case because that person removed a feather from the judge's *redid* which ingratiated the judge toward that helpful person and removed the judge’s ability to remain impartial (Laws of *Sanhedrin* 23:3).
+
+
+
+
+
+*Metzudat Tzion*(to Isa. 3:23) implies that the "thinness" of the fabric used in a *redid* is what gives it its name, as the term *merudad* (derived from the triliteral root REISH-DALET-DALET) can refer to something which had been “beaten down” or “subdued” until it was very “thin” (see Targum Onkelos to Ex. 39:3). Although at first Rabbi Yehudah Aryeh of Carpentras in *Ohalei Yehuda * offers an explanation similar to this, he then suggests parsing the word *redid * as a portmanteau of *ra’ah* (“see”) and *dod *(“beloved”), explaining that a *redid * is the sort of ornament that when worn exudes closeness by decorating and beautifying oneself.
+
+
+
+ Rabbi Shlomo Pappenheim traces the word *redid* to the biliteral root REISH-DALET. He defines that root’s core meaning as "descending/downwards," and traces a handful of Hebrew words back to that two-letter root: *yeridah* ("downward movement” hanging/dangling downwards”), *marid* ("low" or "embittered state," hardship of being in a "lowered" or adverse condition), *rodeh *("dominating/ruling/subduing," as a ruler "lowers" others beneath him, exerting authority so that no one rises above him), *mered* ("rebellion," an attempt to attempts to "shake off" another's rule and not be "lowered" under another's control), and *tardeimah* ("sleep/slumber," a form of sleep or slumber that "falls" upon a person, implying a sense of being involuntarily overtaken, as though sleep itself is "dominating" or "lowering" him into an unconscious state).
+
+
+
+ Another derivative of that biliteral root that Rabbi Pappenheim lists is *nerd*, which is a spice mentioned thrice in the Bible (Song of Songs 1:12, 4:14, 4:14). In explaining how that word relates back to the core of REISH-DALET, Rabbi Pappenheim explains that *nerd* is like a sap that falls (“descends”) from a plant, or that it cases one fall under the spell of that fragrance (“dominated”), or that spice has a special property that it makes a person fall asleep (“slumber”).
+
+
+
+ In line with all this, Rabbi Pappenheim offers three different ways of explaining how *redid* relates back to the idea behind the biliteral root REISH-DALET: Firstly, he notes that a shawl hangs down from the head or shoulders, suggesting a literal “downward movement,” aligning with *yeridah * meaning of that root (Rabbi Ratzabi offers a similar explanation). Secondly, he argues that many women actually wore *two* head coverings, an outer one for decoration (a *tzanif*, or perhaps a *tza’if * as per the above) and an inner one to cover the hair which was the *redid. * In this sense, the term *redid * implies something "lowered" in rank or function beneath the outer head-covering as though it were "subdued" under that decorative covering (related to *rodeh*). Thirdly, Rabbi Pappenheim suggests that a *redid* refers to a specific head-covering that women might wear while sleeping, covering lightly, thus justifying him connecting *redid * with *tardeimah*. We may add that perhaps a sort of feminist interpretation of how *redid * relates back to REISH-DALET might be that forcing women to cover their hair might be a form of subjugating them and ruling over them, which fits with the “ruling” meaning of that root.
+
+
+
+ While all cases of *tza’if * and *redid * in the Bible refer to a “shawl” worn by a woman, in the Talmud there is another term that refers to a “shawl” worn by a man: *sudar*. This term appears multiple times in the Mishnah (*Shabbat* 3:3, 20:2, *Yoma* 6:8, *Sanhedrin* 6:1, 7:2–3, *Tamid* 7:3, *Keilim* 29:1) and can also refer in general to a cloth that was waved in order to symbolize something. As Rabbi Ernest Klein’s etymological dictionary of Hebrew clarifies, this word is derived from a back-formation based on the supposed plural form *sudarim*, which itself originates from the Greek word *soudarion*. This Greek term was borrowed from the Latin *sudarium*, which literally means "cloth for wiping off perspiration." The Latin word *sudarium* comes from *sudor*, meaning "sweat" or "perspiration," which ultimately traces back to the Proto-Indo-European (PIE) root *sweid-* or *svoid-*, meaning "to sweat." Other words that derive from that PIE root include the English words *sweat, sweater, exude, * the Yiddish word *shvitz *(“sweat,” “sauna/bathhouse,” and “bragging”), and the Modern Hebrew *sveder* (“sweater/jumper”).

@@ -1,0 +1,58 @@
+---
+id: 8007
+slug: playing-with-fire-2
+title: "Playing with Fire"
+date: 2018-12-01
+hebrew_date: "For the week ending 1 December 2018 / 23 Kislev 5779"
+url: https://articles.ohr.edu/articles/playing-with-fire-2
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Playing with Fire
+
+When telling of the future downfall of the descendants of Esau, the prophet Ovadiah (Ovadiah 1:18) refers to the House of Jacob as an *aish*, the House of Joseph as a *lehavah*, and the House of Esau as straw. This passage refers to the Houses of Jacob and Joseph by different words for “fire”, and conveys the message that the House of Esau will be fodder for that future fire. But what is the difference between an *aish * and a *lehavah*? For that matter, what do we do with a whole slew of Hebrew words which are related to the idea of “fire”, but are not quite synonymous?
+
+
+
+ The most common word for fire is *aish*. Rabbi Eliyahu HaBachur (1469-1549) in his work *Metrugaman * points out that most places in which the Hebrew word *aish * appears in the Bible, the Targumim translate the word into Aramaic as *aisha * or *aishata*. But, in some places, the Targumim translate the Hebrew *aish * into the Aramaic *nur * or *nura*. HaBachur admits that he does not know what makes the Targumim use one word over the other. Nonetheless, he notes that most times the Bible mentions a fire that burns or roasts something, then the Targumim use the word *nura*.
+
+
+
+ What is the etymological basis for the word *nura*? Rabbi Shlomo Pappenheim of Breslau (1714-1814) explains in his work *Cheshek Shlomo* that the letter *REISH* itself denotes “throwing”, and different roots that use the letter REISH are derived from that. He explains that the word *ohr* (*ALEPH-VAV-REISH*), “light”, is related to “throwing” because the light rays which emanate from sources of light act as if they are “thrown” from that source. The object which holds the source of light is called a *ner *(*NUN-REISH*), and the vessel within which a *ner * is fixed is called a *menorah *(*MEM-NUN-REISH-HAY*). In light of this, I would add that the word *nura * also fits this theory, although Rabbi Pappenheim does not openly mention that Aramaic word.
+
+
+
+ There is another word related to this discussion which Rabbi Pappenheim does not explicitly mention — that is, the word *ur *(spelled the same as *ohr*, but pronounced differently). That word appears a total of six times in the Bible (only in the books of Isaiah and Ezekiel), and clearly means “fire”. It is the preferred word for “fire” in the Mishnah, where it appears quite a few times (*Challah* 4:8; *Shabbat* 1:11, 8:7, 16:5; *Yoma* 6:7; *Beitzah* 4:4, 4:7; *Rosh Hashana* 2:3; *Bava Kama* 6:4, 9:4; *Sanhedrin* 9:1; *Avoda Zara* 5:12; *Avot* 2:10; *Zevachim* 12:6; *Menachot* 10:4; *Chullin* 3:3; *Tamid* 1:3; *Keilim* 5:11, 29:8; *Ohalot* 11:7). Ur was also the name of an ancient Mesopotamian city where Abraham lived. According to tradition, the name Ur alludes to the fact that its king tossed Abraham into a fiery furnace, from which he miraculously emerged unscathed. The Malbim (to Ez. 2:5) writes that *ur * differs from *aish * in that *ur * denotes a smaller fire than *aish * does.
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau explains in *Yeriot Shlomo * that while *aish * is a general term for “fire”, the word *lahav*/*lehavah * refers specifically to a flame which spurs forth into the air. A *lahav * is attached to a bigger fire, and serves as an outlet for that fire to spread outwards. The word *lahav * also refers to the blade of a knife/sword. Because *lahav * refers primarily to the part of a fire which affects things outside of the fire, it was borrowed to also refer to the part of a sharp tool which affects other things. Moreover, because the word *lahav * denotes the shimmering glimmer of a fire, it also refers to the glistening edge of a metal instrument.
+
+
+
+ With this in mind, we can now better understand Ovadiah’s prophecy. It means that the fire from within the House of Jacob will spread outwards via the flame of the House of Joseph, and finally burn up the straw, that is the House of Esau.
+
+
+
+ Returning to fire-related words, the word *shalhevet * is closely related to *lahav*. However, Rabbi Pappenheim explains that s*halhevet * refers to a flame which is attached to a tangible object. He explains that s*halhevet * is related *lahav*, but is also related to the word *meshulav *(“mixed”, see Ex. 26:17, I Kings 7:29). In that sense, a *shalhevet * is a flame that is mixed with some other material which it burns up.
+
+
+
+ The word *lahat * refers to the fast movement of fire, which, as the expression goes, “spreads like wildfire”. *Lahat * is related to the root *LAMMED-TET*, which refers to “bending”, and can also be used to refer to the sleight of hand that Pharoah’s magicians used (Ex. 7:11, 7:22, 8:3). Both *lahav* and *lahat* primarily refer to a flame or a blade, and both terms are also borrowed to refer to enthusiasm.
+
+
+
+ The word *lapid *(commonly translated as “torch”) is used when one’s focus is on the object that carries a fire, as opposed to the fire itself. Some linguists creatively connect the Hebrew word *lapid * to the Akkadian word *diparu*. They justify this by arguing that the l-sound can be interchanged with the r-sound, on top of which a metathesis can be employed to rearrange the consonants of *rapid * to become *diparu*. Interestingly, this is similar to an explanation found in the Radak (to Nachum 2:4) who wrote that *aish-pladot* is an alternate way of saying *lapid-aish*.
+
+
+
+ The post-Biblical word *avukah* primarily refers to a bundle of twigs used for fueling a fire. As an outgrowth of that meaning, *avukah * came to refer to any candle or torch of which more than one wick is lit. According to Halacha, some situations call for specifically an *avukah* (such as Havdalah), while others call for specifically a *ner *(such as *Bedikat Chametz * and Chanuka candles), which has only one wick.
+
+
+
+ The Hebrew word *ner* (“candle/lamp”) is generally translated by the Targumim into Aramaic as *shraga*. *Shraga * later became a popular Jewish name (much like the Arabic name Siraj is quite popular in the Arab world). The Yiddish counterpart to the Hebrew name *Shraga * is *Feivish*. Interestingly, some scholars explain that *Feivish*, like *Shraga*, is also associated with the concept of light. They argue that *Feivish* is derived from the Greek/Latin name Phoebus, which was actually the name of the Greek/Roman god of light. It is a fascinating turn of events that the name of a pagan god was eventually adopted as a Jewish personal name. Nonetheless, Dr. Alexander Beider dismisses this explanation as mere “folk etymology”, and argues that *Feivish * is actually derived from *Vivus *(“life” in Latin), making it more closely associated with the Hebrew name *Chaim *(“life”), than with *Shraga*.
+
+
+
+
+
+ · *For questions, comments, or to propose ideas for a future article, please contact the author at [rcklein@ohr.edu](mailto:rcklein@ohr.edu)*

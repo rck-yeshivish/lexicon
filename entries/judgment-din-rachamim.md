@@ -1,0 +1,97 @@
+---
+cluster: divine judgment
+hebrew: [דין, רחמים, תקיעה, תרועה, אלקים]
+roots: [ד-י-ן, ר-ח-ם, ת-ק-ע, ר-ו-ע]
+translit: [din, rachamim, tekiah, tekiyah, teruah, teruos, teruot, Elokim, HaElokim, mashpia, mekabel, mesikas hadin, metikat hadin]
+english: [judgment, mercy, unbroken blast, broken blast, giver, receiver]
+domain: other
+sources:
+  - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
+authorities: [Ramban, the Kabbalists, Rabbi Reuven Chaim Klein]
+status: draft
+updated: 2026-09-09
+---
+# Divine judgment: din / rachamim (tekiah / teruah)
+
+## Bottom line
+
+*Din* is **judgment** and *rachamim* is **mercy**, but the axis between them is
+not severity against leniency; it is where the attention rests. Under *rachamim*
+the focus is on the Giver, so the flow is constant and unearned. Under *din* the
+focus is on the receiver, so the flow is measured out by what he deserves. Keep
+both words as **judgment** and **mercy**, and never render *din* "punishment":
+Hashem gives under *din* too. The Divine Name of *din* is *Elokim*; the
+four-letter Name is the Name of *rachamim*. In the shofar, *tekiah* (one
+unbroken sound) answers to *rachamim* and *teruah* (a broken, fragmented sound)
+to *din*.
+
+## Distinctions
+
+### din (דין)
+Ramban: Rosh Hashanah is *din b'rachamim*, judgment inside mercy, and Yom Kippur
+is *rachamim b'din*, mercy inside judgment; both are called the Day of Judgment,
+and this is what separates them. Rabbi Reuven Chaim Klein unpacks *din* through
+a mashal of two philanthropists. Both give large sums, but the second vets every
+applicant, weighs the cause, and sets the amount by what the man before him
+merits. That is *din*: the receiver is the object of focus, so the influx can be
+curtailed, delayed, or portioned. In Tanach the plain word *elohim* can also
+denote a human judge, and calling Hashem *Elokim* invokes exactly that role,
+the Judge of all Creation.
+
+### rachamim (רחמים)
+The first philanthropist in the mashal hands out money without asking who is
+receiving it. The focus stays on the giver, so the giving is steady and does not
+depend on desert. That is *rachamim*, and it is why the four-letter Name is
+associated with it. The Kabbalists express the same pair as *duchra* and
+*nukva*, and as *mashpia* and *mekabel*, influencer and recipient. In the
+imagery of the article the sun, always the same disc and always emitting its own
+light, is the giver and so *rachamim*; the moon, which has no light of its own
+and waxes and wanes, is the receiver and so *din*. Rosh Hashanah, first day of
+a solar year and first day of a lunar month at once, is where the two systems
+meet.
+
+### tekiah (תקיעה) and teruah (תרועה)
+A *tekiah* is one straight, continuous sound; a *teruah* is made of several
+short broken sounds (whether three longer, nine shorter, or three followed by
+nine is a halachic uncertainty). Klein: *teruah* is akin to the Aramaic *rauah*,
+"broken," as in the Gemara's *sulam rauah*, a ladder with broken rungs. Hence
+the pairing in Tehillim 47:6, "*Elokim* has ascended with the *teruah*, Hashem
+with the sound of the shofar": the Name of *din* stands with the fragmented
+blast, the Name of *rachamim* with the whole one. Because every *teruah* is
+sandwiched between two *tekios*, all that shows from outside is *rachamim*; this
+is the Kabbalistic *mesikas hadin*, "sweetening the judgment," and the same
+principle in dipping the apple in honey.
+
+## Rendering guidance
+
+- *Din* / *rachamim* as a pair: **judgment and mercy**. Where the sense is the
+  mode of Divine conduct rather than a verdict, "the attribute of judgment" and
+  "the attribute of mercy" are safer.
+- Ramban's formulas are best left transliterated with a gloss: *din b'rachamim*
+  (judgment within mercy), *rachamim b'din* (mercy within judgment). Do not
+  invert them; the inner word is the operative one.
+- *Tekiah* and *teruah* stay transliterated in any halachic or shofar context.
+  Where the drashah turns on the sound, gloss once: *tekiah* (an unbroken
+  blast), *teruah* (a broken one).
+- Trap: English "mercy" will also absorb *chesed*, *chanun*, and *rachum*, and
+  English "judgment" will absorb *mishpat* and *din* alike (see the *din /
+  mishpat / chok / dat* entry). If a passage sets *din* against *mishpat*, no
+  single English word may cover both.
+- Trap: *rachamim* is not softness. When *din* and *rachamim* stand together in
+  one phrase, the contrast to carry into English is focus on the receiver
+  against focus on the Giver, not harshness against gentleness.
+
+## Notes for a project
+
+None yet.
+
+## Sources
+
+Rabbi Reuven Chaim Klein, "Rosh Hashana: A Tale of Two Beginnings," What's in a
+Word?, Ohr Somayach, 28 Elul 5779 (2019-09-28): raw text in
+`sources/whats-in-a-word/raw/8411-rosh-hashana-a-tale-of-two-beginnings.md`.
+Primary loci: Rosh Hashanah 1:2 (all the world passes before Him like sheep of a
+flock); Ramban on *din b'rachamim* and *rachamim b'din*; Tehillim 47:6 (the
+article cites the chapter, 47, without the verse) and Tehillim 81:4 (likewise
+cited as chapter 81); the Gemara's *sulam rauah*. The article's astronomical and
+calendrical material is background, not lexical.

@@ -1,0 +1,86 @@
+---
+id: 11724
+slug: ki-sisapurim-heavy-honors
+title: "Ki Sisa/Purim: Heavy Honors"
+date: 2025-03-15
+hebrew_date: "For the week ending 15 March 2025 / 15 Adar 5785"
+url: https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Ki Sisa/Purim: Heavy Honors
+
+One of the highlights of Purim is singing the song *La’Yehudim haysa orah v’simchah v’sasson v’yikar *— “And there was for the Jews light, and happiness, and gladness, and honor*.”* The lyrics for that song are taken straight from the Scroll of Esther read on the holiday (Est. 8:16), and that very verse is also traditionally recited every Saturday night as part of the *Havdalah* ceremony. The last word of that passage *v’yikar* (“honor”) seems to be synonymous with the word *kavod * in Hebrew, which likewise refers to “honor.” In this essay, we explore various ways of differentiating between these two apparent synonyms.
+
+
+
+ Before we try to distinguish between these terms, we should first establish that their respective roots YOD-KUF-REISH (from whence *yakar * derives) and KAF-BET-DALET (from whence *kavod * derives) both carry multiple meanings. The former can refer in Biblical Hebrew to something "precious," "expensive," or "honorable," while the later can refer to something "heavy/excessive" or "honorable," as well as to the "liver." The polysemous nature of these two rotos can be understood through the thematic connection between physical weight, value, and honor. This connection reflects a conceptual metaphor deeply embedded in human thought — that is, substantiality equates to importance or worth.
+
+
+
+ The idea that something physically “heavy” is substantial aligns with the notion that something “valuable” or “expensive” is also substantial in a financial or symbolic sense. In ancient societies, objects made of heavy materials like gold, silver, or stone were often considered precious because of their rarity and durability. Thus, physical weight became a metaphor for financial or intrinsic worth. The more substantial something is—whether in terms of physical weight, financial value, or social importance—the more respect or honor it commands. A “heavy” object was difficult to carry and thus required effort to move, symbolizing its importance. Similarly, something “expensive” or “precious” required significant resources to obtain and hold onto, showing it to be something worth expending those efforts.
+
+
+
+ Rabbi Eliyahu Bachur in *Sefer Tishbi* already linked the two meanings of *yakar* in the sense of “precious” and “expensive,” explaining that everything “precious” becomes “expensive.” Indeed, economists now know that the law of supply and demand dictates that the more precious something is, the rarer it becomes because there is a lower supply, which causes its price/value to rise.
+
+
+
+ Rabbi Yehudah Aryeh of Carpentras (in *Aholei*
+
+*Yehuda*) connects the word *kaved *(“liver”) to this idea by noting that the liver's function is to filter the nutrients that enter the body and distribute them to one’s various limbs and organs according to their needs. This form of distribution is considered an "honorable" way of divvying resources, and thus the very liver is associated with honor.Alternatively, he explains the connection between “liver” and “honor” based on the Talmud (*Brachot* 60b), which teaches that the liver is the body part that causes “anger.” Given that most cases of anger result from a person perceiving something as slighting or disregarding the honor they feel is due to them, this means that the liver — “the limb of anger” — is intimately tied up with the concept of honor, so it makes sense why the Biblical Hebrew word for “liver” would derive from the same root as the Biblical Hebrew word for “honor.”
+
+
+
+ In Rabbinic Hebrew, the verb *l’chabed* not only means "honoring," but also carries the sense of "sweeping" or "cleaning." In contemporary discourse, the term *kibud kal* refers to "light refreshments" or a "repast." Both concepts — cleaning and providing refreshments — are understood as ways of honoring one’s guests or attendees.
+
+
+
+ In his introduction to *Yeriot Shlomo,* Rabbi Shlomo Pappenheim of Breslau speculates that perhaps the triliteral root KAF-BET-DALET was formed as a fusion of the two biliteral roots KAF-BET (“extinguishing”) and BET-DALET (“aloneness/individual”). He does not, however, intimate how this portmanteau could be thematically explained, and in his works *Yeriot Shlomo* and *Cheshek Shlomo*, he never revisits this supposition. Perhaps we may posit how these two roots connect back to the idea of “honor” by appealing to the notion of honor as a social construct, as it is society as a whole that determines what deserves honor and how honor may be shown. This emphasis on the social aspect perhaps can be said to “extinguish” or “diminish” individuality in some ways.
+
+
+
+ As Rabbi Eliyahu Bachur in *Meturgaman* notes, Targum tends to translate instances of the Hebrew KAF-BET-DALET both when it appears as “heavy” (Ex. 4:10, 7:14, II Sam. 14:26) and “honor” (Ex. 20:11, I Sam. 2:29, Isa. 43:23) into the Aramaic YOD-KUF-REISH. In light of that fact, a simple way of differentiating between *kavod* and *yakar * might be that while the former is a Hebrew word, the latter is an Aramaic word. In this way, the difference between the two synonyms is not semantic, but rather linguistic/etymological. The problem with this solution is that declensions of the root YOD-KUF-REISH (from which *yakar * derives) appear many times in the Bible, even in sections written in Biblical Hebrew. This makes it difficult to say that *yakar* is not a Hebrew word, but is only an Aramaic word.
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau traces the word *yakar * to the biliteral root KUF-REISH (explaining the initial YOD as radical to the word’s core root). He sees the principal semantic meaning of that root as relating to a “strong impact” that results from extreme weight or velocity. The way he explains it, something that may be branded as *yakar * is something whose mere mention can yield a great impact. For example, a precious gem is called *yakar *(Ezek. 27:22) because simply mentioning such gemstones impresses people and elicits strong reactions. In the same way, this term can be applied to anything that is considered especially “important” or “honorable.”
+
+
+
+ In the Scroll of Esther, the related term *yikar* refers to "excellence,” “esteem,” or “honorableness." Examples include when Achashverosh's showy party was meant to demonstrate his “honor” (Est. 1:4); when Achashverosh issued a decree demanding that all women give "honor" to their husbands (Est. 1:20); when the king wanted to give "honor" to Mordechai (Est. 6:3, 6:6); and, finally, in the story’s resolution after the Jews were saved from Haman's decree, they were happy and were said to have *yikar* (Est. 8:16). [We have discussed the two-letter root KUF-REISH in Rabbi Pappenheim’s etymological system many times over the years. For further reference, please see: "[Remembering the Wall](https://ohr.edu/this_week/whats_in_a_word/8934)" (July 2020), "[Freezing Cold](https://ohr.edu/this_week/whats_in_a_word/9646)" (Dec. 2021), "[The Shofar's Horn](https://ohr.edu/this_week/whats_in_a_word/10169)" (Sep. 2022), and "[Turning the Corner](https://ohr.edu/this_week/whats_in_a_word/11135)" (Mar. 2023).]
+
+
+
+ Rabbi Pappenheim further writes that in the Bible something "rare" is also called *yakar*, like when the Bible relates that in Samuel's youth, prophecy was considered *yakar* - "a rarity" (I Sam. 3:1). Rabbi Pappenheim relates this back to the core meaning of the biliteral root in question by explaining that something which occurs only seldomly (making it rare) is more impressive and creates a greater "impact" on people than things that occur on a more regular basis. Additionally, something costly/expensive is also called *yakar* because that high price is related to either the great esteem in which that commodity is held, or the rarity of its existence. For example, the Psalmist says, "the death for His pious ones is *yakar* in the eyes of Hashem" (Ps. 116:15). As Rabbi Pappenheim explains it, this means that Hashem is “hesitant” to kill off righteous people without just cause, because such pious people are so “important” to Him that it is “costly” in His eyes for them to die indifferently.
+
+
+
+ Unlike Rabbi Pappenheim who sees *yakar * as meaning both “rare” and “honorable/important,” Malbim (in *Sefer HaCarmel * and in *Yair Ohr*) splits the difference and uses these two discrete meanings to draw a distinction between the words *yakar * and *kavod*. Meaning, Malbim explains that *yakar * primarily refers to something “rare.” In that way, *yakar* denotes something that is not *inherently* important, but is simply important due to the circumstances (i.e., that it has very few equals). Examples of this might be precious metals or gems, which are not particularly valuable in their own right, but rather their “importance” merely stems from the fact that they happen to be rare. On the other hand, *kavod * describes something which deserves to be honored and venerated because of its own *inherent* properties. Examples of this are Torah Sages, who have achieved their sagacity through hard work and making right decisions.
+
+
+
+ It should be noted, though, that the Vilna Gaon's son Rabbi Avraham Vilner (*Be'er Avraham* to Est. 1:4) writes the exact opposite of the Malbim: *kavod* refers to one's esteem or importance *vis-a-vis others*, while *yakar* refers to one's *inherent* value without needing to be compared to others. Thus, we are back to square one in trying to differentiate between *yakar * and *kavod*.
+
+
+
+ In defense of the supposition we proposed above that *yakar * is the Aramaic equivalent to the Hebrew *kavod*, we point to a rabbinic tradition that sees the word *yakar * as quintessentially Aramaic: The Talmud (*Megillah* 9a) asserts that there are appearances of Aramaic in the Scroll of Esther, and one Amoraic sage adduces the following verse to bolster that assertion: “And all women should give honor [*yikar*] to their husbands” (Est. 1:20). The fact that Esther uses the seemingly-Aramaic word *yikar * rather than the Hebrew is seen by the Talmud as proof that Aramaic appears in Esther.
+
+
+
+ Likewise, in asserting that Adam’s spoken language was actually Aramaic, the Talmud (*Sanhedrin* 38b) cites a verse from Psalms ascribed to Adam: “How honorable to me are Your thoughts, O God?” (Ps. 139:17). As commentaries like *Yad Ramah* (to *Sanhedrin* 38b), *Maharsha* (to *Bava Batra* 75b), and *Aruch L’Ner* (to *Sanhedrin* 38b) explain it, this verse uses the Aramaic word for “honorable” (*yakar*) found primarily in Targum, in lieu of the Hebrew word *kavod*. Since Adam used an Aramaic word, this means to the Talmud that he spoke Aramaic. The problem with this understanding, as has already been pointed out by Rabbi Benzion Meir Chai Uziel (in his glosses to *Megillah* 9a), is that the word *yakar* also exists in Hebrew, wherein we already have seen it means “precious.” [In an alternate elucidation of this Talmud passage, *Yad Ramah* explains that the Talmud’s proof was from the word “Your thoughts” (*ray’echa*), which he understands to be a cognate of the supposedly Aramaic word *ra’ayon* (“idea”).]
+
+
+
+ Interestingly, various commentators were bothered by why the Amoraic sage in question offered the appearance of *yikar * in Est. 1:20 as proof of Aramaic in Esther, if the word *yikar * already appears earlier in Est. 1:4 when describing Achashverosh’s banquet as showing his “honor.” That question is dealt with by Rabbi Efrayim Zalmen Margulies (responsa *Beis Efrayim*, *Orach Chaim* §70), Rabbi Yehuda Aryeh Leib Alter of Gur (*Sfat Emet* to *Megillah* 9a), Rabbi Zvi Hirsch Chajes (in his glosses to *Megillah* 9a and *Sanhedrin* 38b), and Rabbi Eliezer Harstik (*Raglei Mevasser * to *Sefer HaTishbi*).
+
+
+
+ Rabbi Baruch HaLevi Epstein (in *Safah La’ne’emanim* pages 34-35) proposes an answer based on the idea that a single word from a different language in a given corpus of text is unsurprising and cannot be sufficient proof that that text “uses” another language (because individual loanwords are used all the time). Rather, he asserts that only the use of multiple words from another language in a single sentence could constitute proof that a text “uses” another language, so the Amoraic sage in question preferred Est. 1:20 to Est. 1:4 as proof of the Scroll of Esther “using” Aramaic. Rabbi Yosef Shaul Nathansohn (*Beit Shaul * to *Yadayim* 4:5) answers that the Talmud meant to seek out an instance of an Aramaic word being inflected in a Hebraized way, not just a word whose etymology lies in Aramaic (see also Rabbi Naftali Maskileison’s commentary *Miskenot Naphtali * to *Yadayim* 4:5).
+
+
+
+ Before we conclude this essay, something would be amiss if I didn’t delve into my favorite topic —Jewish names. There were several Medieval rabbis named Rabbeinu Yakar or Rabbeinu Yakir (for examples, see *Tosafot* to *Eruvin* 40b, *Avodah Zarah* 68a, *Chullin* 47a). These sages include one whose son Rabbi Yaakov bar Yakar was a teacher of Rashi, and another one whose son Rabbi Yehuda ben Yakar was a teacher of Nachmanides. It has been argued by scholars that Yakar/Yakir was not actually a given name, but was rather a nickname for people named Ephraim (although Rabbi Dr. Ephraim Kanarfogel wrote to me in private correspondence that this is not true across the board). [There’s even a female counterpart to this name, Yakirah.]
+
+
+
+ The onomastic connection between Ephraim and Yakar/Yakir is based on a Biblical passage in which Hashem rhetorically asks if His son Ephraim (a metonym for the Kingdom of Israel, which was steeped in idolatry) is “precious” (*yakir*) to Him (Jer. 31:19). This punning is not a unique phenomenon, as other Medieval rabbis with given names from the Bible were also granted other nicknames associated with those Biblical names. Most famously, Rashi’s grandson Rabbi Yaakov ben Meir was nicknamed Rabbeinu Tam because the Biblical Jacob (Yaakov) was described as a “wholesome man” (*ish tam*) who sat in the tent (Gen. 25:27). Similarly, Rabbeinu Porat (cited by *Tosafot* to *Shabbat* 17a, 26b, 28a 35b, 41a, 64b, 80a, 107b, 117b, 120a, 148a, 148b, 149a, 156b, *Yoma* 21a, 46a) was really named Yosef (see *Tosafot* to *Shabbat* 21b, 24b, 134b) based on the Biblical phrase *ben porat Yosef *(Gen. 49:22).

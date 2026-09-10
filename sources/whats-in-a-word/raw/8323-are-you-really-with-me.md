@@ -1,0 +1,66 @@
+---
+id: 8323
+slug: are-you-really-with-me
+title: "Are You Really \"With Me\"?"
+date: 2019-07-13
+hebrew_date: "For the week ending 13 July 2019 / 10 Tammuz 5779"
+url: https://articles.ohr.edu/articles/are-you-really-with-me
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Are You Really "With Me"?
+
+The most common word in the Bible, by far, is *et*, which appears roughly 12,000 times! In general, the word *et * cannot be translated into English, because it usually serves a grammatical function rather than a lexical one. *Et * is used to mark the object of an action, thus clarifying the difference between the subject and predicate. Rabbi Nachman Marcuson likens the word *et * to an arrow which points the reader to the object of a verb. Thus, *et * functions more like punctuation than as a word that has meaning.
+
+
+
+ However, there are some instances in which *et * actually does have its own meaning. As Ibn Janach and Radak explain, *et * can sometimes mean “to” (e.g., Lev. 13:49, Num. 13:17), “from” (e.g., Gen. 44:4, Num. 35:26), “next to” (e.g., Gen. 40:4, 44:24), “instead of” (e.g., Lev. 22:17, II Sam. 12:6), “on top of” (e.g., I King 9:25), and “with.”
+
+
+
+ This article focuses on the word *et * when it means “with.” A suffix is commonly added to the word *et * to show “with” whom we are talking, such that *itto * means “with him,” *itti * means “with me,” and *ittah * means “with her.” However, those familiar with Hebrew know that the word *im *(AYIN-MEM) also means “with.” *Im * can also have suffixes appended to it to create words like *imo *(“with him”), *imi *(“with me”), and *imah *(“with her”). In fact, Rashi (to Gen. 37:18) writes that *itto* means *imo.*
+
+
+
+ These parallels between *et * and *im * lead us to the obvious question: What is the difference between the word *et *(when it means “with”) and the word *im*? Why does the Bible sometimes use one and sometimes the other?
+
+
+
+ Rabbi Eliyahu Kramer of Vilna (1720-1797), better known as the Gra or the Vilna Gaon, addresses this issue in the context of the story of Balaam. When Balaam first asked G-d for permission to go with Balak’s men to curse the Jews, G-d answered, “Do not go with them (*imahem*), do not curse the nation because they are blessed” (Num. 22:12). However, when Balaam asked G-d a second time for permission to go, He replied, “Get up and go with them (*itam*)” (Num. 22:20). The Torah subsequently reports that Balaam went “with” (*im*) Balak’s men, and G-d was angered (Num. 22:21-22). The Vilna Gaon asks: If G-d first told Balaam not to go with Balak’s men, then why did He seemingly “change His mind” and later allow him to go with them? Moreover, if He allowed Balaam to go with Balak’s men, then why did He get angry?
+
+
+
+ The Vilna Gaon bases his answer on the difference between the implications of *et * and *im*. The word *im*, he explains, means “with” in the fullest sense of the word. It implies the joining of two completely equal and cooperative bodies. While *et * also means “with,” it does not connote equality and congruence between the two who are “with” each other.
+
+
+
+ Accordingly, the Vilna Gaon explains that when Balaam first asked G-d if he may go with Balak’s entourage, G-d barred him from going “with” them using an *im-* related word, because G-d did not want Balaam to join Balak’s efforts to curse the Jewish People. After Balaam further pressed the issue, G-d said that he would allow Balaam to go “with” Balak’s men using an *et-* related word, to imply that while He would let Balaam physically go with Balak’s men, he was not to unite with them in completely joining their efforts to help them achieve their goal of cursing the Jews. Ultimately, when reporting that Balaam went “with” Balak’s men, the Torah uses an *im­* conjunction to indicate that Balaam was “with” them in the fullest sense. In doing so, Balaam had thus violated G-d’s directive, causing Him to become angry.
+
+
+
+ The Vilna Gaon and the Malbim both derive the implications of *et * in the sense of “with” from *et*’s more common grammatical function of indicating an object. As an example, let’s take the simple clause *achalta et halechem*, “you ate [*et* —>>] bread.” There is an actor (“you”), and an object being acted upon (“the bread”), and the two are not equal (the person is eating the bread). Likewise, the word *et * in the sense of “with” denotes an unequal relationship where one is dominant and active, and the other is passive.
+
+
+
+ When the Torah says that Lot came “with” Avraham to the Holy Land, it uses the word *itto/et* (Gen. 12:4). But when the Torah says that Lot and Avraham parted ways and Lot was no longer “with” Avraham, it uses the word *imo*/*im *(Gen. 13:14). The Malbim accounts for this change in wording by explaining that while at first Lot deferentially followed Avraham’s lead, he later asserted his independence and tried to show that he was an equal player.
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau (1740-1814) in *Cheshek Shlomo * and Rabbi Yaakov Tzvi Mecklenburg (1785-1865) in *HaKsav VeHaKabbalah* take the opposite approach. They explain that *et * denotes a stronger and more equal “with” than *im * does. As Rabbi Pappenheim writes, the word *im* means “with” in a circumstantial way — they just happened to be “with” each other - while *et * denotes “with” in a more deliberate and absolute way. As we shall see below, Rabbi Mecklenburg uses this approach in several different contexts (although, curiously, in his commentary to the story of Balaam, his approach actually mirrors the Vilna Gaon’s).
+
+
+
+ For example, he uses this approach to explain why the Torah initially says that Lot came “with” Avraham to the Holy Land using an *et*-word, but later (after assorted differences of opinion with Avraham) says that Lot left and was no longer “with” Avraham using an *im*-word. Based on the above, Rabbi Mecklenburg explains that this word switch serves as the basis for the *Zohar*’s (Genesis 78b) contention that Lot originally attached himself to Avraham in order to learn from him (and become “equal” to him), but was ultimately unable to reach that goal.
+
+
+
+ Similarly, Eliezer arrived at Betuel’s house with a whole entourage of men and camels to find a spouse for Yitzchak. Betuel brought water for washing Eliezer’s feet and the feet of the men who were *itto*,“with him” (Gen. 24:32). However, later in the episode, when describing the banquet Rivka’s family held before sending her off to marry Yitzchak, the Torah says that Eliezer and the men who were *imo* (“with him”) ate and drank (Gen. 24:54). To account for this switch from an *et*-word to an *im*-word, Rabbi Mecklenburg postulates that it reflects Rivka’s family’s attitude towards Eliezer and the men who came with him. Initially, Betuel had not realized that Eliezer was the main person charged with the bride-finding mission. He thought that Eliezer and all the men with him were equally important. For this reason, the Torah first uses the word *itto * to describe the relationship between Eliezer and the other men who came with him. However, after Eliezer took charge and explained the situation it became clear that he was the leader of the group. Therefore, when describing his relationship to them in a subsequent passage, it says *imo*.
+
+
+
+ In this vein, Rabbi Mecklenburg also accounts for a similar word switch concerning Yaakov’s burial. The Torah reports that Yosef led the funeral procession from Egypt to the Land of Canaan, “And all the servants of Pharaoh — the elders of his house — and the elders of the Land of Egypt ascended (to Canaan) with him (i.e. with Yosef)” (Gen. 50:7). The Hebrew term for “with him” used in this passage is *itto*. Several verses later the Torah says, “And also chariots and horse riders ascended (to Canaan) with him (Yosef)” (Gen. 50:9). This time, the Hebrew word used for “with him” is *imo*. Why does the Torah switch words? Rabbi Mecklenburg answers that the elders of Pharaoh’s house and the Egyptian statesmen joined the funeral procession as equals or near-equals to Yosef. For this reason their relationship to him is indicated with the word *itto*, which implies equality. On the other hand, when mentioning that chariots and cavalry that also joined the procession, the word *imo * is used because they were much lower ranking than Yosef.
+
+
+
+
+
+*For questions, comments, or to propose ideas for a future article, please contact the author at [rcklein@ohr.edu](mailto:rcklein@ohr.edu)*

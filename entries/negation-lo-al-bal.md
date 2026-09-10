@@ -1,0 +1,124 @@
+---
+cluster: negation
+hebrew: [לא, אל, בל, בלי, בלתי]
+roots: [ל-א, א-ל, ב-ל]
+translit: [lo, al, bal, bli, b'li, bilti, bilui, blo, b'lo]
+english: [not, do not, shall not, without, the prohibition of]
+domain: speech
+sources:
+  - wiaw:10949 "Naso/Shavuos: Just Say No" (2023-05-27) https://articles.ohr.edu/articles/nasoshavuos-just-say-no
+authorities: [Rashi, Machberes Menachem, Rabbi Yishaya Pick-Berlin, Rabbi Chizkiyah Medini, Rabbi Betzalel Ashkenazi, Rabbi Meir HaMeili, Rabbi Reuven Margolios, Rabbi Ber Oppenheimer, Rabbi Aharon Maggid, Rabbi Eliyahu Gutmacher, Rabbi Avraham Eliezer Hirshawitz, Rabbi Shlomo Pappenheim, Chasam Sofer]
+status: draft
+updated: 2026-09-09
+---
+# Negation: lo / al / bal
+
+## Bottom line
+
+All three negate. *Lo* is the Torah's word for a standing prohibition and also
+the plain factual "did not"; *al* is a negative imperative aimed at a future
+act, "do not"; *bal* is the word Chazal use to *name* a prohibition already
+issued in the Torah with *lo*. So *lo sashchis* in a pasuk is **"you shall not
+destroy"**, while *bal tashchis* in a sugya is **"the prohibition of bal
+tashchis"**, not a fresh command. *Bal* is not a Rabbinic coinage: it appears
+close to seventy times in Tanach, though never in Chumash.
+
+## Distinctions
+
+### lo (לא)
+The Torah's standard negation, and the marker of a negative commandment: *lo
+sirtzach*, *lo sinaf*, *lo signov*, *lo saaneh*, *lo sachmod*. Rabbi Ber
+Oppenheimer: *lo* negates both past fact and future command, so it covers "you
+shall not eat" and "you did not eat" alike. Rabbi Aharon Maggid: *lo* is
+addressed concretely to a second person, "*you* shall not."
+
+### al (אל)
+Rabbi Ber Oppenheimer: *al* is always a negative imperative, always about
+something one might yet do, and never about a past act (he allows one
+exception, Shmuel I 27:10). It is "do not," never "did not."
+
+### bal (בל)
+Rashi (to Yeshayahu 26:10) states plainly that the *bal* of Tanach means what
+*lo* means, and *Machberes Menachem* places it in the first category of words
+from the two-letter root ב-ל. But in Tanach it is confined to Yeshayahu,
+Tehillim, Mishlei and Hoshea (with single instances at Iyov 41:15 and Divrei
+HaYamim I 16:30), and there it almost always states a fact rather than issuing
+a command: the world "shall not (*bal*) falter" (Tehillim 93:1, 96:10), the
+tzaddik "shall not (*bal*) be moved" (Mishlei 10:30, 12:3). Chazal turn it into
+the standard way of naming a prohibition: *lo sashchis* (Devarim 20:19) becomes
+*bal tashchis* (Bikkurim 4:2, Kiddushin 1:7), *lo sosif* (Devarim 13:1) becomes
+*bal tosif* (Zevachim 8:10), *lo seshaktzu* (Vayikra 20:25) becomes *bal
+teshaktzu* (Shabbos 90b, Makkos 16b, Meilah 17a), *lo yeira'eh* (Shemos 13:7)
+and *lo yimatzei* (Shemos 12:19) become *bal yeira'eh* and *bal yimatzei*
+(Pesachim 3:3, 9:3). Chazal even read a factual *bal* prescriptively: Tehillim
+147:19-20 records that Hashem did not (*bal*) make His laws known to the
+nations, and Chagigah 13a derives from it that we do not transmit Torah to a
+gentile.
+
+### Why Chazal traded lo for bal
+The question is old and unsettled. Rabbi Yishaya Pick-Berlin raised it in his
+glosses to *Sefer HaTishbi*; Rabbi Chizkiyah Medini of Chevron was asked it by
+a talmid and knew of no earlier source until he saw Rabbi Pick. Rabbi Betzalel
+Ashkenazi (*Shitah Mekubetzes* to Temurah 6b) cites Rabbi Meir HaMeili (*Sefer
+HaMeoros*), who says only that *bal* is easier to say and clearer. Rabbi Reuven
+Margolios: to keep the negative *lo* from being heard as the homonym *lo*, "to
+him." Rabbi Ber Oppenheimer: *bal* states an ongoing fact rather than a
+command, so *bal tigzol* points at the man who stole and still holds the goods.
+Rabbi Aharon Maggid: *bal* names the prohibition in the abstract, without
+fixing on whom it binds. Rabbi Eliyahu Gutmacher, who calls his own suggestion
+novel and untested, takes *bal* to mark the Rabbinic extension beyond the
+Biblical core (*bal tashchis* reaching every wasteful destruction, where the
+pasuk speaks of a fruit tree). Rabbi Avraham Eliezer Hirshawitz (*Otzar Kol
+Minhagei Yeshurun*), similarly: *lo* is an absolute no, *bal* a general and
+more flexible one, fitting Chazal's work of defining when a prohibition applies
+and when it does not. The article also records a suggestion that *bal* is a
+copyists' abbreviation of *b'lo*, which it says has gained little traction, and
+Rabbi Yisroel Rubin's proposal, which he himself rejects, that Chazal changed
+the wording to avoid quoting pesukim by heart (Gittin 60b); Rabbi Eli
+Silberstein takes *bal* as short for *bli*/*bilti*, and Rabbi Rubin relates it
+to *bilui*, wearing out. The author's own suggestion rests on the Chasam Sofer
+(*Toras Moshe* to Vayikra 10:1), that *lo* is one of the names of the Angel of
+Death, hinted at in the *eish zarah asher lo tzivah osam*: Chazal avoided the
+word when speaking of the prohibitions Klal Yisrael might have transgressed.
+
+### The root ב-ל
+Rabbi Shlomo Pappenheim gives the two-letter root ב-ל two core senses,
+negation and loss of form: *bli*, *hevel*, *aval*, *bilui*, *neveilah*,
+*neivel*, *naval*, *teiveil*, *yevul*. A second family from the same root turns
+on mixing: *balal*, *tavlul*, *tevel*, *tavlin*, *aveil*, *behalah*, *yovel*,
+*mabul*.
+
+## Rendering guidance
+
+- *Lo* + imperfect in a pasuk: **you shall not**. *Al* + jussive: **do not**.
+  Keeping the two registers apart matters where a pasuk has both.
+- *Bal* in Tanach: **shall not**, factual, not prohibitive. Tehillim 93:1 is
+  "it shall not falter," not "let it not falter."
+- *Bal* in Chazal: leave it transliterated and name it as a prohibition, **the
+  issur of bal tashchis**, **bal yeira'eh uval yimatzei**. Do not render it as
+  a command in English; that turns a citation into a fresh instruction.
+- Trap: English "not" flattens all three, and "do not destroy" will do for both
+  *lo sashchis* and *bal tashchis*, which is exactly the distinction Chazal
+  built by changing the word. When a passage quotes the pasuk and then the
+  Rabbinic label in one breath, translate the first and transliterate the
+  second.
+- Second trap: *lo* in a pasuk may be the prepositional *lo*, "to him." Rabbi
+  Margolios's answer to the whole question turns on that ambiguity, so read the
+  vowels before rendering.
+
+## Notes for a project
+
+None yet.
+
+## Sources
+
+Rabbi Reuven Chaim Klein, "Naso/Shavuos: Just Say No," What's in a Word?, Ohr
+Somayach, 7 Sivan 5783 (2023-05-27):
+https://articles.ohr.edu/articles/nasoshavuos-just-say-no, raw text in
+`sources/whats-in-a-word/raw/10949-nasoshavuos-just-say-no.md`. Primary loci
+cited: Devarim 20:19, 13:1; Vayikra 20:25, 10:1; Shemos 13:7, 12:19; Mishnah
+Bikkurim 4:2, Kiddushin 1:7, Zevachim 8:10, Pesachim 3:3 and 9:3; Shabbos 90b;
+Makkos 16b; Meilah 17a; Chagigah 13a; Gittin 60b; Rashi to Yeshayahu 26:10;
+*Machberes Menachem* s.v. בל; *Shitah Mekubetzes* to Temurah 6b citing *Sefer
+HaMeoros*; Tehillim 93:1, 96:10, 147:19-20; Mishlei 10:30, 12:3; Iyov 41:15;
+Divrei HaYamim I 16:30; Shmuel I 27:10; *Toras Moshe* to Vayikra 10:1.

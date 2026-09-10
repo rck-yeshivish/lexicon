@@ -1,0 +1,80 @@
+---
+id: 8634
+slug: to-remain-silent
+title: "To Remain Silent"
+date: 2020-03-07
+hebrew_date: "For the week ending 7 March 2020 / 11 Adar II 5780"
+url: https://articles.ohr.edu/articles/to-remain-silent
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# To Remain Silent
+
+When Mordechai tried to convince Queen Esther to intervene on the Jews’ behalf, he famously told her, “…for if you shall surely be silent at this moment, redemption and salvation will arise for the Jews from another avenue…” (Esther 4:14). The Hebrew words which Mordechai said that refer to Esther’s being “silent” are *hachareish tacharishi *(see *Esther Rabbbah* 8:6). As you’ve probably realized, *cheresh * is not the only Hebrew word that refers to “quiet” or “silence.” In this essay we will visit the words *shetikah, dom, chashah, * and *hass*,which all bear that meaning as well. First we will explain the nuances between these four different words for silence. Afterwards we will turn our focus on the word *cheresh * and how it differs from the other words. In doing so we will gain a better appreciation of why Mordechai uttered the fateful words*hachareish tacharishi, * and did not use one of the other synonyms for “silence.”
+
+
+
+ Rabbi Avraham Bedersi HaPenini (1230-1300) explains that the different words in question denote different types of silence: *shetikah * denotes the silence that comes after a commotion has been quelled. This root appears only four times in the Bible — two of which are in the context of Jonah’s telling his shipmates that if they throw him overboard, the stormy sea will “calm down” (Jonah 1:11-12). Outside of the Bible, cognates of *shetikah * are actually used by the Targum as Aramaic translations of *cheresh*-based words (e.g., see Targum to Gen. 24:21 and Num. 30:5, 3:8).
+
+
+
+ Rabbi Bedersi further explains that *dom* refers to what he calls a “natural state” of silence. The classical example of this is when Aharon was confronted with the death of his two eldest sons, the Bible says “and Aharon was silent” (Lev. 10:3), where the word *vayidom * appears. This means that Aharon was so overwhelmed with that painful development that he could do nothing in reaction but stand in silence — he could not even think.
+
+
+
+ Rabbi Yaakov Tzvi Mecklenburg (1785-1865) explains that *dom * refers to a type of deliberate silence, whereby a person is quiet because he consciously and intentionally decides to be quiet. According to this approach, *vayidom Aharon * means that Aharon purposely disconnected himself from the matter at hand by refusing to comment on it. Interestingly, Nachmanides writes that Aharon first cried and then was silent. However, Rabbi Mecklenburg disagrees with this assessment, arguing that if such were the reality, the Torah would have used a cognate of *shetikah * to convey his silence — not the word *dom*.
+
+
+
+ Still others explain that *dom * is a general word for “stoppage,” like when Joshua stopped the sun from moving at Gibeon, the Bible reports *shemesh b’givon dom *(Joshua 10:12). The Rabbis exegetically refer to that incident as the sun being silent from “singing G-d’s praises,” but the literal meaning does not refer to silence at all. Obviously, when one is quiet, his lips stop moving, so “stoppage” and “silence” are quite related.
+
+
+
+ The next word for “silence” is *chashah*. King Solomon wrote that there is a time for everything, and in listing examples, he writes “There is a time to be silent (*eit lachashot*), and there is a time to speak” (Eccl. 3:7). Rabbi Bedersi does not explain the meaning of this word, but Rabbi Mecklenburg explains that the type of quiet connoted by *chashah * is a reflective, introspective sort of silence (similar to Rabbi Bedersi’s understanding of *cheresh* below). Nonetheless, Rabbi Shlomo Aharon Wertheimer (1866-1935) explains that *chashah * refers to the silence of a person who holds himself back from answering another, even though he has what to answer. [Rabbi Mecklenburg also theorizes that the terms *nichush* (“divination”) and *choshen *(the Kohen Gadol’s “breastplate”) are derived from this root.]
+
+
+
+ Finally, the verb *hass* (also not mentioned by Rabbi Bedersi) refers to the act of making others quiet (i.e., hushing them). The etymology of this word might be an onomatopoeic adaptation of the sound used to quiet others (like “shh…”). As Rabbi Shlomo Pappenheim (1740-1814) and Rabbi Mecklenburg explain it, this verb is usually employed when silencing others in order to allow them to listen to somebody else, or to show honor/awe to somebody else. Rabbi Mecklenburg proposes that the word *hasket* (“listen,” Deut. 27:9) is a portmanteau partially derived from the word *hass*, in the sense of being quiet in order to hear what somebody else has to say.
+
+
+
+ Now that we have set the other words “out of the way,” we can focus on the phrase *hachareish tacharishi * and why Mordechai used cognates of the word *cheresh * as opposed to the other words mentioned above.
+
+
+
+ Rabbi Bedersi explains that *cheresh * denotes an introspective silence whereby the silent party considers certain ideas but does not verbally reveal those thoughts. This is the type of silence practiced by wise men and experts (in Akkadian *charash * means “wise” or “intelligent”). In related contexts, a certain type of craftsman is called a *charash *(Ex. 35:35), and the Pharaoh’s advisors (*chartumim* in Hebrew) are called *charshei * by the Targum (to Ex. 7:22). Those people are experts in their field and silently think about how to best go about doing what they do. The artisan, in particular, tends to be quiet while he concentrates on his work. Digging into the depths of one’s mind is conceptually similar to “plowing” (*charishah*) — hence the two words are related in Hebrew. [In some places, evildoers are especially associated with this type of silence (see Prov. 3:29 and Job 4:8, with Rashi).]
+
+
+
+ A cognate of *cheresh * is also used in the famous verse which says (Ex. 14:14), “G-d will fight for you, and you will be silent (*tacharishun*),” which means that G-d will take care of the Egyptian army, while the Jews sit silently on the sidelines, contemplating how G-d wages war on their behalf.
+
+
+
+ According to this, Mordechai implored Esther to get involved in the dire situation by use of the phrase *hachareish tacharishi,* as if to tell her not to just silently *think about * the existential threat facing the Jews, but to verbally go out and do something about it.
+
+
+
+ Rabbi Pappenheim explains that the core meaning of the root CHET-REISH-SHIN, from whence *cheresh * is derived, is “plowing” (*charishah*), which prepares a section of land for agricultural use. From that context the meaning of this root was expanded to refer to any way of preparing or manufacturing tools out of wood, stone, or metal (a “smith” is called a *choresh*). From that context the root was further expanded to refer to anybody who deliberately ponders his actions, and from there it finally refers to anybody who is quiet.
+
+
+
+ Another derivative of this root is the word *chorshah *(“forest”), which, because of the thick foliage, is a quiet, insulated area (see I Sam. 23:15, II Chron. 27:4).
+
+
+
+ Rabbi Pappenheim stresses that the type of silence denoted by the word *cheresh * is still related to the primary meanings of this root, because it is the type of contemplative silence that is used for incubating one’s thoughts before figuring out what to say. Just like plowing prepares a field for sowing, this form of silence likewise prepares oneself for future speech. Basically, *cheresh * is most appropriate when somebody is quiet while considering what to say next.
+
+
+
+ Accordingly, Mordechai specifically uses this word when urging Esther not to remain “silent,” as a way of stressing the urgency of the matter. Mordechai’s message was essentially that there was no time for her to silently consider what to say; action must be taken immediately.
+
+
+
+ Finally, the word *cheresh *(or *cheiresh*) in Mishnaic Hebrew refers to somebody who can neither hear nor speak (see *Niddah *13b). In other words, even though *cheresh * in the Bible generally refers to one who is silent, in later Hebrew it means somebody who is both deaf (unable to hear) and dumb (unable to speak). Rabbi Pappenheim explains that a deaf-mute is called a *cheresh * because he is the paragon of quiet; silence surrounds him on all sides. He does not break the silence through his own speech nor does he hear anything other than silence.
+
+
+
+ There may even be Biblical precedent for such usage. When Moshe told G-d at the burning bush that he is not the right person to speak to the Pharaoh because of his speech impairment, G-d responded, “Who put a mouth for man, or makes a person mute (*ilem*) or deaf (*cheiresh*)… is it not I — Hashem? (Ex. 4:11)” If *cheiresh * just means “silent” then how is it different from *ilem? * Because of this, some commentators explain that when Moshe said *cheiresh* he really meant mute *and* deaf, which is exactly how the Rabbis use the word. Others explain that he really meant deaf *but not * mute (see *Tosafos * to *Chagigah* 2b, with *Maharsha * and *Hagahos Rashash* there, as well as Ibn Era to Ex. 4:11). [Rabbi Shlomo Algazi (1610-1683) writes that in Rabbinic Hebrew *cheiresh * means deaf-mute, while in Biblical Hebrew it refers to somebody who can hear but cannot talk. This is somewhat problematic, because then that term means the exact same thing as *ilem*.]
+
+
+
+ Either way, the term *cheresh * is associated with a more intense form of muteness than the other words we have encountered. Rabbi Samson Raphael Hirsch (to Ps. 28:1) explains that *cheresh * refers to the stillness of a person who is asked to speak or act, but instead ignores that request. Such a person acts as if he was “deaf” and did not hear the request. With this in mind we may posit thatMordechai purposely used the loaded term *hachareish tacharishi * to tell Esther that she should not ignore his call for action as though she were “deaf” and heard nothing but silence. Instead, she should be spurred into action and tell Achashverosh what is necessary for saving her nation.

@@ -1,0 +1,108 @@
+---
+id: 11128
+slug: vayera-getting-pushy
+title: "Vayera: Getting Pushy"
+date: 2023-11-04
+hebrew_date: "For the week ending 4 November 2023 / 20 Cheshvan 5784"
+url: https://articles.ohr.edu/articles/vayera-getting-pushy
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Vayera: Getting Pushy
+
+When the angels came to visit Lot in Sodom before destroying the city, they posed as human wayfarers who said to Lot that they were prepared to sleep in the street. However, Lot pressed them and insisted that they lodge at his house, so they eventually relented and accepted Lot’s hospitality. The Hebrew word used to denote Lot “pushing/insisting” that the angels sleep over at his house is *potzer *(Gen. 19:3). In the continuation of that story, when the people of Sodom wanted to “know” Lot’s guests, they “pushed” Lot to cede his guests (Gen. 19:9), which the Bible describes again using the same verb, *potzer*. This story serves as our entry point into exploring the etymology of *potzer,* which also leads us to exploring related Hebrew synonyms, such as *docheh*, *dochef*, *hadof*, and *dofek* — all of which connote various forms of "pushing." By delving into the rich etymology and multifaceted meanings of these words, we can gain a deeper understanding of the subtleties within the Hebrew language and various Hebrew words.
+
+
+
+ It is important to distinguish between the physical act of “pushing” and the metaphorical sense of “being pushed around” or “coerced.” Some of the words we will discuss encompass both of these notions, and these usages carry intriguing implications throughout the Hebrew Bible.
+
+
+
+ All in all, cognates of *potzer * appear seven times in the Bible. Other examples include when Jacob "pushed" his brother Esau to accept his gifts (Gen. 33:11), demonstrating a form of insistence or prodding that goes beyond mere politeness, and in the tragic story of the Concubine of Givah (Jud. 19:7). These words are all clearly derived from the triliteral root PEH-TZADI-REISH.
+
+
+
+ Rabbi Samson Raphael Hirsch (to Gen. 19:3) explains *potzer* as primarily referring to “poking” or “stabbing” someone or something until they acquiesce to the desires of the one doing the pushing. This vivid imagery highlights the persistence and determination embedded in the word *potzer*. In a similar way, Shadal (to Gen. 33:11) further enriches our understanding by arguing that the three-letter root in question is actually itself an off-shoot of the biliteral root TZADI-REISH (“narrow/strait”), as “pushing” somebody to do so something essentially leaves that person in a situation with narrow choices until he relents (evidently, he saw the PEH as a sort of radical added to the core biliteral root). According to this view, "pushing" an individual into a particular course of action leaves them with limited options, akin to navigating a narrow passageway, until they give in.
+
+
+
+ When it comes to the story of Lot, Rabbi Yaakov Tzvi Mecklenburg (1785-1865) in *HaKtav VeHabbalah* (to Gen. 19:9) actually interprets the term *potzer* in this context in the physical sense. In other words, he reads the verse as saying that the people of Sodom physically "pushed" Lot away from the door, preventing him from protecting his angelic guests. This physical interpretation adds a layer of tension and urgency to the story, emphasizing the Sodomites’ hostile intent, and offers a compelling contrast to the more figurative usages of the word.
+
+
+
+ Let’s shift our focus to the word *docheh, * whose root DALET-CHET-HEY (*dachah*) carries the connotation of being “pushed.” An almost identical root is DALET-VAV-CHET, which also refers to being “pushed.” As the Psalmist famously says about himself, “I was surely pushed (*dacho dechitani*) into falling / And Hashem helped me” (Ps. 118:13). This theme reappears in other psalms, where the Psalmist expresses gratitude for God's intervention in preventing his downfall, particularly for “extracting my soul from death, my foot, from being pushed (*dechi*)” (Ps. 116:8, see also Ps. 56:14). Altogether, inflections of DALET-CHET-HEY appear eleven times in the Bible (as Even-Shoshan lists them), primarily in the book of Psalms, with a few instances elsewhere (Prov. 14:32, 26:28, Jer. 23:12). [Another related root is DALET-CHET-KUF (*d’chak*), which likewise refers to “pushing/pressuring.” For more about that particular root, see my earlier essay “[Putting Pressure](https://ohr.edu/this_week/whats_in_a_word/9831)” (April 2022).]
+
+
+
+ The term *docheh * is also present in rabbinic literature. For example, in Talmudic jurisprudence, a positive commandment "supersedes" (*docheh*, literally "pushes away") a negative commandment. In a more colloquial sense, within Yeshivish parlance, when someone dismisses a particular argument or line of thinking, they may be said to be *dochech* that particular argument or line of thinking, reinforcing the idea of “pushing” aside one viewpoint in favor of another.
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau (1740–1814) traces several different Biblical Hebrew terms to the biliteral DALET-CHET, which he argues is the ultimate root of *docheh*. As you may have guessed it, he sees the core meaning of that root to be “push,” and most of its words are related to the concept of “pushing away” or “removing” something from its place. For instance, he interprets the word *nidach*/*nidchei* (Deut. 22:1, Isa. 11:12, 27:13), which means “refugee/rejected person,” as referring to a person who has been “pushed away” from his homeland. Similarly, *hadachah *(“rinsing”) refers to the act of washing away filth by using water to “push” it away, and *dochan *(“rice” or “millet”) refers to grain-like granules that need to be extracted by “pushing” them out of their husks.
+
+
+
+ Rabbi Samson Raphael Hirsch (to Gen. 20:13) offers a deeper understanding of *dochech * by comparing it to the phonetically-similar word *toeh *(“becoming lost”), via the interchangeability of the letters DALET with TAV, and CHET with AYIN. He argues that just as when a person is "lost," this means that he has become disconnected from his secure homebase and is unaware of his present location, so too when one is "pushed away" from one's home, a person is taken out of his safe and secure base and brought out into the unknown. [For more on the word *toeh * and its homonym toeh, see “[Lost or Mistaken](https://ohr.edu/this_week/whats_in_a_word/7914)” (June 2018).]
+
+
+
+ Diving further into the realm of Hebrew synonyms that convey the idea of "pushing," we encounter the root DALET-CHET-PEH (*dochef*). In context, it usually refers to somebody being pushed into doing something faster than otherwise planned. This root appears only five times in the Bible, twice when describing the Achashverosh’s runners getting out word of his royal proclamations (Est. 3:15, 8:14), and once when describing Haman quickly retreating home after parading Mordecai around on the king’s horse (Est. 6:12). The fourth time this word appears is when Uzziah/Azariah (the king of Judah) was suddenly struck with *tzaraat* on his forehead in the Holy Temple, and he was *nidchaf* to leave the premises, which means that he was “pushed into” leaving as quickly as possible (II Chron. 26:20). A fifth occurrence of the term is found in Ps. 140:12. In Modern Hebrew, the adjective *dachuf* is used to refer to a "pressing matter" or an "urgent" issue requiring immediate attention.
+
+
+
+ Although the classical lexicographers like Menachem Ibn Saruk (920–970), Yonah Ibn Janach (990–1050), and Radak (1160–1235) trace the term *dochef * to the triliteral root DALET-CHET-PEH, Rabbi Pappenheim offers an intriguing alternative. He suggests that *dochef* is a fusion of two biliteral roots: DALET-CHET (previously discussed) and ALEPH-PEH (*af*, meaning "face" or "nose"). In this view, *dochef* implies pushing a person's face away, symbolizing the rejection of one's presence and the urgency to redirect themselves toward another task.
+
+
+
+ Another term related to “pushing” is derived from the root HEY-DALET-PEH (*hadof*). The verbs used to denote Hashem “pushing away” the Canaanite inhabitants in favor of the incoming Jews (Deut. 6:19, 9:4, Josh. 23:5) derives from this root, as does the term for “pushing” a person to his death when discussing one who commits murder by mistake (Num. 35:22) or on purpose (Num. 35:20). Similarly, when the poor Shunammite mother of an ill child came before Elisha to beg the prophet to pray for her son, Elisha’s wicked handler Gechazi “pushed” her away (II Kgs. 4:27). In fact, Targum (there) uses an Aramaic form of the Hebrew *dachah * when describing what Gechazi did to the poor lady.
+
+
+
+ Rabbi Pappenheim views *hadof* as a derivative of the biliteral root DALET-PEH, whose core meaning he sees as “pushing away with ease.” For example, in the case of Gechazi pushing away the Shunammite woman, Rabbi Pappenheim explains that Gechazi was able to easily push the woman away because she was on a mountain and the incline caused gravity to make her footing more precarious. The Malbim in his work *Yair Ohr * offers a similar explanation of *hadof* to differentiate it from *docheh*. In doing so, he insinuates that *hadof* implies "pushing" away something that is less rooted in its original location.
+
+
+
+ Furthermore, Rabbi Pappenheim also connects the Mishnaic word *dofan* (Yoma 2:3, 2:7, *Sukkah* 1:1, 1:5, 1:9, 2:4, *Zevachim* 8:1, 9:3, 14:2, *Bechorot* 2:9, 7:7, 8:2, 9:4, *Temurah* 2:3, 6:1, *Kritot* 1:5, *Tamid* 4:3, *Keilim* 2:2, 4:1, *Ohalot* 5:5-6, 9:16, 12:7, *Parah* 2:3, 5:5, *Niddah* 5:1, *Tevul Yom* 3:3, and *Yadayim* 1:2) to this root. The word *dofan * refers to a flimsy wall or barrier that can easily be pushed out of the way, and the word *daf *(“wooden board”) refers to the material by which a *dofan* was often built. In later Medieval Hebrew, the word *daf * came to mean a “page/folio” in a book or codex. [By the way, in most cases that the word *dofan * appears in the Mishnah, it is used in a borrowed sense to refer to a child born via Cesarean-section or otherwise cutting a physiological "barrier" to manually remove the child from the womb.]
+
+
+
+ Likewise, Rabbi Pappenheim traces the Biblical Hebrew word *dofi *(Ps. 50:2), which means “fault/misdeed” to the root in discussion. This same connection was made earlier by Rabbi David Abudarham of Seville (circa. mid-14th century) in his commentary to the *vidui *(“confession”) prayer in which the penitent admits to having spoken *dofi*. He explains that this refers to speaking derogatorily about somebody else, by which one had essentially “pushed away” the victim of one’s hateful speech for personal gain. In offering this explanation, Abudarham explicitly links *dofi* with *hadof* (as does Rashi to Ps. 50:2).
+
+
+
+ Interestingly, Abudarham also cites Rabbi Yosef Kimchi (1105–1170), who explained *dofi * as a portmanteau of the Greek prefix *di- *(“two,” “double”) and the Hebrew *pi* (“mouth”). Essentially, he explains *dofi * as duplicitous speech, as though one spoke with two different mouths (like the English idiom "he who speaks with a forked tongue," which refers to somebody who might purposely say one thing and mean another).
+
+
+
+ In discussing the term *hadof*, Rabbi Samson Raphael Hirsch (to Num. 35:20) compares it to four other roots which are phonetically similar to it: AYIN-DALET-PEH (*adif*, "extra/more"), CHET-TET-PEH (*chatifah*, "grab/seize"), CHET-TET-BET (*chativah*, "cut off"), and AYIN-TET-PEH (*atifah* or *otef*, "wrap/envelop"). These comparisons are predicated on the interchangeability of the letters HEY, AYIN, and CHET, as well as the letters DALET and TET. The common theme that unites all five of these roots is that they relate to something being deemed extra or even extraneous: The verb *hadof * refers to “pushing” something away because it is considered superfluous or inessential, *adif* literally means “extra,” *chatifah* refers to “grabbing” something because it was extraneous in its prior location and therefore ought to be moved elsewhere, *chativah* refers to cutting off something extra to be separated from the rest, and *atifah* refers to wrapping something or enveloping it with a special wrap to differentiate it from the rest.
+
+
+
+ Rabbi David Golomb (1861–1935) writes that *hadof * is related to *dochef* by arguing that the letters HEY and CHET can be viewed as interchangeable (and, evidently, the metathesized reordering of the consonants to move the HEY/CHET to the middle position).
+
+
+
+ The root DALET-PEH-KUF appears only three times in the Bible, each with a slightly different interpretation. The first time it appears when Jacob decline Esau’s offer for their two families to travel together to Mount Seir, with Jacob excusing himself by saying that if he had to “push” his livestock (*defakum*) to travel faster, all his sheep would die (Gen. 33:13). The second time this term appears is in Song of Songs, where longing for a lover is expressed through the phrase, "The voice of my beloved pushes (*dofek*) / Open for me" (Song of Songs 2:5). The third time this root appears is when the residents of Givah wanted to Sodomize a vising guest, so they gathered at his host’s door and were *mitdapkim* upon it (Jud. 19:22).
+
+
+
+ In the last case, Targum Jonathan uses a cognate of *d’chak * to denote the people of Givah pushing the door to break it open, while *Metzudat Tzion *(to Jud. 19:22, Song 2:5) explains that they were more gently knocking on the door to convince the host to open up.
+
+
+
+ Shadal (to Gen. 33:13) says that DALET-PEH-KUF means “to knock/bang/beat/push.” He then cites his student, Rabbi Abraham Grego of Verona, who posits that this root derives from DALET-PEH, alongside the roots of *dochef* and *hadof*. [In Modern Hebrew, the verb *dafak* and the adjective *dafuk* took on more crude meanings (possibly influenced by a similar-sounding English swearword) that need not be discussed here.]
+
+
+
+ Notably, one of the places where the Jews camped in the Wilderness was named Dafkah (Num. 33:12–13), and that word is seemingly derived from the same root as *dofek*.
+
+
+
+ The consistent sound of a persistent knock on a door resembles the persistent beat of a person’s heart. Hence, Nachmanides (in his responsa misattributed to *Rashba* §127) already uses the term *dofek* to denote a person’s “heartbeat” and that usage continues into Modern Hebrew. This is not so far from the original usage in Song of Songs.
+
+
+
+ An interesting historical tidbit related to this comes from Mr. Norbert Pearlroth (1893–1983), famous for serving as the research director of *Ripley's Believe It or Not! * for over half a century. He wrote in his column about Jewish family names (*The Indiana Jewish Post*, March 29, 1946 p. 8) that the Jewish surname Deifik derives from the Hebrew word *dofek,* which means "pulse."
+
+
+
+ According to his account, this last name can be traced to pre-1848, when Jews were not allowed to attend Polish or Russian medical schools. Thus, Jews in the medical field were limited to para-medical occupations, such as "Barber-Surgeons." The patriarch of the Deifik family, according to Pearlroth, had the professional habit of feeling his patient’s pulse, so the Hebrew word for "heartbeat/pulse" became his family name. Pearlroth's successor in the column devoted to Jewish surnames, David L. Gold, later clarified (*The Indiana Jewish Post*, Oct. 31, 1990 p. 16) that the family name Deifik actually derives from a *nickname* (that was ostensibly given to said patriarch of the family). As an aside, my wife’s maiden name is Deifik, and from my amateur genealogical research, it seems that all individuals bearing the surname Deifik (original spelled Dojfig, Deifig, or Dojfik) are related to her family, who originally come from Michalcze (nowadays spelled Mykhal'che in modern-day Ukraine), near Horodenka.

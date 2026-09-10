@@ -1,0 +1,84 @@
+---
+id: 9513
+slug: stop-it
+title: "Stop It!"
+date: 2022-01-01
+hebrew_date: "For the week ending 1 January 2022 / 28 Tevet 5782"
+url: https://articles.ohr.edu/articles/stop-it
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Stop It!
+
+When faced with the devastating Plague of Hail, Pharaoh called for Moses and asked him to pray to G-d to remove this pox from upon himself and his people. Moses replied that he would indeed do so, saying, “As I exit the city, I will stretch out my palms to G-d, and the sounds will stop (*chadal*)…” (Ex. 9:29). Indeed, the Bible (Ex. 9:33) reports that when Moses left the city and lifted his hands in prayer, the noises and hail “stopped” (*chadal*). Yet, when Pharaoh saw that the hail “stopped” (*chadal*), he hardened his heart and continued to refuse to release the Jews from bondage (Ex. 9:34). This essay explores five different terms that denote the verb of “stopping/withholding”: *chadal, mana, kala, chasach * and *pasak*.
+
+
+
+ Rabbi Yosef Grayever of Ostrow (1808-1898) explains that these different synonyms refer to different types of “stopping,” and while they can colloquially be used interchangeably, each word has a specific connotation in most places that it appears in Scripture, thus allowing us to explain how their primary meanings differ from one another.
+
+
+
+ The way Rabbi Grayever explains it, *chadal* connotes the inability to perform a certain action, or sustain a reality, which leads to something being “stopped” — whether this inability stems from nature or from legal considerations. On the other hand, he writes that *mana* denotes “stopping” to do something by conscious decision and not simply because of an inability to do it. For example, when the Book of Proverbs warns that one should take care not to enjoy the company of sinners, it says “Withhold (*mana*) your feet from their ways” (Prov. 1:15), using a cognate of *mana * because it refers to a conscious decision not to fraternize with the wicked.
+
+
+
+
+
+ Rabbi Grayever further explains that the word *pasak* means to “stop” something in the middle, that is, once it had already started. In contrast, he notes, *chasach* implies “stopping” something from starting in the first place.
+
+
+
+ Finally, Rabbi Grayever explains that the word *kala* connotes “stopping” something because it had already reached its goal, or because the reason that it began is no longer applicable. Examples of such usage can be found in the two times that the word *vayikaleh* appear in the Bible: At the end of the year-long Flood from which Noah was saved, the Bible reports “and the rains stopped (*vayikaleh*) from the Heavens” (Gen. 8:2) and when the Jews donated enough materials to begin constructing the Tabernacle, Moses commanded them to stop bringing more, and the Bible reports: “and the nation stopped (*vayikaleh*) from bringing” (Ex. 36:6). Both of these cases refer to “stopping” because the original reason for starting is no longer in play.
+
+
+
+ Interestingly, Rabbi Grayever offers another example of such usage in King David’s prayer, “You — O G-d — do not stop/withhold (*tichla*) Your mercy from me...” (Ps. 40:12). In this case, King David begged the Creator not to “stop” granting him mercy due to his lack of good deeds no longer serving as justification for His continued mercy. This too is an example of “stopping” in the sense of the original reason/justification no longer being relevant.
+
+
+
+ Rabbi Shlomo Aharon Wertheimer (1866-1935) notes that even though *chadal* refers to “stopping/withholding” due to a lack of ability to do that thing, when the word is written with a *vav*
+
+*ha’hipuch* to denote future tense (*v’chadal*), it refers to somebody who plans ahead of time to not do an action even though he could (physically or legally) do that action. This explains the appearance of the word *v’chadal* when describing a person purposely failing to offer the Paschal Offering (Num. 9:13), or a person deliberately failing to help his enemy’s donkey that was collapsing under its heavy burden (Ex. 23:5).
+
+
+
+ Rabbi Wertheimer contrasts the words *mana * and *chasach* by clarifying what each word implies. As he puts is, *mana* implies willfully (see II Shmuel 13:13) and totally “withholding” something from another (or totally “refraining” from a certain course of action), while *chasach* — on the other hand — implies something that already started that will be “stopped” in the middle (contra Rabbi Grayever).
+
+
+
+ Based on this, Rabbi Wertheimer explains why Joseph says that Potiphar gave him all authority concerning his household, except that he withheld (*chasach*) his wife from Joseph (Gen. 39:9). In this case, since Potiphar had already begun to give over his various responsibilities to Joseph, withholding his wife from Joseph was not an absolute “withholding” but merely the interruption of a process that already started, and so the Bible uses the word *chasach* in this case. Similarly, when G-d praised Abraham after the Binding of Isaac for his willingness to sacrifice his son, G-d said to him, “You did not withhold (*chasach*) your son from Me” (Gen. 22:12), because Abraham had already begun the process of giving over to G-d everything he had, and not giving over his son Isaac would have been an interruption in a process that Abraham had already initiated.
+
+
+
+ While Rabbi Wertheimer agrees with Rabbi Grayever’s explanation that *kala* implies “stopping” because one had already achieved one’s goals, the Malbim offers a slightly different take on the word. The Malbim explains that *kala* means to “stop” something from happening or being done in a way that goes against the person’s or item's nature. He notes that this word is cognate with the word *kele* ("jail") and denotes "forcibly detaining" something to stop it from performing a certain action. For example, in the above-cited verse concerning the end of the Flood, the nature of rain is to fall from the sky, but when the rain stopped falling at the close of the Flood it was as though G-d had "detained" the rain to hold it back from descending.
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau (1740-1814) explains that the word *mana* implies that “stopping” to perform the act in question constitutes a breach of morality or nature. In other words, *mana* means to “stop” doing something you are supposed to be doing, or to “withhold” something which ought to not be withheld. This contrasts with the term *chadal, * which Rabbi Pappenheim sees as carrying no implication as to any value judgment in terms of whether this “stopping/withholding” is good or bad.
+
+
+
+ Another point that Rabbi Pappenheim makes about the word *mana * is that it indicates the presence of outside forces that stop a person from a certain course of action, as does the word *chasach*. In contrast, he explains that *chadal* implies that the person himself has “stopped” doing something without any interference from an outside force.
+
+
+
+ In a separate discussion, Rabbi Pappenheim offers a fascinating theory related to the triliteral root MEM-NUN-AYIN from which *mana * derives. He argues that many three-letter roots which begin with the letter MEM are really derivatives of the two-letter roots comprised of the remaining two letters, with the letter MEM actually serving as a way of flipping the meaning of the two-letter root to its exact opposite. He provides several examples of this phenomenon: the two-letter root CHET-KUF (*chok*) means “engrave,” while the three letter root MEM-CHET-KUF (*machak*) means “erase;” the two-letter root LAMMED-TZADI (*leitz*) means “scorn/mockery,” while MEM-LAMMED-TZADI (*meilitz)* means “justification/defense;” and REISH-DALET (*rad*) refers to “governing/ruling,” while MEM-REISH-DALET (*marad*) means “rebellion.” In a similar vein, Rabbi Pappenheim notes that the biliteral root NUN-AYIN (*na, * like in *tenuah*) refers to “movement,” while MEM-NUN-AYIN (*mana*) means “stopping/withholding” which means the exact opposite!
+
+
+
+ In explaining the specific implication of the word *chasach, * Rabbi Pappenheim writes that this term implies “withholding” or “stopping” an act that was supposed to be stopped by the laws of morality or nature. In other words, *chasach* means to appropriately stop an unbefitting action from happening, thus making it an antonym of *mana* in a sense. Interestingly, Rabbi Pappenheim also argues that the word *chasach* is derived from a conglomeration of the two roots CHET-SAMECH (“caring”) and SAMECH-KAF (“protection”), as it refers to one who stops another from performing a morally reprehensible act that goes against nature/morality.
+
+
+
+ The Malbim explicitly follows Rabbi Pappenheim in explaining that the term *chasach* refers to an outside force that impedes one’s ability to do a certain action (as opposed to the person himself being unable or unwilling to perform a certain action). Like Rabbi Pappenheim, the Malbim also contrasts this with the term *chadal*, which refers to the impediment to a certain action coming from the person himself (whether on purpose or not). (See also the Malbim in *Ayelet HaShachar* 461, Lev. 2:13 145, Lev. 26:6 8 and the *Yair Ohr* on how the verb *Shabbat, *“stop/rest,” differs from these terms.)
+
+
+
+ Interestingly, these nuances seem exclusive to Hebrew. They are not found in Targumic Aramaic even when the Targumim use cognates of these Hebrew words. For example, Targum Onkelos translates *chasach* as *mana *(Gen. 20:6, 22:16, 39:9), and translates both *kala* (Ex. 36:6) and *chadal* (Gen. 18:11, 41:49, Deut. 15:11) as *pasak *(which literally means to “split” or “cut”). In other cases, Onkelos leaves *kala* (Gen. 8:2) and *mana* (Gen. 30:2, Num. 24:11) without translation, in their Hebrew forms. This interchangeability of the words in Aramaic shows that the nuances described above were no longer appreciated.
+
+
+
+ Indeed, when the Bible reports that Sarah’s menstrual cycles *chadal* “stopped” (Gen. 18:11), Rashi follows Targum Onkelos in explaining that *chadal* means *pasak*. The Moroccan scholar Rabbi Yaakov Toledano of Meknes (1690-1771) explains that because the term *chadal* refers specifically to a person purposely, willfully deciding to “stop” doing something, Rashi was bothered by the appearance of that word in this context, given that these fluids are not sentient beings that could “decide” to stop flowing. As he explains it, Rashi resolved this issue by defining *chadal* as *pasak*, which could also refer to an insentient item “stopping” on its own, without making a conscious decision to “stop.” (A simpler way of understanding Rashi is that he was clarifying what *chadal* means by using the Aramaic term *pasak* that Targum Onkelos uses to render the word *chadal, * but was not really bothered by the blood’s insentience.)
+
+
+
+ Rabbi Rafael Binyamin Posen (1942-2016) notes that Targum Onkelos thrice translates the word *chadal* in the context of the Plague of Hail with a cognate of *mana*, yet when it comes to the word *chadal* in the context of Sarah (Gen. 18:11), Onkelos renders this word in Aramaic as *pasak*. Rabbi Posen reconciles this apparent contradiction by postulating that the Hebrew *chadal* can denote two disparate types of "stopping." The first type refers to "stopping" a regular, ongoing process from continuing. In this sense, Sarah's cycles were said to have "stopped," and so Onkelos uses the word *pasak* in this case. However, *chadal* also denotes "stopping" a one-time event. This form of “stopping” is rendered by Onkelos as *mana*, such as when the Bible records that people "stopped" (*chadal*) building the Tower of Babel (Gen. 11:8), which Onkelos translates into Aramaic with an inflection of *mana*. Like building the Tower of Babel, the Plague of Hail was also a one-time event, so when it “stopped” (*chadal*) a cognate of *mana * was used in the Aramaic translation. Rabbi Posen notes that this consistency in which Aramaic term is used to translate the Hebrew *chadal* can only be found in Targum Onkelos, but not in the so-called Targum Yonatan.

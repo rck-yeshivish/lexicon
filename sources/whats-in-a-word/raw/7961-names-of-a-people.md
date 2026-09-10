@@ -1,0 +1,107 @@
+---
+id: 7961
+slug: names-of-a-people
+title: "Names of a People"
+date: 2018-10-20
+hebrew_date: "For the week ending 20 October 2018 / 11 Heshvan 5779"
+url: https://articles.ohr.edu/articles/names-of-a-people
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Names of a People
+
+My wife and I were once travelling in the subway in Los Angeles, and a friendly African-American stopped us to ask, “Hey! Are you guys Amish?” To which I promptly replied, “Nah, we’re Hebrews.” But why are Jews called “Hebrews”? Better yet, why are Jews called “Jews”? If we want to get Biblical, the Jewish People are known as “Israelites”; what is the meaning of *that* term? These questions and more will be answered in the article before you.
+
+
+
+
+
+
+
+
+
+ The first person described in the Bible as a “Hebrew” (*Ivri*) is Abraham. In the Torah’s account of the war between the Five Kings of Sodom and the Four Mesopotamian Kings, a refugee from the war told Abraham about the abduction of his nephew Lot: “The refugee came and he told Abraham the *Ivri *[Hebrew]… and Abraham heard that his brother[’s son] was captured (Gen. 14:13-14).” What does it mean that Abraham was an *Ivri*?
+
+
+
+
+
+
+
+
+
+ The Midrash (*Ber. Rabbah *42:8) offers three explanations for why the Torah refers to Abraham as an *Ivri*: One opinion maintains that it alludes to the fact that if the entire world would be on one “side” (*ever*) of a scale, and Abraham would stand on the other, then because of Abraham’s great stature the scale would balance. A second opinion explains that Abraham was called an *Ivri *as a genealogical marker to show that he descended from Eber (*Ever*), who was a great-grandson of Noah’s son Shem (Gen. 11:21–24). A third opinion explains that he was referred to as an *Ivri *because of his Mesopotamian origins from the other “side” (*ever*) of the Euphrates River, and because he spoke the *Ivri *(ostensibly “Hebrew”) language.
+
+
+
+
+
+
+
+
+
+
+
+*Pesikta Rabbati* (*Pesikta* 33) offers a fourth explanation: When Gd saw that the entire world worshipped idolatry, and Abraham separated himself from them by not doing so, He called Abraham an *Ivri. *That appellation referred to the fact that Abraham took the opposite “side”, regarding this pivotal issue, than did the rest of the world. Another Midrash (*Shemot Rabbah* 3:8) explains that the Jews are called “Hebrews” (*Ivriim*), because they were destined “to cross over the [Red] Sea” (*she’avru ha’yam*).
+
+
+
+
+
+
+
+
+
+ The term *Bnei Yisrael* (literally, “Sons of Israel”, or “Israelites”) appears in the Bible a whopping 636 times, and the term *Yisrael *(“Israel”) as way of referring to the Jewish People is used over two-thousand times! *Yisrael *is actually an alternate name for the Partriach Jacob. By using *Yisrael *as a patronym, all the Jewish People are also called *Yisrael* or Sons of *Yisrael*.
+
+
+
+
+
+
+
+
+
+ Rabbeinu Bachaya (to Exodus21:6) explains that the term “Hebrew” connotes a lower spiritual level than the term “Israelite”. Based on this, he explains that it is appropriate to refer to a Jewish slave as an *Eved Ivri *(“Hebrew” slave), even after the Sinai Revelation (after which the term “Hebrew” largely fell into disuse in the Bible), because a slave lives on a lower plane of existence than does a freedman. For this reason, throughout most of the Bible, the Jewish People are called “Israelites” — a term which connotes a higher level (not to be confused with Israeli, which refers to somebody hailing from the modern State of Israel).
+
+
+
+
+
+
+
+
+
+ From where does the name “Jew” come? As you might know, after the rules of King David and King Solomon, the Jewish People split into two parallel kingdoms: the Kingdom of Judah (*Yehuda*) in the south and the Kingdom of Israel in the north. The Kingdom of Judah, which consisted of the tribes of Judah and Benjamin, continued to be led by the Davidic dynasty. The Kingdom of Judah was named after Jacob’s fourth son Judah, from whom the Davidic line descends. Judah, in turn, was named so by his mother Leah as a means of expressing thanks (*hodaah*) to G-d for granting her a fourth son (see Gen. 29:35).
+
+
+
+ The Kingdom of Israel consisted of the remaining Ten Tribes, and was led by various kings from those tribes. The Northern Kingdom first fell to the Assyrians, and the Ten Tribes were exiled to parts unknown. Well over a century later, the Southern Kingdom was conquered by the Babylonians, and the Jews who lived there were exiled to Babylon.
+
+
+
+ The gentilic *Yehudiim *applies specifically to Jews who were subjects of the Kingdom of Judah. When the Persians superseded the Babylonians, they allowed the Jews in their empire to return to the Holy Land, and establish the semi-independent Persian province *Yehud Medinata *(“The State of Judah”). Centuries later, when the Romans incorporated the Holy Land into their vast empire, they applied the name “Judea” to that stretch of land (until they rebranded it as *Syria Palaestina *after the Bar Kochba revolt).
+
+
+
+ From here evolved the term “Jew”: The Ancient Greek word for *Yehudi* is *Ioudaîos*. (Interestingly, the earliest appearance of this word is in the so-called Moschos Inscription, in which a Jew-turned-Hellene named Moschos erected a stele to honor the Greek gods.) As you can see, in Greek, the *h*-sound of the word *Yehuda* was dropped. When that word was introduced into Old French, it lost the *d*-sound to become *giu* (although in many other European languages, the *d*-sound remained intact). The Modern English word “Jew” was born from that.
+
+
+
+ Rabbi Dr. Norman Lamm once debated a radical secular Israeli who denied the Jewishness of the State of Israel. In the midst of the debate, Rabbi Lamm supposedly said: “You talk about French nationals and Spanish nationals and Italian nationals, and deny the nationhood of the Jewish people. In the country from which I come, we also have Hebrew Nationals — but at least they claim that their baloney is *kosher*!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 
+
+*For questions, comments, or to propose ideas for a future article, please contact the author at *[*rcklein@ohr.edu*](mailto:rcklein@ohr.edu)

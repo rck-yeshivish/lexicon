@@ -1,0 +1,52 @@
+---
+id: 10907
+slug: acharei-mos-confronting-death
+title: "Acharei Mos: Confronting Death"
+date: 2024-05-04
+hebrew_date: "For the week ending 4 May 2024 / 26 Nissan 5784"
+url: https://articles.ohr.edu/articles/acharei-mos-confronting-death
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Acharei Mos: Confronting Death
+
+The Torah introduces the laws of the sacrificial services of Yom Kippur by noting that Hashem relayed them to Moses *after the deaths* (*acharei mot*) of Aharon’s two sons (Lev. 16:1). The Torah then continues to discuss various other topics, running the gamut from sacrifices outside of the temple, the prohibition of eating blood, forbidden relationships, and various interpersonal and agricultural laws (Lev. 16–20). All in all, the theme of death underlies all of these passages and, in fact, declensions of the Hebrew words *mavet/mitah* (“death”) appear twenty-four times in *Parshiot Acharei Mot* and *Kedoshim *— more than any other two consecutive *Parshiot* in the Torah. The Hebrew term colloquially used when referring to someone who died, or “passed away”, is *nifter * and the noun for death is known as *petirah*. In what way is the Hebrew word *nifter * different from the seemingly synonymous word *meit*?
+
+
+
+ The word *mavet * is actually a good test case for the ways that Hebrew lexicographers identified the etymological roots of Hebrew words. Those scholars who were of the opinion that Hebrew roots typically consist of three letters (known as triliteral roots) trace this word to the three-letter root MEM-VAV-TAV. These scholars include early grammarians like Rabbi Yehuda Chayyuj (945–1000), Rabbi Yonah Ibn Janach (990–1055), Rabbi Shlomo Ibn Parchon (12[th] century), and Radak (1160–1235). However, Menachem Ibn Saruk (920–970) in *Machberet Menachem* and Rabbi Shlomo Pappenheim (1740–1814) in *Yeriot Shlomo * and *Cheshek Shlomo * go with the biliteralist approach, leading them to see the root of *mavet * as simply MEM-TAV. Cognates of these roots appear close to one-thousand times in the Bible (according to Even Shoshan’s concordance on the roots MEM-TAV and MEM-VAV-TAV).
+
+
+
+ Either way, it is interesting that in the ancient Canaanite cultures that surrounded the Holy Land, the concept of “death” was personified and deified into the name of the god Mot (sometimes spelled Mawet or Motu). In other words, those pagan cultures tended to view death as an independent entity that was on par with and sometimes competed with the other gods. For example, in Ugaritic mythology, the god Mot rules the underworld and was one of Baal’s main rivals (this has parallels in Hades of Greek mythology). This mythical conception of death, of course, differs from the scientific perspective, which see death as essentially a natural process that affects all living things at some point or another. Rabbinic discourse takes a middle approach by referring to an angel known as *Malach Ha’Mavet* who is said to hold power over death, but as an angel remains totally subservient to Hashem and is not an independent death deity like those of the pagan pantheons.
+
+
+
+ The term *nifter * in rabbinic parlance usually means “exempted/discharged oneself [of an obligation]” or “takes leave of another.” Use of this term in reference to somebody “dying” is first found in the Mishnah (*Peah* 8:9), which uses the expression *nifter min ha’olam*, meaning “*nifter* from the world.” Variants of that expression also appear in the Babylonian Talmud (*Brachot* 17a, *Ketubot* 68a, 104a-105b, *Kiddushin* 72b, *Sanhedrin* 113b). The only times that the word *nifter* is used as a stand-alone term for a specific person “dying” in the Talmud is when the Talmud talks about the day that Abraham died (*Bava Batra* 16b) and the day that Moses died (*Temurah* 16a). The Talmud thus does not generally use the Biblical Hebrew word *meit *(“died”) to refer to someone passing on. Another common expression used by the Talmud to refer to somebody dying is *nach nafshei* (literally, “his soul has rested”).
+
+
+
+ The root of the word *nifter * is PEH-THE-REISH (“exit”), which in Biblical Hebrew can refer to a firstborn animal “exiting” its mother’s womb (*peter rechem*), or — as already mentioned — in Rabbinic Hebrew it can refer to somebody who “takes leave” of his friend (*nifter*). In the context of death, a person is *nifter * when he exits This World in anticipation of entering the Next World. The most frequent use of this root in rabbinic source is in the word *patur, * alegal term that refers to a person being “exempt” from a given punishment or obligation. In a figurative sense, a person becomes “exempt” from something by “exiting” the realm of the obliged and beholden, thus becoming free from the burden of compulsion. In fact, the very word *exempt * in English is derived from the Latin word *exemptus*, which literally means “taking out/away.”
+
+
+
+ All of this, of course, leads us to the question as to if or how the “death” (*petirah*) of a person is connected to the concept of a legal “exemption” (*patur*).
+
+
+
+ In contemporary times, the controversy over the changing definition of death rages on. However, in Judaism, its definition is pegged to the exit of the soul from one’s body (see *Yevamot* 16:3 and *Ohalot* 1:6). Based on this, we can understand the correlation between “death” and the idea of being “exempt.” All the while a person’s body houses his soul, his inner soul obligates his outer body to live for a higher purpose and existence. It represents his accountability to law and order, as well as Hashem’s oversight of the world. The very essence of life obligates a person to live up to Hashem’s rules and expectation for how the world ought to look. When a person’s soul leaves his body, then the body is no longer bound to those higher callings — it is exempt from all obligations. For this reason, a person who dies is said to have been *nifter — * a word related to *patur* (exempt) — as he has “exited” the realm of the living and has now entered the realm of the dead, i.e., those who are “exempt” from actively fulfilling any responsibilities.
+
+
+
+ In truth, only a person who lives for a higher purpose is considered living. A person who lives for no other reason but to enjoy life itself, is considered dead even as he breathes and walks (or bungee jumps from the Empire State Building). To this effect, the Talmud (*Brachot* 18a–18b) unequivocally states that the righteous (*tzaddikim*) are considered alive (*chaim*), even when technically dead; while the wicked (*reshaim*) are considered dead (*metim*) — even when they are physically alive.
+
+
+
+ A person who lives a life that looks to a higher purpose is *nifter * when he dies, because his physical life was not his end-all objective, it was simply a means to reaching a higher goal. Such a person is akin to somebody who “exits” one room to enter another. He is simply moving on from one place to another, but is essentially continuing in the same trajectory as before. The term *mitah*, on the other hand, can be applied to any living being (even animals), which experiences the separation of body and soul. *Mitah * is the conclusion of life; it does not connote anything to come afterwards. Even the wicked experience what is called *mitah* as it denotes the physical conclusion*, * while the term *petirah* is generally reserved for the righteous.
+
+
+
+ The late Rabbi Moshe Shapiro (1935–2017) observes that plants, which are firmly rooted in the ground, are also connected to their lifeline in the soil, just as man is attached to his soul. That very connection shows that the plant does not simply grow of its own accord, but connect to something loftier. On the other hand, mushrooms, like other fungi, rise from the ground without roots. They are disconnected from any sense of responsibility or accountability. They are free-floating, self-serving entities. For this reason, mushroom are called *pitriyot * in Hebrew (*Uktzin* 3:2) — they are *patur * from any obligations. While they too might technically be considered alive, such a life is more akin to death than to life because is entails no “obligations” to one’s source of life. Thus, what scientists call the largest living organism on Earth — a certain honey fungus in the Blue Mountains of Oregon — is actually dead!
+
+
+
+ Rabbi Avraham Chaim Schor (d. 1632) takes a slightly different approach to explaining the difference between seemingly synonymous words *nifter * and *meit. * Almost by definition, righteous people do not focus on the carnal pleasures of This World, while the wicked generally tend to indulge in such pursuits. As a result, the worldly existence of a pious man can be characterized as often full of physical suffering. When the righteous man dies and moves to the Next World, he has effectively become “exempt” from the life of suffering in This World and can now move forward. This is why the term *nifter * applies specifically to the death of a *tzaddik*, while *mitah * refers to death in general.

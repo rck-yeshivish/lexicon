@@ -1,0 +1,78 @@
+---
+id: 9192
+slug: strange-aliens
+title: "Strange Aliens"
+date: 2021-05-01
+hebrew_date: "For the week ending 1 May 2021 / 19 Iyar 5781"
+url: https://articles.ohr.edu/articles/strange-aliens
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Strange Aliens
+
+As strange as it seems, the Bible uses two different words to mean “foreigner/alien,” and often uses both terms side-by-side. The two terms in question are, of course, *zar * and *nachri*. For example, the Book of Proverbs recommends that a person not toot his own horn in telling of his own praises; rather he should wait for other people to compliment him: “A stranger (*zar*) shall praise you, but not your [own] mouth, a stranger (*nachri*) and not your [own] lips” (Prov. 27:2). In this passage and in many others (see Isa. 28:21, 61:5, Prov. 5:10 20:16, 27:2, Ovadia 1:11, Ps. 81:10), the words *zar * and *nachri * appear in tandem, as if they are synonymous with one another. In this essay, we will explore the etymologies and core differences between these two words, as well as later Hebrew words like *chiloni * and *hedyot, * which all seem to convey the same meaning.
+
+
+
+ It seems from the commentators that while both *nachri * and *zar * refer to “strangers,” they denote different degrees of “strangeness” regarding the foreigner. In making this case, Ibn Ezra (long commentary to Ex. 21:2) explains that *nachri * implies somebody from an entirely different nation, while *zar * implies somebody who is from the same nation as the speaker but from a different tribe within that nation. The same understanding can be gleaned from the Vilna Gaon’s comments to Proverbs 27:2. Rabbi Shlomo Aharon Wertheimer (1866-1935) points out that in several places the term *nachri * is used to mean the opposite of a relative (Gen. 31:15, Deut. 23:21).
+
+
+
+ Similarly, the Malbim explains that *zar * refers to somebody from the familiar locality, but who is nonetheless considered “strange” or “foreign” in terms of a particular behavior or habit. *Nachri*, on the other hand, connotes somebody who is a complete foreigner. The *nachri * comes from an entirely different land and different nation, thus making him strange in multiple ways, while the *zar * is strange in one specific way. In short, the *nachri * is *more * unfamiliar than the *zar*. (By the way, I used to think that the English word *bizarre * is related to the Hebrew word *zar*, but *Oxford English Dictionary * feels otherwise.)
+
+
+
+ To give an example of how these words are used, the Malbim notes that a non-Kohen is considered a *zar *(Lev. 22:10, 22:12-13) vis-à-vis his “estranged” relationship toward *terumah * or sacrifices, from which he is forbidden to partake. But just because somebody is not a Kohen, does not make him a total stranger. Similarly, a man other than a married woman’s husband is considered a *zar * to that woman (see Deut. 25:5 and Yechezkel 16:32) because she is forbidden to him, even if he is not a complete stranger.
+
+
+
+ The Hebrew word *mamzer *(often translated as “bastard” or “illegitimate child”) is said to be related to the Hebrew word *zar *(*Yevamot *76b). Given the Malbim’s understanding, this makes sense, because the *mamzer * is a full-fledged Jew. He is not a stranger or foreigner. He is only like a “foreigner” regarding his ability to marry into the congregation of Jews with acceptable lineage, but not regarding anything else. Therefore, he is termed a *zar * and not a *nachri*.
+
+
+
+ The Book of Proverbs (Prov. 2:16, 5:20, 7:5) compares foreign wisdoms to a woman who is a *zarah * and a *nachriah*. *Sefer Chassidim *(619) explains that *nachriah * refers to a non-Jewish woman and *zarah * refers to a Jewish woman. The Malbim explains these two parables as referring to different types of wisdom. Wisdom described as *zarah * is like a Jewish woman to whom one is not married. A Jew may technically marry her if he went through the correct procedure, so she is not totally estranged from him. This type of wisdom refers to the sort of discipline that is not directly related to Torah study, but could still be used to help further one’s understanding of Torah if one appropriately applies its lessons and methodologies. On the other hand, *nachriah * denotes a form of wisdom that can be likened to a non-Jewish woman. Just as a Jewish man can *never * marry a non-Jewish woman, this type of wisdom can *never * enhance one’s understanding of Torah. Rather, its heresies always remain irreconcilable and antithetical to the Torah.
+
+
+
+ The Bible (Ps. 81:10) also uses the words *zar * and *nachri * in describing foreign deities whom the Jews were prohibited from worshipping: “There shall not be in your midst a strange god (*el zar*), and you shall not bow to a strange god (*el nechar*).” Interestingly, the Talmud (*Shabbat *105b) seemingly declines to understand the first clause of this verse in its literal sense as outlawing the worship of foreign gods. Instead, the Talmud interprets *el zar * as referring to one's evil inclination, saying a Jew is enjoined from allowing his evil inclination to lord over him. It seems that this forced explanation stems from the use of the word *zar*, which implies a form of strangeness that is still in some ways not totally foreign. The Talmud presumably reasoned that if this clause is referring to literal gods, then there is no way to justify the appearance of the word *zar*, because from the Jewish perspective there is no other god besides the One G-d Who would not be considered totally foreign (*nachri*/*nechar*). Because of this, the Talmud had to explain that *el zar * does not refer to foreign deities, but to the evil inclination, which is in some ways quite an intimate force (since it rests within a person), yet in other ways is quite foreign (because it goes against everything the Torah stands for).
+
+
+
+ Rabbi Yaakov Tzvi Mecklenburg (1785-1865) writes that the root NUN-KAF-REISH, from whence *nachri * derives, can bear two totally opposite meanings because its cognates refer to both “recognizing” (*makir*, *le’hakir*) and “not recognizing” (*nachri*). As a corollary of this, Rabbi Mecklenburg explains that a verb form of this word means to “deny” or “repudiate” (see Deut. 32:27, Iyov 21:29), which explains why the *Mechilta *(to Ex. 12:43) defines *ben-nechar * asreferring to any heretic who *denies *
+
+G-d — whether Jewish or not.
+
+
+
+ Rabbi Shlomo Pappenheim of Breslau (1740-1814) understands that *nachri * and *zar * are synonyms that refer to the same degree of estrangement, but that the etymological cores of the respective words focus on different points. He too connects the word *nachri * with *makir/le’hakir *(“recognition”), which refers to the formation of preconceived mental schemata that allow a person to recognize somebody or something else without needing to deeply investigate. When one encounters a *nachri*, he has no preconceived cognition of that stranger, so he has a natural inclination to find out more about that person in order to fully recognize him — *le’hakir * that stranger.
+
+
+
+ On the other hand, Rabbi Pappenheim traces the etymological basis of *zar * to the biliteral root ZAYIN-REISH, which itself means “estrangement” or “disconnection,” because the stranger or alien is *disconnected * from the society within which he now finds himself. The same man may be described as both a *nachri * and a *zar*, depending on whether we wanted to focus on the drive to better understand him (*nachri*) or if we wanted to focus on his estrangement from society (*zar*).
+
+
+
+ The Targumim often translate the Hebrew word *zar * into Aramaic as *chiloni *(for examples, see Onkelos to Ex. 29:33, 30:33 and *Peirush Yonatan * to Targum Yonatan to Gen. 42:7). On the other hand, the Hebrew *nachri * is Aramaicized by the Targumim as *nochrae *(see Targum to Deut. 17:15, II Shmuel 15:19, Prov. 27:2). As an aside, the Targum to Psalms (81:10, 137:4) actually reverses this trend, rendering *nachri * as *chiloni * and *zar * as *nochrae*. Either way, the Aramaic word *chiloni * denotes foreignness or strangeness, just like *zar * and *nachri * do (see *Yair * to Deut. 25:5 and *Me’at Tzari * there).
+
+
+
+ The Midrash (*Vayikra Rabbah *24:7) also uses the word *chiloni * in the same way that Scripture uses the word *zar *(i.e. non-Kohen)*. * The Midrash explains that the Torah commands that all Jews must “be holy” (Lev. 19:2) because if they want to “walk with G-d,” then they must live up to His standards.
+
+
+
+ To illustrate this idea, the Midrash cites the following parable: A Kohen Gadol was walking on the road when he happened upon a *chiloni *(in this case, a non-Kohen). The *chiloni * said to him: "I will walk with you," to which the Kohen Gadol replied, "I am a Kohen, so I will only travel in ritually pure paths and I do not walk through cemeteries. If you want to walk with me [and adhere to this higher standard], then good. But if not, then ultimately I will take leave of you and walk by myself."
+
+
+
+ The exegetical lesson of this parable underscores the notion that the *zar/chiloni * is alien to the Kohen Gadol because he fails to live up to the higher standard exemplified by the Kohen Gadol. In Modern Hebrew, the term *chiloni * refers to a “secular” or “irreligious” Jew, who is likewise estranged from Judaism and following the Torah’s precepts. He too fails to live up to the higher standard exemplified by the rest of the Jewish People and makes himself into a foreigner.
+
+
+
+ The Hebrew word *hedyot * appears in the Mishna multiple times in several different contexts. Sometimes, *hedyot * refers to a “commoner,” as opposed to a member of the political/spiritual leadership (*Nedarim *5:5, *Kiddushin *1:6, *Sanhedrin *7:10, 10:2, *Horayot *3:2-3:3, *Zevachim *13:3, *Arachin *9:2, *Meilah *3:7), while other times it refers to a regular non-professional person as opposed to a skilled or expert artisan/craftsman (*Rosh Hashana *2:8*, Moed Katan *1:8, 1:10, *Yevamot *12:1, *Gittin *1:5, *Bava Metzia *4:4, *Keilim *26:1, *Mikvaot *10:1). The word *hedyot * is also sometimes used as a modifier to the word *kohen * to indicate a "regular Kohen" as opposed to a Kohen Gadol (*Yoma *7:5, *Yevamot *2:4, 6:2-5, 7:1, 9:1-3, *Ketuvot *11:6, *Sotah *4:1, 8:3, 8:5, *Gittin *9:2, *Kiddushin *3:12, *Maccot *3:1, *Horayot *3:5). This loanword actually derives from the Greek word *idi**á¹“**t**Ä“**s* ("amateur" or "outsider"), which is the etymological forerunner of the English word *idiot*.
+
+
+
+
+
+
+
+*For questions, comments, or to propose ideas for a future article, please contact the author at *[*rcklein@ohr.edu*](mailto:rcklein@ohr.edu)

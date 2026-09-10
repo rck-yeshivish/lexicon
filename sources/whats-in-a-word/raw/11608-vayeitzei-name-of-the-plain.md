@@ -1,0 +1,84 @@
+---
+id: 11608
+slug: vayeitzei-name-of-the-plain
+title: "Vayeitzei: Name of the Plain"
+date: 2024-12-07
+hebrew_date: "For the week ending 7 December 2024 / 6 Kislev 5784"
+url: https://articles.ohr.edu/articles/vayeitzei-name-of-the-plain
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Vayeitzei: Name of the Plain
+
+After pulling off the upset and taking the blessings that Isaac had planned to give to his eldest son Esau, Jacob was advised to run away to his mother’s hometown of Harran and seek out a mate there. That place is sometimes also known as Padan Aram, which some commentators have interpreted to mean “the plain of Aram.” In this essay, we will visit several Hebrew words for “plain,” many of which come up in the stories of Genesis concerning our forefathers. In doing so, we will seek out the respective etymologies of these different words and consider whether or not they are truly synonymous.
+
+
+
+ The place-name Padan Aram appears eleven times in the entire Bible — all in the second half of Genesis. Rashi and Ibn Ezra (to Gen. 25:20) explain that the word *padan * in that name means the same thing as *sadeh *(“field/flatland”). Indeed, when the prophet Hosea recalls the story of Jacob fleeing to Padan Aram, he refers to that place as Sdeh Aram (Hos. 12:13), using the construct form of the word *sadeh*. In light of this, it makes sense that Shadal (to Gen. 25:20) would write that *padan * is Aramaic for *sadeh*.
+
+
+
+ Similarly, Rabbi David Tzvi Hoffmann (to Gen. 25:20) explains that the word *padan* is an Aramaic term that is actually a loanword from the Nabatean/Arabic word *feddan,* which is a unit of measure of spatial area (like an acre, hectare, or square mile in English). Based on this, he explains that Padan Aram refers specifically to the “plain” that surrounds the town of Harran. As Rabbi Hoffmann notes, archeologists and geographers have actually confirmed that ancient Harran was located on a plain that is otherwise surrounded by mountains. Alternatively, Rabbi Ernest Klein in his etymological dictionary of Hebrew surmises that *padan* possibly derives from the Akkadian word *padanu* ("road/garden"). [For more about the word *padan*, see “[Castle in the Sky](https://ohr.edu/this_week/whats_in_a_word/9084)” (Nov. 2020).
+
+
+
+ Another word for “plain” in Hebrew is *mishor*. It appears twenty-three times in the Bible (according to Avraham Even-Shoshan’s concordance). But this word is a bit tricky, because sometimes it doesn’t actually refer to a “plain” in the topographical sense, but rather refers to something “straight” in the moral sense. Ibn Janach and Radak in their *Sefer HaShorashim * trace both senses of the word *mishor * to the triliteral root YOD-REISH-SHIN, which gives us the word *yashar *(“straight/level”). This relates to a “plain,” which is a level area of land, as opposed to somewhere mountainous or full of craters. This word *mishor*, or more accurately its Aramaic cognate *meishar, * will play an important role in our ensuing discussion.
+
+
+
+ That discussion segues to an additional Hebrew word for “plain” that appears in the story of Abraham intervening in the war between the four kings (led by Chedarlomer) and the five kings (from the Sodom region). In that context, the Bible reports that Chedarlomer and the other three kings allied with him smote the Horites at Seir as far as Eil Paran (Gen. 14:6). Targum Onkelos and *Bereishit Rabbah* (§42:6) render the Hebrew place-name *Eil Paran* into Aramaic as *Meishar Paran*. Based on this, Rashi explains that Onkelos understood the word *eil * to be synonymous with *meishar *(“plain”).
+
+
+
+ However, Rashi himself begs to differ, instead proffering that the word *eil * is not a common noun that means “plain,” but is instead the proper name for the plain in the Paran desert. Rashi similarly contends that the plain in the Mamre area is called Eilonei (Gen. 13:18, 14:13, 18:1), the plain in the Jordan is called Kikar (Gen. 13:10-11), the plain in Shittim is called Avel (Num. 33:49, also noted by Rashi there), and the plain in Gad is called Baal (Josh. 11:17, 12:7, 13:5). In each of those cases, what Rashi calls the “name of the plain” is rendered by Targum as simply *meishar, * which is a generic word that means “plain.” [See Chizkuni to Num. 21:25, 22:41 for more examples of *baal* meaning "plain." It is interesting to note that both El and Baal were names of Canaanite deities, were epithets used to describe Hashem, and in light of this Rashi, were also apparently words for “plain.” There is more to say about this, but that’s a discussion for a different time.]
+
+
+
+ That said, Nachmanides (to Gen. 14:6) offers a different approach. He does not accept that the words *eil * and *eilonei* mean “plain” (like Onkelos) or are even names of specific plains (like Rashi). Instead, he explains that they refer to a “forested area” right in front of an urban center, mentioning an ancient practice of planting trees outside the entrance to a city. In this, Nachmanides sees a connection between *eil/eilonei* and the words *elah *(“terebinth”) and/or *alon *(“oak”). (Interestingly, Rabbi Shmuel Masnuth (Bereishit Zuta to Gen. 14:6) explains that *eil * in Eil Paran refers to a “bridge.”)
+
+
+
+ Yet, Nachmanides does agree with Targum that *kikar * means “plain,” but he explains that it refers more specifically to a luscious grassland into which various rivers spill. Nachmanides also writes that *avel* refers to a an empty “plain/prairie” in which there are no buildings or trees. He connects this word to its homonym *avel* (which denotes the concept of “mourning/bereavement”) in that just as a mourner is bereft of his beloved relative, so is a desolate plain bereft of features like trees or buildings.
+
+
+
+ Rabbi Yaakov Tzvi Mecklenburg (*HaKtav VeHaKabbalah* to Gen. 18:1) agrees with Targum Onkelos that both *eil/elonei * and *mishor* refer to a “plain,” but he argues that the two sets of terms are not quite synonymous: *mishor* refers to a "plain" in its own right, as a flat or straight parcel of land that has no hills or ditches that go up and down from the baseline. When focusing on a "plain" as simply a flat surface, it is quite possible that the plain in question is a dry and arid steppe, full of sand rendering it unsuitable for sowing or pasture. On the other hand, the term *eil/elonei * refers to a "plain" as an area that has importance in its own right, as it is specifically a fertile biome that is ripe for agriculture or animal grazing.
+
+
+
+ In line with this, Rabbi Mecklenburg explains that the word *eil/elonei * relates to the “power” (i.e., fecundity) of that flatland to be able to produce flora in a useful and abundant way. This understanding is alluded to in the Zohar (*Vayera* 97b), which explains that the word *eilonei* refers to *tokef* ("power"). Rabbi Mecklenburg further expands on this idea by writing that the male ovine beast is called an *ayil* ("ram") because it is the strongest, most powerful member of the ovacaprine family, which are otherwise considered weaker animals (see also *HaKtav VeHaKabbalah* to Lev. 1:9). He adds that the tail of an *ayil* is especially fatty, as if the ram's power somehow comes from its tail, so that tail is called an *alyah*. Finally, he writes that the Hebrew words *elah* and *alon* also relate to this root because those trees have especially thick roots and/or because their wood is especially hard and strong, thus allowing these trees to be characterized as "powerful." A similar explanation of the biliteral root ALEPH-LAMMED is offered at great length by Rabbi Shlomo Pappenheim in his work *Cheshek Shlomo*.
+
+
+
+ In explicating the place-name Elon Moreh, which was Abraham’s first stop when entering the Promised Land (Gen. 12:6), Ibn Ezra writes that the word *elon * means “trees/forest” or “field/plain.” Rabbi Shamshon Raphael Hirsch (there) expands on this, explaining *elon * as related to the Aramaic *ilan *(“tree”) and the Hebrew *elah * and *alon *(which are both types of trees). Zooming out, Rabbi Hirsch sees the ALEPH-(YOD)-LAMMED string in those words as generally related to the idea of "the power to develop and move forward," which is similar to Rabbi Mecklenburg’s understanding. Rabbi Hirsch adds that this concept can also apply to a "plain," which stretches over a great distance and/or paves a flat surface in an otherwise hilly/mountainous region. [For more about the word *ilan*, see “[Tree Words](https://ohr.edu/this_week/whats_in_a_word/7220)” (Feb. 2017).]
+
+
+
+ By the way, these three words — *alon*, *elon*, and *elah* — are also used as personal names: If you thought that the name Alon is simply a Modern Hebrew coinage, you should know that a person named Alon from the Tribe of Simeon is already mentioned in the Bible (I Chron. 4:37). And the given name Elon also appears in the Bible as the name of one or two of Esau's fathers-in-law (Gen. 26:34, 36:2), a son of Jacob’s son Zebulun (Gen. 46:14, Num. 26:26), and a judge from the tribe of Zebulun (Jud. 12:11-12). Elah appears as the name of King Baasha’s son (I Kgs. 16:6, 16:8, 16:13–14), the father of the last king of the Kingdom of Israel Hosea ben Elah (II Kgs. 15:30, 17:1, 18:1, 18:9), a son of Caleb (I Chron. 4:15), and a patriarch of a Benjamite family (I Chron. 9:8).
+
+
+
+ Interestingly, Rabbi Aharon Marcus in *Keset HaSofer* (to Gen. 13:18) offers a fascinating account of how the letters ALEPH-YOD-LAMMED, which yield four words with very different meanings — *ayil* ("ram"), *ayal* ("deer"), *eil* ("plain"), and *eyal* ("power") — were dealt with by Aramaic and Arabic speakers who did not have the Hebrew vowelization system used to differentiate between those words.
+
+
+
+ In the blessing that Jacob gave his son Naphtali, he referred to the latter as “an *ayalah* that is sent forth, who gives good tidings” (Gen. 49:21). While many different explanations of this blessing have been offered (most of which translate *ayalah * as “doe,” tying it to the masculine word *ayal*, “deer”), Chizkuni (there) explains the word *ayalah * as referring to a “plain.” He thus sees *ayalah * as cognate with *eil * and *eilonei. * The way Chizkuni explains it, Jacob blessed the Tribe of Naphtali in that their “plains” should be thoroughly seeded in a way that they will yield high-quality fruit (referred to metaphorically as “good tidings”). This explanation is also endorsed by Rabbi Mecklenburg in *HaKtav VeHaKabbalah* (to Gen. 18:1, 49:21), who sees Rashi (to Gen. 49:21) as alluding to this idea as well by referring to the Genussar Valley.
+
+
+
+ Another Hebrew term for “plain” is *sharon*, a word which appears seven times in the Bible. In its most famous appearance, one lover declares about herself “I am a rose of the *sharon* / a lily of the valleys” (Song of Songs 2:1). On that verse, many commentators (including Ibn Ezra, Rabbi Yishaya of Trani, Rabbi Yosef Kara, and pseudo-Rashbam, see also Maimonides’ commentary to *Bava Batra* 6:2) define the word *sharon * as *mishor/meishar. *
+
+
+
+ But in at least some of the places where this word appears in the Bible (if not all of them), *sharon * is not a common noun that refers to any plain old “plain,” but is rather a proper name for a specific area in the Holy Land. In modern times, the Sharon plain refers to the central section of the Israeli coastal plain between the Mediterranean Sea and the hills of Samaria. Included in that area nowadays are the cities of Netanya, Herzliya, Ramat HaSharon, Ra'anana, and more. In fact, Rabbi Hai Gaon (in his commentary to the Mishnah *Niddah* 2:7) and *Sefer Ha’Aruch * write that *sharon* refers to the flatlands/plains of the Holy Land, as opposed to the areas surrounding Jerusalem which are hilly (see Ps. 125:2). Of course, you don’t need me to tell you that the English name Sharon (and its Latinate form Sharona) is actually borrowed from the name of the Sharon region in the Holy Land.
+
+
+
+ Either way, Rabbi Yonah Ibn Janach and Radak in their respective *Sefer HaShorashim * suggests that *sharon* derives from the triliteral root SHIN/SIN-REISH-HEY, which also yields words that refer to “protecting” (*siryon*, “armor”) and “immersion/soaking” (*mishrat, * something that had been immersed in liquid). Perhaps those latter meanings can be collapsed into one category because one way to protect something is by embedding it within some outer, shielding layer and leaving it there. As Radak explains it, these meanings relate to *sharon, * which denotes not just an ordinary “plain,” but one saturated with fertile soil that makes it especially conducive for agriculture.
+
+
+
+ In his work *Yeriot Shlomo*, Rabbi Shlomo Pappenheim traces the words *sharon * and *mishor * to the biliteral root SHIN-REISH. However, he differentiates between the two apparent synonyms by explaining that *sharon * refers to a “plain” that is in the vicinity of a mountain and hill (by which the contrast between them makes the plain more noticeable or notable), while *mishor * refers to any sort of “plain.” The way he explains it in *Cheshek Shlomo*, the core meaning of the two-letter SHIN-REISH is “focal point.” One group of words derived from that are headlined by *yashar *(“straight”), which denotes the quickest and most direct way to reach a specific focal point. In specific, Rabbi Pappenheim sees the word *mishor * as related to *yashar * because a “plain” denotes a flat plane which is a straight and level surface, without any disturbances or unevenness. But when it comes to the word *sharon*, Rabbi Pappenheim is unsure as to whether its etymology relates to *yashar * or to another derivative of this biliteral root — *shar/sharir* (see Ezek. 16:4, Prov. 3:8, and Job 40:16), which means “umbilical cord” or “belly button.”
+
+
+
+ Rabbi Shlomo of Urbino (in his lexicon of Hebrew synonyms *Ohel Moed)* lists what he considers fourteen synonyms in Hebrew for the terms we’ve been discussing: *mishor, eil, eilonei, sharon, kikar, kar, avel, emek, bikah, gei, nachal, urim, shdeimah, * and*cheil. * Some of these terms may more accurately be translated as “valley” rather than “plain,” but the point is that they all refer to flat stretches of land. [For more about how *kar/kikar * relates to other words derived from the biliteral root KAF-REISH, see “[Digging Deeper](https://ohr.edu/this_week/whats_in_a_word/9719)” (Jan. 2022). For the dual meaning of *nachal * as “valley” and “river,” see “[Down by the River](https://ohr.edu/this_week/whats_in_a_word/8189)” (Jan. 2019). For more about the word *shdeimah*, see “[Through the Grapevine](https://ohr.edu/this_week/whats_in_a_word/9655)” (Dec. 2021).]

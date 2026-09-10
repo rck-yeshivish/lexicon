@@ -1,0 +1,76 @@
+---
+id: 11245
+slug: yisro-stairs-to-above
+title: "Yisro: Stairs to Above"
+date: 2024-02-03
+hebrew_date: "For the week ending 3 February 2024 / 24 Shvat 5784"
+url: https://articles.ohr.edu/articles/yisro-stairs-to-above
+source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
+---
+# Yisro: Stairs to Above
+
+In one of the first commandments listed after the Ten Commandments, Hashem stipulates, "you shall not ascend through stairs [*ma’alot*] upon My altar, so that you will not reveal your nakedness upon it" (Ex. 20:23). This verse is the source for the prohibition of building stairs — instead of a ramp — to lead up to the altar in the Tabernacle/Temple. Indeed, Maimonides (Laws of *Beit HaBechirah* 1:17) codifies this prohibition, and adds that one who violates this prohibition by ascending to the altar via stairs is liable for a flogging. In that passage, Maimonides uses two different Hebrew terms for “stairs”: when first stating the idea that one may not build “stairs” for the altar, he uses the word *madreigot*, but when codifying the punishment for one who ascends the altar on stairs, he uses the same word as the Bible, *ma’alot.* Though these two Hebrew words appear to be synonyms, the essay before you explores their respective etymologies, and tries to bring to light the possible nuances expressed by these different terms. Additionally, this essay also delves into the word *sulam *(usually translated as “ladder”) to see how it fits into the story.
+
+
+
+ It is virtually unanimous that the word *ma’alot * derives from the Biblical Hebrew root AYIN-LAMMED-(HEY), which gives us such words as *al *(“on”), *maalah* (“above”), *maaleh* (“raise”), *aliyah* (“high/height”), and *oleh* (“ascend”). Following that theme, the word *ma’alot * as “stairs” represents an instrument by which people may “ascend” to higher floors and reach a different height. Although “stairs” may technically also be used using for going down on the descent, the word *ma’alot * focuses specifically on “going up” because that is more of novelty as it allows a person to defy gravity. The same phenomenon is found in the English words *elevator* and *escalator*, which literally refer “to going up” (think: *elevation*, *escalation*), even though those same implements can also be used for going down.
+
+
+
+ The term *ma’alot* appears several times in the Mishnah: For example, the Mishnah (*Sukkah* 5:4) states that the Levites who sang in the Holy Temple in Jerusalem stood on the fifteen “steps” (*ma’alot*) between the Israelite Courtyard and the Women’s Courtyard. The Mishnah (there) further notes that these fifteen steps correspond to the fifteen Psalms which begin with the words *Shir HaMaalot* (or *Shir La’Maalot*), “A song of/for Ascent” (Ps. 120–135). Similarly, the Mishnah (*Tamid* 3:9) relates that a stone in front of the Menorah (“candelabra”) in the Temple had three steps (*ma’alot*), upon which the Kohen would stand when setting up the Menorah. In Talmudic Hebrew, the term *ma’alyuta* (“advantageous,” “superb”) was coined, which refers to something which is a “step up” over something else in an abstract sense.
+
+
+
+ Altogether, the term *ma’alot* and its various inflections appear some fifty times in the Bible. This contrasts with the word *madreigot, * which only appear twice in the Bible (Ezek. 38:20, Song of Songs 2:14) and twice in the Mishnah (*Kilayim* 6:2, *Sheviit* 3:8). In both of those corpuses, one instance has the word in the plural form (*madreigot*), while the other has the word in the singular form (*madreigah*).
+
+
+
+ In line with the staggered, multi-staged nature of a staircase, the semantic range *madreigot * expanded to refer to any sort of graded steppe or terrace, both in a physical sense and in an abstract. Hence, in later Hebrew, *madreigot * refers to “degrees” (e.g., temperature, or degrees of a circle in the geometry) which make up a scale, or even any sort of “level” of achievement (like *madreigot * in a spiritual sense). It also gives way to the Modern Hebrew word *darga* (“rank” in the military sense). In this spirit, the Talmud advises that “one should go down a level [*darga*] to marry a woman” (*Yevamot* 63a), which Rashi explains means that a man should not marry a woman of a more prestigious class than he, lest she not be willing to accept him. There is also a cantillation mark known as *darga*, although I am unsure about how that relates to this discussion. [It is interesting to note that the Hebrew *darga* has the same consonants as the English word *grade * and *degree*, although that is probably purely coincidental.]
+
+
+
+ Four early Hebrew lexicographers, Menachem Ibn Saruk (920–970), Yonah Ibn Janach (990–1050), Shlomo Ibn Parchon (the 12[th] century author of *Machberet HeAruch*), and Radak (1160–1235) trace *madreigot * to the triliteral root DALET-REISH-GIMMEL — however, it should be noted that no other words derived from that root appear in the Bible.
+
+
+
+ Rabbi Samson Raphael Hirsch (to Gen. 6:9, Ps. 25:4) explains that the word *madreigot * is conceptually similar to the word *derech *(“pathway,” “road”), as both words denote something like a path used to help a person reach his destination. In doing so, Rabbi Hirsch implies that the root of *madreigot *(DALET-REISH-GIMMEL) is somehow related to the root of *derech *(DALET-REISH-KAF), possibly due to the interchangeability of the letters GIMMEL and KAF. Rabbi Yitzchak of Zeldin in *Shoresh Yesha* takes a more prosaic approach in connecting *madreigot * to *derech* by noting that both words denote a place upon which one’s foot treads when taking a step.
+
+
+
+ The German philologist Wilhelm Gesenius (1786–1842) likewise wrote that DALET-REISH-GIMMEL is related to DALET-REISH-KAF. But he also connects that Hebrew root to the Arabic word *daraja *(“walking by foot,” “stair/step”). Later scholars like Rabbi Dr. Ernest Klein (1899–1983) and Avraham Even-Shoshan (1906–1984) similarly connect these terms to their Akkadian cognates *durgu/daragu* (“path”).
+
+
+
+ When the Bible records that there were six steps that led up to King Solomon’s throne, it uses the word *ma’alot * to denote those “stairs” (I Kgs. 10:19). Rashi comments that these *ma’alot * were *madreigot*, and Targum Jonathan there translates *ma’alot* into the Aramaic *dargin*, which is a cognate of *madreigot*. In a parallel to that verse in Chronicles, pseudo-Rashi (to II Chron. 9:18) likewise explains that these *ma’alot * were *madreigot, * while Targum Rav Yosef uses a different Aramaic (*masok*, which is an inflection of the Aramaic verb that means “to ascend” and actually means “helicopter” in Modern Hebrew). In light of this, we may argue that the difference between *ma’alot * and *madreigot * might be that the former is Hebrew, while the latter comes from a different language (like Aramaic or Akkadian).
+
+
+
+ However, Rabbi Shlomo Aharon Wertheimer (1866–1935) takes a decidedly different approach. He wrote the work *Beiur Shemot HaNirdafim * as a way of showing how no two words in Hebrew are truly synonymous. In that work, he takes groups of two or more Hebrew words which ostensibly mean the same thing, and shows how there is some slight nuanced difference between them. Rabbi Wertheimer initially notes that on the surface *ma’alot * and *madreigot * appear synonymous, as they both refer to things that people use to go up and down. However, he explains that in Biblical Hebrew, the term *madreigot * refers specifically to a walkway built to allow one to walk up a mountain. When a mountain is too high and its incline is too steep to be traversed, people might use dirt to fill in the surrounding area and build a terraced rampart/ramp to allow one to reach the top of the mountain (see Rashi to Ezek. 38:20, Sogn of Songs 2:14). By contrast, he explains that the word *ma’alot * refers specifically to free-standing stairwell structures in a house or courtyard, that are not built into the side of a mountain. For this reason, when the Torah forbids building stairs to the altar, it uses the word *ma’alot, * as opposed to *madreigot.*
+
+
+
+ Intuitively, we might be resistant to the idea that *sulam * could be a synonym of *ma’alot * and/or *madreigot * simply because we see a “ladder” as something distinct from a “staircase.” But if we probe further, we have to wonder what, if anything, differentiates a “ladder” from a “staircase”? Is it that a “ladder” is moveable, while a “staircase” is built-in? Is it that a “ladder” can be closer to a totally-vertical 90 degrees, while the slope of a “staircase” is usually less pronounced?
+
+
+
+ The Hebrew word *sulam* is a *hapax legomenon*, meaning it appears only once in the Bible — in Jacob’s famous dream (Gen. 28:2). Although, *sulam * doesappear multiple times in the Mishnah (*Beitzah* 1:3, *Bava Batra *2:5, 3:6, *Makkot* 2:1, *Zavim* 3:1, 4:3). Ibn Saruk, Ibn Janach, Ibn Parchon, and Radak all trace that word to the triliteral root SAMECH-LAMMED-MEM, but this does not help us because there are no other words in Biblical Hebrew derived from that root. Scholars have proposed various possible etymologies for understanding the basis of the three-letter root SAMECH-LAMMED-MEM.
+
+
+
+ Dr. Chaim Tawil in his work *An Akkadian Lexical Companion for Biblical Hebrew* cites Landsberger as arguing that that the Hebrew SAMECH-LAMMED-MEM is actually a cognate of the Akkadian *simmiltu* (“stairway”) by way of metathesis (that is, rearranging the consonants). That Akkadian word is used in conjunction with the staircases used to take a person to the top of the famous Babylonian Ziggurats. According to this approach, the letter MEM in the word *sulam* is essential to the core root and *sulam * essentially means the same thing as *ma’alot * and *madreigot*.
+
+
+
+ But the more conservative approach sees *sulam * as deriving from Hebrew. Rabbi Samson Raphael Hirsch (to Gen. 28:12, Num. 20:19, Ps. 84:6), Gesenius, Kohut, and even *The Enhanced Brown-Driver-Briggs Hebrew And English Lexicon * argue that the Hebrew root SAMECH-LAMMED-MEM is actually derived from the Hebrew root SAMECH-LAMMED-LAMMED (“paved,” “walkway” as in *mesilah*). This approach sees the final MEM as paragogic, and thus non-essential to the core root of *sulam*. According to this approach, there is quite a fascinating thematic affinity between the etymology of *sulam * and that of *madreigot*.
+
+
+
+ Interestingly, Rabbi Dr. Ernest Klein implies that the triliteral root SAMECH-LAMMED-LAMMED refers to “paving” a path by “lifting” all extraneous stones (or other objects in the way) and “throwing” them elsewhere. According to this, *sulam* derives from the “lifting” meaning of that root, as it is a means of lifting a person to a greater height. [Rabbi Shlomo Pappenheim takes a similar approach, further reducing the triliteral SAMECH-LAMMED-LAMMED to the biliteral SAMECH-LAMMED. For more about his explanation of that biliteral root, see “Flour Power” () and “A Basket Case” ().]
+
+
+
+ Rabbi Aharon Marcus (1843–1916) makes a fascinating suggestion. He proposes that in Hebrew words whose essential root is the two-letter string SAMECH-LAMMED, the letter SAMECH is actually a placeholder for the letter AYIN which proceeds it in the Hebrew Alphabet. Accordingly, Rabbi Marcus explains that the root of the word *sulam * is actually AYIN-LAMMED. This means that *sulam * has the same root as *ma’alot*!
+
+
+
+ If this has not yet convinced you that *sulam * belongs in an essay of synonyms to *ma’alot * and *madreigot*, I will note that Rashi (to *Bava Metzia* 25a, *Sukkah* 53b) actually uses the word *ma’alot* to define the word *sulam*, and elsewhere (to *Beitzah* 36a) uses the word *madreigot* to do the same.
