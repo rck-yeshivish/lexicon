@@ -13,8 +13,8 @@ words:
 sources:
   - wiaw:8816 "Peace and Quiet" (2020-08-08) https://articles.ohr.edu/articles/peace-and-quiet
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Ibn Janach, Radak, Rashi, Ibn Ezra, Ramban]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Peace: shalom / shalvah / sheket / shaanan
 
@@ -26,7 +26,7 @@ pocket of peace inside a larger discord: **tranquility, ease** (Malbim, Pappenhe
 with a shadow of complacency (Bedersi, Rav Hirsch). *Sheket* is the cessation of
 motion and outward disturbance: **quiet, stillness, calm**; whether it ranks above
 *shalom* (Bedersi) or below it as a mere ceasefire (Rabbi Shlomo Aharon Wertheimer)
-is disputed, and Wertheimer's reading is the more useful for prose. *Shaanan* is the
+is disputed, and both readings stay live. *Shaanan* is the
 fullest rest, free even of the busyness of prosperity: **serenity** (Bedersi,
 Pappenheim). The one thing not to get wrong: *shalom* is about parties in harmony,
 *shalvah* and *sheket* about a person or a scene at rest; do not render all three
@@ -34,13 +34,19 @@ Pappenheim). The one thing not to get wrong: *shalom* is about parties in harmon
 
 ## Distinctions
 
+The column opens on the Latin *pax*, which it notes is the progenitor of the
+English "peace" and may also be an ancestor of the Mishnaic Hebrew *piyus*,
+"appeasement"; Rome had its *pax Romana*, and the Jewish People their own under
+Shlomo HaMelech, whose very name is a cognate of *shalom*.
+
 ### shalom (שלום)
 Root ש-ל-ם; Pappenheim takes it back to ש-ל, removed or taken away (שַׁל נעליך,
 Shemos 3:5; *sheol*, *shalal*): *shalem* is that from which nothing removed is still
 missing, complete, and *shalom* is having every good needed for prosperity with
 nothing lacking. Elsewhere he defines it as the absence of friction among multiple
-parties; Hashem is *Adon HaShalom* and *Melech SheHaShalom Shelo* (Shir HaShirim
-Rabbah 3:14) because He has no conflicting parts and is at peace with Himself.
+parties; Hashem is *Adon HaShalom* (Maariv of Shabbos) and *Melech SheHaShalom
+Shelo* (Shir HaShirim Rabbah 3:14) because He has no conflicting parts and is at
+peace with Himself.
 Bedersi (Divrei HaYamim I 22:9): the opposite of war, the cessation of hostilities.
 Wertheimer: *shalom* (with *shalvah*) is total peace and harmony. Malbim: coming to
 terms with something outside oneself, though it can borrow the sense of inner peace.
@@ -48,35 +54,58 @@ terms with something outside oneself, though it can borrow the sense of inner pe
 ### shalvah (שלוה)
 Root ש-ל-ה, from Pappenheim's ש-ל: the state in which every disturbance has been
 removed; hence *moshel* and *memshalah*, the rulers whose task is to keep it.
-Bedersi ranks it with *shalom*; Wertheimer groups the two as total peace.
+Bedersi ranks it with *shalom*; Wertheimer groups the two as total peace. Why
+both of them pair the words the column asks outright, and answers with a hedge:
+the answer may lie in their shared etymological root, the biliteral ש-ל.
 Pappenheim, after entertaining synonymy, concludes that *shalom* is the
 all-encompassing state across every relationship, while *shalvah* is one peaceful
 relationship within a wider discord. Malbim: *shalvah* is inner peace, *shalom*
 external. The verb *shalu* means both to be at ease (Rashi and Ibn Ezra to Eichah
 1:5) and to sin unwittingly (Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II
-29:11; the Targumim render *shogeg* as *shaluta*): Bedersi, the complacency of
-*shalvah* breeds indolence and carelessness; Rav Hirsch (Bereishis 8:1, Vayikra
-5:4), one content with his spiritual station stops striving, settles into his tried
-ways, and slides toward sin.
+29:11; the Targumim typically render *shogeg* as *shaluta*, and see Daniel 6:5,
+Rashi to Rus 2:16 and Ramban to Bereishis 38:5). How the two meanings converge in
+one word the column asks and answers twice over: Bedersi, the complacency of
+*shalvah* easily breeds indolence, which leaves a man not careful enough to avoid
+sin; Rav Hirsch (Bereishis 8:1, Vayikra 5:4) similarly reads the double meaning as
+an allusion to the possible negative side of tranquility, since a man can become
+content with his present spiritual stature, stop striving for greater perfection,
+smugly keep to his tried and tested ways, and so start down the slope toward sin.
 
 ### sheket (שקט)
 Root ש-ק-ט. Bedersi: the opposite of movement, the end of all harried toil, and
-therefore more than *shalom*: "stillness" beside "peace." Wertheimer disagrees:
-*sheket* is only the absence of outward conflict, with disagreement possibly still
-in the background, a ceasefire while true *shalom* stays elusive. Pappenheim: not
-"quiet" so much as patience and forbearance, a person no stimulus can work into a
-frenzy. Ibn Janach and Radak: abeyance, calming down after turbulence.
+therefore more than *shalom*: "stillness" beside "peace." Wertheimer, without
+citing Bedersi, disagrees with that ranking: *sheket* is only the absence of
+outward conflict, with disagreement possibly still in the background, a ceasefire
+while true *shalom* stays elusive. Pappenheim: not "quiet" so much as patience and
+forbearance, a person no outside stimulus can work into a frenzy; he remains calm
+and serene. Ibn Janach and Radak seem to define it as abeyance, a calming down
+after turbulence.
 
 ### shaanan (שאנן) and shalanan (שלאנן)
 Malbim: related to *shaon*, boisterous din, and its exact opposite, quiet because
-the din is gone (Yirmiyahu 30:10, 48:11; Mishlei 1:33). Pappenheim: from ש-א,
-something uniform with no differences among its parts, which yields *shoah* and
-*shayis* for total destruction and *shaanan* for total tranquility; unlike *shalom*
-and *shalvah*, which are peace, *shaanan* is calmness and serenity: one may have
-full *shalom* yet be harried tending his prosperity, while *shaanan* means one need
-not deal with others at all. Bedersi: a still more complete rest than *sheket*.
-*Shalanan* (Iyov 21:23, once): Ibn Janach, the same as *shaanan*; Radak and
-Pappenheim, a composite of *shalvah* and *shaanan*.
+the din is gone (Yirmiyahu 30:10, 48:11; Mishlei 1:33). Pappenheim: from ש-א, or
+possibly even the monoliteral ש, something uniform or level in which no
+differences among its parts are apparent, a root that runs to both extremes,
+yielding *shoah* and *shayis* for total destruction and *shaanan* for total
+tranquility. Bedersi posits that *shaanan* implies a still more complete rest than
+*sheket* does, and Pappenheim seems to echo him: unlike *shalom* and *shalvah*,
+which are peace, *shaanan* is calmness and serenity, since one may be in a state of
+complete *shalom* yet still be harried tending the products of his prosperity,
+while *shaanan* precludes that busyness and means one need not interact with
+others at all.
+*Shalanan* (Iyov 21:23, a *hapax legomenon*): Ibn Janach, the same thing as
+*shaanan* despite the extra lamed; Radak and Pappenheim, a composite word made of
+*shalvah* and *shaanan*.
+
+### Shabbos (שבת)
+The column closes by adding one more peace-word beginning with shin: Shabbos
+itself, the epitome of rest and quiet in This World and a microcosm of the final
+peace awaiting us in the World to Come. Hence the Shabbos afternoon prayer, which
+calls the day's rest a rest of *shalom*, *shalvah*, *hashket* (*sheket*) and
+*betach*, though many versions of the siddur omit *shalvah* from it. Bereishis
+Rabbah 10:9 teaches that by resting on Shabbos, Hashem created *shaanan*, *nachas*
+(a cognate of *menuchah*, rest), *shalvah* and *hashket*, and Rashi in *Sefer
+HaPardes* finds the allusion in Yeshayahu 32:18, which uses forms of all of them.
 
 ## Rendering guidance
 
@@ -106,9 +135,12 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "Peace and Quiet," What's in a Word?, Ohr Somayach, 18 Av
 5780 (2020-08-08): raw text in `sources/whats-in-a-word/raw/8816-peace-and-quiet.md`.
-Primary loci the article cites: Bedersi to Divrei HaYamim I 22:9; Wertheimer on
+The column's opening etymology (Latin *pax* behind English "peace" and possibly
+behind Mishnaic *piyus*) is reported here as the column gives it. Primary loci the
+article cites: Bedersi to Divrei HaYamim I 22:9; Wertheimer on
 *sheket* against *shalom/shalvah*; Pappenheim on the roots ש-ל and ש-א; Shemos 3:5;
-Shir HaShirim Rabbah 3:14; Malbim on *shalvah/shalom* and *shaanan/shaon*; Rashi and
+Maariv of Shabbos; Shir HaShirim Rabbah 3:14; Malbim on *shalvah/shalom* and
+*shaanan/shaon*; Rashi and
 Ibn Ezra to Eichah 1:5; Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II 29:11,
 Daniel 6:5 (*shalu*); Rashi to Rus 2:16 and Ramban to Bereishis 38:5 (*shaluta*);
 Rav Hirsch to Bereishis 8:1 and Vayikra 5:4; Yirmiyahu 30:10, 48:11; Mishlei 1:33;

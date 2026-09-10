@@ -8,26 +8,29 @@ domain: other
 sources:
   - wiaw:7917 "On the Straight and Narrow" (2018-09-01) https://articles.ohr.edu/articles/on-the-straight-and-narrow
 authorities: [Rabbi Meshullam, Rabbeinu Bachya, Vilna Gaon, Malbim, Zohar, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rav Hirsch]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Paths: netiv / rechov / mesilah / maagal / mishol / shvil
 
 ## Bottom line
 
-Ranked by width, from the open road down: *derech* and *orach* (treated
-separately), then *rechov* the **city street**, *mesilah* the **paved highway**,
-*netiv* the narrow **path** that only some people use, *mishol* the **footpath**
-too weak for a wagon, and *shvil* the **trail** narrow enough for one ankle at a
-time. *Maagal* is outside the ranking: a **roundabout way** that goes nowhere in
-particular. The trap is that English "path" and "way" will take any of them; a
+*Rechov* is the **city street**, *mesilah* the **paved** and generally straight
+road, *netiv* the narrow **path** that only some people use, *mishol* the
+**footpath** too weak for a wagon, *shvil* the **trail** narrow enough for one
+ankle at a time, and *maagal* a **roundabout way** that goes nowhere in
+particular. The column does not rank the whole field by width: it says only that
+a *netiv* is narrower than a *derech*, and that a *shvil* is narrower than a
+*netiv*. The trap is that English "path" and "way" will take any of them; a
 pasuk that pairs two (Bamidbar 20:17 against 20:19, or Shoftim 5:6) is
 distinguishing them on purpose.
 
 ## Distinctions
 
 For *derech* and *orach*, see `path-derech-orach.md`; this entry covers the rest
-of the field.
+of the field. The column sets the whole set against English street names, where
+"boulevard," "avenue," "way" and "drive" are, as it puts it, entirely arbitrary
+and carry no real meaning; in Hebrew the exact opposite is true.
 
 ### rechov (רחוב)
 Rabbi Meshullam (to Shekalim 1:1), on the money spent from the fifteenth of Adar
@@ -39,43 +42,51 @@ street. In a second use, *rechovah shel ir* is the open square within a town
 ### netiv (נתיב)
 Rabbeinu Bachya (to Shemos 35:35): *derech* is a wide road, *netiv* a very
 narrow one. The Vilna Gaon: a *netiv* is what one takes to reach a *derech*, an
-approach road. Malbim: shorter than a *derech* or *orach*, and not open to the
-public. The Zohar (Mikeitz 197b, Va'era 31a-b): a *derech* is open to all, a
-*netiv* only to select individuals. Rabbi Shlomo Aharon Wertheimer says the
-same in plainer terms, a private shortcut, and reads it out of Shoftim 5:6,
+approach road (the column suggests it may be comparable to an exit or entrance
+ramp on a freeway). Malbim: shorter than a *derech* or *orach*, and not open to
+the public. The Zohar (Mikeitz 197b, Va'era 31a-b): a *derech* is open to all, a
+*netiv* only to select individuals. Rabbi Shlomo Aharon Wertheimer (1866-1935)
+says the same in plainer terms, a private shortcut, and reads it out of Shoftim 5:6,
 where the alternative to walking a *netiv* is going the long way around. In
 Modern Hebrew it is a traffic lane.
 
 ### mesilah (מסילה)
 Malbim: a paved path, and usually the pedestrian walk at a street's edge; the
 word *maslul*, a planned route or itinerary, belongs with it. Wertheimer adds
-that it is straight as well as paved, which is why the stars are said to travel
-in their *mesilos* (Shoftim 5:20), moving in fixed, straight courses. The word
-choice in Bamidbar carries weight: Bnei Yisrael first ask Edom for passage on his
-*derech* (20:17) and, after the refusal, ask instead for his *mesilah* (20:19),
-apparently the lesser request, and are refused again.
+that it is generally straight as well as paved, which is why the stars are said
+to travel in a *mesilah* (Shoftim 5:20): they appear to travel in a straight,
+pre-planned course. The word choice in Bamidbar carries weight: Bnei Yisrael
+first ask Edom for passage on his *derech* (20:17) and, after the refusal, ask
+instead for his *mesilah* (20:19), and are refused again. Why the second wording
+should have been more acceptable to Edom the column does not know; it offers,
+with a question mark, that perhaps it would not have affected traffic.
 
 ### maagal (מעגל)
 The Vilna Gaon: from *igul*, a circle, so a *maagal* is a roundabout road.
-Wertheimer: it serves no purpose in getting a man from one place to another. It
-is the scenic route, the racetrack, the training ground.
+Wertheimer: this circular road bears no utilitarian function in getting a man
+from one place to another. It is the scenic route, where the journey is the
+destination; the racetrack; the ground for military training.
 
 ### mishol (משעול)
-Once in Tanach, in the *mishol hakeramim* that Bilam's donkey walked (Bamidbar
-22:24). The root ש-ע-ל is a step or the sole of the foot (Melachim I 20:10,
-Yeshayahu 40:12), so a footpath. Rabbi Shlomo Pappenheim: a road that will carry
-pedestrians or a mounted rider but not the weight of a caravan or wagon. Rabbi
-Moshe Shapiro instead ties *mishol* to *shual*, a fox, and reads it as the track
-foxes cut through a vineyard as they ruin it (Shir HaShirim 2:15).
+A *hapax legomenon*, appearing once in Tanach, in the *mishol hakeramim* that
+Bilam's donkey walked (Bamidbar 22:24). The root ש-ע-ל is a step or the bottom of
+the foot (Melachim I 20:10, Yeshayahu 40:12), so a footpath. Rabbi Shlomo
+Pappenheim of Breslau (1740-1814): a road that will carry pedestrians or a
+mounted rider but not the weight of a caravan or wagon. Rabbi Moshe Shapiro
+(1935-2017) alternatively ties *mishol* to *shual*, a fox, and reads it as the
+track foxes cut through a vineyard as they partially destroy it (Shir HaShirim
+2:15).
 
 ### shvil (שביל)
-Rav Hirsch: related to *shafel*, low, a path on a steep downward incline. Malbim:
-related to *shovel* (Yeshayahu 47:2), the leg, the limb that keeps striking the
-ground as one walks; he and others hold a *shvil* narrower than a *netiv*.
-Wertheimer: the shortest and narrowest of them all, wide enough for one ankle, so
-that a man cannot stand on it with his feet together. Pappenheim adds a nice
-observation: *eikev* means both ankle and "because," and the Rabbis took *shvil*,
-the road of ankles, the same way, giving *bishvil*, "for the sake of."
+Rav Hirsch (1808-1888): related to *shafel*, lowly, a path on a steep downward
+incline. Malbim: related to *shevel* (Yeshayahu 47:2), the leg, the limb that
+keeps striking the ground as one walks; he and others note that a *shvil* is
+narrower than a *netiv*. Wertheimer: the shortest and narrowest sort of path,
+wide enough for one ankle at a time, so that a man cannot stand on it with his
+feet together. Pappenheim gives the same explanations and supports them from a
+clever observation: *eikev* means both ankle and "because," and on the strength
+of that double meaning the Rabbis took *shvil*, the road of ankles, the same way,
+giving *bishvil*, "for the sake of."
 
 ## Rendering guidance
 
@@ -93,7 +104,8 @@ the road of ankles, the same way, giving *bishvil*, "for the sake of."
 - Trap: English "path" will happily cover *netiv*, *mishol* and *shvil* at once,
   and "way" will cover *derech*, *orach* and *maagal*. Where a passage lists two
   or more, force the distinction: *netiv* "path," *mishol* "footpath," *shvil*
-  "trail," *maagal* "roundabout way," *mesilah* "highway."
+  "trail," *maagal* "roundabout way," *mesilah* "highway" (or, where Malbim's
+  pedestrian sense is in view, the paved walk at the street's edge).
 - *Bishvil* in Rabbinic Hebrew is simply "for the sake of"; do not let
   Pappenheim's derivation surface in the translation of a Gemara.
 

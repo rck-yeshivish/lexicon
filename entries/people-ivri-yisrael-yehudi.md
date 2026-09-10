@@ -29,8 +29,8 @@ words:
     distinct: Yaakov's fourth son, named by Leah as an expression of hodaah, thanks to Hashem (Bereishis 29:35)
 sources:
   - wiaw:7961 "Names of a People" (2018-10-20) https://articles.ohr.edu/articles/names-of-a-people
-authorities: [Bereishis Rabbah, Pesikta Rabbasi, Shemos Rabbah, Rabbeinu Bachya]
-status: draft
+authorities: [Bereishis Rabbah, Pesikta Rabbasi, Shemos Rabbah, Rabbeinu Bachya, Rabbi Dr. Norman Lamm]
+status: reviewed
 updated: 2026-09-10
 ---
 # Names of the Jewish people: Ivri / Yisrael / Yehudi
@@ -43,8 +43,8 @@ nation; *Yehudi* is **Jew**, strictly a subject of the Kingdom of Yehudah before
 it became the name of the whole people. The one thing not to get wrong is that
 these are not interchangeable registers of the same word: Rabbeinu Bachya holds
 *Ivri* marks a lower standing than *Yisrael*, which is why the Torah keeps
-*eved Ivri* for the Jewish slave even after Sinai, when the term had otherwise
-fallen out of use.
+*eved Ivri* for the Jewish slave even after Sinai, by which point the term had
+otherwise largely fallen out of use in Tanach.
 
 ## At a glance
 
@@ -72,6 +72,11 @@ since all four give the same English; a derashah in hand decides which is live.
 
 ## Distinctions
 
+The column takes its three questions from an exchange on the Los Angeles subway,
+where a friendly stranger asked the author and his wife whether they were Amish
+and he answered, "Nah, we're Hebrews": why are Jews called Hebrews, why are they
+called Jews, and what does the biblical "Israelites" mean?
+
 ### Ivri (עברי) and ever (עבר)
 The first man in the Torah called an *Ivri* is Avraham, in the refugee's report
 of Lot's capture (Bereishis 14:13-14). The word rests on *ever*, a side or a far
@@ -95,14 +100,24 @@ the modern state.
 After Shlomo HaMelech the kingdom split: Yehudah in the south, the tribes of
 Yehudah and Binyamin under the house of David, and Yisrael in the north with the
 remaining ten tribes. The gentilic *Yehudi* belonged strictly to a subject of the
-southern kingdom. The north fell to Ashur and its tribes were exiled and lost;
-over a century later Bavel took the south and exiled its people, and when Persia
-succeeded Bavel and permitted the return, the province was *Yehud Medinata*, the
-State of Yehudah. Rome later named that territory Judea. From *Yehudi* through
-Greek *Ioudaios*, which dropped the hei, and Old French *giu*, which dropped the
-dalet, comes the English "Jew"; other European languages kept the dalet. The
-name itself is Leah's: she called her fourth son Yehudah as an expression of
-*hodaah*, thanks to Hashem (Bereishis 29:35).
+southern kingdom. The north fell to Ashur and its tribes were exiled to parts
+unknown; well over a century later Bavel took the south and exiled its people,
+and when Persia succeeded Bavel and permitted the return, the semi-independent
+province was *Yehud Medinata*, the State of Yehudah. Centuries later Rome named
+that territory Judea, until it rebranded it *Syria Palaestina* after the Bar
+Kochba revolt. From *Yehudi* through Greek *Ioudaios*, which dropped the
+h-sound, and Old French *giu*, which dropped the d-sound, comes the English
+"Jew"; many other European languages kept the d. The column notes in passing
+that the earliest appearance of *Ioudaios* is in the so-called Moschos
+Inscription, a stele erected in honor of the Greek gods by a Jew turned Hellene
+named Moschos. The name itself is Leah's: she called her fourth son Yehudah, the
+forebear of the Davidic line, as an expression of *hodaah*, thanks to Hashem for
+granting her a fourth son (Bereishis 29:35). The column closes with a story: Rabbi
+Dr. Norman Lamm, debating a radical secular Israeli who denied the Jewishness of
+the State of Israel, is reported to have answered that one who speaks of French
+and Spanish and Italian nationals while denying the nationhood of the Jewish
+people should know that in America there are Hebrew Nationals too, and at least
+they claim their baloney is kosher.
 
 ## Rendering guidance
 
@@ -114,8 +129,9 @@ name itself is Leah's: she called her fourth son Yehudah as an expression of
 - Where a passage sets *Ivri* against *Yisrael* deliberately (Rabbeinu Bachya's
   reading, or a shmuess on Avraham standing alone), keep "Hebrew" and "Israel"
   as two distinct English words and do not smooth either to "Jew."
-- In Megillas Esther and in Sefer Yirmiyahu, *Yehudim* is "Jews"; the name has
-  by then generalized, and "Judahites" would be pedantic.
+- Where a later sefer of Tanach uses *Yehudim* of the people at large rather than
+  of subjects of the southern kingdom, "Jews" is right and "Judahites" would be
+  pedantic.
 - Render *ever* by what the derashah needs: "side" for the scale, "the other
   side" for the river, and let the name Ever stand as a name.
 
@@ -129,7 +145,10 @@ Rabbi Reuven Chaim Klein, "Names of a People," What's in a Word?, Ohr Somayach,
 11 Cheshvan 5779 (2018-10-20): raw text in
 `sources/whats-in-a-word/raw/7961-names-of-a-people.md`. Primary loci cited:
 Bereishis 11:21-24, 14:13-14, 29:35; Shemos 21:6; *Bereishis Rabbah* 42:8;
-*Pesikta Rabbasi* 33; *Shemos Rabbah* 3:8; Rabbeinu Bachya to Shemos 21:6. The
-column's aside on the Moschos Inscription is omitted here as outside the guide's
-scope; the descent of English "Jew" from *Yehudi* through Greek and Old French
-is retained, since it bears on rendering.
+*Pesikta Rabbasi* 33; *Shemos Rabbah* 3:8; Rabbeinu Bachya to Shemos 21:6. Two
+notes on the loci: the column gives Bereishis 11:21-24 for Ever's genealogy, but
+Ever is born and named at 11:14-17, and 11:21-24 covers Reu, Serug and Nachor;
+the entry keeps the column's citation and flags the slip here rather than
+correcting it silently. An earlier draft's rendering bullet naming Megillas Esther
+and Sefer Yirmiyahu for the generalized *Yehudim* has been generalized, since the
+column cites neither.

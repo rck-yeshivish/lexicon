@@ -10,9 +10,9 @@ words:
     nk: יֶלֶק
 sources:
   - wiaw:11448 "Balak: Lick It Up" (2024-07-20) https://articles.ohr.edu/articles/balak-lick-it-up
-authorities: [Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Ibn Parchon, Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Berger, Rabbi Yaakov Yehudah Zilberberg, Rabbi Asher Weiser, Ibn Ezra]
-status: draft
-updated: 2026-09-09
+authorities: [Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Ibn Parchon, Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Berger, Rabbi Yaakov Yehudah Zilberberg, Rabbi Asher Weiser, Ibn Ezra, Yefet ben Ali, Baal HaTurim, Wilhelm Gesenius]
+status: reviewed
+updated: 2026-09-10
 ---
 # Licking: lechichah / lekikah
 
@@ -24,57 +24,103 @@ difference: *lekikah* is **lapping up** liquid, the dog-at-the-water sound
 (Rabbi Moshe Tedeschi-Ashkenazi); *lechichah* is **licking away** something
 firmer, an ox stripping a field bare (Bamidbar 22:4). The one thing not to get
 wrong is that *lechichah* in a war context is not a picture of affection: it
-means consuming, wiping clean, and English "lick" in the sense of *defeat* is
-exactly the register the Moabites intended.
+means consuming, wiping clean. English "lick" in the sense of *defeat* grew, the
+column notes, out of Bamidbar 22:4 itself, which makes it a serviceable word in
+Balak's mouth, though the column treats the wider resemblance between the
+English and the Hebrew as a thing linguists would put down to chance.
 
 ## Distinctions
 
 ### lechichah (לחיכה)
 Root ל-ח-ך. Twice in the Torah, both in Balak's speech to the Midianite elders:
 the congregation will *lick away* everything around us as an ox licks away the
-grass of the field (Bamidbar 22:4). Four further times in Tanach (Melachim II
-18:38 in the article's citation; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9).
-Rabbi Yaakov Berger (*Milon Leshon HaMikra*) and Rabbi Yaakov Yehudah
-Zilberberg (*Leshonenu HaKedoshah*) both take the initial *lammed* as
-non-radical and trace the word to *cheich*, the palate: licking is rolling
-moisture (*lach*) toward the palate. Ibn Parchon (*Machberet He'Aruch*):
-*lechichah* is eating quickly. Chazal extend it to fire, which "licks"
-(*lichacha*) a plowed field (Bava Kamma 6a; Yerushalmi Bava Kamma 6:5), the
-flame reaching out like a tongue. In *Esther Rabbah* 8:7 Mordechai says he would
-have licked (*lechichah*) the shoe on Haman's foot for the sake of Klal Yisrael
-had the honor of Heaven not been at stake, which fixes the word firmly in the
-register of degradation.
+grass of the field (Bamidbar 22:4). Four further times in Tanach (Melachim
+18:38, which the article prints as Melachim II and which is Melachim I; Michah
+7:17; Yeshayahu 49:23; Tehillim 72:9). Rabbi Yaakov Berger of Kiryat Sefer
+(*Milon Leshon HaMikra*) conjectures that the word derives from *cheich*, the
+palate, taking the initial *lammed* as no part of the core; Rabbi Yaakov Yehudah
+Zilberberg (*Leshonenu HaKedoshah* p. 304) connects it to *cheich* in a similar
+way, licking being the use of the tongue to roll liquid (*lach*) toward the
+palate. Ibn Parchon (*Machberet He'Aruch*): *lechichah* is eating quickly.
+Chazal extend it to fire, which "licked" (*lichacha*) a plowed field, in the
+sugya of one liable for a fire that scorches a field so that the owner must plow
+it again (Bava Kamma 6a; Yerushalmi Bava Kamma 6:5). The column suggests the
+flames coming out of the greater fire may be likened to a tongue coming out of a
+mouth to lick something, and then says plainly that beyond that it is at a loss
+to explain the connection, pointing to Melachim I 18:38 and the Targum to
+Malachi 3:19, where verbs for licking are again used of a fire singeing
+something. In *Esther Rabbah* 8:7 Mordechai says he would have licked
+(*lechichah*) the shoe on Haman's foot for the sake of Klal Yisrael had the
+honor of Heaven not been at stake, which fixes the word firmly in the register
+of degradation.
 
 ### lekikah (לקיקה)
 Root ל-ק-ק (Ibn Chayyuj, Ibn Janach, Radak, Ibn Parchon) or the biliteral ל-ק
 (Menachem Ibn Saruk, Rabbi Shlomo Pappenheim). Seven times in Tanach in two
-settings: Gideon's water test, where the men who lapped (*yalok*) like a dog
-were kept and are called *hamelakekim*, "the lappers" (Shoftim 7:5-7), and
-Eliyahu's warning that the dogs who licked Navos's blood will lick Achav's
-(Melachim I 21:19, fulfilled 22:38). Rabbi Pappenheim gives the biliteral core
+settings: Gideon's water test, where Hashem would not have him lead so large an
+army lest the miracle be less apparent, and the men who lapped (*yalok*) the
+water like a dog were kept and called *hamelakekim*, "the lickers," while those
+who knelt down to drink were taken as too steeped in avodah zarah and discharged
+(Shoftim 7:5-7); and Eliyahu's warning that at the spot where the dogs licked
+(*lakeku*) Navos's blood they will lick (*yaloku*) Achav's (Melachim I 21:19,
+fulfilled 22:38). Rabbi Pappenheim gives the biliteral core
 as "detaching something small from something larger," since a lick takes only a
 little at a time; on that core he groups *yelek*, the grasshopper that feeds by
-*lekikah* (Nachum 3:16; Yoel 1:4, 2:25), *melikah*, the Kohen detaching a bird's
-head from its body (Vayikra 1:15, 5:8), and *lahakat* (Shmuel I 19:20) as a
-subgroup drawn out of a larger group. (Others read *lahak* as a metathesis of
-*kahal*.) Ibn Parchon: *lekikah* is drinking without a vessel. Chazal read the
-root into two names: *Amalek* as *am* plus *lak*, the nation that came like a
-dog to lick Yisrael's blood (*Tanchuma*, Ki Seitzei 9; *Pesikta D'Rav Kahana*,
-Zachor 8), and *Balak* as *ba* plus *l'lok*, he who came to lick (*Midrash
-Aggadah* to Balak; *Baal HaTurim*).
+*lekikah* (Nachum 3:16; Yoel 1:4, 2:25), for which Ibn Ezra (to Yoel 1:4) cites
+a similar explanation in the name of the Karaite exegete Yefet ben Ali;
+*melikah*, the Kohen detaching a bird's head from its body with his finger, the
+head being smaller than the rest (Vayikra 1:15, 5:8); and *lahakat* (Shmuel I
+19:20) as a subgroup drawn out of a larger grouping. (Others read *lahak* as a
+metathesis of *kahal*.) Ibn Parchon: *lekikah* is drinking without a vessel.
+Chazal read the root into two names: *Amalek* as *am* plus *lak*, the nation
+that came like a dog to lick Yisrael's blood as they left Mitzrayim (*Tanchuma*,
+Ki Seitzei 9; *Pesikta D'Rav Kahana*, Zachor 8), and *Balak* as *ba* plus
+*l'lok*, he who came to lick their blood (*Midrash Aggadah* to Balak, and so too
+*Baal HaTurim* and *Sefer Russiana*).
 
 ### Are they one word or two?
 Ibn Saruk and Radak define ל-ק-ק with cognates of ל-ח-ך, which treats the pair
 as synonyms; *kuf*, *kaf*, and *ches* interchange freely. Rabbi Shlomo of Urbino
 (*Ohel Moed*) lists them outright as synonyms, and Rabbi Asher Weiser (*Mikra
-V'Lashon*) reads *lechichah* as a cognate of *lekikah*. Against that, Rabbi
-Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim* 175) grants they mean the same act
-but separates them by sound: ל-ק imitates the slurp of taking up liquid, hence
-Gideon's soldiers at the water, while ל-ח-ך is the harder sound of licking
-something less liquid, hence the ox in the field, and he too anchors it in
-*cheich*. Ibn Parchon's quick-eating versus vessel-less drinking runs along the
-same line. The Tedeschi/Ibn Parchon reading is the useful one for a translator;
-the majority position is simple synonymy.
+V'Lashon*) reads *lechichah* as a cognate of *lekikah*, the column adding that
+he probably assumes the ches turns into the first kuf and the kaf into the
+second.
+
+Against that, and along lines the column ties to Gesenius, Rabbi Moshe
+Tedeschi-Ashkenazi (*Otzar Nirdafim* 175) grants they mean the same act but
+separates them by sound: ל-ק imitates the slurp of taking up liquid, hence
+Gideon's soldiers at the water, while ל-ח-ך makes a harder sound implying the
+licking of something less liquid, hence the ox in the field, and he too anchors
+that root in *cheich*. Ibn Parchon's quick-eating versus vessel-less drinking
+the column reads as perhaps alluding to the same distinction. The Tedeschi and
+Ibn Parchon reading is the useful one for a translator; the majority position is
+simple synonymy.
+
+### the onomatopoeia excursus
+Gesenius held that Semitic and Indo-European (his "Indo-Germanic") share many
+stem-words and grammatical roots, and put this down either to direct borrowing
+or to the two families independently coining similar words in imitation of the
+same natural sound. For the latter he adduces (*Gesenius' Hebrew Grammar*,
+Introduction §1:4) *lakak* and *lachach* in Hebrew, *leicho* in Greek, *lingo*
+in Latin, *lecher* in French, *lecken* in German and *lick* in English: all mean
+licking, and on his view they are not etymologically cognate but each an
+imitation of the sound of a lick. The column lengthens the list with *lek*
+(Afrikaans), *likken* (Dutch), *slikke* (Danish and Norwegian), *sleikja*
+(Icelandic), *ligh* (Irish), *leccata* (Italian), *linge* (Romanian), *yaleaq*
+(Arabic), and *leki* (Esperanto), and then dissents in its own voice: the
+onomatopoeia account is not enough, it says, since different cultures hear and
+record the same natural sound differently, and the resemblance across so many
+languages rather suggests to it that Indo-European languages may have borrowed
+from or evolved out of Semitic ones, as it notes some linguists posit, instead
+of developing alongside them independently.
+
+Separately, the column raises the root ל-ק-ה, hitting or smiting, the root of
+*malkus*, lashes. It says this may not be connected to *lekikah* at all, but
+that one could argue the whip is like a tongue lashing the sinner's body as a
+tongue licks. It notes the parallel that English "lick" means both to smite or
+defeat an enemy (an idiom it traces to Bamidbar 22:4) and to pass the tongue
+over something, and that linguists would probably call that resemblance to
+ל-ק-ה and ל-ק-ק pure chance.
 
 ## Rendering guidance
 
@@ -87,9 +133,9 @@ the majority position is simple synonymy.
   two side by side, or a derashah hangs on the root (Amalek, Balak), fix
   *lekikah* to "lap" and reserve "lick" for *lechichah*, and say in a note that
   the Hebrew uses two roots.
-- Second trap: "lick" in English also means to beat or defeat, an idiom that
-  grew out of Bamidbar 22:4 itself. That coincidence makes "lick" the right word
-  in Balak's mouth, but never use it that way for *lekikah*.
+- Second trap: "lick" in English also means to beat or defeat, an idiom the
+  column traces to Bamidbar 22:4 itself. That makes "lick" serviceable in
+  Balak's mouth, but never use it that way for *lekikah*.
 
 ## Notes for a project
 
@@ -107,7 +153,9 @@ Vayikra 1:15 and 5:8; Shmuel I 19:20; Nachum 3:16; Yoel 1:4 and 2:25; Bava Kamma
 6a and Yerushalmi Bava Kamma 6:5; *Esther Rabbah* 8:7; *Tanchuma*, Ki Seitzei 9;
 *Pesikta D'Rav Kahana*, Zachor 8; *Machberes Menachem*; Ibn Parchon, *Machberes
 He'Aruch*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino,
-*Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 175. The article's
-excursus on Gesenius and the onomatopoeia of *lick* across European languages is
-omitted here as outside our range of sources, as is the Karaite reading Ibn Ezra
-cites at Yoel 1:4.
+*Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 175; Targum to
+Malachi 3:19; *Midrash Aggadah* to Balak; *Baal HaTurim*; *Sefer Russiana*;
+*Gesenius' Hebrew Grammar*, Introduction §1:4; Ibn Ezra to Yoel 1:4 citing Yefet
+ben Ali. The comparative and academic material the article carries, Gesenius on
+onomatopoeia and the column's own dissent from it, is reported here as the
+article reports it.

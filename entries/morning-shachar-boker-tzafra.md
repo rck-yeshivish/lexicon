@@ -12,9 +12,9 @@ words:
     nk: צַפְרָא
 sources:
   - wiaw:8518 "Good Morning Sunshine" (2019-12-14) https://articles.ohr.edu/articles/good-morning-sunshine
-authorities: [Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Alkabetz, Rashi, Rabbi Menachem ibn Saruk, Ibn Ezra, Radak, Rabbi Wolf Heidenheim, Peirush HaRokeach, Zohar, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Eliyahu HaBachur, Ramban, Rabbi Aharon Marcus, Rabbi Yaakov Zev Lev, Rabbi Moshe Kosover of Beit Chilkiyah]
-status: draft
-updated: 2026-09-09
+authorities: [Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Alkabetz, Rashi, Rabbi Menachem ibn Saruk, Ibn Ezra, Radak, Rabbi Wolf Heidenheim, Peirush HaRokeach, Zohar, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Eliyahu HaBachur, Ramban, Rabbi Aharon Marcus, Rabbi Yaakov Zev Lev, Rabbi Moshe Kosover of Beit Chilkiyah, Thomas Fuller]
+status: reviewed
+updated: 2026-09-10
 ---
 # Morning: shachar / boker (tzafra, kritzuta)
 
@@ -23,7 +23,9 @@ updated: 2026-09-09
 *Shachar* is **dawn** or **daybreak**, the first light breaking the night before
 the sun is up. *Boker* is **morning**, beginning at *haneitz hachamah* and
 running on into the day. *Shachar* is a point; *boker* is a stretch, and
-*shachar* comes first. In Aramaic, Onkelos renders both as *tzafra*, but in
+*shachar* comes first. In Tanach *shachar* in the sense of morning appears some
+twenty times, against more than 200 for *boker*. In Aramaic, Onkelos renders
+both as *tzafra*, but in
 Iyov, Mishlei and Tehillim the Targum separates them: *boker* is *tzafra* and
 *shachar* is *kritzuta*. Both Hebrew roots also carry the sense of seeking out
 and discerning, which is why *shachar* and *boker* can each mean "search."
@@ -64,14 +66,25 @@ Two further senses of the root:
    black, because the light of dawn drives out the night's blackness; Yoma 29a
    likewise treats *shachar* as the *end* of the night. *Peirush HaRokeach*:
    dawn is called *shachar* because the sky is still partly black, especially in
-   the west. The Zohar (Beshalach 46a) makes the darkness the point: just before
-   dawn the night is at its blackest and the sun's light must cut through it. The
-   Vilna Gaon applies it to the exile, darkest immediately before the Final
-   Redemption. Rabbi Moshe Shapiro explains the phenomenon: the first ray of
-   light washes out the faintest stars while giving no usable light of its own,
-   so the sky seems to darken at the very moment morning is announced. Others
-   restrict the Zohar to the nights of the month when the moon sets before
-   sunrise.
+   the west. More esoteric sources, the column says, intimate a deeper
+   explanation. The Zohar (Beshalach 46a) makes the darkness the point: just
+   before dawn the pitch black of the night sky becomes especially overwhelming
+   and the sun's light must penetrate that thick darkness. The column notes that
+   the British writer Thomas Fuller (1608-1661) put the same idea into English:
+   "It is always darkest just before the day dawneth." The Vilna Gaon writes
+   that the darkest part of the night is right before the crack of dawn, just as
+   the exile will be hardest immediately before the Final Redemption. On this
+   account *shachar* is related to *shachor* because morning breaks through the
+   *blackest* point of the night.
+
+   The column then asks how the Zohar's claim can be substantiated
+   phenomenologically. Rabbi Moshe Shapiro answers that the first ray of morning
+   light overshadows the smallest stars and the weaker sources of light, as
+   though they were extinguished, while itself being too subtle to give any
+   noticeable illumination of its own; so right at dawn the sky appears to grow
+   darker, and paradoxically that added darkness is what heralds the morning's
+   arrival. Others explain that the Zohar refers only to certain times of the
+   month, when the moon sets in the early morning before sunrise.
 
 Two side-forms of the root: *shacharus* (Koheles 11:10), one's youth, which
 Radak (*Sefer HaShorashim*) reads as the morning of a life and Rashi as the
@@ -85,17 +98,19 @@ cantillation system) the Targum splits them, *boker* as *tzafra* and *shachar* a
 *kritzuta*. *Tzafra* is the standard Aramaic for morning in the Gemara; Rashi's
 greeting was *tzafra d'mareh tav*.
 
-*Tzafra* and *tzipor* (bird) are linked, but the direction is disputed. Ramban
+*Tzafra* and *tzipor* (bird) are clearly linked, but, as the column concludes, it
+is hard to say which came first. Ramban
 (Vayikra 14:4): *tzipor* comes from *tzafra*, since birds wake early and chirp.
 Rabbi Aharon Marcus: the reverse, *tzafra* from *tzipor*. Rabbi Yaakov Zev Lev
 (*Me'at Tzari*) notes that the *Rokeach* himself has it both ways: to Bereishis
 1:5 he derives *tzafra* from *tzipor* (dawn is *shachar*, akin to *shachor*, and
 black suggests the blackbird; also birds are about early), and to Bereishis 1:20
-he derives *tzipor* from *tzafra*, since birds fly up before sunup.
+he derives *tzipor* from *tzafra* (like Ramban), since birds fly up high before
+sunup.
 
-Targum Yonasan (Bereishis 19:15 and 32:27) gives *kritzin* for *shachar*; Targum
+Targum Yonasan (Bereishis 19:15 and 32:27) gives *kritizin* for *shachar*; Targum
 Neofiti simply Aramaicizes it to *shachara*. Rabbi Moshe Kosover of Beit
-Chilkiyah connects *kritzuta* to *kritzah*, winking (Tehillim 35:19, Mishlei
+Chilkiyah suggests that *kritzuta/kritizin* is related to *kritzah*, winking (Tehillim 35:19, Mishlei
 6:13, Yoma 19b): a wink is a small sign of something larger, and dawn is the
 small sign that daylight is coming.
 
@@ -132,6 +147,5 @@ Rashi; Mishlei 11:27; Bereishis 1:5 with Ibn Ezra, Radak and *Peirush HaRokeach*
 Bereishis 1:20 (*Rokeach*); Tehillim 63:2 (Ibn Ezra); Koheles 11:10; Yeshayahu
 8:20; Yoma 29a and 19b; Zohar, Beshalach 46a; Ramban to Vayikra 14:4; Bereishis
 19:15 (Targum Yonasan); Tehillim 35:19; Mishlei 6:13; Radak, *Sefer HaShorashim*.
-A secular English proverb quoted in the article on the Zohar's point is omitted
-here. On the *tzipor* side of the *tzafra* question see
+On the *tzipor* side of the *tzafra* question see
 `entries/bird-of-tzipor-kanaf.md`.

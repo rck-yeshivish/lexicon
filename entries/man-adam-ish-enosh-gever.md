@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
 authorities: [Zohar, Malbim, Maharal of Prague, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Radak, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Yaakov Tzvi Mecklenburg, Ibn Ezra, Rabbi Yehuda Leib Edel, Ibn Yachya]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Man: adam / enosh / ish / gever
 
@@ -23,7 +23,9 @@ mussar text, keep it *adam* when the passage turns on his likeness to Hashem).
 *Enosh* is man in his weakness: **mortal**, **frail man** (the plural *anashim*
 flips to "men of standing," Rashi). *Ish* is one individual, physically mature:
 **a man**, "man" as against woman or child. *Gever* is man as strength: **man**
-in the sense of the strong male, never generic humanity. The one thing not to
+in the sense of the strong male, and not generic humanity, though whether it is
+always male is itself disputed (Ibn Ezra says yes, Rabbi Yehuda Leib Edel brings
+gender-neutral uses against him). The one thing not to
 get wrong: the Zohar ranks them (*adam* > *enosh* > *ish* > *gever*), so a
 derashah on which word a pasuk uses is a derashah on rank.
 
@@ -33,10 +35,16 @@ derashah on which word a pasuk uses is a derashah on rank.
 The all-encompassing word: singular and plural, male and female (Bereishis
 1:26-27; Zohar Nasso 141b). Malbim: *adam* behaves like a proper name, which is
 why it never takes a plural or feminine form; "two adams" is as wrong as "two
-Reuvens." On the root: the Maharal reads it from *adamah*, ground, as a reminder
-that man is dust with great potential to grow; Rabbi Shlomo Pappenheim also
-ties it to *adamah* (only man was *created* from the earth; the animals merely
-emerged from it) and, separately, to the biliteral ד-ם, "similar" (*domeh*,
+Reuvens." On the root, some explain that he was called Adam because *adam* comes
+from *adamah*, ground, and he was created from the earth. The column presses the
+obvious objection: all the animals too were created from the earth (Bereishis
+1:24), and *adam* is never used of them, so why is he the one called Adam? The
+Maharal answers that the name ties him to the ground as a reminder that just as
+dirt is worthless yet holds great potential to foster growth, so a man is
+physically worthless, being only dust and ashes, yet holds great potential to
+grow. Rabbi Shlomo Pappenheim answers the question head on: the animals were not
+*created* from the earth, they merely *emerged* from it, while Adam was actually
+created from it. Pappenheim also ties *adam*, separately, to the biliteral ד-ם, "similar" (*domeh*,
 *demus*, *dimyon*), because man is made in Hashem's image and resembles Him in
 the way his actions echo through creation. Rav Hirsch: from *hadom*, footstool,
 for man was meant to sit at Hashem's footstool as His deputy. Rabbi Yaakov Tzvi
@@ -52,8 +60,10 @@ Torah called him *enosh* (Tehillim 8:5). Radak (*Sefer HaShorashim*): the root
 natural condition" (*nosheh*, *nashah*, *anush*), so *enosh* is man whose powers
 are weak beside greater spiritual beings. Wertheimer: *enosh* is *ish* with a
 diminutive nun. The Vilna Gaon: the image of Hashem held fully only for Adam and
-Sheis; it was lost in the days of Enosh when idolatry began, and the loss showed
-in the body. Rashi (to Bamidbar 13:3): the plural *anashim* means men of
+Sheis; it was lost in the days of Sheis's son Enosh, when idolatry began to
+develop, and the loss of that spiritual resemblance was reflected in physical
+ways, leaving man weakened, to the point that according to the Midrash people's
+faces came to look like apes. Rashi (to Bamidbar 13:3): the plural *anashim* means men of
 importance, because the lowly man who joins others and humbles himself before
 them becomes important through the group.
 

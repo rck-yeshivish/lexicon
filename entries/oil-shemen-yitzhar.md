@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:7061 "Olives and Oil" (2016-12-24) https://articles.ohr.edu/articles/olives-and-oil
 authorities: [Menachem Ibn Saruk, Radak, Rabbi Yosef Kimchi, Ibn Ezra, Rashi, Rabbi Yitzchak Zev Yadler]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Oil: shemen / yitzhar
@@ -45,19 +45,23 @@ let one English word erase the fact that *yitzhar* already carries "olive."
 
 ## Where the authorities disagree
 
-Three accounts of the difference, and they do not reduce to one.
+Three accounts of the difference, and they do not reduce to one. The article
+sets them out as three possible ways of differentiating the words and does not
+choose among them.
 
 1. **By species.** Menachem Ibn Saruk defines *yitzhar* as olive oil, while
    *shemen* answers to *shuman* and *shamen*, fat, and names the fatty,
-   glyceride property of any oil. So *yitzhar* means olive oil by definition and
-   *shemen* means oil of any kind. The phrase *shemen zayis zach* proves the
-   point from the other side: *shemen* alone does not mean olive oil, and
-   *yitzhar* is never joined to *zayis*.
+   glyceride property of oil. On that basis the column argues, as its own
+   inference rather than Ibn Saruk's stated distinction, that *yitzhar* means
+   olive oil by definition and *shemen* may mean oil of any kind. The phrase
+   *shemen zayis zach* implies as much from the other side: *shemen* alone does
+   not intrinsically mean olive oil, and *yitzhar* is never joined to *zayis*.
 2. **By stage.** Radak (*Sefer HaShorashim*): *yitzhar* is oil as it comes out of
    the press. Every occurrence in Tanach is olive oil as an agricultural
    product, and Iyov 24:11 has a verb form of the word, which Rashi explains as
-   the producing of olive oil. On this reading both words can mean olive oil, and
-   *yitzhar* marks it in its freshest state.
+   the producing of olive oil. On this reading both words can mean olive oil,
+   *yitzhar* marking it in its freshest state right after production and
+   *shemen* covering it in later states as well.
 3. **By local usage.** Rabbi Yitzchak Zev Yadler: *yitzhar* does not mean olive
    oil at all in itself, but whatever oil a given place burns for light. In Eretz
    Yisrael that was olive oil, so *yitzhar* in the Torah means olive oil; Shabbos
@@ -83,11 +87,12 @@ same reason olive oil is called "gold" (Zechariah 4:12). Ibn Ezra (to Iyov
 24:11) takes *tzohar* in its other sense, "noon," since oil is burned for light
 and that light resembles the sun at midday. *Yitzhar* is also a proper name nine
 times in Tanach, Levi's grandson and Korach's father (Shemos 6:18 and elsewhere).
-The Midrash has Korach read his father's name as an omen: oil floats over water,
-and Moshe was drawn from the water, so he took it that he would come out on top.
-Rabbi Yadler answers that the name pointed not at Korach but at his descendant
-Shmuel HaNavi, who would anoint David with specially prepared olive oil and begin
-the Davidic line.
+The Midrash has Korach read his father's name as an omen that he would succeed
+in his rebellion against Moshe: oil always sits on top of water, and Moshe's
+name was given for his being drawn from the water (Shemos 2:10), so Korach
+thought he would come out on top. Rabbi Yadler answers that in reality the name
+pointed not at Korach but at his descendant Shmuel HaNavi, who would use
+specially made ritual olive oil to anoint David and begin the Messianic line.
 
 ## Rendering guidance
 
@@ -111,8 +116,13 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "Olives and Oil," What's in a Word?, Ohr Somayach, 24
 Kislev 5777 (2016-12-24): raw text in
-`sources/whats-in-a-word/raw/7061-olives-and-oil.md`. Primary loci cited: Shemos
-6:18; Iyov 24:11; Zechariah 4:12 (the article prints 5:12; the "two olive trees"
-and the golden oil are at 4:11-12); Shabbos 26b; *Machberes Menachem*; Radak,
-*Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGilui*; Ibn Ezra to Iyov
-24:11.
+`sources/whats-in-a-word/raw/7061-olives-and-oil.md`. The piece is a Chanukah
+feature, opening from the jug of *shemen zayis zach* of the Menorah. Primary
+loci cited: Shemos 6:18, 2:10; Iyov 24:11; Zechariah 4:12; Shabbos 26b;
+*Machberes Menachem*; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer
+HaGilui*; Ibn Ezra to Iyov 24:11.
+
+Two loci where the article slips and the entry does not follow it. It prints
+Zechariah 5:12 for the golden oil; the "two olive trees" and the golden oil are
+at 4:11-12. It prints Shemos 2:11 for Moshe's name being given from the water;
+that is 2:10.

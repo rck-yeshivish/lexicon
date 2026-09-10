@@ -10,9 +10,9 @@ words:
     nk: בְּלִי
 sources:
   - wiaw:10949 "Naso/Shavuos: Just Say No" (2023-05-27) https://articles.ohr.edu/articles/nasoshavuos-just-say-no
-authorities: [Rashi, Machberes Menachem, Rabbi Yishaya Pick-Berlin, Rabbi Chizkiyah Medini, Rabbi Betzalel Ashkenazi, Rabbi Meir HaMeili, Rabbi Reuven Margolios, Rabbi Ber Oppenheimer, Rabbi Aharon Maggid, Rabbi Eliyahu Gutmacher, Rabbi Avraham Eliezer Hirshawitz, Rabbi Shlomo Pappenheim, Chasam Sofer]
-status: draft
-updated: 2026-09-09
+authorities: [Rashi, Machberes Menachem, Rabbi Yishaya Pick-Berlin, Rabbi Chizkiyah Medini, Rabbi Betzalel Ashkenazi, Rabbi Meir HaMeili, Rabbi Reuven Margolios, Rabbi Ber Oppenheimer, Rabbi Aharon Maggid, Rabbi Eliyahu Gutmacher, Rabbi Avraham Eliezer Hirshawitz, Rabbi Yisroel Rubin, Rabbi Eli Silberstein, Rabbi Shlomo Pappenheim, Chasam Sofer]
+status: reviewed
+updated: 2026-09-10
 ---
 # Negation: lo / al / bal
 
@@ -32,8 +32,9 @@ close to seventy times in Tanach, though never in Chumash.
 The Torah's standard negation, and the marker of a negative commandment: *lo
 sirtzach*, *lo sinaf*, *lo signov*, *lo saaneh*, *lo sachmod*. Rabbi Ber
 Oppenheimer: *lo* negates both past fact and future command, so it covers "you
-shall not eat" and "you did not eat" alike. Rabbi Aharon Maggid: *lo* is
-addressed concretely to a second person, "*you* shall not."
+shall not eat" and "you did not eat" alike. Rabbi Aharon Maggid, as the column
+reads him (it says "if I understood him properly"): *lo* is addressed
+concretely to a second person, "*you* shall not."
 
 ### al (אל)
 Rabbi Ber Oppenheimer: *al* is always a negative imperative, always about
@@ -59,30 +60,42 @@ nations, and Chagigah 13a derives from it that we do not transmit Torah to a
 gentile.
 
 ### Why Chazal traded lo for bal
-The question is old and unsettled. Rabbi Yishaya Pick-Berlin raised it in his
-glosses to *Sefer HaTishbi*; Rabbi Chizkiyah Medini of Chevron was asked it by
-a talmid and knew of no earlier source until he saw Rabbi Pick. Rabbi Betzalel
-Ashkenazi (*Shitah Mekubetzes* to Temurah 6b) cites Rabbi Meir HaMeili (*Sefer
-HaMeoros*), who says only that *bal* is easier to say and clearer. Rabbi Reuven
-Margolios: to keep the negative *lo* from being heard as the homonym *lo*, "to
-him." Rabbi Ber Oppenheimer: *bal* states an ongoing fact rather than a
-command, so *bal tigzol* points at the man who stole and still holds the goods.
-Rabbi Aharon Maggid: *bal* names the prohibition in the abstract, without
-fixing on whom it binds. Rabbi Eliyahu Gutmacher, who calls his own suggestion
-novel and untested, takes *bal* to mark the Rabbinic extension beyond the
-Biblical core (*bal tashchis* reaching every wasteful destruction, where the
-pasuk speaks of a fruit tree). Rabbi Avraham Eliezer Hirshawitz (*Otzar Kol
-Minhagei Yeshurun*), similarly: *lo* is an absolute no, *bal* a general and
-more flexible one, fitting Chazal's work of defining when a prohibition applies
-and when it does not. The article also records a suggestion that *bal* is a
-copyists' abbreviation of *b'lo*, which it says has gained little traction, and
-Rabbi Yisroel Rubin's proposal, which he himself rejects, that Chazal changed
-the wording to avoid quoting pesukim by heart (Gittin 60b); Rabbi Eli
-Silberstein takes *bal* as short for *bli*/*bilti*, and Rabbi Rubin relates it
-to *bilui*, wearing out. The author's own suggestion rests on the Chasam Sofer
-(*Toras Moshe* to Vayikra 10:1), that *lo* is one of the names of the Angel of
-Death, hinted at in the *eish zarah asher lo tzivah osam*: Chazal avoided the
-word when speaking of the prohibitions Klal Yisrael might have transgressed.
+The question is old and unsettled, and the column gathers the answers rather
+than choosing among them, noting that several of them are arcane and little
+discussed and offering them in the hope that one will resonate. Rabbi Yishaya
+Pick-Berlin raised it in the introduction to his unpublished glosses to *Sefer
+HaTishbi*; Rabbi Chizkiyah Medini of Chevron was asked it by a talmid, agreed
+it was worth asking, and knew of no earlier source until he later saw Rabbi
+Pick. Rabbi Betzalel Ashkenazi (*Shitah Mekubetzes* to Temurah 6b) cites Rabbi
+Meir HaMeili (*Sefer HaMeoros*), who says only, and cryptically, that *bal* is
+apparently somehow easier to pronounce and conveys a clearer meaning. The
+column suggests that this last point may be an allusion to the answer of Rabbi
+Reuven Margolios: to keep the negative *lo* from being heard as the homonym
+*lo*, "to him." Rabbi Ber Oppenheimer: *bal* states an ongoing fact rather than
+a command, so *bal tigzol* points at the man who stole and still holds the
+goods, and so with the other *bal* prohibitions, which point at a man who has
+not yet done teshuvah. Rabbi Aharon Maggid, again as the column reads him:
+*bal* names the prohibition in the abstract, without fixing on whom it binds.
+Rabbi Eliyahu Gutmacher, who expressly admits his suggestion is entirely novel
+and says he would have to run it through the whole Talmud to see whether it
+holds up, takes *bal* to mark the Rabbinic extension beyond the Biblical core
+(*bal tashchis* reaching every non-constructive destruction of property, where
+the pasuk speaks of a fruit tree); the column's own verdict is that it does not
+pan out. Rabbi Avraham Eliezer Hirshawitz (*Otzar Kol Minhagei Yeshurun*),
+similarly: *lo* is an absolute, unconditional no, *bal* a general and more
+flexible one, fitting Chazal's work of defining when a prohibition applies and
+when it does not. Some scholars have suggested that *bal* is not a Chazalic
+expression at all but a later copyists' abbreviation of *b'lo*, a theory the
+column says has not gained much traction. Rabbi Yisroel Rubin (Chabad of
+Albany) proposes, but ultimately rejects, that Chazal changed the wording to
+avoid quoting pesukim by heart (Gittin 60b); Rabbi Eli Silberstein (Chabad of
+Ithaca) takes *bal* as short for *bli*/*bilti*, and Rabbi Rubin himself
+preferred to relate it to *bilui*, wearing out. The columnist's own suggestion,
+which he calls his pet theory and puts as "we may argue," rests on the Chasam
+Sofer (*Toras Moshe* to Vayikra 10:1), that *lo* is one of the names of the
+Angel of Death, hinted at in the *eish zarah asher lo tzivah osam*: Chazal
+avoided the word so as not to invoke that name and draw accusation against Klal
+Yisrael, who may sometimes have failed to keep those very commandments.
 
 ### The root ב-ל
 Rabbi Shlomo Pappenheim gives the two-letter root ב-ל two core senses,
@@ -125,3 +138,9 @@ Makkos 16b; Meilah 17a; Chagigah 13a; Gittin 60b; Rashi to Yeshayahu 26:10;
 *Machberes Menachem* s.v. בל; *Shitah Mekubetzes* to Temurah 6b citing *Sefer
 HaMeoros*; Tehillim 93:1, 96:10, 147:19-20; Mishlei 10:30, 12:3; Iyov 41:15;
 Divrei HaYamim I 16:30; Shmuel I 27:10; *Toras Moshe* to Vayikra 10:1.
+
+Two notes on the loci. The article cites the Chagigah 13a derashah to Tehillim
+147:19, but the word *bal* it turns on stands in 147:20 (*u'mishpatim bal
+yeda'um*); the entry gives 147:19-20. The article's transliterations are
+Sephardic (*lo tashchit*, *bal tossif*); the entry gives them in the house
+Ashkenazic form.

@@ -8,8 +8,8 @@ domain: society
 sources:
   - wiaw:7572 "The Pharaoh and the King" (2018-01-06) https://articles.ohr.edu/articles/the-pharaoh-and-the-king
 authorities: [Rashi, Radak, Rabbi Ovadia of Bartenura, Ibn Ezra, Zohar, Rabbeinu Bachya, Rav Chaim Kanievsky, Abarbanel, Rabbi Avraham Menachem Rappaport, Rabbi Eliezer ben Eliyahu Ashkenazi]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # The Egyptian monarch: Paroh / Melech Mitzrayim
 
@@ -24,21 +24,29 @@ point, and the doubled form must stay doubled.
 
 ## Distinctions
 
+The column takes its question from the author's fifth grade rebbe, Rabbi A. Y.
+Berman, who put it as the hundred-dollar question: why the Torah sometimes says
+*Melech Mitzrayim*, sometimes *Paroh*, and sometimes both.
+
 ### Paroh (פרעה)
 A title borne by every Egyptian king, not a name. Rashi (Tehillim 34:1; Ezra
 6:14): every king of Egypt is called Paroh. Radak (Bereishis 26:9) is narrower:
-most Egyptian kings were so called. Rabbi Ovadia of Bartenura explains why Rashi
-repeats the point at Bereishis 41:10, where the butler says "Paroh was angry
-with his servant": without it one would think the butler had used the king's
-personal name to his face, which would be an insolence. Ibn Ezra there makes the
-same point.
+most Egyptian kings were so called. In some versions of Rashi's commentary he
+makes the point again at Bereishis 41:10, where the butler says "Paroh was angry
+with his servant," and Rabbi Ovadia of Bartenura (1440-1500) explains why:
+without it one would think Paroh was the king's personal name and the butler had
+used it to his face, which would be an insolence. Ibn Ezra there makes a similar
+point.
 
-As to what the word means, Abarbanel and Rabbi Avraham Menachem Rappaport read
-it as a contraction marking the king's depravity, either *po'el ra*, doer of
-evil, or *peh ra*, evil mouth. Rabbi Eliezer ben Eliyahu Ashkenazi (*Maaseh
-Hashem*) held that Paroh means "master" in Italian, on the premise that the
-Egyptians spoke Latin; the column reports that it could not confirm this, and
-that the Egyptians in fact spoke Egyptian.
+As to what the word means, Abarbanel (1437-1508) and Rabbi Avraham Menachem
+Rappaport (1520-1596) read it as a contraction marking the king's depravity,
+either *po'el ra*, doer of evil, or *peh ra*, bad mouth. Rabbi Eliezer ben
+Eliyahu Ashkenazi (1515-1585) claims in *Maaseh Hashem* that the Egyptians spoke
+Latin or Italian, and on that premise that Paroh means "master" in Italian; the
+column reports that after consulting experts it remains unable to confirm this,
+and that it is virtually a historical fact that the Egyptians spoke Egyptian,
+not Latin. Academia, the column adds, tends to explain that Paroh means "the
+great house."
 
 ### Melech Mitzrayim (מלך מצרים)
 The King of Egypt, the office as the nation's head. It appears close to fifty
@@ -62,26 +70,41 @@ Yechezkel 29:2.
   sea. The exception is Bereishis 41:46, where Yosef stands before *Paroh Melech
   Mitzrayim*, to say that he kept his throne only because he took Yosef's
   counsel. The column notes that this does not yield a rule covering every case.
-- Rav Chaim Kanievsky, building on Rabbeinu Bachya, gives the comprehensive
-  rule: acting for the national interest, he is *Melech Mitzrayim*; acting out
+- Rav Chaim Kanievsky, basing himself partly on Rabbeinu Bachya, offers a
+  comprehensive discussion of all three usages: acting on behalf of the national
+  interest, he is *Melech Mitzrayim*; acting out
   of personal interest, self-aggrandizement or sheer stubbornness, he is
   *Paroh*; where both are at work, *Paroh Melech Mitzrayim*.
 
 ## Named Egyptian kings
 
-Tanach names three: Shishak (Melachim I 14:25 region, in the days of Shlomo and
-Rechavam), Paroh Necho in the days of Yoshiyahu, and Paroh Chafra (Yirmiyahu
-44:30). The Midrash reads Necho, "lame," as earned: having killed Yoshiyahu he
-seized Shlomo's throne, and one of its lions struck him when he presumed to sit
-on it. *Sefer HaYashar*, which the column labels an apocryphal midrash, supplies
-more: Severus son of Anam (Bereishis 10:13) renamed the wise Babylonian Rakayon
-"Paroh" and set him over the day-to-day rule of Egypt, whence the decree that
-every future king bear that name; Paroh Melol, whom the Jews called *Maror
-Melech Mitzrayim* for embittering their lives; and his son Adikam Achuz, so
-called because *achuz* is "short" in Egyptian and he stood one *amah* tall (see
-Moed Katan 18a), under whom the Exodus took place. On this account *Paroh* and
-*Melech Mitzrayim* began as two separate offices later merged, which still does
-not settle the Torah's usage.
+Tanach names three: Shishak, in the days of Shlomo and his son Rechavam, whom
+archaeologists commonly identify with Pharaoh Shoshenq I; Paroh Necho, "lame" or
+"handicapped," in the days of Yoshiyahu; and Paroh Chafra, king of Egypt, whom
+Yirmiyahu names in foretelling Egypt's downfall (Yirmiyahu 44:30). The Midrash
+reads Necho's name as earned: he was partially paralyzed, because having killed
+Yoshiyahu in battle he captured Shlomo's throne, and when he dared sit on it one
+of its lions struck him.
+
+*Sefer HaYashar*, which the column labels an apocryphal midrash, supplies more.
+Severus son of Anam (Bereishis 10:13 lists the Anamites among the descendants of
+Ham's son Mitzrayim) was king of Egypt when a Babylonian named Rakayon impressed
+him and his nation with his great wisdom; Severus renamed him "Paroh" and set him
+over the day-to-day rule of Egypt while remaining the ultimate king himself,
+appearing in public only once a year, and the Egyptians decreed that every future
+king of Egypt bear the name Paroh. The Paroh of the generation after Yosef's
+death was Paroh Melol, who ruled ninety-four years; instead of *Melol Melech
+Mitzrayim* the Jews called him *Maror Melech Mitzrayim*, because he embittered
+(*maror*) their lives with slavery. The column notes here that Egyptologists have
+found that ancient Egyptian hieroglyphics used one glyph for the r-sound and the
+l-sound, and that some scholars identify Paroh Melol with Pharaoh Pepi II, whose
+alternate name was Merire. Melol's successor was his son Paroh Adikam, also
+called Adikam Achuz because *achuz* means "short" in Egyptian and he stood one
+*amah* tall (see also Moed Katan 18a); he was a short, ugly fellow whose beard
+reached to his ankles, and the Exodus took place in his reign. On *Sefer
+HaYashar*'s account *Paroh* and *Melech Mitzrayim* were originally two different
+titles held by different people, later, it seems, merged into one office, which
+still does not explain the Torah's alternation.
 
 ## Rendering guidance
 
@@ -112,6 +135,8 @@ https://articles.ohr.edu/articles/the-pharaoh-and-the-king; raw text in
 cited: Shemos 2:23, 6:11, 6:13, 6:29, 14:8; Bereishis 10:13, 26:9, 41:1, 41:10,
 41:46; Melachim I 3:1; Yechezkel 29:2; Yirmiyahu 44:30; Tehillim 34:1; Ezra
 6:14; Moed Katan 18a; *Zohar*, *Shemos* 17a and 19b; Rabbeinu Bachya to
-Bereishis 41:1; Abarbanel; *Maaseh Hashem*; *Sefer HaYashar*. The article's
-Egyptological identifications and the academic "great house" etymology are
-omitted here.
+Bereishis 41:1; Abarbanel; *Maaseh Hashem*; *Sefer HaYashar*. The column's
+Egyptological material (Shishak as Shoshenq I, the shared r/l glyph, Melol as
+Pepi II or Merire) and the academic "great house" etymology are reported here as
+the column reports them. An earlier draft cited Melachim I 14:25 for Shishak; the
+column gives no locus for him, so the citation has been dropped.

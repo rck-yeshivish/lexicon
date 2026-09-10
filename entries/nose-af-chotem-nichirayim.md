@@ -10,9 +10,9 @@ words:
     nk: אַף
 sources:
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
-authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rabbi Aharon Marcus, Rashi, Rabbi Eliyahu Bachur, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yehudah Ibn Balaam, Rabbi Yosef Kara, Ibn Ezra, Zohar, Maharsha, Rabbi Binyamin Mussafia, Rabbi Moshe Yair Weinstock, Rabbi Shlomo Ibn Parchon, Peirush HaRokeach]
-status: draft
-updated: 2026-09-09
+authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rabbi Aharon Marcus, Rashi, Rabbi Eliyahu Bachur, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yehudah Ibn Balaam, Rabbi Yosef Kara, Ibn Ezra, Zohar, Maharsha, Rabbi Binyamin Mussafia, Rabbi Moshe Yair Weinstock, Rabbi Shlomo Ibn Parchon, Peirush HaRokeach, Rabbi David Conforte, Ben Ish Chai, Rabbi Avraham Nissan Orenstein, Prof. Edward Yechezkel Kutscher]
+status: reviewed
+updated: 2026-09-10
 ---
 # Nose: af / chotem / nichirayim
 
@@ -29,6 +29,11 @@ Check the context before letting a nose into the English, and never translate
 
 ## Distinctions
 
+The essay opens from *Sanhedrin* 52a, which describes the fire that consumed
+Nadav and Avihu (Vayikra 10:1-2) as two fiery livewires that split into four
+and entered the four *chotem* of the two men. It is *chotem*, the Rabbinic
+word, that the Gemara uses there.
+
 ### af (אף)
 Root: Menachem Ibn Saruk and Ibn Janach give א-פ; Radak gives א-נ-פ. Either way
 the root feeds a wide family: nose, anger, face, "even, also, although," and
@@ -38,30 +43,56 @@ matching the two sides of the nose. Rashi glosses *af* now with *nichirayim*
 (to Shemos 15:8, Yirmiyahu 17:4) and now with *chotem* (to Yeshayahu 48:9,
 Yechezkel 8:17, *Berachos* 61b). Rabbi Eliyahu Bachur (*Meturgeman*) records a
 sharper rule in Targum: where *af* means face, Targum gives *anaf*; where it
-means nose, Targum gives a form of *nechar*.
+means nose, Targum gives a form of *nechar*. The column adds that the Aramaic
+*anaf* is itself likely a cognate of the Hebrew *af*, with a nun inserted in
+the middle as often happens, and that Arabic has a similar *anf*, "nose"; and
+that Biblical Hebrew has a root א-נ-פ yielding verbs of becoming angry, which
+is the same nose-anger link again.
 
 The connections among the senses are worth carrying into a translation. Rashi
 (to Devarim 29:19, Shmuel II 22:9, Yeshayahu 48:9, Tehillim 18:9, *Berachos*
-56b): *charon af* is anger because anger shows in the nose as it flares. Rabbi
-Shlomo Pappenheim (*Cheishek Shlomo* s.v. *af*): the nose is the most prominent
-feature of the face, hence one word for both; and see Rashi (to Yechezkel 23:25,
-*Shabbos* 151b) on the *chotem* as the centerpiece of a person's appearance.
-Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) reverses the priority: the
-core sense is face, and it means nose because the nose is where a person's mood
-shows. The ambiguity is real, and Rashi himself leaves it open at Shir HaShirim
-7:5. The remaining senses follow: rhetorical *af*, "even though," concedes an
-objection that sticks out the way a nose does; and *afah*, baking, takes up the
-heat of anger.
+56b): *charon af* is anger because anger shows in the nose as it flares. Some
+have argued that since the nose is a person's most distinguishing and
+outstanding facial feature, the words for face and nose are related to one
+another (see Rabbi Shlomo Pappenheim, *Cheishek Shlomo* s.v. *af*); and see
+Rashi (to Yechezkel 23:25, *Shabbos* 151b) on the *chotem* as one of the
+centerpieces of a person's appearance. Rabbi Yehudah Aryeh of Carpentras
+(*Aholei Yehudah*) reverses the priority: the core sense is face, and it means
+nose because the nose serves as the symbol of a person's overall mood, anger
+being physically discernible on it. Either way, the sense of *af*/*apayim* is
+sometimes ambiguous, and it can be unclear whether nose or face is meant (see
+Rashi to Shir HaShirim 7:5). The remaining senses follow: rhetorical *af*,
+"even though," turns aside an obvious counterpoint by granting it and holding
+that the thesis still stands, the objection sticking out the way a nose juts
+from a face; and *afah*, baking, takes up the heat of anger.
 
-In Rabbinic Hebrew *af* was largely displaced by *chotem* for the organ, but it
-survives in fixed phrases: *nizmei ha'af*, nose-rings (*Keilim* 11:8, after
-Yeshayahu 3:21), *mei ha'af* (*Tosefta Shabbos* 8:28, *Zavim* 5:2), *charon af*
-(*Sanhedrin* 10:6) and *erech apayim* (*Avos* 4:1, 5:2). In the Aramaic of
-Tanach *af* means only "even, also" (Daniel 6:23, Ezra 5:10, 6:5), and it is in
-that sense that the Mishnah uses it, while biblical *gam* is essentially absent
-from the Mishnah except where a pasuk is quoted (*Sotah* 1:9 quoting Bereishis
-50:9; *Yadayim* 4:4 quoting Devarim 23:4) and once for the shape of the Greek
-letter gamma (*Keilim* 14:8).
+In the Aramaic portions of Tanach *af* appears three times and always means
+"even, also" (Daniel 6:23, Ezra 5:10, 6:5). On that basis Professor Edward
+Yechezkel Kutscher conjectures that because the Aramaic *af* was unambiguous,
+Chazal went on using *af* exclusively in that sense in Rabbinic Hebrew, and so
+far that it displaced the very common biblical *gam* (772 appearances in Tanach
+by Even-Shoshan's concordance). *Gam* never appears in the Mishnah except where
+a pasuk is being quoted (*Sotah* 1:9 quoting Bereishis 50:9; *Yadayim* 4:4
+quoting Devarim 23:4) and once for the shape of the Greek letter gamma
+(*Keilim* 14:8).
+
+For the organ itself, *af* was displaced in Rabbinic Hebrew by *chotem*.
+Kutscher asks what drove Chazal to replace a Biblical word with a new one that
+does not appear in Tanach, and finds it the more striking because words for an
+ordinary body part usually have the strongest staying power in a language. The
+usual answer, that Rabbinic Hebrew is more heavily influenced by Aramaic, he
+rejects here, doubting that *chotem* is really Aramaic at all: it never appears
+in Targum Onkelos and is not used in later dialects of Aramaic either. He
+proposes instead that Chazal preferred the newly coined *chotem* in order to
+retire the archaic and ambiguous *af*, which could mean nose, anger, or "even,
+also, although." The counts support the ambiguity: by Even-Shoshan's
+concordance, of 414 appearances of *af* in Tanach only 22 mean "nose." Kutscher
+notes that *af* nonetheless survives in fixed compound phrases even in Rabbinic
+Hebrew: *nizmei ha'af*, nose-rings (*Keilim* 11:8, a phrase already at
+Yeshayahu 3:21), *mei ha'af*, literally water of the nose (*Tosefta Shabbos*
+8:28, *Zavim* 5:2), and two phrases taken over from biblical wording, *charon
+af* for Hashem's anger (*Sanhedrin* 10:6) and *erech apayim* for His slowness
+to anger (*Avos* 4:1, 5:2).
 
 ### chotem (חוטם)
 Not in Tanach; standard in the Mishnah. Identifying a dead man so his widow may
@@ -70,7 +101,8 @@ remarry requires seeing his *chotem* (*Yevamos* 16:3); it appears twice in the
 whether nasal fluid makes produce susceptible to *tumah* (*Machshirin* 6:5).
 Plural, it is unmistakably nostrils: the two pipe-holes at the southwest corner
 of the Mizbeiach "like two thin *chotmin*" (*Middos* 3:2), and the two *chotmim*
-of a developed fetus like two flies' eyes (*Niddah* 25a). By extension it is any
+of a miscarried fetus whose limbs have begun to form, said to resemble the two
+eyes of a fly (*Niddah* 25a). By extension it is any
 nose-shaped taper, such as the stem end of an esrog (*Sukkah* 35b; also *Niddah*
 47a).
 
@@ -81,21 +113,29 @@ Rashi (to Shemos 15:8 and Yeshayahu 48:9): *echetam* is holding back from anger,
 the figurative closing up of the nose that keeps the anger in; Rabbi Yosef Kara,
 Ibn Ezra and Radak (to Yeshayahu 48:9, and Radak in *Sefer HaShorashim*) read
 much the same, as does the Zohar (*Mishpatim* 122b, *Haazinu* 289a and 294a).
-Menachem Ibn Saruk defines *echetam* as "I forgive," with no reference to the
-nose. *Bamidbar Rabbah* 5:6 reads it as though the middle letter were a *tav*,
+Menachem Ibn Saruk (*Machberes Menachem*) defines *echetam* as "I am
+forgiving," noting no connection between that word and *chotem*.
+*Bamidbar Rabbah* 5:6 reads it as though the middle letter were a *tav*,
 *chasum*, sealed shut. Rabbi Moshe Yair Weinstock reads *chomet*, one of the
 eight *sheratzim* (Vayikra 11:30), as a metathesis of *chotem*, a creature that
 digs with its pointed snout.
 
 *Baal HaChotem* as an epithet: the Zohar (*Naso* 130b) has Rav Hamnuna Sabba
 davening to the *Baal HaChotem*, Hashem in His slowness to anger. The Gemara
-(*Taanis* 29a) calls Rabban Gamliel *Baal HaChotem* without explanation; Rashi
-there takes it as the nose being the centerpiece of the face, as the *Nasi* was
-the centerpiece of his generation, and Maharsha adds that the nose is a limb one
-cannot live without, as Israel could not do without him. The Smak is likewise
-called *Ri Baal HaChotem*, which Rabbi David Conforte attributes to hair growing
-on his nose; the *Ben Ish Chai* (*Torah Lishmah* 421) rules that whether such a
-nickname may be given to a man with a large nose depends on the context.
+(*Taanis* 29a) calls Rabban Gamliel *Baal HaChotem* when he was taken to be
+martyred by the Romans, and offers no explanation of the appellation; Rashi
+there takes it as the nose being the aesthetic centerpiece of the face, as the
+*Nasi* was the centerpiece of his generation, and Maharsha adds that the nose
+is a limb one cannot live without, as Klal Yisrael of that time could not do
+without him. Rabbi Avraham Nissan Orenstein, in his encyclopedia of Jewish
+honorifics, cites some scholars who take the nickname as a pun on the closeness
+of the title *Nasi* to the Latin *naso*/*nasus*, "nose," which is the historical
+etymon of the English *nose*, *nasal*, *nostril*, *nozzle* and *nuzzle*, and of
+the Yiddish *noz*. The Smak is likewise called *Ri Baal HaChotem*, which Rabbi
+David Conforte attributes to hair growing on his nose; and asked whether such a
+nickname may be given to a man with a large nose, the *Torah Lishmah* (421),
+under the name Rabbi Yechezkel Kochali, usually understood as a penname for the
+*Ben Ish Chai*, answered that it depends on the context.
 
 ### nichirayim (נחירים)
 Once in Tanach: "from his nostrils goes forth smoke" (Iyov 41:12). Menachem Ibn
@@ -103,8 +143,8 @@ Saruk, Ibn Janach, Rabbi Shlomo Ibn Parchon and Radak give the root נ-ח-ר, wh
 also yields snorting and braying (Iyov 39:20, Yirmiyahu 6:29 and 8:16). Rabbi
 Shlomo Pappenheim works instead from the two-letter ח-ר, "other than the one
 before us," which yields *acher*, *machar*, *achar* and *achor*; from *achor*
-comes *chor*, a hole, and *nichirayim* is a tributary of *chor*, since a nostril
-is a hole in the face. He derives two further words from it: *charon*, anger,
+comes *chor*, a hole, since every person has a *chor* on his backside, and
+*nichirayim* is a tributary of *chor*, since a nostril is a hole in the face. He derives two further words from it: *charon*, anger,
 from the flaring nostrils, and *charum* (Vayikra 21:18), the blemish of a
 drooping nose. Rabbi Binyamin Mussafia adds the rabbinic *nechirah*, killing an
 animal by stabbing the neck, also a hole. David's warrior Nachrai (Shmuel II
@@ -151,7 +191,11 @@ Daniel 6:23; Ezra 5:10, 6:5; Divrei HaYamim I 11:39; Mishnah *Yevamos* 16:3,
 Shabbos* 8:28 and *Zavim* 5:2; *Sanhedrin* 52a, *Niddah* 25a and 47a, *Sukkah*
 35b, *Taanis* 29a, *Berachos* 56b and 61b, *Shabbos* 151b; *Bamidbar Rabbah*
 5:6; Zohar *Mishpatim* 122b, *Naso* 130b, *Haazinu* 289a and 294a; Rabbi Eliyahu
-Bachur, *Meturgeman*; *Torah Lishmah* 421. The article's academic
-linguistic-history argument (Prof. E. Y. Kutscher), its counts from Even-Shoshan's
-concordance, and its Latin and Arabic comparisons are omitted here under house
-rule 9.
+Bachur, *Meturgeman*; *Torah Lishmah* 421.
+
+Prof. Edward Yechezkel Kutscher's linguistic-history argument, the counts from
+Even-Shoshan's concordance, and the Latin and Arabic comparisons had been
+dropped from an earlier version of this entry under a mistaken sources rule;
+they are restored above, since the column cites them and the entry's own claim
+that *af* means "nose" only in a minority of pesukim rests on Kutscher and
+Even-Shoshan.

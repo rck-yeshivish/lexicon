@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:7176 "Party Hardy" (2017-03-11) https://articles.ohr.edu/articles/party-hardy
 authorities: [Radak, Rabbi Tzaddok HaKohen of Lublin, Rashi, Rashbam, Rabbi Levi Yitzchok of Berditchev]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Meal: seudah / mishteh / mesibah
 
@@ -29,26 +29,32 @@ word actually names: the bread, the wine, or the posture.
 ## Distinctions
 
 ### seudah (סעודה)
-Not a biblical word. Radak (*Sefer HaShorashim*): Chazal formed *seudah* from
-the biblical *saad*, which is supporting or sustaining, both of an argument
-(a proof that supports it) and of a body (food that sustains it). Tanach uses
-the verb *saad* with bread: *v'lechem levav enosh yis'ad* (Tehillim 104:15),
-*s'ad libcha pas lechem* (Shoftim 19:5), *v'es'adu libchem* (Bereishis 18:5).
-The name Saadia, as in Rabbeinu Saadia Gaon, is "support from Hashem." So a
-*seudah* is named for what the meal does for the body.
+Not a biblical word, though it is the word for each of the three meals of
+Shabbos (*Shabbos* 117b). Radak (*Sefer HaShorashim*): Chazal modified the
+biblical *saad* to form *seudah*. *Saad* is supporting or sustaining, both in a
+rhetorical way (a proof that supports an argument) and in a physical way (food
+that sustains the body). In a handful of places Tanach uses the verb *saad*
+with bread: *v'lechem levav enosh yis'ad* (Tehillim 104:15), *s'ad libcha pas
+lechem* (Shoftim 19:5), *v'sa'adu libchem* (Bereishis 18:5). The name Saadia,
+most famously borne by Rabbeinu Saadia Gaon (882-942), is "support from
+Hashem." So a *seudah* is named for what the festive meal does for the body.
 
 ### mishteh (משתה)
-Some fifty occurrences in Tanach, from *shosah*, to drink. Rabbi Tzaddok HaKohen
-of Lublin (1823 to 1900): *seudah* and *mishteh* are both festive meals, but the
-first centers on eating and the second on drinking, which is why *seudah* goes
-with bread and the Shabbos table while *mishteh* goes with wine and the Purim
-meal that recalls the *mishtaos* of the Megillah. Against this, note that Rashi
-(to Shir HaShirim 1:2, Koheles 2:3 and Esther 5:4) makes wine the defining
-element of a joyous *seudah* as well, so the line is one of emphasis, not a
-wall. Rabbi Levi Yitzchok of Berditchev (*Kedushas Levi*, Vayeira) reads
-*mishteh* as a meal of gladness, and explains that Esther's party for Haman and
-Achashverosh is called a *mishteh* because it brought gladness to Klal Yisrael:
-through it Haman was hanged and the decree undone.
+The word and its derivatives appear close to fifty times in Tanach, from the
+verb *shoseh*, to drink. Rabbi Tzaddok HaKohen of Lublin (1823 to 1900):
+*seudah* and *mishteh* are both festive meals, but the first centers on eating
+and the second on drinking, which is why *seudah* goes with bread and the
+Shabbos table while *mishteh* goes with wine and the Purim meal that
+commemorates the wine banquets of Megillas Esther. The column enters a "see,
+however" against this, without resolving it: Rashi (to Shir HaShirim 1:2,
+Koheles 2:3 and Esther 5:4) writes that the defining element of an enjoyable,
+joyous *seudah* is the wine. Rabbi Levi Yitzchok of Berditchev (1740-1810,
+*Kedushas Levi*, Parshas Vayeira) reads *mishteh* as a meal of gladness, and on
+that basis explains that the party to which Esther invited Haman and
+Achashverosh is called a *mishteh* because it brought gladness to the Jews:
+through it Esther persuaded Achashverosh to execute Haman and rescind the
+decree, a victory that has brought gladness for generations and is celebrated
+each year on Purim.
 
 ### mesibah (מסיבה)
 Arguably once in Tanach (Rashbam to Shir HaShirim 1:12). Rashi (to Amos 2:8):
@@ -56,9 +62,10 @@ the word names the fact that those at the meal would recline, the practice of
 *haseibah*. The Mah Nishtanah preserves the usage: on other nights we eat
 *bein yoshvin uvein mesubin*, sitting or reclining, and tonight only reclining.
 So a *mesibah* is a meal taken slouched on couches rather than sitting upright,
-and from there the word was borrowed for any gathering or party. The article
-records a contemporary suggestion tying *mesibah* to *sovev* and *sevivah*, the
-guests gathering around, and marks it as unsubstantiated.
+and from there the word was borrowed for any gathering or party. One
+contemporary linguist argues instead that *mesibah* is related to
+*sovev*/*sevivah*, "around," and names the fact that everyone gathers around
+for a party; the column answers that this claim remains unsubstantiated.
 
 ## Rendering guidance
 

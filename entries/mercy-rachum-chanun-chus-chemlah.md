@@ -13,8 +13,8 @@ words:
 sources:
   - wiaw:7679 "Mercy or Pity" (2018-03-10) https://articles.ohr.edu/articles/mercy-or-pity
 authorities: [Rabbeinu Bachaya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Mercy: rachum / chanun / chus / chemlah
 
@@ -33,20 +33,30 @@ gracious," never "merciful and merciful."
 ## Distinctions
 
 ### rachum (רחום), rachamim (רחמים)
-Rabbeinu Bachaya (on Shemos) first treats *rachum* and *chanun* together as
-Hashem's forgiving of those who repent and suffer, and elsewhere as one and the
-same attribute, His heeding prayer in distress even before repentance, citing
-that Tanach pairs them in either order. The column's own analysis: *rachum*
-focuses on the savior, who sees the victim's state, feels for him, and decides
-to save; he acts, in a sense, for his own sake. Bechor-Shor: *rachum* is for
-the poor, mercy that lifts one out of a dismal situation. Gloss to Tosafos
-(Rosh Hashanah 17b): *rachamim* is Hashem withholding a calamity before it
-falls. Rabbi Elazar Rokeach of Worms: *rachum* acts beyond the letter of the
-law (others reverse this: *rachum* only for one who asks). Rabbeinu Bachaya
-again: *rachamim* is Hashem's general oversight of the world. Ibn Ramoch (to
-Tehillim 86:16, 112:4, 145:8): *rachum* saves from any suffering. Malbim:
-*rachmanus* applies only to an intelligent being; one pities a child or an
-animal differently from an adult.
+Both *rachum* and *chanun* are of the Thirteen Attributes of Mercy that Hashem
+revealed to Moshe as he prayed for the Jewish People after the golden calf,
+attributes that are key to how Hashem runs the world and to how a man attains
+atonement; the column notes that although we generally refrain from adjectives
+in describing Hashem, these are presented as such. Rabbeinu Bachaya (on Shemos)
+writes that *rachum* and *chanun* are Hashem's way of forgiving sinners who ask
+forgiveness, repent and undergo some affliction, but he does not there explain
+how the two differ; elsewhere he writes that they are actually one and the same
+attribute, His heeding prayer in time of need even before that person has
+repented, and finds support in the fact that Tanach often uses them together,
+sometimes in one order and sometimes in the other. The column's own analysis,
+by way of an analogy from the relationship between a victim and one with the
+power to save him: *rachum* focuses on the savior, who sees the victim's
+downtrodden state, empathizes with him, and ultimately decides to save; he acts
+not necessarily for the victim's sake but, in a sense, for his own. Bechor-Shor:
+*rachum* is for the poor, mercy that lifts one out of a dismal situation. Gloss
+to Tosafos (Rosh Hashanah 17b): *rachamim* is Hashem withholding a calamity
+before it falls. Rabbi Elazar Rokeach of Worms: *rachum* acts beyond the letter
+of the law (others explain the opposite: *rachum* only for one who asks for
+mercy). Rabbeinu Bachaya again: *rachamim* is Hashem's general oversight of the
+world. Rabbi Avraham bar Chaim Ibn Ramoch, who lived in Spain at the beginning
+of the Spanish Inquisition (to Tehillim 86:16, 112:4, 145:8): *rachum* saves
+from any form of suffering. Malbim: *rachmanus* applies only to an intelligent
+being; one pities a child or an animal differently from an adult.
 
 ### chanun (חנון), chein (חן)
 The column: *chanun* focuses on the victim, who finds favor (*chein*) in the
@@ -54,9 +64,9 @@ savior's eyes (with Hashem, through prayer) or is simply granted (*choneh*) a
 reprieve. Rashi (to Devarim 3:23): *chanun* recalls *matnas chinam*, a free
 gift, relief not necessarily deserved. Bechor-Shor: *chanun* is for the rich,
 a present regardless of need. Gloss to Tosafos: *chanun* is a special reprieve
-granted in the midst of distress. Rokeach: *chanun* works within justice,
-heeding a call for clemency (others: *chanun* is even for one who does not
-ask). Rabbeinu Bachaya: *chanun* is His particular oversight of each element of
+granted in the midst of distress. Rokeach: *chanun* uses the system of justice to heed
+another's call for clemency (others explain the opposite: *chanun* is even for
+one who does not request mercy). Rabbeinu Bachaya: *chanun* is His particular oversight of each element of
 creation. Ibn Ramoch: *chanun* grants intellectual gifts by which a man helps
 himself.
 
@@ -74,7 +84,7 @@ ask for help, a child or one without the faculties to ask.
 - רחום / רחמים: "merciful," "mercy," "compassion"; רחמנות as a middah:
   "compassion" (or transliterate *rachmanus* in a mussar text).
 - חנון / חן: "gracious," "grace," "favor"; חנינה: "pardon," "clemency."
-- חוס / חס: "spare," "have regard for" (Yonah's *chasta* on the kikayon reads
+- חוס / חס: "spare," "have regard for" (Yonah 4:10, *chasta* on the kikayon, reads
   "you took pity on," but the sense is sparing a loss); חמלה: "pity,"
   "compassion for" in the sense of not letting a thing be spoiled.
 - Trap: English "mercy" and "pity" each absorb three of these. In the
@@ -94,6 +104,10 @@ None yet.
 Rabbi Reuven Chaim Klein, "Mercy or Pity," What's in a Word?, Ohr Somayach,
 23 Adar II 5778 (2018-03-10): raw text in
 `sources/whats-in-a-word/raw/7679-mercy-or-pity.md`. Primary loci the article
-cites: the Thirteen Attributes (Shemos 34:6) with Rabbeinu Bachaya there; Rashi
-to Devarim 3:23; gloss to Tosafos, Rosh Hashanah 17b; Ibn Ramoch to Tehillim
-86:16, 112:4, 145:8; Malbim on *chus* and *chemlah*.
+cites: Rabbeinu Bachaya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos,
+Rosh Hashanah 17b; Ibn Ramoch to Tehillim 86:16, 112:4, 145:8; Malbim on *chus*
+and *chemlah*. Two things the article does not supply: it gives no chapter and
+verse for the Thirteen Attributes (they are Shemos 34:6-7, and *rachum
+v'chanun* is in 34:6), and it names Wertheimer only as "Rabbi Wertheimer," the
+fuller name in the front matter here being an identification of ours. The Yonah
+4:10 example under Rendering guidance is likewise ours, not the article's.

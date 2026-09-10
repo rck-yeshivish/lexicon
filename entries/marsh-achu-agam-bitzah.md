@@ -11,8 +11,8 @@ words:
 sources:
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
 authorities: [Rashi, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe ben Shem Tov Gabbai, Ibn Janach, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Meir HaKohen Glanzer]
-status: draft
-updated: 2026-09-09
+status: reviewed
+updated: 2026-09-10
 ---
 # Marsh: achu / agam / bitzah (suf)
 
@@ -65,8 +65,9 @@ it.
 Three times in Tanach: Iyov 8:11 and 40:21, Yechezkel 47:11. Muddy, swampy
 ground, from *botz*, mud (Yirmiyahu 38:22). Rabbi Shlomo Pappenheim takes both
 from the two-letter ב-צ, matter of a mucus-like consistency, whose commonest
-derivative is *beitzah*, an egg, gooey inside. Mud fits: not pourable like
-water, not solid either. He also puts *butz* here (Esther 1:6, 8:15, Yechezkel
+derivative is *beitzah*, an egg, gooey inside (the column notes in passing that
+the singular *beitzah* never appears in Tanach, only the plural *beitzim*, as at
+Devarim 22:6). Mud fits: not pourable like water, not solid either. He also puts *butz* here (Esther 1:6, 8:15, Yechezkel
 27:16), linen from flax grown in wet ground like a *bitzah*'s. Rashi renders
 *bitzah* as *maresc* (to Yechezkel 47:11, Iyov 8:11, *Bava Metzia* 74a), and the
 Talmudic *bitzaim* / *bitzaei mayim*, spelled with an ayin, the same way (to
@@ -101,6 +102,10 @@ Suf* is the Sea of Reeds.
 - אחו in Bereishis 41: if the translation follows Ramban, "in the reed grass";
   if Rashi, "in the marsh." Say which; the pesukim about Pharaoh's cows read
   differently under each.
+- On "marsh" against "swamp" in English, the column uses the two
+  interchangeably, and closes by noting from Google Books' Ngram Viewer that
+  *marsh* was the more common word in print from 1800 to 1850, *swamp* from 1850
+  to 1970, *marsh* again from 1970 to 2000, and *swamp* once more since.
 
 ## Notes for a project
 
@@ -117,9 +122,8 @@ Rashi; Shemos 2:3 and 13:18 with Rashi; Iyov 8:11 and 40:21; Yechezkel 47:11 and
 *Sefer HaShorashim*; Rashi to *Taanis* 22a, *Yevamos* 121a, *Sanhedrin* 5b and
 96a, *Shevuos* 16a, *Bava Metzia* 74a; *Maayanei Agam*.
 
-Citation note: the article gives Devarim 22:6 and "Yechezkel 30:9" as the
-biblical occurrences of *beitzim* in the plural. The word does not appear in
-Yechezkel 30:9; other plural occurrences are Yeshayahu 10:14 and 59:5.
-
-Omitted: the closing note comparing the English words *marsh* and *swamp* by
-Google Books Ngram frequency.
+Citation note, ours and not the column's: the article gives Devarim 22:6 and
+"Yechezkel 30:9" as the biblical occurrences of *beitzim* in the plural. The
+consonants בצים do stand at Yechezkel 30:9, but in the sense of ships, not eggs;
+the entry therefore cites only Devarim 22:6. Other genuine plural occurrences are
+Yeshayahu 10:14 and 59:5.

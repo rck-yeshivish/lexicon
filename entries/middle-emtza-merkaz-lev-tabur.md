@@ -7,9 +7,9 @@ english: [middle, center, midst, heart, core, navel]
 domain: other
 sources:
   - wiaw:9785 "In the Middle" (2022-07-16) https://articles.ohr.edu/articles/in-the-middle
-authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Rabbi Eliyahu HaBachur, Rabbi Shmuel Ibn Tibbon, Rabbi Dovid Golumb, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Ramban]
-status: draft
-updated: 2026-09-09
+authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Rabbi Eliyahu HaBachur, Rabbi Shmuel Ibn Tibbon, Rabbi Dovid Golumb, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Ramban, Avraham Even-Shoshan]
+status: reviewed
+updated: 2026-09-10
 ---
 # Middle: emtza / merkaz / lev / tabur
 
@@ -28,13 +28,26 @@ yamim* as "in the center of the sea."
 
 ### emtza (אמצע)
 Everywhere in the Mishnah, nowhere in Tanach. Rabbi Eliyahu HaBachur (*Sefer
-HaTishbi*, his lexicon of rabbinic Hebrew) gives the root as מ-צ-ע. The
+HaTishbi*, his lexicon of rabbinic Hebrew) traces the root to מ-צ-ע. The
 classical lexicographers (Menachem Ibn Saruk, Ibn Janach, Ibn Parchon in
 *Machberes HeAruch*, Radak) hold there is no such root in Biblical Hebrew at
 all: the one candidate word, *matza*, a mat (Yeshayahu 28:20), they derive from
-י-צ-ע, spreading out or laying out bedding. Rabbi Klein suggests that HaBachur
-may have seen the link exactly there, since unrolling a folded sheet exposes
-its middle.
+י-צ-ע, spreading out or laying out bedding. Rabbi Klein suggests that perhaps
+HaBachur saw the link exactly there, since unfurling a folded or rolled sheet
+reveals the inside, the "middle," of the material.
+
+Two dissents from the secular lexicographer Avraham Even-Shoshan (1906-1984),
+both of which the column cites. In his concordance of Biblical Hebrew he does
+trace *matza* to מ-צ-ע, against the classical lexicographers, though his
+etymology of *emtza* itself is a different one: in his "new dictionary" of
+Hebrew he argues that post-biblical *emtza* derives from the Greek *mesos*,
+"middle," the same Greek word behind *Mesopotamia*, the land in the middle of
+the Euphrates and the Tigris, and behind the scientific *meson*, a subatomic
+particle found in the middle of a nucleus. Linguists, the column reports, hold
+that Greek *mesos* comes from the Proto-Indo-European *medhyo*, which also
+yields Germanic *midja* and Latin *medius*, and through them the English
+*middle*, *medium*, *mediocre*, *mediate*, *midwife*, *medieval*,
+*Mediterranean* and *meridian*.
 
 In Talmudic and Targumic Aramaic the initial *aleph* drops and the word is
 *metzia* or *metziyasa* (Targum to Bereishis 1:6, 2:9; Shemos 26:28; Shoftim
@@ -42,64 +55,105 @@ In Talmudic and Targumic Aramaic the initial *aleph* drops and the word is
 beside *Bava Kama* and *Bava Basra*, and not *Bava Emtzai*.
 
 ### merkaz (מרכז)
-From ר-כ-ז, concentrating; modern Hebrew *rikuz* covers both a juice
+Seemingly from ר-כ-ז, concentrating; modern Hebrew *rikuz* covers both a juice
 concentrate and concentrating on one's learning. Neither *merkaz* nor any
 cognate occurs in Biblical or Mishnaic Hebrew. It enters in medieval works
-translated from Judeo-Arabic by the Ibn Tibbon family: Rabbi Shmuel Ibn Tibbon,
-who translated the Rambam's *Moreh Nevuchim*, writes in his *Peirush HaMilos
-HaZaros* that he borrowed *merkaz* from Arabic for the point within a circle
-from which all lines to the circumference are equal.
+translated from Judeo-Arabic by the Ibn Tibbon family: Rabbi Shmuel Ibn Tibbon
+(1150-1230), who translated the Rambam's *Moreh Nevuchim*, writes in his
+*Peirush HaMilos HaZaros* that he borrowed *merkaz* from Arabic for the point
+within a circle from which all lines to the circle are congruent, which is a
+fancy way of saying its middle. The great etymologist Rabbi Dr. Ernest Klein
+(1899-1983) agrees that Hebrew *merkaz* comes from the Arabic *markaz*
+("foothold, center, station"), itself borrowed from the Akkadian *markasu* ("a
+spot for tying"), which in turn derives from the Akkadian *rakasu* ("to
+fasten").
 
-Rabbi Dovid Golumb (*Targumna*) proposes that the late root ר-כ-ז comes from
-the earlier ר-כ-ס through the interchange of *zayin* and *samech*; Rabbi Ernest
-Klein hints at the same, and Rabbi Yehoshua Steinberg reached it independently.
-ר-כ-ס appears four times in Tanach: twice as a verb, of fastening the choshen
-to the ephod (Shemos 28:28, 39:21), and twice as a noun, *rechasim*, a mountain
-range (Yeshayahu 40:4), and of a man's hardships (Tehillim 31:21). Ibn Janach
-(*Sefer HaShorashim*) and Rav Hirsch (Bereishis 12:5) take the core sense as a
-strong, unbreakable bond made by tying; Ibn Janach and Ibn Parchon explain the
-mountain range from the strength its terrain demands. Rabbi Aharon Marcus
-(*Keses HaSofer* there) gives the core sense as gathering and attaching, and on
-interchanges derives *rechush* and *nechasim* (property) and *rochel* (a
-peddler, who gathers goods to sell). If the root means tying together, the knot
-is where the connection is strongest and most concentrated, and a thing's
-middle is generally its thickest part, so the step to center is short.
+Despite Ibn Tibbon's admission that the word comes from Arabic, the column
+holds there is still room to see something Hebraic in it. Rabbi Dovid Golumb
+(1861-1935, *Targumna*) conjectures that the late root ר-כ-ז actually comes
+from the earlier ר-כ-ס through the interchange of *zayin* and *samech*; Rabbi
+Ernest Klein, in his *A Comprehensive Etymological Dictionary of the Hebrew
+Language for Readers of English*, similarly insinuates a connection between the
+two roots, and Rabbi Yehoshua (Jeremy) Steinberg of the Veromemanu Foundation
+arrived at the same conclusion independently. ר-כ-ס appears four times in
+Tanach: twice as a verb, of fastening the choshen to the ephod (Shemos 28:28,
+39:21), and twice as a noun, *rechasim*, a mountain range (Yeshayahu 40:4), and
+of a man's hardships (Tehillim 31:21). Most commentators take the core sense of
+the root as something strong or hard, differing only in how each case fits:
+Ibn Janach (*Sefer HaShorashim*) and Rav Hirsch (Bereishis 12:5) read the
+fastening as a strong, unbreakable bond made by tying; Ibn Janach and Ibn
+Parchon explain the mountain range from the strength and effort its terrain
+demands; and a man's hardships are strong obstacles standing in the way of
+life. Rabbi Aharon Marcus (*Keses HaSofer* there) similarly gives the core
+sense as gathering and attaching, tying two things together being a way of
+gathering them into one entity, and a mountain range being mountains attached
+to each other geographically; on interchanges of letters he derives from the
+same root *rechush* and *neches*/*nechasim* (property, what a man accrues) and
+*rochel* (a merchant, who gathers up commodities to sell, the samech and lamed
+interchange being attested in various ancient languages, most notably
+Egyptian). From all of this, the column concludes, it seems the root's
+principal sense is tying together; the knot is where the connection is
+strongest and most concentrated, and a thing's middle is generally where the
+concentration is highest, the extremities being thinner, so the semantic jump
+from ר-כ-ס to ר-כ-ז is not so far.
 
 Like English "central," *merkaz* has drifted from the geometric to the
 important: the *tachanah hamerkazis* is the main bus station and *merkaz ha'ir*
 is where things happen, neither of them necessarily the geometric middle.
 
 ### lev (לב)
-The heart, and by extension the middle of anything, since it sits roughly in
-the middle of the body. Tanach speaks of the *lev* of the terebinth (Shmuel II
-18:14), the *lev* of the seas (Shemos 15:8; Yechezkel 27:4, 27:25-27, 28:2,
-28:8; Tehillim 46:3), and the *lev* of the heavens (Devarim 4:11; the article
-prints 4:10). Rabbi Shlomo Pappenheim: the biliteral ל-ב means heart, and in
+Primarily the life-giving organ that pumps blood, and by extension the middle
+of anything, since it sits roughly in the middle of the body. So Tanach speaks
+of the *lev* of the *elah* tree (Shmuel II 18:14; the column calls it an elm),
+the *lev* of the seas (Shemos 15:8; Yechezkel 27:4, 27:25-27, 28:2, 28:8;
+Tehillim 46:3), and the *lev* of the heavens (Devarim 4:11; the article prints
+4:10), though trees, waters and heavens have no literal hearts. Rabbi Shlomo
+Pappenheim (1740-1814): the biliteral ל-ב means heart, and in
 the borrowed sense *lev* is whatever sits at the center or plays a central part
 in a process. He puts a wide family on this root: *lavi* (lion, since fear
-comes of blood massing in the heart and the lion's is small, so he fears less),
-*levivah* (a wafer, either because it sustains the heart or because it was
-heart-shaped), and by way of *lahav* (flame, from the middle of the fire) a
-whiteness cluster, *leveinah* (brick, fired in a kiln), *lavan*, *levanah* (the
-moon, white against the reddish sun), *livneh*, *Levanon* and *levonah*. In
-rabbinic Aramaic *aliba*, "according to," is literally "on the heart of."
+comes of blood massing in the heart and lions apparently have small hearts, so
+are less prone to fear), *levivah* (a wafer, in modern Hebrew a latke, called
+so either because it sustains a man's heart or because it was a heart-shaped
+delicacy), and by way of *lahav*/*lehavah* (flame, which comes from the middle
+of a fire) a whiteness cluster: *leveinah* (brick, made by being placed in a
+kiln fire), *lavan* (white, the color things put into fire often turn),
+*levanah* (the moon, white against the reddish sun), *livneh* (Populus alba, a
+white tree), *Levanon* (the region where the *livneh* commonly grows) and
+*levonah* (frankincense, a whitish resin).
+
+In rabbinic parlance *aliba*, "according to," also comes from *lev*, the
+Aramaic meaning literally "on the heart of." The column adds a discovery of its
+own, that *aliba* parallels the etymology of the English *according*. English
+*heart* and its Germanic cognates such as *herz* are related to Latin *cord*
+and Greek *kardia*, some Indo-European languages using an *h* where others use
+*c* or *k* (as in *cent* against *hundred*, *cap* against *head*), so that
+*core*, *crux*, *cardinal* and *cardiology* all belong with *heart*, and the
+Cardo of the Old City of Jerusalem is named for running through the heart of
+the city. *According* comes from French *accord*, colloquially "agree" but
+literally "to be of one heart." Both terms, then, tie "according to" to the
+word for heart in their own language.
 
 ### tabur (טבור)
 In the Mishnah it is the navel (Shabbos 18:3, Sotah 9:4, Bechoros 7:5), and
-that appears to be the original sense. In Tanach it occurs twice only, both
-times as *tabur ha'aretz*, the middle of the land (Shoftim 9:37, Yechezkel
-38:12). The same move as *lev*, from an organ in the middle of the body to the
-middle of anything; and as the *lev* is essential to life, the *tabur* is what
-sustains a fetus. The article raises, without a source, whether *tabur* might
-also extend to "the chief point" the way *lev* does, and marks that it has not
-seen an example.
+that seems to be the original sense. In Tanach it occurs twice and only twice,
+both times as *tabur ha'aretz*, the middle of the land (Shoftim 9:37, Yechezkel
+38:12). The same move seems to have happened as with *lev*, from an organ in
+the middle of the body to the middle of anything; and just as the *lev* is
+essential to life, so the *tabur* is what sustains a fetus in its mother's
+womb. The column raises, on its own and without a source, whether *tabur* might
+also extend to the essential or chief point within a discussion the way *lev*
+does, and says plainly that it has not yet seen an example. (It also points the
+reader to its own earlier essay on the name Tiberias and *tabur*.)
 
 ### what is not "middle"
 The prefix *beis*, and *besoch*/*tichon*, *bekerev*/*kerev*, and *gav*/*go*,
-all read as middle in translation but properly mean **inside**. Even where
-Targum and Rashi render *besoch* (Bereishis 2:9) with *emtza*, *besoch* does not
-mean the exact middle but simply somewhere off the edge; see Ramban there and
-*Shu"t Maharit* vol. 2, Even HaEzer 8.
+can all be read as middle, but their more accurate sense is **inside**; the two
+are easy to confuse, since the middle is just the innermost point of a circle
+or regular polygon. Even where Targum and Rashi render *besoch* (Bereishis 2:9)
+with *emtza*, *besoch* does not typically mean the exact middle but simply
+somewhere not necessarily along the edge; see Ramban there and *Shu"t Maharit*
+vol. 2, Even HaEzer 8. The column leaves these words themselves for a future
+essay.
 
 ## Rendering guidance
 
@@ -133,8 +187,7 @@ Yeshayahu 28:20, 40:4; Bereishis 1:6, 2:9, 12:5; Shemos 15:8, 26:28, 28:28,
 39:21; Devarim 4:11 (the article prints 4:10); Shoftim 9:37, 16:29; Shmuel II
 18:14; Yechezkel 27:4, 27:25-27, 28:2, 28:8, 38:12; Tehillim 31:21, 45:10,
 46:3, 135:9; Iyov 20:13; Shabbos 18:3; Sotah 9:4; Bechoros 7:5; Ramban to
-Bereishis 2:9; *Shu"t Maharit* vol. 2, Even HaEzer 8. The article's Greek and
-Indo-European derivations of *emtza*, its Akkadian derivation of *merkaz*, the
-excursus on the English word "according," and the dictionary of a
-twentieth-century secular lexicographer are all omitted here (house rule 9);
-Rabbi Ernest Klein is retained only for the Hebrew ר-כ-ז / ר-כ-ס suggestion.
+Bereishis 2:9; *Shu"t Maharit* vol. 2, Even HaEzer 8. Two renderings of the
+article's are corrected rather than repeated: it prints Deut. 4:10 for *ad lev
+hashamayim*, which is 4:11, and it calls the tree of Shmuel II 18:14 an elm
+where the pasuk has an *elah*.

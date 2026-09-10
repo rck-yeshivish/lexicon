@@ -30,8 +30,8 @@ words:
     nk: כֵּן
 sources:
   - wiaw:11666 "VaEra: Lice Ain't Nice" (2025-01-25) https://articles.ohr.edu/articles/vaera-lice-aint-nice
-authorities: [Ibn Janach, Menachem Ibn Saruk, Ibn Parchon, Radak, Rashbam, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Targum Onkelos, Targum Yonasan, Rashi, Metzudas Tziyon, Malbim, Rabbi Dovid Tzvi Hoffmann, Tosafos, Tosafos HaRosh, Sefer HeAruch]
-status: draft
+authorities: [Ibn Janach, Menachem Ibn Saruk, Ibn Parchon, Radak, Rashbam, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Targum Onkelos, Targum Yonasan, Rashi, Metzudas Tziyon, Malbim, Rabbi Dovid Tzvi Hoffmann, Tosafos, Tosafos HaRosh, Sefer HeAruch, Rabbi Nosson of Rome, Ludovicus de Dieu, Shadal, Rosenmuller, Gesenius, Avraham Even-Shoshan, Alexander Kohut, Peretz Smolenskin, Chaim Tawil, Daniel Vainstub, Rabbi Dr. Yitzchak Greenblatt, Rabbi Shaul Goldman]
+status: reviewed
 updated: 2026-09-10
 ---
 # Lice: kinnim / kinam / kinah (kalmta, parosh)
@@ -43,7 +43,9 @@ updated: 2026-09-10
 rather than of Tanach. The Aramaic is *kalmta*, and in the Gemara *kalmei*. A
 *parosh* is not a louse at all but a **flea**. The trap is treating *kein* in
 Yeshayahu 51:6 and Bamidbar 13:33 as "louse" without saying so; the standard
-reading there is "so, likewise", and the louse reading is Malbim's.
+reading there is "so, likewise", and the louse reading is a minority one, first
+proposed at Yeshayahu 51:6 by the seventeenth century Dutch Protestant scholar
+Ludovicus de Dieu and taken up by others, Malbim among them.
 
 ## At a glance
 
@@ -52,7 +54,7 @@ reading there is "so, likewise", and the louse reading is Malbim's.
 | כנים | kinnim | lice | plural, many individual lice (Ibn Janach, Rashbam, Ibn Ezra) |
 | כנם | kinam | the lice | the species as a whole, not a count (the same lexicographers) |
 | כנה | kinah | a louse | the singular, Mishnaic and Talmudic only; at *Parah* 9:2, a grain pest |
-| קלמתא | kalmta | lice (Aramaic) | the Targum's rendering; the Gemara's *kalmei* is the same word (Rashi to Berachos 51b) |
+| קלמתא | kalmta | lice (Aramaic) | the Targum's rendering; the Gemara's *kalmei* is the same word (Rashi to Berachos 51b); Akkadian *kalmatu*, Canaanite and Arabic *qml* |
 | פרעש | parosh | flea | jumps and is black (*Metzudas Tziyon*); a distinct creature |
 
 ## Where the authorities disagree
@@ -77,19 +79,40 @@ Hirsch's is the plainer reading and needs no assumption about naming taboos.
 Rashbam, Ibn Ezra (to Shemos 8:12), and Ibn Parchon (*Machberes HeAruch*) all
 take pains to say it is not: the root is the biliteral כ-נ, *kinnim* is the
 plural, *kinam* the species. Ibn Saruk and Radak likewise trace the word to
-כ-נ. Rabbi Reuven Chaim Klein suggests against them that the Aramaic *kalmei*
-corresponds to a Hebrew כ-נ-ם, which would make the mem a radical and make
-*kinam* a distinct word from *kinnim* rather than a form of it. The classical
-view is the one to follow; the suggestion is worth knowing where a passage
-turns on why the Torah alternates the two forms.
+כ-נ. Against them stands the column's own thesis, stated at its head: that
+*kinnim* and the two Aramaic words are not synonyms at all but three forms of
+one word. Its reasoning is that no cognate of the Aramaic word turns up in
+Ugaritic or Phoenician, and that just as the kuf of Imperial Aramaic shifts to a
+kaf in Talmudic Aramaic, the lamed of the Aramaic forms may answer to the nun of
+Hebrew *kinam*, on the phonetic interchange of lamed, mem, nun and reish; so
+KAF-LAMMED-MEM would equal KAF-NUN-MEM, the mem in *kinam* would be a radical
+after all, contrary to the classical lexicographers, and Biblical Hebrew would
+hold two distinct words, *kinnim*, the plural of *kinah*, and *kinam*, cognate
+with the Aramaic. The column reports that after framing this it consulted Rabbi
+Dr. Yitzchak (Jared) Greenblatt and Rabbi Shaul Goldman, who agreed the
+supposition is tenable, and that it later found Dr. Alexander Kohut in
+*He'Aruch HaShaleim* citing the maskilic scholar Peretz Smolenskin that Talmudic
+Aramaic KAF-LAMMED-MEM is cognate with Biblical Hebrew KAF-NUN-MEM. The column
+puts its own conclusion conditionally: if the supposition is correct, then
+KAF-NUN-MEM (Biblical Hebrew), KUF-MEM-LAMMED (Canaanite, Imperial Aramaic and
+Arabic), KUF-LAMMED-MEM (Targumic Aramaic and Akkadian) and KAF-LAMMED-MEM
+(Talmudic Aramaic) are one word in different forms. For rendering, the classical
+view is the one to follow; the column's suggestion is worth knowing where a
+passage turns on why the Torah alternates the two forms.
 
 **Whether kein ever means "louse".** Yeshayahu 51:6, "and its inhabitants will
 die *kein*", and Bamidbar 13:33, "and so were we *kein* in their eyes". Targum
-Yonasan and the classical reading: "likewise", "so". Malbim (to both places)
-and Rabbi Dovid Tzvi Hoffmann (to Shemos 8:12) read *kein* as "louse": the
-earth's inhabitants will die like lice, and the *meraglim* felt themselves as
-grasshoppers in their own eyes and as lice in the giants' eyes. The louse
-reading is a *chiddush*; keep "likewise" in the text and Malbim in a note.
+Yonasan and the classical reading: "likewise", "so". At Yeshayahu 51:6 the louse
+reading was first proposed, the column says, by the seventeenth century Dutch
+Protestant scholar Ludovicus de Dieu: the earth's inhabitants will die like
+lice. Shadal cites it, noting that Rosenmuller and Gesenius followed the same
+approach, and Malbim cites it too in his commentary there; Avraham Even-Shoshan
+favors it in his concordance of Biblical Hebrew, as does Rabbi Dovid Tzvi
+Hoffmann (to Shemos 8:12). At Bamidbar 13:33 it is Malbim who, in light of all
+that, suggests reading *kein* as "louse": the *meraglim* felt themselves
+grasshoppers in their own eyes and as insignificant as lice in the giants'.
+The louse reading is a minority one; keep "likewise" in the text and the reading
+in a note.
 
 ## Distinctions
 
@@ -107,21 +130,50 @@ field pest rather than a body louse, a usage worth remembering before rendering
 the word.
 
 ### kalmta (קלמתא) and kalmei (כלמי)
-Targum Onkelos and Targum Yonasan render *kinnim* and *kinam* as *kalmta* (so too
-the Targum to Tehillim 105:31), spelled with a kuf in our editions. The Gemara's
-form is spelled with a kaf: "from rags come *kalmei*" (Berachos 51b), where Rashi
-explains *kalmei* as *kinnim* and identifies the word with the Targum's *kalmta*;
-and at Niddah 20b, where Rava sent Ifra Hormiz a lice-comb to hint that the blood
-she asked about was the blood of crushed lice. The *Aruch* is itself inconsistent
-about the kuf and the kaf.
+Targum Onkelos and Targum pseudo-Yonasan render *kinnim* and *kinam* as *kalmta*
+(so too the Targum to Tehillim 105:31), spelled with a kuf in our editions. The
+Gemara's form is spelled with a kaf: "from rags come *kalmei*" (Berachos 51b),
+where Rashi, following the notion of spontaneous generation, explains *kalmei*
+as *kinnim*, the Gemara meaning that worn-out scraps of cloth generate lice, and
+adduces this from the Targum's *kalmta*, which he treats as a cognate; and at
+Niddah 20b, where Ifra Hormiz, mother of the Sassanian king Shapur II, used to
+send Rava questions about menstrual blood, and Rava sent her a lice-comb to hint
+that the blood she asked about was the blood of crushed lice. The Aramaic word
+has a counterpart in Akkadian *kalmatu*, also lice. *Sefer HeAruch* of Rabbi
+Nosson of Rome is itself inconsistent about the kuf and the kaf (see his entries
+on the roots ס-ר-ק and כ-ל-ם).
+
+A third form of the word stands behind both. In 2022 an international group of
+archaeologists led by Dr. Daniel Vainstub of Ben-Gurion University reported an
+ivory comb bearing a Canaanite inscription reading "May this tooth root out the
+lice (*kamal*) of the hair and the beard." Canaanite is closely related to
+Biblical Hebrew, so a cognate there is unsurprising; what is surprising is that
+the last two consonants are transposed, KUF-MEM-LAMMED rather than
+KUF-LAMMED-MEM. Being Canaanite, the text is almost certainly older than the
+Targumim, so the column takes KUF-MEM-LAMMED as the original Semitic spelling
+and KUF-LAMMED-MEM as a later metathesis; the Canaanite form survives in Arabic
+*quml*, still lice. The Sefire treaty texts, Aramaic inscriptions found in
+northern Syria and dating to the end of the First Temple period, recording a
+treaty between two Syrian kings with its oaths and curses, spell the word the
+same way, KUF-MEM-LAMMED, in a curse calling for lice to do something to a
+violator, though the text breaks off before saying what. Professor Chaim Tawil
+questions rendering that word "lice" at all, since in context it is a
+crop-consuming pest rather than a creature that stays on the body, and reads it
+"vermin of the field," which lines up with the Mishnah's lone *kinah*, the
+*kinah* of the grain (*Parah* 9:2). The column adds that Biblical Hebrew has a
+triliteral ק-מ-ל meaning rotting, molding or withering (Yeshayahu 19:6, 33:9),
+and that the Sefire word may quite possibly be a form of that root instead.
 
 ### parosh (פרעש)
 David tells Shaul it is beneath a king to pursue him, comparing himself to a
 *parosh* (Shmuel I 24:14, 26:20). *Metzudas Tziyon* (to 24:14): a black *kinah*
-that jumps, which is a flea. Ibn Saruk, Ibn Janach, and Radak treat the root as
-the four-letter פ-ר-ע-ש; Rav Hirsch (to Bereishis 25:6) counts it among
-four-letter roots that are really three-letter roots with a shin added. On how a
-*parosh* differs from a *kinah*, see Tosafos and *Tosafos HaRosh* to Shabbos 12a.
+that jumps, which in ordinary speech is a flea. Ibn Saruk, Ibn Janach, and Radak
+treat the root as the four-letter פ-ר-ע-ש; Rav Hirsch (to Bereishis 25:6)
+includes it among four-letter roots that are really three-letter roots with a
+final shin added. Parosh also occurs in Tanach as a man's name, in lists of
+people from the start of the Second Temple period (Ezra 2:3, 8:3, 10:25;
+Nechemiah 3:25, 7:8, 10:15). On how a *parosh* differs from a *kinah*, see
+Tosafos and *Tosafos HaRosh* to Shabbos 12a.
 
 ## Rendering guidance
 
@@ -150,7 +202,11 @@ Bamidbar 13:33 with Malbim; Yeshayahu 51:6 with Targum Yonasan and Malbim, and
 *Metzudas Tziyon*, and 26:20; Bereishis 25:6 with Rav Hirsch; Ezra 2:3, 8:3,
 10:25; Nechemiah 3:25, 7:8, 10:15; *Parah* 9:2; Shabbos 12a with Tosafos and
 *Tosafos HaRosh*, 12b, 107b; Berachos 51b with Rashi; Niddah 20b; Chullin 105b;
-Eruvin 65a; Chagigah 5a; Bava Metzia 107b; Zevachim 19a; *Sefer HeAruch*;
-Pappenheim, *Cheshek Shlomo*. The comparative-Semitic and archaeological material
-and the non-traditional scholars who first read *kein* as "louse" are omitted
-under house rule 9.
+Eruvin 65a; Chagigah 5a; Bava Metzia 107b; Zevachim 19a; *Sefer HeAruch* s.v.
+ס-ר-ק and כ-ל-ם; Kohut, *He'Aruch HaShaleim*; Pappenheim, *Cheshek Shlomo*. The
+comparative-Semitic and archaeological material the article carries (Akkadian
+*kalmatu*, Arabic *quml*, the 2022 Canaanite ivory comb reported by Dr. Daniel
+Vainstub, the Sefire treaty inscriptions with Prof. Chaim Tawil's objection) and
+the scholars the article credits with the "louse" reading of *kein* (Ludovicus
+de Dieu first, then Rosenmuller, Gesenius, Shadal, Even-Shoshan) are reported
+here as the article reports them.
