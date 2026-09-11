@@ -142,7 +142,7 @@ start is headed *mizmor shir*.
   second view); זמירות "hymns," "songs" (Shabbos *zemiros* usually stay transliterated).
 - מזמור as a superscription: "a psalm"; מזמור שיר "a psalm, a song"; keep the
   Hebrew order and let the reader see two nouns.
-- פסוקי דזמרה: "the Verses of Song" (or keep the Hebrew); the column's gloss
+- פסוקי דזמרה: "the Verses of Song" (or keep the Hebrew); Rabbi Klein's gloss
   is "Verses of Hymns."
 - Trap: English "song" absorbs all three, and "sing" absorbs both verbs. Where
   the passage pairs them, or a derashah turns on the order (Malbim's rule),

@@ -9,7 +9,7 @@ words:
   - he: חלק
     tr: chalak
     en: smooth, slippery
-    distinct: simply an adjective meaning smooth, with no process implied (Rabbi Yaakov Tzvi Mecklenburg); the article adds that it also denotes something slippery and the very act of slipping; Yiddish glatt
+    distinct: simply an adjective meaning smooth, with no process implied (Rabbi Klein, in light of Mecklenburg); it also denotes something slippery and the very act of slipping; Yiddish glatt
   - he: שוע
     tr: shua
     en: smoothed, daubed on

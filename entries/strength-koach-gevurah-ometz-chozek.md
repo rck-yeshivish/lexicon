@@ -73,8 +73,8 @@ also borrows the word for elements of nature without free will, like water
 (e.g. Bereishis 7:18-19); for him *gevurah* is the act by which one actualizes
 one's potential *koach*, an outward show of strength. Rabbi Mecklenburg: where
 *koach* withstands what opposes it, *gevurah* is a more proactive use of *koach*
-that seeks to defeat the opposition entirely. Rabbi Klein adds, on his own
-account and conditionally: if *gevurah* entails holding oneself back, Hashem is
+that seeks to defeat the opposition entirely. Rabbi Klein adds: if *gevurah*
+entails holding oneself back, Hashem is
 the immaculate *Gibbor*, holding back His anger and giving the wicked time
 before punishing them (see Yoma 69b), and for this reason He is often called
 *Gibbor* (see Yirmiyahu 32:18 and the daily liturgy). Rabbi Shapira-Frankfurter
@@ -244,7 +244,7 @@ with a persuasive argument.
   strength and strength of heart alike; "strong and courageous" only if
   "courageous" is held for *ometz* throughout. Malbim's temporary against lasting
   strength and Rabbi Shapira-Frankfurter's courage to enter against courage to
-  stay are further readings the column leaves standing; where a passage works
+  stay are further readings; where a passage works
   with one of them, the English should follow it.
 - Trap: "strength" absorbs every word here, "power" absorbs *koach*, *oz* and
   *takif*. When several sit together, assign each its English before drafting

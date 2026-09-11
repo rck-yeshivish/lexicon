@@ -14,7 +14,7 @@ words:
   - he: צביון
     tr: tzivyon
     en: consent, or ideal form
-    distinct: Rashi and Rabbeinu Gershom: each part of creation was made according to its will, having consented; the Ritva, following the Aruch, reads beauty, each thing made in its most beautiful form
+    distinct: for Rashi and Rabbeinu Gershom, each part of creation was made according to its will, having consented; the Ritva, following the Aruch, reads beauty, each thing made in its most beautiful form
   - he: צבא
     tr: tzava
     en: legion, army
@@ -99,7 +99,7 @@ titles of desire: *eretz chefetz* (Malachi 3:12), *eretz chemdah* (Yirmiyahu
 The kosher wild animal of Devarim 14:5. Rabbi Shlomo Pappenheim links it to
 desire: deer are ordinarily tame but among the most desirous of mammals, and can
 turn wild and dangerous in their mating season. Rabbi Klein offers his own
-suggestion ("I would suggest"): deer are known for running swiftly, so they are generally
+suggestion: deer are known for running swiftly, so they are generally
 free to follow their heart's desires; and since *tzvi* is also related to beauty,
 the deer-comparison of Shir HaShirim (2:9, 2:17, 8:14) is a complimentary term of
 endearment, which likely refers to the deer's sleek physique along with its

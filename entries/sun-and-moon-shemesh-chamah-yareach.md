@@ -19,7 +19,7 @@ words:
     tr: cheres
     en: sun
     nk: חֶרֶס
-    distinct: literally pottery, either for the sun's power to bake pottery, a mainstay of ancient life, or for its reddish, pottery-like hue at sunrise and sunset (Rabbi Aharon Marcus, and others)
+    distinct: literally pottery, either for the sun's power to bake pottery, a mainstay of ancient life (Rabbi Aharon Marcus), or, for others, for its reddish, pottery-like hue at sunrise and sunset
   - he: ירח
     tr: yareach
     en: moon
@@ -33,7 +33,7 @@ words:
   - he: סהר
     tr: sahar
     en: crescent moon
-    distinct: naming the moon by its shape; others hold it is not Hebrew at all but an Aramaic loanword used for the moon
+    distinct: naming the moon by its shape (Rabbi Aharon Marcus); others hold it is not really Hebrew but an Aramaic loanword sometimes used for the moon
 sources:
   - wiaw:6916 "My Three Suns (and Moons)" (2016-09-03) https://articles.ohr.edu/articles/my-three-suns-and-moons
 authorities: [Rabbi Aharon Marcus]

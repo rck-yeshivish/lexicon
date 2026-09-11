@@ -53,8 +53,8 @@ Modern Hebrew keeps the neutral sense of teaching or instructing, without the
 halachic connotation.
 
 Radak adds that *Torah* itself (and Aramaic *Orayta*) is from yud-reish-hey;
-on that account, Rabbi Klein notes, *Torah* might best be rendered "a teaching"
-or "instruction." Radak also weighs Ibn Janach's alternative, the root
+on that account *Torah* might best be understood as "a teaching" or
+"instruction." Radak also weighs Ibn Janach's alternative, the root
 tav-vav-reish, investigation or scouting (an etymology that would not account
 for the Aramaic cognate), from which come system and order, and the word
 *tor*, one's turn within a fixed arrangement; on that reading *Torah* is the law
@@ -139,7 +139,7 @@ information as such.
 - Trap: English "teach" will absorb *hora'ah*, *limmud*, and *alef*. Where a
   passage sets two of them against each other, use "instruct" for *hora'ah*,
   "drill" or "teach thoroughly" for *limmud*, and "train" or "school" for
-  *alef* (the last fits Rabbi Pappenheim better than Malbim; a judgment call).
+  *alef* (the last fits Rabbi Pappenheim better than Malbim).
 - *Hora'ah* in a Mishnaic or halachic context is "ruling," not "teaching."
 - Where a mussar passage cites Melachim II 12:3, keep the verb visible: "as
   Yehoyada instructed him," so that the contrast with drilling survives in

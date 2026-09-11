@@ -51,7 +51,7 @@ alongside *veyachperu*).
 |---|---|---|---|
 | תור | latur | scout out | looking for the good in a place (Mecklenburg) |
 | תרים | tarim | scouts | Moshe's twelve, as Bamidbar names them |
-| רגל | leragel | spy out | looking for weakness (Mecklenburg); from regel, the lowest limb (Rabbi Klein, hedged) |
+| רגל | leragel | spy out | looking for weakness (Mecklenburg); perhaps from regel, the lowest limb (Rabbi Klein) |
 | מרגלים | meraglim | spies | Yosef's brothers, Yehoshua's two men; never Moshe's twelve |
 | חפר | veyachperu | dig up | mining for damning information; kin to cherpah (Mecklenburg) |
 
@@ -83,7 +83,7 @@ spoke about forty years later, describes the men's actions with other words:
 The first is the verb of digging, the deliberate mining of damning information,
 and Rabbi Mecklenburg points out that *chafirah*, digging, is related to
 *cherpah*, disgrace: here, digging for negative information about the Land.
-Rabbi Klein adds, hedged ("perhaps we can add"), that *leragel* derives from
+Rabbi Klein adds that perhaps *leragel* derives from
 *regel*, the foot, the body's lowest part, and so fits a search for a place's
 lowest features.
 

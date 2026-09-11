@@ -13,7 +13,7 @@ words:
   - he: ערב
     tr: areiv
     en: pleasing
-    distinct: subjective sweetness, what appeals to this person (Rabbi Shlomo Pappenheim); in Tanach used of a voice, on one view in the Gemara of a scent, and of food only once (the article's own survey)
+    distinct: subjective sweetness, what appeals to this person (Rabbi Shlomo Pappenheim); in Tanach used of a voice, on one view in the Gemara of a scent, and of food only once (Rabbi Klein's survey)
   - he: נעים
     tr: naim
     en: pleasant
@@ -43,7 +43,7 @@ everyone tastes to what one person happens to love.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מתוק | matok | sweet | gustatory (Vilna Gaon); objective, the opposite of *mar* (Pappenheim) |
-| ערב | areiv | pleasing | subjective and acquired (Pappenheim); in Tanach auditory and perhaps olfactory, culinary only once |
+| ערב | areiv | pleasing | subjective and acquired (Pappenheim); in Tanach auditory, culinary only once; on one view in the Gemara, olfactory |
 | נעים | na'im | pleasant | visual appeal (Vilna Gaon) or the soul's pleasure in a thing (Pappenheim) |
 
 ## Where the authorities disagree
@@ -83,7 +83,7 @@ Root ע-ר-ב. Pappenheim: against *matok*, *areiv* is a *subjective* sweetness,
 acquired taste and a matter of personal choice. One with an affinity for bitter
 food might say "bitter is *areiv* to me," but not "bitter is *matok* to me."
 
-Rabbi Klein surveys the usage on his own account: *areiv* never appears in a
+Rabbi Klein surveys the usage: *areiv* never appears in a
 gastronomical context in Tanach except Mishlei 20:17; it is used of a voice
 (Shir HaShirim 2:14, "your voice is *areiv*"), and one opinion in Berachos 43a has the berachah over balsam oil as
 *borei shemen areiv*, which suggests it also applies to scent. So it seems that

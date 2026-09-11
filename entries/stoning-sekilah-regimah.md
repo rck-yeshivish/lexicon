@@ -45,7 +45,7 @@ of stones (Ibn Janach, Radak).
 |---|---|---|---|
 | סקילה | sekilah | stoning, pelting | the act of throwing; not necessarily fatal, hence the added "he shall be put to death" (Yashar); could in theory be done with a single stone (Shapira-Frankfurter) |
 | סקל | sakel | clear of stones | the same root used in reverse, removing stones from a field or road (Yeshayahu 5:2, 62:10) |
-| רגימה | regimah | stoning to death | the result: subdued and immobile (Pappenheim); a heap thrown by "the entire nation" (Shapira-Frankfurter) |
+| רגימה | regimah | stoning to death | the result: subdued and immobile (Pappenheim); a heap thrown, typically by "the entire nation" (Shapira-Frankfurter) |
 | מרגמה | margeimah | sling, catapult | the launching device (Mishlei 26:8), seemingly from ר-ג-מ |
 
 ## Where the authorities disagree
@@ -157,7 +157,7 @@ officials," *regem* meaning officers (Ibn Ezra to Zechariah 7:2, Tehillim
 68:28). Abarbanel (to Zechariah 7:7, *Mashmia Yeshuah* 14:2): perhaps a title
 for his role at court. Since the Ugaritic equivalent of ר-ג-מ means "say,
 announce, answer," Rabbi Klein suggests Regem-Melech may have been the king's
-herald, and, his own guess again, that Sarezer is perhaps *sar otzar*, treasurer. Radak (to Zechariah
+herald, and that Sarezer is perhaps *sar otzar*, treasurer. Radak (to Zechariah
 7:2 and *Sefer HaShorashim*) and Ibn Ezra (to Zechariah 7:2) favor a real name.
 Avraham Shmuel Herschberg (1858 to 1943) claims Regem was a god of the air,
 making Regem-Melech theophoric; Rabbi Klein could not substantiate this and

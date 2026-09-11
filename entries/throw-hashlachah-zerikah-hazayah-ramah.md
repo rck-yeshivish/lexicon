@@ -124,7 +124,7 @@ distance and/or by hand, *ramah* throwing upward to land on target.
 - *Zerikas hadam* and *hazayah* in a *korbanos* context: Rabbi Reuven Chaim Klein calls
   *zerikas hadam* "sprinkling," but in a passage that lists both, keep them
   apart, "throwing" or "dashing" the blood for *zerikah* and "sprinkling" for
-  *hazayah* (a judgment call); one English "sprinkle" for both loses the
+  *hazayah*; one English "sprinkle" for both loses the
   halachic distinction.
 - Modern Hebrew *hashlachos*, "consequences," has no Biblical or rabbinic
   standing; do not read it back into a pasuk.

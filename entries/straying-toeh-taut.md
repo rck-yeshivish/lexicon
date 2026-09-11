@@ -86,11 +86,11 @@ illustrates the general assumption that the tav word is "lost" and the tet word
 ## Rendering guidance
 
 - תעה: **stray**, **wander**, **be lost**. In *Uva LeTzion*, *to'im* is
-  **those who are lost**, as the column renders it.
+  **those who are lost**, as Rabbi Klein renders it.
 - טעה / טעות: **err**, **a mistake**. In a sugya, *ta'us* is **an error**,
   never "a straying."
-- Causative forms are **mislead, lead astray** for either spelling; the
-  column reads the one tet occurrence, Yechezkel 13:10, as open to both
+- Causative forms are **mislead, lead astray** for either spelling; Rabbi
+  Klein reads the one tet occurrence, Yechezkel 13:10, as open to both
   "led astray" and "led into a mistake."
 - Trap: English "astray" and "err" each cover both Hebrew words, and "went
   astray" will quietly decide Yechezkel 13:10 for you. Where a source turns on

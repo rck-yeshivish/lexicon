@@ -14,11 +14,11 @@ words:
   - he: שתיקה
     tr: shetikah
     en: quieting down
-    distinct: the silence that follows once a commotion has been stilled (Bedersi); the sea calming after the storm (Yonah 1:11 to 12); the Targum's standard Aramaic for cheresh
+    distinct: the silence that follows once a commotion has been stilled (Bedersi); the sea calming after the storm (Yonah 1:11 to 12); the Targum's Aramaic for cheresh-based words
   - he: דום
     tr: dom
     en: falling silent, stopping
-    distinct: silence as a state rather than an act, the speechlessness of one overwhelmed (Bedersi), or deliberate refusal to comment (Mecklenburg); at root simply stoppage, as the sun stopped at Givon (Yehoshua 10:12)
+    distinct: silence as a state rather than an act, the speechlessness of one overwhelmed (Bedersi), or deliberate refusal to comment (Mecklenburg); for others simply stoppage, as the sun stopped at Givon (Yehoshua 10:12)
   - he: חשה
     tr: chashah
     en: keeping still
@@ -51,7 +51,7 @@ specifically (*hachareish tacharishi*, Esther 4:14).
 |---|---|---|---|
 | חרש | cheresh | hold one's peace | inward, deliberating silence; the quiet of the craftsman and the wise (Bedersi); prepares speech as plowing prepares a field (Pappenheim) |
 | שתיקה | shetikah | quiet down | the calm after a commotion is stilled (Bedersi); the Targum's Aramaic for cheresh |
-| דום | dom | fall silent | a state, not an act: struck speechless (Bedersi) or a set refusal to speak (Mecklenburg); root sense is stoppage |
+| דום | dom | fall silent | a state, not an act: struck speechless (Bedersi) or a set refusal to speak (Mecklenburg); for others, simply stoppage |
 | חשה | chashah | keep still | reflective stillness (Mecklenburg) or withholding an answer one has (Wertheimer) |
 | הס | hass | hush | transitive: silencing others so they may listen or show honor (Pappenheim, Mecklenburg) |
 

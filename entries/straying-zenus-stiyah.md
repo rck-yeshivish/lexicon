@@ -25,7 +25,7 @@ words:
   - he: שיטה
     tr: shitah
     en: method, ordered approach
-    distinct: the same root turned around, an arranged and systematic path, the exact reverse of stiyah (Rabbi Moshe Shapiro)
+    distinct: related to stiyah as its diametric opposite, an arranged and systematic path (Rabbi Moshe Shapiro)
 sources:
   - wiaw:7927 "Straying from the Path" (2018-09-08) https://articles.ohr.edu/articles/straying-from-the-path
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Aharon Marcus]

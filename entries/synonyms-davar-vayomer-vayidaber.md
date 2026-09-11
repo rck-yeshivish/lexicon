@@ -61,7 +61,7 @@ Tehillim 22:29, quoted several times in the daily tefillos: "for to Hashem is
 sovereignty, but *melucha* denotes a popular sovereign whose dominion his
 constituents willingly accepted, while a *moshel* is a dictator who goes on
 ruling whether or not his people object to him. See
-`entries/king-melech-moshel.md`, where the Vilna Gaon works the same pair out at
+[king](king-melech-moshel.html), where the Vilna Gaon works the same pair out at
 length.
 
 ### ba (בא) and atah (אתה)

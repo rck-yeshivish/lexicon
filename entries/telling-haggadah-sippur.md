@@ -157,7 +157,7 @@ ideas or details they did not know.
   transliterated. *Misaper*: **relate**, **recount**.
 - *Aggadah*: **aggadah**, not "legend" or "fairytale"; Rabbi Klein calls the
   modern usage an unfair redefinition.
-- Trap: English "tell" absorbs both words, and the whole point of the column is
+- Trap: English "tell" absorbs both words, and Rabbi Klein's whole point is
   that the Torah's verb and Chazal's verb differ. Where a passage sets them side
   by side, render *haggadah* **declare** or **set before him** and *sippur*
   **recount**, so the reader can see two acts.

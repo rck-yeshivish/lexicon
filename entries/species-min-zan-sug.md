@@ -138,7 +138,7 @@ neologism took on that meaning. In the Mishnah *sug* appears twice as a big
 container: produce bought in bulk from a wholesaler may not be tithed from one
 portion to exempt the whole load, even if it was all sold in one *sug* and is all
 one *min* (*Demai* 5:6), and a *sug* is listed among vessels susceptible to
-*tumah* (*Keilim* 16:3). Rabbi Klein's own proposal, hedged ("perhaps"): a
+*tumah* (*Keilim* 16:3). Rabbi Klein's own proposal: perhaps a
 category is a conceptual container, an abstract vessel that includes what meets
 its criteria and excludes the rest; he therefore derives *sug* from biliteral
 ס-ג, "create a boundary, fence," which yields *sugah* (Shir HaShirim 7:3) and
@@ -161,7 +161,7 @@ relationship between them always remains that of parent and child.
 ## Rendering guidance
 
 - *Lemineihu* in Bereishis and Shemini: "according to its kind." Be careful
-  with "species": the column cautions that the Torah's categories do not
+  with "species": Rabbi Klein cautions that the Torah's categories do not
   necessarily line up with modern taxonomy, and the Ran reads the Teivah's
   *minim* as ancestral kinds (Ramban posits a miracle instead). Shadal, for his
   part, likens *min* to Latin *species*, both named from looking alike, so the

@@ -147,7 +147,7 @@ Bartenuro cites Yechezkel 45:20 to illustrate the *pitom*-*peti* connection.
 - Where a passage is quoting Kerisus 9a, keep *shogeg*, *oness* and *meizid* in
   transliteration; "by mistake," "by accident" and "on purpose" are serviceable
   glosses but blur the halachic categories if used alone.
-- פתי in Mishlei: "simpleton" or "simple-minded fool" (the column renders
+- פתי in Mishlei: "simpleton" or "simple-minded fool" (Rabbi Klein renders
   Mishlei 14:15 and 22:3 with "fool"); on Rav Hirsch's reading the word is
   about being open and easily swayed.
 

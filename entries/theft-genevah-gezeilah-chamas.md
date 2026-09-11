@@ -121,7 +121,7 @@ which suggests he is afraid of being caught, like a *ganav*.
   the derashos, and the mussar all hang on it.
 - *Chamas* in a pasuk: decide by context, "robbery" or "theft" where it is fixed
   on stealing (Bereishis 6:13 with Rashi), **violence** or **injustice** where
-  it is not (a judgment call). The Rabbinic *chamsan* is neither thief nor
+  it is not. The Rabbinic *chamsan* is neither thief nor
   robber: **a coercive buyer**, or leave it transliterated.
 - *Listim*: **brigand** or **armed robber**; "bandit" also works. Do not resolve
   him into *ganav* or *gazlan* in the English, since the authorities dispute it.

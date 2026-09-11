@@ -9,7 +9,7 @@ words:
   - he: שמיטה
     tr: shemittah
     en: releasing, letting slip
-    distinct: loosening one's hold on a thing so that it falls or slips away of itself; both the forsaking and the slipping that follows (Ibn Janach; Radak to Melachim II 9:33; Ibn Ezra to Devarim 15:1)
+    distinct: letting a thing go so that it falls or slips away (Ibn Janach; Radak to Melachim II 9:33; Ibn Ezra to Devarim 15:1); so it seems to mean both the forsaking and the slipping that follows
   - he: חליצה
     tr: chalitzah
     en: extracting, drawing out
@@ -48,7 +48,7 @@ distinction among the shoe-removal verbs.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שמיטה | shemittah | releasing, letting slip | forsaking, and the falling that follows from it (Ibn Janach; Radak to Melachim II 9:33) |
+| שמיטה | shemittah | releasing, letting slip | letting go so that it falls (Ibn Janach; Radak to Melachim II 9:33); it seems, forsaking and the falling that follows |
 | חליצה | chalitzah | extracting | drawing out of what envelops it (Pappenheim); the shoe that must be untied first (Shoresh Yesha) |
 | שלף | shalaf | drawing, slipping out | quick, from a loose holder: sword from sheath, shoe for a transaction (Pappenheim) |
 | של | shal | slipping off | a sandal off the foot without using the hands (Shoresh Yesha) |
@@ -73,8 +73,8 @@ He finds it perplexing that the Gemara names a load mounted on an animal a *shli
 (*Bava Kamma* 3a; see Rashi to *Bava Kamma* 17b, *Shabbos* 154b, *Eruvin* 16a,
 *Kiddushin* 22b), a word seemingly derived from ש-ל-פ, and says outright that he
 does not understand why a word for a parcel one hopes will *not* slip off the
-animal's back should derive from the act of slipping off. He offers two possibilities, both marked "perhaps": that *shlif*
-names precisely that hope, or that *shalaf* in fact denotes the same untying
+animal's back should derive from the act of slipping off. He offers two possibilities: perhaps *shlif*
+names precisely that hope, or perhaps *shalaf* in fact denotes the same untying
 that *chalitzah* denotes, against *Shoresh Yesha*, so that *shlif* is what one
 does to the package once it reaches its destination (Rashi to *Bava Basra* 75b
 notes the *shlif* was *tied* to the animal).

@@ -28,8 +28,8 @@ walls and the Shiloach within. There is also the *other* Gichon: the river of
 Bereishis 2:13 that circles Kush is, for Rashi and Rabbi Avraham Maimuni, a
 different river from the Yerushalayim spring, while Rav Saadia Gaon, Ibn Ezra
 and the Ramah identify the two. *Gachon* (Bereishis 3:14) is
-not a place at all but the serpent's **belly**, which Rav Hirsch (with a
-"perhaps") and Rabbi Pappenheim tie to the name Gichon.
+not a place at all but the serpent's **belly**, which Rav Hirsch
+(tentatively) and Rabbi Pappenheim tie to the name Gichon.
 
 ## Distinctions
 

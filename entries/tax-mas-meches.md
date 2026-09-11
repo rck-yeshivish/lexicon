@@ -128,9 +128,8 @@ place of *taska*.
   labor," not "tax officers." Melachim I 5:27 likewise, "levy" in the sense of
   conscription.
 - Bamidbar 31:28, *vaharemosa meches laHashem*: "you shall raise up a **levy**
-  for Hashem" or "a tribute." The column counts these as *meches* in the sense
-  of tax; preferring "levy" or "tribute" to "tax" for a division of spoils
-  consecrated to Hashem is a judgment call.
+  for Hashem" or "a tribute." Rabbi Klein counts these as *meches* in the sense
+  of tax.
 - Trap: English "tax" will absorb *mas*, *meches* and every Aramaic term at once,
   and it will hide the fact that *mas*, on some scholars' reading, is frequently
   labor. Decide first whether the passage means money or men.

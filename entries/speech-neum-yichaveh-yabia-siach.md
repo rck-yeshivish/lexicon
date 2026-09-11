@@ -64,7 +64,7 @@ end quite the opposite happened. When all is said and done, his declarations
 were true in the same way the Word of Hashem elsewhere is true. In that spirit,
 *Peirush HaRokeach* and Rabbeinu Efrayim explain that *ne'um* conveys the
 content of an irrevocable decree or oath, even for Bilaam's *ne'um*. Rabbi Klein
-adds, with his own hedge ("it seems"), that David and Shlomo could use it of
+adds that it seems David and Shlomo could use it of
 themselves because as Divinely chosen kings they were able to speak assertively
 and decisively in a way that whatever they said was or became true.
 

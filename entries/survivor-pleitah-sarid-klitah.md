@@ -13,7 +13,7 @@ words:
   - he: שריד
     tr: sarid
     en: survivor, remnant
-    distinct: one who was caught in the calamity and could not flee, yet came through alive (Malbim, Bedersi); the Gra adds a quantitative sense, the few left when most were not
+    distinct: one who was caught in the calamity and could not flee, yet came through alive (Malbim, Bedersi); the Gra implies a quantitative sense, the few left when most were not
   - he: קליטה
     tr: klitah
     en: refuge, being taken in
@@ -46,7 +46,7 @@ was not necessarily totally enveloped.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | פליטה / פליט | pleitah / palit | escape, deliverance / refugee | saved by being spit out of the danger; the root means "emit, expel" |
-| שריד | sarid | survivor, remnant | trapped and unable to flee, yet came through (Malbim, Bedersi); one of a small few (the Gra) |
+| שריד | sarid | survivor, remnant | trapped and unable to flee, yet came through (Malbim, Bedersi); one of a small few (implied by the Gra) |
 | קליטה / מקלט | klitah / miklat | refuge, taking in | saved by being received into a shelter; not inherently about rescue |
 
 ## Where the authorities disagree

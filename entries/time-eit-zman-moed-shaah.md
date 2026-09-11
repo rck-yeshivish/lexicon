@@ -45,8 +45,8 @@ for a fast and easy transaction and can readily be used.) Maharal (*Netzach
 Yisrael* 26): *zman* is the flow of time as an existing element of creation,
 *eit* time as an abstract concept. Malbim: *zman*, like *moed*, is a
 predetermined time set by man. Rabbi Klein observes that this does not seem to
-account for the difference between *moed* and *zman*, and suggests ("one could
-argue") that *moed* is Hebrew and *zman* Aramaic: the Targumim commonly render
+account for the difference between *moed* and *zman*, and suggests that one could
+argue that *moed* is Hebrew and *zman* Aramaic: the Targumim commonly render
 Biblical *moed* as *zman*, although HaBachur points out that *zman* itself
 appears in some of the post-Exilic books of the Bible and in Koheles.
 Wertheimer: *zman* is the most general of the three. Rav Hirsch: *zman* is

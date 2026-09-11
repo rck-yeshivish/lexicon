@@ -38,7 +38,7 @@ speaker's own nation but a different tribe within it. The same understanding can
 be gleaned from the Vilna Gaon's comments to Mishlei 27:2. Malbim: a *zar* is
 from the familiar locality but counts as strange with respect to some particular
 behavior or habit, strange in one way only, while the *nachri* is strange in
-many ways at once. (Rabbi Klein adds an aside on his own account: he used to
+many ways at once. (Rabbi Klein adds an aside: he used to
 think English *bizarre* was related to *zar*, but the *Oxford English
 Dictionary* feels otherwise.)
 

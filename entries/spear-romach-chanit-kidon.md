@@ -79,8 +79,8 @@ by stabbing.
 century, in the Holy Land; *HaMadrich HaMaspik*): the word usually means a small
 *romach* thrown at the enemy, like an arrow or dart, but Golyas wearing "a copper
 *kidon* between his shoulders" (Shmuel I 17:6) implies it can also mean a helmet.
-From this Rabbi Reuven Chaim Klein suggests, hedged ("it would seem that perhaps"), that
-*kidon* may be a general term for an infantryman's gear, weaponry or armor.
+From this Rabbi Reuven Chaim Klein suggests that *kidon* may perhaps be a
+general term for an infantryman's gear, weaponry or armor.
 Radak (to Shmuel I 17:6): even with Golyas the *kidon* is an offensive weapon,
 not armor, something resembling a *romach* that soldiers hid between their
 shoulders; at Yirmiyahu 50:42 Radak seems unsure which of the two it is.
@@ -123,7 +123,7 @@ knife/scimitar." The classical lexicographers: root KAF-YOD-DALET; since *kid*
 from that root means "misfortune, suffering" (Iyov 21:20), Ibn Janach suggests
 the *kidon* is named for bringing misfortune on one's enemies. Rambam (to Keilim
 11:8): a small *romach*, the weapon kings and aristocrats typically carried at
-all times. Rabbi Reuven Chaim Klein suggests, hedged ("perhaps"), that Rambam read the word as
+all times. Rabbi Reuven Chaim Klein suggests that perhaps Rambam read the word as
 *yad*, "hand," with the KAF a *kaf hadimyon*: a weapon always with its owner, as
 a hand is. The philologist Rabbi Ernest Klein (no relation to Rabbi Reuven Chaim Klein):
 probably related to Arabic *kadda* and Ethiopic *kedda*, verbs for "thrusting."
@@ -149,17 +149,16 @@ unlikely to survive.
   Bamidbar 25:7 is "spear"); give *kidon* English marked as smaller, "javelin"
   or "dart," with Rambam and Rabbi Tanchum, or HALOT's "hunting knife/scimitar."
   Where *kidon* stands beside *chanit* in one verse (Shmuel I 17:45, Iyov
-  39:23), separate English keeps the verse from reading as a repetition. This is
-  rendering advice, not the column's ruling; for Rabbi Krauss the words are
-  synonyms.
+  39:23), separate English keeps the verse from reading as a repetition. For
+  Rabbi Krauss the words are synonyms.
 - Bamidbar 25:7 is the sole appearance of *romach* in the Chumash.
 - Do not carry Modern Hebrew back into a pasuk: modern *kidon* means javelin,
-  bayonet, and bicycle handlebar. The first two, the column says, are clear
+  bayonet, and bicycle handlebar. The first two, Rabbi Reuven Chaim Klein says, are clear
   outgrowths of the Biblical word, since javelin and bayonet are types of spear.
   For the handlebar, Dr. Raphael Sappan (1927 to 1995), an expert in the
   development of Modern Hebrew slang, writes in his additions to Even-Shoshan's
   dictionary that it comes from the phonetic similarity to the French word for a
-  handlebar; alternatively, the columnist's son Elimelech Klein argues that a
+  handlebar; alternatively, Rabbi Reuven Chaim Klein's son Elimelech Klein argues that a
   biker's hands on the handlebar resemble a javelin thrower's on the javelin.
 
 ## Notes for a project

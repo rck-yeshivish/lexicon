@@ -86,11 +86,9 @@ does.
 
 ### maamar (מאמר) against dibrah (דיברה)
 Why *Asarah Maamaros* for creation (*Avos* 5:1) and *Aseres HaDibros* at Sinai?
-Several of the answers below are Rabbi Klein's own applications of a
-distinction the source states more narrowly; where that is so it is marked.
 
 From the Zohar's line that *dibbur* requires raising the voice, Rabbi Klein
-argues (his own step, "we can argue"): the whole point of raising the voice is
+argues: the whole point of raising the voice is
 to make a forceful impression on a listener, so at creation, with no listeners
 yet, Hashem did not need to raise His voice and those sayings are *maamaros*,
 while at Sinai there was an assembled audience and those are *dibros*. Rav
@@ -199,9 +197,8 @@ Rishonim and even alluded to in the Targumim.
   *tzivah*. Rabbi Moshe Feinstein builds on *vayomer* in the *tzitzis* parashah
   (Bamidbar 15:37) precisely because the verb there is not the usual
   *vayedaber*; he applies Malbim's absolute-against-proposition principle, but
-  reasons from it in the exact opposite direction, and the column does not
-  report Malbim himself on that pasuk.
-- *Aseres HaDibros*: "Ten Sayings" or "Decalogue," which the column says
+  reasons from it in the exact opposite direction.
+- *Aseres HaDibros*: "Ten Sayings" or "Decalogue," which Rabbi Klein says
   "would be better" than the popular "Ten Commandments." Any derashah on
   *dibros* against *maamaros* is lost with "Commandments."
 - Where the pasuk pairs *emor* with *ve'amarta* (Vayikra 21:1), render the first

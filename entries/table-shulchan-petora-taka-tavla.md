@@ -17,7 +17,7 @@ words:
   - he: טכא
     tr: taka
     en: tray-table
-    distinct: Rashi glosses it shulchan, but for Rabbi Mordechai Dov Yudelovitch it is the portable personal tray-table for one, and the sugyos the article cites all use it of an individual's table
+    distinct: Rashi glosses it shulchan, but for Rabbi Mordechai Dov Yudelovitch it is the portable personal tray-table for one, and the sugyos Rabbi Klein cites all use it of an individual's table
   - he: טבלא
     tr: tavla
     en: board, table top
