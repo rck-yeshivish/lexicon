@@ -56,29 +56,22 @@ Yeshayahu's, but he sees more in its use of *yaef* rather than *ayef*, chosen fo
 maximum effect, that Hashem strengthens not only the tired but the completely
 exhausted.
 
-**How heavy ayef is.** Schwab: *ayef* is tired but still retains some energy. Rabbi
-Shlomo Aharon Wertheimer: *ayef* denotes extreme fatigue to the point of fainting, and
-because of this it borrows the meaning "thirsty" (as Radak notes in *Sefer
-HaShorashim*), dehydration being what generally makes tired people faint. The column sets the two side by side without comparing them, and Wertheimer says nothing about
-*yaef*.
-
 **What sets yagea apart from ayef.** Rabbi Yosef of Saragossa (d. 1420, a student of
 the Ran) addresses *ayef/yaef* against *yagea*: all mean tired in the same way, but from
 different causes, *ayef* from repeatedly performing certain movements, the persistence
 of the action, and *yagea* from the speed of one's actions, having overexerted oneself.
 Malbim also sees two causes, but different ones: *ayef* is the regular tiredness that
 one with naturally low energy experiences, *yagea* the tiredness that results from
-(over)exerting oneself. So for Rabbi Yosef both words trace tiredness to what the man
-did, persistence against speed; for Malbim *ayef* traces it to his natural state and
-*yagea* to his exertion. The column leaves the two accounts side by side.
+(over)exerting oneself.
 
 ## Distinctions
 
 ### ayef (עיף)
 The more frequent of the pair in Tanach (a few more occurrences than *yaef*) and the
 surviving word in Modern Hebrew. Wertheimer: fatigue severe enough to bring a man to
-faint; from that comes its borrowed sense "thirsty," which Radak notes in *Sefer
-HaShorashim*; the column's examples are Iyov 22:7 and Tehillim 63:2. For Schwab it is
+faint; from that comes its borrowed sense "thirsty" (Iyov 22:7, Tehillim 63:2),
+which Radak notes in *Sefer HaShorashim*, dehydration being what generally makes
+tired people faint. For Schwab it is
 the lighter of *ayef* and *yaef*; for Malbim it is the ordinary tiredness of one whose
 energy is naturally low; for Rabbi Yosef of Saragossa, tiredness from persistent,
 repeated action.
@@ -93,7 +86,7 @@ transposed (the Rid compares *kesev/keves*); Schwab treats the choice of *yaef* 
 berachah as meaningful.
 
 ### yagea (יגע)
-Three occurrences only, per the column: Devarim 25:18 (*ve'atah ayef veyagea*), Shmuel
+Three occurrences only: Devarim 25:18 (*ve'atah ayef veyagea*), Shmuel
 II 17:2, and Koheles 1:8 (there in the plural, *yegei'im*). The word is related to the
 root of the verb *yaga*, "he toiled."
 

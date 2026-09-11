@@ -38,13 +38,13 @@ though Rabbi Yaakov Emden takes issue with his limiting *eit* to the seasons.
 ### zman (זמן)
 Root ז-מ-ן. Rabbi Moshe Shapiro: related to *mizuman*, "ready, prepared" (and
 used colloquially of someone "invited"); Rabbi Shlomo Pappenheim: the root of
-*zman* is *zamem*, to "plot" or "think ahead." The column draws the upshot: in
-essence time is a means of preparation, for the future. (In Modern Hebrew, the
-column adds, cash is *mizuman* because, unlike checks or credit cards, it makes
+*zman* is *zamem*, to "plot" or "think ahead." Rabbi Klein draws the upshot: in
+essence time is a means of preparation, for the future. (In Modern Hebrew cash
+is *mizuman* because, unlike checks or credit cards, it makes
 for a fast and easy transaction and can readily be used.) Maharal (*Netzach
 Yisrael* 26): *zman* is the flow of time as an existing element of creation,
 *eit* time as an abstract concept. Malbim: *zman*, like *moed*, is a
-predetermined time set by man. The column observes that this does not seem to
+predetermined time set by man. Rabbi Klein observes that this does not seem to
 account for the difference between *moed* and *zman*, and suggests ("one could
 argue") that *moed* is Hebrew and *zman* Aramaic: the Targumim commonly render
 Biblical *moed* as *zman*, although HaBachur points out that *zman* itself
@@ -57,15 +57,15 @@ appointed time.
 Root ע-ת. HaBachur disagrees with those who call *zman* a synonym of *eit*,
 and cites anonymous sages who mention a minute, philosophy-based distinction,
 which he does not spell out, writing that he lacks the energy to go into
-details; the column says Maharal's abstract-versus-existent line (above) is
-that sort of distinction. Malbim: *eit* is a natural unit of time whose
+details. Maharal's abstract-versus-existent line (above) is a distinction of
+that sort. Malbim: *eit* is a natural unit of time whose
 existence nature itself shows (*geshamim b'ittam*). Pappenheim: *eit* shares
 some meaning with *zman*, because it too refers to preparation and designation,
 as the *ish itti* of Vayikra 16:21 is the man designated to send the goat to
-Azazel; the column adds that *atid*, "future," is derived from *eit* and is
-also a form of a verb meaning "to prepare." Others: *zman* is a span, *eit* a
-point within it. Wertheimer: *eit* is more specific than *zman*, less than
-*moed*. Rav Hirsch: *eit* is a portion of time, related to *eeteit* or
+Azazel. *Atid*, "future," is derived from *eit* and is also a form of a verb
+meaning "to prepare." Others: *zman* is a span, *eit* a
+point within it. Wertheimer: *eit* is somewhat more specific than *zman*, less so
+than *moed*. Rav Hirsch: *eit* is a portion of time, related to *eeteit* or
 *ettim*, a spade that breaks up soil into smaller units. Rabbi Yaakov Emden:
 *eit* is any given point within an appointed span; and he takes issue with the
 Rama's assertion that *eit* means the seasons of the year, citing examples in
@@ -80,15 +80,13 @@ its *eit* any point within). Emden concedes that these are only the technical
 differences; in practical usage all these words may be used interchangeably.
 
 ### shaah (שעה)
-Root ש-ע-ה. The column treats *shaah* only through the Rama (Rabbi Moshe
-Isserles). He heard that some consider *bechol eit u'vechol shaah*, in the
+Root ש-ע-ה. The Rama (Rabbi Moshe Isserles) heard that some consider *bechol eit u'vechol shaah*, in the
 second berachah of Birkas HaMazon and the last of Shemoneh Esrei, redundant,
 and say only *bechol eit*. He rejects that: *eit* is the annual seasons and
 *shaah* the hours of the day, two different measures and not a doubling. Rabbi
 Yaakov Emden takes issue with the Rama's claim that *eit* refers to the
-seasons, citing other (natural) phenomena that *eit* names; the column does not say how Emden then reads the pair. So *shaah* here is the unit of the day:
-**hour**. The column gives no ruling on *shaah* standing alone in the sense
-"a while, a moment, temporarily" (*lefi shaah*, *shaah achas*).
+seasons, citing other (natural) phenomena that *eit* names. So *shaah* here is
+the unit of the day: **hour**.
 
 ## Rendering guidance
 

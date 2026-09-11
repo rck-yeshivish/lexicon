@@ -15,10 +15,9 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The column gives the Biblical *tza'if* as variously translated **veil**,
-**shawl**, or **headcloth** (in Modern Hebrew it is a scarf or a mask), and in
-its closing summary calls both *tza'if* and *redid* a woman's "shawl." It does
-not rule on a single English word for either. *Tza'if* is the covering of
+The Biblical *tza'if* is variously translated **veil**, **shawl**, or
+**headcloth** (in Modern Hebrew it is a scarf or a mask), and every Biblical
+*tza'if* and *redid* is a "shawl" worn by a woman. *Tza'if* is the covering of
 Rivkah and of Tamar; several parse it as spread or floating "on her face"
 (*Midrash Sechel Tov*, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia al
 Damari), and Gesenius (cited approvingly by Shadal) takes it from a root of
@@ -55,7 +54,7 @@ Gaon (1765 to 1808, *Tirgem Avraham* to Bereishis 24:65), explains it as
 *tza'if* with the initial tzadi dropped. Rabbi Yaakov Zev Lev (*Me'at Tzari* to
 Bereishis 38:14) explains that this may result from a Hebrew tzadi very often
 becoming an Aramaic ayin (as *tzemer* becomes *amar*): since *tza'if* already
-has an ayin after its tzadi, the first letter was simply dropped. (As an aside, the column notes *Eifah*, with a final hei, as the name of Avraham's grandson
+has an ayin after its tzadi, the first letter was simply dropped. (*Eifah*, with a final hei, is also the name of Avraham's grandson
 through Midyan, Bereishis 25:4, Divrei HaYamim I 1:33.) Rabbi Menachem ben
 Shlomo explains that *eifa* in Aramaic means doubling, folding, or wrapping (see
 Targum Onkelos to Shemos 26:9, 28:16), because the *tza'if* was so thin as to be
@@ -68,9 +67,10 @@ Achiezer neighborhood of Bnei Brak) explains that the *tza'if* was worn with its
 edges or sides folded to fit the wearer, and suggests that perhaps it relates to
 doubling because it was an extra head covering worn in addition to another. He
 also reads the initial tzadi as a hint to *tzei* (go out), understanding the
-*tza'if* as what a woman primarily wore when going outside; the column points ahead to the contrast with *redid* (see Rabbi Pappenheim below).
+*tza'if* as what a woman primarily wore when going outside (contrast *redid*,
+under Rabbi Pappenheim below).
 
-Rav Hirsch has two comments. To Bereishis 24:65 he relates צ-ע-פ to ש-א-פ, by
+Rav Hirsch has two comments. To Bereishis 24:65 he suggests that צ-ע-פ is related to ש-א-פ, by
 the interchange of tzadi with shin and of ayin with aleph: that root is drawing
 into oneself by inhaling, as one draws the *tza'if* close by wrapping it snugly.
 To Bereishis 40:6 he relates it to the phonetically similar ז-ע-פ (upset,
@@ -108,8 +108,8 @@ feather from the judge's *redid*, a favor that compromised his impartiality
 On the name: *Metzudas Tzion* (to Yeshayahu 3:23) implies that the thinness of
 the cloth gives it its name, since *merudad*, from ר-ד-ד, is what has been
 beaten down or subdued until very thin (see Targum Onkelos to Shemos 39:3).
-Rabbi Yehudah Aryeh of Carpentras first offers something similar and then parses
-*redid* as *ra'ah* (see) and *dod* (beloved), a *redid* being the ornament whose
+Rabbi Yehudah Aryeh of Carpentras first offers something similar and then suggests
+parsing *redid* as *ra'ah* (see) and *dod* (beloved), a *redid* being the ornament whose
 wearing exudes closeness by beautifying the wearer.
 
 Rabbi Shlomo Pappenheim traces *redid* to the biliteral ר-ד, whose core sense is
@@ -123,12 +123,12 @@ explanation); many women wore two head coverings, an outer decorative one (a
 *tzanif*, or perhaps a *tza'if*, as above) and an inner one covering the hair,
 the *redid*, "lowered" in rank beneath the outer one (so *rodeh*); or it was a
 head covering women might wear lightly while sleeping, which ties it to
-*tardemah*. The column adds a suggestion of its own, a "sort of feminist
+*tardemah*. Rabbi Reuven Chaim Klein adds a suggestion of his own, a "sort of feminist
 interpretation": that forcing women to cover their hair might be a form of
 ruling over them, which would fit the root's sense of ruling.
 
 ### sudar (סודר)
-Not part of the pair. The column observes that all Biblical cases of *tza'if*
+Not part of the pair. All Biblical cases of *tza'if*
 and *redid* refer to a shawl worn by a woman, while the Talmud has a term for a
 shawl worn by a man, *sudar*. It appears multiple times in the Mishnah (Shabbos
 3:3, 20:2, Yoma 6:8, Sanhedrin 6:1, 7:2-3, Tamid 7:3, Keilim 29:1) and can
@@ -136,7 +136,7 @@ also mean a cloth waved as a signal. Rabbi Ernest Klein's etymological
 dictionary of Hebrew derives it as a back-formation from a supposed plural
 *sudarim*, from the Greek *soudarion*, borrowed from the Latin *sudarium*, a
 cloth for wiping off perspiration, from *sudor*, sweat, which goes back to the
-Proto-Indo-European root *sweid-* or *svoid-*, to sweat. From the same root, the column adds, come English *sweat*, *sweater*, and *exude*, the Yiddish
+Proto-Indo-European root *sweid-* or *svoid-*, to sweat. From the same root come English *sweat*, *sweater*, and *exude*, the Yiddish
 *shvitz*, and the Modern Hebrew *sveder*.
 
 ## Rendering guidance

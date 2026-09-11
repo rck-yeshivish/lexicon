@@ -39,7 +39,7 @@ updated: 2026-09-10
 what is not necessarily destined to be trodden on, so that the act registers that
 the walker does not think it important, and Rabbi Moshe Tedeschi Ashkenazi expresses
 a similar sentiment (*boss* as kin to *boz*, disgrace). But Rashi equates *boss* with
-*romes*, and the column finds *boss* used in very much the same ways as the other
+*romes*, and Rabbi Klein finds *boss* used in very much the same ways as the other
 two. Tedeschi also reads *romes* and *dorech* by the ground rather than the act, and
 Pappenheim takes *romes* as treading on what is meant to be walked on. Tehillim
 91:13 has *tidroch* and *tirmos* in one pasuk.
@@ -51,7 +51,7 @@ Pappenheim takes *romes* as treading on what is meant to be walked on. Tehillim
 | רומס | romes | trample | destructive treading, walking so as to damage (Malbim); the full force of the body (Rav Hirsch); stomping raised ground flat, from *ram* (Tedeschi); treading on what is meant to be walked on (Pappenheim) |
 | דורך | dorech | tread, step, press | neutral; kin to derech, a path; can be constructive, as in pressing olives or grapes (Malbim); *derech* from *rach*, soft ground (Tedeschi) |
 | בוס | boss | trample down, crush underfoot | treading on what was not necessarily destined to be trodden on, registering one's estimate of it (Rabbi Shlomo Pappenheim); linked to boz, disgrace (Rabbi Moshe Tedeschi Ashkenazi); equated with *romes* (Rashi) |
-| רמש | remes | creeping creature | a lighter tread than *romes*, of small, lightweight creatures that do less damage (Rav Hirsch); creatures that tread the ground with the whole body (Ramban) |
+| רמש | remes | creeping creature | a lighter tread than *romes*, of typically small, lightweight creatures that do less damage (Rav Hirsch); creatures that tread the ground with the whole body (Ramban) |
 
 ## Where the authorities disagree
 
@@ -62,12 +62,12 @@ HaGalui*) and his son Radak (*Sefer HaShorashim*) explain that ר-מ-ס is relat
 out thematically. It seems that Ibn Saruk, Ibn Janach and Ibn Parchon do not agree,
 since they list ר-מ-ש separately, while the Kimchis conflate the two. Ramban (to
 Bereishis 1:24) explains that creeping creatures use their entire body to tread over the
-ground, so their very essence relates to treading; hence, the column says, *remes* is
+ground, so their very essence relates to treading; hence, Rabbi Klein says, *remes* is
 associated with *romes*. Rav Hirsch (to Bereishis 1:21) also recognizes a connection but
-understands it differently: since samech, sin and zayin can interchange, ר-מ-ס, ר-מ-ש and
+understands it differently: since samech, sin and zayin can sometimes interchange, ר-מ-ס, ר-מ-ש and
 ר-מ-ז all refer to treading at varying degrees of intensity. ר-מ-ס is trampling with the
-full force of the body to destroy what lies beneath; ר-מ-ש a lighter form, the way short,
-lightweight bugs walk on the ground without causing as much damage; and ר-מ-ז, the root
+full force of the body to destroy what lies beneath; ר-מ-ש a lighter form, the way bugs, typically short
+and lightweight, walk on the ground without causing as much damage; and ר-מ-ז, the root
 of *remez*, which he takes primarily as winking, the upper eyelid touching the lower as a
 foot treads the ground, a much less intense and more subtle form of the action.
 
@@ -81,13 +81,13 @@ by ignoring one letter of the root: *derech* from *rach*, soft ground that a man
 into a path for others, *romes* from *ram*, ground higher than usual, which needs more
 force to stomp flat and fashion a path. Both readings stand.
 
-**Whether boss is a distinct word.** The column says *boss* is used in very much the
-same ways as the other two, and Rashi, explaining Tehillim 60:14, equates *boss* with
+**Whether boss is a distinct word.** Rabbi Klein observes that *boss* is used in very much
+the same ways as the other two, and Rashi, explaining Tehillim 60:14, equates *boss* with
 *romes* (see also Rashi to Tehillim 44:6, Yeshayahu 14:25 and Mishlei 27:7).
 Pappenheim draws a line: *romes* is treading on something meant to be walked on and
 usually walked on, *boss* on something not necessarily already destined to be trodden
 on, so that the act registers the walker's feeling that it is not important enough to
-avoid stepping on. The column says Tedeschi expresses a similar sentiment, relating
+avoid stepping on. Tedeschi expresses a similar sentiment, relating
 *boss* to *boz*/*bizayon* by the interchange of samech and zayin: stepping on something
 to show disgust with it and besmirch it. On its root: the
 triliteralists, such as Ibn Chayyuj, Ibn Janach and Radak, give ב-ו-ס; the biliteral Ibn
@@ -97,7 +97,7 @@ does the same.
 ## Distinctions
 
 ### romes (רומס)
-The column counts nineteen occurrences of the root in Tanach, none in Chumash, all of
+Cognates of the root appear nineteen times in Tanach, none in Chumash, all of
 trampling or stomping with the feet. It carries into later rabbinic literature:
 Kiddushin 66a, where King Yannai, slighted by a rabbi who criticized him for taking the
 roles of both king and Kohen Gadol, is advised by someone else to *romsem* the Torah
@@ -116,16 +116,16 @@ even describe the constructive act of the presses: olives at Michah 6:15, grapes
 9:13, Yeshayahu 16:10 and 63:2, Yirmiyahu 48:33 and Nechemiah 13:15.
 
 ### boss (בוס)
-A little over ten occurrences in the column's list: Yeshayahu 14:19, 14:25, 63:6,
+Words related to *boss* appear a little over ten times: Yeshayahu 14:19, 14:25, 63:6,
 63:18; Yirmiyahu 12:10; Yechezkel 16:6, 16:22; Zechariah 10:5; Tehillim 44:6, 60:14,
 108:14; Mishlei 27:7. Pappenheim builds two other words on
 the root ב-ס. *Eivus*, a feeding trough, its aleph extraneous: an owner fills it hoping
-the animal will overeat and fatten, and the animal ends by stepping on the leftover food,
+the animal will overeat and fatten, and the animal often ends up stepping on the leftover food,
 disregarding its importance (he contrasts people, who store leftovers for a later meal).
 And Rabbinic *basis*, a base or pedestal (Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim
 83a; Avodah Zarah 8b; Chullin 125a), the bottom part on which the rest of the object
-rests, like the ground that is trodden with something more significant on top of it. The
-column nonetheless holds that the more convincing etymology for *basis* lies in the
+rests, like the ground that is trodden with something more significant on top of it. Rabbi
+Klein nonetheless holds that the more convincing etymology for *basis* lies in the
 Latin *basis* and the Greek βάσις, forebears of English *base* and *basis*. In Modern
 Hebrew *basis* is an army base, a usage that may have been influenced by English *base*
 but may also relate conceptually to *basis* as foundation. Rabbi Yisroel Zev Horowitz,

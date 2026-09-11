@@ -32,8 +32,8 @@ updated: 2026-09-10
 ## Bottom line
 
 *Matzeivah* is the **monument** or **headstone**, the common word in spoken
-Hebrew, and the one the Torah uses at Kever Rachel. *Tziyun* is the **marker**
-(the column's gloss). *Nefesh* is the Mishnah's word, literally "soul," used
+Hebrew, and the one the Torah uses at Kever Rachel. *Tziyun* is the **marker**.
+*Nefesh* is the Mishnah's word, literally "soul," used
 for the structure. Rabbi Yechiel
 Michel Tukachinsky reads the three as three reasons for erecting a stone at
 all: to make the grave visible for those who come to daven, to delineate where
@@ -98,8 +98,8 @@ and both Ehrenreich's reading and that of the "others" work off that double
 sense; Shick and Pollak work instead off *netziv*, standing.
 
 ### tziyun (ציון)
-Graves marked with a *tziyun* appear at Yechezkel 39:15 and Melachim II 23:17.
-The column glosses the word "marker." For Tukachinsky its function is to
+Graves marked with a *tziyun*, a "marker," appear at Yechezkel 39:15 and
+Melachim II 23:17. For Tukachinsky its function is to
 delineate the exact spot so that others can avoid tumah, which is especially
 pertinent for Kohanim (Vayikra 21:1 to 4); for Rabbi Pollack it is a road marker
 reminding the passerby where he is headed; for the "others," the sense

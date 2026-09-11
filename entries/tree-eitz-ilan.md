@@ -24,7 +24,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Eitz* seems to be the Hebrew word and *ilan(a)* the Aramaic one (the column's
+*Eitz* seems to be the Hebrew word and *ilan(a)* the Aramaic one (Rabbi Klein's
 inference from Daniel 4). For Rabbi Chaim Hirschensohn, *Chazal* then divided
 the field: *ilan* is the **living tree**, *eitz* only the **wood**. In Tanach
 *eitz* does both jobs. The berachah says *borei pri ha'eitz*
@@ -36,7 +36,7 @@ berachos.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| עץ | eitz | tree, wood | Hebrew; in Tanach both senses at once (Hirschensohn); related to atzum and etzem, for a tree's strength and durability (Pappenheim) |
+| עץ | eitz | tree, wood | seemingly Hebrew; in Tanach both senses at once (Hirschensohn); related to atzum and etzem, for a tree's strength and durability (Pappenheim) |
 | אילן | ilan | living tree | seemingly Aramaic, only in Daniel 4 in Tanach; Hebraized and adopted by Chazal for the living tree (Hirschensohn) |
 
 ## Distinctions
@@ -45,14 +45,13 @@ berachos.
 Countless times in Tanach: *eitz hadaas*, *eitz hachaim*, *atzei shittim*,
 *atzei levanah*. Rabbi Shlomo Pappenheim relates it to *atzum*, strong, and
 *etzem*, bone, as it denotes the strength and durability of a tree, against
-other, flimsy forms of flora such as grass. (Pappenheim's etymology is not tied in the column to the wood sense; that *eitz* covers cut wood in Tanach is
-Hirschensohn's point, below.)
+other, flimsy forms of flora such as grass.
 
 ### ilan (אילן) and ilana (אילנא)
 *Ilan* appears once in Tanach, at Daniel 4:7, and *ilana* several times in the
 same perek (4:8, 4:11, 4:17, 4:20, 4:23), a chapter written, like most of
-Daniel, in Aramaic; which, the column says, would suggest that *eitz* is Hebrew
-and *ilan(a)* Aramaic. Rabbi Klein works from the premise that no two Hebrew
+Daniel, in Aramaic; which, Rabbi Klein notes, would suggest that *eitz* is Hebrew
+and *ilan(a)* Aramaic. He works from the premise that no two Hebrew
 words mean exactly the same; so why two words for tree? And since *ilan* appears
 constantly in the Mishnah and other rabbinic writings, why did the Sages prefer
 the Aramaic word to the Hebrew one? Rabbi Chaim Hirschensohn answers both:

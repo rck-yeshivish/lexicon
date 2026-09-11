@@ -18,14 +18,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Gehinnom* is a place name borrowed for the sinner's afterlife. The column notes that it is commonly translated "hell" or
-"purgatory," and itself uses "purgatory" when giving Rashi's derashah on
-*sheol*. *Sheol*'s literal meaning is **the grave** (so the column, and so Ibn
-Ezra maintains),
+*Gehinnom* is a place name borrowed for the sinner's afterlife, commonly
+translated "hell" or "purgatory." *Sheol*'s literal meaning is **the grave**
+(so Rabbi Klein, and so Ibn Ezra maintains),
 though by derashah it can refer to the soul's purgatory after death (Rashi).
 *Shachat* in many pesukim means simply a **pit**, and Bedersi also reads
 "destruction" in it. *Avadon* is either the body's **destruction** after death
-or the place where souls are **lost** for a time; the column gives both, unattributed. Eruvin 19a gives seven Biblical terms for
+or the place where souls are **lost** for a time. Eruvin 19a gives seven Biblical terms for
 Gehinnom, and Maharsha reads them as seven different places within it.
 
 ## Distinctions
@@ -34,22 +33,23 @@ Gehinnom, and Maharsha reads them as seven different places within it.
 Rabbi Yehoshua ben Levi's list: *sheol*, *avadon*, *be'er shachat*, *bor
 shaon*, *tit hayaven*, *tzalmaves*, and *eretz hatachtis*. Maharsha (Rabbi
 Shmuel Eidels, 1555 to 1631): the seven names correspond to seven different
-places within Gehinnom (the column adds "see Sotah 10b"). *Midrash Konen* (in
+places within Gehinnom (see Sotah 10b). *Midrash Konen* (in
 Rabbi J. D. Eisenstein's *Otzar Midrashim* p. 256) assigns places to different
 types of sinners: Korach and his company in
 *sheol*; the lost souls of the wicked in *avadon*; robbers, thieves, and those
 who hold back a worker's wages in *be'er shachat*; those who transgressed in
 matters of intimacy in *tit hayaven*; slanderers in *tzalmaves*; those who
-quarrel with talmidei chachamim in *eretz tachtis*; "and so forth," as the column's quotation ends (*bor shaon* is not assigned in it).
+quarrel with talmidei chachamim in *eretz tachtis*; and so forth.
 
 ### sheol (שאול)
 Close to seventy occurrences. Ibn Ezra (to Bereishis 37:35) holds the literal
 sense is grave, and faults the Vulgate for rendering it *infernus* there. Rashi
 (there): the plain sense is grave, but exegetically it can refer to the soul's
 purgatory after death. Malbim: literally a deep pit from which it is impossible
-to get out; this, the column adds, may apply to both the grave and Gehinnom. Rabbi Shlomo Pappenheim: root ש-ל, something cast
+to get out; this, Rabbi Klein adds, may apply to both the grave and Gehinnom. Rabbi Shlomo Pappenheim: root ש-ל, something cast
 away or negated, and death is a plane of existence away from the living. Rabbi
-Tzvi Matisyahu Abrahams, whom the columnist calls his friend, takes what the column calls "a more exhortative approach" (*Root Connections in the Torah* p.
+Tzvi Matisyahu Abrahams, a friend of Rabbi Klein's, takes a more exhortative
+approach (*Root Connections in the Torah* p.
 274): the grave is *sheol* because when we are placed in the ground a great
 question (*she'eilah*) will hang over us as to where we are headed.
 
@@ -71,11 +71,10 @@ hard thing and makes it pliable).
 Tehillim 40:3, literally "the Pit of Noise." Rabbi Yonah ibn Janach and others
 explain that *shaon* (a ruckus of noise) and *sha'anan* (quiet) are related, an
 example of the common phenomenon in which Hebrew words of diametrically opposed
-meaning sometimes have related roots. In light of this, the column suggests,
+meaning sometimes have related roots. In light of this, Rabbi Klein suggests,
 *bor shaon* might actually mean the Pit of Silence, where one can no longer
-complain or even speak after death; that step is the column's, not Ibn
-Janach's. Rashi (to Yeshayahu 9:4) and Radak (*Sefer HaShorashim*) give *shaon*
-the same root as *shoah*, destruction; this, the column notes, fits *avadon* and
+complain or even speak after death. Rashi (to Yeshayahu 9:4) and Radak (*Sefer HaShorashim*) give *shaon*
+the same root as *shoah*, destruction; this, Rabbi Klein notes, fits *avadon* and
 *shachat*, which are also terms of destruction.
 
 ### tit hayaven (טיט היון)
@@ -97,8 +96,9 @@ tradition. *Sefer Russiana* and Rabbi Yitzchak Abuhab's *Menoras HaMaor* have
 *eretz chittis*, the land of the Hittites, and Tosafos prefer that girsa: since
 *eretz tachtis* does occur in Tanach (Yechezkel 31 in several places; see also
 Devarim 32:22), the Gemara would not have needed a tradition, whereas *eretz
-chittis* occurs nowhere, and the sugya then runs properly. The column draws the
-consequence: *eretz tachtis* would be a scribal error for *eretz chittis*.
+chittis* occurs nowhere. Rabbi Klein draws the consequence: *eretz tachtis*
+would be a scribal error for *eretz chittis*, and on that assumption the whole
+sugya makes more sense.
 
 ### Variant lists
 *Midrash Hallel* (*Otzar Midrashim* p. 134) drops *bor shaon* and *eretz

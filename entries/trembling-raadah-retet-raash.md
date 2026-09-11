@@ -37,7 +37,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ra'adah* is **trembling**: felt within the body and not seen (Wertheimer), or
+*Ra'adah* is **trembling**: primarily felt within the body and not seen (Wertheimer), or
 inner fear so full that it breaks out in tremors (Malbim). *Ziyah* is a
 **shudder**, a quiver felt rather than seen (Pappenheim), Onkelos's word for
 *vayecherad* at Sinai and Targum's standard word for *ra'ash*. *Retet* is the
@@ -51,7 +51,7 @@ always anger (Bedersi). *Chareid* is **trembling** too, the word behind
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| רעדה | ra'adah | trembling | felt inside, unseen (Wertheimer), or inner fear breaking out (Malbim) |
+| רעדה | ra'adah | trembling | primarily felt inside, unseen (Wertheimer), or inner fear breaking out (Malbim) |
 | זיע | ziyah | shuddering | anxiety, usually from outside; a harp string's quiver (Pappenheim); Targum's word for *ra'ash* |
 | רתת | retet | trembling, lighter | lighter than ra'adah and chil (Wertheimer) |
 | רעש | ra'ash | quaking, tumult | vigorous movement of any kind; an earthquake; also loud noise |
@@ -78,9 +78,9 @@ as *chil* and *retet* with a tav, and Radak (triliteral ר-ט-ט) as just *retet
 with a tav. Somewhat of an outlier, Ibn Janach defines it as pain in the joints,
 not trembling. Rabbi Pappenheim (biliteral ר-ט) synthesizes the two approaches:
 a disease in which nerves and muscles suddenly flex and relax many times in a
-row, causing convulsions (the column wonders whether he means something like
+row, causing convulsions (Rabbi Klein wonders whether he means something like
 Parkinson's), or a disease causing stomach contractions like those of a woman
-giving birth. The column says it makes sense to treat the two spellings as one
+giving birth. It makes sense to treat the two spellings as one
 word, tav and tet interchanging, a point already made by rabbinic philologists
 such as Rabbi Avraham Bedersi (*Chotam Tochnit*), Rabbi Yosef Kimchi (*Sefer
 HaGalui*), Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*), and others.
@@ -89,19 +89,19 @@ HaGalui*), Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*), and others.
 in *Sefer HaCarmel*, reads the pasuk as ascending: *ga'ash* a subtler movement
 than *ra'ash*, and *ra'ash* less intense than *rogez*. In his *Yair Ohr* he writes
 that *ga'ash* is a little extra movement and *ra'ash* more than that, in line with
-the *Sefer HaCarmel* citation; the column brings *Yair Ohr* only on those two.
+the *Sefer HaCarmel* citation.
 Rabbi Reuven Landau (*Degel Machaneh Reuven* §61) writes just the opposite on the
 last two: *ra'ash* is more intense than *rogez*. Rabbi Klein does not decide
 between them ("either way").
 
-**What ziyah was at Sinai.** The column gives at least two ways of reading the
+**What ziyah was at Sinai.** Rabbi Klein gives at least two ways of reading the
 *ziyah* of Yoma 4b. Onkelos renders *vayecherad* as *ziyah* both when the
 mountain trembled (Shemos 19:18) and when the people trembled (19:16), so
 perhaps it is the mountain's shaking, or it might be the nation's overwhelming
 awe. The Mechilta (*D'Rabbi Yishmael, BaChodesh* §9) explains *vayanu'u*, "and
 they stirred," in Shemos 20:15 as *ziyah*, possibly supporting the second.
 *Baal HaTurim* (to Shemos 20:15) sees in that stirring an allusion to the way
-Jews sway when they learn Torah.
+Jews typically sway when they learn Torah.
 
 ## Distinctions
 
@@ -109,9 +109,9 @@ Jews sway when they learn Torah.
 Root ר-ע-ד, nine appearances: *ra'ad* seizing the mighty of Moav (Shemos 15:15),
 the land that quivers at Hashem's glance (Tehillim 104:32), and the *ra'adah* of
 Tehillim 2:11, "rejoice in trembling," which Yoma 4b applies to the giving of
-the Torah, given, in the column's quotation, "with dread, with fear, with
+the Torah, given "with dread, with fear, with
 *retet*, and with *ziyah*." (The second Luchos were given on Yom Kippur: Taanis
-4:8, Taanis 30b, Bava Basra 121a.) In Modern Hebrew *re'idat adamah*, "quivering
+30b and Bava Basra 121a, on the Mishnah in Taanis 4:8.) In Modern Hebrew *re'idat adamah*, "quivering
 of the land," is an earthquake.
 
 *Retet*, for Rabbi Wertheimer, is a lighter form of shaking than *ra'adah* or
@@ -131,16 +131,16 @@ outside and leaving him unshaken. *Zeiyah*, sweat (Bereishis 3:19): many misquot
 Yoma 4b as saying the Torah was given with *zeiyah*, an obvious error, though
 Pappenheim does connect the two words; for him sweat is the body's reaction to
 inner heat from exertion, anger or fear, so *zeiyah* is linked to internal
-agitation, which the column contrasts with *za*/*ziyah*, usually the effects of an
+agitation, which Rabbi Klein contrasts with *za*/*ziyah*, usually the effects of an
 external one. *Za'avah* in the tochachah (Devarim 28:25), fulfilled, says
 Yirmiyahu, for Menashe's sins (Yirmiyahu 15:4; see also Yirmiyahu 24:9, 29:18,
 34:17; Yechezkel 23:46; Divrei HaYamim II 29:8): Onkelos renders it *ziyah*, which is probably what led Rashi there to
 explain it as fear and shaking in fear, those who hear being so frightened that
 they hope it will not happen to them; and Rashi (Vayikra 20:18, Shmuel I 20:30,
 Yirmiyahu 15:4) writes that the vav of *za'avah* is not part of its root ז-ע.
-*Zava'ah*, an earthquake (Berachos 54a), which Pappenheim, following the science
-of his day, explained as air and gases trapped underground, where the column
-gives the modern tectonic account. Pappenheim also derives two words for anger
+*Zava'ah*, an earthquake (Berachos 54a), the trembling of the earth, now understood
+as pressure from the interaction of tectonic plates; Pappenheim, following the
+science of his day, explained it as air and gases trapped underground. Pappenheim also derives two words for anger
 from ז-ע: *za'am* (with a final mem) and *za'af* (with the biliteral א-פ, the
 face, its shaking reflecting anger). Rabbi Mordechai Kohen of Safed (*Siftei
 Kohen* to Bamidbar 15:27) writes that one who sins by mistake with *avodah zarah*
@@ -156,8 +156,8 @@ realizing he had blessed the wrong son, *vayecherad... charadah gedolah ad meod*
 (Bereishis 27:33); the people and the mountain at Sinai (Shemos 19:16, 19:18);
 Boaz shaken at midnight by the woman at his feet (Rus 3:8). Yeshayahu 66:5
 addresses "those who tremble (*chareidim*) at His word," whence *chareidi* for the
-community seen as especially devoted to Hashem and Torah; the column compares the
-names of the Quakers, a seventeenth-century English Christian group said to be
+community seen as especially devoted to Hashem and Torah; similar names were
+given to the Quakers, a seventeenth-century English Christian group said to be
 named for their trembling at meetings, and the Shakers, a later offshoot.
 
 *Ra'ash* is absent from Chumash but appears close to fifty times after it. It
@@ -165,18 +165,18 @@ refers to shaking in fear but can also refer to any vigorous movement: the
 earthquake in Uzziyah's day is simply "the *ra'ash*" (Amos 1:1, Zechariah 14:5),
 and the *b'ra'ash* of *U'Nesaneh Tokef* seemingly means a deadly earthquake.
 Another meaning of Biblical *ra'ash* is loud noise, its usual Modern Hebrew sense;
-the column links noise and movement through sound as vibrating air. Targumic
+Rabbi Klein links noise and movement through sound as vibrating air. Targumic
 Aramaic renders *ra'ash* as a rule by *ziyah*: Targum Yonasan and *Devarim Rabbah*
 11:10 explain the *kol ra'ash gadol* of Yechezkel 3:12 as *ziyah*, and that pasuk
 with its Targum is in *U'va L'Tzion*. *Rogez* and *ra'ash* stand together in the
 long Tachanun of Mondays and Thursdays, "from *ra'ash* and *rogez*," likely based
 on Iyov 39:24, which sets them side by side.
 
-*Ga'ash*: root ג-ע-ש, which the column counts nine times in Tanach (Yirmiyahu
+*Ga'ash*: root ג-ע-ש, which appears nine times in Tanach (Yirmiyahu
 5:22, 25:16, 46:7 to 8; Iyov 34:20; Shmuel II 22:8; Tehillim 18:8). In Modern
 Hebrew *harei ga'ash*, literally tumultuous mountains, are volcanoes; *Har Ga'ash*
 is a Biblical place-name, south of Yehoshua's burial place (Yehoshua 24:30,
-Shoftim 2:9; see also Shmuel II 23:30, Divrei HaYamim I 11:32). The column has
+Shoftim 2:9; see also Shmuel II 23:30, Divrei HaYamim I 11:32). Rabbi Klein has
 found no source that makes the reish of *ra'ash* and the gimmel of *ga'ash*
 interchangeable, though both roots end in ע-ש.
 

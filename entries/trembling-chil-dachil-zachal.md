@@ -23,7 +23,7 @@ updated: 2026-09-10
 pangs. For Rav Hirsch it is a specific fear, of what one's place will be in a
 changing order; for Rabbi Shlomo Pappenheim the whole body spasming at something
 frightening. *Dachil* is the Aramaic word: **fearsome, dread**, typically used by
-Targum for *yirah*, *nora* and *pachad*. The column gives two possibilities:
+Targum for *yirah*, *nora* and *pachad*. Rabbi Klein gives two possibilities:
 *chil* and *dachil* may simply be Hebrew against Aramaic for one thing, or, in
 light of Rav Hirsch, *chil* seems to be the specific fear and *dachil* the more
 general one. *Zachal* carries two senses in Tanach, **crawling** and **fear**, and
@@ -68,20 +68,20 @@ Hebrew *yirah*, *nora* and *pachad* (for examples, Rabbi Eliyahu Bachur,
 *Meturgeman*); Onkelos renders *chil* at Shemos 15:14 and *chalu* at Devarim 2:25
 with *dachla*.
 
-On *chil* against *dachil* the column offers two readings. It is quite possible
+On *chil* against *dachil* Rabbi Klein offers two readings. It is quite possible
 that they differ simply as native Hebrew from Aramaic, technically meaning the
 same thing. That said, in light of Rav Hirsch, it seems that *chil* is a specific
 fear, that of one contemplating his place in a new paradigm, and *dachil* a more
 general term for all sorts of fear, hence Targum's use of it for a whole slew of
-fear-words. The second reading is the column's inference from Rav Hirsch, who
-says nothing of *dachil*. Rabbi Klein adds a speculation of his own, noting that
+fear-words. The second reading is his inference from Rav Hirsch's comment on
+*chil*. Rabbi Klein adds a speculation of his own, noting that
 he has seen no source for it: the only consonantal difference between *chil*
 and *dachil* is the initial dalet, so perhaps the two are etymologically related
 and the latter took on an extra letter.
 
 Two idioms. In many instances Targum uses *dachalah* for false gods: "gods of
 silver and gods of gold" (Shemos 20:20), *elohei* in the Torah, is *dachalan* in
-Onkelos. The column reads that as the pagan conception of gods as dreadful,
+Onkelos. Rabbi Klein reads that as the pagan conception of gods as dreadful,
 malevolent forces to be appeased, in stark contrast to the Jewish conception of
 Hashem as a loving, kind Creator. And the kabbalistic formula before various
 mitzvos, *b'dichilu u'rechimu*, "through fear and love." In Talmudic Aramaic
@@ -97,8 +97,8 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
 - Crawling: Rashi (there) reads it of poisonous snakes. In Mishnaic Hebrew
   *zochalin* is running or flowing water (*Eruvin* 10:6; *Bava Basra* 2:5, 3:6;
   *Eduyos* 7:3 to 4; *Mikvaos* 1:8, 5:4, 5:5; *Parah* 8:8), and on that basis
-  Rashi clarifies that creatures crawling on the ground move in a way that
-  resembles water flowing along it. Compare *zachala*, a creeper or worm (the one
+  Rashi clarifies that creatures crawling on the ground appear to move in a
+  way that resembles water flowing along it. Compare *zachala*, a creeper or worm (the one
   that holed the mountain Og lifted over his head), in Targum Yonasan to Bamidbar
   21:35, and *zachal* in the same sense in *Tosefta Chullin* 3:25 and in Modern
   Hebrew, where a *zachlil* is a caterpillar and also a tank on caterpillar
@@ -111,7 +111,7 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   7:17. Ibn Ezra compares Iyov 32:6, Elihu's "I am young in days and you are
   aged, therefore *zachalti* and I feared to express my understanding to you,"
   and there Rashi too reads fear.
-- Fear as *dachil*: it might well be, the column says, that *zochel* in the fear
+- Fear as *dachil*: it might well be that *zochel* in the fear
   sense is not a separate word from *dachil* but its cognate, since in many cases
   Aramaic dalet answers to Hebrew zayin, as in *dachar*/*zachar* (male),
   *deroa*/*zeroa* (arm), *dahav*/*zahav* (gold); it is then quite possible that
@@ -120,10 +120,10 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   rabbinic philologists such as Rabbi David Golumb and Rabbi Asher Weiser.
 - Two more readings of Elihu's *zachalti*: Rabbi Yosef Kara (there), "I have
   delayed," Elihu explaining why he waited so long to speak, with a similar
-  understanding in Ibn Janach's *Sefer HaShorashim*, perhaps, the column
+  understanding in Ibn Janach's *Sefer HaShorashim*, perhaps, Rabbi Klein
   suggests, related to crawling as the slower way to arrive; and Sforno (there),
   "I have humbled myself as though I were an insignificant creature that crawls
-  on its belly," which the column also ties to crawling. So three readings of
+  on its belly," which also harks back to crawling. So three readings of
   *zachalti*: fear, delay, self-abasement.
 - Saturn: Ibn Janach (*Sefer HaShorashim*, s.v. ז-ח-ל) notes that in Arabic
   astrology the planet Saturn is called Zachal. Rabbi Shaul Goldman informed

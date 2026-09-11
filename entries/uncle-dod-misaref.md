@@ -58,16 +58,16 @@ elsewhere (Sanhedrin 5a, Pesachim 4a) says that Rav Chiya's sister was Rav's
 mother; Rabbi David Cohen of Gvul Yaavetz and Rabbi Yochanan Sofer, the Erloi
 Rebbe, explain that Rashi nonetheless focuses on the brother because *chaviv*,
 the Aramaic of *dod*, means specifically the father's brother (a mother's brother
-would be *misaref*, the column adds). How both of Rav's parents could be Rav
+would be *misaref*, Rabbi Klein adds). How both of Rav's parents could be Rav
 Chiya's siblings, as Rashi to Eruvin 12b and Chullin 32a and Rashbam to Bava
-Basra 41b note, the column answers: one was related to Rav Chiya through his
-mother and the other through his father, so they were not related to each other
+Basra 41b note, Rabbi Klein answers that one must have been related to Rav Chiya
+through his mother and the other through his father, so they were not related to each other
 and could marry.
 
 The semantic range of *dod* later expanded to "lover" or "companion," as the word
-seems to mean throughout Shir HaShirim. The column chalks that up to the
+seems to mean throughout Shir HaShirim. Rabbi Klein chalks that up to the
 regularity of marriages in which a woman married her uncle, and holds that the
-core sense of *dod* did not change; it adds, "however, see Rabbi Zev Hoberman's
+core sense of *dod* did not change; he adds, "however, see Rabbi Zev Hoberman's
 *Zeev Yitraf, Pesach* ch. 90."
 
 Rabbi Shlomo Pappenheim traces *dod*/*dodah* to the single letter ד,
@@ -99,9 +99,7 @@ a *hapax* it resists precise definition. The readings:
    brother(s)," never *misaref*, which would suggest that *misaref* does not mean
    mother's brother. Moreover, Professor Gary Rendsburg wrote to Rabbi Klein that
    Ibn Kuraish and Ibn Janach may have been influenced by their native Arabic,
-   which has two words for uncle, *em* (paternal) and *khal* (maternal). The column's sentence closes "and there is no reason to assume that the same
-should not be true in Hebrew," which leaves unclear whether that clause concedes
-the parallel or was meant as part of the objection.
+   which has two words for uncle, *em* (paternal) and *khal* (maternal).
 2. **Relative, cohort.** Rashi (there) seems to explain *misaref* as a generic
    term for a relative, not a specific kinship. The Septuagint and the Peshitta
    translate the verse the same way, and Rabbi Yosef Ibn Kaspi also seems to
@@ -115,7 +113,7 @@ the parallel or was meant as part of the objection.
 4. **From *seraf*, sap or resin.** Professor Gary Rendsburg, following Yechezkel
    Kutscher, explains *misarfo* as a verb, "to smear with resin," relating it to
    Aramaic and Hebrew *seraf*, sap or syrup. Rabbi Shlomo Aharon Wertheimer
-   similarly derives *misaref* from *seraf*, tree sap (Orlah 1:7; see also Shabbos
+   similarly proposes that *misaref* derives from *seraf*, tree sap (Orlah 1:7; see also Shabbos
    26a), though that word is spelled with a sin: descendants are one's "sap,"
    coming from one's own flesh as sap comes from within the tree, and *misaref*
    refers specifically to unwanted, wicked or wayward, offspring, who drip down

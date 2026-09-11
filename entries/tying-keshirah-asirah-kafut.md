@@ -22,12 +22,12 @@ For Malbim, *keshirah* is **tying** where the thing tied consents to it: **bind,
 tie, join**; *asirah* is **tying down** without the consent of what is tied:
 **bind, detain, restrain**, and it is the root of *assir* (prisoner) and *issur*
 (prohibition). *Kafut* is the Aramaic and Mishnaic **tied down**; one way of
-reading it, the column says, ties it to *kefiyah*, compulsion, but Rashi glosses
-it sometimes with *asirah* and sometimes with *keshirah*, and Dr. Michael
+reading it, Rabbi Klein says, ties it to *kefiyah*, compulsion; Rashi glosses
+it sometimes with *asirah* and sometimes with *keshirah*; and Dr. Michael
 Sokoloff connects it to a different Aramaic root altogether. *Tzror* is
 **binding tight**, a union of strongly attached parts (Pappenheim). *Ketirah* is
 the Aramaic of *keshirah*, Targum's standard rendering of it (HaBachur), by a
-shin-to-tav shift (Rabbi Yaakov Berger). On Malbim's consent test, consent
+shin-to-tav shift, presuming tav and tes interchange (Rabbi Yaakov Berger). On Malbim's consent test, consent
 belongs to *keshirah*, its absence to *asirah*.
 
 ## Distinctions
@@ -51,25 +51,24 @@ the animal that draws it (Bereishis 46:29, Shemos 14:6, II Melachim 9:21) or tyi
 down a captive or detainee (Tehillim 146:7, II Melachim 17:4, Shoftim 16:21).
 Hence *beis ha'asurim*, the jail, literally the house of those tied down
 (Shoftim 16:21, 16:25; Bereishis 39:20, 40:5). *Issur*, a prohibition, is already
-in Chumash, of vows that forbid actions or things (Bamidbar 30:3 to 15); the
-column explains that what is forbidden is as though tied down and made
+in Chumash, of vows that forbid actions or things (Bamidbar 30:3 to 15); Rabbi
+Klein explains that what is forbidden is as though tied down and made
 inaccessible, and compares the English "my hands are tied." Malbim: the main
 difference from *keshirah* is that *asirah* is done without the consent of what
 is tied, as a captive is tied down against his will; so he relates it to
 *yissurin*, suffering, which likewise comes upon a man against his will, and to
-*issur*, where one's actions are precluded, by law or by nature, against his
+*issur*, where one's actions may be precluded, by law or by nature, against his
 will. Rabbi Shlomo Pappenheim ties the root to the biliteral samech-reish,
 "removal," since one who is tied down has his freedom of movement removed; that
 the aleph of *assur* is superfluous was already noted by Rabbi Yehuda Ibn
 Chayyuj, who adduces *beis hasurim* (Koheles 4:14) as the equivalent of *beis
 ha'asurim*. Rabbi Yaakov Tzvi Mecklenburg similarly relates *mussar* to tying,
-since it gives a man the ability to tie down his *yetzer hara*. The column adds,
-from its own earlier essay, that *erusin* may be a metathesized form of
-*asirah*.
+since it gives a man the ability to tie down his *yetzer hara*. Rabbi Klein
+also raises the notion that *erusin* may be a metathesized form of *asirah*.
 
 ### ketirah (קטירה)
 Root ק-ט-ר. In Hebrew this root is smoke or incense; in Aramaic it is tying
-(the column knows of no connection between the two). Three appearances in the
+(Rabbi Klein knows of no connection between the two). Three appearances in the
 Aramaic of Daniel: literally tied (Daniel 5:6), and twice of a riddle or enigma,
 figuratively tied in a knot that has to be opened (Daniel 5:12, 5:16). Rabbi
 Eliyahu HaBachur (*Meturgaman*) had already noted that it is Targum's standard
@@ -103,9 +102,9 @@ Kamma 6:5, Taharos 7:5). In the Gemara Rashi again sometimes defines it with
 *asirah* (Sukkah 31a; see also Targum to Tehillim 118:27) and sometimes with
 *keshirah* (Chullin 16a, Sanhedrin 77b, Kiddushin 70a).
 
-Etymology, two proposals. One way, the column says, is to tie *kafut* to
+Etymology, two proposals. One way, Rabbi Klein says, is to tie *kafut* to
 *kefiyah*, duress or compulsion, since both subjugate and dominate another. That
-approach, it adds, jibes with Rabbi Shlomo Pappenheim's reading of the biliteral
+approach, he adds, jibes with Rabbi Shlomo Pappenheim's reading of the biliteral
 kaf-peh as "receptacle," under which he gathers *kaf* (palm), *kofef* (bending,
 what turns a palm into a receptacle), *akifah* (enforcement, bending others to
 an authority), *kippah* (dome, a palm-like structure), *kofeh* (overturning a
@@ -113,17 +112,17 @@ vessel, making a dome-like space), and *kafan* (famine, which bends a man's
 stature); *kefiyah* for him is suppressing dissent so that another bends. Dr.
 Michael Sokoloff, in his dictionary of Jewish Babylonian Aramaic, instead
 connects *kafut* to the quadriliteral Aramaic root כ-ר-פ-ת, found once in the
-Talmud (Niddah 48b), the reish sometimes dropping by assimilation; the column
+Talmud (Niddah 48b), the reish sometimes dropping by assimilation; Rabbi Klein
 notes that as some commentators explain that one Talmudic word, it seems totally
 unrelated to *kafut*.
 
 ### tzror (צרור)
-The column gives the root as צ-(ו)-ר. *Maaser sheini* money is to be tied up in
+Root צ-(ו)-ר. *Maaser sheini* money is to be tied up in
 the hand and taken to Yerushalayim (Devarim 14:25); marrying two sisters at once
 "ties" them together (Vayikra 18:18), and in Mishnaic usage *tzaros* are
 co-wives, tied together by marriage to the same man. Rabbi Shlomo Pappenheim:
-from the biliteral tzadi-reish, the union of strongly connected parts, which, the
-column says, a tight knot certainly fits.
+from the biliteral tzadi-reish, the union of strongly connected parts, which, Rabbi
+Klein says, a tight knot certainly fits.
 
 ### the narrower roots
 - ר-ת-ם: harnessing a wagon to an animal (Michah 1:13). The same root gives the
@@ -147,18 +146,17 @@ column says, a tight knot certainly fits.
   root.
 - ח-ת-ל: Malbim: *chitul*/*chatulah* (Yechezkel 16:4, 30:21, Iyov 38:9) is
   wrapping in soft fabric, as against tying tight. In Modern Hebrew the noun is a
-  diaper; for a possible metathesized form see II Melachim 10:22. The column asks
-  how this connects to *chatul*/*chatulah*, a cat, found many times in the Bavli
+  diaper; for a possible metathesized form see II Melachim 10:22.
+  *Chatul*/*chatulah*, a cat, appears many times in the Bavli
   (Berachos 56b; Shabbos 51a, 128b; Eruvin 100b; Bava Kamma 80a to 80b; Horayos
   13a to 13b; Chullin 52b to 53a; Bechoros 8a to 8b) and once in the Yerushalmi
-  (Peah 3:7), never in Tanach or Mishnah. Rabbi Aharon Marcus explains that the
-  cat is agile and dexterous, supple and flexible like soft cloth. He also writes
+  (Peah 3:7), never in Tanach or Mishnah. Rabbi Aharon Marcus connects it to this
+  root: the cat is agile and dexterous, supple and flexible like soft cloth. He also writes
   that the Egyptian Hathor, a deified cat, comes from Hebrew *chatul*, the
   Egyptians pronouncing *l* as *r*, and that *chatul* entered Latin as *catulus*
   and spread from there: Italian *gatto*, Spanish *gato*, Swedish *katta*, Polish
   *kot*, German *Katze*, French *chat*, English *cat*.
-- ר-כ-ס, also tying or fastening, the column treats in earlier essays ("In the
-  Middle," July 2022, and "Speedy Horsepower").
+- ר-כ-ס also means tying or fastening.
 
 ## Rendering guidance
 

@@ -53,7 +53,8 @@ rely on His caring.
 ### tikvah (תקוה), tocheles (תוחלת), chikui (חכוי)
 Wertheimer: all three mean waiting, graded by certainty. *Tocheles* (verb
 *yachel*): one relies on it coming but not wholeheartedly; hence *yachel
-Yisrael* (Tehillim 130:7), for our sins may block what we await. *Tikvah*: one
+Yisrael* (Tehillim 130:7), for there is sometimes reason to doubt our
+salvation, since our sins might block what we await. *Tikvah*: one
 relies wholly on the fulfilment, though he cannot say it is certain. *Chikui*:
 one is sure it will happen and is only waiting. Pappenheim: *tikvah* is from
 ק-ו, *kav*, a straight line (the builder's cord; the rope of Yehoshua 2:18; the
@@ -71,8 +72,8 @@ struggle to walk. Pappenheim also divides *somech* from *mishan*: *somech* is an
 leaning or relying, even when done willingly and not forced (Moshe on Yehoshua,
 Devarim 34:9; Yisrael on the Leviim, Bamidbar 8:10, where they would not have
 fallen had they not leaned), while *mishan* is leaning on another for actual
-support because one is too weak to support oneself. Malbim: *saad* is holding up an
-inanimate thing so it does not fall, so also a patron's support of a
+support because one is too weak to support oneself. Malbim: *saad* is primarily holding
+up an inanimate thing so it does not fall, so also a patron's support of a
 beneficiary who does not know of it; *mishan* is a beneficiary who knowingly
 relies on another, usually Hashem (Michah 3:11). Pappenheim: *saad* is the act
 of helping one who needs *mishan* (so *soed*, refreshing with food, Bereishis
