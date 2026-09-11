@@ -10,7 +10,7 @@ words:
     tr: eid
     en: witness
     nk: עֵד
-    distinct: the Hebrew word; the one who was there and knows, so his testimony ties the deed to the doer (Rabbi Shlomo Pappenheim); it carries a second sense of "warn"
+    distinct: the Hebrew word; one who was present and so knows (Rabbi Shlomo Aharon Wertheimer), whose testimony ties the deed to the doer (Rabbi Shlomo Pappenheim); it carries a second sense of "warn"
   - he: עדות
     tr: eidus
     en: testimony
@@ -51,7 +51,7 @@ difference as a statement about how Judaism views martyrdom.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| עד | eid | witness | Hebrew; the one who knows, and who warns (Rabbi Shlomo Pappenheim) |
+| עד | eid | witness | Hebrew; the one present who knows (Rabbi Shlomo Aharon Wertheimer); who ties deed to doer, and who warns (Rabbi Shlomo Pappenheim) |
 | עדות | eidus | testimony | what he gives; also the mitzvos that testify, and the Torah that warns |
 | סהד | sahad | witness | Aramaic and Syriac; the one who relays (Rabbi Shlomo Aharon Wertheimer) |
 | קדוש | kadosh | martyr, holy one | the Jewish word for one killed for Hashem's sake, from "holy," not "witness" |

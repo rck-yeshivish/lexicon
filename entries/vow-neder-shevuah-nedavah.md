@@ -81,11 +81,8 @@ Hashanah and Yom Kippur, to save people from violating their own words.
 
 ## Rendering guidance
 
-These are our rendering judgments; the column rules only that the common
-"promise"/"oath" pair misleads.
-
-- *Neder*: "vow." *Shevuah*: "oath." Fix these and keep them fixed. The column objects to "promise" and "oath" as a pair, since together they suggest one is
-  a graver form of the other; note that its own paraphrases of a *neder* use
+- *Neder*: "vow." *Shevuah*: "oath." Fix these and keep them fixed. Rabbi Klein objects to "promise" and "oath" as a pair, since together they suggest one is
+  a graver form of the other; note that his own paraphrases of a *neder* use
   "promise" ("I promise that benefits derived from cigarettes shall be
   forbidden to me").
 - Trap: English "oath" will absorb both, and "vow" is worse, since in ordinary

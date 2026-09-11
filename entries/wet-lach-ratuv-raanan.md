@@ -156,7 +156,7 @@ stones. The Rema (1520 to 1572) cites his reading in *Mechir Yayin* (to Esther
 
 - Trap: "wet" will absorb *lach* and *ratuv*. Use "moist" for *lach*, "wet" or
   "soaked" for *ratuv*, and keep the pair apart wherever halachah is at stake.
-  The column notes that the kind of difference Pappenheim draws can have
+  Rabbi Klein notes that the kind of difference Pappenheim draws can have
   practical ramifications: how saturated a fabric must be before light
   squeezing on Shabbos is *sechitah*, and when a wet food counts as a liquid
   for *bishul*. *Lach* against *yavesh* is "moist" against "dry" (Bamidbar

@@ -135,7 +135,7 @@ word squeezes infinite thought into a finite casing.
   where the contrast is live.
 - *Roshei teivos*: "initial letters" or "abbreviation"; "the heads of the
   words" is the literal gloss.
-- *Millel*: the column renders it "spoken" and "say" (Bereishis 21:7; Tehillim
+- *Millel*: Rabbi Klein renders it "spoken" and "say" (Bereishis 21:7; Tehillim
   106:2), and it is the Targum's standard word for *amirah*. Where a commentary
   builds on the Rokeach's sense (at length) or Rabbeinu Efrayim's (truly), bring
   that out, as at Iyov 33:3, "my lips speak knowledge clearly."

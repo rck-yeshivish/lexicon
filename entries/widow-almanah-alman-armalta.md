@@ -21,7 +21,7 @@ words:
   - he: ארמלתא
     tr: armalta
     en: widow (Aramaic)
-    distinct: the Targumic and Talmudic standard, and the Mishnah already has the verb nisarmelah; not a synonym of almanah but the same word in Aramaic dress
+    distinct: the Targumic and Talmudic standard, and the Mishnah already has the verb nisarmelah; for Rabbi Reuven Chaim Klein not a synonym of almanah but the same word in Aramaic dress
   - he: כרמלית
     tr: karmelis
     en: intermediate domain

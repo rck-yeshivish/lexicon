@@ -53,7 +53,7 @@ the last occurrence of כ-ת-ב in Nevi'im, *vayikasev sefer zikaron* (Malachi
 3:16), again writing as a lasting reminder. Rabbi Shem Tov Gaguine goes as far
 as to infer, from the fact that writing is never mentioned in all of Bereishis,
 that Moshe Rabbeinu was the first person ever to write anything down, and the
-Amalek account the first thing written. Rabbi Klein expects most historians to
+Amalek account the first thing written. Rabbi Reuven Chaim Klein expects most historians to
 disagree, but calls it a fascinating suggestion.
 
 Rav Hirsch (to Shemos 34:27) connects כ-ת-ב with כ-ת-ף (shoulder), ק-ט-ף

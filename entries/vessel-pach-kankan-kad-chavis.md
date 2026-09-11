@@ -13,7 +13,7 @@ words:
   - he: קנקן
     tr: kankan
     en: jug, jar
-    distinct: absent from Tanach, Mishnaic only; typically a pottery vessel (Tosafot to Avodah Zarah 32a) used for wine, oil or water; a loanword from Latin canna, probably by reduplication (Kohut), the Latin itself from Hebrew kaneh (Rabbi Ernest Klein), whence, the column infers, its hollow receptacle
+    distinct: absent from Tanach, Mishnaic only; typically a pottery vessel (Tosafot to Avodah Zarah 32a) used for wine, oil or water; a loanword from Latin canna, probably by reduplication (Kohut), the Latin itself from Hebrew kaneh (Rabbi Ernest Klein), whence, Rabbi Reuven Chaim Klein infers, its hollow receptacle
   - he: כד
     tr: kad
     en: jug, pitcher
@@ -26,7 +26,7 @@ words:
     tr: kaneh
     en: reed, stem, tube
     nk: קָנֶה
-    distinct: not a container but a pipe-like item, typically hollow in the middle; for the column hollowness characterizes it, and Rashbam and Ibn Ezra write that the Menorah's kanim ought to be hollow
+    distinct: not a container but a pipe-like item, typically hollow in the middle; for Rabbi Reuven Chaim Klein hollowness characterizes it, and Rashbam and Ibn Ezra write that the Menorah's kanim ought to be hollow
 sources:
   - wiaw:10751 "Miketz: Cans of Oil" (2022-12-17) https://articles.ohr.edu/articles/miketz-cans-of-oil
 authorities: [Rashi, Radak, Machberet Menachem, Rabbi Shlomo Pappenheim, Tosafot, Tosafos Yom Tov, Daas Zekeinim, Hadar Zekeinim, Rabbeinu Bachya, Rabbi Tzvi Elimelech Shapiro of Dinov, Dr. Alexander Kohut, Oxford English Dictionary, Rabbi Ernest Klein, Rambam, Rabbi Yosef Karo, Aruch HaShulchan HeAsid, Mabit, Rabbi Massoud Chai Rokach, Rabbi Avraham Dovber Kahane-Shapiro, Rashbam, Ibn Ezra, Jastrow]
@@ -58,7 +58,7 @@ typically hollow.
 | קנקן | kankan | jug, jar | Mishnaic only, never in Tanach; typically pottery (Tosafot); via Latin canna from kaneh (Kohut, Ernest Klein) |
 | כד | kad | jug, pitcher | interchanged with chavis in the Mishnah's own wording, the two not necessarily fixed in the vernacular (Bava Kamma 27a) |
 | חבית | chavis | barrel | the large vessel, but not necessarily fixed against kad |
-| קנה | kaneh | reed, stem, tube | pipe-like, typically hollow, not a vessel; through Latin, the etymon of kankan (Ernest Klein) |
+| קנה | kaneh | reed, stem, tube | pipe-like, typically hollow, not a vessel; through Latin, the etymon of kankan (Kohut, Ernest Klein) |
 
 ## Where the authorities disagree
 
@@ -157,15 +157,13 @@ which is how Rabbi Reuven Chaim Klein explains the Mabit's ruling that they may 
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the column's meanings.
-
 - Trap: English "jug" will absorb *pach*, *kankan* and *kad*, and often that is
   right. Distinguish only where the passage turns on size: *pach* small flask,
   *kad* jug, *chavis* barrel.
 - Where a Mishnah shifts from *kad* to *chavis* within one ruling, Bava Kamma
   27a explains the shift as loose vernacular; keep the Mishnah's two words
   visible in English rather than repairing them to one.
-- *Pach hashemen* in a Chanukah context: "flask of oil" (the column itself says "container").
+- *Pach hashemen* in a Chanukah context: "flask of oil" (Rabbi Reuven Chaim Klein himself says "container").
 - *Kaneh* is never a vessel: "reed," "stem," "branch," or "windpipe."
 
 ## Notes for a project

@@ -21,7 +21,7 @@ words:
   - he: מאין
     tr: meayin
     en: from where
-    distinct: the same root with a prefixed mem, which in the column's rule tends to flip a root's meaning, so origin instead of destination
+    distinct: the same root with a prefixed mem, which, as Rabbi Klein has noted, tends to flip a root's meaning, so origin instead of destination
 sources:
   - wiaw:8478 "Where are You" (2019-11-16) https://articles.ohr.edu/articles/where-are-you
 authorities: [Rabbi Shlomo Pappenheim of Breslau, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Eliyahu Mizrachi, Radak, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Uriel Frank]

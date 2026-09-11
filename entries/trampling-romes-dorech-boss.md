@@ -21,7 +21,7 @@ words:
   - he: רמש
     tr: remes
     en: creeping creature
-    distinct: the lighter tread of small creatures that walk with the whole body (Ramban) and do less damage (Rav Hirsch); the Kimchis make its root one with ר-מ-ס, while Ibn Saruk, Ibn Janach and Ibn Parchon seem to keep them apart
+    distinct: creatures that tread the ground with the whole body (Ramban); a lighter tread than romes, of small creatures that do less damage (Rav Hirsch); the Kimchis make its root one with ר-מ-ס, while Ibn Saruk, Ibn Janach and Ibn Parchon seem to keep them apart
 sources:
   - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
 authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Radak, Ramban, Rashi, Rav Hirsch, Malbim, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yisroel Zev Horowitz, Oxford English Dictionary]
@@ -156,8 +156,8 @@ connection.
 - *Remes* is a noun for the creature, not a verb: **creeping things**, with no trampling
   carried into it. Where a mefaresh equates *boss* with *romes* (Rashi does), follow him
   inside the quotation and keep the distinction for the running text.
-- Do not carry English "boss" into Hebrew *boss*: the column, citing the OED, traces
-  the English word to Dutch *baas* and gives up its own earlier guess at a link.
+- Do not carry English "boss" into Hebrew *boss*: Rabbi Klein, citing the OED, traces
+  the English word to Dutch *baas* and gives up his own earlier guess at a link.
 
 ## Notes for a project
 

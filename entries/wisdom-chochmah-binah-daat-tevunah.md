@@ -142,12 +142,12 @@ Sternberg was quite taken aback.
 
 - The triad חכמה תבונה ודעת (Shemos 31:3): "wisdom, understanding, and
   knowledge," in that order.
-- The pair חכמה ובינה (Devarim 4:6): "wisdom and understanding" (the column
+- The pair חכמה ובינה (Devarim 4:6): "wisdom and understanding" (Rabbi Klein
   has "wisdom and insightfulness"). The absence of *daat* is load-bearing (Rabbi
   Yaakov Chaim Sofer: the nations reach *chochmah* and *binah* but not *daat*;
   his brother Rabbi Eliyahu Tzion Sofer, from Eichah Rabbah 2:13: not even
   *binah*), so do not pad the pair with "knowledge."
-- נבון וחכם (Bereishis 41:33, 41:39): "discerning and wise" (the column has
+- נבון וחכם (Bereishis 41:33, 41:39): "discerning and wise" (Rabbi Klein has
   "insightful and wise"), in Hebrew order. For Rabbi Yaakov Chaim Sofer the
   same silence about *daat* is the point: Pharaoh could not see that Yosef was
   also a *yodea*.

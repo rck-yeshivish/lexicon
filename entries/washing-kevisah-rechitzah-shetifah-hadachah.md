@@ -122,8 +122,6 @@ is probably in this sense, Rabbi Klein suggests, that *kinuach seudah*, the
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the column's meanings.
-
 - Vayikra 6:21, ומרק ושטף במים: "it shall be scoured and sluiced with water."
   Two words for two acts. Rashi has them as inside and outside, Rambam as two
   grades of thoroughness, so avoid an English pair that picks one reading.

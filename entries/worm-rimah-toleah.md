@@ -141,12 +141,12 @@ named for his poor, weak and scarlet appearance at birth, after *tola'as shani*.
 
 - Fixed phrase רימה ותולעה (*Avos* 3:1, Berachos 24b, Nedarim 9b, Bava Basra
   17a, Bava Metzia 83b, and the midrashim): "maggots and worms." Keep the
-  order, which the column, the Netziv and the Vilna Gaon read as a sequence.
+  order, which Rabbi Klein, the Netziv and the Vilna Gaon read as a sequence.
 - Trap: English "worms" absorbs both. If the passage turns on the pair (the
   manna at Shemos 16:20 and 16:24, or the seven whose bodies were untouched),
   the two English words must stay two.
 - *Tola'as* alone is usually "worm"; *tola'as shani* is the scarlet dye, which
-  the column glosses "red."
+  Rabbi Klein glosses "red."
 - *Rimah* names the creatures, larvae or maggots; Rabbi Goldman's broader sense,
   internal decay, belongs in a note rather than in place of "maggots."
 - מתלעות is "teeth," never "worms," though the lexicographers give both one

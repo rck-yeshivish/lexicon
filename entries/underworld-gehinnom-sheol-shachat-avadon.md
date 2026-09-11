@@ -129,12 +129,9 @@ and so Gehinnom cleanses a man of his sins until what the sin made is gone.
 
 ## Rendering guidance
 
-These are our rendering judgments; the column gives the meanings, not an
-English policy.
-
 - *Gehinnom* stays transliterated: it is a place name, and the Gemara's
-  derashah on it works off its sound. The column records "hell" and
-  "purgatory" as the common renderings without ruling on either, and itself
+  derashah on it works off its sound. Rabbi Klein records "hell" and
+  "purgatory" as the common renderings without ruling on either, and himself
   uses "purgatory" for Rashi's derashah on *sheol*.
 - *Sheol*: "the grave" as the default, on Ibn Ezra. Only where a source is
   reading it as the place of the soul should the English shift, and then say
@@ -144,7 +141,7 @@ English policy.
   transliterated with a gloss: "*be'er shachat*, the well of the pit," and so
   on. The moment two of them read alike the count of seven stops meaning
   anything.
-- *Tzalmaves*: "the shadow of death," the column's literal rendering.
+- *Tzalmaves*: "the shadow of death," Rabbi Klein's literal rendering.
 - *Tophes* stays a proper name in Yirmiyahu and transliterated in the Gemara's
   derashah, since the derashah works off the sound of the word.
 

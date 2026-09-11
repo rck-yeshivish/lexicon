@@ -149,15 +149,13 @@ brought Yaakov's family down to Mitzrayim (Rabbeinu Manoach; Ibn Shuaib to Tzav;
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the column's meanings.
-
 - *Yerek* / *yerakos*: "vegetable(s)." Not "greens," which narrows it, and not
   "herb," which is a different plant class.
 - *Yarok*: "green" ordinarily, but in a halachic passage about colors say
   "*yarok*" and gloss the range, since the Rabbinic word reaches yellow and
   blue and English "green" does not.
 - *Karpas* stays transliterated in a Seder context; gloss it "the vegetable for
-  the first dipping," not "parsley," since, as the column says, no halachah
+  the first dipping," not "parsley," since, as Rabbi Reuven Chaim Klein says, no halachah
   requires one to use *karpas* and communities use potato, onion, cucumber, and
   even banana or strawberry (*Chasam Sofer*, Orach Chaim 132; *Aruch HaShulchan*
   473:10; *Piskei Teshuvos* to 473).

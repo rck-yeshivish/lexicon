@@ -23,7 +23,7 @@ words:
     tr: shechar
     en: strong drink
     nk: שֵׁכָר
-    distinct: any intoxicating drink (Rabbi Moshe Ibn Ezra, Ibn Ezra); the Targumim and Sifrei narrow it to wine in the Nazir pesukim, and in Chazal it is beer or mead, not wine (Bedersi)
+    distinct: any intoxicating drink (Rabbi Moshe Ibn Ezra, and seemingly Ibn Ezra); the Targumim and Sifrei narrow it to wine in the Nazir pesukim, and in Chazal it is usually beer or mead, not wine (Bedersi)
   - he: עסיס
     tr: assis
     en: pressed juice

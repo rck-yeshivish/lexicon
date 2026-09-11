@@ -110,8 +110,6 @@ traditions), wood ranks above stone, and
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the column's views.
-
 - Default renderings: *vayikatz* "he awoke"; *hekitz / meikitz* "wakes,"
   "rouses from sleep"; *oorah / uri* "awake!" or "rouse yourself"; *me'orer*
   "who rouses"; *er* "awake" as an adjective; *hisorerus* "arousal" or
@@ -124,7 +122,7 @@ These are our rendering judgments, built on the column's views.
   41:7; Bereishis 9:24; Yoel 1:5), "awoke" is enough; do not add "suddenly."
   Pappenheim's suddenness, for those who follow him, is carried by the word
   itself, and spelling it out in English overtranslates.
-- *Hisorerus*, the later term of art for an inner stirring, is not discussed in the column. Our suggestion is to keep it transliterated and gloss it once.
+- *Hisorerus*, the later term of art for an inner stirring: keep it transliterated and gloss it once.
 - The ק-צ family (*keitz*, *ketzeh*, *kayitz*, *ketzitzah*, *kotz*) is shared
   with the "corner" cluster; see [corner](corner-peah-keren-zavit-pinah.html), where
   Pappenheim runs the same root through *katzeh*.

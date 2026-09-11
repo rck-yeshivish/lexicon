@@ -116,11 +116,9 @@ Rabbi Ernest Klein connects *kotel* with the Akkadian *kutallu*, "backside."
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the column's meanings.
-
 - *Chomah*: **city wall**, or **rampart** where the fortification is the point.
   *Chomos Yerushalayim* are the walls of the city, not the walls of a building.
-  (The column's own opening says "the wall of the rampart (the *Cheil*).")
+  (Rabbi Reuven Chaim Klein himself writes "the wall of the rampart (the *Cheil*).")
 - *Kir*: **wall**, plain, of a house or of the mizbeach.
 - *Cheil*: **the Cheil**, transliterated, in Mikdash contexts, with a gloss the
   first time (a shorter wall and the space it marks off; outside or inside the
@@ -132,7 +130,7 @@ These are our rendering judgments, built on the column's meanings.
 - Trap: English "wall" absorbs all six. Pesachim 86a's *shura uvar-shura* pairs
   two of them in three words, so render "a wall and a wall's son," keeping the
   Gemara's image, and gloss which is which.
-- Second trap: *shur* and *chomah* both carry "wall" and "see" (Klein), so a
+- Second trap: *shur* and *chomah* both carry "wall" and "see" (Rabbi Ernest Klein), so a
   pasuk using either may not be about masonry at all; Rashi seems unsure at
   Bereishis 49:22.
 

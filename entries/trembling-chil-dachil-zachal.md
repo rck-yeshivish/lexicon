@@ -151,11 +151,11 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   is.
 - *Dachil*: "fearsome" or "dread" when descriptive, "fear" when it renders
   *yirah* or *pachad*. In *b'dichilu u'rechimu* keep the Aramaic and gloss
-  "with fear and love" (the column's rendering) or "with awe and love."
+  "through fear and love" (Rabbi Klein's rendering) or "with awe and love."
 - Trap: English "fear" absorbs *chil*, *dachil*, and *zachal*, and the piyut
   *Yarasi Befitzchi Si* (Rabbi Yekusiel bar Moshe, the chazzan's opening
   supplication in Shacharis Shemoneh Esrei on the first day of Rosh Hashanah)
-  sets all three in rhyme, plus *nora*. The column translates "awesome" for
+  sets all three in rhyme, plus *nora*. Rabbi Klein translates "awesome" for
   *nora*, "fearsome" for *dachil*, "I trepidate" for *azchil*, "fear" for *chil*;
   a rendering that varies the English keeps the three apart.
 - *Zochel* in Devarim 32:24: follow Rashi ("those that crawl in the dust") or

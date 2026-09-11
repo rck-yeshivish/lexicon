@@ -9,11 +9,11 @@ words:
   - he: לבן
     tr: lavan
     en: white
-    distinct: the umbrella Hebrew term, covering every manifestation of white (Rabbi Shlomo Pappenheim); the same root gives leveinah (brick), levanah (moon), levonah (frankincense)
+    distinct: seemingly the umbrella Hebrew term, covering every manifestation of white (Rabbi Shlomo Pappenheim); the same root gives leveinah (brick), levanah (moon), levonah (frankincense)
   - he: חיור
     tr: chivar
     en: white, pale
-    distinct: the Aramaic standard rendering of lavan in the Targumim; Rashi treats it as simply "white," while Rabbi Shlomo Pappenheim restricts it to whiteness produced by an outside force such as fire
+    distinct: the Aramaic standard rendering of lavan in the Targumim; Rashi glosses it as lavan, perhaps treating the two as one, while Rabbi Shlomo Pappenheim restricts it to whiteness produced by an outside force such as fire
   - he: צחר
     tr: tzochar
     en: white, or combed
@@ -50,7 +50,7 @@ word means white at all.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| לבן | lavan | white | the umbrella Hebrew term for every kind of white (Pappenheim); root of *leveinah*, *levanah*, *levonah* |
+| לבן | lavan | white | seemingly the umbrella Hebrew term for every kind of white (Pappenheim); root of *leveinah*, *levanah*, *levonah* |
 | חיור | chivar | white, pale | Aramaic; the Targumic rendering of *lavan* (Rashi glosses it back as *lavan*); whiteness caused from outside (Pappenheim) |
 | צחר | tzochar | white / combed | Rashi: white. Ibn Janach and Bedersi: combed, and only incidentally white |
 | חלבון | chelbon | white wine | white by color (Rashi), seemingly from *chalav*; rich, seemingly from *cheilev* (Menachem); a place in Aram (Radak) |
@@ -221,7 +221,7 @@ does after all relate to Hebrew, but to *chalav*, not *lavan*.
 - In Shoftim 5:10 do not simply write "white donkeys" without knowing you have
   chosen Rashi over Bedersi. "Groomed she-donkeys" is the other reading.
 - *Chivar* is Aramaic. Do not present *lavan* and *chivar*
-  as a Hebrew synonym pair; on the column's reading of Rashi they are perhaps
+  as a Hebrew synonym pair; on Rabbi Klein's reading of Rashi they are perhaps
   the same word in two languages, with at most a narrowing in Pappenheim.
 - *Libbun* in a halachic context is not "whitening" in the color sense but firing
   a vessel to glowing heat; the color word is doing metallurgical work.

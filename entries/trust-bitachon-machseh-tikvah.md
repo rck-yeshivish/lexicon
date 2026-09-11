@@ -30,8 +30,8 @@ Gaon). *Tikvah* is **hope**, *tocheles* **expectant waiting** with some doubt,
 lines: for Malbim *semichah* is with one's whole weight and *mishan* only
 partial; for Pappenheim *somech* covers any leaning, even by choice, and
 *mishan* is leaning out of need. *Saad* is **support** given (Malbim: to one
-unaware of it; Pappenheim: to one who needs *mishan*), better rendered "helps"
-according to Rabbi Moshe Tzuriel's suggestion. *Sever* is **hopeful
+unaware of it; Pappenheim: to one who needs *mishan*), or, as Rabbi Moshe
+Tzuriel suggests, **help**, the beneficiary also doing his part. *Sever* is **hopeful
 looking-to**; *kesel* **assurance** that nothing bad will happen (Malbim). Chovos
 HaLevavos counts these as ten levels of one thing.
 

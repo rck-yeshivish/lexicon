@@ -159,8 +159,6 @@ etymologists agree.
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the column's meanings.
-
 - *Ravak*: **unmarried man**, or **bachelor** where the Tosafos and Rambam
   reading is in force and never-married is the point. In a halachic passage
   leave it transliterated and gloss it once.
@@ -174,7 +172,7 @@ These are our rendering judgments, built on the column's meanings.
   at once. Where Rashi puts *revakim penuyim* side by side, do not write "single
   singles"; render it "unmarried men, unattached."
 - Trap: "choicest" is the etymology of *bachur* (Radak), not a translation of
-  it; and English "bachelor" does not derive from *bachur* (Klein, via the column).
+  it; and English "bachelor" does not derive from *bachur* (Rabbi Dr. Ernest Klein).
 
 ## Notes for a project
 

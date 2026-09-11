@@ -9,11 +9,11 @@ words:
   - he: למה
     tr: lamah
     en: why, for what purpose
-    distinct: built from la- ("for") plus mah ("what"), so it asks toward what end; Mecklenburg and Malbim make it the question of ultimate purpose, and Rabbi Wertheimer hears complaint or rebuke in it
+    distinct: seen as la- ("for") plus mah ("what"), so it asks toward what end; Mecklenburg and Malbim make it the question of ultimate purpose, and Rabbi Wertheimer hears complaint or rebuke in it
   - he: מדוע
     tr: madua
     en: why, on what grounds
-    distinct: a contraction of mah deah, "what thinking" (Rabbeinu Yonah ibn Janach), so it asks what reasoning stands behind the thing; the neutral word, seeking an answer in earnest
+    distinct: a contraction of mah deah, "what thinking" (Rabbeinu Yonah ibn Janach), so it asks what reasoning stands behind the thing; neutral for Rabbi Wertheimer, and for others the question that seeks an answer in earnest
 sources:
   - wiaw:7039 "Why? Which \"Why\"?" (2016-12-10) https://articles.ohr.edu/articles/why-which-why
 authorities: [Ibn Parchon, Radak, Rabbeinu Yonah ibn Janach, Ibn Ezra, Ramban, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Shlomo Aharon Wertheimer]

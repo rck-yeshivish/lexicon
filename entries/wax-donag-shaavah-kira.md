@@ -13,7 +13,7 @@ words:
   - he: שעוה
     tr: shaavah
     en: beeswax, candle wax
-    distinct: the Mishnaic and Targumic word; the Gemara defines it as pesulta d'duvsha, the refuse of honey (Shabbos 20b), and the column derives it, seemingly, from the root SHIN-AYIN, for wax's smooth texture
+    distinct: the Mishnaic and Targumic word; the Gemara defines it as pesulta d'duvsha, the refuse of honey (Shabbos 20b), and Rabbi Reuven Chaim Klein derives it, seemingly, from the root SHIN-AYIN, for wax's smooth texture
   - he: קירא
     tr: kira
     en: wax

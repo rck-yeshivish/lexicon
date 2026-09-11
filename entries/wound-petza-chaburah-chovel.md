@@ -17,7 +17,7 @@ words:
   - he: חובל
     tr: chovel
     en: to injure, one who wounds
-    distinct: Rabbinic only, absent from Tanach; the verb of the five payments (Bava Kamma 8:1) and of the Shabbos melachah (Shabbos 14:1), from ח-ב-ל, "pain" or "damage"
+    distinct: Rabbinic only, absent from Tanach; the verb of the five payments (Bava Kamma 8:1) and of the Shabbos melachah (Shabbos 14:1), most likely from ח-ב-ל in its sense of "pain" or "damage"
   - he: חברבורות
     tr: chavarburos
     en: spots, markings
@@ -46,8 +46,8 @@ Bereishis 4:23, Shemos 21:25, Yeshayahu 1:6 and Mishlei 20:30.
 |---|---|---|---|
 | פצע | petza | open wound, laceration | skin opened, blood comes out (Rashi, Gra); a sharp instrument |
 | חבורה | chaburah | bruise, contusion | blood gathers under unbroken skin (Rashi); from chibbur (Malbim) |
-| חובל | chovel | to injure | Rabbinic verb; root ח-ב-ל, "pain," "damage" |
-| חברבורות | chavarburos | spots | leopard's markings, same root as chaburah |
+| חובל | chovel | to injure | Rabbinic verb; root ח-ב-ל, most likely in its sense of "pain," "damage" |
+| חברבורות | chavarburos | spots | leopard's markings; a declension of chaburah (Ibn Saruk, Ibn Janach, Radak) |
 
 ## Where the authorities disagree
 
@@ -138,7 +138,7 @@ note in *Bikkurei Ittim* (vol. 9, pp. 70-71).
 
 - Trap: English "wound" absorbs both. Where they stand together, on Rashi's
   reading render "a laceration for a laceration, a bruise for a bruise" (Shemos
-  21:25), or keep the Hebrew beside "wound" as the column does.
+  21:25), or keep the Hebrew beside "wound" as Rabbi Klein does.
 - Lemech's boast (Bereishis 4:23) puts the pair in parallel stichs; keep two
   distinct English nouns so the parallelism survives.
 - Where a source follows Rav Saadia Gaon rather than Rashi, *petza* is a

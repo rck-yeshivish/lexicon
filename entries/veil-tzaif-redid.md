@@ -141,10 +141,7 @@ Proto-Indo-European root *sweid-* or *svoid-*, to sweat. From the same root come
 
 ## Rendering guidance
 
-These are our rendering judgments; the column offers the Biblical renderings
-"veil," "shawl," and "headcloth" without choosing among them.
-
-- *Tza'if*: **veil**. "Shawl" and "headcloth" are both defensible (the column's own summary says "shawl"), but "veil" is what carries the two Chumash
+- *Tza'if*: **veil**. "Shawl" and "headcloth" are both defensible (Rabbi Reuven Chaim Klein himself says "shawl"), but "veil" is what carries the two Chumash
   narratives, Rivkah covering herself before Yitzchak and Tamar concealing her
   identity from Yehudah.
 - *Redid*: **shawl**, or **wrap**. In Rambam's halachos, "wrap" reads better

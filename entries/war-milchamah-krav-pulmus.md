@@ -135,20 +135,18 @@ Yiddish *kenig*; Rabbi Shaul Goodman assured him that those belong with *kin*,
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the column's meanings.
-
 - *Milchamah*: "war." *Krav*: "battle" or "combat." Where both stand in one
   passage, keeping English "war" off *krav* keeps the two Hebrew words visible;
-  the column itself treats them as apparent synonyms.
+  Rabbi Klein himself treats them as apparent synonyms.
 - *Yom krav* is "day of battle," not "day of war," and *klei krav* is "weapons"
   or literally "instruments of battle."
 - *Pulmus* with a Roman name attached: "the war of Vespasian," or "the Vespasian
   campaign." Never "the polemic," and never "the controversy."
-- *B'tarunya* in *Avodah Zarah* 3a: follow the *Musaf HeAruch*, as the column does, and render "Hashem does not act tyrannically toward His creatures,"
+- *B'tarunya* in *Avodah Zarah* 3a: follow the *Musaf HeAruch*, as Rabbi Klein does, and render "Hashem does not act tyrannically toward His creatures,"
   noting the reading *batrunya*, "does not enter into battle with them," which
-  the columnist says he once held, if the passage turns on it.
+  Rabbi Klein says he once held, if the passage turns on it.
 - *Kenigia*: "do battle with" follows Rabbeinu Gershom and the Rashba; "hunt"
-  follows the Rashbam, and the column adds that the Greek *kynigia* means
+  follows the Rashbam, and Rabbi Klein adds that the Greek *kynigia* means
   hunting. Pick one and say which; the Leviasan aggadah reads differently under
   each.
 - Trap: a passage that plays on *lechem* and *milchamah* together (Radak, Rav

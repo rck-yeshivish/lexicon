@@ -9,7 +9,7 @@ words:
   - he: רעדה
     tr: raadah
     en: trembling
-    distinct: shaking felt inside the body but not seen from outside (Rabbi Wertheimer), or inner fear that breaks out into visible tremors (Malbim); nine appearances
+    distinct: shaking primarily felt inside the body and not seen from outside (Rabbi Wertheimer), or inner fear that breaks out into visible tremors (Malbim); nine appearances
   - he: זיע
     tr: ziyah
     en: shuddering, agitation

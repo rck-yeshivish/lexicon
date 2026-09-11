@@ -113,7 +113,7 @@ with *raavon*.
   the passage turns on the difference (setting the will against the pull of the body), hold "will" for *ratzon* and "desire" for *chefetz*.
 - Rabbi Edel's axis is worth keeping when the subject is Hashem: His *chefetz*
   may read "purpose" and His *ratzon* "will" (Makkos 3:16).
-- *Cheshek* (חשק) is not defined in this column; Targum treats it like
+- Rabbi Klein does not define *cheshek* (חשק); Targum treats it like
   *chefetz*. Render "longing" and check the dedicated entry once one exists.
 
 ## Notes for a project

@@ -10,11 +10,11 @@ words:
     tr: kanaf
     en: wing; edge, corner
     nk: כָּנָף
-    distinct: the outermost part of the wing, farthest from the body (Rabbi Wertheimer), hence the edge or periphery of a garment or a land (Bedersi), and hence the wing that shelters
+    distinct: the outermost part of the wing, farthest from the body, that casts shade and so shelters (Rabbi Wertheimer); since the wing sits at the bird's edge, also the edge or periphery of a garment or a land (Bedersi)
   - he: אבר
     tr: ever
     en: pinion; limb
-    distinct: better rendered "pinion," the outer wing with its flight feathers; Bedersi makes it any limb, and the wing because it is the strongest, tied to avir, "strong"
+    distinct: the outer wing with its flight feathers, for many the "pinion"; Bedersi makes it any limb, and the wing because it is the strongest, tied to avir, "strong"
   - he: אגף
     tr: agaf
     en: wing (near the body); flank, outlying district
@@ -149,7 +149,7 @@ feather is *notzah* (Vayikra 1:16; Yechezkel 17:3, 17:7; Iyov 39:13).
 
 - כנף on a bird: "wing." On a garment or a land: "corner," "edge," or "hem,"
   following Bedersi's periphery sense.
-- Devarim 32:11: the column's own translation renders both words "wings."
+- Devarim 32:11: Rabbi Klein's own translation renders both words "wings."
   Those who prefer "pinion" for *ever* keep the two apart: "He spreads His
   wings… He bears them on His pinions."
 - Trap: English "wing" will absorb *kanaf*, *ever* and *agaf* together. Where

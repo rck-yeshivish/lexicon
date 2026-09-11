@@ -94,7 +94,7 @@ root of the verb *yaga*, "he toiled."
 
 - The berachah *ha'nosen la'yaef koach*: **"Who gives strength to the exhausted."**
   "Tired" there flattens exactly the word Schwab says the berachah chose on purpose.
-  Schwab's comment is on the berachah's word choice; the column itself translates the
+  Schwab's comment is on the berachah's word choice; Rabbi Klein himself translates the
   pasuk, Yeshayahu 40:29, "to the tired (*yaef*)." On the metathesis view the two words
   are one and "tired" is not a loss.
 - Devarim 25:18 puts *ayef* and *yagea* side by side. Render them separately: **"weary

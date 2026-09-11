@@ -146,7 +146,7 @@ above.
 - *Midbar* in the Chumash's own usage (*Midbar Sinai*, the years in the
   *midbar*) is "Wilderness," capitalized where it names the period; "Desert of
   Sinai" reads geographical and loses the sense of a place outside settlement.
-  That preference is ours; the column declines to choose between the English
+  Rabbi Klein declines to choose between the English
   Bibles' "desert" and "wilderness."
 - Hoshea 2:5: the pair is climactic, so render *midbar* before *tziyah* as
   "a wilderness ... a parched land," never the reverse and never with the same

@@ -76,7 +76,7 @@ Eliyahu HaNavi cited as a prooftext that Mashiach will come today, if only
 Israel would listen to Hashem's voice (Sanhedrin 98a).
 
 **What tziyun means here.** Tukachinsky: the stone that delineates exactly where
-the deceased is buried. Rabbi Pollack also writes that a
+the deceased is buried. Rabbi Pollak also writes that a
 tombstone is called a *tziyun* because, like a road marker, it reminds those who
 see it where they are going and what is expected of them. The "others" above
 read *tziyun* as "outstanding."
@@ -101,7 +101,7 @@ sense; Shick and Pollak work instead off *netziv*, standing.
 Graves marked with a *tziyun*, a "marker," appear at Yechezkel 39:15 and
 Melachim II 23:17. For Tukachinsky its function is to
 delineate the exact spot so that others can avoid tumah, which is especially
-pertinent for Kohanim (Vayikra 21:1 to 4); for Rabbi Pollack it is a road marker
+pertinent for Kohanim (Vayikra 21:1 to 4); for Rabbi Pollak it is a road marker
 reminding the passerby where he is headed; for the "others," the sense
 "remarkable, outstanding" speaks of the deceased's striving for excellence.
 

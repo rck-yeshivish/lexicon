@@ -9,11 +9,11 @@ words:
   - he: עץ
     tr: eitz
     en: tree, wood
-    distinct: the Hebrew word, and in Tanach it covers both the living tree and its cut wood; from the same family as atzum, strong, and etzem, bone, for the hardness that sets a tree apart from grass (Rabbi Shlomo Pappenheim)
+    distinct: seemingly the Hebrew word, and in Tanach it covers both the living tree and its cut wood; from the same family as atzum, strong, and etzem, bone, for the hardness that sets a tree apart from grass (Rabbi Shlomo Pappenheim)
   - he: אילן
     tr: ilan
     en: living tree
-    distinct: Aramaic in origin, appearing in Tanach only in the Aramaic of Daniel 4; Chazal Hebraized it and reserved it for a tree still standing, leaving eitz for wood (Rabbi Chaim Hirschensohn)
+    distinct: seemingly Aramaic in origin, appearing in Tanach only in the Aramaic of Daniel 4; Chazal Hebraized it and reserved it for a tree still standing, leaving eitz for wood (Rabbi Chaim Hirschensohn)
 sources:
   - wiaw:7133 "Tree Words" (2017-02-11) https://articles.ohr.edu/articles/tree-words
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Chaim Hirschensohn, Rabbi Betzalel Stern]
