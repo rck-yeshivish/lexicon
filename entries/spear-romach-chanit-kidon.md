@@ -13,7 +13,7 @@ words:
   - he: חנית
     tr: chanit
     en: spear (military)
-    distinct: 'the weapon commonly found in the military camp, from biliteral CHET-NUN, "encamping" (Rabbi Shlomo Pappenheim), or the one stuck in the ground where it is "camped" (Rabbi Moshe Tedeschi Ashkenazi); other derivations in the body'
+    distinct: 'the weapon commonly found in the military camp, from biliteral CHET-NUN, "encamping" (Rabbi Shlomo Pappenheim), or the one stuck in the ground where it is "camped" (Rabbi Moshe Tedeschi-Ashkenazi); other derivations in the body'
   - he: כידון
     tr: kidon
     en: javelin, dart
@@ -24,7 +24,7 @@ words:
     distinct: a rabbinic word, from Greek lonche, the ancestor of English "lance" (Rabbi Shmuel Krauss); the Persian version was poison-tipped, which is why Shmuel says its victim will not live (Gittin 70a)
 sources:
   - wiaw:11010 "Pinchas: Piercing Spears" (2023-07-08) https://articles.ohr.edu/articles/pinchas-piercing-spears
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Moshe Tedeschi Ashkenazi, Ohalei Yehuda, Rav Hirsch, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rambam, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Tanchum HaYerushalmi, Targum, Rabbi Shmuel Krauss, HALOT, Dr. Raphael Sappan, Avraham Even-Shoshan, Elimelech Klein]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Moshe Tedeschi-Ashkenazi, Ohalei Yehuda, Rav Hirsch, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rambam, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Tanchum HaYerushalmi, Targum, Rabbi Shmuel Krauss, HALOT, Dr. Raphael Sappan, Avraham Even-Shoshan, Elimelech Klein]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -47,7 +47,7 @@ three are one weapon.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | רמח | romach | spear, lance | the killing weapon, fatal in a single stab to exalted and lowly alike (Ohalei Yehuda); for Rav Hirsch, it seems, thrown, not thrust; HALOT "lance" |
-| חנית | chanit | spear | the weapon commonly found in the military camp, from CHET-NUN "encamping" (Rabbi Shlomo Pappenheim); or the one stuck in the ground (Tedeschi Ashkenazi); HALOT "spear" |
+| חנית | chanit | spear | the weapon commonly found in the military camp, from CHET-NUN "encamping" (Rabbi Shlomo Pappenheim); or the one stuck in the ground (Tedeschi-Ashkenazi); HALOT "spear" |
 | כידון | kidon | javelin, dart | a small *romach* of kings and nobles (Rambam), usually thrown (Rabbi Tanchum HaYerushalmi); Targum to Yehoshua 8:18 renders it *romcha*; HALOT "hunting knife/scimitar" |
 | אלונקי | alunki | lance | rabbinic, from Greek *lonche* (Rabbi Shmuel Krauss); the Persian one was poison-tipped (Gittin 70a) |
 
@@ -63,10 +63,10 @@ three are one weapon.
   *kidon* "hunting knife/scimitar."
 
 **How *romach* is built.**
-- Menachem Ibn Saruk (920 to 970), Yonah Ibn Janach (990 to 1055), and Radak
+- Menachem Ibn Saruk (920 to 970), Yonah Ibn Janach (990 to 1050), and Radak
   (1160 to 1235): a triliteral root REISH-MEM-CHET, used for nothing but this
   weapon.
-- Rabbi Moshe Tedeschi Ashkenazi (1821 to 1898, *Otzar Nirdafim*): related to
+- Rabbi Moshe Tedeschi-Ashkenazi (1821 to 1898, *Otzar Nirdafim*): related to
   biliteral MEM-CHET, "erase, annihilate," for the weapon's destructive nature.
 - *Ohalei Yehuda*: a single stab of a *romach* is fatal to anyone, exalted or
   lowly, so the word fuses REISH-(VAV)-MEM ("high, exalted") with MEM-CHET,
@@ -94,7 +94,7 @@ HaShorashim*): triliteral CHET-NUN-HEI ("camping, resting, store"); Menachem Ibn
 Saruk, a biliteralist, does not list the word at all. Rabbi Shlomo Pappenheim
 (1740 to 1814), a biliteralist: CHET-NUN, camping as against travelling, the
 weapon commonly found in the *machaneh* and used for military purposes. Then
-three more: Rabbi Tedeschi Ashkenazi, from CHET-NUN-HEI, the spear often stabbed
+three more: Rabbi Tedeschi-Ashkenazi, from CHET-NUN-HEI, the spear often stabbed
 into the ground where it would be "camped"; *Shoresh Yesha*, from the same root,
 the weapon military camps fear; and *Ohalei Yehuda*, related to *chadah*,
 "sharp, pointed," which Rabbi Reuven Chaim Klein supposes is probably by the interchange of
@@ -104,7 +104,7 @@ NUN and DALET.
 
 ### romach (רמח)
 Once in the Chumash (Bamidbar 25:7), fourteen more times elsewhere in Tanach.
-Commonly translated "spear"; HALOT, "lance." Tedeschi Ashkenazi's and *Ohalei
+Commonly translated "spear"; HALOT, "lance." Tedeschi-Ashkenazi's and *Ohalei
 Yehuda*'s derivations make it the lethal weapon (annihilating, life-removing,
 effective even against the most exalted target); Rav Hirsch's makes it, it
 seems, a thrown one; for the classical lexicographers the root names this weapon
@@ -176,4 +176,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Pinchas: Piercing Spears](https://articles.ohr.edu/articles/pinchas-piercing-spears)," *What's in a Word?*, Ohr Somayach, 8 July 2023.
 
-Cited in the essay: Shemos 15:1 and Bamidbar 25:7 with Rav Hirsch; Yehoshua 8:18 with Targum, and 8:26; Shmuel I 17:6 with Radak, and 17:45; Yirmiyahu 6:23, and 50:42 with Radak; Iyov 21:20, 39:23, 41:21; Gittin 70a; Rambam to Keilim 11:8; Menachem Ibn Saruk; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Moshe Tedeschi Ashkenazi, *Otzar Nirdafim*; *Ohalei Yehuda*; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Shmuel Krauss; HALOT; Rabbi Ernest Klein; Rabbi Yehoshua (Jeremy) Steinberg; Dr. Raphael Sappan, additions to Even-Shoshan's dictionary; Elimelech Klein.
+Cited in the essay: Shemos 15:1 and Bamidbar 25:7 with Rav Hirsch; Yehoshua 8:18 with Targum, and 8:26; Shmuel I 17:6 with Radak, and 17:45; Yirmiyahu 6:23, and 50:42 with Radak; Iyov 21:20, 39:23, 41:21; Gittin 70a; Rambam to Keilim 11:8; Menachem Ibn Saruk; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; *Ohalei Yehuda*; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Shmuel Krauss; HALOT; Rabbi Ernest Klein; Rabbi Yehoshua (Jeremy) Steinberg; Dr. Raphael Sappan, additions to Even-Shoshan's dictionary; Elimelech Klein.

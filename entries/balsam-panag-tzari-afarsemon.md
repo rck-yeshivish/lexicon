@@ -7,7 +7,7 @@ english: [balsam, balsam oil, balm, fragrance, spices, the dripping resin]
 domain: nature
 sources:
   - wiaw:10824 "Ki Sisa: Awesome Balsam" (2023-03-11) https://articles.ohr.edu/articles/ki-sisa-awesome-balsam
-authorities: [Rashi, Radak, Rabbi Yosef Kara, Rabbi Eliezer of Beaugency, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Shmuel David Luzzatto, Zohar, Shoresh Yesha, Rambam, Ramban, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabban Shimon ben Gamliel, Rabbi Yosef Teomim-Frankel, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Moshe ben Yekutiel of Rome, Rabbi Yosef of Saragossa, Zohar Amar, Marcus Jastrow, Alexander Kohut, Richard C. Steiner, Josephus]
+authorities: [Rashi, Radak, Rabbi Yosef Kara, Rabbi Eliezer of Beaugency, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shmuel David Luzzatto, Zohar, Shoresh Yesha, Rambam, Ramban, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabban Shimon ben Gamliel, Rabbi Yosef Teomim-Frankel, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Moshe ben Yekutiel of Rome, Rabbi Yosef of Saragossa, Zohar Amar, Marcus Jastrow, Alexander Kohut, Richard C. Steiner, Josephus]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -54,7 +54,7 @@ in Yechezkel meaning balsam oil.
   unlikely to be, since Yechezkel lists them separately; Rabbi Yosef
   Teomim-Frankel (*Iggros Pri Megadim* letter 2) takes that as support for
   reading *tzari* as something else (Rashi's "theriaca").
-- Rabbi Moshe Tedeschi Ashkenazi and Rabbi Shmuel David Luzzatto, in their
+- Rabbi Moshe Tedeschi-Ashkenazi and Rabbi Shmuel David Luzzatto, in their
   commentaries to Yechezkel, tie *panag* to *pinuk*, pleasure or indulgence, by
   the interchange of gimmel and kuf; ironically, for all their opposition to
   Kabbalah, their reading can be corroborated from the Zohar (*Bereishis* 47b,

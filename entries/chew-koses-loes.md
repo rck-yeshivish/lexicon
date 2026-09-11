@@ -7,7 +7,7 @@ english: [chew, chewing, munch, masticate, crunch, gnaw]
 domain: body
 sources:
   - wiaw:11831 "Behaaloscha: Chew That" (2025-06-14) https://articles.ohr.edu/articles/behaaloscha-chew-that
-authorities: [Rashi, Maharsha, Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Mahari Kara, Rabbi Shlomo Pappenheim, Ohr Zarua, Rabbeinu Chananel, Rav Hai Gaon, Rabbi Moshe Tedeschi Ashkenazi, Rema, Ravyah, Rabbi Matzliach Mazuz, Rabbi Meir Mazuz, Rabbi Yitzchak Barda, Rabbi Avi Kobernick, Rabbi Ernest Klein, Rabbi Yaakov Yehudah Zilberberg, Dr. Asher Weiser, Samuel Krauss, Dr. A. Weiss]
+authorities: [Rashi, Maharsha, Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Mahari Kara, Rabbi Shlomo Pappenheim, Ohr Zarua, Rabbeinu Chananel, Rav Hai Gaon, Rabbi Moshe Tedeschi-Ashkenazi, Rema, Ravyah, Rabbi Matzliach Mazuz, Rabbi Meir Mazuz, Rabbi Yitzchak Barda, Rabbi Avi Kobernick, Rabbi Ernest Klein, Rabbi Yaakov Yehudah Zilberberg, Dr. Asher Weiser, Samuel Krauss, Dr. A. Weiss]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -97,7 +97,7 @@ provisions (Yehoshua 9:5, 9:12; Melachim I 14:3), as *kasnin*, and the halachic
 14:3) relates *kisnin* to *koses*: they are the sorts of treats one munches at
 a party or a wedding. Comparable definitions are cited in the name of Rabbeinu
 Chananel (*Ohr Zarua, Hilchos Berachos* 149) and Rav Hai Gaon (*Sefer HaNer* to
-Berachos 42a). Rabbi Moshe Tedeschi Ashkenazi (*Ho'il Moshe* to Melachim I
+Berachos 42a). Rabbi Moshe Tedeschi-Ashkenazi (*Ho'il Moshe* to Melachim I
 14:3) suggests a different tie to *koses*, since *kisnin* are a food that
 crumbles into small pieces.
 

@@ -17,14 +17,14 @@ words:
   - he: בוס
     tr: boss
     en: trample down, crush underfoot
-    distinct: treading on what was not necessarily destined to be trodden on, so the act itself registers that the walker thinks it unimportant (Rabbi Shlomo Pappenheim); tied to boz and bizayon (Rabbi Moshe Tedeschi Ashkenazi), though Rashi simply equates it with romes
+    distinct: treading on what was not necessarily destined to be trodden on, so the act itself registers that the walker thinks it unimportant (Rabbi Shlomo Pappenheim); tied to boz and bizayon (Rabbi Moshe Tedeschi-Ashkenazi), though Rashi simply equates it with romes
   - he: רמש
     tr: remes
     en: creeping creature
     distinct: creatures that tread the ground with the whole body (Ramban); a lighter tread than romes, of small creatures that do less damage (Rav Hirsch); the Kimchis make its root one with ר-מ-ס, while Ibn Saruk, Ibn Janach and Ibn Parchon seem to keep them apart
 sources:
   - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
-authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Radak, Ramban, Rashi, Rav Hirsch, Malbim, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yisroel Zev Horowitz, Oxford English Dictionary]
+authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Radak, Ramban, Rashi, Rav Hirsch, Malbim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yisroel Zev Horowitz, Oxford English Dictionary]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -37,7 +37,7 @@ updated: 2026-09-10
 (Malbim), with the full force of the body so as to smash what lies under the foot
 (Rav Hirsch). *Boss* is **trample down**: for Rabbi Shlomo Pappenheim, treading on
 what is not necessarily destined to be trodden on, so that the act registers that
-the walker does not think it important, and Rabbi Moshe Tedeschi Ashkenazi expresses
+the walker does not think it important, and Rabbi Moshe Tedeschi-Ashkenazi expresses
 a similar sentiment (*boss* as kin to *boz*, disgrace). But Rashi equates *boss* with
 *romes*, and Rabbi Klein finds *boss* used in very much the same ways as the other
 two. Tedeschi also reads *romes* and *dorech* by the ground rather than the act, and
@@ -50,7 +50,7 @@ Pappenheim takes *romes* as treading on what is meant to be walked on. Tehillim
 |---|---|---|---|
 | רומס | romes | trample | destructive treading, walking so as to damage (Malbim); the full force of the body (Rav Hirsch); stomping raised ground flat, from *ram* (Tedeschi); treading on what is meant to be walked on (Pappenheim) |
 | דורך | dorech | tread, step, press | neutral; kin to derech, a path; can be constructive, as in pressing olives or grapes (Malbim); *derech* from *rach*, soft ground (Tedeschi) |
-| בוס | boss | trample down, crush underfoot | treading on what was not necessarily destined to be trodden on, registering one's estimate of it (Rabbi Shlomo Pappenheim); linked to boz, disgrace (Rabbi Moshe Tedeschi Ashkenazi); equated with *romes* (Rashi) |
+| בוס | boss | trample down, crush underfoot | treading on what was not necessarily destined to be trodden on, registering one's estimate of it (Rabbi Shlomo Pappenheim); linked to boz, disgrace (Rabbi Moshe Tedeschi-Ashkenazi); equated with *romes* (Rashi) |
 | רמש | remes | creeping creature | a lighter tread than *romes*, of typically small, lightweight creatures that do less damage (Rav Hirsch); creatures that tread the ground with the whole body (Ramban) |
 
 ## Where the authorities disagree
@@ -79,7 +79,7 @@ Saruk, Ibn Janach, Ibn Parchon, Radak) trace *romes* to ר-מ-ס.
 walking over a threshold; *romes* implies walking in a destructive, damaging way. So he
 reads Yeshayahu 1:12: people came to the Mikdash for a sort of religious experience but
 were not open to learning how to fear Hashem, so they might as well have been trampling
-the courtyard, their presence rendering it purposeless. Rabbi Moshe Tedeschi Ashkenazi
+the courtyard, their presence rendering it purposeless. Rabbi Moshe Tedeschi-Ashkenazi
 (*Otzar Nirdafim*) instead relates both words to the ground being walked on, each time
 by ignoring one letter of the root: *derech* from *rach*, soft ground that a man treads
 into a path for others, *romes* from *ram*, ground higher than usual, which needs more
@@ -174,4 +174,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Don't Trample On Me](https://articles.ohr.edu/articles/dont-trample-on-me)," *What's in a Word?*, Ohr Somayach, 22 July 2023.
 
-Cited in the essay: Bereishis 1:21 (Rav Hirsch), 1:24 (Ramban); Devarim 11:24, 33:29; Yehoshua 1:3; Yeshayahu 1:12, 14:19, 14:25, 16:10, 63:2, 63:6, 63:18; Yirmiyahu 12:10, 48:33; Yechezkel 16:6, 16:22; Amos 9:13; Michah 6:15; Zechariah 10:5; Tehillim 44:6, 60:14, 91:13, 108:14; Mishlei 27:7; Nechemiah 13:15; Rashi to Tehillim 44:6, 60:14, Yeshayahu 14:25, Mishlei 27:7; Kiddushin 66a with Rashi; Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Avodah Zarah 8b; Chullin 125a; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Shlomo Ibn Parchon, *Machberes HeAruch*; Ibn Chayyuj; Rabbi Yosef Kimchi, *Sefer HaGalui*; Radak, *Sefer HaShorashim*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Moshe Tedeschi Ashkenazi, *Otzar Nirdafim*; Rabbi Yisroel Zev Horowitz; the *Oxford English Dictionary* on English *boss*.
+Cited in the essay: Bereishis 1:21 (Rav Hirsch), 1:24 (Ramban); Devarim 11:24, 33:29; Yehoshua 1:3; Yeshayahu 1:12, 14:19, 14:25, 16:10, 63:2, 63:6, 63:18; Yirmiyahu 12:10, 48:33; Yechezkel 16:6, 16:22; Amos 9:13; Michah 6:15; Zechariah 10:5; Tehillim 44:6, 60:14, 91:13, 108:14; Mishlei 27:7; Nechemiah 13:15; Rashi to Tehillim 44:6, 60:14, Yeshayahu 14:25, Mishlei 27:7; Kiddushin 66a with Rashi; Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Avodah Zarah 8b; Chullin 125a; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Shlomo Ibn Parchon, *Machberes HeAruch*; Ibn Chayyuj; Rabbi Yosef Kimchi, *Sefer HaGalui*; Radak, *Sefer HaShorashim*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yisroel Zev Horowitz; the *Oxford English Dictionary* on English *boss*.

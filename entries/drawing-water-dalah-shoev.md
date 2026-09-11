@@ -30,7 +30,7 @@ words:
     distinct: Menachem Ibn Saruk files it under ד-ל; for Rabbi Shlomo Pappenheim, a man emptied of his fortune as a well is emptied of its water
 sources:
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
-authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Moshe Tedeschi Ashkenazi (Hoil Moshe), Malbim, Shadal, Rabbi Chaim Kanievsky, Wilhelm Gesenius]
+authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Malbim, Shadal, Rabbi Chaim Kanievsky, Wilhelm Gesenius]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -67,7 +67,7 @@ the water is already at hand, from a spring or surface pool: plain **draw**.
   well" the primary sense and "lifting up" anything a borrowed sense of it, and
   he does bring *daliyot* and the Rabbinic *dildul* (dangling) under it.
 
-**Whether dal belongs here at all.** Rabbi Moshe Tedeschi Ashkenazi (*Hoil
+**Whether dal belongs here at all.** Rabbi Moshe Tedeschi-Ashkenazi (*Hoil
 Moshe*) implicitly disagrees with Menachem's classing *dal* under ד-ל, holding
 instead that *dal* derives from *zol*, "cheap," by the well-established
 interchange of *zayin* and *dalet*.

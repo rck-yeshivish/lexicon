@@ -10,7 +10,7 @@ words:
     nk: הֲלָךְ
 sources:
   - wiaw:8339 "Heavy Taxes and Empty Pockets" (2019-07-27) https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets
-authorities: [Rabbi Shlomo Pappenheim, Dr. Hayim Tawil, Menachem Ibn Saruk, Rabbi Yehuda ibn Chayyuj, Rabbi Yonah ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri]
+authorities: [Rabbi Shlomo Pappenheim, Dr. Chaim Tawil, Menachem Ibn Saruk, Rabbi Yehuda ibn Chayyuj, Rabbi Yonah ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -25,7 +25,7 @@ bears that meaning out in several places (the *sarei missim* over the Jews in
 Mitzrayim, Shlomo HaMelech's conscription). *Meches* is the other Biblical
 Hebrew word that sometimes means tax: six times, all in Bamidbar 31, of the
 consecrated share of the Midianite booty given to Hashem. Its origin is
-disputed three ways: an Akkadian loanword for dues or tributes (Dr. Hayim
+disputed three ways: an Akkadian loanword for dues or tributes (Dr. Chaim
 Tawil); a Hebrew root meaning number (Menachem ibn Saruk, Chayyuj, Ibn Janach,
 Radak); a Hebrew root meaning covering, whence the pocket, so the tax that goes
 into the king's own purse (Rabbi Pappenheim). The Aramaic terms are technical,
@@ -58,7 +58,7 @@ Six appearances in Tanach in the sense of tax, all in one chapter (Bamidbar
 31:28-41), of the consecrated booty from the war against Midian, to be given to
 Hashem.
 
-Dr. Hayim Tawil of Yeshiva University argues that the Biblical *meches* is a
+Dr. Chaim Tawil of Yeshiva University argues that the Biblical *meches* is a
 loanword from the Akkadian *miksu* ("dues" or "tributes"), from the Akkadian
 verb *makasu* ("to collect a share from a rented field, to collect taxes,
 duty"). Others, however, have found a Hebrew basis for the word.
@@ -148,4 +148,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Heavy Taxes and Empty Pockets](https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets)," *What's in a Word?*, Ohr Somayach, 27 July 2019.
 
-Cited in the essay: Shemos 1:11, 12:4; Bamidbar 21:13, 31:28-41; Melachim I 5:27; Ezra 7:24; Pesachim 6a; Megillah 7b; Nedarim 62b; Gittin 58b; Bava Metzia 73b, 108a; Bava Basra 8a; Rashi to Pesachim 6a, Megillah 7b, Gittin 58b, Bava Metzia 73b and 108a, and Bava Basra 8a; Tosafos to Avodah Zarah 14b; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Dr. Hayim Tawil; Menachem ibn Saruk; Rabbi Yehuda ibn Chayyuj; Rabbi Yonah ibn Janach; Radak; Rabbi Baruch Avraham Toledano; Rabbi Nosson of Rome, *Sefer HaAruch*; Rabbeinu Nissim to Nedarim 62b; Maharam Chalavah and Meiri to Pesachim 6a; the *Oxford English Dictionary*.
+Cited in the essay: Shemos 1:11, 12:4; Bamidbar 21:13, 31:28-41; Melachim I 5:27; Ezra 7:24; Pesachim 6a; Megillah 7b; Nedarim 62b; Gittin 58b; Bava Metzia 73b, 108a; Bava Basra 8a; Rashi to Pesachim 6a, Megillah 7b, Gittin 58b, Bava Metzia 73b and 108a, and Bava Basra 8a; Tosafos to Avodah Zarah 14b; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Dr. Chaim Tawil; Menachem ibn Saruk; Rabbi Yehuda ibn Chayyuj; Rabbi Yonah ibn Janach; Radak; Rabbi Baruch Avraham Toledano; Rabbi Nosson of Rome, *Sefer HaAruch*; Rabbeinu Nissim to Nedarim 62b; Maharam Chalavah and Meiri to Pesachim 6a; the *Oxford English Dictionary*.

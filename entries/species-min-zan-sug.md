@@ -74,7 +74,7 @@ Hirsch to Shemos 20:4, who distinguishes *pesel* from *temunah*.)
 
 *Minnim* at Tehillim 150:4, "praise Him with *minnim* and pipe," is the only
 appearance of the instrument, possibly a *hapax legomenon*, and it is contested.
-- Rav Saadia Gaon (892 to 942) explains *minnim* as the same as *minim*, the
+- Rav Saadia Gaon (882 to 942) explains *minnim* as the same as *minim*, the
   plural of *min*, seemingly an ensemble of types of instrument creating one
   unified sound (see also Ibn Ezra, *Sefas Yeser* 95, and to Tehillim 150:4 and
   Daniel 3:5). Or, as Pappenheim prefers, a single instrument that somehow

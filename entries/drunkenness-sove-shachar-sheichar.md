@@ -10,7 +10,7 @@ words:
     nk: שֵׁכָר
 sources:
   - wiaw:11520 "Ki Seitzei: Getting Drunk" (2024-09-14) https://articles.ohr.edu/articles/ki-seitzei-getting-drunk
-authorities: [Menachem Ibn Saruk, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Rabbi Moshe Tzuriel, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Kara, Rabbi Yosef Nechemias, Rabbi Dr. Asher Weiser, Dr. Lawrence Resnick, Rashi, Radak, Rambam, Ramban, Rabbi Aharon Marcus]
+authorities: [Menachem Ibn Saruk, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Rabbi Moshe Tzuriel, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Kara, Rabbi Yosef Nechemias, Rabbi Dr. Asher Weiser, Dr. Lawrence Resnick, Rashi, Radak, Rambam, Ramban, Rabbi Aharon Marcus]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -43,7 +43,7 @@ the drink that does it.
   Orach Chaim 175:2; Rabbi Moshe Tzuriel notes in his glosses to *Yerios Shlomo*
   that this last was a sarcastic witticism, drunkards in reality caring nothing
   for berachos.)
-- Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim*) takes the same ס-ב
+- Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) takes the same ס-ב
   differently: people sitting *around* a table drinking together, which would
   make *sove* kin to *mesibah*.
 - Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*), Rav Hirsch (to Bereishis
@@ -80,7 +80,7 @@ nineteen times in Tanach on Even-Shoshan's biblical concordance; the noun
 23:33 and 39:19), and is also the name of a town in Yehudah's territory
 (Yehoshua 15:11); post-biblical *shikur*, a drunkard, is the etymon of the
 Yiddish *shikker*. The noun *sheichar*, the beverage that renders one drunk,
-appears twenty-three times. Rabbi Moshe Tedeschi Ashkenazi: strictly it is any intoxicating
+appears twenty-three times. Rabbi Moshe Tedeschi-Ashkenazi: strictly it is any intoxicating
 drink, but in Tanach it sometimes means strong wine in particular. Targum
 Onkelos and Rashi to Bamidbar 6:3 read it as aged wine against *yayin*, new
 wine; Rashi to Bamidbar 28:7 as intoxicating wine, and at *Zevachim* 91a he ties

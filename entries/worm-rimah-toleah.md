@@ -10,7 +10,7 @@ words:
     nk: מְתַלְּעוֹת
 sources:
   - wiaw:11902 "Matos-Masei: The Wormy Place" (2025-07-26) https://articles.ohr.edu/articles/matos-masei-the-wormy-place
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Netziv, Vilna Gaon, Rabbi Binyamin Rivlin, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu Bachur, Rashbam, Rabbi Yehudah Aryeh of Carpentras, Rabbi David Chaim Chelouch, Rabbi Shaul Goldman, Alfred Jones]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Netziv, Vilna Gaon, Rabbi Binyamin Rivlin, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu Bachur, Rashbam, Rabbi Yehudah Aryeh of Carpentras, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Alfred Jones]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -68,7 +68,7 @@ On which of those senses yields "maggot," the authorities split.
   food grows hot and putrid, so ר-מ-ם is somehow related to ח-מ-ם, heat (he does
   not explain the reish and ches interchange); or the creature is so slight that
   its body barely lifts off the ground.
-- Rabbi David Chaim Chelouch (*Michtam L'David Luach HaShorashim* to Tehillim
+- Rabbi David Chaim Chelouche (*Michtam L'David Luach HaShorashim* to Tehillim
   24:4; *Ohr Chadash Luach HaShorashim* to Shemos 16:20): a root can carry a
   thing and its exact opposite, so ר-מ gives the exalted *ram* and the lowest of
   the low, *rimah*, with *mirmah* and *ramai* in between, seeming exalted and
@@ -166,4 +166,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Matos-Masei: The Wormy Place](https://articles.ohr.edu/articles/matos-masei-the-wormy-place)," *What's in a Word?*, Ohr Somayach, 26 July 2025.
 
-Cited in the essay: *Avos* 2:7, 3:1; Berachos 24b; Nedarim 9b; Bava Basra 17a; Bava Metzia 83b; *Shemos Rabbah* 20; *Vayikra Rabbah* 18; *Devarim Rabbah* 11; *Koheles Rabbah* 5 and 12; *Mechilta* to Shemos 16:20 with *Birkas HaNetziv*; *Ha'Emek She'eilah* 56:3; *Midrash Sechel Tov* to Bereishis 46:13 and Shemos 16:24; *Tanchuma* Beshalach 9; *Yalkut Midrashei Teiman* to Bamidbar 26:23; Bereishis 46:13; Shemos 16:20 with Rav Hirsch and Rashbam; Shemos 16:24; Bamidbar 26:23; Shoftim 10:1; Yeshayahu 1:18; Yeshayahu 14:11 with Malbim; Yeshayahu 41:14 with Radak; Yoel 1:6; Mishlei 23:2, 30:14; Iyov 7:5, 17:14, 21:26, 24:20, 25:6, 29:17; Eichah 4:5; Divrei HaYamim I 7:1-2, 12:33; Ibn Janach and Radak, *Sefer HaShorashim*, with Rabbi Eliyahu Bachur's glosses; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Malbim, *Sefer HaCarmel* and *Yair Ohr*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Rabbi David Chaim Chelouch, *Michtam L'David Luach HaShorashim* to Tehillim 24:4 and *Ohr Chadash Luach HaShorashim* to Shemos 16:20; Rabbi Binyamin Rivlin, *Giviyay Giviya HaKesef*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 482; Rabbi Shaul Goldman; Alfred Jones, *The Proper Names of the Old Testament Scriptures Expounded and Illustrated* (London, 1856), p. 360.
+Cited in the essay: *Avos* 2:7, 3:1; Berachos 24b; Nedarim 9b; Bava Basra 17a; Bava Metzia 83b; *Shemos Rabbah* 20; *Vayikra Rabbah* 18; *Devarim Rabbah* 11; *Koheles Rabbah* 5 and 12; *Mechilta* to Shemos 16:20 with *Birkas HaNetziv*; *Ha'Emek She'eilah* 56:3; *Midrash Sechel Tov* to Bereishis 46:13 and Shemos 16:24; *Tanchuma* Beshalach 9; *Yalkut Midrashei Teiman* to Bamidbar 26:23; Bereishis 46:13; Shemos 16:20 with Rav Hirsch and Rashbam; Shemos 16:24; Bamidbar 26:23; Shoftim 10:1; Yeshayahu 1:18; Yeshayahu 14:11 with Malbim; Yeshayahu 41:14 with Radak; Yoel 1:6; Mishlei 23:2, 30:14; Iyov 7:5, 17:14, 21:26, 24:20, 25:6, 29:17; Eichah 4:5; Divrei HaYamim I 7:1-2, 12:33; Ibn Janach and Radak, *Sefer HaShorashim*, with Rabbi Eliyahu Bachur's glosses; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Malbim, *Sefer HaCarmel* and *Yair Ohr*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Rabbi David Chaim Chelouche, *Michtam L'David Luach HaShorashim* to Tehillim 24:4 and *Ohr Chadash Luach HaShorashim* to Shemos 16:20; Rabbi Binyamin Rivlin, *Giviyay Giviya HaKesef*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 482; Rabbi Shaul Goldman; Alfred Jones, *The Proper Names of the Old Testament Scriptures Expounded and Illustrated* (London, 1856), p. 360.

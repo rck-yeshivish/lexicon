@@ -7,7 +7,7 @@ english: [moist, wet, soaked, fresh, sodden, damp]
 domain: nature
 sources:
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Parchon, Rabbi Moshe Tedeschi Ashkenazi, Rashi, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rav Hirsch, Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno, Metzudas Zion, Malbim, Rabbi Nosson of Rome, Marcus Jastrow, Alexander Kohut, Ralbag, Rema, Ben Yehoyada, Rabbi Chaim Kanievsky]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Parchon, Rabbi Moshe Tedeschi-Ashkenazi, Rashi, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rav Hirsch, Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno, Metzudas Zion, Malbim, Rabbi Nosson of Rome, Marcus Jastrow, Alexander Kohut, Ralbag, Rema, Ben Yehoyada, Rabbi Chaim Kanievsky]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -48,7 +48,7 @@ The word is a case study in root theory.
 - The triliteralists are at a loss: Ibn Janach (*Sefer HaShorashim*) offers
   lamed-vav-ches or lamed-yud-ches; Radak, more definitively, and Ibn Parchon
   (*Machberes HeAruch*) settle on lamed-vav-ches.
-- Rabbi Moshe Tedeschi Ashkenazi (1821 to 1898) suggests *lach* is related to
+- Rabbi Moshe Tedeschi-Ashkenazi (1821 to 1898) suggests *lach* is related to
   *rach*, soft, through the interchange of REISH with LAMED and KAF with CHES.
 - Pappenheim, like Ibn Saruk, takes lamed-ches as the ultimate root, meaning
   moisture itself, and hangs a family on it: *lechi*, the cheek, a concentration
@@ -186,4 +186,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Titzaveh: Wet Words](https://articles.ohr.edu/articles/titzaveh-wet-words)," *What's in a Word?*, Ohr Somayach, 24 February 2024.
 
-Cited in the essay: Bereishis 1:2 (Ralbag), 25:6 (Rav Hirsch), 30:37; Bamidbar 6:3; Devarim 12:2 (Ibn Ezra), 34:7; Shoftim 6:19-20, 16:7-8; Yechezkel 17:24, 21:3; Iyov 8:16, 24:8, 33:25; Tehillim 92:11, 92:15, 103:5 (Radak); Daniel 8:13; Esther 2:1; Mishnah *Demai* 2:3, *Nedarim* 7:1, 7:6, *Eduyos* 4:6, 5:4, *Menachos* 9:2, *Bechoros* 6:3, *Mikvaos* 9:2, *Niddah* 4:3, 7:2, *Tevul Yom* 3:6, *Uktzin* 2:2, *Pesachim* 7:2, *Zevachim* 3:4, *Chullin* 7:5, 9:1, *Taharos* 1:4, 1:9, 3:1, 8:8-9, *Keilim* 8:3-4, 10:8, *Machshirin* 3:5, *Shabbos* 22:6; Sukkah 10b; Berachos 25b; Yoma 78a; Beitzah 24b; Chagigah 12a; Zevachim 54a; Nedarim 41a, 52a; Rashi and Ibn Ezra to Iyov; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Moshe Tedeschi Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Yosef Kara; Rabbi Yosef Kimchi; Sforno; *Metzudas Zion*; Malbim; Rabbi Nosson of Rome, *Sefer HeAruch*; Marcus Jastrow; Alexander Kohut, *HeAruch HaShaleim*; Rabbi Chaim Kanievsky, *Derech Chochmah* to *Hilchos Beis HaBechirah* 1:92; the Rema, *Mechir Yayin* and *Toras HaOlah*; *Ben Yehoyada* to Chagigah 12a.
+Cited in the essay: Bereishis 1:2 (Ralbag), 25:6 (Rav Hirsch), 30:37; Bamidbar 6:3; Devarim 12:2 (Ibn Ezra), 34:7; Shoftim 6:19-20, 16:7-8; Yechezkel 17:24, 21:3; Iyov 8:16, 24:8, 33:25; Tehillim 92:11, 92:15, 103:5 (Radak); Daniel 8:13; Esther 2:1; Mishnah *Demai* 2:3, *Nedarim* 7:1, 7:6, *Eduyos* 4:6, 5:4, *Menachos* 9:2, *Bechoros* 6:3, *Mikvaos* 9:2, *Niddah* 4:3, 7:2, *Tevul Yom* 3:6, *Uktzin* 2:2, *Pesachim* 7:2, *Zevachim* 3:4, *Chullin* 7:5, 9:1, *Taharos* 1:4, 1:9, 3:1, 8:8-9, *Keilim* 8:3-4, 10:8, *Machshirin* 3:5, *Shabbos* 22:6; Sukkah 10b; Berachos 25b; Yoma 78a; Beitzah 24b; Chagigah 12a; Zevachim 54a; Nedarim 41a, 52a; Rashi and Ibn Ezra to Iyov; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Moshe Tedeschi-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Yosef Kara; Rabbi Yosef Kimchi; Sforno; *Metzudas Zion*; Malbim; Rabbi Nosson of Rome, *Sefer HeAruch*; Marcus Jastrow; Alexander Kohut, *HeAruch HaShaleim*; Rabbi Chaim Kanievsky, *Derech Chochmah* to *Hilchos Beis HaBechirah* 1:92; the Rema, *Mechir Yayin* and *Toras HaOlah*; *Ben Yehoyada* to Chagigah 12a.

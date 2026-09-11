@@ -7,7 +7,7 @@ english: [breast, breasts, teat, udder, nipple, bosom]
 domain: body
 sources:
   - wiaw:11489 "Nursing from the Good" (2024-08-17) https://articles.ohr.edu/articles/nursing-from-the-good
-authorities: [Menachem Ibn Saruk, Ibn Janach, Shlomo Ibn Parchon, Radak, Rabbi Shlomo Pappenheim, Rashi, Dunash, Malbim, Rabbeinu Chananel, Rabbi Menachem ben Shimon of Posquieres, Ralbag, Rabbi Shlomo of Urbino, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Natan of Rome, Pseudo-Rasag, Rabbi Shaul Goldman, Shadal, Wilhelm Gesenius, Daas Mikra, Mitchell First, Hayim Tawil, David J. A. Clines]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Shlomo Ibn Parchon, Radak, Rabbi Shlomo Pappenheim, Rashi, Dunash, Malbim, Rabbeinu Chananel, Rabbi Menachem ben Shimon of Posquieres, Ralbag, Rabbi Shlomo of Urbino, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Natan of Rome, Pseudo-Rasag, Rabbi Shaul Goldman, Shadal, Wilhelm Gesenius, Daas Mikra, Mitchell First, Chaim Tawil, David J. A. Clines]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -86,7 +86,7 @@ he returns to his learning; *Shabbos* 53b, the widower whose *dadim* opened so h
 could nurse his child; Ben Katin's twelve *dadim*, breast-like spigots, on the
 kiyor (*Yoma* 3:10); and *Negaim* 6:7-8 on tzaraas, *Niddah* 5:8 on a girl's
 development, *Bechoros* 7:5 on blemishes, *Sotah* 1:6 on the sotah ceremony, and
-*Keilim* 8:11. Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim*) keeps them
+*Keilim* 8:11. Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) keeps them
 synonymous in
 sense but separate in origin: *shadayim* from pouring, *dadim* an infant's own
 sound for his mother's breast. Rabbi Shaul Goldman suggests, as an alternative,
@@ -134,7 +134,7 @@ consolations, and suckle and delight from the *ziz* of her honor."
   associate the Biblical *ziz* with the Italian *zizza* and the German *zitze*,
   both of them the teat of a female mammal. Linguists derive those from the
   theoretical Proto-Germanic *titt*, and that from the Proto-Indo-European
-  *tata*, "father," "parent," or "nipple"; Dr. Hayim Tawil, in his *An Akkadian
+  *tata*, "father," "parent," or "nipple"; Dr. Chaim Tawil, in his *An Akkadian
   Lexical Companion for Biblical Hebrew*, notes an Akkadian *zizu* that also
   means breast, so that, Rabbi Klein says, it is quite possible the
   Indo-European words are cognate with their Semitic counterparts.
@@ -171,4 +171,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Nursing from the Good](https://articles.ohr.edu/articles/nursing-from-the-good)," *What's in a Word?*, Ohr Somayach, 17 August 2024.
 
-Cited in the essay: Bereishis 49:25 with Rashi; Bamidbar 11:8 with Rashi, *Yoma* 75a, *Sifrei* Behaaloscha 89, Tosefta *Sotah* 4:1; Yechezkel 23:3 with Rabbeinu Chananel as quoted by Rabbi Menachem ben Shimon of Posquieres, 23:8, 23:21; Mishlei 5:19 with *Eruvin* 54b; *Shabbos* 53b; *Yoma* 3:10; Iyov 21:23-25 with Rashi, the Ralbag, and Targum there; Yeshayahu 66:11 with Radak, Shadal, Gesenius, *Daas Mikra*, Malbim and Mitchell First; Daniel 1:7 with Pseudo-Rasag; Bamidbar 1:5, 2:10, 7:30, 7:35, 10:18, 11:26-27, 34:21; Shmuel I 14:33, 15:19; Yerushalmi *Kilayim* 1:7 and Bereishis Rabbah 5:9 with *Sefer HeAruch*; Koheles 2:8; *Maasros* 4:3, *Bava Metzia* 5:7, *Taharos* 9:1 and 9:9, *Menachos* 8:4, *Negaim* 6:7-8, *Niddah* 5:8, *Bechoros* 7:5, *Sotah* 1:6, *Keilim* 8:11; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi Ashkenazi, *Otzar Nirdafim*; Dr. Hayim Tawil, *An Akkadian Lexical Companion for Biblical Hebrew*; David J. A. Clines, *The Dictionary of Classical Hebrew*.
+Cited in the essay: Bereishis 49:25 with Rashi; Bamidbar 11:8 with Rashi, *Yoma* 75a, *Sifrei* Behaaloscha 89, Tosefta *Sotah* 4:1; Yechezkel 23:3 with Rabbeinu Chananel as quoted by Rabbi Menachem ben Shimon of Posquieres, 23:8, 23:21; Mishlei 5:19 with *Eruvin* 54b; *Shabbos* 53b; *Yoma* 3:10; Iyov 21:23-25 with Rashi, the Ralbag, and Targum there; Yeshayahu 66:11 with Radak, Shadal, Gesenius, *Daas Mikra*, Malbim and Mitchell First; Daniel 1:7 with Pseudo-Rasag; Bamidbar 1:5, 2:10, 7:30, 7:35, 10:18, 11:26-27, 34:21; Shmuel I 14:33, 15:19; Yerushalmi *Kilayim* 1:7 and Bereishis Rabbah 5:9 with *Sefer HeAruch*; Koheles 2:8; *Maasros* 4:3, *Bava Metzia* 5:7, *Taharos* 9:1 and 9:9, *Menachos* 8:4, *Negaim* 6:7-8, *Niddah* 5:8, *Bechoros* 7:5, *Sotah* 1:6, *Keilim* 8:11; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Dr. Chaim Tawil, *An Akkadian Lexical Companion for Biblical Hebrew*; David J. A. Clines, *The Dictionary of Classical Hebrew*.

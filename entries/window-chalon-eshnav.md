@@ -16,7 +16,7 @@ words:
     distinct: twice in Tanach; a small window (Rabbi Yosef Kara, Meiri), a peephole narrow outside and wide within (Rid), or a latticed one (Menachem Ibn Saruk, Rabbi Moshe David Valle)
 sources:
   - wiaw:9056 "Beshalach: Through the Looking Window" (2021-01-30) https://articles.ohr.edu/articles/beshalach-through-the-looking-window
-authorities: [Rabbi Shlomo Pappenheim, Radak, Rabbeinu Yonah Ibn Janach, Rashi, Rabbi Yosef Kara, Meiri, Rabbi Yishaya of Trani, Rabbi Shaul Goldman, Malbim, Rabbi Shmuel Landiado, Menachem Ibn Saruk, Rabbi Moshe David Valle, Rabbi Moshe Yitzchak Tedeschi Ashkenazi, Shmuel Yeivin, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein, Rabbi Elazar Reines, Rabbi Chaim Futernik, Abarbanel, Alshich]
+authorities: [Rabbi Shlomo Pappenheim, Radak, Rabbeinu Yonah Ibn Janach, Rashi, Rabbi Yosef Kara, Meiri, Rabbi Yishaya of Trani, Rabbi Shaul Goldman, Malbim, Rabbi Shmuel Landiado, Menachem Ibn Saruk, Rabbi Moshe David Valle, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Shmuel Yeivin, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein, Rabbi Elazar Reines, Rabbi Chaim Futernik, Abarbanel, Alshich]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -33,7 +33,7 @@ them, and they do not agree how: a small window (Rabbi Yosef Kara, Meiri), a
 peephole (Rid), an enchanted window used for divination (Malbim to Shoftim, with
 *Kli Yakar* reversing the two words), a lens that brings the distant near
 (Malbim in *Yair Ohr*), a lattice (Menachem Ibn Saruk, Rabbi Moshe David Valle),
-a shuttered window (Rabbi Moshe Yitzchak Tedeschi Ashkenazi, and independently
+a shuttered window (Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, and independently
 Dr. Shmuel Yeivin), or a window for the wind (Rabbi Aharon Marcus, Rabbi Baruch
 HaLevi Epstein, Rabbi Ernest Klein). Rabbi Reuven Chaim Klein does not choose.
 Modern Hebrew's *eshnav*, a service window, is a neologism.
@@ -68,7 +68,7 @@ window taken up below:
    without being seen, the apparatus called in Latin *gelosia* (related to the
    English word *jealous*). Valle then reads the word itself as an abbreviation
    of *ishah nosenes b'chalonoseha*, "a woman places [this] at her windows."
-4. **Shuttered.** The Italian scholar Rabbi Moshe Yitzchak Tedeschi Ashkenazi
+4. **Shuttered.** The Italian scholar Rabbi Moshe Yitzchak Tedeschi-Ashkenazi
    (1821 to 1898), in *Hoil Moshe*: the root is ש-נ-ב, related through the
    interchange of nun and lamed to ש-ל-ב, "step" or "layer," so an *eshnav* is
    specifically a window equipped with metal shutters. The Israeli archaeologist
@@ -169,4 +169,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Beshalach: Through the Looking Window](https://articles.ohr.edu/articles/beshalach-through-the-looking-window)," *What's in a Word?*, Ohr Somayach, 30 January 2021.
 
-Cited in the essay: Shoftim 5:28 with Rashi, Rabbi Yosef Kara, Malbim, Abarbanel, Alshich and *Kli Yakar*; Mishlei 7:6 with the Meiri and Malbim; Bereishis 26:8 with *Tzror HaMor*; *Zohar* Toldos 140b; *Sefer HaIkkarim* 4:43; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Rabbi Yishaya of Trani; Rabbi Shaul Goldman; Rabbi Moshe David Valle; Rabbi Moshe Yitzchak Tedeschi Ashkenazi, *Hoil Moshe*; Shmuel Yeivin, *Leshonenu* (1959); Rabbi Aharon Marcus; Rabbi Baruch HaLevi Epstein; Rabbi Ernest Klein; Malbim, *Yair Ohr*; Rabbi Chaim Futernik; Rabbi Elazar Reines, *Shorashei Leshon HaKodesh* and *Mishlei Shlomo*.
+Cited in the essay: Shoftim 5:28 with Rashi, Rabbi Yosef Kara, Malbim, Abarbanel, Alshich and *Kli Yakar*; Mishlei 7:6 with the Meiri and Malbim; Bereishis 26:8 with *Tzror HaMor*; *Zohar* Toldos 140b; *Sefer HaIkkarim* 4:43; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Rabbi Yishaya of Trani; Rabbi Shaul Goldman; Rabbi Moshe David Valle; Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, *Hoil Moshe*; Shmuel Yeivin, *Leshonenu* (1959); Rabbi Aharon Marcus; Rabbi Baruch HaLevi Epstein; Rabbi Ernest Klein; Malbim, *Yair Ohr*; Rabbi Chaim Futernik; Rabbi Elazar Reines, *Shorashei Leshon HaKodesh* and *Mishlei Shlomo*.

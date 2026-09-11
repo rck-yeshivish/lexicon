@@ -92,7 +92,7 @@ writes that they differ: a *shulchan* is a flat surface attached to four legs
 that hold it up, while a *tavla* is a table top not attached to legs, so it can
 even be a flat board or plank. Rabbi Klein leaves the two views standing.
 
-**The root of shulchan.** Ibn Janach (990 to 1055) and Radak (1160 to 1235): the
+**The root of shulchan.** Ibn Janach (990 to 1050) and Radak (1160 to 1235): the
 triliteral ש-ל-ח, "dispatch, send away, sword," though exactly how it connects
 to those meanings is not readily apparent. Menachem Ibn Saruk (920 to 970,
 *Machberes Menachem*): a quadriliteral ש-ל-ח-נ of its own.

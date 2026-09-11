@@ -28,7 +28,7 @@ words:
     distinct: a repeated beat against something; driving livestock too hard (Bereishis 33:13), knocking at a door, and later a pulse (Ramban)
 sources:
   - wiaw:11128 "Vayera: Getting Pushy" (2023-11-04) https://articles.ohr.edu/articles/vayera-getting-pushy
-authorities: [Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Malbim, Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi David Abudarham, Rabbi Yosef Kimchi, Rabbi David Golomb, Ramban, Targum Yonasan, Metzudas Tzion, Shadal, Rabbi Abraham Grego, Norbert Pearlroth, David L. Gold]
+authorities: [Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Malbim, Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi David Abudarham, Rabbi Yosef Kimchi, Rabbi David Golumb, Ramban, Targum Yonasan, Metzudas Tzion, Shadal, Rabbi Abraham Grego, Norbert Pearlroth, David L. Gold]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -80,9 +80,9 @@ preventing him from protecting his guests.
   ד-ח (push) and א-פ (*af*, face or nose): to push someone's face away,
   symbolizing the rejection of his presence and the urgency to redirect himself
   toward another task.
-- Separately, Rabbi David Golomb writes that *hadof* is related to *dochef*,
+- Separately, Rabbi David Golumb writes that *hadof* is related to *dochef*,
   arguing that *hei* and *ches* can be viewed as interchangeable; evidently,
-  Rabbi Klein adds, Golomb also assumes the reordering that moves the guttural
+  Rabbi Klein adds, Golumb also assumes the reordering that moves the guttural
   into second position.
 
 **How hadof differs from docheh.** Rabbi Pappenheim derives *hadof* from ד-פ,
@@ -215,4 +215,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayera: Getting Pushy](https://articles.ohr.edu/articles/vayera-getting-pushy)," *What's in a Word?*, Ohr Somayach, 4 November 2023.
 
-Cited in the essay: Bereishis 19:3, 19:9, 20:13, 33:11, 33:13; Bamidbar 33:12-13, 35:20, 35:22; Devarim 6:19, 9:4, 22:1; Yehoshua 23:5; Shoftim 19:7, 19:22; Melachim II 4:27 with Targum; Yeshayahu 11:12, 27:13; Yirmiyahu 23:12; Tehillim 50:20, 56:14, 116:8, 118:13, 140:12; Mishlei 14:32, 26:28; Shir HaShirim 5:2; Esther 3:15, 6:12, 8:14; Divrei HaYamim II 26:20; Mishnah Yoma 2:3, Sukkah 1:1, Zevachim 8:1, Keilim 2:2; Rav Hirsch to Bereishis 19:3, 20:13 and Bamidbar 35:20; Shadal to Bereishis 33:11 and 33:13; Rabbi Abraham Grego; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 19:9; Menachem Ibn Saruk; Ibn Janach; Radak; Rabbi Shlomo Pappenheim; Rabbi David Golomb; Malbim, *Yair Ohr*; Rabbi David Abudarham to the *vidui*, citing Rabbi Yosef Kimchi; Rashi to Tehillim 50:20; Targum Yonasan and *Metzudas Tzion* to Shoftim 19:22; *Metzudas Tzion* to Shir HaShirim 5:2; Ramban's responsa printed under *Rashba* §127; Even-Shoshan's concordance; Norbert Pearlroth, *The Indiana Jewish Post*, 29 March 1946, p. 8; David L. Gold, *The Indiana Jewish Post*, 31 October 1990, p. 16.
+Cited in the essay: Bereishis 19:3, 19:9, 20:13, 33:11, 33:13; Bamidbar 33:12-13, 35:20, 35:22; Devarim 6:19, 9:4, 22:1; Yehoshua 23:5; Shoftim 19:7, 19:22; Melachim II 4:27 with Targum; Yeshayahu 11:12, 27:13; Yirmiyahu 23:12; Tehillim 50:20, 56:14, 116:8, 118:13, 140:12; Mishlei 14:32, 26:28; Shir HaShirim 5:2; Esther 3:15, 6:12, 8:14; Divrei HaYamim II 26:20; Mishnah Yoma 2:3, Sukkah 1:1, Zevachim 8:1, Keilim 2:2; Rav Hirsch to Bereishis 19:3, 20:13 and Bamidbar 35:20; Shadal to Bereishis 33:11 and 33:13; Rabbi Abraham Grego; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 19:9; Menachem Ibn Saruk; Ibn Janach; Radak; Rabbi Shlomo Pappenheim; Rabbi David Golumb; Malbim, *Yair Ohr*; Rabbi David Abudarham to the *vidui*, citing Rabbi Yosef Kimchi; Rashi to Tehillim 50:20; Targum Yonasan and *Metzudas Tzion* to Shoftim 19:22; *Metzudas Tzion* to Shir HaShirim 5:2; Ramban's responsa printed under *Rashba* §127; Even-Shoshan's concordance; Norbert Pearlroth, *The Indiana Jewish Post*, 29 March 1946, p. 8; David L. Gold, *The Indiana Jewish Post*, 31 October 1990, p. 16.

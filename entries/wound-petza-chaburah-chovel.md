@@ -24,7 +24,7 @@ words:
     distinct: a declension of chaburah, since it too is a discoloration on the skin's surface (Ibn Saruk, Ibn Janach, Radak, on Yirmiyahu 13:23)
 sources:
   - wiaw:11252 "Mishpatim: Bruisers and Bleeders" (2024-02-10) https://articles.ohr.edu/articles/mishpatim-bruisers-and-bleeders
-authorities: [Rashi, Vilna Gaon, Malbim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Ibn Ezra, Rav Saadia Gaon, Rashbam, Rav Hirsch, Rabbi Moshe Ashkenazi-Tedeschi, Rambam, Rabbi Yaakov Berger, Yitzchak Ber Levinsohn, Rabbi David Chaim Chelouche, Yoel Florsheim, Rabbi Baruch Schönfeld]
+authorities: [Rashi, Vilna Gaon, Malbim, Rabbi Shlomo Aharon Wertheimer, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Ibn Ezra, Rav Saadia Gaon, Rashbam, Rav Hirsch, Rabbi Moshe Tedeschi-Ashkenazi, Rambam, Rabbi Yaakov Berger, Yitzchak Ber Levinsohn, Rabbi David Chaim Chelouche, Yoel Florsheim, Rabbi Baruch Schönfeld]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -94,7 +94,7 @@ fit other commentators.
 Root technically פ-צ-ע, but often derived from פ-צ-ה, *potzeh*, "to open," on
 the interchange of ayin and hei: the ground opened for Kayin's burial (Bereishis
 4:11) and to swallow Korach's men (Devarim 11:6).
-- Malbim, Rabbi Wertheimer, Rabbi Moshe Ashkenazi-Tedeschi (*Otzar Nirdafim*
+- Malbim, Rabbi Wertheimer, Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*
   §27) and Rav Hirsch (to Bereishis 4:11, Shemos 21:25) take it so, and Rav
   Hirsch notes that both are a *forced* opening, the ground having no more
   choice than the man left with a *petza*.
@@ -157,4 +157,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Mishpatim: Bruisers and Bleeders](https://articles.ohr.edu/articles/mishpatim-bruisers-and-bleeders)," *What's in a Word?*, Ohr Somayach, 10 February 2024.
 
-Cited in the essay: Bereishis 4:11 with Rav Hirsch; Bereishis 4:23 with Rashi; Shemos 18:21 with Rav Hirsch; Shemos 21:24-25; Shemos 21:25 with Rashi, Ibn Ezra (long and short commentaries), Rashbam and Rav Hirsch; Devarim 11:6; Melachim I 20:37 with Rashi; Yeshayahu 1:6 with Rashi, Ibn Ezra, Malbim and the Vilna Gaon; Yirmiyahu 13:23; Mishlei 20:30 with the Vilna Gaon; Iyov 9:17 with Rashi; Shir HaShirim 5:7 with Rashi; Bava Kamma 8:1, 83b-84a; Shabbos 14:1; Yevamos 75a, Sanhedrin 37b and Avodah Zarah 28a with Rashi; Rambam, *Hilchos Shabbos* 8:7; Rav Saadia Gaon; Ibn Saruk; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe Ashkenazi-Tedeschi, *Otzar Nirdafim* §27; Yitzchak Ber Levinsohn, *Shorashei Levanon*; Rabbi David Chaim Chelouche; Yoel Florsheim; Rabbi Yaakov Berger, *Milon Leshon Mikra*; Rabbi Baruch Schönfeld, *Bikkurei Ittim* vol. 9, pp. 70-71.
+Cited in the essay: Bereishis 4:11 with Rav Hirsch; Bereishis 4:23 with Rashi; Shemos 18:21 with Rav Hirsch; Shemos 21:24-25; Shemos 21:25 with Rashi, Ibn Ezra (long and short commentaries), Rashbam and Rav Hirsch; Devarim 11:6; Melachim I 20:37 with Rashi; Yeshayahu 1:6 with Rashi, Ibn Ezra, Malbim and the Vilna Gaon; Yirmiyahu 13:23; Mishlei 20:30 with the Vilna Gaon; Iyov 9:17 with Rashi; Shir HaShirim 5:7 with Rashi; Bava Kamma 8:1, 83b-84a; Shabbos 14:1; Yevamos 75a, Sanhedrin 37b and Avodah Zarah 28a with Rashi; Rambam, *Hilchos Shabbos* 8:7; Rav Saadia Gaon; Ibn Saruk; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* §27; Yitzchak Ber Levinsohn, *Shorashei Levanon*; Rabbi David Chaim Chelouche; Yoel Florsheim; Rabbi Yaakov Berger, *Milon Leshon Mikra*; Rabbi Baruch Schönfeld, *Bikkurei Ittim* vol. 9, pp. 70-71.

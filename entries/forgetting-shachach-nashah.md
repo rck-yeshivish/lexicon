@@ -10,7 +10,7 @@ words:
     nk: כַּחַשׁ
 sources:
   - wiaw:8389 "Forget About It" (2019-09-14) https://articles.ohr.edu/articles/forget-about-it
-authorities: [Rashi, Menachem Ibn Saruk, Ibn Chayyuj, Rabbeinu Yonah ibn Janach, Radak, Zohar, Tosafos Chachmei Anglia, Rabbeinu Bachya ibn Chalava, Rabbi Yehuda Chalava, Rabbi Binyamin Mussafia, Rabbi Shmuel HaLevi, Rabbi Avraham Menachem Rappaport, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi Ashkenazi, Malbim, Rav Hirsch, Rabbi Eliyahu Katz, Rabbi Yekusiel Yehudah Teitelbaum of Sighet, Rabbi Moshe Shapiro, Daas Mikra, Robert Alter]
+authorities: [Rashi, Menachem Ibn Saruk, Ibn Chayyuj, Rabbeinu Yonah ibn Janach, Radak, Zohar, Tosafos Chachmei Anglia, Rabbeinu Bachya ibn Chalava, Rabbi Yehuda Chalava, Rabbi Binyamin Mussafia, Rabbi Shmuel HaLevi, Rabbi Avraham Menachem Rappaport, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Malbim, Rav Hirsch, Rabbi Eliyahu Katz, Rabbi Yekusiel Yehudah Teitelbaum of Sighet, Rabbi Moshe Shapiro, Daas Mikra, Robert Alter]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -82,7 +82,7 @@ On the root itself:
   of his hand), *anush* (a sickly man, whose health has been displaced) and
   *enosh* (mankind, weak beside higher beings). Elsewhere he derives *teshi*
   from ת-ש, weakening.
-- Rabbi Moshe Tedeschi Ashkenazi (*Hoil Moshe*) makes weakening the primary
+- Rabbi Moshe Tedeschi-Ashkenazi (*Hoil Moshe*) makes weakening the primary
   sense of נ-ש itself.
 
 ### The distinction, and the dissent
@@ -121,4 +121,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Forget About It](https://articles.ohr.edu/articles/forget-about-it)," *What's in a Word?*, Ohr Somayach, 14 September 2019.
 
-Cited in the essay: Devarim 4:9 with Rav Hirsch, 4:23, 4:31, 6:12, 8:11, 8:14, 8:19, 9:7, 25:19, 26:13, 31:21, 32:18 with Rashi; Bereishis 8:1 with Rav Hirsch, 32:33, 41:51 with Rabbi Yehuda Chalava and Rabbeinu Bachya ibn Chalava; Eichah 3:17; Yirmiyahu 23:39; Yeshayahu 44:21; Iyov 11:6 with Malbim, 39:17; Tehillim 137:5 with Robert Alter and *Daas Mikra*; Zohar Bereishis 170b; Kiddushin 24a with *Tosafos Chachmei Anglia*; Chullin 75b; Rabbi Yekusiel Yehudah Teitelbaum of Sighet, *Yitav Lev* to Shemos 10:1; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Binyamin Mussafia, *Musaf HaAruch*; Rabbi Shmuel HaLevi, *Nachalas Shivah*; Rabbi Avraham Menachem Rappaport, *Minchah Belulah*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Moshe Tedeschi Ashkenazi, *Hoil Moshe*; Rabbi Eliyahu Katz; Rabbi Moshe Shapiro.
+Cited in the essay: Devarim 4:9 with Rav Hirsch, 4:23, 4:31, 6:12, 8:11, 8:14, 8:19, 9:7, 25:19, 26:13, 31:21, 32:18 with Rashi; Bereishis 8:1 with Rav Hirsch, 32:33, 41:51 with Rabbi Yehuda Chalava and Rabbeinu Bachya ibn Chalava; Eichah 3:17; Yirmiyahu 23:39; Yeshayahu 44:21; Iyov 11:6 with Malbim, 39:17; Tehillim 137:5 with Robert Alter and *Daas Mikra*; Zohar Bereishis 170b; Kiddushin 24a with *Tosafos Chachmei Anglia*; Chullin 75b; Rabbi Yekusiel Yehudah Teitelbaum of Sighet, *Yitav Lev* to Shemos 10:1; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Binyamin Mussafia, *Musaf HaAruch*; Rabbi Shmuel HaLevi, *Nachalas Shivah*; Rabbi Avraham Menachem Rappaport, *Minchah Belulah*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Moshe Tedeschi-Ashkenazi, *Hoil Moshe*; Rabbi Eliyahu Katz; Rabbi Moshe Shapiro.

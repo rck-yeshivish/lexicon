@@ -8,7 +8,7 @@ domain: action
 sources:
   - wiaw:11677 "Bo: Follow the Leader (Part 1/2)" (2025-02-01) https://articles.ohr.edu/articles/bo-follow-the-leader-part-12
   - wiaw:11678 "Beshalach: Follow the Leader (Part 2/2)" (2025-02-08) https://articles.ohr.edu/articles/beshalach-follow-the-leader-part-22
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Malbim, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Goldblit, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi David Chaim Chelouche, Rabbi Yosef Grayever, Rabbi Ezra Reuven Dangoor, Rabbi Yosef Shapotshnick, Menachem Ibn Saruk, Ibn Janach, Ibn Parchon, Radak, Rabbi Shmuel Yehudah Steiger, Yehoshua Yaron, Rabbi Shmuel Ibn Tibbon, Shadal, Rabbi Shlomo of Urbino, Mahari Mintz, Rabbi Yaakov Emden, Pele Yoetz, Sdei Chemed]
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Malbim, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Goldblit, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi David Chaim Chelouche, Rabbi Yosef Grayever, Rabbi Ezra Reuven Dangoor, Rabbi Yosef Shapotshnick, Menachem Ibn Saruk, Ibn Janach, Ibn Parchon, Radak, Rabbi Shmuel Yehudah Steiger, Yehoshua Yaron, Rabbi Shmuel Ibn Tibbon, Shadal, Rabbi Shlomo of Urbino, Mahari Mintz, Rabbi Yaakov Emden, Pele Yoetz, Sdei Chemed]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -119,7 +119,7 @@ nation that You redeemed" (Shemos 15:13) speaks of Hashem taking them out of a
 dangerous place. Moshe is told to *nechei* the nation, that is, to instruct
 them (Shemos 32:34).
 
-Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim*) frames *nocheh* differently:
+Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) frames *nocheh* differently:
 leading a person all the way to his final destination, not merely along a leg of
 the way.
 
@@ -144,7 +144,7 @@ principal or manager, *hanhalah*, administration, and *mankal*, a contraction of
   advances them. On that basis he explains the yeshivos' calling their
   administrator a *menahel*: he clears the obstacles and also sees to each
   student's growth.
-- Rabbi Tedeschi Ashkenazi reads *noheg* the other way about: he insists it is
+- Rabbi Tedeschi-Ashkenazi reads *noheg* the other way about: he insists it is
   leading passively, the leader standing before or behind while his charges
   travel forward of their own accord, and *nohel* is the leader who actively has
   a hand in taking them farther than they could have gone alone.

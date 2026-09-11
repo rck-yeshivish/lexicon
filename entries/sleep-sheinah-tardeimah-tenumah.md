@@ -34,7 +34,7 @@ readings stand.
 ## Distinctions
 
 ### sheinah (שינה)
-- The triliteral lexicographers, Ibn Chayyuj (945-1000), Ibn Janach (990-1055)
+- The triliteral lexicographers, Ibn Chayyuj (945-1000), Ibn Janach (990-1050)
   and Radak (1160-1235), give the root י-ש-נ.
 - Rabbi Yitzchak Zeldin (18th-century Germany, *Shoresh Yesha*) notes the root
   carries both "sleep" and "old" and says the two meanings are one and the same;

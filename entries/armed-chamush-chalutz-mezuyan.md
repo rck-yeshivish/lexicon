@@ -7,7 +7,7 @@ english: [armed, arms, weapon, vanguard, mustered, equipped]
 domain: action
 sources:
   - wiaw:11613 "Bishalach: Armed and Ready" (2024-01-27) https://articles.ohr.edu/articles/bishalach-armed-and-ready
-authorities: [Rashi, Ramban, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rashbam, Daas Zekeinim, Malbim, Rabbi Moshe Tedeschi Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Shlomo of Urbino, Korban HaEidah, Torah Temimah, Rabbi Chaim Kanievsky, Baal HaTurim, Rabbi Ernest Klein, Wilhelm Gesenius, David Curwin, Rabbi Elimelech Bleiberg, Rabbi Itamar Habshush, David Assaf, Yisrael Bartel]
+authorities: [Rashi, Ramban, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rashbam, Daas Zekeinim, Malbim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Shlomo of Urbino, Korban HaEidah, Torah Temimah, Rabbi Chaim Kanievsky, Baal HaTurim, Rabbi Ernest Klein, Wilhelm Gesenius, David Curwin, Rabbi Elimelech Bleiberg, Rabbi Itamar Habshush, David Assaf, Yisrael Bartel]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -118,7 +118,7 @@ I 11:27, 27:10) and another man of that name (Divrei HaYamim I 2:39).
 Malbim (to Yehoshua 4:12) notes the overlap and separates them: *chamushim* are
 soldiers arrayed in formations of fifty, hence the tie to *chamesh*, while
 *chalutzim* are men slipped off and separated from the rest of the nation.
-Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim* 22) accepts Malbim on
+Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim* 22) accepts Malbim on
 *chalutzim* but explains *chamushim* by the grammarians' route, men armed at
 the *chomesh*. If both words are named for a body part, Rabbi Reuven Chaim Klein observes,
 they differ only in which one.

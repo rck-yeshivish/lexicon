@@ -20,7 +20,7 @@ words:
     distinct: from petach, "open," hence open and susceptible to outside impressions (Rav Hirsch); the Gemara uses its resemblance to pitom to widen pitom's range
 sources:
   - wiaw:8790 "When Suddenly…" (2020-07-18) https://articles.ohr.edu/articles/when-suddenlyaeur
-authorities: [Rabbi Yoshiya, Rabbi Yonatan, Rashi, Rabbi Ovadiah of Bartenuro, Rabbi David HaLevi Segal, the Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbeinu Efrayim ben Shimshon of Regensburg, Rabbi David Golomb, Rav Hirsch, Ibn Ezra, Rabbi Avraham Menachem Rappaport]
+authorities: [Rabbi Yoshiya, Rabbi Yonatan, Rashi, Rabbi Ovadiah of Bartenuro, Rabbi David HaLevi Segal, the Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbeinu Efrayim ben Shimshon of Regensburg, Rabbi David Golumb, Rav Hirsch, Ibn Ezra, Rabbi Avraham Menachem Rappaport]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -121,7 +121,7 @@ the skin.
 Twenty-five appearances. Rabbeinu Efrayim ben Shimshon of Regensburg (to
 Bamidbar 12:4) parses it as a compound of *peh*, mouth, and *to'em*, fits or
 matches; he ostensibly means that what happens *pitom* comes as fast as words
-leave the mouth. Rabbi David Golomb (1861 to 1935) similarly takes the ת-א-ם
+leave the mouth. Rabbi David Golumb (1861 to 1935) similarly takes the ת-א-ם
 element as fitting or matching: a person may be in a calm, serene moment where
 everything fits together, when suddenly something disrupts it.
 
@@ -159,4 +159,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[When Suddenly…](https://articles.ohr.edu/articles/when-suddenlyaeur)," *What's in a Word?*, Ohr Somayach, 18 July 2020.
 
-Cited in the essay: Bereishis 9:27; Shemos 9:9-10; Bamidbar 6:9, 12:4, 35:22; Yeshayahu 29:5, 30:13, 64:1; Yirmiyahu 8:15; Yechezkel 45:20; Chavakuk 2:7; Mishlei 6:15, 14:15, 22:3, 29:1; Esther 7:6; Mishnah Kerisus 2:2; Kerisus 9a; Makkos 7b; *Sifrei* to Bamidbar 6:9 (Rabbi Yoshiya and Rabbi Yonatan); Rashi to Bamidbar 6:9 and 35:22, Mishlei 6:15 and Makkos 7b; Rabbi David HaLevi Segal, *Divrei David* to Bamidbar 6:9; *Biur HaGra* to Mishlei 6:15; Rabbi Ovadiah of Bartenuro, *Amar Nakeh* to Bamidbar 6:9; Rabbi Shlomo Pappenheim; Rabbeinu Efrayim ben Shimshon of Regensburg to Bamidbar 12:4; Rabbi David Golomb; Rav Hirsch to Bereishis 9:27 and Bamidbar 6:9; Ibn Ezra to Bamidbar 35:22; Rabbi Avraham Menachem Rappaport, *Minchah Belulah* to Bamidbar 12:4.
+Cited in the essay: Bereishis 9:27; Shemos 9:9-10; Bamidbar 6:9, 12:4, 35:22; Yeshayahu 29:5, 30:13, 64:1; Yirmiyahu 8:15; Yechezkel 45:20; Chavakuk 2:7; Mishlei 6:15, 14:15, 22:3, 29:1; Esther 7:6; Mishnah Kerisus 2:2; Kerisus 9a; Makkos 7b; *Sifrei* to Bamidbar 6:9 (Rabbi Yoshiya and Rabbi Yonatan); Rashi to Bamidbar 6:9 and 35:22, Mishlei 6:15 and Makkos 7b; Rabbi David HaLevi Segal, *Divrei David* to Bamidbar 6:9; *Biur HaGra* to Mishlei 6:15; Rabbi Ovadiah of Bartenuro, *Amar Nakeh* to Bamidbar 6:9; Rabbi Shlomo Pappenheim; Rabbeinu Efrayim ben Shimshon of Regensburg to Bamidbar 12:4; Rabbi David Golumb; Rav Hirsch to Bereishis 9:27 and Bamidbar 6:9; Ibn Ezra to Bamidbar 35:22; Rabbi Avraham Menachem Rappaport, *Minchah Belulah* to Bamidbar 12:4.

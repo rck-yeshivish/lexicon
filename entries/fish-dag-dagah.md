@@ -7,7 +7,7 @@ english: [fish, fishes, small fish, fisherman, shoal]
 domain: nature
 sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
-authorities: [Rashi, Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehuda Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HaAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golomb, Rabbi Moshe Batzri, Moshe Raanan]
+authorities: [Rashi, Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehuda Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HaAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golumb, Rabbi Moshe Batzri, Moshe Raanan]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -109,7 +109,7 @@ and by extension brine as such (Shabbos 110b, "*munini* of grasshoppers");
 Gershom and Rashbam to Bava Basra 73b) and elsewhere small fish (Rashi to
 Horayos 12a, Berachos 44b, Kesubos 105b); and *tzachanta* (Rashi to Succah 18a,
 Sanhedrin 49a), which Yerushalmi Nedarim 6:3 gives as the Bavel name for the
-*tarit*. On *munini*: Rabbi David Golomb parses it as a diminutive mem plus the
+*tarit*. On *munini*: Rabbi David Golumb parses it as a diminutive mem plus the
 Aramaic *nun*, fish; Rabbi Moshe Batzri as a contraction of *mei nuna*, fish
 water. Rashi identifies *tarit* as tuna (Megillah 6a, Berachos 44a), and likewise
 *sultanit* and the Spanish *kulyis* (Shabbos 39a, Chullin 66a). On the species: ichthyologists, mentioned by Dr. Moshe Raanan, identify *gildna*
@@ -145,4 +145,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/articles/fishy-words-part-12)," *What's in a Word?*, Ohr Somayach, 29 May 2021.
 
-Cited in the essay: Bereishis 9:2, 48:16; Shemos 7:18 with Ibn Ezra; Bamidbar 11:5 and 22:33 with Rabbeinu Bachaya; Yeshayahu 19:8; Yirmiyahu 6:6 with Rashi, 16:16; Yonah 2:1-2 with Rashi and Malbim; Amos 4:2; Nechemiah 13:16 with Ibn Ezra and the Rasag commentary; Nedarim 51b; Yoma 75a; Succah 18a; Sanhedrin 49a, 100b; Avodah Zarah 29a; Kesubos 60b, 105b; Shabbos 39a, 105b, 110b; Gittin 69b; Horayos 12a; Berachos 44a, 44b; Megillah 6a; Chullin 66a; Bava Basra 73b with Rabbeinu Gershom and Rashbam; Shabbos 10:1 and Eduyos 5:6 (Mishnah); Yerushalmi Nedarim 6:3; Zohar, Beshalach 47b-48a; *Yalkut Shimoni* 550; Rema, Yoreh Deah 13:1; Ibn Ezra, *Sefer Tzachus*; Rabbeinu Bachaya, *Kad HaKemach*; Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HaAruch* s.v. אברומא; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Yehuda Ibn Balaam; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus; Rabbi Mordechai Gimpel Yaffe; Rabbi David Golomb; Rabbi Moshe Batzri; Dr. Moshe Raanan on the species identifications.
+Cited in the essay: Bereishis 9:2, 48:16; Shemos 7:18 with Ibn Ezra; Bamidbar 11:5 and 22:33 with Rabbeinu Bachaya; Yeshayahu 19:8; Yirmiyahu 6:6 with Rashi, 16:16; Yonah 2:1-2 with Rashi and Malbim; Amos 4:2; Nechemiah 13:16 with Ibn Ezra and the Rasag commentary; Nedarim 51b; Yoma 75a; Succah 18a; Sanhedrin 49a, 100b; Avodah Zarah 29a; Kesubos 60b, 105b; Shabbos 39a, 105b, 110b; Gittin 69b; Horayos 12a; Berachos 44a, 44b; Megillah 6a; Chullin 66a; Bava Basra 73b with Rabbeinu Gershom and Rashbam; Shabbos 10:1 and Eduyos 5:6 (Mishnah); Yerushalmi Nedarim 6:3; Zohar, Beshalach 47b-48a; *Yalkut Shimoni* 550; Rema, Yoreh Deah 13:1; Ibn Ezra, *Sefer Tzachus*; Rabbeinu Bachaya, *Kad HaKemach*; Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HaAruch* s.v. אברומא; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Yehuda Ibn Balaam; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus; Rabbi Mordechai Gimpel Yaffe; Rabbi David Golumb; Rabbi Moshe Batzri; Dr. Moshe Raanan on the species identifications.
