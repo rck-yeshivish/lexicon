@@ -31,22 +31,24 @@ Root ר-ק-ד, nine times in Tanach, of people and also of calves (Tehillim 29:6
 goats (Yeshayahu 13:21) and mountains that "danced like rams" (Tehillim 114:4
 and 114:6) in celebration of the exodus. "A time to eulogize and a time to dance
 (*rekod*)" (Koheles 3:4). It is also the verb Divrei HaYamim uses when it tells
-David's story over again: there he is *miraked* before the Aron (Divrei HaYamim I
-15:29), where Shmuel had *micharker* and *mifazez*.
-Mishnaic: the Shabbos ban on dancing (*Beitzah* 5:2), the pious men dancing at
-the *Simchas Beis HaSho'evah* (*Sukkah* 5:4), and the melachah of sifting
-(*Shabbos* 7:2; also *Shevi'is* 5:9, *Gittin* 5:9, *Menachos* 11:3), possibly
-because the side-to-side shake of a sieve looks like the side-to-side motion of
-a dancer. The Yerushalmi (*Beitzah* 5:2), on the Shabbos ban, defines *rikud* as
-a jump that leaves one foot on the ground, against *kefitzah*, where both feet leave it.
-Rabbi Aharon Marcus reads the root as *reish*, movement, plus *kuf*, fixed or
-entrenched, which fits the Yerushalmi: one foot moves, one stays down.
-Rabbi Tedeschi-Ashkenazi (*Otzar Nirdafim*): *rekidah* is dancing out of
-happiness, that is, it connotes the joyous mood or occasion for the dancing,
-while, as Rabbi Klein puts it, it seems that the other two words describe specific
-acts of dancing themselves. Tedeschi-Ashkenazi also offers a theory tracing ר-ק-ד to the two-letter ק-ד, burning, since a dancer rises to
-reach higher and falls back to his place like a fire always reaching higher to
-spread.
+David's story over again: there he is *miraked* before the Aron (Divrei HaYamim
+I 15:29), where Shmuel had *micharker* and *mifazez*. Mishnaic: the Shabbos ban
+on dancing (*Beitzah* 5:2), the pious men dancing at the *Simchas Beis
+HaSho'evah* (*Sukkah* 5:4), and the melachah of sifting (*Shabbos* 7:2; also
+*Shevi'is* 5:9, *Gittin* 5:9, *Menachos* 11:3), possibly because the
+side-to-side shake of a sieve looks like the side-to-side motion of a dancer.
+- The Yerushalmi (*Beitzah* 5:2), on the Shabbos ban, defines *rikud* as a jump
+  that leaves one foot on the ground, against *kefitzah*, where both feet leave
+  it.
+- Rabbi Aharon Marcus reads the root as *reish*, movement, plus *kuf*, fixed or
+  entrenched, which fits the Yerushalmi: one foot moves, one stays down.
+- Rabbi Tedeschi-Ashkenazi (*Otzar Nirdafim*): *rekidah* is dancing out of
+  happiness, that is, it connotes the joyous mood or occasion for the dancing,
+  while, as Rabbi Klein puts it, it seems that the other two words describe
+  specific acts of dancing themselves. Tedeschi-Ashkenazi also offers a theory
+  tracing ר-ק-ד to the two-letter ק-ד, burning, since a dancer rises to reach
+  higher and falls back to his place like a fire always reaching higher to
+  spread.
 
 A near-variant is *tiratzdun*, "why do you dance, O peaks" (Tehillim 68:17),
 root ר-צ-ד, a *hapax*. Menachem Ibn Saruk and Radak both define it with
@@ -69,52 +71,59 @@ suffer for his sins.
 ### kirkur (כרכור), the verb micharker (מכרכר)
 Seemingly from the quadriliteral כ-ר-כ-ר, twice in Tanach, both of David before
 the Aron.
-Rabbi Shlomo Pappenheim works from the two-letter כ-ר, digging: a *kar* is a
-field whose boundary was typically dug out as a trench, *karim* are the fat
-animals that would typically graze on it, and he submits that *micharker* is the movement of such well-fed,
-free-ranging animals, who appear to dance in their happy state.
-Tedeschi-Ashkenazi reads the root as a compound of *kar* (כ-ר) and *rach* (ר-כ,
-"soft, young," the same two letters reversed): young *karim* tend to have excess
-energy and jump about more than usual. He further speculates that *micharker* is related
-to the Latin *circulus*, whence the English *circle*, since young calves and
-sheep tend to move in circles rather than straight lines, and dancing likewise
-usually means circular motion. Rabbi Yosef Kara (to Shmuel II 6:16) bears this
-out, glossing *micharker* with an inflection of *sivuv*, "around." (Shadal,
-to Bereishis 11:9 and 13:10, writes that *kikar*, "circle," derives from *kikur* the way Bavel derives from *bilbul*.)
-Rabbi Tanchum HaYerushalmi (*HaMadrich
-HaMaspik*) derives the dancing word from *kar*, a young camel, whose gait looks
-like dancing; Ibn Janach and Radak (*Sefer HaShorashim*) and Rabbeinu Avraham
-ben Shlomo (to Shmuel II 6:16) reverse the direction: swift animals are called
-*kar* or *kirkarim* because their movement resembles a dancer's.
+- Rabbi Shlomo Pappenheim works from the two-letter כ-ר, digging: a *kar* is a
+  field whose boundary was typically dug out as a trench, *karim* are the fat
+  animals that would typically graze on it, and he submits that *micharker* is
+  the movement of such well-fed, free-ranging animals, who appear to dance in
+  their happy state.
+- Tedeschi-Ashkenazi reads the root as a compound of *kar* (כ-ר) and *rach*
+  (ר-כ, "soft, young," the same two letters reversed): young *karim* tend to
+  have excess energy and jump about more than usual. He further speculates that
+  *micharker* is related to the Latin *circulus*, whence the English *circle*,
+  since young calves and sheep tend to move in circles rather than straight
+  lines, and dancing likewise usually means circular motion. Rabbi Yosef Kara
+  (to Shmuel II 6:16) bears this out, glossing *micharker* with an inflection of
+  *sivuv*, "around." (Shadal, to Bereishis 11:9 and 13:10, writes that *kikar*,
+  "circle," derives from *kikur* the way Bavel derives from *bilbul*.)
+- Rabbi Tanchum HaYerushalmi (*HaMadrich HaMaspik*) derives the dancing word
+  from *kar*, a young camel, whose gait looks like dancing.
+- Ibn Janach and Radak (*Sefer HaShorashim*) and Rabbeinu Avraham ben Shlomo (to
+  Shmuel II 6:16) reverse the direction: swift animals are called *kar* or
+  *kirkarim* because their movement resembles a dancer's.
 
 ### pizuz (פיזוז), the verb mifazez (מפזז)
 Root פ-ז-(ז), which also yields *paz*, fine gold, and a sense of spreading or
-strengthening. Targum (to Shmuel II 6:16) renders *mifazez* with some sort of
-Aramaic form of *miraked*. Rambam (*Hilchos Lulav* 8:13) describes the *Simchas Beis
-HaSho'evah* with "*mifazezin* and *micharkerin*," and then, of the sages and
-great men joining in (8:14), switches to *mirakedin*. Mr. Yehoshua Yaron (*Mevo
-L'Midrash HaLashon*) connects *mifazez* with the biliteral פ-ז that gives *paz*,
-a kind of gold: as the sparkle of gold gives the impression that the light
-bouncing off it is dancing in all directions, so *mifazez* is wild dancing in
-many directions. Rabbi Shlomo Pappenheim (*Cheishek Shlomo*) likewise traces both
-terms to פ-ז, whose core sense he defines as quick movement, in the sense of
-dancing and of shining alike. The English *pizzaz*/*pizazz* ("sparkle,"
-"showiness," "glamor") seems to have been coined in the 1930s, and the *Oxford
-English Dictionary* calls it of unknown origin; Rabbi Klein wonders whether
-perhaps it rests on the Hebrew *mifazez*. Rabbi Yehuda Aryeh of Carpentras, in an
-explanation somewhat reminiscent of Tedeschi-Ashkenazi on *miraked*: *paz* is the
-gold that stands metaphorically above the other metals, matching the dancer's
-gestures, which are often upward. *Metzudas David* (to Shmuel II 6:16): a fast dance.
-Rabbi Zev Atlas: Shmuel withholds *mifazez* at 6:14 and supplies it at 6:16
-because the careless, wild element of the dance is exactly what galled Michal.
-The Gemara also uses this sense of haste: it reads Yaakov's rebuke of
-Reuven by it (*Shabbos* 55b on Bereishis 49:4), and a Sadducee sneered at Israel
-as an *ama peziza*, a hasty nation, for saying *na'aseh* before *nishma*
-(*Kesubos* 112a, *Shabbos* 88a, on Shemos 24:7). Tedeschi-Ashkenazi (*Ho'il
-Moshe* to Shmuel II 6:16) links פ-ז-ז to פ-צ-צ, to burst or scatter: the dancer
-seems to explode from place to place; and he suggests that perhaps fine gold is
-called *paz* because beating it into a thin sheet sends little pieces flying, as
-though the metal were exploding.
+strengthening.
+- Targum (to Shmuel II 6:16) renders *mifazez* with some sort of Aramaic form of
+  *miraked*.
+- Rambam (*Hilchos Lulav* 8:13) describes the *Simchas Beis HaSho'evah* with
+  "*mifazezin* and *micharkerin*," and then, of the sages and great men joining
+  in (8:14), switches to *mirakedin*.
+- Mr. Yehoshua Yaron (*Mevo L'Midrash HaLashon*) connects *mifazez* with the
+  biliteral פ-ז that gives *paz*, a kind of gold: as the sparkle of gold gives
+  the impression that the light bouncing off it is dancing in all directions, so
+  *mifazez* is wild dancing in many directions. Rabbi Shlomo Pappenheim
+  (*Cheishek Shlomo*) likewise traces both terms to פ-ז, whose core sense he
+  defines as quick movement, in the sense of dancing and of shining alike. The
+  English *pizzaz*/*pizazz* ("sparkle," "showiness," "glamor") seems to have
+  been coined in the 1930s, and the *Oxford English Dictionary* calls it of
+  unknown origin; Rabbi Klein wonders whether perhaps it rests on the Hebrew
+  *mifazez*.
+- Rabbi Yehuda Aryeh of Carpentras, in an explanation somewhat reminiscent of
+  Tedeschi-Ashkenazi on *miraked*: *paz* is the gold that stands metaphorically
+  above the other metals, matching the dancer's gestures, which are often
+  upward.
+- *Metzudas David* (to Shmuel II 6:16): a fast dance.
+- Rabbi Zev Atlas: Shmuel withholds *mifazez* at 6:14 and supplies it at 6:16
+  because the careless, wild element of the dance is exactly what galled Michal.
+- The Gemara also uses this sense of haste: it reads Yaakov's rebuke of Reuven
+  by it (*Shabbos* 55b on Bereishis 49:4), and a Sadducee sneered at Israel as
+  an *ama peziza*, a hasty nation, for saying *na'aseh* before *nishma*
+  (*Kesubos* 112a, *Shabbos* 88a, on Shemos 24:7).
+- Tedeschi-Ashkenazi (*Ho'il Moshe* to Shmuel II 6:16) links פ-ז-ז to פ-צ-צ, to
+  burst or scatter: the dancer seems to explode from place to place; and he
+  suggests that perhaps fine gold is called *paz* because beating it into a thin
+  sheet sends little pieces flying, as though the metal were exploding.
 
 Radak (to Bereishis 49:24) reads *vayafozu zero'ei
 yadav* of Yosef as strengthening, that Yosef strengthened his arm to repay those

@@ -64,22 +64,23 @@ Sanhedrin 113b); standing alone of a named person only for Avraham (Bava Basra
 16b) and Moshe (Temurah 16a). The Gemara generally avoids *meis* for a person's
 passing; another of its idioms is *nach nafshei*, "his soul rested."
 
-Rabbi Klein's own account of the link between *petirah* and *patur*: while the
-soul dwells in the body it binds the body to a higher purpose and to Hashem's
-law; when the soul departs, the body is exempt of all obligation. One who lived
-for a higher purpose is *nifter* when he dies, exiting one room to enter
-another on the same trajectory; to this effect Chazal state that the righteous
-are called alive even in death and the wicked dead even in life (Berachos
-18a-b); and so *petirah* is generally reserved for the righteous. Rabbi Moshe Shapiro
-observes that plants, rooted firmly in the ground, are tied to their lifeline in
-the soil as a man is tied to his soul, and that the connection shows the plant
-does not simply grow of its own accord but joins to something loftier; mushrooms
-and the other fungi rise rootless, free-floating and self-serving, disconnected
-from any accountability, and so are called *pitriyos* (Uktzin 3:2), *patur* of
-obligation. Such a life, though it might technically count as life, is nearer
-death than life. Rabbi Avraham Chaim Schor: the pious man's life in This World
-is often full of physical suffering, and at death he is exempted from it; so *nifter* is said
-specifically of a *tzaddik*, *mitah* of death in general.
+- Rabbi Klein's own account of the link between *petirah* and *patur*: while the
+  soul dwells in the body it binds the body to a higher purpose and to Hashem's
+  law; when the soul departs, the body is exempt of all obligation. One who
+  lived for a higher purpose is *nifter* when he dies, exiting one room to enter
+  another on the same trajectory; to this effect Chazal state that the righteous
+  are called alive even in death and the wicked dead even in life (Berachos
+  18a-b); and so *petirah* is generally reserved for the righteous.
+- Rabbi Moshe Shapiro observes that plants, rooted firmly in the ground, are
+  tied to their lifeline in the soil as a man is tied to his soul, and that the
+  connection shows the plant does not simply grow of its own accord but joins to
+  something loftier; mushrooms and the other fungi rise rootless, free-floating
+  and self-serving, disconnected from any accountability, and so are called
+  *pitriyos* (Uktzin 3:2), *patur* of obligation. Such a life, though it might
+  technically count as life, is nearer death than life.
+- Rabbi Avraham Chaim Schor: the pious man's life in This World is often full of
+  physical suffering, and at death he is exempted from it; so *nifter* is said
+  specifically of a *tzaddik*, *mitah* of death in general.
 
 ## Rendering guidance
 

@@ -34,64 +34,67 @@ Netziv, Rav Hirsch, Rabbi Shaul Bruch).
 Root כ-ר-ה; fifteen Biblical occurrences in the sense of digging, by Even
 Shoshan's concordance. The first Mishnah in Bava Kamma (1:1) lists *bor* second
 of the four categories of damages, and, oddly, the pasuk grounding it uses the
-relatively obscure *karah* (Shemos 21:33-34), while
-the Mishnah itself consistently says *chofer* for making a *bor* (Sheviis 3:10,
-Bava Kamma 5:5, Bava Basra 2:12). Malbim: the
-first stage of digging a pit, which is why "he dug (*karah*) a pit and dug it
-out (*chafirah*)" (Tehillim 7:16) runs in that order (see also Ibn Ezra, Ibn
-Ramoch, Meiri there), and why Yitzchak's servants first *karah* a well
-(Bereishis 26:25) and only later report the well they *chafirah* and found
-water (26:32; the same reading in Mecklenburg, HaKsav VeHaKabbalah, and
-Netziv, HaEmek Davar). Hence the Torah's *karah* in the law of the pit (Shemos
-21:33): even an unfinished pit, under ten *tefachim*, brings liability for
-damage (Malbim, with Bava Kamma 5:5 for the exception of death). Netziv: Yaakov
-"dug (*karah*) for myself" a grave (Bereishis 50:5) because he had only
-marked out a plot, not dug it; *chafirah* would have said the absurd. Rav
-Hirsch (to Bereishis 26:25, 49:5): preparatory digging that does not finish
-the project, akin to *kara* (calling), which summons in preparation for
-something larger; to Shemos 21:33, the arrangements before the actual dig.
-Pappenheim: *karah* is the core of the biliteral כ-ר, "digging," to which he
-ascribes a whole bevy of terms. *Hakarah*, recognition, is digging into one's
-mind to reach a conclusion before all the relevant facts are in; whence *nochri*,
-the foreigner one does not recognize, and *mechirah*, the commercial dealing that
-makes parties recognize one another, or by which a seller estranges himself from
-what he hands over. *Kur*, a furnace or kiln dug into the ground; whence *kiyor*,
-a washing vessel shaped like a *kur*, *kikar*, a talent, the metal a *kur*
-processes at one time, *kirah*/*kirayim*, an oven likewise dug in, and *kikar*, a
-loaf typically baked in a *kirah*. *Kar*, a fertile field whose borders were
-typically marked by digging ditches around it; whence *karim*, the fat animals
-that feed on it, *kor*, the measure of grain a typical such field yields, *kikar*, an especially large
-*kar* with lush pasture, *kreiti*, knights granted fiefdoms over such lands,
-*ikar*, the peasant who works them, and *kerem*, a vineyard, land ripe for
-planting vines. And *kares*, cutting, since digging breaks the parts of the earth
-apart from one another as cutting separates piece from piece.
+relatively obscure *karah* (Shemos 21:33-34), while the Mishnah itself
+consistently says *chofer* for making a *bor* (Sheviis 3:10, Bava Kamma 5:5,
+Bava Basra 2:12).
+- Malbim: the first stage of digging a pit, which is why "he dug (*karah*) a pit
+  and dug it out (*chafirah*)" (Tehillim 7:16) runs in that order (see also Ibn
+  Ezra, Ibn Ramoch, Meiri there), and why Yitzchak's servants first *karah* a
+  well (Bereishis 26:25) and only later report the well they *chafirah* and
+  found water (26:32; the same reading in Mecklenburg, HaKsav VeHaKabbalah, and
+  Netziv, HaEmek Davar). Hence the Torah's *karah* in the law of the pit (Shemos
+  21:33): even an unfinished pit, under ten *tefachim*, brings liability for
+  damage (Malbim, with Bava Kamma 5:5 for the exception of death).
+- Netziv: Yaakov "dug (*karah*) for myself" a grave (Bereishis 50:5) because he
+  had only marked out a plot, not dug it; *chafirah* would have said the absurd.
+- Rav Hirsch (to Bereishis 26:25, 49:5): preparatory digging that does not
+  finish the project, akin to *kara* (calling), which summons in preparation for
+  something larger; to Shemos 21:33, the arrangements before the actual dig.
+- Pappenheim: *karah* is the core of the biliteral כ-ר, "digging," to which he
+  ascribes a whole bevy of terms. *Hakarah*, recognition, is digging into one's
+  mind to reach a conclusion before all the relevant facts are in; whence
+  *nochri*, the foreigner one does not recognize, and *mechirah*, the commercial
+  dealing that makes parties recognize one another, or by which a seller
+  estranges himself from what he hands over. *Kur*, a furnace or kiln dug into
+  the ground; whence *kiyor*, a washing vessel shaped like a *kur*, *kikar*, a
+  talent, the metal a *kur* processes at one time, *kirah*/*kirayim*, an oven
+  likewise dug in, and *kikar*, a loaf typically baked in a *kirah*. *Kar*, a
+  fertile field whose borders were typically marked by digging ditches around
+  it; whence *karim*, the fat animals that feed on it, *kor*, the measure of
+  grain a typical such field yields, *kikar*, an especially large *kar* with
+  lush pasture, *kreiti*, knights granted fiefdoms over such lands, *ikar*, the
+  peasant who works them, and *kerem*, a vineyard, land ripe for planting vines.
+  And *kares*, cutting, since digging breaks the parts of the earth apart from
+  one another as cutting separates piece from piece.
 
 ### chafirah (חפירה)
 Root ח-פ-ר; twenty-three Biblical occurrences as digging by Even Shoshan's
 concordance, and the Mishnah's standard verb for making a *bor* (Sheviis 3:10,
-Bava Kamma 5:5, Bava Basra
-2:12). Malbim: the completion of the dig. Rav Hirsch: digging so deep that
-one reaches the earth's depths and brings up the spring water; from that
-depth the word's second sense, to scout, spy, or investigate, retrieving what
-is hidden from view (Modern Hebrew *chafran*, a busybody). Mecklenburg: in the
-sense of digging for information *chafirah* carries a negative color, hunting
-for something discreditable, and may be kin to *cherpah*, disgrace (see the
-shame entry). Rabbi Shaul Bruch, in a polemic against Modern Hebrew meant to show
-the richness and exaltedness of *lashon hakodesh*, notes that the Song of the
-Well (Bamidbar 21:18) puts *chafirah* ("dug by the officers") before *karah*
-("dug by the nobles of the people"), the reverse of the chronological order. His
-answer starts from another oddity: the Song of the Sea is sung by Moshe and
-Yisrael (Shemos 15:1), while the Song of the Well is said only of Yisrael
-(Bamidbar 21:17). Moshe is absent because the song itself pays him homage: the
-people acknowledge that though they, "the nobles of the people," would undertake
-the action, the final result always depended on Moshe and Aharon, "the officers,"
-who sealed it, as when the people fought Amalek valiantly and it was Moshe's
-raised hands and the tefillos that brought the victory. So the order is not
-chronological but qualitative. The *chafirah*, the finishing of the well, is put
-first because it is attributed to Moshe and Aharon, in whose merit the well came
-to be (Taanis 9a); only then does the song turn to the secondary reason, the rest
-of the nation, whose merits could begin the digging (*karah*) but not complete
-the project without the leaders.
+Bava Kamma 5:5, Bava Basra 2:12).
+- Malbim: the completion of the dig.
+- Rav Hirsch: digging so deep that one reaches the earth's depths and brings up
+  the spring water; from that depth the word's second sense, to scout, spy, or
+  investigate, retrieving what is hidden from view (Modern Hebrew *chafran*, a
+  busybody).
+- Mecklenburg: in the sense of digging for information *chafirah* carries a
+  negative color, hunting for something discreditable, and may be kin to
+  *cherpah*, disgrace (see the shame entry).
+- Rabbi Shaul Bruch, in a polemic against Modern Hebrew meant to show the
+  richness and exaltedness of *lashon hakodesh*, notes that the Song of the Well
+  (Bamidbar 21:18) puts *chafirah* ("dug by the officers") before *karah* ("dug
+  by the nobles of the people"), the reverse of the chronological order. His
+  answer starts from another oddity: the Song of the Sea is sung by Moshe and
+  Yisrael (Shemos 15:1), while the Song of the Well is said only of Yisrael
+  (Bamidbar 21:17). Moshe is absent because the song itself pays him homage: the
+  people acknowledge that though they, "the nobles of the people," would
+  undertake the action, the final result always depended on Moshe and Aharon,
+  "the officers," who sealed it, as when the people fought Amalek valiantly and
+  it was Moshe's raised hands and the tefillos that brought the victory. So the
+  order is not chronological but qualitative. The *chafirah*, the finishing of
+  the well, is put first because it is attributed to Moshe and Aharon, in whose
+  merit the well came to be (Taanis 9a); only then does the song turn to the
+  secondary reason, the rest of the nation, whose merits could begin the digging
+  (*karah*) but not complete the project without the leaders.
 
 ### chatzivah (חציבה)
 Root ח-צ-ב. Malbim: in contrast to the digging terms, quarrying, excavating with a hammer

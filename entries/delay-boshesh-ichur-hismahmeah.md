@@ -83,16 +83,17 @@ expression of uncertainty: one who is *hismahmeah* is standing about doing
 nothing in particular because he is still asking himself what he ought to do.
 
 ### boshesh and bushah
-Four accounts of why the same root gives lateness and shame. Rabbi Shlomo
-Pappenheim: it is the kind of delay to be ashamed of. Rav Hirsch: the root's
-core is disappointment, and shame is disappointment in oneself upon seeing
-one's own shortcoming, while *boshesh* is a delay so long that those waiting
-are disappointed in the man and give up on him. Rabbi Dovid Golumb
-(*Targumna*): one who is shamed is so belittled and ashamed that nobody views him
-as important, and the upshot is that he is no longer deemed worth waiting for
-when he is delayed (*boshesh*). Rabbi Aharon Marcus: the core of ב-ש is
-something being delayed or withheld, whence both lateness and the shame that
-turns a man's face white, his blood withheld from travelling its usual way.
+Four accounts of why the same root gives lateness and shame.
+- Rabbi Shlomo Pappenheim: it is the kind of delay to be ashamed of.
+- Rav Hirsch: the root's core is disappointment, and shame is disappointment in
+  oneself upon seeing one's own shortcoming, while *boshesh* is a delay so long
+  that those waiting are disappointed in the man and give up on him.
+- Rabbi Dovid Golumb (*Targumna*): one who is shamed is so belittled and ashamed
+  that nobody views him as important, and the upshot is that he is no longer
+  deemed worth waiting for when he is delayed (*boshesh*).
+- Rabbi Aharon Marcus: the core of ב-ש is something being delayed or withheld,
+  whence both lateness and the shame that turns a man's face white, his blood
+  withheld from travelling its usual way.
 
 ## Rendering guidance
 

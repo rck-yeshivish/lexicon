@@ -59,15 +59,17 @@ and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
    Ramban likely split them because here the Torah also uses *afeilah*, which
    implies a stronger form of darkness.
 
-**What makes afeilah heavier.** Malbim: a quantitative difference, *choshech*
-is night with moon and stars, *afeilah* is when they too give no light. Rabbi
-Shlomo Ibn Parchon: *afeilah* means "covered", a qualitative difference. Rabbi
-Yehuda Leib Edel writes similarly: *choshech* is the mere lack of light,
-*afeilah* is a tangible thing standing between the light and the eye, which for
-him were dark clouds that filtered the daylight so that it reached Yisrael and
-not the Mitzrim. Rabbi Baruch HaLevi Epstein, possibly on Ibn Parchon's
-reading, takes the covering literally: cataracts grew spontaneously over the
-Mitzrim's eyes, barring them from seeing the light of day.
+**What makes afeilah heavier.**
+- Malbim: a quantitative difference, *choshech* is night with moon and stars,
+  *afeilah* is when they too give no light.
+- Rabbi Shlomo Ibn Parchon: *afeilah* means "covered", a qualitative difference.
+- Rabbi Yehuda Leib Edel writes similarly: *choshech* is the mere lack of light,
+  *afeilah* is a tangible thing standing between the light and the eye, which
+  for him were dark clouds that filtered the daylight so that it reached Yisrael
+  and not the Mitzrim.
+- Rabbi Baruch HaLevi Epstein, possibly on Ibn Parchon's reading, takes the
+  covering literally: cataracts grew spontaneously over the Mitzrim's eyes,
+  barring them from seeing the light of day.
 
 ## Distinctions
 

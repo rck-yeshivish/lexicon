@@ -96,17 +96,19 @@ and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
 
 ### hagmieini (הגמיאיני)
 The servant's word at Bereishis 24:17, meaning something along the lines of "let
-me drink." All the early lexicographers, the biliteralist Menachem Ibn Saruk
-included, give the root ג-מ-א. Rashi (there) takes another approach and connects
-ג-מ-א to ג-מ-ע, possibly via the interchange of
-*aleph* and *ayin*; ג-מ-ע does not appear in Tanach but does in the Mishnah
-(Shabbos 8:1, 14:4) and elsewhere in rabbinic literature, including the Targum
-to Iyov 39:30, for swallowing. Rashi's comparison rests on the Gemara (Shabbos
-77a), which debates whether that Mishnaic word takes an *aleph* or an *ayin* and
-adduces the pasuk of *hagmieini* as proof for the *aleph*. Rabbi Shlomo
-Pappenheim instead traces it to the biliteral ג-מ, spongy or absorbent material,
-which gives *gome*, the spongy reed of marshy wetlands: the request is to drink
-the way a reed soaks up water.
+me drink."
+- All the early lexicographers, the biliteralist Menachem Ibn Saruk included,
+  give the root ג-מ-א.
+- Rashi (there) takes another approach and connects ג-מ-א to ג-מ-ע, possibly via
+  the interchange of *aleph* and *ayin*; ג-מ-ע does not appear in Tanach but
+  does in the Mishnah (Shabbos 8:1, 14:4) and elsewhere in rabbinic literature,
+  including the Targum to Iyov 39:30, for swallowing. Rashi's comparison rests
+  on the Gemara (Shabbos 77a), which debates whether that Mishnaic word takes an
+  *aleph* or an *ayin* and adduces the pasuk of *hagmieini* as proof for the
+  *aleph*.
+- Rabbi Shlomo Pappenheim instead traces it to the biliteral ג-מ, spongy or
+  absorbent material, which gives *gome*, the spongy reed of marshy wetlands:
+  the request is to drink the way a reed soaks up water.
 
 Rabbi Reuven Chaim Klein offers two further possibilities of his own. First, that the term may
 be related to the Mishnaic *guma*, a pit or hole (Chullin 2:9; Parah 2:5),

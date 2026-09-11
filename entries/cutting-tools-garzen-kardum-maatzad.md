@@ -56,15 +56,19 @@ the **hatchets**, both appearing once only, together in one pasuk. *Maatzad* and
 
 ## Where the authorities disagree
 
-**The root of *garzen*.** Menachem Ibn Saruk (*Machberes Menachem*) treats it as
-a four-letter root ג-ר-ז-ן, every consonant part of the core. Radak (*Sefer
-HaShorashim*) reads a three-letter ג-ר-ז, cutting and carving, with the final NUN
-extraneous. Ibn Janach (*Sefer HaShorashim*) and Rabbi Shlomo Ibn Parchon
-(*Machberes He'Aruch*) list the word under both and seem to settle on neither. Ibn Janach
-further ties ג-ר-ז to its metathesized twin ג-ז-ר, cutting, and Rashi (to
-Tehillim 31:23) and his grandson Rabbeinu Tam likewise follow Donash Ibn Labrat
-in doing the same. Four-letter roots are generally reckoned rare in Hebrew and
-are often explained by the commentators as loanwords from foreign languages.
+**The root of *garzen*.**
+- Menachem Ibn Saruk (*Machberes Menachem*) treats it as a four-letter root
+  ג-ר-ז-ן, every consonant part of the core.
+- Radak (*Sefer HaShorashim*) reads a three-letter ג-ר-ז, cutting and carving,
+  with the final NUN extraneous.
+- Ibn Janach (*Sefer HaShorashim*) and Rabbi Shlomo Ibn Parchon (*Machberes
+  He'Aruch*) list the word under both and seem to settle on neither. Ibn Janach
+  further ties ג-ר-ז to its metathesized twin ג-ז-ר, cutting, and Rashi (to
+  Tehillim 31:23) and his grandson Rabbeinu Tam likewise follow Donash Ibn
+  Labrat in doing the same.
+
+Four-letter roots are generally reckoned rare in Hebrew and are often explained
+by the commentators as loanwords from foreign languages.
 
 **What a *kardum* is.** The Mishnah's description (Keilim 13:3) suggests a
 double-sided tool, adze one way and axe the other, and Radak (to Shmuel I 13:20)

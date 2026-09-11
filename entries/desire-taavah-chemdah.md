@@ -33,46 +33,56 @@ illicit relations, and the Vilna Gaon explains that it does so respectively:
 ## Distinctions
 
 ### taavah (תאוה)
-Root א-ו-ה. The Vilna Gaon: desire whose fulfillment leads directly to bodily
-pleasure; sensual desire; Chagigah 11b attaches it to *arayos*. Rabbi Pappenheim
-and Rabbi Mecklenburg: a desire not derived from the object itself but from an
-alignment of other factors, the subject's own proclivities, the time, the place.
-Malbim: created by the man's own power of imagination, whether or not he ever saw
-the object; not a reaction to outside stimuli but something that comes from
-within. Both *taavah* and *chemdah* are self-damaging desires for Malbim. The
-*erev rav* "desired a desire", התאוו תאוה (Bamidbar 11:4). The literal text
-suggests the dispute centered on the mann, yet the mesorah
-holds that the core of the clash was the refusal to accept the Torah's laws of
-whom one may marry, and Chazal find the allusion in the weeping "according to its
-families" (Bamidbar 11:10), read as crying over family matters. Rabbi Klein
-suggests that the basis for that reading seems to lie in the Torah's word choice
-here, since *taavah* almost exclusively conjures intimacy-related desire while
-other desires take other words. (In the prevalent Yiddish pronunciation the word
-is *tayvuh*.)
+Root א-ו-ה.
+- The Vilna Gaon: desire whose fulfillment leads directly to bodily pleasure;
+  sensual desire; Chagigah 11b attaches it to *arayos*.
+- Rabbi Pappenheim and Rabbi Mecklenburg: a desire not derived from the object
+  itself but from an alignment of other factors, the subject's own proclivities,
+  the time, the place.
+- Malbim: created by the man's own power of imagination, whether or not he ever
+  saw the object; not a reaction to outside stimuli but something that comes
+  from within. Both *taavah* and *chemdah* are self-damaging desires for Malbim.
+
+The *erev rav* "desired a desire", התאוו תאוה (Bamidbar 11:4). The literal text
+suggests the dispute centered on the mann, yet the mesorah holds that the core
+of the clash was the refusal to accept the Torah's laws of whom one may marry,
+and Chazal find the allusion in the weeping "according to its families"
+(Bamidbar 11:10), read as crying over family matters. Rabbi Klein suggests that
+the basis for that reading seems to lie in the Torah's word choice here, since
+*taavah* almost exclusively conjures intimacy-related desire while other desires
+take other words. (In the prevalent Yiddish pronunciation the word is *tayvuh*.)
 
 ### chemdah (חמדה)
-Root ח-מ-ד. The Vilna Gaon: desire for something whose attainment is not itself a
-bodily pleasure: elegant clothes, a nice house, a lot of money; Chagigah 11b
-attaches it to theft, and in another place the Gaon calls it monetary desire.
-Rabbi Pappenheim and Rabbi Mecklenburg: the desire follows from the inherent,
-universally recognized properties of the object. Malbim: created by visual
-stimuli; one sees and then wants. Rabbi Klein reads the later two as falling in
-with the first: Rabbi Pappenheim and Rabbi Mecklenburg's account can be
-understood as somewhat of an expansion on the Vilna Gaon's, since the desire to
-accrue possessions is generally born not of appetite but of recognizing the
-advantages of possessing them; and Malbim's too is in consonance with it, since on the Gaon's approach *chemdah* is the desirer's
-recognition of the desired thing's goodness while *taavah* in certain ways
-ignores the thing and fixes on the desirer's own predetermined craving for it.
+Root ח-מ-ד.
+- The Vilna Gaon: desire for something whose attainment is not itself a bodily
+  pleasure: elegant clothes, a nice house, a lot of money; Chagigah 11b attaches
+  it to theft, and in another place the Gaon calls it monetary desire.
+- Rabbi Pappenheim and Rabbi Mecklenburg: the desire follows from the inherent,
+  universally recognized properties of the object.
+- Malbim: created by visual stimuli; one sees and then wants.
+
+Rabbi Klein reads the later two as falling in with the first: Rabbi Pappenheim
+and Rabbi Mecklenburg's account can be understood as somewhat of an expansion on
+the Vilna Gaon's, since the desire to accrue possessions is generally born not
+of appetite but of recognizing the advantages of possessing them; and Malbim's
+too is in consonance with it, since on the Gaon's approach *chemdah* is the
+desirer's recognition of the desired thing's goodness while *taavah* in certain
+ways ignores the thing and fixes on the desirer's own predetermined craving for
+it.
 
 ### chefetz (חפץ)
-Root ח-פ-ץ. The Vilna Gaon, contrasting three words: *taavah* sensual, *chemdah*
-monetary, *chefetz* culinary. Rabbi Klein suggests that *chefetz* seems to be the
-happy medium between the other two: the delectable taste of good food is indeed
-an inherent value in the food (like *chemdah*), but the desire to eat it is also
-tied to the eater's own appetite (like *taavah*). Malbim sets *chefetz*
-against *ratzon* rather than against these two: *chefetz* is an emotional desire,
-*ratzon* an intellectual one and usually positive. The full treatment is in the
-*ratzon* / *chefetz* entry.
+Root ח-פ-ץ.
+- The Vilna Gaon, contrasting three words: *taavah* sensual, *chemdah* monetary,
+  *chefetz* culinary.
+- Rabbi Klein suggests that *chefetz* seems to be the happy medium between the
+  other two: the delectable taste of good food is indeed an inherent value in
+  the food (like *chemdah*), but the desire to eat it is also tied to the
+  eater's own appetite (like *taavah*).
+- Malbim sets *chefetz* against *ratzon* rather than against these two:
+  *chefetz* is an emotional desire, *ratzon* an intellectual one and usually
+  positive.
+
+The full treatment is in the *ratzon* / *chefetz* entry.
 
 ## Rendering guidance
 

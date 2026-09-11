@@ -27,28 +27,32 @@ side (gluttony) and *sove* the drink side (swilling).
 ## Distinctions
 
 ### sove (סבא)
-Root ס-ב-א, appearing at least eight times in Tanach for getting drunk or for the drink
-that does it. Menachem Ibn Saruk (*Machberes Menachem*) defines *sove* simply as
-*shichrus*, drunkenness. Rabbi Shlomo of Urbino (*Ohel Moed*) counts it as a
-fourth synonym for drinking. Malbim (*Yair Ohr*): *sove* is drinking things that
-could intoxicate, whether or not intoxication follows, while *shichrus* is
-having actually become drunk.
+Root ס-ב-א, appearing at least eight times in Tanach for getting drunk or for
+the drink that does it.
+- Menachem Ibn Saruk (*Machberes Menachem*) defines *sove* simply as *shichrus*,
+  drunkenness.
+- Rabbi Shlomo of Urbino (*Ohel Moed*) counts it as a fourth synonym for
+  drinking.
+- Malbim (*Yair Ohr*): *sove* is drinking things that could intoxicate, whether
+  or not intoxication follows, while *shichrus* is having actually become drunk.
 
-On the root, Rabbi Shlomo Pappenheim reduces it to the two-letter ס-ב of
-*sivuv*, going around: the drunkard goes around from store to store, tavern to
-tavern, wherever the drink is. (He adds that they do so to reach better wine and
-be able to say *HaTov V'HaMeitiv* over the upgrade, see Shulchan Aruch Orach
-Chaim 175:2; Rabbi Moshe Tzuriel notes in his glosses to *Yerios Shlomo* that
-this last was a sarcastic witticism, drunkards in reality caring nothing for
-berachos.) Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim*) takes the
-same ס-ב differently: people sitting *around* a table drinking together, which
-would make *sove* kin to *mesibah*. Rabbi Yehudah Aryeh of Carpentras (*Aholei
-Yehudah*), Rav Hirsch (to Bereishis 24:25 and Devarim 21:19), Rabbi Shimon
-Yehuda Leib Goldblit (*Leshon Chachamim*) and Rabbi Dr. Asher Weiser (*Mikra
-V'Lashon*) all tie ס-ב-א to its homonym שׂ-ב-ע, *seviah*, satisfaction: the
-*sove* keeps drinking past the point of being full. Rav Hirsch also suggests a
-connection between ס-ב-א and צ-מ-א, on the interchangeability of *samech* with
-*tzadi* and of *beis* with *mem*.
+- On the root, Rabbi Shlomo Pappenheim reduces it to the two-letter ס-ב of
+  *sivuv*, going around: the drunkard goes around from store to store, tavern to
+  tavern, wherever the drink is. (He adds that they do so to reach better wine
+  and be able to say *HaTov V'HaMeitiv* over the upgrade, see Shulchan Aruch
+  Orach Chaim 175:2; Rabbi Moshe Tzuriel notes in his glosses to *Yerios Shlomo*
+  that this last was a sarcastic witticism, drunkards in reality caring nothing
+  for berachos.)
+- Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim*) takes the same ס-ב
+  differently: people sitting *around* a table drinking together, which would
+  make *sove* kin to *mesibah*.
+- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*), Rav Hirsch (to Bereishis
+  24:25 and Devarim 21:19), Rabbi Shimon Yehuda Leib Goldblit (*Leshon
+  Chachamim*) and Rabbi Dr. Asher Weiser (*Mikra V'Lashon*) all tie ס-ב-א to its
+  homonym שׂ-ב-ע, *seviah*, satisfaction: the *sove* keeps drinking past the
+  point of being full. Rav Hirsch also suggests a connection between ס-ב-א and
+  צ-מ-א, on the interchangeability of *samech* with *tzadi* and of *beis* with
+  *mem*.
 
 ### sava (סבא, as a noun)
 The same root as a noun for drink. Targum, Rashi (to *Bava Basra* 15b) and Rabbi

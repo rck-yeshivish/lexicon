@@ -76,32 +76,34 @@ tell, he was not destined to father righteous descendants, Yitzchak not yet
 having been born.
 
 ### avak (אבק)
-Fine dust, produced by pulverizing. Rabbi Pappenheim: *afar* is run-of-the-mill
-dirt, *avak* is finer powder. Rabbi Moshe Shapiro: *avak* is matter rubbed down
-to its core particles, light enough to be carried on the wind, and it is always
-the product of a struggle; the *avak* of Yaakov's wrestling with the angel rose
-to the Kisei HaKavod (*Chullin* 91a). Chazal's *avak* compounds work in this
-spirit, brushing the edge of a prohibition without technically crossing it: *avak
-lashon hara* (*Bava Basra* 165a), *avak ribbis* (*Temurah* 6b), *avak sheviis*
-(*Succah* 40b), *avak avodah zarah* (*Tosefta Avodah Zarah* 1:3). Rabbi Yehuda
-Leib Edel proposes that since ALEPH and CHES are sometimes interchangeable,
-*avak* may be related to *chavak*/*chibbuk*, a hug, since such particles are so
-small and insignificant on their own that one meets them only clinging to, or
-"hugging," something else; and
-Rashi (to Bereishis 32:25) describes that same wrestling as *chovek*, a hugging.
+Fine dust, produced by pulverizing.
+- Rabbi Pappenheim: *afar* is run-of-the-mill dirt, *avak* is finer powder.
+- Rabbi Moshe Shapiro: *avak* is matter rubbed down to its core particles, light
+  enough to be carried on the wind, and it is always the product of a struggle;
+  the *avak* of Yaakov's wrestling with the angel rose to the Kisei HaKavod
+  (*Chullin* 91a). Chazal's *avak* compounds work in this spirit, brushing the
+  edge of a prohibition without technically crossing it: *avak lashon hara*
+  (*Bava Basra* 165a), *avak ribbis* (*Temurah* 6b), *avak sheviis* (*Succah*
+  40b), *avak avodah zarah* (*Tosefta Avodah Zarah* 1:3).
+- Rabbi Yehuda Leib Edel proposes that since ALEPH and CHES are sometimes
+  interchangeable, *avak* may be related to *chavak*/*chibbuk*, a hug, since
+  such particles are so small and insignificant on their own that one meets them
+  only clinging to, or "hugging," something else; and Rashi (to Bereishis 32:25)
+  describes that same wrestling as *chovek*, a hugging.
 
 ### deshen (דשן)
-A second word for ashes. Rabbi Shlomo Aharon Wertheimer cites Rabbi Eliezer
-Lipman Lichtenstein (*Shem Olam*): *deshen* is what is burnt while fire still
-glows inside it, like an ember, while *eifer* is burnt through with no fire left.
-Rabbi Yehuda Leib Shapira-Frankfurter: *eifer* is ordinary ash and *deshen* is
-reserved for the ashes of the avodah in the Mikdash. Rabbi Pappenheim: "ashes"
-is only the secondary sense of *deshen*, whose primary sense is fat (Devarim
-31:20; Tehillim 63:6; Mishlei 15:30); ashes of burnt animals are called *deshen*
-for the residual fat in them, so on his view *deshen* is only animal ash, while
-burnt flora yields *eifer* alone; fruit and vegetable oils, on his account, are
-*deshe* (Bereishis 1:11). He connects *deshe* and both senses of *deshen* to the
-biliteral ד-ש.
+A second word for ashes.
+- Rabbi Shlomo Aharon Wertheimer cites Rabbi Eliezer Lipman Lichtenstein (*Shem
+  Olam*): *deshen* is what is burnt while fire still glows inside it, like an
+  ember, while *eifer* is burnt through with no fire left.
+- Rabbi Yehuda Leib Shapira-Frankfurter: *eifer* is ordinary ash and *deshen* is
+  reserved for the ashes of the avodah in the Mikdash.
+- Rabbi Pappenheim: "ashes" is only the secondary sense of *deshen*, whose
+  primary sense is fat (Devarim 31:20; Tehillim 63:6; Mishlei 15:30); ashes of
+  burnt animals are called *deshen* for the residual fat in them, so on his view
+  *deshen* is only animal ash, while burnt flora yields *eifer* alone; fruit and
+  vegetable oils, on his account, are *deshe* (Bereishis 1:11). He connects
+  *deshe* and both senses of *deshen* to the biliteral ד-ש.
 
 ## Rendering guidance
 

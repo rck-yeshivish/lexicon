@@ -55,27 +55,27 @@ never surrendered. *Chaval* is taken, *avot* and *rahan* given.
 
 ## Where the authorities disagree
 
-**Whether chaval "take a pledge" is the same root as chevel "rope."** The early
-lexicographers, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach and Radak among them,
-derive *chaval* from ח-ב-ל but see the root's other senses, rope, ship's captain
-(*rav-chovel*, the rope-master), region, band of people, birth pangs, injury, as
-distinct from taking a pledge. Rabbi Shlomo Pappenheim derives them all from
-"rope": a rope measures (a *chevel* of land, *tachbulah*, measured counsel), and
-what is measured is partial (*chavlei*, localized pains; *chavalah*, partial
-damage; a *chevel* of people, a sub-group only partly reflecting the larger
-body), so *chaval* is an act of injuring the debtor by a measured incursion into
-his property to settle a debt.
-Tedeschi-Ashkenazi sets *chaval* against *avot* as forcible against agreed, and
-Rabbi Klein brings in support Rashi (to Shemos 22:25), for whom *chaval* is
-taking a pledge once payment has fallen due.
-Tedeschi-Ashkenazi has
-the creditor pulling the debtor's property into his own domain as by a rope, and
-also considers that *chaval* may be related to *chov*, debt, the two standing
-side by side in Yechezkel 18:7; Rav Hirsch (to Shemos 22:25)
-offers two ways: the item is tethered to the lender, in that the borrower may no
-longer sell or damage it, or else the collateral, as a tangible token of the
-borrower's responsibility, ties the borrower to his debt as a rope ties a thing
-down.
+**Whether chaval "take a pledge" is the same root as chevel "rope."**
+- The early lexicographers, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach and Radak
+  among them, derive *chaval* from ח-ב-ל but see the root's other senses, rope,
+  ship's captain (*rav-chovel*, the rope-master), region, band of people, birth
+  pangs, injury, as distinct from taking a pledge.
+- Rabbi Shlomo Pappenheim derives them all from "rope": a rope measures (a
+  *chevel* of land, *tachbulah*, measured counsel), and what is measured is
+  partial (*chavlei*, localized pains; *chavalah*, partial damage; a *chevel* of
+  people, a sub-group only partly reflecting the larger body), so *chaval* is an
+  act of injuring the debtor by a measured incursion into his property to settle
+  a debt.
+- Tedeschi-Ashkenazi sets *chaval* against *avot* as forcible against agreed,
+  and Rabbi Klein brings in support Rashi (to Shemos 22:25), for whom *chaval*
+  is taking a pledge once payment has fallen due. Tedeschi-Ashkenazi has the
+  creditor pulling the debtor's property into his own domain as by a rope, and
+  also considers that *chaval* may be related to *chov*, debt, the two standing
+  side by side in Yechezkel 18:7.
+- Rav Hirsch (to Shemos 22:25) offers two ways: the item is tethered to the
+  lender, in that the borrower may no longer sell or damage it, or else the
+  collateral, as a tangible token of the borrower's responsibility, ties the
+  borrower to his debt as a rope ties a thing down.
 
 **What apoteiki is.** Rashi (Bava Kamma 11b, Bava Basra 44b) and *Sefer HaAruch*
 read it as a portmanteau of the Aramaic *a'po te'hei ka'i*, "upon here shall you

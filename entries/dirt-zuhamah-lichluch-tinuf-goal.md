@@ -32,17 +32,17 @@ seems to equate *lichluch* with *tinuf*, as do Ibn Janach and Radak.
 
 ### elach (אלח)
 Root א-ל-ח; three occurrences in Tanach (Iyov 15:16, Tehillim 14:3, 53:4).
-Rabbi Shlomo Pappenheim: not soiling by something disgusting, but the ruin that
-comes when something of another type is mixed into an otherwise uniform
-substance (grape juice poured into milk is now undrinkable, and only because
-the combination is incompatible). Pappenheim takes the initial *aleph* as
-extraneous and the working root as the two-letter ל-ח, "liquid" (as in *davar
-lach*), so *elach* is an unwanted liquid sullying something else. The classical
-lexicographers, among them Menachem Ibn Saruk, Yonah Ibn Janach and Radak,
-trace the term to the full triliteral root א-ל-ח. Rav Hirsch
-(to Tehillim 14:3) links it to א-ל-ה, which yields *allah*, "curse," through the
-interchange of *hei* and *ches*: both name a clash in which one party is set
-against the other.
+- Rabbi Shlomo Pappenheim: not soiling by something disgusting, but the ruin
+  that comes when something of another type is mixed into an otherwise uniform
+  substance (grape juice poured into milk is now undrinkable, and only because
+  the combination is incompatible). Pappenheim takes the initial *aleph* as
+  extraneous and the working root as the two-letter ל-ח, "liquid" (as in *davar
+  lach*), so *elach* is an unwanted liquid sullying something else.
+- The classical lexicographers, among them Menachem Ibn Saruk, Yonah Ibn Janach
+  and Radak, trace the term to the full triliteral root א-ל-ח.
+- Rav Hirsch (to Tehillim 14:3) links it to א-ל-ה, which yields *allah*,
+  "curse," through the interchange of *hei* and *ches*: both name a clash in
+  which one party is set against the other.
 
 ### lichluch (לכלוך)
 Post-biblical; absent from Tanach, once in the Mishnah, then the standard word
@@ -105,25 +105,28 @@ disputes are filth.
 
 ### zuhamah (זוהמה)
 Root ז-ה-ם, once in Tanach: to the sick man food looks like *zuhamah* (Iyov
-33:20). Radak (*Sefer HaShorashim*): the foul sweat a body gives off, or the
-residue thrown off in preparing certain foods. Pappenheim reduces it to the
-single letter *zayin*, "movement," and reads it as the fluid that oozes out
-after an unhealthy build-up, hence anything excess and unwanted. Donash Ibn
-Labrat: *zuhamah* is specifically the bad *smell* of something dirty, while
-*tinuf* is plain soiling; an Arabic cognate, *zahuma*,
-likewise refers to something dirty or smelly. Rav Hirsch (to Tehillim 7:12) relates ז-ה-ם to ז-ע-ם,
-*za'am*, anger or curse: both name a thing rejected by the beholder. In the
-Mishnah it covers a blemished, foul-smelling animal (*Bechoros* 6:12), fish odor
-removed by an onion (*Terumos* 10:1), and treating saplings before *shevi'is*
-(*Shevi'is* 2:4; manure per Rabbi Shimon of Shantz, foul-smelling oil to repel
-insects per Rambam; see also Rabbi Tzemach Duran's responsa *Yachin U'Boaz* I
-§114). The Gemara: one should use cold water for *mayim acharonim*, because hot
-water is less effective at removing the *zuhamah* from the hands (*Chullin*
-105a), and one who is *mezuham* may not recite a
-berachah just as a *mezuham* Kohen may not serve (*Berachos* 53b), a halachah
-taught by Rabbi Zuhamai, so named for it (Rabbi Yaakov Emden there, who also
-notes the name Zaham of Divrei HaYamim II 11:19, which seems to be of the same
-root). Pseudo-
+33:20).
+- Radak (*Sefer HaShorashim*): the foul sweat a body gives off, or the residue
+  thrown off in preparing certain foods.
+- Pappenheim reduces it to the single letter *zayin*, "movement," and reads it
+  as the fluid that oozes out after an unhealthy build-up, hence anything excess
+  and unwanted.
+- Donash Ibn Labrat: *zuhamah* is specifically the bad *smell* of something
+  dirty, while *tinuf* is plain soiling; an Arabic cognate, *zahuma*, likewise
+  refers to something dirty or smelly.
+- Rav Hirsch (to Tehillim 7:12) relates ז-ה-ם to ז-ע-ם, *za'am*, anger or curse:
+  both name a thing rejected by the beholder.
+
+In the Mishnah it covers a blemished, foul-smelling animal (*Bechoros* 6:12),
+fish odor removed by an onion (*Terumos* 10:1), and treating saplings before
+*shevi'is* (*Shevi'is* 2:4; manure per Rabbi Shimon of Shantz, foul-smelling oil
+to repel insects per Rambam; see also Rabbi Tzemach Duran's responsa *Yachin
+U'Boaz* I §114). The Gemara: one should use cold water for *mayim acharonim*,
+because hot water is less effective at removing the *zuhamah* from the hands
+(*Chullin* 105a), and one who is *mezuham* may not recite a berachah just as a
+*mezuham* Kohen may not serve (*Berachos* 53b), a halachah taught by Rabbi
+Zuhamai, so named for it (Rabbi Yaakov Emden there, who also notes the name
+Zaham of Divrei HaYamim II 11:19, which seems to be of the same root). Pseudo-
 Rashbam (to Tehillim 26:10) glosses *zimah* as *tinuf*, from which Rabbi
 Steinberg suggests he read ז-מ-ה as a metathesis of ז-ה-ם. In Modern Hebrew
 *mezuham* means "infected" in the bacterial sense.

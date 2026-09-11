@@ -55,21 +55,23 @@ mixed: as the sun sets, the shapes of the shadows become mixed up. Thirdly,
 where the sun is found before setting in the evening.
 
 ### North: tzafon (צפון), smol (שמאל), estan (אסתן)
-The commentators offer several explanations of *tzafon*. Some compare it to *tzafun*, hidden, because in the
-northern parts of the world (the Arctic zone) the sun's influence is hidden,
-the cold there obscuring its warmth; or, alternatively, because the sun
-generally remains south of the celestial equator, so the north side is
-"hidden" from the sun's presence. Others claim it is related to *tzifiyah*,
-gazing, since one can fix north by gazing heavenward and following the
-northern star. Another approach argues that *tzafon* refers to Mount Tzafon,
-a mountain mentioned in Tanach which lies due north of Eretz Yisrael and which
-scholars identify as Jebel Aqra, on the border
-between modern-day Turkey and Syria. *Smol*, left, follows from facing east.
-The Gemara sometimes uses the Aramaic *estan* for north (e.g. Kesubos 23a);
-Rabbeinu Bachaya (1255-1340) proposes that it may be related to the Aramaic
-*asuta*, health, alluding to certain healing properties of the north wind (see
-Yevamos 72a). Some people have a custom of exclaiming *Asuta!* on
-hearing another sneeze, to bless him with good health.
+The commentators offer several explanations of *tzafon*.
+- Some compare it to *tzafun*, hidden, because in the northern parts of the
+  world (the Arctic zone) the sun's influence is hidden, the cold there
+  obscuring its warmth; or, alternatively, because the sun generally remains
+  south of the celestial equator, so the north side is "hidden" from the sun's
+  presence.
+- Others claim it is related to *tzifiyah*, gazing, since one can fix north by
+  gazing heavenward and following the northern star.
+- Another approach argues that *tzafon* refers to Mount Tzafon, a mountain
+  mentioned in Tanach which lies due north of Eretz Yisrael and which scholars
+  identify as Jebel Aqra, on the border between modern-day Turkey and Syria.
+
+*Smol*, left, follows from facing east. The Gemara sometimes uses the Aramaic
+*estan* for north (e.g. Kesubos 23a); Rabbeinu Bachaya (1255-1340) proposes that
+it may be related to the Aramaic *asuta*, health, alluding to certain healing
+properties of the north wind (see Yevamos 72a). Some people have a custom of
+exclaiming *Asuta!* on hearing another sneeze, to bless him with good health.
 
 ### South: darom (דרום), negev (נגב), teiman (תימן) / yamin (ימין)
 The commentaries explain *darom* as a portmanteau of *derech yom*, the path of

@@ -33,23 +33,26 @@ possibly its knack for burying the dead.
 Twice in Tanach, in the identical lists of what Shlomo HaMelech's ships brought
 back: gold and silver, *shenhabim*, monkeys and peacocks (Melachim I 10:22;
 Divrei HaYamim II 9:21). The whole question is which half of the list it joins,
-the precious materials or the exotic animals. The *taamim* suggest that *shenhabim*
-goes with the animals. The commentators mostly go the other way: the Targum to both places
-renders it *shen d'pil*, an elephant's tooth, that is ivory, and Rashi, Radak,
-the Metzudos, Ralbag, and Rabbi Yosef Karo follow. Abarbanel (to Melachim I
-10:22) records that the Christian commentators read it as pearls, which is again
-a material rather than an animal. On the other side, the commentary printed
-under Rashi's name to Divrei HaYamim (not his) says *shenhav* means both the
-tusk and the animal, tying the word to the clauses on either side of it.
-Rabbeinu Yonah Ibn Janach (*Sefer HaShorashim*) suggests that it is a compound of
-two words stuck together, without explaining himself; Rabbi Reuven Chaim Klein
-takes it as safe to assume that Ibn Janach means *shen*, tooth, plus *hav*, gives,
-so that *shenhav* would be the beast that "gives" teeth, and that on that reading
-Ibn Janach too seems to mean the animal rather than the ivory. HaKallir, in an unpublished *piyut* for Yom
-Kippur, lists *shenhabim* among animals of exceptional height, implying that the
-word means elephant, and Rabbi Avraham ben Shlomo, the fourteenth-century
-Yemenite commentator to Melachim, says outright that it means elephants and not
-ivory.
+the precious materials or the exotic animals.
+- The *taamim* suggest that *shenhabim* goes with the animals.
+- The commentators mostly go the other way: the Targum to both places renders it
+  *shen d'pil*, an elephant's tooth, that is ivory, and Rashi, Radak, the
+  Metzudos, Ralbag, and Rabbi Yosef Karo follow.
+- Abarbanel (to Melachim I 10:22) records that the Christian commentators read
+  it as pearls, which is again a material rather than an animal.
+- On the other side, the commentary printed under Rashi's name to Divrei HaYamim
+  (not his) says *shenhav* means both the tusk and the animal, tying the word to
+  the clauses on either side of it.
+- Rabbeinu Yonah Ibn Janach (*Sefer HaShorashim*) suggests that it is a compound
+  of two words stuck together, without explaining himself; Rabbi Reuven Chaim
+  Klein takes it as safe to assume that Ibn Janach means *shen*, tooth, plus
+  *hav*, gives, so that *shenhav* would be the beast that "gives" teeth, and
+  that on that reading Ibn Janach too seems to mean the animal rather than the
+  ivory.
+- HaKallir, in an unpublished *piyut* for Yom Kippur, lists *shenhabim* among
+  animals of exceptional height, implying that the word means elephant, and
+  Rabbi Avraham ben Shlomo, the fourteenth-century Yemenite commentator to
+  Melachim, says outright that it means elephants and not ivory.
 
 Rabbi Dr. Ernest Klein and others parse the word differently again. They agree
 that *shen* is "tooth," but hold that *hav* is related to the Ancient Egyptian

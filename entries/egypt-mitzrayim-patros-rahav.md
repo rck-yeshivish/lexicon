@@ -52,25 +52,28 @@ heavenly minister; *eretz Cham*, the Land of Cham, is Tehillim's name for it.
 ## Where the authorities disagree
 
 **Why Mitzrayim has a plural or dual ending.** Six accounts, no reconciliation.
-Radak (to Bereishis 10:13): unknown, perhaps something in the circumstances of
-his birth, and once Cham's son bore it he named his own sons the same way.
-*Peirush HaRokeach* and Rabbi Yehuda HaChassid (there): each of those nations
-came from a pair of twins whose families intermarried, which accounts for the sons'
-names but does not quite explain Mitzrayim's own. *Bereishis Rabbah* 37:5 notes that the sons'
-names all carry a *yam* ending; Maharzu, that they settled along the coast, and
-Ramban (to 10:13) places them all in Egypt's vicinity. Rabbeinu Bachaya (to
-10:13): the yod-mem hints that these family-nations were destined to drown at
-Krias Yam Suf. Many sources read the name as a portmanteau of *meitzar*, a
-narrow place, border or strait, and *yam*, sea, each explaining the connection
-its own way; the earliest Rabbi Klein found is Rabbi Chaim Vital, that Egypt
-places a limit on the Upper Seas, since its fecundity hinged on the Nile and it
-was not as reliant on rain as other countries, a state of affairs that could,
-chas v'shalom, lead people to forget Hashem in their pursuit of a crop, no longer
-feeling the need to look upward for rain (see Bereishis 13:10, Devarim 11:10).
-*Sodei Semuchim*, ascribed to Rabbi Elazar Rokeach of Worms: it is the
-inflection Hebrew uses for paired things, and Egypt earned it as a nation
-assembled out of several of Cham's lines, like Yerushalayim, two cities joined.
-Ibn Ezra (to 10:13) reads the whole list as names of countries, not of men.
+- Radak (to Bereishis 10:13): unknown, perhaps something in the circumstances of
+  his birth, and once Cham's son bore it he named his own sons the same way.
+- *Peirush HaRokeach* and Rabbi Yehuda HaChassid (there): each of those nations
+  came from a pair of twins whose families intermarried, which accounts for the
+  sons' names but does not quite explain Mitzrayim's own.
+- *Bereishis Rabbah* 37:5 notes that the sons' names all carry a *yam* ending;
+  Maharzu, that they settled along the coast, and Ramban (to 10:13) places them
+  all in Egypt's vicinity.
+- Rabbeinu Bachaya (to 10:13): the yod-mem hints that these family-nations were
+  destined to drown at Krias Yam Suf.
+- Many sources read the name as a portmanteau of *meitzar*, a narrow place,
+  border or strait, and *yam*, sea, each explaining the connection its own way;
+  the earliest Rabbi Klein found is Rabbi Chaim Vital, that Egypt places a limit
+  on the Upper Seas, since its fecundity hinged on the Nile and it was not as
+  reliant on rain as other countries, a state of affairs that could, chas
+  v'shalom, lead people to forget Hashem in their pursuit of a crop, no longer
+  feeling the need to look upward for rain (see Bereishis 13:10, Devarim 11:10).
+- *Sodei Semuchim*, ascribed to Rabbi Elazar Rokeach of Worms: it is the
+  inflection Hebrew uses for paired things, and Egypt earned it as a nation
+  assembled out of several of Cham's lines, like Yerushalayim, two cities
+  joined.
+- Ibn Ezra (to 10:13) reads the whole list as names of countries, not of men.
 
 **Whether "Mitzrayim" at the Yam Suf is the man.** *Midrash Sechel Tov* (to
 Shemos 14:30): "Yisrael saw Mitzrayim dead on the seashore" means Grandfather
@@ -81,19 +84,21 @@ Mitzrayim himself, revived to watch his wretched descendants destroyed; some
 
 **Who the Luvim are.** The Luvim come up four times in Tanach: countless of them
 march with Shishak against Yerushalayim (Divrei HaYamim II 12:3, in Rechavam's
-reign), again as soldiers a few generations
-later in Asa's day (16:8), and at Nachum 3:9 and Daniel 11:43. Rid and pseudo-Rasag (to
-Daniel 11:43), and Tosafos with *Tosafos
-Chitzoniyos* (in *Shitah Mekubetzes* to Bechoros 5b), state plainly that the
-Luvim are the Lehavim, probably because hei and vav
-interchange. Rabbeinu Tam (cited by Tosafos to Shabbos 51b, and see Rabbeinu
-Nissim Gaon to Shabbos 90b): the word simply means Egyptians. Rashi: Luvim
-donkeys were of especially high quality (Bechoros 5b), and they came from Luv,
-the land of the Luvim (Shabbos 51b, and see Rabbeinu Chananel there). Rabbi
-Aharon Marcus and Dr. Alexander Kohut postulate that Luv, the homeland of the
-Luvim and Lehavim, is Libya, west of modern Egypt; Rabbi Klein offers as an alternative
-of his own that Lehavim/Luvim may be another term for the Nubians, who lived just
-to Egypt's south, lamed and nun being often interchangeable.
+reign), again as soldiers a few generations later in Asa's day (16:8), and at
+Nachum 3:9 and Daniel 11:43.
+- Rid and pseudo-Rasag (to Daniel 11:43), and Tosafos with *Tosafos Chitzoniyos*
+  (in *Shitah Mekubetzes* to Bechoros 5b), state plainly that the Luvim are the
+  Lehavim, probably because hei and vav interchange.
+- Rabbeinu Tam (cited by Tosafos to Shabbos 51b, and see Rabbeinu Nissim Gaon to
+  Shabbos 90b): the word simply means Egyptians.
+- Rashi: Luvim donkeys were of especially high quality (Bechoros 5b), and they
+  came from Luv, the land of the Luvim (Shabbos 51b, and see Rabbeinu Chananel
+  there).
+- Rabbi Aharon Marcus and Dr. Alexander Kohut postulate that Luv, the homeland
+  of the Luvim and Lehavim, is Libya, west of modern Egypt.
+- Rabbi Klein offers as an alternative of his own that Lehavim/Luvim may be
+  another term for the Nubians, who lived just to Egypt's south, lamed and nun
+  being often interchangeable.
 
 ## Distinctions
 

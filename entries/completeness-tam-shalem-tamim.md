@@ -34,30 +34,34 @@ Biliteral ת-ם. All three Avos are called complete with words from this root:
 Hashem told Avraham that with his milah he would become *tamim*, whole
 (Bereishis 17:1); Yitzchak is an *olah temimah*, an unblemished burnt-offering
 (*Bereishis Rabbah* 64:3); and Yaakov is an *ish tam*, a wholesome man
-(Bereishis 25:27). Rabbeinu Bachaya (Bereishis 17:1) gives two marks. First, no
-deficiency and no superfluity: the Torah is *temimah* (Tehillim 19:8) because
-nothing may be added to it or taken from it (Devarim 13:1). Second, the inside
-like the outside: what the *tam* believes in his heart is exactly what his
-mouth says. The upshot is equivalence, as in *teomim*, twins: the *tam* is
-precisely equal to what is asked of him, neither short of it nor beyond it.
-Malbim: completeness of intention, good deeds done with no ulterior motive
-(reward, fear of punishment), and full agreement among the parts of the
-psyche, so the whole man resolves on the good with no inner dissent to be
-appeased. Pappenheim: the word runs across the spiritual (a tzaddik), the
-physical (an unblemished animal, Vayikra 1:3, 22:21; the redness of the parah
-adumah, Bamidbar 19:2), and the quantitative (a full measure); it also names
-the innocent, "wholesome" man whose knowledge is complete to him and who
-seeks nothing beyond it, hence the *tam* of the Haggadah, the simpleton. (Rabbi
-Klein notes in passing the *whole* inside the English *wholesome*, a semantic
-affinity with *tam*.) The Zohar (Bamidbar 165b) ranks *tam* above *tamim*. On
-"be *tamim* with Hashem" (Devarim 18:13), coming after the ban on augury,
-divination, sorcery and necromancy: innocent and wholesome, not appealing to
-outside forms of wisdom such as the dark arts to know the future; the Kedushat
-Levi does not read *tamim* as "wholesome" here at all, but as completeness of
-trust in Hashem, seeing Him as the One who always supplies whatever is lacking.
-Onkelos there renders *shelim*, an Aramaic cognate of *shalem*, and Sefer
-HaBahir (137) uses that to prove that *tamim* means *shalem*, which Rabbi Klein
-takes to suggest that the two are synonymous, at least colloquially.
+(Bereishis 25:27).
+- Rabbeinu Bachaya (Bereishis 17:1) gives two marks. First, no deficiency and no
+  superfluity: the Torah is *temimah* (Tehillim 19:8) because nothing may be
+  added to it or taken from it (Devarim 13:1). Second, the inside like the
+  outside: what the *tam* believes in his heart is exactly what his mouth says.
+  The upshot is equivalence, as in *teomim*, twins: the *tam* is precisely equal
+  to what is asked of him, neither short of it nor beyond it.
+- Malbim: completeness of intention, good deeds done with no ulterior motive
+  (reward, fear of punishment), and full agreement among the parts of the
+  psyche, so the whole man resolves on the good with no inner dissent to be
+  appeased.
+- Pappenheim: the word runs across the spiritual (a tzaddik), the physical (an
+  unblemished animal, Vayikra 1:3, 22:21; the redness of the parah adumah,
+  Bamidbar 19:2), and the quantitative (a full measure); it also names the
+  innocent, "wholesome" man whose knowledge is complete to him and who seeks
+  nothing beyond it, hence the *tam* of the Haggadah, the simpleton. (Rabbi
+  Klein notes in passing the *whole* inside the English *wholesome*, a semantic
+  affinity with *tam*.)
+
+The Zohar (Bamidbar 165b) ranks *tam* above *tamim*. On "be *tamim* with Hashem"
+(Devarim 18:13), coming after the ban on augury, divination, sorcery and
+necromancy: innocent and wholesome, not appealing to outside forms of wisdom
+such as the dark arts to know the future; the Kedushat Levi does not read
+*tamim* as "wholesome" here at all, but as completeness of trust in Hashem,
+seeing Him as the One who always supplies whatever is lacking. Onkelos there
+renders *shelim*, an Aramaic cognate of *shalem*, and Sefer HaBahir (137) uses
+that to prove that *tamim* means *shalem*, which Rabbi Klein takes to suggest
+that the two are synonymous, at least colloquially.
 
 ### shalem (שלם)
 Pappenheim traces it to the biliteral ש-ל, removed, cast away (*shal* your
@@ -76,16 +80,19 @@ yet full in Avraham's day (Bereishis 15:16, of the Emori).
 paid more than the price, whereas *tamim* cannot apply without an exact match
 and fails the moment anything is missing or extra.
 
-Rabbi Shlomo Aharon Wertheimer takes a similar approach but differs: *shalem*
-is exclusively quantitative, while *tam* is qualitative completion that
-*includes* the quantitative. Rabbi Avraham Bedersi seems to understand both
-words as completion, but *shalem* as a neutral word carrying no value judgment
-and *tam* as a positive form of completion. And if Rabbi Klein has understood him
-correctly, Rabbi Shimon Dov Ber Analak of Siedlce holds that *tam* is completion
-in one particular aspect and not necessarily in all, while *shalem* implies a
-more overall completion, as Yaakov came to Shechem *shalem* (Bereishis 33:18)
-and Chazal expound it of body, Torah and wealth (Shabbos 33b); *tam*, by contrast, almost exclusively denotes completion in the spiritual
-realm, not the physical, intellectual or financial.
+- Rabbi Shlomo Aharon Wertheimer takes a similar approach but differs: *shalem*
+  is exclusively quantitative, while *tam* is qualitative completion that
+  *includes* the quantitative.
+- Rabbi Avraham Bedersi seems to understand both words as completion, but
+  *shalem* as a neutral word carrying no value judgment and *tam* as a positive
+  form of completion.
+- And if Rabbi Klein has understood him correctly, Rabbi Shimon Dov Ber Analak
+  of Siedlce holds that *tam* is completion in one particular aspect and not
+  necessarily in all, while *shalem* implies a more overall completion, as
+  Yaakov came to Shechem *shalem* (Bereishis 33:18) and Chazal expound it of
+  body, Torah and wealth (Shabbos 33b); *tam*, by contrast, almost exclusively
+  denotes completion in the spiritual realm, not the physical, intellectual or
+  financial.
 
 The commentators are bothered by *vayitmu*, "and the days of weeping in mourning
 for Moshe were finished" (Devarim 34:8), which uses a

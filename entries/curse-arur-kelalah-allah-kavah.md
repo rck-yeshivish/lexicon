@@ -27,19 +27,20 @@ word; Shemos 22:27 uses both of them in a single pasuk.
 ## Distinctions
 
 ### arur (ארור)
-The Vilna Gaon: *arur* is the true and intense curse, which is why the Torah uses
-it for cursing a king. A king's powers are more overreaching than a judge's, so
-he can potentially hurt a man more, the more so as kingship is commonly an inherited
-position and the king's moral standing is generally beside the point; a man
-gravely mistreated by him may be tempted to curse him in earnest and not merely
-to disparage him.
-Rabbi Yaakov Tzvi Mecklenburg: *arur* is broad and all-inclusive, wishing every
-misfortune on an adversary, and it can stand alone (one simply declares that an
-*arur* shall come upon him); it can also fall on something abstract, not only on
-what physically exists. Malbim reads *arur* narrowly the other way: it names the
-practical working-out of a curse in one specific thing of the victim's, his body
-or his property, and he links it to *me'erah*, decrease (Devarim 28:20), the
-shrinking of a man's yield.
+- The Vilna Gaon: *arur* is the true and intense curse, which is why the Torah
+  uses it for cursing a king. A king's powers are more overreaching than a
+  judge's, so he can potentially hurt a man more, the more so as kingship is
+  commonly an inherited position and the king's moral standing is generally
+  beside the point; a man gravely mistreated by him may be tempted to curse him
+  in earnest and not merely to disparage him.
+- Rabbi Yaakov Tzvi Mecklenburg: *arur* is broad and all-inclusive, wishing
+  every misfortune on an adversary, and it can stand alone (one simply declares
+  that an *arur* shall come upon him); it can also fall on something abstract,
+  not only on what physically exists.
+- Malbim reads *arur* narrowly the other way: it names the practical working-out
+  of a curse in one specific thing of the victim's, his body or his property,
+  and he links it to *me'erah*, decrease (Devarim 28:20), the shrinking of a
+  man's yield.
 
 ### kelalah (קללה)
 The Vilna Gaon: *kelalah* is colloquially "curse" but literally a diminutive,

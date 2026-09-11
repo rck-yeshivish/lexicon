@@ -92,23 +92,26 @@ Jews were first ghettoized in exile and slavery in biblical times.
 ### shtar (שטר)
 Root ש-ט-ר. Absent from Tanach but quite common in later rabbinic literature,
 including the Bar Kochba Letters and the Mishnah, and often specified by its
-type:
-*shtar chov*, *shtar erusin* (Kesuvos 102b; Kiddushin 9b), *shtar nisuin* and
-*shtar arisus* (Bava Basra 167b), *shtar amanah* (Kesuvos 19a; Gittin 19b; Bava
-Basra 49a, 154b), *shtar berurin* (Moed Katan 18b), *shtar mivrachas* (Kesuvos
-79a). Whether it is the same root as *shoter*, the officer, is disputed. Rabbi
-Eliyahu HaBachur (*Meturgaman*) gives ש-ט-ר two separate entries, the enforcing
-officer and the document, and treats the two senses as separate. Rav Hirsch (to
-Shemos 5:6) joins them: a *shtar* is the creditor's best means of presenting his
-grievances and enforcing his dues, so both words off ש-ט-ר are related. Dr.
-Chaim Tawil defines the biblical *shoter* as a "record-keeper" or "organizing
-officer" and connects the root to the Akkadian verb *sataru*, "to write"; on his
-account both *shoter* and *sofer* mean a scribe in Akkadian, the former
-specifically a civil servant who is an official scribe, the latter any scribe at
-all. The Old English *starr* is a corruption of *shtar* and
-referred to documents or contracts held by Jews, falling out of use after the
-expulsion from England in 1290 until later scholars such as the English
-parliamentarian John Selden revived it.
+type: *shtar chov*, *shtar erusin* (Kesuvos 102b; Kiddushin 9b), *shtar nisuin*
+and *shtar arisus* (Bava Basra 167b), *shtar amanah* (Kesuvos 19a; Gittin 19b;
+Bava Basra 49a, 154b), *shtar berurin* (Moed Katan 18b), *shtar mivrachas*
+(Kesuvos 79a). Whether it is the same root as *shoter*, the officer, is
+disputed.
+- Rabbi Eliyahu HaBachur (*Meturgaman*) gives ש-ט-ר two separate entries, the
+  enforcing officer and the document, and treats the two senses as separate.
+- Rav Hirsch (to Shemos 5:6) joins them: a *shtar* is the creditor's best means
+  of presenting his grievances and enforcing his dues, so both words off ש-ט-ר
+  are related.
+- Dr. Chaim Tawil defines the biblical *shoter* as a "record-keeper" or
+  "organizing officer" and connects the root to the Akkadian verb *sataru*, "to
+  write"; on his account both *shoter* and *sofer* mean a scribe in Akkadian,
+  the former specifically a civil servant who is an official scribe, the latter
+  any scribe at all.
+
+The Old English *starr* is a corruption of *shtar* and referred to documents or
+contracts held by Jews, falling out of use after the expulsion from England in
+1290 until later scholars such as the English parliamentarian John Selden
+revived it.
 
 ### The biblical words
 Tanach has neither term. A bill of divorce is *sefer kerisus*, literally a

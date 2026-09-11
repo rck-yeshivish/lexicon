@@ -101,27 +101,29 @@ a semantic redundancy, since *keren* already means corner and so does *zavit*.
 
 ### pinah (פינה)
 Twice in the Chumash, both for the corners of the Altar (Shemos 27:2, 38:2),
-where Onkelos gives *zavit*, and twenty-eight more times in Tanach. If Rabbi
-Klein has understood him correctly, Pappenheim distinguishes the two thus:
-*zavit* is the inner face of a corner, *pinah* the outer. Stand inside the room
-and it is a *zavit*; stand in the street and the same corner is a *pinah*. Hence
-a *pinah* must be built stronger than the rest, being exposed, and hence leaders
-are *pinos* (Shoftim 20:2; Shmuel I 14:38), men required to be of better quality
-than the rest. He derives it from PEH-NUN, "front/surface," the root of *panim*
-and of *panah*, to turn and face: at a *pinah* one must turn to keep following
-the perimeter; *peninim* (precious stones) he suggests reading the same way, a gem cut so
-its faces and their corners show. Rabbi David Chaim Chelouche (1920 to 2016),
-late Chief Rabbi of Netanya, traces both *peah* and *pinah* to the single letter
-PEH, "end/edge" (with an added alef in *peah* and an added nun in *pinah*),
-*peah* naming more broadly the edge of a given area and *pinah* the edge where
-two of its sides meet; and the
-Rashba (responsa vol. 4 §278) presumes *pinah* and *zavit* are plain synonyms.
-Mordechai Zer-Kavod (*Daas Mikra* to Nechemiah 3:24) makes the primary sense
-"raised place," from *rosh pinah* (Tehillim 118:22) and *pinos u'gevohos*
-(Tzefaniah 1:16) and *migdalim hapinos* (Divrei HaYamim II 26:15); the *even
-pinah* stands against the *even mosad* in Yirmiyahu 51:26, foundation stone
-underground and corner stone all the way on top, so that a *pinah* is something
-prominently placed.
+where Onkelos gives *zavit*, and twenty-eight more times in Tanach.
+- If Rabbi Klein has understood him correctly, Pappenheim distinguishes the two
+  thus: *zavit* is the inner face of a corner, *pinah* the outer. Stand inside
+  the room and it is a *zavit*; stand in the street and the same corner is a
+  *pinah*. Hence a *pinah* must be built stronger than the rest, being exposed,
+  and hence leaders are *pinos* (Shoftim 20:2; Shmuel I 14:38), men required to
+  be of better quality than the rest. He derives it from PEH-NUN,
+  "front/surface," the root of *panim* and of *panah*, to turn and face: at a
+  *pinah* one must turn to keep following the perimeter; *peninim* (precious
+  stones) he suggests reading the same way, a gem cut so its faces and their
+  corners show.
+- Rabbi David Chaim Chelouche (1920 to 2016), late Chief Rabbi of Netanya,
+  traces both *peah* and *pinah* to the single letter PEH, "end/edge" (with an
+  added alef in *peah* and an added nun in *pinah*), *peah* naming more broadly
+  the edge of a given area and *pinah* the edge where two of its sides meet; and
+  the Rashba (responsa vol. 4 §278) presumes *pinah* and *zavit* are plain
+  synonyms.
+- Mordechai Zer-Kavod (*Daas Mikra* to Nechemiah 3:24) makes the primary sense
+  "raised place," from *rosh pinah* (Tehillim 118:22) and *pinos u'gevohos*
+  (Tzefaniah 1:16) and *migdalim hapinos* (Divrei HaYamim II 26:15); the *even
+  pinah* stands against the *even mosad* in Yirmiyahu 51:26, foundation stone
+  underground and corner stone all the way on top, so that a *pinah* is
+  something prominently placed.
 
 ### miktzoa (מקצוע)
 Root ק-צ-ע, which yields a verb (cutting, removing, peeling) and three nouns:
@@ -131,21 +133,24 @@ first three is that in cutting or scraping one holds the blade perpendicular to
 the surface, forming an angle; and perhaps *ketziah* too comes from the verb,
 its plant having had to be cut. *Miktzoa* as corner appears in the Mishnah as
 well (*Tamid* 1:4, 3:3, *Middos* 2:5), and Onkelos renders it, like the rest,
-*zavit* (Shemos 26:23; see also Rashi to Nechemiah 3:19). Pappenheim: where
-*pinah* covers any angle, right, acute or obtuse, *miktzoa* is specifically the
-acute angle (he concedes it can sometimes be a right angle), a single sharp point
-where two sides converge rather than an area spread out; hence he reads the
-Mishnah's praise of monetary law as a *miktzoa baTorah* (*Bava Basra* 10:8) as
-the discipline that sharpens the mind and opens it to higher intellectuality,
-and he suggests too that the *ketziah* spice is so called because its plant has
-many sharp angles, thorns perhaps. Rabbi Yishmael ben Chachamon, who lived in
-Egypt in Rambam's time, notes in his commentary (*Bava Basra* 175b) that the
-Mishnah's *miktzoa* means "corner" just as it does in Tanach, which, Rabbi
-Klein observes, does not much clarify the usage; Rabbi Yitzchak Zev Yadler (1843
-to 1917) reads it as the cornerstone of Torah study, monetary law being rooted
-in logical structures, a keystone and wellspring from which all other chiddushim
-in learning may be drawn. In Modern Hebrew *miktzoa* means a profession or
-occupation, which seems altogether unrelated to the original sense.
+*zavit* (Shemos 26:23; see also Rashi to Nechemiah 3:19).
+- Pappenheim: where *pinah* covers any angle, right, acute or obtuse, *miktzoa*
+  is specifically the acute angle (he concedes it can sometimes be a right
+  angle), a single sharp point where two sides converge rather than an area
+  spread out; hence he reads the Mishnah's praise of monetary law as a *miktzoa
+  baTorah* (*Bava Basra* 10:8) as the discipline that sharpens the mind and
+  opens it to higher intellectuality, and he suggests too that the *ketziah*
+  spice is so called because its plant has many sharp angles, thorns perhaps.
+- Rabbi Yishmael ben Chachamon, who lived in Egypt in Rambam's time, notes in
+  his commentary (*Bava Basra* 175b) that the Mishnah's *miktzoa* means "corner"
+  just as it does in Tanach, which, Rabbi Klein observes, does not much clarify
+  the usage.
+- Rabbi Yitzchak Zev Yadler (1843 to 1917) reads it as the cornerstone of Torah
+  study, monetary law being rooted in logical structures, a keystone and
+  wellspring from which all other chiddushim in learning may be drawn.
+
+In Modern Hebrew *miktzoa* means a profession or occupation, which seems
+altogether unrelated to the original sense.
 
 ### katzeh (קצה)
 Root ק-צ-ה, "edge/end," and Onkelos renders this one *zavit* too (Shemos 38:5).

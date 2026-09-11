@@ -29,18 +29,20 @@ was like a *gad* seed, and that *gad* seeds are not white.
 ## Distinctions
 
 ### gad (גד)
-Targum Onkelos (to Shemos 16:31 and Bamidbar 11:7) leaves it untranslated,
-Aramaizing it as *gada*. Targum Yonasan (both places) renders *kusbar*,
-coriander. Menachem Ibn Saruk identifies *gad* as *kusbaras*, and Radak (*Sefer
-HaShorashim*) as what Chazal call *kusbarta*. Rabbi Shlomo Pappenheim reads the
-two-letter root ג-ד as attachment or connection, and gathers under it *gad* (a
-spiritual force attached to a particular thing), *gid* (a sinew, which holds parts
-of the body together), *gedud* (a squad joined into one unit), and *haggadah*
-(setting new information into a larger narrative); on the same logic *meged*
-(Devarim 33:13-14), *megadim* (Shir HaShirim 4:13), and *migdanos* (Bereishis
-24:53) are sweet foods, which the palate wants to attach itself to, and he
-suggests that perhaps the *gad* seed of the man is likewise a sort of sweet
-edible seed. Coriander seed is sometimes described as sweet.
+- Targum Onkelos (to Shemos 16:31 and Bamidbar 11:7) leaves it untranslated,
+  Aramaizing it as *gada*.
+- Targum Yonasan (both places) renders *kusbar*, coriander.
+- Menachem Ibn Saruk identifies *gad* as *kusbaras*, and Radak (*Sefer
+  HaShorashim*) as what Chazal call *kusbarta*.
+- Rabbi Shlomo Pappenheim reads the two-letter root ג-ד as attachment or
+  connection, and gathers under it *gad* (a spiritual force attached to a
+  particular thing), *gid* (a sinew, which holds parts of the body together),
+  *gedud* (a squad joined into one unit), and *haggadah* (setting new
+  information into a larger narrative); on the same logic *meged* (Devarim
+  33:13-14), *megadim* (Shir HaShirim 4:13), and *migdanos* (Bereishis 24:53)
+  are sweet foods, which the palate wants to attach itself to, and he suggests
+  that perhaps the *gad* seed of the man is likewise a sort of sweet edible
+  seed. Coriander seed is sometimes described as sweet.
 
 As an aside, coriander is known as *goid* in North African
 Punic, which led the German linguist Wilhelm Gesenius (1786-1842) to claim that

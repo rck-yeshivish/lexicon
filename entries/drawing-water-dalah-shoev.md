@@ -55,16 +55,17 @@ the water is already at hand, from a spring or surface pool: plain **draw**.
 
 ## Where the authorities disagree
 
-**How many roots.** The triliteralists (Ibn Chayyuj, Ibn Janach, Radak) trace
-*dalah* to ד-ל-ה and treat "draw water" and "lift up" as one meaning (the link,
-Rabbi Klein observes, is intuitive: to draw water from a well one must lift it
-up); *dal* they assign to a separate root,
-ד-ל-ל. Menachem Ibn Saruk works from the biliteral ד-ל and files three separate
-derivatives under it: *dalah* (draw water), *dalah* (lift up), and *dal* (poor).
-He leaves *daliyot* unaccounted for. Rabbi Shlomo Pappenheim keeps the
-biliteral ד-ל but makes "draw water from a well" the primary sense and
-"lifting up" anything a borrowed sense of it, and he does bring *daliyot* and the Rabbinic
-*dildul* (dangling) under it.
+**How many roots.**
+- The triliteralists (Ibn Chayyuj, Ibn Janach, Radak) trace *dalah* to ד-ל-ה and
+  treat "draw water" and "lift up" as one meaning (the link, Rabbi Klein
+  observes, is intuitive: to draw water from a well one must lift it up); *dal*
+  they assign to a separate root, ד-ל-ל.
+- Menachem Ibn Saruk works from the biliteral ד-ל and files three separate
+  derivatives under it: *dalah* (draw water), *dalah* (lift up), and *dal*
+  (poor). He leaves *daliyot* unaccounted for.
+- Rabbi Shlomo Pappenheim keeps the biliteral ד-ל but makes "draw water from a
+  well" the primary sense and "lifting up" anything a borrowed sense of it, and
+  he does bring *daliyot* and the Rabbinic *dildul* (dangling) under it.
 
 **Whether dal belongs here at all.** Rabbi Moshe Tedeschi Ashkenazi (*Hoil
 Moshe*) implicitly disagrees with Menachem's classing *dal* under ד-ל, holding

@@ -29,38 +29,44 @@ The Yerushalmi (Taanis 3:3), *Midrash Tehillim* 135 and *Bereishis Rabbah*
 market.
 
 ### anan (ענן)
-The unmarked term: *anan* and its forms
-come close to a hundred times in Tanach, seventeen of them in Behaaloscha, more
-than in any other parashah. Chazal: clouds are *ananim* because the rain they bring makes
-people *anavim*, humble with one another, since in a surplus people tend to deal fairly
-where scarcity makes them compete; alternatively because it makes them *aniyim*,
-poor, in the sense that uneven rainfall leaves everyone dependent on barter and
-nobody self-sufficient. Rabbi Shlomo Pappenheim: the root is the single letter
-ayin, denoting movement, the cloud being what the wind sets moving. *Sefer
-HaChochmah* (printed with *Peirush HaRokeach*) instead makes *ananim* the clouds
-that block sunlight.
+The unmarked term: *anan* and its forms come close to a hundred times in Tanach,
+seventeen of them in Behaaloscha, more than in any other parashah.
+- Chazal: clouds are *ananim* because the rain they bring makes people *anavim*,
+  humble with one another, since in a surplus people tend to deal fairly where
+  scarcity makes them compete; alternatively because it makes them *aniyim*,
+  poor, in the sense that uneven rainfall leaves everyone dependent on barter
+  and nobody self-sufficient.
+- Rabbi Shlomo Pappenheim: the root is the single letter ayin, denoting
+  movement, the cloud being what the wind sets moving.
+- *Sefer HaChochmah* (printed with *Peirush HaRokeach*) instead makes *ananim*
+  the clouds that block sunlight.
 
 ### av (עב)
-Shemos 19:9, Shoftim 5:4, Shmuel II 22:12. Chazal: from *me'avev*, because a
-heavy cloud darkens the sky or the land by blocking the sun. Pappenheim: the
-root ע-ב is "especially thick" (see Rashi to Taanis 6b), a cloud dense with
-water; the English "thick clouds" runs parallel. *Sefer HaChochmah*: thick and
-full of water. For how *arafel* stands to *avim*, see Rashi to Shemos 19:9 and
-20:18.
+Shemos 19:9, Shoftim 5:4, Shmuel II 22:12.
+- Chazal: from *me'avev*, because a heavy cloud darkens the sky or the land by
+  blocking the sun.
+- Pappenheim: the root ע-ב is "especially thick" (see Rashi to Taanis 6b), a
+  cloud dense with water; the English "thick clouds" runs parallel.
+- *Sefer HaChochmah*: thick and full of water.
+
+For how *arafel* stands to *avim*, see Rashi to Shemos 19:9 and 20:18.
 
 ### eid (אד)
-Bereishis 2:6. Chazal read it through the two senses of א-ד, "breaking" (Targum
-to Devarim 32:35) and "festival" (Avodah Zarah 1:1): clouds break the holiday of
-the price-gouger, since rain means produce, produce means supply, and supply
-brings prices down. Pappenheim: the root is the single letter dalet, extraction
-and separation, so *eid* is water drawn up out of a larger body. This fits
-Rabbeinu Bachya, who takes *eid* as water vapor, and it is what the word plainly
-means in Rabbinic and Modern Hebrew. Ibn Ezra: a smoky cloud. *Sefer
-HaChochmah*: the cloud that comes with thunder. *Midrash Lekach Tov* (*Pesikta
-Zutrasa*) links *eid* to *nod*, a flask, clouds carrying water as a flask does;
-Pappenheim does not make that link, though he does derive *nod* from dalet by
-way of נ-ד, *nadud*, being separated from home, *nod* being the gear one takes
-along.
+Bereishis 2:6.
+- Chazal read it through the two senses of א-ד, "breaking" (Targum to Devarim
+  32:35) and "festival" (Avodah Zarah 1:1): clouds break the holiday of the
+  price-gouger, since rain means produce, produce means supply, and supply
+  brings prices down.
+- Pappenheim: the root is the single letter dalet, extraction and separation, so
+  *eid* is water drawn up out of a larger body. This fits Rabbeinu Bachya, who
+  takes *eid* as water vapor, and it is what the word plainly means in Rabbinic
+  and Modern Hebrew.
+- Ibn Ezra: a smoky cloud.
+- *Sefer HaChochmah*: the cloud that comes with thunder.
+- *Midrash Lekach Tov* (*Pesikta Zutrasa*) links *eid* to *nod*, a flask, clouds
+  carrying water as a flask does; Pappenheim does not make that link, though he
+  does derive *nod* from dalet by way of נ-ד, *nadud*, being separated from
+  home, *nod* being the gear one takes along.
 
 ### nasi (נשיא)
 Literally "prince." Chazal: clouds play a sort of kingmaker, since whose field
@@ -71,14 +77,17 @@ carry rainwater from place to place, or because they are light enough to rise,
 as against heavy clouds that tend to come down like fog.
 
 ### chaziz (חזיז)
-Iyov 28:26, Zechariah 10:1. Chazal: from *chazon* and *chezyonos*, sight, since
-the flora that grow from the rain might be colored differently; others, because Hashem
-sends such clouds as signs in Heaven for man to read. Pappenheim: the root ח-ז is
-comprehension through sight or imagination, and *chazizim* are specifically the
-clouds that come with thunder, tied to sight because they flash lightning.
-*Sefer HaChochmah*: colorful clouds, at which Rabbi Klein registers open
-surprise. The Zohar draws the parallel between rain,
-a physical Divine influx, and nevuah, a spiritual one.
+Iyov 28:26, Zechariah 10:1.
+- Chazal: from *chazon* and *chezyonos*, sight, since the flora that grow from
+  the rain might be colored differently; others, because Hashem sends such
+  clouds as signs in Heaven for man to read.
+- Pappenheim: the root ח-ז is comprehension through sight or imagination, and
+  *chazizim* are specifically the clouds that come with thunder, tied to sight
+  because they flash lightning.
+- *Sefer HaChochmah*: colorful clouds, at which Rabbi Klein registers open
+  surprise.
+- The Zohar draws the parallel between rain, a physical Divine influx, and
+  nevuah, a spiritual one.
 
 ### the three beyond the five
 Rabbi Shlomo of Urbino, a sixteenth-century Italian scholar, writes in *Ohel

@@ -101,16 +101,18 @@ them what to answer Babylonian pressure to serve idols.
 
 ### cheled (חלד) and chedel (חדל)
 *Cheled* (Tehillim 49:2) and *chedel* (Yeshayahu 38:11) seem to be metathesized
-forms of one word (see Ibn Ezra to Tehillim 39:6). Radak (*Sefer
-HaShorashim*) makes both roots synonyms of *zman*, time, presumably
-because the word bears on the ephemeral, temporary nature of This World and
-those who live in it. Yerushalmi Shabbos 14:1: "dwellers of *cheled*" likens
-people to the weasel, *chuldah*, which drags food from place to place and leaves
-it without knowing whom it will feed, as a man leaves things behind without
-knowing who will enjoy them (compare Taanis 23a). Rabbi David Chaim Chelouche:
-CHET-LAMED, beginning, with LAMED-DALET, birth, since a man knows the day of his
-birth and not of his death. Rav Hirsch (to Bereishis 11:8, Tehillim 17:14) ties
-in *chadal*, to cease, and *chaludah*, rust: metal wears out, and so does a man.
+forms of one word (see Ibn Ezra to Tehillim 39:6).
+- Radak (*Sefer HaShorashim*) makes both roots synonyms of *zman*, time,
+  presumably because the word bears on the ephemeral, temporary nature of This
+  World and those who live in it.
+- Yerushalmi Shabbos 14:1: "dwellers of *cheled*" likens people to the weasel,
+  *chuldah*, which drags food from place to place and leaves it without knowing
+  whom it will feed, as a man leaves things behind without knowing who will
+  enjoy them (compare Taanis 23a).
+- Rabbi David Chaim Chelouche: CHET-LAMED, beginning, with LAMED-DALET, birth,
+  since a man knows the day of his birth and not of his death.
+- Rav Hirsch (to Bereishis 11:8, Tehillim 17:14) ties in *chadal*, to cease, and
+  *chaludah*, rust: metal wears out, and so does a man.
 
 ### charavah (חרבה) and yabashah (יבשה)
 Avos d'Rabbi Nasan (version 2): both mean dry land, the earth being so called for

@@ -55,21 +55,23 @@ in Shir HaShirim 2:3 Rabbeinu Tam reads it as a citron (whether there alone or g
 
 ## Where the authorities disagree
 
-**How hadar comes to mean the citron.** Chazal (Sukkah 35a, Yerushalmi Sukkah
-3:5, Sifra to Vayikra 23:40) give four routes: *hadar* modifies fruit and tree
-alike, so the fruit must taste like its wood, as the citron's somehow does; *hadar*
-from *dir*, a corral, since a corral holds animals of every size and the citron
-tree often carries blossoms and full-grown fruit at once; *ha-dar*, "the one that
-dwells," the citron staying on its tree from year to year; and *hadar* from the
-Greek for water, the citron needing much watering. The Midrash (*Vayikra Rabbah*
-30:15, *Tanchuma Emor* 20) relates that Shlomo HaMelech, for all his wisdom,
-could not explain how *pri eitz hadar* means the citron except by appealing to
-the tradition handed down through the Sages. Against taking any of these
-as the source of the law, Ibn Ezra (to Vayikra 23:40) and the Rambam
-(introduction to his Commentary on the Mishnah): the identification is an
-undisputed Mosaic tradition, and the derashos are exegetical allusions that do
-not operate on the plain level; both add that the citron is in fact the most beautiful of fruits
-(Rambam, *Moreh Nevuchim* 3:43), so the title suits it.
+**How hadar comes to mean the citron.**
+- Chazal (Sukkah 35a, Yerushalmi Sukkah 3:5, Sifra to Vayikra 23:40) give four
+  routes: *hadar* modifies fruit and tree alike, so the fruit must taste like
+  its wood, as the citron's somehow does; *hadar* from *dir*, a corral, since a
+  corral holds animals of every size and the citron tree often carries blossoms
+  and full-grown fruit at once; *ha-dar*, "the one that dwells," the citron
+  staying on its tree from year to year; and *hadar* from the Greek for water,
+  the citron needing much watering.
+- The Midrash (*Vayikra Rabbah* 30:15, *Tanchuma Emor* 20) relates that Shlomo
+  HaMelech, for all his wisdom, could not explain how *pri eitz hadar* means the
+  citron except by appealing to the tradition handed down through the Sages.
+- Against taking any of these as the source of the law, Ibn Ezra (to Vayikra
+  23:40) and the Rambam (introduction to his Commentary on the Mishnah): the
+  identification is an undisputed Mosaic tradition, and the derashos are
+  exegetical allusions that do not operate on the plain level; both add that the
+  citron is in fact the most beautiful of fruits (Rambam, *Moreh Nevuchim*
+  3:43), so the title suits it.
 
 **Whether hadar and esrog are the same word in two languages.** The groundwork
 is the Raavyah's, on the kesubah formula in which a groom writes that his bride

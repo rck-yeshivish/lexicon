@@ -132,41 +132,49 @@ for a young donkey, though in Modern Hebrew *sayach* means a young horse, a
 colt.
 
 ### pered (פרד) and yeimim (ימים)
-*Pered* is the mule, feminine *pirdah*; root פ-ר-ד, separating. Rav Hai Gaon,
-cited by Radak in *Sefer HaShorashim*: the mule is separated from other animals
-by being unable to reproduce. Rabbi Yehoshua Steinberg compares it to its human
-counterpart the *mamzer*, whose name is tied to *zar*, often kept outside on account
-of his parentage; on his reading the *pered*, by dint of its tainted, intermixed
-lineage, may have been seen as something separate from other animals, a kind
-of pariah. Rabbi Reuven Chaim Klein proposes an alternative of his own from the Mishnah's
-ruling that a *pered* may not be mated with a horse or a donkey (Kilayim 1:6),
-which is the novel case, horse-and-donkey needing no statement: the root may
-cover not only separating but its opposite, joining together what ought to stay
-separate, which would fit the *pered*'s parentage. The resemblance between
-*pered* and the German and Yiddish *pferd*, "horse," gives rise to a common
-misconception of borrowing in one direction or the other; linguists trace the German word to the Proto-Indo-European root *reidh-*,
-"to ride," by way of the Latinate *paraveredus*, "a courier's horse."
+*Pered* is the mule, feminine *pirdah*; root פ-ר-ד, separating.
+- Rav Hai Gaon, cited by Radak in *Sefer HaShorashim*: the mule is separated
+  from other animals by being unable to reproduce.
+- Rabbi Yehoshua Steinberg compares it to its human counterpart the *mamzer*,
+  whose name is tied to *zar*, often kept outside on account of his parentage;
+  on his reading the *pered*, by dint of its tainted, intermixed lineage, may
+  have been seen as something separate from other animals, a kind of pariah.
+- Rabbi Reuven Chaim Klein proposes an alternative of his own from the Mishnah's
+  ruling that a *pered* may not be mated with a horse or a donkey (Kilayim 1:6),
+  which is the novel case, horse-and-donkey needing no statement: the root may
+  cover not only separating but its opposite, joining together what ought to
+  stay separate, which would fit the *pered*'s parentage.
+
+The resemblance between *pered* and the German and Yiddish *pferd*, "horse,"
+gives rise to a common misconception of borrowing in one direction or the other;
+linguists trace the German word to the Proto-Indo-European root *reidh-*, "to
+ride," by way of the Latinate *paraveredus*, "a courier's horse."
 
 *Yeimim* is a *hapax*: Anah found the *yeimim* in the desert while pasturing his
-father Tzivon's donkeys (Bereishis 36:24). Rashi: he discovered, or invented,
-mules by mating a male donkey with a mare, which is pointed because Anah was
-himself a *mamzer*, born of the incestuous union of Tzivon and Tzivon's own
-mother. The Yerushalmi (Berachos 8:5) cites a slightly different version of the
-tradition, in which the *yeimim* were born of a male horse and a female donkey.
-According to Al-HaTorah, the comment in Rashi giving a donkey father and a horse
-mother does not appear in all manuscript versions of Rashi; Rabbi Reuven Chaim
-Klein finds that this makes sense, since it is the converse of the Yerushalmi. Shadal (to
-Bereishis 36:24) alludes to Rashi's explanation and rejects it because he sees
-no difference between *yeimim* and its apparent synonym *pered*, and follows the
-Yerushalmi, so that *pered* is a mule and *yeimim* are hinnies. Targum Onkelos
-renders *yeimim* as giants, and Ibn Ezra follows, noting that Onkelos calls the
-Eimim people giants too (Devarim 2:10-11). On the name: Rashi (to Bereishis
-36:24), following Chullin 7b, connects it to *eimah*, fear, although the word
-has no *aleph*, because the *yeimim* were dangerous animals people feared;
-Pappenheim similarly ties it to the biliterals י-ם and ה-ם, which he defines as
-wildness or chaos; and Rabbi Yehuda ben Simon in the Yerushalmi reads it as
-Greek, a form of *hemionos*, from *hemi-*, half, and *onos*, donkey, which gives
-etymological backing to the tradition that Anah discovered the mule.
+father Tzivon's donkeys (Bereishis 36:24).
+- Rashi: he discovered, or invented, mules by mating a male donkey with a mare,
+  which is pointed because Anah was himself a *mamzer*, born of the incestuous
+  union of Tzivon and Tzivon's own mother.
+- The Yerushalmi (Berachos 8:5) cites a slightly different version of the
+  tradition, in which the *yeimim* were born of a male horse and a female
+  donkey. According to Al-HaTorah, the comment in Rashi giving a donkey father
+  and a horse mother does not appear in all manuscript versions of Rashi; Rabbi
+  Reuven Chaim Klein finds that this makes sense, since it is the converse of
+  the Yerushalmi.
+- Shadal (to Bereishis 36:24) alludes to Rashi's explanation and rejects it
+  because he sees no difference between *yeimim* and its apparent synonym
+  *pered*, and follows the Yerushalmi, so that *pered* is a mule and *yeimim*
+  are hinnies.
+- Targum Onkelos renders *yeimim* as giants, and Ibn Ezra follows, noting that
+  Onkelos calls the Eimim people giants too (Devarim 2:10-11).
+
+On the name: Rashi (to Bereishis 36:24), following Chullin 7b, connects it to
+*eimah*, fear, although the word has no *aleph*, because the *yeimim* were
+dangerous animals people feared; Pappenheim similarly ties it to the biliterals
+י-ם and ה-ם, which he defines as wildness or chaos; and Rabbi Yehuda ben Simon
+in the Yerushalmi reads it as Greek, a form of *hemionos*, from *hemi-*, half,
+and *onos*, donkey, which gives etymological backing to the tradition that Anah
+discovered the mule.
 
 ## Rendering guidance
 

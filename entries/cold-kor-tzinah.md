@@ -40,21 +40,23 @@ season regularly reaches that pitch but because that is when real *kor* is
 likeliest.
 
 ### tzinah (צנה)
-In this sense the word seems to appear only once: "like the *tzinas sheleg* on a harvest
-day, so is a trusty messenger to those who send him" (Mishlei 25:13). Rashi:
-the longing in harvest heat for the cold of the snow season. Rabbi Yosef
-Kimchi: a cool winter breeze blowing on a summer day. Ibn Ezra and Rabbi
-Yishaya of Trani: the point of the mashal is that a touch of icy cold on a
-summer day gives the same relief as being able to rely on one's agent.
+In this sense the word seems to appear only once: "like the *tzinas sheleg* on a
+harvest day, so is a trusty messenger to those who send him" (Mishlei 25:13).
+- Rashi: the longing in harvest heat for the cold of the snow season.
+- Rabbi Yosef Kimchi: a cool winter breeze blowing on a summer day.
+- Ibn Ezra and Rabbi Yishaya of Trani: the point of the mashal is that a touch
+  of icy cold on a summer day gives the same relief as being able to rely on
+  one's agent.
 
 The word's other sense is "shield," and the two are linked in both directions.
-Rabbi Moshe Kimchi (in the Mishlei commentary mistakenly attributed to Ibn
-Ezra) suggests that
-cold is called *tzinah* because it shields from the summer heat. Abarbanel
-(Amos 4:2) runs it the reverse way, that a shield guards from the heat of
-battle. *Shoresh Yesha* links both to *tzanua* and *tzenius*: as the modest
-person keeps to himself, winter is the season of withdrawing indoors, and a
-shield likewise covers and conceals.
+- Rabbi Moshe Kimchi (in the Mishlei commentary mistakenly attributed to Ibn
+  Ezra) suggests that cold is called *tzinah* because it shields from the summer
+  heat.
+- Abarbanel (Amos 4:2) runs it the reverse way, that a shield guards from the
+  heat of battle.
+- *Shoresh Yesha* links both to *tzanua* and *tzenius*: as the modest person
+  keeps to himself, winter is the season of withdrawing indoors, and a shield
+  likewise covers and conceals.
 
 Rabbi Shlomo Pappenheim traces *tzinah* to the biliteral צ-נ, whose core sense
 is a thorn. The *tzinah* shield is the spiked kind, used to strike as well as

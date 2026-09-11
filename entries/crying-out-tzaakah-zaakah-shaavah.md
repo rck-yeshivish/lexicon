@@ -74,19 +74,20 @@ the prisoner and the deathly ill man with *zaakah*.
   danger instead, which cuts against that.
 
 ### shaavah (שועה)
-Rabbi Yehuda Leib Shapira-Frankfurter, Rav Hirsch's great-uncle: *zaakah* and
-*tzaakah* may be directed at a fellow man, but *shaavah* applies only to one who
-pleads with Hashem. Rabbi
-Pappenheim ties it to *yeshuah*, on the shared root ש-ו-ע: it is a call made in
-the expectation that it will bring the caller's rescue. Rabbi Yaakov Tzvi
-Mecklenburg accepts that all three are cries made in hope of deliverance and
-puts the difference in what is actually said: with *zaakah* and *tzaakah* the
-sufferer puts his suffering into words but does not ask (a poor man calling out
-that he has not eaten in days), while with *shaavah* he says plainly what he
-wants (the same man saying, give me something to eat). The Zohar agrees that
-*tzaakah* and *zaakah* are the less explicit, but frames it differently: they
-are the silent cry of pain and *shaavah* is spoken tefillah, and one view there
-makes the wordless cry of the heart the greater plea of the two.
+- Rabbi Yehuda Leib Shapira-Frankfurter, Rav Hirsch's great-uncle: *zaakah* and
+  *tzaakah* may be directed at a fellow man, but *shaavah* applies only to one
+  who pleads with Hashem.
+- Rabbi Pappenheim ties it to *yeshuah*, on the shared root ש-ו-ע: it is a call
+  made in the expectation that it will bring the caller's rescue.
+- Rabbi Yaakov Tzvi Mecklenburg accepts that all three are cries made in hope of
+  deliverance and puts the difference in what is actually said: with *zaakah*
+  and *tzaakah* the sufferer puts his suffering into words but does not ask (a
+  poor man calling out that he has not eaten in days), while with *shaavah* he
+  says plainly what he wants (the same man saying, give me something to eat).
+- The Zohar agrees that *tzaakah* and *zaakah* are the less explicit, but frames
+  it differently: they are the silent cry of pain and *shaavah* is spoken
+  tefillah, and one view there makes the wordless cry of the heart the greater
+  plea of the two.
 
 ## Rendering guidance
 
