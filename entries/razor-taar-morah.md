@@ -77,8 +77,8 @@ holds like Rabbi Nehorai, that Shmuel was a *nazir*, and so keeps "razor."
   harmless, but not where *Vayikra Rabbah* 10:5 is being darshened. There the
   derashah runs on the sound of *morah* as fear, and the English must hold both:
   "the razor, the *morah*, of which the hair alone is afraid."
-- Do not manufacture a distinction between the two words in a footnote. The
-  column looked and found none, and could not account for why the Torah says
+- Do not manufacture a distinction between the two words in a footnote. Rabbi
+  Klein looked and found none, and could not account for why the Torah says
   *taar* and the Neviim say *morah*.
 
 ## Notes for a project

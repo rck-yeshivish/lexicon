@@ -13,11 +13,11 @@ words:
   - he: שני
     tr: shani
     en: crimson
-    distinct: the worm-dyed wool of the Mishkan and the taharah rites, a deep red with a blue or purple cast (Rabbi Saadia Gaon, Ibn Ezra, Radak, Meiri)
+    distinct: the worm-dyed wool of the Mishkan and the taharah rites; crimson (Rabbi Saadia Gaon, Ibn Ezra, Radak, Meiri), a deep red with a slight bluish or purplish undertone
   - he: חמוץ
     tr: chamutz
     en: red-stained
-    distinct: hapax at Yeshayahu 63:1, the red of garments stained with blood or wine (Menachem Ibn Saruk, Ibn Janach, Radak); seemingly unconnected to the root of "leavened", which is why Rabbi Moshe Tedeschi-Ashkenazi reads it as a metathesis of מ-ח-ץ, "smite"
+    distinct: hapax at Yeshayahu 63:1, the red of garments stained with blood or wine (Menachem Ibn Saruk, Ibn Janach, Radak); seemingly unconnected to the root of "leavened", probably why Rabbi Moshe Tedeschi-Ashkenazi reads it as a metathesis of מ-ח-ץ, "smite"
   - he: אמוץ
     tr: amutz
     en: chestnut, burgundy

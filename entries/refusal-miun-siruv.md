@@ -134,9 +134,9 @@ satellite.
 
 ## Rendering guidance
 
-- Default both to "refuse." This follows the column's first approach, on which
+- Default both to "refuse." This follows Rabbi Klein's first approach, on which
   they are the same act in two languages, and is not a ruling against Rabbi
-  Dienna, whom the column leaves standing.
+  Dienna, whom Rabbi Klein leaves standing.
 - Where a source is arguing the difference (Rabbi Yaakov Dienna on Shemos 22:16
   and Bamidbar 22:13), render *mi'un* "declined" and *siruv* "flatly refused"
   or "rejected outright," and say which word is which.
@@ -148,8 +148,8 @@ satellite.
   bare "refusal" for either is a mistranslation, not a simplification.
 - *Sarvan* in *Berachos* 5:3 is "one who declines," and needs the Rambam and
   Bartenura's point in a note, that declining is right in the ordinary case and
-  wrong in this one. The column itself glosses *sarvan* as "refusenik," but
-  that is the column's English and, in our judgment, too modern a register.
+  wrong in this one. Rabbi Klein himself glosses *sarvan* as "refusenik," but
+  that is too modern a register.
 - Bamidbar 22:13, *me'en Hashem*: "Hashem has refused to allow me," and if the
   Targum's phrasing is under discussion, quote it as "there is no will before
   Hashem," which is the whole point of the question.

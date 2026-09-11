@@ -9,7 +9,7 @@ words:
   - he: משכן
     tr: Mishkan
     en: Mishkan, Tabernacle
-    distinct: the portable, temporary Sanctuary of the wilderness and of Gilgal, Shiloh, Nov and Givon; from le'shaken and Shechinah, Hashem's dwelling, and built of curtains and cloth
+    distinct: generally the portable, temporary Sanctuary of the wilderness and of Gilgal, Shiloh, Nov and Givon; from le'shaken and Shechinah, Hashem's dwelling, and built of curtains and cloth
   - he: מקדש
     tr: Mikdash
     en: Beis HaMikdash, Temple

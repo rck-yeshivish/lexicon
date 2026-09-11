@@ -9,11 +9,11 @@ words:
   - he: שבע
     tr: sheva
     en: seven
-    distinct: not always the number; Rasag renders it "many" where the count is not meant (Bereishis 4:24, Mishlei 24:16), and Ibn Ezra and Ralbag agree there
+    distinct: not always the number; Rasag renders it "many" where the count is not meant (Bereishis 4:24, Mishlei 24:16), and Ibn Ezra and Ralbag read Mishlei 24:16 the same way
   - he: שביעית
     tr: sheviis
     en: the seventh year
-    distinct: the ordinal, "the seventh one," and the Mishnah's regular name for the Sabbatical year (Shemos 23:11, Vayikra 25:4)
+    distinct: the ordinal, "the seventh one," already Biblical for the Sabbatical year (Shemos 23:11, Vayikra 25:4) and the Mishnah's regular name for it
   - he: שבוע
     tr: shavua
     en: week, seven-year cycle
@@ -22,16 +22,16 @@ words:
     tr: shabbos
     en: Shabbos, week, Sabbatical year
     nk: שַׁבָּת
-    distinct: a synecdoche, the day and the whole week it closes (Ramban to Vayikra 23); Mecklenburg denies it ever means week and reads it as cessation
+    distinct: a synecdoche, the day and the whole week it closes (Ramban to Vayikra 23); Mecklenburg denies it means week anywhere else in Tanach and reads it there as cessation
   - he: שבועה
     tr: shevuah
     en: oath
     nk: שְׁבוּעָה
-    distinct: the oath binds the swearer under Hashem, "the Seventh One" (Ibn Ezra, on Sefer Yetzirah 4:2), or delivers him into Hashem's hand (Rav Hirsch)
+    distinct: the oath ties the claim to Hashem, "the Seventh One" (Ibn Ezra, building on Sefer Yetzirah 4:2), or delivers the swearer into Hashem's hand (Rav Hirsch)
   - he: שבויה
     tr: shevuyah
     en: captive
-    distinct: held in a closed system with no freedom of movement, which is the same picture as the sworn man and the recurring week (Mecklenburg, Pappenheim, Rav Hirsch)
+    distinct: bound, with no freedom of movement, like the sworn man (Mecklenburg, Pappenheim, Rav Hirsch); for Mecklenburg, caught in a closed system that keeps returning to its start, like the recurring week
 sources:
   - wiaw:9694 "The Year of Seven (Part 2 of 2)" (2022-05-21) https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2
 authorities: [Ibn Ezra, Ramban, Rashi, Rasag, Ralbag, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Sefer HaChinuch, Rabbi Moshe Elyakim Briah Hopstein, Rabbi Alter HaLevi Hilowitz, Rabbi Moshe Zuriel, Rabbi Yitzchok Avigdor Lubchansky, Shelah, Brown-Driver-Briggs]
@@ -57,7 +57,7 @@ part on why. *Sheva* is not "seven" where the sources read it as
 | שבע | sheva | seven, many | non-numeric in places: "much," "more and more" (Rasag) |
 | שביעית | sheviis | the seventh year | the ordinal of *sheva*; already Biblical for the Sabbatical year |
 | שבוע | shavua | week, seven-year cycle | any seven-day period, not the calendar week (Mecklenburg); seemingly seven years in Daniel |
-| שבת | shabbos | Shabbos, week, Sabbatical year | part standing for whole (Ramban); for Mecklenburg the sense is cessation, never "week" |
+| שבת | shabbos | Shabbos, week, Sabbatical year | part standing for whole (Ramban); for Mecklenburg, in Vayikra 23 the sense is cessation, not "week" |
 | שבועה | shevuah | oath | ties the claim to Hashem's existence (Ibn Ezra) or places the swearer under His control (Rav Hirsch); strengthened by sevenfold repetition (*Sefer HaChinuch* 330) |
 | שבויה | shevuyah | captive | the picture behind both the cycle and the oath: no freedom to move |
 

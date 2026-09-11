@@ -87,17 +87,15 @@ the difference between them?
   rescue by force. When *geulah* is contrasted with *pidyon*, let the English
   show the lift (Chatam Sofer): "not merely rescued but redeemed."
 - גואל as the kinsman (*goel hadam*, the *goel* of Rus): "redeemer" keeps the
-  kinship sense the column reads into the word, following Malbim's closeness
-  principle; do not write "avenger" alone. (The *goel* of Rus is our example;
-  the column cites only *goel hadam*.)
+  kinship sense that Malbim's closeness principle reads into the word; do not
+  write "avenger" alone.
 - Trap: English "redemption" absorbs both words. In a passage that names them
   together (the Vilna Gaon's two redemptions of Pesach night, or a derashah on
   why one pasuk says *podeh* and another *goel*), keep both Hebrew words
   visible and render *pidyon* as "ransom/exchange" and *geulah* as
   "redemption."
 - The Aramaic *purkan* belongs to this field as well; see the salvation entry
-  ([salvation](salvation-yeshuah-teshuah-hatzalah-purkan.html)) for that cluster. The
-  column does not discuss *purkan*, so nothing here is a ruling on it.
+  ([salvation](salvation-yeshuah-teshuah-hatzalah-purkan.html)) for that cluster.
 
 ## Notes for a project
 

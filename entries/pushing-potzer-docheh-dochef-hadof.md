@@ -13,11 +13,11 @@ words:
   - he: דוחה
     tr: docheh
     en: pushes away, sets aside
-    distinct: pushing a thing out of its place, hence nidach (a refugee), hadachah (rinsing away filth), and halachically one law overriding another (Rabbi Shlomo Pappenheim)
+    distinct: pushing a thing out of its place, hence for Rabbi Shlomo Pappenheim nidach (a refugee) and hadachah (rinsing away filth); halachically, one law overriding another
   - he: דוחף
     tr: dochef
     en: hurries, presses on
-    distinct: pushed into doing something faster than planned; all five occurrences carry urgency (Esther 3:15, 8:14, 6:12)
+    distinct: pushed into doing something faster than planned; five occurrences, usually urgent (Esther 3:15, 8:14, 6:12)
   - he: הדף
     tr: hadof
     en: thrusts away, dislodges
@@ -50,7 +50,7 @@ all.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | פוצר | potzer | presses, urges | prodding until acquiescence (Rav Hirsch); physical shoving only on Mecklenburg's reading of Bereishis 19:9 |
-| דוחה | docheh | pushes away | removing from its place; the halachic "overrides" (Pappenheim) |
+| דוחה | docheh | pushes away | removing from its place (Pappenheim); the halachic "overrides" |
 | דוחף | dochef | hurries | urgency: moving faster than intended (Esther 3:15, 8:14) |
 | הדף | hadof | thrusts away | pushing away what is poorly anchored, hence easily (Pappenheim, Malbim) |
 | דופק | dofek | knocks, drives | a repeated beat; a knock, a drover's goad, a heartbeat (Ramban) |

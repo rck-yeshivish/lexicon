@@ -160,9 +160,9 @@ he does not need the aid of others to survive.
   *mikneh* is drawing a distinction, and "property and property" is no
   translation. Bereishis 13:6, the herdsmen's quarrel, has *rechush* in the wide
   sense: render "possessions."
-- *Nechasim* in a Mishnah or Gemara is "assets" or "estate," not "property"; the
-  column's point that it is the standard rabbinic term for a man's *total*
-  assets wants the financial word.
+- *Nechasim* in a Mishnah or Gemara is "assets" or "estate," not "property"; as
+  the standard rabbinic term for a man's *total* assets it wants the financial
+  word.
 - Where a derashah turns on *nechasim* and *kisui*, transliterate and gloss.
 
 ## Notes for a project

@@ -9,7 +9,7 @@ words:
   - he: חוט
     tr: chut
     en: thread, string
-    distinct: the single thread out of which a fabric is woven or a garment sewn, and the thinnest word in the set; for Rabbi Shlomo Pappenheim it is what repairs a deficiency (biliteral ח-ט, blemish), whence chayat, tailor, and machat, needle
+    distinct: the single thread out of which a fabric is woven or a garment sewn, and the thinnest word in the set, whence the Mishnaic chayat, tailor, and machat, needle; for Rabbi Shlomo Pappenheim it is what repairs a deficiency (biliteral ח-ט, blemish)
   - he: חבל
     tr: chevel
     en: rope
@@ -18,7 +18,7 @@ words:
   - he: כבל
     tr: kevel
     en: fetter
-    distinct: twice only, and both times an iron bond on a prisoner or a king (Tehillim 105:18, 149:8); the article's author proposes, as his own suggestion, that it is chevel with CHET and KAF interchanged
+    distinct: twice only, and both times an iron bond on a prisoner or a king (Tehillim 105:18, 149:8); it seems to Rabbi Reuven Chaim Klein that it is chevel with CHET and KAF interchanged
   - he: אטון
     tr: eitun
     en: cord of fine linen
@@ -30,7 +30,7 @@ words:
   - he: מוסרה
     tr: moseirah
     en: bond, shackle
-    distinct: the rope that restrains, always in the idiom of loosing it; from ס-ר, removal, since the captive's freedom of movement has been removed (Rabbi Shlomo Pappenheim)
+    distinct: the rope that restrains, found in the idiom of loosing it; from ס-ר, removal, since the captive's freedom of movement has been removed (Rabbi Shlomo Pappenheim)
   - he: עבות
     tr: avot
     en: thick rope, cable

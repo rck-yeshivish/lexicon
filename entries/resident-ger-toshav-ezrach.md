@@ -159,8 +159,6 @@ apply to both alike, both of them living within the established community
   *zar*, and hold the assignment through a passage.
 - Halachic *ger* (a convert) stays transliterated; do not render it "stranger"
   or "proselyte." *Ger tzedek* and *ger toshav* stay transliterated as units.
-  (The column itself glosses *ger tzedek* as "proselyte"; the objection to that
-  word is ours.)
 - *Ezrach* in a pasuk about mitzvos binding *ha'ezrach v'hager* is "the
   native-born," not "the citizen"; "citizen" is the modern Hebrew sense and
   reads civic rather than familial.

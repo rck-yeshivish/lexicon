@@ -13,7 +13,7 @@ words:
   - he: מופת
     tr: mofet
     en: wonder, portent
-    distinct: the narrower word, a sign that bends nature, from muflat/niflah/pele with the lamed dropped (Ramban); every mofet is an oht but not every oht a mofet (Malbim)
+    distinct: the narrower word; for Ramban a sign that bends nature, from muflat/niflah/pele with the lamed dropped, though Abarbanel holds it a natural sign; every mofet is an oht but not every oht a mofet (Malbim)
   - he: עד
     tr: eid
     en: witness, testimony

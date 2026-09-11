@@ -111,7 +111,7 @@ together.
   the point being made.
 - Trap: do not turn the *navi*/*roeh* difference into a grading. Malbim's account
   is one of function and of the generation being served. The grading of clarity
-  in the column is the Vilna Gaon's, and it runs between *roeh* and *chozeh*,
+  is the Vilna Gaon's, and it runs between *roeh* and *chozeh*,
   not between *navi* and *roeh*.
 
 ## Notes for a project

@@ -151,9 +151,9 @@ name of their father's family.
 
 - *Zachor* in the six mitzvos of remembrance: **remember**, plain.
 - *Pakad* of Hashem toward a person: **took note of**, or **remembered** with
-  the consequence named, since in the column's examples the pasuk supplies one
+  the consequence named, since in the cases cited the pasuk supplies one
   (Sarah conceives, the redemption begins). "Visited" is the old rendering and
-  reads archaic; the judgment against it is ours.
+  reads archaic.
 - *Pakad* in a census or a list: **counted**, **mustered**; *nifkad*:
   **missing**, not "unremembered."
 - Trap: English "remember" will absorb both words. In a passage that contrasts
@@ -161,11 +161,9 @@ name of their father's family.
   distinction: *zachreinu* "remember us," *ufakdeinu* "and take account of us."
 - *Zecher* is not automatically "memory." Check whether the pasuk wants
   **trace** or **scent** (Hoshea 14:8) before defaulting.
-- The column says that in all but one of the six commandments the Torah uses
-  *zachor*, without saying which is the exception. Checking the pesukim, the one
-  that does not is Devarim 4:9 (*hishamer lecha... pen tishkach*); Devarim 9:7
-  does use *zechor*, alongside *al tishkach*. That identification is ours, not
-  the column's.
+- Of the six commandments, the one that does not use *zachor* is Devarim 4:9
+  (*hishamer lecha... pen tishkach*); Devarim 9:7 does use *zechor*, alongside
+  *al tishkach*.
 
 ## Notes for a project
 

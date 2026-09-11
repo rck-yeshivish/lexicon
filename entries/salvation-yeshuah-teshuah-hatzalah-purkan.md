@@ -108,8 +108,8 @@ HaNissim* it is deliverance from financial ruin.
   *hatzalah* alike. In *Al HaNissim* (פורקן ... תשועה) or a derashah on why a
   pasuk says *vayoshi'a* rather than *vayatzel*, keep each Hebrew word its own
   English: purkan "redemption," teshuah "salvation," hatzalah "rescue."
-- When the three appear together, keep them apart by aspect, which is how the
-  column itself sums up: *purkan* is the redeeming aspect, as though Hashem
+- When the three appear together, keep them apart by aspect, which is how Rabbi
+  Klein himself sums up: *purkan* is the redeeming aspect, as though Hashem
   bought us back after proverbially selling us; *teshuah* is salvation as a
   response to our prayers for help; *hatzalah* is salvation as the separating of
   us from a dangerous position.

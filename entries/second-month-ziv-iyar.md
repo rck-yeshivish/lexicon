@@ -9,7 +9,7 @@ words:
   - he: זו
     tr: Ziv
     en: Ziv
-    distinct: the Biblical name of the second month, twice in Melachim I 6, spelled defective without a yud although the Aramaic word for radiance is always plene (Radak, Sefer HaShorashim)
+    distinct: the Biblical name of the second month, twice in Melachim I 6, spelled defective without a yud although the Aramaic word for radiance is always plene; Radak (Sefer HaShorashim) still gives the root as ז-י-ו
   - he: זיו
     tr: ziv
     en: radiance, splendor

@@ -102,22 +102,21 @@ diamond.
   "crag," *tzur* "flintrock" (or "hard rock"), *chalamish* "flint" or "hardest
   rock." Devarim 32 uses *tzur* repeatedly and *chalamish* once (32:13); a
   translation that says "rock" throughout makes the shirah unreadable as an
-  argument. (The column cites Devarim 32:4, 32:18 and 32:30 for *tzur* as a
-  divine epithet and gives no count of its occurrences.)
+  argument.
 - צור as a name of Hashem: capital **Rock**, as in "the Rock, His work is
   perfect" (Devarim 32:4). Do not lowercase it and do not substitute
-  "Stronghold" or "Refuge," which belong to other words. The column gives three
+  "Stronghold" or "Refuge," which belong to other words. There are three
   separate accounts of why Hashem is called *Tzur*, Rambam's source-sense, Rabbi
   Chaim Friedlander's foundation, and Rabbi Pappenheim's *tzorer*, and "Rock"
-  leaves room for all three; the preference for it is ours.
+  leaves room for all three.
 - צור הַחלמיש (Devarim 8:15, 32:13): "the flinty rock" or "rock of flint." Do
   not collapse the construct into one word; the pair is a superlative, the
   hardest sort of the hard sort.
 - Trap: *tzur* and *sela* in the same passage. Follow Malbim and let the English
   mark it: a *sela* can hold water, a *tzur* cannot, and per Rabbi Chaim Vital
   the *tzur* is the fire-stone. If both are "rock," the pesukim look like
-  repetition. (Applying this to the *sela* Moshe was told to speak to at
-  Bamidbar 20:8 is ours; the column does not cite that pasuk.)
+  repetition. (This applies to the *sela* Moshe was told to speak to at
+  Bamidbar 20:8.)
 - Where *tzur* means a quarry or lineage (Yeshayahu 51:1), render "source" or
   "the rock you were hewn from," and gloss it once; a bare "rock" hides Rambam's
   reading and with it the parallel to Avraham and Sarah in the next pasuk.

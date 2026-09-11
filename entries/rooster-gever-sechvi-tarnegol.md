@@ -14,7 +14,7 @@ words:
   - he: שכוי
     tr: sechvi
     en: rooster / heart
-    distinct: a hapax (Iyov 38:36); Chazal take it for a rooster in a foreign tongue and fix it in the morning berachah, while most mefarshim read it as the heart, or at least as also meaning heart, from socheh, to see
+    distinct: a hapax (Iyov 38:36); Chazal take it for a rooster in a foreign tongue and fix it in the morning berachah, while most mefarshim read it as the heart, or at least as also meaning heart; Rashi ties it to socheh, to see
   - he: זיז שדי
     tr: ziz sadai
     en: wild fowl
@@ -158,8 +158,7 @@ Tzippor, whose father's name means "bird" and who was himself a king.
   "rooster," and do not import the heart reading into the tefillah.
 - In Iyov 38:36 the pasuk pairs *tuchos* (the kidneys, or the inward parts) with
   *sechvi*. If you render *tuchos* internally, "heart" for *sechvi* keeps the
-  parallel; if you render "rooster," the parallel breaks, which is exactly the
-  reason most mefarshim went the other way.
+  parallel; if you render "rooster," the parallel breaks.
 - *Ziz sadai* is best left as a phrase with a gloss, "the wild creature of the
   field," rather than pinned to a species Tanach does not name.
 

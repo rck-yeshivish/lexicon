@@ -94,13 +94,13 @@ is the rock that *comes up* out of the ground.
   or a stone" reads as a distinction without a difference, and the halachah
   turns on there being two cases.
 - אבן: "stone," in every register, and especially opposite *leveinah*: "stone
-  and brick." (Bereishis 11:3, where the builders of Bavel had brick serve them
-  as stone, is our example; the column does not cite it.)
+  and brick," as at Bereishis 11:3, where the builders of Bavel had brick serve
+  them as stone.
 - סלע: "crag" or "rock" where it protrudes or is a height; "*sela*" transliterated
   where it is the coin, never "coin" alone, which loses why the coin has that
   name.
-- Trap: English "rock" will take *even*, *sela* and (in the companion article)
-  *tzur* and *chalamish* as well. Fix one English word per Hebrew word across a
+- Trap: English "rock" will take *even*, *sela*, *tzur* and *chalamish*
+  as well. Fix one English word per Hebrew word across a
   passage and hold to it, rather than choosing by what sounds well in each line.
 - אבני ברד (Yehoshua 10:11): "hailstones," but if the passage is discussing why
   hail is called stone, render "stones of hail" so the point survives.

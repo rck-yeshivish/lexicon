@@ -9,7 +9,7 @@ words:
   - he: שושנה
     tr: shoshanah
     en: rose
-    distinct: the flower of Shir HaShirim, with reason to think it reddish (lips, Shir HaShirim 5:13); six petals on the tradition Ibn Ezra and Radak cite, which would rule out a rose, five or thirteen in the Zohar at Hakdamah 1a, which fits one, though the Zohar elsewhere says six
+    distinct: the flower of Shir HaShirim, with reason to think it reddish (lips, Shir HaShirim 5:13); six petals on the tradition Ibn Ezra and Radak cite, which would rule out a rose, thirteen or five in the Zohar at Hakdamah 1a, the five fitting one, though the Zohar elsewhere says six
   - he: חבצלת
     tr: chavatzeles
     en: rose (young), daffodil
@@ -17,7 +17,7 @@ words:
   - he: ורד
     tr: vered
     en: rose
-    distinct: absent from Tanach, Mishnaic and Aramaic, and the Targumic rendering of shoshanah; a general term with shoshanah as one kind under it (Rabbi Yirmiyahu Low), or the plant against shoshanah the bloom
+    distinct: absent from Tanach, Mishnaic and Aramaic, and the Targumic rendering of shoshanah; a general term with shoshanah as one kind under it (Rabbi Yirmiyahu Low), or, as Rabbi Reuven Chaim Klein suggests, the plant against shoshanah the bloom
   - he: נרקיס
     tr: narkis
     en: daffodil

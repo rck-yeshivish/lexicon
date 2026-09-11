@@ -102,8 +102,8 @@ disgraceful act of his stands out the more.
   passing, "praise" is fine.
 - Trap: "extol" and "exalt" and "raise high" are near-synonyms in English;
   Rabbi Klein assigns extol to *leromem*, exult to *le'aleh* and exalt to
-  *lekales*; this entry gives "raise high" for *le'aleh*, since "exult"
-  ordinarily means "rejoice". Keep whichever assignment you take fixed.
+  *lekales*; "raise high" serves for *le'aleh*, since "exult" ordinarily
+  means "rejoice". Keep whichever assignment you take fixed.
 
 ## Notes for a project
 

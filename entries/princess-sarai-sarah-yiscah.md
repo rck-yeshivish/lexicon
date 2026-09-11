@@ -173,12 +173,12 @@ instead to Schorsch, a Germanized form of George.
 - יסכה: transliterate as *Yiscah*, and gloss with the reading the passage is
   using, "the one who gazed" for the ruach hakodesh reading, "the one all gazed
   upon" for the beauty reading. Do not render the name as "Jessica," even
-  though the column holds that *Jessica* is in fact an Anglicization
+  though Rabbi Klein holds that *Jessica* is in fact an Anglicization
   of *Yiscah*; the English name carries none of the pasuk's sense and reads as a
   modern given name.
 - Where a source treats Yiscah and Sarai as one woman, do not add "that is,
-  Sarah" into the translation; Ibn Ezra and Rabbi Shmuel David Luzzatto hold
-  otherwise, and the identification belongs in a note.
+  Sarah" into the translation; Ibn Ezra and Rabbi Shmuel David Luzzatto doubt
+  the identification, and it belongs in a note.
 
 ## Notes for a project
 

@@ -17,7 +17,7 @@ words:
   - he: ייבום
     tr: yibbum
     en: levirate marriage
-    distinct: the marriage itself; whether the word restores her yevamah status (Rabbi Shlomo Pappenheim), undoes it (Rabbi Wolf Heidenheim), or names the brother's act (Ibn Ezra) is disputed
+    distinct: the marriage itself; whether the word restores her yevamah status (Rabbi Shlomo Pappenheim), undoes it (Rabbi Wolf Heidenheim), or, seemingly, names the brother's act (Ibn Ezra) is disputed
   - he: גיס
     tr: giss
     en: brother-in-law
@@ -193,8 +193,8 @@ Israeli spelling of the diaper brand "Huggies."
 - Rus 1:15, Naomi to Rus of Orpah: *yevimtech* is her husband's brother's wife,
   not a widow awaiting *yibbum*. Render "your sister-in-law" and note it.
 - Bereishis 38:8-9 and Vayikra 18:16, 20:21 say *eishes achiv*. Keep "his
-  brother's wife"; "sister-in-law" erases the point that Biblical Hebrew lacks
-  the term.
+  brother's wife"; "sister-in-law" erases the point, on Rabbi Mecklenburg's
+  view, that Biblical Hebrew lacks the term.
 - Trap: "brother-in-law" absorbs *yavam*, *giss*, and on Ibn Janach's reading
   *choten*. Where two appear together, as in *Sanhedrin* 3:4's list of
   disqualified relatives, spell out each relation.

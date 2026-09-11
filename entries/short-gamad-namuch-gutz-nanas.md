@@ -151,7 +151,7 @@ from the Peruvian *nanas* by way of Spanish.
   board" is a low board; do not personify it.
 - The Moed Katan 18a description of Pharaoh as one *amah* tall is a statement
   about stature, and Chazal's word for such a man is *nanas*. Keep the register
-  plain; the column itself notes in passing that the English word "midget" is no
+  plain; Rabbi Reuven Chaim Klein himself notes in passing that the English word "midget" is no
   longer socially acceptable, and modern clinical vocabulary does not belong in a
   rendering of a Gemara either.
 

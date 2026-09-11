@@ -19,7 +19,7 @@ words:
     tr: shoev
     en: draw water
     nk: שָׁאַב
-    distinct: drawing water, and in almost all biblical instances from a well (the column); as against shoef, it is water rather than air (Rabbi Shlomo Aharon Wertheimer); which stage of the act it names is disputed
+    distinct: drawing water, and in almost all biblical instances from a well; as against shoef, it is water rather than air (Rabbi Shlomo Aharon Wertheimer); which stage of the act it names is disputed
   - he: שאף
     tr: shoef
     en: inhale, yearn
@@ -48,7 +48,7 @@ from a well; *shoef* is its air counterpart, **inhale**, and in *sheifah*,
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| משה | moshe | draw out of water | only from within water (Rashbam, Rabbi Chelouche) |
+| משה | moshe | draw out of water | specifically from within water (Rashbam, Rabbi Chelouche) |
 | משך | moshech | pull, draw | the general term; includes moshe (Rabbi Chelouche) |
 | שאב | shoev | draw water | almost always from a well; water and not air (Wertheimer) |
 | שאף | shoef | inhale, yearn | air and not water (Wertheimer); hence sheifah, an internalized higher yearning |
@@ -195,7 +195,7 @@ would act to save others who are oppressed and extract them from their situation
 - Trap: a passage with both *moshe* and *moshech* reads as repetition in English
   unless the water is marked in the one and left out of the other.
 - On why the name is Moshe (active) and not Mashui (passive), see the section
-  above. Render "Moshe" and let a note carry the readings; the column does not
+  above. Render "Moshe" and let a note carry the readings; Rabbi Klein does not
   pick among them, closing only that the name "encompasses various
   interpretations, reflecting his destiny to lead, save, and liberate."
 
