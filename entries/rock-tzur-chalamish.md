@@ -26,15 +26,15 @@ updated: 2026-09-10
 *Tzur* is **flintrock** or **hard rock**, and it is also a divine epithet;
 Rambam adds a second sense, the quarry a stone is hewn from, hence **source**. *Chalamish* is conventionally **flint**,
 but Rabbi Shlomo Pappenheim makes it a subdivision of *tzur*, the very hardest
-stones. The distinguishing fact: Malbim, a *sela* is porous and can hold water,
-a *tzur* cannot, which is why Rabbi Chaim Vital calls a *tzur* the stone that
-gives fire.
+stones. On Malbim's account a *sela* is porous and can hold water and
+a *tzur* cannot, which fits neatly with Rabbi Chaim Vital's calling a *tzur* the
+stone that gives fire.
 
 ## Distinctions
 
 ### tzur (צור)
-Both Rabbi Shlomo Pappenheim and Malbim: a *tzur* is harder than a *sela*, and
-the hardest types of rock are called *tzur*. Rabbi Pappenheim ties the word to
+Both Rabbi Shlomo Pappenheim and Malbim: a *tzur* is harder than a *sela*. For
+Rabbi Pappenheim the hardest types of rock are called *tzur*, and he ties the word to
 *tzarur*, cluster or bundle, since its components are packed so tightly that the
 resulting stone is quite hard; he identifies one type of *tzur* as *Hornstein*,
 German for "horn stone," that is, chert. Pieces of chert generally have very
@@ -46,9 +46,9 @@ mohel for her son (Shemos 4:25), and Yehoshua's mass milah is done with *charvos
 tzurim*, literally stone swords (Yehoshua 5:2-3).
 
 Malbim: a *sela* is the porous kind that can hold water inside; a *tzur* is so
-hard that water in it is impossible. This fits neatly, the column says, with
+hard that water in it is impossible. This fits neatly, Rabbi Klein says, with
 Rabbi Chaim Vital (1543-1620), who wrote that a *tzur*, or *tzur hachalamish*,
-is the stone that produces fire, since a stone with water in it certainly could
+is the stone that produces fire: a stone with water in it certainly could
 not make fire. Rabbi Yisrael Menachem Mendel Sacharov (d. 1966) points out that
 *hatzur* has the same gematria as *aish*, fire.
 
@@ -87,9 +87,9 @@ in construct, *tzur hachalamish* and *chalamish tzur* (Devarim 8:15, 32:13), and
 in the absolute as simply *chalamish* (Tehillim 114:8, Iyov 28:9, Yeshayahu
 50:7).
 
-To sharpen the nuance, the column sends the reader to Mohs' Scale of Mineral
-Hardness, which rates minerals by hardness with talc, the softest, at 1. On that
-scale the calcite-based rocks the first essay identified as *sela* rate a 3,
+Mohs' Scale of Mineral Hardness rates minerals by hardness, with talc, the
+softest, at 1. On that scale the calcite-based rocks Rabbi Klein elsewhere
+identifies as *sela* rate a 3,
 while chert, a type of *tzur*, is much harder and rates a 7, and diamonds take
 the top at 10. If the conventional identification of *chalamish* as flint is
 accurate, *chalamish* should rate a 7; but as Rabbi Pappenheim puts it,

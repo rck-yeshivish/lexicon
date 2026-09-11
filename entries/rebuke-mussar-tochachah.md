@@ -23,12 +23,11 @@ ties it to *yissurin*, afflictions.
 
 ## Distinctions
 
-The column frames the whole discussion with the mitzvah of rebuke (Vayikra
-19:17) and with a dictum the column says Edmund Burke (1729-1797), the father of
-contemporary conservatism, purportedly said: that the triumph of evil needs
-nothing more than that good men do nothing. The Torah, the column writes, takes
-this Burkian approach to the responsibility of the righteous and implores us to
-reprimand the wicked for their sins. Hebrew collates the notion of rebuking
+Edmund Burke (1729 to 1797), the father of contemporary conservatism,
+purportedly said that the triumph of evil needs nothing more than that good men
+do nothing. The Torah takes this Burkian approach to the responsibility of the
+righteous and implores us to reprimand the wicked for their sins (Vayikra
+19:17). Hebrew collates the notion of rebuking
 sinners in two words, *tochachah* and *mussar*.
 
 ### tochachah (תוכחה)
@@ -48,7 +47,7 @@ to question the other's actions "innocently" and spur a debate about whether
 they are right; hopefully the ensuing discussion will let the sinner realize the
 folly of his ways more powerfully than a litany of his misdeeds would. For that
 reason *tochachah* is also related to *hochachah*, proof, and *vikuach*, debate.
-The column contrasts this with sermonizing about fire and brimstone in the vein
+Rabbi Klein contrasts this with sermonizing about fire and brimstone in the vein
 of Jonathan Edwards's Puritan tract *Sinners in the Hands of an Angry God*: such
 a tract may indeed arouse emotive feelings of repentance through elaborate
 descriptions of the hellish fires of purgatory, but those emotions are merely

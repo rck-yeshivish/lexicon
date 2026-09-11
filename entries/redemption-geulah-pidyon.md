@@ -19,11 +19,10 @@ updated: 2026-09-10
 the fact of being freed. *Geulah* (verb *goel*) is redemption by right of
 kinship and by force, with no payment: **redemption**, **deliverance**, and it
 carries the sense of being raised up, not merely let out. Several
-explanations run in the same direction (the
-Vilna Gaon, the Chatam Sofer, Rabbi Menachem Mendel of Kosov, Malbim), each
-making *geulah* the fuller term and *pidyon* the transactional or bare one, with
-Rabbi Chaim of Brisk and Rabbi Shmuel Tuvia Stern cutting the difference on
-other axes.
+explanations run in the same direction (the Chatam Sofer, Rabbi Menachem Mendel
+of Kosov, Malbim), each making *geulah* the fuller term and *pidyon* the bare
+one; the Vilna Gaon sets exchange against sheer force, and Rabbi Chaim of Brisk
+and Rabbi Shmuel Tuvia Stern cut the difference on other axes.
 
 ## Distinctions
 
@@ -39,8 +38,8 @@ calamity at hand. Rabbi Menachem Mendel of Kosov: temporary relief from what
 ails one. Malbim: *pidyon* is the bare fact of salvation. Rabbi Shmuel Tuvia
 Stern: *pidyon* takes something holy and releases it by transferring the
 holiness onto something else (the redemption of hekdesh); alternatively,
-*pidyon* is case-by-case redemption of the individual. (The column introduces
-Rabbi Stern as the late Rabbi of Miami Beach.)
+*pidyon* is case-by-case redemption of the individual. (Rabbi Stern was the
+Rabbi of Miami Beach.)
 
 A note on spelling: *podeh* is
 generally spelled with a heh, but in one place (Iyov 33:24) Scripture replaces
@@ -64,8 +63,7 @@ responsibility to save. The same closeness lies behind *goel hadam*: when a
 man's relative is murdered he holds a status that may, under certain
 circumstances, perhaps allow avenging the death, and Bamidbar 35:19 calls him
 *goel hadam*, "redeemer of blood," where *goel* alludes to the avenger's kinship
-with his murdered brethren. (The column does not say in so many words that this
-application is Malbim's; it follows on from him.) Rabbi Shmuel Tuvia Stern:
+with his murdered brethren. Rabbi Shmuel Tuvia Stern:
 *geulah* takes what is
 profane and shakes off its non-holy associations so it may enter the domain of
 the holy; alternatively, *geulah* is mass redemption of the nation at large.

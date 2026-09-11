@@ -22,7 +22,7 @@ updated: 2026-09-10
 
 *Mi'un* is the biblical word for **refusing**, its cognates appearing forty-six
 times in Tanach; *siruv* is Aramaic and rabbinic, at most once in Tanach, and
-even that one instance is disputed. The column gives two approaches to the
+even that one instance is disputed. Rabbi Klein gives two approaches to the
 difference and does not choose between them. On the first, resting on Rabbi
 Eliyahu HaBachur's observation that the Targumim render most instances of
 *meridah*, *meri* and *mi'un* alike by *siruv*, it *seems* the two are simply
@@ -63,13 +63,13 @@ Menachem goes so far as to define *meridah* by *sarvanus* and *saravanim* by
 (920-990) disagrees with that assessment, proffering instead that *saravim* is a
 kind of thorn, just as *salonim* is.
 
-Its home is Aramaic. In that same perek Hashem uses forms of *meri* /
+In that same perek Hashem uses forms of *meri* /
 *meridah* six times and Targum renders each with a cognate of *siruv*; and
 where Yechezkel 2:3 uses *pesha* for rebellion, Targum renders it with an
 Aramaicized *meridah*. Rabbi Eliyahu HaBachur (1469-1549) points out in *Sefer
 HaTishbi* and *Meturgaman* that most instances of the Hebrew *meridah*, *meri*
 and *mi'un* in the Torah are rendered by the Targumim as *siruv*. In light of
-this, the column writes, it *seems* that the two are indeed synonyms but are
+this, Rabbi Klein writes, it *seems* that the two are indeed synonyms but are
 sourced in different languages: *mi'un* and its cognates, appearing many times
 in Tanach, *seem* to be genuine Hebrew, while *siruv*, which at most appears
 once, *seems* to be a borrowed Aramaic loanword, and so became more popular in
@@ -92,8 +92,8 @@ HaYair*) asks why Onkelos, who typically renders *mi'un* as *siruv*, does not do
 so at Shemos 22:16, the verse that if the father of a seduced girl refuses to
 give her to the seducer for marriage the seducer must pay a penalty. The Hebrew
 reads *im ma'en yema'en*, yet Onkelos translates it as though it said, "and if
-the father does not wish." The meaning does not necessarily change, the column
-notes; it is the wording that is unexpected.
+the father does not wish." The meaning does not necessarily change;
+it is the wording that is unexpected.
 
 Rabbi Dienna resolves this by positing that *mi'un* and *siruv* are not perfect
 synonyms and that their meanings do not always line up. *Mi'un* refers

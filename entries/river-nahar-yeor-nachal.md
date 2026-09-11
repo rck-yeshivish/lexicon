@@ -18,8 +18,9 @@ updated: 2026-09-10
 *Nahar* is the default **river**, a natural watercourse fed by tributaries.
 *Yeor* is the Nile and rivers that behave like it, a river that floods past its
 banks; Rashi (to Shemos 7:19) glosses it **an irrigation canal**, and standing
-alone it is **the River**, the Nile. *Nachal* is a **brook** or **wadi**, the
-seasonal watercourse that cuts a valley and runs to the sea, and the same word
+alone it is **the River**, the Nile. *Nachal* is a **brook** or **wadi**, variously
+explained as the river that cuts a valley, the seasonal runoff, or the river that
+runs to the sea, and the same word
 names the valley itself. Rabbi Malkiel Tzvi Tannenbaum *proposes* that *nahar* and *yeor* are only sharply distinguished
 when they appear together, so that Rashi's canal is what *yeor* means beside a
 *nahar*; apart, on his proposal, either word can mean a river of any kind.
@@ -39,8 +40,8 @@ not past the banks, as against the *yeor*, which tends to overflow. In another
 discussion Malbim (to Yeshayahu 19:5) sizes the three: a *nahar* is shallow,
 short and narrow, a *nachal* is wider but also not deep, and a *yeor* denotes an
 even smaller stream. There Malbim *again* notes that the *yeor* differs from the
-other two in tending to overflow, so the two passages agree on that point. One
-further reading the column records anonymously: others explain that a *nachal*
+other two in tending to overflow, so the two passages agree on that point. Some
+also explain that a *nachal*
 is a seasonal river caused by rainwater flowing down from the mountains, while a
 *nahar* is a river that continues to flow the entire year.
 
@@ -49,7 +50,7 @@ Before the plague of blood Hashem tells Aharon to stretch his staff over the
 different bodies of water in Egypt, among them the *neharos* and the *ye'orim*
 (Shemos 7:19). Rashi there: a *nahar* is the sort of river we are familiar with,
 while a *yeor* is a man-made irrigation canal that brings water to faraway
-fields. This *implies*, the column reasons, that a *yeor* is man-made and a
+fields. This *implies*, Rabbi Klein reasons, that a *yeor* is man-made and a
 *nahar* naturally occurring. But that assumption is belied by the fact that the
 Nile is called a *yeor* and is one of the four rivers that flowed from Gan Eden
 (Bereishis 2:11), which cannot possibly be man-made. Rabbi Malkiel Tzvi
@@ -67,14 +68,13 @@ by the forces of nature, so a *yeor* is a river whose waters flow with
 especially violent force, and in Tanach it is used only of the Nile and the
 Tigris. Pappenheim *admits* that a borrowed sense of *yeor*, which also appears
 in Tanach, is a man-made irrigation duct, which is not a river as such but the
-river's artificial tributaries. The column then bridges the two: in light of
-what Malbim wrote, we can explain that *yeor* recalls the fact that its waters
+river's artificial tributaries. Rabbi Klein then bridges the two: in light of
+what Malbim wrote, he explains that *yeor* recalls the fact that its waters
 tend to overflow past the banks, giving the illusion of the river itself
-shooting its waters outwards. (That bridge is the column's own, not Pappenheim's
-and not Malbim's.)
+shooting its waters outwards.
 
 ### nachal (נחל)
-Means both a river and a valley. The column gives two anonymous accounts of the
+Means both a river and a valley. There are two anonymous accounts of the
 connection: some explain that a *nachal* is the type of river that causes
 erosion, thereby creating a valley in the manner of the Grand Canyon, which in
 English we call a *wadi*, a word borrowed from Arabic; others explain that a

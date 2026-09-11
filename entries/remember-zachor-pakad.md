@@ -19,7 +19,7 @@ updated: 2026-09-10
 remembering that issues in action: **attend to, take note of** (and in the
 right context "count," "appoint," "punish," "deposit"). Rabbi Shlomo Aharon
 Wertheimer, capsulizing Malbim's stance: *zechirah* is in thought, *pekidah* is
-in action. Where Hashem *pakad* someone, action follows.
+in action.
 
 ## Distinctions
 
@@ -28,8 +28,7 @@ The Torah gives six commandments to remember: the Shabbos (Shemos
 Amalek attacked after the Exodus (Devarim 25:17), the giving of the Torah at Har
 Sinai (Devarim 4:9), how the Jews angered Hashem in the wilderness (Devarim
 9:7), and what Hashem did to Miriam when she spoke slander (Devarim 24:9). In
-all but one of those commandments, the column notes, the Torah uses *zachor*;
-it does not say which one is the exception. The Gemara (Rosh Hashanah 32b)
+all but one of those commandments the Torah uses *zachor*. The Gemara (Rosh Hashanah 32b)
 essentially recognizes *pakad* as a synonym of *zachor*, asserting that
 *pikdonos* equals *zichronos*, so that pesukim which speak of Hashem
 remembering with a cognate of *pakad* may also be included in the *zichronos* of
@@ -49,7 +48,7 @@ HaGur* that *zachor* itself implies remembering as an act of mercy, while
 *pakad* does not, since *pakad* sometimes refers to remembering in order to
 punish. He offers this to resolve a difficulty: Rashi enigmatically explains
 that Hashem's remembering Noach (Bereishis 8:1) means He switched His trait of
-strict judgment for His trait of mercy, but, the column observes, there is no
+strict judgment for His trait of mercy, but, Rabbi Klein observes, there is no
 textual basis for that explanation, especially since that very pasuk uses the
 name Elokim, which implies strict judgment, rather than the Tetragrammaton,
 which implies mercy.
@@ -60,8 +59,8 @@ of a thing (Vayikra 6:8, Hoshea 14:8, Tehillim 20:4), in the same sense that a
 memory of something is a whiff of that idea and is not it itself.
 
 ### pakad (פקד)
-Root פ-ק-ד. Its range in Tanach is so wide that the column says it is quite
-difficult to pin down its core meaning: to count (Bamidbar 1:21,
+Root פ-ק-ד. Its range in Tanach is so wide that its core meaning is quite
+difficult to pin down: to count (Bamidbar 1:21,
 2:32, Shmuel I 15:4), to be missing (Bamidbar 31:49, Yeshayahu 38:10), to
 command (Tehillim 19:9, 119:56, Ezra 1:2), to appoint (Bamidbar 1:50, 31:14,
 Esther 2:3, Tehillim 109:6), to punish (Shemos 20:5, Hoshea 2:15), to bring
@@ -95,8 +94,7 @@ teivah only about a year (Bereishis 8:1), and for Rachel, barren only a few
 years (Bereishis 30:22).
 
 ### zachar (זכר, "male")
-*Zachor* *seems* to be related to *zachar*, "male," and the column calls the
-thematic connection the elephant in the room. The interplay shows up in a
+*Zachor* *seems* to be related to *zachar*, "male." The interplay shows up in a
 Talmudic anecdote (Bava Basra 21b) in which Dovid HaMelech's general Yoav
 explains that he did not kill the female Amalekites, because his teacher had
 vowelized the *zecher* of "erase the remembrance of Amalek" (Devarim 25:19) as
@@ -128,8 +126,7 @@ Kabbalistic terminology, since Hashem's trait of mercy reflects unfettered
 Divine influence with the focus on the Giver, associating *zachor* and mercy
 with the male paradigm, while His trait of judgment reflects a limited Divine
 influence focused on the recipient and on whether he deserves to receive, so
-that *pakad* and judgment follow the female model. (This linking is the column's
-own, not Treves's or de Leon's.)
+that *pakad* and judgment follow the female model.
 
 Rabbi Levi Yitzchok of Berditchev (1740-1810) in *Kedushas Levi* (to Bereishis
 21:1) explains that *pakad* alludes to the female element because it implies

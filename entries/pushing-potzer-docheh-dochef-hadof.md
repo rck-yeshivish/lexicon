@@ -62,12 +62,12 @@ being pushed around or coerced, and some of these words carry both.
 
 **Whether potzer is physical.** Rav Hirsch (to Bereishis 19:3) reads it as
 primarily poking or stabbing at someone or something until they acquiesce to the
-desires of the one pushing, an image of persistence and determination rather than
-force, which fits Lot pressing his guests and Yaakov pressing Eisav to take the
+desires of the one pushing, an image of persistence and determination, which
+fits Lot pressing his guests and Yaakov pressing Eisav to take the
 gift (Bereishis 33:11). Shadal (to Bereishis 33:11) enriches this by arguing that
 פ-צ-ר is itself an offshoot of the biliteral צ-ר, narrow or strait, since pushing
 a person leaves him with narrow choices until he relents, akin to navigating a
-narrow passageway; evidently, the column notes, Shadal took the *peh* as a
+narrow passageway; Shadal, Rabbi Klein notes, evidently took the *peh* as a
 radical added to the core two-letter root. Rabbi Yaakov Tzvi Mecklenburg (*HaKsav
 VeHaKabbalah* to Bereishis 19:9) interprets the second occurrence, of the
 Sedomites, in the physical sense: they physically pushed Lot away from the door,
@@ -79,20 +79,19 @@ of two biliteral roots, ד-ח (push) and א-פ (*af*, face or nose): to push
 someone's face away, symbolizing the rejection of his presence and the urgency to
 redirect himself toward another task. Separately, Rabbi David Golomb writes that
 *hadof* is related to *dochef*, arguing that *hei* and *ches* can be viewed as
-interchangeable; the reordering that moves the guttural into second position is
-marked in the column as the columnist's own inference ("and, evidently").
+interchangeable; evidently, Rabbi Klein adds, Golomb also assumes the reordering
+that moves the guttural into second position.
 
 **How hadof differs from docheh.** Rabbi Pappenheim derives *hadof* from ד-פ,
 "pushing away with ease," and illustrates it with Geichazi shoving the Shunamis
 woman (Melachim II 4:27), which he says was easy because she was on a mountain
 and the incline made her footing more precarious. The Malbim (*Yair Ohr*) offers
 a similar explanation from a different angle, insinuating that *hadof* implies
-pushing away something less rooted in its original location. The column also
-records, without drawing a conclusion from it, that Targum there uses an Aramaic
-form of *dachah* for what Geichazi did.
+pushing away something less rooted in its original location. Targum there
+uses an Aramaic form of *dachah* for what Geichazi did.
 
-**What dofi means.** Rabbi Pappenheim traces *dofi* to this root, and the column
-notes that Rabbi David Abudarham of Seville had made the same connection earlier,
+**What dofi means.** Rabbi Pappenheim traces *dofi* to this root, and Rabbi
+David Abudarham of Seville had made the same connection earlier,
 in his commentary to the *vidui*, where the penitent admits to having spoken
 *dofi*: it is speaking derogatorily about another, by which one has essentially
 pushed away the victim of his hateful speech for personal gain. That explanation
@@ -100,14 +99,12 @@ is Abudarham's; Rashi (to Tehillim 50:20) is cited only for the narrower point
 that he too links *dofi* with *hadof*. Rabbi Yosef Kimchi, cited by Abudarham,
 explains *dofi* instead as a portmanteau of the Greek prefix *di-*, two or
 double, and the Hebrew *pi*, mouth: duplicitous speech, as though one spoke with
-two different mouths, like the English "speaks with a forked tongue." The column
-does not rank the two.
+two different mouths, like the English "speaks with a forked tongue."
 
 **What the men of Givah did at the door.** *Mitdapkim* (Shoftim 19:22): Targum
 Yonasan uses a cognate of *dchak*, the people pushing the door to break it open.
 *Metzudas Tzion* (there, and to Shir HaShirim 5:2) explains that they were more
-gently knocking, to convince the host to open up. This is the whole difference
-between menace and request.
+gently knocking, to convince the host to open up.
 
 ## Distinctions
 
@@ -123,35 +120,35 @@ me" (Tehillim 118:13); "extracting my soul from death, my foot from being
 pushed," *dechi* (Tehillim 116:8, and see 56:14); also Mishlei 14:32, 26:28,
 Yirmiyahu 23:12. Inflections of ד-ח-ה appear eleven times in Tanach, as
 Even-Shoshan lists them, mostly in Tehillim. Rabbi Shlomo Pappenheim takes ד-ח as
-the core, meaning "push," and reads its family as pushing something out of place:
+the core, meaning "push," and reads most of its family as pushing something out of place:
 *nidach*/*nidchei* (Devarim 22:1, Yeshayahu 11:12, 27:13), a refugee or rejected
 person, one pushed away from his homeland; *hadachah*, rinsing, water pushing
 filth away; *dochan*, rice or millet, grain-like granules extracted by pushing
 them out of their husks. Rav Hirsch (to Bereishis 20:13) compares
 *docheh* to *toeh* (becoming lost), on the interchange of dalet with tav and
 ches with ayin: a man pushed from home and a man who has lost his way are both
-severed from a secure base. The root ד-ח-ק (*dchak*) is the column's near
-neighbor, treated in its own piece. In Talmudic usage a positive command
+severed from a secure base. The root ד-ח-ק (*dchak*) is related, and likewise refers
+to pushing or pressuring. In Talmudic usage a positive command
 *docheh*, "pushes aside," a negative one, and in yeshivishe speech one is
 *docheh* an argument.
 
 ### dochef (דוחף)
-Root ד-ח-פ, five occurrences, all urgent: Achashverosh's couriers driven out
+Root ד-ח-פ, five occurrences, usually urgent: Achashverosh's couriers driven out
 with his decrees (Esther 3:15, 8:14), Haman hurrying home after leading Mordechai
 through the city (Esther 6:12), Uziyahu (Azariah), king of Yehudah, suddenly
 struck with tzaraas on his forehead in the Beis HaMikdash and *nidchaf* to leave
 the premises as quickly as possible (Divrei HaYamim II 26:20), and Tehillim
-140:12. Modern Hebrew's *dachuf*, urgent, preserves the sense exactly.
+140:12. Modern Hebrew uses the adjective *dachuf* for an urgent, pressing matter.
 
 ### hadof (הדף)
 Root ה-ד-פ. Hashem pushing out the Canaanite nations (Devarim 6:19, 9:4,
 Yehoshua 23:5); pushing a man to his death, whether by accident (Bamidbar 35:22)
 or deliberately (Bamidbar 35:20); Geichazi and the Shunamis woman (Melachim II
 4:27). Rabbi Pappenheim brings the Mishnaic *dofan* here, a flimsy wall easily
-pushed aside (Yoma 2:3, Sukkah 1:1, Zevachim 8:1, Keilim 2:2, and many more),
-and with it *daf*, the wooden board such a wall was often built of, which in
-later medieval Hebrew becomes a page or folio in a book. The column adds in
-brackets that in most of its Mishnaic occurrences *dofan* is used in a borrowed
+pushed aside (Yoma 2:3, Sukkah 1:1, Zevachim 8:1, Keilim 2:2, and many more);
+*daf* is the wooden board such a wall was often built of, which in
+later medieval Hebrew becomes a page or folio in a book. In most of its
+Mishnaic occurrences *dofan* is used in a borrowed
 sense, of a child born by Cesarean section or otherwise by cutting through a
 physiological barrier to remove the child from the womb. Pappenheim also brings
 *dofi* (Tehillim 50:20), a fault or misdeed.
@@ -187,10 +184,10 @@ work such as barber-surgeon, and the patriarch of the Deifik family had the habi
 of feeling his patients' pulse, so the Hebrew word for heartbeat became the
 family name. Pearlroth's successor in that column, David L. Gold, later clarified
 (*The Indiana Jewish Post*, 31 October 1990, p. 16) that Deifik in fact derives
-from a nickname given to that patriarch. Rabbi Klein adds that Deifik is his
-wife's maiden name, and that on his own amateur genealogical research everyone
-bearing it (originally spelled Dojfig, Deifig or Dojfik) descends from her
-family, who came from Michalcze, today Mykhal'che in Ukraine, near Horodenka.
+from a nickname, ostensibly given to that patriarch. Rabbi Klein adds that Deifik is his
+wife's maiden name, and that on his own amateur genealogical research it seems
+that everyone bearing it (originally spelled Dojfig, Deifig or Dojfik) is related
+to her family, who came from Michalcze, today Mykhal'che in Ukraine, near Horodenka.
 
 ## Rendering guidance
 

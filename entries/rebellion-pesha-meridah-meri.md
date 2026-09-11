@@ -24,10 +24,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Three words for rebellion, and the column's own summary separates them
+Three words for rebellion, and Rabbi Klein's own summary separates them
 cleanly. *Pesha* at its core is **negligence** born of laziness, and means
 **rebellion** only by extension. *Meridah* is **revolt** as a counter-response,
-throwing off a present ruler. *Meri* and *mamre* are **defiance** as switching
+especially throwing off a present ruler. *Meri* and *mamre* are **defiance** as switching
 allegiance, replacing one authority's word with another's. A lazy *poshea* is
 not a revolutionary, and in the *shomrim* sugya (Shemos 22:8) the *poshea* is
 **negligent**, not a rebel.
@@ -75,7 +75,7 @@ biliteral ר-ד, downward motion, the crushed pauper having fallen from the
 standing of a respected human being. Rabbi Shlomo Pappenheim also takes ר-ד as
 the root, the root of *rodeh*, lording over others and keeping them down
 (Bereishis 1:28, Vayikra 25:43); in his system a mem prefixed to a biliteral
-reverses it, so מ-ר-ד is the opposite of lording over, namely the subjects
+often reverses it, so מ-ר-ד is the opposite of lording over, namely the subjects
 asserting control. The Gemara (*Sanhedrin* 49a) learns the death penalty for a
 *mored b'malchus* from Yehoshua 1:18, "any man who defies (*yamreh*) your
 mouth."
@@ -87,7 +87,7 @@ Moshe calls the nation *mamrim* for refusing Hashem's word (Devarim 9:7, 9:24,
 *Eruvin* 69a-b, *Yevamos* 47b); and the rebellious son is a *ben sorer u'moreh*
 (Devarim 21:18), *moreh* being a cognate of *mamre*. The *Sifrei* (*Ki Seitzei*
 218) darshens that *moreh* on *moreh* meaning "teaching": the boy has taught
-himself another path. But that exegesis, the column notes, does not tell us the
+himself another path. But that exegesis does not tell us the
 etymological basis of *mamre*. Ibn Janach and Radak give the roots מ-ר-ה and מ-ר-ר, both of
 which can refer to rebelling or to changing from what one was commanded;
 *Machberet Menachem*, as one would expect, links them all to the biliteral מ-ר.
@@ -109,7 +109,7 @@ Rabbi Aharon Marcus blurs the distinction between *meri*/*mamre* and
 core meaning is reflected in the honorific *Mar*, an expression of dignity and
 sovereignty. As Marcus *seems* to understand it, one who rebels against authority
 is poised to assert his own self-possession and dignity, reestablishing himself
-as an autonomous being. The column notes that Rabbi
+as an autonomous being. Rabbi
 Shlomo Pappenheim's list cannot include *meridah*, because his system admits
 only hei, aleph, mem, nun, tav, yud or vav as the added third letter, and
 *meridah*'s is a dalet.

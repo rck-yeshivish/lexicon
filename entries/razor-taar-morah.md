@@ -24,7 +24,7 @@ updated: 2026-09-10
 (Bamidbar 6:5). *Morah* is the word the Neviim use in the same formula (Shoftim
 13:5, 16:17; Shmuel I 1:11), and it is contested: Radak renders it **razor**
 throughout, while Targum and Rashi render it **scissors** by Shimshon and
-**the fear of men** by Shmuel. The column's own conclusion is an admission: he
+**the fear of men** by Shmuel. Rabbi Klein's own conclusion is an admission: he
 has found no source that clearly explains the difference between the two words,
 and has been unable to work out why the Torah says *taar* and the Neviim say
 *morah*.
@@ -38,7 +38,7 @@ a sword's scabbard: as the razor takes off the hair and lays the skin bare, so
 the sword appears suddenly when it is drawn out.
 
 ### morah (מורה)
-The word in the Neviim for the same prohibition. The column reports that linguists
+The word in the Neviim for the same prohibition. Linguists
 admit they do not know its etymological source, though some suggest that its
 original root is also ע-ר-ה, with the initial *ayin* dropped, which would put it
 with *taar* on Rav Hirsch's reading. Two further etymologies are given. Rashi (to
@@ -52,9 +52,8 @@ replace what was cut.
 *Vayikra Rabbah* 10:5 hears "fear" in the word: why is the *taar* called a
 *morah*? Because hair is scared (*morah*) only of the razor, which shaves it with
 a shaving of destruction, as it says "do not destroy the corner of your beard"
-(Vayikra 19:27). The column says the deeper meaning of this Midrash seems
-obscured, and treats it as an opening for the discussion rather than as a settled
-etymology.
+(Vayikra 19:27). Rabbi Klein says the deeper meaning of this Midrash seems
+obscured, and treats it as an opening for the discussion.
 
 ### The dispute at Shmuel I 1:11
 Targum (to Shoftim 13:5 and 16:17) renders *morah* as scissors by Shimshon, and

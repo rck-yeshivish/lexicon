@@ -50,14 +50,14 @@ umbrella term, the most general way of referring to a rock without being more
 specific, and *sela* and the rest fall under it; it sometimes appears in
 construct for specific kinds, *avnei hasadeh*, rocks of the field, *avnei
 yakar*, precious stones, and *avnei shayish*, usually said to be marble, though
-the column notes that in the Judean Formation limestone is a likelier candidate.
-He argues that the root is the two-letter ב-נ, building, since most rocks are
+Rabbi Klein notes that in the Judean Formation limestone is a likelier candidate.
+Pappenheim argues that the root is the two-letter ב-נ, building, since most rocks are
 usable for construction and building is the commonest use of rock. Because rocks
 are hard, *even* was then borrowed for any matter in a solid state, as in *avnei
 barad*, rocks of hail, at Yehoshua 10:11: hail is not actually a rock but is
-hard like one, although, the column adds, his geologist friend Aaron Kahn tells
+hard like one, although, Rabbi Klein adds, his geologist friend Aaron Kahn tells
 him that scientifically speaking ice is technically considered a rock. This is
-the word for every stone in the Yaakov Avinu
+the word in these Yaakov Avinu
 narratives: the stones he slept on (Bereishis 28:11), the stone he set up and
 poured oil on (28:18), the stone he rolled off the well (29:10), and the phrase
 he coined, *Even Yisrael* (49:24).
@@ -79,7 +79,7 @@ coin. Rabbi Yaakov Tzvi Mecklenburg (1785-1865), in *HaKesav VeHaKabbalah* on
 Shemos 4:25 and Devarim 9:9, cites Rabbi Pappenheim's explanation and adds to it
 a layer of exegetical interpretation about the Luchos.
 
-Rabbi Aharon Marcus (1843-1916) makes what the column calls a fascinating
+Rabbi Aharon Marcus (1843-1916) makes a fascinating
 suggestion. He proposes that where a root looks like ס-ל, the samech stands
 in for the ayin that follows it in the alef-beis, so the root is really ע-ל, the
 root of *al* and *oleh*, what is on top and what rises. On that reading a *sela*

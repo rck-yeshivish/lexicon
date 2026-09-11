@@ -47,7 +47,7 @@ stronger red against *chamutz* / *amutz*. *Shani* (*tola'as shani*) is
 **crimson**, the worm-dye of the Mishkan. *Chamutz* and *amutz* are the weaker red: **red-stained**
 in Yeshayahu, **chestnut** or burgundy in Zechariah. *Seruk* is **pink** on
 Malbim's reading, though Radak takes it only as "colorful"; *chum* is a dark red
-near black, which later sources read as **brown**; *chachlilei* is a drinker's
+near black, which in some later sources *seems* to mean **brown**; *chachlilei* is a drinker's
 **bloodshot** eye, though Ramban ties that word to blue instead. In Aramaic
 *sumak* is everyday red and *zehoris* the Targum's word for *shani*.
 
@@ -56,23 +56,21 @@ near black, which later sources read as **brown**; *chachlilei* is a drinker's
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | אדום | adom | red | the general word; the stronger red against chamutz/amutz (Radak to Zechariah 6:2-3) |
-| שני | shani | crimson | worm-dyed wool; deep red with a blue cast (Rabbi Saadia Gaon, Ibn Ezra, Radak) |
+| שני | shani | crimson | worm-dyed wool; crimson (Rabbi Saadia Gaon, Ibn Ezra, Radak), a deep red with a slight blue cast |
 | חמוץ | chamutz | red-stained | blood- or wine-stained garments (Ibn Janach, Radak); hapax, Yeshayahu 63:1 |
 | אמוץ | amutz | chestnut, burgundy | chamutz with aleph; a weaker red than adom (Radak) |
 | חכלילי | chachlilei | bloodshot | the reddened white of a drinker's eye (Tedeschi-Ashkenazi) |
-| סומק | sumak | red (Aramaic) | the plain Talmudic word (Rabbi Eliyahu HaBachur) |
+| סומק | sumak | red (Aramaic) | the plain Talmudic word; the Targumim's rendering of adom and chachlilei (Rabbi Eliyahu HaBachur) |
 
 ## Where the authorities disagree
 
 **What *seruk* means.** Radak (to Zechariah 1:8 and *Sefer HaShorashim*) takes
 *serukim* as "colorful" in a generic sense, without saying which color; Malbim
-(to Zechariah 1:8) explains it as "pink" or "light red." The column reports both
-and does not choose.
+(to Zechariah 1:8) explains it as "pink" or "light red."
 
 **Whether *chachlilei* is red.** Rabbi Moshe Tedeschi-Ashkenazi makes it the
-reddened white of the eye, from *kalil*, "crown"; the column notes that others,
+reddened white of the eye, from *kalil*, "crown"; others,
 like Ramban (to Bereishis 49:12), connect the word instead to *kachol*, blue.
-Again the column leaves both standing.
 
 ## Distinctions
 
@@ -107,18 +105,18 @@ and Malbim to Yeshayahu 1:18). Pseudo-Rashi (Divrei HaYamim II 2:6) writes that
 the same crimson cloth as *tola'as shani*, and Rabbi Moshe Tedeschi-Ashkenazi
 sees that word as related to *rimah*, another kind of worm.
 
-The English *crimson* runs on the same idea. The column traces it to the
+The English *crimson* runs on the same idea: it derives from the
 Proto-Indo-European root *kwrmi-*, "worm" or "mite," reaching English by way of
 Old Spanish *cremesin*, from Arabic *qirmiz*, and ultimately from Sanskrit
 *krimija*, "produced by a worm," used of a red dye made from scale insects such
 as kermes and cochineal. Although Arabic is Semitic and Sanskrit Indo-European,
-the column says it *seems* that Arabic borrowed *qirmiz* from Farsi
+it *seems* that Arabic borrowed *qirmiz* from Farsi
 (*gharmaz*/*germez*), itself Indo-European. Related English words are
 *vermilion*, a bright vivid red with a slight orange tint, from Latin
-*vermiculus*, "little worm," and *carmine*, a purplish red. The column adds an
+*vermiculus*, "little worm," and *carmine*, a purplish red. Rabbi Reuven Chaim Klein adds an
 aside: he used to think the Ghermezian family name pointed to Ashkenazi origins
 in the town of Worms (Germaiza), but on this showing it more likely comes from
-the Iranian word for red, which is itself bound up with worms, just not the
+the Iranian word for red, which is itself seemingly bound up with worms, just not the
 German town of that name.
 
 Why should *shani* share the root of *sheini*, "two"?
@@ -155,9 +153,9 @@ also has *adumim* horses (6:2), Radak adds that *chamutz* / *amutz* differs from
 that the shade of *amutz* resembles the color of a chestnut, what we might call
 burgundy. He also *suggests* that the root א-מ-ץ in the sense of strength
 (*ometz* / *amatz*) may derive from this meaning, since in girding one's strength
-the red blood inside begins to boil in the red parts of the innards, a suggestion
-the column reports while remarking that it is not sure what it means. Rabbi
-Pappenheim instead traces *amutzim* to the biliteral מ-צ, which he defines as
+the red blood inside begins to boil in the red parts of the innards; Rabbi Reuven Chaim Klein
+remarks that he is not sure what this means. Similarly, Rabbi
+Pappenheim traces *amutzim* to the biliteral מ-צ, which he defines as
 sucking or squeezing, the root also of *mitz*, juice, *metzitzah*, sucking, and
 *ometz*, power, in the sense that using that force means squeezing out every last
 bit; red horses are *amutzim* because they exert so much effort that their blood
@@ -177,7 +175,7 @@ Chizkuni also cite Melachim II 3:22 to that effect.
 ### seruk (שרוק) and the rouge words
 *Seruk*: Zechariah's other vision of red horses calls them *susim adumim serukim*
 (Zechariah 1:8); *sorek* is a high-quality red grape (Bereishis 49:11, Yeshayahu
-5:2, 16:8, Yirmiyahu 2:21). The column notes that this word looks like *zerach*
+5:2, 16:8, Yirmiyahu 2:21). This word looks like *zerach*
 in another way, since it *seems* cognate to the Arabic *sharaqa*, "shining
 brightly," and the Persian *sorkh*, "red" or "scarlet," which again links shining
 to red. *Sorek* is also twice a place-name: Delilah is the woman of Nachal Sorek
@@ -207,7 +205,7 @@ oven as it begins to heat up. Shadal (to Bereishis 30:32) writes that *chum* and
 
 ### tzachar (צחר)
 When Yechezkel lists the commodities exported from Damascus he mentions *tzachar*
-wool (Yechezkel 27:18). The column has elsewhere treated *tzachar* as a cognate
+wool (Yechezkel 27:18). Rabbi Reuven Chaim Klein has elsewhere treated *tzachar* as a cognate
 of *tzachor*, "white," but another approach reads it as red: David J. A. Clines'
 *A Dictionary of Classical Hebrew* defines *tzachar* as "reddish-grey colour,"
 and Rabbi Ernest Klein writes that the Hebrew root צ-ח-ר is related to its Arabic
@@ -217,13 +215,13 @@ Vilna Shas) that says *tzachor* means "red," and Marcus Jastrow's dictionary
 defines *tzachor* as "glistening" and "light reddish."
 
 ### chamar (חמר)
-Tehillim 75:9 describes wine with the adjective *chamar*. Since the Aramaic for
-wine is *chamar* / *chamra*, and since here the word must describe some property
+Tehillim 75:9 describes wine with the adjective *chamar*. The Aramaic for
+wine is *chamar* / *chamra*, but here the word must describe some property
 of wine rather than be a synonym for it (it would be a tautology to say "winey
-wine"), Ibn Janach and Radak in their respective *Sefer HaShorashim*, and Radak
+wine"). Ibn Janach and Radak in their respective *Sefer HaShorashim*, and Radak
 to Tehillim 75:9, explain that *chamar* here means "red," the word primarily
 naming the color characteristic of wine. In Arabic too *'ahmar* means "red," and
-the column notes that this is the origin of the Spanish place name Alhambra in
+this is the origin of the Spanish place name Alhambra in
 Granada, originally *al hamra*, "the red [palace]." Rabbi Ernest Klein writes
 that Hebrew *chemar*, asphalt or bitumen, is so called for its reddish-brown
 color, and explains *chomer*, matter or material, as originally referring to
@@ -234,7 +232,7 @@ adducing as a parallel the Spanish *burro*, which he holds derives ultimately
 from Late Latin *burrus*, "red," itself a corruption of Greek *purros*,
 "yellowish red" or "flame-colored." (In his English etymological dictionary,
 though, Klein does not link *roe* to the Indo-European root for red, deriving it
-instead from *rei-* or *reoi-*, "streaky" or "spotted.") The column adds that a
+instead from *rei-* or *reoi-*, "streaky" or "spotted.") Rabbi Reuven Chaim Klein adds that a
 grandson of Seir the Horite was named Chamran (Divrei HaYamim I 1:41), one more
 red-associated name among the Edomites, and that the Torah gives him the
 alternate name Chemdan (Bereishis 36:26), which can be viewed as equivalent
@@ -245,13 +243,13 @@ Shadal (to Shemos 20:5) notes that the Peshitta, the Syriac translation, twice
 uses an obscure Aramaic word for "red" spelled ק-נ-א, once to render *chachlilei*
 (Mishlei 23:29) and once to render *nichmaru* (Eichah 5:10). On the strength of
 that rare Syriac word Shadal *proposes* that the core meaning of the Hebrew
-*kana* is "red"; the column adds that *qani* in Classical Arabic describes a deep
+*kana* is "red." In Classical Arabic, *qani* describes a deep
 crimson or dark red, often in poetic use. On this reading *kana* names the
 physiological effect of jealousy, the heart heating up and the face going ruddy
 with indignation that another has taken what is his. Applying the word to Hashem
 is obviously a linguistic borrowing and no statement of anthropomorphism; Shadal's
 point is that where Hashem is described as *kana* over avodah zarah, the more
-accurate sense is that He is angry. The column puts it that Hashem is not visited
+accurate sense is that He is angry. Put more colorfully, Hashem is not visited
 by the green-eyed monster of jealousy but is rather "seeing red."
 
 ### the Aramaic words: sumak (סומק), zehoris (זהורית), gichor (גיחור)
@@ -270,8 +268,8 @@ For some of the other Hebrew words the Targumim prefer *zehoris*: it renders
 *shani* (Bereishis 38:30, Yehoshua 2:18) and *tola* (Yeshayahu 1:18, Eichah 4:5),
 and it also names the Mishnah's red string, the *lashon shel zehoris* tied to the
 head of the *sa'ir hamishtaleach* (Shabbos 9:3, Shekalim 4:2, Yoma 4:2, 6:6). The
-root ז-ה-ר refers variously to shining, illuminating, even the moon, and the
-column says frankly that its specific connection to red is *somewhat tenuous*.
+root ז-ה-ר refers variously to shining, illuminating, even the moon, and
+Rabbi Reuven Chaim Klein says frankly that its specific connection to red is *somewhat tenuous*.
 Rabbi Tanchum HaYerushalmi, in his dictionary of Rabbinic Hebrew, *partially*
 alleviates the problem by writing that *zehoris* is a sort of red that is
 especially shiny, or at least more so than other colors.
@@ -287,10 +285,9 @@ explains *gichor* as "very red," or perhaps deep red. Its etymology is obscure,
 and does not seem to be an actual Aramaic or Hebrew word: Dr. Alexander Kohut in
 *HaAruch HaShaleim* sees it as Indo-Iranian, connecting it with the Bactrian
 *cukhra* and the Old Persian *cuhar*, both apparently meaning red, while Rabbi
-Ernest Klein simply calls it "of unknown origin." The column adds, as an aside,
-that one of the family heads who returned in the days of Zerubavel was named
-Gachar (Ezra 2:47, Nechemiah 7:49), and that we can only speculate whether that
-means he was of reddish complexion.
+Ernest Klein simply calls it "of unknown origin." One of the family heads who
+returned in the days of Zerubavel was named Gachar (Ezra 2:47, Nechemiah 7:49),
+though one can only speculate whether that means he was of reddish complexion.
 
 ### argaman (ארגמן), and red clothing
 Shadal (to Shemos 25:4) writes that *argavan* is a form of *al-gavan*, on the
@@ -301,8 +298,7 @@ exegetes (*Midrash Chefetz* and *Meor Ha'Afeilah* to Shemos 25:4) follow the
 approach that *argaman* is a shade of red and then must explain how it differs
 visually from *tola'as shani*, which is also red: *argaman* is a yellowish red,
 perhaps nearer what we would call orange, while *tola'as shani* is the stronger,
-deeper red. (Shadal's point and the Yemenite exegetes' are two different claims;
-only the latter is about the shade.)
+deeper red.
 
 Perhaps because red is so ostentatious and attention-grabbing, the Rema (*Yoreh
 Deah* 178:1) rules that a Jew should not wear red clothes; and the Gemara

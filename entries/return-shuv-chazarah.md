@@ -19,11 +19,10 @@ updated: 2026-09-10
 ## Bottom line
 
 *Shuv* is returning **to** a place or condition: **return**, and *teshuvah* is
-**repentance** precisely because it is a return, not a mere improvement.
+**repentance** precisely because it is a return.
 *Chazarah* is the about-face itself, the act of **turning back** or **reverting**
 from where one now stands. *Shuv* names the destination, *chazarah* names the
-U-turn, so *chazar b'teshuvah* is not a redundancy but two halves of one motion.
-*Chazarah* is Mishnaic; it never appears in Tanach.
+U-turn. *Chazarah* is Mishnaic; it never appears in Tanach.
 
 ## Distinctions
 
@@ -56,7 +55,7 @@ Although Yitzchak had never been in Charan, he could still return there, since
 it was his father's homeland and so, by extension, could be considered his
 natural place.
 
-The column grounds this in Yechezkel 33:18-19 (see also Yechezkel 18:21-27)
+Rabbi Klein grounds this in Yechezkel 33:18-19 (see also Yechezkel 18:21-27)
 read with Berachos 29a. The Gemara explains the righteous man who "returns"
 from his righteousness as one who had been a sinner, repented, and then returned
 to sinning, an actual prior state. It does not explain the wicked man who
@@ -73,7 +72,7 @@ previously been a sinner.
 This is Rabbi Klein's own account of what *teshuvah* means. *Teshuvah*
 denotes a man's journey to his natural sin-free state; he is returning to where
 he is supposed to be, whether or not he was ever there before, returning to his
-spiritual default position, his home base. The column calls it the quest for
+spiritual default position, his home base. It is the quest for
 peace and tranquility, the return to one's roots. Moreover, the process of
 *teshuvah*, in which one harnesses the power of his regret over past sins as
 fuel for personal growth, enables him to revisit the past and recast his former
@@ -82,15 +81,15 @@ amends, in the same way that *hashavah* and *lehashiv* fill holes previously
 created by thievery or by a question.
 
 ### chazarah (חזרה)
-Part of the *teshuvah* process, the column says, entails making an about-face
+Part of the *teshuvah* process entails making an about-face
 and figuratively turning oneself around in a circle to correct course, and the
 Hebrew word for that is *chazarah*. Neither *chazarah* nor its verbs
 *chazar*/*chozer* occur anywhere in Tanach; they are Rabbinic (Mishnaic) Hebrew,
 and they mean variously to regret, recant, retract, repeat, return, or repent.
 Rabbi Eliyahu HaBachur (1469-1549), known in Latin as Elias Levita, notes that
 the standard way the Targumim render Hebrew *sivuv*, "go around" or
-"circumnavigate," is with the Aramaic/Syriac *chazar* and its cognates. The
-column's own summary of the pair: *shuva* implies focusing on the goal of
+"circumnavigate," is with the Aramaic/Syriac *chazar* and its cognates. Rabbi
+Klein's own summary of the pair: *shuva* implies focusing on the goal of
 getting back to where one used to be, while *chazarah* focuses on the act of
 getting out of the rut one is currently stuck in and making a U-turn.
 

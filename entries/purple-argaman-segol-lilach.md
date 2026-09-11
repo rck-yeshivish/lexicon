@@ -36,7 +36,7 @@ Classical Hebrew has no word for purple. *Argaman* is not a color word at all:
 all commentators agree it is **wool dyed** a certain color, and the shade the
 traditional sources describe is a **red**, whether crimson, orange, or a
 yellowish red; none of them makes it a mixture of red with blue or green. (One
-academic reading the column reports, Professor Athalya Brenner-Idan's, does
+academic reading, Professor Athalya Brenner-Idan's, does
 stretch the term as far as violet; see below.) The English word "purple" once
 covered any deep red. *Segol* and *lilach* are Modern Hebrew flower-names
 pressed into service as color words, with no standing in Tanach.
@@ -72,11 +72,11 @@ pressed into service as color words, with no standing in Tanach.
    Rabbah* 141b, and see *Zohar Terumah* 139a) *seems* likewise to take it as a
    hue of red that includes other shades as well.
 
-The column does not treat these as flatly opposed on the color. Even though
-Raavad, Rashi and the others do not explicitly identify *argaman* as red, it does
-still seem to be their understanding; they seem to hold that *argaman* takes in
+Rabbi Reuven Chaim Klein does not treat these as flatly opposed on the color.
+Even though Raavad, Rashi and the others do not explicitly identify *argaman* as
+red, it does, he writes, still seem to be their understanding; they seem to hold that *argaman* takes in
 multiple shades of red. Rambam's approach is echoed by the later authorities
-the column names.
+named above.
 
 **Which red.** Radak (*Sefer HaShorashim*) first writes crimson red, then cites
 Rasag that *tola'as shani* is the crimson red, and concludes that *argaman* must
@@ -85,7 +85,7 @@ as *lac*. Several midrashim assert that *argaman* resembles fire, which points
 toward orange (*Sifrei Zuta*, *Midrash HaGadol*, and *Yalkut Midrashei Teiman* to
 Bamidbar 4:13; *Midrash Agur* ch. 14), and several Yemenite sources (*Midrash
 Chefetz*, *Meor HaAfeilah* to Shemos 25:4) make *argaman* a yellowish red against
-the strong red of *tola'as shani*. So perhaps, the column suggests, Radak would
+the strong red of *tola'as shani*. So perhaps, Rabbi Reuven Chaim Klein suggests, Radak would
 agree that *argaman* was orange-colored: explaining it as red does not preclude
 explaining it as orange, orange being essentially a shade of red mixed with
 yellow. What is clear is that none of these sources sees *argaman* as a mixture
@@ -103,7 +103,7 @@ cloth often paid as tribute. Rashi (to Tehillim 68:28), basing himself on
 *Machberes Menachem*, *seems* to explain *argaman* from the triliteral ר-ג-מ,
 which usually means gathering, or stoning a person to death, and which is in turn
 related to ר-ק-ם, embroidery, possibly through the interchangeability of *kuf*
-and *gimmel*. Rashi does not say so himself, but the column observes that the
+and *gimmel*. Rashi does not say so himself, but Rabbi Reuven Chaim Klein observes that the
 common denominator across those meanings is gathering things together, stones to
 kill or threads to make needlework, and that this perhaps suggests Rashi follows
 Raavad's panoply of shades. Ibn Ezra (to Mishlei 26:8) also *seems* to take
@@ -112,8 +112,8 @@ seemingly names an exalted sort of dyed fabric. *Ohalei Yehudah* offers a
 portmanteau of *oreg* (weaving) and *manah* (a respectable portion), *argaman*
 being an important garment in the ancient world; alternatively, and this he
 prefers, *argavan* comprises א-ו-ר (light) with ג-ו-נ (color or appearance), for
-the bright color it denotes. The columnist adds a proposal of his own, that
-*argavan* is a contraction of א-ר-ג with ג-ו-נ, the middle *gimmel* belonging to
+the bright color it denotes. Rabbi Reuven Chaim Klein adds a proposal of his own, that
+*argavan* could be seen as a contraction of א-ר-ג with ג-ו-נ, the middle *gimmel* belonging to
 both etymons. The Midrash (*Bamidbar Rabbah* 12:4) reads *argaman* homiletically
 as the sun, which prepares, literally weaves (*oreg*), different forms of
 sustenance (*man*), or as Hashem, who weaves the world together so that each
@@ -158,7 +158,7 @@ of the Mishkan and Mikdash because it represents the garments of royalty, and
 midrashic Hebrew uses *purpira* for royal clothing, as of Mordechai in *Pirkei
 D'Rabbi Eliezer* ch. 50; various Greco-Roman historians likewise record that
 Tyrian purple was a controlled commodity generally reserved to the royal family.
-That the Greek word is a cognate of English *purple*, the column stresses, does
+That the Greek word is a cognate of English *purple* does
 not mean the clothes in question were the color we call purple.
 
 ### segol (סגול)
@@ -169,7 +169,7 @@ purple-colored flower and later the word for the color itself. The Gemara
 (there) explains as the three-petaled violet. Rabbi Dr. Ernest Klein suggests
 that *siglei* derives from the Aramaic *sigla*, a cluster of grapes, probably
 because the formation and color of grapes on a cluster resemble those of the
-violet flower; the columnist would further argue that *sigla* may itself come
+violet flower; Rabbi Reuven Chaim Klein would further argue that *sigla* may itself come
 from *eshkol*, shin
 interchanging with samech and kaf with gimmel, noting that Targum Yerushalmi
 regularly renders *eshkol* as *sigla*. Rabbi Eliyahu HaBachur (*Meturgaman*)
@@ -178,7 +178,7 @@ notes that *sigla* also names the vowel *segol*, three dots in a cluster.
 ### lilach (לילך)
 The same move again: the lilac flower's name extended to its color. The Academy
 of the Hebrew Language recognizes the modern words for lavender and mauve
-alongside it. All of these are twentieth-century color vocabulary and have no
+alongside it. All of these are Modern Hebrew color vocabulary and have no
 standing in Tanach or Chazal.
 
 ## Rendering guidance

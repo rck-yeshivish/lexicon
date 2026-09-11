@@ -34,10 +34,9 @@ updated: 2026-09-10
 ## Bottom line
 
 *Geshem* and *matar* both mean **rain**, and the authorities split on which is
-the general word and which the specific one. *Yoreh* and *malkosh* are not kinds of rain but
-seasons of it: *yoreh* is **the first rain**, at the start of the rainy season,
-and *malkosh* **the last rain**, in early spring before the harvest. The pasuk
-in Shema (Devarim 11:14) is promising a full year's cycle.
+the general word and which the specific one. *Yoreh* and *malkosh* are rains bound to
+their times: *yoreh* is **the first rain**, at the start of the rainy season,
+and *malkosh* **the last rain**, in early spring before the harvest.
 
 ## At a glance
 
@@ -50,8 +49,8 @@ in Shema (Devarim 11:14) is promising a full year's cycle.
 
 ## Where the authorities disagree
 
-**Which of *geshem* and *matar* is the general term.** The column gives three
-positions without naming their holders.
+**Which of *geshem* and *matar* is the general term.** There are three
+positions, none attributed to a named holder.
 
 1. *Geshem* is the general term for rain of every sort, and *matar* the specific
    one, the "rains of blessing"; a variant of this reads *matar* as heavy rain,
@@ -59,24 +58,23 @@ positions without naming their holders.
    for the hail in Mitzrayim (Shemos 9:18).
 2. The reverse: *matar* is the general term, and *geshem* the specific one, hard
    rain or rain of blessing.
-3. The two differ not in intensity but in origin. *Geshem* is rain by the natural
+3. The two differ in origin. *Geshem* is rain by the natural
    order, vapors held in the clouds until the winds release them, bound to no
    fixed time; this is why later sources borrowed the word for physical matter,
    *gashmiyus*. *Matar* is rain that Hashem brings directly at set times, and the
    times are the *yoreh* and the *malkosh* of Devarim 11:14.
 
-The column does not choose among them.
+Rabbi Klein does not choose among them.
 
 ## Distinctions
 
 Why does Hebrew have so many words for rain? One answer, Rabbi Klein
-says, is simply that rainfall mattered enormously to an agrarian society; but
+says, may simply be that rainfall mattered enormously to an agrarian society; but
 since the words of Hebrew bear intrinsic meanings and the Torah is not a
 thesaurus, there must be a deeper implication to the multiplicity.
 
 ### geshem (גשם) and matar (מטר)
-The two are near enough that every account of them has to be argued from usage
-rather than from form. What is agreed: *geshem* is the more frequent word, and
+*Geshem* is the more frequent word, and
 *matar* is what the pasuk uses in Devarim 11:14 for rain given "in its time,"
 with *yoreh* and *malkosh* named as those times. The derivative *gashmiyus*,
 materiality, belongs to *geshem* alone, and grows out of the third view above,
@@ -86,10 +84,10 @@ that *geshem* is rain by the ordinary running of the world.
 Both are seasonal markers, and Taanis 6a explains each from its own root. *Yoreh*
 (or *moreh*) carries the senses of shooting and of teaching; it is the season's
 first rain, and it teaches people to reinforce their roofs and bring the produce
-indoors before the heavier rains come. *Malkosh* is tied to *mekoshesh*, one who
+indoors before the later rains come. *Malkosh* is tied to *mekoshesh*, one who
 reaps; it falls at the onset of spring, around Pesach, just before the harvest.
 
-### the column's own answer
+### Rabbi Klein's own answer
 Rabbi Klein answers that the different words for
 rain are not simply a product of rain's agricultural importance; they refer to
 different ways in which Hashem provides for the world. Some elements of Creation
