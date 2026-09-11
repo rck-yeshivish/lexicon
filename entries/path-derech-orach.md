@@ -22,7 +22,7 @@ words:
     tr: mesilah
     nk: מְסִלָּה
     en: paved road
-    distinct: a paved road; the making of it, not its width or its traffic, is what sets it apart (given as "is said to refer"; no authority named)
+    distinct: a paved road, said to refer specifically to a paved path (no authority named)
   - he: משעול
     tr: mishol
     nk: מִשְׁעוֹל
@@ -143,14 +143,14 @@ incline, one that goes downwards.
   *netiv*.
 - Where *derech* and *rechov* stand together, keep the scale visible: "road"
   for what runs between towns, "street" for what runs inside one. That is the
-  only distinction the article draws between the two.
+  only distinction drawn between the two.
 - *Mesilah*, *mishol*, *maagal* and *shvil* each carry one added fact and
   should not be flattened to "path": "paved road," "footpath," "circular
   path," and, where the derashah from *shafel* is in play, "the path that goes
   down." Plain "path" for any of them loses the very thing that named it.
 - *Orchos* in a plural of conduct (*orchos tzaddikim*): "paths." The received
   English titles ("Ways of the Righteous," "Paths of the Just") are titles and
-  stay as they are; the article uses them so.
+  stay as they are; Rabbi Klein uses them so.
 - Trap: "path" absorbs both words in English, and "way" drifts to "manner"
   and loses the road altogether. When a pasuk or a derashah sets the two side
   by side (Dan; Mishlei's *derech* and *orach* parallels), the English must

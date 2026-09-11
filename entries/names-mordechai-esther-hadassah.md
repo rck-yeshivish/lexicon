@@ -9,7 +9,7 @@ words:
   - he: מרדכי
     tr: Mordechai
     en: Mordechai
-    distinct: the Babylonian name he is known by, sharing the form of Merodach (Yirmiyahu 50:2); Chullin 139b finds it alluded to in mar dror, which Onkelos renders mira dachya, pure myrrh
+    distinct: the Babylonian name he is known by, similar to Merodach (Yirmiyahu 50:2); Chullin 139b finds it alluded to in mar dror, which Onkelos renders mira dachya, pure myrrh
   - he: פתחיה
     tr: Petachyah
     en: Petachyah
@@ -48,7 +48,7 @@ throughout, **Petachyah** his Hebrew name, **Bilshan**, for the Gemara, a title 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מרדכי | Mordechai | Mordechai | his Babylonian name; alluded to in mar dror, Onkelos's mira dachya (Chullin 139b) |
-| פתחיה | Petachyah | Petachyah | his Hebrew name, for opening and expounding words in seventy languages (Shekalim 5:1) |
+| פתחיה | Petachyah | Petachyah | his Hebrew name, for opening and expounding words, and for knowing seventy languages (Shekalim 5:1) |
 | בלשן | Bilshan | Bilshan | a title, one who blends languages and expounds (Menachos 65a), or a separate man (Ibn Ezra) |
 | אסתר | Esther | Esther | from hiding (Rabbi Yehuda), or from Istahar, the gentiles' name (Rabbi Nechemiah, Vilna Gaon) |
 | הדסה | Hadassah | Hadassah | from hadas, the myrtle, emblem of the righteous (Rabbi Meir, Zechariah 1:8) |
@@ -231,7 +231,7 @@ communities women named Esther are especially careful to keep Taanis Esther.
   it; compare *hu haGoral* (Esther 3:7, 9:24).
 - Where the Gemara plays on a name (*mira dachya*, *haster astir*), keep the Hebrew in
   brackets; these are derashos on sound.
-- Do not write that Mordechai "was named after" a Babylonian deity. The column's
+- Do not write that Mordechai "was named after" a Babylonian deity. Rabbi Klein's
   own formulation is the one to follow: the name and its variants, current in
   Babylonian and Persian society, were rooted in the god's name, but by then one
   bore such a name without being named for an idol.

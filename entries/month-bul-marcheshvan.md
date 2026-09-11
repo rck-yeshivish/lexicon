@@ -13,7 +13,7 @@ words:
   - he: מרחשון
     tr: Marcheshvan
     en: Marcheshvan
-    distinct: the current name, absent from Tanach and first found in Mishnah (Taanis 1:3-4); Rabbi Ernest Klein and Rabbi Dr. Ari Zivotofsky read it as one word meaning "eighth month," against those who parse mar separately
+    distinct: the current name, absent from Tanach but found in the Mishnah (Taanis 1:3-4); Rabbi Ernest Klein and Rabbi Dr. Ari Zivotofsky read it as one word meaning "eighth month," against those who parse mar separately
   - he: מבול
     tr: mabul
     en: flood
@@ -188,7 +188,7 @@ that ended in the exile of the Ten Tribes.
   verse, *b'yerach Bul hu hachodesh hashemini*, and writing "the eighth month" twice erases
   the pasuk's own gloss.
 - Never render Marcheshvan as "bitter Cheshvan": that is one disputed reading of one
-  disputed element, and the column brings poskim on both sides without ruling.
+  disputed element, and poskim are found on both sides, with no ruling between them.
 - *Mabul* is **the Flood** in Bereishis and **flood** elsewhere; *geshem* is **rain**. Do
   not let one English word cover both: they are the same water under two verdicts.
 

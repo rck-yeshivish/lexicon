@@ -14,28 +14,28 @@ words:
   - he: ירד
     tr: Yered
     en: Yered
-    distinct: from yarad, descend: he brought the Torah down, or the Shechinah down; or from radah, to rule (Zevachim 102a); Megillah 13a, the mahn came down in his day
+    distinct: from yarad, descend, for he brought the Torah down, or the Shechinah down; or from radah, to rule (Zevachim 102a); Megillah 13a, the mahn came down in his day
   - he: אבי גדור
     tr: Avigdor
     en: Avigdor
-    distinct: from geder, a fence: father of all who made a fence for the Torah (Avos 1:1); he repaired Israel's breaches by fixing the boundaries of the law (Megillah 13a)
+    distinct: from geder, a fence, as father of all who made a fence for the Torah (Avos 1:1); he repaired Israel's breaches by fixing the boundaries of the law (Megillah 13a)
   - he: חבר
     tr: Chever
     en: Chever
     nk: חֶבֶר
-    distinct: from chibbur, joining: he bound Israel to Hashem, through the Mishkan (Vilna Gaon); or from ע-ב-ר, to pass, punishment made to pass over
+    distinct: from chibbur, joining, since he bound Israel to Hashem, through the Mishkan (Vilna Gaon); or from ע-ב-ר, to pass, punishment made to pass over
   - he: אבי סוכו
     tr: Avi-Socho
     en: Avi-Socho
-    distinct: from socheh, one who sees: father of the nevi'im; or a succah sheltering Israel by his merits (Megillah 13a)
+    distinct: from socheh, one who sees, as father of the nevi'im; or a succah sheltering Israel by his merits (Megillah 13a)
   - he: יקותיאל
     tr: Yekusiel
     en: Yekusiel
-    distinct: from tikvah, hope: he made Hashem the hope of Israel, above all through the daily mahn (Vilna Gaon)
+    distinct: from tikvah, hope, since he made Hashem the hope of Israel, above all through the daily mahn (Vilna Gaon)
   - he: אבי זנוח
     tr: Avi-Zanoach
     en: Avi-Zanoach
-    distinct: from ז-נ-ח, to forsake: father of those who forsook avodah zarah; the Vilna Gaon ties it to the atonement after the meraglim
+    distinct: from ז-נ-ח, to forsake, as father of those who forsook avodah zarah; the Vilna Gaon ties it to the atonement after the meraglim
 sources:
   - wiaw:9503 "Moses' Many Names" (2021-12-25) https://articles.ohr.edu/articles/moses-many-names
 authorities: [Vayikra Rabbah, Shemos Rabbah, Radak, Vilna Gaon, Targum Rav Yosef, Ibn Ezra, Rabbi Chaim Shmuelevitz, Rabbi Gedaliah Ibn Yachya, Rabbi Moshe Teitelbaum, Rabbi Chanoch Henoch Teitelbaum of Sassov, Zayis Raanan, Dr. Alexander Beider]
@@ -165,11 +165,11 @@ Eigel (Shemos 32:32).
   Kalev by his "Jewish" wife: Yered father of Gedor, Chever father of Socho, and
   Yekusiel father of Zanoach. Chazal teach that the whole of Divrei HaYamim is
   written for derashah and is not to be read literally (*Vayikra Rabbah* 1:3),
-  and the Midrash reads all three as Moshe, a reading the column says is bolstered
+  and the Midrash reads all three as Moshe, a reading Rabbi Klein says is bolstered
   by Basyah's appearing at the end of that very passage. Do not present the
   Midrash as the pshat.
 - On whether the name Moshe is a Hebrew rendering of the Egyptian names Monius or
-  Mosh, the column raises the question and refers the reader to its author's own
+  Mosh, Rabbi Klein raises the question and refers the reader to his own
   *Lashon HaKodesh: History, Holiness, & Hebrew*, Appendix B, rather than
   settling it.
 

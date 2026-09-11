@@ -18,11 +18,11 @@ words:
   - he: לאום
     tr: leom
     en: nation by religion, kingdom
-    distinct: people joined by a shared religion, which can span several kingdoms (Malbim, from the Midrash); a family or clan within a larger nation, cognate to em, mother (Edel)
+    distinct: people joined by a shared religion, which can span several kingdoms (Malbim, from the Midrash); a family or clan within a larger nation (Edel), the word probably tied to em, mother
   - he: אומה
     tr: umah
     en: nation under one crown
-    distinct: paired with leom against goy as a nation that does have a single king (Rabbi Yoel Ibn Shuaib); Rashi, citing Ibn Saruk, groups leomim, umim, and goyim as near synonyms
+    distinct: paired with leom against goy as a nation that does have a single king (Rabbi Yoel Ibn Shuaib); Rashi, citing Ibn Saruk, treats leomim, umim, and goyim as very close in meaning
 sources:
   - wiaw:7491 "The Unaffiliated Nations" (2017-11-18) https://articles.ohr.edu/articles/the-unaffiliated-nations
 authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Wolf Heidenheim, Rabbi Yoel Ibn Shuaib, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rabbi Eliyahu Mizrachi, Rabbi Shlomo Ibn Melech, Radak, Rabbeinu Yonah]

@@ -85,7 +85,7 @@ Rabbi Klein notes a difficulty: Aramaic *idan* and *idana* begin with an
   words, the English is unchanged; the dispute is over the text, not the sense.
 - Trap: English "now" absorbs every word on this list. Where a passage sets two
   of them against each other, keep the Hebrew and gloss it rather than inventing
-  an English contrast; the column does not distinguish the four Aramaic words
+  an English contrast; Rabbi Klein does not distinguish the four Aramaic words
   from one another in sense, only in etymology.
 - Second trap: never render a pasuk's *atah* with *achshav* in a Hebrew
   paraphrase, or a mishnah's *achshav* with *atah*. The stratum is itself

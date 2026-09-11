@@ -13,12 +13,12 @@ words:
   - he: שרון
     tr: sharon
     en: fertile plain
-    distinct: not any plain but one saturated with rich soil and fit for farming (Radak); Rabbi Shlomo Pappenheim makes it a plain set off against a nearby mountain; in Tanach the proper name of the coastal plain in at least some cases, if not all
+    distinct: not any plain but one saturated with rich soil and fit for farming (Radak); Rabbi Shlomo Pappenheim makes it a plain set off against a nearby mountain; in Tanach the proper name of a specific region in at least some cases, if not all
   - he: איל
     tr: eil
     en: plain (fertile)
     nk: אֵיל
-    distinct: three readings: a common noun for plain (Onkelos), the proper name of a particular plain (Rashi), or wooded land before a city (Ramban); Mecklenburg makes it the fecund plain against mishor's bare one
+    distinct: three readings, a common noun for plain (Onkelos), the proper name of a particular plain (Rashi), or wooded land before a city (Ramban); Mecklenburg makes it the fecund plain against mishor, which may be bare
   - he: ככר
     tr: kikar
     en: grassland plain
@@ -31,7 +31,7 @@ words:
   - he: פדן
     tr: padan
     en: field, plain
-    distinct: the Aramaic of sadeh, which Shadal proves from Hoshea calling the same place Sdeh Aram; Rashi and Ibn Ezra render it plain or field
+    distinct: Aramaic for sadeh (Shadal), which for Rabbi Reuven Chaim Klein fits Hoshea's calling the same place Sdeh Aram; Rashi and Ibn Ezra gloss it as the same as sadeh, field
 sources:
   - wiaw:11608 "Vayeitzei: Name of the Plain" (2024-12-07) https://articles.ohr.edu/articles/vayeitzei-name-of-the-plain
 authorities: [Rashi, Ibn Ezra, Targum Onkelos, Bereishis Rabbah, Ramban, Ibn Janach, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Rabbi Shmuel Masnuth, Rabbi Hai Gaon, Sefer HaAruch, Rabbi Shlomo of Urbino, Rambam, Rabbi Yishaya of Trani, Rabbi Yosef Kara, pseudo-Rashbam, Shadal, Rabbi David Tzvi Hoffmann, Rabbi Ernest Klein, Rabbi Aharon Marcus, Even-Shoshan concordance]

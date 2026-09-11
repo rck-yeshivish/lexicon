@@ -142,8 +142,8 @@ that is, a fortress or stronghold. The two often converge in one building, but
   **mansion**, and where Rashi's triclinium is meant, "banquet room."
 - *Zvul*: in a pasuk about the Mikdash, **abode** or "lofty abode," and in
   Chavakuk 3:11 "their dwelling place." Not "palace," which loses Rav Hirsch's
-  point that the word means a fitting dwelling and not a grand one. The column
-  does not place *zvul* against the other four, so do not build a contrast
+  point that the word means a fitting dwelling and not a grand one. Rabbi Reuven
+  Chaim Klein does not place *zvul* against the other four, so do not build a contrast
   between them into a translation.
 - Trap: English "palace" will absorb *armon*, *apadna*, *paltin*, and even
   *zvul*. Where two of them stand in one passage, keep "palace" for the

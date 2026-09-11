@@ -14,7 +14,7 @@ words:
     tr: Yisrael
     en: Yisrael
     nk: יִשְׂרָאֵל
-    distinct: given after he prevailed over the angel, from sar, to lord over (Bereishis 32:29, printed in the article as 32:30); an added name, not a replacement (Rabbeinu Bachya), and used of him as founder of the nation (Maharal, Rav Hirsch). Chasam Sofer parses it yashar plus El, a straightness reached with Divine help
+    distinct: given after he prevailed over the angel, from sar, to lord over (Bereishis 32:29); an added name, not a replacement (Rabbeinu Bachya), and used of him as founder of the nation (Maharal, Rav Hirsch). Chasam Sofer parses it yashar plus El, a straightness reached with Divine help
   - he: ישורון
     tr: Yeshurun
     en: Yeshurun

@@ -65,8 +65,20 @@ def front_matter(text):
             elif val == "":
                 fm[key] = []
             else:
-                fm[key] = val
+                fm[key] = unquote(val)
     return fm
+
+
+def unquote(v):
+    """A YAML scalar written wholly in quotes loses them, as a YAML reader would
+    drop them; quotes that are part of the text ("Canaanite" used for...) stay."""
+    m = re.fullmatch(r'"((?:[^"\\]|\\.)*)"', v)
+    if m:
+        return re.sub(r'\\(.)', r'\1', m.group(1))
+    m = re.fullmatch(r"'((?:[^']|'')*)'", v)
+    if m:
+        return m.group(1).replace("''", "'")
+    return v
 
 
 def word_block(text):
@@ -79,11 +91,11 @@ def word_block(text):
         if mm:
             if cur:
                 items.append(cur)
-            cur = {mm.group(1): mm.group(2).strip()}
+            cur = {mm.group(1): unquote(mm.group(2).strip())}
             continue
         mm = re.match(r"^\s+(\w+):\s*(.*)$", line)
         if mm and cur is not None:
-            cur[mm.group(1)] = mm.group(2).strip()
+            cur[mm.group(1)] = unquote(mm.group(2).strip())
     if cur:
         items.append(cur)
     return [i for i in items if i.get("he")]

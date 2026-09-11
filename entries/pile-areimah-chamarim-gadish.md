@@ -100,15 +100,15 @@ a received distinction.
   (892-942), and Ibn Ezra in both of his commentaries to Shemos, all read it from
   *areimah*. Targum Onkelos renders *chakimu mayim*, "the waters became smart,"
   and this also seems to be Rashi's preferred reading; Chizkuni clarifies that the
-  waters were intelligent enough to pursue the Egyptians and drown them (the
-  column adds that this has nothing to do with added electrolytes), Rabbi Chaim
+  waters were intelligent enough to pursue the Egyptians and drown them (Rabbi
+  Klein adds that this has nothing to do with added electrolytes), Rabbi Chaim
   Paltiel that they could tell Jew from Egyptian, and the Tosafistic *Sefer
   HaGan* that they suddenly gained the knowledge to sing Hashem's praise alongside
   the Jews. Donash Ibn Librat (920-985) objected to Rasag's reading, but there is
   an omission in the printed text of his work and his own preferred explanation is
   missing; Ibn Ezra, whose *Sefas Yeser* defends Rasag against Donash, records
   only that Donash differs and that his reading should be considered *drash*
-  rather than *pshat*, and the column ventures its own guess that Donash may have
+  rather than *pshat*, and Rabbi Klein ventures his own guess that Donash may have
   preferred the Onkelos and Rashi approach. A third reading, in *Esther Rabbah*
   3:15, hears *arum* ("naked") in the word: one opinion there says Hashem strips
   the wicked of their outer clothes in Gehinnom, and another adds that He punished

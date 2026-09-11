@@ -10,7 +10,7 @@ words:
     tr: Shlomo
     en: Shlomo
     nk: שְׁלֹמֹה
-    distinct: from shalem, complete, since he saw the Beis HaMikdash completed (the Midrash), or from shalom, since peace prevailed in his reign (Targum Sheini, on Divrei HaYamim I 22:9); given by his parents, and by prophecy before his birth
+    distinct: from shalem, complete, since he saw the Beis HaMikdash completed (the Midrash), or from shalom, since peace prevailed in his reign (Targum Sheini, as the prophecy of Divrei HaYamim I 22:9 puts it); given by his parents, and by prophecy before his birth
   - he: ידידיה
     tr: Yedidyah
     en: Yedidyah, friend of Hashem
@@ -18,7 +18,7 @@ words:
   - he: קהלת
     tr: Koheles
     en: Koheles
-    distinct: from hakhel and kahal: because his teachings were said in gatherings, "then Shlomo gathered" (Melachim I 8:1), or because he gathered up many kinds of wisdom (Rashi to Koheles 1:1)
+    distinct: from hakhel and kahal, because his teachings were said in gatherings, "then Shlomo gathered" (Melachim I 8:1), or because he gathered up many kinds of wisdom (Rashi to Koheles 1:1)
   - he: אגור
     tr: Agur
     en: Agur
@@ -30,11 +30,11 @@ words:
   - he: איתיאל
     tr: Isiel
     en: Isiel (Itiel)
-    distinct: at Mishlei 30:1; read as iti, with me, plus el, power: "with me is the power" not to be harmed by the horses, silver and wives a king is warned against (the Midrash on Devarim 17:16-17)
+    distinct: at Mishlei 30:1; read as iti, with me, plus el, power, "with me is the power" not to be harmed by the horses, silver and wives a king is warned against (the Midrash on Devarim 17:16-17)
   - he: למואל
     tr: Lemuel
     en: Lemuel
-    distinct: at Mishlei 31:1 (Lemoel at 31:4); nam la'El, he spoke to Hashem, with NUN turning to LAMED as dentals do (the Midrash), against the positive readings of Ibn Ezra, Ralbag and Rashi
+    distinct: at Mishlei 31:1 (Lemoel at 31:4); nam la'El, he spoke to Hashem (the Midrash), the commentaries explaining NUN turning to LAMED as dentals do; against the positive readings of Ibn Ezra, Ralbag and Rashi
   - he: עלוקה
     tr: Alukah
     en: Alukah
@@ -160,7 +160,7 @@ of him. *Lemuel* records the same reasoning as speech addressed to Hashem, and
   on which word a given name is built from. Where both names appear, keep
   *Koheles* to assembling people and *Agur* to amassing wisdom.
 - *Yedidyah* is best left transliterated with a gloss at first mention, "friend
-  of Hashem", which is how the column renders it; the Anglicised "Jedidiah" reads
+  of Hashem", which is how Rabbi Klein renders it; the Anglicised "Jedidiah" reads
   foreign.
 - Where a passage plays *heikiah* against *Yakeh*, English needs the same verb
   twice: "spat out" for both, or the wordplay disappears.

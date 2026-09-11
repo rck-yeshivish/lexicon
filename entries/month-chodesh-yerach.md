@@ -14,12 +14,12 @@ words:
     tr: yerach
     en: month (the full span)
     nk: יֶרַח
-    distinct: for Malbim simply a period of thirty days, whether or not the moon is in view; in truth kin to yareach, the moon, and so the whole month rather than its start; Rav Hirsch: the month as a vehicle of ripening, time in its physical, natural aspect
+    distinct: for Malbim simply a period of thirty days, whether or not it answers to any lunar event; for Rabbi Klein kin to yareach, the moon, and so the whole month rather than its start; for Rav Hirsch, the month as a vehicle of ripening, time in its physical, natural aspect
   - he: ירח
     tr: yareach
     en: moon
     nk: יָרֵחַ
-    distinct: the luminary whose cycle fixes the month's length, and the word behind yerach
+    distinct: the luminary whose cycle helps fix the month's length, and for Rabbi Klein the word behind yerach
 sources:
   - wiaw:7687 "Old Month versus New Month" (2018-03-17) https://articles.ohr.edu/articles/old-month-versus-new-month
 authorities: [Malbim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Mordechai Jaffe]
@@ -46,7 +46,7 @@ month. Practically: by custom a *kesubah* says *chodesh* and a *get* says *yerac
 |---|---|---|---|
 | חדש | chodesh | month; new moon | properly the month's beginning; from chadash, new (Malbim, Rav Hirsch) |
 | ירח | yerach | month (whole span) | thirty days as a stretch (Malbim); the ripening month (Rav Hirsch) |
-| ירח | yareach | moon | the luminary itself, and the root of yerach |
+| ירח | yareach | moon | the luminary itself, to which yerach is related (Rabbi Klein) |
 
 ## Where the authorities disagree
 

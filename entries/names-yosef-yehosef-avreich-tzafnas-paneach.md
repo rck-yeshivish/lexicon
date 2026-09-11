@@ -21,7 +21,7 @@ words:
   - he: אברך
     tr: avreich
     en: father to the king / young sage
-    distinct: three readings: av plus reich, father to the king (Onkelos, Rashi's first); av plus rach, a father in wisdom though young in years (Bereishis Rabbah); or from berech, one before whom all kneel (Sifrei)
+    distinct: three readings, av plus reich, father to the king (Onkelos, Rashi's first); av plus rach, a father in wisdom though young in years (Bereishis Rabbah); or from berech, one before whom all kneel (Sifrei)
   - he: רך
     tr: rach
     en: soft, young / royal

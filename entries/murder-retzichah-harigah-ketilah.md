@@ -9,7 +9,7 @@ words:
   - he: רציחה
     tr: retzichah
     en: murder
-    distinct: killing with no legal warrant, the word carrying a verdict on the killer (Rashbam, Rabbi Pappenheim); of people only, never animals or plants (Bedersi), and of the one whose own hand did it
+    distinct: killing with no legal warrant, the word carrying a verdict on the killer (Rashbam, Rabbi Pappenheim); of people only, never animals or plants (Bedersi); for Bedersi, against Abarbanel, only of the one whose own hand did it
   - he: הריגה
     tr: harigah
     en: killing, slaying
@@ -17,7 +17,7 @@ words:
   - he: קטילה
     tr: ketilah
     en: killing (Aramaic); striking down
-    distinct: the Targumim's word for both Hebrew terms, and the ordinary Aramaic verb; in Hebrew Rabbi Pappenheim limits it to striking a man to the verge of death, and its Talmudic sense of "cutting" may be its core
+    distinct: the Targumim's word for both Hebrew terms, and the ordinary Aramaic verb; in Hebrew Rabbi Pappenheim limits it to striking a man to the verge of death, and its Talmudic sense of "cutting" may, Rabbi Klein suggests, be its core
   - he: מיתה
     nk: מִיתָה
 sources:
@@ -43,7 +43,7 @@ plants.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| רציחה | retzichah | murder | unlawful by definition (Rashbam); humans only (Bedersi); by one's own hand |
+| רציחה | retzichah | murder | unlawful by definition (Rashbam); humans only (Bedersi); by one's own hand (Bedersi; Abarbanel disagrees) |
 | הריגה | harigah | killing, slaying | value-free (Rashbam, Pappenheim); includes indirect killing and animals (Bedersi) |
 | קטילה | ketilah | killing (Aramaic) | the Targum's rendering of both; "cutting" in some sugyos; Hebrew usage disputed |
 
