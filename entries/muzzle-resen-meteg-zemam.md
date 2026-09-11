@@ -144,7 +144,7 @@ Targum Yonasan to Bamidbar 19:2).
   Nirdafim* reverses it rather than silently picking a side.
 - Trap: English "bridle" will happily swallow *resen*, *meteg*, *prumbia* and
   *afsar* at once. Where a passage turns on the difference (a Mishnah listing
-  the gear, a derashah on Balak 23:16), pick a distinct English word per Hebrew
+  the gear, a derashah on Bamidbar 23:16), pick a distinct English word per Hebrew
   word and hold it for the whole passage.
 - Bamidbar 23:16, *vayasem davar b'fiv*: with Rashi and *Bamidbar Rabbah* 20:20
   the *davar* is a *resen*, so render "a bit in his mouth" and gloss it as the

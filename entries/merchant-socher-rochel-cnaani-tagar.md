@@ -17,7 +17,7 @@ words:
   - he: כנעני
     tr: cnaani
     en: trader
-    distinct: "Canaanite" used for "merchant" (Pesachim 50a; Rashi and Radak to Yeshayahu 23:8); Malbim places him between the socher and the rochel
+    distinct: '"Canaanite" used for "merchant" (Pesachim 50a; Rashi and Radak to Yeshayahu 23:8); Malbim places him between the socher and the rochel'
   - he: תגר
     tr: tagar
     en: merchant (Aramaic)
