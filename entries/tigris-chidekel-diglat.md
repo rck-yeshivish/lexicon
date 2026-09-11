@@ -66,7 +66,7 @@ and trading kuf for gimmel.
 
 **What "sharp and light" describes.** *Torah Temimah* (to Bereishis 2:14): the water
 itself, sharp in taste and light, not hard on the body and weighing less than water
-from elsewhere (perhaps, Rabbi Klein wonders, for having fewer minerals). Rabbi Refael
+from elsewhere (perhaps, Rabbi Reuven Chaim Klein wonders, for having fewer minerals). Rabbi Refael
 Mamo (*Shevo V'Achlamah* to Berachos 59b): the current, which runs fast where the
 Euphrates runs slow, since in Chazal's idiom whatever works fast is called sharp, as a
 sharp knife cuts quickly.

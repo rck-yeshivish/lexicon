@@ -110,7 +110,7 @@ because its contents generally provide sustenance and nourishment.
 specifically a wicker basket (Shabbos 2:2; Sotah 2:1, 3:1; Keilim 26:1).
 
 Eight more appear in the Gemara. How they differ is not readily apparent and no
-commentator addresses it, so Rabbi Klein reads them from context clues:
+commentator addresses it, so Rabbi Reuven Chaim Klein reads them from context clues:
 
 - *dikula* (Chullin 32b) seems to be a basket made from the bast of a *dekel*, a
   palm tree (see Rashi to Shabbos 90b).

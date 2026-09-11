@@ -44,7 +44,7 @@ chewing dry pepper or ginger on Yom Kippur, which Rava holds is not biblically
 Rashi gives two definitions. To Megillah 7b, Kesubos 77a, Berachos 36b, Yoma
 81a and Chullin 15a: *kesisah* is eating in any abnormal or non-standard way.
 (Maharsha to Megillah 7b suggests the plate there may simply have been edible.)
-To Beitzah 26b: whatever can be eaten raw, eating it raw is *koses*. Rabbi
+To Beitzah 26b: whatever can be eaten raw, eating it raw is *koses*. Rabbi Reuven Chaim
 Klein calls this second one a slightly different definition.
 
 Etymology: several philologists, among them Dr. Asher Weiser and Rabbi Yaakov
@@ -122,7 +122,7 @@ to be a native Hebrew word, *lo'es* seems to be a loanword from Aramaic, so
 their overlap would not be superfluity.
 
 Members of the Mazuz family of Tunisia seem to presume a real difference,
-though Rabbi Klein grants that it is hard to substantiate and hard even to say
+though Rabbi Reuven Chaim Klein grants that it is hard to substantiate and hard even to say
 exactly what it means. Rabbi Matzliach Mazuz (*Ish Matzliach* vol. 2, *Orach
 Chaim* 47), discussing at length whether *pilpel* is the common pepper, black
 pepper, or both, raises how the use of *kas* rather than *lo'es* for chewing

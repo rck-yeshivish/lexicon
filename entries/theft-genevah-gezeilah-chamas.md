@@ -78,7 +78,7 @@ same, robbery taking one possession while leaving the rest intact. Similarly, Ra
 from the nest severs its bond with its mother as theft severs the bond between
 an object and its owner.
 
-Mnemonic, from Rabbi Klein's fifth-grade rebbi, Rabbi A. Y. Berman: the *gaNav*
+Mnemonic, from Rabbi Reuven Chaim Klein's fifth-grade rebbi, Rabbi A. Y. Berman: the *gaNav*
 steals at **N**ight, when nobody is looking, the *gazLan* in the **L**ight.
 
 ### chamas (חמס)

@@ -72,7 +72,7 @@ megillos; the Vilna Gaon (*Biur HaGra* to *Orach Chaim* 490) nonetheless adopts
 that practice, still followed in many communities in Eretz Yisrael.
 
 The claim that a *sefer* rolls on two wooden pins and a *megillah* on one is
-untraced: Rabbi Klein reports that he understood the difference that way from
+untraced: Rabbi Reuven Chaim Klein reports that he understood the difference that way from
 childhood, that he later looked for a source and came up empty-handed, and that he would welcome one.
 
 ### iggeret (אגרת)
@@ -122,7 +122,7 @@ a short-lived first home; Rabbi Shlomo Pappenheim offers a similar understanding
 a document moved about a province so as to publicize its contents thoroughly,
 which is closer still to Rabbi Faur. Rabbi Shlomo Aharon
 Wertheimer derives it instead from *agur*, a collection stored long term, so an
-*iggeret* is a document meant to be preserved, which on the surface, Rabbi Klein
+*iggeret* is a document meant to be preserved, which on the surface, Rabbi Reuven Chaim Klein
 says, seems to contradict Rabbi Faur and Rabbi Soloveitchik.
 
 Malbim's summary is the compact one: an *iggeret* is a document

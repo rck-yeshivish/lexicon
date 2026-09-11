@@ -151,7 +151,7 @@ too. On that basis he says it seems cogent to assume that *nakah* for
 the female camel likewise relates to nursing, hers being the camel from which
 other camels nurse.
 
-Rabbi Klein's own explanation is that both
+Rabbi Reuven Chaim Klein's own explanation is that both
 Hebrew terms for the camel carry a tie to nursing: the female word straight from
 nursing, the male word from weaning, the move away from it, which is the thing
 the male camel does not do. He suggests this may arise from the animal's

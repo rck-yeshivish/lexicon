@@ -61,7 +61,7 @@ Chaim Kanievsky, and appears to stand in *Mechilta d'Rashbi* and the Yemenite
 Several further routes to the etymology have been offered, all of them as
 conjecture. Rabbi Dr. Ernest Klein conjectures that *chamush* relates to
 five in the sense of a military formation divided in five parts, van, body,
-rear and two flanks. Rabbi Klein adds his own suggestion: the most basic
+rear and two flanks. Rabbi Reuven Chaim Klein adds his own suggestion: the most basic
 weapon a man has is his own fist, which has five fingers, so a word for one
 bearing a weapon might well be tied to five. The German philologist Wilhelm
 Gesenius (1786 to 1842) sees Hebrew *chamush* as related to the Arabic *hamas*,
@@ -100,7 +100,7 @@ from the body part: weapons are often fastened at the loins. Radak (*Sefer
 HaShorashim*) accepts that and adds the removal sense: fighting men are
 figuratively removed from the rest of the nation by being designated as
 soldiers. Rabbi Shlomo Pappenheim narrows it: *chalutzim* are the units
-extracted from the formation to serve at the front, ahead of the army. Rabbi
+extracted from the formation to serve at the front, ahead of the army. Rabbi Reuven Chaim
 Klein proposes a further possibility of his own, that *chalutzim* are those
 who have drawn their weapon from its holder or sheath, or are ready to do so at
 a moment's notice, while noting that he has found no philologist who says so
@@ -118,7 +118,7 @@ soldiers arrayed in formations of fifty, hence the tie to *chamesh*, while
 *chalutzim* are men slipped off and separated from the rest of the nation.
 Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim* 22) accepts Malbim on
 *chalutzim* but explains *chamushim* by the grammarians' route, men armed at
-the *chomesh*. If both words are named for a body part, Rabbi Klein observes,
+the *chomesh*. If both words are named for a body part, Rabbi Reuven Chaim Klein observes,
 they differ only in which one.
 
 ### mezuyan (מזוין)
@@ -162,7 +162,7 @@ drawing a sword empties its sheath, and readiness to do so is a fighter's edge.
 *Vayikra Rabbah* 25:4 gives the counterweight: Avraham's victories came "not
 through a *zayin* and not through a shield (*magen*), but through tefillah and
 supplication." Tehillim 91, said against every sort of danger and especially
-for soldiers at war, contains no letter zayin, which Rabbi Klein reads as an
+for soldiers at war, contains no letter zayin, which Rabbi Reuven Chaim Klein reads as an
 allusion to the idea that one who can draw on the power of tefillah has no need
 of physical weapons.
 

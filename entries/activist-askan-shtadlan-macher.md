@@ -89,7 +89,7 @@ other, using *esek* itself to define *shadal*. But the Targum to Yechezkel 38:4
 and Rus 2:19 uses *shadal* for any sort of attempt or effort, whether or not a
 second party is being worked on, which is the sense of the ordinary
 *hishtadlus*, and of *hishtadel lihyos ish* (Avos 2:5, and see 4:18) and
-*yishtadel adam* (Berachos 58a). To Rabbi Klein it seems that "attempting" is
+*yishtadel adam* (Berachos 58a). To Rabbi Reuven Chaim Klein it seems that "attempting" is
 the base, with persuading, rebelling, and fighting derived from it, since each
 is a matter of not backing down.
 
@@ -128,7 +128,7 @@ Tanach itself. Sforno (to Bereishis 26:20) reads the shepherds' *his'asku* as
 *hishtadlu*, that they were trying to talk Yitzchak's men out of the well,
 which is the bridge from *esek* to *shtadlanus*. A *shtadlan*, then, is one
 whose work is to work on others. (A homograph: the Italian scholar R. Shmuel
-Dovid Luzzatto, 1800-1865, whom Rabbi Klein calls controversial, is sometimes
+Dovid Luzzatto, 1800-1865, whom Rabbi Reuven Chaim Klein calls controversial, is sometimes
 known by his initials as Shadal.)
 
 ### shadar (שדר)

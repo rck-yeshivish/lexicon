@@ -72,7 +72,7 @@ potsherd). Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah* to Devarim 28:27
 same pasuk and still holds explicitly that *cheres* is a dry *garav*, which is why a dry
 shard suits it for scratching, while separately suggesting that perhaps *cheres* is a skin
 affliction brought on by bad climate, related to the sun's power over one's environment;
-Rabbi Klein wonders whether that means sunburn, noting that Mecklenburg does not say so.
+Rabbi Reuven Chaim Klein wonders whether that means sunburn, noting that Mecklenburg does not say so.
 Ibn Saruk, Ibn Janach and Radak intimate no connection at all between the two senses of
 ח-ר-ס.
 
@@ -109,7 +109,7 @@ Three occurrences, all in Chumash: Devarim 28:27, and Vayikra 21:20 and
 22:22, where it disqualifies a Kohen from the avodah and an animal from the mizbeach.
 The same triliteral ג-ר-ב seemingly gives two proper names, Garev, one of David's warriors
 (Shmuel II 23:38; Divrei HaYamim I 11:40), and Givat Garev, a hill outside the walls of
-Yerushalayim (Yirmiyahu 31:38); Rabbi Klein says he has no deeper onomastic insight into
+Yerushalayim (Yirmiyahu 31:38); Rabbi Reuven Chaim Klein says he has no deeper onomastic insight into
 either. In Mishnaic Hebrew the root yields *garav*, a vessel for storing liquids, a barrel
 or jug (Terumos 10:8), and in modern Hebrew *gerev*, plural *garbayim*, a sock (*anpilyaos*
 in rabbinic parlance), which has been connected to the obscure English "greave," leg armor;
@@ -137,7 +137,7 @@ skin that can never be removed.
 Shemos 9:9-10 only. Bechoros 41a proves from this word that the Egyptian boils were
 moist on the outside, and Rashi explains why: the root is ב-ע (so Ibn Saruk classifies it),
 bubbling forth, which implies a moist exterior. In modern Hebrew chickenpox is *avabuos
-ruach*. Rabbi Klein reports that he used to think the English "bubble," "burble," "buoy"
+ruach*. Rabbi Reuven Chaim Klein reports that he used to think the English "bubble," "burble," "buoy"
 and "bubonic" belonged to this Hebrew root, but that most etymologists take those as
 onomatopoeic for something swollen and distended.
 

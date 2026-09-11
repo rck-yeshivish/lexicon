@@ -105,7 +105,7 @@ its target. The Targumim render *zerikah* with the cognate ז-ר-ק but render
 Aramaic the ר-ם root seems to mean what *hashlachah* means, perhaps the lifting of an object in
 order to throw it.
 
-Rabbi Klein's conclusion: *hashlachah* and *zerikah* are the two basic words;
+Rabbi Reuven Chaim Klein's conclusion: *hashlachah* and *zerikah* are the two basic words;
 *hazayah* and *ramah* are like *zerikah* with a twist, *hazayah* throwing long
 distance and/or by hand, *ramah* throwing upward to land on target.
 
@@ -121,7 +121,7 @@ distance and/or by hand, *ramah* throwing upward to land on target.
 - Moshe and the Luchos: if the passage follows Rashbam (as Rabbi Hartman reads
   him), "he let the Luchos drop" is the reading the Hebrew supports; "hurled"
   contradicts it.
-- *Zerikas hadam* and *hazayah* in a *korbanos* context: Rabbi Klein calls
+- *Zerikas hadam* and *hazayah* in a *korbanos* context: Rabbi Reuven Chaim Klein calls
   *zerikas hadam* "sprinkling," but in a passage that lists both, keep them
   apart, "throwing" or "dashing" the blood for *zerikah* and "sprinkling" for
   *hazayah* (a judgment call); one English "sprinkle" for both loses the
