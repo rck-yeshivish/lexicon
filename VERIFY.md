@@ -97,6 +97,15 @@ For one entry, with its source article open beside it:
   the essay" line must carry the correct locus, checked against the text
   itself. Where no correct locus can be established, the impossible one comes
   out.
+- **Tell the content; do not narrate the essay.** "The column opens with",
+  "closes with a story", "turns to", "the column's opening question" walk the
+  reader through the essay instead of telling them what it says. A story, a
+  verse, a parallel or an authority's view is simply stated: "Rabbi Dr. Norman
+  Lamm is reported to have answered", not "The column closes with a story:
+  Rabbi Lamm…". The exception is Rabbi Klein's own conclusion or suggestion
+  where other views exist: that keeps its attribution, or it reads as settled
+  fact, but it is attributed to him as a person holding a view, "Rabbi Klein
+  concludes", as the entry would attribute Malbim.
 - **The Sources section is a citation and a list of loci. Nothing else.** It
   reads, in full:
 
