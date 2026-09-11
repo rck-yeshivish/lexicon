@@ -73,28 +73,23 @@ For one entry, with its source article open beside it:
 
 ## What an entry must not contain
 
-- **The Bottom line explains the words. It is never written from a
-  translator's point of view.** It is the first thing on every page, and a
-  reader comes to it to learn what the words mean and how they differ. So it
-  says what each word means and how it differs from the others, and that is its
-  whole subject. It does not discuss how to translate them: nothing about
-  rendering, transliterating, roman or italic type, what to keep untranslated,
-  or what a translator must get right. That advice belongs in Rendering
-  guidance, and moves there rather than being lost. This is a change of focus,
-  not of length: keep every distinction, reading, name and hedge the Bottom line
-  carries, and do not shorten it for its own sake. Keep the bold on the key
-  English meanings. Where the authorities disagree on the central distinction,
-  the Bottom line keeps saying so without choosing a side. The model the site's
-  owner approved:
+- **Nothing outside Rendering guidance tells anyone how to translate.** The
+  site's owner does not want that focus on the platform. In the Bottom line,
+  Distinctions, Where the authorities disagree, At a glance and every other
+  section except Rendering guidance, keep what a sentence says about the words
+  and delete what it tells someone to do. "What a translator must get right is
+  that they are not interchangeable" becomes "they are not interchangeable"; "do
+  not smooth it to one name", "in roman type", "keep it untranslated" and
+  "render it as" simply go. Nothing is moved into Rendering guidance, which
+  already carries the translator's advice and stays as it is. This removes a
+  focus, not content: every distinction, reading, name and hedge about the
+  words themselves stays.
+- **Rendering guidance is left as it is, except for project framing.** It is
+  the one place translation advice belongs, collapsed by default under "For
+  translators". Only remove wording that assumes a particular project: "in a
+  mussar sefer", "inside / within a chapter", "the sefer", "house form / style",
+  "the Alter".
 
-      Yaakov, Yisrael and Yeshurun all name the same Patriarch, and each shows
-      him in a different light. *Yaakov* is the man himself, and in the Ohr
-      HaChaim's reading, the man at a low moment. *Yisrael*, given after he
-      prevailed over the angel, is the man as founder of the nation; Rabbeinu
-      Bachya stresses it is an added name, not a replacement. *Yeshurun* is a
-      rare title of praise, found only four times in all Tanach, built on
-      *yashar*, upright, and the Ramban reads it as an answer to Esav's charge
-      that the name Yaakov means crooked dealing.
 - **The Sources section is a citation and a list of loci. Nothing else.** It
   reads, in full:
 
@@ -111,14 +106,6 @@ For one entry, with its source article open beside it:
   something as it does, not what the article misprints or fails to specify, not
   archive details, and never an internal file path. Where the article misprints
   a locus, the body and the loci list simply give the right one.
-- **No project-specific framing in Rendering guidance.** This guide serves any
-  translation. Do not assume the reader is translating a mussar sefer, working
-  chapter by chapter, or following a house style. "Bakashah standing alone in a
-  mussar sefer usually means the asking part of davening; stay consistent inside
-  a chapter" should be "Bakashah standing alone usually means the petitionary
-  part of davening: request or petition." A project's own rulings belong in that
-  project's overlay file, never here.
-
 ## Marking
 
 When an entry has been through this pass and its claims trace to the article,
