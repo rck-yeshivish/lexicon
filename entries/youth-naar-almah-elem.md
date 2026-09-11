@@ -146,7 +146,7 @@ and mother called her a *naarah* (24:55).
 
 Miriam too is called an *almah* (Shemos 2:8), when she watched over Moshe at the
 Nile and he was saved by Pharaoh's daughter. She was about six (*Shemos Rabbah*
-1:13 gives her age as five at Pharaoh's earlier decree to the midwives). That
+1:13). That
 seems too young for the technical sense of *almah*, where *yaldah* would fit
 better, as the Gemara (Sotah 12b) evidently felt in reaching for derashos: she
 was called *almah* because she hid the fact that she was Moshe's sister, or

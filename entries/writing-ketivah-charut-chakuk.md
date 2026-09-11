@@ -35,9 +35,7 @@ the letters stand out (*Gittin* 20a). Aramaic *galif*, Targum's word for
 *pituchei chosam*, Rabbi Yehoshua Steinberg suggests is related to ג-ל-ב, the
 barber, and Rabbi Ernest Klein derives from Greek *glyphein*. *Resham* is
 **noting down**, for Pappenheim the writing of only the heads (*rosh*) of a
-matter. The
-trap: English "engrave" will take *charut*, *charushah*, *chakuk* and *pasal*
-all at once, and will also wrongly take *pituach*, which is its opposite.
+matter.
 
 ## Distinctions
 

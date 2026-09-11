@@ -45,7 +45,7 @@ while the *ani* is too embarrassed to ask and so his need goes unmet. The Gemara
 thus seems to imply that *ani* and *evyon* mark degrees of poverty: an *ani* is
 poor but still has his pride and keeps up a normal front, while an *evyon* has
 given up all pretense of self-sufficiency. Rabbi Avraham Bedersi HaPenini
-(1230-1300, *Chosam Tochnis*) derives *ani* (with an ayin) from *inui*,
+(1230-1300) derives *ani* (with an ayin) from *inui*,
 affliction: strictly it is anyone afflicted by anything, though in nearly every
 context the affliction is financial. Rabbi Yehuda Kalatz (*Sefer HaMussar*), a
 late fifteenth-century scholar exiled from Spain to North Africa: the *ani*
@@ -153,4 +153,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Poor and Unfortunate](https://articles.ohr.edu/articles/the-poor-and-unfortunate)," *What's in a Word?*, Ohr Somayach, 18 May 2019.
 
-Cited in the essay: *Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22; *Vayikra Rabbah* §34:6; Bava Metzia 111b; *Avos* 4:1; Mishlei 29:13, 31:20; Shmuel II 12:4; Rabbi Avraham Bedersi HaPenini, *Chosam Tochnis*; Rabbi Yehuda Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham ben Yitzchak HaLevi Tamach's commentary to *Eishes Chayil*, published by Dr. Leon Aryeh Feldman in a 1971 *Sefer Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach; Rabbi Moshe Sternbuch; Rabbi Yechiel Michel Epstein; Rav Chaim Kanievsky.
+Cited in the essay: *Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22; *Vayikra Rabbah* §34:6; Bava Metzia 111b; *Avos* 4:1; Mishlei 29:13, 31:20; Shmuel II 12:4; Rabbi Avraham Bedersi HaPenini; Rabbi Yehuda Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham ben Yitzchak HaLevi Tamach's commentary to *Eishes Chayil*, published by Dr. Leon Aryeh Feldman in a 1971 *Sefer Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach; Rabbi Moshe Sternbuch; Rabbi Yechiel Michel Epstein; Rav Chaim Kanievsky.

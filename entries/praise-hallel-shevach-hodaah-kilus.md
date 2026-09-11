@@ -57,8 +57,7 @@ Nusach Ashkenaz, following the Maharal of Prague (1525-1609), has no tenth term.
 ### leromem (לרומם) and le'aleh (לעלה)
 Rabbi Shimshon Pincus: both raise Hashem's standing, but in different ways,
 *leromem* being the admission that He is above *us* and *le'aleh* that He is
-above *everything*. (Rabbi Klein glosses *le'aleh* "exult," though that English
-word ordinarily means "rejoice.")
+above *everything*.
 
 ### levarech (לברך)
 Calling it "blessing" is something of a misnomer: a mere mortal cannot bless the
@@ -102,9 +101,9 @@ disgraceful act of his stands out the more.
   When the passage enumerates, hold the ten apart; when it uses one word in
   passing, "praise" is fine.
 - Trap: "extol" and "exalt" and "raise high" are near-synonyms in English;
-  the column assigns extol to *leromem*, exult to *le'aleh* and exalt to
-  *lekales*, and this entry substitutes "raise high" for *le'aleh* for the
-  reason given above. Keep whichever assignment you take fixed across a project.
+  Rabbi Klein assigns extol to *leromem*, exult to *le'aleh* and exalt to
+  *lekales*; this entry gives "raise high" for *le'aleh*, since "exult"
+  ordinarily means "rejoice". Keep whichever assignment you take fixed.
 
 ## Notes for a project
 

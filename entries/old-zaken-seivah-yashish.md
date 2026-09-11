@@ -32,7 +32,7 @@ reliability, not "old."
 
 ### zaken (זקן)
 The Mishnah's stage list (*Avos* 5:24) sets *zaken* at sixty and *seivah* at
-seventy. Rabbi Avraham Bedersi HaPenini (*Chosam Tochnis*) concludes from this,
+seventy. Rabbi Avraham Bedersi HaPenini concludes from this,
 and from two pesukim which imply that a man is a *zaken* before he reaches *seivah*
 (Shmuel I 12:2; Yeshayahu 46:4), that *seivah* is the later stage. Rabbi Yehuda
 Leib Shapira-Frankfurter (*HaRechasim LeVik'ah*): *zaken* belongs to people and
@@ -121,4 +121,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Old Man and the See](https://articles.ohr.edu/articles/the-old-man-and-the-see)," *What's in a Word?*, Ohr Somayach, 23 November 2019.
 
-Cited in the essay: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and 28:9; Iyov 12:12, 14:8, 15:10, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam Tochnis*; *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi Ernest Klein's etymological dictionary.
+Cited in the essay: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and 28:9; Iyov 12:12, 14:8, 15:10, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi; *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi Ernest Klein's etymological dictionary.

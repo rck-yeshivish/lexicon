@@ -59,8 +59,6 @@ and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
    Ramban likely split them because here the Torah also uses *afeilah*, which
    implies a stronger form of darkness.
 
-The Bottom line does not adjudicate the metaphysics.
-
 **What makes afeilah heavier.** Malbim: a quantitative difference, *choshech*
 is night with moon and stars, *afeilah* is when they too give no light. Rabbi
 Shlomo Ibn Parchon: *afeilah* means "covered", a qualitative difference. Rabbi
