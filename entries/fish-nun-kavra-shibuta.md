@@ -9,11 +9,11 @@ words:
   - he: נון
     tr: nun
     en: fish
-    distinct: the Aramaic word for fish and the Targumim's rendering of dag; it never once appears in Tanach, which Rabbi Aharon Marcus explains as deliberate, the nations having made Nun into a deity
+    distinct: the Aramaic word for fish and the Targumim's rendering of dag; it never appears in Tanach in the sense of fish, which Rabbi Aharon Marcus theorizes is deliberate, the nations having made Nun into a deity
   - he: כוורא
     tr: kavra
     en: fish
-    distinct: the other common Aramaic word; Tosafos (Moed Katan 11a) leaves open whether it means fish in general or one species, Chullin 109b, which compares its taste to a bird's, points to a species, and Jastrow reads it as fish kept live in a basket
+    distinct: the other common Aramaic word; Tosafos (Moed Katan 11a) leaves open whether it means fish in general or one species; Chullin 109b, which compares its taste to a bird's, reads like a species, and Jastrow reads it as fish kept live in a basket
   - he: שיבוטא
     tr: shibuta
     en: shibuta (a Babylonian river fish)
@@ -21,7 +21,7 @@ words:
   - he: סנדל
     tr: sandal
     en: sandal-fish
-    distinct: a flat limbless fish (Niddah 25b), the shape a certain miscarried fetus is compared to; Meiri describes a free-floating piece of flesh with no defined limbs
+    distinct: a fish of the sea (Niddah 25b), the shape a certain miscarriage is compared to; Meiri likens it to a free-floating piece of meat with no clear limbs
   - he: תנין
     nk: תַּנִּין
 sources:
@@ -44,7 +44,7 @@ derashah on it.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| נון | nun | fish | Aramaic; Targum's standard rendering of dag; absent from Tanach (Rabbi Aharon Marcus: excised because the nations deified it) |
+| נון | nun | fish | Aramaic; Targum's standard rendering of dag; absent from Tanach as a word for fish (Rabbi Aharon Marcus theorizes it was left out because the nations deified it) |
 | כוורא | kavra | fish | Aramaic; possibly a species rather than the general term (Tosafos to Moed Katan 11a; Chullin 109b) |
 | שיבוטא | shibuta | shibuta | a specific kosher river fish of Bavel whose brain tastes like pork (Chullin 109b) |
 | סנדל | sandal | sandal-fish | shaped like a fish of the sea (Niddah 25b); like a piece of meat without clear limbs (Meiri to Yevamos 12b) |

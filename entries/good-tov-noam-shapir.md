@@ -116,7 +116,7 @@ the precedent of Sarah and Hagar.
 
 - *tov*: "good". Keep it plain; it is the word the others are measured against.
 - *noam* / *naim*: "pleasant", "pleasantness"; "sweet" only in the gastronomic
-  sense (see the column's "Sweet and Pleasant", Jan. 2018). *Darkei noam*:
+  sense (see Rabbi Klein's "Sweet and Pleasant", Jan. 2018). *Darkei noam*:
   "ways of pleasantness".
 - *shapir* / *shefer*: "fine", "fitting", "well" (Aramaic adverb), "becoming".
   *Imrei shefer*: "fine sayings" or "goodly words"; not "beautiful words", which

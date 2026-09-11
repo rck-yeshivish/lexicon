@@ -10,7 +10,7 @@ words:
     tr: shaar
     en: gate
     nk: שַׁעַר
-    distinct: the Hebrew word, some 375 times in Tanach; also a settlement, and in the Mishnah a market price or the act of appraising, since the merchants who set prices sat at the gate (Shadal)
+    distinct: the Hebrew word, some 375 times in Tanach, in some cases any settlement; in the Mishnah less commonly a market price or the act of appraising, since the merchants at the gate set the going rate (Shadal)
   - he: תרע
     tr: tera
     en: gate
@@ -43,7 +43,7 @@ and Rabbi Klein thinks it not farfetched to say the same of *bava*.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שער | shaar | gate | Hebrew; in some cases also a settlement; also a price, or the act of appraising (Shadal) |
+| שער | shaar | gate | Hebrew; in some cases also a settlement; less commonly a price, or the act of appraising, which Shadal ties to the merchants at the gate |
 | תרע | tera | gate | Targumic Aramaic; from "breaching," a gate seemingly being a break in the wall (Rabbi Eliyahu HaBachur, who suggests this) |
 | בבא | bava | gate; section | Talmudic Aramaic; never used by the Targumim to render a Hebrew word, though it appears in an addition in Targum to Esther 5:14; also a set, or a section of a text |
 

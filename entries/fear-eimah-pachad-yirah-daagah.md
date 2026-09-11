@@ -78,8 +78,8 @@ inaugural line that the only thing we have to fear is fear itself.
   derashah turns on the sequence, give each its own word.
 - Trap: "dread" is a fair rendering of *eimah* but also of settled *morah*; reserve
   it for *eimah* when both are in play.
-- Scope: the column treats fear as the emotion before a threat. *Yiras Shamayim* as
-  awe or reverence is a separate usage it does not take up; do not import rulings
+- Scope: Rabbi Klein treats fear as the emotion before a threat. *Yiras Shamayim* as
+  awe or reverence is a separate usage he does not take up; do not import rulings
   for that from here.
 
 ## Notes for a project

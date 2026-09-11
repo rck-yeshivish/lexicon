@@ -9,12 +9,12 @@ words:
   - he: אמה
     tr: amah
     en: maidservant, handmaid
-    distinct: the dignified position: a nursemaid to her master's children, from eim, "mother" (Bedersi), or a housekeeper who oversees the household rather than doing menial work (Rabbi Shlomo Pappenheim)
+    distinct: the dignified position, a nursemaid to her master's children, from eim, "mother" (Bedersi), or a housekeeper who oversees the household rather than doing menial work (Rabbi Shlomo Pappenheim)
   - he: שפחה
     tr: shifchah
     en: bondwoman
     nk: שִׁפְחָה
-    distinct: the true female counterpart of eved, put to any and every task (Rabbi Shlomo Aharon Wertheimer); from a root of attachment, one joined to the household (Rabbi Yaakov Tzvi Mecklenburg)
+    distinct: the true female counterpart of eved, put to any and every task (Rabbi Shlomo Aharon Wertheimer); from a root of attachment, one joined to the mistress of the house (Rabbi Yaakov Tzvi Mecklenburg)
   - he: עבד
     tr: eved
     en: slave, bondsman

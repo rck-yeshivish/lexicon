@@ -14,7 +14,7 @@ words:
     tr: sorek
     en: choice vine
     nk: שׂוֹרֵק
-    distinct: not a plain vine but the best kind; Targum Yonasan renders it "a choice gefen"; Radak, citing Rabbi Yitzchak Ibn Ghiyyat, says its grapes are seedless; Rashi instead reads it as the vine's long tendrils or its shoots fit for planting
+    distinct: on most readings not a plain vine but the best kind; Targum Yonasan renders it "a choice gefen"; Radak, citing Rabbi Yitzchak Ibn Ghiyyat, says its grapes are seedless; Rashi instead reads it as the vine's long tendrils or its shoots fit for planting
   - he: שדמה
     tr: shdeimah
     en: field, or vine (disputed)
@@ -22,7 +22,7 @@ words:
   - he: שריג
     tr: sarig
     en: tendril
-    distinct: the vine's twining shoot, the word in the butler's dream (Bereishis 40:10); Ibn Saruk equates sorek with it, working from the interchange of kuf and gimmel
+    distinct: the vine's twining shoot, the word in the butler's dream (Bereishis 40:10); Ibn Saruk equates sorek with it, possibly via the interchange of kuf and gimmel
 sources:
   - wiaw:9491 "Through the Grapevine" (2021-12-18) https://articles.ohr.edu/articles/through-the-grapevine
 authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rashi, Rabbeinu Bachaya, Ibn Ezra, Ohalei Yehuda, Targum Yonasan, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Shmuel ben Chofni Gaon, Maharsha, Rivan, Shitah Mekubetzes]

@@ -9,11 +9,11 @@ words:
   - he: צום
     tr: tzom
     en: fast
-    distinct: the Biblical word, near fifty times, usually for abstaining from food; Radak in his father's name derives it from "gathering", as in tzomes hagidim, where the sinews converge, so a tzom is a fast the whole community joins
+    distinct: the Biblical word, near fifty times, usually for abstaining from food; Radak in his father's name derives it from "gathering", as in tzomes hagidim, where the sinews converge, which a derashah reads as a fast the whole community joins
   - he: תענית
     tr: taanis
     en: fast day
-    distinct: from inui, affliction, so it names any self-affliction and not only abstaining from food; the standing word for fast days in Mishnah and Gemara, though it is already in Ezra 9:5
+    distinct: from inui, affliction, so strictly it names any self-affliction and not only abstaining from food; the Mishnaic word for a fast day, though it is already in Ezra 9:5
   - he: עינוי
     tr: inui
     en: affliction

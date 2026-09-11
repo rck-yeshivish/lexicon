@@ -17,11 +17,11 @@ words:
   - he: לותיר
     tr: lotir
     en: Lothar, the Rhineland
-    distinct: the Rishonim's own name for their region, the communities of Mainz, Worms and Speyer, from Lotharingia, the realm of Lothair II
+    distinct: the Rishonim's own name for their region, from Lotharingia, the realm of Lothair II; Rabbi Yosef Prager argues it covered the whole Rhineland, Mainz, Worms and Speyer together
   - he: אלמניא
     tr: almenia
     en: Alemannia, Germany
-    distinct: from the Alamanni confederacy, behind French Allemagne and Spanish Alemania; used mainly by the meforshim of Spain and France, Radak among them
+    distinct: from the Alamanni, seemingly a Germanic confederacy, behind French Allemagne and Spanish Alemania; used mainly by the meforshim of Spain and France, Radak among them
   - he: גומר
     tr: gomer
     en: Gomer
@@ -50,7 +50,7 @@ HeAruch*); *Lotir* is the Rishonim's own **Rhineland**; *Almenia* is
 |---|---|---|---|
 | אשכנז | ashkenaz | Ashkenaz; Germany | a name in Tanach, a country from Rashi on (Shadal: unrelated) |
 | גרממיא | germamia | Germania | Chazal's word (Yoma 10a); emended to Germania by the Vilna Gaon |
-| לותיר | lotir | Lothar, the Rhineland | the Rishonim's home region: Mainz, Worms, Speyer |
+| לותיר | lotir | Lothar, the Rhineland | the Rishonim's home region; for Rabbi Yosef Prager the whole Rhineland, Mainz, Worms and Speyer |
 | אלמניא | almenia | Alemannia | the Spanish and French meforshim's word, behind Allemagne |
 | גומר | gomer | Gomer | Ashkenaz's father; identified with Germamia by Chazal |
 

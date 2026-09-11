@@ -21,11 +21,11 @@ words:
   - he: חרוץ
     tr: charutz
     en: gold (mined)
-    distinct: gold got by digging, from ח-ר-צ, cutting with a sharp tool (Rabbi Aharon Marcus, Wertheimer); or gold that makes a man diligent, charutz in its other sense (Rid)
+    distinct: gold got by digging, from ח-ר-צ, cutting with a sharp tool (Rabbi Aharon Marcus, Wertheimer); or gold that makes a man diligent, charutz in its other sense (Rabbi Yishaya of Trani)
   - he: בצר
     tr: betzer
     en: gold ore
-    distinct: gold (Ibn Janach, Radak, Ralbag), silver (Ibn Ezra), a stronghold (Menachem, Rashi), or the crude ore that yields gold when refined (Rid)
+    distinct: gold (Ibn Janach, Radak, Ralbag), silver (Ibn Ezra), a stronghold (Menachem, Rashi), or the crude ore that yields gold when refined (Rabbi Yishaya of Trani)
 sources:
   - wiaw:8724 "Where's The Gold?" (2020-05-30) https://articles.ohr.edu/articles/wheres-the-gold
 authorities: [Radak, Ibn Janach, Ibn Ezra, Rashi, Menachem Ibn Saruk, Donash Ibn Labrat, Ramban, Ralbag, Rabbi Yishaya of Trani, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe David Valle, Rabbi Moshe Ibn Ezra, Peirush HaRokeach, Rabbi Todros Abulafia, Rabbi Binyamin HaRofeh Anav, Maharal, Rabbi Eliezer Papo, Rabbi Pinchas Eliyahu Horowitz, Rabbi Yosef Chaim of Baghdad, Dr. Chaim Tawil, William Foxwell Albright, Dr. Shmuel Yeivin]
@@ -51,8 +51,8 @@ stronghold, and unrefined ore are all live readings of Iyov 22:24. Tehillim
 | זהב | zahav | gold | the ordinary term; seven grades in Yoma 44b-45a; borrowed for anything pristine (Ibn Janach, Radak) |
 | פז | paz | fine gold | good and unadulterated (Radak), best and rarest (Wertheimer); shimmering as though dancing (Pappenheim); a gemstone for Ibn Ezra |
 | כתם | kesem | fine gold | pure enough to beat paper-thin, hence conspicuous, hence also a stain (Pappenheim) |
-| חרוץ | charutz | mined gold | dug from the earth (Marcus, Wertheimer); or gold that drives men to diligence (Rid) |
-| בצר | betzer | gold ore | gold (Ibn Janach, Radak, Ralbag) / silver (Ibn Ezra) / a stronghold (Rashi) / crude ore (Rid) |
+| חרוץ | charutz | mined gold | dug from the earth (Marcus, Wertheimer); or gold that drives men to diligence (Rabbi Yishaya of Trani) |
+| בצר | betzer | gold ore | gold (Ibn Janach, Radak, Ralbag) / silver (Ibn Ezra) / a stronghold (Rashi) / crude ore (Rabbi Yishaya of Trani) |
 
 ## Where the authorities disagree
 

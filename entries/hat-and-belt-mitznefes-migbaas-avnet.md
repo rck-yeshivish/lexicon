@@ -98,7 +98,7 @@ chastity belt.
   *eizor*, especially where the verse is using *eizor* for strength; there
   "girded" carries the metaphor and "belted" does not.
 - Where a source treats *migbaas* and *mitznefes* as one hat under two names,
-  the useful line is the column's own: *migbaas* names the shape, *mitznefes*
+  the useful line is Rabbi Klein's own: *migbaas* names the shape, *mitznefes*
   names the honor (the honor half rests on *Tosafos HaRosh*).
 
 ## Notes for a project

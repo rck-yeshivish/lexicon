@@ -120,7 +120,7 @@ equivalent.
   halachah in Vayikra 25:43 turns on which one it is.
 - *Mikshah*: "hammered work," or "beaten from a single block," not "hard work."
 - Trap: English "hard" will take *kashah* and *perech* together, and English
-  "hard-hearted" will take *kashah* and *kashiach* together. The column reads
+  "hard-hearted" will take *kashah* and *kashiach* together. Rabbi Klein reads
   the Haggadah's equation of *avodah kashah* with *perech*, and Onkelos's
   *kashyu*, as suggesting the two are roughly equivalent, and then works through
   their differences all the same; in translation keep them apart wherever the

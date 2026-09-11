@@ -141,11 +141,11 @@ Hebrew the plural *tachrichin* is the standing term for burial shrouds.
   and Rashi's *tallis* gloss makes the collapse tempting. Where a passage
   contrasts them, use "mantle" for *aderes*, "robe" for *glima*, and "cloak of
   office" or "ceremonial cloak" for *itztala*.
-- *Aderes* in the Eliyahu narratives is "mantle." The column attaches the
-  English idiom "assume the mantle" to *itztala*, not to *aderes*; that it fits
-  Elisha taking up the fallen *aderes* at Melachim II 2:13-14 is ours, not the
-  column's. "Coat" is on the column's own list of accepted renderings, so it is
-  not wrong, only flatter.
+- *Aderes* in the Eliyahu narratives is "mantle." Rabbi Klein attaches the
+  English idiom "assume the mantle" to *itztala*, not to *aderes*, though it also
+  fits Elisha taking up the fallen *aderes* at Melachim II 2:13-14. "Coat" is on
+  Rabbi Klein's own list of accepted renderings, so it is not wrong, only
+  flatter.
 - *Itztala d'rabbanan* is figurative. Render it "the mantle of the sages" or
   leave it transliterated and gloss it; "the sages' robe" reads as a literal
   garment and loses the point.

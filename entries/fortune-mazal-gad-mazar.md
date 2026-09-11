@@ -9,7 +9,7 @@ words:
   - he: מזל
     tr: mazal
     en: constellation, destiny
-    distinct: once in Tanach, of the zodiac constellations (Melachim II 23:5; Berachos 32b); from נ-ז-ל, "flowing," the steady course of the constellations and the flow of Divine influence (Ibn Janach, Radak)
+    distinct: once in Tanach (Melachim II 23:5), seemingly an astronomical phenomenon, usually understood as the zodiac constellations (Berachos 32b), and in Chazal also the flow of Divine influence; from נ-ז-ל, "flowing," for Ibn Janach and Radak
   - he: גד
     tr: gad
     en: fortune

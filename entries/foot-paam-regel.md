@@ -81,8 +81,8 @@ underneath; see Ramban there.
   the two words against each other (Yeshayahu 26:6; the donkey saying *shalosh
   regalim* where *shalosh peamim* was expected) will read flat. Where the point
   is the choice of word, keep the Hebrew and gloss it.
-- *Shalosh regalim* as the festivals: the column renders Shemos 23:14 literally,
-  "the three times." Our call is "the three festivals," or keep
+- *Shalosh regalim* as the festivals: Rabbi Klein renders Shemos 23:14 literally,
+  "the three times." Render "the three festivals," or keep
   *shalosh regalim* transliterated, since English "three times" there reads as a
   count and not as the pilgrimage; "three times" is the right rendering at
   Bamidbar 22:28 and 32, where the phrase is identical.

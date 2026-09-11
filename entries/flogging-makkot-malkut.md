@@ -9,19 +9,19 @@ words:
   - he: מכה
     tr: makkah
     en: blow, wound, plague
-    distinct: Hebrew, and active: the striking, and by extension the wound it leaves and the plague that strikes (Ibn Chayyuj, Ibn Janach, Radak, from נ-כ-ה)
+    distinct: Hebrew, and active (HaBachur), the striking, and by extension the wound it leaves and the plague that strikes; root נ-כ-ה for Ibn Chayyuj, Ibn Janach and Radak
   - he: מכות
     tr: makkot
     en: blows, lashes
-    distinct: the Torah's own word for judicial flogging (Devarim 25:2-3), and the name of the masechta; for Rabbi Shmuel Taieb the Gemara uses it in many instances for rabbinically ordained lashes, makkos mardus
+    distinct: cognates of makkah are the Torah's own language for judicial flogging (Devarim 25:2-3), and makkot is the name of the masechta; for Rabbi Shmuel Taieb the Gemara commonly uses it for rabbinically ordained lashes, makkos mardus
   - he: מלקות
     tr: malkut
     en: flogging, lashes
-    distinct: Mishnaic, from ל-ק-ה, which Even-Shoshan derives from the Aramaic; for Rabbi Shmuel Taieb the term for lashes ordained by the Torah
+    distinct: Mishnaic, derived by Even-Shoshan from the Aramaic root ל-ק-ה; for Rabbi Shmuel Taieb the Gemara's usual term for lashes ordained by the Torah
   - he: לקה
     tr: lakah
     en: to be struck, to be impaired
-    distinct: passive where makkeh is active (Rabbi Eliyahu HaBachur), and for the Tiferes Yisrael broader than striking, covering any defect: an eclipsed luminary or discolored blood is lakah
+    distinct: passive where makkeh is active (Rabbi Eliyahu HaBachur), and for the Tiferes Yisrael broader than striking, covering any defect, so an eclipsed luminary or blackened blood is lakah
 sources:
   - wiaw:8584 "That's a Flogging" (2020-02-01) https://articles.ohr.edu/articles/thats-a-flogging
 authorities: [Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Eliyahu HaBachur, Rabbi Naftali HaKohen Katz, Rabbi Shmuel Taieb, Tiferes Yisrael, Rabbi Elazar Rokeach, Avraham Even-Shoshan]

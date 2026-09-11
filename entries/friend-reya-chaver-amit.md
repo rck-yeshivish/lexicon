@@ -75,7 +75,7 @@ friend is to be one," and President Bill Clinton's "*Shalom Chaver*."
 
 ## Rendering guidance
 
-- Set renderings before translating. The column's own English is *chaver* =
+- Set renderings before translating. Rabbi Klein's own English is *chaver* =
   **friend**, *amis* = **acquaintance**, *reya* = **confidante**; where the
   secret-keeping sense is not what is live, **associate** for *amis* and
   **companion** for *reya* carry the same scale.
@@ -85,7 +85,7 @@ friend is to be one," and President Bill Clinton's "*Shalom Chaver*."
 - Trap: English "friend" will absorb all three, and "companion" will absorb
   *chaver* and *reya* together. When a source grades them (Yisro's names,
   Rokeach's list), render each differently or the whole point disappears.
-- Trap (ours, not the column's): *chaver* in a Mishnaic context often means
+- Trap: *chaver* in a Mishnaic context often means
   something else entirely, the man trusted in matters of tumah and maasros
   against an *am ha'aretz*. That *chaver* is not on this scale.
 - A wordplay on ר-ע as "broken" (Mishlei 13:20 and the *teruah* connection)
