@@ -22,7 +22,7 @@ words:
   - he: תרנגול
     tr: tarnegol
     en: rooster
-    distinct: absent from Tanach, standard throughout the Mishnah; Rabbi Meir HaLevi Abulafia notes it holds the same letters as Nergal, the rooster-shaped Kuthean idol, and Rabbi Ernest Klein derives it from Akkadian tar-lugallu
+    distinct: absent from Tanach, standard throughout the Mishnah; Rabbi Meir HaLevi Abulafia notes it contains the letters of Nergal, the rooster-shaped Kuthean idol, and Rabbi Ernest Klein derives it from Akkadian tar-lugallu
 sources:
   - wiaw:9288 "Welcome to Rooster City" (2021-07-10) https://articles.ohr.edu/articles/welcome-to-rooster-city
 authorities: [Targum Yonasan, Rabbeinu Efrayim, Peirush HaRokeach, Siddur HaRokeach, Rabbeinu Bachya, Rabbi Menachem Tziyyoni, Ibn Janach, Rabbeinu Chananel, Rashi, Ibn Ezra, Radak, Rosh, Tur, Abudarham, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rabbi Meir HaLevi Abulafia, Rabbi Chaim Futernik, Rabbi Yehuda Felix, Daas Mikra, Rabbi Ernest Klein, Jessica Lamont]
@@ -48,7 +48,7 @@ kind, which Targum renders **wild fowl**.
 | גבר | gever | rooster (sometimes) | normally "man"; seemingly a cognate of *gevurah*, strength; the distinctive voice among birds (Rabbeinu Efrayim) |
 | שכוי | sechvi | rooster / heart | a hapax; rooster for Chazal; heart, or at least also heart, for most mefarshim; skull for Pappenheim |
 | זיז שדי | ziz sadai | wild fowl | Tehillim 50:11, 80:14; *tarnegol bara* in Targum |
-| תרנגול | tarnegol | rooster | post-Biblical, the Mishnaic standard; letters of Nergal rearranged (Rabbi Meir HaLevi Abulafia) |
+| תרנגול | tarnegol | rooster | post-Biblical, the Mishnaic standard; contains the letters of Nergal (Rabbi Meir HaLevi Abulafia) |
 
 ## Where the authorities disagree
 
@@ -87,8 +87,8 @@ deity: the men of Bavel brought Sukkos Benos and the men of Kutha made Nergal
 (Melachim II 17:30).
 - Sanhedrin 63b relates that Sukkos Benos was a hen-shaped idol and Nergal a
   rooster-shaped one; Rabbeinu Chananel specifies a wild rooster.
-- Rabbi Meir HaLevi Abulafia offers two accounts of the name: *tarnegol* has the
-  same letters as *nergal*, or *nergal* is from *ragil*, frequent, since the
+- Rabbi Meir HaLevi Abulafia offers two accounts of the name: *tarnegol* contains the
+  letters of *nergal*, or *nergal* is from *ragil*, frequent, since the
   rooster is understood to copulate most often.
 - The Yerushalmi (Avodah Zarah 3:2) understands Nergal differently, as a
   foot-shaped idol, from *regel*, treating the nun as not integral to the core

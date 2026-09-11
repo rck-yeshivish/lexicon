@@ -109,7 +109,7 @@ Sefer (*Otzar Peninim* §28) defends the wedding custom from Rashi to Bereishis 
 revealed through nevuah, so that expounding the *mar* is entirely in place.
 
 **What Cheshvan means, for those who parse it.**
-- Rav Hirsch (1808-1880) drops the *mar* and reads Cheshvan from ח-ש-ה, quiet:
+- Rav Hirsch (1808-1888) drops the *mar* and reads Cheshvan from ח-ש-ה, quiet:
   the hush after the crowded month of Tishrei, which gives a man room to look
   inward and think over all that passed in the yom tov season.
 - The *Sefer HaKushyos*, by an anonymous talmid of Rabbi Meir of Rothenburg

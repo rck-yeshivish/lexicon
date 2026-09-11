@@ -177,9 +177,10 @@ Others read the active form as pointing at Moshe himself.
   water from the rock in the wilderness.
 - *Midrash HaGadol* (to Shemos 2:10): Moshe pulled himself out of the water, in
   that his own future merits caused her to save him.
-- Rabbi Menachem Mendel Kasher in *Torah Shleimah* cites an unpublished medieval
-  manuscript suggesting that Hashem arranged for her to name him Moshe because
-  משה is השם spelled backwards.
+
+Rabbi Menachem Mendel Kasher in *Torah Shleimah* cites an unpublished medieval
+manuscript suggesting that Hashem arranged for her to name him Moshe because
+משה is השם spelled backwards.
 
 Two more go in a slightly different direction. Chizkuni
 (to Shemos 2:10) implies that in giving the name she was praying that Moshe grow

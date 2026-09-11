@@ -35,7 +35,7 @@ Peshitta, renders it instead by the Aramaic or Syriac equivalent of *zikaron*,
 "remembrance," which implies they took the core meaning to be remembering; Ibn
 Ezra (to Shemos 13:16) echoes that approach. On that reading it
 is unclear what the etymological root of *totafos* might be, or even what language
-it comes from. Beyond that, four lines of explanation:
+it comes from. Beyond that, several lines of explanation:
 
 **An ornament worn on the forehead.** Tosafos (Menachos 34b) look for the word's
 cognates in Mishnaic Hebrew and find *totefes*, an article of women's jewelry
