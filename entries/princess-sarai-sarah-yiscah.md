@@ -16,14 +16,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All three names turn on rank. *Sarai*, with its final yod, reads as **"my
+*Sarai*, with its final yod, reads as **"my
 princess,"** a princess of her own house and nation; *Sarah* is **"princess"**
 without limit, over the whole world (*Berachos* 13a, Rashi to Bereishis 17:15).
 *Yiscah* is a third name an ancient tradition identifies with her (*Megillah*
 14a, *Sanhedrin* 69b), read either as **the one who gazed** with ruach hakodesh
 or **the one all gazed upon** for her beauty; Rashi adds a third sense,
 *nesichah*, princess again. Ibn Ezra and Shadal are skeptical of the
-identification. In Bereishis 17:15 the change of name is the berachah.
+identification.
 
 ## Distinctions
 
@@ -32,11 +32,11 @@ The base word: prince, officer, minister. Rabbi Shlomo Pappenheim (*Cheshek
 Shlomo*) traces it, sin and samech interchanging, to the two-letter ס-ר,
 removal, and to its branch *asirah*, imprisonment, which removes a man's freedom
 to move; a *sar* is so called because his authority limits how those under him
-may move and act. The abstract noun *serarah*, rulership, is the word Chazal use
+may move and act. The abstract noun *serarah*, rulership, is the word Philo and Rashi use
 in explaining the name Sarah.
 
 ### Sarai (שרי)
-Her name for the first five and a half parshiyos of Bereishis, seventeen times
+Her name for five and a half chapters of Bereishis, seventeen times
 from Bereishis 11:29 until Bereishis 17:15. *Berachos* 13a (with *Tosefta
 Berachos* 1:14 and *Bereishis Rabbah* 47:1): *Sarai* means she was a princess to
 her own nation. Rashi (to *Berachos* 13a and Bereishis 17:15): the final yod
@@ -46,7 +46,7 @@ letter, so ending a name in it implies diminution and limitation, while the
 final *hei* of *Sarah* implies expansion and growth. In the Septuagint the name
 runs Sara and then Sarra, and Philo of Alexandria reads that change the same
 way, from Avraham's personal princess to a princess in general, the later name
-relating to *serarah*, which the column notes is not unlike the Gemara's
+relating to *serarah*, not unlike the Gemara's
 derashah. Abarbanel offers a similar reading: her parents named her *Sarai* for
 her destiny as the lady of one special man, and Hashem renamed her to stress her
 specialness in her own right. Likewise Rabbi Shlomo Astruc: mistress of her own
@@ -75,7 +75,7 @@ that the added *hei* signifies femininity and was given to both names as a sign
 of fertility and procreation, as *Kli Yakar* there explains similarly.
 
 Shadal further writes that the name Sarah is related to an Arabic word *shara*,
-which apparently means having many children. The column reports that its friends
+which apparently means having many children.
 Rabbi Yosef Kerman and Rabbi Shaul Goldman are unsure which Arabic word Shadal
 meant. Rabbi Goldman suggests *zara*, sowed, seeded, planted, or *dhara*, grain,
 seed, produce, but then wonders why Shadal reached for Arabic at all when the
@@ -84,8 +84,8 @@ observes that the root ז-ר-ע behind *zera* may be seen as related to ש-ר-ה
 letters of the name Sarah, since sin interchanges with zayin and *hei* with
 ayin. Rav Hirsch (to Bereishis 17:15) does compare ש-ר-ה with ז-ר-ע, and reads
 the change as her passing from an isolated figure to one embodying moral
-leadership for all, the role every daughter of Yisrael aspires to emulate; the
-interchange rationale, though, is Rabbi Goldman's and not his.
+leadership for all, a role each daughter of Yisrael is seen as aspiring to
+emulate.
 
 ### Yiscah (יסכה)
 Named once only, Bereishis 11:29, as a daughter of Haran, and never mentioned
@@ -121,11 +121,11 @@ why Rashi felt the need to add a sense the Gemara does not give. Rabbi
 Yosef Chaim of Baghdad (*Ben Yehoyada* to *Sanhedrin* 69b, *Benayahu* to
 *Megillah* 14a) joins the Gemara's two: in her youth the name marked her beauty,
 and in maturity it emerged as marking her nevuah; the Torah otherwise avoids the
-name because, for all its positive sense, it also implies an undue focus on
+name because, for all its positive sense, it also somewhat implies an undue focus on
 outward beauty, against the ideals of tznius, and might give the reader the
-wrong impression of her. The column adds two explanations it found on its own.
+wrong impression of her.
 Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 11:29) notes that having more
-than one name, one from childhood and another taken on after marriage, is a
+than one name, often one from childhood and another taken on after marriage, is a
 well-attested phenomenon in the Ancient Near East, so Yiscah was her childhood
 name, Sarai her name from her marriage, and Sarah the name Hashem gave her in
 her late eighties. Rabbi Moshe Sofer, the Chasam Sofer (*Toras Moshe* to
@@ -139,22 +139,22 @@ University argues otherwise, that the name comes from falconry: "jess strings"
 are the straps tethering a falcon's legs to its master, from the Old French
 *gesse* and ultimately the Latin *jactus*, throw or cast, and the *-ica* is a
 Latin feminine nominative ending as in *Judaica* and *Hebraica*, so that
-Shakespeare, who referred to falconry often, coined the name for a girl who
-feels trapped under her father's control. The column allows that as an
+Shakespeare, who apparently referred to falconry often, coined the name for a girl who
+feels trapped under her father's control. Rabbi Klein allows that as an
 intriguing layer of wordplay but maintains the simpler derivation from *Yiscah*,
 since English Bibles before Shakespeare already rendered the name "Jescha"
-(Wycliffe) and "Jisca" (Coverdale), and since other obscure names in the play
+(Wycliffe) and "Jisca" (Coverdale), and since, as scholars have noted, other obscure names in the play
 come from Bereishis as well, Shylock having been argued to come from Shelach
 (Bereishis 10:24), and Tuball and Chus from other names there.
 
 The name Sarah has produced a long line of derivatives: the given names Sari,
 Suri, Szori, Sarolta, Zara, Serita and Serl; the English *Sadie*, which began as
 a nickname for Sarah, the "sar-" sound softening to "sad-" with an endearing
-"-ie"; and *Sally*, on the English pattern of swapping *r* for *l* in
+"-ie"; and *Sally*, which seems to derive from Sarah too, likely on the English pattern of swapping *r* for *l* in
 diminutives, as Harry gives Hal, Mary Molly, and Dorothy Dolly. Several Jewish
-surnames look related as well, Shore, Sirkes, Sharlin and Sarles. (The columnist
+surnames look related as well, Shore, Sirkes, Sharlin and Sarles. (Rabbi Klein
 recalls a girl in his grade at Emek Hebrew Academy named Sara Sarles.) Some have
-argued that the Hungarian surname Soros belongs here too, while others tie it
+argued that the Hungarian surname Soros might belong here too, while others tie it
 instead to Schorsch, a Germanized form of George.
 
 ## Rendering guidance

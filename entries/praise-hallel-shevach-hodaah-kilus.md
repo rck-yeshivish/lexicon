@@ -34,7 +34,7 @@ The Jewish-German linguist and anthropologist
 Franz Boas (1858-1942) claimed that the Eskimos of Arctic North America have
 more than twenty-five words for ice, and the usual explanation is that a people
 picks up every nuance of what matters most to it and gives each one a name. So
-too, the column suggests, Hebrew carries a multitude of words for praise,
+too, Rabbi Klein suggests, Hebrew carries a multitude of words for praise,
 precisely because praising Hashem is so central a part of Yiddishkeit.
 
 ### lehodos (להודות), lehallel (להלל), leshabei'ach (לשבח)
@@ -57,7 +57,7 @@ Nusach Ashkenaz, following the Maharal of Prague (1525-1609), has no tenth term.
 ### leromem (לרומם) and le'aleh (לעלה)
 Rabbi Shimshon Pincus: both raise Hashem's standing, but in different ways,
 *leromem* being the admission that He is above *us* and *le'aleh* that He is
-above *everything*. (The column glosses *le'aleh* "exult," though that English
+above *everything*. (Rabbi Klein glosses *le'aleh* "exult," though that English
 word ordinarily means "rejoice.")
 
 ### levarech (לברך)
@@ -79,8 +79,7 @@ keep up a slightly good behavior (a parent praising a child's poor handwriting
 so he keeps practicing); it may be a verbal insult meant as its opposite
 (calling a handsome child "ugly" so he does not grow arrogant); or it may be
 praise exaggerated in order to denigrate, magnifying a man's honor so that some
-disgraceful act of his stands out the more. The siddur's list is in Rabbinic
-Hebrew, where the verb means to exalt.
+disgraceful act of his stands out the more.
 
 ## Rendering guidance
 

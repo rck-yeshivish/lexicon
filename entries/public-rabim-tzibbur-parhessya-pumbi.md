@@ -16,26 +16,24 @@ updated: 2026-09-10
 ## Bottom line
 
 *B'rabim* is **in front of many**, the plain word for a public setting.
-*Tzibbur* is the **community** as a body that can own and appoint, so *b'tzibbur*
-is "with the congregation," not merely "in public." *Parhessya* is **openly**,
+*Tzibbur* is the **community** as a body that can own and appoint.
+*Parhessya* is **openly**,
 in the eyes of the community, and its foil is *b'tzina*, in private. *Pirsum*
 is the act, **publicizing**, and *b'pumbi* is a public **spectacle**, an affair
-made deliberately conspicuous. Wherever a sugya sets *parhessya* and *tzina*
-against each other, the point is who sees, not how many.
+made deliberately conspicuous.
 
 ## Distinctions
 
-The column sets out from Parashas Chukas, where the Torah records a very public
+In Parashas Chukas the Torah records a very public
 affair: Moshe spoke and/or acted improperly at the Waters of Merivah, and Hashem
 said, "Because you did not believe in Me to sanctify Me in the eyes of the
 Children of Israel, therefore you will not bring this congregation to the land
-that I have given them" (Bamidbar 20:12). From there it traces the etymologies of
-*b'rabim*, *b'tzibbur*, *parhessya*, *pirsum* and *b'pumbi*.
+that I have given them" (Bamidbar 20:12).
 
 ### rabim (רבים)
 The Mishnah's word for the public in the plainest sense. One who shames another
 *b'rabim* forfeits his portion in the World to Come (Avos 3:11). Elsewhere in
-the Mishnah *rabim* is what belongs to the public at large, standing against
+the Mishnah *rabim* is typically what belongs to the public at large, often standing against
 *yachid*, the individual owner (Peah 2:1, Kilayim 4:7, Bechoros 1:1, Eruvin 5:6,
 Megillah 3:1, Parah 12:4), most familiarly in *reshus harabim*. In Tanach the
 word appears some two hundred times in its plain sense of "many," and the step
@@ -45,7 +43,7 @@ l'rabim*, a vow known to the masses (Gittin 4:7), is the same usage.
 
 Rabbi Shlomo Pappenheim (*Chesheik Shlomo*) traces *rabim* to the biliteral
 ב-ר, which he defines as quantitative increase: *rav*/*harbeh* (many), *arbeh*
-(grasshoppers, since locusts swarm in multitudes), *arubah* (a sunroof or
+(grasshoppers, since locusts tend to swarm in multitudes), *arubah* (a sunroof or
 skylight, letting in much light), *rahav* (haughtiness, more self-pride than is
 normal), and *ribo* (a myriad, an inflated number that sometimes equals ten
 thousand). Rabbi Aharon Marcus adds *riv* (quarrel), from which the place name
@@ -53,7 +51,7 @@ Waters of Merivah derives, as denoting the plethora of conflicting opinions on a
 given matter.
 
 ### tzibbur (ציבור)
-A mass of individuals treated as one body. In the Mishnah the *tzibbur* is the
+A mass of individuals treated as one body. In the Mishnah the *tzibbur* is generally the
 public as a legal entity that owns property and appoints its servants: the
 korbanos of the *tzibbur*, paid for by Klal Yisrael as a whole (Pesachim 6:5,
 7:4, Shekalim 4:1, Yoma 2:7, Sukkah 5:7, Zevachim 5:5, Menachos 2:2, Temurah
@@ -72,18 +70,18 @@ act of publicizing something or someone. Neither appears in Tanach or in the
 Mishnah; both are common in the Bavli, while *parhessya* appears in only one
 teaching in the Yerushalmi (Peah 1:1, Sanhedrin 10:1).
 
-The consensus of philologists, linguists, historians and other scholars, the
-column reports, is that *parhessya* is a loanword from the Greek *parrhesia*,
+The consensus of philologists, linguists, historians and other scholars
+is that *parhessya* is a loanword from the Greek *parrhesia*,
 "open," "frank speech," "outspokenness." That Greek word has been parsed as a
 shortened form of *panresia*, from the prefix *pan-*, total or all-encompassing,
 and *retos*, speech, related to *rhetoric*; so *parrhesia* is being able to speak
-one's mind, which might entail saying any and all sorts of things. The column
-dwells on the Greek term's own history: in Hellenistic culture it meant freedom
+one's mind, which might entail saying any and all sorts of things. The Greek
+term has a history of its own: in Hellenistic culture it meant freedom
 of speech, and more deeply a moral obligation to speak the truth when it matters
 for the greater good, whatever the risk. It was fundamental to Greek society in
-philosophy and politics and influences Western culture still. The most famous
-example is Socrates, said by Plato to have engaged in dialogues that questioned
-the status quo and challenged the moral foundations of Athenian society, an
+philosophy and politics and influences Western culture still. One of the most famous
+examples is Socrates, said by Plato to have engaged in dialogues that questioned
+the status quo and often challenged the moral foundations of Athenian society, an
 unwavering commitment to speaking the truth that led to his trial and execution;
 he essentially gave up his life for the right to say what he held to be true. The
 same Greco-Roman idea appears in early Christian texts about the apostles who
@@ -93,13 +91,13 @@ The rabbinic word, by contrast, stresses not free speech but the visibility and
 communal aspect of an act, a similar but slightly different idea, and it works
 for good deeds and bad alike. The Gemara weighs a sin
 committed in private against one committed *b'farhessya* (Sanhedrin 74a-75a,
-Avodah Zarah 27b), the public sin being graver because it sets an example for
-others, which is why one must give up his life rather than transgress publicly.
+Avodah Zarah 27b), the public sin being seen as graver because it sets an example for
+others, which is why there is more reason to give up one's life rather than transgress publicly.
 The converse: because Yehudah sanctified Hashem's name *b'farhessya*, admitting
 his fault in the episode with Tamar, his name carries all four letters of the
 Shem HaMeforash, while Yosef, who sanctified it *b'tzina* in refusing the wife
 of Potiphar, has only three (Sotah 10b, 36b). *Tzina*, a cognate of *tzenius*,
-is the standing foil to *parhessya* throughout Shas (Eruvin 69a, Sukkah 49b,
+often appears as the foil to *parhessya* in many Talmudic discussions (Eruvin 69a, Sukkah 49b,
 Beitzah 16a, Taanis 16b, Kesubos 103b, Gittin 38a, Bava Metzia 46b, Bava Basra
 42a, Sanhedrin 26b, Avodah Zarah 36b, 54a, Zevachim 88b, Erchin 16a-16b).
 
@@ -114,9 +112,9 @@ speak.
 that the two words are related, though other theories have been suggested. Rabbi
 Ernest Klein, in his etymological dictionary of Hebrew, relates that some
 scholars trace *pirsum* to the Syriac/Aramaic root פ-ר-ס, opening or cutting
-open, or to the Hebrew root פ-שׂ-ה, expanding, spreading, opening. The columnist
-says plainly that he was unable to locate the works of the philologists Klein
-refers to; what he did find is that Rav Hirsch (to Tehillim 80:14) sees *pirsum*
+open, or to the Hebrew root פ-שׂ-ה, expanding, spreading, opening. Rabbi Reuven
+Chaim Klein says plainly that he was unable to locate the works of the philologists
+Rabbi Ernest Klein refers to, but found that Rav Hirsch (to Tehillim 80:14) sees *pirsum*
 as derived from פ-ר-ס with a radical *mem* appended at the end.
 
 ### pumbi (פומבי)
@@ -144,7 +142,7 @@ because they were not presented in a showy way.
 
 Rabbi Eliyahu HaBachur (*Meturgaman*) writes that *pumbi*, which appears twice in
 Targum (Tehillim 68:7, Iyov 5:23), means the same as *pirsum*. That may hold
-semantically, the column says, but etymologically *pumbi* is not the same as
+semantically, Rabbi Reuven Chaim Klein says, but etymologically *pumbi* is not the same as
 *parhessya* and *pirsum*: it comes from a different Greek word, *pompe*, the pomp
 ceremony of a public procession. Such ornate spectacles were held out in the
 open, so it is easy to see how the Late Hebrew *pumbi* came to mean things
@@ -152,7 +150,7 @@ transpiring in the public eye. The English *pomp*, as in "pomp and circumstance,
 likewise derives from *pompe*, by way of the Latin *pompa*; and Rabbi Eliyahu
 HaBachur in *Sefer Tishbi* had already noted that *pumbi* is the same as the
 Latin *pompa*. The etymology rests on the interchangeability of the *b*-sound and
-the *p*-sound. Related English words, the column adds, include *pompous*, the
+the *p*-sound. Related English words include *pompous*, the
 sort of person who commands a stately air and makes his presence a spectacle to
 be beheld, and *pump*, a showy shoe worn by those trying to make a scene.
 

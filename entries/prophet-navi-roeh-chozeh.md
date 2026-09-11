@@ -36,9 +36,9 @@ His words, and whose words He loves and whose *tefillos* He hears. Radak says
 the same at Shmuel I 9:9.
 
 Against this, Ibn Ezra (to Shemos 7:1) rules the derivation untenable: *navi*
-and its cognates never appear in Tanach without an aleph, so the aleph belongs
+and its cognates never appear in Tanach without an aleph, which suggests that the aleph belongs
 to the root, נ-ב-א. Rabbi Yonah Ibn Janach and Radak, each in his *Sefer
-HaShorashim*, take the same root; the column notes the tension in Radak's own
+HaShorashim*, take the same root; Rabbi Klein notes the tension in Radak's own
 two comments and does not resolve it. Rav Hirsch (to Bereishis 20:7) also holds
 נ-ב-א, and reads it off the neighboring נ-ב-ע, "to flow from, to become the
 source of": a *navi* is the source from which Hashem's word issues, the vehicle
@@ -47,9 +47,9 @@ biliteral ב-א, "come, bring": the *navi*'s job is to bring Hashem's word to it
 intended audience, and in the case of Moshe and Aharon, Aharon was Moshe's *navi*
 because his role was that of a spokesman, to bring Moshe's words to Paroh.
 
-The column hangs a live question on which root one accepts. In 2018
+In 2018
 archaeologists found a seal inscribed with the name Yishaya followed by the
-letters נ-ב-י. Could it be the seal of Yeshayahu HaNavi? It could be, the column
+letters נ-ב-י. Could it be the seal of Yeshayahu HaNavi? It could be, Rabbi Klein
 suggests, that this depends on the root of *navi*: if the *aleph* belongs to the
 root, then the word after Yishaya on a seal without an *aleph* is not *navi* but
 something else, such as "Nobite"; if the *aleph* is not part of the root, then it
@@ -67,8 +67,8 @@ Shmuel to find them or to learn what sin had caused the loss (Shmuel I 9). A
 ### navi against roeh as a historical shift
 Malbim continues: when the nation declined, a different kind of prophet
 appeared. The *navi* was Hashem's messenger sent to rebuke the nation for its
-sins and turn it back, addressing the public rather than the individual, and he
-was feared. Where the *roeh* was sought out, the *navi* was run from.
+sins and turn it back, generally addressing the public rather than the individual, and he
+was feared. Where the *roeh* was sought out, the *navi* was one people tended to run from.
 
 ### chozeh (חוזה)
 The Vilna Gaon (to Mishlei 22:12 and Yeshayahu 1:1): *navi* names the prophet's
@@ -76,10 +76,10 @@ mouth (*niv*), while *roeh* and *chozeh* name his seeing. Within the seeing
 there are two ranks. *Roeh* is the Hebrew word for one who sees and belongs to
 the earliest prophets, whose visions were sharp; *chozeh* is the Aramaic word
 for one who sees, and later prophets bear the Aramaic term because Hebrew is
-the more spiritually attuned language, so the Aramaic marks a vision less
+considered the more spiritually attuned language, so the Aramaic marks a vision less
 clearly grasped. Accordingly the earlier prophet's vision is a *mareh* and the
-later prophet's a *chazon* or *machazeh*. *Machazeh*, the column adds, denotes a
-lower level of prophecy; Rabbi Aharon Marcus is the one who points out that this
+later prophet's a *chazon* or *machazeh*. *Machazeh* denotes a
+lower level of prophecy; Rabbi Aharon Marcus points out that this
 is the type Avraham Avinu experienced before his *milah* (Bereishis 15:1) and,
 later, the heathen prophet Bilaam (Bamidbar 24:4, 24:16).
 
@@ -87,8 +87,7 @@ later, the heathen prophet Bilaam (Bamidbar 24:4, 24:16).
 Hashem tells Moshe that Aharon "will be your *navi*," which does not seem to mean
 Moshe's prophet but something else. Targum Onkelos and Rasag (both to Shemos
 7:1): Aharon was to serve as Moshe's *meturgaman*, his interpreter, translator
-and spokesman before Paroh. That is Rabbi Shlomo Pappenheim's ב-א exactly, and
-Pappenheim himself applies it so. The column notes that the root of
+and spokesman before Paroh. The root of
 *meturgaman*/*targum* seems to be ר-ג-ם, which has no other cognates in Hebrew
 but in Ugaritic means "saying," so that the Hebrew word for translating from one
 language into another is itself derived from the word for "saying" in a different

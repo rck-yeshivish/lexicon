@@ -20,12 +20,11 @@ pleasure of the body, and in Tanach it is almost always of taste and touch:
 **sensual pleasure, delight of the senses**; *maadanim*, **delicacies**. *Oneg*
 is primarily pleasure of the soul, mind and heart, even when it arrives by way
 of the body: **delight, enjoyment**; *oneg Shabbos* is therefore delight in
-Shabbos taken through good food, not physical pleasure. Rav Hirsch reads
+Shabbos, which may come through good food, not physical pleasure. Rav Hirsch reads
 *oneg* on other lines altogether, as being surrounded by favorable conditions.
 *Pinuk* is for Pappenheim not pleasure at all but playfulness and flattery, a
 claim that fits the one pasuk but does not account for the Targumim, which use
 *pinuk* words for both *oneg* and *eden*: **pampering, indulgence**.
-Pappenheim's body/soul split between *eden* and *oneg* carries the distinction.
 
 ## Distinctions
 
@@ -36,15 +35,15 @@ and that *eden* is primarily physical pleasure, that of the five senses: taste,
 hearing, smell, sight and touch. Its root is ע-ד-ן, which he traces to ע-ד,
 joining or connecting (as in *ad*, *yaad*, *eidah*, *vaad*, *moed*, *eidus*):
 physical pleasure forges a connection between the one enjoying and the object
-enjoyed. A careful look at usage in Tanach, the column adds, shows *eden/ednah*
+enjoyed. Rabbi Klein adds that a careful look at usage in Tanach shows *eden/ednah*
 almost exclusively concerning taste and touch, which fits Pappenheim, since
 those are the two senses in which the object comes into direct contact with the
 organ. *Maadanim* are the delicacies of a king's table (Tehillim 36:9,
 Yirmiyahu 51:34, Eichah 4:5; Bereishis 49:20, Asher's *maadanei melech*).
 Sarah's עדנה (Bereishis 18:12): Onkelos renders youthfulness; Radak, the smooth skin
 of youth; Ibn Ezra, the pleasures or enjoyment of youth; Rabbi Yehuda Chalava, son
-of the thirteenth-century Maharam Chalava, conjugal pleasure specifically. The
-column raises the possibility that some of these sources are associating *ednah*
+of the thirteenth-century Maharam Chalava, conjugal pleasure specifically. Rabbi
+Klein raises the possibility that some of these sources are associating *ednah*
 with the Aramaic *idna*, time, and reading youth as a bygone time. *Adin/adinah*
 (Yeshayahu 47:8) is the delicate, dainty one, easily overwhelmed by sensation.
 (*Adina* is nowhere a proper name in Tanach or in Chazal, though it turns up
@@ -56,10 +55,10 @@ of that paradise and its intellectual bliss.
 
 He works the interplay out in both directions. Some things the body enjoys and
 the soul does not: sleep, which restores the body but dulls the mind; drinking
-past the point of drunkenness; sin, which pays in tangible enjoyment and pains
+past the point of drunkenness; sin, which may pay in some tangible enjoyment but pains
 the soul. Some things the soul enjoys and the body does not: hard physical labor
 to build wealth, a needed medicine that tastes foul, mitzvos that bring
-spiritual ecstasy and no bodily comfort. And there the symmetry stops: a
+spiritual ecstasy but not necessarily bodily comfort. And there the symmetry stops: a
 physical pleasure can carry a spiritual one with it, but there is no such thing
 as a spiritual pleasure that produces a physical one.
 
@@ -90,8 +89,8 @@ That fits the pasuk's context well, but it does not account for the Targumim,
 which consistently use *pinuk* words to render *oneg* and *eden*: *anug* becomes
 *mefanak/mefunak*, *maadanei melech* becomes *tafnukei malkin*; in *Mah Yedidus*,
 *tafnukei maadanim* is the same word twice, Aramaic and Hebrew, "delicacies."
-(The column once took the English *finicky* for a derivative of *pinuk*, and
-reports on looking into it that *finicky* comes from English *fine* instead. Go
+(Rabbi Klein once took the English *finicky* for a derivative of *pinuk*, and
+on looking into it found that *finicky* comes from English *fine* instead. Go
 figure.)
 
 ## Rendering guidance

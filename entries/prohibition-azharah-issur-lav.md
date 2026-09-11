@@ -18,11 +18,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Azharah* is the prohibition as **forewarning**; the column's own summary is
+*Azharah* is the prohibition as **forewarning**; Rabbi Klein's own summary is
 that it *seems* to focus on a prohibition as a way of "enlightening" a person as
 to his duties and expectations, and several authorities read its root as light,
-so on their reading it is closer to putting a person on notice by making his
-duty clear than to scolding him. *Issur* is the prohibition as a **binding**,
+so on their reading it puts a person on notice by making his
+duty clear. *Issur* is the prohibition as a **binding**,
 the rule that ties a person's hands and takes the act off the table. *Lav* is
 simply a **negative commandment**, a "no-no" people are enjoined from
 committing, named for the word *lo*. *Azharah* and *issur* are not two names
@@ -39,14 +39,14 @@ and the teachings" (Shemos 18:20). The noun *azharah* in the sense of a
 prohibition first appears in the Mishnah, where it occurs a handful of times
 (*Pesachim* 3:1 and 4:1, *Sanhedrin* 7:7, *Kerisos* 3:10), and it often denotes
 the warning aspect of a prohibition, the "thou shall not," as against the
-punishment aspect (*Yevamos* 2b; *Sifrei Naso* 1 are the column's examples).
+punishment aspect (for example, *Yevamos* 2b and *Sifrei Naso* 1).
 
 The early lexicographers (Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak,
 and Rabbi Shlomo Ibn Parchon, the twelfth-century author of
 *Machberes He'Aruch*) all take ז-ה-ר as one triliteral root carrying two very
 distinct senses, warning and light, and none of
 them intimates a connection between the two. Maimonides' son, Rabbi Avraham
-Maimuni, joins them: the root means light or brilliance (*zohar*), and one
+Maimuni, does connect them: the root means light or brilliance (*zohar*), and one
 illuminates another's intellectual perception by instructing him as to his
 responsibilities, so to warn a person can be said to be shedding light on what
 is expected of him; both senses are enlightenment, one literal and one
@@ -57,9 +57,9 @@ and not only the prohibitions.
 
 Not everybody agrees that the root is the triliteral ז-ה-ר. Some trace the word
 to the two-letter ז-ר, estrangement, as in *zar*; others go as far as the single
-letter *zayin*. The column notes that one cognate is in fact spelled without the
+letter *zayin*. One cognate is in fact spelled without the
 *hei*, "and you shall warn (*ve'hizartem*) the Children of Israel from their
-impurities" (Vayikra 15:31), and that Rabbeinu Efrayim touches on this point in
+impurities" (Vayikra 15:31), and Rabbeinu Efrayim touches on this point in
 noting that to warn a person is to tell him to make himself *zar*, estranged,
 from the thing he has been warned against. Rabbi Shlomo Pappenheim of Breslau
 similarly works from ז-ר, one group of whose derivatives is headed by *zoreh*,

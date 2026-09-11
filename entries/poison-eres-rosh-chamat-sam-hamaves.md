@@ -18,12 +18,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Eres* is **venom**, in practice snake venom, and it is Talmudic, not Biblical.
+*Eres* is **venom**, most often snake venom, and it is Talmudic, not Biblical.
 *Sam hamaves* is the general **poison**, literally the potion of death, and
 never venom. *Rosh* is **poison** in Tanach, drawn either from a snake's head or from
 a poisonous plant. *Chamat* is **venom** as what an angered snake emits. *Ra'al*
 is disputed: poison, or a draught that leaves a man limp and reeling. Chullin
-3:5 turns on *sam hamaves* being precisely not venom.
+3:5 shows that *sam hamaves* is not venom.
 
 ## Distinctions
 
@@ -43,8 +43,8 @@ severed head to the Greek kings (*Yossiphon* ch. 4), and *Targum Sheini* to
 Esther 2:21 combines the two, having them poison Esther with a *sam hamaves*
 first and then slay her husband.
 
-The origins of *eres* are shrouded in mystery. Eminent etymologists, the column
-reports, derive it from the Latin *virus*: Dr. Alexander Kohut (1842-1894),
+The origins of *eres* are shrouded in mystery. Eminent etymologists
+derive it from the Latin *virus*: Dr. Alexander Kohut (1842-1894),
 Rabbi Ernest Klein (1899-1983) and Avraham Even-Shoshan (1906-1984). The
 *Comprehensive Aramaic Lexicon* calls that derivation "highly dubious," so the
 question stands open.
@@ -58,7 +58,7 @@ hachaim* or *sam hamaves* (Eruvin 56a), Torah learned without proper intent
 (Taanis 7a), a mother's oath on her child's life (Gittin 35a), and liability for
 killing another's animal by feeding it (Bava Kamma 47b, 56a).
 
-Because sin and samech interchange, *Midrash Sechel Tov*, *Midrash Aggadah* and
+Because sin and samech are often understood to interchange, *Midrash Sechel Tov*, *Midrash Aggadah* and
 *Daas Zekeinim* read *vayusam lefanav le'echol* (Bereishis 24:33) as a hint that Besuel tried to poison Eliezer; a commentary
 ascribed to Rashi on Divrei HaYamim II 22:10 has Asaliah killing this way too.
 Rabbi Shlomo Pappenheim of Breslau (1740-1814) takes ס-מ / ש-מ as putting a
@@ -77,8 +77,7 @@ extract, Rabbi Dr. Yehuda Feliks (1921-2004) writing that *rosh* is best
 identified with poppy and opium or with conium, and to that effect Pappenheim
 traces it to ר-ש, head, for that plant's round top, which resembles a head.
 *Chamat* (Devarim 32:33, Tehillim 58:5) is poison named for what a snake emits
-when its *cheimah* is aroused, the same anger motif as Rashi's *eches*, here
-carried in the word itself.
+when its *cheimah* is aroused.
 
 ### ra'al (רעל) and tarelah (תרעלה)
 Nachum 2:4, Zechariah 12:2; *tarelah* in Tehillim 60:5, Yeshayahu 51:17, 51:22.
@@ -87,8 +86,8 @@ is a concoction that leaves a man weak and immobile, as though tied up and
 detained. A near word *re'alah* (Yeshayahu 3:19) is an ornament one wraps
 oneself in. Radak (to Yeshayahu 51:17 and in *Sefer HaShorashim*) cites the
 poison reading but also defines the word as shake, rattle and roll, akin to
-*ro'ed*, to which the column suggests it may be etymologically connected through
-the interchangeability of lamed and dalet. The column offers its own hedged
+*ro'ed*, to which Rabbi Reuven Chaim Klein suggests it may be etymologically connected through
+the interchangeability of lamed and dalet. Rabbi Klein offers his own hedged
 reconciliation of the two readings: perhaps *ra'al* names not a lethal poison
 but a toxic contagion that throws a man into seizure-like convulsions. In Modern
 Hebrew *ra'al* is deadly poison.
@@ -105,13 +104,13 @@ that basis Rashi (to Yeshayahu 3:16) glosses *eches* as snake venom and the verb
 as poisoning them to sin; the Vilna Gaon joins the two senses by taking *eches*
 as shoes enclosed in snakeskin. Ibn Ezra and Radak (to 3:16) dissent, tying the
 verb to the noun: the women drew attention to themselves by the noise of their
-shoes, which Radak adds chimed like bells in a steady beat. The column adds a
-suggestion of its own, which these commentators do not make: perhaps that sense
+shoes, which Radak adds chimed like bells in a steady beat. Rabbi Reuven Chaim
+Klein adds a suggestion of his own, which these commentators do not make: perhaps that sense
 too runs back to snakes, since the sound resembles a rattlesnake's rattle. At
 Mishlei 7:22 Rashi again reads venom, while Rabbi Yeshayah of Trani (1180-1250)
 takes it as a prisoner's ball and chain, which ties back to the shoe sense since
 both are fastened to the feet (so too Ibn Ezra there and Radak in *Sefer
-HaShorashim*); the point of the analogy, the column says presumably, is that a
+HaShorashim*); the point of the analogy, Rabbi Klein suggests, is presumably that a
 sin is bound to a man forever and resurfaces on the Day of Judgment (Sotah 3b).
 Others explain *eches* as "dog."
 
@@ -127,7 +126,7 @@ heart. Either way, the connection is already in the Gemara, which expounds the
 name of Kalev's daughter Achsah (Yehoshua 15:16-17, Shoftim 1:12-13, Divrei
 HaYamim I 2:49) as one at whom every man who saw her grew angry (*ka'as*) at his
 wife, which Rashi explains to mean that she was so beautiful that the comparison
-made a man angry at his wife for falling short; the exegesis rests on the
+might make a man angry at his wife for falling short; the exegesis rests on the
 metathesis of ע-כ-ס against כ-ע-ס. The great Italian mekubal Rabbi Menachem
 Azariah of Fano (1548-1620) reads her name as marking her a gilgul of Tzipporah,
 who saved Moshe from death by *nachash* through circumcising their child (Shemos
@@ -135,8 +134,9 @@ who saved Moshe from death by *nachash* through circumcising their child (Shemos
 
 ### la'anah (לענה)
 Rabbi Shlomo of Urbino (*Ohel Moed*) counts *la'anah* a synonym of *rosh*,
-*chamat* and *ra'al*, all poison. This is his own novelty: Rashi and Radak call
-*la'anah* extremely bitter but not deadly.
+*chamat* and *ra'al*, all poison. This is quite novel: the earlier commentators,
+such as Rashi and Radak, call *la'anah* very bitter but do not write that it is
+deadly.
 
 ## Rendering guidance
 

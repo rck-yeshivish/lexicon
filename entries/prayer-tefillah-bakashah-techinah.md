@@ -40,8 +40,7 @@ swordsman nor an archer; his power was in his voice (Bereishis 27:22). So the
 mesorah (*Bava Basra* 123a) reads the pasuk non-literally: "my sword" is
 *tefillah*, prayer, and "my bow" is *bakashah*, request. Targum Onkelos renders
 the words the same way, *tzeloti* and *bausi*. That the two stand side by side
-suggests they are not the same thing, and the column's question is both what
-divides them and what either has to do with swords and arrows.
+suggests they are not the same thing.
 
 ### tefillah (תפילה)
 Root פ-ל-ל. Rabbi Yaakov Tzvi Mecklenburg derives *tefillah* from *pelilah*,

@@ -84,8 +84,8 @@ temporarily housed by the lender), *keshoch*/*shechachah* (quelling, anger
 abating back to one's normal state), *shechem* (shoulder, a limb positioned to
 connect neck and upper arm), *eshech* (testes, positioned within the sac) and
 *neshech* (biting, the teeth coming together as they naturally want to); so
-*moshech* interrupts that well-groundedness to pull a thing from its place. The
-column adds in brackets that Pappenheim does recognize a biliteral מ-ש,
+*moshech* interrupts that well-groundedness to pull a thing from its place.
+Pappenheim does recognize a biliteral מ-ש,
 "feeling/touching," but does not see it as the core etymon of *moshe*.
 
 **Which stage of drawing shoev names.** Rav Hirsch (to Bereishis 24:65, Devarim
@@ -133,7 +133,7 @@ origin at all but were borrowed into Hebrew from Egyptian, in contrast to
 ### moshech (משך), shoev (שאב) and shoef (שאף)
 *Moshech* has about forty appearances: pull something toward oneself, extended
 to stretching, dragging, and leading; at Shoftim 5:14 it is used for writing,
-*mosh'chim b'shevet sofer*, since ink is pulled from the pen.
+*mosh'chim b'shevet sofer*, since ink flowing from the pen is akin to being pulled from it.
 *Shoev*, root ש-א-ב, some twenty appearances, in almost all instances drawing
 water from a well, an act done by lowering a bucket into the subterranean
 wellspring, letting it fill, and raising it back toward oneself. Later Hebrew
@@ -166,8 +166,8 @@ Others read the active form as pointing at Moshe himself. Rabbi Moshe Alshich (t
 Shemos 2:10) suggests that in naming him Moshe she meant to express the magnetic
 charm that compelled her to leave the palace and bathe in the river (see Ibn Ezra
 there), as though *he* pulled *her* toward it. Rabbi Shlomo Zalman Ehrenreich
-similarly takes the name for Moshe's power to draw the people after him, a
-magnetic personality, or for his pulling Yisrael out of the impurities of
+similarly suggests the name reflects Moshe's power to draw the people after him, a
+magnetic personality, or his pulling Yisrael out of the impurities of
 Mitzrayim. *Peirush HaRokeach* (to Shemos 2:10): he was destined to pull the
 Jewish People out of the water at the Splitting of the Sea. The Tosafists
 (*Moshav Zekanim* to Shemos 2:10): she prophesied his drawing water from the rock
@@ -177,10 +177,10 @@ Menachem Mendel Kasher in *Torah Shleimah* cites an unpublished medieval
 manuscript suggesting that Hashem arranged for her to name him Moshe because
 משה is השם spelled backwards.
 
-Two more go in a different direction, and they are not the same reading. Chizkuni
+Two more go in a slightly different direction. Chizkuni
 (to Shemos 2:10) implies that in giving the name she was praying that Moshe grow
 up to be the one who liberates the Jewish People from bondage, as she had rescued
-him from the water. Rav Hirsch (to Shemos 2:10) makes it pedagogical: she called
+him from the water. Rav Hirsch (to Shemos 2:10) advances a similar idea and makes it pedagogical: she called
 him Moshe rather than Mashui so as to raise him ever conscious that his own life
 had depended on the saving act of the one who drew him out, so that he in turn
 would act to save others who are oppressed and extract them from their situations.

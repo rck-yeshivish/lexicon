@@ -34,9 +34,9 @@ updated: 2026-09-10
 *Rechush* is **property** or **possessions**, the movable goods a man has
 gathered. *Mikneh* is not property at large but **livestock**, the herds that
 were the ancient world's measure of wealth. *Nechasim*, always plural, is
-**assets**, the word the Mishnah uses where Tanach would say *rechush* or
-*mikneh*. *Mikneh* shares the root of *kinyan* and looks like a general word
-for what one has acquired, but unless context forces otherwise it is herds.
+**assets**, the standard word in the Mishnah, where *rechush* and *mikneh* do
+not appear at all. *Mikneh* shares the root of *kinyan* and looks like a general word
+for what one has acquired, but it is herds.
 
 ## At a glance
 
@@ -64,16 +64,15 @@ for what one has acquired, but unless context forces otherwise it is herds.
 3. **Animals against people.** Rabbi Menachem ben Shlomo (c. 1140), *Midrash
    Sechel Tov* (to Bereishis 31:18, 36:6-7), who *seems* to explain that
    *mikneh* is animal property and *rechush* human property, slaves and
-   maidservants. The column offers this as an explanation that "can be gleaned"
+   maidservants. Rabbi Klein offers this as an explanation that "can be gleaned"
    from him, not as his stated position.
 
-The column does not adjudicate between the three.
-
-**Where *nechasim* comes from.** Bamidbar Rabbah 22:8 and Rabbi Shlomo Pappenheim
-take it from KAF-SAMECH, whose core sense for Pappenheim is placing one thing on
-top of another. Rabbi Aharon Marcus contends that *neches*, the singular, is
-likewise derived from *reches*, ostensibly through the interchangeability of
-REISH and NUN, making it a cousin of *rechush*. He notes that *nechasim* has
+**Where *nechasim* comes from.** Bamidbar Rabbah 22:8 relates it to *kisui*, and
+Rabbi Shlomo Pappenheim takes it from KAF-SAMECH, whose core sense for him is
+placing one thing on top of another. Rabbi Aharon Marcus contends that *neches*,
+the singular, is likewise derived from *reches* (ostensibly, on Rabbi Klein's
+reading, through the interchangeability of REISH and NUN), making it a cousin of
+*rechush*. He notes that *nechasim* has
 similar-sounding cognates in Phoenician (Canaanite) and Akkadian, languages whose
 speakers were in close contact with Hebrew from an early time, and that
 *nechasim* first appears in Sefer Yehoshua, written once the Jews had reached the
@@ -116,9 +115,9 @@ can be seen in the fact that of the first three letters of the alphabet, two
 refer to domesticated animals: *aleph* means "ox," and *gimmel* is related to
 *gamal*, "camel." Rabbi Shlomo Pappenheim
 gives KUF-NUN the core sense of a minimal dwelling, whence *ken*, a bird's nest,
-and *kinyan*, which shifts an item from one domain into another; *mikneh* is then
+and *kinyan*, which often shifts an item from one domain into another; *mikneh* is then
 either the commercially central asset (a beast serves for wool, milk, hide,
-offspring, meat, and field work, where produce is only eaten) or the animal kept
+offspring, meat, and field work, where produce is only eaten) or the animal often kept
 in a barn rather than a home.
 
 ### nechasim (נכסים)
@@ -139,7 +138,7 @@ who toils not always being the one who enjoys the fruit. He closes the discussio
 cynically: "many people gather up money for the benefit of their wives' [future]
 husbands." Rabbi Shimon Yehuda Leib Goldblit, an early twentieth-century exegete,
 offers two more ways of tying *nechasim* to *kisui*: a man's financial worth is
-hidden from those who meet him, since net worth is not apparent to one who does
+often hidden from those who meet him, since net worth is not readily apparent to one who does
 not know; or, where a man has all sorts of flaws but is wealthy, his wealth
 covers up his shortcomings so that people relate to him as though he did not have
 them (this second explanation is already found in *Shoresh Yesha*). Rabbi Shlomo

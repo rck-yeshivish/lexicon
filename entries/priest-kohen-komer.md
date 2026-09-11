@@ -20,8 +20,9 @@ of Poti Phera, Yisro, and the priest of Michah's idol no less than of Aharon's
 sons. *Komer* is specific: an **idolatrous priest** (Radak, Ibn Kaspi).
 *Kohen* does not by itself mean an idolatrous priest; the Targum and Rashi
 decide that case by case. This distinction does not settle Tzefaniah 1:4, where
-the column leaves four readings standing, including Targum and Rashi reversing the usual
-division and Dr. Chaim Tawil making the two words synonyms from two languages.
+four readings stand, including Targum and Rashi seemingly reversing the usual
+division and, on Dr. Chaim Tawil's Akkadian evidence, the possibility that the
+two words are synonyms from two languages.
 
 ## Distinctions
 
@@ -32,7 +33,7 @@ priests exempt from Yosef's levy (Bereishis 47:22), and the man appointed over
 Michah's idol (Shoftim 18:4), so that in all these places it seems the word is
 being used of a religious functionary of an idolatrous cult. But Targum Onkelos
 does not treat these alike: at Poti Phera and Yisro he renders *kohen* as
-*rabbah*, master, which implies political leadership rather than ritual office,
+*rabbah*, master, which implies political leadership more than ritual office,
 while at the Egyptian priests and Michah's priest he renders *komer*. Rashi
 likewise calls the Egyptian *kohanim* *komrim*, and gives the rule: *kohen*
 means any religious functionary, except where it is attached to a place name
@@ -54,10 +55,10 @@ secondary senses: one who wears any sort of special clothes, as a *chasan* does
 capacity, as a prince does (Shmuel II 8:18). Rabbi Aharon Marcus (1843-1916)
 notes that the Arabic *kahin*, soothsayer or diviner, is probably a cognate of
 *kohen*, and on that basis suggests that the root of *kohen* is *koh*, "thus,"
-the prophets' word when they relay Hashem's message. The column adds that this
-makes sense, since kohanim not only served in the Mikdash but were instrumental
-in teaching Torah, which is likewise a relaying of Hashem's word (see Malachi
-2:7).
+the prophets' word when they relay Hashem's message. Rabbi Klein adds that,
+since kohanim not only served in the Mikdash but were instrumental in teaching
+Torah, it makes sense that they would be associated with prophecy, which
+likewise relays Hashem's word (see Malachi 2:7).
 
 ### komer (כומר)
 Radak (Tzefaniah 1:4, Melachim II 23:5, and *Sefer HaShorashim*): *komer* means
@@ -70,7 +71,7 @@ grapes all clustered together (Bechoros 31a); on his reading a *komer* is
 specifically an idolatrous priest secluded and clustered in a monastery, that
 is, a monk, while *kohen* is the more general word.
 
-The column also notes a letter from the Elephantine Papyri that distinguishes
+A letter from the Elephantine Papyri distinguishes
 Jewish priests, called *kohanim*, from Egyptian priests, called *komrim*.
 
 Rav Hirsch reads *komer* from *nichmeru rachamav*, of Yosef's mercy welling up

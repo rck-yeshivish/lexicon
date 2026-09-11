@@ -25,7 +25,7 @@ extension a man's **post**. *Duchan* is Mishnaic, the **platform** the Leviim
 sang from and, in the Gemara, the platform the Kohanim bless from (hence the
 Yiddish *duchenen*); it is a noun, not a verb. *Bimah* is the **stage** or
 **dais**, and *basis* the **base** of a vessel, both Mishnaic. *Itztaba* is a
-raised **platform** or **colonnade** in the Beis HaMikdash. *Duchan* is not an
+raised **platform** or **colonnade**, mostly in the Beis HaMikdash. *Duchan* is not an
 action; a Kohen goes up *to* the *duchan*.
 
 ## Distinctions
@@ -66,16 +66,16 @@ of the Greek prefix *du-*, double, with the Biblical Hebrew *kan*, base, since
 an elevated platform might be twice the width of the stairs that lead up to it,
 so that it literally means "double base"; or from the root ד-ו-כ, to smash or
 flatten, since the *duchan* was typically a small area and those standing on it
-might have to squeeze together. The column extends that second reading on its
-own: the Proto-Indo-European root *plat-*, originally "to spread" or "to
+might have to squeeze together. Rabbi Reuven Chaim Klein extends that second
+reading on his own: the Proto-Indo-European root *plat-*, originally "to spread" or "to
 flatten," yielded a whole family of words for a flat surface, English *flat*,
 *place* (through the Greek *platus*), *platy*, *plaza*, *plate*, *plateau*, and
 also the Rabbinic Hebrew *platya*, street or highway, and the Modern Hebrew
 *plata*, the flat surface for warming food. The same development could be true
 in Hebrew, a name for a flat surface growing out of the verb for flattening, and
-the column notes that Rabbi Ernest Klein makes a similar point. In Modern
+Rabbi Ernest Klein makes a similar point. In Modern
 Hebrew a *duchan* is a booth or stand from which a person peddles his wares;
-Klein connects that too to the Arabic *dukkan*, bench or shop. Rabbi Baruch
+Rabbi Ernest Klein connects that too to the Arabic *dukkan*, bench or shop. Rabbi Baruch
 HaLevi Epstein (*Degel HaTorah* §11; see also *Mekor Baruch* vol. 3 p. 1442)
 writes that in Talmudic times a Rosh Yeshiva was sometimes known as a *Reish
 Duchana*, on account of his standing as a public lecturer who spoke from a
@@ -92,12 +92,12 @@ table or surface in the middle of the shul on which the Torah is read, and in
 Modern Hebrew a theatre director is a *bamai*, one who directs what happens on
 the stage. Rashi (Sukkah 51b, Avodah Zarah 16a, Sotah 41a) glosses it into Old
 French as *almemar* (or *almemor*), the form German (Yekkish) Jewry still uses;
-that term, the column notes, itself derives from the Arabic *al-minbar*, the
+that term itself derives from the Arabic *al-minbar*, the
 pulpit or seat, on the Ethiopic *minbar*, seat (see also Rambam's commentary to
 Keilim 2:3). How an Arabic term reached the medieval French Jewish vernacular
 has hexed linguists and historians like Max Weinreich for generations.
 
-The consensus of scholars, the column reports, is that *bimah* comes from the
+The consensus of scholars is that *bimah* comes from the
 Greek *bema*, pacing, marching, stepping, step or platform, which in turn comes
 from the Greek *bainein*, going, apparently also the source of the Greek *basis*
 below. On that account *bimah* is not an original Hebrew word and does not even

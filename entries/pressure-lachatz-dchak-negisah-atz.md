@@ -21,7 +21,7 @@ updated: 2026-09-10
 *Lachatz* is **pressure** applied; on Rabbi Shimon Schwab the eye is on the one
 applying it. *D'chak* is **crowding** or **squeezing out**, and on Rabbi Shlomo
 Pappenheim's crudest sense it is shoving a man from his place so that someone
-else can have it. How the two differ is itself disputed, and the column gives
+else can have it. How the two differ is itself disputed, with
 five readings that do not agree, Rabbi Eliezer Ashkenazi and Pappenheim taking
 opposite sides on which of the two carries the malice. *Negisah* is the
 **taskmaster's driving**, relentless and up close. *Atz* is **hurrying** someone
@@ -38,7 +38,7 @@ The Haggadah, on the mikra bikkurim declaration *v'es amaleinu v'es lachatzeinu*
 3:9, *v'gam raisi es halachatz asher Mitzrayim lochatzim osam*, another
 *lachatz* verse. The derashah therefore begs for a deeper explanation, since it
 defines a word by a word and proves it from a second pasuk carrying the very
-same word. Every authority below is answering the same two questions: what
+same word. Two questions follow: what
 divides *lachatz* from *d'chak*, and how the second pasuk shows that the first
 one's *lachatz* really is *d'chak*.
 
@@ -49,7 +49,8 @@ one's *lachatz* really is *d'chak*.
   the Jews' work but had malevolent intentions and meant them harm.
 - Rabbi Shlomo Pappenheim of Breslau (1740-1814) takes it conversely (see
   Shoftim 2:18, Yoel 2:8): *lachatz* is pressuring a man chiefly to make him
-  suffer, *d'chak* is pressuring another for one's own benefit even at his cost,
+  suffer, *d'chak* is primarily pressuring another for one's own benefit even if
+  it might come at his cost,
   and in its crudest sense pushing a man out of his place so that another can
   take it, where the intention is not to hurt the one pushed but to benefit the
   one who replaces him. On his reading the Haggadah's gloss softens the pasuk:
@@ -98,8 +99,8 @@ Pappenheim traces *negisah* to the biliteral ג-ש, closeness, notwithstanding t
 sin: *gishah* (drawing as near as possible), *gush* (a tightly packed clump),
 *geshem* (rain from clouds of highly concentrated vapor), and he even suggests
 Goshen, the one region the Jews were allowed to settle, for its compact dirt
-against the sandier rest of Mitzrayim. So *negisah* is marked by repeated
-encounters between the one pressing and the one pressed, the two as close as can
+against the rest of Mitzrayim, which was apparently sandier. So *negisah* is marked by repeated
+encounters between the one pressing and the one pressed, as though the two were as close as can
 be, standing over a man and not giving him space to breathe. Malbim (to
 Yeshayahu 3:5) draws a further line: *negisah* is pressing a man to pay money he
 does not actually owe, *nosheh* is pressing for money he is already obligated to
@@ -112,7 +113,7 @@ not merely urge Lot verbally but physically pushed him out. Pappenheim reads it
 otherwise: from the biliteral א-צ and ultimately the single letter צ, going out,
 so *atz* is pressing a man to move faster. The malachim pressed Lot to leave
 sooner; the *nogsim* pressed the Jews to work faster. One who is hurried has no
-patience for the next stage and must be out of his present state at once.
+patience for the next stage and feels compelled to be out of his present state at once.
 
 ### alatz (אלץ)
 Once in Tanach: Delilah pressing Shimshon for the secret of his strength

@@ -20,9 +20,9 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mot* is a thick carrying pole borne on the shoulders, and in the feminine
+*Mot* is a thick carrying pole, and in the feminine
 *motah* the bar of a yoke: **carrying pole, yoke-bar**. *Bad* is the same object
-in the Mishkan vessels, a stave slid through rings: **stave**. *Neis* is a tall
+in the Mishkan vessels: **stave**. *Neis* is a tall
 upright pole raised to be seen, hence **banner, standard**, and on a ship the
 **sail**. *Toren* is the **mast** that holds the *neis* up. *Shapud* is a
 pointed **skewer** or spit.
@@ -50,8 +50,8 @@ works from ט-ה, whose core sense is changing the present
 situation by inclining or turning: *natah*, *lematah*, *matah*, *mitah* (one
 inclines to lie down), *mateh* (leaned on while walking). In *Cheishek Shlomo*
 he offers two readings of *mot* and says the pesukim cannot decide between
-them: either a thick pole from the lower part of a tree, hence *lematah*, or a
-branch that turns out sideways from the trunk, hence *natah*. In *Yerios
+them: either a thick pole, typically from the lower part of a tree, hence *lematah*, or a
+pole typically taken from a branch that turns out sideways from the trunk, hence *natah*. In *Yerios
 Shlomo* he simply calls a *mot* a reinforced *mateh*.
 
 ### bad (בד)
@@ -60,10 +60,10 @@ the staves of the Shulchan (Shemos 25:28, 37:14), the golden Mizbeiach (Shemos
 30:4, 37:27), the copper Mizbeiach (Shemos 27:7, 38:7) and the Aron (Shemos
 25:13-15, 37:5). The root ב-ד-(ד) also yields *levad*, alone, and *boded*,
 singular, and *hisbodedus*. Pappenheim (*Yerios Shlomo*) connects them two ways:
-once a branch of the right quality is chosen for a stave it is the one branch
+once a branch of the right quality is chosen for a stave it can be viewed as the one branch
 out of all the others, singular among its peers; or a *bad* is the thick branch
 that comes off the tree right at the root and so looks like a tree standing
-alone. That lower branch is thick and hard, which is why it serves for carrying
+alone. That lower branch is thick and hard, which is why it often serves for carrying
 loads, for bars, and for the beam of a scale, and why an olive press is a *beis
 habad* (*Shabbos* 1:9, *Nedarim* 3:2, *Bava Metzia* 10:4, *Bava Basra* 1:6 and
 4:4-5, *Shevuos* 3:8, *Keilim* 12:3 and 20:3, *Taharos* 10:1-2 and 10:8,
@@ -74,7 +74,7 @@ A tall pole or flagpole, appearing about twenty times in Tanach on Even
 Shoshan's concordance. The copper snake was set on a *neis* so that the bitten
 could look at it and live (Bamidbar 21:8-9), and we
 daven to "raise a *neis* to gather in our exiles." Pappenheim defines it as a
-tall *mot* and does not trouble himself over the near synonymy. Roots:
+tall *mot* and does not seem troubled by the near synonymy. Roots:
 *Machberes Menachem*, נ-ס, which also yields fleeing and miracle; Radak (*Sefer
 HaShorashim*), נ-ס-ס, and he links flagpole to fleeing because in ancient battle
 when the flagbearer fell the whole army lost heart and fled. The nearby
@@ -109,21 +109,21 @@ furling and unfurling, whose derivative *meisar*, rope, gives him the mast,
 since the mast is held fast by ropes.
 
 ### shapud (שפוד)
-Mishnaic only: a wooden pole with a sharpened end, a spit or skewer (*Pesachim*
+Mishnaic only: usually a wooden pole with a sharpened end, a spit or skewer (*Pesachim*
 7:1-2, *Sukkah* 1:8, *Bava Kamma* 8:1, *Avodah Zarah* 5:12, *Zevachim* 11:7,
 *Keilim* 5:5 and 7:3, *Ohalos* 1:3). Vocalization is unsettled: the Kaufmann
 manuscript, the earliest vowelized Mishnah, reads *shfud* in most places,
 *shfod* at *Keilim* 5:5 and *shifud* at *Keilim* 7:3, and *shpud*, *shafud* and
-*shafod* are all current as well. Modern Hebrew says *shipud*, and that
+*shafod* are all current as well. Modern Hebrew most commonly says *shipud*, and that
 pronunciation was given official recognition by the Academy of the Hebrew
 Language in 2019, as reported by Doron Yaakov (*Academ* vol. 40 pp. 2-3). Rabbi
-Ernest Klein (no relation to the columnist) argues that *shapud* is ultimately a
+Ernest Klein (no relation to Rabbi Reuven Chaim Klein) argues that *shapud* is ultimately a
 loanword from the Greek *spodos*, charcoal, embers or ashes, which came also to
-mean a spit for roasting meat, as the Italian *spiedo* does. The column adds an
-etymology of its own, flagging that it usually shies away from speculative ones:
+mean a spit for roasting meat, as the Italian *spiedo* does. Rabbi Reuven Chaim
+Klein adds an etymology of his own, flagging that he usually shies away from speculative ones:
 English *spit* comes from German *spitz*, point or sharp end, from the
 Proto-Indo-European root *spei-* or *spi-*, something pointy, which also gives
-*spike* and *spoke*, and it seems fairly clear to the column that *spit* and its
+*spike* and *spoke*, and it seems fairly clear to him that *spit* and its
 cognates go back to the same Greek word as *shapud*, on the interchange of the
 *t* and *d* sounds in Germanic under Grimm's Law, the Danish *spid* for English
 *spit* showing that dynamic.

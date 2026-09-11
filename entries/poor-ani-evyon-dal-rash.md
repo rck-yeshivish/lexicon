@@ -56,15 +56,16 @@ Related to *ta'av*, desire: full of wants he cannot fill. Bedersi draws the
 striking consequence that a rich man who wants more than he has and cannot get
 it is in that respect an *evyon*, and notes that most wealthy people do want
 more than they have, so that in certain ways they may aptly be called
-*evyonim*, which sharpens the Mishnah "Who is rich? He who is happy with his
+*evyonim*, which, Rabbi Klein notes, sharpens the Mishnah "Who is rich? He who is happy with his
 lot" (*Avos* 4:1). Rabbi Yehuda Kalatz agrees on the definition and adds a moral
 edge: the *evyon* is lazy and brought it on himself by refusing even to try,
 having no trade, no skill, no business, and not even the knack of appealing for
 charity.
 
-The gradation carries halachic weight in *matanos la'evyonim* on Purim. Rabbi
-Yair Chaim Bachrach (1639-1702) and Rabbi Moshe Sternbuch: give preferentially
-to an *evyon* rather than an ordinary *ani*. Rabbi Yechiel Michel Epstein
+The gradation carries halachic weight in *matanos la'evyonim* on Purim. Some
+authorities, such as Rabbi Yair Chaim Bachrach (1639-1702) and Rabbi Moshe
+Sternbuch, hold that one should give preferentially to an *evyon* rather than an
+ordinary *ani*. Rabbi Yechiel Michel Epstein
 (1829-1907) and Rav Chaim Kanievsky read it the other way: the Megillah says the
 gifts may be given *even* to an *evyon*, and certainly to an *ani*, whose need is
 more pressing and otherwise less likely to be met precisely because he will not
@@ -121,7 +122,7 @@ From "going," and it occurs once in Tanach in this sense, in Nasan's parable to
 David (Shmuel II 12:4). Either the poor man who
 goes door to door raising money, or the man whose assets have all gone. It can
 equally mean any panhandler or itinerant peddler whatever his means, which is
-perhaps why, as the column suggests, it appears in only some of the midrashic
+perhaps why, as Rabbi Klein suggests, it appears in only some of the midrashic
 lists.
 
 ## Rendering guidance
