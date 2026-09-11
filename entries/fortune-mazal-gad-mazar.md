@@ -32,9 +32,9 @@ updated: 2026-09-10
 *Mazal* is a **constellation** in its one Biblical use and, in Chazal, the
 **destiny** or Divine influence channeled to a person or thing. *Gad* is
 **fortune**, and more precisely the spiritual force assigned to a particular
-thing (Rabbi Shlomo Pappenheim). *Mazar* is a hapax; render it **constellation**
-with Rashi, noting Ibn Ezra. The trap is "luck": *mazal* is never blind chance,
-and a translation that writes "luck" imports the very idea Chazal reject.
+thing (Rabbi Shlomo Pappenheim). *Mazar* is a hapax: a **constellation** for
+Rashi, a particular star or group of stars for Ibn Ezra. *Mazal* is never blind
+chance, the very idea Chazal reject.
 
 ## At a glance
 
@@ -54,8 +54,6 @@ star or group of stars, as Ramban and Ralbag also cite. Dunash Ibn Labrat takes
 it out of the sky entirely: a blowing wind. Rabbi Yitzchak the Blind (to *Sefer
 Yetzirah* 5) keeps it astrological but somehow different from *mazal*, and the
 column says frankly that his explanation lies beyond its level of understanding.
-Follow the majority, since Rashi and the lexicographers carry the field, and flag
-Ibn Ezra.
 
 **How *mazal* is derived.** The anonymous commentator to Rambam's Hilchos Yesodei
 HaTorah: from the Aramaic *azal*, "going," since the sun and moon travel through
@@ -165,16 +163,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayetzei: Gad Luck to You](https://articles.ohr.edu/articles/vayetzei-gad-luck-to-you)," What's in a Word?, Ohr
-Somayach, 2 Kislev 5783 (2022-11-26): raw text in
-`sources/whats-in-a-word/raw/10730-vayetzei-gad-luck-to-you.md`. Primary loci:
-Bereishis 30:11 with Rashi; Melachim II 23:5; Yeshayahu 65:11; Iyov 38:32 with
-Rabbi Saadia Gaon, Rashi, Ibn Ezra, Ramban, and Ralbag; Berachos 32b; Chullin
-40a; Nedarim 56a with the Ran; Megillah 3a and Shabbos 53b, 61b with Rashi; Zohar
-Naso 134a; *Shaarei Orah* shaar 3; *Tiferes Yisrael* to Kiddushin 4; Ramban to
-Shemos 22:15; Shemos 22:5, Iyov 5:26 and 21:32, Shoftim 15:5 (*gadish*); *Sefer
-HaShorashim* s.v. נזל and מזר; *Cheshek Shlomo* s.v. זל; *Sefer HeAruch* s.v. גד;
-Dunash's replies to Rabbi Saadia Gaon; *Ohalei Yehudah*. Nothing the article
-carries is omitted here, including the Arabic comparisons of the anonymous
-commentator to Rambam and the Akkadian derivations of Ernest Klein and Chaim
-Tawil.
+Rabbi Reuven Chaim Klein, "[Vayetzei: Gad Luck to You](https://articles.ohr.edu/articles/vayetzei-gad-luck-to-you)," *What's in a Word?*, Ohr Somayach, 26 November 2022.
+
+Cited in the essay: Bereishis 30:11 with Rashi and Rav Hirsch; Melachim II 23:5; Yeshayahu 65:11; Iyov 38:32 with Rabbi Saadia Gaon, Rashi, Ibn Ezra, Ramban, and Ralbag; Berachos 32b; Chullin 40a; Nedarim 56a with the Ran; Megillah 3a and Shabbos 53b, 61b with Rashi; Zohar Naso 134a; Rabbi Yosef Gikatilla, *Shaarei Orah* shaar 3; *Tiferes Yisrael* to Kiddushin 4; Ramban to Shemos 22:15; Shemos 22:5, Iyov 5:26 and 21:32, Shoftim 15:5 (*gadish*); *Sefer HaShorashim* s.v. נזל and מזר; *Cheshek Shlomo* s.v. זל; *Sefer HeAruch* s.v. גד; Dunash's replies to Rabbi Saadia Gaon; *Ohalei Yehudah*; Menachem Ibn Saruk; Ibn Janach; Radak; Rabbi Moshe Kimchi; Rabbi Yitzchak the Blind to *Sefer Yetzirah* 5; the anonymous commentator to Rambam's Hilchos Yesodei HaTorah; Ramchal; *Shoresh Yesha*; Rabbi Yosef Grayever of Ostrow; Rabbi Eliyahu Katz; Ernest Klein; Chaim Tawil.

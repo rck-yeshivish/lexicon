@@ -21,9 +21,7 @@ the only common one of the three, and in the Mishnah it appears as *ginah*.
 *Pardes* is the narrower and grander word, usually **orchard**, and Koheles names
 both in one pasuk (Koheles 2:5), which is the proof they are not synonyms.
 *Bustan* is Talmudic Aramaic for a **garden**, a Persian word, and Rashi defines
-it by *pardes* while Rashbam defines it by *gan*. The one thing not to get wrong:
-never render *pardes* as "paradise" in a pasuk, an English word that reached us
-through the Septuagint and reads a later theology back into the text.
+it by *pardes* while Rashbam defines it by *gan*.
 
 ## Distinctions
 
@@ -73,8 +71,8 @@ On the root:
   sorrow off it; *gai*, a valley, whose ground is soft and absorbent and so
   fertile; *gas*, a winepress, which softens and smashes the grapes; *gigis*,
   the vessel the pressed grapes go into; *magen*, a shield, here because such
-  armor was often made of a soft piece of hide (note that this is a different
-  reason from the one the guarding root gives for the same word); *gei'eh*,
+  armor was often made of a soft piece of hide (a different reason from the
+  one the guarding root gives for the same word); *gei'eh*,
   high or haughty, growth upward resting on a man's pliancy toward change; and
   *gag*, a roof, from *ga'ah*, the highest part of a building. And *gan*, the
   plot whose soil is soft enough for things to grow in it. Rabbi Yehudah
@@ -197,18 +195,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Enter the Garden," What's in a Word?, Ohr Somayach, in
-two parts, 8 and 15 Tishrei 5784 (2023-09-23, 2023-09-30):
-`sources/whats-in-a-word/raw/11105-enter-the-garden-part-1-of-2.md` and
-`sources/whats-in-a-word/raw/11106-enter-the-garden-part-2-of-2.md`. Primary loci
-as cited above, with *Cheshek Shlomo* and *Yerios Shlomo*, *Ohalei Yehuda*,
-*Chosam Tochnis*, *Sefer HaPardes*, and Rabbi David Luria's glosses to *Pirkei
-DeRabbi Eliezer*. Three citation corrections: the article gives Tehillim 8:16
-for Radak on *kanah*, which is Tehillim 80:16; Yirmiyahu 54:7 for the king's
-garden, which is Yirmiyahu 52:7; and, in ruling out *ganav* on Rabbi
-Pappenheim's system, names the root "GIMMEL-LAMMED" where the root under
-discussion is ג-נ. The Semitic cognates of *gan*, the Indo-European histories
-of English *garden* and *botanical*, the Old Persian and Greek behind *pardes*
-and *bustan*, and Dr. Alexander Kohut's Greek reading of the derashah that
-*gan* means "woman" were previously dropped from this entry and have been
-restored to the body, as the column has them.
+Rabbi Reuven Chaim Klein, "[Enter the Garden (Part 1 of 2)](https://articles.ohr.edu/articles/enter-the-garden-part-1-of-2)," *What's in a Word?*, Ohr Somayach, 23 September 2023.
+
+Rabbi Reuven Chaim Klein, "[Enter the Garden (Part 2 of 2)](https://articles.ohr.edu/articles/enter-the-garden-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 30 September 2023.
+
+Cited in the essay: Bereishis 2:8 and 6:14 with Rav Hirsch, 2:15, 13:10, 14:20, 21:33 with Targum Yonasan and Targum Yerushalmi; Shemos 24:6; Yeshayahu 31:5, 51:3; Yechezkel 28:13, 31:8-9; Melachim II 9:27, 25:4; Yirmiyahu 39:4, 52:7; Nechemiah 2:8, 3:15; Tzefaniah 3:18 and Eichah 1:4 with Rashi; Tehillim 80:16 with Radak; Shir HaShirim 4:12, 4:13 with Ibn Ezra, 7:3; Koheles 2:5 with Rabbi Yosef Kara, *Metzudas Tzion* and Ibn Ezra; Mishnah Kilayim 1:2, Shabbos 9:2, Bava Basra 6:1, Bava Kamma 2:1; Bava Metzia 22a with Rashi, 104a; Bava Basra 7a, 61b with Rashbam, 68a; Chagigah 14b with Rashi; Sotah 10a; Shabbos 30b; Megillah 16a; Eruvin 25b with Rashi; Sanhedrin 5a with *Ben Yehoyada*; *Targum Sheini* to Esther 3:8; Pirkei DeRabbi Eliezer ch. 21; Shir HaShirim Rabbah 4:24; Even-Shoshan's concordance; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Aharon Marcus; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Yedaiah HaPenini, introduction to *Sefer HaPardes*; Rabbi Shlomo Aharon Wertheimer; Rabbi David Luria's glosses to *Pirkei DeRabbi Eliezer*; Rabbi Eliyahu HaBachur; the Arizal; the Ramak; the Rema; Rambam, Hilchos Yesodei HaTorah 4:13, Hilchos Talmud Torah 1:12 and *Moreh Nevuchim* 2:30-32; Rabbi Hai Gaon; *Seder Olam Zuta*; *Seder HaDoros* (year 4420); *Otzar Yisrael* s.v. Bustanai; Rabbi Ernest Klein; Dr. Alexander Kohut; Lewis and Short's Latin dictionary; Yoninah Chagit Klein; Rabbi Shaul Goldman.

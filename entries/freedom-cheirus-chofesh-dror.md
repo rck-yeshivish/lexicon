@@ -22,9 +22,8 @@ updated: 2026-09-10
 the Yovel word. *Chofesh* is freedom from the obligation to serve:
 **free, released** (a *chofshi* slave owes no more labor). *Cheirus* is the
 later, rabbinic word, and it is the positive one: **freedom** as a standing,
-the *ben chorin*. Do not use one English word for all three where a passage
-turns on the difference; and note that *cheirus* never carries the sense of
-freedom in Tanach, only in Chazal.
+the *ben chorin*. *Cheirus* never carries the sense of freedom in Tanach, only
+in Chazal.
 
 ## Distinctions
 
@@ -78,7 +77,7 @@ Yirmiyahu 27:20). Rashi to Sotah 49a: *chorin* are people of lineage. Rabbi
 Yitzchok Dov Bamberger, the Wurzburger Rav, connects *chorim* to the Aramaic
 root ח-ו-ר, "white": a dignitary's name must be unstained, and in the ancient
 world only the important wore white. Rabbi Yaakov Tzvi Mecklenburg instead
-links *cheirus* to *chor*, "hole," the same three letters; the article records
+links *cheirus* to *chor*, "hole," the same three letters; the column records
 this and expressly does not develop it. Separately, the column offers a
 suggestion of its own, hedged "it seems to me": Chazal chose *cheirus* to stress
 that newly freed slaves begin with a clean slate and have it in them to become
@@ -86,7 +85,7 @@ people of consequence in their own right, and on Pesach we celebrate that
 potential for greatness.
 
 *Hefker*, "ownerless," is named as conceptually related and is not distinguished
-in the article.
+in the column.
 
 ## Rendering guidance
 
@@ -111,14 +110,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Defining Freedom](https://articles.ohr.edu/articles/defining-freedom)," What's in a Word?, Ohr Somayach,
-15 Nisan 5778 (2018-03-31): raw text in
-`sources/whats-in-a-word/raw/7707-defining-freedom.md`. Primary loci cited:
-Vayikra 25:10; Rosh Hashanah 9b; Beitzah 24a; Radak, *Sefer HaShorashim* s.v.
-דרר; Shemos 30:23; Esther 1:6 with Megillah 12a; Shemos 21; Devarim 15;
-Yirmiyahu 34; Avos 6:2 on Shemos 32:16; Yirmiyahu 27:20 with Rashi; Rashi to
-Sotah 49a. Nothing the article carries is omitted here, including Isaiah Berlin's
-negative and positive liberty, in whose terms it frames Rabbi Sacks's
-*chofesh*/*cheirus* distinction. *Hefker* is listed by the article as
-conceptually related but never distinguished there, and so is not distinguished
-here either.
+Rabbi Reuven Chaim Klein, "[Defining Freedom](https://articles.ohr.edu/articles/defining-freedom)," *What's in a Word?*, Ohr Somayach, 31 March 2018.
+
+Cited in the essay: Vayikra 25:10 with Rashi; Rosh Hashanah 9b; Beitzah 24a; Radak, *Sefer HaShorashim* s.v. דרר; Shemos 30:23 with Ibn Janach and Ramban; Esther 1:6 with Megillah 12a; Shemos 21; Devarim 15; Yirmiyahu 34; Avos 6:2 on Shemos 32:16; Yirmiyahu 27:20 with Rashi; Rashi to Sotah 49a; Ibn Ezra; *Sefer HaAruch*; Rabbi Shlomo Aharon Wertheimer; Rabbi Yitzchok Dov Bamberger; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Jonathan Sacks; Isaiah Berlin.

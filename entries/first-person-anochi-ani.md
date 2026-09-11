@@ -17,14 +17,13 @@ updated: 2026-09-10
 
 Both mean **I**. *Ani* is the plain first person; *anochi* is the emphatic, **I
 myself**, and it is the weightier and rarer word (*ani* outnumbers it more than
-two to one in Tanach). Where the two are contrasted, the workable rule
-for rendering is Malbim's and Rabbi Pappenheim's: with *anochi* the news is in
-the subject (I, and no one else, did it), with *ani* the news is in the
-predicate (what I did, as against something else I might have done). But that is
+two to one in Tanach). Where the two are contrasted, Malbim and Rabbi
+Pappenheim hold that with *anochi* the news is in the subject (I, and no one
+else, did it), and with *ani* the news is in the predicate (what I did, as
+against something else I might have done). But that is
 not the only reading in the field: Rav Hirsch takes *anochi*'s force to be
 nearness rather than exclusion, and Rabbi Edel takes the pair to name body and
-soul. A translator who renders both "I"
-loses every derashah built on the difference, beginning with *Anochi Hashem
+soul. Derashos are built on the difference, beginning with *Anochi Hashem
 Elokecha*.
 
 ## Distinctions
@@ -85,13 +84,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Myself and I](https://articles.ohr.edu/articles/myself-and-i)," What's in a Word?, Ohr Somayach, 22
-Shevat 5777 (2017-02-18): raw text in
-`sources/whats-in-a-word/raw/7144-myself-and-i.md`. The article's stated loci
-are Shemos 20:2 and, for Ibn Ezra's plumb line, the word itself, which the
-article prints *anoch*; the pesukim are Amos 7:7-8, where the word is אֲנָךְ,
-and the article does not print them. Authorities as above:
-Maharal; Rabbi Shlomo Pappenheim; Malbim; Rav Hirsch; Rabbeinu Bachya; Ibn
-Ezra; Rabbi Yehuda Leib Edel; Rabbi Yaakov Tzvi Mecklenburg (*HaKtav
-VeHaKabbalah*). The article gives no chapter-and-verse for several of these, so
-a project quoting them should locate the passage before citing it.
+Rabbi Reuven Chaim Klein, "[Myself and I](https://articles.ohr.edu/articles/myself-and-i)," *What's in a Word?*, Ohr Somayach, 18 February 2017.
+
+Cited in the essay: Shemos 20:2; Amos 7:7-8; Maharal; Rabbi Shlomo Pappenheim; Malbim; Rav Hirsch; Rabbeinu Bachya; Ibn Ezra; Rabbi Yehuda Leib Edel; Rabbi Yaakov Tzvi Mecklenburg, *HaKtav VeHaKabbalah*; the Midrashic tradition on Egyptian *anoch*.

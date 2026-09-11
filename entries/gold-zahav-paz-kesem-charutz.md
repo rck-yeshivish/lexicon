@@ -38,12 +38,11 @@ updated: 2026-09-10
 
 *Zahav* is the general word: **gold**. *Paz* is the purest and rarest grade,
 **fine gold**, and where it stands beside *zahav* in a pasuk the pair is
-ascending, so render "gold and fine gold," not two flat "golds." *Kesem* is also
+ascending. *Kesem* is also
 fine gold, named for the malleability that lets it be beaten thin. *Charutz* is
-gold as mined, dug out of the ground. *Betzer* is contested and should not be
-rendered "gold" without a note: gold, silver, a stronghold, and unrefined ore
-are all live readings of Iyov 22:24. The trap: English has one word where Hebrew
-has five, and Tehillim 19:11 and 119:127 pair two of them deliberately.
+gold as mined, dug out of the ground. *Betzer* is contested: gold, silver, a
+stronghold, and unrefined ore are all live readings of Iyov 22:24. Tehillim
+19:11 and 119:127 pair two of them deliberately.
 
 ## At a glance
 
@@ -61,8 +60,7 @@ has five, and Tehillim 19:11 and 119:127 pair two of them deliberately.
 Radak (to Tehillim 19:11) specifies good, unadulterated gold; Rabbi Shlomo
 Aharon Wertheimer calls it the finest and rarest gold there is. Ibn Ezra (to
 Tehillim 19:11 and Shir HaShirim 5:11) reads it as a precious stone. Rabbi Moshe
-David Valle takes it as royal jewels that happened to be made of gold. The
-Bottom line follows the majority.
+David Valle takes it as royal jewels that happened to be made of gold.
 
 **Where paz comes from.** Rabbi Shlomo Pappenheim: the biliteral פ-ז means quick
 movement, which is why David dancing before the Aron is *mifazez* (Shmuel II
@@ -198,17 +196,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Where's The Gold?](https://articles.ohr.edu/articles/wheres-the-gold)," What's in a Word?, Ohr Somayach,
-7 Sivan 5780 (2020-05-30): raw text in
-`sources/whats-in-a-word/raw/8724-wheres-the-gold.md`. Primary loci: Bereishis
-2:11-12, 10:29, 49:23-24; Melachim I 6 and 7, 9:28, 10:11, 10:16-18, 22:49;
-Divrei HaYamim I 1:23, 29:4; Divrei HaYamim II 3:6, 4, 9:10, 9:15-16; Yeshayahu
-13:12; Yirmiyahu 2:22, 10:9, 51:7; Zechariah 4:12; Tehillim 19:11, 45:10, 68:14,
-119:72, 119:127; Iyov 22:24-25, 28:16, 31:24, 36:19; Shir HaShirim 5:11; Shmuel
-II 6:16; Daniel 10:5; Mishlei 25:11; Yoma 44b-45a and Mishnah Yoma 4:4; Mishnah
-Niddah 8:1; *Tosafos* to Nedarim 32a; *Shemos Rabbah* 35:1; *Tikkunei Zohar*
-*Tikkun* 70; *Sefer HaBris*. The article's Akkadian and Sumerian derivation of
-*kesem* (Dr. Chaim Tawil), its Phoenician and Akkadian derivation of *charutz*,
-William Foxwell Albright's identification of Ophir, Dr. Shmuel Yeivin's color
-scheme for the five words, and the *Oxford English Dictionary* note on "orange"
-were previously dropped from this entry and have been restored to the body.
+Rabbi Reuven Chaim Klein, "[Where's The Gold?](https://articles.ohr.edu/articles/wheres-the-gold)," *What's in a Word?*, Ohr Somayach, 30 May 2020.
+
+Cited in the essay: Bereishis 2:11-12 with Ramban, 10:29, 49:23-24 with Rav Hirsch; Melachim I 6 and 7, 9:28, 10:11, 10:16-18, 22:49; Divrei HaYamim I 1:23, 29:4; Divrei HaYamim II 3:6, 4, 9:10, 9:15-16; Yeshayahu 13:12; Yirmiyahu 2:22, 10:9, 51:7; Zechariah 4:12; Tehillim 19:11 with Radak, Ibn Ezra and Rav Hirsch, 45:10, 68:14, 119:72, 119:127; Iyov 22:24-25, 28:16, 31:24, 36:19; Shir HaShirim 5:11 with Ibn Ezra; Shmuel II 6:16; Daniel 10:5; Mishlei 25:11; Yoma 44b-45a and Mishnah Yoma 4:4; Mishnah Niddah 8:1; *Tosafos* to Nedarim 32a; *Shemos Rabbah* 35:1; *Tikkunei Zohar* *Tikkun* 70; Rabbi Pinchas Eliyahu Horowitz, *Sefer HaBris*; Menachem Ibn Saruk; Donash Ibn Labrat; Ibn Janach; Radak; Ralbag; Rashi; Rabbi Yishaya of Trani; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe David Valle; Rabbi Moshe Ibn Ezra; *Peirush HaRokeach*; Rabbi Todros Abulafia; Rabbi Binyamin HaRofeh Anav; the Maharal; Rabbi Eliezer Papo; Rabbi Yosef Chaim of Baghdad; Dr. Chaim Tawil; William Foxwell Albright; Dr. Shmuel Yeivin; the *Oxford English Dictionary*.

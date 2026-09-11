@@ -23,8 +23,7 @@ acquaintance**, the man one deals with rather than confides in. *Chaver* is the
 middle and the default: **friend**, one joined to you in some shared thing.
 *Reya* is the closest: **companion** or **confidant**, the one you are with
 constantly and to whom you tell your secrets. Rabbi Elazar Rokeach of Worms and
-Rabbi Shlomo Aharon Wertheimer both set them in this order. Do not render all
-three "friend" in a passage that lists them.
+Rabbi Shlomo Aharon Wertheimer both set them in this order.
 
 ## Distinctions
 
@@ -55,7 +54,7 @@ to his wife. Targum Onkelos renders *rei'eihu* sometimes as *chavrei* and
 sometimes as *rachamohi*, "one who loves him," according to the context.
 Yisro's name Reuel is read as his having become a *reya* of Hashem.
 
-The article flags one usage it cannot fit the scale: Shemos 11:2, where the
+The column flags one usage it cannot fit the scale: Shemos 11:2, where the
 Jews are told to ask their Egyptian *rei'eihu* for vessels, uses the most
 intimate of the three.
 
@@ -98,11 +97,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[G-d's Best Friend](https://articles.ohr.edu/articles/g-ds-best-friend)," What's in a Word?, Ohr Somayach,
-18 Shevat 5778 (2018-02-03): raw text in
-`sources/whats-in-a-word/raw/7620-g-ds-best-friend.md`. Primary loci cited: the
-Midrash on Yisro's seven names; Devarim 13:7; Vayikra 19:18; Shemos 11:2;
-Kiddushin 41a; Niddah 17a; Shabbos 63a; Mishlei 13:20 with Rashi, and 18:24
-with Maharsha to Berachos 63a; Targum Onkelos. The article dates Rabbi Elazar
-Rokeach of Worms to the late 12th century and gives Rabbi Wertheimer's years as
-1866-1935; it closes with the Emerson and Clinton lines quoted above.
+Rabbi Reuven Chaim Klein, "[G-d's Best Friend](https://articles.ohr.edu/articles/g-ds-best-friend)," *What's in a Word?*, Ohr Somayach, 3 February 2018.
+
+Cited in the essay: the Midrash on Yisro's seven names; Devarim 13:7; Vayikra 19:18; Shemos 11:2; Kiddushin 41a; Niddah 17a; Shabbos 63a; Mishlei 13:20 with Rashi, and 18:24 with Maharsha to Berachos 63a; Targum Onkelos; Rabbi Elazar Rokeach of Worms, commentary to the Siddur; Rabbi Shlomo Aharon Wertheimer; Ralph Waldo Emerson; President Bill Clinton.

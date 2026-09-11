@@ -90,8 +90,7 @@ forgotten; and (Devarim 4:9) *shachach* is displacement by another focus while
 Slovakia and later of Be'er Sheva, disagrees with both: the Targumim tend to
 render *shachach* and its cognates with *nashah*-words, which he takes as
 evidence that *nashah* is simply the Aramaic way of saying *shachach* and that
-no distinction exists. The Bottom line follows Malbim and Rav Hirsch; Rabbi
-Katz's dissent stays live.
+no distinction exists.
 
 ## Rendering guidance
 
@@ -107,8 +106,8 @@ Katz's dissent stays live.
   smuggle in Rav Hirsch's moral reading where the source has not made it.
   Use "forget" for *shachach*; choose the *nashah* rendering by which
   authority the passage follows, and say so in a note.
-- Do not render *shachach* as "lose" or "blank on"; the register is wrong in a
-  sefer, and Devarim's warnings are commands about a state of mind, not lapses.
+- Do not render *shachach* as "lose" or "blank on"; the register is wrong, and
+  Devarim's warnings are commands about a state of mind, not lapses.
 
 ## Notes for a project
 
@@ -116,12 +115,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Forget About It](https://articles.ohr.edu/articles/forget-about-it)," What's in a Word?, Ohr Somayach,
-14 Elul 5779 (2019-09-14): raw text in
-`sources/whats-in-a-word/raw/8389-forget-about-it.md`. Primary loci cited:
-Devarim 4:9, 4:23, 4:31, 6:12, 8:11, 8:14, 8:19, 9:7, 25:19, 26:13, 31:21,
-32:18; Bereishis 8:1, 32:33, 41:51; Eichah 3:17; Yirmiyahu 23:39; Yeshayahu
-44:21; Iyov 11:6, 39:17; Tehillim 137:5; Zohar Bereishis 170b; Kiddushin 24a;
-Chullin 75b; Shemos 10:1 (*Yitav Lev*). Nothing the article carries is omitted
-here, including Robert Alter, whom it names alongside *Daas Mikra* on Tehillim
-137:5.
+Rabbi Reuven Chaim Klein, "[Forget About It](https://articles.ohr.edu/articles/forget-about-it)," *What's in a Word?*, Ohr Somayach, 14 September 2019.
+
+Cited in the essay: Devarim 4:9 with Rav Hirsch, 4:23, 4:31, 6:12, 8:11, 8:14, 8:19, 9:7, 25:19, 26:13, 31:21, 32:18 with Rashi; Bereishis 8:1 with Rav Hirsch, 32:33, 41:51 with Rabbi Yehuda Chalava and Rabbeinu Bachya ibn Chalava; Eichah 3:17; Yirmiyahu 23:39; Yeshayahu 44:21; Iyov 11:6 with Malbim, 39:17; Tehillim 137:5 with Robert Alter and *Daas Mikra*; Zohar Bereishis 170b; Kiddushin 24a with *Tosafos Chachmei Anglia*; Chullin 75b; Rabbi Yekusiel Yehudah Teitelbaum of Sighet, *Yitav Lev* to Shemos 10:1; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Binyamin Mussafia, *Musaf HaAruch*; Rabbi Shmuel HaLevi, *Nachalas Shivah*; Rabbi Avraham Menachem Rappaport, *Minchah Belulah*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Moshe Tedeschi Ashkenazi, *Hoil Moshe*; Rabbi Eliyahu Katz; Rabbi Moshe Shapiro.

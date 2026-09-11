@@ -32,8 +32,7 @@ updated: 2026-09-10
 the Mishnaic word for a **fast day**, built on *inui*, **affliction**, and so
 wider than food alone. The names are not free variants: *Tzom Gedaliah* and
 *Taanis Esther* carry their words for a reason, and the two proposed reasons
-are given below. Do not render *inui* as "fasting"; it is affliction, of which
-fasting is one form.
+are given below. *Inui* is affliction, of which fasting is one form.
 
 ## At a glance
 
@@ -64,11 +63,8 @@ fasting is one form.
    acceptance of a day as halachically distinct, whose distinction rules out
    eating and drinking, which is why Rambam uses it in *Hilchos Taaniyos*.
 
-The article leaves the two approaches standing side by side; Rabbi Gurwitz
-"takes a different approach," and nothing decides between them. Ours, for
-rendering purposes: where a text uses both words in one breath, Rabbi Gurwitz's
-distinction is the finer instrument; where the question is why a given fast
-bears the name it bears, Rabbi Deutsch-Dayan's answers it.
+The column leaves the two approaches standing side by side; Rabbi Gurwitz
+"takes a different approach," and nothing decides between them.
 
 **Where tzom comes from.** *Tzom* and its variations appear close to fifty times
 in Tanach and usually refer to abstaining from eating. It is probably related to
@@ -134,12 +130,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[United We Fast](https://articles.ohr.edu/articles/united-we-fast)," What's in a Word?, Ohr Somayach, 14
-Tammuz 5777 (2017-07-08): raw text in
-`sources/whats-in-a-word/raw/7332-united-we-fast.md`. Primary loci cited:
-Zechariah 8:19 (the article prints 9:19; the four fasts are listed at 8:19);
-Vayikra 16:29 to 31 (the article prints 16:19 to 21; the *inui* of Yom Kippur
-is 16:29 to 31), 23:27 to 32; Bamidbar 29:7; Ezra 9:5; Melachim I 21:9 with
-Radak; Radak, *Sefer HaShorashim*, in the name of his father; *Chullin* 4:7 on
-*tzomes hagidim*; Yeshayahu 58:3 to 6; Kerisus 6a; Rambam, *Hilchos Nedarim*
-and *Hilchos Taaniyos*; Rema, *Orach Chaim* 686:2 (the article prints 886:2).
+Rabbi Reuven Chaim Klein, "[United We Fast](https://articles.ohr.edu/articles/united-we-fast)," *What's in a Word?*, Ohr Somayach, 8 July 2017.
+
+Cited in the essay: Zechariah 8:19; Vayikra 16:29 to 31, 23:27 to 32; Bamidbar 29:7; Ezra 9:5; Melachim I 21:9 with Radak; Radak, *Sefer HaShorashim*, in the name of his father; *Chullin* 4:7 on *tzomes hagidim*; Yeshayahu 58:3 to 6; Kerisus 6a; Rambam, *Hilchos Nedarim* and *Hilchos Taaniyos*; Rema, *Orach Chaim* 686:2; Rabbi Akiva Shlomo Deutsch-Dayan of Geneva; Rabbi Avraham Etiel Gurwitz; Rabbi Yechiel Heilpern, citing Rabbi Moshe Di'Segovia Benveniste.

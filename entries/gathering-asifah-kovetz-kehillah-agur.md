@@ -44,8 +44,7 @@ updated: 2026-09-10
 *kovetz* is **collecting**, with no bringing-in implied. *Aggudah* goes further:
 the gathered are **bound** into one unit. *Kehillah* is an **assembly** of
 people, *eidah* a **congregation** joined for a purpose, *agur* is
-**stockpiling** for later. English "gather" absorbs the first two, so where they
-stand in consecutive pesukim the difference must show in the English.
+**stockpiling** for later.
 
 ## At a glance
 
@@ -79,8 +78,7 @@ stand in consecutive pesukim the difference must show in the English.
    *kovetz* accumulates them little by little; he derives it from ס-ף, a
    threshold, the group's moving boundary as more are added.
 
-The Bottom line follows the first two, which agree that *asifah* brings in and
-between them cover both worked examples.
+The first two agree that *asifah* brings in.
 
 **Whether asifah of death means arrival or reunion.** Rashi (Bereishis 49:29;
 see 49:33, Bamidbar 27:13): the soul is gathered into the store where souls are
@@ -88,8 +86,7 @@ kept. Radak: he is gathered to his fathers, a reunion.
 
 **Kehillah against eidah.** Rabbi Avraham Bedersi HaPenini: *kehillah* is any
 gathering of people, *eidah* a body joined for a specific cause. The Vilna Gaon
-(Mishlei 5:14): *eidah* is a gathering of the righteous. The Bottom line follows
-Bedersi, fitting the ordinary usage *adas Yisrael*.
+(Mishlei 5:14): *eidah* is a gathering of the righteous.
 
 ## Distinctions
 
@@ -144,14 +141,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Succot - the Majestic Holiday of Gathering](https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering)," What's
-in a Word?, Ohr Somayach, 13 Tishrei 5780 (2019-10-12):
-https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering;
-raw text in `sources/whats-in-a-word/raw/8439-succot-aeur-the-majestic-holiday-of-gathering.md`.
-Primary loci: Shemos 23:16, 30:13, 34:22; Bereishis 49:1-2, 49:29, 49:33;
-Bamidbar 10:2, 11:30, 27:13; Devarim 28:39; Shmuel I 2:36; Melachim I 8:1;
-Chavakuk 2:5; Mishlei 5:14, 30:1; Koheles 1:1 with Rashi; Esther 2:3; Bereishis
-15:1 in Targum Onkelos; Succah 11b, 13a; Avos 5:22; Radak, *Sefer HaShorashim*
-s.v. אסף; *Midrash Agur* 4. *Midrash Agur* reads the two names as the sign of a
-nation gathered as one in Shlomo's days with no in-fighting, what the column
-calls the *pax Judaica*.
+Rabbi Reuven Chaim Klein, "[Succot - the Majestic Holiday of Gathering](https://articles.ohr.edu/articles/succot-aeur-the-majestic-holiday-of-gathering)," *What's in a Word?*, Ohr Somayach, 12 October 2019.
+
+Cited in the essay: Shemos 23:16 and 34:22 with Rashi, 30:13; Bereishis 49:1-2, 49:29 and 49:33 with Rashi; Bamidbar 10:2, 11:30 with Malbim, 27:13; Devarim 28:39; Shmuel I 2:36; Melachim I 8:1; Chavakuk 2:5 with the Vilna Gaon; Mishlei 5:14 with the Vilna Gaon, 30:1; Koheles 1:1 with Rashi; Esther 2:3; Bereishis 15:1 in Targum Onkelos; Succah 11b, 13a; Avos 5:22; Radak, *Sefer HaShorashim* s.v. אסף; *Midrash Agur* 4; Rabbi Yehuda Leib Edel; Rabbi Shlomo Pappenheim; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer.

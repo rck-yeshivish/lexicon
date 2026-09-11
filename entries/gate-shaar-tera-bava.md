@@ -29,10 +29,9 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All three render **gate**: *shaar* in Hebrew, *tera* in Targumic Aramaic, *bava*
-in the Aramaic of the Gemara. They are not synonyms within one language, so
-nothing hangs on choosing between them; what a translator must not miss is that
-each carries a second, non-architectural sense. *Shaar* in a Mishnah is often a
+All three mean **gate**: *shaar* in Hebrew, *tera* in Targumic Aramaic, *bava*
+in the Aramaic of the Gemara. They are not synonyms within one language; each
+carries a second, non-architectural sense. *Shaar* in a Mishnah is often a
 market **price**, and *bava* in a Gemara a **section** of a text, as in Bava
 Kamma. Neither is a gate.
 
@@ -75,9 +74,7 @@ word also carries the Aristotelian sense of a "category"; and on the same
 figure the standard buying rate is a *shaar*, since every buyer is subject to it
 as they all use the one gate. Ibn Tibbon says all this of *shaar* and does not
 extend it to *bava*; that the same reasoning would cover *bava* is the
-columnist's own suggestion, offered as "not farfetched." Follow Rabbi Yitzchak
-Frank when translating, since "section" is what the word does there, and Ibn
-Tibbon when a passage expounds the name.
+columnist's own suggestion, offered as "not farfetched."
 
 **Whether the three masechtos are named for gates.** The Meiri and others record
 that Bava Kamma, Bava Metzia, and Bava Basra were once one thirty-perek masechta,
@@ -151,21 +148,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayishlach: Enter the Gate](https://articles.ohr.edu/articles/vayishlach-enter-the-gate)," What's in a Word?, Ohr
-Somayach, 9 Kislev 5783 (2022-12-03): raw text in
-`sources/whats-in-a-word/raw/10740-vayishlach-enter-the-gate.md`. Two article
-slips: it cites a *bavas* discussion at "Ketubot 1061," evidently 106a; and it
-glosses *navuv* at Shemos 27:8 as the Tablets of the Ten Commandments
-"inscribed through and through," where the pasuk is describing the hollow
-boards of the mizbeach. Primary loci:
-Bereishis 18:1, 26:12; Shemos 27:8, 33:9; Vayikra 14:45; Devarim 12:3; Shoftim
-4:20, 5:28 with Rashi; Shmuel II 6:8; Yechezkel 22:30; Mishlei 23:7; Tehillim
-17:8 with Rav Hirsch; Daniel 2:49, 3:26; Ezra 7:24; Esther 5:14 in Targum; Rosh
-Hashanah 33b; Avodah Zarah 68b; Moed Katan 22a; Bechoros 38b with Rashi; Mishnah
-Berachos 9:5, Yoma 1:3, Middos 1:1, Maaser Sheini 4:1, Kerisos 4:1, Eruvin 8:10;
-*Meturgaman*; *Machberes Menachem*; *Cheshek Shlomo*; Meiri to Bava Kamma;
-*Tosafos Yom Tov*, introduction to Seder Nezikin; Rabbi Shmuel Ibn Tibbon,
-*Peirush HaMilos HaZaros*; Rabbi Yitzchak Frank's dictionary of Talmudic
-Aramaic, as cited by his son Rabbi Uriel Frank; Rabbi Jeremy Steinberg of the
-Veromemanu Foundation; Rabbeinu Yonah's *Shaarei Teshuvah* and Rabbeinu Bachya
-Ibn Pakuda's *Chovos HaLevavos* as works divided into *shearim*.
+Rabbi Reuven Chaim Klein, "[Vayishlach: Enter the Gate](https://articles.ohr.edu/articles/vayishlach-enter-the-gate)," *What's in a Word?*, Ohr Somayach, 3 December 2022.
+
+Cited in the essay: Bereishis 18:1, 26:12; Shemos 27:8, 33:9; Vayikra 14:45; Devarim 12:3; Shoftim 4:20, 5:28 with Rashi; Shmuel II 6:8; Yechezkel 22:30; Mishlei 23:7; Tehillim 17:8 with Rav Hirsch; Daniel 2:49, 3:26; Ezra 7:24; Esther 5:14 in Targum; Rosh Hashanah 33b; Avodah Zarah 68b; Moed Katan 22a, Shabbos 32a, Yoma 56a, Kesubos 62a, Gittin 68b and Eruvin 104a with Rashi; Bechoros 38b with Rashi; Mishnah Berachos 9:5, Yoma 1:3, Middos 1:1, 1:3-5, 1:7, Maaser Sheini 4:1-2, Bava Metzia 4:12, 5:1, Terumos 4:6, Chullin 7:4, Kerisos 4:1, Eruvin 8:10; the Cambridge manuscript of the Mishnah; Shadal; Rabbi Eliyahu HaBachur, *Meturgaman*; *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Meiri to Bava Kamma; *Tosafos Yom Tov*, introduction to Seder Nezikin; Rabbi Shmuel Ibn Tibbon, *Peirush HaMilos HaZaros*; Rabbi Yitzchak Frank's dictionary of Talmudic Aramaic, as cited by his son Rabbi Uriel Frank; Rabbi Jeremy Steinberg of the Veromemanu Foundation; Rabbeinu Yonah's *Shaarei Teshuvah* and Rabbeinu Bachya Ibn Pakuda's *Chovos HaLevavos* as works divided into *shearim*.

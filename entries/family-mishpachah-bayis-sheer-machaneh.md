@@ -23,9 +23,8 @@ updated: 2026-09-10
 several places specifically **wife**. *Machaneh* is **camp**, never "family"
 proper, even where it names Yaakov's people. *She'er* is a **blood relative**,
 kinsman, from the "flesh" sense of the word, and it too can mean **wife**.
-*Pamalia* is an **entourage** or retinue, human or angelic. The trap: three of
-these can be pointed at one family group in a single parashah, and English
-"family" will flatten all three.
+*Pamalia* is an **entourage** or retinue, human or angelic. Three of these can
+be pointed at one family group in a single parashah.
 
 ## Distinctions
 
@@ -146,15 +145,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Family Matters](https://articles.ohr.edu/articles/family-matters)," What's in a Word?, Ohr Somayach,
-16 Kislev 5782 (2021-11-20): raw text in
-`sources/whats-in-a-word/raw/9448-family-matters.md`. Primary loci: Bereishis
-32:9, 33:8, 35:2, 2:23, 6:14, 24:38, 42:19, 45:2; Shemos 21:10, 25:11, 37:2;
-Vayikra 13:2, 18:6, 21:2, 25:5; Bamidbar 27:11; Devarim 14:26; Melachim I 7:9;
-Berachos 16b-17a; Gittin 52a; Kesubos 47b; Sanhedrin 38b, 67b, 99b; Chagigah
-13b; Bava Basra 109b; Yevamos 22b; Chullin 7b; Sotah 11a; Yerushalmi Sotah 5:6;
-Radak, *Sefer HaShorashim*; Rambam, *Moreh Nevuchim* 2:6; *Sefer HaAruch* s.v.
-פמליא; Rabbi Eliyahu HaBachur, *Sefer Tishbi*; *Regel Yesharah* to Derech Eretz
-Zuta ch. 4; *Oxford English Dictionary* (on English *family*). The article's
-citation of Rav Hirsch on *machaneh* prints "Gen. 1:32 32:3"; the locus is
-Bereishis 32:3.
+Rabbi Reuven Chaim Klein, "[Family Matters](https://articles.ohr.edu/articles/family-matters)," *What's in a Word?*, Ohr Somayach, 20 November 2021.
+
+Cited in the essay: Bereishis 2:23, 6:14, 24:38 with *HaKtav V'HaKabbalah*, 32:9, 33:8, 35:2, 42:19 and 45:2 with Rashi; Shemos 21:10, 25:11, 37:2; Vayikra 13:2, 18:6, 21:2; Bamidbar 27:11; Devarim 14:26; Melachim I 7:9; Berachos 16b-17a with Rashi; Gittin 52a with Rashi; Kesubos 47b; Sotah 11a; Chagigah 13b; Yevamos 22b; Bava Basra 109b; Sanhedrin 38b, 67b, 99b; Chullin 7b; Yerushalmi Sotah 5:6; Rav Hirsch to Bereishis 32:3 and Vayikra 25:5; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak, *Sefer HaShorashim*; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Zev Hoberman; Rambam, *Moreh Nevuchim* 2:6; *Sefer HaAruch* s.v. פמליא; Rabbi Eliyahu HaBachur, *Sefer Tishbi*; Rabbi Gedaliah Lipschutz, *Regel Yesharah* to Derech Eretz Zuta ch. 4; Rabbi Eliezer Herstik; Alexander Kohut; *Oxford English Dictionary*.

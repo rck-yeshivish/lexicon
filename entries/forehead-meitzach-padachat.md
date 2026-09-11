@@ -22,12 +22,10 @@ updated: 2026-09-10
 word of Chazal, absent from Tanach. From the Geonim onward they are treated as
 the same thing in two strata of the language (Rav Hai Gaon; Rabbeinu Chananel;
 *Sefer HaAruch*; and Rashi, who glosses *padachat* as *meitzach* every time), so
-render both **forehead**. The one thing not to get wrong is Shemos 28:38: since
-most authorities hold the *tzitz* sat above the forehead where the *tefillin*
-go, the Ritva and *Tosafos Yeshanim* either read the pasuk as "above his
-*meitzach*" or take biblical *meitzach* as **the top of the head**, not the brow.
-Do not render that pasuk "on his forehead" without knowing which reading you are
-committing to.
+on that view both are **forehead**. At Shemos 28:38, since most authorities hold
+the *tzitz* sat above the forehead where the *tefillin* go, the Ritva and
+*Tosafos Yeshanim* either read the pasuk as "above his *meitzach*" or take
+biblical *meitzach* as **the top of the head**, not the brow.
 
 ## Distinctions
 
@@ -52,8 +50,7 @@ Aharon's *meitzach*." The *Chiddushei HaRitva* and *Tosafos Yeshanim* (to Yoma
 71b) give two answers. Either *meitzach* does mean forehead and the pasuk means
 *above* the forehead; or *meitzach* means forehead only in the Hebrew of Chazal,
 while in biblical Hebrew it means the top of the head, or at least includes it
-along with the brow. On the second answer "forehead" is simply the wrong English
-for the pasuk. *Tosafos HaShalem* (to Shemos 39:28) states outright that
+along with the brow. *Tosafos HaShalem* (to Shemos 39:28) states outright that
 *meitzach* does not mean *padachat*.
 
 ### padachat (פדחת)
@@ -74,8 +71,7 @@ anatomical dictionary defines *padachat* as the Latin *glabella*, the smooth
 part of the forehead above and between the eyebrows, which would seem to exclude
 the temples.)
 
-Where the word came from is unsettled. Its root seems to be פ-ד-ח (the article
-prints the letters once as peh-ches-dalet and once as peh-dalet-ches), and such
+Where the word came from is unsettled. Its root seems to be פ-ד-ח, and such
 a root is not attested anywhere else in Hebrew. Dr. Alexander Kohut writes in
 *Aruch HaShaleim* that *padachat* is of Persian origin, and the column supports
 him from the Comprehensive Aramaic Lexicon Project, which shows that the few
@@ -143,16 +139,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Foreheads and Fadihot](https://articles.ohr.edu/articles/foreheads-and-fadihot)," What's in a Word?, Ohr
-Somayach, 4 Adar II 5780 (2020-02-29):
-`sources/whats-in-a-word/raw/8622-foreheads-and-fadihot.md`. Primary loci: Shemos
-28:38 with Targum Yonasan (the article's opening prints Shemos 29:38 and
-corrects itself to 28:38 further down); Shemos 39:28 with *Tosafos HaShalem*;
-Yoma 71b with *Chiddushei HaRitva* and *Tosafos Yeshanim*; Mishnah Niddah 3:5
-with Rav Hai Gaon; Shabbos 80b with Rabbeinu Chananel and *Sefer HaNer*; Shabbos
-151b, Yevamos 120a, Kesuvos 75a, and Bechoros 46b with Rashi; *Sefer HaAruch*;
-Alexander Kohut, *Aruch HaShaleim*. Everything the article carries is
-represented here, including Kohut's Persian derivation with the Comprehensive
-Aramaic Lexicon Project evidence, the Academy of the Hebrew Language's
-anatomical dictionary, Rabbi Yosef de Jong's unsourced suggestion, and Rabbi
-Shaul Goldman's two accounts of the Modern Hebrew slang *fadiha*.
+Rabbi Reuven Chaim Klein, "[Foreheads and Fadihot](https://articles.ohr.edu/articles/foreheads-and-fadihot)," *What's in a Word?*, Ohr Somayach, 29 February 2020.
+
+Cited in the essay: Shemos 28:38 with Targum Yonasan; Shemos 39:28 with *Tosafos HaShalem*; Yoma 71b with *Chiddushei HaRitva* and *Tosafos Yeshanim*; Mishnah Niddah 3:5 with Rav Hai Gaon; Shabbos 80b with Rabbeinu Chananel and *Sefer HaNer*; Shabbos 151b, Yevamos 120a, Kesuvos 75a, and Bechoros 46b with Rashi; *Sefer HaAruch*; Alexander Kohut, *Aruch HaShaleim*; the Comprehensive Aramaic Lexicon Project; the Academy of the Hebrew Language's anatomical dictionary; Rabbi Shlomo Pappenheim; Rabbi David Chaim Chelouche; Rabbi Yaakov Yehuda Zilberberg de Kassif; Rabbi Yehoshua Steinberg; Rabbi Yosef de Jong; Rabbi Shaul Goldman.

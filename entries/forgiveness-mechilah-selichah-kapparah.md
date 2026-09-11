@@ -21,11 +21,10 @@ Bamidbar 14:20). *Mechilah* is **pardon**: the penalty remitted, the debt
 waived (Rav Hirsch); it is Rabbinic, never Biblical, and doubles as the word for
 forgoing what one is owed. *Kapparah* is **atonement**: every consequence of
 the sin wiped out (Rav Hirsch), at a price and usually through a korban
-(Malbim). The liturgy's סלח לנו, מחל לנו, כפר לנו wants three English words,
-"forgive us, pardon us, grant us atonement"; never let "forgive" cover all
-three. Rav Hirsch's three-way map is followed here because, as the column says,
-it is slightly more comprehensive than the others: neither Mecklenburg nor
-Wertheimer addresses how their two words differ from *kapparah* at all.
+(Malbim). The liturgy's סלח לנו, מחל לנו, כפר לנו uses all three. The column
+calls Rav Hirsch's three-way map slightly more comprehensive than the others:
+neither Mecklenburg nor Wertheimer addresses how their two words differ from
+*kapparah* at all.
 
 ## Distinctions
 
@@ -97,7 +96,7 @@ Wertheimer do not place *kapparah* against the other two.
   (Mecklenburg's deferral versus erasure, Wertheimer's slow versus immediate),
   the English must keep three distinct nouns.
 - The sin pairings are a useful check: *selichah* for *avon*, *mechilah* for
-  *pesha*, *kapparah* for *chet* (see the sin entry, `sin-chet-avon-pesha.md`).
+  *pesha*, *kapparah* for *chet* (see the sin entry, [sin](sin-chet-avon-pesha.html)).
 
 ## Notes for a project
 
@@ -105,12 +104,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Forms of Forgiveness](https://articles.ohr.edu/articles/forms-of-forgiveness)," What's in a Word?, Ohr
-Somayach, 21 Elul 5779 (2019-09-21): raw text in
-`sources/whats-in-a-word/raw/8400-forms-of-forgiveness.md`. Primary loci the
-article cites: Bamidbar 14:19-20; Vayikra 4:20-35 and 5:10-26; Yeshayahu 43:25;
-Bamidbar 30:3 with Targum; Shemos 32:30; Mishlei 16:6, Yeshayahu 27:9, Tehillim
-78:38; Matteh Moshe and Sefer HaMinhagim on the three words for sin; Rabbi
-Aharon Fuld's glosses to HaBachur; Rav Hirsch's three-way definition. Nothing
-the article carries is omitted here, including Ernest Klein's dictionary on
-מ-ח-ל and the Akkadian and Aramaic comparison for *selichah*.
+Rabbi Reuven Chaim Klein, "[Forms of Forgiveness](https://articles.ohr.edu/articles/forms-of-forgiveness)," *What's in a Word?*, Ohr Somayach, 21 September 2019.
+
+Cited in the essay: Bamidbar 14:19-20; Vayikra 4:20-35 and 5:10-26; Yeshayahu 43:25; Bamidbar 30:3 with Targum; Shemos 32:30; Mishlei 16:6, Yeshayahu 27:9, Tehillim 78:38; Rabbi Moshe Meth, *Matteh Moshe*, and Rabbi Yitzchak Eizik of Tirna, *Sefer HaMinhagim*, on the three words for sin; Rabbi Eliyahu HaBachur, with Rabbi Aharon Fuld's glosses; Rabbi Moshe Yitzchak Avigdor; Rabbi Yehuda Aszad; Rabbi Shlomo Pappenheim; Rabbi Yechezkel Landau; Malbim; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rav Hirsch; Ernest Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language*.

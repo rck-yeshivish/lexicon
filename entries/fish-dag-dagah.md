@@ -19,8 +19,7 @@ updated: 2026-09-10
 is disputed: **a large fish or a small one** (Chazal), **a female fish**
 (Rashi), **a dead fish** (Zohar), or **fish as a collective**, the species
 rather than the individual (Ibn Ezra). Where a passage switches from *dag* to
-*dagah*, as Yonah does between 2:1 and 2:2, the switch is the point and English
-"fish" for both erases it; say which reading you are following. The Aramaic
+*dagah*, as Yonah does between 2:1 and 2:2, the switch is the point. The Aramaic
 *nuna* and its diminutives (*munini*, *gildna*, *avruma*, *tzachanta*) are all
 **small fish**, not a species name.
 
@@ -46,7 +45,7 @@ Shabbos brought extra *da'agah*, worry, into the world.
 - Other sources, among them Rashi (to Yonah 2:1) and *Yalkut Shimoni* 550: *dag*
   is a male fish, *dagah* a female. The first fish's belly was roomy and Yonah was too much at ease, so
   Hashem had it spit him out into a pregnant female whose cavity was cramped,
-  and only then did he daven. The difficulty, which the article raises, is why
+  and only then did he daven. The difficulty, which the column raises, is why
   only female fish would be eaten in Mitzrayim or killed in the plague. (It may
   suit the reading in Yoma 75a that "eating *dagah*" in Bamidbar 11:5 is not
   about food at all but about the illicit intimacy the people were free to
@@ -76,7 +75,7 @@ though Radak seems the more open to connecting it to *dag*. Rabbi Yehuda Ibn Bal
 lists ד-ג-ה among verbs formed from nouns; Rabbi Aharon Marcus reverses the
 direction, making fecundity primary and "fish" the borrowed sense, and uses this
 to account for Chumash never saying *dag/dagim*, only *dagah*, *digas*, and
-*v'yidgu*. (The article notes the counterexample itself: *digei* in Bereishis
+*v'yidgu*. (The column notes the counterexample itself: *digei* in Bereishis
 9:2, apparently the construct of *dag*.)
 
 ### the wider family
@@ -142,18 +141,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/articles/fishy-words-part-12)," What's in a Word?, Ohr
-Somayach, 18 Sivan 5781 (2021-05-29): raw text in
-`sources/whats-in-a-word/raw/9228-fishy-words-part-12.md`. Primary loci:
-Bereishis 9:2, 48:16; Shemos 7:18; Bamidbar 11:5, 22:33; Yeshayahu 19:8;
-Yirmiyahu 6:6, 16:16; Yonah 2:1-2; Amos 4:2; Nechemiah 13:16; Nedarim 51b; Yoma
-75a; Succah 18a; Sanhedrin 49a, 100b; Avodah Zarah 29a; Kesubos 60b, 105b;
-Shabbos 39a, 105b, 110b; Gittin 69b; Horayos 12a; Berachos 44a, 44b; Megillah
-6a; Chullin 66a; Bava Basra 73b; Shabbos 10:1 and Eduyos 5:6 (Mishnah);
-Yerushalmi Nedarim 6:3; Zohar, Beshalach 47b-48a; *Yalkut Shimoni* 550; Rema,
-Yoreh Deah 13:1; Ibn Ezra, *Sefer Tzachus*; Rabbeinu Bachaya, *Kad HaKemach*;
-Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HaAruch* s.v. אברומא;
-Dr. Moshe Raanan on the species identifications. Rashi to Yirmiyahu 6:6, cited
-by the article for the collective reading, is on *etzah* there, a singular form
-denoting a plurality, "like *dagah*"; the word *dagah* itself does not occur in
-Yirmiyahu.
+Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/articles/fishy-words-part-12)," *What's in a Word?*, Ohr Somayach, 29 May 2021.
+
+Cited in the essay: Bereishis 9:2, 48:16; Shemos 7:18 with Ibn Ezra; Bamidbar 11:5 and 22:33 with Rabbeinu Bachaya; Yeshayahu 19:8; Yirmiyahu 6:6 with Rashi, 16:16; Yonah 2:1-2 with Rashi and Malbim; Amos 4:2; Nechemiah 13:16 with Ibn Ezra and the Rasag commentary; Nedarim 51b; Yoma 75a; Succah 18a; Sanhedrin 49a, 100b; Avodah Zarah 29a; Kesubos 60b, 105b; Shabbos 39a, 105b, 110b; Gittin 69b; Horayos 12a; Berachos 44a, 44b; Megillah 6a; Chullin 66a; Bava Basra 73b with Rabbeinu Gershom and Rashbam; Shabbos 10:1 and Eduyos 5:6 (Mishnah); Yerushalmi Nedarim 6:3; Zohar, Beshalach 47b-48a; *Yalkut Shimoni* 550; Rema, Yoreh Deah 13:1; Ibn Ezra, *Sefer Tzachus*; Rabbeinu Bachaya, *Kad HaKemach*; Rabbi Avraham bar Chiya HaNasi, *Higayon HaNefesh*; *Sefer HaAruch* s.v. אברומא; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Yehuda Ibn Balaam; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus; Rabbi Mordechai Gimpel Yaffe; Rabbi David Golomb; Rabbi Moshe Batzri; Dr. Moshe Raanan on the species identifications.

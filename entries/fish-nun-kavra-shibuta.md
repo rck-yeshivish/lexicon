@@ -35,12 +35,10 @@ updated: 2026-09-10
 ## Bottom line
 
 *Dag* is the Hebrew for fish and the only one Tanach uses; *nun* and *kavra* are its
-Aramaic counterparts, and both render **fish** plainly. Do not translate *shibuta* or
-*sandal* at all: they are named species, so transliterate and gloss them, since every
-English equivalent on offer is a guess. *Tanin* is a **sea monster**, not a fish. The
-one thing not to get wrong is that *nun* never occurs in Tanach in the sense of fish;
+Aramaic counterparts, both **fish**. *Shibuta* and *sandal* are named species. *Tanin*
+is a **sea monster**, not a fish. *Nun* never occurs in Tanach in the sense of fish;
 where it does occur, in *Yehoshua bin Nun*, it is a man's name, and the fish sense is a
-derashah on it, not a translation.
+derashah on it.
 
 ## At a glance
 
@@ -77,10 +75,10 @@ between fish in general and a particular fish; Dr. Marcus Jastrow reads it as li
 fish kept in a basket, which would let it cover any fish so housed; Chullin 109b
 favors a species. On *shibuta*, Jastrow says probably the mullet, others the sturgeon
 or porpoise; Drs. Zohar Amar and Ari Zivotofsky identify the shirbot or shabout
-(*Arabibarbus grypus*), which the article calls the most definitive approach and which
+(*Arabibarbus grypus*), which the column calls the most definitive approach and which
 fits the Yerushalmi (Taanis 4:5) that *shibuta* is found in Bavel and not in Eretz
 Yisrael; *Minchas Chinuch* (550:2) suggests the name can cover kosher and non-kosher
-fish both. Since the identification is contested, transliterate.
+fish both.
 
 **Yehoshua bin Nun.** His father's name was Nun (Divrei HaYamim I 7:27). An apocryphal
 midrash made famous by Rabbi Avraham Vilner has Yehoshua put into the river as a small
@@ -151,14 +149,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Fun with Fish (Part 2/2)](https://articles.ohr.edu/articles/fun-with-fish-part-22)," What's in a Word?, Ohr Somayach,
-25 Sivan 5781 (2021-06-05): raw text in
-`sources/whats-in-a-word/raw/9234-fun-with-fish-part-22.md`. Part 1, on *dag* and
-*dagah*, is treated in `entries/fish-dag-dagah.md`. Primary loci cited: Bereishis 1:21,
-2:2-3; Divrei HaYamim I 7:27; Berachos 20a; Kiddushin 25a, 41a; Moed Katan 11a with
-Tosafos; Chullin 109b; Niddah 25b; Yevamos 12b with Rivan and Meiri; Kesuvos 39a with
-Rashi; Yerushalmi Niddah 3:4 and Taanis 4:5; Mishnah Bechoros 8:1, Kerisos 1:3, Niddah
-3:4; Radak to Bereishis 2:3; *Yalkut Reuveni*; *Megaleh Amukos* 27; *Midrash HaBiur*;
-*Minchas Chinuch* 550:2; *Megadim Chadashim* to Shabbos 119a; *Shevet Mussar* ch. 11;
-Sheviis 10:7, Bava Basra 5:3, Keilim 8:1, 15:1, 22:10, Ohalos 5:6, 8:1, 8:3, 9:1
-(Mishnah, on *kaveres*); Dr. Marcus Jastrow; Drs. Zohar Amar and Ari Zivotofsky.
+Rabbi Reuven Chaim Klein, "[Fun with Fish (Part 2/2)](https://articles.ohr.edu/articles/fun-with-fish-part-22)," *What's in a Word?*, Ohr Somayach, 5 June 2021.
+
+Cited in the essay: Bereishis 1:21 with Rav Hirsch, 2:2-3; Divrei HaYamim I 7:27; Berachos 20a; Kiddushin 25a, 41a; Moed Katan 11a with Tosafos; Chullin 109b; Niddah 25b with Rashi; Yevamos 12b with Rivan and Meiri; Kesuvos 39a with Rashi; Yerushalmi Niddah 3:4 and Taanis 4:5; Mishnah Bechoros 8:1, Kerisos 1:3, Niddah 3:4; Sheviis 10:7, Bava Basra 5:3, Keilim 8:1, 15:1, 22:10, Ohalos 5:6, 8:1, 8:3, 9:1 (Mishnah, on *kaveres*); Radak to Bereishis 2:3; *Yalkut Reuveni*; *Megaleh Amukos* 27; *Midrash HaBiur*; *Minchas Chinuch* 550:2; *Megadim Chadashim* to Shabbos 119a; *Shevet Mussar* ch. 11; Rabbi Aharon Marcus; Rabbi Ron Yosef Chaim Masoud Abuchatzeira; Rabbi Avraham Rivlin; Rabbi Nissim Paniri; Rabbi Aryeh Moshe Teicholtz; Rabbi Yitzchak Yishaya Weiss; Dr. Marcus Jastrow; Drs. Zohar Amar and Ari Zivotofsky.

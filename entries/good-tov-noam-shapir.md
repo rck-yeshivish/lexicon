@@ -32,9 +32,8 @@ Two readings of Bedersi's split, neither of them his own words: the column
 takes *noam* as subjective, personally felt goodness and *shapir* as objective
 goodness; Rabbi Shaul Goldman holds that even if both are subjective they name
 different qualities, *noam* attraction and desirability (whatever its basis) and
-*shapir* plain positivity with no pull in it. Either way the rendering holds:
-*noam* "pleasant", *shapir* "fine". Trap: "good" absorbs all three; when *tov*
-and *naim* sit in one pasuk (Bereishis 49:14) they need two English words.
+*shapir* plain positivity with no pull in it. *Tov* and *naim* sit together in
+one pasuk (Bereishis 49:14).
 
 ## Distinctions
 
@@ -139,19 +138,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayechi: Good and Pleasant](https://articles.ohr.edu/articles/vayechi-good-and-pleasant)," What's in a Word?, Ohr
-Somayach, 11 Teves 5785 (2025-01-11): raw text in
-`sources/whats-in-a-word/raw/11655-vayechi-good-and-pleasant.md`. The article
-vocalizes the *shin* of Iyov 26:13 as *shafrah*, on the pattern of Tehillim
-16:6; the pasuk there reads *shifrah*. Primary loci the article cites: Bereishis
-4:22, 30:3-9, 30:14-18, 46:13, 49:14, 49:21; Melachim I 14:21, 14:31; Melachim
-II 5:2-27; Divrei HaYamim II 12:13; Tehillim 16:6; Iyov 26:13; Daniel
-3:32, 4:24, 6:2; Rabbi Eliyahu Bachur, *Meturgeman*, on Targum to Vayikra 10:20,
-Bamidbar 24:1, Bereishis 6:2, 12:11, 29:17, 41:2, Shmuel I 8:16, 9:2, Melachim I
-20:3; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo* s.v. נעם; Rav
-Hirsch to Bereishis 5:30; Ibn Janach and Radak, *Sefer HaShorashim* s.v. שפר and
-נעם; *Machberes Menachem*; Bedersi, *Chotam Tochnit* s.v. שפר / נעם; Bereishis
-Rabbah 98:12; Zohar Vayechi 242b; Midrash Shocher Tov to Tehillim 81:4; Sotah
-13a; Midrash Aggadah to Bereishis 49:21; Kiddushin 22a; Sifrei Ki Seitzei 211;
-Ibn Ezra to Devarim 21:11; Divrei HaYamim I 12:33; Yoma 26a; Targum Yonasan to
-Bereishis 46:13; Rabbi Shaul Goldman in private correspondence with the author.
+Rabbi Reuven Chaim Klein, "[Vayechi: Good and Pleasant](https://articles.ohr.edu/articles/vayechi-good-and-pleasant)," *What's in a Word?*, Ohr Somayach, 11 January 2025.
+
+Cited in the essay: Bereishis 4:22, 30:3-9, 30:14-18, 46:13, 49:14, 49:21; Melachim I 14:21, 14:31; Melachim II 5:2-27; Divrei HaYamim II 12:13; Tehillim 16:6; Iyov 26:13; Daniel 3:32, 4:24, 6:2; Rabbi Eliyahu Bachur, *Meturgeman*, on Targum to Vayikra 10:20, Bamidbar 24:1, Bereishis 6:2, 12:11, 29:17, 41:2, Shmuel I 8:16, 9:2, Melachim I 20:3; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo* s.v. נעם; Rav Hirsch to Bereishis 5:30; Ibn Janach and Radak, *Sefer HaShorashim* s.v. שפר and נעם; *Machberes Menachem*; Bedersi, *Chotam Tochnit* s.v. שפר / נעם; Rabbi Moshe Shapiro; Bereishis Rabbah 98:12; Zohar Vayechi 242b; Midrash Shocher Tov to Tehillim 81:4; Sotah 13a; Midrash Aggadah to Bereishis 49:21; Kiddushin 22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim 21:11; Divrei HaYamim I 12:33; Yoma 26a; Targum Yonasan to Bereishis 46:13; Rabbi Shaul Goldman in private correspondence with the author.

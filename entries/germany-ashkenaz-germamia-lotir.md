@@ -37,8 +37,7 @@ updated: 2026-09-10
 ## Bottom line
 
 *Ashkenaz* in Tanach is a person and a kingdom (Bereishis 10:3; Yirmiyahu
-51:27), and should be left as the name **Ashkenaz**, never rendered "Germany";
-Shadal states outright that the Biblical Ashkenaz has nothing to do with Germany,
+51:27); Shadal states outright that the Biblical Ashkenaz has nothing to do with Germany,
 and that the later usage borrows an old name for a new place. From Rashi onward
 it does mean **Germany**, and *leshon Ashkenaz* means **German**. *Germamia* (the
 Vilna Gaon: *Germania*) is Chazal's name for that land; *Lotir* is the Rishonim's
@@ -78,7 +77,7 @@ peninsula; Rhagae in Media; Regnum Polemonis southeast of the Black Sea, which
 he prefers as fitting Chazal's "Asia"; and the Rhine region, which fits the
 medieval usage. Rabbeinu Efrayim (there) is the outlier: Ashkenaz is France
 along the Seine, and Elisha is Almenia; Radak reads both Gomer and Ashkenaz as
-Alemania. The Bottom line leaves the name untranslated.
+Alemania.
 
 **Whether Germamia glosses Gomer or Magog.** Yoma 10a and Yerushalmi Megillah 1:9
 give Germamia for Gomer, close to an anagram of the name, and the Vilna Gaon
@@ -208,19 +207,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Noach: Ashkenaz and Teutonic Jews](https://articles.ohr.edu/articles/noach-ashkenaz-and-teutonic-jews)," What's in a Word?,
-1 Cheshvan 5784 (2024-11-02): raw text in
-`sources/whats-in-a-word/raw/11563-noach-ashkenaz-and-teutonic-jews.md`. Primary
-loci cited: Bereishis 10:2-3; Divrei HaYamim I 1:5-6; Yirmiyahu 51:27; Ovadiah
-1:20; Yoma 10a; Yerushalmi Megillah 1:9; Megillah 6a; Kesubos 77a; Sukkah 17a;
-Gittin 55b; Bava Metzia 73b; Chullin 93a; Bava Basra 74a, 150b, 158b; Berachos
-18a; Pesachim 105a; Negaim 2:1; Daniel 1:3; Hoshea 1:1-3; *Sefer HeAruch*; *Eim
-L'Binah*; *Yefeh Einayim*; *Maharshal* §29; Rabbi Aryeh Kaplan, *The Living
-Torah* to Bereishis 10:2-3; *Kovetz Yeshurun* vol. 17. The article's
-non-traditional citations (Gesenius, both his identification of Ashkenaz and his
-contempt for "the modern Jews," together with the column's own credit to him on
-Ashpenaz; Brown-Driver-Briggs; the Akkadian *Ashkuza* and Old Persian *Saka*;
-Pliny and Strabo; Josephus; Alfred Jones; Joel Muller; Professor Rainer Josef
-Barzen; Professor David L. Gold; and the Proto-Indo-European derivations of
-*Teuton*) were previously dropped from this entry and have been restored to the
-body.
+Rabbi Reuven Chaim Klein, "[Noach: Ashkenaz and Teutonic Jews](https://articles.ohr.edu/articles/noach-ashkenaz-and-teutonic-jews)," *What's in a Word?*, Ohr Somayach, 2 November 2024.
+
+Cited in the essay: Bereishis 10:2-3 in Targum pseudo-Yonasan, Targum Yerushalmi and Targum Neofiti, and with Shadal and Rabbeinu Efrayim; Divrei HaYamim I 1:5-6 in Targum Rav Yosef; Yirmiyahu 51:27; Ovadiah 1:20 with Radak; Yoma 10a with *Yefeh Einayim*; Yerushalmi Megillah 1:9; Megillah 6a with *Hagahos Yaavetz*; Kesubos 77a; Sukkah 17a; Gittin 55b; Bava Metzia 73b; Chullin 93a; Bava Basra 74a, 150b, 158b; Berachos 18a; Pesachim 105a; Negaim 2:1; Daniel 1:3; Hoshea 1:1-3; *Sefer HeAruch*; Rabbi Yaakov Emden, *Eim L'Binah*; *Maharshal* §29; Rashi's responsa and *Sefer HaPardes*; Rabbi Aryeh Kaplan, *The Living Torah* to Bereishis 10:2-3; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 10:3; Rabbi Yosef Prager, *Yerushaseinu*; *Kovetz Yeshurun* vol. 17; Joel Muller, *Teshuvos Chachmei Tzarfas V'Lotir*; Rabbi Ernest Klein; Wilhelm Gesenius; the Brown-Driver-Briggs lexicon; Josephus; Pliny the Elder; Strabo; Alfred Jones; Professor Rainer Josef Barzen; Professor David L. Gold.

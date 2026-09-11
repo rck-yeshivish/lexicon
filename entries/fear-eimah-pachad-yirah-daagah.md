@@ -19,9 +19,8 @@ updated: 2026-09-10
 sudden, short-lived start of fear, its outward reaction: **fright, fear**. *Yirah*
 and its noun *morah* are the sustained fear that has built up over time: **fear**
 (the general word). *Daagah* is fear of a loss or of a coming evil: **worry,
-anxiety**. The one thing not to get wrong: *pachad* is sudden and brief, *morah* is
-continual and therefore the more intense (Rashi, Rabbi Shlomo Aharon Wertheimer);
-do not render *pachad* as the deeper fear.
+anxiety**. *Pachad* is sudden and brief, *morah* is continual and therefore the
+more intense (Rashi, Rabbi Shlomo Aharon Wertheimer).
 
 ## Distinctions
 
@@ -29,8 +28,8 @@ do not render *pachad* as the deeper fear.
 Root א-י-ם. Ibn Ezra (Shemos 23:27): *eimah* is the emotive feeling of being afraid,
 as against *pachad*, the outward manifestation of fear. Rashi (Shemos 15:16): *eimah*
 and *pachad* differ as fear of a distant threat differs from fear of one close at
-hand; the versions of Rashi and the other commentators disagree on which is which,
-so the far/near assignment cannot be relied on for a rendering. Either way, the
+hand; the versions of Rashi and the other commentators disagree on which is which.
+Either way, the
 column observes, a man reacts differently to hearing news of a threat than to
 meeting one, and Hebrew registers those differing fight-or-flight responses in
 two otherwise synonymous words.
@@ -77,7 +76,7 @@ inaugural line that the only thing we have to fear is fear itself.
   derashah turns on the sequence, give each its own word.
 - Trap: "dread" is a fair rendering of *eimah* but also of settled *morah*; reserve
   it for *eimah* when both are in play.
-- Scope: the article treats fear as the emotion before a threat. *Yiras Shamayim* as
+- Scope: the column treats fear as the emotion before a threat. *Yiras Shamayim* as
   awe or reverence is a separate usage it does not take up; do not import rulings
   for that from here.
 
@@ -87,9 +86,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Afraid of Fright or Ready to Fight](https://articles.ohr.edu/articles/afraid-of-fright-or-ready-to-fight)," What's in a Word?,
-Ohr Somayach, 25 Cheshvan 5777 (2016-11-26): raw text in
-`sources/whats-in-a-word/raw/7018-afraid-of-fright-or-ready-to-fight.md`. Primary
-loci the article cites: Rashi to Shemos 15:16 and Devarim 11:25; Ibn Ezra to Shemos
-23:27; Rashi to Yoma 75a and Gittin 70a; Mishlei 12:25; Beis HaLevi, parashas
-Vayigash; Rabbi Shlomo Aharon Wertheimer on *pachad*, *morah*, and *daagah*.
+Rabbi Reuven Chaim Klein, "[Afraid of Fright or Ready to Fight](https://articles.ohr.edu/articles/afraid-of-fright-or-ready-to-fight)," *What's in a Word?*, Ohr Somayach, 26 November 2016.
+
+Cited in the essay: Rashi to Shemos 15:16 and Devarim 11:25; Ibn Ezra to Shemos 23:27; Rashi to Yoma 75a and Gittin 70a; Mishlei 12:25; Beis HaLevi (Rabbi Yosef Dov Soloveitchik), parashas Vayigash; Rabbi Shlomo Aharon Wertheimer on *pachad*, *morah*, and *daagah*.

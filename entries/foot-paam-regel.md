@@ -22,10 +22,9 @@ Both words mean **foot** and both can mean **time, instance**. *Regel* is the
 plain foot, the limb; *paam* is the foot as it strikes the ground, so its
 primary sense is **step** and, by extension, **corner** (the low corner of a
 thing) and **each occurrence**. *Shalosh regalim* and *shalosh peamim* both
-render "three times." The trap: *regel* in the sense of "instance" occurs in
-Tanach in only two contexts, Bilaam's donkey (Bamidbar 22:28 and 32) and the
-three festivals (Shemos 23:14); everywhere else it is the limb, and a translator
-should not reach for "time" without one of those two contexts.
+mean "three times." *Regel* in the sense of "instance" occurs in Tanach in only
+two contexts, Bilaam's donkey (Bamidbar 22:28 and 32) and the three festivals
+(Shemos 23:14); everywhere else it is the limb.
 
 ## Distinctions
 
@@ -79,8 +78,8 @@ underneath; see Ramban there.
   the two words against each other (Yeshayahu 26:6; the donkey saying *shalosh
   regalim* where *shalosh peamim* was expected) will read flat. Where the point
   is the choice of word, keep the Hebrew and gloss it.
-- *Shalosh regalim* as the festivals: the article renders Shemos 23:14 literally,
-  "the three times." Our call for a sefer is "the three festivals," or keep
+- *Shalosh regalim* as the festivals: the column renders Shemos 23:14 literally,
+  "the three times." Our call is "the three festivals," or keep
   *shalosh regalim* transliterated, since English "three times" there reads as a
   count and not as the pilgrimage; "three times" is the right rendering at
   Bamidbar 22:28 and 32, where the phrase is identical.
@@ -98,9 +97,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Foot Festivals](https://articles.ohr.edu/articles/foot-festivals)," What's in a Word?, Ohr Somayach,
-17 Tammuz 5778 (2018-06-30): raw text in
-`sources/whats-in-a-word/raw/7828-foot-festivals.md`. Primary loci: Bamidbar
-22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8;
-Yechezkel 1:7; Shir HaShirim 7:2; Targum Onkelos, Rashi, Ibn Ezra, and Ramban to
-Shemos 25:12.
+Rabbi Reuven Chaim Klein, "[Foot Festivals](https://articles.ohr.edu/articles/foot-festivals)," *What's in a Word?*, Ohr Somayach, 30 June 2018.
+
+Cited in the essay: Bamidbar 22:25, 22:28, 22:32; Shemos 23:14, 25:12; Yeshayahu 26:6, 42:14; Bereishis 41:8; Yechezkel 1:7; Shir HaShirim 7:2; Targum Onkelos, Rashi, Ibn Ezra, and Ramban to Shemos 25:12; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shmuel Dovid Walkin.

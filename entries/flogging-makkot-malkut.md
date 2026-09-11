@@ -40,8 +40,8 @@ two mean essentially the same thing in different languages, and the column
 posits from this that the masechta simply carries a Hebrew name and an Aramaic
 one. Two other authorities do read a real difference of scope into the pair, in
 opposite directions; and in any case *makkeh* is the one who strikes and *lokeh*
-the one struck (Rabbi Eliyahu HaBachur). Do not render *lakah* "hit" everywhere;
-the Tiferes Yisrael holds it can mean impaired rather than struck.
+the one struck (Rabbi Eliyahu HaBachur). The Tiferes Yisrael holds that *lakah*
+can mean impaired rather than struck.
 
 ## At a glance
 
@@ -71,10 +71,6 @@ third denying that there is a difference at all.
 3. **The two are one word in two languages.** Avraham Even-Shoshan, in his
    dictionary: *malkut* and *makkot* essentially mean the same thing, only in
    Aramaic and in Hebrew respectively. No difference of scope at all.
-
-The Bottom line follows the Tiferes Yisrael on *lakah* itself, whose eclipse and
-blood cases are decisive for the word's range; neither of the first two views
-becomes a translation rule, since both agree the masechta's subject is flogging.
 
 **Which term belongs to Torah lashes and which to rabbinic.** Rabbi Shmuel Taieb
 (*Shemen Tov*): the Gemara commonly uses *malkut* for lashes ordained by the
@@ -151,14 +147,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[That's a Flogging](https://articles.ohr.edu/articles/thats-a-flogging)," What's in a Word?, Ohr Somayach,
-6 Shevat 5780 (2020-02-01):
-https://articles.ohr.edu/articles/thats-a-flogging; raw text in
-`sources/whats-in-a-word/raw/8584-thats-a-flogging.md`. Primary loci cited:
-Devarim 25:2-3; Bamidbar 22:4; Sanhedrin 10a; Sukkah 29a and 33b; Rabbi Eliyahu
-HaBachur, *Meturgaman* and *Sefer HaTishbi*; Rabbi Naftali HaKohen Katz,
-*Semichas Chachamim*; Rabbi Shmuel Taieb, *Shemen Tov*; Tiferes Yisrael; Rabbi
-Elazar Rokeach, *Maaseh Rokeach*; Avraham Even-Shoshan's dictionary. Everything
-the article carries is represented here, including its Akkadian comparison, its
-bracketed aside on the English "lick," and its closing note on Modern Hebrew
-*leharbitz*.
+Rabbi Reuven Chaim Klein, "[That's a Flogging](https://articles.ohr.edu/articles/thats-a-flogging)," *What's in a Word?*, Ohr Somayach, 1 February 2020.
+
+Cited in the essay: Devarim 25:2-3; Bamidbar 22:4; Sanhedrin 10a; Sukkah 29a and 33b; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Ibn Chayyuj; Ibn Janach; Radak; Rabbi Eliyahu HaBachur, *Meturgaman* and *Sefer HaTishbi*; Rabbi Naftali HaKohen Katz, *Semichas Chachamim*; Rabbi Shmuel Taieb, *Shemen Tov*; Tiferes Yisrael; Rabbi Elazar Rokeach, *Maaseh Rokeach*; Avraham Even-Shoshan's dictionary.

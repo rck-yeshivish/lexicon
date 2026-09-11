@@ -22,8 +22,7 @@ updated: 2026-09-10
 grind is per se, but the difference between whole wheat flour and white flour,
 *soles* being made of the endosperm alone. So *kemach* has everything in it and
 *soles* has been sifted clean. Whenever a source
-sets them opposite each other, *soles* is the better and *kemach* the lesser,
-and English "flour" must not be allowed to carry both.
+sets them opposite each other, *soles* is the better and *kemach* the lesser.
 
 ## Distinctions
 
@@ -52,7 +51,7 @@ stalk that stood tall in the field and cuts it down; *kamah* is standing,
 uncut grain (Shemos 22:5; Peah 2:7, 4:7, 5:2; Menachos 10:9). Alternatively he
 derives it straight from י-מ-ח, erasure, on the interchange of kuf and yud.
 The Kimchi family name (Rabbi Yosef Kimchi and his sons Radak and Rabbi Moshe
-Kimchi) appears to come from this word; the article notes the proposed
+Kimchi) appears to come from this word; the column notes the proposed
 pronunciation Kamchi but keeps Kimchi, since Rabbi Immanuel Frances rhymes it
 with *simchi*.
 
@@ -89,7 +88,7 @@ Rashi (Menachos 27a): *geres* said of barley (Vayikra 2:14) is to barley what
 Menachem, Ibn Janach and Radak all treat ג-ר-ש and ג-ר-ס as one root meaning
 breaking or grinding. The Aramaic *semida* Rashi glosses as *soles* (Shabbos
 110b, Pesachim 74b, Taanis 24b, Gittin 56a), and Ibn Ezra (Vayikra 2:1) says
-*soles* is white flour, known in Arabic and Aramaic as *semida*. Note the
+*soles* is white flour, known in Arabic and Aramaic as *semida*. There is a
 counter-usage: the Targum to Bereishis 18:6 often attributed to Rabbi Yonasan
 ben Uziel renders *kemach* as *semida* and *soles* as *solta*. The column adds
 that this Aramaic and Arabic word is the etymological ancestor of the English
@@ -102,7 +101,7 @@ lammed.
   is live), *soles* = **fine flour**. "Fine flour" is the safe rendering in a
   korbanos context and matches the sifting the Mishnah describes.
 - Do not render *soles* as "semolina." The English word does descend from the
-  Aramaic *semida*, as the column says; but (our point, not the article's)
+  Aramaic *semida*, as the column says; but (our point, not the column's)
   semolina in current English is a coarse durum meal, the opposite of what
   *soles* means.
 - Trap: English "flour" alone will swallow both words. In any passage that
@@ -123,16 +122,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Flour Power](https://articles.ohr.edu/articles/flour-power)," What's in a Word?, Ohr Somayach,
-23 Tammuz 5781 (2021-07-03): raw text in
-`sources/whats-in-a-word/raw/9275-flour-power.md`. Primary loci cited: Vayikra
-2:1, 2:14, 8:2, 23:10-11; Bamidbar 5:15; Shemos 22:5, 29:2; Bereishis 18:6,
-40:16; Menachos 6:7 and 10:9, with Rashi to Menachos 27a and 76b; Avos 5:15;
-Rosh Hashanah 26b; Taanis 9b with Tosafos, and 24b; Bava Metzia 87a; Yevamos
-42b; Pesachim 84a and 74b; Sukkah 54a; Kiddushin 69b; Kesubos 112b; Sotah 14a;
-Yoma 47a with Yerushalmi Yoma 1:1 and Bamidbar Rabbah 2:26; Shabbos 110b;
-Gittin 56a; Peah 2:7, 4:7, 5:2. Nothing the article carries is omitted here,
-including its Arabic comparisons (Donash against Menachem, and Ibn Ezra on
-*semida*) and its derivation of English *semolina* through the Greek
-*semidalis*. The one claim that is ours and not the article's, marked as such in
-the rendering guidance, is what "semolina" denotes in current English.
+Rabbi Reuven Chaim Klein, "[Flour Power](https://articles.ohr.edu/articles/flour-power)," *What's in a Word?*, Ohr Somayach, 3 July 2021.
+
+Cited in the essay: Vayikra 2:1 with Rashi and Ibn Ezra, 2:14, 8:2, 23:10-11; Bamidbar 5:15; Shemos 22:5, 29:2; Bereishis 18:6 with Rashbam and Rav Hirsch, and in the Targum attributed to Rabbi Yonasan ben Uziel, 40:16; Menachos 6:7 and 10:9, with Rashi to Menachos 27a and 76b; Avos 5:15; Rosh Hashanah 26b; Taanis 9b with Rashi and Tosafos, and 24b; Bava Metzia 87a with Rashi; Yevamos 42b; Pesachim 84a and 74b; Sukkah 54a; Kiddushin 69b; Kesubos 112b with Rashi; Sotah 14a with Rashi; Yoma 47a with Yerushalmi Yoma 1:1 and Bamidbar Rabbah 2:26; Shabbos 110b; Gittin 56a; Peah 2:7, 4:7, 5:2; Menachem Ibn Saruk; Donash Ibn Labrat; Ibn Sheshes; Ibn Janach; Radak; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Rabbi Immanuel Frances.

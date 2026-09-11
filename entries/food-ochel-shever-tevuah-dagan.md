@@ -25,9 +25,8 @@ food that actually nourishes. Of the produce words: *tevuah* is **crop**, what
 comes forth (ripe or not); *tenuvah* is **ripe produce**; *yevul* is
 **produce** seen as perishable; *dagan* is threshed **grain**; *bar* is grain
 **cleaned of its chaff**; *shever* is **provisions**, grain bought in a famine.
-The trap: Onkelos renders *ochel*, *bar*, *shever* and *dagan* all by *avur*,
-and English "grain" or "food" will do the same. Where a pasuk uses two of them,
-the difference is usually the state of the grain, so translate the state.
+Onkelos renders *ochel*, *bar*, *shever* and *dagan* all by *avur*. Where a
+pasuk uses two of them, the difference is usually the state of the grain.
 
 ## Distinctions
 
@@ -53,7 +52,7 @@ rots if it is not looked after.
 ### tevuah (תבואה)
 Rabbi Shlomo Aharon Wertheimer (1866 to 1935): root ב-א, coming or bringing, so
 whatever comes forth from a seed or a tree; hence its extension to the fruits of
-any conduct (Mishlei 3:14, 18:20, and 10:16, which the article prints as 10:15).
+any conduct (Mishlei 3:14, 18:20, and 10:16).
 Wertheimer stresses that produce is *tevuah* even before full ripeness and even
 while still attached to the ground, once it has reached a third of its growth
 (Yerushalmi *Kilayim* 7:5). Ibn Janach: produce is *tevuah* because it comes in
@@ -132,8 +131,8 @@ Yehoshua 5:11, where Radak reads it as last year's grain.
 - *Mezonos* in a halachic context stays transliterated. So does *tevuah* where
   it is the technical produce of the year for maaser or shemittah.
 - The King James Version renders *bar* as "corn," which then meant any staple
-  grain with the seed still in, not maize. In a modern sefer "corn" is a false
-  friend; use "grain."
+  grain with the seed still in, not maize. "Corn" is a false friend; use
+  "grain."
 - *Shever* in the Yosef narrative is a purchase, not a gift. "To buy provisions"
   keeps Rabbeinu Bachaya's sense of a sale; "to get food" loses it.
 
@@ -143,14 +142,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Biblical Feast](https://articles.ohr.edu/articles/a-biblical-feast)," What's in a Word?, Ohr Somayach
-(2020-01-04): raw text in
-`sources/whats-in-a-word/raw/8546-a-biblical-feast.md`. The eightfold list of
-words for food is from *Chuppas Eliyahu* and *Pirkei Rabbeinu HaKadosh*. Primary
-loci: Bereishis 41:35, 41:49, 41:56, 42:1, 45:23; Shemos 3:2, 24:17; Devarim
-2:28, 7:13, 32:13, 32:42; Yehoshua 5:11; Yeshayahu 57:19; Yirmiyahu 46:10; Amos
-8:5; Tehillim 145:15; Mishlei 3:14, 10:3, 10:16 (the article prints 10:15),
-18:20; Yerushalmi *Kilayim* 7:5; *Berachos* 47b with Rashi; Radak, *Sefer
-HaShorashim*, and to Yehoshua 5:11, Bereishis 41:56, Amos 8:5; Meiri to Mishlei
-10:3; Ramban to Bereishis 41:49; Rabbeinu Bachaya on the Yosef narrative;
-*Peirush HaRokeach*; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*.
+Rabbi Reuven Chaim Klein, "[A Biblical Feast](https://articles.ohr.edu/articles/a-biblical-feast)," *What's in a Word?*, Ohr Somayach, 4 January 2020.
+
+Cited in the essay: *Chuppas Eliyahu*; *Pirkei Rabbeinu HaKadosh*; Bereishis 41:35, 41:49, 41:56, 42:1, 45:23; Shemos 3:2, 24:17; Devarim 2:28, 7:13, 32:13, 32:42; Yehoshua 5:11; Yeshayahu 57:19; Yirmiyahu 46:10; Amos 8:5; Tehillim 145:15; Mishlei 3:14, 10:3, 10:16, 18:20; Yerushalmi *Kilayim* 7:5; *Berachos* 47b with Rashi; Targum Onkelos; Targum Yonasan to Amos 8:5; Radak, *Sefer HaShorashim*, and to Yehoshua 5:11, Bereishis 41:56, Amos 8:5; Meiri to Mishlei 10:3; Ramban to Bereishis 41:49; Rabbeinu Bachaya on the Yosef narrative; *Peirush HaRokeach*; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Rabbi Shlomo Aharon Wertheimer; Rav Hirsch; Rabbi Yehuda HaChassid; Rabbi Yitzchok of Volozhin; Rabbi Avraham Rivlin; Rabbi Yechezkel Weinfeld; the King James Version.

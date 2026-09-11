@@ -26,10 +26,9 @@ are, on the Maharsha's reading of Eruvin 54a, the truly unbounded words:
 **forever**, **everlasting**, **for all eternity**. That reading is not the only
 one: ibn Saruk and Rabbi Yosef Kimchi treat all four as flat synonyms, and Rabbi
 Avraham ben Ezriel of Vienna limits the Gemara's finding to the verses where
-these words stand beside *olam*. The trap is *le'olam*: Rashi to Shemos 21:6 caps
-it at the fifty-year Yovel cycle, and the Maharsha builds on that, so a
-translator who writes "forever" for *le'olam* in a halachic pasuk has overshot. When *olam* stands beside one of the other three, the second word
-is doing work; do not collapse the pair into one English "forever."
+these words stand beside *olam*. Rashi to Shemos 21:6 caps *le'olam* at the
+fifty-year Yovel cycle, and the Maharsha builds on that. When *olam* stands
+beside one of the other three, the second word is doing work.
 
 ## Distinctions
 
@@ -107,13 +106,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Forever and Ever](https://articles.ohr.edu/articles/forever-and-ever)," What's in a Word?, Ohr Somayach,
-25 Shevat 5778 (2018-02-10),
-https://articles.ohr.edu/articles/forever-and-ever; raw text in
-`sources/whats-in-a-word/raw/7633-forever-and-ever.md`. Primary loci: Shemos
-21:6 with Rashi; Eruvin 54a; Tehillim 3:3 with Rashi, Meiri, Radak, Malbim and
-Ibn Ezra; Chavakuk 3:3 (Malbim); Iyov 28:16 (*suleh*); Radak, *Sefer
-HaShorashim*; ibn Saruk, *Machaberes Menachem*; Rabbi Yosef Kimchi, *Sefer
-HaGilui*; Rabbi Aviad Sar-Shalom Basilea, *Emunas Chachamim*. Nothing the article
-carries is omitted here, including its Greek (Aquilas) and Syriac (Peshitta)
-versions alongside Targum Yonasan.
+Rabbi Reuven Chaim Klein, "[Forever and Ever](https://articles.ohr.edu/articles/forever-and-ever)," *What's in a Word?*, Ohr Somayach, 10 February 2018.
+
+Cited in the essay: Shemos 21:6 with Rashi; Eruvin 54a with Rashi and Maharsha; Tehillim 3:3 with Rashi, Meiri, Radak, Malbim and Ibn Ezra; Chavakuk 3:3 (Malbim); Iyov 28:16 (*suleh*); Targum Yonasan, Aquilas and the Peshitta; Radak, *Sefer HaShorashim*; ibn Saruk, *Machaberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGilui*; Rabbi Avraham ben Ezriel of Vienna; Rabbi Avraham ben Natan HaYarchi; Abudraham; Rabbi Yitzchak Abuhab; Rabbi Shlomo Aharon Wertheimer; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Aviad Sar-Shalom Basilea, *Emunas Chachamim*; Rabbi Yaakov Emden; Rabbi Chaim Friedlander.

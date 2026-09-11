@@ -24,9 +24,8 @@ substantial in itself and on Wertheimer's weighty in the giver's eyes though not
 in the receiver's; in Tanach it is always given to Hashem. *Teshurah* is the
 **showpiece gift** brought when one comes
 before a great man. *Eshkar* is obscure and disputed. *Doron* is not Hebrew at
-all; it is the Greek word for "gift" that the Targum uses. The trap: *minchah*
-is not "meal-offering," it is "gift," and only the sacrificial context narrows
-it.
+all; it is the Greek word for "gift" that the Targum uses. *Minchah* is not
+"meal-offering," it is "gift," and only the sacrificial context narrows it.
 
 ## Distinctions
 
@@ -58,7 +57,7 @@ the giver gains nothing from it beyond having filled that need, which is why it
 builds friendship and camaraderie, and why it is mandated on Purim, *matanos
 la'evyonim* (Esther 9:22). Rabbi Mecklenburg writes that
 *matanah* is not used of an offering to Hashem and leaves the reason unstated;
-the article supplies it, that a *matanah* fills a need and Hashem, being
+the column supplies it, that a *matanah* fills a need and Hashem, being
 complete, has none.
 
 ### shai (שי)
@@ -85,7 +84,7 @@ asked Esav for a meal before blessing him (Bereishis 27).
 Twice in Tanach (Tehillim 72:10, Yechezkel 27:15) and obscure. Radak is unsure
 whether the root is all four letters or only the last three (ש-כ-ר, "beer" or
 "drunk"). Rabbi Avraham ben Chaim Ibn Ramoch: a *minchah* is gold, silver, and
-precious stones while an *eshkar* is choice fruits, which the article reads as
+precious stones while an *eshkar* is choice fruits, which the column reads as
 inedible against edible, and which would explain the link to *sheichar*.
 Wertheimer: an *eshkar* is a gift whose worth is aesthetic rather than monetary
 or useful, a gift that bribes the recipient into overrating it, leaving him as
@@ -126,11 +125,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Gift of Giving](https://articles.ohr.edu/articles/the-gift-of-giving)," What's in a Word?, Ohr Somayach,
-23 Kislev 5779 (2018-12-01): raw text in
-`sources/whats-in-a-word/raw/7982-the-gift-of-giving.md`. Primary loci: Bereishis
-32:14, 32:19-22, and ch. 27; Shmuel II 8:2; Melachim II 17:3 (the article prints
-the book name as "II Kimgs"); Esther 9:22 for *matanos la'evyonim* (the article
-prints 9:23); Yeshayahu 18:7; Tehillim 68:30, 72:10, 76:12; Yechezkel 27:15;
-Shmuel I 9:7; *Midrash Shocher Tov* to Tehillim 87; Rabbi Eliyahu HaBachur,
-*Sefer HaTishbi* s.v. doron.
+Rabbi Reuven Chaim Klein, "[The Gift of Giving](https://articles.ohr.edu/articles/the-gift-of-giving)," *What's in a Word?*, Ohr Somayach, 1 December 2018.
+
+Cited in the essay: Bereishis 32:14, 32:19-22 with Targum Yonasan, and ch. 27; Shmuel II 8:2; Melachim II 17:3; Esther 9:22; Yeshayahu 18:7; Tehillim 68:30, 72:10, 76:12; Yechezkel 27:15; Shmuel I 9:7; *Midrash Shocher Tov* to Tehillim 87; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. doron; Rav Hirsch; Rabbi Shlomo Aharon Wertheimer; Rabbi Yaakov Tzvi Mecklenburg; Radak; Rabbi Avraham Bedersi HaPenini; Rabbi Avraham ben Chaim Ibn Ramoch; Malbim.

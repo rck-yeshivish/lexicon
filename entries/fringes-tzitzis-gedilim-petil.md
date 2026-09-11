@@ -27,9 +27,8 @@ by twisting. *Petil* is the single **thread** of *techeiles*, named for snug
 twisting and, in Rav Hirsch's reading, for its separateness. *Tallis* is not the
 fringes at all but the **four-cornered garment** that carries them, and it is
 Rabbinic Hebrew only. *Kruspidin* is the Targum's Aramaic for *tzitzis* and
-*gedilim*, a Greek loanword for the **hem or fringe** of a garment. The one
-thing not to get wrong: *tzitzis* and *tallis* are not interchangeable, and
-"prayer shawl" for *tallis* imports a usage the word itself does not carry.
+*gedilim*, a Greek loanword for the **hem or fringe** of a garment. *Tzitzis*
+and *tallis* are not interchangeable.
 
 ## Distinctions
 
@@ -185,8 +184,8 @@ seat.)
 
 ## Rendering guidance
 
-- *Tzitzis* stays transliterated in any frum text; where an English gloss is
-  wanted once, **fringes**, not "tassels."
+- *Tzitzis* stays transliterated; where an English gloss is wanted once,
+  **fringes**, not "tassels."
 - *Gedilim*: **braided cords**, and where the Gemara's ratio is in play, "the
   braided part." Do not render it "fringes" as well, or Radak's resolution of
   the two Torah words collapses.
@@ -208,19 +207,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shelach: Growing the Fringes (Part 1/2)](https://articles.ohr.edu/articles/shelach-growing-the-fringes-part-12)," What's in a
-Word?, Ohr Somayach, 25 Sivan 5785 (2025-06-21), raw text in
-`sources/whats-in-a-word/raw/11857-shelach-growing-the-fringes-part-12.md`; and
-"Korach: Growing the Fringes (Part 2/2)," 2 Tamuz 5785 (2025-06-28), raw text in
-`sources/whats-in-a-word/raw/11856-korach-growing-the-fringes-part-22.md`.
-Primary loci: Bamidbar 15:37-41; Devarim 22:12; Yechezkel 8:3; Yirmiyahu 48:9;
-Melachim I 7:17; Bamidbar 19:15; Bereishis 8:21, 30:8, 38:18, 38:25, 50:13;
-Daniel 4:9, 7:4; Nechemiah 3:15; Menachos 39a, 41b; Shabbos 19:6; Rosh Hashanah
-16a; Sanhedrin 44a, 69a; Kerisus 24a; Niddah 46a; Bamidbar Rabbah 18:3;
-Bereishis Rabbah 42:1; Pirkei DeRabbi Eliezer ch. 3; Avos D'Rabbi Nasan 6:3;
-Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel*; Rabbi Eliyahu HaBachur,
-*Sefer HaTishbi*; Rabbi Nosson of Rome, *Sefer HeAruch*. The article's academic
-citations on the origins of *tallis* and *kruspidin* (Rabbi Ernest Klein, Dr.
-Alexander Kohut, David Curwin in the name of Rabbi Dr. Seth Mandel, and the
-classicists' derivation of *kraspedon*) were previously dropped from this entry
-and have been restored to the body.
+Rabbi Reuven Chaim Klein, "[Shelach: Growing the Fringes (Part 1/2)](https://articles.ohr.edu/articles/shelach-growing-the-fringes-part-12)," *What's in a Word?*, Ohr Somayach, 21 June 2025.
+
+Rabbi Reuven Chaim Klein, "[Korach: Growing the Fringes (Part 2/2)](https://articles.ohr.edu/articles/korach-growing-the-fringes-part-22)," *What's in a Word?*, Ohr Somayach, 28 June 2025.
+
+Cited in the essay: Bamidbar 15:37-41 with Rashi, Rabbeinu Bachaya and Rav Hirsch; Devarim 22:12; Yechezkel 8:3; Yirmiyahu 48:9 with Rashi; Melachim I 7:17; Bamidbar 19:15; Shemos 28:36 with Rav Hirsch; Bereishis 8:21 and 50:13 in Targum, 30:8 with Rav Hirsch, 38:18 with Ramban and Rabbeinu Chaim Paltiel, 38:25 in *Bereishis Rabbasi*; Daniel 4:9, 7:4; Nechemiah 3:15; Menachos 39a, 41b; Mishnah Shabbos 2:4-5, 19:6, 24:5, Beitzah 4:4, Nedarim 3:5, 4:1, Kiddushin 4:14, Bava Metzia 1:1, Bava Kamma 10:10, Sanhedrin 7:2, Meilah 5:1, Keilim 3:2, 10:4, 28:7, Ohalos 8:5, Negaim 11:5-6, Taharos 9:9, Zavim 4:7; Rosh Hashanah 16a; Sanhedrin 44a with Rashi, 69a; Bechoros 34b; Kerisus 24a; Niddah 46a; Bamidbar Rabbah 18:3; Bereishis Rabbah 42:1; Pirkei DeRabbi Eliezer ch. 3; Avos D'Rabbi Nasan 6:3; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach; Ibn Parchon; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Malbim, *Sefer HaCarmel*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbeinu Bachaya, *Kad HaKemach*; Rabbi Avraham Maimuni; Rashbam; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Nosson of Rome, *Sefer HeAruch*, citing Rav Matzliach Gaon; Rabbi Binyamin Mussafia, *Musaf HeAruch*; Rabbi Nosson Shapiro, *Matzas Shimurin*; Rabbi Ernest Klein; Dr. Alexander Kohut, *HeAruch HaShaleim*; David Curwin in the name of Rabbi Dr. Seth Mandel; Rabbi Shaul Goldman.

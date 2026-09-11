@@ -22,9 +22,9 @@ to the meat. *Pader* is contested: most of the grammarians read it as simply
 **fat**, a synonym of *cheilev*; Ramban narrows it to the **thin fatty
 membrane** dividing the innards; and a group of grammarians drops the fat sense
 altogether for the **organ cluster** of trachea, lungs, heart, and liver.
-*Tarba* is the Aramaic standing in for *cheilev*. The one thing not to get wrong: *cheilev*
-also means **the choicest part** of a non-animal thing, and in that borrowed
-sense has nothing to do with fat at all.
+*Tarba* is the Aramaic standing in for *cheilev*. *Cheilev* also means **the
+choicest part** of a non-animal thing, and in that borrowed sense has nothing to
+do with fat at all.
 
 ## Distinctions
 
@@ -152,17 +152,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Tzav: Good Fat, Bad Fat](https://articles.ohr.edu/articles/tzav-good-fat-bad-fat)," What's in a Word?, Ohr
-Somayach, 20 Adar II 5784 (2024-03-30):
-https://articles.ohr.edu/articles/tzav-good-fat-bad-fat; raw text in
-`sources/whats-in-a-word/raw/11314-tzav-good-fat-bad-fat.md`. Primary loci
-cited: Bereishis 4:4, 45:18; Shemos 13:2, 13:12, 13:13, 13:15, 23:18, 29:13,
-34:19; Vayikra 1:8, 1:12 (the article prints 1:2), 3:3, 3:9, 7:24, 8:20, 8:26;
-Bamidbar 3:12, 18:15, 18:29-32; Shoftim 3:22; Shmuel II 23:29; Divrei HaYamim I
-11:30, 27:15; Tehillim 73:7, 147:14; Yechezkel 20:26; Chullin 27b, 45b, 93a;
-Sukkah 54b with Tosafos; *Shekalim* 8:8; *Kerisus* 4:1; Tamid 31a; Shabbos 133b,
-136b; Avodah Zarah 28b; Bava Metzia 83b; Bechoros 30a; Rambam, *Hilchos
-Maachalos Assuros* 7:5; Pappenheim, *Cheshek Shlomo*; *Ohel Moed*; *Machberes
-Menachem*; Radak and Ibn Janach, *Sifrei HaShorashim*; Ibn Parchon, *Machberes
-HeAruch*; Even Shoshan's concordance. *Tirgem Avraham* is cited in the article to
-"Lev. 29:13"; Vayikra has no such chapter and the locus is Shemos 29:13.
+Rabbi Reuven Chaim Klein, "[Tzav: Good Fat, Bad Fat](https://articles.ohr.edu/articles/tzav-good-fat-bad-fat)," *What's in a Word?*, Ohr Somayach, 30 March 2024.
+
+Cited in the essay: Bereishis 4:4, 45:18; Shemos 13:2, 13:12, 13:13, 13:15, 23:18, 29:13, 34:19; Vayikra 1:8, 1:12, 3:3, 3:9, 7:24, 8:20, 8:26; Bamidbar 3:12, 18:15, 18:29-32; Shoftim 3:22; Shmuel II 23:29; Divrei HaYamim I 11:30, 27:15; Tehillim 73:7, 147:14; Yechezkel 20:26; Chullin 27b, 45b, 93a; Sukkah 54b with Tosafos; *Shekalim* 8:8; *Kerisus* 4:1; Tamid 31a; Shabbos 133b, 136b; Avodah Zarah 28b; Bava Metzia 83b; Bechoros 30a; Rashi; Ramban; Rabbeinu Bachya; Chizkuni; Ibn Ezra; Rashbam; Rav Hirsch; the Mainz commentary attributed to Rabbeinu Gershom; Rabbi Saadia Gaon; Rambam, *Hilchos Maachalos Assuros* 7:5; Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; *Machberes Menachem*; Radak and Ibn Janach, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Eliyahu HaBachur, *Nimukim*; *Tirgem Avraham* to Shemos 29:13; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche; Rabbi Shaul Goldman; Even Shoshan's concordance.

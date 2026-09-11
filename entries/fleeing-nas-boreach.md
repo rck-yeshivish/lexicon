@@ -21,9 +21,8 @@ updated: 2026-09-10
 *Nas* is **fleeing** from a danger already upon a man, openly and in terror.
 *Boreach* is **running away** from a feared future threat, with nobody actually
 in pursuit, and usually done quietly so as not to be seen. Sforno and Malbim
-agree on that core. The trap: English "flee" and "escape" will take either word,
-but *boreach* is the one that carries stealth and a threat not yet arrived, so
-never render it "fled in terror."
+agree on that core. *Boreach* is the one that carries stealth and a threat not
+yet arrived.
 
 ## Distinctions
 
@@ -89,10 +88,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Running Away](https://articles.ohr.edu/articles/running-away)," What's in a Word?, Ohr Somayach, 19
-Sivan 5778 (2018-06-02): raw text in
-`sources/whats-in-a-word/raw/7779-running-away.md`. Primary loci cited: Bamidbar
-10:35; Bereishis 31:21; Yonah 1:3; Shemos 14:27; Yirmiyahu 16:19; Iyov 30:3;
-Sforno to Bereishis 31:21 and Yonah 1:3; Malbim on *nas*, *boreach* and *ratz*;
-*Sefer HaChochmah* ascribed to Rabbi Elazar Rokeach of Worms; Rabbi Naftali
-Hertz Treves, *Sefer HaGur*; Rabbi Shlomo Aharon Wertheimer; Targum Onkelos.
+Rabbi Reuven Chaim Klein, "[Running Away](https://articles.ohr.edu/articles/running-away)," *What's in a Word?*, Ohr Somayach, 2 June 2018.
+
+Cited in the essay: Bamidbar 10:35; Bereishis 31:21; Yonah 1:3; Shemos 14:27; Yirmiyahu 16:19; Iyov 30:3; Sforno to Bereishis 31:21 and Yonah 1:3; Malbim on *nas*, *boreach* and *ratz*; *Sefer HaChochmah* ascribed to Rabbi Elazar Rokeach of Worms; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo Aharon Wertheimer; Targum Onkelos.

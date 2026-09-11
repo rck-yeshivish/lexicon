@@ -17,12 +17,11 @@ updated: 2026-09-10
 
 *Ra'av* is the standard word, some 130 occurrences: **famine**, or **hunger**
 when the subject is a person. *Kafan* appears in Hebrew only twice, both in Iyov
-(5:22, 30:3), and is the harder case: read it as **dearth** or **starvation**,
-the famine of prices or of a stomach that has stopped complaining, not as a
-second word for the same thing. *Batzores* is the rabbinic term, which Rashi glosses as **a year of famine**
-(the root's third sense being withholding). Never render *kafan* simply "famine"
-where it stands beside *ra'av* in the same passage; the pairing is the whole
-reason the distinction is being drawn.
+(5:22, 30:3), and is the harder case: the famine of prices or of a stomach
+that has stopped complaining, not a second word for the same thing. *Batzores* is the rabbinic term, which Rashi glosses as **a year of famine**
+(the root's third sense being withholding). Where *kafan* stands beside *ra'av*
+in the same passage, the pairing is the whole reason the distinction is being
+drawn.
 
 ## Distinctions
 
@@ -88,8 +87,7 @@ The readings:
   less than he needs.
 - Minority: Rabbi Dr. Moshe Zidel claims *kafan* is specifically thirst, lack of
   drink, against *ra'av* as hunger, lack of solid food. The column reports that
-  it has found no other source indicating this distinction; treat it as an
-  outlier.
+  it has found no other source indicating this distinction.
 
 ### batzores (בצורת)
 The Biblical phrase *shnas batzores* (Yirmiyahu 17:8), which Rashi explains as a
@@ -139,13 +137,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Famishing Famines](https://articles.ohr.edu/articles/famishing-famines)," What's in a Word?, Ohr Somayach,
-7 Teves 5783 (2022-12-31): raw text in
-`sources/whats-in-a-word/raw/10761-famishing-famines.md`. Primary loci:
-Bereishis 12:10, 26:1, 45:11; Vayikra 26:5, 26:26; Yirmiyahu 17:8; Yechezkel
-17:7; Iyov 5:20, 5:22, 30:3; Tehillim 33:19, 37:19, 105:16; Taanis 3:1; Avos 5:8;
-Shabbos 73b; Pesachim 56a, 66b; Eiruvin 51b; Yevamos 15b; Kesubos 10b, 106a;
-Gittin 12a; Zevachim 117a; *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer
-HaGalui* and commentary to Iyov 5:22; Radak, *Sefer HaShorashim*; *Maayan Ganim*
-to Iyov 5:22; Tashbetz, *Ohev Mishpat* to Iyov 5:22; *Ohalei Yehuda*; Rabbi
-Eliyahu HaBachur, *Meturgaman*.
+Rabbi Reuven Chaim Klein, "[Famishing Famines](https://articles.ohr.edu/articles/famishing-famines)," *What's in a Word?*, Ohr Somayach, 31 December 2022.
+
+Cited in the essay: Bereishis 12:10, 26:1, 45:11; Vayikra 26:5 with Rashi, 26:26; Yirmiyahu 17:8 with Rashi; Yechezkel 17:7 with Rashi and Radak; Iyov 5:20, 5:22, 30:3, with Ralbag and Ibn Ezra to 5:22; Tehillim 33:19, 37:19, 105:16; Targum to Iyov and Tehillim; Taanis 3:1; Avos 5:8; Shabbos 73b; Pesachim 56a, 66b; Eiruvin 51b; Yevamos 15b; Kesubos 10b, 106a; Gittin 12a; Zevachim 117a; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui* and commentary to Iyov 5:22; Radak, *Sefer HaShorashim*; Rabbi Shmuel Masnuth, *Maayan Ganim* to Iyov 5:22; Tashbetz, *Ohev Mishpat* to Iyov 5:22; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Shlomo Pappenheim; the Vilna Gaon; Rabbi Shlomo Aharon Wertheimer; Rabbi Eliyahu HaBachur, *Meturgaman*; Rabbi Dr. Moshe Zidel.
