@@ -103,7 +103,7 @@ comes and one can begin to discern; *bikur cholim* likewise is not merely
 visiting but finding out how the sick man is and what can be done for him. Rabbi
 Yehoshua Steinberg: *bakar* is domesticated cattle precisely because such animals
 need watching, supervision and defense from marauders, and that is the work of
-the *boker* or *voker*, which Rabbi Klein glosses "cowboy" (Amos 7:14), who must
+the *boker* or *voker*, the "cowboy" (Amos 7:14), who must
 also seek out greener pasture for them. Some have claimed the English slang
 *buckaroo*, a cowboy, comes from that same *boker*/*voker*; but most linguists
 agree it derives from the Spanish *vaquero*, from *vaca*,

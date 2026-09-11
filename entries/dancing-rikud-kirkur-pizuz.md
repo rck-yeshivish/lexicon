@@ -16,8 +16,8 @@ updated: 2026-09-10
 ## Bottom line
 
 *Rikud* is the general word for **dancing**, and per Rabbi Moshe
-Tedeschi-Ashkenazi it names the joy that is the occasion for it rather than, it
-seems, any particular step. *Kirkur* (*micharker*) is the footwork: **whirling, capering**,
+Tedeschi-Ashkenazi it names the joy that is the occasion for it; the other two,
+it seems to Rabbi Klein, describe specific acts of dancing. *Kirkur* (*micharker*) is the footwork: **whirling, capering**,
 which Rabbi Yosef Kara glosses as circular motion. *Pizuz* (*mifazez*) is the
 wild, fast part: **prancing** or **leaping about**, the hands and fingers moving
 with the feet. At Shmuel II 6:14 David is only *micharker*, and at 6:16, through

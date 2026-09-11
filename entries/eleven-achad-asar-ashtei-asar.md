@@ -56,12 +56,12 @@ appear nineteen times in Tanach, *achad asar* and *achat esreh* thirteen.
 1. **Upon twelve.** Rabbi Yonah Ibn Janach: *ashtei asar* contracts *al*,
    "upon," with *shteim asar*, twelve, eleven being, as he understands it, the
    number "on top" of twelve.
-2. **Born of ten.** Ibn Ezra disagrees on two counts. First on sense: *au
-   contraire*, twelve is "on top" of eleven and not the reverse. Second on form:
-   on Ibn Janach's account the masculine should be *ashnei asar*, since the
-   masculine twelve is *shnei asar*/*shneim asar* and not *shteim esreh*, yet
-   there is no such term, only *ashtei asar* and *ashtei esreh*, which, Rabbi
-   Klein says, casts a shadow of doubt over the proposal. Ibn Ezra's own reading takes
+2. **Born of ten.** Ibn Ezra disagrees: *au contraire*, twelve is "on top" of
+   eleven and not the reverse. Moreover, on Ibn Janach's account the masculine
+   should be *ashnei asar*, since the masculine twelve is *shnei asar*/*shneim
+   asar* and not *shteim esreh*, yet there is no such term, only *ashtei asar*
+   and *ashtei esreh*, which casts a shadow of doubt over the proposal. Ibn
+   Ezra's own reading takes
    *ashtei* as a cognate of *ashtanosav*, "his plans" (Tehillim 146:4): just as
    plans are born out of one's thoughts, eleven is born out of ten, so *ashtei
    asar* literally means that which is born out of ten. He admits that a great

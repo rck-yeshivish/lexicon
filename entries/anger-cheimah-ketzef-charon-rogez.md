@@ -98,8 +98,8 @@ back from showing outwardly.
 Bamidbar 17:11, Zecharyah 1:2; a very intense anger, the angry man having reached
 a boiling point. Ibn Ezra (Esther 1:12) and Radak (*Sefer HaShorashim* s.v. קצף)
 note that the word also names the bubbles that rise from boiling water (Hoshea
-10:7), and the Aramaic *ritcha*, boiling, serves Rabbinic Hebrew as a synonym for
-anger (Berachos 7a, Rosh Hashanah 32b, Sanhedrin 48b). Rokeach (Shemos 16:20):
+10:7). The Aramaic *ritcha*, boiling, is also used in Rabbinic Hebrew as a
+synonym for anger (Berachos 7a, Rosh Hashanah 32b, Sanhedrin 48b). Rokeach (Shemos 16:20):
 the anger is visible in the sweat on the face, as bubbles in boiling water come
 up plainly to the surface. Eitz Yosef (Eichah Rabbah 2:3): the most extreme and
 dangerous form, associated with the archangel Gavriel, who represents Middas

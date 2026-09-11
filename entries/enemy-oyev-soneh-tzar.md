@@ -18,8 +18,8 @@ updated: 2026-09-10
 *Oyev* is the enemy who acts, or at least plans to act: **enemy**, **foe**.
 *Soneh* is hatred held inside, shown by what a man refrains from doing:
 **hater**. *Tzar* (*tzorer*) is open, self-costing hostility: **adversary**,
-**persecutor**. Bamidbar 10:35 pairs *oyev* and *soneh*, and on Malbim's reading Moshe davens
-there that both kinds of Hashem's enemies be vanquished.
+**persecutor**. Bamidbar 10:35 pairs *oyev* and *soneh*, and Rabbi Klein concludes that Moshe
+davens there that both kinds of Hashem's enemies be vanquished.
 
 ## Distinctions
 
@@ -29,7 +29,7 @@ entertained doing so. Malbim: even where the *oyev* makes no attempt at damage,
 he will not hold back his gladness should misfortune strike his victim, because
 he has already pictured himself causing it. Malbim on the *oyev* of Hashem: one
 who actively denies His existence and opposes His Godliness. As for a *soneh* of
-Hashem, it would seem he does so only in his heart and not
+Hashem, it would seem to Rabbi Klein that he does so only in his heart and not
 in practice.
 
 The *meforshim* add that the *oyev*, for all his activity, still tries to hide

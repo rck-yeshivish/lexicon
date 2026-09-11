@@ -80,8 +80,8 @@ appears twenty-three times. Rabbi Moshe Tedeschi Ashkenazi: strictly it is any i
 drink, but in Tanach it sometimes means strong wine in particular. Targum
 Onkelos and Rashi to Bamidbar 6:3 read it as aged wine against *yayin*, new
 wine; Rashi to Bamidbar 28:7 as intoxicating wine, and at *Zevachim* 91a he ties
-*sheichar* to *seviah*, satisfaction, as though the libation were satisfying the
-thirst of the altar's pipes. But sometimes
+*sheichar* to *seviah*, satisfaction. It is as though the libation poured down
+the altar's pipes were satisfying the thirst of those hollow tubes. But sometimes
 *sheichar* in Tanach could refer to other intoxicating drinks: Vayikra 10:9
 forbids drinking *sheichar* before entering the Mikdash, and there is ample
 reason to hold that one may be liable even for other intoxicating substances

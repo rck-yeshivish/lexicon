@@ -45,7 +45,7 @@ foundation), *shesi* (the warp running the length of a weave; Rav Hirsch to
 Vayikra 13:48), and *mashtin* and *shesen*. In *Cheishek Shlomo* he applies it to
 drinking: liquid helps the digestive system settle food into its place and draw
 its full nourishment, which is why wherever Tanach juxtaposes the two verbs,
-drinking precedes eating. In *Yerios Shlomo* he puts it slightly differently:
+drinking follows eating. In *Yerios Shlomo* he puts it slightly differently:
 drinking restores the innards shriveled and constricted by thirst to their
 settled state. On that second reading he also considers that *shesen* may itself
 derive from *lishtos*, urine being the liquid waste that is a byproduct of

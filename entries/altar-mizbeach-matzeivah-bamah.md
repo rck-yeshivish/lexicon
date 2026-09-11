@@ -60,12 +60,11 @@ commanded *mizbeach* with the hated *matzeivah*.
    set up to mark the entrance of an idolatrous temple, a utilitarian monument
    rather than a place of offering.
 
-Rashi's is the reading that
-governs the *matzeivos* of the Avos (Yaakov at Beis El, Bereishis 28:18-22, and
-Hashem later identifying Himself to him as the One for whom that *matzeivah* was
-set up, Bereishis 31:13); Ramban's reading is live wherever the *matzeivah* is
-an idolater's and no sacrifice is mentioned. On Rashi's reading the change is
-historical, not lexical: the *Sifrei* (to Devarim 16) says Hashem originally
+On Rashi's reading the *matzeivos* of the Avos pose a difficulty: Hashem was
+pleased with the one Yaakov set up at Beis El (Bereishis 28:18-22), and later
+identified Himself to him as the One for whom that *matzeivah* was set up
+(Bereishis 31:13). The answer is historical, not lexical: the *Sifrei* (to
+Devarim 16) says Hashem originally
 cherished single-stone altars in the era of the Avos, and that by the time the
 Jews left Mitzrayim He abhorred them, because the Canaanites had formally adopted
 them as a medium of idol worship.

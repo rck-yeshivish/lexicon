@@ -83,12 +83,13 @@ on the battlefield resemble two lovers approaching for a kiss). Two of the three
 
 **What separates the lion's four verbs.** Rabbi Yechiel Michel Stern, Rav of the
 Ezras Torah neighborhood in Yerushalayim, suggests that the difference is the
-reason the lion is making noise, and he brings the Vilna Gaon (*shoeg* when
-hungry) and Rashi (to Sanhedrin 102a, Berachos 32a: *nohem* when it has a lot to
-eat, so that it becomes especially happy and goes berserk). He does not explain
-what causes a lion to be *yehegeh* or *noer*. Rabbi Pappenheim works instead from the biliteral roots and
+reason the lion is making noise. For example, the Vilna Gaon explains that a
+lion is *shoeg* when it is hungry, while Rashi (to Sanhedrin 102a, Berachos 32a)
+writes that it is *nohem* when it has a lot to eat, so that it becomes
+especially happy and goes berserk. Rabbi Stern does not explain what causes a
+lion to be *yehegeh* or *noer*. Rabbi Pappenheim works instead from the biliteral roots and
 gets a different grid: *shoeg* almost involuntary, *nohem* deliberate, *yehegeh*
-steady, *noer* sudden. The two are compatible in practice, Stern giving the cause and Pappenheim the manner.
+steady, *noer* sudden.
 
 **Where nohek comes from.** Rabbi David Chaim Chelouche (1920-2016), the late
 Chief Rabbi of Netanya, argues that both *nohem* and *nohek* derive from נ-ה,

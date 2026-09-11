@@ -45,9 +45,7 @@ Rashi gives two definitions. To Megillah 7b, Kesubos 77a, Berachos 36b, Yoma
 81a and Chullin 15a: *kesisah* is eating in any abnormal or non-standard way.
 (Maharsha to Megillah 7b suggests the plate there may simply have been edible.)
 To Beitzah 26b: whatever can be eaten raw, eating it raw is *koses*. Rabbi
-Klein calls this second one a slightly different definition and leaves it at
-that; the two arguably pull the same way, since raw is the unusual way, but
-that reconciliation is ours.
+Klein calls this second one a slightly different definition.
 
 Etymology: several philologists, among them Dr. Asher Weiser and Rabbi Yaakov
 Yehudah Zilberberg (*Di Kasif*), tie
@@ -78,11 +76,12 @@ movement.
 Rabbi Ernest Klein
 (no relation to Rabbi Reuven Chaim Klein) traces *kesisah/koses* back to the Akkadian
 *kasasu* (cutting into pieces) and *kissatu* (fodder), and holds them related to
-an Arabic cognate meaning pounding, grinding or pulverizing. Rabbi Reuven Chaim Klein
-takes the French *couscous* (from the Arabic *kuskus*), a food of small bits of
-pounded grain, as cognate with *koses*, since it describes chopped grains that
-look as though they were pre-chewed; but he rules out any connection to the
-English *kasha* (buckwheat), which came by way of Yiddish from the Slavic
+an Arabic cognate meaning pounding, grinding or pulverizing.
+
+The French *couscous* (from the Arabic *kuskus*), a food of small bits of
+pounded grain, is also cognate with *koses*, since it describes chopped grains
+that look as though they were pre-chewed; but the English *kasha* (buckwheat)
+has no connection to it, having come by way of Yiddish from the Slavic
 languages, where it meant groats, cereal or porridge and not buckwheat in
 particular. The philologist Samuel Krauss links כ-ס-ס to ע-ס-ס (*assisi*,
 juicy), possibly because chewing a food releases its inner juices and lets one
@@ -140,9 +139,7 @@ source, the Ravyah (*Hilchos Taanis* 861), writes *lachus*; he explains
 *kesisah* as the chewing with more enjoyment of the spices' sweet juices than
 *le'isah* implies. Rabbi Klein glosses that as *kesisah* possibly connoting forceful or
 even indulgent mastication and *le'isah* leaning toward a more utilitarian
-chewing, but that gloss is his own paraphrase of Rabbi Barda. That this runs against Rabbi Meir Mazuz's line, which
-attaches the eating-toward-swallowing sense to *le'isah*, is our observation; Rabbi Klein
-presents both as evidence of one presumption and does not weigh them against each other.
+chewing, but that gloss is his own paraphrase of Rabbi Barda.
 
 ## Rendering guidance
 

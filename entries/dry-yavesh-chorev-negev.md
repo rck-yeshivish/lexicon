@@ -91,9 +91,9 @@ Pappenheim: the root is ב-ש, delay or withholding, as in *boshesh Moshe larede
 (Shemos 32:1), Moshe's return withheld from the people, and as in *bushah*, where
 a man withholds his face from the public. *Yavesh* is accordingly the withholding
 of the flourishing a thing should have shown; in plants that often comes of dryness,
-and from there the word covers anything drained of its life-giving liquid. So
-Yeravam's hand at the mizbeach in Beis El, *vativash yado* (Melachim I 13:4),
-shriveling rather than literally drying.
+and from there the word covers anything drained of its life-giving liquid. Case
+in point: Yeravam's hand at the mizbeach in Beis El, *vativash yado* (Melachim I
+13:4), shriveling rather than literally drying.
 
 Rabbi Aharon Marcus writes that the core meaning of ב-ש is finishing or
 completing a project, and claims that this original sense is still known to us

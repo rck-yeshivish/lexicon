@@ -21,8 +21,8 @@ updated: 2026-09-10
 ## Bottom line
 
 *Shalem* is **complete**, **whole**: nothing is now lacking, measured as a
-quantity, and having more than enough does not disqualify it (Rabbi Shlomo
-Pappenheim). *Tam* / *tamim* is **whole** in quality: an exact match with
+quantity (Rabbi Shlomo Pappenheim), and having more than enough does not
+disqualify it. *Tam* / *tamim* is **whole** in quality: an exact match with
 nothing missing and nothing extra (Rabbeinu Bachaya; Pappenheim); of a korban
 **unblemished**, of a person **wholehearted** or **wholesome**, of the Torah
 **perfect**. *Shleimus* is **completeness** or **wholeness**.
@@ -70,9 +70,11 @@ mean the same thing, but proposes a fundamental distinction all the same:
 honest weights that are not short of their declared weight (Devarim 25:15), for
 the uncut stones of the mizbeach, unchipped and unnotched (Devarim 27:6;
 Yehoshua 8:31), and for the quota of sin not
-yet full in Avraham's day (Bereishis 15:16, of the Emori). And *shalem* does not exclude excess: *leshalem*, to pay, still
-applies to one who paid more than the price, whereas *tamim* cannot apply
-without an exact match and fails the moment anything is missing or extra.
+yet full in Avraham's day (Bereishis 15:16, of the Emori).
+
+*Shalem* does not exclude excess: *leshalem*, to pay, still applies to one who
+paid more than the price, whereas *tamim* cannot apply without an exact match
+and fails the moment anything is missing or extra.
 
 Rabbi Shlomo Aharon Wertheimer takes a similar approach but differs: *shalem*
 is exclusively quantitative, while *tam* is qualitative completion that

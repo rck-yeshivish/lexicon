@@ -142,7 +142,7 @@ A *kuntres*, often rendered "notebook," is in current speech a short treatise no
 weighty enough to stand as its own *sefer*; the Tosafists typically call Rashi's Gemara
 commentary the *kuntres*, and though Rashi does not use the word of his own work
 he uses it of his rebbi's commentary (to Gittin 82a). Rabbi Binyamin Mussafia,
-Rabbi Ernest Klein and Rabbi Daniel Sperber derive it from what Rabbi Reuven Chaim Klein gives as
+Rabbi Ernest Klein and Rabbi Daniel Sperber derive it from
 the Greek *commentaries*, Rabbi Sperber explaining the term from the
 records of the public register that documented official government acts; Rabbi
 Eliyahu HaBachur (*Sefer HaTishbi*) derives it instead from the Latin

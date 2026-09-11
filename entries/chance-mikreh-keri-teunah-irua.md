@@ -117,8 +117,8 @@ no discernible pattern or intention behind it: it is construed as cast from
 above and striking the ground at random. The *mikreh*/*keri* cluster already
 implies a convergence of seemingly unrelated factors, and he takes it further, that the
 impact of those converging forces is consistently conceived as a downward fall,
-perhaps because gravity is the most universal form of impact there is. English
-does the same, an event "falling out" on a date, and
+perhaps because gravity is the most universal form of impact there is. He finds
+English doing the same: an event "falls out" on a date, and
 *incident*, *accident* and *coincidence* all come from the Latin *cadere*,
 "falling upon," with *befalling* saying it outright and *landing* naming the end
 of a fall; *somewhere*, *wherever* and *whenever* carry the same sense of a

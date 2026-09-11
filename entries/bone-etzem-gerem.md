@@ -140,10 +140,10 @@ The Targumim typically render *etzem* with *garmei*, in the sense of bone and in
 of self alike; the Aramaic appears in Daniel 6:25. In Hebrew the noun is written
 *gerem* but usually pronounced *garem* under the influence of the cantillation and
 vocalization (Mishlei 17:22, 25:15). "A soft tongue breaks a bone (*gerem*)"
-(Mishlei 25:15) is plainly the body part; Rabbi Klein reads the pasuk as
-referring to the power of prayer to overturn a harsh decree. The self-sense may
+(Mishlei 25:15), said of the power of prayer to overturn harsh decrees from
+Above, is plainly the body part. The self-sense may
 already be seen in *gerem hamaalos*, the step itself (Melachim II
-9:13); it would seem, he writes, that *gerem* as bone gives *gerem* as
+9:13); it would seem, Rabbi Klein writes, that *gerem* as bone gives *gerem* as
 self the same way *etzem* does, a man's self being sometimes characterized by the
 hardest parts of his body. Rabbi Eliyahu HaBachur notes the rabbinic
 extension to causation, *gorem*, *grama*, *garmi*, seen already where Targum

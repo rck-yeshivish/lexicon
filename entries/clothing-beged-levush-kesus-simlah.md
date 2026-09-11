@@ -60,7 +60,7 @@ separate derashos.
 |---|---|---|---|
 | בגד | beged | garment | the general term (Malbim); the facade, cf. begidah (Rabbi Moshe Shapiro) |
 | לבוש | levush | apparel, dress | what one dresses in; lo bushah (Shabbos 77b) |
-| כסות | kesus | covering | draped, not donned (Malbim); protective (Pappenheim) |
+| כסות | kesus | covering | draped, not donned; protective (Pappenheim) |
 | שמלה | simlah | cloak, mantle | a kesus that honors its wearer (Malbim); linen (Wertheimer) |
 | מד | mad | fitted garment | measured to its wearer, from moded |
 | מעיל | me'il | robe | the outermost layer, from mei'al (Malbim); thin and fine (Wertheimer) |
@@ -68,14 +68,14 @@ separate derashos.
 
 ## Where the authorities disagree
 
-**beged against kesus.** Malbim: *beged* is the general term and
+**beged against kesus.** *Beged* is the general term (Malbim) and
 *kesus* the draped covering. The Maharik (Rabbi Yosef Kolon) reverses the axis:
 *beged* is a plain cloth like a tallis, unfitted to its wearer, while *kesus* is
 a garment specially sewn to his shape and dimensions. Rabbi Shlomo Aharon
 Wertheimer is the one who points out that the two stand in contrast.
 
-**What kesus names.** Malbim: the manner of wearing, draped rather than donned.
-Rabbi Shlomo Pappenheim: the function, protection from heat, cold or anything
+**What kesus names.** The manner of wearing, draped rather than donned; or, for
+Rabbi Shlomo Pappenheim, the function, protection from heat, cold or anything
 else.
 
 **simlah against salmah.** The consensus treats them as one word with the lamed
@@ -102,7 +102,8 @@ to cover a man respectably, with no dastardly motive in it. Rabbi Yochanan
 called his clothes "my honorers"
 (Bava Kamma 91b), seeing them as the means of presenting himself respectably in
 public rather than as a mask to hide behind. Rabbi Shlomo of Karlin: every deed clothes the soul, a good
-deed weaving a *levush* and a bad deed a *beged*. The man makes the clothes.
+deed weaving a *levush* and a bad deed a *beged*. Rabbi Klein concludes that,
+against the cliché, the man makes the clothes.
 
 ### kesus (כסות), simlah (שמלה) and salmah (שלמה)
 *Kesus* literally means "cover," and names the garment one covers oneself with, a

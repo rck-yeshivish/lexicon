@@ -80,8 +80,8 @@ Ibn Saruk, Ibn Janach and Radak intimate no connection at all between the two se
 flesh made hot by a wound rather than by fire, as in Mishnaic *shechunah*, hot weather
 (Yoma 53b; the Mishnah there, Yoma 5:1, is the Kohen Gadol's short prayer). Rabbi Yitzchak
 of Zeldin (*Shoresh Yesha*): from *shachum*, Targum's standard word for *chum*, brown
-(Onkelos to Bereishis 30:32), mem and nun interchanging; this would refer to the brownish
-color of the spot.
+(Onkelos to Bereishis 30:32), mem and nun interchanging. This would refer to the brownish
+color of a *shechin* spot on the skin.
 Rabbi Shlomo Pappenheim: from the biliteral ש-ח, bending, which yields *hishtachavaah* and
 *shuchah*, *shichah* and *shachas*, pits and caves cramped enough that a man inside must
 bend, and from there *meshichah*, anointing, since oil softens what is hard and makes it

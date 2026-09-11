@@ -69,7 +69,7 @@ object from its owner, the moisture from the substance, liquid from curds.
 Derashos, and the question of why dairy is eaten on Shavuos: Rabbi
 Shimshon of Ostropoli connects it to *Har Gavnunim*,
 an alternate name for Sinai (Tehillim 68:16-17), from *gvinah*. *Shemos Rabbah*
-2:4, which assumes the name relates somehow to *gnivah* and
+2:4, which assumes the name relates somehow to *gvinah* and
 to cheese-making, expounds it on the model of cheese, which draws the purest
 curds off
 from the dross: of all the mountains Hashem chose the one clean and pure of

@@ -47,8 +47,8 @@ and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
    is said to have made the room dark, or alternatively by creating the clouds
    that block the light. Rabbi Yaakov Tzvi Mecklenburg finds support for Rambam
    in the spelling: *choshech* and *chosech*, "lacks", differ only in the dot
-   over the shin, which he says certainly alludes to darkness being just the lack
-   of light.
+   over the shin. This certainly alludes to darkness being just the lack of
+   light.
 2. **A created entity.** Chizkuni, Radak, the Yaavetz, the Vilna Gaon, and
    others: Yeshayahu 45:7 says Hashem formed light and *created* darkness, and
    what is created is something.

@@ -57,9 +57,9 @@ Aramaic and Syriac *chamara*, Ugaritic *hmr*, Arabic *himar*, Akkadian *imeru*.
 That said, the Hebrew lexicographers all agree it derives from the triliteral
 ח-מ-ר, which also gives wine, brown, clay and mortar, a pile, and *chomer*, a
 unit of area. Rabbi Aharon Marcus takes "brown" as the core, so the word names
-the reddish-brown hue of many donkeys. Rabbi Reuven Chaim Klein has elsewhere
-tied it to "clay and material," the pack animal standing for the wholly material
-side of creation; others tie it to "wine," the dull donkey's intellect matching a
+the reddish-brown hue of many donkeys. As a pack animal the *chamor* represents
+the wholly material side of creation, hence the tie to "clay and material";
+others tie it to "wine," the dull donkey's intellect matching a
 drunkard's. Note also the personal name
 Chamor, father of Shechem, thirteen times in Tanach (Bereishis 33-34; Yehoshua
 24:32; Shoftim 9:28).

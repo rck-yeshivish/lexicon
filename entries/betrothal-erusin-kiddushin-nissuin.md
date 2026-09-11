@@ -83,12 +83,12 @@ with holiness or consecration as such. Two supports: Rabbi Avraham HaLevi of Bar
 Yosef*) note that if *mekudeshes* meant consecrated, the groom would be
 forbidding her to himself, which he plainly does not intend; and Rabbi Eliezer
 Ashkenazi notes that consecration would call for *mukdeshes*, whereas the formula
-reads *mekudeshes*, set aside for him. Tosafos (to *Kiddushin* 7b) nonetheless
-apply the *hekdesh* paradigm in halachah, by what Rabbi Klein calls their
-unspoken logic: one who betroths "half" a woman with
-the language of *kiddushin* effects a full betrothal, as consecrating half an
-animal sanctifies all of it, but one who uses the language of *erusin* effects
-only half.
+reads *mekudeshes*, set aside for him. Tosafos (to *Kiddushin* 7b) rule that
+one who betroths "half" a woman with the language of *kiddushin* effects a full
+betrothal, but one who uses the language of *erusin* effects only half. Rabbi
+Klein explains the ruling by what he calls their unspoken logic, the *hekdesh*
+paradigm: consecrating half an animal sanctifies all of it, and *kiddushin* is
+the term related to *hekdesh*.
 
 Dr. Michael Satlow suggests that the Mishnaic *kiddushin* is a loanword from the
 Greek legal term *ekdosis*, the bride's father handing the girl over to her new

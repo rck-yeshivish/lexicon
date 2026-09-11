@@ -103,12 +103,13 @@ every single day. That is exactly what a *moneh* count is not.
 
 ### moneh, minyan (מונה, מנין)
 Root מ-נ-ה. Mecklenburg derives *moneh* from *maneh*, a respectable portion, so
-that what enters a *moneh* count is by definition worth counting. Its character
-is that the sum alone is the requirement: the ten men needed for the parts of
-davening that call for a quorum, or the seven sprinklings the Kohen Gadol makes
-toward the Kodesh HaKodashim, which the Yom Kippur liturgy describes with
-*moneh* and not *sofer*. No individual man and no individual sprinkling necessarily
-carries weight on its own.
+that what enters a *moneh* count is by definition worth counting.
+
+In a *moneh* count the final number is the only requirement: the ten men needed
+for the parts of davening that call for a quorum, or the seven sprinklings the
+Kohen Gadol makes toward the Kodesh HaKodashim, which the Yom Kippur liturgy
+describes with *moneh* and not *sofer*. No individual man and no individual
+sprinkling necessarily carries weight on its own.
 
 ### mifkad (מפקד)
 Root פ-ק-ד. A third family for counting and numbering, *poked*/*mifkad*.

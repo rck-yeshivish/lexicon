@@ -75,8 +75,8 @@ Three accounts of the same contrast, and they do not reduce to one.
    specific goal, which only a being able to think and decide for itself can take
    (see also Abarbanel to *Moreh Nevuchim* 1:18).
 
-The first two agree in practice, and Rav Hirsch's point about purpose is what,
-as it seems to Rabbi Klein, explains the deliberateness of Yehudah's *vayigash*.
+Rav Hirsch's point about purpose is what, as it seems to Rabbi Klein, explains
+the deliberateness of Yehudah's *vayigash*.
 Rabbi Yaakov Tzvi Mecklenburg's abstract/physical axis runs against Rav Hirsch.
 
 ## Distinctions

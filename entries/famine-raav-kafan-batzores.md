@@ -68,10 +68,11 @@ The readings:
   empty-stomach feeling that comes of hunger and thirst, tied to *kefiyah*,
   forcing; of all a man's essential activities (eating, drinking, bathing,
   dressing, sleeping, procreating) eating and drinking are the most important,
-  so a dearth of food *forces* his hand. He notes as well that
-  *kafan* can mean scattering or spreading out, possibly a metathesis of *kanaf*
-  (wing), which a bird spreads to fly, and famine may send a man out of the
-  stricken place, as it sent Avraham, Yitzchak, and Yaakov.
+  so a dearth of food *forces* his hand. A man so forced might leave the
+  stricken place, as Avraham, Yitzchak, and Yaakov each did because of a
+  famine. In line with this, *Ohalei Yehuda* also notes that *kafan* can mean
+  scattering or spreading out. In that sense, it is possible that *kafan* is a
+  metathesis of *kanaf* (wing), which a bird spreads to fly.
 - Rabbi Shlomo Pappenheim offers a similar explanation: from the biliteral כ-פ,
   receptacle, which yields *kaf* (palm), *kofef* (bending, the act that turns a
   palm into a receptacle), *akifah* (enforcement, which compels others to bend
@@ -83,8 +84,9 @@ The readings:
 - The Vilna Gaon: *kafan* is the *internal* difficulty, where enough food is at
   hand yet does not satisfy, which he likens to the curse of "you shall eat and
   not be sated"
-  (Vayikra 26:26), the reverse of "you shall eat your bread to satisfaction"
-  (Vayikra 26:5), which Rashi explains as a small quantity blessed in the belly.
+  (Vayikra 26:26). That curse is the exact opposite of the blessing "you shall
+  eat your bread to satisfaction" (Vayikra 26:5), which Rashi explains as a
+  small quantity blessed in the belly.
 - Wertheimer: *kafan* is worse than *ra'av*, the man so far gone in
   malnourishment that he no longer feels hunger, having grown used to receiving
   less than he needs.

@@ -52,8 +52,10 @@ the Mishkan is not meant to stand still. A Jew is likewise never to stagnate in
 his learning but to keep climbing. He contrasts the malachim, who have a single
 *regel* (Yechezkel 1:7), fixed in the form they were created in, with no bechirah
 and so no growth; man has *paamim*, feet that move, because he must meet
-changing situations and choose rightly each time. Bilaam did not, and so the
-word *paam* is withheld from him.
+changing situations and choose rightly each time.
+
+Bilaam failed to do so, and so he is undeserving of the word *paam* in any
+sense.
 
 ### regel (רגל)
 The ordinary word for foot, and the one used for Bilaam's foot crushed against
