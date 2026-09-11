@@ -20,19 +20,19 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Giluach* is **shaving**, a person's hair cut down to the skin; *gizah* is
-**shearing**, an animal's wool, and a cut that leaves something standing.
+*Giluach* is **shaving**, for Rabbi Shlomo Pappenheim a person's hair cut down
+to the skin; *gizah* is **shearing**, typically an animal's wool, and a cut that
+leaves something standing.
 *Galav* is a **barber** (or his razor), a *hapax legomenon* in Yechezkel 5:1.
 *Sapar* is not Biblical at all: it is the Targumic and Mishnaic word, "barber"
-and "to give a haircut," and it is the ordinary word today. The *metzora* and
-the Nazir are *giluach* and never *gizah*, and the difference is halachically
-load-bearing.
+and "to give a haircut," and it is the ordinary word today. The Torah uses *giluach* for the *metzora*
+and the Nazir.
 
 ## Distinctions
 
 ### giluach (גילוח)
 Root ג-ל-ח, some twenty-three appearances in Tanach, thirteen of them in Chumash,
-mostly in the *metzora* and Nazir purification passages (Vayikra 14:8 and 14:9,
+the largest share of them in the *metzora* and Nazir purification passages (Vayikra 14:8 and 14:9,
 Bamidbar 6:9, 6:18 and 6:19). Rav Hirsch (to Bereishis 9:21), on the
 interchange of hei, ayin and ches, groups ג-ל-ה (*gilui*, reveal), ג-ל-ע
 (*gala*, open) and ג-ל-ח under one theme of exposing and bringing forward: to
@@ -50,11 +50,11 @@ Yehoshua 17:3), and the place-name Beis Chaglah (Yehoshua 15:6, 18:19, 18:21)
 seem to come from this root; Rabbi Avraham Abulafia derives the given name
 Chaglah from ח-ג-ל, which he explains as a permutation of ע-ג-ל. In medieval
 Hebrew and Yiddish *galach* came to mean a Christian priest, from the shaved
-head; as far as the column knows, Rashi was the first to use it so.)
+head; as far as Rabbi Klein knows, Rashi was the first to use it so.)
 
 ### gizah / gezizah (גזיזה)
 Root ג-ז-ז. Rabbi Shlomo Pappenheim gives two different distinctions in two
-different works, and they are worth keeping apart:
+different works:
 1. *Yerios Shlomo*: the difference is **whose** hair. *Giluach* in Tanach is
    always a person's hair (Yosef before Pharaoh, Bereishis 41:14; the *metzora*,
    Vayikra 14:9; the Nazir, Bamidbar 6:18; the prohibition on shaving the beard,
@@ -86,15 +86,16 @@ Targum Yonasan uses forms of *galav* for *giluach* (Vayikra 19:27, Bamidbar
 of it again for razors and cutting elsewhere (Yehoshua 5:2, Yirmiyahu 48:37; see
 also Bereishis Rabbah 31:8), all of which suggests that perhaps *galav* is an
 Aramaic word. Rashi and Mahari Kara (to Yechezkel 5:1), however, explain that it
-comes from Greek; the column reports that after much searching it found no Greek
-word that fits, but that Dr. Alexander Kohut suggests emending Rashi's wording
+comes from Greek; Rabbi Klein reports that after much searching he found no
+Greek word that fits, but that Dr. Alexander Kohut suggests emending Rashi's wording
 to read Arabic instead of Greek. Dr. Chaim Tawil, for his part, holds *galav* is
 clearly a loanword from the Akkadian *gallabu*, barber. Rav Hirsch (to Tehillim
 74:6) connects ג-ל-ב to ק-ל-פ, "peel" in Rabbinic Hebrew, by the interchange of
-gimmel with kuf and beis with peh, since a haircut lays bare what was covered
-much as peeling does. Rabbi David Golumb (*Targumna* to Bamidbar 21:29) argues
-that *galav* is a metathesized form of *gvul*, border, which he says is better
-understood in light of the possible connection between *sapar* and *sfar* below.
+gimmel with kuf and beis with peh; indeed, Rabbi Klein observes, a haircut that
+lays bare what was covered can be similar to peeling. Rabbi David Golumb
+(*Targumna* to Bamidbar 21:29) argues that *galav* is a metathesized form of
+*gvul*, border, which may be better understood in light of the possible
+connection between *sapar* and *sfar* below.
 
 ### sapar (ספר)
 Absent from Tanach, standard in the Targumim and the Mishnah, and the everyday
@@ -102,7 +103,8 @@ word now (*sapar*, barber; *tispores*, haircut). Rabbi Eliyahu HaBachur
 (*Meturgaman*) notes that Onkelos and Targum Yonasan are inconsistent, sometimes
 rendering *giluach* with *sapar* and sometimes leaving the Hebrew root standing,
 and that the Targumic *maspar*, razor (Bamidbar 6:5, Shoftim 13:5), is from this
-root; Targum Neofiti is the consistent one, always *sapar*. The Mishnah uses it
+root. Targum Neofiti is more consistent than the other Targumim, always
+rendering *giluach* as *sapar*. The Mishnah uses it
 throughout: the *anshei mishmar* and *anshei maamad* may not take a haircut
 during their week (Taanis 2:7), no haircut in the week of Tisha B'Av (Taanis
 4:7), one may not see a Jewish king while he is being shorn (Sanhedrin 2:5),
@@ -119,11 +121,12 @@ hair, animal wool and even vegetables (Tosefta Beitzah 3:19, Beitzah 34a, Keilim
 3:3), and that metathesis of a root's consonants is especially prevalent where a
 reish is involved.
 
-Golumb (*Targumna* to Shemos 9:29 and Vayikra 14:9) reconciles the Targum's
+Golumb (*Targumna* to Vayikra 14:9) attempts to reconcile the Targum's
 inconsistency: for Yosef's haircut Onkelos writes *sapar* because in Mitzrayim
 they cut hair with *misparayim*, scissors, while for the *metzora* he leaves
 *giluach* standing, since the *metzora* must be shaved smooth "like a gourd"
-(Sotah 16a), which scissors cannot do. Golumb further reads the string ס-פ-ר as
+(Sotah 16a), which scissors cannot do. Golumb (to Shemos 9:29 and Vayikra
+14:9) further reads the string ס-פ-ר as
 "circle" or "round," asserting that all these words are related to the Greek
 *sphere*, circle: *l'saper* and *sippur*, telling a story that gets traction as
 it goes around and around; *sfar*, a border city surrounded by its protecting

@@ -21,8 +21,8 @@ gadol*'s **turban**, and *kova* possibly not a hat at all but a **hard hat** or
 belts, *avnet* is the **sash** of the priestly service, *chagor* the general
 **belt** for anything that goes around the body, and *eizor* the **girdle** at
 the waist, worn by strong men. Rashi and Ramban maintain that *migbaas* and
-*mitznefes* were the same type of hat and are indeed synonyms; the other sources
-in the column distinguish them.
+*mitznefes* were the same type of hat and are indeed synonyms; the others
+distinguish them.
 
 ## Distinctions
 
@@ -41,7 +41,7 @@ Rambam has the ordinary *kohen*'s hat actually covering the head.
 
 ### mitznefes (מצנפת)
 Root צ-נ-ף. The Meiri: an especially long cloth that the *kohen gadol* winds
-(*tzonef*) around his head, so the name records the wrapping and not the shape.
+(*tzonef*) around his head, so the name records the wrapping.
 The Vilna Gaon says the same, against the pre-sewn *migbaas*. Others hold both
 were wrapped, and the *mitznefes* is distinguished by reaching down to the
 beard. Rambam has it encircling the perimeter of the head without covering it.
@@ -49,11 +49,11 @@ beard. Rambam has it encircling the perimeter of the head without covering it.
 honor of wearing a royal diadem.
 
 Against all of these, Rashi and Ramban maintain that *migbaas* and *mitznefes*
-were both the same type of hat and are simply synonyms. Here the column brings
-Josephus, who writes that the regular *kohen* wore a "Masnaemphthes," a
+were both the same type of hat and are simply synonyms. Josephus writes that
+the regular *kohen* wore a "Masnaemphthes," a
 Greekized *mitznefes*, describing it as a cap that does not come to a point and
 does not encircle the whole head, a crown-like bonnet covering most of the head
-but not all of it. On that view, the column suggests, one may argue that even if
+but not all of it. On that view, Rabbi Klein suggests, one may argue that even if
 *migbaas* and *mitznefes* name the same hat they recall different elements of
 it: *migbaas* denotes the hat-like form of the thing, while *mitznefes* focuses
 on the honor that wearing it brings, in line with *Tosafos HaRosh* on *tznif*.
@@ -67,8 +67,8 @@ Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II
 
 ### avnet (אבנט)
 Malbim: a belt worn for ritual purposes, which is why it is the belt of the
-*kohanim*. It is the only one of the three belt-words the Torah uses for the
-priestly garments.
+*kohanim*. The Torah refers to the belt worn by all the *kohanim* as an
+*avnet*.
 
 ### chagor / chagorah (חגור, חגורה)
 Root ח-ג-ר. Malbim: the general term, anything that goes around the
@@ -77,7 +77,8 @@ feet. Masculine *chagor*, feminine *chagorah*; the gender does not change the
 sense.
 
 ### eizor (אזור)
-Root א-ז-ר. Malbim: specifically the belt at the waist, and one drawn tight.
+Root א-ז-ר. Malbim: specifically the belt at the waist, and one generally drawn
+tight.
 Because it is fastened tightly, girding an *eizor* becomes a figure for
 performing a feat of strength, and in *Tanach* it is worn only by mighty men,
 never by women or children. In post-Biblical writings *sinar* is a different item

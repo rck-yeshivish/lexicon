@@ -21,7 +21,7 @@ understanding it (Malbim), or hearkening in answer to a call (Rokeach). On
 distance, the Sifrei has *haazinu* for what is near and *shema* for what is far;
 Chizkuni, Abarbanel and Rabbi Yitzchak Arama hold the reverse. Devarim 32:1 and
 Yeshayahu 1:2 assign the two Hebrew verbs to heaven and earth in opposite order,
-and that reversal is the question the meforshim are answering.
+and both distance readings are offered to explain that reversal.
 
 ## Distinctions
 
@@ -36,11 +36,9 @@ The Sifrei (to parashas Haazinu): *haazinu* is listening from close range.
 ### shema (שמע)
 Malbim: *shema* is not merely the physical act; it carries a measure of
 intellectual or emotional grasp of what is heard. Rokeach: *shema* is hearkening
-in response to another's call, that is, hearing that answers. The column notes
+in response to another's call, that is, hearing that answers. Rabbi Klein notes
 that these two explanations, Malbim's and Rokeach's first, fail to account for
-the change in phraseology between Moshe's opening and Yeshayahu's, which is the
-question the essay set out with; Rokeach's second distinction is brought after
-that observation. The Sifrei: *shema* is listening from a distance, which
+the change in phraseology between Moshe's opening and Yeshayahu's. The Sifrei: *shema* is listening from a distance, which
 demands that a man be especially attentive to the sound, concentrate properly,
 hear what should be heard, and focus on its meaning.
 

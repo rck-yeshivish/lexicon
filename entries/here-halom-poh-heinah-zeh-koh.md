@@ -40,12 +40,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Poh* is the ordinary **here**, and the precise one: a specific spot. *Halom* is
+*Poh* is the ordinary **here**, and for Luzzatto and Wertheimer the precise one:
+a specific spot. *Halom* is
 directional, **hither**, a step arrived at rather than a place stood in (Rav
 Hirsch, as Dr. Lawrence Resnick sums him up), and Chazal read it as marking a
 place of royal weight (Zevachim 102a). *Heinah* is **here** as a destination
-reached from elsewhere, and alone among them also **until now** (Bedersi). *Zeh*
-for place is the loose one, a general area; *koh* is **thereabouts**.
+reached from elsewhere (Luzzatto), and, unlike *poh* and *halom*, also **until
+now** (Bedersi). *Zeh* for place is the loose one, a general area, and *koh* is
+**thereabouts** (both Luzzatto).
 
 ## At a glance
 
@@ -64,21 +66,20 @@ for place is the loose one, a general area; *koh* is **thereabouts**.
 Burning Bush by postulating that *halom* always connotes something to do with
 royalty, so that *"al tikrav halom"* (Shemos 3:5) is a refusal of dynastic
 leadership to Moshe, on the strength of David's *"ki haviosani ad halom"*
-(Shmuel II 7:18). Maharsha adds that the choice of the rare *halom* over the
-common *poh* is the trigger; *Bereishis Rabbah* 45:1 reads Hagar's *halom*
+(Shmuel II 7:18). Maharsha adds that the exegesis is also supported by the
+choice of the rare *halom* over the common *poh*; *Bereishis Rabbah* 45:1 reads Hagar's *halom*
 (Bereishis 16:13) the same way. Maharsha (to Zevachim 102a) and *HaKtav
 VeHaKabbalah* (to Bereishis 16:13) work through further examples of *halom*
 carrying something royal or otherwise important about the place. Luzzatto
 extrapolates from the Gemara's discussion that *halom* means "here" as an
 important, special place, against the other words in the cluster, which can carry
-a banal or prosaic "here." Rav Hirsch (to Bereishis 16:13) takes a different
-line, directional and not honorific, pairing ה-ל-ם (breaking or beating, as with
+a banal or prosaic "here." In a similar vein, Rav Hirsch (to Bereishis 16:13)
+pairs ה-ל-ם (breaking or beating, as with
 a hammer) with *paam*: as a *paam* is one beat in the continuum of time, *halom*
 is one step in the continuum of space, marking a place one may be marching to as
-finally "here." The column quotes Dr. Lawrence Resnick's summary of Rav Hirsch:
-*halom* never means "here," it means "hither," a single spatial step forward, up
-to here. And the column reports, on Rabbi Eliezer Cohn's observation, that Rav
-Hirsch is in fact following his great-uncle Rabbi Yehuda Leib Shapira-Frankfurter
+finally "here." Dr. Lawrence Resnick sums up Rav Hirsch: *halom* never means
+"here," it means "hither," a single spatial step forward, up to here. As Rabbi
+Eliezer Cohn has pointed out, Rav Hirsch is in fact following his great-uncle Rabbi Yehuda Leib Shapira-Frankfurter
 (*HaRechasim LeVikah* to Bereishis 16:13), who had already written that *halom*
 always means "to here."
 
@@ -115,7 +116,8 @@ return after the exile, "in the fourth generation they shall return *heinah*"
 (Bereishis 15:16); the waters split *heinah v'heinah* (Melachim II 2:14); and
 Yirmiyahu's exiles asking the way *heinah*, to Tzion (Yirmiyahu 50:5). Luzzatto
 asserts, with prooftexts, that it is used only where something has travelled from
-elsewhere and arrived, often of somebody *coming* here (Yehoshua 2:2; Shoftim
+elsewhere and arrived, often of somebody *coming* here, ostensibly from somewhere
+else (Yehoshua 2:2; Shoftim
 16:2; Shmuel II 5:6; Melachim II 8:7; Yechezkel 40:4; Divrei HaYamim I 11:5),
 while *poh* and *zeh* are static and need not imply any contrast with another
 place. Wertheimer: *poh* is the more specific "here" and *heinah* the more
@@ -129,9 +131,11 @@ with its homonym *heinah*, a feminine form of *hein*, "they" (Bereishis 6:2,
 21:29; Shmuel II 17:28).
 
 ### zeh (זה) and koh (כה)
-*Zeh* is "this," used for place where the place is loose: "stay *zeh* the night"
-(Bamidbar 22:19), "go up *zeh*" (Bamidbar 13:17), "slaughter *zeh*" (Shmuel I
-14:34), "there was no kedeishah *bazeh*" (Bereishis 38:21-22). *Koh*: "set them
+*Zeh* is "this," occasionally used for place: "stay *zeh* the night" (Bamidbar
+22:19), "go up *zeh*" (Bamidbar 13:17), "slaughter *zeh*" (Shmuel I 14:34), on
+the spot and not elsewhere. Luzzatto takes *zeh* in this sense as the less
+specific place, a general area: "there was no kedeishah *bazeh*" (Bereishis
+38:21-22). *Koh*, typically "so" or "thus," occasionally means here: "set them
 *koh*" (Bereishis 31:37), "a day's journey *koh*" (Bamidbar 11:31), Bilam "stand
 *koh*" by his offerings (Bamidbar 23:15; see also Shmuel II 18:30). Luzzatto
 claims *koh* is not quite "here" but somewhere very close to it, seemingly on the

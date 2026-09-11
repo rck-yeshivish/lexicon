@@ -24,11 +24,10 @@ All six mean "hidden," and Rabbi Shlomo Pappenheim does most of the separating.
 *Tamun* is **buried, concealed within** something (usually the
 ground). *Safun* is **stowed, hidden away** deliberately, its outer face
 covered. *Tzafun* is **hidden away for safekeeping, stored up**: concealed in
-order to preserve, the treasured hidden, not the merely unseen. *Ganuz* is
+order to preserve. *Ganuz* is
 **stored away, put in the treasury** (Rabbinic: consigned to *genizah*).
-*Nistar* / *mustar* is **hidden** from sight or from knowledge, the plain
-general word. *Ne'elam* is **hidden from the mind, beyond one's grasp**.
-*Tzafun* is not a synonym of "lost from view"; it is hidden *and kept*.
+*Nistar* / *mustar* is **hidden** from sight or from knowledge. *Ne'elam* is
+**hidden from the mind, beyond one's grasp**.
 
 ## Distinctions
 
@@ -38,7 +37,7 @@ unbeknownst to the victim (Yirmiyahu 18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6,
 140:6, 142:4), others burying, as Yaakov buried the idols of Shechem (Bereishis
 35:4), Moshe the Mitzri (Shemos 2:12), and the spies themselves in flax (Yehoshua
 2:6). Mishnaic *hatmanah* is embedding food in a heat source or insulator to keep
-it warm (Shabbos 2:7, 4:1-2; Beitzah 2:6; Eduyos 3:10). From all this Rabbi Klein
+it warm (Shabbos 2:7, 4:1-2; Beitzah 2:6; Eduyos 3:10). From all this Rabbi Reuven Chaim Klein
 concludes that *tamun* seems to mean simply anything placed within another
 material that covers it and hides it from view. The Mechilta (to Shemos 22:5) and
 Bava Kamma 60a-62a use *tamun* for what a fire consumed that the kindler could
@@ -63,9 +62,7 @@ Root צ-פ-ן, over thirty times in Tanach; Yocheved hid Moshe three months
 (Shemos 2:2). Rabbi Yosef Kimchi ties it to *safun* via the tzadi/samech
 interchange. Pappenheim gives it its own root, TZADI-PEH, "floating, covering":
 hiding by embedding within something that covers it; and TZADI-PEH-NUN means
-hiding specifically **for the purpose of preserving and saving**. That is what
-*tzafun* adds over every neighbor: the object is put away because it is valued
-and meant to be brought out again. Relatives: *tzafon* (north), which also seems
+hiding specifically **for the purpose of preserving and saving**. Relatives: *tzafon* (north), which also seems
 to come from the same root; Shadal (to Vayikra 11:5) even relates *shafan* to it,
 since rabbits dig holes and hide in them.
 
@@ -77,9 +74,9 @@ most treasured things: *ginzei* (Yechezkel 27:24; Esther 3:9, 4:7), *ganzach*
 *tzrurah* (Shmuel I 25:29) and *pikadon* (Bereishis 41:36). In the Mishnah it is
 also the verb: Chizkiyahu hid the Book of Remedies (Pesachim 4:9), the Chashmonaim
 hid the altar stones the gentiles had defiled (Middos 1:6), the Aron was hidden
-(Shekalim 6:1-2); *genizah* is the honorable disposal, by burial, of used or
-ruined holy writings (Shabbos 9:6, 16:1; Sanhedrin 10:6), and the column notes
-that Arabic *janaz*, "to bury," is a cognate of the Hebrew/Aramaic word. Hence
+(Shekalim 6:1-2); *genizah* is the honorable disposal, such as by burial, of
+used or ruined holy writings (Shabbos 9:6, 16:1; Sanhedrin 10:6), and Arabic
+*janaz*, "to bury," is a cognate of the Hebrew/Aramaic word. Hence
 the Cairo Genizah; in the vernacular a *genizah* is sometimes called *sheimos*,
 "names," since by strict law only documents bearing Hashem's name need burial.
 Bava Basra 11a: Munbaz gave his treasury away in a famine, "they stored (*ganzu*)
@@ -93,11 +90,10 @@ treasured collection. *Gizbar*, treasurer, is its relative, twice in Tanach (Ezr
 explained *gizbar* as a loanword from Old Persian *ganzabara*/*ginzbara*, the nun
 assimilating into the zayin, and Professor Edward Yechezkel Kutscher explains its
 *-bar* element as cognate with German *bahre* and English *bear*, the *gizbar*
-being the one who bears the responsibility of the treasury, all three being
-Indo-European languages. Biblical Aramaic *gidabar* (Daniel 3:2-3) is the
+being the one who bears the responsibility of the treasury; Old Persian, German
+and English are all Indo-European languages. Biblical Aramaic *gidabar* (Daniel 3:2-3) is the
 Aramaicized form, zayin becoming dalet, and *gizbar*/*gidabar* is apparently also
-the etymon of the names Jasper, Caspar and Gaspar. *Ganuz* is hidden as treasure
-is hidden: catalogued and kept.
+the etymon of the names Jasper, Caspar and Gaspar.
 
 ### nistar / mustar (נסתר, מוסתר, סתר)
 Root ס-ת-ר, over a hundred times in Tanach; *mistar*/*mistor*, the mem being
@@ -106,7 +102,7 @@ Pappenheim, on various prooftexts, has the root cover both hidden from people's
 knowledge (*seter*, a secret) and hidden from the senses (*hastarah*, physically
 obscured); the Rabbinic sense "destroy" is a redefinition of the second, since
 what is destroyed can no longer be seen. As for the popular *stirah*,
-"contradiction," the column offers only its own guesses: perhaps the resolution
+"contradiction," Rabbi Reuven Chaim Klein offers only his own guesses: perhaps the resolution
 is at first hidden from the one who points out the incongruity, or each statement
 blocks the other's truth, or a contradiction destroys the force of the original
 statement.
@@ -115,7 +111,8 @@ Rabbinic *mistorin*, the hidden and esoteric parts of the Torah (Midrash Shmuel
 28:1, on Rachel's descendants as masters of *mistorin*; Midrash Shocher Tov to
 Tehillim 114 and Bamidbar Rabbah 20:21, on Israel not revealing their *mistorin*
 in Egypt; Tanchuma Lech Lecha 19, on milah; Tanchuma Vayera 5, on the Oral Torah)
-only sounds like this root. Its origin is the Greek *mysterion*, secret rites
+resembles this root in both sound and meaning, but its origin is the Greek
+*mysterion*, secret rites
 open only to initiates, who were called *mystes*, which is also behind English
 *mystical* and *mysticism*. The word is spelled sometimes with a tet and
 sometimes with a tav, depending on the midrashic work and the edition; Hillel
@@ -134,7 +131,8 @@ Shapira-Frankfurter, sometimes called Ralash (*HaRechasim LaVikah*, cited in
 people speak of quietly; *ta'alumah*, a cognate of *ne'elam*, or *seter*, is so
 hidden that one person alone knows it and nobody else is privy.
 
-Named, not treated: *pele*/*nifla*, *nichbeh*/*mitchabeh*, *tzanua*, *camun*.
+Other words for hidden things include *pele*/*nifla*, *nichbeh*/*mitchabeh*,
+*tzanua* and *camun*.
 
 ## Rendering guidance
 

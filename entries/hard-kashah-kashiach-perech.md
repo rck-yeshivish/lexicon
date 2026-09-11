@@ -20,11 +20,11 @@ updated: 2026-09-10
 
 *Kashah* is the general word, and covers both English senses of hard: **hard**
 as in rigid and unyielding, and **hard** as in difficult. *Kashiach* is not
-hardness of substance at all but hardness of heart toward those one should love:
-**cruel, callous**. *Perech* literally breaks, so *avodas perech* is
+hardness of substance at all but cruelty (Ibn Ezra, Radak), for Rabbi Shlomo Ibn
+Melech specifically toward those one should love: **cruel, callous**. *Perech* literally breaks, so *avodas perech* is
 **back-breaking** labor, or, on a second line of reading, **pointless** labor,
 work with no end and no product. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the
-three as the Hebrew words for hard; only *kashah* is about hardness itself.
+three as the Hebrew words for hard.
 
 ## Distinctions
 
@@ -39,9 +39,10 @@ to endure. Rav Hirsch, on the interchange of
 kuf with yud and with gimmel, links *kashah* to *yesh*, existence, since to us
 the more solid a thing is the more real it seems, and to *gishah/gashash*,
 approaching and impacting, since only what is solid is felt to make contact.
-Hence the Menorah of *mikshah* (Shemos 25:31, 37:22, Bamidbar 8:4), beaten out of
-a single block, which Rashi (to Shemos 25:31) says was hammered into shape:
-harder than cast metal, and made by impact. Rabbi Shlomo Pappenheim derives from
+Rabbi Klein applies this to the Menorah of *mikshah* (Shemos 25:31, 37:22,
+Bamidbar 8:4), beaten out of a single block, which Rashi (to Shemos 25:31) says
+was hammered into shape: harder than cast metal, and made by the kind of impact
+Rav Hirsch describes. Rabbi Shlomo Pappenheim derives from
 the two-letter core ק-ש a family of hard things: *kash*, the stiff lower part of
 the stalk not even fit for fodder; *kishu*, the gourd with its hard rind;
 *keshes*, the unbending part of the archer's weapon; and *mokesh*, a trap made of
@@ -49,9 +50,9 @@ something hard rather than a pliant net, and hard to escape.
 
 In the language of Chazal, *hekesh* is the derashah that compares two areas of
 halachah juxtaposed in one pasuk, that is, the impact or collision of two realms
-in a single verse. The column notes that the Arabic term *qiyas* names the
+in a single verse. The Arabic term *qiyas* names the
 process in Islamic law of deducing new rulings by analogy to existing ones, and
-that in medieval Hebrew, under the influence of the Ibn Tibbon family who
+in medieval Hebrew, under the influence of the Ibn Tibbon family who
 translated Judeo-Arabic works into Hebrew, *hekesh* took on that meaning too and
 came to mean any deductive analogy or syllogism. A *kushya* is a logical
 difficulty, the clash between a statement and what reason would say, and by a
@@ -102,8 +103,8 @@ forbids with a Jewish bondsman and what Mitzrayim did to Yisrael.
 
 The Haggadah defines *avodah kashah* as *perech*, and Onkelos (to Shemos 1:13-14,
 Vayikra 25:53) renders *perech* with the Aramaic cognate of *kashah*, *kashyu*.
-The column takes this to suggest the two terms are more or less equivalent, and
-sets out from there to explore the differences anyway.
+Rabbi Klein takes this to suggest that the two terms are more or less
+equivalent.
 
 ## Rendering guidance
 

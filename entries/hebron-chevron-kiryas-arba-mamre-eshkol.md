@@ -33,13 +33,14 @@ updated: 2026-09-10
 ## Bottom line
 
 One city, four names (*Bereishis Rabbah* 58:4). **Chevron** is the standing name,
-which the column says seems to derive from ח-ב-ר, connection or friendship.
+which seems to derive from ח-ב-ר, connection or friendship.
 **Kiryas Arba** is the older one (Yehoshua 14:15), and the live question is
 whether *arba* is the number, "City of Four," or the personal name of the giants'
-father, "City of Arba"; Rashi holds each way in a different place, and the column
-records a third view, that the name is not Semitic at all and never meant either.
-**Mamre** and **Eshkol** are the names of Avraham's two allies, and the Torah
-uses both of the place as well.
+father, "City of Arba"; Rashi holds each way in a different place, and other
+scholars suggest a third view, that the name is of non-Semitic origin and
+originally had nothing to do with either. **Mamre** and **Eshkol** are the names
+of Avraham's two allies, and the Midrash counts both as names of the city as
+well.
 
 ## At a glance
 
@@ -70,15 +71,14 @@ uses both of the place as well.
    conquest (Bamidbar 13:22, Yehoshua 15:14, Shoftim 1:10), so the name is "City
    of Arba." Rabbi Avraham Maimuni: Arba was either the city's founder or its
    first king. (Its king in Yehoshua's day was Hoham, Yehoshua 10:3.)
-3. **Neither.** The column reports, without naming them, that other scholars
+3. **Neither.** Other scholars
    suggest the name Kiryas Arba is of non-Semitic origin and originally had
    nothing to do with the number "four" or with a giant named Arba.
 
 Rabbi Avraham Menachem Rappaport presses the grammatical objection: Bereishis
 35:27 has *Kiryas HaArba* with the definite article, and a proper noun does not
 take one, so the presence of the hei suggests that *arba* there must be read as
-the common noun "four." Two answers, plus the escape offered by the third view
-above. Rashi (to Bereishis 35:27) *partially* circumvents the problem: in a
+the common noun "four." Two answers. Rashi (to Bereishis 35:27) *partially* circumvents the problem: in a
 two-word name the article sometimes attaches to the second word while governing
 the compound. Radak (there) also seems to address it: the city carries the name
 for both reasons at once, for Arba the father of the giants and because four
@@ -91,8 +91,8 @@ understood Ephron and Arba to be one man, Ephron being the one from whom Avraham
 bought the Me'aras HaMachpelah (Bereishis 23; 25:9; 49:29-30; 50:13). He
 justifies it linguistically: the root of *arba*, ר-ב-ע, is visible in the ordinal
 *revi'i* where the alef drops, and from there he posits a link by metathesis and
-the bet/peh interchange to ע-פ-ר, dust, the root of Ephron. The column adds the
-comparative evidence he leans on: the Akkadian *turbu'u* means "dust" and its
+the bet/peh interchange to ע-פ-ר, dust, the root of Ephron. He also leans on
+comparative evidence: the Akkadian *turbu'u* means "dust" and its
 root answers to Hebrew ר-ע-ב, and a possible Hebrew cognate, *rova*, seems to be
 twinned with *avak*, dust (see Bamidbar 23:10). Zidel then theorizes a step
 further, deriving *Chevron* itself from Ephron, ayin interchanging with ches and
@@ -113,17 +113,17 @@ conquered it.
 ## Distinctions
 
 ### Chevron (חברון)
-The column notes that the city seems to be mentioned in the Amarna letters and in
+The city seems to be mentioned in the Amarna letters and in
 Egyptian hieroglyphic inscriptions, where it figures as one of the important
 centers of the land of Canaan. The name seems to derive from the Hebrew/Semitic
 root ח-ב-ר, connection, joining, friendship. The Midrash (*Bereishis Rabbah*
 88:13) calls Avraham Hashem's *chaver na'ah*, His fine friend; Rabbeinu Efrayim
 (to Bamidbar 13:22) notes that *Chevron* and *chaver na'ah* have the same
 *gematria*, and (to Bereishis 37:14) that it equals "this is Avraham," 266, so
-that the city's own name alludes to its most illustrious citizen. The column adds
-that these explanations are paralleled in the Arabic name for the city, al-Khalil,
-literally "the friend [of God]," another allusion to Avraham. The
-same sense stands behind Chevron as a personal name: Kehas, grandfather of Moshe
+that the city's own name alludes to its most illustrious citizen. These
+explanations are paralleled in the Arabic name for the city, al-Khalil,
+literally "the friend [of God]," another allusion to Avraham. Chevron is also
+a personal name: Kehas, grandfather of Moshe
 and Aharon, had a son Chevron (Shemos 6:18, Bamidbar 3:19, Divrei HaYamim I 5:28,
 6:3, 23:12), which Rabbeinu Efrayim reads as a mark of the Kohanim's work,
 forging the *chibbur* between Israel and their Father in Heaven and eating
@@ -133,7 +133,7 @@ forging the *chibbur* between Israel and their Father in Heaven and eating
 The Torah names it as Sarah's place of death, "and Sarah died in Kiryas Arba,
 which is Chevron" (Bereishis 23:2), and repeats the identification (Bereishis
 35:27; Yehoshua 14:15, 15:13, 20:7, 21:11; Shoftim 1:10). *Kiryah* is a city, so
-the name reads literally as "City of Four," or, as the column puts it,
+the name reads literally as "City of Four," or
 "Tetrapolis." Yehoshua 14:15 and Shoftim 1:10 mark this as the earlier of the two
 names.
 For what *arba* means, see the dispute above. In our own day Kiryas Arba is the
@@ -142,8 +142,8 @@ Jewish town beside Chevron proper, not the city itself.
 ### Mamre (ממרא) and Eshkol (אשכול)
 Both are names of Avraham's confederates (Bereishis 14:13, 14:24) and both attach
 to the place. For Mamre see above. Eshkol: the spies come to Chevron (Bamidbar
-13:22) and in the next pasuk reach Nachal Eshkol (13:23), which reads as one
-place under two names, as the Midrash has it. The pasuk gives the reason for the
+13:22) and in the next pasuk reach Nachal Eshkol (13:23), which suggests one
+place under two names, as the Midrash intimates. The pasuk gives the reason for the
 stream's name, that they cut an *eshkol*, a cluster of grapes, from there
 (13:24). Rabbi Chaim Kanievsky reconciles the two: the site was already Nachal
 Eshkol when the spies arrived, named for Avraham's ally Eshkol, whose name is

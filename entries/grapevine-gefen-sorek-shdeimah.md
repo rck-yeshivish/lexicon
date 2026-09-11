@@ -38,8 +38,8 @@ same thing but a **choice vine**, the best stock, by most readings. *Shdeimah*
 is the disputed one: Rashi makes it a **grain field**, the grammarians a
 **vine**, Rabbi Shlomo Pappenheim simply rich, nourishing **ground**. *Sarig*
 is the **tendril**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists *gefen*,
-*sorek*, and *shdeimah* together as "grapevines", but the sources that treat
-each word separately do not let them collapse. The column itself closes undecided, offering that perhaps
+*sorek*, and *shdeimah* together as "grapevines", but not everybody agrees that
+*shdeimah* refers to a grapevine. Rabbi Klein suggests that perhaps
 all these different explanations of *sorek* are somehow describing the same
 thing.
 
@@ -54,8 +54,7 @@ thing.
 
 ## Where the authorities disagree
 
-**What shdeimah means.** Four views, and the choice changes the meaning of
-Devarim 32:32 outright. **Grain field**: Rashi (to Devarim 32:32, Yeshayahu
+**What shdeimah means.** Four views. **Grain field**: Rashi (to Devarim 32:32, Yeshayahu
 16:8, Chavakuk 3:17), consistently. **Grapevine, a true synonym of gefen**:
 Rabbeinu Bachaya (to Devarim 32:32), who reads the pasuk as deliberate doubled
 verbiage, with Ibn Janach (*Sefer HaShorashim*), Ibn Ezra and Radak (to
@@ -71,12 +70,12 @@ Janach and Radak: the choicest grapevine, and per Ibn Ghiyyat in Radak's name
 one whose grapes have no pits. Rashi: shoots good for planting as trunks in
 their own right (Yeshayahu 5:2), or the vine's especially long tendrils
 (Bereishis 49:11), while at Yirmiyahu 2:21 he seems to follow the choice-vine
-approach, explaining *sorek* as shoots from a good *gefen*. Rabbi Shmuel ben
-Chofni Gaon (998 to 1034, to Bereishis 49:11), whom the column gives as an earlier explanation: the
-*softest* branches of the vineyard, which the column notes is the sense of
-*al-sarik* in Syrian Arabic (possibly the Sirac or Syrac grapes now known as
-Syrah or Shiraz). Ibn Saruk: simply *sarig*, a tendril. The column suggests
-that perhaps all these readings describe one thing from different angles.
+approach, explaining *sorek* as shoots from a good *gefen*. Earlier, Rabbi Shmuel ben
+Chofni Gaon (998 to 1034, to Bereishis 49:11): the
+*softest* branches of the vineyard, which he notes is the sense of
+*al-sarik* in Syrian Arabic; Rabbi Klein adds that the word possibly refers to the Sirac or Syrac grapes now known as
+Syrah or Shiraz. Ibn Saruk: simply *sarig*, a tendril. Rabbi Klein suggests
+that perhaps all these readings are somehow describing the same thing.
 
 **The root of gefen.** The early grammarians (Ibn Saruk, Ibn Janach, Radak)
 hold the triliteral ג-פ-נ; Pappenheim derives it from the biliteral ג-פ,
@@ -85,7 +84,7 @@ body as the outward projection of the person), *mageifah* (a plague spreading
 by contact), and *agaf* (a flank of troops spread like wings; in Modern Hebrew
 a department within a larger body). *Shoresh Yesha*, implicitly invoking the
 gimmel and kaf interchange, relates ג-פ-נ to כ-פ-נ, famine, since wine makes a
-man hungry (Pesachim 107b to 108a). The column further notes that in
+man hungry (Pesachim 107b to 108a). In
 Ugaritic and Canaanite mythological texts the *gefen* is deified as an
 idolatrous god named Gapnu, understood there to be a messenger of Baal.
 
@@ -95,16 +94,14 @@ idolatrous god named Gapnu, understood there to be a messenger of Baal.
 *Gefen* is the default: its cognates appear 55 times in Tanach, against six for
 *shdeimah* (Devarim 32:32; Yeshayahu 37:27, 16:8; Chavakuk 3:17; Yirmiyahu
 31:39; Melachim II 23:4) and three for *sorek* and *sorekah* (Bereishis 49:11,
-Yeshayahu 5:2, Yirmiyahu 2:21), and frequency alone marks it as
-the unmarked term. *Sorek* always carries a quality claim or names a particular
-part of the vine, never simply "a vine". Ibn Saruk also defines *shdeimah* as a
-*sorek*, a fact the column reports with a shrug; it is part of why the three
-look like synonyms in *Ohel Moed*.
+Yeshayahu 5:2, Yirmiyahu 2:21), making it the most common of the three. While
+*gefen* plainly means a grapevine, the meaning of *sorek* is somewhat unclear
+(see the dispute above). Ibn Saruk also defines *shdeimah* as a *sorek*.
 
 ### shdeimah (שדמה)
 See the dispute above. Pappenheim's route to it runs through the biliteral ש-ד,
 whose core sense he gives as abnormality: *shoded* (commandeering), *sheid* (a
-demon, which disrupts the natural order), *shidah* and *shidos* (Koheles 2:8,
+demon, said to disrupt the natural order), *shidah* and *shidos* (Koheles 2:8,
 women who danced as swiftly as *sheidim*), and *shad* (the gland whose
 secreting of nourishment departs from what other body parts do). From that last
 sense he derives *shod* (Yeshayahu 16:4, 60:16) and *leshad* (Tehillim 32:4)
@@ -119,9 +116,10 @@ with ש-ר-ג, entangling (Iyov 40:17, Eichah 1:14). *Srak* in Mishnaic Hebrew i
 a non-fruit-bearing tree (*Kilayim* 6:3 and 6:5, *Shevi'is* 1:3, *Sotah* 8:3,
 *Bava Basra* 2:7, *Bechoros* 4:8). Describing the abundance of the Holy Land in
 Messianic times, Kesubos 111b expounds *sorekah* of Bereishis 49:11, spelled
-with a sin, as though it were *srak* with a samech, so that even trees that
-bear no fruit will yet bear fruit. That reading has seemingly nothing to do
-with grapevines, which is the question the passage raises. Maharsha (Rabbi
+with a sin, as though it were *srak* with a samech; read literally as it appears
+before us, the passage says that even trees that bear no fruit will yet bear
+fruit. That reading has seemingly nothing to do with grapevines, so why is it
+tied to *sorekah*? Maharsha (Rabbi
 Shmuel Eidels, 1555 to 1631): the rabbis expounded the word as though it were
 spelled with a samech, in an allusion to a *srak* tree, and he concedes that
 the plain sense of the pasuk they expound is about grapevines, not other trees.

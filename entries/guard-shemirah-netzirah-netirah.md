@@ -15,11 +15,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Shemirah* is the general word, and it is bounded in time: **guard**, **watch**,
-**keep**, and by extension **wait for** something whose hour has not yet come.
-*Netzirah* is the stronger and the perpetual watch: **safeguard**, **watch over**
-(unceasingly). *Netirah* is holding something in the mind: **harbor** (a grudge),
-**hold on to**. *Lo sitor* (Vayikra 19:18) does not mean "do not guard" but "do
+*Shemirah* is the general word: **guard**, **watch**, **keep**, and by extension
+**wait for** something whose hour has not yet come; for the *Siddur HaRokeach*
+and Rabbi Wertheimer it is bounded in time. *Netzirah* is, for the Vilna Gaon
+and Wertheimer, the stronger watch, and for the Rokeach and Wertheimer the
+perpetual one: **safeguard**, **watch over** (unceasingly). *Netirah*, for
+Malbim, is holding something in the mind: **harbor** (a grudge), **hold on to**. *Lo sitor* (Vayikra 19:18) does not mean "do not guard" but "do
 not keep it stored up inside."
 
 ## Distinctions
@@ -45,9 +46,10 @@ time for reckoning arrives. Eli watched Chanah's lips and *waited* (*shomer*)
 for her to finish (Shmuel I 1:12), and Eliyahu *waited* (*shamar*) for Rabbi
 Yose to finish his tefillah in the ruin (Berachos 3a).
 
-Both the *Siddur HaRokeach* and Rabbi Shlomo Aharon Wertheimer (*Biurei Shemos
-HaNirdafim*) hold that *shemirah* is guarding against a particular threat until
-it passes, not an everlasting guardianship.
+The *Siddur HaRokeach* holds that *shemirah* is temporary guarding against a
+particular threat until it passes, not an everlasting guardianship, and Rabbi
+Shlomo Aharon Wertheimer (*Biurei Shemos HaNirdafim*) likewise holds that it is
+the more temporally limited watch.
 
 ### netzirah (נצירה)
 Root נ-צ-ר, about sixty occurrences; the initial *nun* often drops. The Vilna
@@ -66,9 +68,9 @@ theorizes that *shemirah* implies a passive form of watching over something,
 
 The *Siddur HaRokeach* (on "*chasdecha va'amitcha tamid yitzruni*", Tehillim
 40:12): *netzirah* is watching over something forever, not guarding it from one
-passing danger. He supports this from *netzer*, a shoot (Yeshayahu 11:1, 14:19,
-60:21; Daniel 11:7), which grows only under constant tending. Wertheimer,
-without citing the Rokeach, says the same, and applies it to "*vayishmeru
+passing danger. Indeed *netzer*, a shoot, from the same root (Yeshayahu 11:1,
+14:19, 60:21; Daniel 11:7), can be cultivated only under constant tending. Wertheimer,
+without citing the Rokeach, says the same, and applies it to "*yishmeru
 chukav vesorosav yintzoru*" (Tehillim 105:45): *mitzvos* are kept *ad hoc* as
 each arises, so *shemirah*; Torah study is unceasing (Yehoshua 1:8), so
 *netzirah*. Wertheimer also calls *netzirah* the best kind of watching, from
@@ -76,7 +78,7 @@ each arises, so *shemirah*; Torah study is unceasing (Yehoshua 1:8), so
 
 ### netirah (נטירה)
 Root נ-ט-ר, the rarest of the three: nine occurrences in the Hebrew portions of
-Tanach and one in the Aramaic (Daniel 7:28); its *nun* also drops. Malbim (to
+Tanach and one in the Aramaic (Daniel 7:28); its *nun* also often drops. Malbim (to
 Vayikra 19:18, Tehillim 103:9, Yirmiyahu 3:5, Shir HaShirim 1:6, and in *Sefer
 HaCarmel*) presumes that *netirah* is not physical guarding at all but the
 abstract holding on to a conception in the mind. Hence *lo sitor*, harboring a grievance without
@@ -92,9 +94,9 @@ like a vineyard until the fruit ripens, and the "mother's sons" who divert him
 are his own faculties, the imagination pulling him toward aims that are not his.
 So the object of the *netirah* really is a conception.
 
-Wertheimer does not need the allegory: for him *shemirah* is usually for
-something tangible, *netirah* can extend to something abstract, and *netzirah*
-is the strongest watching of all.
+On Wertheimer's approach, Rabbi Klein notes, the allegory is not needed: for him
+*shemirah* is usually for something tangible, *netirah* can extend to something
+abstract, and *netzirah* is the best watching of all.
 
 ### The Aramaic collapse
 The Targumim render *shemirah*, *netzirah* and *netirah* indiscriminately with
@@ -116,10 +118,11 @@ Shomer, Shimron, Shamir, Shimras, Shimri, Shemiramos, Shmaryahu and Shmaryah
 rabbinic tradition the name of Nevuchadnetzar's wife is related to *shemirah*,
 though there is a dispute as to what it was: Shemirah, Shemirmos or Shemiram
 (*Vayikra Rabbah* 19:6). From *netirah* comes the Geonic name Natronai; beyond
-that the column knows of no Hebrew name from *netirah* or *netzirah*, but adds
-that the surname of Hasan Nasrallah of Hezbollah seems to derive from an Arabic
-cognate of *netzirah*, parsing as *netzirah*, protection, plus *allah*, exactly
-as Shmaryahu and Shmaryah are *shemirah* plus a theophoric Yah or Yahu.
+that Rabbi Klein knows of no Hebrew name from *netirah* or *netzirah*, but he
+adds that the surname of Hasan Nasrallah of Hezbollah seems to derive from an
+Arabic cognate of *netzirah*, parsing as *netzirah*, protection, plus *allah*, a
+construction that parallels Shmaryahu and Shmaryah, *shemirah* plus a
+theophoric Yah or Yahu.
 
 ## Rendering guidance
 

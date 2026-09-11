@@ -23,9 +23,10 @@ is a **sectarian**, wrong about Hashem Himself. *Apikores* is a **scoffer**,
 wrong about prophecy, and in practice one who insults Torah and its scholars.
 *Kofer* is a **denier**, wrong about the Torah, techiyas hameisim or Moshiach.
 *Meshumad* is an **apostate**, one who has left Klal Yisrael for another faith
-or is notorious for deliberate transgression. *Mumar* is the censor's tamer
-replacement for *meshumad*, a **convert-out**. Rambam's point is that each names
-a different denial.
+or is notorious for deliberate transgression. *Mumar* is the tamer word the
+censors sometimes substituted for *meshumad*, a **convert-out**. In colloquial
+speech the terms overlap, but in Rambam's codification each carries a specific
+meaning.
 
 ## Distinctions
 
@@ -35,8 +36,8 @@ the world, one who says there are many, one who says God has a body, one who
 says God did not create everything, one who serves an intermediary. *Avodah
 Zarah* 26b: the *min* transgresses to anger Hashem, the *meshumad* for pleasure.
 
-Etymologies offered, and the column presents them as theories rather than as a
-settled answer. Rabbi Yishaya of Trani associates *min* with the pagan deity Meni
+There are many theories as to how sectarians came to be called *minim*. Rabbi
+Yishaya of Trani associates *min* with the pagan deity Meni
 (Yeshayahu 65:11). Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) argues that Manes,
 also called Mani or Manichaeus, and Apikores were Greek philosophers who rejected
 conventional religion, and their followers came to be called *minim* and
@@ -62,7 +63,7 @@ man's deeds. In his Mishnah commentary he adds the settled usage, anyone who
 denigrates the Torah or those who learn it, matching *Sanhedrin* 99b, which
 defines an *apikores* as one who insults a talmid chacham or insults another in
 his presence. Rambam there connects the word to *hefker*, "ownerless."
-Conventional wisdom, as the column has it, ties the term to the Greek philosopher
+Conventional wisdom ties the term to the Greek philosopher
 Epicurus (341-270 BCE), who taught the hedonistic pursuit of physical pleasure as
 a way of life. Rabbi Eliyahu HaBachur also derives it from a man's name, and adds
 that since the term denotes one who insults talmidei chachamim, it makes sense to
@@ -75,12 +76,11 @@ the Torah, one who denies techiyas hameisim, one who denies the coming of
 Moshiach; and (3:8) splits the first into denying that the Torah is from Hashem,
 denying the Oral Torah's authority to explain the Written, and denying that the
 Torah is unchangeable. The root's Mishnaic sense is legal denial, a litigant
-denying a claim (*Shevuos* 4:1, 4:3-4, 5:1-2, 6:3); in the heresy sense the
-column notes that Hebrew *kofer* parallels its Arabic cognate *kafir*. In
-Biblical Hebrew the same root yields a whole family, words for redemption,
-atonement, covering, pitch, village and lion, and how they connect the column
-leaves aside. The bridge to heresy seems to be covering over: one who denies
-covers up the facts by insisting on the truth of something other than the truth.
+denying a claim (*Shevuos* 4:1, 4:3-4, 5:1-2, 6:3); in the heresy sense Hebrew
+*kofer* parallels its Arabic cognate *kafir*. In Biblical Hebrew the same root
+yields a whole family, words for redemption, atonement, covering, pitch, village
+and lion. The bridge to heresy seems to be covering over: one who denies might
+cover up the facts by insisting on the truth of something other than the truth.
 
 ### meshumad (משומד)
 Rambam (*Hilchos Teshuvah* 3:9): one notorious for deliberately transgressing
@@ -104,10 +104,11 @@ happen in times of *shmad*; Rabbi Yair Chaim Bachrach (*Mekor Chaim* to *Orach
 Chaim* 118), because the apostate has been cut off and destroyed by detaching
 himself from the nation; Rabbi Shmuel David Luzzatto (to Shemos 12:43), one who
 converted under a decree of *shmad* and kept practicing once the coercion lifted.
-The column adds that Rabbi Ernest Klein's etymological dictionary of Hebrew cites
-the German Bible scholar and philologist Friedrich Delitzsch, who argued that
-Hebrew *shmad* is a metathesized form of the Akkadian *mashadu*, "striking," with
-the mem and shin trading places, a sense not far from the biblical root.
+Rabbi Ernest Klein's etymological dictionary of Hebrew cites the German Bible
+scholar and philologist Friedrich Delitzsch, who argued that Hebrew *shmad* is a
+metathesized form of the Akkadian *mashadu*, "striking," with the mem and shin
+trading places. The Akkadian sense does not seem too far from that of the
+biblical root.
 
 Second, Ramban (to Shemos 12:43) derives it from מ-ד-ע, the root Targum Onkelos
 uses for Yosef recognizing his brothers (Bereishis 42:8): the root can seemingly
@@ -140,11 +141,11 @@ covers any apostate, which is why Chazal (*Sanhedrin* 60a) call Rabshakeh one,
 though he obviously predated Christianity.
 
 ### mumar (מומר)
-Root מ-ו-ר, to switch. Introduced because Christian censors found *meshumad* too
-offensive; switching religions sounds milder than being destroyed. Rabbi Shmuel
+Root מ-ו-ר, to switch. Christian censors sometimes found *meshumad* too
+offensive, and it was switched out for the tamer *mumar*; switching religions
+sounds milder than being destroyed. Rabbi Shmuel
 David Luzzatto: *mumar* is one who changed religion willingly, against the
-coerced-then-persisting *meshumad*. Chasam Sofer (*Kovetz Teshuvos* 79) inverts
-the severity: *mumar* is anyone who traded the eternal Torah for something
+coerced-then-persisting *meshumad*. Chasam Sofer (*Kovetz Teshuvos* 79): *mumar* is anyone who traded the eternal Torah for something
 passing, even in one mitzvah, while *meshumad* is reserved for one who rejects
 the whole Torah; he adds that the printers blurred the two in practice.
 

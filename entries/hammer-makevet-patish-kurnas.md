@@ -35,9 +35,10 @@ updated: 2026-09-10
 
 *Makeves* is the heavy hammer, **mallet** or **sledgehammer**, the tool Yael used
 (Shoftim 4:21); *halmus* is the poetic word for the very same tool (Shoftim
-5:26). *Patish* is the plain **hammer**, in the Gemara
+5:26). *Patish* is the plain **hammer**, for Rashi (to Shabbos 21b)
 the blacksmith's; *kurnas*, Mishnaic only, is the **smith's hammer**. The sources
-grade their sizes against each other and contradict each other doing it.
+grade their sizes against each other, and HaBachur and the *Aruch* disagree over
+whether *kurnas* is a big or a small *makeves*.
 
 ## At a glance
 
@@ -55,8 +56,8 @@ big *makeves*. Rabbi Nosson of Rome (*Sefer HeAruch*): *kurnas* is a small
 *makeves* and a big *patish*. Rashi (to Shabbos 21b): *patish* is a big *kurnas*,
 the blacksmith's, though elsewhere (Shabbos 73a, Moed Katan 11a) he simply
 equates the two. Radak:
-*patish* is a big *makeves*. Rabbi Yitzchak Avineri reverses the axis: *makeves*
-is a *patish* with one sharp head. Nothing reconciles them.
+*patish* is a big *makeves*. Rabbi Yitzchak Avineri similarly writes that
+*makeves* is a type of *patish* with one sharp head.
 
 **Where *makeves* comes from.** Ibn Janach, Ibn Parchon, and Radak file it under
 נ-ק-ב, "to bore," Ibn Parchon explaining that the *dagesh* in the *mem* stands for
@@ -67,8 +68,7 @@ biliteral ק-ב, "making a hole," which also gives *nekev* (hole), *nekeivah*
 wine-pit), *kubah* (a chamber of hewn stone), *keivah* (the stomach, with a hole
 at each end) and *nokev* (stating something explicitly, or cursing, as boring an
 opening into what ambiguity had closed). Menachem Ibn Saruk (*Machberes
-Menachem*) ignores the word altogether and lists it under no root. Either way it
-is the tool that drives into a hole.
+Menachem*) ignores the word altogether and lists it under no root.
 
 **What *makavan* means** (Bechoros 7:1, a blemish disqualifying a kohen). Bechoros
 43b says he is hammer-headed; the Mainz Commentary ascribed to Rabbeinu Gershom
@@ -91,7 +91,6 @@ being Old French for hammer. Rabbi Hartom also floats two further readings: that
 the nickname was given at birth because Yehudah's head was shaped like a hammer
 (compare *makavan* above), and that Maccabee is a shortened *makav-yahu*, from
 *nakav* in the sense of marking or designating, "the one designated by Hashem."
-The spelling follows the derivation.
 
 ## Distinctions
 
@@ -127,12 +126,12 @@ etymological dictionary of Hebrew, derives it from the Greek *koryne*, bat or
 baton or club or mace, apparently related to *korys* (helmet), *korymbos*
 (zenith, cluster of flowers) and *koryphe* (head, summit). Dr. Alexander Kohut
 (*Aruch Completum*), on the other hand, contends that *kurnas* is a native
-Aramaic and Syriac word. The column adds a proposal of its own, offered as no
-more than that: a possible link between *kurnas* and the name of the Greek
-deity Cronus, on phonetic similarity and shared consonants, some scholars having
-traced Cronus to a Proto-Indo-European root meaning "to cut"; it concedes it
-knows of no evidence that Cronus was ever depicted with a hammer, and says only
-that the convergence warrants further exploration.
+Aramaic and Syriac word. Rabbi Reuven Chaim Klein proposes a possible link
+between *kurnas* and the name of the Greek deity Cronus, on phonetic similarity
+and shared consonants, some scholars having traced Cronus to a Proto-Indo-European
+root meaning "to cut"; he concedes he knows of no evidence that Cronus was ever
+depicted with a hammer, and says only that the convergence warrants further
+exploration.
 
 ### halmus (הלמות)
 Once, in Devorah's song: "her hand to the peg, her right hand to the *halmus* of
@@ -143,15 +142,15 @@ rendering both *arzafta* (Shoftim 4:21 and 5:26). *Arzafta* or *marzafta* is the
 Talmudic Aramaic word (Berachos 34a, Megillah 25a, Gittin 56b), which Rashi
 defines as *kurnas* (to Berachos 34a, Gittin 56b, Bava Basra 20a), bringing the
 cluster full circle; see also Targum Yonasan to Yeshayahu 41:7, rendering *holem*
-as *kurnas*, and Targum to Tehillim 73:10. The column notes an Arabic cognate,
+as *kurnas*, and Targum to Tehillim 73:10. There is also an Arabic cognate,
 *marzaba*, sledgehammer. The root ה-ל-ם (so Ibn Saruk, Ibn Janach and Radak)
 also gives the verb "to break"; Rabbi Shlomo Pappenheim (*Yerios Shlomo*,
 *Cheshek Shlomo*) reduces it to the biliteral ה-ל, "spreading out," as in *yahel*
 (light diffusing), *yahalom*, *mahul* (a thick liquid diluted through a thinner
 one), *hallel* and *tehillah*, *halah* and *halom*, and *ohel* (a tent spread
 over its pegs), so *halmah* is smashing that scatters the pieces; Pappenheim does
-not say so explicitly, but the column adds that *halmus* is then the instrument
-that brings that about. Rabbi Moshe Tedeschi-Ashkenazi instead reads ח-ל-ם or
+not say so explicitly, but Rabbi Reuven Chaim Klein adds that *halmus* is then
+the instrument that brings that about. Rabbi Moshe Tedeschi-Ashkenazi instead reads ח-ל-ם or
 א-ל-ם, "healthy, strong, powerful," a hammer so big that even a strong man is
 left tired out by a blow with it.
 

@@ -34,7 +34,7 @@ whatever work the household needs. *Amah* is a **maidservant** or **handmaid** i
 the higher sense: a nursemaid to her master's children (Bedersi) or a housekeeper
 over the domestic work rather than under it (Rabbi Shlomo Pappenheim). *Eved* is
 the one word for both the Jewish and the non-Jewish male **slave**. The shorthand
-that *shifchah* means a non-Jewish woman and *amah* a Jewish one may well hold
+that *shifchah* means a non-Jewish woman and *amah* a Jewish one might hold
 in Rabbinic usage, but it gives only a partial picture of Tanach, where both
 words cross the line.
 
@@ -54,8 +54,8 @@ words cross the line.
    "mother," a maid who takes on motherly duties and nurses her master's
    children. He adduces it from Hagar, who is called *shifchah* throughout
    Bereishis 16, and *amah* from the birth of Yishmael onward (Bereishis 21, but
-   see 25:12). The column likens the role to the English "nanny," engaged to help
-   raise her employer's children as though she were their mother.
+   see 25:12). This understanding of *amah* is comparable to the English "nanny,"
+   engaged to help raise her employer's children as though she were their mother.
 2. **Housekeeper.** Rabbi Shlomo Pappenheim (*Cheshek Shlomo*), also from *eim*:
    a *shifchah* is put to menial work, an *amah* is more dignified and sees only
    to the ordinary running of the house. He derives the other senses from this
@@ -64,10 +64,6 @@ words cross the line.
 3. **From aimah, fear.** Rabbi Eliezer Reines (*Maftechos HaDamesek*): the
    Jewish handmaid is called *amah* because she is not yet mistress of the
    house, and the fear (*aimah*) of the real mistress is upon her.
-
-Bedersi and Pappenheim agree that
-*amah* is the higher station and differ only on which duties define it; Hagar's
-usage is Bedersi's own proof. Reines is the outlier, on a different root.
 
 **The root of shifchah.** Rabbi Yaakov Tzvi Mecklenburg: the root, which he
 writes with a shin, sin or samech before peh and ches, denotes connection or

@@ -19,14 +19,12 @@ updated: 2026-09-10
 ## Bottom line
 
 *Saar* (Aramaic *saara*) is the plain word for hair, whether one strand or the
-whole growth: **hair**. How the three Aramaic words divide the field is not
-settled by any earlier source; the column reports finding no theory and offers
-its own suggestion: *mazia* is a patch of
+whole growth: **hair**. Rabbi Klein found no earlier theory of how the Aramaic
+words divide the field, and offers his own suggestion: *mazia* is a patch of
 hair, **hair** or **a head of hair**; *binta* is one single strand, **a hair**;
 *nimah* is a hair that protrudes or is unwanted, and outside the hair sense it
-is a **string** or **thread**. Two of them stand side by side in
-the same Gemara, where the point is precisely that a *binta* came loose from the
-*mazia*.
+is a **string** or **thread**. *Binta* and *mazia* stand side by side in Yoma
+69b and Bava Metzia 84b, where a single *binta* comes loose from the *mazia*.
 
 ## Distinctions
 
@@ -36,19 +34,19 @@ collectively (Vayikra 14:9). Some *medakdekim* separate the two forms, *se'ar*
 for a patch of hair and *se'arah* for one strand (see Tosafos Yom Tov to Negaim
 4:1 and Niddah 3:2). Rabbi Dr. Jared Greenblatt theorizes that Hebrew and
 Aramaic *saar(a)* appear to be cognate with the words for barley, *se'orah*,
-barley being possibly called "hairy" because its awns are longer than wheat's,
-and notes the Mishnah's use of *se'ar* for the fibers protruding from produce
-(Shabbos 21:3, Kilayim 3:5); he adds that both sets of words may be related to
-*sa'ir*, a goat, as *ma'azia* is. Rabbi Eliyahu HaBachur (*Meturgeman*): apart
-from three places the Targumim do not really translate *sa'ar* at all, but
-simply Aramaicize it into *saara*.
+barley being possibly called "hairy" because its awns are longer than wheat's;
+the Mishnah indeed uses *se'ar* for the fibers protruding from produce (Shabbos
+21:3, Kilayim 3:5). Greenblatt adds that both sets of words may be related to
+*sa'ir*, a goat, as *ma'azia* is. Apart from the three places where the Targum
+uses *binta* (Rabbi Eliyahu HaBachur, *Meturgeman*, counts only those three),
+the Targumim do not really translate *sa'ar* at all, but simply Aramaicize it
+into *saara*.
 
 ### mazia (מזיא)
-The word the Gemara uses for the hair of the head. Its etymology is disputed.
-Rabbi Dr. Jared Greenblatt argues that it is related to the Syriac and Aramaic
+Its etymology is disputed. Rabbi Dr. Jared Greenblatt argues that it is related to the Syriac and Aramaic
 *ma'azia*, goat hair (Targum Onkelos to Shemos 25:4, 26:7, 35:6), plainly a
-cognate of *eiz*, and that in later permutations the *zayin* doubled and the
-*ayin* dropped away, giving *mazia*. Rabbi Dr. Alexander Kohut contends the
+cognate of *eiz*, and that in later permutations the *zayin* doubled, giving *mazia*, as if the
+*ayin* had dropped. Rabbi Dr. Alexander Kohut contends the
 opposite, that *mazia* is unrelated to *ma'azia* and derives instead from Old
 Persian, noting its relation to the Old Persian word for the hair of the
 eyebrows. Either way, Rashi (to Devarim 32:24) identifies the *mezei* of *mezei
@@ -75,12 +73,12 @@ Targum. Kohut explains the medicinal leech called a *bini* of the water (Gittin
 hair, and notes that elsewhere the same leech is called a *nimah* of the waters
 (Avodah Zarah 12b).
 
-Where the two words meet, the sense is unmistakable. When the *chachamim*
+The two words appear side by side twice. When the *chachamim*
 captured the fiery lion of the *yetzer* for *avodah zarah*, a single strand
 (*binta*) slipped from its hair (*mazia*), a sign that the fight is not finished
 (Yoma 69b); and the body of Rabbi Elazar beRabbi Shimon, preserved in the attic,
 would bleed if one strand (*binta*) came loose from his hair (*mazia*) (Bava
-Metzia 84b). Rabbi Avraham Meir Israel (*Yalkut HaMeiri*) hears the same word in
+Metzia 84b). Rabbi Avraham Meir Israel (*Yalkut HaMeiri*) hears a hint of the same word in
 the pasuk Chazal applied to the wife of On ben Pelet, "*chachmos nashim bansah
 beisah*" (Mishlei 14:1): *bansah*, she built, sounds like *binta*, hair.
 
@@ -92,13 +90,13 @@ Gittin 6b). But it seems the hair sense is only secondary and borrowed. Elsewher
 is a string or cord: the strings of an instrument (Targum to Tehillim 6:1,
 Tosefta Erchin 2:7, Eruvin 102b), a bowstring (Targum to Tehillim 11:2 and Iyov
 30:11), threads for sewing (Shabbos 64a, 74b), threads sticking out of a garment
-(Menachos 42b, Sukkah 9a), and by extension a kernel (Shabbos 79a). The column
-notes that several philologists and linguists derive the Aramaic *nimah* from
-the Ancient Greek *nema*, thread.
+(Menachos 42b, Sukkah 9a), and by extension a kernel (Shabbos 79a). Several
+philologists and linguists derive the Aramaic *nimah* from the Ancient Greek
+*nema*, thread.
 
 ### The proposal that ties them together
-No earlier source is offered for why Aramaic needs four words. Rabbi Reuven
-Chaim Klein's own suggestion: *mazia* is a patch or mass of hair, *binta* is a
+Rabbi Reuven Chaim Klein has found no theory of why Talmudic Aramaic would have
+four words that all mean hair. His own suggestion: *mazia* is a patch of hair, *binta* is a
 single strand, *nimah* is hair that sticks out or is otherwise unwanted, and
 *saara* is simply the Hebrew word taken over into Aramaic in its general sense.
 
