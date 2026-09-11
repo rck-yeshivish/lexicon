@@ -18,9 +18,10 @@ updated: 2026-09-10
 *Afar* is **dirt** or **soil**, the general word, and the one that can grow
 things. *Eifer* is **ashes**, what fire leaves, and it grows nothing. *Avak* is
 **dust**, fine powder produced by pulverizing rather than by burning. *Deshen* is
-a narrower word for ashes, tied to fat and to the Mikdash. The difference
-between *afar* and *eifer* is fertility, not fineness, which is
-why the Torah calls the ashes of the Parah Adumah *afar* and not *eifer*.
+a narrower word for ashes, tied by Rabbi Pappenheim to fat and by Rabbi Yehuda
+Leib Shapira-Frankfurter to the Mikdash. The difference between *afar* and
+*eifer* is fertility, which is what makes it significant that the Torah calls
+the ashes of the Parah Adumah *afar* and not *eifer*.
 
 ## Distinctions
 
@@ -35,19 +36,20 @@ Hillel, which treats *afar* as the general term. *Shabbos* 18a and Rashi to
 interchangeable in some contexts.
 
 The Zohar (*Vayishlach* 170a) sets the real line: *afar* is the crucible from
-which growth comes, while what fire or grinding leaves behind grows nothing. The
+which growth comes, while *eifer* and *avak*, what fire leaves behind, grow
+nothing. The
 Zohar's own formulation treats *eifer* and *avak* as though they were perfect
-synonyms for burnt remnants; the column notes that this is a bit of an
+synonyms for burnt remnants; Rabbi Klein notes that this is a bit of an
 oversimplification, since although both are formed by a violent destructive
 process they are not the same thing, *eifer* being produced by burning and *avak*
 by pulverizing.
 Rabbi Moshe Shapiro draws the lesson of Bamidbar 19:17, where the Torah calls the
 ashes of the Parah Adumah *afar*: what looks like the residue of destruction can
-become the seed of renewal, which is exactly the point for one purified from
+sometimes become the seed of renewal, which is exactly the point for one purified from
 tumas meis.
 
-On the root, Rabbi Pappenheim will not attach *afar* to the biliteral פ-ר,
-because in his system a two-letter root joins only HEY, ALEPH, MEM, NUN, TAV,
+On the root, in Rabbi Pappenheim's system *afar* cannot be related to the
+biliteral פ-ר, because for him a two-letter root joins only HEY, ALEPH, MEM, NUN, TAV,
 YOD or VAV to become triliteral, and *afar* opens with an AYIN. Others who work
 with two-letter roots do connect them: Rabbi Yaakov Tzvi Mecklenburg, since
 *afar* is indispensable to growing *pri*; and Rabbi Aharon Marcus (*Barzilai*),
@@ -78,8 +80,8 @@ Fine dust, produced by pulverizing. Rabbi Pappenheim: *afar* is run-of-the-mill
 dirt, *avak* is finer powder. Rabbi Moshe Shapiro: *avak* is matter rubbed down
 to its core particles, light enough to be carried on the wind, and it is always
 the product of a struggle; the *avak* of Yaakov's wrestling with the angel rose
-to the Kisei HaKavod (*Chullin* 91a). Chazal's *avak* compounds work off exactly
-this sense of brushing the edge of a prohibition without crossing it: *avak
+to the Kisei HaKavod (*Chullin* 91a). Chazal's *avak* compounds work in this
+spirit, brushing the edge of a prohibition without technically crossing it: *avak
 lashon hara* (*Bava Basra* 165a), *avak ribbis* (*Temurah* 6b), *avak sheviis*
 (*Succah* 40b), *avak avodah zarah* (*Tosefta Avodah Zarah* 1:3). Rabbi Yehuda
 Leib Edel proposes that since ALEPH and CHES are sometimes interchangeable,

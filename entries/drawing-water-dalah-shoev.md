@@ -40,15 +40,15 @@ updated: 2026-09-10
 
 Both verbs mean **draw water**, and the difference is effort. *Dalah* is
 drawing from a deep well, lowering the pail and hauling it up: **draw up** or
-**draw out** (Malbim). *Shoev* is drawing where the water is already at hand,
-from a spring or surface pool: plain **draw**.
+**draw out** (Malbim). *Shoev* is drawing without effort, most commonly where
+the water is already at hand, from a spring or surface pool: plain **draw**.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | דלה | dalah | draw up, draw out | deep well; requires lowering and lifting (Malbim); one root with "lift up" (Radak) |
-| שאב | shoev | draw | spring or surface water; effortless (Malbim); ש-ב, water brought to rest (Rabbi Shlomo Pappenheim) |
+| שאב | shoev | draw | effortless, most commonly from spring or surface water (Malbim); ש-ב, water brought to rest (Rabbi Shlomo Pappenheim) |
 | דלי | dli | pail, bucket | the tool that does the lifting (Radak) |
 | דליות | daliyot | topmost branches | as if lifted to the top of the tree (Radak); they draw water upward (Rabbi Shlomo Pappenheim) |
 | דל | dal | poor | emptied of fortune as a well is emptied of water (Rabbi Shlomo Pappenheim) |
@@ -56,13 +56,14 @@ from a spring or surface pool: plain **draw**.
 ## Where the authorities disagree
 
 **How many roots.** The triliteralists (Ibn Chayyuj, Ibn Janach, Radak) trace
-*dalah* to ד-ל-ה and treat "draw water" and "lift up" as one meaning, since
-drawing water simply is lifting it; *dal* they assign to a separate root,
+*dalah* to ד-ל-ה and treat "draw water" and "lift up" as one meaning (the link,
+Rabbi Klein observes, is intuitive: to draw water from a well one must lift it
+up); *dal* they assign to a separate root,
 ד-ל-ל. Menachem Ibn Saruk works from the biliteral ד-ל and files three separate
 derivatives under it: *dalah* (draw water), *dalah* (lift up), and *dal* (poor).
 He leaves *daliyot* unaccounted for. Rabbi Shlomo Pappenheim keeps the
 biliteral ד-ל but makes "draw water from a well" the primary sense and
-everything else borrowed from it, and he does bring *daliyot* and the Rabbinic
+"lifting up" anything a borrowed sense of it, and he does bring *daliyot* and the Rabbinic
 *dildul* (dangling) under it.
 
 **Whether dal belongs here at all.** Rabbi Moshe Tedeschi Ashkenazi (*Hoil
@@ -70,18 +71,16 @@ Moshe*) implicitly disagrees with Menachem's classing *dal* under ד-ל, holding
 instead that *dal* derives from *zol*, "cheap," by the well-established
 interchange of *zayin* and *dalet*.
 
-**What the core sense is.** The column also reports Wilhelm Gesenius, saying his
-contribution bears mention because it makes sense: that the core meaning of ד-ל
-is "hanging, swinging." On that reading *delet* is the leaf of a door, the
+**What the core sense is.** Wilhelm Gesenius argues that the core meaning of
+ד-ל is "hanging, swinging," a contribution Rabbi Klein thinks bears mention
+because it makes sense. On that reading *delet* is the leaf of a door, the
 flapping apparatus that opens and closes a doorway; *daliyot* are branches that
 hang off a tree loosely enough to move, as is *dildul*; a *dal* is a feeble man
 whose wealth is not well grounded but figuratively hangs and may swing from one
 situation to another; and *dalah* fits because drawing water from a well
 typically means hanging a *d'li* on a rope and lowering it in.
 
-Shadal (to Bereishis 24:13) explains the practical difference as Malbim does;
-the root debates change the etymology, not
-the difference between the two verbs.
+Shadal (to Bereishis 24:13) offers an explanation similar to Malbim's.
 
 ## Distinctions
 
@@ -96,25 +95,24 @@ eight times in Tanach (Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7,
 the same family: the door gathers everyone in the house into one place, as the
 *d'li* gathers water into one vessel.
 
-Two asides the column raises around *dal* and the name Dalia. On *dal*, he
-suggests that perhaps Menachem too would allow a thematic tie between his three
+On *dal*, Rabbi Klein suggests that perhaps Menachem too would allow a thematic tie between his three
 derivatives: *dal* may relate to "lifting up" as its polar opposite, the pauper
 having been brought as low as possible, in the manner of a word carrying a thing
 and its opposite; or, more hopefully, *dal* may name one who has hit bottom, so
 that the only thing that can come next is being lifted up. On the name: the
 singular *dalia* never appears in Tanach but is likely the basis of the feminine
-name Dalia, which the column notes may also owe something to Arabic, Dalia being
+name Dalia, which may also owe something to Arabic, Dalia being
 an Arabic name as well. Some authorities hold one should avoid the name because
-of its association with the negative *dal*, though on the readings just given
-that negative sense is not so clear-cut. Rabbi Chaim Kanievsky asserts that
+of its association with the negative *dal*, though on the readings Rabbi Klein has just
+given that negative sense might not be so clear-cut. Rabbi Chaim Kanievsky asserts that
 Dalia is not a traditional name among Ashkenazim and does not recommend giving
 it unless one's family already has a specific custom to use it.
 
-The column adds a thought of his own about the mirror root ל-ד, "birth," which
+Rabbi Klein adds a thought of his own about the mirror root ל-ד, "birth," which
 gives *yalad*, *toldos*, *valad* and *yeled*: ל-ד and ד-ל look to him like exact
 opposites, since drawing water applies an outside force pulling the water out of
-where it was, while birth is an inside force pushing the child out, and the
-contrast shows in the order of the consonants themselves.
+where it was, while birth is an inside force pushing the child out, and to him
+the contrast is reflected in the order of the consonants themselves.
 
 ### shoev (שאב)
 Root ש-א-ב, on which Menachem, Ibn Janach and Radak agree; it appears nineteen
@@ -131,8 +129,9 @@ Bereishis 24:13) explains similarly. Rabbi Shlomo Pappenheim treats the
 aleph as non-radical and reaches the biliteral ש-ב, "return," the root of
 *hashavah* (returning a lost object), *lehashiv* (to answer), *yeshivah*
 (dwelling), and *Shabbos* (returning to rest). On his reading, *shoev* is
-bringing moving water to a halt in a vessel, which fits a spring, whose waters
-were flowing until then, better than a well, whose waters were already still.
+bringing moving water to a halt in a vessel. Rabbi Klein notes that this sense
+is best illustrated at a spring, whose waters were flowing until then, as
+against a well, whose waters might have been still even before they were drawn.
 
 ## Rendering guidance
 

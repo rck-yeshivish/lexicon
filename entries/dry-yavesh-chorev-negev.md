@@ -26,7 +26,7 @@ updated: 2026-09-10
 remains underneath. *Yavesh* is **dry** outright, drained through and through.
 The order is fixed: wherever the two stand together, *charev* comes first and
 *yavesh* second (Malbim). *Negev* is **arid** or **parched**, closer to *charev* than to
-*yavesh*, and in Tanach it usually means "south" rather than "dry" at all.
+*yavesh* (Rabbi Yaakov Zev Lev), and in Tanach it usually means "south" rather than "dry" at all.
 
 ## Distinctions
 
@@ -36,23 +36,23 @@ among them "sword," "destruction, desolation," and "dry." The Vilna Gaon (to Yes
 but some is left; *yavesh* means totally dry. His raya is the drying of the
 world after the Mabul, where the two words mark two stages: *charvu hamayim*
 and *charvu penei ha'adamah* on the first of the first month, then *yavshah
-ha'aretz* on the twenty-seventh of the second (Bereishis 8:13-14). Rashi there
-already has it: at *charvu* the ground was "like mud whose upper surface crusted
+ha'aretz* on the twenty-seventh of the second (Bereishis 8:13-14). The reading can
+already be gleaned from Rashi there: at *charvu* the ground was "like mud whose upper surface crusted
 over," at *yavshah* it was dry land as it ought to be. *Sefer HaChochmah*
 (ascribed to Rabbi Elazar Rokeach of Worms) writes that in general *yabashah* is
 a place truly dry, while *chareivah* is a muddy place still dripping with
 moisture.
 
-The Malbim reaches the same reading and adds the ordering proof: in every pasuk
+The Malbim offers a similar explanation and adds the ordering proof: in every pasuk
 where the two appear side by side, *charev* precedes *yavesh* (Yeshayahu 19:5,
-Iyov 14:11), which shows *yavesh* to be the more intense.
+Iyov 14:11), which to him implies that *yavesh* is the more intense.
 
 Rabbi Shlomo Aharon Wertheimer applies it to a halachic difficulty: the Torah
 distinguishes a minchah mixed with oil from one that is *chareivah* (Vayikra
 7:10), yet no minchah is bone dry. On this reading *chareivah* means only
 "oil-free," drier than its neighbor but not absolutely dry, and the Torah's
-choice of *chareivah* over *yeveishah* says exactly that. Against this, the
-column enters a caution of its own: Rabbi Tanchum HaYerushalmi's lexicon of
+choice of *chareivah* over *yeveishah* says exactly that. Against this, Rabbi
+Klein enters a caution of his own: Rabbi Tanchum HaYerushalmi's lexicon of
 rabbinic Hebrew equates *chareivah* in Mishlei 17:1 with *yavesh*, which leaves
 open the possibility that the two terms are indeed synonymous.
 
@@ -67,19 +67,19 @@ still saturated. Rabbi Yaakov Tzvi Mecklenburg, commenting on Shemos 14:21-22,
 where the sea is first made *charavah* by the east wind and Bnei Yisrael then
 come into it *bayabashah*, quotes Pappenheim's second explanation and adds
 nothing of his own. The reading that the seabed dried in stages, firm on the
-surface first and only afterward dry within, is the column's inference about
+surface first and only afterward dry within, is Rabbi Klein's inference about
 what Mecklenburg intends, not something Mecklenburg says.
 
 On the root: *Shoresh Yesha* takes ח-ר-ב at core as destruction, the opposite of
 living and thriving, which yields both *cherev* (the instrument of destruction)
 and dryness (what withers for lack of juice); Pappenheim says something similar.
 Rabbi Avraham Maimuni (to Bereishis 31:40) seems to read *chorev* as dryness
-caused by heat, which fits Radak in *Sefer HaShorashim* on ח-ר-ה, where heat is the core
-and anger the result. On that footing the column offers two speculations of its
-own, both flagged as such. First, that ח-ר-ב may somehow be an offshoot of
+caused by heat, and Radak in *Sefer HaShorashim* holds that heat is the core of
+ח-ר-ה and anger the result. Rabbi Klein offers two speculations of his own, both
+flagged as such. First, on that footing, that ח-ר-ב may somehow be an offshoot of
 ח-ר-(ה), the "destruction" sense alluding to the eventual consequence of
-uncontrolled anger and the "sword" being the tool of that destruction; the
-column names the downside itself, that most grammarians and lexicographers agree
+uncontrolled anger and the "sword" being the tool of that destruction; he
+names the downside himself, that most grammarians and lexicographers agree
 a *beis* cannot serve as a radical added to a biliteral root. Second, that
 ח-ר-ב may be a portmanteau of ח-ר, hole, as in *chor*, and ר-ב, many, as in
 *rav*, *harbeh*, *rabbim*: as a thing dries it has less moisture holding it
@@ -90,7 +90,7 @@ much more open to destruction, whence also "destruction" and "sword."
 Pappenheim: the root is ב-ש, delay or withholding, as in *boshesh Moshe laredes*
 (Shemos 32:1), Moshe's return withheld from the people, and as in *bushah*, where
 a man withholds his face from the public. *Yavesh* is accordingly the withholding
-of the flourishing a thing should have shown; in plants that comes of dryness,
+of the flourishing a thing should have shown; in plants that often comes of dryness,
 and from there the word covers anything drained of its life-giving liquid. So
 Yeravam's hand at the mizbeach in Beis El, *vativash yado* (Melachim I 13:4),
 shriveling rather than literally drying.
@@ -123,14 +123,14 @@ dryness of *charev*.
 
 Why *negev* is also "south": Rabbi Yehuda Leib Shapira-Frankfurter holds that in
 Hebrew it means only "south" and that the region called the Negev (Bereishis
-12:9) is named for the direction, dryness being an Aramaic sense alone; the
-column notes that he says this explicitly and adds that he is probably basing
-himself on Ibn Ezra there. The column itself calls it most plausible that the
+12:9) is named for the direction, dryness being an Aramaic sense alone; he says this
+explicitly, probably basing himself on Ibn Ezra there. Rabbi Klein calls it most
+plausible that the
 core meaning is indeed "dry," the arid southern region being named for that.
-Various explanations are then given for why *negev* also means the direction,
+Various explanations are given for why *negev* also means the direction,
 most of them assuming the south always gets more light and heat from the sun
 (Ibn Ezra to Bereishis 12:9; *Peirush HaRokeach* there; Rav Hirsch there), but
-the column thinks the most reasonable is that once the southern part of Eretz
+Rabbi Klein thinks the most reasonable is that once the southern part of Eretz
 Yisrael was called the Negev on account of its dryness, the word was borrowed
 for the southern direction everywhere.
 

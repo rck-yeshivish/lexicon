@@ -15,14 +15,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both mean **hyperbole**, and Chazal use them interchangeably in the same sugya
+Both mean **hyperbole**, and Chazal ostensibly use them interchangeably in the same sugya
 (Tamid 29a; Chullin 90b); Rabbi Eliyahu HaBachur says outright that they mean the
 same thing. *Divrei havai* are **words of hyperbole** or **a manner of
-speech**, and a *guzma* is **an overstatement**. Neither word means a
-falsehood. Rabbi Yaakov Emden: a statement called a
+speech**, and a *guzma* is **an overstatement**. Rabbi Yaakov Emden: a statement called a
 *guzma* is literally true, and it is only its plain implication that overshoots.
-Rabbi Menachem Azariah of Fano: *havai* marks something that must be taken
-seriously, though not literally.
+Rabbi Menachem Azariah of Fano: *havai* marks something to be taken
+seriously, though not necessarily literally.
 
 ## Distinctions
 
@@ -34,7 +33,7 @@ reaching the heavens: in Rabbi Ami's words, the Torah speaks in *divrei havai*.
 Rabbi Ami adds that the nevi'im, and even the rabbis, are also wont to speak in
 hyperbolic exaggerations. The same passage uses both *havai* and *guzma* for
 this, apparently interchangeably, so that they seem to be synonyms; their
-etymologies, as the column shows, are another matter.
+etymologies are another matter.
 
 ### havai (הבאי / הואי)
 The older of the two; it is already in the Mishnah, where *guzma* is not.
@@ -43,13 +42,13 @@ strength of having seen on this road as many people as left Mitzrayim, or a
 snake as long as the beam of an olive press, has not undertaken a vow at all,
 because he meant only to stress how many and how long, not to bind himself to
 the literal figure. Rashi (to Chullin 90b) glosses *divrei havai* as the way
-plain people speak, coarse and overstated; they are not setting out to lie, but
+plain people often speak, coarse and overstated; they are not setting out to lie, but
 they are not careful to say exactly what is so. The word has two spellings and a
 derivation for each:
 
 - Spelled with a *vav*, it looks like the verb "to be," so *havai* is what
   simply *is*: this is how people talk, and no more should be read into it.
-- Spelled with a *beis*, it goes back to the biliteral ה-ב. Rabbi Aryeh Leib
+- Spelled with a *beis*, it seems to go back to the biliteral ה-ב. Rabbi Aryeh Leib
   Feinstein of Brisk gives that root's core as raising the voice (Mishlei 30:15),
   and hyperbole is a figurative raising of the voice to be heard; Rabbi Shlomo
   Pappenheim reads ה-ב as calling others to make something ready, though he does
@@ -58,17 +57,18 @@ derivation for each:
   thorn (Targum to Yeshayahu 7:25, 32:13; Iyov 30:4): just as thorns count for
   nothing against the rest of the plant, so *divrei havai* count for nothing, and
   as untrue, beside other rhetorical devices. Rabbeinu Nissim (to Nedarim 20b)
-  cites this first, on *nidrei havai*. The column notes that it bears some
+  cites this first, on *nidrei havai*. It bears some
   thematic resemblance to Dr. Alexander Kohut's comparison of *havai* to a
   similar Persian word meaning breath, air, nothingness, futility.
 - Rabbeinu Tam and Rabbi Eliezer of Metz are quoted as relating *havai* to the
   Biblical *habaim*, engaging in stupidities (Targum to Yechezkel 20:29),
-  presumably, the column adds, because a hyperbole that does not fully answer to
+  presumably because a hyperbole that does not fully answer to
   the reality it purports to describe is nothing but so much foolishness (see
   also *Tosafos Yeshanim* to Nedarim 20b).
-- Rabbi Menachem Azariah of Fano refuses to let the word mean "null": *havai*
-  points to something that still wants study. He reads it as an acronym for
-  *hinei barchu es Hashem* (Tehillim 134:1).
+- Rabbi Menachem Azariah of Fano: the word does not imply that something is
+  totally null and void; *havai* points to something that still wants study. He
+  finds an allusion to this in reading it as an acronym for *hinei barchu es
+  Hashem* (Tehillim 134:1).
 
 ### guzma (גוזמא)
 Neither in Tanach nor in the Mishnah; it is the Gemara's word. Rashi (to Bava
@@ -83,20 +83,19 @@ act of overstating something in a way that is not literally true. On where the
 word comes from:
 
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) and Rabbi Binyamin Mussafia (*Mussaf
-  HaAruch*) hold it is a Greek loanword. The column reports that after some
-  searching it could not pin down any specific Greek word behind it, and for that
+  HaAruch*) hold it is a Greek loanword. Rabbi Klein reports that after some
+  searching he could not pin down any specific Greek word behind it, and for that
   reason prefers to assume a Semitic origin.
 - In Biblical Hebrew the root ג-ז-ם appears only five times: three as *gazam*, a
   type of grasshopper (Yoel 1:4, 2:25; Amos 4:9), and twice as the proper name
   Gazam, whose family were among the Nesinim who came up with Zerubavel (Ezra
   2:48, Nechemiah 7:51). In rabbinic Aramaic the root took on the further sense
-  of threatening.
-- Rabbi Yaakov Emden: from that Aramaic sense of ג-ז-ם, to threaten (Targum to
-  Tehillim 8:3, Mishlei 15:30, Iyov 30:21; Shevuos 46a). Most threats are empty,
+  of threatening (Targum to Tehillim 8:3, Mishlei 15:30, Iyov 30:21; Shevuos 46a).
+- Rabbi Yaakov Emden: from that Aramaic sense of ג-ז-ם, to threaten. Most threats are empty,
   made to frighten and never meant to be carried out, and a *guzma* likewise
   does not answer to the truth.
 - Rav Hirsch (to Bereishis 11:6, Vayikra 26:4, Devarim 18:10): from *gazam*, the
-  locust (Yoel 1:4, 2:25; Amos 4:9), which comes in swarms; a *guzma* is
+  locust (Yoel 1:4, 2:25; Amos 4:9), which tends to come in swarms; a *guzma* is
   something true whose numbers have been swelled. He further links the root, by
   the interchangeability of gimmel, yod and kuf, to *yazam*, planning or
   enterprise, the ability to make something *more* out of something less, and to
@@ -108,18 +107,19 @@ word comes from:
   trimming that leaves part attached and part cut away: *geiz*, the grass left
   after mowing (Tehillim 72:6), *gozez*, shearing (Bereishis 31:19, 38:12),
   *gazam* the locust that eats some and leaves some, *geza*, a stump, *gazis*,
-  hewn stone. The article builds on this together with the rabbinic *gozem*, to
+  hewn stone. Rabbi Klein builds on this together with the rabbinic *gozem*, to
   prune for the plant's own good (Avodah Zarah 50b), and suggests that a *guzma*
   is an exaggeration still rooted in a truth rather than cut loose from it.
 - Rabbi Shmuel Jaffa-Ashkenazi (*Yefeh Mareh*, end of Yerushalmi Shekalim) reads
   *guzma* as a portmanteau of *egoz* plus *meah*, speaking of one nut as though
-  there were a hundred; he does not explain, the column notes, why *egozim* in
+  there were a hundred; he does not explain why *egozim* in
   particular were chosen for the illustration (compare Eruvin 2b on *guzma* and
   the number one hundred).
 
 ### How far the exaggeration goes
-Chazal's examples are all from the Mishnah: the *tamid* drinking from a golden
-cup (Tamid 3:4), three hundred *kor* of ash on the Mizbeach (Tamid 2:2), the
+Chazal's examples are from the Mishnah, and the Gemara calls some or all of them
+*divrei havai* or *guzma*: the *tamid* drinking from a golden cup (Tamid 3:4),
+three hundred *kor* of ash sometimes piled on the Mizbeach (Tamid 2:2), the
 Golden Vine that took three hundred Kohanim to move (Middos 3:8), the *paroches*
 that took three hundred Kohanim to immerse (Shekalim 8:5). Rabbi Yissachar Ber
 Eilenberg notes that these are a sample of rabbinic hyperbole in the Mishnah,

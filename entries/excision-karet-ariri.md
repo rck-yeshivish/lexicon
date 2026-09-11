@@ -32,11 +32,11 @@ Root כ-ר-ת. Rabbi Shlomo Pappenheim (*Yerios Shlomo*, in a treatment of more
 than fifteen Hebrew words for cutting): *karet* is the general word for cutting,
 whether or not the cut actually severs. So a *get* is a *sefer krisus* (Devarim
 24:1), a document of cutting, since marriage joins two into one and ending it
-tears one body in two; and so a covenant is *karat*, "cut," from the ancient rite
+tears one body in two. A covenant, too, is *karat*, "cut," from the ancient rite
 of cutting animals in half and having the parties to the agreement walk between
 the pieces, which is why the Biblical verb for entering a covenant is *karet* at
-all. Some linguists, the column notes, link this to the English idiom "to cut a
-deal." In *Cheshek Shlomo* he
+all. Some linguists link this to the English idiom "to cut a
+deal." In *Cheshek Shlomo* Rabbi Pappenheim
 takes the two-letter root כ-ר as a kind of digging, which breaks up the earth and
 parts one clod from another, and cutting does the same. *Karet* also carries
 plain destruction, and above all the Divine punishment of spiritual excision, on

@@ -36,10 +36,9 @@ updated: 2026-09-10
 *Mitzrayim* is **Egypt**, and also the name of the man from whom the Egyptians
 descend. *Patros* is properly **Upper Egypt** or the Patrusim who came from
 Mitzrayim; the *paytanim* use it, and *Ludim*, *Anamim*, and *Lehavim*, for Egypt
-as a whole by poetic license, not because the words are synonyms. *Rahav* is
-Egypt named for its haughtiness and the name of its heavenly minister; *eretz
-Cham* is the liturgical name. In a piyyut, the obscure name is the poet's whole
-point.
+as a whole, it seems by poetic license, not because the words are synonyms.
+*Rahav* is a name for Egypt, a word meaning haughty, and the name of its
+heavenly minister; *eretz Cham*, the Land of Cham, is Tehillim's name for it.
 
 ## At a glance
 
@@ -56,14 +55,14 @@ point.
 Radak (to Bereishis 10:13): unknown, perhaps something in the circumstances of
 his birth, and once Cham's son bore it he named his own sons the same way.
 *Peirush HaRokeach* and Rabbi Yehuda HaChassid (there): each of those nations
-came from a pair of twins whose families intermarried, which explains the sons'
-names but not Mitzrayim's own. *Bereishis Rabbah* 37:5 notes that the sons'
+came from a pair of twins whose families intermarried, which accounts for the sons'
+names but does not quite explain Mitzrayim's own. *Bereishis Rabbah* 37:5 notes that the sons'
 names all carry a *yam* ending; Maharzu, that they settled along the coast, and
 Ramban (to 10:13) places them all in Egypt's vicinity. Rabbeinu Bachaya (to
 10:13): the yod-mem hints that these family-nations were destined to drown at
 Krias Yam Suf. Many sources read the name as a portmanteau of *meitzar*, a
 narrow place, border or strait, and *yam*, sea, each explaining the connection
-its own way; the earliest the column found is Rabbi Chaim Vital, that Egypt
+its own way; the earliest Rabbi Klein found is Rabbi Chaim Vital, that Egypt
 places a limit on the Upper Seas, since its fecundity hinged on the Nile and it
 was not as reliant on rain as other countries, a state of affairs that could,
 chas v'shalom, lead people to forget Hashem in their pursuit of a crop, no longer
@@ -78,8 +77,7 @@ Shemos 14:30): "Yisrael saw Mitzrayim dead on the seashore" means Grandfather
 Mitzrayim himself, revived to watch his wretched descendants destroyed; some
 *baalei Tosafos* had a tradition extending this to Shemos 14:10 and 14:25
 (*Ateres Zekeinim* and *Hadar Zekeinim* to 14:10, *Sefer Chassidim* §607,
-*Siddur Rokeach* pp. 213 and 222, *Peirush HaRokeach* to 14:30). The plain
-reading takes it collectively.
+*Siddur Rokeach* pp. 213 and 222, *Peirush HaRokeach* to 14:30).
 
 **Who the Luvim are.** The Luvim come up four times in Tanach: countless of them
 march with Shishak against Yerushalayim (Divrei HaYamim II 12:3, in Rechavam's
@@ -87,13 +85,13 @@ reign), again as soldiers a few generations
 later in Asa's day (16:8), and at Nachum 3:9 and Daniel 11:43. Rid and pseudo-Rasag (to
 Daniel 11:43), and Tosafos with *Tosafos
 Chitzoniyos* (in *Shitah Mekubetzes* to Bechoros 5b), state plainly that the
-Luvim are the Lehavim, probably, the column adds, because hei and vav
+Luvim are the Lehavim, probably because hei and vav
 interchange. Rabbeinu Tam (cited by Tosafos to Shabbos 51b, and see Rabbeinu
 Nissim Gaon to Shabbos 90b): the word simply means Egyptians. Rashi: Luvim
 donkeys were of especially high quality (Bechoros 5b), and they came from Luv,
 the land of the Luvim (Shabbos 51b, and see Rabbeinu Chananel there). Rabbi
-Aharon Marcus and Dr. Alexander Kohut take Luv, the homeland of the Luvim and
-Lehavim, to be Libya, west of modern Egypt; the column offers as an alternative
+Aharon Marcus and Dr. Alexander Kohut postulate that Luv, the homeland of the
+Luvim and Lehavim, is Libya, west of modern Egypt; Rabbi Klein offers as an alternative
 of his own that Lehavim/Luvim may be another term for the Nubians, who lived just
 to Egypt's south, lamed and nun being often interchangeable.
 
@@ -137,11 +135,11 @@ to Tehillim 87:4; in *divrei Chazal* Rahav is the *sar* of Egypt and of the sea
 (Bava Basra 74b, *Bamidbar Rabbah* 18:22, Zohar *Terumah* 170b, Zohar Chadash
 *Bishalach* 38b). The word means confident, strong, haughty, an apt description
 of the Egyptian mentality, and Rabbi Aharon Marcus surmises that it is a
-permutation of *Lahav*, lamed and reish interchanging. *Matzor* is Radak's
-singular of the name (*Sefer HaShorashim*, and to Melachim II 19:24, Yeshayahu
-19:6, 37:25), which other *meforshim* read as the ordinary noun for narrow
-places; in the same vein the column notes that the Arabic for Mitzrayim is Misr,
-which seems to be simply the singular form. *Eretz Cham* is Tehillim's name
+permutation of *Lahav*, lamed and reish interchanging. *Matzor* is, for Radak
+(*Sefer HaShorashim*, and to Yeshayahu), a singular form of the name that Tanach
+sometimes uses (Melachim II 19:24, Yeshayahu 19:6, 37:25); in the same vein, the
+Arabic for Mitzrayim is Misr, which seems to be simply the singular form. Other
+*meforshim* read *matzor* there as the ordinary noun for narrow places. *Eretz Cham* is Tehillim's name
 (105:23, 105:27, 106:22), with *admas bnei Cham* in the weekday Maariv and
 *malchus eglah* in *Maoz Tzur* (see also Yirmiyahu 46:20); *Kaftor* (Amos 9:7,
 Yirmiyahu 47:4, Tzefaniah 2:5) is the Plishtim's homeland, a related place and

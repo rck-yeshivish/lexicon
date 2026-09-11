@@ -19,10 +19,10 @@ updated: 2026-09-10
 to the language of Chazal, not to Tanach. *Shenhav* (plural *shenhabim*) is the
 biblical word, and most of the commentators render it **ivory**, not the animal
 (Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo). A minority read it as
-the elephant itself (Ibn Janach, HaKallir, Rabbi Avraham ben Shlomo, and the
-commentary printed as Rashi to Divrei HaYamim). Even on the minority reading,
-Rabbi Klein holds, the word focuses on the elephant specifically as
-the source of ivory. That is the difference the column settles on: *shenhav*
+the elephant itself (Ibn Janach, seemingly; HaKallir; Rabbi Avraham ben Shlomo;
+and the commentary printed as Rashi to Divrei HaYamim). Even on the minority
+reading, Rabbi Reuven Chaim Klein holds, the word focuses on the elephant
+specifically as the source of ivory. That is the difference he settles on: *shenhav*
 names the beast for its tusks, while
 post-biblical *pil* names it for other properties, its superlative mass or
 possibly its knack for burying the dead.
@@ -33,8 +33,8 @@ possibly its knack for burying the dead.
 Twice in Tanach, in the identical lists of what Shlomo HaMelech's ships brought
 back: gold and silver, *shenhabim*, monkeys and peacocks (Melachim I 10:22;
 Divrei HaYamim II 9:21). The whole question is which half of the list it joins,
-the precious materials or the exotic animals. The *taamim* attach *shenhabim* to
-the animals. The commentators mostly go the other way: the Targum to both places
+the precious materials or the exotic animals. The *taamim* suggest that *shenhabim*
+goes with the animals. The commentators mostly go the other way: the Targum to both places
 renders it *shen d'pil*, an elephant's tooth, that is ivory, and Rashi, Radak,
 the Metzudos, Ralbag, and Rabbi Yosef Karo follow. Abarbanel (to Melachim I
 10:22) records that the Christian commentators read it as pearls, which is again
@@ -42,10 +42,10 @@ a material rather than an animal. On the other side, the commentary printed
 under Rashi's name to Divrei HaYamim (not his) says *shenhav* means both the
 tusk and the animal, tying the word to the clauses on either side of it.
 Rabbeinu Yonah Ibn Janach (*Sefer HaShorashim*) suggests that it is a compound of
-two words stuck together, without explaining himself; it is safe to assume, the
-column says, that he means *shen*, tooth, plus *hav*, gives, so that *shenhav*
-would be the beast that "gives" teeth, and he too seems, on that reading, to mean
-the animal rather than the ivory. HaKallir, in an unpublished *piyut* for Yom
+two words stuck together, without explaining himself; Rabbi Reuven Chaim Klein
+takes it as safe to assume that Ibn Janach means *shen*, tooth, plus *hav*, gives,
+so that *shenhav* would be the beast that "gives" teeth, and that on that reading
+Ibn Janach too seems to mean the animal rather than the ivory. HaKallir, in an unpublished *piyut* for Yom
 Kippur, lists *shenhabim* among animals of exceptional height, implying that the
 word means elephant, and Rabbi Avraham ben Shlomo, the fourteenth-century
 Yemenite commentator to Melachim, says outright that it means elephants and not
@@ -60,7 +60,7 @@ points out that *shenhabim* is a semantic cognate of the Akkadian *sinni piri*,
 "elephant tusk."
 
 ### pil (פיל)
-Absent from Tanach. Standard from the Mishnah on: Kilayim 8:6, in sorting which
+Absent from Tanach. Fairly common from the Mishnah on: Kilayim 8:6, in sorting which
 creatures count as a *behemah* and which as a *chayah*, and repeatedly in the
 Gemara, in Aramaic as *pila*. Chazal use it for the outer bound of the
 impossible, the elephant passing through the eye of a needle, in proving that a
@@ -68,7 +68,7 @@ man dreams only of what he has seen or thought of (Berachos 55b); they debate
 whether an elephant in a dream is a good sign (Berachos 56b-57a); and one recites
 a berachah on seeing one (Berachos 58b). Rabbi Dr. Ernest Klein notes that the Mishnaic
 word is related to the Persian *pil*, the Arabic *fil*, and the Akkadian
-*piru*/*pilu*; and, parenthetically, that the chess piece we call a bishop was
+*piru*/*pilu*. The chess piece we call a bishop was originally
 the *alfil*, Arabic for "the elephant," shaped like one and likewise moving
 diagonally, though it could move only two squares at a time and could jump over
 whatever stood between. Where the word comes from within Hebrew is unsettled:
@@ -79,15 +79,14 @@ whatever stood between. Where the word comes from within Hebrew is unsettled:
   elephants and giants make dread *fall* on whoever sees them (Bereishis Rabbah
   26:7). Rabbi Steinberg adds that Rabbi Yosef Bechor Shor (to Bereishis 6:4 and
   Bamidbar 14:33) likewise ties *nefilim* to *pele*.
-- The column's own suggestion: פ-ל is bound up with death, in *nefel*, a
-  stillborn (Iyov 3:16; Tehillim 58:9), and in *nefilah* as a euphemism for
-  dying (Shemos 19:21; Devarim 21:1; Shoftim 3:25, 4:22). Rabbi Menashe ben
-  Israel writes that an elephant that kills a man stands by the corpse until it
-  can bury its victim; other researchers, the column adds, have noted that
-  elephants bury dead animals of all kinds and otherwise seem to take a special
-  interest in death, citing a 2014 *BBC World News* headline, "Kenya elephant
-  buries its victims." The column offers all this humbly as a suggestion,
-  farfetched as it may sound, not as a received reading.
+- Rabbi Reuven Chaim Klein's own suggestion, which he offers humbly, farfetched
+  as it may sound: פ-ל is often bound up with death, in *nefel*, a stillborn
+  (Iyov 3:16; Tehillim 58:9), and in *nefilah*, commonly a euphemism for dying
+  (Shemos 19:21; Devarim 21:1; Shoftim 3:25, 4:22). Rabbi Menashe ben Israel
+  writes that an elephant that kills a man stands by the corpse until it can
+  bury its victim; other researchers have noted that elephants bury dead animals
+  of all kinds and otherwise seem to take a special interest in death, and a
+  2014 *BBC World News* headline reads, "Kenya elephant buries its victims."
 
 The *Oxford English Dictionary*
 cites the suggestion that English *elephant* derives ultimately from the Hebrew
@@ -95,7 +94,7 @@ cites the suggestion that English *elephant* derives ultimately from the Hebrew
 Jewish surnames Helfand, Gelfand and Elfant all mean "elephant."
 
 ### pildash (פלדש)
-The sixth son of Nachor (Bereishis 22:22), whose etymology the column calls
+The sixth son of Nachor (Bereishis 22:22), whose etymology is
 somewhat unclear. Some linguists read the name as a portmanteau of *pladot*,
 torches, and *aish*, fire, two words that stand side by side in the pasuk
 (Nachum 2:4); *pladot* itself occurs

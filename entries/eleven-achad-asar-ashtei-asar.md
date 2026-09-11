@@ -30,11 +30,12 @@ updated: 2026-09-10
 
 Both mean eleven, and both stand in the opening pesukim of Devarim: "eleven
 (*achad asar*) days from Chorev... in the eleventh (*ashtei asar*) month"
-(Devarim 1:2-3). *Achad asar* is **eleven** and *ashtei asar* **eleventh** in
-most contexts, because the working distinction is that *achad asar*
-is eleven as a number of its own and *ashtei asar* is eleven as an outgrowth of
-ten. The tell that settles most cases: *ashtei asar* never takes the definite
-article, and every other number does.
+(Devarim 1:2-3). On Rabbi Klein's tentative reading of *Peirush HaRokeach*,
+*achad asar* is **eleven** and *ashtei asar* **eleventh**, though he concedes
+that this does not pan out in every case in Tanach. Rabbi Meir Mintzberg's
+distinction is that *achad asar* is eleven as a number of its own and *ashtei
+asar* is eleven as an extension of ten; he points out that *ashtei asar* never
+takes the definite article, while every other number does.
 
 ## At a glance
 
@@ -53,14 +54,14 @@ appear nineteen times in Tanach, *achad asar* and *achat esreh* thirteen.
 **What ashtei means.**
 
 1. **Upon twelve.** Rabbi Yonah Ibn Janach: *ashtei asar* contracts *al*,
-   "upon," with *shteim asar*, twelve, eleven being the number that sits just
-   under twelve and so is reckoned from it.
+   "upon," with *shteim asar*, twelve, eleven being, as he understands it, the
+   number "on top" of twelve.
 2. **Born of ten.** Ibn Ezra disagrees on two counts. First on sense: *au
    contraire*, twelve is "on top" of eleven and not the reverse. Second on form:
    on Ibn Janach's account the masculine should be *ashnei asar*, since the
    masculine twelve is *shnei asar*/*shneim asar* and not *shteim esreh*, yet
-   there is no such term, only *ashtei asar* and *ashtei esreh*, which the column
-   says casts a shadow of doubt over the proposal. Ibn Ezra's own reading takes
+   there is no such term, only *ashtei asar* and *ashtei esreh*, which, Rabbi
+   Klein says, casts a shadow of doubt over the proposal. Ibn Ezra's own reading takes
    *ashtei* as a cognate of *ashtanosav*, "his plans" (Tehillim 146:4): just as
    plans are born out of one's thoughts, eleven is born out of ten, so *ashtei
    asar* literally means that which is born out of ten. He admits that a great
@@ -71,29 +72,28 @@ appear nineteen times in Tanach, *achad asar* and *achat esreh* thirteen.
 4. **Unknown.** Radak rejects both Ibn Janach and Ibn Ezra and concludes that
    the derivation is beyond us.
 
-All four agree on the number. Ibn Janach ties eleven to twelve and Ibn Ezra ties it
-to ten, which the column says may have interesting implications for Jewish
-numerology, and which matters for a derashah on the number. Mintzberg's reading has the advantage of explaining the grammar.
+Ibn Janach ties eleven to twelve and Ibn Ezra ties it to ten, which may have
+interesting implications for Jewish numerology.
 
-**When each form is used.** *Peirush HaRokeach*, in what the column calls a
+**When each form is used.** *Peirush HaRokeach*, in what Rabbi Klein calls a
 somewhat cryptic explanation: where eleven is invoked with all the numbers before
 it included, the text says *achad asar*; where only the eleventh member of a set
-is meant and the rest are disregarded, it says *ashtei asar*. The column is not
-quite sure what he means, but suggests that perhaps he is drawing the distinction
+is meant and the rest are disregarded, it says *ashtei asar*. Rabbi Klein is not
+quite sure what this means, but suggests that perhaps the Rokeach is drawing the distinction
 between the ordinal eleventh (*ashtei asar*) and the numeral eleven (*achad
 asar*), on the model of *rishon* against *echad* and *revi'i* against *arba*.
 
-In support of that suggestion the column notes that archaeologists found the word
+In support of that suggestion he notes that archaeologists found the word
 *ashtei* meaning "first" in Ugaritic, in a funerary inscription concerning
 Niqmaddu, king of Ugarit; linguists hold Ugaritic and Hebrew to be somewhat
 similar languages, both Semitic, so the parallel is not irrelevant. Nevertheless,
-the column concedes that if one tries to apply this approach to every case in
+he concedes that if one tries to apply this approach to every case in
 Tanach, it simply does not pan out.
 
-Rabbi Meir Mintzberg reaches the same place from the grammar: *ashtei asar* never
+Rabbi Meir Mintzberg points out a fact of grammar: *ashtei asar* never
 carries the definite article *ha-*, though every other number does, *achad asar*
 and *achat esreh* among them, because on his reading it names no number with
-standing of its own, only ten carried one further. The column adds that this
+standing of its own, only ten carried one further. Rabbi Klein adds that this
 might actually be what the Rokeach intended by an independent against a dependent
 eleven.
 
@@ -101,12 +101,13 @@ eleven.
 
 ### achad asar (אחד עשר) / achat esreh (אחת עשרה)
 Literally "one ten," built transparently from *echad*. Eleven counted as a
-number: eleven days from Chorev (Devarim 1:2), where the days before it are
-counted too. Takes the definite article normally.
+number: eleven days from Chorev (Devarim 1:2). Takes the definite article
+normally.
 
 ### ashtei asar (עשתי עשר) / ashtei esreh (עשתי עשרה)
 The opaque form, and the more common one in Tanach. Used of the eleventh month
-(Devarim 1:3), the eleventh in a series where the others are not in view.
+(Devarim 1:3); for *Peirush HaRokeach*, of the eleventh in a series where the
+others are not in view.
 Never prefixed with *ha-*.
 
 ## Rendering guidance

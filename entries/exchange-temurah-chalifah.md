@@ -16,9 +16,11 @@ updated: 2026-09-10
 ## Bottom line
 
 *Temurah* is **substitution**: putting a second thing in the place of the first,
-with the eye on the man who does it and, in most readings, on a downgrade.
-*Chalifah* is **exchange** or **swapping out**: the eye is on the thing being
-gotten rid of, and it is the neutral or even upgrading word. Vayikra 27:10 uses
+with the eye on the man who does it (Malbim) and, in several readings, on a
+downgrade (Rabbi Shapira-Frankfurter, Wertheimer, Rav Hirsch). *Chalifah* is
+**exchange** or **swapping out**: the eye is on the thing being gotten rid of
+(Rav Hirsch), and it is the neutral (Wertheimer) or even upgrading
+(Shapira-Frankfurter) word. Vayikra 27:10 uses
 both of the same prohibited act; Vayikra 27:33, stating the consequence, uses
 only *hamer yamir*. *Chalifah* is not merely a stylistic variant.
 
@@ -34,7 +36,8 @@ consecrated (Vayikra 27:10, 27:33).
 - Rabbi Yehuda Leib Shapira-Frankfurter: *temurah* is trading something better
   for something worse. The Torah forbids the transfer either way, better for
   worse or worse for better.
-- Rabbi Shlomo Aharon Wertheimer follows him with a tightening: *temurah* is
+- Rabbi Shlomo Aharon Wertheimer follows this basic approach, with one slight
+  tweak on *chalifah* (below): *temurah* is
   exclusively good-replaced-by-bad, and he works this through a series of
   pesukim.
 - Rav Hirsch takes his great-uncle's reading of *temurah* and draws the
@@ -42,7 +45,7 @@ consecrated (Vayikra 27:10, 27:33).
   the worse" even when the second animal is objectively better, which is why the
   pasuk stating the outcome says *hamer yamir* and does not return to *chalifah*.
 - Malbim: *temurah* looks at the person who effects the switch and *chalifah* at
-  the objects switched, which the column casts as a classic *cheftza*/*gavra*
+  the objects switched, which Rabbi Klein casts as a classic *cheftza*/*gavra*
   construct. The same event can be described either way.
   Hence Tehillim 106:20 on the eigel, *vayamiru es kevodam*: Hashem was
   not in fact replaced, since from His side nothing changed, so the object-word
@@ -66,19 +69,18 @@ The Torah's second verb in the same prohibition.
 - Rav Hirsch: *chelef*/*chalifah* is at bottom moving a thing out of one place or
   state into another, whether or not anything takes its place. Yeshayahu 2:18
   uses *yachalof* for idols simply vanishing. The slaughtering knife is a
-  *chalaf* because it moves an animal from living to dead. (Others maintain, the
-  column adds in a bracket, that *chalaf* in the sense of knife comes from the
+  *chalaf* because it moves an animal from living to dead. (Others maintain that *chalaf* in the sense of knife comes from the
   Arabic *chalaf*, "sharp," which is itself likely derived from the Hebrew
   *charif*, the r-sound and the l-sound being often interchangeable.) And because
   the word
-  fits what one discards and replaces, it is the verb for changing clothes
+  fits what people tend to discard and replace, it is the verb for changing clothes
   (Bereishis 35:2, 41:14) and then the name of the outer garments themselves
   (Bereishis 41:14, Shmuel II 12:20); in Modern Hebrew a *chalifah* is a suit.
 - Malbim: *chalifah* looks at the objects switched, not the switcher.
 
 Root: most read ח-ל-פ. Pappenheim (*Yerios Shlomo*) builds it from two biliterals,
 ח-ל (circle, turning) and א-פ (face, present), so *chalifah* is pivoting away
-from the present situation. This lines up with Rav Hirsch on what one is getting
+from the present situation. This somewhat echoes Rav Hirsch on what one is getting
 rid of, and it runs against what Pappenheim himself writes in *Cheshek Shlomo*,
 where *temurah* is "out with the old" and *chalifah* "in with the new";
 Pappenheim concedes that in practice the two have become largely interchangeable.

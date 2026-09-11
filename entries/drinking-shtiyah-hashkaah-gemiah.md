@@ -20,21 +20,19 @@ updated: 2026-09-10
 
 *Lishtos* is **to drink**, the act itself, and it is said only of people and
 animals; over 220 appearances in Tanach. *Lehashkos* is **to give to drink**, to
-water, almost always in *hifil*; over 60 appearances, and it covers watering the
-ground as well as people and beasts, because it names the providing and not the
-drinking. *Mashkeh* is the **beverage**, sometimes with the implication of an
-alcoholic one. *Hagmieini* is the servant's word, **let me sip** or **let me
-swallow**. In the Rivkah narrative the Torah alternates the two roots
-deliberately.
+water: it names the providing and not the drinking, and so is almost always in
+*hifil*; over 60 appearances, and it covers watering the ground as well as
+people and beasts. *Mashkeh* is the **beverage**, sometimes with the implication of an
+alcoholic one. *Hagmieini* is the servant's word, something along the lines of
+**let me drink**; Rashi ties its root to the Mishnaic word for **swallowing**.
+In the Rivkah narrative the Torah alternates the two roots.
 
-Note what the column does *not* claim to have settled. Having laid out the
-usage, it asks why Hebrew should have two different roots for drinking and
-giving to drink, when eating and feeding come off one root (א-כ-ל, *lechol* and
-*leha'achil*), and why the active *lishtos* should be confined to man and beast
-while the causative *lehashkos* reaches even to plants. Its answer, in its own
-words, is that the author has wondered about these questions for years and has
-not yet found a satisfactory answer. What follows are etymological insights, not
-a resolution.
+Rabbi Reuven Chaim Klein asks why Hebrew should have two different roots for
+drinking and giving to drink, when eating and feeding come off one root (א-כ-ל,
+*lechol* and *leha'achil*), and why the active *lishtos* should be confined to
+man and beast while the causative *lehashkos* reaches even to plants. He has
+wondered about these questions for years and has not yet found a satisfactory
+answer. What follows are etymological insights, not a resolution.
 
 ## Distinctions
 
@@ -51,12 +49,11 @@ drinking precedes eating. In *Yerios Shlomo* he puts it slightly differently:
 drinking restores the innards shriveled and constricted by thirst to their
 settled state. On that second reading he also considers that *shesen* may itself
 derive from *lishtos*, urine being the liquid waste that is a byproduct of
-drinking. On either reading *lishtos* names what happens inside the drinker,
-which is why it is never used of watering a field.
+drinking. On either reading *lishtos* names what happens inside the drinker.
 
 ### lehashkos (להשקות) and mashkeh (משקה)
-Not the act of drinking but the act of providing drink, hence the *hifil*, and
-hence its range over flora as well as man and beast: "a mist rose from the ground
+Not the act of drinking but the act of providing drink, hence the *hifil*; it
+ranges over flora as well as man and beast: "a mist rose from the ground
 and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
 
 - Rabbi Aharon Marcus: from the biliteral ש-ק, movement. So *teshukah* is the
@@ -69,7 +66,8 @@ and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
   stillness of no movement at all.
 - Rabbi Shlomo Pappenheim: the same biliteral ש-ק, but its core is making
   consecutive sounds. *Shokek* is roaring, sound after sound like a metronome;
-  liquids are named for the noise they make when poured from vessel to vessel.
+  liquids are named for the noise they tend to make when moved, especially when
+  poured from vessel to vessel.
   Secondarily *teshukah*, since desire makes the heartbeat audible and regular;
   then *neshikah*, a kiss, either as *teshukah* realized or for its sound; and
   even *neshek*, weaponry, since combatants closing on each other resemble lovers
@@ -100,7 +98,7 @@ and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
 The servant's word at Bereishis 24:17, meaning something along the lines of "let
 me drink." All the early lexicographers, the biliteralist Menachem Ibn Saruk
 included, give the root ג-מ-א. Rashi (there) takes another approach and connects
-ג-מ-א to ג-מ-ע, the column adding that this is possibly via the interchange of
+ג-מ-א to ג-מ-ע, possibly via the interchange of
 *aleph* and *ayin*; ג-מ-ע does not appear in Tanach but does in the Mishnah
 (Shabbos 8:1, 14:4) and elsewhere in rabbinic literature, including the Targum
 to Iyov 39:30, for swallowing. Rashi's comparison rests on the Gemara (Shabbos
@@ -110,7 +108,7 @@ Pappenheim instead traces it to the biliteral ג-מ, spongy or absorbent materia
 which gives *gome*, the spongy reed of marshy wetlands: the request is to drink
 the way a reed soaks up water.
 
-The column offers two further possibilities of its own. First, that the term may
+Rabbi Reuven Chaim Klein offers two further possibilities of his own. First, that the term may
 be related to the Mishnaic *guma*, a pit or hole (Chullin 2:9; Parah 2:5),
 drinking being a pouring of things down the hole of one's mouth, on the order of
 the English "down the hatch." Second, a suggestion he credits to his wife, Shira

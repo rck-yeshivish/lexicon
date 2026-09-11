@@ -22,8 +22,7 @@ updated: 2026-09-10
 drinking itself, whether or not the drinker actually got drunk. *Shachar* is
 **getting drunk**, the state achieved. The noun *sheichar* is the **strong
 drink** that produces it. In the *ben sorer u'moreh* pasuk, *zollel* is the meat
-side (gluttony) and *sove* the drink side (swilling). Malbim's distinction is
-exactly the difference between *sove* and *shichrus*.
+side (gluttony) and *sove* the drink side (swilling).
 
 ## Distinctions
 
@@ -81,17 +80,18 @@ appears twenty-three times. Rabbi Moshe Tedeschi Ashkenazi: strictly it is any i
 drink, but in Tanach it sometimes means strong wine in particular. Targum
 Onkelos and Rashi to Bamidbar 6:3 read it as aged wine against *yayin*, new
 wine; Rashi to Bamidbar 28:7 as intoxicating wine, and at *Zevachim* 91a he ties
-*sheichar* to *seviah*, the libation satisfying the altar's pipes. But sometimes
+*sheichar* to *seviah*, satisfaction, as though the libation were satisfying the
+thirst of the altar's pipes. But sometimes
 *sheichar* in Tanach could refer to other intoxicating drinks: Vayikra 10:9
 forbids drinking *sheichar* before entering the Mikdash, and there is ample
 reason to hold that one may be liable even for other intoxicating substances
 besides wine (*Nazir* 4a, *Kerisus* 13b, Ramban to Vayikra 10:9). In Rabbinic
 Hebrew *sheichar* is what we call beer or mead (*Pesachim* 3:1).
 
-Rav Hirsch (to Shemos 13:12) makes a comment the column calls somewhat cryptic,
+Rav Hirsch (to Shemos 13:12) makes a comment Rabbi Klein calls somewhat cryptic,
 connecting *shachar* with *sheger*, *shir* and *sheker* on the
 interchangeability of *kaf*, *gimmel*, *yod* and *kuf*: all of them name
-something born from oneself, and he gives no further detail. Dr. Lawrence
+something born from oneself, and Rav Hirsch gives no further detail. Dr. Lawrence
 Resnick (*1,000 Words*, which elucidates Rav Hirsch's word connections) spells
 it out as a production coming from within, mentally or physically: *sheger* is
 one's live offspring, the handiwork of one's own reproductive system; *shir* an
