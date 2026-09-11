@@ -23,7 +23,8 @@ updated: 2026-09-10
 Both words name the same position of power; they differ in how the man got
 there. A *melech* is **king** by the people's willing acceptance. A *moshel* is
 a **ruler** who holds them by force or by proven superiority, accepted or not.
-Where a pasuk sets them side by side, the second word is never mere repetition.
+Where Yosef's brothers set them side by side (Bereishis 37:8), the second word
+is not mere repetition.
 
 ## Distinctions
 
@@ -39,7 +40,7 @@ as even the most calculating king must keep conceding to his people so that
 they go on accepting him lovingly, so must a *chasan* act with patience and
 reliability so that his wife goes on wanting to remain his partner.
 
-This is also what the column uses to answer a question on the Gemara. Rosh
+Rabbi Klein uses this also to answer a question on the Gemara. Rosh
 Hashanah 16a has Hashem say, "Recite before Me verses of kingship so that you
 make Me *melech* over you," and the Gemara takes the recital not merely as our
 affirming His kingship but as making Him King; why should that be contingent on
@@ -49,7 +50,7 @@ than merely a dictatorial *moshel*.
 
 ### moshel (מושל)
 Root מ-ש-ל. One who takes the position rather than receiving it. The Vilna
-Gaon: the *moshel* leads by his abilities, not by the people's will; he proves
+Gaon: the *moshel* leads by his abilities, not merely by the people's will; he proves
 himself in battle and the like, shows himself more capable than the rest, and
 on that strength seizes his constituency and forces them under his hand. This
 is why the people offered Gideon the post of *moshel* (Shoftim 8:22) and not of
@@ -57,8 +58,8 @@ is why the people offered Gideon the post of *moshel* (Shoftim 8:22) and not of
 called a *moshel*, because they offered it only on the strength of his
 acknowledged military prowess.
 
-A minority reading, recorded and not adopted: *melech* is the king at the top
-and *moshel* a governor or deputy to whom he has delegated power. The consensus
+Some explain instead that *melech* is the king at the top and *moshel* a
+governor or deputy to whom he has delegated power. The consensus
 holds the two equal in position and different only in origin.
 
 ## Rendering guidance

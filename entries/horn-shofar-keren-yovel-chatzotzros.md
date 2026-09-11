@@ -32,7 +32,7 @@ and of **beauty and fitness** (root ש-פ-ר; Ritva). *Keren* is the general
 **corner**, **strength**, and in the Mishnah the **principal** of a debt or
 investment. *Yovel* is a horn too (Shemos 19:13) and gives its name to the
 fiftieth year. *Chatzotzros* are the silver **trumpets** of Bamidbar 10:2,
-though the terms crossed after the Churban. In Rosh Hashanah 3:2 the whole
+though after the Churban *shofaros* came to be called *chatzotzros*. In Rosh Hashanah 3:2 the whole
 halachah turns on the bovine horn being *called* a *keren*.
 
 ## Distinctions
@@ -73,7 +73,7 @@ Yisrael through Torah and mitzvos, since she bore Moshe (*Sifrei Behaaloscha* 78
 
 Rabbi Moshe Shapiro: *shapir* is a *shifal* form, the shin not radical, from
 פ-א-ר, whence *pe'er* and *tiferes*, the initial shin marking an action that
-produces *pe'er*. The column adds that a popular folk etymology ties the early
+produces *pe'er*. A popular folk etymology ties the early
 Ashkenazi surname Shapiro to *shapir*, though historians argue it more likely
 comes from the name of the German town Speyer. Rav Hirsch (to Bereishis 5:1,
 49:11), on shin/sin and beis/peh interchange, groups *shefer* with *sefer*,
@@ -85,7 +85,7 @@ surmises that *shefer* is beauty as the fit of many parts into one order, agains
 it makes sense that *shofar* should point to the inside of the tube. Ritva notes
 that *shofar* implies something beautiful and copacetic.
 
-Linguists, on the column's report, offer another origin altogether: Avraham
+Linguists offer another origin altogether: Avraham
 Even-Shoshan (1906-1984) and Rabbi Ernest Klein (1899-1983) claim *shofar* is
 cognate with the Akkadian *shapparu*, "wild sheep," which in turn seems related
 to the late Biblical *tzfir* (Daniel 8:5, 8:8, 8:21; Ezra 8:35; Divrei HaYamim II
@@ -94,8 +94,8 @@ and ayin may interchange.
 
 ### keren (קרן)
 Menachem Ibn Saruk, Ibn Janach, and Radak: root ק-ר-נ, both an animal's horn
-and a ray of light, a beam projecting from its source as a horn juts from the
-head. Extensions: strength (Yechezkel 29:21, Tehillim 132:17, 148:14), since the
+and a ray of light. The link is plain: a beam projects from its source as a horn
+juts from the head. Extensions: strength (Yechezkel 29:21, Tehillim 132:17, 148:14), since the
 horn gives an animal's gore its power; a horn-shaped vessel (Shmuel I 16:1,
 16:13; Melachim I 1:39); the horn-like protrusions at the four corners of the
 mizbeach (Shemos 38:2, Vayikra 8:15, Yechezkel 43:20). In the Mishnah *keren*
@@ -108,7 +108,7 @@ and means principal, whether the capital of an investment (*Peah* 1:1,
 (*Terumos* 6:1-4, 7:1-4, 8:1, 11:2; *Maaser Sheni* 4:3; *Pesachim* 2:4;
 *Yevamos* 11:5, 11:7; *Kesubos* 3:9; *Bava Kamma* 9:6-12; *Shevuos* 8:3-4).
 Radak even insinuates a link to Latin *cornu*, from which English *corner* comes
-by way of French. On the financial sense the column adds that Rabbi Ernest Klein
+by way of French. On the financial sense, Rabbi Ernest Klein
 innovatively connects *keren* to the Akkadian *qerenu*/*qaranu*, "pile, heap" or
 "threshing floor," which seems related to Hebrew *goren* by the kuf/gimmel
 interchange. *Shofar* in the Mishnah likewise names a vessel, narrow above and
@@ -129,8 +129,8 @@ one faces two ways; hence a corner, the meeting place of two sides; hence the
 principal, which can be lost or turn a profit. On Rosh Hashanah we galvanize
 every energy toward one end, the proclamation of Hashem's kingship, where no
 other possibility is valid, so a thing whose very name implies a fork in the road
-cannot serve. The counterpart is the column's own addition, which it says Rabbi
-Shapiro does not make explicitly: per Rav Hirsch, *shofar* is the exact opposite,
+cannot serve. The counterpart is Rabbi Reuven Chaim Klein's own addition, which he says
+Rabbi Shapiro does not make explicitly: per Rav Hirsch, *shofar* is the exact opposite,
 conjuring all the constituent parts working together in harmony, and Ritva's
 "beautiful and copacetic" fits that, so the word *shofar* is the antithesis of
 *keren*, implying a unification that precludes all other possibilities.
@@ -147,21 +147,22 @@ another.
 
 ### chatzotzros (חצוצרות)
 The Torah's *chatzotzros* are of silver (Bamidbar 10:2), yet the Mishnah
-(*Kinnim* 3:6) uses the word of a ram's horn after the animal's death, so they
-can stand for *shofaros*. The Gemara (Shabbos 36a, Sukkah 34a) records that
-what were called *shofaros* in the time of the Beis HaMikdash were later called
-*chatzotzros*, and the reverse (*Chasam Sofer*, *Aruch LaNer* to Sukkah 34a).
+(*Kinnim* 3:6) uses the word of a ram's horn after the animal's death, which
+suggests they can stand for *shofaros*. The Gemara (Shabbos 36a, Sukkah 34a)
+records that what were called *shofaros* in the time of the Beis HaMikdash were
+later called *chatzotzros*; *Chasam Sofer* and *Aruch LaNer* to Sukkah 34a
+discuss the reasons.
 Mabit notes we have since returned to the older usage, so a ram's horn is again
 a *shofar*.
 
 ### The keren / cornu question
 English "horn" comes from Latin *cornu* and Greek *keras*, which originally meant
 something like pointy or protruding, and behind them stand *unicorn*, *capricorn*,
-*rhinoceros*, *cornet* and *cornea*. It is tempting, the column says, to argue
+*rhinoceros*, *cornet* and *cornea*. It is tempting to argue
 that these derive from the Hebrew *keren*, and some have argued it; but linguists
 take the Latin and Greek as tributaries of the Proto-Indo-European root *ker*, so
 the n-sound does not seem integral to the original root, which makes the tie to
-*keren* harder. Rabbi Klein's own thought is that on Rabbi Pappenheim's
+*keren* harder. Rabbi Reuven Chaim Klein's own thought is that on Rabbi Pappenheim's
 reckoning the nun of *keren* is likewise not part of the core root, so perhaps
 there is something to the connection after all.
 

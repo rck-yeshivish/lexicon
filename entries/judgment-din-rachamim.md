@@ -20,8 +20,8 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Din* is **judgment** and *rachamim* is **mercy**, but the axis between them is
-not severity against leniency; it is where the attention rests. Under *rachamim*
+*Din* is **judgment** and *rachamim* is **mercy**; as Rabbi Reuven Chaim Klein
+explains them, the difference between them is where the attention rests. Under *rachamim*
 the focus is on the Giver, so the flow is constant and unearned. Under *din* the
 focus is on the receiver, so the flow is measured out by what he deserves. *Din*
 is not punishment: Hashem gives under *din* too. The Divine Name of *din* is *Elokim*; the
@@ -38,8 +38,8 @@ He judges the whole of Creation, which is why the day is *Yom HaDin*; but Yom
 Kippur is called the Day of Judgment as well, so what separates them? Ramban:
 Rosh Hashanah is *din b'rachamim*, judgment inside mercy, and Yom Kippur is
 *rachamim b'din*, mercy inside judgment. Rabbi Reuven Chaim Klein calls the
-distinction cryptic and explains only the Rosh Hashanah half, so nothing here
-explains *rachamim b'din*. He unpacks *din* through
+distinction cryptic and explains only the Rosh Hashanah half, leaving Yom Kippur
+for another time. He unpacks *din* through
 a mashal of two philanthropists. Both give large sums, but the second vets every
 applicant, weighs the cause, and sets the amount by what the man before him
 merits. That is *din*: the receiver is the object of focus, so the influx can be
@@ -50,10 +50,10 @@ the Judge of all Creation.
 ### rachamim (רחמים)
 The first philanthropist in the mashal hands out money without asking who is
 receiving it. The focus stays on the giver, so the giving is steady and does not
-depend on desert. That is *rachamim*, and it is why the four-letter Name is
-associated with it. The Kabbalists express the same pair as *duchra* and
-*nukva*, and as *mashpia* and *mekabel*, influencer and recipient. In the
-imagery of the column the sun, always the same disc and always emitting its own
+depend on desert. That is *rachamim*, and tradition associates the four-letter
+Name with it. The Kabbalists sometimes express the same pair as *duchra* and
+*nukva*, and as *mashpia* and *mekabel*, influencer and recipient. In Rabbi
+Klein's imagery the sun, always the same disc and always emitting its own
 light, is the giver and so *rachamim*; the moon, which has no light of its own
 and waxes and wanes, is the receiver and so *din*. Rosh Hashanah, first day of
 a solar year and first day of a lunar month at once, is where the two systems
@@ -70,7 +70,7 @@ blast, the Name of *rachamim* with the whole one. Because every *teruah* is
 sandwiched between two *tekios*, all that shows from outside is *rachamim*; this
 is the Kabbalistic *mesikas hadin*, "sweetening the judgment," and the same
 principle in dipping the apple in honey, honey being sweet and so itself
-*rachamim*. The column reads *tiku bachodesh shofar bakeseh l'yom chageinu*
+*rachamim*. Rabbi Klein reads *tiku bachodesh shofar bakeseh l'yom chageinu*
 (Tehillim 81:4) along the same line: the Rosh Chodesh side of the day, the side
 that carries the *din*, is the concealed one.
 

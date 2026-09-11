@@ -37,7 +37,7 @@ updated: 2026-09-10
 *Sus* is the ordinary **horse**. *Rechesh* is a particular kind, fast, used for
 couriers or for pulling: **swift steed** or **courier horse**, not plain "horse."
 *Achashtranim* and *remachim* occur together only in Esther 8:10, and Megillah
-18a says outright that we do not know what they mean; the majority reading makes
+18a says outright that we do not know what they mean; many commentators make
 *achashtranim* **mules** and *remachim* the **mares** that bore them.
 
 ## At a glance
@@ -46,7 +46,7 @@ couriers or for pulling: **swift steed** or **courier horse**, not plain "horse.
 |---|---|---|---|
 | סוס | sus | horse | the general term; root tied to *sasson*, gladness (Rabbi Shlomo Pappenheim, Rav Hirsch) |
 | רכש | rechesh | courier horse, swift steed | a specific fast or wagon-pulling horse, not the hypernym (Ralbag, Rav Hirsch) |
-| אחשתרנים | achashtranim | mules | born of a male donkey and a mare (Rav Saadia Gaon and most); Rashi: fast camels |
+| אחשתרנים | achashtranim | mules | born of a male donkey and a mare (Rav Saadia Gaon and many others); Rashi: fast camels |
 | רמכים | remachim | mares | the mares that bore them (Radak); a wild horse (Rambam); or simply young (Lekach Tov) |
 
 ## Where the authorities disagree
@@ -66,20 +66,20 @@ the horse-and-rider team bound together (*Ohalei Yehuda*, Rabbi Yehudah Aryeh of
 Carpentras). From ר-כ-ס, tying, by the shin/sin-samech interchange, hence the
 wagon-horse (Rav Hirsch to Bereishis 12:5), so *sus* is general and *rechesh*
 specific. The Maskilic Hebrew scholar Naftali Torczyner, Tur-Sinai (1886-1973),
-reaches the wagon-horse independently, taking ר-כ-ש as a metathesis of ק-ש-ר,
+likewise reaches the wagon-horse, taking ר-כ-ש as a metathesis of ק-ש-ר,
 tying and tethering, probably on the kuf/kaf interchange; he goes further and has
 *rechush* derive from *rechesh*, since a man's main property was his livestock,
-or because moveable goods were carried by *rechashim*.
+or because moveable goods were typically carried by *rechashim*.
 
 **What *achashtranim* are.** Mules, from a male donkey and a mare, as against the
-weaker hinnies (Rav Saadia Gaon, Ibn Ezra, Radak, Rabbi Moshe Ibn Chalava,
+typically weaker hinnies (Rav Saadia Gaon, Ibn Ezra, Radak, Rabbi Moshe Ibn Chalava,
 Ralbag); Rabbi Yosef Kimchi (*Sefer HaGalui*) reports Rav Saadia Gaon's
 etymology, Persian *achash*, "big," plus Aramaic *trein*, "two," one beast
 merging two species. An adjective on *rechesh*, from CHET-SHIN, speed, plus
-TAV-REISH, scouting, the mounts spies used (*Midrash Lekach Tov*), or the same
-roots with TAV-REISH as "jumping," so that the animal's swiftness is in its leap
-rather than its run (Rabbi Shlomo Pappenheim). Fast-running camels (Rashi), whom
-the column marks as somewhat an outlier. No animal at all but an ordinary
+TAV-REISH, scouting, the mounts spies used (*Midrash Lekach Tov*). Similarly, a
+name built on the same roots with TAV-REISH as "jumping," so that the animal's
+swiftness is in its leap rather than its run (Rabbi Shlomo Pappenheim).
+Fast-running camels (Rashi), somewhat an outlier. No animal at all but an ordinary
 adjective, "government-owned," from the Old Persian *khshathrana*/*khshathra*,
 "dominion, government, province" (Rabbi Ernest Klein), another outlier. Ibn
 Janach adds that it is not too farfetched to presume *achashtranim* and
@@ -99,7 +99,7 @@ a separate species for the interbreeding prohibition; in Hilchos Kilayim 9:5 he
 calls it a wild horse, as against the domesticated *sus*. Rabbi Shlomo Sirilio
 (1485-1554), without explaining why, says he thinks the *ramach* is what we call
 a zebra. On the mule reading, *remachim* are the mares that bore them (Radak in
-*Sefer HaShorashim*), and the column reports that there is apparently an Arabic
+*Sefer HaShorashim*), and there is apparently an Arabic
 cognate resembling *remachim* that likewise means a female horse. Simply young
 horses (Rabbi Tuviah ben Eliezer), a reading also implied by Rashi (to Taanis 23a;
 see too *Shenos Eliyahu* to Kilayim 8:5 and *Gilyonei HaShas*), and Ibn Yachya
@@ -108,9 +108,9 @@ REISH-MEM, raising or lifting, with MEM-KAF, hitting or whipping, the rider
 lifting his arm to whip the horse on (Rabbi Tuviah). Against Megillah 18a's flat
 "we do not know," Rabbeinu Nissim of Gerona (*Teshuvos HaRan* 79, cited in
 *Teshuvos HaRivash* 390-391) holds that only the masses do not know, while the
-talmidei chachamim know, or at least could know. The column adds that the
-Gemara's saying it of these two words implies we *do* know what *rechesh* means,
-which is why the commentators offer their readings of it.
+talmidei chachamim know, or at least could know. Rabbi Reuven Chaim Klein adds
+that the Gemara's saying it of these two words implies we *do* know what
+*rechesh* means, which is why the commentators offer their readings of it.
 
 ## Distinctions
 
@@ -146,33 +146,35 @@ richashei*, "he mounted him on two *rechashim*" (Kesubos 55b, Bava Basra 152a,
 Yerushalmi Kiddushin 1:5), first reads as two horses pulling in opposite
 directions, leaving the wagon where it stood, and then settles on two horses
 pulling the same way, so that a recipient holding two claims to one gift has the
-stronger case rather than a void one. The column adds that pre-Islamic Persian
-folklore tells of the hero Rostam and his stallion Rakhsh, a beast of unusual
-intelligence who would let no one but Rostam ride him; those stories were written
-long after the Megillah, and the column takes the name Rakhsh as clearly coming
-from the Aramaic *rechesh*.
+stronger case rather than a void one. Pre-Islamic Persian folklore tells of the
+hero Rostam and his stallion Rakhsh, a beast said to be of unusual intelligence
+who would let no one but Rostam ride him; those stories were written long after
+the Megillah, and Rabbi Reuven Chaim Klein takes the name Rakhsh as clearly
+coming from the Aramaic *rechesh*.
 
 ### The name of Achashverosh's horse
 Targum Sheini (to Esther 6:10) and *Peirush HaRokeach* (to Esther 9:4) give the
 king's horse the name Shifrigaz, which Rabbi Eliyahu HaBachur vocalizes in
 *Meturgeman* as Shfargaz. Rabbi Yaakov Daniel Amash derives Shifrigaz from a
 portmanteau of *shapir*, beautiful, and *gaz*, transporting (see Rashi to
-Tehillim 90:10): the horse was beautiful, and a horse's work is to carry its
+Tehillim 90:10): the horse was apparently beautiful, and a horse's work is to carry its
 rider. Dr. Alexander Kohut (1842-1894), in *HaAruch HaShaleim*, renders the name
 on his understanding of Persian into German as *rothweisses Pferd*, the red-white
-horse. Dr. Dan Shapira, a linguist and philologist at Bar Ilan, wrote to the
-columnist that he thinks the name comes from the Persian *shap*/*shab*, black or
-night-colored, plus *rechesh*, horse, assuming kaf and gimmel interchange and
-shin and zayin; he compared it to Shabdiz, the horse of the Persian king Khosrow
-Parviz (590-628), said to be the fastest in the world, and the column offers that
-perhaps Shifrigaz is somehow related to or conflated with that later horse. (The
-column also notes, from Rabbi Yehuda Spitz, that this tradition differs from the
-animated *Megillas Lester*, where the king's horse is named Hangover.)
+horse. Dr. Dan Shapira, a linguist and philologist at Bar Ilan, in a letter to
+Rabbi Reuven Chaim Klein, says he thinks the name comes from the Persian
+*shap*/*shab*, black or night-colored, plus *rechesh*, horse, assuming kaf and
+gimmel interchange and shin and zayin; he compared it to Shabdiz, apparently the
+horse of the Persian king Khosrow Parviz (590-628), said to be the fastest in the
+world, and Rabbi Klein offers that perhaps Shifrigaz is somehow related to or
+conflated with that later horse. (Rabbi Yehuda Spitz points out that this
+tradition differs from the animated *Megillas Lester*, where the king's horse is
+named Hangover.)
 
 ### achashtranim (אחשתרנים) and remachim (רמכים)
 Both are confined to Esther 8:10. Menachem Ibn Saruk, Ibn Janach, and Radak parse
-*achashtranim* from a six-letter root, Ibn Janach holding the NUN, and probably
-the ALEPH, not root letters, so that for him the root is four or five letters;
+*achashtranim* from a six-letter root, Ibn Janach holding the NUN not a root
+letter, and elsewhere implying the same of the ALEPH, so that for him the root
+is four or five letters;
 Ibn Ezra's rule is that four- and five-letter roots in Hebrew are typically
 either compounds of several roots fused or loanwords from another language, and
 scholars take both routes here. REISH-MEM-KAF is

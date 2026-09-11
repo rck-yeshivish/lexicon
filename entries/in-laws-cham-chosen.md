@@ -28,13 +28,13 @@ The Hebrew tells which side of the marriage is speaking.
 ## Distinctions
 
 ### cham (חם) and chamos (חמות)
-Root, on the Hebrew side, ח-מ, heat. The wife's words. Yehudah is called Tamar's
+The wife's words. Yehudah is called Tamar's
 *cham* (Bereishis 38:13, 38:25), and Naomi is Rus's *chamos* (Rus 2:11 through
 3:17).
 
-Rav Hirsch: in a traditional patriarchal society a woman marrying leaves her
-parents' family and joins her husband's, where his relatives stand around her
-like a *chomah*, a wall; hence *cham* and *chamos*. Rabbi Shlomo Pappenheim
+Rav Hirsch: in a traditional patriarchal society, where marriage is viewed as a
+woman leaving her parents' family and joining her husband's, his relatives stand
+around her like a *chomah*, a wall; hence *cham* and *chamos*. Rabbi Shlomo Pappenheim
 reads the same letters as the biliteral ח-מ, hot: a bride must stress the warm
 love she receives from her new relatives in order to honor her husband, and
 love is spoken of metaphorically as fire (Shir HaShirim 8:7), so it makes sense
@@ -59,10 +59,9 @@ reads *shochev im chosanto* (Devarim 27:23).
 
 Rav Hirsch: the husband does not join a new family; his family forms a
 connection with another family while he remains in his own, so his words for
-his in-laws are built on connection, like *chasan*. (The column adds, in
-passing, that Hebrew and Yiddish have *mechutanim* for two people whose
-children have married each other, and that English has no word for that
-relationship at all.) Rabbi Shlomo Pappenheim
+his in-laws are built on connection, like *chasan*. (Hebrew and Yiddish
+have *mechutanim* for two people whose children have married each other;
+English has no word for that relationship at all.) Rabbi Shlomo Pappenheim
 derives *chasan* from the biliteral ח-ת, descending or setting down, since the
 groom branches off from his family to found a new subdivision; his parents-in-
 law are *chosen* and *choseness* because in giving him their daughter they gave

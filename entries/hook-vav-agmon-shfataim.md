@@ -18,11 +18,12 @@ updated: 2026-09-10
 There are seemingly three words for "hook" in Biblical Hebrew and one in
 Mishnaic. *Vav* seems to be the most basic, the fittings of the Mishkan's
 pillars, and it occurs nowhere else in Tanach. *Agmon* is a **hooked reed** or
-thistle, used as a fishhook and then for anything bent. *Shfataim* occurs once
-and is disputed: **hooks** (Targum, Rashi) or a **ledge or setting for pots**
-(Radak, Abarbanel). *Ankliyot* is the Mishnaic word, which appears to be a Greek
-loanword, the barbed part of a hook, and it is what Targum reaches for whenever
-it renders any of the others.
+thistle, used, as Rabbi Pappenheim explains it, as a fishhook and then for
+anything bent. *Shfataim* occurs once and is disputed: **hooks** (Targum, Rashi)
+or a **setting for pots** (Radak, Abarbanel) or a **ledge** (Rabbi Eliezer of
+Beaugency). *Ankliyot* is the Mishnaic word for a hook, especially its barbed
+part, and appears to be a Greek loanword; it is what Targum uses for *shfataim*
+and, at least at Iyov 40:26, for *agmon*.
 
 ## Distinctions
 
@@ -40,8 +41,8 @@ nowhere else in Tanach. Rashi (to Shemos 27:10) glosses *vavim* as *ankliyot*.
 
 ### ankliyot (אנקליות)
 The Mishnaic word (Pesachim 5:9, Tamid 3:5, Middos 3:5, Keilim 12:2-3),
-especially the barbed part of a hook. It appears to be a Greek loanword, and the
-column reports it as related to the English *anchor*, *angle*, *angling*, *ankle*
+especially the barbed part of a hook. It appears to be a Greek loanword, and
+seems to be related to the English *anchor*, *angle*, *angling*, *ankle*
 and *hang*: on the linguists' account Greek and English/Germanic both descend
 from Proto-Indo-European, and the forebear of the family is the PIE *ang*/*ank*,
 "to bend." Some scholars even trace to that word the name of the Angles, the
@@ -52,7 +53,7 @@ adept at angling; if so, *onkliyot* is also the ultimate etymon of the word
 it is spelled with an initial ayin, and to render *agmon* at Iyov 40:26, at
 least there.
 
-The column adds a speculation of its own, that it began to wonder whether the
+Rabbi Klein adds a speculation of his own: he began to wonder whether the
 Greek *onkliyot* is somehow related to the Greek personal name Onkelos, borne by
 the author of the Targum; a similar Greek name, Akylas, belonged to another
 famous translator of the Torah, and some have argued the two translators were one
@@ -61,20 +62,21 @@ Onkelos* (Manchester University Press, 1970), which cites a letter Shadal wrote
 to the Maskilic scholar Rabbi Shlomo Yehuda Rappaport of Prague (1786-1867).
 There Shadal argues that the Greek *onkliyot* actually derives from the Hebrew
 root ע-ק-ל, "crooked," and that people who knew the Hebrew term therefore
-mispronounced Onkelos as Akylas; the aleph/ayin difference between the two need
-not trouble us, since in this Greek word the two letters interchange anyway.
+mispronounced Onkelos as Akylas. The aleph/ayin difference between the two need
+not trouble us, Rabbi Klein remarks, since in this Greek word the two letters
+interchange anyway.
 
 ### agmon (אגמון)
 Five appearances (Iyov 40:26, 41:12; Yeshayahu 9:13, 19:15, 58:5). This is the
-third biblical word, and the column notes that Rabbi Shlomo of Urbino does not
-explicitly list it as a synonym of *vav* and *shfataim*. *Machberes
+third biblical word, one that Rabbi Shlomo of Urbino does not
+explicitly list as a synonym of *vav* and *shfataim*. *Machberes
 Menachem* defines it as a cane with a hooked top. Radak takes it as a kind of
 reed, reading א-ג-ם against ג-מ-א by metathesis, from which *gome*, reed. Rabbi
 Shlomo Pappenheim works the same ground from the two-letter root ג-מ, absorbent
 or spongy matter: *agam* is a swamp, which soaks up water and stays wet; *gome*
-is the spongy reed that grows there; *agmon* is a hook-topped thistle of the
-same marshland, used as a fishhook, and from there the word came to mean
-anything hooked or bent. Targum renders *agmon* differently in
+is the spongy reed that grows there; *agmon* is primarily a hook-topped thistle
+that also commonly grows in such marshland; it was commonly used as a fishhook,
+and from there the word came to mean anything hooked or bent. Targum renders *agmon* differently in
 Yeshayahu 9:13 and 19:15, as *hegmon*, itself a word of Greek origin and the
 antecedent of English *hegemony*, a reading Radak cites in *Sefer HaShorashim*;
 at Yeshayahu 58:5 Targum leaves it untranslated.

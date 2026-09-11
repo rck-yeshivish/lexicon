@@ -16,10 +16,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Dilug* is **skipping**: the focus is on what got passed over. *Kefitzah* is
-**leaping**: the focus is on covering ground fast. *Pesach* holds both, which is
-what Rashi means when he calls it an expression of *dilug* and *kefitzah*
-together.
+On Rabbi Klein's account, *dilug* is **skipping**: the focus is on what got
+passed over. *Kefitzah* is **leaping**: the focus is on covering ground fast.
+*Pesach* holds both, and that, he explains, is what Rashi means when he calls it
+an expression of *dilug* and *kefitzah* together.
 
 ## Distinctions
 
@@ -30,11 +30,11 @@ body forward; Rambam and the Rosh cite the same in their commentaries to Mishnah
 Ohalos 8:5. Wertheimer suggests measuring it by height rather than form: in Shir
 HaShirim 2:8 *midaleg* is over mountains and *mikapetz* over hills, so *dilug*
 is the higher of the two. Rabbi Klein posits, in his own voice, that the
-controlling sense is what is skipped, and that *dilug* is therefore more
-accurately "skipping" and *kefitzah* "jumping": English "skip" carries both the
-gait and the evasion ("he skipped the boring parts"), and the two are in truth
-conceptually one, since a skipping step is exactly a way of not treading on what
-lies underfoot, and the Hebrew verb covers both. Rabbi Yaakov Lorberbaum of Lisa allows that
+controlling sense is what is skipped, and that *dilug* could therefore more
+accurately be called "skipping" and *kefitzah* "jumping": English "skip" carries
+both the gait and the evasion ("he skipped the boring parts"), and the two are
+in truth conceptually similar, since a skipping step is a way of not treading on
+what lies underfoot, and the Hebrew verb covers both. Rabbi Yaakov Lorberbaum of Lisa allows that
 *dilug* may in fact be the faster motion, but holds that its focus is still on
 what is skipped and not on the speed.
 
@@ -56,8 +56,8 @@ contradict the Rash: a goat that jumps off a roof is *kofetz* (Bava Kama 2:3),
 and so is the marten that jumps from the ladder to the dovecote (Bava Basra
 2:4), while a man permitted to jump over graves to greet a king is *midaleg*
 (Berachos 19b). These suggest that *doleg* is not confined to animals nor
-*kofetz* to people, and the column adds that Shir HaShirim 2:8 proves it, since
-one subject takes both verbs.
+*kofetz* to people, and Rabbi Klein adds that Shir HaShirim 2:8 proves it, since
+there both verbs apply to one subject.
 
 ### pesach (פסח)
 Root פ-ס-ח. Rashi (Shemos 12:11 and 12:13, Yeshayahu 31:5): an expression of
@@ -71,7 +71,8 @@ seemed *as if* He jumped over them. What was skipped was the general
 requirement, that a man first perform some act of commitment sealing his bond
 with Hashem before Hashem lets him come close; at the Exodus, though they had
 not yet shown that desire, He did miracles for them and took them out anyway.
-Rabbi Nachshon Schiller supplies the *kefitzah*: kabbalistic sources assert that
+Rabbi Nachshon Schiller focuses on the haste, the element Rabbi Klein ties to
+*kefitzah*: kabbalistic sources assert that
 Klal Yisrael had fallen to the forty-ninth level of *tumah*, and another moment
 in Egypt would have brought them to the fiftieth, from which there is no
 recovering, so the redemption had to be immediate, and the Korban Pesach is

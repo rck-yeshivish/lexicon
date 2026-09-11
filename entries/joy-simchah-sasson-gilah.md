@@ -15,13 +15,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Simchah* is the inner, continual gladness: **joy, gladness** (the general word).
+*Simchah* is the inner, continual gladness: **joy, gladness**.
 *Sasson* is joy shown outwardly, in dress, music, celebration: **rejoicing** (Malbim);
 for the Vilna Gaon it is the joy attained at the end, where *simchah* begins the
 pursuit. *Gilah* is a burst of joy that does not last (Malbim), or the joy of
 recalling past joys (Gra): **exultation, a burst of joy**. *Rinah* is joy that breaks
-into song of Hashem's praise: **joyous song**. *Ditzah* and *chedvah* are the
-Aramaic words for joy: **mirth, delight**. Both
+into song of Hashem's praise: **joyous song**. *Ditzah* and *chedvah* are, on
+many commentators' account, Aramaic forms of the word for joy: **mirth, delight**. Both
 ששון ושמחה and שמחה וששון are scriptural, and Chazal darshen the order (Sukkah 48b).
 
 ## Distinctions
@@ -42,7 +42,7 @@ Mashiach the ecstasy will *begin* with *sasson* and open onto further *simchah*
 according to one's merits, which is why the pasuk of the redemption, ששון ושמחה
 ישיגו (Yeshayahu 35:10, the Gemara's proof-text), puts *sasson* first, while Esther 8:16 puts *simchah*
 first; on his reading each is superior in its own context, which is why the
-order varies. The column's own resolution of the Gemara's contest (Sukkah 48b),
+order varies. Rabbi Klein's own resolution of the Gemara's contest (Sukkah 48b),
 on Malbim's terms, is that it seems both are right and the dispute reflects a
 chicken-and-egg: sometimes the inner feeling comes first and bursts outward,
 sometimes the outward celebration rouses the inner mood.

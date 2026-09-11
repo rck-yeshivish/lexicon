@@ -34,14 +34,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tziyon* and *Yerushalayim* are not interchangeable. *Tziyon* is the **City of
-David**, a separate walled city that only later came inside the walls of
-**Yerushalayim**; the nechamah formula says "the mourners of Tziyon and
-Yerushalayim" because they are two. Where *tziyon* stands for the Beis
-HaMikdash or for Klal Yisrael, it is the common noun *tziyun*, "outstanding",
-not the place. Where the Hebrew uses *Tziyon* for the whole city, some sources call it a
-synonym, though the column suggests that synecdoche, the part naming the whole,
-may be the more accurate term.
+*Tziyon* and *Yerushalayim* do not necessarily name the same place. *Tziyon* is
+the **City of David**, a separate walled city that only later came inside the
+walls of **Yerushalayim**; the nechamah formula, "the mourners of Tziyon and
+Yerushalayim," already implies that they are two. Where *tziyon* stands for the
+Beis HaMikdash or for Klal Yisrael, it is, on Rabbi Tukachinsky's reading, the
+common noun *tziyun*, "outstanding", not the place. Where the Hebrew uses
+*Tziyon* for the whole city, some sources suggest it serves as a synonym, though
+Rabbi Klein proposes that synecdoche, the part naming the whole, may be the more
+accurate term.
 
 ## At a glance
 
@@ -62,7 +63,7 @@ bring the Aron up *from the City of David, which is Tziyon*. Rashi (to Sotah
 Michel Tukachinsky disagrees with some of this: *Tziyon* in Tanach is not always
 an adjoining city but at times a neighborhood inside Yerushalayim. The Zohar
 (*Idra Zuta* 296b) says the two are two spiritual levels, one the aspect of
-*rachamim* and the other the aspect of *din*, which the column takes as
+*rachamim* and the other the aspect of *din*, which Rabbi Klein takes as
 suggesting that both names denote one physical place.
 
 **Where Har Tziyon is.** Tehillim 48:3 places it *yarkesei tzafon*, in the
@@ -84,7 +85,7 @@ north.
    Ibn Ezra came only after he had already written, mistakenly, that Har Tziyon
    lies to the north.
 
-The column's own comment is that none of the first three sources agree with what
+Rabbi Klein's own comment is that none of the first three sources agree with what
 we today call Har Tziyon, which is southwest of the Old City, and that the
 Midrash makes this very point.
 
@@ -92,14 +93,14 @@ Midrash makes this very point.
 topographer, concedes that "mountains of Tziyon" or "mountain of Tziyon" can
 mean not Har Tziyon itself but the mountains of that general vicinity, taking in
 Har Tziyon, Har HaMoriah, and Har HaZeisim, so that when Tziyon appears
-alongside the Mikdash it covers the Temple Mount as well. Tukachinsky reaches
-the same place from the other side: where *tziyon* means the Mikdash, Har Tziyon
-is Har HaMoriah.
+alongside the Mikdash it can include the Temple Mount as well. Tukachinsky
+reaches the same place from the other side: where *tziyon* means the Mikdash,
+Har Tziyon sometimes refers to Har HaMoriah.
 
 ## Distinctions
 
 ### Tziyon (ציון)
-Called *Ir David* and *Metzudas David*, and walled on its own (Rashi to Shmuel II
+Sometimes called *Ir David* and *Metzudas David*, and walled on its own (Rashi to Shmuel II
 8:7). Yerushalayim's outer walls were only later extended to enclose it, which
 may have happened in the late first Beis HaMikdash period or at the beginning of
 the second. Because it was added later, its halachic status for eating
@@ -110,9 +111,8 @@ merged; that wall marked out where within greater Yerushalayim one might eat
 from the korbanos. The Vilna Gaon (to Yeshayahu 1:9): the populations differed
 too, the noblemen living in Tziyon and the common people in Yerushalayim.
 
-The column tells the following of the Rogatchover Gaon, whom it describes as an
-anti-Zionist rabbinic figure. Asked his opinion of Zionism, he did not answer
-directly but replied playfully that Tziyon is an area outside Yerushalayim
+The Rogatchover Gaon, an anti-Zionist rabbinic figure, was once asked his
+opinion of Zionism. He did not answer directly but replied playfully that Tziyon is an area outside Yerushalayim
 proper where gentile heretics historically gathered: the Mishnah rules that
 spittle found in the Upper Marketplace is presumed to come from a non-Jew
 (*Shekalim* 8:1), and he explained that this is the area called Tziyon. By
@@ -125,13 +125,13 @@ Written *Yerushalem* in Tanach and in Aramaic, a singular form, from which the
 English "Jerusalem" comes; the traditional pronunciation *Yerushalayim* is a
 dual, which is heard as alluding to two cities joined into one. The Targum
 reads *shevet achim gam yachad* (Tehillim 133:1) as the unity of the twin
-cities, and the column's illustration is Buda and Pest becoming Budapest.
+cities, and Rabbi Klein's illustration is Buda and Pest becoming Budapest.
 
 ### tziyon as a common noun
 Rabbi Tukachinsky: at Yoel 4:18 and Tehillim 2:6 *tziyon* names the Beis
 HaMikdash, and at Yeshayahu 51:3 it names Klal Yisrael. In those places it is
-not a proper name at all but the common noun from *tziyun*, a marker, hence
-something singled out and outstanding.
+not a proper name at all but a common noun meaning "outstanding," derived from
+*tziyun*.
 
 ## Rendering guidance
 

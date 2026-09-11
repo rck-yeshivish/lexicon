@@ -16,13 +16,12 @@ updated: 2026-09-10
 ## Bottom line
 
 *Nachalah* is **inheritance** in the sense of a patrimony: property that comes
-down the generations from father to son, ordinarily as one portion among
-several. *Yerushah* is **inheritance** as a bare legal transfer: property that
-passes out of one man's *reshus* into another's, with no assumption that it was
-willingly given or that anyone else shares in it. *Achuzah* is the **holding**,
-inherited property the heir has actually taken hold of. The column gives
-several competing approaches to the first two, and they do not reduce to one
-another.
+down the generations (Malbim), or one portion among several (Shadal).
+*Yerushah* is **inheritance** as a bare legal transfer: property that passes out
+of one man's *reshus* into another's, with no assumption that it was willingly
+given (Malbim), or with no one else sharing in it (Shadal). *Achuzah* is the
+**holding**, inherited property the heir has actually taken hold of. Several
+competing approaches separate the first two.
 
 ## Distinctions
 
@@ -52,17 +51,17 @@ Avinu, childless, complained that his household steward was seemingly destined
 to inherit everything, and the word he used was *yoresh* (Bereishis 15:3) and
 not *nochel*. Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi Mecklenburg: the
 root is reish-shin, allied to *rosh*, since the heir becomes the head of the
-estate he takes over. The column adds that the English *inherit* comes from the
-Latin *inhereditare*, "to be appointed as heir," on which reckoning too the one
-who inherits assumes the deceased's position of power. Rav Hirsch, in what the
-column calls an almost-prophetic reading of current events: *yerushah* belongs
+estate he takes over. The English *inherit* comes from the Latin
+*inhereditare*, "to be appointed as heir," on which reckoning too the one who
+inherits assumes the deceased's position of power. Rav Hirsch, in what Rabbi
+Klein calls an almost-prophetic reading of current events: *yerushah* belongs
 with *geirush* ("chasing away") and with Koresh, the Persian king who conquered
 the whole civilized world for himself, and who by some legends came to the
 throne by killing his own grandfather; it is the model in which the young
 generation treats itself as primary, rejects its connection to the past, and,
 bereft of its elders, is free to enjoy the fruits of what they built.
 
-An unnamed view in the column narrows both differently: *nachalah* is strictly
+Others narrow both differently: *nachalah* is strictly
 father-to-son, while *yerushah* covers inheritance between relatives generally,
 even outside the direct line.
 
@@ -70,7 +69,7 @@ even outside the direct line.
 Root א-ח-ז, "to hold." Malbim: *achuzah* is inherited property of which the heir
 has already taken possession and now holds (*ocheiz*). Property not yet taken in
 hand, because it lies far off or is still disputed, is called *nachalah* or
-*yerushah* without the *achuzah* modifier. This is why the two combine in the
+*yerushah* without the *achuzah* modifier. The word commonly appears in the
 construct *achuzas nachalah*.
 
 ## Rendering guidance

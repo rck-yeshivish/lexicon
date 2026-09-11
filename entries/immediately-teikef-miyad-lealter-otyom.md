@@ -18,32 +18,33 @@ updated: 2026-09-10
 All four are Rabbinic Hebrew, none of them in Tanach, and all four mean
 "immediately." *Teikef* is **immediately after**, one thing hard on the heels of
 another (it also means physically pressed close together). *Miyad* is
-**straightaway**, literally "from hand," the readiness of what is already in
-your hand. *Le'alter* is **on the spot**, a contraction of *al atar*. *Otyom* is
-a technical Mishnaic term; Rav Hai Gaon, the
-*Aruch*, Rashi and Rashba all hold it is a Greek loanword, and the column
-identifies the Greek as εὐθέως, *eutheos*, "immediately."
+**straightaway**, literally "from hand," which suggests the readiness of what is
+already in your hand. *Le'alter* is **on the spot**, which some commentators
+explain as a contraction of *al atar*. *Otyom* is a technical Mishnaic term; Rav
+Hai Gaon, the *Aruch*, Rashi and Rashba all hold it is a Greek loanword, and the
+Ancient Greek εὐθέως, *eutheos*, means "immediately."
 
 ## Distinctions
 
 ### teikef (תיכף)
 Carries both senses at once: "closely pressed together" in space and "rapidly
 succeeding each other" in time. Two objects set right beside one another and two
-events falling right after one another take the same word. This is the column's
-governing idea, which it says may help shed light on the set: that Hebrew, and
-even English, joins the spatial and the temporal, an idea the Maharal of Prague
-(1525-1609) had already expressed long before the space-time continuum entered
-physics in the last hundred years; *olam* (the whole world / forever) and
-*lifnei* and *acharei* (before and after, in place and in time) work the same
-way.
+events falling right after one another take the same word. This is Rabbi
+Klein's governing idea, which he says may help shed light on some of the set:
+the joining of space and time, an idea the Maharal of Prague (1525-1609) had
+already expressed long before the space-time continuum entered physics in the
+last hundred years, is reflected in Hebrew, where some words (and even some
+English ones) carry both a spatial and a temporal meaning; *olam* (the whole
+world / forever) and *lifnei* and *acharei* (before and after, in place and in
+time) work the same way.
 
 ### miyad (מיד)
-Hyper-literally "from hand." What sits in a man's hand is the most readily
-transferred thing there is, passing straight to the next hand without an interval;
-so too an event that follows the one before it with nothing in between. The
-column adds a thought of its own, that it once wondered whether the English
-"off-hand" is related to *miyad*, so that "I don't remember off-hand" would mean
-"I don't immediately remember."
+Hyper-literally "from hand," which suggests a link between time and space. What
+sits in a man's hand is the most readily transferred thing there is, passing
+straight to the next hand without an interval; so too an event that follows the
+one before it with nothing in between. Rabbi Klein adds a thought of his own: he
+once thought the English "off-hand" might be related to *miyad*, so that "I
+don't remember off-hand" would mean "I don't immediately remember."
 
 ### le'alter (לאלתר)
 Some commentators, among them Rabbi Yishaya Pick-Berlin (1725-1799) and Rabbi
@@ -61,8 +62,8 @@ abbreviation of a Hebrew phrase spelling out the halachic definition of
 pointing out that it does not square with the Gemara's conclusions about that
 definition, and prefers Rav Hai Gaon (in the commentary to Niddah ascribed to
 him), *Sefer HaAruch*, Rashi (Yoma 6a, Kerisos 17b) and Rashba (*Toras HaBayis*
-7:3), who all write that *otyom* is actually a Greek word. The column names it:
-the Ancient Greek εὐθέως, *eutheos*, means "immediately."
+7:3), who all write that *otyom* is actually a Greek word. Indeed, the
+Ancient Greek εὐθέως, *eutheos*, means "immediately."
 
 ## Rendering guidance
 

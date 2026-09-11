@@ -22,12 +22,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Ten words, and they are not interchangeable. Three name the manufacture: *pesel*
-is a **carved image**, *masechah* a **molten image**, *matzeivah* a **standing
-pillar**. Four are terms of contempt: *elilim* are **nothings** (or hollow
-things), *gilulim* **dung-idols**, *shikutzim* **abominations**, *terafim*
-**rotten things**. *Atzabim* are **images** made of parts, or the things that
-grieve their worshippers. *Chamanim* are named from *chamah*, the sun, because
+Ten words, and they are not interchangeable. *Pesel* is the idol
+**disqualified** from legitimate worship, *masechah* a **molten image**,
+*matzeivah* a **standing pillar** that cannot move of itself. *Elilim* are
+**nothings** (or hollow things), *gilulim* **dung-idols**, *shikutzim*
+**abominations**, *terafim* things that can **rot**. *Atzabim* are, literally,
+**bones**, idols made of parts, or the things that grieve their worshippers. *Chamanim* are named from *chamah*, the sun, because
 they are left standing outside in it. *Asherim* are the idols that get their
 **validation** only from others, or, on the Raavad's reading, that must be
 propped back up by others. Unlike the ten Names
@@ -39,7 +39,8 @@ reproaches.
 *Avos d'Rabbi Nosson* ch. 34: as there are ten Names for Hashem, so there are
 ten words for idolatry. Malbim: the correspondence is deliberate, since Hashem
 set the forces of good and of evil in balance so that a person's choice would be
-genuinely free, which is the ground of all reward and punishment. Maharitatz
+genuinely free. That freedom of choice is the ground of all reward and
+punishment. Maharitatz
 (Rabbi Yom Tov Tzahalon) cautions that the
 ten Names all name One, but the ten words for idolatry name ten different sorts
 of idol worship and are not contextually interchangeable, even though Chazal saw
@@ -53,14 +54,13 @@ a holy spirit dwells within the idol when in truth it is hollow and empty; and
 the version of Rashi to Shabbos 149a cited by Rabbeinu Nissim and Ritva, that
 their existence was imagined in the empty cavity of their worshippers' hearts.
 The printed Rashi there instead links *elilim* to *chalalim*, corpses,
-lifeless things. Separately, Rashi (Vayikra 19:4; Yirmiyahu 14:14; Zechariah
+ostensibly because idols, like corpses, are lifeless things. Separately, Rashi (Vayikra 19:4; Yirmiyahu 14:14; Zechariah
 11:17; Iyov 13:4), Ibn Ezra (Vayikra 19:4), and Ramban (Iyov 13:4) derive *elil*
 from *al*, "not": the sheer nothingness of an idol's power.
 
 ### pesel (פסל)
 From *pasul* / *nifsal*, disqualified: the idol is ruled out of the range of
-legitimate worship. (The same root gives carving, which is why *pesel* is the
-carved image.)
+legitimate worship.
 
 ### masechah (מסכה)
 From *nisuch*, pouring: Malbim and Rabbi Shlomo Pappenheim, metal idols formed
@@ -73,7 +73,7 @@ From *nitzav*, standing: the single-stone altar, and by extension the idol that
 must stand where it is put and cannot move of itself.
 
 ### atzabim (עצבים)
-Given in the column as literally "bones," idols being assembled from many parts
+Literally "bones": idols are assembled from many parts
 as a body is from bones, where Hashem is not composed of parts at all. Malbim
 reads it from *atzuv*, grieved: they sadden those who serve them, because they
 never deliver what was expected.
@@ -83,11 +83,11 @@ From *megual*, defiled, and *glalim*, excrement. Rabbeinu Shimshon of Shantz and
 *Pirush HaRaavad* to *Toras Kohanim* make an important restriction: the disgust
 is not at the sin of idolatry but at the physical state of the idols themselves.
 Left out in the rain, wooden idols go moldy and metal ones rust; scorched by
-fire they turn filthy and repulsive. Malbim locates the disgust in the faces of
-the images, portrayed as insects, moles, and bats.
+fire they can turn filthy and repulsive. Malbim locates the disgust in the faces of
+the images, sometimes portrayed as insects, moles, and bats.
 
 ### terafim (תרפים)
-From rotting: they go putrid.
+From rotting: they can go putrid.
 
 ### shikutzim (שקוצים)
 From *sheketz*, an abomination; the plain sense is that they are abominable.

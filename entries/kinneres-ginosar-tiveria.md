@@ -32,11 +32,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-One lake, three names, each taken from whichever city on its shore was most
-prominent at the time: **Kinneret** in Tanach, **Ginosar** in the Targumim and
-in the works of that era, Josephus included, and **Yamah shel Tiveria**, the Sea
-of Tiberias, in the Gemara. It seems, the column says, that the lake has no
-name of its own at all. "The Sea of Galilee" is a later regional label and
+One lake, three names, each seemingly taken from whichever city on its shore was
+most prominent at the time: **Kinneret** in Tanach, **Ginosar** in the Targumim
+and in the works of that era, Josephus included, and **Yamah shel Tiveria**, the
+Sea of Tiberias, in the Gemara. It seems, Rabbi Klein says, that the lake has no
+name of its own at all. "The Sea of Galilee" is a regional label and
 not the term any of these sources uses.
 
 ## At a glance
@@ -54,18 +54,17 @@ not the term any of these sources uses.
 and fix its location by the nearest body of water, so a *get* written in Tiveria
 must name this lake. Which of its three names is the correct one was disputed at
 length between Rabbi Yosef Karo and Rabbi Moshe ben Yosef of Trani, who sat
-together on the beis din of Tzefas. The column records the dispute without
-setting out either position.
+together on the beis din of Tzefas.
 
 **Where the name Kinneres comes from.** A popular account says the lake is called
 *Kinneres* because its pear shape resembles a *kinnor*, a musical instrument.
-The column states flatly that there is no real source for this. The Gemara
+There is no real source for this. The Gemara
 (*Megillah* 6a), which identifies the Biblical Kinneres with Ginosar, derives the
 name differently and applies it to the city, not the lake: its fruits are as
 sweet as the sound of a *kinnor*. Rabbi Nosson of Rome (*Sefer HeAruch*) defines
-*kinnor* either as a kind of berry, which the column notes Jastrow identifies as
+*kinnor* either as a kind of berry, which Jastrow identifies as
 a thorn jujube (compare Rashi to *Bava Basra* 48b), or as a musical instrument, a
-harp or lyre, so the derashah may be about the fruit twice over.
+harp or lyre.
 
 **Whether Tiveria is a Biblical city.** Two accounts stand against each
 other. Josephus (*Antiquities of the Jews* XVIII:8) has Herod, the Herodian
@@ -87,7 +86,7 @@ Kinnaru was the Canaanite god of music and that the city Kinneres was named afte
 him. The late Dr. Dov Ginzberg of the Geological Survey of Israel argued from
 this that perhaps Chazal avoided the Biblical name because of its idolatrous
 origins and named the lake instead for one of the Jewish cities nearby, Ginosar
-or Tiveria. The column presents all of this as a possibility only, and adds that
+or Tiveria. Rabbi Klein presents all of this as a possibility only, and adds that
 if nothing else, perhaps it accounts for the city Kinneres being renamed Ginosar.
 
 ## Distinctions
@@ -95,8 +94,8 @@ if nothing else, perhaps it accounts for the city Kinneres being renamed Ginosar
 ### Kinneres (כנרת)
 The name the Torah uses in fixing the eastern border of Eretz Yisrael (Bamidbar
 34:11; Devarim 3:17; Yehoshua 12:3, 13:27). Yehoshua 19:35 lists a fortified city
-Kinneres in the territory of Naftali, captured in Yehoshua's day, and the column
-notes that this city's name turns up in various ancient inscriptions as well. The
+Kinneres in the territory of Naftali, captured in Yehoshua's day, and
+this city's name turns up in various ancient inscriptions as well. The
 lake is called the Sea of Kinneres because that city was then the leading
 settlement on its shore. Topographically it is a lake, not a sea, but *yam*
 covers both.
