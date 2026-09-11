@@ -1,8 +1,8 @@
 ---
 cluster: nothing
 hebrew: [הבל, ריק, אפס, תהו, בהו, בלימה, מאומה, כלום, מה, בלי]
-roots: [ה-ב-ל, ר-י-ק, א-פ-ס, ת-ה-ה, ת, ב, מ-ה, מ-מ, ב-ל-ם]
-translit: [hevel, hevle, havel, rik, reik, reikanya, larik, efes, tohu, sohu, bohu, vohu, toheh, tohe, tahiya, bahiya, blimah, blima, bli, meumah, meuma, meum, klum, mah, mahshehu, kolshehu, tehom]
+roots: [ה-ב-ל, ב-ל, ר-י-ק, ר-ק, א-פ-ס, פ-ס, ס-פ, ת-ה-ה, ת, ב, מ-ה, מ-מ, ב-ל-ם]
+translit: [hevel, hevle, havel, rik, reik, reikanya, larik, varik, reikam, efes, afes, tohu, sohu, bohu, vohu, toheh, tohe, tahiya, bahiya, blimah, blima, bli, meumah, meuma, meum, klum, mah, mahshehu, kolshehu, tehom]
 english: [futility, vanity, emptiness, for naught, formless, void, nothing, anything, nothingness]
 domain: other
 words:
@@ -15,48 +15,53 @@ words:
 sources:
   - wiaw:11095 "An Article About Nothing (Part 1 of 2)" (2023-09-09) https://articles.ohr.edu/articles/an-article-about-nothing-part-1-of-2
   - wiaw:11087 "An Article About Nothing (Part 2 of 2)" (2023-09-16) https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2
-authorities: [Rabbi Avraham Bedersi, Shadal, Malbim, Rashi, Targum Onkelos, Targum pseudo-Yonasan, Targum Neofiti, Sefer HaBahir, Zohar, Ramban, Ralbag, Abarbanel, Rabbi Nissim of Marseilles, Rabbi Avraham bar Chiyya HaNasi, Rabbi Shlomo Pappenheim, Rabbi Moshe Botarel, Rabbi Levi ben Shlomo of Lunel, Radak, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Moshe Kimchi, Rabbi Shabsai Donnolo, Sefer Yetzirah, Rabbeinu Bachya, Maharsham, Avraham Even-Shoshan, Rabbi Binyamin Mussafia, Rabbi Yair Chaim Bachrach, Rabbi Yehudah Aryeh of Carpentras, Rabbi Ernest Klein, Wilhelm Gesenius, Rabbi Alexander Hool]
-status: draft
+authorities: [Rabbi Avraham Bedersi, Shadal, Malbim, Rabbi Avraham Dovid Kobernick, Menachem Ibn Saruk, Rabbi Yitzchak Zeldin, Ran, Seder Rav Amram Gaon, Martin Luther, John Calvin, Rashi, Targum Onkelos, Targum pseudo-Yonasan, Targum Neofiti, Sefer HaBahir, Zohar, Ramban, Ralbag, Abarbanel, Rabbi Nissim of Marseilles, Rabbi Avraham bar Chiyya HaNasi, Rabbi Shlomo Pappenheim, Rabbi Moshe Botarel, Rabbi Levi ben Shlomo of Lunel, Radak, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Moshe Kimchi, Rabbi Shabsai Donnolo, Sefer Yetzirah, Rabbeinu Bachya, Maharsham, Avraham Even-Shoshan, Rabbi Binyamin Mussafia, Rabbi Yair Chaim Bachrach, Rabbi Yehudah Aryeh of Carpentras, Rabbi Ernest Klein, Wilhelm Gesenius, Rabbi Alexander Hool]
+status: reviewed
 updated: 2026-09-10
 ---
 # Nothing: hevel / rik / tohu / bohu (efes, blimah, meumah, klum)
 
 ## Bottom line
 
-All of these are Hebrew words for "nothing," and the column sets out the
-nuances that separate them. *Hevel* and *rik*, which *Aleinu* pairs as what the
-other nations serve, denote the impotence and powerlessness of their imagined
-deities. Rabbi Avraham Bedersi makes *hevel* the less intense of the two,
-something that does exist but has no purpose, and *rik* something that does not
-even exist. For Shadal *hevel* is what appears valuable on the surface and is
-ultimately shown to be worthless, a **futility**, and *rik* is toiling for a
-result that yields nothing, labor **for naught**. Malbim takes the exact
-opposite approach: *hevel* is total "nothingness," and *rik* is what has some
-value on the surface until one digs deeper. The column does not decide between
-them. *Efes* is the "nothing" of *Aleinu*'s "nothing exists besides Him." *Tohu*
-and *bohu*, both commonly translated "nothingness," describe the state of the
-world before the Six Days of Creation, and the commentators read them in many
-ways, dividing among other things over which is matter and which is form
-(Ramban: *tohu* matter, *bohu* form; Ralbag the exact opposite). *Blimah*,
-*meumah* and *klum*, the column holds, are etymologically related, all relating
-back to *mah*, "what." *Meumah* means "nothing" and can also mean "anything,"
-because Hebrew allows double negatives; *klum*, its Rabbinic counterpart, also
-means "nothing."
+All of these are Hebrew words for "nothing," and the column sets out the nuances
+that separate them. *Hevel* and *rik*, which *Aleinu* pairs as what the other
+nations serve, denote the impotence and powerlessness of their imagined deities.
+Rabbi Avraham Bedersi makes *hevel* the less intense of the two, something that
+does exist but has no purpose, and *rik* something that does not even exist. For
+Shadal *hevel* is what appears valuable on the surface and is ultimately shown
+to be worthless, a **futility**, and *rik* is toiling for a result that yields
+nothing, labor **for naught**. Malbim takes the exact opposite approach: *hevel*
+is total "nothingness," and *rik* is what has some value on the surface until
+one digs deeper. Rabbi Shlomo Pappenheim, tracing each to its two-letter root,
+makes *rik* (ר-ק, emptying) what is completely lacking in import, as though
+emptied of its very substance, and *hevel* (ב-ל, negation) what is futile,
+somewhat substantial but still mostly useless. The column does not decide
+between them. *Efes*, the "nothing" of *Aleinu*'s "nothing exists besides Him,"
+means "nothing" or "non-existent" in Tanach and also "but, however"; Menachem
+Ibn Saruk holds that sense distinct, while Radak implies that all its meanings
+are interrelated. *Tohu* and *bohu*, both commonly translated "nothingness,"
+describe the state of the world before the Six Days of Creation, and the
+commentators read them in many ways, dividing among other things over which is
+matter and which is form (Ramban: *tohu* matter, *bohu* form; Ralbag the exact
+opposite). *Blimah*, *meumah* and *klum*, the column holds, are etymologically
+related, all relating back to *mah*, "what." *Meumah* means "nothing" and can
+also mean "anything," because Hebrew allows double negatives; *klum*, its
+Rabbinic counterpart, also means "nothing."
 
 ## Distinctions
 
 The first essay opens from *Aleinu*, which contrasts the Jews, who worship the
 "King, King of Kings, the Holy One, blessed be He," with the other nations, who
 serve *hevel* and *rik*. Those two terms denote the impotence and powerlessness
-of the imagined deities the others worship, and amount to saying that those
+of the imagined deities the gentiles worship, and amount to saying that those
 nations worship "nothing." Later in the same prayer a third word for "nothing"
 appears, *efes*. The second essay acknowledges the Mishnah (*Chagigah* 2:1) that
 asking what came before the Creation of the world and what will be after its
 expiration is not a worthwhile course of study, yet the Torah itself (Bereishis
 1:2) teaches that before the Six Days of Creation the world consisted of *tohu*
 and *bohu*. Both words are commonly translated "nothingness"; the column holds
-that understanding their nuances clarifies what the Torah means to teach about
-the state of the world before Creation.
+that understanding their nuances will help one better understand what the Torah
+means to teach about the state of the world before Creation.
 
 ### hevel (הבל)
 The 13th-century Provencal scholar Rabbi Avraham Bedersi (*Chosam Tochnis*)
@@ -78,12 +83,59 @@ line with this he explains the name Hevel that Adam gave his son (Bereishis
 progenitors of mankind, but Hevel was killed before he could produce any
 offspring, proving his futility. Expanding on this, Shadal surmises that Hevel
 received the name only after he died, in retrospect of his unfruitful life,
-which is why Tanach does not report that Chavah named him, as it does for his
-brothers Kayin (4:1) and Sheis (4:25).
+which is why Tanach does not explicitly report that Chavah named him, as it
+does for his brothers Kayin (4:1) and Sheis (4:25).
 
 Malbim takes the exact opposite approach: *hevel* is that which is total
 "nothingness" and has no absolute value, while *rik* is something that has some
 value on the surface, but only when one digs deeper does one realize its folly.
+
+Another approach to differentiating synonyms traces each word back to its
+etymological forebear, and its champion, Rabbi Shlomo Pappenheim of Breslau,
+traces *hevel* and *rik* to their core two-letter roots. He lists *hevel* under
+the biliteral root ב-ל, defined as "negation" and "loss of form," and derives a
+whole family of words from it: *bli*, "without," a negation; *aval*, "but," the
+negation of a previous clause; *bilui*, "worn out," by which something loses its
+form; *teivel*, "the physical world," because all physical entities are subject
+to wear and tear; *neveilah*, an animal carcass, a decomposing dead creature;
+*neivel*, a leather flask made from the skin of a *neveilah*; *naval*, an
+uncouth person, one who has lost his human form; and *yevul*, "produce,"
+because it can easily rot and decompose if not properly preserved, or because
+it comes from seeds that decompose to give way to what grows from them. Along
+the same lines he explains *hevel* as something "futile," which has almost no
+value and is thus negated: something somewhat substantial, but still mostly
+useless and pointless. The 18th-century grammarian and *dayan* Rabbi Yehudah
+Aryeh of Carpentras similarly writes in *Ohalei Yehudah* that *hevel* is a
+portmanteau of *hei*, "this," and *balah*, "is worn out, useless, depleted."
+
+In the Gemara *hevel* refers to highly intangible things, like vapors: the
+*hevel*, the breathy utterances, of the mouths of children (Shabbos 119b); the
+*hevel*, the bad air, inside a pit, by which it mainly causes damage, as opposed
+to the blunt impact of falling into it (Bava Kamma 53a); and insulating foods in
+certain materials that create heat, which are said to "add *hevel*" to them
+(Shabbos 34a). As Radak explains in *Sefer HaShorashim*, verbal utterances are
+*hevel* because they dissipate into the air very quickly and have no staying
+power; the column adds that the same is true of bad air and hot air.
+
+Rabbi Avraham Dovid Kobernick compares ה-ב-ל to its metathesized counterparts
+ב-ל-ה (*bilui*, "wearing out") and ל-ה-ב (*lahav*, "flame"), explaining that all
+three are expressions of destruction and nothingness: *hevel* is something that
+is right now "nothing," *bilui* something on its way to becoming "nothing," and
+*lahav* that which consumes things and turns them into "nothing." He contrasts
+these with their polar opposite, ל-ב (*lev*, "heart"), the mechanism that keeps
+things alive and running.
+
+Returning to the name Hevel, the column holds that Adam and Chavah's son was
+likely given it because he lived only a short time before Kayin killed him, so
+that his life was essentially useless and totally unimportant in the grand
+scheme of things; and Christian writers such as Martin Luther and John Calvin
+have variously translated the name as "vanity," "unprofitable," "useless,"
+"worthless" or "a soon vanishing-vapor." The Ran (Rabbeinu Nissim of Gerona, to
+Bereishis 4:1) and Ralbag (to Bereishis 4:2), however, speculate that perhaps he
+was called Hevel because he was physically smaller than Kayin, so that his
+existence was less substantial and closer to "nothing" than his brother's.
+Alternatively, they suggest, perhaps Adam and Chavah prophesied that he was
+destined to die young, and so named him Hevel to allude to his futile life.
 
 ### rik (ריק)
 Shadal continues that *rik* refers specifically to toiling and working hard to
@@ -93,16 +145,94 @@ presents to those who fail to keep it, "and you will sow your seed for naught
 appears alongside *yegiah*, toiling (Yeshayahu 49:4, 65:23; Iyov 39:16), and in
 *Uva LeTzion* we ask Hashem to open our heart to His Torah and put love and fear
 of Him in our hearts, "so that we do not toil for *rik*." For Bedersi *rik* is
-the more intense word, what does not even exist; for Malbim it is what has some
-value on the surface (both above). Targum Onkelos renders *bohu* of Bereishis
-1:2 as *reikanya*, an Aramaicization of *reik*, a cognate of *rik*.
+the more intense word, what does not even exist (above).
+
+For Malbim *rik* is what has some value on the surface (above), and he compares
+it to the similar word *reik*, "empty," drawing an analogy to the shell or husk
+of something that has no interior and is thus "empty." The shell itself may have
+some value, even though the item as a whole is still "empty," and so essentially
+amounts to "nothing."
+
+Rabbi Shlomo Pappenheim traces *rik* to the biliteral root ר-ק, "emptying" or
+"depleting": *rik* means "nothing" or "vanity" in that it denotes something
+completely lacking in import, as though emptied or depleted of its very
+substance. The related *reikam*, "naught," with the added final mem, likewise
+describes an act or utterance performed "for no reason." He lists many other
+words from this root: *reik*, "empty," of something that is supposed to be full
+but is now devoid of content; *rak*, "but, only," of what is exceptional or lies
+outside the norm, as though emptied or separated from the rest; *merikah*,
+"rinsing, washing," which empties something of all dirty particles; *tamrukin*,
+"cosmetics," treatments that rinse the body of all impurities to leave it clean
+and pristine; *marak*, "soup, broth," a liquid whose substance was distilled
+from the essence of a solid food; *rok*, "spittle," a liquid excretion emptied
+from the body; *rakos*, "slender, skinny," the body emptied of flesh and fat;
+*rekes*, "temple," the area above the cheeks between the eyes and the side of
+the head, typically described as not fleshy or fatty; *rakik*, "wafer," a thin,
+brittle flatbread or cake not fried in oil, and so lean rather than fatty; and
+more (*yerek*, *yarok*, *yerakrak*, *rikmah* and *rokem*).
+
+Targum Onkelos renders *bohu* of Bereishis 1:2 as *reikanya*, an
+Aramaicization of *reik*, a cognate of *rik*.
+
+### hevel and rik in Aleinu
+It may be because of the etymological association between *rik* and *rok*,
+"spittle," the column suggests, that an old Ashkenazi custom developed of
+spitting after saying *varik*, the word in *Aleinu* describing the object of
+pagan worship; it is still practiced in some circles, especially among Chabad
+Chassidim.
+
+A medieval Ashkenazi tradition sees *hevel* and *rik* in *Aleinu* as allusions
+to Jesus, because *hevel* in gematria equals *zol*, "cheap, disgraced," and
+*varik* equals *Yeshu*, the rabbinic name for him (his Hebrew name was Yeshua).
+The column notes that Tanach itself already uses *hevel* of idolatry (Devarim
+32:21; Melachim II 17:15), because that mode of worship is worthless and
+produces nothing of significance. This wording in *Aleinu* made much trouble for
+Jews in Christian Europe throughout history, and because of the damning
+implications of this tradition, the line containing *hevel varik* has often been
+excised by censors.
+
+Although *Aleinu* as we have it reads "the seat of His honor (*yikaro*) is in
+the Heavens above," some sources claim an old custom, found in *Seder Rav Amram
+Gaon*, of refraining from saying *yikaro*, an inflection of the Aramaic *yakar*,
+"honor," because it is an anagram of *varik*, and of saying its Hebrew synonym
+*kevodo* instead.
 
 ### efes (אפס)
-Later in *Aleinu*: "Our King is True, *efes zulaso*," nothing (*efes*) exists
-besides Him. The column names *efes* with *hevel* and *rik* as the three Hebrew
-words for "nothing" explored in Part 1, and Part 2 recalls that Part 1 treated
-all three as meaning "nothing" and that it related *bli*, "without," to the
-concept of "nothingness."
+Later in *Aleinu*: "Our King is True, nothing (*efes*) exists besides Him." In
+using *efes* to say that there is no other potent power in the world besides
+Hashem, *Aleinu* mirrors a prophecy of Yeshayahu, who uses the word the same way
+(Yeshayahu 45:14). According to Even-Shoshan's concordance, *efes* in Tanach
+means "nothing" or "non-existent" (or the "edge" of existence) some thirty-six
+times, and in another five a verb form, *afes*, denotes destroying or emptying
+something in a way that renders it useless or impotent; so *efes* too is a term
+of negation.
+
+In seven more places *efes* means "but, however," broadly synonymous with
+*aval*, *rak* and *ach*. Menachem Ibn Saruk (*Machberes Menachem*) sees this
+meaning as distinct from the others, while Radak (*Sefer HaShorashim*) implies
+that all these meanings are interrelated. On that view, as the column explains
+it, *efes* is a conjunction that qualifies, minimizes or outright negates what
+was said before, as though one recanted or partially recanted one's previous
+statement, which is like turning that statement into "nothing," or at least
+"emptying" it of its previous meaning. The column adds that in Modern Hebrew
+*efes* takes on a numeric sense, "zero."
+
+Rabbi Shlomo Pappenheim traces *efes* to the biliteral root פ-ס, taking the
+initial alef as extraneous to the core root, and defines the root's principal
+meaning as the "edge" or "end" of something: the *kesones passim* Yaakov gave
+Yosef (Bereishis 37:3) is a pleated garment, which has many "edges" (*passim*).
+*Efes*, then, is something that has reached its proverbial end and is therefore
+non-existent, or close to it. He connects to the same root *pesiyah*,
+"expansion," which moves the edges of something by spreading outward, and
+*tefisah*, "holding, grabbing," a way of spreading one's domain by grabbing more
+than before.
+
+Rabbi Yitzchak Zeldin (eighteenth-century Germany) writes in *Shoresh Yesha*
+that *efes* and its metathesized counterpart *osef*, "gathering," are both
+related to the root ס-פ, *sof*, "end, edge": *osef* is a contraction of *ein
+sof*, "there is no end," because it consciously tests the limits of the "end" by
+gathering more, while *efes* denotes something whose beginning and end meet,
+because it is non-existent or close to it.
 
 ### tohu (תהו)
 *Tohu* occurs exactly twenty times in Tanach. Besides Bereishis 1:2, its only
@@ -166,12 +296,12 @@ see below).
 Rabbi Shlomo Pappenheim sees the hei and vav of *tohu* and *bohu* as letters
 added to the core root. *Tohu* derives from the monoliteral tav and denotes an
 outline or silhouette that shapes something's outer contours but whose core
-inner essence has not yet been filled in. This fits an esoteric passage in the
-Gemara (Chagigah 12a) that explains, on Yeshayahu 34:11, *tohu* as "a green line
-that circumscribes the entire world" (something that establishes the boundaries
-of the physical universe) and *bohu* as "the wet stones embedded in the mantle
-from which water goes out" (the external source of water, the essential
-ingredient of all life).
+inner essence has not yet been filled in. The column notes that this fits an
+esoteric passage in the Gemara (Chagigah 12a) that explains, on Yeshayahu 34:11,
+*tohu* as "a green line that circumscribes the entire world" (something that
+establishes the boundaries of the physical universe) and *bohu* as "the wet
+stones embedded in the mantle from which water goes out" (the external source of
+water, the essential ingredient of all life).
 
 As an aside, Rabbi Avraham bar Chiyya HaNasi writes that *tehom*, "depths of the
 sea," whose inflections appear thirty-six times in Tanach, derives from *tohu*,
@@ -207,15 +337,16 @@ relates to *bayis*, "house," a place into which a person might enter.
 Having shown how *meumah* relates to *mah*, the column holds that its last two
 words for "nothing," *blimah* and *klum*, also relate back to *mah*. *Blimah*
 appears only once in Tanach: Iyov describes Hashem as the One who "hangs the
-earth on *blimah*" (Iyov 26:7). On a simple level this means that Hashem
-actively suspends the earth in space ("nothing") without its needing to lean on
-any other cosmic body. Following this understanding, Rabbi Saadia Gaon, Ibn
-Ezra, Rabbi Moshe Kimchi (to Iyov there) and Radak (*Sefer HaShorashim*) all
-explain *blimah* as a portmanteau of *bli*, "without, there is not," and *mah*,
+land on *blimah*" (Iyov 26:7). On a simple level this means that Hashem actively
+suspends the earth in space ("nothing") without its needing to lean on any other
+cosmic body. Following this understanding, Rabbi Saadia Gaon, Ibn Ezra, Rabbi
+Moshe Kimchi (to Iyov there) and Radak (*Sefer HaShorashim*) all explain
+*blimah* as a portmanteau of *bli*, "without, there is not," and *mah*,
 "anything," literally "what." The column recalls that *bli* also relates to the
-concept of "nothingness," a point made in Part 1, and notes that *blimah* is
-sometimes written as two words. In this spirit Rabbi Avraham bar Chiyya HaNasi
-(*Higayon HaNefesh*) writes that *blimah* is synonymous with *tohu*.
+concept of "nothingness," a point from Part 1 (Rabbi Pappenheim's ב-ל family,
+under *hevel* above), and notes that *blimah* is sometimes written as two words.
+In this spirit Rabbi Avraham bar Chiyya HaNasi (*Higayon HaNefesh*) writes that
+*blimah* is synonymous with *tohu*.
 
 On an exegetical plane, Chazal (Chullin 89a) explain *blimah* as a single word
 from the root ב-ל-ם, "withhold, hold back," a cognate of which appears only once
@@ -312,4 +443,4 @@ Rabbi Reuven Chaim Klein, "[An Article About Nothing (Part 1 of 2)](https://arti
 
 Rabbi Reuven Chaim Klein, "[An Article About Nothing (Part 2 of 2)](https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 16 September 2023.
 
-Cited in the essay: *Aleinu*; *Uva LeTzion*; Mishnah *Chagigah* 2:1; Bereishis 1:2, 4:1, 4:2, 4:25, 30:31, 39:23; Vayikra 26:16; Devarim 32:10 and Rashi there; Melachim I 10:21; Yeshayahu 30:7, 34:11, 41:29, 44:9, 45:18, 49:4, 59:4, 65:23; Yirmiyahu 4:23; Tehillim 32:9; Mishlei 31:30; Iyov 26:7, 31:7, 39:16; Daniel 1:4; *Berachos* 38b; *Eruvin* 66a; *Yoma* 54b; *Chagigah* 12a; *Kesubos* 107b; *Kiddushin* 40b, 55b; *Bava Kamma* 76b, 112b; *Bava Basra* 39b; *Zevachim* 13b; *Chullin* 89a; *Bechoros* 42b; Targum Onkelos, Targum pseudo-Yonasan and Targum Neofiti to Bereishis 1:2; Rashi to Bereishis 1:2; *Sefer HaBahir* §2, §11-12, §135, §163; Ramban to Bereishis 1:1; *Zohar* Bereishis 16a; Ralbag and Abarbanel to Bereishis 1:2; Rabbi Nissim of Marseilles to Bereishis 1:2; Rabbi Alexander Hool, *The Six Days of Creation: The Garden of Eden, Dinosaurs, and the Missing Billions* (Mosaica Press, 2022); Rabbi Moshe Botarel, citing Rabbi Levi ben Shlomo of Lunel; Rabbi Avraham Bedersi, *Chosam Tochnis*; Shadal; Malbim; Rabbi Avraham bar Chiyya HaNasi, *Higayon HaNefesh*; Rabbi Shlomo Pappenheim; Rabbi Saadia Gaon, Ibn Ezra and Rabbi Moshe Kimchi to Iyov 26:7; Radak, *Sefer HaShorashim*; Rabbeinu Bachya to Devarim 33:27; *Sefer Yetzirah*, with Ramban and Rabbi Shabsai Donnolo there; responsa *Maharsham* vol. 4 §50, vol. 8 §242; Even-Shoshan's concordance; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Wilhelm Gesenius, lexicon of Biblical Hebrew and Aramaic; Rabbi Dr. Ernest Klein; Rabbi Binyamin Mussafia, *Musaf He'Aruch*; Rabbi Yair Chaim Bachrach, *Mar Kashisha*.
+Cited in the essay: *Aleinu*; *Uva LeTzion*; *Seder Rav Amram Gaon*; Mishnah *Chagigah* 2:1; Bereishis 1:2, 4:1, 4:2, 4:25, 30:31, 37:3, 39:23; Vayikra 26:16; Devarim 32:10 (with Rashi), 32:21; Melachim I 10:21; Melachim II 17:15; Yeshayahu 30:7, 34:11, 41:29, 44:9, 45:14, 45:18, 49:4, 59:4, 65:23; Yirmiyahu 4:23; Tehillim 32:9; Mishlei 31:30; Iyov 26:7, 31:7, 39:16; Daniel 1:4; *Berachos* 38b; *Shabbos* 34a, 119b; *Eruvin* 66a; *Yoma* 54b; *Chagigah* 12a; *Kesubos* 107b; *Kiddushin* 40b, 55b; *Bava Kamma* 53a, 76b, 112b; *Bava Basra* 39b; *Zevachim* 13b; *Chullin* 89a; *Bechoros* 42b; Targum Onkelos, Targum pseudo-Yonasan and Targum Neofiti to Bereishis 1:2; Rashi to Bereishis 1:2; *Sefer HaBahir* §2, §11-12, §135, §163; Ramban to Bereishis 1:1; *Zohar* Bereishis 16a; Ralbag and Abarbanel to Bereishis 1:2; the Ran to Bereishis 4:1; Ralbag to Bereishis 4:2; Rabbi Nissim of Marseilles to Bereishis 1:2; Rabbi Alexander Hool, *The Six Days of Creation: The Garden of Eden, Dinosaurs, and the Missing Billions* (Mosaica Press, 2022); Rabbi Moshe Botarel, citing Rabbi Levi ben Shlomo of Lunel; Rabbi Avraham Bedersi, *Chosam Tochnis*; Shadal; Malbim; Rabbi Avraham bar Chiyya HaNasi, *Higayon HaNefesh*; Rabbi Shlomo Pappenheim; Rabbi Avraham Dovid Kobernick; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Yitzchak Zeldin, *Shoresh Yesha*; Rabbi Saadia Gaon, Ibn Ezra and Rabbi Moshe Kimchi to Iyov 26:7; Radak, *Sefer HaShorashim*; Rabbeinu Bachya to Devarim 33:27; *Sefer Yetzirah*, with Ramban and Rabbi Shabsai Donnolo there; responsa *Maharsham* vol. 4 §50, vol. 8 §242; Even-Shoshan's concordance; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Wilhelm Gesenius, lexicon of Biblical Hebrew and Aramaic; Rabbi Dr. Ernest Klein; Rabbi Binyamin Mussafia, *Musaf He'Aruch*; Rabbi Yair Chaim Bachrach, *Mar Kashisha*; Martin Luther; John Calvin.
