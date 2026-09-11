@@ -29,7 +29,7 @@ words:
 sources:
   - wiaw:11793 "Tazria/Metzora: Spot on (Tzar'at)" (2025-05-03) https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat
 authorities: [Arizal, Rav Hirsch, Rabbi Shlomo Pappenheim, Ibn Ezra, Rabbi Yonah Ibn Janach, Menachem Ibn Saruk, Radak, Peirush HaRokeach, Rabbi Menachem Deutsch, Rabbi Shlomo Tzvi Shick, Rabbi Eliezer Perlmutter, Shadal, Rabbi Moshe David Valle, Rabbi Yehuda Aryeh of Carpentras, Rabbi Tzvi Hirsch Ferber, Rabbi Avi Kobernick, Midrash Tadshe, pseudo-Rashi, Moshe Ossi, Gesenius, Alfred Jones]
-status: reviewed
+status: draft
 updated: 2026-09-10
 ---
 # Leprosy: tzaraas / nega / tzarua / metzora

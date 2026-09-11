@@ -13,7 +13,7 @@ words:
 sources:
   - wiaw:11433 "Shelach: Message on a Pole" (2024-06-29) https://articles.ohr.edu/articles/shelach-message-on-a-pole
 authorities: [Rabbi Yaakov Tzvi Mecklenburg, Zohar, Rabbeinu Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rav Hirsch, Rambam, Rashi, Rabbi Ernest Klein, Rabbi Tzvi Matisyahu Abrahams, Midrash Tanchuma, Mechilta, Even Shoshan, Doron Yaakov]
-status: reviewed
+status: draft
 updated: 2026-09-10
 ---
 # Pole: mot / bad / neis / toren / shapud

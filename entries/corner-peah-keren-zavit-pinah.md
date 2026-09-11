@@ -15,7 +15,7 @@ sources:
   - wiaw:10884 "Vayakhel-Pekudai: Turning the Corner (Part 1/2)" (2023-03-18) https://articles.ohr.edu/articles/vayakhel-pekudai-turning-the-corner-part-12
   - wiaw:10883 "Vayikra: Turning the Corner (Part 2/2)" (2023-03-25) https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22
 authorities: [Rabbi Shlomo Pappenheim, Malbim, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi David Chaim Chelouche, Menachem Ibn Saruk, Ibn Janach, Rashba, Rabbi Yitzchak Zev Yadler, Rabbi Yishmael ben Chachamon, Targum Onkelos, Rashi, Mahari Kara, Shadal, Mordechai Zer-Kavod, Rabbi Benzion Chaim Lubetzky, Avi Hurvitz]
-status: reviewed
+status: draft
 updated: 2026-09-10
 ---
 # Corner: peah / keren / zavit / pinah / miktzoa / katzeh
