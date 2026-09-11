@@ -108,8 +108,8 @@ qualitative completeness and so cannot be a mere count of the passage of time.
 
 - *Shleimus*: "completeness" (the state of lacking nothing)
   or "wholeness." Reach for "perfection" only where the Hebrew itself names
-  the ultimate degree and the context rules out further growth; by
-  Pappenheim's definition the *shalem* may still gain, the "perfect" cannot.
+  the ultimate degree and the context rules out further growth; the
+  *shalem* may still gain, the "perfect" cannot.
 - *Tamim* of a korban: "unblemished." Of a person: "wholehearted" (Malbim's
   undivided intention) or "whole"; "wholesome" or "simple" for the innocent
   sense (the Haggadah's *tam*, Yaakov the *ish tam*); of the Torah: "perfect."

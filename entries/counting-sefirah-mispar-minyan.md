@@ -18,15 +18,15 @@ words:
   - he: מונה
     tr: moneh
     en: to count, to tally
-    distinct: counting things worth counting, from maneh, a respectable portion (Mecklenburg); the count is for the total alone, the individual unit carrying nothing
+    distinct: counting things worth counting, from maneh, a respectable portion (Mecklenburg); the count is for the total alone, the individual unit not necessarily carrying weight
   - he: מנין
     tr: minyan
     en: tally, quorum
-    distinct: the resulting number of a moneh count, and so the quorum of ten, where only the sum matters (the Gra: a general count, against mispar as the specific number)
+    distinct: the resulting number of a moneh count, and so the quorum of ten, where only the sum matters (for the Gra, a general count, against mispar as the specific number)
   - he: מפקד
     tr: mifkad
     en: census, muster
-    distinct: a third set the article leaves for another time; Rabbi Wertheimer treats mifkad as the word for a specific count, against mispar as the general number
+    distinct: a third family for counting and numbering; Rabbi Wertheimer treats mifkad as the word for a specific count, against mispar as the general number
   - he: ספר
     nk: סֹפֵר
 sources:

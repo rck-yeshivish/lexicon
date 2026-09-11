@@ -94,7 +94,7 @@ Africa and Arabia, so that one travelling northwards there approaches Yemen
   absorbs *darom*, *negev* and *teiman*. When two of them stand in one pasuk,
   or when a source contrasts *kedem* with *mizrach*, keep them apart by
   glossing the second: "east (*kedem*, the forward side)."
-- Second trap (ours, not the column's): *kedem* carries both space and time.
+- Second trap: *kedem* carries both space and time.
   Check whether the pasuk means eastward or aforetime before settling on
   either.
 - *Smol* and *yamin* are only north and south when the speaker faces east.

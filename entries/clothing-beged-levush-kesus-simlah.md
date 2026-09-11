@@ -17,7 +17,7 @@ words:
   - he: כסות
     tr: kesus
     en: covering
-    distinct: worn by covering oneself rather than by dressing, like a shawl (Malbim); Rabbi Shlomo Pappenheim: it names clothing's power to protect from heat or cold; Maharik takes it the opposite way, as the fitted garment
+    distinct: worn by covering oneself rather than by dressing, like a shawl; for Rabbi Shlomo Pappenheim it names clothing's function, protection from heat or cold; Maharik takes it the opposite way, as the fitted garment
   - he: שמלה
     tr: simlah
     en: cloak, mantle
@@ -132,7 +132,8 @@ delicate (Wertheimer), and Rabbi Moshe Shapiro ties it to *me'ilah*, betrayal.
 - *Me'il* in the Mishkan chapters is the Kohen Gadol's "robe"; do not vary it to
   "cloak," which belongs to *simlah*.
 - Where *beged* and *kesus* appear together and tailoring is at issue, decide
-  first whether the source follows Malbim or the Maharik.
+  first whether the source follows Malbim's general *beged* with a draped
+  *kesus*, or the Maharik.
 
 ## Notes for a project
 

@@ -18,7 +18,7 @@ words:
   - he: פתרוס
     tr: Patros
     en: Upper Egypt
-    distinct: not a synonym for Mitzrayim; either a son of Mitzrayim and his people (Bereishis 10:14) or, in Egyptian, the land of the south, Upper Egypt (Rabbi Aharon Marcus); the paytan Yanai uses it for Egypt as a whole by poetic license
+    distinct: not quite a synonym for Mitzrayim; either a son of Mitzrayim and his people (Bereishis 10:14) or, in Egyptian, the land of the south, Upper Egypt (Rabbi Aharon Marcus); the paytan Yanai seemingly uses it for Egypt as a whole by poetic license (Rabbi Klein)
   - he: רהב
     tr: Rahav
     en: Egypt (as the haughty one)

@@ -13,7 +13,7 @@ words:
   - he: קרדם
     tr: kardum
     en: adze-axe, mattock
-    distinct: a double-headed tool, an adze blade on one side of the head and an axe blade on the other (Mishnah Keilim 13:3, and so Radak for the Biblical tool too), against Ibn Janach who defines it "spade"
+    distinct: seemingly a double-headed tool, an adze blade on one side of the head and an axe blade on the other (as Mishnah Keilim 13:3 suggests, and so Radak for the Biblical tool too), against Ibn Janach who defines it "spade"
   - he: מעצד
     tr: maatzad
     en: adze
@@ -49,7 +49,7 @@ the **hatchets**, both appearing once only, together in one pasuk. *Maatzad* and
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | גרזן | garzen | axe; pick | for wood and for stone alike; from ג-ר-ז, cutting (Radak); absent from Rabbinic Hebrew |
-| קרדם | kardum | adze-axe, mattock | double-headed, adze and axe on one head (Keilim 13:3; Radak); "spade" for Ibn Janach |
+| קרדם | kardum | adze-axe, mattock | seemingly double-headed, adze and axe on one head (Keilim 13:3; Radak); "spade" for Ibn Janach |
 | מעצד | maatzad | adze | woodworker's shaping tool; the smaller tool, fine scraps (Bava Kamma 10:10) |
 | כשיל | kashil | large axe | hapax, Tehillim 74:6; the larger tool, coarse scraps (Bava Kamma 10:10) |
 | כילפות | keilapot | hatchets | hapax, same pasuk; a woodcutter's tool (Donash), a weapon (Menachem Ibn Saruk) |
@@ -119,9 +119,7 @@ unusual, and Dr. Aaron J. Koller addresses the problem with two possible explana
 shift in the term over time, letting it cover both contexts, or *garzen* as a
 descriptive term for a tool shape that fits both uses. Rabbi Klein adds that in
 light of the etymology tying *garzen* to generic verbs for cutting, the problem
-is less acute to begin with. (In summarizing, he glosses *garzen* as the "adze"
-in woodworking and the "pick" in stoneworking, though elsewhere throughout he
-renders the word "axe/pick.")
+is less acute to begin with.
 
 On cognates, Ibn Janach sees the Hebrew word as the etymon of the now-obsolete
 Arabic *karzam*, also "ax," on the interchangeability of GIMMEL and KAF.

@@ -13,7 +13,7 @@ words:
   - he: גוזר
     tr: gozer
     en: cutter
-    distinct: literally "cutter," Targum Onkelos's word for milah; a Talmudic title for a circumciser that also carries the sense of halachic decisor (Rashi; Rabbeinu Chananel; Rabbi Yissachar Tamar)
+    distinct: literally "cutter," Targum Onkelos's word for milah; a Talmudic title for a circumciser (Rashi; Rabbeinu Chananel), revived in medieval Ashkenaz as an honorific that also meant halachic decisor (Rabbi Yissachar Tamar)
   - he: רופא
     tr: rofeh
     en: physician
@@ -44,7 +44,7 @@ also bled and healed a *rofeh* or an *uman*.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מוהל | mohel | circumciser | the specialist, circumcision his whole profession (Rabbi Yissachar Tamar) |
-| גוזר | gozer | cutter | "cutter"; Onkelos's word for *milah*, and also "decisor" (Rashi; Rabbeinu Chananel) |
+| גוזר | gozer | cutter | "cutter"; Onkelos's word for *milah*; a circumciser's title (Rashi; Rabbeinu Chananel), as a medieval honorific also "decisor" (Rabbi Yissachar Tamar) |
 | רופא | rofeh | physician | a doctor who circumcises, or the surgeon acting as one (Rashi) |
 | אומן | uman | practitioner, bloodletter | a craftsman or bloodletter who circumcises among his trades (Rashi) |
 
@@ -70,15 +70,12 @@ approach as well. Shadal also brings several Semitic roots in Hebrew and Aramaic
 that are semantically interchangeable, one form with a middle vav and the other
 with a middle hei; that would make the post-Biblical *mohel* after all the agent
 noun of *milah*, though Rabbi Klein judges that none of Shadal's examples is that
-clear-cut. Both approaches agree on
-what *mohel* means, so the Bottom line need not choose; for a derashah, Shadal's
-reading makes *mohel* a cutter and Dubno's does not.
+clear-cut.
 
 **What rofeh means in the sugya.** Rashi to Menachos 42a and the Mainz
 commentary attributed to Rabbeinu Gershom: *rofeh* there is the surgeon serving
 as circumciser, so the word does duty for "circumciser." Rashi to Avodah Zarah
-26b: it means a physician who also knows how to perform one. The second is the
-more careful statement.
+26b: it means a physician who also knows how to perform one.
 
 **Why two thirteenth-century Ashkenazi authorities were called HaGozer.** Rabbi
 Yissachar Tamar first suggests continuity, an Eretz Yisrael usage preserved in

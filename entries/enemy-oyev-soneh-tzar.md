@@ -61,7 +61,7 @@ resources to do it. Haman is called *tzorer haYehudim* (Esther 9:10).
 
 - Bamidbar 10:35, *kumah Hashem veyafutzu oyvecha veyanusu mesanecha mipanecha*:
   render as two distinct classes, "let Your enemies be scattered and let those
-  who hate You flee," not "enemies... enemies." On Malbim's reading Moshe is
+  who hate You flee," not "enemies... enemies." On Rabbi Klein's reading Moshe is
   davening that both kinds of Hashem's enemies be vanquished, the one who fights
   Him in deed and the one who, it would seem, only despises Him in his heart, so
   that His glory should keep spreading unimpeded.

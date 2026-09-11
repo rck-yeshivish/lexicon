@@ -85,7 +85,7 @@ names their condition, not their location: they sat in desolation and wept.
   reference is unmistakable.
 - Where a passage builds on Pappenheim's sense of *churban* as severance, do not
   render it "demolition." The point of the word there is precisely that nothing
-  visible was demolished. On the column's reading of Rabbi Chaim of Volozhin
+  visible was demolished. On Rabbi Klein's reading of Rabbi Chaim of Volozhin
   (above), *Churban HaBayis* names that severance and *shemamah* names the
   rubble.
 - *Mishtomem* in a mussar context is "stands astounded," not "is desolate";

@@ -139,7 +139,7 @@ for the southern direction everywhere.
 - Bereishis 8:13-14 and Shemos 14:21-22 both stage the drying. Render the first
   "the waters had drained" or "the surface had dried" and the second "the land
   was dry." Using "dry" twice erases the whole reading of the Vilna Gaon and the
-  Malbim, and the staged reading the column draws out of Mecklenburg.
+  Malbim, and the staged reading Rabbi Klein draws out of Mecklenburg.
 - *Yabashah* as a noun opposite the sea: "dry land." *Charavah* in the same
   role: "dry ground," with the sense of ground firm enough to cross.
 - Vayikra 7:10 *chareivah*: "dry," meaning without oil. If the passage is citing

@@ -17,7 +17,7 @@ words:
   - he: עשתי
     tr: ashtei
     en: (the element in ashtei asar)
-    distinct: from al plus shteim-asar, "upon twelve" (Ibn Janach); or from ashtonot, "thoughts," what is born out of ten (Ibn Ezra); or from eshet, a swollen body, a bloated ten (Rabbi Meir Mintzberg); Radak: unknown
+    distinct: from al plus shteim-asar, "upon twelve" (Ibn Janach); or kin to ashtonot, "plans," which are born of thought as eleven is born out of ten (Ibn Ezra); or from eshet, a swollen body, a bloated ten (Rabbi Meir Mintzberg); or unknown (Radak)
 sources:
   - wiaw:7864 "The Number Eleven" (2018-07-21) https://articles.ohr.edu/articles/the-number-eleven
 authorities: [Rabbi Yonah Ibn Janach, Ibn Ezra, Radak, Peirush HaRokeach, Rabbi Meir Mintzberg]
@@ -113,7 +113,7 @@ Never prefixed with *ha-*.
 ## Rendering guidance
 
 - Default: אחד עשר = "eleven," עשתי עשר = "eleventh," and check the context
-  before overriding, since the correlation is strong but the article concedes it
+  before overriding, since the correlation is strong but Rabbi Klein concedes it
   does not hold everywhere.
 - Trap: English "eleven" will absorb both, and in Devarim 1:2-3 that is exactly
   the loss, since the two forms stand two pesukim apart and the shift is the

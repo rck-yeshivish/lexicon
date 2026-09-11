@@ -148,7 +148,7 @@ contaminant.
 - The famous *zuhamah* of the snake (*Shabbos* 146a, *Yevamos* 103b, *Avodah
   Zarah* 26b), which the primordial snake injected into Chavah and of which all
   Israel was cured at Sinai, is best left transliterated in a mussar or aggadic
-  context. On the column's reading, *zuhamah* in general means dirtiness, but
+  context. On Rabbi Klein's reading, *zuhamah* in general means dirtiness, but
   in this context it may refer to physical or spiritual deformities, or to
   susceptibility to death, both of which temporarily left the Jewish People at
   Sinai. So "filth" alone loses the sense.

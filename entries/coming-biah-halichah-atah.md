@@ -123,7 +123,7 @@ what is missing, as in algebra, the tav too marks a thing off as distinguished.
   parashah alternates them, as the makkos do, hold the pair even when English
   idiom would prefer otherwise, because the Tosafists' reading of *bo el
   Pharaoh* depends on it.
-- *Bo el Pharaoh* in a sefer that follows the Tosafists or the Zohar is better
+- *Bo el Pharaoh* in a work that follows the Tosafists or the Zohar is better
   rendered "come in to Pharaoh," which keeps the sense of entering.
 - *Atah*: "arrive," "has come," "came upon." Not a plain "come," which throws
   away the finality.

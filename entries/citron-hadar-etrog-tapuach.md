@@ -14,11 +14,11 @@ words:
   - he: אתרוג
     tr: esrog
     en: citron
-    distinct: the Mishnaic and Targumic name of the fruit; for the Ramban it is the Aramaic equivalent of hadar, from arag/ragig, "desirable"
+    distinct: the Mishnaic and Targumic name of the fruit; for the Ramban it is the Aramaic equivalent of hadar, a cognate of arag/ragig, "desirable"
   - he: אתרונגא
     tr: etronga
     en: citron (affected form)
-    distinct: Shmuel: one who says etronga is to be suspected of haughtiness; say etrog with the chachamim or etroga with the common folk (Kiddushin 70a)
+    distinct: for Shmuel, one who says etronga is to be suspected of haughtiness; say etrog with the chachamim or etroga with the common folk (Kiddushin 70a)
   - he: טרונגא
     tr: trunga
     en: citron
@@ -26,7 +26,7 @@ words:
   - he: תפוח
     tr: tapuach
     en: apple
-    distinct: ordinarily an apple, but in Shir HaShirim 2:3 the citron (Rabbeinu Tam), whether there alone or generally he does not say
+    distinct: ordinarily an apple, but in Shir HaShirim 2:3 the citron (Rabbeinu Tam), whether there alone or generally is unclear
 sources:
   - wiaw:10055 "The Beautiful Citron" (2022-09-24) https://articles.ohr.edu/articles/the-beautiful-citron
 authorities: [Ibn Ezra, Rambam, Ramban, Raavyah, Baal HaTurim, Rabbeinu Tam, Targum Onkelos, Targum Yonasan, Ra'ah, Ritva, Meiri, Rabbeinu Bachya, Tashbetz, Rabbi Moshe Mintz, Rabbi Meir Mazuz, Chazon Ish, Rabbi David Kochavi of Estelle, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Dr. Zohar Amar, Dr. Michael Sokoloff, Alexander Kohut]
@@ -49,7 +49,7 @@ in Shir HaShirim 2:3 Rabbeinu Tam reads it as a citron (whether there alone or g
 |---|---|---|---|
 | הדר | hadar | beautiful, splendid | a quality, not a fruit; the identification comes by Mesorah (Ibn Ezra, Rambam) |
 | אתרוג | esrog | citron | the Mishnaic name; Onkelos renders *pri eitz hadar* with it |
-| אתרונגא | etronga | citron | an affected form; Shmuel calls its user haughty (Kiddushin 70a) |
+| אתרונגא | etronga | citron | an affected form; for Shmuel its user is suspected of haughtiness (Kiddushin 70a) |
 | טרונגא | trunga | citron | the Eretz Yisrael Aramaic form (Yerushalmi Sukkah 3:10) |
 | תפוח | tapuach | apple | apple, except Shir HaShirim 2:3, where Rabbeinu Tam reads citron |
 

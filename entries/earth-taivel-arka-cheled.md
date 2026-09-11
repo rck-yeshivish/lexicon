@@ -9,11 +9,11 @@ words:
   - he: תבל
     tr: taivel
     en: the inhabited world
-    distinct: the settled parts, as against eretz for the globe entire (Malbim, Metzudas Tziyon) or for Eretz Yisrael (Rashi); from BET-LAMED, mixing, "spiced with everything" or with Torah (Avos d'Rabbi Nasan)
+    distinct: the settled parts, as against eretz for the uninhabited parts (Metzudas Tziyon) or the globe entire (Malbim), or everywhere but Eretz Yisrael (Rashi); from BET-LAMED, mixing, "spiced with everything" or with Torah (Avos d'Rabbi Nasan)
   - he: ארקא
     tr: arka
     en: earth
-    distinct: a hapax, in the one Aramaic pasuk of Yirmiyahu (10:11), though the word itself may be Hebrew beside the Aramaic ara there (Rabbi Shmuel Yaffe-Ashkenazi); Midrash Mishlei reads it from fleeing
+    distinct: a hapax, in the one Aramaic pasuk of Yirmiyahu (10:11), though Rabbi Shmuel Yaffe-Ashkenazi holds the word itself Hebrew, beside the Aramaic ara there; Midrash Mishlei reads it from fleeing
   - he: חלד
     tr: cheled
     en: the transient world

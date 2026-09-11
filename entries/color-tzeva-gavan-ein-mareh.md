@@ -13,7 +13,7 @@ words:
   - he: גוון
     tr: gavan
     en: color, shade
-    distinct: the Aramaic word, absent from Tanach and the Mishnah apart from one disputed case; Rabbi Meir Hellman makes it the abstract color as perceived, against tzeva the concrete colorant
+    distinct: the Aramaic word, absent from Tanach and seemingly from the Mishnah, apart from one possible case; Rabbi Meir Hellman makes it the abstract color as perceived, against tzeva the concrete colorant
   - he: עין
     tr: ein
     en: color
@@ -49,7 +49,7 @@ an Aramaic borrowing of an Indo-European word.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | צבע | tzeva | color, dye, colorant | from *tzovea*, dyeing; artificial color imposed on a thing (Shadal); concrete colorant rather than abstract color (Rabbi Meir Hellman) |
-| גוון | gavan | color, shade | Aramaic only, common in Bavli and Targum, absent from Tanach and (almost) the Mishnah |
+| גוון | gavan | color, shade | Aramaic only, common in Bavli and Targum, absent from Tanach and seemingly from the Mishnah, bar one possible case |
 | עין | ein | color | construct of *ayin*, eye: the specific color, since the eye discriminates colors (Raavad I) |
 | מראה | mareh | appearance, sight | from ר-א-ה: the whole picture, which could include color, not color alone (Malbim to Vayikra 13:5) |
 

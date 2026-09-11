@@ -186,7 +186,7 @@ the place name has a sin.
   corner." Rabbi Chaim Ozer Grodzenski (reported by Rabbi Chaim Pinchas
   Scheinberg at a Degel HaTorah rally) noted the redundancy over a century ago
   and read the phrase as "a corner of a corner," Torah consigned not even to a
-  whole corner; the article, having reported it, says that an explanation given
+  whole corner; Rabbi Klein, having reported it, says that an explanation given
   in a polemic context should probably not be taken as actual linguistic
   analysis. Treat it as a derashah for a note, not a lexical claim.
 - Mishnaic *peah* is a halachic term of art. Leave it as *peah* and gloss it;

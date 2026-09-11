@@ -18,11 +18,11 @@ words:
   - he: בקע
     tr: beka
     en: half-shekel
-    distinct: from ב-ק-ע, "to split"; half a Biblical shekel (Rashi, Rashbam, Ibn Ezra, Radak), which is why Onkelos can render it tikla, a shekel in the Rabbinic sense
+    distinct: from ב-ק-ע, "to split"; half a shekel (Rashi, Rashbam, Ibn Ezra, Radak), meaning the Biblical shekel, which is why Onkelos can render it tikla, a shekel in the Rabbinic sense (Rabbi Yaakov Zev Lev)
   - he: דרכמון
     tr: darkemon
     en: darkemon (a coin)
-    distinct: a named coin worth two selaim (Rambam to Shekalim 2:1), so Targum Yonasan's use of it for beka must be loose, "a coin"
+    distinct: a named coin worth two selaim (Rambam to Shekalim 2:1), so Rabbi Klein presumes that Targum Yonasan uses it for beka loosely, "a coin"
 sources:
   - wiaw:9595 "Vayakhel (Shabbat Shekalim)" (2022-02-26) https://articles.ohr.edu/articles/vayakhel-shabbat-shekalim
 authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ramban, Rambam, Rashbam, Ibn Ezra, Radak, Sefer HaChinuch, Rabbi Menachem Azariah of Fano, Rabbi Yaakov Zev Lev, Rabbi David Schlussel of Munkatch, Rabbi David Cohen, Rabbi Elazar Rokach of Amsterdam, Rabbi Asher Gvirer, Rabbi Elazar HaKallir]
@@ -45,7 +45,7 @@ shekel**, from "splitting."
 |---|---|---|---|
 | שקל | shekel | shekel (Tanach) / half-shekel (Mishnah) | the word shifted register; Rabbinic usage halved it (Ramban) |
 | סלע | sela | sela | the Mishnaic name for the Biblical shekel (Yerushalmi Kiddushin 1:3); also still "rock" |
-| בקע | beka | half-shekel | root ב-ק-ע, "to split" (Rashi, Rashbam, Ibn Ezra, Radak); only Bereishis 24:22 and Shemos 38:26 |
+| בקע | beka | half-shekel | root ב-ק-ע, "to split"; half a shekel (Rashi, Rashbam, Ibn Ezra, Radak); only Bereishis 24:22 and Shemos 38:26 |
 | דרכמון | darkemon | darkemon | a distinct coin, two selaim (Rambam to Shekalim 2:1); Targum Yonasan seemingly uses it loosely for "coin" |
 
 ## Where the authorities disagree

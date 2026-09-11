@@ -14,7 +14,7 @@ words:
     tr: shoev
     en: draw
     nk: שָׁאַב
-    distinct: drawing water with no effort, from a spring or surface pool, no lowering and raising (Malbim); Rabbi Shlomo Pappenheim ties it to ש-ב, bringing flowing water to rest
+    distinct: drawing water with no effort, most commonly from a spring or surface pool, no lowering and raising (Malbim); Rabbi Shlomo Pappenheim ties it to ש-ב, bringing flowing water to rest
   - he: דלי
     tr: dli
     en: pail, bucket
@@ -22,12 +22,12 @@ words:
   - he: דליות
     tr: daliyot
     en: branches at the top of a tree
-    distinct: the topmost boughs, as though lifted and set there (Ibn Janach, Radak); Rabbi Shlomo Pappenheim: they draw water up through the tree
+    distinct: the topmost boughs, as though lifted and set there (Ibn Janach, Radak); for Rabbi Shlomo Pappenheim they draw water up through the tree
   - he: דל
     tr: dal
     en: poor, destitute
     nk: דַּל
-    distinct: Menachem Ibn Saruk files it under ד-ל; Rabbi Shlomo Pappenheim: a man emptied of his fortune as a well is emptied of its water
+    distinct: Menachem Ibn Saruk files it under ד-ל; for Rabbi Shlomo Pappenheim, a man emptied of his fortune as a well is emptied of its water
 sources:
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
 authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Moshe Tedeschi Ashkenazi (Hoil Moshe), Malbim, Shadal, Rabbi Chaim Kanievsky, Wilhelm Gesenius]
