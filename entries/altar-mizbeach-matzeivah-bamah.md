@@ -9,7 +9,7 @@ words:
   - he: מזבח
     tr: mizbeach
     en: altar
-    distinct: the built-up altar of many stones, on which blood and sacrificial parts are offered; named for zevach, sacrifice, and zoveach, slaughtering (Rashi; Radak, Sefer HaShorashim)
+    distinct: the built-up altar of many stones (Rashi), on which blood and sacrificial parts are offered; named for zevach, sacrifice, and zoveach, slaughtering (Radak, Sefer HaShorashim)
   - he: מצבה
     tr: matzeivah
     en: single-stone altar, pillar, monument
@@ -19,7 +19,7 @@ words:
     tr: bamah
     en: high place, private altar
     nk: בָּמָה
-    distinct: literally a high place, a private altar outside the central place of worship; cognate to the bimah, the raised platform (article's reading), and forbidden once the Mikdash stood (Zevachim 14:6)
+    distinct: literally a high place, a private altar outside the central place of worship; related to the bimah, the raised platform, and permitted only while the central sanctuary was temporary (Zevachim 14:6)
 sources:
   - wiaw:7499 "Stones and High Altars" (2017-11-25) https://articles.ohr.edu/articles/stones-and-high-altars
 authorities: [Rashi, Ramban, Radak, Rabbi Yonah Ibn Janach, Rabbi Avraham Maimuni, Zohar, Rabbi Elimelech of Lizhensk, Sifrei, Mishnah Zevachim]
@@ -42,7 +42,7 @@ commanded *mizbeach* with the hated *matzeivah*.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מזבח | mizbeach | altar | many stones; named for *zevach*/*zoveach*, sacrifice and slaughter (Radak, *Sefer HaShorashim*); square with four horns (Shemos 27:1-2) |
-| מצבה | matzeivah | single-stone altar, pillar | one stone, from *netziv*, standing (Rashi); for Ramban not an altar but an idolatrous entrance-pillar |
+| מצבה | matzeivah | single-stone altar, pillar | one stone (Rashi), from *netziv*, standing; for Ramban not an altar but an idolatrous entrance-pillar |
 | במה | bamah | high place, private altar | a private altar, generally on high ground, permitted only while the central sanctuary was temporary (Zevachim 14:6) |
 
 ## Where the authorities disagree

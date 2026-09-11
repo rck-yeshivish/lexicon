@@ -39,8 +39,8 @@ disappears: Targum typically renders both by *kiruv* cognates.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גישה | gishah | approach, come right up to | in awe, or across a gap in rank (Malbim); as close as one can get (Rabbi Shlomo Pappenheim); of people only (Rav Hirsch) |
-| קירוב | kiruv | draw near, bring closer | between equals, still on the way (Malbim); the closeness of mind, not of body (Rabbi Yaakov Tzvi Mecklenburg) |
+| גישה | gishah | approach, come right up to | in awe (Rabbi Yehuda Leib Shapira-Frankfurter), or across a gap in rank (Malbim); as close as one can get (Rabbi Shlomo Pappenheim); of people only (Rav Hirsch) |
+| קירוב | kiruv | draw near, bring closer | between equals (Malbim), still on the way (Rabbi Shlomo Pappenheim); the closeness of mind, not of body (Rabbi Yaakov Tzvi Mecklenburg) |
 
 ## Where the authorities disagree
 

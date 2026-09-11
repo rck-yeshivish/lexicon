@@ -26,7 +26,7 @@ words:
     tr: shokek
     en: roars (of a bear)
     nk: שׁוֹקֵק
-    distinct: disputed; the Vilna Gaon reads it as the hungry bear's roar, Ibn Janach and Radak as its sauntering gait, from shok, the calf of the leg
+    distinct: disputed; the Vilna Gaon reads it as the hungry bear's roar, Ibn Janach and Radak as its sauntering gait, Radak relating it to shok, the calf of the leg
   - he: נוהק
     tr: nohek
     en: brays

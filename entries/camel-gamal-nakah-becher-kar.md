@@ -9,11 +9,11 @@ words:
   - he: גמל
     tr: gamal
     en: camel
-    distinct: the grown camel able to carry loads, and always masculine in form though it can include females (Sefer HeAruch; Rabbi Yitzchak Avineri); Rav Hirsch ties it to weaning, the camel drinking its fill and then needing nothing
+    distinct: the grown camel able to carry loads, and always masculine in form though it can include females (Sefer HeAruch; Rabbi Yitzchak Avineri); Rav Hirsch suggests perhaps it is named for weaning, the camel drinking its fill and then needing no more
   - he: נאקה
     tr: nakah
     en: she-camel
-    distinct: the Mishnaic word for a grown female camel (Shabbos 5:1, Keilim 23:2); on Rabbi Shlomo Pappenheim's system it belongs to נ-ק, emptying or cleaning, the root of nursing
+    distinct: the Mishnaic word for a grown female camel (Shabbos 5:1, Keilim 23:2); Rabbi Reuven Chaim Klein finds it cogent to tie it to nursing, through Rabbi Shlomo Pappenheim's נ-ק, emptying or cleaning
   - he: בכר
     tr: becher
     en: young camel
@@ -21,7 +21,7 @@ words:
   - he: כר
     tr: kar
     en: swift camel / saddle-basket
-    distinct: disputed: a fast-running camel (Ibn Ezra to Yeshayahu 16:1), a camel's saddle-basket (Ibn Ezra to Bereishis 31:34), or a young sheep (Rabbi Yosef Kimchi)
+    distinct: disputed; a fast-running camel (Ibn Ezra to Yeshayahu 16:1), a camel's saddle-basket (Ibn Ezra to Bereishis 31:34), or a young sheep (Rabbi Yosef Kimchi)
   - he: כרכרות
     tr: kirkaros
     en: swift beasts
@@ -49,7 +49,7 @@ and not every view takes either of them as a camel.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | גמל | gamal | camel | the mature load-bearing camel; masculine in form but inclusive in use (*Sefer HeAruch*; Rabbi Yitzchak Avineri) |
-| נאקה | nakah | she-camel | Mishnaic, the grown female (Shabbos 5:1, Keilim 23:2); from נ-ק, the nursing root (Pappenheim) |
+| נאקה | nakah | she-camel | Mishnaic, the grown female (Shabbos 5:1, Keilim 23:2); seemingly tied to nursing, Pappenheim's נ-ק (Rabbi Reuven Chaim Klein) |
 | בכר / בכרה | becher / bichrah | young camel | newborn, load-free, and so impulsive (Rashi to Sanhedrin 52a) |
 | כר | kar | swift camel / saddle-basket | a running camel (Ibn Ezra), a saddle-basket (Ibn Ezra elsewhere), or a lamb (Rabbi Yosef Kimchi) |
 | כרכרות | kirkaros | swift beasts | prominent camels (Ibn Ezra), any fast animal (Radak), or skipping calves (Bechor Shor) |
@@ -62,8 +62,7 @@ young camels, *becher* in the absolute. Rabbi Saadia Gaon (in his Tafsir) and
 Ibn Ezra read the beis as the preposition "with" or "through," leaving *kar*.
 Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*) explicitly refuses any connection
 between *bichrah* and the *kar hagamal* of Bereishis 31:34. Rabbi Reuven Chaim Klein leaves
-the dispute standing; the Bottom line above follows the first camp, which is
-ours, not his ruling. Rabbi Ernest Klein holds *becher* cognate with
+the dispute standing. Rabbi Ernest Klein holds *becher* cognate with
 the Arabic *bakuru* and the Akkadian *bakru*, both of them a young camel.
 
 **What kar means.** Ibn Ezra himself appears to give two answers in two places. To

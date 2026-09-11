@@ -17,11 +17,11 @@ words:
   - he: סומא
     tr: suma
     en: blind man
-    distinct: the Aramaic of the Gemara and Targumim; the root of the name Samael, hence the tradition that the angel is himself blind (Zohar; Rabbi Mordechai HaKohen of Tzfas)
+    distinct: the Aramaic of the Gemara and Targumim; it shares its root with Samael, the Zohar's name for the Angel of Death, who for Rabbi Mordechai HaKohen of Tzfas is in himself blind
   - he: סגי נהור
     tr: sagi nahor
     en: one with light enough
-    distinct: literally "abundant light," a euphemism by antiphrasis; or literally true, his other senses sharpened so that he does have light enough (Kli Yakar)
+    distinct: literally "light enough," a euphemism by antiphrasis; or literally true, his other senses sharpened so that he does have light enough (Kli Yakar)
   - he: סנורים
     tr: sanverim
     en: dazzlement, disordered sight
@@ -86,10 +86,6 @@ crowding Lot's door, and twice at Melachim II 6:18.
   be strong enough to blind those exposed to it; alternatively he cites other
   linguists who tie it to the Akkadian word for night-blindness.
 
-Where this entry chooses one reading, it follows the common ground of Rashbam, Malbim and Rabbi Yehoshua Trunk, that
-*sanverim* involves disordered sight. That preference is ours; the
-views themselves are left standing side by side, with no ruling between them.
-
 **Whether sagi nahor is ironic or true.** The plain reading is antiphrasis, so
 *sagi nahor* is a euphemism for one who cannot see. The *Kli Yakar* (to Bamidbar
 24:4) reads it straight: a blind man's other senses are sharpened, so he
@@ -121,8 +117,7 @@ from the name Samael, as above.
 ### sagi nahor (סגי נהור)
 Aramaic, a portmanteau of *sagi*, "enough," and *nahor*, "light." It names the
 blind man by the rhetorical device of antiphrasis, saying the exact opposite of
-what is meant, so the phrase is euphemistic or sarcastic. (The later idiom
-*lashon sagi nahor* for that device generally is ours, not Rabbi Klein's.)
+what is meant, so the phrase is euphemistic or sarcastic.
 
 ### sanverim (סנורים)
 See the dispute above. In both of its narrative settings the *sanverim* is

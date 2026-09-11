@@ -9,7 +9,7 @@ words:
   - he: ילד
     tr: yeled
     en: child
-    distinct: the general word, tied to no age, from the biliteral ל-ד, birth, so any born child (Rabbi Shlomo Pappenheim); Yishmael is a yeled at sixteen, and Rashi to Erachin 18b puts the Mishnah's yeled anywhere from twenty to sixty
+    distinct: the general word, not necessarily tied to any age, from the biliteral ל-ד, birth, so any born child (Rabbi Shlomo Pappenheim); Yishmael is a yeled at sixteen, and Rashi to Erachin 18b puts the Mishnah's yeled anywhere from twenty to sixty
   - he: עולל
     tr: olel
     en: toddler
@@ -26,7 +26,7 @@ words:
   - he: רביא
     tr: ravya
     en: boy (Aramaic)
-    distinct: Onkelos' standard rendering of yeled (Bereishis 21:8), feminine rivah; from the Aramaic ר-ב, to grow (Rabbi Reuven Chaim Klein)
+    distinct: Onkelos' usual rendering of yeled (Bereishis 21:8), feminine rivah; from the Aramaic ר-ב, to grow (Rabbi Reuven Chaim Klein)
   - he: טליא
     tr: talya
     en: lad (Aramaic)
@@ -54,11 +54,11 @@ themselves see [youth](youth-naar-almah-elem.html).
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| ילד | yeled | child | general, no age attached; from ל-ד, birth (Pappenheim) |
+| ילד | yeled | child | general, not necessarily tied to an age; from ל-ד, birth (Pappenheim) |
 | עולל | olel | toddler | weaned, gets himself up for food (Pappenheim) |
 | רובה | roveh | youngster | between naar and elem (*Midrash Tadshe*); = bachur and yeled (Rashi, Sotah 26a) |
 | עלם | elem | young man | grown "up" to near full height (Pappenheim); physical maturity, against naar's mental maturity (Mecklenburg) |
-| רביא | ravya | boy (Aramaic) | Onkelos for yeled; from ר-ב, growing |
+| רביא | ravya | boy (Aramaic) | usually Onkelos for yeled; from ר-ב, growing |
 | טליא | talya | lad (Aramaic) | Targum for yeled and naar; from tleh, a kid goat |
 
 ## Where the authorities disagree

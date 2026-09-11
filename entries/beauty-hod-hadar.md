@@ -104,8 +104,8 @@ is the old name of Iyar.
 - Second trap: *kavod* is also commonly "glory" (*kevod Hashem*). In a passage
   with *kavod* and *hadar* both present, give *kavod* "honor" and keep "glory"
   for *hadar*; see the *kavod* / *yakar* entry.
-- *Hodaah*: "acknowledgment" or "thanksgiving" by context; the etymology the
-  column gives supports "acknowledgment" as the root sense.
+- *Hodaah*: "acknowledgment" or "thanksgiving" by context; the etymology
+  supports "acknowledgment" as the root sense.
 
 ## Notes for a project
 

@@ -21,7 +21,7 @@ words:
   - he: דוגית
     tr: dugit
     en: fishing skiff
-    distinct: the small fisherman's boat, from dag, "fish" (Rashi to Amos 4:2, Bava Basra 73a; Rabbi Dr. Daniel Sperber); the Mishnaic equivalent of siros dugah
+    distinct: the small fisherman's boat, from dag, "fish" (Rabbi Dr. Daniel Sperber); the Mishnaic equivalent (Bava Basra 73a) of siros dugah (Rashi and Radak to Amos 4:2)
   - he: צי
     tr: tzi
     en: large ship, warship
@@ -51,7 +51,7 @@ warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
 | אניה | oniah | ship | the general Biblical term, qualified for type (oni Tarshish, oni shayit) |
 | ספינה | sefinah | ship, boat | once in Tanach; the standard Mishnaic word (possibly a lesser, coastal vessel, per Rabbi Shlomo Pappenheim) |
 | רפסודה | rafsodah | raft | tied beams, same as dovrah (Rashi, Radak) |
-| דוגית | dugit | fishing skiff | the fisherman's small boat (Rashi to Bava Basra 73a), from dag (Sperber) |
+| דוגית | dugit | fishing skiff | the fisherman's small boat (Bava Basra 73a), from dag (Sperber) |
 | צי | tzi | large ship, warship | especially large (Rashi); a battleship (Malbim) |
 
 ## Where the authorities disagree

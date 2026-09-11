@@ -9,7 +9,7 @@ words:
   - he: טנא
     tr: tene
     en: fruit basket
-    distinct: four appearances, all in Ki Savo; a basket woven loosely so air passes through and the fruit does not spoil (Rabbi Pappenheim); Targum renders it by the Aramaic form of sal
+    distinct: four appearances, all in Ki Savo; a basket typically woven loosely so air passes through and the fruit does not spoil (Rabbi Pappenheim); Targum renders it by the Aramaic form of sal
   - he: סל
     tr: sal
     en: basket
@@ -44,7 +44,7 @@ large Mishnaic **hamper**.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| טנא | tene | fruit basket | loosely woven so fruit will not spoil (Pappenheim); only in Ki Savo |
+| טנא | tene | fruit basket | typically loosely woven so fruit will not spoil (Pappenheim); only in Ki Savo |
 | סל | sal | basket | the standard word; bread basket in daily use (Pappenheim); "lifting" (Rav Hirsch) |
 | כלוב | keluv | basket, cage | unripe figs (Amos 8:1) or birds being fattened (Yirmiyahu 5:27) |
 | כלכלה | kalkalah | hamper | a large sal for storing food, from kalkal, "to sustain" (Rabbi Tanchum) |

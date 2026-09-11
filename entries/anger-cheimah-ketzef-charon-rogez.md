@@ -168,7 +168,7 @@ their fuse.
   reads *af* as the earlier stage, so the English pair must ascend.
 - באף ובחמה ובקצף גדול (Devarim 29:27): "in anger, in wrath, and in great rage,"
   ascending. עברה וזעם (Tehillim 78:49): "fury and indignation."
-- רוגז: check whether the pasuk means anger at all (Bedersi: often fear or
+- רוגז: check whether the pasuk means anger at all (Bedersi: sometimes fear or
   trembling); "agitation" is safe when the sense is uncertain.
 - Trap: "wrath" swallows *cheimah*, *charon*, *evrah*, and *ketzef* alike, and
   "anger" swallows all sixteen; where the passage lists, pairs, or darshens the

@@ -77,8 +77,7 @@ marriage to Amram the sedan chair she was seated in took on the halachic role a
 - Default renderings: *succah* stays transliterated, glossed "booth" once;
   *chuppah* stays transliterated, glossed "wedding canopy" once; *apiryon*
   "canopied litter" or "palanquin" if you follow the *paryanka* reading, which
-  also suits Shir HaShirim 3:9, where the pasuk goes on to list its seat. This
-  last is our observation, not the column's.
+  also suits Shir HaShirim 3:9, where the pasuk goes on to list its seat.
 - Trap: "canopy" will take *chuppah* and *apiryon* both, and "covering" will
   take *chuppah* and *sechach* both. Where a source glosses one by the other
   (*apiryon zu chuppah*), render the gloss as a statement of function: "an

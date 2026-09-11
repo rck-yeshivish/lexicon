@@ -119,9 +119,8 @@ coastal South Carolina and Georgia, in which *buckra* means "white man."
   with the sex supplied where it matters (*Eglah Arufah* is a female calf, and
   that is load-bearing).
 - אלף in a pasuk: "ox" or "oxen," in a poetic register; "cattle" flattens it.
-  בקר: "cattle"; בוקר of a person: "herdsman." The column's own gloss is
-  "cowboy," which is accurate but too modern a register for most prose; the
-  preference for "herdsman" is ours.
+  בקר: "cattle"; בוקר of a person: "herdsman." "Cowboy" is accurate
+  but too modern a register for most prose.
 - Trap: English "ox" will swallow *shor*, *par* and *aleph* at once. Where
   HaKallir or a Midrash is counting the five names (as with the fivefold payment
   of Shemos 21:37), the translation has to keep five distinct English words, or

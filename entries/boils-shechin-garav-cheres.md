@@ -18,7 +18,7 @@ words:
     tr: cheres
     en: dry boils
     nk: חֶרֶס
-    distinct: dry and hard like a shard of pottery, cheres with a sin (Rabbi Avraham Bedersi; Rashi to Bechoros 41a); Rabbi Yaakov Tzvi Mecklenburg instead links it to cheres, the sun, an affliction of climate
+    distinct: dry and hard like a shard of pottery, cheres with a sin (Rabbi Avraham Bedersi; Rashi to Bechoros 41a); Rabbi Yaakov Tzvi Mecklenburg, who also holds it a dry garav, separately suggests it may be an affliction of bad climate, from cheres, the sun
   - he: ילפת
     tr: yalefet
     en: clinging boils

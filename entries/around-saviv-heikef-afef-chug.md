@@ -99,7 +99,7 @@ circle and stood inside it (Taanis 3:8).
 - Tehillim 116:3: *afafuni* is "beset me" or "closed in on me," never a neutral
   "surrounded me," if Malbim's reading is being followed.
 - *Chag*: translate as "festival," and bring in the circle sense only when
-  quoting Rabbi Yom Tov Lipmann Heller or Rabbi Mecklenburg, marking it as
+  quoting Rabbi Yom Tov Lipmann Heller or Rabbi Wolf Heidenheim, marking it as
   *derashah* on the word rather than its working meaning.
 
 ## Notes for a project

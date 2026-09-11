@@ -55,9 +55,7 @@ Mishnah.
 **The root of kisse.** The classical lexicographers take it as the triliteral כ-ס-א.
 Rabbi Shlomo Pappenheim traces it to the biliteral כ-ס, "covering," which for him also
 yields *kisui*, *michaseh*, *kesus* (clothing), *kos* (a covered cup), *kis* (a pocket),
-*meches* (a tax paid into the king's pocket), *nechasim* and *michsah*. The Bottom line
-takes Pappenheim's sense of the meaning, a throne being a covered, canopied seat,
-without depending on his root analysis, since the meaning is the same either way.
+*meches* (a tax paid into the king's pocket), *nechasim* and *michsah*.
 
 **What the "covering" covers.** Rabbi Avraham Abulafia: *Kisse HaKavod* means not
 something enveloped (*mukaf*) but something that envelopes (*makif*), Hashem's

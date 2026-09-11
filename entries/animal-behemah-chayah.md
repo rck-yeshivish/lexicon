@@ -67,7 +67,7 @@ place it among the *chayos* even though it does not eat animal meat.
   losing the pig and the donkey. Where a pasuk or a Gemara lists *behemah*
   *chayah* together (a merism for the whole animal world), render "domestic
   animals and wild ones" rather than "animals and beasts," which says nothing.
-- Colloquially, the article notes, a Yiddish-speaking bubby calls wild children
+- Colloquially, Rabbi Klein notes, a Yiddish-speaking bubby calls wild children
   *chayos* or *behemos*; in that register the word is a rebuke to stop acting
   like an animal, and "you animals" carries it better than either taxonomy.
 - Second trap: do not carry Ramban's diet criterion into an English rendering,

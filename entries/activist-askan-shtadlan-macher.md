@@ -17,15 +17,15 @@ words:
   - he: שדל
     tr: shadal
     en: to persuade, to make an effort
-    distinct: Targum Onkelos' Aramaic for pitui, persuading (Shemos 22:15), confirmed by Rashi; Ramban makes it a campaign to sway another, while the Targum to Yechezkel 38:4 and Rus 2:19 uses it for any effort at all
+    distinct: Targum Onkelos' Aramaic for pitui, persuading (Shemos 22:15), confirmed by Rashi; Ramban, noting its various meanings, centers one on persuading another, while the Targum to Yechezkel 38:4 and Rus 2:19 uses it for any effort at all
   - he: שתדלן
     tr: shtadlan
     en: intercessor, lobbyist
-    distinct: not the doer but the persuader, he goes to the authorities on the community's behalf to change their position, from shadal in Ramban's sense
+    distinct: not the doer but the persuader, he goes to the authorities on the community's behalf to change their position, from shadal in its persuading sense
   - he: שדר
     tr: shadar
     en: to strive, to contend
-    distinct: the Biblical Aramaic form, where Daryavesh strove to save Daniel (Daniel 6:15); Ramban ties it to shadal by the lamed and reish interchange, and reads eshtadur (Ezra 4:15) as rebellion from the same root
+    distinct: the Biblical Aramaic form, where Daryavesh strove to save Daniel (Daniel 6:15); Ramban theorizes it is cognate to shadal by the lamed and reish interchange, and reads eshtadur (Ezra 4:15) as rebellion, seemingly from the same root
 sources:
   - wiaw:10720 "Toldos: The Doers and Fighters" (2022-11-26) https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
 authorities: [Sforno, Targum Onkelos, Rashi, Ramban, Menachem Ibn Saruk, Rabbi Binyamin Mussafia, pseudo-Rasag, Tosafos, Rabbi Ernest Klein, Alexander Kohut, Rabbi Reuven Chaim Klein]
@@ -49,7 +49,7 @@ acts and the other persuades.
 |---|---|---|---|
 | עסק | esek | dealing, matter, business | Tanach: the quarrel over Yitzchak's well (Bereishis 26:20); Mishnah: being occupied with a thing, sometimes to the point of inattention |
 | עסקן | askan | communal activist | verifies and does for himself (Rashi to Chullin 57b); gets his hands dirty |
-| שדל | shadal | persuade, make an effort | Onkelos' word for pitui (Shemos 22:15); a campaign to sway (Ramban) or any attempt (Targum to Yechezkel 38:4) |
+| שדל | shadal | persuade, make an effort | Onkelos' word for pitui (Shemos 22:15); persuasion, one of its several senses (Ramban), or any attempt (Targum to Yechezkel 38:4) |
 | שתדלן | shtadlan | intercessor, lobbyist | goes to the authorities on the community's behalf; persuasion, not action |
 | שדר | shadar | strive, contend | Biblical Aramaic (Daniel 6:15); cognate to shadal by lamed/reish interchange (Ramban's theory) |
 

@@ -9,7 +9,7 @@ words:
   - he: ספיר
     tr: sapir
     en: sapphire
-    distinct: a blue precious stone, not a color word: the second stone in the second row of the Choshen, and the stone of the Luchos (Shemos 24:10; Rabbeinu Bachya)
+    distinct: a precious stone, which gemologists tend to identify with a blue jewel, not a color word; the second stone in the second row of the Choshen, and the stone of the Luchos (Midrash; Rabbeinu Bachya)
   - he: תכלת
     tr: techeiles
     en: techeiles
@@ -17,7 +17,7 @@ words:
   - he: כחול
     tr: kachol
     en: dark, kohl-colored
-    distinct: from the eye-cosmetic kohl, whose shades ran from blue to black; the Midrash sets Yissachar's kachol flag against Dan's sapir flag, so it is not simply the blue of sapir
+    distinct: from the eye-cosmetic kohl, whose shades ran from blue to black; the Midrash sets Yissachar's kachol flag against Dan's sapir flag, Rabbi Klein's example of kachol meaning black and not blue
 sources:
   - wiaw:8167 "The True Blue" (2019-03-09) https://articles.ohr.edu/articles/the-true-blue
 authorities: [Rashi, Ramban, Rabbeinu Bachya, Targum, Bamidbar Rabbah, Frankie Snyder, Aharon Demsky]

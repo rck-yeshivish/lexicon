@@ -18,7 +18,7 @@ words:
   - he: גרמא
     tr: grama
     en: indirect causation
-    distinct: rabbinic; one link in a chain of causes (Rav Hirsch), or the "self" that brought a thing about; Targum renders sabovti as garamti (Shmuel I 22:22), per Rabbi Eliyahu HaBachur
+    distinct: rabbinic; one link in a chain of causes (Rav Hirsch); Targum renders sabosi as garamti (Shmuel I 22:22), per Rabbi Eliyahu HaBachur
   - he: גרמני
     tr: germani
     en: a white-skinned man, or a German

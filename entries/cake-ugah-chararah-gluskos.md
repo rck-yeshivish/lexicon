@@ -9,21 +9,21 @@ words:
   - he: עוגה
     tr: ugah
     en: cake, flat round loaf
-    distinct: round is the word's core sense, not the baking; Choni draws his circle with ug ugah (Taanis 23a), and an ugah shel mayim is a round water pit (Rashi to Chullin 41a); Dr. Tamar Katzir and Rabbi Shaul Goldman: flat and two-dimensional, against the spherical kikar
+    distinct: round is the word's core sense, not the baking; Choni draws his circle with ug ugah (Taanis 23a), and an ugah shel mayim is a round water pit (Rashi to Chullin 41a); Dr. Tamar Katzir and Rabbi Shaul Goldman suggest it is flat and two-dimensional, against the spherical kikar
   - he: חררה
     tr: chararah
     en: flat cake, round loaf
-    distinct: Rashi and the Mechilta gloss ugah with it (to Shemos 12:39), and the Yerushalmi to Peah 5:8 uses chararah for round stacks of produce
+    distinct: Rashi and the Mechilta gloss ugah with it (to Shemos 12:39); at Peah 5:8 it is a way of stacking produce, round stacks according to the Yerushalmi
   - he: ככר
     tr: kikar
     en: loaf
     nk: כִּכָּר
-    distinct: always in kikar lechem; a rounded loaf with body to it, spherical rather than flat (Dr. Tamar Katzir and Rabbi Shaul Goldman); see the separate bread entry
+    distinct: as bread, always in kikar lechem; a rounded loaf with body to it, spherical rather than flat, as Dr. Tamar Katzir and Rabbi Shaul Goldman suggest; see the separate bread entry
   - he: חלה
     tr: challah
     en: loaf, round loaf
     nk: חַלָּה
-    distinct: also round (Ibn Ezra to Vayikra 2:4); appears alone, as challas lechem, and as challas matzah, which is what makes it hard to fix against ugah
+    distinct: also round (Ibn Ezra to Vayikra 2:4); appears alone, as challas lechem, and as challas matzah; how it divides from ugah Rabbi Reuven Chaim Klein leaves open
   - he: גלוסקא
     tr: gluska
     en: fine roll, sweet cake
@@ -47,9 +47,9 @@ body, *challah* a **round loaf**, *gluska* the Rabbinic **fine roll**.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| עוגה | ugah | flat round loaf | roundness is the root sense (Taanis 23a); flat, not spherical |
+| עוגה | ugah | flat round loaf | roundness is the root sense (Taanis 23a); flat, not spherical (Katzir and Goldman suggest) |
 | חררה | chararah | round cake | Rashi and the Mechilta's gloss on ugah (to Shemos 12:39); round stacks at Yerushalmi Peah 5:8 |
-| ככר | kikar | loaf | rounded with volume; only in kikar lechem |
+| ככר | kikar | loaf | rounded with volume (Katzir and Goldman suggest); as bread, only in kikar lechem |
 | חלה | challah | round loaf | round (Ibn Ezra to Vayikra 2:4); the korban and terumah word |
 | גלוסקא | gluska | fine roll | the choice bread one would be tempted by (Pesachim 6b) |
 

@@ -9,7 +9,7 @@ words:
   - he: בעיר
     tr: be'ir
     en: beast, livestock
-    distinct: rare (six times in Tanach); a wholly subdued creature, even more subject to man than a behemah, driven only by instinct, and cognate with ba'ar, the boor (Rav Hirsch)
+    distinct: rare (six times in Tanach in the sense of animal); a wholly subdued creature, even more subject to man than a behemah, driven only by instinct, and cognate with ba'ar, the boor (Rav Hirsch)
   - he: בהמה
     tr: behemah
     en: domesticated animal
