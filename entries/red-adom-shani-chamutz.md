@@ -44,8 +44,7 @@ updated: 2026-09-10
 
 *Adom* is plain **red**, and on Radak's comparison at Zechariah 6:2-3 the
 stronger red against *chamutz* / *amutz*. *Shani* (*tola'as shani*) is
-**crimson**, the worm-dye of the Mishkan, never flattened to "red" where the
-ritual color matters. *Chamutz* and *amutz* are the weaker red: **red-stained**
+**crimson**, the worm-dye of the Mishkan. *Chamutz* and *amutz* are the weaker red: **red-stained**
 in Yeshayahu, **chestnut** or burgundy in Zechariah. *Seruk* is **pink** on
 Malbim's reading, though Radak takes it only as "colorful"; *chum* is a dark red
 near black, which later sources read as **brown**; *chachlilei* is a drinker's
@@ -67,17 +66,13 @@ near black, which later sources read as **brown**; *chachlilei* is a drinker's
 
 **What *seruk* means.** Radak (to Zechariah 1:8 and *Sefer HaShorashim*) takes
 *serukim* as "colorful" in a generic sense, without saying which color; Malbim
-(to Zechariah 1:8) explains it as "pink" or "light red." The article reports both
-and does not choose. Our own preference is Malbim's, since the pasuk already has
-*adumim* in the same phrase; that preference is ours, not a ruling of the
-article's.
+(to Zechariah 1:8) explains it as "pink" or "light red." The column reports both
+and does not choose.
 
 **Whether *chachlilei* is red.** Rabbi Moshe Tedeschi-Ashkenazi makes it the
-reddened white of the eye, from *kalil*, "crown"; the article notes that others,
+reddened white of the eye, from *kalil*, "crown"; the column notes that others,
 like Ramban (to Bereishis 49:12), connect the word instead to *kachol*, blue.
-Again the article leaves both standing. We lean to the red reading, because
-Shadal (Part 3) observes that the Peshitta renders *chachlilei* with an obscure
-Syriac word for red; drawing that support across from Part 3 is ours.
+Again the column leaves both standing.
 
 ## Distinctions
 
@@ -126,7 +121,7 @@ in the town of Worms (Germaiza), but on this showing it more likely comes from
 the Iranian word for red, which is itself bound up with worms, just not the
 German town of that name.
 
-Why *shani* should share the root of *sheini*, "two," is a question the article
+Why *shani* should share the root of *sheini*, "two," is a question the column
 takes up. Rabbi Yaakov Hibbert of Manchester *conjectures*, from the wording of
 the *Ohr HaChaim* (to Bereishis 38:28), that perhaps crimson relates to "two"
 because it was a string of that color that marked Zerach as the *second* son born
@@ -343,45 +338,10 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Seeing Red," What's in a Word?, Ohr Somayach, in three
-installments (2025-03-22, 2025-03-29, 2025-04-05); raw text in
-`sources/whats-in-a-word/raw/11742-vayakhelparah-seeing-red-part-12.md`,
-`11743-pekudai-seeing-red-part-23.md`, `11763-vayikra-seeing-red-part-33.md`. The
-published header numbers Part 1 as "1/2"; the series runs to three. Much of Part
-1 is about *adam* and *adamah* rather than the color, and that material stays
-with the entries on *adam* and on *adamah*: Rav Hirsch (to Bereishis 1:26)
-deriving *adamah* from *adam* and tying *adam* to *adom* by red's place at the
-edge of the visible spectrum, his phonetic links to *hadom* and *chasam*, Rabbi
-Shlomo Pappenheim on the biliteral ד-ם as "resemblance," Dr. Lawrence (Yaakov)
-Resnick in *1,000 Words* on *adam* as aleph plus *dam*, Rabbi Moshe
-Tedeschi-Ashkenazi deriving *dam* from ז-ב, "flowing," and Rabbi Ernest Klein on
-the Latin *homo* / *humanus* / *humus* parallel and on *adamah* as "the red
-arable ground." Further loci: Radak to Yeshayahu 63:1 and to Tehillim 75:9;
-Radak and Malbim to Zechariah 1:8; *Meturgaman*; Rashi to Berachos 31b, 58b, 59b
-and Bechoros 45b; Rema, Yoreh Deah 178:1, with Berachos 20a and *Sefer HaAruch*
-and Rabbeinu Chananel there.
+Rabbi Reuven Chaim Klein, "[Vayakhel/Parah: Seeing Red (Part 1/2)](https://articles.ohr.edu/articles/vayakhelparah-seeing-red-part-12)," *What's in a Word?*, Ohr Somayach, 22 March 2025.
 
-An earlier draft of this entry said that the comparative etymologies in the
-articles were omitted. They are the columnist's own material and are now
-restored to the body: the *crimson* / *qirmiz* / *krimija* chain and *vermilion*
-and *carmine*; Arabic *sharaqa* and Persian *sorkh* beside *seruk*; Arabic
-*'ahmar* and the Alhambra, with Rabbi Ernest Klein on *chemar*, *chomer*,
-*chamor* and *yachmur* and the Spanish *burro*; the Peshitta's ק-נ-א and
-Classical Arabic *qani* behind Shadal on *kana*; David J. A. Clines' *A
-Dictionary of Classical Hebrew* and Marcus Jastrow and Klein's Arabic *asharu*
-on *tzachar*; Dr. Alexander Kohut's *HaAruch HaShaleim* on the *sumak* names and
-on *gichor* as Bactrian *cukhra* / Old Persian *cuhar*, against Klein's "of
-unknown origin"; and Rashi's Old French *russ* with the Proto-Indo-European
-*reudh-*. Restored with them: the *shani* / *sheini* question (Rabbi Yaakov
-Hibbert's conjecture from the *Ohr HaChaim*, and the twice-dyeing answer of
-*Otzar Nirdafim* and *Cheshek Shlomo*), Rabbi Yosef Noach Wilkover on *sikra*,
-and the whole of *tzachar*.
+Rabbi Reuven Chaim Klein, "[Pekudai: Seeing Red (Part 2/3)](https://articles.ohr.edu/articles/pekudai-seeing-red-part-23)," *What's in a Word?*, Ohr Somayach, 29 March 2025.
 
-Three corrections to earlier drafts. The entry had ruled for Malbim over Radak on
-*seruk* and for the red reading of *chachlilei* over Ramban's; the article leaves
-both open, and our preferences are now marked as ours. The entry had credited
-Shadal with the Yemenite exegetes' reading of *argaman* as a yellowish red;
-Shadal's point at Shemos 25:4 is a different one, that *argavan* is *al-gavan*,
-"the color." And the article's citation of Meiri "to Prov. 32:21" for crimson
-cannot be right, since Mishlei has thirty-one chapters; the entry cites Meiri
-without a locus rather than repeat it.
+Rabbi Reuven Chaim Klein, "[Vayikra: Seeing Red (Part 3/3)](https://articles.ohr.edu/articles/vayikra-seeing-red-part-33)," *What's in a Word?*, Ohr Somayach, 5 April 2025.
+
+Cited in the essay: Bereishis 25:25, 25:30, 30:32-33, 30:35, 30:40, 36:26, 36:36, 38:30, 49:11; Shemos 25:5, 26:14, 28:17, 35:4, 35:23, 36:19, 39:34; Vayikra 13-14, 14:4, 14:6, 14:49, 14:51-52; Bamidbar 19:2, 19:6; Yehoshua 2:18, 2:21; Shoftim 16:4; Shmuel I 16:12, 17:42; Shmuel II 1:24; Melachim II 3:22; Yeshayahu 1:18, 3:16, 5:2, 16:8, 63:1-2; Yirmiyahu 2:21, 4:30; Yechezkel 27:18; Nachum 2:4; Zechariah 1:8, 6:2-3; Tehillim 68:24, 75:9; Mishlei 23:29, 23:31, 31:21; Shir HaShirim 4:3, 5:10; Eichah 4:5, 4:7, 5:10; Ezra 2:47; Nechemiah 7:49; Divrei HaYamim I 1:41, 1:47; Divrei HaYamim II 2:6, 26:19; Mishnah Shabbos 9:3, 12:4, Shekalim 4:2, Yoma 4:2, 6:6, Gittin 2:3, Bechoros 7:6, 9:7, Middos 3:1; Tosefta *Berachos* 7:3; Berachos 20a, 31b, 58b, 59b; Shabbos 95a; Pesachim 25b; Yoma 82b; Moed Katan 9b; Kesubos 17a; Gittin 69a, 69b; Bava Basra 84a; Sanhedrin 14a, 74a; Avodah Zarah 33b; Bechoros 45b; Yerushalmi *Kilayim* 9:1 and *Berachos* 9:1; *Bereishis Rabbah* 51:2; *Toras Kohanim*, Metzora, with Raavad and Rash M'Shantz; Rashi to Bereishis 25:25, 30:32, Vayikra 13:39, Berachos 31b, 58b, 59b, Bechoros 45b, Avodah Zarah 33b and Gittin 69b; pseudo-Rashi to Divrei HaYamim II 2:6; Rabbi Saadia Gaon, Ibn Ezra and Rabbi Avraham Maimuni to Shemos 25:4; Ibn Ezra, Long Commentary to Shemos 2:3; Ibn Ezra and Mahari Kara to Eichah 4:5; Meiri; Rashbam and Chizkuni to Bereishis 38:30; Ramban to Bereishis 49:12; the *Ohr HaChaim* to Bereishis 38:28; Radak to Yeshayahu 63:1, Tehillim 75:9 and Zechariah 1:8, 6:2-3; Malbim to Yeshayahu 1:18 and Zechariah 1:8; Shadal to Bereishis 30:32, Shemos 20:5 and 25:4; *Midrash Chefetz* and *Meor Ha'Afeilah* to Shemos 25:4; Rema, *Yoreh Deah* 178:1; *Sefer HaAruch* and Rabbeinu Chananel to Berachos 20a; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Eliyahu HaBachur, *Meturgaman*; Rabbi Tanchum HaYerushalmi; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Hibbert; Rabbi Yosef Noach Wilkover; the Peshitta; Dr. Alexander Kohut, *HaAruch HaShaleim*; Rabbi Ernest Klein; Marcus Jastrow; David J. A. Clines, *A Dictionary of Classical Hebrew*.

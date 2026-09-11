@@ -34,13 +34,10 @@ updated: 2026-09-10
 ## Bottom line
 
 *Geshem* and *matar* both mean **rain**, and the authorities split on which is
-the general word and which the specific one; render both "rain" and let the
-context carry any distinction. *Yoreh* and *malkosh* are not kinds of rain but
+the general word and which the specific one. *Yoreh* and *malkosh* are not kinds of rain but
 seasons of it: *yoreh* is **the first rain**, at the start of the rainy season,
-and *malkosh* **the last rain**, in early spring before the harvest. Never render
-*yoreh* and *malkosh* as "early rain and late rain" without saying what they are
-early and late to; the pasuk in Shema (Devarim 11:14) is promising a full year's
-cycle.
+and *malkosh* **the last rain**, in early spring before the harvest. The pasuk
+in Shema (Devarim 11:14) is promising a full year's cycle.
 
 ## At a glance
 
@@ -53,9 +50,8 @@ cycle.
 
 ## Where the authorities disagree
 
-**Which of *geshem* and *matar* is the general term.** The article gives three
-positions without naming their holders, so they are recorded here as views, not
-attributed rulings.
+**Which of *geshem* and *matar* is the general term.** The column gives three
+positions without naming their holders.
 
 1. *Geshem* is the general term for rain of every sort, and *matar* the specific
    one, the "rains of blessing"; a variant of this reads *matar* as heavy rain,
@@ -69,13 +65,11 @@ attributed rulings.
    *gashmiyus*. *Matar* is rain that Hashem brings directly at set times, and the
    times are the *yoreh* and the *malkosh* of Devarim 11:14.
 
-The Bottom line does not choose, and neither does the article. The third view is
-the most useful to a translator, since it explains the pasuk's sequence, but
-English has one word either way.
+The column does not choose among them.
 
 ## Distinctions
 
-The article opens by asking why Hebrew has so many words for rain. One answer, it
+The column opens by asking why Hebrew has so many words for rain. One answer, it
 says, is simply that rainfall mattered enormously to an agrarian society; but
 since the words of Hebrew bear intrinsic meanings and the Torah is not a
 thesaurus, there must be a deeper implication to the multiplicity.
@@ -95,7 +89,7 @@ first rain, and it teaches people to reinforce their roofs and bring the produce
 indoors before the heavier rains come. *Malkosh* is tied to *mekoshesh*, one who
 reaps; it falls at the onset of spring, around Pesach, just before the harvest.
 
-### the article's own answer
+### the column's own answer
 It closes by returning to the question it opened with. The different words for
 rain are not simply a product of rain's agricultural importance; they refer to
 different ways in which Hashem provides for the world. Some elements of Creation
@@ -115,7 +109,7 @@ considerations, and the Hebrew language reflects them.
   a note should say that these are the opening and closing rains of one season.
 - *Matar* in Bereishis 19:24 and Shemos 9:18 is "rained down," a verb of sending;
   do not soften it to weather.
-- *Gashmiyus* in a mussar sefer is "materiality" or "the physical"; it is a
+- *Gashmiyus* is "materiality" or "the physical"; it is a
   derivative of *geshem*, not a word about rain, and should not be glossed as
   though it were.
 
@@ -125,15 +119,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Rain, Rain Come Again](https://articles.ohr.edu/articles/rain-rain-come-again)," What's in a Word?, Ohr
-Somayach, 17 Tammuz 5776 (2016-07-23): raw text in
-`sources/whats-in-a-word/raw/6861-rain-rain-come-again.md`. Primary loci cited:
-Devarim 11:14 (the second parashah of Shema); Bereishis 19:24; Shemos 9:18;
-Taanis 6a. This is one of the column's short pieces: it names no lexicographers,
-gives the *geshem*/*matar* views anonymously ("Some explain... Others take the
-opposite approach... Others explain..."), and rests its one firm distinction,
-*yoreh* against *malkosh*, on the Gemara. Nothing has been supplied here beyond
-what it says. Corrected 2026-09-10: a line claiming the first two *geshem*/*matar*
-views are "equally represented" has been cut, the article counting no one; and
-the article's own closing answer to its opening question, absent from the entry,
-has been added as its own section.
+Rabbi Reuven Chaim Klein, "[Rain, Rain Come Again](https://articles.ohr.edu/articles/rain-rain-come-again)," *What's in a Word?*, Ohr Somayach, 23 July 2016.
+
+Cited in the essay: Bereishis 19:24; Shemos 9:18; Devarim 11:14; Taanis 6a.

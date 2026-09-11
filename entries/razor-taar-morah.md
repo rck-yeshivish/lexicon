@@ -27,8 +27,7 @@ throughout, while Targum and Rashi render it **scissors** by Shimshon and
 **the fear of men** by Shmuel. The column's own conclusion is an admission: he
 has found no source that clearly explains the difference between the two words,
 and has been unable to work out why the Torah says *taar* and the Neviim say
-*morah*. So render both "razor" unless the passage is Shmuel I 1:11, where the
-reading itself is the question.
+*morah*.
 
 ## Distinctions
 
@@ -80,7 +79,7 @@ holds like Rabbi Nehorai, that Shmuel was a *nazir*, and so keeps "razor."
   derashah runs on the sound of *morah* as fear, and the English must hold both:
   "the razor, the *morah*, of which the hair alone is afraid."
 - Do not manufacture a distinction between the two words in a footnote. The
-  article looked and found none, and could not account for why the Torah says
+  column looked and found none, and could not account for why the Torah says
   *taar* and the Neviim say *morah*.
 
 ## Notes for a project
@@ -89,16 +88,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Razor's Edge](https://articles.ohr.edu/articles/razors-edge)," What's in a Word?, Ohr Somayach, 12
-Sivan 5778 (2018-05-26): raw text in
-`sources/whats-in-a-word/raw/7768-razors-edge.md`. Primary loci cited: Bamidbar
-6:5; Shoftim 13:5 and 16:17; Shmuel I 1:11; Vayikra 19:27; *Vayikra Rabbah*
-10:5; *Nazir* 66a (Rabbi Yossi against Rabbi Nehorai); Targum and Rashi to
-Shoftim 13:5, 16:17 and Shmuel I 1:11; Radak there; Rav Hirsch to Bamidbar 6:5.
-Restored 2026-09-10 from an earlier omission note: the article's report that
-linguists do not know the etymology of *morah*, and the unattributed suggestion
-that its original root is ע-ר-ה with the initial *ayin* dropped, had been dropped
-under the Orthodox-sources rule and are now in the body. With that restored, a
-line counting "three etymologies" for *morah* no longer held and has been
-rewritten. The article is dedicated *l'iluy nishmas* the author's mother, Bracha
-bas R' Dovid, and his grandmother, Shprintza bas R' Meir.
+Rabbi Reuven Chaim Klein, "[Razor's Edge](https://articles.ohr.edu/articles/razors-edge)," *What's in a Word?*, Ohr Somayach, 26 May 2018.
+
+Cited in the essay: Bamidbar 6:5 with Rav Hirsch; Vayikra 19:27; Shoftim 13:5, 16:17; Shmuel I 1:11; Targum, Rashi and Radak to Shoftim 13:5, 16:17 and Shmuel I 1:11; *Vayikra Rabbah* 10:5; *Nazir* 66a; Rabbi Shlomo Pappenheim.

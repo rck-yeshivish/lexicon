@@ -21,17 +21,16 @@ updated: 2026-09-10
 *Ger* is the **sojourner**, cut off from his place of origin and living
 somewhere temporarily; *toshav* is the settled **resident** who is there for
 the long term; *ezrach* is the **native** or **citizen**, whose family and
-origins are known to everyone. *Zar* is the plain **stranger**. The article's own capsulization is Rabbi Shlomo
+origins are known to everyone. *Zar* is the plain **stranger**. The column's own capsulization is Rabbi Shlomo
 Aharon Wertheimer's: a *ger* is the opposite of an *ezrach* and the opposite of a
 *toshav*, neither a full-fledged citizen of this land nor an alien resident, but
-simply living here as one stop in a greater journey. The trap is that *ger* in
-halachic usage means a convert while in Chumash it often does not (that
-frequency judgment is ours; the article gives no count); decide from the
-context, and never render *ger v'toshav* of Vayikra 25:35 as two people.
+simply living here as one stop in a greater journey. *Ger* in halachic usage
+means a convert, while in Chumash it need not; and on Mizrachi's reading *ger
+v'toshav* of Vayikra 25:35 is one person, a *ger toshav*.
 
 ## Distinctions
 
-The article opens from Modern Hebrew, where *ezrach* means "citizen," *toshav*
+The column opens from Modern Hebrew, where *ezrach* means "citizen," *toshav*
 means "resident (without citizenship)," and verb cognates of *ger* simply mean
 "dwelling," although *ger* itself retains a religious connotation.
 
@@ -87,7 +86,7 @@ Shlomo Pappenheim defines as returning or reverting to a former place or
 status: a *yeshivah* is a permanent dwelling that removes any need to return
 elsewhere, and a *toshav* is the permanent resident who engages in *yeshivah*.
 
-Rabbi Yisrael Yaakov Algazi (1680-1757) cites what the article calls a
+Rabbi Yisrael Yaakov Algazi (1680-1757) cites what the column calls a
 fascinating responsum by Rabbi Shmuel Modiliano, who *argues* that they divide
 by ownership: *toshav* / *yeshivah* denotes settling in a place where one owns
 or has rights to the real estate, while *gar* / *dirah* denotes living somewhere
@@ -163,8 +162,8 @@ it is of alien residents who ought to be pitied (Bereishis 23:4; Vayikra 25:35,
   *zar*, and hold the assignment through a passage.
 - Halachic *ger* (a convert) stays transliterated; do not render it "stranger"
   or "proselyte." *Ger tzedek* and *ger toshav* stay transliterated as units.
-  (The article itself glosses *ger tzedek* as "proselyte"; the objection to that
-  word in a sefer is ours.)
+  (The column itself glosses *ger tzedek* as "proselyte"; the objection to that
+  word is ours.)
 - *Ezrach* in a pasuk about mitzvos binding *ha'ezrach v'hager* is "the
   native-born," not "the citizen"; "citizen" is the modern Hebrew sense and
   reads civic rather than familial.
@@ -175,26 +174,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Behar - Bechukotai: Settled Citizens](https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens)," What's in a
-Word?, Ohr Somayach, 26 Iyar 5781 (2021-05-08): raw text in
-`sources/whats-in-a-word/raw/9199-behar-bechukotai-settled-citizens.md`.
-Primary loci cited: Bereishis 15:13, 23:4, 32:5, 47:4; Shemos 12:45, 18:3,
-20:10 with Ramban, 23:12; Vayikra 16:29, 18:26, 25:35, 25:47; Bamidbar 15:29,
-15:30; Devarim 10:19, 14:21; Shoftim 19:1, 19:16; Tehillim 37:35, 89:1 with
-Targum; Yechezkel 25:7; Avodah Zarah 64b; Yevamos 48b; Gittin 57b; Kiddushin
-20a; Bava Kamma 113b; Bava Metzia 71a, 111b; Sanhedrin 96b; Arachin 30b; Bava
-Basra 15a; Radak, *Sefer HaShorashim* s.v. ישב and s.v. זרח; Rabbi Yosef
-Kimchi, *Sefer Zikaron*; Rav Hirsch to Bereishis 12:14 and 23:4; *Rashba
-Meyuchas L'Ramban* 257; and Shadal's *Ohev Ger* / Philosseno. Two notes on the
-article's citations: it prints "Gen. 23:4, 25:35, 25:47" for the *ger v'toshav*
-loci, where the second and third are Vayikra 25:35 and 25:47; and it lists
-Tehillim 84:11 among the Biblical Aramaic attestations of *dayar*, though that
-verse is Hebrew, so the entry leaves it out of the body and records the slip
-here. The article's Arabic excursus, in which Rabbi Chelouche tries to prove his
-east-and-west reading from *maghreb* and *ghurayb* and the column rejects the
-proof on the ground that Arabic *gh-* answers to Hebrew ayin, had been dropped
-from this entry and is now restored; so is the article's note that Shadal gave
-his commentary the second title Philosseno. Two things are ours: the judgment
-that "proselyte," which the column uses, is wrong for a sefer, and the estimate
-that *ger* in Chumash often does not mean a convert, for which the article gives
-no count.
+Rabbi Reuven Chaim Klein, "[Behar - Bechukotai: Settled Citizens](https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens)," *What's in a Word?*, Ohr Somayach, 8 May 2021.
+
+Cited in the essay: Bereishis 12:14, 15:13, 23:4, 32:5, 47:4; Shemos 12:45, 18:3, 20:10, 23:12; Vayikra 16:29, 18:26, 25:35, 25:47; Bamidbar 15:29, 15:30; Devarim 10:19, 14:21; Shoftim 19:1, 19:16; Yechezkel 25:7; Tehillim 37:35, 89:1; Daniel 2:11, 4:9, 4:32, 5:21; Mishnah *Eruvin* 2:5, 5:1, *Kesubos* 12:3, *Bava Basra* 1:5, *Avodah Zarah* 1:9; Yevamos 48b; Kiddushin 20a; Gittin 57b; Bava Kamma 113b; Bava Metzia 71a, 111b; Bava Basra 15a; Sanhedrin 96b; Avodah Zarah 64b; Arachin 30b; the Haggadah; Targum Onkelos to Devarim 10:19; Targum to Tehillim 89:1; Rashi to Shemos 12:45, 23:12 and Devarim 14:21; Ramban to Shemos 20:10; Mizrachi; *Rashba Meyuchas L'Ramban* 257; Malbim; Rav Hirsch to Bereishis 12:14 and 23:4; Ibn Ezra to Bereishis 15:13, 23:4 and Tehillim 37:35; Rabbi Yaakov Tzvi Mecklenburg; Menachem Ibn Saruk; Ibn Janach; Radak, *Sefer HaShorashim* s.v. ישב and s.v. זרח, and to Tehillim 37:35 and Yechezkel 25:7; Rabbi Moshe Kimchi; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Eliyahu HaBachur; Rabbi Yisrael Yaakov Algazi; Rabbi Shmuel Modiliano; Rabbi David Chaim Chelouche; Shadal, *Ohev Ger*.

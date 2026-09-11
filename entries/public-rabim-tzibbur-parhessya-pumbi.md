@@ -20,13 +20,12 @@ updated: 2026-09-10
 is "with the congregation," not merely "in public." *Parhessya* is **openly**,
 in the eyes of the community, and its foil is *b'tzina*, in private. *Pirsum*
 is the act, **publicizing**, and *b'pumbi* is a public **spectacle**, an affair
-made deliberately conspicuous. What must not be flattened is the *parhessya* /
-*tzina* pair: wherever a sugya sets them against each other, the point is who
-sees, not how many.
+made deliberately conspicuous. Wherever a sugya sets *parhessya* and *tzina*
+against each other, the point is who sees, not how many.
 
 ## Distinctions
 
-The article sets out from Parashas Chukas, where the Torah records a very public
+The column sets out from Parashas Chukas, where the Torah records a very public
 affair: Moshe spoke and/or acted improperly at the Waters of Merivah, and Hashem
 said, "Because you did not believe in Me to sanctify Me in the eyes of the
 Children of Israel, therefore you will not bring this congregation to the land
@@ -183,27 +182,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Chukas: Out in Public](https://articles.ohr.edu/articles/chukas-out-in-public)," What's in a Word?, Ohr
-Somayach (2024-07-13): raw text in
-`sources/whats-in-a-word/raw/11449-chukas-out-in-public.md`. Primary loci:
-Bamidbar 20:12; Avos 3:11; Mishnah Peah 2:1, Kilayim 4:7, Eruvin 5:6, Megillah
-3:1, Bechoros 1:1, Parah 12:4, Gittin 4:7, Berachos 5:5, Rosh Hashanah 4:9,
-Yoma 4:1, Shekalim 3:1; the *korban tzibbur* loci Pesachim 6:5 and 7:4, Shekalim
-4:1, Yoma 2:7, Sukkah 5:7, Zevachim 5:5, Menachos 2:2, Temurah 1:6, Kerisus 1:6
-(a sample; the article's list is longer in each tractate); Tehillim 109:30, 39:7,
-68:7, 80:14; Bereishis 41:35, 41:49; Shemos 8:10; Chavakuk 1:10, 2:20; Zecharyah
-9:3, 2:17; Iyov 27:16, 5:23; Bamidbar 13:30; Shoftim 3:19; Amos 6:10; Tzefaniah
-1:7; Sanhedrin 74a-75a; Avodah Zarah 27b, 54b; Sotah 10b, 36b; Bava Basra 145b;
-Yerushalmi Peah 1:1 and Sanhedrin 10:1 (the single teaching), Yoma 4:1, Shekalim
-1:1; Midrash Tanchuma, Ki Sisa §31 and Naso §17; *Sefer HaAruch*; Rabbi Eliyahu
-HaBachur, *Sefer Tishbi* and *Meturgaman*; Rabbi David Golumb, *HaTorah
-VeHaTalmud* vol. 1 p. 39; Rabbi Ernest Klein, *A Comprehensive Etymological
-Dictionary of the Hebrew Language*. Restored 2026-09-10: the article's account of
-the Greek *parrhesia* (the scholarly consensus that *parhessya* is a loanword,
-the *pan-* plus *retos* parsing, and the Socrates history against which the
-column contrasts the rabbinic sense), Rabbi Ernest Klein's report of the two
-alternative derivations of *pirsum*, and the *pompe*/*pompa*/*pomp* etymology
-with its *b*/*p* interchange had all been dropped. Without Klein the entry's
-Rav Hirsch line rested on a root, פ-ר-ס, that the entry never introduced. The
-article also points the reader to its own earlier column "The Amazing Multi-Named
-Joseph" (December 2022) on Yosef's names; the entry does not draw on it.
+Rabbi Reuven Chaim Klein, "[Chukas: Out in Public](https://articles.ohr.edu/articles/chukas-out-in-public)," *What's in a Word?*, Ohr Somayach, 13 July 2024.
+
+Cited in the essay: Bereishis 41:35, 41:49; Shemos 8:10; Bamidbar 13:30, 20:12; Shoftim 3:19; Amos 6:10; Chavakuk 1:10, 2:20; Tzefaniah 1:7; Zecharyah 2:17, 9:3; Tehillim 39:7, 68:7, 80:14, 109:30; Iyov 5:23, 27:16; Mishnah Avos 3:11, Peah 2:1, Kilayim 4:7, Eruvin 5:6, Megillah 3:1, Bechoros 1:1, Parah 12:4, Gittin 4:7, Berachos 5:5, Rosh Hashanah 4:9, Pesachim 6:5, 7:4, Shekalim 3:1, 4:1, Yoma 2:7, Sukkah 5:7, Zevachim 5:5, Menachos 2:2, Temurah 1:6, Kerisus 1:6; Eruvin 69a; Sukkah 49b; Beitzah 16a; Taanis 16b; Kesubos 103b; Gittin 38a; Sotah 10b, 36b; Bava Metzia 46b; Bava Basra 42a, 145b; Sanhedrin 26b, 74a-75a; Avodah Zarah 27b, 36b, 54a, 54b; Zevachim 88b; Erchin 16a-16b; Yerushalmi Peah 1:1, Sanhedrin 10:1, Yoma 4:1, Shekalim 1:1; Midrash Tanchuma, Ki Sisa §31 and Naso §17; *Sefer HaAruch*; Rabbi Eliyahu HaBachur, *Sefer Tishbi* and *Meturgaman*; Rabbi Shlomo Pappenheim, *Chesheik Shlomo*; Rabbi Aharon Marcus; Rabbi David Golumb, *HaTorah VeHaTalmud* vol. 1 p. 39; Rav Hirsch to Tehillim 80:14; Rabbi Ernest Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language*.

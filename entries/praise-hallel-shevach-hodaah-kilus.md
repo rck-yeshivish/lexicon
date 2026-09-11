@@ -24,10 +24,9 @@ Haggadah, the close of Hallel) reads, in order: *lehodos* **to thank**,
 *leromem* **to extol**, *lehader* **to beautify**, *levarech* **to bless**,
 *le'aleh* **to raise high**, *lekales* **to exalt**; Nusach Sefard (Arizal)
 adds *lenatzei'ach* **to eternalize** after *lehader*, Nusach Ashkenaz
-(Maharal) omits it. Keep the order and give each verb its own English: thanking
-generally comes before lauding because personal gratitude precedes the general
-duty (Wertheimer), and *lekales* is "exalt," not "disparage," though the
-Biblical verb means the latter.
+(Maharal) omits it. Thanking generally comes before lauding because personal
+gratitude precedes the general duty (Wertheimer), and *lekales* here is **to
+exalt**, not to disparage, though the Biblical verb means the latter.
 
 ## Distinctions
 
@@ -58,9 +57,8 @@ Nusach Ashkenaz, following the Maharal of Prague (1525-1609), has no tenth term.
 ### leromem (לרומם) and le'aleh (לעלה)
 Rabbi Shimshon Pincus: both raise Hashem's standing, but in different ways,
 *leromem* being the admission that He is above *us* and *le'aleh* that He is
-above *everything*. (The article's gloss for *le'aleh* is "exult"; since that
-English word ordinarily means "rejoice," "raise high" or "elevate" says what
-Pincus means without ambiguity.)
+above *everything*. (The column glosses *le'aleh* "exult," though that English
+word ordinarily means "rejoice.")
 
 ### levarech (לברך)
 Calling it "blessing" is something of a misnomer: a mere mortal cannot bless the
@@ -105,7 +103,7 @@ Hebrew, where the verb means to exalt.
   When the passage enumerates, hold the ten apart; when it uses one word in
   passing, "praise" is fine.
 - Trap: "extol" and "exalt" and "raise high" are near-synonyms in English;
-  the article assigns extol to *leromem*, exult to *le'aleh* and exalt to
+  the column assigns extol to *leromem*, exult to *le'aleh* and exalt to
   *lekales*, and this entry substitutes "raise high" for *le'aleh* for the
   reason given above. Keep whichever assignment you take fixed across a project.
 
@@ -115,17 +113,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Ten Expressions of Praise](https://articles.ohr.edu/articles/ten-expressions-of-praise)," What's in a Word?, Ohr
-Somayach, 14 Elul 5776 (2016-09-17): raw text in
-`sources/whats-in-a-word/raw/6934-ten-expressions-of-praise.md`. Primary loci
-the article cites: the close of Pesukei DeZimrah (Shabbos and Yom Tov), the
-Haggadah, and the concluding berachah of Hallel; Arizal (Nusach Sefard) and
-Maharal (Nusach Ashkenaz) on *lenatzei'ach*; Abudraham's seven; Rabbi Chaim
-Volozhiner, *Nefesh HaChaim* Shaar 2; Rabbi Shimshon Pincus on the four paired
-verbs; Rabbi Shlomo Pappenheim on *lekales*; Franz Boas for the opening
-analogy. The article names no work of Mecklenburg's here, and does not say that
-he cites Pappenheim on *lekales* in particular, only that he frequently cites
-Pappenheim's work; an earlier reference here to *HaKsav VeHaKabbalah* has been
-removed. The article itself counts the liturgical expressions as nine and then
-calls them ten once the Sefard *lenatzei'ach* is added; the entry keeps both
-counts as the article has them. Nothing the article cites is omitted.
+Rabbi Reuven Chaim Klein, "[Ten Expressions of Praise](https://articles.ohr.edu/articles/ten-expressions-of-praise)," *What's in a Word?*, Ohr Somayach, 17 September 2016.
+
+Cited in the essay: the close of Pesukei DeZimrah on Shabbos and Yom Tov, the Haggadah, and the concluding berachah of Hallel; the Arizal (Nusach Sefard); the Maharal of Prague (Nusach Ashkenaz); Abudraham; Rabbi Chaim Volozhiner, *Nefesh HaChaim* Shaar 2; Rabbi Shimshon Pincus; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Franz Boas.

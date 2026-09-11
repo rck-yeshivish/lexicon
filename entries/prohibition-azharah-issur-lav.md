@@ -25,8 +25,8 @@ so on their reading it is closer to putting a person on notice by making his
 duty clear than to scolding him. *Issur* is the prohibition as a **binding**,
 the rule that ties a person's hands and takes the act off the table. *Lav* is
 simply a **negative commandment**, a "no-no" people are enjoined from
-committing, named for the word *lo*. The one thing not to get wrong: *azharah*
-and *issur* are not two names for one thing. *Azharah* often names the warning
+committing, named for the word *lo*. *Azharah* and *issur* are not two names
+for one thing. *Azharah* often names the warning
 aspect of a prohibition as against its punishment aspect (*Yevamos* 2b);
 *issur* is the substantive prohibited status.
 
@@ -135,19 +135,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shavuot: Brilliant Prohibitions](https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions)," What's in a Word?,
-Ohr Somayach, 4 Sivan 5781 (2021-05-15): raw text in
-`sources/whats-in-a-word/raw/9211-shavuot-brilliant-prohibitions.md`. Primary
-loci: Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Bereishis 39:20,
-40:3; Hoshea 7:16; Yechezkel 3:17; Tehillim 106:27, 132:12; Rus 3:2; Koheles
-4:14; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1 and 4:1, *Sanhedrin* 7:7,
-*Kerisos* 3:10; *Yevamos* 2b; *Sifrei Naso* 1; Rabbi Shlomo Ibn Parchon,
-*Machberes He'Aruch*. Two notes on the text. (1) The article gives Hoshea 7:16
-and Tehillim 132:12 as the loci for the "light" sense of ז-ה-ר; both verses in
-fact read *zo* (זוֹ), not a ז-ה-ר cognate, so the pair looks like a slip in the
-column. They are reported here as the column gives them. (2) A rendering note
-that formerly cited *lo anash ela im ken hizhir* has been cut: the maxim is
-nowhere in the article. Restored 2026-09-10 from an earlier omission note:
-Rabbi Marcus's comparison of the letter *zayin* to the Germanic verbs of seeing
-(*sehen*, *zien*, *zen*, *sien*, "see"), which had been dropped under the
-Orthodox-sources rule, is now in the body where the article puts it.
+Rabbi Reuven Chaim Klein, "[Shavuot: Brilliant Prohibitions](https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions)," *What's in a Word?*, Ohr Somayach, 15 May 2021.
+
+Cited in the essay: Bereishis 39:20, 40:3; Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Hoshea 7:16; Yechezkel 3:17; Tehillim 106:27, 132:12; Rus 3:2; Koheles 4:14; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1 and 4:1, *Sanhedrin* 7:7, *Kerisos* 3:10; *Yevamos* 2b; *Sifrei Naso* 1; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Radak; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*; Rabbi Avraham Maimuni; Rabbeinu Efrayim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Yehuda Ibn Chayyuj; Rabbi Jose Faur.

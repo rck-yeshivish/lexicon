@@ -22,7 +22,7 @@ updated: 2026-09-10
 
 *Mi'un* is the biblical word for **refusing**, its cognates appearing forty-six
 times in Tanach; *siruv* is Aramaic and rabbinic, at most once in Tanach, and
-even that one instance is disputed. The article gives two approaches to the
+even that one instance is disputed. The column gives two approaches to the
 difference and does not choose between them. On the first, resting on Rabbi
 Eliyahu HaBachur's observation that the Targumim render most instances of
 *meridah*, *meri* and *mi'un* alike by *siruv*, it *seems* the two are simply
@@ -31,10 +31,8 @@ borrowed Aramaic loanword that grew popular in post-biblical Hebrew. On the
 second, Rabbi Yaakov Dienna's, they are not perfect synonyms: *mi'un* is
 declining to comply with something asked of one, *siruv* is the utter rejection
 of the proposition itself, and it *somehow* implies the more intense refusal.
-Our own working default for a translator is to render both "refuse" and to draw
-the contrast only where a source presses it. Both words also have technical
-rabbinic senses that must never be translated as plain refusal: *mi'un* is the
-minor's refusal of her husband, *siruv* is contempt of beis din.
+Both words also have technical rabbinic senses: *mi'un* is the minor's refusal
+of her husband, *siruv* is contempt of beis din.
 
 ## Distinctions
 
@@ -45,7 +43,7 @@ Yisrael flatly refused and even threatened military action (Bamidbar 20:21); of
 Yaakov refusing to be comforted for Yosef (Bereishis 37:35), of Yosef refusing
 Potifar's wife (Bereishis 39:8), of Yaakov refusing to put his right hand on
 Yosef's firstborn (Bereishis 48:19), of Amnon deviously feigning sickness by
-refusing to eat (Shmuel II 13:9), and in several other places. The article's
+refusing to eat (Shmuel II 13:9), and in several other places. The column's
 opening puzzle is that the more familiar Hebrew word for refusal is nonetheless
 not *mi'un* but *siruv*.
 
@@ -77,7 +75,7 @@ sourced in different languages: *mi'un* and its cognates, appearing many times
 in Tanach, *seem* to be genuine Hebrew, while *siruv*, which at most appears
 once, *seems* to be a borrowed Aramaic loanword, and so became more popular in
 post-biblical Hebrew when Aramaic had a stronger influence on the language. The
-article then says plainly that there is another approach to the question, given
+column then says plainly that there is another approach to the question, given
 below.
 
 In rabbinic Hebrew *sarvan* is settled: the Mishnah (*Berachos* 5:3) rules that
@@ -96,7 +94,7 @@ HaYair*) asks why Onkelos, who typically renders *mi'un* as *siruv*, does not do
 so at Shemos 22:16, the verse that if the father of a seduced girl refuses to
 give her to the seducer for marriage the seducer must pay a penalty. The Hebrew
 reads *im ma'en yema'en*, yet Onkelos translates it as though it said, "and if
-the father does not wish." The meaning does not necessarily change, the article
+the father does not wish." The meaning does not necessarily change, the column
 notes; it is the wording that is unexpected.
 
 Rabbi Dienna resolves this by positing that *mi'un* and *siruv* are not perfect
@@ -130,7 +128,7 @@ refusing to listen to its ruling; such a man, held in contempt of the court, may
 be subject to sanctions resembling excommunication, and the dayanim may give the
 opposing litigant permission to petition a non-Jewish court.
 
-The article closes with the English suffix that gave it its title: according to
+The column closes with the English suffix that gave it its title: according to
 the *Oxford English Dictionary* the *-nik* of *beatnik*, *no-goodnik*,
 *peacenik* and *kibbutznik* is borrowed from Yiddish and Russian, and is said to
 have come into vogue especially after the Russians launched the Sputnik
@@ -138,9 +136,9 @@ satellite.
 
 ## Rendering guidance
 
-- Default both to "refuse." This follows the article's first approach, on which
-  they are the same act in two languages; it is our working default, not a
-  ruling against Rabbi Dienna, whom the article leaves standing.
+- Default both to "refuse." This follows the column's first approach, on which
+  they are the same act in two languages, and is not a ruling against Rabbi
+  Dienna, whom the column leaves standing.
 - Where a source is arguing the difference (Rabbi Yaakov Dienna on Shemos 22:16
   and Bamidbar 22:13), render *mi'un* "declined" and *siruv* "flatly refused"
   or "rejected outright," and say which word is which.
@@ -152,9 +150,8 @@ satellite.
   bare "refusal" for either is a mistranslation, not a simplification.
 - *Sarvan* in *Berachos* 5:3 is "one who declines," and needs the Rambam and
   Bartenura's point in a note, that declining is right in the ordinary case and
-  wrong in this one. The article itself glosses *sarvan* as "refusenik," but
-  that is the column's English and, in our judgment, too modern a register for a
-  sefer.
+  wrong in this one. The column itself glosses *sarvan* as "refusenik," but
+  that is the column's English and, in our judgment, too modern a register.
 - Bamidbar 22:13, *me'en Hashem*: "Hashem has refused to allow me," and if the
   Targum's phrasing is under discussion, quote it as "there is no will before
   Hashem," which is the whole point of the question.
@@ -165,18 +162,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Biblical Refuseniks](https://articles.ohr.edu/articles/biblical-refuseniks)," What's in a Word?, Ohr
-Somayach, 9 Tammuz 5781 (2021-06-19): raw text in
-`sources/whats-in-a-word/raw/9254-biblical-refuseniks.md`. Primary loci cited:
-Bamidbar 20:21, 22:13; Bereishis 37:35, 39:8, 48:19; Shmuel II 13:9; Shemos
-7:27 with *Sechel Tov*, 22:16; Yechezkel 2:3, 2:6 with Rashi, Radak, Menachem
-Ibn Saruk and Donash Ibn Labrat; Mishnah *Berachos* 5:3 with the Rambam and
-Bartenura, *Nedarim* 8:7 with *Tosafos Yom Tov*, *Moed Katan* 3:3, *Yevamos*
-13:1-6, *Bava Metzia* 1:8, *Sanhedrin* 1:3, *Chullin* 1:7; Rashi to Bava Kamma
-28a and 32b and Chullin 94a; *Sefer HaTishbi* and *Meturgaman*; *Patshegen* to
-Shemos 22:16 and Bamidbar 22:13; and the *Oxford English Dictionary* on the
-English *-nik* suffix. That closing OED note had been dropped from this entry
-and is now restored, since the column itself cites it. The commentary on Onkelos
-is only *ascribed* to Rabbi Yaakov Dienna, and the entry now says so. The
-working default of rendering both words "refuse" is ours, and so is the judgment
-that "refusenik," which the column uses freely, is too modern for a sefer.
+Rabbi Reuven Chaim Klein, "[Biblical Refuseniks](https://articles.ohr.edu/articles/biblical-refuseniks)," *What's in a Word?*, Ohr Somayach, 19 June 2021.
+
+Cited in the essay: Bereishis 37:35, 39:8, 48:19; Shemos 7:27 with Midrash *Sechel Tov*, 22:16; Bamidbar 20:21, 22:13; Shmuel II 13:9; Yechezkel 2:3, 2:6 with Menachem Ibn Saruk, Donash Ibn Labrat, Rashi and Radak; Mishnah *Berachos* 5:3 with the Rambam and Bartenura, *Nedarim* 8:7 with *Tosafos Yom Tov*, *Moed Katan* 3:3, *Yevamos* 13:1-6, *Bava Metzia* 1:8, *Sanhedrin* 1:3, *Chullin* 1:7; Rashi to Bava Kamma 28a, 32b and Chullin 94a; Targum Onkelos; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgaman*; the commentary to Targum Onkelos ascribed to Rabbi Yaakov Dienna (*Patshegen*), to Shemos 22:16 and Bamidbar 22:13; the *Oxford English Dictionary*.

@@ -30,13 +30,11 @@ and by Mishnaic times it is also the name of a coin. Rabbi Immanuel Chai Ricci
 puts the difference in attachment
 (*sela* joined to the ground, *even* loose enough to pick up); Rabbi Shlomo
 Pappenheim puts it in hardness, with *even* the hypernym that includes *sela*.
-The trap: English "rock" and "stone" are near-interchangeable, so a passage that
-contrasts *even* and *sela* (the Mishnah at *Zevachim* 13:3) needs two clearly
-different English words.
+The Mishnah at *Zevachim* 13:3 sets *even* and *sela* side by side.
 
 ## Distinctions
 
-The article opens with a disclaimer, that its author is no geologist and does
+The column opens with a disclaimer, that its author is no geologist and does
 not pretend to be one, and with the Mishnah that raises the question. *Zevachim*
 13:3 teaches that besides slaughtering a korban outside the Mikdash there is a
 separate prohibition of offering one outside it. Rabbi Yosi holds this applies
@@ -95,7 +93,7 @@ is the rock that *comes up* out of the ground.
   turns on there being two cases.
 - אבן: "stone," in every register, and especially opposite *leveinah*: "stone
   and brick." (Bereishis 11:3, where the builders of Bavel had brick serve them
-  as stone, is our example; the article does not cite it.)
+  as stone, is our example; the column does not cite it.)
 - סלע: "crag" or "rock" where it protrudes or is a height; "*sela*" transliterated
   where it is the coin, never "coin" alone, which loses why the coin has that
   name.
@@ -111,17 +109,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Like a Rock (Part 1)](https://articles.ohr.edu/articles/like-a-rock-part-1)," What's in a Word?, Ohr
-Somayach, 9 Kislev 5779 (2018-11-17); raw text at
-`sources/whats-in-a-word/raw/7990-like-a-rock-part-1.md`. Primary loci cited:
-Bereishis 28:11, 28:18, 29:10, 49:24; *Zevachim* 13:3 with the machlokes of
-Rabbi Yosi and Rabbi Shimon; Yehoshua 10:11; Yirmiyahu 23:29; *HaKesav
-VeHaKabbalah* to Shemos 4:25 and Devarim 9:9. Restored to the body from the
-article, having been dropped from an earlier draft: the columnist's disclaimer
-that he is no geologist, his note that *avnei shayish* is usually called marble
-though limestone suits the Judean Formation better, and his geologist friend
-Aaron Kahn's remark that ice is scientifically a rock. The Bereishis 11:3
-example in the rendering guidance is ours; the article does not cite it.
+Rabbi Reuven Chaim Klein, "[Like a Rock (Part 1)](https://articles.ohr.edu/articles/like-a-rock-part-1)," *What's in a Word?*, Ohr Somayach, 17 November 2018.
 
-This is part 1 of a two-part series; part 2 (wiaw:8000) carries *tzur* and
-*chalamish* and is covered in `rock-tzur-chalamish.md`.
+Cited in the essay: Bereishis 28:11, 28:18, 29:10, 49:24; Yehoshua 10:11; Yirmiyahu 23:29; Mishnah *Zevachim* 13:3; Malbim; Rabbi Immanuel Chai Ricci; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah* to Shemos 4:25 and Devarim 9:9; Rabbi Aharon Marcus; Aaron Kahn.

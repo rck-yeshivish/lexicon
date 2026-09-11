@@ -18,13 +18,12 @@ updated: 2026-09-10
 *Pidyon* (verb *podeh*) is redemption by exchange: **ransom**, **buying back**,
 the fact of being freed. *Geulah* (verb *goel*) is redemption by right of
 kinship and by force, with no payment: **redemption**, **deliverance**, and it
-carries the sense of being raised up, not merely let out. The article stages no
+carries the sense of being raised up, not merely let out. The column stages no
 dispute: it lines up several explanations that run in the same direction (the
 Vilna Gaon, the Chatam Sofer, Rabbi Menachem Mendel of Kosov, Malbim), each
 making *geulah* the fuller term and *pidyon* the transactional or bare one, with
 Rabbi Chaim of Brisk and Rabbi Shmuel Tuvia Stern cutting the difference on
-other axes. A translator must not flatten *pidyon* into "redemption" where the
-passage is about a price paid or a firstborn traded.
+other axes.
 
 ## Distinctions
 
@@ -40,10 +39,10 @@ calamity at hand. Rabbi Menachem Mendel of Kosov: temporary relief from what
 ails one. Malbim: *pidyon* is the bare fact of salvation. Rabbi Shmuel Tuvia
 Stern: *pidyon* takes something holy and releases it by transferring the
 holiness onto something else (the redemption of hekdesh); alternatively,
-*pidyon* is case-by-case redemption of the individual. (The article introduces
+*pidyon* is case-by-case redemption of the individual. (The column introduces
 Rabbi Stern as the late Rabbi of Miami Beach.)
 
-A note on spelling, which the article carries as a closing footnote: *podeh* is
+A note on spelling, which the column carries as a closing footnote: *podeh* is
 generally spelled with a heh, but in one place (Iyov 33:24) Scripture replaces
 the heh with an ayin (פדע). Rashi there and Ramban (to Shemos 21:14) explain
 that ayin and heh are interchangeable letters, so it is the same word. Ibn
@@ -71,20 +70,19 @@ application is Malbim's; it follows on from him.) Rabbi Shmuel Tuvia Stern:
 profane and shakes off its non-holy associations so it may enter the domain of
 the holy; alternatively, *geulah* is mass redemption of the nation at large.
 
-The halachic setting is where the article starts. The end of Vayikra treats
+The halachic setting is where the column starts. The end of Vayikra treats
 redemption in the legal sense: the right, or even the commandment, of the
 impoverished and their extended family to redeem property sold out of
 desperation and bring it back to the family, whether a field, a house of
 residence, or a person sold as a slave (Vayikra 25:25-55), and the halachic
 mechanisms for redeeming consecrated animals, houses, or fields (Vayikra
 27:9-34). The verb there is sometimes *goel* and sometimes *podeh*, and that is
-the question the article opens with. (That the legal usage therefore cannot by
-itself settle the nuance is our inference, not the article's.)
+the question the column opens with.
 
 ## Rendering guidance
 
 - פדיון with a price in view (*pidyon haben*, *pidyon shevuyim*, redeeming
-  hekdesh or a field): "redemption" is conventional, but where the shmuess
+  hekdesh or a field): "redemption" is conventional, but where the passage
   turns on the exchange, prefer "ransom" or "buying back," or gloss "(a
   redemption by exchange)."
 - גאולה: "redemption" is the settled English; "deliverance" where the sense is
@@ -93,15 +91,15 @@ itself settle the nuance is our inference, not the article's.)
 - גואל as the kinsman (*goel hadam*, the *goel* of Rus): "redeemer" keeps the
   kinship sense the column reads into the word, following Malbim's closeness
   principle; do not write "avenger" alone. (The *goel* of Rus is our example;
-  the article cites only *goel hadam*.)
+  the column cites only *goel hadam*.)
 - Trap: English "redemption" absorbs both words. In a passage that names them
   together (the Vilna Gaon's two redemptions of Pesach night, or a derashah on
   why one pasuk says *podeh* and another *goel*), keep both Hebrew words
   visible and render *pidyon* as "ransom/exchange" and *geulah* as
   "redemption."
 - The Aramaic *purkan* belongs to this field as well; see the salvation entry
-  (`salvation-yeshuah-teshuah-hatzalah-purkan.md`) for that cluster. This
-  article does not discuss *purkan*, so nothing here is a ruling on it.
+  ([salvation](salvation-yeshuah-teshuah-hatzalah-purkan.html)) for that cluster. The
+  column does not discuss *purkan*, so nothing here is a ruling on it.
 
 ## Notes for a project
 
@@ -109,17 +107,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Words of Redemption](https://articles.ohr.edu/articles/words-of-redemption)," What's in a Word?, Ohr
-Somayach, 20 Iyar 5778 (2018-05-05): raw text in
-`sources/whats-in-a-word/raw/7742-words-of-redemption.md`. Primary loci the
-article cites: Vayikra 25:25-55 and 27:9-34; Bamidbar 35:19 (*goel hadam*);
-Iyov 33:24 (פדע) with Rashi there and Ramban to Shemos 21:14; the lexicons of
-Ibn Janach, Menachem ibn Saruk, and Radak, which carry separate heh and ayin
-entries; and Malbim's suggestion of a similar-sounding Arabic word meaning
-"removal," which this entry had reported without the article's "may" and which
-is now restored with it. Three things here are ours and not the article's: the
-*goel* of Rus as a second example of the kinsman-redeemer, the inference that
-the legal usage cannot by itself settle the nuance, and the pointer to the
-Aramaic *purkan*. An earlier draft called the Gaon-Chatam Sofer-Malbim line "the
-majority reading"; the article stages no dispute and no minority, so that tally
-has been removed.
+Rabbi Reuven Chaim Klein, "[Words of Redemption](https://articles.ohr.edu/articles/words-of-redemption)," *What's in a Word?*, Ohr Somayach, 5 May 2018.
+
+Cited in the essay: Vayikra 25:25-55, 27:9-34; Bamidbar 35:19; Iyov 33:24 with Rashi; Ramban to Shemos 21:14; the Vilna Gaon; Rabbi Chaim Soloveitchik of Brisk; the Chatam Sofer; Rabbi Menachem Mendel Hager of Kosov; Malbim; Rabbi Shmuel Tuvia Stern; Ibn Janach, Menachem ibn Saruk and Radak.

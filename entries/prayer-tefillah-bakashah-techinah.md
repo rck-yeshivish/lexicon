@@ -28,9 +28,9 @@ of the root it is a plea that Hashem set right what the petitioner feels is
 unjust. *Bakashah* is the **request**, the unscripted asking for one's needs.
 *Techinah* or *tachanun* is
 **supplication**: the appeal of one who admits he has no claim and asks to be
-given anyway, out of *chen*, favor. The trap is rendering all three "prayer";
-where Yaakov's sword and bow are darshened (*Bava Basra* 123a), *tefillah* and
-*bakashah* must be kept apart in English.
+given anyway, out of *chen*, favor. Where Yaakov's sword and bow are darshened
+(*Bava Basra* 123a), *tefillah* and *bakashah* stand side by side, which suggests
+they are not the same thing.
 
 ## Distinctions
 
@@ -40,7 +40,7 @@ swordsman nor an archer; his power was in his voice (Bereishis 27:22). So the
 mesorah (*Bava Basra* 123a) reads the pasuk non-literally: "my sword" is
 *tefillah*, prayer, and "my bow" is *bakashah*, request. Targum Onkelos renders
 the words the same way, *tzeloti* and *bausi*. That the two stand side by side
-suggests they are not the same thing, and the article's question is both what
+suggests they are not the same thing, and the column's question is both what
 divides them and what either has to do with swords and arrows.
 
 ### tefillah (תפילה)
@@ -83,9 +83,8 @@ reading: *tefillah* presses a claim, *techinah* disclaims one.
   Onkelos already separates them, *tzeloti* and *bausi*.
 - *Tachanunim* in a pasuk or a piyut: "supplications," or "pleas for favor"
   where the *chen* is the point. Do not use "prayers."
-- *Bakashah* standing alone in a mussar sefer usually means the asking part of
-  davening; "request" or "petition" both work, but stay consistent inside a
-  chapter.
+- *Bakashah* standing alone usually means the asking part of davening;
+  "request" or "petition" both work, but stay consistent.
 - Trap: English "prayer" absorbs all three, and "supplication" will absorb
   *bakashah* and *techinah* together. Where a passage lists two of them, or
   builds on the contrast (a claim of justice against a plea for favor), give each
@@ -97,11 +96,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Say your Prayers](https://articles.ohr.edu/articles/say-your-prayers)," What's in a Word?, Ohr Somayach,
-16 Teves 5777 (2017-01-14): https://articles.ohr.edu/articles/say-your-prayers;
-raw text in `sources/whats-in-a-word/raw/7090-say-your-prayers.md`. Primary loci:
-Bereishis 48:22 and 27:22; *Bava Basra* 123a; Targum Onkelos to Bereishis 48:22.
-Rabbi Yaakov Tzvi Mecklenburg, Rabbi Simcha Maimon and Rabbi Shmuel Laniado are
-all cited by the article without a locus, and without naming any of their works;
-a reference here to Mecklenburg's *HaKesav VeHaKabbalah* has been removed, since
-the article does not name it. Nothing the article cites is omitted.
+Rabbi Reuven Chaim Klein, "[Say your Prayers](https://articles.ohr.edu/articles/say-your-prayers)," *What's in a Word?*, Ohr Somayach, 14 January 2017.
+
+Cited in the essay: Bereishis 27:22, 48:22 with Targum Onkelos; *Bava Basra* 123a; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Simcha Maimon; Rabbi Shmuel Laniado.

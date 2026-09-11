@@ -23,14 +23,12 @@ updated: 2026-09-10
 *Even* is the general term for any rock; from there the hardness runs *sela*
 (hard), *tzur* (harder still, per both Rabbi Shlomo Pappenheim and Malbim), and
 *chalamish* (per Rabbi Pappenheim, the hardest stones within the *tzur* class).
-Render *tzur* **flintrock** or **hard rock**, and
-where it is a divine epithet, **Rock**; Rambam adds a second sense, the quarry
-a stone is hewn from, hence **source**. *Chalamish* is conventionally **flint**,
+*Tzur* is **flintrock** or **hard rock**, and it is also a divine epithet;
+Rambam adds a second sense, the quarry a stone is hewn from, hence **source**. *Chalamish* is conventionally **flint**,
 but Rabbi Shlomo Pappenheim makes it a subdivision of *tzur*, the very hardest
 stones. The distinguishing fact: Malbim, a *sela* is porous and can hold water,
 a *tzur* cannot, which is why Rabbi Chaim Vital calls a *tzur* the stone that
-gives fire. The trap: rendering both *sela* and *tzur* "rock" flattens Devarim
-32, where the two are theologically distinct.
+gives fire.
 
 ## Distinctions
 
@@ -89,7 +87,7 @@ in construct, *tzur hachalamish* and *chalamish tzur* (Devarim 8:15, 32:13), and
 in the absolute as simply *chalamish* (Tehillim 114:8, Iyov 28:9, Yeshayahu
 50:7).
 
-To sharpen the nuance, the article sends the reader to Mohs' Scale of Mineral
+To sharpen the nuance, the column sends the reader to Mohs' Scale of Mineral
 Hardness, which rates minerals by hardness with talc, the softest, at 1. On that
 scale the calcite-based rocks the first essay identified as *sela* rate a 3,
 while chert, a type of *tzur*, is much harder and rates a 7, and diamonds take
@@ -104,12 +102,11 @@ diamond.
   "crag," *tzur* "flintrock" (or "hard rock"), *chalamish* "flint" or "hardest
   rock." Devarim 32 uses *tzur* repeatedly and *chalamish* once (32:13); a
   translation that says "rock" throughout makes the shirah unreadable as an
-  argument. (The article cites Devarim 32:4, 32:18 and 32:30 for *tzur* as a
-  divine epithet and gives no count of its occurrences; an earlier draft here
-  supplied a tally of five, which is neither the article's nor correct.)
+  argument. (The column cites Devarim 32:4, 32:18 and 32:30 for *tzur* as a
+  divine epithet and gives no count of its occurrences.)
 - צור as a name of Hashem: capital **Rock**, as in "the Rock, His work is
   perfect" (Devarim 32:4). Do not lowercase it and do not substitute
-  "Stronghold" or "Refuge," which belong to other words. The article gives three
+  "Stronghold" or "Refuge," which belong to other words. The column gives three
   separate accounts of why Hashem is called *Tzur*, Rambam's source-sense, Rabbi
   Chaim Friedlander's foundation, and Rabbi Pappenheim's *tzorer*, and "Rock"
   leaves room for all three; the preference for it is ours.
@@ -120,7 +117,7 @@ diamond.
   mark it: a *sela* can hold water, a *tzur* cannot, and per Rabbi Chaim Vital
   the *tzur* is the fire-stone. If both are "rock," the pesukim look like
   repetition. (Applying this to the *sela* Moshe was told to speak to at
-  Bamidbar 20:8 is ours; the article does not cite that pasuk.)
+  Bamidbar 20:8 is ours; the column does not cite that pasuk.)
 - Where *tzur* means a quarry or lineage (Yeshayahu 51:1), render "source" or
   "the rock you were hewn from," and gloss it once; a bare "rock" hides Rambam's
   reading and with it the parallel to Avraham and Sarah in the next pasuk.
@@ -133,26 +130,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Like a Rock (Part 2)](https://articles.ohr.edu/articles/like-a-rock-part-2)," What's in a Word?, Ohr
-Somayach, 16 Kislev 5779 (2018-11-24); raw text at
-`sources/whats-in-a-word/raw/8000-like-a-rock-part-2.md`. Primary loci cited:
-Shemos 4:25 and 39:11; Yehoshua 5:2-3; Devarim 8:15, 32:4, 32:13, 32:18, 32:30;
-Tehillim 114:8; Iyov 28:9; Yeshayahu 26:4, 50:7, 51:1-2; Shmuel I 2:2 with
-*Berachos* 10a; Rambam, *Moreh Nevuchim* 1:16; Rabbi Yosef Kimchi, *Sefer
-HaGalui*; and Mohs' Scale of Mineral Hardness. Shemos 39:11 belongs to the
-article's note that diamond is *yahalom* in Modern Hebrew after one of the gems
-of the choshen, which had been dropped from this entry along with the Mohs
-scale; both are now restored, since the column itself cites them, and the Mohs
-numbers (talc 1, calcite-based *sela* 3, chert 7, diamond 10) are the support
-for the claim that *chalamish* on Rabbi Pappenheim's reading reaches the top of
-the scale. Also restored: the German *Hornstein* for chert, the geology of flint
-and its conchoidal fractures, and the note that chert and flint were both used
-for arrowheads. Three things are ours, not the article's: the preference for
-"Rock" as the English of the divine epithet, the application of Malbim's
-water-versus-fire distinction to Bamidbar 20:8, and the reading of Modern
-Hebrew's *tzur* as inverting the older usage, which an earlier draft asserted
-and which has been removed. An earlier draft also counted *tzur* five times in
-Devarim 32; the article gives no such count, and the count is wrong.
+Rabbi Reuven Chaim Klein, "[Like a Rock (Part 2)](https://articles.ohr.edu/articles/like-a-rock-part-2)," *What's in a Word?*, Ohr Somayach, 24 November 2018.
 
-This is part 2 of a two-part series; part 1 (wiaw:7990) carries *even* and
-*sela* and is covered in `rock-even-sela.md`.
+Cited in the essay: Shemos 4:25, 39:11; Devarim 8:15, 32:4, 32:13, 32:18, 32:30; Yehoshua 5:2-3; Shmuel I 2:2 with *Berachos* 10a; Yeshayahu 26:4, 50:7, 51:1-2; Tehillim 114:8; Iyov 28:9; Rambam, *Moreh Nevuchim* 1:16; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Shlomo Pappenheim; Malbim; Rabbi Chaim Vital; Rabbi Yisrael Menachem Mendel Sacharov; Rabbi Moshe Teitelbaum; Rabbi Chaim Friedlander; Mohs' Scale of Mineral Hardness.

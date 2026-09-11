@@ -18,13 +18,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All three are rendered **prophet**, but they name different sides of the office.
+All three are words for a **prophet**, but they name different sides of the office.
 *Navi* is the prophet as **mouth**, the one who brings and speaks Hashem's word,
 and in Shemos 7:1 it means plainly **spokesman**. *Roeh* is the **seer**, the
 earlier kind, sought out by individuals, whose vision was sharp. *Chozeh* is the
 later **visionary**, the Aramaic word for a seer, and the Vilna Gaon takes the
-switch to Aramaic as a mark of dimmer clarity. Do not render *roeh* and *chozeh*
-identically where a passage sets them side by side.
+switch to Aramaic as a mark of dimmer clarity.
 
 ## Distinctions
 
@@ -39,7 +38,7 @@ the same at Shmuel I 9:9.
 Against this, Ibn Ezra (to Shemos 7:1) rules the derivation untenable: *navi*
 and its cognates never appear in Tanach without an aleph, so the aleph belongs
 to the root, נ-ב-א. Rabbi Yonah Ibn Janach and Radak, each in his *Sefer
-HaShorashim*, take the same root; the article notes the tension in Radak's own
+HaShorashim*, take the same root; the column notes the tension in Radak's own
 two comments and does not resolve it. Rav Hirsch (to Bereishis 20:7) also holds
 נ-ב-א, and reads it off the neighboring נ-ב-ע, "to flow from, to become the
 source of": a *navi* is the source from which Hashem's word issues, the vehicle
@@ -48,7 +47,7 @@ biliteral ב-א, "come, bring": the *navi*'s job is to bring Hashem's word to it
 intended audience, and in the case of Moshe and Aharon, Aharon was Moshe's *navi*
 because his role was that of a spokesman, to bring Moshe's words to Paroh.
 
-The article hangs a live question on which root one accepts. In 2018
+The column hangs a live question on which root one accepts. In 2018
 archaeologists found a seal inscribed with the name Yishaya followed by the
 letters נ-ב-י. Could it be the seal of Yeshayahu HaNavi? It could be, the column
 suggests, that this depends on the root of *navi*: if the *aleph* belongs to the
@@ -113,7 +112,7 @@ together.
   the point being made.
 - Trap: do not turn the *navi*/*roeh* difference into a grading. Malbim's account
   is one of function and of the generation being served. The grading of clarity
-  in the article is the Vilna Gaon's, and it runs between *roeh* and *chozeh*,
+  in the column is the Vilna Gaon's, and it runs between *roeh* and *chozeh*,
   not between *navi* and *roeh*.
 
 ## Notes for a project
@@ -122,18 +121,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Prophets and Visionaries](https://articles.ohr.edu/articles/prophets-and-visionaries)," What's in a Word?, Ohr
-Somayach, 21 Teves 5779 (2018-12-29): raw text in
-`sources/whats-in-a-word/raw/8052-prophets-and-visionaries.md`. Primary loci
-cited: Shemos 7:1; Bereishis 15:1, 20:7; Bamidbar 24:4, 24:16; Shmuel I 9 and
-9:9; Yeshayahu 1:1, 57:19; Mishlei 22:12; Nechemiah 6:7; *Avos d'Rabbi Nasan*
-ch. 34; Ibn Janach and Radak, *Sefer HaShorashim*; Rav Hirsch to Bereishis
-20:7; Vilna Gaon to Mishlei 22:12 and Yeshayahu 1:1; Targum Onkelos and Rasag
-to Shemos 7:1. Restored 2026-09-10 from an earlier omission note: the 2018
-Yishaya seal, which the column ties to the *aleph* machlokes, and the Ugaritic
-derivation of *targum* had been dropped under the Orthodox-sources rule and are
-now in the body. The article closes by pointing the reader to Mitchell First,
-*Roots and Rituals: Insights into Hebrew, Holidays, and History* (Kodesh Press,
-2018) for another look at the etymology of *navi*; the entry does not draw on it.
-The article gives Rabbi Shlomo Pappenheim's dates as 1714-1814, which does not
-match the 1740-1814 it gives elsewhere; the entry cites no dates for him.
+Rabbi Reuven Chaim Klein, "[Prophets and Visionaries](https://articles.ohr.edu/articles/prophets-and-visionaries)," *What's in a Word?*, Ohr Somayach, 29 December 2018.
+
+Cited in the essay: Shemos 7:1 with Rashi, Ibn Ezra, Targum Onkelos and Rasag; Bereishis 15:1, 20:7 with Rashbam and Rav Hirsch; Bamidbar 24:4, 24:16; Shmuel I 9 and 9:9 with Radak; Yeshayahu 1:1, 57:19; Mishlei 22:12; Nechemiah 6:7 with Rashi; *Avos d'Rabbi Nasan* ch. 34; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; the Vilna Gaon to Mishlei 22:12 and Yeshayahu 1:1; Malbim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus.

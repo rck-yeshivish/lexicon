@@ -25,15 +25,15 @@ extension a man's **post**. *Duchan* is Mishnaic, the **platform** the Leviim
 sang from and, in the Gemara, the platform the Kohanim bless from (hence the
 Yiddish *duchenen*); it is a noun, not a verb. *Bimah* is the **stage** or
 **dais**, and *basis* the **base** of a vessel, both Mishnaic. *Itztaba* is a
-raised **platform** or **colonnade** in the Beis HaMikdash. The trap is
-translating *duchan* as an action; a Kohen goes up *to* the *duchan*.
+raised **platform** or **colonnade** in the Beis HaMikdash. *Duchan* is not an
+action; a Kohen goes up *to* the *duchan*.
 
 ## Distinctions
 
 ### kan (כן, sometimes kein)
 The base, foundation, stand or pedestal on which something rests. It is the
 word for the base of the *kiyor* in the Mishkan (Shemos 30:18, 30:28, 31:9,
-35:16, 38:8, 39:39, 40:11; Vayikra 8:11, which the article prints as 8:111),
+35:16, 38:8, 39:39, 40:11; Vayikra 8:11),
 and it serves abstractly for a man's position: Yosef told the butler he would
 be restored *al kanecha*, to your post (Bereishis 40:13, fulfilled at 41:13).
 In this sense the word appears seventeen times in Tanach, on Even Shoshan's
@@ -160,24 +160,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Pinchas: Performance Platforms](https://articles.ohr.edu/articles/pinchas-performance-platforms)," What's in a Word?,
-Ohr Somayach, 21 Tammuz 5784 (2024-07-27):
-https://articles.ohr.edu/articles/pinchas-performance-platforms, raw text in
-`sources/whats-in-a-word/raw/11462-pinchas-performance-platforms.md`. Primary
-loci cited: Shemos 30:18, 30:28, 31:9, 35:16, 38:8, 39:39, 40:11; Vayikra 8:11;
-Bereishis 40:13, 41:13; Mishnah Yoma 5:3-4, Arachin 2:6, Middos 2:6, Kiddushin
-4:5, Sotah 7:8, Avodah Zarah 1:7, Keilim 11:7, Pesachim 1:5, Shekalim 8:4,
-Sukkah 4:4, Niddah 9:3; Taanis 29a; Arachin 11a-11b; Shabbos 118b; Rosh
-Hashanah 28b, 31b; Sotah 38b, 40a, 48a; Menachos 44a; Kiddushin 71a; Bava Basra
-21 with Rashi; Rashi to Sukkah 51b, Avodah Zarah 16a, Sotah 41a; Rambam to
-Keilim 2:3; Rabbi Eliyahu HaBachur, *Sefer Tishbi*, with Rabbi Yaakov Emden's
-*Ezer Ohr*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Kerem Tzvi* to Bamidbar
-6:23; *Degel HaTorah* §11 and *Mekor Baruch* vol. 3 p. 1442; *Torah Shleimah*
-vol. 26 p. 289; Even Shoshan's concordance for the count of seventeen; Rabbi
-Ernest Klein's etymological dictionary of Hebrew; Professor Edward Yechezkel
-Kutscher, *Milim V'Toldoteihen*; Julius Pokorny's Proto-Indo-European
-dictionary; Max Weinreich named for the unsolved *almemar* question. The article
-prints the last *kiyor* verse as Lev. 8:111, a typo for Vayikra 8:11, which the
-entry corrects and flags. It gives the *Reish Duchana* Rashi as Bava Batra 21
-without an amud, and the entry keeps it as the article has it. Nothing the
-article cites is omitted.
+Rabbi Reuven Chaim Klein, "[Pinchas: Performance Platforms](https://articles.ohr.edu/articles/pinchas-performance-platforms)," *What's in a Word?*, Ohr Somayach, 27 July 2024.
+
+Cited in the essay: Shemos 30:18, 30:28, 31:9, 35:16, 38:8, 39:39, 40:11; Vayikra 8:11; Bereishis 40:13, 41:13; Bamidbar 6:23 with *Kerem Tzvi*; Mishnah Yoma 5:3-4, Arachin 2:6, Middos 2:6, Kiddushin 4:5, Sotah 7:8, Avodah Zarah 1:7, Keilim 11:7, Pesachim 1:5, Shekalim 8:4, Sukkah 4:4, Niddah 9:3; Taanis 29a; Arachin 11a-11b; Yoma 15b; Sukkah 51a; Megillah 24b; Shabbos 47a, 117a, 118b, 120b, 125b, 142a; Pesachim 83a; Chullin 125; Rosh Hashanah 28b, 31b; Sotah 38b, 40a, 48a; Menachos 44a; Kiddushin 71a; Bava Basra 21 with Rashi; Rashi to Sukkah 51b, Avodah Zarah 16a, Sotah 41a, Taanis 29a and Arachin 11b; Rambam to Keilim 2:3; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, with Rabbi Yaakov Emden's *Ezer Ohr*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Degel HaTorah* §11 and *Mekor Baruch* vol. 3 p. 1442; *Torah Shleimah* vol. 26 p. 289; Even Shoshan's concordance; Rabbi Ernest Klein's etymological dictionary of Hebrew; Professor Edward Yechezkel Kutscher, *Milim V'Toldoteihen*; Julius Pokorny's Proto-Indo-European dictionary; Max Weinreich.

@@ -42,8 +42,8 @@ remove a thing from its place, and in halachic Hebrew for one law to **override*
 another. *Dochef* is to **hurry** someone, pushed into moving faster than
 planned. *Hadof* is to **thrust away** or **dislodge**, particularly what is
 loosely held. *Dofek* is repeated beating: to **knock** at a door, to **drive**
-animals too hard, later a **pulse**. The trap: English "push" will take all five,
-and *docheh* in a sugya is not physical at all.
+animals too hard, later a **pulse**. *Docheh* in a sugya is not physical at
+all.
 
 ## At a glance
 
@@ -57,7 +57,7 @@ and *docheh* in a sugya is not physical at all.
 
 ## Where the authorities disagree
 
-The article opens by saying it is important to distinguish the physical act of
+The column opens by saying it is important to distinguish the physical act of
 pushing from the metaphorical sense of being pushed around or coerced, and that
 some of these words carry both.
 
@@ -72,8 +72,7 @@ narrow passageway; evidently, the column notes, Shadal took the *peh* as a
 radical added to the core two-letter root. Rabbi Yaakov Tzvi Mecklenburg (*HaKsav
 VeHaKabbalah* to Bereishis 19:9) interprets the second occurrence, of the
 Sedomites, in the physical sense: they physically pushed Lot away from the door,
-preventing him from protecting his guests. This guide keeps "press" as the
-default and allows the physical sense where the narrative demands it.
+preventing him from protecting his guests.
 
 **Where dochef comes from.** Menachem Ibn Saruk, Ibn Janach, and Radak all trace
 it to the triliteral ד-ח-פ. Rabbi Shlomo Pappenheim instead reads it as a fusion
@@ -82,18 +81,18 @@ someone's face away, symbolizing the rejection of his presence and the urgency t
 redirect himself toward another task. Separately, Rabbi David Golomb writes that
 *hadof* is related to *dochef*, arguing that *hei* and *ches* can be viewed as
 interchangeable; the reordering that moves the guttural into second position is
-marked in the article as the columnist's own inference ("and, evidently").
+marked in the column as the columnist's own inference ("and, evidently").
 
 **How hadof differs from docheh.** Rabbi Pappenheim derives *hadof* from ד-פ,
 "pushing away with ease," and illustrates it with Geichazi shoving the Shunamis
 woman (Melachim II 4:27), which he says was easy because she was on a mountain
 and the incline made her footing more precarious. The Malbim (*Yair Ohr*) offers
 a similar explanation from a different angle, insinuating that *hadof* implies
-pushing away something less rooted in its original location. The article also
+pushing away something less rooted in its original location. The column also
 records, without drawing a conclusion from it, that Targum there uses an Aramaic
 form of *dachah* for what Geichazi did.
 
-**What dofi means.** Rabbi Pappenheim traces *dofi* to this root, and the article
+**What dofi means.** Rabbi Pappenheim traces *dofi* to this root, and the column
 notes that Rabbi David Abudarham of Seville had made the same connection earlier,
 in his commentary to the *vidui*, where the penitent admits to having spoken
 *dofi*: it is speaking derogatorily about another, by which one has essentially
@@ -109,7 +108,7 @@ does not rank the two.
 Yonasan uses a cognate of *dchak*, the people pushing the door to break it open.
 *Metzudas Tzion* (there, and to Shir HaShirim 5:2) explains that they were more
 gently knocking, to convince the host to open up. This is the whole difference
-between menace and request, so a translator must choose.
+between menace and request.
 
 ## Distinctions
 
@@ -132,7 +131,7 @@ filth away; *dochan*, rice or millet, grain-like granules extracted by pushing
 them out of their husks. Rav Hirsch (to Bereishis 20:13) compares
 *docheh* to *toeh* (becoming lost), on the interchange of dalet with tav and
 ches with ayin: a man pushed from home and a man who has lost his way are both
-severed from a secure base. The root ד-ח-ק (*dchak*) is the article's near
+severed from a secure base. The root ד-ח-ק (*dchak*) is the column's near
 neighbor, treated in its own piece. In Talmudic usage a positive command
 *docheh*, "pushes aside," a negative one, and in yeshivishe speech one is
 *docheh* an argument.
@@ -152,7 +151,7 @@ or deliberately (Bamidbar 35:20); Geichazi and the Shunamis woman (Melachim II
 4:27). Rabbi Pappenheim brings the Mishnaic *dofan* here, a flimsy wall easily
 pushed aside (Yoma 2:3, Sukkah 1:1, Zevachim 8:1, Keilim 2:2, and many more),
 and with it *daf*, the wooden board such a wall was often built of, which in
-later medieval Hebrew becomes a page or folio in a book. The article adds in
+later medieval Hebrew becomes a page or folio in a book. The column adds in
 brackets that in most of its Mishnaic occurrences *dofan* is used in a borrowed
 sense, of a child born by Cesarean section or otherwise by cutting through a
 physiological barrier to remove the child from the womb. Pappenheim also brings
@@ -180,7 +179,7 @@ that continues into Modern Hebrew and is not far from the original in Shir
 HaShirim. One of the Wilderness encampments was named Dafkah (Bamidbar
 33:12-13), seemingly from the same root.
 
-The article closes with a historical aside. Norbert Pearlroth, who served as
+The column closes with a historical aside. Norbert Pearlroth, who served as
 research director of *Ripley's Believe It or Not!* for over half a century, wrote
 in his column on Jewish family names (*The Indiana Jewish Post*, 29 March 1946,
 p. 8) that the surname Deifik comes from *dofek*, "pulse": before 1848 Jews could
@@ -215,30 +214,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayera: Getting Pushy](https://articles.ohr.edu/articles/vayera-getting-pushy)," What's in a Word?, Ohr
-Somayach, 20 Cheshvan 5784 (2023-11-04): raw text in
-`sources/whats-in-a-word/raw/11128-vayera-getting-pushy.md`. Primary loci:
-Bereishis 19:3, 19:9, 20:13, 33:11, 33:13; Bamidbar 35:20, 35:22, 33:12-13;
-Devarim 6:19, 9:4, 22:1; Yehoshua 23:5; Shoftim 19:7, 19:22; Melachim II 4:27;
-Yeshayahu 11:12, 27:13; Yirmiyahu 23:12; Tehillim 50:20, 56:14, 116:8, 118:13,
-140:12; Mishlei 14:32, 26:28; Shir HaShirim 5:2; Esther 3:15, 6:12, 8:14; Divrei
-HaYamim II 26:20; *HaKsav VeHaKabbalah* to Bereishis 19:9; Malbim, *Yair Ohr*;
-Abudarham to the *vidui*; Ramban's responsa printed under *Rashba* §127.
-Also Menachem Ibn Saruk, Ibn Janach and Radak on ד-ח-פ; Rabbi Shlomo Pappenheim's
-*dofan* list (the entry gives a sample; the article's runs through some two dozen
-tractates); Norbert Pearlroth, *The Indiana Jewish Post*, 29 March
-1946, p. 8, and David L. Gold, there, 31 October 1990, p. 16. Two citation slips
-in the article are corrected here: *dofi* is Tehillim 50:20 (the article prints
-50:2, both where it cites Pappenheim and where it cites Rashi), and *kol dodi
-dofek* is Shir HaShirim 5:2 (the article prints 2:5, and again in its citation of
-*Metzudas Tzion*). Restored 2026-09-10 from an earlier omission note: the
-Even-Shoshan count of eleven for ד-ח-ה, Shadal on both פ-צ-ר and ד-פ-ק with his
-student Rabbi Abraham Grego of Verona, and the Pearlroth/Gold research into the
-surname Deifik, all dropped under the Orthodox-sources rule, are now in the body.
-Shadal's cut had removed a live third reading of *potzer*. Two attributions were
-also corrected: the explanation of *dofi* as pushing aside the victim of one's
-speech is Abudarham's, not Rashi's (Rashi is cited only for linking *dofi* with
-*hadof*), and a former line calling Rashi and Abudarham "the majority" over Rabbi
-Yosef Kimchi has been cut, the article ranking no one. The article also refers
-the reader to its own earlier pieces "Putting Pressure" (April 2022) on ד-ח-ק and
-"Lost or Mistaken" (June 2018) on *toeh*; the entry does not draw on them.
+Rabbi Reuven Chaim Klein, "[Vayera: Getting Pushy](https://articles.ohr.edu/articles/vayera-getting-pushy)," *What's in a Word?*, Ohr Somayach, 4 November 2023.
+
+Cited in the essay: Bereishis 19:3, 19:9, 20:13, 33:11, 33:13; Bamidbar 33:12-13, 35:20, 35:22; Devarim 6:19, 9:4, 22:1; Yehoshua 23:5; Shoftim 19:7, 19:22; Melachim II 4:27 with Targum; Yeshayahu 11:12, 27:13; Yirmiyahu 23:12; Tehillim 50:20, 56:14, 116:8, 118:13, 140:12; Mishlei 14:32, 26:28; Shir HaShirim 5:2; Esther 3:15, 6:12, 8:14; Divrei HaYamim II 26:20; Mishnah Yoma 2:3, Sukkah 1:1, Zevachim 8:1, Keilim 2:2; Rav Hirsch to Bereishis 19:3, 20:13 and Bamidbar 35:20; Shadal to Bereishis 33:11 and 33:13; Rabbi Abraham Grego; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 19:9; Menachem Ibn Saruk; Ibn Janach; Radak; Rabbi Shlomo Pappenheim; Rabbi David Golomb; Malbim, *Yair Ohr*; Rabbi David Abudarham to the *vidui*, citing Rabbi Yosef Kimchi; Rashi to Tehillim 50:20; Targum Yonasan and *Metzudas Tzion* to Shoftim 19:22; *Metzudas Tzion* to Shir HaShirim 5:2; Ramban's responsa printed under *Rashba* §127; Even-Shoshan's concordance; Norbert Pearlroth, *The Indiana Jewish Post*, 29 March 1946, p. 8; David L. Gold, *The Indiana Jewish Post*, 31 October 1990, p. 16.

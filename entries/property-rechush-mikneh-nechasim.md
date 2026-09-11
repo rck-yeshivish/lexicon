@@ -35,8 +35,8 @@ updated: 2026-09-10
 gathered. *Mikneh* is not property at large but **livestock**, the herds that
 were the ancient world's measure of wealth. *Nechasim*, always plural, is
 **assets**, the word the Mishnah uses where Tanach would say *rechush* or
-*mikneh*. The trap: *mikneh* shares the root of *kinyan* and looks like a general
-word for what one has acquired, but unless context forces otherwise it is herds.
+*mikneh*. *Mikneh* shares the root of *kinyan* and looks like a general word
+for what one has acquired, but unless context forces otherwise it is herds.
 
 ## At a glance
 
@@ -67,10 +67,7 @@ word for what one has acquired, but unless context forces otherwise it is herds.
    maidservants. The column offers this as an explanation that "can be gleaned"
    from him, not as his stated position.
 
-The column does not adjudicate between the three. This guide's working default is
-Radak's, which is the safe reading where a verse carries only one of the two;
-where both stand together, Rav Hirsch's contrast is what makes the pair say
-something.
+The column does not adjudicate between the three.
 
 **Where *nechasim* comes from.** Bamidbar Rabbah 22:8 and Rabbi Shlomo Pappenheim
 take it from KAF-SAMECH, whose core sense for Pappenheim is placing one thing on
@@ -165,7 +162,7 @@ he does not need the aid of others to survive.
   translation. Bereishis 13:6, the herdsmen's quarrel, has *rechush* in the wide
   sense: render "possessions."
 - *Nechasim* in a Mishnah or Gemara is "assets" or "estate," not "property"; the
-  article's point that it is the standard rabbinic term for a man's *total*
+  column's point that it is the standard rabbinic term for a man's *total*
   assets wants the financial word.
 - Where a derashah turns on *nechasim* and *kisui*, transliterate and gloss.
 
@@ -175,20 +172,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Prime Property](https://articles.ohr.edu/articles/prime-property)," What's in a Word?, Ohr Somayach,
-11 Cheshvan 5783 (2022-11-05): raw text in
-`sources/whats-in-a-word/raw/10695-prime-property.md`. Primary loci cited:
-Bereishis 12:5, 13:2, 13:6, 14:11, 14:12, 14:16, 14:18, 14:21, 15:14, 31:18,
-34:23, 36:6-7 (the article prints 15:15 for the promise of great *rechush*; the
-locus is 15:14); Shemos 12:4, 28:28; Yeshayahu 1:3; Shoftim 12:6; Yehoshua 22:8;
-Koheles 5:18, 6:2; Divrei HaYamim II 1:11 and 1:12; Ezra 6:8, 7:26; Bamidbar
-Rabbah 22:8; Avos 2:7 and *Midrash Shmuel* to Avos 2:8; Radak, *Sefer
-HaShorashim*; *Ohalei Yehudah*; *Shoresh Yesha*; Dr. Gerald Leonard Cohen,
-*Comments on Etymology*. The Mishnah loci above are a sample; the article's own
-list runs to some three dozen tractate references. Restored 2026-09-10 from an
-earlier omission note: Tur-Sinai's derivation of *rechush* from *rechesh*, Rabbi
-Marcus's Phoenician and Akkadian cognates of *nechasim* together with his
-*shin*/*lamed* note on *rochel*, and Dr. Cohen's observation about *aleph* and
-*gimmel* had all been dropped under the Orthodox-sources rule and are now in the
-body. Tur-Sinai's restoration matters: without it the *Ohalei Yehudah* remark on
-*rechesh* rested on a word the entry never introduced.
+Rabbi Reuven Chaim Klein, "[Prime Property](https://articles.ohr.edu/articles/prime-property)," *What's in a Word?*, Ohr Somayach, 5 November 2022.
+
+Cited in the essay: Bereishis 12:5, 13:2, 13:6, 14:11, 14:12, 14:16, 14:18, 14:21, 15:14, 31:18, 34:23, 36:6-7; Shemos 12:4, 28:28 with Rashi; Yehoshua 22:8; Shoftim 12:6; Yeshayahu 1:3; Koheles 5:18, 6:2; Ezra 6:8, 7:26; Divrei HaYamim II 1:11, 1:12; Mishnah Peah 3:6-8, Kesubos 8:1-2, Bava Basra 8:3-7, Avos 2:7; Bamidbar Rabbah 22:8; Radak to Bereishis 12:5, 14:11 and *Sefer HaShorashim*; Ibn Ezra to Bereishis 12:5; Rav Hirsch to Bereishis 12:5, 13:2, 31:18; Ramban to Bereishis 14:18, 34:23; *Midrash Sechel Tov* to Bereishis 31:18, 36:6-7; Rabbi Shmuel de Ucedah, *Midrash Shmuel* to Avos 2:8; Rabbi Shimon Yehuda Leib Goldblit; *Shoresh Yesha*; *Ohalei Yehudah*; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Solomon Rabinowitz; Naftali Tur-Sinai; Dr. Gerald Leonard Cohen, *Comments on Etymology*.

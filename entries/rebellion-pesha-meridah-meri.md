@@ -24,13 +24,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Three words that all come out "rebel," and the article's own summary separates
-them cleanly. *Pesha* at its core is **negligence** born of laziness, and means
+Three words for rebellion, and the column's own summary separates them
+cleanly. *Pesha* at its core is **negligence** born of laziness, and means
 **rebellion** only by extension. *Meridah* is **revolt** as a counter-response,
 throwing off a present ruler. *Meri* and *mamre* are **defiance** as switching
-allegiance, replacing one authority's word with another's. The trap: a lazy
-*poshea* is not a revolutionary, and in the *shomrim* sugya (Shemos 22:8)
-*poshea* must be "negligent," never "rebel."
+allegiance, replacing one authority's word with another's. A lazy *poshea* is
+not a revolutionary, and in the *shomrim* sugya (Shemos 22:8) the *poshea* is
+**negligent**, not a rebel.
 
 ## Distinctions
 
@@ -88,7 +88,7 @@ Moshe calls the nation *mamrim* for refusing Hashem's word (Devarim 9:7, 9:24,
 (Devarim 21:18), *moreh* being a cognate of *mamre*. The *Sifrei* (*Ki Seitzei*
 218) darshens that *moreh* on *moreh* meaning "teaching": the boy has taught
 himself another path. But that exegesis, the column notes, does not tell us the
-etymological basis of *mamre*, and it is for that that the article turns to the
+etymological basis of *mamre*, and it is for that that the column turns to the
 lexicographers. Ibn Janach and Radak give the roots מ-ר-ה and מ-ר-ר, both of
 which can refer to rebelling or to changing from what one was commanded;
 *Machberet Menachem*, as one would expect, links them all to the biliteral מ-ר.
@@ -110,7 +110,7 @@ Rabbi Aharon Marcus blurs the distinction between *meri*/*mamre* and
 core meaning is reflected in the honorific *Mar*, an expression of dignity and
 sovereignty. As Marcus *seems* to understand it, one who rebels against authority
 is poised to assert his own self-possession and dignity, reestablishing himself
-as an autonomous being. The article notes that Rabbi
+as an autonomous being. The column notes that Rabbi
 Shlomo Pappenheim's list cannot include *meridah*, because his system admits
 only hei, aleph, mem, nun, tav, yud or vav as the added third letter, and
 *meridah*'s is a dalet.
@@ -142,22 +142,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Revolting Revolutions](https://articles.ohr.edu/articles/revolting-revolutions)," What's in a Word?, Ohr
-Somayach, 2 Tamuz 5781 (2021-06-12): raw text in
-`sources/whats-in-a-word/raw/9245-revolting-revolutions.md`. Primary loci cited:
-Bamidbar 16:1 with Rashi and *Midrash Tanchuma*; Yehoshua 1:18; *Sanhedrin* 49a
-and 11:2; Melachim II 3:4-5, 8:22, 18:20; Mishlei 18:19; *Yoma* 36b; Shemos
-22:8; *Bava Kama* 21b and 29a; Yeshayahu 1:2, 36:5, 58:7; Yirmiyahu 33:8;
-Bereishis 1:28, 14:4; Vayikra 25:43; Divrei HaYamim II 36:13; Yechezkel 2:3;
-Eichah 1:7; Devarim 9:7, 9:24, 21:18, 31:27; *Shabbos* 69a and 87a; *Eruvin*
-69a-b; *Yevamos* 47b; *Sifrei*, *Ki Seitzei* 218; Rav Hirsch to Bereishis 14:4;
-Ibn Janach and Radak, *Sefer HaShorashim*; *Machberet Menachem*. Restored
-2026-09-10: the article's reference to the Mesha Stele, which had been dropped,
-is now in the body, as is its bracketed note that Targum renders Hebrew *meridah*
-with an Aramaicized form of the same word (Bereishis 14:4, Melachim II 18:20,
-Yeshayahu 36:5, Yechezkel 2:3) and its observation that the *Sifrei*'s derashah
-on *moreh* does not supply the etymology of *mamre*. Those four loci had been
-sitting in this paragraph while the body used none of them. One attribution was
-also corrected: the reasoning that apathy before a king amounts to rebellion is
-the column's own development, not a quotation of Rabbi Shlomo Pappenheim, whose
-stated point stops at *pesha* as negligence born of laziness.
+Rabbi Reuven Chaim Klein, "[Revolting Revolutions](https://articles.ohr.edu/articles/revolting-revolutions)," *What's in a Word?*, Ohr Somayach, 12 June 2021.
+
+Cited in the essay: Bereishis 1:28, 14:4; Shemos 22:8; Vayikra 25:43; Bamidbar 16:1 with Rashi and *Midrash Tanchuma*; Devarim 9:7, 9:24, 21:18, 31:27; Yehoshua 1:18; Melachim II 3:4-5, 8:22, 18:20; Yeshayahu 1:2, 36:5, 58:7; Yirmiyahu 33:8; Yechezkel 2:3; Mishlei 18:19; Eichah 1:7; Divrei HaYamim II 36:13; Mishnah *Sanhedrin* 11:2; *Yoma* 36b; *Shabbos* 69a, 87a; *Eruvin* 69a-b; *Yevamos* 47b; *Bava Kama* 21b, 29a; *Sanhedrin* 49a; *Sifrei*, *Ki Seitzei* 218; Targum; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; *Machberet Menachem*; Rabbi Shlomo Pappenheim; Rav Hirsch to Bereishis 14:4; Rabbi Aharon Marcus; the Mesha Stele.

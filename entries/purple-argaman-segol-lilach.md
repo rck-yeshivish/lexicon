@@ -36,12 +36,10 @@ Classical Hebrew has no word for purple. *Argaman* is not a color word at all:
 all commentators agree it is **wool dyed** a certain color, and the shade the
 traditional sources describe is a **red**, whether crimson, orange, or a
 yellowish red; none of them makes it a mixture of red with blue or green. (One
-academic reading the article reports, Professor Athalya Brenner-Idan's, does
-stretch the term as far as violet; see below.) Render it "*argaman*" and gloss it
-as red-dyed wool;
-if a translation demands the conventional "purple," say in a note that the
-English word once covered any deep red. *Segol* and *lilach* are Modern Hebrew
-flower-names pressed into service as color words, of no use in a Chumash.
+academic reading the column reports, Professor Athalya Brenner-Idan's, does
+stretch the term as far as violet; see below.) The English word "purple" once
+covered any deep red. *Segol* and *lilach* are Modern Hebrew flower-names
+pressed into service as color words, with no standing in Tanach.
 
 ## At a glance
 
@@ -77,9 +75,8 @@ flower-names pressed into service as color words, of no use in a Chumash.
 The column does not treat these as flatly opposed on the color. Even though
 Raavad, Rashi and the others do not explicitly identify *argaman* as red, it does
 still seem to be their understanding; they seem to hold that *argaman* takes in
-multiple shades of red. This guide's rendering follows Rambam, whose approach is
-echoed by the later authorities the article names, and flags Raavad because it
-changes what a translator may claim about the shade.
+multiple shades of red. Rambam's approach is echoed by the later authorities
+the column names.
 
 **Which red.** Radak (*Sefer HaShorashim*) first writes crimson red, then cites
 Rasag that *tola'as shani* is the crimson red, and concludes that *argaman* must
@@ -130,8 +127,7 @@ Thirty-eight appearances in Tanach. *Argavan* in Divrei HaYamim II 2:6 and
 *argavana* in Daniel 5:7 are alternate forms of the same word, on the
 interchangeability of *mem* and *vav*, and *argavana* is also how Targum renders
 *argaman*. One point holds across every view: *argaman* names dyed wool, not a
-color, so even a translator who insists on "purple" must say purple *wool*, not
-the color purple.
+color.
 
 Two passages make it fairly clear that *argaman* is not purple. Rashi (to Shir
 HaShirim 7:6) implies *argaman* is a color sometimes found in women's hair; as
@@ -209,31 +205,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Color Purple](https://articles.ohr.edu/articles/the-color-purple)," What's in a Word?, Ohr Somayach,
-11 Adar Alef 5782 (2022-02-12): raw text in
-`sources/whats-in-a-word/raw/9575-the-color-purple.md`; the article credits
-*Kuntres Merkavo Argaman* by Rabbi Yisrael Rosenberg of Lakewood for much of its
-material. Primary loci the article cites: Shemos 25:4; Bamidbar 4:13; Bereishis
-49:11; Tehillim 68:28; Mishlei 26:8; Shir HaShirim 7:6; Divrei HaYamim II 2:6;
-Daniel 5:7; *Yoma* 45a; *Berachos* 43b; *Shabbos* 50b; *Mishnah Kilayim* 9:1;
-*Shir HaShirim Rabbah* 3:16; *Bamidbar Rabbah* 12:4; *Pirkei D'Rabbi Eliezer* ch.
-50; *Sifrei Zuta*, *Midrash HaGadol*, and *Yalkut Midrashei Teiman* to Bamidbar
-4:13; *Midrash Agur* ch. 14; *Midrash Chefetz* and *Meor HaAfeilah* to Shemos
-25:4; Zohar *Idra Rabbah* 141b and *Terumah* 139a; Rambam, *Klei HaMikdash* 8:13
-and his commentary to *Kilayim* 9:1; *Aruch HaShulchan HaAsid*, *Klei HaMikdash*
-28:12; Radak, *Sefer HaShorashim*; *Machberes Menachem*; *Toras HaMinchah*,
-*Tetzaveh*; Rambam's commentary to *Kilayim* 9:1 with Rabbi Yosef Kurkis and
-Rabbi Yosef Karo on Raavad; Rabbi Eliyahu HaBachur, *Meturgaman*; *Ohalei
-Yehudah*; the *Oxford English Dictionary* s.v. *purple*. Restored 2026-09-10 from
-an earlier omission note: the Akkadian *argamannu* derivation reported in the
-names of Rabbi Dr. Ernest Klein and Dr. Chaim Tawil, W. F. Albright's Hittite and
-Ugaritic tribute cognates, the Temple Scroll's *argaman adom*, and Professor
-Athalya Brenner-Idan's readings had all been dropped under the Orthodox-sources
-rule and are now in the body. Two of those cuts had bent the entry: the argument
-that *argaman* in Shir HaShirim 7:6 cannot be purple because no natural hair is
-purple is Brenner-Idan's and had been left standing as the entry's own, and her
-reading of *argaman* as reaching to violet contradicted the entry's flat claim
-that no source makes it a red-blue mixture. That claim is now scoped, as the
-article scopes it, to the traditional sources. A former line saying Rambam's view
-is "the majority" has been cut; the article counts no one, saying only that
-Rambam's approach is echoed by later authorities.
+Rabbi Reuven Chaim Klein, "[The Color Purple](https://articles.ohr.edu/articles/the-color-purple)," *What's in a Word?*, Ohr Somayach, 12 February 2022.
+
+Cited in the essay: Bereishis 49:11 with Targum Onkelos and Rashi; Shemos 25:4 with Rabbi Avraham Maimuni, *Midrash Chefetz* and *Meor HaAfeilah*; Bamidbar 4:13 with *Sifrei Zuta*, *Midrash HaGadol* and *Yalkut Midrashei Teiman*; Tehillim 68:28 with Rashi; Mishlei 26:8 with Ibn Ezra; Shir HaShirim 7:6 with Rashi; Daniel 5:7 with Rabbi Tanchum HaYerushalmi; Divrei HaYamim II 2:6; *Yoma* 45a; *Berachos* 43b and *Shabbos* 50b with Rashi; Mishnah *Kilayim* 9:1 with Rambam's commentary and Bartenura; Rambam, *Klei HaMikdash* 8:13; Raavad; Rabbi Yosef Kurkis; Rabbi Yosef Karo; *Shir HaShirim Rabbah* 3:16; *Bamidbar Rabbah* 12:4; *Pirkei D'Rabbi Eliezer* ch. 50; *Midrash Agur* ch. 14; Zohar *Idra Rabbah* 141b and *Terumah* 139a; *Toras HaMinchah*, *Tetzaveh*; Rabbi Yechiel Michel Epstein, *Aruch HaShulchan HaAsid*, *Klei HaMikdash* 28:12; Radak, *Sefer HaShorashim*, citing Rasag; Ibn Ezra; *Machberes Menachem*; *Ohalei Yehudah*; Rabbi Eliyahu HaBachur, *Meturgaman*; Targum Yerushalmi; the Septuagint; the Temple Scroll; Rabbi Dr. Ernest Klein; Dr. Chaim Tawil; William Foxwell Albright; Professor Athalya Brenner-Idan; Yechiel Michel Pines; the *Oxford English Dictionary* s.v. *purple*; Rabbi Yisrael Rosenberg, *Kuntres Merkavo Argaman*.

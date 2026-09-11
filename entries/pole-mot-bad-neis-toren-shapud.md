@@ -25,10 +25,7 @@ updated: 2026-09-10
 in the Mishkan vessels, a stave slid through rings: **stave**. *Neis* is a tall
 upright pole raised to be seen, hence **banner, standard**, and on a ship the
 **sail**. *Toren* is the **mast** that holds the *neis* up. *Shapud* is a
-pointed **skewer** or spit. The trap: "pole" will absorb all five. Reserve
-"stave" for the Mishkan *badim* (never "poles of the Ark" where a derashah
-turns on *bad*, "alone"), and never render *neis* as "pole" where it carries a
-banner or where the pasuk plays on *neis*, "miracle."
+pointed **skewer** or spit.
 
 ## Distinctions
 
@@ -75,7 +72,7 @@ habad* (*Shabbos* 1:9, *Nedarim* 3:2, *Bava Metzia* 10:4, *Bava Basra* 1:6 and
 ### neis (נס)
 A tall pole or flagpole, appearing about twenty times in Tanach on Even
 Shoshan's concordance. The copper snake was set on a *neis* so that the bitten
-could look at it and live (Bamidbar 21:8-9; the article prints 21:89), and we
+could look at it and live (Bamidbar 21:8-9), and we
 daven to "raise a *neis* to gather in our exiles." Pappenheim defines it as a
 tall *mot* and does not trouble himself over the near synonymy. Roots:
 *Machberes Menachem*, נ-ס, which also yields fleeing and miracle; Radak (*Sefer
@@ -168,21 +165,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shelach: Message on a Pole](https://articles.ohr.edu/articles/shelach-message-on-a-pole)," What's in a Word?, Ohr
-Somayach, 23 Sivan 5784 (2024-06-29): raw text in
-`sources/whats-in-a-word/raw/11433-shelach-message-on-a-pole.md`. Primary loci:
-Bereishis 17:20, 22:1, 39:12; Shemos 15:25, 25:13-15, 25:28, 27:7, 30:4, 37:5,
-37:14, 37:27, 38:7; Vayikra 26:13; Bamidbar 4:10, 4:12, 13:23, 21:8-9 (the
-article prints 21:89); Yeshayahu 30:17, 33:23, 58:6; Yechezkel 27:5, 30:18;
-Nachum 1:13; Tehillim 4:7; Zohar *Shelach* 160b; *Mechilta* to Shemos 15:25;
-*Tanchuma Vayeira* 43; Mishnah *Bava Basra* 5:1 and the mishnayos of *beis
-habad* and *shapud* listed above; *Bava Basra* 73a; Even Shoshan's concordance
-for the count of about twenty; Rabbi Ernest Klein on the Greek *spodos*; Doron
-Yaakov, *Academ* vol. 40 pp. 2-3, for the Academy of the Hebrew Language's 2019
-ruling on *shipud*; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the
-Torah* 120-125. The Proto-Indo-European and Grimm's Law derivation of English
-*spit* is the column's own speculation and is reported as such. The article
-prints the copper-snake locus as Num. 21:89, a run-together of Bamidbar 21:8-9.
-Nothing the article cites is omitted.
+Rabbi Reuven Chaim Klein, "[Shelach: Message on a Pole](https://articles.ohr.edu/articles/shelach-message-on-a-pole)," *What's in a Word?*, Ohr Somayach, 29 June 2024.
 
-The source article is truncated mid-sentence at the source, cutting the close of an aside on a Danish cognate; nothing the entry rests on is affected.
+Cited in the essay: Bereishis 17:20, 22:1, 39:12; Shemos 15:25, 25:13-15, 25:28, 27:7, 30:4, 37:5, 37:14, 37:27, 38:7; Vayikra 26:13; Bamidbar 4:10, 4:12, 13:23, 21:8-9; Yeshayahu 30:17, 33:23, 58:6; Yechezkel 27:5, 30:18; Nachum 1:13; Tehillim 4:7; Zohar *Shelach* 160b; *Mechilta* to Shemos 15:25; *Tanchuma Vayeira* 43; Mishnah *Shabbos* 1:9, *Pesachim* 7:1-2, *Sukkah* 1:8, *Nedarim* 3:2, *Bava Kamma* 8:1, *Bava Metzia* 10:4, *Bava Basra* 1:6, 4:4-5, 5:1, *Shevuos* 3:8, *Avodah Zarah* 5:12, *Zevachim* 11:7, *Keilim* 5:5, 7:3, 12:3, 20:3, *Ohalos* 1:3, *Taharos* 10:1-2, 10:8, *Zavim* 4:7; Rambam's commentary to *Bava Basra* 5:1; Rashi to *Bava Basra* 73a and to Yeshayahu 30:17; Rav Hirsch to Bereishis 17:20, 22:1 and Tehillim 4:7; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Ibn Janach and Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheishek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; the Kaufmann manuscript of the Mishnah; Even Shoshan's concordance; Rabbi Ernest Klein; Doron Yaakov, *Academ* vol. 40 pp. 2-3; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* 120-125.

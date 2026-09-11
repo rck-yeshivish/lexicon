@@ -20,8 +20,7 @@ updated: 2026-09-10
 banks; Rashi (to Shemos 7:19) glosses it **an irrigation canal**, and standing
 alone it is **the River**, the Nile. *Nachal* is a **brook** or **wadi**, the
 seasonal watercourse that cuts a valley and runs to the sea, and the same word
-names the valley itself. The one thing not to get wrong: Rabbi Malkiel Tzvi
-Tannenbaum *proposes* that *nahar* and *yeor* are only sharply distinguished
+names the valley itself. Rabbi Malkiel Tzvi Tannenbaum *proposes* that *nahar* and *yeor* are only sharply distinguished
 when they appear together, so that Rashi's canal is what *yeor* means beside a
 *nahar*; apart, on his proposal, either word can mean a river of any kind.
 
@@ -41,7 +40,7 @@ discussion Malbim (to Yeshayahu 19:5) sizes the three: a *nahar* is shallow,
 short and narrow, a *nachal* is wider but also not deep, and a *yeor* denotes an
 even smaller stream. There Malbim *again* notes that the *yeor* differs from the
 other two in tending to overflow, so the two passages agree on that point. One
-further reading the article records anonymously: others explain that a *nachal*
+further reading the column records anonymously: others explain that a *nachal*
 is a seasonal river caused by rainwater flowing down from the mountains, while a
 *nahar* is a river that continues to flow the entire year.
 
@@ -75,7 +74,7 @@ shooting its waters outwards. (That bridge is the column's own, not Pappenheim's
 and not Malbim's.)
 
 ### nachal (נחל)
-Means both a river and a valley. The article gives two anonymous accounts of the
+Means both a river and a valley. The column gives two anonymous accounts of the
 connection: some explain that a *nachal* is the type of river that causes
 erosion, thereby creating a valley in the manner of the Grand Canyon, which in
 English we call a *wadi*, a word borrowed from Arabic; others explain that a
@@ -115,18 +114,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Down by the River](https://articles.ohr.edu/articles/down-by-the-river)," What's in a Word?, Ohr Somayach,
-28 Teves 5779 (2019-01-05):
-`sources/whats-in-a-word/raw/8076-down-by-the-river.md`. Primary loci: Shemos
-7:19 with Rashi; Bereishis 2:11; Yirmiyahu 46:10 and Yeshayahu 19:5 with Malbim;
-Koheles 1:7; Rabbi Malkiel Tzvi Tannenbaum of Lomzha, *Divrei Malkiel*; Rabbi
-Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim of Breslau, *Cheshek Shlomo*
-(on *nahar* and on *yeor*) and *Yerios Shlomo* (on *nachal*). An earlier draft of
-this paragraph said the two Malbim passages disagree on the relative size of the
-three; they do not. Yirmiyahu 46:10 says nothing about size, and the article
-notes that at Yeshayahu 19:5 Malbim *again* makes the same overflow point, so
-the invented conflict has been removed and the size ranking (*nachal* widest,
-then *nahar*, then *yeor*) restored to the body, together with the article's
-Grand Canyon illustration for the *nachal* that carves a valley. The article
-dates Rabbi Pappenheim 1714-1814; that is a slip for 1740-1814, and this entry
-carries no dates for him rather than repeat it.
+Rabbi Reuven Chaim Klein, "[Down by the River](https://articles.ohr.edu/articles/down-by-the-river)," *What's in a Word?*, Ohr Somayach, 5 January 2019.
+
+Cited in the essay: Bereishis 2:11; Shemos 7:19 with Rashi; Yeshayahu 19:5 and Yirmiyahu 46:10 with Malbim; Koheles 1:7; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo Aharon Wertheimer; Rabbi Malkiel Tzvi Tannenbaum of Lomzha, *Divrei Malkiel*.

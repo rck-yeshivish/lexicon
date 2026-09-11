@@ -22,9 +22,8 @@ updated: 2026-09-10
 *Sam hamaves* is the general **poison**, literally the potion of death, and
 never venom. *Rosh* is **poison** in Tanach, drawn either from a snake's head or from
 a poisonous plant. *Chamat* is **venom** as what an angered snake emits. *Ra'al*
-is disputed: poison, or a draught that leaves a man limp and reeling. The trap:
-English "poison" absorbs all of them, and Chullin 3:5 turns on *sam hamaves*
-being precisely not venom.
+is disputed: poison, or a draught that leaves a man limp and reeling. Chullin
+3:5 turns on *sam hamaves* being precisely not venom.
 
 ## Distinctions
 
@@ -60,8 +59,7 @@ hachaim* or *sam hamaves* (Eruvin 56a), Torah learned without proper intent
 killing another's animal by feeding it (Bava Kamma 47b, 56a).
 
 Because sin and samech interchange, *Midrash Sechel Tov*, *Midrash Aggadah* and
-*Daas Zekeinim* read *vayusam lefanav le'echol* (Bereishis 24:33; the article
-prints 23:33) as a hint that Besuel tried to poison Eliezer; a commentary
+*Daas Zekeinim* read *vayusam lefanav le'echol* (Bereishis 24:33) as a hint that Besuel tried to poison Eliezer; a commentary
 ascribed to Rashi on Divrei HaYamim II 22:10 has Asaliah killing this way too.
 Rabbi Shlomo Pappenheim of Breslau (1740-1814) takes ס-מ / ש-מ as putting a
 thing in its place, and derives *samim*, the ketores ingredients (Shemos 30:7,
@@ -120,8 +118,8 @@ Others explain *eches* as "dog."
 Dr. Alexander Kohut was the first to note that Rashi's reading of *eches* as
 snake venom was likely informed by the Greek *echis*, viper, and *echis* does
 seem to appear in rabbinic literature in that sense, since the Midrash renders
-*efeh*, a Biblical snake, as *echis* (*Midrash Tanchum* 18 as the article prints
-it, and *Mechilta* to Shemos 15:22). Rashi himself (to Shabbos 62b) gives a
+*efeh*, a Biblical snake, as *echis* (*Midrash Tanchuma* 18 and *Mechilta* to
+Shemos 15:22). Rashi himself (to Shabbos 62b) gives a
 different etymology of *eches*: a metathesis of *ka'as*, anger, since a snake
 emits venom only when angered. Rabbeinu Efrayim supposes the converse, that
 *ka'as* is a metathesis of *eches*, since anger puts a sort of poison in a man's
@@ -138,7 +136,7 @@ who saved Moshe from death by *nachash* through circumcising their child (Shemos
 ### la'anah (לענה)
 Rabbi Shlomo of Urbino (*Ohel Moed*) counts *la'anah* a synonym of *rosh*,
 *chamat* and *ra'al*, all poison. This is his own novelty: Rashi and Radak call
-*la'anah* extremely bitter but not deadly. Default to **wormwood**.
+*la'anah* extremely bitter but not deadly.
 
 ## Rendering guidance
 
@@ -166,22 +164,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Pick Your Poison](https://articles.ohr.edu/articles/pick-your-poison)," What's in a Word?, Ohr Somayach,
-2 Adar Beis 5782 (2022-03-05): raw text in
-`sources/whats-in-a-word/raw/9603-pick-your-poison.md`. Primary loci: Bereishis
-24:33 (article: 23:33); Shemos 4:24-26, 15:22, 30:7, 30:34, 40:27; Vayikra
-16:12; Devarim 29:17, 32:32, 32:33; Yehoshua 15:16-17; Shoftim 1:12-13;
-Yeshayahu 3:16, 3:18, 3:19, 51:17, 51:22; Yirmiyahu 8:14; Nachum 2:4; Zechariah
-12:2; Tehillim 58:5, 60:5; Mishlei 7:22; Iyov 20:16; Eichah 3:19; Divrei HaYamim
-I 2:49, II 2:3, 13:11, 22:10; Esther 2:21 (*Targum Sheini*); *Yossiphon* ch. 4;
-Megillah 13b; Shabbos 62b; Yoma 9b; Eruvin 56a; Taanis 7a; Gittin 35a; Sotah 3b;
-Avodah Zarah 30b, 31b; Sukkah 50a; Sanhedrin 78a; Bava Kamma 23b, 47b, 56a,
-115b; Chullin 3:5; *Mechilta* to Shemos 15:22 and *Midrash Tanchum* 18; Dr.
-Alexander Kohut, Rabbi Ernest Klein and Avraham Even-Shoshan for the Latin
-*virus*, with the *Comprehensive Aramaic Lexicon* against it, and Kohut again on
-the Greek *echis*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Yehuda Feliks
-on *rosh* as a plant. The article prints the Besuel verse as Gen. 23:33, a slip
-for Bereishis 24:33, and gives the Tanchuma as "Midrash Tanchum 18"; both are
-noted rather than repeated silently. Its Tehillim loci (58:5, 60:5) follow the
-Hebrew versification and the entry keeps them. Nothing the article cites is
-omitted.
+Rabbi Reuven Chaim Klein, "[Pick Your Poison](https://articles.ohr.edu/articles/pick-your-poison)," *What's in a Word?*, Ohr Somayach, 5 March 2022.
+
+Cited in the essay: Bereishis 24:33 with *Midrash Sechel Tov*, *Midrash Aggadah* and *Daas Zekeinim*; Shemos 4:24-26, 15:22, 30:7, 30:34, 40:27; Vayikra 16:12; Devarim 29:17, 32:32, 32:33; Yehoshua 15:16-17; Shoftim 1:12-13; Yeshayahu 3:16, 3:18, 3:19, 51:17, 51:22; Yirmiyahu 8:14; Nachum 2:4; Zechariah 12:2; Tehillim 58:5, 60:5; Mishlei 7:22; Iyov 20:16; Eichah 3:19; Divrei HaYamim I 2:49, II 2:3, 13:11, 22:10; Esther 2:21 with *Targum Sheini*; *Yossiphon* ch. 4; Megillah 13b; Shabbos 62b; Yoma 9b; Eruvin 56a; Taanis 7a; Gittin 35a; Sotah 3b; Avodah Zarah 30b, 31b; Sukkah 50a; Sanhedrin 78a; Bava Kamma 23b, 47b, 56a, 115b; Mishnah Chullin 3:5; *Mechilta* to Shemos 15:22; *Midrash Tanchuma* 18; Targum; Rashi, Ibn Ezra and Radak (with *Sefer HaShorashim*) to the pesukim above; the Vilna Gaon; Rabbi Yeshayah of Trani; Rabbeinu Efrayim; Rabbi Menachem Azariah of Fano; Rabbi Shlomo Pappenheim; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Yehuda Feliks; Dr. Alexander Kohut; Rabbi Ernest Klein; Avraham Even-Shoshan; the *Comprehensive Aramaic Lexicon*.

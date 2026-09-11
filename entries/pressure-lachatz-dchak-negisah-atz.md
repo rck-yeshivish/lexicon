@@ -21,16 +21,14 @@ updated: 2026-09-10
 *Lachatz* is **pressure** applied; on Rabbi Shimon Schwab the eye is on the one
 applying it. *D'chak* is **crowding** or **squeezing out**, and on Rabbi Shlomo
 Pappenheim's crudest sense it is shoving a man from his place so that someone
-else can have it. How the two differ is itself disputed, and the article gives
+else can have it. How the two differ is itself disputed, and the column gives
 five readings that do not agree, Rabbi Eliezer Ashkenazi and Pappenheim taking
 opposite sides on which of the two carries the malice. *Negisah* is the
 **taskmaster's driving**, relentless and up close. *Atz* is **hurrying** someone
 along, or on Rabbi Posen's Targum reading physically pushing him. *Alatz* is
 **pressing with words**, cajoling on Pappenheim, tied to *lachatz* by Ramban and
-Radak, and read as making a man angry by Ibn Janach. The trap: English "press"
-takes all five. The Haggadah's *v'es lachatzeinu, zeh had'chak* is a gloss of
-one by the other, so a translation that renders both "oppression" makes the
-derashah say nothing.
+Radak, and read as making a man angry by Ibn Janach. The Haggadah's *v'es
+lachatzeinu, zeh had'chak* is a gloss of one by the other.
 
 ## Distinctions
 
@@ -66,14 +64,13 @@ one's *lachatz* really is *d'chak*.
   So Devarim 26:7 reports only that pressure was applied, and the Haggadah adds
   that it succeeded in pushing the Jews into doing the Mitzrim's bidding. His
   proof is that in the second pasuk the Mitzrim are the subject and Yisrael the
-  object of the verb, so the pressure landed. (The article cites this pasuk as
-  Yechezkel 3:9; the locus is Shemos 3:9.)
+  object of the verb, so the pressure landed.
 - Rabbi Dr. Refael Binyamin Posen (1942-2016) reads it through Targum.
   *Lachatz* covers physical pressure and psychological pressure both. Where it
   is physical, Onkelos renders it with *d'chak*, as with Bilam's foot pressed
   against the wall (Bamidbar 22:25); where it is psychological, Onkelos uses
-  ע-ו-ק, as in the prohibition against pressuring a ger (the article cites
-  Yechezkel 22:20; the Torah's prohibition is Shemos 22:20). Onkelos renders
+  ע-ו-ק, as in the prohibition against pressuring a ger (Shemos 22:20).
+  Onkelos renders
   Devarim 26:7 as *d'chak*, so the Haggadah is saying that Hashem pitied them not
   only for the psychological pressures they bore but that even the bare physical
   pressure was enough to sway His decision to release them.
@@ -109,7 +106,7 @@ does not actually owe, *nosheh* is pressing for money he is already obligated to
 pay.
 
 ### atz (אץ)
-Bereishis 19:15, *vayaitzu hamalachim b'Lot* (the article prints 19:9). Onkelos
+Bereishis 19:15, *vayaitzu hamalachim b'Lot*. Onkelos
 renders it *d'chak*, and Rabbi Posen concludes from this that the malachim did
 not merely urge Lot verbally but physically pushed him out. Pappenheim reads it
 otherwise: from the biliteral א-צ and ultimately the single letter צ, going out,
@@ -157,20 +154,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Pesach: Putting Pressure](https://articles.ohr.edu/articles/pesach-putting-pressure)," What's in a Word?, Ohr
-Somayach, 15 Nissan 5782 (2022-04-16): raw text in
-`sources/whats-in-a-word/raw/9658-pesach-putting-pressure.md`. Primary loci:
-Bereishis 19:15 (article: 19:9), 32:25; Shemos 3:9 (article, in the Schwab
-paragraph: Yechezkel 3:9), 5:13, 5:14, 22:20 (article: Yechezkel 22:20);
-Bamidbar 22:25; Devarim 15:2, 26:7; Shoftim 2:18, 16:16; Melachim I 22:27;
-Yeshayahu 3:5, 30:20; Yoel 2:8; Divrei HaYamim II 18:26; the *Haggadah Shel
-Pesach* on *v'es lachatzeinu*; Targum Onkelos, Targum Yonatan and Targum
-Neofiti at the loci above; Rashi and *Machberes Menachem* on the *alatz* hapax;
-Radak, *Sefer HaShorashim*; Ibn Janach; Ramban to Bereishis 32:25; Rabbi Eliezer
-Ashkenazi, *Maaseh Hashem*; Rabbi Shimon Schwab; Rabbi Dr. Refael Binyamin
-Posen; Malbim to Shoftim 2:18, Shemos 3:9 and Yeshayahu 3:5 and in *Midrash
-Haggadah*. Three loci are corrected rather than repeated: the article's Yechezkel
-3:9 in the Schwab paragraph is Shemos 3:9, its Yechezkel 22:20 for the ger
-prohibition is Shemos 22:20, and its Gen. 19:9 for *vayaitzu* is Bereishis
-19:15. The article also calls Delilah Shimshon's wife, which the entry does not
-follow. Nothing the article cites is omitted.
+Rabbi Reuven Chaim Klein, "[Pesach: Putting Pressure](https://articles.ohr.edu/articles/pesach-putting-pressure)," *What's in a Word?*, Ohr Somayach, 16 April 2022.
+
+Cited in the essay: Bereishis 19:15, 32:25; Shemos 3:9, 5:13, 5:14, 22:20; Bamidbar 22:25; Devarim 15:2, 26:7; Shoftim 2:18, 16:16; Melachim I 22:27; Yeshayahu 3:5, 30:20; Yoel 2:8; Divrei HaYamim II 18:26; the *Haggadah Shel Pesach* on *v'es lachatzeinu*; Targum Onkelos, Targum Yonatan and Targum Neofiti at the loci above; Rashi and *Machberes Menachem* to Shoftim 16:16; Radak, *Sefer HaShorashim*; Ibn Janach; Ramban to Bereishis 32:25; Rabbi Eliezer Ashkenazi, *Maaseh Hashem*; Rabbi Shlomo Pappenheim; Rabbi Shimon Schwab; Rabbi Dr. Refael Binyamin Posen; Malbim to Shoftim 2:18, Shemos 3:9 and Yeshayahu 3:5 and in *Midrash Haggadah*.

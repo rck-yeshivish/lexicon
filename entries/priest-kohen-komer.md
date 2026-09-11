@@ -17,13 +17,10 @@ updated: 2026-09-10
 
 *Kohen* is the general word: a **priest** of any cult, and in Tanach it is used
 of Poti Phera, Yisro, and the priest of Michah's idol no less than of Aharon's
-sons. *Komer* is specific: an **idolatrous priest** (Radak, Ibn Kaspi). So in a
-halachic or Mikdash context render *kohen* as **Kohen** and keep it a proper
-term; where Tanach uses it of a gentile functionary, "priest" is right and
-carries no slur. As a rule do not render *komer* as plain "priest," and never
-render *kohen* as "idolatrous priest" on your own; the Targum and Rashi decide
-that case by case. The rule does not settle Tzefaniah 1:4, where the article
-leaves four readings standing, including Targum and Rashi reversing the usual
+sons. *Komer* is specific: an **idolatrous priest** (Radak, Ibn Kaspi).
+*Kohen* does not by itself mean an idolatrous priest; the Targum and Rashi
+decide that case by case. This distinction does not settle Tzefaniah 1:4, where
+the column leaves four readings standing, including Targum and Rashi reversing the usual
 division and Dr. Chaim Tawil making the two words synonyms from two languages.
 
 ## Distinctions
@@ -105,8 +102,7 @@ the idolater's.
 
 ## Rendering guidance
 
-- Aharon's descendants: **Kohen**, capitalized and untranslated, in any frum
-  context. "Priest" for them reads Christian and flattens the halachic term.
+- Aharon's descendants: **Kohen**, capitalized and untranslated. "Priest" for them reads Christian and flattens the halachic term.
 - *Kohen* of a gentile: **priest**, or "chieftain" where Onkelos reads *rabbah*
   (Yisro, Poti Phera). Say which you followed if the passage is being darshened.
 - *Komer*: **idolatrous priest**, or "priest of the idol." Where Rabbi Eliyahu
@@ -126,14 +122,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Holy Priests vs. Unholy Priests](https://articles.ohr.edu/articles/holy-priests-vs-unholy-priests)," What's in a Word?,
-Ohr Somayach, 30 Kislev 5780 (2019-12-28): raw text in
-`sources/whats-in-a-word/raw/8529-holy-priests-vs-unholy-priests.md`. Primary
-loci cited: Bereishis 41:50, 43:30, 47:22; Shemos 2:16, 3:1; Shoftim 18:4;
-Shmuel II 8:18; Melachim II 23:5-9; Yeshayahu 19:8, 51:20, 61:10; Tzefaniah
-1:4; Malachi 2:7; Tehillim 77:10 (Targum); Bechoros 31a; Radak, *Sefer
-HaShorashim*; *Sefer HaTishbi*; Rabbi Aharon Marcus on the Arabic *kahin*; Dr.
-Chaim Tawil on the Akkadian *kumru*; the Elephantine Papyri letter. The article
-prints Ecc. 5:1 for *komer* as "blackened"; the locus for that sense is Eichah
-5:10, *oreinu kesanur nichmaru*, and the entry corrects it rather than repeating
-it. Nothing the article cites is omitted.
+Rabbi Reuven Chaim Klein, "[Holy Priests vs. Unholy Priests](https://articles.ohr.edu/articles/holy-priests-vs-unholy-priests)," *What's in a Word?*, Ohr Somayach, 28 December 2019.
+
+Cited in the essay: Bereishis 41:50, 43:30, 47:22; Shemos 2:16, 3:1; Shoftim 18:4; Shmuel II 8:18; Melachim II 23:5-9 with Radak; Yeshayahu 19:8, 51:20, 61:10; Tzefaniah 1:4 with Targum, Rashi, Radak and Rabbi Yosef Ibn Kaspi; Malachi 2:7; Eichah 5:10; Tehillim 77:10 with Targum; Bechoros 31a; Targum Onkelos; Rashi; Radak, *Sefer HaShorashim*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus; Dr. Chaim Tawil; the Elephantine Papyri.

@@ -21,14 +21,13 @@ updated: 2026-09-10
 *Shuv* is returning **to** a place or condition: **return**, and *teshuvah* is
 **repentance** precisely because it is a return, not a mere improvement.
 *Chazarah* is the about-face itself, the act of **turning back** or **reverting**
-from where one now stands. The fact a translator must not lose: *shuv* names the
-destination, *chazarah* names the U-turn, so *chazar b'teshuvah* is not a
-redundancy but two halves of one motion. *Chazarah* is Mishnaic; it never
-appears in Tanach, so a rendering of a pasuk should never lean on it.
+from where one now stands. *Shuv* names the destination, *chazarah* names the
+U-turn, so *chazar b'teshuvah* is not a redundancy but two halves of one motion.
+*Chazarah* is Mishnaic; it never appears in Tanach.
 
 ## Distinctions
 
-The article opens on Shabbos Shuvah, with Hoshea's words in the haftarah,
+The column opens on Shabbos Shuvah, with Hoshea's words in the haftarah,
 "Return O Yisrael until Hashem your God" (Hoshea 14:2). *Shuv* / *shuva* is the
 basis of *teshuvah*, and cognates of *shuva* are used throughout Tanach for
 repentance (for example Devarim 30:2). But there is a second Hebrew word for
@@ -57,7 +56,7 @@ Although Yitzchak had never been in Charan, he could still return there, since
 it was his father's homeland and so, by extension, could be considered his
 natural place.
 
-The article grounds this in Yechezkel 33:18-19 (see also Yechezkel 18:21-27)
+The column grounds this in Yechezkel 33:18-19 (see also Yechezkel 18:21-27)
 read with Berachos 29a. The Gemara explains the righteous man who "returns"
 from his righteousness as one who had been a sinner, repented, and then returned
 to sinning, an actual prior state. It does not explain the wicked man who
@@ -71,10 +70,10 @@ man recants his righteousness and becomes a sinner, he cannot justifiably be
 said to be returning to anything, unless, as the Gemara explains, he had
 previously been a sinner.
 
-This is the article's own answer to the question in its title. *Teshuvah*
+This is the column's own answer to the question in its title. *Teshuvah*
 denotes a man's journey to his natural sin-free state; he is returning to where
 he is supposed to be, whether or not he was ever there before, returning to his
-spiritual default position, his home base. The article calls it the quest for
+spiritual default position, his home base. The column calls it the quest for
 peace and tranquility, the return to one's roots. Moreover, the process of
 *teshuvah*, in which one harnesses the power of his regret over past sins as
 fuel for personal growth, enables him to revisit the past and recast his former
@@ -91,7 +90,7 @@ and they mean variously to regret, recant, retract, repeat, return, or repent.
 Rabbi Eliyahu HaBachur (1469-1549), known in Latin as Elias Levita, notes that
 the standard way the Targumim render Hebrew *sivuv*, "go around" or
 "circumnavigate," is with the Aramaic/Syriac *chazar* and its cognates. The
-article's own summary of the pair: *shuva* implies focusing on the goal of
+column's own summary of the pair: *shuva* implies focusing on the goal of
 getting back to where one used to be, while *chazarah* focuses on the act of
 getting out of the rut one is currently stuck in and making a U-turn.
 
@@ -106,7 +105,7 @@ commonly turn around backwards to walk aimlessly in circles.
 
 ## Rendering guidance
 
-- *Teshuvah* in a mussar sefer: **repentance**, and where the drashah turns on
+- *Teshuvah*: **repentance**, and where the drashah turns on
   the root, gloss it "the return." Do not render it "atonement"; that is
   *kapparah* and belongs to a different cluster.
 - *Shuv* in a pasuk: **return** or **turn back**. Where the pasuk is about
@@ -126,19 +125,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Return to Sender: The True Meaning of Teshuva](https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva),"
-What's in a Word?, Ohr Somayach, 6 Tishrei 5780 (2019-10-05): raw text in
-`sources/whats-in-a-word/raw/8422-return-to-sender-the-true-meaning-of-teshuva.md`.
-Primary loci: Hoshea 14:2; Devarim 30:2, 22:1; Vayikra 5:23, 11:2; Bereishis
-24:5; Yechezkel 33:18-19 and 18:21-27; Berachos 29a; Rabbi Shlomo Pappenheim of
-Breslau on the root ש-ב; Rabbi Eliyahu HaBachur, known in Latin as Elias Levita,
-on the Targumic *chazar*; Ricanati to Vayikra 11:2, with Rabbeinu Bachaya and
-Rabbi David Ibn Zimra against taking it literally, and Ibn Kaspi on *chazir* as
-the sole biblical appearance of the root. An earlier draft of this paragraph
-named *Yerios Shlomo* and *Cheshek Shlomo* as the source for Pappenheim; the
-article names no work of his, and the titles have been removed. Two things in
-the rendering guidance are ours: the warning off "atonement" for *teshuvah*
-(*kapparah* is a separate cluster, which this article does not discuss) and the
-suggested handling of *chazar b'teshuvah* in English. The Latin name Elias
-Levita had been dropped from this entry and is now restored, since the column
-itself gives it.
+Rabbi Reuven Chaim Klein, "[Return to Sender: The True Meaning of Teshuva](https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva)," *What's in a Word?*, Ohr Somayach, 5 October 2019.
+
+Cited in the essay: Bereishis 24:5; Vayikra 5:23, 11:2; Devarim 22:1, 30:2; Yechezkel 18:21-27, 33:18-19; Hoshea 14:2; Berachos 29a; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur (Elias Levita); Rabbi Menachem Ricanati to Vayikra 11:2; Rabbeinu Bachaya; Rabbi David Ibn Zimra; Rabbi Yosef Ibn Kaspi.

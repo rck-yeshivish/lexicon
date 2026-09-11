@@ -19,18 +19,16 @@ updated: 2026-09-10
 remembering that issues in action: **attend to, take note of** (and in the
 right context "count," "appoint," "punish," "deposit"). Rabbi Shlomo Aharon
 Wertheimer, capsulizing Malbim's stance: *zechirah* is in thought, *pekidah* is
-in action. The trap is rendering both as "remembered" and flattening a pasuk
-that turns on the difference; where Hashem *pakad* someone, action follows.
+in action. Where Hashem *pakad* someone, action follows.
 
 ## Distinctions
 
-The article opens from the six commandments to remember: the Shabbos (Shemos
-20:7 as the article gives it; the locus is 20:8, see the rendering guidance
-below), the Exodus (Devarim 16:3), that
+The column opens from the six commandments to remember: the Shabbos (Shemos
+20:8), the Exodus (Devarim 16:3), that
 Amalek attacked after the Exodus (Devarim 25:17), the giving of the Torah at Har
 Sinai (Devarim 4:9), how the Jews angered Hashem in the wilderness (Devarim
 9:7), and what Hashem did to Miriam when she spoke slander (Devarim 24:9). In
-all but one of those commandments, the article notes, the Torah uses *zachor*;
+all but one of those commandments, the column notes, the Torah uses *zachor*;
 it does not say which one is the exception. The Gemara (Rosh Hashanah 32b)
 essentially recognizes *pakad* as a synonym of *zachor*, asserting that
 *pikdonos* equals *zichronos*, so that pesukim which speak of Hashem
@@ -51,7 +49,7 @@ HaGur* that *zachor* itself implies remembering as an act of mercy, while
 *pakad* does not, since *pakad* sometimes refers to remembering in order to
 punish. He offers this to resolve a difficulty: Rashi enigmatically explains
 that Hashem's remembering Noach (Bereishis 8:1) means He switched His trait of
-strict judgment for His trait of mercy, but, the article observes, there is no
+strict judgment for His trait of mercy, but, the column observes, there is no
 textual basis for that explanation, especially since that very pasuk uses the
 name Elokim, which implies strict judgment, rather than the Tetragrammaton,
 which implies mercy.
@@ -97,7 +95,7 @@ teivah only about a year (Bereishis 8:1), and for Rachel, barren only a few
 years (Bereishis 30:22).
 
 ### zachar (זכר, "male")
-*Zachor* *seems* to be related to *zachar*, "male," and the article calls the
+*Zachor* *seems* to be related to *zachar*, "male," and the column calls the
 thematic connection the elephant in the room. The interplay shows up in a
 Talmudic anecdote (Bava Basra 21b) in which Dovid HaMelech's general Yoav
 explains that he did not kill the female Amalekites, because his teacher had
@@ -125,7 +123,7 @@ what we already have by letting it grow and multiply, mirroring the female's
 role in incubating and gestating what the male provided, so we say *ufakdeinu bo
 livrachah*.
 
-The article then ties Treves back to this: the explanation dovetails with the
+The column then ties Treves back to this: the explanation dovetails with the
 Kabbalistic terminology, since Hashem's trait of mercy reflects unfettered
 Divine influence with the focus on the Giver, associating *zachor* and mercy
 with the male paradigm, while His trait of judgment reflects a limited Divine
@@ -156,7 +154,7 @@ name of their father's family.
 
 - *Zachor* in the six mitzvos of remembrance: **remember**, plain.
 - *Pakad* of Hashem toward a person: **took note of**, or **remembered** with
-  the consequence named, since in the article's examples the pasuk supplies one
+  the consequence named, since in the column's examples the pasuk supplies one
   (Sarah conceives, the redemption begins). "Visited" is the old rendering and
   reads archaic; the judgment against it is ours.
 - *Pakad* in a census or a list: **counted**, **mustered**; *nifkad*:
@@ -166,13 +164,11 @@ name of their father's family.
   distinction: *zachreinu* "remember us," *ufakdeinu* "and take account of us."
 - *Zecher* is not automatically "memory." Check whether the pasuk wants
   **trace** or **scent** (Hoshea 14:8) before defaulting.
-- The article gives Shemos 20:7 for *zachor es yom haShabbos*; the locus is
-  Shemos 20:8, and 20:7 is *lo sisa*. The slip is the article's, not ours.
 - The column says that in all but one of the six commandments the Torah uses
   *zachor*, without saying which is the exception. Checking the pesukim, the one
   that does not is Devarim 4:9 (*hishamer lecha... pen tishkach*); Devarim 9:7
   does use *zechor*, alongside *al tishkach*. That identification is ours, not
-  the article's.
+  the column's.
 
 ## Notes for a project
 
@@ -180,24 +176,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Ki Tisa: Remember Forever](https://articles.ohr.edu/articles/ki-tisa-remember-forever)," What's in a Word?, Ohr
-Somayach, 22 Adar 5781 (2021-03-06):
-https://articles.ohr.edu/articles/ki-tisa-remember-forever, raw text in
-`sources/whats-in-a-word/raw/9110-ki-tisa-remember-forever.md`. Primary loci
-cited: the six commandments to remember (Shemos 20:7 in the article, Devarim
-16:3, 25:17, 4:9, 9:7, 24:9); Rosh Hashanah 32b; Bava Basra 21b; Rabbi Moshe Ibn
-Ezra; Malbim's two differences on the ז-כ-ר / פ-ק-ד pair; Rabbi Shlomo Aharon
-Wertheimer; Rabbi Dr. Asher Weiser on *kapdanus*; Rabbi Shlomo of Urbino, *Ohel
-Moed*; Rabbi Saadia ben David Al-Dhamari; Rashbatz to Avos 5:12, with Bereishis
-41:51 and Devarim 32:18 for *nashim* and forgetfulness; Rabbi Moshe de Leon,
-*Sefer HaRimmon*; Rabbi Naftali Hertz Treves, *Sefer HaGur*; *Kedushas Levi* to
-Bereishis 21:1; Rabbi Yaakov Tzvi Mecklenburg; Rashi to Bereishis 8:1 and to
-Nedarim 39b; Kli Yakar to Bamidbar 16:29. The article's Shemos 20:7 for *zachor
-es yom haShabbos* is a slip for 20:8; the entry follows the article's number in
-the body and flags the correct one in the rendering guidance. Two things are
-ours and not the article's: the identification of Devarim 4:9 as the one
-commandment of the six that does not use *zachor*, and the judgment that
-"visited" is too archaic for *pakad*. The article closes with a postscript
-pointing to two of its earlier pieces, "Forget About It" (September 2019) on
-words for forgetting and "When Just Counting Doesn't Count" (May 2017) on words
-for counting.
+Rabbi Reuven Chaim Klein, "[Ki Tisa: Remember Forever](https://articles.ohr.edu/articles/ki-tisa-remember-forever)," *What's in a Word?*, Ohr Somayach, 6 March 2021.
+
+Cited in the essay: Bereishis 8:1, 21:1, 30:22, 41:51; Shemos 3:16, 20:5, 20:8; Vayikra 5:23, 6:8; Bamidbar 1:21, 1:50, 2:32, 16:29, 31:14, 31:49; Devarim 4:9, 9:7, 16:3, 24:9, 25:17, 25:19, 32:18; Shmuel I 15:4; Yeshayahu 38:10; Yirmiyahu 46:21; Hoshea 2:15, 14:8; Tehillim 19:9, 20:4, 109:6, 119:56; Esther 2:3; Ezra 1:2; Rosh Hashanah 32b; Bava Basra 21b; Rashi to Bereishis 8:1 and Nedarim 39b; Kli Yakar to Bamidbar 16:29; Rabbi Moshe Ibn Ezra; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi Naftali Hertz Treves, *Sefer HaGur*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Dr. Asher Weiser; Rabbi Saadia ben David Al-Dhamari; Rashbatz to Avos 5:12; Rabbi Moshe de Leon, *Sefer HaRimmon*; *Yaaleh V'Yavo*; *Kedushas Levi* to Bereishis 21:1; Rabbi Yaakov Tzvi Mecklenburg.

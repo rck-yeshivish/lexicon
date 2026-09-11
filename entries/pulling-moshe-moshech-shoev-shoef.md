@@ -43,7 +43,6 @@ toward oneself. *Moshe* is narrow and almost always in water: **draw out of the
 water** (Rashbam). *Shoev* is **draw water**, in almost all biblical instances
 from a well; *shoef* is its air counterpart, **inhale**, and in *sheifah*,
 **yearning**. Wertheimer is the one who holds the water/air line in practice.
-English "draw" swallows all four; where the Hebrew is *moshe*, keep the water.
 
 ## At a glance
 
@@ -86,7 +85,7 @@ abating back to one's normal state), *shechem* (shoulder, a limb positioned to
 connect neck and upper arm), *eshech* (testes, positioned within the sac) and
 *neshech* (biting, the teeth coming together as they naturally want to); so
 *moshech* interrupts that well-groundedness to pull a thing from its place. The
-article adds in brackets that Pappenheim does recognize a biliteral מ-ש,
+column adds in brackets that Pappenheim does recognize a biliteral מ-ש,
 "feeling/touching," but does not see it as the core etymon of *moshe*.
 
 **Which stage of drawing shoev names.** Rav Hirsch (to Bereishis 24:65, Devarim
@@ -104,8 +103,7 @@ between internalizing a yearning (*shoef*) and filling a container with water
 on interchangeable letters in proper names, not in ordinary content words. Rabbi
 Shlomo Aharon Wertheimer writes that strictly speaking the two could be viewed as
 somewhat interchangeable, but that in practice *shoev* is drawing water, at least
-in Biblical Hebrew, and *shoef* is drawing air. This guide's default follows
-Wertheimer's practical split.
+in Biblical Hebrew, and *shoef* is drawing air.
 
 ## Distinctions
 
@@ -150,7 +148,7 @@ pulling air into the lungs, and the same root gave way to *sheifah*, a higher
 yearning or desire that one has internalized (Koheles 1:5; Iyov 7:2, 36:20).
 
 ### why Moshe and not Mashui
-The article closes on a question many commentators have asked: why is he called
+The column closes on a question many commentators have asked: why is he called
 Moshe, "he who pulls," rather than *Mashui*, "he who was pulled out"? Was he not
 the one who *was* pulled from the water?
 
@@ -207,26 +205,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shemos: Pulling & Drawing](https://articles.ohr.edu/articles/shemos-pulling-drawing)," What's in a Word?, Ohr
-Somayach, 25 Teves 5784 (2024-01-06):
-https://articles.ohr.edu/articles/shemos-pulling-drawing; raw text in
-`sources/whats-in-a-word/raw/11200-shemos-pulling-drawing.md`. Primary loci:
-Shemos 2:10; Shmuel II 22:17; Tehillim 18:17, 119:131; Yeshayahu 63:11, 42:14;
-Yirmiyahu 2:24, 14:6; Shoftim 5:14; Bereishis 24:11, 24:17, 24:65; Devarim
-28:22; Koheles 1:5; Iyov 7:2, 36:20; Radak, *Sefer HaShorashim* s.v. משה;
-*Midrash Sechel Tov* to Bereishis 24:11; *Mishnah Shabbos* 2:4; Sotah 47a,
-Sanhedrin 107b, Avodah Zarah 44a; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*;
-*Peirush HaTur*, *Peirush HaRokeach*, *Moshav Zekanim*, *Midrash HaGadol* and
-Chizkuni, all to Shemos 2:10; Rabbi Menachem Mendel Kasher, *Torah Shleimah*;
-Rabbi Yaakov Berger, *Milon Leshon Mikra* (unpublished). Restored 2026-09-10:
-Shadal's proposal that Moshe, *mishisihu* and *yamsheini* are Egyptian loanwords,
-dropped under the earlier house rule, is now in the body; so are the four further
-answers to the Moshe/Mashui question that had gone missing with it (Alshich, whom
-the entry listed as an authority without using, Rabbi Shlomo Zalman Ehrenreich,
-*Torah Shleimah*'s משה/השם manuscript, and Ibn Parchon's own refusal to answer),
-along with the fuller lists in Rabbi Pappenheim's *mem*-reversal rubric. The
-entry had also fused Chizkuni's reading (a prayer) with Rav Hirsch's (a
-pedagogical charge); they are now separate. The article closes by referring the
-reader to the author's *Lashon HaKodesh: History, Holiness, & Hebrew* (Mosaica
-Press) for theories about Moshe's original Egyptian name (Tomer, Mosh, Monius);
-the entry does not draw on it.
+Rabbi Reuven Chaim Klein, "[Shemos: Pulling & Drawing](https://articles.ohr.edu/articles/shemos-pulling-drawing)," *What's in a Word?*, Ohr Somayach, 6 January 2024.
+
+Cited in the essay: Bereishis 24:11, 24:17, 24:65; Shemos 2:10; Devarim 28:22; Shoftim 5:14; Shmuel II 22:17; Yeshayahu 42:14, 63:11; Yirmiyahu 2:24, 14:6; Tehillim 18:17, 119:131; Iyov 7:2, 36:20; Koheles 1:5; Mishnah *Shabbos* 2:4; Sotah 47a; Sanhedrin 107b; Avodah Zarah 44a; Rashi, Rashbam, Ibn Ezra, Shadal, Rabbi Moshe Alshich, Chizkuni, Rav Hirsch, *Peirush HaTur* (in the name of Rabbi Yosef Kimchi), *Peirush HaRokeach*, *Moshav Zekanim* and *Midrash HaGadol* to Shemos 2:10; Targum, Rashi, Mahari Kara, Ibn Ezra and Radak to Yeshayahu 63:11; Radak, *Sefer HaShorashim* s.v. משה; Ibn Chayyuj; Ibn Janach; Menachem Ibn Saruk; Rav Hirsch to Bereishis 24:65 and Devarim 28:22; Ramban to Bereishis 24:17; Targum Onkelos; *Midrash Sechel Tov* to Bereishis 24:11; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*; Rabbi David Chaim Chelouche; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Zalman Ehrenreich; Rabbi Menachem Mendel Kasher, *Torah Shleimah*; Rabbi Yaakov Berger, *Milon Leshon Mikra*; Even Shoshan's concordance.

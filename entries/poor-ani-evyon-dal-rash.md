@@ -29,8 +29,8 @@ updated: 2026-09-10
 *Misken* is **wretched, unfortunate**, poor and despised with it. *Dach* is
 **emaciated** (physically crushed), *mach* **downtrodden** (crushed by
 circumstance). *Heilech* is the **itinerant**, a door-to-door beggar or
-wanderer. The one thing not to get wrong: the Gemara seems to grade *ani* and
-*evyon*, and *evyon* is the lower of the two.
+wanderer. The Gemara seems to grade *ani* and *evyon*, and *evyon* is the
+lower of the two.
 
 ## Distinctions
 
@@ -118,7 +118,7 @@ inside) or one of middling circumstances, not a poor man at all.
 
 ### heilech (הלך)
 From "going," and it occurs once in Tanach in this sense, in Nasan's parable to
-David (Shmuel II 12:4; the article prints I Sam. 12:4). Either the poor man who
+David (Shmuel II 12:4). Either the poor man who
 goes door to door raising money, or the man whose assets have all gone. It can
 equally mean any panhandler or itinerant peddler whatever his means, which is
 perhaps why, as the column suggests, it appears in only some of the midrashic
@@ -132,7 +132,7 @@ lists.
   in that order. Where a source darshens the order (the Purim *matanos*
   discussion, Mishlei 31:20), a flattened "the poor and needy" erases the
   argument.
-- *Matanos la'evyonim*: leave it transliterated in a frum text. If it must be
+- *Matanos la'evyonim*: leave it transliterated. If it must be
   rendered, "gifts to the destitute," never "gifts to the poor," which
   contradicts the halachic discussion above.
 - *Dal* against *ani*: since Malbim ties *dal* to loss rather than to
@@ -150,20 +150,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Poor and Unfortunate](https://articles.ohr.edu/articles/the-poor-and-unfortunate)," What's in a Word?, Ohr
-Somayach, 13 Iyar 5779 (2019-05-18):
-https://articles.ohr.edu/articles/the-poor-and-unfortunate; raw text in
-`sources/whats-in-a-word/raw/8245-the-poor-and-unfortunate.md`. The nine-word
-lists are in *Midrash Tanchuma*, *Behar* 3; *Midrash Mishlei* ch. 22; and
-*Vayikra Rabbah* §34:6. Other loci cited: Bava Metzia 111b; *Avos* 4:1; Mishlei
-29:13 and 31:20. The single *heilech* pasuk is Shmuel II 12:4; the article
-prints it as I Sam. 12:4, which does not contain the word, and the entry
-corrects it rather than repeating it. Bedersi, *Chosam Tochnis*; Rabbi Yehuda
-Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Wertheimer, including
-his report of Rabbi Avraham ben Yitzchak HaLevi Tamach's manuscript commentary
-to *Eishes Chayil*, later published by Dr. Leon Aryeh Feldman in a 1971 *Sefer
-Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach and Rabbi Moshe
-Sternbuch against Rabbi Yechiel Michel Epstein and Rav Chaim Kanievsky on
-*matanos la'evyonim*. A rendering-guidance line applying *mach* to Vayikra's *ki
-yamuch achicha* has been cut: the article never discusses that pasuk. Nothing
-the article cites is omitted.
+Rabbi Reuven Chaim Klein, "[The Poor and Unfortunate](https://articles.ohr.edu/articles/the-poor-and-unfortunate)," *What's in a Word?*, Ohr Somayach, 18 May 2019.
+
+Cited in the essay: *Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22; *Vayikra Rabbah* §34:6; Bava Metzia 111b; *Avos* 4:1; Mishlei 29:13, 31:20; Shmuel II 12:4; Rabbi Avraham Bedersi HaPenini, *Chosam Tochnis*; Rabbi Yehuda Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham ben Yitzchak HaLevi Tamach's commentary to *Eishes Chayil*, published by Dr. Leon Aryeh Feldman in a 1971 *Sefer Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach; Rabbi Moshe Sternbuch; Rabbi Yechiel Michel Epstein; Rav Chaim Kanievsky.

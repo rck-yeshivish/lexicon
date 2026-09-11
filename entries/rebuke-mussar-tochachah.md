@@ -19,16 +19,11 @@ updated: 2026-09-10
 other that he did wrong, about his past deeds, and possible between equals.
 *Mussar* is **discipline** (or **chastisement**): from a superior to a
 subordinate, by word or by blow, aimed at his future conduct; the Vilna Gaon
-ties it to *yissurin*, afflictions. Together, מוסר ותוכחת is "discipline and
-reproof" (our pairing; the article treats the two words separately and does not
-discuss them as a phrase). Do not let "rebuke" absorb both; and when *mussar*
-means the ethical discipline itself (the sefarim, the study, the movement) it is
-a proper term, **moral instruction**, and not "rebuke" at all (this second sense
-is ours as well; the article treats *mussar* only as rebuke).
+ties it to *yissurin*, afflictions.
 
 ## Distinctions
 
-The article frames the whole discussion with the mitzvah of rebuke (Vayikra
+The column frames the whole discussion with the mitzvah of rebuke (Vayikra
 19:17) and with a dictum the column says Edmund Burke (1729-1797), the father of
 contemporary conservatism, purportedly said: that the triumph of evil needs
 nothing more than that good men do nothing. The Torah, the column writes, takes
@@ -85,7 +80,7 @@ and hold his desires in check.
 - *Mussar* standalone in the sense of chastisement: "discipline,"
   "chastisement," or "correction" (Malbim's future-facing sense); of Hashem's
   afflictions, "chastening." In the sense of the ethical discipline, "moral
-  instruction," or the transliteration the project's ledger prescribes.
+  instruction," or the transliteration.
 - Trap: "rebuke" absorbs both words, and "discipline" in English also names a
   field of study, which happens to match *mussar*'s second sense but blurs
   the first. When a passage turns on the Gaon's mouth-versus-limbs line or
@@ -101,16 +96,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Burke and Rebuke](https://articles.ohr.edu/articles/burke-and-rebuke)," What's in a Word?, Ohr Somayach,
-24 Iyar 5777 (2017-05-20): raw text in
-`sources/whats-in-a-word/raw/7260-burke-and-rebuke.md`. Primary loci the
-article cites: Vayikra 19:17 (the mitzvah of rebuke); Vayikra 26:14-43 and
-Devarim 28:15-68 (the two Tochachos); the Vilna Gaon and Malbim on
-*tochachah* versus *mussar*; Rabbi Shlomo Pappenheim on *nochach*,
-*hochachah*, *vikuach*, *lehasir*, and *assur*; Rabbi Yaakov Tzvi Mecklenburg
-on *mussar* as tying. The column's two non-Jewish references, Edmund Burke's
-purported dictum in the opening frame and Jonathan Edwards's *Sinners in the
-Hands of an Angry God* as the foil to *tochachah*, had been dropped from this
-entry and are now restored, since the column itself cites them. The Mishlei
-5:12 pairing in the rendering guidance, and the sense of *mussar* as the ethical
-discipline itself, are supplied here; the article cites neither.
+Rabbi Reuven Chaim Klein, "[Burke and Rebuke](https://articles.ohr.edu/articles/burke-and-rebuke)," *What's in a Word?*, Ohr Somayach, 20 May 2017.
+
+Cited in the essay: Vayikra 19:17, 26:14-43; Devarim 28:15-68; the Vilna Gaon; Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Edmund Burke; Jonathan Edwards, *Sinners in the Hands of an Angry God*.

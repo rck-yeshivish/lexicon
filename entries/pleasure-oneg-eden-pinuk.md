@@ -20,13 +20,12 @@ pleasure of the body, and in Tanach it is almost always of taste and touch:
 **sensual pleasure, delight of the senses**; *maadanim*, **delicacies**. *Oneg*
 is primarily pleasure of the soul, mind and heart, even when it arrives by way
 of the body: **delight, enjoyment**; *oneg Shabbos* is therefore delight in
-Shabbos taken through good food, never "physical pleasure." Rav Hirsch reads
+Shabbos taken through good food, not physical pleasure. Rav Hirsch reads
 *oneg* on other lines altogether, as being surrounded by favorable conditions.
 *Pinuk* is for Pappenheim not pleasure at all but playfulness and flattery, a
 claim that fits the one pasuk but does not account for the Targumim, which use
-*pinuk* words for both *oneg* and *eden*: **pampering, indulgence**. The one
-thing not to get wrong: Pappenheim's body/soul split between *eden* and *oneg*
-carries the distinction; do not let "pleasure" cover both.
+*pinuk* words for both *oneg* and *eden*: **pampering, indulgence**.
+Pappenheim's body/soul split between *eden* and *oneg* carries the distinction.
 
 ## Distinctions
 
@@ -118,18 +117,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Indulging in Pleasure](https://articles.ohr.edu/articles/indulging-in-pleasure)," What's in a Word?, Ohr Somayach,
-19 Sivan 5779 (2019-06-22): raw text in
-`sources/whats-in-a-word/raw/8295-indulging-in-pleasure.md`. Primary loci the
-article cites: Pappenheim's root analyses of ע-ד, ע-נ-ג and פ-נ-ק; Bereishis 18:12
-with Targum Onkelos, Radak, Ibn Ezra, and Rabbi Yehuda Chalava; Bereishis 49:20;
-Tehillim 36:9, 37:4, 37:11; Yirmiyahu 51:34; Eichah 4:5; Yeshayahu 47:8, 58:13,
-66:11; Devarim 15:14, 28:54; Iyov 22:26; Shir HaShirim 7:7; Mishlei 29:21; Rav
-Hirsch on *oneg* and *anak*; Rabbi Yaakov Tzvi Mecklenburg to Devarim 15:14; the
-Targumim on *anug* and *maadanei melech*; *Mah Yedidus* for *tafnukei
-maadanim*; *Sefer HaYashar* for the name *Adina*. The column's own hedged
-suggestion linking *ednah* to the Aramaic *idna*, its note on *Adina*, and its
-retraction of the *finicky* etymology are reported here as the column's, not as
-any authority's. The article cites its Tehillim loci by the Hebrew versification
-(36:9, not the English 36:8), and the entry follows it. Nothing the article
-cites is omitted.
+Rabbi Reuven Chaim Klein, "[Indulging in Pleasure](https://articles.ohr.edu/articles/indulging-in-pleasure)," *What's in a Word?*, Ohr Somayach, 22 June 2019.
+
+Cited in the essay: Rabbi Shlomo Pappenheim on ע-ד, ע-נ-ג and פ-נ-ק; Bereishis 18:12 with Targum Onkelos, Radak, Ibn Ezra, and Rabbi Yehuda Chalava; Bereishis 49:20; Tehillim 36:9, 37:4, 37:11; Yirmiyahu 51:34; Eichah 4:5; Yeshayahu 47:8, 58:13, 66:11; Devarim 15:14, 28:54; Iyov 22:26; Shir HaShirim 7:7; Mishlei 29:21; Rav Hirsch on *oneg* and *anak*; Rabbi Yaakov Tzvi Mecklenburg to Devarim 15:14; the Targumim on *anug* and *maadanei melech*; *Mah Yedidus*; *Sefer HaYashar*.

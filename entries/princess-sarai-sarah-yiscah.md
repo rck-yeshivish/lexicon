@@ -23,9 +23,7 @@ without limit, over the whole world (*Berachos* 13a, Rashi to Bereishis 17:15).
 14a, *Sanhedrin* 69b), read either as **the one who gazed** with ruach hakodesh
 or **the one all gazed upon** for her beauty; Rashi adds a third sense,
 *nesichah*, princess again. Ibn Ezra and Shadal are skeptical of the
-identification. The trap: rendering both *Sarai* and *Sarah* as "Sarah" in
-English erases the whole point of Bereishis 17:15, where the change of name is
-the berachah.
+identification. In Bereishis 17:15 the change of name is the berachah.
 
 ## Distinctions
 
@@ -174,8 +172,8 @@ instead to Schorsch, a Germanized form of George.
   thin for what *Berachos* 13a is claiming for her.
 - יסכה: transliterate as *Yiscah*, and gloss with the reading the passage is
   using, "the one who gazed" for the ruach hakodesh reading, "the one all gazed
-  upon" for the beauty reading. Do not render the name as "Jessica" in a frum
-  text, even though the column holds that *Jessica* is in fact an Anglicization
+  upon" for the beauty reading. Do not render the name as "Jessica," even
+  though the column holds that *Jessica* is in fact an Anglicization
   of *Yiscah*; the English name carries none of the pasuk's sense and reads as a
   modern given name.
 - Where a source treats Yiscah and Sarai as one woman, do not add "that is,
@@ -188,29 +186,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Lech Lecha: The Princess' Gaze (Part 1/2)](https://articles.ohr.edu/articles/lech-lecha-the-princess-gaze-part-12)," 8
-Cheshvan 5785 (2024-11-09), and "Vayera: The Princess' Gaze (Part 2/2)," 15
-Cheshvan 5785 (2024-11-16), What's in a Word?, Ohr Somayach; raw texts at
-`sources/whats-in-a-word/raw/11580-lech-lecha-the-princess-gaze-part-12.md` and
-`sources/whats-in-a-word/raw/11581-vayera-the-princess-gaze-part-22.md`. Primary
-loci cited: Bereishis 11:29, 17:15, 23:5, 41:45; Yeshayahu 51:2; Bamidbar 13:16;
-Melachim II 24:17; Daniel 1:7; *Berachos* 13a with Rashi and Maharsha; *Tosefta
-Berachos* 1:14; *Bereishis Rabbah* 47:1 with Rabbi David Luria; *Yerushalmi
-Sanhedrin* 2:6; *Sanhedrin* 107a and 69b; *Megillah* 14a; *Seder Olam Rabbah*
-ch. 2; Targum Yonasan to Bereishis 11:29; Maharal, *Tiferes Yisrael* ch. 49;
-*Kli Yakar* and Rav Hirsch to Bereishis 17:15; Shadal to Bereishis 11:29 and
-17:15; the Septuagint with Philo of Alexandria; Josephus, *Antiquities of the
-Jews* Book I ch. 6; Dr. Alexander Kohut, *HeAruch HaShaleim*; Rabbi Eliyahu
-HaBachur, *Meturgeman*; Rabbi Avraham Abba Herczl, *Sifsei Chachamim* to
-*Megillah* 14a, which is a different work from Rabbi Shabsai Bass's *Sifsei
-Chachamim* on Rashi, both of which the article cites; Rabbi Yosef Kerman and
-Rabbi Shaul Goldman on Shadal's Arabic comparison; Professor Grant W. Smith on
-*Jessica*, with Wycliffe and Coverdale; Bereishis 10:24 for Shelach.
+Rabbi Reuven Chaim Klein, "[Lech Lecha: The Princess' Gaze (Part 1/2)](https://articles.ohr.edu/articles/lech-lecha-the-princess-gaze-part-12)," *What's in a Word?*, Ohr Somayach, 9 November 2024.
 
-Two slips in the article are corrected rather than repeated. Part 1 opens by
-placing Sarai's introduction at "Genesis 12:29"; the pasuk is Bereishis 11:29,
-as the second part gives it. Part 1 also writes that "the letter HEY went from
-being the last letter in the name of a righteous woman to being the first letter
-in the name of a righteous man"; the letter that moved is the yod.
+Rabbi Reuven Chaim Klein, "[Vayera: The Princess' Gaze (Part 2/2)](https://articles.ohr.edu/articles/vayera-the-princess-gaze-part-22)," *What's in a Word?*, Ohr Somayach, 16 November 2024.
 
-Nothing the article cites is omitted.
+Cited in the essay: Bereishis 10:24, 11:29, 17:15, 23:5, 41:45; Bamidbar 13:16; Melachim II 24:17; Yeshayahu 51:2; Daniel 1:7; *Berachos* 13a with Rashi and Maharsha; *Tosefta Berachos* 1:14; *Bereishis Rabbah* 47:1 with Rabbi David Luria; *Yerushalmi Sanhedrin* 2:6; *Sanhedrin* 69b, 107a; *Megillah* 14a; *Seder Olam Rabbah* ch. 2; Targum Yonasan to Bereishis 11:29; Rashi to Bereishis 11:29 and 17:15; Maharal, *Tiferes Yisrael* ch. 49; Abarbanel; Rabbi Shlomo Astruc; *Kli Yakar* and Rav Hirsch to Bereishis 17:15; Shadal to Bereishis 11:29 and 17:15; Rabbeinu Nissim; *Baal HaTurim*, *Peirush HaRokeach* and Rabbeinu Efrayim bar Shimshon to Bereishis 11:29; Ibn Ezra; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; the Septuagint; Philo of Alexandria; Josephus, *Antiquities of the Jews* Book I ch. 6; Dr. Alexander Kohut, *HeAruch HaShaleim*; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Avraham Abba Herczl, *Sifsei Chachamim* to *Megillah* 14a; Rabbi Shabsai Bass, *Sifsei Chachamim*; Rabbi Eliyahu Benamozegh, *Eim LaMikra Eim LaMesores*; Rabbi Yaakov Emden, *Eim LaBinah*; Rabbi Yosef Chaim of Baghdad, *Ben Yehoyada* to *Sanhedrin* 69b and *Benayahu* to *Megillah* 14a; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 11:29; the Chasam Sofer, *Toras Moshe* to Bereishis 23:5; Rabbi Yosef Kerman; Rabbi Shaul Goldman; Professor Grant W. Smith; the Wycliffe and Coverdale Bibles.
