@@ -35,9 +35,9 @@ modern Hebrew *safah* is the ordinary word for language, and Hebrew is called
 
 ### lashon (לשון)
 Literally the tongue, the inner organ. Rav Dessler: a language earns the name
-*lashon* when its speakers internalize what it means. Hence *Lashon HaKodesh*
-and *Leshon Ivri*, since we strive to take in the moral and esteemed values the
-language signifies.
+*lashon* when its speakers internalize what it means. Hence *Lashon HaKodesh*,
+since we strive to take in the moral and esteemed values the language
+signifies. Hebrew is traditionally called *Leshon Ivri* as well.
 
 ### Yosef and Lashon HaKodesh
 Bereishis 42:23: the brothers spoke freely before the Egyptian viceroy, Reuven
@@ -53,17 +53,17 @@ that proves nothing, since the Canaanites next door spoke Lashon HaKodesh
 (Yeshayahu 19:18 calls it the language of Canaan)
 and a king is commonly familiar with the languages of nearby countries, as
 Nevuchadnetzar spoke Hebrew though his advisers answered in Aramaic (Daniel
-2:2-4). The Chasam Sofer answers with what the column calls a novel
+2:2-4). The Chasam Sofer answers with a novel
 interpretation, and it turns on the nature of Hebrew rather than on the two
 words. He begins from a historical observation: the Jews of Poland, Lithuania
 and Russia spoke Yiddish, a form of Judeo-German, though the local populations
-knew no German at all, because they descended from the Jews of Western Europe
+knew no German at all, because most of them descended from the Jews of Western Europe
 ousted in the First Crusade (whence *Ashkenazim*, literally Germans), and every
 family raised its children in that dialect for hundreds of years. Yet after a
 mere seventy-year exile to Bavel, Hebrew was forgotten so fast that only half
 the returnees could still speak it (Nechemiah 13:24). Hebrew is unlike other
 languages: it is preserved only by one who maintains a certain degree of
-kedushah, and a lapse in kedushah loses it, while German passes down for
+kedushah, and a lapse in kedushah can easily lose it, while German can pass down for
 generations. Yosef speaking Lashon HaKodesh therefore proved that after all his
 years in Mitzrayim he had kept the purity and holiness the language requires,
 and had not defiled himself with the promiscuity Egyptian culture stood for. In

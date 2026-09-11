@@ -22,9 +22,9 @@ updated: 2026-09-10
 
 *Eretz* is **land** as territory: a country, a nation's settled land, and by
 extension the earth itself down to its core. *Adamah* is **ground**: the arable
-surface, the soil worked for crops. The majority (the Gra, Malbim, Rabbi
-Moravsky) hold *eretz* is the broader word and *adamah* the thin top layer, but
-the Maharshal inverts it.
+surface, the soil worked for crops. The Gra, Malbim and Rabbi Moravsky make
+*eretz* the broader word, and the last two confine *adamah* to the thin top
+layer; the Maharshal inverts it.
 
 ## Distinctions
 
@@ -33,7 +33,7 @@ The Vilna Gaon: *eretz* connotes land as national settlement, and in the
 construct it names a particular nation's land, so "country" fits it well; an
 unqualified *eretz* often means Eretz Yisrael in particular. Malbim: *eretz*
 takes in the whole planet, from the surface down to the innermost core, while
-*adamah* is only the crust whose dirt is farmed.
+*adamah* generally means only the crust whose dirt is farmed.
 
 The berachos put the difference on display. Over bread one says that Hashem
 brings forth bread *min ha'aretz*, from the land; over vegetables, that He
@@ -47,7 +47,7 @@ Rabbi Yechiel Michel Moravsky of Lublin answers from the meanings themselves.
 *Adamah* is limited to the immediate top layer of dirt, while *eretz* reaches
 what lies underground; wheat, whose roots run deep (Yerushalmi Taanis 1:3 puts
 them at fifty handbreadths), is therefore said to come from the *eretz*, while
-vegetables, which do not need such depth, are fruit of the *adamah*. Rabbi
+vegetables, which do not necessarily need such depth, are fruit of the *adamah*. Rabbi
 Yisrael Lipschitz explains similarly.
 
 ### adamah (אדמה)
@@ -78,7 +78,7 @@ then the *eretz* opens its mouth and swallows them, and the people flee lest the
 *eretz* swallow them too (Bamidbar 16:30-34). Where the episode is recalled it
 is the *eretz* that swallowed them (Bamidbar 26:10, Devarim 11:6). Rabbi Yaakov
 Chaim Sofer, Rosh Yeshivah of Yeshivas Kaf HaChaim in Yerushalayim, works from
-the distinction above: the opening came in two stages, the surface layer first
+Rabbi Moravsky's distinction: the opening came in two stages, the surface layer first
 and then the subterranean depths, and the switch of words records it.
 
 ## Rendering guidance

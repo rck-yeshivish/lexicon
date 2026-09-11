@@ -19,22 +19,22 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Chok* is **statute** (or **decree**): a law whose reason is not revealed, set
-and unchanging (Yoma 67b, Rambam). *Mishpat* is **ordinance** or **judgment**:
+*Chok* is **statute** (or **decree**): a law whose reason is not revealed (Yoma
+67b, Rambam), set and unchanging (Pappenheim). *Mishpat* is **ordinance** or **judgment**:
 the rational, mostly interpersonal law, and the verdict a judge reaches by
 weighing two sides (Rambam, Rabbi Moshe Shapiro). *Din* is **judgment** or
 **law** in the sense of the case and its penalty: the dispute itself (Bedersi),
 the penal outcome (Wertheimer). *Dat* is **law, edict, royal decree**; in
-Megillas Esther the king's law, in Devarim 33:2 Divine law. The column calls
+Megillas Esther the king's law, in Devarim 33:2 Divine law. Rabbi Klein calls
 "religion" a mistranslation and holds that the original sense of *dat* may have
 nothing to do with religion as such. *Nimus* (Rabbinic, from Greek *nomos*) is
 **law, rule** as society sets it.
 
-On *dat* against *din* the column is explicitly provisional: it says many
-answers have been offered over the generations, most differing from each other
-only in nuance, that what it gives is a simplified overview, and that doing the
-question justice would mean working through every instance of both words in
-Tanach to see which answer holds up. Nothing below is presented as settled.
+On *dat* against *din* Rabbi Klein is explicitly provisional: many answers
+have been offered over the generations, many of them differing from each other
+only in nuance; what he gives is a simplified overview, and doing the question
+justice, he says, would mean working through every instance of both words in
+Tanach to see which answer is most convincing. Nothing below is presented as settled.
 
 ## Distinctions
 
@@ -57,12 +57,13 @@ the intuitive laws of interpersonal life. *Peirush HaRokeach*, put simply:
 
 Rabbi Shlomo Pappenheim: because *chukim* are not intuitive, only the One who
 commands them truly knows the reason and everyone else is following orders, so
-they are the likelier to be forgotten and are therefore committed to writing to
-last (Yeshayahu 30:8, Iyov 19:23). He also holds that *chok* was borrowed for
+they are the likelier to be forgotten and therefore tend to be committed to
+writing to last (Yeshayahu 30:8, Iyov 19:23). He also holds that *chok* was borrowed for
 any quota set from above (the brick tally of Shemos 5:14), whose prescribed
-number is as arbitrary as an unexplained law. The column adds that this is why
-English "statute" fits: a statute of limitations sets a period that could as
-easily have been longer or shorter. Pappenheim further reads engraved writing as
+number is as arbitrary as an unexplained law. Rabbi Klein notes that *chok* is
+commonly rendered "statute" in English, a type of law whose details seem
+somewhat arbitrary: a statute of limitations sets a period that could as easily
+have been longer or shorter. Pappenheim further reads engraved writing as
 inseparable and everlasting, so *chok* is an unmitigated, unchanging law, which
 is why the word is so often joined to "forever" (Shemos 12:14, 30:21; Vayikra
 3:16, 23:14).
@@ -75,7 +76,7 @@ is unconditional and so more engraved in the person, and the Mishnah's love that
 depends on nothing and is never lost (Avos 5:16) is the parallel. Rav Hirsch (to
 Tehillim 119:5): kuf interchanges with gimmel, so *chok* is kin to *chag*, at
 root a circle, and a *chok* encircles us with mitzvos and further chances to
-develop ourselves. The column grounds that connection in a midrash (*Shemos
+develop ourselves. Rabbi Klein grounds that connection in a midrash (*Shemos
 Rabbah* 15:25) on "He told His words to Yaakov, His *chukim* and *mishpatim* to
 Yisrael" (Tehillim 147:19), which reads it of the yamim tovim, since the
 *chagim* are elsewhere called a *chok* (Tehillim 81:4-5) and their dates turn on
@@ -83,7 +84,7 @@ the calendrical rulings of the court.
 
 It might seem from all this that *chukim* outrank *mishpatim* and accomplish
 more. Rabbi Yisrael Salanter points out that in practice the reverse is
-generally true: *chukim* serve as stepping stones toward *mishpatim*, since
+generally true: *chukim* often serve as stepping stones toward *mishpatim*, since
 keeping the mitzvos whose reasons are not revealed trains a man's intellect to
 grasp the reasons behind the *mishpatim* and to keep those too. He describes
 *chukim* as rungs on a ladder leading to the fulfillment of *mishpatim*, the
@@ -114,17 +115,17 @@ to *cheik*, the bosom, and so the middle or interior of a person, since what is
 engraved is cut into a thing's interior; the Written Torah is an accessible text
 with a plain sense on its surface and so corresponds to *mishpat*, while the
 Oral Torah digs into the interior for the less obvious meanings and so
-corresponds to *chok*. Both readings stand in the column, neither preferred.
+corresponds to *chok*. Both readings stand, neither preferred.
 
 ### din (דין)
 Root ד-י-ן. Pappenheim: DALET-NUN is judicial decision-making and its execution;
 hence *dan*, *din* itself, *dayan*, *madon* (litigation), *adon* (one with
 jurisdiction over another, a husband over his wife or a master over his slave),
 *Adonai* as the Master of all creation, and *medinah* (the area under one court
-system). The column adds on its own account the given names Dan, Daniel, Avidan
-and Dinah. Bedersi: the controversy or fight between two opposing litigants, so
-a litigant is a *baal din* (Avos 4:22); the column notes that a similar point is
-implied by *gmar din*, a judicial decision or sentencing. Wertheimer: the penal
+system). Rabbi Klein adds on his own account the given names Dan, Daniel,
+Avidan and Dinah. Bedersi: the controversy or fight between two opposing litigants, so
+a litigant is a *baal din* (Avos 4:22); a similar point is implied by *gmar
+din*, a judicial decision or sentencing. Wertheimer: the penal
 system that metes out punishment to those who break the law. Maharal: law the
 intellect presumes true; or, alternatively, law between man and his fellow, that
 is civil law. Rabbi Yosef Nechemias (to Esther 1:13): the letter of the law.
@@ -147,17 +148,17 @@ do not list that verse under *dat*). Several proper names are connected to the
 word: Dosan (Bereishis 37:17) per *Old Midrash Tanchuma* (*Vayeshev* §12),
 Dasan (Bamidbar 16:1) per Sanhedrin 109b, and Yedusun (Tehillim 62:1) per
 *Yalkut Shimoni* there. In today's Hebrew *dati* means religious, as in *dati
-leumi*, and secular Israelis call religious Jews *dosim* after the Ashkenazi
-pronunciation of the tav; but the column holds that the word's original sense
-may have had nothing to do with religion as such.
+leumi*, and secular Israelis often call religious Jews *dosim* after the
+Ashkenazi pronunciation of the tav; but Rabbi Klein holds that the word's
+original sense may have had nothing to do with religion as such.
 
 **What separates it from *din*.** Rabbi Shmuel Laniado is clear that one of the
 two words means the Torah's laws while the other means either pragmatic
 measures for temporary circumstances or the rules set by the governing power;
-the column's objection is that Laniado himself is unsure which word is which.
+Rabbi Klein's objection is that Laniado himself is unsure which word is which.
 Rabbi Yosef Nechemias (to Esther 1:13): *din* is the letter of the law and *dat*
 what was done in practice, so that even if Vashti was within her rights not to
-appear (*din*), there was still ground to punish her as an extra-judicial
+appear (*din*), there might still be ground to punish her as an extra-judicial
 deterrent to others minded to defy the king (*dat*); this is why the Megillah
 puts *dat* before *din*, though in theory *din* should come first. Ibn Ezra (to
 Esther 1:3): *dat* is the law of the land, here of the kings of Persia and
@@ -184,28 +185,28 @@ keep the law properly.
 **Etymology.** Pappenheim (*Cheshek Shlomo*) traces *dat* to the biliteral
 DALET-TAV or the monoliteral DALET: practice by force of custom, whether a
 custom of one person, a family, or a nation; he also connects *odos*, on the
-topic of, to the same root, which the column says it does not want to go into.
+topic of, to the same root.
 He contrasts *mishpat*, what ethics demands, and *chok*, what the law of the
 land demands: a worker's wage is a *mishpat*, one's taxes a *chok*, and tipping
 the bearer of good news a *dat*. Others trace *dat* to the same etymon as *din*:
 Avraham Even-Shoshan, in his Hebrew dictionary, holds the tav of *dat* to be a
 suffix added to *din* with the nun dropped, so that the two share a root, and
-Yehoshua Yaron (*Mevo L'Midrash HaLashon*) proposes much the same. The column
-then reports that the prevailing understanding in scholarly circles is that
-*dat* comes from Old Iranian: the etymology was first proposed by Gesenius, who
+Yehoshua Yaron (*Mevo L'Midrash HaLashon*) proposes much the same. The
+prevailing understanding in scholarly circles, however, is that *dat* comes from
+Old Iranian: the etymology was first proposed by Gesenius, who
 traced Hebrew and Aramaic *dat* to Persian *data*, the passive past participle
 of *da*, "to give," which linguists now trace to the Proto-Indo-European roots
-*dō-* and *dǝ-*, "to give." The column quotes Benjamin J. Noonan,
-*Non-Semitic Loanwords in the Hebrew Bible: A Lexicon of Language Contact*
-(2019), p. 89, that no reason exists to reject the loan hypothesis and that
+*dō-* and *dǝ-*, "to give." Benjamin J. Noonan, *Non-Semitic Loanwords
+in the Hebrew Bible: A Lexicon of Language Contact* (2019), p. 89, writes that
+no reason exists to reject the loan hypothesis and that
 Biblical Hebrew and Aramaic *dat* undoubtedly come from Old Iranian *data-*. If
 so, how does a Persian word reach Chumash, written long before the Jews met the
 Persians? Rabbi Eliyahu Benamozegh (*Eim La'Mikra* to Devarim 33:2) writes that
 this does not trouble him, since he finds Egyptian, Greek and possibly even
 Latin words in Chumash.
 
-**אשדת (Devarim 33:2).** The word is obscure, and the column notes that Bible
-critics have dealt with it by a heretical emendation of the penultimate letter.
+**אשדת (Devarim 33:2).** The word is obscure, and Bible critics have dealt
+with it by a heretical emendation of the penultimate letter.
 The Masoretic tradition reads it as two words, *aish* and *dat*, and on that
 reading Ramban has a religion of fire, Onkelos a Torah given through fire, and
 Rashi the primordial Torah written in fire; Abarbanel has two faces to Torah, a
@@ -235,16 +236,16 @@ portmanteau of *aish* and *dat*.
 
 **Bedersi.** He does not treat *dat* and *din* as a pair at all. He discusses
 *din* as a possible synonym of *mishpat*, and two entries later treats *dat* as
-an ostensible synonym of *chok*, though the column says it is not quite clear
-how he distinguishes those two. What is clear is that he rejects Ibn Janach's
+an ostensible synonym of *chok*, though Rabbi Klein finds it not quite clear
+how Bedersi distinguishes those two. What is clear is that he rejects Ibn Janach's
 definition of *dat* as *bris*, covenant, and prefers to see *dat* as effectively
 coterminous with *din*.
 
 ### nimus (נימוס)
-Rabbinic, and a loanword from Greek *nomos*, law, with the pronunciation
-slightly modified; the column notes that *nomos* underlies English *economy*,
-*astronomy*, *autonomy*, *antinomy*, *nomism*, *antinomianism* and *nomic*, and
-that the name Deuteronomy is *duet*, twice, plus *nomos*, a direct Greek
+Rabbinic, and a loanword from Greek *nomos*, law, with the pronunciation, it
+seems, slightly modified. *Nomos* underlies English *economy*, *astronomy*,
+*autonomy*, *antinomy*, *nomism*, *antinomianism* and *nomic*, and the name
+Deuteronomy is *duet*, twice, plus *nomos*, a direct Greek
 rendering of Chazal's *Mishneh Torah*. It does not appear in Tanach and appears
 once in Mishnah: a husband must tell his agent plainly to write and give a *get*,
 and "free her," "sustain her," "do for her as the *nimus*" or "do for her as is

@@ -37,8 +37,9 @@ updated: 2026-09-10
 ## Bottom line
 
 *Tzaraas* is the **affliction itself**, the impurity that has taken hold;
-*nega* is the **spot**, the point of contact where it strikes, and where the
-Torah pairs them, *nega tzaraas*, it is naming two things and not one. *Tzarua*
+*nega* is the **spot**, the point of contact where it strikes, and on the
+Arizal's reading, where the Torah pairs them, *nega tzaraas*, it is naming two
+things and not one. *Tzarua*
 and *metzora* both mean **leper**, but *tzarua* is the man while the affliction
 is on him and *metzora* still fits him until the purification is complete
 (Perlmutter). The affliction has been rendered leprosy, Hansen's disease,
@@ -85,8 +86,8 @@ be fought with sword and spear.
    *Tosafos HaShaleim* read him: *metzora* is *tzarua* plus an initial *mem*,
    whose *gematria* forty points to the fortieth day of Moshe's ascent and the
    sin of the Golden Calf, for which one punishment was *tzaraas* (*Vayikra
-   Rabbah* 17:3). The column notes the weakness: it does not explain which word
-   goes where.
+   Rabbah* 17:3). Rabbi Klein notes the weakness: it does not explain which
+   word goes where.
 2. **The source of the derashah.** Rabbi Menachem Deutsch, quoted by Rabbi
    Shlomo Tzvi Shick (*Torah Shleimah*, *Metzora* 1): the very choice of
    *metzora* over *tzarua* is what prompted Chazal to expound *metzora* as
@@ -96,10 +97,10 @@ be fought with sword and spear.
    man whose spot has healed but who has not yet finished the purification, since
    he remains on the cusp of the affliction returning.
 4. **Number of spots.** Shadal (to Vayikra 13:5): *tzarua* is one who has only a
-   single *nega*; the column itself introduces the distinction as hard to
+   single *nega*; Rabbi Klein introduces the distinction as hard to
    substantiate.
 
-The column does not rank the four, though it says of the first answer that it
+Rabbi Klein does not rank the four, though he says of the first answer that it
 fails to account for where each word is used, and introduces the fourth as hard
 to substantiate.
 
@@ -110,11 +111,10 @@ The noun and its inflections appear thirty-five times in Tanach, most of them in
 Vayikra 13-14, plus Devarim 24:8 (one may not evade the consequences by cutting
 the spot away), Naaman in Melachim II 5:3, 5:6-7, 5:27, and Uziyahu, struck on
 the forehead for offering the *ketores*, in Divrei HaYamim II 26:19. Gesenius
-and other philologists, the column reports, hold the Hebrew root related to the
-Arabic *sara'a*, being thrown down to the ground, which is where a possible
-connection to epilepsy comes from; the column takes that literal sense to
-suggest, in its own words, that Hashem throws a man down and humbles him by
-afflicting him with *tzaraas*. Rav Hirsch
+and other philologists hold the Hebrew root related to the Arabic *sara'a*,
+being thrown down to the ground, which is where a possible connection to
+epilepsy comes from; it seems to Rabbi Klein that this literal sense refers to
+Hashem throwing a man down and humbling him by afflicting him with *tzaraas*. Rav Hirsch
 (to Vayikra 13:2) links צ-ר-ע to ז-ר-ע (*zorea*, sowing) and ז-ר-ה (*zoreh*,
 winnowing or throwing), by the interchange of tzadi with zayin and ayin with hei:
 a seed hidden underground bursts out visibly, and so a spot on the skin is the
@@ -126,9 +126,10 @@ Rabbi Avi Kobernick reads the root against its metathesised neighbours: against
 a man who views his enemies as powerful is thereby broken in his own eyes),
 *tzaraas* is its opposite, since sickness is bodily weakness; and with צ-ע-ר
 (*tzaar*, pain),
-since the affliction is a burden borne, which fits *Toras Kohanim* to Vayikra
-13:2, that the sufferer is pained by it and so are those who see him; the column
-adds that Chazal's use of *tzaar* there may hint that they too linked the words.
+since the affliction is a burden borne. Rabbi Klein adds that the connection
+may run deeper: *Toras Kohanim* to Vayikra 13:2 says that the sufferer is pained
+by it and so are those who see him, and Chazal's use of *tzaar* there may hint
+that they too linked the words.
 Mr. Moshe Ossi (*Al Katzeh HaLashon*) suggests a connection to שׂ-ר-ע,
 expansion, the root of *sarua*, the
 overextended limb that disqualifies a Kohen or a korban (Vayikra 21:18, 22:23)

@@ -17,14 +17,14 @@ updated: 2026-09-10
 ## Bottom line
 
 Four verbs, all "lead," and they are not interchangeable. *Noheg* is to **drive**:
-leading by force, from strength, keeping the charges on a fixed course, and it
-is the one word of the four that can be used of leading something to its ruin.
-*Molich* is to **take** or **bring**, a form of *holech*, moving people from one
-place or state to another. *Nachah* is to **guide**: leading that shields those
-led from harm and brings them to rest. *Nohel* is to **lead with care**, the
-leader who not only shields but provides and sustains. Shiras HaYam sets
-*nachisa* and *neihalta* in one pasuk (Shemos 15:13), and the pasuk is built on
-the contrast between them.
+leading by force, from strength, keeping the charges on a fixed course, and,
+unlike *nachah* and *nohel*, it can sometimes be used of leading something to
+its ruin. *Molich* is to **take** or **bring**, a form of *holech*, moving people
+from one place or state to another. *Nachah* is to **guide**: leading that
+shields those led from harm and brings them to rest. *Nohel* is to **lead with
+care**, the leader who not only shields but provides and sustains. Shiras HaYam
+sets *nachisa* and *neihalta* in one pasuk (Shemos 15:13), and Rabbi Pappenheim
+reads the pasuk as built on the contrast between them.
 
 ## Distinctions
 
@@ -33,8 +33,8 @@ Root נ-ה-ג by the classical lexicographers (Ibn Saruk, Ibn Janach, Ibn Parcho
 Radak), about thirty times in Tanach, three of them in Shemos (3:1, 10:13,
 14:25). Rabbi Shlomo Pappenheim, as is his way, takes it back to the biliteral
 ה-ג, treating the opening nun as extraneous. He explains that two-letter root
-two ways, once in *Yerios Shlomo* and once in *Chesheik Shlomo*; the column
-presents only the latter, saying it finds that one easier to follow. There the
+two ways, once in *Yerios Shlomo* and once in *Chesheik Shlomo*; Rabbi Klein
+presents only the latter, which in his opinion is easier to follow. There the
 core sense is consistent action: *hogeh*/*hagus*/*higayon* is sustained thinking
 (Yehoshua 1:8, Mishlei 15:28, Tehillim 19:15, 49:4), and *hegeh* is sustained
 sound, crying or cooing or saying the same thing over and over (Yeshayahu 31:4,
@@ -43,8 +43,7 @@ leading means holding those under one's influence to a consistent course, as a
 shepherd does his flock (Shemos 3:1, Tehillim 78:52) and a general his army
 (Divrei HaYamim I 20:1).
 
-But the consistency is morally neutral, which is why *noheg* alone among the
-four can go bad. Lavan uses it of Yaakov "leading" his daughters like captives
+But the consistency is morally neutral, which is why *noheg* can go bad. Lavan uses it of Yaakov "leading" his daughters like captives
 (Bereishis 31:26); Iyov of wicked men who drive off an orphan's donkey (Iyov
 24:3); and the Torah of the Egyptian chariots that drove their riders straight
 into the sea (Shemos 14:25). Rabbi Yehuda Leib Shapira-Frankfurter (*HaRechasim
@@ -52,7 +51,7 @@ LeVik'ah*), cited also by Rabbi Ezra Reuven Dangoor, the Chief Rabbi of Baghdad,
 in his *Adei Zahav*, makes this the distinction: *nachah* and *nohel* always
 carry a positive sense, since they imply an element of greatness in the one
 leading, a stronger man leading weaker ones or an older leading younger and
-using that greatness to help them, while *noheg* can name leading someone or
+using that greatness to help them, while *noheg* can sometimes name leading someone or
 something to its downfall.
 
 Rabbi Shlomo Aharon Wertheimer: *noheg* implies leading from a position of power
@@ -60,8 +59,9 @@ and strength, as when Hashem "led" the east wind before the makkah of arbeh
 (Shemos 10:13). Malbim (to Shemos 10:13) reads the same pasuk as deliberate
 intervention, Hashem stepping into nature to bring about what would not have
 happened on its own, in contrast to the more hands-off *nachah* and *nohel*.
-Malbim (to Tehillim 31:4) elsewhere frames it as *nachas*, difficult to render
-but close to pleasantness and calm: *nachah* and *nohel* lead with *nachas*,
+Malbim (to Tehillim 31:4) elsewhere frames it as *nachas* (a word Rabbi Klein
+finds difficult to render, perhaps closest to pleasantness and calm): *nachah*
+and *nohel* lead with *nachas*,
 *noheg* is heavy-handed; Rabbi Yosef Shapotshnick of London (*Revid HaZahav* to
 the Siddur, on Az Yashir) explains similarly. Rav Hirsch, who was
 Shapira-Frankfurter's great-nephew, puts it a third way (to Shemos 13:17):
@@ -76,7 +76,7 @@ Shmuel Ibn Tibbon, who translated the *Moreh Nevuchim* into Hebrew, explains it
 as coined to put Greco-Arabic philosophy into Hebrew. All of these hang on
 leading: a driver leads his car and passengers to their destination, the wheel
 leads the car in the right direction, and logic leads a person to his
-conclusions. The column adds on its own account that logic fits Pappenheim's
+conclusions. Rabbi Klein adds on his own account that logic fits Pappenheim's
 "consistency" too, since an argument holds only by consistent reference to one
 framework. *Minhag* in Tanach is the way one rides (Melachim II 9:20); in
 rabbinic usage it is a custom, a settled habit that a person, family, or
@@ -98,11 +98,10 @@ holds for *yolech* where Hashem "led" the sea with a strong east wind through
 the night (Shemos 14:21), taking charge of a force of nature for the sake of the
 morning's miracle. Though the mem of *molich* is plainly no part of the root,
 Shadal (to Bereishis 36:31) derives *melech*, king, from *molich*, in the sense
-that a king leads his people in a given direction. The column notes in passing
-that there is much to say about *melech* and its apparent synonyms, Rabbi
-Shlomo of Urbino's lexicon of Hebrew synonyms *Ohel Moed* listing fifty-seven of
-them in Biblical Hebrew, all naming a position of leadership or authority of one
-kind or another, but leaves the subject for another time.
+that a king leads his people in a given direction. Rabbi
+Shlomo of Urbino's lexicon of Hebrew synonyms *Ohel Moed* lists fifty-seven
+synonyms of *melech* in Biblical Hebrew, all naming a position of leadership or
+authority of one kind or another.
 
 ### nachah (נחה)
 About forty times in Tanach (Shemos 13:17, 15:13; Tehillim 77:21 among them),
@@ -111,8 +110,8 @@ road (13:17), the pillar of cloud led the way (*lanchosam*, 13:21), "You led
 (*nachisa*) with Your kindness" (15:13), and Moshe is told to lead the nation
 (*nechei*, 32:34). Rabbi Pappenheim ties it to *menuchah* (rest),
 which he derives from the biliteral נ-ח or from the single letter ח: *nachah*
-is the leadership that takes itself to be responsible for keeping its charges
-clear of mishap and bringing them to a state of rest. His proofs: the pillar of
+is the leadership that takes itself to be responsible only for keeping its
+charges clear of mishap and bringing them to a state of rest. His proofs: the pillar of
 cloud that led the Jews through the wilderness is *nachah* (Shemos 13:21,
 Nechemiah 9:12), the Clouds of Glory being there to protect and to clear away
 whatever might trip them up; and "You led (*nachisa*) with Your kindness this
@@ -131,7 +130,7 @@ they need to thrive. So Yaakov tells Esav he will lead his household on slowly
 bread" through the famine (*vayenahaleim*, Bereishis 47:17), the benevolent
 ruler sustaining his people. Rabbi Pappenheim draws the same line against
 *nachah*: *nachah* saves from the bad, *nohel* also helps in a positive,
-nurturing way, which is why Shiras HaYam uses *nachah* for leading the Jews
+nurturing way, as can be inferred from Shiras HaYam, which uses *nachah* for leading the Jews
 *out of* Egypt and *nohel* for leading them *in* to the holy abode. Rabbi
 Mecklenburg (*HaKsav VeHaKabbalah* to Bereishis 47:17) gives an abbreviated
 version of Rabbi Pappenheim's whole scheme. Later Hebrew gives *menahel*,
@@ -156,9 +155,9 @@ exposition on the biliteral string ה-ל, which he takes as the ultimate root of
 many Hebrew words and whose core sense he gives as separating. *Nohel* on his
 account is actively supervising those in one's charge, thinking how to aid them
 and doing all one can to save them and separate them from whatever harm may
-come, which the column notes somewhat resembles Rabbi Pappenheim and Rabbi
-Goldblit in making *nohel* an active leading. Under the same string he gathers
-*ohel*, a tent, which separates a private space out of a public one; *hilula*,
+come, which, Rabbi Klein notes, somewhat resembles Rabbi Pappenheim and Rabbi
+Goldblit in making *nohel* an active leading. Under the same string Rabbi
+Grayever gathers *ohel*, a tent, which separates a private space out of a public one; *hilula*,
 a wedding in Talmudic Aramaic, marriage separating a woman from every man but
 her husband, though in later kabbalistic usage the word means the celebration of
 a yahrzeit; *hallel* and *tehillah*, praise being a way of saying that what is

@@ -18,14 +18,13 @@ updated: 2026-09-10
 *Maalah* (plural *maalos*) is a step *up*, an ascent; in the abstract a
 **step up, an advantage, a virtue**: physically **step, stair**. *Madreigah*
 is a graded step or terrace; in later Hebrew a **degree, a level** (of
-achievement), which is the word a mussar text means. *Sulam* is a **ladder**,
-though Rashi defines it by *maalos* and *madreigos* alike, so in Rabbinic
-usage it may be a stair. In Tanach *maalos* is the ordinary word (some fifty
-times; *madreigos* only twice), and Rabbi Shlomo Aharon Wertheimer, the one
-authority in the column who separates them
-by sense, makes *madreigos* a terraced way cut up a mountainside and *maalos* a
-free-standing stair in a house or courtyard; that is why the altar prohibition
-says *maalos* (Shemos 20:23).
+achievement, the spiritual *madreigah* among them). *Sulam* is a **ladder**,
+though Rashi defines it by *maalos* and *madreigos* alike. In Tanach *maalos*
+is the ordinary word (some fifty times; *madreigos* only twice), and Rabbi
+Shlomo Aharon Wertheimer, who alone here separates them by sense, makes
+*madreigos* a terraced way cut up a mountainside and *maalos* a free-standing
+stair in a house or courtyard; that is why the altar prohibition says *maalos*
+(Shemos 20:23).
 
 ## Distinctions
 
@@ -41,13 +40,12 @@ the fifteen steps on which the Leviim sang between the courtyards; the three
 to set it up. In the parallel to Shlomo's throne, pseudo-Rashi (to Divrei
 HaYamim II 9:18) likewise explains the *maalos* as *madreigos*, while Targum Rav
 Yosef there uses *masok*, an inflection of the Aramaic verb to ascend. From that
-pattern the column offers a suggestion of its own, hedged: we may argue that the
-difference is that *maalos* is Hebrew while *madreigos* comes from another
+pattern Rabbi Reuven Chaim Klein offers a suggestion of his own, hedged: the
+difference might be that *maalos* is Hebrew while *madreigos* comes from another
 language, Aramaic or Akkadian. Rambam (Hilchos Beis HaBechirah 1:17) uses
 *madreigos* when stating that no stairs may be built to the altar and the
 Torah's own *maalos* when fixing the lashes for ascending by them. Talmudic
-*maalyuta*, "advantage, superb," is a step up in the abstract, the root of the
-abstract sense of *maalah*.
+*maalyuta*, "advantage, superb," is a step up in the abstract.
 
 ### madreigah (מדרגה)
 Root ד-ר-ג (Menachem Ibn Saruk, Ibn Janach, Ibn Parchon, Radak), a root with
@@ -55,20 +53,20 @@ no other Biblical derivative; twice in Tanach (Yechezkel 38:20, Shir HaShirim
 2:14) and twice in the Mishnah (Kilayim 6:2, Sheviis 3:8), each pair carrying
 one plural and one singular. Rav Hirsch (to Bereishis 6:9, Tehillim 25:4):
 conceptually akin to *derech*, a path that carries a person to his destination,
-which the column takes as implying that ד-ר-ג and ד-ר-ך are kin, possibly
+which Rabbi Reuven Chaim Klein takes as implying that ד-ר-ג and ד-ר-ך are kin, possibly
 through the interchange of gimmel and kaf; Rabbi Yitzchak of Zeldin (Shoresh
 Yesha) makes the same connection more prosaically, both words naming a place the
 foot treads. The German philologist Wilhelm Gesenius likewise held ד-ר-ג related
 to ד-ר-ך, and connected the Hebrew root to Arabic *daraja*, walking by foot, and
-a stair or step; later scholars, the column says, among them Rabbi Dr. Ernest
-Klein and Avraham Even-Shoshan, connect these to the Akkadian cognates
+a stair or step; later scholars, among them Rabbi Dr. Ernest Klein and
+Avraham Even-Shoshan, similarly connect these to the Akkadian cognates
 *durgu*/*daragu*, path.
 
 Wertheimer (Beiur Shemos HaNirdafim, a work written to show that no two Hebrew
 words are truly synonymous): the two look synonymous on the surface, both naming
 what people use to go up and down, but in Biblical Hebrew *madreigos* is
 specifically a walkway built to climb a mountain, where the incline is too steep
-to be traversed and earth is filled in around it to make a terraced rampart
+to be traversed and earth may be filled in around it to make a terraced rampart
 (Rashi to Yechezkel 38:20 and Shir HaShirim 2:14), while *maalos* is a
 free-standing stairwell in a house or courtyard, not built into a mountainside,
 which is why the Torah forbids *maalos* to the altar and not *madreigos*.
@@ -78,17 +76,17 @@ or of a circle, and any level of attainment, the spiritual *madreigah*. Aramaic
 *darga* is the same word (Yevamos 63a, "go down a *darga* to take a wife,"
 Rashi: not a woman of a more prestigious class than oneself, lest she not be
 willing to accept him); Modern Hebrew *darga* is a military rank. There is also
-a cantillation mark called *darga*, of which the column says it is unsure how it
-bears on the discussion; and it notes that *darga* shares its consonants with
-English *grade* and *degree*, probably by pure coincidence.
+a cantillation mark called *darga*, of which Rabbi Reuven Chaim Klein says he is
+unsure how it bears on the discussion; and he notes that *darga* shares its
+consonants with English *grade* and *degree*, probably by pure coincidence.
 
 ### sulam (סולם)
-The column first asks what really separates a ladder from a staircase, whether
-being moveable rather than built in, or standing nearer to vertical, and leaves
-the question open. Root ס-ל-ם for the four lexicographers, though again no other
-Biblical word comes from it; a *hapax* in Tanach (Yaakov's dream, Bereishis
+What, if anything, really separates a ladder from a staircase is an open
+question: perhaps that a ladder is moveable and a staircase built in, or that a
+ladder can stand nearer to vertical. Root ס-ל-ם for the four lexicographers,
+though again no other Biblical word comes from it; a *hapax* in Tanach (Yaakov's dream, Bereishis
 28:12), common in the Mishnah (Beitzah 1:3, Bava Basra 2:5, 3:6, Makkos 2:1,
-Zavim 3:1, 4:3). Three accounts of the root stand in the column.
+Zavim 3:1, 4:3). Scholars have proposed various etymologies for the root.
 
 Dr. Chaim Tawil (*An Akkadian Lexical Companion for Biblical Hebrew*) cites
 Landsberger that ס-ל-ם is by metathesis a cognate of Akkadian *simmiltu*,
@@ -96,12 +94,12 @@ stairway, the word used of the staircases up the Babylonian ziggurats; on that
 reading the mem is part of the root and *sulam* means much what *maalos* and
 *madreigos* mean.
 
-What the column calls the more conservative approach takes *sulam* from Hebrew
+The more conservative approach takes *sulam* from Hebrew
 ס-ל-ל, paved, whence *mesilah*, with the final mem paragogic and so no part of
 the root, which puts *sulam* on the same footing as *madreigah*, a path up; so
 Rav Hirsch (to Bereishis 28:12, Bamidbar 20:19, Tehillim 84:6), Gesenius, Kohut,
-and the *Enhanced Brown-Driver-Briggs*. Rabbi Dr. Ernest Klein takes ס-ל-ל to
-mean paving a path by lifting the stones in the way and throwing them aside, so
+and the *Enhanced Brown-Driver-Briggs*. Rabbi Dr. Ernest Klein implies that ס-ל-ל
+means paving a path by lifting the stones in the way and throwing them aside, so
 that *sulam* comes from the "lifting" sense, a means of lifting a person higher;
 Pappenheim takes a similar approach and reduces the root further to the
 biliteral ס-ל.
@@ -111,8 +109,8 @@ stands in for the ayin that precedes it in the alef-beis, so the root of *sulam*
 is ע-ל, the very root of *maalos*.
 
 Rashi defines *sulam* with *maalos* (to Bava Metzia 25a, Sukkah 53b) and with
-*madreigos* (to Beitzah 36a), which the column brings as its closing proof that
-the three belong to one cluster.
+*madreigos* (to Beitzah 36a), which Rabbi Reuven Chaim Klein brings as proof
+that the three belong to one cluster.
 
 ## Rendering guidance
 

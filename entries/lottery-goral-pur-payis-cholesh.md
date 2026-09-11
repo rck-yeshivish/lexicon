@@ -21,9 +21,9 @@ updated: 2026-09-10
 ## Bottom line
 
 *Goral* is the general Hebrew word for a **lot**, and also for the **portion**
-that falls to a man by lot. *Pur* is the word Megillas Esther itself glosses as
-*goral*; the rishonim cited call it Persian. *Payis* is the Mishnaic word for the **lottery** among
-the *kohanim* in the Beis HaMikdash, and *kalpi* the **box** the lots are drawn
+allotted to a man, often by lot. *Pur* is the word Megillas Esther itself
+glosses as *goral*; the rishonim cited call it Persian. *Payis* is the Mishnaic
+word for the **lottery** among the *kohanim* in the Beis HaMikdash, and *kalpi* the **box** the lots are drawn
 from. *Cholesh* is a rare word for casting lots (Yeshayahu 14:12). *Goral* is
 both the drawing and the thing drawn.
 
@@ -34,19 +34,19 @@ The word for the lots that decided which *sa'ir* on Yom Kippur goes to Hashem
 and which to Azazel (Vayikra 16:8), and for the mechanism by which Eretz
 Yisrael was apportioned among the *shevatim* (Bamidbar 26:55). It carries the
 second sense of the portion itself, the share allotted to a man, often by way of
-a raffle or lottery. The column relates *goral* to the Arabic *jaral* / *jarwal*,
-"stones" or "pebbles," the stones used for drawing lots, and notes in passing that
-the English *lot* and *plot* for a section of land are probably derived from
-"lottery." Rabbi Yaakov Lorberbaum of Lissa: *goral* has a positive connotation,
-a lottery held for a beneficial purpose, receiving a portion as at a raffle.
+a raffle or lottery. *Goral* is related to the Arabic *jaral* / *jarwal*,
+"stones" or "pebbles," the stones used for drawing lots, and the English *lot*
+and *plot* for a section of land are probably derived from "lottery." Rabbi
+Yaakov Lorberbaum of Lissa: *goral* has a positive connotation, a lottery held
+for a beneficial purpose, receiving a portion as at a raffle.
 
 ### pur (פור)
-Esther 3:7: Haman "cast a *pur*, which is a *goral*." Most authorities take the
+Esther 3:7: Haman "cast a *pur*, which is a *goral*." Four rishonim take the
 gloss at face value, that *pur* is a foreign word the Megillah renders into
 Hebrew: Rabbi Tuviah ben Eliezer (*Midrash Lekach Tov* to Esther 3:7), Rashbam
-(to Shemos 16:15), Ibn Ezra (to Esther 3:7), and Ramban (to Shemos 12:2); the
-column adds a query of its own whether the word is Persian or Akkadian, and notes
-that some linguists derive *pur*, just as they derive *goral*, from a word for
+(to Shemos 16:15), Ibn Ezra (to Esther 3:7), and Ramban (to Shemos 12:2). Rabbi
+Klein adds a query of his own, whether the word is Persian or Akkadian; some
+linguists derive *pur*, just as they derive *goral*, from a word for
 stone, in this case the Akkadian *puru*. Rabbi Yosef ben Yosef Ibn Nachmias adds
 why this one word out of the Megillah's many Persian words needed translating:
 the *yom tov* is named Purim after Haman's *pur* (Esther 9:26), so the word is too central to leave opaque.
@@ -60,8 +60,8 @@ own side he stood to gain, the property of the Jews he meant to kill. Maharitatz
 which day to approach Achashverosh and a *pur* for which day to carry out the
 decree, though he does not say why each got the name it did.
 
-Rabbi Shlomo Pappenheim mentions the authorities just cited and disagrees with
-them: *pur* is Hebrew, from the biliteral פ-ר,
+Rabbi Shlomo Pappenheim mentions the authorities who call *pur* Persian and
+disagrees with them: *pur* is Hebrew, from the biliteral פ-ר,
 "breaking something down into smaller components": *perurim* (crumbs), *eifer*
 (ash), *parur* (a pot for crumbs and small grains), *pri* (fruit, a microcosm
 broken off the tree), *pe'er* and *tiferes* (an all-encompassing beauty that
@@ -94,7 +94,7 @@ lottery is weak proof that one really deserved it.
 
 ### kalpi (קלפי) and chevel (חבל)
 *Kalpi* is the Mishnaic name for the box the lots are drawn from (*Yoma* 39a),
-which the column derives from the Greek *kalpe* / *kalpis*, an urn used for
+a word derived from the Greek *kalpe* / *kalpis*, an urn used for
 drawing lots; in Modern Hebrew it is the ballot box at government elections. *Chevel* ("portion") is a synonym of
 *goral*; the Midrash (*Yalkut Shimoni*, Shemos §265, and *Pesikta d'Rav Kahana*
 §3:1) counts four words for lots in Tanach, *cholesh*, *pur*, *goral* and

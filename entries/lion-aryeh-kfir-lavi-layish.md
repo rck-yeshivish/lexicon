@@ -24,7 +24,7 @@ themselves: Radak's progression runs *gur* the nursing cub, then *kfir*, then
 *aryeh*, then *lavi*, then *layish*, each stage stronger than the last, and he
 does not say where *shachal* fits; the Vilna Gaon has three stages only, *kfir*,
 *aryeh*, *shachal*; Abarbanel flattens the set to two, *gur* and *kfir* young,
-*aryeh*, *layish* and *lavi* grown. A minority reads some of these words as other
+*aryeh*, *layish* and *lavi* grown. Others still read some of these words as other
 animals altogether.
 
 ## Distinctions
@@ -79,10 +79,10 @@ cub is faster and stronger than a grown lion.
 his parents. Rabbi Yechiel Michel Stern: a *kfir* is less fierce than an *aryeh*,
 which is why Michah 5:7 has the *kfir* falling on sheep, domesticated and
 defenseless, while the *aryeh* takes the beasts of the forest; and Tehillim
-104:21 has the *kfir* roaring to ask for its food, meaning it is still too young
+104:21 has the *kfir* roaring to ask for its food, implying it is still too young
 to hunt. *Zohar* (Terumah 143a): a *kfir* is a small, weak lion.
 
-### the minority: not lions at all
+### not lions at all
 The Italian scholar Rabbi Yishaya of Trani (to Hoshea 13:8): *lavi* and *laviyah*
 are a different species from lions altogether, though he himself admits that
 *shachal* and *shachatz* are words for lion. Rabbi Pinchas Eliyahu Horowitz of

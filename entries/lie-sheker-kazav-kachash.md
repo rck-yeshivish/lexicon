@@ -19,8 +19,9 @@ updated: 2026-09-10
 ## Bottom line
 
 *Sheker* is **falsehood** outright, false already when it was said. Whether it
-must also be knowing is left open: Rabbi Edel and Mecklenburg say yes, and the
-column defends Albo's broader *sheker*, which covers the inadvertent untruth too.
+must also be knowing is left open: Rabbi Edel and Mecklenburg say yes, and Rabbi
+Klein offers a possible defense of Albo's broader *sheker*, which covers the
+inadvertent untruth too.
 *Kazav* is **a lie that time exposes**: it sounded true, and only later proves
 false (the Gra: he meant it when he said it and then did not keep his word).
 *Kachash* is **denial**, a false answer to a claim already standing against
@@ -44,9 +45,9 @@ suggests *sheker* must carry an element of advertent deceit. Rabbi Yaakov Tzvi
 Mecklenburg reaches the same place from the wording: the Torah writes *lo
 teshakru* and not *lo sechazvu*, which shows the prohibition covers deliberate
 lying and not mistaken lying (on his reading *kazav* is the mistaken lie, and
-*sheker* the purposeful or deceptive one). The column does not let Rabbi Albo
-fall, though: we may defend him, it says, by holding that the general definition
-of *sheker* does cover any objective untruth, inadvertent or wanton, and that
+*sheker* the purposeful or deceptive one). Rabbi Klein suggests, though, that
+Rabbi Albo may be defended by holding that the general definition of *sheker*
+does cover any objective untruth, inadvertent or wanton, and that
 the Gemara is applying a separate scriptural imperative, derived from Vayikra
 5:4, which limits the prohibition of false testimony and false oaths to one who
 perjures knowingly. On that defense Albo's broad *sheker* stands.
@@ -68,7 +69,7 @@ Torah never forbade *saying kazav*, because at the moment of speech there is no
 *kazav* yet; it becomes one retroactively. Malbim (*Yair Ohr*): *sheker* has no
 validity at all, while *kazav* has some purchase on reality, seeming true at
 first and only later fully exposed. In *Sefer HaCarmel* he adds that one
-utterance can be both at once: *sheker* from the speaker's side, who knew, and
+utterance can sometimes be both at once: *sheker* from the speaker's side, who knew, and
 *kazav* from the hearer's side, who cannot yet disprove it. That is what the
 phrase *sheker v'chazav* holds together. Rav Hirsch (to Shemos 7:11, 21:17)
 links the root כ-ז-ב to כ-ש-ף, witchcraft: what looks real on the surface and
@@ -86,8 +87,8 @@ interchangeable): *ka'as* is a real and warranted response to another's
 wrongdoing, *kachash* a manufactured response of denial to another's warranted
 claim. Rabbi Yonah Wilheimer sets *kazav* against *kachash* as the two shapes a
 lie can take: *kazav* says of what is not that it is (fabrication), *kachash*
-says of what is that it is not (denial). It would seem, the column adds, that on
-his reading *sheker* is then an umbrella term over both.
+says of what is that it is not (denial). It would seem, Rabbi Klein adds, that on
+Rabbi Wilheimer's reading *sheker* is then an umbrella term over both.
 
 Rabbi Shlomo Aharon Wertheimer seems to grade all three by how soon the lie can
 be caught: *sheker*, everyone knows it is false the moment it leaves the mouth;

@@ -18,14 +18,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both mean **lick**, and the early lexicographers define one by the other. Where
+Both mean **lick**, and Ibn Saruk and Radak define one by the other. Where
 they are told apart, *lekikah* is **lapping up** liquid, the dog-at-the-water sound
 (Rabbi Moshe Tedeschi-Ashkenazi); *lechichah* is **licking away** something
-firmer, an ox stripping a field bare (Bamidbar 22:4). *Lechichah* in a war
-context is not a picture of affection: it means consuming, wiping clean. English
-"lick" in the sense of *defeat* grew, the column notes, out of Bamidbar 22:4
-itself, though the column treats the wider resemblance between the
-English and the Hebrew as a thing linguists would put down to chance.
+firmer, an ox stripping a field bare (Bamidbar 22:4). English "lick" in the
+sense of *defeat* grew out of Bamidbar 22:4 itself; that the English word's two
+senses, smiting and licking, resemble ל-ק-ה and ל-ק-ק is something linguists
+would probably put down to chance.
 
 ## Distinctions
 
@@ -41,15 +40,14 @@ way, licking being the use of the tongue to roll liquid (*lach*) toward the
 palate. Ibn Parchon (*Machberet He'Aruch*): *lechichah* is eating quickly.
 Chazal extend it to fire, which "licked" (*lichacha*) a plowed field, in the
 sugya of one liable for a fire that scorches a field so that the owner must plow
-it again (Bava Kamma 6a; Yerushalmi Bava Kamma 6:5). The column suggests the
-flames coming out of the greater fire may be likened to a tongue coming out of a
-mouth to lick something, and then says plainly that beyond that it is at a loss
-to explain the connection, pointing to Melachim I 18:38 and the Targum to
+it again (Bava Kamma 6a; Yerushalmi Bava Kamma 6:5). Rabbi Klein suggests that
+perhaps the flames coming out of the greater fire can be likened to a tongue
+coming out of a mouth to lick something, and then says plainly that beyond that
+he is at a loss to explain the connection, pointing to Melachim I 18:38 and the Targum to
 Malachi 3:19, where verbs for licking are again used of a fire singeing
 something. In *Esther Rabbah* 8:7 Mordechai says he would have licked
 (*lechichah*) the shoe on Haman's foot for the sake of Klal Yisrael had the
-honor of Heaven not been at stake, which fixes the word firmly in the register
-of degradation.
+honor of Heaven not been at stake.
 
 ### lekikah (לקיקה)
 Root ל-ק-ק (Ibn Chayyuj, Ibn Janach, Radak, Ibn Parchon) or the biliteral ל-ק
@@ -62,7 +60,7 @@ who knelt down to drink were taken as too steeped in avodah zarah and discharged
 (*lakeku*) Navos's blood they will lick (*yaloku*) Achav's (Melachim I 21:19,
 fulfilled 22:38). Rabbi Pappenheim gives the biliteral core
 as "detaching something small from something larger," since a lick takes only a
-little at a time; on that core he groups *yelek*, the grasshopper that feeds by
+little at a time; on that core he groups *yelek*, the grasshopper that typically feeds by
 *lekikah* (Nachum 3:16; Yoel 1:4, 2:25), for which Ibn Ezra (to Yoel 1:4) cites
 a similar explanation in the name of the Karaite exegete Yefet ben Ali;
 *melikah*, the Kohen detaching a bird's head from its body with his finger, the
@@ -77,20 +75,18 @@ Ki Seitzei 9; *Pesikta D'Rav Kahana*, Zachor 8), and *Balak* as *ba* plus
 
 ### Are they one word or two?
 Ibn Saruk and Radak define ל-ק-ק with cognates of ל-ח-ך, which treats the pair
-as synonyms; *kuf*, *kaf*, and *ches* interchange freely. Rabbi Shlomo of Urbino
+as synonyms; *kuf*, *kaf*, and *ches* are often considered interchangeable. Rabbi Shlomo of Urbino
 (*Ohel Moed*) lists them outright as synonyms, and Rabbi Asher Weiser (*Mikra
-V'Lashon*) reads *lechichah* as a cognate of *lekikah*, the column adding that
-he probably assumes the ches turns into the first kuf and the kaf into the
-second.
+V'Lashon*) reads *lechichah* as a cognate of *lekikah*, probably, Rabbi Klein
+adds, assuming the ches turns into the first kuf and the kaf into the second.
 
-Against that, and along lines the column ties to Gesenius, Rabbi Moshe
+Against that, and along lines similar to Gesenius, Rabbi Moshe
 Tedeschi-Ashkenazi (*Otzar Nirdafim* 175) grants they mean the same act but
 separates them by sound: ל-ק imitates the slurp of taking up liquid, hence
 Gideon's soldiers at the water, while ל-ח-ך makes a harder sound implying the
 licking of something less liquid, hence the ox in the field, and he too anchors
-that root in *cheich*. Ibn Parchon's quick-eating versus vessel-less drinking
-the column reads as perhaps alluding to the same distinction. The majority
-position is simple synonymy.
+that root in *cheich*. Rabbi Klein reads Ibn Parchon's quick-eating versus
+vessel-less drinking as perhaps alluding to the same distinction.
 
 ### the onomatopoeia excursus
 Gesenius held that Semitic and Indo-European (his "Indo-Germanic") share many
@@ -100,23 +96,22 @@ same natural sound. For the latter he adduces (*Gesenius' Hebrew Grammar*,
 Introduction §1:4) *lakak* and *lachach* in Hebrew, *leicho* in Greek, *lingo*
 in Latin, *lecher* in French, *lecken* in German and *lick* in English: all mean
 licking, and on his view they are not etymologically cognate but each an
-imitation of the sound of a lick. The column lengthens the list with *lek*
+imitation of the sound of a lick. Rabbi Klein lengthens the list with *lek*
 (Afrikaans), *likken* (Dutch), *slikke* (Danish and Norwegian), *sleikja*
 (Icelandic), *ligh* (Irish), *leccata* (Italian), *linge* (Romanian), *yaleaq*
-(Arabic), and *leki* (Esperanto), and then dissents in its own voice: the
-onomatopoeia account is not enough, it says, since different cultures hear and
+(Arabic), and *leki* (Esperanto), and then dissents in his own voice: the
+onomatopoeia account is not enough, he says, since different cultures hear and
 record the same natural sound differently, and the resemblance across so many
-languages rather suggests to it that Indo-European languages may have borrowed
-from or evolved out of Semitic ones, as it notes some linguists posit, instead
+languages rather suggests to him that Indo-European languages might have
+borrowed from or evolved out of Semitic ones, as some linguists posit, instead
 of developing alongside them independently.
 
-Separately, the column raises the root ל-ק-ה, hitting or smiting, the root of
-*malkus*, lashes. It says this may not be connected to *lekikah* at all, but
-that one could argue the whip is like a tongue lashing the sinner's body as a
-tongue licks. It notes the parallel that English "lick" means both to smite or
-defeat an enemy (an idiom it traces to Bamidbar 22:4) and to pass the tongue
-over something, and that linguists would probably call that resemblance to
-ל-ק-ה and ל-ק-ק pure chance.
+The root ל-ק-ה, hitting or smiting, is the root of *malkus*, lashes. It may
+not be connected to *lekikah* at all, but, Rabbi Klein suggests, one could argue
+that the whip is like a tongue lashing the sinner's body as a tongue licks. In a
+parallel, English "lick" means both to smite or defeat an enemy (an idiom based
+on Bamidbar 22:4) and to pass the tongue over something, and linguists would
+probably call that resemblance to ל-ק-ה and ל-ק-ק pure chance.
 
 ## Rendering guidance
 

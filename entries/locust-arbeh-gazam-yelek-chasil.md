@@ -20,24 +20,24 @@ updated: 2026-09-10
 
 ## Bottom line
 
-It seems these are species names and not merely synonyms, though the column says
-plainly that we do not know for sure what each one is. *Arbeh* is both one
-species and the umbrella word, the **locust** swarm.
-*Gazam* is the cutter, *yelek* the licker, *chasil* the finisher, and in Yoel 1:4
+It seems to Rabbi Klein that these are species names and not merely synonyms,
+though he says plainly that it is not known for sure what each one is. *Arbeh*
+is both one species and the umbrella word, the **locust** swarm. *Gazam* is the
+cutter, *yelek* the licker, *chasil* the finisher, and in Yoel 1:4
 they arrive in a fixed order, *gazam*, *arbeh*, *yelek*, *chasil*, each eating
-what the one before left. *Chagav* is the general term for **kosher**
+what the one before left. *Chagav* is also the general term for **kosher**
 grasshoppers (Meiri, *Beis HaBechirah*, and Rabbi Shmuel ben Meshullam of Gerona,
 *Ohel Mo'ed*). In a plague context the sense is a devouring swarm.
 
 ## Distinctions
 
 ### the set as a whole
-It seems, the column says, that these words are not simply synonyms but names of
-different types of grasshopper. We do not know for sure what each one is; they
+It seems to Rabbi Klein that these words are not simply synonyms but names of
+different types of grasshopper. It is not known for sure what each one is; they
 are probably different forms of grasshoppers, crickets, katydids (bush crickets)
-and other orthoptera. Counting the words the column gathers, there are nine:
-*arbeh*, *gazam*, *yelek*, *chasil*, *tzfoni*, *sal'am*, *chargol*, *chagav* and
-*chanamal*, with *tzlatzel* added at the end as another possible one.
+and other orthoptera. Nine words refer to grasshoppers: *arbeh*, *gazam*,
+*yelek*, *chasil*, *tzfoni*, *sal'am*, *chargol*, *chagav* and *chanamal*, and
+*tzlatzel* is another possible one.
 
 ### arbeh (ארבה)
 The eighth *makkah* (Shemos 10:14, "before it there was never an *arbeh* like
@@ -56,7 +56,7 @@ a crawling thing (compare Devarim 32:24, where the word means a snake).
 Radak: from *melakek*, to lick, for its habit of licking and chewing at the
 grass. Third in Yoel's sequence. Nachum 3:15 describes the *yelek* as one that
 "spreads out and flies away," and on that Malbim builds a life cycle: born as a
-kind of worm, then a cocoon, then emerging winged. The columnist adds that after
+kind of worm, then a cocoon, then emerging winged. Rabbi Klein adds that after
 consulting Ohr Somayach's resident zoologist, Rabbi Richard Jacobs, he has been
 unable to confirm that such a grasshopper exists. Targum: *parcha*, a flying
 thing.
@@ -97,10 +97,10 @@ Tehillim 78:47, in the retelling of the *makkos*. Rashi: grasshoppers. Other
 *Midrash HaGadol* (to Shemos 10:14): seven of the nine kinds made up the *makkah*
 of *arbeh*, namely *arbeh*, *sal'am*, *chargol*, *chagav*, *gazam*, *yelek* and
 *chasil*. Rabbi Menachem Tzioni, a fourteenth-century German mekubal, adds
-*chanamal* for eight, each of the eight
-containing a hundred sub-species, eight hundred in all, matching the Gemara's
-eight hundred kinds of *chagav*. *Midrash Sechel Tov* has the same tradition
-with *tzlatzel* in place of *chanamal*.
+*chanamal* for eight, each of the eight containing a hundred sub-species, eight
+hundred in all; *Midrash Sechel Tov* has the same tradition with *tzlatzel* in
+place of *chanamal*. The number mirrors the Gemara's eight hundred kinds of
+*chagav*.
 
 ## Rendering guidance
 

@@ -33,18 +33,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Eretz* is **land** and *adamah* is **ground**, and the column grounds the
-difference in the two roots: *eretz* from REISH-TZADI, running, and *adamah* from
+*Eretz* is **land** and *adamah* is **ground**, and the difference lies in the
+two roots: *eretz* from REISH-TZADI, running, and *adamah* from
 DALET-MEM, likeness and so inertness. *Eretz* is therefore the active land, and
 often Eretz Yisrael in particular; *adamah* the passive ground, and often the
 lands outside it. *Ratzon* belongs to the same root as *eretz*: it is a person's
 **will** at its deepest, as against *chefetz*, the immediate goal in front of
 him.
 
-The column takes the pair from Avos d'Rabbi Nasan (version 1, ch. 37), which
-teaches that as there are seven heavens so there are seven words for the earth:
-*eretz*, *adamah*, *arka*, *charavah*, *yabashah*, *taivel* and *cheled*. This
-piece is the first of the series and treats *eretz* and *adamah*.
+Avos d'Rabbi Nasan (version 1, ch. 37) teaches that as there are seven heavens
+so there are seven words for the earth: *eretz*, *adamah*, *arka*, *charavah*,
+*yabashah*, *taivel* and *cheled*. Of these, this entry treats *eretz* and
+*adamah*.
 
 ## At a glance
 
@@ -74,26 +74,26 @@ root.
    Bereishis 1:1): everyone is running to the *eretz*, since all are buried in
    it in the end.
 5. Man running on it. *Midrash Mishlei* ch. 8: the land is called *eretz*
-   because people run about on it, the board on which a man plays out what he
-   really wants.
+   because people run about on it; Rabbi Klein takes this to mean that the land
+   is the board on which a man plays out what he really wants.
 
-**Whether *eretz* and *adamah* split by place or by depth.** That in many places
-in the Torah an unqualified *eretz* is the Holy Land and *adamah* the Diaspora
-the column states as given; Rabbi Yaakov Tzvi Mecklenburg is brought to shed
-light on why the roots should fall that way. Building on Rabbi Shlomo
+**Whether *eretz* and *adamah* split by place or by depth.** In many places in
+the Torah an unqualified *eretz* is the Holy Land and *adamah* the Diaspora;
+Rabbi Yaakov Tzvi Mecklenburg sheds light on why the roots should fall that
+way. Building on Rabbi Shlomo
 Pappenheim, he reads *adamah* as the passive word, and applies it to lands
 outside the Holy Land, where one stays sedentary and inactive as regards the
 agricultural mitzvos, which bind only there; *eretz* he derives from REISH-TZADI
 in the sense of fluency or persistency, an allusion to the earth's persistent
 orbit around the sun and its rotation on its axis, and so the word for the Land
 where one must be constantly active and vigilant to keep those mitzvos, the
-opposite of the passivity *adamah* implies. Alongside this the column sets the
-depth reading of its own earlier piece on these two words: *adamah* is
+opposite of the passivity *adamah* implies. Alongside this stands Rabbi Klein's
+own depth reading, from an earlier piece of his on these two words: *adamah* is
 restricted to the topmost strata of the crust while *eretz* can reach deeper.
 The two are given one after the other, not set against each other. Rav Tzvi
-Yehuda Kook is cited for *ratzon* against *chefetz*, and the column then draws
-the parallel itself: *eretz* likewise takes in what lies beneath the surface,
-while *adamah*, from DALET-MEM, likeness, it associates with superficiality, the
+Yehuda Kook distinguishes *ratzon* from *chefetz*, and Rabbi Klein then draws
+the parallel himself: *eretz* likewise takes in what lies beneath the surface,
+while *adamah*, from DALET-MEM, likeness, he associates with superficiality, the
 neighbour of *dimyon*, imagination or delusion, which may resemble reality
 without being it.
 
@@ -104,7 +104,7 @@ Where a triliteral root opens with an ALEPH, the ALEPH is often outside the true
 biliteral root, and that is the move every account here makes: *eretz* rests on
 REISH-TZADI, the root of *ratz*, *ratzah*, and *ratzon*. Rabbi Shaul Mortera of
 Amsterdam extends the family to *shoretz*, spreading out, and so to *sheretz*,
-insect; the column adds that this is possibly by the *shiphel* inflection, or
+insect; Rabbi Klein adds that this is possibly by the *shiphel* inflection, or
 possibly on the approach that any letter may join a two-letter root.
 
 ### adamah (אדמה)
@@ -120,8 +120,8 @@ stays passive.
 Rav Tzvi Yehuda Kook: *ratzon* is a person's final goal, his real will
 underneath; *chefetz* is the immediate, tangible one, which is why Mishnaic
 Hebrew calls physical objects *chafetzim* (see Rashi to Koheles 3:1). The pair
-belongs in this entry because *ratzon* shares the root of *eretz*, and the same
-contrast of depth against surface runs through both pairs.
+belongs in this entry because *ratzon* shares the root of *eretz*, and Rabbi Klein
+sees the same contrast of depth against surface running through both pairs.
 
 ## Rendering guidance
 

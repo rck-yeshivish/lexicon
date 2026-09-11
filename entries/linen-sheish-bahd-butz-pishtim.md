@@ -49,9 +49,9 @@ Bereishis 41:42). Pappenheim reads *sheish* as combed linen strands not yet spun
 into thread, and ties the word to *shayish*, marble or limestone, for its
 smoothness.
 
-Two readings make *sheish* not a fabric word at all, which is why Yoma 71b has to
-prove that it means linen. The Steipler Gaon (in a letter to Rabbi Moshe Mordechai
-Schulsinger, *Mishmar HaLevi*): *sheish* names a **color**, whitish, exactly as
+Two readings explain why Yoma 71b has to prove that *sheish* means linen. The
+Steipler Gaon (in a letter to Rabbi Moshe Mordechai Schulsinger, *Mishmar
+HaLevi*): *sheish* names a **color**, whitish, exactly as
 *techeiles*, *argaman* and *shni tolaas* in the Mishkan passages name colors and
 not materials; tradition supplies that those three are wool, and the Gemara has to
 establish that *sheish* is linen. Rabbi Dov Landau, to the same question: *sheish*
@@ -67,12 +67,11 @@ establishes that *bahd* is linen; on the Steipler's account this is needed
 precisely because the word by itself only says "alone."
 
 ### butz (בוץ) and kitna (כיתנא)
-*Butz* is the later Hebrew and Aramaic word for fine linen; the column notes that
-the Latin *byssus*, a thin silk-like linen, is said to be derived directly from
-it. *Kitna* is the Talmud's Aramaic for linen (see also Targum to Shemos 9:31),
-and Yoma 71b and Zevachim 18b define *sheish* and *bahd* by it. The column adds
-that *kitna* means linen in several other Semitic languages, Akkadian and Arabic
-among them, and is possibly even the basis of the Biblical *kesones*, "tunic":
+*Butz* is the later Hebrew and Aramaic word for fine linen; the Latin *byssus*,
+a thin silk-like linen, is said to be derived directly from it. *Kitna* is the
+Talmud's Aramaic for linen (see also Targum to Shemos 9:31), and Yoma 71b and
+Zevachim 18b define *sheish* and *bahd* by it. *Kitna* means linen in several
+other Semitic languages, Akkadian and Arabic among them, and is possibly even the basis of the Biblical *kesones*, "tunic":
 Professor Edward Yechezkel Kutscher explains that the Greeks borrowed the Aramaic
 *kitna* as *chiton*, a linen shirt, which by metathesis became the Latin
 "tunic." Rabbi Yaakov Zev Lev (*Me'at
@@ -85,8 +84,8 @@ Not a Biblical category. Cotton simply did not exist in the ancient Near East, s
 it makes sense that there would be no Biblical word for it. Some linguists argue
 that *karpas* (Esther 1:3) is a loanword from Persian, where it meant a cotton
 garment; the Greek *carbasus* and the Latin *karpasos* likewise refer to a cotton
-garment. Rabbinic Hebrew's common term is *tzemer gefen*, "vine wool," which the
-column notes is close in shape to the German *baumwolle*, "tree-wool"; Rambam, in
+garment. Rabbinic Hebrew's common term is *tzemer gefen*, "vine wool," which happens
+to be quite similar to the German *baumwolle*, "tree-wool"; Rambam, in
 his commentary to Mishnah Kilayim 7:2, correctly renders *tzemer gefen* into
 Arabic as *al-qoton*.
 
@@ -96,16 +95,14 @@ Italian *cotone*, Spanish *algodon* and French *coton*, all of them from the
 Arabic *qoton*, and for the Arabic word itself he accepts the etymology proposed
 by the linguist Sir Godfrey Rolles Driver: the Semitic root kuf-tes-nun, "small,"
 as in the Hebrew *katan*. Kutscher explains that cotton was called "small"
-because its fibers run finer and thinner than the hairs of wool, which are much
+because its fibers tend to run finer and thinner than the hairs of wool, which are much
 thicker (compare the thin threads called *ketini* at Shabbos 105a). So on his
 argument *kotna* goes back to *katan*, and its phonetic likeness to *kesones* /
 *kitna* is merely coincidental: *kotna* really should be spelled with kuf and
 tes, the others with kaf and tav. Rashi indeed spells the French *coton* with kuf
-and tes (Berachos 28b, Shabbos 21a, Shabbos 110b, Niddah 17a). The column adds
-that linguists take the Aramaic *pekolin*, "cotton tufts," to be borrowed from
-the Greek *phakelos*, "bundle" or "fascicle." So the title's question is answered
-no, which the column caps with Betteridge's Law of Headlines: any headline that
-ends in a question mark can be answered with the word "no."
+and tes (Berachos 28b, Shabbos 21a, Shabbos 110b, Niddah 17a). Linguists
+take the Aramaic *pekolin*, "cotton tufts," to be borrowed from the Greek
+*phakelos*, "bundle" or "fascicle." Cotton, then, is not a type of linen.
 
 ## Rendering guidance
 

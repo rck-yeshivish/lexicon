@@ -17,10 +17,9 @@ updated: 2026-09-10
 
 *Tzchok* and *s'chok* are the same word: **laughter**, with sin and tzadi
 interchanging, and the lexicographers find no difference of meaning between
-them. Both run the full range from laughing and playing to mocking and deriding,
-and context, not the root, decides which is meant. The whole discussion of
-*Yitzchak* against *Yischak* is therefore not lexical but homiletical and
-kabbalistic.
+them. Both run the full range from laughing and playing to mocking and deriding.
+The whole discussion of *Yitzchak* against *Yischak* is therefore not lexical
+but homiletical and kabbalistic.
 
 ## Distinctions
 
@@ -44,17 +43,17 @@ thing. See also Malbim to Shoftim 16:25, where Shimshon is brought out to
 Rav Hirsch (to Bereishis 17:17) further ties
 *tzchok* and *s'chok* to *tzaakah* and *zaakah*, crying out, on the
 interchange of ches and ayin. All four, he says, are man's reaction to a gap
-between what he sees and what he expected: a child in an adult's wig makes us
-laugh, an old man in a diaper makes us weep, and both are the same reflex
+between what he sees and what he expected: a child in an adult's wig may make us
+laugh, an old man in a diaper may make us weep, and both are the same reflex
 reconciling sight with expectation. Pappenheim makes a similar point, but
 without comparing the etymologies of the words involved.
 
 ### the sense at Yitzchak's birth
-When Avraham laughs at the news (Bereishis 17:17) and Sarah after him
-(Bereishis 18:12), and when Sarah says *tzchok asah li Elokim, kol hashomea
-yitzchak li* (Bereishis 21:6), Onkelos and Rashi take the laughter as an outward
-expression of joy, not derision. Hence the name Yitzchak, "he will laugh"
-(Bereishis 17:19).
+Avraham laughs at the news (Bereishis 17:17) and Sarah after him
+(Bereishis 18:12). When Yitzchak is born Sarah says *tzchok asah li Elokim, kol
+hashomea yitzchak li* (Bereishis 21:6), and there Onkelos and Rashi take the
+laughter as an outward expression of joy, not derision. Hence the name
+Yitzchak, "he will laugh" (Bereishis 17:19).
 
 ### Yischak (ישחק): four places, and what is made of them
 The name *Yitzchak* appears 108 times in Tanach; four times he is called
@@ -97,11 +96,11 @@ changed to *Yitzchak*: when Yisrael cried out in Mitzrayim, Hashem asked the
 Avos which of them would give up the numerical value of his name to save them,
 and Yitzchak stepped forward and gave up the sin (300) for a tzadi (90), a
 difference of 210, which is why they were redeemed after an exile of 210 years
-(cited in numerous works, among them *Imrei Noam* to Shemos 6:2, which the
-column notes is called the *Rosh* to Shemos 6:1; *Siddur Rokeach*; *Be'er Mayim
+(cited in numerous works, among them *Imrei Noam* to Shemos 6:2, which is
+called the *Rosh* to Shemos 6:1; *Siddur Rokeach*; *Be'er Mayim
 Chaim* to Bereishis 15:13; *Leket Shmuel* to Bereishis 25:19). The Vilna Gaon
 (to *Sifra d'Tzniusa*, end of ch. 3) writes that each of the three Avos had a
-lower name and a higher name; the column applies this to Yitzchak, alongside
+lower name and a higher name; Rabbi Klein applies this to Yitzchak, alongside
 Avram and Avraham and Yaakov and Yisrael or Yeshurun, giving him two names, or
 at least two spellings of the one name, *Yitzchak* (lower) and *Yischak*
 (higher). *Sefer HaShem*, ascribed to the Rokeach, notes that Avraham, Yischak
