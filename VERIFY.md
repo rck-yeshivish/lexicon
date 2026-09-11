@@ -90,6 +90,13 @@ For one entry, with its source article open beside it:
   mussar sefer", "inside / within a chapter", "the sefer", "house form / style",
   "the Alter".
 
+- **Deleting a misprint note means fixing the locus under it.** A note such as
+  "the article prints Shemos 3:16" usually sits beside the wrong locus in the
+  body. Removing the note alone leaves a known-wrong reference with nothing to
+  warn the reader, which is worse than the note. So the body and the "Cited in
+  the essay" line must carry the correct locus, checked against the text
+  itself. Where no correct locus can be established, the impossible one comes
+  out.
 - **The Sources section is a citation and a list of loci. Nothing else.** It
   reads, in full:
 
