@@ -48,13 +48,13 @@ unchanging permanence, a state that never alters. Mecklenburg derives it from
 *tzach*, "pristine, pure," the final state of being the soul reaches for.
 
 ### selah (סלה)
-Root ס-ל-ה. Two readings, and they are not reconcilable on the surface.
-- (1) Eruvin 54a, followed by Rashi, Meiri and other classical *meforshim* to
+Root ס-ל-ה.
+- Eruvin 54a, followed by Rashi, Meiri and other classical *meforshim* to
   Tehillim 3:3: *selah* means forever, denoting what continues without end. The
   earliest translations of Tanach render it so consistently: Targum Yonasan in
   Aramaic, Aquilas in Greek, and the Peshitta in Syriac. Wertheimer sharpens it
   to the **continual**, the ever-repeating, as against *netzach*'s continuous.
-- (2) Radak (to Tehillim 3:3 and in *Sefer HaShorashim*) and Malbim (Tehillim
+- Radak (to Tehillim 3:3 and in *Sefer HaShorashim*) and Malbim (Tehillim
   3:3, Chavakuk 3:3): *selah* is an interjection closing an idea, and for Radak
   a musical direction to lift the voice at the close; Malbim adds that it can
   mark off a parenthetical remark from the main line. Rabbi Chaim Friedlander:

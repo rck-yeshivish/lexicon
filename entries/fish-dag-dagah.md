@@ -97,7 +97,7 @@ to the root.
 As an aside, Menachem does agree that the name of the Philistine god Dagon
 derives from the same root as *dag*, the idol that represented that deity having
 been fish-shaped; Rabbi Klein treats the deity at length in the encyclopedic
-section of his *God versus Gods: Judaism in the Idolatry* (Mosaica
+section of his *God versus Gods: Judaism in the Age of Idolatry* (Mosaica
 Press, 2018).
 
 ### the Aramaic small fish
