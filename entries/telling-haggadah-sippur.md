@@ -139,8 +139,8 @@ offers a similar explanation: a hallmark of *sippur* is explaining something
 clearly, and the word is related to *sapir*, the blue gem. Hashem's
 administration of the world is like the clear blue sky, sometimes clouded when
 the wicked obscure His role; spelling it out clearly clears the clouds away.
-According to this, presenting the whole story of the Exodus shows how Hashem
-oversees all of creation.
+According to this, the term *sippur* fits the telling of the Exodus, because
+presenting the whole story shows how Hashem oversees all of creation.
 
 **Two mitzvos.** After a lengthy discussion Rabbi Nosson Gestetner concludes that
 there are two separate mitzvos at the Seder: *sippur yetzias Mitzrayim*,

@@ -129,8 +129,8 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   astrology the planet Saturn is called Zachal. Rabbi Shaul Goldman informed
   Rabbi Klein that some have argued the name comes from Zuhal, a pre-Islamic
   Meccan goddess of agriculture. Others note that the Arabic cognate of ז-ח-ל
-  yields a verb meaning moving away, withdrawing, retiring, apt for Saturn, the
-  farthest planet from the earth in medieval astronomy (Uranus, Neptune and Pluto
+  yields a verb meaning moving away, withdrawing, retiring. That makes the name
+  apt for Saturn, the farthest planet from the earth in medieval astronomy (Uranus, Neptune and Pluto
   being discovered later). Dr. Tzvi Langermann added in private correspondence
   that the parallel Arabic root can also mean lagging behind or becoming
   fatigued (not unlike Rabbi Yosef Kara's "I have delayed"). This is likewise
