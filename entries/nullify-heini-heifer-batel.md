@@ -40,7 +40,7 @@ representing only a potential for something to happen, their cancellation is
 The word's basic sense was already disputed among the early grammarians.
 Menachem Ibn Saruk: to break. Dunash Ibn Labrat, following Rav Saadia Gaon: to
 deny or withhold. Rashi (to Bamidbar 30:6) follows Dunash; Ibn Ezra (to Shemos
-12:9, Bamidbar 14:3, Bamidbar 30:6, Tehillim 141:5) follows Menachem, though he
+12:9, Bamidbar 14:34, Bamidbar 30:6, Tehillim 141:5) follows Menachem, though he
 also seems to treat *heini* as equivalent to *heifer*. Rabbi Yaakov Tzvi
 Mecklenburg weighs the two at length, framing the question as whether *heini*
 is the removal of the will (Menachem) or the withholding of the will's
@@ -61,7 +61,7 @@ but Tehillim 141:5 has *yani* without one.
 Rabbi Wertheimer: *heifer* cancels something that has already come into being,
 and the word is kin to *pur*, a crumb, since *hafarah* breaks a standing thing
 into pieces and grinds it out of existence. So one who abrogates a mitzvah
-(Bamidbar 15:31) or a covenant (Yeshayahu 44:25) is like a man tearing up a
+(Bamidbar 15:31) or a covenant (Yeshayahu 24:5) is like a man tearing up a
 binding contract.
 
 On the two words in the parashah of nedarim, Rabbi Wertheimer explains that the
@@ -91,7 +91,7 @@ suggestion, a conceptual tie to *tal*, dew, which comes at dawn and is gone.
 - Tehillim 33:10 has both verbs, and the pairing is worth keeping visible: the
   *heini* clause is "He frustrates the designs of the peoples," where there is
   no standing instrument to annul. Do not attach "annuls" to that clause.
-- *Heifer bris* (Yeshayahu 44:25 and its like): "broke the covenant," which
+- *Heifer bris* (Yeshayahu 24:5 and its like): "broke the covenant," which
   keeps the *pur* image; "violated" loses it.
 - *Batel* and *bitul* stay transliterated in halachic contexts (*bitul
   chametz*, *bitul b'rov*, *bitul Torah*) with a gloss at first use. In plain
@@ -110,4 +110,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Null and Void](https://articles.ohr.edu/articles/null-and-void)," *What's in a Word?*, Ohr Somayach, 14 July 2018.
 
-Cited in the essay: Bamidbar 30 (the parashah of *hafaras nedarim*, with Rashi and Ibn Ezra to 30:6), 14:3, 15:31; Shemos 12:9 with Ibn Ezra and *Midrash Sechel Tov*; Bereishis 12:10-13 with Rav Hirsch; Yeshayahu 44:25; Tehillim 33:10, 141:5; Koheles 12:3; Ezra chs. 4-6; *Machberes Menachem*; Dunash Ibn Labrat's *Teshuvos*; Rav Saadia Gaon; Rabbi Yaakov Tzvi Mecklenburg (*HaKtav VeHaKabbalah*); Rabbi Shlomo Aharon Wertheimer; Malbim; Rabbi Dr. Yosaif M. Dubovick, *Entangled Religions* vol. 6 (2018).
+Cited in the essay: Bamidbar 30 (the parashah of *hafaras nedarim*, with Rashi and Ibn Ezra to 30:6), 14:34, 15:31; Shemos 12:9 with Ibn Ezra and *Midrash Sechel Tov*; Bereishis 12:10-13 with Rav Hirsch; Yeshayahu 24:5; Tehillim 33:10, 141:5; Koheles 12:3; Ezra chs. 4-6; Menachem Ibn Saruk; Dunash Ibn Labrat; Rav Saadia Gaon; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Malbim; Rabbi Dr. Yosaif M. Dubovick, *Entangled Religions* vol. 6 (2018).

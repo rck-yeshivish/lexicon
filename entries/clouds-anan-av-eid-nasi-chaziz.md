@@ -17,14 +17,14 @@ updated: 2026-09-10
 
 *Anan* is the plain, general **cloud** (close to a hundred times in Tanach).
 *Av* is the **thick cloud** that darkens the sky. *Eid* is the **rising vapor**
-or mist that clouds are formed from. *Nasi* is the **rain cloud** that carries
-and lifts water (Pappenheim). *Chaziz* is the **thundercloud** that comes with
+or mist that clouds are formed from. *Nasi* is the **rain cloud**, for Pappenheim either the one that carries
+water or the one light enough to be lifted. *Chaziz* is the **thundercloud** that comes with
 lightning (Pappenheim). Chazal count these five as the words for cloud.
 
 ## Distinctions
 
 The Yerushalmi (Taanis 3:3), *Midrash Tehillim* 135 and *Bereishis Rabbah*
-12:12 assert that Hebrew has five words for clouds: *avim*, *eidim*, *ananim*,
+13:12 assert that Hebrew has five words for clouds: *avim*, *eidim*, *ananim*,
 *nesiim* and *chazizim*. Several of the five they explain by what rain does to a
 market.
 
@@ -46,7 +46,7 @@ Shemos 19:9, Shoftim 5:4, Shmuel II 22:12.
 - Chazal: from *me'avev*, because a heavy cloud darkens the sky or the land by
   blocking the sun.
 - Pappenheim: the root ע-ב is "especially thick" (see Rashi to Taanis 6b), a
-  cloud dense with water; the English "thick clouds" runs parallel.
+  cloud dense with water. (Rabbi Klein compares the English "thick clouds.")
 - *Sefer HaChochmah*: thick and full of water.
 
 For how *arafel* stands to *avim*, see Rashi to Shemos 19:9 and 20:18.
@@ -58,8 +58,8 @@ Bereishis 2:6.
   price-gouger, since rain means produce, produce means supply, and supply
   brings prices down.
 - Pappenheim: the root is the single letter dalet, extraction and separation, so
-  *eid* is water drawn up out of a larger body. This fits Rabbeinu Bachya, who
-  takes *eid* as water vapor, and it is what the word plainly means in Rabbinic
+  *eid* is clouds formed from water that has evaporated, drawn out of a larger
+  body of water. This complements Rabbeinu Bachya, who takes *eid* as water vapor, and it is what the word plainly means in Rabbinic
   and Modern Hebrew.
 - Ibn Ezra: a smoky cloud.
 - *Sefer HaChochmah*: the cloud that comes with thunder.
@@ -112,7 +112,7 @@ clouds emptying out water the way a nursing mother's breasts empty out milk.
 - In ordinary prose: *anan* "cloud," *av* "thick cloud" (plural "thick clouds"),
   *eid* "mist" or "vapor," *nasi* "rain cloud," *chaziz* "thundercloud."
 - Bereishis 2:6, *v'eid yaaleh min ha'aretz*: "a mist would rise from the earth"
-  follows Rabbeinu Bachya and Pappenheim and is the safe rendering. "Cloud" here
+  follows Rabbeinu Bachya and is the safe rendering. "Cloud" here
   would be defensible only when quoting the Yerushalmi's list.
 - Trap: English "cloud" absorbs *anan*, *av*, *nasi* and *chaziz* without
   complaint. When two of them appear in one pasuk or one derashah, force the
@@ -130,4 +130,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[On Clouds](https://articles.ohr.edu/articles/on-clouds)," *What's in a Word?*, Ohr Somayach, 15 June 2019.
 
-Cited in the essay: Yerushalmi Taanis 3:3; *Midrash Tehillim* 135; *Bereishis Rabbah* 12:12; Bereishis 2:6, 49:25 with *Peirush HaRokeach*; Shemos 19:9, 20:18 with Rashi; Devarim 32:35 (Targum); Shoftim 5:4; Shmuel II 22:12; Tehillim 135:7; Mishlei 25:14; Iyov 28:26, 36:32, 38:37; Eichah 3:41; Zechariah 10:1; Avodah Zarah 1:1; Rashi to Taanis 6b; Pappenheim on the roots ע, ע-ב, ד, ש-א and ח-ז; *Sefer HaChochmah*; Rabbeinu Bachya; Ibn Ezra; *Midrash Lekach Tov* (*Pesikta Zutrasa*); Rabbi Shlomo of Urbino, *Ohel Moed*; Menachem Ibn Saruk, *Machberes*; Ibn Janach, *Sefer HaShorashim*; Rabbi Yehudah Ibn Balaam, *Sefer HaTzimud*; *Midrash Chuppas Eliyahu Rabbah*; *Metzudas Tzion*; Rabbi Yaakov Chaim Sofer; the Zohar.
+Cited in the essay: Yerushalmi Taanis 3:3; *Midrash Tehillim* 135; *Bereishis Rabbah* 13:12; Bereishis 2:6, 49:25 with *Peirush HaRokeach*; Shemos 19:9, 20:18 with Rashi; Devarim 32:35 (Targum); Shoftim 5:4; Shmuel II 22:12; Tehillim 135:7; Mishlei 25:14; Iyov 28:26, 36:32, 38:37; Eichah 3:41; Zechariah 10:1; Avodah Zarah 1:1; Rashi to Taanis 6b; Pappenheim on the roots ע, ע-ב, ד, ש-א and ח-ז; *Sefer HaChochmah*; Rabbeinu Bachya; Ibn Ezra; *Midrash Lekach Tov* (*Pesikta Zutrasa*); Rabbi Shlomo of Urbino, *Ohel Moed*; Menachem Ibn Saruk, *Machberes*; Ibn Janach, *Sefer HaShorashim*; Rabbi Yehudah Ibn Balaam, *Sefer HaTzimud*; *Midrash Chuppas Eliyahu Rabbah*; *Metzudas Tzion*; Rabbi Yaakov Chaim Sofer; the Zohar.
