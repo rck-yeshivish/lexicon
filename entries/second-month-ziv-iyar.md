@@ -38,7 +38,7 @@ so the second month is "the second month." Where Tanach does name it, it is
 **Ziv** (Melachim I 6:1, 6:37), a word meaning **radiance**, and specifically
 radiance as something given off rather than the source itself (Rabbi Moshe
 Shapiro). **Iyar** is the name in use since Bavel and appears nowhere in Tanach.
-The practical point a translator or scribe must not miss: how to spell Iyar, with
+How to spell Iyar, with
 one yud or two, is an unsettled halachic question in a *get*, and the poskim
 conclude for two.
 
@@ -68,7 +68,7 @@ Rabbi Yehoshua in Nissan.
    the second month comes around, the fathers born in the month before are
    already born, and the second month carries their light.
 
-Both are in the Gemara and neither is rejected. The article's own reading joins
+Both are in the Gemara and neither is rejected. The column's own reading joins
 them through Rabbi Moshe Shapiro's sense of *ziv*: Nissan is the month of
 *nissim*, the light itself; Iyar is what continues to shine from it, which is why
 one who missed the korban Pesach in Nissan can bring Pesach Sheini in the second
@@ -113,7 +113,7 @@ from the allusion he found in *Yalkut Chadash* in the name of *Megaleh Amukos*
 Merkavah of Hashem; *Beis Shmuel* (*Even HaEzer* 126:20) cites the same. Rema
 records that on account of this doubt many batei din have the practice of not
 writing *gittin* during Iyar at all (see *Aruch HaShulchan*, *Even HaEzer*
-126:15). The Bottom line follows the poskim: two yuds.
+126:15).
 
 **What Iyar means.** *Sefer HaKushyos*, the work of an anonymous talmid of Rabbi
 Meir of Rothenburg published by Rabbi Y. Y. Stahl,
@@ -191,28 +191,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Shiny Month](https://articles.ohr.edu/articles/the-shiny-month)," What's in a Word?, Ohr Somayach,
-17 Iyar 5784 (2024-05-25), dedicated to the memory of the author's grandfather
-Dovid (Dezider) Messinger, who died on the twentieth of Iyar 2009, the day of
-Bamidbar 10:11 with which the essay opens: raw
-text in `sources/whats-in-a-word/raw/11411-the-shiny-month.md`. Primary loci the
-article cites: Shemos 15:26, 34:29; Vayikra 9:22; Bamidbar 6:25, 9:11, 10:11,
-10:35; Devarim 16:1, 32:1-43; Melachim I 6:1, 6:37, 8:2; Yeshayahu 6:3; Tehillim
-6:11; Daniel 2:31, 4:33, 5:6, 5:9-10, 7:28; *Rosh HaShanah* 10b-11a, 18a, 31a;
-*Shabbos* 88a, 147b; *Yevamos* 62b; Yerushalmi *Rosh HaShanah* 1:2; *Mishnah Rosh
-HaShanah* 1:3; *Bereishis Rabbah* 48:9; *Seder Olam Rabbah* ch. 5; *Shulchan
-Aruch* and Rema, *Even HaEzer* 126:7 and 126:23, with *Beis Shmuel* 126:20 and
-*Aruch HaShulchan* 126:15; the Kaufmann and Parma manuscripts of the Mishnah;
-*Yalkut Chadash*, s.v. *avos v'imahos*, in the name of *Megaleh Amukos* 121;
-*Seder HaGet* 17 and 19; Maharil, responsa 189; *Terumas HaDeshen* 233.
+Rabbi Reuven Chaim Klein, "[The Shiny Month](https://articles.ohr.edu/articles/the-shiny-month)," *What's in a Word?*, Ohr Somayach, 25 May 2024.
 
-The article refers back to a Zohar on this month as
-the source of radiance in the world, but the published text never quotes it, so
-nothing is attributed to the Zohar here.
-
-The Phoenician and Canaanite month-name theory, the Akkadian *ayyaru*, the Greek
-*aer* behind *avir*, and the Base HaSefer check on the acronym in Tehillim 6:11
-were formerly omitted here under an Orthodox-sources rule that does not belong
-to this guide. All are restored, attributed as the column attributes them; the
-last of them is the only support the article gives for the claim that Tehillim
-6:11 is unique in Tanach.
+Cited in the essay: Shemos 15:26 with the Chasam Sofer to Shabbos 147b, and 34:29 with Onkelos; Vayikra 9:22 with Rabbi Eliezer Hagar of Vizhnitz, *Damesek Eliezer*; Bamidbar 6:25, 9:11 with Targum Yonasan, 10:11, 10:35; Devarim 16:1 with Ibn Ezra, 32:1-43; Melachim I 6:1, 6:37, and 8:2 with Rabbi Yosef Kara; Yeshayahu 6:3 with Targum Yonasan; Tehillim 6:11 with Rabbi Shimshon of Ostropoli; Daniel 2:31, 4:33, 5:6, 5:9-10, 7:28; *Rosh HaShanah* 10b-11a with Rashi, 18a with *Ein Yaakov*, and 31a with Maharsha; *Shabbos* 88a, 147b; *Yevamos* 62b with Maharal, *Chiddushei Aggados*; Yerushalmi *Rosh HaShanah* 1:2; Mishnah *Rosh HaShanah* 1:3, with the Kaufmann and Parma manuscripts; *Bereishis Rabbah* 48:9 with pseudo-Rashi; *Seder Olam Rabbah* ch. 5; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Moshe Shapiro; *Shulchan Aruch*, *Even HaEzer* 126:23, and Rema, *Even HaEzer* 126:7, with *Beis Shmuel* 126:20 and *Aruch HaShulchan* 126:15; *Nachalas Shivah*; *Yalkut Chadash*, s.v. *avos v'imahos*, in the name of *Megaleh Amukos* 121; Rabbi Yaakov Margolis, *Seder HaGet* 17 and 19; Maharil, responsa 189; *Terumas HaDeshen* 233; *Sefer HaKushyos*, published by Rabbi Y. Y. Stahl; Rabbi Mordechai Nachman Aronovsky, with Rabbi Dovid Jungreis; the Base HaSefer database of Moshe Escott.

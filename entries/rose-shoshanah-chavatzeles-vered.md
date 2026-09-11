@@ -32,14 +32,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-None of the three can be pinned to a modern species with confidence, and a
-translator should know that before choosing a word. *Shoshanah* is the Biblical
-flower, best rendered **rose** in a Torah context (Rabbi Eliyahu HaBachur: it
+None of the three can be pinned to a modern species with confidence. *Shoshanah* is the Biblical
+flower, for Rabbi Eliyahu HaBachur a **rose** (it
 grows among thorns, and lilies do not), though Modern Hebrew has reassigned it
 to the **lily**. *Chavatzeles* is either the same flower at a different stage or
 in a different place, or a **daffodil**; *Shulchan Aruch* rules it a *narkis*.
 *Vered* is post-Biblical **rose**, and the Targumim use it to render *shoshanah*.
-The trap: one English "rose" flattens all three, and Shir HaShirim 2:1 sets
+Shir HaShirim 2:1 sets
 *chavatzeles* and *shoshanah* side by side in a single pasuk.
 
 ## At a glance
@@ -65,7 +64,7 @@ page it has five "strong" petals, which is why the five fingers should encircle
 the kos shel berachah. Elsewhere (*Vayechi* 221a, *Emor* 105a) the Zohar says
 six. Rabbi Eliyahu HaBachur (*Sefer Tishbi*) records the white-six-petal-lily
 reading and rejects it: Shir HaShirim has the *shoshanah* growing among thorns
-(2:2), and lilies do not. The Bottom line follows him.
+(2:2), and lilies do not.
 
 **Whether chavatzeles and shoshanah are one flower.** Four positions.
 
@@ -194,30 +193,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Emor: Rose by Another Name](https://articles.ohr.edu/articles/emor-rose-by-another-name)," What's in a Word?, Ohr
-Somayach, 10 Iyar 5784 (2024-05-18): raw text in
-`sources/whats-in-a-word/raw/11391-emor-rose-by-another-name.md`. Primary loci:
-Shir HaShirim 2:1, 2:2, 4:3, 5:13, 6:2; Yeshayahu 35:1; Tehillim 45:1, 69:1,
-80:1; Mishnah Kilayim 5:8, Taharos 3:7, Sheviis 7:6-7, Maasros 2:5, Shabbos
-14:4, Chullin 2:1; Berachos 43b; Nedarim 9b; *Shir HaShirim Rabbah* 2:1 and 2:3;
-*Vayikra Rabbah* 19:6 and 23:3; Zohar *Hakdamah* 1a, *Vayechi* 221a, *Emor*
-105a, *Ki Sisa* 189b; *Beiur HaGra* to Shir HaShirim 2:1; *Sefer HaShorashim* of
-Ibn Janach and of Radak; *Machberes Menachem*; *Sefer Tishbi* with *Ezer Ohr*;
-*Kaftor VaFerach* ch. 56; Rambam, *Hilchos Berachos* 9:6 and his commentary to
-Mishnah Sheviis 7:6, with *Kesef Mishneh* and *Maaseh Rokeach*; *Shulchan Aruch,
-Orach Chaim* 216:9; Rabbeinu Yonah, Berachos 31b in the Rif; *Ohel Moed*;
-*Beiurei Shemos HaNirdafim*; *Aholei Yehudah*; *Ho'il Moshe*; *Masok MiDvash*.
+Rabbi Reuven Chaim Klein, "[Emor: Rose by Another Name](https://articles.ohr.edu/articles/emor-rose-by-another-name)," *What's in a Word?*, Ohr Somayach, 18 May 2024.
 
-The essay is dedicated to the memory of the author's grandmother Rose (Roszi)
-Klein, born in Bonyhad in 1928, who survived the Holocaust, settled in Brooklyn,
-and was known as Shoshanah after her English name. The Peshitta, Septuagint and
-Vulgate renderings, the Greek myth behind *narcissus*, Rabbi Ernest Klein's
-Akkadian *habasillatu* and Old Iranian *wrda*, and the pointer to Prof. Zohar
-Amar's *Tzimchei HaMikra* for further botanical identifications were formerly
-omitted here under an Orthodox-sources rule that does not belong to this guide;
-all are restored, attributed as the column attributes them.
-
-One wording is reproduced from the article as printed rather than resolved: on
-the final tav of *chavatzeles*, the article says Ibn Janach and Radak understand
-it as "radical to the core root" while Menachem Ibn Saruk "sees it as integral,"
-a contrast it does not spell out.
+Cited in the essay: Shir HaShirim 2:1 with Rashi, Ibn Ezra, Targum and *Beiur HaGra*, 2:2, 4:3, 5:13, 6:2; Yeshayahu 35:1; Tehillim 45:1, 69:1, 80:1; Mishnah Kilayim 5:8, Taharos 3:7, Sheviis 7:6-7, Maasros 2:5, Shabbos 14:4, Chullin 2:1; Berachos 43b with Rashi; Nedarim 9b; *Shir HaShirim Rabbah* 2:1 and 2:3, with *Matnos Kehunah*, *Eitz Yosef* and *Maharzu*; *Vayikra Rabbah* 19:6, 23:3; Zohar *Hakdamah* 1a, *Vayechi* 221a, *Emor* 105a, *Ki Sisa* 189b; Ibn Janach, *Sefer HaShorashim*, with Rav Yehudai Gaon; Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer Tishbi*, with Rabbi Yaakov Emden, *Ezer Ohr*; Rabbi Saadia Gaon, *Tafsir*; *Kaftor VaFerach* ch. 56 with Rav Hai Gaon; Rabbi Shemaryah ben Elchanan; Rambam, *Hilchos Berachos* 9:6, with *Kesef Mishneh* and *Maaseh Rokeach*, and Rambam to Mishnah Sheviis 7:6; *Shulchan Aruch*, *Orach Chaim* 216:9; Rabbeinu Yonah, Berachos 31b in the Alfasi pagination; *Sefer HeAruch*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos HaNirdafim*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Rabbi Moshe Tedeschi-Ashkenazi, *Ho'il Moshe*; Rabbi Daniel Frisch, *Masok MiDvash*; Rabbi Yirmiyahu Low, *Divrei Yirmiyahu*; *Peirush HaRokeach*; *Peirush Chachmei Tzarfas*; the Peshitta, the Septuagint and the Vulgate; Rabbi Ernest Klein.

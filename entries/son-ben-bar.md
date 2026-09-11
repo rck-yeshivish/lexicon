@@ -20,8 +20,7 @@ updated: 2026-09-10
 
 Simplistically speaking, both mean **son** and the difference is language, not
 sense: *ben* is Hebrew, *bar* is its Aramaic equivalent, which is why Targum
-renders *ben* as *bar* everywhere. Render both "son of," and keep whichever form the text itself uses
-in a name. What must not be lost is that *bar* in Aramaic also means **outside**
+renders *ben* as *bar* everywhere. *Bar* in Aramaic also means **outside**
 or **separate**, which is why halachah prefers *ben* in a get and why the
 darshanim read a lesson into *bar mitzvah*.
 
@@ -50,7 +49,7 @@ traces this second sense to the two-letter root ב-ר, exclusion or separation:
 *bar* is grain separated from its chaff, *bor*/*boris* is a cleaning agent used
 to separate and exclude filth, and *bari* (against *shema*) is a sort of
 certainty in which all other options have been conclusively excluded; to which
-the article adds the common *bar minan*, "except from us." On this reading *bar*
+the column adds the common *bar minan*, "except from us." On this reading *bar*
 means son because the child was separated from his mother's person by the act of
 childbirth.
 
@@ -88,7 +87,7 @@ growth is no longer in the hands of the parents who built him up but is now his
 own responsibility.
 
 ### Rashbi, "Rabbi Shimon" and "Rabbi Shimon ben/bar Yochai"
-The article's opening question is the Lag B'Omer one, whether Rashbi is Rabbi
+The column's opening question is the Lag B'Omer one, whether Rashbi is Rabbi
 Shimon *bar* Yochai or *ben* Yochai, and it closes by noting that wherever the
 Mishnah or Gemara says plain "Rabbi Shimon" it means Rashbi. Rabbi Yehuda ben
 Kalonymos of Speyer, a 12th-century Tosafist, in his lexicon of the sages
@@ -118,10 +117,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Boys and Bars](https://articles.ohr.edu/articles/boys-and-bars)," What's in a Word?, Ohr Somayach
-(2019-05-25): raw text in `sources/whats-in-a-word/raw/8257-boys-and-bars.md`.
-Primary loci: Mishlei 31:2 with Malbim; Rabbi Yaakov Margolis, *Seder HaGet*;
-Rema, *Even HaEzer* 126:30 and 129:7; Rabbi Eliyahu HaBachur, *Meturgaman*;
-*HaKsav VeHaKabbalah* to Shemos 12:43; Rabbi Yehuda ben Kalonymos of Speyer,
-*Yichusei Tannaim V'Amoraim*, on why Rashbi is sometimes "Rabbi Shimon" plain
-and sometimes "Rabbi Shimon ben/bar Yochai."
+Rabbi Reuven Chaim Klein, "[Boys and Bars](https://articles.ohr.edu/articles/boys-and-bars)," *What's in a Word?*, Ohr Somayach, 25 May 2019.
+
+Cited in the essay: Shemos 12:43 with *HaKsav VeHaKabbalah*; Mishlei 31:2 with Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Margolis, *Seder HaGet*; the Maharshal; the Maharik; Rema, *Even HaEzer* 126:30 and 129:7; Rabbi Eliyahu HaBachur, *Meturgaman*; Rabbi David Ovadiah, in the name of Rabbi Meir Simcha of Dvinsk; Rabbi Alexander Sender Feuerstein; Rabbi Meir Mintzberg; Rabbi Yehuda ben Kalonymos of Speyer, *Yichusei Tannaim V'Amoraim*.

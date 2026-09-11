@@ -18,16 +18,15 @@ updated: 2026-09-10
 Both words mean **scribe**, and Rashi uses each to define the other. *Sofer* is
 the Hebrew word, at home in Tanach and in the Mishnah; *lavlar* is the later
 term, confined to Mishnaic and Talmudic Hebrew and borrowed from Latin. Whether
-they differ in *meaning* is the question the article sets out to answer, and it
-leaves two named views standing (see below), so a translator who needs the
-distinction should say which he is following. The one thing not to get wrong is
-the plural: *sofrim* in rabbinic usage is often not "scribes" at all but **the
+they differ in *meaning* is the question the column sets out to answer, and it
+leaves two named views standing (see below). In
+the plural, *sofrim* in rabbinic usage is often not "scribes" at all but **the
 Sofrim**, the early Sages, so *divrei sofrim* is "the words of the Sofrim,"
-never "the words of the scribes."
+not "the words of the scribes."
 
 ## Where the authorities disagree
 
-**Do *sofer* and *lavlar* mean two different things?** The article asks this
+**Do *sofer* and *lavlar* mean two different things?** The column asks this
 outright, notes that the etymological difference is clear (*sofer* and *safra*
 are Hebrew and Aramaic, of Semitic stock; *lavlar* is borrowed from Latin and
 Greek, of Indo-European stock), and reports that the earliest sources it found
@@ -44,7 +43,7 @@ discussing the question are two Hungarian rabbinic scholars of the last century.
    same thing, though the loanword *lavlar* may have carried a somewhat more
    formal connotation.
 
-The article does not decide between them, and neither does this entry.
+The column does not decide between them.
 
 ## Distinctions
 
@@ -151,8 +150,7 @@ same thing, one in Hebrew and one in Yiddish.
 - Trap: English "scribe" also absorbs *sofrim* in the honorific sense. Decide by
   the phrase, not the word. *Sofer STaM*, *sofer* of a get, *sofer* of a loan
   document: "scribe." *Divrei sofrim*, *tikkun sofrim*, *mi'divrei sofrim*,
-  *takkanas sofrim*: "the Sofrim," or "the early Sages," left transliterated in
-  a sefer.
+  *takkanas sofrim*: "the Sofrim," or "the early Sages," left transliterated.
 - Where a passage plays on both senses at once, as the Gemara in Kiddushin does,
   translate "scribes" and let the derashah on counting be spelled out; a
   rendering that picks only "counters" loses the pshat of the word.
@@ -165,31 +163,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bishalach: Scribal Culture](https://articles.ohr.edu/articles/bishalach-scribal-culture)," What's in a Word?, Ohr
-Somayach (2023-02-04): raw text in
-`sources/whats-in-a-word/raw/10818-bishalach-scribal-culture.md` (ohr.edu's
-stored body is truncated; the closing paragraph is restored there from the
-author's own mirror, so the article is read here in full). Primary loci:
-Shoftim 5:14 (*mosh'chim b'shevet sofer*); the *sofer* appellations listed in
-the body; Tehillim 45:2, Yirmiyahu 8:8, Yechezkel 9:2-3; Kiddushin 30a, Chagigah
-15b, Yerushalmi Berachos 1:4, Yerushalmi Shekalim 5:1 with its Mishnah lists;
-Mishnah Peah 2:6, Shabbos 1:3, Gittin 3:1, Bava Metzia 5:11 with Tosefta Bava
-Metzia 6:17; Yerushalmi Gittin 3:1 and Bava Metzia 1:4; Rashi to Sotah
-20a, Gittin 67a, Bava Basra 21b; Rabbi Eliyahu HaBachur, *Meturgaman*, on
-Targum to Esther 3:12; Blau, *Studien zum althebräischen Buchwesen und zur
-Biblischen Litteratur- und Textgeschichte*; Krauss, *Talmudische Archäologie*.
-For the root ס-פ-ר the article refers the reader to five of its own earlier
-pieces: "When Just Counting Doesn't Count" (May 2017), "Telling the Story"
-(April 2019), "Between Books and Scrolls" (February 2022), "Haircut Time" (April
-2022), and "The Shofar's Horn" (September 2022).
+Rabbi Reuven Chaim Klein, "[Bishalach: Scribal Culture](https://articles.ohr.edu/articles/bishalach-scribal-culture)," *What's in a Word?*, Ohr Somayach, 4 February 2023.
 
-Two loci in the article are corrected here rather than repeated. It gives Shva
-the scribe at Shmuel II 2:25; the pasuk is 20:25. It gives Yonasan the scribe at
-Yirmiyahu 36:15 and 36:20; those pesukim are about Elishama's chamber, and
-Yonasan's house is at 37:15 and 37:20.
-
-The Blau and Krauss dispute over whether the two words differ in meaning, and
-the Latin, Greek and Proto-Indo-European material behind *libellarius*, were
-formerly omitted here under an Orthodox-sources rule that does not belong to
-this guide. Both are restored, attributed as the column attributes them. The
-omission had removed the article's own answer to the question it opens with.
+Cited in the essay: Bereishis 11:29; Shoftim 5:14; Shmuel II 8:17, 20:25; Melachim II 18:18, 18:37, 19:2, 22:3, 22:8-10, 22:12; Yeshayahu 36:3, 37:2; Yirmiyahu 8:8, 36:10, 36:12, 36:20-21, 36:26, 37:15, 37:20; Yechezkel 9:2-3; Tehillim 45:2; Esther 3:12 with Targum; Ezra 7:6, 7:11; Nechemyah 8:1-13, 12:26, 12:36, 13:13; Divrei HaYamim I 4:18, 18:16, 24:6; Divrei HaYamim II 26:11, 34:15, 34:18, 34:20; Mishnah Peah 2:6, Terumos 1:1, Orlah 3:9, Challah 1:1, Shabbos 1:3, 7:2, 12:5, Pesachim 3:1, Yevamos 1:1, 2:4, 9:3, Nedarim 9:2, Sotah 9:15, Gittin 3:1, 7:2, 8:8, 9:8, Kiddushin 4:13, Bava Kamma 1:1, Bava Metzia 5:11, Sanhedrin 4:3, 5:5, 11:3, Kerisus 1:1, Keilim 13:7, 24:6, Parah 11:5-6, Taharos 1:1, 4:7, 4:11, Tevul Yom 4:6, Yadayim 3:2; Tosefta Bava Metzia 6:17; Kiddushin 30a; Chagigah 15b; Yerushalmi Berachos 1:4, Shekalim 5:1, Gittin 3:1, Bava Metzia 1:4; Rashi to Sotah 20a, Gittin 67a, Bava Basra 21b; Midrash *Shocher Tov* to Tehillim 9; *Iggeres Rav Sherira Gaon*; the kinah *Eileh Ezkerah*; Rabbi Eliyahu HaBachur, *Meturgaman*; the Kaufmann manuscript of the Mishnah; Rabbi Dr. Yehuda Aryeh (Lajos) Blau, *Studien zum althebräischen Buchwesen und zur Biblischen Litteratur- und Textgeschichte*; Rabbi Dr. Shmuel Krauss, *Talmudische Archäologie*.

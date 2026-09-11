@@ -19,8 +19,8 @@ Both mean **sickle**, and the weight of the sources treats them as one tool
 under two names: *chermesh* is the Hebrew word, *magal* a Hebraicized form of the
 Aramaic *magla*. That is why the Torah says *meihachel chermesh bakamah* (Devarim
 16:9) while the Mishnah's ceremony of cutting the Omer asks the crowd twice
-*magal zeh?* (Menachos 10:3). Do not translate one "sickle" and the other
-"scythe": that proposal was made and rejected on the article's own showing, and
+*magal zeh?* (Menachos 10:3). The proposal that one is a "sickle" and the other a
+"scythe" was made and rejected on the column's own showing, and
 the sources that do set the two words apart are working homiletically, not naming
 two tools.
 
@@ -32,7 +32,7 @@ cutting the Omer, uses a different word for the implement: the harvester holds u
 a *magal* and asks the assembled crowd, "Is this a *magal*?" and they answer
 "Yes!", and he asks again and they answer again (Menachos 10:3). So why does the
 Mishnah call the tool a *magal* where the Torah calls it a *chermesh*? Are they
-synonyms, or is there a difference? The article's answer, in short, is that they
+synonyms, or is there a difference? The column's answer, in short, is that they
 are one tool, *chermesh* the older Hebrew word and *magal* the later one taken in
 from Aramaic.
 
@@ -142,21 +142,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Pesach: The Sickle and the Exile](https://articles.ohr.edu/articles/pesach-the-sickle-and-the-exile)," What's in a Word?,
-Ohr Somayach, for the week ending 27 March 2021 / 14 Nissan 5781: raw text in
-`sources/whats-in-a-word/raw/9153-pesach-the-sickle-and-the-exile.md`. Primary
-loci the article cites: Devarim 16:9, 23:26; Yirmiyahu 50:16; Yoel 4:13 (the
-article prints 4:12, which is its own slip; the sickle pasuk is 4:13);
-Bereishis 25:6 (Rav Hirsch); Peah 4:4; Sheviis 4:6, 5:6; Menachos 10:3; Keilim
-13:1, 15:4; Tosefta Bava Metzia 2:14; *Sifrei* to Devarim 23:26; Radak, *Sefer
-HaShorashim*; Rambam's Mishnah commentary at the loci above. The article gives no
-locus for Rabbi Chelouche, Rabbi Valle, Rabbi Chaim Vital, Rabbi Pappenheim,
-Yeivin or Mandelkorn. Restored in this pass, having previously been dropped:
-Dr. Shmuel Yeivin, whose rejection of the sickle-versus-scythe proposal, whose
-*magal yad* / *magal kotzer* modifier argument and whose archaic-versus-later
-dating are the support for rulings this entry already carried in its Bottom line
-and rendering guidance; his further *chalamish* suggestion; and Dr. Shlomo
-Mandelkorn's *Heichal HaKodesh*, which the article names alongside Rav Hirsch on
-the *cherem* derivation. An earlier note here claimed Rav Hirsch reached that
-derivation independently of Mandelkorn; the article says only that Mandelkorn
-"also suggests" it, and that claim has been cut.
+Rabbi Reuven Chaim Klein, "[Pesach: The Sickle and the Exile](https://articles.ohr.edu/articles/pesach-the-sickle-and-the-exile)," *What's in a Word?*, Ohr Somayach, 27 March 2021.
+
+Cited in the essay: Bereishis 25:6 with Rav Hirsch; Devarim 16:9 with Rabbi Chaim Vital, and 23:26 with the *Sifrei*; Yirmiyahu 50:16; Yoel 4:13; Mishnah Peah 4:4 and Sheviis 4:6, 5:6 with the Rambam's commentary, Menachos 10:3, Keilim 13:1, 15:4; Tosefta Bava Metzia 2:14; the Targumim; Radak, *Sefer HaShorashim*; Rabbi David Chaim Chelouche; Rabbi Moshe David Valle; Rabbi Shlomo Pappenheim; Dr. Shmuel Yeivin; Dr. Shlomo Mandelkorn, *Heichal HaKodesh*.

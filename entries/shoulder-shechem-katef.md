@@ -24,13 +24,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both mean **shoulder**, and no single ruling settles them. The most useful
-division: *katef* is the shoulder proper, the whole shoulder; *shechem* is the
+Both mean **shoulder**, and no single ruling settles them. One
+division (the *Ohel Moed*'s second view, with Radak): *katef* is the shoulder proper, the whole shoulder; *shechem* is the
 part of it directly opposite the neck, so **upper shoulder**, and in the one
 pasuk that sets the two in a spatial relation, **upper back**. *Shechem* alone
-carries the borrowed senses of a parcel carried there and, from that, a
-**portion** or allotment. Do not render both with a bare "shoulder" in a pasuk
-that uses them together.
+carries the borrowed senses of a parcel carried there and, from that, a **portion** or allotment.
 
 ## At a glance
 
@@ -41,7 +39,7 @@ that uses them together.
 
 ## Where the authorities disagree
 
-The article's own question, once *shechem* has been shown to be a body part: does
+The column's own question, once *shechem* has been shown to be a body part: does
 not *katef* mean "shoulder"? How then can *shechem* mean it too?
 
 Rabbi Shlomo of Urbino, a sixteenth-century Italian scholar, writes in *Ohel
@@ -60,7 +58,7 @@ willing to accept the curse on that condition. There *katef* is plainly a body
 part sitting atop the *shechem*, from which it seems that *katef* is the upper
 shoulder and *shechem* is actually the back, which suits a curse that his
 shoulder be dislocated from his back and fall. The commentators point out that
-this is at odds with Radak, who makes *shechem* the higher part; the article
+this is at odds with Radak, who makes *shechem* the higher part; the column
 leaves the difficulty standing.
 
 **Rabbi Ezra Reuven Dangoor** (1848-1930), Chief Rabbi of Baghdad: the division
@@ -76,14 +74,9 @@ primarily means "corner" or "side," and refers to the shoulder only as a borrowe
 meaning, the shoulder sitting at the corner or side of the body. Radak cites the
 same explanation in his own work of that name. On that view the word evolved in
 three stages, primarily "side," secondarily "shoulder," and in its tertiary sense
-"package" or "portion." The article notes that this understanding does not
+"package" or "portion." The column notes that this understanding does not
 account for the difference between *shechem* and *katef*, both of which mean
 "shoulder" and "side."
-
-The Bottom line follows the *Ohel Moed*'s second view, with Radak, because it is
-the one that keeps a working difference in English while fitting the ordinary
-usage; Dangoor and the Munkatcher Rebbe are recorded, and Iyov 31:21-22 is the
-standing objection to it.
 
 ## Distinctions
 
@@ -139,18 +132,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shouldering the Burden](https://articles.ohr.edu/articles/shouldering-the-burden)," What's in a Word?, Ohr
-Somayach, for the week ending 30 December 2017 / 12 Teves 5778:
-https://articles.ohr.edu/articles/shouldering-the-burden; raw text in
-`sources/whats-in-a-word/raw/7562-shouldering-the-burden.md`. Primary loci the
-article cites: Bereishis 48:21-22, 49:14-15; Iyov 31:21-22; Yehoshua 24:32;
-Rabbi Shlomo of Urbino, *Ohel Moed*; Ibn Janach and Radak, each in his own *Sefer
-HaShorashim*. The article gives no locus for Radak's comment that *shechem* is
-the part closest to the neck, nor any for Rabbi Dangoor, the Munkatcher Rebbe or
-Rabbi Hoffmann, and none is supplied here. The second half of Iyov 31:22, "and my
-arm be broken from its socket," stood in an earlier draft of this entry as though
-quoted from the article; the article quotes only through "my *katef* shall fall
-from my *shechem*," and the clause has been cut. Restored in this pass, having
-previously been dropped: the article's attribution of the loading-at-dawn
-explanation to "some linguists" rather than to Rabbi Hoffmann, and its closing
-Benjamin Franklin aside.
+Rabbi Reuven Chaim Klein, "[Shouldering the Burden](https://articles.ohr.edu/articles/shouldering-the-burden)," *What's in a Word?*, Ohr Somayach, 30 December 2017.
+
+Cited in the essay: Bereishis 48:21-22 with Targum, Rashi and Ibn Ezra, and 49:14-15; Yehoshua 24:32; Iyov 31:21-22; Rabbi Shlomo of Urbino, *Ohel Moed*; Ibn Janach and Radak, each in his *Sefer HaShorashim*; Rabbi Ezra Reuven Dangoor; the Munkatcher Rebbe, Rabbi Chaim Elazar Shapiro; Rabbi Dovid Zvi Hoffmann; Benjamin Franklin.

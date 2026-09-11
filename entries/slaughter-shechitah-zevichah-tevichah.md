@@ -21,9 +21,6 @@ death**. *Zevichah* is slaughter **for a purpose**, above all **sacrificial
 slaughter**. *Tevichah* is slaughter **for eating**, killing an animal for food
 in a general way, even outside the frame of ritual slaughter. Rabbi Yonah ibn
 Janach dissents on that last word entirely and reads *tevichah* as **cooking**.
-The trap is that English "slaughter" swallows all three; where a pasuk turns on
-the difference, name the purpose (sacrifice, food) rather than repeat the same
-verb.
 
 ## Distinctions
 
@@ -42,7 +39,7 @@ say Hashem "slaughtered them (*vayishchatem*) in the wilderness" (Bamidbar
 Root ז-ב-ח. Malbim: slaughtering with a stated purpose, whether a ritual
 korban or meat for a festive gathering. Rabbi Shlomo Pappenheim narrows it:
 *zevichah* is a species of *shechitah*, killing for the purpose of sacrifice.
-Ralbag, who the article notes does not offer full definitions of these words,
+Ralbag, who the column notes does not offer full definitions of these words,
 stands in two places: to Devarim 12:21 he says *zevichah* does not *per force*
 name the same act as *shechitah* and can also include *nechirah* (stabbing),
 which is a halachically unacceptable way of killing (see Targum Yonasan to
@@ -56,7 +53,7 @@ agrees that it is a kind of *shechitah* defined by its reason, here ordinary
 human consumption. The word appears three times in Chumash: *u'tevoach tevach*
 at Yosef's banquet (Bereishis 43:16), the thief who slaughters the animal he
 stole (Shemos 21:37), and the curse "your ox will be slaughtered (*tavuach*)
-before your eyes, and you will not eat from it" (Devarim 28:31); the article
+before your eyes, and you will not eat from it" (Devarim 28:31); the column
 notes that basically all other instances in Tanach fall outside the Chumash.
 The ordinary thief repays double (Shemos 22:3), but one who slaughtered or sold
 the stolen animal pays four times its value for ovacaprines and five for
@@ -84,10 +81,9 @@ in charge of all those who slaughtered the king's animals. Ibn Ezra and Ramban
 follow Targum Onkelos: he was Chief Executioner, or at least chief warden over
 those on death row, which seems also to be the meaning of Nevuzaradan's title.
 The link is plain, an executioner slays men as a slaughterer slays beasts. Ibn
-Ezra to Daniel 2:14 says instead that Potiphar was Pharaoh's Chief Cook, so, as
-the article puts it, he seems to contradict himself.
+Ezra to Daniel 2:14 says instead that Potiphar was Pharaoh's Chief Cook, so, as the column puts it, he seems to contradict himself.
 
-The article notes that there might be an etymological link between *zevichah*
+The column notes that there might be an etymological link between *zevichah*
 and *tevichah*: the two differ only in the first letter of the root and share
 BEIS-CHES at the end, Hebrew *zevichah* is rendered in Aramaic as *devichah*
 with zayin morphing into dalet, and dalet is sometimes interchangeable with tes.
@@ -119,13 +115,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Slaughtering and Butchering](https://articles.ohr.edu/articles/slaughtering-and-butchering)," What's in a Word?, Ohr
-Somayach, 30 Kislev 5779 (2018-12-08): raw text in
-`sources/whats-in-a-word/raw/8023-slaughtering-and-butchering.md`. Primary loci
-cited: Bereishis 43:16, 37:36; Shemos 21:37, 22:3; Vayikra 1:1 (Ralbag);
-Bamidbar 14:16, 22:40 (Targum Yonasan); Devarim 12:21 (Ralbag), 28:31; Daniel
-2:14 (Ibn Ezra); Chullin 17a; Pesachim 17a; Eduyos 8:4. The article prints the
-thief's fourfold and fivefold payment at Ex. 21:37, which is Shemos 21:37 in the
-Hebrew numbering, and the twofold payment at Ex. 22:3, printed as Shemos 22:3.
-For Nevuzaradan's title the article cites "II Kings and Jer." without chapter and
-verse.
+Rabbi Reuven Chaim Klein, "[Slaughtering and Butchering](https://articles.ohr.edu/articles/slaughtering-and-butchering)," *What's in a Word?*, Ohr Somayach, 8 December 2018.
+
+Cited in the essay: Bereishis 37:36 with Rashi, Ibn Ezra, Ramban and Targum Onkelos, and 43:16; Shemos 21:37, 22:3; Vayikra 1:1 with Ralbag; Bamidbar 14:16, and 22:40 with Targum Yonasan; Devarim 12:21 with Ralbag, and 28:31; Melachim II and Yirmiyahu on Nevuzaradan; Daniel 2:14 with Ibn Ezra; Mishnah Eduyos 8:4; Chullin 17a; Pesachim 17a; Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Yonah ibn Janach.

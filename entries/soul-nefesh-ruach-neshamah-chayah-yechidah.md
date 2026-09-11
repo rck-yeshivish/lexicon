@@ -26,9 +26,8 @@ One soul, five names, ascending (Bereishis Rabbah 14:9). *Nefesh*, the life
 bound to blood and body, seat of appetite and will: **soul** (in Tanach also
 **life**, **person**, **self**). *Ruach*, the breath-like middle tier, seat of
 emotion and speech: **spirit**. *Neshamah*, Hashem's breath, the soul only man
-has: **higher soul**. *Chayah* (the life-force that outlives the body) and
-*yechidah* (the singular point) stay transliterated. The tier is the thing not
-to get wrong: *nefesh* is never "spirit," *ruach* never "soul."
+has: **higher soul**. *Chayah* is the life-force that outlives the body, and
+*yechidah* the singular point.
 
 ## Distinctions
 
@@ -112,14 +111,10 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, What's in a Word?, Ohr Somayach: "Take a Breather
-(Part 1)," 5 Tammuz 5780 (2020-06-27), raw text in
-`sources/whats-in-a-word/raw/8759-take-a-breather-part-1.md`; "Anatomy of a
-Soul (Part 2 of 3)," 12 Tammuz 5780 (2020-07-04), raw text in
-`sources/whats-in-a-word/raw/8768-anatomy-of-a-soul-part-2-of-3.md`; "The
-Chayah and Yechidah (Part 3 of 3)," 19 Tammuz 5780 (2020-07-11), raw text in
-`sources/whats-in-a-word/raw/8779-the-chayah-and-yechidah-part-3-of-3.md`.
-Primary loci: Bereishis Rabbah 14:9; Rambam, Moreh Nevuchim 1:40-41; Nefesh
-HaChaim 1:14, 1:15, 2:17; Ibn Ezra and Radak to Bereishis 2:7; Radak, Sefer
-HaShorashim s.v. נפש; Avos 5:19; Vilna Gaon, Aderes Eliyahu to Bereishis 2:7;
-Shoftim 11:34; Pappenheim, Cheshek Shlomo and Yerios Shlomo.
+Rabbi Reuven Chaim Klein, "[Take a Breather (Part 1)](https://articles.ohr.edu/articles/take-a-breather-part-1)," *What's in a Word?*, Ohr Somayach, 27 June 2020.
+
+Rabbi Reuven Chaim Klein, "[Anatomy of a Soul (Part 2 of 3)](https://articles.ohr.edu/articles/anatomy-of-a-soul-part-2-of-3)," *What's in a Word?*, Ohr Somayach, 4 July 2020.
+
+Rabbi Reuven Chaim Klein, "[The Chayah and Yechidah (Part 3 of 3)](https://articles.ohr.edu/articles/the-chayah-and-yechidah-part-3-of-3)," *What's in a Word?*, Ohr Somayach, 11 July 2020.
+
+Cited in the essay: Bereishis 1:2, 2:7 with Targum Onkelos, Ibn Ezra, Radak and the Vilna Gaon's *Aderes Eliyahu*, 7:15, 7:21 with Ibn Ezra, 19:17, 23:8 with Rashi, 35:18; Shemos 15:9 with Rashi, and 31:17 with Rashi; Vayikra 5:1, 19:28, 21:1, 22:6; Bamidbar 11:17, 16:22, 19:13, 27:16; Devarim 12:23; Shoftim 11:34; Shmuel II 23:2; Yeshayahu 42:5 with Radak; Yechezkel 32:10 with Rashi; Tehillim 150:6; Mishlei 13:2 with Rashi, and 29:11; Iyov 15:13; Koheles 3:21 with Ibn Ezra, and 12:7; Avos 5:19; Yoma 85a with Rashi; *Bereishis Rabbah* 14:9; Rambam, *Moreh Nevuchim* 1:40-41; Raavad to *Sefer Yetzirah*; Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:14, 1:15, 2:17; Radak, *Sefer HaShorashim* s.v. נפש; Rabbeinu Yonah; Maharsha; the Vilna Gaon; Rabbi Yosef Karo; the Shelah; Rabbi Alexander Sender Shor; Rabbi Yaakov Yehoshua Falk; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Yaakov Tzvi Mecklenburg.

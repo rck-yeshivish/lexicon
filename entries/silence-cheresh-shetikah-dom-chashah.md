@@ -42,7 +42,7 @@ over, and never merely quiet. *Shetikah* is the **quieting down** that follows
 a commotion. *Dom* is **falling silent**, silence as a state that comes over a
 person, and at root simply stoppage. *Chashah* is **keeping still**, an inward
 stillness or a held-back answer. *Hass* alone is transitive: to **hush**
-others. The trap is that English "be silent" flattens all five; where a passage
+others. Where a passage
 turns on which one it is (Mordechai's *hachareish tacharishi*, Esther 4:14),
 the choice of word is the whole point.
 
@@ -93,15 +93,12 @@ literal sense does not refer to silence at all, and since a man who is quiet has
 stopped his lips, stoppage and silence are quite related. Ramban writes that
 Aharon first cried and then fell silent; Mecklenburg disagrees on lexical
 grounds, arguing that were that the reality the Torah would have used a cognate
-of *shetikah* and not *dom*. The Bottom line keeps "fell silent," which survives
-both Bedersi and Mecklenburg, and leaves the chiddush to a note.
+of *shetikah* and not *dom*.
 
 **What chashah means.** Bedersi does not explain this word. Mecklenburg: a
 reflective, introspective sort of quiet, similar to Bedersi's understanding of
 *cheresh*. Rabbi Shlomo Aharon Wertheimer (1866-1935): the silence of one who
 holds himself back from answering another even though he has what to answer.
-Wertheimer's reading is the more useful where someone is being addressed;
-Mecklenburg's where he is alone.
 
 **What cheresh means in Tanach as against Mishnaic usage.** In Mishnaic Hebrew
 *cheresh* is one who can neither hear nor speak (Niddah 13b). Rabbi Pappenheim
@@ -156,8 +153,7 @@ Bedersi: the silence that comes after a commotion has been quelled. The root
 appears only four times in Tanach, two of them where Yonah tells his shipmates
 that throwing him overboard will make the stormy sea calm down (Yonah 1:11 to
 12). Outside Tanach its cognates are the Targum's Aramaic renderings of
-*cheresh*-based words (the article gives Bereishis 24:21 and Bamidbar 30:5, 3:8;
-the last appears to be a slip for 30:8, the parallel pasuk about a husband).
+*cheresh*-based words (Bereishis 24:21; Bamidbar 30:5, 30:8).
 
 ### chashah (חשה)
 The word of Koheles 3:7, *eis lachashos v'eis l'daber*, "a time to be silent and
@@ -194,19 +190,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[To Remain Silent](https://articles.ohr.edu/articles/to-remain-silent)," What's in a Word?, Ohr Somayach,
-for the week ending 7 March 2020 / 11 Adar II 5780: raw text in
-`sources/whats-in-a-word/raw/8634-to-remain-silent.md`. Primary loci the article
-cites: Esther 4:14 with *Esther Rabbah* 8:6; Yonah 1:11 to 12; Targum to Bereishis
-24:21 and Bamidbar 30:5 and 3:8 (the last is noted in the body as an apparent
-slip for 30:8); Vayikra 10:3 with Ramban; Yehoshua 10:12; Koheles 3:7; Devarim
-27:9; Shemos 4:11, 7:22, 14:14, 35:35; Mishlei 3:29 and Iyov 4:8 with Rashi;
-Shmuel I 23:15; Divrei HaYamim II 27:4; Rav Hirsch to Tehillim 28:1; Niddah 13b;
-Tosafos to Chagigah 2b with *Maharsha* and *Hagahos Rashash*; Ibn Ezra to Shemos
-4:11. The article gives no locus for Bedersi, Mecklenburg, Wertheimer, Pappenheim
-or Rabbi Algazi. Restored in this pass, having previously been dropped: the
-Akkadian *charash*, "wise, intelligent," which the article gives in support of
-Bedersi's reading of *cheresh*; and Pappenheim's account of why a deaf-mute is
-called a *cheresh*. The article's own hedge on Rabbi Algazi, that his reading is
-"somewhat problematic," has been restored in place of the entry's earlier verdict
-that it "is the weakest of the three."
+Rabbi Reuven Chaim Klein, "[To Remain Silent](https://articles.ohr.edu/articles/to-remain-silent)," *What's in a Word?*, Ohr Somayach, 7 March 2020.
+
+Cited in the essay: Bereishis 24:21 with Targum; Shemos 4:11 with Ibn Ezra, 7:22 with Targum, 14:14, 35:35; Vayikra 10:3 with Ramban; Bamidbar 30:5, 30:8 with Targum; Devarim 27:9; Yehoshua 10:12; Shmuel I 23:15; Yonah 1:11-12; Tehillim 28:1 with Rav Hirsch; Mishlei 3:29 and Iyov 4:8 with Rashi; Koheles 3:7; Esther 4:14 with *Esther Rabbah* 8:6; Divrei HaYamim II 27:4; Niddah 13b; Chagigah 2b with Tosafos, *Maharsha* and *Hagahos Rashash*; Rabbi Avraham Bedersi HaPenini; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim; Rabbi Shlomo Algazi.

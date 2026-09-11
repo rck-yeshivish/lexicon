@@ -26,8 +26,8 @@ secret proper is *dvar seter*, **a hidden matter** (Pappenheim). *Kamus* is
 **stored away, sealed up** (Devarim 32:34, once only): classified information.
 *Raz* (Aramaic, Daniel) is **mystery**, an idea closed off from the many
 (Rashi: *seter*, *satum*). *Tamir* is Aramaic **hidden**, Targum's word for
-most Hebrew hiding-words. The thing not to get wrong: in a pasuk, סוד is
-usually "counsel" or "assembly," not "secret"; in a Gemara or a mussar sefer
+most Hebrew hiding-words. In a pasuk, סוד is
+usually "counsel" or "assembly," not "secret"; in a Gemara or in mussar
 it is "secret."
 
 ## Distinctions
@@ -194,33 +194,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Sukkos - Bereishis - Revealing the Secret](https://articles.ohr.edu/articles/sukkos-bereishis-revealing-the-secret)," What's
-in a Word?, Ohr Somayach, 13 Tishrei 5783 (2022-10-08): raw text in
-`sources/whats-in-a-word/raw/10130-sukkos-bereishis-revealing-the-secret.md`.
-Primary loci the article cites: Ibn Janach and Radak, *Sefer HaShorashim* s.v.
-סוד; Amos 3:7; Mishlei 15:22, 8:15, 14:28, 31:4; Rav Hirsch to Bereishis 49:6,
-Shemos 35:22, Vayikra 2:2, Devarim 32:34; Bereishis 25:29; Melachim II 4:38;
-Pappenheim, *Cheshek Shlomo* s.v. SAMECH-DALET and REISH-ZAYIN, with Mishnah
-Kilayim 1:8 and 6:4, Shabbos 12:1, Bava Basra 4:9, Sanhedrin 7:3 (*sadan*) and
-Shoftim 14:12-13, Yeshayahu 3:23, Mishlei 31:24 (*sadin*); Shoftim 3:19; Devarim
-32:34 with Targum Yonasan; Mishnah Peah 5:8 (*kumsaos*); Daniel 2:18-47, 4:6
-with Rashi; Yeshayahu 24:16; Sanhedrin 94a; Eruvin 65a and Sanhedrin 38a;
-Pesachim 49b; Chagigah 14a; Yevamos 63b; Rosh HaShanah 20b with
-Rashi, and Kesubos 112a; Iyov 13:27 and 33:11 (*sad*), 15:12 (*rezem*); Gittin
-5:7; Shoftim 5:3, Yeshayahu 40:23, Tehillim 2:2 (*roznim*), with Malbim to
-Mishlei 14:28 and *Shoresh Yesha*; *Sefer Tishbi* s.v.
-Raziel; *Tosafos HaShalem* to Shemos 25:10 §9, 25:11 §6 and §16, 25:25 §6, 39:2
-§1; *Maggid Meisharim* to Vayakhel and Tzav.
+Rabbi Reuven Chaim Klein, "[Sukkos - Bereishis - Revealing the Secret](https://articles.ohr.edu/articles/sukkos-bereishis-revealing-the-secret)," *What's in a Word?*, Ohr Somayach, 8 October 2022.
 
-Material the article cites from outside the traditional sources, formerly absent
-from this entry, is restored and attributed as the column attributes it: the
-Dead Sea Scrolls usage of *raz*, the Old Persian *raza* and Sanskrit *rahasya*,
-the Academy of the Hebrew Language on *sod kamus*, and Rabbi Ernest Klein's
-*mattamore*. Three of the column's own moves that had been flattened are
-restored as its own: the KAF-SAMECH theory for *kamus*, the *raz*/*zar*
-metathesis (with its admission that it has not merited to understand Rabbi Dov
-Kook's gematria), and the extension of Pappenheim's *rezem* to the Mishnaic
-*remez*, which Pappenheim himself does not make. The direction of Rabbi Ernest
-Klein's ט-מ-ן / ט-מ-ר derivation was stated backwards here and is corrected. The
-note on *sod* versus *seter* in the Rendering guidance is drawn from the
-`hidden` entry in this guide, not from this article.
+Cited in the essay: Bereishis 25:29, 35:4 with Targum, and 49:6 with Rav Hirsch; Shemos 2:12 with Targum, 25:10, 25:11, 25:25 and 39:2 with *Tosafos HaShalem*, and 35:22 with Rav Hirsch; Vayikra 2:2 with Rav Hirsch; Devarim 32:34 with Rav Hirsch and Targum Yonasan; Shoftim 3:19, 5:3, 14:12-13; Shmuel I 10:22 with Targum; Melachim II 4:38; Yeshayahu 3:23, 24:16, 40:23; Yirmiyahu 13:5 with Targum; Amos 3:7; Tehillim 2:2, and 10:11, 27:5, 32:7, 139:15 with Targum; Mishlei 8:15, 14:28 with Malbim, 15:22, 31:4, 31:24; Iyov 13:27 with Rashi, 15:12 with Malbim, 33:11, and 36:32 with Targum; Daniel 2:18-47 with Rashi to 2:19 and 2:47, and 4:6 with Rashi; Mishnah Peah 5:8, Kilayim 1:8, 6:4, Shabbos 12:1, Gittin 5:7, Bava Basra 4:9, Sanhedrin 7:3; Eruvin 65a; Pesachim 49b; Rosh HaShanah 20b with Rashi; Chagigah 14a; Yevamos 63b; Kesubos 112a; Sanhedrin 38a, and 94a with Rashi; Ibn Janach and Radak, *Sefer HaShorashim*; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Tzvi Mecklenburg; *Shoresh Yesha*; Rabbi Avi Kobernick; Rabbi Yitzchak Ibn Ghiyyat, with the Academy of the Hebrew Language; Rabbi Dov Kook of Tiberias; Rabbi Eliyahu HaBachur, *Sefer Tishbi*; the Chassidei Ashkenaz; *Maggid Meisharim* to Vayakhel and Tzav; the Chida; Rabbi Elazar Lipa Gartenhaus; Rabbi Ernest Klein; the Dead Sea Scrolls.

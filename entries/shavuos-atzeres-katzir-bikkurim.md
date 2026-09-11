@@ -42,9 +42,8 @@ Festival of the Harvest; **Yom HaBikkurim**, Day of the First Fruits. Three more
 are post-Biblical: **Yom HaChamishim**, the Fiftieth Day; **Chag HaTene**,
 Festival of the Basket; and **Asartha**, the Aramaic of **Atzeres**. *Atzeres*
 is the name of Chazal and the one the Mishnah and Gemara normally use, though the
-Torah never applies it to this yom tov. Render *Atzeres* by its sense, either
-**Assembly** or **Conclusion** depending on the reading a passage follows, and
-say which. Do not translate *Shavuos* as "Pentecost."
+Torah never applies it to this yom tov. Its sense is disputed,
+**Assembly** on one reading and **Conclusion** on another.
 
 ## At a glance
 
@@ -74,8 +73,7 @@ rejects this, arguing there is no evidence that *atzeres* is associated with
 conclusions; he and Rabbi Yaakov Tzvi Mecklenburg (1785-1865) favor "gathering"
 or "congregating," pointing to Devarim 18:16, where the day the Torah was given
 is called *Yom HaKahal*, so that Chazal's name echoes a phrase the Torah had
-already used for that very day. The Bottom line keeps both, the choice governing
-the English word.
+already used for that very day.
 
 **Two further readings of *Atzeres*.** The *Kedushas Levi* also reads it from
 restraint: a spark of inspiration to love or awe of Hashem is easily lost unless
@@ -154,7 +152,7 @@ Shavuos *Atzeres* rather than Shavuos.
 
 ## Rendering guidance
 
-- Keep *Shavuos* untranslated in a sefer; "Festival of Weeks" belongs in a gloss
+- Keep *Shavuos* untranslated; "Festival of Weeks" belongs in a gloss
   at first occurrence, and "Pentecost" nowhere.
 - Where a Rabbinic text says *Atzeres* and means this yom tov, write "Atzeres"
   and gloss it rather than substituting "Shavuos"; the choice of name is usually
@@ -171,18 +169,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Stop! It's Shavuot!](https://articles.ohr.edu/articles/stop-itas-shavuot)," What's in a Word?, Ohr Somayach,
-for the week ending 19 May 2018 / 5 Sivan 5778: raw text in
-`sources/whats-in-a-word/raw/7758-stop-itas-shavuot.md`. Primary loci the article
-cites: Shemos 23:16, 34:22; Vayikra 23:16-20, 23:36; Bamidbar 28:26, 29:35;
-Devarim 16:8, 16:10, 16:16, 18:16, 26:1-11; Divrei HaYamim II 8:13; Rashi to
-Yirmiyahu 5:24; *Mishnah Bikkurim* 1:3; Targum to Bamidbar 28:26; *Midrash Lekach
-Tov* (*Pesikta Zutrata*); Ramban to Vayikra 23:36; Josephus, *Antiquities of the
-Jews*, Book III. The article gives no locus for the Munkatcher Rebbe, the
-*Kedushas Levi*, Rabbi Zacuto, Rabbi Hoffmann, Rabbi Mecklenburg, Rabbi Abramsky
-or Rabbi Epstein, and none is supplied here. The Sadducean explanation for
-dropping the name *Shavuos* is given anonymously ("some explain") and is kept
-anonymous above. Restored in this pass, having previously been dropped from the
-body: Josephus for *Yom HaChamishim* and *Asartha*, and Philo Judaeus for *Chag
-HaTene*, both as the article attributes them, Philo with the article's own hedge
-"apparently."
+Rabbi Reuven Chaim Klein, "[Stop! It's Shavuot!](https://articles.ohr.edu/articles/stop-itas-shavuot)" *What's in a Word?*, Ohr Somayach, 19 May 2018.
+
+Cited in the essay: Shemos 23:16, 34:22; Vayikra 23:16-20, and 23:36 with Ramban; Bamidbar 28:26 with Targum, and 29:35; Devarim 16:8, 16:10, 16:16, 18:16, 26:1-11; Yirmiyahu 5:24 with Rashi; Divrei HaYamim II 8:13; Mishnah *Bikkurim* 1:3; *Midrash Lekach Tov* (*Pesikta Zutrata*) of Rabbi Tuviah ben Eliezer; Rabbi Chaim Elazar Shapiro of Munkatch; Rabbi Moshe Zacuto; the *Kedushas Levi*, Rabbi Levi Yitzchak of Berditchev; Rabbi Dovid Tzvi Hoffmann; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yechezkel Abramsky; Rabbi Baruch Epstein; Josephus, *Antiquities of the Jews*, Book III; Philo Judaeus of Alexandria.

@@ -24,9 +24,7 @@ oppression, and specifically salvation that answers a cry (*shav'ah*) for help.
 "separate, remove"). Whether it is the lesser word is itself disputed: the
 Rokeach calls it partial or temporary next to *yeshuah*, while Malbim has it
 carrying more, protection from future troubles on top of the saving. *Purkan*
-(Aramaic, the Targum's *pidyon*) is **redemption**, being bought back. The one
-thing not to get wrong is the English: render *hatzalah* "rescue" or "saving,"
-and reserve "salvation" for *yeshuah*/*teshuah*.
+(Aramaic, the Targum's *pidyon*) is **redemption**, being bought back.
 
 ## Distinctions
 
@@ -122,19 +120,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Seeking Salvation](https://articles.ohr.edu/articles/seeking-salvation)," What's in a Word?, Ohr Somayach,
-23 Kislev 5782 (2021-11-27): raw text in
-`sources/whats-in-a-word/raw/9464-seeking-salvation.md`. Primary loci the
-article cites: *Al HaNissim*; Eichah 5:8 and Tehillim 136:24 (פ-ר-ק); Rav
-Hirsch to Shemos 14:13, 3:22 and Devarim 32:2; Bava Kamma 80a with Rashi,
-Tosafos, and Sefer HaAruch (*Yeshua HaBen*); Malbim to Yirmiyahu 15:20; Shemos
-Rabbah 1:32 on Shemos 2:17; Devarim 22:27; Radak and Ibn Janach s.v. נצל. The
-article also points the reader to two of its own earlier pieces, "For Crying Out
-Loud" (February 2016) on the other words for crying out, and "Smooth Sliding &
-Glad Gliding" (November 2019) on the "smoothness" sense of ש-ע.
+Rabbi Reuven Chaim Klein, "[Seeking Salvation](https://articles.ohr.edu/articles/seeking-salvation)," *What's in a Word?*, Ohr Somayach, 27 November 2021.
 
-One line of our own has been cut, a ranking of the three words by weight with
-*hatzalah* least and *yeshuah* whole. The column gives no such ranking; it
-distinguishes them by aspect, and Malbim in fact has *hatzalah* carrying more
-than *yeshuah*, not less. The rendering guidance now follows the article's own
-closing summary.
+Cited in the essay: *Al HaNissim*; Shemos 2:17, and 3:22 and 14:13 with Rav Hirsch; Devarim 22:27, and 32:2 with Rav Hirsch; Yirmiyahu 15:20 with Malbim; Eichah 5:8; Tehillim 136:24; Bava Kamma 80a with Rashi, Tosafos and *Sefer HaAruch*; *Shemos Rabbah* 1:32; Radak and Ibn Janach on נ-צ-ל; Rabbi Shlomo Pappenheim; *Peirush HaRokeach*; Rabbi Yechiel Michel Heilpern; Rabbi Chanoch Zundel of Bialystok; Rabbi Yitzchak Eliyahu Landau of Dubno.

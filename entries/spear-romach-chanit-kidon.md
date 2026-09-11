@@ -39,10 +39,10 @@ Shlomo Pappenheim the weapon of the military camp, from the "encamping" root.
 *Kidon* is a small *romach* (Rambam), usually thrown at the enemy (Rabbi Tanchum
 HaYerushalmi), so **javelin** or **dart**; HALOT instead gives "hunting
 knife/scimitar," and Targum renders it *romcha*. *Alunki* is the rabbinic
-**lance**, from Greek (Rabbi Shmuel Krauss). Do not get this wrong: the column
+**lance**, from Greek (Rabbi Shmuel Krauss). The column
 works by etymology and rules on no difference in use, and for Rabbi Krauss all
-three are one weapon; separate English rests on the etymologies and on Rambam's
-"small *romach*," not on a settled distinction.
+three are one weapon; the distinctions rest on the etymologies and on Rambam's
+"small *romach*," not on a settled difference.
 
 ## At a glance
 
@@ -63,9 +63,7 @@ weapons are very similar and their names can even be somewhat interchanged.
 HALOT gives each word its own English: *romach* "lance," *chanit* "spear,"
 *kidon* "hunting knife/scimitar." The column sets out to show how each word's
 inner meaning relates to its own root, and does not rule between Rabbi Krauss
-and the separate glosses. The Bottom line renders the words apart on the
-etymologies and Rambam's "small *romach*," and keeps Rabbi Krauss as the
-opposing view.
+and the separate glosses.
 
 **How *romach* is built.** Menachem Ibn Saruk (920 to 970), Yonah Ibn Janach
 (990 to 1055), and Radak (1160 to 1235): a triliteral root REISH-MEM-CHET, used
@@ -90,9 +88,7 @@ From this the column suggests, hedged ("it would seem that perhaps"), that
 *kidon* may be a general term for an infantryman's gear, weaponry or armor.
 Radak (to Shmuel I 17:6): even with Golyas the *kidon* is an offensive weapon,
 not armor, something resembling a *romach* that soldiers hid between their
-shoulders; at Yirmiyahu 50:42 Radak seems unsure which of the two it is. The
-Bottom line treats *kidon* as a weapon, with Radak and with Rabbi Tanchum's usual
-sense.
+shoulders; at Yirmiyahu 50:42 Radak seems unsure which of the two it is.
 
 **Where *chanit* comes from.** Ibn Janach and Radak (each in his *Sefer
 HaShorashim*): triliteral CHET-NUN-HEI ("camping, resting, store"); Menachem Ibn
@@ -178,18 +174,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Pinchas: Piercing Spears](https://articles.ohr.edu/articles/pinchas-piercing-spears)," What's in a Word?, Ohr
-Somayach, 19 Tammuz 5783 (2023-07-08): raw text in
-`sources/whats-in-a-word/raw/11010-pinchas-piercing-spears.md`. Primary loci
-cited: Bamidbar 25:7; Shemos 15:1 (Rav Hirsch, with Bamidbar 25:7); Yehoshua
-8:18 (with Targum), 8:26; Shmuel I 17:6, 17:45; Yirmiyahu 6:23, 50:42; Iyov
-21:20, 39:23, 41:21; Gittin 70a; Rambam to Keilim 11:8; Ibn Janach's and Radak's
-*Sefer HaShorashim*; Radak to Shmuel I 17:6 and Yirmiyahu 50:42; *Otzar
-Nirdafim*; *Ohalei Yehuda*; *Shoresh Yesha*; *HaMadrich HaMaspik*; HALOT; Rabbi
-Ernest Klein; Dr. Raphael Sappan's additions to Even-Shoshan. The column prints
-the French word as *guidone*; the French is *guidon*. The verses pairing *kidon*
-with *chanit* (Shmuel I 17:45, Iyov 39:23) are read from the text, not cited as
-a pair by the column; at Yirmiyahu 6:23 and 50:42 *kidon* stands beside *keshes*,
-"bow," not *chanit*. The column's closing note on *neched* (nephew versus
-grandson: Rashbam, Rabbi Berechiah HaNakdan's *Dodi V'Nechdi*, *Mincha Belulah*,
-Rabbi Yitzchok Yishaya Weiss) belongs to another cluster and is not carried here.
+Rabbi Reuven Chaim Klein, "[Pinchas: Piercing Spears](https://articles.ohr.edu/articles/pinchas-piercing-spears)," *What's in a Word?*, Ohr Somayach, 8 July 2023.
+
+Cited in the essay: Shemos 15:1 and Bamidbar 25:7 with Rav Hirsch; Yehoshua 8:18 with Targum, and 8:26; Shmuel I 17:6 with Radak, and 17:45; Yirmiyahu 6:23, and 50:42 with Radak; Iyov 21:20, 39:23, 41:21; Gittin 70a; Rambam to Keilim 11:8; Menachem Ibn Saruk; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Moshe Tedeschi Ashkenazi, *Otzar Nirdafim*; *Ohalei Yehuda*; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Shmuel Krauss; HALOT; Rabbi Ernest Klein; Rabbi Yehoshua (Jeremy) Steinberg; Dr. Raphael Sappan, additions to Even-Shoshan's dictionary; Elimelech Klein.

@@ -28,8 +28,7 @@ updated: 2026-09-10
 the wilderness and of Gilgal, Shiloh, Nov and Givon. *Mikdash*, or *Beis
 HaMikdash*, is the permanent **Temple** in Yerushalayim. The distinction is
 temporary against permanent, and it shows in the building itself: curtains and
-cloth for the *Mishkan*, walls and a roof for the *Mikdash*. The one thing not
-to get wrong: the Gemara does sometimes use the words for each other, but those
+cloth for the *Mishkan*, walls and a roof for the *Mikdash*. The Gemara does sometimes use the words for each other, but those
 are borrowed usages, not evidence that they are synonyms.
 
 ## At a glance
@@ -44,7 +43,7 @@ are borrowed usages, not evidence that they are synonyms.
 The sources do not split on the meanings. The column notes that Eruvin 2a admits
 the two words are sometimes used almost interchangeably, and rules even so that
 they are not truly synonymous: they name two specific types of holy place, and
-the other usages are simply borrowed meanings. What the article does supply is a
+the other usages are simply borrowed meanings. What the column does supply is a
 middle case. Mishnah Zevachim 14:6 gives the *Mishkan* at Shiloh
 quasi-*Mikdash* status: its stone walls had the properties of a permanent
 edifice, unlike the *Mishkan* everywhere else, yet it was still covered with a
@@ -115,19 +114,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Sacred Spaces](https://articles.ohr.edu/articles/sacred-spaces)," What's in a Word?, Ohr Somayach,
-6 Adar II 5777 (2017-03-04): raw text in
-`sources/whats-in-a-word/raw/7164-sacred-spaces.md`. Primary loci cited: Eruvin
-2a; Mishnah Zevachim 14:6; Yoma 9a-9b; Zevachim 119a; Devarim 12:9. This is a
-historical and halachic piece more than a lexical one: beyond the roots ש-כ-נ and
-ק-ד-ש it names no grammarians, so the distinctions here rest on the Gemara and on
-the physical differences between the two buildings. It cites no material from
-outside the traditional sources, so nothing was dropped here on that account.
+Rabbi Reuven Chaim Klein, "[Sacred Spaces](https://articles.ohr.edu/articles/sacred-spaces)," *What's in a Word?*, Ohr Somayach, 4 March 2017.
 
-Two slips in the article are not repeated. It writes that the Babylonians
-destroyed the first Beis HaMikdash "about 410 years after its destruction,"
-which is a slip for after its building. And in explaining why the *Mikdash* was
-larger it writes "because the latter was meant to be a permanent structure, not
-a movable, temporary one," where the sense requires the former. The article
-closes with the author's note, *le'zechus refuah sheleimah* for Bracha bas Chaya
-Rachel.
+Cited in the essay: Devarim 12:9 with Zevachim 119a; Eruvin 2a; Mishnah Zevachim 14:6; Yoma 9a-9b; Rabbi Avraham Wittenstein.

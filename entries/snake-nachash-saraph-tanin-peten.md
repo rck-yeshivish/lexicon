@@ -89,7 +89,7 @@ his commentary to the Zohar, has *efeh* as the male snake and *nachash* as the
 female; the earlier Polish mekubal Rabbi Natan Nata Shapiro (1585-1633) in
 *Megaleh Amukos* has the two words representing the male and female forces of
 evil, *efeh* the female and *nachash* the male, which agrees with Ibn Parchon.
-The Midrash calls the *efeh* a snake called an *eches* (the article notes it is
+The Midrash calls the *efeh* a snake called an *eches* (the column notes it is
 unclear in which language), believed able to kill a flying bird just by looking
 at its shadow; in Modern Hebrew *eches* is an adder or rattlesnake. Rabbi Shlomo
 Pappenheim of Breslau (1740-1814): the letters פ-ע in the root always denote
@@ -109,7 +109,7 @@ immune to charming and stays dangerous (Tehillim 58:6). Two derivations, both
 his: from *miftan*, a threshold, since whoever meets a *peten* has certainly
 stepped into danger just as whoever enters a house treads on its threshold; or
 from *pitui*, coaxing, for the snake's cajoling Chavah to eat from the Eitz
-HaDaas. The article adds that the English *python* is likely derived from *peten*.
+HaDaas. The column adds that the English *python* is likely derived from *peten*.
 The *Rokeach*: *peten* focuses on a snake's advanced age, *efeh* names one
 extremely old and also large, and *tzefa* is a flying *saraph* with multiple
 tails; Wertheimer cites this too and argues it is based on the otherwise
@@ -157,20 +157,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Slithering Serpents and Sea Snakes, Part 1](https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1)," What's
-in a Word?, Ohr Somayach, 7 Tammuz 5777 (2017-07-01),
-https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1, and
-"Part 2," 21 Tammuz 5777 (2017-07-15),
-https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-2; raw
-text in `sources/whats-in-a-word/raw/7321-slithering-serpents-and-sea-snakes-part-1.md`
-and `sources/whats-in-a-word/raw/7341-slithering-serpents-and-sea-snakes-part-2.md`.
-Primary loci: Avos d'Rabbi Nassan (the seven names); Rashi to Yirmiyahu 8:17,
-Yeshayahu 30:6 and 59:5, Bereishis 1:21, Niddah 22b; Yeshayahu 27:1 with Bava
-Basra 74b; Iyov 20:16; Tehillim 140:4 and 58:6; Bamidbar 21:5 through 21:9;
-Bereishis 49:17; Yerushalmi Terumos 8:3; *Megaleh Amukos*; *Hadras Melech*;
-*Sefer HaChochmah* and the Torah commentary ascribed to Rabbi Elazar Rokeach of
-Worms, cited by Rabbi Yechiel Heilpern. The article places the snake's enticement
-of Chavah at Bereishis 6:1 through 6:6; the locus is Bereishis 3:1 through 3:6.
-Rabbi Aharon Marcus's Akkadian derivation of *shephiphon* and Mitchell First's
-note on English "serpent" are restored to the body, attributed as the article
-attributes them; the *python* derivation is the article's own.
+Rabbi Reuven Chaim Klein, "[Slithering Serpents and Sea Snakes - Part 1](https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1)," *What's in a Word?*, Ohr Somayach, 1 July 2017.
+
+Rabbi Reuven Chaim Klein, "[Slithering Serpents and Sea Snakes - Part 2](https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-2)," *What's in a Word?*, Ohr Somayach, 15 July 2017.
+
+Cited in the essay: Bereishis 1:21 with Rashi, 3:1-6, 49:17; Bamidbar 21:5-9 with Rabbi Yosef Bechor Shor; Yeshayahu 27:1 with Bava Basra 74b, 30:6 with Rashi, and 59:5 with Rashi and Radak; Yirmiyahu 8:17 with Rashi; Tehillim 58:6, 140:4; Iyov 20:16; Niddah 22b with Rashi; Yerushalmi Terumos 8:3; Avos d'Rabbi Nassan; the Midrash on the *eches*; Mahari Kara; Rabbi Shlomo Aharon Wertheimer; Rabbi Aharon Marcus; Rabbi Shlomo Ibn Parchon; Rabbi Yonah ibn Janach; the Vilna Gaon; Malbim; Rabbi Shalom Buzaglo, *Hadras Melech*; Rabbi Natan Nata Shapiro, *Megaleh Amukos*; Rabbi Shlomo Pappenheim; Rabbi Avigdor the Frenchman; Rabbi Yaakov Tzvi Mecklenburg; *Sefer HaChochmah* and the Torah commentary ascribed to Rabbi Elazar Rokeach of Worms, cited by Rabbi Yechiel Heilpern; Rabbi Yaakov Yisroel Stahl; Mitchell First.

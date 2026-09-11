@@ -24,8 +24,7 @@ Yechezkel are read either as sounders of the sea's depth or as **dwarfs** an
 a person or a fence alike. *Gutz* is **stunted**; the column's preferred
 derivation, against two rivals, is a Semitic one from an Aramaic sense of cutting
 off, as though the man's height had been cut short. *Nanas* is the Rabbinic term
-for a **dwarf**, and equally for short boards or low walls. The one thing not to
-get wrong: none of these is exclusively about people, so a short wall in a sugya
+for a **dwarf**, and equally for short boards or low walls. None of these is exclusively about people, so a short wall in a sugya
 is *namuch* or *nanas*, not a metaphor.
 
 The column frames the whole essay on the Gemara (Moed Katan 18a) that the Pharaoh
@@ -114,9 +113,7 @@ so a short man is one whose height seems cut off from what one might otherwise
 have expected. Professor Michael Sokoloff, in *A Dictionary of Jewish Babylonian
 Aramaic of the Talmudic and Geonic Periods*, writes that the Aramaic root
 gimmel-vav-tzadi from which *gutz* derives is a later form of the biblical Hebrew
-root kuf-tzadi-tzadi, which also means "cut off" (the column explains the shift
-by "the interchangeability of GIMMEL And TZADI," evidently a slip for gimmel and
-kuf, the interchange it invokes a few lines earlier).
+root kuf-tzadi-tzadi, which also means "cut off."
 
 ### nanas (ננס)
 The standing Rabbinic word for a dwarf, and the very word Rashi and Radak used
@@ -165,23 +162,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vaera: The Vertically-Challenged](https://articles.ohr.edu/articles/vaera-the-vertically-challenged)," What's in a Word?,
-Ohr Somayach, for the week ending 13 January 2024 / 3 Shevat 5784:
-https://articles.ohr.edu/articles/vaera-the-vertically-challenged; raw text in
-`sources/whats-in-a-word/raw/11205-vaera-the-vertically-challenged.md`. Primary
-loci cited: Shoftim 3:16; Yechezkel 27:11, 40:43; Daniel (via *Yalkut Shimoni*
-§1062); Moed Katan 18a; Gittin 57a; Beitzah 15a; Pesachim 64a, 111a; Chullin 43a;
-Yevamos 106b; Bava Metzia 27b, 59a; Bava Basra 100a; Megillah 27b; Berachos 31b;
-Bechoros 45b; Yoma 16b; *Kilayim* 4:7; *Eruvin* 9:1, 10:15; *Zevachim* 1:2;
-*Kesubos* 10:5; *Gittin* 8:10; *Bava Basra* 7:3, 10:8; *Shevuos* 7:5;
-*Bikkurim* 3:9; *Shabbos* 16:5; *Pesikta DeRav Kahana* §13:5; *Sefer HeAruch*
-and *Musaf HeAruch*; *Sefer Tishbi*; Radak, *Sefer HaShorashim*; Kohut, *Aruch
-HaShaleim*; Sokoloff, *A Dictionary of Jewish Babylonian Aramaic of the Talmudic
-and Geonic Periods*. The article cross-refers to its own earlier piece "The Poor
-and Unfortunate" (May 2019) on *mach*. Its explanation of Sokoloff's shift as an
-interchange of gimmel and tzadi is noted above as an apparent slip and is not
-repeated as written. Restored in this pass, having previously been dropped:
-Rabbi Dr. Ernest Klein (Ethiopic *gwend*, Arabic *jamada*, and the *namuch* /
-*mach* analysis, which the entry had credited to Bachur alone where the article
-credits Klein echoing Bachur), Dr. Alexander Kohut with the whole
-Indo-European rival to Mussafia's Greek, and Professor Michael Sokoloff.
+Rabbi Reuven Chaim Klein, "[Vaera: The Vertically-Challenged](https://articles.ohr.edu/articles/vaera-the-vertically-challenged)," *What's in a Word?*, Ohr Somayach, 13 January 2024.
+
+Cited in the essay: Shoftim 3:16 with Radak, Rashi, Mahari Kara and *Sefer HeAruch*; Yechezkel 27:11 with Rashi, Mahari Kara, Radak and Targum Yonasan, and 40:43 with Rashi; Moed Katan 18a; Gittin 57a; Beitzah 15a; Pesachim 64a with Rashi, and 111a; Chullin 43a; Yevamos 106b; Bava Metzia 27b, 59a; Bava Basra 100a with Rashbam; Megillah 27b; Berachos 31b; Bechoros 45b; Yoma 16b with Rashi; Mishnah *Kilayim* 4:7, *Bikkurim* 3:9, *Shabbos* 16:5, *Eruvin* 9:1, 10:15, *Kesubos* 10:5, *Gittin* 8:10, *Bava Basra* 7:3, 10:8, *Shevuos* 7:5, *Zevachim* 1:2; *Pesikta DeRav Kahana* §13:5; *Yalkut Shimoni* to Daniel §1062; Radak, *Sefer HaShorashim*; Rabbi Yehoshua Steinberg; Rabbi Eliyahu Bachur, *Sefer Tishbi*; Ibn Janach; Ibn Chayyuj; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Rabbi Binyamin Mussafia, *Musaf HeAruch*; Dr. Alexander Kohut, *Aruch HaShaleim*; Rabbi Dr. Ernest Klein; Professor Michael Sokoloff, *A Dictionary of Jewish Babylonian Aramaic of the Talmudic and Geonic Periods*.

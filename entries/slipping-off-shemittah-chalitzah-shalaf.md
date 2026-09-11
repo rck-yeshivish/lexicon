@@ -41,9 +41,8 @@ updated: 2026-09-10
 one's control, which is why the same word covers letting a field lie and letting
 a debt go. *Chalitzah* is **extracting** something from what encloses it.
 *Shalaf* is **drawing** a thing quickly out of a loose holder, most often a sword
-from its sheath. *Shal* is a shoe **slipped off** with no hands at all. The trap:
-all four become "remove" in English, and then Shoresh Yesha's three-way
-distinction among the shoe-removal verbs disappears.
+from its sheath. *Shal* is a shoe **slipped off** with no hands at all. Shoresh Yesha draws a three-way
+distinction among the shoe-removal verbs.
 
 ## At a glance
 
@@ -69,7 +68,7 @@ warrior needs readily at his disposal and the shoe handed over to close a deal
 before the other party backs out; since both must come away swiftly, we would not
 expect either to be fastened too strongly.
 
-The article raises a difficulty of its own here and leaves it open. It calls it
+The column raises a difficulty of its own here and leaves it open. It calls it
 perplexing that the Gemara names a load mounted on an animal a *shlif* (*Bava
 Kamma* 3a; see Rashi to *Bava Kamma* 17b, *Shabbos* 154b, *Eruvin* 16a,
 *Kiddushin* 22b), and says outright that it does not understand why a word for a
@@ -78,9 +77,8 @@ of slipping off. It offers two possibilities, both marked "perhaps": that *shlif
 names precisely that hope, or that *shalaf* in fact denotes the same untying
 that *chalitzah* denotes, against *Shoresh Yesha*, so that *shlif* is what one
 does to the package once it reaches its destination (Rashi to *Bava Basra* 75b
-notes the *shlif* was *tied* to the animal). The article does not choose between
-Pappenheim and *Shoresh Yesha*; the Bottom line here follows Pappenheim and keeps
-*Shoresh Yesha*'s scheme for the shoe cases, and that pairing is ours.
+notes the *shlif* was *tied* to the animal). The
+column does not choose between Pappenheim and *Shoresh Yesha*.
 
 **Are chalitzah and shalaf the same act?** Targum Yonasan renders the verb of the
 *chalitzah* ceremony (Devarim 25:9) with a cognate of *shalaf*, and Rashi (to
@@ -96,13 +94,11 @@ the alef of *alatz* as interchangeable with the ches of *chalatz*, which he
 understands as a metathesized permutation of *lachatz*, pressure. Chazal (*Sotah*
 9b, *Bereishis Rabbah* 52:12) explain *alatz* differently, and concretely, as
 Delilah slipping away (*nishmatah*) from under Shimshon in the throes of
-intimacy as a way of pressing him. The article's own inference from that is that
+intimacy as a way of pressing him. The column's own inference from that is that
 perhaps Chazal took *alatz* as directly related to *chalatz*, slipping, rather
 than to *lachatz*; it then reports finding that contention stated explicitly by
 Rabbi Moshe ben HaNessiah Britannico (13th-century England) in *Sefer HaShoham*
 and by Rabbi Yosef Chaim of Baghdad (1832-1909) in *Ben Yehoyada* to *Sotah* 9b.
-The Bottom line follows the *chalatz* reading, but "pressed" remains the
-rendering either way.
 
 ## Distinctions
 
@@ -129,10 +125,9 @@ it is a *tereifah*, is *shmutas* (*Chullin* 57a), the bone having slipped out of
 place. Rashi widens the root further to escaping danger or fleeing trouble
 (Bereishis 19:17, Iyov 1:15), and rabbinic usage has *hishmit* for skipping a
 letter in writing a sefer Torah or a pasuk in reading it (*Megillah* 18b),
-whence the *hashmatos*, the omissions, at the back of many sefarim. Note that
-despite its currency in speech, *Shemittah* is fairly rare in the Bavli outside
+whence the *hashmatos*, the omissions, at the back of many sefarim. Despite its currency in speech, *Shemittah* is fairly rare in the Bavli outside
 quotations of these pesukim (*Nazir* 8b, *Sotah* 41a, *Gittin* 36a, *Bava Metzia*
-30b and 48b, *Sanhedrin* 32a, *Shevuos* 44b, and, the article adds, several other
+30b and 48b, *Sanhedrin* 32a, *Shevuos* 44b, and, the column adds, several other
 places).
 
 ### chalitzah (חליצה)
@@ -197,23 +192,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Year of Slipping Away (Part 1 of 2)](https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2)," What's in a
-Word?, Ohr Somayach, 13 Iyar 5782 (2022-05-14): raw text in
-`sources/whats-in-a-word/raw/9682-the-year-of-slipping-away-part-1-of-2.md`. Part
-2, "The Year of Seven," treats *sheviis* and the words built on *sheva*; see the
-entry for that cluster. Primary loci the article cites: Bereishis 10:26, 19:17,
-32:25, 35:11; Shemos 3:5, 23:10-11; Vayikra 14:40, 14:43; Bamidbar 22:23, 22:31,
-31:3, 32:30; Devarim 3:18, 15:1-3, 15:9, 19:5, 25:9, 31:10; Yehoshua 5:13, 5:15;
-Shoftim 3:22, 8:10, 8:20, 9:54, 16:16, 20:2, 20:15, 20:17, 20:25, 20:35, 20:46;
-Rus 4:7-8; Shmuel I 17:51, 31:4, 31:8-9; Shmuel II 6:6, 24:9; Melachim I 5:19;
-Melachim II 3:26, 9:33; Yeshayahu 5:27, 11:5, 32:11, 58:11; Yirmiyahu 30:6;
-Tehillim 140:2; Iyov 1:15, 38:3, 40:7; Daniel 5:6; Divrei HaYamim I 1:20, 10:4,
-10:8, 13:9, 21:16, 21:25; Divrei HaYamim II 6:9; *Makkos* 2:1; *Yevamos* 102a;
-*Sotah* 9b, 41a; *Chullin* 53a, 57a; *Gittin* 33b, 36a; *Megillah* 18b; *Nazir*
-8b; *Bava Kamma* 3a, 17b; *Bava Metzia* 30b, 48b; *Bava Basra* 75b; *Shabbos*
-154b; *Eruvin* 16a; *Kiddushin* 22b; *Sanhedrin* 32a; *Shevuos* 44b; *Vayikra
-Rabbah* 34:15; *Bereishis Rabbah* 52:12. Two notes on the article's own wording:
-it calls Shimshon Delilah's husband at Shoftim 16:16, which the pesukim do not
-say, and its list of Bavli occurrences of *Shemittah* is left open with "and
-several other places." Rabbi Dr. Ernest Klein's report of Prof. Joseph Klausner's
-coinage of *chultzah* is restored to the body, as the article gives it.
+Rabbi Reuven Chaim Klein, "[The Year of Slipping Away (Part 1 of 2)](https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2)," *What's in a Word?*, Ohr Somayach, 14 May 2022.
+
+Cited in the essay: Bereishis 10:26 with Targum Yonasan, 19:17 with Rashi, 32:25 with Ramban, 35:11; Shemos 3:5, and 23:10-11 with Rashi; Vayikra 14:40, 14:43; Bamidbar 22:23, 22:31, 31:3, 32:30; Devarim 3:18, 15:1 with Ibn Ezra, 15:2-3, 15:9, 19:5 with Rashi, 25:9 with Targum Yonasan, 31:10; Yehoshua 5:13, 5:15; Shoftim 3:22, 8:10, 8:20, 9:54, 16:16, 20:2, 20:15, 20:17, 20:25, 20:35, 20:46; Rus 4:7-8; Shmuel I 17:51, 31:4, and 31:8-9 with Targum; Shmuel II 6:6 with Ibn Janach and Rashi, and 24:9; Melachim I 5:19; Melachim II 3:26, and 9:33 with Radak; Yeshayahu 5:27, 11:5, 32:11, and 58:11 with Radak; Yirmiyahu 30:6; Tehillim 140:2; Iyov 1:15 with Rashi, 38:3, 40:7; Daniel 5:6; Divrei HaYamim I 1:20 with Targum Rav Yosef, 10:4, 10:8 with Targum, 13:9, 21:16, 21:25; Divrei HaYamim II 6:9; Mishnah *Makkos* 2:1; *Yevamos* 102a; *Sotah* 9b with *Ben Yehoyada*, and 41a; *Chullin* 53a with Rashi, and 57a; *Gittin* 33b with Rashi, and 36a; *Megillah* 18b; *Nazir* 8b; *Bava Kamma* 3a, and 17b with Rashi; *Bava Metzia* 30b, 48b; *Bava Basra* 75b with Rashi; Rashi to *Shabbos* 154b, *Eruvin* 16a and *Kiddushin* 22b; *Sanhedrin* 32a; *Shevuos* 44b; *Vayikra Rabbah* 34:15; *Bereishis Rabbah* 52:12; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim; *Shoresh Yesha*; Rabbi Moshe ben HaNessiah Britannico, *Sefer HaShoham*; Rabbi Yosef Chaim of Baghdad, *Ben Yehoyada*; Rabbi Dr. Ernest Klein; Prof. Joseph Klausner.

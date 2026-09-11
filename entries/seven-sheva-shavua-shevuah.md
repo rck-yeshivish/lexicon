@@ -47,7 +47,7 @@ for it. *Shavua* is a **week**, but in Daniel and in several mishnayos it is a
 **seven-year cycle**, so context decides. *Shabbos* is the day, and by
 synecdoche the **week** it closes and the Sabbatical **year** itself (Ramban).
 *Shevuah* is an **oath**, tied to *sheva* by every authority here, though they
-part on why. Do not translate *sheva* as "seven" where the sources read it as
+part on why. *Sheva* is not "seven" where the sources read it as
 "many" (Rasag to Bereishis 4:24 and Mishlei 24:16).
 
 ## At a glance
@@ -79,8 +79,7 @@ Rabbi Yaakov Tzvi Mecklenburg objects that
 nowhere else in Tanach does *shabbos* mean week, and reads it there in its plain
 sense of ceasing: between the Omer on the second day of Pesach and the Two Loaves
 on Shavuos no new grain is used in the Mikdash, so those weeks are themselves a
-cessation. The Bottom line follows Ibn Ezra, Ramban, and Onkelos, since the
-Targum is decisive for how the pasuk was read.
+cessation.
 
 **Shabbos or shavua, when both mean week.** Mecklenburg: *shabbos* is
 specifically the calendar week that runs from Sunday to Shabbos, which lends the
@@ -90,8 +89,7 @@ too means the calendar week, and draws a consequence: if the *shavuos* counted t
 the festival are calendar weeks, the count would always begin on a Sunday, which
 is the heretical Tzedoki position; on his account the name Shavuos lends credence
 to it, and that is why Chazal refrained from using it and called the festival
-*Atzeres* instead. The Bottom line follows
-Mecklenburg, on whose reading the difficulty does not arise.
+*Atzeres* instead.
 
 **Why an oath is a shevuah.** Five accounts, none of them exclusive:
 
@@ -173,7 +171,7 @@ grows out of returning, and a captive is forced into that same stillness.
 Mecklenburg holds that seven's cyclical importance is embedded in creation, since
 the week answers to no astronomical cycle as day, month, and year do; he points
 to the seven musical notes, and Rabbi Moshe Zuriel to the seven colors of the
-rainbow, to which the article adds the seven planets visible to the naked eye,
+rainbow, to which the column adds the seven planets visible to the naked eye,
 the seven letters that take a *dagesh*, the seven orifices of the head (*Sefer
 Yetzirah* 4:3), and perhaps the reputed seven-chambered uterus. The column then
 qualifies itself: the first examples are not foolproof and could be understood
@@ -208,27 +206,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Year of Seven (Part 2 of 2)](https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2)," What's in a Word?,
-Ohr Somayach, 20 Iyar 5782 (2022-05-21): raw text in
-`sources/whats-in-a-word/raw/9694-the-year-of-seven-part-2-of-2.md`. The article
-says its first essay treated *shemittah*, "slipping away"; that piece is in this
-corpus as "The Year of Slipping Away (Part 1 of 2)." It also points the reader
-to its earlier "Stop! It's Shavuot" (May 2018) on the name *Atzeres*. Primary loci the
-article cites: Bereishis 4:24, 21:23-33, 24:9, 29:27-28; Shemos 23:11; Vayikra
-12:5, 23:11, 23:15-16, 25:2-8, 25:20, 26:18, 26:24, 26:28, 26:34-35; Bamidbar
-30:3; Devarim 6:13, 10:20, 15:12, 16:9; Mishlei 24:16; Tehillim 90:10 (the
-article prints 90:19); Daniel 4:24, 9:25-27, 10:2-3; Nechemiah 10:32; Divrei
-HaYamim II 15:11-15, 36:21; *Shevuos* 36a; *Pesachim* 12a, 86a; *Moed Katan*
-12a; *Sotah* 44a; *Bava Metzia* 110b; *Sanhedrin* 97a; *Sefer Yetzirah* 4:2-3;
-*Sefer HaChinuch* mitzvah 330; the mishnayos listed above for *shabbos* as week
-and *shavua* as a seven-year cycle.
+Rabbi Reuven Chaim Klein, "[The Year of Seven (Part 2 of 2)](https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 21 May 2022.
 
-Two slips in the article are not repeated. In citing the seventy-year lifespan
-from the Shelah it prints Tehillim 90:19; that perek has seventeen pesukim and
-the verse is 90:10. And in giving the Omer pesukim it prints "Lev. 23:11,
-11:15-16," where the second reference is a garble for 23:15-16.
-
-The Brown-Driver-Briggs account of the oath, which the article quotes, was
-formerly omitted here under an Orthodox-sources rule that does not belong to this
-guide. It is restored: it is the link the column uses to get from the repetition
-argument to the seven treaty animals.
+Cited in the essay: Bereishis 4:24 with Rasag's *Tafsir*, 21:23-33 with Rav Hirsch to 21:23 and Ibn Ezra to 21:31, 24:9 with Targum Onkelos, 29:27-28; Shemos 23:11; Vayikra 12:5, 23:15-16 with Ibn Ezra, Ramban and Targum Onkelos, 25:2, 25:4, 25:6, 25:8, 25:20, 26:18, 26:24, 26:28, 26:34-35; Bamidbar 30:3 with Ramban; Devarim 6:13, 10:20, 15:12, 16:9; Tehillim 90:10; Mishlei 24:16 with Rasag, Ibn Ezra and Ralbag; Daniel 4:24, 9:25-27, 10:2-3; Nechemiah 10:32; Divrei HaYamim II 15:11-15, 36:21; Mishnah *Sheviis* 2:6, 4:7-9, *Taanis* 4:7, *Megillah* 3:4, *Kesubos* 1:1, 5:6-7, *Nedarim* 8:1, *Bava Metzia* 9:10, 9:11, *Bava Basra* 5:10, *Sanhedrin* 5:1, *Makkos* 1:10, *Eduyos* 4:10, *Erachin* 2:1, *Negaim*, *Parah* 8:9, *Niddah* 4:5; *Shevuos* 36a with Rashi; Rashi to *Pesachim* 12a, 86a, *Moed Katan* 12a, *Sotah* 44a, *Bava Metzia* 110b, *Sanhedrin* 97a; *Sefer Yetzirah* 4:2-3; *Sefer HaChinuch*, mitzvah 330; Rambam's count of the 613 mitzvos; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Moshe Elyakim Briah Hopstein; Rabbi Dr. Alter HaLevi Hilowitz; Rabbi Moshe Zuriel; Rabbi Yitzchok Avigdor Lubchansky; the Shelah; the Brown-Driver-Briggs lexicon.

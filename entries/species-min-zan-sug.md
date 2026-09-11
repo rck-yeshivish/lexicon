@@ -27,11 +27,10 @@ loanword; in its three Hebrew appearances the meforshim argue whether it means
 "type" at all. *Sug* is post-biblical, in the Mishnah a big container, and in
 the language of logic the **parent category** (genus) above the *min* (Rambam in
 Rabbi Moshe Ibn Tibbon's translation, Rabbi Shmuel Ibn Tibbon, the Ran,
-Ramchal). The one thing not to get wrong: the Torah's *minim* do not necessarily
+Ramchal). The Torah's *minim* do not necessarily
 line up with the species of modern botany and zoology, as the column notes; the
 Ran reads the *minim* of the Teivah as the ancestors of today's species, though
-Ramban answers the Teivah's capacity with a miracle instead. So "species" in a
-translation should be understood as "kind."
+Ramban answers the Teivah's capacity with a miracle instead.
 
 ## Distinctions
 
@@ -190,20 +189,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shemini: Types of Species](https://articles.ohr.edu/articles/shemini-types-of-species)," What's in a Word?, Ohr
-Somayach, 24 Nisan 5783 (2023-04-15): raw text in
-`sources/whats-in-a-word/raw/10897-shemini-types-of-species.md`. Primary loci:
-Bereishis 1:11-12, 1:21, 1:24-25, 6:14, 6:19 and the Teivah narrative of
-Bereishis 6-7; Shemos 16:15, 20:4; Vayikra 11:14-19, 11:22, 11:29; Devarim
-14:13-18; Yeshayahu 65:11; Yechezkel 47:10; Tehillim 144:13, 150:4; Shir
-HaShirim 7:3; Daniel 3:5, 3:7, 3:10, 3:15; Divrei HaYamim II 16:14; Mishnah
-*Demai* 5:6, *Keilim* 16:3, *Avos* 1:1; *Bava Kamma* 16b; Ibn Janach and Radak,
-*Sefer HaShorashim* (Radak s.v. זון and s.v. פוק); *Machberes Menachem*; Shadal
-and Rav Hirsch to Shemos 20:4; Rav Hirsch to Tehillim 144:13; Ibn Ezra, *Sefas
-Yeser* 95, and to Tehillim 150:4 and Daniel 3:5; Ramban to Bereishis 6:19; the
-Ran to Bereishis 6:14; Rambam, *Milos HaHigayon* 10 (Rabbi Moshe Ibn Tibbon's
-translation); Rabbi Shmuel Ibn Tibbon, *Peirush HaMilos HaZaros*; *Derashos
-HaRan* 12; Ramchal, *Derech Tevunos* 11:9; Rabbi Eliyahu HaBachur, *Sefer
-HaTishbi* and *Meturgeman*; Professor Avi Hurvitz; Dr. Menachem Zvi Kaddari's
-dictionary of Biblical Hebrew. The column prints *Machberes Menachem*'s entry
-as "MUM-NUN," a slip for MEM-NUN.
+Rabbi Reuven Chaim Klein, "[Shemini: Types of Species](https://articles.ohr.edu/articles/shemini-types-of-species)," *What's in a Word?*, Ohr Somayach, 15 April 2023.
+
+Cited in the essay: Bereishis 1:11-12, 1:21, 1:24-25, 6:14 with the Ran, 6:19 with Ramban, and the Teivah narrative of Bereishis 6-7; Shemos 16:15, and 20:4 with Shadal and Rav Hirsch; Vayikra 11:14-19, 11:22, 11:29; Devarim 14:13-18; Yeshayahu 65:11; Yechezkel 47:10; Tehillim 144:13 with Rav Hirsch and Radak, and 150:4 with Ibn Ezra and Rashi; Shir HaShirim 7:3; Daniel 3:5 with Rashi and Ibn Ezra, 3:7, 3:10, 3:15; Divrei HaYamim II 16:14 with pseudo-Rashi, Ralbag and Radak; Mishnah *Demai* 5:6, *Keilim* 16:3, *Avos* 1:1; *Bava Kamma* 16b; Ibn Janach and Radak, *Sefer HaShorashim* (Radak s.v. זון and s.v. פוק); Menachem Ibn Saruk, *Machberes Menachem*; Donash Ibn Labrat; Rav Saadia Gaon; Ibn Ezra, *Sefas Yeser* 95; Rabbi Shlomo Pappenheim; Rabbi Yehoshua (Jeremy) Steinberg; Rambam, *Milos HaHigayon* 10, in Rabbi Moshe Ibn Tibbon's translation; Rabbi Shmuel Ibn Tibbon, *Peirush HaMilos HaZaros*; *Derashos HaRan* 12; Ramchal, *Derech Tevunos* 11:9; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgeman*; Professor Avi Hurvitz; Dr. Menachem Zvi Kaddari's dictionary of Biblical Hebrew.

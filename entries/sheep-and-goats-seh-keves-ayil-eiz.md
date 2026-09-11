@@ -22,16 +22,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Sort by species before reaching for an English word. General (either species):
+The words sort by species. General (either species):
 *seh* = **a lamb or kid**, one animal; *tzon* = **flock**. Goats: *eiz* =
 **she-goat**, *tayish* = **he-goat**, *gedi* and *seir* = **kid**. Sheep:
-*rachel* = **ewe**, *ayil* = **ram**, *keves* and *tleh* = **lamb**. *Kesev* is
-either an exact metathesis of *keves* or a slightly older or more general sheep,
-depending on whose reading you follow. *Atud* is the one word the column leaves
+*rachel* = **ewe**, *ayil* = **ram**, *keves* and *tleh* = **lamb**. *Kesev* is,
+on one reading, an exact metathesis of *keves*, and on others a slightly older or more general sheep. *Atud* is the one word the column leaves
 genuinely unsettled: any goat, or an extra-large adult goat, or a fat young
-sheep, or any adult male of either species. The trap is English "sheep," which
-will swallow *seh*, *tzon*, *keves*, *kesev*, and *tleh* together and lose the
-species in the bargain.
+sheep, or any adult male of either species.
 
 ## Distinctions
 
@@ -170,20 +167,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Ovine and Caprine Families](https://articles.ohr.edu/articles/the-ovine-and-caprine-families)," What's in a Word?,
-Ohr Somayach, 9 Kislev 5780 (2019-12-07):
-https://articles.ohr.edu/articles/the-ovine-and-caprine-families; raw text in
-`sources/whats-in-a-word/raw/8505-the-ovine-and-caprine-families.md`. Primary
-loci cited: Shemos 12:5, 23:19; Bamidbar 7:17, 15:11, 15:25; Devarim 14:4,
-32:2, 32:14; Vayikra 1:10, 3:7, 4:32, 16:5; Bereishis 30:32, 31:10; Shmuel I
-7:9; Yeshayahu 1:11; Yirmiyahu 50:8, 51:40; Yechezkel 27:21; Tehillim 50:13;
-Yehoshua 6:4-5; Daniel 8:8, 8:21; Menachos 13:7, 91b, 107b; Megillah 5b (via
-Rashi); *Parah* 1:3, 3:3; *Bechoros* 5:3; Bava Kama 50a; Yevamos 121b; Rosh
-Hashanah 26a; *Pesikta Rabbasi*; Rambam, *Hilchos Maaseh HaKorbanos* 1:14, with
-a referral to *Aruch HaShulchan HeAsid* on the two versions; *Turei Zahav*,
-*Orach Chaim* §143:2. The article gives no locus for Rabbi David Ibn Zimra, for
-Rabbi Meir Mazuz, or for Rabbi Pappenheim's several derivations, and none is
-supplied here. Restored in this pass, having previously been dropped: the
-comparative Arabic *enzu* for *eiz* and the Akkadian *lahru* for *rachel*, each
-as the column gives it and under the word the column attaches it to, and the
-derivation of English "jubilee" from *yovel*.
+Rabbi Reuven Chaim Klein, "[The Ovine and Caprine Families](https://articles.ohr.edu/articles/the-ovine-and-caprine-families)," *What's in a Word?*, Ohr Somayach, 7 December 2019.
+
+Cited in the essay: Bereishis 30:32 with Rav Hirsch, and 31:10 with Targum Onkelos, Ramban and *Peirush HaTur HaAruch*; Shemos 12:5, 23:19; Vayikra 1:10 with the Netziv, *HaEmek Davar*, 3:7 with *Panei'ach Raza* and *Baal HaTurim*, 4:32 with *Peirush HaRokeach*, and 16:5 with Abarbanel; Bamidbar 7:17 with Targum Onkelos, 15:11, and 15:25 with Ibn Ezra; Devarim 14:4, 32:2 with Rav Hirsch, 32:14; Yehoshua 6:4-5; Shmuel I 7:9; Yeshayahu 1:11 with Rashi and Ibn Ezra; Yirmiyahu 50:8, 51:40; Yechezkel 27:21; Tehillim 50:13 with Rabbi Yosef Chiyyun; Daniel 8:8, 8:21; Mishnah *Menachos* 13:7, *Bechoros* 5:3, *Parah* 1:3, 3:3; Rashi to Menachos 91b, 107b and to Megillah 5b; Bava Kama 50a; Yevamos 121b; Rosh Hashanah 26a; *Pesikta Rabbasi*; Rambam, *Hilchos Maaseh HaKorbanos* 1:14; *Aruch HaShulchan HeAsid*; *Turei Zahav*, *Orach Chaim* 143:2; Ibn Parchon; Rabbi Yishaya of Trani; Radak; Rabbi Shlomo Pappenheim; Rabbi David Ibn Zimra; Rabbi Shmuel Strashun; Malbim; Rabbi Meir Simcha of Dvinsk; Rabbi Aharon Marcus; Rabbi Yisrael David Miller of Grodno; Rabbi Meir Mazuz.

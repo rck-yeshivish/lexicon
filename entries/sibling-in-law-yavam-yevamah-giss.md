@@ -42,14 +42,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Yavam* and *yevamah* belong to *yibbum*: render them **the levir** and **the
-widow**, or **brother-in-law** and **sister-in-law** where the mitzvah context is
-plain. *Giss* is the Mishnaic word, a man's word for his wife's brother and by
+*Yavam* and *yevamah* belong to *yibbum*: **the levir** and **the
+widow**, the **brother-in-law** and **sister-in-law** of the mitzvah. *Giss* is the Mishnaic word, a man's word for his wife's brother and by
 most usage his sister's husband too. Biblical Hebrew has no general word for a
 sibling-in-law, only *eishes achiv*. English "brother-in-law" covers four
-relations at once, a woman's husband's brother, a woman's sister's husband, a
-man's wife's brother and a man's sister's husband, so name the relation rather
-than leaning on it.
+relations at once, a woman's husband's brother, a woman's sister's husband, a man's wife's brother and a man's sister's husband.
 
 ## At a glance
 
@@ -128,8 +125,6 @@ brothers call each other *yevamos* (Rus 1:15). For HaBachur both a man's sister'
 husband and his wife's brother may be called *giss*, so two men married to two
 sisters are *gissim*; he concedes that a man might call his brother's wife or his
 wife's sister *gisaso*, but holds that a borrowed rather than the primary sense.
-The Bottom line follows HaBachur and the *Nimukei Yosef*, both fitting the
-Talmudic usage.
 
 **Whether *choten* can mean brother-in-law.** Ibn Janach (990-1050) says yes,
 adducing it from his understanding that Chovav ben Reuel was a son of Moshe's
@@ -161,7 +156,7 @@ husband's brother's wife.
 ### giss (גיס)
 Root ג-ס, which does not appear in Tanach at all; the two letters never stand
 adjacent anywhere in it. In Mishnaic Hebrew the two-letter string yields four
-senses, each with a long list of loci in the article: "mixing" (among them
+senses, each with a long list of loci in the column: "mixing" (among them
 *Pesachim* 5:10), "army" (*Rosh Hashanah* 2:5), "thick" (*Shabbos* 4:1), and
 "familiar, intimate" (*Yevamos* 4:10, *Avos* 4:7). Rabbi Yaakov Emden (1697-1776)
 submits that *giss* as brother-in-law relates to the last of these, connoting
@@ -210,24 +205,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/sort-of-siblings)," What's in a Word?, Ohr Somayach,
-for the week ending 21 August 2021 / 13 Elul 5781:
-https://articles.ohr.edu/articles/sort-of-siblings; raw text in
-`sources/whats-in-a-word/raw/9338-sort-of-siblings.md`. Primary loci the article
-cites: Devarim 25:5; Bereishis 38:8-9; Vayikra 3:4, 18:16, 20:21; Rus 1:15;
-Bamidbar 10:29; Shoftim 4:11; Yeshayahu 60:4, 66:12; Tehillim 10:2, 10:4, 76:13,
-101:5; Mishlei 16:18; *Mishnah Yevamos* 15:4 and 4:10; *Mishnah Sanhedrin* 3:4;
-*Mishnah Pesachim* 5:10; *Rosh Hashanah* 2:5; *Shabbos* 4:1; *Avos* 4:7;
-*Kilayim* 1:4; *Maasros* 1:3; *Uktzin* 1:6; Chullin 18b with Ritva; Bava Metzia
-84a; Zevachim 102a; *Nimukei Yosef*, Sanhedrin 6a in the Alfasi pagination; Ibn
-Ezra to Bereishis 38:8; *Meshech Chochmah* to Devarim 25:5. The article's lists
-of loci for the four Mishnaic senses of ג-ס are much longer than the samples
-kept above, which are drawn from those lists. It gives no locus for Rabbi
-Pappenheim, Rabbi Mecklenburg, Rabbi Heidenheim, Rabbi Emden, HaBachur, Rabbi
-Tanchum, Ibn Janach or Radak. Restored in this pass, having previously been
-dropped: the Latin *levir* behind "levirate marriage"; the Akkadian cognate of
-*choten* and the Yiddish *shvugger* / *shver* pair with their proto-Germanic
-*swehuraz* and proto-Indo-European *swekuros*, which are the article's only
-support for the Ibn Janach position the entry already carried; and the column's
-note that Ibn Janach and Radak both seem to disregard the Midrashic position that
-Reuel and Chovav are alternate names for Yisro.
+Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/sort-of-siblings)," *What's in a Word?*, Ohr Somayach, 21 August 2021.
+
+Cited in the essay: Bereishis 38:8 with Ibn Ezra, and 38:9; Vayikra 3:4 with Targum, 18:16, 20:21; Bamidbar 10:29; Devarim 25:5 with *Meshech Chochmah*; Shoftim 4:11; Yeshayahu 60:4, 66:12 with Targum; Tehillim 10:2, 10:4, 76:13, 101:5 and Mishlei 16:18 with Targum; Rus 1:15; Mishnah *Kilayim* 1:4, *Maasros* 1:3, *Shabbos* 4:1, *Pesachim* 5:10, *Rosh Hashanah* 2:5, *Yevamos* 4:10, 15:4, *Sanhedrin* 3:4, *Avos* 4:7, *Uktzin* 1:6, with the Yerushalmi's text and the Kaufmann manuscript; Chullin 18b with Ritva; Bava Metzia 84a; Zevachim 102a; *Nimukei Yosef*, Sanhedrin 6a in the Alfasi pagination; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Wolf Heidenheim; Rabbi Eliyahu HaBachur; Rabbi Tanchum HaYerushalmi; Rabbi Yaakov Emden; Rabbi Yosef Teomim-Frankel, *Pri Megadim*; Ibn Janach; Radak.

@@ -38,11 +38,9 @@ inherently disgraceful kind: **humiliation** (or **disgrace**). *Cherpah* is
 shame inflicted by another's insult or reproach: **disgrace, reproach**; its
 partner *chafrah* is the mortified wish to dig a hole and hide:
 **mortification**. In Tanach *bushah* is always written first when it stands
-beside *klimah* or *cherpah*, so keep that order in English ("shame and
-humiliation," never the reverse). *Why* it stands first is disputed: the
+beside *klimah* or *cherpah*. *Why* it stands first is disputed: the
 grammarians read the order as ascending intensity, while others read it as
-chronological sequence, so do not build a derashah on intensity without saying
-whose reading it is.
+chronological sequence.
 
 ## At a glance
 
@@ -55,8 +53,7 @@ whose reading it is.
 
 ## Where the authorities disagree
 
-**Why bushah always precedes klimah in a pasuk.** Three readings, and the choice
-changes nothing in translation but everything in a derashah.
+**Why bushah always precedes klimah in a pasuk.** Three readings.
 
 1. **Intensity.** Radak (to Yeshayahu 45:16 and *Sefer HaShorashim*), Rabbeinu
    Yonah (*Shaarei Teshuvah*), and Rabbi Avraham Bedersi (*Chotam Tochnit*):
@@ -71,9 +68,7 @@ changes nothing in translation but everything in a derashah.
    root BET-SHIN, which also means "delaying," because shame first delays the
    normal circulation of the blood and reddens the face; *klimah* is the later
    stage, when the blood rushes away and the face pales, and so it comes after
-   *bushah* chronologically rather than in intensity. (The column writes that
-   *klimah* "proceeds" *bushah*; from the argument it plainly means that
-   *klimah* comes later.) *Chafrah*, for Satanow, is the shamed man's reaction:
+   *bushah* chronologically rather than in intensity. *Chafrah*, for Satanow, is the shamed man's reaction:
    he begins to search and "dig" (*chofer*) for an answer to justify what he
    did.
 3. **Cause, then effect.** Rabbi Yehuda Leib Shapira-Frankfurter (1743 to 1826)
@@ -86,8 +81,7 @@ changes nothing in translation but everything in a derashah.
 **Which word is the most intense.** Bedersi says *klimah*. Malbim says
 *chafrah*, one who would bury his head. Rabbi David Chaim Chelouche (1920 to 2016),
 the late Chief Rabbi of Netanya, says *cherpah*, more intense than *bushah* and
-*klimah* both. The three are not reconcilable; follow Bedersi for the common
-*bushah*/*klimah* pair, and Malbim where *chafrah* appears.
+*klimah* both. The three are not reconcilable.
 
 **Whether cherpah belongs to this cluster at all.** Bedersi treats it as
 disparagement, a word about what others say, not about what the ashamed man
@@ -175,8 +169,8 @@ resembling the paled face of a shamed man.
 
 - Doubled pair בושה וכלימה: "shame and humiliation." Keep the order; the Hebrew
   order is fixed, though what it marks is disputed.
-- Standalone בושה in a mussar context: "shame." Do not reach for "embarrassment"
-  in a sefer; it reads light and modern.
+- Standalone בושה in a mussar context: "shame." Do not reach for "embarrassment";
+  it reads light and modern.
 - כלימה alone: "humiliation" when the source is another person, "disgrace" when
   the deed itself is the disgrace.
 - חרפה: "disgrace" or "reproach" (KJV-style "reproach" fits a pasuk); חפרה:
@@ -191,22 +185,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[An Utter Embarrassment](https://articles.ohr.edu/articles/an-utter-embarrassment)," What's in a Word?, Ohr
-Somayach, for the week ending 17 September 2022 (the archived header gives the
-Hebrew date as 21 Elul, with the year misprinted 5787): raw text in
-`sources/whats-in-a-word/raw/9907-an-utter-embarrassment.md`. The article frames
-the essay with Rabbeinu Yonah of Gerona (1180 to 1263), whose twenty-step teshuvah
-program in *Shaarei Teshuvah* puts shame at the sixth stage; it gives no
-chapter-and-siman for that passage. Primary loci the article cites: Radak to
-Yeshayahu 45:16 and *Sefer HaShorashim*; Bedersi, *Chotam Tochnit*; Rav Hirsch to
-Vayikra 13:59 and Tehillim 139:16; *Bava Metzia* 58b on blushing then paling
-(cited by the article for Satanow's reading); Vayikra 19:20 (*charufah*, cited
-for Chelouche); Yirmiyahu 2:26 (cited for Edel); Tzefaniah 2:1 (cited for Rabbi
-Yosef Kimchi); Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2; Rabbi Eliyahu
-HaBachur, *Meturgaman*. The article cross-refers to two of its own earlier
-pieces, "Disgraceful Disparagement" (November 2021) on *cherpah* as
-disparagement, and "Better Late Than…" (March 2020) on *bushah* and *boshesh*.
-The article does not attribute the ח-פ-ר / ח-ו-ר metathesis to any authority; it
-offers it as its own conjecture, and the entry marks it so. Restored in this
-pass, having previously been dropped: Isaac Satanow, Rabbi David Chaim Chelouche,
-Rabbi Dovid Golumb, Rabbi Yosef Kimchi and the Maharal.
+Rabbi Reuven Chaim Klein, "[An Utter Embarrassment](https://articles.ohr.edu/articles/an-utter-embarrassment)," *What's in a Word?*, Ohr Somayach, 17 September 2022.
+
+Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim*; Rabbeinu Yonah, *Shaarei Teshuvah*; Rabbi Avraham Bedersi, *Chotam Tochnit*; Isaac Satanow; Rabbi Yehuda Leib Shapira-Frankfurter; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche; Rabbi Yehuda Leib Edel; Rabbi Dovid Golumb; Targum; Rabbi Eliyahu HaBachur, *Meturgaman*; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.

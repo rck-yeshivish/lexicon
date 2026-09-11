@@ -25,8 +25,7 @@ the look of one positioned above what he sees. *Mashkif* is **looking out** or
 takes it as boding ill. *Tzofeh* is **gazing** at what is not present to the eye,
 which is why a navi is a *tzofeh* and why waiting for what has not yet come is
 *mitzapeh*. *Shur* is seeing from far off, *metzitz* is **peeking** through a
-narrow opening, and *mashgiach* is watching that acts on what it sees. The trap
-is English "look," which will absorb *hibit*, *mashkif*, and *metzitz* at once.
+narrow opening, and *mashgiach* is watching that acts on what it sees.
 
 ## Distinctions
 
@@ -122,19 +121,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Seeing is Believing](https://articles.ohr.edu/articles/seeing-is-believing)," What's in a Word?, Ohr Somayach,
-15 Cheshvan 5778 (2017-11-04):
-https://articles.ohr.edu/articles/seeing-is-believing; raw text in
-`sources/whats-in-a-word/raw/7463-seeing-is-believing.md`. Primary loci: Vilna
-Gaon to Yeshayahu 5:12 and to Mishlei 15:3; Bereishis Rabbah 44:12; Midrash to
-Koheles 5:1; Rashi to Bereishis 18:16 and to *Berachos* 29a; Devarim 26:15;
-Radak, *Sefer HaShorashim* s.v. שקף; *Sefer HaChochmah* ascribed to Rabbi Elazar
-Rokeach of Worms; Shir HaShirim 2:9. The article closes with the author's
-dedication, *l'ilui nishmas* his mother Bracha bas Reb Dovid and his grandmother
-Shprintza bas Reb Meir.
+Rabbi Reuven Chaim Klein, "[Seeing is Believing](https://articles.ohr.edu/articles/seeing-is-believing)," *What's in a Word?*, Ohr Somayach, 4 November 2017.
 
-A sentence naming *HaKesav VeHaKabbalah* as the work in which Rabbi Yaakov Tzvi
-Mecklenburg writes has been cut from this paragraph. The article names him but
-never names the sefer, and this guide reports the article. Nothing in the
-article comes from outside the traditional sources except its Latin tag *deus
-otiosus*, which is now restored to the *mashgiach* section.
+Cited in the essay: Bereishis 18:16 with Rashi; Devarim 26:15; Yeshayahu 5:12 with the Vilna Gaon; Mishlei 15:3 with the Vilna Gaon; Shir HaShirim 2:9; Koheles 5:1 with the Midrash; *Bereishis Rabbah* 44:12; Rashi to *Berachos* 29a; Malbim; Rabbi Yaakov Tzvi Mecklenburg; Radak, *Sefer HaShorashim*, s.v. שקף; Rabbi Shlomo Aharon Wertheimer; *Sefer HaChochmah*, ascribed to Rabbi Elazar Rokeach of Worms; Rabbi Shlomo Pappenheim; Rabbi Moshe Shapiro.

@@ -23,12 +23,10 @@ Malbim's second view the specifically religious song of Hashem's praise; when
 the two stand together *shirah* comes first, *zimrah* second, because *zimrah*
 is the higher (Malbim). *Mizmor* is **psalm** as a title, and in the
 superscriptions *mizmor shir* / *shir mizmor* the *mizmor* is the tune and the
-*shir* the words (Pappenheim and Pincus, whom the article calls two credible
+*shir* the words (Pappenheim and Pincus, whom the column calls two credible
 authorities who beg to differ with Ibn Ezra, who holds there is no difference).
-The thing not to get wrong: שירו וזמרו is "sing and play," two acts, not "sing
-and sing."
 
-The article opens by quoting the American historian Cyrus Gordon (1908-2001) to
+The column opens by quoting the American historian Cyrus Gordon (1908-2001) to
 the effect that the ancients were no less talented than we are but expressed
 their intelligence differently, handling language so deftly that modern scholars
 take a long time even to notice the riddles in it, let alone their subtleties;
@@ -59,7 +57,7 @@ the whole Torah is called a *shirah* (Devarim 31:19) because Haazinu is a
 microcosm of the whole Torah and so of the whole history of the world, a history
 shaped as a circle, since at the end man will return to his former place of
 glory as though Adam's eating from the Eitz HaDaas had never happened. The
-article notes a tension here: *yashar* seems to mean the *opposite* of *shirah*,
+column notes a tension here: *yashar* seems to mean the *opposite* of *shirah*,
 a line that goes continuously straight against a circle whose end leads back to
 its beginning. Even so, Rabbi Shapiro observes, rabbinic literature plainly
 connects them, since the cows that carried the Aron back walked straight
@@ -142,11 +140,10 @@ words start is headed *mizmor shir*.
 - שיר / שירה alone: "song"; שירת הים "the Song of the Sea"; the Torah as
   שירה, "a song."
 - זמרה alone: "music," "melody," or "song of praise" by context (Malbim's
-  second view); זמירות "hymns," "songs" (Shabbos *zemiros* stay transliterated
-  in most house styles).
+  second view); זמירות "hymns," "songs" (Shabbos *zemiros* usually stay transliterated).
 - מזמור as a superscription: "a psalm"; מזמור שיר "a psalm, a song"; keep the
   Hebrew order and let the reader see two nouns.
-- פסוקי דזמרה: "the Verses of Song" (or keep the Hebrew); the article's gloss
+- פסוקי דזמרה: "the Verses of Song" (or keep the Hebrew); the column's gloss
   is "Verses of Hymns."
 - Trap: English "song" absorbs all three, and "sing" absorbs both verbs. Where
   the passage pairs them, or a derashah turns on the order (Malbim's rule),
@@ -163,17 +160,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[PESACH: Sing and Song](https://articles.ohr.edu/articles/pesach-sing-and-song)," What's in a Word?, Ohr
-Somayach, 10 Nisan 5780 (2020-04-04): raw text in
-`sources/whats-in-a-word/raw/8681-pesach-sing-and-song.md`. Primary loci the
-article cites: Ibn Ezra and Sforno to Tehillim 105:2; Radak to Divrei HaYamim
-I 16:9; Vilna Gaon in *Be'er Avraham* to Tehillim 27:6; Rav Hirsch to Tehillim
-33:2; Ibn Ezra to Tehillim 48:1; Yeshayahu 3:19 (*sher*); Shabbos 5:1; Bava
-Metzia 25a; Devarim 31:19; Shmuel I 6:12 with Avodah Zarah 24b; Bereishis
-43:11 with Rashi and Rabbeinu Efrayim; Tehillim 104:15; Vayikra 25:3;
-Bereishis 49:2, Bamidbar 24:3, Shoftim 5:12; *Noam Elimelech* to Bereishis
-47:28 and Shemos 19:1; Rabbi Shimshon Pincus, *Shabbos Malkesa*. The article
-frames the essay with a quotation from the American historian Cyrus Gordon
-(1908-2001), paraphrased in the Bottom line, and it reports the Chasam Sofer's
-*shirayim* reading at two removes, through a Chassidishe Rebbe cited by Rabbi
-Yaakov Haber; both are given here as the article gives them.
+Rabbi Reuven Chaim Klein, "[PESACH: Sing and Song](https://articles.ohr.edu/articles/pesach-sing-and-song)," *What's in a Word?*, Ohr Somayach, 4 April 2020.
+
+Cited in the essay: Bereishis 43:11 with Rashi and Rabbeinu Efrayim ben Shimshon, 47:28 with *Noam Elimelech*, and 49:2; Shemos 19:1 with *Noam Elimelech*; Vayikra 25:3; Bamidbar 24:3; Devarim 31:19; Shoftim 5:12; Shmuel I 6:12 with Avodah Zarah 24b; Yeshayahu 3:19; Tehillim 27:6 with the Vilna Gaon in *Be'er Avraham*, 33:2 with Rav Hirsch, 48:1 with Ibn Ezra, 104:15, and 105:2 with Ibn Ezra and Sforno; Divrei HaYamim I 16:9 with Radak; Mishnah Shabbos 5:1; Bava Metzia 25a; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi Yehuda Leib Edel; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yitzchak Hutner; the Maharal of Prague; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim; Rabbi Shimon Dov Ber Analak; Rabbi Immanuel Frances; Rabbi Yaakov Haber, with the Chasam Sofer; Rabbi Nachman of Breslov; Rabbi Shimshon Pincus, *Shabbos Malkesa*; Cyrus Gordon.

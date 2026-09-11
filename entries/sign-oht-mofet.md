@@ -33,8 +33,8 @@ updated: 2026-09-10
 natural: the luminaries are an *oht* for the seasons, tefillin are an *oht*, the
 tribal flags were an *oht*, a letter of the alef-beis is an *oht*. *Mofet* is
 the narrower word, a **wonder** or **portent**, on most readings one that bends
-nature. Malbim's formula is the one to keep: every *mofet* is an *oht*, not every
-*oht* a *mofet*. Do not render both "sign"; where they stand together (the makkos
+nature. For Malbim, every *mofet* is an *oht*, not every
+*oht* a *mofet*. Where they stand together (the makkos
 are called both, Shemos 10:1-2 and 11:9-10) the pairing is doing work.
 
 ## At a glance
@@ -49,8 +49,7 @@ are called both, Shemos 10:1-2 and 11:9-10) the pairing is doing work.
 
 Parshas Bo carries three signs: the makkos in Mitzrayim are called a sign (Shemos
 10:1-2), the blood the Jews were to put on the doorpost is called a sign (Shemos
-12:13), and the tefillin they are to wear are called a sign (Shemos 13:9, 13:16;
-the article prints 12:9 and 12:16). The word in each case is *oht*. But the ten
+12:13), and the tefillin they are to wear are called a sign (Shemos 13:9, 13:16). The word in each case is *oht*. But the ten
 makkos are also called *mofet* (Shemos 11:9-10). So what is the difference
 between an *oht* and a *mofet*?
 
@@ -82,11 +81,6 @@ between an *oht* and a *mofet*?
    conclusively establishes an idea while an *oht* is evidence pointing in the
    direction of an idea without conclusively proving it.
 
-The Bottom line follows Ramban and Malbim, since that is the sense the word
-carries in Tanach, where the makkos and the staff before Pharaoh are *mofsim*.
-Abarbanel's and Ibn Tibbon's *mofet* is the philosophical term of art, right in a
-philosophical sefer, where it means "demonstration."
-
 **Which word points to the sender and which to the message.** Sforno (to Shemos
 7:9): when Hashem sends someone to perform a miraculous feat, the word used
 depends on the purpose of the miracle. If the purpose is to relate a message
@@ -106,10 +100,10 @@ direction of a belief without bringing him to any conclusion, and he relates
 *mofet* to *mefateh*, to seduce or convince (see Devarim Rabbah §7:9);
 alternatively, an *oht* is a sign of the Heavenly realm and a *mofet* a sign in
 the Earthly realm. He then concludes that *oht* and *mofet* are simply synonyms
-meaning exactly the same thing. The article does not set Radak and Rabbi
+meaning exactly the same thing. The column does not set Radak and Rabbi
 Rappaport against each other; it presents each in turn.
 
-**Whether they are synonyms.** Ramban cites the Sifrei (the article gives the
+**Whether they are synonyms.** Ramban cites the Sifrei (the column gives the
 locus as Bamidbar 6:3), which explicitly notes that *oht* and *mofet* are the
 same thing, and explains that this does not literally mean the two are true
 synonyms bearing exactly the same meaning, only that both refer to the same sort
@@ -166,19 +160,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Sign is Coming](https://articles.ohr.edu/articles/the-sign-is-coming)," What's in a Word?, Ohr Somayach,
-for the week ending 12 January 2019 / 6 Shevat 5779:
-https://articles.ohr.edu/articles/the-sign-is-coming; raw text in
-`sources/whats-in-a-word/raw/8085-the-sign-is-coming.md`. Primary loci the
-article cites: Bereishis 1:14; Shemos 7:9, 10:1-2, 11:9-10, 12:13, 13:9, 13:16
-(the article prints 12:9 and 12:16 for the tefillin pesukim; they are 13:9 and
-13:16, and the correction is noted in the body); Bamidbar 2:2; Devarim 13:2 with
-Ramban; *Sifrei*, which the article cites to Bamidbar 6:3; *Midrash Lekach Tov*
-(*Pesikta Zutrasa*); Devarim Rabbah §7:9; Radak, *Sefer HaShorashim*; Sforno to
-Shemos 7:9; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*. The
-article gives no locus for Malbim, Abarbanel, Ibn Tibbon, Rabbi Wertheimer or
-Rabbi Pappenheim. Two claims have been cut in this pass as not being in the
-article: that Abarbanel follows Ibn Tibbon (the article says only that Ibn Tibbon
-was the earliest to use *mofet* in that sense), and that Abarbanel himself notes
-Radak's root י-פ-ת (the Radak citation is the column's own addition at that
-point).
+Rabbi Reuven Chaim Klein, "[The Sign is Coming](https://articles.ohr.edu/articles/the-sign-is-coming)," *What's in a Word?*, Ohr Somayach, 12 January 2019.
+
+Cited in the essay: Bereishis 1:14; Shemos 7:9 with Sforno, 10:1-2, 11:9-10, 12:13, 13:9, 13:16; Bamidbar 2:2; Devarim 13:2 with Ramban; the *Sifrei*, cited to Bamidbar 6:3; *Midrash Lekach Tov* (*Pesikta Zutrasa*); *Devarim Rabbah* §7:9; Radak, *Sefer HaShorashim*; Malbim; Abarbanel; Rabbi Shmuel Ibn Tibbon; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim.

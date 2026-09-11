@@ -40,9 +40,7 @@ updated: 2026-09-10
 **slippery**. *Shua* and its Aramaic form *shiiya* are, in Rabbi Yaakov Tzvi
 Mecklenburg's words, not one hundred percent synonymous with it: they name
 daubing or pasting one material onto another, which incidentally smooths the
-surface, so render them **smoothed on**, **daubed**, **plastered**, or in the
-*shaatnez* sugya **combed smooth together**. The trap is translating both as
-"smooth"; the halachah in *Kilayim* 9:8 turns on the difference.
+surface (**smoothed on**, **daubed**, **plastered**). The halachah in *Kilayim* 9:8 turns on the difference.
 
 ## At a glance
 
@@ -76,7 +74,7 @@ Rashi's definition, *shaatnez* on the Tosafists'.
 points to the Rambam's commentary on that Mishnah, which defines *shua* by citing
 Targum Onkelos to Vayikra 14:42, where *v'tach es habayis*, plastering the house
 with fresh mortar once the afflicted stones are removed and replaced, is rendered
-*v'yashua*. As the article unpacks it, in that context *shua*'s primary sense is
+*v'yashua*. As the column unpacks it, in that context *shua*'s primary sense is
 not "making smooth" but "applying plaster"; if the whole of its meaning were
 "making smooth," as Rashi has it, the Targum makes no sense there, so *shua* must
 also mean attaching, with smoothing the implication (and the plaster is smoothed
@@ -88,9 +86,7 @@ attachment.
 **What *mishi* means in Yechezkel 16:4.** Radak (there and in *Sefer
 HaShorashim*): smoothness, since washing smooths the skin. Menachem Ibn Saruk
 and Rashi: it belongs with *shaashua*, and the pasuk speaks of bathing for
-pleasure. The Bottom line follows Radak, since the ש-ע root elsewhere is about
-surface, but the readings are close and Mecklenburg's own account of *shaashua*
-shows how one becomes the other.
+pleasure.
 
 **Whether *shiiya* is Hebrew at all.** The Targumim render Yaakov's *chalak*
 (Bereishis 27:11) with the Aramaic *shiiya*, whose root is ש-ע-(ע), which
@@ -150,14 +146,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Smooth Sliding and Glad Gliding](https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding)," What's in a Word?,
-Ohr Somayach, 2 Kislev 5780 (2019-11-30):
-https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding; raw text in
-`sources/whats-in-a-word/raw/8497-smooth-sliding-and-glad-gliding.md`. Primary
-loci: Bereishis 27:11, 27:16; Vayikra 14:42, 19:19; Devarim 22:11; Yeshayahu
-6:10, 32:3; Yechezkel 16:4; *Mishnah Kilayim* 9:8 with the Rambam's commentary;
-Rashi and Tosafos to Yevamos 5b; Radak, *Sefer HaShorashim* s.v. משע; Rabbi
-Avraham Vilner, *Tirgem Avraham*; Rabbi Yaakov Tzvi Mecklenburg. The article's
-closing paragraphs on the Germanic and English cognates of *glatt* are restored
-to the *chalak* section; the *glitch* derivation it reports is hedged there as
-the view of "some linguists," as the article hedges it.
+Rabbi Reuven Chaim Klein, "[Smooth Sliding and Glad Gliding](https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding)," *What's in a Word?*, Ohr Somayach, 30 November 2019.
+
+Cited in the essay: Bereishis 27:11 with the Targumim, and 27:16; Vayikra 14:42 with Targum Onkelos, and 19:19; Devarim 22:11; Yeshayahu 6:10, 32:3; Yechezkel 16:4 with Radak, Rashi and Menachem Ibn Saruk; Mishnah *Kilayim* 9:8 with the Rambam's commentary; Rashi and Tosafos to Yevamos 5b; Radak, *Sefer HaShorashim* s.v. משע; Rabbi Avraham Vilner, *Tirgem Avraham*; Rabbi Yaakov Tzvi Mecklenburg.

@@ -25,11 +25,11 @@ updated: 2026-09-10
 still answers to his name. *Linah*, technically speaking, is not "sleeping" at
 all but **leaving something overnight**, though it generally takes in the hours
 people sleep, and it governs meat and a corpse as readily as a guest. Ibn Ezra's
-ranking, *tenumah* under *sheinah* under *tardeimah*, is the one the article sets
+ranking, *tenumah* under *sheinah* under *tardeimah*, is the one the column sets
 out first, and Radak, *Peirush HaRokeach*, Rabbi Sternbuch, Rabbi Wertheimer and
 Rabbi Yosef Nechemias are all described as following it; the Netziv rejects it
 outright and makes *tardeimah* the *lighter* sleep of one just dropping off,
-which is why it precedes *vayishan*. The two readings stay two, and the article
+which is why it precedes *vayishan*. The two readings stay two, and the column
 declares no winner.
 
 ## Distinctions
@@ -38,7 +38,7 @@ declares no winner.
 The triliteral lexicographers, Ibn Chayyuj (945-1000), Ibn Janach (990-1055) and
 Radak (1160-1235), give the root י-ש-נ. Rabbi Yitzchak Zeldin (18th-century
 Germany, *Shoresh Yesha*) notes the root carries both "sleep" and "old" and says
-the two meanings are one and the same; the article calls the remark a bit
+the two meanings are one and the same; the column calls the remark a bit
 unclear and reads it, tentatively, as Rav Hirsch's point (to Bereishis 24:1),
 that the older a man gets the more his energy is sapped and the more he needs
 sleep. The biliteralist Menachem Ibn Saruk (920-970), in *Machberes Menachem*,
@@ -56,7 +56,7 @@ blackout.
 Rabbi Aharon Marcus (1843-1916) locates the core of *sheinah* in the letter
 shin alone, which he claims is universally associated in all languages with
 quiet and silence, as in the onomatopoetic *shushing* of a person; seemingly, the
-article says, his point is that a sleeping man is silent, so the very word for
+column says, his point is that a sleeping man is silent, so the very word for
 sleep carries quietness.
 
 ### tardeimah (תרדמה)
@@ -131,17 +131,16 @@ saw he was a mere mortal.
   immersed that he has lost the capacity for thinking, in *tenumah* the lids are
   shut but the mind is still at work; elsewhere (to Berachos 60b), the eyes are
   at rest in *sheinah* and, though closed, not technically at rest in *tenumah*.
-  The article admits it is not sure what exactly the Gaon means, and wonders
+  The column admits it is not sure what exactly the Gaon means, and wonders
   whether he was alluding to the two modes of sleep neurologists recognize, one
   of them marked by rapid eye movement.
-- Rabbi Avraham Bedersi (*Chosam Tochnis*), whom the article calls the earliest
+- Rabbi Avraham Bedersi (*Chosam Tochnis*), whom the column calls the earliest
   scholar to work on Hebrew synonyms, makes it circumstantial, not a matter of
   depth: *sheinah* goes with rest and tranquility, *tenumah* with indolence and
   laziness, and *tardeimah* he first defines as the end of a long sleep and then
   suggests is the sleep one falls into in a state of extreme fright, his
   proof-text being the pasuk where a *tardeimah* falls on Avraham and a dark
-  dread falls on him immediately after (the article prints Bereishis 14:12; the
-  locus is 15:12). Elsewhere in that work Bedersi compares *sheinah*, whose
+  dread falls on him immediately after (Bereishis 15:12). Elsewhere in that work Bedersi compares *sheinah*, whose
   meaning he asserts is well known, with *hozim* (Yeshayahu 56:10), which he
   takes for an especially long-lasting slumber like a dog that oversleeps; he
   admits that most other commentators explain *hozim* as people who say
@@ -171,8 +170,7 @@ saw he was a mere mortal.
   fast asleep, perhaps an insomniac; *sheinah* is the natural sleep most people
   get nightly; and *tardeimah* is the deep sleep that befalls one so subsumed in
   his suffering that he has no other recourse but to sleep, as a suicidal person
-  gives up on life and dies. The entry has this at second hand, through Kohut, as
-  the article does.
+  gives up on life and dies.
 
 ### linah (לינה) and durmita (דורמיטא)
 Roots ל-ו-נ and ל-י-נ (or ל-נ per Ibn Saruk); Shadal (to Bereishis 24:23) already
@@ -205,13 +203,12 @@ Targum consistently renders *tardeimah* with an Aramaicized form of the Hebrew
 *durmita* is not an Aramaic word at all, appearing nowhere in the Talmud or any
 other Aramaic document.
 
-So what is it? The article's own answer: *durmita* is of Romance etymology. It
+So what is it? The column's own answer: *durmita* is of Romance etymology. It
 theorizes that the word is related to the Latin *dormire*, "sleeping," ancestor
 of English *dormant* and *dormitory* (French *dormant*, Spanish *durmiendo*,
-Catalan *dorment*). Rabbi Dr. Yitzchak (Jared) Greenblatt, whom the article calls
-a prominent Aramaicist, concurred, adding that when Greek or Latin words are
+Catalan *dorment*). Rabbi Dr. Yitzchak (Jared) Greenblatt, whom the column calls a prominent Aramaicist, concurred, adding that when Greek or Latin words are
 borrowed into Hebrew or Aramaic the t-sound is typically written with tes rather
-than tav, as here (see also Rema, *Even HaEzer* 129:31). The article then floats
+than tav, as here (see also Rema, *Even HaEzer* 129:31). The column then floats
 a further thought: linguists say the Latin *dormire* derives from the
 Proto-Indo-European root *drem-*, and since *drem-* uses the same three
 consonants as *tardeimah* with the first two switched, perhaps the connection
@@ -237,21 +234,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bereishit: Sleepy Words (Part 1/2)](https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12)," What's in a
-Word?, Ohr Somayach, 29 Tishrei 5784 (2023-09-25),
-https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12, and "Sleepy
-Words (Part 2/2)," 6 Cheshvan 5784 (2023-10-19),
-https://articles.ohr.edu/articles/sleepy-words-part-22; raw text in
-`sources/whats-in-a-word/raw/11119-bereishit-sleepy-words-part-12.md` and
-`.../11120-sleepy-words-part-22.md`. Primary loci cited: Bereishis 1:28, 2:21,
-15:12, 24:1, 24:23-24, 42:27; Shemos 4:24, 15:24, 23:18, 34:25; Vayikra 19:13,
-25:43; Devarim 16:4, 21:23; Yehoshua 4:3; I Melachim 19:4; Yeshayahu 5:27,
-10:29, 56:10; Tehillim 17:8, 121:4; Mishlei 6:4, 6:11, 7:9, 19:15; Iyov 4:13,
-33:15; Koheles 12:2; Megillah 2:2 and 18b; Yoma 1:7; Pesachim 10:8; Berachos
-60b; *Bereishis Rabbah* 8:10, 17:5, 44:17; *Zohar* Vayigash 207b and Naso 142b;
-Rambam, *Hilchos Teshuvah* 3:4 and his commentary to Pesachim 10:8; Rema, *Even
-HaEzer* 129:31; Targum Onkelos to Bereishis 2:21. Two citation slips in the
-article: it prints Bereishis 14:12 for Bedersi's proof-text (the locus is 15:12)
-and 3:21 for Targum's *sheinsa* (2:21). Rabbi Avraham Zacut's *Ikkarei HaTalmud*
-reaches the article at second hand, through Dr. Alexander Kohut, and is reported
-here that way.
+Rabbi Reuven Chaim Klein, "[Bereishit: Sleepy Words (Part 1/2)](https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12)," *What's in a Word?*, Ohr Somayach, 25 September 2023.
+
+Rabbi Reuven Chaim Klein, "[Sleepy Words (Part 2/2)](https://articles.ohr.edu/articles/sleepy-words-part-22)," *What's in a Word?*, Ohr Somayach, 19 October 2023.
+
+Cited in the essay: Bereishis 1:28, 2:21 with Ibn Ezra, Radak, *Peirush HaRokeach*, Rav Hirsch, Targum Onkelos and the Netziv's *HaEmek Davar*, 15:12 with *Peirush HaRokeach*, 24:1 with Rav Hirsch, 24:23-24 with Shadal, and 42:27; Shemos 4:24, 15:24 with Rav Hirsch, 23:18, 34:25; Vayikra 19:13, 25:43; Devarim 16:4, and 21:23 with *HaKsav VeHaKabbalah*; Yehoshua 4:3; Melachim I 19:4; Yeshayahu 5:27 with Malbim, 10:29, 56:10; Tehillim 17:8, and 121:4 with Radak and Malbim; Mishlei 6:4 with the Vilna Gaon, 6:11 with Rabbi Yosef Nechemias, 7:9, 19:15; Iyov 4:13, 33:15; Koheles 12:2 with Ibn Ezra; Mishnah Yoma 1:7, Pesachim 10:8 with the Rambam's commentary, Megillah 2:2; Megillah 18b; Berachos 60b with the Vilna Gaon; *Bereishis Rabbah* 8:10 with Rabbi Chaim Kanievsky, 17:5, and 44:17 with Radal and *Yidei Moshe*; *Zohar* Vayigash 207b and Naso 142b; the piyyut *Melech Elyon*; Rambam, *Hilchos Teshuvah* 3:4, with Rabbi Moshe Sternbuch and Rabbi Shlomo Aharon Wertheimer; Rema, *Even HaEzer* 129:31; Ibn Chayyuj, Ibn Janach and Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Yitzchak Zeldin, *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Moshe Yitzchak Tedeschi-Ashkenazi; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Ezra Reuven Dangoor; Dr. Alexander Kohut, with Rabbi Avraham Zacut's *Ikkarei HaTalmud*; Rabbi Chaim Vital; the Aderet, Rabbi Eliyahu David Rabinowitz-Teomim; Rabbi Dr. Yitzchak (Jared) Greenblatt.

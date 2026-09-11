@@ -36,7 +36,7 @@ specifically to three kinds: *chet*, *avon* and *pesha*. These are not
 synonyms, the column says, but different degrees of sin, and the Gemara (Yoma
 36b) explains *chet* as an inadvertent sin, the state of mind called *shogeg*,
 *avon* as a wanton or intentional sin, *meizid*, and *pesha* as a sin of
-rebellion. The article then adds that there are other ways of explaining the
+rebellion. The column then adds that there are other ways of explaining the
 differences.
 
 ## Distinctions
@@ -138,18 +138,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Degrees of Sin](https://articles.ohr.edu/articles/degrees-of-sin)," What's in a Word?, Ohr Somayach, for
-the week ending 15 September 2018 / 6 Tishrei 5779: raw text in
-`sources/whats-in-a-word/raw/7940-degrees-of-sin.md`. Primary loci the article
-cites: Mishnah Yoma 4:2 and Yoma 36b (the Kohen Gadol's confession); Melachim I
-1:21 with Rashi; Vilna Gaon to Mishlei 1:10 and 13:6; Rambam, *Hilchos Teshuvah*
-(the *vidui* formula, given without chapter), with *Minchas Chinuch* and Rav
-Shach on it; Shabbos 40a (*avaryan* on a Rabbinic prohibition). The article gives
-no locus for Rabbi Landau, Rabbi Moshe Shapiro, Rabbi Pappenheim, Malbim,
-*Peirush HaRokeach*, Rabbi Weil or Rabbi Mecklenburg. Two of the article's own
-hedges have been restored in this pass: the Vilna Gaon's reading is offered as
-"probably based on" Rashi's comment, and Malbim holds only that all three words
-*could* name a purposeful offense. Rabbi Weil, previously named only in the
-Bottom line and the rendering guidance, now stands in the body where the article
-puts him, and Rav Shach's first reason, that the instituted formula itself
-includes all three types, has been added alongside his second.
+Rabbi Reuven Chaim Klein, "[Degrees of Sin](https://articles.ohr.edu/articles/degrees-of-sin)," *What's in a Word?*, Ohr Somayach, 15 September 2018.
+
+Cited in the essay: Melachim I 1:21 with Rashi; Mishlei 1:10 and 13:6 with the Vilna Gaon; Mishnah Yoma 4:2; Yoma 36b; Shabbos 40a; Rambam, *Hilchos Teshuvah*, with Rabbi Yosef Babad, *Minchas Chinuch*, and Rabbi Elazar Menachem Mann Shach; Rabbi Yechezkel Landau; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim; Malbim; *Peirush HaRokeach*; Rabbi Netanel Weil; Rabbi Yaakov Tzvi Mecklenburg.
