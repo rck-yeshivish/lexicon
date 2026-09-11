@@ -90,13 +90,14 @@ gatherings, from *hakhel*, *kahal*, *kehillah*, as it says "then Shlomo gathered
 wisdom into himself. The second reading is similar to the Midrash on *Agur*,
 that he gathered up (*agar*) the Torah's wisdom.
 
-**Whether *Yakeh* is a reproach or a compliment.** The Midrashim take it as a
-reproach: he was filled with wisdom and later spat it out (*heikiah*) and forgot
-it all when he began to stray, like a bowl that can be filled with water and
-just as easily emptied. Ralbag (to Mishlei 30:1) takes it as praise: he spits
-out, that is, rejects, the sayings that are untrue, and sets down in Mishlei only
-what is left. A third view has him regurgitating to the public whatever wisdom he
-had amassed.
+**Whether *Yakeh* is a reproach or a compliment.**
+- The Midrashim take it as a reproach: he was filled with wisdom and later spat
+  it out (*heikiah*) and forgot it all when he began to stray, like a bowl that
+  can be filled with water and just as easily emptied.
+- Ralbag (to Mishlei 30:1) takes it as praise: he spits out, that is, rejects,
+  the sayings that are untrue, and sets down in Mishlei only what is left.
+- A third view has him regurgitating to the public whatever wisdom he had
+  amassed.
 
 **What *Lemuel* means.** Four readings, and they split sharply.
 

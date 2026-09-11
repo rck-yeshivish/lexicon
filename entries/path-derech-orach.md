@@ -83,32 +83,39 @@ the Righteous"; *Mesillas Yesharim*, "Paths of the Just"; *Derech Hashem*, "Way
 of God"; *Nesivos Shalom*, "The Lanes of Peace."
 
 ### derech (דרך)
-Root ד-ר-ך, related to *dorech*, to tread, which also means to tread the winepress
-(Yeshayahu 63:2); Rashi (Devarim 33:29): to tread on one's enemies, to subdue
-them underfoot. Vilna Gaon: a *derech* is wide and open to the public. Malbim:
-both words are public, but the *derech* runs from major city to major city,
-province to province. The Zohar (Vayakhel 215a, Kedoshim 88a): the road to
-which everyone has access. Pappenheim: it can be the same road as the *orach*,
-viewed for its great length. Rabbi Moshe Shapiro, from Rashi's treading: the *derech*
-is the path of life, strewn with trials that a man is expected to tread down
-and overcome; only so does he go forward on it.
+Root ד-ר-ך, related to *dorech*, to tread, which also means to tread the
+winepress (Yeshayahu 63:2); Rashi (Devarim 33:29): to tread on one's enemies, to
+subdue them underfoot.
+- Vilna Gaon: a *derech* is wide and open to the public.
+- Malbim: both words are public, but the *derech* runs from major city to major
+  city, province to province.
+- The Zohar (Vayakhel 215a, Kedoshim 88a): the road to which everyone has
+  access.
+- Pappenheim: it can be the same road as the *orach*, viewed for its great
+  length.
+- Rabbi Moshe Shapiro, from Rashi's treading: the *derech* is the path of life,
+  strewn with trials that a man is expected to tread down and overcome; only so
+  does he go forward on it.
 
 ### orach (אורח)
 Root א-ר-ח; Pappenheim derives it from the two letters ר-ח, width (*revach*,
-*rachav*). Vilna Gaon: short, narrow, not as commonly used. Malbim: the road that
-reaches the outlying towns and villages. Rabbi Shlomo Aharon Wertheimer, after
-Malbim, suggests that because an *orach* breaks off the main road to lead more
-directly to a less-traveled destination, the tzaddik is said to guard the *orach*
-(Mishlei 2:20), being exact in the details and not only the general route. The Zohar:
-an *orach* is a brand new road no one has trodden, which is why the righteous
-are tied to it: they bring novel Torah into the world and reveal Hashem's
-presence where it had not yet been revealed. Rabbi Tzvi Hirsch Shlez on Dan
-(Bereishis 49:17), reading Yaakov as foreseeing the two idols destined to be set
-up at the city of Dan: Michah's idol was the snake on the *derech*, a passive
-discouragement from the pilgrimage to Shiloh and Yerushalayim, whereas
-Yeravam's calf, which barred the pilgrimage by decree, made the way a narrow
-*orach* with a serpent on it. Radak: *oreach*, a guest, arrives by the road
-he traveled; Pappenheim adds *aruchah*, the banquet given for a guest.
+*rachav*).
+- Vilna Gaon: short, narrow, not as commonly used.
+- Malbim: the road that reaches the outlying towns and villages.
+- Rabbi Shlomo Aharon Wertheimer, after Malbim, suggests that because an *orach*
+  breaks off the main road to lead more directly to a less-traveled destination,
+  the tzaddik is said to guard the *orach* (Mishlei 2:20), being exact in the
+  details and not only the general route.
+- The Zohar: an *orach* is a brand new road no one has trodden, which is why the
+  righteous are tied to it: they bring novel Torah into the world and reveal
+  Hashem's presence where it had not yet been revealed.
+- Rabbi Tzvi Hirsch Shlez on Dan (Bereishis 49:17), reading Yaakov as foreseeing
+  the two idols destined to be set up at the city of Dan: Michah's idol was the
+  snake on the *derech*, a passive discouragement from the pilgrimage to Shiloh
+  and Yerushalayim, whereas Yeravam's calf, which barred the pilgrimage by
+  decree, made the way a narrow *orach* with a serpent on it.
+- Radak: *oreach*, a guest, arrives by the road he traveled; Pappenheim adds
+  *aruchah*, the banquet given for a guest.
 
 ### rechov (רחוב)
 The street of a settled place. Some explain that a *derech* is specifically an

@@ -87,28 +87,30 @@ view (Malbim). Rabbi Yoel Ibn Shuaib: the Pelishtim, ruled by five lords
 (Yehoshua 13:3), are an example of a *goy*.
 
 ### am (עם)
-Heidenheim: a group united by one leader, king, or God. Malbim: a smaller, more
-specific unit than *goy*, and bound up with sovereignty, which is why it is
-almost the standing word for Yisrael. Wertheimer: like-minded people who act
-alike, which is why the day of *Kabbalas HaTorah* makes Yisrael an *am*
-(Devarim 27:9) and why a swarm of locusts is called an *am* (Yoel 2:2) though
-locusts have no king (Mishlei 30:27). Mecklenburg and Malbim: Tanach almost never conjugates
-*goy* in the possessive, but does conjugate *am*, *ami*, *amcha*, *amo*, because
-a loose confederation cannot be attributed to one king while an *am* by
-definition is ruled by one; with Yisrael the possessor is almost always
-Hashem. Rabbi Shlomo
-Pappenheim, cited approvingly by Heidenheim: *am* is spelled like *im*, "with",
-which says that the bond among its members is the closer one.
+- Heidenheim: a group united by one leader, king, or God.
+- Malbim: a smaller, more specific unit than *goy*, and bound up with
+  sovereignty, which is why it is almost the standing word for Yisrael.
+- Wertheimer: like-minded people who act alike, which is why the day of
+  *Kabbalas HaTorah* makes Yisrael an *am* (Devarim 27:9) and why a swarm of
+  locusts is called an *am* (Yoel 2:2) though locusts have no king (Mishlei
+  30:27).
+- Mecklenburg and Malbim: Tanach almost never conjugates *goy* in the
+  possessive, but does conjugate *am*, *ami*, *amcha*, *amo*, because a loose
+  confederation cannot be attributed to one king while an *am* by definition is
+  ruled by one; with Yisrael the possessor is almost always Hashem.
+- Rabbi Shlomo Pappenheim, cited approvingly by Heidenheim: *am* is spelled like
+  *im*, "with", which says that the bond among its members is the closer one.
 
 ### leom (לאום) and umah (אומה)
-Rashi (to Tehillim 2:1) in the name of Rabbi Menachem Ibn Saruk treats
-*leomim*, *umim*, and *goyim* as bearing very close meanings; Heidenheim infers
-from the wording that they are near synonyms, not identical. Ibn Shuaib sets
-*umah* and *leom* together as the nation under one king, against *goy*. Malbim,
-on *Bereishis Rabbah* 63, makes *leom* a religious body, which can be wider
-than *am* when several kingdoms hold one faith. Edel takes *leom* or *om*, the
-form some later poets use, as a family or tribe within a nation. The word is thus
-probably related to *em* and *imma*.
+- Rashi (to Tehillim 2:1) in the name of Rabbi Menachem Ibn Saruk treats
+  *leomim*, *umim*, and *goyim* as bearing very close meanings; Heidenheim
+  infers from the wording that they are near synonyms, not identical.
+- Ibn Shuaib sets *umah* and *leom* together as the nation under one king,
+  against *goy*.
+- Malbim, on *Bereishis Rabbah* 63, makes *leom* a religious body, which can be
+  wider than *am* when several kingdoms hold one faith.
+- Edel takes *leom* or *om*, the form some later poets use, as a family or tribe
+  within a nation. The word is thus probably related to *em* and *imma*.
 
 ## Rendering guidance
 

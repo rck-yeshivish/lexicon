@@ -87,14 +87,16 @@ three.
 
 **Whether Tzafnas Paneach reveals or conceals.** *Bereishis Rabbah* 90:4 gives
 four readings; three take *tzafnas* from צ-פ-נ, hidden. On *paneach* there is
-less agreement. In the Midrash, some combine פ-ע (appearing) with נ-ח
-(easing or placating): Yosef unravels hidden matters easily, or he settles
-people's questions by disclosing what was hidden. Rashi (to Bereishis 41:45)
-renders "revealer of mysteries." The Chasam Sofer reverses it:
-"concealer of mysteries," for Yosef's undertaking to keep secret that Pharaoh
-could not speak Lashon HaKodesh (Sotah 36b). Later Hebrew, in *Nishmas* and in
-HaKallir's piyyutim, uses *paneach* as a verb for deciphering, which may simply
-follow the Midrash.
+less agreement.
+- In the Midrash, some combine פ-ע (appearing) with נ-ח (easing or placating):
+  Yosef unravels hidden matters easily, or he settles people's questions by
+  disclosing what was hidden.
+- Rashi (to Bereishis 41:45) renders "revealer of mysteries."
+- The Chasam Sofer reverses it: "concealer of mysteries," for Yosef's
+  undertaking to keep secret that Pharaoh could not speak Lashon HaKodesh (Sotah
+  36b).
+- Later Hebrew, in *Nishmas* and in HaKallir's piyyutim, uses *paneach* as a
+  verb for deciphering, which may simply follow the Midrash.
 
 **Whether Yosef and Yehosef are one name or two.** Rabbi Chaim Kanievsky is
 reported to have first held them distinct, so that a father could name one son
@@ -114,21 +116,22 @@ by an angel, and all seventy languages are contained in Torah, so the name fit
 him then; birth made him forget, and Gavriel restored him to Yehosef.
 
 **Whether rach can mean "king."** *Rach* means soft, tender, or young, but
-*reich* in the sense of "king" may appear in several other places as well: *Sefer
-Russiana* and, independently, the Pittsburgher Rebbe (*Emunas Avraham*) on Leah's
-eyes as *rakos* (Bereishis 29:17), against the many who read them soft or weak
-from weeping (see Rashi there); *Targum Yonasan* on David's "I am today *rach* and anointed king"
-(Shmuel II 3:39), which it renders "I am today like a commoner who will grow up
-to be king," and from which Radak *implies* that Targum took *rach* for king;
-Rabbi Chaim
-Vital (*Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19) on *harakah*, the pampered
-woman of Devarim 28:56; and Rashi (to Shabbos 53a) explaining the amora Shmuel's
-nickname Aryoch as royal, the *rach* of it being the Latin for king, since he
-was expert in civil law and in that role functioned in a way resembling a king,
-though Rashi elsewhere (Menachos 38b) derives Aryoch from *aryeh*, the lion to
-which Yehudah is compared (Bereishis 49:9). The name Aryoch is borne in Tanach by
-the king of Elasar, one of the four kings Avraham fought (Bereishis 14:1, 14:9),
-and by a minister of Nevuchadnetzar (Daniel 2:4, 2:15, 2:24-25).
+*reich* in the sense of "king" may appear in several other places as well:
+- *Sefer Russiana* and, independently, the Pittsburgher Rebbe (*Emunas Avraham*)
+  on Leah's eyes as *rakos* (Bereishis 29:17), against the many who read them
+  soft or weak from weeping (see Rashi there);
+- *Targum Yonasan* on David's "I am today *rach* and anointed king" (Shmuel II
+  3:39), which it renders "I am today like a commoner who will grow up to be
+  king," and from which Radak *implies* that Targum took *rach* for king;
+- Rabbi Chaim Vital (*Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19) on *harakah*,
+  the pampered woman of Devarim 28:56;
+- and Rashi (to Shabbos 53a) explaining the amora Shmuel's nickname Aryoch as
+  royal, the *rach* of it being the Latin for king, since he was expert in civil
+  law and in that role functioned in a way resembling a king, though Rashi
+  elsewhere (Menachos 38b) derives Aryoch from *aryeh*, the lion to which
+  Yehudah is compared (Bereishis 49:9). The name Aryoch is borne in Tanach by
+  the king of Elasar, one of the four kings Avraham fought (Bereishis 14:1,
+  14:9), and by a minister of Nevuchadnetzar (Daniel 2:4, 2:15, 2:24-25).
 
 ## Distinctions
 

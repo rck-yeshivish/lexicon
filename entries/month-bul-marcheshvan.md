@@ -52,27 +52,36 @@ deserve blessing.
 
 ## Where the authorities disagree
 
-**What Bul means.** The Yerushalmi (Rosh Hashanah 1:2, and Targum Yonasan to Melachim I
-6:38) gives three at once: *novel*, the leaves fall; *bul*, the earth turns to wet clods
-with the first rains; *bolel*, one must mix fodder indoors because nothing is left in
-the field. Rabbi Yeshayah of Trani (the Rid, to Melachim I 6:38) and Ibn Saruk (who
-traces the name to the biliteral ב-ל): from *yevul*, produce, the month when the crop is
-already gathered in. Pappenheim, elaborating on that same biliteral root: from *bilui*,
-wearing out, the eighth month falling in the autumn, when the plants and leaves grow worn
-and withered. The *Pri Megadim*, Rabbi Yosef Teomim-Frankel (1727-1792), on Radak's gloss
-of *bul eitz* (Yeshayahu 44:19) as a branch: the eighth month branches off from Tishrei.
-Rabbi Aharon Marcus (1843-1916) reads *bul eitz* as an unusually thick tree and makes
-*bul* extraordinary increase, hence *mabul* for excess water and Bul for the surplus of
-grain and produce in a man's house and storehouses after the harvest; Dr. Alexander Kohut
-(1842-1894) in *Aruch HaShalem* offers a similar understanding. Ibn Janach (*Sefer
-HaShorashim*): from *balul*, mixing, rainfall being a liquid into which things are mixed.
-Radak (to Melachim I 6:38 and in his *Sefer HaShorashim*): from *mabul* itself, the month
-opening the rainy season. *Midrash Tanchuma* (*Noach* §11) also ties Bul to *mabul*: until
-Shlomo built the Mikdash rain with the potential to become a flood would fall on the world forty days
-a year, and once it was built that forty-day rain was done away with, as though the mem
-had been taken off *mabul* to leave Bul. (In modern Hebrew *bul* means "exactly," which
-seems to be a borrowing of the English "bull's eye," and also "stamp," borrowed from
-Arabic.)
+**What Bul means.**
+- The Yerushalmi (Rosh Hashanah 1:2, and Targum Yonasan to Melachim I 6:38)
+  gives three at once: *novel*, the leaves fall; *bul*, the earth turns to wet
+  clods with the first rains; *bolel*, one must mix fodder indoors because
+  nothing is left in the field.
+- Rabbi Yeshayah of Trani (the Rid, to Melachim I 6:38) and Ibn Saruk (who
+  traces the name to the biliteral ב-ל): from *yevul*, produce, the month when
+  the crop is already gathered in.
+- Pappenheim, elaborating on that same biliteral root: from *bilui*, wearing
+  out, the eighth month falling in the autumn, when the plants and leaves grow
+  worn and withered.
+- The *Pri Megadim*, Rabbi Yosef Teomim-Frankel (1727-1792), on Radak's gloss of
+  *bul eitz* (Yeshayahu 44:19) as a branch: the eighth month branches off from
+  Tishrei.
+- Rabbi Aharon Marcus (1843-1916) reads *bul eitz* as an unusually thick tree
+  and makes *bul* extraordinary increase, hence *mabul* for excess water and Bul
+  for the surplus of grain and produce in a man's house and storehouses after
+  the harvest; Dr. Alexander Kohut (1842-1894) in *Aruch HaShalem* offers a
+  similar understanding.
+- Ibn Janach (*Sefer HaShorashim*): from *balul*, mixing, rainfall being a
+  liquid into which things are mixed.
+- Radak (to Melachim I 6:38 and in his *Sefer HaShorashim*): from *mabul*
+  itself, the month opening the rainy season.
+- *Midrash Tanchuma* (*Noach* §11) also ties Bul to *mabul*: until Shlomo built
+  the Mikdash rain with the potential to become a flood would fall on the world
+  forty days a year, and once it was built that forty-day rain was done away
+  with, as though the mem had been taken off *mabul* to leave Bul.
+
+(In modern Hebrew *bul* means "exactly," which seems to be a borrowing of the
+English "bull's eye," and also "stamp," borrowed from Arabic.)
 
 **Whether mar is a separate element of Marcheshvan.** Before the Babylonian inscriptions
 were found there was much speculation in traditional sources about the name, some sages
@@ -99,20 +108,25 @@ Sefer (*Otzar Peninim* §28) defends the wedding custom from Rashi to Bereishis 
 48:9, who held the month-names were not taken verbatim from the Babylonian calendar but
 revealed through nevuah, so that expounding the *mar* is entirely in place.
 
-**What Cheshvan means, for those who parse it.** Rav Hirsch (1808-1880) drops the *mar*
-and reads Cheshvan from ח-ש-ה, quiet: the hush after the crowded month of Tishrei, which
-gives a man room to look inward and think over all that passed in the yom tov season. The
-*Sefer HaKushyos*, by an anonymous talmid of Rabbi Meir of Rothenburg (1215-1293),
-published by Rabbi Y. Y. Stahl: from ר-ח-ש, stirring, bubbling, murmuring, which somehow
-relates to the month in which the first Mikdash was completed, or else from ש-ו-ה, evened
-out, the month somehow being "equalized in its rains." The Christian Hebraist and philologist Johannes Buxtorf
-(1564-1629) likewise presumes ר-ח-ש, citing *marcheshes*, the deep pan in which fried
-things sizzle (Vayikra 2:7), as something liquid, and ties that to the month that opens
-the rainy season. Rabbi Zecharia HaRofeh, a fifteenth-century Yemenite sage (*Midrash
-HaChefetz* to Shemos 12:2): the Aramaic *israchish*, a happening or occurrence, since one
-of the most monumental occurrences in human history, the completion of the first Mikdash,
-happened in it. Rabbi Yisrael Friedman of Ruzhin (1796-1850): our lips are still
-*rocheshes* from the tefillos of the month before.
+**What Cheshvan means, for those who parse it.**
+- Rav Hirsch (1808-1880) drops the *mar* and reads Cheshvan from ח-ש-ה, quiet:
+  the hush after the crowded month of Tishrei, which gives a man room to look
+  inward and think over all that passed in the yom tov season.
+- The *Sefer HaKushyos*, by an anonymous talmid of Rabbi Meir of Rothenburg
+  (1215-1293), published by Rabbi Y. Y. Stahl: from ר-ח-ש, stirring, bubbling,
+  murmuring, which somehow relates to the month in which the first Mikdash was
+  completed, or else from ש-ו-ה, evened out, the month somehow being "equalized
+  in its rains."
+- The Christian Hebraist and philologist Johannes Buxtorf (1564-1629) likewise
+  presumes ר-ח-ש, citing *marcheshes*, the deep pan in which fried things sizzle
+  (Vayikra 2:7), as something liquid, and ties that to the month that opens the
+  rainy season.
+- Rabbi Zecharia HaRofeh, a fifteenth-century Yemenite sage (*Midrash HaChefetz*
+  to Shemos 12:2): the Aramaic *israchish*, a happening or occurrence, since one
+  of the most monumental occurrences in human history, the completion of the
+  first Mikdash, happened in it.
+- Rabbi Yisrael Friedman of Ruzhin (1796-1850): our lips are still *rocheshes*
+  from the tefillos of the month before.
 
 **Where the name came from.** The Yerushalmi and Ramban (to Shemos 12:2) hold the names in
 use today came up from Bavel, a different nomenclature having been in use before the

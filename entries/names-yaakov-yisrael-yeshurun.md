@@ -47,25 +47,29 @@ dealing (Ramban).
 
 ## Where the authorities disagree
 
-**When the Torah says Yaakov and when Yisrael.** Many commentators, among them the
-Maharal and Rav Hirsch: the name marks
-the frame, *Yaakov* for the individual and *Yisrael* for the man in his role as father
-of the nation. Rabbi Elimelech of Lizhensk: the two names stand for two avenues of
-avodah, *Yaakov* for *yiras Hashem* and *Yisrael* for *ahavas Hashem*. The Ohr HaChaim
-works through the pesukim systematically and finds a different rule: *Yaakov* wherever
-the Torah shows him downcast or in distress, *Yisrael* wherever he is at peace and
-content.
+**When the Torah says Yaakov and when Yisrael.**
+- Many commentators, among them the Maharal and Rav Hirsch: the name marks the
+  frame, *Yaakov* for the individual and *Yisrael* for the man in his role as
+  father of the nation.
+- Rabbi Elimelech of Lizhensk: the two names stand for two avenues of avodah,
+  *Yaakov* for *yiras Hashem* and *Yisrael* for *ahavas Hashem*.
+- The Ohr HaChaim works through the pesukim systematically and finds a different
+  rule: *Yaakov* wherever the Torah shows him downcast or in distress, *Yisrael*
+  wherever he is at peace and content.
 
-**What Yeshurun means.** Ramban (to Bamidbar 23:10, Devarim 2:10 and 7:12): *yashar*,
-straight, given precisely to counter Esav's claim (Bereishis 27:36) that *Yaakov* comes
-from ע-ק-ב in its other sense of trickery; Michah 7:20 pairs Yaakov with truth. A
-tradition preserved in *Arugas HaBosem* of Rabbi Avraham ben Ezriel, *Peirush HaRokeach*
-to the Siddur, and *Eitz Yosef* of Rabbi Chanoch Zundel of Bialystok reads it as *yashar
-v'naeh*, straight and fine, the two phrases matching in *gematria* when *Yeshurun* is
-spelled with two vavs. Rabbeinu Bachya: from *shur*, to gaze, since they came nearest to
-gazing on the Shechinah at Har Sinai. The Vilna Gaon: from *shir*, song, for the shirah
-at the Sea. Rabbi Yaakov Tzvi Mecklenburg: from *shirah* as a name of the Torah (Devarim
-31:19), since they alone accepted it.
+**What Yeshurun means.**
+- Ramban (to Bamidbar 23:10, Devarim 2:10 and 7:12): *yashar*, straight, given
+  precisely to counter Esav's claim (Bereishis 27:36) that *Yaakov* comes from
+  ע-ק-ב in its other sense of trickery; Michah 7:20 pairs Yaakov with truth.
+- A tradition preserved in *Arugas HaBosem* of Rabbi Avraham ben Ezriel,
+  *Peirush HaRokeach* to the Siddur, and *Eitz Yosef* of Rabbi Chanoch Zundel of
+  Bialystok reads it as *yashar v'naeh*, straight and fine, the two phrases
+  matching in *gematria* when *Yeshurun* is spelled with two vavs.
+- Rabbeinu Bachya: from *shur*, to gaze, since they came nearest to gazing on
+  the Shechinah at Har Sinai.
+- The Vilna Gaon: from *shir*, song, for the shirah at the Sea.
+- Rabbi Yaakov Tzvi Mecklenburg: from *shirah* as a name of the Torah (Devarim
+  31:19), since they alone accepted it.
 
 **Whether Yeshurun is a name of the Jewish People at all.** The Maharsha holds that
 *Yeshurun* is a Name of Hashem, and ascribes the view to Rashi. Rabbi Yechezkel Landau
@@ -83,15 +87,18 @@ the doubled expression by taking "Forgiver of Israel" of sins between man and Ha
 typified by the Eigel, and "Pardoner of the Tribes of Yeshurun" of sins between man and
 his fellow, typified by the brothers' sale of Yosef.
 
-**Which name stands highest.** The Zohar ranks them: *Yisrael* above *Yaakov* (*Vayechi*
-222a), and *Yeshurun* above *Yisrael* (*Vayishlach* 177b). The Chasam Sofer (to Yoma
-73b), explaining why later breastplates read *shivtei Yisrael* rather than *shivtei
-Yeshurun*, says that *Yisrael* is *yashar* plus *El*, a high level reached with Divine
-help, while *Yeshurun* describes a people inherently straight, at their peak through
-their own effort. *Megaleh Amukos* of Rabbi Nosson Nota Shapiro maps the three onto the
-Arizal's worlds by the shape of the suffixes, angels of *Beriah* ending in *-el* and
-those of *Yetzirah* in *-on/-ron*: *Yaakov* in *Asiyah*, *Yisrael* in *Beriah*,
-*Yeshurun* in *Yetzirah*.
+**Which name stands highest.**
+- The Zohar ranks them: *Yisrael* above *Yaakov* (*Vayechi* 222a), and
+  *Yeshurun* above *Yisrael* (*Vayishlach* 177b).
+- The Chasam Sofer (to Yoma 73b), explaining why later breastplates read
+  *shivtei Yisrael* rather than *shivtei Yeshurun*, says that *Yisrael* is
+  *yashar* plus *El*, a high level reached with Divine help, while *Yeshurun*
+  describes a people inherently straight, at their peak through their own
+  effort.
+- *Megaleh Amukos* of Rabbi Nosson Nota Shapiro maps the three onto the Arizal's
+  worlds by the shape of the suffixes, angels of *Beriah* ending in *-el* and
+  those of *Yetzirah* in *-on/-ron*: *Yaakov* in *Asiyah*, *Yisrael* in
+  *Beriah*, *Yeshurun* in *Yetzirah*.
 
 ## Distinctions
 

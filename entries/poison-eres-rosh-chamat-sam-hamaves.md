@@ -114,19 +114,21 @@ HaShorashim*); the point of the analogy, Rabbi Klein suggests, is presumably tha
 sin is bound to a man forever and resurfaces on the Day of Judgment (Sotah 3b).
 Others explain *eches* as "dog."
 
-Dr. Alexander Kohut was the first to note that Rashi's reading of *eches* as
-snake venom was likely informed by the Greek *echis*, viper, and *echis* does
-seem to appear in rabbinic literature in that sense, since the Midrash renders
-*efeh*, a Biblical snake, as *echis* (*Midrash Tanchuma*, *Beshalach* 18, and *Mechilta* to
-Shemos 15:22). Rashi himself (to Shabbos 62b) gives a
-different etymology of *eches*: a metathesis of *ka'as*, anger, since a snake
-emits venom only when angered. Rabbeinu Efrayim supposes the converse, that
-*ka'as* is a metathesis of *eches*, since anger puts a sort of poison in a man's
-heart. Either way, the connection is already in the Gemara, which expounds the
-name of Kalev's daughter Achsah (Yehoshua 15:16-17, Shoftim 1:12-13, Divrei
-HaYamim I 2:49) as one at whom every man who saw her grew angry (*ka'as*) at his
-wife, which Rashi explains to mean that she was so beautiful that the comparison
-might make a man angry at his wife for falling short; the exegesis rests on the
+- Dr. Alexander Kohut was the first to note that Rashi's reading of *eches* as
+  snake venom was likely informed by the Greek *echis*, viper, and *echis* does
+  seem to appear in rabbinic literature in that sense, since the Midrash renders
+  *efeh*, a Biblical snake, as *echis* (*Midrash Tanchuma*, *Beshalach* 18, and
+  *Mechilta* to Shemos 15:22).
+- Rashi himself (to Shabbos 62b) gives a different etymology of *eches*: a
+  metathesis of *ka'as*, anger, since a snake emits venom only when angered.
+- Rabbeinu Efrayim supposes the converse, that *ka'as* is a metathesis of
+  *eches*, since anger puts a sort of poison in a man's heart.
+
+Either way, the connection is already in the Gemara, which expounds the name of
+Kalev's daughter Achsah (Yehoshua 15:16-17, Shoftim 1:12-13, Divrei HaYamim I
+2:49) as one at whom every man who saw her grew angry (*ka'as*) at his wife,
+which Rashi explains to mean that she was so beautiful that the comparison might
+make a man angry at his wife for falling short; the exegesis rests on the
 metathesis of ע-כ-ס against כ-ע-ס. The great Italian mekubal Rabbi Menachem
 Azariah of Fano (1548-1620) reads her name as marking her a gilgul of Tzipporah,
 who saved Moshe from death by *nachash* through circumcising their child (Shemos

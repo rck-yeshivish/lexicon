@@ -77,19 +77,21 @@ one-in-a-hundred rule as Biblical anyway.
 ### dimah (דמעה), tear
 Root ד-מ-ע again, eleven times in Tanach as the noun and twice as a verb
 (Yirmiyahu 13:17), and in Mishnaic Hebrew too (Sotah 7:8, of Agrippa weeping at
-the pasuk barring a foreign king, Devarim 17:15). Rabbeinu Yonah ibn Janach
-(*Sefer HaShorashim*): the two senses are unrelated meanings of one root.
-Menachem Ibn Saruk (*Machberes Menachem*): as tears are pristine liquid from the
-eye, so *dimah* is pristine liquid produce, wine or oil without sediment. Ibn
-Ezra and Radak (*Sefer HaShorashim*): pressed wine and oil emerge drop by drop,
-like tears.
-Ramban also suggests that perhaps the agricultural sense is borrowed from the
-tear, or that neither is borrowed and *dimah* means tear-like droplets of any
-kind. Maharal (*Gur Aryeh*): terumah is *dimah* because it applies once the
-wine or oil has separated from the fruit, as a tear separates from the eye.
-Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) bridges the two meanings:
-mixture is the core sense, as it more commonly is in Mishnaic Hebrew, and tears
-show outwardly how mixed up a man's feelings are.
+the pasuk barring a foreign king, Devarim 17:15).
+- Rabbeinu Yonah ibn Janach (*Sefer HaShorashim*): the two senses are unrelated
+  meanings of one root.
+- Menachem Ibn Saruk (*Machberes Menachem*): as tears are pristine liquid from
+  the eye, so *dimah* is pristine liquid produce, wine or oil without sediment.
+- Ibn Ezra and Radak (*Sefer HaShorashim*): pressed wine and oil emerge drop by
+  drop, like tears.
+- Ramban also suggests that perhaps the agricultural sense is borrowed from the
+  tear, or that neither is borrowed and *dimah* means tear-like droplets of any
+  kind.
+- Maharal (*Gur Aryeh*): terumah is *dimah* because it applies once the wine or
+  oil has separated from the fruit, as a tear separates from the eye.
+- Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) bridges the two
+  meanings: mixture is the core sense, as it more commonly is in Mishnaic
+  Hebrew, and tears show outwardly how mixed up a man's feelings are.
 
 Rav Hirsch (to Shemos 22:28) takes a different tack: the obligation of terumah
 begins only once produce has been fully worked by man, unlike bikkurim, which

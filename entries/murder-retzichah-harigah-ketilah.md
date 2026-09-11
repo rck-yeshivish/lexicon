@@ -74,24 +74,26 @@ blow delivered, while *harigah* is the act of killing as such.
 to killing a Jew; Rabbi Yaakov Berger (*Milon Leshon Mikra*) asks whether that
 was meant about the word or about the halachah, and leaves it open.
 
-**What ketilah means.** Menachem Ibn Saruk (*Machberes Menachem*) identifies the
-Hebrew ק-ט-ל with the Aramaic and defines both as killing, so that for him the
-Hebrew *ketilah* is a synonym of *harigah*; Rashi likewise renders *ketilah*, in
-both languages, as *harigah* (Ovadiah 1:9; Daniel 2:13; Pesachim 111a; Gittin
-59a; Bava Kamma 23b; Chullin 11b; Niddah 20b).
-Rabbi Nathan Adler holds it need not mean killing at all but striking, since the
-Gemara speaks of full *ketilah* against partial *ketilah* (Bava Kamma 65a; Bava
-Metzia 95a; Chullin 35b; Niddah 55b), and there is no partial killing. Rabbi Pappenheim splits the languages: in Aramaic
-it equals *harigah* and *retzichah*, but the Hebrew *ketilah* is striking a man
-into a helpless state on the verge of death, so that though he may technically
-still be alive he has effectively been killed; he takes the root as a
-portmanteau of the biliterals ק-ט, "cutting/submitting," and ט-ל,
-"throwing/lowering." Rabbi Klein adds that there may be some support for this in
-*Sefer HaChachmah* (ascribed to Rabbi Elazar Rokeach of Worms), which has
-*ketilah* as killing in a prolonged and tortuous way rather than at one
-stroke. Hence two accounts of Onkelos's *lo tiktol
-nefesh*: Wertheimer, that *ketilah* alone would have implied animals; Rabbi
-Adler, only striking.
+**What ketilah means.**
+- Menachem Ibn Saruk (*Machberes Menachem*) identifies the Hebrew ק-ט-ל with the
+  Aramaic and defines both as killing, so that for him the Hebrew *ketilah* is a
+  synonym of *harigah*; Rashi likewise renders *ketilah*, in both languages, as
+  *harigah* (Ovadiah 1:9; Daniel 2:13; Pesachim 111a; Gittin 59a; Bava Kamma
+  23b; Chullin 11b; Niddah 20b).
+- Rabbi Nathan Adler holds it need not mean killing at all but striking, since
+  the Gemara speaks of full *ketilah* against partial *ketilah* (Bava Kamma 65a;
+  Bava Metzia 95a; Chullin 35b; Niddah 55b), and there is no partial killing.
+- Rabbi Pappenheim splits the languages: in Aramaic it equals *harigah* and
+  *retzichah*, but the Hebrew *ketilah* is striking a man into a helpless state
+  on the verge of death, so that though he may technically still be alive he has
+  effectively been killed; he takes the root as a portmanteau of the biliterals
+  ק-ט, "cutting/submitting," and ט-ל, "throwing/lowering." Rabbi Klein adds that
+  there may be some support for this in *Sefer HaChachmah* (ascribed to Rabbi
+  Elazar Rokeach of Worms), which has *ketilah* as killing in a prolonged and
+  tortuous way rather than at one stroke.
+
+Hence two accounts of Onkelos's *lo tiktol nefesh*: Wertheimer, that *ketilah*
+alone would have implied animals; Rabbi Adler, only striking.
 
 ## Distinctions
 

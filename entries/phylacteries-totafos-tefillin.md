@@ -58,20 +58,22 @@ tefillin sitting by the eyes and looking outward. The Gemara (Berachos 6a) reads
 this, Rabbi Klein reasons, it makes sense that the biblical word for them might
 be related to seeing.
 
-**Dripping.** Menachem Ibn Saruk (920-970; *Machberes Menachem*, cited by Rashi
-to Shemos 13:16) takes the word from the biliteral ט-פ, which
-yields four categories: *taf* (children), *notef*/*tipah* (dripping), *netifos*
-(adornments and niceties), and *matif* (speech, preaching). He explicitly classes
-*totafos* with the last of these, but offers no further justification for the
-assertion. A separate approach connects *totafos* to the "dripping" sense of
-(נ)ט-פ: Rabbi Yissocher Ber Eilenberg (1550-1623; *Tzeidah LaDerech* to Shemos
-13:16) quotes in the name of his teacher Rabbi Mordechai Yaffe (1530-1612) that
-tefillin picture the trickle-down of how Hashem sustains the world: the black
-leather box above stands for His dominion rising over all of existence, the
-straps descending from it for the influence that reaches down into the world's
-inner core, represented by the wearer's torso. *Daas Mikra* (to Shemos 13:16)
-more simply reads *totafos* as head jewelry that would typically hang down, as
-though dripping, connecting it to *netifos* (Yeshayahu 3:19).
+**Dripping.**
+- Menachem Ibn Saruk (920-970; *Machberes Menachem*, cited by Rashi to Shemos
+  13:16) takes the word from the biliteral ט-פ, which yields four categories:
+  *taf* (children), *notef*/*tipah* (dripping), *netifos* (adornments and
+  niceties), and *matif* (speech, preaching). He explicitly classes *totafos*
+  with the last of these, but offers no further justification for the assertion.
+- A separate approach connects *totafos* to the "dripping" sense of (נ)ט-פ:
+  Rabbi Yissocher Ber Eilenberg (1550-1623; *Tzeidah LaDerech* to Shemos 13:16)
+  quotes in the name of his teacher Rabbi Mordechai Yaffe (1530-1612) that
+  tefillin picture the trickle-down of how Hashem sustains the world: the black
+  leather box above stands for His dominion rising over all of existence, the
+  straps descending from it for the influence that reaches down into the world's
+  inner core, represented by the wearer's torso.
+- *Daas Mikra* (to Shemos 13:16) more simply reads *totafos* as head jewelry
+  that would typically hang down, as though dripping, connecting it to *netifos*
+  (Yeshayahu 3:19).
 
 **Secondary or subordinate.** Rabbi Shlomo Pappenheim (1740-1814; *Chesheik
 Shlomo*) champions Ibn Saruk's biliteralism and gives ט-פ the core sense of what
@@ -86,24 +88,26 @@ straps merely secondary. He then concludes: the Torah is saying the head tefilli
 should be worn where people would normally wear their *totafos*, not that
 *totafos* is the name of the tefillin.
 
-**A foreign word.** All the readings above seem to presume *totafos* is a native Hebrew
-word; the Gemara supplies one that seemingly treats it as a loanword. Rabbi Akiva
-(Menachos 34b, cited by Rashi to Devarim 6:8) parses *totafos* as *tot*, two in
-Coptic, and *fot*, two in *Afriki* (which Rabbi Klein glosses as Phrygian),
-alluding to the four parshiyos written on the parchments inside (or, per Rashi to
-Shemos 13:16, the four chambers of the head tefillin). Others place the word in
-Aramaic: Rabbeinu Chaim Paltiel (to Shemos 13:16) relates it to *t'fei* ("more,"
-"addition"), since tefillin make a person more likely to remember the exodus, and
-Rabbi Mecklenburg to the Aramaic for appeasement (Targum to Bereishis 34:22,
-Mishlei 1:10). Others again read it as Egyptian: Rabbi Avraham Saba (1440-1508;
-*Tzror HaMor* to Shemos 13:16) connects it to Egyptian headdresses, and Abarbanel
-(there) holds it is the Egyptian word for "brain." A similar explanation has
-been proposed more recently by Professor Hubert Grimme (1864-1942), cited by
-Professor Jeffrey H. Tigay, who derives *totafos* from the Egyptian
-*ddft*, "snake," a reference to the Uraeus snake often worn on the headdress in
-ancient Egypt. It has even been suggested that *totafos* somehow relates to the
-names of the Egyptian deities Thoth and Ptah, but Rabbi Klein has not seen this
-cited in any serious scholarship on the topic.
+**A foreign word.** All the readings above seem to presume *totafos* is a native
+Hebrew word; the Gemara supplies one that seemingly treats it as a loanword.
+- Rabbi Akiva (Menachos 34b, cited by Rashi to Devarim 6:8) parses *totafos* as
+  *tot*, two in Coptic, and *fot*, two in *Afriki* (which Rabbi Klein glosses as
+  Phrygian), alluding to the four parshiyos written on the parchments inside
+  (or, per Rashi to Shemos 13:16, the four chambers of the head tefillin).
+- Others place the word in Aramaic: Rabbeinu Chaim Paltiel (to Shemos 13:16)
+  relates it to *t'fei* ("more," "addition"), since tefillin make a person more
+  likely to remember the exodus, and Rabbi Mecklenburg to the Aramaic for
+  appeasement (Targum to Bereishis 34:22, Mishlei 1:10).
+- Others again read it as Egyptian: Rabbi Avraham Saba (1440-1508; *Tzror HaMor*
+  to Shemos 13:16) connects it to Egyptian headdresses, and Abarbanel (there)
+  holds it is the Egyptian word for "brain."
+- A similar explanation has been proposed more recently by Professor Hubert
+  Grimme (1864-1942), cited by Professor Jeffrey H. Tigay, who derives *totafos*
+  from the Egyptian *ddft*, "snake," a reference to the Uraeus snake often worn
+  on the headdress in ancient Egypt.
+- It has even been suggested that *totafos* somehow relates to the names of the
+  Egyptian deities Thoth and Ptah, but Rabbi Klein has not seen this cited in
+  any serious scholarship on the topic.
 
 ### tefillin (תפילין)
 Common in the Mishnah (Berachos 3:1, Shabbos 6:2, 16:1, Eruvin 10:1, Shekalim

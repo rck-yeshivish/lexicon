@@ -39,17 +39,18 @@ The Midrashim (*Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22;
 *evyon*, *misken*, *rash*, *dal*, *dach*, *mach*, *ish techachim* and *heilech*.
 
 ### ani (עני)
-Bava Metzia 111b: given the choice, hire the *ani* rather than the *evyon*, for
-the *evyon* is worse off but accustomed to it and unashamed to ask for handouts,
-while the *ani* is too embarrassed to ask and so his need goes unmet. The Gemara
-thus seems to imply that *ani* and *evyon* mark degrees of poverty: an *ani* is
-poor but still has his pride and keeps up a normal front, while an *evyon* has
-given up all pretense of self-sufficiency. Rabbi Avraham Bedersi HaPenini
-(1230-1300) derives *ani* (with an ayin) from *inui*,
-affliction: strictly it is anyone afflicted by anything, though in nearly every
-context the affliction is financial. Rabbi Yehuda Kalatz (*Sefer HaMussar*), a
-late fifteenth-century scholar exiled from Spain to North Africa: the *ani*
-works hard his whole life and manages only a meager living.
+- Bava Metzia 111b: given the choice, hire the *ani* rather than the *evyon*,
+  for the *evyon* is worse off but accustomed to it and unashamed to ask for
+  handouts, while the *ani* is too embarrassed to ask and so his need goes
+  unmet. The Gemara thus seems to imply that *ani* and *evyon* mark degrees of
+  poverty: an *ani* is poor but still has his pride and keeps up a normal front,
+  while an *evyon* has given up all pretense of self-sufficiency.
+- Rabbi Avraham Bedersi HaPenini (1230-1300) derives *ani* (with an ayin) from
+  *inui*, affliction: strictly it is anyone afflicted by anything, though in
+  nearly every context the affliction is financial.
+- Rabbi Yehuda Kalatz (*Sefer HaMussar*), a late fifteenth-century scholar
+  exiled from Spain to North Africa: the *ani* works hard his whole life and
+  manages only a meager living.
 
 ### evyon (אביון)
 Related to *ta'av*, desire: full of wants he cannot fill. Bedersi draws the
@@ -62,21 +63,22 @@ edge: the *evyon* is lazy and brought it on himself by refusing even to try,
 having no trade, no skill, no business, and not even the knack of appealing for
 charity.
 
-The gradation carries halachic weight in *matanos la'evyonim* on Purim. Some
-authorities, such as Rabbi Yair Chaim Bachrach (1639-1702) and Rabbi Moshe
-Sternbuch, hold that one should give preferentially to an *evyon* rather than an
-ordinary *ani*. Rabbi Yechiel Michel Epstein
-(1829-1907) and Rav Chaim Kanievsky read it the other way: the Megillah says the
-gifts may be given *even* to an *evyon*, and certainly to an *ani*, whose need is
-more pressing and otherwise less likely to be met precisely because he will not
-ask. Along these lines Rabbi Shlomo Aharon Wertheimer (1866-1935) reports an
-idea he saw in an unpublished commentary of Rabbi Avraham ben Yitzchak HaLevi
-Tamach (d. 1393) to *Eishes Chayil*: the doubled clause "she stretched her palm
-to an *ani* and sent forth her hands to an *evyon*" (Mishlei 31:20) gives one
-hand to the *ani* and two to the *evyon*, whose need is greater. Wertheimer saw
-that commentary only in manuscript; it was published later, by Dr. Leon Aryeh
-Feldman of Rutgers University, in a 1971 *Sefer Zikaron* honoring Dr. Shmuel
-Mirsky.
+The gradation carries halachic weight in *matanos la'evyonim* on Purim.
+- Some authorities, such as Rabbi Yair Chaim Bachrach (1639-1702) and Rabbi
+  Moshe Sternbuch, hold that one should give preferentially to an *evyon* rather
+  than an ordinary *ani*.
+- Rabbi Yechiel Michel Epstein (1829-1907) and Rav Chaim Kanievsky read it the
+  other way: the Megillah says the gifts may be given *even* to an *evyon*, and
+  certainly to an *ani*, whose need is more pressing and otherwise less likely
+  to be met precisely because he will not ask.
+- Along these lines Rabbi Shlomo Aharon Wertheimer (1866-1935) reports an idea
+  he saw in an unpublished commentary of Rabbi Avraham ben Yitzchak HaLevi
+  Tamach (d. 1393) to *Eishes Chayil*: the doubled clause "she stretched her
+  palm to an *ani* and sent forth her hands to an *evyon*" (Mishlei 31:20) gives
+  one hand to the *ani* and two to the *evyon*, whose need is greater.
+  Wertheimer saw that commentary only in manuscript; it was published later, by
+  Dr. Leon Aryeh Feldman of Rutgers University, in a 1971 *Sefer Zikaron*
+  honoring Dr. Shmuel Mirsky.
 
 ### misken (מסכן)
 Related to *sakanah*, danger: the forced austerity endangers his life. Rabbi

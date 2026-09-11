@@ -53,19 +53,21 @@ with Rashi at Yechezkel 16:29, Hoshea 12:8, Iyov 41:30), means "trader," not
 
 ## Where the authorities disagree
 
-**Whether *socher* and *rochel* differ at all.** Rashi (to Erchin 23b) defines
-*rochel* by *socher*, showing that he saw the two as more or less synonymous.
-Malbim (to Yechezkel 17:4, 27:3) builds a three-tier trade: super-wholesalers
-who sail abroad in large ships to import, the *socher* who buys from them in
-bulk and supplies the *rochel*, and the *rochel* who buys from the *socher* and
-goes place to place, with the *cnaani* a middleman between the last two,
-selling on a smaller scale than the *socher* but a bigger man than the
-*rochel*; a similar understanding is implied by Rabbi Moshe Tedeschi-Ashkenazi,
-who writes that the *rochel* does not travel a *socher*'s distances. Rabbi Klein
-enters his own dissent: had he been asked, he would have put the
-*cnaani* at the top, as the super-wholesaler who supplies the *socher*, since
-the Canaanites were known for overseas trading ventures, which fits Malbim's
-description of those mega-suppliers.
+**Whether *socher* and *rochel* differ at all.**
+- Rashi (to Erchin 23b) defines *rochel* by *socher*, showing that he saw the
+  two as more or less synonymous.
+- Malbim (to Yechezkel 17:4, 27:3) builds a three-tier trade: super-wholesalers
+  who sail abroad in large ships to import, the *socher* who buys from them in
+  bulk and supplies the *rochel*, and the *rochel* who buys from the *socher*
+  and goes place to place, with the *cnaani* a middleman between the last two,
+  selling on a smaller scale than the *socher* but a bigger man than the
+  *rochel*; a similar understanding is implied by Rabbi Moshe
+  Tedeschi-Ashkenazi, who writes that the *rochel* does not travel a *socher*'s
+  distances.
+- Rabbi Klein enters his own dissent: had he been asked, he would have put the
+  *cnaani* at the top, as the super-wholesaler who supplies the *socher*, since
+  the Canaanites were known for overseas trading ventures, which fits Malbim's
+  description of those mega-suppliers.
 
 **What a *rochel* sells.** Rashi, consistently and in many places (to Vayikra
 19:16; Melachim I 10:15; Shabbos 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a;
@@ -73,16 +75,17 @@ Bava Kamma 82a; Bava Basra 22a; Sanhedrin 100b), makes him a seller of
 perfumes and fragrances for women, though in some contexts the word seems to
 mean a merchant of any sort of goods (see pseudo-Rashi to Nazir 21a).
 
-**Where *cnaani* as "merchant" comes from.** Rabbi Yehuda Leib
-Shapira-Frankfurter (*HaRechasim LaVikah* to Vayikra 16:21): the word may
-originally have been a gentilic for the nation, and widened, once the
-Canaanites were famous as traders, to anyone in the trade. Rabbi Shimon Yehuda
-Leib Goldblit (*Leshon Chachamim*), and in a similar vein earlier Rabbi Yosef
-Nechemias (to Mishlei 31:24), take it from כ-נ-ע, submissiveness, as in
-*hachna'ah*, because a merchant typically speaks to his prospective customers in a subdued, servile way. Rabbi
-David Chaim Chelouche suggests *cnaani* means merchant for the same reason
-*socher* does: its core root is the two-letter נ-ע, movement, as in *tenuah*,
-and it names the merchant's habit of being constantly on the road.
+**Where *cnaani* as "merchant" comes from.**
+- Rabbi Yehuda Leib Shapira-Frankfurter (*HaRechasim LaVikah* to Vayikra 16:21):
+  the word may originally have been a gentilic for the nation, and widened, once
+  the Canaanites were famous as traders, to anyone in the trade.
+- Rabbi Shimon Yehuda Leib Goldblit (*Leshon Chachamim*), and in a similar vein
+  earlier Rabbi Yosef Nechemias (to Mishlei 31:24), take it from כ-נ-ע,
+  submissiveness, as in *hachna'ah*, because a merchant typically speaks to his
+  prospective customers in a subdued, servile way.
+- Rabbi David Chaim Chelouche suggests *cnaani* means merchant for the same
+  reason *socher* does: its core root is the two-letter נ-ע, movement, as in
+  *tenuah*, and it names the merchant's habit of being constantly on the road.
 
 ## Distinctions
 
@@ -94,13 +97,14 @@ also carries "around": *secharchar* (Tehillim 38:11), round-going movement, and
 modern Hebrew *secharchoret*, dizziness; Targum's usual rendering of *saviv* is
 *s'chor*; and Chazal have the warning to a nazir who nears a vineyard, *lech
 lech, sechor sechor*, "go, go, around, around, do not approach the vineyard"
-(*Shabbos* 13a and parallels). Ibn Saruk and Ibn Janach seem to take the
-"merchant" and "around" senses as two unrelated meanings in one root; Radak
-bridges them, since a merchant typically travels around. Rabbi Moshe
-Tedeschi-Ashkenazi (1821-1898) suggests that perhaps *socher* derives instead
-from *sahar*, "moon," the ches and hei interchanging, since just as the full
-moon is seen as a complete circle, so the *socher* goes around in a circuit
-selling his wares.
+(*Shabbos* 13a and parallels).
+- Ibn Saruk and Ibn Janach seem to take the "merchant" and "around" senses as
+  two unrelated meanings in one root.
+- Radak bridges them, since a merchant typically travels around.
+- Rabbi Moshe Tedeschi-Ashkenazi (1821-1898) suggests that perhaps *socher*
+  derives instead from *sahar*, "moon," the ches and hei interchanging, since
+  just as the full moon is seen as a complete circle, so the *socher* goes
+  around in a circuit selling his wares.
 
 ### rochel (רוכל)
 Seventeen times, mostly in Yechezkel, with a feminine *rocheles*. The adjacent

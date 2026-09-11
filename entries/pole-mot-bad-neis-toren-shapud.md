@@ -40,19 +40,22 @@ and pole. The Zohar (*Shelach* 160b) reads one: the definite article on *mot*
 points back to something already named, and the same piece of wood is called
 *zemorah* while attached to the tree and *mot* once cut.
 
-Roots: the triliteralists Ibn Janach and Radak, each in his *Sefer
-HaShorashim*, מ-ו-ט. The medieval biliteralist Menachem Ibn Saruk
-(*Machberes Menachem*), the two-letter מ-ט, which also yields *tamut*
-(slipping), *mateh* (staff), *matteh* (tribe), *mitah* (bed) and Aramaic *mata*
-(touching), so that for him the middle vav is extraneous. The Enlightenment-era
-biliteralist Rabbi Shlomo Pappenheim takes even the *mem* as extraneous and
-works from ט-ה, whose core sense is changing the present
-situation by inclining or turning: *natah*, *lematah*, *matah*, *mitah* (one
-inclines to lie down), *mateh* (leaned on while walking). In *Cheishek Shlomo*
-he offers two readings of *mot* and says the pesukim cannot decide between
-them: either a thick pole, typically from the lower part of a tree, hence *lematah*, or a
-pole typically taken from a branch that turns out sideways from the trunk, hence *natah*. In *Yerios
-Shlomo* he simply calls a *mot* a reinforced *mateh*.
+Roots:
+- the triliteralists Ibn Janach and Radak, each in his *Sefer HaShorashim*,
+  מ-ו-ט.
+- The medieval biliteralist Menachem Ibn Saruk (*Machberes Menachem*), the
+  two-letter מ-ט, which also yields *tamut* (slipping), *mateh* (staff),
+  *matteh* (tribe), *mitah* (bed) and Aramaic *mata* (touching), so that for him
+  the middle vav is extraneous.
+- The Enlightenment-era biliteralist Rabbi Shlomo Pappenheim takes even the
+  *mem* as extraneous and works from ט-ה, whose core sense is changing the
+  present situation by inclining or turning: *natah*, *lematah*, *matah*,
+  *mitah* (one inclines to lie down), *mateh* (leaned on while walking). In
+  *Cheishek Shlomo* he offers two readings of *mot* and says the pesukim cannot
+  decide between them: either a thick pole, typically from the lower part of a
+  tree, hence *lematah*, or a pole typically taken from a branch that turns out
+  sideways from the trunk, hence *natah*. In *Yerios Shlomo* he simply calls a
+  *mot* a reinforced *mateh*.
 
 ### bad (בד)
 Rabbi Shlomo of Urbino (*Ohel Moed*) makes *mot* and *bad* synonyms. *Badim* are

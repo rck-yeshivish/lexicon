@@ -98,15 +98,17 @@ cantillation system) the Targum splits them, *boker* as *tzafra* and *shachar* a
 *kritzuta*. *Tzafra* is the standard Aramaic for morning in the Gemara; Rashi's
 greeting was *tzafra d'mareh tav*.
 
-*Tzafra* and *tzipor* (bird) are clearly linked, but, as Rabbi Klein concludes, it
-is hard to say which came first. Ramban
-(Vayikra 14:4): *tzipor* comes from *tzafra*, since birds wake early and chirp.
-Rabbi Aharon Marcus: the reverse, *tzafra* from *tzipor*. Rabbi Yaakov Zev Lev
-(*Me'at Tzari*) notes that the *Rokeach* himself apparently has it both ways: to Bereishis
-1:5 he derives *tzafra* from *tzipor* (dawn is *shachar*, akin to *shachor*, and
-black suggests the blackbird; also birds tend to be about early), and to Bereishis 1:20
-he derives *tzipor* from *tzafra* (like Ramban), since birds tend to fly up high
-before sunup.
+*Tzafra* and *tzipor* (bird) are clearly linked, but, as Rabbi Klein concludes,
+it is hard to say which came first.
+- Ramban (Vayikra 14:4): *tzipor* comes from *tzafra*, since birds wake early
+  and chirp.
+- Rabbi Aharon Marcus: the reverse, *tzafra* from *tzipor*.
+- Rabbi Yaakov Zev Lev (*Me'at Tzari*) notes that the *Rokeach* himself
+  apparently has it both ways: to Bereishis 1:5 he derives *tzafra* from
+  *tzipor* (dawn is *shachar*, akin to *shachor*, and black suggests the
+  blackbird; also birds tend to be about early), and to Bereishis 1:20 he
+  derives *tzipor* from *tzafra* (like Ramban), since birds tend to fly up high
+  before sunup.
 
 Targum Yonasan (Bereishis 19:15 and 32:27) gives *kritizin* for *shachar*; Targum
 Neofiti simply Aramaicizes it to *shachara*. Rabbi Moshe Kosover of Beit

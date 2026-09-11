@@ -28,28 +28,30 @@ distinguishes *areimah* from *chamarim* in meaning.
 
 ### areimah (ערמה)
 Root ע-ר-ם. Eleven times in Tanach in the sense of "pile" beyond Shemos 15:8,
-including Yirmiyahu 50:26, Chaggai 2:16, Rus 3:7, Nechemiah 3:34 and 13:15, Shir HaShirim 7:3, and a
-cluster in Divrei HaYamim II 31:6-9; in Mishnaic Hebrew at *Terumos* 2:1,
-*Maasros* 1:5-6 and 5:7, and *Beitzah* 4:1. The same root also carries
-"cleverness" (Bereishis 3:1, Iyov 5:12, Mishlei 19:25) and "nakedness."
-*Machberet Menachem* lists all three senses without intimating a connection
-between them. Rav Hirsch (1808-1888, to Bereishis 2:25) ties "pile" to
-"cleverness": a pile is typically many items, each worth little alone, that can
-become something important when heaped together, and cleverness is like a pile
-of thoughts a man has considered, no one of which looks like much until they are joined. Having
-explained those two, he admits that he does not know how "nakedness" fits the
-picture, and derives that word instead from ע-ו-ר (*ohr*, skin); elsewhere (to
-Bereishis 13:13) he does connect the two, the clever man being unencumbered by
-the worldly considerations that often cloud a man's intellect, so that in being "naked"
-he can think straight, and Rabbi Aharon Marcus (1843-1916, *Keses HaSofer* to
-Bereishis 3:1) makes a similar point. Rabbi Shlomo Pappenheim of Breslau
-(1740-1814) traces ע-ר-ם to the biliteral ע-ר, "revealing, unconcealed":
-nakedness exposes the body; in the typical agrarian practice a pile of grain is
-grain already taken out of its sheaves and so revealed; *eir* ("awake") is the man whose abilities, hidden while
-he sleeps, are suddenly revealed, and thence "cleverness," the mind that stays
-sharp and aware as though always awake. He adds *armon* (Bereishis 30:37), a tree
-(possibly the *Platanus orientalis*) with branches only at the top and none along
-its length, so that it looks "naked."
+including Yirmiyahu 50:26, Chaggai 2:16, Rus 3:7, Nechemiah 3:34 and 13:15, Shir
+HaShirim 7:3, and a cluster in Divrei HaYamim II 31:6-9; in Mishnaic Hebrew at
+*Terumos* 2:1, *Maasros* 1:5-6 and 5:7, and *Beitzah* 4:1. The same root also
+carries "cleverness" (Bereishis 3:1, Iyov 5:12, Mishlei 19:25) and "nakedness."
+- *Machberet Menachem* lists all three senses without intimating a connection
+  between them.
+- Rav Hirsch (1808-1888, to Bereishis 2:25) ties "pile" to "cleverness": a pile
+  is typically many items, each worth little alone, that can become something
+  important when heaped together, and cleverness is like a pile of thoughts a
+  man has considered, no one of which looks like much until they are joined.
+  Having explained those two, he admits that he does not know how "nakedness"
+  fits the picture, and derives that word instead from ע-ו-ר (*ohr*, skin);
+  elsewhere (to Bereishis 13:13) he does connect the two, the clever man being
+  unencumbered by the worldly considerations that often cloud a man's intellect,
+  so that in being "naked" he can think straight, and Rabbi Aharon Marcus
+  (1843-1916, *Keses HaSofer* to Bereishis 3:1) makes a similar point.
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814) traces ע-ר-ם to the biliteral
+  ע-ר, "revealing, unconcealed": nakedness exposes the body; in the typical
+  agrarian practice a pile of grain is grain already taken out of its sheaves
+  and so revealed; *eir* ("awake") is the man whose abilities, hidden while he
+  sleeps, are suddenly revealed, and thence "cleverness," the mind that stays
+  sharp and aware as though always awake. He adds *armon* (Bereishis 30:37), a
+  tree (possibly the *Platanus orientalis*) with branches only at the top and
+  none along its length, so that it looks "naked."
 
 ### chamarim (חמרים)
 Seemingly from the root ח-מ-ר. Three times in Tanach for "piles": twice in Shemos 8:10 (the dead

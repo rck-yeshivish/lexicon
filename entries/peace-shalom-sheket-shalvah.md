@@ -39,15 +39,17 @@ Shlomo HaMelech, whose very name is a cognate of *shalom*.
 
 ### shalom (שלום)
 Root ש-ל-ם; Pappenheim takes it back to ש-ל, removed or taken away (שַׁל נעליך,
-Shemos 3:5; *sheol*, *shalal*): *shalem* is that from which nothing removed is still
-missing, complete, and *shalom* is having every good needed for prosperity with
-nothing lacking. Elsewhere he defines it as the absence of friction among multiple
-parties; Hashem is *Adon HaShalom* (Maariv of Shabbos) and *Melech SheHaShalom
-Shelo* (Shir HaShirim Rabbah 3:14) because He has no conflicting parts and is at
-peace with Himself.
-Bedersi (Divrei HaYamim I 22:9): the opposite of war, the cessation of hostilities.
-Wertheimer: *shalom* (with *shalvah*) is total peace and harmony. Malbim: coming to
-terms with something outside oneself, though it can borrow the sense of inner peace.
+Shemos 3:5; *sheol*, *shalal*): *shalem* is that from which nothing removed is
+still missing, complete, and *shalom* is having every good needed for prosperity
+with nothing lacking. Elsewhere he defines it as the absence of friction among
+multiple parties; Hashem is *Adon HaShalom* (Maariv of Shabbos) and *Melech
+SheHaShalom Shelo* (Shir HaShirim Rabbah 3:14) because He has no conflicting
+parts and is at peace with Himself.
+- Bedersi (Divrei HaYamim I 22:9): the opposite of war, the cessation of
+  hostilities.
+- Wertheimer: *shalom* (with *shalvah*) is total peace and harmony.
+- Malbim: coming to terms with something outside oneself, though it can borrow
+  the sense of inner peace.
 
 ### shalvah (שלוה)
 Root ש-ל-ה, from Pappenheim's ש-ל: the state in which every disturbance has been
@@ -69,30 +71,34 @@ content with his present spiritual stature, stop striving for greater perfection
 smugly keep to his tried and tested ways, and so start down the slope toward sin.
 
 ### sheket (שקט)
-Root ש-ק-ט. Bedersi: the opposite of movement, the end of all harried toil, and
-therefore more than *shalom*: "stillness" beside "peace." Wertheimer, without
-citing Bedersi, disagrees with that ranking: *sheket* is only the absence of
-outward conflict, with disagreement possibly still in the background, a ceasefire
-while true *shalom* stays elusive. Pappenheim: not "quiet" so much as patience and
-forbearance, a person no outside stimulus can work into a frenzy; he remains calm
-and serene. Ibn Janach and Radak seem to define it as abeyance, a calming down
-after turbulence.
+Root ש-ק-ט.
+- Bedersi: the opposite of movement, the end of all harried toil, and therefore
+  more than *shalom*: "stillness" beside "peace."
+- Wertheimer, without citing Bedersi, disagrees with that ranking: *sheket* is
+  only the absence of outward conflict, with disagreement possibly still in the
+  background, a ceasefire while true *shalom* stays elusive.
+- Pappenheim: not "quiet" so much as patience and forbearance, a person no
+  outside stimulus can work into a frenzy; he remains calm and serene.
+- Ibn Janach and Radak seem to define it as abeyance, a calming down after
+  turbulence.
 
 ### shaanan (שאנן) and shalanan (שלאנן)
-Malbim: related to *shaon*, boisterous din, and its exact opposite, quiet because
-the din is gone (Yirmiyahu 30:10, 48:11; Mishlei 1:33). Pappenheim: from ש-א, or
-possibly even the monoliteral ש, something uniform or level in which no
-differences among its parts are apparent, a root that runs to both extremes,
-yielding *shoah* and *shayis* for total destruction and *shaanan* for total
-tranquility. Bedersi posits that *shaanan* implies a still more complete rest than
-*sheket* does, and Pappenheim seems to echo him: unlike *shalom* and *shalvah*,
-which are peace, *shaanan* is calmness and serenity, since one may be in a state of
-complete *shalom* yet still be harried tending the products of his prosperity,
-while *shaanan* precludes that busyness and means one need not interact with
-others at all.
+- Malbim: related to *shaon*, boisterous din, and its exact opposite, quiet
+  because the din is gone (Yirmiyahu 30:10, 48:11; Mishlei 1:33).
+- Pappenheim: from ש-א, or possibly even the monoliteral ש, something uniform or
+  level in which no differences among its parts are apparent, a root that runs
+  to both extremes, yielding *shoah* and *shayis* for total destruction and
+  *shaanan* for total tranquility.
+- Bedersi posits that *shaanan* implies a still more complete rest than *sheket*
+  does, and Pappenheim seems to echo him: unlike *shalom* and *shalvah*, which
+  are peace, *shaanan* is calmness and serenity, since one may be in a state of
+  complete *shalom* yet still be harried tending the products of his prosperity,
+  while *shaanan* precludes that busyness and means one need not interact with
+  others at all.
+
 *Shalanan* (Iyov 21:23, a *hapax legomenon*): Ibn Janach, the same thing as
-*shaanan* despite the extra lamed; Radak and Pappenheim, a composite word made of
-*shalvah* and *shaanan*.
+*shaanan* despite the extra lamed; Radak and Pappenheim, a composite word made
+of *shalvah* and *shaanan*.
 
 ### Shabbos (שבת)
 One more peace-word begins with shin: Shabbos

@@ -55,39 +55,48 @@ throughout, **Petachyah** his Hebrew name, **Bilshan**, for the Gemara, a title 
 
 ## Where the authorities disagree
 
-**Which was her real name.** Megillah 13a gives three Tannaim. Rabbi Meir: her name was
-Esther, and Hadassah is a description, the righteous being likened to a *hadas*
-(Zechariah 1:8). Rabbi Yehuda: her name was Hadassah, and Esther is from *nistar*, since
-she hid her people (Esther 2:20); Rabbi Avigdor Katz adds that Mordechai hid her from
-the king's men. Rabbi Nechemiah: Hadassah was her name, and the nations called her
-Esther after Istahar. The Vilna Gaon follows Rabbi Nechemiah, the *Chachmei Tzarfas*
-commentary seemingly Rabbi Meir; Ralbag leaves it open; Rabbi Tanchum HaYerushalmi and Rabbi
-Yitzchak Arama hold Hadassah was the birth name, Esther the name of the court.
+**Which was her real name.** Megillah 13a gives three Tannaim.
+- Rabbi Meir: her name was Esther, and Hadassah is a description, the righteous
+  being likened to a *hadas* (Zechariah 1:8).
+- Rabbi Yehuda: her name was Hadassah, and Esther is from *nistar*, since she
+  hid her people (Esther 2:20); Rabbi Avigdor Katz adds that Mordechai hid her
+  from the king's men.
+- Rabbi Nechemiah: Hadassah was her name, and the nations called her Esther
+  after Istahar.
 
-**What Istahar is.** Rashi (to Megillah 13a) and *Sefer HeAruch*: the moon, from Aramaic
-*sihara*. Rabbi Yaakov Emden: Venus, since Targum to Iyov 31:26 lists Istahar as a light
-*beside* the moon; so too *Yalkut Shimoni* (Esther §1053), whose version of Rabbi
-Nechemiah's statement reads explicitly that the idolaters called her after Venus,
-which they called Istahar, and *Targum Sheini*, which explains the name by the
-astrological force of *Nogah*, Venus. Rabbi Yosef Nechmias (to Esther 2:7) has
-Istahar as the *sun*; Rabbi Klein says outright that this is incorrect,
-though in some pagan mythologies the counterpart of Istahar may have
-been the wife or consort of the sun god.
+The Vilna Gaon follows Rabbi Nechemiah, the *Chachmei Tzarfas* commentary
+seemingly Rabbi Meir; Ralbag leaves it open; Rabbi Tanchum HaYerushalmi and
+Rabbi Yitzchak Arama hold Hadassah was the birth name, Esther the name of the
+court.
 
-**Foreign name or Hebrew in disguise.** Rabbi Shlomo Alkabetz (*Manos HaLevi*) and Rabbi
-Eliezer Ashkenazi (*Yosef Lekach*), with Ibn Ezra: she took Esther when Mordechai wanted her
-origin concealed, the Aramaic for *hadas* being *assa*, which is close enough to Esther.
-Maharsha (to Chullin 139b) and Rabbi Meir Mazuz (*Sansan L'Yair*): against Rabbi
-Ashkenazi's Aramaic, they assume it was Persian. The Maskilic scholar Yitzchak Ber Levinsohn
-(*Shorashei Levanon*) argues that Esther is a
-portmanteau of *asa*, myrtle, and *ter*, "fresh" (possibly by tav/tes interchange), making
-the name an exact translation of the phrase *hadas ra'anan* used by *Sefer
-HeAruch*. (As an aside, a king of Yehudah named Asa, a
-great-grandson of Shlomo, has his name spelled exactly like the Aramaic for
-myrtle, aleph samech aleph, but Rabbi Klein has found no source that ties King
-Asa to Queen Esther or to the myrtle.) Rabbi Yekusiel Yehuda Halberstam: her family
-Judaized *Istahar* into *Esther*, while Mordechai, who let no loanwords into his Hebrew,
-kept calling her Hadassah.
+**What Istahar is.**
+- Rashi (to Megillah 13a) and *Sefer HeAruch*: the moon, from Aramaic *sihara*.
+- Rabbi Yaakov Emden: Venus, since Targum to Iyov 31:26 lists Istahar as a light
+  *beside* the moon; so too *Yalkut Shimoni* (Esther §1053), whose version of
+  Rabbi Nechemiah's statement reads explicitly that the idolaters called her
+  after Venus, which they called Istahar, and *Targum Sheini*, which explains
+  the name by the astrological force of *Nogah*, Venus.
+- Rabbi Yosef Nechmias (to Esther 2:7) has Istahar as the *sun*; Rabbi Klein
+  says outright that this is incorrect, though in some pagan mythologies the
+  counterpart of Istahar may have been the wife or consort of the sun god.
+
+**Foreign name or Hebrew in disguise.**
+- Rabbi Shlomo Alkabetz (*Manos HaLevi*) and Rabbi Eliezer Ashkenazi (*Yosef
+  Lekach*), with Ibn Ezra: she took Esther when Mordechai wanted her origin
+  concealed, the Aramaic for *hadas* being *assa*, which is close enough to
+  Esther.
+- Maharsha (to Chullin 139b) and Rabbi Meir Mazuz (*Sansan L'Yair*): against
+  Rabbi Ashkenazi's Aramaic, they assume it was Persian.
+- The Maskilic scholar Yitzchak Ber Levinsohn (*Shorashei Levanon*) argues that
+  Esther is a portmanteau of *asa*, myrtle, and *ter*, "fresh" (possibly by
+  tav/tes interchange), making the name an exact translation of the phrase
+  *hadas ra'anan* used by *Sefer HeAruch*. (As an aside, a king of Yehudah named
+  Asa, a great-grandson of Shlomo, has his name spelled exactly like the Aramaic
+  for myrtle, aleph samech aleph, but Rabbi Klein has found no source that ties
+  King Asa to Queen Esther or to the myrtle.)
+- Rabbi Yekusiel Yehuda Halberstam: her family Judaized *Istahar* into *Esther*,
+  while Mordechai, who let no loanwords into his Hebrew, kept calling her
+  Hadassah.
 
 **Mordechai's other names.** Megillah 16b and Menachos 65a read Mordechai-Bilshan (Ezra
 2:2, Nechemiah 7:7) as one man with a title (see Maharsha and *Keren Orah* to
@@ -180,23 +189,26 @@ myrtle-tree" (Yeshayahu 55:13) of Esther the myrtle replacing Vashti the
 thorn-bush.
 
 Beyond the myrtle of the righteous, there are several further explanations of
-the name Hadassah. Megillah 13a, as Rashi reads Rabbi Yehoshua
-ben Karcha, implies a greenish complexion the color of a myrtle leaf (Rabbi Klein
-notes that Venus was anciently taken for a green planet, which may fit the
-Istahar connection), and Ben Azzai there gives her average stature, neither tall
-as a *lulav* nor stout as an *esrog*. Rabbi Refael Berdugo cites an unknown source
-that Herod's daughter had an especially pleasant body odor, put down to her
-mother's eating esrogim while carrying her, and on that basis *speculates* that
-Esther was called Hadassah because her body likewise gave off a pleasant
-fragrance. Rabbi Dovid Oppenheim points to Berachos 57a, that one who sees a
-myrtle in a dream will prosper in property, and if he owns none will come into
-property unexpectedly: Esther was called Hadassah because she unexpectedly
-inherited Haman's estate (Esther 8:1). Other sources find in the name an allusion
-to her age when she was taken to the palace, the gematria of Hadassah being 74 and
-a rabbinic tradition putting her at exactly 74 (*Midrash Panim Acheirim* version 2
-§2; Ibn Ezra to Esther 2:7; see also *Bereishis Rabbah* 39:13); and Targum to
-Esther 2:7 has her called Esther, from hiding, for the modesty she kept through
-the seven and a half decades in Mordechai's house.
+the name Hadassah.
+- Megillah 13a, as Rashi reads Rabbi Yehoshua ben Karcha, implies a greenish
+  complexion the color of a myrtle leaf (Rabbi Klein notes that Venus was
+  anciently taken for a green planet, which may fit the Istahar connection), and
+  Ben Azzai there gives her average stature, neither tall as a *lulav* nor stout
+  as an *esrog*.
+- Rabbi Refael Berdugo cites an unknown source that Herod's daughter had an
+  especially pleasant body odor, put down to her mother's eating esrogim while
+  carrying her, and on that basis *speculates* that Esther was called Hadassah
+  because her body likewise gave off a pleasant fragrance.
+- Rabbi Dovid Oppenheim points to Berachos 57a, that one who sees a myrtle in a
+  dream will prosper in property, and if he owns none will come into property
+  unexpectedly: Esther was called Hadassah because she unexpectedly inherited
+  Haman's estate (Esther 8:1).
+- Other sources find in the name an allusion to her age when she was taken to
+  the palace, the gematria of Hadassah being 74 and a rabbinic tradition putting
+  her at exactly 74 (*Midrash Panim Acheirim* version 2 §2; Ibn Ezra to Esther
+  2:7; see also *Bereishis Rabbah* 39:13); and Targum to Esther 2:7 has her
+  called Esther, from hiding, for the modesty she kept through the seven and a
+  half decades in Mordechai's house.
 
 Istahar's etymological cognates include the
 English *star*, *astrology*, *astronomy*, *asterisk*, *asteroid*, *disaster*,

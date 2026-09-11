@@ -104,20 +104,22 @@ eyes of a fly (*Niddah* 25a). By extension it is any
 nose-shaped taper, such as the stem end of an esrog (*Sukkah* 35b; also *Niddah*
 47a).
 
-The root ח-ט-ם occurs once in Tanach: "for My praise I will restrain
-(*echetam*) for you" (Yeshayahu 48:9). Rabbi Yehudah Ibn Balaam, in his work on
-Hebrew verbs formed from nouns, derives *echetam* from the rabbinic *chotem*.
-Rashi (to Shemos 15:8 and Yeshayahu 48:9): *echetam* is holding back from anger,
-the figurative closing up of the nose that keeps the anger in; similar readings
-can be gleaned from Rabbi Yosef Kara, Ibn Ezra and Radak (to Yeshayahu 48:9, and
-Radak in *Sefer HaShorashim*), and from the Zohar (*Mishpatim* 122b, *Haazinu*
-289a and 294a).
-Menachem Ibn Saruk (*Machberes Menachem*) defines *echetam* as "I am
-forgiving," noting no connection between that word and *chotem*.
-*Bamidbar Rabbah* 5:6 reads it as though the middle letter were a *tav*,
-*chasum*, sealed shut. Rabbi Moshe Yair Weinstock suggests that *chomet*, one of the
-eight *sheratzim* (Vayikra 11:30), is a metathesis of *chotem*, a creature that
-digs with its pointed snout.
+The root ח-ט-ם occurs once in Tanach: "for My praise I will restrain (*echetam*)
+for you" (Yeshayahu 48:9).
+- Rabbi Yehudah Ibn Balaam, in his work on Hebrew verbs formed from nouns,
+  derives *echetam* from the rabbinic *chotem*.
+- Rashi (to Shemos 15:8 and Yeshayahu 48:9): *echetam* is holding back from
+  anger, the figurative closing up of the nose that keeps the anger in; similar
+  readings can be gleaned from Rabbi Yosef Kara, Ibn Ezra and Radak (to
+  Yeshayahu 48:9, and Radak in *Sefer HaShorashim*), and from the Zohar
+  (*Mishpatim* 122b, *Haazinu* 289a and 294a).
+- Menachem Ibn Saruk (*Machberes Menachem*) defines *echetam* as "I am
+  forgiving," noting no connection between that word and *chotem*.
+- *Bamidbar Rabbah* 5:6 reads it as though the middle letter were a *tav*,
+  *chasum*, sealed shut.
+- Rabbi Moshe Yair Weinstock suggests that *chomet*, one of the eight
+  *sheratzim* (Vayikra 11:30), is a metathesis of *chotem*, a creature that digs
+  with its pointed snout.
 
 *Baal HaChotem* as an epithet: the Zohar (*Naso* 130b) has Rav Hamnuna Sabba
 davening to the *Baal HaChotem*, Hashem in His slowness to anger. The Gemara

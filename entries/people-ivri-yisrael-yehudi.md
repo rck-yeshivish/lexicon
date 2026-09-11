@@ -59,15 +59,18 @@ otherwise largely fallen out of use in Tanach.
 ## Where the authorities disagree
 
 **Why Avraham is called *HaIvri*** (Bereishis 14:13). *Bereishis Rabbah* 42:8
-gives three views: that were the whole world on one *ever*, one side of the
-scale, and Avraham on the other, his stature would balance it; that it is a
-genealogical marker, Avraham being descended from Ever, Shem's great-grandson
-(Bereishis 11:14-17); that it records his Mesopotamian origin from the far
-*ever* of the Euphrates, and that he spoke the *Ivri* tongue. *Pesikta Rabbasi*
-33 adds a fourth: when the whole world served idols and Avraham held apart, he
-was called *Ivri* for taking the opposite side of that question. *Shemos Rabbah*
-3:8 reads the name of the nation prospectively, *Ivriim* because they were to
-cross over (*she'avru*) the sea.
+gives three views:
+- that were the whole world on one *ever*, one side of the scale, and Avraham on
+  the other, his stature would balance it;
+- that it is a genealogical marker, Avraham being descended from Ever, Shem's
+  great-grandson (Bereishis 11:14-17);
+- that it records his Mesopotamian origin from the far *ever* of the Euphrates,
+  and that he spoke the *Ivri* tongue.
+- *Pesikta Rabbasi* 33 adds a fourth: when the whole world served idols and
+  Avraham held apart, he was called *Ivri* for taking the opposite side of that
+  question.
+- *Shemos Rabbah* 3:8 reads the name of the nation prospectively, *Ivriim*
+  because they were to cross over (*she'avru*) the sea.
 
 ## Distinctions
 

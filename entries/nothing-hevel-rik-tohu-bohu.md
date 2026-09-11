@@ -311,14 +311,16 @@ because it denotes an unordered area that has no shape. The final mem of
 
 ### bohu (בהו)
 *Bohu* appears only twice more in Tanach beyond Bereishis 1:2 (Yeshayahu 34:11;
-Yirmiyahu 4:23). Targum Onkelos renders it *reikanya*, and Rashi likewise
-relates it to *reik*, in the sense of "emptiness"; *Sefer HaBahir* (§2) explains
-*bohu* as something that has some minimal amount of tangibility and is not
-completely abstract. Rabbi Nissim of Marseilles reads it as a contraction of
-*bo*, "inside," and *hu*, "it is": the entire world was still "in the inside,"
-at the middle, and had not yet begun to spread out. For Ramban *bohu* is form,
-for Ralbag matter, and for Rabbi Levi ben Shlomo of Lunel shape and "presence"
-(all above).
+Yirmiyahu 4:23).
+- Targum Onkelos renders it *reikanya*, and Rashi likewise relates it to *reik*,
+  in the sense of "emptiness".
+- *Sefer HaBahir* (§2) explains *bohu* as something that has some minimal amount
+  of tangibility and is not completely abstract.
+- Rabbi Nissim of Marseilles reads it as a contraction of *bo*, "inside," and
+  *hu*, "it is": the entire world was still "in the inside," at the middle, and
+  had not yet begun to spread out.
+- For Ramban *bohu* is form, for Ralbag matter, and for Rabbi Levi ben Shlomo of
+  Lunel shape and "presence" (all above).
 
 Shadal: *bohu* is something that not only has no advantage but is actually bad.
 Elsewhere *Sefer HaBahir* (§11-12) connects *tohu* with evil and *bohu* with

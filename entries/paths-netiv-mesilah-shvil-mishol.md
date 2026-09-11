@@ -37,16 +37,19 @@ street. In a second use, *rechovah shel ir* is the open square within a town
 (Bikkurim 3:2, Taanis 2:1, Megillah 3:1).
 
 ### netiv (נתיב)
-Rabbeinu Bachya (to Shemos 35:35): *derech* is a wide road, *netiv* a very
-narrow one. The Vilna Gaon: a *netiv* is what one takes to reach a *derech*, an
-approach road (Rabbi Klein suggests it may be comparable to an exit or entrance
-ramp on a freeway). Malbim: shorter than a *derech* or *orach*, and not open to
-the public. The Zohar (Mikeitz 197b, Va'era 31a-b): a *derech* is open to all, a
-*netiv* only to select individuals. Rabbi Shlomo Aharon Wertheimer (1866-1935)
-similarly explains a *netiv* as a private shortcut, and reads it out of Shoftim
-5:6, which implies that the alternative to walking a *netiv* is going the long
-way around. In
-Modern Hebrew it is a traffic lane.
+- Rabbeinu Bachya (to Shemos 35:35): *derech* is a wide road, *netiv* a very
+  narrow one.
+- The Vilna Gaon: a *netiv* is what one takes to reach a *derech*, an approach
+  road (Rabbi Klein suggests it may be comparable to an exit or entrance ramp on
+  a freeway).
+- Malbim: shorter than a *derech* or *orach*, and not open to the public.
+- The Zohar (Mikeitz 197b, Va'era 31a-b): a *derech* is open to all, a *netiv*
+  only to select individuals.
+- Rabbi Shlomo Aharon Wertheimer (1866-1935) similarly explains a *netiv* as a
+  private shortcut, and reads it out of Shoftim 5:6, which implies that the
+  alternative to walking a *netiv* is going the long way around.
+
+In Modern Hebrew it is a traffic lane.
 
 ### mesilah (מסילה)
 Malbim: a paved path, and usually the pedestrian walk at a street's edge. The
@@ -76,15 +79,17 @@ track foxes cut through a vineyard as they partially destroy it (Shir HaShirim
 2:15).
 
 ### shvil (שביל)
-Rav Hirsch (1808-1888): related to *shafel*, lowly, a path on a steep downward
-incline. Malbim: related to *shevel* (Yeshayahu 47:2), the leg, the limb that
-keeps striking the ground as one walks; he and others note that a *shvil* is
-narrower than a *netiv*. Wertheimer: the shortest and narrowest sort of path,
-wide enough for one ankle at a time, so that a man cannot stand on it with his
-feet together. Pappenheim gives the same explanations and supports them from a
-clever observation: *eikev* means both ankle and "because," and on the strength
-of that double meaning the Rabbis took *shvil*, the road of ankles, the same way,
-giving *bishvil*, "for the sake of."
+- Rav Hirsch (1808-1888): related to *shafel*, lowly, a path on a steep downward
+  incline.
+- Malbim: related to *shevel* (Yeshayahu 47:2), the leg, the limb that keeps
+  striking the ground as one walks; he and others note that a *shvil* is
+  narrower than a *netiv*.
+- Wertheimer: the shortest and narrowest sort of path, wide enough for one ankle
+  at a time, so that a man cannot stand on it with his feet together.
+- Pappenheim gives the same explanations and supports them from a clever
+  observation: *eikev* means both ankle and "because," and on the strength of
+  that double meaning the Rabbis took *shvil*, the road of ankles, the same way,
+  giving *bishvil*, "for the sake of."
 
 ## Rendering guidance
 

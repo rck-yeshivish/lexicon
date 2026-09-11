@@ -41,19 +41,20 @@ Hashem." So a *seudah* is named for what the festive meal does for the body.
 
 ### mishteh (משתה)
 The word and its derivatives appear close to fifty times in Tanach, from the
-verb *shoseh*, to drink. Rabbi Tzaddok HaKohen of Lublin (1823 to 1900):
-*seudah* and *mishteh* are both festive meals, but the first centers on eating
-and the second on drinking, which is why *seudah* is generally associated with bread and the
-Shabbos table while *mishteh* goes with wine and the Purim meal that
-commemorates the wine banquets of Megillas Esther. Rashi (to Shir HaShirim 1:2,
-Koheles 2:3 and Esther 5:4), however, writes that the defining element of an enjoyable,
-joyous *seudah* is the wine. Rabbi Levi Yitzchok of Berditchev (1740-1810,
-*Kedushas Levi*, Parshas Vayeira) reads *mishteh* as a meal of gladness, and on
-that basis explains that the party to which Esther invited Haman and
-Achashverosh is called a *mishteh* because it brought gladness to the Jews:
-through it Esther persuaded Achashverosh to execute Haman and rescind the
-decree, a victory that has brought gladness for generations and is celebrated
-each year on Purim.
+verb *shoseh*, to drink.
+- Rabbi Tzaddok HaKohen of Lublin (1823 to 1900): *seudah* and *mishteh* are
+  both festive meals, but the first centers on eating and the second on
+  drinking, which is why *seudah* is generally associated with bread and the
+  Shabbos table while *mishteh* goes with wine and the Purim meal that
+  commemorates the wine banquets of Megillas Esther.
+- Rashi (to Shir HaShirim 1:2, Koheles 2:3 and Esther 5:4), however, writes that
+  the defining element of an enjoyable, joyous *seudah* is the wine.
+- Rabbi Levi Yitzchok of Berditchev (1740-1810, *Kedushas Levi*, Parshas
+  Vayeira) reads *mishteh* as a meal of gladness, and on that basis explains
+  that the party to which Esther invited Haman and Achashverosh is called a
+  *mishteh* because it brought gladness to the Jews: through it Esther persuaded
+  Achashverosh to execute Haman and rescind the decree, a victory that has
+  brought gladness for generations and is celebrated each year on Purim.
 
 ### mesibah (מסיבה)
 Arguably once in Tanach (Rashbam to Shir HaShirim 1:12). Rashi (to Amos 2:8):

@@ -35,39 +35,48 @@ receiver's standing; other commentators divide the two differently.
 Both *rachum* and *chanun* are of the Thirteen Attributes of Mercy that Hashem
 revealed to Moshe as he prayed for the Jewish People after the golden calf,
 attributes that are key to how Hashem runs the world and to how a man attains
-atonement; although one generally refrains from using adjectives
-to describe Hashem, these are presented as such. Rabbeinu Bachaya (on Shemos)
-writes that *rachum* and *chanun* are Hashem's way of forgiving sinners who ask
-forgiveness, repent and undergo some affliction, but he does not there explain
-how the two differ; elsewhere he writes that they are actually one and the same
-attribute, His heeding prayer in time of need even before that person has
-repented, and finds support in the fact that Tanach often uses them together,
-sometimes in one order and sometimes in the other. Rabbi Klein's own analysis,
-by way of an analogy from the relationship between a victim and one with the
-power to save him: *rachum* focuses on the savior, who sees the victim's
-downtrodden state, empathizes with him, and ultimately decides to save; he acts
-not necessarily for the victim's sake but, in a sense, for his own. Bechor-Shor:
-*rachum* is for the poor, mercy that lifts one out of a dismal situation. Gloss
-to Tosafos (Rosh Hashanah 17b): *rachamim* is Hashem withholding a calamity
-before it falls. Rabbi Elazar Rokeach of Worms: *rachum* acts beyond the letter
-of the law (others explain the opposite: *rachum* only for one who asks for
-mercy). Rabbeinu Bachaya again: *rachamim* is Hashem's general oversight of the
-world. Rabbi Avraham bar Chaim Ibn Ramoch, who lived in Spain at the beginning
-of the Spanish Inquisition (to Tehillim 86:16, 112:4, 145:8): *rachum* saves
-from any form of suffering. Malbim: *rachmanus* applies only to an intelligent
-being; one pities a child or an animal differently from an adult.
+atonement; although one generally refrains from using adjectives to describe
+Hashem, these are presented as such.
+- Rabbeinu Bachaya (on Shemos) writes that *rachum* and *chanun* are Hashem's
+  way of forgiving sinners who ask forgiveness, repent and undergo some
+  affliction, but he does not there explain how the two differ; elsewhere he
+  writes that they are actually one and the same attribute, His heeding prayer
+  in time of need even before that person has repented, and finds support in the
+  fact that Tanach often uses them together, sometimes in one order and
+  sometimes in the other.
+- Rabbi Klein's own analysis, by way of an analogy from the relationship between
+  a victim and one with the power to save him: *rachum* focuses on the savior,
+  who sees the victim's downtrodden state, empathizes with him, and ultimately
+  decides to save; he acts not necessarily for the victim's sake but, in a
+  sense, for his own.
+- Bechor-Shor: *rachum* is for the poor, mercy that lifts one out of a dismal
+  situation.
+- Gloss to Tosafos (Rosh Hashanah 17b): *rachamim* is Hashem withholding a
+  calamity before it falls.
+- Rabbi Elazar Rokeach of Worms: *rachum* acts beyond the letter of the law
+  (others explain the opposite: *rachum* only for one who asks for mercy).
+- Rabbeinu Bachaya again: *rachamim* is Hashem's general oversight of the world.
+- Rabbi Avraham bar Chaim Ibn Ramoch, who lived in Spain at the beginning of the
+  Spanish Inquisition (to Tehillim 86:16, 112:4, 145:8): *rachum* saves from any
+  form of suffering.
+- Malbim: *rachmanus* applies only to an intelligent being; one pities a child
+  or an animal differently from an adult.
 
 ### chanun (חנון), chein (חן)
-Rabbi Klein: *chanun* focuses on the victim, who finds favor (*chein*) in the
-savior's eyes (with Hashem, this may come through prayer) or is simply granted (*choneh*) a
-reprieve. Rashi (to Devarim 3:23): *chanun* recalls *matnas chinam*, a free
-gift, relief not necessarily deserved. Bechor-Shor: *chanun* is for the rich,
-a present regardless of need. Gloss to Tosafos: *chanun* is a special reprieve
-granted in the midst of distress. Rokeach: *chanun* uses the system of justice to heed
-another's call for clemency (others explain the opposite: *chanun* is even for
-one who does not request mercy). Rabbeinu Bachaya: *chanun* is His particular oversight of each element of
-creation. Ibn Ramoch: *chanun* grants intellectual gifts by which a man helps
-himself.
+- Rabbi Klein: *chanun* focuses on the victim, who finds favor (*chein*) in the
+  savior's eyes (with Hashem, this may come through prayer) or is simply granted
+  (*choneh*) a reprieve.
+- Rashi (to Devarim 3:23): *chanun* recalls *matnas chinam*, a free gift, relief
+  not necessarily deserved.
+- Bechor-Shor: *chanun* is for the rich, a present regardless of need.
+- Gloss to Tosafos: *chanun* is a special reprieve granted in the midst of
+  distress.
+- Rokeach: *chanun* uses the system of justice to heed another's call for
+  clemency (others explain the opposite: *chanun* is even for one who does not
+  request mercy).
+- Rabbeinu Bachaya: *chanun* is His particular oversight of each element of
+  creation.
+- Ibn Ramoch: *chanun* grants intellectual gifts by which a man helps himself.
 
 ### chus (חוס) and chemlah (חמלה)
 Neither is among the Thirteen Attributes. Malbim: both can be felt toward any
