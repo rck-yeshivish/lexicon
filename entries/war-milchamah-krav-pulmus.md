@@ -18,11 +18,8 @@ updated: 2026-09-10
 *Milchamah* is the common Biblical word for **war**, over three hundred times in
 Tanach, with the verb *lochem*, **to wage war** (also around three hundred).
 *Krav* also means **war, battle, combat**, in such phrases as *yom krav* and
-*klei krav*. *Pulmus* is Mishnaic, from Greek *polemos*, war, found three times
-in one Mishnah (*Sotah* 9:14). The article presents these, with *b'tarunya* and
-*kenigia* (the last three Greek), as apparent synonyms and draws no line between
-*milchamah* and *krav*; rendering *krav* "battle" and *milchamah* "war" where
-both appear is our judgment. The disputes it records are over the root of
+*klei krav*. *Pulmus* is Mishnaic, from Greek *polemos*, war, found three times in one Mishnah (*Sotah* 9:14). The column presents these, with *b'tarunya* and
+*kenigia* (the last three Greek), as apparent synonyms and draws no line between *milchamah* and *krav*. The disputes it records are over the root of
 *milchamah* (bread and war from ל-ח-ם, or from ח-ם, heat, or "coming
 together"), over *b'tarunya* (battle, or Greek tyranny), and over *kenigia*
 (war, or hunting, which the Greek *kynigia* supports).
@@ -45,8 +42,7 @@ second struggle between parties; by his phonetic etymology he links ל-ח-ם to
 ל-א-ם (*leom*, nation), the existential fight of a polity to survive.
 
 Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes a totally different approach,
-deriving *lechem* and *milchamah* from the two-letter core ח-ם. The article
-calls this noteworthy, since Pappenheim generally holds that a biliteral core
+deriving *lechem* and *milchamah* from the two-letter core ח-ם. The column calls this noteworthy, since Pappenheim generally holds that a biliteral core
 joins only with ה, א, מ, נ, ת, י, or ו to form a three-letter root, and here he
 has it join an initial lamed. The core is heat: *cham*, hot; *cheimah*, anger
 heated up; *chamah*, the sun; *chaman*, an idol in the shape of the sun; *chum*,
@@ -68,7 +64,7 @@ food solders body to soul, and korbanos are called *lechem* because they cement
 the bond between Klal Yisrael and Hashem. The Netziv does not explicitly connect
 this to *milchamah*, as the scholars of the TDOT did.
 
-As an aside the article notes Lachmi, brother of Golias (Divrei HaYamim I
+As an aside the column notes Lachmi, brother of Golias (Divrei HaYamim I
 20:5), and Lachman ben Ristak, a gentile named in the Gemara (Eruvin 63b).
 
 ### krav (קרב)
@@ -78,8 +74,7 @@ The column says the truth is blurrier: to approach is to come nearer to the
 inside of a perimeter and reach its innards, and in battle the attackers
 approach while the defenders protect what lies within their line. Some verbs of
 ק-ר-ב literally mean approaching but contextually refer to potential battle
-(Shemos 14:10, Vayikra 20:10, Devarim 2:19 and 20:10, as the article gives them;
-Vayikra 20:10 has no form of ק-ר-ב, by our check). The same root gives *korban*,
+(Shemos 14:10, Devarim 2:19 and 20:10). The same root gives *korban*,
 brought near to the mizbeach and, in a metaphysical sense, bringing the one who
 offers it near to Hashem, and it is used of relations, two people coming
 together (Bereishis 20:4, Vayikra 18:6, Devarim 22:14, Yeshayahu 8:3). Rav
@@ -128,7 +123,7 @@ buttresses this from *Chullin* 60b, which asks whether Moshe was a *kenigi* or a
 the point being that such detail about kosher and non-kosher animals could only
 have come from Above.
 
-The article adds that *kenigia* is indeed a loanword from Greek *kynigia*, which
+The column adds that *kenigia* is indeed a loanword from Greek *kynigia*, which
 in fact means hunting or pursuing predatory beasts, and which linguists derive
 from *kyon*, dog (whence English *canine* and *cynicism*). By the shift of an
 original k to h in the Germanic languages (Greek *kardia*, *keras*, Latin
@@ -140,21 +135,20 @@ Yiddish *kenig*; Rabbi Shaul Goodman assured him that those belong with *kin*,
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the article's meanings.
+These are our rendering judgments, built on the column's meanings.
 
 - *Milchamah*: "war." *Krav*: "battle" or "combat." Where both stand in one
   passage, keeping English "war" off *krav* keeps the two Hebrew words visible;
-  the article itself treats them as apparent synonyms.
+  the column itself treats them as apparent synonyms.
 - *Yom krav* is "day of battle," not "day of war," and *klei krav* is "weapons"
   or literally "instruments of battle."
 - *Pulmus* with a Roman name attached: "the war of Vespasian," or "the Vespasian
   campaign." Never "the polemic," and never "the controversy."
-- *B'tarunya* in *Avodah Zarah* 3a: follow the *Musaf HeAruch*, as the article
-  does, and render "Hashem does not act tyrannically toward His creatures,"
+- *B'tarunya* in *Avodah Zarah* 3a: follow the *Musaf HeAruch*, as the column does, and render "Hashem does not act tyrannically toward His creatures,"
   noting the reading *batrunya*, "does not enter into battle with them," which
   the columnist says he once held, if the passage turns on it.
 - *Kenigia*: "do battle with" follows Rabbeinu Gershom and the Rashba; "hunt"
-  follows the Rashbam, and the article adds that the Greek *kynigia* means
+  follows the Rashbam, and the column adds that the Greek *kynigia* means
   hunting. Pick one and say which; the Leviasan aggadah reads differently under
   each.
 - Trap: a passage that plays on *lechem* and *milchamah* together (Radak, Rav
@@ -168,23 +162,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Chukas: Words for War](https://articles.ohr.edu/articles/chukas-words-for-war)," What's in a Word?, Ohr
-Somayach, 9 Tammuz 5785 (2025-07-05):
-https://articles.ohr.edu/articles/chukas-words-for-war; raw text in
-`sources/whats-in-a-word/raw/11889-chukas-words-for-war.md`. Primary loci:
-*Machberes Menachem* and the two *Sifrei HaShorashim* (Ibn Janach, Radak) s.v.
-ל-ח-ם; Rav Hirsch to Bereishis 3:19, 10:9, 14:2 and Tehillim 140:2; *Cheshek
-Shlomo* s.v. ח-ם; *Theological Dictionary of the Old Testament*, vol. 7;
-Yerushalmi Beitzah 1:5; Vayikra Rabbah 3:3; Shir HaShirim Rabbah 4:30, 5:10;
-*Haamek Davar* to Bamidbar 28:2; Divrei HaYamim I 20:5; Eruvin 63b; Shemos
-14:10, Vayikra 20:10 (as printed), Devarim 2:19, 20:10; Bereishis 20:4, Vayikra
-18:6, Devarim 22:14, Yeshayahu 8:3; *Aholei Yehudah*; Zecharyah 14:3, Tehillim
-78:9, Iyov 38:23, Koheles 9:18; *Sotah* 9:14; *Avodah Zarah* 2b-3a; *Musaf
-HeAruch*; Yehoshua 13:3, Shoftim 3:3, 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7,
-29:7, Divrei HaYamim I 12:20 with the Targumim; Bereishis Rabbah 42:4 with
-*Matnos Kehunah*; *Sefer HeAruch*; Dr. Alexander Kohut, *HeAruch HaShaleim*;
-*Bava Basra* 74b-75a with Rabbeinu Gershom, Rashbam, and Rashba; *Chullin* 60b
-with Rashi and Rabbeinu Gershom. The Greek, Arabic, and Proto-Indo-European
-comparisons and Rabbi Shaul Goodman's comment are the article's, without
-further locus. The article's transliteration *tarunya* stands for טרוניא, with
-a tes, as in the Gemara, the Targumim (טורני), and Bereishis Rabbah (טירוניא).
+Rabbi Reuven Chaim Klein, "[Chukas: Words for War](https://articles.ohr.edu/articles/chukas-words-for-war)," *What's in a Word?*, Ohr Somayach, 5 July 2025.
+
+Cited in the essay: Menachem Ibn Saruk, *Machberes Menachem*, and the *Sefer HaShorashim* of Ibn Janach and of Radak, s.v. ל-ח-ם; Rav Hirsch to Bereishis 3:19, 10:9, 14:2 and Tehillim 140:2; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ח-ם; *Theological Dictionary of the Old Testament*, vol. 7; Yerushalmi Beitzah 1:5; Vayikra Rabbah 3:3; Shir HaShirim Rabbah 4:30, 5:10; the Netziv, *Haamek Davar* to Bamidbar 28:2; Divrei HaYamim I 20:5; Eruvin 63b; Shemos 14:10; Devarim 2:19, 20:10; Bereishis 20:4; Vayikra 18:6; Devarim 22:14; Yeshayahu 8:3; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Zecharyah 14:3; Tehillim 78:9; Iyov 38:23; Koheles 9:18; *Sotah* 9:14; *Avodah Zarah* 2b-3a; Rabbi Binyamin Mussafia, *Musaf HeAruch*; Yehoshua 13:3, Shoftim 3:3, 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7, 29:7, Divrei HaYamim I 12:20 with the Targumim; Bereishis Rabbah 42:4 with *Matnos Kehunah*; Rabbi Natan of Rome, *Sefer HeAruch*; Dr. Alexander Kohut, *HeAruch HaShaleim*; *Bava Basra* 74b-75a with Rabbeinu Gershom, Rashbam, and Rashba; *Chullin* 60b with Rashi and Rabbeinu Gershom; Rabbi Shaul Goodman.

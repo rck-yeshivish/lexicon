@@ -40,9 +40,8 @@ expected the thing to be here and is surprised it is not. Rabbi Shlomo Aharon
 Wertheimer and Rabbi Shlomo Pappenheim instead set the two apart by how vague
 the question is, which the column presents as one view. *Anah* is **to where**,
 a question of destination, not of present place (Pappenheim), and with a
-prefixed mem, *me'ayin*, it flips to **from where**, a question of origin. The
-trap is that English "where" covers all of them; where a pasuk turns on *ayeh*,
-on Shapira-Frankfurter's reading the surprise at an absence is inside the word.
+prefixed mem, *me'ayin*, it flips to **from where**, a question of origin. Where a pasuk turns on *ayeh*, on Shapira-Frankfurter's
+reading the surprise at an absence is inside the word.
 
 ## At a glance
 
@@ -63,8 +62,7 @@ column says, similarly understands *eifoh* as a vaguer question about location
 than *ey*/*ayeh*, whose root queries a specific location. The column presents
 the two as agreeing. Taken at face value, though, Wertheimer's *ayeh* is the
 question of one with no inkling, while Pappenheim's *ayeh* is the more specific;
-that tension is our observation, not the column's, and a translator should not
-lean on either as settled.
+that tension is our observation, not the column's.
 
 **What ayeh adds beyond location.** Along these lines, Rabbi Yehuda Leib
 Shapira-Frankfurter (1743 to 1826), Rav Hirsch's great uncle, writes in
@@ -76,9 +74,7 @@ rhetorically why he was not in his regular place, the obvious answer being
 that he was hiding because of his sin. Rabbi Yaakov Tzvi Mecklenburg (1785 to
 1865) expands on this approach for the angels' *ayeh Sarah ishtecha* (Bereishis
 18:9): Sarah would have been expected to be setting the table for the guests,
-all the more so with Avraham weak after his bris, so the question was why she
-was not where they expected her. The Bottom line follows this reading, since it
-accounts both for Bereishis 18:9 and for Bereishis 3:9. (Bava Metzia 87a adds
+all the more so with Avraham weak after his bris, so the question was why she was not where they expected her. (Bava Metzia 87a adds
 that the angels' question was also rhetorical: they knew where she was, and
 asked in order to endear her to her husband by highlighting her superlative
 modesty.)
@@ -148,12 +144,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Where are You](https://articles.ohr.edu/articles/where-are-you)," What's in a Word?, Ohr Somayach,
-18 Cheshvan 5780 (2019-11-16): https://articles.ohr.edu/articles/where-are-you;
-raw text in `sources/whats-in-a-word/raw/8478-where-are-you.md`. Primary loci
-cited: Bereishis 3:9, 4:9, 18:9, 27:33, 29:4, 43:11; Bamidbar 11:13, 14:11;
-Shoftim 8:18; Shmuel I 10:14; Yeshayahu 22:1; Tehillim 121:1; Iyov 8:2, 38:4;
-Bava Metzia 87a; Rashi to Iyov 38:4 and to Bereishis 27:33 and 43:11 with Rabbi
-Eliyahu Mizrachi; Radak, *Sefer HaShorashim*; *HaRechasim LeVikah*; Rabbi
-Uriel Frank in *Kovetz HaMa'yan*, Teves 5770. The column names no work for
-Rabbi Mecklenburg here.
+Rabbi Reuven Chaim Klein, "[Where are You](https://articles.ohr.edu/articles/where-are-you)," *What's in a Word?*, Ohr Somayach, 16 November 2019.
+
+Cited in the essay: Bereishis 3:9, 4:9, 18:9, 27:33, 29:4, 43:11; Bamidbar 11:13, 14:11; Shoftim 8:18; Shmuel I 10:14; Yeshayahu 22:1; Tehillim 121:1; Iyov 8:2, 38:4; Bava Metzia 87a; Rashi to Iyov 38:4 and to Bereishis 27:33 and 43:11, with Rabbi Eliyahu Mizrachi; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVikah*; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Uriel Frank, *Kovetz HaMa'yan*, Teves 5770.

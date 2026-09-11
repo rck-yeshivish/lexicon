@@ -26,10 +26,7 @@ whistling with the mouth alone, while the Aramaic *mashrokita* of Daniel is an
 instrument. *Tziftzuf*, which the column calls its apparent synonym, is
 **whistling, chirping, tweeting**, the bird's sound, and by extension a low,
 rapid whisper or half-intelligible **prattle**; in the Rema's halachic usage
-*mitzaftzef* is simply "to whistle." This entry reserves English "whistle" for
-ש-ר-ק and gives *tziftzuf* "chirp" or "prattle" where the two stand together,
-so the roots stay apart in English; that is a rendering choice, not a
-distinction the sources draw.
+*mitzaftzef* is simply "to whistle."
 
 ## Distinctions
 
@@ -127,8 +124,7 @@ says this is probably borrowed from Yiddish *fife* (a cognate of English
 *pipe*), "whistle," which came to mean ignoring others, as one who keeps
 whistling while told to stop. It adds that it is not insignificant that the
 Germanic *piper*/*fifer* repeat a *p*/*f* sound as *tziftzuf* repeats its *f*,
-and that it is convinced English *cheep* is connected to the *tzif* of
-*tziftzuf* (the column prints *tifz*).
+and that it is convinced English *cheep* is connected to the *tzif* of *tziftzuf*.
 
 ### Whistling as a practice
 The late Lubavitcher Rebbe encouraged his followers to whistle to express
@@ -179,18 +175,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Voeschanan - A Time to Whistle](https://articles.ohr.edu/articles/voeschanan-a-time-to-whistle)," What's in a Word?,
-Ohr Somayach, 15 Av 5785 (2025-08-09): raw text in
-`sources/whats-in-a-word/raw/11898-voeschanan-a-time-to-whistle.md`. Primary
-loci: Bereishis 49:11; Vayikra 11:18, 14:4; Devarim 14:17; Melachim I 9:8;
-Yeshayahu 5:26, 7:18, 8:19, 10:14, 29:4, 38:14, 52:7; Yirmiyahu 19:8, 25:9,
-29:18, 50:13; Yechezkel 17:5; Zechariah 10:8; Eichah 2:15 to 16; Daniel 3:5,
-3:7, 3:10, 3:15; *Chullin* 63a; *Perek Shirah*; *Tur, Orach Chaim* §286; Rema
-and *Aruch HaShulchan, Orach Chaim* §338:1; Radak and Ibn Janach, *Sefer
-HaShorashim*; Ibn Prachon, *Machberes HeAruch*; Menachem Ibn Saruk, *Machberes
-Menachem*; Pappenheim, *Cheshek Shlomo*; Maharsha to *Chullin* 63a; *Avraham
-Anochi* to Yeshayahu §52; *Mikveh HaMayim* to Yeshayahu 52:7; *Eim HaBanim
-Semeichah* 2:12; *Sichas Chullin* to *Chullin* 63a; *Ohr Torah* to Bereishis
-49:11; *Rivevos Efrayim* 8:604; *Orchos Shabbos* ch. 21 fn. 60; *Aliba
-D'Hilchasa* vol. 69 p. 83; *Shemiras HaGuf VeHaNefesh Tinyana* p. 454; Rabbi
-Yaakov Berger, *Milon Leshon Mikra* (unpublished).
+Rabbi Reuven Chaim Klein, "[Voeschanan - A Time to Whistle](https://articles.ohr.edu/articles/voeschanan-a-time-to-whistle)," *What's in a Word?*, Ohr Somayach, 9 August 2025.
+
+Cited in the essay: Bereishis 49:11; Vayikra 11:18, 14:4 (Rashi and Ramban); Devarim 14:17; Melachim I 9:8; Yeshayahu 5:26, 7:18, 8:19, 10:14, 29:4, 38:14, 52:7; Yirmiyahu 19:8, 25:9, 29:18, 50:13; Yechezkel 17:5 (Rabbi Moshe Kimchi); Zechariah 10:8 (Rashi, Radak); Eichah 2:15 to 16 (Rashi); Daniel 3:5 (Ibn Ezra, Rashi), 3:7, 3:10, 3:15; *Chullin* 63a; *Perek Shirah*; *Tur, Orach Chaim* §286; Rema and *Aruch HaShulchan, Orach Chaim* §338:1; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Ibn Prachon, *Machberes HeAruch*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shaul Goldman; Rabbi Yaakov Berger, *Milon Leshon Mikra* (unpublished); Maharsha to *Chullin* 63a; Rabbi Avraham Palagi, *Avraham Anochi* to Yeshayahu §52; Rabbi Shlomo Tapiero, *Mikveh HaMayim* to Yeshayahu 52:7; Rabbi Yissachar Shlomo Teichtal, *Eim HaBanim Semeichah* 2:12; Rabbi Amitai Ben-David, *Sichas Chullin* to *Chullin* 63a; the Lubavitcher Rebbe; the Rashaz, *Ohr Torah* to Bereishis 49:11; Rabbi Efrayim Greenblatt, *Rivevos Efrayim* 8:604; the *Chazon Ish*, cited in *Orchos Shabbos* ch. 21 fn. 60; Rabbi Chaim Kanievsky, in *Aliba D'Hilchasa* vol. 69 p. 83; Rabbi Yosef Yitzchok Lerner, *Shemiras HaGuf VeHaNefesh Tinyana* p. 454.

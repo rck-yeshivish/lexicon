@@ -39,11 +39,9 @@ updated: 2026-09-10
 
 *Almanah* is **widow**, *alman* **widower**, *almenus* **widowhood**. The
 Aramaic *armalta* is, as the column argues from the fluidity of such consonants
-and the Semitic cognates, not a synonym but the same word in Aramaic, so a
-bilingual text should render both "widow" and not manufacture a distinction.
-Watch the Mishnaic widening: in Kesubos 1:2 *almanah* covers any previously
-married woman, divorced as well as widowed, and translating it "widow" there
-misstates the halachah, though even in Rabbinic Hebrew it usually means widow.
+and the Semitic cognates, not a synonym but the same word in Aramaic. In Kesubos 1:2 *almanah* covers any
+previously married woman, divorced as well as widowed, though even in Rabbinic
+Hebrew it usually means widow.
 The etymology is disputed: Ibn Janach's muteness (א-ל-ם), which Radak, Ibn
 Parchon and Rav Hirsch cite approvingly and the Ritva calls the grammarians'
 derivation, stands beside *al manah* readings, deserted palaces, and academic
@@ -105,9 +103,6 @@ Rabbi Ernest Klein, in his etymological dictionary, calls *almanah* and
 ר-מ-ל (compare Arabic *murmil*, *armal*, needy, helpless), and Theodor Noldeke
 and Rudolf Ruzicka connecting both to Aramaic *alima*, feeling pain.
 
-The Bottom line follows Ibn Janach, the reading the grammarians cite
-approvingly; that choice is ours.
-
 **How Chazal read the word.** On the Mishnah that a besulah's kesubah is two
 hundred zuz and an *almanah*'s one hundred (Kesubos 1:2), the Gemara (Kesubos
 10b; see *Ben Yehoyada* there) cites Rav Chana of Baghdad that the Biblical
@@ -147,8 +142,7 @@ Berechiah of Modena (*Maavar Yabok*, *Sefas Emes* ch. 9) finds it alluded to in
 *al manah*, that such a match should not be one's lot. Rabbi Mordechai
 Spielman (*Tiferes Tzvi* to Zohar *Mishpatim* 102a) writes at great length that
 this "prohibition" exists only in kabbalistic sources and that by the revealed
-law of the Gemara there is nothing wrong with marrying a widow, so a translator
-must not present the Zohar's warning as halachah.
+law of the Gemara there is nothing wrong with marrying a widow.
 
 ## Distinctions
 
@@ -231,26 +225,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Emor: A Window into Widows (Part 1/2)](https://articles.ohr.edu/articles/emor-a-window-into-widows-part-12)," What's in a
-Word?, Ohr Somayach, 19 Iyar 5785 (2025-05-17), and "Behar/Bechukosai: A Window
-into Widows (Part 2/2)," 26 Iyar 5785 (2025-05-24): raw texts in
-`sources/whats-in-a-word/raw/11817-emor-a-window-into-widows-part-12.md` and
-`sources/whats-in-a-word/raw/11816-beharbechukosai-a-window-into-widows-part-22.md`.
-Primary loci: Bereishis 38:14, 38:19; Shemos 22:21; Vayikra 21:14, 22:13;
-Bamidbar 30:10; Devarim 24:17, 24:19-21, 26:12-13; Shmuel II 20:3; Yeshayahu
-1:17, 1:23, 13:22, 47:9, 54:4; Yirmiyahu 7:6, 22:3, 51:5; Zechariah 7:10;
-Tehillim 68:6, 146:9; Eichah 1:1; Mishnah Kesubos 1:2, 2:1, 4:2, 5:1, Nedarim
-11:9, Makkos 1:1, Yevamos 6:3, 13:4, Shabbos 1:1; Kesubos 2a and 10b with *Ben
-Yehoyada*; the Yerushalmi and Bavli loci for *armela* above; Zohar *Mishpatim*
-102a with *Tiferes Tzvi*; Ritva, Rashi and *Shittah Mekubetzes* to Kesubos 10b;
-*HaBoneh* to *Ein Yaakov*; *Hagahos Rashash*; *Gilyon Maharsha* to Kesubos 2a;
-responsa *Chasam Sofer, Even HaEzer* vol. 2 §170; *HaKsav VeHaKabbalah* to
-Shemos 22:21; *Peirush HaRokeach* to Vayikra 21:14; *Maavar Yabok*, *Sefas
-Emes* ch. 9; Ibn Ezra, Ibn Kaspi, Abarbanel and Malbim to Yeshayahu 13:22;
-Rambam, *Hilchos Yibbum V'Chalitzah* 4:34 with *Yalkut Shinuyei Nuschaos*;
-*Theological Dictionary of the Old Testament*; Rabbi Ernest Klein's etymological
-dictionary, citing Barth, Noldeke and Ruzicka; *Sefer Zerubavel*. Two
-corrections to the column: it prints Kesubos 10a for Rav Chana of Baghdad's
-derashah, which is on 10b, as its own later citations have it; and it lists
-Yeshayahu 54:1 among the four occurrences of *almenus*, where the word is in
-54:4.
+Rabbi Reuven Chaim Klein, "[Emor: A Window into Widows (Part 1/2)](https://articles.ohr.edu/articles/emor-a-window-into-widows-part-12)," *What's in a Word?*, Ohr Somayach, 17 May 2025.
+
+Rabbi Reuven Chaim Klein, "[Behar/Bechukosai: A Window into Widows (Part 2/2)](https://articles.ohr.edu/articles/beharbechukosai-a-window-into-widows-part-22)," *What's in a Word?*, Ohr Somayach, 24 May 2025.
+
+Cited in the essay: Bereishis 38:14, 38:19; Shemos 22:21 (Rav Hirsch, *HaKsav VeHaKabbalah*); Vayikra 21:14 (*Peirush HaRokeach*), 22:13; Bamidbar 30:10; Devarim 24:17, 24:19-21, 26:12-13; Shmuel II 20:3; Yeshayahu 1:17, 1:23, 13:22, 47:9, 54:4; Yirmiyahu 7:6, 22:3, 51:5; Zechariah 7:10; Tehillim 68:6, 146:9; Eichah 1:1; Mishnah Kesubos 1:2, 2:1, 4:2, 5:1, Nedarim 11:9, Makkos 1:1, Yevamos 6:3, 13:4, Shabbos 1:1 (Rambam's commentary); Kesubos 2a with *Gilyon Maharsha*; Kesubos 10b with *Ben Yehoyada*, and Ritva, Rashi and Rabbi Betzalel Ashkenazi's *Shittah Mekubetzes* there; Rabbi Yehuda Aryeh of Modena, *HaBoneh* to *Ein Yaakov*; Rabbi Shmuel Strashun, *Hagahos Rashash*; Yerushalmi Shabbos 1:4, Yoma 1:1, Megillah 3:1, Kesubos 9:3, 10:3, 11:2, Sotah 3:4, Nedarim 5:3, Kiddushin 1:3, Bava Basra 9:1, Shevuos 6:6, Avodah Zarah 2:8; Taanis 5b; Kesubos 17b, 54a, 97a, 100a; Nedarim 50a; Gittin 35a, 68a; Bava Metzia 71a; Sanhedrin 109a; Avodah Zarah 22b, 30a; Niddah 69a; Zohar *Mishpatim* 102a with Rabbi Mordechai Spielman's *Tiferes Tzvi*; responsa *Chasam Sofer, Even HaEzer* vol. 2 §170; Rabbi Aharon Berechiah of Modena, *Maavar Yabok*, *Sefas Emes* ch. 9; Targum Yonasan, Rabbi Saadia Gaon, Rabbi Yehuda Ibn Balaam, Rashi, Mahari Kara, Ibn Ezra, Ibn Kaspi, Abarbanel and Malbim to Yeshayahu 13:22; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; *Machberes Menachem*; Rabbi Shlomo Eiger; Rabbi David Chaim Chelouche; Rambam, *Hilchos Yibbum V'Chalitzah* 4:34 with Rabbi Shabsai Frankel's *Yalkut Shinuyei Nuschaos*; *Theological Dictionary of the Old Testament*; Rabbi Ernest Klein's etymological dictionary, citing Jacob Barth, Theodor Noldeke and Rudolf Ruzicka; *Sefer Zerubavel*.

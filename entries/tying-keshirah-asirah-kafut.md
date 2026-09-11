@@ -27,8 +27,8 @@ it sometimes with *asirah* and sometimes with *keshirah*, and Dr. Michael
 Sokoloff connects it to a different Aramaic root altogether. *Tzror* is
 **binding tight**, a union of strongly attached parts (Pappenheim). *Ketirah* is
 the Aramaic of *keshirah*, Targum's standard rendering of it (HaBachur), by a
-shin-to-tav shift (Rabbi Yaakov Berger). Malbim's consent test is the one thing
-not to get wrong: consent belongs to *keshirah*, its absence to *asirah*.
+shin-to-tav shift (Rabbi Yaakov Berger). On Malbim's consent test, consent
+belongs to *keshirah*, its absence to *asirah*.
 
 ## Distinctions
 
@@ -101,8 +101,7 @@ appears in several places in Mishnaic Hebrew: the hands of one being flogged are
 its shechitah (Parah 3:9); and it appears of tying down in other contexts (Bava
 Kamma 6:5, Taharos 7:5). In the Gemara Rashi again sometimes defines it with
 *asirah* (Sukkah 31a; see also Targum to Tehillim 118:27) and sometimes with
-*keshirah* (Chullin 16a, Sanhedrin 77b, Kiddushin 70a). (That this places *kafut*
-on neither side of Malbim's line is this guide's observation.)
+*keshirah* (Chullin 16a, Sanhedrin 77b, Kiddushin 70a).
 
 Etymology, two proposals. One way, the column says, is to tie *kafut* to
 *kefiyah*, duress or compulsion, since both subjugate and dominate another. That
@@ -119,7 +118,7 @@ notes that as some commentators explain that one Talmudic word, it seems totally
 unrelated to *kafut*.
 
 ### tzror (צרור)
-The article gives the root as צ-(ו)-ר. *Maaser sheini* money is to be tied up in
+The column gives the root as צ-(ו)-ר. *Maaser sheini* money is to be tied up in
 the hand and taken to Yerushalayim (Devarim 14:25); marrying two sisters at once
 "ties" them together (Vayikra 18:18), and in Mishnaic usage *tzaros* are
 co-wives, tied together by marriage to the same man. Rabbi Shlomo Pappenheim:
@@ -128,8 +127,7 @@ column says, a tight knot certainly fits.
 
 ### the narrower roots
 - ר-ת-ם: harnessing a wagon to an animal (Michah 1:13). The same root gives the
-  *rotem* plant (the article cites "II Kgs. 19:4 to 5," meaning Melachim I 19:4
-  to 5; Tehillim 120:4; Iyov 30:4) and likely the place-name Ritmah, a stop in
+  *rotem* plant (Melachim I 19:4 to 5; Tehillim 120:4; Iyov 30:4) and likely the place-name Ritmah, a stop in
   the wilderness (Bamidbar 33:18 to 19); the connection between the meanings
   remains obscure.
 - ע-ק-ד: eight times in Bereishis, once of *Akeidas Yitzchak*, when Avraham tied
@@ -184,29 +182,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[All Tied Up](https://articles.ohr.edu/articles/all-tied-up)," What's in a Word?, Ohr Somayach, 14
-Sivan 5783 (2023-06-03), https://articles.ohr.edu/articles/all-tied-up; raw text
-in `sources/whats-in-a-word/raw/10970-all-tied-up.md`. Primary loci cited:
-Bereishis 22:3, 22:9, 25:1, 30:35 to 40, 31:8 to 12, 38:28, 39:20, 40:5, 44:30,
-46:29; Shemos 14:6, 28:7 (Chizkuni), 29:9; Vayikra 8:13, 18:18; Bamidbar 22:21,
-30:3 to 15, 33:18 to 19; Devarim 6:8, 11:18, 14:25; Yehoshua 2:18, 2:21; Shoftim
-16:21, 16:25, 19:10; Shmuel II 16:1; Melachim I 19:4 to 5 (printed as II Kgs.);
-Melachim II 9:14 (Radak), 9:21, 10:12, 10:14, 10:22, 11:14, 17:4; Yeshayahu 1:6,
-30:26; Yechezkel 16:4, 24:17, 30:21, 46:22; Hoshea 6:1; Michah 1:13; Tehillim
-118:27 (Targum), 120:4, 146:7, 147:3; Mishlei 3:3, 6:21, 7:3; Iyov 5:18, 30:4,
-31:36, 38:9, 38:31; Koheles 4:14; Daniel 3:20 to 24 (Rashi), 5:6, 5:12, 5:16;
-Makkos 3:12; Tamid 4:1; Parah 3:9; Bava Kamma 6:5; Taharos 7:5; Yevamos 61a;
-Sukkah 31a, Chullin 16a, Sanhedrin 77b, Kiddushin 70a (Rashi); Niddah 48b; the
-Bavli and Yerushalmi loci for *chatul* above; *Bereishis Rabbah* 61:4; *Hadar
-Zekeinim* and Rav Hirsch to Bereishis 25:1; Rabbi Eliyahu HaBachur, *Meturgaman*;
-Rabbi Yaakov Berger, *Milon Leshon HaMikra*; Dr. Michael Sokoloff, dictionary of
-Jewish Babylonian Aramaic; Rabbi Aharon Marcus on *chatul*. The column points to
-its earlier essays "Holy Matrimony" (Oct. 2020) on *erusin* and "Brilliant
-Prohibitions" (May 2021) on *issur*.
+Rabbi Reuven Chaim Klein, "[All Tied Up](https://articles.ohr.edu/articles/all-tied-up)," *What's in a Word?*, Ohr Somayach, 3 June 2023.
 
-Article slips: the *rotem* of Eliyahu is at Melachim I 19:4 to 5, not II Kings;
-the Mishnah at Tamid 4:1 speaks of the *taleh*, a lamb, where the article says
-"goat"; Taharos 7:5 is of an *am ha'aretz* left in one's house, *afilu kafus*,
-not a goat or slave. The archived text breaks off inside its closing
-cross-reference (the date of "Speedy Horsepower" is missing); nothing of
-substance appears to be lost.
+Cited in the essay: Bereishis 22:3, 22:9, 25:1 (Rav Hirsch, *Hadar Zekeinim*), 30:35 to 40, 31:8 to 12, 38:28, 39:20, 40:5, 44:30, 46:29; Shemos 14:6, 28:7 (Chizkuni), 29:9; Vayikra 8:13, 18:18; Bamidbar 22:21, 30:3 to 15, 33:18 to 19; Devarim 6:8, 11:18, 14:25; Yehoshua 2:18, 2:21; Shoftim 16:21, 16:25, 19:10; Shmuel II 16:1; Melachim I 19:4 to 5; Melachim II 9:14 (Radak), 9:21, 10:12 (Rabbi Yosef Kimchi), 10:14, 10:22, 11:14, 17:4; Yeshayahu 1:6, 30:26; Yechezkel 16:4, 24:17, 30:21, 46:22; Hoshea 6:1; Michah 1:13; Tehillim 118:27 (Targum), 120:4, 146:7, 147:3; Mishlei 3:3, 6:21, 7:3; Iyov 5:18, 30:4, 31:36, 38:9, 38:31; Koheles 4:14; Daniel 3:20 to 24 (Rashi), 5:6, 5:12, 5:16; Makkos 3:12; Tamid 4:1; Parah 3:9; Bava Kamma 6:5; Taharos 7:5; Yevamos 61a; Rashi to Sukkah 31a, Chullin 16a, Sanhedrin 77b, Kiddushin 70a; Niddah 48b; Berachos 56b; Shabbos 51a, 128b; Eruvin 100b; Bava Kamma 80a to 80b; Horayos 13a to 13b; Chullin 52b to 53a; Bechoros 8a to 8b; Yerushalmi Peah 3:7; *Bereishis Rabbah* 61:4; Malbim; Rabbi Shlomo Pappenheim; Rabbi Yehuda Ibn Chayyuj; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Eliyahu HaBachur, *Meturgaman*; Rabbi Yaakov Berger, *Milon Leshon HaMikra*; Dr. Michael Sokoloff, dictionary of Jewish Babylonian Aramaic; Rabbi Aharon Marcus.

@@ -34,17 +34,17 @@ updated: 2026-09-10
 
 *Lavan* is the general Hebrew word: **white**, and for Rabbi Shlomo Pappenheim
 it seems to be the umbrella for every manifestation of white. *Chivar* is the
-Aramaic equivalent, the Targumim's standard rendering of *lavan*; render it
-**white**, or **pale** where it describes a face. Rashi's glossing of *chivar*
+Aramaic equivalent, the Targumim's standard rendering of *lavan*: **white**, or **pale** where it
+describes a face. Rashi's glossing of *chivar*
 as *lavan* implies, perhaps, that the two mean the same and differ only in
 language, while Pappenheim narrows *chivar* to whiteness caused from outside.
-*Tzochar* is contested, and a translator must not assume it: Rashi reads
+*Tzochar* is contested: Rashi reads
 **white**, while Bedersi, preferring Ibn Janach, reads **combed**, with
 whiteness only a side effect. *Chelbon* wine (Yechezkel 27:18) is **white
 wine** for Rashi, rich wine for Menachem and the Peshitta, a wine named for a
 place in Aram for Radak, and "sweet wine" in the Targum as Rabbi Aharon Marcus
-reads it. The trap: English "white" absorbs all four, and in Shoftim 5:10 or
-Yechezkel 27:18 the whole question is whether the word means white at all.
+reads it. In Shoftim 5:10 and Yechezkel 27:18 the whole question is whether the
+word means white at all.
 
 ## At a glance
 
@@ -69,9 +69,7 @@ thing is whitened in fire. He grounds this in what he considered a scientific
 fact, that most objects are naturally white and other colors come from
 impurities, which a hot furnace melts away to leave the natural white; the
 column calls this quasi-scientific. On his account, it seems, *lavan* is the
-umbrella and *chivar* the whiteness of something whitened from outside. The
-Bottom line keeps the equivalence Rashi's glosses suggest for translation and
-flags Pappenheim's narrowing where fire is in the picture; that choice is ours.
+umbrella and *chivar* the whiteness of something whitened from outside.
 
 **Whether tzochar means white.** Rashi (to Shoftim 5:10) says yes: Devorah
 praises those who rode white she-donkeys, carrying on during the war unafraid
@@ -102,12 +100,9 @@ Menachem (*Machberes Menachem*), read it as fatty or oily, a way of saying the
 wine was of especially good quality, which seems to relate it to *cheilev*.
 Radak: a place-name, an area in Aram that produced quality wine, which Rabbi
 Tedeschi identifies as Chalab, also known as Aleppo or Aram Tzova. The column
-recalls a tradition, cited by a twelfth-century rabbi whose name is missing
-from the archived text, that Aleppo was called Chalab because Avraham grazed
+recalls a tradition, cited by a twelfth-century rabbi, that Aleppo was called Chalab because Avraham grazed
 his livestock there and gave out milk to the poor. Rabbi Aharon Marcus notes
-that Targum Yonasan renders *chelbon* wine *chamar cheilat*, sweet wine (see
-below). The column leaves these readings standing; the Bottom line leads with
-Rashi's.
+that Targum Yonasan renders *chelbon* wine *chamar cheilat*, sweet wine (see below). The column leaves these readings standing.
 
 ## Distinctions
 
@@ -225,7 +220,7 @@ does after all relate to Hebrew, but to *chalav*, not *lavan*.
   in view, *tzochar* left with a note.
 - In Shoftim 5:10 do not simply write "white donkeys" without knowing you have
   chosen Rashi over Bedersi. "Groomed she-donkeys" is the other reading.
-- *Chivar* is Aramaic. In a bilingual sefer, do not present *lavan* and *chivar*
+- *Chivar* is Aramaic. Do not present *lavan* and *chivar*
   as a Hebrew synonym pair; on the column's reading of Rashi they are perhaps
   the same word in two languages, with at most a narrowing in Pappenheim.
 - *Libbun* in a halachic context is not "whitening" in the color sense but firing
@@ -237,25 +232,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayechi: White is Light](https://articles.ohr.edu/articles/vayechi-white-is-light)," What's in a Word?, Ohr
-Somayach, 18 Teves 5784 (2023-12-30): raw text in
-`sources/whats-in-a-word/raw/11188-vayechi-white-is-light.md`. Primary loci:
-Bereishis 11:3, 23:8-9, 40:16, 46:10, 49:12; Shemos 5:7, 5:14, 6:15, 6:17,
-17:10-12, 24:14, 31:2, 35:30, 38:22; Vayikra 13; Bamidbar 3:18-21, 26:13,
-26:58, 31:8, 33:20-21; Devarim 1:1; Yehoshua 10:29-39, 12:15, 13:21; Shoftim
-5:10; Melachim I 21:8; Yeshayahu 1:18, 29:22; Yechezkel 27:18; Yoel 1:7;
-Tehillim 51:9; Shir HaShirim 5:1 with Targum; Koheles 10:17; Esther 1:6, 8:15;
-Daniel 7:9, 11:35, 12:10; Ezra 2:45; Nechemiah 4:8, 4:13, 5:7, 7:5, 7:48;
-Divrei HaYamim I 4:7, 4:24, 6:2-14; Divrei HaYamim II 1:5; Mishnah *Peah* 3:8,
-*Gittin* 4:4-6, *Avos* 2:16, 6:2 (with the column's longer list for *ben
-chorin*); Berachos 31b; Sotah 12a; Megillah 12a; Rashi to Berachos 28a, Gittin
-69b and 73a, Bava Basra 73a, Avodah Zarah 28a, Chullin 55b; Rashi, Radak and
-Targum Yonasan to Yechezkel 27:18; the Peshitta there; *Machberes Menachem*;
-responsa *Rashba* vol. 1 §12; Radak, *Sefer HaShorashim*; Rav Hirsch to
-Bereishis 1:3, 40:16 and Shemos 5:7; Ibn Ezra, Ramban and Shadal to Bereishis
-40:16; Bedersi, *Chotam Tochnit*; *Midrash Shmuel* to Avos 6:2; *Otzar
-Nirdafim*; *Aholei Yehuda*; *Shoresh Yesha*; *Davar Tov*; Rabbi Aharon Marcus.
-The column gives the Rid as "Rabbi Yosef of Trani"; the siglum ordinarily
-designates Rabbi Yeshayah di Trani, so the given name may be a slip. The
-column's note that *Aholei Yehuda*, not *Ohalei*, is the correct vocalization
-(from Zechariah 12:7) is followed here.
+Rabbi Reuven Chaim Klein, "[Vayechi: White is Light](https://articles.ohr.edu/articles/vayechi-white-is-light)," *What's in a Word?*, Ohr Somayach, 30 December 2023.
+
+Cited in the essay: Bereishis 11:3, 23:8-9, 40:16, 46:10, 49:12; Shemos 5:7, 5:14, 6:15, 6:17, 17:10-12, 24:14, 31:2, 35:30, 38:22; Vayikra 13; Bamidbar 3:18-21, 26:13, 26:58, 31:8, 33:20-21; Devarim 1:1; Yehoshua 10:29-39, 12:15, 13:21; Shoftim 5:10; Melachim I 21:8; Yeshayahu 1:18, 29:22; Yechezkel 27:18; Yoel 1:7; Tehillim 51:9; Shir HaShirim 5:1 with Targum; Koheles 10:17; Esther 1:6, 8:15; Daniel 7:9, 11:35, 12:10; Ezra 2:45; Nechemiah 4:8, 4:13, 5:7, 7:5, 7:48; Divrei HaYamim I 4:7, 4:24, 6:2-14; Divrei HaYamim II 1:5; Mishnah *Peah* 3:8, *Gittin* 4:4-6, *Avos* 2:16, 6:2; Berachos 31b; Sotah 12a; Megillah 12a; Rashi to Berachos 28a, Gittin 69b and 73a, Bava Basra 73a, Avodah Zarah 28a, Chullin 55b; Rashi to Shoftim 5:10 and Bamidbar 26:13; Rashi, Radak and Targum Yonasan to Yechezkel 27:18; the Peshitta there; Menachem Ibn Saruk, *Machberes Menachem*; responsa *Rashba* vol. 1 §12; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim; Rav Hirsch to Bereishis 1:3, 40:16 and Shemos 5:7; Rabbi Saadia Gaon; Ibn Ezra, Ramban and Shadal to Bereishis 40:16; Ibn Janach; the Rid; Ralbag; Rabbi Moshe Chalavah; Rabbi Yosef Nechemias; Rabbi Avraham Bedersi, *Chotam Tochnit*; Radal; Rabbi Benzion Chaim Lubetzky; Rabbi Dovberish Rosenberg, *Davar Tov*; Rabbi Moshe Yitzchak Tedeschi Ashkenazi, *Otzar Nirdafim*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehuda*; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Shmuel de Ucceda, *Midrash Shmuel* to Avos 6:2; Rabbi Matisyahu Strashun; Rabbi Binyamin Rabinowitz-Teomim; Rabbi Aharon Marcus.

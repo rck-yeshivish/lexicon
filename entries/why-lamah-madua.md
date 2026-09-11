@@ -32,10 +32,7 @@ cause and *lamah* the ultimate purpose; Rabbi Shlomo Aharon Wertheimer makes
 *lamah* imply that the matter is wrong, a complaint or rebuke, and *madua*
 neutral; others make *lamah* rhetorical and *madua* a request for a real
 answer; and some make *madua* specifically the question about a ruling or
-command. English has one word for both, so the difference has to be carried by
-the rest of the sentence: render *madua* "why" plainly, and *lamah*, where the
-context supports Wertheimer's reading, as "why on earth," "for what purpose,"
-or with the objection said outright.
+command.
 
 ## At a glance
 
@@ -50,8 +47,7 @@ or with the objection said outright.
 Parchon and Radak, explain that the two words are synonymous. Against them the
 column sets its own principle, demonstrated in its other essays, that the
 Hebrew language is not happenstance and no two words mean exactly the same
-thing; and others find slight differences in connotation. The Bottom line
-follows those who distinguish.
+thing; and others find slight differences in connotation.
 
 **What the difference is.** Four accounts, not one:
 
@@ -72,10 +68,6 @@ follows those who distinguish.
 4. **Rulings against everything else.** Some explain that *madua* is used
    specifically when questioning the rationale of a particular ruling or
    command, *lamah* in other contexts.
-
-The Bottom line's rendering advice leans on readings 2 and 3, which the column
-joins with "similarly," because they are what a translator can act on; that
-choice is ours, and readings 1 and 4 stand beside them.
 
 ## Distinctions
 
@@ -112,10 +104,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Why? Which 'Why'?](https://articles.ohr.edu/articles/why-which-why)", What's in a Word?, Ohr Somayach,
-10 Kislev 5777 (2016-12-10): https://articles.ohr.edu/articles/why-which-why;
-raw text in `sources/whats-in-a-word/raw/7039-why-which-why.md`. Primary loci
-cited: Rabbeinu Yonah ibn Janach, *Sefer Rikmah* (cited also by Radak); Ibn Ezra
-to Shemos 18:14; Ramban to Bereishis 30:20; Rabbi Mecklenburg, *HaKesav
-VeHaKabbalah* to Shemos 5:4; the Malbim; Rabbi Shlomo Aharon Wertheimer; Ibn
-Parchon. The column names no work for the Malbim or Rabbi Wertheimer here.
+Rabbi Reuven Chaim Klein, "[Why? Which 'Why'?](https://articles.ohr.edu/articles/why-which-why)" *What's in a Word?*, Ohr Somayach, 10 December 2016.
+
+Cited in the essay: Ibn Parchon; Radak; Rabbeinu Yonah ibn Janach, *Sefer Rikmah* (cited also by Radak); Ibn Ezra to Shemos 18:14; Ramban to Bereishis 30:20; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah* to Shemos 5:4; the Malbim; Rabbi Shlomo Aharon Wertheimer.

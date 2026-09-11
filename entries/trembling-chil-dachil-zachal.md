@@ -29,8 +29,7 @@ light of Rav Hirsch, *chil* seems to be the specific fear and *dachil* the more
 general one. *Zachal* carries two senses in Tanach, **crawling** and **fear**, and
 the fear sense may well be the Aramaic *dachil* Hebraicized, dalet to zayin
 (*Metzudas Tzion*, repeated by Rabbi David Golumb and Rabbi Asher Weiser). The
-trap is rendering all three "fear"; the piyut that opens the column sets all
-three in rhyme.
+piyut that opens the column sets all three in rhyme.
 
 ## Distinctions
 
@@ -39,8 +38,7 @@ The most common of the three in Biblical Hebrew, meaning fear and the bodily
 tremors fear produces. Shiras HaYam: the nations heard and trembled
 (*yirgazun*), *chil* seized the dwellers of Peleshes (Shemos 15:14). Of the
 nations and Sichon: "they will tremble (*v'ragzu*) and be in dread (*v'chalu*)
-before you" (Devarim 2:25; the column places it after Sichon's defeat, though the
-pasuk is Hashem's promise as the war with Sichon begins).
+before you" (Devarim 2:25).
 
 Rav Hirsch (to Shemos 15:14) gives *chil* a specific sense: the fear of the old
 guard at how a changing paradigm will affect them. That, he says, is why *chil*
@@ -139,7 +137,7 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   since Saturn's motion in longitude is the slowest of the seven planets.
 - A further Rabbinic sense: when Rabbi Oshaya's face lit up in excitement, the
   Yerushalmi (*Sanhedrin* 11:4) says his face was *zachlin*, and the Midrash uses
-  *zachalin* of Bar Pedaya (*Koheles Rabbah* 8:4). The column closes by
+  *zachalin* of Bar Pedaya (*Koheles Rabbah* 8:1). The column closes by
   suggesting that since Saturn appears in the sky as an illuminated body, perhaps
   its Arabic name is related to this sense of light.
 
@@ -169,24 +167,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)](https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13)," What's
-in a Word?, Ohr Somayach, 18 Elul 5784 (2024-09-21): raw text in
-`sources/whats-in-a-word/raw/11544-nitzavim-vayelech-shake-quake-pt-13.md`.
-Primary loci cited: Shemos 15:14, 20:20; Devarim 2:25, 32:24; Bamidbar 21:35
-(Targum Yonasan); Yeshayahu 21:3; Yirmiyahu 6:24, 22:23, 50:43; Yechezkel 30:4,
-30:9; Michah 4:9, 7:17; Tehillim 48:7; Iyov 32:6; Esther 4:4; Daniel 2:31, 4:2,
-5:19, 6:27, 7:7, 7:19; Megillah 15a; Bava Basra 27b with *Toras Chaim*;
-Yerushalmi *Sanhedrin* 11:4; *Esther Rabbah* 7:14 and 8:3; *Koheles Rabbah* 8:4;
-*Tosefta Chullin* 3:25; *Eruvin* 10:6, *Bava Basra* 2:5 and 3:6, *Eduyos* 7:3 to
-4, *Mikvaos* 1:8, 5:4, 5:5, *Parah* 8:8; Rabbi Eliyahu Bachur, *Meturgeman*;
-*Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Rabbi Shaul Goldman and
-Dr. Tzvi Langermann (communications to the author). The column points to its
-own earlier pieces "Through the Looking Window" (Jan. 2021) on the biliteral
-ח-ל and "Afraid of Fright or Ready to Fight" (Nov. 2016) on words for fear.
+Rabbi Reuven Chaim Klein, "[Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)](https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13)," *What's in a Word?*, Ohr Somayach, 21 September 2024.
 
-Citation notes: the article prints "Ex. 14:15" twice, for the Shiras HaYam
-pasuk and for Rav Hirsch's comment on it; the locus is Shemos 15:14, as its own
-later citation has it. Devarim 2:25 is Hashem's promise as the war with Sichon
-begins, not a report after his defeat. The *zachalin* of Bar Pedaya stands at
-*Koheles Rabbah* 8:1 in Sefaria's text. This is part one of a three-part series;
-parts two and three are separate articles.
+Cited in the essay: Shemos 15:14 (with Rav Hirsch), 20:20 (Onkelos); Bamidbar 21:35 (Targum Yonasan); Devarim 2:25 (Onkelos), 32:24 (Rashi, Ibn Ezra, Rav Hirsch); Yeshayahu 21:3; Yirmiyahu 6:24, 22:23, 50:43; Yechezkel 30:4, 30:9; Michah 4:9, 7:17; Tehillim 48:7; Iyov 32:6 (Rashi, Ibn Ezra, *Metzudas Tzion*, Rabbi Yosef Kara, Sforno); Esther 4:4; Daniel 2:31, 4:2, 5:19, 6:27, 7:7, 7:19; Megillah 15a; Bava Basra 27b with *Toras Chaim*; Yerushalmi *Sanhedrin* 11:4; *Esther Rabbah* 7:14 and 8:3; *Koheles Rabbah* 8:1; *Tosefta Chullin* 3:25; *Eruvin* 10:6, *Bava Basra* 2:5 and 3:6, *Eduyos* 7:3 to 4, *Mikvaos* 1:8, 5:4, 5:5, *Parah* 8:8; Rabbi Shlomo Pappenheim; Rabbi Eliyahu Bachur, *Meturgeman*; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Rabbi David Golumb; Rabbi Asher Weiser; Rabbi Yekusiel bar Moshe, *Yarasi Befitzchi Si*; Rabbi Shaul Goldman and Dr. Tzvi Langermann (communications to the author).

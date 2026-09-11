@@ -22,17 +22,15 @@ updated: 2026-09-10
 
 *Dod* is not the English "uncle," which covers four relationships. In Biblical
 Hebrew it primarily means **father's brother**: Rashi asserts that Scripture
-never uses *dod* for a mother's brother. Render it **paternal uncle** wherever the
-kinship is load-bearing, and plain **uncle** only where nothing turns on it; in
-Shir HaShirim it seems to mean **beloved**. *Misaref* is a *hapax legomenon*
+never uses *dod* for a mother's brother. In Shir HaShirim it seems to mean
+**beloved**. *Misaref* is a *hapax legomenon*
 (Amos 6:10) and is disputed: **maternal uncle** (Ibn Kuraish, Ibn Janach, Radak
 in *Sefer HaShorashim*; so too the Karaite Yefet ben Ali), the reading the column
 opens with ("seems to mean one's mother's brother") and then questions; a generic
 **kinsman** (seemingly Rashi, with the Septuagint, the Peshitta and Ibn Kaspi);
 a verb of **burning** (Targum Yonasan, Radak in his commentary); or a word from
 *seraf*, sap or resin (Professor Gary Rendsburg after Yechezkel Kutscher, "to
-smear with resin"; Rabbi Shlomo Aharon Wertheimer, unwanted offspring). Do not
-translate it confidently; give one reading and footnote the others. A mother's
+smear with resin"; Rabbi Shlomo Aharon Wertheimer, unwanted offspring). A mother's
 brother in Tanach is spelled out as "his mother's brother," never *misaref*, and
 never *dod*.
 
@@ -101,11 +99,9 @@ a *hapax* it resists precise definition. The readings:
    brother(s)," never *misaref*, which would suggest that *misaref* does not mean
    mother's brother. Moreover, Professor Gary Rendsburg wrote to Rabbi Klein that
    Ibn Kuraish and Ibn Janach may have been influenced by their native Arabic,
-   which has two words for uncle, *em* (paternal) and *khal* (maternal). The
-   article's sentence closes "and there is no reason to assume that the same
-   should not be true in Hebrew," which leaves unclear whether that clause
-   concedes the parallel or was meant as part of the objection; the entry does
-   not resolve it.
+   which has two words for uncle, *em* (paternal) and *khal* (maternal). The column's sentence closes "and there is no reason to assume that the same
+should not be true in Hebrew," which leaves unclear whether that clause concedes
+the parallel or was meant as part of the objection.
 2. **Relative, cohort.** Rashi (there) seems to explain *misaref* as a generic
    term for a relative, not a specific kinship. The Septuagint and the Peshitta
    translate the verse the same way, and Rabbi Yosef Ibn Kaspi also seems to
@@ -167,19 +163,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Say Uncle](https://articles.ohr.edu/articles/say-uncle)," What's in a Word?, Ohr Somayach, 12 Iyar
-5781 (2021-04-24): raw text in `sources/whats-in-a-word/raw/9184-say-uncle.md`.
-Primary loci: Vayikra 18:12 to 14, 20:19 to 20 and *Toras Kohanim* there;
-Vayikra 21:11 (*HaKsav VeHaKabbalah*); Shemos 6:20; Bereishis 29:10; Shoftim 9:1,
-9:3; Yirmiyahu 32:12 (Rashi); Yechezkel 31; Amos 6:10 (Ibn Ezra, Rashi, Radak,
-Targum Yonasan); Yeshayahu 35:7 (Malbim); Shir HaShirim 8:6 to 7; Esther 2:15;
-Yevamos 21a, 54b; Makkos 3b (Rashi); Sanhedrin 5a; Pesachim 4a; Eruvin 12b,
-Chullin 32a (Rashi); Rashbam to Bava Basra 41b; Bava Basra 110a; Orlah 1:7;
-Shabbos 26a; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Zev Hoberman,
-*Zeev Yitraf, Pesach* ch. 90; the Septuagint and Peshitta to Amos 6:10; Yefet ben
-Ali; Professor Gary Rendsburg (correspondence with the author) and Yechezkel
-Kutscher; *Shoresh Yesha*; the *Oxford English Dictionary* on *syrup*.
+Rabbi Reuven Chaim Klein, "[Say Uncle](https://articles.ohr.edu/articles/say-uncle)," *What's in a Word?*, Ohr Somayach, 24 April 2021.
 
-The article gives Ibn Janach's entry as SIN-REISH-PEH (שׂ-ר-פ). Article slips: it
-prints Radak's commentary as "Amos 6:1"; the locus is 6:10. It says "the Torah
-describes her" of Esther 2:15, a pasuk in the Megillah.
+Cited in the essay: Bereishis 29:10; Shemos 6:20; Vayikra 18:12 to 14, 20:19 to 20 and *Toras Kohanim* there; Vayikra 21:11 (*HaKsav VeHaKabbalah*); Shoftim 9:1, 9:3; Yeshayahu 35:7 (Malbim); Yirmiyahu 32:12 (Rashi); Yechezkel 31; Amos 6:10 (Ibn Ezra citing Rabbi Yehuda Ibn Kuraish, Rashi, Radak, Targum Yonasan); Shir HaShirim 8:6 to 7; Esther 2:15; Targum Onkelos to Vayikra 18:14, 20:20; Yevamos 21a, 54b; Makkos 3b (Rashi); Sanhedrin 5a; Pesachim 4a; Rashi to Eruvin 12b and Chullin 32a; Rashbam to Bava Basra 41b; Bava Basra 110a; Orlah 1:7; Shabbos 26a; Ibn Janach, *Sefer HaShorashim* (entry שׂ-ר-פ); Radak, *Sefer HaShorashim*; Rabbi Rafael Binyamin Posen; Rabbi Shlomo Pappenheim; Rabbi Moshe Kunitz; Rabbi Yosef Chaim of Baghdad; Rabbi David Cohen of Gvul Yaavetz; Rabbi Yochanan Sofer; Rabbi Yosef Ibn Kaspi; Rabbi Shimon Yehuda Leib Goldblit; Rabbi Shlomo Aharon Wertheimer; Rabbi Zev Hoberman, *Zeev Yitraf, Pesach* ch. 90; the Septuagint and Peshitta to Amos 6:10; Yefet ben Ali; Professor Gary Rendsburg (correspondence with the author) and Yechezkel Kutscher; *Shoresh Yesha*; the *Oxford English Dictionary* on *syrup*.

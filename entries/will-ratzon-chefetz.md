@@ -32,10 +32,7 @@ makes *ratzon* the mind's chosen wanting, and so aimed at the good, and
 is bad; Rabbi Avraham Bedersi disputes that *chefetz* is ever unchosen, since
 Hashem is called *chafetz*. Rabbi Yehuda Leib Edel offers a totally different
 axis: *ratzon* can name means as well as ends, *chefetz* only the final goal.
-*Tzvi* in the sense of wanting is **yearning**, a wanting that persists (Rabbi
-Pappenheim). Do not swap the English: *ratzon* is not "desire" and *chefetz* is
-not "will"; keep Rabbi Edel's axis in mind when a passage speaks of *retzon
-Hashem*.
+*Tzvi* in the sense of wanting is **yearning**, a wanting that persists (Rabbi Pappenheim).
 
 ## Distinctions
 
@@ -114,11 +111,10 @@ with *raavon*.
 - Together, Tehillim 40:9: "To do Your will I have desired." The will is
   Hashem's; the desire is the man's engine for doing it (Rabbi Margolios).
 - Trap: "desire" absorbs *ratzon* and *chefetz*; "want" absorbs all three. If
-  the passage turns on the difference (a mussar sefer setting the will against
-  the pull of the body), hold "will" for *ratzon* and "desire" for *chefetz*.
+  the passage turns on the difference (setting the will against the pull of the body), hold "will" for *ratzon* and "desire" for *chefetz*.
 - Rabbi Edel's axis is worth keeping when the subject is Hashem: His *chefetz*
   may read "purpose" and His *ratzon* "will" (Makkos 3:16).
-- *Cheshek* (חשק) is not defined in this article; Targum treats it like
+- *Cheshek* (חשק) is not defined in this column; Targum treats it like
   *chefetz*. Render "longing" and check the dedicated entry once one exists.
 
 ## Notes for a project
@@ -127,15 +123,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Running on Willpower](https://articles.ohr.edu/articles/running-on-willpower)," What's in a Word?, Ohr
-Somayach, 28 Teves 5780 (2020-01-25): raw text in
-`sources/whats-in-a-word/raw/8573-running-on-willpower.md`. Primary loci the
-column cites: Targum Onkelos to Bereishis 34:8, 34:19 and Devarim 7:7, 21:11,
-21:14, 25:7-8; Bereishis Rabbah 5:8; Rashi to Koheles 3:1; Rabbi Margolios,
-*Beis Middos*, on Tehillim 40:9; Malbim on Yeshayahu 66:3 and Devarim 25:7-8,
-Rus 3:13; Bedersi's list of Hashem as *chafetz* (Bamidbar 14:8; Yeshayahu 42:21,
-53:10; Melachim I 10:9; Tehillim 147:10; Shmuel I 15:22); Makkos 3:16 on
-Yeshayahu 42:21; the column's earlier "Deleterious Desires" (June 2017) for the
-Vilna Gaon on *chefetz*. The column prints Yeshayahu 42:20 in Bedersi's list;
-*chafetz* of Hashem is in 42:21. The archived text ends in a cut-off
-sponsorship line, but the essay itself is complete.
+Rabbi Reuven Chaim Klein, "[Running on Willpower](https://articles.ohr.edu/articles/running-on-willpower)," *What's in a Word?*, Ohr Somayach, 25 January 2020.
+
+Cited in the essay: Targum Onkelos to Bereishis 34:8, 34:19 and Devarim 7:7, 21:11, 21:14, 25:7-8; Bereishis Rabbah 5:8; Rashi to Koheles 3:1; Rabbi Aharon Yehuda Leib Margolios, *Beis Middos*, on Tehillim 40:9; Malbim on Yeshayahu 66:3, Devarim 25:7-8 and Rus 3:13; Rabbi Avraham Bedersi HaPenini, with Bamidbar 14:8, Yeshayahu 42:21, 53:10, Melachim I 10:9, Tehillim 147:10 and Shmuel I 15:22; Makkos 3:16 on Yeshayahu 42:21; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Tzvi Yehuda Kook; Rabbi Yehuda Leib Edel; the Vilna Gaon.

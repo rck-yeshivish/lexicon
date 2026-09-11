@@ -20,8 +20,7 @@ updated: 2026-09-10
 
 Both are used of the ritual waving of a korban, and whether they name two acts
 is the question in dispute. Rashi (and, it seems, Ibn Ezra) makes *tenufah*
-**waving** back and forth on the horizontal axis and *terumah* **raising and
-lowering**, the vertical; this entry takes that split as its default. Rabbi
+**waving** back and forth on the horizontal axis and *terumah* **raising and lowering**, the vertical. Rabbi
 Shlomo Pappenheim makes *terumah* the up-and-down alone and *tenufah* the
 broader term covering both axes; Rabbeinu Avraham ben HaRambam has *tenufah*
 itself cover both; Rabbi Yosef Bechor Shor holds the two synonyms, alternated
@@ -29,8 +28,7 @@ for elegance; and Targum Onkelos, as Rabbi Yaakov Zev Lev reads him, makes
 *tenufah* up and down just like *terumah*. Outside the korban, *terumah* is the
 **separated portion**: of the Mishkan donation Rashi (to Shemos 25:2) renders it
 "separation," not "lifting," and as the Kohen's tithe the word is parsed *trei
-mi'meah*, two per hundred. The trap: English "elevation offering" or "wave
-offering" will collapse the pair, and on Rashi's reading the pesukim that name
+mi'meah*, two per hundred. On Rashi's reading the pesukim that name
 both for the same limb describe two distinct acts.
 
 ## Distinctions
@@ -190,23 +188,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Behaaloscha: Lift & Wave](https://articles.ohr.edu/articles/behaaloscha-lift-wave)," What's in a Word?, Ohr
-Somayach, 16 Sivan 5784 (2024-06-22): raw text in
-`sources/whats-in-a-word/raw/11422-behaaloscha-lift-wave.md`. Primary loci
-cited: Shemos 25:2, 29:24, 29:26-27, 35:22; Vayikra 7:28-38 (7:30, 7:32, 7:34),
-8:27, 8:29, 9:21, 10:14-15, 14:12, 14:24, 23:11-12, 23:17, 23:20; Bamidbar
-5:25, 6:20, 8:11-21; *Toras Kohanim, Tzav parshasa* 11; Menachos 62a; Mishnah
-*Menachos* 5:6 and *Terumos* 4:3; Zohar *Korach* 179a; the Rambam's commentary
-to Mishnah *Terumos* 1:1 and 4:3; *Sefer HaChinuch* 507; Ibn Janach,
-introduction to *Sefer HaRikmah*; Rashi and Ibn Ezra ad loc.; Ramban to
-Vayikra 10:15; *Peirush HaRokeach* and Baal HaTurim to Vayikra 7:30; Rabbeinu
-Avraham ben HaRambam and Rabbi Yosef Bechor Shor to Shemos 29:24; Targum
-Onkelos with *Me'at Tzari* to Shemos 29:24 and 29:27; *Miseach Ilmim* to Shemos
-25:2; Rabbi Shlomo Pappenheim on ר-ו-ם and נ-ו-פ; *Meshech Chochmah* to Shemos
-29:27; *HaKtav VeHaKabbalah* to Devarim 23:26; Rav Hirsch to Tehillim 48:3;
-Tehillim 19:11 with Rashi to Mishlei 7:17; *Aholei Yehuda*; Iyov 28:18; Hoshea
-9:6; Yeshayahu 19:13; Yirmiyahu 2:16, 44:1, 46:14, 46:19; Yechezkel 30:13,
-30:16; Rus 4:19; Divrei HaYamim I 2:9, 2:25. The column writes that the initial
-tav is "radical to the core root," and likewise of the alef of *anaf*; its
-following sentences show it means extraneous to the root, and the entry gives
-that sense.
+Rabbi Reuven Chaim Klein, "[Behaaloscha: Lift & Wave](https://articles.ohr.edu/articles/behaaloscha-lift-wave)," *What's in a Word?*, Ohr Somayach, 22 June 2024.
+
+Cited in the essay: Shemos 25:2, 29:24, 29:26-27, 35:22; Vayikra 7:28-38 (7:30, 7:32, 7:34), 8:27, 8:29, 9:21, 10:14-15, 14:12, 14:24, 23:11-12, 23:17, 23:20; Bamidbar 5:25, 6:20, 8:11-21; Rashi to Shemos 25:2, 29:24, 29:26-27, Vayikra 7:34, 10:15, 23:17; Ibn Ezra, long commentary to Shemos 29:27; *Toras Kohanim, Tzav parshasa* 11; Menachos 62a; Mishnah *Menachos* 5:6 and *Terumos* 4:3; Zohar *Korach* 179a; the Rambam's commentary to Mishnah *Terumos* 1:1 and 4:3; *Sefer HaChinuch* 507; Ibn Janach, introduction to *Sefer HaRikmah*; Ramban to Vayikra 10:15; *Peirush HaRokeach* to Shemos 29:27, Vayikra 7:30, 7:34; Baal HaTurim to Vayikra 7:30; Rabbeinu Avraham ben HaRambam and Rabbi Yosef Bechor Shor to Shemos 29:24; Targum Onkelos with Rabbi Yaakov Zev Lev's *Me'at Tzari* to Shemos 29:24 and 29:27; Rabbi Shmuel Botnick; Rabbi Yehuda Kalats, *Miseach Ilmim* to Shemos 25:2; Rabbi Shlomo Pappenheim on ר-ו-ם and נ-ו-פ; *Meshech Chochmah* to Shemos 29:27; *HaKtav VeHaKabbalah* to Devarim 23:26; Rav Hirsch to Tehillim 48:3; Tehillim 19:11 with Rashi to Mishlei 7:17; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehuda*; Iyov 28:18; Hoshea 9:6; Yeshayahu 19:13; Yirmiyahu 2:16, 44:1, 46:14, 46:19; Yechezkel 30:13, 30:16; Rus 4:19; Divrei HaYamim I 2:9, 2:25; Rabbi Yehoshua Steinberg.

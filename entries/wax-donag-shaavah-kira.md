@@ -41,8 +41,7 @@ or **candle wax** in a halachic context. The Gemara defines it as the refuse of
 honey, and its name seems to come from SHIN-AYIN, "smooth," for the texture of
 hardened wax. *Kira* (and *keirosa*, *kiri*) is **wax** too, but a Greek and
 Latin loan-word, not Hebrew or Aramaic. *Nechot* in the Yosef narrative is
-generally a **spice**; some make it wax, following the Midrash, so render it
-wax only where you are following that line.
+generally a **spice**; some make it wax, following the Midrash.
 
 ## At a glance
 
@@ -71,10 +70,7 @@ rendering to mean olive oil. The Vilna Gaon's son, Rabbi Avraham Vilner, reads
 the word as *saaf* and connects it to *seif*, "branch" (Yechezkel 31:8).
 Despite all this, the column validates Rashi's citation through Rabbi Yosef
 Teomim-Frankel (1727 to 1792), who suggests in *Iggros Pri Megadim* that *shaaf*
-is just a variant of *shaavah*, presumably, the column adds, because PEH and
-VAV are phonetically close and can interchange. The Bottom line follows the
-general "spice" for translation and flags the Midrash, because only the
-Midrashic and Targumic line makes it wax at all.
+is just a variant of *shaavah*, presumably, the column adds, because PEH and VAV are phonetically close and can interchange.
 
 **Where *donag* comes from.** Rav Hirsch (to Shemos 29:20) connects it to
 *tenuch*, the ear lobe, ostensibly invoking the interchange of DALET with TAV
@@ -87,8 +83,7 @@ suggests in his dictionary that it derives from Akkadian *dumqu*, "clear" or
 "shiny," which the column takes as a reference to wax's translucence; Rabbi
 Dr. Ernest Klein (1899 to 1983) concludes that it is of uncertain etymology,
 mentioning Even-Shoshan's theory as just a possibility, and cites Dr. Heinrich
-Leberecht Fleischer (1801 to 1888), who compares Arabic *danj*, "the remainder
-of the honeycombs." Nothing in translation turns on the choice.
+Leberecht Fleischer (1801 to 1888), who compares Arabic *danj*, "the remainder of the honeycombs."
 
 ## Distinctions
 
@@ -96,9 +91,7 @@ of the honeycombs." Nothing in translation turns on the choice.
 Four times in Tanach: Michah 1:4, Tehillim 22:15, 68:3, 97:5. In every one it is
 wax as the thing that easily melts in fire, so the word carries an image of
 dissolving before heat. It is absent from Mishnah and Gemara, except as the
-name of a woman in Rav Nachman's household, Donag (Kiddushin 70a); the column
-calls her his wife, but the Gemara there calls her a minor and Rashi says she
-was his daughter (his wife in that passage is Yalta). The column's summary:
+name of a woman in Rav Nachman's household, Donag (Kiddushin 70a). The column's summary:
 *donag* focuses on either wax's malleability, its role in bringing light, or
 its translucent appearance.
 
@@ -122,9 +115,8 @@ olive oil is ideal (Rema to Orach Chaim 673:1).
 ### kira (קירא)
 Shabbos 20b glosses the Mishnah's *shaavah* with the seemingly Aramaic
 *keirosa*, and the Gemara uses *kira* (Bava Metzia 40a, Berachos 56b, Shabbos
-110b, 133b) and *kiri* (Pesachim 8a, Yevamos 76a). These are not Aramaic but
-loan-words from Latin *cera* and/or Greek *keros*. Translate them "wax" and
-expect no Hebrew semantics from them.
+110b, 133b) and *kiri* (Pesachim 8a). These are not Aramaic but
+loan-words from Latin *cera* and/or Greek *keros*.
 
 ### nechot (נכאת)
 A trade good in the Yishmaeli caravan (Bereishis 37:25) and among the gifts
@@ -155,19 +147,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Pick your Wax - Chanukah](https://articles.ohr.edu/articles/pick-your-wax-chanukah)," What's in a Word?, Ohr
-Somayach, 19 Kislev 5781 (2020-12-05): raw text in
-`sources/whats-in-a-word/raw/8953-pick-your-wax-chanukah.md`. Primary loci
-cited: Rema to Orach Chaim 673:1; Michah 1:4; Tehillim 22:15, 68:3, 97:5;
-Kiddushin 70a; Rav Hirsch to Shemos 29:20; Rabbi Yehoshua Steinberg,
-*Shorashei Leshon HaKodesh* (Warsaw 1897); Avraham Even-Shoshan's dictionary;
-Rabbi Dr. Ernest Klein, citing Heinrich Leberecht Fleischer; Mishnah Shabbos
-2:1, 8:4, 22:3 and Keilim 10:2, 17:17, 24:7; Shabbos 20b; Rabbi Eliyahu
-HaBachur, *Meturgeman*; Bereishis 38:2 with Bereishis Rabbah 85:4; Bava Metzia
-40a; Berachos 56b; Shabbos 110b, 133b; Pesachim 8a; Yevamos 76a; Bereishis
-37:25, 43:11 with Bereishis Rabbah 91:11 and Targum Yonasan, Neofiti and
-Onkelos; Rashi to Bereishis 37:25; Ramban to Shemos 30:34; Chullin 111b;
-Yechezkel 31:8; *Iggros Pri Megadim*. Two corrections to the column: Donag of
-Kiddushin 70a is Rav Nachman's daughter (Rashi there), not his wife; and the
-printed text of Yevamos 76a has no form of *kiri* that we could find, so that
-locus may rest on a variant reading.
+Rabbi Reuven Chaim Klein, "[Pick your Wax - Chanukah](https://articles.ohr.edu/articles/pick-your-wax-chanukah)," *What's in a Word?*, Ohr Somayach, 5 December 2020.
+
+Cited in the essay: Bereishis 37:25, 43:11 with Bereishis Rabbah 91:11, Targum Yonasan, Targum Neofiti and Onkelos; Rashi to Bereishis 37:25; Bereishis 38:2 with Bereishis Rabbah 85:4; Rav Hirsch to Shemos 29:20; Ramban to Shemos 30:34; Yechezkel 31:8; Michah 1:4; Tehillim 22:15, 68:3, 97:5; Mishnah Shabbos 2:1, 8:4, 22:3 and Keilim 10:2, 17:17, 24:7; Shabbos 20b, 110b, 133b; Kiddushin 70a; Bava Metzia 40a; Berachos 56b; Pesachim 8a; Chullin 111b; Rema to Orach Chaim 673:1; Rabbi Yehoshua Steinberg, *Shorashei Leshon HaKodesh* (Warsaw 1897); Avraham Even-Shoshan's dictionary; Rabbi Dr. Ernest Klein, citing Heinrich Leberecht Fleischer; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Matisyahu Strashun; Ibn Janach; Professor Zohar Amar; Rabbi Avraham Vilner; Rabbi Yosef Teomim-Frankel, *Iggros Pri Megadim*.

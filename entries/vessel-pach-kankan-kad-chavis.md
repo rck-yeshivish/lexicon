@@ -39,8 +39,7 @@ updated: 2026-09-10
 
 *Pach* is a pottery **flask** or **jug**, smaller than a *chavis* (Rashi), used
 in Tanach only in *pach hashemen*. *Kankan* is a Mishnaic **jug** or **jar**;
-*kad* is typically translated **jug** or **pitcher**, *chavis* **barrel**. The
-trap is over-differentiating: the Mishnah uses *kad* and *chavis* as though
+*kad* is typically translated **jug** or **pitcher**, *chavis* **barrel**. The Mishnah uses *kad* and *chavis* as though
 interchangeable, because in the vernacular they were not necessarily fixed (Bava
 Kamma 27a), and the column adds *kankan* (from Mishnayos that swap it with both)
 and *pach* (from the version of Chullin 91a that reads *levado* as *l'kado*).
@@ -78,7 +77,7 @@ resembling its color.
 **The etymology of kankan.** Dr. Alexander Kohut (*HaAruch HaShaleim*) claims
 that Mishnaic *kankan* is a loanword from Latin *kanne*/*canna* ("reed," "cane,"
 "pipe," "tube," "small vessel"), probably by reduplication. The *Oxford English
-Dictionary* derives English *can* from the same Latin, and the article lists
+Dictionary* derives English *can* from the same Latin, and the column lists
 other English words said to come from it (*cane*, *canal*, *channel*, *kennel*,
 *canister*, *canon*, *canyon*), noting that the French *cancan* is unrelated
 (its etymology unclear, perhaps from *canard*, duck). Rabbi Ernest David Klein
@@ -94,8 +93,7 @@ Hebrew etymon too.
 not. Rabbi Tzvi Elimelech Shapiro of Dinov (1783 to 1841) rejects this, since
 *shemanim* would have rhymed too. The column still holds that poetic license is
 correct, and answers that the word had already ended the previous line ("they
-defiled all the *shemanim*") and rhyming a word with itself is tacky; the
-article's text says *shoshanim* at that point, evidently a slip for *shemanim*.
+defiled all the *shemanim*") and rhyming a word with itself is tacky.
 The column then adds that the interchangeability of the words also justifies
 the swap.
 
@@ -124,10 +122,9 @@ Three occurrences in Tanach, each in *pach hashemen*: Shmuel's anointing of Shau
 Melachim 9:1, 9:3). Jastrow: "flask," "jug." In the Mishnah (Shabbos 17:5,
 Beitzah 1:7, Bava Kamma 8:6, Keilim 2:2, 3:2, 5:3, Negaim 12:5) it is a pottery
 jug typically used for storing oil, and Rashi (to Avodah Zarah 71b) makes it
-smaller than a *chavis* (the article adds "but see below," pointing to the
+smaller than a *chavis* (the column adds "but see below," pointing to the
 interchangeable usage). Chullin 91a (cited by Rashi to Bereishis 32:25) has
-Yaakov recross the Yabok for small *pachim*; the article asks where the pasuk
-alludes to *pachim*, and answers from the version the Tosafists (*Daas
+Yaakov recross the Yabok for small *pachim*; the column asks where the pasuk alludes to *pachim*, and answers from the version the Tosafists (*Daas
 Zekeinim*, *Hadar Zekeinim*) and Rabbeinu Bachya cite, in which the derashah
 reads *levado* as *l'kado*, "for his *kad*," on the resemblance of beis and
 kaf. In that version, the column concludes, the Gemara uses *pach* and *kad*
@@ -153,14 +150,14 @@ not note it: Maaser Sheini 3:13 interchanges it with *chavis*, and Maaser Sheini
 ### kaneh (קנה)
 Over fifty occurrences in Tanach: "reed," "stem/branch," "tube," all pipe-like
 items with a typically hollow middle; in Rabbinic Hebrew it also came to name the
-windpipe (the article refers to the author's earlier essay "The Gorgeous
+windpipe (the column refers to the author's earlier essay "The Gorgeous
 Windpipe"). The Torah calls the Menorah's branches *kanim* (Shemos 25:31-36,
 37:18-22), which is how the column explains the Mabit's ruling that they may be
 hollow.
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the article's meanings.
+These are our rendering judgments, built on the column's meanings.
 
 - Trap: English "jug" will absorb *pach*, *kankan* and *kad*, and often that is
   right. Distinguish only where the passage turns on size: *pach* small flask,
@@ -168,8 +165,7 @@ These are our rendering judgments, built on the article's meanings.
 - Where a Mishnah shifts from *kad* to *chavis* within one ruling, Bava Kamma
   27a explains the shift as loose vernacular; keep the Mishnah's two words
   visible in English rather than repairing them to one.
-- *Pach hashemen* in a Chanukah context: "flask of oil" (the article itself
-  says "container").
+- *Pach hashemen* in a Chanukah context: "flask of oil" (the column itself says "container").
 - *Kaneh* is never a vessel: "reed," "stem," "branch," or "windpipe."
 
 ## Notes for a project
@@ -178,23 +174,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Miketz: Cans of Oil](https://articles.ohr.edu/articles/miketz-cans-of-oil)," What's in a Word?, Ohr Somayach,
-23 Kislev 5783 (2022-12-17): raw text in
-`sources/whats-in-a-word/raw/10751-miketz-cans-of-oil.md`. Primary loci cited:
-Shabbos 21b; *Megillas Taanis* to 25 Kislev; *Sheiltos D'Rav Achai Gaon*,
-Vayishlach §26; Rambam *Hilchos Chanukah* 3:2 and *Hilchos Beis HaBechirah*
-3:4; I Shmuel 10:1; II Melachim 9:1, 9:3, 9:30; Yirmiyahu 4:30; Yeshayahu 54:11;
-Divrei HaYamim I 29:2; Shemos 28:18, 39:11; Yechezkel 28:13, 47:2 (with Rashi);
-Shekalim 6:3; Middos 2:6; Shemos 25:31-36 (Rashbam and Ibn Ezra to 25:32),
-37:18-22; Bereishis 32:25 with Rashi, *Daas Zekeinim*, *Hadar Zekeinim*, and
-Rabbeinu Bachya; Chullin 91a; Mishnah Shabbos 17:5, Beitzah 1:7, Bava Kamma 3:1,
-3:5, 8:6, 10:4, Keilim 2:2, 3:2, 5:3, Negaim 12:5, Maaser Sheini 1:3-4,
-3:12-13, Avodah Zarah 2:4, Kesubos 13:4 (with *Tosafos Yom Tov*), Bava Metzia
-3:8, Shevuos 6:3, Mikvaos 2:7, 2:9, Terumos 11:7-8, Demai 7:8; Bava Kamma 27a;
-Avodah Zarah 32a (Tosafot), 71b (Rashi); Radak, *Sefer HaShorashim*; *Machberet
-Menachem*; Dr. Alexander Kohut, *HaAruch HaShaleim*; the *Oxford English
-Dictionary*; Rabbi Ernest David Klein, *Comprehensive Etymological Dictionary of
-the English Language*; Mabit, *Kiryas Sefer*; *Aruch HaShulchan HeAsid*. Rabbi
-Shlomo Pappenheim, Rabbi Tzvi Elimelech Shapiro of Dinov, Rabbi Yosef Karo,
-Rabbi Massoud Chai Rokach, Rabbi Avraham Dovber Kahane-Shapiro, and Jastrow are
-cited without a locus.
+Rabbi Reuven Chaim Klein, "[Miketz: Cans of Oil](https://articles.ohr.edu/articles/miketz-cans-of-oil)," *What's in a Word?*, Ohr Somayach, 17 December 2022.
+
+Cited in the essay: Bereishis 32:25 with Rashi, *Daas Zekeinim*, *Hadar Zekeinim*, and Rabbeinu Bachya; Shemos 25:31-36 (Rashbam and Ibn Ezra to 25:32), 28:18, 37:18-22, 39:11; I Shmuel 10:1; II Melachim 9:1, 9:3, 9:30; Yeshayahu 54:11; Yirmiyahu 4:30; Yechezkel 28:13, 47:2 (with Rashi); Divrei HaYamim I 29:2; Mishnah Shabbos 17:5, Beitzah 1:7, Bava Kamma 3:1, 3:5, 8:6, 10:4, Keilim 2:2, 3:2, 5:3, Negaim 12:5, Maaser Sheini 1:3-4, 3:12-13, Avodah Zarah 2:4, Kesubos 13:4 (with *Tosafos Yom Tov*), Bava Metzia 3:8, Shevuos 6:3, Mikvaos 2:7, 2:9, Terumos 11:7-8, Demai 7:8, Shekalim 6:3, Middos 2:6; Bava Kamma 27a; Chullin 91a; Avodah Zarah 32a (Tosafot), 71b (Rashi); Radak, *Sefer HaShorashim*; *Machberet Menachem*; Rabbi Shlomo Pappenheim; Dr. Alexander Kohut, *HaAruch HaShaleim*; the *Oxford English Dictionary*; Rabbi Ernest David Klein, *Comprehensive Etymological Dictionary of the English Language*; Jastrow; *Maoz Tzur*; Rabbi Tzvi Elimelech Shapiro of Dinov; Rambam, *Hilchos Beis HaBechirah* 3:4; Rabbi Yosef Karo; *Aruch HaShulchan HeAsid*; Mabit, *Kiryas Sefer*; Rabbi Massoud Chai Rokach; Rabbi Avraham Dovber Kahane-Shapiro.

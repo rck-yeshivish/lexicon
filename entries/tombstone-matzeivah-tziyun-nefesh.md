@@ -33,14 +33,13 @@ updated: 2026-09-10
 
 *Matzeivah* is the **monument** or **headstone**, the common word in spoken
 Hebrew, and the one the Torah uses at Kever Rachel. *Tziyun* is the **marker**
-(the article's gloss). *Nefesh* is the Mishnah's word, literally "soul"; this
-guide renders it **memorial** where it names the structure. Rabbi Yechiel
+(the column's gloss). *Nefesh* is the Mishnah's word, literally "soul," used
+for the structure. Rabbi Yechiel
 Michel Tukachinsky reads the three as three reasons for erecting a stone at
 all: to make the grave visible for those who come to daven, to delineate where
 the body lies so that others (Kohanim especially) avoid tumah, and to honor the
 departed and his soul. Others read all three instead as the deceased's desire
-to go on serving Hashem, cut off by death. A translator who renders all three
-"tombstone" loses the reason each is being used.
+to go on serving Hashem, cut off by death.
 
 ## At a glance
 
@@ -77,7 +76,7 @@ Eliyahu HaNavi cited as a prooftext that Mashiach will come today, if only
 Israel would listen to Hashem's voice (Sanhedrin 98a).
 
 **What tziyun means here.** Tukachinsky: the stone that delineates exactly where
-the deceased is buried. A Rabbi Pollack (see Sources on which one) writes that a
+the deceased is buried. Rabbi Pollack also writes that a
 tombstone is called a *tziyun* because, like a road marker, it reminds those who
 see it where they are going and what is expected of them. The "others" above
 read *tziyun* as "outstanding."
@@ -87,9 +86,7 @@ the place where it may linger near its former body. The "others" above: will,
 the departed's will to do good (Rashi to Bereishis 23:8). Rabbi Eliyahu Katz:
 in the context of tombstones the word is actually related to *menuchah*, rest,
 from *shavas vayinafash* (Shemos 31:17), so a stone that marks one's eternal
-resting place is itself named for resting. The Bottom line renders "memorial"
-because no one English word carries all three readings; that choice is this
-guide's.
+resting place is itself named for resting.
 
 ## Distinctions
 
@@ -102,7 +99,7 @@ sense; Shick and Pollak work instead off *netziv*, standing.
 
 ### tziyun (ציון)
 Graves marked with a *tziyun* appear at Yechezkel 39:15 and Melachim II 23:17.
-The article glosses the word "marker." For Tukachinsky its function is to
+The column glosses the word "marker." For Tukachinsky its function is to
 delineate the exact spot so that others can avoid tumah, which is especially
 pertinent for Kohanim (Vayikra 21:1 to 4); for Rabbi Pollack it is a road marker
 reminding the passerby where he is headed; for the "others," the sense
@@ -137,15 +134,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[On the Tombstone](https://articles.ohr.edu/articles/on-the-tombstone)," What's in a Word?, Ohr Somayach,
-13 Iyar 5778 (2018-04-28): raw text in
-`sources/whats-in-a-word/raw/7730-on-the-tombstone.md`. Primary loci cited:
-Bereishis 23:8 (Rashi), 35:20; Vayikra 21:1 to 4; Shemos 31:17; Melachim II
-23:17; Yechezkel 39:15; Tehillim 95:7; Shekalim 2:5; Ohalos 7:1; Moed Katan 28a;
-Sanhedrin 98a; Tukachinsky, *Gesher HaChaim*. The article's slips: it prints
-*netziv* as "neztiv"; and its paragraph on *tziyun* as a road marker opens
-"Rabbi Pollack also writes," spelling the name as it spells Rabbi Yitzchok Zekel
-Pollack, the Chief Rabbi of Bonyhad, whom it has just named as Rabbi Asher
-Pollak's great-grandfather. "Also" points to Rabbi Asher Pollak, the subject of
-the paragraph before, and the words block credits him; the article does not
-settle it.
+Rabbi Reuven Chaim Klein, "[On the Tombstone](https://articles.ohr.edu/articles/on-the-tombstone)," *What's in a Word?*, Ohr Somayach, 28 April 2018.
+
+Cited in the essay: Bereishis 23:8 (Rashi) and 35:20; Shemos 31:17; Vayikra 21:1 to 4; Melachim II 23:17; Yechezkel 39:15; Tehillim 95:7; Shekalim 2:5; Ohalos 7:1; Moed Katan 28a; Sanhedrin 98a; Rabbi Yechiel Michel Tukachinsky, *Gesher HaChaim*; Rabbi Shlomo Zalman Ehrenreich; Rabbi Moshe Shick; Rabbi Asher Pollak; Rabbi Eliyahu Katz.

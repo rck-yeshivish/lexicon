@@ -45,9 +45,7 @@ inner fear so full that it breaks out in tremors (Malbim). *Ziyah* is a
 vigorous movement of any kind, and also loud noise. *Rogez* is **agitation**,
 physical in Hebrew (Shadal) and anger in Biblical Aramaic (Rashbam), though not
 always anger (Bedersi). *Chareid* is **trembling** too, the word behind
-*chareidim*. Yoma 4b strings several of these together and Shmuel II 22:8 puts
-three in one pasuk, so a translator needs distinct English words, not one
-repeated.
+*chareidim*. Yoma 4b strings several of these together and Shmuel II 22:8 puts three in one pasuk.
 
 ## At a glance
 
@@ -67,7 +65,7 @@ onlooker (Daniel 10:11, *omadti marid*), against *chil*, which he claims refers
 to tremors that can be seen, except in cases such as Tehillim 55:5, where the
 *chil* is explicitly in the heart. Malbim: *ra'adah* is quaking in fear
 specifically where inner fear grows so full that it becomes manifest outwardly
-in tremors. Either way, render it "trembling."
+in tremors.
 
 **Retet with a tav and retet with a tet.** Each spelling appears once: with a tav
 in Hoshea 13:1, with a tet in Yirmiyahu 49:24. For the tav form, Radak and Ibn
@@ -85,18 +83,16 @@ Parkinson's), or a disease causing stomach contractions like those of a woman
 giving birth. The column says it makes sense to treat the two spellings as one
 word, tav and tet interchanging, a point already made by rabbinic philologists
 such as Rabbi Avraham Bedersi (*Chotam Tochnit*), Rabbi Yosef Kimchi (*Sefer
-HaGalui*), Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*), and others; so the
-Bottom line.
+HaGalui*), Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*), and others.
 
 **The order of intensity in Shmuel II 22:8 (Tehillim 18:8).** Malbim, as cited
 in *Sefer HaCarmel*, reads the pasuk as ascending: *ga'ash* a subtler movement
 than *ra'ash*, and *ra'ash* less intense than *rogez*. In his *Yair Ohr* he writes
 that *ga'ash* is a little extra movement and *ra'ash* more than that, in line with
-the *Sefer HaCarmel* citation; the article brings *Yair Ohr* only on those two.
+the *Sefer HaCarmel* citation; the column brings *Yair Ohr* only on those two.
 Rabbi Reuven Landau (*Degel Machaneh Reuven* §61) writes just the opposite on the
-last two: *ra'ash* is more intense than *rogez*. The article leaves it there
-("either way"). The rendering guidance below follows Malbim's order; that is
-this guide's choice.
+last two: *ra'ash* is more intense than *rogez*. The column leaves it there
+("either way").
 
 **What ziyah was at Sinai.** The column gives at least two ways of reading the
 *ziyah* of Yoma 4b. Onkelos renders *vayecherad* as *ziyah* both when the
@@ -113,7 +109,7 @@ Jews sway when they learn Torah.
 Root ר-ע-ד, nine appearances: *ra'ad* seizing the mighty of Moav (Shemos 15:15),
 the land that quivers at Hashem's glance (Tehillim 104:32), and the *ra'adah* of
 Tehillim 2:11, "rejoice in trembling," which Yoma 4b applies to the giving of
-the Torah, given, in the article's quotation, "with dread, with fear, with
+the Torah, given, in the column's quotation, "with dread, with fear, with
 *retet*, and with *ziyah*." (The column opens from Yom Kippur, the day the second
 Luchos were given, Taanis 4:8, Taanis 30b, Bava Basra 121a.) In Modern Hebrew
 *re'idat adamah*, "quivering of the land," is an earthquake.
@@ -138,8 +134,7 @@ inner heat from exertion, anger or fear, so *zeiyah* is linked to internal
 agitation, which the column contrasts with *za*/*ziyah*, usually the effects of an
 external one. *Za'avah* in the tochachah (Devarim 28:25), fulfilled, says
 Yirmiyahu, for Menashe's sins (Yirmiyahu 15:4; see also Yirmiyahu 24:9, 29:18,
-34:17; Yechezkel 23:46; Divrei HaYamim II 29:8): Onkelos renders it *ziyah*
-(the article cites "Deut. 28:26"), which is probably what led Rashi there to
+34:17; Yechezkel 23:46; Divrei HaYamim II 29:8): Onkelos renders it *ziyah*, which is probably what led Rashi there to
 explain it as fear and shaking in fear, those who hear being so frightened that
 they hope it will not happen to them; and Rashi (Vayikra 20:18, Shmuel I 20:30,
 Yirmiyahu 15:4) writes that the vav of *za'avah* is not part of its root ז-ע.
@@ -177,7 +172,7 @@ with its Targum is in *U'va L'Tzion*. *Rogez* and *ra'ash* stand together in the
 long Tachanun of Mondays and Thursdays, "from *ra'ash* and *rogez*," likely based
 on Iyov 39:24, which sets them side by side.
 
-*Ga'ash*: root ג-ע-ש, which the article counts nine times in Tanach (Yirmiyahu
+*Ga'ash*: root ג-ע-ש, which the column counts nine times in Tanach (Yirmiyahu
 5:22, 25:16, 46:7 to 8; Iyov 34:20; Shmuel II 22:8; Tehillim 18:8). In Modern
 Hebrew *harei ga'ash*, literally tumultuous mountains, are volcanoes; *Har Ga'ash*
 is a Biblical place-name, south of Yehoshua's burial place (Yehoshua 24:30,
@@ -216,30 +211,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Yom Kippur: Shake & Quake (Pt. 2/3)](https://articles.ohr.edu/articles/yom-kippur-shake-quake-pt-23)," 10 Tishrei 5785
-(2024-10-12), and "Sukkot: Shake & Quake (Pt. 3/3)," 17 Tishrei 5785
-(2024-10-19), What's in a Word?, Ohr Somayach; raw texts in
-`sources/whats-in-a-word/raw/11526-yom-kippur-shake-quake-pt-23.md` and
-`.../11527-sukkot-shake-quake-pt-33.md`. Part 1 of the series is covered in the
-entry on *chil*, *dachil* and *zachal*. Primary loci: Bereishis 3:19, 27:33,
-45:24; Shemos 15:14, 15:15, 19:16, 19:18, 20:15; Vayikra 20:18; Bamidbar 15:27,
-33:24 to 25; Devarim 28:25, 28:65; Yehoshua 24:30; Shoftim 2:9; Shmuel I 20:30;
-Shmuel II 22:8, 23:30; Yeshayahu 66:5; Yirmiyahu 5:22, 15:4, 24:9, 25:16, 29:18,
-34:17, 46:7 to 8, 49:24; Yechezkel 3:12, 23:46; Hoshea 13:1; Amos 1:1; Chavakuk
-3:2; Zechariah 14:5; Tehillim 2:11, 18:8, 55:5, 104:32; Iyov 34:20, 39:24; Rus
-3:8; Esther 5:9; Daniel 10:11; Divrei HaYamim I 11:32; Divrei HaYamim II 29:8;
-Taanis 4:8, 30b; Bava Basra 121a; Yoma 4b; Berachos 54a; Chullin 24a to 24b;
-Avodah Zarah 32b, 40b, 61b; Shabbos 156a; Kiddushin 40b; *Mechilta D'Rabbi
-Yishmael BaChodesh* §9; *Devarim Rabbah* 11:10; Radak and Ibn Janach, *Sefer
-HaShorashim*; *Machberes Menachem*; Bedersi, *Chotam Tochnit*; Rabbi Yosef Kimchi,
-*Sefer HaGalui*; Ibn Parchon, *Machberes HeAruch*; Malbim, *Yair Ohr*, and as
-cited in *Sefer HaCarmel*; Rabbi Reuven Landau, *Degel Machaneh Reuven* §61;
-*Siftei Kohen* to Bamidbar 15:27; *Baal HaTurim* to Shemos 20:15; Even-Shoshan's
-concordance. For words for anger the column points to its "Anger Issues" (July
-2021).
+Rabbi Reuven Chaim Klein, "[Yom Kippur: Shake & Quake (Pt. 2/3)](https://articles.ohr.edu/articles/yom-kippur-shake-quake-pt-23)," *What's in a Word?*, Ohr Somayach, 12 October 2024.
 
-Citation notes: the article places Onkelos on *za'avah* at "Deut. 28:26"; the
-word and its Targum are at Devarim 28:25. It quotes Yoma 4b as four terms ("with
-dread, with fear, with *retet*, and with *ziyah*"); Sefaria's text of Yoma 4b
-reads three, באימה ברתת ובזיע. Its count of nine for ג-ע-ש checks against its
-list, since Shmuel II 22:8 and Tehillim 18:8 each carry the root twice.
+Rabbi Reuven Chaim Klein, "[Sukkot: Shake & Quake (Pt. 3/3)](https://articles.ohr.edu/articles/sukkot-shake-quake-pt-33)," *What's in a Word?*, Ohr Somayach, 19 October 2024.
+
+Cited in the essay: Bereishis 3:19, 27:33, 45:24 (Shadal, Rashbam); Shemos 15:14 (Shadal), 15:15 (Onkelos), 19:16, 19:18 (Onkelos), 20:15 (Mechilta, *Baal HaTurim*); Vayikra 20:18 (Rashi); Bamidbar 15:27 (*Siftei Kohen*), 33:24 to 25; Devarim 28:25 (Onkelos, Rashi), 28:65; Yehoshua 24:30; Shoftim 2:9; Shmuel I 20:30 (Rashi); Shmuel II 22:8, 23:30; Yeshayahu 66:5; Yirmiyahu 5:22, 15:4 (Rashi), 24:9, 25:16, 29:18, 34:17, 46:7 to 8, 49:24; Yechezkel 3:12 (Targum Yonasan), 23:46; Hoshea 13:1; Amos 1:1; Chavakuk 3:2; Zechariah 14:5; Tehillim 2:11, 18:8, 55:5, 104:32; Iyov 34:20, 39:24; Rus 3:8; Esther 5:9; Daniel 10:11; Divrei HaYamim I 11:32; Divrei HaYamim II 29:8; Taanis 4:8, 30b; Bava Basra 121a; Yoma 4b; Berachos 54a; Chullin 24a to 24b; Avodah Zarah 32b, 40b, 61b; Shabbos 156a; Kiddushin 40b; *Mechilta D'Rabbi Yishmael, BaChodesh* §9; *Devarim Rabbah* 11:10; Rabbi Shlomo Aharon Wertheimer; Malbim, *Yair Ohr*, and as cited in *Sefer HaCarmel*; Rabbi Shlomo Pappenheim; Radak and Rabbi Yonah Ibn Janach, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Avraham Bedersi, *Chotam Tochnit*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi Reuven Landau, *Degel Machaneh Reuven* §61; Rabbi Mordechai Kohen of Safed, *Siftei Kohen*; Even-Shoshan's concordance; the liturgy (*U'Nesaneh Tokef*, *U'va L'Tzion*, the long Tachanun).

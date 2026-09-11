@@ -27,10 +27,8 @@ thing growing. *Rutfash* is **revivified**, flesh restored to youthful
 moisture. *Tofeach* and *mefulam* are Rabbinic: *tofeach* is **wet**, familiar
 in the phrase for wet enough to make something else wet; *mefulam* is **wet**
 for Rashi but **hearty, plump** for the *Aruch*, and the column suggests Rashi
-may mean **sodden**, so saturated as to be bloated. The trap is English "wet,"
-which absorbs *lach* and *ratuv* and loses Pappenheim's difference between a
-little moisture and enough to wet something else, a difference that can carry
-halachic weight.
+may mean **sodden**, so saturated as to be bloated. Pappenheim's difference between a little
+moisture and enough to wet something else can carry halachic weight.
 
 ## Distinctions
 
@@ -121,8 +119,7 @@ HaShorashim*) read it as a cognate of *ratuv*, its first two letters matching
 Rabbinic only (*Eduyos* 4:6; *Keilim* 8:3-4, 10:8; *Taharos* 1:9, 3:1, 8:8-9;
 *Machshirin* 3:5), and familiar from *tofeach al menas lehatfiach* (Berachos
 25b; Yoma 78a), so wet that it can make other things wet. Its root
-tes-peh-ches means something else in Tanach, the source of *tefach*, a
-handbreadth (the column renders it "cubit"), and of words for measuring length
+tes-peh-ches means something else in Tanach, the source of *tefach*, a handbreadth, and of words for measuring length
 and extension, a sense that carries into Rabbinic Hebrew. How that fits the
 "wet" sense is unclear; the column suggests, as its own tentative proposal,
 that perhaps an item dripping wet expands in its dimensions.
@@ -180,20 +177,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Titzaveh: Wet Words](https://articles.ohr.edu/articles/titzaveh-wet-words)," What's in a Word?, Ohr
-Somayach, 15 Adar I 5784 (2024-02-24):
-https://articles.ohr.edu/articles/titzaveh-wet-words; raw text in
-`sources/whats-in-a-word/raw/11276-titzaveh-wet-words.md`. Primary loci cited:
-Bereishis 1:2, 25:6, 30:37; Bamidbar 6:3; Devarim 12:2, 34:7; Shoftim 6:19-20,
-16:7-8 (the column prints 16:8-7); Yechezkel 17:24, 21:3 (the column adds a
-30:37 that does not exist, Yechezkel 30 having 26 pesukim); Iyov 8:16, 24:8,
-33:25; Tehillim 92:11, 92:15, 103:5; Daniel 8:13; Esther 2:1; Mishnah *Demai*
-2:3, *Nedarim* 7:1, 7:6, *Eduyos* 4:6, 5:4, *Menachos* 9:2, *Bechoros* 6:3,
-*Mikvaos* 9:2, *Niddah* 4:3, 7:2, *Tevul Yom* 3:6, *Uktzin* 2:2, *Pesachim* 7:2,
-*Zevachim* 3:4, *Chullin* 7:5, 9:1, *Taharos* 1:4, 1:9, 3:1, 8:8-9, *Keilim*
-8:3-4, 10:8, *Machshirin* 3:5, *Shabbos* 22:6; Sukkah 10b; Berachos 25b; Yoma
-78a; Beitzah 24b; Chagigah 12a; Zevachim 54a; Nedarim 41a, 52a; *Machberes
-Menachem*; Ibn Janach and Radak, *Sifrei HaShorashim*; Ibn Parchon, *Machberes
-HeAruch*; Pappenheim, *Yerios Shlomo*; Bedersi, *Chosam Tochnis*; *Sefer
-HeAruch*; Jastrow; Kohut, *HeAruch HaShaleim*; *Derech Chochmah*; *Mechir
-Yayin*; *Toras HaOlah*; *Ben Yehoyada*.
+Rabbi Reuven Chaim Klein, "[Titzaveh: Wet Words](https://articles.ohr.edu/articles/titzaveh-wet-words)," *What's in a Word?*, Ohr Somayach, 24 February 2024.
+
+Cited in the essay: Bereishis 1:2 (Ralbag), 25:6 (Rav Hirsch), 30:37; Bamidbar 6:3; Devarim 12:2 (Ibn Ezra), 34:7; Shoftim 6:19-20, 16:7-8; Yechezkel 17:24, 21:3; Iyov 8:16, 24:8, 33:25; Tehillim 92:11, 92:15, 103:5 (Radak); Daniel 8:13; Esther 2:1; Mishnah *Demai* 2:3, *Nedarim* 7:1, 7:6, *Eduyos* 4:6, 5:4, *Menachos* 9:2, *Bechoros* 6:3, *Mikvaos* 9:2, *Niddah* 4:3, 7:2, *Tevul Yom* 3:6, *Uktzin* 2:2, *Pesachim* 7:2, *Zevachim* 3:4, *Chullin* 7:5, 9:1, *Taharos* 1:4, 1:9, 3:1, 8:8-9, *Keilim* 8:3-4, 10:8, *Machshirin* 3:5, *Shabbos* 22:6; Sukkah 10b; Berachos 25b; Yoma 78a; Beitzah 24b; Chagigah 12a; Zevachim 54a; Nedarim 41a, 52a; Rashi and Ibn Ezra to Iyov; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Moshe Tedeschi Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Yosef Kara; Rabbi Yosef Kimchi; Sforno; *Metzudas Zion*; Malbim; Rabbi Nosson of Rome, *Sefer HeAruch*; Marcus Jastrow; Alexander Kohut, *HeAruch HaShaleim*; Rabbi Chaim Kanievsky, *Derech Chochmah* to *Hilchos Beis HaBechirah* 1:92; the Rema, *Mechir Yayin* and *Toras HaOlah*; *Ben Yehoyada* to Chagigah 12a.

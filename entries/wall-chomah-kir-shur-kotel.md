@@ -20,7 +20,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The article's own summary: *chomah* is the **city wall** (or a lookout post),
+The column's own summary: *chomah* is the **city wall** (or a lookout post),
 *kir* the generic **structural wall**, *cheil* a **short wall**, *chayitz* a
 **flimsy partition** and *mechitzah* any partition (Rabbi Moshe Zacuto,
 where Pappenheim makes *chayitz* synonymous with *mechitzah*), *shur*
@@ -28,9 +28,8 @@ the Aramaic for *chomah*, *kotel* the Aramaic for *kir*. Where the *cheil*
 stands is disputed: outside a taller wall, with the empty space between them
 (Rabbi Shlomo Pappenheim), or a shorter wall inside the *chomah* (Rashi); Radak
 seems unsure which, and suggests it may be a moat. Rabbi Shlomo of Urbino, as
-is his wont, holds the six mean exactly the same thing; the article follows
-Pappenheim's two-letter roots to find the nuances. The trap is "wall" for all
-six, especially where *chomah* and *cheil* stand together.
+is his wont, holds the six mean exactly the same thing; the column follows Pappenheim's two-letter roots to find
+the nuances.
 
 ## Distinctions
 
@@ -75,10 +74,7 @@ cord joining a fetus to its mother (Yechezkel 16:4; Mishlei 3:8; Iyov 40:16);
 *shor*, an ox, whose strength sits in its midsection; *shoresh*, the focal
 point of a plant's growth; *yashar*, the shortest way to a point; *shir*, a
 composition holding to one theme. *Shur* in the sense of seeing belongs here
-too, since sight, unlike the other senses, can be aimed at one point. The article
-gives Bamidbar 23:8, 24:27 and Iyov 35:5 for that sense; Iyov 35:5 has it, but
-Bamidbar 23:8 does not, and chapter 24 has twenty-five pesukim: *ashurenu* stands
-at 23:9 and 24:17, presumably the intended loci. With it go *teshurah*, a gift
+too, since sight, unlike the other senses, can be aimed at one point (Bamidbar 23:9, 24:17; Iyov 35:5). With it go *teshurah*, a gift
 for one who greets ("sees") a dignitary; *nesher*, the eagle that sees far; and
 *sheirus*, service, overseeing a master's needs (or, alternatively, straightening
 out the household or staying straightforward with the master's wishes). For
@@ -94,9 +90,7 @@ Rabbi Pappenheim derives it from ח-ל, circular movement and the empty space
 inside a circle: the *cheil* is a low wall running outside a taller one, and
 the empty ground between them is a kind of no man's land. He adduces the
 Mishnah (Middos 2:3), which calls the space between the walls of the Har
-HaBayis and the Temple building the *cheil* (the article glosses it "i.e. the
-Women's Courtyard"; in the Mishnah the *cheil* is a strip ten amos wide inside
-the *soreg*).
+HaBayis and the Temple building the *cheil*.
 Pesachim 86a describes *chomah* and *cheil* as *shura* and *bar-shura*, a wall
 and the son of a wall; Rashi takes the *chomah* as the outer wall and the
 *cheil* as a shorter wall within it, the small son beside his large father.
@@ -122,11 +116,11 @@ Rabbi Ernest Klein connects *kotel* with the Akkadian *kutallu*, "backside."
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the article's meanings.
+These are our rendering judgments, built on the column's meanings.
 
 - *Chomah*: **city wall**, or **rampart** where the fortification is the point.
   *Chomos Yerushalayim* are the walls of the city, not the walls of a building.
-  (The article's own opening says "the wall of the rampart (the *Cheil*).")
+  (The column's own opening says "the wall of the rampart (the *Cheil*).")
 - *Kir*: **wall**, plain, of a house or of the mizbeach.
 - *Cheil*: **the Cheil**, transliterated, in Mikdash contexts, with a gloss the
   first time (a shorter wall and the space it marks off; outside or inside the
@@ -148,19 +142,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Remembering the Wall](https://articles.ohr.edu/articles/remembering-the-wall)," What's in a Word?, Ohr
-Somayach, 4 Av 5780 (2020-07-25):
-https://articles.ohr.edu/articles/remembering-the-wall, raw text in
-`sources/whats-in-a-word/raw/8373-remembering-the-wall.md`. Loci cited:
-Bereishis 21:15 and 49:22 (Rav Hirsch), 49:6 (Radak), 49:22 (Rashi); Shemos
-14:31 with Targum Yonasan; Vayikra 1:15, 14:37, 19:28, 25:29; Bamidbar 24:17
-with Rashi, Ibn Ezra, Ibn Janach's and Radak's *Sefer HaShorashim*, Rav Hirsch
-and *Peh Kadosh*; Bamidbar 23:8 and 24:27 (as the article prints them; the
-*ashurenu* pesukim are 23:9 and 24:17); Iyov 35:5; Yehoshua 2:15, 6:20; Shmuel
-II 22:30; Tehillim 18:30; Yirmiyahu 5:10; Yechezkel 13:10, 16:4; Eichah 2:8;
-Mishlei 3:8; Iyov 24:11, 40:16; Shir HaShirim 2:9; Daniel 5:5; Ezra 5:8;
-Mishnah Middos 2:3, Bava Basra 1:1, Sheviis 3:8 with *Kol HaRamaz*; Pesachim
-86a with Rashi; Rabbi Shlomo of Urbino, *Ohel Moed*; *Ohalei Yehuda*; *HaKsav
-VeHaKabbalah*. Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, the Raavan, Radak
-on the *cheil*, and Rabbi Ernest Klein (on *shur*/*chomah* and on *kotel* and
-Akkadian *kutallu*) are cited without a locus.
+Rabbi Reuven Chaim Klein, "[Remembering the Wall](https://articles.ohr.edu/articles/remembering-the-wall)," *What's in a Word?*, Ohr Somayach, 25 July 2020.
+
+Cited in the essay: Bereishis 21:15 and 49:22 (Rav Hirsch), 49:6 (Radak), 49:22 (Rashi); Shemos 14:31 with Targum Yonasan; Vayikra 1:15, 14:37, 19:28 (Rav Hirsch), 25:29; Bamidbar 23:9; Bamidbar 24:17 with Rashi, Ibn Ezra, Ibn Janach's and Radak's *Sefer HaShorashim*, Rav Hirsch and Rabbi Yitzchok of Volozhin's *Peh Kadosh*; Yehoshua 2:15, 6:20; Shmuel II 22:30; Yirmiyahu 5:10; Yechezkel 13:10, 16:4; Tehillim 18:30; Mishlei 3:8; Iyov 24:11, 35:5, 40:16; Shir HaShirim 2:9; Eichah 2:8; Daniel 5:5; Ezra 5:8; the Targumim; Mishnah Middos 2:3, Bava Basra 1:1, Sheviis 3:8 with Rabbi Moshe Zacuto's *Kol HaRamaz*; Pesachim 86a with Rashi; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Shlomo Pappenheim; Menachem Ibn Saruk; the Raavan; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Radak; Rabbi Ernest Klein.

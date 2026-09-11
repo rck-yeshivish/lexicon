@@ -41,10 +41,8 @@ the walker does not think it important, and Rabbi Moshe Tedeschi Ashkenazi expre
 a similar sentiment (*boss* as kin to *boz*, disgrace). But Rashi equates *boss* with
 *romes*, and the column finds *boss* used in very much the same ways as the other
 two. Tedeschi also reads *romes* and *dorech* by the ground rather than the act, and
-Pappenheim takes *romes* as treading on what is meant to be walked on; the Bottom
-line follows Malbim because his line bears on translation. When the words are close
-together, keep "tread" for *dorech* and do not spend "trample" on it; Tehillim 91:13
-has *tidroch* and *tirmos* in one pasuk, and the English has to hold them apart.
+Pappenheim takes *romes* as treading on what is meant to be walked on. Tehillim
+91:13 has *tidroch* and *tirmos* in one pasuk.
 
 ## At a glance
 
@@ -63,7 +61,7 @@ HaGalui*) and his son Radak (*Sefer HaShorashim*) explain that ר-מ-ס is relat
 ר-מ-ש, samech and sin interchanging, but do not quite explain how the connection works
 out thematically. It seems that Ibn Saruk, Ibn Janach and Ibn Parchon do not agree,
 since they list ר-מ-ש separately, while the Kimchis conflate the two. To understand the
-connection the column turns to Ramban (to Bereishis 1:25), who explains that creeping
+connection the column turns to Ramban (to Bereishis 1:24), who explains that creeping
 creatures use their entire body to tread over the ground, so their very essence relates
 to treading; hence, the column says, *remes* is associated with *romes*. Rav Hirsch (to
 Bereishis 1:21) also recognizes a connection but understands it differently: since
@@ -82,9 +80,7 @@ the courtyard, their presence rendering it purposeless. Rabbi Moshe Tedeschi Ash
 (*Otzar Nirdafim*) instead relates both words to the ground being walked on, each time
 by ignoring one letter of the root: *derech* from *rach*, soft ground that a man treads
 into a path for others, *romes* from *ram*, ground higher than usual, which needs more
-force to stomp flat and fashion a path. The article leaves both standing; the Bottom
-line follows Malbim because his distinction is the one a translation can carry, and
-that choice is this guide's.
+force to stomp flat and fashion a path. The column leaves both standing.
 
 **Whether boss is a distinct word.** The column says *boss* is used in very much the
 same ways as the other two, and Rashi, explaining Tehillim 60:14, equates *boss* with
@@ -94,21 +90,20 @@ usually walked on, *boss* on something not necessarily already destined to be tr
 on, so that the act registers the walker's feeling that it is not important enough to
 avoid stepping on. The column says Tedeschi expresses a similar sentiment, relating
 *boss* to *boz*/*bizayon* by the interchange of samech and zayin: stepping on something
-to show disgust with it and besmirch it. So the Bottom line gives *boss* its own English,
-noting that one following Rashi will simply write "trample." On its root: the
+to show disgust with it and besmirch it. On its root: the
 triliteralists, such as Ibn Chayyuj, Ibn Janach and Radak, give ב-ו-ס; the biliteral Ibn
 Saruk gives ב-ס, and Pappenheim, following the biliteralist approach after a fashion,
-does the same. Nothing in rendering turns on it.
+does the same.
 
 ## Distinctions
 
 ### romes (רומס)
-The article counts nineteen occurrences of the root in Tanach, none in Chumash, all of
+The column counts nineteen occurrences of the root in Tanach, none in Chumash, all of
 trampling or stomping with the feet. It carries into later rabbinic literature:
 Kiddushin 66a, where King Yannai, slighted by a rabbi who criticized him for taking the
 roles of both king and Kohen Gadol, is advised by someone else to *romsem* the Torah
 scholars, which Rashi explains as killing them. Yeshayahu 1:12, in the haftarah read the
-Shabbos before Tisha B'Av, opens the article: *remos chatzeirai*, the trampling of My
+Shabbos before Tisha B'Av, opens the column: *remos chatzeirai*, the trampling of My
 courtyard. Pappenheim's definition, against *boss*: treading on what is meant to be
 walked on and usually is.
 
@@ -122,12 +117,9 @@ even describe the constructive act of the presses: olives at Michah 6:15, grapes
 9:13, Yeshayahu 16:10 and 63:2, Yirmiyahu 48:33 and Nechemiah 13:15.
 
 ### boss (בוס)
-A little over ten occurrences in the article's list: Yeshayahu 14:19, 63:6, 63:18;
-Yirmiyahu 12:10; Yechezkel 16:6, 16:22; Zechariah 10:5; Tehillim 44:6, 60:14; Mishlei
-27:7; plus two slips. The list prints "Ezek. 16:6, 16:22, 14:25," and Yechezkel 14 has
-no verse 25; the verse meant is Yeshayahu 14:25 (*al harai avusenu*), which it cites for
-Rashi. It also prints "Ps. 105:14," a verse with no *boss*; Tehillim 108:14 repeats
-60:14 (*vehu yavus tzareinu*) and seems to be meant. Pappenheim builds two other words on
+A little over ten occurrences in the column's list: Yeshayahu 14:19, 14:25, 63:6,
+63:18; Yirmiyahu 12:10; Yechezkel 16:6, 16:22; Zechariah 10:5; Tehillim 44:6, 60:14,
+108:14; Mishlei 27:7. Pappenheim builds two other words on
 the root ב-ס. *Eivus*, a feeding trough, its aleph extraneous: an owner fills it hoping
 the animal will overeat and fatten, and the animal ends by stepping on the leftover food,
 disregarding its importance (he contrasts people, who store leftovers for a later meal).
@@ -174,18 +166,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Don't Trample On Me](https://articles.ohr.edu/articles/dont-trample-on-me)," What's in a Word?, Ohr Somayach, 4 Av
-5783 (2023-07-22): raw text in `sources/whats-in-a-word/raw/11024-dont-trample-on-me.md`.
-Primary loci cited: Yeshayahu 1:12, 14:19, 14:25, 16:10, 63:2, 63:6, 63:18; Bereishis
-1:21 (Rav Hirsch), 1:25 (Ramban); Devarim 11:24, 33:29; Yehoshua 1:3; Michah 6:15; Amos
-9:13; Yirmiyahu 12:10, 48:33; Yechezkel 16:6, 16:22; Zechariah 10:5; Tehillim 44:6,
-60:14, 91:13; Mishlei 27:7; Nechemiah 13:15; Rashi to Tehillim 44:6, 60:14, Yeshayahu
-14:25, Mishlei 27:7; Kiddushin 66a with Rashi; Shabbos 47a, 117a, 120b, 125b, 142a;
-Pesachim 83a; Avodah Zarah 8b; Chullin 125a; Radak, *Sefer HaShorashim*; Rabbi Yosef
-Kimchi, *Sefer HaGalui*; Ibn Parchon, *Machberes HeAruch*; Tedeschi, *Otzar Nirdafim*;
-the *Oxford English Dictionary* on English *boss*. The article's slips: "Ezek. 14:25"
-for Yeshayahu 14:25 and "Ps. 105:14" for what seems to be Tehillim 108:14 (see boss
-above). In Sefaria's text of Ramban the comment on creeping creatures stands at
-Bereishis 1:24, explaining the *remes ha'adamah* of 1:25. For *derech* against other
-words for roads, the article points to its companion column "Roads and Paths, Ways and
-Means" (Aug. 2018).
+Rabbi Reuven Chaim Klein, "[Don't Trample On Me](https://articles.ohr.edu/articles/dont-trample-on-me)," *What's in a Word?*, Ohr Somayach, 22 July 2023.
+
+Cited in the essay: Bereishis 1:21 (Rav Hirsch), 1:24 (Ramban); Devarim 11:24, 33:29; Yehoshua 1:3; Yeshayahu 1:12, 14:19, 14:25, 16:10, 63:2, 63:6, 63:18; Yirmiyahu 12:10, 48:33; Yechezkel 16:6, 16:22; Amos 9:13; Michah 6:15; Zechariah 10:5; Tehillim 44:6, 60:14, 91:13, 108:14; Mishlei 27:7; Nechemiah 13:15; Rashi to Tehillim 44:6, 60:14, Yeshayahu 14:25, Mishlei 27:7; Kiddushin 66a with Rashi; Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Avodah Zarah 8b; Chullin 125a; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Shlomo Ibn Parchon, *Machberes HeAruch*; Ibn Chayyuj; Rabbi Yosef Kimchi, *Sefer HaGalui*; Radak, *Sefer HaShorashim*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Moshe Tedeschi Ashkenazi, *Otzar Nirdafim*; Rabbi Yisroel Zev Horowitz; the *Oxford English Dictionary* on English *boss*.

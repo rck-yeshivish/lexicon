@@ -33,8 +33,7 @@ partial; for Pappenheim *somech* covers any leaning, even by choice, and
 unaware of it; Pappenheim: to one who needs *mishan*), better rendered "helps"
 according to Rabbi Moshe Tzuriel's suggestion. *Sever* is **hopeful
 looking-to**; *kesel* **assurance** that nothing bad will happen (Malbim). Chovos
-HaLevavos counts these as ten levels of one thing; do not collapse them all into
-"trust."
+HaLevavos counts these as ten levels of one thing.
 
 ## Distinctions
 
@@ -118,16 +117,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2)," What's in a Word?,
-Ohr Somayach, 9 Elul 5780 (2020-08-29): raw text in
-`sources/whats-in-a-word/raw/8836-trusting-and-relying-on-g-d.md`; republished
-14 Elul 5782 (2022-09-10) with the same text: raw text in
-`sources/whats-in-a-word/raw/9877-trusting-and-relying-on-g-d-2.md`. Primary
-loci the article cites: Chovos HaLevavos, Shaar HaBitachon (close); Yeshayahu
-26:4, 30:18, 64:3; Yirmiyahu 17:7; Tehillim 3:6, 18:19, 18:36, 20:3, 27:14,
-38:16, 41:4, 71:1, 71:6, 104:15, 118:9, 130:7, 145:15, 146:5; Mishlei 3:26, 14:26
-with Biur HaGra; Bereishis 1:9, 1:10, 18:5; Shemos 7:19; Vayikra 11:36; Chagigah
-16b; Devarim 34:9; Bamidbar 8:10; Michah 3:11; Yehoshua 2:18; Koheles 2:14.
-Authorities: Rabbeinu Bachaya Ibn Pakuda; Malbim; the Vilna Gaon; Rabbi Shlomo
-Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe Tzuriel; *Peirush
-HaRokeach*; Rabbi Moshe Wolfson.
+Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.edu/articles/trusting-and-relying-on-g-d)," *What's in a Word?*, Ohr Somayach, 29 August 2020.
+
+Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2)," *What's in a Word?*, Ohr Somayach, 10 September 2022.
+
+Cited in the essay: Rabbeinu Bachaya Ibn Pakuda, *Chovos HaLevavos*, Shaar HaBitachon; Bereishis 1:9 to 10, 18:5; Shemos 7:19; Vayikra 11:36; Bamidbar 8:10; Devarim 34:9; Yehoshua 2:18; Michah 3:11; Tehillim 104:15, 118:9, 130:7, 145:15; Mishlei 3:26, 14:26 with *Biur HaGra*; Koheles 2:14; Chagigah 16b; Malbim; the Vilna Gaon; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe Tzuriel; *Peirush HaRokeach*; Rabbi Moshe Wolfson.

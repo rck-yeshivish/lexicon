@@ -15,7 +15,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The article gives the Biblical *tza'if* as variously translated **veil**,
+The column gives the Biblical *tza'if* as variously translated **veil**,
 **shawl**, or **headcloth** (in Modern Hebrew it is a scarf or a mask), and in
 its closing summary calls both *tza'if* and *redid* a woman's "shawl." It does
 not rule on a single English word for either. *Tza'if* is the covering of
@@ -26,8 +26,7 @@ wrapping. *Redid* is glossed as a thin *tza'if* for the head (*Sefer
 HaAruch*), a thin garment (Radak), something like a tallis (Ibn Ezra, on the
 Arabic), and in Rambam the wrap without which women by custom did not appear in
 public. Targum pseudo-Yonasan and Targum Yerushalmi always render *tza'if* as
-*redida*, and Onkelos consistently as *eifa*. Using "veil" for *tza'if* and
-"shawl" for *redid* is our rendering judgment, not the article's.
+*redida*, and Onkelos consistently as *eifa*.
 
 ## Distinctions
 
@@ -45,8 +44,7 @@ face; Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) as *tza* (from
 face.
 
 The classical lexicographers (including Ibn Saruk, Ibn Janach, and Radak) all
-trace it to the root צ-ע-פ. Wilhelm Gesenius (the article prints "Genesius")
-argues that צ-ע-פ is a permutation of ע-ט-פ, wrapping, by the interchange of tet
+trace it to the root צ-ע-פ. Wilhelm Gesenius argues that צ-ע-פ is a permutation of ע-ט-פ, wrapping, by the interchange of tet
 and tzadi together with metathesis; Shadal (to Bereishis 24:65) cites this
 approvingly.
 
@@ -57,8 +55,7 @@ Gaon (1765 to 1808, *Tirgem Avraham* to Bereishis 24:65), explains it as
 *tza'if* with the initial tzadi dropped. Rabbi Yaakov Zev Lev (*Me'at Tzari* to
 Bereishis 38:14) explains that this may result from a Hebrew tzadi very often
 becoming an Aramaic ayin (as *tzemer* becomes *amar*): since *tza'if* already
-has an ayin after its tzadi, the first letter was simply dropped. (As an aside,
-the article notes *Eifah*, with a final hei, as the name of Avraham's grandson
+has an ayin after its tzadi, the first letter was simply dropped. (As an aside, the column notes *Eifah*, with a final hei, as the name of Avraham's grandson
 through Midyan, Bereishis 25:4, Divrei HaYamim I 1:33.) Rabbi Menachem ben
 Shlomo explains that *eifa* in Aramaic means doubling, folding, or wrapping (see
 Targum Onkelos to Shemos 26:9, 28:16), because the *tza'if* was so thin as to be
@@ -71,8 +68,7 @@ Achiezer neighborhood of Bnei Brak) explains that the *tza'if* was worn with its
 edges or sides folded to fit the wearer, and suggests that perhaps it relates to
 doubling because it was an extra head covering worn in addition to another. He
 also reads the initial tzadi as a hint to *tzei* (go out), understanding the
-*tza'if* as what a woman primarily wore when going outside; the article points
-ahead to the contrast with *redid* (see Rabbi Pappenheim below).
+*tza'if* as what a woman primarily wore when going outside; the column points ahead to the contrast with *redid* (see Rabbi Pappenheim below).
 
 Rav Hirsch has two comments. To Bereishis 24:65 he relates צ-ע-פ to ש-א-פ, by
 the interchange of tzadi with shin and of ayin with aleph: that root is drawing
@@ -117,12 +113,10 @@ Rabbi Yehudah Aryeh of Carpentras first offers something similar and then parses
 wearing exudes closeness by beautifying the wearer.
 
 Rabbi Shlomo Pappenheim traces *redid* to the biliteral ר-ד, whose core sense is
-descending: *yeridah* (going down, hanging down), *marud* (the article prints
-*marid*; a lowered, embittered state), *rodeh* (ruling, since a ruler lowers
+descending: *yeridah* (going down, hanging down), *marud* (a lowered, embittered state), *rodeh* (ruling, since a ruler lowers
 others beneath him), *mered* (rebellion, shaking off being lowered), *tardemah*
 (a sleep that falls upon a man and overtakes him), and *nerd*, the spice
-mentioned three times in Tanach (Shir HaShirim 1:12, 4:13, 4:14; the article
-prints 4:14 twice), which falls as sap from the plant, or overpowers by its
+mentioned three times in Tanach (Shir HaShirim 1:12, 4:13, 4:14), which falls as sap from the plant, or overpowers by its
 scent, or brings on sleep. He then gives three ways *redid* returns to that
 core: it hangs down from head or shoulders (Rabbi Ratzabi offers a similar
 explanation); many women wore two head coverings, an outer decorative one (a
@@ -142,17 +136,15 @@ also mean a cloth waved as a signal. Rabbi Ernest Klein's etymological
 dictionary of Hebrew derives it as a back-formation from a supposed plural
 *sudarim*, from the Greek *soudarion*, borrowed from the Latin *sudarium*, a
 cloth for wiping off perspiration, from *sudor*, sweat, which goes back to the
-Proto-Indo-European root *sweid-* or *svoid-*, to sweat. From the same root, the
-article adds, come English *sweat*, *sweater*, and *exude*, the Yiddish
+Proto-Indo-European root *sweid-* or *svoid-*, to sweat. From the same root, the column adds, come English *sweat*, *sweater*, and *exude*, the Yiddish
 *shvitz*, and the Modern Hebrew *sveder*.
 
 ## Rendering guidance
 
-These are our rendering judgments; the article offers the Biblical renderings
+These are our rendering judgments; the column offers the Biblical renderings
 "veil," "shawl," and "headcloth" without choosing among them.
 
-- *Tza'if*: **veil**. "Shawl" and "headcloth" are both defensible (the article's
-  own summary says "shawl"), but "veil" is what carries the two Chumash
+- *Tza'if*: **veil**. "Shawl" and "headcloth" are both defensible (the column's own summary says "shawl"), but "veil" is what carries the two Chumash
   narratives, Rivkah covering herself before Yitzchak and Tamar concealing her
   identity from Yehudah.
 - *Redid*: **shawl**, or **wrap**. In Rambam's halachos, "wrap" reads better
@@ -175,20 +167,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Chayei Sarah: All Wrapped Up](https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up)," What's in a Word?, Ohr
-Somayach (2024-11-23): raw text in
-`sources/whats-in-a-word/raw/11584-chayei-sarah-all-wrapped-up.md`. Primary
-loci: Bereishis 24:65, 25:4, 38:14, 38:19, 40:6; Divrei HaYamim I 1:33; Shir
-HaShirim 5:7, 1:12, 4:13, 4:14 (the article prints 4:14 twice for the three
-*nerd* verses); Yeshayahu 3:23; Targum pseudo-Yonasan, Targum Yerushalmi, and
-Onkelos to Bereishis 24:65, 38:14, 38:19; Targum Onkelos to Shemos 26:9, 28:16,
-39:3; *Midrash Sechel Tov* to Bereishis 24:65; *Ohalei Yehudah*; *Midrash
-HaBeiur* to Bereishis 24:65; *Tirgem Avraham* to Bereishis 24:65; *Me'at Tzari*
-to Bereishis 38:14; Shadal to Bereishis 24:65, citing Gesenius; Rav Hirsch to
-Bereishis 24:65 and 40:6; Samuel Shaviv's 1984 essay in *Beit Mikra*; Mishnah Keilim 29:1, and for *sudar*
-Shabbos 3:3, 20:2, Yoma 6:8, Sanhedrin 6:1, 7:2-3, Tamid 7:3; *Sefer HaAruch*
-s.v. *radid*; Ibn Ezra to Yeshayahu 3:23 and Shir HaShirim 5:7; Radak to Yeshayahu 3:23;
-Rambam, *Hilchos Ishus* 13:11 and 24:12, *Hilchos Sotah* 3:5, *Hilchos
-Sanhedrin* 23:3; *Metzudas Tzion* to Yeshayahu 3:23; Rabbi Ernest Klein's
-etymological dictionary of Hebrew, s.v. *sudar*. Rabbi Shlomo Pappenheim, Rabbi
-Yehoshua Steinberg, and Rabbi Yitzchak Ratzabi are cited without a locus.
+Rabbi Reuven Chaim Klein, "[Chayei Sarah: All Wrapped Up](https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up)," *What's in a Word?*, Ohr Somayach, 23 November 2024.
+
+Cited in the essay: Bereishis 24:65, 25:4, 38:14, 38:19, 40:6; Divrei HaYamim I 1:33; Yeshayahu 3:23; Shir HaShirim 1:12, 4:13, 4:14, 5:7; Targum pseudo-Yonasan, Targum Yerushalmi, and Onkelos to Bereishis 24:65, 38:14, 38:19; Targum Onkelos to Shemos 26:9, 28:16, 39:3; Rabbi Menachem ben Shlomo, *Midrash Sechel Tov* to Bereishis 24:65; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Rabbi Saadia al Damari, *Midrash HaBeiur* to Bereishis 24:65; Rabbi Avraham Vilner, *Tirgem Avraham* to Bereishis 24:65; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Bereishis 38:14; Ibn Saruk, Ibn Janach, and Radak; Shadal to Bereishis 24:65, citing Gesenius; Rav Hirsch to Bereishis 24:65 and 40:6; Rabbi Yehoshua Steinberg; Rabbi Yitzchak Ratzabi; Samuel Shaviv's 1984 essay in *Beit Mikra*; Mishnah Keilim 29:1, and for *sudar* Shabbos 3:3, 20:2, Yoma 6:8, Sanhedrin 6:1, 7:2-3, Tamid 7:3; *Sefer HaAruch* s.v. *radid*; Ibn Ezra to Yeshayahu 3:23 and Shir HaShirim 5:7; Radak to Yeshayahu 3:23; Rambam, *Hilchos Ishus* 13:11 and 24:12, *Hilchos Sotah* 3:5, *Hilchos Sanhedrin* 23:3; *Metzudas Tzion* to Yeshayahu 3:23; Rabbi Shlomo Pappenheim; Rabbi Ernest Klein's etymological dictionary of Hebrew, s.v. *sudar*.

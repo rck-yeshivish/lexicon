@@ -21,14 +21,11 @@ updated: 2026-09-10
 Three readings of how the words differ. *Metzudas David* (to Yirmiyahu 50:12)
 treats them as synonyms, possibly for poetic effect. The Vilna Gaon (to Hoshea
 2:5) holds *midbar* and *tziyah* essentially the same, *tziyah* the more intense
-desolation. Malbim (to Yeshayahu 35:1) separates all three, and this entry
-follows him: *midbar* is the **wilderness**, land inherently unfit for
+desolation. Malbim (to Yeshayahu 35:1) separates all three: *midbar* is the **wilderness**, land inherently unfit for
 settlement or cultivation and so empty of people; *aravah* is a **desert
 plain** overrun with thorns and wild growth, not bone-dry; *tziyah* is a
 **parched land**, dried out by prolonged heat. For Malbim *tziyah* and *aravah*
-are desolate from an outside cause (heat; weeds), *midbar* by its own nature.
-When all three appear in one pasuk, give each a distinct English phrase; do not
-let "desert" swallow the list. Early English Bibles themselves split on
+are desolate from an outside cause (heat; weeds), *midbar* by its own nature. Early English Bibles themselves split on
 *midbar*, "desert" (Wycliffe) against "wilderness" (Tyndale, KJV), and the
 column takes no side.
 
@@ -135,8 +132,7 @@ Yirmiyahu 50:12 stacks all three for Bavel's future: *midbar*, *tziyah*,
 *aravah*. *Metzudas David* there, as he often does, treats them as a series of
 synonyms, possibly as poetic expression, with no semantic difference intended;
 Malbim there refers the reader to his distinction at Yeshayahu 35:1, given
-above. The column leaves the three views side by side; the Bottom line follows
-Malbim because he alone separates all three.
+above. The column leaves the three views side by side.
 
 ## Rendering guidance
 
@@ -165,16 +161,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bamidbar: Out in the Wild](https://articles.ohr.edu/articles/bamidbar-out-in-the-wild)," What's in a Word?, Ohr
-Somayach, 29 Iyar 5783 (2023-05-20): raw text in
-`sources/whats-in-a-word/raw/10940-bamidbar-out-in-the-wild.md`. Primary loci
-cited: Bamidbar 1:1, 24:24; Devarim 1:1 (Rabbeinu Meyuchas); Malbim to
-Yeshayahu 35:1 and to Yirmiyahu 50:12, with *Yair Ohr* (maareches mem, os
-dalet); the Vilna Gaon to Hoshea 2:5; *Metzudas David* to Yirmiyahu 50:12; Radak
-and Ibn Janach, *Sefer HaShorashim* s.v. דבר, ערב, ציה; Menachem Ibn Saruk,
-*Machberes*; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah*;
-Rabbi Shlomo Pappenheim on the monoliteral צ; *Shoresh Yesha*; Rav Hirsch to
-Shemos 7:15 and Vayikra 23:40; *Vayikra Rabbah* 30:12; Tehillim 72:9,
-107:33-35; Yeshayahu 13:21, 23:13, 33:21, 34:14, 51:3; Yirmiyahu 50:39;
-Yechezkel 30:9; Daniel 11:30; the Wycliffe, Tyndale and King James Bibles. The
-column gives the people *Tziyim* at Yeshayahu 23:12; the word is in 23:13.
+Rabbi Reuven Chaim Klein, "[Bamidbar: Out in the Wild](https://articles.ohr.edu/articles/bamidbar-out-in-the-wild)," *What's in a Word?*, Ohr Somayach, 20 May 2023.
+
+Cited in the essay: Bamidbar 24:24; Devarim 1:1 (Rabbeinu Meyuchas ben Eliyahu); Malbim to Yeshayahu 35:1 and to Yirmiyahu 50:12, with *Yair Ohr* (maareches mem, os dalet); the Vilna Gaon to Hoshea 2:5; *Metzudas David* to Yirmiyahu 50:12; Radak and Ibn Janach, *Sefer HaShorashim* s.v. דבר, ערב, ציה; Menachem Ibn Saruk, *Machberes*; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah*; Rabbi Shlomo Pappenheim; *Shoresh Yesha*; Rav Hirsch to Shemos 7:15 and Vayikra 23:40; *Vayikra Rabbah* 30:12; Tehillim 72:9, 107:33-35; Yeshayahu 13:21, 23:13, 33:21, 34:14, 51:3; Yirmiyahu 50:39; Yechezkel 30:9; Daniel 11:30; the Wycliffe, Tyndale and King James Bibles.

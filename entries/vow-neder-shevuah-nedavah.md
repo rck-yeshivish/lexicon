@@ -20,17 +20,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Neder* is a **vow** (our rendering; the article reports "promise" as the
-common one): it works on an **object**, giving it a forbidden status on the
+*Neder*, which the column reports is commonly translated "promise," works on an
+**object**, giving it a forbidden status on the
 model of hekdesh. *Shevuah* is an **oath**: it works on the **person**, binding
 him to do or not do, and it generally invokes Hashem's name. They are not two
 grades of one thing: the Gemara (Nedarim 2b) understands them as two different
 types of verbal expression, each dealt with on its own terms, and the Mishnah
-gives each its own masechta in a different seder. A *nedavah* is, per the
-article, a type of *neder*: one statement that undertakes a korban (sometimes
-only implicitly) and designates the specific animal; "freewill offering" is the
-usual English, not the article's. The trap is the common English "promise" and
-"oath," which, the column says, imply the two are basically synonymous, a
+gives each its own masechta in a different seder. A *nedavah* is, per the column, a type of *neder*: one statement that undertakes a korban (sometimes
+only implicitly) and designates the specific animal; "freewill offering" is the usual English, not the column's. The common English
+"promise" and "oath," the column says, imply the two are basically synonymous, a
 *shevuah* being a more serious *neder*.
 
 ## Distinctions
@@ -63,8 +61,7 @@ his claim and one on a subpoenaed witness who says he has nothing to testify.
 Every valid *shevuah* must be kept or must be true.
 
 There is also a forbidden kind, outlawed by the third of the Aseres HaDibros,
-which forbids taking Hashem's name in vain; the article gives four types of
-vain oath: swearing to what is plainly false
+which forbids taking Hashem's name in vain; the column gives four types of vain oath: swearing to what is plainly false
 (that a marble pillar is gold), swearing to what is self-evident (that the
 heavens are the heavens), swearing to transgress (that he will not put on
 tefillin), and swearing to the impossible (that he will not sleep for three
@@ -77,18 +74,17 @@ word (Bamidbar 30:3). The difference is
 where each lands: the *neder* on a specific object, forbidding it or benefit
 from it; the *shevuah* on the person, obligating him to an act or its
 avoidance. Shlomo HaMelech's "death and life are in the power of the tongue"
-(Mishlei 18:21), which the article brings to show the importance granted to
+(Mishlei 18:21), which the column brings to show the importance granted to
 speech, given that words can create these legal realities. Because of that
 gravity it is customary to annul all *nedarim* and *shevuos* on the eve of Rosh
 Hashanah and Yom Kippur, to save people from violating their own words.
 
 ## Rendering guidance
 
-These are our rendering judgments; the article rules only that the common
+These are our rendering judgments; the column rules only that the common
 "promise"/"oath" pair misleads.
 
-- *Neder*: "vow." *Shevuah*: "oath." Fix these and keep them fixed. The article
-  objects to "promise" and "oath" as a pair, since together they suggest one is
+- *Neder*: "vow." *Shevuah*: "oath." Fix these and keep them fixed. The column objects to "promise" and "oath" as a pair, since together they suggest one is
   a graver form of the other; note that its own paraphrases of a *neder* use
   "promise" ("I promise that benefits derived from cigarettes shall be
   forbidden to me").
@@ -112,13 +108,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Of Oaths and Promises](https://articles.ohr.edu/articles/of-oaths-and-promises)," What's in a Word?, Ohr
-Somayach, 28 Elul 5776 (2016-10-01): raw text in
-`sources/whats-in-a-word/raw/6963-of-oaths-and-promises.md`. Primary loci
-cited: Bamidbar 30:3; Nedarim 2b; Mishlei 18:21; the third of the Aseres
-HaDibros; masechtos *Nedarim* (Seder Nashim) and *Shevuos* (Seder Nezikin).
-This is a halachic rather than a lexicographic piece: it names no rishonim or
-grammarians. The only source it gives for the division is Nedarim 2b, that the
-two are different types of verbal expression; the object/person account, the
-kinds of *shevuah*, and the account of *konam* and *nedavah* are the article's
-own exposition, without a cited source.
+Rabbi Reuven Chaim Klein, "[Of Oaths and Promises](https://articles.ohr.edu/articles/of-oaths-and-promises)," *What's in a Word?*, Ohr Somayach, 1 October 2016.
+
+Cited in the essay: Bamidbar 30:3; Nedarim 2b; Mishlei 18:21; the third of the Aseres HaDibros; masechtos *Nedarim* (Seder Nashim) and *Shevuos* (Seder Nezikin).

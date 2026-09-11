@@ -26,8 +26,7 @@ typically translated **rinsing**, the same exterior work with little water
 is removed, blood against filth. *Merikah* is, for Rabbi Avraham Bedersi, not
 water-cleaning at all but **scouring**, buffing off rust or tarnish; Rashi and
 Rambam read it within the washing of a vessel, inside against outside or a
-matter of thoroughness. *Kinuach*, Rabbinic only, is **wiping**. The trap:
-English "wash" absorbs these at once, and Vayikra 6:21 (*merikah*, *shetifah*)
+matter of thoroughness. *Kinuach*, Rabbinic only, is **wiping**. Vayikra 6:21 (*merikah*, *shetifah*)
 and Yeshayahu 4:4 (*rechitzah*, *hadachah*) each put two of them in a single
 verse.
 
@@ -80,7 +79,7 @@ objects (Vayikra 6:21, 15:12). Wertheimer: as an active verb it cleans the
 exterior only, but in the passive it implies inside and out both, since with so
 much water both sides are almost inevitably cleansed; and, in his alternative
 formulation, it means more water than *rechitzah*, being associated with *mayim
-rabim* (Tehillim 32:6; the article prints 32:7). Radak (to Melachim I 22:38) likewise takes it as
+rabim* (Tehillim 32:6). Radak (to Melachim I 22:38) likewise takes it as
 the stronger washing. Rabbi Avraham Bedersi: *shetifah* runs an already clean
 item under a strong current to make it look cleaner still.
 
@@ -123,7 +122,7 @@ is probably in this sense, the column suggests, that *kinuach seudah*, the
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the article's meanings.
+These are our rendering judgments, built on the column's meanings.
 
 - Vayikra 6:21, ומרק ושטף במים: "it shall be scoured and sluiced with water."
   Two words for two acts. Rashi has them as inside and outside, Rambam as two
@@ -149,22 +148,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Laundering and Cleaning](https://articles.ohr.edu/articles/laundering-and-cleaning)," What's in a Word?, Ohr
-Somayach, 20 Shevat 5782 (2022-01-22); raw text at
-`sources/whats-in-a-word/raw/9544-laundering-and-cleaning.md`. Primary loci
-cited: Shemos 19:10 with *Yevamos* 46b and Targum Onkelos; Vayikra 6:20, 6:21
-(with Rashi and Rav Hirsch), 11:25, 13:6, 15:11, 15:12, 15:13; Bamidbar 19:7;
-Bereishis 18:4, 43:31; Shemos 2:5, 21:25 (Rav Hirsch), 30:19, 30:21; Yeshayahu
-4:4 and 47:11 (Rashi); Tehillim 32:6 (the article prints 32:7); Mishlei 30:12;
-Melachim I 22:38 with Radak; Divrei HaYamim II 4:6; Esther 2:3 and 2:12; Shir
-HaShirim 6:6; *Zevachim* 96b with Rashi and Rambam's commentary to *Zevachim*
-11:7; *Berachos* 8:3, *Shabbos* 21:2-3, *Bava Basra* 5:10, *Keilim* 28:2, *Parah*
-3:9; *Sefer HaShem*; *Machberes Menachem*; *Pesikta Rabbasi* on *keves*. Rabbi
-Shlomo HaKohen of Vilna, the Netziv, Rabbi Shlomo Aharon Wertheimer, Rabbi
-Shlomo Pappenheim, Rabbi Avraham Bedersi, and Rabbi Aharon Marcus are cited
-without a locus.
+Rabbi Reuven Chaim Klein, "[Laundering and Cleaning](https://articles.ohr.edu/articles/laundering-and-cleaning)," *What's in a Word?*, Ohr Somayach, 22 January 2022.
 
-Citation note: for Wertheimer's example of *rechitzah* inside an animal's
-innards the article gives Vayikra 17:16; that pasuk is about a man not washing
-his flesh, and the washing of a korban's innards is presumably Vayikra 1:9 or
-1:13.
+Cited in the essay: Bereishis 18:4, 43:31; Shemos 2:5, 19:10 with *Yevamos* 46b and Targum Onkelos, 21:25 (Rav Hirsch), 30:19, 30:21; Vayikra 6:20, 6:21 (with Rashi and Rav Hirsch), 11:25, 13:6, 15:11, 15:12, 15:13; Bamidbar 19:7; Melachim I 22:38 with Radak; Yeshayahu 4:4 and 47:11 (Rashi); Tehillim 32:6; Mishlei 30:12; Shir HaShirim 6:6; Esther 2:3 and 2:12; Divrei HaYamim II 4:6; *Zevachim* 96b with Rashi, and Rambam's commentary to *Zevachim* 11:7; *Berachos* 8:3, *Shabbos* 21:2-3, *Bava Basra* 5:10, *Keilim* 28:2, *Parah* 3:9; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham Bedersi; Menachem Ibn Saruk, *Machberes Menachem*; *Sefer HaShem*; Rabbi Aharon Marcus; *Pesikta Rabbasi* on *keves*; Rabbi Shlomo HaKohen of Vilna; the Netziv.

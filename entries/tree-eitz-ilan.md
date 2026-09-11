@@ -27,8 +27,7 @@ updated: 2026-09-10
 *Eitz* seems to be the Hebrew word and *ilan(a)* the Aramaic one (the column's
 inference from Daniel 4). For Rabbi Chaim Hirschensohn, *Chazal* then divided
 the field: *ilan* is the **living tree**, *eitz* only the **wood**. In Tanach
-*eitz* does both jobs, so a Chumash rendering picks "tree" or "wood" by context
-alone. The one thing not to get wrong: the berachah says *borei pri ha'eitz*
+*eitz* does both jobs. The berachah says *borei pri ha'eitz*
 over the fruit of an *ilan*, and that is not a slip; Rabbi Betzalel Stern takes
 it as proof that *Chazal* preferred Biblical Hebrew when fixing the wording of
 berachos.
@@ -46,8 +45,7 @@ berachos.
 Countless times in Tanach: *eitz hadaas*, *eitz hachaim*, *atzei shittim*,
 *atzei levanah*. Rabbi Shlomo Pappenheim relates it to *atzum*, strong, and
 *etzem*, bone, as it denotes the strength and durability of a tree, against
-other, flimsy forms of flora such as grass. (Pappenheim's etymology is not tied
-in the article to the wood sense; that *eitz* covers cut wood in Tanach is
+other, flimsy forms of flora such as grass. (Pappenheim's etymology is not tied in the column to the wood sense; that *eitz* covers cut wood in Tanach is
 Hirschensohn's point, below.)
 
 ### ilan (אילן) and ilana (אילנא)
@@ -80,7 +78,7 @@ own form of Hebrew when fixing the wording of berachos.
   Hirschensohn: *ilan* is "tree", *eitz* is "wood". Trap: English "tree" will happily cover both words, and
   then a halachah that turns on standing timber against cut timber reads as a
   tautology.
-- *Borei pri ha'eitz* stays transliterated in a frum text; if it must be
+- *Borei pri ha'eitz* stays transliterated; if it must be
   rendered, "Who creates the fruit of the tree", with a note that the Mishnah
   says *ilan* in the same line.
 
@@ -90,10 +88,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Tree Words](https://articles.ohr.edu/articles/tree-words)," What's in a Word?, Ohr Somayach, 15
-Shevat 5777 (2017-02-11): raw text in
-`sources/whats-in-a-word/raw/7133-tree-words.md`. Primary loci cited: *Rosh
-Hashanah* 1:1; Daniel 4:7 with 4:8, 4:11, 4:17, 4:20, 4:23; *Berachos* 6:1;
-Rabbi Chaim Hirschensohn (no work named); Rabbi Shlomo Pappenheim (no work
-named); Rabbi Betzalel Stern, Responsa *Be'tzel HaChochmah*, on the language of
-berachos.
+Rabbi Reuven Chaim Klein, "[Tree Words](https://articles.ohr.edu/articles/tree-words)," *What's in a Word?*, Ohr Somayach, 11 February 2017.
+
+Cited in the essay: Daniel 4:7, 4:8, 4:11, 4:17, 4:20, 4:23; Berachos 6:1; Rabbi Shlomo Pappenheim; Rabbi Chaim Hirschensohn; Rabbi Betzalel Stern, Responsa *Be'tzel HaChochmah*.

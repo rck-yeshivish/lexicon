@@ -29,8 +29,7 @@ by Hashem, hence the *moadim* (Malbim). The scheme is not agreed: Malbim puts
 beginning of an appointed time, *zman* its whole duration and *eit* any point
 within it, while conceding that in practical usage all these words may be used
 interchangeably. *Shaah* beside *eit* is **hour**, the hours of the day against
-the seasons of the year (Rama). The thing not to get wrong: בכל עת ובכל שעה is
-not a redundancy to be collapsed into "at all times"; the Rama rejects those who
+the seasons of the year (Rama). For the Rama, בכל עת ובכל שעה is not a redundancy; he rejects those who
 say only *bechol eit* and reads two measures, "at every season and every hour,"
 though Rabbi Yaakov Emden takes issue with his limiting *eit* to the seasons.
 
@@ -63,7 +62,7 @@ that sort of distinction. Malbim: *eit* is a natural unit of time whose
 existence nature itself shows (*geshamim b'ittam*). Pappenheim: *eit* shares
 some meaning with *zman*, because it too refers to preparation and designation,
 as the *ish itti* of Vayikra 16:21 is the man designated to send the goat to
-Azazel; the article adds that *atid*, "future," is derived from *eit* and is
+Azazel; the column adds that *atid*, "future," is derived from *eit* and is
 also a form of a verb meaning "to prepare." Others: *zman* is a span, *eit* a
 point within it. Wertheimer: *eit* is more specific than *zman*, less than
 *moed*. Rav Hirsch: *eit* is a portion of time, related to *eeteit* or
@@ -81,18 +80,15 @@ its *eit* any point within). Emden concedes that these are only the technical
 differences; in practical usage all these words may be used interchangeably.
 
 ### shaah (שעה)
-Root ש-ע-ה. The article treats *shaah* only through the Rama (Rabbi Moshe
+Root ש-ע-ה. The column treats *shaah* only through the Rama (Rabbi Moshe
 Isserles). He heard that some consider *bechol eit u'vechol shaah*, in the
 second berachah of Birkas HaMazon and the last of Shemoneh Esrei, redundant,
 and say only *bechol eit*. He rejects that: *eit* is the annual seasons and
 *shaah* the hours of the day, two different measures and not a doubling. Rabbi
 Yaakov Emden takes issue with the Rama's claim that *eit* refers to the
-seasons, citing other (natural) phenomena that *eit* names; the article does
-not say how Emden then reads the pair. So *shaah* here is the unit of the day:
-**hour**. The article gives no ruling on *shaah* standing alone in the sense "a
-while, a moment, temporarily" (*lefi shaah*, *shaah achas*); the guide has no
-source for that yet, and a rendering of it is a judgment call to be labeled as
-such.
+seasons, citing other (natural) phenomena that *eit* names; the column does not say how Emden then reads the pair. So *shaah* here is the unit of the day:
+**hour**. The column gives no ruling on *shaah* standing alone in the sense
+"a while, a moment, temporarily" (*lefi shaah*, *shaah achas*).
 
 ## Rendering guidance
 
@@ -104,7 +100,7 @@ such.
 - זמן alone: "time" (the span, the flow); זמן קבוע "a set time"; בזמן הזה "in
   this time / at this season" (the berachah: "at this season" is customary).
 - מועד: "appointed time," "set time"; the festivals are "the *moadim*" or
-  "the appointed festivals," never bare "holidays" in a sefer.
+  "the appointed festivals," never bare "holidays."
 - שעה beside עת: "hour." Standalone שעה in the "moment" sense: unsettled here;
   see above.
 - Trap: English "time" absorbs עת, זמן, and מועד, and English "moment" would
@@ -123,16 +119,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Elul 1: Trends in Time](https://articles.ohr.edu/articles/elul-1-trends-in-time)," What's in a Word?, Ohr
-Somayach, 11 Elul 5777 (2017-09-02): raw text in
-`sources/whats-in-a-word/raw/7396-elul-1-trends-in-time.md`. Authorities and
-loci the article cites: Rabbi Moshe Shapiro (*zman* and *mizuman*); Rabbi
-Shlomo Pappenheim (*zman* from *zamem*; *eit* as designation, with Vayikra
-16:21, *ish itti*); Rabbi Eliyahu HaBachur (*zman* not a synonym of *eit*;
-*zman* in the post-Exilic books and Koheles); Maharal, *Netzach Yisrael* ch.
-26; Malbim on *moed*/*zman*/*eit* (*geshamim b'ittam*); the Targumim rendering
-*moed* as *zman*, with the column's own Hebrew-and-Aramaic suggestion; Rabbi
-Shlomo Aharon Wertheimer's three-step order; Rav Hirsch on *zman* and *eit*
-(the spade); the Rama and Rabbi Yaakov Emden on *bechol eit u'vechol shaah* in
-Birkas HaMazon and Shemoneh Esrei; Rabbi Yaakov Emden's own scheme of *moed*,
-*zman* and *eit*. The article names no work for any of these except Maharal.
+Rabbi Reuven Chaim Klein, "[Elul 1: Trends in Time](https://articles.ohr.edu/articles/elul-1-trends-in-time)," *What's in a Word?*, Ohr Somayach, 2 September 2017.
+
+Cited in the essay: Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim, with Vayikra 16:21 (*ish itti*); Rabbi Eliyahu HaBachur; Maharal, *Netzach Yisrael* 26; Malbim; the Targumim; Rabbi Shlomo Aharon Wertheimer; Rav Hirsch; the Rama (Rabbi Moshe Isserles) on *bechol eit u'vechol shaah* in Birkas HaMazon and Shemoneh Esrei; Rabbi Yaakov Emden.

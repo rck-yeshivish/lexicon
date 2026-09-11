@@ -21,22 +21,19 @@ updated: 2026-09-10
 *Yerek* (plural *yerakos*) is the generic word: **vegetable**, any of them.
 *Yarok* is the color, **green**, though in Rabbinic Hebrew it technically
 reaches from yellow through green to blue. *Karpas* is **not** a synonym for
-*yerek*: in the Mishnah it names one particular plant (the Yerushalmi identifies
-it as parsley, though the article calls the matter "far from settled"), and in
+*yerek*: in the Mishnah it names one particular plant (the Yerushalmi identifies it as parsley, though the column calls the matter "far from settled"), and in
 Megillas Esther the context fairly clearly wants a **fabric**, with the
 commentators divided between a fabric (silk; fine linen), a **color** (green),
-and, in the Targumim, an association with leek. The trap is treating
-Seder-night *karpas* as the Hebrew for "vegetable"; its popular use seems to
+and, in the Targumim, an association with leek. Seder-night *karpas* does not mean "vegetable"; its popular use seems to
 have come from a piyut, where it was one item from a list.
 
 ## Distinctions
 
 ### yerek (ירק) and yarok (ירוק)
 *Yerek* and its close cognate *yarak* appear eleven times in Tanach, by the
-article's count. Its list gives ten loci (Bereishis 1:30, 9:3; Bamidbar 22:4;
-Devarim 11:10; Melachim I 21:2; Melachim II 19:26; Yeshayahu 15:6, 37:27;
-Tehillim 37:2; Mishlei 15:17); Shemos 10:15 (*kol yerek ba'etz*) is presumably
-the eleventh (our check). The word appears countless times in the Mishnah, as in
+column's count (Bereishis 1:30, 9:3; Bamidbar 22:4; Devarim 11:10; Melachim I
+21:2; Melachim II 19:26; Yeshayahu 15:6, 37:27; Tehillim 37:2; Mishlei 15:17;
+and presumably Shemos 10:15, *kol yerek ba'etz*). The word appears countless times in the Mishnah, as in
 the *Mah Nishtanah*'s "other *yerakos*" for the first dipping (*Pesachim* 10:4),
 as against *marror*, a specific subset of *yerakos*, and in the ruling that one
 says *borei pri ha'adamah* on vegetables (*Berachos* 6:1).
@@ -47,7 +44,7 @@ of words: vegetable, a greenish gem (the column suggests, with a question mark,
 emerald), and the color green. Ibn Janach and Radak add spitting and spittle to
 the same root; Ibn Saruk derives those from a separate biliteral ר-ק. Rabbi
 Avraham Bedersi (*Chosam Tochnis*): vegetables are called *yerakos* because they
-are typically green (*yarok*). Technically, the article adds, Rabbinic *yarok*
+are typically green (*yarok*). Technically, the column adds, Rabbinic *yarok*
 covers a range from yellow to green to blue (see Rabbi Tanchum HaYerushalmi's
 *HaMadrich HaMaspik*, *Teshuvos Maharam MeRothenberg*, Prague ed. §631, and
 *Beiur HaGra* to *Tikkunei Zohar*, Tikkun 21).
@@ -74,7 +71,7 @@ presumed ownerless; the Yerushalmi there explicitly identifies it with
 *petrozilia* (Greek *petroselinon*), parsley. Its Aramaic cognate *karpasa*
 appears in Kesubos 61a: a nursing woman who frequently eats it will have a child
 who is *zivsani*, shining, splendid, distinguished. Rabbeinu Manoach (to
-*Hilchos Chametz U'Matzah* 8:2) "somehow," as the article puts it, connects that
+*Hilchos Chametz U'Matzah* 8:2) "somehow," as the column puts it, connects that
 to the Seder's *karpas*. From all this, the column says, it would seem that
 *karpas* literally means parsley, "but the matter is far from settled."
 
@@ -84,7 +81,7 @@ points out that the vowels of the Hebrew and Aramaic words differ from the
 Arabic.
 
 Rabbi Alan Yuter argues that *karpas* is the Greek *karpos*, any fruit,
-vegetable, or produce. The article rejects this: the sources above use *karpas*
+vegetable, or produce. The column rejects this: the sources above use *karpas*
 for a specific species, not for produce in general, so although colloquially
 the first dipping's *karpas* can be any vegetable, it is philologically
 difficult to tie the word to the Greek.
@@ -138,8 +135,7 @@ before Rashi, Rabbi Yosef Tuv-Elem (Bonfils) wrote the piyut *Elokei HaRuchos*,
 the laws of Pesach in rhyme, whose list includes *karpasa* and *kusbarta*;
 Ashkenazim traditionally say it on Shabbos HaGadol, and Rabbi Shmuel of Falaise
 wrote a commentary on it (printed in *Ohr Zarua*, *Hilchos Pesachim* §256). It
-seems that he simply Hebraized the Aramaic *karpasa* of *Elokei HaRuchos*. So,
-the article concludes, *karpas* does not mean "vegetable"; it was one example of
+seems that he simply Hebraized the Aramaic *karpasa* of *Elokei HaRuchos*. So, the column concludes, *karpas* does not mean "vegetable"; it was one example of
 a specific vegetable for the first dipping, listed beside many alternatives.
 
 Derashos on the word: Rabbi Yaakov Moelin (1365 to 1427) in *Sefer Maharil*,
@@ -152,7 +148,7 @@ brought Yaakov's family down to Mitzrayim (Rabbeinu Manoach; Ibn Shuaib to Tzav;
 
 ## Rendering guidance
 
-These are our rendering judgments, built on the article's meanings.
+These are our rendering judgments, built on the column's meanings.
 
 - *Yerek* / *yerakos*: "vegetable(s)." Not "greens," which narrows it, and not
   "herb," which is a different plant class.
@@ -176,30 +172,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Metzorah/Shabbos HaGadol: Veggies for the Dipping](https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping),"
-What's in a Word?, Ohr Somayach, 12 Nissan 5784 (2024-04-20): raw text in
-`sources/whats-in-a-word/raw/11353-metzorahshabbos-hagadol-veggies-for-the-dipping.md`.
-Primary loci cited: *Pesachim* 10:3-4 with Rashi to Pesachim 114a; *Berachos*
-6:1; *Shevi'is* 9:1 with Sukkah 39b and the Yerushalmi there; Kesubos 61a;
-Megillah 12a; Rosh HaShanah 26a; Esther 1:6 with Targum Rishon, Targum Sheini,
-Rashi, Ibn Ezra, Radak, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias, *Midrash
-Lekach Tov*, *Esther Rabbah*, and Rabbi Saadia Gaon's *Tafsir* (cited also by
-Ibn Parchon); Ibn Janach, *Sefer HaShorashim*; Rabbi Baruch Epstein, *Toseses
-Berachah* to Esther 1:6; Bereishis 1:30, 9:3, 37:3; Bamidbar 22:4; Devarim
-11:10; Melachim I 21:2; Melachim II 19:26; Yeshayahu 15:6, 16:1, 37:27;
-Tehillim 37:2; Mishlei 15:17 (the article's ten loci for its count of eleven;
-Shemos 10:15 is our addition); Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi
-Tanchum HaYerushalmi, *HaMadrich HaMaspik*; *Teshuvos Maharam MeRothenberg*,
-Prague ed. §631; *Beiur HaGra* to *Tikkunei Zohar* 21; Rabbi Yehudah Aryeh of
-Carpentras, *Aholei Yehudah*; Rabbeinu Manoach to *Hilchos Chametz U'Matzah*
-8:2; *Tur* and *Shulchan Aruch*, Orach Chaim 473; *Machzor Vitri*; Rabbi Yosef
-Tuv-Elem, *Elokei HaRuchos*, with Rabbi Shmuel of Falaise's commentary in *Ohr
-Zarua*, *Hilchos Pesachim* §256; *Sefer Maharil*; Ibn Shuaib to Tzav; *Ben Ish
-Chai*, Year 1, Tzav §32; *Chasam Sofer*, Orach Chaim 132; *Aruch HaShulchan*,
-Orach Chaim 473:10; *Piskei Teshuvos* to Orach Chaim 473; Rabbi Dr. Ernest
-Klein's etymological dictionary of Hebrew. Rabbi Shlomo Pappenheim, Menachem
-Ibn Saruk, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Alan Yuter, and Rabbi
-Yaakov Yisroel Stahl are cited without a locus. The article points to the
-author's earlier essays "A Coriander Conundrum" (on *kusbarta*), "White is
-Light" (on *chur*), "The True Blue" (on *techeiles*), and "Hard Work & Hard
-Hearts" (on *perech*).
+Rabbi Reuven Chaim Klein, "[Metzorah/Shabbos HaGadol: Veggies for the Dipping](https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping)," *What's in a Word?*, Ohr Somayach, 20 April 2024.
+
+Cited in the essay: Bereishis 1:30, 9:3, 37:3; Shemos 10:15; Bamidbar 22:4; Devarim 11:10; Melachim I 21:2; Melachim II 19:26; Yeshayahu 15:6, 16:1, 37:27; Tehillim 37:2; Mishlei 15:17; Esther 1:6 with Targum Rishon, Targum Sheini, Rashi, Ibn Ezra, Radak, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias, *Midrash Lekach Tov*, *Esther Rabbah*, and Rabbi Saadia Gaon's *Tafsir* (cited also by Ibn Parchon); *Pesachim* 10:3-4 with Rashi to Pesachim 114a; *Berachos* 6:1; *Shevi'is* 9:1 with Sukkah 39b and the Yerushalmi there; Kesubos 61a; Megillah 12a; Rosh HaShanah 26a; Menachem Ibn Saruk; Ibn Janach, *Sefer HaShorashim*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; *Teshuvos Maharam MeRothenberg*, Prague ed. §631; *Beiur HaGra* to *Tikkunei Zohar* 21; Rabbi Shlomo Pappenheim; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Rabbeinu Manoach to *Hilchos Chametz U'Matzah* 8:2; Dr. Alexander Kohut; Rabbi Shaul Goldman; Rabbi Alan Yuter; Rabbi Baruch Epstein, *Toseses Berachah* to Esther 1:6; Rabbi Dr. Ernest Klein's etymological dictionary of Hebrew; Aquila; *Tur* and *Shulchan Aruch*, Orach Chaim 473; Rabbi Yaakov Yisroel Stahl; *Machzor Vitri*; Rabbi Yosef Tuv-Elem, *Elokei HaRuchos*, with Rabbi Shmuel of Falaise's commentary in *Ohr Zarua*, *Hilchos Pesachim* §256; *Sefer Maharil*; Ibn Shuaib to Tzav; *Ben Ish Chai*, Year 1, Tzav §32; *Chasam Sofer*, Orach Chaim 132; *Aruch HaShulchan*, Orach Chaim 473:10; *Piskei Teshuvos* to Orach Chaim 473.

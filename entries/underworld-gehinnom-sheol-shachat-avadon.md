@@ -18,19 +18,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Gehinnom* is a place name borrowed for the sinner's afterlife. The article
-notes that it is commonly translated "hell" or "purgatory," and itself uses
-"purgatory" when giving Rashi's derashah on *sheol*; keeping *Gehinnom*
-transliterated is this guide's rendering judgment, not the article's. *Sheol*'s
-literal meaning is **the grave** (so the article, and so Ibn Ezra maintains),
+*Gehinnom* is a place name borrowed for the sinner's afterlife. The column notes that it is commonly translated "hell" or
+"purgatory," and itself uses "purgatory" when giving Rashi's derashah on
+*sheol*. *Sheol*'s literal meaning is **the grave** (so the column, and so Ibn
+Ezra maintains),
 though by derashah it can refer to the soul's purgatory after death (Rashi).
 *Shachat* in many pesukim means simply a **pit**, and Bedersi also reads
 "destruction" in it. *Avadon* is either the body's **destruction** after death
-or the place where souls are **lost** for a time; the article gives both,
-unattributed. Eruvin 19a gives seven Biblical terms for Gehinnom, and Maharsha
-reads them as seven different places within it; keeping the seven distinct in
-English, rather than "hell" seven times, is our judgment on the strength of
-Maharsha.
+or the place where souls are **lost** for a time; the column gives both, unattributed. Eruvin 19a gives seven Biblical terms for
+Gehinnom, and Maharsha reads them as seven different places within it.
 
 ## Distinctions
 
@@ -38,24 +34,22 @@ Maharsha.
 Rabbi Yehoshua ben Levi's list: *sheol*, *avadon*, *be'er shachat*, *bor
 shaon*, *tit hayaven*, *tzalmaves*, and *eretz hatachtis*. Maharsha (Rabbi
 Shmuel Eidels, 1555 to 1631): the seven names correspond to seven different
-places within Gehinnom (the article adds "see Sotah 10b"). *Midrash Konen* (in
+places within Gehinnom (the column adds "see Sotah 10b"). *Midrash Konen* (in
 Rabbi J. D. Eisenstein's *Otzar Midrashim* p. 256) assigns places to different
 types of sinners: Korach and his company in
 *sheol*; the lost souls of the wicked in *avadon*; robbers, thieves, and those
 who hold back a worker's wages in *be'er shachat*; those who transgressed in
 matters of intimacy in *tit hayaven*; slanderers in *tzalmaves*; those who
-quarrel with talmidei chachamim in *eretz tachtis*; "and so forth," as the
-article's quotation ends (*bor shaon* is not assigned in it).
+quarrel with talmidei chachamim in *eretz tachtis*; "and so forth," as the column's quotation ends (*bor shaon* is not assigned in it).
 
 ### sheol (שאול)
 Close to seventy occurrences. Ibn Ezra (to Bereishis 37:35) holds the literal
 sense is grave, and faults the Vulgate for rendering it *infernus* there. Rashi
 (there): the plain sense is grave, but exegetically it can refer to the soul's
 purgatory after death. Malbim: literally a deep pit from which it is impossible
-to get out; this, the article adds, may apply to both the grave and Gehinnom. Rabbi Shlomo Pappenheim: root ש-ל, something cast
+to get out; this, the column adds, may apply to both the grave and Gehinnom. Rabbi Shlomo Pappenheim: root ש-ל, something cast
 away or negated, and death is a plane of existence away from the living. Rabbi
-Tzvi Matisyahu Abrahams, whom the columnist calls his friend, takes what the
-article calls "a more exhortative approach" (*Root Connections in the Torah* p.
+Tzvi Matisyahu Abrahams, whom the columnist calls his friend, takes what the column calls "a more exhortative approach" (*Root Connections in the Torah* p.
 274): the grave is *sheol* because when we are placed in the ground a great
 question (*she'eilah*) will hang over us as to where we are headed.
 
@@ -135,11 +129,11 @@ and so Gehinnom cleanses a man of his sins until what the sin made is gone.
 
 ## Rendering guidance
 
-These are our rendering judgments; the article gives the meanings, not an
+These are our rendering judgments; the column gives the meanings, not an
 English policy.
 
 - *Gehinnom* stays transliterated: it is a place name, and the Gemara's
-  derashah on it works off its sound. The article records "hell" and
+  derashah on it works off its sound. The column records "hell" and
   "purgatory" as the common renderings without ruling on either, and itself
   uses "purgatory" for Rashi's derashah on *sheol*.
 - *Sheol*: "the grave" as the default, on Ibn Ezra. Only where a source is
@@ -150,7 +144,7 @@ English policy.
   transliterated with a gloss: "*be'er shachat*, the well of the pit," and so
   on. The moment two of them read alike the count of seven stops meaning
   anything.
-- *Tzalmaves*: "the shadow of death," the article's literal rendering.
+- *Tzalmaves*: "the shadow of death," the column's literal rendering.
 - *Tophes* stays a proper name in Yirmiyahu and transliterated in the Gemara's
   derashah, since the derashah works off the sound of the word.
 
@@ -160,20 +154,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Names of the Underworld](https://articles.ohr.edu/articles/names-of-the-underworld)," What's in a Word?, Ohr
-Somayach, 26 Sivan 5779 (2019-06-29): raw text in
-`sources/whats-in-a-word/raw/8304-names-of-the-underworld.md`. Primary loci
-cited: Eruvin 19a (Rabbi Yehoshua ben Levi's seven, and the Gemara on *gehinnom*
-and *tophes*) with Rashi and Tosafos there; Maharsha on the seven names, which
-the article gives without a locus (it stands in his *Chiddushei Aggados* to
-Eruvin 19a), with the article's "see Sotah 10b"; Bereishis 37:35 with Rashi,
-Ibn Ezra, and the Vulgate; Rav Hirsch to Bereishis 9:20; Rabbi Aharon Marcus,
-*Keses HaSofer* to Bereishis 10:2; Devarim 32:22; Yeshayahu 9:4 with Rashi;
-Yirmiyahu 10:11, ch. 19; Yechezkel 31 and the Targumic Tosefta at the start of
-Yechezkel; Tehillim 16:10, 40:3, 55:24, 88:12, 107:10; Iyov 10:21; Mishlei
-30:15; *Midrash Konen*, *Midrash Hallel*, and *Midrash Din HaKever* in Rabbi J.
-D. Eisenstein's *Otzar Midrashim* pp. 256, 134, 94; *Sefer Russiana*; Rabbi
-Yitzchak Abuhab, *Menoras HaMaor*; *Nefesh HaChaim* 1:12; Radak, *Sefer
-HaShorashim*; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* p.
-274. Malbim, Rabbi Shlomo Pappenheim, Bedersi, Ibn Janach, and Maharal are cited
-without a locus.
+Rabbi Reuven Chaim Klein, "[Names of the Underworld](https://articles.ohr.edu/articles/names-of-the-underworld)," *What's in a Word?*, Ohr Somayach, 29 June 2019.
+
+Cited in the essay: Eruvin 19a (Rabbi Yehoshua ben Levi's seven, and the Gemara on *gehinnom* and *tophes*) with Rashi and Tosafos there; Maharsha on the seven names, with Sotah 10b; Bereishis 37:35 with Rashi, Ibn Ezra, and the Vulgate; Rav Hirsch to Bereishis 9:20; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 10:2; Devarim 32:22; Yeshayahu 9:4 with Rashi; Yirmiyahu 10:11, ch. 19; Yechezkel 31 and the Targumic Tosefta at the start of Yechezkel; Tehillim 16:10, 40:3, 55:24, 88:12, 107:10; Iyov 10:21; Mishlei 30:15; *Midrash Konen*, *Midrash Hallel*, and *Midrash Din HaKever* in Rabbi J. D. Eisenstein's *Otzar Midrashim* pp. 256, 134, 94; *Sefer Russiana*; Rabbi Yitzchak Abuhab, *Menoras HaMaor*; Maharal; Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:12; Malbim; Rabbi Shlomo Pappenheim; Rabbi Avraham Bedersi HaPenini; Rabbi Yonah Ibn Janach; Radak, *Sefer HaShorashim*; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* p. 274.
