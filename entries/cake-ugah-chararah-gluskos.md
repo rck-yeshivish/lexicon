@@ -38,8 +38,8 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Ugah* is not "cake" in the modern sense: its core is **round**, and as a food it is a
-**flat round loaf**, which is why the Torah calls the matzos of Yetzias Mitzrayim *ugos
+*Ugah* is not "cake" in the modern sense: its core is **round**, and as a food, two scholars suggest, it is a
+**flat round loaf**, which would explain why the Torah calls the matzos of Yetzias Mitzrayim *ugos
 matzos* (Shemos 12:39). *Chararah* is Rashi's and the Mechilta's gloss on it. *Kikar* is a **loaf** with
 body, *challah* a **round loaf**, *gluska* the Rabbinic **fine roll**.
 
@@ -72,7 +72,7 @@ square, and so are the mizbeach, the choshen and the lechem hapanim, which Rabbi
 Chizkiyah Medini of Chevron cites as precedent that rectangular matzos are fit (see also
 *HaDrash V'HaIyun*, Tzav §29).
 
-**How ugah differs from kikar.** The column consulted two scholars, Dr. Tamar Katzir
+**How ugah differs from kikar.** Rabbi Reuven Chaim Klein consulted two scholars, Dr. Tamar Katzir
 of the Academy for the Hebrew Language and Rabbi Shaul Goldman. It seems, on their
 reading, that both
 roots mean round and the two are near-synonyms in practice; but the two independently
@@ -81,7 +81,7 @@ something spherical, a three-dimensional loaf, while *ugah* implies a flat,
 two-dimensional round. Which fits Choni's circle, a mere picture drawn in the ground,
 and fits matzah, flat enough to look two-dimensional. HALOT implies the same, defining
 *ugah* "a round flat loaf of bread" and *kikar* "a disk-shaped round loaf." How
-*challah* divides from *ugah* the column leaves open, saying it is not readily clear.
+*challah* divides from *ugah* Rabbi Klein leaves open, saying it is not readily clear.
 
 **What gluskaos are.** Shabbos 30b and Kesubos 111b foretell that Eretz Yisrael will
 yield ready-made *gluskaos* rather than raw stalks, and *Bereishis Rabbah* §88:2 has
@@ -104,7 +104,7 @@ circle or circuit; others, like Rabbi Aharon Marcus, connect it to *igul*.
 
 *Chararah* itself is in the Mishnah a baked good of some sort (*Shabbos* 1:10, *Bava
 Kamma* 2:3), and at *Peah* 5:8 a way of stacking produce which the Yerushalmi (there)
-explains as round stacks. On that basis the column says it is safe to assume that
+explains as round stacks. On that basis Rabbi Reuven Chaim Klein says it is safe to assume that
 *chararah* and *ugah* in the sense of a baked good both name something round in shape.
 
 ### ugah and matzah
@@ -117,11 +117,11 @@ Shalom Shabazi (*Chemdas Yamim* there): those *ugos* are never reported served b
 Og ate them, a second account of the name.
 
 ### kikar (ככר), challah (חלה) and the Rabbinic words
-*Kikar* appears five times, always as *kikar lechem* (Shemos 29:23; Shmuel I 2:36;
-Yirmiyahu 37:21; Mishlei 6:26; Divrei HaYamim I 16:3). *Challah* appears alone (Vayikra
+As a word for bread, *kikar* appears five times, always as *kikar lechem* (Shemos 29:23; Shmuel I 2:36;
+Yirmiyahu 37:21; Mishlei 6:26; Divrei HaYamim I 16:3). *Challah* appears alone (e.g., Vayikra
 7:12, 24:5; Bamidbar 6:15, 15:20), as *challas lechem*
-(Shemos 29:23; Vayikra 7:13, 8:26; Shmuel II 6:19), and as *challas matzah*
-(Shemos 29:2; Vayikra 2:4, 7:12; Bamidbar 6:19).
+(e.g., Shemos 29:23; Vayikra 7:13, 8:26; Shmuel II 6:19), and as *challas matzah*
+(e.g., Shemos 29:2; Vayikra 2:4, 7:12; Bamidbar 6:19).
 Both words likewise imply a round shape (Ibn Ezra to Vayikra 2:4); for these against
 *lechem* and *pas* see
 [bread](bread-lechem-kikar-challah-pat.html). Pesachim 6b: the Rabbanan required destroying
@@ -129,14 +129,14 @@ chametz rather than nullification alone, lest a man find a good *gluska* on Pesa
 be tempted; Rabbi Binyamin Mussafia (*Mussaf HeAruch*) derives the word from the Greek
 *chollix*/*hollix* and
 defines it in Hebrew as "an *ugah*," "a small round bread," and Rabbi Ernest Klein,
-seemingly following him, traces it to the Greek *kollix*, a roll of bread. The column
-offers as an alternative that Rabbinic *gluskos* may instead be related to the Ancient
+seemingly following him, traces it to the Greek *kollix*, a roll of bread. Rabbi Reuven Chaim
+Klein offers as an alternative that Rabbinic *gluskos* may instead be related to the Ancient
 Greek *glukus*, at first sweet new wine and then anything sweet, the English *glucose*
 being coined from it only in the 1800s.
 
 English *cake* comes from the
 Norse *kaka*, which linguists like Julius Pokorny take back to the Proto-Indo-European
-root *gag*/*gog*, "round," on the interchange of g and k, which is the same pairing of
+root *gag*/*gog*, "round," on the interchange of g and k, quite reminiscent of the pairing of
 "baked good" with "round" that *ugah* shows; the diminutive *cookie* has its parallel in
 Modern Hebrew *ugiyah*, the diminutive of *ugah*. German *kuchen* comes from the same
 PIE root, and with the diminutive *-el* gives Yiddish *kichel*, a little cake; French

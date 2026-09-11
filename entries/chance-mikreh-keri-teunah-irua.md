@@ -22,26 +22,26 @@ rebuke (Vayikra 26), where it is not a neutral event but **offhandedness** or
 **flippancy** toward Hashem (Rabbi Shlomo Pappenheim reads it instead as the
 sinner's provoking posture), and in Mishnaic Hebrew it is the euphemism for a
 seminal emission. *Te'unah* is a **mishap** or
-**befalling**, named for the causes that converge rather than the point of
+**befalling**, named, on Malbim's reading, for the causes that converge rather than the point of
 contact. *I'rua* is post-biblical, a plain **event** or **incident**. The whole
 argument of Vayikra 26 is about attitude, not chance.
 
 ## Distinctions
 
 ### mikreh / keri (מקרה, קרי)
-Root ק-ר-ה / ק-ר-א. In Tanach a *mikreh* is a random happening: the Pelishtim
+Root ק-ר-ה / ק-ר-א. In several places in Tanach a *mikreh* is a random happening: the Pelishtim
 test whether their plague was Hashem's hand or merely a *mikreh* (Shmuel I
 6:9); Shlomo HaMelech says one *mikreh* meets man and beast (Koheles 3:19) and
-one *mikreh* the righteous and the wicked (Koheles 9:2-3); the upshot, the
-column says, is that since all is Divinely pre-ordained it is hopeless to try to
+one *mikreh* the righteous and the wicked (Koheles 9:2-3); the upshot, Rabbi
+Klein says, is that since all is Divinely pre-ordained it is hopeless to try to
 escape one's fate. The verb carries the
 same sense of the unprepared-for: *vayikar* of Hashem appearing to Bilaam
 (Bamidbar 23:4, 23:16), *karahu* of the accident Yaakov feared for Binyamin
 (Bereishis 42:38, 44:29), *karcha* of Amaleik chancing upon Yisrael (Devarim
 25:18), *yikareh* of coming upon a bird's nest (Devarim 22:6), and *vayiker
-mikreh* of Rus arriving in Boaz's field (Rus 2:3). On the Divine Hand behind
-every case of *mikreh* the column points the reader to Professor Stephen B.
-Chapman's essay "Miqreh and YHWH."
+mikreh* of Rus arriving in Boaz's field (Rus 2:3). Professor Stephen B. Chapman's essay
+"Miqreh and YHWH" studies the Bible's understanding of the Divine Hand behind
+every case of *mikreh*.
 
 Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes the biliteral ק-ר to mean
 "strong impact," and gathers under it *korah* (beam) and *tikrah* (ceiling),
@@ -61,8 +61,8 @@ back offhandedly. Rabbi Shlomo Pappenheim takes a slightly different approach:
 *keri* is the sinner's
 antagonistic posture, an attempt to anger Hashem through his actions, so that
 the problem is twofold, the sin itself and the attitude behind it; the
-word then carries his "stronger impact" and draws a stronger response. The
-column leaves both standing.
+word then carries his "stronger impact" and draws a stronger response. Rabbi
+Klein leaves both standing.
 
 In the Mishnah *keri* means a seminal emission (*Berachos* 3:4-6, *Terumos*
 1:6, *Avodah Zarah* 3:4, *Avos* 5:5, *Tamid* 1:1, *Middos* 1:9, *Keilim* 1:5,
@@ -75,7 +75,7 @@ ritual impurity (Devarim 23:11, Shmuel I 20:26).
 Malbim, as cited in *Sefer HaCarmel*, treats *mikreh* and *metziah* as almost
 synonymous and attempts to
 separate them by cause: when the cause is unknown or irregular the happening
-is a *mikreh*; when the cause is ordinary and anticipated it is a *metziah*.
+is a *mikreh*; when the cause is not so out of the ordinary it is a *metziah*.
 Hence Yaakov's sons report the *koros* that befell them in Mitzrayim (Bereishis
 42:29), all of it unexpected, while Yehoshua's spies report *motza'os*
 (Yehoshua 2:23), since they were sent out precisely to find things worth
@@ -87,12 +87,14 @@ Root א-נ-ה. Tanach uses the verb: "no evil shall befall you" (Tehillim 91:10)
 the inadvertent killer whose exile Hashem arranges (Shemos 21:13). Rashi there
 describes the arrangement: Hashem brings the deliberate murderer and the
 inadvertent killer together so that each receives his due. Malbim (*Sefer
-HaCarmel*): *mikreh* is the meeting-point of things, the impact itself, while
-*te'unah* is the confluence of an incident's **causes**, the more abstract
-coming-together of factors. His proof is Shemos 21:13: Hashem does not
+HaCarmel*): *mikreh* is the meeting-point of things, while
+*te'unah* is the confluence of an incident's **causes**. Rabbi Klein glosses the
+first as perhaps the more physical impact of Rabbi Pappenheim's reading, and the
+second as seemingly a more abstract coming-together of factors. Malbim illustrates
+the distinction from Shemos 21:13: Hashem does not
 transport the killer to the Ir Miklat, He assembles the circumstances that will
-send him there. Rabbi Shaul Goldman notes that the same root א-נ-ה yields
-*anah*, "where?", of an unknown location, and accounts for the pairing by saying
+send him there. The same root א-נ-ה yields
+*anah*, "where?", of an unknown location, and Rabbi Shaul Goldman accounts for the pairing by saying
 that *te'unah* looks not so much at an event's causes or effects as at the
 unpredictability of its landing place, the arbitrary "where" of it. Modern Hebrew
 *te'unas derachim*, literally an occurrence of the roads, is this word.
@@ -109,15 +111,15 @@ cognates of *i'rua* or of ע-ר-ע; at Tehillim 85:11 it renders *nifgashu*, "me
 with a cognate of *i'rua*.
 
 ### the falling metaphor
-Rabbi Shaul Goldman proposes that an event or occurrence is habitually framed in
+Rabbi Shaul Goldman proposes that an event or occurrence is often framed in
 spatial terms, as something that falls and lands, which conveys a happening with
 no discernible pattern or intention behind it: it is construed as cast from
 above and striking the ground at random. The *mikreh*/*keri* cluster already
-implies a convergence of unrelated factors, and he takes it further, that the
+implies a convergence of seemingly unrelated factors, and he takes it further, that the
 impact of those converging forces is consistently conceived as a downward fall,
-perhaps because gravity is the most universal form of impact there is. The
-column notes that English does the same, an event "falling out" on a date, and
-that *incident*, *accident* and *coincidence* all come from the Latin *cadere*,
+perhaps because gravity is the most universal form of impact there is. English
+does the same, an event "falling out" on a date, and
+*incident*, *accident* and *coincidence* all come from the Latin *cadere*,
 "falling upon," with *befalling* saying it outright and *landing* naming the end
 of a fall; *somewhere*, *wherever* and *whenever* carry the same sense of a
 place or time not deliberately fixed.

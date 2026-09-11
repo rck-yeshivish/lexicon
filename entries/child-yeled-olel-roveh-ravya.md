@@ -41,10 +41,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Yeled* is the unmarked word for a **child**, and carries no age with it.
+*Yeled* is the unmarked word for a **child**, and does not necessarily carry an age with it.
 *Olel* is the **toddler** who has
-been weaned and gets himself up to look for food. *Roveh* is a **youngster**
-between *naar* and *elem*. *Elem* is the **young man** who has nearly reached
+been weaned and gets himself up to look for food. *Roveh* is a **youngster**,
+in *Midrash Tadshe*'s list between *naar* and *elem*. *Elem* is the **young man** who has nearly reached
 his full height. In Aramaic, *ravya* and *talya* both mean **boy** or
 **lad**, and the Targum is not consistent about which Hebrew word each renders.
 This entry covers the etymologies and the child-words; for *naar* and *almah*
@@ -65,7 +65,7 @@ themselves see [youth](youth-naar-almah-elem.html).
 
 **Whether naar and elem are one stage or two.** Ibn Janach and Radak (each in
 his *Sefer HaShorashim*): *naarah* and *almah* mean the same thing. Rabbi
-Shlomo Pappenheim's two roots also land both words at the same point in life.
+Shlomo Pappenheim's two roots also seem, on the surface, to land both words at the same point in life.
 Rabbi Yaakov Tzvi Mecklenburg, summarizing Pappenheim, grants that the stage is
 the same but splits the focus: *elem* names the showing of physical maturity,
 *naar* the coming of intellectual and spiritual maturity.
@@ -73,10 +73,10 @@ the same but splits the focus: *elem* names the showing of physical maturity,
 **The order of the stages.** Pappenheim's account runs *olel*, growing through
 childhood, then *elem*. *Midrash Tadshe* (ch. 6) instead sets *elem* after
 *naar* and inserts *roveh* between them, listing the stages of life as *yeled*,
-*naar*, *roveh*, *elem*, *ish*, *sav*, *zaken*. What both agree on is that *yeled* is
-the earliest.
+*naar*, *roveh*, *elem*, *ish*, *sav*, *zaken*. In the Midrash's list *yeled* is
+the earliest stage.
 
-**How old a yeled is.** Pappenheim: no fixed age at all, and Yishmael is called
+**How old a yeled is.** Pappenheim: not necessarily any specific age, and Yishmael is called
 a *yeled* at sixteen (Bereishis 21:15 to 16). Rashi (to Erachin 18b) on the
 Mishnah's *yeled* (*Erachin* 4:4): anyone from twenty to sixty, as against
 *zaken*, over sixty. Rabbi Eliyahu HaKohen of Izmir cites anonymous "sages of
@@ -95,8 +95,7 @@ Rus 2:5 to 6; and Targum renders *bachur* with cognates of *revi/ravya* at Rus
 translates *rivah/riviysa* as *naarah* (Shabbos 127b, Kesubos 62b, Sanhedrin
 109b) but at Sotah 26a
 defines *roveh* as *bachur* and as *yeled*. Rabbi Yaakov Kamenetsky already
-noted some of these inconsistencies; his resolution lies beyond the article's
-scope.
+noted some of these inconsistencies and offered a resolution of his own.
 
 ## Distinctions
 
@@ -134,7 +133,7 @@ Aramaic (see Targum to
 Bereishis 25:27), so a boy or girl is one still growing; *talya* and *talyasa*
 seem to him related to *tleh*, a young goat, the same doubling that gives
 English "kid" both senses, ostensibly because both run around wildly. Targum
-uses *tali/talya* for *yeled* and for *naar* (Megillah 5b; *Dikdukei Sofrim* to
+in some places uses *tali/talya* for *yeled* and for *naar* (Megillah 5b; *Dikdukei Sofrim* to
 Yevamos 114a), and Rashi (to Megillah 5b) likewise defines *tali* as *naar*. On
 the name Avtalyon, the Rashbatz and Bartenura (to *Avos* 1:10) write that it
 alludes to that Sage's role as head of the Sanhedrin: the Gemara (Gittin 36a)

@@ -35,8 +35,8 @@ updated: 2026-09-10
 *Mohel* is the **circumciser**. *Gozer* is the **cutter**, the older title,
 which in a name carries a second sense, halachic decisor. *Rofeh* is a
 **physician** who performs the circumcision, *uman* a **practitioner** or
-bloodletter who does; neither means "circumciser" as such. Rabbi Yissachar
-Tamar's rule sorts them: a man who did only circumcisions was a *mohel*, one who
+bloodletter who does; on Rabbi Yissachar Tamar's reading neither means "circumciser" as such. His
+rule sorts them: a man whose main profession was circumcision alone was a *mohel*, one who
 also bled and healed a *rofeh* or an *uman*.
 
 ## At a glance
@@ -59,17 +59,17 @@ circumcising but a new feature of Rabbinic Hebrew, a point made at length by the
 Maskilic scholar Solomon Dubno (*Tikkun Sofrim* to Bereishis 17:13, printed in
 *Netivos HaShalom* alongside Moses Mendelssohn's *Beiur*), who holds that the
 two roots simply exist in two different strands of the language. (As an aside,
-the article notes that Rabbi Shlomo Pappenheim traces *mal* and *milah* to the
+Rabbi Shlomo Pappenheim traces *mal* and *milah* to the
 biliteral מ-ל but *mahul* to the biliteral ה-ל.) The other approach bridges
 them. Shadal (to Yeshayahu 1:22) observes that in both Arabic and Latin idiom
 one is said to kill, slaughter, wound or cut wine when one waters it, since
 watering cuts its sharpness and potency, and on that thematic affinity he holds
-the roots for cutting and for diluting to be etymologically related, so that the
-post-Biblical *mohel* is after all the agent noun of *milah*; the article adds
-that the German linguist Wilhelm Gesenius and Dr. Alexander Kohut accept this
+the roots for cutting and for diluting to be etymologically related. The German
+linguist Wilhelm Gesenius and Dr. Alexander Kohut accept this
 approach as well. Shadal also brings several Semitic roots in Hebrew and Aramaic
 that are semantically interchangeable, one form with a middle vav and the other
-with a middle hei, though the article judges that none of his examples is that
+with a middle hei; that would make the post-Biblical *mohel* after all the agent
+noun of *milah*, though Rabbi Klein judges that none of Shadal's examples is that
 clear-cut. Both approaches agree on
 what *mohel* means, so the Bottom line need not choose; for a derashah, Shadal's
 reading makes *mohel* a cutter and Dubno's does not.
@@ -100,7 +100,7 @@ Shabbos 156a, where one born under Maadim is destined to shed blood but chooses
 whether that means bloodletter (*umana*), robber, butcher, or circumciser. The
 verb *mohalin* appears in the Mishnah (Shabbos 19:2, 19:5); one Mishnah (19:6)
 uses the shorter *mal*, the Biblical form (Devarim 30:6; Yehoshua 5:4, 5:7), and
-the column says outright that it does not know why that Mishnah uses a
+Rabbi Klein says outright that he does not know why that Mishnah uses a
 different verb.
 
 Alongside the *mahul* of Yeshayahu 1:22, the Mishnah has comparable words for
@@ -120,8 +120,8 @@ renders Tzipporah's *vatichros* (Shemos 4:25) as *ugzeras*; some sources call
 the mitzvah *mitzvasa digzeirasa*, the commandment of cutting (Koheles Rabbah
 3:2). Rabbi David Zacut Modena: he is called *gozer* because his physical action chops down
 the spiritual forces of impurity that otherwise possess the uncircumcised. A *posek* is likewise
-literally a cutter, which is what lets *gozer* mean decisor; the article adds
-that the English *decisor* belongs to the same family as *decision*, *scissor*,
+literally a cutter, which helps explain *gozer* as decisor; and
+the English *decisor* belongs to the same family as *decision*, *scissor*,
 *concise*, *excision*, *precise*, *incision*, *incisors* and *circumcise*, all
 of them cutting words.
 

@@ -37,8 +37,8 @@ root *shoded* (to plunder, taking or using something outside its normal way),
 *sheid* (a demon, which disrupts the natural order), and *shidah/shidos* (Koheles
 2:8), nimble dancers who move like *sheidim*. In Bereishis 49:25 Yaakov blesses
 Yosef with "blessings of *shadayim* and *rechem*," which on a simple reading is
-breasts and womb as symbols of fertility; the column adds that archeologists
-find fertility-goddess idols of the ancient world deliberately exaggerating
+breasts and womb as symbols of fertility; archeologists know
+that many fertility-goddess idols of the ancient world deliberately exaggerated
 those features for the same reason. Others, Rashi among them, tie *shadayim*
 there to Aramaic *shadi*, to shoot or cast, making it the father's contribution
 rather than the mother's. The largest share of the word's appearances are in
@@ -59,8 +59,8 @@ many flavors in the milk, so the man held many tastes; or from *sheid*, which
 shifts its shape and color, as the man shifted its taste. Rashi (to Bamidbar
 11:8) asks what the first reading has to do with oil and inclines to Dunash, who
 renders *l'shad* a loaf. *Sifrei* (Behaaloscha 89) and Tosefta (*Sotah* 4:1)
-expand the nursing comparison: the man was Yisrael's sole sustenance as milk is an
-infant's; nursing all day never harms a baby, and neither did the man; and as a
+expand the nursing comparison: the man was Yisrael's main sustenance as milk is an
+infant's; or, nursing all day never harms a baby, and neither would the man; or, as a
 toddler suffers at weaning, so were Yisrael pained when it ceased.
 
 ### dadim (דדים), dad (דד)
@@ -104,9 +104,9 @@ A hapax: the wicked man dies at ease, "his *atinim* full of milk" (Iyov
 21:23-25). The Ralbag and other commentators read it as breasts, that is, the
 man's stores are full and he need not scavenge. In Modern Hebrew *atinim*
 (singular *atin*) is the udders of a milk-producing animal, or a human nipple.
-The column notes further readings from Biblical scholarship, "pail," "vessel,"
-"trough," "watering place," "side/thigh," even "body," citing David J. A.
-Clines' dictionary of classical Hebrew. Rashi (there) points to the Mishnaic
+Other explanations in Biblical scholarship include "pail," "vessel,"
+"trough," "watering place," "side/thigh," even "body" (see David J. A.
+Clines' dictionary of classical Hebrew). Rashi (there) points to the Mishnaic
 cognate
 *maatan*, the vat in which olives are gathered so that they give off their oil
 (*Maasros* 4:3, *Bava Metzia* 5:7, *Taharos* 9:1 and 9:9), and the act of
@@ -121,7 +121,7 @@ in effort. The udder is never at rest, always filling and being emptied.
 Targum to Iyov 21:24 renders *atinim* *bizoi*, and Rabbi Natan of Rome (*Sefer
 HeAruch*) explains the Rabbis' *bizaya* in "woe to the breasts that nursed this
 one" (Yerushalmi *Kilayim* 1:7, Bereishis Rabbah 5:9) as that same Greek word.
-The column adds that the Greek βυζίου (*byziou*) is a cousin of the English
+The Greek βυζίου (*byziou*) is a cousin of the English
 "bosom," from Proto-Germanic *bosmaz*, both said to go back to the
 Proto-Indo-European root *bhew*-, "swelling," "bending," "curving."
 
@@ -135,7 +135,7 @@ Italian *zizza* and the German *zitze*, both of them the teat of a female
 mammal. Linguists derive those from the theoretical Proto-Germanic *titt*, and
 that from the Proto-Indo-European *tata*, "father," "parent," or "nipple"; Dr.
 Hayim Tawil, in his *An Akkadian Lexical Companion for Biblical Hebrew*, notes
-an Akkadian *zizu* that also means breast, so that, the column says, it is quite
+an Akkadian *zizu* that also means breast, so that, Rabbi Klein says, it is quite
 possible the Indo-European words are cognate with their Semitic counterparts.
 Mitchell First argues that *ziz* refers to any protrusion (see Malbim there),
 which leads him to speculate that this word for a breast, which protrudes from

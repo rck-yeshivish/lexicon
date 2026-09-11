@@ -40,8 +40,8 @@ updated: 2026-09-10
 *Hadar* means **beautiful** or **splendid**; nothing in the word says citron.
 The Torah's *pri eitz hadar* (Vayikra 23:40) is the esrog by Mesorah, and the
 Gemara's derivations are asmachta (Ibn Ezra, Rambam). *Esrog* is the
-**citron**, the Mishnaic and Targumic name. *Tapuach* is an **apple**, and only
-in Shir HaShirim 2:3 does Rabbeinu Tam read it as a citron.
+**citron**, the Mishnaic and Targumic name. *Tapuach* is an **apple**, though
+in Shir HaShirim 2:3 Rabbeinu Tam reads it as a citron (whether there alone or generally is unclear).
 
 ## At a glance
 
@@ -57,9 +57,9 @@ in Shir HaShirim 2:3 does Rabbeinu Tam read it as a citron.
 
 **How hadar comes to mean the citron.** Chazal (Sukkah 35a, Yerushalmi Sukkah
 3:5, Sifra to Vayikra 23:40) give four routes: *hadar* modifies fruit and tree
-alike, so the fruit must taste like its wood, as the citron's does; *hadar*
+alike, so the fruit must taste like its wood, as the citron's somehow does; *hadar*
 from *dir*, a corral, since a corral holds animals of every size and the citron
-tree carries blossoms and full-grown fruit at once; *ha-dar*, "the one that
+tree often carries blossoms and full-grown fruit at once; *ha-dar*, "the one that
 dwells," the citron staying on its tree from year to year; and *hadar* from the
 Greek for water, the citron needing much watering. The Midrash (*Vayikra Rabbah*
 30:15, *Tanchuma Emor* 20) relates that Shlomo HaMelech, for all his wisdom,
@@ -83,13 +83,13 @@ of *arag* and *ragig*, so that *esrog* is rightly "the desirable fruit"; since
 hadar* must be the esrog. He goes so far as to say that *hadar* is simply the
 Hebrew for what Aramaic calls *esrog*, the two being wholly synonymous. Parts of
 this are taken up by the Ra'ah, the Ritva, the Meiri, Rabbeinu
-Bachya, the Tashbetz, and Rabbi Moshe Mintz. Parenthetically, the article notes
-that Rabbi Shlomo Pappenheim and Rabbi Aharon Marcus trace various Hebrew words
+Bachya, the Tashbetz, and Rabbi Moshe Mintz. Parenthetically,
+Rabbi Shlomo Pappenheim and Rabbi Aharon Marcus trace various Hebrew words
 to a core biliteral ר-ג (ravishing, subduing, cancelling) without ever thinking
 to connect the Mishnaic *esrog* to it.
 
 **The gematria route.** The Baal HaTurim (to Vayikra 23:40): *pri eitz hadar*
-and *esrogim* match in gematria (the column gives 659 and 660, so the match
+and *esrogim* match in gematria (659 and 660 respectively, so the match
 needs the kollel); Rabbi Meir Mazuz: *trung* likewise comes to 659.
 
 ## Distinctions
@@ -104,16 +104,16 @@ is the one called Buddha's Hand, for its finger-like shape); the Chazon Ish
 discusses whether halachah treats all of these as related to one another for the
 prohibition of intermixing species.
 
-The article calls archaeology the best outside confirmation of the citron
+Rabbi Klein calls archaeology the best outside confirmation of the citron
 identification: at the Royal Garden in Ramat Rachel, in southern Yerushalayim,
 analysis of fossilized pollen proved that citron trees already grew in Eretz
 Yisrael under Persian rule, that is, during the Babylonian exile and the early
 decades of the second Beis HaMikdash. Dr. Zohar Amar of Bar Ilan clarifies that
 the want of evidence for citrons before the Persian period does not prove that
 they were only imported then, since archaeobotany is too sporadic to give a full
-picture of the land's flora. The article adds that by one Tannaic opinion the
+picture of the land's flora. By one Tannaic opinion the
 forbidden fruit of the Eitz HaDaas was a citron (*Bereishis Rabbah* 15:7,
-Berachos 40a), and that Rabbi David Kochavi of Estelle (Provence, 1300s) infers
+Berachos 40a), and Rabbi David Kochavi of Estelle (Provence, 1300s) infers
 from "the woman saw that the tree was good for eating, and that it was enticing
 to the eyes" (Bereishis 3:6) that the fruit only looks as though it tastes good
 while in fact it has very little flesh, which fits the citron.
@@ -129,33 +129,33 @@ do or *esroga* as ordinary people do.
 
 All of those sources spell the word with a tav, whence the Ashkenazi *esrog*,
 but the Peshitta (to Vayikra 23:40), the Syriac translation of Tanach, spells it
-with a tet. The column suggests that this variant may indicate that *esrog* and
+with a tet. Rabbi Klein suggests that this variant may indicate that *esrog* and
 its relatives are not native Hebrew words, or else that the Peshitta's authors
-did not know how to spell it. On the origins, it reports the linguist Dr.
-Michael Sokoloff of Bar Ilan, who takes all these variants to be related to the
+did not know how to spell it. On the origins, the linguist Dr.
+Michael Sokoloff of Bar Ilan takes all these variants to be related to the
 Modern Persian *turunj/toranj* and the Middle Persian *wadrang*, which in turn
 seem related to the Sanskrit *narangam*, orange, though the actual Sanskrit for
 citron is *matulunga*; *narangam* begat the Persian and Arabic *naranj*, the
 etymon of the Spanish *naranja*, the Portuguese *laranja* and the English and
 French *orange*, and seemingly of the Spanish *toronja*, grapefruit. As to how
-*naranj* became *orange* in English, the article gives three theories: confusion
+*naranj* became *orange* in English, there are three main theories: confusion
 with the place-name Orange, a town in Provence; a misdivision, whereby the
 opening n of *norange* was taken for part of the article ("an orange") and
 dropped; and influence from the French *or*, gold, from the Latin *aurum*, for
 the fruit's golden color. The color-word followed the fruit, and the House of
-Orange then took that color for its coat of arms. The columnist adds that he had
-once thought *tangerine* a metathesis of *orange*, since the consonants match,
+Orange then took that color for its coat of arms. Rabbi Klein adds that he had
+once thought *tangerine* a metathesis of *orange*, since the consonants mostly match,
 but found on looking into it that the name comes from the Moroccan port of
-Tangier, from which that variety was imported. He notes further that Josephus
+Tangier, from which that variety was often imported. Josephus
 (*Antiquities* XVII 10:7; *The War of the Jews* II 4:3) mentions one
-Athronges/Athrongeus, a leader of the revolt against Rome, and that Dr.
+Athronges/Athrongeus, a leader of the revolt against Rome, and Dr.
 Alexander Kohut sees that personal name as related to the Hebrew and Aramaic
 name of the citron.
 
 ### tapuach (תפוח)
 Shir HaShirim 2:3 likens Klal Yisrael among the nations to a lone *tapuach* in
 a forest, and Rabbeinu Tam reads *tapuach* there as the citron (Tosafos to
-Shabbos 88a and Taanis 29b). The article offers a guess of its own, that
+Shabbos 88a and Taanis 29b). Rabbi Klein offers a guess of his own, that
 Rabbeinu Tam may somehow have connected this to the Old French of his time and
 place, in which the word for an orange was *pomme d'orenge*, the apple of the
 orange. Whether he means every *tapuach* in Tanach or only

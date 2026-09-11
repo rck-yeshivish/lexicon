@@ -38,10 +38,10 @@ without a traceable etymology behind them. A
 *cow* is a mature female that has calved and so gives milk, though colloquially
 "cow" covers any bovine at all. On the male side English marks the gelded off
 from the fertile, the young from the old, and the beast bred for food from the
-beast bred for work: a *bull* keeps its testicles and is used for breeding; one
+beast bred for work: a *bull* keeps its testicles and is typically used for breeding; one
 castrated young and raised for beef is a *steer* or *bullock*, one castrated
 older a *stag*; an older castrated beast used for draft work is an *ox*, though
-"ox" too is used loosely for any bovine trained to draw.
+"ox" too is sometimes used loosely for any bovine trained to draw.
 
 ### the five names
 Rabbi Eliezer HaKallir's *piyut* for the second day of Pesach uses five Hebrew
@@ -52,7 +52,7 @@ ox and then slaughters or sells it pays five times its value (Shemos 21:37).
 ### egel (עגל) and eglah (עגלה)
 The calf, still nursing. English "calf" serves both sexes; Hebrew has *egel* for
 the male and *eglah* for the female. Rabbi Zalman Hanau (*Tzohar HaTeivah*):
-*egel* from *igul*, a circle, since young calves are round and pudgy. The Mishnah
+*egel* from *igul*, a circle, since young calves tend to be round and pudgy. The Mishnah
 (Parah 1:1) fixes when the name changes: Rabbi Eliezer holds it is an *eglah*
 through its first year and a *parah* thereafter; the Chachamim hold it stays an
 *eglah* through its second year as well.
@@ -73,7 +73,7 @@ only later. Radak (to Tehillim 69:32): a *shor* is big and a *par* is small,
 though he does not say whether he means in age or in build.
 
 ### shor (שור)
-Rabbi Shlomo Pappenheim: from the biliteral shin-reish, borrowed from *shor* or
+Rabbi Shlomo Pappenheim: from the biliteral shin-reish, borrowed from *shar* or
 *sharir*, the umbilical cord (Yechezkel 16:4; Mishlei 3:8; Iyov 40:16). As the
 cord at the child's navel joins him to his mother and carries all his growth, so
 the ox holds the core of its strength in its belly. In Aramaic the shin becomes a
@@ -94,7 +94,7 @@ hold over those under him is an *aluf*, and the number one must command to earn
 that title is an *elef*, a thousand; an *aleph* is on that reckoning the
 strongest sort of ox. The Vilna Gaon (to Mishlei 14:4) instead connects *aleph*
 to the Aramaic *yalif*, to learn, though his account of how *aleph* differs from
-*shor* is involved and the column does not reproduce it.
+*shor* is involved.
 
 ### bakar (בקר)
 The collective, cattle. Radak (*Sefer HaShorashim*): the root ב-ק-ר means
@@ -103,10 +103,10 @@ comes and one can begin to discern; *bikur cholim* likewise is not merely
 visiting but finding out how the sick man is and what can be done for him. Rabbi
 Yehoshua Steinberg: *bakar* is domesticated cattle precisely because such animals
 need watching, supervision and defense from marauders, and that is the work of
-the *boker* or *voker*, which the column glosses "cowboy" (Amos 7:14), who must
+the *boker* or *voker*, which Rabbi Klein glosses "cowboy" (Amos 7:14), who must
 also seek out greener pasture for them. Some have claimed the English slang
-*buckaroo*, a cowboy, comes from that same *boker*/*voker*; but most linguists,
-the column reports, agree it derives from the Spanish *vaquero*, from *vaca*,
+*buckaroo*, a cowboy, comes from that same *boker*/*voker*; but most linguists
+agree it derives from the Spanish *vaquero*, from *vaca*,
 "cow." Dr. Julian Mason, of the University of North Carolina, argued instead
 that *buckaroo* comes from Gullah, the Creole spoken by African-Americans in
 coastal South Carolina and Georgia, in which *buckra* means "white man."

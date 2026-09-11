@@ -41,11 +41,11 @@ root also means to limit: Hashem tells Moshe to bound the people off
 (*v'higbalta*) around Har Sinai (Shemos 19:12; *HaKtav VeHaKabbalah* there).
 
 Rav Hirsch (to Shemos 7:27) makes the key point: *gevul* at its core is the
-area within the borders, not the edge. Hashem strikes Pharaoh's whole *gevul*
+area within the borders, not just the edge. Hashem strikes Pharaoh's whole *gevul*
 with frogs (Shemos 7:27) and brings locusts into his *gevul* (Shemos 10:4);
 chametz is forbidden "in all your borders" (Shemos 13:7). The frogs are not
 confined to Egypt's edges but fill the whole country, and the last two cases
-likewise take in a whole country rather than the border region (see *Yerios
+likewise take in a whole country, not just the border region (see *Yerios
 Shlomo* p. 836 and *HaKtav VeHaKabbalah* to Shemos 13:7). Rav Hirsch links
 *gevul* to *yevul*, produce, what one brings inside one's bounds, on the
 gimmel/yod interchange.
@@ -62,15 +62,15 @@ Hebrew the same root means to knead and mix (*Ohalos* 2:2, *Shabbos* 24:3,
 that the border separating one land from another is what unites that land as
 one; *HaKtav VeHaKabbalah* (to Shemos 19:12) answers that a *gevul* is the
 point of convergence, where one domain ends the other begins, so that it both
-separates and merges. The article adds a third possibility of its own: Hebrew
+separates and merges. Rabbi Reuven Chaim Klein adds a third possibility of his own: Hebrew
 roots not uncommonly carry a sense and its opposite, *shoresh* (root) beside
 *l'sharesh* (to uproot), since a word stands in for the abstract concept it
 represents, and opposites are conceptually related, inversely.
 
-Outside the parshanut, the column notes that philologists such as Wilhelm
+Outside the parshanut, philologists such as Wilhelm
 Gesenius have long taken *gevul* as cognate with the Arabic *jabal*,
 "mountain," mountains serving as natural borders between two polities or even
-between two plains. The column adds that the Yemenite Jewish surname
+between two plains. The Yemenite Jewish surname
 Jibli/Gibli, from that Arabic word, is the equivalent of the Hebrew surname
 Harari and the Yiddish/German Berg, all of them meaning "mountain."
 
@@ -85,9 +85,9 @@ sees as borrowed from the Akkadian *tahumu*. Rabbi Benzion Chaim Lubetzki
 (*Midrash Safah Echas*) reads it as a
 metathesis of *chasum*, "sealed," the space inside being sealed off by what
 rings it. Rabbi Golumb sets the tav aside and takes the core root as ח-ו-ם,
-"brown/red," again from the fortifying a frontier needs; the article records
-the derivation without being able to reconstruct how he gets from the color to
-the border.
+"brown/red," again from the fortifying a frontier needs; Rabbi Reuven Chaim Klein records
+the derivation without being able to reconstruct how Rabbi Golumb gets from the
+color to the border.
 
 ### meitzar (מיצר) and mitzarim (מצרים)
 Rabbi Yehuda Ibn Kuraish (*Risala*) identifies *mitzarim* in Eichah 1:3 as the
@@ -96,8 +96,8 @@ neighbor's right of first refusal on an adjoining field (Kesubos 44a). He notes
 that this is not the Biblical *meitzar* of "from the straits I called out to
 Hashem" (Tehillim 118:5), which belongs to *tzar*, narrowness, and denotes
 something slightly different. Some commentators, among them Ibn Ezra (to Eichah
-1:3) and Rabbi Shlomo Pappenheim (*Cheshek Shlomo*), do connect the two. The
-article suggests the connection can be accounted for thematically: a border
+1:3) and Rabbi Shlomo Pappenheim (*Cheshek Shlomo*), do connect the two. Rabbi
+Reuven Chaim Klein suggests the connection can be accounted for thematically: a border
 serves to narrow down the contours of a given plot.
 
 Rashi to Eichah 1:3, following *Eichah Rabbah* 1:29, reads *bein hametzarim* as
@@ -124,7 +124,7 @@ HaKedem, and Targum Onkelos renders with *sfar*. On that basis Rabbi
 Mecklenburg (*HaKtav VeHaKabbalah* to Vayikra 23:16; *Iyun Tefillah* to
 Tehillim 147:5) calls it the only instance of *sfar* in Biblical Hebrew, though
 most other commentators appear to take *sefarah* there as a place name. The
-etymology is not clear; Rabbi Golumb conjectures that *sfar* comes from
+etymology is not immediately clear; Rabbi Golumb conjectures that *sfar* comes from
 *perazi*, used of a city-wall fortification, by samech/zayin interchange and
 metathesis, border cities having been especially fortified. Ramak (*Pardes Rimonim*, shaar 8 ch. 2) uses *sfar* to explain
 *sefirah*: as a border marks off the limits of an area, a *sefirah* is Hashem's

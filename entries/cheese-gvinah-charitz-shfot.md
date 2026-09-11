@@ -19,8 +19,8 @@ updated: 2026-09-10
 (*charitzei hechalav*, Shmuel I 17:18) and *shfot* (*shfot bakar*, Shmuel II
 17:29) each occur once, and Targum Yonasan renders both as *guvnin d'chalva*,
 cheese; but each is disputed, *charitz* possibly meaning unweaned kids or milk
-still in the udder, *shfot* possibly the udders themselves or butter. The
-halachic weight of Bechoros 6b rests on which reading is right.
+still in the udder, *shfot* possibly the udders themselves or butter. On Rabbi Avraham Maskileison's reading, that dispute is why
+Bechoros 6b cites the *charitz* pasuk only as a possible proof.
 
 ## Distinctions
 
@@ -69,7 +69,7 @@ object from its owner, the moisture from the substance, liquid from curds.
 Derashos, and the question of why dairy is eaten on Shavuos: Rabbi
 Shimshon of Ostropoli connects it to *Har Gavnunim*,
 an alternate name for Sinai (Tehillim 68:16-17), from *gvinah*. *Shemos Rabbah*
-2:4, which the column reads as assuming the name relates somehow to *gnivah* and
+2:4, which assumes the name relates somehow to *gnivah* and
 to cheese-making, expounds it on the model of cheese, which draws the purest
 curds off
 from the dross: of all the mountains Hashem chose the one clean and pure of
@@ -103,7 +103,7 @@ cheese of fermented milk with a tangy flavor.
 
 Against all of these, *Midrash Shmuel* 20:4 takes *charitzei hechalav* not as
 cheese but as young kids, either not yet weaned (*Mahari Cohen*, *Eitz Yosef*,
-Radal) or just weaned (*Yefeh Nof*), a delicacy. Both further derivations are
+Radal) or just weaned (*Yefeh Nof*), apparently a delicacy. Both further derivations are
 put conditionally: Radal writes that *if* the phrase means animals still
 nursing, then *charitz* comes from *charutz*, diligent, someone quick to take
 them from their mothers while still young and tender; and Rabbi
@@ -137,7 +137,7 @@ mentions a place in Yerushalayim called the Tyropoeon, the Valley of the
 Cheesemakers, which some scholars have identified with Shaar HaAshpah, on the
 strength of that link between *ashpah* and *shfot*.
 Dissenting: Ibn Janach again offers milk in the udder; Radak the udders
-themselves; Rabbi Avraham ben Shlomo butter, which is hard, since *chemah* is
+themselves; Rabbi Avraham ben Shlomo butter, which Rabbi Klein finds difficult, since *chemah* is
 already named in the pasuk. See *Chasam Sofer* 6:22 on why Bechoros 6b did not
 bring this pasuk as its proof.
 

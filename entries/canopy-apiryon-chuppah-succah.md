@@ -18,23 +18,23 @@ updated: 2026-09-10
 *Succah* is a **booth**, named for its *sechach*, and the word carries the sense
 of shelter, a covering that protects from what is above. *Chuppah* is a
 **canopy**, from *chofeh*, to cover; it says only that the thing is covered on
-top, with nothing about protection. *Apiryon* the column takes to be more than a
+top, with nothing about protection. *Apiryon* Rabbi Klein takes to be more than a
 canopy: the Mishnah suggests a **mobile enclosure** a woman travels inside, and
 on the reading of those who tie the word to the Sanskrit *paryanka* it is a
 **palanquin**, a covered litter carried on poles. On that reading, the
 mefarshim who gloss *apiryon* as a *chuppah* are stating
 its halachic function at Amram and Yocheved's remarriage, not equating the two
-words. The column's working premise throughout is that no two words in Hebrew
+words. Rabbi Klein's working premise is that no two words in Hebrew
 mean exactly the same thing, so a difference must be found.
 
 ## Distinctions
 
 ### succah (סוכה)
 Rashi (to *Succah* 2a): what defines a *succah* is its *sechach*, the covering
-above; a *succah* is a booth whose shade comes from what is overhead. Rabbi Tzvi
+above; a *succah* is a booth whose main shade comes from what is overhead. Rabbi Tzvi
 Mordechai Libber of Milwaukee draws the distinction from a second Rashi (to
 Shemos 35:12), where *sechach* is a protective covering: *succah* names a
-structure whose purpose is to shield a man from what is above him.
+structure whose main purpose is to shield a man from what is above him.
 
 ### chuppah (חופה)
 From the verb *chofeh* or *mechapeh*, to cover, used both physically (a cloth
@@ -54,10 +54,10 @@ Parenzo (1500 to 1575, in his glosses in the 1566 Venice *Yalkut Shimoni*,
 Shemos §165) and the Maharsha both gloss *apiryon* as a *chuppah*.
 
 Against reading them as simple synonyms stands the Mishnah (*Sotah* 9:14): in
-the Hadrianic persecutions of the second century the Chachamim decreed that a
+the Hadrianic persecutions of about the second century the Chachamim decreed that a
 kallah not travel through
 the city inside an *apiryon*, and later rescinded that ruling for reasons of
-tznius. This passage, the column says, suggests that an *apiryon* is not simply
+tznius. This passage, Rabbi Klein says, suggests that an *apiryon* is not simply
 a canopy but a mobile enclosure a woman may travel in.
 
 Some argue that *apiryon* is related to the Sanskrit *paryanka*, English

@@ -32,14 +32,14 @@ bread in Rabbinic usage. *Rifta* and *nahamah* are the Aramaic words for bread.
 
 ### lechem (לחם)
 Root ל-ח-ם. That *lechem* means bread may not be its literal sense at all but
-only a colloquialism: the article reports hearing from Rabbi Dr. Guy Matalon
+only a colloquialism: Rabbi Dr. Guy Matalon explains
 that *lechem* denotes the staple food of a society, which takes on different
 meanings by society. Among Klal Yisrael bread is the staple, so *lechem* is
 bread; in Arabic culture the staple is meat, so *lahm* is meat. On that reading,
-the column adds, historians cannot settle the original meaning of Beis Lechem
+Rabbi Klein adds, historians cannot settle the original meaning of Beis Lechem
 (Bethlehem), which could be read "House of Bread" or "House of Meat." The same root
 gives *lochem*, to
-wage war, and *milchamah*; wars were fought over the food supply, and the root
+wage war, and *milchamah*; wars were often fought over the food supply, and the root
 also carries soldering or pressing things together, which fits both bread, whose
 parts are fused in baking, and combatants closing with each other on a
 battlefield. At Bamidbar 21:5 the Manna is called *lechem haklokel*, the
@@ -72,17 +72,16 @@ sometimes (Onkelos to Shemos 29:23).
 
 ### rifta (ריפתא) and nahamah (נהמא)
 Both Aramaic words for bread in the Gemara; *nahamah* also runs through the
-Zohar. Of *nahamah* the column reports that some linguists claim it is probably
-borrowed from the Persian *nan*, "bread." *Rifta* it calls apparently related to
-the Arabic *raghif*, a flat loaf; linguists, it reports, hold that *rifta* was
+Zohar. Some linguists claim that *nahamah* is probably
+borrowed from the Persian *nan*, "bread." *Rifta* is apparently related to
+the Arabic *raghif*, a flat loaf; linguists claim that *rifta* was
 originally written with a tzadi, tying its root to *retzef*/*ritzpah*, a floor,
 which is likewise flat, the tzadi in Aramaic having morphed into an ayin that
 was then dropped. In Tanach *rifos* are pounded or softened grain (Shmuel II
 17:19, Mishlei 27:22). Rabbi Nosson of Rome (*Sefer HeAruch*) explains Talmudic
-*rifta* as a meal of two identical loaves; the column adds that these probably
+*rifta* as a meal of two identical loaves; Rabbi Klein adds that these probably
 had some other food in the middle, an early form of what we call a sandwich,
-and notes in passing the tradition crediting the sandwich to John Montagu, the
-fourth Earl of Sandwich.
+a food supposedly invented by John Montagu, the fourth Earl of Sandwich.
 
 ## Rendering guidance
 

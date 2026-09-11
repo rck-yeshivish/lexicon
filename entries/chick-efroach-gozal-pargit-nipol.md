@@ -19,8 +19,8 @@ updated: 2026-09-10
 "flowered" out of its egg. *Gozal* is a **fledgling**, primarily a young dove
 but extended to any young bird; where the two are contrasted (Rabbi Yaakov
 Kamenetsky, Rabbi Shmuel Ashkenazi) the *efroach* is the younger, still tied to
-its mother, and the *gozal* the older, already able to fly. *Pargit* is a
-Rabbinic word for a **young chicken**. *Nipol* is a **fallen nestling**, defined
+its mother, and the *gozal* the older, already able to fly in some limited way. *Pargit* is a
+Rabbinic word for a **young chicken**. *Nipol* is, per Rabbeinu Gershom and Rambam, a **fallen nestling**, defined
 by the halachic case, not the species. The whole point of a passage may be
 which stage is meant.
 
@@ -54,10 +54,10 @@ HaShorashim*): *gozal* primarily means a young dove, but the sense widened to
 any young bird, which is how it can be a young eagle at Devarim 32:11. Rabbi
 Yehonasan HaKohen of Lunel: in Biblical Hebrew *gozal* is simply a dove, as
 *yonah* is, while *efroach* is a young bird of no particular species; in
-Rabbinic Hebrew *gozal* shifted slightly, to a young dove specifically. The
-article observes that his account leaves the eagle verse out of the reckoning,
-and guesses that he may have taken that usage as merely borrowed rather than as
-a real shift in the word's sense. It adds the further observation that *gozal*,
+Rabbinic Hebrew *gozal* shifted slightly, to a young dove specifically. Rabbi
+Reuven Chaim Klein observes that Rabbi Yehonasan's account leaves the eagle verse out of the reckoning,
+and guesses that Rabbi Yehonasan may have taken that usage as merely borrowed rather than as
+a real shift in the word's sense. Rabbi Klein adds the further observation that *gozal*,
 on this showing, carries both "dove" and "stealing," much as *yonah* is
 explained by some as tied to *ona'ah*, cheating or verbal abuse. On the tie to theft, Rabbi
 Yehuda Aryeh Leib of Carpentras: this dove steals from other people's fields.
@@ -96,13 +96,13 @@ Rome (*Sefer HeAruch*) ties it to the Arabic *fyruj*; Rabbi Ernest Klein traces
 it instead to the Greek *pterix*, a wing or winged creature, which he takes back
 in turn to the Proto-Indo-European root *pet-*, to fly, the source also of the
 English *feather*, *fetter*, *partridge*, *pterodactyl* and *helicopter*. In
-Modern Hebrew it has drifted to
-mean cuts of chicken meat, which is not the Rabbinic sense.
+Modern Hebrew it often refers to
+cuts of chicken meat, which is not the Rabbinic sense.
 
 ### nipol (ניפול)
 From the Mishnah at *Bava Basra* 2:6 (see 23b): a young bird found near a
 dovecote, which the finder may keep if it was more than fifty *amos* away.
-Rashi glosses *nipol* as a *gozal*, though the article cautions that this does
+Rashi glosses *nipol* as a *gozal*, though Rabbi Reuven Chaim Klein cautions that this does
 not make the two terms synonymous. The Mainz commentary ascribed to
 Rabbeinu Gershom, and Rambam in his commentary to the Mishnah, define it as a
 bird that *fell* from its cote, cognate with *nofel*; some vocalize it

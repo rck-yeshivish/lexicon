@@ -17,16 +17,16 @@ updated: 2026-09-10
 
 Both are rabbinic; neither is biblical, and Biblical Hebrew has no plain verb
 for chewing at all (*maaleh geirah* means brings up the cud, not chews it).
-*Koses* is to **chew** in the sense of gnawing something raw or eating it in
-an unusual way, and *lo'es* is to **chew** in the ordinary sense of working food
-before swallowing. Rashi flatly equates them (*lo'es* means *koses*). The
-article's own suggestion is that perhaps no semantic difference is called for at
+*Koses* is to **chew**, on Rashi's definitions, in the sense of gnawing something raw or eating it in
+an unusual way, and *lo'es*, on Rabbi Meir Mazuz's reading, is to **chew** in the ordinary sense of working food
+before swallowing. Rashi flatly equates them (*lo'es* means *koses*). Rabbi
+Reuven Chaim Klein's own suggestion is that perhaps no semantic difference is called for at
 all, since the two seem to come from different languages. Where a passage
-turns on the word choice, the column sets out two readings of the difference
-that pull against each other and resolves neither: Rabbi Meir Mazuz has
+turns on the word choice, members of the Mazuz family seem to presume a difference:
+Rabbi Meir Mazuz has
 *le'isah* typically implying chewing toward swallowing while *kesisah* does not
 necessarily carry that implication, and Rabbi Yitzchak Barda has *kesisah* the
-more enjoying chew and *le'isah* the more workaday one. The article grants that
+more enjoying chew and *le'isah* the more workaday one. Rabbi Klein grants that
 the difference the Mazuz family presumes is hard to substantiate, and hard even
 to state exactly.
 
@@ -44,8 +44,8 @@ chewing dry pepper or ginger on Yom Kippur, which Rava holds is not biblically
 Rashi gives two definitions. To Megillah 7b, Kesubos 77a, Berachos 36b, Yoma
 81a and Chullin 15a: *kesisah* is eating in any abnormal or non-standard way.
 (Maharsha to Megillah 7b suggests the plate there may simply have been edible.)
-To Beitzah 26b: whatever can be eaten raw, eating it raw is *koses*. The
-article calls this second one a slightly different definition and leaves it at
+To Beitzah 26b: whatever can be eaten raw, eating it raw is *koses*. Rabbi
+Klein calls this second one a slightly different definition and leaves it at
 that; the two arguably pull the same way, since raw is the unusual way, but
 that reconciliation is ours.
 
@@ -75,19 +75,19 @@ off first. The verb *l'kaskes* in Mishnah *Niddah* 9:7 is vigorous rubbing in
 laundering, which perhaps resembles chewing in its consistent forceful
 movement.
 
-Beyond the Hebrew, the column reports comparative material. Rabbi Ernest Klein
-(no relation to the columnist) traces *kesisah/koses* back to the Akkadian
+Rabbi Ernest Klein
+(no relation to Rabbi Reuven Chaim Klein) traces *kesisah/koses* back to the Akkadian
 *kasasu* (cutting into pieces) and *kissatu* (fodder), and holds them related to
-an Arabic cognate meaning pounding, grinding or pulverizing. The column also
-notes the French *couscous* (from the Arabic *kuskus*), a food of small bits of
+an Arabic cognate meaning pounding, grinding or pulverizing. Rabbi Reuven Chaim Klein
+takes the French *couscous* (from the Arabic *kuskus*), a food of small bits of
 pounded grain, as cognate with *koses*, since it describes chopped grains that
-look as though they were pre-chewed; but it rules out any connection to the
+look as though they were pre-chewed; but he rules out any connection to the
 English *kasha* (buckwheat), which came by way of Yiddish from the Slavic
 languages, where it meant groats, cereal or porridge and not buckwheat in
 particular. The philologist Samuel Krauss links כ-ס-ס to ע-ס-ס (*assisi*,
 juicy), possibly because chewing a food releases its inner juices and lets one
-taste its flavors. And the column records having seen it claimed by one Dr. A.
-Weiss (in YU's rabbinic journal *Chorev*, 1943, vol. 7, p. 55) that the *kos* of
+taste its flavors. And one Dr. A.
+Weiss (in YU's rabbinic journal *Chorev*, 1943, vol. 7, p. 55) claims that the *kos* of
 the rabbinic *kos shel akarin*, a contraceptive draught, is not *kos* in the
 sense of cup at all but a cognate of *koses*, the ingredients having been cut or
 chopped into small bits and mixed together.
@@ -117,13 +117,13 @@ Avi Kobernick (*Hipuch Otiyos*) offers a speculative metathesis of ס-ל-ע, roc
 a *sela* is what will not break down, and *lo'es* is precisely breaking down.
 
 ### Are they synonyms?
-The article's own suggestion is that perhaps the two need no semantic
+Rabbi Reuven Chaim Klein's own suggestion is that perhaps the two need no semantic
 difference at all, since they appear to be of different origins: *koses* seems
 to be a native Hebrew word, *lo'es* seems to be a loanword from Aramaic, so
 their overlap would not be superfluity.
 
 Members of the Mazuz family of Tunisia seem to presume a real difference,
-though the article grants that it is hard to substantiate and hard even to say
+though Rabbi Klein grants that it is hard to substantiate and hard even to say
 exactly what it means. Rabbi Matzliach Mazuz (*Ish Matzliach* vol. 2, *Orach
 Chaim* 47), discussing at length whether *pilpel* is the common pepper, black
 pepper, or both, raises how the use of *kas* rather than *lo'es* for chewing
@@ -138,11 +138,11 @@ permits *lo'es* of cinnamon sticks and other unpulverized spices on a fast day
 other than Yom Kippur, to wet the throat, provided one spits it out, while his
 source, the Ravyah (*Hilchos Taanis* 861), writes *lachus*; he explains
 *kesisah* as the chewing with more enjoyment of the spices' sweet juices than
-*le'isah* implies. The article glosses that as *kesisah* connoting forceful or
+*le'isah* implies. Rabbi Klein glosses that as *kesisah* possibly connoting forceful or
 even indulgent mastication and *le'isah* leaning toward a more utilitarian
-chewing, but that gloss is its own reading of him. Note that this runs against Rabbi Meir Mazuz's line, which
-attaches the eating-toward-swallowing sense to *le'isah*; the article records
-both without resolving them.
+chewing, but that gloss is his own paraphrase of Rabbi Barda. That this runs against Rabbi Meir Mazuz's line, which
+attaches the eating-toward-swallowing sense to *le'isah*, is our observation; Rabbi Klein
+presents both as evidence of one presumption and does not weigh them against each other.
 
 ## Rendering guidance
 

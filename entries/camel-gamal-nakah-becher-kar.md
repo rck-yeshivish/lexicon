@@ -39,7 +39,7 @@ updated: 2026-09-10
 These are not synonyms but stages and kinds. *Becher* (masculine) and *bichrah*
 (feminine) are the **young camel**, newly born and not yet able to carry loads;
 grown, it becomes *gamal* for a male and *nakah* for a female (Rabbi Nosson of
-Rome, *Sefer HeAruch*). *Gamal* is the default word and covers females too when
+Rome, *Sefer HeAruch*). *Gamal* is the default word and can cover females too when
 no distinction is being drawn; Tanach marks a she-camel by the phrase *gemalim
 meinikos*, nursing camels (Bereishis 32:16). *Kar* and *kirkaros* are contested,
 and not every view takes either of them as a camel.
@@ -61,12 +61,12 @@ there, and Ibn Janach and Radak in their *Sifrei HaShorashim*, read it as ב-כ-
 young camels, *becher* in the absolute. Rabbi Saadia Gaon (in his Tafsir) and
 Ibn Ezra read the beis as the preposition "with" or "through," leaving *kar*.
 Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*) explicitly refuses any connection
-between *bichrah* and the *kar hagamal* of Bereishis 31:34. The column leaves
+between *bichrah* and the *kar hagamal* of Bereishis 31:34. Rabbi Reuven Chaim Klein leaves
 the dispute standing; the Bottom line above follows the first camp, which is
-ours, not the column's ruling. Rabbi Ernest Klein holds *becher* cognate with
+ours, not his ruling. Rabbi Ernest Klein holds *becher* cognate with
 the Arabic *bakuru* and the Akkadian *bakru*, both of them a young camel.
 
-**What kar means.** Ibn Ezra himself gives two answers in two places. To
+**What kar means.** Ibn Ezra himself appears to give two answers in two places. To
 Yeshayahu 16:1 it is a kind of camel that runs very fast; Rabbi Yehuda Ibn
 Balaam links this to the Gemara's *gamla parcha*, the "flying camel" (Yevamos
 116a, Sanhedrin 107b). To Bereishis 31:34, where Rachel hides Lavan's terafim in
@@ -95,19 +95,20 @@ Shmuel I 1:23, Yeshayahu 28:9, Hoshea 1:8), a ripened fruit the tree has
 finished feeding (Bamidbar 17:23, Yeshayahu 18:5), a debt repaid and so brought
 to its conclusion (Tehillim 7:5, Shmuel I 24:18, Mishlei 31:12, Tehillim 13:6,
 116:12); and he suggests that perhaps the camel too, having filled its hump with
-water and needing none for a long while, seems "weaned" from drinking. The
-column adds, as its own, that Rav Hirsch does not say so but that these
+water and needing none for a long while, seems "weaned" from drinking. Rabbi
+Reuven Chaim Klein adds, as his own, that Rav Hirsch does not say so but that these
 explanations may support tying ג-מ-ל to ג-מ-ר, *gamar*, "finishing," on the
 lammed/reish interchange: a toddler or a fruit is weaned only on completing its
-term of growth, a debt is repaid only when the loan reaches maturity (see Bava
-Basra 5b), and a camel functions in the desert once it has finished drinking.
-Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) prefers a compound: *gav*
+term of growth, a debt is typically repaid only when the loan reaches maturity (see Bava
+Basra 5b), and perhaps the camel too, which functions in the desert once it has finished drinking.
+Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) offers several etymologies; the
+best, to Rabbi Klein, is a compound: *gav*
 (body, inside) plus *maleh* (full), the beast that fills itself before a long
-crossing. He offers three the column finds less compelling, from *gamad* (a
+crossing. Rabbi Klein finds the other three less compelling: from *gamad* (a
 dwarf, the
-camel's opposite), from *gav* plus *mal* (the column notes it is unclear whether
-he means "cut" or "speaking"), and from *giben* (humpbacked) on the
-interchange of mem with beis and lamed with nun. He also connects *gamal* to
+camel's opposite), from *gav* plus *mal* (he notes it is unclear whether
+*Aholei Yehudah* means "cut" or "speaking"), and from *giben* (humpbacked) on the
+interchange of mem with beis and lamed with nun. *Aholei Yehudah* also connects *gamal* to
 *gomel*, repaying, on the strength of Chazal's teaching that camels are modest
 in mating and will not couple before others (Rashi to Bereishis 32:16,
 *Bereishis Rabbah* 76:7): the camel behaves as though it knows Hashem repays
@@ -122,7 +123,7 @@ Tanach by Even-Shoshan's concordance. Three men in Tanach carry the root in thei
 names, Gamliel (Bamidbar 1:10, 2:20, 7:54, 7:59, 10:12), Gemali (Bamidbar
 13:12), and Gamul (Divrei
 HaYamim I 24:17), and Gamla appears in the Mishnah (Yoma 3:9, Yevamos 6:4);
-whether these are camels or one of the other senses is open. Rabbi Aharon Marcus
+whether these are camels or one of the other senses seems an open question. Rabbi Aharon Marcus
 (*Keses HaSofer* to Bereishis 10:2) connects the name Gomer to the root as well,
 on the lammed/reish interchange.
 
@@ -146,25 +147,25 @@ comes נ-ק, cleaning: *menakiyos*, the tubes of the shulchan that kept the lech
 hapanim from spoiling; *nakik*, a hollow rock as though cleaned of its minerals;
 *naakah*, prayer, emptying the heart of its sorrows; *anakah*, a lizard whose
 sound resembles unbroken prayer; and *yenikah* and *meineches*, emptying the
-mother's milk. The Mishnaic *tinok* and Aramaic *yenuka*, a baby, belong here
-too. On that basis the column says it seems cogent to assume that *nakah* for
+mother's milk. Rabbi Reuven Chaim Klein adds that the Mishnaic *tinok* and Aramaic *yenuka*, a baby, belong here
+too. On that basis he says it seems cogent to assume that *nakah* for
 the female camel likewise relates to nursing, hers being the camel from which
 other camels nurse.
 
-The column then offers its own answer to the question it opened with, that both
+Rabbi Klein's own explanation is that both
 Hebrew terms for the camel carry a tie to nursing: the female word straight from
 nursing, the male word from weaning, the move away from it, which is the thing
-the male camel does not do. It suggests this may arise from the animal's
-physiology, camels drinking in quantity and storing the water in humps it calls
-breast-like, so that the camel's physical makeup is itself linked to nourishment
+the male camel does not do. He suggests this may arise from the animal's
+physiology, camels drinking in quantity and storing the water in humps he calls
+breast-like, so that the camel's physical makeup appears symbolically linked to nourishment
 drawn in abundance and stored.
 
 ### becher and bichrah (בכר, בכרה)
 Yirmiyahu 2:23 likens Israel to a *bichrah kalah*, a swift young she-camel
-twisting her ways. Rashi and Radak there: a young she-camel runs faster and
+twisting her ways. Rashi and Radak there: a young she-camel, which is said to run faster and
 wilder than a male or an older animal. Rashi (to Sanhedrin 52a) explains why:
-she is not accustomed to heavy loads, so she acts impulsively and without
-responsibility. Targum renders *becher* and *bichrah* as *hugnei* (see also
+she is not accustomed to heavy loads, so she feels free to act more impulsively and less
+responsibly. Targum renders *becher* and *bichrah* as *hugnei* (see also
 Rashi to Yeshayahu 60:6, Yirmiyahu 2:23, Sanhedrin 52a); the word occurs once in
 Bavli (Sanhedrin 52a) and once in Yerushalmi (Chagigah 2:1). Dr. Michael
 Sokoloff, in his dictionary of Jewish Babylonian Aramaic, defines *hugna* as a
@@ -180,8 +181,8 @@ Bava Kama 80a).
 *Becher*/*bichrah* also surfaces where one would least expect it. Rabbi Ernest
 Klein and other etymologists derive the English "albacore," a kind of tuna, from
 the Spanish *albacora*, and that from the Arabic *al bakrah*, "the young camel";
-the column says how camels relate to tuna is beyond it and would like to know,
-and notes that the Oxford English Dictionary cites this etymology and rejects
+Rabbi Reuven Chaim Klein says how camels relate to tuna is beyond him and he would like to know.
+The Oxford English Dictionary cites this etymology and rejects
 it.
 
 ## Rendering guidance

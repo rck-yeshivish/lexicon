@@ -65,25 +65,25 @@ all-encompassing Providence. Rav Hirsch (to Bereishis 41:40) reads it the other 
 *kisse* is kin to *kisui*, *katzeh* and *miktzoa*, all about cutting off, so a throne
 raises a man above the rest and puts him out of reach. Hirsch gets there through the interchange of kaf with kuf, samech with tzadi, and aleph
 with hey and ayin. Rabbi David Chaim Chelouche
-follows Hirsch: the king is set apart, covered and hidden away.
+similarly explains that the king is set apart, covered and hidden away.
 
 **Keis Yah: one word or two.** An Amoraic dispute in Pesachim 117a; *Minchas Shai* (to
-Shemos 17:16) records that the later Masoretes divided the same way, the Leningrad Codex
-and Sassoon 507 writing two words, which is the accepted practice, the Aleppo Codex and
-Sassoon 1053 one. Radak (*Sefer HaShorashim*) explains the missing aleph by the one-word
+Shemos 17:16) records that the later Masoretes divided the same way. Some early manuscripts,
+the Leningrad Codex and Sassoon 507, write two words, which is the accepted practice; the Aleppo Codex and
+Sassoon 1053 write one. Radak (*Sefer HaShorashim*) explains the missing aleph by the one-word
 reading; the Midrash keeps the absence as a statement in its own right. On either
 reading the phrase means "the throne of Yah."
 
-**The reish in kursa.** The column put the question to linguists and got two answers.
-The first, which it says seems to be the case: *kisse* without the reish is the older
+**The reish in kursa.** Rabbi Reuven Chaim Klein put the question to linguists and got two answers.
+The first, which he says seems to be the case: *kisse* without the reish is the older
 form and the Aramaic with it a later development, or corruption. The comparative
 evidence lines up neatly, on this view: Dr. Chaim Tawil relates Hebrew *kisse* to the
 Akkadian *kussu*, both of them very early Semitic and neither carrying a reish, while
 the Arabic cognate *kursiyy* does carry it, Arabic being later and, as Rabbi Ernest
 Klein notes, having probably borrowed the word from Aramaic. The reish's insertion the
-experts explained as dissimilation, and Klein explains the rhotic as inserted (by
+experts explained as dissimilation, and Rabbi Ernest Klein explains the rhotic as inserted (by
 epenthesis) to stand in for a doubled consonant, here the doubled samech marked by the
-dagesh. Other linguists wrote to the column that the rhotic form *kursa* may instead be
+dagesh. Other linguists hold that the rhotic form *kursa* may instead be
 the more original, Hebrew having dropped the reish, in which case the dagesh in the
 samech marks where the reish went, and the phenomenon is assimilation. The meaning
 of the word does not turn on it.
@@ -99,10 +99,10 @@ with a cover or overhead canopy, the canopy itself displaying the honor of the o
 seated, especially a king; his family of words includes *michsah*, a central fund such
 as the one the members of a korban Pesach pool their money into (Shemos 12:4). Rambam
 (*Moreh Nevuchim* 1:9): a *kisse* implies importance
-and power, presumably, the column says, because ordinary people in ancient times had no
+and power, presumably, Rabbi Reuven Chaim Klein says, because ordinary people in ancient times had no
 chairs but sat on whatever flat surface was at hand; the Beis HaMikdash is
 called the seat of Hashem's glory because prophecy issues from there. Rabbi Menachem
-Mendel of Shklov, if the column understood him correctly, similarly connects *kisse* to
+Mendel of Shklov, if Rabbi Klein understood him correctly, similarly connects *kisse* to
 *ani*, kaf and samech following yod and nun, so
 that the throne connotes the Selfhood of Hashem rather than what merely emanates from
 Him; he bolsters it by noting that the Aramaic *kursa* shares its three letters with
