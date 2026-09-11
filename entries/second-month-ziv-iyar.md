@@ -116,18 +116,19 @@ records that on account of this doubt many batei din have the practice of not
 writing *gittin* during Iyar at all (see *Aruch HaShulchan*, *Even HaEzer*
 126:15).
 
-**What Iyar means.** *Sefer HaKushyos*, the work of an anonymous talmid of Rabbi
-Meir of Rothenburg published by Rabbi Y. Y. Stahl,
-gives two accounts, both from *avir*, air: the month's air is commonly neither
-too hot nor too cold, or else the world was left hanging in the air from
-creation until Israel accepted the Torah in Sivan (*Shabbos* 88a), so the month
-before Sivan is named for air. The rabbinic *avir* is
-itself borrowed from the Greek *aer*, which is also the etymon of the English
-"air." Rabbi Yosef Kara (to Melachim I 8:2) and the
-Maharal (*Chiddushei Aggados* to *Yevamos* 62b) tie the name Ziv to that same
-temperate weather. Rabbi Eliezer Hagar of Vizhnitz (*Damesek Eliezer* to Vayikra
-9:22) connects the one-yud spelling to *ya'er* of Birkas Kohanim (Bamidbar 6:25),
-an exact anagram of it.
+**What Iyar means.**
+- *Sefer HaKushyos*, the work of an anonymous talmid of Rabbi Meir of Rothenburg
+  published by Rabbi Y. Y. Stahl, gives two accounts, both from *avir*, air: the
+  month's air is commonly neither too hot nor too cold, or else the world was
+  left hanging in the air from creation until Israel accepted the Torah in Sivan
+  (*Shabbos* 88a), so the month before Sivan is named for air. The rabbinic
+  *avir* is itself borrowed from the Greek *aer*, which is also the etymon of
+  the English "air."
+- Rabbi Yosef Kara (to Melachim I 8:2) and the Maharal (*Chiddushei Aggados* to
+  *Yevamos* 62b) tie the name Ziv to that same temperate weather.
+- Rabbi Eliezer Hagar of Vizhnitz (*Damesek Eliezer* to Vayikra 9:22) connects
+  the one-yud spelling to *ya'er* of Birkas Kohanim (Bamidbar 6:25), an exact
+  anagram of it.
 
 ## Distinctions
 

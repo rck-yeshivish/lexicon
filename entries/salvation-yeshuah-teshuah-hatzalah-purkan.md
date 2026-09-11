@@ -30,17 +30,18 @@ of the saving. *Purkan*
 
 ### yeshuah (ישועה) and teshuah (תשועה)
 Both are tied to crying out: they name the aspect of salvation that is Hashem's
-answer to our prayers and efforts. Rav Hirsch (to Shemos 14:13) suggests that
-*shav'ah*, crying out, is the act of yearning for a *teshuah*; unlike other
-words for crying out, which may be no more than a verbalizing of one's
-suffering, *shav'ah* is an unmistakable cry for salvation, a prayer rather than
-a complaint. Rabbi Shlomo Pappenheim: the biliteral ש-ע underlies *yeshuah*,
-*teshuah*, and *shav'ah*, and its core is enjoyment and pleasure (so too
-*sha'ashua*, playful or delightful; *mishan*, leaning and relying, the
-satisfaction of being supported by another; and *sha'ah*, an hour, a unit of
-time a person gives to a task he wants to do). Rabbi Klein offers an alternative
-of his own, that the core of ש-ע may be "smoothness," here the uninterrupted
-passage from prayer to salvation.
+answer to our prayers and efforts.
+- Rav Hirsch (to Shemos 14:13) suggests that *shav'ah*, crying out, is the act
+  of yearning for a *teshuah*; unlike other words for crying out, which may be
+  no more than a verbalizing of one's suffering, *shav'ah* is an unmistakable
+  cry for salvation, a prayer rather than a complaint.
+- Rabbi Shlomo Pappenheim: the biliteral ש-ע underlies *yeshuah*, *teshuah*, and
+  *shav'ah*, and its core is enjoyment and pleasure (so too *sha'ashua*, playful
+  or delightful; *mishan*, leaning and relying, the satisfaction of being
+  supported by another; and *sha'ah*, an hour, a unit of time a person gives to
+  a task he wants to do).
+- Rabbi Klein offers an alternative of his own, that the core of ש-ע may be
+  "smoothness," here the uninterrupted passage from prayer to salvation.
 
 Rav Hirsch proposes an etymological difference between the two. *Yeshuah*, root
 י-ש-ע, is kin to י-ש-ה and to
@@ -50,14 +51,15 @@ salvation from a danger that threatened one's very being. *Teshuah*, root
 somewhat peripheral to existence, one's property and economic freedom, so it often names
 salvation through military victory over outside conquerors.
 
-Rabbi Yechiel Michel Heilpern and Rabbi Chanoch Zundel of Bialystok: *yeshuah*
-and *teshuah* are salvation from a particularly grave threat, such as murder or
-a crime of a sexual nature (Devarim 22:27), which is why the Midrash (Shemos Rabbah 1:32) infers
-from *vayoshi'an* (Shemos 2:17) that the shepherds meant harm to Yisro's
-daughters. Peirush HaRokeach: *yeshuah*/*teshuah* is total and utter salvation
-from a state of oppression and subjugation. Malbim argues further that *yeshuah*
-is mere salvation from the dire situation itself, without the further protection
-*hatzalah* implies.
+- Rabbi Yechiel Michel Heilpern and Rabbi Chanoch Zundel of Bialystok: *yeshuah*
+  and *teshuah* are salvation from a particularly grave threat, such as murder
+  or a crime of a sexual nature (Devarim 22:27), which is why the Midrash
+  (Shemos Rabbah 1:32) infers from *vayoshi'an* (Shemos 2:17) that the shepherds
+  meant harm to Yisro's daughters.
+- Peirush HaRokeach: *yeshuah*/*teshuah* is total and utter salvation from a
+  state of oppression and subjugation.
+- Malbim argues further that *yeshuah* is mere salvation from the dire situation
+  itself, without the further protection *hatzalah* implies.
 
 Bava Kamma 80a mentions a ceremony called *Yeshua HaBen* without saying what it
 is. *Sefer HaAruch* and Rashi explain it as the festive meal of a *pidyon haben*
@@ -65,23 +67,26 @@ is. *Sefer HaAruch* and Rashi explain it as the festive meal of a *pidyon haben*
 both *yeshuah* and *pidyon* with words of *purkan*.
 
 ### hatzalah (הצלה)
-Peirush HaRokeach: only a partial or temporary respite from oppression, not a
-total release. Malbim (to Yirmiyahu 15:20) adds that *hatzalah* focuses on the
-element of salvation that releases a person from mortal danger; Rabbi Klein
-suggests that this may be why Hatzolah is the name the volunteer paramedic
-organizations took. Malbim further argues that *hatzalah*, against *yeshuah*,
-implies being saved from the situation plus being protected from future
-troubles. Heilpern and Rabbi Chanoch Zundel: *hatzalah* can refer to saving from any
-threat, not only the gravest. Rabbi Shlomo Pappenheim: from the biliteral צ-ל,
-"separation for a constructive purpose," so extricating a person from peril;
-under the same root he puts *tzel*, a shadow, which appears to separate itself
-from a person, *tzli*, roasting, which uses heat to draw the moisture out of raw
-food, and *atzal*, bestowal, as when one blesses another. Rav Hirsch (to Shemos
-3:22, Devarim 32:2): root נ-צ-ל, kin to נ-ש-ל (remove) and נ-ז-ל (flow away),
-so saving someone by removing him from the hazard and separating him from what
-endangers him. Radak connects the "saving" and "removing" senses of נ-צ-ל; Ibn
-Janach fails to see a thematic connection between them and takes them for two
-different meanings carried by one root.
+- Peirush HaRokeach: only a partial or temporary respite from oppression, not a
+  total release.
+- Malbim (to Yirmiyahu 15:20) adds that *hatzalah* focuses on the element of
+  salvation that releases a person from mortal danger; Rabbi Klein suggests that
+  this may be why Hatzolah is the name the volunteer paramedic organizations
+  took. Malbim further argues that *hatzalah*, against *yeshuah*, implies being
+  saved from the situation plus being protected from future troubles.
+- Heilpern and Rabbi Chanoch Zundel: *hatzalah* can refer to saving from any
+  threat, not only the gravest.
+- Rabbi Shlomo Pappenheim: from the biliteral צ-ל, "separation for a
+  constructive purpose," so extricating a person from peril; under the same root
+  he puts *tzel*, a shadow, which appears to separate itself from a person,
+  *tzli*, roasting, which uses heat to draw the moisture out of raw food, and
+  *atzal*, bestowal, as when one blesses another.
+- Rav Hirsch (to Shemos 3:22, Devarim 32:2): root נ-צ-ל, kin to נ-ש-ל (remove)
+  and נ-ז-ל (flow away), so saving someone by removing him from the hazard and
+  separating him from what endangers him.
+- Radak connects the "saving" and "removing" senses of נ-צ-ל.
+- Ibn Janach fails to see a thematic connection between them and takes them for
+  two different meanings carried by one root.
 
 ### purkan (פורקן)
 The Targum's standard Aramaic for *pidyon*: redemption, Hashem buying us back

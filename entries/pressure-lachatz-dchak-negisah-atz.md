@@ -117,15 +117,17 @@ patience for the next stage and feels compelled to be out of his present state a
 
 ### alatz (אלץ)
 Once in Tanach: Delilah pressing Shimshon for the secret of his strength
-(Shoftim 16:16), a hapax as Rashi and *Machberes Menachem* both note. Targum
-there renders it *d'chak*. Ramban (to Bereishis 32:25) treats the aleph of
-*alatz* as interchangeable with the ches of *chalatz*, itself a metathesis of
-*lachatz*; Radak in *Sefer HaShorashim* likewise associates *alatz* with
-*lachatz*. Ibn Janach dissents, glossing the verb "making him angry" rather than
-putting pressure on him. Pappenheim traces it to ל-צ, logical verbalizing,
-whence *melitzah* (verbal justification or defense, also translation) and
-*leitzanus* (scorn or mockery), so *alatz* is the adept use of words to cajole a
-man and convince him into something.
+(Shoftim 16:16), a hapax as Rashi and *Machberes Menachem* both note.
+- Targum there renders it *d'chak*.
+- Ramban (to Bereishis 32:25) treats the aleph of *alatz* as interchangeable
+  with the ches of *chalatz*, itself a metathesis of *lachatz*; Radak in *Sefer
+  HaShorashim* likewise associates *alatz* with *lachatz*.
+- Ibn Janach dissents, glossing the verb "making him angry" rather than putting
+  pressure on him.
+- Pappenheim traces it to ל-צ, logical verbalizing, whence *melitzah* (verbal
+  justification or defense, also translation) and *leitzanus* (scorn or
+  mockery), so *alatz* is the adept use of words to cajole a man and convince
+  him into something.
 
 ## Rendering guidance
 

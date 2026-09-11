@@ -62,24 +62,25 @@ Aramaicized form of *meridah* itself to render instances of Hebrew *meridah*; se
 Bereishis 14:4, Melachim II 18:20, Yeshayahu 36:5, Yechezkel 2:3.)
 
 ### meridah (מרידה)
-Rabbi Yonah Ibn Janach and Radak assign it the triliteral מ-ר-ד, which carries
-two senses, rebellion and lowliness: Tzidkiyahu rebelling against Nevuchadnetzar
-(Divrei HaYamim II 36:13) and the five kings against the four (Bereishis 14:4)
-on one side, *aniyim merudim* (Yeshayahu 58:7), the utterly downtrodden poor, on
-the other. Neither lexicographer joins the two senses. Rav Hirsch (to Bereishis
-14:4) does: the *aniyim merudim* are so lowly that abusing them draws no
-pushback, no rebellion, because the victim is thought too unimportant for his
-mistreatment to provoke a response. Yerushalayim after the churban of the first
-Beis HaMikdash is described in just that state (Eichah 1:7). *Machberet
-Menachem* splits them instead: *meridah* from מ-ר-ד, but *merudim* from the
-biliteral ר-ד, downward motion, the crushed pauper having fallen from the
-standing of a respected human being. Rabbi Shlomo Pappenheim also takes ר-ד as
-the root, the root of *rodeh*, lording over others and keeping them down
-(Bereishis 1:28, Vayikra 25:43); in his system a mem prefixed to a biliteral
-often reverses it, so מ-ר-ד is the opposite of lording over, namely the subjects
-asserting control. The Gemara (*Sanhedrin* 49a) learns the death penalty for a
-*mored b'malchus* from Yehoshua 1:18, "any man who defies (*yamreh*) your
-mouth."
+- Rabbi Yonah Ibn Janach and Radak assign it the triliteral מ-ר-ד, which carries
+  two senses, rebellion and lowliness: Tzidkiyahu rebelling against
+  Nevuchadnetzar (Divrei HaYamim II 36:13) and the five kings against the four
+  (Bereishis 14:4) on one side, *aniyim merudim* (Yeshayahu 58:7), the utterly
+  downtrodden poor, on the other. Neither lexicographer joins the two senses.
+- Rav Hirsch (to Bereishis 14:4) does: the *aniyim merudim* are so lowly that
+  abusing them draws no pushback, no rebellion, because the victim is thought
+  too unimportant for his mistreatment to provoke a response. Yerushalayim after
+  the churban of the first Beis HaMikdash is described in just that state
+  (Eichah 1:7).
+- *Machberet Menachem* splits them instead: *meridah* from מ-ר-ד, but *merudim*
+  from the biliteral ר-ד, downward motion, the crushed pauper having fallen from
+  the standing of a respected human being.
+- Rabbi Shlomo Pappenheim also takes ר-ד as the root, the root of *rodeh*,
+  lording over others and keeping them down (Bereishis 1:28, Vayikra 25:43); in
+  his system a mem prefixed to a biliteral often reverses it, so מ-ר-ד is the
+  opposite of lording over, namely the subjects asserting control.
+- The Gemara (*Sanhedrin* 49a) learns the death penalty for a *mored b'malchus*
+  from Yehoshua 1:18, "any man who defies (*yamreh*) your mouth."
 
 ### meri and mamre (מרי, ממרה)
 Moshe calls the nation *mamrim* for refusing Hashem's word (Devarim 9:7, 9:24,

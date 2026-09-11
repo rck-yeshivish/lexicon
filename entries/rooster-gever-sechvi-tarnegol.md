@@ -84,15 +84,17 @@ stone).
 **Where the name Nergal points.** After the Assyrians conquered the Kingdom of
 Yisrael they settled Mesopotamian foreigners in the land, each bringing his own
 deity: the men of Bavel brought Sukkos Benos and the men of Kutha made Nergal
-(Melachim II 17:30). Sanhedrin 63b relates that Sukkos Benos was a hen-shaped
-idol and Nergal a rooster-shaped one; Rabbeinu Chananel specifies a wild
-rooster. Rabbi Meir HaLevi Abulafia offers two accounts of the name: *tarnegol*
-has the same letters as *nergal*, or *nergal* is from *ragil*, frequent, since
-the rooster is understood to copulate most often. The Yerushalmi (Avodah Zarah 3:2) understands
-Nergal differently, as a foot-shaped idol, from *regel*, treating the nun as not
-integral to the core meaning. On the strength of the Sanhedrin passage Rabbi
-Chaim Futernik surmises that *sechvi* in the sense of rooster is itself related
-to the name Sukkos Benos.
+(Melachim II 17:30).
+- Sanhedrin 63b relates that Sukkos Benos was a hen-shaped idol and Nergal a
+  rooster-shaped one; Rabbeinu Chananel specifies a wild rooster.
+- Rabbi Meir HaLevi Abulafia offers two accounts of the name: *tarnegol* has the
+  same letters as *nergal*, or *nergal* is from *ragil*, frequent, since the
+  rooster is understood to copulate most often.
+- The Yerushalmi (Avodah Zarah 3:2) understands Nergal differently, as a
+  foot-shaped idol, from *regel*, treating the nun as not integral to the core
+  meaning.
+- On the strength of the Sanhedrin passage Rabbi Chaim Futernik surmises that
+  *sechvi* in the sense of rooster is itself related to the name Sukkos Benos.
 
 ## Distinctions
 
@@ -108,20 +110,23 @@ HaYamim II 8:17), and Yehoshafat's ships broke down there (Melachim I 22:49,
 Divrei HaYamim II 20:36).
 
 Why Bilaam called himself a *gever* (Bamidbar 24:3, 24:15) drew several
-readings. Rabbeinu Efrayim: Berachos 7a says the moment of Divine anger each
-morning can be identified when the rooster's red crest turns white, and Bilaam
-likewise knew the moment a curse would take. (A 2021 paper by Dr. Jessica L. Lamont of Yale demonstrates that chickens
-were particularly associated with curse rituals in ancient Greece.) *Peirush
-HaRokeach*: the rooster
-copulates frequently (Berachos 22a), and Bilaam was as single-minded. *Siddur
-HaRokeach*: the rooster shuts one eye and stands on one foot at that moment, and
-Bilaam was blind in one eye and lame in one foot. Rabbeinu Bachya (to Bamidbar
-24:3): the rooster crows seven times (*Perek Shirah* ch. 4 assigns it seven
-songs), matching Bilaam's seven oracles. *Peirush HaRokeach* also explains
-Etzion Gever's name from its inhabitants' gift for counsel and for intuiting the
-hour as a rooster does, and Rabbi Menachem Tziyyoni cites the Mekubalim that
-some of them commanded an esoteric wisdom called the Knowledge of the Chicken,
-hinted at in the city's name.
+readings.
+- Rabbeinu Efrayim: Berachos 7a says the moment of Divine anger each morning can
+  be identified when the rooster's red crest turns white, and Bilaam likewise
+  knew the moment a curse would take. (A 2021 paper by Dr. Jessica L. Lamont of
+  Yale demonstrates that chickens were particularly associated with curse
+  rituals in ancient Greece.)
+- *Peirush HaRokeach*: the rooster copulates frequently (Berachos 22a), and
+  Bilaam was as single-minded.
+- *Siddur HaRokeach*: the rooster shuts one eye and stands on one foot at that
+  moment, and Bilaam was blind in one eye and lame in one foot.
+- Rabbeinu Bachya (to Bamidbar 24:3): the rooster crows seven times (*Perek
+  Shirah* ch. 4 assigns it seven songs), matching Bilaam's seven oracles.
+
+*Peirush HaRokeach* also explains Etzion Gever's name from its inhabitants' gift
+for counsel and for intuiting the hour as a rooster does, and Rabbi Menachem
+Tziyyoni cites the Mekubalim that some of them commanded an esoteric wisdom
+called the Knowledge of the Chicken, hinted at in the city's name.
 
 ### ziz sadai (זיז שדי)
 Twice in Tehillim (50:11, 80:14), plainly a bird. Targum both times renders

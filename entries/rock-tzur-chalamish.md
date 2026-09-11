@@ -52,22 +52,23 @@ is the stone that produces fire: a stone with water in it certainly could
 not make fire. Rabbi Yisrael Menachem Mendel Sacharov (d. 1966) points out that
 *hatzur* has the same gematria as *aish*, fire.
 
-Then the extended senses. Rambam (*Moreh Nevuchim* 1:16): *tzur* means a
-mountain and a kind of hard rock, and also the quarry from which stones are cut,
-which is how Yeshayahu can say "look to the *tzur* from which you were hewn...
-look to Avraham your father and to Sarah who bore you" (Yeshayahu 51:1-2); from
-there the word was borrowed for any root or source, and Hashem is called *Tzur*
-as the Source of everything (Devarim 32:4, 32:18, 32:30; Shmuel I 2:2; Yeshayahu
-26:4). Rabbi Moshe Teitelbaum (1759-1841), building on Rambam: the *tzur* is the
-source of stones, while *even* and *sela* are the stones themselves. Rabbi Chaim
-Friedlander (1923-1986): a *tzur* is the bedrock a building's foundation rests
-on, and
-Hashem is called *Tzur* because He is the surest foundation, relied on
-continuously the way a building leans on its footing at every moment. Rabbi
-Shlomo Pappenheim: Hashem is *Tzur* because as the Prime Force He ties
-(*tzorer*) all of creation into one, everything depending on Him to exist; and
-*Berachos* 10a reads Chanah's "there is no *tzur* like our God" (Shmuel I 2:2)
-as *tzayir*, Fashioner.
+Then the extended senses.
+- Rambam (*Moreh Nevuchim* 1:16): *tzur* means a mountain and a kind of hard
+  rock, and also the quarry from which stones are cut, which is how Yeshayahu
+  can say "look to the *tzur* from which you were hewn... look to Avraham your
+  father and to Sarah who bore you" (Yeshayahu 51:1-2); from there the word was
+  borrowed for any root or source, and Hashem is called *Tzur* as the Source of
+  everything (Devarim 32:4, 32:18, 32:30; Shmuel I 2:2; Yeshayahu 26:4).
+- Rabbi Moshe Teitelbaum (1759-1841), building on Rambam: the *tzur* is the
+  source of stones, while *even* and *sela* are the stones themselves.
+- Rabbi Chaim Friedlander (1923-1986): a *tzur* is the bedrock a building's
+  foundation rests on, and Hashem is called *Tzur* because He is the surest
+  foundation, relied on continuously the way a building leans on its footing at
+  every moment.
+- Rabbi Shlomo Pappenheim: Hashem is *Tzur* because as the Prime Force He ties
+  (*tzorer*) all of creation into one, everything depending on Him to exist; and
+  *Berachos* 10a reads Chanah's "there is no *tzur* like our God" (Shmuel I 2:2)
+  as *tzayir*, Fashioner.
 
 ### chalamish (חלמיש)
 *Chalamish* is commonly translated "flint," a glassy rock formed from silicate

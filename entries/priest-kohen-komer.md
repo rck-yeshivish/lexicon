@@ -41,24 +41,24 @@ means any religious functionary, except where it is attached to a place name
 sometimes the word names a priest, of legitimate worship or otherwise, and
 sometimes a political leader.
 
-On the root, Rabbi Shlomo Pappenheim (1740-1814) gives the biliteral כ-ן, base
-or basis,
-which also yields *ken* (so, yes) and *nachon* (correct), both of which affirm
-a thing by acknowledging its basis, and *tochnis* (plan) and *hachanah*
-(preparation), the bases of any serious undertaking. A *kohen*, then, is the
-man charged with seeing that the preparations for the worship at a temple, of
-whatever kind, are in order. Rav Hirsch (1808-1888) ties *kohen* to *hachanah*
-as well: the Kohen sets an example of how Hashem is to be served and so
-"prepares" others to be initiated into that service. Rabbi Pappenheim adds
-secondary senses: one who wears any sort of special clothes, as a *chasan* does
-(Yeshayahu 61:10), and anyone priest-like in functioning in an official
-capacity, as a prince does (Shmuel II 8:18). Rabbi Aharon Marcus (1843-1916)
-notes that the Arabic *kahin*, soothsayer or diviner, is probably a cognate of
-*kohen*, and on that basis suggests that the root of *kohen* is *koh*, "thus,"
-the prophets' word when they relay Hashem's message. Indeed, kohanim not only
-served in the Mikdash but were instrumental in teaching Torah, so it makes
-sense that they would be associated with prophecy, which
-likewise relays Hashem's word (see Malachi 2:7).
+- On the root, Rabbi Shlomo Pappenheim (1740-1814) gives the biliteral כ-ן, base
+  or basis, which also yields *ken* (so, yes) and *nachon* (correct), both of
+  which affirm a thing by acknowledging its basis, and *tochnis* (plan) and
+  *hachanah* (preparation), the bases of any serious undertaking. A *kohen*,
+  then, is the man charged with seeing that the preparations for the worship at
+  a temple, of whatever kind, are in order.
+- Rav Hirsch (1808-1888) ties *kohen* to *hachanah* as well: the Kohen sets an
+  example of how Hashem is to be served and so "prepares" others to be initiated
+  into that service.
+- Rabbi Pappenheim adds secondary senses: one who wears any sort of special
+  clothes, as a *chasan* does (Yeshayahu 61:10), and anyone priest-like in
+  functioning in an official capacity, as a prince does (Shmuel II 8:18).
+- Rabbi Aharon Marcus (1843-1916) notes that the Arabic *kahin*, soothsayer or
+  diviner, is probably a cognate of *kohen*, and on that basis suggests that the
+  root of *kohen* is *koh*, "thus," the prophets' word when they relay Hashem's
+  message. Indeed, kohanim not only served in the Mikdash but were instrumental
+  in teaching Torah, so it makes sense that they would be associated with
+  prophecy, which likewise relays Hashem's word (see Malachi 2:7).
 
 ### komer (כומר)
 Radak (Tzefaniah 1:4, Melachim II 23:5, and *Sefer HaShorashim*): *komer* means
@@ -87,19 +87,22 @@ helped them do teshuvah, and barred those *kohanim*, Aharon's descendants, who
 had previously been *komrim* for idolatry from serving in the Mikdash in
 Yerushalayim (Melachim II 23:5-9, with Radak).
 
-Tzefaniah 1:4, where both words stand together, has four readings. Targum and
-Rashi seem to understand that *komrim* are any who take part in idol worship
-and *kohanim* are the idolatrous priests, which reverses the usual division.
-Rabbi Yosef Ibn Kaspi (1279-1345): *komrim* are the idolatrous priests of Baal,
-*kohanim* are Hashem's kohanim, some of whom had been acting corruptly. Radak,
-in three places: both words mean idolatrous priests. Dr. Chaim Tawil notes that
-*kumru* means priest in Akkadian and in other Western Semitic languages, so that
-Tzefaniah's *komrim* was likely an oblique reference to cultic functionaries
-from the places where those languages were spoken; on that reading it could be
-that *komrim* and *kohanim* both mean idolatrous priests and are perfect
-synonyms drawn from two different languages. Ibn Kaspi and Radak both leave the
-general rule standing, that *kohen* covers a priest of any sort while *komer* is
-the idolater's.
+Tzefaniah 1:4, where both words stand together, has four readings.
+- Targum and Rashi seem to understand that *komrim* are any who take part in
+  idol worship and *kohanim* are the idolatrous priests, which reverses the
+  usual division.
+- Rabbi Yosef Ibn Kaspi (1279-1345): *komrim* are the idolatrous priests of
+  Baal, *kohanim* are Hashem's kohanim, some of whom had been acting corruptly.
+- Radak, in three places: both words mean idolatrous priests.
+- Dr. Chaim Tawil notes that *kumru* means priest in Akkadian and in other
+  Western Semitic languages, so that Tzefaniah's *komrim* was likely an oblique
+  reference to cultic functionaries from the places where those languages were
+  spoken; on that reading it could be that *komrim* and *kohanim* both mean
+  idolatrous priests and are perfect synonyms drawn from two different
+  languages.
+
+Ibn Kaspi and Radak both leave the general rule standing, that *kohen* covers a
+priest of any sort while *komer* is the idolater's.
 
 ## Rendering guidance
 

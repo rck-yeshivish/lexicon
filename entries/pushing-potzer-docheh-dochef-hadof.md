@@ -73,14 +73,17 @@ VeHaKabbalah* to Bereishis 19:9) interprets the second occurrence, of the
 Sedomites, in the physical sense: they physically pushed Lot away from the door,
 preventing him from protecting his guests.
 
-**Where dochef comes from.** Menachem Ibn Saruk, Ibn Janach, and Radak all trace
-it to the triliteral ד-ח-פ. Rabbi Shlomo Pappenheim instead reads it as a fusion
-of two biliteral roots, ד-ח (push) and א-פ (*af*, face or nose): to push
-someone's face away, symbolizing the rejection of his presence and the urgency to
-redirect himself toward another task. Separately, Rabbi David Golomb writes that
-*hadof* is related to *dochef*, arguing that *hei* and *ches* can be viewed as
-interchangeable; evidently, Rabbi Klein adds, Golomb also assumes the reordering
-that moves the guttural into second position.
+**Where dochef comes from.**
+- Menachem Ibn Saruk, Ibn Janach, and Radak all trace it to the triliteral
+  ד-ח-פ.
+- Rabbi Shlomo Pappenheim instead reads it as a fusion of two biliteral roots,
+  ד-ח (push) and א-פ (*af*, face or nose): to push someone's face away,
+  symbolizing the rejection of his presence and the urgency to redirect himself
+  toward another task.
+- Separately, Rabbi David Golomb writes that *hadof* is related to *dochef*,
+  arguing that *hei* and *ches* can be viewed as interchangeable; evidently,
+  Rabbi Klein adds, Golomb also assumes the reordering that moves the guttural
+  into second position.
 
 **How hadof differs from docheh.** Rabbi Pappenheim derives *hadof* from ד-פ,
 "pushing away with ease," and illustrates it with Geichazi shoving the Shunamis

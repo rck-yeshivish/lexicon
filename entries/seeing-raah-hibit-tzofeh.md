@@ -37,44 +37,48 @@ particular a sight one stumbles on without intending to behold it. The Vilna Gao
 in.
 
 ### hibit (הביט)
-The Vilna Gaon (there): *hibit* is seeing what a glance would not have caught.
-Accordingly the verb carries a more deliberate sense, looking in order to
-investigate or understand.
-Bereishis Rabbah 44:12: *hibit* is the looking of one above at what is below him.
-Malbim accepts both and reconciles them: sometimes *hibit* is examination, and
-then the looker need not be above; sometimes it is simply seeing, and then it is
-specifically from above. Rabbi Yaakov Tzvi Mecklenburg rejects the idea that
-*hibit* itself denotes a deliberate form of looking: *hibit* is turning the head
-to face what one wants to see, a word about the head rather than the eye, so it
-is bound up with deliberate looking only indirectly, and the actual word for the
-more deliberate looking is *mashkif*. Midrash to Koheles 5:1 makes the
-difference between *ra'ah* and *hibit* one of near and far, and records a dispute
-among the Sages over which is which.
+- The Vilna Gaon (there): *hibit* is seeing what a glance would not have caught.
+  Accordingly the verb carries a more deliberate sense, looking in order to
+  investigate or understand.
+- Bereishis Rabbah 44:12: *hibit* is the looking of one above at what is below
+  him.
+- Malbim accepts both and reconciles them: sometimes *hibit* is examination, and
+  then the looker need not be above; sometimes it is simply seeing, and then it
+  is specifically from above.
+- Rabbi Yaakov Tzvi Mecklenburg rejects the idea that *hibit* itself denotes a
+  deliberate form of looking: *hibit* is turning the head to face what one wants
+  to see, a word about the head rather than the eye, so it is bound up with
+  deliberate looking only indirectly, and the actual word for the more
+  deliberate looking is *mashkif*.
+- Midrash to Koheles 5:1 makes the difference between *ra'ah* and *hibit* one of
+  near and far, and records a dispute among the Sages over which is which.
 
 ### mashkif (משקיף), hashkafah (השקפה)
-Radak (*Sefer HaShorashim*): *mashkif* is one who sees but cannot be seen. Rashi
-(to Bereishis 18:16): wherever *mashkif* or *hashkafah* appears it carries a
-negative connotation, except Devarim 26:15, which is a positive looking. Rabbi
-Shlomo Aharon Wertheimer explains, correctly in Rabbi Klein's judgment, that
-Rashi did not mean every instance in all of Tanach but every instance in the
-Torah.
-Rashi (to *Berachos* 29a): *hishkif* is staring at something in the hope of
-jogging one's memory.
-*Sefer HaChochmah*, ascribed to the late twelfth-century Ashkenazic scholar
-Rabbi Elazar Rokeach of Worms: *mashkif* looks
-down from a high place, and *tzofeh* is one situated very high up, on a tall
-mountain, looking downward.
+- Radak (*Sefer HaShorashim*): *mashkif* is one who sees but cannot be seen.
+- Rashi (to Bereishis 18:16): wherever *mashkif* or *hashkafah* appears it
+  carries a negative connotation, except Devarim 26:15, which is a positive
+  looking. Rabbi Shlomo Aharon Wertheimer explains, correctly in Rabbi Klein's
+  judgment, that Rashi did not mean every instance in all of Tanach but every
+  instance in the Torah.
+- Rashi (to *Berachos* 29a): *hishkif* is staring at something in the hope of
+  jogging one's memory.
+- *Sefer HaChochmah*, ascribed to the late twelfth-century Ashkenazic scholar
+  Rabbi Elazar Rokeach of Worms: *mashkif* looks down from a high place, and
+  *tzofeh* is one situated very high up, on a tall mountain, looking downward.
 
 ### tzofeh (צופה)
-The gazing at what does not physically exist, an abstraction rather than a thing.
-Malbim: awaiting what has not yet come is *mitzapeh* on the same logic, since the
-one who waits also sees what is not there and hopes it will come to be; and
-nevi'im are sometimes called *tzofim* because their visions, though not physically present,
-are altogether real. Rabbi Wertheimer adds the sentry: one who stays in place
-over time to watch developments as they unfold. The Vilna Gaon (to Mishlei 15:3)
-puts the distance in this word: *tzofeh* is seeing from afar. Others put the
-far-seeing in other words instead, the Midrash to Koheles 5:1 in *ra'ah* or
-*hibit* and Malbim in *shur*.
+The gazing at what does not physically exist, an abstraction rather than a
+thing.
+- Malbim: awaiting what has not yet come is *mitzapeh* on the same logic, since
+  the one who waits also sees what is not there and hopes it will come to be;
+  and nevi'im are sometimes called *tzofim* because their visions, though not
+  physically present, are altogether real.
+- Rabbi Wertheimer adds the sentry: one who stays in place over time to watch
+  developments as they unfold.
+- The Vilna Gaon (to Mishlei 15:3) puts the distance in this word: *tzofeh* is
+  seeing from afar.
+- Others put the far-seeing in other words instead, the Midrash to Koheles 5:1
+  in *ra'ah* or *hibit* and Malbim in *shur*.
 
 ### shur (שור)
 Malbim: seeing something far away, in time or in space. Rabbi Shlomo Pappenheim

@@ -185,8 +185,8 @@ On the root:
   current pulling water along a course as a leader draws those under him along
   his.
 
-Later Hebrew gives *menahel* (principal), *hanhalah* (administration), and
-*mancheh* (master of ceremonies) from *nachah*.
+Modern Hebrew calls a master of ceremonies a *mancheh*, from *nachah*, since he
+leads the proceedings.
 
 ## Rendering guidance
 

@@ -35,17 +35,19 @@ defines the man Hashem calls a *navi* as one who is regularly with Him, speaks
 His words, and whose words He loves and whose *tefillos* He hears. Radak says
 the same at Shmuel I 9:9.
 
-Against this, Ibn Ezra (to Shemos 7:1) rules the derivation untenable: *navi*
-and its cognates never appear in Tanach without an aleph, which suggests that the aleph belongs
-to the root, נ-ב-א. Rabbi Yonah Ibn Janach and Radak, each in his *Sefer
-HaShorashim*, take the same root; Rabbi Klein notes the tension in Radak's own
-two comments and does not resolve it. Rav Hirsch (to Bereishis 20:7) also holds
-נ-ב-א, and reads it off the neighboring נ-ב-ע, "to flow from, to become the
-source of": a *navi* is the source from which Hashem's word issues, the vehicle
-through which His spirit speaks to man. Rabbi Shlomo Pappenheim takes the
-biliteral ב-א, "come, bring": the *navi*'s job is to bring Hashem's word to its
-intended audience, and in the case of Moshe and Aharon, Aharon was Moshe's *navi*
-because his role was that of a spokesman, to bring Moshe's words to Paroh.
+- Against this, Ibn Ezra (to Shemos 7:1) rules the derivation untenable: *navi*
+  and its cognates never appear in Tanach without an aleph, which suggests that
+  the aleph belongs to the root, נ-ב-א. Rabbi Yonah Ibn Janach and Radak, each
+  in his *Sefer HaShorashim*, take the same root; Rabbi Klein notes the tension
+  in Radak's own two comments and does not resolve it.
+- Rav Hirsch (to Bereishis 20:7) also holds נ-ב-א, and reads it off the
+  neighboring נ-ב-ע, "to flow from, to become the source of": a *navi* is the
+  source from which Hashem's word issues, the vehicle through which His spirit
+  speaks to man.
+- Rabbi Shlomo Pappenheim takes the biliteral ב-א, "come, bring": the *navi*'s
+  job is to bring Hashem's word to its intended audience, and in the case of
+  Moshe and Aharon, Aharon was Moshe's *navi* because his role was that of a
+  spokesman, to bring Moshe's words to Paroh.
 
 In 2018
 archaeologists found a seal inscribed with the name Yishaya followed by the

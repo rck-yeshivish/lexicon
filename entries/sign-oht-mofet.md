@@ -117,25 +117,28 @@ manifest itself.
 ## Distinctions
 
 ### oht (אות)
-Ramban derives it from א-ת-ה, "come," in Aramaic with an alef in place of the
-hei, since it signals what is to come. Malbim: any sign or symbol used to remind
-a person of what it symbolizes. Abarbanel's examples point to the natural
-range: the sun and moon serve as an *oht* for different periods of time
-(Bereishis 1:14), tefillin is an *oht* symbolizing the Exodus (Shemos 13:9,
-13:16), the flags of each tribe bore images serving as an *oht* symbolizing the
-tribe (Bamidbar 2:2), and each letter of the alef-beis is called an *oht* because
-it is a sign representing a certain sound; all of these suggest that an *oht*
-can be a sign within the confines of nature. Rabbi Shlomo Pappenheim (1740-1814) contrasts *oht* with *eid*: an
-*oht* is simply a reminder, while an *eid* serves to remind and to spur one into
-action.
+- Ramban derives it from א-ת-ה, "come," in Aramaic with an alef in place of the
+  hei, since it signals what is to come.
+- Malbim: any sign or symbol used to remind a person of what it symbolizes.
+- Abarbanel's examples point to the natural range: the sun and moon serve as an
+  *oht* for different periods of time (Bereishis 1:14), tefillin is an *oht*
+  symbolizing the Exodus (Shemos 13:9, 13:16), the flags of each tribe bore
+  images serving as an *oht* symbolizing the tribe (Bamidbar 2:2), and each
+  letter of the alef-beis is called an *oht* because it is a sign representing a
+  certain sound; all of these suggest that an *oht* can be a sign within the
+  confines of nature.
+- Rabbi Shlomo Pappenheim (1740-1814) contrasts *oht* with *eid*: an *oht* is
+  simply a reminder, while an *eid* serves to remind and to spur one into
+  action.
 
 ### mofet (מופת)
-Ramban: from *pele*, a wonder. Radak: the root is י-פ-ת. Rabbi Shlomo Aharon
-Wertheimer reports that some claim the root is י-פ-ע, the ayin always dropped and
-the yud sometimes morphing into a mem, making *mofet* a relative of *mofia*,
-"presents itself," since a sign is how one presents an idea to others; his
-alternative is that *mofet* means the presentation of a new, hitherto unseen
-phenomenon.
+- Ramban: from *pele*, a wonder.
+- Radak: the root is י-פ-ת.
+- Rabbi Shlomo Aharon Wertheimer reports that some claim the root is י-פ-ע, the
+  ayin always dropped and the yud sometimes morphing into a mem, making *mofet*
+  a relative of *mofia*, "presents itself," since a sign is how one presents an
+  idea to others; his alternative is that *mofet* means the presentation of a
+  new, hitherto unseen phenomenon.
 
 ## Rendering guidance
 

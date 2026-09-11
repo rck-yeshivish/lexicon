@@ -27,19 +27,22 @@ and Rabbi Shmuel Tuvia Stern cut the difference on other axes.
 ## Distinctions
 
 ### pidyon (פדיון), pedus (פדות), podeh (פודה)
-Root פ-ד-ה. The Vilna Gaon, on the two parallel redemptions of Yetzias
-Mitzrayim: the *pidyon* of the night of Pesach was an exchange, Hashem trading
-the Jewish firstborn for the Egyptian firstborn, saving the former and
-annihilating the latter; so *pidyon* is salvation that comes through a swap.
-Rabbi Chaim of Brisk, in the classical yeshivish *cheftza-gavra* terms: *pidyon*
-looks at the object redeemed and marks a change in the object's own status.
-Chatam Sofer: *pidyon* is negative redemption, simply being saved from the
-calamity at hand. Rabbi Menachem Mendel of Kosov: temporary relief from what
-ails one. Malbim: *pidyon* is the bare fact of salvation. Rabbi Shmuel Tuvia
-Stern: *pidyon* takes something holy and releases it by transferring the
-holiness onto something else (the redemption of hekdesh); alternatively,
-*pidyon* is case-by-case redemption of the individual. (Rabbi Stern was the
-Rabbi of Miami Beach.)
+Root פ-ד-ה.
+- The Vilna Gaon, on the two parallel redemptions of Yetzias Mitzrayim: the
+  *pidyon* of the night of Pesach was an exchange, Hashem trading the Jewish
+  firstborn for the Egyptian firstborn, saving the former and annihilating the
+  latter; so *pidyon* is salvation that comes through a swap.
+- Rabbi Chaim of Brisk, in the classical yeshivish *cheftza-gavra* terms:
+  *pidyon* looks at the object redeemed and marks a change in the object's own
+  status.
+- Chatam Sofer: *pidyon* is negative redemption, simply being saved from the
+  calamity at hand.
+- Rabbi Menachem Mendel of Kosov: temporary relief from what ails one.
+- Malbim: *pidyon* is the bare fact of salvation.
+- Rabbi Shmuel Tuvia Stern: *pidyon* takes something holy and releases it by
+  transferring the holiness onto something else (the redemption of hekdesh);
+  alternatively, *pidyon* is case-by-case redemption of the individual. (Rabbi
+  Stern was the Rabbi of Miami Beach.)
 
 A note on spelling: *podeh* is
 generally spelled with a heh, but in one place (Iyov 33:24) Scripture replaces
@@ -52,21 +55,24 @@ that *podeh* with an ayin *may* be related to a similar-sounding Arabic word
 meaning "removal."
 
 ### geulah (גאולה), goel (גואל)
-Root ג-א-ל. The Vilna Gaon: the *geulah* of Yetzias Mitzrayim was rescue by sheer
-force, with no remuneration of any kind. Rabbi Chaim of Brisk: *geulah* looks at
-the owner and marks a change of ownership. Chatam Sofer: positive redemption,
-not only saved from something bad but raised above one's circumstances and made
-greater. Rabbi Menachem Mendel of Kosov: comprehensive, everlasting
-deliverance. Malbim: *geulah* is redemption born of closeness between redeemer
-and redeemed, and that closeness is the impetus for the redeemer's feeling of
-responsibility to save. The same closeness lies behind *goel hadam*: when a
-man's relative is murdered he holds a status that may, under certain
-circumstances, perhaps allow avenging the death, and Bamidbar 35:19 calls him
-*goel hadam*, "redeemer of blood," where *goel* alludes to the avenger's kinship
-with his murdered brethren. Rabbi Shmuel Tuvia Stern:
-*geulah* takes what is
-profane and shakes off its non-holy associations so it may enter the domain of
-the holy; alternatively, *geulah* is mass redemption of the nation at large.
+Root ג-א-ל.
+- The Vilna Gaon: the *geulah* of Yetzias Mitzrayim was rescue by sheer force,
+  with no remuneration of any kind.
+- Rabbi Chaim of Brisk: *geulah* looks at the owner and marks a change of
+  ownership.
+- Chatam Sofer: positive redemption, not only saved from something bad but
+  raised above one's circumstances and made greater.
+- Rabbi Menachem Mendel of Kosov: comprehensive, everlasting deliverance.
+- Malbim: *geulah* is redemption born of closeness between redeemer and
+  redeemed, and that closeness is the impetus for the redeemer's feeling of
+  responsibility to save. The same closeness lies behind *goel hadam*: when a
+  man's relative is murdered he holds a status that may, under certain
+  circumstances, perhaps allow avenging the death, and Bamidbar 35:19 calls him
+  *goel hadam*, "redeemer of blood," where *goel* alludes to the avenger's
+  kinship with his murdered brethren.
+- Rabbi Shmuel Tuvia Stern: *geulah* takes what is profane and shakes off its
+  non-holy associations so it may enter the domain of the holy; alternatively,
+  *geulah* is mass redemption of the nation at large.
 
 The end of Vayikra treats
 redemption in the legal sense: the right, or even the commandment, of the

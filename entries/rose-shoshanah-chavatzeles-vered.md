@@ -53,19 +53,20 @@ Shir HaShirim 2:1 sets
 
 ## Where the authorities disagree
 
-**How many petals a shoshanah has, and therefore what it is.** Ibn Ezra (to Shir
-HaShirim 2:1) cites a tradition explaining the doubled shin as *shesh*, six, so
-the flower has six petals; Radak (*Sefer HaShorashim*) gives a similar explanation, and Rabbi
-Shlomo Pappenheim traces the word to the biliteral ש-ש on that basis. Six petals
-would rule out a rose, since roses typically have five petals or multiples of
-five. The Zohar
-cuts across this: at *Hakdamah* 1a a *shoshanah* is ringed by thirteen petals,
-like Knesses Yisrael ringed by the thirteen middos of rachamim, and on the same
-page it has five "strong" petals, which is why the five fingers should encircle
-the kos shel berachah. Elsewhere (*Vayechi* 221a, *Emor* 105a) the Zohar says
-six. Rabbi Eliyahu HaBachur (*Sefer Tishbi*) records the white-six-petal-lily
-reading and rejects it: Shir HaShirim has the *shoshanah* growing among thorns
-(2:2), and lilies do not.
+**How many petals a shoshanah has, and therefore what it is.**
+- Ibn Ezra (to Shir HaShirim 2:1) cites a tradition explaining the doubled shin
+  as *shesh*, six, so the flower has six petals; Radak (*Sefer HaShorashim*)
+  gives a similar explanation, and Rabbi Shlomo Pappenheim traces the word to
+  the biliteral ש-ש on that basis. Six petals would rule out a rose, since roses
+  typically have five petals or multiples of five.
+- The Zohar cuts across this: at *Hakdamah* 1a a *shoshanah* is ringed by
+  thirteen petals, like Knesses Yisrael ringed by the thirteen middos of
+  rachamim, and on the same page it has five "strong" petals, which is why the
+  five fingers should encircle the kos shel berachah. Elsewhere (*Vayechi* 221a,
+  *Emor* 105a) the Zohar says six.
+- Rabbi Eliyahu HaBachur (*Sefer Tishbi*) records the white-six-petal-lily
+  reading and rejects it: Shir HaShirim has the *shoshanah* growing among thorns
+  (2:2), and lilies do not.
 
 **Whether chavatzeles and shoshanah are one flower.** Radak (*Sefer HaShorashim*)
 defines *chavatzeles* outright as *rosa*, a rose, and explicitly links it to
@@ -117,19 +118,22 @@ reason all of this puts him in mind of the War of the Roses in England.)
 **Whether shoshanah and vered are the same.** Rambam (*Hilchos Berachos* 9:6)
 lists *shoshanah*, *narkis* (*chavatzeles*), and *vered* separately, which led
 Rabbi Yosef Karo (*Kesef Mishneh*) to ask: if *vered* and *shoshanah* are not
-one, what is a *shoshanah*? Rabbi Massoud Chai Rokach (*Maaseh Rokeach*) answers
-that Rabbi Karo knew both are roses and one is red and the other white, and only
-wanted to know which is which (see Rambam to Mishnah Sheviis 7:6). Rabbi
-Yirmiyahu Low (*Divrei Yirmiyahu*) answers differently: *vered* is a general
-term that can take in various flowers and *shoshanah* the more specific term,
-the rose as a kind of *vered*, which is borne out by *Vayikra Rabbah* 23:3,
-"*shoshanah achas shel vered*." Rabbi Reuven Chaim Klein offers a third possibility of his
-own, that *vered* is the whole plant and *shoshanah* specifically the flower.
-The Zohar (*Ki Sisa* 189b) appears to equate them outright, and the Targumim
-render *shoshanah* as *vered*. Ibn Ezra (to Shir HaShirim 2:1) cites some
-commentators who explain *chavatzeles* as *vered* and others who explain
-*shoshanah* as *vered*; taken together, Rabbi Klein suggests, this might echo the
-view that *chavatzeles* and *shoshanah* are one and the same.
+one, what is a *shoshanah*?
+- Rabbi Massoud Chai Rokach (*Maaseh Rokeach*) answers that Rabbi Karo knew both
+  are roses and one is red and the other white, and only wanted to know which is
+  which (see Rambam to Mishnah Sheviis 7:6).
+- Rabbi Yirmiyahu Low (*Divrei Yirmiyahu*) answers differently: *vered* is a
+  general term that can take in various flowers and *shoshanah* the more
+  specific term, the rose as a kind of *vered*, which is borne out by *Vayikra
+  Rabbah* 23:3, "*shoshanah achas shel vered*."
+- Rabbi Reuven Chaim Klein offers a third possibility of his own, that *vered*
+  is the whole plant and *shoshanah* specifically the flower.
+- The Zohar (*Ki Sisa* 189b) appears to equate them outright, and the Targumim
+  render *shoshanah* as *vered*.
+- Ibn Ezra (to Shir HaShirim 2:1) cites some commentators who explain
+  *chavatzeles* as *vered* and others who explain *shoshanah* as *vered*; taken
+  together, Rabbi Klein suggests, this might echo the view that *chavatzeles*
+  and *shoshanah* are one and the same.
 
 ## Distinctions
 
@@ -151,16 +155,19 @@ of sin and shin: a beautiful, fragrant flower gladdens whoever meets it.
 ### chavatzeles (חבצלת)
 Twice in Tanach: "the *chavatzeles* of the Sharon, the *shoshanah* of the
 valleys" (Shir HaShirim 2:1), and Yeshayahu's desolate place that "blossoms like
-a *chavatzeles*" (35:1). Various commentators to the Midrash, among them *Matnos Kehunah*,
-*Eitz Yosef*, and *Maharzu*, and also *Peirush HaRokeach*, parse it as ח-ב
-(hidden) plus *tzel* (shadow): the young flower's beauty is still hidden in its
-own shade. *Shir HaShirim Rabbah* 2:1 reads it as *chaviv* (dear) plus *tzel*,
-and develops several ways in which comparing Israel to the *chavatzeles* is
-praise. Rabbi Moshe Tedeschi-Ashkenazi (*Ho'il Moshe*) sees the string *batzel*, an
-onion, inside the five-letter word, so a flower that grows from an onion; he
-then adds a comment in Italian that a *chavatzeles* is a lily or a hyacinth.
-Rabbi Ernest Klein surmises that *chavatzeles* is somehow related to the
-Akkadian *habasillatu*, stalk.
+a *chavatzeles*" (35:1).
+- Various commentators to the Midrash, among them *Matnos Kehunah*, *Eitz
+  Yosef*, and *Maharzu*, and also *Peirush HaRokeach*, parse it as ח-ב (hidden)
+  plus *tzel* (shadow): the young flower's beauty is still hidden in its own
+  shade.
+- *Shir HaShirim Rabbah* 2:1 reads it as *chaviv* (dear) plus *tzel*, and
+  develops several ways in which comparing Israel to the *chavatzeles* is
+  praise.
+- Rabbi Moshe Tedeschi-Ashkenazi (*Ho'il Moshe*) sees the string *batzel*, an
+  onion, inside the five-letter word, so a flower that grows from an onion; he
+  then adds a comment in Italian that a *chavatzeles* is a lily or a hyacinth.
+- Rabbi Ernest Klein surmises that *chavatzeles* is somehow related to the
+  Akkadian *habasillatu*, stalk.
 
 ### vered (ורד)
 Not in Tanach; Mishnaic (Sheviis 7:6-7, Maasros 2:5, Shabbos 14:4) and the

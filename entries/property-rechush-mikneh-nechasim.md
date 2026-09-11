@@ -122,36 +122,39 @@ in a barn rather than a home.
 
 ### nechasim (נכסים)
 Seven times in Tanach, always plural: once in Yehoshua (22:8), twice in Koheles
-(5:18, 6:2), twice in Divrei HaYamim II (1:11 and 1:12), and twice in the Aramaic
-of Ezra (6:8, 7:26). In rabbinic Hebrew it is the standard term for total assets:
-*rechush* and *mikneh* never appear in the Mishnah, and *nechasim* runs through
-it (Peah 3:6-8, Kesubos 8:1-2, Bava Basra 8:3-7, Avos 2:7, and dozens more).
-Bamidbar Rabbah 22:8 assumes it is related to *kisui*, covered or hidden: assets
-are *nechasim* "because they are hidden from this one and revealed to that one,"
-that is, material possessions are held only for a time and do not inherently
-become an inseparable part of the man, the way physical strength or wisdom might
-be said to.
-Rabbi Shmuel de Ucedah (*Midrash Shmuel* to Avos 2:8) sharpens it: a man often
-spends much of his life accruing riches, then dies, and others end up reaping the
-benefit of his labor, so there is always a hidden side to materialism, the one
-who toils not always being the one who enjoys the fruit. He closes the discussion
-cynically: "many people gather up money for the benefit of their wives' [future]
-husbands." Rabbi Shimon Yehuda Leib Goldblit, an early twentieth-century exegete,
-offers two more ways of tying *nechasim* to *kisui*: a man's financial worth is
-often hidden from those who meet him, since net worth is not readily apparent to one who does
-not know; or, where a man has all sorts of flaws but is wealthy, his wealth
-covers up his shortcomings so that people relate to him as though he did not have
-them (this second explanation is already found in *Shoresh Yesha*). Rabbi Shlomo
-Pappenheim likewise traces *nechasim* to the biliteral KAF-SAMECH, whose core
-meaning is placing something on top of something else: *kisui*; *kesus*,
-clothing, which covers the skin; *kos*, a cup that has a cover; *kisei*, a chair
-that has a cover; *kis*, a pocket, a covered container; *meches*, tax, monies
-that fall into the government's *kis*; and *michsah*, the central pot of funds
-into which the partners in a korban Pesach pool their monies (Shemos 12:4).
-*Nechasim* is then what one puts into one's pocket, whether literally or
-figuratively; or, alternatively, what one covers and hides in order to hold onto
-it and protect it; or, finally, what covers one's needs and necessities so that
-he does not need the aid of others to survive.
+(5:18, 6:2), twice in Divrei HaYamim II (1:11 and 1:12), and twice in the
+Aramaic of Ezra (6:8, 7:26). In rabbinic Hebrew it is the standard term for
+total assets: *rechush* and *mikneh* never appear in the Mishnah, and *nechasim*
+runs through it (Peah 3:6-8, Kesubos 8:1-2, Bava Basra 8:3-7, Avos 2:7, and
+dozens more).
+- Bamidbar Rabbah 22:8 assumes it is related to *kisui*, covered or hidden:
+  assets are *nechasim* "because they are hidden from this one and revealed to
+  that one," that is, material possessions are held only for a time and do not
+  inherently become an inseparable part of the man, the way physical strength or
+  wisdom might be said to. Rabbi Shmuel de Ucedah (*Midrash Shmuel* to Avos 2:8)
+  sharpens it: a man often spends much of his life accruing riches, then dies,
+  and others end up reaping the benefit of his labor, so there is always a
+  hidden side to materialism, the one who toils not always being the one who
+  enjoys the fruit. He closes the discussion cynically: "many people gather up
+  money for the benefit of their wives' [future] husbands."
+- Rabbi Shimon Yehuda Leib Goldblit, an early twentieth-century exegete, offers
+  two more ways of tying *nechasim* to *kisui*: a man's financial worth is often
+  hidden from those who meet him, since net worth is not readily apparent to one
+  who does not know; or, where a man has all sorts of flaws but is wealthy, his
+  wealth covers up his shortcomings so that people relate to him as though he
+  did not have them (this second explanation is already found in *Shoresh
+  Yesha*).
+- Rabbi Shlomo Pappenheim likewise traces *nechasim* to the biliteral
+  KAF-SAMECH, whose core meaning is placing something on top of something else:
+  *kisui*; *kesus*, clothing, which covers the skin; *kos*, a cup that has a
+  cover; *kisei*, a chair that has a cover; *kis*, a pocket, a covered
+  container; *meches*, tax, monies that fall into the government's *kis*; and
+  *michsah*, the central pot of funds into which the partners in a korban Pesach
+  pool their monies (Shemos 12:4). *Nechasim* is then what one puts into one's
+  pocket, whether literally or figuratively; or, alternatively, what one covers
+  and hides in order to hold onto it and protect it; or, finally, what covers
+  one's needs and necessities so that he does not need the aid of others to
+  survive.
 
 ## Rendering guidance
 

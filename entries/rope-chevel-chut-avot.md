@@ -67,15 +67,18 @@ his arms as though it were the other.
 
 ## Where the authorities disagree
 
-**The root of *chut*.** Ibn Janach and Radak (each in his *Sefer HaShorashim*)
-take a three-letter ח-ו-ט. Menachem Ibn Saruk (*Machberes Menachem*) treats the
-middle VAV as extraneous and reads a biliteral ח-ט. Rabbi Shlomo Pappenheim
-builds on Menachem: ח-ט at its core is blemish or deficiency, physical and
-spiritual both. Hence *cheit*; hence Batsheva's warning that if Shlomo does not
-succeed to the throne she and her son will be *chataim*, lacking what should be
-theirs (Melachim I 1:21); hence the intensive *l'chatei*, to clean up a
-deficiency, and the *korban chatas*, which cleans up the one who sinned. A
-*chut* fits the same core, since a thread repairs a torn garment.
+**The root of *chut*.**
+- Ibn Janach and Radak (each in his *Sefer HaShorashim*) take a three-letter
+  ח-ו-ט.
+- Menachem Ibn Saruk (*Machberes Menachem*) treats the middle VAV as extraneous
+  and reads a biliteral ח-ט.
+- Rabbi Shlomo Pappenheim builds on Menachem: ח-ט at its core is blemish or
+  deficiency, physical and spiritual both. Hence *cheit*; hence Batsheva's
+  warning that if Shlomo does not succeed to the throne she and her son will be
+  *chataim*, lacking what should be theirs (Melachim I 1:21); hence the
+  intensive *l'chatei*, to clean up a deficiency, and the *korban chatas*, which
+  cleans up the one who sinned. A *chut* fits the same core, since a thread
+  repairs a torn garment.
 
 **Whether the spies' rope and Rachav's marker were the same object.** The
 narrative uses three words: Rachav lowered the spies through the window on a

@@ -35,31 +35,30 @@ it is "secret."
 ### sod (סוד)
 More than twenty times in Tanach, and in none of them quite the "secret" of
 modern usage. Root ס-ו-ד (Ibn Janach, Radak) or the biliteral SAMECH-DALET (Ibn
-Saruk, Pappenheim). Ibn Janach (*Sefer HaShorashim*): two distinct senses, a
-gathering of people (Amos 3:7, Hashem does nothing without revealing His *sod*
-to His servants the prophets) and advice
-(Mishlei 15:22, plans are cancelled without *sod*). Radak (*Shorashim*)
-disagrees with that formulation and holds the two are really one: the *sod* is
-the council one takes counsel from, an understanding analogous to the English
-"counsel/council."
-Hence the piyut rubric *misod chachamim u'nevonim* means "from the counsel of
-the earlier sages" who recommended adding the poetic compositions, not from any
-untold secret. The Rabbinic sense follows: only one's closest advisors are privy
-to one's innermost plans, so *sod* expanded to mean any restricted or
-confidential matter (Eruvin 65a and Sanhedrin 38a, "when the wine enters, the
-*sod* comes out"; Pesachim 49b, one of six things said of an ignoramus is that
-one should not reveal one's *sod* to him; Chagigah 14a, Hashem will reveal the
-*sod* in the World to Come to Torah scholars who deprive themselves of sleep in
-this one; Yevamos 63b, reveal your *sod* to one in a thousand), and *sod
-ha'ibbur* (Rosh HaShanah 20b, Kesubos 112a) is calendar lore taught in *remazim*
-(Rashi to Rosh HaShanah 20b). Rav Hirsch (to
-Bereishis 49:6): SAMECH/ZAYIN/TZADI-VAV-DALET, linked by the interchange of
-samech, zayin and tzadi, all mean a plan fomenting in the
-depths of thought: *nazid* the dish left to cook (Bereishis 25:29, Melachim II
-4:38), the longer on the flame the more developed; *meizid* the premeditated
-act cooked up in the mind beforehand;
-*tzad* the trap carried out; *sod* the plan shared with others for mutual
-consultation.
+Saruk, Pappenheim).
+- Ibn Janach (*Sefer HaShorashim*): two distinct senses, a gathering of people
+  (Amos 3:7, Hashem does nothing without revealing His *sod* to His servants the
+  prophets) and advice (Mishlei 15:22, plans are cancelled without *sod*).
+- Radak (*Shorashim*) disagrees with that formulation and holds the two are
+  really one: the *sod* is the council one takes counsel from, an understanding
+  analogous to the English "counsel/council." Hence the piyut rubric *misod
+  chachamim u'nevonim* means "from the counsel of the earlier sages" who
+  recommended adding the poetic compositions, not from any untold secret. The
+  Rabbinic sense follows: only one's closest advisors are privy to one's
+  innermost plans, so *sod* expanded to mean any restricted or confidential
+  matter (Eruvin 65a and Sanhedrin 38a, "when the wine enters, the *sod* comes
+  out"; Pesachim 49b, one of six things said of an ignoramus is that one should
+  not reveal one's *sod* to him; Chagigah 14a, Hashem will reveal the *sod* in
+  the World to Come to Torah scholars who deprive themselves of sleep in this
+  one; Yevamos 63b, reveal your *sod* to one in a thousand), and *sod ha'ibbur*
+  (Rosh HaShanah 20b, Kesubos 112a) is calendar lore taught in *remazim* (Rashi
+  to Rosh HaShanah 20b).
+- Rav Hirsch (to Bereishis 49:6): SAMECH/ZAYIN/TZADI-VAV-DALET, linked by the
+  interchange of samech, zayin and tzadi, all mean a plan fomenting in the
+  depths of thought: *nazid* the dish left to cook (Bereishis 25:29, Melachim II
+  4:38), the longer on the flame the more developed; *meizid* the premeditated
+  act cooked up in the mind beforehand; *tzad* the trap carried out; *sod* the
+  plan shared with others for mutual consultation.
 
 Pappenheim: SAMECH-DALET is "foundation," most obviously *yesod* and *mossad*;
 in the abstract a *yesod* is an axiomatic given of intellectual discourse, and
@@ -96,20 +95,22 @@ punished while the nations fail to see why, so that Hashem alone is privy to
 what they will really have done and really deserve. A possible cognate appears
 in the Mishnah (Peah 5:8), where sheaves bundled into *kumsaos*, stack bases,
 are exempted from the rule that bundles forgotten in the field are left for the
-poor. Rav Hirsch (to
-Shemos 35:22, Vayikra 2:2, Devarim 32:34), implicitly invoking the interchange of kaf and
-kuf and of samech and tzadi, joins *kamus* to *kamatz*, gathered and
-minimized, both of them something stored away and protected: in the case of
-*kamus*, protected classified information kept from those who do not need to
-know. Rabbi Avi Kobernick similarly reads it against its metathesis
-SAMECH-MEM-KAF, next to or adjacent, arguing that closely guarded secrets are
-kept close and not revealed indiscriminately. Rabbi Reuven Chaim Klein once
-theorized, as his own view, that the mem of KAF-MEM-SAMECH is not integral and
-the core etymon is the biliteral KAF-SAMECH, cover, since what is covered
-becomes hidden.
-The compound *sod kamus*, a secretive secret, was coined by Rabbi
-Yitzchak Ibn Ghiyyat in one of his poems, according to the Academy of the Hebrew
-Language, and has only grown in popularity since.
+poor.
+- Rav Hirsch (to Shemos 35:22, Vayikra 2:2, Devarim 32:34), implicitly invoking
+  the interchange of kaf and kuf and of samech and tzadi, joins *kamus* to
+  *kamatz*, gathered and minimized, both of them something stored away and
+  protected: in the case of *kamus*, protected classified information kept from
+  those who do not need to know.
+- Rabbi Avi Kobernick similarly reads it against its metathesis SAMECH-MEM-KAF,
+  next to or adjacent, arguing that closely guarded secrets are kept close and
+  not revealed indiscriminately.
+- Rabbi Reuven Chaim Klein once theorized, as his own view, that the mem of
+  KAF-MEM-SAMECH is not integral and the core etymon is the biliteral
+  KAF-SAMECH, cover, since what is covered becomes hidden.
+
+The compound *sod kamus*, a secretive secret, was coined by Rabbi Yitzchak Ibn
+Ghiyyat in one of his poems, according to the Academy of the Hebrew Language,
+and has only grown in popularity since.
 
 ### raz (רז, רזא)
 Aramaic (*raz*, Daniel 4:6; *raza*, Daniel 2:18-47), possibly once in Hebrew

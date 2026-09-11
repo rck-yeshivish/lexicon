@@ -91,52 +91,61 @@ received from outside, and Chelouche as a more intense shame than *bushah* and
 ## Distinctions
 
 ### bushah (בושה)
-Root ב-ו-ש. The hypernym. Radak (to Yeshayahu 45:16 and in *Sefer HaShorashim*)
-notes that wherever *bushah* stands beside *klimah* it comes first, because it is
-the less intense form; Rabbeinu Yonah (*Shaarei Teshuvah*) says the same. Radak
-in *Sefer HaShorashim* adds a second way to divide the two: *bushah* is a general
-hypernym covering shame for a positive thing (a humble man shamed at being
-praised for a good deed) as well as for a negative one, while *klimah* is a
-hyponym confined to the negative reason. Rabbi Avraham Bedersi (*Chotam
-Tochnit*): *bushah* is the shame of an expectation that failed, whether of
-something happening or of one's own ability to do something; *chafrah* he makes
-its inverse, shame at something happening that was not supposed to happen.
-Rabbi Yehuda Leib Edel (1760 to 1828): *bushah* sometimes names a shame not
-inherent to the act at all but felt from the circumstances, as with the thief
-ashamed at being seen (Yirmiyahu 2:26), which stems from man's standing as a
-social creature and bespeaks nothing of his moral contrition. Malbim: *bushah*
-is internal shame. Wertheimer: *bushah* can arise from the shamed man himself or
-from someone outside him. Targum typically renders it *bahat*.
+Root ב-ו-ש. The hypernym.
+- Radak (to Yeshayahu 45:16 and in *Sefer HaShorashim*) notes that wherever
+  *bushah* stands beside *klimah* it comes first, because it is the less intense
+  form; Rabbeinu Yonah (*Shaarei Teshuvah*) says the same. Radak in *Sefer
+  HaShorashim* adds a second way to divide the two: *bushah* is a general
+  hypernym covering shame for a positive thing (a humble man shamed at being
+  praised for a good deed) as well as for a negative one, while *klimah* is a
+  hyponym confined to the negative reason.
+- Rabbi Avraham Bedersi (*Chotam Tochnit*): *bushah* is the shame of an
+  expectation that failed, whether of something happening or of one's own
+  ability to do something; *chafrah* he makes its inverse, shame at something
+  happening that was not supposed to happen.
+- Rabbi Yehuda Leib Edel (1760 to 1828): *bushah* sometimes names a shame not
+  inherent to the act at all but felt from the circumstances, as with the thief
+  ashamed at being seen (Yirmiyahu 2:26), which stems from man's standing as a
+  social creature and bespeaks nothing of his moral contrition.
+- Malbim: *bushah* is internal shame.
+- Wertheimer: *bushah* can arise from the shamed man himself or from someone
+  outside him.
+- Targum typically renders it *bahat*.
 
 ### klimah (כלימה)
-Root כ-ל-ם. The most intense of the three for Bedersi: shame for having done what
-one ought not, or for being screamed at or otherwise called out for it. Edel:
-*klimah* and *cherpah* name the inherently shameful and humiliating aspect of
-what was done, so a thief who describes his theft with one of them shows he
-recognizes the moral reprehensibility of the act, not merely his shame at being
-caught. Malbim and Rabbi Shlomo Aharon Wertheimer (1866 to 1935): *klimah* is shame
-that comes from outside, from another person humiliating him. Rabbi Dovid Golumb
-(1861 to 1935) relates the root KAF-LAMMED-MEM to KAF-LAMMED-ALEPH, whence *kele*
-("jail, incarceration"): a shamed man retreats into himself and locks himself up,
-in some sense, to avoid the outside world. Rav Hirsch (to Vayikra 13:59, Tehillim
-139:16) similarly sees the root as related to the phonetically close
-GIMMEL-LAMMED-MEM, through the interchange of kaf and gimmel, whence *golem*
-("unshaped material"): as a *golem* lacks shape in a physical sense, so a shamed
-man feels he lacks shape or form in a spiritual and moral sense, as though part
-of his humanity had been taken from him.
+Root כ-ל-ם.
+- The most intense of the three for Bedersi: shame for having done what one
+  ought not, or for being screamed at or otherwise called out for it.
+- Edel: *klimah* and *cherpah* name the inherently shameful and humiliating
+  aspect of what was done, so a thief who describes his theft with one of them
+  shows he recognizes the moral reprehensibility of the act, not merely his
+  shame at being caught.
+- Malbim and Rabbi Shlomo Aharon Wertheimer (1866 to 1935): *klimah* is shame
+  that comes from outside, from another person humiliating him.
+- Rabbi Dovid Golumb (1861 to 1935) relates the root KAF-LAMMED-MEM to
+  KAF-LAMMED-ALEPH, whence *kele* ("jail, incarceration"): a shamed man retreats
+  into himself and locks himself up, in some sense, to avoid the outside world.
+- Rav Hirsch (to Vayikra 13:59, Tehillim 139:16) similarly sees the root as
+  related to the phonetically close GIMMEL-LAMMED-MEM, through the interchange
+  of kaf and gimmel, whence *golem* ("unshaped material"): as a *golem* lacks
+  shape in a physical sense, so a shamed man feels he lacks shape or form in a
+  spiritual and moral sense, as though part of his humanity had been taken from
+  him.
 
 ### cherpah (חרפה) and chafrah (חפרה)
-Root ח-ר-ף / ח-פ-ר. Wertheimer: *cherpah* is the shame felt after being
-belittled or insulted by another; *chafrah* is wanting to dig (*chofer*) a hole
-and crawl into it so that nobody sees him, again as the result of being shamed
-by another. Malbim: *chafrah* is the most intense, burying one's head out of
-sheer shame; he also separates internal *charfah* from external *cherpah*.
-Bedersi reads *cherpah* as closer to disparagement than to shame (see Rabbi
-Klein's separate essay "Disgraceful Disparagement," November 2021). Chelouche
-takes *cherpah* as more intense than *bushah* and *klimah*: the maidservant designated to a
-particular man for conjugal purposes is a *charufah* (Vayikra 19:20), a
-conjugation of *cherpah*, because she is placed in a humiliating position, having
-no matrimonial bond to the man for whom she is designated.
+Root ח-ר-ף / ח-פ-ר.
+- Wertheimer: *cherpah* is the shame felt after being belittled or insulted by
+  another; *chafrah* is wanting to dig (*chofer*) a hole and crawl into it so
+  that nobody sees him, again as the result of being shamed by another.
+- Malbim: *chafrah* is the most intense, burying one's head out of sheer shame;
+  he also separates internal *charfah* from external *cherpah*.
+- Bedersi reads *cherpah* as closer to disparagement than to shame (see Rabbi
+  Klein's separate essay "Disgraceful Disparagement," November 2021).
+- Chelouche takes *cherpah* as more intense than *bushah* and *klimah*: the
+  maidservant designated to a particular man for conjugal purposes is a
+  *charufah* (Vayikra 19:20), a conjugation of *cherpah*, because she is placed
+  in a humiliating position, having no matrimonial bond to the man for whom she
+  is designated.
 
 Shapira-Frankfurter does not himself address *cherpah*/*chafrah*. Rabbi Klein
 offers his own conjecture: that the root ח-פ-ר may be related to ח-ו-ר

@@ -95,15 +95,16 @@ bears this out, typically rendering *shoev* as *mamlei*, a cognate of *mimaleh*,
 Mikra*, infers from Ramban (Bereishis 24:17) that the core act is the lowering of
 the bucket into the well to bring back water.
 
-**Whether shoev and shoef are one word.** Rav Hirsch connects them through the
-interchangeability of *beis* and *pei*. *Midrash Sechel Tov* (to Bereishis
-24:11), the earliest source to draw the connection, notes the thematic likeness
-between internalizing a yearning (*shoef*) and filling a container with water
-(*shoev*), and rejects the comparison on principle: he agrees to exegeses built
-on interchangeable letters in proper names, not in ordinary content words. Rabbi
-Shlomo Aharon Wertheimer writes that strictly speaking the two could be viewed as
-somewhat interchangeable, but that in practice *shoev* is drawing water, at least
-in Biblical Hebrew, and *shoef* is drawing air.
+**Whether shoev and shoef are one word.**
+- Rav Hirsch connects them through the interchangeability of *beis* and *pei*.
+- *Midrash Sechel Tov* (to Bereishis 24:11), the earliest source to draw the
+  connection, notes the thematic likeness between internalizing a yearning
+  (*shoef*) and filling a container with water (*shoev*), and rejects the
+  comparison on principle: he agrees to exegeses built on interchangeable
+  letters in proper names, not in ordinary content words.
+- Rabbi Shlomo Aharon Wertheimer writes that strictly speaking the two could be
+  viewed as somewhat interchangeable, but that in practice *shoev* is drawing
+  water, at least in Biblical Hebrew, and *shoef* is drawing air.
 
 ## Distinctions
 
@@ -162,20 +163,23 @@ grammatically inappropriate name; Rabbi Kimchi adds that there was an element of
 Divine providence in it too, the name hinting at his future role in pulling the
 Jewish People out of their exile in Mitzrayim.
 
-Others read the active form as pointing at Moshe himself. Rabbi Moshe Alshich (to
-Shemos 2:10) suggests that in naming him Moshe she meant to express the magnetic
-charm that compelled her to leave the palace and bathe in the river (see Ibn Ezra
-there), as though *he* pulled *her* toward it. Rabbi Shlomo Zalman Ehrenreich
-similarly suggests the name reflects Moshe's power to draw the people after him, a
-magnetic personality, or his pulling Yisrael out of the impurities of
-Mitzrayim. *Peirush HaRokeach* (to Shemos 2:10): he was destined to pull the
-Jewish People out of the water at the Splitting of the Sea. The Tosafists
-(*Moshav Zekanim* to Shemos 2:10): she prophesied his drawing water from the rock
-in the wilderness. *Midrash HaGadol* (to Shemos 2:10): Moshe pulled himself out
-of the water, in that his own future merits caused her to save him. Rabbi
-Menachem Mendel Kasher in *Torah Shleimah* cites an unpublished medieval
-manuscript suggesting that Hashem arranged for her to name him Moshe because
-משה is השם spelled backwards.
+Others read the active form as pointing at Moshe himself.
+- Rabbi Moshe Alshich (to Shemos 2:10) suggests that in naming him Moshe she
+  meant to express the magnetic charm that compelled her to leave the palace and
+  bathe in the river (see Ibn Ezra there), as though *he* pulled *her* toward
+  it.
+- Rabbi Shlomo Zalman Ehrenreich similarly suggests the name reflects Moshe's
+  power to draw the people after him, a magnetic personality, or his pulling
+  Yisrael out of the impurities of Mitzrayim.
+- *Peirush HaRokeach* (to Shemos 2:10): he was destined to pull the Jewish
+  People out of the water at the Splitting of the Sea.
+- The Tosafists (*Moshav Zekanim* to Shemos 2:10): she prophesied his drawing
+  water from the rock in the wilderness.
+- *Midrash HaGadol* (to Shemos 2:10): Moshe pulled himself out of the water, in
+  that his own future merits caused her to save him.
+- Rabbi Menachem Mendel Kasher in *Torah Shleimah* cites an unpublished medieval
+  manuscript suggesting that Hashem arranged for her to name him Moshe because
+  משה is השם spelled backwards.
 
 Two more go in a slightly different direction. Chizkuni
 (to Shemos 2:10) implies that in giving the name she was praying that Moshe grow

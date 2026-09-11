@@ -124,22 +124,24 @@ derives from Shemos 23:19 and Shmuel I 7:9 that *tleh* and *gedi* name animals
 still nursing.
 
 ### atud (עתוד)
-The word whose meaning is most obscured. As some commentators
-have it, *atud* denotes a he-goat larger and stronger than usual (see Ibn Ezra to
-Bamidbar 15:25 and Yeshayahu 1:11), and it is used especially of the male goat
-that leads the flock (Yirmiyahu 50:8). Targum Onkelos renders it *tayish*, adult
-male goat, in one place (Bereishis 31:10) and *gedi*, young goat, in another
-(Bamidbar 7:17). *Peirush HaTur HaAruch* (Bereishis 31:10) and Rabbi Yosef
-Chiyyun (Tehillim 50:13): *atudim* are fattened *kevasim*, young sheep.
-Alternatively Ramban (Bereishis 31:10) argues they are any adult male of either
-species. So *atud* might be any goat,
-or an extra-large adult goat, or a fat young sheep, or any male of either
-species. Related fatling
-words: *karim* (Devarim 32:14; Yechezkel 27:21; Yirmiyahu 51:40), perhaps male
-sheep specifically, which Pappenheim traces to kaf-reish, digging, after the
-ditches that bordered rich pasture; and *meri* / *meriim*, fattened sheep and
-goats per Rashi to Yeshayahu 1:11 but fattened cattle per Ibn Ezra there, traced
-by Pappenheim to reish-vav, quenching or satisfying.
+The word whose meaning is most obscured.
+- As some commentators have it, *atud* denotes a he-goat larger and stronger
+  than usual (see Ibn Ezra to Bamidbar 15:25 and Yeshayahu 1:11), and it is used
+  especially of the male goat that leads the flock (Yirmiyahu 50:8).
+- Targum Onkelos renders it *tayish*, adult male goat, in one place (Bereishis
+  31:10) and *gedi*, young goat, in another (Bamidbar 7:17).
+- *Peirush HaTur HaAruch* (Bereishis 31:10) and Rabbi Yosef Chiyyun (Tehillim
+  50:13): *atudim* are fattened *kevasim*, young sheep.
+- Alternatively Ramban (Bereishis 31:10) argues they are any adult male of
+  either species.
+
+So *atud* might be any goat, or an extra-large adult goat, or a fat young sheep,
+or any male of either species. Related fatling words: *karim* (Devarim 32:14;
+Yechezkel 27:21; Yirmiyahu 51:40), perhaps male sheep specifically, which
+Pappenheim traces to kaf-reish, digging, after the ditches that bordered rich
+pasture; and *meri* / *meriim*, fattened sheep and goats per Rashi to Yeshayahu
+1:11 but fattened cattle per Ibn Ezra there, traced by Pappenheim to reish-vav,
+quenching or satisfying.
 
 ## Rendering guidance
 

@@ -43,17 +43,19 @@ was less than an *amah*. Rabbi Yehoshua Steinberg of the Veromemanu Foundation
 infers from this that Rashi read *gomed* as a metathesized form of *gidem*, dalet
 and mem trading places.
 
-The other occurrence is Yechezkel 27:11, the *gamadim* who manned the watchtowers
-of Tyre. Rashi and Mahari Kara there first explain *gamadim* as seamen adept at
-measuring the depths of the sea with ropes; Rabbi Reuven Chaim Klein says this
-fits Rabbi Dr. Ernest Klein's connection of Hebrew *gamad* to the Ethiopic *gwend*, "stick,"
-probably a sort of yardstick used to measure a *gomed*. Subsequently Rashi, and
-Radak there and in *Sefer HaShorashim*, explain *gamadim* as short people, no
-more than an *amah* tall. Targum Yonasan there renders *gamadim* as
-Cappadocians; Rabbi Eliyahu Bachur (1469-1549) in *Sefer Tishbi* merges the
-Targum with Rashi's second explanation to posit that the Cappadocians were a
-nation of dwarfs, which Rabbi Reuven Chaim Klein likens in an aside to the
-Lilliputians of *Gulliver's Travels*.
+The other occurrence is Yechezkel 27:11, the *gamadim* who manned the
+watchtowers of Tyre.
+- Rashi and Mahari Kara there first explain *gamadim* as seamen adept at
+  measuring the depths of the sea with ropes; Rabbi Reuven Chaim Klein says this
+  fits Rabbi Dr. Ernest Klein's connection of Hebrew *gamad* to the Ethiopic
+  *gwend*, "stick," probably a sort of yardstick used to measure a *gomed*.
+- Subsequently Rashi, and Radak there and in *Sefer HaShorashim*, explain
+  *gamadim* as short people, no more than an *amah* tall.
+- Targum Yonasan there renders *gamadim* as Cappadocians.
+- Rabbi Eliyahu Bachur (1469-1549) in *Sefer Tishbi* merges the Targum with
+  Rashi's second explanation to posit that the Cappadocians were a nation of
+  dwarfs, which Rabbi Reuven Chaim Klein likens in an aside to the Lilliputians
+  of *Gulliver's Travels*.
 
 In Talmudic Hebrew the root means contracting or shrinking: Eretz Yisrael has the
 supernatural property of expanding to hold all its inhabitants when settled, and
@@ -94,25 +96,28 @@ short is not enough of a clue to confirm the identity of the deceased. Megillah
 son be neither too tall nor too short, too skinny nor too fat, too white nor too
 reddish, too intelligent nor too senseless.
 
-Three etymologies are on the table. Rabbi Binyamin Mussafia (1606-1675) in
-*Musaf HeAruch* writes that *gutz* actually comes from Greek. Dr. Alexander
-Kohut (1842-1894) in *Aruch HaShaleim* disagrees with that supposition, comparing
-the Hebrew and Aramaic *gutz* to the French *court* / *curt* and the Hungarian
-*kisci*, "small," which Rabbi Reuven Chaim Klein suggests may be due to the
-interchange of the gimmel and kuf sounds together with some shuffling of
-consonants; Kohut's etymology broadly follows his general observation that many languages have similar
-sounding terms for one phenomenon. Kohut further notes that French *curt* derives
-from the Latin *curtus*, which would relate it to English "short" and to the
-German and Yiddish *kurtz*, and modern linguists trace all of these to the
-Proto-Indo-European root *sker-*, "cutting," the ultimate etymon of scissors,
-shear, scabbard, skirmish, scar, shard, sharp, scrape, shirt, skirt and curt.
-Rabbi Reuven Chaim Klein calls a third etymology more plausible, an essentially
-Semitic one: the verb *gutz* in Aramaic generally means gnawing, biting or cutting off,
-so a short man is one whose height seems cut off from what one might otherwise
-have expected. Professor Michael Sokoloff, in *A Dictionary of Jewish Babylonian
-Aramaic of the Talmudic and Geonic Periods*, writes that the Aramaic root
-gimmel-vav-tzadi from which *gutz* derives is a later form of the biblical Hebrew
-root kuf-tzadi-tzadi, which also means "cut off."
+Three etymologies are on the table.
+- Rabbi Binyamin Mussafia (1606-1675) in *Musaf HeAruch* writes that *gutz*
+  actually comes from Greek.
+- Dr. Alexander Kohut (1842-1894) in *Aruch HaShaleim* disagrees with that
+  supposition, comparing the Hebrew and Aramaic *gutz* to the French *court* /
+  *curt* and the Hungarian *kisci*, "small," which Rabbi Reuven Chaim Klein
+  suggests may be due to the interchange of the gimmel and kuf sounds together
+  with some shuffling of consonants; Kohut's etymology broadly follows his
+  general observation that many languages have similar sounding terms for one
+  phenomenon. Kohut further notes that French *curt* derives from the Latin
+  *curtus*, which would relate it to English "short" and to the German and
+  Yiddish *kurtz*, and modern linguists trace all of these to the
+  Proto-Indo-European root *sker-*, "cutting," the ultimate etymon of scissors,
+  shear, scabbard, skirmish, scar, shard, sharp, scrape, shirt, skirt and curt.
+- Rabbi Reuven Chaim Klein calls a third etymology more plausible, an
+  essentially Semitic one: the verb *gutz* in Aramaic generally means gnawing,
+  biting or cutting off, so a short man is one whose height seems cut off from
+  what one might otherwise have expected. Professor Michael Sokoloff, in *A
+  Dictionary of Jewish Babylonian Aramaic of the Talmudic and Geonic Periods*,
+  writes that the Aramaic root gimmel-vav-tzadi from which *gutz* derives is a
+  later form of the biblical Hebrew root kuf-tzadi-tzadi, which also means "cut
+  off."
 
 ### nanas (ננס)
 The standing Rabbinic word for a dwarf, and the very word Rashi and Radak used

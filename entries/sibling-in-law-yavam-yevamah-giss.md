@@ -79,19 +79,21 @@ a high place: *yibbum* lifts up a downtrodden childless widow by marrying her an
 making her feel important again, or, he alternatively suggests, elevates the
 deceased brother's neshamah by establishing a family in his name.
 
-**What the verb *yibbum* does to her status.** Rabbi Shlomo Pappenheim: at the
-husband's death she was no longer actively considered a sister-in-law to the
-surviving brothers, and one of them marrying her brings her back into the family
-as a *yevamah* to the rest, which is why the mitzvah is called *yibbum*. Rabbi
-Wolf Heidenheim (1757-1832) takes the exact opposite approach: *yibbum* does not
-reinstate a lost status, particularly since halachically she never stopped being
-a sister-in-law to her husband's brothers; rather it makes her a wife instead of
-a *yevamah* and so eliminates that status as regards him, on the pattern of
-*shoresh*, a root, against *l'sharesh*, to uproot. Ibn Ezra (Bereishis 38:8)
-seems to explain, alternatively, that *yibbum* refers not to the *yevamah* but to
-the *yavam*: it is the quintessential act of brother-in-lawing, the *yavam*
-acting as brothers-in-law should who take charge of a widowed sister-in-law and
-bring her into their own family (see also *Meshech Chochmah* to Devarim 25:5).
+**What the verb *yibbum* does to her status.**
+- Rabbi Shlomo Pappenheim: at the husband's death she was no longer actively
+  considered a sister-in-law to the surviving brothers, and one of them marrying
+  her brings her back into the family as a *yevamah* to the rest, which is why
+  the mitzvah is called *yibbum*.
+- Rabbi Wolf Heidenheim (1757-1832) takes the exact opposite approach: *yibbum*
+  does not reinstate a lost status, particularly since halachically she never
+  stopped being a sister-in-law to her husband's brothers; rather it makes her a
+  wife instead of a *yevamah* and so eliminates that status as regards him, on
+  the pattern of *shoresh*, a root, against *l'sharesh*, to uproot.
+- Ibn Ezra (Bereishis 38:8) seems to explain, alternatively, that *yibbum*
+  refers not to the *yevamah* but to the *yavam*: it is the quintessential act
+  of brother-in-lawing, the *yavam* acting as brothers-in-law should who take
+  charge of a widowed sister-in-law and bring her into their own family (see
+  also *Meshech Chochmah* to Devarim 25:5).
 
 **Whether *yavam* is a kinship word at all.** Rabbi Mecklenburg and others, cited
 by Rabbi Heidenheim: Biblical Hebrew has no special word for brother-in-law or
@@ -102,29 +104,33 @@ mitzvah of *yibbum* and are not general kinship terms. Rabbi Heidenheim himself
 cites Ibn Ezra and HaBachur as clearly disagreeing, taking *yavam* / *yevamah* as
 kinship terms even outside a *yibbum* context.
 
-**What *giss* covers.** Rabbi Wolf Heidenheim: only a spouse's sibling or that
-sibling's spouse, so two men are *gissim* only if they married two sisters, and a
-man's sister's husband is not his *giss* even though English would call him a
-brother-in-law. His proof is the Mishnah (*Sanhedrin* 3:4), which lists the
-relatives disqualified from testifying and mentions *baal achoso*, his sister's
-husband, separately from *gisso*. Rabbi Tanchum HaYerushalmi, a thirteenth-century
-exegete who lived in Eretz Yisrael, defines *giss* as a man's wife's sister's
-husband, implying that his sister's husband is not his
-*giss*. Rabbi Klein holds that Heidenheim's proof from the Mishnah is not
-foolproof: Chullin 18b has Rabbi Yochanan calling Reish Lakish *gissa gissa*,
-which the Ritva says recalls that Reish Lakish was married to Rabbi Yochanan's
-sister (Bava Metzia 84a), and on that basis the *Nimukei Yosef* (*Sanhedrin* 6a
-in the Alfasi pagination), written by a student of the Ritva, explains that a
-sister's husband can evidently still be called a *giss* despite the Mishnah's
-separate listing. Rabbi Eliyahu HaBachur (1469-1549) cuts it by the speaker: a
-man calls his wife's brother a *giss*, a woman calls her husband's brothers her
-*yavam*, even where the mitzvah of *yibbum* does not apply, as when the Midrash
-speaks of Moshe from the standpoint of his sister-in-law Elisheva, Aharon's wife,
-and the Gemara (Zevachim 102a) calls him her *yavam*; so too two women married to
-brothers call each other *yevamos* (Rus 1:15). For HaBachur both a man's sister's
-husband and his wife's brother may be called *giss*, so two men married to two
-sisters are *gissim*; he concedes that a man might call his brother's wife or his
-wife's sister *gisaso*, but holds that a borrowed rather than the primary sense.
+**What *giss* covers.**
+- Rabbi Wolf Heidenheim: only a spouse's sibling or that sibling's spouse, so
+  two men are *gissim* only if they married two sisters, and a man's sister's
+  husband is not his *giss* even though English would call him a brother-in-law.
+  His proof is the Mishnah (*Sanhedrin* 3:4), which lists the relatives
+  disqualified from testifying and mentions *baal achoso*, his sister's husband,
+  separately from *gisso*.
+- Rabbi Tanchum HaYerushalmi, a thirteenth-century exegete who lived in Eretz
+  Yisrael, defines *giss* as a man's wife's sister's husband, implying that his
+  sister's husband is not his *giss*.
+- Rabbi Klein holds that Heidenheim's proof from the Mishnah is not foolproof:
+  Chullin 18b has Rabbi Yochanan calling Reish Lakish *gissa gissa*, which the
+  Ritva says recalls that Reish Lakish was married to Rabbi Yochanan's sister
+  (Bava Metzia 84a), and on that basis the *Nimukei Yosef* (*Sanhedrin* 6a in
+  the Alfasi pagination), written by a student of the Ritva, explains that a
+  sister's husband can evidently still be called a *giss* despite the Mishnah's
+  separate listing.
+- Rabbi Eliyahu HaBachur (1469-1549) cuts it by the speaker: a man calls his
+  wife's brother a *giss*, a woman calls her husband's brothers her *yavam*,
+  even where the mitzvah of *yibbum* does not apply, as when the Midrash speaks
+  of Moshe from the standpoint of his sister-in-law Elisheva, Aharon's wife, and
+  the Gemara (Zevachim 102a) calls him her *yavam*; so too two women married to
+  brothers call each other *yevamos* (Rus 1:15). For HaBachur both a man's
+  sister's husband and his wife's brother may be called *giss*, so two men
+  married to two sisters are *gissim*; he concedes that a man might call his
+  brother's wife or his wife's sister *gisaso*, but holds that a borrowed rather
+  than the primary sense.
 
 **Whether *choten* can mean brother-in-law.** Ibn Janach (990-1050) says yes,
 adducing it from his understanding that Chovav ben Reuel was a son of Moshe's
