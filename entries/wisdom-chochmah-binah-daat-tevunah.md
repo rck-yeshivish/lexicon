@@ -36,30 +36,33 @@ ranks higher is disputed (the Maharal against some sources, see Maharsha).
 ## Distinctions
 
 ### chochmah (חכמה)
-Root ח-כ-ם. Rashi (to Shemos 31:3, Devarim 1:13, Mishlei 1:5), whose source is
-the exchange between Rabbi Yosi and Arius in the *Sifrei* (to Devarim 1:13),
-and likewise Radak (to Melachim I 3:12): *chochmah* is what a person hears,
-that is, learns, from others. Chazal's *chacham* casts a wide net: he learns
-from every person (Avos 4:1), foresees consequences not yet come to be (Tamid
-32a), makes his teachers wiser (Chagigah 14a). Rabbi Avraham Bedersi HaPenini:
-*chacham* is the opposite of a simpleton, anyone who has mastered a body of
-knowledge, whether carpentry (Yeshayahu 3:3, 40:20), snake-charming (Tehillim
-58:6) or other technical skills (Shemos 31:6), even cunning and political
-ingenuity (Shmuel II 13:3), used for ill as well (Yirmiyahu 4:22); but when
-Tanach speaks of a *chacham*, especially in Koheles, it means a religious
-scholar, a sage who has mastered the Torah and the Divine arts. Rabbi Shlomo
-Pappenheim (1740 to 1814): ח-כ is waiting or delaying, as in *mechakeh*
-(Yeshayahu 30:18; Chavakuk 2:3; Daniel 12:12; Iyov 32:4) and *chakah*, the
-fishing net one sets and waits by (Iyov 40:25; Yeshayahu 19:8; Chavakuk 1:15),
-so the *chacham* is the unhurried learner who waits to deliberate. He also
-derives *cheich*, the palate, from *chakah*, the open net resembling a mouth
-opened for food, and Rabbi Klein adds that Aramaic *chayach*, to smile, and
-Modern Hebrew *chiyuch* likely come from *cheich*. Malbim: *chochmah* is
-practical wisdom, applying only where its opposite was possible, the
-intelligence that chooses the smart way of acting over the foolish one; true
-*chochmah* comes only by Divine revelation, since otherwise one cannot know for
-certain that a way is the smartest, and non-revelatory *chochmah* is a borrowed
-term.
+Root ח-כ-ם.
+- Rashi (to Shemos 31:3, Devarim 1:13, Mishlei 1:5), whose source is the
+  exchange between Rabbi Yosi and Arius in the *Sifrei* (to Devarim 1:13), and
+  likewise Radak (to Melachim I 3:12): *chochmah* is what a person hears, that
+  is, learns, from others.
+- Chazal's *chacham* casts a wide net: he learns from every person (Avos 4:1),
+  foresees consequences not yet come to be (Tamid 32a), makes his teachers
+  wiser (Chagigah 14a).
+- Rabbi Avraham Bedersi HaPenini: *chacham* is the opposite of a simpleton,
+  anyone who has mastered a body of knowledge, whether carpentry (Yeshayahu
+  3:3, 40:20), snake-charming (Tehillim 58:6) or other technical skills
+  (Shemos 31:6), even cunning and political ingenuity (Shmuel II 13:3), used
+  for ill as well (Yirmiyahu 4:22); but when Tanach speaks of a *chacham*,
+  especially in Koheles, it means a religious scholar, a sage who has mastered
+  the Torah and the Divine arts.
+- Rabbi Shlomo Pappenheim (1740 to 1814): ח-כ is waiting or delaying, as in
+  *mechakeh* (Yeshayahu 30:18; Chavakuk 2:3; Daniel 12:12; Iyov 32:4) and
+  *chakah*, the fishing net one sets and waits by (Iyov 40:25; Yeshayahu 19:8;
+  Chavakuk 1:15), so the *chacham* is the unhurried learner who waits to
+  deliberate. He also derives *cheich*, the palate, from *chakah*, the open
+  net resembling a mouth opened for food, and Rabbi Klein adds that Aramaic
+  *chayach*, to smile, and Modern Hebrew *chiyuch* likely come from *cheich*.
+- Malbim: *chochmah* is practical wisdom, applying only where its opposite was
+  possible, the intelligence that chooses the smart way of acting over the
+  foolish one; true *chochmah* comes only by Divine revelation, since
+  otherwise one cannot know for certain that a way is the smartest, and
+  non-revelatory *chochmah* is a borrowed term.
 
 ### binah (בינה) and tevunah (תבונה)
 Root ב-י-ן. The *navon* is *meivin davar mitoch davar*, he understands one

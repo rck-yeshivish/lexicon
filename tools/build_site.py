@@ -802,6 +802,8 @@ header.bare .brand{flex:1}
 .entry h3{font-size:19px;font-weight:600;margin:24px 0 6px}
 .entry p{margin:0 0 14px}
 .entry li{margin:0 0 8px}
+.entry ul,.entry ol{padding-inline-start:1.4em}
+.entry li::marker{color:var(--faint)}
 .bottomline{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
   padding:22px 24px 8px;box-shadow:var(--shadow)}
 .bottomline h2{border:0;padding:0}
