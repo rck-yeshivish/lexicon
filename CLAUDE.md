@@ -28,16 +28,21 @@ the protocol for looking a word up.
    or Ugaritic cognate, a Greek or Latin etymology, or a named academic, that
    material belongs in the entry, attributed the way he attributes it. What you
    may not do is bring in material of your own from outside the article.
-3. **Disputes stay disputes.** Name each view and its holder, say which the
-   Bottom line follows. Never smooth a machlokes into one answer.
-4. **No em dashes.** Commas, semicolons, parentheses, or recast.
-5. **No AI register.** No *delve*, *it's worth noting*, *leverage*, *navigate*,
+3. **Disputes stay disputes.** Name each view and its holder. The Bottom line
+   says the authorities differ and does not choose between them. Never smooth a
+   machlokes into one answer.
+4. **Explain the words; do not direct translation.** Outside Rendering
+   guidance, an entry says what the words mean and how they differ, never how
+   to translate them. Rendering guidance is the one place for that advice.
+   `VERIFY.md` has the full rules on what an entry must not contain.
+5. **No em dashes.** Commas, semicolons, parentheses, or recast.
+6. **No AI register.** No *delve*, *it's worth noting*, *leverage*, *navigate*,
    *underscores*, *a testament to*, *journey*. Write as a *talmid chacham*
    writes.
-6. **Frum register.** *Chazal* teach, the *pasuk* says. Hebrew book names:
+7. **Frum register.** *Chazal* teach, the *pasuk* says. Hebrew book names:
    Bereishis, Shemos, Vayikra, Bamidbar, Devarim, Yeshayahu, Tehillim, Mishlei,
    Koheles. Rambam, not Maimonides. Hashem, not G-d.
-7. **The guide stays general.** It says what a word means and how the
+8. **The guide stays general.** It says what a word means and how the
    authorities separate it from its neighbours. What a particular translation
    project decides to *do* with that (transliterate or translate, which house
    spelling, which carve-out) belongs to that project's own overlay, not here.
