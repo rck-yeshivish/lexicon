@@ -20,11 +20,10 @@ to the language of Chazal, not to Tanach. *Shenhav* (plural *shenhabim*) is the
 biblical word, and most of the commentators render it **ivory**, not the animal
 (Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo). A minority read it as
 the elephant itself (Ibn Janach, HaKallir, Rabbi Avraham ben Shlomo, and the
-commentary printed as Rashi to Divrei HaYamim). Render *shenhabim* at Melachim I
-10:22 as **ivory** and note the minority; even on the minority reading, as the
-article's own summary has it, the word focuses on the elephant specifically as
-the source of ivory, so "ivory" loses less than "elephant" would. That is the
-difference the article settles on: *shenhav* names the beast for its tusks, while
+commentary printed as Rashi to Divrei HaYamim). Even on the minority reading, as
+the column's own summary has it, the word focuses on the elephant specifically as
+the source of ivory. That is the difference the column settles on: *shenhav*
+names the beast for its tusks, while
 post-biblical *pil* names it for other properties, its superlative mass or
 possibly its knack for burying the dead.
 
@@ -98,8 +97,8 @@ Jewish surnames Helfand, Gelfand and Elfant all mean "elephant."
 ### pildash (פלדש)
 The sixth son of Nachor (Bereishis 22:22), whose etymology the column calls
 somewhat unclear. Some linguists read the name as a portmanteau of *pladot*,
-torches, and *aish*, fire, two words that stand side by side in the pasuk (the
-article cites Nechemiah 2:3; the words are at Nachum 2:4); *pladot* itself occurs
+torches, and *aish*, fire, two words that stand side by side in the pasuk
+(Nachum 2:4); *pladot* itself occurs
 only once in Tanach and seems to be a metathesized form of the more familiar
 *lapidot*, torches. Another tradition, from Rabbeinu Efrayim ben Shimshon, reads
 the name as *pil* plus *dash*, an elephant that threshes, an allusion to
@@ -128,16 +127,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Elephants Galore](https://articles.ohr.edu/articles/elephants-galore)," What's in a Word?, Ohr Somayach,
-20 Cheshvan 5781 (2020-11-07):
-`sources/whats-in-a-word/raw/8913-elephants-galore.md`. Primary loci: Bereishis
-22:22 with Rabbeinu Efrayim ben Shimshon; Melachim I 10:22 and Divrei HaYamim II
-9:21 with Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo, and
-Abarbanel; Mishnah Kilayim 8:6; Berachos 55b, 56b-57a, 57b, 58b; Bereishis
-Rabbah 26:7; Bereishis 6:4 and Bamidbar 14:33 with Rabbi Yosef Bechor Shor;
-Iyov 3:16; Tehillim 58:9; Shemos 19:21; Devarim 21:1; Shoftim 3:25 and 4:22;
-Ibn Janach, *Sefer HaShorashim*. The article cites Nechemiah 2:3 for *pladot*;
-the word is at Nachum 2:4, and the entry gives both. The article's comparative
-material (Rabbi Dr. Ernest Klein on Egyptian *yev* and on Persian, Arabic and
-Akkadian *pil*; Dr. Chaim Tawil on Akkadian *sinni piri*; the *Oxford English
-Dictionary* on English *elephant*) is reported here as the article reports it.
+Rabbi Reuven Chaim Klein, "[Elephants Galore](https://articles.ohr.edu/articles/elephants-galore)," *What's in a Word?*, Ohr Somayach, 7 November 2020.
+
+Cited in the essay: Bereishis 22:22 with Rabbeinu Efrayim ben Shimshon; Melachim I 10:22 and Divrei HaYamim II 9:21 with Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo, and Abarbanel; Mishnah Kilayim 8:6; Berachos 55b, 56b-57a, 57b, 58b; Bereishis Rabbah 26:7; Bereishis 6:4 and Bamidbar 14:33 with Rabbi Yosef Bechor Shor; Iyov 3:16; Tehillim 58:9; Shemos 19:21; Devarim 21:1; Shoftim 3:25 and 4:22; Nachum 2:4; Ibn Janach, *Sefer HaShorashim*; Rabbi Dr. Ernest Klein; Dr. Chaim Tawil; the *Oxford English Dictionary*.

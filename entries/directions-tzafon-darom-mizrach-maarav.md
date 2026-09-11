@@ -30,9 +30,7 @@ position), or *panim* (facewards); **west** is *yam* (seaward, toward the
 Mediterranean), *maarav* (where shadows blur), or *acharon* (the sun's last
 place); **north** is *tzafon* (hidden from the sun), *smol* (left), or the
 Aramaic *estan*; **south** is *darom* (the sun's daytime path), *negev* (the dry
-country), or *teiman*/*yamin* (right). Render all of them by the compass point
-in the body, and only unpack the sense where the passage or a derashah leans on
-it. Bereishis 28:14 pairs *yam*, *kedem*, *tzafon*, *negev*; Devarim 3:27 pairs
+country), or *teiman*/*yamin* (right). Bereishis 28:14 pairs *yam*, *kedem*, *tzafon*, *negev*; Devarim 3:27 pairs
 *yam*, *tzafon*, *mizrach*, *teiman*. The column's own answer to why the
 doublets exist: the several names each fix on a different aspect of the same
 direction, and are generally based either on the movements of the sun or on
@@ -109,12 +107,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Looking Four Directions](https://articles.ohr.edu/articles/looking-four-directions)," What's in a Word?, Ohr
-Somayach, 3 Kislev 5777 (2016-12-03):
-https://articles.ohr.edu/articles/looking-four-directions, raw text in
-`sources/whats-in-a-word/raw/7029-looking-four-directions.md`. Primary loci
-cited: Bereishis 28:14 (*yam*, *kedem*, *tzafon*, *negev*); Devarim 3:27
-(*yam*, *tzafon*, *mizrach*, *teiman*); Rabbeinu Bachaya on the direction
-words; Kesubos 23a (*estan*); Yevamos 72a (the healing north wind). The
-column's report that scholars identify Mount Tzafon as Jebel Aqra, and its
-closing note on Yemen and Somalia, are given here as it gives them.
+Rabbi Reuven Chaim Klein, "[Looking Four Directions](https://articles.ohr.edu/articles/looking-four-directions)," *What's in a Word?*, Ohr Somayach, 3 December 2016.
+
+Cited in the essay: Bereishis 28:14 (*yam*, *kedem*, *tzafon*, *negev*); Devarim 3:27 (*yam*, *tzafon*, *mizrach*, *teiman*); Rabbeinu Bachaya on the direction words; Kesubos 23a (*estan*); Yevamos 72a (the healing north wind).

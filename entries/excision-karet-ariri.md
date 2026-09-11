@@ -19,13 +19,11 @@ updated: 2026-09-10
 ## Bottom line
 
 *Karet* is **excision**, the sinner himself cut off: from his years, from his
-soul's place in the World of Souls, or from the source his soul hangs on. Render
-it *karet* with a gloss, or "cut off," never "extermination." *Ariri* is
+soul's place in the World of Souls, or from the source his soul hangs on. *Ariri* is
 **childless**, the line ending rather than the man. Whether they are one
 punishment or two is a *machlokes*: Rashi holds every *karet* can carry *ariri*
 with it; Riva holds *ariri* is a separate penalty attaching only to the forbidden
-marriages. The trap is the English "cut off," which fits both and hides which one
-the pasuk means.
+marriages.
 
 ## Distinctions
 
@@ -114,14 +112,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Karet and Ariri](https://articles.ohr.edu/articles/karet-and-ariri)," What's in a Word?, Ohr Somayach, 27
-Iyar 5779 (2019-06-01), https://articles.ohr.edu/articles/karet-and-ariri; raw
-text in `sources/whats-in-a-word/raw/8271-karet-and-ariri.md`. Primary loci:
-Mishnah Kerisos 1:1; Devarim 24:1; Pappenheim, *Yerios Shlomo* and *Cheshek
-Shlomo*; *Nefesh HaChaim* 1:18; Ramban and Rabbeinu Bachya to Vayikra 18:29;
-Bamidbar 15:31; Yerushalmi Bikkurim 2:1 with Bamidbar 4:18 and 8:25; Moed Katan
-28a; Ibn Ezra to Bereishis 17:14; Bereishis 15:2; Yirmiyahu 22:30; Vayikra 20:20
-and 20:21; Rashi to Shabbos 25b (where the article prints Ibn Ezra's name "Ibn
-Era"); Tosafos and Tosafos Yeshanim to Yevamos 2a. The anonymous linguists' link
-between *karas bris* and the English "cut a deal" is reported here as the article
-reports it.
+Rabbi Reuven Chaim Klein, "[Karet and Ariri](https://articles.ohr.edu/articles/karet-and-ariri)," *What's in a Word?*, Ohr Somayach, 1 June 2019.
+
+Cited in the essay: Mishnah Kerisos 1:1; Devarim 24:1; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; *Nefesh HaChaim* 1:18; Ramban and Rabbeinu Bachya to Vayikra 18:29; Bamidbar 15:31; Yerushalmi Bikkurim 2:1 with Bamidbar 4:18 and 8:25; Moed Katan 28a; Ibn Ezra to Bereishis 17:14; Bereishis 15:2; Yirmiyahu 22:30; Vayikra 20:20 and 20:21; Rashi to Shabbos 25b; Tosafos and Tosafos Yeshanim to Yevamos 2a.

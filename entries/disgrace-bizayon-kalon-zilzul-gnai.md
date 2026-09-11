@@ -21,9 +21,8 @@ lightweight, worth less than he is: **dishonor, disgrace**. *Bizayon* is
 stronger, treating him as worth nothing at all: **contempt, disparagement**
 (Rabbi Shlomo Pappenheim). *Zilzul* is cheapening, selling low what should be
 dear: **making light of, cheapening**. *Gnai* is post-biblical and is simply the
-opposite of praise (Rambam): **disgrace, discredit**. The one thing not to get
-wrong is the *kalon*/*bizayon* order; *kalon* lowers a value, *bizayon* cancels
-it.
+opposite of praise (Rambam): **disgrace, discredit**. *Kalon* lowers a value,
+*bizayon* cancels it.
 
 ## Distinctions
 
@@ -71,8 +70,8 @@ the language of Chazal *zol*, cheap, since a product supplied in abundance drops
 in price and in people's regard. *Zilzul* is accordingly disparagement by
 cheapening a thing's value. Rabbi Eliyahu HaBachur connects *zilzul* to this
 root explicitly and notes that it is sometimes used by the Targumim to render
-cognates of *kalon* in Aramaic (Iyov 40:4; Mishlei 12:9), which is a caution
-against pressing the *kalon*/*zilzul* line too hard in Aramaic.
+cognates of *kalon* in Aramaic (Iyov 40:4; Mishlei 12:9), so in Aramaic the
+*kalon*/*zilzul* line is not a hard one.
 
 ### gnai / genus (גנאי, גנות)
 Also absent from Tanach; it lives in the Targumim and in Mishnaic Hebrew. Rambam
@@ -126,16 +125,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Disgraceful Disparagement](https://articles.ohr.edu/articles/disgraceful-disparagement)," What's in a Word?, Ohr
-Somayach, 2 Kislev 5782 (2021-11-06):
-`sources/whats-in-a-word/raw/9428-disgraceful-disparagement.md`. Primary loci:
-Bereishis 25:34 (with Rashi), 16:4, 8:11; Esther 3:6; Malachi 1:6-8 (the article
-gives 1:1-8); Ovadiah 1:2; Shmuel II 2:18; Yeshayahu 19:1, 18:5; Shemos 18:22;
-Melachim I 12:4; Devarim 25:3, 27:16; Eichah 1:8; Iyov 40:4; Mishlei 12:9;
-Yeshayahu 46:6; Mishnah Shabbos 6:4, Yoma 3:11, Pesachim 10:4, with Rambam's
-commentary to the first two; Rabbi Eliyahu HaBachur, *Meturgaman*. Two locus
-notes: the article cites Malachi 1:1-8, where the word *bozei* stands at 1:6 and
-the Yaakov/Eisav frame at 1:2-3; and the article cites "Isa. 46:4" for
-*zal/zolel*, but the word *hazalim* stands at Yeshayahu 46:6, which is the locus
-given here. Rabbi Dr. Ernest Klein's Arabic comparison (*janyya*, "crime") is
-included above, as the column gives it.
+Rabbi Reuven Chaim Klein, "[Disgraceful Disparagement](https://articles.ohr.edu/articles/disgraceful-disparagement)," *What's in a Word?*, Ohr Somayach, 6 November 2021.
+
+Cited in the essay: Bereishis 25:34 (with Rashi), 16:4, 8:11; Esther 3:6; Malachi 1:6-8; Ovadiah 1:2; Shmuel II 2:18; Yeshayahu 19:1, 18:5; Shemos 18:22; Melachim I 12:4; Devarim 25:3, 27:16; Eichah 1:8; Iyov 40:4; Mishlei 12:9; Yeshayahu 46:6; Mishnah Shabbos 6:4, Yoma 3:11, Pesachim 10:4, with Rambam's commentary to the first two; Rabbi Eliyahu HaBachur, *Meturgaman*; Rabbi Dr. Ernest Klein.

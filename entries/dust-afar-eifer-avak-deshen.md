@@ -18,8 +18,8 @@ updated: 2026-09-10
 *Afar* is **dirt** or **soil**, the general word, and the one that can grow
 things. *Eifer* is **ashes**, what fire leaves, and it grows nothing. *Avak* is
 **dust**, fine powder produced by pulverizing rather than by burning. *Deshen* is
-a narrower word for ashes, tied to fat and to the Mikdash. The fact not to lose:
-the difference between *afar* and *eifer* is fertility, not fineness, which is
+a narrower word for ashes, tied to fat and to the Mikdash. The difference
+between *afar* and *eifer* is fertility, not fineness, which is
 why the Torah calls the ashes of the Parah Adumah *afar* and not *eifer*.
 
 ## Distinctions
@@ -64,8 +64,7 @@ pot for crumbs and small grains), *pur* (the box for drawing lots, shaped like a
 many aspects), *hafarah* (dissolving a vow), *primah* (tearing a garment into
 shreds), and *tefirah* (sewing, which repairs what *primah* did).
 
-The Netziv reads Avraham's *afar va'eifer* (Bereishis 18:27; the article prints
-19:27) as a double disclaimer before tefillah: some tefillos are answered in the
+The Netziv reads Avraham's *afar va'eifer* (Bereishis 18:27) as a double disclaimer before tefillah: some tefillos are answered in the
 merit of righteous forebears (Rashi to Bereishis 25:21) and some in the merit of
 righteous descendants (*Bereishis Rabbah* 29:5). Having neither, Avraham prefaced
 his tefillah by appealing directly to Hashem's mercy. He called himself *afar*
@@ -127,11 +126,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Dirt, Dust and Ashes](https://articles.ohr.edu/articles/dirt-dust-and-ashes)," What's in a Word?, Ohr
-Somayach, 11 Cheshvan 5780 (2019-11-09): raw text in
-`sources/whats-in-a-word/raw/8467-dirt-dust-and-ashes.md`. Primary loci cited:
-Bereishis 13:16, 18:27 (the article prints 19:27), 25:21, 32:25, 1:11; Vayikra
-17:13; Bamidbar 19:17; Devarim 31:20; Tehillim 63:6; Mishlei 15:30; *Chullin*
-88b, 91a; *Shabbos* 18a; Rashi to *Taanis* 15a; *Bereishis Rabbah* 29:5; Zohar
-*Vayishlach* 170a; *Bava Basra* 165a; *Temurah* 6b; *Succah* 40b; *Tosefta Avodah
-Zarah* 1:3.
+Rabbi Reuven Chaim Klein, "[Dirt, Dust and Ashes](https://articles.ohr.edu/articles/dirt-dust-and-ashes)," *What's in a Word?*, Ohr Somayach, 9 November 2019.
+
+Cited in the essay: Bereishis 13:16, 18:27, 25:21, 32:25, 1:11; Vayikra 17:13; Bamidbar 19:17; Devarim 31:20; Tehillim 63:6; Mishlei 15:30; *Chullin* 88b, 91a; *Shabbos* 18a; Rashi to *Taanis* 15a; *Bereishis Rabbah* 29:5; Zohar *Vayishlach* 170a; *Bava Basra* 165a; *Temurah* 6b; *Succah* 40b; *Tosefta Avodah Zarah* 1:3.

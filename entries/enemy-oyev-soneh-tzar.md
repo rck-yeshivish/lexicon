@@ -18,9 +18,8 @@ updated: 2026-09-10
 *Oyev* is the enemy who acts, or at least plans to act: **enemy**, **foe**.
 *Soneh* is hatred held inside, shown by what a man refrains from doing:
 **hater**. *Tzar* (*tzorer*) is open, self-costing hostility: **adversary**,
-**persecutor**. The trap is that all three collapse into English "enemy"; when
-a pasuk pairs them, as Bamidbar 10:35 does, the pair must stay visibly
-different in English or the tefillah loses its point.
+**persecutor**. Bamidbar 10:35 pairs them, and the difference between the two
+is the point of the tefillah.
 
 ## Distinctions
 
@@ -38,7 +37,7 @@ his hatred beneath a façade of empathy. Like the *soneh*, he is a clandestine
 enemy, not an overt one.
 
 ### soneh (שונא)
-From *sinah*, hatred. Better rendered "a hater" than "an enemy": the hatred
+From *sinah*, hatred. A *soneh* is a hater rather than an enemy: the hatred
 stays internal and is not expressed outwardly. This is the word of "*lo sisna
 es achicha bilvavecha*" (Vayikra 19:17), where mere hatred of a fellow Jew is
 forbidden whether or not it ever turns into action. His disposition is read
@@ -80,8 +79,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Variety of Enemies](https://articles.ohr.edu/articles/a-variety-of-enemies)," What's in a Word?, Ohr
-Somayach, 2 July 2016 / 26 Sivan 5776: raw text in
-`sources/whats-in-a-word/raw/6828-a-variety-of-enemies.md`. Primary loci cited:
-Bamidbar 10:35; Vayikra 19:17; Mishnah Sanhedrin 3:5; Esther 9:10; Malbim and
-the Vilna Gaon on *oyev* and *soneh*.
+Rabbi Reuven Chaim Klein, "[A Variety of Enemies](https://articles.ohr.edu/articles/a-variety-of-enemies)," *What's in a Word?*, Ohr Somayach, 2 July 2016.
+
+Cited in the essay: Bamidbar 10:35; Vayikra 19:17; Mishnah Sanhedrin 3:5; Esther 9:10; Malbim and the Vilna Gaon on *oyev* and *soneh*.

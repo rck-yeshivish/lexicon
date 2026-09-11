@@ -30,8 +30,8 @@ updated: 2026-09-10
 
 Both mean eleven, and both stand in the opening pesukim of Devarim: "eleven
 (*achad asar*) days from Chorev... in the eleventh (*ashtei asar*) month"
-(Devarim 1:2-3). Render *achad asar* **eleven** and *ashtei asar* **eleventh**
-where the context allows, because the working distinction is that *achad asar*
+(Devarim 1:2-3). *Achad asar* is **eleven** and *ashtei asar* **eleventh** in
+most contexts, because the working distinction is that *achad asar*
 is eleven as a number of its own and *ashtei asar* is eleven as an outgrowth of
 ten. The tell that settles most cases: *ashtei asar* never takes the definite
 article, and every other number does.
@@ -74,8 +74,7 @@ appear nineteen times in Tanach, *achad asar* and *achat esreh* thirteen.
 The Bottom line does not rest on any of these, since all four agree on the
 number. It does note that Ibn Janach ties eleven to twelve and Ibn Ezra ties it
 to ten, which the column says may have interesting implications for Jewish
-numerology, and which matters for a derashah on the number and not for a
-translation. Mintzberg's reading has the advantage of explaining the grammar, and
+numerology, and which matters for a derashah on the number. Mintzberg's reading has the advantage of explaining the grammar, and
 the Bottom line follows him and the Rokeach on usage.
 
 **When each form is used.** *Peirush HaRokeach*, in what the column calls a
@@ -135,11 +134,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Number Eleven](https://articles.ohr.edu/articles/the-number-eleven)," What's in a Word?, Ohr Somayach,
-9 Av 5778 (2018-07-21): https://articles.ohr.edu/articles/the-number-eleven;
-raw text in `sources/whats-in-a-word/raw/7864-the-number-eleven.md`. Primary
-loci cited: Devarim 1:1-3; Tehillim 146:4; Shir HaShirim 5:14 with Rashi;
-Yirmiyahu 5:28 with Rashi; Yoma 34b; Menachos 28a; Ibn Janach, Ibn Ezra, and
-Radak on *ashtei asar*; *Peirush HaRokeach*. The Ugaritic parallel from the
-Niqmaddu inscription is reported here as the article reports it, together with
-the article's own concession that it does not account for every pasuk.
+Rabbi Reuven Chaim Klein, "[The Number Eleven](https://articles.ohr.edu/articles/the-number-eleven)," *What's in a Word?*, Ohr Somayach, 21 July 2018.
+
+Cited in the essay: Devarim 1:1-3; Tehillim 146:4; Shir HaShirim 5:14 with Rashi; Yirmiyahu 5:28 with Rashi; Yoma 34b; Menachos 28a; Ibn Janach, Ibn Ezra, and Radak on *ashtei asar*; *Peirush HaRokeach*; Rabbi Meir Mintzberg; the Ugaritic funerary inscription of Niqmaddu.

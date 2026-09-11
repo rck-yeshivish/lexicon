@@ -43,8 +43,8 @@ Avos d'Rabbi Nasan (version 1, ch. 37) counts seven words for the earth:
 *taivel* is **the inhabited world**, the settled parts as against *eretz* for
 the whole; *arka* is **earth**, a hapax in the one Aramaic pasuk of Yirmiyahu;
 *cheled* is **the transient world**, the earth under time; *charavah* and
-*yabashah* are **dry land**. Never confuse *taivel* with *tevel*, abomination:
-same letters, different nikud, one root. And *karka* is not on this list at all.
+*yabashah* are **dry land**. *Taivel* is not *tevel*, abomination: same
+letters, different nikud, one root. And *karka* is not on this list at all.
 
 ## At a glance
 
@@ -146,12 +146,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Seasoning the Land (Part 2)," What's in a Word?, Ohr
-Somayach, 27 Elul 5781 (2021-09-04): raw text in
-`sources/whats-in-a-word/raw/9359-seasoning-the-land-part-2-nitzavim-rosh-hashanah.md`.
-Primary loci cited: Avos d'Rabbi Nasan version 1 ch. 37 and version 2 ch. 43;
-Tehillim 17:14, 24:1, 39:6, 49:2, 90:2; Yeshayahu 38:11; Yirmiyahu 10:11;
-Bereishis 11:8; Bereishis Rabbah 13:12; Vayikra Rabbah 29:11 (a different list
-of seven); Yerushalmi Shabbos 14:1; Taanis 23a; Radak, *Sefer HaShorashim*;
-*Midrash Mishlei* ch. 8. Part one, on *eretz* against *adamah*, is
-`land-eretz-adamah-ratzon.md`.
+Rabbi Reuven Chaim Klein, "[Seasoning the Land (Part 2)](https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah)," *What's in a Word?*, Ohr Somayach, 4 September 2021.
+
+Cited in the essay: Avos d'Rabbi Nasan version 1 ch. 37 and version 2 ch. 43; Tehillim 17:14, 24:1, 39:6, 49:2, 90:2; Yeshayahu 38:11; Yirmiyahu 10:11; Bereishis 11:8; Bereishis Rabbah 13:12; Vayikra Rabbah 29:11 (a different list of seven); Yerushalmi Shabbos 14:1; Taanis 23a; Radak, *Sefer HaShorashim*; *Midrash Mishlei* ch. 8.

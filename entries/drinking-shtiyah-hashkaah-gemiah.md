@@ -24,10 +24,8 @@ water, almost always in *hifil*; over 60 appearances, and it covers watering the
 ground as well as people and beasts, because it names the providing and not the
 drinking. *Mashkeh* is the **beverage**, sometimes with the implication of an
 alcoholic one. *Hagmieini* is the servant's word, **let me sip** or **let me
-swallow**. The trap: English "drink" does both jobs, so "she gave him to drink"
-and "he drank" collapse into one verb; in the Rivkah narrative the Torah
-alternates the two roots deliberately, and the translation has to keep them
-apart.
+swallow**. In the Rivkah narrative the Torah alternates the two roots
+deliberately.
 
 Note what the column does *not* claim to have settled. Having laid out the
 usage, it asks why Hebrew should have two different roots for drinking and
@@ -150,13 +148,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Chayei Sarah: Take a Drink](https://articles.ohr.edu/articles/chayei-sarah-take-a-drink)," What's in a Word?, Ohr
-Somayach, 18 Cheshvan 5783 (2022-11-12),
-https://articles.ohr.edu/articles/chayei-sarah-take-a-drink; raw text in
-`sources/whats-in-a-word/raw/10709-chayei-sarah-take-a-drink.md`. Primary loci
-cited: Bereishis 2:6, 15:2, 24:14-24:46, 40:23; Vayikra 13:48; Bamidbar 33:52;
-Yeshayahu 33:4; Tehillim 11:3; Iyov 39:30; Shabbos 8:1, 14:4, and 77a; Chullin
-2:9; Parah 2:5; *Machberes Menachem*; *Cheishek Shlomo*; *Yerios Shlomo*. The
-column's citation of Antoine-Chrysostome Quatremère de Quincy on *meshek* as
-cup-bearer (a reading Shadal rejects) and Rabbi Ernest Klein's possible Greek
-*lygmos* behind *legimah* are reported above as the column reports them.
+Rabbi Reuven Chaim Klein, "[Chayei Sarah: Take a Drink](https://articles.ohr.edu/articles/chayei-sarah-take-a-drink)," *What's in a Word?*, Ohr Somayach, 12 November 2022.
+
+Cited in the essay: Bereishis 2:6, 15:2, 24:14-24:46, 40:23; Vayikra 13:48; Bamidbar 33:52; Yeshayahu 33:4; Tehillim 11:3; Iyov 39:30; Shabbos 8:1, 14:4, and 77a; Chullin 2:9; Parah 2:5; *Machberes Menachem*; *Cheishek Shlomo*; *Yerios Shlomo*; Shadal, citing Antoine-Chrysostome Quatremère de Quincy; Rabbi Ernest Klein.

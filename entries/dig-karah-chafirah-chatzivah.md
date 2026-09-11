@@ -23,11 +23,10 @@ not finish the work: **dig** in the sense of **begin to dig, hollow out**.
 *Chafirah* (verb *chofer*) is digging carried to completion and depth, down
 to the water: **dig out, dig through**; in the abstract, **search out**.
 *Chatzivah* is hewing rock with a tool: **hew, quarry** (Malbim; Rabbi Yosef
-Kara instead makes it digging a round pit). The one thing not to get wrong: a
-verse that uses both verbs of one pit (Tehillim 7:16; Bereishis 26:25 against
-26:32; Bamidbar 21:18) is not repeating itself, and *karah* is the *earlier,
-lesser* act (Malbim, Mecklenburg, Netziv, Rav Hirsch), so never render the pair
-as "dug and dug" or reverse their weight.
+Kara instead makes it digging a round pit). A verse that uses both verbs of one
+pit (Tehillim 7:16; Bereishis 26:25 against 26:32; Bamidbar 21:18) is not
+repeating itself, and *karah* is the *earlier, lesser* act (Malbim, Mecklenburg,
+Netziv, Rav Hirsch).
 
 ## Distinctions
 
@@ -128,13 +127,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/digging-deeper)," What's in a Word?, Ohr Somayach,
-27 Shevat 5782 (2022-01-29): raw text in
-`sources/whats-in-a-word/raw/9554-digging-deeper.md`. Primary loci the article
-cites: Shemos 21:33-34 with Malbim and Rav Hirsch; Bava Kamma 1:1 and 5:5;
-Tehillim 7:16 with Malbim, Ibn Ezra, Ibn Ramoch, Meiri; Bereishis 26:25 and
-26:32 with Malbim, HaKsav VeHaKabbalah, HaEmek Davar; Bereishis 50:5 with
-Netziv; Bamidbar 21:17-18 and Shemos 15:1 with Rabbi Shaul Bruch and Taanis 9a;
-Rav Hirsch to Bereishis 26:25 and 49:5; Pappenheim on the biliteral כ-ר; Rabbi
-Yosef Kara to Yeshayahu 5:2; Sheviis 3:10, Bava Basra 2:12; Even Shoshan's
-concordance for the counts of ח-פ-ר and כ-ר-ה.
+Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/digging-deeper)," *What's in a Word?*, Ohr Somayach, 29 January 2022.
+
+Cited in the essay: Shemos 21:33-34 with Malbim and Rav Hirsch; Bava Kamma 1:1 and 5:5; Tehillim 7:16 with Malbim, Ibn Ezra, Ibn Ramoch, Meiri; Bereishis 26:25 and 26:32 with Malbim, HaKsav VeHaKabbalah, HaEmek Davar; Bereishis 50:5 with Netziv; Bamidbar 21:17-18 and Shemos 15:1 with Rabbi Shaul Bruch and Taanis 9a; Rav Hirsch to Bereishis 26:25 and 49:5; Pappenheim on the biliteral כ-ר; Rabbi Yosef Kara to Yeshayahu 5:2; Sheviis 3:10, Bava Basra 2:12; Even Shoshan's concordance for the counts of ח-פ-ר and כ-ר-ה.

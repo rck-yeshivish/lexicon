@@ -27,9 +27,7 @@ updated: 2026-09-10
 *Choshech* is plain **darkness**, the dark of an ordinary night. *Afeilah* is
 **thick darkness**, something darker than *choshech* (Radak). Where they stand
 together, as in *choshech afeilah* at
-Makkas Choshech (Shemos 10:22), render the pair rather than repeat one word: "a
-thick darkness". The trap is writing "darkness" twice and losing the fact that
-the Torah escalated.
+Makkas Choshech (Shemos 10:22), the Torah escalates.
 
 ## At a glance
 
@@ -60,8 +58,7 @@ cluster, and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
    Midrash gives it the thickness of a *dinar*. His reason for splitting them
    is likely that this passage alone adds *afeilah*.
 
-The Bottom line does not adjudicate the metaphysics, which does not change the
-English. It matters for a *derashah*, and Ramban's position is the one that
+The Bottom line does not adjudicate the metaphysics. It matters for a *derashah*, and Ramban's position is the one that
 explains why Makkas Choshech is described as it is.
 
 **What makes afeilah heavier.** Malbim: a quantitative difference, *choshech*
@@ -73,8 +70,6 @@ him were dark clouds that filtered the daylight so that it reached Yisrael and
 not the Mitzrim. Rabbi Baruch HaLevi Epstein, possibly on Ibn Parchon's
 reading, takes the covering literally: cataracts grew spontaneously over the
 Mitzrim's eyes, barring them from seeing the light of day.
-Malbim's account is the safer default for translation; the covering readings
-are what to cite when a passage treats the darkness as an object.
 
 ## Distinctions
 
@@ -90,8 +85,7 @@ Aharon Wertheimer finds an allusion to that way of defining *afeilah* in the
 wording of a tefillah said at the Seder, where we ask to be taken from the
 darkness of galus to the light of the geulah: *me'afeilah l'or gadol*. The
 opposite set against *afeilah* is not simply light, which would be the opposite
-of *choshech*, but a *great* light that ushers in the coming of Mashiach. That is
-a useful test for the word's force in any pasuk.
+of *choshech*, but a *great* light that ushers in the coming of Mashiach.
 
 ## Rendering guidance
 
@@ -112,9 +106,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Turning off the Lights](https://articles.ohr.edu/articles/turning-off-the-lights)," What's in a Word?, Ohr
-Somayach, 8 Shevat 5777 (2017-02-04): raw text in
-`sources/whats-in-a-word/raw/7123-turning-off-the-lights.md`. Primary loci
-cited: Shemos 10:21 to 23 with Rashi and Ramban; Yeshayahu 45:7; Radak, *Sefer
-HaShorashim*; the Midrash giving the darkness the thickness of a *dinar*; the
-Pesach Haggadah, *me'afeilah l'or gadol*.
+Rabbi Reuven Chaim Klein, "[Turning off the Lights](https://articles.ohr.edu/articles/turning-off-the-lights)," *What's in a Word?*, Ohr Somayach, 4 February 2017.
+
+Cited in the essay: Shemos 10:21 to 23 with Rashi and Ramban; Yeshayahu 45:7; Radak, *Sefer HaShorashim*; the Midrash giving the darkness the thickness of a *dinar*; the Pesach Haggadah, *me'afeilah l'or gadol*.

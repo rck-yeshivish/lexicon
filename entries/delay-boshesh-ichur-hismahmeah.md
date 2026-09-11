@@ -23,8 +23,7 @@ updated: 2026-09-10
 give up, and the word carries the sting of *bushah*, shame. *Hismahmeah* is
 **tarrying** or **dawdling**, going slower than one should, and Rabbi Shlomo
 Pappenheim reads it as the one delay that can be right. Shemos 32:1 says
-*boshesh*, not *ichur*, and the difference is the whole peshat of the Eigel:
-render it "was long overdue," not "was late."
+*boshesh*, not *ichur*, and the difference is the whole peshat of the Eigel.
 
 ## Distinctions
 
@@ -110,7 +109,7 @@ turns a man's face white, his blood withheld from travelling its usual way.
   valence visible in the English: neutral, blameworthy, and commendable. Where
   it quotes Mecklenburg's citation of Wessely instead, the valences of *ichur*
   and *boshesh* swap; do not blend the two readings in one paragraph.
-- *Bushah* is "shame," not "embarrassment," in a sefer; see the *bushah*
+- *Bushah* is "shame," not "embarrassment"; see the *bushah*
   cluster entry.
 
 ## Notes for a project
@@ -119,16 +118,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Better Late Than ……..](https://articles.ohr.edu/articles/better-late-than-aeuraeur)," What's in a Word?, Ohr
-Somayach, 18 Adar II 5780 (2020-03-14): raw text in
-`sources/whats-in-a-word/raw/8644-better-late-than-aeuraeur.md`. Primary loci
-cited: Shemos 32:1 with Rashi; *Bereishis Rabbah* 18:6 with *Eitz Yosef*;
-Bereishis 19:16; Shmuel II 15:28; Shoftim 5:28; Iyov 6:6 with Targum; Berachos
-40a with *Piskei HaRosh*, Talmidei Rabbeinu Yonah, Rashi, and *Maadanei Yom
-Tov*; *HaRechasim LeVik'ah* to Shemos 32:1; Malbim ad loc.; *Tzror HaMor* ad
-loc.; Rabbi Shlomo Pappenheim on ב-ש and on biliteral מ-ה; *Targumna*. The view
-attributed above to R' Naftali Hertz (Wessely) Weisel is given only as Rabbi
-Yaakov Tzvi Mecklenburg quotes it; the article notes that he is often maligned as
-a maskil but that his rabbinic bona fides are also attested to. The article
-glosses *bushah* "embarrassment"; this guide renders it "shame," and see the
-*bushah* / *klimah* / *cherpah* entry, which covers the shame side of this root.
+Rabbi Reuven Chaim Klein, "[Better Late Than ……..](https://articles.ohr.edu/articles/better-late-than-aeuraeur)," *What's in a Word?*, Ohr Somayach, 14 March 2020.
+
+Cited in the essay: Shemos 32:1 with Rashi; *Bereishis Rabbah* 18:6 with *Eitz Yosef*; Bereishis 19:16; Shmuel II 15:28; Shoftim 5:28; Iyov 6:6 with Targum; Berachos 40a with *Piskei HaRosh*, Talmidei Rabbeinu Yonah, Rashi, and *Maadanei Yom Tov*; *HaRechasim LeVik'ah* to Shemos 32:1; Malbim ad loc.; *Tzror HaMor* ad loc.; Rabbi Shlomo Pappenheim on ב-ש and on biliteral מ-ה; *Targumna*; Rabbi Yaakov Tzvi Mecklenburg, quoting R' Naftali Hertz (Wessely) Weisel.

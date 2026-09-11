@@ -38,8 +38,8 @@ descend. *Patros* is properly **Upper Egypt** or the Patrusim who came from
 Mitzrayim; the *paytanim* use it, and *Ludim*, *Anamim*, and *Lehavim*, for Egypt
 as a whole by poetic license, not because the words are synonyms. *Rahav* is
 Egypt named for its haughtiness and the name of its heavenly minister; *eretz
-Cham* is the liturgical name. The trap is flattening all of these to "Egypt" in a
-piyyut, where the obscure name is the poet's whole point.
+Cham* is the liturgical name. In a piyyut, the obscure name is the poet's whole
+point.
 
 ## At a glance
 
@@ -83,9 +83,9 @@ reading takes it collectively.
 
 **Who the Luvim are.** The Luvim come up four times in Tanach: countless of them
 march with Shishak against Yerushalayim (Divrei HaYamim II 12:3, in Rechavam's
-reign; the article places it in Shlomo's), again as soldiers a few generations
+reign), again as soldiers a few generations
 later in Asa's day (16:8), and at Nachum 3:9 and Daniel 11:43. Rid and pseudo-Rasag (to
-Daniel 11:43, where the article prints "Pseudo-Radag"), and Tosafos with *Tosafos
+Daniel 11:43), and Tosafos with *Tosafos
 Chitzoniyos* (in *Shitah Mekubetzes* to Bechoros 5b), state plainly that the
 Luvim are the Lehavim, probably, the column adds, because hei and vav
 interchange. Rabbeinu Tam (cited by Tosafos to Shabbos 51b, and see Rabbeinu
@@ -180,19 +180,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Tzav-Pesach: Escape from Patros](https://articles.ohr.edu/articles/tzav-pesach-escape-from-patros)," What's in a Word?,
-Ohr Somayach, 10 Nisan 5783 (2023-04-01): raw text in
-`sources/whats-in-a-word/raw/10890-tzav-pesach-escape-from-patros.md`. Primary
-loci cited: Bereishis 10:6, 10:13 to 14, 13:10, 40:23, 43:32; Divrei HaYamim I
-1:8, 1:11 to 12; Divrei HaYamim II 12:3, 16:8; Shemos 12:23, 14:10, 14:25, 14:30;
-Devarim 6:8, 11:10, 11:18; Yeshayahu 11:11, 13:8, 19:6, 37:25; Yirmiyahu 44:1,
-44:15, 46:9, 46:20, 47:4; Yechezkel 27:10, 29:14, 30:5, 30:14; Amos 9:7; Nachum
-3:9; Tzefaniah 2:5; Tehillim 87:4, 105:23 to 27, 106:22; Daniel 11:43; Melachim
-II 19:24; *Bereishis Rabbah* 37:5 with Maharzu; *Bamidbar Rabbah* 18:22; Zohar
-*Terumah* 170b and Zohar Chadash *Bishalach* 38b; Bava Basra 74b; Bechoros 5b;
-Shabbos 51b, 90b, 115a to 115b; Megillah 18a; Sanhedrin 4b; Zevachim 37b;
-Menachos 34b; *Sefer Chassidim* §607; *Siddur Rokeach* pp. 213 and 222. The
-article's comparative and academic material (Löwisohn and Shadal on Pathyris,
-Kohut on Luv, the Greek and Latin etymons of "Egypt," and Professor Elitzur on
-the *piyyutim*) is reported here as the article reports it. The article prints
-"Pseudo-Radag" for pseudo-Rasag on Daniel.
+Rabbi Reuven Chaim Klein, "[Tzav-Pesach: Escape from Patros](https://articles.ohr.edu/articles/tzav-pesach-escape-from-patros)," *What's in a Word?*, Ohr Somayach, 1 April 2023.
+
+Cited in the essay: Bereishis 10:6, 10:13 to 14, 13:10, 40:23, 43:32; Divrei HaYamim I 1:8, 1:11 to 12; Divrei HaYamim II 12:3, 16:8; Shemos 12:23, 14:10, 14:25, 14:30; Devarim 6:8, 11:10, 11:18; Yeshayahu 11:11, 13:8, 19:6, 37:25; Yirmiyahu 44:1, 44:15, 46:9, 46:20, 47:4; Yechezkel 27:10, 29:14, 30:5, 30:14; Amos 9:7; Nachum 3:9; Tzefaniah 2:5; Tehillim 87:4, 105:23 to 27, 106:22; Daniel 11:43; Melachim II 19:24; *Bereishis Rabbah* 37:5 with Maharzu; *Bamidbar Rabbah* 18:22; Zohar *Terumah* 170b and Zohar Chadash *Bishalach* 38b; Bava Basra 74b; Bechoros 5b; Shabbos 51b, 90b, 115a to 115b; Megillah 18a; Sanhedrin 4b; Zevachim 37b; Menachos 34b; *Sefer Chassidim* §607; *Siddur Rokeach* pp. 213 and 222; Solomon Löwisohn and Shadal to Bereishis 10:14; Dr. Alexander Kohut; Professor Shulamit Elitzur.

@@ -23,8 +23,7 @@ updated: 2026-09-10
 *Churban* is **destruction** in the sense of a place cut off from what kept it
 alive; the buildings may be standing. *Shemamah* is **desolation**, ruin
 visible to anyone who looks, and the stronger of the two. Vayikra 26:31 puts
-both in one pasuk, so a translation must not use one English word twice:
-"I will make your cities a ruin (*charbah*) and lay your sanctuaries waste
+both in one pasuk: "I will make your cities a ruin (*charbah*) and lay your sanctuaries waste
 (*vahashimosi*)."
 
 ## Distinctions
@@ -84,7 +83,7 @@ names their condition, not their location: they sat in desolation and wept.
 - *Churban HaBayis* is a fixed term. Leave it transliterated and gloss it once;
   "the Destruction" with a capital D is acceptable in running English where the
   reference is unmistakable.
-- Where a sefer builds on Pappenheim's sense of *churban* as severance, do not
+- Where a passage builds on Pappenheim's sense of *churban* as severance, do not
   render it "demolition." The point of the word there is precisely that nothing
   visible was demolished. On the column's reading of Rabbi Chaim of Volozhin
   (above), *Churban HaBayis* names that severance and *shemamah* names the
@@ -98,9 +97,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Words of Destruction](https://articles.ohr.edu/articles/words-of-destruction)," What's in a Word?, Ohr
-Somayach (2017-07-29): raw text in
-`sources/whats-in-a-word/raw/7366-words-of-destruction.md`. Primary loci:
-Vayikra 26:31; Tehillim 137:1; Radak, *Sefer HaShorashim* s.v. שמם; Ibn Ezra on
-*shahm* as desolation; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*;
-Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:4.
+Rabbi Reuven Chaim Klein, "[Words of Destruction](https://articles.ohr.edu/articles/words-of-destruction)," *What's in a Word?*, Ohr Somayach, 29 July 2017.
+
+Cited in the essay: Vayikra 26:31; Tehillim 137:1; Radak, *Sefer HaShorashim* s.v. שמם; Ibn Ezra on *shahm* as desolation; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:4.

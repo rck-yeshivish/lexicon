@@ -20,8 +20,7 @@ with the eye on the man who does it and, in most readings, on a downgrade.
 *Chalifah* is **exchange** or **swapping out**: the eye is on the thing being
 gotten rid of, and it is the neutral or even upgrading word. Vayikra 27:10 uses
 both of the same prohibited act; Vayikra 27:33, stating the consequence, uses
-only *hamer yamir*. Do not let one English verb carry both, and do not read
-*chalifah* as merely a stylistic variant.
+only *hamer yamir*. *Chalifah* is not merely a stylistic variant.
 
 ## Distinctions
 
@@ -110,10 +109,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Old Switcheroo](https://articles.ohr.edu/articles/old-switcheroo)," What's in a Word?, Ohr Somayach, 29
-Iyar 5780 (2020-05-23): raw text in
-`sources/whats-in-a-word/raw/8714-old-switcheroo.md`. Primary loci: Vayikra
-27:10 and 27:33; Bereishis 35:2 and 41:14; Shmuel II 12:20; Yeshayahu 2:18;
-Tehillim 106:20; Pappenheim, *Cheshek Shlomo* s.v. מר and *Yerios Shlomo* on
-ח-ל-פ. The anonymous Arabic derivation of *chalaf* as "sharp," which the article
-gives in a bracket, is reported here as the article reports it.
+Rabbi Reuven Chaim Klein, "[Old Switcheroo](https://articles.ohr.edu/articles/old-switcheroo)," *What's in a Word?*, Ohr Somayach, 23 May 2020.
+
+Cited in the essay: Vayikra 27:10 and 27:33; Bereishis 35:2 and 41:14; Shmuel II 12:20; Yeshayahu 2:18; Tehillim 106:20; Pappenheim, *Cheshek Shlomo* s.v. מר and *Yerios Shlomo* on ח-ל-פ.

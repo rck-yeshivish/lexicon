@@ -22,9 +22,8 @@ updated: 2026-09-10
 drinking itself, whether or not the drinker actually got drunk. *Shachar* is
 **getting drunk**, the state achieved. The noun *sheichar* is the **strong
 drink** that produces it. In the *ben sorer u'moreh* pasuk, *zollel* is the meat
-side (gluttony) and *sove* the drink side (swilling); do not let one English
-word cover both. The trap: "drunkenness" absorbs *sove* and *shichrus* alike,
-and Malbim's distinction is exactly the difference between the two.
+side (gluttony) and *sove* the drink side (swilling). Malbim's distinction is
+exactly the difference between *sove* and *shichrus*.
 
 ## Distinctions
 
@@ -128,18 +127,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Ki Seitzei: Getting Drunk](https://articles.ohr.edu/articles/ki-seitzei-getting-drunk)," What's in a Word?, Ohr
-Somayach, 11 Elul 5784 (2024-09-14); raw text at
-`sources/whats-in-a-word/raw/11520-ki-seitzei-getting-drunk.md`. Primary loci
-cited: Devarim 21:20 with *Sanhedrin* 8:2 and 71a and *Sifrei Ki Seitzei* 219;
-Rambam, *Hilchos Mamrim* 7:1; Mishlei 23:20 with Rabbi Yosef Nechemias;
-Yeshayahu 1:22 with Targum, Rashi to *Bava Basra* 15b and Rabbi Yosef Kara;
-Hoshea 4:18; Nachum 1:10; *Avodah Zarah* 77a; Bereishis 10:7 and Divrei HaYamim
-I 1:9; Yeshayahu 43:3 and 45:14; Yechezkel 23:42 with Radak and Targum Yonasan;
-Bereishis 9:21; Yirmiyahu 13:13; Yechezkel 23:33 and 39:19; Yehoshua 15:11;
-Bamidbar 6:3 and 28:7 with Targum Onkelos and Rashi; *Zevachim* 91a; Vayikra
-10:9 with *Nazir* 4a, *Kerisus* 13b and Ramban; *Pesachim* 3:1; Rav Hirsch to
-Bereishis 24:25, Shemos 13:12 and Devarim 21:19; Shmuel II 6:14 and 6:16;
-Shulchan Aruch Orach Chaim 175:2; Dr. Lawrence Resnick, *1,000 Words*. The
-counts of ש-כ-ר forms are given above with the column's own attribution to
-Even-Shoshan's biblical concordance.
+Rabbi Reuven Chaim Klein, "[Ki Seitzei: Getting Drunk](https://articles.ohr.edu/articles/ki-seitzei-getting-drunk)," *What's in a Word?*, Ohr Somayach, 14 September 2024.
+
+Cited in the essay: Devarim 21:20 with *Sanhedrin* 8:2 and 71a and *Sifrei Ki Seitzei* 219; Rambam, *Hilchos Mamrim* 7:1; Mishlei 23:20 with Rabbi Yosef Nechemias; Yeshayahu 1:22 with Targum, Rashi to *Bava Basra* 15b and Rabbi Yosef Kara; Hoshea 4:18; Nachum 1:10; *Avodah Zarah* 77a; Bereishis 10:7 and Divrei HaYamim I 1:9; Yeshayahu 43:3 and 45:14; Yechezkel 23:42 with Radak and Targum Yonasan; Bereishis 9:21; Yirmiyahu 13:13; Yechezkel 23:33 and 39:19; Yehoshua 15:11; Bamidbar 6:3 and 28:7 with Targum Onkelos and Rashi; *Zevachim* 91a; Vayikra 10:9 with *Nazir* 4a, *Kerisus* 13b and Ramban; *Pesachim* 3:1; Rav Hirsch to Bereishis 24:25, Shemos 13:12 and Devarim 21:19; Shmuel II 6:14 and 6:16; Shulchan Aruch Orach Chaim 175:2; Dr. Lawrence Resnick, *1,000 Words*; Even-Shoshan's biblical concordance.

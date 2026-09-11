@@ -25,8 +25,7 @@ updated: 2026-09-10
 and specifically of something soft, by a force from outside. *Gozer* is
 **cutting** with a blade through something thick, and by extension **decreeing**.
 *Chatichah* is the ordinary Rabbinic word for **cutting**, originally cutting in
-half. The trap: English "cut" and "split" will absorb all of them, and the
-splitting of the sea is called by all three verbs in different sources, each
+half. The splitting of the sea is called by all three verbs in different sources, each
 saying something different about who did what to what.
 
 ## Distinctions
@@ -41,8 +40,7 @@ itself; the Oral Torah, speaking from the vantage of Klal Yisrael, says *korea*
 because from below the sea looks acted upon from outside.
 
 ### korea (קריעה)
-Tearing. Halachically, *Shulchan Aruch HaRav* (*Orach Chaim* 340:17, cited in the
-article as *Shulchan Aruch HaGraz*) defines *korea* as ripping apart two things
+Tearing. Halachically, *Shulchan Aruch HaRav* (*Orach Chaim* 340:17) defines *korea* as ripping apart two things
 that were joined together but were once separate. Rabbi Yitzchok Meir Alter of
 Ger, the Chiddushei HaRim, was asked this very question, and answered that he had
 much to say but was stopped from Above from giving a full answer; he could reveal
@@ -62,7 +60,7 @@ something that tears easily.
 ### gozer (גזירה)
 Tehillim 136:13 calls the sea "cut into cuts" (*l'gezarim*), and Maariv thanks
 Hashem for passing His children between the *gizrei* Yam Suf. Rabbi Pappenheim
-gives two accounts, in two separate discussions, and both are usable: *gozer* is
+gives two accounts, in two separate discussions: *gozer* is
 precision cutting with an instrument, so that whatever is deliberately cut out of
 a larger whole is *nigzar* or a *gizrah*; and *gozer* is the sawing motion of a
 blade applied continuously, drawn back and forth until it has cut through
@@ -161,14 +159,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Cut it Out! (Part 1 of 2)](https://articles.ohr.edu/articles/cut-it-out-part-1-of-2)," What's in a Word?, Ohr
-Somayach, 13 Shevat 5779 (2019-01-19), and "Cut it Out! (Part 2 of 2)," 20 Shevat
-5779 (2019-01-26): raw text in `sources/whats-in-a-word/raw/8098-cut-it-out-part-1-of-2.md`
-and `sources/whats-in-a-word/raw/8107-cut-it-out-part-2-of-2.md`. Primary loci
-cited: Shemos 14:15, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17;
-Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7;
-Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24;
-Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov
-18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 32:24; Yeshayahu 28:2;
-Hoshea 13:14; Rav Hirsch to Tehillim 136:13. The article's bracketed aside
-deriving the Modern Hebrew *gezer* from Arabic is reported here as he gives it.
+Rabbi Reuven Chaim Klein, "[Cut it Out! (Part 1 of 2)](https://articles.ohr.edu/articles/cut-it-out-part-1-of-2)," *What's in a Word?*, Ohr Somayach, 19 January 2019.
+
+Rabbi Reuven Chaim Klein, "[Cut it Out! (Part 2 of 2)](https://articles.ohr.edu/articles/cut-it-out-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 26 January 2019.
+
+Cited in the essay: Shemos 14:15, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17; Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7; Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24; Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 32:24; Yeshayahu 28:2; Hoshea 13:14; Rav Hirsch to Tehillim 136:13.

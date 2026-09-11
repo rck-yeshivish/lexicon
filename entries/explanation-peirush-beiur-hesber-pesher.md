@@ -23,8 +23,8 @@ hidden (Malbim), at length and in writing, so that the matter is clear (Shadal).
 *Hesber* is **explanation of the reasoning**, the *svara*: it answers *why*,
 where *beiur* answers *what* (Rabbi Reuven Subar). *Pesher* and *pitaron* are
 **interpretation**, the solving of an enigma; *pitaron* in Tanach is dream
-interpretation only (Radak, Malbim). Do not render *beiur* as "commentary"; it
-promises more than a *peirush* does.
+interpretation only (Radak, Malbim). A *beiur* promises more than a *peirush*
+does.
 
 ## Distinctions
 
@@ -232,24 +232,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Miketz: Say it Clear (Part 1/2)](https://articles.ohr.edu/articles/miketz-say-it-clear-part-12)," What's in a
-Word?, Ohr Somayach, 4 Teves 5784 (2023-12-16): raw text in
-`sources/whats-in-a-word/raw/11170-miketz-say-it-clear-part-12.md`; and
-"Vayigash: Say it Clear (Part 2/2)," 11 Teves 5784 (2023-12-23): raw text in
-`sources/whats-in-a-word/raw/11178-vayigash-say-it-clear-part-22.md`. Primary
-loci the articles cite: Radak, *Sefer HaShorashim* s.v. פתר, פשר, באר, שבר;
-Malbim, *Yair Ohr*; Bereishis 4:14, 13:6, 40-41; Berachos 55b; Eruvin 32b;
-Kesubos 107b; Chullin 54b; Bamidbar 22:5 with *Bamidbar Rabbah* 20:7, *Tanchuma
-Balak* 4, Rashi, and *Gur Aryeh*; Koheles 8:1 with Rashi and *Michlal Yofi*;
-Daniel 3:25, 5:6, 5:12, 7:25; Esther 3:14, 4:8, 8:13, 9:1; Devarim 1:5, 22:17,
-27:8 with Rashi; Vayikra 11:3 and 24:12 with Targum Onkelos; Bamidbar 11:12,
-15:34; Shemos 13:2, 16:21, 25:39; Yeshayahu 40:11, 63:9; Chavakuk 2:2; Tehillim
-104:27, 119:166, 145:15, 146:5; Mishnah Yadayim 4:6 to 8, Shabbos 20:3, Menachos
-5:2, Parah 8:9, Niddah 7:1, Kesubos 10:6 with Rambam's commentary; Rav Hirsch to
-Shemos 13:2, 25:39 and Tehillim 145:15; Avos 1:15 with Meiri; *Otzar Nirdafim*;
-*Sefer HaTishbi* with *Raglei Mivaser*; *Chosam Tochnis*; *Ohalei Yehuda*;
-*Tirgem Avraham*; *Aruch HaShaleim*. The articles' comparative and academic
-material (the Dead Sea *pesharim*, the Judeo-Arabic *tafsir*, the Latin and
-Indo-European background of "elucidate," Kohut on *efshar* and Rabbi Dr. Ernest
-Klein's rejection of it, and Rabbi Tzvi Hirsch Ferber's identification of Pesor)
-is reported here as the articles report it.
+Rabbi Reuven Chaim Klein, "[Miketz: Say it Clear (Part 1/2)](https://articles.ohr.edu/articles/miketz-say-it-clear-part-12)," *What's in a Word?*, Ohr Somayach, 16 December 2023.
+
+Rabbi Reuven Chaim Klein, "[Vayigash: Say it Clear (Part 2/2)](https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22)," *What's in a Word?*, Ohr Somayach, 23 December 2023.
+
+Cited in the essay: Radak, *Sefer HaShorashim* s.v. פתר, פשר, באר, שבר; Malbim, *Yair Ohr*; Bereishis 4:14, 13:6, 40-41; Berachos 55b; Eruvin 32b; Kesubos 107b; Chullin 54b; Bamidbar 22:5 with *Bamidbar Rabbah* 20:7, *Tanchuma Balak* 4, Rashi, and *Gur Aryeh*; Koheles 8:1 with Rashi and *Michlal Yofi*; Daniel 3:25, 5:6, 5:12, 7:25; Esther 3:14, 4:8, 8:13, 9:1; Devarim 1:5, 22:17, 27:8 with Rashi; Vayikra 11:3 and 24:12 with Targum Onkelos; Bamidbar 11:12, 15:34; Shemos 13:2, 16:21, 25:39; Yeshayahu 40:11, 63:9; Chavakuk 2:2; Tehillim 104:27, 119:166, 145:15, 146:5; Mishnah Yadayim 4:6 to 8, Shabbos 20:3, Menachos 5:2, Parah 8:9, Niddah 7:1, Kesubos 10:6 with Rambam's commentary; Rav Hirsch to Shemos 13:2, 25:39 and Tehillim 145:15; Avos 1:15 with Meiri; *Otzar Nirdafim*; *Sefer HaTishbi* with *Raglei Mivaser*; *Chosam Tochnis*; *Ohalei Yehuda*; *Tirgem Avraham*; *Aruch HaShaleim*; Rabbi Dr. Ernest Klein; Rabbi Tzvi Hirsch Ferber.

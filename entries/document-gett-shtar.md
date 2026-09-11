@@ -22,10 +22,9 @@ Neither *gett* nor *shtar* is biblical. In the language of Chazal both mean
 **document**, and both normally take a modifier (*gett chov*, *shtar erusin*).
 *Gett* is the broader of the two for Rabbi Yisrael Yaakov Algazi: every *shtar*
 may be called a *gett*, not every *gett* a *shtar*. Unmodified, *gett* means
-**a bill of divorce** (Rashi; Rambam), and that is how to render it standing
-alone. In Tanach the bill of divorce is *sefer kerisus*, literally **a scroll of
-cutting** (Devarim 24:1-3; Yeshayahu 50:1), and a deed of sale is *sefer
-hamiknah* (Yirmiyahu 32). Do not read a biblical *sefer* as a *shtar*.
+**a bill of divorce** (Rashi; Rambam). In Tanach the bill of divorce is *sefer
+kerisus*, literally **a scroll of cutting** (Devarim 24:1-3; Yeshayahu 50:1), and
+a deed of sale is *sefer hamiknah* (Yirmiyahu 32).
 
 ## Distinctions
 
@@ -144,16 +143,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Divorce Bills and Other Documents](https://articles.ohr.edu/articles/divorce-bills-and-other-documents)," What's in a
-Word?, Ohr Somayach, 22 Iyar 5780 (2020-05-16):
-`sources/whats-in-a-word/raw/8704-divorce-bills-and-other-documents.md`. Primary
-loci: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6;
-Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b;
-Kesuvos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah
-Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgaman*; *Divrei
-Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo*
-76. The column's comparative material is reported here as the column gives it:
-the scholarly consensus deriving *gett* from Akkadian *gittu*; Dr. Chaim
-Tawil's derivation of *shoter* from Akkadian *sataru* and his *shoter*/*sofer*
-distinction; the four theories on the origin of *ghetto*; and the Old English
-*starr*.
+Rabbi Reuven Chaim Klein, "[Divorce Bills and Other Documents](https://articles.ohr.edu/articles/divorce-bills-and-other-documents)," *What's in a Word?*, Ohr Somayach, 16 May 2020.
+
+Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesuvos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgaman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik.

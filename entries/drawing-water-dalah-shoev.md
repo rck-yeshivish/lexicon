@@ -39,10 +39,9 @@ updated: 2026-09-10
 ## Bottom line
 
 Both verbs mean **draw water**, and the difference is effort. *Dalah* is
-drawing from a deep well: lower the pail, haul it up, so render it **draw up**
-or **draw out** (Malbim). *Shoev* is drawing where the water is already at
-hand, from a spring or surface pool, so plain **draw** is right. If a passage
-turns on the labor involved, do not let one English "draw" cover both.
+drawing from a deep well, lowering the pail and hauling it up: **draw up** or
+**draw out** (Malbim). *Shoev* is drawing where the water is already at hand,
+from a spring or surface pool: plain **draw**.
 
 ## At a glance
 
@@ -82,7 +81,7 @@ typically means hanging a *d'li* on a rope and lowering it in.
 
 The Bottom line follows Malbim on the practical question, which Shadal (to
 Bereishis 24:13) explains similarly; the root debates change the etymology, not
-the rendering.
+the difference between the two verbs.
 
 ## Distinctions
 
@@ -160,13 +159,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shemos: Drawing Water](https://articles.ohr.edu/articles/shemos-drawing-water)," What's in a Word?, Ohr
-Somayach, 21 Teves 5783 (2023-01-14):
-https://articles.ohr.edu/articles/shemos-drawing-water; raw text in
-`sources/whats-in-a-word/raw/10786-shemos-drawing-water.md`. Primary loci:
-Shemos 2:16-19; Tehillim 30:2; Bamidbar 24:7; Yeshayahu 40:15 and 12:3;
-Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7, 31:9, 31:12; Mishlei
-20:5; Bereishis 24:11-45 and Shadal to 24:13; *Bereishis Rabbah* 60:5; Sotah
-47a, Sanhedrin 107b and Avodah Zarah 44a (*even shoeves*, the magnet). Wilhelm
-Gesenius on ד-ל as "hanging, swinging" is reported above as the column reports
-it.
+Rabbi Reuven Chaim Klein, "[Shemos: Drawing Water](https://articles.ohr.edu/articles/shemos-drawing-water)," *What's in a Word?*, Ohr Somayach, 14 January 2023.
+
+Cited in the essay: Shemos 2:16-19; Tehillim 30:2; Bamidbar 24:7; Yeshayahu 40:15 and 12:3; Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7, 31:9, 31:12; Mishlei 20:5; Bereishis 24:11-45 and Shadal to 24:13; *Bereishis Rabbah* 60:5; Sotah 47a, Sanhedrin 107b and Avodah Zarah 44a (*even shoeves*, the magnet); Wilhelm Gesenius on ד-ל.

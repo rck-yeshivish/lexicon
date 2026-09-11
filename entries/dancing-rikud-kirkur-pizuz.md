@@ -20,10 +20,9 @@ Tedeschi-Ashkenazi it names the joy that is the occasion for it rather than any
 particular step. *Kirkur* (*micharker*) is the footwork: **whirling, capering**,
 which Rabbi Yosef Kara glosses as circular motion. *Pizuz* (*mifazez*) is the
 wild, fast part: **prancing** or **leaping about**, the hands and fingers moving
-with the feet. The one thing not to get wrong: at Shmuel II 6:14 David is only
-*micharker*, and at 6:16, through Michal's eyes, he is *mifazez umecharker*. The
-added verb is the point of the story, so the English must differ across the two
-pesukim; never render both as "danced."
+with the feet. At Shmuel II 6:14 David is only *micharker*, and at 6:16, through
+Michal's eyes, he is *mifazez umecharker*. The added verb is the point of the
+story.
 
 ## Distinctions
 
@@ -118,7 +117,7 @@ seems to explode from place to place; and he suggests that perhaps fine gold is
 called *paz* because beating it into a thin sheet sends little pieces flying, as
 though the metal were exploding.
 
-Radak (to Bereishis 49:24; the article prints 39:24) reads *vayafozu zero'ei
+Radak (to Bereishis 49:24) reads *vayafozu zero'ei
 yadav* of Yosef as strengthening, that Yosef strengthened his arm to repay those
 who hated him, and applies the same (there and in his *Sefer HaShorashim*) to
 David: it is the way of dancers to strengthen their belt or trousers when they
@@ -158,20 +157,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shemini: Dancing Away](https://articles.ohr.edu/articles/shemini-dancing-away)," What's in a Word?, Ohr
-Somayach, 28 Nisan 5785 (2025-04-26): raw text in
-`sources/whats-in-a-word/raw/11784-shemini-dancing-away.md`. Primary loci:
-Bereishis 11:9, 13:10, 49:4, 49:24 (the article's Radak citation prints 39:24);
-Shemos 24:7;
-Shmuel II 6:12-23, particularly 6:14 and 6:16; Divrei HaYamim I 15:29; Yeshayahu
-13:21; Tehillim 29:6, 68:17, 114:4, 114:6; Koheles 3:4; Mishnah *Beitzah* 5:2,
-*Sukkah* 5:4, *Shabbos* 7:2, *Shevi'is* 5:9, *Gittin* 5:9, *Menachos* 11:3;
-Yerushalmi *Beitzah* 5:2; *Berachos* 33a, *Pesachim* 112b, *Yoma* 69b,
-*Sanhedrin* 64a, *Bava Basra* 16a, *Shabbos* 55b and 88a, *Kesubos* 112a,
-*Megillah* 29a; *Bamidbar Rabbah* 4:20; Rambam, *Hilchos Lulav* 8:13-14;
-Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*;
-Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* and *Ho'il Moshe*; Mr. Yehoshua
-Yaron, *Mevo L'Midrash HaLashon*; Shadal to Bereishis 11:9 and 13:10. The
-article's speculative links of *micharker* to the Latin *circulus* and of
-*mifazez* to the English *pizzazz* are reported here as it gives them, the first
-as Tedeschi-Ashkenazi's speculation and the second as the columnist's own.
+Rabbi Reuven Chaim Klein, "[Shemini: Dancing Away](https://articles.ohr.edu/articles/shemini-dancing-away)," *What's in a Word?*, Ohr Somayach, 26 April 2025.
+
+Cited in the essay: Bereishis 11:9, 13:10, 49:4, 49:24; Shemos 24:7; Shmuel II 6:12-23, particularly 6:14 and 6:16; Divrei HaYamim I 15:29; Yeshayahu 13:21; Tehillim 29:6, 68:17, 114:4, 114:6; Koheles 3:4; Mishnah *Beitzah* 5:2, *Sukkah* 5:4, *Shabbos* 7:2, *Shevi'is* 5:9, *Gittin* 5:9, *Menachos* 11:3; Yerushalmi *Beitzah* 5:2; *Berachos* 33a, *Pesachim* 112b, *Yoma* 69b, *Sanhedrin* 64a, *Bava Basra* 16a, *Shabbos* 55b and 88a, *Kesubos* 112a, *Megillah* 29a; *Bamidbar Rabbah* 4:20; Rambam, *Hilchos Lulav* 8:13-14; Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* and *Ho'il Moshe*; Mr. Yehoshua Yaron, *Mevo L'Midrash HaLashon*; Shadal to Bereishis 11:9 and 13:10.

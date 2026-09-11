@@ -17,9 +17,9 @@ updated: 2026-09-10
 
 Both mean **hyperbole**, and Chazal use them interchangeably in the same sugya
 (Tamid 29a; Chullin 90b); Rabbi Eliyahu HaBachur says outright that they mean the
-same thing. Render *divrei havai* as **words of hyperbole** or **a manner of
-speech**, and *guzma* as **an overstatement**. The one thing not to get wrong is
-that neither word means a falsehood. Rabbi Yaakov Emden: a statement called a
+same thing. *Divrei havai* are **words of hyperbole** or **a manner of
+speech**, and a *guzma* is **an overstatement**. Neither word means a
+falsehood. Rabbi Yaakov Emden: a statement called a
 *guzma* is literally true, and it is only its plain implication that overshoots.
 Rabbi Menachem Azariah of Fano: *havai* marks something that must be taken
 seriously, though not literally.
@@ -158,15 +158,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Empty Exaggerations](https://articles.ohr.edu/articles/empty-exaggerations)," What's in a Word?, Ohr Somayach,
-3 Tamuz 5782 (2022-07-02):
-`sources/whats-in-a-word/raw/9756-empty-exaggerations.md`. Primary loci: Devarim
-1:28 and 9:1; Bamidbar 13:28; Tamid 29a and Chullin 90b (Rabbi Ami); Mishnah
-Tamid 2:2 and 3:4, Middos 3:8, Shekalim 8:5, Nedarim 3:1-2; Nedarim 20b with
-Rabbeinu Nissim and *Tosafos Yeshanim*; Bava Metzia 38a, Erchin 11a, Beitzah 4a,
-Eruvin 2b, Shevuos 46a, Avodah Zarah 50b, with Rashi where cited; Yoel 1:4, 2:25;
-Amos 4:9; Ezra 2:48 and Nechemiah 7:51; Tehillim 8:3, 72:6, 134:1; Mishlei 15:30,
-30:15; Iyov 30:4, 30:21; Yeshayahu 7:25, 32:13; Yechezkel 20:29; Bereishis 11:6,
-31:19, 38:12; Vayikra 26:4; Devarim 18:10; *Sefer HaTishbi*; *Mussaf HaAruch*;
-*Yefeh Mareh* to the end of Yerushalmi Shekalim. Dr. Alexander Kohut's comparison
-of *havai* to a Persian word is reported here as the article reports it.
+Rabbi Reuven Chaim Klein, "[Empty Exaggerations](https://articles.ohr.edu/articles/empty-exaggerations)," *What's in a Word?*, Ohr Somayach, 2 July 2022.
+
+Cited in the essay: Devarim 1:28 and 9:1; Bamidbar 13:28; Tamid 29a and Chullin 90b (Rabbi Ami); Mishnah Tamid 2:2 and 3:4, Middos 3:8, Shekalim 8:5, Nedarim 3:1-2; Nedarim 20b with Rabbeinu Nissim and *Tosafos Yeshanim*; Bava Metzia 38a, Erchin 11a, Beitzah 4a, Eruvin 2b, Shevuos 46a, Avodah Zarah 50b, with Rashi where cited; Yoel 1:4, 2:25; Amos 4:9; Ezra 2:48 and Nechemiah 7:51; Tehillim 8:3, 72:6, 134:1; Mishlei 15:30, 30:15; Iyov 30:4, 30:21; Yeshayahu 7:25, 32:13; Yechezkel 20:29; Bereishis 11:6, 31:19, 38:12; Vayikra 26:4; Devarim 18:10; *Sefer HaTishbi*; *Mussaf HaAruch*; *Yefeh Mareh* to the end of Yerushalmi Shekalim; Dr. Alexander Kohut.

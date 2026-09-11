@@ -24,8 +24,7 @@ the Mishkan the *paroches* separates the Kodesh from the Kodesh HaKodashim and
 the *masach* hangs over an entrance. *Vilon* and *pargod* are the later
 Rabbinic words: *vilon* a plain **curtain**, *pargod* a **partition curtain**
 standing where the *paroches* stands, and in aggadic contexts the screen
-between Hashem and what is below. The trap: *paroches* names a function, not a
-fabric, so "curtain" alone can miss it.
+between Hashem and what is below. *Paroches* names a function, not a fabric.
 
 ## Distinctions
 
@@ -119,13 +118,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Raise the Curtain](https://articles.ohr.edu/articles/raise-the-curtain)," What's in a Word?, Ohr Somayach,
-25 Adar I 5779 (2019-03-02): raw text in
-`sources/whats-in-a-word/raw/8157-raise-the-curtain.md`. Primary loci cited:
-Shemos 1:13, 26:31, 26:31-33, 26:36, 35:12; Shmuel II 17:19; Tehillim 105:39;
-*Keilim* 20:6, 24:13, 27:9, 29:1; *Negaim* 11:11; *Chagigah* 12b and 15a;
-*Bava Metzia* 59a; *Berachos* 18b; Rashi to Shemos 26:31, 26:36 and 35:12;
-*Sefer HaAruch* s.v. *pargod*; Rav Hai Gaon to *Keilim* 29:1; *Shoresh Yesha*.
-The article's Greek etymology for *vilon* and its two etymologies for *pargod*
-(Rabbi Ernest Klein's Greek and Latin derivation, and the anonymous Latin and
-Akkadian alternative) are reported here as the column gives them.
+Rabbi Reuven Chaim Klein, "[Raise the Curtain](https://articles.ohr.edu/articles/raise-the-curtain)," *What's in a Word?*, Ohr Somayach, 2 March 2019.
+
+Cited in the essay: Shemos 1:13, 26:31, 26:31-33, 26:36, 35:12; Shmuel II 17:19; Tehillim 105:39; *Keilim* 20:6, 24:13, 27:9, 29:1; *Negaim* 11:11; *Chagigah* 12b and 15a; *Bava Metzia* 59a; *Berachos* 18b; Rashi to Shemos 26:31, 26:36 and 35:12; *Sefer HaAruch* s.v. *pargod*; Rav Hai Gaon to *Keilim* 29:1; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Ernest Klein.

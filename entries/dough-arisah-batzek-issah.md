@@ -24,7 +24,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All three mean **dough**, and in most contexts plain "dough" is right for each.
+All three mean **dough**.
 Where a passage distinguishes them: *arisah* is dough as a **mixture** just
 kneaded together (the Torah's word in the mitzvah of *challah*), *batzek* is
 dough already worked into one batch and **rising** (the Torah's word for
@@ -60,8 +60,7 @@ Yirmiyahu 7:18, Hoshea 7:4, Shmuel II 13:8). Rabbi Mecklenburg: *batzek* is
 dough already kneaded and worked into a single batch, which has begun to rise
 or is about to. He grounds this in the root's other sense, **swollen**: the
 Jews' feet did not swell (*batzek*) in the wilderness (Devarim 8:4, and the
-parallel at Nechemiah 9:21; the article prints Nechemiah 15:21, a chapter that
-does not exist). Rabbi Yitzchak Ratzabi picks this up as a further suggestion:
+parallel at Nechemiah 9:21). Rabbi Yitzchak Ratzabi picks this up as a further suggestion:
 *arisah* might denote dough whose ingredients have simply been mixed together,
 while *batzek* might refer specifically to dough already kneaded and now
 beginning to rise or swell. He then proposes that if that is so, the halachah
@@ -122,13 +121,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Kneading the Dough](https://articles.ohr.edu/articles/kneading-the-dough)," What's in a Word?, Ohr
-Somayach, 21 Sivan 5780 (2020-06-13):
-https://articles.ohr.edu/articles/kneading-the-dough, raw text in
-`sources/whats-in-a-word/raw/8744-kneading-the-dough.md`. Primary loci cited:
-Bamidbar 15:20-21; Nechemiah 10:38; Yechezkel 44:30; Shemos 12:34 and 12:39;
-Yirmiyahu 7:18; Hoshea 7:4; Shmuel II 13:8; Devarim 8:4 with Nechemiah 9:21;
-Mishnah Challah 1:5 and 2:2; Rashi to Berachos 37b; *Sefer HaAruch* on the root
-ע-ר-ס; Yechezkel 23:3; Malachi 3:21; Yoel 4:18; Yeshayahu 49:26; Shir HaShirim
-8:2; Pseudo-Rashi to Divrei HaYamim I 18:5; *Hagahos Rashash* to Rosh Hashanah
-26a.
+Rabbi Reuven Chaim Klein, "[Kneading the Dough](https://articles.ohr.edu/articles/kneading-the-dough)," *What's in a Word?*, Ohr Somayach, 13 June 2020.
+
+Cited in the essay: Bamidbar 15:20-21; Nechemiah 10:38; Yechezkel 44:30; Shemos 12:34 and 12:39; Yirmiyahu 7:18; Hoshea 7:4; Shmuel II 13:8; Devarim 8:4 with Nechemiah 9:21; Mishnah Challah 1:5 and 2:2; Rashi to Berachos 37b; *Sefer HaAruch* on the root ע-ר-ס; Yechezkel 23:3; Malachi 3:21; Yoel 4:18; Yeshayahu 49:26; Shir HaShirim 8:2; Pseudo-Rashi to Divrei HaYamim I 18:5; *Hagahos Rashash* to Rosh Hashanah 26a.

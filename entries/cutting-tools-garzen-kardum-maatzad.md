@@ -41,9 +41,8 @@ it is the only one of these words Chazal do not use in their own Hebrew.
 *Kardum* is the double-headed **adze-axe** or **mattock**, adze on one face and
 axe on the other. *Maatzad* is the **adze**, the woodworker's shaping tool and
 the smaller implement of the pair. *Kashil* is the **large axe** and *keilapot*
-the **hatchets**, both appearing once only, together in one pasuk. The one thing
-not to get wrong: *maatzad* and *kashil* are separated by size, and a real
-halachah in Bava Kamma turns on it, so never render both "axe."
+the **hatchets**, both appearing once only, together in one pasuk. *Maatzad* and
+*kashil* are separated by size, and a real halachah in Bava Kamma turns on it.
 
 ## At a glance
 
@@ -105,8 +104,7 @@ Four times in Tanach, and split evenly between the two crafts. Twice it cuts
 wood: the woodsman whose *garzen* head flies off the handle and kills a man, so
 that he must flee to a city of refuge (Devarim 19:5), and the prohibition against
 felling a fruit tree in a siege (Devarim 20:19). Twice it cuts stone: Yeshayahu
-10:15, where the axe boasts against the one who hews with it (the article prints
-10:5), and Melachim I 6:7, where no iron tool was heard in the building of the
+10:15, where the axe boasts against the one who hews with it, and Melachim I 6:7, where no iron tool was heard in the building of the
 Beis HaMikdash. Rav Hirsch (to Shemos 26:6) groups ג-ר-ז with the phonetically
 near roots ק-ר-ס ("crashing, tearing"), ג-ר-ס ("grinding, crushing") and ק-ר-צ
 ("cutting, severing"), since GIMMEL and KUF interchange, as do ZAYIN, SAMECH and
@@ -203,9 +201,9 @@ Hebrew *kardum* with a variant of *keilapot*, the PEH interchanged with a BEIS.
   Mishnaic digging sense, not of the Biblical tool. Keep it, but do not carry
   "spade" back into a pasuk; there Radak's double-headed tool is meant.
 - For *magal* and *chermesh*, the harvesting tools, see
-  `sickle-chermesh-magal.md`; for the *kurnas* Rashi compares the *maatzad* to,
-  see `hammer-makevet-patish-kurnas.md`; for the verbs of cutting, see
-  `cutting-bokea-korea-gozer.md`.
+  [sickle](sickle-chermesh-magal.html); for the *kurnas* Rashi compares the *maatzad* to,
+  see [hammer](hammer-makevet-patish-kurnas.html); for the verbs of cutting, see
+  [cutting](cutting-bokea-korea-gozer.html).
 
 ## Notes for a project
 
@@ -213,21 +211,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayigash: Cutting Tools](https://articles.ohr.edu/articles/vayigash-cutting-tools)," What's in a Word?, Ohr
-Somayach, 4 Teves 5785 (2025-01-04): raw text in
-`sources/whats-in-a-word/raw/11644-vayigash-cutting-tools.md`. Primary loci:
-Devarim 19:5, 20:19; Yeshayahu 10:15 (the article prints 10:5) and 44:12;
-Melachim I 6:7; Melachim II 20:20; Divrei HaYamim II 32:30; Shmuel I 13:20-21;
-Shoftim 9:48; Tehillim 31:23, 74:5, 74:6; Yirmiyahu 46:22, 10:3; Mishnah Peah
-4:4, Sheviis 4:6 and 5:4, Shabbos 12:1 and 17:2, Beitzah 4:3, Bava Kamma 10:10,
-Avos 4:5, Erchin 6:3, Meilah 5:1, Keilim 13:3, 13:4, 20:3, 29:4-7 and 29:6,
-Taharos 9:7, Parah 12:5; Yoma 37b; Rashi to Yeshayahu 44:12 and Shabbos 102b;
-Radak, *Sefer HaShorashim*, and to Shmuel I 13:20; Menachem Ibn Saruk, *Machberes
-Menachem*; Ibn Janach, *Sefer HaShorashim*; Ibn Parchon, *Machberes He'Aruch*;
-Rav Hirsch to Shemos 26:6. The article states that much of its information comes
-from Dr. Aaron J. Koller's *The Semantic Field of Cutting Tools in Biblical
-Hebrew: The Interface of Philological, Semantic, and Archeological Evidence*
-(2012) and from his 2013 article in the *Journal of Near Eastern Studies* on
-*maatzad*; his views, the Siloam Inscription, the Gezer Calendar, the Akkadian
-and Hittite comparanda and the aside on the English word *adze* are reported here
-as the column gives them.
+Rabbi Reuven Chaim Klein, "[Vayigash: Cutting Tools](https://articles.ohr.edu/articles/vayigash-cutting-tools)," *What's in a Word?*, Ohr Somayach, 4 January 2025.
+
+Cited in the essay: Devarim 19:5, 20:19; Yeshayahu 10:15 and 44:12; Melachim I 6:7; Melachim II 20:20; Divrei HaYamim II 32:30; Shmuel I 13:20-21; Shoftim 9:48; Tehillim 31:23, 74:5, 74:6; Yirmiyahu 46:22, 10:3; Mishnah Peah 4:4, Sheviis 4:6 and 5:4, Shabbos 12:1 and 17:2, Beitzah 4:3, Bava Kamma 10:10, Avos 4:5, Erchin 6:3, Meilah 5:1, Keilim 13:3, 13:4, 20:3, 29:4-7 and 29:6, Taharos 9:7, Parah 12:5; Yoma 37b; Rashi to Yeshayahu 44:12 and Shabbos 102b; Radak, *Sefer HaShorashim*, and to Shmuel I 13:20; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Ibn Parchon, *Machberes He'Aruch*; Rav Hirsch to Shemos 26:6; Dr. Aaron J. Koller, *The Semantic Field of Cutting Tools in Biblical Hebrew: The Interface of Philological, Semantic, and Archeological Evidence* (2012), and his 2013 article on *maatzad* in the *Journal of Near Eastern Studies*; the Siloam Inscription; the Gezer Calendar.

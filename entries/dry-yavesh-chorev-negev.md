@@ -25,8 +25,7 @@ updated: 2026-09-10
 *Charev* is **dried** in the partial sense: the surface has dried but moisture
 remains underneath. *Yavesh* is **dry** outright, drained through and through.
 The order is fixed: wherever the two stand together, *charev* comes first and
-*yavesh* second (Malbim), so a translation must show a progression, not repeat
-one English word. *Negev* is **arid** or **parched**, closer to *charev* than to
+*yavesh* second (Malbim). *Negev* is **arid** or **parched**, closer to *charev* than to
 *yavesh*, and in Tanach it usually means "south" rather than "dry" at all.
 
 ## Distinctions
@@ -159,15 +158,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[On Dry Land](https://articles.ohr.edu/articles/on-dry-land)," What's in a Word?, Ohr Somayach, 10
-Tammuz 5782 (2022-07-09): raw text in
-`sources/whats-in-a-word/raw/9775-on-dry-land.md`. Primary loci: Bereishis 7:22,
-8:13-14, 12:9, 31:40, 40:10; Shemos 14:21-22, 32:1; Vayikra 7:10; Yehoshua
-15:19; Shoftim 1:15; Melachim I 13:4; Yeshayahu 8:23, 19:5, 21:1; Tehillim
-102:12, 106:9, 126:4; Mishlei 17:1; Iyov 14:11; Vilna Gaon to Yeshayahu 8:23;
-Rashi to Bereishis 8:13-14; Radak, *Sefer HaShorashim* on ח-ר-ה; Rabbi Eliyahu
-HaBachur, *Meturgeman*; Mishnah Chagigah 3:1, Avodah Zarah 2:11 and 5:11,
-Menachos 3:3 and 8:4, Keilim 25:6, Taharos 2:1, 3:8, 10:2 and 10:8, Machshirin
-3:5 and 4:9, Mikvaos 10:4, Tvul Yom 3:6, Parah 5:2, 7:8, 9:1 and 11:8. Rabbi
-Aharon Marcus's claim that the original sense of ב-ש is still known through
-Akkadian is reported above as the column reports it.
+Rabbi Reuven Chaim Klein, "[On Dry Land](https://articles.ohr.edu/articles/on-dry-land)," *What's in a Word?*, Ohr Somayach, 9 July 2022.
+
+Cited in the essay: Bereishis 7:22, 8:13-14, 12:9, 31:40, 40:10; Shemos 14:21-22, 32:1; Vayikra 7:10; Yehoshua 15:19; Shoftim 1:15; Melachim I 13:4; Yeshayahu 8:23, 19:5, 21:1; Tehillim 102:12, 106:9, 126:4; Mishlei 17:1; Iyov 14:11; Vilna Gaon to Yeshayahu 8:23; Rashi to Bereishis 8:13-14; Radak, *Sefer HaShorashim* on ח-ר-ה; Rabbi Eliyahu HaBachur, *Meturgeman*; Mishnah Chagigah 3:1, Avodah Zarah 2:11 and 5:11, Menachos 3:3 and 8:4, Keilim 25:6, Taharos 2:1, 3:8, 10:2 and 10:8, Machshirin 3:5 and 4:9, Mikvaos 10:4, Tvul Yom 3:6, Parah 5:2, 7:8, 9:1 and 11:8.

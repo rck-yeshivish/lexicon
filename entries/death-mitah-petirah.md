@@ -22,9 +22,7 @@ updated: 2026-09-10
 and soul, said of anyone and of animals. *Petirah* (*nifter*) is **passing**,
 literally "exiting, taking leave," the Rabbinic word for a person leaving This
 World for the Next; it is generally reserved for the righteous and implies a
-continuation. Render *nifter* as "passed away" or "departed," never as "died"
-when the text sets it against *meis*; and do not soften a pasuk's *mos* into
-"passing."
+continuation. *Nifter* is "passed away" or "departed."
 
 ## Distinctions
 
@@ -91,7 +89,7 @@ specifically of a *tzaddik*, *mitah* of death in general.
 - נפטר / פטירה of a person: "passed away," "his passing," "departed this
   world"; the *min ha'olam* idiom may be kept: "departed from the world."
 - Trap: English "death" and "died" absorb both. In a text that pairs them
-  (Chazal's *tzaddikim* alive and *reshaim* dead, or a shmuess on why the
+  (Chazal's *tzaddikim* alive and *reshaim* dead, or a discussion of why the
   Gemara says *nifter* and not *meis*), keep "died" for *meis* and "passed"
   or "departed" for *nifter*, and gloss the Hebrew once.
 - Do not upgrade: a pasuk's *vayamas* is "and he died," even of a *tzaddik*;
@@ -105,11 +103,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Acharei Mos: Confronting Death](https://articles.ohr.edu/articles/acharei-mos-confronting-death)," What's in a Word?,
-Ohr Somayach, 26 Nissan 5784 (2024-05-04): raw text in
-`sources/whats-in-a-word/raw/10907-acharei-mos-confronting-death.md`. Primary
-loci the article cites: Vayikra 16:1 and 16-20; *Machberes Menachem*, *Yerios
-Shlomo* and *Cheshek Shlomo*; Even Shoshan's concordance on מ-ת and מ-ו-ת;
-Peah 8:9; Berachos 17a, 18a-b; Kesubos 68a, 104a-105b; Kiddushin 72b;
-Sanhedrin 113b; Bava Basra 16b; Temurah 16a; Yevamos 16:3; Ohalos 1:6; Uktzin
-3:2.
+Rabbi Reuven Chaim Klein, "[Acharei Mos: Confronting Death](https://articles.ohr.edu/articles/acharei-mos-confronting-death)," *What's in a Word?*, Ohr Somayach, 4 May 2024.
+
+Cited in the essay: Vayikra 16:1 and 16-20; *Machberes Menachem*, *Yerios Shlomo* and *Cheshek Shlomo*; Even Shoshan's concordance on מ-ת and מ-ו-ת; Peah 8:9; Berachos 17a, 18a-b; Kesubos 68a, 104a-105b; Kiddushin 72b; Sanhedrin 113b; Bava Basra 16b; Temurah 16a; Yevamos 16:3; Ohalos 1:6; Uktzin 3:2.

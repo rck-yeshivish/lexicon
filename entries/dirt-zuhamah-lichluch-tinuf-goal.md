@@ -21,8 +21,7 @@ by something not disgusting in itself but unwanted where it landed (Rabbi
 Shlomo Pappenheim): **soiling** and **grime**, with *lichluch* specifically wet
 (Mishnah *Mikvaos* 9:4). *Zuhamah* is the unwanted residue that clings and
 usually smells: **filth**. *Elach* is the spoiling of something homogeneous by
-an incompatible admixture: **tainted, sullied**. The trap is that all five reach
-for English "dirty"; the difference is whether the dirtying agent is disgusting
+an incompatible admixture: **tainted, sullied**. The difference is whether the dirtying agent is disgusting
 in itself (*go'al*), merely misplaced (*tinuf*, *lichluch*), or a foreign
 element mixed in (*elach*). The distinctions are not agreed, though: Rabbi
 Tanchum HaYerushalmi writes fairly clearly, in at least two places, that
@@ -169,19 +168,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shavuos: Getting Dirty](https://articles.ohr.edu/articles/shavuos-getting-dirty)," What's in a Word?, Ohr
-Somayach, 2 Sivan 5784 (2024-06-08): raw text in
-`sources/whats-in-a-word/raw/11413-shavuos-getting-dirty.md`. Primary loci:
-Iyov 15:16, 33:20; Tehillim 14:3, 53:4, 7:12, 26:10; Shir HaShirim 5:3; Daniel
-1:8; Yeshayahu 59:3, 63:3; Eichah 4:14; Tzefaniah 3:1; Divrei HaYamim II 11:19;
-Bamidbar 35:33; Mishnah *Mikvaos* 9:4, *Bava Basra* 6:2, *Bechoros* 3:1 and
-6:12, *Machshirin* 4:5, *Terumos* 10:1, *Shevi'is* 2:4; *Shabbos* 146a,
-*Yevamos* 103b, *Avodah Zarah* 26b, *Nedarim* 66b, *Chullin* 105a, *Berachos*
-53b; Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich
-HaMaspik*; Rabbi Tzemach Duran, *Yachin U'Boaz* I §114; *Machberet Menachem*;
-Alexander Kohut, *HeAruch HaShaleim*; Even-Shoshan's concordance; Wilhelm
-Gesenius (with Rabbi Shlomo Ibn Parchon, per Shadal to Bamidbar 35:33); and the
-Arabic cognate *zahuma*, all as the column itself cites them. One locus
-correction: the article gives *elach* as appearing at "Ps. 14:6," but the verse
-carrying *ne'elachu* is Tehillim 14:3, which is also the locus the article
-itself uses for Rav Hirsch and for the Targum, so 14:3 is given here.
+Rabbi Reuven Chaim Klein, "[Shavuos: Getting Dirty](https://articles.ohr.edu/articles/shavuos-getting-dirty)," *What's in a Word?*, Ohr Somayach, 8 June 2024.
+
+Cited in the essay: Iyov 15:16, 33:20; Tehillim 14:3, 53:4, 7:12, 26:10; Shir HaShirim 5:3; Daniel 1:8; Yeshayahu 59:3, 63:3; Eichah 4:14; Tzefaniah 3:1; Divrei HaYamim II 11:19; Bamidbar 35:33; Mishnah *Mikvaos* 9:4, *Bava Basra* 6:2, *Bechoros* 3:1 and 6:12, *Machshirin* 4:5, *Terumos* 10:1, *Shevi'is* 2:4; *Shabbos* 146a, *Yevamos* 103b, *Avodah Zarah* 26b, *Nedarim* 66b, *Chullin* 105a, *Berachos* 53b; Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Tzemach Duran, *Yachin U'Boaz* I §114; *Machberet Menachem*; Alexander Kohut, *HeAruch HaShaleim*; Even-Shoshan's concordance; Wilhelm Gesenius and Rabbi Shlomo Ibn Parchon, per Shadal to Bamidbar 35:33; the Arabic cognate *zahuma*.

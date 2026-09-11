@@ -21,9 +21,8 @@ domesticated donkey and, in Biblical Hebrew, of either sex (Radak): **donkey**.
 *Aton* is the she-donkey, the **jenny** or **she-ass** (Radak; Bilaam's animal
 through Bamidbar 22). *Pere* (Aramaic *arud*) is the undomesticated **wild ass**;
 Radak classes *chamor* as a *behemah* and *pere* as a *chayah*. *Ayir* is the
-young one, a **foal**; *pered* is the **mule**. The trap is Zecharyah 9:9, where
-*chamor* and *ayir* stand in one pasuk and a single English "donkey" erases the
-picture.
+young one, a **foal**; *pered* is the **mule**. Zecharyah 9:9 puts *chamor* and
+*ayir* in one pasuk.
 
 ## Distinctions
 
@@ -97,8 +96,7 @@ parts tightly joined, and *aton* is the donkey at its full strength.
 ### pere (פרא) and arud (ערוד)
 Ten occurrences, with final *aleph* or *hei*: the undomesticated wild ass, and by
 transfer a man of unbridled conduct, as Yishmael was foretold to be a *pere
-adam* (Bereishis 16:12; the column says Hashem told this to Avraham, but in the
-pasuk it is the *malach* speaking to Hagar). Rav Hirsch (to Bereishis 16:11) groups פ-ר-א
+adam* (Bereishis 16:12). Rav Hirsch (to Bereishis 16:11) groups פ-ר-א
 with פ-ר-ע, פ-ר-ח, פ-ר-ה, ב-ר-א, ב-ר-ח and ב-ר-ה, all turning on freedom and
 unhindered movement; the man likened to the animal lacks the boundaries a man
 should have. Biblical Aramaic has *aradaya* once (Daniel 5:21), and Targumic
@@ -114,9 +112,7 @@ lizard taken as a cross between a snake and a turtle.
 ### ayir (עיר) and sayach (סיח)
 Eight occurrences: Yaakov's tribute to Esav (Bereishis 32:16), the thirty sons of
 Yair the Giladi on thirty *ayarim* (Shoftim 10:4), and the forty sons and thirty
-grandsons who rode on seventy *ayarim* at Shoftim 12:14 (the article assigns
-that verse to the judge Ivtzan, but the judge there is Avdon ben Hillel;
-Ivtzan's own account is at 12:8-10). Riding one evidently marked rank, and
+grandsons who rode on seventy *ayarim* at Shoftim 12:14. Riding one evidently marked rank, and
 Zecharyah calls Mashiach "riding on a *chamor* and on an *ayir* the son of
 *asonos*" (Zecharyah 9:9). Where *ayir* is paired with *aton*
 (Bereishis 32:16, 49:11, Zecharyah 9:9) it is her offspring, a foal; Radak
@@ -197,26 +193,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Balak: An Asinine Essay (Part 1/2)](https://articles.ohr.edu/articles/balak-an-asinine-essay-part-12)" (12 July 2025 /
-16 Tammuz 5785) and "Pinchas: An Asinine Essay (Part 2/2)" (19 July 2025 / 23
-Tammuz 5785), What's in a Word?, Ohr Somayach: raw texts in
-`sources/whats-in-a-word/raw/11871-balak-an-asinine-essay-part-12.md` and
-`sources/whats-in-a-word/raw/11869-pinchas-an-asinine-essay-part-22.md`. Primary
-loci cited: Bereishis 12:16, 16:12, 32:16, 33-34, 36:24, 49:11; Shemos 13:13,
-14:27, 34:20; Vayikra 22:28; Bamidbar 22:21-23, 22:25, 22:27-30, 22:32-33;
-Devarim 2:10-11; Yehoshua 24:32; Shoftim 5:10, 9:28, 10:4, 12:8-10, 12:14;
-Shmuel II 19:27; Melachim II 4:24; Yechezkel 23:20; Zecharyah 9:9; Daniel 5:21;
-Mishnah Kilayim 1:6 and 8:6, Bechoros 1:2; Berachos 9b and 33a; Rosh Hashanah
-3a with Rashi; Bava Kamma 37a; Chullin 59a, 127a; Menachos 103b; Bava Basra 78b
-with Rashbam; Chullin 7b; Yerushalmi Berachos 8:5; Radak, *Michlol* and *Sefer
-HaShorashim*; Rav Hirsch to Bereishis 12:16 and 16:11; *HaKesav VeHaKabbalah*;
-Pappenheim, *Cheshek Shlomo*; Shadal; Rabbi David Chaim Chelouche, *Ohr
-Chadash*; Rabbi Ernest Klein's etymological dictionaries of Hebrew and English.
-The comparative Semitic and Indo-European material the articles cite is reported
-here as they give it. Three locus notes: the first article prints Bereishis
-13:16 for the *chamor* of Pharaoh's gifts and for the Chelouche and Rav Hirsch
-comments, but the pasuk with *chamorim* and *atonot* is 12:16, which is given
-here; the first article attributes the *pere adam* prophecy to Hashem speaking
-to Avraham, where the pasuk has the *malach* speaking to Hagar; and the second
-article assigns the seventy *ayarim* of Shoftim 12:14 to the judge Ivtzan,
-where the judge in that passage is Avdon ben Hillel.
+Rabbi Reuven Chaim Klein, "[Balak: An Asinine Essay (Part 1/2)](https://articles.ohr.edu/articles/balak-an-asinine-essay-part-12)," *What's in a Word?*, Ohr Somayach, 12 July 2025.
+
+Rabbi Reuven Chaim Klein, "[Pinchas: An Asinine Essay (Part 2/2)](https://articles.ohr.edu/articles/pinchas-an-asinine-essay-part-22)," *What's in a Word?*, Ohr Somayach, 19 July 2025.
+
+Cited in the essay: Bereishis 12:16, 16:12, 32:16, 33-34, 36:24, 49:11; Shemos 13:13, 14:27, 34:20; Vayikra 22:28; Bamidbar 22:21-23, 22:25, 22:27-30, 22:32-33; Devarim 2:10-11; Yehoshua 24:32; Shoftim 5:10, 9:28, 10:4, 12:14; Shmuel II 19:27; Melachim II 4:24; Yechezkel 23:20; Zecharyah 9:9; Daniel 5:21; Mishnah Kilayim 1:6 and 8:6, Bechoros 1:2; Berachos 9b and 33a; Rosh Hashanah 3a with Rashi; Bava Kamma 37a; Chullin 59a, 127a; Menachos 103b; Bava Basra 78b with Rashbam; Chullin 7b; Yerushalmi Berachos 8:5; Radak, *Michlol* and *Sefer HaShorashim*; Rav Hirsch to Bereishis 12:16 and 16:11; *HaKesav VeHaKabbalah*; Pappenheim, *Cheshek Shlomo*; Shadal; Rabbi David Chaim Chelouche, *Ohr Chadash*; Rabbi Ernest Klein's etymological dictionaries of Hebrew and English.

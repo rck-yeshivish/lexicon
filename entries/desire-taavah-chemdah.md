@@ -24,10 +24,10 @@ imagination, and in Scripture almost always the desire for intimacy (Vilna Gaon;
 Malbim). *Chemdah* is **coveting**: desire drawn by the object's own worth and
 roused by seeing it, typically for money, a house, fine clothes (Vilna Gaon;
 Rabbi Pappenheim and Rabbi Mecklenburg; Malbim). *Chefetz*, the Vilna Gaon's word
-for desire for food, seems to sit between them; render "desire" and see the *ratzon*
-entry. Chazal pair them: *chemdah* with theft, *taavah* with illicit relations
-(Chagigah 11b). Do not let "desire" flatten the two; the contrast is inside
-(*taavah*) against outside (*chemdah*).
+for desire for food, seems to sit between them: plain **desire** (see the *ratzon*
+entry). Chazal pair them: *chemdah* with theft, *taavah* with illicit relations
+(Chagigah 11b). The contrast between the two is inside (*taavah*) against outside
+(*chemdah*).
 
 ## Distinctions
 
@@ -97,12 +97,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Deleterious Desires](https://articles.ohr.edu/articles/deleterious-desires)," What's in a Word?, Ohr
-Somayach, 16 Sivan 5777 (2017-06-10): raw text in
-`sources/whats-in-a-word/raw/7292-deleterious-desires.md`. Primary loci the
-article cites: Bamidbar 11:4 and 11:10 with Chazal's reading of "family matters";
-Chagigah 11b (*chemdah* and theft, *taavah* and *arayos*); the Vilna Gaon's
-two-way (*taavah* / *chemdah*) and three-way (*taavah* / *chemdah* / *chefetz*)
-distinctions; Rabbi Pappenheim and Rabbi Mecklenburg on object-derived against
-subject-derived desire; Malbim on visual stimulus against imagination and on
-*chefetz* against *ratzon*.
+Rabbi Reuven Chaim Klein, "[Deleterious Desires](https://articles.ohr.edu/articles/deleterious-desires)," *What's in a Word?*, Ohr Somayach, 10 June 2017.
+
+Cited in the essay: Bamidbar 11:4 and 11:10; Chagigah 11b; the Vilna Gaon on *taavah*, *chemdah* and *chefetz*; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Malbim on *taavah* and *chemdah*, and on *chefetz* and *ratzon*.
