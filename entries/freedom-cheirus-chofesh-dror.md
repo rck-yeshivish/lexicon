@@ -21,9 +21,9 @@ updated: 2026-09-10
 *Dror* is freedom from being owned by another: **release**, "free as a bird,"
 the Yovel word. *Chofesh* is freedom from the obligation to serve:
 **free, released** (a *chofshi* slave owes no more labor). *Cheirus* is the
-later, rabbinic word, and it is the positive one: **freedom** as a standing,
-the *ben chorin*. *Cheirus* never carries the sense of freedom in Tanach, only
-in Chazal.
+later, rabbinic word: **freedom** as a standing, the *ben chorin*; for Rabbi
+Jonathan Sacks it is the positive liberty. *Cheirus* never carries the sense of
+freedom in Tanach, only in Chazal.
 
 ## Distinctions
 
@@ -37,8 +37,8 @@ records the same; Radak (*Sefer HaShorashim*) says it nests in people's houses
 unafraid of capture, so free it does not reckon with being caught (see also
 Beitzah 24a). *Dror* also means "pure" of the myrrh of the anointing oil
 (Shemos 30:23): Rabbeinu Yonah ibn Janach and Ramban explain that the myrrh
-must be free of adulteration. The word can be shortened to *dar*, as in Esther
-1:6, of the tax exemption Achashverosh granted (Megillah 12a).
+must be free of adulteration. The word can sometimes be shortened to *dar*, as
+in Esther 1:6, of the tax exemption Achashverosh granted (Megillah 12a).
 
 ### chofesh (חופש)
 Root ח-פ-ש. The Tanach's other slave-freeing word (Shemos 21, Devarim 15,
@@ -54,12 +54,12 @@ which Rabbi Sacks identifies as negative liberty, the mere absence of coercion.
 ### cheirus (חירות)
 Root ח-ר-ר. Absent from Tanach in the sense of freedom, yet the standard word
 in Chazal for releasing a slave: *shichrur* is the formal act, *eved
-shenishtachrar* the freed slave, *bnei chorin* the free men we act as on the
-Seder night, and *Birkas HaChodesh* asks to be brought from *avdus* to
+shenishtachrar* the freed slave, *bnei chorin* the free men we strive to act as
+on the Seder night, and *Birkas HaChodesh* asks to be brought from *avdus* to
 *cheirus*. Avos 6:2 finds the scriptural hook in *charus* ("engraved") on the
 Luchos (Shemos 32:16), spelled there with a *tav* rather than the usual *tes*:
 read not *charus* but *cheirus*, for no one is free except one occupied with
-Torah. The column remarks that it seems fairly clear that if the whole purpose of
+Torah. Rabbi Klein remarks that it seems fairly clear that if the whole purpose of
 Yetzias Mitzrayim was Matan Torah, the word for the freedom that came of it
 should indeed be *cheirus*, and the Yom Tov that celebrates it *Zman
 Cheiruseinu*. Rabbi Sacks builds his distinction on that reading: negative
@@ -77,15 +77,12 @@ Yirmiyahu 27:20). Rashi to Sotah 49a: *chorin* are people of lineage. Rabbi
 Yitzchok Dov Bamberger, the Wurzburger Rav, connects *chorim* to the Aramaic
 root ח-ו-ר, "white": a dignitary's name must be unstained, and in the ancient
 world only the important wore white. Rabbi Yaakov Tzvi Mecklenburg instead
-links *cheirus* to *chor*, "hole," the same three letters; the column records
-this and expressly does not develop it. Separately, the column offers a
-suggestion of its own, hedged "it seems to me": Chazal chose *cheirus* to stress
-that newly freed slaves begin with a clean slate and have it in them to become
-people of consequence in their own right, and on Pesach we celebrate that
-potential for greatness.
+links *cheirus* to *chor*, "hole," the same three letters. Separately, it seems
+to Rabbi Klein that Chazal chose *cheirus* to stress that newly freed slaves
+begin with a clean slate and have it in them to become people of consequence in
+their own right, and on Pesach we celebrate that potential for greatness.
 
-*Hefker*, "ownerless," is named as conceptually related and is not distinguished
-in the column.
+*Hefker*, "ownerless," is conceptually related to freedom.
 
 ## Rendering guidance
 

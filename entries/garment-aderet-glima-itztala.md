@@ -18,27 +18,27 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Aderes* is the biblical word: a **mantle**, a large outer garment marking the
-wearer's stature. *Glima* is its Aramaic counterpart in the Gemara, an
-**unfitted robe**, a flat sheet of cloth rather than a tailored garment.
-*Itztala* is a **ceremonial cloak**, an outer garment tied to office and rank.
-*Tachrich* is a **wrap**, and in the plural *tachrichin* the burial shrouds.
-Rashi glosses all three of the first as *tallis*, but they are not identical:
-*glima* stresses the garment's shapelessness, *itztala* the wearer's standing.
+*Aderes* is the biblical word: a **mantle**, an outer garment that for Radak
+displays the wearer's importance. *Glima* is its Aramaic counterpart in the
+Gemara, an **unfitted robe**, on Rashi's reading a flat sheet of cloth rather
+than a tailored garment. *Itztala* is a **ceremonial cloak**, an outer garment
+tied to office and rank. *Tachrich* is a **wrap**, and in the plural
+*tachrichin* the burial shrouds. Rashi glosses all three of the first as
+*tallis*, but they can carry slightly different connotations: *glima* stresses
+the garment's shapelessness, *itztala* the wearer's standing.
 
 ## Distinctions
 
 ### aderes (אדרת)
-Eleven occurrences in Tanach. It is a furry article of clothing, and the column
-notes it has been rendered variously "robe," "cloak," "cape," "gown," "coat"
-and "mantle." Eisav is born "ruddy, entirely like a hairy *aderes*" (Bereishis
-25:25). Achan steals a Babylonian *aderes* from the consecrated spoil of
-Yericho (Yehoshua 7:21, 7:24). It is above all Eliyahu HaNavi's garment: he
-hides his face in it at the mountain (Melachim I 19:13), he is called a hairy
-man, which the column says is probably a reference to the *aderes* (Melachim II
-1:8), he splits the Yarden with it (Melachim II 2:8),
-and Elisha takes up the *aderes* that fell from him as the sign of the
-succession (Melachim II 2:13-14).
+Eleven occurrences in Tanach. It is a furry article of clothing, rendered
+variously "robe," "cloak," "cape," "gown," "coat" and "mantle." Eisav is born
+"ruddy, entirely like a hairy *aderes*" (Bereishis 25:25). Achan steals a
+Babylonian *aderes* from the consecrated spoil of Yericho (Yehoshua 7:21, 7:24).
+It is above all Eliyahu HaNavi's garment: he hides his face in it at the
+mountain (Melachim I 19:13), he is called a hairy man, which, Rabbi Klein
+suggests, is probably a reference to the *aderes* (Melachim II 1:8), he splits
+the Yarden with it (Melachim II 2:8), and Elisha takes up the *aderes* that fell
+from him as the sign of the succession (Melachim II 2:13-14).
 
 Rashi (Zechariah 13:4) and Ibn Janach and Radak in their respective *Sifrei
 HaShorashim* define *aderes* as a *tallis*, a shawl. Radak ties it to the root
@@ -59,37 +59,39 @@ Targum Onkelos renders *aderes* at Bereishis 25:25 as *gelem*, cognate to
 
 ### glima (גלימא)
 Frequent in the Gemara for an outer garment, often formal. It stands in the
-*kesubah*, where the husband pledges even "the *glima* on my shoulders," and it
-names the gold coat of the Rishon LeTzion today (on which garments qualify, see
-Rabbi Yosef Chaim of Baghdad, *Torah Lishmah* 327). The root is the biblical
-gimmel-lamed-mem, which occurs three times (Melachim II 2:8; Tehillim 139:16;
-Yechezkel 27:24) in the sense of wrapping or of unformed matter, and which gives
-*golem*, the Mishnah's opposite of the *chacham* (*Avos* 5:7), a man not yet
-formed; the famous legend of the Golem is of a soulless man with the outer
-trappings of a human being and no intellect from a soul.
+*kesubah*, where the husband pledges even "the *glima* on my shoulders," and
+today it often names the gold coat of the Rishon LeTzion (on which garments
+qualify, see Rabbi Yosef Chaim of Baghdad, *Torah Lishmah* 327). The root seems
+to be the biblical gimmel-lamed-mem, which occurs three times (Melachim II 2:8;
+Tehillim 139:16; Yechezkel 27:24) in the sense of wrapping or of unformed
+matter, and which gives *golem*, the Mishnah's opposite of the *chacham* (*Avos*
+5:7), a man not yet formed; the famous legend of the Golem is of a soulless man
+with the outer trappings of a human being and no intellect from a soul.
 
 Shabbos 77b expounds *glima* as "made like a *golem*." Rashi there: a garment
 not cut to the shape of the limbs but essentially a flat sheet covering the
 whole body, unfitted and therefore shapeless beside tailored clothing. Rabbi
 Nosson of Rome (*Sefer HeAruch*) reads it the other way: a man wrapped up in a
-*glima* is fixed in place and unable to move freely, and so resembles a *golem*.
+*glima* is somewhat stuck in place and unable to move freely, and so resembles a
+*golem*.
 
 Rashi's own glosses vary. Once he defines *glima* as *aderes* (Shabbos 10a),
-once as *sudar* (Bava Metzia 47a), once as *tachrichin*, where the sugya
-concerns a corpse's clothing (Shabbos 150b), but in the great majority of places
-as *tallis* (Shabbos 110b, 138b; Eruvin 94a, 96b, 102b; Kesubos 79b; Bava Kama
-119b; Bava Metzia 28a, 114b; Bava Basra 128a; Sanhedrin 7a; Chullin 127a).
+once as *sudar* (Bava Metzia 47a), in at least one place as *tachrichin*, where
+the sugya concerns a corpse's clothing (Shabbos 150b), but in the great majority
+of places as *tallis* (Shabbos 110b, 138b; Eruvin 94a, 96b, 102b; Kesubos 79b;
+Bava Kama 119b; Bava Metzia 28a, 114b; Bava Basra 128a; Sanhedrin 7a; Chullin
+127a).
 
 Rabbi David Golumb (*Targumna* to Bereishis 49:26) and Rav Hirsch (Vayikra
-13:59; Tehillim 139:16) connect *glima* to *klimah*, humiliation, through the
-interchange of gimmel and kaf: as a *golem* lacks shape, so the humiliated man
-feels stripped of his form, part of his humanity taken from him. Rabbi Golumb
-notes the parallel to Chazal's reading of *levush* as *lo bushah*, no shame.
+13:59; Tehillim 139:16) suggest a connection between *glima* and *klimah*,
+humiliation, through the interchange of gimmel and kaf. Rav Hirsch explains: as
+a *golem* lacks shape, so the humiliated man feels stripped of his form, part of
+his humanity taken from him. Rabbi Golumb notes the parallel to Chazal's reading
+of *levush* as *lo bushah*, no shame.
 
-On the word's outside origins the column gives two views. Dr. Michael Sokoloff,
-in his dictionary of Jewish Babylonian Aramaic, relates *glima* to an apparent
-Akkadian cognate *gulenu*, "coat"; Dr. Alexander Kohut takes it as Persian, "as
-he often does."
+As for the word's outside origins, Dr. Michael Sokoloff, in his dictionary of
+Jewish Babylonian Aramaic, relates *glima* to an apparent Akkadian cognate
+*gulenu*, "coat"; Dr. Alexander Kohut takes it as Persian, "as he often does."
 
 ### itztala (איצטלא)
 An outer garment worn as a mark of status. Targum renders Achan's Babylonian
@@ -100,7 +102,7 @@ the condition of a *get*. In the Gemara it is nearly always a status garment: a
 silk *itztala* written into a woman's *kesubah* (Yevamos 66b; Bava Metzia 17a),
 and the rule that where one litigant stands in rags and the other in a costly
 *itztala*, the court tells the wealthy one either to dress like his opponent or
-to clothe his opponent like himself (Shevuos 31a). Hence the idiom *itztala
+to clothe his opponent like himself (Shevuos 31a). So too the idiom *itztala
 d'rabbanan*, the cloak of the sages, standing for the honor of rabbinic
 authority.
 
@@ -108,23 +110,23 @@ authority.
 Targum to Esther 7:6, where Esther charges Haman with wanting to wear the king's
 *istala*, and Targum to Bereishis 45:22, where Yosef's gifts to his brothers are
 *istalvan*. Rabbi Eliyahu HaBachur (*Meturgeman*) already noted the
-inconsistency, which follows from the word being a loanword rather than native.
-On the column's reading, *itztala* comes from Latin *stola* and Greek στολή
+inconsistency. It makes more sense once one realizes that the word is a loanword
+rather than native. *Itztala* comes from Latin *stola* and Greek στολή
 (*stolē*), words for a garment or equipment, which *The American Heritage
 Dictionary of Indo-European Roots* traces to the root *stel-*, "standing,
 putting," behind English *still*, *apostle*, *epistle*, *install*, *pedestal*,
 *gestalt* and more; the closest English cognate is *stole*, the long narrow
-scarf-like garment worn by Christian clergy as a sign of the duties of the
-ministry, which the column compares to Eliyahu's *aderes*. On the spelling, the
-column reports that a cursory look at the *Comprehensive Aramaic Lexicon
-Project* suggests to it that the samech spelling belongs to Jewish Palestinian
-Aramaic, while Jewish Babylonian Aramaic writes the word either way.
+scarf-like garment often worn by Christian clergy as a sign of the duties of the
+ministry, which Rabbi Klein compares to Eliyahu's *aderes*. On the spelling, a
+cursory look at the *Comprehensive Aramaic Lexicon Project* suggests to him that
+the samech spelling belongs to Jewish Palestinian Aramaic, while Jewish
+Babylonian Aramaic writes the word either way.
 
-The column takes *itztala* as the word that acquired the figurative sense of
-English "mantle," as in "to assume the mantle," the outer garment standing for
-the duties of the role; it lists as further English parallels *investiture*
-(with *vest* and *vestment*), "stepping into the shoes," and *defrocking* (from
-*frock*).
+Rabbi Klein takes *itztala* as the word that acquired a figurative sense similar
+to that of English "mantle," as in "to assume the mantle," the outer garment
+standing for the duties of the role; he lists as further English parallels
+*investiture* (with *vest* and *vestment*), "stepping into the shoes," and
+*defrocking* (from *frock*).
 
 ### tachrich (תכריך)
 Mordechai is dressed in a *tachrich* of *butz* and *argaman* (Esther 8:15). The

@@ -29,31 +29,33 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mazal* is a **constellation** in its one Biblical use and, in Chazal, the
-**destiny** or Divine influence channeled to a person or thing. *Gad* is
+In its one Biblical use *mazal* seems to be a **constellation**; in Chazal it is
+also the **destiny** or Divine influence channeled to a person or thing. *Gad* is
 **fortune**, and more precisely the spiritual force assigned to a particular
 thing (Rabbi Shlomo Pappenheim). *Mazar* is a hapax: a **constellation** for
-Rashi, a particular star or group of stars for Ibn Ezra. *Mazal* is never blind
-chance, the very idea Chazal reject.
+most commentators, Rashi among them, a particular star or group of stars for Ibn
+Ezra. *Mazal tov*, as the prevailing custom uses it, refers to Hashem's bestowal
+of good, not to blind chance.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מזל | mazal | constellation, destiny | the zodiac (Melachim II 23:5); from "flowing" (Ibn Janach, Radak) |
+| מזל | mazal | constellation, destiny | usually understood as the zodiac (Melachim II 23:5); from "flowing" (Ibn Janach, Radak) |
 | גד | gad | fortune | the force attached to a given thing (Rabbi Shlomo Pappenheim) |
-| מזר | mazar | constellation | hapax at Iyov 38:32; = mazal (Rashi) or a specific star (Ibn Ezra) |
+| מזר | mazar | constellation | hapax at Iyov 38:32; = mazal (most commentators, Rashi among them) or a specific star (Ibn Ezra) |
 
 ## Where the authorities disagree
 
 **What *mazar* means** (Iyov 38:32, "do you bring out the *mazaros* in their
-season"). Rabbi Saadia Gaon (there), Menachem Ibn Saruk, Ibn Janach, Rashi, and
-Rabbi Moshe Kimchi: the same as *mazal*, *reish* and *lamed* interchanging (see
+season"). Most commentators, including Rabbi Saadia Gaon (there), Menachem Ibn
+Saruk, Ibn Janach, Rashi, and Rabbi Moshe Kimchi: the same as *mazal*, *reish* and *lamed* interchanging (see
 Ramban to Shemos 22:15). Ibn Ezra calls that far-fetched and makes *mazaros* one
 star or group of stars, as Ramban and Ralbag also cite. Dunash Ibn Labrat takes
 it out of the sky entirely: a blowing wind. Rabbi Yitzchak the Blind (to *Sefer
-Yetzirah* 5) keeps it astrological but somehow different from *mazal*, and the
-column says frankly that his explanation lies beyond its level of understanding.
+Yetzirah* 5) keeps it astrological but somehow different from *mazal*, and Rabbi
+Reuven Chaim Klein admits that this explanation lies beyond his own level of
+understanding.
 
 **How *mazal* is derived.** The anonymous commentator to Rambam's Hilchos Yesodei
 HaTorah: from the Aramaic *azal*, "going," since the sun and moon travel through
@@ -92,9 +94,9 @@ world, as in "everything depends on *mazal*, even a sefer Torah in the heichal"
 Yisrael* takes *mazal* as everything outside a person's free choice, a current
 from Above. Ramchal separates two senses: Hashem's governance through the astral
 forces, which the nations mistook for independent powers and worshipped, and His
-governance of circumstance by other means, with much discussion of whether Klal
-Yisrael is subject to the first at all. *Mazal* also names the guardian force
-behind a person (Rashi to Megillah 3a; Shabbos 53b and 61b).
+governance of circumstance by other means. There is much discussion of whether
+Klal Yisrael is subject to the first at all. *Mazal* sometimes also names the
+guardian force behind a person (Rashi to Megillah 3a; Shabbos 53b and 61b).
 
 ### gad (גד)
 Twice in Tanach: Leah's cry at the birth of Zilpah's son, "*ba gad*," from which
@@ -116,17 +118,16 @@ Yosef Grayever of Ostrow reads *gad* here instead as an alternate form of
 *meged*, Leah greeting the birth as one greets the arrival of delicacies and
 other good things.
 
-The column notes in a bracket that another set of words on the ג-ד string means
-cutting and separating, the polar opposite of attaching, and refers the reader to
-its author's own book *God versus Gods: Judaism in the Age of Idolatry*
-(discussing the Canaanite deity Gad, worshipped as a god of luck) for how the
-contradictory senses of *gad* may be reconciled, and to Rav Hirsch on Bereishis
-30:11. It also points to a lecture of its author's on the name Gad, the Semitic
-*gad*/*gada*, and the English *god* and *good*.
+Another set of words on the ג-ד string means cutting and separating, the polar
+opposite of attaching. Rabbi Reuven Chaim Klein discusses those words, and how
+the contradictory senses of *gad* may be reconciled, in his book *God versus
+Gods: Judaism in the Age of Idolatry* (discussing the Canaanite deity Gad,
+worshipped as a god of luck), and has also lectured on the name Gad, the Semitic
+*gad*/*gada*, and the English *god* and *good*. Rav Hirsch (to Bereishis 30:11)
+also addresses the contradictory senses.
 
-As an aside, the column brings *gadish*, a pile brimming with produce, which
-appears four times in Tanach (Shemos 22:5; Iyov 5:26 and 21:32; Shoftim 15:5) and
-many times in the Mishnah. Most lexicographers trace it to the triliteral ג-ד-ש,
+*Gadish*, a pile brimming with produce, appears four times in Tanach (Shemos
+22:5; Iyov 5:26 and 21:32; Shoftim 15:5) and many times in the Mishnah. Most lexicographers trace it to the triliteral ג-ד-ש,
 but Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) suggests that *gadish*
 is really *gad* ("luck," *mazal*) plus *yesh* ("there is"), an allusion to the
 source of overflowing abundance.
@@ -139,10 +140,9 @@ by *zoreh*, "to scatter or throw": *zorer* (a sneeze, which flings liquid from t
 nose), *zohar* (light, which scatters), *azharah* (a warning, which enlightens a
 man as to what is expected of him), *mazor* (a remedy spread on a wound), and
 *zerem* (a current). On that reading *mazar* belongs with *zerem*, the heavenly
-forces regulating the flow of water, which is where it meets his account of
-*mazal* as the regulator of rain. The column adds a suggestion of its own, that
-Dunash's "powerful wind" could be justified etymologically by tying *mazar*
-instead to *zorer*, a sneeze being a wind-like gust.
+forces regulating the flow of water. Rabbi Reuven Chaim Klein adds a suggestion
+of his own, that Dunash's "powerful wind" could be justified etymologically by
+tying *mazar* instead to *zorer*, a sneeze being a wind-like gust.
 
 ## Rendering guidance
 

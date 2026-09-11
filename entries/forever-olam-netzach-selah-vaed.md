@@ -20,15 +20,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Olam* is a very long but bounded span: **for all time**, and in a legal context
-often "until the Yovel," not literally forever. *Netzach*, *selah*, and *va'ed*
-are, on the Maharsha's reading of Eruvin 54a, the truly unbounded words:
+On the Maharsha's reading of Eruvin 54a, *olam* is a very long but bounded span:
+**for all time**, and for the Hebrew bondsman "until the Yovel," not literally
+forever; *netzach*, *selah*, and *va'ed* are the truly unbounded words:
 **forever**, **everlasting**, **for all eternity**. That reading is not the only
 one: ibn Saruk and Rabbi Yosef Kimchi treat all four as flat synonyms, and Rabbi
 Avraham ben Ezriel of Vienna limits the Gemara's finding to the verses where
 these words stand beside *olam*. Rashi to Shemos 21:6 caps *le'olam* at the
-fifty-year Yovel cycle, and the Maharsha builds on that. When *olam* stands
-beside one of the other three, the second word is doing work.
+fifty-year Yovel cycle, and the Maharsha builds on that. For the Maharsha, when
+*olam* stands beside one of the other three, the second word is doing work.
 
 ## Distinctions
 
@@ -63,7 +63,7 @@ in. Rabbi Aviad Sar-Shalom Basilea faulted Radak for seeming to set aside the
 Gemara's reading; Rabbi Yaakov Emden defended him, that Radak gives the *pshat*
 and the tradition gives the deeper sense. Ibn Ezra: *selah* affirms that what was
 just said is true, roughly "so it is." Mecklenburg himself ties *selah* to *suleh*
-(Iyov 28:16), which denotes something of higher value, and elsewhere cites one of
+(Iyov 28:16), which denotes something of higher value, and cites one of
 the earlier commentators who apparently wrote that *Selah* is one of the Names of
 Hashem.
 

@@ -36,13 +36,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Zahav* is the general word: **gold**. *Paz* is the purest and rarest grade,
-**fine gold**, and where it stands beside *zahav* in a pasuk the pair is
-ascending. *Kesem* is also
-fine gold, named for the malleability that lets it be beaten thin. *Charutz* is
-gold as mined, dug out of the ground. *Betzer* is contested: gold, silver, a
+*Zahav* is the general word: **gold**. *Paz*, for most commentators, is **fine
+gold**, the best and rarest grade (Rabbi Shlomo Aharon Wertheimer). *Kesem* is
+also fine gold, named for the malleability that lets it be beaten thin (Rabbi
+Shlomo Pappenheim). *Charutz* is gold as mined, dug out of the ground (Rabbi
+Aharon Marcus, Rabbi Wertheimer). *Betzer* is contested: gold, silver, a
 stronghold, and unrefined ore are all live readings of Iyov 22:24. Tehillim
-19:11 and 119:127 pair two of them deliberately.
+19:11 and 119:127 pair two of them.
 
 ## At a glance
 
@@ -66,28 +66,26 @@ David Valle takes it as royal jewels that happened to be made of gold.
 movement, which is why David dancing before the Aron is *mifazez* (Shmuel II
 6:16); *paz* is gold so pure it shimmers in the sun as though dancing, and
 *mufaz* (Melachim I 10:18), *meufaz* (Yirmiyahu 10:9), and *ufaz* (Daniel 10:5)
-all describe that glitter. Ibn Janach and Radak separate the words: פ-ז-ז is its
-own root meaning strength, so *mifazez* is dancing with vigor and *mufaz* and
-*ufaz* describe gold unalloyed and therefore stronger. Radak adds a third
-possibility, that *meufaz* means "from Ufaz," which Targum identifies with
-Ophir; the column suggests this may be because the zayin of Ufaz interchanges
-with the reish of Ophir. Rav Hirsch (to Bereishis 49:23-24, and see his comment
-to Tehillim 19:11)
-says plainly that *mifazez* and *paz* must be connected but that he does not know
-how.
+all describe that glitter. Others, such as Ibn Janach and Radak, separate the
+words: פ-ז-ז is its own root meaning strength, so *mifazez* is dancing with
+vigor and *mufaz* and *ufaz* describe gold unalloyed and therefore stronger.
+Radak adds a third possibility, that *meufaz* means "from Ufaz," which Targum
+identifies with Ophir; Rabbi Klein suggests this may be because the zayin of
+Ufaz interchanges with the reish of Ophir. Rav Hirsch (to Bereishis 49:23-24,
+and see his comment to Tehillim 19:11) says plainly that there ought to be a
+connection between *mifazez* and *paz* but that he does not know what it is.
 
 **What betzer means** (Iyov 22:24, and see 22:25, 36:19). Ibn Janach, Radak, and
-Ralbag: gold. Ibn Ezra: silver. Menachem, followed by Rashi: a stronghold, from
-the other sense of ב-צ-ר. Rabbi Yishaya of Trani: not gold itself but the crude
-ore from which gold is refined. The pasuk has Elifaz the Temani telling Iyov
-that if he repents he will have a *betzer* "on the ground" and Ophir, that is
-gold, "with the rocks of the brooks"; that this fits the Rid's reading best is
-ours, not the column's.
+Ralbag: gold. Ibn Ezra: silver. Menachem, followed by Rashi: a stronghold. Rabbi
+Yishaya of Trani: not gold itself but the crude ore from which gold is refined.
+The pasuk has Elifaz the Temani telling Iyov that if he repents he will have a
+*betzer* "on the ground" and Ophir, that is gold, "with the rocks of the
+brooks."
 
 **Whether charutz is gold or a gemstone.** In *yerakrak charutz* (Tehillim
 68:14) Menachem Ibn Saruk reads a gemstone; Donash Ibn Labrat and others read
 gold, so the phrase means greenish gold (see *Tosafos* to Nedarim 32a), which
-the column guesses may be electrum or gold alloyed with cadmium. Radak defines
+Rabbi Klein guesses may be electrum or gold alloyed with cadmium. Radak defines
 it as gold while recording the gemstone view.
 
 **What kesem means.** Most read gold. Ibn Janach first defines it as jewels and
@@ -114,12 +112,11 @@ zayin becoming a dalet). Yoma 44b-45a lists seven kinds: plain *zahav*, *zahav
 tov*, *zahav Ophir* (Divrei HaYamim I 29:4), *zahav mufaz*, *zahav shachut*
 (beaten gold, Melachim I 10:16-17, Divrei HaYamim II 9:15-16), *zahav sagur*
 (fine gold, eight times in Melachim I 6 and 7, Divrei HaYamim II 4 and 9), and
-*zahav
-parvayim* (Divrei HaYamim II 3:6), which is either gold from Parvayim or gold
-the color of a cow's blood. *Shemos Rabbah* 35:1 gives a variant list,
+*zahav parvayim* (Divrei HaYamim II 3:6), which is either gold from Parvayim or
+gold the color of a cow's blood. *Shemos Rabbah* 35:1 gives a variant list,
 substituting *zahav tahor* and *zahav mezukak* for plain *zahav* and *zahav
 Ophir*. *Tikkunei Zohar* (*Tikkun* 70) carries a parallel tradition of seven
-shades in David HaMelech's hair. Ibn Janach and Radak note that *zahav* is
+shades in David HaMelech's hair. Ibn Janach and Radak note that *zahav* can be
 borrowed for anything clean and pristine (Yirmiyahu 51:7, Zechariah 4:12).
 
 **Ophir** is a person, Havilah's brother, son of Yoktan son of Ever (Bereishis
@@ -129,12 +126,11 @@ Tehillim 45:10, Iyov 28:16) were brought. Rabbi Pinchas Eliyahu Horowitz (*Sefer
 HaBris*) identifies it with Peru, where large gold deposits are supposedly
 concentrated in the Andes and the rivers of the jungle; Rabbi Yosef Chaim of
 Baghdad takes *zahav Ophir* to be white gold, perhaps platinum or an alloy of
-gold with some other white metal, which he says is found in Russia. The column
-also records identifications with somewhere on the Indian subcontinent, with
-Atlantis, with the Philippines and even with Australia; says the accepted view
-among scholars is somewhere in the Arabian Peninsula or the Horn of Africa; and
-notes that the American archaeologist William Foxwell Albright identified Ophir
-with Punt in Somalia.
+gold with some other white metal, which he says is found in Russia. Others
+identify Ophir with somewhere on the Indian subcontinent, with Atlantis, with
+the Philippines and even with Australia; the accepted view among scholars is
+somewhere in the Arabian Peninsula or the Horn of Africa; and the American
+archaeologist William Foxwell Albright identified Ophir with Punt in Somalia.
 
 ### kesem (כתם)
 Nine occurrences. The same root כ-ת-ם gives *ketem*, a stain (Yirmiyahu 2:22,
@@ -143,19 +139,19 @@ the monoliteral כ means striking, כ-ת means beating by repeated rubbing, and
 *kesem* is gold pure enough to be beaten very thin. Such fine gold catches the
 eye, so the word was borrowed for anything that stands out against a clean
 background, that is, a stain. Like *zahav*, *kesem* too is said to be imported
-from Ophir, and Dr. Chaim Tawil derives the word itself from Akkadian *kutimmu*
-and Sumerian *kudim*, "goldsmith." Modern Hebrew's *katom*, orange, comes from
-the same root, and *tapuz*, the fruit, contracts *tapuach zahav*, the golden
-apple of Mishlei 25:11. (The column adds that English *orange* is related to the
-Hebrew and Aramaic *esrog*/*trunga*, both from Old Persian *narang* for citrus
-fruits, and that per the *Oxford English Dictionary* the initial *o-* in the
+from Ophir, and according to Dr. Chaim Tawil the word itself is said to derive
+from Akkadian *kutimmu* and Sumerian *kudim*, "goldsmith." Modern Hebrew's
+*katom*, orange, comes from the same root, and *tapuz*, the fruit, contracts
+*tapuach zahav*, the golden apple of Mishlei 25:11. (English *orange* is related
+to the Hebrew and Aramaic *esrog*/*trunga*, both from Old Persian *narang* for
+citrus fruits, and per the *Oxford English Dictionary* the initial *o-* in the
 English form was probably influenced by the place name Orange, of the House of
 Orange.)
 
 ### charutz (חרוץ)
-Six occurrences as gold. The column notes that *charutz* is the standard
-Phoenician (Tyrian) and Akkadian word for gold, and that some scholars therefore
-claim Hebrew borrowed it from those languages. Against that, Rabbi Aharon
+Six occurrences as gold. *Charutz* is the standard Phoenician (Tyrian) and
+Akkadian word for gold, and some scholars therefore claim Hebrew borrowed it
+from those languages. Against that, Rabbi Aharon
 Marcus: from ח-ר-צ, cutting or digging with a sharp instrument, since gold is
 dug out of the earth; Rabbi Wertheimer says the same. Rabbi Yishaya of Trani
 takes it from the word's other sense: gold is called *charutz* because chasing
@@ -164,14 +160,13 @@ it makes a man diligent and industrious.
 ### Color as the distinction
 The Mishnah (Yoma 4:4) records that the fire pan for the ketores was of greenish
 gold on ordinary days and of reddish gold on Yom Kippur, so Chazal do recognize
-gold in distinct hues. On that basis the Israeli archaeologist Dr. Shmuel Yeivin,
-writing under the pen name Shebna, held that the words mark different colors of
-gold, the color depending on what other metals are in the alloy: *zahav* is
-yellowish, *kesem* reddish, *charutz* greenish, and *paz* names the shine and
-luster without regard to hue. He points to the Mishnah's use of *kesem* for a
-blood stain (Niddah 8:1) as a hint that *kesem* is reddish, and to the fact that
-gold alloyed with copper, red or rose gold, is indeed reddish. Radak's *yerakrak
-charutz* as greenish gold runs with him.
+gold in distinct hues. On that basis the Israeli archaeologist Dr. Shmuel
+Yeivin, writing under the pen name Shebna, held that the words mark different
+colors of gold, the color usually depending on what other metals are in the
+alloy: *zahav* is yellowish, *kesem* reddish, *charutz* greenish, and *paz*
+names the shine and luster without regard to hue. The Mishnah's use of *kesem*
+for a blood stain (Niddah 8:1) hints that *kesem* is reddish, and gold alloyed
+with copper, red or rose gold, is indeed reddish.
 
 ## Rendering guidance
 

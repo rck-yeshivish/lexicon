@@ -15,17 +15,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Minchah* is a gift of **homage or tribute**: it serves the giver, who is
-showing his dependence on the receiver. *Matanah* is a gift that serves the
-**receiver's need**, given with nothing coming back, which is why it is the word
-for *matanos la'evyonim* and why Rabbi Mecklenburg holds it is never used of an
-offering to Hashem. *Shai* is a **weighty gift**, on Bedersi's reading
-substantial in itself and on Wertheimer's weighty in the giver's eyes though not
-in the receiver's; in Tanach it is always given to Hashem. *Teshurah* is the
-**showpiece gift** brought when one comes
-before a great man. *Eshkar* is obscure and disputed. *Doron* is not Hebrew at
-all; it is the Greek word for "gift" that the Targum uses. *Minchah* is not
-"meal-offering," it is "gift," and only the sacrificial context narrows it.
+*Minchah* is a gift of **homage or tribute**: for Rav Hirsch it serves the
+giver, who is showing his dependence on the receiver. *Matanah* is a gift that
+serves the **receiver's need**, given with nothing coming back (Wertheimer); it
+is the word for *matanos la'evyonim*. Rabbi Mecklenburg holds it inappropriate
+for an offering to Hashem, and Rabbi Klein explains why: Hashem has no needs to
+fill. *Shai* is a **weighty gift**, on Bedersi's reading substantial in itself
+and on Wertheimer's weighty in the giver's eyes though not in the receiver's; in
+Tanach it is always given to Hashem. *Teshurah* is the **showpiece gift**
+brought when one comes before a great man. *Eshkar* is obscure and disputed.
+*Doron* is not Hebrew at all; it is the Greek word for "gift" that the Targum
+uses. *Minchah* is not "meal-offering," it is "gift," and only the sacrificial
+context narrows it (Rabbi Mecklenburg).
 
 ## Distinctions
 
@@ -50,15 +51,15 @@ the little he has.
 
 ### matanah (מתנה)
 Some twenty appearances. Wertheimer: *matan* and *matanah* are formed from the
-verb of giving itself, and the word fixes on the giving. The column notes that
-English *gift* and *give* likewise share an etymology, on the interchange of
-the f and v sounds. A *matanah* is given where the recipient needs something and
-the giver gains nothing from it beyond having filled that need, which is why it
-builds friendship and camaraderie, and why it is mandated on Purim, *matanos
-la'evyonim* (Esther 9:22). Rabbi Mecklenburg writes that
-*matanah* is not used of an offering to Hashem and leaves the reason unstated;
-the column supplies it, that a *matanah* fills a need and Hashem, being
-complete, has none.
+verb of giving itself, and the word fixes on the giving. English *gift* and
+*give* likewise share an etymology, on the interchange of the f and v sounds. A
+*matanah* is given where the recipient needs something and the giver gains
+nothing from it beyond having filled that need, which is why it builds
+friendship and camaraderie, and why it is mandated on Purim, *matanos
+la'evyonim* (Esther 9:22). Rabbi Mecklenburg writes that it is inappropriate to
+use *matanah* of an offering to Hashem and leaves the reason unstated; Rabbi
+Klein supplies what seems to him the obvious reason, that a *matanah* fills a
+need and Hashem, being complete, has none.
 
 ### shai (שי)
 Three appearances: Yeshayahu 18:7, Tehillim 76:12, Tehillim 68:30. Rabbi Avraham
@@ -84,19 +85,20 @@ asked Esav for a meal before blessing him (Bereishis 27).
 Twice in Tanach (Tehillim 72:10, Yechezkel 27:15) and obscure. Radak is unsure
 whether the root is all four letters or only the last three (ש-כ-ר, "beer" or
 "drunk"). Rabbi Avraham ben Chaim Ibn Ramoch: a *minchah* is gold, silver, and
-precious stones while an *eshkar* is choice fruits, which the column reads as
-inedible against edible, and which would explain the link to *sheichar*.
-Wertheimer: an *eshkar* is a gift whose worth is aesthetic rather than monetary
-or useful, a gift that bribes the recipient into overrating it, leaving him as
-though intoxicated (*shikur*) and unable to weigh its real value. Malbim relates
-*eshkar* to *sachar*, "reward" or "payment," the shin shifting to a sin.
+precious stones while an *eshkar* is choice fruits, which, Rabbi Klein suggests,
+seems to mean inedible against edible, and which might explain the link to
+*sheichar*. Wertheimer: an *eshkar* is a gift whose worth is aesthetic rather
+than monetary or useful, a gift that "bribes" the recipient, so to speak, into
+overrating it, leaving him as though intoxicated (*shikur*) and unable to weigh
+its real value. Malbim relates *eshkar* to *sachar*, "reward" or "payment," the
+shin shifting to a sin.
 
 ### doron (דורון)
 It does not appear in Tanach at all. Targum Yonasan renders the *minchah* Yaakov
 sent Esav as *doron*. Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) notes that
-*doron* is not Aramaic but Greek for "gift"; it stands in Hebrew as a loanword.
-The column adds that it is close in sense to the name Theodore, "God's gift" in
-Greek, which is the parallel to the Hebrew name Yonasan, "Hashem's gift."
+*doron* is not Aramaic but Greek for "gift." It is close in sense to the name
+Theodore, "God's gift" in Greek, which is the parallel to the Hebrew name
+Yonasan, "Hashem's gift."
 
 ## Rendering guidance
 

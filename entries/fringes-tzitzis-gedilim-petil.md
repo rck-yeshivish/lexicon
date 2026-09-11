@@ -22,50 +22,50 @@ updated: 2026-09-10
 ## Bottom line
 
 *Tzitzis* are the **fringes**, named for what protrudes and is therefore seen.
-*Gedilim* are the same strings named for the **braided** third that is thickened
-by twisting. *Petil* is the single **thread** of *techeiles*, named for snug
-twisting and, in Rav Hirsch's reading, for its separateness. *Tallis* is not the
-fringes at all but the **four-cornered garment** that carries them, and it is
-Rabbinic Hebrew only. *Kruspidin* is the Targum's Aramaic for *tzitzis* and
-*gedilim*, a Greek loanword for the **hem or fringe** of a garment. *Tzitzis*
-and *tallis* are not interchangeable.
+*Gedilim* are the same strings named, on the reading of Radak and Rav Hirsch,
+for the **braided** third that is thickened by twisting. *Petil* is the single
+**thread** of *techeiles*, named for snug twisting and, in Rav Hirsch's reading,
+for its separateness. *Tallis* is not the fringes at all but the **four-cornered
+garment** that carries them, and it is Rabbinic Hebrew only. *Kruspidin* is the
+Targum's Aramaic for *tzitzis* and *gedilim*, a Greek loanword for the **hem or
+fringe** of a garment. *Tzitzis* and *tallis* are not interchangeable.
 
 ## Distinctions
 
 ### tzitzis (ציצית)
-The classical lexicographers of the triliteral school trace *tzitzis* to
-צ-י-צ, a root that yields "sprouting," "peeking," "branch, wing, fin," and
-*tzitz*, the Kohen Gadol's forehead plate. Rashi (to Bamidbar 15:38) connects
-*tzitzis* both to the hair that juts from the side of the head (Yechezkel 8:3,
-the word's only other appearance in Tanach) and to "peeking." Rashi (to
-Yirmiyahu 48:9): anything that juts out from a body is a *tzitz*. Malbim (*Sefer
-HaCarmel*): a *tzitz* protrudes from the main body in a way that makes it highly
-visible, which is exactly what the strings do to the garment. In Mishnaic Hebrew
-the shreds of foreskin left after a milah are *tzitzin* (Shabbos 19:6) for the
-same reason.
+The classical lexicographers of the triliteral school trace *tzitzis* to צ-י-צ,
+a root that yields "sprouting," "peeking," "branch, wing, fin," and *tzitz*, the
+Kohen Gadol's forehead plate. Rashi (to Bamidbar 15:38) connects *tzitzis* both
+to the hair that juts from the side of the head (Yechezkel 8:3, the word's only
+other appearance in Tanach) and to "peeking." Rashi (to Yirmiyahu 48:9):
+anything that juts out from a body is a *tzitz*. Malbim (*Sefer HaCarmel*): a
+*tzitz* protrudes from the main body in a way that makes it highly visible. In
+the very same way the strings protrude from the garment. In Mishnaic Hebrew the
+shreds of foreskin left after a milah are *tzitzin* (Shabbos 19:6) for the same
+reason.
 
-Rabbi Shlomo Pappenheim traces the word to the single letter צ, whose core
-sense is "exiting, outwardness." In *Yerios Shlomo* the path runs through
-"peeking": a sapling mid-sprout is only partly visible, and so is the eye of a
-man squinting to see better, and from there *tzitzis* and the Kohen Gadol's
-*tzitz* are highly visible ornaments that people end up looking at. In *Cheshek
-Shlomo* he takes the shorter path, that the *tzitzis* appear to "exit" the
-garment they are tied to. The column adds that Menachem Ibn Saruk (*Machberes
-Menachem*) implies the same monoliteral root, although he does not actually
-list *tzitzis* as a declension of it. Rav Hirsch (to Shemos 28:36), by his
-phonetic method, links צ-י-צ to ש-י-ש (*sasson*, gladness as the outward
-showing of inner happiness) and to ז-י-ז (*ziz*, the mammary gland as the
-outward showing of the inner motherly instinct to provide nourishment), so that
-*tzitz* is what protrudes from a surface and becomes visible to all; he notes
-this is close to the "growth" sense, a plant flourishing outward from its seed.
+Rabbi Shlomo Pappenheim traces the word to the single letter צ, whose core sense
+is "exiting, outwardness." In *Yerios Shlomo* the path runs through "peeking": a
+sapling mid-sprout is only partly visible, and so is the eye of a man squinting
+to see better, and from there *tzitzis* and the Kohen Gadol's *tzitz* are highly
+visible ornaments that people end up looking at. In *Cheshek Shlomo* he takes
+the shorter path, that the *tzitzis* appear to "exit" the garment they are tied
+to. Menachem Ibn Saruk (*Machberes Menachem*) implies the same monoliteral root,
+although he does not actually list *tzitzis* as a declension of it. Rav Hirsch
+(to Shemos 28:36), by his phonetic method, links צ-י-צ to ש-י-ש (*sasson*,
+gladness as the outward showing of inner happiness) and to ז-י-ז (*ziz*, the
+mammary gland as the outward showing of the inner motherly instinct to provide
+nourishment), so that *tzitz* is what protrudes from a surface and becomes
+visible to all; he notes this is close to the "growth" sense, a plant
+flourishing outward from its seed.
 
 A prominent nobleman of Yerushalayim in the generation before the Churban was
 called Ben Tzitzis (Bereishis Rabbah 42:1, Pirkei DeRabbi Eliezer ch. 3, Avos
 D'Rabbi Nasan 6:3). Rabbi Nosson of Rome (*Sefer HeAruch*) explains the name:
 his *tzitzis* were so long that they trailed over pillows and blankets wherever
-he went. (The column adds its own reading of that, that he was prominent enough
-to have an entourage laying down the ancient equivalent of a red carpet so the
-strings would not drag on the floor.)
+he went. (Rabbi Reuven Chaim Klein understands this to mean that he was
+prominent enough to have an entourage laying down the ancient equivalent of a
+red carpet so the strings would not drag on the floor.)
 
 Rabbeinu Bachaya (*Kad HaKemach* s.v. tzitzis, and to Bamidbar 15:38) draws the
 mussar from the "peeking" sense: the wearer should be mindful that Hashem sees
@@ -81,29 +81,29 @@ defines it by *petil*; Ibn Saruk by *chut*, "string."
 
 Rav Hirsch (to Bamidbar 15:38): a braided rope is a *gedil* because braiding
 makes it thicker than a single string, so it appears to have "grown" and become
-"bigger." He notes parenthetically that the Rabbinic *gudal* ("thumb") names
-the thickest finger, not the longest. Radak's father, Rabbi Yosef Kimchi
-(*Sefer HaGalui*), takes the other path: the strings "expand" the edge of the
-garment beyond the fabric itself. The column offers a third turn of the same
-idea, that *gedilim* are a mere extension or "overgrowth" of the garment, as
-the *gudal* is a sort of extension of the hand.
+"bigger." He notes parenthetically that the Rabbinic *gudal* ("thumb") names the
+thickest finger, not the longest. Radak's father, Rabbi Yosef Kimchi (*Sefer
+HaGalui*), takes the other path: the strings "expand" the edge of the garment
+beyond the fabric itself. Rabbi Reuven Chaim Klein offers a third turn of the
+same idea, that *gedilim* are a mere extension or "overgrowth" of the garment,
+as the *gudal* is a sort of extension of the hand.
 
 The difference from *tzitzis*: Menachos 39a requires a third of the strings'
 length to be *gadil* (braided) and two thirds to hang loose like a branch
 (*anaf*). Radak (*Sefer HaShorashim*) uses that Gemara to resolve why the Torah
 sometimes says *gedilim* and sometimes *tzitzis*: one part of the string is a
 branch, which is the "branch" sense of צ-י-צ, and the other is a braid. Rav
-Hirsch (to Bamidbar 15:38) reads it the same way. The column then floats a
-further step of its own ("I was thinking that perhaps"): the mitzvah appears in
-three pesukim, *tzitzis* in two of them (Bamidbar 15:38, 15:39) and *gedilim*
-in one (Devarim 22:12), matching the Gemara's own two thirds branch and one
-third braid.
+Hirsch (to Bamidbar 15:38) reads it similarly. Rabbi Reuven Chaim Klein then
+floats a further step of his own ("I was thinking that perhaps"): the mitzvah
+appears in three pesukim, *tzitzis* in two of them (Bamidbar 15:38, 15:39) and
+*gedilim* in one (Devarim 22:12), matching the Gemara's own two thirds branch
+and one third braid.
 
 ### petil (פתיל)
-The word belongs to *techeiles*, and the column reaches it through the Midrash
-(Bamidbar Rabbah 18:3) on why Korach's rebellion is set beside the parashah of
-*tzitzis*: Korach argued that a *tallis* made entirely of *techeiles* is exempt
-from *tzitzis*, and Moshe held it is obligated (see Menachos 41b).
+The word belongs to *techeiles*. The Midrash (Bamidbar Rabbah 18:3) explains why
+Korach's rebellion is set beside the parashah of *tzitzis*: Korach argued that a
+*tallis* made entirely of *techeiles* is exempt from *tzitzis*, and Moshe held
+it is obligated (see Menachos 41b).
 
 The Torah requires one *petil* of *techeiles* among the strings (Bamidbar
 15:38). The root פ-ת-ל denotes snug attachment or twistedness, as in *tzamid
@@ -116,24 +116,24 @@ relevant): the *techeiles* thread is bound into the *tzitzis* yet stands apart
 from them, since it alone is dyed. The name Naftali is tied to this root
 explicitly (Bereishis 30:8), Rachel saying she had now intertwined her own fate
 with her sister Leah's. Yehudah's *petil* given to Tamar (Bereishis 38:18) is
-his belt according to Ibn Janach, Rabbi Avraham Maimuni and Rashbam, or his
-cloak according to Radak; others read it as his *tallis*/*tzitzis* (Rabbi Moshe
-HaDarshan, *Bereishis Rabbasi* to 38:25, and Rabbeinu Chaim Paltiel to 38:18 in
-the name of Rashbam), which Ramban (to 38:18) rejects. In Mishnaic Hebrew
-*petilah* is a lamp wick, a string fastened in place to hold a fire (Shabbos
-2:4-5, Beitzah 4:4, Keilim 3:2), and in Sanhedrin 7:2 it seems to mean a lead
-rod.
+his belt according to some commentators, such as Ibn Janach, Rabbi Avraham
+Maimuni and Rashbam, or his cloak according to Radak; others read it as his
+*tallis*/*tzitzis* (Rabbi Moshe HaDarshan, *Bereishis Rabbasi* to 38:25, and
+Rabbeinu Chaim Paltiel to 38:18 in the name of Rashbam), which Ramban (to 38:18)
+rejects. In Mishnaic Hebrew *petilah* is a lamp wick, in some ways just a string
+fastened in place to hold a fire (Shabbos 2:4-5, Beitzah 4:4, Keilim 3:2), and
+in Sanhedrin 7:2 it seems to mean a lead rod.
 
 ### tallis (טלית)
 First occurs in Rabbinic Hebrew (Nedarim 3:5, 4:1, Kiddushin 4:14, Bava Metzia
 1:1, Meilah 5:1, Keilim 28:7, Ohalos 8:5, Zavim 4:7, and more), and in context
 it means the four-cornered garment itself, not its strings. The Mishnaic
-*matlis*, a wash cloth, is derived from it (Shabbos 24:5, Bava Kamma 10:10,
-Keilim 10:4, Negaim 11:5-6, Taharos 9:9). Rabbi Eliyahu HaBachur (*Sefer
-HaTishbi*): in rabbinic usage it is the special four-cornered garment with
-*tzitzis* worn at prayer; he, and Rabbi Tanchum HaYerushalmi in *HaMadrich
-HaMaspik*, hold the grammatically correct plural is *taliyos*, not *talitos*
-and certainly not the popular Yiddish misnomer *talleisim*.
+*matlis*, something like a wash cloth, is derived from it (Shabbos 24:5, Bava
+Kamma 10:10, Keilim 10:4, Negaim 11:5-6, Taharos 9:9). Rabbi Eliyahu HaBachur
+(*Sefer HaTishbi*): in rabbinic usage it is the special four-cornered garment
+with *tzitzis* worn at prayer; he, and Rabbi Tanchum HaYerushalmi in *HaMadrich
+HaMaspik*, hold the grammatically correct plural is *taliyos*, not *talitos* and
+certainly not the popular Yiddish misnomer *talleisim*.
 
 Etymologies: Rabbi Nosson of Rome (*Sefer HeAruch*) cites Rav Matzliach Gaon
 that the garment is "placed upon" the other clothes, relating *tallis* to
@@ -142,8 +142,8 @@ that the garment is "placed upon" the other clothes, relating *tallis* to
 (Nechemiah 3:15, Daniel 4:9). Rabbi Ernest Klein, in his etymological
 dictionary of Hebrew, follows that second approach, relating *tallis* to
 *telalim* and holding it cognate with *tzel*, on the interchange of tzadi and
-tes. Dr. Alexander Kohut (*HeAruch HaShaleim*) derives *tallis* from Persian,
-which the column notes is his habit and says has not gained much traction.
+tes. Dr. Alexander Kohut (*HeAruch HaShaleim*), as is his habit, derives
+*tallis* from Persian, a theory that has not gained much traction.
 David Curwin of the *Balashon* blog brings a further theory, in the name of the
 late Rabbi Dr. Seth Mandel: that *tallis* and the Rabbinic *itztala* come from
 one Greek etymon, both borrowed from Latin *stola* and Greek στολή (*stolē*).
@@ -153,33 +153,32 @@ are. Rabbeinu Bachaya reads *tallis* as alluding to Hashem being lifted and
 raised above all, on Daniel's *netilas min ar'a*, "lifted from the earth"
 (Daniel 7:4). Rabbi Nosson Shapiro (*Matzas Shimurin* fol. 11b) offers a
 kabbalistic derivation from the Aramaic *talyusa*, which Targum Onkelos uses of
-a young person coming of age (Bereishis 8:21); the column says frankly that
-what he says there is beyond its expertise.
+a young person coming of age (Bereishis 8:21); Rabbi Reuven Chaim Klein says
+frankly that what Rabbi Shapiro says there is beyond his expertise.
 
 ### kruspidin (כרוספדין)
 The Targum renders both *tzitzis* and *gedilim* as *kruspeda* (plural
 *kruspidin*). Rabbi Binyamin Mussafia (*Musaf HeAruch*): an Aramaic loanword
-from the Greek *kraspedon* (κράσπεδον), the fringe, edge, hem, or embroidered
-border of a garment, that is, the prominent extension added to a core frame.
-The column notes that *kraspedon* is also the standard Koine Greek word for
-*tzitzis* in the Christian Bible. Classicists trace *kraspedon* as a
-portmanteau of Greek *karé* ("head, top, peak") and *pédon* ("foot, bottom,
-edge"), and Rabbi Shaul Goldman draws that etymology out: the term itself
-implies that the most prominent feature of a four-cornered garment is neither
-its top nor its center but the strings protruding outward at its bottom edge.
-Dr. Alexander Kohut (*HeAruch HaShaleim*) rejects the Greek origin here too and
-prefers Persian, which the column again marks as his standing tendency.
+from the Greek *kraspedon* (κράσπεδον). *Kraspedon* is the fringe, edge, hem, or
+embroidered border of a garment, that is, the prominent extension added to a
+core frame, and it is also the standard Koine Greek word for *tzitzis* in the
+Christian Bible. Classicists trace *kraspedon* as a portmanteau of Greek *karé*
+("head, top, peak") and *pédon* ("foot, bottom, edge"), and Rabbi Shaul Goldman
+draws that etymology out: the term itself implies that the most prominent
+feature of a four-cornered garment is neither its top nor its center but the
+strings protruding outward at its bottom edge. Dr. Alexander Kohut (*HeAruch
+HaShaleim*) rejects the Greek origin here too and prefers Persian, as he often
+does.
 
-Two footnotes the column adds on the word. There is an Amora called Rav
-Kruspedai, cited four times in Bavli, most famously that on Rosh Hashanah
-Hashem opens three books, of the wholly righteous, the wholly wicked, and those
-in between (Rosh Hashanah 16a; also Sanhedrin 69a, Kerisus 24a, Niddah 46a).
-And a story is told of Rabbi Avraham Genachovsky, who, seated beside an
-immodestly dressed woman and unwilling to embarrass her, said only, "I have
-*kruspidin*"; she took it for the name of a contagious disease and fled the
-seat. He had told no lie. (Rabbi Zev Berlin, son-in-law of Rabbi Aharon Leib
-Steinman, adds that he heard it happened in a hired van, that she left the van
-altogether, and that Rabbi Genachovsky reimbursed the driver for the emptied
+There is an Amora called Rav Kruspedai, cited four times in Bavli, most famously
+that on Rosh Hashanah Hashem opens three books, of the wholly righteous, the
+wholly wicked, and those in between (Rosh Hashanah 16a; also Sanhedrin 69a,
+Kerisus 24a, Niddah 46a). And a story is told of Rabbi Avraham Genachovsky, who,
+seated beside an immodestly dressed woman and unwilling to embarrass her, said
+only, "I have *kruspidin*"; she took it for the name of a contagious disease and
+fled the seat. He had told no lie. (Rabbi Zev Berlin, son-in-law of Rabbi Aharon
+Leib Steinman, adds that he heard it happened in a hired van, that she left the
+van altogether, and that Rabbi Genachovsky reimbursed the driver for the emptied
 seat.)
 
 ## Rendering guidance

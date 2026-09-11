@@ -20,11 +20,12 @@ updated: 2026-09-10
 
 *Shachach* is the ordinary word, over a hundred times in Tanach and the word
 Devarim uses for every warning not to forget: **forget**. *Nashah* is rare and,
-on the majority reading, heavier: **forget entirely, put out of mind for good**.
-Malbim: what is *shachach* can still be recalled, what is *nashah* cannot. Rav
-Hirsch adds the moral note, that *nashah* attaches to a man who held the thing
-lightly, so the forgetting is his own fault. Rabbi Eliyahu Katz disagrees with
-both of them and denies that there is any difference at all.
+on the reading of Malbim and Rav Hirsch, heavier: **forget entirely, put out of
+mind for good**. Malbim: what is *shachach* can still be recalled, what is
+*nashah* cannot. Rav Hirsch adds the moral note, that *nashah* attaches to a man
+who held the thing lightly, so he bears more of the blame for the forgetting.
+Rabbi Eliyahu Katz disagrees with both of them and denies that there is any
+difference at all.
 
 ## Distinctions
 
@@ -40,7 +41,7 @@ retrieved later.
 
 By way of metathesis, some connect ש-כ-ח to כ-ח-ש, deny or weaken, which uses
 the same letters. Rabbi Yekusiel Yehudah Teitelbaum of Sighet (*Yitav Lev* to
-Shemos 10:1) is the column's example: forget Hashem and your obligations to Him,
+Shemos 10:1) is one of them: forget Hashem and your obligations to Him,
 and you will end by denying His existence outright. On the same interchange,
 Robert Alter and the editors of *Daas Mikra* explain *tishkach* in Tehillim
 137:5 ("let my right hand be forgotten") as *tikchash*, let it be weakened.
@@ -55,15 +56,15 @@ remember.
 The rare word. The unambiguous case is Yosef naming Menashe: *ki nashani
 Elokim es kol amali ve'es kol beis avi* (Bereishis 41:51). Rabbi Avraham
 Menachem Rappaport (*Minchah Belulah*) claimed that this is the only cognate in
-Tanach; the column answers that there seem to be a few more. Another possible
+Tanach; Rabbi Klein answers that there seem to be a few more. Another possible
 case is Devarim 32:18, which pairs both words in one pasuk, *tzur yeladcha teshi
 vatishkach Kel mecholelecha*, where *teshi* is the same root with the *nun*
 dropped in favor of a *tav* (Rashi there). Further cases: Eichah
 3:17; Yirmiyahu 23:39; Yeshayahu 44:21; Iyov 39:17 and 11:6. The *gid hanasheh*
 (Bereishis 32:33) is read by the Zohar (Bereishis 170b) as food for the yetzer
-hara that makes a man forget his duties to Hashem, so the name itself is from
-*nashah*. The Gemara's *bei nasha* for a married woman's family of origin was
-explained in the same sense, that on marrying she leaves the first household
+hara that makes a man forget his duties to Hashem, so on the Zohar's reading
+the name itself is from *nashah*. The Gemara's *bei nasha* for a married
+woman's family of origin was explained in the same sense, that on marrying she leaves the first household
 behind and joins her husband's: so *Tosafos Chachmei Anglia* to Kiddushin 24a
 first, then Rabbi Yehuda Chalava (a son of the Maharam Chalava) and his cousin
 Rabbeinu Bachya ibn Chalava (each to Bereishis 41:51), and later
@@ -71,7 +72,8 @@ Rabbi Binyamin Mussafia (*Musaf HaAruch*) and Rabbi Shmuel HaLevi (*Nachalas
 Shivah*).
 
 On the root itself: Menachem Ibn Saruk reduces *nashani* and *teshi* to the
-single letter *shin*; Ibn Chayyuj, Ibn Janach and Radak give נ-ש-ה or נ-ש-ש.
+single letter *shin*; others, including Ibn Chayyuj, Ibn Janach and Radak, hold
+that it may be נ-ש-ה or נ-ש-ש.
 Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) gives the biliteral נ-ש, moving
 something out of its natural condition, and forgetting is information moved out
 of its place in the mind; on that root he also puts *gid hanasheh* (the sinew

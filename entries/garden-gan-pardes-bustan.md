@@ -18,10 +18,10 @@ updated: 2026-09-10
 
 *Gan* is the general **garden**, an enclosed and guarded plot; in Tanach it is
 the only common one of the three, and in the Mishnah it appears as *ginah*.
-*Pardes* is the narrower and grander word, usually **orchard**, and Koheles names
-both in one pasuk (Koheles 2:5), which is the proof they are not synonyms.
-*Bustan* is Talmudic Aramaic for a **garden**, a Persian word, and Rashi defines
-it by *pardes* while Rashbam defines it by *gan*.
+*Pardes* is usually **orchard**, and on Bedersi's reading the narrower and
+grander word; Koheles names both in one pasuk (Koheles 2:5), which suggests they
+are not synonyms. *Bustan* is Talmudic Aramaic for a **garden**, a Persian word,
+and Rashi in places defines it by *pardes* while Rashbam defines it by *gan*.
 
 ## Distinctions
 
@@ -29,56 +29,56 @@ it by *pardes* while Rashbam defines it by *gan*.
 Forty-one times in Tanach by Even-Shoshan's concordance: *Gan Eden* (Bereishis
 2:15), the garden of Hashem (Bereishis 13:10; Yeshayahu 51:3; Yechezkel 28:13,
 31:8-9), the garden of the king (Melachim II 25:4; Yirmiyahu 39:4, 52:7;
-Nechemiah 3:15). It is absent from the Mishnah, which uses *ginah* (Kilayim
-1:2; Shabbos 9:2; Bava Basra 6:1, and many more). In Modern Hebrew *gan* also
-means kindergarten, a calque on the German *kindergarten*, "children's garden."
+Nechemiah 3:15). It is absent from the Mishnah, which uses *ginah* (Kilayim 1:2;
+Shabbos 9:2; Bava Basra 6:1, and many more). In Modern Hebrew *gan* also means
+kindergarten, a sort of calque on the German *kindergarten*, "children's
+garden."
 
-The column gives cognates in the other Semitic languages: Aramaic *gena*,
-Akkadian *gannatu*, Ugaritic *gn*, Arabic *janna*. It adds, in the name of the
-author's cousin Yoninah Chagit Klein, that the Arabic name of the city Jenin is
-a cognate of *gan*, and that scholars have identified modern Jenin with the
-Biblical Beis HaGan, where Achazyah fled from Yehu (Melachim II 9:27), and
-possibly with the Canaanite town Gina of the Amarna letters.
+Cognates appear in the other Semitic languages: Aramaic *gena*, Akkadian
+*gannatu*, Ugaritic *gn*, Arabic *janna*. Rabbi Reuven Chaim Klein's cousin
+Yoninah Chagit Klein pointed out that the Arabic name of the city Jenin is a
+cognate of *gan*. Scholars have identified modern Jenin with the Biblical Beis
+HaGan, where Achazyah fled from Yehu (Melachim II 9:27), and possibly with the
+Canaanite town Gina of the Amarna letters.
 
 On the root:
 
 - **Guarding.** Menachem Ibn Saruk traces *gan* to the biliteral ג-נ, Ibn Janach
-  and Radak to ג-נ-נ, and both to the same root as *haganah*, protection: a
+  and Radak to ג-נ-נ, and both to the same root as *haganah*, protection. A
   garden is what a man fences and guards so that what grows in it is not
   trampled. Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) makes it explicit, with
   *yagen* (Yeshayahu 31:5), *migen* (Bereishis 14:20), and *magen*, a shield, on
   the same root; he adds *agan*, not any vessel but the one used for watering a
   garden (Shemos 24:6; Shir HaShirim 7:3), and *niggun*, whose variety of sounds
   answers to a garden's variety of growing things. Rav Hirsch (to Bereishis 2:8)
-  notes the same pairing in English, *garden* and *guard*. The column then
-  checks that pairing against modern linguistics and reports that it does not
-  hold: *garden* descends from the Proto-Indo-European root *gher*, "to
-  enclose" (Frankish *gard*, Old English *yard*, Old North French *gardin*,
-  Middle English *garden*; the same root gives Latin *hortus*, hence
-  *horticulture* and *cohort*, and Russian *grad*, the element inside
-  Novhardok's own name), while *guard* descends from *wer*, "to see, watch
-  out," and is kin rather to *ward* and *warden*. Rabbi Aharon Marcus
-  adds *ganav*, a thief, who hides himself as a garden is hidden from those shut
-  out of it; that derivation is open to him, since he lets a biliteral root take
-  any letter, and closed to Rabbi Pappenheim, whose system lets a biliteral root
-  combine only with hey, aleph, mem, nun, tav, yod or vav.
+  notes the same pairing in English, *garden* and *guard*. Modern linguistics
+  does not bear that pairing out: *garden* descends from the Proto-Indo-European
+  root *gher*, "to enclose" (Frankish *gard*, Old English *yard*, Old North
+  French *gardin*, Middle English *garden*; the same root gives Latin *hortus*,
+  hence *horticulture* and *cohort*, and Russian *grad*, the element inside
+  Novhardok's own name), while *guard* descends from *wer*, "to see, watch out,"
+  and is kin rather to *ward* and *warden*. Rabbi Aharon Marcus adds *ganav*, a
+  thief, who hides himself as a garden is hidden from those shut out of it; that
+  derivation is open to him, since he lets a biliteral root take any letter, and
+  closed to Rabbi Pappenheim, whose system lets a biliteral root combine only
+  with hey, aleph, mem, nun, tav, yod or vav.
 - **Softness.** In *Yerios Shlomo*, Rabbi Pappenheim instead traces *gan* to the
-  single letter *gimmel*, whose core he gives as softening or melting (with
-  precedent in *Machberes Menachem* and in Rashi to Tzefaniah 3:18 and Eichah
-  1:4). On that root he places *nemigah*/*hismogeg*, melting in the physical
-  and the figurative sense; *yagon*, sorrow, by which the heart goes soft and
-  melts away; *niggun* again, a tune having the power to soften a heart and melt
-  sorrow off it; *gai*, a valley, whose ground is soft and absorbent and so
-  fertile; *gas*, a winepress, which softens and smashes the grapes; *gigis*,
-  the vessel the pressed grapes go into; *magen*, a shield, here because such
-  armor was often made of a soft piece of hide (a different reason from the
-  one the guarding root gives for the same word); *gei'eh*,
-  high or haughty, growth upward resting on a man's pliancy toward change; and
-  *gag*, a roof, from *ga'ah*, the highest part of a building. And *gan*, the
-  plot whose soil is soft enough for things to grow in it. Rabbi Yehudah
-  Aryeh of Carpentras (*Ohalei Yehuda*) offers both cores at once: a *gan* is a
-  stand of trees whose shade protects from the sun, or else the place whose ease
-  and sweet air cure a man whose heart was *hismogeg*.
+  single letter *gimmel*, whose core he gives as softening or melting (a
+  monoliteral *gimmel* root has precedent in *Machberes Menachem* and in Rashi
+  to Tzefaniah 3:18 and Eichah 1:4). On that root he places
+  *nemigah*/*hismogeg*, melting in the physical and the figurative sense;
+  *yagon*, sorrow, by which the heart goes soft and melts away; *niggun* again,
+  a tune having the power to soften a heart and melt sorrow off it; *gai*, a
+  valley, whose ground is soft and absorbent and so fertile; *gas*, a winepress,
+  which softens and smashes the grapes; *gigis*, the vessel the pressed grapes
+  go into; *magen*, a shield, here because such armor was often made of a soft
+  piece of hide; *gei'eh*, high or haughty, growth upward resting on a man's
+  pliancy toward change; and *gag*, a roof, from *ga'ah*, the highest part of a
+  building. And *gan*, the plot whose soil is typically soft enough for things
+  to grow in it. Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*) offers both
+  cores at once: a *gan* is a stand of trees whose shade protects from the sun,
+  or else the place whose ease and sweet air cure a man whose heart was
+  *hismogeg*.
 - **Related words without a gimmel.** Radak (to Tehillim 80:16) reads *kanah*
   with a *kaf* as a form of *gan*, on the interchange of gimmel and kaf, though
   most other commentators, Radak himself in *Sefer HaShorashim* among them, join
@@ -99,7 +99,7 @@ in Lewis and Short's Latin dictionary).
 
 ### pardes (פרדס)
 Three times in Tanach: Shir HaShirim 4:13, Koheles 2:5, Nechemiah 2:8. Koheles
-plants both *ginos* and *pardeisim*, so the two are not one word:
+plants both *ginos* and *pardeisim*, which suggests the two are not one word:
 
 - Rabbi Yosef Kara and *Metzudas Tzion* (to Koheles 2:5): a *gan* or *ginah* is
   for vegetables and flowers, a *pardes* for fruit trees, that is, an orchard.
@@ -115,65 +115,66 @@ plants both *ginos* and *pardeisim*, so the two are not one word:
   His son Rabbi Yedaiah HaPenini (introduction to *Sefer HaPardes*) makes a
   *pardes* smaller than a *gan*, and Rabbi Wertheimer supports him from the
   Gemara's diminutive *ginunyisa* for a small garden (Bava Basra 68a).
-- Rabbi David Luria, against Ibn Ezra, holds a *pardes* is exactly the orchard of
-  many species, and on that basis derives it from Hebrew פ-ר-ד, separation, the
-  species standing in their separate rows. Rabbi Yehudah Aryeh of Carpentras
+- Rabbi David Luria, against Ibn Ezra, holds a *pardes* is exactly the orchard
+  of many species, and on that basis derives it from Hebrew פ-ר-ד, separation,
+  the species standing in their separate rows. Rabbi Yehudah Aryeh of Carpentras
   likewise looks inward, treating *pardes* as a fusion of Hebrew words: *pri*
   with *hidus*, dancing (the *mihades* chicken of Bava Kamma 2:1), since an
   orchard's trees seem to leap and dance heavenward above the low plants of a
-  field; or, dropping the final samech, *pri* with *rar* (flows), *dar*
-  (dwells), *hadar* (beautiful), *dash* (threshing, separating), or *datz*
-  (*ditzah*, happiness), each on a stated letter interchange.
-- Against all of these stands the four-letter root itself. Ibn Ezra and Rabbi
-  Eliyahu HaBachur both hold that a Hebrew word built on four letters tends not
-  to be native Hebrew but a loanword. Linguists have long argued *pardes* is
-  exactly that, and Rabbi Ernest Klein gives the original as Avestan or Old
-  Persian *pairidaeza*, an enclosure, itself a portmanteau of *pairi* (around,
-  cognate with Greek *peri*, the prefix of *perimeter* and *peripheral*) and
-  *daeza* (wall), the name of the boundary passing to what grew inside it. Ibn
-  Janach (*Sefer HaShorashim*) already noted an Arabic cognate, probably the
-  Modern Persian and Arabic *firdaus*. The Old Persian went into Greek as
-  *paradeisos* and Latin as *paradisus*, and from there into English as
-  *paradise*; the Greek entered common currency because the Septuagint used
-  *paradeisos* for both *pardes* and *gan*.
-- As a place rather than a plot: Chagigah 14b, the four who entered the *Pardes*,
-  which Rashi explains as Heaven, a notion the column notes is reflected in the
-  Christian idea of Paradise as in the Heavens. The Arizal reads *PaRDeS* as
-  *pshat*, *remez*, *drush*, *sod*; the Ramak puts *rayah* for *remez*, the Rema
-  *seser* for *sod*; for the Rambam see Yesodei HaTorah 4:13, Talmud Torah 1:12
-  and *Moreh Nevuchim* 2:30-32. Chazal also read Avraham's *eshel* (Bereishis
+  field; or, dropping the final samech, *pri* with *rar* (flows) or *dar*
+  (dwells), each on a stated letter change, or with *hadar* (beautiful); or else
+  *pri* with *dash* (threshing, separating) or *datz* (*ditzah*, happiness), the
+  samech interchanging with shin or tzadi.
+- Against all of these, the word seems to be built on a four-letter root. Many
+  grammarians, Ibn Ezra and Rabbi Eliyahu HaBachur among them, hold that a
+  Hebrew word built on four letters tends not to be native Hebrew but a
+  loanword. Linguists have long argued *pardes* is exactly that, and Rabbi
+  Ernest Klein gives the original as Avestan or Old Persian *pairidaeza*, an
+  enclosure, itself a portmanteau of *pairi* (around, cognate with Greek *peri*,
+  the prefix of *perimeter* and *peripheral*) and *daeza* (wall), the name of
+  the boundary passing to what grew inside it. Ibn Janach (*Sefer HaShorashim*)
+  already noted an Arabic cognate, probably the Modern Persian and Arabic
+  *firdaus*. The Old Persian went into Greek as *paradeisos* and Latin as
+  *paradisus*, and from there into English as *paradise*; the Greek entered
+  common currency because the Septuagint used *paradeisos* for both *pardes* and
+  *gan*.
+- As a place rather than a plot: Chagigah 14b, the four who entered the
+  *Pardes*, which Rashi explains as Heaven, a notion reflected in the Christian
+  idea of Paradise as in the Heavens. The Arizal reads *PaRDeS* as *pshat*,
+  *remez*, *drush*, *sod*; the Ramak puts *rayah* for *remez*, the Rema *seser*
+  for *sod*; for the Rambam see Yesodei HaTorah 4:13, Talmud Torah 1:12 and
+  *Moreh Nevuchim* 2:30-32. Chazal also read Avraham's *eshel* (Bereishis
   21:33), ordinarily taken as a single tree and possibly a tamarisk, as a whole
   *pardes* (Sotah 10a; Targum Yonasan and Targum Yerushalmi there).
 
 ### bustan (בוסתן)
 The ordinary word for a garden in the Aramaic of the Gemara: David HaMelech's
 gardens (Shabbos 30b), Achashverosh's (Megillah 16a), the Reish Galusa's (Eruvin
-25b), and in *Targum Sheini* to Esther 3:8. Rashi (to Eruvin 25b and Bava Metzia
-22a) defines it with *pardes*; his grandson Rashbam (to Bava Basra 61b) defines
-it with *gan*, so the word itself does not decide between them. It is a
-loanword from the Middle Persian *bostan*, a botanical garden, which Rabbi
-Ernest Klein parses as *bo*, smell or fragrance, plus the suffix *-stan*,
-"place of" (the ending of Pakistan, Kurdistan, Afghanistan), cognate with
-Arabic *bustaan*. The Turkish *bostanji*, the Sultan's palace guards in the
-Ottoman Empire, comes from the same word and literally means "gardener."
+25b), and in *Targum Sheini* to Esther 3:8. Rashi in places (to Eruvin 25b and
+Bava Metzia 22a) defines it with *pardes*; his grandson Rashbam (to Bava Basra
+61b) defines it with *gan*. It is a loanword from the Middle Persian *bostan*, a
+botanical garden, which Rabbi Ernest Klein parses as *bo*, smell or fragrance,
+plus the suffix *-stan*, "place of" (the ending of Pakistan, Kurdistan,
+Afghanistan), cognate with Arabic *bustaan*. The Turkish *bostanji*, the
+Sultan's palace guards in the Ottoman Empire, comes from the same word and
+literally means "gardener."
 
 It served as a personal name too. Bustanai was Reish Galusa in seventh-century
-Bavel, and the legend, as the column presents it, is that the Persian king had
-killed off the male Davidic line but was shown in a dream a beautiful garden he
-was destroying, and an old man rebuking him for cutting down even the ungrown
-saplings; he spared the one pregnant widowed daughter-in-law, and her son was
-named for that garden. Parts of the story are referenced by Rabbi Hai Gaon in a
-legal discussion; for the legend see *Seder Olam Zuta*, *Seder HaDoros* (year
-4420), *Otzar Yisrael* s.v. Bustanai, and *Ben Yehoyada* to Sanhedrin 5a.
+Bavel, and the legend is that the Persian king had killed off the male Davidic
+line but was shown in a dream a beautiful garden he was destroying, and an old
+man rebuking him for cutting down even the ungrown saplings; he spared the one
+pregnant widowed daughter-in-law, and her son was named for that garden. Parts
+of the story are referenced by Rabbi Hai Gaon in a legal discussion; for the
+legend see *Seder Olam Zuta*, *Seder HaDoros* (year 4420), *Otzar Yisrael* s.v.
+Bustanai, and *Ben Yehoyada* to Sanhedrin 5a.
 
-The column reports one guess of its own that failed: it had suspected *bustan*
-was somehow related to English *botanical*, and Rabbi Shaul Goldman set it
-straight. *Botanical* runs back through Latin *botanicus* and Greek *botanikos*
-to Greek *botane*, fodder or pasture, which sits closer to *botamia*
-(pastures), *boton* (grazing beast) and *boter* (herdsman); it has even been
-suggested that the *bo-* there belongs with Greek *bous* and Latin *bos*, cow,
-which would make *botanical* kin to *bovine* and nothing to do with the
-sweet-smelling *bustan*.
+Rabbi Reuven Chaim Klein had suspected that *bustan* was somehow related to
+English *botanical*, and Rabbi Shaul Goldman set him straight. *Botanical* runs
+back through Latin *botanicus* and Greek *botanikos* to Greek *botane*, fodder
+or pasture, which seems to sit closer to *botamia* (pastures), *boton* (grazing
+beast) and *boter* (herdsman); it has even been suggested that the *bo-* there
+belongs with Greek *bous* and Latin *bos*, cow, which would make *botanical* kin
+to *bovine* and nothing to do with the sweet-smelling *bustan*.
 
 ## Rendering guidance
 

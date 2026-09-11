@@ -40,10 +40,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Asifah* is **gathering in**, bringing scattered things to where they belong;
-*kovetz* is **collecting**, with no bringing-in implied. *Aggudah* goes further:
-the gathered are **bound** into one unit. *Kehillah* is an **assembly** of
-people, *eidah* a **congregation** joined for a purpose, *agur* is
+On the reading of Rabbi Yehuda Leib Edel, Rashi and Malbim, *asifah* is
+**gathering in**, bringing scattered things to where they belong, and *kovetz*
+is **collecting**, with no bringing-in implied. *Aggudah* goes further: the
+gathered are **bound** into one unit. *Kehillah* is an **assembly** of people,
+*eidah* for Bedersi a **congregation** joined for a purpose, *agur* is
 **stockpiling** for later.
 
 ## At a glance
@@ -51,7 +52,7 @@ people, *eidah* a **congregation** joined for a purpose, *agur* is
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | אסיפה | asifah | gathering in | to its proper place, and indoors (Rashi, Malbim) |
-| קבץ | kovetz | collecting | no bringing in (Malbim); from a distance (Radak); bit by bit (Rabbi Shlomo Pappenheim) |
+| קבץ | kovetz | collecting | not necessarily brought in (Malbim); from a distance (Radak); bit by bit (Rabbi Shlomo Pappenheim) |
 | אגודה | aggudah | bundle, binding | fastened into one unit (Rabbi Shlomo Pappenheim) |
 | קהילה | kehillah | assembly | people only (Rabbi Shlomo Pappenheim) |
 | עדה | eidah | congregation | joined for a purpose (Bedersi); the righteous (Vilna Gaon) |
@@ -59,20 +60,21 @@ people, *eidah* a **congregation** joined for a purpose, *agur* is
 
 ## Where the authorities disagree
 
-**Asifah against kovetz.** Four accounts, and they do not agree.
+**Asifah against kovetz.** Four accounts, not all in agreement.
 
 1. **Rabbi Yehuda Leib Edel, with Rashi and Malbim.** *Asifah* gathers
    disparate things to put them where they belong, which is why Succos is *Chag
    HaAsif* (Shemos 23:16, 34:22), the last chance to bring produce in before the
    rains (Rashi); of an individual it means only arriving (Malbim, Bamidbar
-   11:30). So *le'esof* brings in and *lekavetz* does not: Achashverosh gathered
-   the maidens with *kovetz* (Esther 2:3), from afar but only one came inside.
+   11:30). So *le'esof* brings in and *lekavetz* does not necessarily:
+   Achashverosh gathered the maidens with *kovetz* (Esther 2:3), from afar but
+   only one came inside.
 2. **The Vilna Gaon** (Chavakuk 2:5): *asifah* brings things inside, *kovetz*
    puts what is inside in one place; Yaakov calls his sons twice, *he'asfu*
    (Bereishis 49:1) for those outside, then *hikavtzu* (49:2).
-3. **Radak** (*Sefer HaShorashim*) rejects the "proper place" idea, disagreeing
-   with Rashi even on death, which he explains as being gathered together with
-   one's forefathers. On his account the difference is distance: *asifah* for
+3. **Radak** (*Sefer HaShorashim*) seems to reject the "proper place" idea,
+   disagreeing with Rashi even on death, which he explains as being gathered
+   together with one's forefathers. On his account the difference is distance: *asifah* for
    what is near, *kovetz* for what is dispersed further off.
 4. **Rabbi Shlomo Pappenheim.** *Asifah* takes in all the parts at once,
    *kovetz* accumulates them little by little; he derives it from ס-ף, a
@@ -85,8 +87,8 @@ see 49:33, Bamidbar 27:13): the soul is gathered into the store where souls are
 kept. Radak: he is gathered to his fathers, a reunion.
 
 **Kehillah against eidah.** Rabbi Avraham Bedersi HaPenini: *kehillah* is any
-gathering of people, *eidah* a body joined for a specific cause. The Vilna Gaon
-(Mishlei 5:14): *eidah* is a gathering of the righteous.
+gathering of people, *eidah* a body joined for a specific cause. Along the same
+lines, the Vilna Gaon (Mishlei 5:14): *eidah* is a gathering of the righteous.
 
 ## Distinctions
 
@@ -111,18 +113,18 @@ of wisdom (Rashi, Koheles 1:1).
 ### agur (אגר)
 Shlomo's other name, Agur (Mishlei 30:1), for having gathered up the Torah's
 wisdom; *Midrash Agur* 4 reads both names as a sign that the nation was gathered
-as one in his days. Rabbi Shlomo Aharon Wertheimer and Rabbi Shlomo Pappenheim:
-collecting little by little for later use. Rabbi Avraham Bedersi: inanimate
-objects only, wine (Devarim 28:39) or silver (Shmuel I 2:36), while *asifah*,
-*kovetz* and *kehillah* also take living things. Rabbi Shlomo Pappenheim's root
-is ג-ר, temporary residence, whence *ger*, a sojourner, and *goren*, the
-granary that houses the grain until its processing is done; and, in the
-gathering sense, *gargir*, a grape with the juice gathered inside it, and the
-small coin *geirah* (Shemos 30:13), also called *agurah* (Shmuel I 2:36), which
-is worth almost nothing singly and has value only collected together. (The
-column adds that the Aramaic *agra*, wages or reward, as in Avos 5:22 and Targum
-Onkelos to Bereishis 15:1, may derive from *agurah*; and that a hundred
-Modern Hebrew *agurot* make a shekel.)
+as one in his days. Rabbi Shlomo Aharon Wertheimer: gathering little by little
+for long-term storage; similarly Rabbi Shlomo Pappenheim: collecting or
+stockpiling for later use. Rabbi Avraham Bedersi: inanimate objects only, wine
+(Devarim 28:39) or silver (Shmuel I 2:36), while *asifah*, *kovetz* and
+*kehillah* also take living things. Rabbi Shlomo Pappenheim's root is ג-ר,
+temporary residence, whence *ger*, a sojourner, and *goren*, the granary that
+houses the grain until its processing is done; and, in the gathering sense,
+*gargir*, a grape with the juice gathered inside it, and the small coin *geirah*
+(Shemos 30:13), also called *agurah* (Shmuel I 2:36), which is worth almost
+nothing singly and has value only collected together. (The Aramaic *agra*, wages
+or reward, as in Avos 5:22 and Targum Onkelos to Bereishis 15:1, may derive from
+*agurah*; and a hundred Modern Hebrew *agurot* make a shekel.)
 
 ## Rendering guidance
 

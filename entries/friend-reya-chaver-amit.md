@@ -22,7 +22,7 @@ The three run on a scale of closeness. *Amis* is the loosest: **associate,
 acquaintance**, the man one deals with rather than confides in. *Chaver* is the
 middle and the default: **friend**, one joined to you in some shared thing.
 *Reya* is the closest: **companion** or **confidant**, the one you are with
-constantly and to whom you tell your secrets. Rabbi Elazar Rokeach of Worms and
+frequently and to whom you tell your secrets. Rabbi Elazar Rokeach of Worms and
 Rabbi Shlomo Aharon Wertheimer both set them in this order.
 
 ## Distinctions
@@ -43,27 +43,27 @@ a wife as well (Shabbos 63a). One of Yisro's seven names is Chever, because he
 became a *chaver* of Hashem.
 
 ### reya (רע)
-The most intimate. Rokeach: the one you are with constantly and to whom you
-reveal your secrets. Wertheimer: complete affection, the highest form of
-companionship. Tanach bears this out: *reiacha asher kenafshecha*, "your friend
-who is as your own self" (Devarim 13:7), among those whose pull toward avodah
-zarah is hardest to resist; and *ve'ahavta lereiacha kamocha* (Vayikra 19:18).
-Chazal in places apply the mitzvah of loving one's *reya* as oneself to one's
+The most intimate. Rokeach: the one you are with frequently and to whom you
+reveal your secrets. Wertheimer: it tends to denote complete affection, the
+highest form of companionship. Tanach itself implies as much: *reiacha asher
+kenafshecha*, "your friend who is as your own self" (Devarim 13:7), among those
+whose influence might draw a man to avodah zarah; and *ve'ahavta lereiacha
+kamocha* (Vayikra 19:18). Chazal in places apply the mitzvah of loving one's *reya* as oneself to one's
 wife (Kiddushin 41a, Niddah 17a), and *reiasi* is the ordinary way a man refers
 to his wife. Targum Onkelos renders *rei'eihu* sometimes as *chavrei* and
 sometimes as *rachamohi*, "one who loves him," according to the context.
 Yisro's name Reuel is read as his having become a *reya* of Hashem.
 
-The column flags one usage it cannot fit the scale: Shemos 11:2, where the
-Jews are told to ask their Egyptian *rei'eihu* for vessels, uses the most
+Rabbi Klein flags one usage he is not sure what to make of: Shemos 11:2, where
+the Jews are told to ask their Egyptian *rei'eihu* for vessels, uses the most
 intimate of the three.
 
 ### The root of reya
 ר-ע ordinarily means bad or evil. Mishlei 13:20 already plays on it: *ro'eh
 chesilim yeiro'a*. Rashi: *yeiro'a* there is not "will become evil" but "will
-be broken" (see also Maharsha to Berachos 63a on Mishlei 18:24). Hence the
+be broken" (see also Maharsha to Berachos 63a on Mishlei 18:24). Likewise the
 Talmudic *kosel ra'ua*, a broken wall, and *teruah*, the broken-up shofar
-blasts against the unbroken *tekiah*. The column offers two ways to hold the
+blasts against the unbroken *tekiah*. Rabbi Klein offers two ways to hold the
 opposites together, both of them tentative: "it seems" that this is one more
 Hebrew word carrying a sense and its reverse, or, as he then suggests himself,
 a *reya* is precisely one whose separate existence is a brokenness off from
