@@ -16,12 +16,12 @@ updated: 2026-09-10
 ## Bottom line
 
 *Areimah* is the standard word for a **pile** or **heap**, in Tanach and in
-Mishnaic Hebrew alike. *Chamarim* (always doubled, *chamarim chamarim*) is
+Mishnaic Hebrew alike. *Chamarim* (doubled in Shemos 8:10, *chamarim chamarim*) is
 **heaps upon heaps**, a mass gathered together. *Gadish* is a **stack** of grain
 still in the sheaf; *omer* is the **bundle** or **sheaf** itself. Rambam seems
 to equate *areimah* and *gadish*, but Rabbi Shlomo
 Pappenheim separates them: the difference is threshed grain (*areimah*)
-against unthreshed (*gadish*). The column reports that it has found no source that
+against unthreshed (*gadish*). Rabbi Klein reports that he has found no source that
 distinguishes *areimah* from *chamarim* in meaning.
 
 ## Distinctions
@@ -34,25 +34,25 @@ cluster in Divrei HaYamim II 31:6-9; in Mishnaic Hebrew at *Terumos* 2:1,
 "cleverness" (Bereishis 3:1, Iyov 5:12, Mishlei 19:25) and "nakedness."
 *Machberet Menachem* lists all three senses without intimating a connection
 between them. Rav Hirsch (1808-1888, to Bereishis 2:25) ties "pile" to
-"cleverness": a pile is many items, each worth little alone, that become
-something important when heaped together, and cleverness is a pile of thoughts a
-man has considered, no one of which looks like much until they are joined. Having
+"cleverness": a pile is typically many items, each worth little alone, that can
+become something important when heaped together, and cleverness is like a pile
+of thoughts a man has considered, no one of which looks like much until they are joined. Having
 explained those two, he admits that he does not know how "nakedness" fits the
 picture, and derives that word instead from ע-ו-ר (*ohr*, skin); elsewhere (to
 Bereishis 13:13) he does connect the two, the clever man being unencumbered by
-the worldly considerations that cloud a man's intellect, so that in being "naked"
+the worldly considerations that often cloud a man's intellect, so that in being "naked"
 he can think straight, and Rabbi Aharon Marcus (1843-1916, *Keses HaSofer* to
 Bereishis 3:1) makes a similar point. Rabbi Shlomo Pappenheim of Breslau
 (1740-1814) traces ע-ר-ם to the biliteral ע-ר, "revealing, unconcealed":
-nakedness exposes the body; a pile of grain is grain already taken out of its
-sheaves and so revealed; *eir* ("awake") is the man whose abilities, hidden while
+nakedness exposes the body; in the typical agrarian practice a pile of grain is
+grain already taken out of its sheaves and so revealed; *eir* ("awake") is the man whose abilities, hidden while
 he sleeps, are suddenly revealed, and thence "cleverness," the mind that stays
 sharp and aware as though always awake. He adds *armon* (Bereishis 30:37), a tree
 (possibly the *Platanus orientalis*) with branches only at the top and none along
 its length, so that it looks "naked."
 
 ### chamarim (חמרים)
-Root ח-מ-ר. Three times in Tanach for "piles": twice in Shemos 8:10 (the dead
+Seemingly from the root ח-מ-ר. Three times in Tanach for "piles": twice in Shemos 8:10 (the dead
 frogs gathered *chamarim chamarim*) and once in Bamidbar 11:32. In the Mishnah
 at *Uktzin* 2:5, a heap of onions amassed into one grouping (*chamran*); Rabbi
 Sherirah Gaon (906-1006) notes in commenting there that the verb used for
@@ -64,23 +64,23 @@ which is why *chomer* is "matter," *chamarim* are piles of like items, and
 
 ### gadish (גדיש) and omer (עמר)
 Rambam (to *Peah* 6:2 and *Eduyos* 4:4) defines a *gadish* as an *areimah* of
-*amarim*, that is, a stack made of sheaves; the column reads him as having chosen
-those two related words on purpose because they are indeed synonymous, citing
-Rabbi Yaakov Emden's *Mishneh Lechem* to *Peah* 5:1. Rabbi Shlomo Pappenheim
-takes the other view, contra Rambam, who on the column's reading seems to equate
-*gadish* and *areimah*: a *gadish* is grain still inside the sheaf, an *areimah*
-is grain already threshed out and so revealed. Rav Hirsch groups *omer/amar* ("bundling" stalks) with *chamarim*
+*amarim*, that is, a stack made of sheaves; Rabbi Klein reads him as having
+chosen those two related words on purpose because they are indeed synonymous,
+citing Rabbi Yaakov Emden's *Mishneh Lechem* to *Peah* 5:1. Rabbi Shlomo
+Pappenheim distinguishes them: a *gadish* is grain still inside the sheaf, an
+*areimah* is grain already threshed out and so revealed. Rabbi Klein notes that
+this runs contra Rambam, who seems to equate *gadish* and *areimah*. Rav Hirsch groups *omer/amar* ("bundling" stalks) with *chamarim*
 and with *amar* ("statement," many words gathered on one theme), all through
 the interchange of aleph, ches and ayin.
 
 ### The relation between areimah and chamarim
-The column proposes, without a source, that the connection "does seem tenable" in
-two steps: ע-ר-ם relates to ע-מ-ר ("bundling") by metathesis, and ע-מ-ר to ח-מ-ר
-by the interchange of ayin and ches, so that *areimah* and *chamarim* are
-ultimately related. It states plainly that it has not seen any commentator who
-explicitly links the two, nor found anyone who offers a way of differentiating
-their meanings. This is the column's own suggestion, not a received
-distinction.
+Rabbi Klein proposes, without a source, that the connection "does seem tenable"
+in two steps: ע-ר-ם appears to relate to ע-מ-ר ("bundling") by metathesis, and
+ע-מ-ר seems related to ח-מ-ר by the interchange of ayin and ches, so that
+*areimah* and *chamarim* are ultimately related. He states plainly that he has
+not seen any commentator who explicitly links the two, nor found anyone who
+offers a way of differentiating their meanings. This is his own suggestion, not
+a received distinction.
 
 ## Rendering guidance
 

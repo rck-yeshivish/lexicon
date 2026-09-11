@@ -19,7 +19,7 @@ updated: 2026-09-10
 Chazal read it closely it means **the one that matters**, the choice or unique
 one. *Achad* is the rarer form and splits in two (Rabbi Wolf Heidenheim): in the
 construct ("one of the mountains") it carries the same weight as *echad*, **one
-of the important ones**; in the absolute, recognisable because a *mem* follows
+of the important ones**; in the absolute, recognisable because a *mem* usually follows
 ("*achad me...*"), it means **any one of them**, and implies the lesser, not the
 greater. *Chad* is *echad* with the *aleph* dropped, Aramaic in almost every
 occurrence. *Achat* / *echat* are the feminine, one word vowelised two ways.
@@ -47,8 +47,8 @@ political leaders, and was certainly not guilty of Korach's charge.
 
 ### the dispute the two forms answer
 Rashi and Targum Onkelos read that first clause as "a donkey of one of them,"
-with *echad* meaning one of the people. Rashi's own grandson
-Rashbam, and Chizkuni and Ramban, read it otherwise: "I did not take one
+with *echad* meaning one of the people. Other commentators, among them Rashi's
+own grandson Rashbam, and Chizkuni and Ramban, read it otherwise: "I did not take one
 donkey from them," *echad* attaching to the donkey and not to the people, since
 otherwise the Torah should have written *achad* as it does in the second clause.
 It is against that objection that Rabbi Wolf Heidenheim defends Rashi, and his
@@ -67,8 +67,8 @@ read as one of the *distinguished* tribes, Yehudah.
 
 ### achad (אחד, absolute)
 Heidenheim's second form looks like a construct but is not; the tell is a
-following *mem* ("one *from* them"), since a true construct swallows the "of."
-Here the connotation inverts: *not* important, any ordinary member of the set.
+*mem* that usually follows ("one *from* them"), since a true construct swallows the "of."
+Here the connotation inverts: *not as* important, any ordinary member of the set.
 "Take with you *achad* of the lads" (Shmuel I 9:3), a servant of no standing;
 "he shall be brought to Aharon the Kohen or to *achad* of his sons the Kohanim"
 (Vayikra 13:2), that is, any ordinary Kohen as against the Kohen Gadol. This is
@@ -92,7 +92,7 @@ Heidenheim's explanation.
 ### ach (אח)
 Normally "brother" (also an exclamation of grief, and an "oven"). Rabbi Yonah
 Ibn Janach and Radak (to Yechezkel 18:10 and in *Sefer HaShorashim*) insist that
-in that one pasuk it means "one." Targum and Rashi there keep "brother." Ibn
+in that one pasuk it means "one." Other commentators, Targum and Rashi among them, keep "brother" there. Ibn
 Janach finds a second case in Tehillim 49:8; Radak rejects it and reads
 "brother."
 
@@ -105,8 +105,8 @@ the definite *aleph* is not in Tanach but is common in the Bavli and Targumim.
 
 ### achat / echat (אחת)
 The feminine. Ibn Janach (*Sefer HaShorashim*): feminine of *echad*/*achad*,
-where the expected *echadet* drops its *dalet* to avoid *dalet* and *tav* back
-to back. Radak in *Sefer HaShorashim* disagrees, making *achat*/*echat* the
+where the expected *echadet* drops its *dalet* (probably to avoid *dalet* and
+*tav* back to back). Radak in *Sefer HaShorashim* disagrees, making *achat*/*echat* the
 feminine of *ach* and holding that *echad*/*achad* have no true feminine; in his
 *Michlol* he treats all of them as one stock, *ach* being *echad* minus the
 *dalet* and *chad* being *echad* minus the *aleph*. Practically, *achat* (over
@@ -120,8 +120,8 @@ root ח-ד, "singularity," what has no counterpart to make it two. From it he
 derives *yachad* ("together," many sub-units become one), *chad*/*chidud*
 ("sharp," the whole force brought onto one point), and *chidah* ("riddle," which
 takes all of one's mental force sharpened onto a single question). Pappenheim
-does not treat *ach* here, holding it never means "one." Menachem Ibn Saruk and
-Pappenheim keep *ach* ("brother," א-ח) separate from the *one* words, which they
+does not treat *ach* here, seemingly because he holds it never means "one."
+Biliteralists in the mold of Menachem Ibn Saruk and Pappenheim keep *ach* ("brother," א-ח) separate from the *one* words, which they
 trace to (א-)ח-ד; Rabbi Shmuel Yehudah Steiger (*Avnei Shayish*) joins them, all
 of them naming a closeness and joining together, like brotherhood.
 

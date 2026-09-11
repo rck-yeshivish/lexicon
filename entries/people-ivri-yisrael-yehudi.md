@@ -52,15 +52,15 @@ otherwise largely fallen out of use in Tanach.
 |---|---|---|---|
 | עברי | ivri | Hebrew | Avraham on the other side of the world (Bereishis Rabbah); lower standing (Rabbeinu Bachya) |
 | עבר | ever | side, far side | a side of a scale, or the far bank of the Euphrates; also a name |
-| ישראל | yisrael | Israel, Israelite | the nation's standard name, from Yaakov's second name; the higher standing |
+| ישראל | yisrael | Israel, Israelite | the nation's standard name, from Yaakov's second name; the higher standing (Rabbeinu Bachya) |
 | יהודי | yehudi | Jew | originally the citizen of the southern kingdom only |
 | יהודה | yehudah | Judah | named for Leah's hodaah, her thanks (Bereishis 29:35) |
 
 ## Where the authorities disagree
 
 **Why Avraham is called *HaIvri*** (Bereishis 14:13). *Bereishis Rabbah* 42:8
-gives three views: that the whole world stood on one *ever*, one side of the
-scale, and Avraham on the other, and his stature balanced it; that it is a
+gives three views: that were the whole world on one *ever*, one side of the
+scale, and Avraham on the other, his stature would balance it; that it is a
 genealogical marker, Avraham being descended from Ever, Shem's great-grandson
 (Bereishis 11:14-17); that it records his Mesopotamian origin from the far
 *ever* of the Euphrates, and that he spoke the *Ivri* tongue. *Pesikta Rabbasi*
@@ -78,9 +78,7 @@ Jews called Hebrews, why are they called Jews, and what does the biblical
 
 ### Ivri (עברי) and ever (עבר)
 The first man in the Torah called an *Ivri* is Avraham, in the refugee's report
-of Lot's capture (Bereishis 14:13-14). The word rests on *ever*, a side or a far
-bank, and every reading in the midrashim above takes it from there, whether the
-side of a scale, the far side of a river, or the far side of an argument.
+of Lot's capture (Bereishis 14:13-14).
 Rabbeinu Bachya (to Shemos 21:6): *Ivri* connotes a lower spiritual level than
 *Yisrael*, which is why a Jewish bondsman is still an *eved Ivri* after Sinai,
 though the term had by then largely dropped from use. A slave lives on a lower
@@ -106,8 +104,8 @@ province was *Yehud Medinata*, the State of Yehudah. Centuries later Rome named
 that territory Judea, until it rebranded it *Syria Palaestina* after the Bar
 Kochba revolt. From *Yehudi* through Greek *Ioudaios*, which dropped the
 h-sound, and Old French *giu*, which dropped the d-sound, comes the English
-"Jew"; many other European languages kept the d. The column notes in passing
-that the earliest appearance of *Ioudaios* is in the so-called Moschos
+"Jew"; many other European languages kept the d. The earliest appearance of
+*Ioudaios* is in the so-called Moschos
 Inscription, a stele erected in honor of the Greek gods by a Jew turned Hellene
 named Moschos. The name itself is Leah's: she called her fourth son Yehudah, the
 forebear of the Davidic line, as an expression of *hodaah*, thanks to Hashem for

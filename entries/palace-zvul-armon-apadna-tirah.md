@@ -15,32 +15,34 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Armon* is the general word and covers both English senses, **palace** and
-**castle**. *Apadna* is the luxury sense alone: a
-**palace**, or in the Gemara a grand hall or room. *Tirah* is the defensive
-sense: a **fortress** or fortified enclosure, never a byword for opulence.
-*Paltin* is the late Hebrew for a **palace** in the imperial sense. *Zvul* is a
-**lofty abode**, the dwelling that perfectly suits the one it is meant for, and
-it is used almost always of the Beis HaMikdash; where it sits relative to the
-other four the column leaves open, closing with "the term *zvul* somehow fits in
-to all of this, I'm just not sure exactly how."
+Rabbi Reuven Chaim Klein offers a way of differentiating them. *Armon* is the
+general word and covers both English senses, **palace** and **castle**. *Apadna*
+seems to line up with the luxury sense: a **palace**, or in the Gemara a grand
+hall or room. *Tirah* seems to be associated with the defensive sense: a
+**fortress** or fortified enclosure. *Paltin* is the late Hebrew for a
+**palace** in the imperial sense. *Zvul* is a **lofty abode** (Rabbi Dovid Tzvi
+Hoffmann's suggestion), the dwelling that perfectly suits the one it is meant
+for (Rav Hirsch), and it is used most often of the Beis HaMikdash. Where it sits
+relative to the other four Rabbi Reuven Chaim Klein leaves open: the term
+*zvul*, he writes, "somehow fits in to all of this, I'm just not sure exactly
+how."
 
 ## Distinctions
 
 ### zvul (זבול)
 Named at Leah's naming of Zevulun, "this time my husband will dwell with me
-(*yizbeleini*)" (Bereishis 30:20). Two further names in Tanach seem to the
-column to be related: Zevul, the city official in Shechem who stayed loyal to
+(*yizbeleini*)" (Bereishis 30:20). Two further names in Tanach seem to be
+related: Zevul, the city official in Shechem who stayed loyal to
 Avimelech (Shoftim 9), and Izevel, the Tyrian princess who married Achav and
 pushed him toward avodah zarah. Rav Hirsch (there): *zvul* is not a mere
 dwelling but a home that fully answers every purpose of the one it is meant for.
-Hence its use for the Beis HaMikdash (the column's example is *Rosh Hashanah*
+Hence its use for the Beis HaMikdash (so *Rosh Hashanah*
 17a; and see Melachim I 8:13, Divrei HaYamim II 6:2, Yeshayahu 63:15): the
 fitting place for the Shechinah to rest. He connects the Mishnaic *zevel*
 (fertilizer), which likewise readies the ground to be a fitting dwelling for
 seed so that it may flourish there. When Chavakuk, looking back at Yehoshua
 stopping the sun and moon (Yehoshua 10:13), says that the sun and moon stood in
-their *zvul* (3:11), Targum and Radak explain it as the place where they dwell,
+their *zvul* (3:11), the commentators, Targum and Radak among them, explain it as the place where they dwell,
 that is, they stood still in their tracks. The Gemara (Chagigah 12b) gives Zevul
 as the name of one of the seven heavens.
 
@@ -59,31 +61,32 @@ assigns it the four-letter root א-ר-מ-נ. Ibn Janach, invoking the interchang
 lamed and reish, holds that *almon* (Yechezkel 19:7, Yeshayahu 13:22) is the
 same word.
 
-What settles its sense is usage: *armon* appears both for a king's residence
+*Armon* appears both for a king's residence
 (Melachim II 16:18, Melachim I 15:25, Yirmiyahu 49:27) and for a fortified
 stronghold (Mishlei 18:19, Eichah 2:5, Michah 5:4). It therefore straddles both
 English words.
 
 ### apadna (אפדנא)
 Once in Tanach (Daniel 11:45), where the meforshim explain it as a palace. In
-the Gemara it is often not a whole palace but a grand or kingly room: Rashi
+the Gemara it is sometimes not a whole palace but a grand or kingly room: Rashi
 (Bava Metzia 35a, Bava Basra 6b, Shabbos 77b) defines *apadna* as a royal
 triclinium, a fine dining room. It appears in Rava's dream that his *apadna* and
 Abaye's had fallen (Berachos 56a), in the debtor who owned two of them (Kesubos
 91b), and in the cases where Rav Nachman let creditors seize a man's *apadna*
 (Bava Kamma 21a, Bava Metzia 35a, Kesubos 50b).
 
-Its origin is disputed among the scholars the column cites. Rabbi Ernest Klein
+Its origin is disputed. Rabbi Ernest Klein
 takes *apadna* from Old Persian, a language of the Indo-European family. Dr.
 Chaim Tawil traces it instead to the Akkadian *appadanu*, which he understands
 as a colonnaded audience hall, and holds the word to be of Semitic origin and
-not Indo-European; an Arabic cognate, *fadan*, means palace or high tower.
+not Indo-European. An Arabic cognate, *fadan*, means palace or high tower.
 
 Rabbi Pappenheim traces *apadna* to the biliteral פ-ד, redemption or freedom
 (as in *pidyon*, *pedus*). From that root he takes *eifod*, the vestment worn by
 those who were free and unindentured (Shmuel I 2:18, Shmuel II 6:14); an
-*apadna* is accordingly the luxurious home of a free man. He extends this to
-*padan*, a region with its own sovereignty or exempt from imperial tax, so that
+*apadna* is accordingly the luxurious home of a free man. He extends this,
+suggesting that *padan* is a region with its own sovereignty or exempt from
+imperial tax, so that
 *Padan Aram* (Bereishis 31:18, 35:26, 46:15) is the free state of Aram. The
 classical readings of *padan* are "field, plain," or the twin cities of Aram
 Naharayim and Aram Tzova.
@@ -91,14 +94,14 @@ Naharayim and Aram Tzova.
 ### tirah (טירה)
 Seven times in Tanach (Bereishis 25:16, Bamidbar 31:10, Yechezkel 25:4, 46:23,
 Shir HaShirim 8:9, Tehillim 69:26, Divrei HaYamim I 6:39), apparently an
-enclosed fort or fortified village. Ibn Ezra (to Bereishis 25:16) says it means
+enclosed fort, perhaps a fortified village. Ibn Ezra (to Bereishis 25:16) says it means
 the same as *armon*.
 
 Rabbi Pappenheim puts its root at ט-ר, a straight line, which yields *tur*
 (row), *matarah* (target, shot at straight), and *matar* (rain, falling
-straight down); a *tirah* is built by arranging rows of boards. Radak likewise
-derives *tirah* from *tur*, adding that such structures are built of rows of
-hewn stone. Rabbi Pappenheim offers a second route from the same root, through
+straight down); a *tirah* is typically built by arranging rows of boards. Radak likewise
+derives *tirah* from *tur*, adding that such structures are typically built of
+rows of hewn stone. Rabbi Pappenheim offers a second route from the same root, through
 *netirah* (guarding, keeping watch), since watching over something requires
 keeping one's thoughts straight on it without deviating; related are *tahor*
 (pure, a state kept only by watching) and *iter* (shut, so closely guarded that
@@ -108,15 +111,15 @@ similarly that *tirah* is from ט-ר in the sense of guarding, a fort built to
 protect a king's subjects, generally walled about, and so akin to *atarah*
 (crown), the ornament that goes around a royal head, which he derives from a
 combination of the roots ע-ט, cover, and ט-ר, guard. Rabbi Chelouche, the late
-Chief Rabbi of Netanya, also claims that the English *tower* comes from *tirah*;
-the column notes that linguists derive *tower* from the Latin *turris*.
+Chief Rabbi of Netanya, also claims that the English *tower* comes from *tirah*,
+though linguists derive *tower* from the Latin *turris*.
 
 ### paltin / paltrin (פלטין)
 The late Hebrew word (Sanhedrin 2:3, 10:5), the cognate of the English *palace*.
 English *palace*, *palatium*, in the sense of a vast and luxurious residence
 belonging to an important person, comes ultimately from the proper name
 Palatium, one of the hills of ancient Rome on which the imperial palaces were
-built. A renowned language scholar, the column reports, derives the late Hebrew
+built. A renowned language scholar derives the late Hebrew
 *paltrin* rather from the Latin *praetorium*, the official residence of a Roman
 governor or general, apparently through the interchange of lamed and reish.
 

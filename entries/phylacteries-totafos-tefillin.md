@@ -21,8 +21,9 @@ updated: 2026-09-10
 *Totafos* is the word of Chumash and belongs to the head alone. *Tefillin* is the Mishnaic word, plural because it
 names the pair of head and arm together; the singular of one box is *tefillah*.
 The Torah never calls the arm box *totafos*, which is one
-of the two reasons the berachah before laying them says *tefillin* and not the
-biblical term.
+of the two reasons Rabbi Pinchas Avraham Meyers and Rabbi Moshe Rachamim Shayo
+give for the berachah before laying them saying *tefillin* and not the biblical
+term.
 
 ## Distinctions
 
@@ -32,7 +33,7 @@ alone. Targum Onkelos and Targum pseudo-Yonasan render it *tefillin*. A second
 early tradition among the ancient translations, that of Targum Neofiti and the
 Peshitta, renders it instead by the Aramaic or Syriac equivalent of *zikaron*,
 "remembrance," which implies they took the core meaning to be remembering; Ibn
-Ezra (to Shemos 13:16) echoes that approach. On that reading, the column notes, it
+Ezra (to Shemos 13:16) echoes that approach. On that reading it
 is unclear what the etymological root of *totafos* might be, or even what language
 it comes from. Beyond that, four lines of explanation:
 
@@ -53,8 +54,9 @@ Chizkuni and Rabbi Yosef Bechor Shor (to Shemos 13:16), ties
 *totafos* to gazing, the head
 tefillin sitting by the eyes and looking outward. The Gemara (Berachos 6a) reads
 "the nations of the world will see that the name of Hashem is called upon you"
-(Devarim 28:10) as the gentiles seeing a Jew in his tefillin, so the biblical
-word for them plausibly touches on being seen.
+(Devarim 28:10) as the gentiles seeing a Jew in his tefillin, and in light of
+this, Rabbi Klein reasons, it makes sense that the biblical word for them might
+be related to seeing.
 
 **Dripping.** Menachem Ibn Saruk (920-970; *Machberes Menachem*, cited by Rashi
 to Shemos 13:16) takes the word from the biliteral ט-פ, which
@@ -84,10 +86,10 @@ straps merely secondary. He then concludes: the Torah is saying the head tefilli
 should be worn where people would normally wear their *totafos*, not that
 *totafos* is the name of the tefillin.
 
-**A foreign word.** All the readings above presume *totafos* is a native Hebrew
+**A foreign word.** All the readings above seem to presume *totafos* is a native Hebrew
 word; the Gemara supplies one that seemingly treats it as a loanword. Rabbi Akiva
 (Menachos 34b, cited by Rashi to Devarim 6:8) parses *totafos* as *tot*, two in
-Coptic, and *fot*, two in *Afriki* (which the column glosses as Phrygian),
+Coptic, and *fot*, two in *Afriki* (which Rabbi Klein glosses as Phrygian),
 alluding to the four parshiyos written on the parchments inside (or, per Rashi to
 Shemos 13:16, the four chambers of the head tefillin). Others place the word in
 Aramaic: Rabbeinu Chaim Paltiel (to Shemos 13:16) relates it to *t'fei* ("more,"
@@ -95,13 +97,13 @@ Aramaic: Rabbeinu Chaim Paltiel (to Shemos 13:16) relates it to *t'fei* ("more,"
 Rabbi Mecklenburg to the Aramaic for appeasement (Targum to Bereishis 34:22,
 Mishlei 1:10). Others again read it as Egyptian: Rabbi Avraham Saba (1440-1508;
 *Tzror HaMor* to Shemos 13:16) connects it to Egyptian headdresses, and Abarbanel
-(there) holds it is the Egyptian word for "brain." The column adds a recent
-proposal in the same direction, that of Professor Hubert Grimme (1864-1942),
-cited by Professor Jeffrey H. Tigay, who derives *totafos* from the Egyptian
+(there) holds it is the Egyptian word for "brain." A similar explanation has
+been proposed more recently by Professor Hubert Grimme (1864-1942), cited by
+Professor Jeffrey H. Tigay, who derives *totafos* from the Egyptian
 *ddft*, "snake," a reference to the Uraeus snake often worn on the headdress in
-ancient Egypt. A further suggestion, tying *totafos* somehow to the names of the
-Egyptian deities Thoth and Ptah, the column reports but discounts, saying it has
-not seen it cited in any serious scholarship on the topic.
+ancient Egypt. It has even been suggested that *totafos* somehow relates to the
+names of the Egyptian deities Thoth and Ptah, but Rabbi Klein has not seen this
+cited in any serious scholarship on the topic.
 
 ### tefillin (תפילין)
 Common in the Mishnah (Berachos 3:1, Shabbos 6:2, 16:1, Eruvin 10:1, Shekalim
@@ -128,13 +130,13 @@ Menachos 4:1, *Yachin* §2) offer comparable explanations.
 Rabbi Nosson of Rome (1035-1106) in *Sefer HeAruch*, his lexicon of Rabbinic
 Hebrew, instead files *tefillin* under ת-פ-ל, and Rabbi Eliyahu Bachur
 (1469-1549) in *Sefer Tishbi* questions why he did not give the root as פ-ל-ל
-like Tosafos. Explaining the Aruch's position, Dr. Alexander Kohut (1842-1894) in
+(the root Tosafos give). Explaining the Aruch's position, Dr. Alexander Kohut (1842-1894) in
 *HeAruch HaShaleim* argues that ת-פ-ל is a permutation of ט-פ-ל (*tafel*, a
 secondary element attached to a primary one), and refers to the way tefillin are
 attached or tied to a person's body. Rabbi Yosef Teomim-Frankel (1727-1792),
 author of the *Pri Megadim*, suggests in one of his epistles that *tefillin*
 likewise derives from ת-פ-ל in its sense of "unsalted": because one dons tefillin
-every single weekday the mitzvah becomes routine and bland, with no special taste
+every single weekday the mitzvah becomes like something routine and bland, with no special taste
 to it, and one must perform it anyway simply because Hashem decreed so. He further
 suggests connecting *tefillin* to *pele*/*hafla'ah*, wonderment, exaggeration and
 separation, from the root פ-ל-(א); Rabbi Mecklenburg applies that to the way Klal
@@ -147,14 +149,14 @@ Yehudah's *ptil* (Bereishis 38:18, usually rendered "wick" but here generally
 understood as "belt") as his tefillin, *ptil* being readable as an anagram of
 *tefillin* (*Paneach Raza*, *Baal HaTurim* there), and *Noam Elimelech* (to
 Bamidbar 18:8), echoing Tosafos, reads tefillin as what ties Klal Yisrael to
-Hashem and Hashem to them, since the Gemara says that He too wears tefillin, whose
+Hashem and Hashem to them. Indeed, the Gemara says that He too wears tefillin, whose
 contents declare the uniqueness of Klal Yisrael as ours declare His oneness
 (Berachos 6a).
 
 Professor Moshe Weinfeld (1925-2009) notes that in the Aramaic writings found at
 Elephantine the term *tefillah* describes a silver amulet, and that in Ugaritic
 *tefili* refers to a sort of ornament worn on the head or forehead. That would
-mean, Rabbi Klein observes, that the etymology of *tefillin* may line up with
+mean, Rabbi Klein observes, that the etymology of *tefillin* may in some ways line up with
 that of *totafos*, which may also mean an ornament.
 
 ## Why the berachah says tefillin
@@ -163,7 +165,7 @@ The berachos before laying tefillin say *al mitzvas tefillin* and *l'haniach
 tefillin*, using the Rabbinic word rather than the biblical *totafos*, which is
 noteworthy because berachos usually prefer biblical terminology to Rabbinic. Two
 contemporary rabbanim, Rabbi Pinchas Avraham Meyers (Chief Rabbi of the Hague) and
-Rabbi Moshe Rachamim Shayo, independently give the same two answers: first, that
+Rabbi Moshe Rachamim Shayo, give the same two answers: first, that
 *totafos* refers only to the head tefillin and never to the arm tefillin, so the
 Rabbis preferred the more inclusive *tefillin*; second, that *totafos* is more
 likely of foreign origin, per Rabbi Akiva, while *tefillin* seems more closely

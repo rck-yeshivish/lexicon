@@ -28,8 +28,7 @@ motion and outward disturbance: **quiet, stillness, calm**; whether it ranks abo
 *shalom* (Bedersi) or below it as a mere ceasefire (Rabbi Shlomo Aharon Wertheimer)
 is disputed, and both readings stay live. *Shaanan* is the
 fullest rest, free even of the busyness of prosperity: **serenity** (Bedersi,
-Pappenheim). *Shalom* is about parties in harmony,
-*shalvah* and *sheket* about a person or a scene at rest.
+Pappenheim).
 
 ## Distinctions
 
@@ -55,11 +54,11 @@ Root ש-ל-ה, from Pappenheim's ש-ל: the state in which every disturbance has
 removed; hence *moshel* and *memshalah*, the rulers whose task is to keep it.
 Bedersi ranks it with *shalom*; Wertheimer groups the two as total peace. Why
 do both of them pair the words? Rabbi Klein suggests that the answer may lie in their shared etymological root, the biliteral ש-ל.
-Pappenheim, after entertaining synonymy, concludes that *shalom* is the
-all-encompassing state across every relationship, while *shalvah* is one peaceful
-relationship within a wider discord. Malbim: *shalvah* is inner peace, *shalom*
-external. The verb *shalu* means both to be at ease (Rashi and Ibn Ezra to Eichah
-1:5) and to sin unwittingly (Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II
+Pappenheim, after entertaining synonymy, concludes that *shalom* is the more
+all-encompassing state, which can show itself in all sorts of harmonious
+relationships, while *shalvah* is one peaceful relationship within a wider discord. Malbim: *shalvah* is inner peace, *shalom*
+external. The verb *shalu* sometimes means to be at ease (Rashi and Ibn Ezra to
+Eichah 1:5) and sometimes to sin unwittingly (Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II
 29:11; the Targumim typically render *shogeg* as *shaluta*, and see Daniel 6:5,
 Rashi to Rus 2:16 and Ramban to Bereishis 38:5). How do the two meanings converge in
 one word? Bedersi: the complacency of

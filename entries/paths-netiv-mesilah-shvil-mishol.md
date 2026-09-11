@@ -19,18 +19,15 @@ updated: 2026-09-10
 road, *netiv* the narrow **path** that only some people use, *mishol* the
 **footpath** too weak for a wagon, *shvil* the **trail** narrow enough for one
 ankle at a time, and *maagal* a **roundabout way** that goes nowhere in
-particular. The column does not rank the whole field by width: it says only that
-a *netiv* is narrower than a *derech*, and that a *shvil* is narrower than a
-*netiv*. A
-pasuk that pairs two (Bamidbar 20:17 against 20:19, or Shoftim 5:6) is
-distinguishing them on purpose.
+particular. On width, Rabbeinu Bachya makes a *netiv* narrower than a *derech*,
+and Malbim and others make a *shvil* narrower than a *netiv*.
 
 ## Distinctions
 
 For *derech* and *orach*, see [path](path-derech-orach.html); this entry covers the rest
-of the field. The column sets the whole set against English street names, where
-"boulevard," "avenue," "way" and "drive" are, as it puts it, entirely arbitrary
-and carry no real meaning; in Hebrew the exact opposite is true.
+of the field. English street names, "boulevard," "avenue," "way" and "drive,"
+are in Rabbi Klein's words entirely arbitrary and carry no real meaning; in
+Hebrew, he holds, the exact opposite is true.
 
 ### rechov (רחוב)
 Rabbi Meshullam (to Shekalim 1:1), on the money spent from the fifteenth of Adar
@@ -42,23 +39,24 @@ street. In a second use, *rechovah shel ir* is the open square within a town
 ### netiv (נתיב)
 Rabbeinu Bachya (to Shemos 35:35): *derech* is a wide road, *netiv* a very
 narrow one. The Vilna Gaon: a *netiv* is what one takes to reach a *derech*, an
-approach road (the column suggests it may be comparable to an exit or entrance
+approach road (Rabbi Klein suggests it may be comparable to an exit or entrance
 ramp on a freeway). Malbim: shorter than a *derech* or *orach*, and not open to
 the public. The Zohar (Mikeitz 197b, Va'era 31a-b): a *derech* is open to all, a
 *netiv* only to select individuals. Rabbi Shlomo Aharon Wertheimer (1866-1935)
-says the same in plainer terms, a private shortcut, and reads it out of Shoftim 5:6,
-where the alternative to walking a *netiv* is going the long way around. In
+similarly explains a *netiv* as a private shortcut, and reads it out of Shoftim
+5:6, which implies that the alternative to walking a *netiv* is going the long
+way around. In
 Modern Hebrew it is a traffic lane.
 
 ### mesilah (מסילה)
-Malbim: a paved path, and usually the pedestrian walk at a street's edge; the
-word *maslul*, a planned route or itinerary, belongs with it. Wertheimer adds
+Malbim: a paved path, and usually the pedestrian walk at a street's edge. The
+word *maslul*, a planned route or itinerary, is related to it. Wertheimer adds
 that it is generally straight as well as paved, which is why the stars are said
 to travel in a *mesilah* (Shoftim 5:20): they appear to travel in a straight,
 pre-planned course. The word choice in Bamidbar carries weight: Bnei Yisrael
 first ask Edom for passage on his *derech* (20:17) and, after the refusal, ask
 instead for his *mesilah* (20:19), and are refused again. Why the second wording
-should have been more acceptable to Edom the column does not know; it offers,
+should have been more acceptable to Edom Rabbi Klein does not know; he offers,
 with a question mark, that perhaps it would not have affected traffic.
 
 ### maagal (מעגל)

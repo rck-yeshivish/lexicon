@@ -28,10 +28,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Shemen* is the general word, **oil**, which is why the Torah must say *shemen
-zayis zach* to specify **pure olive oil**. *Yitzhar* is **olive oil** in itself,
-and is never paired with *zayis* in Tanach. Every occurrence of *yitzhar* is
-agricultural, the yield of the press.
+*Shemen* is the general word, **oil**. Rabbi Klein argues that *yitzhar*, by
+contrast, is **olive oil** in itself: the Torah must say *shemen zayis zach* to
+specify **pure olive oil**, while *yitzhar* is never paired with *zayis* in
+Tanach. Every occurrence of *yitzhar* is agricultural, the yield of the press.
 
 ## At a glance
 
@@ -43,13 +43,12 @@ agricultural, the yield of the press.
 
 ## Where the authorities disagree
 
-Three accounts of the difference, and they do not reduce to one. The column
-sets them out as three possible ways of differentiating the words and does not
-choose among them.
+Three possible ways of differentiating the words, and they do not reduce to
+one; none is chosen over the others.
 
 1. **By species.** Menachem Ibn Saruk defines *yitzhar* as olive oil, while
    *shemen* answers to *shuman* and *shamen*, fat, and names the fatty,
-   glyceride property of oil. On that basis the column argues, as its own
+   glyceride property of oil. On that basis Rabbi Klein argues, as his own
    inference rather than Ibn Saruk's stated distinction, that *yitzhar* means
    olive oil by definition and *shemen* may mean oil of any kind. The phrase
    *shemen zayis zach* implies as much from the other side: *shemen* alone does
@@ -71,8 +70,9 @@ choose among them.
 ### shemen (שמן)
 Close to two hundred occurrences with its derivatives, against roughly a tenth as
 many for *yitzhar*. Ibn Saruk's link to *shuman* fixes its sense as the fatty
-substance, which is why the Torah qualifies it for the Menorah: *shemen zayis
-zach*, pure olive oil, pressed and clear.
+substance, and Rabbi Klein takes the Torah's qualifying it for the Menorah,
+*shemen zayis zach*, pure olive oil, as a sign that *shemen* alone does not
+intrinsically mean olive oil.
 
 ### yitzhar (יצהר)
 Rabbi Yosef Kimchi (*Sefer HaGilui*) roots the word in *tzohar*, light. His son

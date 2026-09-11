@@ -49,26 +49,25 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Derech* is the **way** or **road**: broad, public, open to everyone, the
-general term, and the one that extends to conduct ("the way of Hashem").
-*Orach* is the **path**: short, narrow, seldom traveled (Vilna Gaon), the road
-that reaches the outlying towns and villages (Malbim). *Derech* and *orach* are
-not interchangeable. Pappenheim dissents: one road, *derech*
-its length, *orach* its width. Six more words fill out the cluster: *rechov* is the **street**
+*Derech* is the **way** or **road**: broad, public, open to everyone.
+*Orach* is the **path**: short, narrow, less commonly traveled (Vilna Gaon), the
+road that reaches the outlying towns and villages (Malbim). *Derech* and *orach*
+are not interchangeable. Pappenheim dissents: they can name one road, *derech*
+for its length, *orach* for its width. Six more words fill out the cluster: *rechov* is the **street**
 inside a town, against *derech* the road between towns; *netiv* is the
 **narrow path**, shorter or narrower than a *derech*, and in the Zohar's
 approach a private one open only to select individuals; *mesilah* is the
 **paved road**; *mishol* the **footpath**, for a man on foot; *maagal* the
 **circular path**, from *igul*, a circle; *shvil* the **downhill path**, from
 *shafel*, low. Of these six only the Zohar's reading of *netiv* carries a
-name; the rest are given as "some explain" and "others explain."
+name; the others are anonymous explanations.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | דרך | derech | way, road | wide and public, city to city (Vilna Gaon; Malbim); from *dorech*, to tread |
-| אורח | orach | path | short, narrow, seldom traveled (Vilna Gaon); reaches the outlying towns (Malbim) |
+| אורח | orach | path | short, narrow, less commonly traveled (Vilna Gaon); reaches the outlying towns (Malbim) |
 | רחוב | rechov | street | the road inside a town, against *derech* between towns ("some explain") |
 | נתיב | netiv | narrow path | shorter and/or narrower than a *derech* ("others explain"); private, for select individuals (Zohar) |
 | מסילה | mesilah | paved road | a paved road (no authority named) |
@@ -78,30 +77,29 @@ name; the rest are given as "some explain" and "others explain."
 
 ## Distinctions
 
-The first article sets out from Elul and the uptick in mussar it brings, and
-from the road words in the titles of the mussar sefarim themselves: *Orchos
-Tzaddikim*, "Ways of the Righteous"; *Mesillas Yesharim*, "Paths of the Just";
-*Derech Hashem*, "Way of God"; *Nesivos Shalom*, which it renders "The Lanes of
-Peace."
+Elul generally brings an uptick in the study of mussar, and several famous
+mussar sefarim take road words for their titles: *Orchos Tzaddikim*, "Ways of
+the Righteous"; *Mesillas Yesharim*, "Paths of the Just"; *Derech Hashem*, "Way
+of God"; *Nesivos Shalom*, "The Lanes of Peace."
 
 ### derech (דרך)
-Root ד-ר-ך, from *dorech*, to tread, which also means to tread the winepress
+Root ד-ר-ך, related to *dorech*, to tread, which also means to tread the winepress
 (Yeshayahu 63:2); Rashi (Devarim 33:29): to tread on one's enemies, to subdue
 them underfoot. Vilna Gaon: a *derech* is wide and open to the public. Malbim:
 both words are public, but the *derech* runs from major city to major city,
 province to province. The Zohar (Vayakhel 215a, Kedoshim 88a): the road to
-which everyone has access. Pappenheim: the same road as the *orach*, viewed
-for its great length. Rabbi Moshe Shapiro, from Rashi's treading: the *derech*
+which everyone has access. Pappenheim: it can be the same road as the *orach*,
+viewed for its great length. Rabbi Moshe Shapiro, from Rashi's treading: the *derech*
 is the path of life, strewn with trials that a man is expected to tread down
 and overcome; only so does he go forward on it.
 
 ### orach (אורח)
 Root א-ר-ח; Pappenheim derives it from the two letters ר-ח, width (*revach*,
-*rachav*). Vilna Gaon: short, narrow, not commonly used. Malbim: the road that
+*rachav*). Vilna Gaon: short, narrow, not as commonly used. Malbim: the road that
 reaches the outlying towns and villages. Rabbi Shlomo Aharon Wertheimer, after
-Malbim: because an *orach* breaks off the main road to lead more directly to a
-less-traveled destination, the tzaddik is said to guard the *orach* (Mishlei
-2:20), being exact in the details and not only the general route. The Zohar:
+Malbim, suggests that because an *orach* breaks off the main road to lead more
+directly to a less-traveled destination, the tzaddik is said to guard the *orach*
+(Mishlei 2:20), being exact in the details and not only the general route. The Zohar:
 an *orach* is a brand new road no one has trodden, which is why the righteous
 are tied to it: they bring novel Torah into the world and reveal Hashem's
 presence where it had not yet been revealed. Rabbi Tzvi Hirsch Shlez on Dan
@@ -113,41 +111,28 @@ Yeravam's calf, which barred the pilgrimage by decree, made the way a narrow
 he traveled; Pappenheim adds *aruchah*, the banquet given for a guest.
 
 ### rechov (רחוב)
-The street of a settled place. The second article gives this as one view among
-several, in the words "some explain," and names nobody for it: a *derech* is
-specifically an intercity road and a *rechov* specifically an intracity one.
-The line between them is therefore where the road runs, inside the town or
-between towns, and not its width or its surface.
+The street of a settled place. Some explain that a *derech* is specifically an
+intercity road and a *rechov* specifically an intracity one.
 
 ### netiv (נתיב)
-Two distinctions, both drawn against *derech*. First, "others explain" (again
-no name) that a *derech* denotes the longer and/or wider road and a *netiv*
-the shorter and/or narrower one. Second, an approach the article locates in
-the Zohar: a *derech* is open to the public, while a *netiv* is for private
-use and is open only to select individuals. That second reading sits close to
-what the Vilna Gaon and Malbim say of *orach*, but the article sets *netiv*
-only against *derech* and does not sort *netiv* against *orach*.
+Two distinctions, both drawn against *derech*. First, others explain that a
+*derech* denotes the longer and/or wider road and a *netiv* the shorter and/or
+narrower one. Second, an approach found in the Zohar: a *derech* is open to
+the public, while a *netiv* is for private use and is open only to select
+individuals.
 
 ### mesilah (מסילה)
-A paved road. Recorded only as what a *mesilah* "is said to refer
-specifically to a paved path," without naming who says it. What marks a
-*mesilah* off from its neighbors is thus the making of it, the labor that laid
-its surface, and not its length, its width, or who walks it.
+A paved road: a *mesilah* is said to refer specifically to a paved path.
 
 ### mishol (משעול)
-A pedestrian footpath, and the article gives no more than that and no
-authority for it. Where the other words in the cluster are sorted by width,
-by public access, or by surface, this one is sorted by who travels it: a man
-on foot.
+A pedestrian footpath.
 
 ### maagal (מעגל)
-A circular path, derived from *igul*, a circle. The derivation is the whole of
-the distinction the article draws, and it names no one for it.
+Explained as a circular path, derived from *igul*, a circle.
 
 ### shvil (שביל)
-Related to the word *shafel*, low, and so a path that
-has a steep incline, one that goes downwards. Here too the derivation and the
-sense come together, and no authority is named.
+Explained as related to the word *shafel*, low, and so a path that has a steep
+incline, one that goes downwards.
 
 ## Rendering guidance
 

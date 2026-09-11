@@ -36,12 +36,12 @@ Placing into a spot specifically designated for it, deliberately, as part of a
 larger plan or system, but with no implication about how long it stays. Rabbi
 Shlomo Pappenheim traces it to the biliteral ס-ם (sin and samech interchange),
 whose core sense is putting a thing in its place. From the same root he derives
-*samim* (potions and elixirs, kept in designated places), *bosem* and *besamim*
+*samim* (potions and elixirs, commonly kept in designated places), *bosem* and *besamim*
 (fragrances, commonly made from *samim*, though the beis is normally a radical
 in his system), and *osem* (Devarim 28:8, Mishlei 3:10), the storehouse where
-*samim* are kept. He also derives the Mishnaic *siman* ("sign") from it, a sign
+*samim* are commonly kept. He also derives the Mishnaic *siman* ("sign") from it, a sign
 being the means of placing things in their proper category (compare Yeshayahu
-28:25); others, the column notes, derive *siman* instead from the Greek *semeion*
+28:25); others derive *siman* instead from the Greek *semeion*
 ("sign, mark"), which is the etymon of the English "semantics" and "semiotics."
 
 ### shat (שת)
@@ -53,9 +53,10 @@ foundations of a building, laid to stay and to carry what is built on them
 *Cheshek Shlomo* he treats ש-ת as a standalone biliteral; in *Yerios Shlomo* he
 derives it from ש-א. The first *shat* in the Torah is Hashem's sentence on the
 snake, "I will place enmity between you and the woman" (Bereishis 3:15): had the
-pasuk said *sam*, the enmity would have been temporary; *shat* makes it lasting,
-and it lasts still. Sheis, Adam's youngest son, is named for *shat* (Bereishis
-4:25), Hashem having set mankind going again for the long term. After the Aron was
+pasuk said *sam*, Rabbi Pappenheim argues, the enmity would have been temporary;
+*shat* makes it lasting, and it lasts still. Sheis, Adam's youngest son, is named
+for *shat* (Bereishis 4:25); Rabbi Klein explains that Hashem, in giving Adam
+another son, had set mankind going again for the long term. After the Aron was
 hidden away, the Mishnah relates, the focus of the Kodesh HaKodashim was the stone
 called the *Even Shesiyah* (*Yoma* 5:2), which the Gemara (*Yoma* 54b) explains is
 the foundation stone from which the world was built.
@@ -91,9 +92,10 @@ failed to take the threat seriously.
 
 A separate reading: Rabbi Avraham Shick of Slonim (d. 1820) writes in *Eshed
 HaNechalim* (to *Shemos Rabbah* 32:2) that most times *shat* appears in Tanach it
-is in a negative context, the snake's curse being the first, while *sam* more
-often carries a positive or even neutral connotation. Whether that accounts for
-every instance of the two words, the column says, remains to be seen.
+is in a negative context, while *sam* more often carries a positive or even
+neutral connotation. The snake's curse, the first *shat* in Tanach, is a case in
+point. Whether that accounts for every instance of the two words remains to be
+seen.
 
 ## Rendering guidance
 

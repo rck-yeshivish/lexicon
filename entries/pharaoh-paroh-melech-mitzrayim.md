@@ -15,18 +15,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Paroh* is **Pharaoh**, a title, not a personal name. *Melech Mitzrayim* is **the King of Egypt**, the office
-in its national capacity. The Torah's choice between them is deliberate, and in
+*Paroh* is **Pharaoh**, a title, not a personal name. *Melech Mitzrayim* is **the King of Egypt**, on Rav
+Chaim Kanievsky's reading the office in its national capacity. The Torah's choice between them is deliberate, and in
 six places it writes both (*Paroh Melech Mitzrayim*).
 
 ## Distinctions
 
-The column takes its question from the author's fifth grade rebbe, Rabbi A. Y.
-Berman, who put it as the hundred-dollar question: why the Torah sometimes says
-*Melech Mitzrayim*, sometimes *Paroh*, and sometimes both.
+Rabbi Klein's fifth grade rebbe, Rabbi A. Y. Berman, put it as the
+hundred-dollar question: why does the Torah sometimes say *Melech Mitzrayim*,
+sometimes *Paroh*, and sometimes both?
 
 ### Paroh (פרעה)
-A title borne by every Egyptian king, not a name. Rashi (Tehillim 34:1; Ezra
+A title held by the King of Egypt, not a name. Rashi (Tehillim 34:1; Ezra
 6:14): every king of Egypt is called Paroh. Radak (Bereishis 26:9) is narrower:
 most Egyptian kings were so called. In some versions of Rashi's commentary he
 makes the point again at Bereishis 41:10, where the butler says "Paroh was angry
@@ -39,11 +39,11 @@ As to what the word means, Abarbanel (1437-1508) and Rabbi Avraham Menachem
 Rappaport (1520-1596) read it as a contraction marking the king's depravity,
 either *po'el ra*, doer of evil, or *peh ra*, bad mouth. Rabbi Eliezer ben
 Eliyahu Ashkenazi (1515-1585) claims in *Maaseh Hashem* that the Egyptians spoke
-Latin or Italian, and on that premise that Paroh means "master" in Italian; the
-column reports that after consulting experts it remains unable to confirm this,
-and that it is virtually a historical fact that the Egyptians spoke Egyptian,
-not Latin. Academia, the column adds, tends to explain that Paroh means "the
-great house."
+Latin or Italian, and on that premise that Paroh means "master" in Italian;
+Rabbi Klein reports that after consulting experts he remains unable to confirm
+this, and that it is virtually a historical fact that the Egyptians spoke
+Egyptian, not Latin. Academia tends to explain that Paroh means "the great
+house."
 
 ### Melech Mitzrayim (מלך מצרים)
 The King of Egypt, the office as the nation's head. It appears close to fifty
@@ -66,7 +66,8 @@ Yechezkel 29:2.
   *Paroh*, because that episode begins his personal decline, which ends at the
   sea. The exception is Bereishis 41:46, where Yosef stands before *Paroh Melech
   Mitzrayim*, to say that he kept his throne only because he took Yosef's
-  counsel. The column notes that this does not yield a rule covering every case.
+  counsel. Rabbeinu Bachya's explanation does not yield a rule covering every
+  case.
 - Rav Chaim Kanievsky, basing himself partly on Rabbeinu Bachya, offers a
   comprehensive discussion of all three usages: acting on behalf of the national
   interest, he is *Melech Mitzrayim*; acting out
@@ -83,7 +84,7 @@ reads Necho's name as earned: he was partially paralyzed, because having killed
 Yoshiyahu in battle he captured Shlomo's throne, and when he dared sit on it one
 of its lions struck him.
 
-*Sefer HaYashar*, which the column labels an apocryphal midrash, supplies more.
+*Sefer HaYashar*, which Rabbi Klein calls an apocryphal midrash, supplies more.
 Severus son of Anam (Bereishis 10:13 lists the Anamites among the descendants of
 Ham's son Mitzrayim) was king of Egypt when a Babylonian named Rakayon impressed
 him and his nation with his great wisdom; Severus renamed him "Paroh" and set him
@@ -92,9 +93,9 @@ appearing in public only once a year, and the Egyptians decreed that every futur
 king of Egypt bear the name Paroh. The Paroh of the generation after Yosef's
 death was Paroh Melol, who ruled ninety-four years; instead of *Melol Melech
 Mitzrayim* the Jews called him *Maror Melech Mitzrayim*, because he embittered
-(*maror*) their lives with slavery. The column notes here that Egyptologists have
-found that ancient Egyptian hieroglyphics used one glyph for the r-sound and the
-l-sound, and that some scholars identify Paroh Melol with Pharaoh Pepi II, whose
+(*maror*) their lives with slavery. Egyptologists have found that ancient
+Egyptian hieroglyphics used one glyph for the r-sound and the l-sound, and some
+scholars identify Paroh Melol with Pharaoh Pepi II, whose
 alternate name was Merire. Melol's successor was his son Paroh Adikam, also
 called Adikam Achuz because *achuz* means "short" in Egyptian and he stood one
 *amah* tall (see also Moed Katan 18a); he was a short, ugly fellow whose beard
