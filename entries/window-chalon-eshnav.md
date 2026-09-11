@@ -35,8 +35,8 @@ peephole (Rid), an enchanted window used for divination (Malbim to Shoftim, with
 (Malbim in *Yair Ohr*), a lattice (Menachem Ibn Saruk, Rabbi Moshe David Valle),
 a shuttered window (Rabbi Moshe Yitzchak Tedeschi Ashkenazi, and independently
 Dr. Shmuel Yeivin), or a window for the wind (Rabbi Aharon Marcus, Rabbi Baruch
-HaLevi Epstein, Rabbi Ernest Klein). The column does not choose. Modern Hebrew's
-*eshnav*, a service window, is a neologism.
+HaLevi Epstein, Rabbi Ernest Klein). Rabbi Reuven Chaim Klein does not choose.
+Modern Hebrew's *eshnav*, a service window, is a neologism.
 
 ## At a glance
 
@@ -65,10 +65,9 @@ window taken up below:
 3. **Latticed.** Menachem Ibn Saruk (920 to 970): the mesh or lattice openings
    on upper floors. Rabbi Moshe David Valle (1697 to 1777) similarly: wooden
    latticework that pampered women tied to their windows so they could look out
-   without being seen, the apparatus called in Latin *gelosia* (related, the
-   column notes, to the English word *jealous*). Valle then reads the word
-   itself as an abbreviation of *ishah nosenes b'chalonoseha*, "a woman places
-   [this] at her windows."
+   without being seen, the apparatus called in Latin *gelosia* (related to the
+   English word *jealous*). Valle then reads the word itself as an abbreviation
+   of *ishah nosenes b'chalonoseha*, "a woman places [this] at her windows."
 4. **Shuttered.** The Italian scholar Rabbi Moshe Yitzchak Tedeschi Ashkenazi
    (1821 to 1898), in *Hoil Moshe*: the root is ש-נ-ב, related through the
    interchange of nun and lamed to ש-ל-ב, "step" or "layer," so an *eshnav* is
@@ -79,26 +78,27 @@ window taken up below:
    images were said to depict the Canaanite fertility goddess Ashtoreth), the
    bottom half typically closed with mesh or lattice bars. On his view the
    Biblical *eshnav* is exclusively a window partly blocked with such blinds.
-   Rabbi Klein adds that, once the word is tied to ivory images of women at
-   windows, one could also consider parsing *eshnav* as a compound of "man"
-   (that is, woman) and "tooth" (that is, ivory).
-5. **For the wind.** Rabbi Aharon Marcus (1843 to 1916): by metathesis from
-   נ-ש-ב, the blowing of the wind, since opening a window lets the wind blow in.
-   Rabbi Baruch HaLevi Epstein (1860 to 1941) writes the same and adds that an
-   *eshnav* is specifically a window used for cooling. This is the etymology
-   preferred by the eminent linguist Rabbi Dr. Ernest Klein (1899 to 1983). The
-   column compares English *window*, derived from *wind*, and *fenster* (more
-   common in German and Yiddish), borrowed from Latin *fenestra*, "hole" or
-   "breach," whose sense resembles the explanation of *chalon* below.
+   Rabbi Reuven Chaim Klein adds that, once the word is tied to ivory images of
+   women at windows, one could also consider parsing *eshnav* as a compound of
+   "man" (that is, woman) and "tooth" (that is, ivory).
+5. **For the wind.** Rabbi Aharon Marcus (1843 to 1916) suggests that it comes,
+   by metathesis, from נ-ש-ב, the blowing of the wind, since opening a window
+   lets the wind blow in. Rabbi Baruch HaLevi Epstein (1860 to 1941) writes the
+   same and adds that an *eshnav* is specifically a window used for cooling.
+   This is the etymology preferred by the eminent linguist Rabbi Dr. Ernest
+   Klein (1899 to 1983). Rabbi Reuven Chaim Klein compares English *window*,
+   derived from *wind*, and *fenster* (more common in German and Yiddish),
+   borrowed from Latin *fenestra*, "hole" or "breach," whose sense resembles the
+   explanation of *chalon* below.
 6. **A lens.** Malbim, in his later work *Yair Ohr* (on synonyms): an *eshnav*
    is a window, mirror or lens that makes distant objects appear closer, and, as
    Malbim notes, making one requires somewhat advanced knowledge of optics.
    Rabbi Chaim Futernik points out that Malbim gives no source for this novel
-   interpretation. The column adds that the same explanation appears almost word
-   for word in two works by Rabbi Elazar Reines (d. 1903), *Shorashei Leshon
-   HaKodesh* and *Mishlei Shlomo*.
+   interpretation. The same explanation appears almost word for word in two
+   works by Rabbi Elazar Reines (d. 1903), *Shorashei Leshon HaKodesh* and
+   *Mishlei Shlomo*.
 
-These readings stand; Rabbi Klein does not choose among them.
+These readings stand; Rabbi Reuven Chaim Klein does not choose among them.
 
 **Which of the two was the enchanted window.** Malbim (to Mishlei 7:6) comments,
 somewhat cryptically, that through a *chalon* one sees what is revealed and
@@ -111,9 +111,9 @@ Yitzchak's wife and not his sister (see also *Tzror HaMor* to Bereishis 26:8,
 *Sefer HaIkkarim* 4:43, and Abarbanel and Alshich to Shoftim 5:28). On this
 basis Malbim (to Shoftim 5:28) writes that the *eshnav* was an enchanted window,
 made through witchcraft, by which Sisera's mother expected to see her son's
-fate, and the *chalon* an ordinary window. Rabbi Klein finds this somewhat
-difficult, since in Bereishis 26:8 Avimelech looks through a *chalon*, which
-suggests the *Zohar*'s enchanted window belongs to *chalon*, not *eshnav*. In
+fate, and the *chalon* an ordinary window. Rabbi Reuven Chaim Klein finds this
+somewhat difficult, since in Bereishis 26:8 Avimelech looks through a *chalon*,
+which suggests the *Zohar*'s enchanted window belongs to *chalon*, not *eshnav*. In
 fact Rabbi Shmuel Landiado of Aleppo (d. 1610), in *Kli Yakar* to Shoftim 5:28,
 writes the opposite of Malbim: the *chalon* was a mirror on the wall used for
 divination and the *eshnav* a real window in her room opening onto the street,

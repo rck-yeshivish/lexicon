@@ -16,11 +16,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Taking the Menorah as a symbol of wisdom (Bava Basra 25b), the column sets out
-the three terms of Jewish epistemology. *Chochmah* is **wisdom**: for Rashi,
-after the *Sifrei*, what one hears and learns from others, and Chazal's
-*chacham* gathers from every source; for Malbim, practical wisdom, the smart way
-of acting. *Binah* (with *tevunah*, which most use almost interchangeably) is
+Jewish tradition has long seen the Menorah as a symbol of wisdom (Bava Basra
+25b); the three terms together form the basis of Jewish epistemology.
+*Chochmah* is **wisdom**: for Rashi, after the *Sifrei*, what one hears and
+learns from others, and Chazal's *chacham* gathers from every source; for
+Malbim, practical wisdom, the smart way of acting. *Binah* (with *tevunah*, which most use almost interchangeably) is
 **understanding**, understanding one matter from within another (Chagigah 14a),
 building on what one already holds (a *navon* is **discerning**). *Daat* is
 **knowledge**, and its readings are many: grasping the reason behind a lesson
@@ -31,7 +31,7 @@ Friedlander); thinking of new ideas oneself (Rabbeinu Yonah); the certainty of
 what *binah* concludes (Malbim); and, for the kabbalists and Ramchal, the
 synthesis of the other two. Everyone agrees that *chochmah* is the *lowest* of
 the three (Shemos Rabbah 41:3; Rashi to Shabbos 31a); whether *binah* or *daat*
-ranks higher is disputed (Maharal against Maharsha).
+ranks higher is disputed (the Maharal against some sources, see Maharsha).
 
 ## Distinctions
 
@@ -53,7 +53,7 @@ Pappenheim (1740 to 1814): ח-כ is waiting or delaying, as in *mechakeh*
 fishing net one sets and waits by (Iyov 40:25; Yeshayahu 19:8; Chavakuk 1:15),
 so the *chacham* is the unhurried learner who waits to deliberate. He also
 derives *cheich*, the palate, from *chakah*, the open net resembling a mouth
-opened for food, and the column adds that Aramaic *chayach*, to smile, and
+opened for food, and Rabbi Klein adds that Aramaic *chayach*, to smile, and
 Modern Hebrew *chiyuch* likely come from *cheich*. Malbim: *chochmah* is
 practical wisdom, applying only where its opposite was possible, the
 intelligence that chooses the smart way of acting over the foolish one; true
@@ -68,11 +68,11 @@ learned. Bedersi: from *bein*, "between"; the *navon* applies relevant data and
 excludes the irrelevant, telling one datum from another, and so reaches new
 conclusions. Pappenheim: from ב-נ, building (*boneh*; *even* and *teven*,
 building materials; *ben* and *bas*; *avnayim*, the birthing stool); *binah*
-builds on an idea by applying it elsewhere and extrapolating. (English *maven*,
-the column notes, comes from *meivin* by way of Yiddish.) Malbim: the abstract
-counterpart of *chochmah*, the faculty that reads an allegory or solves a
-riddle, and works all one has perceived, by the senses or the intellect, into a
-logically sound conclusion. On another model, *chochmah* is the raw content of
+builds on an idea by applying it elsewhere and extrapolating. (English *maven*
+comes from *meivin* by way of Yiddish.) Malbim: the abstract counterpart of
+*chochmah*, the faculty that reads an allegory or solves a riddle, and works
+all one has perceived, by the senses or the intellect, into a logically sound
+conclusion. On another model, *chochmah* is the raw content of
 the Written Torah with its limitless planes of interpretation, *binah* the Oral
 Torah that processes and explains it, and *daat* the balance between them (the
 *Zohar*, see *Matok MiDvash* to Yisro 85a; the Vilna Gaon, *Biurei Aggados* to
@@ -99,32 +99,34 @@ understanding it.
 Root י-ד-ע. The Mishnah (Avos 3:17) makes *daat* and *binah* depend on each
 other. Rashi and Rabbi Ovadia Bartenura (1445 to 1515; see also Rashbatz):
 *binah* derives a new idea from a lesson and *daat* grasps the reasoning behind
-it, so each fails without the other, and at face value the two go hand in hand.
-Rashi gives two faces elsewhere: to Shemos 31:3 *daat* is *ruach hakodesh*, a
-lower form of prophecy; to Chagigah 12a, where *chochmah*, *tevunah* and *daat*
+it, so each fails without the other. At face value, then, it seems the two go
+hand in hand. Rashi gives two faces elsewhere: to Shemos 31:3 *daat* is *ruach
+hakodesh*, a lower form of prophecy; to Chagigah 12a, where *chochmah*, *tevunah* and *daat*
 head the ten qualities with which the world was created, it is reconciliation.
 Rabbi Shmuel Yaakov Burnstein (1946 to 2017) unites them: *daat* is connection
 (as "knowing" is intimacy, Bereishis 4:1, and kinship, Rus 2:1), joining all
 the pieces into one resolution where everything fits, and *ruach hakodesh* is a
-person connecting himself to Hashem and so seeing the whole. The column compares
-*Nefesh HaChaim* 1:6 (the *Eitz HaDaat* brings about the interconnection of good
-and evil) and the Vilna Gaon to Mishlei 2:5 (*daat* is the reconciling of
-contradictory ideas), and adds that connection presumes separation, which is
-why Havdalah is said in the blessing for knowledge: "if there is no *daat*, from
-where is there *havdalah*?" (Yerushalmi Berachos 5:2). Rabbi Chaim Friedlander
-(1923 to 1986): the connection is of intellect with emotion, knowledge fully
-internalised; Bedersi likewise ties *daat* to emotions and feelings. Rabbeinu
-Yonah (to Avos 3:17): the ability to think of new ideas independently (the
-column wonders whether he means the brain forging new connections). Malbim: the
-certainty of conclusions reached through *binah*.
+person connecting himself to Hashem and so seeing the whole. *Nefesh HaChaim*
+1:6 explains that the *Eitz HaDaat* brings about the interconnection of good and
+evil, and the Vilna Gaon to Mishlei 2:5 similarly makes *daat* the reconciling
+of contradictory ideas. Rabbi Klein adds that connection presumes separation;
+indeed Havdalah is said in the blessing for knowledge: "if there is no *daat*,
+from where is there *havdalah*?" (Yerushalmi Berachos 5:2). Rabbi Chaim
+Friedlander (1923 to 1986): the connection is of intellect with emotion,
+knowledge fully internalised; Bedersi likewise ties *daat* to emotions and
+feelings. Rabbeinu Yonah (to Avos 3:17): the ability to think of new ideas
+independently (Rabbi Klein wonders whether Rabbeinu Yonah means the brain
+forging new connections). Malbim: the certainty of conclusions reached through
+*binah*.
 
 Rank is disputed: some sources put *daat* above *binah* (see Maharsha to
 Kesubos 5a); the Maharal (*Chiddushei Aggados* to Kiddushin 30a and Avodah Zarah
 19b; *Tiferes Yisrael* ch. 56) puts *binah* above. The kabbalists (*Eitz Chaim*,
-*Shaar HaAmidah* ch. 11) match ChaBaD to *chesed*, *gevurah* and *tiferes*:
-*chochmah* is knowledge received from others, *binah* knowledge intuited from
-what one already knows with little outside input, and *daat* the balance that
-harmonises them, the product of raw *chochmah* processed through *binah*.
+*Shaar HaAmidah* ch. 11) match ChaBaD to *chesed*, *gevurah* and *tiferes*. By
+this model, Rabbi Klein explains, *chochmah* is knowledge received from others,
+*binah* knowledge intuited from what one already knows with little outside
+input, and *daat* the balance that harmonises them, the product of raw
+*chochmah* processed through *binah*.
 Ramchal (introduction to *Klach Pischei Chochmah*) calls *daat* the offspring of
 the two, and Rabbi Shaul Levi Mortera (1596 to 1660) writes that *chochmah* is
 acquired, *binah* natural, and *daat* their synthesis. Dr. Michael G. Samet, a

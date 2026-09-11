@@ -40,19 +40,21 @@ updated: 2026-09-10
 ## Bottom line
 
 *Yayin* is **wine**, by far the commonest. *Tirosh* is on an earlier tradition
-**new wine**, *yayin* being old (Ramban, Radak, *Tosafos Rid*, Rashi, Rabbi
-Pappenheim); Rav Hirsch and Rabbi Dr. Yehuda Felix make it juice not yet
-fermented, and the Vilna Gaon makes the difference sweetness and the hour of
-drinking, not age. In Rabbinic Hebrew *tirosh* came to mean a sweet, juicy
-product and specifically not wine. *Chemer* is **wine**, the ordinary Aramaic
+**new wine**, *yayin* being old (Ramban, Radak, *Tosafos Rid*, Rashi), a
+tradition Rabbi Pappenheim's etymology of *tirosh* reflects; Rav Hirsch and
+Rabbi Dr. Yehuda Felix make it juice not yet fermented, and the Vilna Gaon
+makes the difference sweetness and the hour of drinking, not age. In Rabbinic
+Hebrew *tirosh* came to mean a sweet, juicy product and specifically not wine.
+*Chemer* is **wine**, the ordinary Aramaic
 word; whether it is named for red (Rabbi Moshe Ibn Ezra, Rabbi Yehuda Ibn
 Balaam, with Radak tying it to wine's redness), for brown (Rabbi Aharon Marcus)
 or for fermentation (other linguists; Rav Hirsch) is disputed. *Shechar* is wine
 for the Nazir on the Targumim and the *Sifrei*; for Rabbi Moshe Ibn Ezra and Ibn
-Ezra it is any intoxicating drink, **strong drink**; in rabbinic usage it is
-mead or beer, not wine (Bedersi). Beside the four stand *sove*/*sava* (drunkard,
-and in Yeshayahu 1:22 wine), *assis* (**pressed juice**), *mel'ayah* and
-*dim'ah* (Shemos 22:28, disputed between wine, grapes and grain), and *smadar*
+Ezra it is any intoxicating drink, **strong drink**; in rabbinic usage it is a
+drink other than wine, usually mead or beer (Bedersi). Beside the four stand
+*sove*/*sava* (drunkard, and in Yeshayahu 1:22 wine), *assis* (**pressed
+juice**), *mel'ayah* and *dim'ah* (Shemos 22:28, disputed between wine, grapes
+and grain), and *smadar*
 (unripe grapes, though Dr. Edward Kutscher took it for a wine).
 
 ## At a glance
@@ -62,7 +64,7 @@ and in Yeshayahu 1:22 wine), *assis* (**pressed juice**), *mel'ayah* and
 | יין | yayin | wine | the default; old wine on the earlier tradition (Rashi, Ramban, Radak) |
 | תירוש | tirosh | new wine, grape juice | new wine (Ramban, Radak), sweet and weak (Pappenheim); pre-fermentation juice (Rav Hirsch); sweet afternoon wine (Vilna Gaon) |
 | חמר | chemer | wine, red wine | "red" turned noun (Rabbi Moshe Ibn Ezra, Ibn Balaam); standard in Aramaic |
-| שכר | shechar | strong drink | any intoxicant (Rabbi Moshe Ibn Ezra); wine for the Nazir (Targumim, *Sifrei*); beer or mead in Chazal (Bedersi) |
+| שכר | shechar | strong drink | any intoxicant (Rabbi Moshe Ibn Ezra); wine for the Nazir (Targumim, *Sifrei*); usually beer or mead in Chazal (Bedersi) |
 | עסיס | assis | pressed juice | named from the pressing (Rabbi Moshe Ibn Ezra) |
 
 ## Where the authorities disagree
@@ -73,7 +75,7 @@ that this does not explain the difference, or why the newer word did not simply
 supersede the older. *Machberes Menachem* defines *yayin* as *tirosh*. Rabbi
 Yosef Kimchi (1105 to 1170), in *Sefer HaGalui*, objects that nobody ever
 doubted what *yayin* meant, and that defining it by *tirosh* adds nothing and is
-incorrect, which suggests, the column infers, that he did not take them as
+incorrect, which to Rabbi Klein suggests that Rabbi Kimchi did not take them as
 perfect synonyms. Yoma 76b already treats them as two words for two aspects of
 the drink (below).
 
@@ -99,7 +101,7 @@ both names from the grape's side: *tirosh* from י-ר-ש, the wine "driven out"
 of the grape by force as a conquered land's inhabitants are (י-ר-ש being
 related to ג-ר-ש by the interchange of yod and gimmel), and *yayin* from י-נ-ה,
 to profit by deceit, since from the grape's point of view whoever presses it
-takes by underhanded means what belongs to it. The column does not choose.
+takes by underhanded means what belongs to it. Rabbi Klein does not choose.
 
 **Tirosh in Rabbinic Hebrew.** Though in Tanach *tirosh* is an alternate term
 for wine, in Rabbinic times popular speech used it for any sweet, juicy
@@ -137,9 +139,10 @@ redness is a special feature of wine, which he says is why Arabic *achmar*,
 Rabbi Aharon Marcus departs slightly: the core meaning is "brown," so *chemer*
 is wine's reddish-brown color, and *chamor*, the donkey, and *yachmur*
 (Devarim 14:5; Melachim I 5:3) are brownish beasts; the core is the biliteral
-ח-מ, source of *chum*, "brown," and *cham*, "hot" (what burns often turns
-brown), and he claims German *braun*, "brown," is related to *brennen*,
-"burning" (the column adds that the same could be said of the English
+ח-מ, source of *chum*, "brown," and *cham*, "hot" (the link between these two,
+Rabbi Klein suggests, may be that what burns in great heat often turns brown).
+Rabbi Marcus even claims German *braun*, "brown," is related to *brennen*,
+"burning" (and Rabbi Klein adds that the same could be said of the English
 cognates). Other linguists take ח-מ-ר as fermentation, which is why it yields
 both *chemer*, wine, and *chamirah*, sourdough; Rabbi David Chaim Chelouche
 (1920 to 2016), the late Chief Rabbi of Netanya, reads *nichmeru* (Bereishis
@@ -158,9 +161,9 @@ together into a new entity.
 ### yayin (יין)
 Over 140 appearances in its forms (*yayn* in construct). Yoma 76b: *yayin*
 alludes to *yelalah*, the wailing wine brings to the world; Rashi there explains
-that wine leads to promiscuity, which brings punishment, and links the word to
-*taaniyah va'aniyah*, "wailing and moaning" (Yeshayahu 29:2; Eichah 2:5). The
-same negative sense shows in the link between *yayin* and *onaah*, profiting by
+that wine often leads to promiscuity, which brings punishment, and links the
+word to *taaniyah va'aniyah*, "wailing and moaning" (Yeshayahu 29:2; Eichah
+2:5). The same negative sense shows in the link between *yayin* and *onaah*, profiting by
 cheating (Rashi to Yirmiyahu 46:16 and Rabbi Yosef Kara there). Menachem Ibn
 Saruk, Ibn Janach and Radak take the root as the triliteral י-י-ן; Rabbi
 Shlomo Pappenheim (1740 to 1814) takes both *yayin* and *onaah* from the
@@ -260,12 +263,12 @@ the tithes of *mel'ayah* and *dim'ah*. Targum Yonasan renders *mel'ayah* as
 *chamra*, and so Rabbi Shlomo of Urbino (*Ohel Moed*, a lexicon of synonyms)
 lists it as a word for wine; Rabbi Klein finds it fairly explicit elsewhere
 (Bamidbar 18:27) that *mel'ayah* means wine. *Midrash Chefetz* (to Shemos
-22:28) takes it as grapes, "filled" (*maleh*) with wine; Rashbam and Rabbi Yosef
-Bechor Shor take *mel'ayah* as grain (compare Devarim 22:9) and *dim'ah* as wine
-(or oil). Menachem Ibn Saruk: *dim'ah* is filtered wine without sediment, clear
-as tears (*dim'ah*). Either way, Rabbi Klein concludes, there seems to be at
-least one more Biblical word for wine (see *Torah Shleimah* to Shemos 22:28
-§478). *Smadar*: on the strength of Symmachus' Greek translation of Shir
+22:28) takes it as grapes, "filled" (*maleh*) with wine; other commentators,
+including Rashbam and Rabbi Yosef Bechor Shor, take *mel'ayah* as grain (compare
+Devarim 22:9) and *dim'ah* as wine (or oil). Menachem Ibn Saruk: *dim'ah* is
+filtered wine without sediment, clear as tears (*dim'ah*). Either way, Rabbi
+Klein concludes, there seems to be at least one more Biblical word for wine (see
+*Torah Shleimah* to Shemos 22:28 §478). *Smadar*: on the strength of Symmachus' Greek translation of Shir
 HaShirim 2:13, 2:15 and 7:13, Dr. Edward Kutscher claims it is a kind of wine;
 in the Mishnah (Orlah 1:7; Gittin 3:8) it clearly means unripe grapes, and that
 is its classic definition.

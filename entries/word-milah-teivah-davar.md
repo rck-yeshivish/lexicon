@@ -50,12 +50,12 @@ while *teivah* is written only.
 On the etymology there are two lines. Rabbi Shlomo Zalman of Hanau (1687 to
 1746) cites HaBachur's distinction and adds that *milah* comes from מ-ל-ל,
 "speech," the root of Sarah's *millel* (Bereishis 21:7) and of David HaMelech's
-*mi yemallel gevuros Hashem* (Tehillim 106:2). The column adds that *millel* is
+*mi yemallel gevuros Hashem* (Tehillim 106:2). Rabbi Klein adds that *millel* is
 the standard Targumic rendering of *amirah*, and that the Eretz Yisrael saying
 in *Megillah* 18a, a *milah* is worth a sela and silence two, sets *milah*
-against *shesikah*, which again puts it on the side of speech. On this reading,
-the column explains, a *milah* is the smallest unit of speech with a meaning of
-its own, as against the phonemes or syllables it is built from, and it compares
+against *shesikah*, which also implies that it refers to speech. On this
+reading, he explains, a *milah* is the smallest unit of speech with a meaning of
+its own, as against the phonemes or syllables it is built from, and he compares
 Greek *lego*, "to speak," the source of *lexis* and *logos*, "word."
 
 Rabbi Pappenheim takes a slightly different approach, to the biliteral מ-ל,
@@ -85,10 +85,11 @@ written word because the books that hold written words are stored in one.
 
 On the root: Ibn Janach (*Sefer HaShorashim*) gives ת-ב-ה; Radak (*Sefer
 HaShorashim*) mentions ת-י-ב as a possible alternative. Following Radak, Rabbi
-Yosef Teomim ties Aramaic ת-י-ב to Hebrew ש-ו-ב, "return" (the column notes the
-common shift of Hebrew shin to Aramaic tav): what a person stores in a *teivah*
-he means to come back for, unlike what he leaves on the floor. Rav Hirsch (to
-Bereishis 6:14) similarly reads it from Aramaic י-ת-ב, Hebrew י-ש-ב, sitting or
+Yosef Teomim suggests tying Aramaic ת-י-ב to Hebrew ש-ו-ב, "return" (a
+connection that, Rabbi Klein notes, may be justified by the common shift of
+Hebrew shin to Aramaic tav): what a person stores in a *teivah* he means to
+come back for, unlike what he leaves on the floor. Rav Hirsch (to Bereishis
+6:14) similarly suggests it comes from Aramaic י-ת-ב, Hebrew י-ש-ב, sitting or
 dwelling: the *teivah* was a temporary dwelling. Rabbi Klein suggests that
 perhaps *teivah* as "word" is then a place where letters are nestled. Rabbi
 Aharon Marcus (1843 to 1916) links *teivah* to *bayis* by metathesis, the same
@@ -113,7 +114,7 @@ brings *Shabbos* 58b, where sound-producing implements have the status of
 *davar* the thing to speech. The Aramaic *milta* has the same double sense,
 "word," as a cognate of *milah*, and "thing." Rabbi Matityahu Glazerson proposes
 that English *word* comes from *davar* by metathesis and the interchange of the
-w and b or v sounds; if he is right, the column adds, the same would hold for
+w and b or v sounds; if he is right, Rabbi Klein adds, the same could be said of
 German *wort*, Yiddish *vort*, and Latin *verb*.
 
 Mrs. Faigy Peritzman (*Mishpacha*, 1 April 2020) muses on how words box abstract

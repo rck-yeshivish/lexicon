@@ -69,8 +69,8 @@ Taken together, Rabbi Klein suggests, these passages indicate that *naar* and
 
 Rabbi Eliyahu Mizrachi (1455 to 1526) doubles down on the age sense, a boy
 between thirteen and thirteen and a half, but adds that in context the word can
-apply to someone outside that bracket who somehow resembles an actual *naar*.
-Rashi (to Bereishis 37:2) comments that the seventeen-year-old Yosef engaged in
+sometimes apply to someone outside that bracket who somehow resembles an actual
+*naar*. Rashi (to Bereishis 37:2) comments that the seventeen-year-old Yosef engaged in
 seemingly childish activities, fixing his hair and tending his eyes; Mizrachi
 explains that the Torah was not branding Yosef a *naar* but describing his
 behavior as *naar*-like, reason enough for the word though he was older.
@@ -121,8 +121,8 @@ their need to keep the pact hidden from Yonasan's father, King Shaul.
 From that link the commentators distinguish *almah* from *naarah* in various
 ways. *Peirush HaRokeach* explains that *almah* describes a girl less outgoing
 than *naarah* would indicate. So, Rabbi Klein suggests, Rivkah may already have
-reached the age of *naarah*, and even passed that technical stage (if she was
-fourteen), and still be an *almah*, because she was hidden from people.
+reached the age of *naarah*, and perhaps even passed that technical stage (if
+she was fourteen), and still be an *almah*, because she was hidden from people.
 *Peirush HaRokeach* adds that the word teaches how innocent and sheltered she
 was: she had never even been propositioned, something apparently uncommon for a
 girl her age at that time and place. Rabbeinu Efrayim ben Shimshon (to

@@ -55,8 +55,8 @@ Bereishis 4:23, Shemos 21:25, Yeshayahu 1:6 and Mishlei 20:30.
 skin; *chaburah* is the wound where blood collects underneath and does not
 emerge, showing as a red mark (Rashi to Shemos 21:25). The Vilna Gaon (to
 Yeshayahu 1:6, Mishlei 20:30) similarly: *petza* is an open wound or bleeding
-laceration, *chaburah* a bruise. As the column notes, all the
-etymologies of *petza* below account for this reading.
+laceration, *chaburah* a bruise. Rabbi Klein notes that the etymologies of
+*petza* below from "opening" and "cutting" all account for this reading.
 
 **Rav Saadia Gaon** (882 to 942), cited by Ibn Ezra after Rashi's view (long
 commentary to Shemos 21:25): *petza* is a **broken bone**, *chaburah* a
@@ -76,17 +76,17 @@ insubstantial," like a scratch.
 **Rashi against himself.** To Melachim I 20:37 he seems to equate the two, and
 his definitions of *petza* vary: sword or arrow (Bereishis 4:23), sword or knife
 (Yevamos 75a), any weapon (Shir HaShirim 5:7), sword (Sanhedrin 37b, Avodah
-Zarah 28a). The thread is something sharp or piercing, which is why Rashi
-defines *petza* as an open wound.
+Zarah 28a). It seems pretty clear that the thread is something sharp or
+piercing, which is why Rashi defines *petza* as an open wound.
 
 **The root of chaburah.** In light of Rashi, Malbim (to Yeshayahu 1:6) and Rabbi
 Shlomo Aharon Wertheimer (1866 to 1935) derive it from *chibbur*, "connection,"
-the blood pooling beneath the skin; the column places it with the other
+the blood pooling beneath the skin; Rabbi Klein places it with the other
 offshoots of ח-ב-ר, *chibbur*, *chaver* and *chover*, all sharing the sense of
-joining together. Alternatively, Rabbi Klein suggests, since a Hebrew root can
+joining together. Alternatively, he suggests, since a Hebrew root can sometimes
 carry both an idea and its opposite, ח-ב-ר may here mean "splitting," the body
 split open and no longer held closed; he notes this does not fit Rashi but can
-fit other commentators. Ibn Ezra's "attachment" of fluid is a third account.
+fit other commentators.
 
 ## Distinctions
 
@@ -101,7 +101,7 @@ Bereishis 4:11, Shemos 21:25) take it so, and Rav Hirsch notes that both are a
 *Shorashei Levanon*, relates *petza* to *botzea*, "cut open," as bread is cut in
 Rabbinic Hebrew, on the interchange of the labials pei and beis. Ibn Janach and
 Radak define *petza* with *bokea*, "breaking open"; though they do not say so,
-the column suggests they may have seen the two as related, through pei and
+Rabbi Klein suggests they may have seen the two as related, through pei and
 beis and through the neighbouring tzadi and kuf. Rabbi David Chaim Chelouche
 (1920 to 2016), the late Chief Rabbi of Netanya, connects *petza* with ב-ז-ע,
 *baza*, "to cut," in Aramaic and Arabic. Rav Hirsch elsewhere (to Shemos 18:21)
@@ -123,7 +123,7 @@ creature that has skin on Shabbos (Shabbos 14:1). The root ח-ב-ל carries
 plotting, rope, lot, pledge, a group of people, pain, and damage. Which of these
 is the direct parent of *chovel* is unclear, but pain and damage appear the
 likeliest, and Rabbinic *chaval*, "a pity," and Modern Hebrew *mechabel*,
-"terrorist," probably belong with them. Alternatively, the column suggests,
+"terrorist," probably belong with them. Alternatively, Rabbi Klein suggests,
 *chovel* may relate to "a group of people," as *chaburah* is a grouping of
 blood: the one who wounds causes the blood to group beneath the skin. Rabbi
 Yaakov Berger of Kiryat Sefer (*Milon Leshon Mikra*, unpublished) holds that the

@@ -18,9 +18,9 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The column asks what separates *es*, where it means "with," from *im*, and why
-Tanach uses now one and now the other. Both mean **with**. On both views the
-difference is whether the two parties stand as equals. The Vilna Gaon and
+*Es*, where it means "with," and *im* both mean **with**, and Tanach uses now
+one and now the other. On both views the difference is whether the two parties
+stand as equals. The Vilna Gaon and
 Malbim: *im* is "with" in the full sense, two equal and cooperative parties,
 while *es* does not connote equality: one party is dominant and active, the
 other passive. Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi Mecklenburg take
@@ -57,10 +57,11 @@ such equality and congruence. So Bilam was barred from joining Balak's effort
 to curse the people (*im*), permitted only to go physically with the men
 (*es*), and when he went *im*, with them in the fullest sense, he violated the
 directive. The Gra and Malbim both derive this from *es*'s ordinary grammatical
-use: in *achalta es halechem* the eater and the bread are not equal, so *es* in
-the sense of "with" marks an unequal pair, one dominant and active and the
-other passive. Malbim applies it to Lot: he came to Eretz Yisrael *itto* with
-Avraham (Bereishis 12:4), deferentially following his lead, and at the parting
+use of marking an object. Rabbi Klein illustrates with *achalta es halechem*,
+where the eater and the bread are not equal; likewise *es* in the sense of
+"with" marks an unequal pair, one dominant and active and the other passive.
+Malbim applies it to Lot: he came to Eretz Yisrael *itto* with Avraham
+(Bereishis 12:4), deferentially following his lead, and at the parting
 he is *imo* (13:14), having asserted his independence and tried to show that he
 was an equal.
 
@@ -81,8 +82,8 @@ for equals, until Eliezer took charge, explained his mission, and emerged as the
 leader. Yaakov's burial: Pharaoh's servants, the elders of his house and the
 elders of Mitzrayim went up *itto* with Yosef (Bereishis 50:7), as equals or
 near-equals, while the chariots and horsemen, far lower in rank, went up *imo*
-(50:9). Curiously, as the column notes, in his commentary on Bilam Rabbi
-Mecklenburg's approach mirrors the Gra's rather than his own general rule.
+(50:9). Curiously, in his commentary on Bilam Rabbi Mecklenburg's approach
+mirrors the Gra's rather than his own general rule.
 
 ## Rendering guidance
 

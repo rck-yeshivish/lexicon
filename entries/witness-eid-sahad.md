@@ -44,7 +44,7 @@ conduct toward people and *sahad* to piety before Hashem; for Rabbi Wertheimer,
 *eid* names how the witness knows and *sahad* how he relays it. *Eid* also means
 **warn** (Rabbi Shlomo Pappenheim; Shadal makes warning its primary role). One
 who dies al kiddush Hashem is called a *kadosh*, "holy," where the Syriac,
-Arabic and English words for a martyr all mean "witness"; the column reads that
+Arabic and English words for a martyr all mean "witness"; Rabbi Klein reads that
 difference as a statement about how Judaism views martyrdom.
 
 ## At a glance
@@ -81,27 +81,26 @@ Testimony connects an event to the one responsible for it. Rabbi Shlomo Ibn
 Parchon (twelfth century; *Machberes HeAruch*) derives *eid* from *adi*: as
 ornament marks a thing as special, testimony stands out from other speech in
 relaying important information. Rabbi Avraham Kobernick (*Hipuch Osiyos*)
-reads ע-ד as ד-ע, "knowledge," reversed, making the *eid* the one in the know,
-much as Rabbi Wertheimer's *vaad* does. Rabbi Wertheimer's explanation echoes
-Shadal (Rabbi Shmuel David Luzzatto, 1800 to 1865; to Bereishis 31:50 and
-Devarim 32:21, and *Bikkurei Ittim* 1829, pp. 194-196), who derives *eid* from a
-triliteral ע-ה-ד attested in Syriac but not in Tanach, meaning to remember,
-mention, warn, which he takes as the *eid*'s primary role, warning a sinner off a
-misdeed. Going a step further, he makes the core of that root the two letters
+writes that ע-ד can be viewed as ד-ע, "knowledge," reversed, making the *eid*
+the one in the know, much as Rabbi Wertheimer's *vaad* does. Rabbi Wertheimer's
+explanation echoes Shadal (Rabbi Shmuel David Luzzatto, 1800 to 1865; to
+Bereishis 31:50 and Devarim 32:21, and *Bikkurei Ittim* 1829, pp. 194-196), who
+derives *eid* from a triliteral ע-ה-ד attested in Syriac but not in Tanach,
+meaning primarily to remember, mention, warn, which he takes as the *eid*'s
+primary role, warning a sinner off a misdeed. Going a step further, he makes the core of that root the two letters
 ה-ד, to which Hebrew added an initial ayin and Aramaic an initial sin or samech,
 so that *eid* and *sahad* are etymologically related.
 
 **Whether sahad is related to sa'ad.** Rav Hirsch (to Tehillim 20:3) says yes:
 *sahad*, with sin or samech, is related to ס-ע-ד, "support," by the interchange
-of hey and ayin, since a witness's testimony supports one side of the case.
-Rabbi Yehudah Aryeh of Carpentras, an eighteenth-century grammarian and dayan,
-connects them similarly in *Ohalei Yehuda*, and also suggests *sahad* is a
-blend of *zeh*, "this" (sin or samech for zayin), and *eid*, which like Shadal
-relates the two words. In the edition of *Machberes Menachem* published by
-Herschell Filipowsky (1816 to 1872), Menachem defines *eid* as *sa'ad*, which
-fits Rav Hirsch; in the unpublished edition prepared by Professor Ángel
-Sáenz-Badillo (1940 to 2013), he defines it as *sahad*, which, the column notes,
-is less novel.
+of hey and ayin; a witness's role is to give testimony that could support one
+side of the case. Rabbi Yehudah Aryeh of Carpentras, an eighteenth-century
+grammarian and dayan, connects them similarly in *Ohalei Yehuda*, and also
+suggests *sahad* is a blend of *zeh*, "this" (sin or samech for zayin), and
+*eid*, which in some ways is like Shadal, since it too relates the two words. In
+the edition of *Machberes Menachem* published by Herschell Filipowsky (1816 to
+1872), Menachem defines *eid* as *sa'ad*, which fits Rav Hirsch; in the unpublished edition prepared by Professor Ángel
+Sáenz-Badillo (1940 to 2013), he defines it as *sahad*, which is less novel.
 
 ## Distinctions
 
@@ -138,15 +137,15 @@ Jewish term for one who dies for his faith is *kadosh*, plural *kedoshim*,
 "holy." Rabbi Klein reads the difference as telling. Christianity and Islam, he
 writes, are far more concerned with proving the truth of their beliefs, and so
 see a co-religionist's death as testimony to that truth; Judaism does not accept
-that willingness to die proves anything, since many people die for false ideas,
-and holds its truths to be self-evident, needing no such proof. Its focus is on
-what the death shows: that for this person Hashem and His word rise above
-everything, even his own life. The core of *kedushah* is separation, and Hashem
+that willingness to die proves anything, since many people fanatically believe
+all sorts of false ideas, and holds its truths to be self-evident, needing no
+such proof. Its focus is on what the death shows: that for this person Hashem
+and His word rise above everything, even his own life. The core of *kedushah* is separation, and Hashem
 is the ultimate *Kadosh* because He is different in kind from everything else;
 one killed *al kiddush Hashem* makes the ultimate declaration, but not proof, of
-Hashem's *kedushah*, and so is himself called *kadosh*. The column adds that
-terminology alone cannot capture these traditions fully, but calls the
-difference an important heuristic.
+Hashem's *kedushah*, and so is himself called *kadosh*. Rabbi Klein adds that
+language and terminology alone cannot fully capture these traditions, but calls
+the difference an important heuristic.
 
 ## Rendering guidance
 
