@@ -770,7 +770,13 @@ header.bare .brand{flex:1}
   .rows.en3 .r{grid-template-columns:minmax(0,1fr) auto 18px;grid-template-areas:"en h go" "cl cl go";row-gap:2px}
   .rows.en3 .en{grid-area:en}.rows.en3 .h{grid-area:h}.rows.en3 .cl{grid-area:cl}.rows.en3 .go{grid-area:go}
   .ac .row{grid-template-columns:76px minmax(0,1fr) 18px;gap:12px;padding:12px 14px}
+  /* A word's distinction line ran six lines on a phone. Two, with an ellipsis,
+     keeps the list scannable and the ellipsis itself says there is more. */
+  .rows .d{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 }
+/* Where the group line is a row's only text it is the row's content, not a
+   footnote, and in the faint grey it read as disabled. */
+.rows .tx > .cl:only-child,.ac .tx > .c:only-child{color:var(--dim);font-size:15px}
 .count{color:var(--faint);font-size:14px;margin:0 0 14px}
 
 /* entry ------------------------------------------------------------------- */
