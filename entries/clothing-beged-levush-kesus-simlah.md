@@ -72,12 +72,11 @@ separate derashos.
 *kesus* the draped covering. The Maharik (Rabbi Yosef Kolon) reverses the axis:
 *beged* is a plain cloth like a tallis, unfitted to its wearer, while *kesus* is
 a garment specially sewn to his shape and dimensions. Rabbi Shlomo Aharon
-Wertheimer is the one who points out that the two stand in contrast, and he
-leaves it there.
+Wertheimer is the one who points out that the two stand in contrast.
 
 **What kesus names.** Malbim: the manner of wearing, draped rather than donned.
-Rabbi Shlomo Pappenheim: the function, protection from heat and cold. Compatible,
-but not identical.
+Rabbi Shlomo Pappenheim: the function, protection from heat, cold or anything
+else.
 
 **simlah against salmah.** The consensus treats them as one word with the lamed
 and mem transposed. Ibn Ezra (to Shemos 22:25) dissents: *simlah* is the general

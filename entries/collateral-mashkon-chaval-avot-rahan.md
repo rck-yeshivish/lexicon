@@ -55,19 +55,19 @@ never surrendered. *Chaval* is taken, *avot* and *rahan* given.
 
 ## Where the authorities disagree
 
-**Whether chaval "take a pledge" is the same root as chevel "rope."** Menachem
-Ibn Saruk, Rabbi Yonah Ibn Janach, and Radak list ח-ב-ל as one root but keep its
-senses separate: rope, ship's captain (*rav-chovel*, the rope-master), region,
-band of people, birth pangs, injury, and taking a
-pledge do not explain one another. Rabbi Shlomo Pappenheim derives them all from
+**Whether chaval "take a pledge" is the same root as chevel "rope."** The early
+lexicographers, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach and Radak among them,
+derive *chaval* from ח-ב-ל but see the root's other senses, rope, ship's captain
+(*rav-chovel*, the rope-master), region, band of people, birth pangs, injury, as
+distinct from taking a pledge. Rabbi Shlomo Pappenheim derives them all from
 "rope": a rope measures (a *chevel* of land, *tachbulah*, measured counsel), and
 what is measured is partial (*chavlei*, localized pains; *chavalah*, partial
 damage; a *chevel* of people, a sub-group only partly reflecting the larger
 body), so *chaval* is an act of injuring the debtor by a measured incursion into
-his property to settle a debt. The
-column's sources converge on a practical result, that
-*chaval* carries force: Tedeschi-Ashkenazi sets it against *avot* as forcible
-against agreed, and Rashi reaches the after-the-fact taking from the halachah.
+his property to settle a debt.
+Tedeschi-Ashkenazi sets *chaval* against *avot* as forcible against agreed, and
+Rabbi Klein brings in support Rashi (to Shemos 22:25), for whom *chaval* is
+taking a pledge once payment has fallen due.
 Tedeschi-Ashkenazi has
 the creditor pulling the debtor's property into his own domain as by a rope, and
 also considers that *chaval* may be related to *chov*, debt, the two standing
@@ -82,15 +82,14 @@ read it as a portmanteau of the Aramaic *a'po te'hei ka'i*, "upon here shall you
 be," that is, a declaration to the creditor that he is to collect his debt from
 here, from this particular item.
 Rabbi Eliyahu HaBachur in *Meturgaman* cites that tradition as well but notes
-that the word is in fact Greek. The article follows him with Rabbi Dr. Daniel
-Sperber, whose *Dictionary of Greek and Latin Legal Terms in Rabbinic
-Literature* identifies it as the Greek ὑποθήκη (*hypotheke*), literally to put
+that the word is in fact Greek. Rabbi Dr. Daniel Sperber, in his *Dictionary of
+Greek and Latin Legal Terms in Rabbinic Literature*, likewise identifies it as
+the Greek ὑποθήκη (*hypotheke*), literally to put
 down or to pledge, built on the *hypo-* prefix, "down," familiar from
 *hypothesis*, *hypothetical* and the rest; the Latin *hypotheca* gives the
 English *hypothec*, which Merriam-Webster defines as an obligation, right or
 security given by contract or by operation of law to a creditor over the
 debtor's property without transfer of possession or title.
-The dispute is about origin, not meaning.
 
 ## Distinctions
 
@@ -101,12 +100,13 @@ prefixed mem, since the collateral dwells in the creditor's house until
 redeemed; the mem was then felt as a root letter, giving *lemashken*, to take or
 designate a collateral (Peah 8:8,
 Kesubos 11:3, Arachin 5:6, among a dozen other Mishnayos). Modern Hebrew
-*mashkanta*, a mortgage, descends from it. (The article adds, as an aside, that
-the English *mortgage* has a morbid history of its own, from the Old French
+*mashkanta*, a mortgage, descends from it. (The English
+*mortgage* has a morbid history of its own, from the Old French
 *mort*, dead, as in *mortal* and *mortuary*, plus *gage*, a pledge or security.)
 
 ### chaval (חבל)
-Root ח-ב-ל. The Torah's word wherever a creditor's taking is restrained: a
+Root ח-ב-ל. The Torah's word in several of its restrictions on a creditor's
+taking: a
 blanket taken as pledge must be returned nightly (Shemos 22:25); a millstone or
 other food-preparing utensil may not be taken (Devarim 24:6), nor a widow's
 garment (24:17). Rashi (to Shemos 22:25): taking a pledge to pay off a debt once

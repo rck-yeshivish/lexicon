@@ -25,9 +25,7 @@ quantity, and having more than enough does not disqualify it (Rabbi Shlomo
 Pappenheim). *Tam* / *tamim* is **whole** in quality: an exact match with
 nothing missing and nothing extra (Rabbeinu Bachaya; Pappenheim); of a korban
 **unblemished**, of a person **wholehearted** or **wholesome**, of the Torah
-**perfect**. *Shleimus* is **completeness** or **wholeness**, not a ceiling
-reached: *shalem*, on Pappenheim's definition, says only that nothing is missing
-and leaves room for more; that last step is ours, not the column's.
+**perfect**. *Shleimus* is **completeness** or **wholeness**.
 
 ## Distinctions
 
@@ -49,8 +47,8 @@ appeased. Pappenheim: the word runs across the spiritual (a tzaddik), the
 physical (an unblemished animal, Vayikra 1:3, 22:21; the redness of the parah
 adumah, Bamidbar 19:2), and the quantitative (a full measure); it also names
 the innocent, "wholesome" man whose knowledge is complete to him and who
-seeks nothing beyond it, hence the *tam* of the Haggadah, the simpleton. (The
-column notes in passing the *whole* inside the English *wholesome*, a semantic
+seeks nothing beyond it, hence the *tam* of the Haggadah, the simpleton. (Rabbi
+Klein notes in passing the *whole* inside the English *wholesome*, a semantic
 affinity with *tam*.) The Zohar (Bamidbar 165b) ranks *tam* above *tamim*. On
 "be *tamim* with Hashem" (Devarim 18:13), coming after the ban on augury,
 divination, sorcery and necromancy: innocent and wholesome, not appealing to
@@ -58,7 +56,7 @@ outside forms of wisdom such as the dark arts to know the future; the Kedushat
 Levi does not read *tamim* as "wholesome" here at all, but as completeness of
 trust in Hashem, seeing Him as the One who always supplies whatever is lacking.
 Onkelos there renders *shelim*, an Aramaic cognate of *shalem*, and Sefer
-HaBahir (137) uses that to prove that *tamim* means *shalem*, which the column
+HaBahir (137) uses that to prove that *tamim* means *shalem*, which Rabbi Klein
 takes to suggest that the two are synonymous, at least colloquially.
 
 ### shalem (שלם)
@@ -80,7 +78,7 @@ Rabbi Shlomo Aharon Wertheimer takes a similar approach but differs: *shalem*
 is exclusively quantitative, while *tam* is qualitative completion that
 *includes* the quantitative. Rabbi Avraham Bedersi seems to understand both
 words as completion, but *shalem* as a neutral word carrying no value judgment
-and *tam* as a positive form of completion. And if the column has understood him
+and *tam* as a positive form of completion. And if Rabbi Klein has understood him
 correctly, Rabbi Shimon Dov Ber Analak of Siedlce holds that *tam* is completion
 in one particular aspect and not necessarily in all, while *shalem* implies a
 more overall completion, as Yaakov came to Shechem *shalem* (Bereishis 33:18)
@@ -90,7 +88,7 @@ realm, not the physical, intellectual or financial.
 The commentators are bothered by *vayitmu*, "and the days of weeping in mourning
 for Moshe were finished" (Devarim 34:8), which uses a
 cognate of *tam* for the closing of a fixed count of days, a quantitative
-measure. The article leaves two answers standing. One may accept Rabbi
+measure. Rabbi Klein leaves two answers standing. One may accept Rabbi
 Wertheimer's supposition that *tam* covers quantitative completion as well as
 qualitative, while *shalem* covers only the quantitative. Or one may answer that
 the completion here is not of the days but of the quality of the mourning:

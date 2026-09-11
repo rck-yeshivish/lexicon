@@ -18,10 +18,8 @@ updated: 2026-09-10
 *Anan* is the plain, general **cloud** (close to a hundred times in Tanach).
 *Av* is the **thick cloud** that darkens the sky. *Eid* is the **rising vapor**
 or mist that clouds are formed from. *Nasi* is the **rain cloud** that carries
-and lifts water. *Chaziz* is the **thundercloud** that comes with lightning.
-Chazal count these five as the words for cloud; four of them are not
-interchangeable descriptions but different states of cloud, and the Midrash is
-counting five names on purpose.
+and lifts water (Pappenheim). *Chaziz* is the **thundercloud** that comes with
+lightning (Pappenheim). Chazal count these five as the words for cloud.
 
 ## Distinctions
 
@@ -34,7 +32,7 @@ market.
 The unmarked term: *anan* and its forms
 come close to a hundred times in Tanach, seventeen of them in Behaaloscha, more
 than in any other parashah. Chazal: clouds are *ananim* because the rain they bring makes
-people *anavim*, humble with one another, since a surplus makes men deal fairly
+people *anavim*, humble with one another, since in a surplus people tend to deal fairly
 where scarcity makes them compete; alternatively because it makes them *aniyim*,
 poor, in the sense that uneven rainfall leaves everyone dependent on barter and
 nobody self-sufficient. Rabbi Shlomo Pappenheim: the root is the single letter
@@ -65,20 +63,20 @@ way of נ-ד, *nadud*, being separated from home, *nod* being the gear one takes
 along.
 
 ### nasi (נשיא)
-Literally "prince." Chazal: clouds play kingmaker, since whose field gets rain
-decides who prospers, so Tanach can call them *nesiim* (Tehillim 135:7, Mishlei
-25:14).
+Literally "prince." Chazal: clouds play a sort of kingmaker, since whose field
+gets rain decides who prospers; because they appear to choose the "princes,"
+Tanach sometimes calls them *nesiim* (Tehillim 135:7, Mishlei 25:14).
 Pappenheim: the root is ש-א, carrying or lifting, either because these clouds
 carry rainwater from place to place, or because they are light enough to rise,
-as against heavy clouds that come down as fog.
+as against heavy clouds that tend to come down like fog.
 
 ### chaziz (חזיז)
 Iyov 28:26, Zechariah 10:1. Chazal: from *chazon* and *chezyonos*, sight, since
-the rain produces flora of many different appearances; others, because Hashem
+the flora that grow from the rain might be colored differently; others, because Hashem
 sends such clouds as signs in Heaven for man to read. Pappenheim: the root ח-ז is
 comprehension through sight or imagination, and *chazizim* are specifically the
 clouds that come with thunder, tied to sight because they flash lightning.
-*Sefer HaChochmah*: colorful clouds, at which the article registers open
+*Sefer HaChochmah*: colorful clouds, at which Rabbi Klein registers open
 surprise. The Zohar draws the parallel between rain,
 a physical Divine influx, and nevuah, a spiritual one.
 
@@ -94,7 +92,7 @@ commentators, Rashi among them, and
 by *Midrash Chuppas Eliyahu Rabbah*, which counts six synonyms; *Metzudas Tzion*
 explains that clouds are a *kippah* over one's head. Pappenheim and others
 dissent, taking *kapayim* as the sky as a whole. Rabbi Yaakov Chaim Sofer points
-to an eighth: *Peirush HaRokeach* on Bereishis 49:25 reads *shadayim* there as
+to an eighth possible synonym: *Peirush HaRokeach* on Bereishis 49:25 reads *shadayim* there as
 clouds emptying out water the way a nursing mother's breasts empty out milk.
 
 ## Rendering guidance

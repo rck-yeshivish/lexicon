@@ -18,14 +18,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tzaakah* and *zaakah* both mean **to cry out**, and most authorities treat them
-as one word with two interchangeable opening letters (Rashi, Ramban, the Zohar,
-Rabbi Shlomo Pappenheim). *Shaavah* is not the same: it is **a cry for help**, and Rabbi Yehuda
+*Tzaakah* and *zaakah* both mean **to cry out**, and Rashi, Ramban, the Zohar,
+Rabbi Shlomo Pappenheim and others treat them as one word with two
+interchangeable opening letters. *Shaavah* is not the same: it is **a cry for help**, and Rabbi Yehuda
 Leib Shapira-Frankfurter holds it is addressed only to Hashem. In *tzaakah*
 and *zaakah* the sufferer voices his pain, while in
-*shaavah* he asks outright to be saved (Rabbi Yaakov Tzvi Mecklenburg). Where a
-minority does separate *tzaakah* from *zaakah*, *tzaakah* is the graver of the
-two.
+*shaavah* he asks outright to be saved (Rabbi Yaakov Tzvi Mecklenburg). Among those who
+do separate *tzaakah* from *zaakah*, Rabbi Shlomo Aharon Wertheimer and Malbim
+make *tzaakah* the graver of the two.
 
 ## Distinctions
 
@@ -45,7 +45,7 @@ Midrash is entirely justified, since Tanach practically uses the same word for
 both, even though the Torah writes *tzaakah* there and Megillas Esther *zaakah*
 here.
 
-### tzaakah and zaakah: the minority who separate them
+### tzaakah and zaakah: those who separate them
 Rabbi Elazar Rokeach of Worms, the late twelfth century Ashkenazic scholar,
 holds they are not synonyms: *zaakah* is a cry
 that lodges a complaint, and *tzaakah* is not; and *zaakah* implies multiple
@@ -63,7 +63,7 @@ the prisoner and the deathly ill man with *zaakah*.
 - Rabbi Shlomo Aharon Wertheimer: the Midrash understands the four as the four
   kingdoms that would subjugate Yisrael, Bavel, Persia/Media, Greece and Rome,
   and asserts that the first and last of them, Bavel and Rome, were more
-  detrimental to Yisrael than the middle two (the column adding, as its own
+  detrimental to Yisrael than the middle two (Rabbi Klein adding, as his own
   guess, that this is probably because both destroyed the Beis HaMikdash and
   exiled the Jews from Yerushalayim). From this Rabbi Wertheimer deduces that
   *tzaakah* denotes the more intense crying out, indicating a more serious

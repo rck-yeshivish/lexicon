@@ -39,9 +39,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Sofer* / *sefirah* is a count where each unit is marked and matters in itself,
-and *mispar* is a number that sets a limit. *Moneh* / *minyan* is a count whose
-point is the total; the single unit carries nothing. *Sefirah* is **counting**,
+On Rabbi Yaakov Tzvi Mecklenburg's reading, *sofer* / *sefirah* is a count where
+each unit is marked and matters in itself, and *mispar* is a number that sets a
+limit. *Moneh* / *minyan* is a count whose point is the total; the single unit is
+not necessarily significant on its own. *Sefirah* is **counting**,
 with qualitative weight where the sense is the daily obligation; *moneh* is to
 **count** or **tally**, and *minyan* a **tally** or, in the shul sense, a
 **quorum**. The Torah's choice of *sofer* for *Sefiras HaOmer* is deliberate,
@@ -62,18 +63,14 @@ and it differs from the *moneh* of the Kohen Gadol's sprinklings.
 **Which word is general and which is specific.** The Vilna Gaon: *minyan* is the
 count in general, *mispar* the particular number arrived at. Rabbi Wertheimer
 runs it the other way, bringing evidence that *mispar* is the general number and
-*mifkad* the word for a specific count. The article offers all of this with the
+*mifkad* the word for a specific count. Rabbi Klein offers all of this with the
 caveat that these are possible ideas and none of them hard and fast answers.
-This guide's own reading is that the two cannot both stand as they are put, so
-the Bottom line leans on Rabbi Mecklenburg's contrast, which is the one that
-speaks directly to the Torah's choice of word, and leaves the
-general-versus-specific question open.
 
 **Whether mispar and minyan are distinguished at all.** Rabbi Shlomo Pappenheim
 of Breslau ties *mispar* to *sippur*, a story: the parts of a story follow one
 another in their own order, and so do the numbers of a count, one not saying
 random numbers any more than one tells a story out of unrelated incidents. Even
-so, as the article notes, this approach ostensibly does not account for how
+so, as Rabbi Klein notes, this approach ostensibly does not account for how
 *mispar* differs from *minyan*, which is the question at hand.
 
 ## Distinctions
@@ -85,14 +82,14 @@ mesorah gives as thirty-nine; the Aramaic *sfar* is a nation's border, which
 limits its territory, and the Aramaic *sapar* is a barber, who limits the growth
 of the hair. On this reading the Torah says *tisperu* for the Omer (Vayikra
 23:15-16) because that counting is itself bounded, running only until the morrow
-of the seventh week. Mecklenburg adds a second dimension: *sefirah* is not the
+of the seventh week. Mecklenburg suggests a second dimension: *sefirah* is not the
 bare recitation of numbers but a count in which each unit calls for something
 extra, a count of quality as well as quantity. The goal of a *sefirah* count is
-not the raw numbers but improving oneself, cleansing oneself of impurities; and
+not just the raw numbers but also improving oneself, cleansing oneself of impurities; and
 he connects *sefirah* to *sapir*, the sapphire, since the counting cleanses a
 person as a precious gem is free of impurities.
 
-The name *Sefiras HaOmer* comes, the column explains, from the count's joining
+The name *Sefiras HaOmer* comes from the count's joining
 the annual barley offering brought on the second day of Pesach, the *Korban
 Omer*, to the annual wheat offering of Shavuos. And halachically each day of the
 Omer may be reckoned a separate mitzvah, so that one who misses a whole day
@@ -100,7 +97,7 @@ continues counting, though without a berachah. Many have used the forty-nine
 days for a forty-nine step scheme of character development, or for the ways of
 acquiring Torah listed in the sixth perek of Avos, or for a forty-nine daf
 masechta such as *Sotah* or *Shevuos*. On that model the point of the counting
-is not only the destination of Shavuos but the days themselves: if a man works
+is not necessarily only the destination of Shavuos but the days themselves: if a man works
 each day at becoming better, then not only the final count has significance but
 every single day. That is exactly what a *moneh* count is not.
 
@@ -110,12 +107,11 @@ that what enters a *moneh* count is by definition worth counting. Its character
 is that the sum alone is the requirement: the ten men needed for the parts of
 davening that call for a quorum, or the seven sprinklings the Kohen Gadol makes
 toward the Kodesh HaKodashim, which the Yom Kippur liturgy describes with
-*moneh* and not *sofer*. No individual man and no individual sprinkling carries
-weight on its own.
+*moneh* and not *sofer*. No individual man and no individual sprinkling necessarily
+carries weight on its own.
 
 ### mifkad (מפקד)
-Root פ-ק-ד. A third family for counting and numbering, which the article names
-and expressly defers.
+Root פ-ק-ד. A third family for counting and numbering, *poked*/*mifkad*.
 
 ## Rendering guidance
 

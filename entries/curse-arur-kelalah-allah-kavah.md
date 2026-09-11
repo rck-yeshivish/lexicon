@@ -19,18 +19,17 @@ updated: 2026-09-10
 specified, calling down whatever may come (the Vilna Gaon and Rabbi Mecklenburg;
 Malbim runs *arur* the other way, see below). *Kelalah* is the weaker word, rooted
 in *kal*, light: **disparagement**, or a **curse** that must name what it wishes
-on its target. *Allah* is the curse that either invokes Hashem by name or is laid
-down conditionally: **oath-curse, imprecation**. *Kavah* is the curse pronounced
+on its target. *Allah* is the curse that invokes Hashem by name (Radak) or, for Rabbi
+Mecklenburg, one laid down conditionally: **oath-curse, imprecation**. *Kavah* is the curse pronounced
 in public with the victim named outright. *Arur* and *kelalah* are not one
-word; Shemos 22:27 uses both of them in a single pasuk, and the switch is the
-whole point.
+word; Shemos 22:27 uses both of them in a single pasuk.
 
 ## Distinctions
 
 ### arur (ארור)
 The Vilna Gaon: *arur* is the true and intense curse, which is why the Torah uses
 it for cursing a king. A king's powers are more overreaching than a judge's, so
-he can hurt a man more, the more so as kingship is commonly an inherited
+he can potentially hurt a man more, the more so as kingship is commonly an inherited
 position and the king's moral standing is generally beside the point; a man
 gravely mistreated by him may be tempted to curse him in earnest and not merely
 to disparage him.

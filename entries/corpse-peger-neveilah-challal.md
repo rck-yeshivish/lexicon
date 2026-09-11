@@ -20,7 +20,7 @@ of a rasha. *Neveilah* is a **carcass**, an animal that died without shechitah,
 and by the same authority it can name a human body too, but only one killed by
 an outside force. *Challal* literally means **empty** or **cavity**: a body
 emptied of its soul is like an empty vessel. *Neveilah* in a halachic passage
-is a technical term, and *peger* carries a note of contempt.
+is a technical term.
 
 ## Distinctions
 
@@ -35,7 +35,7 @@ wicked man. He allows one exception, Bereishis 15:11, where *peger* names the
 animal carcasses of the Bris bein HaBesarim; Rashi there writes that *peger* is
 related to *pigul*, disgusting, and other commentators note that reish and lamed
 are sometimes interchanged. Rabbi Shlomo Pappenheim maintains that *peger* is a
-portmanteau of *po gar*, "here he lives," but does not elaborate; the column
+portmanteau of *po gar*, "here he lives," but does not elaborate; Rabbi Klein
 suggests this possibly refers to the dead body being immobile, unable to move
 elsewhere, so that it lives in its place for eternity. In Aramaic the root
 פ-ג-ר carries inactivity or at least lagging behind: a festival is a *yoma

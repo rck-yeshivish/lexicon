@@ -21,12 +21,12 @@ updated: 2026-09-10
 *Keter* is the **royal crown**: all three appearances in Tanach are in the phrase
 *keser malchus* (Esther 1:11, 2:17, 6:8), and by the Malbim it sits around the
 head without rising above it, a coronet. *Atarah* is the general **crown** or
-**wreath**, of any wearer, and it encircles the head and rises above it. *Nezer*
+**wreath**, of any wearer, and it encircles the head and rises above it
+(Malbim). *Nezer*
 is the crown of **consecration and separation**, worn by the nazir and the Kohen
 Gadol, which is why the word marks a man off as set apart, not merely as
 honored. Some hold *keter* is the general word and the other two are particular
-kinds, but most read all three as distinct kinds; *nezer* sometimes means the
-state of being set apart.
+kinds, but most read all three as distinct kinds.
 
 ## Distinctions
 
@@ -63,8 +63,8 @@ Rabbi Yaakov Tzvi Mecklenburg derives *kallah*, a bride, from it: as a crown
 wholly surrounds the head, a *kallah* is wholly surrounded by her ornaments and
 jewelry. *Tag* or *taga* is a fifth word for crown, the one used in rabbinic
 idiom, and is the word for the *tagin*, the crownlets drawn atop certain letters
-in a sefer Torah. The article reports that linguists claim *tag* to be a Persian
-loanword later taken into Aramaic, and adds an aside of its own: given that a
+in a sefer Torah. Linguists claim *tag* to be a Persian
+loanword later taken into Aramaic, and Rabbi Klein adds an aside of his own: given that a
 crown marks its wearer out as special, one can easily see how the Aramaic *tag*
 became the English "tag," which also serves as a marker of sorts.
 

@@ -24,21 +24,21 @@ updated: 2026-09-10
 
 *Peah* is the broad **corner** or **side** of an area, and in most pesukim
 simply a **direction** (Onkelos: *ruach*). *Keren* is a **horn**, and a corner
-only where something juts out, chiefly the corners of the Altar. On Rabbi
-Pappenheim's distinction, as the column reads him, *zavit* is the
-inside of a corner and *pinah* is the outside of it, and by extension a
-**prominence** or **cornerstone**, so *pinah* often means a cornerstone or a
-leading man rather than a corner. *Miktzoa* is the sharp **angle** where two
-sides meet at a point; *katzeh* is the **edge/end**, a right-angled corner.
-Onkelos renders *peah*, *pinah*, *miktzoa*, *katzeh* and *paam* all as *zavit*,
-which flattens the Hebrew.
+as something that juts out (Malbim), in Tanach the corners of the Altar. On Rabbi
+Pappenheim's distinction, if Rabbi Klein has understood him correctly, *zavit* is
+the inside of a corner and *pinah* is the outside of it, whence leaders are
+*pinos*; for Mordechai Zer-Kavod the primary sense of *pinah* is not "corner" at
+all but a raised place, a **prominence** (hence the **cornerstone**). *Miktzoa* is
+the sharp **angle** where two sides meet at a point; *katzeh* is the
+**edge/end**, a right-angled corner. Onkelos renders *pinah*, *miktzoa*, *katzeh*
+and *paam* as *zavit*, and *peah* too at the corners of the Shulchan.
 
 ## Distinctions
 
 ### peah (פאה)
 The commonest biblical word for corner, roughly eighty-five occurrences, but in
 most of them it names a cardinal direction (Shemos 27:9; Bamidbar 35:5), usually
-alongside a word for north, south, east or west, where Onkelos gives
+alongside a word for north, south, east or west, where Onkelos generally gives
 *rucha*/*ruach*; only in the four instances where it means "corner" proper (the
 *peah* of the head and of the beard, Vayikra 19:27, and the *peah* of the field,
 Vayikra 19:9, 23:22) does he leave it untranslated. For the four rings on the
@@ -76,7 +76,7 @@ leave them overflowing with the good things of the spoil, as the corner of the
 Altar overflows with wine. Alternatively, that in defeating their enemies they
 will figuratively drink their blood, spilled as abundantly as the wine that
 overflows the Altar's corners (Radak and Mahari Kara there). Onkelos uses
-*zavit* as his standard rendering for every other corner word. Pappenheim links
+*zavit* to render several of the other corner words. Pappenheim links
 *zavit* to *ziv* (radiance), and offers two ways of making the connection. The
 first, as Rabbi Yehoshua Steinberg of the Veromemanu Foundation explains him,
 seems to be that turning a corner is a change of direction, and a shiny thing
@@ -84,7 +84,7 @@ likewise makes one change direction by drawing the eye to it. In a separate
 discussion he seems to give a slightly different account: light bouncing off a
 shiny object toward the eye travels at an angle, and so produces a corner. He
 also claims that Iyar was originally called Ziv (Melachim I 6:1) because in that
-month the sun somehow turns a corner, which the column suggests, with a question
+month the sun somehow turns a corner, which Rabbi Klein suggests, with a question
 mark, may mean its ushering in the new season of spring.
 
 The last of Haman's ten sons was named Vayzasa (Esther 9:9), an anagram of
@@ -101,15 +101,15 @@ a semantic redundancy, since *keren* already means corner and so does *zavit*.
 
 ### pinah (פינה)
 Twice in the Chumash, both for the corners of the Altar (Shemos 27:2, 38:2),
-where Onkelos gives *zavit*, and twenty-eight more times in Tanach. If the
-column has understood him correctly, Pappenheim distinguishes the two thus:
+where Onkelos gives *zavit*, and twenty-eight more times in Tanach. If Rabbi
+Klein has understood him correctly, Pappenheim distinguishes the two thus:
 *zavit* is the inner face of a corner, *pinah* the outer. Stand inside the room
 and it is a *zavit*; stand in the street and the same corner is a *pinah*. Hence
 a *pinah* must be built stronger than the rest, being exposed, and hence leaders
 are *pinos* (Shoftim 20:2; Shmuel I 14:38), men required to be of better quality
 than the rest. He derives it from PEH-NUN, "front/surface," the root of *panim*
 and of *panah*, to turn and face: at a *pinah* one must turn to keep following
-the perimeter; *peninim* (precious stones) he reads the same way, a gem cut so
+the perimeter; *peninim* (precious stones) he suggests reading the same way, a gem cut so
 its faces and their corners show. Rabbi David Chaim Chelouche (1920 to 2016),
 late Chief Rabbi of Netanya, traces both *peah* and *pinah* to the single letter
 PEH, "end/edge" (with an added alef in *peah* and an added nun in *pinah*),
@@ -126,7 +126,7 @@ prominently placed.
 ### miktzoa (מקצוע)
 Root ק-צ-ע, which yields a verb (cutting, removing, peeling) and three nouns:
 *maktzua*, the tool for doing it (Yeshayahu 44:13; *Shabbos* 123b), *miktzoa*
-itself, and *ketziah*, a spice or incense. The column's guess at what links the
+itself, and *ketziah*, a spice or incense. Rabbi Klein's guess at what links the
 first three is that in cutting or scraping one holds the blade perpendicular to
 the surface, forming an angle; and perhaps *ketziah* too comes from the verb,
 its plant having had to be cut. *Miktzoa* as corner appears in the Mishnah as
@@ -140,8 +140,8 @@ the discipline that sharpens the mind and opens it to higher intellectuality,
 and he suggests too that the *ketziah* spice is so called because its plant has
 many sharp angles, thorns perhaps. Rabbi Yishmael ben Chachamon, who lived in
 Egypt in Rambam's time, notes in his commentary (*Bava Basra* 175b) that the
-Mishnah's *miktzoa* means "corner" just as it does in Tanach, which as the
-column observes does not much clarify the usage; Rabbi Yitzchak Zev Yadler (1843
+Mishnah's *miktzoa* means "corner" just as it does in Tanach, which, Rabbi
+Klein observes, does not much clarify the usage; Rabbi Yitzchak Zev Yadler (1843
 to 1917) reads it as the cornerstone of Torah study, monetary law being rooted
 in logical structures, a keystone and wellspring from which all other chiddushim
 in learning may be drawn. In Modern Hebrew *miktzoa* means a profession or
@@ -152,15 +152,15 @@ Root ק-צ-ה, "edge/end," and Onkelos renders this one *zavit* too (Shemos 38:5
 Pappenheim: the corner that forms a **right angle**, and
 like *peah* a spacious area at the corner rather than *miktzoa*'s single point.
 He separates *katzeh* from *peah* by orientation, *katzeh* being a corner above,
-below, in front or behind, and *peah* one at the side, a distinction the column
-says frankly it is not sure it understands. He groups here *miketz*/*keitz*,
+below, in front or behind, and *peah* one at the side, a distinction Rabbi Klein
+says frankly he is not sure he understands. He groups here *miketz*/*keitz*,
 *katz* (being disgusted, since the disgusted man feels the thing will bring
 about the end of his life), *ketzitzah*, *kayitz*, *yekitzah*, *kotz* and
 *katzin* (officer), which stands to *katzeh* as *paas* stands to *peah*; the
 full family is set out in [waking](waking-yekitzah-oorah.html).
 
 *Paam* is a further biblical word for corner, which Onkelos likewise renders
-*zavit*; the column sends the reader elsewhere for it.
+*zavit*.
 
 Two rarities complete the set: *atik* (Yechezkel 41:15, 42:3), which Ibn Saruk gives a quadriliteral
 root of its own, א-ת-י-ק, Ibn Janach and Radak trace to נ-ת-ק (disengaging,

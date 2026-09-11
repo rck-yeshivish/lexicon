@@ -22,16 +22,16 @@ updated: 2026-09-10
 
 *Bo* is **come**: it looks at the destination, and, as Rabbi Shlomo Pappenheim
 explains, it covers both the arriving and the being on the way. *Lech* is
-**go**. Just how the pair divides is not settled: the Tosafists take the makkos
-pesukim to suggest that *bo* implies entering where *lech* does not, and the
-column offers two theories of its own, that *bo* fixes on the destination and
-*lech* on the place of departure, or else that *halichah* names the act of
-walking while *biah* names a change of place however it came about. Both of its
-own theories the column flags as needing a concordance to test. *Atah* is
+**go**. Just how the pair divides is not settled: the Tosafists' reading of the
+makkos pesukim seems to suggest that *bo* somehow implies entering where *lech*
+does not, and Rabbi Klein offers two theories of his own, that *bo* fixes on the
+destination and *lech* on the place of departure, or else that *halichah* names
+the act of walking while *biah* names a change of place however it came about.
+He adds that a concordance would have to be consulted to see how well any of
+these theories pans out. *Atah* is
 **arrive**: like *bo* it faces the destination, but it names only the arrival
 and never the journey (Rabbi Pappenheim, cited by Malbim). *Bo* and *atah*
-are not interchangeable; where a pasuk has both, *atah* is the one that has
-landed.
+are not interchangeable.
 
 ## Distinctions
 
@@ -66,7 +66,7 @@ brothers still saw him from afar (Bereishis 37:19).
 Rabbi Pappenheim and Rabbi Aharon Marcus take *bo* back to the single letter
 ב, "inside," the same sense the letter carries as a non-root prefix: one who
 comes to a place goes inside it and stops coming, because he has arrived, even
-though *bo*/*biah* can still be used of him while he is on the way. The column
+though *bo*/*biah* can still be used of him while he is on the way. Rabbi Klein
 adds that this may perhaps give a better understanding of the Tosafists' and the
 Zohar's assumption that *bo* implies going inside. Rav Hirsch similarly connects
 *bo* to the phonetically similar *po* ("here") through the interchange of beis
@@ -83,10 +83,10 @@ more (Shemos 7:26, 9:1) when three makkos did not remain.
 The counterpart term throughout: on the Tosafists' reading, simply going
 somewhere without the sense of entering; on Rabbi Elimelech's, without
 repetition and without any implication of willingness. Rabbi Klein offers
-two theories of his own, both as an English speaker's temptation rather than as
-a finding. First, that *bo* and *lech* answer to English "come" and "go": *bo*
+two theories of his own, the first as an English speaker's temptation rather
+than as a finding. First, that *bo* and *lech* answer to English "come" and "go": *bo*
 fixes primarily on one's destination ("come to"), *lech* on one's place of
-departure ("go from"). Alternatively, that *biah* denotes a change of place
+departure ("go from"). Alternatively, one could argue that *biah* denotes a change of place
 however it came about, while *halichah* denotes specifically the act of walking.
 Rabbi Klein adds that a Biblical concordance would have to
 be consulted to see how well any of these theories pans out.
@@ -94,7 +94,7 @@ be consulted to see how well any of these theories pans out.
 ### atah (אתה)
 A biblical word for coming (Devarim 33:2, Yeshayahu 21:12), appearing in both
 the Hebrew and the Aramaic portions of Tanach. Rabbi Pappenheim: *atah* is a
-coming with finality. Like *bo* it is oriented to the destination, but unlike
+coming with more finality. Like *bo* it is oriented to the destination, but unlike
 *bo* it refers only to arriving, never to the journey there. The Malbim (*Yair
 Ohr*) cites this distinction between *bo* and *atah* in Rabbi Pappenheim's name.
 
@@ -111,9 +111,10 @@ border distinguishing a thing from the rest: Yechezkel saw Hashem command an
 angel to make a *tav* on the foreheads of the righteous who bemoaned the
 abominations in Yerushalayim, which the Gemara (Shabbos 55a) explains to mean
 writing the letter tav on them, and the *os* given to Kayin (Bereishis 4:15) is
-what some explain to be that same letter. The column notes further that in the
+what some explain to be that same letter. In the
 original *Ivri* script the letter tav was written in the shape of the English
-letter *x* (and the Greek *chi*), so that as X marks the spot and stands for
+letter *x* (and the Greek *chi*), and Rabbi Klein draws the parallel: as X marks
+the spot and stands for
 what is missing, as in algebra, the tav too marks a thing off as distinguished.
 
 ## Rendering guidance

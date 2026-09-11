@@ -34,14 +34,14 @@ updated: 2026-09-10
 ## Bottom line
 
 *Tzeva* is **color** in the sense of dye: the colorant, and the color a thing
-has been given (Shadal: an artificial color, from *tzovea*, dyeing). *Ein*,
+has been given (from *tzovea*, dyeing; for Shadal, an artificial color). *Ein*,
 construct of *ayin*, is a thing's own single **color**; Rambam sometimes uses
 *tzeva* for colors, but in other cases consistently uses *ein*. *Mareh* is the
 **appearance**, the whole picture of a thing, which could include its color
 (Malbim); for Shadal it is a sight that may include more than one color. *Gavan*
 is Aramaic, **color** or **shade**, and belongs to Talmudic and Targumic
-language, not to Tanach. Between *tzeva* and *gavan* the column would say the
-difference is simply one of origin: *tzeva* is the native Hebrew word, *gavan*
+language, not to Tanach. Between *tzeva* and *gavan* Rabbi Reuven Chaim Klein would
+say the difference is simply one of origin: *tzeva* is the native Hebrew word, *gavan*
 an Aramaic borrowing of an Indo-European word.
 
 ## At a glance
@@ -51,14 +51,15 @@ an Aramaic borrowing of an Indo-European word.
 | צבע | tzeva | color, dye, colorant | from *tzovea*, dyeing; artificial color imposed on a thing (Shadal); concrete colorant rather than abstract color (Rabbi Meir Hellman) |
 | גוון | gavan | color, shade | Aramaic only, common in Bavli and Targum, absent from Tanach and (almost) the Mishnah |
 | עין | ein | color | construct of *ayin*, eye: the specific color, since the eye discriminates colors (Raavad I) |
-| מראה | mareh | appearance, sight | from ר-א-ה: the whole picture, color included but not only color (Malbim to Vayikra 13:5) |
+| מראה | mareh | appearance, sight | from ר-א-ה: the whole picture, which could include color, not color alone (Malbim to Vayikra 13:5) |
 
 ## Where the authorities disagree
 
 **ein against mareh.** Malbim (to Vayikra 13:5): not synonyms. *Ein* is the
 color proper; *mareh* is the full picture of the thing, which may take its color
-in. Shadal says the same and adds the third term: *ein* and *mareh* both name a
-thing's natural look, while *tzeva* is an artificial color produced by painting
+in. Shadal draws a similar line (*mareh* a sight that might include more than
+one color, *ein* one specific color) and adds the third term: *ein* and *mareh*
+both name a thing's natural look, while *tzeva* is an artificial color produced by painting
 or dyeing.
 
 **How wide ein reaches.** Raavad I (*Emunah HaRamah* 1:6) explains why it means
@@ -75,12 +76,11 @@ being a microcosm of something.
    is the colorant, the substance used for dyeing; *gavan* is the abstract color
    a thing is perceived to have. Rabbi Shalom Pushinsky refuted this over a
    century ago from Yirmiyahu 12:9, where *tzavua* describes a colorful bird of
-   prey with no dyeing in sight.
+   prey with no dyeing in sight, though that usage occurs only once.
 2. **Natural against man-made.** The botanist Aharon Aaronsohn: *gavan* is a
-   thing's own natural color, *tzeva* a man-made color imposed on it. This is
-   the same line Shadal draws for *ein*/*mareh* against *tzeva*.
-3. **Not a semantic difference at all.** The columnist's own conclusion, offered
-   as his own ("I would say"): *tzeva* is the native Hebrew word and *gavan* an
+   thing's own natural color, *tzeva* a man-made color imposed on it.
+3. **Not a semantic difference at all.** Rabbi Reuven Chaim Klein's own conclusion
+   ("I would say"): *tzeva* is the native Hebrew word and *gavan* an
    Aramaic borrowing of an Indo-European word, so no distinction of meaning need
    be sought. Rabbi Shalom Pushinsky argues that *gavan* is native neither to
    Hebrew nor to Aramaic and does not come from a Semitic language at all,
@@ -92,7 +92,7 @@ being a microcosm of something.
    later as a consonant. Rabbi Ernest Klein, in his etymological dictionary of
    Hebrew, likewise derives *gavan* from Old Persian, and Dr. Alexander Kohut
    connects it to the Sanskrit *gaona/gauna*, which apparently also means
-   "color"; the column notes that Sanskrit and Old Persian both belong to the
+   "color"; Sanskrit and Old Persian both belong to the
    Indo-Iranian branch of Indo-European and share a common ancestor.
 
 **Whether the Aramaic root ג-ו-נ has one meaning or three.** Rabbi Eliyahu
@@ -111,14 +111,14 @@ Root צ-ב-ע. The word does not occur in Chumash and appears only four times in
 Tanach, three of them in one pasuk: Sisera's mother imagining *tzeva'im* among
 the spoils (Shoftim 5:30), where Radak explains *tzeva'im* as a single garment
 made of many colors, and Yirmiyahu 12:9, the *tzavua* bird of prey hated by the
-other birds. Beyond these, the column allows a "perhaps" for the given name
-Tziv'on (Bereishis 36) and the place-name Tzevo'im (Nechemiah 11:34, Shmuel I
-13:18). In the Mishnah the root is everywhere: wool given to be dyed one
+other birds. Beyond these, the given name Tziv'on (Bereishis 36) and the
+place-name Tzevo'im (Nechemiah 11:34, Shmuel I 13:18) are perhaps from the root
+as well. In the Mishnah the root appears in many different contexts: wool given to be dyed one
 color and dyed another (*Bava Kamma* 9:4), dyeing with *orlah* peels (*Orlah*
 3:1), telling a red spot of blood from paint (*Niddah* 9:6). The peacock's three
 hundred and sixty-five colors are its *tzivonim* (*Tanchuma Tazria* 2; see
-*Bereishis Rabbah* 7:4). A man who is superficial or two-faced is called
-*tzavua*, literally colored, because, as Rashi explains (to *Sotah* 22b), the
+*Bereishis Rabbah* 7:4). A man who is superficial or two-faced is sometimes
+called *tzavua*, literally colored, because, as Rashi explains (to *Sotah* 22b), the
 color of the outside does not match the inside. Rambam uses the root for dyeing
 the hair black (*Avodah Zarah* 12:10), the coloring of *tzitzis* (*Tzitzis*
 2:3), dyeing on Shabbos (*Shabbos* 9:13), red spotting (*Issurei Biah* 9:36 and
@@ -132,10 +132,10 @@ solution, the root came to cover soaking of every kind. Menachem Ibn Saruk
 (*Machberes Menachem*) and Rabbi Natan of Rome (*Sefer HeAruch*) already imply
 this, listing both senses under one root without their usual separation.
 
-Dr. Alexander Kohut (*HeAruch HaShaleim*) ties צ-ב-ע instead to ט-ב-ע, which
+Dr. Alexander Kohut (*HeAruch HaShaleim*) ties צ-ב-ע to ט-ב-ע, which
 means sinking or drowning, and also stamping, and also nature, the link seemingly
-resting on the interchangeability of tzadi and tes. The column supplies the reasoning it
-presumes he had: dyeing immerses an object in liquid much as a sinking thing is
+resting on the interchangeability of tzadi and tes. Rabbi Reuven Chaim Klein supplies the
+reasoning Kohut presumably had: dyeing immerses an object in liquid much as a sinking thing is
 immersed; dyeing imprints a lasting color as stamping leaves a permanent mark;
 and *teva*, nature, is what is ingrained in a thing, as a dyed fabric absorbs
 its color until it is inseparable from it.
@@ -154,8 +154,8 @@ Shayish*) reads the two-letter string צ-ב throughout as binding and gathering:
 here the colorant bound to the cloth.
 
 ### ein (עין)
-The construct of *ayin*, eye. It names the picture the eye holds, and often one
-aspect of it, the thing's color: the manna whose color was like the color of
+The construct of *ayin*, eye. In many cases it names the picture the eye holds,
+and in some cases one aspect of it, the thing's color: the manna whose color was like the color of
 *bedolach*, *eino k'ein habedolach* (Bamidbar 11:7), and the *tzaraas* spot that
 "stands in its color" without lightening or darkening (Vayikra 13:5). Rambam,
 who sometimes uses *tzeva* for colors and coloring, in other cases consistently
@@ -168,8 +168,8 @@ or the color of a crystal (*Mechirah* 22:14). He uses both together for making
 ### mareh (מראה)
 From ר-א-ה, to see, so its plain sense is the content of what one sees: the
 *mareh* of Hashem's glory that appeared as fire (Shemos 24:17, similarly
-Bamidbar 9:15, Yechezkel 1:27, 8:2), and the *mareh* of a *tzaraas* spot
-throughout Vayikra 13. Hence Malbim's distinction above: the whole appearance,
+Bamidbar 9:15, Yechezkel 1:27, 8:2), and the *mareh* of a *tzaraas* spot,
+as Vayikra 13 often calls it. Hence Malbim's distinction above: the whole appearance,
 not the single color.
 
 ### gavan (גוון)

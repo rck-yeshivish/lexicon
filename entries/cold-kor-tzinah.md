@@ -40,7 +40,7 @@ season regularly reaches that pitch but because that is when real *kor* is
 likeliest.
 
 ### tzinah (צנה)
-In this sense the word appears once: "like the *tzinas sheleg* on a harvest
+In this sense the word seems to appear only once: "like the *tzinas sheleg* on a harvest
 day, so is a trusty messenger to those who send him" (Mishlei 25:13). Rashi:
 the longing in harvest heat for the cold of the snow season. Rabbi Yosef
 Kimchi: a cool winter breeze blowing on a summer day. Ibn Ezra and Rabbi
@@ -61,8 +61,8 @@ is a thorn. The *tzinah* shield is the spiked kind, used to strike as well as
 to guard; *tzinah* as cold is the stinging bite of frost, like the prick of a
 thorn. Rav Hirsch (Shemos 16:33) similarly: *tzinah* is primarily a *painful*
 cold. On the scale, though, Pappenheim puts *tzinah* at the bottom: the plain
-coldness of a solid kept from any heat source, or of a liquid that simply feels
-cold, a natural cold that neither sickens nor injures.
+coldness that typically describes a solid kept from any heat source, or a liquid
+that simply feels cold, a natural cold that neither sickens nor injures.
 
 Three further words are read by some as cognates: the *Midbar Tzin* (Bamidbar
 13:21, 20:1, 27:14, 33:36, 34:3; Devarim 32:51; Yehoshua 15:1), which Rabbi
@@ -73,7 +73,7 @@ commentators but cold to Rabbi Yosef Nechemias and to Radak in *Sefer
 HaShorashim*. Bamidbar 33:55 warns that the remaining Canaanites will be
 *sikim* in your eyes and *tzninim* in your sides: most read both as kinds of
 thorn, but Rashbam ties *tzninim* to *tzinah*, cold. Rashbam does not say how
-that fits the context; the article offers, as its own suggestion, that the Torah
+that fits the context; Rabbi Klein suggests, as his own reading, that the Torah
 may mean a sharp, stinging coldness that vexes a man and hampers what he can
 get done.
 
@@ -86,8 +86,8 @@ drop in temperature, as *kor* does, but an all-encompassing cold that covers a
 wide area and envelops a person entirely.
 
 ### tzonen (צונן), the rabbinic form
-Radak: in rabbinic Hebrew the final *nun* doubled, giving *tzonen* for coldness,
-generally as the opposite of hot (Maasros 4:4; Shabbos 3:4-5, 22:4, 22:6;
+Radak: in rabbinic Hebrew the final *nun* doubled, giving *tzonen*. In the
+Mishnah *tzonen* is coldness, usually as the opposite of hot (Maasros 4:4; Shabbos 3:4-5, 22:4, 22:6;
 Pesachim 3:3-4; Yoma 3:5; Nedarim 8:7; Zevachim 11:7; Keilim 3:7; Mikvaos 10:6;
 Machshirin 5:10). The form spread: an animal that is *metzuneness* is not a
 tereifah (Chullin 3:5), which Rashi (Chullin 58b) explains as one sickened by

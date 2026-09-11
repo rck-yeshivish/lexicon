@@ -42,7 +42,7 @@ of the body together), *gedud* (a squad joined into one unit), and *haggadah*
 suggests that perhaps the *gad* seed of the man is likewise a sort of sweet
 edible seed. Coriander seed is sometimes described as sweet.
 
-As an aside, the column notes that coriander is known as *goid* in North African
+As an aside, coriander is known as *goid* in North African
 Punic, which led the German linguist Wilhelm Gesenius (1786-1842) to claim that
 *goid* derives from the Hebrew *gadad*, to cut, in allusion to the wrinkled and
 furrowed look of the seeds. Rabbi Golumb makes one further suggestion of his
@@ -53,7 +53,7 @@ Against coriander, Rabbi Yehudah Ibn Balaam in the name of Rav Hai Gaon: *zera
 gad* is mustard seed. Ibn Ezra (both commentaries to Shemos 16:31, and to
 Bamidbar 11:7) brings this alongside coriander and says he does not know which is
 right. Rabbi Yehuda Leib Krinsky (*Yahel Ohr*) explains Ibn Ezra's reasoning:
-*gad* is akin to *gedi*, the smallest of the goats, so among seeds it would name
+*gad* is akin to *gedi*, the smallest of the goats, so it could make sense that among seeds it names
 the mustard seed, which Chazal use as the standard for the smallest seed.
 
 On the color: Rashi (to Shemos 16:31), the Rashbam, and Radak all say the pasuk
@@ -66,7 +66,7 @@ Balaam does hold that mustard seeds are white.
 ### kusbar / kusbarta (כוסבר, כוסברתא)
 The Mishnaic and Aramaic word for coriander: *Sheviis* 9:1, *Kilayim* 1:2 (cited
 in *Pesachim* 39a among the vegetables usable for maror), *Maasros* 3:9 and 4:5.
-The column reports that linguists recognize both *kusbara* and *coriander* as
+Linguists recognize both *kusbara* and *coriander* as
 belonging to very ancient languages, tracing *kusbara* to the Sanskrit
 *kustumbari*/*kustumburu* and *coriander* to *korijadana* in the proto-Greek
 known as Linear B. That said, Rabbi Dovid Golumb (*Targumna*) parses *kusbara*
@@ -91,19 +91,18 @@ a cherry (see also Rashi to *Berachos* 57b and *Sefer HaTishbi*).
 Rashi renders *gad* in Chumash as *coliander*, an Old French word for coriander
 (the l-sound and the r-sound being interchangeable, as often happens), but the
 Aramaic *kusbarta* and *gida* in the Gemara (*Shabbos* 109a, *Yoma* 75a,
-*Avodah Zarah* 10b) as *aillendre*, possibly pronounced *aliandre*. The column
-consulted experts and reports that two possibilities seem to resolve the
+*Avodah Zarah* 10b) as *aillendre*, possibly pronounced *aliandre*. Rabbi Klein,
+after consulting experts, suggests that two possibilities may resolve the
 contradiction. First, in the Jewish dialects of Old French the opening consonant
 of *coliander* might have been dropped, giving *aillendre*, so that Rashi may
-have used both pronunciations interchangeably; but the column notes at once that
+have used both pronunciations interchangeably; but Rabbi Klein notes at once that
 this does not account for why the Chumash commentary should have the one and the
 Talmud commentary the other. Second, it has been pointed out that alternate
 manuscripts of the Chumash commentary read *aillendre* while alternate
 manuscripts of the Talmud commentary read *coliander*, which suggests that
 *aillendre* is a copyist's error of permutation, aleph and kuf being very
-similar in some scripts. The column thanks Dr. Ariel Shaveh of the Academy of
-the Hebrew Language and Rabbi Tzvi Mordechai Libber of Milwaukee for these
-suggestions.
+similar in some scripts. Both suggestions come from Dr. Ariel Shaveh of the
+Academy of the Hebrew Language and Rabbi Tzvi Mordechai Libber of Milwaukee.
 
 ## Rendering guidance
 
