@@ -28,10 +28,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The Targumim render *klitah* and *pleitah* alike, with the Aramaic word for
-salvation (*shizba*/*shaziv*), so in some ways the two are synonyms, both
-"saving" in general. At the core, though, *pleitah* is rescue by **expulsion**:
-one is spit out of the danger, so a *palit* is a **refugee**. *Klitah* is rescue
+The Targumim generally render *klitah* and *pleitah* alike, with the Aramaic
+word for salvation (*shizba*/*shaziv*), which suggests that in some ways the
+two are synonyms, both "saving" in general. At the core, though, *pleitah* is
+rescue by **expulsion**: one is spit out of the danger, so a *palit* is a
+**refugee**. *Klitah* is rescue
 by **reception**: one is taken in, as a *miklat* receives him, so it is
 **refuge**, **taking in**. For Malbim and Bedersi *sarid* is the one who was
 caught and could not get out and lived anyway: **survivor** or **remnant**.
@@ -51,7 +52,7 @@ surrounded and spit out, the *sarid* was not necessarily enveloped at all.
 
 **What separates sarid from palit.** Malbim (Rabbi Meir Leibush Weiser, 1809 to
 1879): a *palit* was in the trenches of war or another calamity and was able to
-flee, saving himself (in the column's terms, "spit out" of harm's way); a
+flee, saving himself (in Rabbi Klein's terms, "spit out" of harm's way); a
 *sarid* was caught in the middle, unable to escape, and somehow survived
 anyway. Rabbi Avraham Bedersi (13th century) presents the same explanation in
 brief in *Chotam Tochnit*. So *palit* is "refugee," *sarid* more accurately
@@ -69,23 +70,20 @@ Melachim II 10:11). For him *palit* is one who was totally surrounded
 army may not besiege a city or enemy on all four sides but must leave one side
 open for refugees (*Sifrei* to Matos §157; Rambam, *Hilchos Melachim* 6:7), so
 its enemies were never surrounded to be "spit out," and their survivors are
-only *sarid*; non-Jewish armies typically attack from all sides, so their
-survivors are *palit*, not *sarid*. Where Tanach says there was neither *sarid*
-nor *palit* from Ai (Yehoshua 8:22), Rabbi Shain explains that the people of Ai
+generally called only *sarid*; non-Jewish armies typically attack from all
+sides, so their survivors are *palit*, not *sarid*. Where Tanach says there was
+neither *sarid* nor *palit* from Ai (Yehoshua 8:22), Rabbi Shain explains that the people of Ai
 used the humanitarian corridor to attack the Jewish army, so the army was
 allowed to surround them on all sides.
-
-The two accounts do not coincide: for Malbim the *sarid* is the one who could
-not escape, for Rabbi Shain the one who was not sealed in.
 
 **Where klitah and pleitah come from.** Rabbi Yitzchak of Zeldin (*Shoresh
 Yesha*): ק-ל-ט is a metathesis of ל-ק-ט, "gathering" (*leket*, *yalkut*), since
 those sheltered together are as if gathered up into a safe spot. Rabbi Yehoshua
 Steinberg of the Veromemanu Foundation takes a different approach: a metathesis
 of ק-ט-ל, "killing," since *klitah* often refers to those received by a
-sanctuary and so escaping death. Most philologists and lexicographers, the
-column says, trace *pleitah* to the triliteral פ-ל-ט, as the column itself does,
-but some take the פ as not part of the core root: Rabbi Moshe Tedeschi-Ashkenazi
+sanctuary and so escaping death. Most philologists and lexicographers trace
+*pleitah* to the triliteral פ-ל-ט, as Rabbi Klein himself does, but some take
+the פ as not part of the core root: Rabbi Moshe Tedeschi-Ashkenazi
 (1821 to 1898, *Otzar Nirdafim* §380) derives *pleitah* from the two-letter ל-ט,
 and Rabbi Steinberg, in an essay titled "Run, Lot Run," connects *pleitah* and
 many other words to that biliteral root; he even derives *klitah* from it, so

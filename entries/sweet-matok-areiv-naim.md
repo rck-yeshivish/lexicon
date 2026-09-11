@@ -52,13 +52,13 @@ everyone tastes to what one person happens to love.
 *matok* is gustatory appeal. Rabbi Shlomo Pappenheim of Breslau: *na'im* names
 no physical property at all but the transcendent pleasure one derives from
 enjoying something sweet, so that *matok* and *areiv* refer to the physical and
-*na'im* to the sublime. The column sets the two side by side and does not
+*na'im* to the sublime. Rabbi Klein sets the two side by side and does not
 choose between them.
 
-**Where areiv comes from.** According to etymologists, the column reports, the
-origin of *areiv* is unknown, though some linguists suggest it first meant "to
-be well-mixed," related to *arev*, mixed: a glass of wine properly mixed with
-the right proportion of water is pleasant and especially appealing, and on
+**Where areiv comes from.** According to etymologists, the origin of *areiv* is
+unknown, though some linguists suggest it first meant "to be well-mixed,"
+related to *arev*, mixed: a glass of wine properly mixed with the right
+proportion of water is pleasant and especially appealing, and on
 their view that is the basis of *areiv* as "sweet." Rabbi Klein, for his part,
 argues from the whole ע-ר-ב family, which in his view always denotes a form of
 connection (see Distinctions). The Vilna Gaon does not directly address *areiv*.
@@ -67,14 +67,14 @@ connection (see Distinctions). The Vilna Gaon does not directly address *areiv*.
 
 ### matok (מתוק)
 Root מ-ת-ק. At Marah Hashem had Moshe cast a tree into the bitter (*mar*)
-waters and made them *matok*, and the column asks how *matok* differs from
-*areiv*. The Vilna Gaon does not directly address that question, but
-distinguishes *matok*, gustatory appeal, from *na'im*/*noam*, visual appeal. In
-Tanach, the column observes, words related to *matok* or *metek* commonly refer
-to culinary sweetness. Rabbi Shlomo Pappenheim: *matok* is the objective measure of
-taste, the kind everyone recognizes as sweet, found in honey, figs and dates,
-and the polar opposite of bitter. From there it was borrowed for anything one
-would argue is good, desirable, or worthwhile. Pappenheim adds a reading of the
+waters and made them *matok*. How does *matok* differ from *areiv*? The Vilna
+Gaon does not directly address that question, but distinguishes *matok*,
+gustatory appeal, from *na'im*/*noam*, visual appeal. In Tanach, words related
+to *matok* or *metek* commonly refer to culinary sweetness. Rabbi Shlomo
+Pappenheim: *matok* is the objective measure of taste, the kind everyone
+recognizes as sweet, found in honey, figs and dates, and the polar opposite of
+bitter. From there it was borrowed for anything one
+might argue is good, desirable, or worthwhile. Pappenheim adds a reading of the
 waters of Marah (Shemos 15:25): they are called *matok* not because they became
 objectively sweet but by contrast, because the bitterness they had was gone.
 
@@ -83,15 +83,14 @@ Root ע-ר-ב. Pappenheim: against *matok*, *areiv* is a *subjective* sweetness,
 acquired taste and a matter of personal choice. One with an affinity for bitter
 food might say "bitter is *areiv* to me," but not "bitter is *matok* to me."
 
-Before bringing Rabbi Pappenheim, the column surveys the usage on its own
-account: *areiv* never appears in a gastronomical context in Tanach except
-Mishlei 20:17; it is used of a voice (Shir HaShirim 2:14, "your voice is
-*areiv*"), and one opinion in Berachos 43a has the berachah over balsam oil as
+Rabbi Klein surveys the usage on his own account: *areiv* never appears in a
+gastronomical context in Tanach except Mishlei 20:17; it is used of a voice
+(Shir HaShirim 2:14, "your voice is *areiv*"), and one opinion in Berachos 43a has the berachah over balsam oil as
 *borei shemen areiv*, which suggests it also applies to scent. So it seems that
 *matok* refers specifically to a sweet taste, while *areiv* can also refer to a
 sweet voice and a sweet scent.
 
-The column offers a further reading of its own: every group of words built on
+Rabbi Klein offers a further reading of his own: every group of words built on
 ע-ר-ב denotes a joining of things that were apart. An *arev* is a guarantor,
 tying lender to borrower; *erev* joins day to night; *taarovet* and *irbuv* are
 mixtures; the *eirev* is the woof running through the warp; an *eruv* makes many

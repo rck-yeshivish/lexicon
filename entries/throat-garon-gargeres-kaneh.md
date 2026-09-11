@@ -117,8 +117,8 @@ windpipe, yet gorging is done with the *veshet* (*Taharos* 7:9; Targum to Eichah
 Four answers. Rabbi Yom Tov Lipmann Heller (*Tosafos Yom Tov* to *Taharos* 7:9):
 he is so taken with his food that he wishes he could eat through his *gargeres*
 too. Rabbi Binyamin Mussafia: in his zeal he is liable to choke, sending food
-down the wrong pipe. Rabbi Klein's own: he works his food pipe as constantly as
-a man uses his windpipe to breathe. Rabbi Meir Batzri of Beitar Illit: while
+down the wrong pipe. Rabbi Klein's own suggestion: he works his food pipe as
+constantly as a man uses his windpipe to breathe. Rabbi Meir Batzri of Beitar Illit: while
 swallowing he cannot breathe, so he negates his *gargeres*; Rabbi Klein notes
 this may be alluded to in Rambam's commentary to the Mishnah there, which
 seemingly mentions the epiglottis (*shipui kova*, the tilted cap that covers the
@@ -131,7 +131,7 @@ attaches to *hana'as grono*, the benefit a man's *garon* takes from what he eats
 
 ### garon (גרון)
 Eight appearances, distributed as above. The word covers speech, the ornamented
-neck, and once swallowing, which is why its primary sense is disputed.
+neck, and once swallowing.
 
 ### gargeres (גרגרת)
 Four appearances in Tanach, all in Mishlei (1:9, 3:3, 3:22, 6:21), all about

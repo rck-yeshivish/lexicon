@@ -23,9 +23,9 @@ the Yad Ramah makes it simply the Aramaic for *machshavah*, and Rashi to Daniel
 defines it as *hirhur*. *Hirhur* is, for the Vilna Gaon, a thought already
 formulated into possible words, or alternatively a thought of the heart rather
 than the brain: **musing**, or where the heart sense governs **stirring**.
-*Hirhur* is not a vaguer, lesser "thought"; on the Gaon's first reading it is
-thought already put into words, and in Rabbi Klein's synthesis of the three it
-is the *last* stage, thought at the threshold of speech.
+On the Gaon's first reading *hirhur* is thought already put into words, and in
+Rabbi Klein's synthesis of the three it is the *last* stage, thought at the
+threshold of speech.
 
 ## Distinctions
 

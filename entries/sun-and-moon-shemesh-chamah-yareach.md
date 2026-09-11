@@ -70,18 +70,18 @@ represent successive stages in man's relationship with the sun and moon.
 **Why the sun is called *cheres*.** Rabbi Aharon Marcus: because the sun's heat
 bakes pottery, and pottery was a mainstay of ancient civilization, so the sun is
 named for what it makes possible. Others: because the sun takes on a reddish,
-pottery-like hue at sunrise and at sunset, so it is named for how it looks. The
-column gives no ground for choosing between them.
+pottery-like hue at sunrise and at sunset, so it is named for how it looks.
+Rabbi Klein gives no ground for choosing between them.
 
 **Whether *sahar* is Hebrew.** Rabbi Aharon Marcus counts it as the third Hebrew
 word for the moon, the one that names it by its shape. Others hold *sahar* is not
 really Hebrew but an Aramaic loanword sometimes used for the moon. On Rabbi
-Marcus's view the word carries the crescent shape; on the loanword view the
-column says only that it is used for the moon.
+Marcus's view the word carries the crescent shape; on the loanword view it is
+simply a word sometimes used for the moon.
 
 **Whether the staged history is admissible.** Rabbi Aharon Marcus holds that the
 six words may also represent different stages in the history of man's
-relationship with the sun and moon. The column notes that some might reject
+relationship with the sun and moon. Rabbi Klein notes that some might reject
 this historical aspect of the explanation, because it would seem to contradict
 the Divine origin of the Hebrew language, and answers that the basic argument
 still holds: the three words for the sun and the three for the moon somewhat
@@ -105,7 +105,7 @@ identify the two luminaries yet downplay their importance: *shemesh*, the
 servant, highlighting its subservience to Hashem, and *yareach*, related to
 *orach*, a path, for the moon's orbital path in the heavens. Both names in time
 came to be used as names of the idolatrous gods of the sun and the moon
-themselves, and the column notes that archeologists have identified the
+themselves, and archeologists have identified the
 worship of Shammash and Yarikh in ancient Canaan and Mesopotamia. This is what
 necessitated the coining of the next pair. Place-names reflecting the old
 practices are still in use: Beis Shemesh, the house of the sun, and Yericho,

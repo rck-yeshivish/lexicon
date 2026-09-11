@@ -26,8 +26,8 @@ sometimes connotes throwing purposefully and forcefully (Maharal: it implies
 force). *Hazayah* is *zerikah* at a longer distance (Rabbi Pappenheim) or by
 hand rather than with a vessel (Malbim): **sprinkle**. *Ramah* is throwing
 upward in an arc so that it lands exactly on its target: **hurl**, **shoot**.
-Maharal reads *hashlachah* as throwing without force, and so, Rabbi Yehoshua
-Hartman suggests, does Rashbam.
+Rabbi Yehoshua Hartman suggests that Rashbam, like Maharal, took *hashlachah*
+as dropping without force.
 
 ## Distinctions
 
@@ -44,9 +44,9 @@ disparaging: Hagar casting off Yishmael (Bereishis 21:15), Yosef thrown into the
 pit, Moshe throwing down the Luchos (Shemos 32:19), Pharaoh's decree against the
 infants (Shemos 1:22), *tereifah* meat thrown to the dogs (Shemos 22:30). He
 admits that some are deliberate, to bring about a result: Aharon throwing his
-staff (Shemos 7:10) and the gold into the fire (Shemos 32:24). Rabbi Klein adds
-that the same could be said of the cedar, hyssop and crimson thread thrown into
-the burning of the *parah adumah* (Bamidbar 19:6).
+staff (Shemos 7:10) and the gold into the fire (Shemos 32:24). Rabbi Reuven
+Chaim Klein adds that the same could be said of the cedar, hyssop and crimson
+thread thrown into the burning of the *parah adumah* (Bamidbar 19:6).
 
 Ramban (to Bereishis 21:15) offers two readings of *vatashlech*: Hagar
 **abandoned** Yishmael, so *hashlachah* is a form of forsaking; or she **sent
@@ -63,8 +63,8 @@ root but denotes creating the situation the root names (compare *shiabud* from
 עבד, *shichrur* from חרות, and Modern Hebrew *shichpul* and *shichtuv*). On that
 theory *hashlachah* comes from the two-letter root for going, and the *shin*
 makes it causing something to go from one place to another by throwing. Rabbi
-Moshe Shapiro, on a tangent, applies the same *shaphel* pattern to *shapir*,
-from *tiferes*/*pe'er*. (A folk etymology ties the surname Shapiro to *shapir*;
+Moshe Shapiro applies the same *shaphel* pattern to *shapir*, from
+*tiferes*/*pe'er*. (A folk etymology ties the surname Shapiro to *shapir*;
 historians derive it more likely from the German town Speyer.)
 
 In Modern Hebrew *hashlachos* are consequences, a usage not attested in Tanach
@@ -101,8 +101,8 @@ The root ר-ם means "esteemed" or "high," and in Biblical Hebrew it occasionall
 means throwing (Shemos 15:1, *ramah vayam*). Rabbi Pappenheim: *ramah* is
 throwing or shooting something upward in an arc so that it lands precisely on
 its target. The Targumim render *zerikah* with the cognate ז-ר-ק but render
-*hashlachah* with ר-ם derivatives, so, Rabbi Klein concludes, in Aramaic the ר-ם
-root seems to mean what *hashlachah* means, perhaps the lifting of an object in
+*hashlachah* with ר-ם derivatives, so, Rabbi Reuven Chaim Klein concludes, in
+Aramaic the ר-ם root seems to mean what *hashlachah* means, perhaps the lifting of an object in
 order to throw it.
 
 Rabbi Klein's conclusion: *hashlachah* and *zerikah* are the two basic words;

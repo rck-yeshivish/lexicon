@@ -126,10 +126,10 @@ time and more." Rabbi Klein suggests he perhaps means a story intended to be
 told many times, one instance in a series, which fits *sippur yetzias Mitzrayim*,
 retold every year.
 
-**Why Chazal chose it.** Rabbi Klein's answer to the opening question: from the
-Torah's perspective the telling was of something new, the story still
-unfolding, hence *v'higadta*; from Chazal's, it had been repeated for
-generations and was to be passed on, hence *misaper*. Rabbi Yechiel Michel
+**Why Chazal chose it.** Rabbi Klein's answer: from the Torah's perspective the
+telling was of something new, the story still unfolding, hence *v'higadta*;
+from Chazal's, it had been repeated for generations and was to be passed on,
+hence *misaper*. Rabbi Yechiel Michel
 Feinstein, a son-in-law of the Brisker Rav, finds the precedent in Shemos 10:2,
 where the purpose of the hardening of Pharaoh's heart and the miracles is
 *l'maan tesaper* to your children, that they may know Hashem. Because that is
@@ -139,8 +139,8 @@ offers a similar explanation: a hallmark of *sippur* is explaining something
 clearly, and the word is related to *sapir*, the blue gem. Hashem's
 administration of the world is like the clear blue sky, sometimes clouded when
 the wicked obscure His role; spelling it out clearly clears the clouds away.
-Presenting the whole story of the Exodus shows how Hashem oversees all of
-creation.
+According to this, presenting the whole story of the Exodus shows how Hashem
+oversees all of creation.
 
 **Two mitzvos.** After a lengthy discussion Rabbi Nosson Gestetner concludes that
 there are two separate mitzvos at the Seder: *sippur yetzias Mitzrayim*,

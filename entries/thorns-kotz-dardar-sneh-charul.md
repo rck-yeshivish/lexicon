@@ -19,9 +19,9 @@ Hebrew has some twenty words in this field. Rabbi Shlomo of Urbino (*Ohel
 Moed*) lists seventeen in Tanach and treats them as somewhat synonymous, without
 differentiating the species; Rashi (to Yechezkel 2:6) and Rabbi Saadia Gaon (to
 Mishlei 15:19) both say in passing that there are twenty; Rabbi Klein, following
-*Ohel Moed* and adding three more, reaches twenty-one with *na'atzutz*. The
-column is mostly etymology. Explicit contrasts are few: *kotz v'dardar* names
-two different kinds of thorn; the Vilna Gaon sets *kimosh*, the thorns along a
+*Ohel Moed* and adding three more, reaches twenty-one with *na'atzutz*.
+Explicit contrasts are few: *kotz v'dardar* names two different kinds of thorn;
+the Vilna Gaon sets *kimosh*, the thorns along a
 field's edge, against *charul*, the ordinary thorn; Rabbi Pappenheim splits
 *salon* from *silon*. *Kotz* is a **thorn**; *sneh* a **thornbush** (Rashi,
 Rabbi Saadia Gaon), used of the Burning Bush; *charul* a **nettle** or
@@ -59,17 +59,18 @@ grow. Rabbi David Chaim Chelouche, the late Chief Rabbi of Netanya, relates ס-�
 to ש-ן, tooth, since the thorns on a branch look like sharp teeth.
 
 ### salon / silon (סלון)
-Rashi and Mahari Kara: *salonim* (Yechezkel 2:6) are thorns, and Radak reads the
-pasuk as telling the navi not to fear the people or their jabs; the same
-commentators take *silon* (Yechezkel 28:24) as thorn too. Rabbi Pappenheim
+The commentators, among them Rashi and Mahari Kara, take *salonim* (Yechezkel
+2:6) as thorns, and Radak reads the pasuk as telling the navi not to fear the
+people or their jabs; the same commentators take *silon* (Yechezkel 28:24) as thorn too. Rabbi Pappenheim
 differentiates the two, both from ס-ל, repeated action: *salonim* are people
 who repeatedly bother and provoke, *silon* the thistle whose many spikes stab
 the one who holds it again and again.
 
 ### choach (חוח), tzninim (צנינים)
-*Choach*: the rose among the *chochim* (Shir HaShirim 2:2). Radak and Rabbi
-Pappenheim relate it to *chach*, from ח-ח (or possibly the single letter ח), a
-piece of jewelry fastened with a pin, the pin's sharp point recalling a thorn.
+*Choach*: the rose among the *chochim* (Shir HaShirim 2:2). Lexicographers such
+as Radak and Rabbi Pappenheim relate it to *chach*, from ח-ח (or possibly the
+single letter ח), a piece of jewelry fastened with a pin; the pin's sharp
+point, Rabbi Klein reasons, would somehow recall a thorn.
 *Tzninim* (Bamidbar 33:55): *Ohalei Yehuda* relates it to *sneh*, most likely
 through the interchange of tzadi and samech. Rav Hirsch (to Tehillim 91:4)
 relates צ-נ to ש-נ, through the interchange of tzadi and shin, sharpness, as in
@@ -150,11 +151,11 @@ are triliteral roots with the ayin added (*atalef*, *achshuv*, *akavish*,
 Akrabim, Bamidbar 34:4, Yehoshua 15:3, Shoftim 1:36, has to do with thorns or
 scorpions is unclear.)
 
-*Bashah*, once (Iyov 31:40), known as a thorn weed from its pairing with
-*choach*. Rabbi Pappenheim: from ב-ש, cessation of movement, whose main
-derivative is *bushah*, shame, and from it words of ill repute, *ba'ash*
-(putrid) and *be'ushim* (poor grapes); Rabbi Klein would add the Aramaic
-*bisha*, bad.
+*Bashah*, once (Iyov 31:40), which the commentaries understand as a thorn weed
+from its pairing with *choach*. Rabbi Pappenheim: from ב-ש, cessation of
+movement, whose main derivative is *bushah*, shame, and from it words of ill repute, *ba'ash*
+(putrid) and *be'ushim* (poor grapes); Rabbi Klein would add, possibly, the
+Aramaic *bisha*, bad.
 
 ### sirpad (סרפד), na'atzutz (נעצוץ)
 *Sirpad*, once (Yeshayahu 55:13): "instead of the *na'atzutz* a cypress, instead
@@ -165,8 +166,8 @@ too, though not all commentators agree.
 
 ### sikim (שכים), sansan (סנסן), saravim (סרבים): the three *Ohel Moed* omits
 *Sikim* (Bamidbar 33:55) is the fence-thorn: Radak in *Sefer HaShorashim* notes
-that fences were made of thorns, so *mesuchah*, a fence (Michah 7:4, Yechezkel
-28:13, Mishlei 15:19, Yeshayahu 5:5), shares its root ש-ו-כ, and in his father's
+that fences were typically made of thorns, so *mesuchah*, a fence (Michah 7:4,
+Yechezkel 28:13, Mishlei 15:19, Yeshayahu 5:5), shares its root ש-ו-כ, and in his father's
 name derives *sakin*, knife (once, Mishlei 23:2), from *sikim* too. Rav Hirsch
 (to Bamidbar 33:55) links the fence sense to *sugah*/*siyag* by the interchange
 of kaf and gimmel; Rabbi Pappenheim takes ס-כ, to spread, cover or protect,
@@ -191,7 +192,7 @@ Metzudas Tzion); or, for Rabbi Pappenheim, from *nohel*/*menahel*, the place a
 shepherd leads his young animals. Rabbi Avraham ben Shlomo (to Shoftim 8:7)
 cites Chazal for seventeen words, but his list drops *tzinim*, *akrav*, *bashah*
 and *sirpad* and adds *maluach*, *masuchah*, *pirchach* and *arar*; he also
-gives Arabic names for some of the thorns, which the column leaves aside.
+gives Arabic names for some of the thorns.
 
 ## Rendering guidance
 

@@ -18,8 +18,7 @@ updated: 2026-09-10
 *Genevah* is theft **by stealth**: the *ganav* hides himself. It is
 **stealing**, and the actor a **thief**. *Gezeilah* is taking **openly**, in
 public or by force: **robbery**, and the actor a **robber**. The distinction
-is not severity but visibility, and the halachah runs the opposite way to
-intuition: the Torah imposes extra fines on the *ganav* (double, and four or
+is visibility. The Torah imposes extra fines on the *ganav* (double, and four or
 five times for a slaughtered or sold animal) and none on the *gazlan*, because
 the *ganav* shows more respect for man than for Hashem (Bava Kamma 79b).
 *Chamas* appears in Tanach as theft (Rashi to Bereishis 6:13) but not always
@@ -47,9 +46,8 @@ violence or by force, he is not a *ganav* but a *gazlan*.
 The *ganav* alone bears the fines: besides returning the value he pays an extra
 penalty of the same value, double in all (Shemos 22:3), and for a kosher animal
 slaughtered or sold, five times for cattle and four for sheep or goats (Shemos
-21:37). Bava Kamma 79b gives the reason, and it is the heart of this
-cluster: the *ganav* hides his theft from people but does not care to hide it
-from Hashem, so he shows he respects man more than Hashem and cares more what
+21:37). Bava Kamma 79b gives the reason: the *ganav* hides his theft from
+people but does not care to hide it from Hashem, so he shows he respects man more than Hashem and cares more what
 people think. The *gazlan* does not care what anybody thinks, but at least he
 does not give man more respect than Hashem, and so he is exempt from the
 penalties. (By Torah tradition the *lo tignov* of the Aseres HaDibros, Shemos
@@ -66,16 +64,16 @@ permission and taking (see Shevuos 44b), overpowering his slaves or animals and
 making them work (see Bava Kamma 97a), going into his field and eating his
 produce (see Bava Basra 38a).
 
-Ernest Klein (no relation to the columnist) relates *gezel* to the Arabic
-*jazala*, "cut off," a violent ripping of the object out of its rightful
+Ernest Klein (no relation to Rabbi Reuven Chaim Klein) relates *gezel* to the
+Arabic *jazala*, "cut off," a violent ripping of the object out of its rightful
 owner's hands. Rabbi Shlomo Pappenheim and others give the two-letter ג-ז the
 sense of shaving or trimming, a cut that leaves some parts attached and some
 detached: *geiz* (the grass left after trimming, Tehillim 72:6), *gozez*
 (shearing, Bereishis 31:19, 38:12), *gazam* (a locust that eats some produce and
 leaves the rest), *geza* (a tree with its top cut off), *gazis* (hewn stone).
-Rabbi Pappenheim does not connect *gezel* to this root, since the lamed does not
-fit his theory; Rabbi Klein argues it fits all the same, robbery taking one
-possession while leaving the rest intact. Similarly, Rav Hirsch (to Shemos
+Rabbi Pappenheim does not explicitly connect *gezel* to this root, since the
+lamed does not fit his theory; Rabbi Reuven Chaim Klein argues it fits all the
+same, robbery taking one possession while leaving the rest intact. Similarly, Rav Hirsch (to Shemos
 23:19): *gozel*, a fledgling, is cognate with *gezel*, because taking the bird
 from the nest severs its bond with its mother as theft severs the bond between
 an object and its owner.
@@ -92,9 +90,9 @@ stealing; sometimes they are general **violence** and **injustice**. Indeed,
 Dr. Chaim Tawil relates Hebrew *chamas* to the Akkadian *hamasu*, "to oppress"
 or "to do wrong." Bava Kamma 62a defines the *chamsan* narrowly: he is a
 coercive buyer, who takes the object from his victim but gives him money,
-still a wrongdoer yet not technically a robber or a thief. Rabbi Klein adds, in
-passing, that in Arabic the word is related to the Hebrew *chamesh*, five, which
-might allude to the thief's proverbial "five-finger discount," and that
+still a wrongdoer yet not technically a robber or a thief. Rabbi Reuven Chaim
+Klein adds, in passing, that in Arabic the word is related to the Hebrew
+*chamesh*, five, which might allude to the thief's proverbial "five-finger discount," and that
 *chamas* is not etymologically connected to the name of the terrorist
 organization Hamas.
 

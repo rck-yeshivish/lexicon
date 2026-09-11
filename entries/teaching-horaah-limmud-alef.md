@@ -111,8 +111,8 @@ theme. On this account the learning called *alef* is the learner's firm grasp
 of material won by repeated instruction. Like Menachem and Radak, Rabbi
 Pappenheim connects *talpiyos* to *alef*, but unlike them he explains the
 connection: a tower for instructing young soldiers in the art of war, a sort of
-shooting range. Malbim explains *aluf* differently, as a powerful leader who
-must teach his constituents how to act. (In Modern Hebrew *aluf* is a sporting
+shooting range. Malbim explains *aluf* as a powerful leader who must teach his
+constituents how to act. (In Modern Hebrew *aluf* is a sporting
 champion and the rank of Major-General.)
 
 *Alef* also names the ox (Devarim 7:13, 28:4, 28:18, 28:51; Tehillim 8:8, 50:10;
@@ -120,7 +120,8 @@ Mishlei 14:4; Yeshayahu 30:24). Malbim: a *trained* ox, one that has learned to
 work the land. The Vilna Gaon reads *alafim* in Mishlei 14:4 as students,
 drawing on *alef*'s sense of teaching, so that "for want of oxen the trough is
 an empty pit" warns the teacher that without students he will become an empty
-vessel; with students to answer for, a teacher fills himself with knowledge.
+vessel; with students to answer for, a teacher is more likely to fill himself
+with knowledge.
 About this Rabbi Yehuda HaNasi said, "I learned much from my teachers, more from
 my colleagues, and from my students most of all" (Makkos 10a); Taanis 7a has
 the same saying from Rabbi Chanina.

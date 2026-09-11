@@ -35,7 +35,7 @@ updated: 2026-09-10
 *Shulchan* is the Biblical **table**, and the Aramaic *petora* is its standard
 equivalent. *Taka* is also glossed *shulchan* by Rashi,
 and the variant readings of one Talmudic story seem to make it interchangeable
-with *petora*; but Rabbi Mordechai Dov Yudelovitch, whose view the column
+with *petora*; but Rabbi Mordechai Dov Yudelovitch, whose view Rabbi Klein
 adopts, holds that *taka* is the small, private **tray-table** for one, while
 *petora* is the longer dining table. *Tavla* is for Rabbi Eliyahu HaBachur
 simply the Rabbinic Hebrew for *shulchan*; for Rash MiShantz it differs, a
@@ -72,15 +72,15 @@ But do they mean the same thing? Rabbi Mordechai Dov Yudelovitch of Lida (d.
 small, private table on which people would customarily eat on festive occasions
 or in the presence of esteemed guests, that is, a portable personal tray-table
 for one, while *petora* is a longer table of the sort one has in a dining room.
-Rabbi Shaul Goldman arrived at the same conclusion independently. So, the
-column concludes, despite Rashi's glossing both as *shulchan*, the two do not
-mean exactly the same thing, and every *taka* example the column cites refers
-to a private table at which one person ate, as against the more communal
+Rabbi Shaul Goldman arrived at the same conclusion independently. So, Rabbi
+Klein concludes, despite Rashi's glossing both as *shulchan*, the two do not
+mean exactly the same thing, and every *taka* example he cites refers to a
+private table at which one person ate, as against the more communal
 *petora*: Rava's own *taka* removed while the Reish Galusa's still stood
 (Berachos 42a), and the bad wife who prepares her husband's *taka* (Yevamos
 63b).
 
-The column adds an etymological difference. Dr. Michael Sokoloff, in his
+There is an etymological difference as well. Dr. Michael Sokoloff, in his
 dictionary of Jewish Palestinian Aramaic of the Byzantine period, writes that
 *petora* is a cognate, or even a derivative, of the Akkadian *passuru* (plural
 of *passurum*), itself borrowed from the Sumerian *bansur*, "table"; in his
@@ -92,7 +92,7 @@ HaTishbi*): *tavla* is the Rabbinic Hebrew equivalent of the Biblical
 *shulchan*. Nonetheless, Rash MiShantz (Rabbi Shimshon of Sens, to Ohalos 15:2)
 writes that they differ: a *shulchan* is a flat surface attached to four legs
 that hold it up, while a *tavla* is a table top not attached to legs, so it can
-even be a flat board or plank. The column leaves the two views standing.
+even be a flat board or plank. Rabbi Klein leaves the two views standing.
 
 **The root of shulchan.** Ibn Janach (990 to 1055) and Radak (1160 to 1235): the
 triliteral ש-ל-ח, "dispatch, send away, sword," though exactly how it connects
@@ -106,8 +106,8 @@ All 21 occurrences in the Chumash are the ritual *shulchan* of the Mishkan
 bearing the lechem hapanim; in the other 50 in Tanach it can be an ordinary
 table at which a king or great man eats and feeds his household. The Mishnaic
 *shulchani*, "moneychanger" (Maaser Sheini 4:2; Bava Metzia 2:4, 3:11, 4:6,
-9:12; Shevuos 7:6; Meilah 6:5; Keilim 12:5), is so called because he worked
-from behind a table on which he laid the money. The Gemara also uses *shulchan*
+9:12; Shevuos 7:6; Meilah 6:5; Keilim 12:5), is so called because he typically
+worked from behind a table on which he laid the money. The Gemara also uses *shulchan*
 euphemistically for marital intimacy (Nedarim 20a-b).
 
 ### petora (פתורא)
@@ -132,8 +132,8 @@ and that after the Churban the two senses switched.
 
 ### taka (טכא)
 Rashi glosses it *shulchan* (Berachos 46b, Gittin 67b, Kiddushin 81a). The word
-appears many times in the Gemara; the column cites a few. Once the *taka* is
-removed at the end of a meal one has declared intent to bench and may not eat
+appears many times in the Gemara. Once the *taka* is
+removed at the end of a meal one has essentially declared intent to bench and may not eat
 again until he does (Berachos 42a); Rava, eating at the Reish Galusa's, went on
 eating food the Reish Galusa sent him after his own *taka* was taken away,
 explaining that he did not yet intend to bench, relying on the Reish Galusa's
@@ -161,7 +161,7 @@ subset of it. Alternatively he takes *tevel* as a portmanteau of *tav*, good,
 and *lo*, not, an explanation also offered by *Sefer HaAruch*, Bartenura (to
 Berachos 7:1), Rabbi Chaim Vital (*Eitz Chaim*, Shaar 50 ch. 3) and *Kli Yakar*
 (to Shoftim 11:3). He also suggests that *tevel* is related to the Arabic
-*mitabel*, food with something mixed into it, which, the column notes though
+*mitabel*, food with something mixed into it, which, Rabbi Klein notes though
 Rabbeinu Manoach does not, is a cognate of Hebrew *tavlin*, spice (see also
 *HaKsav VeHaKabbalah* to Shemos 22:28).
 

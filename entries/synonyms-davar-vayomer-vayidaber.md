@@ -24,11 +24,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The column's founding premise: in Hebrew a word is not a convention but
+Rabbi Klein's founding premise: in Hebrew a word is not a convention but
 expresses the essence of the thing, which is why *davar* means both **word** and
 **thing**; every element of creation is a Divine word crystallized into
-material existence. That raises the problem the column exists to answer: why
-would Hebrew need several words for one concept? The answers usually follow a
+material existence. That raises a problem: why would Hebrew need several words
+for one concept? The answers usually follow a
 few templates: the words only seem alike, or they focus on different aspects,
 or (in verbs) differ in degree or intent, or stand as general term and species,
 or one is borrowed from another language to make a point, in which case it may
