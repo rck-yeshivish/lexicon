@@ -60,10 +60,10 @@ commanded *mizbeach* with the hated *matzeivah*.
    set up to mark the entrance of an idolatrous temple, a utilitarian monument
    rather than a place of offering.
 
-The Bottom line follows Rashi, since it is the reading that
+Rashi's is the reading that
 governs the *matzeivos* of the Avos (Yaakov at Beis El, Bereishis 28:18-22, and
 Hashem later identifying Himself to him as the One for whom that *matzeivah* was
-set up, Bereishis 31:13), but gives "pillar" as well, because Ramban's reading is live wherever the *matzeivah* is
+set up, Bereishis 31:13); Ramban's reading is live wherever the *matzeivah* is
 an idolater's and no sacrifice is mentioned. On Rashi's reading the change is
 historical, not lexical: the *Sifrei* (to Devarim 16) says Hashem originally
 cherished single-stone altars in the era of the Avos, and that by the time the

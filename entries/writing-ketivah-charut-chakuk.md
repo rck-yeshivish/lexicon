@@ -232,6 +232,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Yisro: Write it down," *What's in a Word?*, Ohr Somayach, 15 February 2025.
+Rabbi Reuven Chaim Klein, "[Yisro: Write it down](https://articles.ohr.edu/articles/yisro-write-it-down)," *What's in a Word?*, Ohr Somayach, 15 February 2025.
 
 Cited in the essay: Bereishis 49:10; Shemos 17:14, 20:4 with the *Mechilta*, 28:9 with *HaKsav VeHaKabbalah*, 28:11, 28:21, 28:36, 31:18, 32:4, 32:15 with Rashi, 32:16 with Rashi, Rashbam and Targum, 34:1, 34:4, 34:28, 39:6, 39:14, 39:30; Vayikra 19:28 with Targum Onkelos and Targum pseudo-Jonathan; Bamidbar 21:18; Devarim 9:10, 10:1, 10:3, 10:4, 31:9, 31:22, 31:24, 33:21; Shoftim 5:9, 5:14; Melachim I 5:32; Yeshayahu 8:1; Yirmiyahu 17:1 with Targum; Yechezkel 5:1; Chavakuk 2:18; Tehillim 60:9; Malachi 3:16; Daniel 5:24 to 25, 6:9 to 14, 10:21; Rav Hirsch to Bereishis 41:8, Shemos 7:11, 32:2, 32:15, 34:27 and Devarim 4:16; Eruvin 54a; Shabbos 104a; Gittin 20a; Mishnah *Shabbos* 12:3 to 4, *Beitzah* 4:7, *Sotah* 2:4, *Makkos* 3:6, *Chullin* 10:3, *Parah* 9:1; *Shemos Rabbah* 32:1; *Shir HaShirim Rabbah* 8:3; Zohar *Yisro* 84b, and *Korach* 177a with Rabbi Moshe Zacuto's commentary; *Machberes Menachem*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* (*choveres* 11, *yeriah* 31) and *Cheshek Shlomo*; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Yehuda HaLevi, *Yom Shabbason*; Rabbi Meshullam bar Kalonymus, *yotzer* for the second day of Pesach; Rabbi Ernest Klein, etymological dictionary of Hebrew.

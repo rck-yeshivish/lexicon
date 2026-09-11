@@ -65,7 +65,7 @@ what is measured is partial (*chavlei*, localized pains; *chavalah*, partial
 damage; a *chevel* of people, a sub-group only partly reflecting the larger
 body), so *chaval* is an act of injuring the debtor by a measured incursion into
 his property to settle a debt. The
-Bottom line takes the practical result the article's sources converge on, that
+column's sources converge on a practical result, that
 *chaval* carries force: Tedeschi-Ashkenazi sets it against *avot* as forcible
 against agreed, and Rashi reaches the after-the-fact taking from the halachah.
 Tedeschi-Ashkenazi has

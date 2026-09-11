@@ -32,9 +32,7 @@ commentators to *ne'elam*, hidden (Rav Hirsch: potential still undeveloped).
 Against *naarah*, Ibn Ezra makes *almah* younger, *Peirush HaRokeach* less
 outgoing, and Rabbeinu Efrayim wiser, one who hides his words; Rabbi Analak
 makes *elem* sheer strength; *Chizkuni* finds no difference of meaning, only
-Hebrew against Aramaic. The one thing not to get wrong: Tanach uses *naar* far
-outside any age bracket, so give an age in English only where a commentator
-supplies one.
+Hebrew against Aramaic. Tanach uses *naar* far outside any age bracket.
 
 ## Distinctions
 
@@ -184,6 +182,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Chayei Sarah: Boys and Girls (Part 1)," *What's in a Word?*, Ohr Somayach, 14 November 2020.
+Rabbi Reuven Chaim Klein, "[Chayei Sarah: Boys and Girls (Part 1)](https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1)," *What's in a Word?*, Ohr Somayach, 14 November 2020.
 
 Cited in the essay: Bereishis 17:25, 18:7 with Rashi, 21:12, 21:17-20, 22:3, 22:5, 24:14, 24:16, 24:28, 24:43 with Rabbeinu Efrayim ben Shimshon and *Chizkuni*, 24:55, 24:57, 25:27 with Rashi, 37:2 with Rashi and Rabbi Eliyahu Mizrachi, 41:12 with Rashi, 44:22, 44:33; Rav Hirsch to Bereishis 13:15; Shemos 2:6, 2:8, 33:11; Shmuel I 17:56, 20:1-42 with *Peirush HaRokeach*, 20:22; Shmuel II 18:32; Divrei HaYamim II 13:7; Radak to Yehoshua 6:23; Ibn Ezra to Shir HaShirim 1:3; Kesubos 39a; Rashi to Kesubos 44b; Sotah 12b; *Seder Olam* ch. 1; *Sifrei* to Devarim 33:21; *Midrash Mishlei* to Mishlei 1:4; *Shemos Rabbah* 1:13.

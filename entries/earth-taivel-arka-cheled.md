@@ -62,8 +62,7 @@ letters, different nikud, one root. And *karka* is not on this list at all.
 90:2, 24:1), *Metzudas Tziyon*: *eretz* is the uninhabited parts and *taivel*
 the inhabited. Malbim: *eretz* is the globe entire, *taivel* only what is
 settled. Rashi (to Tehillim 24:1): *eretz* is Eretz Yisrael and *taivel* the
-rest of the planet. The Bottom line follows Malbim and *Metzudas Tziyon*,
-Rashi's reading being local to his pesukim.
+rest of the planet. Rashi's reading is local to his pesukim.
 
 **Why *taivel* is so called.** Avos d'Rabbi Nasan (version 1) gives two answers,
 both from the root BET-LAMED as Rabbi Shlomo Pappenheim reads it, a thing losing

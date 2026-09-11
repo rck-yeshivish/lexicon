@@ -56,8 +56,8 @@ turning to *tav*. Rashi (to Shemos 38:26), Rashbam (to Bereishis 24:22), Ibn
 Ezra (both places), and Radak (*Sefer HaShorashim*) say *beka* is *half* a
 shekel. Rabbi Yaakov Zev Lev (*Me'at Tzari*) dissolves the clash: they speak two
 dialects. Onkelos's *shekel* is the Rabbinic one, already equal to the Biblical
-half-shekel; Rashi and Ibn Ezra mean the Biblical shekel. The Bottom line follows
-this, since it leaves every source saying the same amount.
+half-shekel; Rashi and Ibn Ezra mean the Biblical shekel. This leaves
+every source saying the same amount.
 
 **Why the piyut on Shabbos Shekalim says "a *shekel* I will bear."** The piyut,
 ascribed to Rabbi Elazar HaKallir and said customarily on Shabbos Shekalim,
@@ -70,7 +70,7 @@ same to the name of Maseches Shekalim. Rabbi Elazar Rokach of Amsterdam reads it
 esoterically: in *at-bash* the letters of שקל come to twenty-six, the gematria of
 the Shem HaMeforash, and since Hashem's Name is incomplete until Amalek is wiped
 out (Rashi to Shemos 17:16), the *shekel* is halved now and will be whole in the
-days of Mashiach. The Bottom line follows Rabbi Schlussel; Rabbi Elazar Rokach's
+days of Mashiach. Rabbi Elazar Rokach's
 is a derush on the same fact, not a rival lexicography.
 
 **Why the Rabbis chose *sela*.** No source states it. Rabbi Asher Gvirer of

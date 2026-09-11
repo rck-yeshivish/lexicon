@@ -55,8 +55,8 @@ Bereishis 4:23, Shemos 21:25, Yeshayahu 1:6 and Mishlei 20:30.
 skin; *chaburah* is the wound where blood collects underneath and does not
 emerge, showing as a red mark (Rashi to Shemos 21:25). The Vilna Gaon (to
 Yeshayahu 1:6, Mishlei 20:30) similarly: *petza* is an open wound or bleeding
-laceration, *chaburah* a bruise. The Bottom line follows this reading, which,
-as the column notes, all the etymologies of *petza* below account for.
+laceration, *chaburah* a bruise. As the column notes, all the
+etymologies of *petza* below account for this reading.
 
 **Rav Saadia Gaon** (882 to 942), cited by Ibn Ezra after Rashi's view (long
 commentary to Shemos 21:25): *petza* is a **broken bone**, *chaburah* a

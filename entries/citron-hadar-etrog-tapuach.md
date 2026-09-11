@@ -69,7 +69,7 @@ as the source of the law, Ibn Ezra (to Vayikra 23:40) and the Rambam
 (introduction to his Commentary on the Mishnah): the identification is an
 undisputed Mosaic tradition, and the derashos are exegetical allusions that do
 not operate on the plain level; both add that the citron is in fact the most beautiful of fruits
-(Rambam, *Moreh Nevuchim* 3:43), so the title suits it. The Bottom line follows them.
+(Rambam, *Moreh Nevuchim* 3:43), so the title suits it.
 
 **Whether hadar and esrog are the same word in two languages.** The groundwork
 is the Raavyah's, on the kesubah formula in which a groom writes that his bride

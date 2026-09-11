@@ -78,8 +78,7 @@ the throes of desire the heartbeat grows noticeably consistent and consecutive)
 and *neshikah* (a kiss, either the outward realization of *teshukah* or because
 kissing makes a distinct sound) and *neshek* (a weapon, either because its
 mechanics make a certain noise or because two combatants approaching each other
-on the battlefield resemble two lovers approaching for a kiss). The Bottom line keeps "roars," the majority of the three, but the gait reading
-remains live.
+on the battlefield resemble two lovers approaching for a kiss). Two of the three read it as a sound; the gait reading remains live.
 
 **What separates the lion's four verbs.** Rabbi Yechiel Michel Stern, Rav of the
 Ezras Torah neighborhood in Yerushalayim, suggests that the difference is the
@@ -88,8 +87,7 @@ hungry) and Rashi (to Sanhedrin 102a, Berachos 32a: *nohem* when it has a lot to
 eat, so that it becomes especially happy and goes berserk). He does not explain
 what causes a lion to be *yehegeh* or *noer*. Rabbi Pappenheim works instead from the biliteral roots and
 gets a different grid: *shoeg* involuntary, *nohem* deliberate, *yehegeh*
-steady, *noer* sudden. The two are compatible in practice and the entry keeps
-both, Stern for the cause and Pappenheim for the manner.
+steady, *noer* sudden. The two are compatible in practice, Stern giving the cause and Pappenheim the manner.
 
 **Where nohek comes from.** Rabbi David Chaim Chelouche (1920-2016), the late
 Chief Rabbi of Netanya, argues that both *nohem* and *nohek* derive from נ-ה,

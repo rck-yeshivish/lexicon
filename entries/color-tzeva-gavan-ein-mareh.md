@@ -57,7 +57,7 @@ what has been done to it.
 color proper; *mareh* is the full picture of the thing, which may take its color
 in. Shadal says the same and adds the third term: *ein* and *mareh* both name a
 thing's natural look, while *tzeva* is an artificial color produced by painting
-or dyeing. The Bottom line follows both, since they agree.
+or dyeing.
 
 **How wide ein reaches.** Raavad I (*Emunah HaRamah* 1:6) keeps it to color: the
 word means color because the eye is the organ that detects color, exactly as
@@ -92,9 +92,6 @@ being a microcosm of something.
    connects it to the Sanskrit *gaona/gauna*, which apparently also means
    "color"; the column notes that Sanskrit and Old Persian both belong to the
    Indo-Iranian branch of Indo-European and share a common ancestor.
-
-The Bottom line follows the third for lexicography and keeps the second as a
-usable rule of thumb, since *tzeva* really does carry the dyeing sense.
 
 **Whether the Aramaic root ג-ו-נ has one meaning or three.** Rabbi Eliyahu
 Bachur (*Sefer Tishbi*, *Meturgaman*) gives three separate entries: form or

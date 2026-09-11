@@ -72,8 +72,7 @@ it is housed at a port along the sea's edge; from its being less seaworthy than
 an *oniah*, so that it must be kept closer to shore and is unsuitable for
 deep-sea work; or from *tzafun*/*safun*, "hidden" or "embedded," since goods were
 packed away and carried on it (Devarim 33:19 with Abarbanel there). Only the third would make the two words differ, and Pappenheim himself only
-suggests it; the
-Bottom line keeps *sefinah* and *oniah* equivalent. Rabbi Klein adds that he
+suggests it. Rabbi Klein adds that he
 seems to recall commentators explaining *safun* of the hull being immersed, and
 so hidden, in the sea while only the upper part shows, but reports that he could
 not locate the source.

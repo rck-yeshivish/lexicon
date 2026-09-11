@@ -71,11 +71,9 @@ appear nineteen times in Tanach, *achad asar* and *achat esreh* thirteen.
 4. **Unknown.** Radak rejects both Ibn Janach and Ibn Ezra and concludes that
    the derivation is beyond us.
 
-The Bottom line does not rest on any of these, since all four agree on the
-number. It does note that Ibn Janach ties eleven to twelve and Ibn Ezra ties it
+All four agree on the number. Ibn Janach ties eleven to twelve and Ibn Ezra ties it
 to ten, which the column says may have interesting implications for Jewish
-numerology, and which matters for a derashah on the number. Mintzberg's reading has the advantage of explaining the grammar, and
-the Bottom line follows him and the Rokeach on usage.
+numerology, and which matters for a derashah on the number. Mintzberg's reading has the advantage of explaining the grammar.
 
 **When each form is used.** *Peirush HaRokeach*, in what the column calls a
 somewhat cryptic explanation: where eleven is invoked with all the numbers before

@@ -79,8 +79,8 @@ whose wealth is not well grounded but figuratively hangs and may swing from one
 situation to another; and *dalah* fits because drawing water from a well
 typically means hanging a *d'li* on a rope and lowering it in.
 
-The Bottom line follows Malbim on the practical question, which Shadal (to
-Bereishis 24:13) explains similarly; the root debates change the etymology, not
+Shadal (to Bereishis 24:13) explains the practical difference as Malbim does;
+the root debates change the etymology, not
 the difference between the two verbs.
 
 ## Distinctions

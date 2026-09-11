@@ -49,7 +49,7 @@ violet, with yellow, green, blue and indigo in between, so his definition does
 not settle the shade.
 The Midrash fixes it by comparison instead: *techeiles* resembles the color of
 the *sapir* stone, which is why looking at the tzitzis recalls the whole Torah,
-the Luchos having been hewn from *sapir*. The Bottom line follows the Midrash's comparison, which is to an object and not
+the Luchos having been hewn from *sapir*. The Midrash's comparison is to an object and not
 to a name for a hue. On the breadth of *yarok*, see the entry on
 *yerek*/*yarok*.
 
@@ -73,8 +73,7 @@ really mean blue. And Professor Aharon Demsky of Bar Ilan University points to a
 ancient wine decanter found near Chevron inscribed "[Belonging] to Yachzeyahu,
 wine *kachol*"; since there is no such thing as blue wine, the column takes the
 inscription to mean dark wine, and concludes from the two that *kachol*
-originally meant black or dark rather than blue. This entry follows that conclusion, except where an authority, like Rashi on
-the marble, has read it as blue.
+originally meant black or dark rather than blue.
 
 ## Distinctions
 

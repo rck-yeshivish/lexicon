@@ -74,7 +74,7 @@ shard suits it for scratching, while separately suggesting that perhaps *cheres*
 affliction brought on by bad climate, related to the sun's power over one's environment;
 Rabbi Klein wonders whether that means sunburn, noting that Mecklenburg does not say so.
 Ibn Saruk, Ibn Janach and Radak intimate no connection at all between the two senses of
-ח-ר-ס. The Bottom line follows Bedersi's first reading with Rashi.
+ח-ר-ס.
 
 **Where shechin comes from.** Rashi (to Shemos 9:9, Vayikra 13:18, Chullin 8a): from heat,
 flesh made hot by a wound rather than by fire, as in Mishnaic *shechunah*, hot weather

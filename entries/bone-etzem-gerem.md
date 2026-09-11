@@ -74,9 +74,8 @@ the bone's hard outside, *gerem* the hollow inside where the marrow is.
    juxtaposes that pasuk with "a good report fattens the *etzem*" (Mishlei 15:30);
    the juxtaposition is his, the distinction the Gaon's.
 
-All three are usable; the Bottom line leads with Rav Hirsch, because his reading
-alone explains the rabbinic *grama*, and records the Vilna Gaon because it is
-what drives his ruling on *germani* below.
+Rav Hirsch's reading alone explains the rabbinic *grama*, and the Vilna Gaon's
+bears on his ruling on *germani* below.
 
 **Chamor garem (Bereishis 49:14).** Yaakov's berachos compare several sons to
 animals, Yehudah to a lion cub (49:9), Dan to a snake (49:17), Naftali to a

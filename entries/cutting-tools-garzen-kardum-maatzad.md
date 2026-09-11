@@ -63,7 +63,7 @@ extraneous. Ibn Janach (*Sefer HaShorashim*) and Rabbi Shlomo Ibn Parchon
 (*Machberes He'Aruch*) list the word under both and settle on neither. Ibn Janach
 further ties ג-ר-ז to its metathesized twin ג-ז-ר, cutting, and Rashi (to
 Tehillim 31:23) and his grandson Rabbeinu Tam likewise follow Donash Ibn Labrat
-in doing the same. The Bottom line follows Radak: four-letter roots are, as the
+in doing the same. Four-letter roots are, as the
 column notes, generally reckoned rare in Hebrew and are often explained by the
 commentators as loanwords from foreign languages, and a *garzen* plainly cuts.
 
@@ -72,15 +72,14 @@ the Mishnah's tool (Keilim 13:3), double-sided, adze one way and axe the other.
 Ibn Janach defines it a "spade," which Radak rejects; the column suggests that
 the later Rabbinic digging sense is likely what led Ibn Janach there. That
 digging sense is Rabbinic and not attested in Tanach: Avos 4:5 warns against
-making Torah a *kardum* to dig with. The Bottom line follows Radak for Tanach and
-lets the Mishnaic digging sense stand on its own.
+making Torah a *kardum* to dig with.
 
 **How *garzen* and *kardum* divide the work.** Dr. Aaron J. Koller, on whose work
 the column says much of the article rests, argues from the principle that
 languages tend to avoid absolute synonyms that *garzen* is the "large ax" used to
 fell a tree, while *kardum* is the "smaller ax" used to cut the fallen log into
 pieces and chop off protruding branches. This sits beside Radak's double-headed
-*kardum* rather than replacing it, and the guide keeps both.
+*kardum* rather than replacing it.
 
 **Whose tool the *maatzad* is.** Rashi (to Yeshayahu 44:12) makes it one of the
 blacksmith's tools, and elsewhere (to Shabbos 102b) a type of large *kurnas*.
@@ -90,12 +89,10 @@ woodworker's hand (Shabbos 12:1, Bava Kamma 10:10, Erchin 6:3, Keilim 13:4,
 idol-makers, where a carpenter is carving wood (Yeshayahu 44:12, Yirmiyahu 10:3).
 Koller's resolution of the Yeshayahu context, which the column adopts, is that
 the tool is *made* by a blacksmith even though it is *used* by the woodworker.
-The Bottom line takes it as the woodworker's adze.
 
 **What *kashil* and *keilapot* are.** Menachem Ibn Saruk understands both as
 names of weapons. Donash Ibn Labrat identifies them as woodcutters' tools, and
 the Mishnah's use of *kashil* beside *maatzad* (Bava Kamma 10:10) bears him out.
-The Bottom line follows Donash.
 
 ## Distinctions
 
@@ -150,8 +147,8 @@ Root ע-צ-ד. An adze is not an axe: an axe blade lies parallel to its handle a
 strikes perpendicular to the surface, while an adze blade sits perpendicular to
 the handle and works at an oblique angle. The axe fells the tree and trims the
 branches; the logs are then cut into workable planks, and the adze shapes the
-wood afterward. A tool that does both jobs is a mattock in English, which is why
-*kardum* takes that word.
+wood afterward. A tool that does both jobs is a mattock in English; the
+*kardum* is such a tool.
 
 The root raises a question the column takes up at length. The Gezer Calendar, an
 ancient Canaanite inscription found at Gezer, lists agricultural tasks by

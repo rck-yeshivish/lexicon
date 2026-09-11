@@ -73,8 +73,7 @@ separate derashos.
 *beged* is a plain cloth like a tallis, unfitted to its wearer, while *kesus* is
 a garment specially sewn to his shape and dimensions. Rabbi Shlomo Aharon
 Wertheimer is the one who points out that the two stand in contrast, and he
-leaves it there. The
-Bottom line follows Malbim.
+leaves it there.
 
 **What kesus names.** Malbim: the manner of wearing, draped rather than donned.
 Rabbi Shlomo Pappenheim: the function, protection from heat and cold. Compatible,

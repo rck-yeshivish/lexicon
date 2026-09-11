@@ -63,8 +63,7 @@ Pappenheim reads ס-ל as repeated action instead: *mesilah* is a road because
 many have trodden it, and one who twists his hair over and over is *misalsel*
 (Rosh Hashanah 26b), so *sal* is a bread basket, an item in constant daily use
 (Bereishis
-40:16, Vayikra 8:2). The Bottom line takes "basket" plainly, since Pappenheim
-himself admits that *sal* can mean any basket in a borrowed sense, even a basket
+40:16, Vayikra 8:2). Pappenheim himself admits that *sal* can mean any basket in a borrowed sense, even a basket
 of meat (Shoftim 6:19) or grapes (Yirmiyahu 6:9). Against all of this, Dr. Chaim
 Tawil points out that the Hebrew *sal* seems in fact to derive from the Akkadian
 *sallu*, which likewise means basket.
@@ -77,7 +76,7 @@ adds that the ט-נ in *shaatnez* likewise carries weaving. Rabbi Aharon Marcus
 keeps the link to *eitun* but holds both are of Egyptian origin, and Rabbi
 Ernest Klein likewise treats *tene* as an Egyptian loanword; Rabbi David Chaim
 Chelouche connects it instead to *beten*, a stomach, a basket being an open
-cavity. The Bottom line follows Pappenheim on the sense and leaves origin open.
+cavity. The origin remains open.
 
 ## Distinctions
 
