@@ -51,7 +51,7 @@ heavenly minister; *eretz Cham*, the Land of Cham, is Tehillim's name for it.
 
 ## Where the authorities disagree
 
-**Why Mitzrayim has a plural or dual ending.** Six accounts, no reconciliation.
+**Why Mitzrayim has a plural or dual ending.**
 - Radak (to Bereishis 10:13): unknown, perhaps something in the circumstances of
   his birth, and once Cham's son bore it he named his own sons the same way.
 - *Peirush HaRokeach* and Rabbi Yehuda HaChassid (there): each of those nations
