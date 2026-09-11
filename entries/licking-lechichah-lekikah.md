@@ -124,8 +124,8 @@ probably call that resemblance to ל-ק-ה and ל-ק-ק pure chance.
   two side by side, or a derashah hangs on the root (Amalek, Balak), fix
   *lekikah* to "lap" and reserve "lick" for *lechichah*, and say in a note that
   the Hebrew uses two roots.
-- Second trap: "lick" in English also means to beat or defeat, an idiom the
-  column traces to Bamidbar 22:4 itself. That makes "lick" serviceable in
+- Second trap: "lick" in English also means to beat or defeat, an idiom
+  traced to Bamidbar 22:4 itself. That makes "lick" serviceable in
   Balak's mouth, but never use it that way for *lekikah*.
 
 ## Notes for a project

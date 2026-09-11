@@ -266,7 +266,7 @@ has lost the legal sense and means manners or etiquette.
 - דת ודין (Esther 1:13): "law and judgment." Rabbi Yosef Nechemias reads the
   order as deliberate (practical *dat* before theoretical *din*); do not reorder.
 - Standalone דת in Esther: "edict," "decree," or "law." Not "religion," which
-  the column calls a mistranslation; on its reading the original sense of the
+  Rabbi Klein calls a mistranslation; on his reading the original sense of the
   word may have nothing to do with religion as such, and the modern *dati* sense
   should not be read back into the pasuk. Devarim 33:2: "a fiery law."
   Standalone דין in mussar: "judgment" (*middas hadin*) or "the law" (its

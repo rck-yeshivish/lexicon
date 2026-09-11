@@ -67,10 +67,9 @@ Ancient Greek εὐθέως, *eutheos*, means "immediately."
 
 ## Rendering guidance
 
-- Ours, not the column's, which does not discuss the phrase: the doubled *teikef
-  umiyad* (as in *teikef umiyad l'geulah*) is not redundancy for its own sake.
-  Render it as an intensifier, "at once and without delay," rather than
-  "immediately and immediately."
+- The doubled *teikef umiyad* (as in *teikef umiyad l'geulah*) is not
+  redundancy for its own sake. Render it as an intensifier, "at once and without
+  delay," rather than "immediately and immediately."
 - *Miyad* on its own: "straightaway" or "at once." Keep "immediately" in reserve
   as the neutral fallback so it does not absorb every member of the set.
 - *Le'alter*: "on the spot" preserves the *al atar* sense that Pick-Berlin and

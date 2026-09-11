@@ -14,11 +14,11 @@ words:
     tr: rechesh
     en: courier horse, swift steed
     nk: רֶכֶשׁ
-    distinct: 'a specific fast horse, not the general term: a superior young horse (Ibn Janach, Ralbag), a wagon-horse from reches, "tying" (Rav Hirsch), or the king''s own property, rechush (Ibn Ezra)'
+    distinct: a specific fast horse, not the general term; a superior young horse (Ibn Janach, Ralbag), a wagon-horse from reches, "tying" (Rav Hirsch), or the king's own property, rechush (Ibn Ezra)
   - he: אחשתרנים
     tr: achashtranim
     en: mules (or, government steeds)
-    distinct: Megillah 18a says we do not know the word; most read mules born of a male donkey and a mare (Rav Saadia Gaon, Ibn Ezra, Radak, Ralbag), Rashi fast camels, Rabbi Ernest Klein an adjective, "government-owned"
+    distinct: Megillah 18a says we do not know the word; many read mules born of a male donkey and a mare (Rav Saadia Gaon, Ibn Ezra, Radak, Ralbag), Rashi fast camels, Rabbi Ernest Klein an adjective, "government-owned"
   - he: רמכים
     tr: remachim
     en: mares (or, young horses)

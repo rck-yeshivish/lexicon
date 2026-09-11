@@ -9,12 +9,12 @@ words:
   - he: מסוה
     tr: masveh
     en: mask, veil
-    distinct: the Biblical word, only of Moshe's face-covering (Shemos 34:29-35); a cloth over the face with holes for eyes, nose and mouth (Rabbi Shlomo Ibn Parchon), its root sense simply "fabric"
+    distinct: the Biblical word, only of Moshe's face-covering (Shemos 34:29-35); a cloth over the face with holes for eyes, nose and mouth (Rabbi Shlomo Ibn Parchon); on the suto reading its root sense is "fabric"
   - he: מסכה
     tr: masechah
-    en: 'molten image (Modern Hebrew: mask)'
+    en: molten image (in Modern Hebrew, mask)
     nk: מַסֵּכָה
-    distinct: in Tanach a cast-metal figure, from nesech, "pouring" (Ibn Janach, Radak), as in egel masechah; the "mask" sense is modern, from that root's secondary sense of covering, or from MEM-SAMECH-KAF, mixing
+    distinct: in Tanach a cast-metal figure, from nesech, "pouring" (Ibn Janach, Radak), as in egel masechah; the "mask" sense is modern, perhaps by way of that root's secondary sense of covering or of MEM-SAMECH-KAF, mixing (Rabbi Reuven Chaim Klein), and shaped by foreign words like mask (Rabbi Dr. Ernest Klein, Even-Shoshan)
   - he: פרצוף
     tr: partzuf
     en: face
@@ -22,7 +22,7 @@ words:
   - he: סותה
     tr: suto
     en: his garment
-    distinct: Yehudah's "clothing" in Bereishis 49:11, taken by Rashbam, Ibn Ezra and Chizkuni as a cognate of masveh, which is what makes masveh mean "fabric" at root
+    distinct: Yehudah's "clothing" in Bereishis 49:11, taken by Rashbam, Ibn Ezra and Chizkuni as a cognate of masveh, which on their reading makes masveh mean "fabric" at root
 sources:
   - wiaw:9092 "Purim: Fake Faces" (2021-02-20) https://articles.ohr.edu/articles/purim-fake-faces
 authorities: [Rabbi Shlomo Ibn Parchon, Rabbi Yehuda Chayyuj, Ibn Janach, Radak, Rashi, Rashbam, Ibn Ezra, Chizkuni, Menachem Ibn Saruk, Donash Ibn Labrat, Rambam, Rabbi Shlomo Pappenheim, Rabbi Ephraim Lenchitz, Rabbi Zerach Eidlitz, Rabbeinu Chananel, Sefer Chassidim, Tosefos Yom Tov, Rabbi Binyamin Mussafia, Rabbi Moshe Chagiz, Rema, Rabbi Yuzpa Shamash, the Rash, Rabbi Dr. Ernest Klein, Avraham Even-Shoshan]

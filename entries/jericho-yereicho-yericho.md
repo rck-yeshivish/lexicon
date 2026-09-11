@@ -13,7 +13,7 @@ words:
   - he: ירחו
     tr: Yereicho
     en: Jericho
-    distinct: the vocalization of Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah and Divrei HaYamim, without that yod; most of the sources hear reyach, scent, in this form (Yossiphon as Rashi reads him, Rabbeinu Yoel, the Peirush HaRokeach), while the Oraysa editor's rule would give it yareyach, the moon
+    distinct: the vocalization of Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah and Divrei HaYamim, without that yod; several sources hear reyach, scent, in this form (Yossiphon as Rashi reads him, Rabbeinu Yoel, the Peirush HaRokeach), while the Oraysa editor's rule would give it yareyach, the moon
   - he: עיר התמרים
     tr: Ir HaTmarim
     en: the City of Dates
@@ -21,12 +21,12 @@ words:
   - he: ריח
     tr: reyach
     en: scent
-    distinct: from ר-י-ח for the classical lexicographers; Rabbi Shlomo Pappenheim puts it under ר-ח, air, since scent alone travels on the ruach
+    distinct: from ר-י-ח for the classical lexicographers; Rabbi Shlomo Pappenheim puts it under ר-ח, air, scent being the perception no other sense registers, travelling within the ruach
   - he: ירח
     tr: yareyach
     en: moon
     nk: יָרֵחַ
-    distinct: from י-ר-ח for the classical lexicographers; Pappenheim brings it too under ר-ח, the moon governing the tides and winds
+    distinct: from י-ר-ח for the classical lexicographers; Pappenheim brings it too under ר-ח, the moon's movements somehow controlling the tides and winds
 sources:
   - wiaw:9795 "Matot: The Names of Jericho" (2022-07-23) https://articles.ohr.edu/articles/matot-the-names-of-jericho
 authorities: [Rashi, Radak, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Josephus, Yossiphon, Rabbeinu Yoel, Peirush HaRokeach, Rabbi Menachem Azaria of Fano, Rabbi Yedidya Tia Weil, Rabbi David Luria, Rabbi Shimon Schwab, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashash]
@@ -54,7 +54,7 @@ Rashi take it as Jericho.
 | יריחו | Yericho | Jericho | the form in Yehoshua and Shmuel II 10:5, and in most of Melachim; on the Oraysa editor's suggestion the yod points to reyach |
 | ירחו | Yereicho | Jericho | the form in Bamidbar, Devarim, Yirmiyahu, Ezra-Nechemiah, Divrei HaYamim, Melachim II 25:5; Yossiphon (as Rashi reads him), Rabbeinu Yoel and the Rokeach hear reyach in it, the Oraysa editor yareyach |
 | עיר התמרים | Ir HaTmarim | the City of Dates | Devarim 34:3, Divrei HaYamim II 28:15; the standalone phrase at Shoftim 1:16 means Jericho (Targum, Rashi, Radak) |
-| ריח | reyach | scent | the balsam and dates of the region (Yossiphon: Ir HaReyach, the City of Scent) |
+| ריח | reyach | scent | the balsam of the region (Yossiphon: Ir HaReyach, the City of Scent), or its dates (Rabbeinu Yoel, the Rokeach) |
 | ירח | yareyach | moon | Yossiphon: Ir HaYareach, since the new moon was sighted there first |
 
 ## Where the authorities disagree

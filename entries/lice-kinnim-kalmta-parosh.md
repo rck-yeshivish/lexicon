@@ -17,7 +17,7 @@ words:
   - he: כנה
     tr: kinah
     en: a louse
-    distinct: the singular, absent from Tanach but standard in Mishnah and Gemara (*Parah* 9:2, Shabbos 12b); at *Parah* 9:2 it is a *kinah* of the grain, a field pest
+    distinct: the singular, absent from Tanach, once in the Mishnah (*Parah* 9:2) and often in the Gemara (Shabbos 12b); at *Parah* 9:2 it is a *kinah* of the grain, a field pest
   - he: קלמתא
     tr: kalmta
     en: lice (Aramaic)
@@ -25,7 +25,7 @@ words:
   - he: פרעש
     tr: parosh
     en: flea
-    distinct: not a louse but a black, jumping kinah (*Metzudas Tziyon* to Shmuel I 24:14), the creature David compares himself to before Shaul
+    distinct: a black kinah that jumps, in ordinary speech a flea (*Metzudas Tziyon* to Shmuel I 24:14), the creature David compares himself to before Shaul
   - he: כן
     nk: כֵּן
 sources:

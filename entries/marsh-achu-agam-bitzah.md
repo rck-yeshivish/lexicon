@@ -101,8 +101,8 @@ Suf* is the Sea of Reeds.
 - אחו in Bereishis 41: if the translation follows Ramban, "in the reed grass";
   if Rashi, "in the marsh." Say which; the pesukim about Pharaoh's cows read
   differently under each.
-- On "marsh" against "swamp" in English, the column uses the two
-  interchangeably, and closes by noting from Google Books' Ngram Viewer that
+- On "marsh" against "swamp" in English, Rabbi Klein uses the two
+  interchangeably, and notes from Google Books' Ngram Viewer that
   *marsh* was the more common word in print from 1800 to 1850, *swamp* from 1850
   to 1970, *marsh* again from 1970 to 2000, and *swamp* once more since.
 

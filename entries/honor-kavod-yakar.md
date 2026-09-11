@@ -118,7 +118,7 @@ Porat was really named Yosef, for *ben poras Yosef* (Bereishis 49:22).
   "honor" for *kavod* and "esteem" or "preciousness" for *yakar*; Malbim's
   inherent (*kavod*) against rare (*yakar*) is a working gloss for a passage
   that turns on the difference, but Rabbi Avraham Vilner reads it the other way
-  and the column itself leaves the question open.
+  and Rabbi Klein leaves the question open.
 - Second trap: "precious" as a term of endearment is *yakar* only; do not use it
   for *chaviv* or *ahuv*.
 

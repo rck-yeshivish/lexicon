@@ -9,7 +9,7 @@ words:
   - he: כנרת
     tr: Kinneres
     en: Kinneret
-    distinct: the name in Chumash and Nach, taken from the fortified city of Kinneres in Naftali's territory (Yehoshua 19:35), the prominent town on its shore at the time
+    distinct: the name in Chumash and Nach, seemingly taken from the fortified city of Kinneres in Naftali's territory (Yehoshua 19:35), the prominent town on its shore at the time
   - he: גניסר
     tr: Ginosar
     en: Ginosar
@@ -128,13 +128,13 @@ the word also names a berry.
 
 - Use the name the source uses: "Kinneres" in a pasuk, "Ginosar" in a Targum,
   "the Sea of Tiveria" in a sugya. Substituting one for another silently erases
-  the chronology, which is the column's whole point.
+  the chronology, which is Rabbi Klein's whole point.
 - Trap: English "Sea of Galilee" absorbs all three, and it renders none of them.
-  The column traces the phrase to the Christian Bible, which occasionally calls
+  Rabbi Klein traces the phrase to the Christian Bible, which occasionally calls
   the lake the Sea of Tiberias but more often the Sea of Galilee, and which is
   why English speakers know it by that name; Galilee was the administrative name
   of the whole northern region of Eretz Yisrael in Hasmonean and Herodian times,
-  so this too, the column says, is the lake named for its surroundings rather
+  so this too, he says, is the lake named for its surroundings rather
   than a name of its own. Keep it out of a Torah text; if a reader needs the
   identification, put it in a note.
 - Second trap: *kinnor* elsewhere is a harp or lyre and should stay so. Do not

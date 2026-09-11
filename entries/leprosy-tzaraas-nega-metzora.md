@@ -17,7 +17,7 @@ words:
   - he: צרוע
     tr: tzarua
     en: leper (while afflicted)
-    distinct: the man while the affliction is actually on him (Rabbi Eliezer Perlmutter, Even Moshe); for Shadal, one who has only a single nega
+    distinct: the man while the affliction is actually on him (Rabbi Eliezer Perlmutter, Even Moshe); for Shadal, one who has only a single nega, a distinction Rabbi Klein calls hard to substantiate
   - he: מצורע
     tr: metzora
     en: leper (until purified)
@@ -52,7 +52,7 @@ pathological is by definition not a *nega* at all.
 |---|---|---|---|
 | צרעת | tzaraas | leprosy, the affliction | the impurity clinging to the sinner (Arizal); "disease" generally (Ibn Ezra to Vayikra 13:19) |
 | נגע | nega | spot, plague-spot | the meeting point of the man and what strikes him (Pappenheim); the Divine blow that exposes the impurity (Arizal) |
-| צרוע | tzarua | leper, while afflicted | used only of one actually bearing the affliction (Perlmutter); a single spot (Shadal) |
+| צרוע | tzarua | leper, while afflicted | used only of one actually bearing the affliction (Perlmutter); a single spot (Shadal, hard to substantiate by Rabbi Klein's account) |
 | מצורע | metzora | leper, until purified | covers the healed man before purification (Perlmutter); read as *motzi shem ra* (Erachin 15b) |
 | צרעה | tzirah | hornet, pestilence | sent against the Canaanites; a malady rather than an insect (Ibn Ezra), "destruction, pestilence" (Ibn Janach) |
 

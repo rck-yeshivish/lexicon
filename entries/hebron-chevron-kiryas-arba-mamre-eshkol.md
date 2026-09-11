@@ -9,7 +9,7 @@ words:
   - he: חברון
     tr: Chevron
     en: Hebron
-    distinct: from ח-ב-ר, connection or friendship; the gematria equals chaver na'ah and "this is Avraham," so the name points to its most illustrious resident (Rabbeinu Efrayim)
+    distinct: seems to derive from ח-ב-ר, connection or friendship; the gematria equals chaver na'ah and "this is Avraham," so the name points to its most illustrious resident (Rabbeinu Efrayim)
   - he: קרית ארבע
     tr: Kiryas Arba
     en: City of Four, City of Arba
@@ -17,11 +17,11 @@ words:
   - he: ממרא
     tr: Mamre
     en: Mamre
-    distinct: the plain in which Chevron sits (Rashi to Bereishis 35:27), named for Avraham's ally; a name of the city itself per the Midrash
+    distinct: the plain in which Chevron sits (Rashi to Bereishis 35:27), also the name of Avraham's ally; a name of the city itself per the Midrash
   - he: אשכול
     tr: Eshkol
     en: Eshkol
-    distinct: a third name of the city, from Avraham's ally Eshkol; spelled without a vav at first and with one afterwards, for the cluster of grapes (Rabbi Chaim Kanievsky)
+    distinct: another name of the city per the Midrash, from Avraham's ally Eshkol; spelled without a vav at first and with one afterwards, for the cluster of grapes (Rabbi Chaim Kanievsky)
 sources:
   - wiaw:9416 "The City of Four" (2021-10-30) https://articles.ohr.edu/articles/the-city-of-four
 authorities: [Bereishis Rabbah, Rashi, Radak, Ibn Ezra, Daas Zekeinim, Rabbeinu Efrayim, Rabbeinu Bachaya Ibn Chalava, Rabbi Yehuda Ibn Chalava, Rabbi Avraham Maimuni, Rabbi Avraham Menachem Rappaport, Targum Yonasan, Rabbi Dr. Moshe Zidel, Rabbi Chaim Kanievsky, Rabbi David Zvi Hoffmann, Peshitta]

@@ -106,7 +106,8 @@ lip running around the perimeter of the Table.
   like a reed), **hook** where the fishing sense is (Iyov 40:26). Choose by
   context; the word carries both.
 - *Shfataim*: give the Targum's **hooks** with a gloss for Radak's **hearths**
-  or **ledges**, or the reverse; do not print one silently.
+  or Rabbi Eliezer of Beaugency's **ledges**, or the reverse; do not print one
+  silently.
 - Trap: English "hook" absorbs *vav*, *agmon*, *ankliyot* and one reading of
   *shfataim*. Where a source glosses one Hebrew word with another (Rashi
   explaining *vavim* as *ankliyot*), keep the gloss visible: "*vavim*, that is,

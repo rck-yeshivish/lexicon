@@ -95,7 +95,8 @@ and then the subterranean depths, and the switch of words records it.
   switched, so the English must switch too: "ground" for the first stage,
   "land" for the second.
 - Trap: do not carry one commentator's scale of breadth into another's passage.
-  The Gra and the Maharshal are opposed on which word reaches deeper.
+  Malbim and Rabbi Moravsky are opposed to the Maharshal on which word reaches
+  deeper.
 
 ## Notes for a project
 

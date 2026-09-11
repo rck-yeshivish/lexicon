@@ -128,7 +128,7 @@ in the *tuchos*, who gave understanding to the *sechvi*" (Iyov 38:36). Like
 ## Rendering guidance
 
 - Korbanos context: כליות is "kidneys," flatly. Do not reach for "reins," the old
-  English rendering the column notes is often used (it is kin to English *renal*
+  English rendering Rabbi Klein notes is often used (it is kin to English *renal*
   and *adrenaline*); it is now unreadable.
 - Where Hashem "tests the heart and the kidneys," keep "kidneys" and gloss; the
   derashos depend on the anatomy.

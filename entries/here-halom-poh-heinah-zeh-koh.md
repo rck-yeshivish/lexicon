@@ -17,19 +17,19 @@ words:
   - he: הנה
     tr: heinah
     en: here (as a destination)
-    distinct: "here" as the end point of something that came from elsewhere, and alone among these it also carries "until now" in time (Rabbi Avraham Bedersi, Rabbi Shmuel David Luzzatto)
+    distinct: the "here" of an end point reached from elsewhere (Rabbi Shmuel David Luzzatto); unlike poh and halom, often borrowed for time as well, "until now" (Rabbi Avraham Bedersi)
   - he: זה
     tr: zeh
     en: here, this place
-    distinct: "this" pressed into service for place, and the vaguer of the pair, a general area rather than a spot (Rabbi Shmuel David Luzzatto)
+    distinct: the word for "this" pressed into service for place, and the vaguer of the pair, a general area rather than a spot (Rabbi Shmuel David Luzzatto)
   - he: כה
     tr: koh
     en: here, thereabouts
-    distinct: not quite "here" but near it, the kaf carrying its usual "like" (Rabbi Shmuel David Luzzatto)
+    distinct: not quite "here" but near it, seemingly from the kaf in the sense of "like" (Rabbi Shmuel David Luzzatto)
   - he: כאן
     tr: kan
     en: here
-    distinct: the Mishnaic word, cognate of koh; Rabbinic Hebrew folds both poh and halom into it, kan for poh and l'kan for halom (Rabbi Shlomo Pappenheim, Cheshek Shlomo)
+    distinct: the Mishnaic word, understood to be a cognate of koh; Rabbinic Hebrew folds both poh and halom into it, kan for poh and l'kan for halom (Rabbi Shlomo Pappenheim, Cheshek Shlomo)
 sources:
   - wiaw:11665 "Shemot: Here We Go" (2025-01-18) https://articles.ohr.edu/articles/shemot-here-we-go
 authorities: [Rabbi Avraham Bedersi, Rabbi Shmuel David Luzzatto, Malbim, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Radak, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Ibn Parchon, Maharsha, HaKtav VeHaKabbalah, Rabbi Yosef Grayever, Rabbi Chaim Yehoshua Kasovsky, Dr. Lawrence Resnick, Rabbi Eliezer Cohn, Targum]

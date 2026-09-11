@@ -10,17 +10,17 @@ words:
     tr: eretz
     en: land
     nk: אֶרֶץ
-    distinct: 'from REISH-TZADI, running, the ALEPH not being a root letter: the land that ran to do Hashem''s ratzon (Bereishis Rabbah 5:8), or that never stops moving (Radak), and so the active land, often Eretz Yisrael specifically'
+    distinct: from REISH-TZADI, running, the ALEPH not being a root letter; the land that ran to do Hashem's ratzon (Bereishis Rabbah 5:8), or that never stops moving (Radak), and so the active land, often Eretz Yisrael specifically
   - he: אדמה
     tr: adamah
     en: ground
     nk: אֲדָמָה
-    distinct: 'from DALET-MEM, likeness and so incongruity, whence domem, inert: the ground stays passive while what grows in it is active (Rabbi Shlomo Pappenheim); often the lands outside Eretz Yisrael'
+    distinct: from DALET-MEM, likeness and so incongruity, whence domem, inert, the ground staying passive while what grows in it is active (Rabbi Shlomo Pappenheim); often the lands outside Eretz Yisrael
   - he: רצון
     tr: ratzon
     en: will
     nk: רָצוֹן
-    distinct: a person's ultimate will, what he really wants underneath, as against chefetz, the immediate tangible goal (Rav Tzvi Yehuda Kook); the same root as eretz, which likewise reaches below the surface
+    distinct: a person's ultimate will, what he really wants underneath, as against chefetz, the immediate tangible goal (Rav Tzvi Yehuda Kook); the same root as eretz, which, Rabbi Klein adds, likewise reaches below the surface
   - he: חפץ
     nk: חֵפֶץ
 sources:

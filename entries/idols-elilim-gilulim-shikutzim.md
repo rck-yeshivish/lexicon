@@ -124,13 +124,11 @@ by someone else.
   Rabbeinu Shimshon restriction, that the contempt is at the object's filthy
   condition, before importing moral disgust into a passage that is describing
   mold and rust.
-- Ours, not the column's: *matzeivah* is not always pejorative in Tanach (Yaakov
-  sets one up), so reserve the idolatrous rendering "pillar" for where the
-  context makes it so.
-- Also ours: *asherah* in Tanach is usually a cultic tree or post rather than an
-  abstract "validation." The *ishur* and *yashar* readings above are the column's
-  homiletic derivations of the name, not a license to translate the word that
-  way.
+- *Matzeivah* is not always pejorative in Tanach (Yaakov sets one up), so
+  reserve the idolatrous rendering "pillar" for where the context makes it so.
+- *Asherah* in Tanach is usually a cultic tree or post rather than an abstract
+  "validation." The *ishur* and *yashar* readings above are homiletic
+  derivations of the name, not a license to translate the word that way.
 
 ## Notes for a project
 

@@ -77,8 +77,7 @@ true synonyms in lashon hakodesh and therefore must distinguish them.
   which is the reverse of the Hebrew. Resist the instinct: *haazinu* is the ear,
   *shema* is the mind.
 - Where *shema* means to obey (*shamoa tishme'u*), render "hearken" or "obey"
-  and note the shift. (This bullet is ours; the column does not treat the
-  obedience sense.)
+  and note the shift.
 - If a passage follows Chizkuni, Abarbanel or Rabbi Yitzchak Arama rather than
   the Sifrei, say which view the rendering assumes rather than choosing silently;
   the two sides assign near and far to opposite words, and each explains the
