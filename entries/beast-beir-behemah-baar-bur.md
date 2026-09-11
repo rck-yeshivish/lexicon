@@ -41,8 +41,8 @@ updated: 2026-09-10
 *Behemah* is the ordinary word for a **domesticated animal**; *chayah* a **wild
 animal**; *be'ir* a rare word for a **beast**, and for Rav Hirsch the most
 subdued of the three, doing nothing but what instinct drives it to. The same root
-gives *ba'ar*, the **brute** or **boor**, and the Mishnaic *bur*, the
-**uncultured man**. When a pasuk pairs *ba'ar* with *behemah* (Tehillim 73:22) the pairing is the point.
+gives *ba'ar*, the **brute** or **boor**, and on one view the Mishnaic *bur*, the
+**uncultured man**. A pasuk that pairs *ba'ar* with *behemah* (Tehillim 73:22) may allude to the connection between beast and boor.
 
 ## At a glance
 
@@ -79,8 +79,8 @@ animals much as biblical *be'ir* is; on that basis Rabbi Shet bar Yefet
 Hebrew.
 
 Others read the bet of *be'ir* as no part of the root. Rabbi Shlomo Yehuda
-Rapoport, a son-in-law of the *Ketzos HaChoshen* whom the column notes is
-typically counted a maskil, argues that *be'ir* should be read "in the city,"
+Rapoport, a son-in-law of the *Ketzos HaChoshen* who is typically counted a
+maskil, argues that *be'ir* should be read "in the city,"
 the bet being the prefix and *ir* the city, which he takes to reflect that
 *be'ir* means specifically the domesticated animals one would find in an urban
 setting, as against *behemah*, which can take in wild animals too (Tehillim 8:8).
@@ -90,7 +90,7 @@ animal bereaves the field of its produce and leaves it bare.
 
 **Which way the metaphor runs.** Edel and the Malbim: a *ba'ar* is so called
 because his want of intelligence makes him like a *be'ir*. *Ohalei Yehuda*
-reverses it: the animal behaves like a *ba'ar*. A derashah on Tehillim 73:22 turns on the direction.
+reverses it: the animal behaves like a *ba'ar*. Either way, the connection may be alluded to in Tehillim 73:22.
 
 **What bur means.** Some explain it as a cognate of the other Mishnaic
 *bur*, an uncultivated, desolate field (Peah 2:1; Targum Onkelos to Bereishis
@@ -101,8 +101,8 @@ explanation, the antidote to the *ba'ar*'s ignorance, to that family. Rabbi
 Eliyahu HaBachur (*Sefer
 HaTishbi*): a form of *ba'ar* (Targum to Mishlei 12:1, 30:2). All three agree on the sense and differ on the image.
 
-**Whether the English boor belongs here at all.** The column reports that it had
-assumed the English word came from the Hebrew *bur*, and that when asked, the
+**Whether the English boor belongs here at all.** Rabbi Klein had
+assumed the English word came from the Hebrew *bur*, and when asked, the
 translator and literary critic Hillel Halkin, writing as Philologos, replied
 that the two are unrelated: Rabbinic Hebrew *bur*, he holds, is closer to the
 Aramaic *bar*, outside (as in *baraisa*), and has nothing to do with either
@@ -128,7 +128,7 @@ Tehillim 73:21):
 a creature totally subdued, more so than the merely domesticated *behemah*,
 trapped in a cage and doing only what instinct pushes it to do to survive, and so
 cognate with *ba'ar*, the boorish man likewise driven by nothing but his
-animal instincts. These nuances are lost in Targumic Aramaic, which renders both
+animal instincts. These nuances are lost in Targumic Aramaic, which typically renders both
 *behemah*
 and *be'ir* as *be'ira*. Some commentators read the name Bilam ben Beor here
 too, as an allusion to the Gemara's account of Bilam and his donkey: Bilam
@@ -142,15 +142,15 @@ loftier things; alternatively animals are the lower rung of life, figuratively
 trodden upon by their servility to man, and he compares ב-ה-מ to פ-ע-מ,
 "stepping," by the interchange of bet with pei and hei with ayin. *Chayah* he
 takes from
-*chai*, life: the wild animal is an independent life-form, and animal life is a
-higher order than *tzomeach*. For the fuller treatment of this pair, including
+*chai*, life: the wild animal is an independent life-form, or alternatively animal life
+is a higher order than *tzomeach*. For the fuller treatment of this pair, including
 Ramban's division by diet, see [animal](animal-behemah-chayah.html).
 
 ### ba'ar (בער) and bur (בור)
 *Ba'ar* is Biblical, *bur* Mishnaic. Avos 2:5: a *bur* cannot be a fearer of
 Heaven. Dovid HaMelech puts the pair in one pasuk: "I am a *ba'ar* and I do not
-know, I was like an animal (*behemos*) with You" (Tehillim 73:22), the clearest
-place the language itself ties the beast to the boor.
+know, I was like an animal (*behemos*) with You" (Tehillim 73:22), which may allude to
+the connection between the beast and the boor.
 
 ## Rendering guidance
 

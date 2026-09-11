@@ -34,7 +34,7 @@ to a rule about voidable kiddushin, not a rule about bodies.
 The Torah's word for the defect that disqualifies a kohen from serving or an
 animal from the mizbeach, with its two lists at Vayikra 21:16 to 23 and 22:17 to
 25. Rabbi Shlomo Pappenheim (1740 to 1814): the source is the biliteral מ-מ, the
-smallest quantity, which gives *meumah*, "something," almost always in the
+smallest quantity, which gives *meumah*, "something," usually in the
 negative, *lo meumah*, nothing at all (Bereishis 30:31, 39:23; Melachim I
 10:21). A *mum*, then, is a "something" whose presence or absence leaves the
 thing short of perfect: either lacking what completes it or carrying an extra
@@ -59,7 +59,7 @@ of the moon, the darkened part visible at certain points in its cycle (*Rosh
 HaShanah* 23b), and the nick in a knife that makes it unfit for shechitah
 (*Chullin* 10a, 17a). In that light, Rabbi Ernest Klein's contention that *pgam*
 is probably a cognate of the Arabic *fajama*, to break off a bit, makes good
-sense to Rabbi Klein. (Neither word, he adds, has anything to do with the English
+sense to Rabbi Reuven Chaim Klein. (Neither word has anything to do with the English
 "pajama," which comes from the Persian *pay*, leg, and *jameh*, garment.)
 Pappenheim traces it instead to the biliteral פ-ג, weakening: *vayafag libo*,
 Yaakov's heart went weak when told Yosef was alive (Bereishis 45:26), and *pag*,
@@ -73,9 +73,9 @@ The rabbinic uses all sit on "lacking" rather than "blemish":
 1. *Yoma* 70a: the Kohen Gadol reads the second passage by heart rather than
    take out a second sefer Torah, lest people suspect the first had a *pgam*.
    Rashi: they would think it lacked what makes a sefer fit.
-2. *Kesubos* 84a: a family *pgam* is something shameful that detracts from a
+2. Rashi (to *Kesubos* 84a): a family *pgam* is something shameful that detracts from a
    family's standing.
-3. *Sanhedrin* 73a: the rapist has caused the betrothed woman a *pgam*; Rashi,
+3. *Sanhedrin* 73a: a certain category of rapist has caused the betrothed woman a *pgam*; Rashi,
    he has shamed her and cheapened her. The Mishnah (*Kesubos* 3:4) lists *pgam*
    among the payments due, and (3:7) fixes it by comparing a besulah's
    theoretical price on the slave market with a non-besulah's, the drop in value
@@ -111,7 +111,7 @@ cancel, and covers any clause capable of cancelling a deal, express or implied.
 The early commentary on Onkelos ascribed to Rabbi Yaakov Dienna (printed as
 *Patshegen*, *Tzintzenes HaMan*, and *Sefer HaYair*) offers a Semitic derivation
 instead, from ס-י-מ, erasing or destroying, with *pon* somehow pointing back to
-something from the past (the column flags that step as unexplained), and reaches
+something from the past (Rabbi Reuven Chaim Klein flags that step as unexplained), and reaches
 the same result as Rashi: retroactive cancellation. On either
 account a physical defect in a kallah is one thing that can trigger a *simpon*,
 not what the word means.

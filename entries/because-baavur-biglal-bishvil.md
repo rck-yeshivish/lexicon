@@ -53,7 +53,7 @@ Yonah's warning and do teshuvah.)
 
 ### bishvil (בשביל)
 Not in Tanach at all; it enters with Chazal, appearing close to fifty times in
-the Mishnah. Literally *bi-shvil*, "on the path," which may itself picture the
+the Mishnah. Literally it can mean *bi-shvil*, "on the path," which may itself picture the
 road running from a cause to its effect. It usually does the work of *biglal*,
 though in at least one case (Bava Metzia 5:10) it carries the sense of *baavur*.
 Neither *biglal* nor

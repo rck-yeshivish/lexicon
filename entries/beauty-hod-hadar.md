@@ -43,8 +43,8 @@ Yehoshua's *hod* being received, as the moon's is. The same root gives *hodaah*,
 admission and thanksgiving: one recognizes what he knows deep down to
 be true and lets it come to the front by saying it aloud, so again *hod* is what
 lies beneath. Sifrei (Devarim 33:17): *hod* is
-the quality of kingship, the full sovereignty, possibly (the column's
-suggestion) because a king assumes inherent powers; Shlomo receives *hod
+the quality of kingship, the full sovereignty, possibly (Rabbi Klein's
+own suggestion) because a king assumes inherent powers; Shlomo receives *hod
 malchus*
 (Divrei HaYamim I 29:25). Of Hashem, Malbim: His *hod* is hidden, deeper than we
 can perceive; Rav Hirsch: His *hod* is His essence.
@@ -60,24 +60,25 @@ beautiful to the eye; of Hashem, His *hadar* is how He interacts with creation
 and reveals Himself; Rav Hirsch: His role in the world. Moshe's blessing to
 Yosef, "like a firstborn ox, *hadar* is his" (Devarim 33:17), uses *hadar* and
 not *hod*: Yehoshua of Efrayim would lead but with only the outer trappings of
-kingship, so Moshe is called a king (Zevachim 102a) and Yehoshua never is.
+kingship, so Moshe is called a king (Zevachim 102a) and Yehoshua is never explicitly
+called one.
 Rabbi Simcha Maimon: for the same reason the Chashmonaim, kohanim and not of
 royal stock, have *hadar malchus* (Daniel 11:20), kingship true in practice and
-not in essence, against Shlomo's *hod malchus*. Yosef mirrors Yaakov (Bereishis
-37:2 and Rashi) yet is not an Av, being only a reflection of that potential:
-*hadar*, not *hod*; and this, the column says, is the connection the
+not in essence, against Shlomo's *hod malchus*. Rabbi Klein adds that Yosef mirrors Yaakov (Bereishis
+37:2 and Rashi) yet is not an Av, being only a reflection of that potential,
+*hadar* and not *hod*, and that this is the connection the
 Kabbalists allude to between the month of Adar,
 when Moshe died and Yehoshua took over, and the tribe of Yosef. *Sefer
 HaKushyos* (the thirteenth-century school of Chassidei Ashkenaz): Adar is named
 because in it the *hadar* of the trees shows itself, spring being at hand, or
 because in it Moshe, the glory of Yisrael, was born. Tanach in several places
-speaks of Hashem as "wearing" *hod* and *hadar* (Tehillim 104:1; Iyov 40:10;
+speaks of Hashem as "wearing" *hod* and/or *hadar* (Tehillim 104:1; Iyov 40:10;
 Mishlei 31:25). So too the Midrash: when Yisrael were exiled to Bavel they still
 had their clothes until they reached Adullam, where the gentiles of that city
 came out and stripped them, leaving them bare and shamed, and the Midrash finds
 the allusion in "gone from the daughter of Tzion is all her *hadar*" (Eichah
-1:6), *hadar* there meaning clothing. There is a fundamental connection, the
-column concludes, between glory and clothing, which it defers to a later essay.
+1:6), *hadar* there meaning clothing. There is a fundamental connection, Rabbi
+Klein concludes, between glory and clothing.
 
 ### The wider cluster
 Rabbi Shlomo of Urbino (*Ohel Moed*) lists ten words for beauty: *yofi*, *hod*,

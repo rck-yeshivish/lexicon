@@ -41,10 +41,10 @@ because it depends on nothing but itself and is always hunting its next meal.
 ### tzipor (ציפור)
 Root צ-פ-ר. Three readings, and the Tosafos Yom Tov notes the dispute:
 1. Radak (commentary to Bereishis and *Sefer HaShorashim*): any type of bird.
-   The Gemara seems to suggest as much, and the column calls Chullin 139b some
-   Talmudic precedent for it rather than a proof.
+   The Gemara seems to suggest as much, and Chullin 139b gives it some Talmudic
+   precedent.
 2. Sifri, followed by Rambam in his commentary to the Mishnah: *tzipor* is
-   specifically a kosher bird, while *of* covers all birds. This is how the
+   specifically a kosher bird, while *of* covers all birds. This, Rambam explains, is how the
    Mishnah (Chullin 12:2) knows that *shiluach hakein* (Devarim 22:6-7) applies
    only to a kosher bird, since the pasuk there says *tzipor*.
 3. Ramban (to Vayikra 14:4), who also rejects Radak but narrows the word
@@ -52,7 +52,7 @@ Root צ-פ-ר. Three readings, and the Tosafos Yom Tov notes the dispute:
    from Aramaic *tzafra*, "morning."
 
 Rabbi Chanoch Zundel joins the last two. A *tzipor* is the flimsier, weaker
-bird, not a predator, content with whatever man or nature hands it; because it
+bird, generally not a predator, content with whatever man or nature hands it; because it
 trusts another to feed it, it can sleep at night and wake to sing in the morning.
 That is exactly Ramban's dawn-chirper, and it is exactly the Mishnah's kashrus
 criterion: the Torah simply lists the non-kosher birds (Vayikra 11:13-19), and it

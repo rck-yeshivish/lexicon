@@ -36,8 +36,8 @@ updated: 2026-09-10
 ## Bottom line
 
 *Sal* is the ordinary **basket**, and for Rabbi Pappenheim a **bread basket**.
-*Tene* is the **fruit basket** of bikkurim, loosely woven so the air can move
-through it. *Keluv* holds something alive or ripening, so a **basket** for figs and a **cage** for birds; *dud* is a basket or a pot by context, and *kalkalah* is the
+*Tene* is the **fruit basket** of bikkurim, which for him was typically woven
+loosely so the air could move through it. *Keluv* holds something alive or ripening, so a **basket** for figs and a **cage** for birds; *dud* is a basket or a pot by context, and *kalkalah* is the
 large Mishnaic **hamper**.
 
 ## At a glance
@@ -69,7 +69,7 @@ Tawil points out that the Hebrew *sal* seems in fact to derive from the Akkadian
 *sallu*, which likewise means basket.
 
 **Where tene comes from.** Rabbi Pappenheim: the aleph is not root, the root
-being ט-נ, and the word names a basket woven with gaps so that air reaches the
+being ט-נ, and the word names a basket typically woven with gaps so that air reaches the
 fruit and keeps it from spoiling; from the same root he takes *eitun* (Mishlei
 7:16), cloth woven loosely enough to breathe, and Rabbi Yaakov Tzvi Mecklenburg
 adds that the ט-נ in *shaatnez* likewise carries weaving. Rabbi Aharon Marcus
@@ -90,9 +90,8 @@ and grapes (Yirmiyahu 6:9). The Aramaic *sala* is what the Targum uses for
 ### tene (טנא)
 Four appearances, all in Ki Savo (Devarim 26:2, 26:4, 28:5, 28:17), about
 bikkurim and about the blessing and curse on one's produce; in the language of
-Chazal it appears as *teni*. That it is reserved to that parashah, and that the
-Targum reaches for *sal* to render it, is what sets it apart as a different kind of basket rather than a stylistic
-variation.
+Chazal it appears as *teni*. That it is reserved to that parashah marks it as a non-standard word for a
+basket, though the Targum renders it by *sal*.
 
 ### keluv (כלוב), dud (דוד)
 *Keluv* twice: a basket of *kayitz*, summer figs, in Amos 8:1, and a basket in
@@ -104,14 +103,14 @@ Shmuel I 2:14 and Divrei HaYamim II 35:13, the vessels being much the same shape
 *Kalkalah* is frequent in the Mishnah (Peah 7:3; Demai 7:6; Terumos 4:6; Maasros 1:5, 4:2; Shabbos 20:3, 21:1; Eruvin
 3:8; Kiddushin 2:7; Keilim
 16:2, 22:9). Rabbi Tanchum HaYerushalmi: an especially large *sal* people would
-use to store all
+typically use to store all
 kinds of food, its name a cognate of *kalkal*, to sustain (Bereishis 47:12),
-because its contents provide sustenance and nourishment.
+because its contents generally provide sustenance and nourishment.
 *Kefifah*, sometimes spelled with a kuf and sometimes with a kaf, seems to mean
 specifically a wicker basket (Shabbos 2:2; Sotah 2:1, 3:1; Keilim 26:1).
 
 Eight more appear in the Gemara. How they differ is not readily apparent and no
-commentator addresses it, so the column reads them from context clues:
+commentator addresses it, so Rabbi Klein reads them from context clues:
 
 - *dikula* (Chullin 32b) seems to be a basket made from the bast of a *dekel*, a
   palm tree (see Rashi to Shabbos 90b).

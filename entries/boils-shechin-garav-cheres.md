@@ -34,7 +34,7 @@ updated: 2026-09-10
 ## Bottom line
 
 *Shechin* is the umbrella word: **boils**, or more exactly an **inflamed sore**, a wound
-gone hot, not a burn. The other three are kinds of it. Paired, *garav* is the **moist**
+gone hot, not a burn. The other three seem to be kinds of it. Paired, *garav* is the **moist**
 sort and *cheres* the **dry**; *garav* on its own means the dry sort (Rashi). *Yalefet*
 is the sort that **clings**, never leaving the man. *Avabuos* are the **blisters** of
 the makkah in Mitzrayim. *Garav* changes meaning depending on whether *cheres*
@@ -46,7 +46,7 @@ stands beside it.
 |---|---|---|---|
 | שחין | shechin | boil, inflamed sore | the general term; a wound heated and inflamed, not a burn (Nega'im 9:1; Rashi) |
 | גרב | garav | moist boils / dry boils | moist when cheres is beside it, dry when it stands alone (Rashi, Bechoros 41a) |
-| חרס | cheres | dry boils | dry and hard as pottery (Bedersi; Rashi); or from cheres, the sun (Mecklenburg) |
+| חרס | cheres | dry boils | dry and hard as pottery (Bedersi; Rashi); or perhaps from cheres, the sun (Mecklenburg) |
 | ילפת | yalefet | clinging boils | attaches to a man until death, leaving a permanent scar (Rashi; Pappenheim) |
 
 ## Where the authorities disagree
@@ -59,13 +59,13 @@ Borgel (*Chok Nasan*) proposes emending Rashi's text to match.
 **What garav means.** Rashi to Devarim 28:27: *garav* and *cheres* are the less horrid
 sorts of boils, *garav* thoroughly moist and *cheres* thoroughly dry. Rashi to Vayikra
 21:20: *garav* is thoroughly dry, and *yalefet* is the "Egyptian *chazazis*," both dry and
-moist. He resolves it himself on Bechoros 41a: paired with *cheres*, *garav* is the moist
-one; standing alone, *garav* is the dry. (David A. Clines' dictionary of Biblical Hebrew,
-which the column cites here, renders *garav* "eczema" and *cheres* "itch.")
+moist. He resolves it himself, following Bechoros 41a: paired with *cheres*, *garav* is the moist
+one; standing alone, *garav* is the dry. (David A. Clines' dictionary of Biblical Hebrew
+renders *garav* "eczema" and *cheres* "itch.")
 
 **What cheres is.** Rabbi Avraham Bedersi (*Chosam Tochnis*): named for *cheres*, pottery,
-because it is dry as a shard, samech and sin interchanging; Rashi (to Bechoros 41a) says
-hard like pottery. Bedersi then offers a second possibility, that *cheres* is not boils at
+because it is dry as a shard; Rashi (to Bechoros 41a) says hard like pottery, both
+comparisons implicitly resting on the interchange of samech and sin. Bedersi then offers a second possibility, that *cheres* is not boils at
 all but a disease of unbearable itching, reading Iyov 2:8, where Iyov takes a *cheres* to
 scratch himself, as his proof (though that *cheres* has a sin and plainly means a
 potsherd). Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah* to Devarim 28:27) cites the
@@ -80,7 +80,8 @@ Ibn Saruk, Ibn Janach and Radak intimate no connection at all between the two se
 flesh made hot by a wound rather than by fire, as in Mishnaic *shechunah*, hot weather
 (Yoma 53b; the Mishnah there, Yoma 5:1, is the Kohen Gadol's short prayer). Rabbi Yitzchak
 of Zeldin (*Shoresh Yesha*): from *shachum*, Targum's standard word for *chum*, brown
-(Onkelos to Bereishis 30:32), for the brownish color of the spot, mem and nun interchanging.
+(Onkelos to Bereishis 30:32), mem and nun interchanging; this would refer to the brownish
+color of the spot.
 Rabbi Shlomo Pappenheim: from the biliteral ש-ח, bending, which yields *hishtachavaah* and
 *shuchah*, *shichah* and *shachas*, pits and caves cramped enough that a man inside must
 bend, and from there *meshichah*, anointing, since oil softens what is hard and makes it
@@ -113,7 +114,7 @@ either. In Mishnaic Hebrew the root yields *garav*, a vessel for storing liquids
 or jug (Terumos 10:8), and in modern Hebrew *gerev*, plural *garbayim*, a sock (*anpilyaos*
 in rabbinic parlance), which has been connected to the obscure English "greave," leg armor;
 Rabbi Ernest Klein traces both the Hebrew and the English to the Arabic *jawrab*, sock. But
-none of this, Rabbi Klein writes, seems to have anything to do with the Biblical *garav*.
+none of this, Rabbi Reuven Chaim Klein writes, seems to have anything to do with the Biblical *garav*.
 
 ### cheres (חרס)
 Devarim 28:27, "and with cheres from which you cannot be healed." Written with a samech, so

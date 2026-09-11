@@ -34,7 +34,8 @@ updated: 2026-09-10
 ## Bottom line
 
 Both mean **bone**, and both also mean **the thing itself**. *Etzem* is the bone
-as something hard, strong, and self-contained, and it is the general word;
+as something hard, strong, and self-contained, and for Rabbi Shlomo Aharon
+Wertheimer the general word;
 *gerem* is the bone as one part within a frame, which is why the same root gives
 a single step of a staircase and, in rabbinic Hebrew, *grama*, indirect
 **causation** (Rav Hirsch). The Vilna Gaon puts the line differently: *etzem* is
@@ -58,9 +59,9 @@ the bone's hard outside, *gerem* the hollow inside where the marrow is.
    part, but *etzem* attends to its strength and durability, which he groups with
    *osem* (storing up), *chosem* (blocked), and *otzem* (shutting the eyes),
    since something strong is closed and self-contained; *gerem* attends to the
-   bone as one piece of a bigger structure. Hence *gerem hamaalos*, a single step
-   of a staircase (Melachim II 9:13, and see *Metzudas Tzion* there), hence
-   *grama* for causation as one link in a causal chain, and hence the verb of
+   bone as one piece of a bigger structure. *Gerem hamaalos*, a single step
+   of a staircase (Melachim II 9:13, and see *Metzudas Tzion* there), illustrates
+   the point; hence, for Rav Hirsch, *grama* for causation as one link in a causal chain, and hence the verb of
    ג-ר-מ for breaking, that is, pulling the parts of a system apart.
 2. **General against large.** Rabbi Shlomo Aharon Wertheimer: *etzem* is the
    general word for bone of every kind. A fetus is at first fleshy tissue, and as
@@ -74,7 +75,7 @@ the bone's hard outside, *gerem* the hollow inside where the marrow is.
    juxtaposes that pasuk with "a good report fattens the *etzem*" (Mishlei 15:30);
    the juxtaposition is his, the distinction the Gaon's.
 
-Rav Hirsch's reading alone explains the rabbinic *grama*, and the Vilna Gaon's
+Rav Hirsch's reading explains the rabbinic *grama*, and the Vilna Gaon's
 bears on his ruling on *germani* below.
 
 **Chamor garem (Bereishis 49:14).** Yaakov's berachos compare several sons to
@@ -95,9 +96,9 @@ gazelle (49:21), Binyamin to a wolf (49:27). What, then, did he call Yissachar?
    and Leah went out to meet him (Bereishis 30:14-18; see *Sefer HeAruch* s.v.
    *chamra*). The Tosafists offer another route to the same reading: mandrakes
    were said, by a long-standing legend, to shriek lethally when uprooted, so
-   they were harvested by starving an old donkey and clearing the area of people,
-   leaving the animal to pull them up and die of the shriek; apparently, the
-   article says, the *dudaim* in the trade between Rachel and Leah were got that
+   they were commonly harvested by starving an old donkey and clearing the area of people,
+   leaving the animal to pull them up and die of the shriek; apparently the
+   *dudaim* in the trade between Rachel and Leah were got that
    way, so a donkey "caused" Yissachar to be born.
 
 **Yigarem (Bamidbar 24:8).** Bilam's blessing that Israel will consume their
@@ -113,7 +114,7 @@ Tanchum HaYerushalmi (*HaMadrich HaMaspik*) derive the word from *gerem*, since
 bones are white, so a *germani* is a man of especially white skin. The Vilna Gaon
 (*Shenos Eliyahu* there) does not accept this and takes *germani* as a member of
 the European tribes of the lands the Romans called Germanica. Rabbi Klein
-suggests it is likely his own distinction that drove him: if *gerem* is the
+suggests it is likely the Gaon's own distinction that drove him: if *gerem* is the
 bone's interior, tying *germani* to it becomes problematic, since that is not the
 part whose whiteness one sees.
 
@@ -135,13 +136,14 @@ flimsier growths; Ramban (to Vayikra 23:28) had already said that a thing's
 *etzem* is its strongest point.
 
 ### gerem (גרם)
-The Targumim render *etzem* with *garmei*, in the sense of bone and in the sense
+The Targumim typically render *etzem* with *garmei*, in the sense of bone and in the sense
 of self alike; the Aramaic appears in Daniel 6:25. In Hebrew the noun is written
-*gerem* but pronounced *garem* under the influence of the cantillation and
+*gerem* but usually pronounced *garem* under the influence of the cantillation and
 vocalization (Mishlei 17:22, 25:15). "A soft tongue breaks a bone (*gerem*)"
-(Mishlei 25:15) is plainly the body part; the column cites it on the power of
-prayer to overturn a harsh decree. For the self-sense, *gerem hamaalos* is the step itself (Melachim II
-9:13); it would seem, Rabbi Klein writes, that *gerem* as bone gives *gerem* as
+(Mishlei 25:15) is plainly the body part; Rabbi Klein reads the pasuk as
+referring to the power of prayer to overturn a harsh decree. The self-sense may
+already be seen in *gerem hamaalos*, the step itself (Melachim II
+9:13); it would seem, he writes, that *gerem* as bone gives *gerem* as
 self the same way *etzem* does, a man's self being sometimes characterized by the
 hardest parts of his body. Rabbi Eliyahu HaBachur notes the rabbinic
 extension to causation, *gorem*, *grama*, *garmi*, seen already where Targum

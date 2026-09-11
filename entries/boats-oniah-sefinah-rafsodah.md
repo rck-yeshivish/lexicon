@@ -51,7 +51,7 @@ warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
 | אניה | oniah | ship | the general Biblical term, qualified for type (oni Tarshish, oni shayit) |
 | ספינה | sefinah | ship, boat | once in Tanach; the standard Mishnaic word (possibly a lesser, coastal vessel, per Rabbi Shlomo Pappenheim) |
 | רפסודה | rafsodah | raft | tied beams, same as dovrah (Rashi, Radak) |
-| דוגית | dugit | fishing skiff | the fisherman's small boat, from dag (Rashi to Bava Basra 73a) |
+| דוגית | dugit | fishing skiff | the fisherman's small boat (Rashi to Bava Basra 73a), from dag (Sperber) |
 | צי | tzi | large ship, warship | especially large (Rashi); a battleship (Malbim) |
 
 ## Where the authorities disagree
@@ -68,10 +68,10 @@ Nothing settles it.
 **Where *sefinah* comes from.** Rabbi Shlomo Pappenheim gives four derivations
 pulling in different directions: from *saf*, a liquid receptacle it resembles in
 shape (Shemos 12:22; Shmuel II 17:28); from *safah*, "edge," since when not in use
-it is housed at a port along the sea's edge; from its being less seaworthy than
+it is typically housed at a port along the sea's edge; from its being less seaworthy than
 an *oniah*, so that it must be kept closer to shore and is unsuitable for
 deep-sea work; or from *tzafun*/*safun*, "hidden" or "embedded," since goods were
-packed away and carried on it (Devarim 33:19 with Abarbanel there). Only the third would make the two words differ, and Pappenheim himself only
+typically packed away and carried on it (Devarim 33:19 with Abarbanel there). Only the third would make the two words differ, and Pappenheim himself only
 suggests it. Rabbi Klein adds that he
 seems to recall commentators explaining *safun* of the hull being immersed, and
 so hidden, in the sea while only the upper part shows, but reports that he could
@@ -82,7 +82,7 @@ Bava Basra 4:1): yes, since it was attached to the *sefinah* and typically towed
 by the mother ship out at sea. Others seem to disagree, holding that the sale of
 the larger ship cannot be assumed to include the smaller boat (Yerushalmi Bava
 Basra 5:1; *Tosefta* Succah 3:2), and those sources call the small boat *iskupah*
-instead. *Iskupah*, the column notes, is from the Greek *skaphe*, literally a
+instead. *Iskupah* is from the Greek *skaphe*, literally a
 bowl, hence a bowl-shaped boat, and is the ancestor of the Germanic *scif*, from
 which the English "ship," "skiff" and "skipper" come.
 
@@ -106,7 +106,8 @@ water pushes it, so a watcher asks where it is bound; Rav Hirsch (to Bereishis
 Once in Tanach, of Yonah's ship (Yonah 1:5), and thereafter the ordinary word,
 across the Mishnah (Berachos 4:1, Shabbos 9:2, Bava Basra 5:1, Keilim 15:1,
 Ohalos 8:1, and many more). It takes modifiers as *oniah* does: *sefinah
-Alexandris*, the deep-sea ships out of Alexandria (Rambam to Keilim 15:1);
+Alexandris*, the deep-sea ships that would often set out from Alexandria (Rambam
+to Keilim 15:1);
 *sefinas haYarden*, the ferry across the Yarden (Shabbos 83b); *sefinos shel
 piraton*, pirate ships (Shemos Rabbah 17:5). Why Yonah's vessel is called both
 words in one perek is an open question: Rabbi Mordechai Koster put it to Rabbi

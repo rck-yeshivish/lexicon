@@ -22,9 +22,10 @@ updated: 2026-09-10
 
 *Mitah* is the ordinary **bed**, close to thirty appearances in Tanach, from a
 root meaning to incline or stretch out, since a man inclines his body to lie
-down. *Eres* is the rarer word, nine appearances, and every explanation of it
-makes it the more particular one: a fitted or special bed, an iron-framed one, a
-crib, a bed of woven or cross-fastened planks. Targum renders both by *arsa*.
+down. *Eres* is the rarer word, nine appearances, and most of the explanations that
+distinguish the two make it the more particular one: a fitted or special bed, an iron-framed one, a
+crib, a bed of woven or cross-fastened planks. In many instances Targum renders
+both by *arsa*.
 Ramchal holds they are genuine synonyms paired for poetic effect; the other views
 cited do not treat them as fully synonymous.
 
@@ -40,8 +41,8 @@ single letter tes, which he reads as movement to the side, gathering under it
 (broom), *tach* (plastering), *taah* (erred), and more. Every one of these yields
 the
 same sense: to incline or stretch out, which is what a man does with his body to
-lie down. The column notes the same phenomenon in Greek, where *kline*, a bed,
-derives from *klino*, to incline, slant or bend, and that this Greek root
+lie down. The same phenomenon is found in Greek, where *kline*, a bed,
+derives from *klino*, to incline, slant or bend, and this Greek root
 underlies the English *recline*, *incline*, *climax*, *climate* and *clinic*.
 Malbim, in one place: *mitah* is any piece of furniture one lies or
 reclines on, a sofa, couch or loveseat included, while *eres* is specifically
@@ -55,14 +56,14 @@ Nine appearances in Tanach, the famous one being Og's iron *eres* at Devarim
 3:11. In many instances the Targumim render both Hebrew words by the cognate
 *arsa*, which would suggest that they mean the same thing, and that *mitah* is
 primarily Hebrew while
-*eres* is an Aramaic word borrowed into Hebrew; the Hebrew spells it with a sin
+*eres* is an Aramaic word borrowed into Hebrew; the Hebrew generally spells it with a sin
 and
 the Aramaic with a samech, letters that often interchange. Readings:
 
 - Rashbam (to Devarim 3:11): Og's *eres* was his crib. The point of its being
   iron is that Og as an infant was already so strong that an ordinary crib would
   have broken, and an infant, less aware of his own movements, needs the sturdier
-  bed more than a grown man does. Modern Hebrew follows this, *eres* a cradle and
+  bed more than a grown man does. Modern Hebrew partially follows this, *eres* a cradle and
   *arisah* a crib.
 - Rabbi Nosson of Rome (*Sefer HeAruch*): the root ע-ר-ש/ע-ר-ס, from which *eres*
   is ostensibly derived, is an expression of mixture. Building on that,
@@ -83,8 +84,9 @@ the Aramaic with a samech, letters that often interchange. Readings:
   *Eres* is the iron- or metal-framed bed, *mitah* the wooden one.
 - Malbim: *mitah* is generic, *eres* is a custom-fitted bed, whether for the sick
   (Tehillim 41:4), for a child (Og's case), or for a pampered woman (Mishlei
-  7:16). Talmudic Aramaic *arsa* can also mean a coffin (Kesubos 103a), which
-  sits well with his reading, though *mitah* too is used that way.
+  7:16). Talmudic Aramaic *arsa* can also mean a coffin (Kesubos 103a), which,
+  as Rabbi Klein observes, in certain ways sits well with Malbim's reading,
+  though *mitah* too is used that way.
 
 ### the mussar and kabbalistic readings
 Rabbi Aviad Sar-Shalom Basilea (*Emunas Chachamim*) posits that *mitah* is

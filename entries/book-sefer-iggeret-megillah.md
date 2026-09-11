@@ -20,10 +20,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Sefer* is the general **book** or written document, and in medieval usage
+*Sefer* is the general **book** or written document, and in early medieval usage
 specifically the **scroll**. *Megillah* is the **scroll** meant to be rolled
 up, and unqualified it means Megillas Esther. *Iggeret* is a **letter** or
-**epistle**, a short-lived document sent elsewhere. *Gilayon* is a single
+**epistle**, on several accounts a short-lived document sent elsewhere. *Gilayon* is a single
 **sheet**, later a margin and then a **gloss**; *shtar* a **deed** meant to
 last; *machzor* originally the **codex**, later the yom tov siddur; *kuntres* a
 **pamphlet**. Esther is called all three of *sefer*, *megillah* and *iggeret*,
@@ -34,8 +34,8 @@ and each name carries a halachah.
 ### sefer (ספר)
 The generic term, used of the twenty-four books (though some are called a
 *megillah*), of a Sefer Torah, and of legal documents (the Mishnah, *Yevamos*
-15:3, calls a kesubah a *sefer kesubah*). Moshe's plea after the eigel is the
-column's opening case: erase me from Your *sefer* that You wrote (Shemos 32:32),
+15:3, calls a kesubah a *sefer kesubah*). Moshe's plea after the eigel:
+erase me from Your *sefer* that You wrote (Shemos 32:32),
 where the word is a book or written document plainly.
 
 Rabbi Elimelech of Lizhensk: *sefer* is from *sfar*, a border, since as a
@@ -79,17 +79,17 @@ childhood, that he later looked for a source and came up empty-handed, and that 
 Esther calls itself an *iggeret* (Esther 9:26-29), and Shmuel (Megillah 7a)
 holds it "was said to be read, not said to be written." *Iggeres* and its
 variations appear only in the later, post-Exilic books, Esther, Ezra and
-Nechemiah, and Divrei HaYamim II. Professor Avi Hurvitz builds on exactly that:
-he takes *iggeret* and *sefer* as synonyms, both meaning "letter," and holds that
+Nechemiah, and Divrei HaYamim II. That distribution fits the view of Professor
+Avi Hurvitz: he takes *iggeret* and *sefer* as synonyms, both meaning "letter," and holds that
 the choice between them reflects nothing but the stage of the language, *sefer*
 the older variant and *iggeret* the later one.
 
 Rabbi Dr. Jose Faur proffers a different account, from Divrei HaYamim II 30:6,
 where Chizkiyahu sends runners with *igros* calling for teshuvah: an *iggeret* is
 a government decision publicized aloud by a royal herald reciting from a written
-memorandum, with no copies released to the public, which is exactly "said to be
+memorandum, with no copies released to the public, so that one could say of it "said to be
 read, not said to be written," whereas a *sefer* is an officially published work
-from which copies may be made. He notes that a herald would unfold the whole
+from which copies may be made. He notes that a herald would typically unfold the whole
 scroll before reading, and that an *iggeret* would not be read with the taamim;
 from which he concludes that reading Esther today, with the taamim but with the
 scroll first unfolded entire, is a synthesis or compromise of *iggeret* and
@@ -120,9 +120,9 @@ with that, Rabbi Moshe Chaim Leiter of Kiryat Sefer suggests it may derive from
 ג-ר, temporary residence, since a document written to be sent elsewhere has only
 a short-lived first home; Rabbi Shlomo Pappenheim offers a similar understanding,
 a document moved about a province so as to publicize its contents thoroughly,
-which the column notes is closer still to Rabbi Faur. Rabbi Shlomo Aharon
+which is closer still to Rabbi Faur. Rabbi Shlomo Aharon
 Wertheimer derives it instead from *agur*, a collection stored long term, so an
-*iggeret* is a document meant to be preserved, which on the surface, the column
+*iggeret* is a document meant to be preserved, which on the surface, Rabbi Klein
 says, seems to contradict Rabbi Faur and Rabbi Soloveitchik.
 
 Malbim's summary is the compact one: an *iggeret* is a document
@@ -139,11 +139,11 @@ Arabic *mishaf*; it fell out of use, and *machzor* came to mean the yom tov
 siddur, now recalling the returning cycle of the year's chagim.
 
 A *kuntres*, often rendered "notebook," is in current speech a short treatise not
-weighty enough to stand as its own *sefer*; the Tosafists call Rashi's Gemara
+weighty enough to stand as its own *sefer*; the Tosafists typically call Rashi's Gemara
 commentary the *kuntres*, and though Rashi does not use the word of his own work
 he uses it of his rebbi's commentary (to Gittin 82a). Rabbi Binyamin Mussafia,
-Rabbi Ernest Klein and Rabbi Daniel Sperber derive it from the Greek
-*commentaries*, so the column has it, Rabbi Sperber explaining the term from the
+Rabbi Ernest Klein and Rabbi Daniel Sperber derive it from what Rabbi Reuven Chaim Klein gives as
+the Greek *commentaries*, Rabbi Sperber explaining the term from the
 records of the public register that documented official government acts; Rabbi
 Eliyahu HaBachur (*Sefer HaTishbi*) derives it instead from the Latin
 *quinternus*, a quire of five sheets of paper.

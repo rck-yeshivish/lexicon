@@ -25,7 +25,7 @@ words:
   - he: סנורים
     tr: sanverim
     en: dazzlement, disordered sight
-    distinct: not plain blindness but confusion or distortion of vision, struck miraculously (Rashbam; Malbim); only three occurrences in Tanach
+    distinct: for Rashbam, blindness combined with confusion; for Malbim, distorted vision rather than actual blindness; only three occurrences in Tanach
 sources:
   - wiaw:7974 "The Man with Enough Light" (2018-11-03) https://articles.ohr.edu/articles/the-man-with-enough-light
 authorities: [Rabbi Shlomo Pappenheim, Zohar, Rabbi Mordechai HaKohen of Tzfas, Kli Yakar, Rashbam, Malbim, Shadal, Rav Hirsch, Rabbi Yehoshua Trunk of Kutna, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Yehoshua Steinberg, Immanuel Vilkovsky, Fred Rosner, Evyatar Cohen, Chaim Tawil]
@@ -38,8 +38,8 @@ updated: 2026-09-10
 
 *Iver* is the Biblical **blind man** and *ivaron* his **blindness**; *suma* is
 the same in Aramaic. *Sagi nahor*, "light enough," is the euphemism. *Sanverim* is the harder word: it
-occurs three times in Tanach, and the column collects a wide range of attempts to
-say how it differs from *ivaron*, most of them reading it as a **dazzlement** or
+occurs three times in Tanach, and a wide range of scholars have tried to
+say how it differs from *ivaron*, some of them reading it as a **dazzlement** or
 disordering of sight rather than plain absence of sight. For Rabbi Shlomo
 Pappenheim *iver* names an eye that works but is covered over,
 which is what makes the bribed-judge metaphor work.
@@ -52,7 +52,7 @@ which is what makes the bribed-judge metaphor work.
 | עורון | ivaron | blindness | the condition rather than the man |
 | סומא | suma | blind man | the Aramaic term; root of the name Samael (Zohar) |
 | סגי נהור | sagi nahor | one with light enough | euphemism by antiphrasis, or literal (Kli Yakar) |
-| סנורים | sanverim | dazzlement | disordered or confused sight, not absence of sight (Rashbam; Malbim) |
+| סנורים | sanverim | dazzlement | blindness with confusion (Rashbam); distorted vision, not actual blindness (Malbim) |
 
 ## Where the authorities disagree
 
@@ -67,12 +67,11 @@ crowding Lot's door, and twice at Melachim II 6:18.
 - **Rav Hirsch**: *sneh*, a thorn, with *ohr*, a blind man as though his eye had
   been poked with a thorn.
 - **Rabbi Yehoshua Trunk of Kutna**: multiplied vision, seeing not double but
-  many (the column gives the medical term polyplopia), leaving the men at Lot's
+  many (the medical term is polyplopia), leaving the men at Lot's
   house unable to translate what they saw into reality.
 - **The Sochatchover Rebbe, Rabbi Shmuel Borenstein**: a confusion of the
   heart's feeling, so one sees a thing plainly and cannot process it emotionally.
-- **Dr. Immanuel Vilkovsky**, whom the column introduces as an academic
-  conspiracy theorist: *sanverim* differs from *ivaron* in that it denotes
+- **Dr. Immanuel Vilkovsky**, an academic conspiracy theorist: *sanverim* differs from *ivaron* in that it denotes
   blindness inflicted through hypnosis.
 - **Dr. Fred Rosner** (*Medicine in the Bible and the Talmud*): *sanverim* and
   *averes* both refer to amaurosis, blindness with no visible organic change,
@@ -88,8 +87,8 @@ crowding Lot's door, and twice at Melachim II 6:18.
   linguists who tie it to the Akkadian word for night-blindness.
 
 Where this entry chooses one reading, it follows the common ground of Rashbam, Malbim and Rabbi Yehoshua Trunk, that
-*sanverim* is disordered sight rather than no sight. That preference is ours; the
-column lists the views and does not rule between them.
+*sanverim* involves disordered sight. That preference is ours; the
+views themselves are left standing side by side, with no ruling between them.
 
 **Whether sagi nahor is ironic or true.** The plain reading is antiphrasis, so
 *sagi nahor* is a euphemism for one who cannot see. The *Kli Yakar* (to Bamidbar
@@ -123,7 +122,7 @@ from the name Samael, as above.
 Aramaic, a portmanteau of *sagi*, "enough," and *nahor*, "light." It names the
 blind man by the rhetorical device of antiphrasis, saying the exact opposite of
 what is meant, so the phrase is euphemistic or sarcastic. (The later idiom
-*lashon sagi nahor* for that device generally is ours, not the column's.)
+*lashon sagi nahor* for that device generally is ours, not Rabbi Klein's.)
 
 ### sanverim (סנורים)
 See the dispute above. In both of its narrative settings the *sanverim* is

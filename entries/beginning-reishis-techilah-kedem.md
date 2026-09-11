@@ -22,8 +22,8 @@ updated: 2026-09-10
 
 *Reishis* is the **beginning** that is also the **foremost**: a starting point
 that carries importance in its own right. How absolute that starting point is
-depends on whom you follow: for Malbim it stands outside a counted sequence
-altogether, while the Vilna Gaon has *reishis* mean the first of a series without
+depends on whom you follow: for Malbim it need not be part of a counted
+sequence at all, while the Vilna Gaon has *reishis* mean the first of a series without
 denying that something preceded the series. *Rishon* is **first** in a counted
 series, one of several. *Techilah* is the **onset**, marking (on Malbim's
 account) that a thing did not exist before, without tying itself to what follows.
@@ -44,25 +44,25 @@ people (Shemos 30:12; Bamidbar 31:49; Tehillim 139:17; Iyov 22:12). Rav Hirsch
 counted but the final total, since as the head unites the body's parts, the
 number gathers all the units under one head. *Rosh* also means poison (Devarim
 29:17, 32:32-33; Iyov 20:16; Eichah 3:19, and more); Rav Hirsch (to Devarim
-29:17) has it drawn from both the plant and the animal kingdom, some read it as
+29:17) holds it can come from both the plant and the animal kingdom, some read it as
 snake venom from the snake's *rosh* (Targum and Rashi to Yirmiyahu 8:14), and
 others take it as a poisonous plant, Rabbi Shlomo Pappenheim explaining that the
 plant in question has a round top that looks like a head.
 
 Rabbi Klein offers his own account, doubly hedged, of how these senses hang
-together: the anatomical head is likely the central sense, the head controls the
+together: the anatomical head is perhaps the central sense, the head controls the
 body and so lends its name to anything in a controlling position, such positions
 usually go to prominent people and so *rosh* comes to mean important, and since
 the head normally emerges first at birth *rosh* also comes to mean first. The two
-then converge, since what is important tends to be listed or done first.
+then converge, since what is important might be listed or done first.
 
 Rabbi Shlomo Pappenheim treats the middle aleph as extraneous and takes the root
-as the biliteral reish-shin, pointing to *rishon* spelled with a yud (Iyov 8:8)
-and *reishis* spelled with neither aleph nor yud (Devarim 11:12), and to Aramaic
-*reish* (thirteen times in the Aramaic of Daniel; *reish galusa*, *reish
+as the biliteral reish-shin. Indeed, *rishon* is once spelled with a yud (Iyov
+8:8) and *reishis* once with neither aleph nor yud (Devarim 11:12), and Aramaic
+has *reish* (thirteen times in the Aramaic of Daniel; *reish galusa*, *reish
 mesivta*, Reish Lakish), where Biblical Aramaic still spells it with an aleph
 like the Hebrew *rosh* and later Aramaic replaces that aleph with a yud. Under
-that biliteral he gathers *yerushah* (the heir
+that biliteral Rabbi Pappenheim gathers *yerushah* (the heir
 becomes the head of the estate), *tirosh* (new wine, foremost in quality and at
 the start of its existence), *rishayon*/*reshus* (authority), *reshes* (a net,
 by which a hunter gains mastery over an animal), *rosheh* (weak, easily
@@ -120,7 +120,7 @@ each: "the *reishis* of wisdom is fear of Hashem" (Tehillim 111:10) against "the
   time but that it must be the aim from the start.
 - Malbim (*Sefer HaCarmel*): *rishon* is the opening position in a countable
   sequence, defined against the items after it; *reishis* is an absolute or primal
-  beginning, not part of a sequence, important in itself and encompassing all
+  beginning, not necessarily part of a sequence, important in itself and encompassing all
   that follows, which is why creation is *b'reishis*; *techilah* negates a prior
   time without implying any tie to what follows. Malbim adds that creation is
   called *reishis* rather than *techilah* because it marks the origin of time

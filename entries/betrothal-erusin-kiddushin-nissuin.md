@@ -26,7 +26,7 @@ calls **engagement**, an agreement to marry later. Modern Hebrew uses *erusin* f
 Rav Hirsch (to Shemos 22:15)
 already warns that the Torah's *erusin* is not that. Where the two words are
 contrasted, *kiddushin* carries the *hekdesh* sense of setting apart and
-*erusin* the sense of binding or tying.
+*erusin*, on Rabbi Shalom Mansoura's reading, the sense of binding or tying.
 
 ## Distinctions
 
@@ -73,7 +73,7 @@ perspective that added holiness does not yet exist and betrothal is simply
 Tosafos (to *Kiddushin* 2b) read *kiddushin* differently, from *kiddush* in the
 sense of preparing or designating (Shemos 19:10, Bamidbar 11:18); *kedeishah*, a
 harlot, is a cognate because she is set aside for a purpose (Rashi to Bereishis
-38:21 and Devarim 23:18). Others, the column notes, take *kedeishah* as related
+38:21 and Devarim 23:18). Others take *kedeishah* as related
 to the Akkadian *qadistu*, "woman of special status," a definition that fits
 both a harlot and a wife, which led Professor Shamma Friedman of the Academy of
 the Hebrew Language to entertain it as a possible etymology for *kiddushin*
@@ -84,7 +84,8 @@ Yosef*) note that if *mekudeshes* meant consecrated, the groom would be
 forbidding her to himself, which he plainly does not intend; and Rabbi Eliezer
 Ashkenazi notes that consecration would call for *mukdeshes*, whereas the formula
 reads *mekudeshes*, set aside for him. Tosafos (to *Kiddushin* 7b) nonetheless
-apply the *hekdesh* paradigm in halachah: one who betroths "half" a woman with
+apply the *hekdesh* paradigm in halachah, by what Rabbi Klein calls their
+unspoken logic: one who betroths "half" a woman with
 the language of *kiddushin* effects a full betrothal, as consecrating half an
 animal sanctifies all of it, but one who uses the language of *erusin* effects
 only half.
@@ -94,7 +95,7 @@ Greek legal term *ekdosis*, the bride's father handing the girl over to her new
 husband. Rabbi Klein calls the proposal fascinating but hard to accept, since
 handing the bride over is the definition of *nissuin* (*Kesubos* 4:5), not of
 *kiddushin*; he allows, though, that the Rabbis may have adopted the Greek word
-and modified its pronunciation and sense, as they often did with foreign words.
+and slightly modified its pronunciation and sense, as they often did with foreign words.
 
 ### nissuin (נישואין)
 The second stage, effected by chuppah, after which the couple live together.
