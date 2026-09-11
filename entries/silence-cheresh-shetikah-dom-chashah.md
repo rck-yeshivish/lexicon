@@ -75,22 +75,23 @@ Achashverosh what was needed to save her nation.
 
 ## Where the authorities disagree
 
-**What dom means, and what happened with Aharon.** Vayikra 10:3, *vayidom
-Aharon*. Rabbi Avraham Bedersi HaPenini (1230-1300): *dom* is what he calls a
-"natural state" of silence, and Aharon, confronted with the death of his two
-eldest sons, was so overwhelmed by that painful development that he could do
-nothing in reaction but stand in silence, unable even to think. Rabbi Yaakov
-Tzvi Mecklenburg (1785-1865): *dom* is deliberate silence, a person quiet because
-he consciously and intentionally decides to be, so *vayidom Aharon* means Aharon
-purposely disconnected himself from the matter by refusing to comment on it.
-Still others explain *dom* as a general word for stoppage, as when Yehoshua
-stopped the sun at Givon, *shemesh b'Givon dom* (Yehoshua 10:12); Chazal expound
-that incident as the sun falling silent from singing Hashem's praises, but the
-literal sense does not refer to silence at all, and since a man who is quiet has
-stopped his lips, stoppage and silence are quite related. Ramban writes that
-Aharon first cried and then fell silent; Mecklenburg disagrees on lexical
-grounds, arguing that were that the reality the Torah would have used a cognate
-of *shetikah* and not *dom*.
+**What dom means, and what happened with Aharon.** Vayikra 10:3, *vayidom Aharon*.
+- Rabbi Avraham Bedersi HaPenini (1230-1300): *dom* is what he calls a "natural
+  state" of silence, and Aharon, confronted with the death of his two eldest
+  sons, was so overwhelmed by that painful development that he could do nothing
+  in reaction but stand in silence, unable even to think.
+- Rabbi Yaakov Tzvi Mecklenburg (1785-1865): *dom* is deliberate silence, a
+  person quiet because he consciously and intentionally decides to be, so
+  *vayidom Aharon* means Aharon purposely disconnected himself from the matter
+  by refusing to comment on it.
+- Still others explain *dom* as a general word for stoppage, as when Yehoshua
+  stopped the sun at Givon, *shemesh b'Givon dom* (Yehoshua 10:12); Chazal
+  expound that incident as the sun falling silent from singing Hashem's praises,
+  but the literal sense does not refer to silence at all, and since a man who is
+  quiet has stopped his lips, stoppage and silence are quite related.
+- Ramban writes that Aharon first cried and then fell silent; Mecklenburg
+  disagrees on lexical grounds, arguing that were that the reality the Torah
+  would have used a cognate of *shetikah* and not *dom*.
 
 **What chashah means.** Bedersi does not explain this word. Mecklenburg: a
 reflective, introspective sort of quiet, which Rabbi Klein likens to Bedersi's
@@ -117,33 +118,35 @@ means.
 ## Distinctions
 
 ### cheresh (חרש)
-Bedersi: an introspective silence, in which the silent party considers ideas but
-does not verbally reveal those thoughts, the silence practiced by wise men and
-experts (in Akkadian *charash* means "wise" or
-"intelligent"). In related contexts a certain type of craftsman is a *charash*
-(Shemos 35:35), and Targum calls Pharaoh's *chartumim* the *charshei* (to Shemos
-7:22), such men being experts who silently think out how best to do what they do,
-the artisan in particular tending to be quiet while he concentrates on his work;
-digging into the depths of one's mind is conceptually similar to plowing
-(*charishah*), which is why the two words are related in Hebrew. Pappenheim
-(1740-1814) builds the whole root out of *charishah*, plowing, which prepares
-land for agricultural use: from there the root expanded to any preparing or
-manufacturing of tools out of wood, stone or metal (a smith is a *choresh*), from
-there to anybody who deliberately ponders his actions, and finally to anybody who
-is quiet. He stresses that the silence of *cheresh* still belongs to the root's
-primary sense, being the contemplative silence in which one incubates his
-thoughts before working out what to say: as plowing readies a field for sowing,
-this silence readies a man for future speech, so *cheresh* is most fitting where
-somebody is quiet while considering what to say next. *Chorshah*, a forest
-(Shmuel I 23:15, Divrei HaYamim II 27:4), is another derivative, a quiet,
-insulated place because of its thick foliage. Rav Hirsch (to Tehillim 28:1): the
-stillness of a man asked to speak or act who instead ignores the request, acting
-as though he were deaf and had not heard it. In some places the word attaches
-especially to evildoers (Mishlei 3:29 and Iyov 4:8, with Rashi). A cognate
-appears at Shemos 14:14, "Hashem will fight for you, and you will be silent"
-(*tacharishun*), meaning that Hashem will take care of the Egyptian army while
-Yisrael sit silently on the sidelines contemplating how He wages war on their
-behalf.
+- Bedersi: an introspective silence, in which the silent party considers ideas
+  but does not verbally reveal those thoughts, the silence practiced by wise men
+  and experts (in Akkadian *charash* means "wise" or "intelligent"). In related
+  contexts a certain type of craftsman is a *charash* (Shemos 35:35), and Targum
+  calls Pharaoh's *chartumim* the *charshei* (to Shemos 7:22), such men being
+  experts who silently think out how best to do what they do, the artisan in
+  particular tending to be quiet while he concentrates on his work; digging into
+  the depths of one's mind is conceptually similar to plowing (*charishah*),
+  which is why the two words are related in Hebrew.
+- Pappenheim (1740-1814) builds the whole root out of *charishah*, plowing,
+  which prepares land for agricultural use: from there the root expanded to any
+  preparing or manufacturing of tools out of wood, stone or metal (a smith is a
+  *choresh*), from there to anybody who deliberately ponders his actions, and
+  finally to anybody who is quiet. He stresses that the silence of *cheresh*
+  still belongs to the root's primary sense, being the contemplative silence in
+  which one incubates his thoughts before working out what to say: as plowing
+  readies a field for sowing, this silence readies a man for future speech, so
+  *cheresh* is most fitting where somebody is quiet while considering what to
+  say next. *Chorshah*, a forest (Shmuel I 23:15, Divrei HaYamim II 27:4), is
+  another derivative, a quiet, insulated place because of its thick foliage.
+- Rav Hirsch (to Tehillim 28:1): the stillness of a man asked to speak or act
+  who instead ignores the request, acting as though he were deaf and had not
+  heard it.
+
+In some places the word attaches especially to evildoers (Mishlei 3:29 and Iyov
+4:8, with Rashi). A cognate appears at Shemos 14:14, "Hashem will fight for you,
+and you will be silent" (*tacharishun*), meaning that Hashem will take care of
+the Egyptian army while Yisrael sit silently on the sidelines contemplating how
+He wages war on their behalf.
 
 ### shetikah (שתיקה)
 Bedersi: the silence that comes after a commotion has been quelled. The root

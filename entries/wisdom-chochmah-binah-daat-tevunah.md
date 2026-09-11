@@ -65,62 +65,70 @@ Root ח-כ-ם.
   non-revelatory *chochmah* is a borrowed term.
 
 ### binah (בינה) and tevunah (תבונה)
-Root ב-י-ן. The *navon* is *meivin davar mitoch davar*, he understands one
-matter from within another (Chagigah 14a), deriving new ideas from what he has
-learned. Bedersi: from *bein*, "between"; the *navon* applies relevant data and
-excludes the irrelevant, telling one datum from another, and so reaches new
-conclusions. Pappenheim: from ב-נ, building (*boneh*; *even* and *teven*,
-building materials; *ben* and *bas*; *avnayim*, the birthing stool); *binah*
-builds on an idea by applying it elsewhere and extrapolating. (English *maven*
-comes from *meivin* by way of Yiddish.) Malbim: the abstract counterpart of
-*chochmah*, the faculty that reads an allegory or solves a riddle, and works
-all one has perceived, by the senses or the intellect, into a logically sound
-conclusion. On another model, *chochmah* is the raw content of
-the Written Torah with its limitless planes of interpretation, *binah* the Oral
-Torah that processes and explains it, and *daat* the balance between them (the
-*Zohar*, see *Matok MiDvash* to Yisro 85a; the Vilna Gaon, *Biurei Aggados* to
-Bava Kamma 92b, and to Mishlei 1:8, with the glosses to 10:13). On this model
-Rabbi Eliyahu Tzion Sofer explains that the Syrian-Greeks opposed *binah* in
-particular, denying the Oral Torah while they had the Written Torah before them
-in the Septuagint; Rabbi Klein adds that this is why *Maoz Tzur* calls the
-Jewish people *bnei binah* in telling of the victory over the Greeks.
+Root ב-י-ן.
+- The *navon* is *meivin davar mitoch davar*, he understands one matter from
+  within another (Chagigah 14a), deriving new ideas from what he has learned.
+- Bedersi: from *bein*, "between"; the *navon* applies relevant data and
+  excludes the irrelevant, telling one datum from another, and so reaches new
+  conclusions.
+- Pappenheim: from ב-נ, building (*boneh*; *even* and *teven*, building
+  materials; *ben* and *bas*; *avnayim*, the birthing stool); *binah* builds on
+  an idea by applying it elsewhere and extrapolating. (English *maven* comes
+  from *meivin* by way of Yiddish.)
+- Malbim: the abstract counterpart of *chochmah*, the faculty that reads an
+  allegory or solves a riddle, and works all one has perceived, by the senses or
+  the intellect, into a logically sound conclusion.
+- On another model, *chochmah* is the raw content of the Written Torah with its
+  limitless planes of interpretation, *binah* the Oral Torah that processes and
+  explains it, and *daat* the balance between them (the *Zohar*, see *Matok
+  MiDvash* to Yisro 85a; the Vilna Gaon, *Biurei Aggados* to Bava Kamma 92b, and
+  to Mishlei 1:8, with the glosses to 10:13). On this model Rabbi Eliyahu Tzion
+  Sofer explains that the Syrian-Greeks opposed *binah* in particular, denying
+  the Oral Torah while they had the Written Torah before them in the Septuagint;
+  Rabbi Klein adds that this is why *Maoz Tzur* calls the Jewish people *bnei
+  binah* in telling of the victory over the Greeks.
 
 *Binah* against *tevunah*: most authorities use them almost interchangeably.
-Rabbi Pappenheim, who admits he has seen no source on the difference, proposes
-his own from the initial tav: *binah* grasps the big picture of many
-components, *tevunah* breaks it down into its parts. The Vilna Gaon (to Mishlei
-2:2-3, 2:6): *tevunah* is the reflection that qualifies one's *chochmah* or
-*binah*. In *Chemdah Genuzah* (to Mishlei 1:1; see also *Zohar* Vayakhel 201a)
-the Gaon writes that *binah* is understanding on one's own terms, *tevunah*
-understanding thorough enough to explain to others. Rabbi Shlomo Brevda (1931
-to 2013; *Leil Shimurim* p. 26) points out that this runs counter to the saying
-cited in the yeshiva world in the name of Rav Chaim Soloveitchik of Brisk (1853
-to 1918), that a deficiency in explaining something shows a deficiency in
-understanding it.
+- Rabbi Pappenheim, who admits he has seen no source on the difference, proposes
+  his own from the initial tav: *binah* grasps the big picture of many
+  components, *tevunah* breaks it down into its parts.
+- The Vilna Gaon (to Mishlei 2:2-3, 2:6): *tevunah* is the reflection that
+  qualifies one's *chochmah* or *binah*.
+- In *Chemdah Genuzah* (to Mishlei 1:1; see also *Zohar* Vayakhel 201a) the Gaon
+  writes that *binah* is understanding on one's own terms, *tevunah*
+  understanding thorough enough to explain to others. Rabbi Shlomo Brevda (1931
+  to 2013; *Leil Shimurim* p. 26) points out that this runs counter to the
+  saying cited in the yeshiva world in the name of Rav Chaim Soloveitchik of
+  Brisk (1853 to 1918), that a deficiency in explaining something shows a
+  deficiency in understanding it.
 
 ### daat (דעת)
 Root י-ד-ע. The Mishnah (Avos 3:17) makes *daat* and *binah* depend on each
-other. Rashi and Rabbi Ovadia Bartenura (1445 to 1515; see also Rashbatz):
-*binah* derives a new idea from a lesson and *daat* grasps the reasoning behind
-it, so each fails without the other. At face value, then, it seems the two go
-hand in hand. Rashi gives two faces elsewhere: to Shemos 31:3 *daat* is *ruach
-hakodesh*, a lower form of prophecy; to Chagigah 12a, where *chochmah*, *tevunah* and *daat*
-head the ten qualities with which the world was created, it is reconciliation.
-Rabbi Shmuel Yaakov Burnstein (1946 to 2017) unites them: *daat* is connection
-(as "knowing" is intimacy, Bereishis 4:1, and kinship, Rus 2:1), joining all
-the pieces into one resolution where everything fits, and *ruach hakodesh* is a
-person connecting himself to Hashem and so seeing the whole. *Nefesh HaChaim*
-1:6 explains that the *Eitz HaDaat* brings about the interconnection of good and
-evil, and the Vilna Gaon to Mishlei 2:5 similarly makes *daat* the reconciling
-of contradictory ideas. Rabbi Klein adds that connection presumes separation;
-indeed Havdalah is said in the blessing for knowledge: "if there is no *daat*,
-from where is there *havdalah*?" (Yerushalmi Berachos 5:2). Rabbi Chaim
-Friedlander (1923 to 1986): the connection is of intellect with emotion,
-knowledge fully internalised; Bedersi likewise ties *daat* to emotions and
-feelings. Rabbeinu Yonah (to Avos 3:17): the ability to think of new ideas
-independently (Rabbi Klein wonders whether Rabbeinu Yonah means the brain
-forging new connections). Malbim: the certainty of conclusions reached through
-*binah*.
+other.
+- Rashi and Rabbi Ovadia Bartenura (1445 to 1515; see also Rashbatz): *binah*
+  derives a new idea from a lesson and *daat* grasps the reasoning behind it, so
+  each fails without the other. At face value, then, it seems the two go hand in
+  hand.
+- Rashi gives two faces elsewhere: to Shemos 31:3 *daat* is *ruach hakodesh*, a
+  lower form of prophecy; to Chagigah 12a, where *chochmah*, *tevunah* and
+  *daat* head the ten qualities with which the world was created, it is
+  reconciliation.
+- Rabbi Shmuel Yaakov Burnstein (1946 to 2017) unites them: *daat* is connection
+  (as "knowing" is intimacy, Bereishis 4:1, and kinship, Rus 2:1), joining all
+  the pieces into one resolution where everything fits, and *ruach hakodesh* is
+  a person connecting himself to Hashem and so seeing the whole. *Nefesh
+  HaChaim* 1:6 explains that the *Eitz HaDaat* brings about the interconnection
+  of good and evil, and the Vilna Gaon to Mishlei 2:5 similarly makes *daat* the
+  reconciling of contradictory ideas. Rabbi Klein adds that connection presumes
+  separation; indeed Havdalah is said in the blessing for knowledge: "if there
+  is no *daat*, from where is there *havdalah*?" (Yerushalmi Berachos 5:2).
+- Rabbi Chaim Friedlander (1923 to 1986): the connection is of intellect with
+  emotion, knowledge fully internalised; Bedersi likewise ties *daat* to
+  emotions and feelings.
+- Rabbeinu Yonah (to Avos 3:17): the ability to think of new ideas independently
+  (Rabbi Klein wonders whether Rabbeinu Yonah means the brain forging new
+  connections).
+- Malbim: the certainty of conclusions reached through *binah*.
 
 Rank is disputed: some sources put *daat* above *binah* (see Maharsha to
 Kesubos 5a); the Maharal (*Chiddushei Aggados* to Kiddushin 30a and Avodah Zarah

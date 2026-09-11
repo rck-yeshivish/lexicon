@@ -54,18 +54,20 @@ him away**, proved from Devarim 29:27 and Tehillim 51:13, which in effect lets
 ש-ל-כ mean the same as its near-homonym ש-ל-ח (near, since in the Ashkenazi
 pronunciation ches and chaf sound alike).
 
-On the root, most grammarians, such as Menachem Ibn Saruk, Ibn Janach and Radak,
-take it as the triliteral ש-ל-כ. Rabbi Pappenheim instead builds it from two
-biliterals, ש-ל ("throwing out") and ל-כ ("going"). Linguists propose a similar
-theory, cited by Ernest Klein and Avraham Even-Shoshan in their dictionaries:
-the rare *shaphel* conjugation, in which an initial *shin* is not part of the
-root but denotes creating the situation the root names (compare *shiabud* from
-עבד, *shichrur* from חרות, and Modern Hebrew *shichpul* and *shichtuv*). On that
-theory *hashlachah* comes from the two-letter root for going, and the *shin*
-makes it causing something to go from one place to another by throwing. Rabbi
-Moshe Shapiro applies the same *shaphel* pattern to *shapir*, from
-*tiferes*/*pe'er*. (A folk etymology ties the surname Shapiro to *shapir*;
-historians derive it more likely from the German town Speyer.)
+- On the root, most grammarians, such as Menachem Ibn Saruk, Ibn Janach and
+  Radak, take it as the triliteral ש-ל-כ.
+- Rabbi Pappenheim instead builds it from two biliterals, ש-ל ("throwing out")
+  and ל-כ ("going").
+- Linguists propose a similar theory, cited by Ernest Klein and Avraham
+  Even-Shoshan in their dictionaries: the rare *shaphel* conjugation, in which
+  an initial *shin* is not part of the root but denotes creating the situation
+  the root names (compare *shiabud* from עבד, *shichrur* from חרות, and Modern
+  Hebrew *shichpul* and *shichtuv*). On that theory *hashlachah* comes from the
+  two-letter root for going, and the *shin* makes it causing something to go
+  from one place to another by throwing. Rabbi Moshe Shapiro applies the same
+  *shaphel* pattern to *shapir*, from *tiferes*/*pe'er*. (A folk etymology ties
+  the surname Shapiro to *shapir*; historians derive it more likely from the
+  German town Speyer.)
 
 In Modern Hebrew *hashlachos* are consequences, a usage not attested in Tanach
 or rabbinic writings, perhaps a result as a "throw-off" from its cause.

@@ -90,18 +90,18 @@ and Rabbi Steinberg, in an essay titled "Run, Lot Run," connects *pleitah* and
 many other words to that biliteral root; he even derives *klitah* from it, so
 that on his view the two words share an etymological source.
 
-**Bigdei srad (Shemos 31:10, 35:19, 39:1, 39:41).** Rashi and his grandson
-Rashbam (to Shemos 31:10): not the bigdei kehunah, which are listed separately,
-but the cloth covers put over the Mishkan's vessels for travel (Bamidbar
-4:1-15). Rashi cites Targum Onkelos for *srad* here as "service," but admits
-that ש-ר-ד is not used that way elsewhere. Ibn Ezra and Chizkuni (to Shemos
-31:10) read *srad* as a cognate of *sarid*: the covers were made from the cloth
-left over after the donated materials were used for the other cloth parts of
-the Mishkan, so *srad* and *sarid* share the theme of remnants, survivors,
-leftovers. Ramban (to Shemos 31:10) takes them to be the bigdei kehunah, and so
-does the Gemara (Yoma 72a-b): were it not for the bigdei kehunah, through whose
-service Yisrael's sins are atoned, no *sarid* or *palit* of the nation would
-remain.
+**Bigdei srad (Shemos 31:10, 35:19, 39:1, 39:41).**
+- Rashi and his grandson Rashbam (to Shemos 31:10): not the bigdei kehunah,
+  which are listed separately, but the cloth covers put over the Mishkan's
+  vessels for travel (Bamidbar 4:1-15). Rashi cites Targum Onkelos for *srad*
+  here as "service," but admits that ש-ר-ד is not used that way elsewhere.
+- Ibn Ezra and Chizkuni (to Shemos 31:10) read *srad* as a cognate of *sarid*:
+  the covers were made from the cloth left over after the donated materials were
+  used for the other cloth parts of the Mishkan, so *srad* and *sarid* share the
+  theme of remnants, survivors, leftovers.
+- Ramban (to Shemos 31:10) takes them to be the bigdei kehunah, and so does the
+  Gemara (Yoma 72a-b): were it not for the bigdei kehunah, through whose service
+  Yisrael's sins are atoned, no *sarid* or *palit* of the nation would remain.
 
 ## Distinctions
 

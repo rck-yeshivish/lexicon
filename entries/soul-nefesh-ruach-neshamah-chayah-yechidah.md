@@ -56,21 +56,21 @@ swears (Rashi and Radak to Tehillim 24:4; Ibn Janach, *Sefer HaRikmah* p.
 sometimes called a *nefesh* (Eruvin 53a, 55b; Sanhedrin 48a), since the
 deceased's name is typically engraved on it.
 
-Rabbi Shlomo Pappenheim traces it to the two-letter root פ-ש, growing,
-increasing or expanding (Yirmiyahu 50:11, Chavakuk 1:8, Malachi 3:20): the
-incorporeal soul, which does not atrophy with age as the body does, its
-horizons always expandable, always with the potential to attain more. Rabbi
-Yaakov Tzvi Mecklenburg offers a similar idea, even connecting *nefesh* to
-פ-שׂ, which also means expansion (*HaKsav VeHaKabbalah* to Shemos 23:12, 31:17
-and Devarim 12:23; see also Rashi to Iyov 35:15). Rabbi Aharon Marcus gives
-two etymologies. First, *nefesh* is *neshef*, blowing (Shemos 15:10,
-Yeshayahu 40:24), its letters reordered as נ-ש-פ, which ties *nefesh* to
-*neshamah* and *neshimah*, breathing; the unspoken basis
-of that link is the interchange of פ and מ. Alternatively, it comes from the
-two-letter root נ-פ, movement, recalling the constant movement of breathing,
-as in *napach*, blowing (Bereishis 2:7, Yeshayahu 54:16), *nafah*, sifting,
-*nofef*, waving (Yeshayahu 10:32, 30:28, 13:2), and *nafatz*, spreading
-(Bereishis 9:19, Shmuel I 13:11).
+- Rabbi Shlomo Pappenheim traces it to the two-letter root פ-ש, growing,
+  increasing or expanding (Yirmiyahu 50:11, Chavakuk 1:8, Malachi 3:20): the
+  incorporeal soul, which does not atrophy with age as the body does, its
+  horizons always expandable, always with the potential to attain more.
+- Rabbi Yaakov Tzvi Mecklenburg offers a similar idea, even connecting *nefesh*
+  to פ-שׂ, which also means expansion (*HaKsav VeHaKabbalah* to Shemos 23:12,
+  31:17 and Devarim 12:23; see also Rashi to Iyov 35:15).
+- Rabbi Aharon Marcus gives two etymologies. First, *nefesh* is *neshef*,
+  blowing (Shemos 15:10, Yeshayahu 40:24), its letters reordered as נ-ש-פ, which
+  ties *nefesh* to *neshamah* and *neshimah*, breathing; the unspoken basis of
+  that link is the interchange of פ and מ. Alternatively, it comes from the
+  two-letter root נ-פ, movement, recalling the constant movement of breathing,
+  as in *napach*, blowing (Bereishis 2:7, Yeshayahu 54:16), *nafah*, sifting,
+  *nofef*, waving (Yeshayahu 10:32, 30:28, 13:2), and *nafatz*, spreading
+  (Bereishis 9:19, Shmuel I 13:11).
 
 A verb cognate means to rest: when Hashem rested on the seventh day the Torah
 says *vayinafash* (Shemos 31:17), which Rashi explains as resting, since one
@@ -85,22 +85,26 @@ glassblower (*Nefesh HaChaim* 1:15): the *nefesh* is the molten glass, the
 last stop of the Divine "air," so the verb cognates of *nefesh* also mean
 resting and stopping.
 
-Its function: in the Midrash (Bereishis Rabbah 14:9) the *nefesh* is blood or
-bodily homeostasis, the lifeline of physical existence (Vayikra 17:11, Devarim
-12:23). Maharsha: the natural aspect of a person's consciousness; the Vilna
-Gaon (*Yahel Ohr*, as he is quoted): the survival instinct. In a separate
-discussion the Gaon has the *nefesh*, which directly powers life, show
-outwardly as the physical desire for bodily pleasures and inwardly as a
-metaphysical battery that keeps a person alive, which he identifies as the
-*chayah*. Rabbi Chaim of Volozhin (*Nefesh HaChaim* 1:14; *Ruach Chaim* to
-Avos 1:1): man's deeds, the most physical expression of his will (Vayikra
-18:29, Bamidbar 15:30). Ibn Ezra (*Shitah Acheres* to Bereishis 2:7), Rabbeinu
-Yonah and the Gaon: the liver, the *nefesh*'s desire for bodily pleasures,
-which Ibn Ezra ties specifically to the reproductive system; but Rashi (to
-Tehillim 25:1, 86:4) writes that one's *nefesh* is his heart. Rabbi Yosef
-Karo: food, the first of the three things a husband owes his wife (Shemos
-21:10), since the *nefesh* is the most physical part of the soul and is
-sustained by material repast.
+Its function:
+- in the Midrash (Bereishis Rabbah 14:9) the *nefesh* is blood or bodily
+  homeostasis, the lifeline of physical existence (Vayikra 17:11, Devarim
+  12:23).
+- Maharsha: the natural aspect of a person's consciousness.
+- the Vilna Gaon (*Yahel Ohr*, as he is quoted): the survival instinct. In a
+  separate discussion the Gaon has the *nefesh*, which directly powers life,
+  show outwardly as the physical desire for bodily pleasures and inwardly as a
+  metaphysical battery that keeps a person alive, which he identifies as the
+  *chayah*.
+- Rabbi Chaim of Volozhin (*Nefesh HaChaim* 1:14; *Ruach Chaim* to Avos 1:1):
+  man's deeds, the most physical expression of his will (Vayikra 18:29, Bamidbar
+  15:30).
+- Ibn Ezra (*Shitah Acheres* to Bereishis 2:7), Rabbeinu Yonah and the Gaon: the
+  liver, the *nefesh*'s desire for bodily pleasures, which Ibn Ezra ties
+  specifically to the reproductive system; but Rashi (to Tehillim 25:1, 86:4)
+  writes that one's *nefesh* is his heart.
+- Rabbi Yosef Karo: food, the first of the three things a husband owes his wife
+  (Shemos 21:10), since the *nefesh* is the most physical part of the soul and
+  is sustained by material repast.
 
 *Nefesh rechavah*, "a wide *nefesh*" (Avos 5:19, a mark of Bilam's
 disciples), is, as most commentators explain, one who is desirous and
@@ -138,20 +142,24 @@ grinding, which reduce large objects to small bits. Rav Hirsch does not
 explain how this relates back to *ruach*; Rabbi Marcus writes that *ruach*
 derives from *reyach* because the winds carry smells from place to place.
 
-Its function: in the Midrash (Bereishis Rabbah 14:9), the soul's wind-like
-property, flying up to Heaven when one sleeps and coming back down into the
-body as he wakes. Maharsha: the spiritual aspect of consciousness; the Gaon
-(*Yahel Ohr*, as quoted): the emotional. In the Gaon's separate discussion the
-*ruach* is the drive for worldly, material pursuits, outwardly going out to
-seek profit and inwardly scheming up plans for gain. *Nefesh HaChaim* 1:14:
-man's speech, less physical than his deeds but still somewhat tangible (Shmuel
-II 23:2, Yeshayahu 11:4). Ibn Ezra, Rabbeinu Yonah and the Gaon: the heart,
-the *ruach*'s desire for emotional pleasure such as wealth and honor. Rabbi
-Yosef Karo: clothing, since the *ruach* is slightly less physical and is
-fueled only by more abstract sustenance, the satisfaction of honor or wealth.
-In the glassblower of *Nefesh HaChaim* 1:15 the *ruach* is the blowpipe, the
-conduit that bridges the *neshamah* and the *nefesh*. *Ruach gevohah*, "a high
-*ruach*" (Avos 5:19), is, as most commentators explain, a haughty person.
+Its function:
+- in the Midrash (Bereishis Rabbah 14:9), the soul's wind-like property, flying
+  up to Heaven when one sleeps and coming back down into the body as he wakes.
+- Maharsha: the spiritual aspect of consciousness.
+- the Gaon (*Yahel Ohr*, as quoted): the emotional. In the Gaon's separate
+  discussion the *ruach* is the drive for worldly, material pursuits, outwardly
+  going out to seek profit and inwardly scheming up plans for gain.
+- *Nefesh HaChaim* 1:14: man's speech, less physical than his deeds but still
+  somewhat tangible (Shmuel II 23:2, Yeshayahu 11:4).
+- Ibn Ezra, Rabbeinu Yonah and the Gaon: the heart, the *ruach*'s desire for
+  emotional pleasure such as wealth and honor.
+- Rabbi Yosef Karo: clothing, since the *ruach* is slightly less physical and is
+  fueled only by more abstract sustenance, the satisfaction of honor or wealth.
+- In the glassblower of *Nefesh HaChaim* 1:15 the *ruach* is the blowpipe, the
+  conduit that bridges the *neshamah* and the *nefesh*.
+
+*Ruach gevohah*, "a high *ruach*" (Avos 5:19), is, as most commentators explain,
+a haughty person.
 
 ### neshamah (נשמה)
 Root נ-ש-ם. Unlike *nefesh* and *ruach*, it refers only to the soul and has no
@@ -160,50 +168,56 @@ only 25 times in Tanach. A survey of those occurrences shows that its cognates
 never refer to animals, because only people have a *neshamah*
 (Ibn Ezra to Bereishis 7:21, Koheles 3:21; see also Radak to Yeshayahu 42:5).
 
-The Midrash (Bereishis Rabbah 14:9) connects it with *neshimah*, breathing,
-deriving from Tehillim 150:6 that one must thank Hashem for every breath.
-*Shoresh Yesha* adds that the מ of its root נ-ש-ם interchanges with ב or פ,
-each giving a word for blowing: *mashiv haruach* with a ב, *neshef* with a פ.
-Rashi (to Yoma 85a) seems to define death as the point at which a person no
-longer breathes, which, Rabbi Klein notes, may have halachic implications for the
-brain-death controversy. Radak (*Sefer HaShorashim*) derives *tinshemes*, a
-non-kosher predatory bird often translated "owl" (Vayikra 11:18, Devarim
-14:16), from the root נ-ש-ם of *neshamah* and breathing, because one who sees
-it starts breathing heavily (presumably, Rabbi Klein adds, out of fright). Ibn
-Ezra (to Bereishis 7:21, and *Shitah Acheres* to Bereishis 2:7) reports that
-other sages relate *neshamah* to *shamayim*, since man's soul comes from
-Above, and allows that even if there is no etymological connection the two
-can still be connected thematically. Rabbi Pappenheim gives both words one
-root, ש-ם, anything abstract that the material senses cannot perceive, as in
-*sham*, there, and *shem*, name: *shamayim* is the wholly spiritual part of
-Creation, beyond sensory perception, as the *neshamah* is a person's spiritual
-essence, which cannot be seen or perceived physically. Rabbi Mecklenburg calls
-this a person's *geist*.
+- The Midrash (Bereishis Rabbah 14:9) connects it with *neshimah*, breathing,
+  deriving from Tehillim 150:6 that one must thank Hashem for every breath.
+  *Shoresh Yesha* adds that the מ of its root נ-ש-ם interchanges with ב or פ,
+  each giving a word for blowing: *mashiv haruach* with a ב, *neshef* with a פ.
+- Rashi (to Yoma 85a) seems to define death as the point at which a person no
+  longer breathes, which, Rabbi Klein notes, may have halachic implications for
+  the brain-death controversy.
+- Radak (*Sefer HaShorashim*) derives *tinshemes*, a non-kosher predatory bird
+  often translated "owl" (Vayikra 11:18, Devarim 14:16), from the root נ-ש-ם of
+  *neshamah* and breathing, because one who sees it starts breathing heavily
+  (presumably, Rabbi Klein adds, out of fright).
+- Ibn Ezra (to Bereishis 7:21, and *Shitah Acheres* to Bereishis 2:7) reports
+  that other sages relate *neshamah* to *shamayim*, since man's soul comes from
+  Above, and allows that even if there is no etymological connection the two can
+  still be connected thematically.
+- Rabbi Pappenheim gives both words one root, ש-ם, anything abstract that the
+  material senses cannot perceive, as in *sham*, there, and *shem*, name:
+  *shamayim* is the wholly spiritual part of Creation, beyond sensory
+  perception, as the *neshamah* is a person's spiritual essence, which cannot be
+  seen or perceived physically. Rabbi Mecklenburg calls this a person's *geist*.
 
-Its function: in the Midrash (Bereishis Rabbah 14:9), the sum total of a
-person's characteristics and personality, his personhood or unique
-individuality. (Rabbi Yaakov Kamenetsky said that a person's *neshamah*
-returns to the body in the morning only after he answers *Barchu* in the
-morning prayers.) Maharsha, and the Gaon (*Yahel Ohr*, as quoted): the
-intellectual aspect. In the Gaon's separate discussion the *neshamah* shows
-outwardly in a person's facial countenance and inwardly in his age. *Nefesh
-HaChaim* 1:14: man's thoughts, the most abstract expression of his will. Ibn
-Ezra, Rabbeinu Yonah and the Gaon: the brain, the *neshamah*'s yearning for
-religious and spiritual connection. Rabbi Yosef Karo: conjugal intimacy, since
-the *neshamah*, the least physical part of the soul, is energized by a wholly
-transcendent Divine lifeline invisible to the eye, just as intimacy belongs in
-the most private of settings, away from the eyes of others. Rabbeinu Yonah:
-the *nefesh* and *ruach* are man's instinct for thriving and surviving in a
-physical way, and are present in animals too; the third part, the *neshamah*
-or *yechidah*, the intellectual dimension, is what sets man apart. Radak (to
-Bereishis 2:7) differs from Rabbeinu Yonah, who holds that man actually has a
-*nefesh* and a *ruach*: the terms *nefesh* and *ruach* primarily apply to
-lower creatures, and refer to man's *neshamah* only in a borrowed sense. Rabbi
-Chaim of Volozhin (*Nefesh HaChaim* 1:15): none of these words refers to a
-perceivable physical phenomenon; *neshamah*, though cognate with *neshimah*,
-is not respiration but Hashem "blowing," so to speak, a spiritual life-force
-into man, and in his glassblower parable it is the first step, the closest to
-Hashem.
+Its function:
+- in the Midrash (Bereishis Rabbah 14:9), the sum total of a person's
+  characteristics and personality, his personhood or unique individuality.
+  (Rabbi Yaakov Kamenetsky said that a person's *neshamah* returns to the body
+  in the morning only after he answers *Barchu* in the morning prayers.)
+- Maharsha, and the Gaon (*Yahel Ohr*, as quoted): the intellectual aspect. In
+  the Gaon's separate discussion the *neshamah* shows outwardly in a person's
+  facial countenance and inwardly in his age.
+- *Nefesh HaChaim* 1:14: man's thoughts, the most abstract expression of his
+  will.
+- Ibn Ezra, Rabbeinu Yonah and the Gaon: the brain, the *neshamah*'s yearning
+  for religious and spiritual connection.
+- Rabbi Yosef Karo: conjugal intimacy, since the *neshamah*, the least physical
+  part of the soul, is energized by a wholly transcendent Divine lifeline
+  invisible to the eye, just as intimacy belongs in the most private of
+  settings, away from the eyes of others.
+- Rabbeinu Yonah: the *nefesh* and *ruach* are man's instinct for thriving and
+  surviving in a physical way, and are present in animals too; the third part,
+  the *neshamah* or *yechidah*, the intellectual dimension, is what sets man
+  apart.
+- Radak (to Bereishis 2:7) differs from Rabbeinu Yonah, who holds that man
+  actually has a *nefesh* and a *ruach*: the terms *nefesh* and *ruach*
+  primarily apply to lower creatures, and refer to man's *neshamah* only in a
+  borrowed sense.
+- Rabbi Chaim of Volozhin (*Nefesh HaChaim* 1:15): none of these words refers to
+  a perceivable physical phenomenon; *neshamah*, though cognate with *neshimah*,
+  is not respiration but Hashem "blowing," so to speak, a spiritual life-force
+  into man, and in his glassblower parable it is the first step, the closest to
+  Hashem.
 
 ### chayah (חיה) and yechidah (יחידה)
 In the Creation narrative Tanach uses *nefesh* of sea creatures, birds and land
@@ -215,20 +229,21 @@ for the soul. Rabbi Chaim of Volozhin (*Nefesh HaChaim* 2:17) calls the
 *chayah* "the *neshamah* of the *neshamah*," and in many sources it is paired
 with the *yechidah*.
 
-In *Cheshek Shlomo* Rabbi Pappenheim traces *chayah* and *chaim* to the
-two-letter root ח-י, life (*chai*), and takes ח-ו as an extension of it, also
-meaning life; Rabbi Klein suggests the link is likely the interchange of ו and
-י (*hayah*, "was," is *havah* in Aramaic; see also Rashbam to Bamidbar 21:14
-and Ibn Ezra to Amos 5:5). As a result Pappenheim explains *chaveh*, speech
-(Tehillim 19:3, Iyov 32:17), since putting a thing into words gives life to an
-idea that until then existed only in thought; *Chavah*, mother of all life
-(Bereishis 3:20); and *chavah*, a farm (Bamidbar 32:41), which provides life
-and sustenance through its products. Rabbi Aharon Marcus connects *chayah* to
-*hayah*, "was, existed": living is the most complete form of existing. In
-*Yerios Shlomo* Rabbi Pappenheim traces *chayah* to the single letter ח, which
-denotes rest, peace, harmony, the lack of strife or contradiction: life is a
-state of equilibrium among all the components of the body, and can exist only
-while they all coexist.
+- In *Cheshek Shlomo* Rabbi Pappenheim traces *chayah* and *chaim* to the
+  two-letter root ח-י, life (*chai*), and takes ח-ו as an extension of it, also
+  meaning life; Rabbi Klein suggests the link is likely the interchange of ו and
+  י (*hayah*, "was," is *havah* in Aramaic; see also Rashbam to Bamidbar 21:14
+  and Ibn Ezra to Amos 5:5). As a result Pappenheim explains *chaveh*, speech
+  (Tehillim 19:3, Iyov 32:17), since putting a thing into words gives life to an
+  idea that until then existed only in thought; *Chavah*, mother of all life
+  (Bereishis 3:20); and *chavah*, a farm (Bamidbar 32:41), which provides life
+  and sustenance through its products.
+- Rabbi Aharon Marcus connects *chayah* to *hayah*, "was, existed": living is
+  the most complete form of existing.
+- In *Yerios Shlomo* Rabbi Pappenheim traces *chayah* to the single letter ח,
+  which denotes rest, peace, harmony, the lack of strife or contradiction: life
+  is a state of equilibrium among all the components of the body, and can exist
+  only while they all coexist.
 
 Rabbi Klein holds that *yechidah* in the sense of soul does not appear in
 Tanach, and that the word occurs there once (Shoftim 11:34), of Yiftach's
@@ -265,24 +280,25 @@ death, *yechidah*, since the Good Inclination is there "alone." Rabbi Karo
 himself differs slightly from this tradition, dividing the five periods as
 birth to 13, 13 to 25, 25 to 40, 40 to 60, and 60 until death.
 
-The authorities differ over who has *chayah* and *yechidah*. The Vilna Gaon
-(*Aderes Eliyahu* to Bereishis 2:7): man as he stands now has no *yechidah*,
-but in Messianic times he will. The Shelah (Rabbi Yeshayahu Horowitz),
-similarly, writes that not everyone can be cognizant of
-his *chayah* and *yechidah* during his lifetime; only *bnei aliyah*, those
-upwardly mobile in a spiritual sense, merit connecting with them. Rabbi
-Alexander Sender Shor: an ordinary person has a *nefesh*, *ruach* and
-*neshamah*, but some have more and some less; a prophet, at the pinnacle of
-spiritual awareness, has *chayah* and *yechidah* besides, while one who sins
-"kills" a part of himself and loses his *neshamah*, and if he goes on sinning
-his *ruach* as well, until he is left with only a *nefesh*, like an animal.
-Rabbi Yaakov Yehoshua Falk gives a different model: the first three are given
-at three stages of life, the *nefesh* when the child is conceived and can move
-in utero, the *ruach* at birth, and the *neshamah* when the child begins to
-nurse. The *chayah* is not given to everyone: after maturity, the repeated
-performance of mitzvos and letting the Good Inclination guide one ready a
-person to receive it. The *yechidah* no one ever received during his lifetime
-except Moshe, though the perfectly righteous can receive it after death.
+The authorities differ over who has *chayah* and *yechidah*.
+- The Vilna Gaon (*Aderes Eliyahu* to Bereishis 2:7): man as he stands now has
+  no *yechidah*, but in Messianic times he will.
+- The Shelah (Rabbi Yeshayahu Horowitz), similarly, writes that not everyone can
+  be cognizant of his *chayah* and *yechidah* during his lifetime; only *bnei
+  aliyah*, those upwardly mobile in a spiritual sense, merit connecting with
+  them.
+- Rabbi Alexander Sender Shor: an ordinary person has a *nefesh*, *ruach* and
+  *neshamah*, but some have more and some less; a prophet, at the pinnacle of
+  spiritual awareness, has *chayah* and *yechidah* besides, while one who sins
+  "kills" a part of himself and loses his *neshamah*, and if he goes on sinning
+  his *ruach* as well, until he is left with only a *nefesh*, like an animal.
+- Rabbi Yaakov Yehoshua Falk gives a different model: the first three are given
+  at three stages of life, the *nefesh* when the child is conceived and can move
+  in utero, the *ruach* at birth, and the *neshamah* when the child begins to
+  nurse. The *chayah* is not given to everyone: after maturity, the repeated
+  performance of mitzvos and letting the Good Inclination guide one ready a
+  person to receive it. The *yechidah* no one ever received during his lifetime
+  except Moshe, though the perfectly righteous can receive it after death.
 
 ## Rendering guidance
 

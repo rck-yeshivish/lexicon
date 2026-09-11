@@ -36,40 +36,43 @@ and tribe.
 ## Distinctions
 
 ### mateh (מטה)
-Malbim (Yirmiyahu 1:11): the stick a dignitary holds, displaying the honor owed
-to his exalted station. Rabbi Shlomo Aharon Wertheimer (1866 to 1935),
-similarly: a stick held by one in authority, which is why, of all the people in
-Tanach who carried a stick, only Moshe Rabbeinu's is called a *mateh*, his
-authority as prophet and king together being unparalleled. He relates the word
-to *mateh*, inclined, after the curve at the top by which it is gripped, and
-holds that a *mateh* (like a *makel*) is made only of wood. Rabbi Yehuda ibn
-Kuraish (a ninth-century Spanish grammarian) writes that a *mateh* is
-specifically a stick of dry wood, though rabbinic tradition teaches that Moshe's
-*mateh* was made of blue rock, either sapphire or lapis lazuli. On the naming of
-the tribe, Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865), citing Shadal, holds
-that *mateh* first meant the members of a tribe, as against its leader, and as
-a stick the bottom part, *mateh* being seemingly related to *lematah*,
-underneath, as the tribesmen live under their chief.
+- Malbim (Yirmiyahu 1:11): the stick a dignitary holds, displaying the honor
+  owed to his exalted station.
+- Rabbi Shlomo Aharon Wertheimer (1866 to 1935), similarly: a stick held by one
+  in authority, which is why, of all the people in Tanach who carried a stick,
+  only Moshe Rabbeinu's is called a *mateh*, his authority as prophet and king
+  together being unparalleled. He relates the word to *mateh*, inclined, after
+  the curve at the top by which it is gripped, and holds that a *mateh* (like a
+  *makel*) is made only of wood.
+- Rabbi Yehuda ibn Kuraish (a ninth-century Spanish grammarian) writes that a
+  *mateh* is specifically a stick of dry wood, though rabbinic tradition teaches
+  that Moshe's *mateh* was made of blue rock, either sapphire or lapis lazuli.
+- On the naming of the tribe, Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865),
+  citing Shadal, holds that *mateh* first meant the members of a tribe, as
+  against its leader, and as a stick the bottom part, *mateh* being seemingly
+  related to *lematah*, underneath, as the tribesmen live under their chief.
 
 ### shevet (שבט)
-Rashi (Sanhedrin 5a): *shevet* denotes authority and the responsibility that
-comes with it. In a legal context the *shevet* or *shotim* is the instrument of
-flogging for those whose offenses deserve it. Wertheimer: such terms first named
-a stick for hitting animals, and their use for hitting people is borrowed. The
-Vilna Gaon (1720 to 1797): *mateh* and *shevet* are both for hitting but differ
-slightly; with a *mateh* one need only raise one's hand a bit for the impact to
-be felt, while with a *shevet* one must wind up the blow with energy. Wertheimer
-adds that a *shevet* may be wood or metal, as in the iron *shevet* of Tehillim
-2:9, whereas *mateh* and *makel* are wood only. Malbim (Bereishis 49:28):
-*shevet* does not literally mean stick but *branch*, the commonest thing used as
-a stick, and so it means tribe because each tribe is a branch of the family
-tree of Yaakov's descendants. Mecklenburg, citing Shadal: *shevet* and *mateh*
-have different meanings but became interchangeable because they are
-conceptually related. *Shevet* first named the tribe's leader, like a mast on
-which a flag is mounted, since the tribe rallies around him; it came to cover
-the tribesmen because the leader embodies the tribe. As sticks, both can name
-the same stick, *shevet* its top (as the leader sits atop the tribe) and *mateh*
-its bottom.
+- Rashi (Sanhedrin 5a): *shevet* denotes authority and the responsibility that
+  comes with it.
+- In a legal context the *shevet* or *shotim* is the instrument of flogging for
+  those whose offenses deserve it. Wertheimer: such terms first named a stick
+  for hitting animals, and their use for hitting people is borrowed.
+- The Vilna Gaon (1720 to 1797): *mateh* and *shevet* are both for hitting but
+  differ slightly; with a *mateh* one need only raise one's hand a bit for the
+  impact to be felt, while with a *shevet* one must wind up the blow with
+  energy.
+- Wertheimer adds that a *shevet* may be wood or metal, as in the iron *shevet*
+  of Tehillim 2:9, whereas *mateh* and *makel* are wood only.
+- Malbim (Bereishis 49:28): *shevet* does not literally mean stick but *branch*,
+  the commonest thing used as a stick, and so it means tribe because each tribe
+  is a branch of the family tree of Yaakov's descendants.
+- Mecklenburg, citing Shadal: *shevet* and *mateh* have different meanings but
+  became interchangeable because they are conceptually related. *Shevet* first
+  named the tribe's leader, like a mast on which a flag is mounted, since the
+  tribe rallies around him; it came to cover the tribesmen because the leader
+  embodies the tribe. As sticks, both can name the same stick, *shevet* its top
+  (as the leader sits atop the tribe) and *mateh* its bottom.
 
 ### mishenes (משענת)
 A walking stick on which an elderly person can lean (*mishan* means "lean" or

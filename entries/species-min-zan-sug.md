@@ -74,18 +74,19 @@ Hirsch to Shemos 20:4, who distinguishes *pesel* from *temunah*.)
 
 *Minnim* at Tehillim 150:4, "praise Him with *minnim* and pipe," is the only
 appearance of the instrument, possibly a *hapax legomenon*, and it is contested.
-Rav Saadia Gaon (892 to 942) explains *minnim* as the same as *minim*, the plural
-of *min*, seemingly an ensemble of types of instrument creating one unified
-sound (see also Ibn Ezra, *Sefas Yeser* 95, and to Tehillim 150:4 and Daniel
-3:5). Or, as Pappenheim prefers, a single instrument that somehow incorporates
-elements of all the types (percussion, string and wind). Donash Ibn Labrat (920
-to 990) disagrees with Rav Saadia: the *dagesh* in the *nun* sets *minnim* apart
-from *minim*, making it the name of a specific instrument unrelated to *min*;
-this seems to be the approach of *Machberes Menachem* (entry on מ-נ), Ibn Janach
-and Radak (each in his *Sefer HaShorashim*) and Rashi (to Tehillim 150:4). Rabbi
-Yehoshua (Jeremy) Steinberg of the Veromemanu Foundation proposes that *minnim*
-is a metathesis of *nimim*, "hairs, strings," and so specifically a stringed
-instrument.
+- Rav Saadia Gaon (892 to 942) explains *minnim* as the same as *minim*, the
+  plural of *min*, seemingly an ensemble of types of instrument creating one
+  unified sound (see also Ibn Ezra, *Sefas Yeser* 95, and to Tehillim 150:4 and
+  Daniel 3:5). Or, as Pappenheim prefers, a single instrument that somehow
+  incorporates elements of all the types (percussion, string and wind).
+- Donash Ibn Labrat (920 to 990) disagrees with Rav Saadia: the *dagesh* in the
+  *nun* sets *minnim* apart from *minim*, making it the name of a specific
+  instrument unrelated to *min*; this seems to be the approach of *Machberes
+  Menachem* (entry on מ-נ), Ibn Janach and Radak (each in his *Sefer
+  HaShorashim*) and Rashi (to Tehillim 150:4).
+- Rabbi Yehoshua (Jeremy) Steinberg of the Veromemanu Foundation proposes that
+  *minnim* is a metathesis of *nimim*, "hairs, strings," and so specifically a
+  stringed instrument.
 
 On whether the Torah's *minim* are today's species: Rabbi Klein notes that
 ancient ways of categorizing flora and fauna do not necessarily line up with the

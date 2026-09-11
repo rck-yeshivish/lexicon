@@ -60,48 +60,55 @@ difference as a statement about how Judaism views martyrdom.
 
 **What separates eid from sahad.** In Iyov 16:19 they stand in parallel ("my
 witness is in Heaven, my *sahad* on high"), Iyov poetically using *sahad* as the
-counterpart of *eid*. Malbim (there) posits a difference: *eid* attests to
-Iyov's upright conduct with other people, *sahad* to his piety before Hashem.
-Rabbi Shlomo Aharon Wertheimer (1866 to 1935), generally: *eid* relates to
-*vaad*, a meeting, the witness being one who happened to be present and so
-"met" the information, which names how he knows; *sahad* names his role in
-relaying what he saw, and he surmises it is related to *heid*, a thunderclap or
-echo (Yechezkel 7:7; Amos 4:13), a sound others hear. Rabbi Klein's own point is
-that the meanings of the two words line up, and that they are not strictly
-synonyms only because they come from two languages.
+counterpart of *eid*.
+- Malbim (there) posits a difference: *eid* attests to Iyov's upright conduct
+  with other people, *sahad* to his piety before Hashem.
+- Rabbi Shlomo Aharon Wertheimer (1866 to 1935), generally: *eid* relates to
+  *vaad*, a meeting, the witness being one who happened to be present and so
+  "met" the information, which names how he knows; *sahad* names his role in
+  relaying what he saw, and he surmises it is related to *heid*, a thunderclap
+  or echo (Yechezkel 7:7; Amos 4:13), a sound others hear.
+- Rabbi Klein's own point is that the meanings of the two words line up, and
+  that they are not strictly synonyms only because they come from two languages.
 
-**Where eid comes from.** Menachem Ibn Saruk (920 to 970), Ibn Janach (990 to
-1050) and Radak (1160 to 1235) give the biliteral ע-ד, but none offers a way to
-connect its many offshoots. Rabbi Shlomo Pappenheim (1740 to 1814; *Yerios
-Shlomo*, *Cheshek Shlomo*) makes the core "connecting one thing to another," as
-in *ad*, "until," in time, place or condition; hence *moed*, a meeting;
-*eidah*, a congregation; *adi*, an adornment joined to what it beautifies; and
-*eden*, enjoyment, which joins the one who enjoys to the thing enjoyed.
-Testimony connects an event to the one responsible for it. Rabbi Shlomo Ibn
-Parchon (twelfth century; *Machberes HeAruch*) derives *eid* from *adi*: as
-ornament marks a thing as special, testimony stands out from other speech in
-relaying important information. Rabbi Avraham Kobernick (*Hipuch Osiyos*)
-writes that ע-ד can be viewed as ד-ע, "knowledge," reversed, making the *eid*
-the one in the know, much as Rabbi Wertheimer's *vaad* does. Rabbi Wertheimer's
-explanation echoes Shadal (Rabbi Shmuel David Luzzatto, 1800 to 1865; to
-Bereishis 31:50 and Devarim 32:21, and *Bikkurei Ittim* 1829, pp. 194-196), who
-derives *eid* from a triliteral ע-ה-ד attested in Syriac but not in Tanach,
-meaning primarily to remember, mention, warn, which he takes as the *eid*'s
-primary role, warning a sinner off a misdeed. Going a step further, he makes the core of that root the two letters
-ה-ד, to which Hebrew added an initial ayin and Aramaic an initial sin or samech,
-so that *eid* and *sahad* are etymologically related.
+**Where eid comes from.**
+- Menachem Ibn Saruk (920 to 970), Ibn Janach (990 to 1050) and Radak (1160
+  to 1235) give the biliteral ע-ד, but none offers a way to connect its many
+  offshoots.
+- Rabbi Shlomo Pappenheim (1740 to 1814; *Yerios Shlomo*, *Cheshek Shlomo*)
+  makes the core "connecting one thing to another," as in *ad*, "until," in
+  time, place or condition; hence *moed*, a meeting; *eidah*, a congregation;
+  *adi*, an adornment joined to what it beautifies; and *eden*, enjoyment, which
+  joins the one who enjoys to the thing enjoyed. Testimony connects an event to
+  the one responsible for it.
+- Rabbi Shlomo Ibn Parchon (twelfth century; *Machberes HeAruch*) derives *eid*
+  from *adi*: as ornament marks a thing as special, testimony stands out from
+  other speech in relaying important information.
+- Rabbi Avraham Kobernick (*Hipuch Osiyos*) writes that ע-ד can be viewed as
+  ד-ע, "knowledge," reversed, making the *eid* the one in the know, much as
+  Rabbi Wertheimer's *vaad* does.
+- Rabbi Wertheimer's explanation echoes Shadal (Rabbi Shmuel David Luzzatto,
+  1800 to 1865; to Bereishis 31:50 and Devarim 32:21, and *Bikkurei Ittim* 1829,
+  pp. 194-196), who derives *eid* from a triliteral ע-ה-ד attested in Syriac but
+  not in Tanach, meaning primarily to remember, mention, warn, which he takes as
+  the *eid*'s primary role, warning a sinner off a misdeed. Going a step
+  further, he makes the core of that root the two letters ה-ד, to which Hebrew
+  added an initial ayin and Aramaic an initial sin or samech, so that *eid* and
+  *sahad* are etymologically related.
 
-**Whether sahad is related to sa'ad.** Rav Hirsch (to Tehillim 20:3) says yes:
-*sahad*, with sin or samech, is related to ס-ע-ד, "support," by the interchange
-of hey and ayin. The connection is justified because a witness's role is to give
-testimony that could support one side of the case. Rabbi Yehudah Aryeh of
-Carpentras, an eighteenth-century
-grammarian and dayan, connects them similarly in *Ohalei Yehuda*, and also
-suggests *sahad* is a blend of *zeh*, "this" (sin or samech for zayin), and
-*eid*, which in some ways is like Shadal, since it too relates the two words. In
-the edition of *Machberes Menachem* published by Herschell Filipowsky (1816 to
-1872), Menachem defines *eid* as *sa'ad*, which fits Rav Hirsch; in the unpublished edition prepared by Professor Ángel
-Sáenz-Badillo (1940 to 2013), he defines it as *sahad*, which is less novel.
+**Whether sahad is related to sa'ad.**
+- Rav Hirsch (to Tehillim 20:3) says yes: *sahad*, with sin or samech, is
+  related to ס-ע-ד, "support," by the interchange of hey and ayin. The
+  connection is justified because a witness's role is to give testimony that
+  could support one side of the case.
+- Rabbi Yehudah Aryeh of Carpentras, an eighteenth-century grammarian and dayan,
+  connects them similarly in *Ohalei Yehuda*, and also suggests *sahad* is a
+  blend of *zeh*, "this" (sin or samech for zayin), and *eid*, which in some
+  ways is like Shadal, since it too relates the two words.
+- In the edition of *Machberes Menachem* published by Herschell Filipowsky (1816
+  to 1872), Menachem defines *eid* as *sa'ad*, which fits Rav Hirsch; in the
+  unpublished edition prepared by Professor Ángel Sáenz-Badillo (1940 to 2013),
+  he defines it as *sahad*, which is less novel.
 
 ## Distinctions
 

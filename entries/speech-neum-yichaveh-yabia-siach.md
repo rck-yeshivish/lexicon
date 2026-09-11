@@ -102,17 +102,18 @@ Dr. Shlomo Mandelkorn (1846 to 1902), in his concordance of biblical Hebrew
 whisper." Rabbi Klein says outright: "I am not sure what to make of that."
 
 ### yichaveh / achaveh (יחוה / אחוה)
-Ibn Chayyuj, Ibn Janach and Radak: root ח-ו-ה (Tehillim 19:3; Iyov 13:7, 32:10,
-32:17). Menachem Ibn Saruk: the biliteral ח-ו. Pappenheim derives ח-ו from ח-י
-("life") and/or א-ח ("brotherhood, unity"), both of which he traces further back
-to the monoliteral root ח. On the first, this speech gives an idea life by
-expressing it verbally instead of leaving it hidden away in the thoughts; for
-the *vav*/*yod* interchange he adduces the name *Chavah*, which the Torah itself
-ties to *chai*, spelled with a *yod* (Bereishis 3:20). Alternatively, he relates
-it to *ach*, "brother," because speech creates connection and comradery by
-linking speaker with listener. *Peirush HaRokeach*: *yichaveh* is speech for the
-purpose of explaining the reasoning behind something, though he offers no
-etymological account of it.
+- Ibn Chayyuj, Ibn Janach and Radak: root ח-ו-ה (Tehillim 19:3; Iyov 13:7,
+  32:10, 32:17).
+- Menachem Ibn Saruk: the biliteral ח-ו.
+- Pappenheim derives ח-ו from ח-י ("life") and/or א-ח ("brotherhood, unity"),
+  both of which he traces further back to the monoliteral root ח. On the first,
+  this speech gives an idea life by expressing it verbally instead of leaving it
+  hidden away in the thoughts; for the *vav*/*yod* interchange he adduces the
+  name *Chavah*, which the Torah itself ties to *chai*, spelled with a *yod*
+  (Bereishis 3:20). Alternatively, he relates it to *ach*, "brother," because
+  speech creates connection and comradery by linking speaker with listener.
+- *Peirush HaRokeach*: *yichaveh* is speech for the purpose of explaining the
+  reasoning behind something, though he offers no etymological account of it.
 
 ### yabia / abiah (יביע / אביעה)
 Pappenheim: from the biliteral ב-ע, revealing what lies beneath the surface. At
@@ -125,14 +126,16 @@ HaRokeach* and *Peirush HaRokeach*: *yabia* is speaking on and on without
 stopping, like a spring that never runs dry.
 
 ### siach / sichah (שיח / שיחה)
-*Yasiach* (Tehillim 119:23), *asichah* (Tehillim 55:18, 77:4, 77:7 and 77:13, 119:15,
-145:5; Iyov 7:11) and *lasuach* (Bereishis 24:63). Ibn Chayyuj, Ibn Janach and
-Radak: root ש-ו-ח. Menachem: the biliteral ש-ח. Pappenheim takes ש-ח from ס-ח
-("uprooting, removing, transferring"): *sichah* is stream-of-thought speech,
-the mind wandering, meant to help the speaker forget, "uproot," his sorrows.
-*Peirush HaRokeach* similarly writes that *sichah* is speech about various
-topics within one conversation; Rabbi Klein notes that this can be looked at as
-"transferring" the discussion from one subject to another.
+*Yasiach* (Tehillim 119:23), *asichah* (Tehillim 55:18, 77:4, 77:7 and 77:13,
+119:15, 145:5; Iyov 7:11) and *lasuach* (Bereishis 24:63).
+- Ibn Chayyuj, Ibn Janach and Radak: root ש-ו-ח.
+- Menachem: the biliteral ש-ח.
+- Pappenheim takes ש-ח from ס-ח ("uprooting, removing, transferring"): *sichah*
+  is stream-of-thought speech, the mind wandering, meant to help the speaker
+  forget, "uproot," his sorrows.
+- *Peirush HaRokeach* similarly writes that *sichah* is speech about various
+  topics within one conversation; Rabbi Klein notes that this can be looked at
+  as "transferring" the discussion from one subject to another.
 
 ## Rendering guidance
 

@@ -71,15 +71,17 @@ Mamo (*Shevo V'Achlamah* to Berachos 59b): the current, which runs fast where th
 Euphrates runs slow, since in Chazal's idiom whatever works fast is called sharp, as a
 sharp knife cuts quickly.
 
-**How the name is built.** Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 2:11,
-*Barzilai* p. 127) takes *Chidekel* as an ancient Hebrew four-letter word, though
-Hebrew roots generally have three letters or fewer, and conjectures that its core is
-ח-ד-ק with a lamed added at the end, on the model of *barzel*, *karsul*, *chanamal*,
-*arafel*, *carmel*, *chargol* and *givol*; how he relates ח-ד-ק to the river is not so
-clear. *Torah Temimah* explains the Gemara's derashah from the same rarity: because
-four-letter roots are rare, Chazal read the name as two two-letter words. Rabbi Mamo
-takes it differently, that the base is *dekel*, palm, and the Gemara asked only what
-the prefixed chet adds, the answer being *chad*.
+**How the name is built.**
+- Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 2:11, *Barzilai* p. 127)
+  takes *Chidekel* as an ancient Hebrew four-letter word, though Hebrew roots
+  generally have three letters or fewer, and conjectures that its core is ח-ד-ק
+  with a lamed added at the end, on the model of *barzel*, *karsul*, *chanamal*,
+  *arafel*, *carmel*, *chargol* and *givol*; how he relates ח-ד-ק to the river
+  is not so clear.
+- *Torah Temimah* explains the Gemara's derashah from the same rarity: because
+  four-letter roots are rare, Chazal read the name as two two-letter words.
+- Rabbi Mamo takes it differently, that the base is *dekel*, palm, and the
+  Gemara asked only what the prefixed chet adds, the answer being *chad*.
 
 **Tigras in Chullin 59b.** Rabbi Binyamin Mussafia (*Mussaf HeAruch*): the tiger, so
 called because it runs as swiftly as an arrow; like Abarbanel, he notes that the
@@ -153,18 +155,23 @@ being the Assyrian nation (from Shem's son Ashur, Bereishis 10:22) and its chief
 none of which, Rabbi Reuven Chaim Klein concludes, has to do with the Tigris.
 
 ### the name Tigris, and tigras (תיגרס)
-*Tigris* is first recorded in Greek and Latin, and philologists have long argued for a
-Persian origin (compare Tigranes, several Armenian kings of the Roman period). Some
-scholars trace it to Old Persian *tigra-*, sharp or pointed, from Avestan *tighri-*,
-arrow, which Rabbi Ernest Klein, in his etymological dictionary of English, traces to
-the Indo-European *(s)teig-*, pricking or piercing, said to be the source of English
-*stick*; this is now often taken as a folk etymology, but either way it is thematically
-like the Gemara's *chad*. Rabbi Aharon Marcus instead surmises that *Tigris* is a
-corruption of *Diglat*, l turning to r and d to t, as is apparently common in Persian,
-so that *Tigris* is the same name again. Abarbanel (to Bereishis 2:14) says the river is called Tigris after the tiger,
-*tigris*, both moving at speed; English *tiger* comes from the Latin and Greek *tigris*
-(also the Modern Hebrew word), themselves said to come from the Persian for arrow, for
-the way the tiger springs on its prey. For *tigras* in Chullin 59b, see above.
+*Tigris* is first recorded in Greek and Latin, and philologists have long argued
+for a Persian origin (compare Tigranes, several Armenian kings of the Roman
+period).
+- Some scholars trace it to Old Persian *tigra-*, sharp or pointed, from Avestan
+  *tighri-*, arrow, which Rabbi Ernest Klein, in his etymological dictionary of
+  English, traces to the Indo-European *(s)teig-*, pricking or piercing, said to
+  be the source of English *stick*; this is now often taken as a folk etymology,
+  but either way it is thematically like the Gemara's *chad*.
+- Rabbi Aharon Marcus instead surmises that *Tigris* is a corruption of
+  *Diglat*, l turning to r and d to t, as is apparently common in Persian, so
+  that *Tigris* is the same name again.
+- Abarbanel (to Bereishis 2:14) says the river is called Tigris after the tiger,
+  *tigris*, both moving at speed; English *tiger* comes from the Latin and Greek
+  *tigris* (also the Modern Hebrew word), themselves said to come from the
+  Persian for arrow, for the way the tiger springs on its prey.
+
+For *tigras* in Chullin 59b, see above.
 
 ## Rendering guidance
 

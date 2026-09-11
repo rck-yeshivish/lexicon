@@ -36,15 +36,17 @@ say Hashem "slaughtered them (*vayishchatem*) in the wilderness" (Bamidbar
 14:16), which cannot mean a literal neck-cut but a bringing-about of death.
 
 ### zevichah (זביחה)
-Root ז-ב-ח. Malbim: slaughtering with a stated purpose, whether a ritual
-korban or meat for a festive gathering. Rabbi Shlomo Pappenheim narrows it:
-*zevichah* is a species of *shechitah*, killing for the purpose of sacrifice.
-Ralbag, who does not offer full definitions of these words,
-stands in two places: to Devarim 12:21 he says *zevichah* does not *per force*
-name the same act as *shechitah* and can also include *nechirah* (stabbing),
-which is a halachically unacceptable way of killing (see Targum Yonasan to
-Bamidbar 22:40); to Vayikra 1:1 he writes that *shechitah* and *zevichah* are in
-fact synonyms.
+Root ז-ב-ח.
+- Malbim: slaughtering with a stated purpose, whether a ritual korban or meat
+  for a festive gathering.
+- Rabbi Shlomo Pappenheim narrows it: *zevichah* is a species of *shechitah*,
+  killing for the purpose of sacrifice.
+- Ralbag, who does not offer full definitions of these words, stands in two
+  places: to Devarim 12:21 he says *zevichah* does not *per force* name the same
+  act as *shechitah* and can also include *nechirah* (stabbing), which is a
+  halachically unacceptable way of killing (see Targum Yonasan to Bamidbar
+  22:40); to Vayikra 1:1 he writes that *shechitah* and *zevichah* are in fact
+  synonyms.
 
 ### tevichah (טביחה)
 Root ט-ב-ח. Malbim argues that it is killing an animal for food in a general
@@ -75,13 +77,16 @@ slaughtered) or a cook; Modern Hebrew *mitbach* is a kitchen.
 Two occupations in Tanach are described with *tevichah*-related words: Potiphar,
 the Egyptian courtier to whom Yosef was sold, is *sar ha'tabachim* ("minister of
 *tabachim*," Bereishis 37:36), and Nevuzaradan, the Babylonian general who
-destroyed the first Beis HaMikdash, is *rav ha'tabachim* ("chief of
-*tabachim*," Melachim II and Yirmiyahu). Rashi to Bereishis 37:36: Potiphar was
-in charge of all those who slaughtered the king's animals. Ibn Ezra and Ramban
-follow Targum Onkelos: he was Chief Executioner, or at least chief warden over
-those on death row, which seems also to be the meaning of Nevuzaradan's title.
-The link is plain, an executioner slays men as a slaughterer slays beasts. Ibn
-Ezra to Daniel 2:14 says instead that Potiphar was Pharaoh's Chief Cook, so, Rabbi Klein observes, Ibn Ezra seems to contradict himself.
+destroyed the first Beis HaMikdash, is *rav ha'tabachim* ("chief of *tabachim*,"
+Melachim II and Yirmiyahu).
+- Rashi to Bereishis 37:36: Potiphar was in charge of all those who slaughtered
+  the king's animals.
+- Ibn Ezra and Ramban follow Targum Onkelos: he was Chief Executioner, or at
+  least chief warden over those on death row, which seems also to be the meaning
+  of Nevuzaradan's title. The link is plain, an executioner slays men as a
+  slaughterer slays beasts.
+- Ibn Ezra to Daniel 2:14 says instead that Potiphar was Pharaoh's Chief Cook,
+  so, Rabbi Klein observes, Ibn Ezra seems to contradict himself.
 
 Rabbi Klein notes that there might be an etymological link between *zevichah*
 and *tevichah*: the two differ only in the first letter of the root and share

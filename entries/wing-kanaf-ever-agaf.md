@@ -60,19 +60,20 @@ itself.
 
 ## Where the authorities disagree
 
-**Where ever comes from, and how it relates to avir.** The earliest
-grammarians, Menachem Ibn Saruk (920 to 970), Rabbi Yonah Ibn Janach (990 to
-1050) and Radak (1160 to 1235), trace *ever* to the triliteral א-ב-ר and put
-*avir*, "strong," under the same root, which on the surface would suggest one
-root with two entirely different senses. Rabbi Avraham Bedersi HaPenini, a
-thirteenth-century Spanish sage, relates them: *ever* is any limb of a living
-creature, like the hands or legs, and in birds it names the wings because that
-limb musters the most strength. Alternatively, Rav Hirsch (to Bereishis 17:4)
-explains *avir* as the power that lifts a person to a higher place, in a
-spiritual or moral sense, on a par with the bird's *ever*, which lifts it
-physically. Rabbi Pappenheim holds that the aleph of *ever* is not part of the
-root: the root is the biliteral ב-ר, primarily "choosing" or "separating," and
-the *ever* is the choicest limb of a bird because it is the strongest.
+**Where ever comes from, and how it relates to avir.**
+- The earliest grammarians, Menachem Ibn Saruk (920 to 970), Rabbi Yonah Ibn
+  Janach (990 to 1050) and Radak (1160 to 1235), trace *ever* to the triliteral
+  א-ב-ר and put *avir*, "strong," under the same root, which on the surface
+  would suggest one root with two entirely different senses.
+- Rabbi Avraham Bedersi HaPenini, a thirteenth-century Spanish sage, relates
+  them: *ever* is any limb of a living creature, like the hands or legs, and in
+  birds it names the wings because that limb musters the most strength.
+- Alternatively, Rav Hirsch (to Bereishis 17:4) explains *avir* as the power
+  that lifts a person to a higher place, in a spiritual or moral sense, on a par
+  with the bird's *ever*, which lifts it physically.
+- Rabbi Pappenheim holds that the aleph of *ever* is not part of the root: the
+  root is the biliteral ב-ר, primarily "choosing" or "separating," and the
+  *ever* is the choicest limb of a bird because it is the strongest.
 
 **Where kanaf comes from.** Rav Hirsch (to Bereishis 1:21, 7:14; Vayikra
 19:11) compares *kanaf* to *ganav*, thief, through the interchange of kaf with
@@ -85,25 +86,27 @@ the horizon like a dome) does not mention *kanaf* at all. Rabbi Klein surmises,
 in the absence of an explanation from Rabbi Pappenheim, that *kanaf* would then
 be the limb by which a bird reaches toward the *kapayim*.
 
-**What agaf is built on.** *Agaf* seems to be cognate with the Biblical Aramaic
-*gapin*, wings (Daniel 7:4, 7:6), which, Rabbi Klein infers, suggests a
-biliteral root ג-פ with a non-essential aleph. Rabbi Pappenheim holds exactly
-that: the aleph of *agaf*, as of *ever*, is not root. He gives ג-פ the core
-sense of outward protrusion, apt for a wing, and puts in the same family *gap*
-or *guf*, the body, a person's outward projection as against the soul within,
-which, he also suggests, is a person's means of moving about as wings are a
-bird's; *negef* and *mageifah*, disease that spreads outward; and *gefen*, the
-cluster of grapes
-spreading from its stem like wings. Menachem Ibn Saruk compares the triliteral
-כ-נ-ף with the biliteral ג-פ: as *kanaf* means a wing and also the periphery of
-a place, so *gaf* in Mishlei 9:3 means the edges of a land. Rabbi Klein
-suggests that perhaps the two roots are related through the interchange of kaf
-and gimmel and the often-disappearing nun. Radak, noting that the biblical
-forms always have a dagesh in the peh (*agapav*, *agapecha*, *agapeha*,
-*gapin*), claims the dagesh stands for a missing letter: *agap* derives from the
-Aramaic *gadfin*, wings, the dagesh replacing the dalet. The Hebrew root ג-ד-ף
-means to curse or blaspheme, and Rabbi Klein finds it intriguing to consider how
-that relates to wings (see Rav Hirsch to Bamidbar 15:30).
+**What agaf is built on.**
+- *Agaf* seems to be cognate with the Biblical Aramaic *gapin*, wings (Daniel
+  7:4, 7:6), which, Rabbi Klein infers, suggests a biliteral root ג-פ with a
+  non-essential aleph. Rabbi Pappenheim holds exactly that: the aleph of *agaf*,
+  as of *ever*, is not root. He gives ג-פ the core sense of outward protrusion,
+  apt for a wing, and puts in the same family *gap* or *guf*, the body, a
+  person's outward projection as against the soul within, which, he also
+  suggests, is a person's means of moving about as wings are a bird's; *negef*
+  and *mageifah*, disease that spreads outward; and *gefen*, the cluster of
+  grapes spreading from its stem like wings.
+- Menachem Ibn Saruk compares the triliteral כ-נ-ף with the biliteral ג-פ: as
+  *kanaf* means a wing and also the periphery of a place, so *gaf* in Mishlei
+  9:3 means the edges of a land. Rabbi Klein suggests that perhaps the two roots
+  are related through the interchange of kaf and gimmel and the
+  often-disappearing nun.
+- Radak, noting that the biblical forms always have a dagesh in the peh
+  (*agapav*, *agapecha*, *agapeha*, *gapin*), claims the dagesh stands for a
+  missing letter: *agap* derives from the Aramaic *gadfin*, wings, the dagesh
+  replacing the dalet. The Hebrew root ג-ד-ף means to curse or blaspheme, and
+  Rabbi Klein finds it intriguing to consider how that relates to wings (see Rav
+  Hirsch to Bamidbar 15:30).
 
 ## Distinctions
 

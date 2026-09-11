@@ -36,48 +36,55 @@ though Rabbi Yaakov Emden takes issue with his limiting *eit* to the seasons.
 ## Distinctions
 
 ### zman (זמן)
-Root ז-מ-ן. Rabbi Moshe Shapiro: related to *mizuman*, "ready, prepared" (and
-used colloquially of someone "invited"); Rabbi Shlomo Pappenheim: the root of
-*zman* is *zamem*, to "plot" or "think ahead." Rabbi Klein draws the upshot: in
-essence time is a means of preparation, for the future. (In Modern Hebrew cash
-is *mizuman* because, unlike checks or credit cards, it makes
-for a fast and easy transaction and can readily be used.) Maharal (*Netzach
-Yisrael* 26): *zman* is the flow of time as an existing element of creation,
-*eit* time as an abstract concept. Malbim: *zman*, like *moed*, is a
-predetermined time set by man. Rabbi Klein observes that this does not seem to
-account for the difference between *moed* and *zman*, and suggests that one could
-argue that *moed* is Hebrew and *zman* Aramaic: the Targumim commonly render
-Biblical *moed* as *zman*, although HaBachur points out that *zman* itself
-appears in some of the post-Exilic books of the Bible and in Koheles.
-Wertheimer: *zman* is the most general of the three. Rav Hirsch: *zman* is
-time in general. Rabbi Yaakov Emden: *zman* is the entire duration of an
-appointed time.
+Root ז-מ-ן.
+- Rabbi Moshe Shapiro: related to *mizuman*, "ready, prepared" (and used
+  colloquially of someone "invited"); Rabbi Shlomo Pappenheim: the root of
+  *zman* is *zamem*, to "plot" or "think ahead." Rabbi Klein draws the upshot:
+  in essence time is a means of preparation, for the future. (In Modern Hebrew
+  cash is *mizuman* because, unlike checks or credit cards, it makes for a fast
+  and easy transaction and can readily be used.)
+- Maharal (*Netzach Yisrael* 26): *zman* is the flow of time as an existing
+  element of creation, *eit* time as an abstract concept.
+- Malbim: *zman*, like *moed*, is a predetermined time set by man. Rabbi Klein
+  observes that this does not seem to account for the difference between *moed*
+  and *zman*, and suggests that one could argue that *moed* is Hebrew and *zman*
+  Aramaic: the Targumim commonly render Biblical *moed* as *zman*, although
+  HaBachur points out that *zman* itself appears in some of the post-Exilic
+  books of the Bible and in Koheles.
+- Wertheimer: *zman* is the most general of the three.
+- Rav Hirsch: *zman* is time in general.
+- Rabbi Yaakov Emden: *zman* is the entire duration of an appointed time.
 
 ### eit (עת)
-Root ע-ת. HaBachur disagrees with those who call *zman* a synonym of *eit*,
-and cites anonymous sages who mention a minute, philosophy-based distinction,
-which he does not spell out, writing that he lacks the energy to go into
-details. Maharal's abstract-versus-existent line (above) is a distinction of
-that sort. Malbim: *eit* is a natural unit of time whose
-existence nature itself shows (*geshamim b'ittam*). Pappenheim: *eit* shares
-some meaning with *zman*, because it too refers to preparation and designation,
-as the *ish itti* of Vayikra 16:21 is the man designated to send the goat to
-Azazel. *Atid*, "future," is derived from *eit* and is also a form of a verb
-meaning "to prepare." Others: *zman* is a span, *eit* a
-point within it. Wertheimer: *eit* is somewhat more specific than *zman*, less so
-than *moed*. Rav Hirsch: *eit* is a portion of time, related to *eeteit* or
-*ettim*, a spade that breaks up soil into smaller units. Rabbi Yaakov Emden:
-*eit* is any given point within an appointed span; and he takes issue with the
-Rama's assertion that *eit* means the seasons of the year, citing examples in
-which *eit* refers to other (natural) phenomena as well.
+Root ע-ת.
+- HaBachur disagrees with those who call *zman* a synonym of *eit*, and cites
+  anonymous sages who mention a minute, philosophy-based distinction, which he
+  does not spell out, writing that he lacks the energy to go into details.
+  Maharal's abstract-versus-existent line (above) is a distinction of that sort.
+- Malbim: *eit* is a natural unit of time whose existence nature itself shows
+  (*geshamim b'ittam*).
+- Pappenheim: *eit* shares some meaning with *zman*, because it too refers to
+  preparation and designation, as the *ish itti* of Vayikra 16:21 is the man
+  designated to send the goat to Azazel. *Atid*, "future," is derived from *eit*
+  and is also a form of a verb meaning "to prepare."
+- Others: *zman* is a span, *eit* a point within it.
+- Wertheimer: *eit* is somewhat more specific than *zman*, less so than *moed*.
+- Rav Hirsch: *eit* is a portion of time, related to *eeteit* or *ettim*, a
+  spade that breaks up soil into smaller units.
+- Rabbi Yaakov Emden: *eit* is any given point within an appointed span; and he
+  takes issue with the Rama's assertion that *eit* means the seasons of the
+  year, citing examples in which *eit* refers to other (natural) phenomena as
+  well.
 
 ### moed (מועד)
-Root י-ע-ד, "appoint." Malbim: a predetermined time, set by man, or by Hashem
-for the festivals. Wertheimer: the most specific of the three, a preset point
-like a meeting scheduled down to the hour and minute. Rabbi Yaakov Emden:
-*moed* is the beginning of an appointed time (its *zman* is the whole duration,
-its *eit* any point within). Emden concedes that these are only the technical
-differences; in practical usage all these words may be used interchangeably.
+Root י-ע-ד, "appoint."
+- Malbim: a predetermined time, set by man, or by Hashem for the festivals.
+- Wertheimer: the most specific of the three, a preset point like a meeting
+  scheduled down to the hour and minute.
+- Rabbi Yaakov Emden: *moed* is the beginning of an appointed time (its *zman*
+  is the whole duration, its *eit* any point within). Emden concedes that these
+  are only the technical differences; in practical usage all these words may be
+  used interchangeably.
 
 ### shaah (שעה)
 Root ש-ע-ה. The Rama (Rabbi Moshe Isserles) heard that some consider *bechol eit u'vechol shaah*, in the

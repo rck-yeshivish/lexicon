@@ -42,16 +42,19 @@ matters of intimacy in *tit hayaven*; slanderers in *tzalmaves*; those who
 quarrel with talmidei chachamim in *eretz tachtis*; and so forth.
 
 ### sheol (שאול)
-Close to seventy occurrences. Ibn Ezra (to Bereishis 37:35) holds the literal
-sense is grave, and faults the Vulgate for rendering it *infernus* there. Rashi
-(there): the plain sense is grave, but exegetically it can refer to the soul's
-purgatory after death. Malbim: literally a deep pit from which it is impossible
-to get out; this, Rabbi Klein adds, may apply to both the grave and Gehinnom. Rabbi Shlomo Pappenheim: root ש-ל, something cast
-away or negated, and death is a plane of existence away from the living. Rabbi
-Tzvi Matisyahu Abrahams, a friend of Rabbi Klein's, takes a more exhortative
-approach (*Root Connections in the Torah* p.
-274): the grave is *sheol* because when we are placed in the ground a great
-question (*she'eilah*) will hang over us as to where we are headed.
+Close to seventy occurrences.
+- Ibn Ezra (to Bereishis 37:35) holds the literal sense is grave, and faults the
+  Vulgate for rendering it *infernus* there.
+- Rashi (there): the plain sense is grave, but exegetically it can refer to the
+  soul's purgatory after death.
+- Malbim: literally a deep pit from which it is impossible to get out; this,
+  Rabbi Klein adds, may apply to both the grave and Gehinnom.
+- Rabbi Shlomo Pappenheim: root ש-ל, something cast away or negated, and death
+  is a plane of existence away from the living.
+- Rabbi Tzvi Matisyahu Abrahams, a friend of Rabbi Klein's, takes a more
+  exhortative approach (*Root Connections in the Torah* p. 274): the grave is
+  *sheol* because when we are placed in the ground a great question
+  (*she'eilah*) will hang over us as to where we are headed.
 
 ### avadon (אבדון)
 Tehillim 88:12. Either the body's ruin and rotting after death, or that souls
@@ -101,13 +104,15 @@ would be a scribal error for *eretz chittis*, and on that assumption the whole
 sugya makes more sense.
 
 ### Variant lists
-*Midrash Hallel* (*Otzar Midrashim* p. 134) drops *bor shaon* and *eretz
-hatachtis* and adds *gehinnom* and *tziyah* (place of desolation). *Midrash Din HaKever* (p.
-94) has *be'er shaon* for *bor shaon*, *bor hatachtis* (the underpit) for *eretz
-hatachtis*, and *chatzar maves* (Courtyard of Death) for *tzalmaves*. The Targumic Tosefta (start of Yechezkel)
-has *dumah* (literally, quiet) for *bor shaon* (in kabbalistic sources *Dumah* is the angel set
-over Gehinnom), *arka* for *eretz hatachtis* (Aramaic for earth, see Yirmiyahu
-10:11), and *gehinnom* for *tzalmaves*.
+- *Midrash Hallel* (*Otzar Midrashim* p. 134) drops *bor shaon* and *eretz
+  hatachtis* and adds *gehinnom* and *tziyah* (place of desolation).
+- *Midrash Din HaKever* (p. 94) has *be'er shaon* for *bor shaon*, *bor
+  hatachtis* (the underpit) for *eretz hatachtis*, and *chatzar maves*
+  (Courtyard of Death) for *tzalmaves*.
+- The Targumic Tosefta (start of Yechezkel) has *dumah* (literally, quiet) for
+  *bor shaon* (in kabbalistic sources *Dumah* is the angel set over Gehinnom),
+  *arka* for *eretz hatachtis* (Aramaic for earth, see Yirmiyahu 10:11), and
+  *gehinnom* for *tzalmaves*.
 
 ### gehinnom (גיהנום) and tophet (תפת)
 Neither explicitly refers to the netherworld in Tanach. *Gei ben Hinnom* and *Tophes* are

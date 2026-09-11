@@ -35,12 +35,13 @@ Three times in Tanach, all in Bereishis: Rivkah bashfully covers herself with a
 widow's clothing and covers herself in one (38:14), and afterward removes it
 (38:19).
 
-Several read the word as a contraction. Rabbi Menachem ben Shlomo (*Midrash
-Sechel Tov* to Bereishis 24:65) parses it as *mutza al paneha*, spread upon her
-face; Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) as *tza* (from
-*mutza*, spread) plus *af* (from *apayim*, face); Rabbi Saadia al Damari
-(*Midrash HaBeiur* there) as a notarikon of *tzaf al paneha*, floats on her
-face.
+Several read the word as a contraction.
+- Rabbi Menachem ben Shlomo (*Midrash Sechel Tov* to Bereishis 24:65) parses it
+  as *mutza al paneha*, spread upon her face;
+- Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) as *tza* (from *mutza*,
+  spread) plus *af* (from *apayim*, face);
+- Rabbi Saadia al Damari (*Midrash HaBeiur* there) as a notarikon of *tzaf al
+  paneha*, floats on her face.
 
 The classical lexicographers (including Ibn Saruk, Ibn Janach, and Radak) all
 trace it to the root צ-ע-פ. Wilhelm Gesenius argues that צ-ע-פ is a permutation of ע-ט-פ, wrapping, by the interchange of tet
@@ -49,26 +50,28 @@ approvingly.
 
 On Onkelos' *eifa*: Targum pseudo-Yonasan and Targum Yerushalmi (to 24:65,
 38:14, 38:19) consistently render *tza'if* as *redida*, but Onkelos there
-consistently renders it *eifa* (ע-פ-א). Rabbi Avraham Vilner, son of the Vilna
-Gaon (1765 to 1808, *Tirgem Avraham* to Bereishis 24:65), explains it as
-*tza'if* with the initial tzadi dropped. Rabbi Yaakov Zev Lev (*Me'at Tzari* to
-Bereishis 38:14) explains that this may result from a Hebrew tzadi very often
-becoming an Aramaic ayin (as *tzemer* becomes *amar*): since *tza'if* already
-has an ayin after its tzadi, the first letter was simply dropped. (*Eifah*, with a final hei, is also the name of Avraham's grandson
-through Midyan, Bereishis 25:4, Divrei HaYamim I 1:33.) Rabbi Menachem ben
-Shlomo explains that *eifa* in Aramaic means doubling, folding, or wrapping (see
-Targum Onkelos to Shemos 26:9, 28:16), because the *tza'if* was so thin as to be
-fairly see-through and had to be folded over to be opaque enough to obscure the
-wearer's hair. Rabbi Yehoshua Steinberg of the Veromemanu Foundation adds that
-this sense of the Aramaic ע-פ is similar to the Hebrew ע-ב (*av*, thick), and
-the two roots might be connected by the interchange of peh and beis.
-Alternatively, Rabbi Yitzchak Ratzabi (a prominent Yemenite rabbi in the Neve
-Achiezer neighborhood of Bnei Brak) explains that the *tza'if* was worn with its
-edges or sides folded to fit the wearer, and suggests that perhaps it relates to
-doubling because it was an extra head covering worn in addition to another. He
-also reads the initial tzadi as a hint to *tzei* (go out), understanding the
-*tza'if* as what a woman primarily wore when going outside (contrast *redid*,
-under Rabbi Pappenheim below).
+consistently renders it *eifa* (ע-פ-א).
+- Rabbi Avraham Vilner, son of the Vilna Gaon (1765 to 1808, *Tirgem Avraham* to
+  Bereishis 24:65), explains it as *tza'if* with the initial tzadi dropped.
+  Rabbi Yaakov Zev Lev (*Me'at Tzari* to Bereishis 38:14) explains that this may
+  result from a Hebrew tzadi very often becoming an Aramaic ayin (as *tzemer*
+  becomes *amar*): since *tza'if* already has an ayin after its tzadi, the first
+  letter was simply dropped. (*Eifah*, with a final hei, is also the name of
+  Avraham's grandson through Midyan, Bereishis 25:4, Divrei HaYamim I 1:33.)
+- Rabbi Menachem ben Shlomo explains that *eifa* in Aramaic means doubling,
+  folding, or wrapping (see Targum Onkelos to Shemos 26:9, 28:16), because the
+  *tza'if* was so thin as to be fairly see-through and had to be folded over to
+  be opaque enough to obscure the wearer's hair. Rabbi Yehoshua Steinberg of the
+  Veromemanu Foundation adds that this sense of the Aramaic ע-פ is similar to
+  the Hebrew ע-ב (*av*, thick), and the two roots might be connected by the
+  interchange of peh and beis.
+- Alternatively, Rabbi Yitzchak Ratzabi (a prominent Yemenite rabbi in the Neve
+  Achiezer neighborhood of Bnei Brak) explains that the *tza'if* was worn with
+  its edges or sides folded to fit the wearer, and suggests that perhaps it
+  relates to doubling because it was an extra head covering worn in addition to
+  another. He also reads the initial tzadi as a hint to *tzei* (go out),
+  understanding the *tza'if* as what a woman primarily wore when going outside
+  (contrast *redid*, under Rabbi Pappenheim below).
 
 Rav Hirsch has two comments. To Bereishis 24:65 he suggests that צ-ע-פ is related to ש-א-פ, by
 the interchange of tzadi with shin and of ayin with aleph: that root is drawing

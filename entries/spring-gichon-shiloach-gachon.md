@@ -90,15 +90,18 @@ name, the *Shelach* pool, appears at Nechemiah 3:15. Rashi (to Melachim I 1:33,
 Yeshayahu 8:6) writes explicitly that the Gichon was also called Shiloach, and
 so does Radak (to Melachim I 1:33).
 
-Later linguists and philologists have argued that the two names do not refer
-to exactly the same place. Wilhelm Gesenius (1786 to 1842): the
-Gichon is the fountain that supplies the water, while the Shiloach, explained as
-a cognate of ש-ל-ח, "sending," is the aqueduct that channels it. Avraham
-Even-Shoshan (1906 to 1984), in his concordance of Biblical Hebrew: the
-Shiloach was a channel or pool into which the waters of the Gichon spring
-flowed. Professor Carol A. Dray of the University of Cambridge: the Gichon was
-outside the walls of Yerushalayim, the Shiloach within. (Today the Gihon Company
-is Yerushalayim's public waterworks.)
+Later linguists and philologists have argued that the two names do not refer to
+exactly the same place.
+- Wilhelm Gesenius (1786 to 1842): the Gichon is the fountain that supplies the
+  water, while the Shiloach, explained as a cognate of ש-ל-ח, "sending," is the
+  aqueduct that channels it.
+- Avraham Even-Shoshan (1906 to 1984), in his concordance of Biblical Hebrew:
+  the Shiloach was a channel or pool into which the waters of the Gichon spring
+  flowed.
+- Professor Carol A. Dray of the University of Cambridge: the Gichon was outside
+  the walls of Yerushalayim, the Shiloach within.
+
+(Today the Gihon Company is Yerushalayim's public waterworks.)
 
 The Septuagint renders Shiloach *Siloam*; Rabbi Klein suggests the final *m* is
 possibly related to Semitic mimation. An inscription found at what is believed to be the

@@ -81,12 +81,14 @@ tombstone is called a *tziyun* because, like a road marker, it reminds those who
 see it where they are going and what is expected of them. The "others" above
 read *tziyun* as "outstanding."
 
-**What nefesh means here.** Three readings. Tukachinsky: the soul, honored at
-the place where it may linger near its former body. The "others" above: will,
-the departed's will to do good (Rashi to Bereishis 23:8). Rabbi Eliyahu Katz:
-in the context of tombstones the word is actually related to *menuchah*, rest,
-from *shavas vayinafash* (Shemos 31:17), so a stone that marks one's eternal
-resting place is itself named for resting.
+**What nefesh means here.** Three readings.
+- Tukachinsky: the soul, honored at the place where it may linger near its
+  former body.
+- The "others" above: will, the departed's will to do good (Rashi to Bereishis
+  23:8).
+- Rabbi Eliyahu Katz: in the context of tombstones the word is actually related
+  to *menuchah*, rest, from *shavas vayinafash* (Shemos 31:17), so a stone that
+  marks one's eternal resting place is itself named for resting.
 
 ## Distinctions
 
@@ -99,11 +101,13 @@ sense; Shick and Pollak work instead off *netziv*, standing.
 
 ### tziyun (ציון)
 Graves marked with a *tziyun*, a "marker," appear at Yechezkel 39:15 and
-Melachim II 23:17. For Tukachinsky its function is to
-delineate the exact spot so that others can avoid tumah, which is especially
-pertinent for Kohanim (Vayikra 21:1 to 4); for Rabbi Pollak it is a road marker
-reminding the passerby where he is headed; for the "others," the sense
-"remarkable, outstanding" speaks of the deceased's striving for excellence.
+Melachim II 23:17.
+- For Tukachinsky its function is to delineate the exact spot so that others can
+  avoid tumah, which is especially pertinent for Kohanim (Vayikra 21:1 to 4);
+- for Rabbi Pollak it is a road marker reminding the passerby where he is
+  headed;
+- for the "others," the sense "remarkable, outstanding" speaks of the deceased's
+  striving for excellence.
 
 ### nefesh (נפש)
 Shekalim 2:5: one view in the Mishnah holds that money left

@@ -76,14 +76,15 @@ that the angels' question was also rhetorical: they knew where she was, and
 asked in order to endear her to her husband by highlighting her superlative
 modesty.)
 
-**What eifoh means where it is not "where."** Rashi (to Bereishis 27:33 and
-43:11), as Rabbi Eliyahu Mizrachi (1455 to 1525) elucidates him, allows
-*eifoh* the senses "now" (Yeshayahu 22:1) and "what, who" (Shoftim 8:18), and
-Radak in *Sefer HaShorashim* evidently follows. Others point out that in some
-cases *eifo* is an interjection, a general expression of confusion and
-astonishment, and does not necessarily mean "where." Rabbi Uriel Frank
-(*Kovetz HaMa'yan*, Teves 5770) treats whether *eifoh* (איפה) and *eifo* (אפוא)
-are one word or homonyms.
+**What eifoh means where it is not "where."**
+- Rashi (to Bereishis 27:33 and 43:11), as Rabbi Eliyahu Mizrachi (1455 to 1525)
+  elucidates him, allows *eifoh* the senses "now" (Yeshayahu 22:1) and "what,
+  who" (Shoftim 8:18), and Radak in *Sefer HaShorashim* evidently follows.
+- Others point out that in some cases *eifo* is an interjection, a general
+  expression of confusion and astonishment, and does not necessarily mean
+  "where."
+- Rabbi Uriel Frank (*Kovetz HaMa'yan*, Teves 5770) treats whether *eifoh*
+  (איפה) and *eifo* (אפוא) are one word or homonyms.
 
 ## Distinctions
 

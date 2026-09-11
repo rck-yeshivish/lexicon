@@ -50,21 +50,22 @@ there. Rabbi Eliyahu HaBachur (1469 to 1549, also known as Elias Levita) does no
 list *ravak* in his lexicon of Targumic Aramaic, *Meturgeman*, though the word
 appears in the Targum at least once.
 
-The etymology is disputed. Dr. Alexander Kohut (1842 to 1894) infers from
-Rashi's pairing of *ravak* with *panui* (below) an etymological as well as a
-semantic equation, both words meaning "empty," but he himself disagrees with
-what he saw in Rashi: he takes Mishnaic *ravak* as a loanword from Arabic,
-comparing the Aramaic *ravaka* (probably once pronounced something like
-*rawaka*), "young man," and the Arabic cognates *rayq*/*rauq*, "youth." On the
-other side, Rabbi Yissachar Ber HaKohen Katz (Rabbi Berman Ashkenazi), the
-sixteenth-century author of *Matnos Kehunah* (to Vayikra Rabbah 27:2), does
-connect *ravak* to *reik*, "empty": the unmarried man is empty of the
-obligations and responsibilities loaded onto married men. Rabbi Dr. Ernest Klein
-(1899 to 1983) acknowledges that some scholars, like Kohut, take those Semitic
-cognates as the base, but disagrees: it is "more probable" that the original
-sense is "empty," from ר-י-ק, so that a *ravak* is properly "a man whose house
-is empty from wife and children." He thus returns to
-the explanation Kohut saw in Rashi and that *Matnos Kehunah* gives.
+The etymology is disputed.
+- Dr. Alexander Kohut (1842 to 1894) infers from Rashi's pairing of *ravak* with
+  *panui* (below) an etymological as well as a semantic equation, both words
+  meaning "empty," but he himself disagrees with what he saw in Rashi: he takes
+  Mishnaic *ravak* as a loanword from Arabic, comparing the Aramaic *ravaka*
+  (probably once pronounced something like *rawaka*), "young man," and the
+  Arabic cognates *rayq*/*rauq*, "youth."
+- On the other side, Rabbi Yissachar Ber HaKohen Katz (Rabbi Berman Ashkenazi),
+  the sixteenth-century author of *Matnos Kehunah* (to Vayikra Rabbah 27:2),
+  does connect *ravak* to *reik*, "empty": the unmarried man is empty of the
+  obligations and responsibilities loaded onto married men.
+- Rabbi Dr. Ernest Klein (1899 to 1983) acknowledges that some scholars, like
+  Kohut, take those Semitic cognates as the base, but disagrees: it is "more
+  probable" that the original sense is "empty," from ר-י-ק, so that a *ravak* is
+  properly "a man whose house is empty from wife and children." He thus returns
+  to the explanation Kohut saw in Rashi and that *Matnos Kehunah* gives.
 
 Two passages laud the *ravak* who overcomes the pull of his situation. Hashem
 announces daily in the Heavens that He is impressed with an unmarried man who

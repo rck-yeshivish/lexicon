@@ -36,32 +36,38 @@ come from other sources.
 ## Distinctions
 
 ### nachash (נחש)
-Rabbi Shlomo Aharon Wertheimer (1866-1935) gives two options: an umbrella term
-taking in many different kinds of snake, or, alternatively, a word related to
-*lachash* (literally a whisper, colloquially an incantation), naming
-specifically the snake whose danger can be averted by charming it into
-submission. Rashi (Yirmiyahu 8:17) implies the second, since he says a *nachash*
-after seventy years turns into a *tzefa* and can no longer be charmed. Rabbi
-Aharon Marcus (1843-1916) similarly argues it derives from ח-ש, which carries
-moving slowly (as in *rocheish*, creeping and crawling) and moving clandestinely
-(as in *lachash*). The *Rokeach* (cited by Rabbi Yechiel Heilpern, 1660-1742,
-from *Sefer HaChochmah*, ascribed to the late-12th-century Ashkenazi Rabbi Elazar
-Rokeach of Worms; parts of it appear in the Torah commentary also ascribed to
-him): a *nachash* is specifically a yellowish-green snake, the color of saffron,
-whose bite is fatal, and it is a long snake.
+- Rabbi Shlomo Aharon Wertheimer (1866-1935) gives two options: an umbrella term
+  taking in many different kinds of snake, or, alternatively, a word related to
+  *lachash* (literally a whisper, colloquially an incantation), naming
+  specifically the snake whose danger can be averted by charming it into
+  submission.
+- Rashi (Yirmiyahu 8:17) implies the second, since he says a *nachash* after
+  seventy years turns into a *tzefa* and can no longer be charmed.
+- Rabbi Aharon Marcus (1843-1916) similarly argues it derives from ח-ש, which
+  carries moving slowly (as in *rocheish*, creeping and crawling) and moving
+  clandestinely (as in *lachash*).
+- The *Rokeach* (cited by Rabbi Yechiel Heilpern, 1660-1742, from *Sefer
+  HaChochmah*, ascribed to the late-12th-century Ashkenazi Rabbi Elazar Rokeach
+  of Worms; parts of it appear in the Torah commentary also ascribed to him): a
+  *nachash* is specifically a yellowish-green snake, the color of saffron, whose
+  bite is fatal, and it is a long snake.
 
 ### saraph (שרף)
-Rabbi Shlomo Ibn Parchon, a 12th-century grammarian: venomous because its poison
-burns (*soref*) like fire. Rabbi Yonah ibn Janach (990-1050) similarly: its
-fire-like breath burns whatever it comes in contact with, which makes it, on this
-reading, somewhat akin to a mythical dragon. Rashi (Yeshayahu 30:6), however,
-writes explicitly that the "flying *saraph*" does not actually have wings; it is
-a fire-breathing snake that can jump long distances. Rabbi Yosef Bechor Shor, a
-12th-century French commentator: its bite burns a man as though he had fallen
-into a large furnace, turning him at once into a pile of ashes, and this was the
-snake sent against Klal Yisrael for complaining about the *man* (Bamidbar 21:5
-through 21:9). Mitchell First points out that the English word *serpent* bears a
-close resemblance to *saraph*.
+- Rabbi Shlomo Ibn Parchon, a 12th-century grammarian: venomous because its
+  poison burns (*soref*) like fire.
+- Rabbi Yonah ibn Janach (990-1050) similarly: its fire-like breath burns
+  whatever it comes in contact with, which makes it, on this reading, somewhat
+  akin to a mythical dragon.
+- Rashi (Yeshayahu 30:6), however, writes explicitly that the "flying *saraph*"
+  does not actually have wings; it is a fire-breathing snake that can jump long
+  distances.
+- Rabbi Yosef Bechor Shor, a 12th-century French commentator: its bite burns a
+  man as though he had fallen into a large furnace, turning him at once into a
+  pile of ashes, and this was the snake sent against Klal Yisrael for
+  complaining about the *man* (Bamidbar 21:5 through 21:9).
+
+Mitchell First points out that the English word *serpent* bears a close
+resemblance to *saraph*.
 
 ### tanin (תנין)
 The Vilna Gaon: *nachash* is to land as *tanin* is to sea. The analogy suggests
@@ -80,22 +86,25 @@ venomous (in Modern Hebrew the word means "viper"). Rashi (Yeshayahu 59:5):
 bad; Radak, there, nonetheless says *tzifoni* and *efeh* are two words for the
 same thing.
 
-On the *efeh* (Yeshayahu 30:6, 59:5; Iyov 20:16), Rashi and Mahari Kara: only two
-exist in the world, a male and a female, and they reproduce only once in seventy
-years. Ibn Parchon: the *efeh* is the female *saraph-nachash*, shorter and
-thicker than its male counterpart, but more potent in its venom. The mekubalim
-split: Rabbi Shalom Buzaglo (1700-1780), a Moroccan mekubal, in *Hadras Melech*,
-his commentary to the Zohar, has *efeh* as the male snake and *nachash* as the
-female; the earlier Polish mekubal Rabbi Natan Nata Shapiro (1585-1633) in
-*Megaleh Amukos* has the two words representing the male and female forces of
-evil, *efeh* the female and *nachash* the male, which agrees with Ibn Parchon.
-The Midrash calls the *efeh* a snake called an *eches* (it is
-unclear in which language), believed able to kill a flying bird just by looking
-at its shadow; in Modern Hebrew *eches* is an adder or rattlesnake. Rabbi Shlomo
-Pappenheim of Breslau (1740-1814): the letters פ-ע in the root always denote
-consistency, in movement or in sound, here the rattlesnake's rattle. Rabbi
-Avigdor the Frenchman, a 14th-century commentator: this was
-the snake sent in the wilderness.
+- On the *efeh* (Yeshayahu 30:6, 59:5; Iyov 20:16), Rashi and Mahari Kara: only
+  two exist in the world, a male and a female, and they reproduce only once in
+  seventy years.
+- Ibn Parchon: the *efeh* is the female *saraph-nachash*, shorter and thicker
+  than its male counterpart, but more potent in its venom.
+- The mekubalim split: Rabbi Shalom Buzaglo (1700-1780), a Moroccan mekubal, in
+  *Hadras Melech*, his commentary to the Zohar, has *efeh* as the male snake and
+  *nachash* as the female; the earlier Polish mekubal Rabbi Natan Nata Shapiro
+  (1585-1633) in *Megaleh Amukos* has the two words representing the male and
+  female forces of evil, *efeh* the female and *nachash* the male, which agrees
+  with Ibn Parchon.
+- The Midrash calls the *efeh* a snake called an *eches* (it is unclear in which
+  language), believed able to kill a flying bird just by looking at its shadow;
+  in Modern Hebrew *eches* is an adder or rattlesnake.
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814): the letters פ-ע in the root
+  always denote consistency, in movement or in sound, here the rattlesnake's
+  rattle.
+- Rabbi Avigdor the Frenchman, a 14th-century commentator: this was the snake
+  sent in the wilderness.
 
 ### achshuv (עכשוב)
 A *hapax legomenon*, since that venomous creature appears only once, at Tehillim
@@ -117,19 +126,22 @@ undecipherable passage in Avos d'Rabbi Nassan.
 
 ### shephiphon (שפיפון)
 Once in Tanach, Bereishis 49:17; Yerushalmi Terumos 8:3 describes it as
-resembling a single hair. Rabbi Yaakov Tzvi Mecklenburg (1785-1865): from the
-two-letter ש-פ, associated with closeness and attachment between things (as in
-*shifshuf*, rubbing), since this snake gets about by wiggling and crawling with
-its body always touching the ground. Rabbi Aharon Marcus argues instead that
-*shephiphon* is related to the Akkadian *shepu*, "foot," and is an instance of
-the Hebrew phenomenon of words carrying polar-opposite meanings: in Akkadian, the
-lingua franca of the ancient world, *shepu* meant foot, while in Hebrew the word
-names the footless serpent. Wertheimer adds that the final nun implies the
-creature is something small. Appending a vav-nun does not always serve as
-a diminutive, however. The *Rokeach* has it small against the long *nachash*, but Rabbi
-Yaakov Yisroel Stahl points out that the same commentary apparently contradicts
-itself, since it elsewhere makes *shephiphon* the large snake and *nachash* the
-smaller one.
+resembling a single hair.
+- Rabbi Yaakov Tzvi Mecklenburg (1785-1865): from the two-letter ש-פ, associated
+  with closeness and attachment between things (as in *shifshuf*, rubbing),
+  since this snake gets about by wiggling and crawling with its body always
+  touching the ground.
+- Rabbi Aharon Marcus argues instead that *shephiphon* is related to the
+  Akkadian *shepu*, "foot," and is an instance of the Hebrew phenomenon of words
+  carrying polar-opposite meanings: in Akkadian, the lingua franca of the
+  ancient world, *shepu* meant foot, while in Hebrew the word names the footless
+  serpent.
+- Wertheimer adds that the final nun implies the creature is something small.
+  Appending a vav-nun does not always serve as a diminutive, however.
+- The *Rokeach* has it small against the long *nachash*, but Rabbi Yaakov
+  Yisroel Stahl points out that the same commentary apparently contradicts
+  itself, since it elsewhere makes *shephiphon* the large snake and *nachash*
+  the smaller one.
 
 ## Rendering guidance
 

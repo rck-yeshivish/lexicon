@@ -83,25 +83,29 @@ from *roshei teivos*, written abbreviations. Rabbi Shlomo Zalman of Hanau
 explains the transfer differently: *teivah* means box, and it refers to the
 written word because the books that hold written words are stored in one.
 
-On the root: Ibn Janach (*Sefer HaShorashim*) gives ת-ב-ה; Radak (*Sefer
-HaShorashim*) mentions ת-י-ב as a possible alternative. Following Radak, Rabbi
-Yosef Teomim suggests tying Aramaic ת-י-ב to Hebrew ש-ו-ב, "return" (a
-connection that, Rabbi Klein notes, may be justified by the common shift of
-Hebrew shin to Aramaic tav): what a person stores in a *teivah* he means to
-come back for, unlike what he leaves on the floor. Rav Hirsch (to Bereishis
-6:14) similarly suggests it comes from Aramaic י-ת-ב, Hebrew י-ש-ב, sitting or
-dwelling: the *teivah* was a temporary dwelling. Rabbi Klein suggests that
-perhaps *teivah* as "word" is then a place where letters are nestled. Rabbi
-Aharon Marcus (1843 to 1916) links *teivah* to *bayis* by metathesis, the same
-letters rearranged, so a *teivah* is in some ways a home; on that basis Rabbi
-Klein would say that a *teivah*, as "word," is a house or box in which the
-letters come together. Rabbi Shimon Yehuda Leib Goldblit, an early
-twentieth-century exegete, reads *teivah* as a blend of Aramaic *ta*, "come,
-enter" (Hebrew *bo*), and Hebrew *bah*, "into it." Dr. Alexander Kohut (1842 to
-1894) reports that some derive *teivah* as "word" from an Arabic root meaning
-"to cut," which would make it, like *milah* on Rabbi Pappenheim's reading,
-related to cutting; others, he notes, derive it from *teivah* as "box," a word
-being a box that holds its letters, as Rabbi Klein suggests.
+On the root:
+- Ibn Janach (*Sefer HaShorashim*) gives ת-ב-ה.
+- Radak (*Sefer HaShorashim*) mentions ת-י-ב as a possible alternative.
+- Following Radak, Rabbi Yosef Teomim suggests tying Aramaic ת-י-ב to Hebrew
+  ש-ו-ב, "return" (a connection that, Rabbi Klein notes, may be justified by the
+  common shift of Hebrew shin to Aramaic tav): what a person stores in a
+  *teivah* he means to come back for, unlike what he leaves on the floor.
+- Rav Hirsch (to Bereishis 6:14) similarly suggests it comes from Aramaic י-ת-ב,
+  Hebrew י-ש-ב, sitting or dwelling: the *teivah* was a temporary dwelling.
+  Rabbi Klein suggests that perhaps *teivah* as "word" is then a place where
+  letters are nestled.
+- Rabbi Aharon Marcus (1843 to 1916) links *teivah* to *bayis* by metathesis,
+  the same letters rearranged, so a *teivah* is in some ways a home; on that
+  basis Rabbi Klein would say that a *teivah*, as "word," is a house or box in
+  which the letters come together.
+- Rabbi Shimon Yehuda Leib Goldblit, an early twentieth-century exegete, reads
+  *teivah* as a blend of Aramaic *ta*, "come, enter" (Hebrew *bo*), and Hebrew
+  *bah*, "into it."
+- Dr. Alexander Kohut (1842 to 1894) reports that some derive *teivah* as "word"
+  from an Arabic root meaning "to cut," which would make it, like *milah* on
+  Rabbi Pappenheim's reading, related to cutting; others, he notes, derive it
+  from *teivah* as "box," a word being a box that holds its letters, as Rabbi
+  Klein suggests.
 
 ### davar (דבר)
 Rabbi Moshe Shapiro (1935 to 2017) finds it especially telling that ד-ב-ר means

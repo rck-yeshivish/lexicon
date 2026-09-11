@@ -38,20 +38,22 @@ what the Jews took from them is *bizas Mitzrayim* and *bizas hayam*, not
 ## Distinctions
 
 ### shalal (שלל)
-The word of the Shirah, "I will apportion the *shalal*" (Shemos 15:9). Rashi (to
-Bamidbar 31:11): *shalal* is clothing and jewelry. Radak: clothing and vessels.
-Rabbi Avraham Bedersi HaPenini (1230 to 1300) and the Maharal of Prague (*Gur
-Aryeh* there) cite Rashi's division approvingly and substantiate it from other
-places where these words or their cognates appear. Rabbi Yaakov Chaim Sofer
-objects from Divrei HaYamim II 15:11, which speaks of offering captured *shalal*
-as korbanos, implying that *shalal* can mean animals, unlike Rashi and Radak.
-Rav Hirsch (to Bamidbar 31:11), making a point similar to Mecklenburg's that
-*shalal* is the catch-all (below), makes it a matter of company:
-where no other words are used alongside it, *shalal* can refer to anything
-pilfered in battle, animals and humans included, because ultimately all the
-spoils of war are alike in being taken through violence. Malbim: *shalal* is the
-general term for the defeated party's ownerless property, while *bizah* is
-specifically property already taken as loot.
+The word of the Shirah, "I will apportion the *shalal*" (Shemos 15:9).
+- Rashi (to Bamidbar 31:11): *shalal* is clothing and jewelry.
+- Radak: clothing and vessels.
+- Rabbi Avraham Bedersi HaPenini (1230 to 1300) and the Maharal of Prague (*Gur
+  Aryeh* there) cite Rashi's division approvingly and substantiate it from other
+  places where these words or their cognates appear.
+- Rabbi Yaakov Chaim Sofer objects from Divrei HaYamim II 15:11, which speaks of
+  offering captured *shalal* as korbanos, implying that *shalal* can mean
+  animals, unlike Rashi and Radak.
+- Rav Hirsch (to Bamidbar 31:11), making a point similar to Mecklenburg's that
+  *shalal* is the catch-all (below), makes it a matter of company: where no
+  other words are used alongside it, *shalal* can refer to anything pilfered in
+  battle, animals and humans included, because ultimately all the spoils of war
+  are alike in being taken through violence.
+- Malbim: *shalal* is the general term for the defeated party's ownerless
+  property, while *bizah* is specifically property already taken as loot.
 
 Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) traces *shalal* to the
 two-letter ש-ל, "moving something outside of its proper place," as in *shal
@@ -84,35 +86,38 @@ agrees with the two-letter root; Ibn Janach and Radak assign ב-ז-ז instead,
 which differs from ב-ז-ה, the verb for disparaging.
 
 ### malkoach (מלקוח) and shevi (שבי)
-Rashi (to Bamidbar 31:11): *malkoach* is living booty, people and animals.
-Radak: *shevi* is human prisoners and *malkoach* animals, but where *malkoach*
-appears later without *shevi* beside it (Bamidbar 31:27) it covers every living
-thing taken, human and animal. Malbim makes the same relation here as between
-*shalal* and *bizah*: *shevi* is all the captured people of the defeated side,
-*malkoach* specifically those the captors took as slaves or for other purposes.
-The root of *malkoach* is ל-ק-ח, "taking." Rabbi Baruch HaLevi Epstein (1860 to
-1940) explains why there are two words for living booty (*malkoach*) and
-inanimate booty (*shalal*): inanimate objects are taken by hand or physical
-force, while living creatures are often taken verbally, by persuasion or
-command.
+- Rashi (to Bamidbar 31:11): *malkoach* is living booty, people and animals.
+- Radak: *shevi* is human prisoners and *malkoach* animals, but where *malkoach*
+  appears later without *shevi* beside it (Bamidbar 31:27) it covers every
+  living thing taken, human and animal.
+- Malbim makes the same relation here as between *shalal* and *bizah*: *shevi*
+  is all the captured people of the defeated side, *malkoach* specifically those
+  the captors took as slaves or for other purposes.
+- The root of *malkoach* is ל-ק-ח, "taking." Rabbi Baruch HaLevi Epstein (1860
+  to 1940) explains why there are two words for living booty (*malkoach*) and
+  inanimate booty (*shalal*): inanimate objects are taken by hand or physical
+  force, while living creatures are often taken verbally, by persuasion or
+  command.
 
 ### ad (עד)
-"Binyamin is a wolf that tears; in the morning he devours *ad* and in the evening
-he divides *shalal*" (Bereishis 49:27). Rashi: *ad* here is plunder, and the root
-ע-ד carries that meaning in Aramaic. Rabbi Eliyahu HaBachur (1469 to 1549)
-points out that most times Tanach uses *shalal* or *bizah*, the Targumim render
-them with Aramaic cognates of *ad*. The Aramaic root also means removal (Targum
-Onkelos to Shemos 25:15) and even atonement, the removal of sin (Targum to
-Yeshayahu 47:11), which Rabbi Klein relates to booty as
-the removal of property from the loser's domain. Rabbi Pappenheim derives it
-instead from *adi*, "jewelry, ornament," and limits it to the ornamental clothes
-soldiers wore to battle and were stripped of when captured. Malbim: *ad* is not
-ordinary booty but specifically dead animals taken as war prizes. Rabbi Yaakov
-Tzvi Mecklenburg (1785 to 1865) takes *ad* from *ad* in the sense of
-transferring, since booty is a change of ownership, a sense similar to the
-commoner homonym *ad*, "until, through"; he holds that *shalal* is the catch-all
-for everything taken as booty while *ad* is specifically jewelry and decorative
-items.
+"Binyamin is a wolf that tears; in the morning he devours *ad* and in the
+evening he divides *shalal*" (Bereishis 49:27).
+- Rashi: *ad* here is plunder, and the root ע-ד carries that meaning in Aramaic.
+  Rabbi Eliyahu HaBachur (1469 to 1549) points out that most times Tanach uses
+  *shalal* or *bizah*, the Targumim render them with Aramaic cognates of *ad*.
+  The Aramaic root also means removal (Targum Onkelos to Shemos 25:15) and even
+  atonement, the removal of sin (Targum to Yeshayahu 47:11), which Rabbi Klein
+  relates to booty as the removal of property from the loser's domain.
+- Rabbi Pappenheim derives it instead from *adi*, "jewelry, ornament," and
+  limits it to the ornamental clothes soldiers wore to battle and were stripped
+  of when captured.
+- Malbim: *ad* is not ordinary booty but specifically dead animals taken as war
+  prizes.
+- Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865) takes *ad* from *ad* in the sense
+  of transferring, since booty is a change of ownership, a sense similar to the
+  commoner homonym *ad*, "until, through"; he holds that *shalal* is the
+  catch-all for everything taken as booty while *ad* is specifically jewelry and
+  decorative items.
 
 ## Rendering guidance
 

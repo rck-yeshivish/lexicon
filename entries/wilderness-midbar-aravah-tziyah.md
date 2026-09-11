@@ -33,23 +33,24 @@ Klein takes no side.
 
 ### midbar (מדבר)
 About 270 occurrences, often bound to a place-name (*Midbar Sinai*, *Sin*,
-*Paran*, *Shur*, *Kadesh*, *Damesek*, *Ein-Gedi*, *Yehudah*). Ibn Janach (990 to
-1050) and Radak (*Sefer HaShorashim*) trace it to ד-ב-ר. Menachem Ibn Saruk
+*Paran*, *Shur*, *Kadesh*, *Damesek*, *Ein-Gedi*, *Yehudah*). Ibn Janach (990
+to 1050) and Radak (*Sefer HaShorashim*) trace it to ד-ב-ר. Menachem Ibn Saruk
 does not explicitly trace *midbar* there, but lists six senses of that root:
 *dibbur* (speech), *yadber* (to lead, or to exterminate), *dever* (plague),
-*dvar* (concerning), *devorah* (bee), and *dvir* (inner sanctum). Radak joins
-the first two: animals are led by the speech of the one in charge, and he
-implies that a *midbar* is at core the far pasture to which shepherds lead a
-flock to graze, and by extension any tract remote from settlement. Rabbi
-Shlomo Pappenheim (1740 to 1814) relates it instead to *dever*: an empty place,
-as though a plague had wiped out its people. Similarly, Rabbi Tzvi Matisyahu
-Abrahams (*Root Connections in the Torah*) relates it to *dibbur*: the
-*midbar* is free of distraction and so especially fit for hearing another's
-speech, which is why the Torah, Hashem's speech, was given in a *midbar*; and he
-connects *devir*, the intimate place where speech carries without eavesdroppers.
-Malbim (to Yeshayahu 35:1): *midbar* is a place where people are generally not
-found, inherently unfit for settlement or cultivation, and empty of settlers and
-even of passers-by as a result.
+*dvar* (concerning), *devorah* (bee), and *dvir* (inner sanctum).
+- Radak joins the first two: animals are led by the speech of the one in charge,
+  and he implies that a *midbar* is at core the far pasture to which shepherds
+  lead a flock to graze, and by extension any tract remote from settlement.
+- Rabbi Shlomo Pappenheim (1740 to 1814) relates it instead to *dever*: an empty
+  place, as though a plague had wiped out its people.
+- Similarly, Rabbi Tzvi Matisyahu Abrahams (*Root Connections in the Torah*)
+  relates it to *dibbur*: the *midbar* is free of distraction and so especially
+  fit for hearing another's speech, which is why the Torah, Hashem's speech, was
+  given in a *midbar*; and he connects *devir*, the intimate place where speech
+  carries without eavesdroppers.
+- Malbim (to Yeshayahu 35:1): *midbar* is a place where people are generally not
+  found, inherently unfit for settlement or cultivation, and empty of settlers
+  and even of passers-by as a result.
 
 ### aravah (ערבה)
 Sixty occurrences, sometimes as a place-name (*Arvos Moav*, *Arvos Yericho*).

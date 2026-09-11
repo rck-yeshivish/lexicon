@@ -50,59 +50,65 @@ trace it to ר-מ-ם; Menachem Ibn Saruk (*Machberes Menachem*) to the biliteral
 ר-מ. Either way the root family (with ר-ו-ם) covers lifting, exalting,
 separating, removing, producing, and throwing.
 
-On which of those senses yields "maggot," the authorities split. Rabbi Shlomo
-Pappenheim (*Yerios Shlomo*, *Cheshek Shlomo*), expanding on Menachem: from
-"throwing" upward in an arc, because these creatures have no legs to jump with
-and instead gather themselves to fling their bodies in an arc onto the spot they
-aim at; he further suggests that perhaps *rimon*, the pomegranate, is named
-from *rimah*, that fruit being so prone to infestation. Rav Hirsch (to Shemos
-16:20): from "lifting," since food lying on the ground looks lifeless, and once worms move
-over it the thing seems raised into animation; he stresses that he is
-describing what the eye sees, with no bearing on whether such worms arise by
-spontaneous generation or from eggs, a controversy of his time. Rabbi Klein
-suggests that swarming worms "ascend" upon the rotting item, an explanation
-somewhat implied by Malbim in *Sefer HaCarmel*. Rabbi Yehudah Aryeh of
-Carpentras (*Aholei Yehudah*) offers two: in line with the science of his
-times, worms are generated from excess fat when rotting food grows hot and
-putrid, so ר-מ-ם is somehow related to ח-מ-ם, heat (he does not explain the
-reish and ches interchange); or the creature is so slight that its body barely
-lifts off the ground. Rabbi David Chaim Chelouch (*Michtam L'David Luach
-HaShorashim* to Tehillim 24:4; *Ohr Chadash Luach HaShorashim* to Shemos 16:20):
-a root can carry a thing and its exact opposite, so ר-מ gives the exalted *ram*
-and the lowest of the low, *rimah*, with *mirmah* and *ramai* in between,
-seeming exalted and being the reverse. Rabbi Moshe Tedeschi-Ashkenazi suggests
-relating *rimah* to ר-ב, through the interchange of mem and beis, for the
-proliferation of larvae at the onset of infestation.
+On which of those senses yields "maggot," the authorities split.
+- Rabbi Shlomo Pappenheim (*Yerios Shlomo*, *Cheshek Shlomo*), expanding on
+  Menachem: from "throwing" upward in an arc, because these creatures have no
+  legs to jump with and instead gather themselves to fling their bodies in an
+  arc onto the spot they aim at; he further suggests that perhaps *rimon*, the
+  pomegranate, is named from *rimah*, that fruit being so prone to infestation.
+- Rav Hirsch (to Shemos 16:20): from "lifting," since food lying on the ground
+  looks lifeless, and once worms move over it the thing seems raised into
+  animation; he stresses that he is describing what the eye sees, with no
+  bearing on whether such worms arise by spontaneous generation or from eggs, a
+  controversy of his time.
+- Rabbi Klein suggests that swarming worms "ascend" upon the rotting item, an
+  explanation somewhat implied by Malbim in *Sefer HaCarmel*.
+- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) offers two: in line with
+  the science of his times, worms are generated from excess fat when rotting
+  food grows hot and putrid, so ר-מ-ם is somehow related to ח-מ-ם, heat (he does
+  not explain the reish and ches interchange); or the creature is so slight that
+  its body barely lifts off the ground.
+- Rabbi David Chaim Chelouch (*Michtam L'David Luach HaShorashim* to Tehillim
+  24:4; *Ohr Chadash Luach HaShorashim* to Shemos 16:20): a root can carry a
+  thing and its exact opposite, so ר-מ gives the exalted *ram* and the lowest of
+  the low, *rimah*, with *mirmah* and *ramai* in between, seeming exalted and
+  being the reverse.
+- Rabbi Moshe Tedeschi-Ashkenazi suggests relating *rimah* to ר-ב, through the
+  interchange of mem and beis, for the proliferation of larvae at the onset of
+  infestation.
 
 ### toleah (תולעה), tola (תולע), tola'as (תולעת)
-*Toleah* twice (Yeshayahu 14:11, Iyov 25:6), *tola* twice (Eichah 4:5,
-Yeshayahu 1:18), *tola'as* close to forty times. On *tola'as Yaakov* (Yeshayahu
-41:14), Radak explains the comparison by Klal Yisrael's weakened state in
-exile, while *Tanchuma* (Beshalach 9) says that as a worm fells a cedar with its
-mouth, so Klal Yisrael fells nations with its mouth, through tefillah. Ibn
-Saruk, Ibn Janach, Radak and Ibn Parchon all take the root as ת-ל-ע, which
-also yields *mesalos*, "teeth" (Iyov 29:17; Yoel 1:6; Mishlei 30:14). The link
-to teeth, Rabbi Klein notes, is not insignificant, since the Midrash makes the
-worm's mouth its outstanding feature, and *Midrash Sechel Tov* (to Shemos 16:24)
-states the difference that way: *rimah* do not eat or drink, while *toleah* eat
-as though they had teeth. Rabbi Pappenheim treats the tav as extraneous and the
-core root as ל-ע, "the organ of swallowing": *loa*, "throat," occurs once
-(Mishlei 23:2), teeth belong to the same apparatus, and *bala*, "swallow," he
-parses as ב-א ("enter") plus ל-ע. The worm, he argues, earns the name because
-it bolts its food as though swallowing without chewing. Rav Hirsch also ties
-*toleah* to *loa*, the worm being defined by its eating; Rabbi
-Tedeschi-Ashkenazi suggests tying it to *loa* by the long tubular shape.
+*Toleah* twice (Yeshayahu 14:11, Iyov 25:6), *tola* twice (Eichah 4:5, Yeshayahu
+1:18), *tola'as* close to forty times.
+- On *tola'as Yaakov* (Yeshayahu 41:14), Radak explains the comparison by Klal
+  Yisrael's weakened state in exile, while *Tanchuma* (Beshalach 9) says that as
+  a worm fells a cedar with its mouth, so Klal Yisrael fells nations with its
+  mouth, through tefillah.
+- Ibn Saruk, Ibn Janach, Radak and Ibn Parchon all take the root as ת-ל-ע, which
+  also yields *mesalos*, "teeth" (Iyov 29:17; Yoel 1:6; Mishlei 30:14). The link
+  to teeth, Rabbi Klein notes, is not insignificant, since the Midrash makes the
+  worm's mouth its outstanding feature, and *Midrash Sechel Tov* (to Shemos
+  16:24) states the difference that way: *rimah* do not eat or drink, while
+  *toleah* eat as though they had teeth.
+- Rabbi Pappenheim treats the tav as extraneous and the core root as ל-ע, "the
+  organ of swallowing": *loa*, "throat," occurs once (Mishlei 23:2), teeth
+  belong to the same apparatus, and *bala*, "swallow," he parses as ב-א
+  ("enter") plus ל-ע. The worm, he argues, earns the name because it bolts its
+  food as though swallowing without chewing.
+- Rav Hirsch also ties *toleah* to *loa*, the worm being defined by its eating.
+- Rabbi Tedeschi-Ashkenazi suggests tying it to *loa* by the long tubular shape.
 
 ### Tola, the name
 Tola is also a name, borne by a son of Yissachar (Bereishis 46:13; Bamidbar
 26:23; Divrei HaYamim I 7:1-2) and a later judge of that tribe (Shoftim 10:1).
-*Midrash Sechel Tov* (to Bereishis 46:13) ties it to Yissachar's Torah study
-(Divrei HaYamim I 12:33): its bearer would bask in Torah like a worm consuming
-it, much as English speaks of a bookworm. *Yalkut Midrashei Teiman* (to Bamidbar
-26:23): as a worm penetrates a fruit, the family of Tola went deep into the
-halachah. Alfred Jones (*The Proper Names of the Old Testament Scriptures
-Expounded and Illustrated*, London, 1856, p. 360) conjectures the child was so
-named for his poor, weak and scarlet appearance at birth, after *tola'as shani*.
+- *Midrash Sechel Tov* (to Bereishis 46:13) ties it to Yissachar's Torah study
+  (Divrei HaYamim I 12:33): its bearer would bask in Torah like a worm consuming
+  it, much as English speaks of a bookworm.
+- *Yalkut Midrashei Teiman* (to Bamidbar 26:23): as a worm penetrates a fruit,
+  the family of Tola went deep into the halachah.
+- Alfred Jones (*The Proper Names of the Old Testament Scriptures Expounded and
+  Illustrated*, London, 1856, p. 360) conjectures the child was so named for his
+  poor, weak and scarlet appearance at birth, after *tola'as shani*.
 
 ### The difference, stated
 - Rabbi Shaul Goldman: *rimah* is specifically larvae and maggots, not actual

@@ -34,13 +34,15 @@ HaYamim II 20:17.
 ## Distinctions
 
 ### amidah (עמידה), omed (עומד)
-Over five hundred times in Tanach. Rabbi Shlomo Pappenheim (1740 to 1814):
-simply remaining in one place in an upright position. The *shittim* beams are
-*omdim* (Shemos 26:15) because they are erect and stay in one spot; the moon at
-Givon *amad* (Yehoshua 10:13) to convey that it stagnated in place. Malbim: a
-general term for the bodily posture that is the opposite of sitting, lying or
-walking. By implication of Wertheimer's view of *nitzav* (below), *amidah* could
-even be momentary.
+Over five hundred times in Tanach.
+- Rabbi Shlomo Pappenheim (1740 to 1814): simply remaining in one place in an
+  upright position. The *shittim* beams are *omdim* (Shemos 26:15) because they
+  are erect and stay in one spot; the moon at Givon *amad* (Yehoshua 10:13) to
+  convey that it stagnated in place.
+- Malbim: a general term for the bodily posture that is the opposite of sitting,
+  lying or walking.
+- By implication of Wertheimer's view of *nitzav* (below), *amidah* could even
+  be momentary.
 
 ### nitzav (נצב)
 Frequent in the Mitzrayim narrative: Miriam *vatetatzav* at a distance from the

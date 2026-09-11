@@ -41,21 +41,23 @@ Yechezkel 17:24, 21:3). It appears numerous times in the Mishnah (*Demai* 2:3;
 *Nedarim* 7:1; *Eduyos* 5:4; *Menachos* 9:2; *Bechoros* 6:3; *Mikvaos* 9:2;
 *Niddah* 4:3, 7:2).
 
-The word is a case study in root theory. Menachem Ibn Saruk (*Machberes
-Menachem*, 920 to 970), the consummate biliteralist, gives the root as
-lamed-ches, which makes sense for a two-letter word. The triliteralists are at
-a loss: Ibn Janach (*Sefer HaShorashim*) offers lamed-vav-ches or
-lamed-yud-ches; Radak, more definitively, and Ibn Parchon (*Machberes
-HeAruch*) settle on lamed-vav-ches. Rabbi Moshe Tedeschi Ashkenazi (1821 to
-1898) suggests *lach* is related to *rach*, soft, through the interchange of
-REISH with LAMED and KAF with CHES. Pappenheim, like Ibn Saruk, takes
-lamed-ches as the ultimate root, meaning moisture itself, and hangs a family on
-it: *lechi*, the cheek, a concentration of inner moisture, and from the cheek's
-likeness to a flat board *luach*, a board (in Rabbinic Hebrew *lechi* is also
-the upright post of an *eruv*); *lechem*, bread or meat, which sustains and
-restores inner moisture; and *melach*, salt, which draws liquid out, as in
-salting meat. The name of the Lechi paramilitary group is an acronym of
-*lochamei cheirus Yisrael* and has nothing to do with the word.
+The word is a case study in root theory.
+- Menachem Ibn Saruk (*Machberes Menachem*, 920 to 970), the consummate
+  biliteralist, gives the root as lamed-ches, which makes sense for a two-letter
+  word.
+- The triliteralists are at a loss: Ibn Janach (*Sefer HaShorashim*) offers
+  lamed-vav-ches or lamed-yud-ches; Radak, more definitively, and Ibn Parchon
+  (*Machberes HeAruch*) settle on lamed-vav-ches.
+- Rabbi Moshe Tedeschi Ashkenazi (1821 to 1898) suggests *lach* is related to
+  *rach*, soft, through the interchange of REISH with LAMED and KAF with CHES.
+- Pappenheim, like Ibn Saruk, takes lamed-ches as the ultimate root, meaning
+  moisture itself, and hangs a family on it: *lechi*, the cheek, a concentration
+  of inner moisture, and from the cheek's likeness to a flat board *luach*, a
+  board (in Rabbinic Hebrew *lechi* is also the upright post of an *eruv*);
+  *lechem*, bread or meat, which sustains and restores inner moisture; and
+  *melach*, salt, which draws liquid out, as in salting meat. The name of the
+  Lechi paramilitary group is an acronym of *lochamei cheirus Yisrael* and has
+  nothing to do with the word.
 
 ### ratuv (רטוב)
 All the classical lexicographers agree on the root reish-tes-beis. It occurs
@@ -87,17 +89,19 @@ it stays on the surface, and sees it as synonymous with biblical *marak*
 Hebrew has made *marak* "soup," close to its original meaning.
 
 ### ra'anan (רענן)
-Twenty occurrences in Tanach, only one in the Torah (Devarim 12:2). Ibn Ezra
-there says it means the same as *ratuv*; the Targumim do not generally render
-it so, but in at least one place they do (Tehillim 92:15, see also 92:11).
-Since the word always ends in a double nun, Radak gives the root as
-reish-ayin-nun and Ibn Saruk as a four-letter reish-ayin-nun-nun. Rabbi Avraham
-Bedersi (thirteenth century; *Chosam Tochnis*, the first lexicon of Hebrew
-synonyms) defines *ratuv* as moisture from external water and sets it against
-its ostensible synonym *ra'anan*, the internal moist freshness that lets a thing
-keep growing rather than dry and wither. Rabbi Tedeschi parses *ra'anan* as a
-portmanteau of *re'ah*, friend, and *anan*, cloud: a plant still moist keeps
-growing until it is so tall it is "a friend of the clouds."
+Twenty occurrences in Tanach, only one in the Torah (Devarim 12:2).
+- Ibn Ezra there says it means the same as *ratuv*; the Targumim do not
+  generally render it so, but in at least one place they do (Tehillim 92:15, see
+  also 92:11).
+- Since the word always ends in a double nun, Radak gives the root as
+  reish-ayin-nun and Ibn Saruk as a four-letter reish-ayin-nun-nun.
+- Rabbi Avraham Bedersi (thirteenth century; *Chosam Tochnis*, the first lexicon
+  of Hebrew synonyms) defines *ratuv* as moisture from external water and sets
+  it against its ostensible synonym *ra'anan*, the internal moist freshness that
+  lets a thing keep growing rather than dry and wither.
+- Rabbi Tedeschi parses *ra'anan* as a portmanteau of *re'ah*, friend, and
+  *anan*, cloud: a plant still moist keeps growing until it is so tall it is "a
+  friend of the clouds."
 
 ### rutfash (רטפש)
 A *hapax*, like *ratuv* found only in Iyov: Elihu says that when a sick man's
@@ -105,15 +109,18 @@ merits intercede, Hashem heals him so that "his flesh is revivified (*rutfash*)
 more than in youth" (Iyov 33:25). Its apparent root is the four-letter
 reish-tes-peh-shin, but four-letter roots are rare in Biblical Hebrew and occur
 more often in foreign loanwords, and the commentators instead relate it to
-*ratuv* in four ways. Rav Hirsch (Bereishis 25:6): the final shin is
-paragogic, leaving reish-tes-peh, equal to *ratuv*'s reish-tes-beis by the
-peh-beis interchange. A portmanteau of *ratuv* and *pash*, expansion: those
-who implicitly or explicitly follow this include Rabbi Yosef Kara, Rabbi Yosef
-Kimchi, Sforno, *Metzudas Zion* (Iyov 33:25), Radak (Tehillim 103:5), and
-pseudo-Rashi (Nedarim 41a). Malbim (Iyov 33:25), similarly, a portmanteau of
-*ratuv* and *tafash*, smeared. Rabbi Yosef Kimchi (Iyov 33:25) and Radak (*Sefer
-HaShorashim*) read it as a cognate of *ratuv*, its first two letters matching
-*ratuv*'s and its last two matching *ratuv*'s last two in *at-bash*.
+*ratuv* in four ways.
+- Rav Hirsch (Bereishis 25:6): the final shin is paragogic, leaving
+  reish-tes-peh, equal to *ratuv*'s reish-tes-beis by the peh-beis interchange.
+- A portmanteau of *ratuv* and *pash*, expansion: those who implicitly or
+  explicitly follow this include Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno,
+  *Metzudas Zion* (Iyov 33:25), Radak (Tehillim 103:5), and pseudo-Rashi
+  (Nedarim 41a).
+- Malbim (Iyov 33:25), similarly, a portmanteau of *ratuv* and *tafash*,
+  smeared.
+- Rabbi Yosef Kimchi (Iyov 33:25) and Radak (*Sefer HaShorashim*) read it as a
+  cognate of *ratuv*, its first two letters matching *ratuv*'s and its last two
+  matching *ratuv*'s last two in *at-bash*.
 
 ### tofeach (טופח)
 Rabbinic only (*Eduyos* 4:6; *Keilim* 8:3-4, 10:8; *Taharos* 1:9, 3:1, 8:8-9;

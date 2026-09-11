@@ -35,17 +35,19 @@ the nuances.
 
 ### chomah (חומה)
 Over 130 appearances, always a wall surrounding a city or a large and important
-building. Rabbi Pappenheim, like Menachem Ibn Saruk, traces it to the
-two-letter root ח-מ, which he explains as primarily heat: from it *milchamah*,
-the culmination of a heated clash of parties, and so, he suggests, perhaps
-*chomah*, whose main purpose is to protect a city from warfare; or else because
-the wall might block cool winds and keep the city warm. The Raavan (Rabbi
-Eliezer ben Nosson, 1090 to 1170) notes that *chomah* is also related to sight,
-as the Aramaic ח-מ-ה is seeing (see Targum Yonasan to Shemos 14:31), and Rav
-Hirsch (to Bereishis 49:22) makes a similar point. Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah*) connects it to
-*cheimah*, anger, and *chamah*, sun, on the point that a wall sets a city apart
-from all beyond it; Rav Hirsch (to Bereishis 21:15) puts *cheimes*, a flask, in
-the same family, since it encloses and protects what is inside it.
+building.
+- Rabbi Pappenheim, like Menachem Ibn Saruk, traces it to the two-letter root
+  ח-מ, which he explains as primarily heat: from it *milchamah*, the culmination
+  of a heated clash of parties, and so, he suggests, perhaps *chomah*, whose
+  main purpose is to protect a city from warfare; or else because the wall might
+  block cool winds and keep the city warm.
+- The Raavan (Rabbi Eliezer ben Nosson, 1090 to 1170) notes that *chomah* is
+  also related to sight, as the Aramaic ח-מ-ה is seeing (see Targum Yonasan to
+  Shemos 14:31), and Rav Hirsch (to Bereishis 49:22) makes a similar point.
+- Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah*) connects it to
+  *cheimah*, anger, and *chamah*, sun, on the point that a wall sets a city
+  apart from all beyond it; Rav Hirsch (to Bereishis 21:15) puts *cheimes*, a
+  flask, in the same family, since it encloses and protects what is inside it.
 
 ### kir (קיר)
 About 74 appearances as "wall." Most grammarians take the root as ק-י-ר; some
@@ -86,27 +88,28 @@ seeing. In line with the latter, Rabbi Dr. Ernest Klein notes that *shur* and
 Bereishis 49:6 as "wall," like the *shur* later in the perek.
 
 ### cheil (חיל)
-Rabbi Pappenheim derives it from ח-ל, circular movement and the empty space
-inside a circle: the *cheil* is a low wall running outside a taller one, and
-the empty ground between them is a kind of no man's land. He adduces the
-Mishnah (Middos 2:3), which calls the space between the walls of the Har
-HaBayis and the Temple building the *cheil*.
-Pesachim 86a describes *chomah* and *cheil* as *shura* and *bar-shura*, a wall
-and the son of a wall; Rashi takes the *chomah* as the outer wall and the
-*cheil* as a shorter wall within it, the small son beside his large father.
-Radak seems unsure whether the *cheil* stands outside the *chomah* or inside,
-and then suggests that perhaps it is not a wall at all but a moat dug outside
-the *chomah*.
+- Rabbi Pappenheim derives it from ח-ל, circular movement and the empty space
+  inside a circle: the *cheil* is a low wall running outside a taller one, and
+  the empty ground between them is a kind of no man's land. He adduces the
+  Mishnah (Middos 2:3), which calls the space between the walls of the Har
+  HaBayis and the Temple building the *cheil*.
+- Pesachim 86a describes *chomah* and *cheil* as *shura* and *bar-shura*, a wall
+  and the son of a wall; Rashi takes the *chomah* as the outer wall and the
+  *cheil* as a shorter wall within it, the small son beside his large father.
+- Radak seems unsure whether the *cheil* stands outside the *chomah* or inside,
+  and then suggests that perhaps it is not a wall at all but a moat dug outside
+  the *chomah*.
 
 ### chayitz (חיץ)
-A single appearance in Tanach, Yechezkel 13:10. Ibn Janach: the yud stands in
-for a second tzadi, so the root is ח-צ-צ, to partition. Rabbi Pappenheim
-likewise puts it under ח-צ, dividing in two, with *chatzi*, *chatzos*, *chutz*
-and *cheitz*, and theorizes that *chayitz* is a wall dividing one domain into
-two,
-equivalent to the Mishnaic *mechitzah* (Bava Basra 1:1). Rabbi Moshe Zacuto
-(1625 to 1697, *Kol HaRamaz* to Sheviis 3:8) narrows it: *chayitz* is a flimsy partition,
-*mechitzah* any partition at all.
+A single appearance in Tanach, Yechezkel 13:10.
+- Ibn Janach: the yud stands in for a second tzadi, so the root is ח-צ-צ, to
+  partition.
+- Rabbi Pappenheim likewise puts it under ח-צ, dividing in two, with *chatzi*,
+  *chatzos*, *chutz* and *cheitz*, and theorizes that *chayitz* is a wall
+  dividing one domain into two, equivalent to the Mishnaic *mechitzah* (Bava
+  Basra 1:1).
+- Rabbi Moshe Zacuto (1625 to 1697, *Kol HaRamaz* to Sheviis 3:8) narrows it:
+  *chayitz* is a flimsy partition, *mechitzah* any partition at all.
 
 ### kotel (כותל)
 Three appearances: once in Hebrew (Shir HaShirim 2:9, *omed achar kosleinu*)

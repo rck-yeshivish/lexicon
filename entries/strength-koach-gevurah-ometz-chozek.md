@@ -43,42 +43,44 @@ Pappenheim).
 ## Distinctions
 
 ### koach (כח)
-Rabbi Pappenheim: the most general of the words, the plain ability to do or
-withstand something. Rabbi J. B. Soloveitchik (1903 to 1993), in *Catharsis*:
-*koach* in Tanach and Torah sources generally means physical strength, and is
-not unique to man, since man and beast alike possess it; so the morning
-berachos thank Hashem twice, for girding Yisrael with *gevurah* and as He "who
-gives *koach* to the tired," recalling two different aspects of man's powers.
-Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865), in a similar way to Rabbi
-Pappenheim: *koach* is the power of maintaining a given state, withstanding the
-forces that try to break it. Alternatively, *koach* is mental fortitude and
-concentration: so the Targum (to Devarim 8:18) renders *koach* as *eitzah*, the
-mental strength to think a problem through and decide on a course, and
-answering *Amen yehei shmei rabbah* "with all his *koach*" (Shabbos 119b) means
-with all one's mental focus, not screaming the words as loud as possible (see
-Rashi there, pace Tosafos).
+- Rabbi Pappenheim: the most general of the words, the plain ability to do or
+  withstand something.
+- Rabbi J. B. Soloveitchik (1903 to 1993), in *Catharsis*: *koach* in Tanach and
+  Torah sources generally means physical strength, and is not unique to man,
+  since man and beast alike possess it; so the morning berachos thank Hashem
+  twice, for girding Yisrael with *gevurah* and as He "who gives *koach* to the
+  tired," recalling two different aspects of man's powers.
+- Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865), in a similar way to Rabbi
+  Pappenheim: *koach* is the power of maintaining a given state, withstanding
+  the forces that try to break it. Alternatively, *koach* is mental fortitude
+  and concentration: so the Targum (to Devarim 8:18) renders *koach* as
+  *eitzah*, the mental strength to think a problem through and decide on a
+  course, and answering *Amen yehei shmei rabbah* "with all his *koach*"
+  (Shabbos 119b) means with all one's mental focus, not screaming the words as
+  loud as possible (see Rashi there, pace Tosafos).
 
 ### gevurah (גבורה)
-The Mishnah (Avos 4:1) asks who is a *gibbor* and answers, he who conquers his
-yetzer; Rabbi Klein reads this as tying *gevurah* to self-control, just like
-*eitan*. Rabbi Soloveitchik echoes the idea: *gevurah* is given
-exclusively to man, his ability to transcend the brute instinct of survival he
-shares with the animals, and is best translated "heroism," the courage to enter
-a situation that may not be ideal for his physical survival. Accordingly a
-*gibbor* is not always the victor but always one who enters the battle and
-fights with all his might, and one who dares to keep fighting for what he
-believes in generally emerges the victor even if he loses the immediate battle.
-Rabbi Pappenheim offers a similar explication, but acknowledges that Tanach
-also borrows the word for elements of nature without free will, like water
-(e.g. Bereishis 7:18-19); for him *gevurah* is the act by which one actualizes
-one's potential *koach*, an outward show of strength. Rabbi Mecklenburg: where
-*koach* withstands what opposes it, *gevurah* is a more proactive use of *koach*
-that seeks to defeat the opposition entirely. Rabbi Klein adds: if *gevurah*
-entails holding oneself back, Hashem is
-the immaculate *Gibbor*, holding back His anger and giving the wicked time
-before punishing them (see Yoma 69b), and for this reason He is often called
-*Gibbor* (see Yirmiyahu 32:18 and the daily liturgy). Rabbi Shapira-Frankfurter
-(below) makes *gevurah* physical strength.
+- The Mishnah (Avos 4:1) asks who is a *gibbor* and answers, he who conquers his
+  yetzer; Rabbi Klein reads this as tying *gevurah* to self-control, just like
+  *eitan*.
+- Rabbi Soloveitchik echoes the idea: *gevurah* is given exclusively to man, his
+  ability to transcend the brute instinct of survival he shares with the
+  animals, and is best translated "heroism," the courage to enter a situation
+  that may not be ideal for his physical survival. Accordingly a *gibbor* is not
+  always the victor but always one who enters the battle and fights with all his
+  might, and one who dares to keep fighting for what he believes in generally
+  emerges the victor even if he loses the immediate battle.
+- Rabbi Pappenheim offers a similar explication, but acknowledges that Tanach
+  also borrows the word for elements of nature without free will, like water
+  (e.g. Bereishis 7:18-19); for him *gevurah* is the act by which one actualizes
+  one's potential *koach*, an outward show of strength.
+- Rabbi Mecklenburg: where *koach* withstands what opposes it, *gevurah* is a
+  more proactive use of *koach* that seeks to defeat the opposition entirely.
+- Rabbi Klein adds: if *gevurah* entails holding oneself back, Hashem is the
+  immaculate *Gibbor*, holding back His anger and giving the wicked time before
+  punishing them (see Yoma 69b), and for this reason He is often called *Gibbor*
+  (see Yirmiyahu 32:18 and the daily liturgy).
+- Rabbi Shapira-Frankfurter (below) makes *gevurah* physical strength.
 
 ### chozek (חזק) and ometz (אמץ)
 Moshe, passing the leadership to Yehoshua, tells him *chazak v'ematz* (Devarim

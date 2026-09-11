@@ -52,16 +52,17 @@ too, jurisprudence flowing down from the authority to the less knowledgeable.
 Modern Hebrew keeps the neutral sense of teaching or instructing, without the
 halachic connotation.
 
-Radak adds that *Torah* itself (and Aramaic *Orayta*) is from yud-reish-hey;
-on that account *Torah* might best be understood as "a teaching" or
-"instruction." Radak also weighs Ibn Janach's alternative, the root
-tav-vav-reish, investigation or scouting (an etymology that would not account
-for the Aramaic cognate), from which come system and order, and the word
-*tor*, one's turn within a fixed arrangement; on that reading *Torah* is the law
-laid out as a systematic code. Rav Hirsch (Bereishis 26:5; Devarim 4:1) takes a
-third root, hey-reish-hey, to impregnate: the Torah is, as it were, the seeds of
-goodness and morality, from which a person instilled with its values can grow
-into a paragon of virtue.
+- Radak adds that *Torah* itself (and Aramaic *Orayta*) is from yud-reish-hey;
+  on that account *Torah* might best be understood as "a teaching" or
+  "instruction."
+- Radak also weighs Ibn Janach's alternative, the root tav-vav-reish,
+  investigation or scouting (an etymology that would not account for the Aramaic
+  cognate), from which come system and order, and the word *tor*, one's turn
+  within a fixed arrangement; on that reading *Torah* is the law laid out as a
+  systematic code.
+- Rav Hirsch (Bereishis 26:5; Devarim 4:1) takes a third root, hey-reish-hey, to
+  impregnate: the Torah is, as it were, the seeds of goodness and morality, from
+  which a person instilled with its values can grow into a paragon of virtue.
 
 ### limmud (למוד)
 Words from lamed-mem-dalet appear eighty-six times in Tanach, but in the Chumash

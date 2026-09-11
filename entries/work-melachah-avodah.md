@@ -40,59 +40,67 @@ Shlomo Pappenheim), and, turned toward Heaven, the **service** of Hashem.
 Root ל-א-ך, kin to *malach* (Rav Hirsch; Rabbi Tzvi Yehuda Kook; the Satmar
 Rav). The Torah forbids *melachah* on Shabbos (Shemos 20:10, 31:14-15, 35:2;
 Vayikra 23:3; Devarim 5:14), and Hashem rested on the seventh day from all
-*melachah* (Bereishis 2:2-3). Ramban (to Shemos 20:9, 35:3; Vayikra 23:4) takes
-*avodah* as a subset of *melachah*. On Shabbos and Yom Kippur (Vayikra
-23:28-31; Bamidbar 29:7) all *melachah* is forbidden; on Pesach, Shavuos, Rosh
-HaShanah, Succos and Shemini Atzeres only *meleches avodah* (Shemos 12:16;
-Vayikra 23:7-8, 23:21, 23:25, 23:35, 23:36; Bamidbar 28:18, 28:25, 28:26, 29:1,
-29:12, 29:35). So there are two kinds: *meleches hanaah*, work for bodily
-enjoyment, meaning food preparation, permitted on Yom Tov, as the Torah states
-explicitly the first time (Shemos 12:16); and *meleches avodah*, all the rest.
-Abarbanel (to Shemos 20:9) disagrees: the two words are true synonyms. Rabbi
-Yitzchak Shmuel Reggio (1784 to 1855; to Shemos 12:16, 20:9): *melachah* is an
-act that improves a specific object. Rabbi Aharon Leib Steinman (1914 to 2017),
-in the yeshivah terms of *cheftza* and *gavra*: *melachah* is the object side,
-work aimed at yielding a product or result. Rabbi Yaakov Tzvi Mecklenburg (1785
-to 1865) quotes Rabbi Naftali Hertz Wessely (1725 to 1805), a figure often
-maligned as a *maskil* whose rabbinic credentials are also attested, from *Yayn
-Levanon*: *melachah* primarily means any creative or innovative activity, in
-thought, speech or deed, with no physical act required. Rav Hirsch (to
-Bereishis 2:2, Shemos 12:16, 35:2), synthesizing these: *melachah* is what *avodah* can accomplish,
-the result; as the *malach* is the agent who carries an idea into execution,
-*melachah* carries a thought through into reality; intelligent, creative labor.
-Rabbi Moshe Alshich (1508 to 1593): any form of labor at all. Rabbi Tzvi Yehuda
-Kook (1891 to 1982): the more abstract work by which a person realizes his own
-free thought, driven by his own faculties and decisions; closer to the sublime
-than forced labor, hence the *malach*. Rabbi Yoel Teitelbaum of Satmar (1887 to
-1979): as an angel exerts no physical effort, *melachah* is the less strenuous
-labor. The Tosafists and *Peirush HaRokeach*: the Torah calls Kehas's duty
-*melachah* (Bamidbar 4:3) because they only had to carry the parts of the
-Mishkan, the lighter task; Rabbi Shmuel David Ungar of Nitra (1885 to 1945)
-adds that this is all the more so since the Aron carried its bearers (Sotah
-35a).
+*melachah* (Bereishis 2:2-3).
+- Ramban (to Shemos 20:9, 35:3; Vayikra 23:4) takes *avodah* as a subset of
+  *melachah*. On Shabbos and Yom Kippur (Vayikra 23:28-31; Bamidbar 29:7) all
+  *melachah* is forbidden; on Pesach, Shavuos, Rosh HaShanah, Succos and Shemini
+  Atzeres only *meleches avodah* (Shemos 12:16; Vayikra 23:7-8, 23:21, 23:25,
+  23:35, 23:36; Bamidbar 28:18, 28:25, 28:26, 29:1, 29:12, 29:35). So there are
+  two kinds: *meleches hanaah*, work for bodily enjoyment, meaning food
+  preparation, permitted on Yom Tov, as the Torah states explicitly the first
+  time (Shemos 12:16); and *meleches avodah*, all the rest.
+- Abarbanel (to Shemos 20:9) disagrees: the two words are true synonyms.
+- Rabbi Yitzchak Shmuel Reggio (1784 to 1855; to Shemos 12:16, 20:9): *melachah*
+  is an act that improves a specific object.
+- Rabbi Aharon Leib Steinman (1914 to 2017), in the yeshivah terms of *cheftza*
+  and *gavra*: *melachah* is the object side, work aimed at yielding a product
+  or result.
+- Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865) quotes Rabbi Naftali Hertz
+  Wessely (1725 to 1805), a figure often maligned as a *maskil* whose rabbinic
+  credentials are also attested, from *Yayn Levanon*: *melachah* primarily means
+  any creative or innovative activity, in thought, speech or deed, with no
+  physical act required.
+- Rav Hirsch (to Bereishis 2:2, Shemos 12:16, 35:2), synthesizing these:
+  *melachah* is what *avodah* can accomplish, the result; as the *malach* is the
+  agent who carries an idea into execution, *melachah* carries a thought through
+  into reality; intelligent, creative labor.
+- Rabbi Moshe Alshich (1508 to 1593): any form of labor at all.
+- Rabbi Tzvi Yehuda Kook (1891 to 1982): the more abstract work by which a
+  person realizes his own free thought, driven by his own faculties and
+  decisions; closer to the sublime than forced labor, hence the *malach*.
+- Rabbi Yoel Teitelbaum of Satmar (1887 to 1979): as an angel exerts no physical
+  effort, *melachah* is the less strenuous labor.
+- The Tosafists and *Peirush HaRokeach*: the Torah calls Kehas's duty *melachah*
+  (Bamidbar 4:3) because they only had to carry the parts of the Mishkan, the
+  lighter task; Rabbi Shmuel David Ungar of Nitra (1885 to 1945) adds that this
+  is all the more so since the Aron carried its bearers (Sotah 35a).
 
 ### avodah (עבודה)
-Root ע-ב-ד, *eved*. Ramban: labor that does not lead directly to bodily
-pleasure. Reggio: any act of labor, whether or not it changes an object.
-Steinman: the *gavra* side, the worker and his effort. Wessely: tangible
-actions only. Rav Hirsch: the toil itself, without regard to result; brute
-work. Alshich: labor performed for one's master. Rabbi Tzvi Yehuda Kook: the
-concrete, focused work that is the product of one's constraints rather than
-one's freedom, in which the work controls the person; this can be good when it
-is the service of Hashem that controls him, but can also do harm, as even a
-king can become a slave to his field (Koheles 5:8), and he warns that sometimes
-a person can become so devoted to his work that his job or his tools control
-him. Malbim (1809 to 1879) and Rabbi Shlomo Aharon Wertheimer (1866 to 1935):
-hard labor, demanding
-much effort, to which one is *meshubad*; easier service is *sheirus*, and the
-*meshares* is the domestic helper with light duties. Rabbi Shlomo Pappenheim
-(1740 to 1814): work one is obligated to do, so it takes in even lowly or
-dishonorable tasks one would not otherwise do, even if they technically demand
-little effort. Malbim adds that in the service of Hashem even the easiest
-worship, like singing, is *avodah*, because the importance of the service makes it as intense
-as hard labor. For the Tosafists and *Peirush HaRokeach*, Gershon's and
-Merari's duties, assembling and dismantling the Mishkan, are *avodah* (Bamidbar
-4:23, 4:30) as the harder task.
+Root ע-ב-ד, *eved*.
+- Ramban: labor that does not lead directly to bodily pleasure.
+- Reggio: any act of labor, whether or not it changes an object.
+- Steinman: the *gavra* side, the worker and his effort.
+- Wessely: tangible actions only.
+- Rav Hirsch: the toil itself, without regard to result; brute work.
+- Alshich: labor performed for one's master.
+- Rabbi Tzvi Yehuda Kook: the concrete, focused work that is the product of
+  one's constraints rather than one's freedom, in which the work controls the
+  person; this can be good when it is the service of Hashem that controls him,
+  but can also do harm, as even a king can become a slave to his field (Koheles
+  5:8), and he warns that sometimes a person can become so devoted to his work
+  that his job or his tools control him.
+- Malbim (1809 to 1879) and Rabbi Shlomo Aharon Wertheimer (1866 to 1935): hard
+  labor, demanding much effort, to which one is *meshubad*; easier service is
+  *sheirus*, and the *meshares* is the domestic helper with light duties.
+- Rabbi Shlomo Pappenheim (1740 to 1814): work one is obligated to do, so it
+  takes in even lowly or dishonorable tasks one would not otherwise do, even if
+  they technically demand little effort.
+- Malbim adds that in the service of Hashem even the easiest worship, like
+  singing, is *avodah*, because the importance of the service makes it as
+  intense as hard labor.
+- For the Tosafists and *Peirush HaRokeach*, Gershon's and Merari's duties,
+  assembling and dismantling the Mishkan, are *avodah* (Bamidbar 4:23, 4:30) as
+  the harder task.
 
 ## Rendering guidance
 

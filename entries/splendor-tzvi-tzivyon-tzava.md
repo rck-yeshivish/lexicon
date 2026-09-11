@@ -66,17 +66,20 @@ At Yirmiyahu 3:19, the "heritage of *tzvi*," Targum again has "delight" and
 Radak an expression of desire.
 
 **Why Eretz Yisrael is eretz hatzvi.** The Land is described as the most *tzvi*
-of all lands (Yechezkel 20:6). The Ritva, Rabbi Yom Tov of Seville (1260 to
-1330): the most beautiful of lands. Radak, on the other hand: the most splendid
-and desirable, because it has the most perfect, balanced climate. Ibn Ezra (to
-Daniel 8:9): simply "the *tzvi*," most desirable of all; Ralbag there: desired
-by *all* people; Midrash *Shocher Tov* (to Tehillim 5): all the nations of the
-world desire it and want it. Rav Saadia Gaon (to Daniel 11:16): Hashem wants,
-that is chooses, that land to rest His Presence there. Against these, Chazal
-read *tzvi* as the deer (Kesubos 112a; *Sifrei* to Devarim 11:10): as a deer's
-hide will not stretch back over it once flayed, so the Land's produce exceeds
-what it could hold; or, as the deer is swift, so its produce ripens quickly
-(*Shemos Rabbah* §32:2).
+of all lands (Yechezkel 20:6).
+- The Ritva, Rabbi Yom Tov of Seville (1260 to 1330): the most beautiful of
+  lands.
+- Radak, on the other hand: the most splendid and desirable, because it has the
+  most perfect, balanced climate.
+- Ibn Ezra (to Daniel 8:9): simply "the *tzvi*," most desirable of all.
+- Ralbag there: desired by *all* people; Midrash *Shocher Tov* (to Tehillim 5):
+  all the nations of the world desire it and want it.
+- Rav Saadia Gaon (to Daniel 11:16): Hashem wants, that is chooses, that land to
+  rest His Presence there.
+- Against these, Chazal read *tzvi* as the deer (Kesubos 112a; *Sifrei* to
+  Devarim 11:10): as a deer's hide will not stretch back over it once flayed, so
+  the Land's produce exceeds what it could hold; or, as the deer is swift, so
+  its produce ripens quickly (*Shemos Rabbah* §32:2).
 
 **What tzivyon means.** Rosh Hashanah 11a and Chullin 60a: Hashem created each
 element of nature according to its *tzivyon*. Rashi and Rabbeinu Gershom: its
@@ -96,19 +99,22 @@ titles of desire: *eretz chefetz* (Malachi 3:12), *eretz chemdah* (Yirmiyahu
 11:41). Since *chefetz* and *chemdah* are forms of desire, so is *tzvi*.
 
 ### tzvi as deer (צבי)
-The kosher wild animal of Devarim 14:5. Rabbi Shlomo Pappenheim links it to
-desire: deer are ordinarily tame but among the most desirous of mammals, and can
-turn wild and dangerous in their mating season. Rabbi Klein offers his own
-suggestion: deer are known for running swiftly, so they are generally
-free to follow their heart's desires; and since *tzvi* is also related to beauty,
-the deer-comparison of Shir HaShirim (2:9, 2:17, 8:14) is a complimentary term of
-endearment, which likely refers to the deer's sleek physique along with its
-beautiful antlers, although usually only the males have antlers, except for
-reindeer. Rabbi Aharon Marcus (1843 to 1916) posits that the deer is called a
-*tzvi*, from the צ-ב root, because of its elegant, stately way of standing. In
-the switch from Hebrew to Aramaic the *tzadi* commonly transforms into a *tes*,
-so *tzvi* becomes *tvi*; and the Semitic ט-ב root in Hebrew and Aramaic means
-"good," goodness being something both desirable and beautiful.
+The kosher wild animal of Devarim 14:5.
+- Rabbi Shlomo Pappenheim links it to desire: deer are ordinarily tame but among
+  the most desirous of mammals, and can turn wild and dangerous in their mating
+  season.
+- Rabbi Klein offers his own suggestion: deer are known for running swiftly, so
+  they are generally free to follow their heart's desires; and since *tzvi* is
+  also related to beauty, the deer-comparison of Shir HaShirim (2:9, 2:17, 8:14)
+  is a complimentary term of endearment, which likely refers to the deer's sleek
+  physique along with its beautiful antlers, although usually only the males
+  have antlers, except for reindeer.
+- Rabbi Aharon Marcus (1843 to 1916) posits that the deer is called a *tzvi*,
+  from the צ-ב root, because of its elegant, stately way of standing.
+
+In the switch from Hebrew to Aramaic the *tzadi* commonly transforms into a
+*tes*, so *tzvi* becomes *tvi*; and the Semitic ט-ב root in Hebrew and Aramaic
+means "good," goodness being something both desirable and beautiful.
 
 ### the two-letter root צ-ב
 Rabbi Shlomo Pappenheim takes the root as "standing" (Bereishis 24:13; Shemos

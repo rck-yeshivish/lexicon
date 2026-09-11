@@ -40,23 +40,26 @@ many sharp ends.
 
 ### dardar (דרדר)
 Twice, both times in the phrase *kotz v'dardar* of two different kinds of thorn
-(Bereishis 3:18, Hoshea 10:8). Rabbi Pappenheim: from ד-ר, movement without
-hindrance, whence *dror*, freedom; the *dardar* is an edible thorn growing in
-open, ownerless ground such as deserts. The Yemenite scholar Rabbi Avraham ben
-Shlomo (to Shoftim 8:7), without discussing the word's etymology or exact
-meaning, relates that people would peel the outside of the *dardar* and eat its
-fruit. Rabbi Klein remarks that this sounds to him like a cactus or sabra. The
-Targum renders it *atad*.
+(Bereishis 3:18, Hoshea 10:8).
+- Rabbi Pappenheim: from ד-ר, movement without hindrance, whence *dror*,
+  freedom; the *dardar* is an edible thorn growing in open, ownerless ground
+  such as deserts.
+- The Yemenite scholar Rabbi Avraham ben Shlomo (to Shoftim 8:7), without
+  discussing the word's etymology or exact meaning, relates that people would
+  peel the outside of the *dardar* and eat its fruit. Rabbi Klein remarks that
+  this sounds to him like a cactus or sabra.
+- The Targum renders it *atad*.
 
 ### sneh (סנה)
-Six times, all of the Burning Bush (Shemos 3:2-4, Devarim 33:16). Rashi (to
-Sukkah 13a, Bava Kamma 119b) uses *sneh* to define Aramaic words he elsewhere
-explains as thorns (Rashi to Avodah Zarah 47b, Eruvin 34b), so for him it is a
-thorn bush; so too, explicitly, Rabbi Saadia Gaon's *Tafsir* to Shemos 3:2,
-cited by Ibn Ezra's long commentary there. Rabbi Pappenheim: from ס-נ, chaos and
-disorder (whence *ason*, mishap), a messy bush in which thorns of every kind
-grow. Rabbi David Chaim Chelouche, the late Chief Rabbi of Netanya, relates ס-נ
-to ש-ן, tooth, since the thorns on a branch look like sharp teeth.
+Six times, all of the Burning Bush (Shemos 3:2-4, Devarim 33:16).
+- Rashi (to Sukkah 13a, Bava Kamma 119b) uses *sneh* to define Aramaic words he
+  elsewhere explains as thorns (Rashi to Avodah Zarah 47b, Eruvin 34b), so for
+  him it is a thorn bush; so too, explicitly, Rabbi Saadia Gaon's *Tafsir* to
+  Shemos 3:2, cited by Ibn Ezra's long commentary there.
+- Rabbi Pappenheim: from ס-נ, chaos and disorder (whence *ason*, mishap), a
+  messy bush in which thorns of every kind grow.
+- Rabbi David Chaim Chelouche, the late Chief Rabbi of Netanya, relates ס-נ to
+  ש-ן, tooth, since the thorns on a branch look like sharp teeth.
 
 ### salon / silon (סלון)
 The commentators, among them Rashi and Mahari Kara, take *salonim* (Yechezkel
@@ -127,14 +130,15 @@ power is the sharpness of its blade and not its shine, *barkan*, a sharp thorn,
 was derived from *barak* in the sense of a sword's glow.
 
 ### charul (חרול), kimosh (קימוש), akrav (עקרב), bashah (באשה)
-*Charul* three times (Tzefanyah 2:9, Mishlei 24:31, Iyov 30:7). Radak: a
-grass-like thorn; others, nettle or thistle. Rabbi Aharon Marcus (*Kesses
-HaSofer*) takes ח-ר as strong, obstinate movement (in *Barzilai*, anger and
-destruction), many of whose triliteral roots are boring a hole, and so reads
-*charul*. *Ohalei Yehuda* offers two more: ח-ר as heat and dryness plus *lo*,
-"for him," for the dry, fiery thorn; or ח-ר-ל read through ע-ר-ל, blockage or
-covering, by the interchange of ches and ayin, the thorn that covers the face
-of a field.
+*Charul* three times (Tzefanyah 2:9, Mishlei 24:31, Iyov 30:7).
+- Radak: a grass-like thorn; others, nettle or thistle.
+- Rabbi Aharon Marcus (*Kesses HaSofer*) takes ח-ר as strong, obstinate movement
+  (in *Barzilai*, anger and destruction), many of whose triliteral roots are
+  boring a hole, and so reads *charul*.
+- *Ohalei Yehuda* offers two more: ח-ר as heat and dryness plus *lo*, "for him,"
+  for the dry, fiery thorn; or ח-ר-ל read through ע-ר-ל, blockage or covering,
+  by the interchange of ches and ayin, the thorn that covers the face of a
+  field.
 
 *Kimosh*: the Vilna Gaon (to Mishlei 24:31) distinguishes it from *charul*:
 *kimosh* grows along a field's perimeter, *charul* is any ordinary thorn one
@@ -165,13 +169,17 @@ Rashi and Radak (there, and in *Sefer HaShorashim*) take *na'atzutz* as a thorn
 too, though not all commentators agree.
 
 ### sikim (שכים), sansan (סנסן), saravim (סרבים): the three *Ohel Moed* omits
-*Sikim* (Bamidbar 33:55) is the fence-thorn: Radak in *Sefer HaShorashim* notes
-that fences were typically made of thorns, so *mesuchah*, a fence (Michah 7:4,
-Yechezkel 28:13, Mishlei 15:19, Yeshayahu 5:5), shares its root ש-ו-כ, and in his father's
-name derives *sakin*, knife (once, Mishlei 23:2), from *sikim* too. Rav Hirsch
-(to Bamidbar 33:55) links the fence sense to *sugah*/*siyag* by the interchange
-of kaf and gimmel; Rabbi Pappenheim takes ס-כ, to spread, cover or protect,
-since the thorn fence protects the field. In Modern Hebrew *sikah* is a pin.
+*Sikim* (Bamidbar 33:55) is the fence-thorn:
+- Radak in *Sefer HaShorashim* notes that fences were typically made of thorns,
+  so *mesuchah*, a fence (Michah 7:4, Yechezkel 28:13, Mishlei 15:19, Yeshayahu
+  5:5), shares its root ש-ו-כ, and in his father's name derives *sakin*, knife
+  (once, Mishlei 23:2), from *sikim* too.
+- Rav Hirsch (to Bamidbar 33:55) links the fence sense to *sugah*/*siyag* by the
+  interchange of kaf and gimmel.
+- Rabbi Pappenheim takes ס-כ, to spread, cover or protect, since the thorn fence
+  protects the field.
+
+In Modern Hebrew *sikah* is a pin.
 
 *Sansan* (Shir HaShirim 7:9), once: Ibn Ezra says it has no counterpart in
 Tanach, but Rabbi David Golumb (1861 to 1935) had already noted that it seems

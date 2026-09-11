@@ -27,19 +27,21 @@ together"), over *b'tarunya* (battle, or Greek tyranny), and over *kenigia*
 ## Distinctions
 
 ### milchamah (מלחמה), lochem (לוחם)
-Almost unanimously traced to the root ל-ח-ם, which also yields *lechem*
-(bread) and meat. Menachem Ibn Saruk (*Machberes Menachem*) lists the three
-senses as separate declensions without insinuating any link between them. Ibn
-Janach (*Sefer HaShorashim*) collapses the food senses into one broad "staple
-food," most instances of *lechem* being bread and some meat; Rabbi Klein adds
-that this can be confirmed from cognate languages, Arabic *lahm* usually meaning meat and, in
-the South Arabic dialect of Soqotra, fish. Radak (*Sefer HaShorashim*) closes
-the gap further: war can be figuratively characterized as the sword of the
-combatants "eating" the slain. Rav Hirsch (to Bereishis 3:19, 10:9, 14:2) reads
-the root as struggle, especially for survival: man struggles against nature for
-his bread and against his fellow who would take it, and *milchamah* is that
-second struggle between parties; by his phonetic etymology he links ל-ח-ם to
-ל-א-ם (*leom*, nation), the existential fight of a polity to survive.
+Almost unanimously traced to the root ל-ח-ם, which also yields *lechem* (bread)
+and meat.
+- Menachem Ibn Saruk (*Machberes Menachem*) lists the three senses as separate
+  declensions without insinuating any link between them.
+- Ibn Janach (*Sefer HaShorashim*) collapses the food senses into one broad
+  "staple food," most instances of *lechem* being bread and some meat; Rabbi
+  Klein adds that this can be confirmed from cognate languages, Arabic *lahm*
+  usually meaning meat and, in the South Arabic dialect of Soqotra, fish.
+- Radak (*Sefer HaShorashim*) closes the gap further: war can be figuratively
+  characterized as the sword of the combatants "eating" the slain.
+- Rav Hirsch (to Bereishis 3:19, 10:9, 14:2) reads the root as struggle,
+  especially for survival: man struggles against nature for his bread and
+  against his fellow who would take it, and *milchamah* is that second struggle
+  between parties; by his phonetic etymology he links ל-ח-ם to ל-א-ם (*leom*,
+  nation), the existential fight of a polity to survive.
 
 Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes a totally different approach,
 deriving *lechem* and *milchamah* from the two-letter core ח-ם. Rabbi Klein calls this noteworthy, since Pappenheim generally holds that a biliteral core

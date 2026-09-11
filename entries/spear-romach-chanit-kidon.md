@@ -53,27 +53,31 @@ three are one weapon.
 
 ## Where the authorities disagree
 
-**Whether these are three weapons or one.** Rabbi Shmuel Krauss (1866 to 1948)
-writes that *romach*, *chanit*, and *kidon* are all synonyms for the same sort of
-weapon, and adds that the rabbis used a fourth, *alunki*. Targum to Yehoshua 8:18
-renders *kidon* as *romcha*, implying that those two
-weapons are very similar and their names can even be somewhat interchanged.
-HALOT gives each word its own English: *romach* "lance," *chanit* "spear,"
-*kidon* "hunting knife/scimitar."
+**Whether these are three weapons or one.**
+- Rabbi Shmuel Krauss (1866 to 1948) writes that *romach*, *chanit*, and *kidon*
+  are all synonyms for the same sort of weapon, and adds that the rabbis used a
+  fourth, *alunki*.
+- Targum to Yehoshua 8:18 renders *kidon* as *romcha*, implying that those two
+  weapons are very similar and their names can even be somewhat interchanged.
+- HALOT gives each word its own English: *romach* "lance," *chanit* "spear,"
+  *kidon* "hunting knife/scimitar."
 
-**How *romach* is built.** Menachem Ibn Saruk (920 to 970), Yonah Ibn Janach
-(990 to 1055), and Radak (1160 to 1235): a triliteral root REISH-MEM-CHET, used
-for nothing but this weapon. Rabbi Moshe Tedeschi Ashkenazi (1821 to 1898,
-*Otzar Nirdafim*): related to biliteral MEM-CHET, "erase, annihilate," for the
-weapon's destructive nature. *Ohalei Yehuda*: a single stab of a *romach* is
-fatal to anyone, exalted or lowly, so the word fuses REISH-(VAV)-MEM ("high,
-exalted") with MEM-CHET, lethal even to the highest-ranking. (Kozbi was a Midianite princess and Zimri the prince of the tribe of Shimon,
-yet both fell to Pinchas's *romach*.) Alternatively, *Ohalei Yehuda*: REISH-MEM
-("high, lift, remove") with CHET-YOD (*chai*, "life"), a remover of life. Rav
-Hirsch (to Shemos 15:1, Bamidbar 25:7) follows the triliteralists' REISH-MEM-CHET
-but hears in it the similar *ramah*, "throwing, shooting," CHET interchanging
-with HEI; in his view, it seems, the *romach* is used by throwing, not generally
-by stabbing.
+**How *romach* is built.**
+- Menachem Ibn Saruk (920 to 970), Yonah Ibn Janach (990 to 1055), and Radak
+  (1160 to 1235): a triliteral root REISH-MEM-CHET, used for nothing but this
+  weapon.
+- Rabbi Moshe Tedeschi Ashkenazi (1821 to 1898, *Otzar Nirdafim*): related to
+  biliteral MEM-CHET, "erase, annihilate," for the weapon's destructive nature.
+- *Ohalei Yehuda*: a single stab of a *romach* is fatal to anyone, exalted or
+  lowly, so the word fuses REISH-(VAV)-MEM ("high, exalted") with MEM-CHET,
+  lethal even to the highest-ranking. (Kozbi was a Midianite princess and Zimri
+  the prince of the tribe of Shimon, yet both fell to Pinchas's *romach*.)
+  Alternatively, *Ohalei Yehuda*: REISH-MEM ("high, lift, remove") with CHET-YOD
+  (*chai*, "life"), a remover of life.
+- Rav Hirsch (to Shemos 15:1, Bamidbar 25:7) follows the triliteralists'
+  REISH-MEM-CHET but hears in it the similar *ramah*, "throwing, shooting," CHET
+  interchanging with HEI; in his view, it seems, the *romach* is used by
+  throwing, not generally by stabbing.
 
 **Whether *kidon* is a weapon or armor.** Rabbi Tanchum HaYerushalmi (13th
 century, in the Holy Land; *HaMadrich HaMaspik*): the word usually means a small
@@ -118,22 +122,25 @@ favor is granted room to "camp out" in another's thoughts; and *techinah* and
 
 ### kidon (כידון)
 Nine times in Tanach: Yehoshua 8:18, 8:26; Shmuel I 17:6, 17:45; Yirmiyahu 6:23,
-50:42; Iyov 39:23, 41:21. Never in the Chumash. HALOT, "hunting
-knife/scimitar." The classical lexicographers: root KAF-YOD-DALET; since *kid*
-from that root means "misfortune, suffering" (Iyov 21:20), Ibn Janach suggests
-the *kidon* is named for bringing misfortune on one's enemies. Rambam (to Keilim
-11:8): a small *romach*, the weapon kings and aristocrats typically carried at
-all times. Rabbi Reuven Chaim Klein suggests that perhaps Rambam read the word as
-*yad*, "hand," with the KAF a *kaf hadimyon*: a weapon always with its owner, as
-a hand is. The philologist Rabbi Ernest Klein (no relation to Rabbi Reuven Chaim Klein):
-probably related to Arabic *kadda* and Ethiopic *kedda*, verbs for "thrusting."
-In a somewhat similar way Rabbi Yehoshua (Jeremy) Steinberg of the Veromemanu
-Foundation proposes a metathesis of DALET-KAF, "smashed," for how a *kidon* might
-smite the enemy. Rabbi Shlomo Pappenheim: from biliteral KAF-DALET, a vessel with
-ear-like handles protruding sideways, whose most basic derivative is *kad*, a
-jug; in a borrowed sense the *kidon* is a *romach* with spikes protruding from
-its sides like a jug's handles (a third derivative is *neched*, "nephew," a side
-offshoot of the family tree).
+50:42; Iyov 39:23, 41:21. Never in the Chumash. HALOT, "hunting knife/scimitar."
+- The classical lexicographers: root KAF-YOD-DALET; since *kid* from that root
+  means "misfortune, suffering" (Iyov 21:20), Ibn Janach suggests the *kidon* is
+  named for bringing misfortune on one's enemies.
+- Rambam (to Keilim 11:8): a small *romach*, the weapon kings and aristocrats
+  typically carried at all times. Rabbi Reuven Chaim Klein suggests that perhaps
+  Rambam read the word as *yad*, "hand," with the KAF a *kaf hadimyon*: a weapon
+  always with its owner, as a hand is.
+- The philologist Rabbi Ernest Klein (no relation to Rabbi Reuven Chaim Klein):
+  probably related to Arabic *kadda* and Ethiopic *kedda*, verbs for
+  "thrusting."
+- In a somewhat similar way Rabbi Yehoshua (Jeremy) Steinberg of the Veromemanu
+  Foundation proposes a metathesis of DALET-KAF, "smashed," for how a *kidon*
+  might smite the enemy.
+- Rabbi Shlomo Pappenheim: from biliteral KAF-DALET, a vessel with ear-like
+  handles protruding sideways, whose most basic derivative is *kad*, a jug; in a
+  borrowed sense the *kidon* is a *romach* with spikes protruding from its sides
+  like a jug's handles (a third derivative is *neched*, "nephew," a side
+  offshoot of the family tree).
 
 ### alunki (אלונקי)
 Rabbinic only. Rabbi Shmuel Krauss counts it the rabbis' fourth synonym for this

@@ -72,18 +72,21 @@ Despite all this, Rabbi Reuven Chaim Klein validates Rashi's citation through Ra
 Teomim-Frankel (1727 to 1792), who suggests in *Iggros Pri Megadim* that *shaaf*
 is just a variant of *shaavah*, presumably, Rabbi Reuven Chaim Klein adds, because PEH and VAV are phonetically close and can interchange.
 
-**Where *donag* comes from.** Rav Hirsch (to Shemos 29:20) connects it to
-*tenuch*, the ear lobe, ostensibly invoking the interchange of DALET with TAV
-and GIMMEL with KAF; wax, he explains, is malleable and pliable, as the fatty
-ear lobe is. Rabbi Yehoshua Steinberg (*Shorashei Leshon HaKodesh*, Warsaw
-1897) reads it as a compound of *dei* and *nogah*, "enough light," an allusion
-to wax's use in candles. More scholarly-oriented etymologists
-are at a loss: the prominent linguist Avraham Even-Shoshan (1906 to 1984)
-suggests in his dictionary that it derives from Akkadian *dumqu*, "clear" or
-"shiny," which Rabbi Reuven Chaim Klein takes as a reference to wax's translucence; Rabbi
-Dr. Ernest Klein (1899 to 1983) concludes that it is of uncertain etymology,
-mentioning Even-Shoshan's theory as just a possibility, and cites Dr. Heinrich
-Leberecht Fleischer (1801 to 1888), who compares Arabic *danj*, "the remainder of the honeycombs."
+**Where *donag* comes from.**
+- Rav Hirsch (to Shemos 29:20) connects it to *tenuch*, the ear lobe, ostensibly
+  invoking the interchange of DALET with TAV and GIMMEL with KAF; wax, he
+  explains, is malleable and pliable, as the fatty ear lobe is.
+- Rabbi Yehoshua Steinberg (*Shorashei Leshon HaKodesh*, Warsaw 1897) reads it
+  as a compound of *dei* and *nogah*, "enough light," an allusion to wax's use
+  in candles.
+- More scholarly-oriented etymologists are at a loss: the prominent linguist
+  Avraham Even-Shoshan (1906 to 1984) suggests in his dictionary that it
+  derives from Akkadian *dumqu*, "clear" or "shiny," which Rabbi Reuven Chaim
+  Klein takes as a reference to wax's translucence; Rabbi Dr. Ernest Klein
+  (1899 to 1983) concludes that it is of uncertain etymology, mentioning
+  Even-Shoshan's theory as just a possibility, and cites Dr. Heinrich Leberecht
+  Fleischer (1801 to 1888), who compares Arabic *danj*, "the remainder of the
+  honeycombs."
 
 ## Distinctions
 

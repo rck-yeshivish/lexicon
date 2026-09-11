@@ -50,17 +50,19 @@ smile, is better than giving him milk (Kesubos 111b); one in a sticky situation
 has "placed his finger between his teeth" (Kesubos 71a); and the Haggadah bids
 us "stun the teeth" of the wicked son.
 
-Menachem Ibn Saruk, Ibn Janach, and Radak trace *shein* to the two-letter ש-ן
-without explaining what else that string yields. Rabbi Shlomo Pappenheim gives
-the two-letter root the sense "double," and gathers under it *shnayim* ("two"),
-*shanah* ("repeat"), *shinun* ("sharpening," a repeated rubbing), *shoneh*
-("change," since what is repeated inevitably changes), *sheinah* ("sleep," when
-the mind goes over the day's thoughts a second time), *shanah* ("year"), and
-*yashan* ("old"); *shein* belongs because most people grow two sets of teeth.
-*Shoresh Yesha* argues that *shein* is more closely related to *shinun*:
-chewing, like sharpening, is a repetitive motion, meant to break the food down.
-Rabbi David Chaim Chelouche (1920 to 2016) links ש-ן to ס-נ (*sneh*,
-thornbush), the thorns on a branch resembling sharp teeth.
+- Menachem Ibn Saruk, Ibn Janach, and Radak trace *shein* to the two-letter ש-ן
+  without explaining what else that string yields.
+- Rabbi Shlomo Pappenheim gives the two-letter root the sense "double," and
+  gathers under it *shnayim* ("two"), *shanah* ("repeat"), *shinun*
+  ("sharpening," a repeated rubbing), *shoneh* ("change," since what is repeated
+  inevitably changes), *sheinah* ("sleep," when the mind goes over the day's
+  thoughts a second time), *shanah* ("year"), and *yashan* ("old"); *shein*
+  belongs because most people grow two sets of teeth.
+- *Shoresh Yesha* argues that *shein* is more closely related to *shinun*:
+  chewing, like sharpening, is a repetitive motion, meant to break the food
+  down.
+- Rabbi David Chaim Chelouche (1920 to 2016) links ש-ן to ס-נ (*sneh*,
+  thornbush), the thorns on a branch resembling sharp teeth.
 
 ### mesalos (מתלעות) and malteos (מלתעות)
 Both always plural: *mesalos* at Iyov 29:17, Yoel 1:6, and Mishlei 30:14;
@@ -123,23 +125,26 @@ mouth too, but means speech.)
 Achiyah HaShiloni foretold the destruction of the House of Yeravam, that they
 would be consumed "as the *gallal* consumes until it is wholly gone" (Melachim I
 14:10), and Bava Kamma 2b takes *gallal* as "tooth," in context any damage like
-that done by the tooth. Three explanations of the connection: Rabbeinu Chananel
-(cited by Tosafos there) reads *gallal* as something rock hard (Ezra 5:8, 6:4),
-and teeth are hard; Rashi (to Bava Kamma 3a) ties it to *gilui*, revealing, a
-body part sometimes shown and sometimes hidden; Rashi alternatively takes
-*gallal* in its plain sense of dung, teeth being among the body's tools for
-turning food into refuse.
+that done by the tooth. Three explanations of the connection:
+- Rabbeinu Chananel (cited by Tosafos there) reads *gallal* as something rock
+  hard (Ezra 5:8, 6:4), and teeth are hard.
+- Rashi (to Bava Kamma 3a) ties it to *gilui*, revealing, a body part sometimes
+  shown and sometimes hidden.
+- Rashi alternatively takes *gallal* in its plain sense of dung, teeth being
+  among the body's tools for turning food into refuse.
 
 ### chit (חיט)
 The Mishnah (Bechoros 6:4) and the Sifra (*Emor*, *parshasa* 7:12) count as a
 blemish in a *bechor* an outer *chit* that is deficient or cut, or an inner
 *chit* wholly uprooted, but not an inner *chit* merely deficient (Bechoros
-6:12). Rashi (to Bechoros 35a): the gums, the outer *chit* being where the
-incisors belong and the inner where the molars belong. The Mainz commentary
-ascribed to Rabbeinu Gershom (there) reads *chit* as the teeth themselves,
-incisors and molars respectively, and Rabbi Nosson of Rome (1035 to 1106) adopts
-that reading in *Sefer HaAruch*. The Rambam (to Bechoros 6:4) and others have a
-different girsa, *chut*, with a vav.
+6:12).
+- Rashi (to Bechoros 35a): the gums, the outer *chit* being where the incisors
+  belong and the inner where the molars belong.
+- The Mainz commentary ascribed to Rabbeinu Gershom (there) reads *chit* as the
+  teeth themselves, incisors and molars respectively, and Rabbi Nosson of Rome
+  (1035 to 1106) adopts that reading in *Sefer HaAruch*.
+- The Rambam (to Bechoros 6:4) and others have a different girsa, *chut*, with a
+  vav.
 
 Until very recently *chit* was attested nowhere in Tanach or Rabbinic literature
 save that one Mishnah and its Midrash. In 2022 a group of archaeologists led by

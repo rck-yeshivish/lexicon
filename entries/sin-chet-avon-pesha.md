@@ -44,34 +44,40 @@ rebellion. There are, however, other ways of explaining the differences.
 Root ח-ט-א, whose plain sense is to miss, to lack. Near the end of David
 HaMelech's life, when his oldest surviving son Adoniyahu began proclaiming
 himself king, Batsheva came before David demanding that he keep his promise that
-Shlomo would succeed him, saying that if Adoniyahu secures the throne "then I and
-my son Shlomo will be *chataim*" (Melachim I 1:21). Rashi explains *chet* there
-as "lacking": Batsheva and Shlomo would be lacking the royal titles due them.
-Probably based on Rashi's comment, the Vilna Gaon (Mishlei 1:10,
-13:6) writes that a *chet* is a sin through a lacking, that is, the failure to
-perform a positive mitzvah. Rabbi Yechezkel Landau (1713-1793) also takes *chet*
-as the lack of fulfilling a positive mitzvah, but synthesizes it with the
-Gemara's inadvertent sin by making it specifically the failure to fulfill the
-mitzvah of repenting after one has sinned inadvertently. Rabbi Moshe Shapiro
-(1935-2017) defends the classic Rabbinic definition of *chet* as an inadvertent
-sin, and still draws a lesson from Rashi's "lack": a *chet* is not simply the
-lack of something but the failure to achieve a goal, the sinner deviating from
-the goal of mankind and missing his intended objective. Rabbi Shlomo Pappenheim
-of Breslau (1740-1814), similarly: *chet* denotes the sinner's lack of intention
-or mindfulness when committing his sin. Malbim, whose approach is
-slightly different, holds that all three words *could* refer to an offense
-committed on purpose, differing in motive: a *chet* is a sin committed because a
-person was swayed by his physical temptations and purposely indulged in what he
-knew to be wrong. *Peirush HaRokeach*: inadvertent, as the Gemara has it.
+Shlomo would succeed him, saying that if Adoniyahu secures the throne "then I
+and my son Shlomo will be *chataim*" (Melachim I 1:21).
+- Rashi explains *chet* there as "lacking": Batsheva and Shlomo would be lacking
+  the royal titles due them.
+- Probably based on Rashi's comment, the Vilna Gaon (Mishlei 1:10, 13:6) writes
+  that a *chet* is a sin through a lacking, that is, the failure to perform a
+  positive mitzvah.
+- Rabbi Yechezkel Landau (1713-1793) also takes *chet* as the lack of fulfilling
+  a positive mitzvah, but synthesizes it with the Gemara's inadvertent sin by
+  making it specifically the failure to fulfill the mitzvah of repenting after
+  one has sinned inadvertently.
+- Rabbi Moshe Shapiro (1935-2017) defends the classic Rabbinic definition of
+  *chet* as an inadvertent sin, and still draws a lesson from Rashi's "lack": a
+  *chet* is not simply the lack of something but the failure to achieve a goal,
+  the sinner deviating from the goal of mankind and missing his intended
+  objective.
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814), similarly: *chet* denotes the
+  sinner's lack of intention or mindfulness when committing his sin.
+- Malbim, whose approach is slightly different, holds that all three words
+  *could* refer to an offense committed on purpose, differing in motive: a
+  *chet* is a sin committed because a person was swayed by his physical
+  temptations and purposely indulged in what he knew to be wrong.
+- *Peirush HaRokeach*: inadvertent, as the Gemara has it.
 
 ### avon (עון)
-Root ע-ו-ה, crooked. Gemara: the wanton or intentional sin, *meizid*.
-Pappenheim: the sin of one who "thinks too much," wrongly concluding that sinning
-is the proper way to go and acting accordingly. Malbim: a sin a person commits
-because his intellect had been negatively persuaded, causing him to stray.
-*Peirush HaRokeach*, which slightly disagrees with the Gemara's
-way of dividing the three: *avon* is specifically a sin from which one derived
-physical pleasure or gained some other benefit.
+Root ע-ו-ה, crooked.
+- Gemara: the wanton or intentional sin, *meizid*.
+- Pappenheim: the sin of one who "thinks too much," wrongly concluding that
+  sinning is the proper way to go and acting accordingly.
+- Malbim: a sin a person commits because his intellect had been negatively
+  persuaded, causing him to stray.
+- *Peirush HaRokeach*, which slightly disagrees with the Gemara's way of
+  dividing the three: *avon* is specifically a sin from which one derived
+  physical pleasure or gained some other benefit.
 
 ### pesha (פשע)
 Root פ-ש-ע. Gemara: the sin of rebellion. Pappenheim: the sinner knows his

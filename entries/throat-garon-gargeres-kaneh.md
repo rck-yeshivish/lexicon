@@ -114,18 +114,22 @@ surrounds the *garon*, without spelling out what that means.
 **Why a glutton is a gargaran.** The word is clearly built from *gargeres*, the
 windpipe, yet gorging is done with the *veshet* (*Taharos* 7:9; Targum to Eichah
 1:11; and in the extended sense of any indulger of appetites, *Niddah* 10:8).
-Four answers. Rabbi Yom Tov Lipmann Heller (*Tosafos Yom Tov* to *Taharos* 7:9):
-he is so taken with his food that he wishes he could eat through his *gargeres*
-too. Rabbi Binyamin Mussafia: in his zeal he is liable to choke, sending food
-down the wrong pipe. Rabbi Klein's own suggestion: he works his food pipe as
-constantly as a man uses his windpipe to breathe. Rabbi Meir Batzri of Beitar Illit: while
-swallowing he cannot breathe, so he negates his *gargeres*; Rabbi Klein notes
-this may be alluded to in Rambam's commentary to the Mishnah there, which
-seemingly mentions the epiglottis (*shipui kova*, the tilted cap that covers the
-*gargeres* while one eats) together with the *gargaran* (see also *Tosafos Yom
-Tov* and Rabbi Yaakov Emden's *Lechem Shamayim* there). The same difficulty
-attaches to *hana'as grono*, the benefit a man's *garon* takes from what he eats
-(*Chullin* 103b).
+Four answers.
+- Rabbi Yom Tov Lipmann Heller (*Tosafos Yom Tov* to *Taharos* 7:9): he is so
+  taken with his food that he wishes he could eat through his *gargeres* too.
+- Rabbi Binyamin Mussafia: in his zeal he is liable to choke, sending food down
+  the wrong pipe.
+- Rabbi Klein's own suggestion: he works his food pipe as constantly as a man
+  uses his windpipe to breathe.
+- Rabbi Meir Batzri of Beitar Illit: while swallowing he cannot breathe, so he
+  negates his *gargeres*; Rabbi Klein notes this may be alluded to in Rambam's
+  commentary to the Mishnah there, which seemingly mentions the epiglottis
+  (*shipui kova*, the tilted cap that covers the *gargeres* while one eats)
+  together with the *gargaran* (see also *Tosafos Yom Tov* and Rabbi Yaakov
+  Emden's *Lechem Shamayim* there).
+
+The same difficulty attaches to *hana'as grono*, the benefit a man's *garon*
+takes from what he eats (*Chullin* 103b).
 
 ## Distinctions
 

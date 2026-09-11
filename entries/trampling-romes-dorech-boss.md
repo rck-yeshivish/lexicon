@@ -55,21 +55,25 @@ Pappenheim takes *romes* as treading on what is meant to be walked on. Tehillim
 
 ## Where the authorities disagree
 
-**Whether ר-מ-ס and ר-מ-ש are one root.** All the classical lexicographers (Ibn Saruk,
-Ibn Janach, Ibn Parchon, Radak) trace *romes* to ר-מ-ס. Rabbi Yosef Kimchi (*Sefer
-HaGalui*) and his son Radak (*Sefer HaShorashim*) explain that ר-מ-ס is related to
-ר-מ-ש, samech and sin interchanging, but do not quite explain how the connection works
-out thematically. It seems that Ibn Saruk, Ibn Janach and Ibn Parchon do not agree,
-since they list ר-מ-ש separately, while the Kimchis conflate the two. Ramban (to
-Bereishis 1:24) explains that creeping creatures use their entire body to tread over the
-ground, so their very essence relates to treading; hence, Rabbi Klein says, *remes* is
-associated with *romes*. Rav Hirsch (to Bereishis 1:21) also recognizes a connection but
-understands it differently: since samech, sin and zayin can sometimes interchange, ר-מ-ס, ר-מ-ש and
-ר-מ-ז all refer to treading at varying degrees of intensity. ר-מ-ס is trampling with the
-full force of the body to destroy what lies beneath; ר-מ-ש a lighter form, the way bugs, typically short
-and lightweight, walk on the ground without causing as much damage; and ר-מ-ז, the root
-of *remez*, which he takes primarily as winking, the upper eyelid touching the lower as a
-foot treads the ground, a much less intense and more subtle form of the action.
+**Whether ר-מ-ס and ר-מ-ש are one root.** All the classical lexicographers (Ibn
+Saruk, Ibn Janach, Ibn Parchon, Radak) trace *romes* to ר-מ-ס.
+- Rabbi Yosef Kimchi (*Sefer HaGalui*) and his son Radak (*Sefer HaShorashim*)
+  explain that ר-מ-ס is related to ר-מ-ש, samech and sin interchanging, but do
+  not quite explain how the connection works out thematically.
+- It seems that Ibn Saruk, Ibn Janach and Ibn Parchon do not agree, since they
+  list ר-מ-ש separately, while the Kimchis conflate the two.
+- Ramban (to Bereishis 1:24) explains that creeping creatures use their entire
+  body to tread over the ground, so their very essence relates to treading;
+  hence, Rabbi Klein says, *remes* is associated with *romes*.
+- Rav Hirsch (to Bereishis 1:21) also recognizes a connection but understands it
+  differently: since samech, sin and zayin can sometimes interchange, ר-מ-ס,
+  ר-מ-ש and ר-מ-ז all refer to treading at varying degrees of intensity. ר-מ-ס
+  is trampling with the full force of the body to destroy what lies beneath;
+  ר-מ-ש a lighter form, the way bugs, typically short and lightweight, walk on
+  the ground without causing as much damage; and ר-מ-ז, the root of *remez*,
+  which he takes primarily as winking, the upper eyelid touching the lower as a
+  foot treads the ground, a much less intense and more subtle form of the
+  action.
 
 **What separates romes from dorech.** Malbim: *dorech* is a neutral term, treading or
 walking over a threshold; *romes* implies walking in a destructive, damaging way. So he
@@ -81,18 +85,21 @@ by ignoring one letter of the root: *derech* from *rach*, soft ground that a man
 into a path for others, *romes* from *ram*, ground higher than usual, which needs more
 force to stomp flat and fashion a path. Both readings stand.
 
-**Whether boss is a distinct word.** Rabbi Klein observes that *boss* is used in very much
-the same ways as the other two, and Rashi, explaining Tehillim 60:14, equates *boss* with
-*romes* (see also Rashi to Tehillim 44:6, Yeshayahu 14:25 and Mishlei 27:7).
-Pappenheim draws a line: *romes* is treading on something meant to be walked on and
-usually walked on, *boss* on something not necessarily already destined to be trodden
-on, so that the act registers the walker's feeling that it is not important enough to
-avoid stepping on. Tedeschi expresses a similar sentiment, relating
-*boss* to *boz*/*bizayon* by the interchange of samech and zayin: stepping on something
-to show disgust with it and besmirch it. On its root: the
-triliteralists, such as Ibn Chayyuj, Ibn Janach and Radak, give ב-ו-ס; the biliteral Ibn
-Saruk gives ב-ס, and Pappenheim, following the biliteralist approach after a fashion,
-does the same.
+**Whether boss is a distinct word.**
+- Rabbi Klein observes that *boss* is used in very much the same ways as the
+  other two, and Rashi, explaining Tehillim 60:14, equates *boss* with *romes*
+  (see also Rashi to Tehillim 44:6, Yeshayahu 14:25 and Mishlei 27:7).
+- Pappenheim draws a line: *romes* is treading on something meant to be walked
+  on and usually walked on, *boss* on something not necessarily already destined
+  to be trodden on, so that the act registers the walker's feeling that it is
+  not important enough to avoid stepping on.
+- Tedeschi expresses a similar sentiment, relating *boss* to *boz*/*bizayon* by
+  the interchange of samech and zayin: stepping on something to show disgust
+  with it and besmirch it.
+
+On its root: the triliteralists, such as Ibn Chayyuj, Ibn Janach and Radak, give
+ב-ו-ס; the biliteral Ibn Saruk gives ב-ס, and Pappenheim, following the
+biliteralist approach after a fashion, does the same.
 
 ## Distinctions
 

@@ -92,17 +92,21 @@ Chanah asks that her son be neither too *tzachor* nor too ruddy, explain it as
 white, and Sotah 12a explains Miriam's name Tzochar from *tzahar*, noon,
 because her face shone.
 
-**What chelbon wine is.** Rashi: white wine, by its color, which lines up with
-Rabbinic *chelbon* for egg white; these readings seemingly take *chelbon* from
-*chalav*, both being white (and *chelbon* is seemingly the source of the name
-Chelbo borne by several sages). The Peshitta, and Rashi in the name of
-Menachem (*Machberes Menachem*), read it as fatty or oily, a way of saying the
-wine was of especially good quality, which seems to relate it to *cheilev*.
-Radak: a place-name, an area in Aram that produced quality wine, which Rabbi
-Tedeschi identifies as Chalab, also known as Aleppo or Aram Tzova. A
-tradition, cited by a twelfth-century rabbi, holds that Aleppo was called Chalab because Avraham grazed
-his livestock there and gave out milk to the poor. Rabbi Aharon Marcus notes
-that Targum Yonasan renders *chelbon* wine *chamar cheilat*, sweet wine (see below).
+**What chelbon wine is.**
+- Rashi: white wine, by its color, which lines up with Rabbinic *chelbon* for
+  egg white; these readings seemingly take *chelbon* from *chalav*, both being
+  white (and *chelbon* is seemingly the source of the name Chelbo borne by
+  several sages).
+- The Peshitta, and Rashi in the name of Menachem (*Machberes Menachem*), read
+  it as fatty or oily, a way of saying the wine was of especially good quality,
+  which seems to relate it to *cheilev*.
+- Radak: a place-name, an area in Aram that produced quality wine, which Rabbi
+  Tedeschi identifies as Chalab, also known as Aleppo or Aram Tzova. A
+  tradition, cited by a twelfth-century rabbi, holds that Aleppo was called
+  Chalab because Avraham grazed his livestock there and gave out milk to the
+  poor.
+- Rabbi Aharon Marcus notes that Targum Yonasan renders *chelbon* wine *chamar
+  cheilat*, sweet wine (see below).
 
 ## Distinctions
 

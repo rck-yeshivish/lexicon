@@ -37,39 +37,45 @@ axis: *ratzon* can name means as well as ends, *chefetz* only the final goal.
 ## Distinctions
 
 ### ratzon (רצון)
-Root ר-צ-ה. Rabbi Aharon Marcus (1843 to 1916) ties it to *ratz*, running: a
-man runs with greater determination and resolve toward what he wants; the
-Midrash (Bereishis Rabbah 5:8) folds *eretz*, *ratz* and *ratzon* into one
-idea, the Land running to do Hashem's will until He told it to stop. Rabbi
-Pappenheim: *ratzon* is a simple "want," the milder of the pair. Malbim:
-*ratzon* is the mind's intellectual wanting, the exercise of free choice, and
-so usually positive; since a man in his right mind would never choose to want
-what is bad for him, *ratzon* always names a good and noble wanting. The same
-word means appeasement, an attempt to sway another's free choice. Rabbi
-Margolios (*Beis Middos*): *ratzon* is the innate desire to do good. Rabbi
-Edel: *ratzon* covers both the means to an end and the end itself. Rabbi Klein
-draws the consequence that the mitzvos, called *retzon Hashem*, would on Rabbi Edel's
-view be means to Hashem's ends, and finds the point in the Mishnah (Makkos
-3:16), where Rabbi Chananya ben Akashya cites Yeshayahu 42:21: Hashem's final
-will (*chefetz*), to give Yisrael merit, fuels His intermediate will (*ratzon*),
-the mitzvos. Aramaic *raavon* (the Hebrew tzadi commonly becomes an ayin);
-Targum Onkelos uses it for *cheshek* (Bereishis 34:8; Devarim 21:11) and
-*chefetz* (Bereishis 34:19; Devarim 21:14, 25:8).
+Root ר-צ-ה.
+- Rabbi Aharon Marcus (1843 to 1916) ties it to *ratz*, running: a man runs with
+  greater determination and resolve toward what he wants; the Midrash (Bereishis
+  Rabbah 5:8) folds *eretz*, *ratz* and *ratzon* into one idea, the Land running
+  to do Hashem's will until He told it to stop.
+- Rabbi Pappenheim: *ratzon* is a simple "want," the milder of the pair.
+- Malbim: *ratzon* is the mind's intellectual wanting, the exercise of free
+  choice, and so usually positive; since a man in his right mind would never
+  choose to want what is bad for him, *ratzon* always names a good and noble
+  wanting. The same word means appeasement, an attempt to sway another's free
+  choice.
+- Rabbi Margolios (*Beis Middos*): *ratzon* is the innate desire to do good.
+- Rabbi Edel: *ratzon* covers both the means to an end and the end itself. Rabbi
+  Klein draws the consequence that the mitzvos, called *retzon Hashem*, would on
+  Rabbi Edel's view be means to Hashem's ends, and finds the point in the
+  Mishnah (Makkos 3:16), where Rabbi Chananya ben Akashya cites Yeshayahu 42:21:
+  Hashem's final will (*chefetz*), to give Yisrael merit, fuels His intermediate
+  will (*ratzon*), the mitzvos.
+
+Aramaic *raavon* (the Hebrew tzadi commonly becomes an ayin); Targum Onkelos
+uses it for *cheshek* (Bereishis 34:8; Devarim 21:11) and *chefetz* (Bereishis
+34:19; Devarim 21:14, 25:8).
 
 ### chefetz (חפץ)
-Root ח-פ-ץ. A number of commentators: the stronger, more physical desire, where
-*ratzon* is the subtler wish to do right. Rabbi Pappenheim: a strong-willed
-wanting that cannot be as easily suppressed. Rabbi Tzvi Yehuda Kook (1891 to
-1982), similarly: stronger because closer to perceivable reality and less
-abstract than *ratzon*; hence Mishnaic *chafetzim* for all tangible objects
-(Rashi to Koheles 3:1). Rabbi Aharon Yehuda Leib Margolios of Frankfurt (d.
-1811), along similar lines: generally the animal, bodily drive; לעשות רצונך
-אלקי חפצתי (Tehillim 40:9) means the man has taken Hashem's will as something
-he wants on a behavioral level, harnessing that more powerful drive to it.
-Malbim: the soul's emotional desire, felt without consciously choosing it, so
-it can drive one to want what is bad (Yeshayahu 66:3) and can trump one's true
-*ratzon*, as with the brother whose emotions make him "not want" (*chafetz*) to
-perform yibum (Devarim 25:7-8; Rus 3:13).
+Root ח-פ-ץ.
+- A number of commentators: the stronger, more physical desire, where *ratzon*
+  is the subtler wish to do right.
+- Rabbi Pappenheim: a strong-willed wanting that cannot be as easily suppressed.
+- Rabbi Tzvi Yehuda Kook (1891 to 1982), similarly: stronger because closer to
+  perceivable reality and less abstract than *ratzon*; hence Mishnaic
+  *chafetzim* for all tangible objects (Rashi to Koheles 3:1).
+- Rabbi Aharon Yehuda Leib Margolios of Frankfurt (d. 1811), along similar
+  lines: generally the animal, bodily drive; לעשות רצונך אלקי חפצתי (Tehillim
+  40:9) means the man has taken Hashem's will as something he wants on a
+  behavioral level, harnessing that more powerful drive to it.
+- Malbim: the soul's emotional desire, felt without consciously choosing it, so
+  it can drive one to want what is bad (Yeshayahu 66:3) and can trump one's true
+  *ratzon*, as with the brother whose emotions make him "not want" (*chafetz*)
+  to perform yibum (Devarim 25:7-8; Rus 3:13).
 
 Rabbi Avraham Bedersi HaPenini (1230 to 1300) takes issue with those who, like
 Malbim, make *chefetz* an unchosen want: Tanach speaks of Hashem as *chafetz*

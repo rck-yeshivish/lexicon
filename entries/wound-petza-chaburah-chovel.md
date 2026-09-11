@@ -93,21 +93,22 @@ fit other commentators.
 ### petza (פצע)
 Root technically פ-צ-ע, but often derived from פ-צ-ה, *potzeh*, "to open," on
 the interchange of ayin and hei: the ground opened for Kayin's burial (Bereishis
-4:11) and to swallow Korach's men (Devarim 11:6). Malbim, Rabbi Wertheimer,
-Rabbi Moshe Ashkenazi-Tedeschi (*Otzar Nirdafim* §27) and Rav Hirsch (to
-Bereishis 4:11, Shemos 21:25) take it so, and Rav Hirsch notes that both are a
-*forced* opening, the ground having no more choice than the man left with a
-*petza*. The maskilic scholar Yitzchak Ber Levinsohn (1788 to 1860), in
-*Shorashei Levanon*, relates *petza* to *botzea*, "cut open," as bread is cut in
-Rabbinic Hebrew, on the interchange of the labials pei and beis. Ibn Janach and
-Radak define *petza* with *bokea*, "breaking open"; though they do not say so,
-Rabbi Klein suggests they may have seen the two as related, through pei and
-beis and through the neighbouring tzadi and kuf. Rabbi David Chaim Chelouche
-(1920 to 2016), the late Chief Rabbi of Netanya, connects *petza* with ב-ז-ע,
-*baza*, "to cut," in Aramaic and Arabic. Rav Hirsch elsewhere (to Shemos 18:21)
-ties *petza* to *betza*, "bribe," on the interchange of pei and beis: each gains
-the advantage in a zero-sum encounter, the bribe in court and the wound in
-combat.
+4:11) and to swallow Korach's men (Devarim 11:6).
+- Malbim, Rabbi Wertheimer, Rabbi Moshe Ashkenazi-Tedeschi (*Otzar Nirdafim*
+  §27) and Rav Hirsch (to Bereishis 4:11, Shemos 21:25) take it so, and Rav
+  Hirsch notes that both are a *forced* opening, the ground having no more
+  choice than the man left with a *petza*.
+- The maskilic scholar Yitzchak Ber Levinsohn (1788 to 1860), in *Shorashei
+  Levanon*, relates *petza* to *botzea*, "cut open," as bread is cut in Rabbinic
+  Hebrew, on the interchange of the labials pei and beis.
+- Ibn Janach and Radak define *petza* with *bokea*, "breaking open"; though they
+  do not say so, Rabbi Klein suggests they may have seen the two as related,
+  through pei and beis and through the neighbouring tzadi and kuf.
+- Rabbi David Chaim Chelouche (1920 to 2016), the late Chief Rabbi of Netanya,
+  connects *petza* with ב-ז-ע, *baza*, "to cut," in Aramaic and Arabic.
+- Rav Hirsch elsewhere (to Shemos 18:21) ties *petza* to *betza*, "bribe," on
+  the interchange of pei and beis: each gains the advantage in a zero-sum
+  encounter, the bribe in court and the wound in combat.
 
 ### chaburah (חבורה)
 Rashi: blood collected beneath an unbroken surface. Yirmiyahu 13:23 asks whether

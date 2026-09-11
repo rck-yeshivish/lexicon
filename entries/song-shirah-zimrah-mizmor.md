@@ -35,21 +35,25 @@ the *shir*/*zemer* pair as one such nuance.
 ## Distinctions
 
 ### shir / shirah (שיר, שירה)
-Root ש-י-ר. The simplest way of telling the two apart is that
-*shirah* is verbal song and *zimrah* instrumental music, a reading proffered by
-a bevy of authorities including Ibn Ezra (Tehillim 105:2), Radak (Divrei HaYamim
-I 16:9), Sforno (Tehillim 105:2), the Vilna Gaon (cited in his son's *Be'er
-Avraham* to Tehillim 27:6), Rav Hirsch (Tehillim 33:2) and Rabbi Shlomo Aharon
-Wertheimer. Malbim: the more general term, taking in song both in a religious
-and in a secular sense. Rabbi Yehuda Leib Edel (1760-1828): simply an expression
-of one's happiness, without necessarily tying it back to its Source. Rabbi Yaakov
-Tzvi Mecklenburg (1785-1865): the lyrics of poetic verse without the tune. Rabbi
-Yitzchak Hutner (1906-1980): praise of Hashem from a position of rapture and
-attachment to Him, that is, His immanence. The Maharal of Prague (1520-1609):
-*shirah* is a thing whose beginning is attached to its end, as a *sher* is a
-bracelet (Yeshayahu 3:19), an animal's collar (Shabbos 5:1), or coins found
-arranged in a ring (Bava Metzia 25a); song comes at the completion of a phase or
-task, since happiness comes through completion, and then one gives thanks.
+Root ש-י-ר.
+- The simplest way of telling the two apart is that *shirah* is verbal song and
+  *zimrah* instrumental music, a reading proffered by a bevy of authorities
+  including Ibn Ezra (Tehillim 105:2), Radak (Divrei HaYamim I 16:9), Sforno
+  (Tehillim 105:2), the Vilna Gaon (cited in his son's *Be'er Avraham* to
+  Tehillim 27:6), Rav Hirsch (Tehillim 33:2) and Rabbi Shlomo Aharon Wertheimer.
+- Malbim: the more general term, taking in song both in a religious and in a
+  secular sense.
+- Rabbi Yehuda Leib Edel (1760-1828): simply an expression of one's happiness,
+  without necessarily tying it back to its Source.
+- Rabbi Yaakov Tzvi Mecklenburg (1785-1865): the lyrics of poetic verse without
+  the tune.
+- Rabbi Yitzchak Hutner (1906-1980): praise of Hashem from a position of rapture
+  and attachment to Him, that is, His immanence.
+- The Maharal of Prague (1520-1609): *shirah* is a thing whose beginning is
+  attached to its end, as a *sher* is a bracelet (Yeshayahu 3:19), an animal's
+  collar (Shabbos 5:1), or coins found arranged in a ring (Bava Metzia 25a);
+  song comes at the completion of a phase or task, since happiness comes through
+  completion, and then one gives thanks.
 
 Rabbi Moshe Shapiro (1935-2017): only with the hindsight of completion, where
 the beginning can be attached to the end, is song fitting, not beforehand; and
@@ -83,27 +87,29 @@ materialism.
 
 ### zemer / zimrah (זמר, זמרה)
 Root ז-מ-ר, which in the verb *zomer* also means cutting down or pruning
-(Vayikra 25:3; one of the 39 melachos). The bevy of authorities above:
-instrumental music. The Yiddish *klezmer* is a portmanteau of
-*klei* (instruments) and *zemer* (music). Malbim: somehow a higher, more intense
-form of song than *shirah*, which is why whenever the two appear in tandem
-*shirah* comes first and *zemer* second; and, in what is
-possibly a separate explanation, the specifically religious song that speaks of
-Hashem's praises. Edel, similarly: *zimrah* is always a means of acknowledging
-Hashem's part in bringing the happiness and thanking Him for it. Mecklenburg: the
-tune or melody, whether sung or played on an instrument. Rabbi Hutner: praise of
-Hashem as an appreciation of His transcendence and how far He is from man; and
-since *zimrah* is also a verb for cutting, a man who recognizes that
-unapproachable transcendence is in effect cutting off his own existence, his
-being paling beside Hashem's infinite greatness. Rabbi Elimelech of Lizhensk in
-*Noam Elimelech* (to Bereishis 47:28, Shemos 19:1): *zimrah* is cutting away the
-outer distractions that impede a man's avodah; and both he and the Chasam Sofer
-explain Pesukei DeZimrah as cutting down the *klipos* in preparation for
-complete rapture with Hashem. Pappenheim: *zomer*, cutting or pruning, is
-discarding the riffraff and leaving the best, so *zimrah* is the choicest segment
-of a song, as though the rest had been cut out. Analak: *zimrah* does not imply
-the whole edifice but one small part of it, one segment standing independent or
-cut off from the rest.
+(Vayikra 25:3; one of the 39 melachos).
+- The bevy of authorities above: instrumental music. The Yiddish *klezmer* is a
+  portmanteau of *klei* (instruments) and *zemer* (music).
+- Malbim: somehow a higher, more intense form of song than *shirah*, which is
+  why whenever the two appear in tandem *shirah* comes first and *zemer* second;
+  and, in what is possibly a separate explanation, the specifically religious
+  song that speaks of Hashem's praises.
+- Edel, similarly: *zimrah* is always a means of acknowledging Hashem's part in
+  bringing the happiness and thanking Him for it.
+- Mecklenburg: the tune or melody, whether sung or played on an instrument.
+- Rabbi Hutner: praise of Hashem as an appreciation of His transcendence and how
+  far He is from man; and since *zimrah* is also a verb for cutting, a man who
+  recognizes that unapproachable transcendence is in effect cutting off his own
+  existence, his being paling beside Hashem's infinite greatness.
+- Rabbi Elimelech of Lizhensk in *Noam Elimelech* (to Bereishis 47:28, Shemos
+  19:1): *zimrah* is cutting away the outer distractions that impede a man's
+  avodah; and both he and the Chasam Sofer explain Pesukei DeZimrah as cutting
+  down the *klipos* in preparation for complete rapture with Hashem.
+- Pappenheim: *zomer*, cutting or pruning, is discarding the riffraff and
+  leaving the best, so *zimrah* is the choicest segment of a song, as though the
+  rest had been cut out.
+- Analak: *zimrah* does not imply the whole edifice but one small part of it,
+  one segment standing independent or cut off from the rest.
 
 Rabbi Frances, on the other side of the pair: when Yaakov sent his sons down to
 Mitzrayim for food in the famine he sent with them the *zimras* of the land of

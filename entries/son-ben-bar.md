@@ -70,20 +70,22 @@ The Aramaic for daughter is *barat*, but the Targumim tend to leave the Hebrew
 *bas* untranslated (Rabbi Eliyahu HaBachur, *Meturgaman*), so *bas* serves in
 Aramaic too; hence *bas mitzvah* even in an Aramaic phrase. Why is the boy a
 *bar mitzvah* rather than a *ben mitzvah*? Different sources offer three
-possible lessons the word *bar* may be teaching him. Rabbi David Ovadiah of
-Tiberias, a nephew of Rabbi Ovadiah Yosef, in the name of Rabbi Meir Simcha of
-Dvinsk (1843-1926): because *bar* also means outside, teaching the boy that he
-now stands outside, on the threshold of entering adult life, and at that fateful
-juncture has the capacity to decide which path he takes. The late Rabbi
-Alexander Sender Feuerstein of London: the Aramaic word conveys that he must
-master not only the whole Written Torah, mostly written in Hebrew, but the Oral
-Torah, mostly written in Aramaic. Rabbi Meir Mintzberg, son-in-law of the late
-Rabbi Leib Mintzberg, the leader of the Yerushalmi "Masmidim," takes a different
-approach: like Rabbi Pappenheim he reads *ben* from building and producing, the
-son as the product of his parents' building and nurturing, and *bar* as the
-opposite connotation, the son as separate and independent of them, which is
-what the day marks, that his growth is no longer in the hands of the
-parents who built him up but is now his own responsibility.
+possible lessons the word *bar* may be teaching him.
+- Rabbi David Ovadiah of Tiberias, a nephew of Rabbi Ovadiah Yosef, in the name
+  of Rabbi Meir Simcha of Dvinsk (1843-1926): because *bar* also means outside,
+  teaching the boy that he now stands outside, on the threshold of entering
+  adult life, and at that fateful juncture has the capacity to decide which path
+  he takes.
+- The late Rabbi Alexander Sender Feuerstein of London: the Aramaic word conveys
+  that he must master not only the whole Written Torah, mostly written in
+  Hebrew, but the Oral Torah, mostly written in Aramaic.
+- Rabbi Meir Mintzberg, son-in-law of the late Rabbi Leib Mintzberg, the leader
+  of the Yerushalmi "Masmidim," takes a different approach: like Rabbi
+  Pappenheim he reads *ben* from building and producing, the son as the product
+  of his parents' building and nurturing, and *bar* as the opposite connotation,
+  the son as separate and independent of them, which is what the day marks, that
+  his growth is no longer in the hands of the parents who built him up but is
+  now his own responsibility.
 
 ### Rashbi, "Rabbi Shimon" and "Rabbi Shimon ben/bar Yochai"
 A question for Lag B'Omer: is Rashbi Rabbi Shimon *bar* Yochai or *ben* Yochai?

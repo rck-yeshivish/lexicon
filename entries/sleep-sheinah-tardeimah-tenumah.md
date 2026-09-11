@@ -34,23 +34,24 @@ readings stand.
 ## Distinctions
 
 ### sheinah (שינה)
-The triliteral lexicographers, Ibn Chayyuj (945-1000), Ibn Janach (990-1055) and
-Radak (1160-1235), give the root י-ש-נ. Rabbi Yitzchak Zeldin (18th-century
-Germany, *Shoresh Yesha*) notes the root carries both "sleep" and "old" and says
-the two meanings are one and the same; Rabbi Klein calls the remark a bit
-unclear and reads it, tentatively, as Rav Hirsch's point (to Bereishis 24:1),
-that the older a man gets the more his energy is sapped and the more he needs
-sleep. The biliteralist Menachem Ibn Saruk (920-970), in *Machberes Menachem*,
-gives ש-נ, whose core meaning Rabbi Shlomo Pappenheim defines as "doubling"
-(*shnayim*, *shanah* to repeat, *shinun* sharpening by repeated rubbing,
-*shinui* change, *shein* the tooth because most people grow two sets, *shanah*
-the year, *yashan* the old); *sheinah* belongs there because a sleeping man
-rehashes the day's thoughts a second time. Rav Hirsch: *sheinah* is ordinary
-sleep, the senses weakened and languid but not wholly severed, and he groups
-*yashein* with *yashan*, *ishon laylah* (Mishlei 7:9, "the black of night") and
-*ishon bas ayin* (Tehillim 17:8, the pupil), all words for the lack of
-something, sleep being a lack of sentience and animation though not a total
-blackout.
+- The triliteral lexicographers, Ibn Chayyuj (945-1000), Ibn Janach (990-1055)
+  and Radak (1160-1235), give the root י-ש-נ.
+- Rabbi Yitzchak Zeldin (18th-century Germany, *Shoresh Yesha*) notes the root
+  carries both "sleep" and "old" and says the two meanings are one and the same;
+  Rabbi Klein calls the remark a bit unclear and reads it, tentatively, as Rav
+  Hirsch's point (to Bereishis 24:1), that the older a man gets the more his
+  energy is sapped and the more he needs sleep.
+- The biliteralist Menachem Ibn Saruk (920-970), in *Machberes Menachem*, gives
+  ש-נ, whose core meaning Rabbi Shlomo Pappenheim defines as "doubling"
+  (*shnayim*, *shanah* to repeat, *shinun* sharpening by repeated rubbing,
+  *shinui* change, *shein* the tooth because most people grow two sets, *shanah*
+  the year, *yashan* the old); *sheinah* belongs there because a sleeping man
+  rehashes the day's thoughts a second time.
+- Rav Hirsch: *sheinah* is ordinary sleep, the senses weakened and languid but
+  not wholly severed, and he groups *yashein* with *yashan*, *ishon laylah*
+  (Mishlei 7:9, "the black of night") and *ishon bas ayin* (Tehillim 17:8, the
+  pupil), all words for the lack of something, sleep being a lack of sentience
+  and animation though not a total blackout.
 
 Rabbi Aharon Marcus (1843-1916) locates the core of *sheinah* in the letter
 shin alone, which he claims is universally associated in all languages with

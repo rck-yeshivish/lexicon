@@ -47,24 +47,27 @@ not forced into it; see also Radak to II Melachim 9:14.
 
 ### asirah (אסירה)
 Root א-ס-ר, close to ninety appearances. It usually appears of tying a wagon to
-the animal that draws it (Bereishis 46:29, Shemos 14:6, II Melachim 9:21) or tying
-down a captive or detainee (Tehillim 146:7, II Melachim 17:4, Shoftim 16:21).
-Hence *beis ha'asurim*, the jail, literally the house of those tied down
-(Shoftim 16:21, 16:25; Bereishis 39:20, 40:5). *Issur*, a prohibition, is already
-in Chumash, of vows that forbid actions or things (Bamidbar 30:3 to 15); Rabbi
-Klein explains that what is forbidden is as though tied down and made
-inaccessible, and compares the English "my hands are tied." Malbim: the main
-difference from *keshirah* is that *asirah* is done without the consent of what
-is tied, as a captive is tied down against his will; so he relates it to
-*yissurin*, suffering, which likewise comes upon a man against his will, and to
-*issur*, where one's actions may be precluded, by law or by nature, against his
-will. Rabbi Shlomo Pappenheim ties the root to the biliteral samech-reish,
-"removal," since one who is tied down has his freedom of movement removed; that
-the aleph of *assur* is superfluous was already noted by Rabbi Yehuda Ibn
-Chayyuj, who adduces *beis hasurim* (Koheles 4:14) as the equivalent of *beis
-ha'asurim*. Rabbi Yaakov Tzvi Mecklenburg similarly relates *mussar* to tying,
-since it gives a man the ability to tie down his *yetzer hara*. Rabbi Klein
-also raises the notion that *erusin* may be a metathesized form of *asirah*.
+the animal that draws it (Bereishis 46:29, Shemos 14:6, II Melachim 9:21) or
+tying down a captive or detainee (Tehillim 146:7, II Melachim 17:4, Shoftim
+16:21). Hence *beis ha'asurim*, the jail, literally the house of those tied down
+(Shoftim 16:21, 16:25; Bereishis 39:20, 40:5). *Issur*, a prohibition, is
+already in Chumash, of vows that forbid actions or things (Bamidbar 30:3 to 15);
+Rabbi Klein explains that what is forbidden is as though tied down and made
+inaccessible, and compares the English "my hands are tied."
+- Malbim: the main difference from *keshirah* is that *asirah* is done without
+  the consent of what is tied, as a captive is tied down against his will; so he
+  relates it to *yissurin*, suffering, which likewise comes upon a man against
+  his will, and to *issur*, where one's actions may be precluded, by law or by
+  nature, against his will.
+- Rabbi Shlomo Pappenheim ties the root to the biliteral samech-reish,
+  "removal," since one who is tied down has his freedom of movement removed;
+  that the aleph of *assur* is superfluous was already noted by Rabbi Yehuda Ibn
+  Chayyuj, who adduces *beis hasurim* (Koheles 4:14) as the equivalent of *beis
+  ha'asurim*.
+- Rabbi Yaakov Tzvi Mecklenburg similarly relates *mussar* to tying, since it
+  gives a man the ability to tie down his *yetzer hara*.
+- Rabbi Klein also raises the notion that *erusin* may be a metathesized form of
+  *asirah*.
 
 ### ketirah (קטירה)
 Root ק-ט-ר. In Hebrew this root is smoke or incense; in Aramaic it is tying
@@ -81,15 +84,17 @@ the commentators disagree between "smoke" and "tied." And just as Biblical
 speaks of a *katir* behind the appointment of Yehoshua ben Gamla as Kohen Gadol,
 since his wife bribed King Yannai to arrange it.
 
-The name Keturah (Bereishis 25:1), whom rabbinic tradition identifies with Hagar,
-belongs here. *Bereishis Rabbah* 61:4: Hagar "tied herself up" by holding back
-from marrying anyone else, so that she might return to Avraham. According to some
-sources, a second reading, she physically closed herself off so as to remain
-chaste until Avraham took her back (see *Hadar Zekeinim* to Bereishis 25:1).
-Rav Hirsch (to Bereishis 25:1) relates the name to *keshirah*, and goes further,
-connecting her first name Hagar, by the interchange of hei, aleph and ches, to
-*agur* (gathered in) and *chagurah* (a belt), both of something tied or
-inward-looking, cut off from the outside.
+The name Keturah (Bereishis 25:1), whom rabbinic tradition identifies with
+Hagar, belongs here.
+- *Bereishis Rabbah* 61:4: Hagar "tied herself up" by holding back from marrying
+  anyone else, so that she might return to Avraham.
+- According to some sources, a second reading, she physically closed herself off
+  so as to remain chaste until Avraham took her back (see *Hadar Zekeinim* to
+  Bereishis 25:1).
+- Rav Hirsch (to Bereishis 25:1) relates the name to *keshirah*, and goes
+  further, connecting her first name Hagar, by the interchange of hei, aleph and
+  ches, to *agur* (gathered in) and *chagurah* (a belt), both of something tied
+  or inward-looking, cut off from the outside.
 
 ### kafut (כפות)
 Four appearances in the Aramaic of Daniel (3:20 to 24); Rashi explains it once

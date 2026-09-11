@@ -64,19 +64,20 @@ permission and taking (see Shevuos 44b), overpowering his slaves or animals and
 making them work (see Bava Kamma 97a), going into his field and eating his
 produce (see Bava Basra 38a).
 
-Ernest Klein (no relation to Rabbi Reuven Chaim Klein) relates *gezel* to the
-Arabic *jazala*, "cut off," a violent ripping of the object out of its rightful
-owner's hands. Rabbi Shlomo Pappenheim and others give the two-letter ג-ז the
-sense of shaving or trimming, a cut that leaves some parts attached and some
-detached: *geiz* (the grass left after trimming, Tehillim 72:6), *gozez*
-(shearing, Bereishis 31:19, 38:12), *gazam* (a locust that eats some produce and
-leaves the rest), *geza* (a tree with its top cut off), *gazis* (hewn stone).
-Rabbi Pappenheim does not explicitly connect *gezel* to this root, since the
-lamed does not fit his theory; Rabbi Reuven Chaim Klein argues it fits all the
-same, robbery taking one possession while leaving the rest intact. Similarly, Rav Hirsch (to Shemos
-23:19): *gozel*, a fledgling, is cognate with *gezel*, because taking the bird
-from the nest severs its bond with its mother as theft severs the bond between
-an object and its owner.
+- Ernest Klein (no relation to Rabbi Reuven Chaim Klein) relates *gezel* to the
+  Arabic *jazala*, "cut off," a violent ripping of the object out of its
+  rightful owner's hands.
+- Rabbi Shlomo Pappenheim and others give the two-letter ג-ז the sense of
+  shaving or trimming, a cut that leaves some parts attached and some detached:
+  *geiz* (the grass left after trimming, Tehillim 72:6), *gozez* (shearing,
+  Bereishis 31:19, 38:12), *gazam* (a locust that eats some produce and leaves
+  the rest), *geza* (a tree with its top cut off), *gazis* (hewn stone). Rabbi
+  Pappenheim does not explicitly connect *gezel* to this root, since the lamed
+  does not fit his theory; Rabbi Reuven Chaim Klein argues it fits all the same,
+  robbery taking one possession while leaving the rest intact.
+- Similarly, Rav Hirsch (to Shemos 23:19): *gozel*, a fledgling, is cognate with
+  *gezel*, because taking the bird from the nest severs its bond with its mother
+  as theft severs the bond between an object and its owner.
 
 Mnemonic, from Rabbi Reuven Chaim Klein's fifth-grade rebbi, Rabbi A. Y. Berman: the *gaNav*
 steals at **N**ight, when nobody is looking, the *gazLan* in the **L**ight.

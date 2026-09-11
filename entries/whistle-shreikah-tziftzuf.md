@@ -128,23 +128,25 @@ Germanic *piper*/*fifer* repeat a *p*/*f* sound as *tziftzuf* repeats its *f*,
 and that he is convinced English *cheep* is connected to the *tzif* of *tziftzuf*.
 
 ### Whistling as a practice
-The late Lubavitcher Rebbe encouraged his followers to whistle to express
-elated happiness, and perhaps to symbolize, or even bring about, the impending
-*geulah*. Rabbi Klein traces this to the Rashaz, who taught (*Ohr Torah* to
-Bereishis 49:11) that the *shuruk*, the vowel tied to *shreikah*, has three dots
-one below the other because a person should lower himself to the
-self-effacement of recognizing that he is nothing before Hashem, a level said to be reached
-through loving Hashem in the happiness of mitzvos, and which the Rashaz calls the entire
-purpose of the Messianic era. In other chassidic and mussar circles teachers
-commonly chide students not to whistle as a *goyish* practice. Rabbi Efrayim
-Greenblatt (*Rivevos Efrayim* 8:604) knows of no source forbidding it, though
-his cheder teacher told him it was forbidden. The *Chazon Ish* (cited in
-*Orchos Shabbos* ch. 21 fn. 60) said that nowadays whistling is a breach of
-modesty, though in *Aliba D'Hilchasa* (vol. 69 p. 83) Rabbi Chaim Kanievsky is
-quoted as never having heard this from him. Rabbi Klein's teacher Rabbi Yosef
-Yitzchok Lerner (*Shemiras HaGuf VeHaNefesh Tinyana* p. 454) cites a bevy of
-Kabbalistic sources that whistling can arouse harsh judgments, and that the
-arch-heretic Jacob Frank used whistling as evil magic.
+- The late Lubavitcher Rebbe encouraged his followers to whistle to express
+  elated happiness, and perhaps to symbolize, or even bring about, the impending
+  *geulah*. Rabbi Klein traces this to the Rashaz, who taught (*Ohr Torah* to
+  Bereishis 49:11) that the *shuruk*, the vowel tied to *shreikah*, has three
+  dots one below the other because a person should lower himself to the
+  self-effacement of recognizing that he is nothing before Hashem, a level said
+  to be reached through loving Hashem in the happiness of mitzvos, and which the
+  Rashaz calls the entire purpose of the Messianic era.
+- In other chassidic and mussar circles teachers commonly chide students not to
+  whistle as a *goyish* practice.
+- Rabbi Efrayim Greenblatt (*Rivevos Efrayim* 8:604) knows of no source
+  forbidding it, though his cheder teacher told him it was forbidden.
+- The *Chazon Ish* (cited in *Orchos Shabbos* ch. 21 fn. 60) said that nowadays
+  whistling is a breach of modesty, though in *Aliba D'Hilchasa* (vol. 69 p. 83)
+  Rabbi Chaim Kanievsky is quoted as never having heard this from him.
+- Rabbi Klein's teacher Rabbi Yosef Yitzchok Lerner (*Shemiras HaGuf VeHaNefesh
+  Tinyana* p. 454) cites a bevy of Kabbalistic sources that whistling can arouse
+  harsh judgments, and that the arch-heretic Jacob Frank used whistling as evil
+  magic.
 
 ## Rendering guidance
 

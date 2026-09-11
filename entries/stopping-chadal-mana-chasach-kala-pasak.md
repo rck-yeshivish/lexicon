@@ -63,19 +63,21 @@ keeps its own connotation in most, not all, of its appearances.
 
 ## Where the authorities disagree
 
-**Chasach: before or during.** Rabbi Yosef Grayever of Ostrow (1808 to 1898):
-*pasak* stops a thing in the middle, once begun, while *chasach* stops it from
-starting in the first place. Rabbi Shlomo Aharon Wertheimer (1866 to 1935),
-contrary to Grayever: *chasach* stops in the middle something already
-under way. Potiphar had already begun handing his household over to Yosef, so
-keeping back his wife (Bereishis 39:9) was not an absolute withholding but an
-interruption; and *v'lo chasachta es bincha* (Bereishis 22:12) is said to
-Avraham, who had already begun giving over to Hashem everything he had.
-Rabbi Shlomo Pappenheim (1740 to 1814) frames it differently: *chasach* stops an
-act that the laws of morality or nature say should be stopped, so that it is in
-a sense an antonym of *mana*, and he derives it from ח-ס (caring) with ס-כ
-(protection), one who stops another from a reprehensible act. Malbim explicitly
-follows him that *chasach* names an impediment from outside the actor.
+**Chasach: before or during.**
+- Rabbi Yosef Grayever of Ostrow (1808 to 1898): *pasak* stops a thing in the
+  middle, once begun, while *chasach* stops it from starting in the first place.
+- Rabbi Shlomo Aharon Wertheimer (1866 to 1935), contrary to Grayever: *chasach*
+  stops in the middle something already under way. Potiphar had already begun
+  handing his household over to Yosef, so keeping back his wife (Bereishis 39:9)
+  was not an absolute withholding but an interruption; and *v'lo chasachta es
+  bincha* (Bereishis 22:12) is said to Avraham, who had already begun giving
+  over to Hashem everything he had.
+- Rabbi Shlomo Pappenheim (1740 to 1814) frames it differently: *chasach* stops
+  an act that the laws of morality or nature say should be stopped, so that it
+  is in a sense an antonym of *mana*, and he derives it from ח-ס (caring) with
+  ס-כ (protection), one who stops another from a reprehensible act. Malbim
+  explicitly follows him that *chasach* names an impediment from outside the
+  actor.
 
 **Mana: from within or from outside.** Grayever: *mana* is stopping by conscious
 decision, not from inability. Wertheimer: willful and total. Pappenheim: *mana*
@@ -91,16 +93,18 @@ the nature of the person or thing, from *kele*, a jail, forcibly detained; the
 nature of rain is to fall, so when it stopped at the Mabul's end it was as
 though Hashem had detained it (Bereishis 8:2).
 
-**Chadal: unable, or unwilling.** Grayever grounds it in inability, whether
-from nature or from law. Wertheimer qualifies: in the future form with *vav
-hahipuch*, *v'chadal*, it means one who plans in advance not to act though he
-could, which is why it is used of one who deliberately fails to bring the korban
-Pesach (Bamidbar 9:13) or to help his enemy's collapsing donkey (Shemos 23:5).
-Pappenheim holds the word neutral, with no judgment of good or bad, and locates
-the cause in the person himself, without outside interference; Malbim, like
-him, contrasts *chasach* with *chadal*, whose impediment comes from the person
-himself, whether on purpose or not. Rabbi Yaakov Toledano (below) takes *chadal*
-to mean specifically a willful decision to stop.
+**Chadal: unable, or unwilling.**
+- Grayever grounds it in inability, whether from nature or from law.
+- Wertheimer qualifies: in the future form with *vav hahipuch*, *v'chadal*, it
+  means one who plans in advance not to act though he could, which is why it is
+  used of one who deliberately fails to bring the korban Pesach (Bamidbar 9:13)
+  or to help his enemy's collapsing donkey (Shemos 23:5).
+- Pappenheim holds the word neutral, with no judgment of good or bad, and
+  locates the cause in the person himself, without outside interference; Malbim,
+  like him, contrasts *chasach* with *chadal*, whose impediment comes from the
+  person himself, whether on purpose or not.
+- Rabbi Yaakov Toledano (below) takes *chadal* to mean specifically a willful
+  decision to stop.
 
 **How Onkelos handles them.** The nuances seem exclusive to Hebrew, Rabbi Klein
 says, and the Targumim do not keep them: Onkelos renders *chasach* as *mana*

@@ -94,16 +94,18 @@ relevance, whether by thanking Hashem for the benefit of those events or by
 tying the narrative to mitzvos in force.
 
 ### sippur / misaper (ספור, מספר)
-**General.** Radak (*Sefer HaShorashim*): *sippur* relates what already
-happened or was already told; others allow it for new information as well.
-Either way it does not *specify* novelty. Rabbi Bergmann: *haggadah* shows how a
-past event is still relevant, *sippur* simply relates a past event. In that
-spirit, Malbim: *haggadah* is telling something relevant to the listener,
-*misaper* telling a story not necessarily directly related to him. Rabbi Shlomo
-Aharon Wertheimer draws the line at how the speaker knows it: *haggadah* is
-relaying what he directly experienced, heard or saw himself, while *sippur* is
-the general word for relating any story, even a dream, that he did not
-physically perceive.
+**General.**
+- Radak (*Sefer HaShorashim*): *sippur* relates what already happened or was
+  already told; others allow it for new information as well. Either way it does
+  not *specify* novelty.
+- Rabbi Bergmann: *haggadah* shows how a past event is still relevant, *sippur*
+  simply relates a past event.
+- In that spirit, Malbim: *haggadah* is telling something relevant to the
+  listener, *misaper* telling a story not necessarily directly related to him.
+- Rabbi Shlomo Aharon Wertheimer draws the line at how the speaker knows it:
+  *haggadah* is relaying what he directly experienced, heard or saw himself,
+  while *sippur* is the general word for relating any story, even a dream, that
+  he did not physically perceive.
 
 **Wholeness.** Rav Moshe Shapiro: everything from ס-פ-ר is interrelated, and
 *sippur* is joining many details into a single whole, the "story." A *sefer*
@@ -126,21 +128,23 @@ time and more." Rabbi Klein suggests he perhaps means a story intended to be
 told many times, one instance in a series, which fits *sippur yetzias Mitzrayim*,
 retold every year.
 
-**Why Chazal chose it.** Rabbi Klein's answer: from the Torah's perspective the
-telling was of something new, the story still unfolding, hence *v'higadta*;
-from Chazal's, it had been repeated for generations and was to be passed on,
-hence *misaper*. Rabbi Yechiel Michel
-Feinstein, a son-in-law of the Brisker Rav, finds the precedent in Shemos 10:2,
-where the purpose of the hardening of Pharaoh's heart and the miracles is
-*l'maan tesaper* to your children, that they may know Hashem. Because that is
-the ultimate purpose, Chazal built the name of the mitzvah on it; the Torah's
-*v'higadta* teaches only *how* to tell, not the purpose. Rabbi Mecklenburg
-offers a similar explanation: a hallmark of *sippur* is explaining something
-clearly, and the word is related to *sapir*, the blue gem. Hashem's
-administration of the world is like the clear blue sky, sometimes clouded when
-the wicked obscure His role; spelling it out clearly clears the clouds away.
-According to this, the term *sippur* fits the telling of the Exodus, because
-presenting the whole story shows how Hashem oversees all of creation.
+**Why Chazal chose it.**
+- Rabbi Klein's answer: from the Torah's perspective the telling was of
+  something new, the story still unfolding, hence *v'higadta*; from Chazal's, it
+  had been repeated for generations and was to be passed on, hence *misaper*.
+- Rabbi Yechiel Michel Feinstein, a son-in-law of the Brisker Rav, finds the
+  precedent in Shemos 10:2, where the purpose of the hardening of Pharaoh's
+  heart and the miracles is *l'maan tesaper* to your children, that they may
+  know Hashem. Because that is the ultimate purpose, Chazal built the name of
+  the mitzvah on it; the Torah's *v'higadta* teaches only *how* to tell, not the
+  purpose.
+- Rabbi Mecklenburg offers a similar explanation: a hallmark of *sippur* is
+  explaining something clearly, and the word is related to *sapir*, the blue
+  gem. Hashem's administration of the world is like the clear blue sky,
+  sometimes clouded when the wicked obscure His role; spelling it out clearly
+  clears the clouds away. According to this, the term *sippur* fits the telling
+  of the Exodus, because presenting the whole story shows how Hashem oversees
+  all of creation.
 
 **Two mitzvos.** After a lengthy discussion Rabbi Nosson Gestetner concludes that
 there are two separate mitzvos at the Seder: *sippur yetzias Mitzrayim*,

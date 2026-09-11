@@ -67,14 +67,15 @@ one with naturally low energy experiences, *yagea* the tiredness that results fr
 ## Distinctions
 
 ### ayef (עיף)
-The more frequent of the pair in Tanach (a few more occurrences than *yaef*) and the
-surviving word in Modern Hebrew. Wertheimer: fatigue severe enough to bring a man to
-faint; from that comes its borrowed sense "thirsty" (Iyov 22:7, Tehillim 63:2),
-which Radak notes in *Sefer HaShorashim*, dehydration being what generally makes
-tired people faint. For Schwab it is
-the lighter of *ayef* and *yaef*; for Malbim it is the ordinary tiredness of one whose
-energy is naturally low; for Rabbi Yosef of Saragossa, tiredness from persistent,
-repeated action.
+The more frequent of the pair in Tanach (a few more occurrences than *yaef*) and
+the surviving word in Modern Hebrew.
+- Wertheimer: fatigue severe enough to bring a man to faint; from that comes its
+  borrowed sense "thirsty" (Iyov 22:7, Tehillim 63:2), which Radak notes in
+  *Sefer HaShorashim*, dehydration being what generally makes tired people
+  faint.
+- For Schwab it is the lighter of *ayef* and *yaef*;
+- for Malbim it is the ordinary tiredness of one whose energy is naturally low;
+- for Rabbi Yosef of Saragossa, tiredness from persistent, repeated action.
 
 ### yaef (יעף)
 Yeshayahu 40:29, in the haftarah of Lech Lecha: "the Giver of strength to the tired
