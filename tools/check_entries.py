@@ -92,8 +92,11 @@ def check(p):
     # The caps exist to catch runaway output, not to shape a good entry. A
     # cluster of eight words needs a longer ruling than one of two, and shaving
     # it costs the reader a word rather than saving them anything.
-    if bl and len(bl.group(1).split()) > 220:
-        errs.append("Bottom line over 220 words")
+    # A runaway detector, not a target. The site's owner does not want Bottom
+    # lines trimmed for length, and restoring a dropped reading can
+    # legitimately lengthen one; 223 is the longest real one so far.
+    if bl and len(bl.group(1).split()) > 300:
+        errs.append("Bottom line over 300 words")
     return errs, warn
 
 
