@@ -16,8 +16,8 @@ updated: 2026-09-10
 ## Bottom line
 
 *Dibbur* is speech as an act (**speak, address, discourse**): forceful, bold,
-sustained, and complete whether or not anyone receives it. *Amirah* is speech as
-communication (**say, tell**): gentle, brief, aimed at a hearer who takes the
+and complete whether or not anyone receives it. *Amirah* is speech as
+communication (**say, tell**): gentle, aimed at a hearer who takes the
 meaning in. Rashi's "*dibbur* is harsh, *amirah* is soft" is limited from
 several directions (Mecklenburg, the Gemara on *yadber*, Maharal, *Moshav
 Zekanim*). Rav Hirsch reads the pair as act of speech against act of
@@ -55,8 +55,8 @@ not it produces sound with a particular meaning. Rav Shimshon Raphael Hirsch
 (1808 to 1888) follows this basic approach and expands it: *dibbur* is the
 simple, physiological act of expressing an idea in words, and because it is the
 act itself it applies even with nobody around to hear or understand; it is a
-conglomeration of phonemes meant to express an idea. Malbim, "certainly at odds
-with what we presented above": *amirah* is absolute while *dibbur* is a
+conglomeration of phonemes meant to express an idea. Malbim, at odds
+with this: *amirah* is absolute while *dibbur* is a
 suggestion or proposition, not necessarily absolute.
 
 ### amirah (אמירה)
@@ -196,14 +196,14 @@ Rishonim and even alluded to in the Targumim.
 - Do not render *dibbur* as "commanded." Where the Torah wants a command it has
   *tzivah*. Rabbi Moshe Feinstein builds on *vayomer* in the *tzitzis* parashah
   (Bamidbar 15:37) precisely because the verb there is not the usual
-  *vayedaber*; he applies Malbim's absolute-against-proposition principle, but
-  reasons from it in the exact opposite direction.
+  *vayedaber*; he uses the exact opposite of the reasoning Rabbi Klein draws
+  from Malbim.
 - *Aseres HaDibros*: "Ten Sayings" or "Decalogue," which Rabbi Klein says
   "would be better" than the popular "Ten Commandments." Any derashah on
   *dibros* against *maamaros* is lost with "Commandments."
-- Where the pasuk pairs *emor* with *ve'amarta* (Vayikra 21:1), render the first
-  as the charge and the second as the plain telling, following Mecklenburg,
-  rather than repeating "say" twice.
+- Where the pasuk pairs *emor* with *ve'amarta* (Vayikra 21:1), render them
+  differently rather than repeating "say" twice: on Mecklenburg's reading the
+  first raises the *kohanim's* status and the second is the plain telling.
 
 ## Notes for a project
 

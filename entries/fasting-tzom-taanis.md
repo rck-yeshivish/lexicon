@@ -101,7 +101,7 @@ Kippur haftarah. When the people protest "Why have we fasted (*tzamnu*) and You
 did not see, afflicted our souls (*ininu*) and You do not know" (Yeshayahu
 58:3), their choice of *tzom*, on Radak's sense of gathering, is itself the
 claim: we fasted as one. The Gemara says that a fast which does not take in
-everyone, the sinners of Yisrael included, is no fast (Kerisus 6a). Yeshayahu's
+everyone, the sinners of Yisrael included, is no fast (Kerisus 6b). Yeshayahu's
 answer is that the unity was a front; they made a show of loving one another so
 that favors would come back to them. And their *inui* was no better: they
 claimed to be dulling the body to sharpen the soul, while in truth they declared fast
@@ -132,4 +132,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[United We Fast](https://articles.ohr.edu/articles/united-we-fast)," *What's in a Word?*, Ohr Somayach, 8 July 2017.
 
-Cited in the essay: Zechariah 8:19; Vayikra 16:29 to 31, 23:27 to 32; Bamidbar 29:7; Ezra 9:5; Melachim I 21:9 with Radak; Radak, *Sefer HaShorashim*, in the name of his father; *Chullin* 4:7 on *tzomes hagidim*; Yeshayahu 58:3 to 6; Kerisus 6a; Rambam, *Hilchos Nedarim* and *Hilchos Taaniyos*; Rema, *Orach Chaim* 686:2; Rabbi Akiva Shlomo Deutsch-Dayan of Geneva; Rabbi Avraham Etiel Gurwitz; Rabbi Yechiel Heilpern, citing Rabbi Moshe Di'Segovia Benveniste.
+Cited in the essay: Zechariah 8:19; Vayikra 16:29 to 31, 23:27 to 32; Bamidbar 29:7; Ezra 9:5; Melachim I 21:9 with Radak; Radak, *Sefer HaShorashim*, in the name of his father; *Chullin* 4:7 on *tzomes hagidim*; Yeshayahu 58:3 to 6; Kerisus 6b; Rambam, *Hilchos Nedarim* and *Hilchos Taaniyos*; Rema, *Orach Chaim* 686:2; Rabbi Akiva Shlomo Deutsch-Dayan of Geneva; Rabbi Avraham Etiel Gurwitz; Rabbi Yechiel Heilpern, citing Rabbi Moshe Di'Segovia Benveniste.
