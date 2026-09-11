@@ -28,7 +28,7 @@ Gemara (Yoma 72b) distinguishes them by how many faces the work shows.
 ## Distinctions
 
 ### choshev (חושב) and rokem (רוקם)
-Yoma 72b, in a passage the column calls somewhat cryptic: both are embroidery,
+Yoma 72b, in a passage Rabbi Klein calls somewhat cryptic: both are embroidery,
 but *choshev* is embroidery by weaving, which produces two faces, and *rokem* is
 embroidery by stitching, which produces one. What that means is disputed.
 
@@ -62,16 +62,16 @@ into two parts, *Sefer HaRikmah* and *Sefer HaShorashim*; in his introduction he
 explains that he named the first part for the wide range of subjects in it,
 alluding to *rikmos ha'adamah*, botanical gardens in which many species were
 planted together, and so back to the biblical *rokem*, one who produces fabrics
-of many colors. (The column notes that it has been unable to find the phrase
+of many colors. (Rabbi Klein notes that he has been unable to find the phrase
 *rikmos ha'adamah* anywhere but that introduction, and that Ibn Janach's work
 was written in Judeo-Arabic and only later translated into Hebrew.)
 
 ### charash (חרש)
 Rabbi Shlomo Pappenheim, cited in part by Rabbi Yaakov Tzvi Mecklenburg
 (*HaKesav VeHaKabbalah* to Shemos 35:35): the root ח-ר-ש means plowing, the
-preparatory labor of agriculture, never the farmer's object in itself. Because
-plowing mattered so much, the root was extended to any craft of preparing
-materials: the metalworker (Bereishis 4:22, Yeshayahu 44:12, Ezra 3:7, Divrei
+preparatory labor of almost any agricultural endeavor, never the farmer's object
+in itself. Because plowing mattered so much, the root was extended to other
+crafts of preparing materials: the metalworker (Bereishis 4:22, Yeshayahu 44:12, Ezra 3:7, Divrei
 HaYamim II 24:12), the
 woodworker (Shemos 31:5, 35:33, Yeshayahu 44:13, Shmuel II 5:11, Melachim II
 12:12, Divrei
@@ -87,15 +87,15 @@ laying fabrics together to make a picture. On that basis Pappenheim suggests
 that perhaps, since the *choshev* effects no change in the material itself and
 works only by arrangement, his name comes from thought, the more
 abstract creativity. Radak and Ibn Janach in their *Sifrei HaShorashim* file
-*choshev* under ח-ש-ב with *machshavah*, *cheshbon* and *chashuv* (the column
-adds that Modern Hebrew carried this on in *machshevon*, a calculator,
+*choshev* under ח-ש-ב with *machshavah*, *cheshbon* and *chashuv* (Modern
+Hebrew carried this on in *machshevon*, a calculator,
 *machshev*, a computer, and *cheshbonis*, an invoice); Pappenheim
 adds that the *choshev* must know his dimensions and quantities, hence
 *cheshbon*.
 
 Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) links *charash* to
-*cheiresh*, mute, since this artisan works in silence, his craft demanding
-thought.
+*cheiresh*, mute, since this artisan generally works in silence, his craft
+typically demanding much thought.
 
 ### uman (אומן)
 Targum Onkelos gives all three separate Aramaic words: *charash* becomes *uman*,
@@ -129,11 +129,11 @@ practices *kishuf* (Onkelos to Shemos 22:17 on *michasheifah*), and the Gemara
 uses it that way too
 (Rashi to Berachos 62a, Shabbos 75a, Pesachim 110a, Bava Metzia 29b, Chullin
 84b). The Yemenite poet Rabbi Shalom
-Shabazi ties this to the mute sense, since spells were cast in a whisper. Dr.
+Shabazi ties this to the mute sense, since spells were often cast in a whisper. Dr.
 Alexander Kohut, in *He'Aruch HaShaleim*, cites the Maskilic scholar Peretz
 Smolenskin as tying it instead to the thinking and deliberating sense of the
-root, since the dark arts were performed in a state of deliberate intent. The
-columnist adds an alternative of his own: it may relate to the artisan sense,
+root, since the dark arts were typically performed in a state of deliberate
+intent. Rabbi Klein adds an alternative of his own: it may relate to the artisan sense,
 since for whatever reason the default artisan in Aramaic is one engaged in the
 occult, which he suggests may connect to the idea that Aramaic is a language
 associated with the *Sitra Achra*.

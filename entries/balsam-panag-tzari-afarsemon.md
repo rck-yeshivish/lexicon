@@ -15,14 +15,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tzari* is the balsam resin of Tanach and of the *ketores*, **balm** or
-**balsam**; the incense's own biblical name for the same ingredient is *nataf*,
+*Tzari* is, for Rambam and *Bereishis Rabbah*, the balsam resin of Tanach and of
+the *ketores*, **balm** or **balsam** (Rashi has theriaca); the incense's own biblical name for the same ingredient is *nataf*,
 literally **the dripping one**. *Bosem*/*besamim* is
 the wide word, **fragrance, spices**, never balsam specifically in Tanach.
 *Afarsemon* is the Rabbinic word for **balsam oil**. *Panag* is a *hapax
 legomenon* at Yechezkel 27:17; *Yossiphon* reads it as balsam and Rashi cites
 that, presumably endorsing it, but
-Radak objects that Yechezkel lists *panag* and *tzari* separately.
+Radak objects that if *tzari* is balsam, *panag* is unlikely to be, since
+Yechezkel lists *panag* and *tzari* separately.
 
 ## Distinctions
 
@@ -39,12 +40,12 @@ calls Yericho *Ir HaReiach*, the City of Scent, for its balsam groves, says
 outright that balsam oil
 is also called *panag* oil; Rashi cites this (to Yechezkel 27:17, Melachim II
 20:13,
-Yeshayahu 39:2, *Berachos* 43a), presumably endorsing it, as do the French
-exegetes Rabbi Yosef Kara and Rabbi Eliezer of
-Beaugency, and Radak (to Yechezkel there and *Sefer HaShorashim*). The column
-adds that modern scholars agree *Yossiphon* was probably written in Italy in the
+Yeshayahu 39:2, *Berachos* 43a), presumably endorsing it, and it is also cited
+by the French exegetes Rabbi Yosef Kara and Rabbi Eliezer of
+Beaugency, and by Radak (to Yechezkel there and *Sefer HaShorashim*). Modern
+scholars agree that *Yossiphon* was probably written in Italy in the
 tenth century as a Hebrew adaptation and abridgement of the Jewish Roman
-historian Flavius Josephus (37 to 100), and that Josephus himself mentions
+historian Flavius Josephus (37 to 100), and Josephus himself mentions
 Yericho in connection with balsam trees (*Antiquities of the Jews* IV ch. 6 and
 XIV ch. 4, *War of the Jews* I ch. 6 and ch. 18) but says nothing about *panag*
 in Yechezkel meaning balsam oil.
@@ -55,11 +56,11 @@ Yosef Teomim-Frankel (*Iggros Pri Megadim* letter 2) takes that as support for
 reading *tzari* as something else (Rashi's "theriaca"). Rabbi Moshe Tedeschi
 Ashkenazi and Rabbi Shmuel David Luzzatto, in their commentaries to Yechezkel,
 tie *panag* to *pinuk*, pleasure or indulgence, by the interchange of gimmel and
-kuf; the column notes the irony that for all their opposition to Kabbalah,
-the Zohar (*Bereishis* 47b, 235b, 245b-246b) corroborates them by likewise
-linking *panag* to
-*tafnukim*. *Shoresh Yesha* connects it to *oneg*, also pleasure or delicacy,
-presumably (the column's word) because ayin and pei are consecutive letters and
+kuf; ironically, for all their opposition to Kabbalah, their reading can be
+corroborated from the Zohar (*Bereishis* 47b, 235b, 245b-246b), which likewise
+links *panag* to
+*tafnukim*. *Shoresh Yesha* connects it to *oneg*, also pleasure or delicacy;
+Rabbi Klein presumes the reason is that ayin and pei are consecutive letters and
 so somehow interchangeable. Dr. Zohar Amar of Bar Ilan University, in *Tzimchei
 HaMikra*, gathers a further list of explanations from the commentators:
 cassia, wax (making *panag* a synonym of *donag*), honeycomb, edible grass,
@@ -69,8 +70,8 @@ wheat, and a place name (so that the pasuk would mean wheat from there).
 ### tzari (צרי), nataf (נטף), ketaf (קטף)
 *Tzari* (also *tzori* at Yechezkel 27:17, *tzri* at Bereishis 37:25) appears six
 times in Tanach: Bereishis 37:25 and
-43:11, Yirmiyahu 8:22, 46:11 and 51:8, Yechezkel 27:17. A scented potion used
-medicinally. The column adds that it is also possible that the name Tzeruyah,
+43:11, Yirmiyahu 8:22, 46:11 and 51:8, Yechezkel 27:17. Some sort of scented
+potion used medicinally. Rabbi Klein adds that it is also possible that the name Tzeruyah,
 borne by David's sister, and the name Tzri (Divrei HaYamim I 25:3) derive from
 *tzari*. It heads the *ketores* list at *Kerisus* 6a and *Yerushalmi Yoma*
 4:5 and so entered the liturgy. Rambam (*Hilchos Klei HaMikdash* 2:4) renders it
@@ -89,7 +90,7 @@ of the tree itself rather than its oil (see *Mahari Kurkus* and *Kesef Mishneh*)
 *Bereishis Rabbah* 91:11 identifies the *tzari* Yaakov sent to Mitzrayim
 (Bereishis 43:11) as *balsam*. That Rabbinic Hebrew word, like the English
 *balsam*, comes from the Greek *balsamon* and the Latin *balsamum*; the *Oxford
-English Dictionary*, the column adds, derives the English *balm*, an aromatic
+English Dictionary* derives the English *balm*, an aromatic
 resinous substance, and *balmy*, mildly fragrant, from the same terms.
 
 ### bosem / besamim (בושם)
@@ -97,7 +98,7 @@ The general word, thirty occurrences, for fragrant goods: perfumes, spices,
 sweet-smelling things, not balsam in particular. It stands behind the names
 Basmas, borne by two of Esav's wives (Bereishis 26:34, 36:3) and by a daughter
 of Shlomo (Melachim I 4:15), and Yivsam (Divrei HaYamim I
-7:2). It is, the column reports, widely held among linguists that the Greek
+7:2). It is widely held among linguists that the Greek
 *balsamon* derives from *bosem* itself, or at least from a cognate of *bosem* in
 another Semitic language (Arabic *basham*, Aramaic *busma*), as many other Greek
 plant names are of Semitic origin; the generic Hebrew word for sweet-smelling
@@ -108,8 +109,8 @@ Ramban (to Shemos 25:6 and 30:34) denies a root ב-ש-ם and reads *bosem* as
 a portmanteau of *bo*, in it, and *sam/samim*, potion or elixir. Rabbi Shlomo
 Pappenheim similarly
 traces it to the biliteral ס-ם, putting a thing in its place, since such tonics
-and potions are commonly stored in specifically designated places (the column
-notes that the bet is usually treated as a radical in Pappenheim's system of
+and potions are commonly stored in specifically designated places (though the
+bet is usually treated as a radical in Pappenheim's system of
 roots). Either way, when Chazal said one should become *besumei* on Purim
 (*Megillah* 7b), this seems to refer to intoxication from wine, the wine serving
 as the elixir that brings one to that state; others, including Rabbi Moshe ben
@@ -117,7 +118,7 @@ Yekutiel of Rome (*Sefer HaTadir*) and Rabbi Yosef of Saragossa, a talmid of
 Rabbeinu Nissim of Gerona, explain it of drinking a quantity of scented (*bosem*)
 wine.
 
-On how *bosem* became *balsamon*, the column reports three attempts. Marcus
+On how *bosem* became *balsamon*, there are three attempts. Marcus
 Jastrow notes that an extra lamed was added to *bosem* to produce *balsamon* but
 does not explain where that consonant came from. Dr. Richard C. Steiner of
 Yeshiva University accounts for it by arguing that the Hebrew and Semitic sin was
@@ -153,13 +154,13 @@ read as
 *afarsemon* (*Bava Basra* 80b and *Rosh HaShanah* 23a on Yeshayahu 41:19; Rashi
 to Mishlei 27:9).
 
-On where *afarsemon* itself comes from, the column reports that scholars hold
-the Rabbinic Hebrew *balsam* to have been borrowed straight from Greek, while
+On where *afarsemon* itself comes from, scholars hold that
+the Rabbinic Hebrew *balsam* seems to have been borrowed straight from Greek, while
 the Talmudic *afarsemon* was borrowed from Old Persian, which took it from
 Greek: drop the initial alef (often added to foreign words taken into Hebrew),
 swap the bet for a pei and the reish for a lamed, both interchangeable pairs,
-and *afarsemon* and *balsam* show as the same etymon. Alternatively, the column
-allows, *afarsemon* may have come into Persian directly from the Hebrew *bosem*,
+and *afarsemon* and *balsam* show as the same etymon. Alternatively,
+*afarsemon* may have come into Persian directly from the Hebrew *bosem*,
 with bet for pei and an added reish. Rabbi Yosef Teomim-Frankel roots the word
 instead in the Hebrew *pirsum* or *mefursam*, publicized, since
 balsam's good scent made it well known throughout the ancient world. In Modern

@@ -25,28 +25,29 @@ updated: 2026-09-10
 *Malach* is a **messenger** who stands in for the sender on a mission the
 sender would do himself (Pappenheim, Malbim); of Hashem's messengers it is an
 **angel**, and the same Hebrew word covers both. *Shaliach* is the plain
-**agent** or **emissary**, one who is sent (Rav Hirsch: merely a messenger; the
-Lissa Rav: one who chose to accept the mission). *Tzir* is an **envoy**, a
-diplomatic messenger who reports back (Malbim). *Malach* is not automatically an angel: the Midrash disputes whether
+**agent** or **emissary**, one who is sent (on Rav Hirsch's approach, merely a
+messenger; the Lissa Rav: one who chose to accept the mission). *Tzir* is an
+**envoy**, a diplomatic messenger, and for Malbim one who reports back. *Malach* is not automatically an angel: the Midrash disputes whether
 Yaakov's *malachim* were angels or men.
 
 ## Distinctions
 
 ### malach (מלאך)
 Radak (*Sefer HaShorashim*): the root is ל-א-ך and the mem is not radical, which
-the column calls somewhat perplexing since no other Hebrew word has this root. It
+Rabbi Klein calls somewhat perplexing since no other Hebrew word has this root. He
 adds that archaeology has proven Radak correct: texts found at the ancient city
 of Ugarit, in modern-day Lebanon, are written in a Semitic language closely
 resembling Hebrew, and there the root of the verb for sending is not ש-ל-ח as in
 Hebrew but exactly ל-א-ך. Rabbi Shlomo Pappenheim of Breslau (1740-1814), in an
-approach the column calls similar to Radak's:
-from ל-ך, "go." Since "go" and "send" are near-identical, the difference from
-*shaliach* lies in the mission, and Pappenheim and Malbim agree: a *malach* is
+approach similar to Radak's:
+from ל-ך, "go." Since "go" and "send" are near-identical, Rabbi Klein reasons, the
+difference from *shaliach* must lie in the mission, and to this effect Pappenheim
+and Malbim both explain that a *malach* is
 charged with the kind of task the sender would do himself, so the assignment is
-prestigious and the *malach* holds a position of honor rather than
-subservience; Malbim adds that a *malach* is not required to report back. From
-this primary sense the word is applied to the angels Hashem *sends* to work
-miracles or carry word to prophets. Ralbag, throughout his commentary to Tanach,
+prestigious and the *malach*, in a way, holds a position of honor, and being one
+is not necessarily a sign of subservience; Malbim adds that a *malach* is not required to report back. From
+this primary sense the word is applied to the angels Hashem *sends* on various
+undertakings, some of them to work miracles or carry word to prophets. Ralbag, throughout his commentary to Tanach,
 consistently tries to explain every *malach* mentioned as a prophet and not an
 angel (and see Rambam, Moreh Nevuchim 2:6, for his view of angelology).
 Mecklenburg:
@@ -69,7 +70,7 @@ and a *mashchis* for malevolent ones, so a *malach* is a kind of *shaliach*.
 ### tzir (ציר)
 Fewer than ten occurrences. The Vilna Gaon (to Mishlei 13:17) implies that a
 *tzir* is specifically an agent who has been used many times, a professional
-courier, which slightly separates the word from *shaliach*. The column adds that
+courier, which slightly separates the word from *shaliach*. In fact
 *tzir* is always used of a messenger in a diplomatic setting, an envoy,
 ambassador or attaché. Pappenheim: the word refers to the idea of attaching
 distant political entities, and he finds other words related to *tzir* that carry

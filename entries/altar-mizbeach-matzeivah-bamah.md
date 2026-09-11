@@ -43,7 +43,7 @@ commanded *mizbeach* with the hated *matzeivah*.
 |---|---|---|---|
 | מזבח | mizbeach | altar | many stones; named for *zevach*/*zoveach*, sacrifice and slaughter (Radak, *Sefer HaShorashim*); square with four horns (Shemos 27:1-2) |
 | מצבה | matzeivah | single-stone altar, pillar | one stone, from *netziv*, standing (Rashi); for Ramban not an altar but an idolatrous entrance-pillar |
-| במה | bamah | high place, private altar | a private altar on high ground, permitted only while the central sanctuary was temporary (Zevachim 14:6) |
+| במה | bamah | high place, private altar | a private altar, generally on high ground, permitted only while the central sanctuary was temporary (Zevachim 14:6) |
 
 ## Where the authorities disagree
 
@@ -79,8 +79,9 @@ on it. Three views:
    from *zoveach* is exact. Aharon's incense stopping the plague (Bamidbar
    17:11-15) is the case in point.
 2. **Borrowed by shape.** Rabbi Yonah Ibn Janach and Rabbi Avraham Maimuni: it
-   is a borrowed term, used because the Inner Altar was made in the same form as
-   the Outer, square and horned (Shemos 30:2), only smaller.
+   is called a *mizbeach* simply because the Inner Altar was made in the same
+   form as the Outer, square and horned (Shemos 30:2), only smaller; on their
+   explanation the name is a borrowed term.
 3. **Blood does reach it.** Radak (*Sefer HaShorashim*): in rare cases, Yom
    Kippur among them, sacrificial blood is brought to that altar, so the name is
    literal.
@@ -106,7 +107,7 @@ exactly is forbidden (above).
 
 ### bamah (במה)
 Literally a high place, hence a private altar, since these were commonly built
-on higher ground; the article relates it to *bimah*, the raised platform from
+on higher ground; it is related to *bimah*, the raised platform from
 which the Torah is read. Sacrifices outside the central place of worship are
 forbidden (Devarim 12:5-18), but the Mishnah (*Zevachim* 14:6) holds that the
 prohibition did not apply while the central sanctuary was wholly temporary: until

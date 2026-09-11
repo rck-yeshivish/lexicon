@@ -59,26 +59,27 @@ acts and the other persuades.
 *Mussaf HaAruch*: the rabbinic sense of "busy, preoccupied" derives from Greek,
 though he supplies no cognate Greek word. Dr. Alexander Kohut (1842-1894) in
 *Aruch HaShaleim* presumes that Rabbi Mussafia meant the Greek ἀσχέω
-(*áschéó*), which the column glosses, on the strength of Google Translate, as
+(*áschéó*), which Rabbi Reuven Chaim Klein glosses, on the strength of Google Translate, as
 "I don't care", possibly what a man already busy with one thing feels about
 being asked to do another. Kohut himself rejects that etymology and assumes
 instead that the Rabbinic Hebrew sense grows out of the root's original Biblical
 meaning, the sin of ע-ש-ק morphing into a samech in Rabbinic Hebrew, an
-interchange the column calls not at all unusual. Kohut neglects to explain the
+interchange that is not at all unusual. Kohut neglects to explain the
 semantic shift from *esek* as "fighting" to *esek* as "busy dealing"; Rabbi
-Reuven Chaim Klein supplies that bridge himself, and to him the connection is
+Klein supplies that bridge himself, and to him the connection is
 patently obvious, since fighting is marked by the obstinate persistence of
 parties who refuse to back down, and that same perseverance describes those who
 toil for the public good. He adds that even in rabbinic literature *esek*
 somewhat retains its Biblical sense, since it sometimes refers specifically to a
 matter that is subject to controversy (Rashi to Shavuos 31a, Bava Metzia 14a).
-That is where the column comes out: Kohut's second reading, with Rabbi Klein's bridge.
+That is where Rabbi Klein comes out: Kohut's second reading, with his own bridge.
 
 **What eshtadur is.** Menachem Ibn Saruk (*Machberes Menachem*): a
 quadriliteral root א-ש-ד-ר, unrelated to *shadal*. Ramban seems to take the
 aleph as extraneous to the core root ש-ד-ר, and reads the word as rebellion,
-contravening (Ezra 4:15, 4:19). Ramban's reading is what allows *shadar* and
-*shadal* to be one family, and Rabbi Ernest Klein accepts it.
+contravening (Ezra 4:15, 4:19). Ramban's reading is what brings *eshtadur* into
+the one family of *shadar* and *shadal*; Rabbi Ernest Klein accepts Ramban's
+etymology connecting *shadal* with *shadar*.
 
 **How wide shadal is.** Ramban (to Bereishis 32:25, Shemos 22:15) points out
 that *shadal* has various meanings, and centers one of them on persuasion:
@@ -126,9 +127,9 @@ It seems to derive from the root ש-ד-ל, but no words from that root appear in
 Tanach itself. Sforno (to Bereishis 26:20) reads the shepherds' *his'asku* as
 *hishtadlu*, that they were trying to talk Yitzchak's men out of the well,
 which is the bridge from *esek* to *shtadlanus*. A *shtadlan*, then, is one
-whose work is to work on others. (A homograph: the column notes in
-an aside that the Italian scholar R. Shmuel Dovid Luzzatto, 1800-1865, whom it
-calls controversial, is known by his initials as Shadal.)
+whose work is to work on others. (A homograph: the Italian scholar R. Shmuel
+Dovid Luzzatto, 1800-1865, whom Rabbi Klein calls controversial, is sometimes
+known by his initials as Shadal.)
 
 ### shadar (שדר)
 Biblical Aramaic, where it appears at least once: Daryavesh, distressed at

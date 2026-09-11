@@ -25,10 +25,10 @@ updated: 2026-09-10
 *Behemah* is **a domesticated animal**, one that lives among people and serves
 them; *chayah* is **a wild animal**, one that lives in open country (Ibn Ezra
 and Radak). Ramban suggests a different line, by diet: *behemos* eat only plants,
-*chayos* eat flesh. The article leaves both live, the Netziv rejecting Ramban and
+*chayos* eat flesh. Both views remain live, the Netziv rejecting Ramban and
 Rabbi Chaim Kanievsky defending him. These are halachic categories before they
 are descriptions:
-*cheilev* is forbidden only in a *behemah*, and *kisui hadam* applies only to a *chayah*.
+*cheilev* is forbidden only in a *behemah*, and *kisui hadam* applies, among animals, only to a *chayah*.
 
 ## Distinctions
 
@@ -39,8 +39,7 @@ species, *behemah* is limited to three families, the same three that alone may b
 brought as *korbanos*: the bovine, ovine and caprine families, that is cattle,
 sheep, and goats. The category is not only kosher, though: other, non-kosher
 animals such as pigs, camels, and donkeys are seemingly *behemos* as well, which
-is why the domestication test, and not the sacrificial list, is what actually
-defines the word. Ramban instead defines *behemos* as the herbivores, animals
+is why the sacrificial list alone does not define the word. Ramban instead defines *behemos* as the herbivores, animals
 that feed solely on plants and other flora.
 
 ### chayah (חיה)

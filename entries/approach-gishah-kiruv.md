@@ -27,13 +27,13 @@ updated: 2026-09-10
 *Gishah* is **to approach** in the strong sense: coming right up to something, and
 usually across a gap of standing or in awe of it. *Kiruv* is **to draw near** or
 **bring closer**, a step taken while still on the way, between parties on a level.
-So when Yehudah *vayigash* to the viceroy (Bereishis 44:18), the column's own
+So when Yehudah *vayigash* to the viceroy (Bereishis 44:18), Rabbi Klein's own
 conclusion, drawn twice and marked each time as what "it seems," is that he came
 up close and personal rather than merely nearer, and that he did so very
 deliberately, as a further step in his campaign for Binyamin's release; on the
-first of those readings, it says, he may even have come close in a threatening
-way, as certain midrashic sources imply. In Aramaic the distinction disappears:
-Targum renders both by *kiruv* cognates.
+first of those readings, Rabbi Klein says, Yehudah may even have come close in a
+threatening way, as certain midrashic sources imply. In Aramaic the distinction
+disappears: Targum typically renders both by *kiruv* cognates.
 
 ## At a glance
 
@@ -46,8 +46,8 @@ Targum renders both by *kiruv* cognates.
 
 Three accounts of the same contrast, and they do not reduce to one.
 
-1. **Awe and standing.** Rabbi Yehuda Leib Shapira-Frankfurter (1743-1826), whom
-   the article identifies as Rav Hirsch's great-uncle: *gishah* is
+1. **Awe and standing.** Rabbi Yehuda Leib Shapira-Frankfurter (1743-1826),
+   Rav Hirsch's great-uncle: *gishah* is
    approaching with trepidation, as one approaches a king or a dignitary. This
    explains why a
    litigant *nigash* before a judge (Devarim 25:1) while Hashem coming to judge us
@@ -75,8 +75,8 @@ Three accounts of the same contrast, and they do not reduce to one.
    specific goal, which only a being able to think and decide for itself can take
    (see also Abarbanel to *Moreh Nevuchim* 1:18).
 
-The first two agree in practice, and Rav Hirsch's point about purpose is what
-explains Yehudah's *vayigash*.
+The first two agree in practice, and Rav Hirsch's point about purpose is what,
+as it seems to Rabbi Klein, explains the deliberateness of Yehudah's *vayigash*.
 Rabbi Yaakov Tzvi Mecklenburg's abstract/physical axis runs against Rav Hirsch.
 
 ## Distinctions

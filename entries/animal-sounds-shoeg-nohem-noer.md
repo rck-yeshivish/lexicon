@@ -44,7 +44,7 @@ updated: 2026-09-10
 Biblical Hebrew assigns each animal its own verb, exactly as English does not
 let a cow bark. Rabbi Klein sees onomatopoeia at work: he holds that in all
 languages the words for animal sounds seem to derive from the sounds themselves,
-and that societies hear those sounds differently, which is why an American child
+and that societies sometimes hear those sounds differently, which is why an American child
 says a rooster crows "cock-a-doodle-do" and an Israeli child "koo-koo-ri-koo",
 and why a dog goes "bow-wow" in one place and "hav-hav" in another. A lion has
 four verbs: *shoeg* is **roars** (hunger, dominance),
@@ -59,19 +59,20 @@ they differ.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| שואג | shoeg | roars | the hungry lion frightening its prey (Vilna Gaon); an involuntary outburst, from ש-ג "inadvertent" (Pappenheim) |
+| שואג | shoeg | roars | the hungry lion frightening its prey (Vilna Gaon); an almost involuntary outburst, from ש-ג "inadvertent" (Pappenheim) |
 | נוהם | nohem | growls | the sated lion gone berserk with plenty (Rashi); storminess vented deliberately (Pappenheim) |
 | יהגה | yehegeh | moans | shared by lion and dove (Donash); consistent, sustained sound (Pappenheim) |
 | נוער | noer | roars (suddenly) | a lion cub in Tanach, borrowed for a donkey in the Gemara (Sefer HaAruch); "revealing" (Pappenheim) |
-| שוקק | shokek | roars / saunters | disputed: bear's roar (Vilna Gaon) against bear's gait, from *shok* (Ibn Janach, Radak) |
+| שוקק | shokek | roars / saunters | disputed: bear's roar (Vilna Gaon) against bear's gait (Ibn Janach, Radak), from *shok* (Radak) |
 | נוהק | nohek | brays | the wild donkey clearing its heart of suffering (Pappenheim) |
 
 ## Where the authorities disagree
 
 **What shokek means.** The Vilna Gaon (to Mishlei 28:15) takes it as the bear's
 roar, tied to *shokek* in the sense of desire, since a bear is perpetually
-hungry. Ibn Janach and Radak deny it is a sound at all: it describes the bear's
-sauntering walk, from *shok*, the calf of the leg that moves as one walks.
+hungry. Other commentators, among them Ibn Janach and Radak, deny it is a sound
+at all: it describes the bear's sauntering walk, and Radak relates it to *shok*,
+the calf of the leg that moves as one walks.
 Rabbi Shlomo Pappenheim sides with sound but by a different route, tracing it to
 ש-ק, "making consecutive sounds," which also yields *teshukah* (desire, since in
 the throes of desire the heartbeat grows noticeably consistent and consecutive)
@@ -86,7 +87,7 @@ reason the lion is making noise, and he brings the Vilna Gaon (*shoeg* when
 hungry) and Rashi (to Sanhedrin 102a, Berachos 32a: *nohem* when it has a lot to
 eat, so that it becomes especially happy and goes berserk). He does not explain
 what causes a lion to be *yehegeh* or *noer*. Rabbi Pappenheim works instead from the biliteral roots and
-gets a different grid: *shoeg* involuntary, *nohem* deliberate, *yehegeh*
+gets a different grid: *shoeg* almost involuntary, *nohem* deliberate, *yehegeh*
 steady, *noer* sudden. The two are compatible in practice, Stern giving the cause and Pappenheim the manner.
 
 **Where nohek comes from.** Rabbi David Chaim Chelouche (1920-2016), the late
@@ -98,8 +99,8 @@ traces *nohek* to the one-letter root ק, "expulsion," parent of נ-ק, "cleanin
 ## Distinctions
 
 ### The per-animal verbs
-Donash Ibn Labrat (920 to 990), answering Menachem Ibn Saruk, was the first to
-set out the list; Menachem had already touched it at the biliteral root ג-ע.
+Donash Ibn Labrat (920 to 990), answering Menachem Ibn Saruk, was one of the
+first to set out the list; Menachem had already touched it at the biliteral root ג-ע.
 Donash in his poem: a hart is *oreg* (Tehillim 42:2), a lion *nohem* (Mishlei
 19:12, 28:15), a cow or ox *goeh* (Shmuel I 6:12, Iyov 6:5), a horse *tzohel*
 (Yirmiyahu 5:8), a bird *mitzaftzef* (Yeshayahu 10:14, 29:4, 38:14). In prose he
@@ -151,10 +152,10 @@ Rabbi Aharon Marcus (1843-1916) similarly reads it as ב-ה-ה, an onomatopoeic
 rendering of a common animal sound, "baaaa," and links it to the ancient Latin
 and Old Irish *bo(s)*, the etymon of English *bovine*, related also to Greek
 *bous* and to *bol*/*vol* in various Slavic languages. Either way *behemah*
-stands against man, called a *medaber*, a speaker: the animal just makes sounds,
+stands against man, who is sometimes called a *medaber*, a speaker: the animal just makes sounds,
 man has the unique ability to produce understandable sounds through speech.
 
-### Two cautions from the article
+### Two cautions from Rabbi Klein
 Donash also writes in that passage that a rooster (*gever*) is *tzorayach*, but
 that understanding seems to rest on a mistaken reading of Tzefaniah 1:14 and
 Yeshayahu 42:13, which use *tzorayach* for the battle cry of a *gibbor*, a human

@@ -16,12 +16,12 @@ updated: 2026-09-10
 ## Bottom line
 
 *Shaked* is the Hebrew word for the **almond**, and its root ש-ק-ד seems to be the
-one meaning watchful and diligent, which is the whole point of the *nevuah* in
-Yirmiyahu 1:11 to 12, where **almond** plays on **vigilant**. *Luz* means the same thing in Arabic,
-according to Rabbi Saadia Gaon as Radak and Ibn Ezra cite him, and the column
-reaches Aramaic as its own hedged upshot, so **almond**
+one meaning watchful and diligent, a link that may already be at work in the
+*nevuah* in Yirmiyahu 1:11 to 12, where **almond** plays on **vigilant**. *Luz* means the same thing in Arabic,
+according to Rabbi Saadia Gaon as Radak and Ibn Ezra cite him, and Rabbi Klein
+reaches Aramaic as his own hedged upshot, so **almond**
 again, though a substantial set of *Rishonim* read *luz* as **hazel** and Targum
-Onkelos never once renders *shaked* as *luz*. The article's own upshot is a
+Onkelos never once renders *shaked* as *luz*. Rabbi Klein's upshot is a
 hedged one: it seems that *luz* is an Aramaic word and *shaked* a genuinely
 Hebrew one, in which case the two mean exactly the same thing and differ only by
 language.
@@ -39,9 +39,9 @@ vigilance, diligence, persistence. Grammarians as early as Ibn Janach
 (990-1055) and Radak (1160-1235) intimated a connection between the two senses,
 explaining that the almond tree is especially zealous in bringing out its
 blossom faster than other trees, though *Machberes Menachem* does not seem to
-draw the connection. The column adds a second explanation from the botanist Dr.
-Joshua D. Klein of the Volcani Center, that *shaked* suits the almond because it
-tends to stay on the tree rather than drop when ripe as fleshy fruits do, so
+draw the connection. The botanist Dr. Joshua D. Klein of the Volcani Center gives
+a second explanation, that *shaked* suits the almond because it
+tends to stay on the tree rather than drop when ripe as most fleshy fruits do, so
 that the nut is "diligent" in hanging on longer than most fruits.
 
 The link may even predate the *medakdekim*, as it seems to be found in Hashem's
@@ -60,8 +60,8 @@ seems to have been coined by the poet Levin Kipnis (1894-1990) in his well-known
 Tu B'Shvat song.
 
 English "almond" sounds Arabic because of the *al-* prefix, but the Arabic for
-almond is *luz*, as in Aramaic. The column traces the word's ancestor instead to
-the Latin *amygdala*, seemingly, through various intermediate forms; some argue
+almond is *luz*, as in Aramaic. The word's ancestor seems instead to be
+the Latin *amygdala*, through various intermediate forms; some argue
 the *al-* came about by contamination from the last syllable of the Latin
 etymon, others that the Latin became Spanish *almendra* under Arabic influence,
 *al-* being the Spanish definite article, and reached English through Spanish.
@@ -76,7 +76,7 @@ Targum Yonasan and Targum Neofiti support the equation from the other side: they
 render the *shekeidim* of Bereishis 43:11 as *meshach diluzin*, almond oil or
 butter, and the *shekeidim* of Bamidbar 17:23 as *luzin*.
 
-On that reading, the column says, it seems *luz* is Aramaic and *shaked* Hebrew,
+On that reading, Rabbi Klein says, it seems *luz* is Aramaic and *shaked* Hebrew,
 and the two mean exactly the same thing. Dr. Gary Rensburg of Rutgers University
 adds that the Torah nonetheless uses the Aramaic *luz* in the story of how Lavan
 the Aramean tried to swindle Yaakov because the story happened in Aram, the home
@@ -100,26 +100,26 @@ Rabbi Shlomo Pappenheim: the biliteral ל-ז means sideward deviation, whether
 physical movement to the side or moral swerving from the straight path. The
 *luz* tree fits because its shoots branch off the trunk very early, unlike other
 trees. The demonstrative *halaz*, "that one," comes from the same root, its
-antecedent being someone far off, removed from here. Midrash *Sechel Tov* reads
+antecedent typically being someone far off, removed from here. Midrash *Sechel Tov* reads
 *halaz* homiletically the other way, connecting it to the *luz* tree's outward
 majesty, where it is used of Yitzchak (Bereishis 24:65), Yosef (Bereishis
-37:19), Zecharyah (Zecharyah 2:8), and Eretz Yisrael (Yechezkel 36:35). The
-column adds that the almond's aesthetic quality may also be what is reflected in
+37:19), Zecharyah (Zecharyah 2:8), and Eretz Yisrael (Yechezkel 36:35). Rabbi
+Klein adds that the almond's aesthetic quality may also be what is reflected in
 the almond-like decorations fixed (*meshukadim*) to the Menorah.
 
-Solomon Löwisohn (1789-1821), whom the column calls a Hungarian Maskilic
+Solomon Löwisohn (1789-1821), a Hungarian Maskilic
 scholar, derived Lusitania, the Roman name for Portugal, from the Aramaic *luz*,
 on the ground that the Phoenicians reaching the Iberian peninsula found almond
 trees in abundance; he adduces Portuguese place-names such as Calmende, the
 house of almonds, and Castelmende, the castle of almonds, both tied to
-Spanish and Portuguese *almendron*, almond. The column notes that this etymology
+Spanish and Portuguese *almendron*, almond. This etymology
 for Lusitania is not widely accepted nowadays.
 
 ### Luz the city
 Luz was renamed Beis El, the site of Yaakov's dream (Bereishis 28:19); the
 Canaanite who showed the tribe of Yosef the hidden way in later founded a second
 Luz in the land of the Hittites (Shoftim 1:23 to 26). *Bereishis Rabbah* 69:8,
-about which the column notes it remains unclear whether it means the Luz in Eretz
+though it remains unclear whether it means the Luz in Eretz
 Yisrael or the other one: its people were not mixed up when Sancheriv conquered
 the area, it was not destroyed by Nevuchadnetzar, and the *malach hamaves* has no
 dominion there. Rabbi Abba bar Kahana: one who enters it blossoms with *mitzvos*
@@ -130,8 +130,7 @@ entrance, and Rabbi Pinchas bar Chamah that the way in was a cave whose mouth a
 midrash is the Tibetan city of Lhasa, whose people are reputed to be long-lived
 and so could be said to elude the *malach hamaves*. The *luz* bone, said to be
 the kernel from which a person is revived at *techiyas hameisim* and nurtured
-only through *melaveh malkah* (*Mateh Moshe* 513), belongs to the same word,
-though the column sets it aside as a discussion for another time.
+only through *melaveh malkah* (*Mateh Moshe* 513), belongs to the same word.
 
 ## Rendering guidance
 

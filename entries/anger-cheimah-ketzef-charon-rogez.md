@@ -37,7 +37,7 @@ ketzef, evrah).
 
 ## Distinctions
 
-The article counts the words three ways: Rabbeinu Efrayim finds eight, Rabbi
+The words are counted three ways: Rabbeinu Efrayim finds eight, Rabbi
 Avraham Bedersi HaPenini ten, and Rabbi Shlomo of Urbino fifteen. Some of the
 words mark different points on the spectrum from annoyed to incensed, others fix
 on the object of the anger, others on its effects, and others on its cause.
@@ -72,16 +72,16 @@ Iyov 3:17, Melachim II 19:27. Elsewhere "shaking" and "fear." Rabbeinu Efrayim:
 anger that arouses the whole body, as shaking and fear do. Bedersi: not always
 anger; sometimes the shaking is out of fear. Rokeach: the tranquil man who
 suddenly bursts into anger. Malbim: anger that harries a person and allows him no
-respite to live in tranquility (from which the Yiddish *broiges*, of two people
-in a fight).
+respite to live in tranquility. (The Yiddish *broiges*, of two people in a fight,
+comes from this word.)
 
 ### evrah (עברה)
 Tehillim 78:49, Devarim 3:26. Rabbeinu Efrayim: from *oveir*, to pass over or
 violate; the angry man violates his own and his Creator's expectations of him.
 Malbim: anger that passes beyond its bounds to fall on those who did not act
-against him. Peirush HaRokeach relates it to *me'uberes*, pregnant, though the
-column says the connection to anger remains unclear and offers two guesses of its
-own: perhaps the angry man's body swells like a pregnant woman's, or perhaps his
+against him. Peirush HaRokeach relates it to *me'uberes*, pregnant, though
+Rabbi Klein says the connection to anger remains unclear and offers two guesses of
+his own: perhaps the angry man's body swells like a pregnant woman's, or perhaps his
 wrath stays with him a long time as a pregnancy runs nine months. Pappenheim
 ranks it highest: the body puffed up and distended with fury.
 
@@ -113,7 +113,7 @@ rather than against oneself. Pappenheim: foam at the lips. In Modern Hebrew
 ### af (אף) and the lesser words
 *Af* (Shemos 34:6, Devarim 6:15) is nose or face; Rabbeinu Efrayim: the angry
 man's nose emits proverbial smoke. Malbim: anger physically visible in the face,
-born of emotion not intellect, at times roused spontaneously.
+typically born of emotion not intellect, at times roused spontaneously.
 
 *Anaf* (Devarim 1:37, Yeshayahu 12:1, Tehillim 2:12) is disputed against *af*:
 Rabbeinu Efrayim holds it is the same word as *af* with an extra nun, while Radak
@@ -128,7 +128,7 @@ Vayikra 11:19 and Devarim 14:18 is explained by the Gemara (Chullin 63a) as a
 explains this as a borrowed term that came to mean anger because smoke is a
 byproduct of a burning fire, and the words for anger are metaphorically tied to
 boiling, heat and fire. *Panim*, face (Yirmiyahu 3:12, Bereishis 32:21), is
-likewise borrowed, since a man's emotional state is readily seen on his face.
+likewise borrowed, since a man's emotional state can often be readily seen on his face.
 
 Pappenheim: *zaaf* (Michah 7:9, Divrei HaYamim II 26:19) joins ז-ע (shaking,
 moving) and א-ף (face), a level of anger that brings on a furious facial twitch.
@@ -149,14 +149,14 @@ complaint or grievance, to the same root, both being verbal expressions of
 dissatisfaction.
 
 *Shetzef* (Yeshayahu 54:8) appears only once in Tanach and its meaning is not
-completely clear, which is why, the column says, it makes sense that it does not
+completely clear, which is why, Rabbi Klein says, it makes sense that it does not
 reach Rabbi Shlomo of Urbino's list of fifteen. In its one occurrence it is
 paired with *ketzef*. Menachem and Rabbeinu Tam: just as *ketzef* means anger, so
 does *shetzef*. Targum Yonatan there, Donash, Ibn Janach, Rabbi Yosef Kimchi, and
 Radak all argue it means "a little bit of"; Rashi to Yeshayahu 54:8 cites both
 possibilities. Donash also suggests it means the same as *rega*, a fleeting
-moment, and Peirush HaRokeach similarly reads it as an expression of speed, the
-column adding that this probably recalls how people act in haste when they blow
+moment, and Peirush HaRokeach similarly reads it as an expression of speed, Rabbi
+Klein adding that this probably recalls how people act in haste when they blow
 their fuse.
 
 ## Rendering guidance

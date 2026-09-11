@@ -38,7 +38,7 @@ Eliezer* ch. 4, understands that midrash to hold *ofanim* and *galgalim*
 synonymous, and *kruvim* and *chayos* likewise.
 
 ### chayos (חיות)
-The highest created rank, and the article is careful that they are not the
+The highest created rank: they are not the
 highest of all entities, only the highest of all *created* entities in the Upper
 Realms. The anonymous commentator to Rambam brings two explanations, the first
 of them as what "some explain": they appeared to Yechezkel in the form of

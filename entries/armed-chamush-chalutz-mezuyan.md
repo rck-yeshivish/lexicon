@@ -19,10 +19,10 @@ All three mean **armed**, and the Midrashim equate them outright: *Bamidbar
 Rabbah* 13:20 says *chamushim* means *chalutzim*, while *Mechilta d'Rabbi
 Yishmael* to Shemos 13:18 and *Shemos Rabbah* 20:19 say it means *mezuyanim*.
 *Chamush* is the Chumash's word (Shemos 13:18), tied by the grammarians to the
-*chomesh*, the part of the body where a weapon is girded, and by the derashos to
-*chamesh*, five.
-*Chalutz* is the **vanguard**, the men drawn out from the nation to go at the
-head of the army. *Mezuyan* is post-biblical, from Aramaic *zayin*, a weapon.
+*chomesh*, the part of the body where a weapon is typically girded, and by the
+derashos to *chamesh*, five.
+*Chalutz* is, on Rabbi Shlomo Pappenheim's reading, the **vanguard**, the men
+drawn out to go at the head of the army. *Mezuyan* is post-biblical, from Aramaic *zayin*, a weapon.
 Targum renders *chamush* in all four places by *zariz*, ready at a moment's
 notice, and often renders *chalutz* the same way; Onkelos gives *vayarek* of
 Avraham by *zariz* too. At Shemos 13:18 "armed" and "a fifth of them" are
@@ -47,8 +47,8 @@ Shmuel (Shmuel II
 2:23, 3:27, 4:6, 20:10), of men killed by a stab there; Sanhedrin 49a places it
 by the fifth rib, where the gallbladder and liver hang, so that a blow there
 kills. Ibn Janach, Rabbi Yehudah Ibn Balaam, Ibn Parchon, Ibn Ezra and Radak
-derive the adjective from that noun: an armed man wears his weapon girded at
-the *chomesh*. Ibn Saruk derives it the other way, the noun from the adjective.
+derive the adjective from that noun: an armed man typically wears his weapon
+girded at the *chomesh*. Ibn Saruk derives it the other way, the noun from the adjective.
 
 The Yerushalmi (*Shabbos* 6:4) ties it to *chamesh* instead: the Mishnah there
 lists five weapons a man might bear into a public domain on Shabbos, a sword, a
@@ -61,7 +61,7 @@ Chaim Kanievsky, and appears to stand in *Mechilta d'Rashbi* and the Yemenite
 Several further routes to the etymology have been offered, all of them as
 conjecture. Rabbi Dr. Ernest Klein conjectures that *chamush* relates to
 five in the sense of a military formation divided in five parts, van, body,
-rear and two flanks. The columnist adds his own suggestion: the most basic
+rear and two flanks. Rabbi Klein adds his own suggestion: the most basic
 weapon a man has is his own fist, which has five fingers, so a word for one
 bearing a weapon might well be tied to five. The German philologist Wilhelm
 Gesenius (1786 to 1842) sees Hebrew *chamush* as related to the Arabic *hamas*,
@@ -96,17 +96,17 @@ also gives the given name Cheletz, one of David's warriors (Shmuel II 23:26;
 Divrei HaYamim I 11:27, 27:10) and another man of that name (Divrei HaYamim I
 2:39). As with *chamush*,
 Ibn Balaam, Ibn Ezra (to Bamidbar 31:3) and Ibn Parchon derive the adjective
-from the body part: weapons are fastened at the loins. Radak (*Sefer
+from the body part: weapons are often fastened at the loins. Radak (*Sefer
 HaShorashim*) accepts that and adds the removal sense: fighting men are
 figuratively removed from the rest of the nation by being designated as
 soldiers. Rabbi Shlomo Pappenheim narrows it: *chalutzim* are the units
-extracted from the formation to serve at the front, ahead of the army. The
-columnist proposes a further possibility of his own, that *chalutzim* are those
+extracted from the formation to serve at the front, ahead of the army. Rabbi
+Klein proposes a further possibility of his own, that *chalutzim* are those
 who have drawn their weapon from its holder or sheath, or are ready to do so at
 a moment's notice, while noting that he has found no philologist who says so
 explicitly. Ibn
 Janach (*Sefer HaShorashim*) derives it from shedding a garment, seemingly
-because men ready for battle shed some of their civilian clothing. The Targumim
+because men ready for battle often shed some of their civilian clothing. The Targumim
 again often render it by *zariz*. In the Torah journal *Aspaklaria*, Rabbi
 Elimelech Bleiberg and Rabbi Itamar Habshush debated whether the Modern Hebrew
 *chalutz*, a pioneer, grows out of that Targumic tie between *chalutz* and
@@ -118,16 +118,16 @@ soldiers arrayed in formations of fifty, hence the tie to *chamesh*, while
 *chalutzim* are men slipped off and separated from the rest of the nation.
 Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim* 22) accepts Malbim on
 *chalutzim* but explains *chamushim* by the grammarians' route, men armed at
-the *chomesh*. On that second view both words are named for a body part and
-differ only in which one.
+the *chomesh*. If both words are named for a body part, Rabbi Klein observes,
+they differ only in which one.
 
 ### mezuyan (מזוין)
 Not in Tanach and not in the Mishnah, but common in Gemara: *listim mezuyanin*,
 armed robbers (Kiddushin 11a; Bava Kamma 57a-b, 80a, 114a; Bava Metzia 22a,
 29b, 43a, 58a, 93b, 95a; Bava Basra 92b; Temurah 15b; Yerushalmi *Shekalim*
 2:1, *Shevuos* 8:1). It comes from the Aramaic noun *zayin*, a weapon, which is
-Targum's standard rendering of Hebrew *neshek* and comparable terms; the column
-adds that the letter zayin itself orthographically resembles a weapon, perhaps a
+Targum's standard rendering of Hebrew *neshek* and comparable terms; the
+letter zayin itself orthographically resembles a weapon, perhaps a
 spear. The ordinary Gemara term is
 *klei zayin* (Eruvin 45a, Nazir 59a, Sanhedrin 82a, Makkos 10a, Avodah Zarah
 15b-16a, 25b; Yerushalmi *Peah* 1:1, *Pesachim* 4:3, *Avodah Zarah* 1:6, 2:1).

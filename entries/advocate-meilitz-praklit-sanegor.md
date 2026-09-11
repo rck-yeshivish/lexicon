@@ -18,8 +18,8 @@ updated: 2026-09-10
 *Meilitz* is the only native Hebrew word of the three: a **go-between**, in
 Bereishis an **interpreter**, and in the phrase *meilitz yosher* a **defending
 advocate** who speaks up for a man's uprightness. *Praklit* and *sanegor* are
-both Greek loanwords for a defender, and the traditional sources quoted in the
-article define each of them by *meilitz yosher*, so the difference between them
+both Greek loanwords for a defender, and the traditional sources cited below
+define each of them by *meilitz yosher*, so the difference between them
 comes not from those sources but from what historians of Greek law say the two
 offices were: the *praklit* the **patron** or **character witness** whose
 standing and vouching help the defendant, the *synegoros* the **defense counsel**
@@ -50,8 +50,8 @@ interchange of lammed and reish, and on that reading the word seems to name the
 smoothness and consistency the advocate's speech requires; they also trace it to
 ל-ו-צ (thinking, explaining), so that it names his reasoning. Rabbi Shlomo
 Pappenheim takes the core of ל-צ as logical verbalization, usable for good
-(*meilitz*) or for ill (*leitzanus*, mockery); elsewhere he holds that a prefixed
-mem reverses a two-letter root, so *leitz* (scorn) becomes *meilitz*
+(*meilitz*) or for ill (*leitzanus*, mockery); elsewhere he holds that in many
+roots a prefixed mem reverses the two-letter core, so *leitz* (scorn) becomes *meilitz*
 (justification, defense). Modern Hebrew's *leitzan*, a clown, comes from *leitz*
 but has lost the pejorative edge.
 
@@ -63,12 +63,11 @@ pasuk as one *praklit* from among a thousand *kategorin*. *Melechet Shlomo* (to
 manuscript of the Mishnah, *parakilit*; the *Tiferet Yisrael* (to *Avos* 4:11,
 *Yachin* 51) connects it to the Greek *parakletos* (*paraclete* in Latin).
 *Parakletos* is often understood as a Greek legal term meaning variously
-supporter, helper, sponsor, advocate and intercessor; the column breaks that word
-into *para*, outside or beside, and *kalein*, to call: one called in from outside
-to defend a man. What sort of defender he was is a question the article answers
-from historians rather than from the traditional sources: not a lawyer for hire
-but one's patron, who doubled as standing counsel and interceded in court when
-needed; some scholars argue he did not speak at all but helped by showing up and
+supporter, helper, sponsor, advocate and intercessor; the word breaks into
+*para*, outside or beside, and *kalein*, to call: one called in from outside
+to defend a man. Historians, rather than the traditional sources, explain what
+sort of defender he was: not a lawyer for hire but one's patron, who doubled as
+standing counsel and interceded in court when needed; some scholars argue he did not speak at all but helped by showing up and
 lending moral support, while others explain him as a character witness who
 attests to the defendant's virtue without arguing the case at hand. Rabbi Klein
 reads *Shabbos* 32a in that light, that a man led out to be sentenced is saved if
@@ -80,10 +79,10 @@ Shimon bar Yochai (*Zevachim* 7b, Tosefta *Parah* 1:1, *Toras Kohanim* to Vayikr
 appease, and only then is the gift accepted.
 
 ### sanegor (סניגור)
-Also a loanword. The column notes that it might be more accurately spelled
+Also a loanword. Rabbi Klein notes that it might be more accurately spelled
 *synagor*, being made of the Greek *syn* (together, same), the element in English
 *synonym*, *syntax*, *synagogue* and *synthesis*, and *agor* (gathering place,
-assembly), which it says is possibly related to the Hebrew *agur*, gathering. The
+assembly), which he says is possibly related to the Hebrew *agur*, gathering. The
 *synegoros* in Ancient Greece was a legal expert who argued before the assembly
 on a defendant's behalf. From an exegetical perspective many sources take it as a
 contraction of *sani* (to despise, hate) plus *tigra* (fighting, argument), the
@@ -94,8 +93,8 @@ Vayikra 16:4), and *Moshav Zekanim* (to Vayikra 16:4).
 
 ### kategor (קטגור)
 The accuser, and also from Greek: *kata* (down, reverse, against) plus *agora*
-(assembly), so one who speaks against another before an assembly. The column
-brings from *Encyclopedia Britannica* that although *kategoria* originally meant
+(assembly), so one who speaks against another before an assembly.
+*Encyclopedia Britannica* explains that although *kategoria* originally meant
 an accusation, Aristotle (384-322 BCE) already used it in the philosophical sense
 of an assertion, and that the English *category*, a class or group into which one
 can assert that an item belongs, descends from it. Many commentators, among them
@@ -103,7 +102,7 @@ Rabbeinu Chananel (*Rosh Hashanah* 26a, *Kiddushin* 5a), the Rambam, the
 Rashbatz, and Rabbi Yaakov bar Shimshon (the last three to *Avos* 4:11),
 understand *kategor* as a slanderer, one who informs to get a man into trouble;
 on that basis Rabbi Eliyahu HaBachur (1469-1549) in *Sefer HaTishbi* claims it is
-related to the Latin *interrogator*, which the column says does not quite pan out
+related to the Latin *interrogator*, which Rabbi Klein says does not quite pan out
 etymologically, *interrogator* being *inter* (between) plus *rogare* (to ask),
 which has nothing to do with the origins of *kategor*. *Machzor Vitri* reads it
 as a portmanteau of *ketata* (dispute) plus *tigra* (fighting); others as *magur
@@ -118,25 +117,25 @@ service, because "the *kategor* cannot become a *sanegor*" (the shofar in
 Hashanah* 36a and Yerushalmi *Yoma* 7:3).
 
 ### meltzar (מלצר)
-Appears twice in Daniel (1:11, 1:16), where it means a guard or a waiter. The
-column suggests it might come from the same core root as *meilitz*, with a reish
+Appears twice in Daniel (1:11, 1:16), where it means a guard or a waiter. Rabbi
+Klein suggests it might come from the same core root as *meilitz*, with a reish
 appended as a suffix doing the work of the English *-er*, forming an agent noun
 from a verb or another noun, as a *baker* is one who *bakes* and a *butler* one
-who deals with *bottles*. Its precedent for that pattern is the Rashbatz, Rabbi
+who deals with *bottles*. There is some precedent for that pattern in the Rashbatz, Rabbi
 Shimon ben Tzemach Duran (1361-1444), to *Avos* 4:11, who explains the appended
 reish in Rabbi Yochanan HaSandler as marking his trade of shoemaker (a *sandal*
 being a shoe in Greek and Mishnaic Hebrew alike), and who offers as a second
 example the Mishnaic *palter*, professional baker (*Demai* 5:4, *Avodah Zarah*
-4:9), from the Greek *plateia*, open street, since such a baker would sell his
-goods on the street; *plateia*, the column adds, is the ancestor of English
-*place* and *plaza*. On that pattern the *meltzar* is one who does what a
+4:9), from the Greek *plateia*, open street, since such a baker would typically
+sell his goods on the street (*plateia* is the ancestor of English *place* and
+*plaza*). On that pattern the *meltzar* is one who does what a
 *meilitz* does, standing between kitchen and diners, or between his charge and
 those who would harm him. Rabbi Yaakov Yehuda Zilberberg (1914-2003) links it
 instead to sweetness of speech (Tehillim 119:103 with Rav Hirsch there): the
 *meilitz* makes his words tasty, the *meltzar* tastes the food. Dr. Chaim Tawil
 takes *meltzar* to be unrelated to *meilitz* altogether, a borrowing from the
 Akkadian *massaru*/*mansaru*, with the nun and lammed interchanging. (The
-Ashkenazic surname Meltzer, the column notes, is unrelated to the Biblical
+Ashkenazic surname Meltzer is unrelated to the Biblical
 *meltzar*: it comes from the German and English *malt*, for the maltster who
 prepares grain for brewing.)
 
