@@ -28,7 +28,7 @@ cut short. *Nanas* is the Rabbinic term for a **dwarf**, and equally for short
 boards or low walls. *Gamad*, *namuch* and *nanas* are not confined to people.
 
 The Gemara (Moed Katan 18a) says that the Pharaoh of Moshe's day was but one
-*amah* tall, which, Rabbi Klein observes, gives a different spin to the scene of
+*amah* tall, which, Rabbi Reuven Chaim Klein observes, gives a different spin to the scene of
 Moshe and Aharon standing before him.
 
 ## Distinctions

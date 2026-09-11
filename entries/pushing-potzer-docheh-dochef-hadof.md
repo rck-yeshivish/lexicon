@@ -197,7 +197,7 @@ to her family, who came from Michalcze, today Mykhal'che in Ukraine, near Horode
 - *Docheh* in a halachic sentence never means bodily pushing. "Aseh docheh lo
   saaseh" is "a positive command overrides a prohibition," and "pushes away" is
   a translation of the metaphor, not of the law.
-- Bereishis 19:3 and 19:9 use the same verb four pesukim apart, once of a host's
+- Bereishis 19:3 and 19:9 use the same verb six pesukim apart, once of a host's
   hospitality and once of a mob. Keep the same English root in both if you can
   ("pressed," "pressed hard upon"), since the repetition is the Torah's, but
   Mecklenburg's reading of the second lets you write "shoved" there.

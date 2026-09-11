@@ -110,6 +110,7 @@ instead. Three readings:
   Simcha of Dvinsk (1843-1926) take a slightly different approach: *keves* always
   implies a young ovine, while *kesev* is a more general term that can cover
   sheep of all ages.
+
 Rabbi Aharon Marcus (1843-1916) takes *keves* from washing, as in the Midrash
 above, and *kesev* from *kisah* / *mechuseh*, covered, sheep being covered in
 wool.
