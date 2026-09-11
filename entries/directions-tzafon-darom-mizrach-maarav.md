@@ -28,10 +28,10 @@ Each direction has three Hebrew names, and each name says *why*: **east** is
 *mizrach* (where the sun shines out), *kedem* (the sun's first, forward
 position), or *panim* (facewards); **west** is *yam* (seaward, toward the
 Mediterranean), *maarav* (where shadows blur), or *acharon* (the sun's last
-place); **north** is *tzafon* (hidden from the sun), *smol* (left), or the
+place); **north** is *tzafon* (on one explanation, hidden from the sun), *smol* (left), or the
 Aramaic *estan*; **south** is *darom* (the sun's daytime path), *negev* (the dry
 country), or *teiman*/*yamin* (right). Bereishis 28:14 pairs *yam*, *kedem*, *tzafon*, *negev*; Devarim 3:27 pairs
-*yam*, *tzafon*, *mizrach*, *teiman*. The column's own answer to why the
+*yam*, *tzafon*, *mizrach*, *teiman*. Rabbi Klein's own answer to why the
 doublets exist: the several names each fix on a different aspect of the same
 direction, and are generally based either on the movements of the sun or on
 certain topographical features of Eretz Yisrael.
@@ -43,20 +43,19 @@ certain topographical features of Eretz Yisrael.
 *Kedem* is from *kodem*, early or forward, and points to the fact that the
 rising sun first shines from the east. *Panim*, literally "facewards," because
 when Adam was created the front of his body faced eastward, which makes east
-the default frame of reference for the whole system (see the north and south
-entries below).
+the frame of reference for *smol* and *yamin* (see the north and south entries
+below).
 
 ### West: yam (ים), maarav (מערב), acharon (אחרון)
 Rabbeinu Bachaya explains that *yam* literally means sea, and serves for west
-because the Mediterranean lies at the west side of Eretz Yisrael, so the word
-is local, not absolute. The west is also called *maarav*, from *me'urav*,
+because the Mediterranean lies at the west side of Eretz Yisrael. The west is
+also called *maarav*, from *me'urav*,
 mixed: as the sun sets, the shapes of the shadows become mixed up. Thirdly,
 *acharon*, literally "last," because it is the last place along the horizon
 where the sun is found before setting in the evening.
 
 ### North: tzafon (צפון), smol (שמאל), estan (אסתן)
-The commentators offer several explanations of *tzafon*, and the column leaves
-them all standing. Some compare it to *tzafun*, hidden, because in the
+The commentators offer several explanations of *tzafon*. Some compare it to *tzafun*, hidden, because in the
 northern parts of the world (the Arctic zone) the sun's influence is hidden,
 the cold there obscuring its warmth; or, alternatively, because the sun
 generally remains south of the celestial equator, so the north side is
@@ -64,12 +63,12 @@ generally remains south of the celestial equator, so the north side is
 gazing, since one can fix north by gazing heavenward and following the
 northern star. Another approach argues that *tzafon* refers to Mount Tzafon,
 a mountain mentioned in Tanach which lies due north of Eretz Yisrael and which
-the column reports is identified by scholars as Jebel Aqra, on the border
+scholars identify as Jebel Aqra, on the border
 between modern-day Turkey and Syria. *Smol*, left, follows from facing east.
 The Gemara sometimes uses the Aramaic *estan* for north (e.g. Kesubos 23a);
 Rabbeinu Bachaya (1255-1340) proposes that it may be related to the Aramaic
-*asuta*, health, alluding to the healing properties of the north wind (see
-Yevamos 72a). Some people accordingly have a custom of exclaiming *Asuta!* on
+*asuta*, health, alluding to certain healing properties of the north wind (see
+Yevamos 72a). Some people have a custom of exclaiming *Asuta!* on
 hearing another sneeze, to bless him with good health.
 
 ### South: darom (דרום), negev (נגב), teiman (תימן) / yamin (ימין)

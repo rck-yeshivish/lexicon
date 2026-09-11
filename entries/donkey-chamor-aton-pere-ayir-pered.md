@@ -27,8 +27,8 @@ young one, a **foal**; *pered* is the **mule**. Zecharyah 9:9 puts *chamor* and
 ## Distinctions
 
 ### The English words, before the Hebrew ones
-It is the English that blurs the distinctions. The
-older word is *ass*, from Latin *asinus*, with cognates across Indo-European:
+English has many overlapping names for what is often just called the domestic
+donkey. The older word is *ass*, from Latin *asinus*, with cognates across Indo-European:
 Greek *onos*, and possibly the Sumerian *anse*; English keeps others in
 *onager* (Middle English for a wild donkey), *easel* (a wooden frame that looks
 like a donkey) and *asinine*. *Donkey* is late, first attested in the 1780s, of
@@ -57,9 +57,10 @@ Aramaic and Syriac *chamara*, Ugaritic *hmr*, Arabic *himar*, Akkadian *imeru*.
 That said, the Hebrew lexicographers all agree it derives from the triliteral
 ח-מ-ר, which also gives wine, brown, clay and mortar, a pile, and *chomer*, a
 unit of area. Rabbi Aharon Marcus takes "brown" as the core, so the word names
-the reddish-brown hue of many donkeys; others tie it to "clay and material," the
-pack animal standing for the wholly material side of creation, or to "wine," the
-dull donkey's intellect matching a drunkard's. Note also the personal name
+the reddish-brown hue of many donkeys. Rabbi Reuven Chaim Klein has elsewhere
+tied it to "clay and material," the pack animal standing for the wholly material
+side of creation; others tie it to "wine," the dull donkey's intellect matching a
+drunkard's. Note also the personal name
 Chamor, father of Shechem, thirteen times in Tanach (Bereishis 33-34; Yehoshua
 24:32; Shoftim 9:28).
 
@@ -70,13 +71,14 @@ Thirty-four occurrences, densest at Bilaam's she-donkey (Bamidbar 22:21-23,
 *asonos*" (Shoftim 5:10). Radak: while *chamor* is either sex, *aton* is
 specifically female. Rabbi Ernest Klein's etymological dictionary makes *aton*
 a quintessentially Semitic word, with parallels in Aramaic and Syriac (*atana*),
-Ugaritic (*atnt*), Arabic (*atan*) and Akkadian (*atanu*), all meaning "jenny";
-the column leaves open the question why Semitic has two separate root-words for
-the male and female donkey when other animals take one root for both, as with
+Ugaritic (*atnt*), Arabic (*atan*) and Akkadian (*atanu*), all meaning "jenny".
+It remains an open question why Semitic has two separate root-words for the male
+and female donkey when the male and female of other animals often take one root,
+as with
 *par* and *parah*, *egel* and *eglah*, *keves* and *kivsah*. Rabbi David Chaim
 Chelouche (*Ohr Chadash* to Bereishis 12:16) proposes that *aton* derives from
-*es*, the particle that carries no meaning of its own but attaches to another
-word: male donkeys being known for an elevated libido (see Yechezkel 23:20), the
+*es*, the particle that generally carries no meaning of its own but is typically
+attached to another word: male donkeys being known for an elevated libido (see Yechezkel 23:20), the
 *aton*'s role is to be attached to the male. Rav Hirsch (to Bereishis 12:16,
 Shemos 14:27) links א-ת-ן to א-ד-נ, *tav* and *dalet* interchanging, so the name
 marks her load-bearing capacity, as an *eden*, one of the silver sockets holding
@@ -85,9 +87,9 @@ up the beams of the Mishkan, holds up what stands on it.
 Two dissents, both resting on *chamor* itself being usable for a female. Shadal
 (to Bereishis 12:16): *aton* is a separate species, the female of the *pere*, and
 the pasuk separates *chamor* from *aton* with servants and maidservants, not how
-one lists a male and female of one kind. But since the Shunamis rode an *aton*
-(Melachim II 4:24), and no woman would ride a wild ass, he concludes the word
-later widened to the domesticated female too, its young being an *ayir*
+one lists a male and female of one kind. But the Shunamis rode an *aton*
+(Melachim II 4:24), and he finds it highly unlikely that a woman would ride a
+wild ass; so he concludes the word later widened to the domesticated female too, its young being an *ayir*
 (Bereishis 49:11). Pappenheim (*Cheshek Shlomo*) rejects the feminine reading for
 the same reason and offers a stage of life: from ת ("sign, boundary") comes א-ת,
 the joining of separate units, whence *es* and *atah*; *eisan* is strength from
@@ -133,17 +135,16 @@ colt.
 *Pered* is the mule, feminine *pirdah*; root פ-ר-ד, separating. Rav Hai Gaon,
 cited by Radak in *Sefer HaShorashim*: the mule is separated from other animals
 by being unable to reproduce. Rabbi Yehoshua Steinberg compares it to its human
-counterpart the *mamzer*, whose name is tied to *zar*, kept outside on account of
-his parentage; on his reading the *pered*, by dint of its tainted, intermixed
+counterpart the *mamzer*, whose name is tied to *zar*, often kept outside on account
+of his parentage; on his reading the *pered*, by dint of its tainted, intermixed
 lineage, may have been seen as something separate from other animals, a kind
-of pariah. The column proposes an alternative of its own from the Mishnah's
+of pariah. Rabbi Reuven Chaim Klein proposes an alternative of his own from the Mishnah's
 ruling that a *pered* may not be mated with a horse or a donkey (Kilayim 1:6),
 which is the novel case, horse-and-donkey needing no statement: the root may
 cover not only separating but its opposite, joining together what ought to stay
-separate, which is exactly the *pered*'s parentage. A separate caution the
-column raises: the resemblance between *pered* and the German and Yiddish
-*pferd*, "horse," is a common misconception of borrowing in one direction or the
-other; linguists trace the German word to the Proto-Indo-European root *reidh-*,
+separate, which would fit the *pered*'s parentage. The resemblance between
+*pered* and the German and Yiddish *pferd*, "horse," gives rise to a common
+misconception of borrowing in one direction or the other; linguists trace the German word to the Proto-Indo-European root *reidh-*,
 "to ride," by way of the Latinate *paraveredus*, "a courier's horse."
 
 *Yeimim* is a *hapax*: Anah found the *yeimim* in the desert while pasturing his
@@ -152,9 +153,9 @@ mules by mating a male donkey with a mare, which is pointed because Anah was
 himself a *mamzer*, born of the incestuous union of Tzivon and Tzivon's own
 mother. The Yerushalmi (Berachos 8:5) cites a slightly different version of the
 tradition, in which the *yeimim* were born of a male horse and a female donkey.
-The column notes, on Al-HaTorah's authority, that the comment in Rashi giving a
-donkey father and a horse mother does not appear in all manuscript versions of
-Rashi, which makes sense, since it is the converse of the Yerushalmi. Shadal (to
+According to Al-HaTorah, the comment in Rashi giving a donkey father and a horse
+mother does not appear in all manuscript versions of Rashi; Rabbi Reuven Chaim
+Klein finds that this makes sense, since it is the converse of the Yerushalmi. Shadal (to
 Bereishis 36:24) alludes to Rashi's explanation and rejects it because he sees
 no difference between *yeimim* and its apparent synonym *pered*, and follows the
 Yerushalmi, so that *pered* is a mule and *yeimim* are hinnies. Targum Onkelos

@@ -37,7 +37,7 @@ updated: 2026-09-10
 ## Bottom line
 
 *Garzen* is the general Biblical **axe**, and equally the stonecutter's **pick**;
-it is the only one of these words Chazal do not use in their own Hebrew.
+it never occurs in Rabbinic Hebrew except when a pasuk is quoted.
 *Kardum* is the double-headed **adze-axe** or **mattock**, adze on one face and
 axe on the other. *Maatzad* is the **adze**, the woodworker's shaping tool and
 the smaller implement of the pair. *Kashil* is the **large axe** and *keilapot*
@@ -60,39 +60,38 @@ the **hatchets**, both appearing once only, together in one pasuk. *Maatzad* and
 a four-letter root ג-ר-ז-ן, every consonant part of the core. Radak (*Sefer
 HaShorashim*) reads a three-letter ג-ר-ז, cutting and carving, with the final NUN
 extraneous. Ibn Janach (*Sefer HaShorashim*) and Rabbi Shlomo Ibn Parchon
-(*Machberes He'Aruch*) list the word under both and settle on neither. Ibn Janach
+(*Machberes He'Aruch*) list the word under both and seem to settle on neither. Ibn Janach
 further ties ג-ר-ז to its metathesized twin ג-ז-ר, cutting, and Rashi (to
 Tehillim 31:23) and his grandson Rabbeinu Tam likewise follow Donash Ibn Labrat
-in doing the same. Four-letter roots are, as the
-column notes, generally reckoned rare in Hebrew and are often explained by the
-commentators as loanwords from foreign languages, and a *garzen* plainly cuts.
+in doing the same. Four-letter roots are generally reckoned rare in Hebrew and
+are often explained by the commentators as loanwords from foreign languages.
 
-**What a *kardum* is.** Radak (to Shmuel I 13:20) reads the Biblical *kardum* as
-the Mishnah's tool (Keilim 13:3), double-sided, adze one way and axe the other.
-Ibn Janach defines it a "spade," which Radak rejects; the column suggests that
-the later Rabbinic digging sense is likely what led Ibn Janach there. That
+**What a *kardum* is.** The Mishnah's description (Keilim 13:3) suggests a
+double-sided tool, adze one way and axe the other, and Radak (to Shmuel I 13:20)
+says the same applies to the Biblical *kardum*. Ibn Janach defines it a
+"spade," which Radak rejects; Rabbi Klein suggests that the later Rabbinic
+digging sense is likely what led Ibn Janach there. That
 digging sense is Rabbinic and not attested in Tanach: Avos 4:5 warns against
 making Torah a *kardum* to dig with.
 
-**How *garzen* and *kardum* divide the work.** Dr. Aaron J. Koller, on whose work
-the column says much of the article rests, argues from the principle that
-languages tend to avoid absolute synonyms that *garzen* is the "large ax" used to
-fell a tree, while *kardum* is the "smaller ax" used to cut the fallen log into
-pieces and chop off protruding branches. This sits beside Radak's double-headed
-*kardum* rather than replacing it.
+**How *garzen* and *kardum* divide the work.** Dr. Aaron J. Koller argues from the
+principle that languages tend to avoid absolute synonyms that *garzen* is the
+"large ax" used to fell a tree, while *kardum* is the "smaller ax" used to cut
+the fallen log into pieces and chop off protruding branches.
 
 **Whose tool the *maatzad* is.** Rashi (to Yeshayahu 44:12) makes it one of the
 blacksmith's tools, and elsewhere (to Shabbos 102b) a type of large *kurnas*.
 Against this, Dr. Koller notes that the Mishnah always has the *maatzad* in a
 woodworker's hand (Shabbos 12:1, Bava Kamma 10:10, Erchin 6:3, Keilim 13:4,
-29:6), and both of its appearances in Tanach are in the prophets' mockery of
+29:6). Both of its appearances in Tanach, too, are in the prophets' mockery of
 idol-makers, where a carpenter is carving wood (Yeshayahu 44:12, Yirmiyahu 10:3).
-Koller's resolution of the Yeshayahu context, which the column adopts, is that
-the tool is *made* by a blacksmith even though it is *used* by the woodworker.
+Koller's resolution of the Yeshayahu context is that the tool is *made* by a
+blacksmith even though it is *used* by the woodworker.
 
 **What *kashil* and *keilapot* are.** Menachem Ibn Saruk understands both as
-names of weapons. Donash Ibn Labrat identifies them as woodcutters' tools, and
-the Mishnah's use of *kashil* beside *maatzad* (Bava Kamma 10:10) bears him out.
+names of weapons. Donash Ibn Labrat disagrees and, in Rabbi Klein's judgment,
+correctly identifies them as woodcutters' tools; the Mishnah (Bava Kamma 10:10)
+uses *kashil* beside *maatzad* for a woodworker's tools.
 
 ## Distinctions
 
@@ -108,25 +107,25 @@ near roots ק-ר-ס ("crashing, tearing"), ג-ר-ס ("grinding, crushing") and �
 TZADI, and finds one sense running through all four: cutting, breaking or
 separating by force.
 
-The stonecutting sense also turns up outside Tanach. The column brings the Siloam
+The stonecutting sense also turns up outside Tanach, in the Siloam
 Inscription, written in Biblical Hebrew and found in the late nineteenth century
 in Hezekiah's Tunnel in Yerushalayim, the tunnel built to secure water from the
 Shiloach in Chizkiyahu's reign (Melachim II 20:20; Divrei HaYamim II 32:30). The
 inscription commemorates the two teams of diggers meeting in the middle, and uses
 *garzen* for the tools with which they carved through the rock.
 
-That one word should name two distinct tools of craftsmanship is unusual, and Dr.
-Aaron J. Koller addresses the problem with two possible explanations: a semantic
+That one word should name two distinct tools of craftsmanship is somewhat
+unusual, and Dr. Aaron J. Koller addresses the problem with two possible explanations: a semantic
 shift in the term over time, letting it cover both contexts, or *garzen* as a
-descriptive term for a tool shape that fits both uses. The column adds that in
+descriptive term for a tool shape that fits both uses. Rabbi Klein adds that in
 light of the etymology tying *garzen* to generic verbs for cutting, the problem
-is less acute to begin with. (In summarizing, the column glosses *garzen* as the
-"adze" in woodworking and the "pick" in stoneworking, though elsewhere throughout
-it renders the word "axe/pick.")
+is less acute to begin with. (In summarizing, he glosses *garzen* as the "adze"
+in woodworking and the "pick" in stoneworking, though elsewhere throughout he
+renders the word "axe/pick.")
 
 On cognates, Ibn Janach sees the Hebrew word as the etymon of the now-obsolete
-Arabic *karzam*, also "ax," on the interchangeability of GIMMEL and KAF. Forms of
-the same wanderwort in other languages, the column reports, include the Akkadian
+Arabic *karzam*, also "ax," on the interchangeability of GIMMEL and KAF.
+Apparently, forms of the same wanderwort in other languages include the Akkadian
 *hassinnu* and the Aramaic *chatzina* (Targum Yonasan to Yeshayahu 44:12, and
 Yoma 37b).
 
@@ -148,13 +147,13 @@ strikes perpendicular to the surface, while an adze blade sits perpendicular to
 the handle and works at an oblique angle. The axe fells the tree and trims the
 branches; the logs are then cut into workable planks, and the adze shapes the
 wood afterward. A tool that does both jobs is a mattock in English; the
-*kardum* is such a tool.
+Mishnah's description suggests the *kardum* is such a tool.
 
-The root raises a question the column takes up at length. The Gezer Calendar, an
+The root raises a question. The Gezer Calendar, an
 ancient Canaanite inscription found at Gezer, lists agricultural tasks by
 bi-monthly period, and one entry uses a declension of the Canaanite root ע-צ-ד
 for some action done to flax. The verb's precise sense is not obvious, but the
-column reports the consensus of scholars as "harvesting." Since Ancient Canaanite
+consensus of scholars takes it as "harvesting." Since Ancient Canaanite
 was close to Biblical Hebrew, that should suggest the Biblical *maatzad*, from
 the same triliteral root, is a scythe or sickle for harvesting rather than the
 adze most commentators take it for. Dr. Koller resolves this by holding that the
@@ -163,7 +162,7 @@ while the Canaanite ע-צ-ד of the Gezer Calendar is unrelated to it, being in 
 a cognate of the Aramaic ח-צ-ד, the standard Targumic rendering of inflections of
 the Hebrew *ketzirah*, by way of the interchangeability of AYIN and CHES.
 
-The column adds a bracketed aside of its own: he wondered whether the English
+Rabbi Klein wonders whether the English
 *adze* ultimately derives from the Semitic ע-צ-ד with metathesis of the last two
 consonants, notes that the *Oxford English Dictionary* lists the etymology of
 *adze* as unknown, and reports that he wrote to Dr. Theo Vennemann, who has

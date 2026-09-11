@@ -53,7 +53,7 @@ is why the Oral Torah calls it *kriyas Yam Suf*. Why the Written Torah says
 
 Rabbi Shlomo Pappenheim: *korea* is tearing or ripping something **soft**, which
 comes apart easily. Hence *kriah*, the mourner's rending of his garment. On this
-basis, the column adds, we can explain the fixed phrase *kriyas Yam Suf*: it
+basis Rabbi Klein explains the fixed phrase *kriyas Yam Suf*: it
 notes that vis-a-vis Hashem, tearing the sea was no great feat, as though He tore
 something that tears easily.
 
@@ -78,9 +78,8 @@ Rabbi Pappenheim and others trace *gozer* to the biliteral ג-ז, primarily
 (Bereishis 31:19, 38:12); *gezel*, robbing a man of one possession and leaving
 the rest intact; *gazam*, the grasshopper that eats some produce and leaves the
 rest; *geza*, a tree whose top has been truncated; *gazis*, hewn stone, part
-shaved down and the rest left in place. The column adds, in a bracketed aside,
-that the Modern Hebrew *gezer* ("carrot") is not directly part of this
-discussion, being derived from the Arabic word for that root vegetable, *jazar*
+shaved down and the rest left in place. The Modern Hebrew *gezer* ("carrot") is
+not directly related, being derived from the Arabic word for that root vegetable, *jazar*
 (which also means "cut" in Arabic).
 
 ### chatichah (חתיכה)
@@ -115,7 +114,7 @@ convinces.
 ### The rest of the family
 *Milah*, cutting off the top of something: the foreskin, the tops of stalks (Iyov
 18:16, 24:24) and grass (Tehillim 37:2), the dulling of the tips of arrows
-(Tehillim 58:8); one who does this cutting is a *mohel*. (The column adds that he
+(Tehillim 58:8); one who does this cutting is a *mohel*. (Rabbi Klein
 seems to remember reading somewhere that *mohel* or *milah* refers specifically
 to cutting something round, but cannot recall where.) *Poleach*, cutting open
 (Tehillim 141:7; Mishlei 7:23), with *pelach* the piece cut out, and Rabbi

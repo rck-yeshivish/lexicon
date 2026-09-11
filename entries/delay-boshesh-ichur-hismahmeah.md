@@ -23,7 +23,7 @@ updated: 2026-09-10
 give up, and the word carries the sting of *bushah*, shame. *Hismahmeah* is
 **tarrying** or **dawdling**, going slower than one should, and Rabbi Shlomo
 Pappenheim reads it as the one delay that can be right. Shemos 32:1 says
-*boshesh*, not *ichur*, and the difference is the whole peshat of the Eigel.
+*boshesh*, not *ichur*.
 
 ## Distinctions
 
@@ -35,20 +35,20 @@ Shapira-Frankfurter (*HaRechasim LeVik'ah*): *ichur* is an acceptable
 lateness, what we would call fashionably late.
 
 Rabbi Yaakov Tzvi Mecklenburg quotes an elaborate discussion of these words from
-the writings of R' Naftali Hertz (Wessely) Weisel, a figure the column describes
-as often maligned as a maskil but whose rabbinic bona fides are also attested to.
-Weisel reverses the value: *ichur* is being late willingly and deliberately,
+the writings of R' Naftali Hertz (Wessely) Weisel, a figure often maligned as a
+maskil but whose rabbinic bona fides are also attested to. Weisel: *ichur* is
+being late willingly and deliberately,
 while *boshesh* is being held up by forces beyond one's control. On that reading
 Shemos 32:1 says
 *boshesh* because the people assumed Moshe had been prevented from coming down,
 by illness or death, which is why they were ready to accept another leader; in
-truth his delay was an *ichur*, since he was deliberately staying to bask in
-Torah.
+reality his delay is better characterized as an *ichur*, since he was
+deliberately staying to bask in Torah.
 
 ### boshesh (בושש)
 Rashi (to Shemos 32:1) glosses *boshesh* as an expression of *ichur* without
 saying what separates them. Rabbi Yehuda Leib Shapira-Frankfurter: *boshesh* is
-an excessive delay, hours upon hours; Malbim says the same, a lateness beyond
+an excessive delay, hours upon hours; Malbim similarly, a lateness beyond
 the lateness. Rabbi Shlomo Pappenheim: *boshesh* is the delay one ought to be
 ashamed of, tying it directly to *bushah*.
 
@@ -77,7 +77,7 @@ Rabbi Yehuda Leib Shapira-Frankfurter: a delay caused by moving slower than
 one should, dawdling where speed was called for. His cases are Lot dragging his
 feet leaving Sedom (Bereishis 19:16) and David holding back his flight from
 Avshalom to hear from Achimaatz (Shmuel II 15:28). Rabbi Shlomo Pappenheim
-gives it the opposite valence: *hismahmeah* is a delay that is positive and at
+looks at it differently: *hismahmeah* is a delay that is positive and at
 times the right thing to do. He ties it to the biliteral מ-ה, *mah*, "what," an
 expression of uncertainty: one who is *hismahmeah* is standing about doing
 nothing in particular because he is still asking himself what he ought to do.

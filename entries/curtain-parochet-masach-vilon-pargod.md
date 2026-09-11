@@ -24,7 +24,8 @@ the Mishkan the *paroches* separates the Kodesh from the Kodesh HaKodashim and
 the *masach* hangs over an entrance. *Vilon* and *pargod* are the later
 Rabbinic words: *vilon* a plain **curtain**, *pargod* a **partition curtain**
 standing where the *paroches* stands, and in aggadic contexts the screen
-between Hashem and what is below. *Paroches* names a function, not a fabric.
+between Hashem and what is below. On Rabbi Shlomo Pappenheim's reading,
+*paroches* names a function, not a fabric.
 
 ## Distinctions
 
@@ -53,9 +54,8 @@ it from ס-כ, "covering," the root behind *sukkah* (covered with *sechach*) and
 the Modern Hebrew *maseichah* ("mask," covering the face). A *masach* is thus a
 screen that keeps a thing from the eyes of onlookers, and more broadly any thick
 cloth used for protection, whether laid over something as a cover (Shmuel II
-17:19, Tehillim 105:39) or hung down its side as a curtain. The column notes
-that in Modern Hebrew *masach* is any sort of "screen," a computer monitor
-included.
+17:19, Tehillim 105:39) or hung down its side as a curtain. In Modern Hebrew
+*masach* is any sort of "screen," a computer monitor included.
 
 ### paroches hamasach (Shemos 35:12)
 Rabbi Shlomo Pappenheim reads the doubled name as carrying both senses at once:
@@ -68,7 +68,7 @@ outside.
 Four times in the Mishnah (*Keilim* 20:6, 24:13, 27:9, and *Negaim* 11:11), and
 the name of the first of the seven heavens (*Chagigah* 12b), because it serves
 as the curtain over the entrance to the heavens. The origins of the word are
-neither Hebrew nor Aramaic: the column has it a loanword from the Greek *velum*,
+neither Hebrew nor Aramaic: it is a loanword from the Greek *velum*,
 which is related to the English *veil*. *Velum* survives in English scientific
 terminology for a thin veil-like membrane, and the English *reveal* and *unveil*
 literally mean to undo a veiling.
@@ -76,17 +76,16 @@ literally mean to undo a veiling.
 ### pargod (פרגוד)
 The Rabbinic word used where Tanach has *paroches*. Rabbi Nosson of Rome in
 *Sefer HaAruch*: a *pargod* is the curtain separating a *chasan* from everyone
-else, which matches the *paroches* separating a king from the people and the
+else. This mirrors the *paroches* separating a king from the people and the
 Kodesh HaKodashim from the Kodesh. Rav Hai Gaon, on the Mishnah's *pargod*
-(*Keilim* 29:1), glosses it simply as *paroches*. It carries the same heavenly
-weight as *vilon*: the Gemara (*Chagigah* 15a) relates that the apostate Elisha
+(*Keilim* 29:1), glosses it simply as *paroches*. Like *vilon*, it also has
+some heavenly connotations: the Gemara (*Chagigah* 15a) relates that the apostate Elisha
 ben Avuyah claimed he heard from beyond the *pargod* a call for everyone else to
 return except him, and the Yom Kippur Mussaf piyut has Rabbi Yishmael ben Elisha
 ascending and reporting what he heard from beyond the *pargod* about the decree
-of the Ten Martyrs. Rashi defines it in these contexts twice, at *Bava Metzia*
+of the Ten Martyrs. In similar contexts Rashi defines it twice, at *Bava Metzia*
 59a as the separation between Hashem and the *malachim*, and at *Berachos* 18b
-as the separation between Hashem and His Holy Presence. On etymology the column
-gives two lines. Rabbi Ernest Klein derives *pargod* from the Greek
+as the separation between Hashem and His Holy Presence. Rabbi Ernest Klein derives *pargod* from the Greek
 *paragaudos*/*paragaudion* and the Latin *paragauda*, a "laced garment" or
 "tunic," the lattice of a curtain somewhat resembling that weave. Others explain
 it from the Latin *pergere* ("come," "go forward"), which in turn might

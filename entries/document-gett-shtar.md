@@ -19,7 +19,7 @@ updated: 2026-09-10
 ## Bottom line
 
 Neither *gett* nor *shtar* is biblical. In the language of Chazal both mean
-**document**, and both normally take a modifier (*gett chov*, *shtar erusin*).
+**document**, and both often take a modifier (*gett chov*, *shtar erusin*).
 *Gett* is the broader of the two for Rabbi Yisrael Yaakov Algazi: every *shtar*
 may be called a *gett*, not every *gett* a *shtar*. Unmodified, *gett* means
 **a bill of divorce** (Rashi; Rambam). In Tanach the bill of divorce is *sefer
@@ -31,7 +31,7 @@ a deed of sale is *sefer hamiknah* (Yirmiyahu 32).
 ### gett (גט)
 Technically any document. *Gett ishah*, a "woman's *gett*," is a writ of
 divorce; *gett shichrur*, a "*gett* of freedom," a slave's writ of emancipation;
-*gett chov*, an "obligatory *gett*," which the column glosses as an IOU (Gittin
+*gett chov*, an "obligatory *gett*," an IOU (Gittin
 10a; Bava Kamma 95a; Bava Basra 160a). Rashi (Gittin 65b) and Rambam
 (Commentary to the Mishnah, Gittin 2:5) record that the default *gett* in
 colloquial terms is a bill of divorce. Rabbi Yisrael Yaakov Algazi adds, as an
@@ -55,8 +55,8 @@ divorce, is the subject of a long disagreement.
   separation, and the Vilna Gaon (*Divrei Eliyahu*) says the like. Rabbi Meir
   Mazuz sharpens it: other never-adjacent pairs (גק, סצ) are letters from the
   same organ of speech and hard to pronounce, while *gimmel* and *tes* come from
-  different organs and are perfectly pronounceable, and they are the earliest
-  incompatible pair in alphabetical order. Rabbi Chaim Kanievsky (*Taama DeKra*
+  different organs yet still never stand in that order, and they are the
+  earliest incompatible pair in alphabetical order. Rabbi Chaim Kanievsky (*Taama DeKra*
   to Devarim 24:1) offers that last point too. The pair does occur across a word
   boundary at Yechezkel 22:25; see Rabbi Aryeh Leib Tzintz's introduction to
   *Seder HaGett*.
@@ -65,7 +65,7 @@ divorce, is the subject of a long disagreement.
   repels people, fitting a document by which a couple push one another away. The
   Chasam Sofer knows a version in which the stone *attracts*, and settles it
   from the other *Shiltei HaGibborim* (Rabbi Avraham the Physician of Portaleone)
-  on the stone "gagate" that draws straw when rubbed. On that reading every
+  on the stone "gagate" that is said to draw straw when rubbed. On that reading every
   document is a *gett* because it binds parties together, and the divorce sense
   is the harder one, which is why the twelve-line explanation was needed.
 - **Cutting or erasing.** *Tosafos Chachmei Anglia* (Gittin 2a), *Orchos Chaim*
@@ -75,13 +75,13 @@ divorce, is the subject of a long disagreement.
   cite a lost Yerushalmi that uses it so. Rabbi Shlomo Aharon Wertheimer
   similarly suggests it is an expression of erasure (compare Rashi to Berachos
   56a).
-- **Akkadian.** Despite all of these explanations, the column reports that the
+- **Akkadian.** Despite all of these explanations, the
   scholarly consensus is that the Mishnaic Hebrew *gett* is a loanword from the
   Akkadian *gittu*, "a (single-column) document."
 
 On the word *ghetto*, the section of Rome to which the Jews were confined, the
 late Rabbi Eliezer Herstik wrote that some explain it derives from *gett*, in
-the sense of "chased away." The column sets three other theories beside it:
+the sense of "chased away." Three other theories stand beside it:
 that *ghetto* comes from the Italian *borghetto*, "small part of a city," from
 the Germanic *burg*, "fortress, city, town," the equivalent of English
 "borough" and the Old English suffix *-bury*; that it comes from the Venetian
@@ -91,7 +91,7 @@ Jews were first ghettoized in exile and slavery in biblical times.
 
 ### shtar (שטר)
 Root ש-ט-ר. Absent from Tanach but quite common in later rabbinic literature,
-including the Bar Kochba Letters and the Mishnah, and usually specified by its
+including the Bar Kochba Letters and the Mishnah, and often specified by its
 type:
 *shtar chov*, *shtar erusin* (Kesuvos 102b; Kiddushin 9b), *shtar nisuin* and
 *shtar arisus* (Bava Basra 167b), *shtar amanah* (Kesuvos 19a; Gittin 19b; Bava
@@ -105,7 +105,7 @@ Chaim Tawil defines the biblical *shoter* as a "record-keeper" or "organizing
 officer" and connects the root to the Akkadian verb *sataru*, "to write"; on his
 account both *shoter* and *sofer* mean a scribe in Akkadian, the former
 specifically a civil servant who is an official scribe, the latter any scribe at
-all. The column adds that the Old English *starr* is a corruption of *shtar* and
+all. The Old English *starr* is a corruption of *shtar* and
 referred to documents or contracts held by Jews, falling out of use after the
 expulsion from England in 1290 until later scholars such as the English
 parliamentarian John Selden revived it.
@@ -113,9 +113,8 @@ parliamentarian John Selden revived it.
 ### The biblical words
 Tanach has neither term. A bill of divorce is *sefer kerisus*, literally a
 "Scroll of Cutting" (Devarim 24:1-3; Yeshayahu 50:1). A deed of purchase is
-*sefer hamiknah*, a "Scroll of Acquisition," five times in Yirmiyahu 32, which
-the column calls the standard, or the only, biblical word for a document of
-sale.
+*sefer hamiknah*, a "Scroll of Acquisition," five times in Yirmiyahu 32, the
+standard, or the only, biblical word for a document of sale.
 
 ## Rendering guidance
 

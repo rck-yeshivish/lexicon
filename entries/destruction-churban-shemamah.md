@@ -20,9 +20,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Churban* is **destruction** in the sense of a place cut off from what kept it
-alive; the buildings may be standing. *Shemamah* is **desolation**, ruin
-visible to anyone who looks, and the stronger of the two. Vayikra 26:31 puts
+*Churban* is **destruction**, and in Rabbi Shlomo Pappenheim's sense a place cut
+off from what kept it alive; the buildings may be standing. *Shemamah* is
+**desolation**, ruin visible to anyone who looks (Rabbi Mecklenburg), and for
+Malbim the stronger of the two. Vayikra 26:31 puts
 both in one pasuk: "I will make your cities a ruin (*charbah*) and lay your sanctuaries waste
 (*vahashimosi*)."
 
@@ -31,10 +32,10 @@ both in one pasuk: "I will make your cities a ruin (*charbah*) and lay your sanc
 ### churban (חורבן), charbah (חרבה)
 Root ח-ר-ב. Malbim: *churban* is the word commonly applied to the destruction of
 a built-up urban area, and it is the milder of the pair. Rabbi Shlomo Pappenheim (1740 to
-1814) reads it differently and more sharply: *churban* names a thing that is not
+1814) reads it differently: *churban* names a thing that is not
 damaged in itself but has been severed from something outside it that it needed
-in order to thrive. A ghost town wholly intact but abandoned is a *churban*; it
-is destroyed with nothing about it looking destroyed. On the same logic an arid
+in order to thrive. A ghost town wholly intact but abandoned can be considered
+a *churban*; it is destroyed with nothing about it looking destroyed. On the same logic an arid
 land is a *charbah*, its barrenness owing not to a defect in the soil but to its
 being cut off from rain.
 
@@ -49,8 +50,7 @@ Mecklenburg joins them: one who comes upon utter ruin stands dumbfounded at the
 sight. *Shemamah* is destruction in the eye of the beholder.
 
 ### the two words on the Beis HaMikdash
-This is where the column is going, and it is the article's own answer to the
-question it opens with. Just as a man's *neshamah* is his lifeline to the Upper
+Just as a man's *neshamah* is his lifeline to the Upper
 Realms, so the Beis HaMikdash below was joined to a corresponding Mikdash above
 that served as its lifeline. Rabbi Chaim of Volozhin (*Nefesh HaChaim* 1:4)
 asserts that the Jewish sinners whose misdeeds brought on the Churban were far
@@ -58,18 +58,18 @@ worse villains than Nevuchadnetzar and Titus, who destroyed the first and second
 Batei Mikdash: their sins defiled the Heavenly Mikdash and so disconnected the
 physical buildings below from their Heavenly counterparts, and the direct result
 of that disconnection was that the foreign armies were able to come and destroy
-them. Following this approach, the column posits that *Churban HaBayis* does not
+them. Following this approach, Rabbi Klein suggests that *Churban HaBayis* does not
 name the physical destruction of the Mikdash at all but its spiritual
 disconnection through sin, while the Torah's *shemamah* of the Mikdash does name
 the physical wrecking of the buildings, the sight of which should deter from
-further sin. When we mourn the *Churban HaBayis* we do not simply mourn the
+further sin. On this reading, when we mourn the *Churban HaBayis* we do not simply mourn the
 demolition of a building; we mourn the spiritual decline that let the
 destruction happen.
 
 ### shahm (שם)
 Ibn Ezra: *shahm* is not always the ordinary "there"; it can belong to ש-מ-ם
 and mean desolation. Mecklenburg applies this to *al naharos Bavel sham
-yashavnu gam bachinu* (Tehillim 137:1), where "there" is otherwise redundant,
+yashavnu gam bachinu* (Tehillim 137:1), where "there" otherwise seems redundant,
 since "by the rivers of Bavel we sat" already says where. On his reading *sham*
 names their condition, not their location: they sat in desolation and wept.
 

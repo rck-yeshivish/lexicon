@@ -26,7 +26,7 @@ to the water: **dig out, dig through**; in the abstract, **search out**.
 Kara instead makes it digging a round pit). A verse that uses both verbs of one
 pit (Tehillim 7:16; Bereishis 26:25 against 26:32; Bamidbar 21:18) is not
 repeating itself, and *karah* is the *earlier, lesser* act (Malbim, Mecklenburg,
-Netziv, Rav Hirsch).
+Netziv, Rav Hirsch, Rabbi Shaul Bruch).
 
 ## Distinctions
 
@@ -38,7 +38,7 @@ relatively obscure *karah* (Shemos 21:33-34), while
 the Mishnah itself consistently says *chofer* for making a *bor* (Sheviis 3:10,
 Bava Kamma 5:5, Bava Basra 2:12). Malbim: the
 first stage of digging a pit, which is why "he dug (*karah*) a pit and dug it
-out (*chafirah*)" (Tehillim 7:16) runs in that order (so too Ibn Ezra, Ibn
+out (*chafirah*)" (Tehillim 7:16) runs in that order (see also Ibn Ezra, Ibn
 Ramoch, Meiri there), and why Yitzchak's servants first *karah* a well
 (Bereishis 26:25) and only later report the well they *chafirah* and found
 water (26:32; the same reading in Mecklenburg, HaKsav VeHaKabbalah, and
@@ -58,9 +58,9 @@ makes parties recognize one another, or by which a seller estranges himself from
 what he hands over. *Kur*, a furnace or kiln dug into the ground; whence *kiyor*,
 a washing vessel shaped like a *kur*, *kikar*, a talent, the metal a *kur*
 processes at one time, *kirah*/*kirayim*, an oven likewise dug in, and *kikar*, a
-loaf baked in a *kirah*. *Kar*, a fertile field whose borders were marked by
-digging ditches around it; whence *karim*, the fat animals that feed on it,
-*kor*, the measure of grain such a field yields, *kikar*, an especially large
+loaf typically baked in a *kirah*. *Kar*, a fertile field whose borders were
+typically marked by digging ditches around it; whence *karim*, the fat animals
+that feed on it, *kor*, the measure of grain a typical such field yields, *kikar*, an especially large
 *kar* with lush pasture, *kreiti*, knights granted fiefdoms over such lands,
 *ikar*, the peasant who works them, and *kerem*, a vineyard, land ripe for
 planting vines. And *kares*, cutting, since digging breaks the parts of the earth
@@ -94,7 +94,7 @@ of the nation, whose merits could begin the digging (*karah*) but not complete
 the project without the leaders.
 
 ### chatzivah (חציבה)
-Root ח-צ-ב. Malbim: not digging at all but quarrying, excavating with a hammer
+Root ח-צ-ב. Malbim: in contrast to the digging terms, quarrying, excavating with a hammer
 that chisels rock or hard ground. Rabbi Yosef Kara (to Yeshayahu 5:2): a
 synonym of *karah* and *chofer*, except that it names the digging of a round pit.
 He seems to relate the Biblical *chatzivah* to the Rabbinic *chatzav*, a jug or

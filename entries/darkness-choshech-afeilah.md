@@ -25,9 +25,9 @@ updated: 2026-09-10
 ## Bottom line
 
 *Choshech* is plain **darkness**, the dark of an ordinary night. *Afeilah* is
-**thick darkness**, something darker than *choshech* (Radak). Where they stand
-together, as in *choshech afeilah* at
-Makkas Choshech (Shemos 10:22), the Torah escalates.
+**thick darkness**, something darker than *choshech* (Radak). At Makkas Choshech
+(Shemos 10:22) they stand together, *choshech afeilah*, and the added *afeilah*
+implies a stronger darkness.
 
 ## At a glance
 
@@ -38,8 +38,8 @@ Makkas Choshech (Shemos 10:22), the Torah escalates.
 
 ## Where the authorities disagree
 
-**Is darkness a thing or the absence of a thing?** The oldest question in the
-cluster, and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
+**Is darkness a thing or the absence of a thing?** A long-debated question,
+and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
 
 1. **Absence of light.** Rav Saadia Gaon, Rambam, and others: darkness has no
    existence of its own; the word names a lack. On their side, Hashem is said to
@@ -55,16 +55,16 @@ cluster, and it decides how *bara choshech* in Yeshayahu 45:7 is heard.
 3. **Both, by context.** Ramban follows Rambam that *choshech* ordinarily means
    the lack of light, but holds that the darkness of the Ninth Plague was a
    real, palpable mist that not only blocked light but added darkness; the
-   Midrash gives it the thickness of a *dinar*. His reason for splitting them
-   is likely that this passage alone adds *afeilah*.
+   Midrash gives it the thickness of a *dinar*. Rabbi Klein suggests that
+   Ramban likely split them because here the Torah also uses *afeilah*, which
+   implies a stronger form of darkness.
 
-The Bottom line does not adjudicate the metaphysics. It matters for a *derashah*, and Ramban's position is the one that
-explains why Makkas Choshech is described as it is.
+The Bottom line does not adjudicate the metaphysics.
 
 **What makes afeilah heavier.** Malbim: a quantitative difference, *choshech*
 is night with moon and stars, *afeilah* is when they too give no light. Rabbi
 Shlomo Ibn Parchon: *afeilah* means "covered", a qualitative difference. Rabbi
-Yehuda Leib Edel follows that line: *choshech* is the mere lack of light,
+Yehuda Leib Edel writes similarly: *choshech* is the mere lack of light,
 *afeilah* is a tangible thing standing between the light and the eye, which for
 him were dark clouds that filtered the daylight so that it reached Yisrael and
 not the Mitzrim. Rabbi Baruch HaLevi Epstein, possibly on Ibn Parchon's
@@ -74,10 +74,8 @@ Mitzrim's eyes, barring them from seeing the light of day.
 ## Distinctions
 
 ### choshech (חושך)
-The unmarked word. Rashi (to Shemos 10:22): the "materializing" of the darkness
+The unmarked word. Rashi (to Shemos 10:21): the "materializing" of the darkness
 means that this plague was not merely a prolonged night but darker than night.
-That comment already assumes that ordinary *choshech* is the night dark, which
-is what Malbim then spells out.
 
 ### afeilah (אפילה)
 Radak (*Sefer HaShorashim*): *afeilah* is darker than *choshech*. Rabbi Shlomo

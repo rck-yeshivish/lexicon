@@ -20,13 +20,14 @@ updated: 2026-09-10
 
 *Taavah* is **craving**, and in a mussar context **lust**: the desire whose
 fulfillment is direct bodily pleasure, born of the man's own appetite and
-imagination, and in Scripture almost always the desire for intimacy (Vilna Gaon;
-Malbim). *Chemdah* is **coveting**: desire drawn by the object's own worth and
+imagination (Vilna Gaon; Malbim). The word almost exclusively conjures the desire
+for intimacy. *Chemdah* is **coveting**: desire drawn by the object's own worth and
 roused by seeing it, typically for money, a house, fine clothes (Vilna Gaon;
 Rabbi Pappenheim and Rabbi Mecklenburg; Malbim). *Chefetz*, the Vilna Gaon's word
-for desire for food, seems to sit between them: plain **desire** (see the *ratzon*
-entry). Chazal pair them: *chemdah* with theft, *taavah* with illicit relations
-(Chagigah 11b). The contrast between the two is inside (*taavah*) against outside
+for desire for food, seems to sit between them, as Rabbi Klein suggests: plain
+**desire** (see the *ratzon* entry). Chagigah 11b applies the two to theft and
+illicit relations, and the Vilna Gaon explains that it does so respectively:
+*chemdah* with theft, *taavah* with illicit relations. The contrast between the two is inside (*taavah*) against outside
 (*chemdah*).
 
 ## Distinctions
@@ -39,32 +40,33 @@ alignment of other factors, the subject's own proclivities, the time, the place.
 Malbim: created by the man's own power of imagination, whether or not he ever saw
 the object; not a reaction to outside stimuli but something that comes from
 within. Both *taavah* and *chemdah* are self-damaging desires for Malbim. The
-column's opening case: the *erev rav* "desired a desire", התאוו תאוה (Bamidbar
-11:4). The literal text has the dispute centering on the mann, yet the mesorah
+*erev rav* "desired a desire", התאוו תאוה (Bamidbar 11:4). The literal text
+suggests the dispute centered on the mann, yet the mesorah
 holds that the core of the clash was the refusal to accept the Torah's laws of
 whom one may marry, and Chazal find the allusion in the weeping "according to its
-families" (Bamidbar 11:10), read as crying over family matters. The column
+families" (Bamidbar 11:10), read as crying over family matters. Rabbi Klein
 suggests that the basis for that reading seems to lie in the Torah's word choice
 here, since *taavah* almost exclusively conjures intimacy-related desire while
-other desires take other words. The Yiddish *tayvuh* keeps the same range.
+other desires take other words. (In the prevalent Yiddish pronunciation the word
+is *tayvuh*.)
 
 ### chemdah (חמדה)
 Root ח-מ-ד. The Vilna Gaon: desire for something whose attainment is not itself a
 bodily pleasure: elegant clothes, a nice house, a lot of money; Chagigah 11b
 attaches it to theft, and in another place the Gaon calls it monetary desire.
 Rabbi Pappenheim and Rabbi Mecklenburg: the desire follows from the inherent,
-universally recognized properties of the object, so the man who covets is
-responding to real advantages of possession, not to his appetite. Malbim: created
-by visual stimuli; one sees and then wants. The column reads the later two as
-falling in with the first: Rabbi Pappenheim and Rabbi Mecklenburg's account can
-be understood as somewhat of an expansion on the Vilna Gaon's, and Malbim's too
-is in consonance with it, since on the Gaon's approach *chemdah* is the desirer's
+universally recognized properties of the object. Malbim: created by visual
+stimuli; one sees and then wants. Rabbi Klein reads the later two as falling in
+with the first: Rabbi Pappenheim and Rabbi Mecklenburg's account can be
+understood as somewhat of an expansion on the Vilna Gaon's, since the desire to
+accrue possessions is generally born not of appetite but of recognizing the
+advantages of possessing them; and Malbim's too is in consonance with it, since on the Gaon's approach *chemdah* is the desirer's
 recognition of the desired thing's goodness while *taavah* in certain ways
 ignores the thing and fixes on the desirer's own predetermined craving for it.
 
 ### chefetz (חפץ)
 Root ח-פ-ץ. The Vilna Gaon, contrasting three words: *taavah* sensual, *chemdah*
-monetary, *chefetz* culinary. The column suggests that *chefetz* seems to be the
+monetary, *chefetz* culinary. Rabbi Klein suggests that *chefetz* seems to be the
 happy medium between the other two: the delectable taste of good food is indeed
 an inherent value in the food (like *chemdah*), but the desire to eat it is also
 tied to the eater's own appetite (like *taavah*). Malbim sets *chefetz*

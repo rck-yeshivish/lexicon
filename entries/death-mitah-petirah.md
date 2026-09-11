@@ -38,12 +38,13 @@ parshiyos, and the sidra opens *acharei mos* the two sons of Aharon (Vayikra
 16:1).
 
 In the ancient Canaanite cultures around Eretz Yisrael, death was personified and
-deified as the god Mot (also spelled Mawet or Motu), an independent entity on a
-par with the other gods and sometimes competing with them; in Ugaritic mythology
+deified as the god Mot (also spelled Mawet or Motu); those cultures tended to see
+it as an independent entity on a par with the other gods and sometimes competing
+with them; in Ugaritic mythology
 Mot rules the underworld and is one of Baal's chief rivals, with a parallel in
 the Greek Hades. That differs from the scientific view of death as a natural
-process affecting every living thing. Rabbinic discourse, the column says, takes
-a middle approach: the *Malach HaMaves* holds power over death, but as an angel
+process affecting every living thing. Rabbinic discourse takes a middle
+approach: the *Malach HaMaves* is said to hold power over death, but as an angel
 is wholly subservient to Hashem, not an independent death deity.
 
 *Mitah* applies to any living being that undergoes the separation of body from
@@ -56,29 +57,28 @@ Root פ-ט-ר, "exit": in Tanach the firstborn animal that exits its mother's wo
 (*peter rechem*); in Rabbinic Hebrew to be discharged of an obligation or to take
 leave of a companion; and, most frequently of all, the legal *patur*, exempt, one
 who has figuratively exited the realm of the obliged and beholden and so is free
-of the burden of compulsion. (The column notes in passing that the English
-*exempt* itself comes from the Latin *exemptus*, literally "taking out, away.")
+of the burden of compulsion. (The English *exempt* itself comes from the Latin *exemptus*, literally "taking out, away.")
 For death, the Mishnah's *nifter min ha'olam* (Peah 8:9) and the
 Bavli's variants (Berachos 17a, Kesubos 68a, 104a-105b, Kiddushin 72b,
 Sanhedrin 113b); standing alone of a named person only for Avraham (Bava Basra
 16b) and Moshe (Temurah 16a). The Gemara generally avoids *meis* for a person's
 passing; another of its idioms is *nach nafshei*, "his soul rested."
 
-The article's own account of the link between *petirah* and *patur*: while the
+Rabbi Klein's own account of the link between *petirah* and *patur*: while the
 soul dwells in the body it binds the body to a higher purpose and to Hashem's
 law; when the soul departs, the body is exempt of all obligation. One who lived
 for a higher purpose is *nifter* when he dies, exiting one room to enter
-another on the same trajectory; hence Chazal's ruling that the righteous are
-called alive even in death and the wicked dead even in life (Berachos 18a-b),
-and hence *petirah* is generally reserved for the righteous. Rabbi Moshe Shapiro
+another on the same trajectory; to this effect Chazal state that the righteous
+are called alive even in death and the wicked dead even in life (Berachos
+18a-b); and so *petirah* is generally reserved for the righteous. Rabbi Moshe Shapiro
 observes that plants, rooted firmly in the ground, are tied to their lifeline in
 the soil as a man is tied to his soul, and that the connection shows the plant
 does not simply grow of its own accord but joins to something loftier; mushrooms
 and the other fungi rise rootless, free-floating and self-serving, disconnected
 from any accountability, and so are called *pitriyos* (Uktzin 3:2), *patur* of
-obligation. Such a life, though technically life, is nearer death than life.
-Rabbi Avraham Chaim Schor: the pious man's life in This World is full of
-physical suffering, and at death he is exempted from it; so *nifter* is said
+obligation. Such a life, though it might technically count as life, is nearer
+death than life. Rabbi Avraham Chaim Schor: the pious man's life in This World
+is often full of physical suffering, and at death he is exempted from it; so *nifter* is said
 specifically of a *tzaddik*, *mitah* of death in general.
 
 ## Rendering guidance

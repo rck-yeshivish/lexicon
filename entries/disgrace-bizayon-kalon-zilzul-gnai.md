@@ -15,8 +15,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Four words for putting something down, and they are graded by what the
-disparager claims about the object's worth. *Kalon* treats a person as a
+Four words for putting something down. *Kalon* treats a person as a
 lightweight, worth less than he is: **dishonor, disgrace**. *Bizayon* is
 stronger, treating him as worth nothing at all: **contempt, disparagement**
 (Rabbi Shlomo Pappenheim). *Zilzul* is cheapening, selling low what should be
@@ -39,8 +38,8 @@ beneath him (Esther 3:6). Malachi turns the same root on Kohanim who despise
 turns it back on Eisav through Ovadiah, *bazui atah me'od* (Ovadiah 1:2). Rabbi
 Pappenheim groups *bizah*, plunder, under the same core: property taken without
 paying for it is cheap in the taker's eyes. Rabbi David Chaim Chelouche, late
-Chief Rabbi of Netanya, reads *bizayon* as a cognate of *bushah* on the
-interchange of *zayin* and *shin*.
+Chief Rabbi of Netanya, holds that *bizayon* can be understood as a cognate of
+*bushah* on the interchange of *zayin* and *shin*.
 
 ### kalon (קלון)
 Root ק-ל-ן, from the biliteral ק-ל, which Rabbi Pappenheim defines as the
@@ -61,8 +60,8 @@ Not in Tanach as such, but the root ז-ל is. Rabbi Pappenheim gives its core as
 the inability of parts to stay joined: *zulas*, "apart from," what is not
 attached to the set; *nozel*, flowing liquid, whose parts will not hold together;
 *zal/zolel*, unbridled monetary spending (Yeshayahu 46:6), as though a man
-cannot stay attached to assets that just flow away from him. The column compares
-the English "liquidate," selling things cheaper than they are worth. Since one
+cannot stay attached to assets that just flow away from him. The English
+"liquidate," selling things cheaper than they are worth, is similar. Since one
 who sells low or spends loosely shows the goods meant little to him, the same
 root yields lowered worth (Eichah 1:8), *zalzal*, the unimportant shoots pruned
 off a vine so they do not harm the more valuable fruit (Yeshayahu 18:5), and in
@@ -70,8 +69,7 @@ the language of Chazal *zol*, cheap, since a product supplied in abundance drops
 in price and in people's regard. *Zilzul* is accordingly disparagement by
 cheapening a thing's value. Rabbi Eliyahu HaBachur connects *zilzul* to this
 root explicitly and notes that it is sometimes used by the Targumim to render
-cognates of *kalon* in Aramaic (Iyov 40:4; Mishlei 12:9), so in Aramaic the
-*kalon*/*zilzul* line is not a hard one.
+cognates of *kalon* in Aramaic (Iyov 40:4; Mishlei 12:9).
 
 ### gnai / genus (גנאי, גנות)
 Also absent from Tanach; it lives in the Targumim and in Mishnaic Hebrew. Rambam
@@ -88,14 +86,14 @@ the point at which the nation was in utter disgrace, its pre-Avrahamic pagan
 origins or its slavery in Mitzrayim. The adjective is *megunah*. Rabbi Eliyahu
 HaBachur, in *Meturgaman*, files *gnai* under a four-letter root ג-נ-א-י of its
 own. Rabbi Dr. Ernest Klein traces it instead to an Aramaic root ג-נ-י meaning
-to be within shade; the column adds that perhaps this might be related to the
-English "to cast a shadow" over something, and Klein further connects
-*gnai*/*genus* to the Arabic *janyya*, "crime." That Aramaic root evidently
+to be within shade, and further connects *gnai*/*genus* to the Arabic *janyya*,
+"crime." Rabbi Reuven Chaim Klein adds that perhaps the shade sense might be
+related to the English "to cast a shadow" over something. That Aramaic root evidently
 goes back to Rabbi Pappenheim's biliteral ג-נ, protection, which yields *gan*, a
 guarded and protected plot, *niggun*, a melody whose variety of sounds mimics
 the variety of flora in a garden, and *magen*, a shield. On the pairing of
-*gnai* with *gan* the Maggid of Kozhnitz (Rabbi Yisroel Hopstein) built an
-insight the column marks as Hassidic rather than etymological: a garden needs
+*gnai* with *gan* the Maggid of Kozhnitz (Rabbi Yisroel Hopstein) built a
+Hassidic insight, not an etymological one: a garden needs
 large amounts of manure to thrive, and the more of such "disgraceful" matter
 one adds, the better it grows; so too a man, the more he humbles himself before
 Hashem and understands his own disgracefulness, the more he can grow and reap
