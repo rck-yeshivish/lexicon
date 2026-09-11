@@ -43,11 +43,12 @@ in Tanach only in *pach hashemen*. *Kankan* is a Mishnaic **jug** or **jar**;
 interchangeable, because in the vernacular they were not necessarily fixed (Bava
 Kamma 27a), and the column adds *kankan* (from Mishnayos that swap it with both)
 and *pach* (from the version of Chullin 91a that reads *levado* as *l'kado*).
-The column's answer to why *Maoz Tzur* sings of *kankanim* where the Gemara says
-*pachim* is poetic license; the interchangeability, which it first calls "a
-real possibility" and then concludes that the two "essentially mean the same
-thing," justifies the swap as well. *Kaneh* is not a container but a **reed**,
-**stem**, or **tube**, typically hollow.
+Why does *Maoz Tzur* sing of *kankanim* where the Gemara says *pachim*? Rabbi
+Reuven Chaim Klein answers that it is poetic license, and that the
+interchangeability justifies the swap as well; he calls that interchangeability
+"a real possibility," and concludes that the two "essentially mean the same
+thing." *Kaneh* is not a container but a **reed**, **stem**, or **tube**,
+typically hollow.
 
 ## At a glance
 
@@ -82,11 +83,11 @@ other English words said to come from it (*cane*, *canal*, *channel*, *kennel*,
 *canister*, *canon*, *canyon*), noting that the French *cancan* is unrelated
 (its etymology unclear, perhaps from *canard*, duck). Rabbi Ernest David Klein
 (*Comprehensive Etymological Dictionary of the English Language*) adds that the
-Latin itself derives from Semitic, that is, Hebrew, *kaneh*. The column draws
-the conclusion: *kaneh*'s senses are pipe-like and typically hollow in the
-middle, so when Mishnaic Hebrew reborrowed the term from Latin as *kankan*, it
-makes sense that it named a vessel with a hollow receptacle, which fits its
-Hebrew etymon too.
+Latin itself derives from Semitic, that is, Hebrew, *kaneh*. Rabbi Reuven Chaim
+Klein draws the conclusion: *kaneh*'s senses are pipe-like and typically hollow
+in the middle, so when Mishnaic Hebrew reborrowed the term from Latin as
+*kankan*, it makes sense that it named a vessel with a hollow receptacle, which
+fits its Hebrew etymon too.
 
 **Why Maoz Tzur says kankanim.** The obvious answer is poetic license:
 *kankanim* rhymes with *shoshanim*, which ends the next line, and *pachim* does
@@ -122,13 +123,13 @@ Three occurrences in Tanach, each in *pach hashemen*: Shmuel's anointing of Shau
 Melachim 9:1, 9:3). Jastrow: "flask," "jug." In the Mishnah (Shabbos 17:5,
 Beitzah 1:7, Bava Kamma 8:6, Keilim 2:2, 3:2, 5:3, Negaim 12:5) it is a pottery
 jug typically used for storing oil, and Rashi (to Avodah Zarah 71b) makes it
-smaller than a *chavis* (the column adds "but see below," pointing to the
-interchangeable usage). Chullin 91a (cited by Rashi to Bereishis 32:25) has
-Yaakov recross the Yabok for small *pachim*; the column asks where the pasuk alludes to *pachim*, and answers from the version the Tosafists (*Daas
-Zekeinim*, *Hadar Zekeinim*) and Rabbeinu Bachya cite, in which the derashah
-reads *levado* as *l'kado*, "for his *kad*," on the resemblance of beis and
-kaf. In that version, the column concludes, the Gemara uses *pach* and *kad*
-interchangeably.
+smaller than a *chavis* (but see the interchangeable usage below). Chullin 91a
+(cited by Rashi to Bereishis 32:25) has Yaakov recross the Yabok for small
+*pachim*. Where does the pasuk allude to *pachim*? In the version the Tosafists
+(*Daas Zekeinim*, *Hadar Zekeinim*) and Rabbeinu Bachya cite, the derashah reads
+*levado* as *l'kado*, "for his *kad*," on the resemblance of beis and kaf. In
+that version, Rabbi Reuven Chaim Klein concludes, the Gemara uses *pach* and
+*kad* interchangeably.
 
 ### kankan (קנקן)
 Absent from Tanach. In the Mishnah it stores wine (Maaser Sheini 1:3-4, 3:12-13,
@@ -150,10 +151,9 @@ not note it: Maaser Sheini 3:13 interchanges it with *chavis*, and Maaser Sheini
 ### kaneh (קנה)
 Over fifty occurrences in Tanach: "reed," "stem/branch," "tube," all pipe-like
 items with a typically hollow middle; in Rabbinic Hebrew it also came to name the
-windpipe (the column refers to the author's earlier essay "The Gorgeous
-Windpipe"). The Torah calls the Menorah's branches *kanim* (Shemos 25:31-36,
-37:18-22), which is how the column explains the Mabit's ruling that they may be
-hollow.
+windpipe (see Rabbi Reuven Chaim Klein's earlier essay "The Gorgeous Windpipe").
+The Torah calls the Menorah's branches *kanim* (Shemos 25:31-36, 37:18-22),
+which is how the column explains the Mabit's ruling that they may be hollow.
 
 ## Rendering guidance
 

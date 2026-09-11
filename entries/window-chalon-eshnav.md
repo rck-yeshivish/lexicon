@@ -26,18 +26,17 @@ updated: 2026-09-10
 
 *Chalon* is the ordinary **window**, thirty-one times in Tanach, and its root
 describes what a window is: an empty space in a wall (Rabbi Shlomo Pappenheim;
-Radak and Ibn Janach, under ח-ל-ל). *Eshnav* appears only twice, and the column
-opens on Shoftim 5:28, where Sisera's mother looks through both. Rashi, Ibn
-Janach and Radak define *eshnav* as *chalon*, which suggests the two mean the
-same thing. Others distinguish them, and they do not agree how: a small window
-(Rabbi Yosef Kara, Meiri), a peephole (Rid), an enchanted window used for
-divination (Malbim to Shoftim, with *Kli Yakar* reversing the two words), a lens
-that brings the distant near (Malbim in *Yair Ohr*), a lattice (Menachem Ibn
-Saruk, Rabbi Moshe David Valle), a shuttered window (Rabbi Moshe Yitzchak
-Tedeschi Ashkenazi, and independently Dr. Shmuel Yeivin), or a window for the
-wind (Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein). The
-column does not choose. Modern Hebrew's *eshnav*, a service window, is a
-neologism.
+Radak and Ibn Janach, under ח-ל-ל). *Eshnav* appears only twice; at Shoftim 5:28
+Sisera's mother looks through both. Rashi, Ibn Janach and Radak define *eshnav*
+as *chalon*, which suggests the two mean the same thing. Others distinguish
+them, and they do not agree how: a small window (Rabbi Yosef Kara, Meiri), a
+peephole (Rid), an enchanted window used for divination (Malbim to Shoftim, with
+*Kli Yakar* reversing the two words), a lens that brings the distant near
+(Malbim in *Yair Ohr*), a lattice (Menachem Ibn Saruk, Rabbi Moshe David Valle),
+a shuttered window (Rabbi Moshe Yitzchak Tedeschi Ashkenazi, and independently
+Dr. Shmuel Yeivin), or a window for the wind (Rabbi Aharon Marcus, Rabbi Baruch
+HaLevi Epstein, Rabbi Ernest Klein). The column does not choose. Modern Hebrew's
+*eshnav*, a service window, is a neologism.
 
 ## At a glance
 
@@ -99,7 +98,7 @@ window taken up below:
    for word in two works by Rabbi Elazar Reines (d. 1903), *Shorashei Leshon
    HaKodesh* and *Mishlei Shlomo*.
 
-The column leaves these readings standing and does not choose among them.
+These readings stand; Rabbi Klein does not choose among them.
 
 **Which of the two was the enchanted window.** Malbim (to Mishlei 7:6) comments,
 somewhat cryptically, that through a *chalon* one sees what is revealed and

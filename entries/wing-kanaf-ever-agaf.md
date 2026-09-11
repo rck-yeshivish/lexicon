@@ -33,21 +33,20 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The column opens on Devarim 32:11, where *kanaf* and *ever* stand in one pasuk
-(after Shemos 19:4, "wings of eagles"), and adds *agaf*, found only in
-Yechezkel. *Kanaf* is the **wing**. Rabbi Shlomo Aharon Wertheimer makes it
-specifically the outermost part, farthest from the body, the part that casts
-shade and so stands for protection; Bedersi explains that because the wing sits
-at the edge of the bird, *kanaf* came to mean the **edge** or **corner** of a
-garment or a place. *Ever*, which the column's own translation renders "wing,"
-many prefer to translate **pinion**, the whole outer part of the wing with its
-flight feathers; Bedersi makes it any **limb**, the wing being the strongest,
-and in Rabbinic Hebrew it means any limb. *Agaf* is, for Rabbi Wertheimer, the
-part of the wing nearest the body, whence a town branching off a city. Dr. Chaim
-Tawil compares the three to Akkadian *kappu*, *abru* and *aggapu*; such Semitic
-parallels, the column notes, do not explain how the words differ. The Biblical
-word for a feather is *notzah*; the Aramaic *gadfa* is a feather, a wing bone,
-or the wing itself.
+In Devarim 32:11 *kanaf* and *ever* stand in one pasuk (after Shemos 19:4,
+"wings of eagles"); *agaf* is found only in Yechezkel. *Kanaf* is the **wing**.
+Rabbi Shlomo Aharon Wertheimer makes it specifically the outermost part,
+farthest from the body, the part that casts shade and so stands for protection;
+Bedersi explains that because the wing sits at the edge of the bird, *kanaf*
+came to mean the **edge** or **corner** of a garment or a place. *Ever*, which
+the column's own translation renders "wing," many prefer to translate
+**pinion**, the whole outer part of the wing with its flight feathers; Bedersi
+makes it any **limb**, the wing being the strongest, and in Rabbinic Hebrew it
+means any limb. *Agaf* is, for Rabbi Wertheimer, the part of the wing nearest
+the body, whence a town branching off a city. Dr. Chaim Tawil compares the three
+to Akkadian *kappu*, *abru* and *aggapu*; such Semitic parallels, the column
+notes, do not explain how the words differ. The Biblical word for a feather is
+*notzah*; the Aramaic *gadfa* is a feather, a wing bone, or the wing itself.
 
 ## At a glance
 
@@ -120,8 +119,8 @@ someone under one's wing comes from this Biblical usage (Devarim 23:1; Rus 2:12,
 3:9).
 
 ### ever (אבר)
-Root א-ב-ר, or ב-ר for Rabbi Pappenheim. Though the column's opening
-translation renders it "wing," many prefer "pinion," the entire outer part of
+Root א-ב-ר, or ב-ר for Rabbi Pappenheim. Though Rabbi Klein's translation of
+Devarim 32:11 renders it "wing," many prefer "pinion," the entire outer part of
 the wing including its flight feathers. In Rabbinic Hebrew it widened to any
 limb: the 248 *eivarim* (Makkos 23b) and *eiver min hachai* (Pesachim 22b). In
 Devarim 32:11 it stands beside *kanaf*: Hashem spreads His *kanaf* and carries

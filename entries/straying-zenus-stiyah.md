@@ -62,18 +62,17 @@ movement to the side, so that *chet*, sin, is a straying.
 ## Distinctions
 
 ### zenus (זנות)
-The column sets the cluster in its series on roads and paths: straying from
-the paths of righteousness is deviance from the proper path, as children who
-reject the Torah they were taught are colloquially "off the *derech*." *Zonah*,
-colloquially a prostitute, literally refers to one who has strayed from a
-certain set of expectations. A *zonah* whom a kohen may not marry (Vayikra
-21:7) is, for that issur, any woman who had relations with someone forbidden to
-her. Near Moshe's death Hashem tells him that the people will stray after
-foreign gods (Devarim 31:16), and the word for their straying is from this root.
-Idolatry and adultery are conceptually similar in
-that both eschew an expected loyalty, one to Hashem and one to a spouse, which
-is why Tanach, especially Hoshea and Yechezkel, uses words of sexual deviance to
-describe theistic infidelity.
+Straying from the paths of righteousness is deviance from the proper path, as
+children who reject the Torah they were taught are colloquially "off the
+*derech*." *Zonah*, colloquially a prostitute, literally refers to one who has
+strayed from a certain set of expectations. A *zonah* whom a kohen may not marry
+(Vayikra 21:7) is, for that issur, any woman who had relations with someone
+forbidden to her. Near Moshe's death Hashem tells him that the people will stray
+after foreign gods (Devarim 31:16), and the word for their straying is from this
+root. Idolatry and adultery are conceptually similar in that both eschew an
+expected loyalty, one to Hashem and one to a spouse, which is why Tanach,
+especially Hoshea and Yechezkel, uses words of sexual deviance to describe
+theistic infidelity.
 
 Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) traces *zenus*, promiscuity,
 to the biliteral ז-ן, the nucleus of the words for sustenance: in bentching
@@ -98,7 +97,7 @@ shoteh* or *bechor satan*, a firstborn to his mother but not to his father
 (Yevamos 16b), and a *hadas shoteh*, a myrtle that deviates from the norm in not
 having three leaves growing together (see Succah 32b). The Gemara says a person
 sins only if a *ruach shtus*, a spirit of deviance, has entered him (Sotah 3a).
-From all of these the column concludes that the root ס/ש-ט refers to straying
+From all of these Rabbi Klein concludes that the root ס/ש-ט refers to straying
 from a specific track.
 
 Rabbi Moshe Shapiro (1935 to 2017) explains that *shitah*, a systematized and
@@ -110,16 +109,16 @@ related in their roots. Rabbi Shapiro also relates the place name Shittim, where
 the people strayed after the women of Moav (Bamidbar 25:1), to *stiyah*.
 
 ### the letter tet as a root
-The column closes with what it calls a wildly innovative idea of Rabbi Aharon
-Marcus (1843 to 1916): not only are Hebrew roots made up of letters, but an
-individual letter can sometimes itself be a root uniting the words that use it.
-The letter tet denotes movement to the side, that is, straying, as shown by
-*stiyah* (deviation), *natah* (incline), *titah* (turn aside), *tata* (broom),
-*tach* (plastering), *taah* (erred), and more. Most significantly, he argues
-that the active letter of *chet*, sin, is its middle tet, so that to sin is to
-move to the side, off the proper path. He adds that *avon* is related to
-*ivvus*, warped, the sinner being on a warped or contorted path, and *pesha* to
-*posea*, takes a step, the sinner having taken steps in the wrong direction.
+Rabbi Aharon Marcus (1843 to 1916) proposes what Rabbi Klein calls a wildly
+innovative idea: not only are Hebrew roots made up of letters, but an individual
+letter can sometimes itself be a root uniting the words that use it. The letter
+tet denotes movement to the side, that is, straying, as shown by *stiyah*
+(deviation), *natah* (incline), *titah* (turn aside), *tata* (broom), *tach*
+(plastering), *taah* (erred), and more. Most significantly, he argues that the
+active letter of *chet*, sin, is its middle tet, so that to sin is to move to
+the side, off the proper path. He adds that *avon* is related to *ivvus*,
+warped, the sinner being on a warped or contorted path, and *pesha* to *posea*,
+takes a step, the sinner having taken steps in the wrong direction.
 
 ## Rendering guidance
 

@@ -143,15 +143,15 @@ on the southern border of Zevulun's territory (Yehoshua 19:10, 19:12), and in
 recent times a popular Jewish name.
 
 ### klitah (קליטה)
-Root ק-ל-ט. The column opens with the Masoretic siman at the end of
-Vayishlach, which gives *klitah* for the parashah's 154 pesukim. The word is
-neither in the parashah nor a Biblical name, but echoes Yaakov dividing his
-camp so that the rest would be "for survival" (Bereishis 32:8), and the
-Haftarah's Har Tziyon as a place "for survival" (Ovadiah 1:17); the word in both
-pesukim, though, is *pleitah*. In a closing note the column corrects itself:
-Rabbi Nosson Kamenetsky (1930 to 2019) points out that the name Klita appears
-three times in Tanach (Ezra 10:23; Nechemiah 8:7, 10:11), though spelled with a
-final aleph, not the final hei of the Masoretic word.
+Root ק-ל-ט. The Masoretic siman at the end of Vayishlach gives *klitah* for the
+parashah's 154 pesukim. The word is neither in the parashah nor a Biblical name,
+but echoes Yaakov dividing his camp so that the rest would be "for survival"
+(Bereishis 32:8), and the Haftarah's Har Tziyon as a place "for survival"
+(Ovadiah 1:17); the word in both pesukim, though, is *pleitah*. Rabbi Klein
+corrects himself on the name: Rabbi Nosson Kamenetsky (1930 to 2019) points out
+that the name Klita appears three times in Tanach (Ezra 10:23; Nechemiah 8:7,
+10:11), though spelled with a final aleph, not the final hei of the Masoretic
+word.
 
 The noun *klitah* itself does not appear in Tanach; two forms of the root do.
 *Miklat* (its mem not part of the root), "place of receiving," appears twenty

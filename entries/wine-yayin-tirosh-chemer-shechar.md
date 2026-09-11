@@ -39,7 +39,6 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Rabbi Klein's two-part column asks how the many Hebrew words for wine differ.
 *Yayin* is **wine**, by far the commonest. *Tirosh* is on an earlier tradition
 **new wine**, *yayin* being old (Ramban, Radak, *Tosafos Rid*, Rashi, Rabbi
 Pappenheim); Rav Hirsch and Rabbi Dr. Yehuda Felix make it juice not yet
@@ -48,13 +47,13 @@ drinking, not age. In Rabbinic Hebrew *tirosh* came to mean a sweet, juicy
 product and specifically not wine. *Chemer* is **wine**, the ordinary Aramaic
 word; whether it is named for red (Rabbi Moshe Ibn Ezra, Rabbi Yehuda Ibn
 Balaam, with Radak tying it to wine's redness), for brown (Rabbi Aharon Marcus)
-or for fermentation (other linguists; Rav Hirsch) is disputed. *Shechar* is
-wine for the Nazir on the Targumim and the *Sifrei*; for Rabbi Moshe Ibn Ezra
-and Ibn Ezra it is any intoxicating drink, **strong drink**; in rabbinic usage
-it is mead or beer, not wine (Bedersi). The column adds *sove*/*sava*
-(drunkard, and in Yeshayahu 1:22 wine), *assis* (**pressed juice**), *mel'ayah*
-and *dim'ah* (Shemos 22:28, disputed between wine, grapes and grain), and
-*smadar* (unripe grapes, though Dr. Edward Kutscher took it for a wine).
+or for fermentation (other linguists; Rav Hirsch) is disputed. *Shechar* is wine
+for the Nazir on the Targumim and the *Sifrei*; for Rabbi Moshe Ibn Ezra and Ibn
+Ezra it is any intoxicating drink, **strong drink**; in rabbinic usage it is
+mead or beer, not wine (Bedersi). Beside the four stand *sove*/*sava* (drunkard,
+and in Yeshayahu 1:22 wine), *assis* (**pressed juice**), *mel'ayah* and
+*dim'ah* (Shemos 22:28, disputed between wine, grapes and grain), and *smadar*
+(unripe grapes, though Dr. Edward Kutscher took it for a wine).
 
 ## At a glance
 
@@ -264,7 +263,7 @@ lists it as a word for wine; Rabbi Klein finds it fairly explicit elsewhere
 22:28) takes it as grapes, "filled" (*maleh*) with wine; Rashbam and Rabbi Yosef
 Bechor Shor take *mel'ayah* as grain (compare Devarim 22:9) and *dim'ah* as wine
 (or oil). Menachem Ibn Saruk: *dim'ah* is filtered wine without sediment, clear
-as tears (*dim'ah*). Either way, the column concludes, there seems to be at
+as tears (*dim'ah*). Either way, Rabbi Klein concludes, there seems to be at
 least one more Biblical word for wine (see *Torah Shleimah* to Shemos 22:28
 §478). *Smadar*: on the strength of Symmachus' Greek translation of Shir
 HaShirim 2:13, 2:15 and 7:13, Dr. Edward Kutscher claims it is a kind of wine;

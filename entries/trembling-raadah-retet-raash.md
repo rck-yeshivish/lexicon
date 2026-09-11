@@ -91,8 +91,8 @@ than *ra'ash*, and *ra'ash* less intense than *rogez*. In his *Yair Ohr* he writ
 that *ga'ash* is a little extra movement and *ra'ash* more than that, in line with
 the *Sefer HaCarmel* citation; the column brings *Yair Ohr* only on those two.
 Rabbi Reuven Landau (*Degel Machaneh Reuven* §61) writes just the opposite on the
-last two: *ra'ash* is more intense than *rogez*. The column leaves it there
-("either way").
+last two: *ra'ash* is more intense than *rogez*. Rabbi Klein does not decide
+between them ("either way").
 
 **What ziyah was at Sinai.** The column gives at least two ways of reading the
 *ziyah* of Yoma 4b. Onkelos renders *vayecherad* as *ziyah* both when the
@@ -110,9 +110,9 @@ Root ר-ע-ד, nine appearances: *ra'ad* seizing the mighty of Moav (Shemos 15:1
 the land that quivers at Hashem's glance (Tehillim 104:32), and the *ra'adah* of
 Tehillim 2:11, "rejoice in trembling," which Yoma 4b applies to the giving of
 the Torah, given, in the column's quotation, "with dread, with fear, with
-*retet*, and with *ziyah*." (The column opens from Yom Kippur, the day the second
-Luchos were given, Taanis 4:8, Taanis 30b, Bava Basra 121a.) In Modern Hebrew
-*re'idat adamah*, "quivering of the land," is an earthquake.
+*retet*, and with *ziyah*." (The second Luchos were given on Yom Kippur: Taanis
+4:8, Taanis 30b, Bava Basra 121a.) In Modern Hebrew *re'idat adamah*, "quivering
+of the land," is an earthquake.
 
 *Retet*, for Rabbi Wertheimer, is a lighter form of shaking than *ra'adah* or
 *chil*. In the Gemara *retet* (with a tav) splits: a kohen is disqualified once

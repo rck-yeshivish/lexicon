@@ -94,19 +94,18 @@ implies that the name was parsed as *mar* ("master") plus *tichoras*, corrupted 
 ## Distinctions
 
 ### Chidekel (חדקל)
-The column opens with the borders of Eretz Yisrael, reaching the Euphrates in Devarim
-1:7 and in Shemos 23:31 as Targum Onkelos and Rashi read it, against the Yarden of
-Bamidbar 34:12; Mesopotamia, the Greek "land between two rivers," lies between the
-Euphrates and the Tigris. *Chidekel* appears twice in Tanach: Bereishis 2:14, the third
-of the four rivers of Eden, east of Ashur; and Daniel 10:4, "the Great River that is
-Chidekel," vocalized *Chidakel* there because a segolite word at the end of a pasuk
-turns its segol to kamatz. Berachos 59b expounds it as *chad*, sharp, and *kal*,
-light or swift. The same exegesis appears in Josephus (*Antiquities* 1.1.3), for whom
-the name signifies "swift, with narrowness," and in Bereishis Rabbah 16:4, where the
-four rivers allude to the four kingdoms and Chidekel to Greece, whose decrees were
-sharp and swift. (Jewish philosophers such as Rabbi Levi ben Avraham and Rabbi Nissim
-of Marseilles connect the four rivers to the four elements, Chidekel alluding to
-water.)
+The borders of Eretz Yisrael reach the Euphrates in Devarim 1:7 and in Shemos 23:31 as
+Targum Onkelos and Rashi read it, against the Yarden of Bamidbar 34:12; Mesopotamia,
+the Greek "land between two rivers," lies between the Euphrates and the Tigris.
+*Chidekel* appears twice in Tanach: Bereishis 2:14, the third of the four rivers of
+Eden, east of Ashur; and Daniel 10:4, "the Great River that is Chidekel," vocalized
+*Chidakel* there because a segolite word at the end of a pasuk turns its segol to
+kamatz. Berachos 59b expounds it as *chad*, sharp, and *kal*, light or swift. The same
+exegesis appears in Josephus (*Antiquities* 1.1.3), for whom the name signifies "swift,
+with narrowness," and in Bereishis Rabbah 16:4, where the four rivers allude to the
+four kingdoms and Chidekel to Greece, whose decrees were sharp and swift. (Jewish
+philosophers such as Rabbi Levi ben Avraham and Rabbi Nissim of Marseilles connect the
+four rivers to the four elements, Chidekel alluding to water.)
 
 ### Diglat (דגלת)
 Targum Onkelos renders *Chidekel* as *Diglat*, and Targum uses it again at Nachum 1:12

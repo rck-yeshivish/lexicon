@@ -150,14 +150,13 @@ measuring stick, and never the windpipe; all are long pipe-like things,
 typically hollow, which is how rabbinic Hebrew came to use it for the trachea.
 Rabbi Klein adds that *kinamon*, cinnamon, which grows as pipe-like sticks, might
 belong with them. (Rabbi Pappenheim connects these words to the two-letter ק-נ
-in a different way, which the column leaves for another time.) The Mishnah
-(*Tamid* 4:3) has one Kohen bring the heart, lungs, and *kaneh* to the altar,
-where the company of heart and lungs settles the meaning. In the Bavli *kaneh* is
-the standard term, regularly paired with *veshet* in place of the Mishnaic
-*gargeres* (*Chullin* 18a-19a, 21a, 28a-29a, 30b, 32b, 40b, 45a, 50a, 54a, 57b,
-85b). The fear of choking is put as not letting "the *kaneh* precede the
-*veshet*" (*Pesachim* 108a, *Taanis* 5b), which comes up over speaking while
-eating and over reclining leftward at the Seder.
+in a different way.) The Mishnah (*Tamid* 4:3) has one Kohen bring the heart,
+lungs, and *kaneh* to the altar, where the company of heart and lungs settles
+the meaning. In the Bavli *kaneh* is the standard term, regularly paired with
+*veshet* in place of the Mishnaic *gargeres* (*Chullin* 18a-19a, 21a, 28a-29a,
+30b, 32b, 40b, 45a, 50a, 54a, 57b, 85b). The fear of choking is put as not
+letting "the *kaneh* precede the *veshet*" (*Pesachim* 108a, *Taanis* 5b), which
+comes up over speaking while eating and over reclining leftward at the Seder.
 
 ### The homiletic reading
 Rabbi Yosef de Bonne of Stadthagen, building on Rabbi Yaakov Weil: the

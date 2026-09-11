@@ -132,15 +132,15 @@ they share one want; unite for a common goal and they become one army, otherwise
 they are a hodgepodge of unrelated individuals.
 
 ### the Arabic cognate and sababa
-The column closes with the modern Hebrew slang *sababa*, which it calls
-untranslatable, used to express enthusiasm, satisfaction or agreement, along the
-lines of "awesome" or "cool." It comes from Arabic *tzababa*, "great" or
-"excellent" in spoken Arabic, whose technical meaning is "yearning" or "strong
-love"; the column holds this Arabic word to be related to the Hebrew and
-Aramaic words under discussion, so that *sababa* should really be pronounced
-*tzababa*, the way Baba Tzali became Baba Sali. The column's own summary is
-that *tzvi* carries a plethora of meanings: desire or wanting, deer or gazelle,
-beauty or glory, good, and delightful or awesome.
+The modern Hebrew slang *sababa*, which Rabbi Klein calls untranslatable, is
+used to express enthusiasm, satisfaction or agreement, along the lines of
+"awesome" or "cool." It comes from Arabic *tzababa*, "great" or "excellent" in
+spoken Arabic, whose technical meaning is "yearning" or "strong love"; the
+column holds this Arabic word to be related to the Hebrew and Aramaic words
+under discussion, so that *sababa* should really be pronounced *tzababa*, the
+way Baba Tzali became Baba Sali. Rabbi Klein concludes that *tzvi* carries a
+plethora of meanings: desire or wanting, deer or gazelle, beauty or glory, good,
+and delightful or awesome.
 
 ## Rendering guidance
 

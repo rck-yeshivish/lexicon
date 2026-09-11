@@ -34,9 +34,9 @@ updated: 2026-09-10
 ## Bottom line
 
 *Eid* is **witness** and *eidus* **testimony**; *sahad* is the Aramaic for the
-same, **witness**. The column opens on the mound Lavan named *Yegar Sahadusa*
-and Yaakov *Gal-Eid* (Bereishis 31:47), and holds that, strictly speaking, the
-two are not quite synonyms: their meanings line up, but they come from two
+same, **witness**. Lavan named the mound *Yegar Sahadusa*, and Yaakov called it
+*Gal-Eid* (Bereishis 31:47). Rabbi Klein holds that, strictly speaking, the two
+are not quite synonyms: their meanings line up, but they come from two
 languages, as both Talmudim recognise in calling *sahaduta* Aramaic (Yerushalmi
 Sotah 7:2, Sanhedrin 10:1; Shabbos 115b; Megillah 9a). Malbim and Rabbi Shlomo
 Aharon Wertheimer nonetheless posit a difference: for Malbim, *eid* attests to
@@ -66,9 +66,9 @@ Rabbi Shlomo Aharon Wertheimer (1866 to 1935), generally: *eid* relates to
 *vaad*, a meeting, the witness being one who happened to be present and so
 "met" the information, which names how he knows; *sahad* names his role in
 relaying what he saw, and he surmises it is related to *heid*, a thunderclap or
-echo (Yechezkel 7:7; Amos 4:13), a sound others hear. The column's own point,
-made before these, is that the meanings of the two words line up, and that they
-are not strictly synonyms only because they come from two languages.
+echo (Yechezkel 7:7; Amos 4:13), a sound others hear. Rabbi Klein's own point is
+that the meanings of the two words line up, and that they are not strictly
+synonyms only because they come from two languages.
 
 **Where eid comes from.** Menachem Ibn Saruk (920 to 970), Ibn Janach (990 to
 1050) and Radak (1160 to 1235) give the biliteral ע-ד, but none offers a way to

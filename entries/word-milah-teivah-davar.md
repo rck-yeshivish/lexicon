@@ -22,7 +22,6 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The column asks whether Hebrew's words for "word" are complete synonyms.
 *Milah* is the biblical term (Tehillim 19:5, 139:4; Iyov throughout), and for
 Rabbi Eliyahu HaBachur the **spoken word**; *teivah* in this sense appears only
 in later rabbinic writing, a grammarians' term as Rabbi Shlomo Pappenheim seems
@@ -64,14 +63,14 @@ Rabbi Pappenheim takes a slightly different approach, to the biliteral מ-ל,
 *milah* as "word" is an independent unit cut off from the rest of the sentence.
 
 ### millel (מלל) as a verb
-The column asks how *millel* differs from *amirah*, *dibbur*, *sichah*,
-*ne'um*, *yechaveh* and *yabia*. *Peirush HaRokeach* and *Siddur HaRokeach*:
-*millel* is speaking elaborately and at length, as in Bildad's *ad an temallel
-eileh* (Iyov 8:2). Rabbeinu Efrayim (to Bereishis 21:7): *millel*, unlike the
-other verbs of speech, is speaking the truth. Rabbi Yehuda Leib
-Shapira-Frankfurter (1743 to 1826) makes a similar point: *millel* is speaking
-so as to explain a thing as clearly and accurately as possible. They adduce *v'daas
-sefasai barur mileilu* (Iyov 33:3).
+How does *millel* differ from *amirah*, *dibbur*, *sichah*, *ne'um*, *yechaveh*
+and *yabia*? *Peirush HaRokeach* and *Siddur HaRokeach*: *millel* is speaking
+elaborately and at length, as in Bildad's *ad an temallel eileh* (Iyov 8:2).
+Rabbeinu Efrayim (to Bereishis 21:7): *millel*, unlike the other verbs of
+speech, is speaking the truth. Rabbi Yehuda Leib Shapira-Frankfurter (1743 to
+1826) makes a similar point: *millel* is speaking so as to explain a thing as
+clearly and accurately as possible. They adduce *v'daas sefasai barur mileilu*
+(Iyov 33:3).
 
 ### teivah (תיבה)
 In Tanach *teivah* is an ark or chest: Noach's *teivah* (Bereishis 6 to 9), and
@@ -117,12 +116,11 @@ that English *word* comes from *davar* by metathesis and the interchange of the
 w and b or v sounds; if he is right, the column adds, the same would hold for
 German *wort*, Yiddish *vort*, and Latin *verb*.
 
-The column closes with a musing by Mrs. Faigy Peritzman (*Mishpacha*, 1 April
-2020) on how words box abstract thought into something finite: *davar* also
-means a thing, because a word makes abstract thought concrete; *milah* also
-means cutting, because a word cuts limitless thought down to something real;
-*teivah* also means a box, because a word squeezes infinite thought into a
-finite casing.
+Mrs. Faigy Peritzman (*Mishpacha*, 1 April 2020) muses on how words box abstract
+thought into something finite: *davar* also means a thing, because a word makes
+abstract thought concrete; *milah* also means cutting, because a word cuts
+limitless thought down to something real; *teivah* also means a box, because a
+word squeezes infinite thought into a finite casing.
 
 ## Rendering guidance
 

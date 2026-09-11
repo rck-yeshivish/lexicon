@@ -26,11 +26,11 @@ superscriptions *mizmor shir* / *shir mizmor* the *mizmor* is the tune and the
 *shir* the words (Pappenheim and Pincus, whom the column calls two credible
 authorities who beg to differ with Ibn Ezra, who holds there is no difference).
 
-The column opens by quoting the American historian Cyrus Gordon (1908-2001) to
-the effect that the ancients were no less talented than we are but expressed
-their intelligence differently, handling language so deftly that modern scholars
-take a long time even to notice the riddles in it, let alone their subtleties;
-the *shir*/*zemer* pair is offered as one such nuance.
+The American historian Cyrus Gordon (1908-2001) said, in effect, that the
+ancients were no less talented than we are but expressed their intelligence
+differently, handling language so deftly that modern scholars take a long time
+even to notice the riddles in it, let alone their subtleties; Rabbi Klein offers
+the *shir*/*zemer* pair as one such nuance.
 
 ## Distinctions
 
@@ -120,18 +120,18 @@ people sing (*zemer*). Rabbi Nachman of Breslov (1772-1810) reads it as a specia
 
 ### mizmor (מזמור)
 Root ז-מ-ר. Ibn Ezra (to Tehillim 48:1): there is no difference between *mizmor
-shir* and *shir mizmor*. Against him the column says it found two credible
-authorities who beg to differ. Pappenheim: used side by side the terms take
-specific senses, *shir* the words and lyrics, *mizmor* the tune; within a given
-song the words sometimes begin before the tune and sometimes the tune is played
-first, so *shir mizmor* is the song whose *shir* element precedes its *mizmor*,
-and *mizmor shir* the converse. Rabbi Shimshon Pincus (1944-2001, *Shabbos
-Malkesa*), similarly: *shir* is the story a song tells, the words that voice a
-man's happiness and thanks, and *mizmor* the tune within which the story is
-told, the wordless melody for elation too intense to put logically into words;
-so a perek that begins in words and rises past them is headed *shir mizmor*, and
-one that begins at that intensity and only afterwards, as it subsides, lets the
-words start is headed *mizmor shir*.
+shir* and *shir mizmor*. Against him Rabbi Klein brings two credible authorities
+who beg to differ. Pappenheim: used side by side the terms take specific senses,
+*shir* the words and lyrics, *mizmor* the tune; within a given song the words
+sometimes begin before the tune and sometimes the tune is played first, so *shir
+mizmor* is the song whose *shir* element precedes its *mizmor*, and *mizmor
+shir* the converse. Rabbi Shimshon Pincus (1944-2001, *Shabbos Malkesa*),
+similarly: *shir* is the story a song tells, the words that voice a man's
+happiness and thanks, and *mizmor* the tune within which the story is told, the
+wordless melody for elation too intense to put logically into words; so a perek
+that begins in words and rises past them is headed *shir mizmor*, and one that
+begins at that intensity and only afterwards, as it subsides, lets the words
+start is headed *mizmor shir*.
 
 ## Rendering guidance
 

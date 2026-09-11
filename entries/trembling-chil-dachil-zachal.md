@@ -29,7 +29,7 @@ light of Rav Hirsch, *chil* seems to be the specific fear and *dachil* the more
 general one. *Zachal* carries two senses in Tanach, **crawling** and **fear**, and
 the fear sense may well be the Aramaic *dachil* Hebraicized, dalet to zayin
 (*Metzudas Tzion*, repeated by Rabbi David Golumb and Rabbi Asher Weiser). The
-piyut that opens the column sets all three in rhyme.
+piyut *Yarasi Befitzchi Si* sets all three in rhyme.
 
 ## Distinctions
 
@@ -137,9 +137,9 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   since Saturn's motion in longitude is the slowest of the seven planets.
 - A further Rabbinic sense: when Rabbi Oshaya's face lit up in excitement, the
   Yerushalmi (*Sanhedrin* 11:4) says his face was *zachlin*, and the Midrash uses
-  *zachalin* of Bar Pedaya (*Koheles Rabbah* 8:1). The column closes by
-  suggesting that since Saturn appears in the sky as an illuminated body, perhaps
-  its Arabic name is related to this sense of light.
+  *zachalin* of Bar Pedaya (*Koheles Rabbah* 8:1). Rabbi Klein suggests that
+  since Saturn appears in the sky as an illuminated body, perhaps its Arabic name
+  is related to this sense of light.
 
 ## Rendering guidance
 

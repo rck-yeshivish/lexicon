@@ -77,10 +77,9 @@ Mishnah (*Pesachim* 4:9) the sages of his time did not agree, presumably, the
 column suggests, because it showed a lack of trust in Hashem, who had promised
 through Yeshayahu to save Yerushalayim; an alternate tradition sees his act as
 noble (Radak to Divrei HaYamim II 32:30; Radal to *Pirkei DeRabbi Eliezer* 9:30).
-The column closes with the story of Rabbi Chaim Vital, whom the Arizal faulted
-in a dream for not reopening the waters of the Gichon, which would have
-rectified Chizkiyahu's sin and brought the Final Redemption (in line with
-Zechariah 14:8).
+A story is told of Rabbi Chaim Vital, whom the Arizal faulted in a dream for not
+reopening the waters of the Gichon, which would have rectified Chizkiyahu's sin
+and brought the Final Redemption (in line with Zechariah 14:8).
 
 ### Shiloach (שילוח)
 When the Mishnah records Chizkiyahu's blocking of the Gichon it uses the name

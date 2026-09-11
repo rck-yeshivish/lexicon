@@ -60,17 +60,16 @@ Ibn Janach, Ibn Parchon, Radak) trace *romes* to ר-מ-ס. Rabbi Yosef Kimchi (*
 HaGalui*) and his son Radak (*Sefer HaShorashim*) explain that ר-מ-ס is related to
 ר-מ-ש, samech and sin interchanging, but do not quite explain how the connection works
 out thematically. It seems that Ibn Saruk, Ibn Janach and Ibn Parchon do not agree,
-since they list ר-מ-ש separately, while the Kimchis conflate the two. To understand the
-connection the column turns to Ramban (to Bereishis 1:24), who explains that creeping
-creatures use their entire body to tread over the ground, so their very essence relates
-to treading; hence, the column says, *remes* is associated with *romes*. Rav Hirsch (to
-Bereishis 1:21) also recognizes a connection but understands it differently: since
-samech, sin and zayin can interchange, ר-מ-ס, ר-מ-ש and ר-מ-ז all refer to treading at
-varying degrees of intensity. ר-מ-ס is trampling with the full force of the body to
-destroy what lies beneath; ר-מ-ש a lighter form, the way short, lightweight bugs walk on
-the ground without causing as much damage; and ר-מ-ז, the root of *remez*, which he takes
-primarily as winking, the upper eyelid touching the lower as a foot treads the ground,
-a much less intense and more subtle form of the action.
+since they list ר-מ-ש separately, while the Kimchis conflate the two. Ramban (to
+Bereishis 1:24) explains that creeping creatures use their entire body to tread over the
+ground, so their very essence relates to treading; hence, the column says, *remes* is
+associated with *romes*. Rav Hirsch (to Bereishis 1:21) also recognizes a connection but
+understands it differently: since samech, sin and zayin can interchange, ר-מ-ס, ר-מ-ש and
+ר-מ-ז all refer to treading at varying degrees of intensity. ר-מ-ס is trampling with the
+full force of the body to destroy what lies beneath; ר-מ-ש a lighter form, the way short,
+lightweight bugs walk on the ground without causing as much damage; and ר-מ-ז, the root
+of *remez*, which he takes primarily as winking, the upper eyelid touching the lower as a
+foot treads the ground, a much less intense and more subtle form of the action.
 
 **What separates romes from dorech.** Malbim: *dorech* is a neutral term, treading or
 walking over a threshold; *romes* implies walking in a destructive, damaging way. So he
@@ -80,7 +79,7 @@ the courtyard, their presence rendering it purposeless. Rabbi Moshe Tedeschi Ash
 (*Otzar Nirdafim*) instead relates both words to the ground being walked on, each time
 by ignoring one letter of the root: *derech* from *rach*, soft ground that a man treads
 into a path for others, *romes* from *ram*, ground higher than usual, which needs more
-force to stomp flat and fashion a path. The column leaves both standing.
+force to stomp flat and fashion a path. Both readings stand.
 
 **Whether boss is a distinct word.** The column says *boss* is used in very much the
 same ways as the other two, and Rashi, explaining Tehillim 60:14, equates *boss* with
@@ -103,9 +102,9 @@ trampling or stomping with the feet. It carries into later rabbinic literature:
 Kiddushin 66a, where King Yannai, slighted by a rabbi who criticized him for taking the
 roles of both king and Kohen Gadol, is advised by someone else to *romsem* the Torah
 scholars, which Rashi explains as killing them. Yeshayahu 1:12, in the haftarah read the
-Shabbos before Tisha B'Av, opens the column: *remos chatzeirai*, the trampling of My
-courtyard. Pappenheim's definition, against *boss*: treading on what is meant to be
-walked on and usually is.
+Shabbos before Tisha B'Av, has *remos chatzeirai*, the trampling of My courtyard.
+Pappenheim's definition, against *boss*: treading on what is meant to be walked on and
+usually is.
 
 ### dorech (דורך)
 From ד-ר-כ, whose derivatives appear over seven hundred and fifty times in Tanach, and

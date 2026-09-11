@@ -36,11 +36,11 @@ Hebrew against Aramaic. Tanach uses *naar* far outside any age bracket.
 
 ## Distinctions
 
-Rabbi Klein starts from Rivkah, whom the Torah calls a *naarah* (Bereishis
-24:14, 24:16, 24:28, 24:55, 24:57), a *besulah* (24:16) and an *almah* (24:43).
-With *yaldah*, the most common word for a girl, that makes four words, each with
-a masculine counterpart (*naar*, *bachur*, *elem*, *yeled*), and he sets out to
-show that they are not true synonyms.
+The Torah calls Rivkah a *naarah* (Bereishis 24:14, 24:16, 24:28, 24:55, 24:57),
+a *besulah* (24:16) and an *almah* (24:43). With *yaldah*, the most common word
+for a girl, that makes four words, each with a masculine counterpart (*naar*,
+*bachur*, *elem*, *yeled*), and Rabbi Klein maintains that they are not true
+synonyms.
 
 ### naar / naarah (נער, נערה)
 The Gemara (Kesubos 39a) defines a *naarah* as a girl from the age of twelve

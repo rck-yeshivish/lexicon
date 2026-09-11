@@ -64,9 +64,8 @@ goodness and morality, from which a person instilled with its values can grow
 into a paragon of virtue.
 
 ### limmud (למוד)
-The column opens with a count: words from lamed-mem-dalet appear eighty-six
-times in Tanach, but in the Chumash only in Devarim, and most of those in
-Va'eschanan.
+Words from lamed-mem-dalet appear eighty-six times in Tanach, but in the Chumash
+only in Devarim, and most of those in Va'eschanan.
 
 Malbim, in the name of Shadal: *limmud* is going over the lesson again and again
 until it is engraved on the pupil's heart and he knows it well, where *hora'ah*

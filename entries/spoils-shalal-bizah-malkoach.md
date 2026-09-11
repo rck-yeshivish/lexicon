@@ -26,11 +26,11 @@ Gra); movable goods other than jewelry (Rashi); property already taken as loot
 (Malbim). *Malkoach* is **living booty**, people and animals (Rashi); for Radak,
 animals beside *shevi*, every living thing alone. *Shevi* is **captives**: human
 prisoners (Radak), all the captured people (Malbim), or living people or animals
-(the Gra). *Ad* the column leaves unsettled: plunder, as in Aramaic (Rashi);
+(the Gra). On *ad* the authorities differ: plunder, as in Aramaic (Rashi);
 ornamental battle-dress (Pappenheim); jewelry and decorative items, against
 *shalal* the catch-all (Mecklenburg); or dead animals taken as war prizes, not
 ordinary booty (Malbim). The Midian account (Bamidbar 31) uses four of them,
-each doing separate work. The column's frame: the words are not truly
+each doing separate work. Rabbi Klein observes that the words are not truly
 synonymous, for the Egyptians say "I will apportion the *shalal*" (Shemos 15:9),
 yet what the Jews took from them is *bizas Mitzrayim* and *bizas hayam*, not
 *shalal*.
@@ -45,13 +45,13 @@ Aryeh* there) cite Rashi's division approvingly and substantiate it from other
 places where these words or their cognates appear. Rabbi Yaakov Chaim Sofer
 objects from Divrei HaYamim II 15:11, which speaks of offering captured *shalal*
 as korbanos, implying that *shalal* can mean animals, unlike Rashi and Radak.
-Separately, and in the column as a parallel to Mecklenburg on *ad* (below)
-rather than as an answer to Sofer, Rav Hirsch (to Bamidbar 31:11) makes it a
-matter of company: where no other words are used alongside it, *shalal* can
-refer to anything pilfered in battle, animals and humans included, because
-ultimately all the spoils of war are alike in being taken through violence.
-Malbim: *shalal* is the general term for the defeated party's ownerless
-property, while *bizah* is specifically property already taken as loot.
+Separately, and not as an answer to Sofer, Rav Hirsch (to Bamidbar 31:11), whose
+view parallels Mecklenburg's on *ad* (below), makes it a matter of company:
+where no other words are used alongside it, *shalal* can refer to anything
+pilfered in battle, animals and humans included, because ultimately all the
+spoils of war are alike in being taken through violence. Malbim: *shalal* is the
+general term for the defeated party's ownerless property, while *bizah* is
+specifically property already taken as loot.
 
 Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) traces *shalal* to the
 two-letter ש-ל, "moving something outside of its proper place," as in *shal

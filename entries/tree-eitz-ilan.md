@@ -52,13 +52,14 @@ Hirschensohn's point, below.)
 *Ilan* appears once in Tanach, at Daniel 4:7, and *ilana* several times in the
 same perek (4:8, 4:11, 4:17, 4:20, 4:23), a chapter written, like most of
 Daniel, in Aramaic; which, the column says, would suggest that *eitz* is Hebrew
-and *ilan(a)* Aramaic. The column opens on its premise that no two Hebrew words
-mean exactly the same, so why two words for tree; and since *ilan* appears
+and *ilan(a)* Aramaic. Rabbi Klein works from the premise that no two Hebrew
+words mean exactly the same; so why two words for tree? And since *ilan* appears
 constantly in the Mishnah and other rabbinic writings, why did the Sages prefer
 the Aramaic word to the Hebrew one? Rabbi Chaim Hirschensohn answers both:
-Biblical Hebrew used *eitz* for both the living tree and cut wood, and *Chazal* wanted the two apart. They took the
-Aramaic *ilana* from Daniel, Hebraized it to *ilan* for the living tree, and
-narrowed *eitz* to wood. One word changed, and the ambiguity was gone.
+Biblical Hebrew used *eitz* for both the living tree and cut wood, and *Chazal*
+wanted the two apart. They took the Aramaic *ilana* from Daniel, Hebraized it to
+*ilan* for the living tree, and narrowed *eitz* to wood. One word changed, and
+the ambiguity was gone.
 
 ### The berachah
 Rabbi Betzalel Stern (*Be'tzel HaChochmah*) was asked whether the fixed wording

@@ -100,8 +100,9 @@ What sort is disputed:
   as a color; Rashi, Ibn Ezra, and Rabbi Tanchum HaYerushalmi adopt the same
   explanation. Radak follows it and specifies green (see also *Midrash Lekach
   Tov* to Esther 1:6), as do Ralbag, Ibn Yachya, and Rabbi Yosef Nechmias. On
-  this view, the column concludes, the Biblical *karpas* is not a vegetable but
-  the basic hue of vegetables, just as *yarok* is related to *yerek*.
+  this view, Rabbi Reuven Chaim Klein concludes, the Biblical *karpas* is not a
+  vegetable but the basic hue of vegetables, just as *yarok* is related to
+  *yerek*.
 - Rabbi Baruch Epstein (1860 to 1941, *Toseses Berachah* to Esther 1:6): since
   *karpas* seems to come from a four-letter root, which is rare in Hebrew, Chazal
   sought to parse it into smaller parts; hence Megillah 12a reads it as *karim*
@@ -135,7 +136,7 @@ before Rashi, Rabbi Yosef Tuv-Elem (Bonfils) wrote the piyut *Elokei HaRuchos*,
 the laws of Pesach in rhyme, whose list includes *karpasa* and *kusbarta*;
 Ashkenazim traditionally say it on Shabbos HaGadol, and Rabbi Shmuel of Falaise
 wrote a commentary on it (printed in *Ohr Zarua*, *Hilchos Pesachim* §256). It
-seems that he simply Hebraized the Aramaic *karpasa* of *Elokei HaRuchos*. So, the column concludes, *karpas* does not mean "vegetable"; it was one example of
+seems that he simply Hebraized the Aramaic *karpasa* of *Elokei HaRuchos*. So, Rabbi Reuven Chaim Klein concludes, *karpas* does not mean "vegetable"; it was one example of
 a specific vegetable for the first dipping, listed beside many alternatives.
 
 Derashos on the word: Rabbi Yaakov Moelin (1365 to 1427) in *Sefer Maharil*,

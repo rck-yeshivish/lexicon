@@ -51,7 +51,7 @@ as a halachic pair and not a stylistic doubling.
 
 ## Where the authorities disagree
 
-The column asks what, if anything, separates the two, and gives these views.
+What, if anything, separates the two? These are the views.
 
 1. **Kerisus 9a**: *peta* means *shogeg* only; *pitom* is the more ambiguous one
    and can mean *shogeg*, *oness*, or *meizid*. The Mishnah (Kerisus 2:2) has the
@@ -92,31 +92,31 @@ The column asks what, if anything, separates the two, and gives these views.
    approach the two may mean exactly the same thing, not synonyms but different
    forms of one word.
 
-Before turning to Ibn Ezra, the column sums up that, whatever the exact
-difference, most sources point to a marked difference between the two; Ibn
-Ezra's reading is set in contrast to all of them.
+Rabbi Klein concludes that, whatever the exact difference, most sources point to
+a marked difference between the two; Ibn Ezra's reading stands in contrast to
+all of them.
 
 ## Distinctions
 
 ### peta (פתע)
-Root פ-ת-ע (technically *feta*). Seven appearances: the column opens with the
-killer who pushed his victim *b'feta* (Bamidbar 35:22); four are alongside
-*pitom* (Bamidbar 6:9; Yeshayahu 29:5, 30:13; Mishlei 6:15), and two more stand
-alone (Chavakuk 2:7; Mishlei 29:1). Rashi (to Bamidbar 35:22, Mishlei 6:15,
-Makkos 7b) explains it as closeness and immediacy: something so quick in
-succession that one could not possibly have been careful to prevent it. Modern
-Hebrew *haftaah*, surprise, is derived from *peta*. Rabbi Klein finds that all
-this seems to fit Rashi's ostensible view that *peta* is *oness*. Rabbi Ovadiah of
-Bartenuro (*Amar Nakeh* to Bamidbar 6:9) offers a slightly different take on
-why *peta* should be *oness*: peh often interchanges with the phonetically
-similar beis, so פ-ת-ע may be viewed as ב-ת-ע, a permutation of ב-ע-ת,
-"startled" or "frightened" (Esther 7:6; Yirmiyahu 8:15), making *peta* what
-catches a person totally off guard. The column notes that the Arabic *baghta*,
-"unexpected event," is a cognate of this root. Rabbi Shlomo Pappenheim (1740 to
-1814) derives ב-ע-ת from the two-letter ב-ע, what reveals itself from beneath
-the surface, as *bua*/*avabua*, boils that bubble up on the skin (Shemos
-9:9-10; Yeshayahu 64:1); as a corollary the root came to mean fear, which is
-often accompanied by goose-bumps on the surface of the skin.
+Root פ-ת-ע (technically *feta*). Seven appearances: one is the killer who pushed
+his victim *b'feta* (Bamidbar 35:22); four are alongside *pitom* (Bamidbar 6:9;
+Yeshayahu 29:5, 30:13; Mishlei 6:15), and two more stand alone (Chavakuk 2:7;
+Mishlei 29:1). Rashi (to Bamidbar 35:22, Mishlei 6:15, Makkos 7b) explains it as
+closeness and immediacy: something so quick in succession that one could not
+possibly have been careful to prevent it. Modern Hebrew *haftaah*, surprise, is
+derived from *peta*. Rabbi Klein finds that all this seems to fit Rashi's
+ostensible view that *peta* is *oness*. Rabbi Ovadiah of Bartenuro (*Amar Nakeh*
+to Bamidbar 6:9) offers a slightly different take on why *peta* should be
+*oness*: peh often interchanges with the phonetically similar beis, so פ-ת-ע may
+be viewed as ב-ת-ע, a permutation of ב-ע-ת, "startled" or "frightened" (Esther
+7:6; Yirmiyahu 8:15), making *peta* what catches a person totally off guard. The
+column notes that the Arabic *baghta*, "unexpected event," is a cognate of this
+root. Rabbi Shlomo Pappenheim (1740 to 1814) derives ב-ע-ת from the two-letter
+ב-ע, what reveals itself from beneath the surface, as *bua*/*avabua*, boils that
+bubble up on the skin (Shemos 9:9-10; Yeshayahu 64:1); as a corollary the root
+came to mean fear, which is often accompanied by goose-bumps on the surface of
+the skin.
 
 ### pitom (פתאום)
 Twenty-five appearances. Rabbeinu Efrayim ben Shimshon of Regensburg (to

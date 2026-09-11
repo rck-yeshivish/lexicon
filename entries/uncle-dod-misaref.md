@@ -25,10 +25,10 @@ Hebrew it primarily means **father's brother**: Rashi asserts that Scripture
 never uses *dod* for a mother's brother. In Shir HaShirim it seems to mean
 **beloved**. *Misaref* is a *hapax legomenon*
 (Amos 6:10) and is disputed: **maternal uncle** (Ibn Kuraish, Ibn Janach, Radak
-in *Sefer HaShorashim*; so too the Karaite Yefet ben Ali), the reading the column
-opens with ("seems to mean one's mother's brother") and then questions; a generic
-**kinsman** (seemingly Rashi, with the Septuagint, the Peshitta and Ibn Kaspi);
-a verb of **burning** (Targum Yonasan, Radak in his commentary); or a word from
+in *Sefer HaShorashim*; so too the Karaite Yefet ben Ali), a reading Rabbi Klein
+entertains ("seems to mean one's mother's brother") and then questions; a generic
+**kinsman** (seemingly Rashi, with the Septuagint, the Peshitta and Ibn Kaspi); a
+verb of **burning** (Targum Yonasan, Radak in his commentary); or a word from
 *seraf*, sap or resin (Professor Gary Rendsburg after Yechezkel Kutscher, "to
 smear with resin"; Rabbi Shlomo Aharon Wertheimer, unwanted offspring). A mother's
 brother in Tanach is spelled out as "his mother's brother," never *misaref*, and
@@ -128,13 +128,13 @@ maternal uncle "burns" especially strong (see the fire imagery of love in Shir
 HaShirim 8:6 to 7), alluded to in Chazal's saying that most children resemble
 the mother's brothers (Bava Basra 110a).
 
-As an aside, the column reports the argument that English *syrup* is related to
-*seraf*, but the etymologists cited by the *Oxford English Dictionary* derive
-*syrup*, *sorbet* and *sherbet* from Arabic *sharba*/*sharab*, "drink." In Hebrew
-the root ש-ר-ב means thirst or dryness (in Modern Hebrew a heat wave), the
-opposite of its Arabic cognate. *Shoresh Yesha*, by the interchange of peh and
-beis, connects *saraf* with *sharav*: dryness comes from heat, as burning does
-(see also Malbim to Yeshayahu 35:7).
+It has been argued that English *syrup* is related to *seraf*, but the
+etymologists cited by the *Oxford English Dictionary* derive *syrup*, *sorbet*
+and *sherbet* from Arabic *sharba*/*sharab*, "drink." In Hebrew the root ש-ר-ב
+means thirst or dryness (in Modern Hebrew a heat wave), the opposite of its
+Arabic cognate. *Shoresh Yesha*, by the interchange of peh and beis, connects
+*saraf* with *sharav*: dryness comes from heat, as burning does (see also Malbim
+to Yeshayahu 35:7).
 
 ## Rendering guidance
 
