@@ -309,7 +309,8 @@ def he_rows(words, emap):
                      + html.escape(", ".join(e["g"][:4])) + '</span>')
         out.append(f'<a class="r" data-l="{html.escape(w["k"][0])}" '
                    f'href="entries/{w["s"]}.html#{w["k"]}">'
-                   f'<span class="h">{html.escape(shown)}</span><span>{right}</span></a>')
+                   f'<span class="h">{html.escape(shown)}</span><span class="tx">{right}</span>'
+                   f'<span class="go" aria-hidden="true">›</span></a>')
     return "".join(out)
 
 
@@ -323,7 +324,8 @@ def en_rows(terms):
         out.append(f'<a class="r" data-l="{c}" href="entries/{x["s"]}.html{anchor}">'
                    f'<span class="en">{html.escape(x["e"])}</span>'
                    f'<span class="h">{html.escape(x["h"])}</span>'
-                   f'<span class="cl">in the {html.escape(x["c"])} group</span></a>')
+                   f'<span class="cl">in the {html.escape(x["c"])} group</span>'
+                   f'<span class="go" aria-hidden="true">›</span></a>')
     return "".join(out)
 
 
@@ -700,20 +702,25 @@ header.bare .brand{flex:1}
 .ac{position:absolute;left:0;right:0;top:calc(100% + 8px);background:var(--panel);
   border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);
   overflow:hidden;text-align:left;max-height:60vh;overflow-y:auto;z-index:60}
-.ac .row{display:flex;align-items:baseline;gap:12px;padding:11px 16px;cursor:pointer;
-  border-bottom:1px solid var(--line);color:var(--ink)}
+.ac .row{display:grid;grid-template-columns:96px minmax(0,1fr) 20px;align-items:center;gap:14px;
+  padding:12px 16px;cursor:pointer;border-bottom:1px solid var(--line);color:var(--ink)}
 .ac .row:hover{text-decoration:none}
 .ac .row:last-child{border-bottom:0}
-.ac .row:hover,.ac .row.sel{background:var(--accent-soft)}
-.ac .h{font-family:var(--heb);font-size:20px;min-width:88px;direction:rtl;text-align:right}
+.ac .row:hover,.ac .row.sel,.ac .row:active{background:var(--accent-soft)}
+.ac .h{font-family:var(--heb);font-size:20px;direction:rtl;text-align:right}
+.ac .tx{display:flex;flex-direction:column;gap:2px;min-width:0}
+.ac .tr{font-style:italic;color:var(--dim)}
 .ac .t{color:var(--dim);font-size:14px;font-style:italic;min-width:96px}
-.ac .e{font-weight:500;flex:1}
+.ac .e{font-weight:500}
 .ac .c{color:var(--faint);font-size:13px}
 .ac .none{padding:16px;color:var(--dim);font-size:15px}
 .ac-cap{padding:9px 16px 8px;font-size:12.5px;color:var(--faint);border-bottom:1px solid var(--line)}
-.ac .go{color:var(--faint);font-size:22px;line-height:1;margin-left:2px;align-self:center;
-  transition:transform .15s,color .15s}
-.ac .row:hover .go,.ac .row.sel .go{color:var(--accent);transform:translateX(3px)}
+/* The chevron is always visible and always in the accent colour. It used to
+   light up only on hover, which a phone does not have, so on a phone nothing
+   said the row opened anything. */
+.ac .go,.rows .go{color:var(--accent);font-size:24px;line-height:1;justify-self:end;
+  transition:transform .15s}
+.ac .row:hover .go,.ac .row.sel .go,.rows .r:hover .go{transform:translateX(3px)}
 
 /* browse ------------------------------------------------------------------ */
 .browse{padding:46px 0 0}
@@ -730,9 +737,10 @@ header.bare .brand{flex:1}
 .ltr.on{background:var(--accent);border-color:var(--accent);color:#fff}
 .ltr[disabled]{opacity:.3;cursor:default}
 .rows{display:flex;flex-direction:column}
-.rows .r{display:grid;grid-template-columns:130px 1fr;gap:18px;align-items:first baseline;
+.rows .r{display:grid;grid-template-columns:130px minmax(0,1fr) 20px;gap:18px;align-items:center;
   padding:15px 6px;border-bottom:1px solid var(--line)}
-.rows.en3 .r{grid-template-columns:minmax(0,230px) minmax(0,130px) minmax(0,1fr)}
+.rows.en3 .r{grid-template-columns:minmax(0,230px) minmax(0,130px) minmax(0,1fr) 20px}
+.rows .tx{min-width:0}
 .rows .r{color:var(--ink)}
 /* The browse filter hides rows with el.hidden, which leans on the browser's
    own [hidden]{display:none}. An author rule beats a user-agent rule, so the
@@ -745,13 +753,24 @@ header.bare .brand{flex:1}
 .rows.en3 .h{text-align:left}
 .rows .rhead:hover{background:none}
 .rows .r:hover{background:var(--panel);text-decoration:none}
+.rows .r:active{background:var(--accent-soft)}
 .rows .h{font-family:var(--heb);font-size:24px;direction:rtl;text-align:left}
 .rows .en{font-family:inherit;font-size:19px;font-weight:600;direction:ltr;text-align:left}
 .rows .t{color:var(--dim);font-style:italic;font-size:15px}
 .rows .e{font-weight:500}
 .rows .d{color:var(--dim);font-size:15px;display:block;margin-top:2px}
 .rows .cl{color:var(--faint);font-size:14px}
-@media (max-width:700px){.rows .r{grid-template-columns:1fr;gap:2px}.rows .h{text-align:right}}
+/* Phones: one tidy line per row, word then text then chevron, instead of the
+   word stacked over its text with nothing to tap toward. The search dropdown
+   drops its fixed transliteration column, which left a wide empty gap and
+   squeezed the English to one word per line. */
+@media (max-width:700px){
+  .rows .r{grid-template-columns:88px minmax(0,1fr) 18px;gap:12px;padding:14px 4px}
+  .rows .h{text-align:right}
+  .rows.en3 .r{grid-template-columns:minmax(0,1fr) auto 18px;grid-template-areas:"en h go" "cl cl go";row-gap:2px}
+  .rows.en3 .en{grid-area:en}.rows.en3 .h{grid-area:h}.rows.en3 .cl{grid-area:cl}.rows.en3 .go{grid-area:go}
+  .ac .row{grid-template-columns:76px minmax(0,1fr) 18px;gap:12px;padding:12px 14px}
+}
 .count{color:var(--faint);font-size:14px;margin:0 0 14px}
 
 /* entry ------------------------------------------------------------------- */
@@ -941,14 +960,20 @@ function wire(){
       ac.innerHTML = '<div class="none">Nothing under that word yet.</div>';
       ac.hidden = false; return;
     }
-    ac.innerHTML = '<div class="ac-cap">Pick a word to see its deeper meaning</div>' + list.map((w,i) =>
-      `<a class="row${i===sel?" sel":""}" href="${href(w)}">
+    // One row shape everywhere: the word, a text block, a chevron. A word's own
+    // meaning is bold only where it has one; otherwise the line names its group
+    // and the group's words, so the group's glosses never read as this word's.
+    ac.innerHTML = '<div class="ac-cap">Pick a word to see its deeper meaning</div>' + list.map((w,i) => {
+      const E = ent(w), tr = w.t ? `<span class="tr">${esc(w.t)}</span> · ` : "";
+      const txt = w.e
+        ? `<span class="e">${esc(w.e)}</span><span class="c">${tr}in the ${esc(E.c)} group</span>`
+        : `<span class="c">${tr}in the ${esc(E.c)} group: ${esc((E.g || []).slice(0,4).join(", "))}</span>`;
+      return `<a class="row${i===sel?" sel":""}" href="${href(w)}">
          <span class="h">${esc(w.n || w.h)}</span>
-         <span class="t">${esc(w.t)}</span>
-         <span class="e">${esc(w.e || (ent(w).g || []).slice(0,3).join(", "))}</span>
-         <span class="c">${esc(ent(w).c)}</span>
+         <span class="tx">${txt}</span>
          <span class="go" aria-hidden="true">›</span>
-       </a>`).join("");
+       </a>`;
+    }).join("");
     ac.hidden = false;
   };
   const run = () => {
