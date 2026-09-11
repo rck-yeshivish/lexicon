@@ -25,10 +25,8 @@ beauty, the moon's light, the *esrog*'s fruit, the trappings of kingship without
 its essence (Vilna Gaon; Malbim; Rabbi Simcha Maimon). *Adar*, the month's name,
 comes like all the month-names from the Babylonian calendar, where it was
 Addaru, and seems, on the interchange of the Aramaic aleph with the Hebrew hei,
-to be correlated with *hadar*. In the fixed pair הוד והדר keep the order
-and the two words: "splendor and glory". Trap: "glory" absorbs both, and
-"majesty" absorbs both; once one English word is assigned to *hod* in a passage,
-*hadar* must get the other.
+to be correlated with *hadar*. In the fixed pair הוד והדר, *hod* comes first:
+**splendor and glory**.
 
 ## Distinctions
 

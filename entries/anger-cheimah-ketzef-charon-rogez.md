@@ -33,7 +33,7 @@ idiom *charon af*, **fierce anger**. *Evrah* overflows its object onto others:
 *Ketzef* is anger at the boil, outward and visible: **rage**. *Rogez* is the body
 shaken out of its calm: **agitation**. *Af* is anger on the face: **anger**. Rabbi
 Shlomo Pappenheim ranks them by intensity (kaas, zaam, cheimah, charon, charon af,
-ketzef, evrah), so a pasuk that stacks two never gets one English word twice.
+ketzef, evrah).
 
 ## Distinctions
 

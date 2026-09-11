@@ -21,11 +21,9 @@ updated: 2026-09-10
 These are not synonyms for one another; they are ranks. Rambam (*Hilchos Yesodei
 HaTorah* 2:7) counts ten, from the *chayos* at the top down to the *ishim* at
 the bottom: *chayos*, *ofanim*, *erelim*, *chashmalim*, *serafim*, *malachim*,
-*elohim*, *bnei elohim*, *kruvim*, *ishim*. Render *kruvim* as **cherubim** and
-leave the rest transliterated; the one that also does double duty is *malachim*,
-which is both a rank of its own and the general word for **angels**. The trap is
-translating any of the others as "angel," which collapses a hierarchy into one
-word.
+*elohim*, *bnei elohim*, *kruvim*, *ishim*. *Kruvim* are the **cherubim**. One
+rank does double duty: *malachim*, which is both a rank of its own and the
+general word for **angels**.
 
 ## Distinctions
 
@@ -35,8 +33,7 @@ Shacharis* §2) and the *Kolbo* (§37) cite the tradition as nine, dropping
 *malachim*, *elohim*, *bnei elohim*, and *ishim*, and adding *galgalim*, *irin*,
 and *kadishin*. The kabbalistic *Masechta Atzilus* has ten that follow Rambam
 but replace *chayos* and *elohim* with *shananim* and *tarshishim*. Rabbi Moshe
-ibn Chaviv notes that angels are also called *abirim* (Tehillim 78:25; the
-article prints 75:25). Rabbi Dovid Luria, in his glosses to *Pirkei d'Rabbi
+ibn Chaviv notes that angels are also called *abirim* (Tehillim 78:25). Rabbi Dovid Luria, in his glosses to *Pirkei d'Rabbi
 Eliezer* ch. 4, understands that midrash to hold *ofanim* and *galgalim*
 synonymous, and *kruvim* and *chayos* likewise.
 
@@ -136,7 +133,7 @@ people do.
   name and let the context carry it. Where a pasuk's *elohim* is being read as
   angels or as judges, say which, since the English cannot show it.
 - On *malach* against *shaliach* and the general word for a messenger, see the
-  separate entry `angel-malach-shaliach.md`.
+  separate entry [angel](angel-malach-shaliach.html).
 
 ## Notes for a project
 

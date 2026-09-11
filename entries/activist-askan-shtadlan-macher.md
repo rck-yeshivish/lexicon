@@ -40,9 +40,8 @@ An *askan* is a **communal activist**: he is busy with the matter himself and
 gets it done. A *shtadlan* is an **intercessor** or lobbyist: he works on the
 authorities to change their position. The Yiddish *macher* is simply a
 **doer**. Behind them stand *esek*, **dealing** with a matter (and in Tanach,
-fighting over one), and *shadal*, **making an effort** or **persuading**. Do
-not render both *askan* and *shtadlan* as "activist"; the whole distinction is
-that one acts and the other persuades.
+fighting over one), and *shadal*, **making an effort** or **persuading**. Between *askan* and *shtadlan* the whole distinction is that one
+acts and the other persuades.
 
 ## At a glance
 
@@ -73,8 +72,7 @@ parties who refuse to back down, and that same perseverance describes those who
 toil for the public good. He adds that even in rabbinic literature *esek*
 somewhat retains its Biblical sense, since it sometimes refers specifically to a
 matter that is subject to controversy (Rashi to Shavuos 31a, Bava Metzia 14a).
-Follow Kohut's second reading with Rabbi Klein's bridge; that is where the
-column comes out.
+That is where the column comes out: Kohut's second reading, with Rabbi Klein's bridge.
 
 **What eshtadur is.** Menachem Ibn Saruk (*Machberes Menachem*): a
 quadriliteral root א-ש-ד-ר, unrelated to *shadal*. Ramban seems to take the
@@ -92,7 +90,7 @@ second party is being worked on, which is the sense of the ordinary
 *hishtadlus*, and of *hishtadel lihyos ish* (Avos 2:5, and see 4:18) and
 *yishtadel adam* (Berachos 58a). To Rabbi Klein it seems that "attempting" is
 the base, with persuading, rebelling, and fighting derived from it, since each
-is a matter of not backing down. That ordering is the one to follow.
+is a matter of not backing down.
 
 ## Distinctions
 
@@ -128,7 +126,7 @@ It seems to derive from the root ש-ד-ל, but no words from that root appear in
 Tanach itself. Sforno (to Bereishis 26:20) reads the shepherds' *his'asku* as
 *hishtadlu*, that they were trying to talk Yitzchak's men out of the well,
 which is the bridge from *esek* to *shtadlanus*. A *shtadlan*, then, is one
-whose work is to work on others. (One homograph to watch: the column notes in
+whose work is to work on others. (A homograph: the column notes in
 an aside that the Italian scholar R. Shmuel Dovid Luzzatto, 1800-1865, whom it
 calls controversial, is known by his initials as Shadal.)
 
@@ -140,8 +138,7 @@ gives an explanation similar to Ramban's and likewise reaches for *esek*, that
 the king had to fight to convince his officers to save Daniel; Ramban theorizes
 that *shadal* and *shadar* are cognates, on the ground that lammed and reish
 often interchange, and notes that some versions of *Avos* 2:5 read *hishtadar*
-for *hishtadel*. Watch the other sense: in post-Biblical Aramaic *shadar* means
-"to send", which has nothing to do with striving (see the *malach*/*shaliach*
+for *hishtadel*. *Shadar* has another sense: in post-Biblical Aramaic it means "to send", which has nothing to do with striving (see the *malach*/*shaliach*
 entry).
 
 ### macher (Yiddish)

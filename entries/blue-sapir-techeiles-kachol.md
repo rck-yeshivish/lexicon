@@ -29,11 +29,8 @@ updated: 2026-09-10
 ## Bottom line
 
 The Torah has no word for the color blue. *Sapir* is a **stone**, *techeiles* a
-**dyed wool**, and *kachol* comes from the name of a cosmetic powder. Render
-*sapir* "sapphire," leave *techeiles* transliterated with a gloss, and be wary
-of "blue" for *kachol*, whose range runs to dark and black. The trap is writing
-"blue" three times and giving an English reader a color vocabulary the Hebrew
-does not have.
+**dyed wool**, and *kachol* comes from the name of a cosmetic powder; its range runs to dark
+and black.
 
 ## At a glance
 
@@ -52,9 +49,8 @@ violet, with yellow, green, blue and indigo in between, so his definition does
 not settle the shade.
 The Midrash fixes it by comparison instead: *techeiles* resembles the color of
 the *sapir* stone, which is why looking at the tzitzis recalls the whole Torah,
-the Luchos having been hewn from *sapir*. The Bottom line follows the Midrash's
-comparison and leaves the word transliterated, since the comparison is to an
-object and not to a name for a hue. On the breadth of *yarok*, see the entry on
+the Luchos having been hewn from *sapir*. The Bottom line follows the Midrash's comparison, which is to an object and not
+to a name for a hue. On the breadth of *yarok*, see the entry on
 *yerek*/*yarok*.
 
 **Whether kachol is blue.** Rashi (Bava Basra 4a and Sukkah 51b) explains
@@ -77,9 +73,8 @@ really mean blue. And Professor Aharon Demsky of Bar Ilan University points to a
 ancient wine decanter found near Chevron inscribed "[Belonging] to Yachzeyahu,
 wine *kachol*"; since there is no such thing as blue wine, the column takes the
 inscription to mean dark wine, and concludes from the two that *kachol*
-originally meant black or dark rather than blue. The rendering guidance below
-follows that conclusion, keeping "blue" for places, like Rashi's marble, where an
-authority has read it so.
+originally meant black or dark rather than blue. This entry follows that conclusion, except where an authority, like Rashi on
+the marble, has read it as blue.
 
 ## Distinctions
 

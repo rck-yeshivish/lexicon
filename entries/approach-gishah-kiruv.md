@@ -77,8 +77,7 @@ Three accounts of the same contrast, and they do not reduce to one.
 
 The Bottom line takes the first two together, which agree in practice, and keeps
 Rav Hirsch's point about purpose, because it is what explains Yehudah's *vayigash*.
-Rabbi Yaakov Tzvi Mecklenburg's abstract/physical axis runs against Rav Hirsch and
-should be cited, not merged.
+Rabbi Yaakov Tzvi Mecklenburg's abstract/physical axis runs against Rav Hirsch.
 
 ## Distinctions
 

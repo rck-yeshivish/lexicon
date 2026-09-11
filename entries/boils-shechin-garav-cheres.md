@@ -37,8 +37,8 @@ updated: 2026-09-10
 gone hot, not a burn. The other three are kinds of it. Paired, *garav* is the **moist**
 sort and *cheres* the **dry**; *garav* on its own means the dry sort (Rashi). *Yalefet*
 is the sort that **clings**, never leaving the man. *Avabuos* are the **blisters** of
-the makkah in Mitzrayim. The thing not to get wrong: *garav* changes meaning depending
-on whether *cheres* stands beside it, so check the pasuk before choosing a word.
+the makkah in Mitzrayim. *Garav* changes meaning depending on whether *cheres*
+stands beside it.
 
 ## At a glance
 
@@ -54,8 +54,7 @@ on whether *cheres* stands beside it, so check the pasuk before choosing a word.
 **Which way the Egyptian shechin ran.** Rashi (to Devarim 28:27): moist inside and dry
 outside, so that neither the treatment for moist boils nor that for dry ones could work.
 His source, Bechoros 41a, says the reverse, moist outside and dry inside; Rabbi Natan
-Borgel (*Chok Nasan*) proposes emending Rashi's text to match. Quote Rashi's words and
-note the Gemara's.
+Borgel (*Chok Nasan*) proposes emending Rashi's text to match.
 
 **What garav means.** Rashi to Devarim 28:27: *garav* and *cheres* are the less horrid
 sorts of boils, *garav* thoroughly moist and *cheres* thoroughly dry. Rashi to Vayikra

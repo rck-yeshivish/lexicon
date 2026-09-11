@@ -63,7 +63,7 @@ alternatively, that *eivah* is a fruit or other commodity, so these are the boat
 used to carry it. Ralbag: especially fast boats. Dr. Raphael Patai and Dr. Chaim
 Tawil argue instead that *eiveh* is related to the Akkadian *abu*/*apu*, reeds,
 so that these are boats made of reeds, typically insulated with tar and pitch.
-Nothing settles it; render by what the argument needs, footnote the rest.
+Nothing settles it.
 
 **Where *sefinah* comes from.** Rabbi Shlomo Pappenheim gives four derivations
 pulling in different directions: from *saf*, a liquid receptacle it resembles in
@@ -71,8 +71,8 @@ shape (Shemos 12:22; Shmuel II 17:28); from *safah*, "edge," since when not in u
 it is housed at a port along the sea's edge; from its being less seaworthy than
 an *oniah*, so that it must be kept closer to shore and is unsuitable for
 deep-sea work; or from *tzafun*/*safun*, "hidden" or "embedded," since goods were
-packed away and carried on it (Devarim 33:19 with Abarbanel there). Only the
-third has a translation consequence, and Pappenheim himself only suggests it; the
+packed away and carried on it (Devarim 33:19 with Abarbanel there). Only the third would make the two words differ, and Pappenheim himself only
+suggests it; the
 Bottom line keeps *sefinah* and *oniah* equivalent. Rabbi Klein adds that he
 seems to recall commentators explaining *safun* of the hull being immersed, and
 so hidden, in the sea while only the upper part shows, but reports that he could

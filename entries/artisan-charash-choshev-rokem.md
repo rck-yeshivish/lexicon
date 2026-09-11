@@ -22,10 +22,8 @@ The Torah's three words for Betzalel's and Oholiav's skills (Shemos 35:35,
 38:23) are not synonyms. *Charash* is the **craftsman** who reshapes raw
 material, wood, stone or metal. *Choshev* is the **designer**, who plans and
 combines finished materials into a figured work, hence *maaseh choshev* brocade.
-*Rokem* is the **embroiderer**, working in colors. The trap: both are
-"embroidery" in English, and the Gemara (Yoma 72b) distinguishes them by how many
-faces the work shows, which no single English word carries. Keep both
-transliterated in any Mishkan passage.
+*Rokem* is the **embroiderer**, working in colors. Both are embroidery, and the
+Gemara (Yoma 72b) distinguishes them by how many faces the work shows.
 
 ## Distinctions
 

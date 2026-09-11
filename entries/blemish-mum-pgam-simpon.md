@@ -19,15 +19,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All three can be rendered **blemish**, and all three mean something else at
-root. *Mum* is a **something**, from *meumah*: a small something present that
+All three are commonly taken to mean **blemish**, and all three mean something
+else at root. *Mum* is a **something**, from *meumah*: a small something present that
 should not be, or absent that should be, which is why it covers both a lack and
 an excess. *Pgam* is a **nick** or **deficiency**, a groove taken out of
 something, and by extension a loss of worth or standing. *Simpon* does not mean
 blemish at all; it is a **cancelling condition**, whatever can void an
-agreement, and a physical defect is only one instance of it. The trap: rendering
-*simpon* as "blemish" in *Kesubos* 57b turns a rule about voidable kiddushin
-into a rule about bodies.
+agreement, and a physical defect is only one instance of it. In *Kesubos* 57b *simpon* belongs
+to a rule about voidable kiddushin, not a rule about bodies.
 
 ## Distinctions
 

@@ -42,8 +42,7 @@ updated: 2026-09-10
 animal**; *be'ir* a rare word for a **beast**, and for Rav Hirsch the most
 subdued of the three, doing nothing but what instinct drives it to. The same root
 gives *ba'ar*, the **brute** or **boor**, and the Mishnaic *bur*, the
-**uncultured man**. When a pasuk pairs *ba'ar* with *behemah* (Tehillim 73:22)
-the pairing is the point; keep the two English words distinct.
+**uncultured man**. When a pasuk pairs *ba'ar* with *behemah* (Tehillim 73:22) the pairing is the point.
 
 ## At a glance
 
@@ -91,8 +90,7 @@ animal bereaves the field of its produce and leaves it bare.
 
 **Which way the metaphor runs.** Edel and the Malbim: a *ba'ar* is so called
 because his want of intelligence makes him like a *be'ir*. *Ohalei Yehuda*
-reverses it: the animal behaves like a *ba'ar*. A derashah on Tehillim 73:22
-turns on the direction; a translation does not.
+reverses it: the animal behaves like a *ba'ar*. A derashah on Tehillim 73:22 turns on the direction.
 
 **What bur means.** Some explain it as a cognate of the other Mishnaic
 *bur*, an uncultivated, desolate field (Peah 2:1; Targum Onkelos to Bereishis
@@ -101,8 +99,7 @@ Asher Weiser: from *bor*, a pit, the man whose mind is empty,
 and he links *be'er*, a wellspring, which holds only so much water, and *biur*,
 explanation, the antidote to the *ba'ar*'s ignorance, to that family. Rabbi
 Eliyahu HaBachur (*Sefer
-HaTishbi*): a form of *ba'ar* (Targum to Mishlei 12:1, 30:2). All three give the
-same English, differing on the image, not the sense.
+HaTishbi*): a form of *ba'ar* (Targum to Mishlei 12:1, 30:2). All three agree on the sense and differ on the image.
 
 **Whether the English boor belongs here at all.** The column reports that it had
 assumed the English word came from the Hebrew *bur*, and that when asked, the
@@ -147,7 +144,7 @@ trodden upon by their servility to man, and he compares ב-ה-מ to פ-ע-מ,
 takes from
 *chai*, life: the wild animal is an independent life-form, and animal life is a
 higher order than *tzomeach*. For the fuller treatment of this pair, including
-Ramban's division by diet, see `animal-behemah-chayah.md`.
+Ramban's division by diet, see [animal](animal-behemah-chayah.html).
 
 ### ba'ar (בער) and bur (בור)
 *Ba'ar* is Biblical, *bur* Mishnaic. Avos 2:5: a *bur* cannot be a fearer of

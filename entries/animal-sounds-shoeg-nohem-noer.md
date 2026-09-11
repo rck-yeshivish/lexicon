@@ -52,8 +52,8 @@ four verbs: *shoeg* is **roars** (hunger, dominance),
 and sustained, also said of a dove), and *noer* is a sudden **roar** let out by
 a cub. A bear is *shokek*, a wild donkey *nohek* (**brays**), a cow *goeh*
 (**bellows**), a horse *tzohel* (**neighs**), a bird *mitzaftzef* (**chirps**),
-a dog *novayach* (**barks**). Do not render all four lion verbs "roar" in a
-passage that lists them; the point of the list is that they differ.
+a dog *novayach* (**barks**). The point of listing the four lion verbs is that
+they differ.
 
 ## At a glance
 
@@ -78,9 +78,8 @@ the throes of desire the heartbeat grows noticeably consistent and consecutive)
 and *neshikah* (a kiss, either the outward realization of *teshukah* or because
 kissing makes a distinct sound) and *neshek* (a weapon, either because its
 mechanics make a certain noise or because two combatants approaching each other
-on the battlefield resemble two lovers approaching for a kiss). The Bottom line
-keeps "roars," the majority of the three, but a translator working in Mishlei
-28:15 should know the gait reading exists.
+on the battlefield resemble two lovers approaching for a kiss). The Bottom line keeps "roars," the majority of the three, but the gait reading
+remains live.
 
 **What separates the lion's four verbs.** Rabbi Yechiel Michel Stern, Rav of the
 Ezras Torah neighborhood in Yerushalayim, suggests that the difference is the
@@ -123,7 +122,7 @@ of exhaustion, which also gives *yagea* (tired), *yegiyah* (toiling) and *geviya
 expressing its anticipation and hope for its mate or its food. *Novayach*,
 barking, comes from ב-ח, sound that travels through the air, whose only other
 derivative is the first word of *avchas cherev*, the swooshing of a sword
-(Yechezkel 21:20; the article gives 21:2). For *nohem* the root is ה-ם,
+(Yechezkel 21:20). For *nohem* the root is ה-ם,
 storminess or chaos, which also gives *hamon* (multitudes, masses joined in a
 stormy gathering) and *tehomos* (the depths of the sea, where the deep waters are
 wild and stormy); a lion's *nohem* is likewise an outward expression of inner

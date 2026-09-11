@@ -37,9 +37,8 @@ updated: 2026-09-10
 
 *Sal* is the ordinary **basket**, and for Rabbi Pappenheim a **bread basket**.
 *Tene* is the **fruit basket** of bikkurim, loosely woven so the air can move
-through it. *Keluv* holds something alive or ripening, so "basket" for figs and
-"cage" for birds; *dud* is a basket or a pot by context, and *kalkalah* is the
-large Mishnaic **hamper**. The trap: English "basket" covers all of them.
+through it. *Keluv* holds something alive or ripening, so a **basket** for figs and a **cage** for birds; *dud* is a basket or a pot by context, and *kalkalah* is the
+large Mishnaic **hamper**.
 
 ## At a glance
 
@@ -93,8 +92,8 @@ and grapes (Yirmiyahu 6:9). The Aramaic *sala* is what the Targum uses for
 Four appearances, all in Ki Savo (Devarim 26:2, 26:4, 28:5, 28:17), about
 bikkurim and about the blessing and curse on one's produce; in the language of
 Chazal it appears as *teni*. That it is reserved to that parashah, and that the
-Targum reaches for *sal* to render it, is what makes it worth marking as a
-different kind of basket rather than a stylistic variation.
+Targum reaches for *sal* to render it, is what sets it apart as a different kind of basket rather than a stylistic
+variation.
 
 ### keluv (כלוב), dud (דוד)
 *Keluv* twice: a basket of *kayitz*, summer figs, in Amos 8:1, and a basket in
@@ -103,8 +102,7 @@ made *keluv* a cage. *Dud* means a basket in Yirmiyahu 24:1-2 but a pot in
 Shmuel I 2:14 and Divrei HaYamim II 35:13, the vessels being much the same shape.
 
 ### the Mishnaic and Talmudic words
-*Kalkalah* is frequent in the Mishnah (Peah 7:3; Demai 7:6, which the article
-prints as *Dema*; Terumos 4:6; Maasros 1:5, 4:2; Shabbos 20:3, 21:1; Eruvin
+*Kalkalah* is frequent in the Mishnah (Peah 7:3; Demai 7:6; Terumos 4:6; Maasros 1:5, 4:2; Shabbos 20:3, 21:1; Eruvin
 3:8; Kiddushin 2:7; Keilim
 16:2, 22:9). Rabbi Tanchum HaYerushalmi: an especially large *sal* people would
 use to store all
@@ -150,7 +148,7 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Basket Case](https://articles.ohr.edu/articles/a-basket-case-2)," *What's in a Word?*, Ohr Somayach, 5 September 2020.
+Rabbi Reuven Chaim Klein, "[A Basket Case](https://articles.ohr.edu/articles/a-basket-case)," *What's in a Word?*, Ohr Somayach, 5 September 2020.
 
 Rabbi Reuven Chaim Klein, "[A Basket Case](https://articles.ohr.edu/articles/a-basket-case-2)," *What's in a Word?*, Ohr Somayach, 17 September 2022.
 

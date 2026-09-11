@@ -22,8 +22,8 @@ updated: 2026-09-10
 of marriage: **betrothal**, after which she is halachically his wife and adultery
 applies, though the couple may not yet live together. *Nissuin*, effected by
 chuppah, is the second stage: **marriage** proper. *Shidduchin* is what English
-calls **engagement**, an agreement to marry later. The trap is rendering *erusin*
-"engagement": modern Hebrew uses it that way, but Rav Hirsch (to Shemos 22:15)
+calls **engagement**, an agreement to marry later. Modern Hebrew uses *erusin* for engagement, but
+Rav Hirsch (to Shemos 22:15)
 already warns that the Torah's *erusin* is not that. Where the two words are
 contrasted, *kiddushin* carries the *hekdesh* sense of setting apart and
 *erusin* the sense of binding or tying.

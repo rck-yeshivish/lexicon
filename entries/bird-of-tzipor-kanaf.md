@@ -25,9 +25,8 @@ narrower **bird**, and what narrows it is disputed: every bird as against
 insects (Radak), only a kosher bird (Sifri and Rambam), or the small chirping
 songbird that greets the morning (Ramban). *Kanaf* is literally **winged
 creature**, the wing itself doing the naming, and it reaches to grasshoppers and
-other winged insects. The trap is Bereishis 7:14, where all three stand in one
-pasuk: an English rendering that writes "bird" three times destroys the very
-inclusion Rashi reads there.
+other winged insects. All three stand in one pasuk, Bereishis 7:14, where Rashi
+reads *kol kanaf* as including what *kol tzipor* had not covered.
 
 ## Distinctions
 

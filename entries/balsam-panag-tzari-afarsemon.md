@@ -15,16 +15,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tzari* is the balsam resin of Tanach and of the *ketores*: render it **balm**
-or **balsam**, and keep it distinct from the incense's own biblical name for the
-same ingredient, *nataf*, literally **the dripping one**. *Bosem*/*besamim* is
+*Tzari* is the balsam resin of Tanach and of the *ketores*, **balm** or
+**balsam**; the incense's own biblical name for the same ingredient is *nataf*,
+literally **the dripping one**. *Bosem*/*besamim* is
 the wide word, **fragrance, spices**, never balsam specifically in Tanach.
 *Afarsemon* is the Rabbinic word for **balsam oil**. *Panag* is a *hapax
 legomenon* at Yechezkel 27:17; *Yossiphon* reads it as balsam and Rashi cites
 that, presumably endorsing it, but
-Radak objects that Yechezkel lists *panag* and *tzari* separately, so leave it
-untranslated or gloss it. The trap: "balsam" will swallow *tzari*, *panag*,
-*bosem* and *afarsemon* at once, flattening a whole disagreement.
+Radak objects that Yechezkel lists *panag* and *tzari* separately.
 
 ## Distinctions
 

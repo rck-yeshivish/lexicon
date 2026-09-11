@@ -26,8 +26,8 @@ up, and unqualified it means Megillas Esther. *Iggeret* is a **letter** or
 **epistle**, a short-lived document sent elsewhere. *Gilayon* is a single
 **sheet**, later a margin and then a **gloss**; *shtar* a **deed** meant to
 last; *machzor* originally the **codex**, later the yom tov siddur; *kuntres* a
-**pamphlet**. The trap: Esther is called all three of *sefer*, *megillah* and
-*iggeret*, and each name carries a halachah, so never level them to "book."
+**pamphlet**. Esther is called all three of *sefer*, *megillah* and *iggeret*,
+and each name carries a halachah.
 
 ## Distinctions
 
@@ -73,9 +73,7 @@ that practice, still followed in many communities in Eretz Yisrael.
 
 The claim that a *sefer* rolls on two wooden pins and a *megillah* on one is
 untraced: Rabbi Klein reports that he understood the difference that way from
-childhood, that he later looked for a source and came up empty-handed, and that
-he would welcome one. Do not repeat it as though it were an established
-distinction.
+childhood, that he later looked for a source and came up empty-handed, and that he would welcome one.
 
 ### iggeret (אגרת)
 Esther calls itself an *iggeret* (Esther 9:26-29), and Shmuel (Megillah 7a)
@@ -127,7 +125,7 @@ Wertheimer derives it instead from *agur*, a collection stored long term, so an
 *iggeret* is a document meant to be preserved, which on the surface, the column
 says, seems to contradict Rabbi Faur and Rabbi Soloveitchik.
 
-Malbim's summary is the compact one to hold: an *iggeret* is a document
+Malbim's summary is the compact one: an *iggeret* is a document
 between two parties; a *sefer* tells (*mesaper*) about a subject; a *megillah*
 is written to be rolled (*golel*); a *gilayon* is written to be revealed
 (*gilui*) and not rolled or folded; *ksav* is anything written.
@@ -160,8 +158,7 @@ Eliyahu HaBachur (*Sefer HaTishbi*) derives it instead from the Latin
   *iggeret*, *shtar*, and *get*. In a halachic passage leave *shtar*, *get*,
   and *kuntres* transliterated; only *iggeret* is safely "letter."
 - *Sefer* in a citation of a title (*Sefer HaShorashim*, *Sefer Tehillim*)
-  stays transliterated as part of the name; *sefer* as a common noun in a frum
-  English text stays "sefer," not "book," where the reference is to a work of
+  stays transliterated as part of the name; *sefer* as a common noun stays "sefer," not "book," where the reference is to a work of
   Torah.
 - *Gilayon* is "sheet" in Rabbi Shlomo Pappenheim's sense, "margin" in the
   later sense, and "gloss" where it names a commentary printed there. Pick from

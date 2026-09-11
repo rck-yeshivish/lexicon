@@ -38,9 +38,7 @@ as something hard, strong, and self-contained, and it is the general word;
 *gerem* is the bone as one part within a frame, which is why the same root gives
 a single step of a staircase and, in rabbinic Hebrew, *grama*, indirect
 **causation** (Rav Hirsch). The Vilna Gaon puts the line differently: *etzem* is
-the bone's hard outside, *gerem* the hollow inside where the marrow is. The trap:
-English "bone" absorbs both, and with them the reason *grama* is a word about
-causing rather than about bones.
+the bone's hard outside, *gerem* the hollow inside where the marrow is.
 
 ## At a glance
 
@@ -142,9 +140,8 @@ The Targumim render *etzem* with *garmei*, in the sense of bone and in the sense
 of self alike; the Aramaic appears in Daniel 6:25. In Hebrew the noun is written
 *gerem* but pronounced *garem* under the influence of the cantillation and
 vocalization (Mishlei 17:22, 25:15). "A soft tongue breaks a bone (*gerem*)"
-(Mishlei 25:15) is plainly the body part; the article introduces that verse as
-Iyov's on the power of prayer to overturn a harsh decree, but the words stand in
-Mishlei. For the self-sense, *gerem hamaalos* is the step itself (Melachim II
+(Mishlei 25:15) is plainly the body part; the column cites it on the power of
+prayer to overturn a harsh decree. For the self-sense, *gerem hamaalos* is the step itself (Melachim II
 9:13); it would seem, Rabbi Klein writes, that *gerem* as bone gives *gerem* as
 self the same way *etzem* does, a man's self being sometimes characterized by the
 hardest parts of his body. Rabbi Eliyahu HaBachur notes the rabbinic

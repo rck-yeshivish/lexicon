@@ -25,8 +25,8 @@ Yishmael* to Shemos 13:18 and *Shemos Rabbah* 20:19 say it means *mezuyanim*.
 head of the army. *Mezuyan* is post-biblical, from Aramaic *zayin*, a weapon.
 Targum renders *chamush* in all four places by *zariz*, ready at a moment's
 notice, and often renders *chalutz* the same way; Onkelos gives *vayarek* of
-Avraham by *zariz* too. The trap: at Shemos 13:18 "armed" and "a fifth of them" are
-both live readings of one word, so translate one and footnote the other.
+Avraham by *zariz* too. At Shemos 13:18 "armed" and "a fifth of them" are
+both live readings of one word.
 
 ## Distinctions
 

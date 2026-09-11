@@ -26,10 +26,9 @@ updated: 2026-09-10
 them; *chayah* is **a wild animal**, one that lives in open country (Ibn Ezra
 and Radak). Ramban suggests a different line, by diet: *behemos* eat only plants,
 *chayos* eat flesh. The article leaves both live, the Netziv rejecting Ramban and
-Rabbi Chaim Kanievsky defending him. The one thing not to get
-wrong is that these are halachic categories before they are descriptions:
-*cheilev* is forbidden only in a *behemah*, and *kisui hadam* applies only to a
-*chayah*. Where a passage is halachic, do not flatten both to "animal."
+Rabbi Chaim Kanievsky defending him. These are halachic categories before they
+are descriptions:
+*cheilev* is forbidden only in a *behemah*, and *kisui hadam* applies only to a *chayah*.
 
 ## Distinctions
 

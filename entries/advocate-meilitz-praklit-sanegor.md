@@ -28,9 +28,7 @@ the *praklit* helped silently, by showing up). *Kategor* is the **accuser** or
 **prosecutor**. The mishnah that anchors the cluster is Rabbi Eliezer ben
 Yaakov's, that one who performs a single mitzvah acquires for himself one
 *praklit* and one who commits a single transgression acquires one *kategor*
-(*Avos* 4:11); in other cases the antonym of *kategor* is *sanegor*. Do not
-flatten all three into
-"defender"; where a source pairs *sanegor* against *kategor* the point is
+(*Avos* 4:11); in other cases the antonym of *kategor* is *sanegor*. Where a source pairs *sanegor* against *kategor* the point is
 courtroom advocacy, and where it says *praklit* the point is who vouches for the
 man. Modern Hebrew inverts this: a *praklit* there is a state attorney, that is,
 a prosecutor.

@@ -24,11 +24,9 @@ updated: 2026-09-10
 root meaning to incline or stretch out, since a man inclines his body to lie
 down. *Eres* is the rarer word, nine appearances, and every explanation of it
 makes it the more particular one: a fitted or special bed, an iron-framed one, a
-crib, a bed of woven or cross-fastened planks. The trap is that English "bed"
-covers both and Targum renders both by *arsa*. Ramchal holds they are genuine
-synonyms paired for poetic effect; the other views cited do not treat them as
-fully synonymous, so where a passage
-puts them side by side, differentiate.
+crib, a bed of woven or cross-fastened planks. Targum renders both by *arsa*.
+Ramchal holds they are genuine synonyms paired for poetic effect; the other views
+cited do not treat them as fully synonymous.
 
 ## Distinctions
 

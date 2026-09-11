@@ -16,12 +16,11 @@ updated: 2026-09-10
 ## Bottom line
 
 *Biglal* is the backward-looking "because": a reason that **already exists** and
-justifies the act, so render it **on account of** or **because of**. *Baavur* is
+justifies the act, so it means **on account of** or **because of**. *Baavur* is
 the forward-looking one: the reason **does not yet exist** and is the intended
-outcome, so render it **in order that** or **so that**. *Bishvil* is
+outcome, so it means **in order that** or **so that**. *Bishvil* is
 post-Biblical, usually equal to *biglal*, and is the everyday word in modern
-speech. The trap is that English "because" covers both directions, and a
-translator who writes "because" for *baavur* reverses the causality.
+speech.
 
 ## Distinctions
 

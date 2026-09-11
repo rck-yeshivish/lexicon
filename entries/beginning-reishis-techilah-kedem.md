@@ -27,9 +27,9 @@ altogether, while the Vilna Gaon has *reishis* mean the first of a series withou
 denying that something preceded the series. *Rishon* is **first** in a counted
 series, one of several. *Techilah* is the **onset**, marking (on Malbim's
 account) that a thing did not exist before, without tying itself to what follows.
-*Kedem* is **before**, and in space **east**. The one thing not to get wrong: *reishis* is valued, not merely
-ordinal. Rendering it flatly "the first" throws away the importance on which
-Rashi's opening comment and the Netziv's *terumah* reading both depend.
+*Kedem* is **before**, and in space **east**. *Reishis* is valued, not merely
+ordinal, and Rashi's opening comment and the Netziv's *terumah* reading both
+depend on that importance.
 
 ## Distinctions
 
@@ -102,7 +102,7 @@ moment a process enters its natural cycle and begins to run. The halachic
 perform a mitzvah from the outset, before any *bedieved* circumstance arises.
 
 ### reishis against techilah
-Both render "the beginning," and one pair of pesukim states the same idea with
+Both mean "the beginning," and one pair of pesukim states the same idea with
 each: "the *reishis* of wisdom is fear of Hashem" (Tehillim 111:10) against "the
 *techilas* of wisdom is fear of Hashem" (Mishlei 9:10).
 
@@ -134,8 +134,7 @@ each: "the *reishis* of wisdom is fear of Hashem" (Tehillim 111:10) against "the
   to Yeshayahu 391) reads the two the other way round, judges as Moshe and Aharon
   and counselors as David and Shlomo.
 
-Rabbi Shlomo Pappenheim's *Yerios Shlomo* opens with thirteen pages on this
-distinction; anyone settling a hard case should go there.
+Rabbi Shlomo Pappenheim's *Yerios Shlomo* opens with thirteen pages on this distinction.
 
 ### kedem (קדם)
 Targum Onkelos renders *b'reishis* as *b'kadmin*. *Kodem* is "before" in time,

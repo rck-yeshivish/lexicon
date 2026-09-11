@@ -21,8 +21,7 @@ the circle, so **around**, **about**, and even a detour or a roundabout way of
 speaking; doubled as *saviv saviv* it does mean all the way around (Malbim).
 *Afef* is encircling that closes in on a man from every side, and Malbim holds it
 is always for the worse: **envelop**, **beset**. *Chug* is a circle seen from its
-center, an orbit. The trap is rendering *saviv* as "all around" where the Hebrew
-concedes only an arc.
+center, an orbit. Bare *saviv* may concede only an arc.
 
 ## Distinctions
 
