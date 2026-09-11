@@ -15,8 +15,8 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All of these render **lion** in English, and Chazal count six or seven of them.
-The sources divide on what the set is, and the choice governs the translation.
+All of these are words for a **lion**, and Chazal count six or seven of them.
+The sources divide on what the set is.
 The sources of the first group seem to take all seven as the same animal, named
 for seven different attributes of it or human reactions to it (Sanhedrin 95a;
 *Yalkut Shimoni*). Others take them as stages of a lion's life, and differ among
@@ -25,9 +25,7 @@ themselves: Radak's progression runs *gur* the nursing cub, then *kfir*, then
 does not say where *shachal* fits; the Vilna Gaon has three stages only, *kfir*,
 *aryeh*, *shachal*; Abarbanel flattens the set to two, *gur* and *kfir* young,
 *aryeh*, *layish* and *lavi* grown. A minority reads some of these words as other
-animals altogether. Our own default is Radak's progression: render *gur* "lion
-cub" and *kfir* "young lion," and never let plain "lion" cover two of these words
-in one pasuk.
+animals altogether.
 
 ## Distinctions
 
@@ -116,14 +114,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Crouching Lion, Hidden Blessing](https://articles.ohr.edu/articles/crouching-lion-hidden-blessing)," What's in a Word?,
-Ohr Somayach, 14 Teves 5779 (2018-12-22),
-https://articles.ohr.edu/articles/crouching-lion-hidden-blessing; raw text in
-`sources/whats-in-a-word/raw/8039-crouching-lion-hidden-blessing.md`. Primary
-loci cited: Bereishis 49:9; Bamidbar 24:9; Devarim 1:17; Shoftim 14:5; Yechezkel
-19:5; Hoshea 13:8; Michah 5:7; Tehillim 104:21; Mishlei 20; Iyov 4:10, 19:29;
-Eichah 4:3; Sanhedrin 95a; *Avos d'Rabbi Nasan* version 2 ch. 43; *Tikkunei
-Zohar* 122a; *Zohar* Terumah 143a; *Sefer HaBris*; *Mashmia Yeshua*. The column
-prints the *kfir*-and-sheep verse as Michah 5:3; it is Michah 5:7 in Hebrew
-versification (5:8 in English), and the entry gives it there. The column closes
-by saying it must save the difference between *aryeh* and *ari* for another time.
+Rabbi Reuven Chaim Klein, "[Crouching Lion, Hidden Blessing](https://articles.ohr.edu/articles/crouching-lion-hidden-blessing)," *What's in a Word?*, Ohr Somayach, 22 December 2018.
+
+Cited in the essay: Bereishis 49:9; Bamidbar 24:9; Devarim 1:17; Shoftim 14:5; Yechezkel 19:5; Hoshea 13:8; Michah 5:7; Tehillim 104:21; Mishlei 20; Iyov 4:10, 19:29; Eichah 4:3; Sanhedrin 95a; *Avos d'Rabbi Nasan* version 2 ch. 43; *Tikkunei Zohar* 122a; *Zohar* Terumah 143a; *Sefer HaBris*; *Mashmia Yeshua*.

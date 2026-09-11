@@ -22,7 +22,7 @@ ordinary word for a slave's owner. Two readings of the difference: the working
 assumption, that it is simply Hebrew against Aramaic; and the thematic way
 Rabbi Baruch Aryeh HaLevi Fischer *suggests*, that *adon* is a standing title
 while *rav*/*ribbon* is used only where there is a subordinate in the master's
-charge. Do not render both "Lord" in one phrase.
+charge.
 
 ## Distinctions
 
@@ -95,11 +95,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Rabbi of Robbers](https://articles.ohr.edu/articles/rabbi-of-robbers)," What's in a Word?, Ohr Somayach,
-29 Shevat 5777 (2017-02-25): raw text in
-`sources/whats-in-a-word/raw/7153-rabbi-of-robbers.md`. Primary loci cited:
-*Bava Metzia* 84a (Reish Lakish and Rabbi Yochanan); *Berachos* 60b (*Ribbon
-kol hamaasim, Adon kol haneshamos*); Targum Onkelos on *adon*; the construct
-forms *rav tabachim*, *rav hachovel* and *ravei hamelech*; the Vilna Gaon on
-the berachah; Rabbi Aharon Leib Steinman; Rabbi Baruch Aryeh HaLevi Fischer of
-Yeshivas Chasan Sofer.
+Rabbi Reuven Chaim Klein, "[Rabbi of Robbers](https://articles.ohr.edu/articles/rabbi-of-robbers)," *What's in a Word?*, Ohr Somayach, 25 February 2017.
+
+Cited in the essay: *Bava Metzia* 84a (Reish Lakish and Rabbi Yochanan); *Berachos* 60b (*Ribbon kol hamaasim, Adon kol haneshamos*); Targum Onkelos on *adon*; the construct forms *rav tabachim*, *rav hachovel* and *ravei hamelech*; the Vilna Gaon on the berachah; Rabbi Aharon Leib Steinman; Rabbi Baruch Aryeh HaLevi Fischer of Yeshivas Chasan Sofer.

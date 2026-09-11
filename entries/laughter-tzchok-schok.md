@@ -18,10 +18,9 @@ updated: 2026-09-10
 *Tzchok* and *s'chok* are the same word: **laughter**, with sin and tzadi
 interchanging, and the lexicographers find no difference of meaning between
 them. Both run the full range from laughing and playing to mocking and deriding,
-so context, not the root, decides whether to render "laugh," "play" or "mock."
-The whole discussion of *Yitzchak* against *Yischak* is therefore not lexical
-but homiletical and kabbalistic; do not translate the two spellings as if they
-meant different things.
+and context, not the root, decides which is meant. The whole discussion of
+*Yitzchak* against *Yischak* is therefore not lexical but homiletical and
+kabbalistic.
 
 ## Distinctions
 
@@ -42,7 +41,7 @@ mockery is the use of sarcasm and irony to make someone laugh at a person or a
 thing. See also Malbim to Shoftim 16:25, where Shimshon is brought out to
 "play."
 
-Rav Hirsch (to Bereishis 17:17; the article prints 17:7) further ties
+Rav Hirsch (to Bereishis 17:17) further ties
 *tzchok* and *s'chok* to *tzaakah* and *zaakah*, crying out, on the
 interchange of ches and ayin. All four, he says, are man's reaction to a gap
 between what he sees and what he expected: a child in an adult's wig makes us
@@ -99,7 +98,7 @@ Avos which of them would give up the numerical value of his name to save them,
 and Yitzchak stepped forward and gave up the sin (300) for a tzadi (90), a
 difference of 210, which is why they were redeemed after an exile of 210 years
 (cited in numerous works, among them *Imrei Noam* to Shemos 6:2, which the
-article notes is called the *Rosh* to Shemos 6:1; *Siddur Rokeach*; *Be'er Mayim
+column notes is called the *Rosh* to Shemos 6:1; *Siddur Rokeach*; *Be'er Mayim
 Chaim* to Bereishis 15:13; *Leket Shmuel* to Bereishis 25:19). The Vilna Gaon
 (to *Sifra d'Tzniusa*, end of ch. 3) writes that each of the three Avos had a
 lower name and a higher name; the column applies this to Yitzchak, alongside
@@ -134,14 +133,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Laughing Matter](https://articles.ohr.edu/articles/a-laughing-matter)," What's in a Word?, Ohr Somayach
-(2020-10-31): raw text in
-`sources/whats-in-a-word/raw/8903-a-laughing-matter.md`. Primary loci: Bereishis
-15:13, 17:17, 17:19, 18:12, 21:6, 25:19; Shemos 6:2, 25:29; Bamidbar 32:3;
-Shoftim 16:25; Yeshayahu 52:3; Yirmiyahu 33:26; Amos 7:9, 7:16; Tehillim 105:9,
-126:2; Divrei HaYamim I 16:16; Yerushalmi *Berachos* 1:6; *Berachos* 61b; *Sefer
-Yetzirah* ch. 5; *Tikkunei HaZohar tikkun* 84; Rav Hirsch to Bereishis 17:17
-(printed 17:7 in the article) and 21:6; Malbim to Shoftim 16:25; *HaKsav
-VeHaKabbalah* to Shemos 25:29; Rabbeinu Bachaya to Bereishis 17:19 and Bamidbar
-32:3; *Leket Shmuel*; the Vilna Gaon to *Sifra d'Tzniusa* ch. 3; Arizal, *Shaar
-HaPesukim*; *Sefer HaShem*.
+Rabbi Reuven Chaim Klein, "[A Laughing Matter](https://articles.ohr.edu/articles/a-laughing-matter)," *What's in a Word?*, Ohr Somayach, 31 October 2020.
+
+Cited in the essay: Bereishis 15:13, 17:17, 17:19, 18:12, 21:6, 25:19; Shemos 6:2, 25:29; Bamidbar 32:3; Shoftim 16:25; Yeshayahu 52:3; Yirmiyahu 33:26; Amos 7:9, 7:16; Tehillim 105:9, 126:2; Divrei HaYamim I 16:16; Yerushalmi *Berachos* 1:6; *Berachos* 61b; *Sefer Yetzirah* ch. 5; *Tikkunei HaZohar tikkun* 84; Rav Hirsch to Bereishis 17:17 and 21:6; Malbim to Shoftim 16:25; *HaKsav VeHaKabbalah* to Shemos 25:29; Rabbeinu Bachaya to Bereishis 17:19 and Bamidbar 32:3; *Leket Shmuel*; the Vilna Gaon to *Sifra d'Tzniusa* ch. 3; Arizal, *Shaar HaPesukim*; *Sefer HaShem*.

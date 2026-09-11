@@ -32,14 +32,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Where the three appear as a graded set, follow Malbim (to Yechezkel 17:4, 27:3):
-*socher* is the **wholesaler**, *cnaani* the **trader** in the middle, *rochel*
+For Malbim (to Yechezkel 17:4, 27:3) the three are a graded set: *socher* is
+the **wholesaler**, *cnaani* the **trader** in the middle, *rochel*
 the **peddler** who buys from the *socher* and goes door to door. Standing alone,
-*socher* is simply **merchant**, and *Tagar*, the Aramaic word, also renders
+*socher* is simply **merchant**, and *tagar*, the Aramaic word, is also
 **merchant** (Rashi, Eruvin 55a, makes him the local seller against the
-travelling *socher*). The trap is *cnaani*: in a string of pesukim (Bereishis
-38:2, Yeshayahu 23:8, Zechariah 14:21, Mishlei 31:24, and with Rashi at
-Yechezkel 16:29, Hoshea 12:8, Iyov 41:30) it means "trader," not "Canaanite."
+travelling *socher*). *Cnaani*, in a string of pesukim (Bereishis 38:2,
+Yeshayahu 23:8, Zechariah 14:21, Mishlei 31:24, and with Rashi at Yechezkel
+16:29, Hoshea 12:8, Iyov 41:30), means "trader," not "Canaanite."
 
 ## At a glance
 
@@ -64,15 +64,13 @@ who writes that the *rochel* does not travel a *socher*'s distances. The column
 enters its own dissent in a bracket: had it been asked, it would have put the
 *cnaani* at the top, as the super-wholesaler who supplies the *socher*, since
 the Canaanites were known for overseas trading ventures, which fits Malbim's
-description of those mega-suppliers. Follow Malbim where the words appear
-together, Rashi where only one does.
+description of those mega-suppliers.
 
 **What a *rochel* sells.** Rashi, consistently and in many places (to Vayikra
 19:16; Melachim I 10:15; Shabbos 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a;
 Bava Kamma 82a; Bava Basra 22a; Sanhedrin 100b), makes him a seller of
 perfumes and fragrances for women, though in some contexts the word seems to
-mean a merchant of any sort of goods (see pseudo-Rashi to Nazir 21a); render
-narrowly where Rashi is quoted.
+mean a merchant of any sort of goods (see pseudo-Rashi to Nazir 21a).
 
 **Where *cnaani* as "merchant" comes from.** Rabbi Yehuda Leib
 Shapira-Frankfurter (*HaRechasim LaVikah* to Vayikra 16:21): the word may
@@ -229,24 +227,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayeshev: Mercantile Man](https://articles.ohr.edu/articles/vayeshev-mercantile-man)," What's in a Word?, Ohr
-Somayach, 26 Kislev 5784 (2023-12-09): raw text in
-`sources/whats-in-a-word/raw/11160-vayeshev-mercantile-man.md`. Three slips in
-the article, corrected here rather than repeated: it prints *secharchar* as
-Prov. 38:11, but Mishlei has no perek 38 and the word is at Tehillim 38:11; it
-cites the description of Shua as *ish cnaani* at Gen. 38:1, where the pasuk is
-38:2 (as its own later citations of Ramban and Radak have it); and it names the
-letter Rashi to Vayikra 19:16 interchanges with *gimmel* as the *ches*, where
-the letter in Rashi is the *kaf*. Primary loci: Bereishis 24:3, 24:37, 27:46,
-28:1, 28:6, 37:28, 38:2; Vayikra 19:16 with Rashi; Mishlei 3:14, 11:13, 20:19,
-31:24; Yirmiyahu 6:28, 9:3; Yeshayahu 23:8 with Rashi, Radak and *Metzudas
-Zion*; Yechezkel 17:4 and 27:3 with Malbim, and 22:9; Zechariah 14:21 with
-Rashi; Tehillim 38:11; Melachim I 10:15, 10:28; Divrei HaYamim I 2:3 with
-Targum Rav Yosef; Pesachim 50a and 53b; Eruvin 55a and Erchin 23b with Rashi;
-Shabbos 13a, 56a, 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a; Bava Kamma 82a;
-Bava Basra 22a; Nazir 21a (pseudo-Rashi); Moed Katan 10b; Sotah 47b; Bava Basra
-29b with Rashbam;
-*Bereishis Rabbah* 85:4; *Tanchuma* Masei 9 (Eretz Cnaan as the land of
-merchandise, explained of Torah by Rabbi Shlomo Fischer); Zohar Lech Lecha 80a
-with Meiri to Mishlei 31:24; *Chosam Tochnis*; *Sefer HaTishbi*; *Aruch
-HaShaleim*.
+Rabbi Reuven Chaim Klein, "[Vayeshev: Mercantile Man](https://articles.ohr.edu/articles/vayeshev-mercantile-man)," *What's in a Word?*, Ohr Somayach, 9 December 2023.
+
+Cited in the essay: Bereishis 24:3, 24:37, 27:46, 28:1, 28:6, 37:28, 38:2; Vayikra 19:16 with Rashi; Mishlei 3:14, 11:13, 20:19, 31:24; Yirmiyahu 6:28, 9:3; Yeshayahu 23:8 with Rashi, Radak and *Metzudas Zion*; Yechezkel 17:4 and 27:3 with Malbim, and 22:9; Zechariah 14:21 with Rashi; Tehillim 38:11; Melachim I 10:15, 10:28; Divrei HaYamim I 2:3 with Targum Rav Yosef; Pesachim 50a and 53b; Eruvin 55a and Erchin 23b with Rashi; Shabbos 13a, 56a, 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a; Bava Kamma 82a; Bava Basra 22a; Nazir 21a (pseudo-Rashi); Moed Katan 10b; Sotah 47b; Bava Basra 29b with Rashbam; *Bereishis Rabbah* 85:4; *Tanchuma* Masei 9 with Rabbi Shlomo Fischer; Zohar Lech Lecha 80a with Meiri to Mishlei 31:24; *Chosam Tochnis*; *Sefer HaTishbi*; *Aruch HaShaleim*.

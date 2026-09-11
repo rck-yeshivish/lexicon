@@ -18,15 +18,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both mean **lick**, and the early lexicographers define one by the other, so a
-translator is usually safe either way. Where the passage turns on the
-difference: *lekikah* is **lapping up** liquid, the dog-at-the-water sound
+Both mean **lick**, and the early lexicographers define one by the other. Where
+they are told apart, *lekikah* is **lapping up** liquid, the dog-at-the-water sound
 (Rabbi Moshe Tedeschi-Ashkenazi); *lechichah* is **licking away** something
-firmer, an ox stripping a field bare (Bamidbar 22:4). The one thing not to get
-wrong is that *lechichah* in a war context is not a picture of affection: it
-means consuming, wiping clean. English "lick" in the sense of *defeat* grew, the
-column notes, out of Bamidbar 22:4 itself, which makes it a serviceable word in
-Balak's mouth, though the column treats the wider resemblance between the
+firmer, an ox stripping a field bare (Bamidbar 22:4). *Lechichah* in a war
+context is not a picture of affection: it means consuming, wiping clean. English
+"lick" in the sense of *defeat* grew, the column notes, out of Bamidbar 22:4
+itself, though the column treats the wider resemblance between the
 English and the Hebrew as a thing linguists would put down to chance.
 
 ## Distinctions
@@ -34,9 +32,8 @@ English and the Hebrew as a thing linguists would put down to chance.
 ### lechichah (לחיכה)
 Root ל-ח-ך. Twice in the Torah, both in Balak's speech to the Midianite elders:
 the congregation will *lick away* everything around us as an ox licks away the
-grass of the field (Bamidbar 22:4). Four further times in Tanach (Melachim
-18:38, which the article prints as Melachim II and which is Melachim I; Michah
-7:17; Yeshayahu 49:23; Tehillim 72:9). Rabbi Yaakov Berger of Kiryat Sefer
+grass of the field (Bamidbar 22:4). Four further times in Tanach (Melachim I
+18:38; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9). Rabbi Yaakov Berger of Kiryat Sefer
 (*Milon Leshon HaMikra*) conjectures that the word derives from *cheich*, the
 palate, taking the initial *lammed* as no part of the core; Rabbi Yaakov Yehudah
 Zilberberg (*Leshonenu HaKedoshah* p. 304) connects it to *cheich* in a similar
@@ -92,9 +89,8 @@ separates them by sound: ל-ק imitates the slurp of taking up liquid, hence
 Gideon's soldiers at the water, while ל-ח-ך makes a harder sound implying the
 licking of something less liquid, hence the ox in the field, and he too anchors
 that root in *cheich*. Ibn Parchon's quick-eating versus vessel-less drinking
-the column reads as perhaps alluding to the same distinction. The Tedeschi and
-Ibn Parchon reading is the useful one for a translator; the majority position is
-simple synonymy.
+the column reads as perhaps alluding to the same distinction. The majority
+position is simple synonymy.
 
 ### the onomatopoeia excursus
 Gesenius held that Semitic and Indo-European (his "Indo-Germanic") share many
@@ -143,19 +139,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Balak: Lick It Up](https://articles.ohr.edu/articles/balak-lick-it-up)," What's in a Word?, Ohr Somayach,
-14 Tamuz 5784 (2024-07-20):
-`sources/whats-in-a-word/raw/11448-balak-lick-it-up.md`. Primary loci: Bamidbar
-22:4; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9; Shoftim 7:5-7; Melachim I
-18:38, 21:19, 22:38 (the article prints II Melachim 18:38 for the fire episode;
-the Eliyahu fire on Har HaCarmel that "licked" the water is Melachim I 18:38);
-Vayikra 1:15 and 5:8; Shmuel I 19:20; Nachum 3:16; Yoel 1:4 and 2:25; Bava Kamma
-6a and Yerushalmi Bava Kamma 6:5; *Esther Rabbah* 8:7; *Tanchuma*, Ki Seitzei 9;
-*Pesikta D'Rav Kahana*, Zachor 8; *Machberes Menachem*; Ibn Parchon, *Machberes
-He'Aruch*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino,
-*Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 175; Targum to
-Malachi 3:19; *Midrash Aggadah* to Balak; *Baal HaTurim*; *Sefer Russiana*;
-*Gesenius' Hebrew Grammar*, Introduction §1:4; Ibn Ezra to Yoel 1:4 citing Yefet
-ben Ali. The comparative and academic material the article carries, Gesenius on
-onomatopoeia and the column's own dissent from it, is reported here as the
-article reports it.
+Rabbi Reuven Chaim Klein, "[Balak: Lick It Up](https://articles.ohr.edu/articles/balak-lick-it-up)," *What's in a Word?*, Ohr Somayach, 20 July 2024.
+
+Cited in the essay: Bamidbar 22:4; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9; Shoftim 7:5-7; Melachim I 18:38, 21:19, 22:38; Vayikra 1:15 and 5:8; Shmuel I 19:20; Nachum 3:16; Yoel 1:4 and 2:25; Bava Kamma 6a and Yerushalmi Bava Kamma 6:5; *Esther Rabbah* 8:7; *Tanchuma*, Ki Seitzei 9; *Pesikta D'Rav Kahana*, Zachor 8; *Machberes Menachem*; Ibn Parchon, *Machberes He'Aruch*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 175; Targum to Malachi 3:19; *Midrash Aggadah* to Balak; *Baal HaTurim*; *Sefer Russiana*; *Gesenius' Hebrew Grammar*, Introduction §1:4; Ibn Ezra to Yoel 1:4 citing Yefet ben Ali.

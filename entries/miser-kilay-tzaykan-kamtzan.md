@@ -19,10 +19,9 @@ Three words for the same vice, one per layer of the language: *kilay* is the
 Biblical **miser**, *tzaykan* the Mishnaic **skinflint**, *kamtzan* the
 post-Mishnaic and Modern Hebrew **cheapskate**. Each carries its own image:
 *kilay* locks his money up, *tzaykan* is narrow and hard about parting with it,
-*kamtzan* measures out the smallest possible amount. The one thing not to get
-wrong: *kilay* is disputed. Commentators such as Radak read it as "miser," the
-Ashkenazic commentators (Rashi, Mahari Kara, Rabbi Eliezer of Beaugency) as
-"trickster," and a translation of Yeshayahu 32:5-7 must choose.
+*kamtzan* measures out the smallest possible amount. *Kilay* is disputed.
+Commentators such as Radak read it as "miser," the Ashkenazic commentators
+(Rashi, Mahari Kara, Rabbi Eliezer of Beaugency) as "trickster."
 
 ## Distinctions
 
@@ -102,8 +101,8 @@ trait is a virtue, not a vice.
 
 ### kamtzan (קמצן)
 Post-Mishnaic and the living word today. It appears already in some girsaos of
-the Tosefta (Sotah, in the story of the Kohen who took two portions of lechem
-hapanim and still got only a bean's worth; the article prints 13:58), and
+the Tosefta (Sotah 13, in the story of the Kohen who took two portions of
+lechem hapanim and still got only a bean's worth), and
 cognates appear in the Gemara mostly as verbs, where Rashi again reaches for
 *atzar* (Menachos 86a, Chullin 46a; Rashbam to Bava Basra 52b).
 
@@ -164,13 +163,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[On Misers and Cheapskates](https://articles.ohr.edu/articles/on-misers-and-cheapskates)," What's in a Word?, Ohr
-Somayach, 19 Sivan 5782 (2022-06-18): raw text in
-`sources/whats-in-a-word/raw/9734-on-misers-and-cheapskates.md`. Primary loci:
-Yeshayahu 32:5, 32:7, 40:22; Bereishis 37:18, 41:47; Vayikra 2:2, 5:12, 6:8;
-Bamidbar 5:26, 13:33, 25:18; Malachi 1:14; Mishlei 30:27; Nachum 3:15; Avos
-5:10; Pesachim 7:8 and 81b; Eruvin 49a; Berachos 3b; Sanhedrin 16a; Sotah 41b;
-Gittin 55b; Menachos 11a and 86a; Chullin 46a; Zevachim 64b; Kesubos 8b;
-*Bereishis Rabbah* 51:1; Radak and Ibn Janach, *Sefer HaShorashim*; Maharal,
-*Netzach Yisrael* ch. 5; *Toldos HaTeva*; *Sefer HaMishkalim*; *Sefer HaChaim*;
-Tosefta Sotah (the article prints 13:58).
+Rabbi Reuven Chaim Klein, "[On Misers and Cheapskates](https://articles.ohr.edu/articles/on-misers-and-cheapskates)," *What's in a Word?*, Ohr Somayach, 18 June 2022.
+
+Cited in the essay: Yeshayahu 32:5, 32:7, 40:22; Bereishis 37:18, 41:47; Vayikra 2:2, 5:12, 6:8; Bamidbar 5:26, 13:33, 25:18; Malachi 1:14; Mishlei 30:27; Nachum 3:15; Avos 5:10; Pesachim 7:8 and 81b; Eruvin 49a; Berachos 3b; Sanhedrin 16a; Sotah 41b; Gittin 55b; Menachos 11a and 86a; Chullin 46a; Zevachim 64b; Kesubos 8b; *Bereishis Rabbah* 51:1; Radak and Ibn Janach, *Sefer HaShorashim*; Maharal, *Netzach Yisrael* ch. 5; *Toldos HaTeva*; *Sefer HaMishkalim*; *Sefer HaChaim*; Tosefta Sotah 13.

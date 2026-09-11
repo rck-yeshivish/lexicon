@@ -24,8 +24,8 @@ column defends Albo's broader *sheker*, which covers the inadvertent untruth too
 *Kazav* is **a lie that time exposes**: it sounded true, and only later proves
 false (the Gra: he meant it when he said it and then did not keep his word).
 *Kachash* is **denial**, a false answer to a claim already standing against
-him. The trap is rendering all three "lie"; the Yom Kippur confession *b'kachash
-uvchazav* needs two different English words.
+him. The three are not interchangeable; the Yom Kippur confession *b'kachash
+uvchazav* names two of them side by side.
 
 ## Distinctions
 
@@ -118,12 +118,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Mishpatim: Feeding the Lie](https://articles.ohr.edu/articles/mishpatim-feeding-the-lie)," What's in a Word?, Ohr
-Somayach, 1 Adar 5781 (2021-02-13):
-https://articles.ohr.edu/articles/mishpatim-feeding-the-lie, raw text in
-`sources/whats-in-a-word/raw/9080-mishpatim-feeding-the-lie.md`. Primary loci
-cited: Shemos 23:7; Vayikra 19:11-12; Vayikra 5:4 and 5:21; Tzefaniah 3:13;
-Shevuos 26a; *Sefer HaIkkarim* 2:27; Rav Hirsch to Bereishis 9:21, 21:23,
-43:11, Shemos 7:11, 21:17, Vayikra 5:21, 19:11, Devarim 9:7; the Vilna Gaon to
-Mishlei 12:25; Rabbeinu Yosef Bechor Shor to Bamidbar 23:19; Malbim, *Yair Ohr*
-and *Sefer HaCarmel*; Yechezkel 13:6, 13:7, 13:9, 21:34, 22:28.
+Rabbi Reuven Chaim Klein, "[Mishpatim: Feeding the Lie](https://articles.ohr.edu/articles/mishpatim-feeding-the-lie)," *What's in a Word?*, Ohr Somayach, 13 February 2021.
+
+Cited in the essay: Shemos 23:7; Vayikra 19:11-12; Vayikra 5:4 and 5:21; Tzefaniah 3:13; Shevuos 26a; *Sefer HaIkkarim* 2:27; Rav Hirsch to Bereishis 9:21, 21:23, 43:11, Shemos 7:11, 21:17, Vayikra 5:21, 19:11, Devarim 9:7; the Vilna Gaon to Mishlei 12:25; Rabbeinu Yosef Bechor Shor to Bamidbar 23:19; Malbim, *Yair Ohr* and *Sefer HaCarmel*; Yechezkel 13:6, 13:7, 13:9, 21:34, 22:28.

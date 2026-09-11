@@ -23,8 +23,7 @@ for the three Shabbos meals. *Mishteh* is a **feast** built on wine, from
 *shoseh*, to drink; it is the word for the Purim meal and for the banquets of
 Megillas Esther. *Mesibah* says nothing about food or drink at all: it is the
 meal at which people **recline**, and only later came to mean a party in
-general. The trap is rendering all three "feast," which loses the one thing each
-word actually names: the bread, the wine, or the posture.
+general. Each word names one thing: the bread, the wine, or the posture.
 
 ## Distinctions
 
@@ -89,9 +88,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Party Hardy](https://articles.ohr.edu/articles/party-hardy)," What's in a Word?, Ohr Somayach
-(2017-03-11): raw text in `sources/whats-in-a-word/raw/7176-party-hardy.md`.
-Primary loci: Bereishis 18:5; Shoftim 19:5; Tehillim 104:15; Shir HaShirim 1:2,
-1:12; Koheles 2:3; Esther 5:4; Amos 2:8; *Shabbos* 117b; Radak, *Sefer
-HaShorashim* s.v. סעד; Rashi to Amos 2:8, Shir HaShirim 1:2, Koheles 2:3,
-Esther 5:4; Rashbam to Shir HaShirim 1:12; *Kedushas Levi*, Parshas Vayeira.
+Rabbi Reuven Chaim Klein, "[Party Hardy](https://articles.ohr.edu/articles/party-hardy)," *What's in a Word?*, Ohr Somayach, 11 March 2017.
+
+Cited in the essay: Bereishis 18:5; Shoftim 19:5; Tehillim 104:15; Shir HaShirim 1:2, 1:12; Koheles 2:3; Esther 5:4; Amos 2:8; *Shabbos* 117b; Radak, *Sefer HaShorashim* s.v. סעד; Rashi to Amos 2:8, Shir HaShirim 1:2, Koheles 2:3, Esther 5:4; Rashbam to Shir HaShirim 1:12; *Kedushas Levi*, Parshas Vayeira.

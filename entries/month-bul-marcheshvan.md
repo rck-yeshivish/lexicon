@@ -33,11 +33,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-**Bul** and **Marcheshvan** name the same month and both stay transliterated; in most of
+**Bul** and **Marcheshvan** name the same month; in most of
 Tanach it is simply *chodesh hashemini*, **the eighth month**, counted from Nissan. Bul is
 the older, pre-exilic name (Melachim I 6:38); Marcheshvan never appears in Tanach and first
-shows up in Mishnah. Do not translate either by an etymology, and in particular do not
-render the *mar* of Marcheshvan as "bitter": whether *mar* is even a separate element is
+shows up in Mishnah. Whether the *mar* of Marcheshvan is even a separate element is
 disputed. In the same family, *mabul* is **flood** and *geshem* **rain**, and the
 difference is not quantity.
 
@@ -98,8 +97,7 @@ name whose *mar* is not to be interpreted on its own. Rabbi Chaim Dov Lieman of 
 Sefer (*Otzar Peninim* §28) defends the wedding custom from Rashi to Bereishis Rabbah
 48:9, who held the month-names were not taken verbatim from the Babylonian calendar but
 revealed through nevuah, so that expounding the *mar* is entirely in place. The column
-leaves the two sides standing. For translation the Bottom line follows the *Nachalas
-Shivah* and Rabbi Betzalel Stern.
+leaves the two sides standing.
 
 **What Cheshvan means, for those who parse it.** Rav Hirsch (1808-1880) drops the *mar*
 and reads Cheshvan from ח-ש-ה, quiet: the hush after the crowded month of Tishrei, which
@@ -201,15 +199,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Lech Lecha: Eighth Month](https://articles.ohr.edu/articles/lech-lecha-eighth-month)," What's in a Word?, Ohr Somayach, 13
-Cheshvan 5784 (2023-10-28): raw text in
-`sources/whats-in-a-word/raw/11123-lech-lecha-eighth-month.md`. Primary loci cited:
-Bereishis 1:1, 6:17, 7:11-12, 8:4-5; Shemos 12:2 with Ramban; Vayikra 11:42; Melachim I
-6:38, 12:32-33; Yeshayahu 40:15, 44:19; Zechariah 1:1; Rosh Hashanah 11b; Kiddushin 30a;
-Yerushalmi Rosh Hashanah 1:2; Mishnah Taanis 1:3-4; *Midrash Tanchuma Noach* §11; Bereishis
-Rabbah 48:9 with Rashi; Targum Yonasan and Radak to Melachim I 6:38; *Machberes Menachem*;
-Ibn Janach, *Sefer HaShorashim*; *Aruch HaShulchan* and *Pri Chadash* to *Even HaEzer* §126
-with *Pischei Teshuvah* §126:12; *Nachalas Shivah*; *Midrash HaChefetz*; *Sefer HaKushyos*;
-*Otzar Peninim* §28; Devarim 34:12; Vayikra 2:7; Targum pseudo-Yonasan to Bereishis 7:11;
-*Aruch HaShalem*; the Ashmunezer II sarcophagus inscription; the Old Assyrian and
-Babylonian Arahsamna inscriptions.
+Rabbi Reuven Chaim Klein, "[Lech Lecha: Eighth Month](https://articles.ohr.edu/articles/lech-lecha-eighth-month)," *What's in a Word?*, Ohr Somayach, 28 October 2023.
+
+Cited in the essay: Bereishis 1:1, 6:17, 7:11-12, 8:4-5; Shemos 12:2 with Ramban; Vayikra 11:42; Melachim I 6:38, 12:32-33; Yeshayahu 40:15, 44:19; Zechariah 1:1; Rosh Hashanah 11b; Kiddushin 30a; Yerushalmi Rosh Hashanah 1:2; Mishnah Taanis 1:3-4; *Midrash Tanchuma Noach* §11; Bereishis Rabbah 48:9 with Rashi; Targum Yonasan and Radak to Melachim I 6:38; *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; *Aruch HaShulchan* and *Pri Chadash* to *Even HaEzer* §126 with *Pischei Teshuvah* §126:12; *Nachalas Shivah*; *Midrash HaChefetz*; *Sefer HaKushyos*; *Otzar Peninim* §28; Devarim 34:12; Vayikra 2:7; Targum pseudo-Yonasan to Bereishis 7:11; *Aruch HaShalem*; the Ashmunezer II sarcophagus inscription; the Old Assyrian and Babylonian Arahsamna inscriptions.

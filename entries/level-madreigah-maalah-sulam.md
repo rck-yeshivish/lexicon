@@ -20,9 +20,9 @@ updated: 2026-09-10
 is a graded step or terrace; in later Hebrew a **degree, a level** (of
 achievement), which is the word a mussar text means. *Sulam* is a **ladder**,
 though Rashi defines it by *maalos* and *madreigos* alike, so in Rabbinic
-usage it may be a stair. The one thing not to get wrong: in Tanach *maalos*
-is the ordinary word (some fifty times; *madreigos* only twice), and Rabbi
-Shlomo Aharon Wertheimer, the one authority in the article who separates them
+usage it may be a stair. In Tanach *maalos* is the ordinary word (some fifty
+times; *madreigos* only twice), and Rabbi Shlomo Aharon Wertheimer, the one
+authority in the column who separates them
 by sense, makes *madreigos* a terraced way cut up a mountainside and *maalos* a
 free-standing stair in a house or courtyard; that is why the altar prohibition
 says *maalos* (Shemos 20:23).
@@ -88,7 +88,7 @@ being moveable rather than built in, or standing nearer to vertical, and leaves
 the question open. Root ס-ל-ם for the four lexicographers, though again no other
 Biblical word comes from it; a *hapax* in Tanach (Yaakov's dream, Bereishis
 28:12), common in the Mishnah (Beitzah 1:3, Bava Basra 2:5, 3:6, Makkos 2:1,
-Zavim 3:1, 4:3). Three accounts of the root stand in the article.
+Zavim 3:1, 4:3). Three accounts of the root stand in the column.
 
 Dr. Chaim Tawil (*An Akkadian Lexical Companion for Biblical Hebrew*) cites
 Landsberger that ס-ל-ם is by metathesis a cognate of Akkadian *simmiltu*,
@@ -139,20 +139,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Yisro: Stairs to Above](https://articles.ohr.edu/articles/yisro-stairs-to-above)," What's in a Word?, Ohr
-Somayach, 24 Shevat 5784 (2024-02-03): raw text in
-`sources/whats-in-a-word/raw/11245-yisro-stairs-to-above.md`. Primary loci the
-article cites: Shemos 20:23 with Rambam, Hilchos Beis HaBechirah 1:17; Sukkah
-5:4; Tamid 3:9; Yechezkel 38:20 and Shir HaShirim 2:14 with Rashi; Kilayim
-6:2; Sheviis 3:8; Beitzah 1:3; Bava Basra 2:5, 3:6; Makkos 2:1; Zavim 3:1, 4:3;
-Yevamos 63a with Rashi; Melachim I 10:19 with Rashi and
-Targum Yonasan, and Divrei HaYamim II 9:18 with pseudo-Rashi and Targum Rav
-Yosef; Rav Hirsch to Bereishis 6:9, 28:12, Bamidbar 20:19, Tehillim 25:4, 84:6;
-Shoresh Yesha s.v. דרג; Wertheimer, Beiur Shemos HaNirdafim; Bereishis 28:12;
-Rashi to Bava Metzia 25a, Sukkah 53b, Beitzah 36a; Tawil, *An Akkadian Lexical
-Companion for Biblical Hebrew*; *The Enhanced Brown-Driver-Briggs Hebrew and
-English Lexicon*. The article gives Yaakov's dream once as Bereishis 28:2 and
-once as 28:12; 28:12 is correct and is what this entry uses. The comparative and
-academic material the article carries (Gesenius, Klein, Even-Shoshan, Tawil
-citing Landsberger, Kohut, Brown-Driver-Briggs) is reported here as the article
-reports it.
+Rabbi Reuven Chaim Klein, "[Yisro: Stairs to Above](https://articles.ohr.edu/articles/yisro-stairs-to-above)," *What's in a Word?*, Ohr Somayach, 3 February 2024.
+
+Cited in the essay: Shemos 20:23 with Rambam, Hilchos Beis HaBechirah 1:17; Sukkah 5:4; Tamid 3:9; Yechezkel 38:20 and Shir HaShirim 2:14 with Rashi; Kilayim 6:2; Sheviis 3:8; Beitzah 1:3; Bava Basra 2:5, 3:6; Makkos 2:1; Zavim 3:1, 4:3; Yevamos 63a with Rashi; Melachim I 10:19 with Rashi and Targum Yonasan, and Divrei HaYamim II 9:18 with pseudo-Rashi and Targum Rav Yosef; Rav Hirsch to Bereishis 6:9, 28:12, Bamidbar 20:19, Tehillim 25:4, 84:6; Shoresh Yesha s.v. דרג; Wertheimer, Beiur Shemos HaNirdafim; Bereishis 28:12; Rashi to Bava Metzia 25a, Sukkah 53b, Beitzah 36a; Tawil, *An Akkadian Lexical Companion for Biblical Hebrew*, citing Landsberger; *The Enhanced Brown-Driver-Briggs Hebrew and English Lexicon*; Gesenius; Rabbi Dr. Ernest Klein; Avraham Even-Shoshan; Kohut.

@@ -41,9 +41,8 @@ updated: 2026-09-10
 Torah pairs them, *nega tzaraas*, it is naming two things and not one. *Tzarua*
 and *metzora* both mean **leper**, but *tzarua* is the man while the affliction
 is on him and *metzora* still fits him until the purification is complete
-(Perlmutter). Do not render *tzaraas* "leprosy" as a medical identification; the
-affliction has been rendered leprosy, Hansen's disease, epilepsy, mold and mere
-skin discoloration, and Rav Hirsch holds that an affliction that is merely
+(Perlmutter). The affliction has been rendered leprosy, Hansen's disease,
+epilepsy, mold and mere skin discoloration, and Rav Hirsch holds that an affliction that is merely
 pathological is by definition not a *nega* at all.
 
 ## At a glance
@@ -66,7 +65,7 @@ purity, whose work is to drive the *tzaraas* out by forcing it to the surface
 where it can be dealt with. On this reading *nega tzaraas* (Vayikra 13:2-3, 13:9,
 13:20, 13:25, 13:27, 13:47, 13:49, 13:59, 14:32, 14:34) names both the impurity
 and the mechanism that exposes it, and each word appears alone where only one of
-the two is in view. The Bottom line follows this.
+the two is in view.
 
 **What tzirah is.** Ibn Ezra (to Shemos 23:28, Devarim 7:20): not a hornet but a
 disease, of a piece with *tzaraas*. Ibn Janach (*Sefer HaShorashim*) traces both
@@ -86,7 +85,7 @@ be fought with sword and spear.
    *Tosafos HaShaleim* read him: *metzora* is *tzarua* plus an initial *mem*,
    whose *gematria* forty points to the fortieth day of Moshe's ascent and the
    sin of the Golden Calf, for which one punishment was *tzaraas* (*Vayikra
-   Rabbah* 17:3). The article notes the weakness: it does not explain which word
+   Rabbah* 17:3). The column notes the weakness: it does not explain which word
    goes where.
 2. **The source of the derashah.** Rabbi Menachem Deutsch, quoted by Rabbi
    Shlomo Tzvi Shick (*Torah Shleimah*, *Metzora* 1): the very choice of
@@ -97,15 +96,12 @@ be fought with sword and spear.
    man whose spot has healed but who has not yet finished the purification, since
    he remains on the cusp of the affliction returning.
 4. **Number of spots.** Shadal (to Vayikra 13:5): *tzarua* is one who has only a
-   single *nega*, and *metzora* is one who... The published text breaks off
-   mid-word there, so what Shadal said of *metzora* is not recoverable from the
-   article; the article itself introduces the distinction as hard to
+   single *nega*; the column itself introduces the distinction as hard to
    substantiate.
 
-The Bottom line follows Perlmutter. That is our choice, not a ranking the
-article makes, though the article does say of the first answer that it fails to
-account for where each word is used, and introduces the fourth as hard to
-substantiate.
+The column does not rank the four, though it says of the first answer that it
+fails to account for where each word is used, and introduces the fourth as hard
+to substantiate.
 
 ## Distinctions
 
@@ -205,19 +201,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Tazria/Metzora: Spot on (Tzar'at)](https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat)," What's in a Word?,
-Ohr Somayach, 5 Iyar 5785 (2025-05-03): raw text in
-`sources/whats-in-a-word/raw/11793-tazriametzora-spot-on-tzarat.md`. The
-published text is cut short at the source, breaking off mid-word inside Shadal's
-distinction between *tzarua* and *metzora*; what he said of *metzora* is not in
-the text we have, and nothing is supplied for it here.
-Primary loci the article cites: Vayikra 5:2, 13:2-3, 13:5, 13:9, 13:19, 13:20,
-13:25, 13:27, 13:44-45, 13:47, 13:49, 13:59, 14:2-3, 14:32, 14:34, 21:18, 22:4,
-22:23; Shemos 4:6, 23:28; Bamidbar 5:2, 12:10;
-Devarim 7:20, 24:8; Yeshayahu 28:20; Yehoshua 24:12; Melachim I 11:26; Melachim
-II 5:1-27, 15:5; Divrei HaYamim II 4:17, 26:19-23; *Erachin* 15b; *Vayikra
-Rabbah* 17:3; *Toras Kohanim* to Vayikra 13:2; *Zohar Balak* 206a; *Tanchuma
-Metzora* 4; Arizal, *Shaar HaMitzvos*, *Tazria*; Ibn Janach, *Sefer HaShorashim*;
-Pappenheim, *Yerios Shlomo*. The comparative and academic material the article
-carries, Gesenius's Arabic derivation and Alfred Jones's 1856 volume on proper
-names, is reported here as the article reports it.
+Rabbi Reuven Chaim Klein, "[Tazria/Metzora: Spot on (Tzar'at)](https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat)," *What's in a Word?*, Ohr Somayach, 3 May 2025.
+
+Cited in the essay: Vayikra 5:2, 13:2-3, 13:5, 13:9, 13:19, 13:20, 13:25, 13:27, 13:44-45, 13:47, 13:49, 13:59, 14:2-3, 14:32, 14:34, 21:18, 22:4, 22:23; Shemos 4:6, 23:28; Bamidbar 5:2, 12:10; Devarim 7:20, 24:8; Yeshayahu 28:20; Yehoshua 24:12; Melachim I 11:26; Melachim II 5:1-27, 15:5; Divrei HaYamim II 4:17, 26:19-23; *Erachin* 15b; *Vayikra Rabbah* 17:3; *Toras Kohanim* to Vayikra 13:2; *Zohar Balak* 206a; *Tanchuma Metzora* 4; Arizal, *Shaar HaMitzvos*, *Tazria*; Ibn Janach, *Sefer HaShorashim*; Pappenheim, *Yerios Shlomo*; Gesenius; Alfred Jones, *The Proper Names of the Old Testament Scriptures Expounded and Illustrated*, p. 376.

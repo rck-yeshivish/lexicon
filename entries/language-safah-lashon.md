@@ -21,8 +21,7 @@ tongue inside, so a *lashon* is a language whose speakers have taken its inner
 content into themselves, while a *safah* is one they hold only externally, its
 mechanics without its values. That is why Hebrew is *Lashon HaKodesh*, and why
 the generation of the Haflagah, who spoke the same words with none of their
-content, had one *safah* (Bereishis 11:1). When translating, keep the body image
-where a derashah leans on it; elsewhere "language" serves for both.
+content, had one *safah* (Bereishis 11:1).
 
 ## Distinctions
 
@@ -92,10 +91,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Speaking in Tongues](https://articles.ohr.edu/articles/speaking-in-tongues)," What's in a Word?, Ohr Somayach,
-5 Teves 5778 (2017-12-23):
-https://articles.ohr.edu/articles/speaking-in-tongues; raw text in
-`sources/whats-in-a-word/raw/7548-speaking-in-tongues.md`. Primary loci:
-Bereishis 11:1; Bereishis 42:23 with Rashi; Bereishis 45:12 with Ramban;
-Yeshayahu 19:18; Daniel 2:2-4; Nechemiah 13:24. Rav Dessler and the Chasam Sofer
-are cited by the article without a locus.
+Rabbi Reuven Chaim Klein, "[Speaking in Tongues](https://articles.ohr.edu/articles/speaking-in-tongues)," *What's in a Word?*, Ohr Somayach, 23 December 2017.
+
+Cited in the essay: Bereishis 11:1; Bereishis 42:23 with Rashi; Bereishis 45:12 with Ramban; Yeshayahu 19:18; Daniel 2:2-4; Nechemiah 13:24; Rav Dessler; the Chasam Sofer.

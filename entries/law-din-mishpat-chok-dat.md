@@ -28,8 +28,7 @@ the penal outcome (Wertheimer). *Dat* is **law, edict, royal decree**; in
 Megillas Esther the king's law, in Devarim 33:2 Divine law. The column calls
 "religion" a mistranslation and holds that the original sense of *dat* may have
 nothing to do with religion as such. *Nimus* (Rabbinic, from Greek *nomos*) is
-**law, rule** as society sets it. Do not let "law" swallow a pair: חוקים
-ומשפטים is "statutes and ordinances."
+**law, rule** as society sets it.
 
 On *dat* against *din* the column is explicitly provisional: it says many
 answers have been offered over the generations, most differing from each other
@@ -50,7 +49,7 @@ really are pointless and answers from the end of the pasuk, "I am Hashem, I
 promulgated them (*chakaktiv*)," and you have no license to second-guess them.
 Rambam (*Shemonah Perakim* 6, *Moreh* 3:26) follows the sugya closely: *chukim*
 have a rationale hidden from us, *mishpatim* a rationale more evident. Rabbeinu
-Bachaya (to Bereishis 26:5; Shemos 15:28, as the article prints it; Devarim
+Bachaya (to Bereishis 26:5; Shemos 15:26; Devarim
 6:17, 7:12), Ibn Yachya (to Tehillim 147:19) and Radak (to Tehillim 119:1)
 follow him: *chukim* are mitzvos whose reasons were not revealed, *mishpatim*
 the intuitive laws of interpersonal life. *Peirush HaRokeach*, put simply:
@@ -282,29 +281,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Tetzaveh/Purim: Do the Din](https://articles.ohr.edu/articles/tetzavehpurim-do-the-din)," What's in a Word?,
-Ohr Somayach, 8 Adar 5785 (2025-03-08): raw text in
-`sources/whats-in-a-word/raw/11715-tetzavehpurim-do-the-din.md`. Primary loci:
-Esther 1:8, 1:13, 1:15, 3:8, 3:15, 8:14; Ezra 8:36; Bereishis 37:17; Bamidbar
-16:1, 21:15; Devarim 3:17, 4:49, 17:8, 33:2; Yehoshua 10:40, 12:3, 12:8, 13:20;
-Tehillim 62:1; Sanhedrin 109b; Gittin 6b, 6:5; Megillah 12b; Vayikra 18:3;
-Shmuel I 2:13; Melachim I 18:28; Yechezkel 5:7, 20:18; Tehillim 1:2; Mishlei
-1:8; Rosh HaShanah 3:7; Bava Basra 4:2; Keilim 5:6, 7:1; Ohalos 5:6; Bedersi,
-*Chotam Tochnit* s.v. דין, דת; Pappenheim, *Cheshek Shlomo* s.v. DALET-TAV,
-DALET-NUN; *Old Midrash Tanchuma Vayeshev* §12; *Yalkut Shimoni* to Tehillim
-62:1; *Otzar Nirdafim* §402; Benamozegh, *Eim La'Mikra* to Devarim 33:2; Noonan,
-*Non-Semitic Loanwords in the Hebrew Bible*, p. 89. The article prints the
-Esther locus of the opening as "Est. 1-13," meaning 1:13. The comparative and
-academic material the article carries (Gesenius, Even-Shoshan, Yaron, Noonan)
-is reported here as the article reports it.
+Rabbi Reuven Chaim Klein, "[Tetzaveh/Purim: Do the Din](https://articles.ohr.edu/articles/tetzavehpurim-do-the-din)," *What's in a Word?*, Ohr Somayach, 8 March 2025.
 
-Rabbi Reuven Chaim Klein, "[Laws and Orders](https://articles.ohr.edu/articles/laws-and-orders)," What's in a Word?, Ohr Somayach,
-3 Tammuz 5779 (2019-07-06): raw text in
-`sources/whats-in-a-word/raw/8315-laws-and-orders.md`. Primary loci: Bamidbar
-19:2; Shemos 15:25, 5:14, 12:14, 30:21; Vayikra 3:16, 18:4-5, 23:14 with Yoma
-67b; Rambam, *Shemonah Perakim* 6, *Moreh* 3:26; Rabbeinu Bachaya to Bereishis
-26:5, Shemos 15:28 (as printed in the article; Shemos 15 ends at verse 27, so
-the locus as printed does not exist), Devarim 6:17 and 7:12; Ibn Yachya and
-*Shemos Rabbah* 15:25 to Tehillim 147:19; Radak to Tehillim 119:1; Rav Hirsch to
-Tehillim 119:5; Tehillim 81:4-5; Yeshayahu 30:8; Iyov 19:23; Avos 5:16; *Zohar*
-3:113a.
+Rabbi Reuven Chaim Klein, "[Laws and Orders](https://articles.ohr.edu/articles/laws-and-orders)," *What's in a Word?*, Ohr Somayach, 6 July 2019.
+
+Cited in the essay: Esther 1:8, 1:13, 1:15, 3:8, 3:15, 8:14; Ezra 8:36; Bereishis 37:17; Bamidbar 16:1, 19:2, 21:15; Shemos 5:14, 12:14, 15:25, 30:21; Vayikra 3:16, 18:3, 18:4-5, 23:14 with Yoma 67b; Devarim 3:17, 4:49, 17:8, 33:2; Yehoshua 10:40, 12:3, 12:8, 13:20; Shmuel I 2:13; Melachim I 18:28; Yeshayahu 30:8; Yechezkel 5:7, 20:18; Tehillim 1:2, 62:1, 81:4-5; Mishlei 1:8; Iyov 19:23; Sanhedrin 109b; Gittin 6b, 6:5; Megillah 12b; Rosh HaShanah 3:7; Bava Basra 4:2; Keilim 5:6, 7:1; Ohalos 5:6; Avos 5:16; Rambam, *Shemonah Perakim* 6, *Moreh* 3:26; Rabbeinu Bachaya to Bereishis 26:5, Shemos 15:26, Devarim 6:17 and 7:12; Ibn Yachya and *Shemos Rabbah* 15:25 to Tehillim 147:19; Radak to Tehillim 119:1; Rav Hirsch to Tehillim 119:5; *Zohar* 3:113a; Bedersi, *Chotam Tochnit* s.v. דין, דת; Pappenheim, *Cheshek Shlomo* s.v. DALET-TAV, DALET-NUN; *Old Midrash Tanchuma Vayeshev* §12; *Yalkut Shimoni* to Tehillim 62:1; *Otzar Nirdafim* §402; Benamozegh, *Eim La'Mikra* to Devarim 33:2; Gesenius; Avraham Even-Shoshan's Hebrew dictionary; Yehoshua Yaron, *Mevo L'Midrash HaLashon*; Noonan, *Non-Semitic Loanwords in the Hebrew Bible*, p. 89.

@@ -22,12 +22,9 @@ updated: 2026-09-10
 
 *Eretz* is **land** as territory: a country, a nation's settled land, and by
 extension the earth itself down to its core. *Adamah* is **ground**: the arable
-surface, the soil worked for crops. Render *eretz* "land" or "country" and
-*adamah* "ground" or "soil", and do not let "earth" cover both. One caution: the
-majority (the Gra, Malbim, Rabbi Moravsky) hold *eretz* is the broader word and
-*adamah* the thin top layer, but the Maharshal inverts it, so a passage that
-argues from which word is broader must be checked against the commentator in
-front of you.
+surface, the soil worked for crops. The majority (the Gra, Malbim, Rabbi
+Moravsky) hold *eretz* is the broader word and *adamah* the thin top layer, but
+the Maharshal inverts it.
 
 ## Distinctions
 
@@ -106,9 +103,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Land Down Under](https://articles.ohr.edu/articles/the-land-down-under)," What's in a Word?, Ohr Somayach,
-30 Sivan 5777 (2017-06-24): raw text in
-`sources/whats-in-a-word/raw/7313-the-land-down-under.md`. Primary loci: Bamidbar
-16:30-34, 26:10; Devarim 11:6; Tehillim 104:14; Bereishis 3:17; Rashi to
-Bereishis 6:13; Yerushalmi Taanis 1:3; Shabbos 30b; the berachos of *hamotzi
-lechem min ha'aretz* and *borei pri ha'adamah*.
+Rabbi Reuven Chaim Klein, "[The Land Down Under](https://articles.ohr.edu/articles/the-land-down-under)," *What's in a Word?*, Ohr Somayach, 24 June 2017.
+
+Cited in the essay: Bamidbar 16:30-34, 26:10; Devarim 11:6; Tehillim 104:14; Bereishis 3:17; Rashi to Bereishis 6:13; Yerushalmi Taanis 1:3; Shabbos 30b; the berachos of *hamotzi lechem min ha'aretz* and *borei pri ha'adamah*.

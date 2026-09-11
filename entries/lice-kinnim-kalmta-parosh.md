@@ -41,9 +41,9 @@ updated: 2026-09-10
 *Kinnim* is **lice**, the plural; *kinam* is the same creature named as a
 **species**; *kinah* is a single **louse**, a word of the Mishnah and Gemara
 rather than of Tanach. The Aramaic is *kalmta*, and in the Gemara *kalmei*. A
-*parosh* is not a louse at all but a **flea**. The trap is treating *kein* in
-Yeshayahu 51:6 and Bamidbar 13:33 as "louse" without saying so; the standard
-reading there is "so, likewise", and the louse reading is a minority one, first
+*parosh* is not a louse at all but a **flea**. At Yeshayahu 51:6 and Bamidbar
+13:33 the standard reading of *kein* is "so, likewise", and the louse reading is
+a minority one, first
 proposed at Yeshayahu 51:6 by the seventeenth century Dutch Protestant scholar
 Ludovicus de Dieu and taken up by others, Malbim among them.
 
@@ -96,9 +96,7 @@ Aramaic KAF-LAMMED-MEM is cognate with Biblical Hebrew KAF-NUN-MEM. The column
 puts its own conclusion conditionally: if the supposition is correct, then
 KAF-NUN-MEM (Biblical Hebrew), KUF-MEM-LAMMED (Canaanite, Imperial Aramaic and
 Arabic), KUF-LAMMED-MEM (Targumic Aramaic and Akkadian) and KAF-LAMMED-MEM
-(Talmudic Aramaic) are one word in different forms. For rendering, the classical
-view is the one to follow; the column's suggestion is worth knowing where a
-passage turns on why the Torah alternates the two forms.
+(Talmudic Aramaic) are one word in different forms.
 
 **Whether kein ever means "louse".** Yeshayahu 51:6, "and its inhabitants will
 die *kein*", and Bamidbar 13:33, "and so were we *kein* in their eyes". Targum
@@ -111,8 +109,7 @@ favors it in his concordance of Biblical Hebrew, as does Rabbi Dovid Tzvi
 Hoffmann (to Shemos 8:12). At Bamidbar 13:33 it is Malbim who, in light of all
 that, suggests reading *kein* as "louse": the *meraglim* felt themselves
 grasshoppers in their own eyes and as insignificant as lice in the giants'.
-The louse reading is a minority one; keep "likewise" in the text and the reading
-in a note.
+The louse reading is a minority one.
 
 ## Distinctions
 
@@ -126,8 +123,7 @@ that it is not a radical.
 Not in Tanach. Once in the Mishnah (*Parah* 9:2), and repeatedly in the Gemara
 (Shabbos 12b, 107b; Chullin 105b; Eruvin 65a; Chagigah 5a; Bava Metzia 107b;
 Zevachim 19a). The Mishnah's instance is a *kinah* of the grain, which is a
-field pest rather than a body louse, a usage worth remembering before rendering
-the word.
+field pest rather than a body louse.
 
 ### kalmta (קלמתא) and kalmei (כלמי)
 Targum Onkelos and Targum pseudo-Yonasan render *kinnim* and *kinam* as *kalmta*
@@ -193,20 +189,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[VaEra: Lice Ain't Nice](https://articles.ohr.edu/articles/vaera-lice-aint-nice)," What's in a Word?, Ohr
-Somayach, 25 Teves 5785 (2025-01-25): raw text in
-`sources/whats-in-a-word/raw/11666-vaera-lice-aint-nice.md`. Primary loci cited:
-Shemos 8:12 to 14 with Rashbam, Ibn Ezra, and Rav Hirsch; Tehillim 105:31;
-Bamidbar 13:33 with Malbim; Yeshayahu 51:6 with Targum Yonasan and Malbim, and
-19:6, 33:9 for the separate root meaning withering; Shmuel I 24:14 with
-*Metzudas Tziyon*, and 26:20; Bereishis 25:6 with Rav Hirsch; Ezra 2:3, 8:3,
-10:25; Nechemiah 3:25, 7:8, 10:15; *Parah* 9:2; Shabbos 12a with Tosafos and
-*Tosafos HaRosh*, 12b, 107b; Berachos 51b with Rashi; Niddah 20b; Chullin 105b;
-Eruvin 65a; Chagigah 5a; Bava Metzia 107b; Zevachim 19a; *Sefer HeAruch* s.v.
-ס-ר-ק and כ-ל-ם; Kohut, *He'Aruch HaShaleim*; Pappenheim, *Cheshek Shlomo*. The
-comparative-Semitic and archaeological material the article carries (Akkadian
-*kalmatu*, Arabic *quml*, the 2022 Canaanite ivory comb reported by Dr. Daniel
-Vainstub, the Sefire treaty inscriptions with Prof. Chaim Tawil's objection) and
-the scholars the article credits with the "louse" reading of *kein* (Ludovicus
-de Dieu first, then Rosenmuller, Gesenius, Shadal, Even-Shoshan) are reported
-here as the article reports them.
+Rabbi Reuven Chaim Klein, "[VaEra: Lice Ain't Nice](https://articles.ohr.edu/articles/vaera-lice-aint-nice)," *What's in a Word?*, Ohr Somayach, 25 January 2025.
+
+Cited in the essay: Shemos 8:12 to 14 with Rashbam, Ibn Ezra, and Rav Hirsch; Tehillim 105:31; Bamidbar 13:33 with Malbim; Yeshayahu 51:6 with Targum Yonasan and Malbim, and 19:6, 33:9; Shmuel I 24:14 with *Metzudas Tziyon*, and 26:20; Bereishis 25:6 with Rav Hirsch; Ezra 2:3, 8:3, 10:25; Nechemiah 3:25, 7:8, 10:15; *Parah* 9:2; Shabbos 12a with Tosafos and *Tosafos HaRosh*, 12b, 107b; Berachos 51b with Rashi; Niddah 20b; Chullin 105b; Eruvin 65a; Chagigah 5a; Bava Metzia 107b; Zevachim 19a; *Sefer HeAruch* s.v. ס-ר-ק and כ-ל-ם; Kohut, *He'Aruch HaShaleim*; Pappenheim, *Cheshek Shlomo*; the 2022 Canaanite ivory comb inscription reported by Dr. Daniel Vainstub; the Sefire treaty inscriptions, with Prof. Chaim Tawil; Ludovicus de Dieu; Shadal, with Rosenmuller and Gesenius; Avraham Even-Shoshan's concordance.

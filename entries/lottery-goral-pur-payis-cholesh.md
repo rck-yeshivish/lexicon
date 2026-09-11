@@ -22,12 +22,10 @@ updated: 2026-09-10
 
 *Goral* is the general Hebrew word for a **lot**, and also for the **portion**
 that falls to a man by lot. *Pur* is the word Megillas Esther itself glosses as
-*goral*; the rishonim cited call it Persian, so render it **pur** and let the
-pasuk's own gloss do the work. *Payis* is the Mishnaic word for the **lottery** among
+*goral*; the rishonim cited call it Persian. *Payis* is the Mishnaic word for the **lottery** among
 the *kohanim* in the Beis HaMikdash, and *kalpi* the **box** the lots are drawn
-from. *Cholesh* is a rare word for casting lots (Yeshayahu 14:12). The one thing
-not to get wrong: *goral* is both the drawing and the thing drawn, so in Vayikra
-16:8 and Bamidbar 26:55 it must sometimes be "lot" and sometimes "portion."
+from. *Cholesh* is a rare word for casting lots (Yeshayahu 14:12). *Goral* is
+both the drawing and the thing drawn.
 
 ## Distinctions
 
@@ -51,8 +49,7 @@ column adds a query of its own whether the word is Persian or Akkadian, and note
 that some linguists derive *pur*, just as they derive *goral*, from a word for
 stone, in this case the Akkadian *puru*. Rabbi Yosef ben Yosef Ibn Nachmias adds
 why this one word out of the Megillah's many Persian words needed translating:
-the *yom tov* is named Purim after Haman's *pur* (Esther 9:26; the article prints
-10:26), so the word is too central to leave opaque.
+the *yom tov* is named Purim after Haman's *pur* (Esther 9:26), so the word is too central to leave opaque.
 
 Two dissenting lines. Rabbi Yaakov Lorberbaum of Lissa keeps both words Hebrew
 and makes them opposites: *pur* is a lottery cast with malicious intent, tied to
@@ -128,14 +125,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Playing the Lottery](https://articles.ohr.edu/articles/playing-the-lottery)," What's in a Word?, Ohr
-Somayach, 9 Adar II 5779 (2019-03-16): raw text in
-`sources/whats-in-a-word/raw/8181-playing-the-lottery.md`. Primary loci cited:
-Esther 3:7 and 9:26; Vayikra 16:8; Bamidbar 26:55; Shemos 12:2, 16:15, 17:13;
-Yeshayahu 14:12, 24:19; Hoshea 13:13; *Yoma* 2:2-4, 22a, 39a; *Shabbos* 23:2
-and 149b; *Yalkut Shimoni*, Shemos §265; *Pesikta d'Rav Kahana* §3:1. The
-article's Arabic, Akkadian, Greek and Persian derivations for *goral*, *pur*,
-*kalpi* and *payis* are reported here as the article gives them, alongside the
-Hebrew etymologies of Rabbi Shlomo Pappenheim and *Tosafos Yom Tov*. The article
-cites the naming of Purim as Esther 10:26, which does not exist; the verse is
-Esther 9:26, and the entry gives it there.
+Rabbi Reuven Chaim Klein, "[Playing the Lottery](https://articles.ohr.edu/articles/playing-the-lottery)," *What's in a Word?*, Ohr Somayach, 16 March 2019.
+
+Cited in the essay: Esther 3:7 and 9:26; Vayikra 16:8; Bamidbar 26:55; Shemos 12:2, 16:15, 17:13; Yeshayahu 14:12, 24:19; Hoshea 13:13; *Yoma* 2:2-4, 22a, 39a; *Shabbos* 23:2 and 149b; *Yalkut Shimoni*, Shemos §265; *Pesikta d'Rav Kahana* §3:1; Rabbi Shlomo Pappenheim; *Tosafos Yom Tov*.

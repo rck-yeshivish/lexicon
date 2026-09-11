@@ -22,9 +22,9 @@ is the one word of the four that can be used of leading something to its ruin.
 *Molich* is to **take** or **bring**, a form of *holech*, moving people from one
 place or state to another. *Nachah* is to **guide**: leading that shields those
 led from harm and brings them to rest. *Nohel* is to **lead with care**, the
-leader who not only shields but provides and sustains. The trap is Shiras HaYam,
-where *nachisa* and *neihalta* stand in one pasuk (Shemos 15:13); one English
-"led" for both erases the very contrast the pasuk is built on.
+leader who not only shields but provides and sustains. Shiras HaYam sets
+*nachisa* and *neihalta* in one pasuk (Shemos 15:13), and the pasuk is built on
+the contrast between them.
 
 ## Distinctions
 
@@ -194,12 +194,11 @@ from *nachah*.
   to Your holy abode." One "led" for both flattens the pasuk, since the first
   half is rescue from harm and the second is being brought home and provided for.
 - Trap: English "lead" absorbs all four. Where a source is comparing them (a
-  Malbim, a Pappenheim, a shmuess on Hashem's leadership through the midbar),
-  never render two of them with the same word in the same paragraph.
+  Malbim, a Pappenheim), never render two of them with the same word in the same paragraph.
 - *Noheg* of a negative outcome should be "drove," not "led": the chariots that
   drove their riders into the sea (Shemos 14:25), Lavan's charge that Yaakov
   drove his daughters off like captives (Bereishis 31:26).
-- *Minhag* is "custom"; keep it transliterated in a sefer. Where a source plays
+- *Minhag* is "custom". Where a source plays
   on *minhag* and *noheg* together, the English needs the link spelled out,
   since "custom" and "drive" share nothing.
 
@@ -209,19 +208,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bo: Follow the Leader (Part 1/2)](https://articles.ohr.edu/articles/bo-follow-the-leader-part-12)," Ohr Somayach
-(2025-02-01), raw text in
-`sources/whats-in-a-word/raw/11677-bo-follow-the-leader-part-12.md`, and
-"Beshalach: Follow the Leader (Part 2/2)," Ohr Somayach (2025-02-08), raw text
-in `sources/whats-in-a-word/raw/11678-beshalach-follow-the-leader-part-22.md`.
-Primary loci: Shemos 3:1, 10:13, 13:17, 13:21, 14:21, 14:25, 15:13, 32:34;
-Bereishis 31:26, 33:14, 36:31, 47:17; Vayikra 19:24; Devarim 8:2, 8:15;
-Yehoshua 1:8; Yeshayahu 2:2, 31:4, 38:14, 59:3, 59:11; Yirmiyahu 2:6, 31:12,
-51:44; Michah 4:1; Tehillim 19:15, 31:4, 37:30, 49:4, 71:24, 77:21, 78:52,
-136:16; Mishlei 8:7, 15:28; Iyov 24:3; Melachim II 9:20; Shmuel I 7:2;
-Nechemiah 9:12; Divrei HaYamim I 20:1; Rabbi Pappenheim, *Chesheik Shlomo* and
-*Yerios Shlomo*; Malbim to Shemos 10:13 and Tehillim 31:4; Rav Hirsch to Shemos
-13:17; Rabbi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 47:17; Shadal to
-Bereishis 36:31; *Ohel Moed*; *Peirush HaMilos HaZaros*. The comparative and
-academic material the article carries, Mr. Yehoshua Yaron's biliteral analysis
-alongside Rabbi Steiger's, is reported here as the article reports it.
+Rabbi Reuven Chaim Klein, "[Bo: Follow the Leader (Part 1/2)](https://articles.ohr.edu/articles/bo-follow-the-leader-part-12)," *What's in a Word?*, Ohr Somayach, 1 February 2025.
+
+Rabbi Reuven Chaim Klein, "[Beshalach: Follow the Leader (Part 2/2)](https://articles.ohr.edu/articles/beshalach-follow-the-leader-part-22)," *What's in a Word?*, Ohr Somayach, 8 February 2025.
+
+Cited in the essay: Shemos 3:1, 10:13, 13:17, 13:21, 14:21, 14:25, 15:13, 32:34; Bereishis 31:26, 33:14, 36:31, 47:17; Vayikra 19:24; Devarim 8:2, 8:15; Yehoshua 1:8; Yeshayahu 2:2, 31:4, 38:14, 59:3, 59:11; Yirmiyahu 2:6, 31:12, 51:44; Michah 4:1; Tehillim 19:15, 31:4, 37:30, 49:4, 71:24, 77:21, 78:52, 136:16; Mishlei 8:7, 15:28; Iyov 24:3; Melachim II 9:20; Shmuel I 7:2; Nechemiah 9:12; Divrei HaYamim I 20:1; Rabbi Pappenheim, *Chesheik Shlomo* and *Yerios Shlomo*; Malbim to Shemos 10:13 and Tehillim 31:4; Rav Hirsch to Shemos 13:17; Rabbi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 47:17; Shadal to Bereishis 36:31; *Ohel Moed*; *Peirush HaMilos HaZaros*; Rabbi Shmuel Yehudah Steiger, *Avnei Shayish*; Mr. Yehoshua Yaron, *Mevo L'Midrash HaLashon*.

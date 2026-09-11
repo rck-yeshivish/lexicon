@@ -22,9 +22,8 @@ whole person, faults included (Rabbi Yosef Zechariah Stern). *Chibah* is love he
 close and inward, love of what is dear in someone: **fondness, affection**; *chaviv*,
 **dear**. *Rechim* is the Targum's Aramaic for *ahavah* (in Hebrew the root is
 mercy, save Tehillim 18:2): **love**. *Agav* is the counterfeit: **lust**, never
-love. The one thing not to get wrong: on the readings above *chibah* is not a
-synonym to flatten into "love"; beside *ahavah* it is the narrower, inner,
-selective word. The column itself, though, offers the other possibility, that
+love. On the readings above *chibah* is not a plain synonym; beside *ahavah* it
+is the narrower, inner, selective word. The column itself, though, offers the other possibility, that
 *chibah* is no different from *ahavah* and may even be etymologically the same
 word, so the distinction is not closed.
 
@@ -67,8 +66,7 @@ definition both to loving Hashem (Devarim 6:5) and to loving a fellow Jew
 
 The root appears close to 250 times in Tanach, almost always for the verb or the
 abstract noun. In three cases the plural *ahavim* means concrete expressions of
-love, verbal or physical (Mishlei 7:18; Hoshea 8:9; and a third the column prints
-as Hoshea 5:19). One passage fits none of these: Shir HaShirim 3:10 describes the
+love, verbal or physical (Mishlei 5:19, 7:18; Hoshea 8:9). One passage fits none of these: Shir HaShirim 3:10 describes the
 *apiryon* as *ratzuf ahavah*, "paved with *ahavah*," where the word seems to name
 a material rather than an emotion. *HALOT* (Koehler and Baumgartner) argues that
 in this context *ahavah* is cognate with the Arabic *ihab*, "leather, skin," and
@@ -204,20 +202,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[True Love (Part 1/2)](https://articles.ohr.edu/articles/true-love-part-12)," What's in a Word?, Ohr Somayach,
-27 Cheshvan 5784 (2023-11-11), and "True Love (Part 2/2)," 5 Kislev 5784
-(2023-11-18): raw text in `sources/whats-in-a-word/raw/10714-true-love-part-12.md`
-and `sources/whats-in-a-word/raw/10983-true-love-part-22.md`. Primary loci: Rav
-Hirsch to Bereishis 22:2, 37:4, Vayikra 19:18, Devarim 6:5, and Shemos 13:2; *Lev
-Eliyahu* vol. 1 p. 110; *Michtav MeEliyahu* vol. 1 pp. 32-36;
-*Orchos Tzadikim*, Shaar HaAhavah; Kiddushin 30b on Bamidbar 21:14; *Sefer HaBris*;
-*Cheshek Shlomo* and *Yerios Shlomo*; *Shoresh Yesha*; *Midrash Safah Echas*;
-Berachos 9:5 (Mishnah); Tehillim 18:2 with Ibn Janach, Rashi, Ibn Ezra, Radak, and
-Ibn Ramoch; Shadal to Devarim 33:3 and Bereishis 4:21; Yechezkel 23 and 33:31-32;
-Yirmiyahu 4:30; Berachos 24a, Sanhedrin 38b, Niddah 30b; Chullin 63a; Avos 5:16.
-The academic lexica and scholars the parts cite (Gesenius, *HALOT*, *BDB*,
-Professor Saul Levin, Dr. Oswald Szemerényi) are reported here as the articles
-report them. Two loci to flag: the column gives the third instance of the plural
-*ahavim* as Hoshea 5:19, a verse that does not exist, Hoshea 5 having fifteen
-verses; the third *ahavim* is Mishlei 5:19, but that identification is ours and
-not the column's, so the entry names only the column's own citation.
+Rabbi Reuven Chaim Klein, "[True Love (Part 1/2)](https://articles.ohr.edu/articles/true-love-part-12)," *What's in a Word?*, Ohr Somayach, 11 November 2023.
+
+Rabbi Reuven Chaim Klein, "[True Love (Part 2/2)](https://articles.ohr.edu/articles/true-love-part-22)," *What's in a Word?*, Ohr Somayach, 18 November 2023.
+
+Cited in the essay: Rav Hirsch to Bereishis 22:2, 37:4, Vayikra 19:18, Devarim 6:5, and Shemos 13:2; *Lev Eliyahu* vol. 1 p. 110; *Michtav MeEliyahu* vol. 1 pp. 32-36; *Orchos Tzadikim*, Shaar HaAhavah; Kiddushin 30b on Bamidbar 21:14; *Sefer HaBris*; *Cheshek Shlomo* and *Yerios Shlomo*; *Shoresh Yesha*; *Midrash Safah Echas*; Berachos 9:5 (Mishnah); Tehillim 18:2 with Ibn Janach, Rashi, Ibn Ezra, Radak, and Ibn Ramoch; Shadal to Devarim 33:3 and Bereishis 4:21; Yechezkel 23 and 33:31-32; Yirmiyahu 4:30; Mishlei 5:19, 7:18; Hoshea 8:9; Berachos 24a, Sanhedrin 38b, Niddah 30b; Chullin 63a; Avos 5:16; Gesenius; *HALOT*; *BDB*; Professor Saul Levin; Dr. Oswald Szemerényi.

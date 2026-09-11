@@ -22,15 +22,12 @@ updated: 2026-09-10
 
 It seems these are species names and not merely synonyms, though the column says
 plainly that we do not know for sure what each one is. *Arbeh* is both one
-species and the umbrella word: render it **locust** and let it carry the swarm.
+species and the umbrella word, the **locust** swarm.
 *Gazam* is the cutter, *yelek* the licker, *chasil* the finisher, and in Yoel 1:4
 they arrive in a fixed order, *gazam*, *arbeh*, *yelek*, *chasil*, each eating
-what the one before left; keep four distinct English words there, since one
-repeated "locust" destroys the pasuk. *Chagav* is the general term for **kosher**
+what the one before left. *Chagav* is the general term for **kosher**
 grasshoppers (Meiri, *Beis HaBechirah*, and Rabbi Shmuel ben Meshullam of Gerona,
-*Ohel Mo'ed*). The trap is
-translating any of them as "grasshopper" in a plague context, where the sense is
-a devouring swarm.
+*Ohel Mo'ed*). In a plague context the sense is a devouring swarm.
 
 ## Distinctions
 
@@ -122,7 +119,7 @@ with *tzlatzel* in place of *chanamal*.
 - *Arbeh* used as an umbrella (Midrash HaGadol on Shemos 10:14, where the *arbeh*
   of the plague contains seven kinds) needs "the locust plague" or "the locust
   host," not "the *arbeh* species," or the Midrash contradicts itself in English.
-- *Tzlatzel* in Devarim 28:42: if the *sefer* is quoting Rashi, "locust"; if
+- *Tzlatzel* in Devarim 28:42: if the passage is quoting Rashi, "locust"; if
   Ramban, "the clash of armies." The word cannot be rendered without deciding,
   so decide out loud in a note.
 
@@ -132,13 +129,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Army of Grasshoppers](https://articles.ohr.edu/articles/army-of-grasshoppers)," What's in a Word?, Ohr
-Somayach, 20 January 2018 / 4 Shevat 5778: raw text in
-`sources/whats-in-a-word/raw/7592-army-of-grasshoppers.md`. Primary loci cited:
-Shemos 10:14; Vayikra 11:22; Devarim 28:42, 32:24; Tehillim 78:47 with Rashi;
-Yoel 1:4, 2:20 with Rashi and Radak; Nachum 3:15 with Malbim; Amos 7:1 with
-Radak; Divrei HaYamim I 13:8; Chullin 63b, 65a; Bava Kama 116b with Rashi;
-*Midrash HaGadol* to Shemos 10:14; *Midrash Sechel Tov*; Meiri, *Beis
-HaBechirah*; Rabbi Shmuel ben Meshullam of Gerona, *Ohel Mo'ed*; Rav Chaim
-Kanievsky, *Karnei Chagavim* 2; Rabbeinu Bachya to Devarim 28:42; *Pirush
-HaRokeach*; Rav Saadia Gaon, Ralbag and Ramban on *tzlatzel*; Targum to Yoel.
+Rabbi Reuven Chaim Klein, "[Army of Grasshoppers](https://articles.ohr.edu/articles/army-of-grasshoppers)," *What's in a Word?*, Ohr Somayach, 20 January 2018.
+
+Cited in the essay: Shemos 10:14; Vayikra 11:22; Devarim 28:42, 32:24; Tehillim 78:47 with Rashi; Yoel 1:4, 2:20 with Rashi and Radak; Nachum 3:15 with Malbim; Amos 7:1 with Radak; Divrei HaYamim I 13:8; Chullin 63b, 65a; Bava Kama 116b with Rashi; *Midrash HaGadol* to Shemos 10:14; *Midrash Sechel Tov*; Meiri, *Beis HaBechirah*; Rabbi Shmuel ben Meshullam of Gerona, *Ohel Mo'ed*; Rav Chaim Kanievsky, *Karnei Chagavim* 2; Rabbeinu Bachya to Devarim 28:42; *Pirush HaRokeach*; Rav Saadia Gaon, Ralbag and Ramban on *tzlatzel*; Targum to Yoel.

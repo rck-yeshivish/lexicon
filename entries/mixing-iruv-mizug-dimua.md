@@ -19,8 +19,7 @@ updated: 2026-09-10
 **mixing, intermingling**. *Mizug* is for **liquids**, specifically the pouring
 of one into another: **mixing, diluting** (a cup of wine). *Dimua* is the
 halachic term for **terumah** that has fallen into unsanctified produce:
-**commingling** (leave it transliterated in a halachic passage). The one thing
-not to miss: *dimua* and *dimah* ("tear") are the same root ד-מ-ע, and how the
+**commingling**. *Dimua* and *dimah* ("tear") are the same root ד-מ-ע, and how the
 two senses relate is, in the column's words, the subject of much discussion;
 most of the commentators it brings hold them connected, Ibn Janach being the
 one who does not, so a source that plays tears against mixture is not punning
@@ -170,16 +169,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Devarim: All Mixed Up](https://articles.ohr.edu/articles/devarim-all-mixed-up)," What's in a Word?, Ohr
-Somayach, 6 Av 5784 (2024-08-10): raw text in
-`sources/whats-in-a-word/raw/11480-devarim-all-mixed-up.md`. Primary loci
-cited: Mishlei 14:10, 20:19, 24:21; Tehillim 106:35, 126:5; Ezra 9:2; Daniel
-2:41, 2:43; Shir HaShirim 7:3; Pesachim 10:2, 10:4, 10:7, 44a; Nazir 2:3, 6:2;
-Demai 7:2; Shemos 22:28 with Temurah 4a, the Mechilta, Rashi, Tosafos, Ibn
-Ezra, Radak, Ramban, *Gur Aryeh*, *HaKesav VeHaKabbalah* and Rav Hirsch;
-Yirmiyahu 13:17; Sotah 7:8 on Devarim 17:15; Kesubos 10b; Bava Basra 15a with
-Ritva, Rashba and Maharsha, and *Sheilas Yaavetz* vol. 1 §13; Bereishis 49:11
-and Devarim 32:14 (Rav Hirsch on the blood of grapes); Shemos 14:3 with the
-Mechilta; Bamidbar 14:1; Esther 3:15; Bereishis 50:3; Bereishis 5:29, 6:6,
-27:42; Shemos 32:12; Yeshayahu 40:1. Rav Hirsch's further root comparisons are
-at Vayikra 7:19, 11:43 and Bamidbar 18:29.
+Rabbi Reuven Chaim Klein, "[Devarim: All Mixed Up](https://articles.ohr.edu/articles/devarim-all-mixed-up)," *What's in a Word?*, Ohr Somayach, 10 August 2024.
+
+Cited in the essay: Mishlei 14:10, 20:19, 24:21; Tehillim 106:35, 126:5; Ezra 9:2; Daniel 2:41, 2:43; Shir HaShirim 7:3; Pesachim 10:2, 10:4, 10:7, 44a; Nazir 2:3, 6:2; Demai 7:2; Shemos 22:28 with Temurah 4a, the Mechilta, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, *Gur Aryeh*, *HaKesav VeHaKabbalah* and Rav Hirsch; Yirmiyahu 13:17; Sotah 7:8 on Devarim 17:15; Kesubos 10b; Bava Basra 15a with Ritva, Rashba and Maharsha, and *Sheilas Yaavetz* vol. 1 §13; Bereishis 49:11 and Devarim 32:14; Shemos 14:3 with the Mechilta; Bamidbar 14:1; Esther 3:15; Bereishis 50:3; Bereishis 5:29, 6:6, 27:42; Shemos 32:12; Yeshayahu 40:1; Rav Hirsch to Vayikra 7:19, 11:43 and Bamidbar 18:29.

@@ -18,15 +18,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Adam* is the species name and the highest term: **man** or **mankind** (in a
-mussar text, keep it *adam* when the passage turns on his likeness to Hashem).
+*Adam* is the species name and the highest term: **man** or **mankind**.
 *Enosh* is man in his weakness: **mortal**, **frail man** (the plural *anashim*
 flips to "men of standing," Rashi). *Ish* is one individual, physically mature:
 **a man**, "man" as against woman or child. *Gever* is man as strength: **man**
 in the sense of the strong male, and not generic humanity, though whether it is
 always male is itself disputed (Ibn Ezra says yes, Rabbi Yehuda Leib Edel brings
-gender-neutral uses against him). The one thing not to
-get wrong: the Zohar ranks them (*adam* > *enosh* > *ish* > *gever*), so a
+gender-neutral uses against him). The Zohar ranks them (*adam* > *enosh* > *ish* > *gever*), so a
 derashah on which word a pasuk uses is a derashah on rank.
 
 ## Distinctions
@@ -92,7 +90,7 @@ fire, at the height of his power), *enosh* the elder (strength diminished).
 ## Rendering guidance
 
 - Standalone אדם in a mussar passage: "man" (generic, no article) or "a
-  person." When the shmuess is about *gadlus ha'adam* or *tzelem Elokim*, keep
+  person." When the passage is about *gadlus ha'adam* or *tzelem Elokim*, keep
   *adam* transliterated; the word is carrying the argument.
 - אנוש: "mortal" or "frail man" when the tone is lowering; plain "man" only
   where the context is neutral. אנשים: "men," and where Rashi's reading is in
@@ -114,10 +112,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bereishet - Be a Man](https://articles.ohr.edu/articles/bereishet-be-a-man)," What's in a Word?, Ohr
-Somayach, 27 Tishrei 5780 (2019-10-26): raw text in
-`sources/whats-in-a-word/raw/8444-bereishet-be-a-man.md`. Primary loci the
-article cites: Zohar Tazria 48a and Nasso 141b; Bereishis 1:24, 1:26-27, 7:2;
-Radak, *Sefer HaShorashim* s.v. אנש; Rashi to Bamidbar 13:3; Ibn Ezra to Shemos
-10:11; Yeshayahu 51:12, 40:26, 47:5; Iyov 14:19; Tehillim 8:5, 104:15; Yechezkel
-9:11; Shemos 25:20, 26:3; Yirmiyahu 13:18.
+Rabbi Reuven Chaim Klein, "[Bereishet - Be a Man](https://articles.ohr.edu/articles/bereishet-be-a-man)," *What's in a Word?*, Ohr Somayach, 26 October 2019.
+
+Cited in the essay: Zohar Tazria 48a and Nasso 141b; Bereishis 1:24, 1:26-27, 7:2; Radak, *Sefer HaShorashim* s.v. אנש; Rashi to Bamidbar 13:3; Ibn Ezra to Shemos 10:11; Yeshayahu 51:12, 40:26, 47:5; Iyov 14:19; Tehillim 8:5, 104:15; Yechezkel 9:11; Shemos 25:20, 26:3; Yirmiyahu 13:18.

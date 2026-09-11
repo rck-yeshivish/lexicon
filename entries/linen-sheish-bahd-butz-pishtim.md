@@ -132,18 +132,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Is Cotton a Type of Linen?](https://articles.ohr.edu/articles/is-cotton-a-type-of-linen)", What's in a Word?, Ohr
-Somayach, 11 Adar I 5779 (2019-02-16),
-https://articles.ohr.edu/articles/is-cotton-a-type-of-linen; raw text in
-`sources/whats-in-a-word/raw/8140-is-cotton-a-type-of-linen.md`. Primary loci:
-Yoma 71b; Zevachim 18b; Targum to Shemos 9:31; Ralbag and Abarbanel to Shemos
-25:4; Rambam, Hilchos Klei HaMikdash 8:14, and his commentary to Mishnah Kilayim
-7:2; *Daas Zekeinim* to Bereishis 41:42; Pappenheim; Rabbi Yaakov Zev Lev,
-*Me'at Tzari* to Vayikra 16:4; Rabbi Moshe Mordechai Schulsinger, *Mishmar
-HaLevi*, with the replies of the Steipler Gaon and Rabbi Dov Landau; Esther 1:3;
-Shabbos 105a; Rashi to Berachos 28b, Shabbos 21a, Shabbos 110b and Niddah 17a.
-The article's comparative material is reported as the article gives it: the
-Akkadian and Arabic *kitna*, the Latin *byssus* from *butz*, the Persian, Greek
-*carbasus* and Latin *karpasos* behind *karpas*, the German *baumwolle*, and the
-etymologies of Professor Edward Yechezkel Kutscher and Sir Godfrey Rolles Driver
-for *kotna* and *pekolin*.
+Rabbi Reuven Chaim Klein, "[Is Cotton a Type of Linen?](https://articles.ohr.edu/articles/is-cotton-a-type-of-linen)" *What's in a Word?*, Ohr Somayach, 16 February 2019.
+
+Cited in the essay: Yoma 71b; Zevachim 18b; Targum to Shemos 9:31; Ralbag and Abarbanel to Shemos 25:4; Rambam, Hilchos Klei HaMikdash 8:14, and his commentary to Mishnah Kilayim 7:2; *Daas Zekeinim* to Bereishis 41:42; Pappenheim; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Vayikra 16:4; Rabbi Moshe Mordechai Schulsinger, *Mishmar HaLevi*, with the replies of the Steipler Gaon and Rabbi Dov Landau; Esther 1:3; Shabbos 105a; Rashi to Berachos 28b, Shabbos 21a, Shabbos 110b and Niddah 17a; Professor Edward Yechezkel Kutscher; Sir Godfrey Rolles Driver.

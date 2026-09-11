@@ -37,8 +37,7 @@ updated: 2026-09-10
 covering Moshe Rabbeinu put over his face. *Masechah* in Tanach is not a mask at
 all but a **molten image**, cast metal, as in *egel masechah*; the modern sense
 of "mask" is a later development. *Partzuf* is a **face**, a Greek loan-word, and
-it is the word the early poskim use for the Purim custom. The trap: reading the
-modern *masechah* back into a pasuk turns a golden calf into a disguise.
+it is the word the early poskim use for the Purim custom.
 
 ## At a glance
 
@@ -61,8 +60,7 @@ Ezra (to Bereishis 49:11 and Shemos 34:33), and Chizkuni: *suto*, Yehudah's
 cognate, so *masveh* means a fabric before it means a mask; Menachem Ibn Saruk
 (*Machberes Menachem*) files both under the one-letter root SAMECH. Donash Ibn
 Labrat rejects that reading of *suto*, taking it as *kesuso*, "his covering,"
-with a missing KAF. The Bottom line follows the *suto* cognates, which make sense
-of Ibn Parchon's definition: a *masveh* is cloth first, and a mask by use.
+with a missing KAF.
 
 **Where *masechah* as "mask" comes from.** Ibn Janach and Radak: the root is
 NUN-SAMECH-KAF, *nesech*, pouring, hence molten metal; the same root also carries
@@ -75,9 +73,8 @@ MEM-ZAYIN-GIMMEL, "to mix" or "dilute," samech and zayin being interchangeable
 and kaf and gimmel likewise. A third line is foreign: Rabbi Dr. Ernest Klein and
 Avraham Even-Shoshan hold that Modern Hebrew *masechah* in the sense of "mask"
 also developed under the pull of phonetically similar words in other languages,
-the English *mask*, the French *masque* and the Arabic *maskhara*. Nothing in
-translation turns on which is right, since the mask sense is post-Biblical either
-way.
+the English *mask*, the French *masque* and the Arabic *maskhara*. The mask
+sense is post-Biblical either way.
 
 ## Distinctions
 
@@ -145,16 +142,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Purim: Fake Faces](https://articles.ohr.edu/articles/purim-fake-faces)," What's in a Word?, Ohr Somayach,
-8 Adar 5781 (2021-02-20): raw text in
-`sources/whats-in-a-word/raw/9092-purim-fake-faces.md`. Primary loci cited:
-Shemos 32:4, 32:8, 34:29-35; Bereishis 49:11 (the article prints Ibn Ezra "to
-Gen. 49:69"; the locus is 49:11); Devarim 9:16, 27:9, 31:18; Shoftim 16:13-14;
-Yeshayahu 5:22; Mishlei 9:2, 9:5; Nechemiah 9:18; Megillah 12a; Chullin 139b;
-Kesubos 60a, 62b; Mishnah Yevamos 16:3, Keilim 16:7 and 21:1, Negaim 11:9;
-Shabbos 59b; *Mahari Mintz* 17; Rema to Orach Chaim 696:8; *Sefer Chassidim* 929.
-The article's comparative material is reported as the article gives it: the Greek
-*prosopon* behind *partzuf* with the Latin *persona* and English *person* from
-the Oxford English Dictionary, and the English, French and Arabic words that
-Rabbi Dr. Ernest Klein and Avraham Even-Shoshan see behind Modern Hebrew
-*masechah*.
+Rabbi Reuven Chaim Klein, "[Purim: Fake Faces](https://articles.ohr.edu/articles/purim-fake-faces)," *What's in a Word?*, Ohr Somayach, 20 February 2021.
+
+Cited in the essay: Shemos 32:4, 32:8, 34:29-35; Bereishis 49:11; Devarim 9:16, 27:9, 31:18; Shoftim 16:13-14; Yeshayahu 5:22; Mishlei 9:2, 9:5; Nechemiah 9:18; Megillah 12a; Chullin 139b; Kesubos 60a, 62b; Mishnah Yevamos 16:3, Keilim 16:7 and 21:1, Negaim 11:9; Shabbos 59b; *Mahari Mintz* 17; Rema to Orach Chaim 696:8; *Sefer Chassidim* 929; the Oxford English Dictionary; Rabbi Dr. Ernest Klein; Avraham Even-Shoshan.

@@ -23,9 +23,8 @@ standing **pond**. *Bitzah* is a **mire**, ground held in mud, from *botz*, mud.
 *Achu* divides the meforshim: Rashi makes it a **marsh**, plain and simple;
 Ramban and Rav Hirsch make it the **riverbank growth**, the reeds and grasses,
 not the place. *Suf* is not a marsh at all but the **reeds** that grow in one,
-which is why *Yam Suf* is the Sea of Reeds. The trap: English "marsh" and
-"swamp" will take *achu*, *agam* and *bitzah* together, and Iyov 8:11 puts
-*bitzah* and *achu* in one pasuk with *gome* beside them.
+which is why *Yam Suf* is the Sea of Reeds. Iyov 8:11 puts *bitzah* and *achu*
+in one pasuk with *gome* beside them.
 
 ## Distinctions
 
@@ -113,17 +112,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Marshes, Marshes, Marshes](https://articles.ohr.edu/articles/marshes-marshes-marshes)," What's in a Word?, Ohr
-Somayach, 3 Shevat 5781 (2021-01-16); raw text at
-`sources/whats-in-a-word/raw/9031-marshes-marshes-marshes.md`. Primary loci
-cited: Bereishis 41:2 and 41:18 with Rashi and Ramban; Shemos 7:19 and 8:1 with
-Rashi; Shemos 2:3 and 13:18 with Rashi; Iyov 8:11 and 40:21; Yechezkel 47:11 and
-27:16; Yirmiyahu 38:22; Esther 1:6 and 8:15; Devarim 22:6; Ibn Janach and Radak,
-*Sefer HaShorashim*; Rashi to *Taanis* 22a, *Yevamos* 121a, *Sanhedrin* 5b and
-96a, *Shevuos* 16a, *Bava Metzia* 74a; *Maayanei Agam*.
+Rabbi Reuven Chaim Klein, "[Marshes, Marshes, Marshes](https://articles.ohr.edu/articles/marshes-marshes-marshes)," *What's in a Word?*, Ohr Somayach, 16 January 2021.
 
-Citation note, ours and not the column's: the article gives Devarim 22:6 and
-"Yechezkel 30:9" as the biblical occurrences of *beitzim* in the plural. The
-consonants בצים do stand at Yechezkel 30:9, but in the sense of ships, not eggs;
-the entry therefore cites only Devarim 22:6. Other genuine plural occurrences are
-Yeshayahu 10:14 and 59:5.
+Cited in the essay: Bereishis 41:2 and 41:18 with Rashi and Ramban; Shemos 7:19 and 8:1 with Rashi; Shemos 2:3 and 13:18 with Rashi; Iyov 8:11 and 40:21; Yechezkel 47:11 and 27:16; Yirmiyahu 38:22; Esther 1:6 and 8:15; Devarim 22:6; Ibn Janach and Radak, *Sefer HaShorashim*; Rashi to *Taanis* 22a, *Yevamos* 121a, *Sanhedrin* 5b and 96a, *Shevuos* 16a, *Bava Metzia* 74a; *Maayanei Agam*.

@@ -21,10 +21,10 @@ updated: 2026-09-10
 *Mammon* is **money** in the broadest sense, one's assets and holdings; it is
 Aramaic in origin and never appears in Tanach, only from the Mishnah on. *Damim*
 is **the price** or **the value** of a thing, always plural, and it is the
-homonym of *damim*, blood, which is a live trap. *Maos* and *zuzim* are coin
+homonym of *damim*, blood. *Maos* and *zuzim* are coin
 names that widened into general words for **money**; *kesef* is **silver** that
-widened the same way. *Mechir* is the Biblical **price**. The one thing not to
-get wrong: in a Mishnaic passage *damim* is regularly money, while in Chumash
+widened the same way. *Mechir* is the Biblical **price**. In a Mishnaic passage
+*damim* is regularly money, while in Chumash
 it is blood, with only two pesukim disputed.
 
 ## Distinctions
@@ -179,15 +179,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bechukosai: All About Money](https://articles.ohr.edu/articles/bechukosai-all-about-money)," What's in a Word?, Ohr
-Somayach, 24 Iyar 5784 (2024-06-01),
-https://articles.ohr.edu/articles/bechukosai-all-about-money; raw text in
-`sources/whats-in-a-word/raw/11394-bechukosai-all-about-money.md`. Primary loci
-cited: Devarim 6:5; Berachos 9:5; Kesubos 2:9, 3:2, 66b; Bava Basra 10:8;
-*Bamidbar Rabbah* 22:8; Koheles 5:9, 10:19; Shemos 22:1, 30:13; Tehillim 72:14;
-II Shmuel 24:24; Yeshayahu 45:13, 55:1; Bamidbar 20:19, 32:1; Bereishis 1:27;
-Nedarim 64b; Bava Kamma 119a; Avos 2:8, 4:11; *Sefer HeAruch*; *Sefer HaTishbi*
-and *Meturgaman*; *Beis Yitzchak* Yoreh Deah 1:152; *Binah L'Itim* derush 69;
-*Ragli Mevaser*; *Leshon Chachamim*; *Daas Zekeinim* to Bamidbar 32:1;
-Yeshayahu 65:11 (Meni); *Iggeres HaTiyul*; *Ezer Ohr* (glosses to *Sefer
-HaTishbi*); *Midrash Shmuel* to Avos 2:8; *Hafla'ah* to Kesubos 66b.
+Rabbi Reuven Chaim Klein, "[Bechukosai: All About Money](https://articles.ohr.edu/articles/bechukosai-all-about-money)," *What's in a Word?*, Ohr Somayach, 1 June 2024.
+
+Cited in the essay: Devarim 6:5; Berachos 9:5; Kesubos 2:9, 3:2, 66b; Bava Basra 10:8; *Bamidbar Rabbah* 22:8; Koheles 5:9, 10:19; Shemos 22:1, 30:13; Tehillim 72:14; II Shmuel 24:24; Yeshayahu 45:13, 55:1; Bamidbar 20:19, 32:1; Bereishis 1:27; Nedarim 64b; Bava Kamma 119a; Avos 2:8, 4:11; *Sefer HeAruch*; *Sefer HaTishbi* and *Meturgaman*; *Beis Yitzchak* Yoreh Deah 1:152; *Binah L'Itim* derush 69; *Ragli Mevaser*; *Leshon Chachamim*; *Daas Zekeinim* to Bamidbar 32:1; Yeshayahu 65:11 (Meni); *Iggeres HaTiyul*; *Ezer Ohr* (glosses to *Sefer HaTishbi*); *Midrash Shmuel* to Avos 2:8; *Hafla'ah* to Kesubos 66b.

@@ -26,9 +26,7 @@ sufferer finds favor and is given a free gift he need not deserve (Rashi:
 *matnas chinam*). *Chus* is **sparing**, refusing to let something be lost
 because one values it; *chemlah* is **pity** that will not see a thing ruined
 for its own worth, and it reaches the one who cannot ask (Malbim, Wertheimer).
-The one thing not to get wrong: *rachum* looks at the giver's heart, *chanun*
-at the receiver's standing; render the Thirteen Attributes "merciful and
-gracious," never "merciful and merciful."
+*Rachum* looks at the giver's heart, *chanun* at the receiver's standing.
 
 ## Distinctions
 
@@ -101,13 +99,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Mercy or Pity](https://articles.ohr.edu/articles/mercy-or-pity)," What's in a Word?, Ohr Somayach,
-23 Adar II 5778 (2018-03-10): raw text in
-`sources/whats-in-a-word/raw/7679-mercy-or-pity.md`. Primary loci the article
-cites: Rabbeinu Bachaya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos,
-Rosh Hashanah 17b; Ibn Ramoch to Tehillim 86:16, 112:4, 145:8; Malbim on *chus*
-and *chemlah*. Two things the article does not supply: it gives no chapter and
-verse for the Thirteen Attributes (they are Shemos 34:6-7, and *rachum
-v'chanun* is in 34:6), and it names Wertheimer only as "Rabbi Wertheimer," the
-fuller name in the front matter here being an identification of ours. The Yonah
-4:10 example under Rendering guidance is likewise ours, not the article's.
+Rabbi Reuven Chaim Klein, "[Mercy or Pity](https://articles.ohr.edu/articles/mercy-or-pity)," *What's in a Word?*, Ohr Somayach, 10 March 2018.
+
+Cited in the essay: Rabbeinu Bachaya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos, Rosh Hashanah 17b; Ibn Ramoch to Tehillim 86:16, 112:4, 145:8; Malbim on *chus* and *chemlah*; Rabbi Wertheimer.

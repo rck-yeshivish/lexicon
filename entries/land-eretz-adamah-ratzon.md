@@ -33,13 +33,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Eretz* is **land** and *adamah* is **ground**, and this article grounds the
+*Eretz* is **land** and *adamah* is **ground**, and the column grounds the
 difference in the two roots: *eretz* from REISH-TZADI, running, and *adamah* from
 DALET-MEM, likeness and so inertness. *Eretz* is therefore the active land, and
 often Eretz Yisrael in particular; *adamah* the passive ground, and often the
 lands outside it. *Ratzon* belongs to the same root as *eretz*: it is a person's
 **will** at its deepest, as against *chefetz*, the immediate goal in front of
-him. The trap is "earth," which will take both Hebrew words at once.
+him.
 
 The column takes the pair from Avos d'Rabbi Nasan (version 1, ch. 37), which
 teaches that as there are seven heavens so there are seven words for the earth:
@@ -76,8 +76,6 @@ root.
 5. Man running on it. *Midrash Mishlei* ch. 8: the land is called *eretz*
    because people run about on it, the board on which a man plays out what he
    really wants.
-
-Nothing in translation turns on the choice; the readings matter for a derashah.
 
 **Whether *eretz* and *adamah* split by place or by depth.** That in many places
 in the Torah an unqualified *eretz* is the Holy Land and *adamah* the Diaspora
@@ -145,14 +143,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Seasoning the Land](https://articles.ohr.edu/articles/seasoning-the-land)," What's in a Word?, Ohr Somayach,
-20 Elul 5781 (2021-08-28): raw text in
-`sources/whats-in-a-word/raw/9346-seasoning-the-land.md`. Primary loci cited:
-Avos d'Rabbi Nasan version 1 ch. 37 and version 2 ch. 43; Bereishis Rabbah 5:8;
-Bereishis 1:1; Koheles 3:1 with Rashi; Radak, *Sefer HaShorashim*; *Midrash
-Lekach Tov* to Bereishis 1:1; *Midrash Mishlei* ch. 8. This is part one of a
-series; the remaining words of Avos d'Rabbi Nasan's list of seven are treated in
-`earth-taivel-arka-cheled.md`. A separate entry, `land-eretz-adamah.md`, covers
-the column's earlier piece on the same pair, where the split is depth rather than
-place; the two should be read together, and the article itself cross-references
-that piece.
+Rabbi Reuven Chaim Klein, "[Seasoning the Land](https://articles.ohr.edu/articles/seasoning-the-land)," *What's in a Word?*, Ohr Somayach, 28 August 2021.
+
+Cited in the essay: Avos d'Rabbi Nasan version 1 ch. 37 and version 2 ch. 43; Bereishis Rabbah 5:8; Bereishis 1:1; Koheles 3:1 with Rashi; Radak, *Sefer HaShorashim*; *Midrash Lekach Tov* to Bereishis 1:1; *Midrash Mishlei* ch. 8.

@@ -22,8 +22,7 @@ HaBachur's and Rabbi Immanuel Benevento's view, Biblical Hebrew has no neutral
 Rabbi Shlomo of Urbino holds the opposite, that *ulai* is as neutral as English
 "maybe," and the column leaves the machlokes standing, noting a significant
 problem with the first view. Aramaic *shema* / *dilma* is neutral on all
-accounts. Do not flatten *pen* into "maybe"; "lest" or "in case" keeps the
-aversion that the derashos hang on.
+accounts.
 
 ## Distinctions
 
@@ -103,12 +102,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Maybe Yes, Maybe No](https://articles.ohr.edu/articles/maybe-yes-maybe-no)," What's in a Word?, Ohr
-Somayach, 11 November 2017 (22 Cheshvan 5778):
-https://articles.ohr.edu/articles/maybe-yes-maybe-no; raw text in
-`sources/whats-in-a-word/raw/7483-maybe-yes-maybe-no.md`. Primary loci: Rabbi
-Shlomo of Urbino, *Ohel Moed*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi
-Immanuel Benevento, *Livyat Chen*; Rashi to Bereishis 24:39; Bereishis 18:28,
-24:39, 27:12; Michah 7:20. The linguists the column cites for a derivation of
-*ulai* from *oh lo*, or from *lu* / *levai*, are unnamed there ("some
-experts"), and are reported here as the column reports them.
+Rabbi Reuven Chaim Klein, "[Maybe Yes, Maybe No](https://articles.ohr.edu/articles/maybe-yes-maybe-no)," *What's in a Word?*, Ohr Somayach, 11 November 2017.
+
+Cited in the essay: Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Immanuel Benevento, *Livyat Chen*; Rashi to Bereishis 24:39; Bereishis 18:28, 24:39, 27:12; Michah 7:20.

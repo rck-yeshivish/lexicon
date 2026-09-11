@@ -31,9 +31,9 @@ updated: 2026-09-10
 
 *Lahat* (Shemos 7:11) is the trick the practitioner works himself, **sleight of
 hand** or **magic arts**; *lat* (Shemos 7:22, 8:3, 8:14) is the covert method
-that works through *sheidim*, **secret arts**. Both are **incantation** if you
-follow Onkelos, who treats them as one word; do not let a translation settle the
-machlokes silently. *Lahat* elsewhere means **flame** (Bereishis 3:24).
+that works through *sheidim*, **secret arts**. For Onkelos, who treats them as
+one word, both are **incantation**. *Lahat* elsewhere means **flame** (Bereishis
+3:24).
 
 The pesukim set the question. Pharaoh's *chartumim* (usually rendered
 "necromancers") match Aharon's staff with their *lahat* (Shemos 7:11), then match
@@ -75,11 +75,6 @@ first plague, and that is what the meforshim are commenting on.
    concealment (compare Shoftim 4:21). Rabbi Yehuda HaLevi says much the same,
    and Rav Hirsch (to Shemos 7:11) is in this family: *lahat* the shiny object
    that distracts the crowd, *lat* the quick hand while they are looking away.
-
-The Bottom line follows the Gemara, since a translator rendering a Chumash is
-bound by it, and the Gemara's distinction is the one the pesukim's own shift
-from *lahat* to *lat* invites. Where a passage turns on Onkelos, render both
-"incantations" and say so.
 
 **Whether any of it worked.** Rabbi Saadia Gaon (*Emunos v'Deos*, maamar 3),
 Rabbeinu Chananel ben Chushiel, Rabbi Yehuda HaLevi, and Rabbi Avraham Maimuni
@@ -153,17 +148,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vaera: The Trick of Magi](https://articles.ohr.edu/articles/vaera-the-trick-of-magi)," What's in a Word?, Ohr
-Somayach, 28 Teves 5783 (2023-01-21): raw text in
-`sources/whats-in-a-word/raw/10804-vaera-the-trick-of-magi.md`. Primary loci:
-Shemos 7:11, 7:22, 8:3, 8:14-15; Bereishis 3:24; Sanhedrin 67b with Rashi;
-Targum Onkelos, Ramban, and Ibn Ezra to Shemos 7:11 and 7:22; *Moshav Zekenim*
-and *Tzror HaMor* there; *Cheshek Shlomo* and *Yerios Shlomo*; Rav Hirsch to
-Shemos 7:11; Tehillim 104:4; Shmuel I 18:22, 21:10; Shoftim 4:21; Yeshayahu 8:6,
-19:3 with Rashi, 25:7; Bereishis 33:14; Shmuel II 18:5; Iyov 15:11; *Moreh
-Nevuchim* 3:46; *Biur HaGra*, Yoreh Deah 179:13; Rabbi David HaNaggid, *Klil
-HaYofi* to Shemos 7:11, whose relevant excerpts were first published by Rabbi
-Moshe Maimon of Jackson, NJ, in *Mechilta* vol. 4 (September 2022), a work that
-also cites the lost commentaries of Rav Saadia Gaon and Rabbi Yehuda HaLevi to
-Shemos. The identification of Rashi's *ittim* with the Egyptian god Atum or the
-Sumerian Ittyi is the column's own, and is reported here as such.
+Rabbi Reuven Chaim Klein, "[Vaera: The Trick of Magi](https://articles.ohr.edu/articles/vaera-the-trick-of-magi)," *What's in a Word?*, Ohr Somayach, 21 January 2023.
+
+Cited in the essay: Shemos 7:11, 7:22, 8:3, 8:14-15; Bereishis 3:24; Sanhedrin 67b with Rashi; Targum Onkelos, Ramban, and Ibn Ezra to Shemos 7:11 and 7:22; *Moshav Zekenim* and *Tzror HaMor* there; *Cheshek Shlomo* and *Yerios Shlomo*; Rav Hirsch to Shemos 7:11; Tehillim 104:4; Shmuel I 18:22, 21:10; Shoftim 4:21; Yeshayahu 8:6, 19:3 with Rashi, 25:7; Bereishis 33:14; Shmuel II 18:5; Iyov 15:11; *Moreh Nevuchim* 3:46; *Biur HaGra*, Yoreh Deah 179:13; Rabbi David HaNaggid, *Klil HaYofi* to Shemos 7:11; Rabbi Moshe Maimon, *Mechilta* vol. 4.

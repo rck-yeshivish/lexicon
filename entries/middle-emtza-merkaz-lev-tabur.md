@@ -15,14 +15,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Sort them by period first. *Emtza* is the **middle** of Mishnaic Hebrew and
+They divide first by period. *Emtza* is the **middle** of Mishnaic Hebrew and
 does not occur in Tanach. *Merkaz* is **center** and is later still, first used
 in medieval Hebrew and borrowed from Arabic (Rabbi Shmuel Ibn Tibbon says so
 himself); it carries the extra sense of "principal, main," as "central" does in
 English. Tanach says middle with two body words: *lev*, the **heart** or midst
-of a thing, and *tabur*, the **navel** or central point of a land. So do not
-put *merkaz* or *emtza* into the mouth of a pasuk, and do not render *belev
-yamim* as "in the center of the sea."
+of a thing, and *tabur*, the **navel** or central point of a land.
 
 ## Distinctions
 
@@ -104,10 +102,9 @@ is where things happen, neither of them necessarily the geometric middle.
 ### lev (לב)
 Primarily the life-giving organ that pumps blood, and by extension the middle
 of anything, since it sits roughly in the middle of the body. So Tanach speaks
-of the *lev* of the *elah* tree (Shmuel II 18:14; the column calls it an elm),
+of the *lev* of the *elah* tree (Shmuel II 18:14),
 the *lev* of the seas (Shemos 15:8; Yechezkel 27:4, 27:25-27, 28:2, 28:8;
-Tehillim 46:3), and the *lev* of the heavens (Devarim 4:11; the article prints
-4:10), though trees, waters and heavens have no literal hearts. Rabbi Shlomo
+Tehillim 46:3), and the *lev* of the heavens (Devarim 4:11), though trees, waters and heavens have no literal hearts. Rabbi Shlomo
 Pappenheim (1740-1814): the biliteral ל-ב means heart, and in
 the borrowed sense *lev* is whatever sits at the center or plays a central part
 in a process. He puts a wide family on this root: *lavi* (lion, since fear
@@ -180,14 +177,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[In the Middle](https://articles.ohr.edu/articles/in-the-middle)," What's in a Word?, Ohr Somayach,
-17 Tammuz 5782 (2022-07-16): raw text in
-`sources/whats-in-a-word/raw/9785-in-the-middle.md`. Primary loci cited:
-Yeshayahu 28:20, 40:4; Bereishis 1:6, 2:9, 12:5; Shemos 15:8, 26:28, 28:28,
-39:21; Devarim 4:11 (the article prints 4:10); Shoftim 9:37, 16:29; Shmuel II
-18:14; Yechezkel 27:4, 27:25-27, 28:2, 28:8, 38:12; Tehillim 31:21, 45:10,
-46:3, 135:9; Iyov 20:13; Shabbos 18:3; Sotah 9:4; Bechoros 7:5; Ramban to
-Bereishis 2:9; *Shu"t Maharit* vol. 2, Even HaEzer 8. Two renderings of the
-article's are corrected rather than repeated: it prints Deut. 4:10 for *ad lev
-hashamayim*, which is 4:11, and it calls the tree of Shmuel II 18:14 an elm
-where the pasuk has an *elah*.
+Rabbi Reuven Chaim Klein, "[In the Middle](https://articles.ohr.edu/articles/in-the-middle)," *What's in a Word?*, Ohr Somayach, 16 July 2022.
+
+Cited in the essay: Yeshayahu 28:20, 40:4; Bereishis 1:6, 2:9, 12:5; Shemos 15:8, 26:28, 28:28, 39:21; Devarim 4:11; Shoftim 9:37, 16:29; Shmuel II 18:14; Yechezkel 27:4, 27:25-27, 28:2, 28:8, 38:12; Tehillim 31:21, 45:10, 46:3, 135:9; Iyov 20:13; Shabbos 18:3; Sotah 9:4; Bechoros 7:5; Ramban to Bereishis 2:9; *Shu"t Maharit* vol. 2, Even HaEzer 8.
