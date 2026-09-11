@@ -31,15 +31,13 @@ opens on Shoftim 5:28, where Sisera's mother looks through both. Rashi, Ibn
 Janach and Radak define *eshnav* as *chalon*, which suggests the two mean the
 same thing. Others distinguish them, and they do not agree how: a small window
 (Rabbi Yosef Kara, Meiri), a peephole (Rid), an enchanted window used for
-divination (Malbim to Shoftim, with *Kli Yakar* reversing the two words), a
-lens that brings the distant near (Malbim in *Yair Ohr*), a lattice (Menachem
-Ibn Saruk, Rabbi Moshe David Valle), a shuttered window (Rabbi Moshe Yitzchak
+divination (Malbim to Shoftim, with *Kli Yakar* reversing the two words), a lens
+that brings the distant near (Malbim in *Yair Ohr*), a lattice (Menachem Ibn
+Saruk, Rabbi Moshe David Valle), a shuttered window (Rabbi Moshe Yitzchak
 Tedeschi Ashkenazi, and independently Dr. Shmuel Yeivin), or a window for the
-wind (Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein).
-The column does not choose. Where a translation must keep the pair apart, this
-guide suggests **small window** or **lattice** for *eshnav*, as the readings an
-English word can carry without a note; either one still commits to a single
-view. Modern Hebrew's *eshnav*, a service window, is a neologism.
+wind (Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein). The
+column does not choose. Modern Hebrew's *eshnav*, a service window, is a
+neologism.
 
 ## At a glance
 
@@ -170,6 +168,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Beshalach: Through the Looking Window," *What's in a Word?*, Ohr Somayach, 30 January 2021.
+Rabbi Reuven Chaim Klein, "[Beshalach: Through the Looking Window](https://articles.ohr.edu/articles/beshalach-through-the-looking-window)," *What's in a Word?*, Ohr Somayach, 30 January 2021.
 
 Cited in the essay: Shoftim 5:28 with Rashi, Rabbi Yosef Kara, Malbim, Abarbanel, Alshich and *Kli Yakar*; Mishlei 7:6 with the Meiri and Malbim; Bereishis 26:8 with *Tzror HaMor*; *Zohar* Toldos 140b; *Sefer HaIkkarim* 4:43; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Rabbi Yishaya of Trani; Rabbi Shaul Goldman; Rabbi Moshe David Valle; Rabbi Moshe Yitzchak Tedeschi Ashkenazi, *Hoil Moshe*; Shmuel Yeivin, *Leshonenu* (1959); Rabbi Aharon Marcus; Rabbi Baruch HaLevi Epstein; Rabbi Ernest Klein; Malbim, *Yair Ohr*; Rabbi Chaim Futernik; Rabbi Elazar Reines, *Shorashei Leshon HaKodesh* and *Mishlei Shlomo*.

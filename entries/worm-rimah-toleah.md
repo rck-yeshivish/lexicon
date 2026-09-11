@@ -7,73 +7,109 @@ english: [maggot, worm, larva, teeth, throat]
 domain: nature
 words:
   - he: מתלעות
-    nk: מְתַלְּעוֹת
+    nk: מְתַלְּעוֹת
 sources:
   - wiaw:11902 "Matos-Masei: The Wormy Place" (2025-07-26) https://articles.ohr.edu/articles/matos-masei-the-wormy-place
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Netziv, Vilna Gaon, Rabbi Binyamin Rivlin, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu Bachur, Rashbam, Rabbi Yehudah Aryeh of Carpentras, Rabbi David Chaim Chelouch, Rabbi Shaul Goldman]
-status: draft
-updated: 2026-09-09
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Netziv, Vilna Gaon, Rabbi Binyamin Rivlin, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu Bachur, Rashbam, Rabbi Yehudah Aryeh of Carpentras, Rabbi David Chaim Chelouch, Rabbi Shaul Goldman, Alfred Jones]
+status: reviewed
+updated: 2026-09-10
 ---
 # Worm: rimah / toleah (tola'as)
 
 ## Bottom line
 
-*Rimah* is the earlier and smaller thing: **maggots**, larvae, the first
-infestation, arguably not yet ambulatory. *Toleah* (and its common form
-*tola'as*) is the mature crawling **worm** that eats. The pair is always in
-that order in Tanach and in Chazal, *rimah v'toleah*, and the order is
-chronological (Netziv, Vilna Gaon), so a rendering must not reverse it or
-collapse it: "maggots and worms," not "worms and maggots" and not "worms" once.
-Where the phrase is a fixed idiom for the grave, "worms and maggots" is exactly
-the loss to avoid.
+The column asks why Hebrew has two words for the worms of the grave, *rimah* and
+*toleah*, which always stand in that order (*Avos* 3:1 and the Gemara;
+Yeshayahu 14:11; Iyov 25:6). Rabbi Shaul Goldman's answer frames the rest:
+*rimah* is **maggots** or larvae, and more broadly decay from within; *toleah*
+(commonly *tola'as*) is the **worm** that eats, destruction from without. The
+column reads the fixed order as chronological, and the Netziv and the Vilna
+Gaon make *rimah* the first, smaller stage of infestation and *toleah* the
+later, larger worm. Others draw the line elsewhere: a cluster of larvae against
+one grown worm, or worms of fruit and cheese against worms of the innards and
+the ground (Rabbi Moshe Tedeschi-Ashkenazi); formed from within against coming
+from outside (Rav Hirsch); not yet moved from where they were generated against
+able to crawl, or worms of rot against worms as such (Malbim); creatures that do
+not eat against creatures that eat as if with teeth (*Midrash Sechel Tov*).
 
 ## Distinctions
 
 ### rimah (רימה)
 Seven occurrences in Tanach, five of them in Iyov (7:5, 17:14, 21:26, 24:20,
-25:6), plus Shemos 16:24 and Yeshayahu 14:11. Ibn Janach, Radak (each in *Sefer
-HaShorashim*) and Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*) trace it to
-ר-מ-ם; Menachem Ibn Saruk (*Machberes Menachem*) to the biliteral ר-מ. Either
-way the root family (with ר-ו-ם) covers lifting, exalting, separating,
-removing, producing, and throwing.
+25:6), plus Shemos 16:24, where the manna kept for Shabbos had no *rimah*, and
+Yeshayahu 14:11; a few pesukim earlier the leftover manna *vayarum*, "became
+infested," and bred *tola'im* (Shemos 16:20). The pair *rimah v'toleah* recurs
+in the Gemara (Berachos 24b; Nedarim 9b; Bava Basra 17a, on the seven whose
+bodies were not given to *rimah* and *toleah*; Bava Metzia 83b) and the Midrash
+(*Shemos Rabbah* 20, *Vayikra Rabbah* 18, *Devarim Rabbah* 11, *Koheles Rabbah*
+5 and 12), though curiously never in the Yerushalmi. Ibn Janach, Radak (each
+in *Sefer HaShorashim*) and Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*)
+trace it to ר-מ-ם; Menachem Ibn Saruk (*Machberes Menachem*) to the biliteral
+ר-מ. Either way the root family (with ר-ו-ם) covers lifting, exalting,
+separating, removing, producing, and throwing.
 
 On which of those senses yields "maggot," the authorities split. Rabbi Shlomo
-Pappenheim (*Yerios Shlomo*, *Cheshek Shlomo*): from "throwing," because these
-creatures have no legs to jump with and instead gather themselves to fling
-their bodies in an arc onto the spot they aim at; he further suggests *rimon*
-("pomegranate") is named from *rimah*, that fruit being so prone to
-infestation. Rav Hirsch (to Shemos 16:20): from "lifting," since food lying
-inert looks lifeless, and once worms move over it the thing seems raised into
-animation; Rav Hirsch is careful to say he is describing what the eye sees, not
-settling how the creatures come to be. Malbim (*Sefer HaCarmel*) implies the
-swarm's "ascending" upon the rotting item. Rabbi Yehudah Aryeh of Carpentras
-(*Aholei Yehudah*) offers two: a link to ח-מ-ם, the heat of putrefaction (he
-does not explain the reish/ches interchange), or that the creature is so slight
-it barely lifts off the ground. Rabbi David Chaim Chelouch (*Michtam L'David*,
-*Ohr Chadash*): ר-מ carries a thing and its exact opposite, the exalted *ram*
-and the lowest of the low *rimah*, with *mirmah* and *ramai* in between,
-seeming exalted and being the reverse.
+Pappenheim (*Yerios Shlomo*, *Cheshek Shlomo*), expanding on Menachem: from
+"throwing" upward in an arc, because these creatures have no legs to jump with
+and instead gather themselves to fling their bodies in an arc onto the spot they
+aim at; he further suggests *rimon*, the pomegranate, is named from *rimah*,
+that fruit being so prone to infestation. Rav Hirsch (to Shemos 16:20): from
+"lifting," since food lying on the ground looks lifeless, and once worms move
+over it the thing seems raised into animation; he stresses that he is
+describing what the eye sees, with no bearing on whether such worms arise by
+spontaneous generation or from eggs, a controversy of his time. Rabbi Klein
+suggests that swarming worms "ascend" upon the rotting item, an explanation
+somewhat implied by Malbim in *Sefer HaCarmel*. Rabbi Yehudah Aryeh of
+Carpentras (*Aholei Yehudah*) offers two: in line with the science of his
+times, worms are generated from excess fat when rotting food grows hot and
+putrid, so ר-מ-ם is somehow related to ח-מ-ם, heat (he does not explain the
+reish and ches interchange); or the creature is so slight that its body barely
+lifts off the ground. Rabbi David Chaim Chelouch (*Michtam L'David Luach
+HaShorashim* to Tehillim 24:4; *Ohr Chadash Luach HaShorashim* to Shemos 16:20):
+a root can carry a thing and its exact opposite, so ר-מ gives the exalted *ram*
+and the lowest of the low, *rimah*, with *mirmah* and *ramai* in between,
+seeming exalted and being the reverse. Rabbi Moshe Tedeschi-Ashkenazi relates
+*rimah* to ר-ב, through the interchange of mem and beis, for the proliferation
+of larvae at the onset of infestation.
 
 ### toleah (תולעה), tola (תולע), tola'as (תולעת)
 *Toleah* twice (Yeshayahu 14:11, Iyov 25:6), *tola* twice (Eichah 4:5,
-Yeshayahu 1:18), *tola'as* close to forty times. Ibn Saruk, Ibn Janach, Radak,
-and Ibn Parchon all take the root as ת-ל-ע, which also yields *mesalos*,
-"teeth" (Iyov 29:17, Yoel 1:6, Mishlei 30:14). Rabbi Pappenheim treats the tav
-as extraneous and the core root as ל-ע, "the organ of swallowing": *loa*,
-"throat," occurs once (Mishlei 23:2), teeth belong to the same digestive
-apparatus, and *bala* ("swallow") he parses as ב-א ("enter") plus ל-ע. The worm
-earns the name because it bolts its food down without chewing. Rabbi
-Tedeschi-Ashkenazi ties *toleah* to *loa* differently, by the long tubular
-shape.
+Yeshayahu 1:18), *tola'as* close to forty times. On *tola'as Yaakov* (Yeshayahu
+41:14), Radak explains the comparison by Klal Yisrael's weakened state in
+exile, while *Tanchuma* (Beshalach 9) says that as a worm fells a cedar with its
+mouth, so Klal Yisrael fells nations with its mouth, through tefillah. Ibn
+Saruk, Ibn Janach, Radak and Ibn Parchon all take the root as ת-ל-ע, which
+also yields *mesalos*, "teeth" (Iyov 29:17; Yoel 1:6; Mishlei 30:14). The link
+to teeth, the column notes, is not insignificant, since the Midrash makes the
+worm's mouth its outstanding feature, and *Midrash Sechel Tov* (to Shemos 16:24)
+states the difference that way: *rimah* do not eat or drink, while *toleah* eat
+as though they had teeth. Rabbi Pappenheim treats the tav as extraneous and the
+core root as ל-ע, "the organ of swallowing": *loa*, "throat," occurs once
+(Mishlei 23:2), teeth belong to the same apparatus, and *bala*, "swallow," he
+parses as ב-א ("enter") plus ל-ע. The worm earns the name because it bolts its
+food as though swallowing without chewing. Rav Hirsch also ties *toleah* to
+*loa*, the worm being defined by its eating; Rabbi Tedeschi-Ashkenazi ties it to
+*loa* by the long tubular shape.
 
-Teeth are the point. *Midrash Sechel Tov* (to Shemos 16:24) states the
-difference plainly: *rimah* do not eat or drink, while *toleah* eat as
-creatures with teeth do. *Tanchuma Beshalach* 9 on *tola'as Yaakov* (Yeshayahu
-41:14) says that as a worm fells a cedar with its mouth, so Klal Yisrael fells
-nations with its mouth, that is, with tefillah; Radak on the same pasuk reads
-the comparison from weakness instead.
+### Tola, the name
+Tola is also a name, borne by a son of Yissachar (Bereishis 46:13; Bamidbar
+26:23; Divrei HaYamim I 7:1-2) and a later judge of that tribe (Shoftim 10:1).
+*Midrash Sechel Tov* (to Bereishis 46:13) ties it to Yissachar's Torah study
+(Divrei HaYamim I 12:33): its bearer would bask in Torah like a worm consuming
+it, much as English speaks of a bookworm. *Yalkut Midrashei Teiman* (to Bamidbar
+26:23): as a worm penetrates a fruit, the family of Tola went deep into the
+halachah. Alfred Jones (*The Proper Names of the Old Testament Scriptures
+Expounded and Illustrated*, London, 1856, p. 360) conjectures the child was so
+named for his poor, weak and scarlet appearance at birth, after *tola'as shani*.
 
 ### The difference, stated
+- Rabbi Shaul Goldman: *rimah* is specifically larvae and maggots, not actual
+  worms, and in the broader sense always refers to internal decay; *toleah* is
+  the worm as a creature that eats, an external force of destruction. The
+  column adduces the sources below as support.
+- Word order: wherever the two stand together, *rimah* comes first (Yeshayahu
+  14:11; Iyov 25:6), as in the rabbinic phrase, which the column takes to imply
+  that *rimah* precedes *toleah* in time.
 - Netziv (*Birkas HaNetziv* to *Mechilta* on Shemos 16:20; *Ha'Emek She'eilah*
   56:3): *rimah* are the small ones that appear before the thing has properly
   rotted, *toleah* the long crawling ones that come after it has spoiled. Hence
@@ -81,40 +117,38 @@ the comparison from weakness instead.
 - Vilna Gaon, cited by Rabbi Binyamin Rivlin (*Giviyay Giviya HaKesef* to
   Shemos 16:20): infestation begins small (*rimah*) and grows large (*toleah*);
   so Shemos 16:24 says there was no *rimah* in the manna, meaning it did not
-  reach even stage one, and all the more so not stage two. Rabbi Wertheimer
-  (*Beiurei Shemos Nirdafim*) finds support in Rashbam to Shemos 16:20.
+  reach even the first stage, and all the more so not the second. Rabbi Shlomo
+  Aharon Wertheimer (*Beiurei Shemos Nirdafim*) finds support in Rashbam to
+  Shemos 16:20.
 - Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim* 482): *rimah* is larvae
-  still in the egg, and though it looks singular it names a cluster; *toleah*
-  is one fully formed worm living on its own. Alternatively, *rimah* infests
-  fruit and cheese, *toleah* is found in the innards or in the ground. Rabbi
-  Wertheimer infers from *Avos* 2:7 that *rimah* takes to fatty flesh, and the
-  distinction is probably already in Rabbi Eliyahu Bachur's glosses to Radak's
-  *Sefer HaShorashim*: *rimah* for maggots in flesh and cheese, *toleah* for
-  worms.
+  still in the egg, and though it looks singular it names a cluster; *toleah* is
+  one fully formed worm living on its own. Alternatively, *rimah* infests fruit
+  and cheese, *toleah* is found in the innards or in the ground. Rabbi
+  Wertheimer infers from *Avos* 2:7 that *rimah* specially infests fatty flesh.
+  Rabbi Klein later found that Rabbi Tedeschi-Ashkenazi is probably drawing on
+  Rabbi Eliyahu Bachur's glosses to Radak's *Sefer HaShorashim*: *rimah* for
+  maggots in flesh and cheese, *toleah* for worms.
 - Rav Hirsch (to Shemos 16:20): *rimah* form from within the rotting thing, or
-  appear to; *toleah* plainly come from outside to consume it.
+  at least appear to; *toleah* plainly come from outside to consume it.
 - Malbim (to Yeshayahu 14:11): *rimah* have not yet left the place where they
   were generated, *toleah* can already move about. Elsewhere (*Yair Ohr*, on
-  *adam* versus *enosh*) he has *rimah* as worms of rot specifically and
+  *adam* versus *enosh*) he has *rimah* as worms infesting something rotting and
   *toleah* as worms as such.
-- Rabbi Shaul Goldman: *rimah* is larvae and maggots, decay working from
-  within; *toleah* is the eater, destruction working from without.
 
 ## Rendering guidance
 
 - Fixed phrase רימה ותולעה (*Avos* 3:1, Berachos 24b, Nedarim 9b, Bava Basra
   17a, Bava Metzia 83b, and the midrashim): "maggots and worms." Keep the
-  order; every authority above reads it as a sequence.
-- Trap: English "worms" absorbs both, and most translations of *Avos* 3:1 do
-  exactly that. If the passage turns on the pair (the manna at Shemos 16:20 and
-  16:24, or the seven whose bodies were untouched), the two English words must
-  stay two.
-- *Tola'as* alone is usually "worm"; *tola'as shani* is the crimson dye, not a
-  creature, and takes "scarlet."
-- Do not render *rimah* as "rot" or "decay." It names the creatures, even on
-  Rabbi Goldman's reading where they signify internal decomposition.
-- מתלעות is "teeth," never "worms," though the root is one; keep the connection
-  to a note.
+  order, which the column, the Netziv and the Vilna Gaon read as a sequence.
+- Trap: English "worms" absorbs both. If the passage turns on the pair (the
+  manna at Shemos 16:20 and 16:24, or the seven whose bodies were untouched),
+  the two English words must stay two.
+- *Tola'as* alone is usually "worm"; *tola'as shani* is the scarlet dye, which
+  the column glosses "red."
+- *Rimah* names the creatures, larvae or maggots; Rabbi Goldman's broader sense,
+  internal decay, belongs in a note rather than in place of "maggots."
+- מתלעות is "teeth," never "worms," though the lexicographers give both one
+  root; keep the connection to a note.
 
 ## Notes for a project
 
@@ -122,19 +156,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Matos-Masei: The Wormy Place," What's in a Word?,
-Ohr Somayach, 1 Av 5785 (2025-07-26): raw text in
-`sources/whats-in-a-word/raw/11902-matos-masei-the-wormy-place.md`. Primary
-loci cited: *Avos* 3:1 and 2:7; Berachos 24b; Nedarim 9b; Bava Basra 17a; Bava
-Metzia 83b; *Shemos Rabbah* 20, *Vayikra Rabbah* 18, *Devarim Rabbah* 11,
-*Koheles Rabbah* 5 and 12; *Midrash Sechel Tov* to Shemos 16:24 and Bereishis
-46:13; *Tanchuma Beshalach* 9; Shemos 16:20, 16:24; Yeshayahu 1:18, 14:11,
-41:14; Iyov 7:5, 17:14, 21:26, 24:20, 25:6, 29:17; Eichah 4:5; Yoel 1:6;
-Mishlei 23:2, 30:14; Bereishis 46:13; Bamidbar 26:23; Shoftim 10:1; Divrei
-HaYamim I 7:1-2, 12:33.
+Rabbi Reuven Chaim Klein, "[Matos-Masei: The Wormy Place](https://articles.ohr.edu/articles/matos-masei-the-wormy-place)," *What's in a Word?*, Ohr Somayach, 26 July 2025.
 
-Two citation notes: the article prints the tandem verses as "isa. 4:11" and
-attributes Malbim to "Isa. 4:11"; the locus in both places is Yeshayahu 14:11.
-The article's closing conjecture from Alfred Jones, *The Proper Names of the
-Old Testament Scriptures* (London, 1856), on the name Tola is omitted here
-under house rule 9.
+Cited in the essay: *Avos* 2:7, 3:1; Berachos 24b; Nedarim 9b; Bava Basra 17a; Bava Metzia 83b; *Shemos Rabbah* 20; *Vayikra Rabbah* 18; *Devarim Rabbah* 11; *Koheles Rabbah* 5 and 12; *Mechilta* to Shemos 16:20 with *Birkas HaNetziv*; *Ha'Emek She'eilah* 56:3; *Midrash Sechel Tov* to Bereishis 46:13 and Shemos 16:24; *Tanchuma* Beshalach 9; *Yalkut Midrashei Teiman* to Bamidbar 26:23; Bereishis 46:13; Shemos 16:20 with Rav Hirsch and Rashbam; Shemos 16:24; Bamidbar 26:23; Shoftim 10:1; Yeshayahu 1:18; Yeshayahu 14:11 with Malbim; Yeshayahu 41:14 with Radak; Yoel 1:6; Mishlei 23:2, 30:14; Iyov 7:5, 17:14, 21:26, 24:20, 25:6, 29:17; Eichah 4:5; Divrei HaYamim I 7:1-2, 12:33; Ibn Janach and Radak, *Sefer HaShorashim*, with Rabbi Eliyahu Bachur's glosses; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Malbim, *Sefer HaCarmel* and *Yair Ohr*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Rabbi David Chaim Chelouch, *Michtam L'David Luach HaShorashim* to Tehillim 24:4 and *Ohr Chadash Luach HaShorashim* to Shemos 16:20; Rabbi Binyamin Rivlin, *Giviyay Giviya HaKesef*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos Nirdafim*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 482; Rabbi Shaul Goldman; Alfred Jones, *The Proper Names of the Old Testament Scriptures Expounded and Illustrated* (London, 1856), p. 360.
