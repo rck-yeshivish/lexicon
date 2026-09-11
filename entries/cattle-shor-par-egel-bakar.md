@@ -58,19 +58,21 @@ through its first year and a *parah* thereafter; the Chachamim hold it stays an
 *eglah* through its second year as well.
 
 ### par (פר) and parah (פרה)
-The classical pair, male and female. Rabbi Shlomo Pappenheim derives them from
-the biliteral peh-reish, breaking a thing into smaller parts, whence *peirurim*
-(crumbs), *eifer* (ash), *parur* (a pot for crumbs and small grains), *pri* (a
-fruit, a microcosm of the tree that comes off it), *pe'er* and *tiferes* (an
-all-encompassing beauty made of many aspects), *hafarah* (dissolving a vow),
-*primah* (tearing a garment into shreds), and *tefirah* (sewing, which repairs
-*primah*). Since *pri* is reproduction, the *par* is the fertile male, unlike the
-*shor*, and the *parah* is almost always kept for exactly what her name says,
-calving and milk, only a small minority of females ever being made impotent.
-Rashi (to Tehillim 69:32; Chullin 60a; Avodah Zarah 8a): a *shor* is called that
-from the day it is born (see Vayikra 22:27), while *par* is a name it takes on
-only later. Radak (to Tehillim 69:32): a *shor* is big and a *par* is small,
-though he does not say whether he means in age or in build.
+The classical pair, male and female.
+- Rabbi Shlomo Pappenheim derives them from the biliteral peh-reish, breaking a
+  thing into smaller parts, whence *peirurim* (crumbs), *eifer* (ash), *parur*
+  (a pot for crumbs and small grains), *pri* (a fruit, a microcosm of the tree
+  that comes off it), *pe'er* and *tiferes* (an all-encompassing beauty made of
+  many aspects), *hafarah* (dissolving a vow), *primah* (tearing a garment into
+  shreds), and *tefirah* (sewing, which repairs *primah*). Since *pri* is
+  reproduction, the *par* is the fertile male, unlike the *shor*, and the
+  *parah* is almost always kept for exactly what her name says, calving and
+  milk, only a small minority of females ever being made impotent.
+- Rashi (to Tehillim 69:32; Chullin 60a; Avodah Zarah 8a): a *shor* is called
+  that from the day it is born (see Vayikra 22:27), while *par* is a name it
+  takes on only later.
+- Radak (to Tehillim 69:32): a *shor* is big and a *par* is small, though he
+  does not say whether he means in age or in build.
 
 ### shor (שור)
 Rabbi Shlomo Pappenheim: from the biliteral shin-reish, borrowed from *shar* or

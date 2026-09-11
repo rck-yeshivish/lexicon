@@ -56,13 +56,17 @@ warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
 
 ## Where the authorities disagree
 
-**What *oniyos eiveh* means (Iyov 9:26).** Rashi: *eivah* is the name of a strong
-river, seemingly implying boats for waters with strong currents. Ibn Ezra: a
-place name, seemingly implying boats sturdy enough to make the journey to Eiveh;
-alternatively, that *eivah* is a fruit or other commodity, so these are the boats
-used to carry it. Ralbag: especially fast boats. Dr. Raphael Patai and Dr. Chaim
-Tawil argue instead that *eiveh* is related to the Akkadian *abu*/*apu*, reeds,
-so that these are boats made of reeds, typically insulated with tar and pitch.
+**What *oniyos eiveh* means (Iyov 9:26).**
+- Rashi: *eivah* is the name of a strong river, seemingly implying boats for
+  waters with strong currents.
+- Ibn Ezra: a place name, seemingly implying boats sturdy enough to make the
+  journey to Eiveh; alternatively, that *eivah* is a fruit or other commodity,
+  so these are the boats used to carry it.
+- Ralbag: especially fast boats.
+- Dr. Raphael Patai and Dr. Chaim Tawil argue instead that *eiveh* is related to
+  the Akkadian *abu*/*apu*, reeds, so that these are boats made of reeds,
+  typically insulated with tar and pitch.
+
 Nothing settles it.
 
 **Where *sefinah* comes from.** Rabbi Shlomo Pappenheim gives four derivations

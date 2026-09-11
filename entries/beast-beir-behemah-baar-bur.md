@@ -56,27 +56,30 @@ gives *ba'ar*, the **brute** or **boor**, and on one view the Mishnaic *bur*, th
 
 ## Where the authorities disagree
 
-**The root of behemah.** Ibn Janach and Radak (each in his *Sefer HaShorashim*):
-a triliteral ב-ה-מ, a single beast or animals in general. Rabbi Yaakov Tzvi
-Mecklenburg: the beis is a prefix and the root is ה-מ-ה, "noise, confusion,"
-since animals make confused sounds while human speech carries meaning. *Ohalei
-Yehuda* offers a merger of בה with המה, and alternatively *bah mah*, "what is in
-her?", the creature's insignificance beside man (compare Shemos 16:7-8).
+**The root of behemah.**
+- Ibn Janach and Radak (each in his *Sefer HaShorashim*): a triliteral ב-ה-מ, a
+  single beast or animals in general.
+- Rabbi Yaakov Tzvi Mecklenburg: the beis is a prefix and the root is ה-מ-ה,
+  "noise, confusion," since animals make confused sounds while human speech
+  carries meaning.
+- *Ohalei Yehuda* offers a merger of בה with המה, and alternatively *bah mah*,
+  "what is in her?", the creature's insignificance beside man (compare Shemos
+  16:7-8).
 
 **Where be'ir sits in the root ב-ע-ר.** Ibn Saruk, Ibn Janach and Radak all take
 *be'ir* from the triliteral ב-ע-ר, a root that carries removing, grazing,
-consuming, destroying, burning, kindling, and foolishness. Ibn Janach files
-*be'ir* under grazing, since animals are typified by eating; Ibn Saruk files it
-under *ba'ar*, "fool." Rashi (to Shemos 22:4) seems to weigh in for grazing,
-though his exact intent remains unclear (see Rabbi Yaakov Yechiel Weinberg,
-*Seridei Aish*
-vol. 4 *Chakiras HaMekoros* §7:2). Against them, Mitchell First (*Words for the
-Wise*, Kodesh Press 2022, p. 149) reasons that *be'ir* is unrelated to any of the
-other senses of ב-ע-ר, and notes that an Arabic cognate of that root means
-"camel" while in some dialects, South Arabic among them, it is a general word for
-animals much as biblical *be'ir* is; on that basis Rabbi Shet bar Yefet
-(*Chemas HaChemdah* to Shemos 22:4) argues that *be'ir* is in fact Arabic and not
-Hebrew.
+consuming, destroying, burning, kindling, and foolishness.
+- Ibn Janach files *be'ir* under grazing, since animals are typified by eating.
+- Ibn Saruk files it under *ba'ar*, "fool."
+- Rashi (to Shemos 22:4) seems to weigh in for grazing, though his exact intent
+  remains unclear (see Rabbi Yaakov Yechiel Weinberg, *Seridei Aish* vol. 4
+  *Chakiras HaMekoros* §7:2).
+- Against them, Mitchell First (*Words for the Wise*, Kodesh Press 2022, p. 149)
+  reasons that *be'ir* is unrelated to any of the other senses of ב-ע-ר, and
+  notes that an Arabic cognate of that root means "camel" while in some
+  dialects, South Arabic among them, it is a general word for animals much as
+  biblical *be'ir* is; on that basis Rabbi Shet bar Yefet (*Chemas HaChemdah* to
+  Shemos 22:4) argues that *be'ir* is in fact Arabic and not Hebrew.
 
 Others read the bet of *be'ir* as no part of the root. Rabbi Shlomo Yehuda
 Rapoport, a son-in-law of the *Ketzos HaChoshen* who is typically counted a
@@ -92,14 +95,17 @@ animal bereaves the field of its produce and leaves it bare.
 because his want of intelligence makes him like a *be'ir*. *Ohalei Yehuda*
 reverses it: the animal behaves like a *ba'ar*. Either way, the connection may be alluded to in Tehillim 73:22.
 
-**What bur means.** Some explain it as a cognate of the other Mishnaic
-*bur*, an uncultivated, desolate field (Peah 2:1; Targum Onkelos to Bereishis
-47:19; so Rashi, the Tashbetz, the Bartenura and others to Avos 2:5). Rabbi Dr.
-Asher Weiser: from *bor*, a pit, the man whose mind is empty,
-and he links *be'er*, a wellspring, which holds only so much water, and *biur*,
-explanation, the antidote to the *ba'ar*'s ignorance, to that family. Rabbi
-Eliyahu HaBachur (*Sefer
-HaTishbi*): a form of *ba'ar* (Targum to Mishlei 12:1, 30:2). All three agree on the sense and differ on the image.
+**What bur means.**
+- Some explain it as a cognate of the other Mishnaic *bur*, an uncultivated,
+  desolate field (Peah 2:1; Targum Onkelos to Bereishis 47:19; so Rashi, the
+  Tashbetz, the Bartenura and others to Avos 2:5).
+- Rabbi Dr. Asher Weiser: from *bor*, a pit, the man whose mind is empty, and he
+  links *be'er*, a wellspring, which holds only so much water, and *biur*,
+  explanation, the antidote to the *ba'ar*'s ignorance, to that family.
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*): a form of *ba'ar* (Targum to
+  Mishlei 12:1, 30:2).
+
+All three agree on the sense and differ on the image.
 
 **Whether the English boor belongs here at all.** Rabbi Klein had
 assumed the English word came from the Hebrew *bur*, and when asked, the

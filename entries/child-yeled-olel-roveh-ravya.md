@@ -76,13 +76,16 @@ childhood, then *elem*. *Midrash Tadshe* (ch. 6) instead sets *elem* after
 *naar*, *roveh*, *elem*, *ish*, *sav*, *zaken*. In the Midrash's list *yeled* is
 the earliest stage.
 
-**How old a yeled is.** Pappenheim: not necessarily any specific age, and Yishmael is called
-a *yeled* at sixteen (Bereishis 21:15 to 16). Rashi (to Erachin 18b) on the
-Mishnah's *yeled* (*Erachin* 4:4): anyone from twenty to sixty, as against
-*zaken*, over sixty. Rabbi Eliyahu HaKohen of Izmir cites anonymous "sages of
-astrology" who put *yeled* at two to five, *naar* at five to eight, and *bachur*
-at eight to eighteen. The bracket schemes
-are context-bound.
+**How old a yeled is.**
+- Pappenheim: not necessarily any specific age, and Yishmael is called a *yeled*
+  at sixteen (Bereishis 21:15 to 16).
+- Rashi (to Erachin 18b) on the Mishnah's *yeled* (*Erachin* 4:4): anyone from
+  twenty to sixty, as against *zaken*, over sixty.
+- Rabbi Eliyahu HaKohen of Izmir cites anonymous "sages of astrology" who put
+  *yeled* at two to five, *naar* at five to eight, and *bachur* at eight to
+  eighteen.
+
+The bracket schemes are context-bound.
 
 **The Aramaic correspondences.** They do not line up. Onkelos usually renders
 *yeled* as *ravya* (Bereishis 21:8, 21:16; Shemos 2:6; see also Sukkah 5b), the

@@ -116,27 +116,30 @@ service, because "the *kategor* cannot become a *sanegor*" (the shofar in
 Hashanah* 36a and Yerushalmi *Yoma* 7:3).
 
 ### meltzar (מלצר)
-Appears twice in Daniel (1:11, 1:16), where it means a guard or a waiter. Rabbi
-Klein suggests it might come from the same core root as *meilitz*, with a reish
-appended as a suffix doing the work of the English *-er*, forming an agent noun
-from a verb or another noun, as a *baker* is one who *bakes* and a *butler* one
-who deals with *bottles*. There is some precedent for that pattern in the Rashbatz, Rabbi
-Shimon ben Tzemach Duran (1361-1444), to *Avos* 4:11, who explains the appended
-reish in Rabbi Yochanan HaSandler as marking his trade of shoemaker (a *sandal*
-being a shoe in Greek and Mishnaic Hebrew alike), and who offers as a second
-example the Mishnaic *palter*, professional baker (*Demai* 5:4, *Avodah Zarah*
-4:9), from the Greek *plateia*, open street, since such a baker would typically
-sell his goods on the street (*plateia* is the ancestor of English *place* and
-*plaza*). On that pattern the *meltzar* is one who does what a
-*meilitz* does, standing between kitchen and diners, or between his charge and
-those who would harm him. Rabbi Yaakov Yehuda Zilberberg (1914-2003) links it
-instead to sweetness of speech (Tehillim 119:103 with Rav Hirsch there): the
-*meilitz* makes his words tasty, the *meltzar* tastes the food. Dr. Chaim Tawil
-takes *meltzar* to be unrelated to *meilitz* altogether, a borrowing from the
-Akkadian *massaru*/*mansaru*, with the nun and lammed interchanging. (The
-Ashkenazic surname Meltzer is unrelated to the Biblical
-*meltzar*: it comes from the German and English *malt*, for the maltster who
-prepares grain for brewing.)
+Appears twice in Daniel (1:11, 1:16), where it means a guard or a waiter.
+- Rabbi Klein suggests it might come from the same core root as *meilitz*, with
+  a reish appended as a suffix doing the work of the English *-er*, forming an
+  agent noun from a verb or another noun, as a *baker* is one who *bakes* and a
+  *butler* one who deals with *bottles*. There is some precedent for that
+  pattern in the Rashbatz, Rabbi Shimon ben Tzemach Duran (1361-1444), to *Avos*
+  4:11, who explains the appended reish in Rabbi Yochanan HaSandler as marking
+  his trade of shoemaker (a *sandal* being a shoe in Greek and Mishnaic Hebrew
+  alike), and who offers as a second example the Mishnaic *palter*, professional
+  baker (*Demai* 5:4, *Avodah Zarah* 4:9), from the Greek *plateia*, open
+  street, since such a baker would typically sell his goods on the street
+  (*plateia* is the ancestor of English *place* and *plaza*). On that pattern
+  the *meltzar* is one who does what a *meilitz* does, standing between kitchen
+  and diners, or between his charge and those who would harm him.
+- Rabbi Yaakov Yehuda Zilberberg (1914-2003) links it instead to sweetness of
+  speech (Tehillim 119:103 with Rav Hirsch there): the *meilitz* makes his words
+  tasty, the *meltzar* tastes the food.
+- Dr. Chaim Tawil takes *meltzar* to be unrelated to *meilitz* altogether, a
+  borrowing from the Akkadian *massaru*/*mansaru*, with the nun and lammed
+  interchanging.
+
+(The Ashkenazic surname Meltzer is unrelated to the Biblical *meltzar*: it comes
+from the German and English *malt*, for the maltster who prepares grain for
+brewing.)
 
 ## Rendering guidance
 

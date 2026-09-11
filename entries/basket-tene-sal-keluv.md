@@ -51,32 +51,36 @@ large Mishnaic **hamper**.
 
 ## Where the authorities disagree
 
-**What the root ס-ל means.** Rav Hirsch (to Bamidbar 19:20; Tehillim 3:3): *sal*
-is literally "to lift," a basket being what helps a man lift and carry, and he
-places *sulam*, *solelah* (a siege mound) and *mesilah* (a road that climbs) in
-the same ס-ל family. Rabbi Aharon Marcus's theory of *sela* fits this: he
-proposed that in every word whose root is the biliteral ס-ל the
-samech stands in for an ayin that follows it, so the root is really ע-ל, what is
-above (*al*, *lemalah*) or ascends (*oleh*, *aliyah*), and *sela* is a rock that
-comes up out of the ground. Rabbi Shlomo
-Pappenheim reads ס-ל as repeated action instead: *mesilah* is a road because
-many have trodden it, and one who twists his hair over and over is *misalsel*
-(Rosh Hashanah 26b), so *sal* is a bread basket, an item in constant daily use
-(Bereishis
-40:16, Vayikra 8:2). Pappenheim himself admits that *sal* can mean any basket in a borrowed sense, even a basket
-of meat (Shoftim 6:19) or grapes (Yirmiyahu 6:9). Against all of this, Dr. Chaim
-Tawil points out that the Hebrew *sal* seems in fact to derive from the Akkadian
-*sallu*, which likewise means basket.
+**What the root ס-ל means.**
+- Rav Hirsch (to Bamidbar 19:20; Tehillim 3:3): *sal* is literally "to lift," a
+  basket being what helps a man lift and carry, and he places *sulam*, *solelah*
+  (a siege mound) and *mesilah* (a road that climbs) in the same ס-ל family.
+  Rabbi Aharon Marcus's theory of *sela* fits this: he proposed that in every
+  word whose root is the biliteral ס-ל the samech stands in for an ayin that
+  follows it, so the root is really ע-ל, what is above (*al*, *lemalah*) or
+  ascends (*oleh*, *aliyah*), and *sela* is a rock that comes up out of the
+  ground.
+- Rabbi Shlomo Pappenheim reads ס-ל as repeated action instead: *mesilah* is a
+  road because many have trodden it, and one who twists his hair over and over
+  is *misalsel* (Rosh Hashanah 26b), so *sal* is a bread basket, an item in
+  constant daily use (Bereishis 40:16, Vayikra 8:2). Pappenheim himself admits
+  that *sal* can mean any basket in a borrowed sense, even a basket of meat
+  (Shoftim 6:19) or grapes (Yirmiyahu 6:9).
+- Against all of this, Dr. Chaim Tawil points out that the Hebrew *sal* seems in
+  fact to derive from the Akkadian *sallu*, which likewise means basket.
 
-**Where tene comes from.** Rabbi Pappenheim: the aleph is not root, the root
-being ט-נ, and the word names a basket typically woven with gaps so that air reaches the
-fruit and keeps it from spoiling; from the same root he takes *eitun* (Mishlei
-7:16), cloth woven loosely enough to breathe, and Rabbi Yaakov Tzvi Mecklenburg
-adds that the ט-נ in *shaatnez* likewise carries weaving. Rabbi Aharon Marcus
-keeps the link to *eitun* but holds both are of Egyptian origin, and Rabbi
-Ernest Klein likewise treats *tene* as an Egyptian loanword; Rabbi David Chaim
-Chelouche connects it instead to *beten*, a stomach, a basket being an open
-cavity. The origin remains open.
+**Where tene comes from.**
+- Rabbi Pappenheim: the aleph is not root, the root being ט-נ, and the word
+  names a basket typically woven with gaps so that air reaches the fruit and
+  keeps it from spoiling; from the same root he takes *eitun* (Mishlei 7:16),
+  cloth woven loosely enough to breathe, and Rabbi Yaakov Tzvi Mecklenburg adds
+  that the ט-נ in *shaatnez* likewise carries weaving.
+- Rabbi Aharon Marcus keeps the link to *eitun* but holds both are of Egyptian
+  origin, and Rabbi Ernest Klein likewise treats *tene* as an Egyptian loanword.
+- Rabbi David Chaim Chelouche connects it instead to *beten*, a stomach, a
+  basket being an open cavity.
+
+The origin remains open.
 
 ## Distinctions
 

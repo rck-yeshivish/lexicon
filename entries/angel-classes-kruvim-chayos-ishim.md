@@ -28,14 +28,17 @@ general word for **angels**.
 ## Distinctions
 
 ### the lists
-Rambam's ten are as above. The *Orchos Chaim* (*Seder Tefillas Shabbos
-Shacharis* §2) and the *Kolbo* (§37) cite the tradition as nine, dropping
-*malachim*, *elohim*, *bnei elohim*, and *ishim*, and adding *galgalim*, *irin*,
-and *kadishin*. The kabbalistic *Masechta Atzilus* has ten that follow Rambam
-but replace *chayos* and *elohim* with *shananim* and *tarshishim*. Rabbi Moshe
-ibn Chaviv notes that angels are also called *abirim* (Tehillim 78:25). Rabbi Dovid Luria, in his glosses to *Pirkei d'Rabbi
-Eliezer* ch. 4, understands that midrash to hold *ofanim* and *galgalim*
-synonymous, and *kruvim* and *chayos* likewise.
+- Rambam's ten are as above.
+- The *Orchos Chaim* (*Seder Tefillas Shabbos Shacharis* §2) and the *Kolbo*
+  (§37) cite the tradition as nine, dropping *malachim*, *elohim*, *bnei
+  elohim*, and *ishim*, and adding *galgalim*, *irin*, and *kadishin*.
+- The kabbalistic *Masechta Atzilus* has ten that follow Rambam but replace
+  *chayos* and *elohim* with *shananim* and *tarshishim*.
+- Rabbi Moshe ibn Chaviv notes that angels are also called *abirim* (Tehillim
+  78:25).
+- Rabbi Dovid Luria, in his glosses to *Pirkei d'Rabbi Eliezer* ch. 4,
+  understands that midrash to hold *ofanim* and *galgalim* synonymous, and
+  *kruvim* and *chayos* likewise.
 
 ### chayos (חיות)
 The highest created rank: they are not the

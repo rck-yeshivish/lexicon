@@ -68,18 +68,22 @@ they differ.
 
 ## Where the authorities disagree
 
-**What shokek means.** The Vilna Gaon (to Mishlei 28:15) takes it as the bear's
-roar, tied to *shokek* in the sense of desire, since a bear is perpetually
-hungry. Other commentators, among them Ibn Janach and Radak, deny it is a sound
-at all: it describes the bear's sauntering walk, and Radak relates it to *shok*,
-the calf of the leg that moves as one walks.
-Rabbi Shlomo Pappenheim sides with sound but by a different route, tracing it to
-ש-ק, "making consecutive sounds," which also yields *teshukah* (desire, since in
-the throes of desire the heartbeat grows noticeably consistent and consecutive)
-and *neshikah* (a kiss, either the outward realization of *teshukah* or because
-kissing makes a distinct sound) and *neshek* (a weapon, either because its
-mechanics make a certain noise or because two combatants approaching each other
-on the battlefield resemble two lovers approaching for a kiss). Two of the three read it as a sound; the gait reading remains live.
+**What shokek means.**
+- The Vilna Gaon (to Mishlei 28:15) takes it as the bear's roar, tied to
+  *shokek* in the sense of desire, since a bear is perpetually hungry.
+- Other commentators, among them Ibn Janach and Radak, deny it is a sound at
+  all: it describes the bear's sauntering walk, and Radak relates it to *shok*,
+  the calf of the leg that moves as one walks.
+- Rabbi Shlomo Pappenheim sides with sound but by a different route, tracing it
+  to ש-ק, "making consecutive sounds," which also yields *teshukah* (desire,
+  since in the throes of desire the heartbeat grows noticeably consistent and
+  consecutive) and *neshikah* (a kiss, either the outward realization of
+  *teshukah* or because kissing makes a distinct sound) and *neshek* (a weapon,
+  either because its mechanics make a certain noise or because two combatants
+  approaching each other on the battlefield resemble two lovers approaching for
+  a kiss).
+
+Two of the three read it as a sound; the gait reading remains live.
 
 **What separates the lion's four verbs.** Rabbi Yechiel Michel Stern, Rav of the
 Ezras Torah neighborhood in Yerushalayim, suggests that the difference is the

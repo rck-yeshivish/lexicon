@@ -65,20 +65,21 @@ between *bichrah* and the *kar hagamal* of Bereishis 31:34. Rabbi Reuven Chaim K
 the dispute standing. Rabbi Ernest Klein holds *becher* cognate with
 the Arabic *bakuru* and the Akkadian *bakru*, both of them a young camel.
 
-**What kar means.** Ibn Ezra himself appears to give two answers in two places. To
-Yeshayahu 16:1 it is a kind of camel that runs very fast; Rabbi Yehuda Ibn
-Balaam links this to the Gemara's *gamla parcha*, the "flying camel" (Yevamos
-116a, Sanhedrin 107b). To Bereishis 31:34, where Rachel hides Lavan's terafim in
-the *kar hagamal*, it is the camel's saddle-basket. Rabbi Tanchum HaYerushalmi
-(*HaMadrich HaMaspik*) reconciles them: the core sense is a pillow, a camel's
-saddle is called *kar* because it looks like two pillows side by side, and from
-the saddle the name passed to the animal. Ibn Janach (*Sefer HaShorashim*) makes
-*kar* a young camel outright; Radak (*Sefer HaShorashim*) cites his father Rabbi
-Yosef Kimchi
-that *kar* is a *keves*, a young sheep, not a camel at all. Rabbi Shlomo
-Pappenheim leaves the camel aside and ties *kar* to כ-ר, digging: a *kar* is a
-fertile field, marked out by ditches dug round it, and *karim* are the fattened
-animals that graze there.
+**What kar means.**
+- Ibn Ezra himself appears to give two answers in two places. To Yeshayahu 16:1
+  it is a kind of camel that runs very fast; Rabbi Yehuda Ibn Balaam links this
+  to the Gemara's *gamla parcha*, the "flying camel" (Yevamos 116a, Sanhedrin
+  107b). To Bereishis 31:34, where Rachel hides Lavan's terafim in the *kar
+  hagamal*, it is the camel's saddle-basket. Rabbi Tanchum HaYerushalmi
+  (*HaMadrich HaMaspik*) reconciles them: the core sense is a pillow, a camel's
+  saddle is called *kar* because it looks like two pillows side by side, and
+  from the saddle the name passed to the animal.
+- Ibn Janach (*Sefer HaShorashim*) makes *kar* a young camel outright.
+- Radak (*Sefer HaShorashim*) cites his father Rabbi Yosef Kimchi that *kar* is
+  a *keves*, a young sheep, not a camel at all.
+- Rabbi Shlomo Pappenheim leaves the camel aside and ties *kar* to כ-ר, digging:
+  a *kar* is a fertile field, marked out by ditches dug round it, and *karim*
+  are the fattened animals that graze there.
 
 **What kirkaros are** (Yeshayahu 66:20). Ibn Ezra: an especially prominent kind
 of camel, which he links to his own *kar*. Radak (there and in *Sefer
@@ -86,32 +87,33 @@ HaShorashim*): a general word for a camel or any swift-running animal. Rabbi
 Yosef Bechor Shor (to Bamidbar 7:3): young female calves that skip and jump as
 though dancing. All three are live.
 
-**Why the camel is named from ג-מ-ל.** Menachem Ibn Saruk simply lists three
-senses of the root, growing, repaying, and camel, without joining them. Rav
-Hirsch (to Bereishis 12:16, 21:8, 24:17) unifies them under "sufficiently
-nourished and no longer needing outside help": a weaned child (Bereishis 21:8,
-Shmuel I 1:23, Yeshayahu 28:9, Hoshea 1:8), a ripened fruit the tree has
-finished feeding (Bamidbar 17:23, Yeshayahu 18:5), a debt repaid and so brought
-to its conclusion (Tehillim 7:5, Shmuel I 24:18, Mishlei 31:12, Tehillim 13:6,
-116:12); and he suggests that perhaps the camel too, having filled its hump with
-water and needing none for a long while, seems "weaned" from drinking. Rabbi
-Reuven Chaim Klein adds, as his own, that Rav Hirsch does not say so but that these
-explanations may support tying ג-מ-ל to ג-מ-ר, *gamar*, "finishing," on the
-lammed/reish interchange: a toddler or a fruit is weaned only on completing its
-term of growth, a debt is typically repaid only when the loan reaches maturity (see Bava
-Basra 5b), and perhaps the camel too, which functions in the desert once it has finished drinking.
-Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) offers several etymologies; the
-best, to Rabbi Klein, is a compound: *gav*
-(body, inside) plus *maleh* (full), the beast that fills itself before a long
-crossing. Rabbi Klein finds the other three less compelling: from *gamad* (a
-dwarf, the
-camel's opposite), from *gav* plus *mal* (he notes it is unclear whether
-*Aholei Yehudah* means "cut" or "speaking"), and from *giben* (humpbacked) on the
-interchange of mem with beis and lamed with nun. *Aholei Yehudah* also connects *gamal* to
-*gomel*, repaying, on the strength of Chazal's teaching that camels are modest
-in mating and will not couple before others (Rashi to Bereishis 32:16,
-*Bereishis Rabbah* 76:7): the camel behaves as though it knows Hashem repays
-those who act properly.
+**Why the camel is named from ג-מ-ל.**
+- Menachem Ibn Saruk simply lists three senses of the root, growing, repaying,
+  and camel, without joining them.
+- Rav Hirsch (to Bereishis 12:16, 21:8, 24:17) unifies them under "sufficiently
+  nourished and no longer needing outside help": a weaned child (Bereishis 21:8,
+  Shmuel I 1:23, Yeshayahu 28:9, Hoshea 1:8), a ripened fruit the tree has
+  finished feeding (Bamidbar 17:23, Yeshayahu 18:5), a debt repaid and so
+  brought to its conclusion (Tehillim 7:5, Shmuel I 24:18, Mishlei 31:12,
+  Tehillim 13:6, 116:12); and he suggests that perhaps the camel too, having
+  filled its hump with water and needing none for a long while, seems "weaned"
+  from drinking. Rabbi Reuven Chaim Klein adds, as his own, that Rav Hirsch does
+  not say so but that these explanations may support tying ג-מ-ל to ג-מ-ר,
+  *gamar*, "finishing," on the lammed/reish interchange: a toddler or a fruit is
+  weaned only on completing its term of growth, a debt is typically repaid only
+  when the loan reaches maturity (see Bava Basra 5b), and perhaps the camel too,
+  which functions in the desert once it has finished drinking.
+- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) offers several
+  etymologies; the best, to Rabbi Klein, is a compound: *gav* (body, inside)
+  plus *maleh* (full), the beast that fills itself before a long crossing. Rabbi
+  Klein finds the other three less compelling: from *gamad* (a dwarf, the
+  camel's opposite), from *gav* plus *mal* (he notes it is unclear whether
+  *Aholei Yehudah* means "cut" or "speaking"), and from *giben* (humpbacked) on
+  the interchange of mem with beis and lamed with nun. *Aholei Yehudah* also
+  connects *gamal* to *gomel*, repaying, on the strength of Chazal's teaching
+  that camels are modest in mating and will not couple before others (Rashi to
+  Bereishis 32:16, *Bereishis Rabbah* 76:7): the camel behaves as though it
+  knows Hashem repays those who act properly.
 
 ## Distinctions
 

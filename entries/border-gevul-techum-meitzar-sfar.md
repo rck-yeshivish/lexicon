@@ -78,16 +78,16 @@ Harari and the Yiddish/German Berg, all of them meaning "mountain."
 The standard Targumic rendering of *gevul* (Targum to Bereishis 10:19, 23:17,
 Shemos 19:12, 19:23, Devarim 19:4), and in Mishnaic Hebrew the word for what
 falls inside a bound: *techum Shabbos*, the two thousand amos outside the city
-within which one may walk on Shabbos (*Eruvin* 5:5, *Beitzah* 4:2, *Sotah*
-5:3). Rabbi Ernest Klein, in his etymological dictionary of Hebrew, takes the
-Rabbinic Hebrew *techum* as a loanword from that Aramaic word, which he in turn
-sees as borrowed from the Akkadian *tahumu*. Rabbi Benzion Chaim Lubetzki
-(*Midrash Safah Echas*) reads it as a
-metathesis of *chasum*, "sealed," the space inside being sealed off by what
-rings it. Rabbi Golumb sets the tav aside and takes the core root as ח-ו-ם,
-"brown/red," again from the fortifying a frontier needs; Rabbi Reuven Chaim Klein records
-the derivation without being able to reconstruct how Rabbi Golumb gets from the
-color to the border.
+within which one may walk on Shabbos (*Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3).
+- Rabbi Ernest Klein, in his etymological dictionary of Hebrew, takes the
+  Rabbinic Hebrew *techum* as a loanword from that Aramaic word, which he in
+  turn sees as borrowed from the Akkadian *tahumu*.
+- Rabbi Benzion Chaim Lubetzki (*Midrash Safah Echas*) reads it as a metathesis
+  of *chasum*, "sealed," the space inside being sealed off by what rings it.
+- Rabbi Golumb sets the tav aside and takes the core root as ח-ו-ם, "brown/red,"
+  again from the fortifying a frontier needs; Rabbi Reuven Chaim Klein records
+  the derivation without being able to reconstruct how Rabbi Golumb gets from
+  the color to the border.
 
 ### meitzar (מיצר) and mitzarim (מצרים)
 Rabbi Yehuda Ibn Kuraish (*Risala*) identifies *mitzarim* in Eichah 1:3 as the

@@ -51,55 +51,53 @@ visible from afar), *negev* (dry highland), *geveh* (surface pools, higher than
 an underground spring), *govai* (grasshoppers, which haunt the *geveh*), and
 *yogvim* (those who trap them).
 
-Rabbi Aharon Marcus works the same biliteral ג-ב, which he argues comes in turn
-from the monoliteral ג, but defines it as height:
-*gavoah*; *gibor*, who rises above his enemies; *gabachas* (Vayikra 13:41-42),
-the bald patch at the top of the forehead; *givah*, a hill; *elgavish*
-(Yechezkel 13:11, 13:13, 38:22), hail, falling from on high. He also brings in
-the Arabic *jabal*, "mountain," from which the Hebrew *gvul*, "border," possibly
-derives, that too being a feature that runs upward. He adds ג-ב-ן here
-as a hump, without saying whether he means the cheese or the blemish. Alexander
-Kohut, in his *Aruch HaShalem*, suggests connecting *gavnunim* itself with
-*jabal*/*gvul* on the interchange of nun and lammed, so that *gavnunim* simply
-means mountainous or hilly. Rabbi Avi
-Kobernick reads ג-ב-ן against its metatheses ג-נ-ב (stealing) and נ-ג-ב
-(drying): in each, something integral is removed from where it belongs, the
-object from its owner, the moisture from the substance, liquid from curds.
+- Rabbi Aharon Marcus works the same biliteral ג-ב, which he argues comes in
+  turn from the monoliteral ג, but defines it as height: *gavoah*; *gibor*, who
+  rises above his enemies; *gabachas* (Vayikra 13:41-42), the bald patch at the
+  top of the forehead; *givah*, a hill; *elgavish* (Yechezkel 13:11, 13:13,
+  38:22), hail, falling from on high. He also brings in the Arabic *jabal*,
+  "mountain," from which the Hebrew *gvul*, "border," possibly derives, that too
+  being a feature that runs upward. He adds ג-ב-ן here as a hump, without saying
+  whether he means the cheese or the blemish.
+- Alexander Kohut, in his *Aruch HaShalem*, suggests connecting *gavnunim*
+  itself with *jabal*/*gvul* on the interchange of nun and lammed, so that
+  *gavnunim* simply means mountainous or hilly.
+- Rabbi Avi Kobernick reads ג-ב-ן against its metatheses ג-נ-ב (stealing) and
+  נ-ג-ב (drying): in each, something integral is removed from where it belongs,
+  the object from its owner, the moisture from the substance, liquid from curds.
 
-Derashos, and the question of why dairy is eaten on Shavuos: Rabbi
-Shimshon of Ostropoli connects it to *Har Gavnunim*,
-an alternate name for Sinai (Tehillim 68:16-17), from *gvinah*. *Shemos Rabbah*
-2:4, which assumes the name relates somehow to *gvinah* and
-to cheese-making, expounds it on the model of cheese, which draws the purest
-curds off
-from the dross: of all the mountains Hashem chose the one clean and pure of
-avodah zarah, and Klal
-Yisrael stood there in their purest state, every dross-like blemish healed.
-Rabbi Yosef Nissim Ben-Adahan:
-*gvinah* has the gematria of seventy, for the seventy planes of interpretation
-in every part of Torah. Rabbi Klein adds two further answers:
-David HaMelech died on Shavuos by tradition (Yerushalmi *Chagigah* 2:3, *Rus
-Rabbah* 3:2), and since most of Tanach's cheese occurs in his story, perhaps the
-custom marks him; or, since the heter of dairy is derived from a story about
-him, we honor his memory on the day of his petirah by eating milk foods.
+Derashos, and the question of why dairy is eaten on Shavuos:
+- Rabbi Shimshon of Ostropoli connects it to *Har Gavnunim*, an alternate name
+  for Sinai (Tehillim 68:16-17), from *gvinah*.
+- *Shemos Rabbah* 2:4, which assumes the name relates somehow to *gvinah* and to
+  cheese-making, expounds it on the model of cheese, which draws the purest
+  curds off from the dross: of all the mountains Hashem chose the one clean and
+  pure of avodah zarah, and Klal Yisrael stood there in their purest state,
+  every dross-like blemish healed.
+- Rabbi Yosef Nissim Ben-Adahan: *gvinah* has the gematria of seventy, for the
+  seventy planes of interpretation in every part of Torah.
+- Rabbi Klein adds two further answers: David HaMelech died on Shavuos by
+  tradition (Yerushalmi *Chagigah* 2:3, *Rus Rabbah* 3:2), and since most of
+  Tanach's cheese occurs in his story, perhaps the custom marks him; or, since
+  the heter of dairy is derived from a story about him, we honor his memory on
+  the day of his petirah by eating milk foods.
 
 ### charitz (חריץ)
 Yishai sends David with ten *charitzei hechalav* to the officer (Shmuel I
 17:18). Targum Yonasan, Rashi, and *Machberes Menachem* read cheese, and
 Bechoros 6b uses the pasuk as one of two proofs that milk and its products are
 permitted and are not *eiver min hachai*. On why the root ח-ר-צ should mean
-cheese: Radak (*Sefer HaShorashim*) and Rabbi Avraham ben Shlomo, pieces of
-fresh cheese, whose making somehow involves a shaking that resembles threshing,
-and threshing is
-*charutz* (Yeshayahu 10:22, 28:27); Rabbi Yosef Kara (to Shmuel I 17:18),
-cheese was often gathered in *charitzim*, ditches dug in the ground (Daniel 9:25;
-*Eruvin* 7:3; *Bava Kamma* 5:5; *Mikvaos* 5:6); *Metzudas Tzion* (there)
-suggests that perhaps
-cheese was cut to fixed measures while still being processed, and *charitz* is
-cutting
-(Iyov 14:5); Rabbi Tedeschi-Ashkenazi (*Hoil Moshe* to Shmuel II 17:29),
-*charitz* as sharp, a
-cheese of fermented milk with a tangy flavor.
+cheese:
+- Radak (*Sefer HaShorashim*) and Rabbi Avraham ben Shlomo, pieces of fresh
+  cheese, whose making somehow involves a shaking that resembles threshing, and
+  threshing is *charutz* (Yeshayahu 10:22, 28:27).
+- Rabbi Yosef Kara (to Shmuel I 17:18), cheese was often gathered in
+  *charitzim*, ditches dug in the ground (Daniel 9:25; *Eruvin* 7:3; *Bava
+  Kamma* 5:5; *Mikvaos* 5:6).
+- *Metzudas Tzion* (there) suggests that perhaps cheese was cut to fixed
+  measures while still being processed, and *charitz* is cutting (Iyov 14:5).
+- Rabbi Tedeschi-Ashkenazi (*Hoil Moshe* to Shmuel II 17:29), *charitz* as
+  sharp, a cheese of fermented milk with a tangy flavor.
 
 Against all of these, *Midrash Shmuel* 20:4 takes *charitzei hechalav* not as
 cheese but as young kids, either not yet weaned (*Mahari Cohen*, *Eitz Yosef*,
@@ -119,27 +117,29 @@ utensils carry a notch.
 
 ### shfot (שפות)
 David in flight from Avshalom is brought *shfot bakar* (Shmuel II 17:29), which
-Targum Yonasan again renders *guvnin d'chalav*. *Midrash Shocher Tov* (to
-Tehillim 3): not ordinary cheese, but cow's cheese so slick flies slid off it;
-Rabbi Chaim Dov Rabinowitz (*Daas Sofrim* there) reads that as heavily
-preserved cheese fit for a long journey. Radak and *Metzudas Tzion* tie the
-word to ש-פ, rubbing and massaging (Iyov 33:21; Radak, *Sefer HaShorashim*).
-Rabbi Pappenheim defines the biliteral as movement by rubbing, shifting a thing
-without lifting it, and takes *shfot bakar* as soft, spreadable cheese. Rabbi
-Tedeschi-Ashkenazi (*Hoil Moshe* to Tehillim 127:5, Shmuel II 17:29, Yechezkel
-40:43) ties it to the homonymous *shfot*, setting a pot by the fire (Melachim II
-4:38), the shared sense being bringing things closer or joining them: pot to
-fire, the cheesy particles in the milk into one glob; he groups *ashpah*, the
-bin or container for arrows, and *shifshuf* with it, and
-alternatively makes *shfot* the wicker baskets used to filter fermenting milk,
-separating the curds from the whey. Josephus
-mentions a place in Yerushalayim called the Tyropoeon, the Valley of the
-Cheesemakers, which some scholars have identified with Shaar HaAshpah, on the
-strength of that link between *ashpah* and *shfot*.
+Targum Yonasan again renders *guvnin d'chalav*.
+- *Midrash Shocher Tov* (to Tehillim 3): not ordinary cheese, but cow's cheese
+  so slick flies slid off it; Rabbi Chaim Dov Rabinowitz (*Daas Sofrim* there)
+  reads that as heavily preserved cheese fit for a long journey.
+- Radak and *Metzudas Tzion* tie the word to ש-פ, rubbing and massaging (Iyov
+  33:21; Radak, *Sefer HaShorashim*).
+- Rabbi Pappenheim defines the biliteral as movement by rubbing, shifting a
+  thing without lifting it, and takes *shfot bakar* as soft, spreadable cheese.
+- Rabbi Tedeschi-Ashkenazi (*Hoil Moshe* to Tehillim 127:5, Shmuel II 17:29,
+  Yechezkel 40:43) ties it to the homonymous *shfot*, setting a pot by the fire
+  (Melachim II 4:38), the shared sense being bringing things closer or joining
+  them: pot to fire, the cheesy particles in the milk into one glob; he groups
+  *ashpah*, the bin or container for arrows, and *shifshuf* with it, and
+  alternatively makes *shfot* the wicker baskets used to filter fermenting milk,
+  separating the curds from the whey. Josephus mentions a place in Yerushalayim
+  called the Tyropoeon, the Valley of the Cheesemakers, which some scholars have
+  identified with Shaar HaAshpah, on the strength of that link between *ashpah*
+  and *shfot*.
+
 Dissenting: Ibn Janach again offers milk in the udder; Radak the udders
-themselves; Rabbi Avraham ben Shlomo butter, which Rabbi Klein finds difficult, since *chemah* is
-already named in the pasuk. See *Chasam Sofer* 6:22 on why Bechoros 6b did not
-bring this pasuk as its proof.
+themselves; Rabbi Avraham ben Shlomo butter, which Rabbi Klein finds difficult,
+since *chemah* is already named in the pasuk. See *Chasam Sofer* 6:22 on why
+Bechoros 6b did not bring this pasuk as its proof.
 
 ## Rendering guidance
 

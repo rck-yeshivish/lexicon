@@ -30,16 +30,19 @@ which stage is meant.
 Four times in Tanach: twice in the *shiluach haken* passage (Devarim 22:6-7),
 then Iyov 39:30 and Tehillim 84:4; three times in the Mishnah (*Shabbos* 18:2,
 *Eduyos* 4:2, *Chullin* 12:3).
-Menachem Ibn Saruk takes it as the sole derivative of a four-letter root
-א-פ-ר-ח; Ibn Janach and Radak read the root as פ-ר-ח, "to grow, to flower," the
-root of *perach*, a flower. Ibn Ezra (to Devarim 22:6) says outright that the
-*aleph* is not part of the root. Ibn Janach: the *efroach* looks as though it
-sprouted out of its egg. Radak and Rabbi Shlomo Pappenheim: it is named for the
-growing it still has ahead of it before it flowers into a mature bird. Rabbi
-Aharon Marcus reduces the root to the two-letter core פ-ר, spawning off into
-segments. Rav Hirsch (to Bereishis 16:11) groups it with *para*, *pere*,
-*parah*, *bara*, *barach* and *barah*, all turning on unhindered movement and
-so on growth.
+- Menachem Ibn Saruk takes it as the sole derivative of a four-letter root
+  א-פ-ר-ח.
+- Ibn Janach and Radak read the root as פ-ר-ח, "to grow, to flower," the root of
+  *perach*, a flower. Ibn Ezra (to Devarim 22:6) says outright that the *aleph*
+  is not part of the root.
+- Ibn Janach: the *efroach* looks as though it sprouted out of its egg.
+- Radak and Rabbi Shlomo Pappenheim: it is named for the growing it still has
+  ahead of it before it flowers into a mature bird.
+- Rabbi Aharon Marcus reduces the root to the two-letter core פ-ר, spawning off
+  into segments.
+- Rav Hirsch (to Bereishis 16:11) groups it with *para*, *pere*, *parah*,
+  *bara*, *barach* and *barah*, all turning on unhindered movement and so on
+  growth.
 
 ### gozal (גוזל)
 Twice in Tanach, at Bereishis 15:9 (the Covenant Between the Pieces) and
@@ -65,12 +68,13 @@ Rav Hirsch (to Shemos 23:19): the hatchling begins as its mother's charge, and
 when it matures enough to leave the nest it "steals" itself away from her.
 
 A cryptic remark of Ibn Ezra at Devarim 32:11 on how *gozal* and *efroach*
-relate is read
-three ways: Rabbi Yitzchak Sarim, that *gozal* is not only a young eagle but any
-young bird; Rabbi Shlomo Kohen of Lissa, that *gozal* is synecdoche, naming both
-the whole set (young birds) and one part of it (a certain dove); and Rabbi Dr.
-Asher Weiser (editor of the Mossad HaRav Kook edition of Ibn Ezra on Chumash),
-that the two are plain synonyms.
+relate is read three ways:
+- Rabbi Yitzchak Sarim, that *gozal* is not only a young eagle but any young
+  bird;
+- Rabbi Shlomo Kohen of Lissa, that *gozal* is synecdoche, naming both the whole
+  set (young birds) and one part of it (a certain dove);
+- and Rabbi Dr. Asher Weiser (editor of the Mossad HaRav Kook edition of Ibn
+  Ezra on Chumash), that the two are plain synonyms.
 
 Rabbi Yaakov Kamenetsky and Rabbi Shmuel Ashkenazi argue that the two words
 mark two stages in a small bird's maturing: the *efroach* still needs its
@@ -102,13 +106,14 @@ cuts of chicken meat, which is not the Rabbinic sense.
 ### nipol (ניפול)
 From the Mishnah at *Bava Basra* 2:6 (see 23b): a young bird found near a
 dovecote, which the finder may keep if it was more than fifty *amos* away.
-Rashi glosses *nipol* as a *gozal*, though Rabbi Reuven Chaim Klein cautions that this does
-not make the two terms synonymous. The Mainz commentary ascribed to
-Rabbeinu Gershom, and Rambam in his commentary to the Mishnah, define it as a
-bird that *fell* from its cote, cognate with *nofel*; some vocalize it
-*naful*/*nafil*, "the fallen one" (*Melechess Shlomo*, and the Kaufmann
-manuscript). Rabbi Shlomo Ganzfried, on the strength of *Chullin* 65a, takes
-*nipol* as a species of grasshopper rather than a bird at all.
+- Rashi glosses *nipol* as a *gozal*, though Rabbi Reuven Chaim Klein cautions
+  that this does not make the two terms synonymous.
+- The Mainz commentary ascribed to Rabbeinu Gershom, and Rambam in his
+  commentary to the Mishnah, define it as a bird that *fell* from its cote,
+  cognate with *nofel*; some vocalize it *naful*/*nafil*, "the fallen one"
+  (*Melechess Shlomo*, and the Kaufmann manuscript).
+- Rabbi Shlomo Ganzfried, on the strength of *Chullin* 65a, takes *nipol* as a
+  species of grasshopper rather than a bird at all.
 
 ## Rendering guidance
 

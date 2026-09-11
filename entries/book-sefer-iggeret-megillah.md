@@ -38,18 +38,21 @@ The generic term, used of the twenty-four books (though some are called a
 erase me from Your *sefer* that You wrote (Shemos 32:32),
 where the word is a book or written document plainly.
 
-Rabbi Elimelech of Lizhensk: *sefer* is from *sfar*, a border, since as a
-border guards a country by making one clear it to enter, the Torah guards Klal
-Yisrael in their closeness to Hashem. Rabbi Moshe Shapiro takes the whole
-ס-פ-ר family as unifying disparate parts: *sippur* joins details into one
-narrative, *sfar* binds a territory into one polity, *mispar* and *sofer* bind
-numbers into one ordered system, and a *sefer* binds all it contains into one
-entity, and this holds of books in general and not only sifrei kodesh. Professor
-Raymond P. Dougherty of Yale wrote to explain how *sefer* grows out of the core
-sense "to count": counting is a mental act, memory is unreliable, so one falls
-back on a written tally, and from there *sofer* comes to mean scribe and *sefer*
-a record, a letter, a book. Avodah Zarah 24b notes that the Persian for *sefer* is *dvir*, which is
-how it explains the city Dvir being renamed Kiryas Sefer (Shoftim 1:11).
+- Rabbi Elimelech of Lizhensk: *sefer* is from *sfar*, a border, since as a
+  border guards a country by making one clear it to enter, the Torah guards Klal
+  Yisrael in their closeness to Hashem.
+- Rabbi Moshe Shapiro takes the whole ס-פ-ר family as unifying disparate parts:
+  *sippur* joins details into one narrative, *sfar* binds a territory into one
+  polity, *mispar* and *sofer* bind numbers into one ordered system, and a
+  *sefer* binds all it contains into one entity, and this holds of books in
+  general and not only sifrei kodesh.
+- Professor Raymond P. Dougherty of Yale wrote to explain how *sefer* grows out
+  of the core sense "to count": counting is a mental act, memory is unreliable,
+  so one falls back on a written tally, and from there *sofer* comes to mean
+  scribe and *sefer* a record, a letter, a book.
+
+Avodah Zarah 24b notes that the Persian for *sefer* is *dvir*, which is how it
+explains the city Dvir being renamed Kiryas Sefer (Shoftim 1:11).
 
 ### megillah (מגילה)
 Rabbi Shlomo Pappenheim traces it to the biliteral ג-ל, round, with *gal* (a
@@ -114,16 +117,19 @@ covers halachic letters sent from Eretz Yisrael to Bavel by Ravin (Kesubos 49b,
 Bava Metzia 114a, Niddah 68a; see also Shabbos 115a, Bava Basra 41b,
 Sanhedrin 29a), and Shabbos 19a speaks of sending an *iggeret* by post.
 
-On etymology the authorities split. Rabbeinu Tam (in Tosafos to Kesubos 100b):
-an *iggeret* is a document issued by one beis din to be sent to another. In line
-with that, Rabbi Moshe Chaim Leiter of Kiryat Sefer suggests it may derive from
-ג-ר, temporary residence, since a document written to be sent elsewhere has only
-a short-lived first home; Rabbi Shlomo Pappenheim offers a similar understanding,
-a document moved about a province so as to publicize its contents thoroughly,
-which is closer still to Rabbi Faur. Rabbi Shlomo Aharon
-Wertheimer derives it instead from *agur*, a collection stored long term, so an
-*iggeret* is a document meant to be preserved, which on the surface, Rabbi Reuven Chaim Klein
-says, seems to contradict Rabbi Faur and Rabbi Soloveitchik.
+On etymology the authorities split.
+- Rabbeinu Tam (in Tosafos to Kesubos 100b): an *iggeret* is a document issued
+  by one beis din to be sent to another. In line with that, Rabbi Moshe Chaim
+  Leiter of Kiryat Sefer suggests it may derive from ג-ר, temporary residence,
+  since a document written to be sent elsewhere has only a short-lived first
+  home.
+- Rabbi Shlomo Pappenheim offers a similar understanding, a document moved about
+  a province so as to publicize its contents thoroughly, which is closer still
+  to Rabbi Faur.
+- Rabbi Shlomo Aharon Wertheimer derives it instead from *agur*, a collection
+  stored long term, so an *iggeret* is a document meant to be preserved, which
+  on the surface, Rabbi Reuven Chaim Klein says, seems to contradict Rabbi Faur
+  and Rabbi Soloveitchik.
 
 Malbim's summary is the compact one: an *iggeret* is a document
 between two parties; a *sefer* tells (*mesaper*) about a subject; a *megillah*

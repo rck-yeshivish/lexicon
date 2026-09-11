@@ -86,10 +86,13 @@ rather than a ruling: perhaps in Hebrew *shaked* is the almond fruit or nut
 itself and names the tree only in a borrowed sense, while *luz* names the tree
 directly; Avraham Even-Shoshan's dictionary seems to follow that approach.
 
-Not everyone equates them. Another version of Rabbi Saadia Gaon's commentary has
-*luz* as the silverleaf poplar; Menachem Ibn Saruk writes that the *luz* is
-related to the cedar; and there are many opinions that take *luz* as hazel
-(Rashi and Tosafos to Bechoros 8a, Rashi to Bereishis 30:38 and to Shoftim 1:26).
+Not everyone equates them.
+- Another version of Rabbi Saadia Gaon's commentary has *luz* as the silverleaf
+  poplar;
+- Menachem Ibn Saruk writes that the *luz* is related to the cedar;
+- and there are many opinions that take *luz* as hazel (Rashi and Tosafos to
+  Bechoros 8a, Rashi to Bereishis 30:38 and to Shoftim 1:26).
+
 Targum Onkelos seems to follow one of these, since he renders *shaked*
 consistently as *segd* (Bereishis 43:11, Bamidbar 17:23, and see the Targum to
 Koheles 12:5) and never as *luz*; *segd* means almond in Syriac and Ethiopic and
@@ -118,19 +121,24 @@ for Lusitania is not widely accepted nowadays.
 ### Luz the city
 Luz was renamed Beis El, the site of Yaakov's dream (Bereishis 28:19); the
 Canaanite who showed the tribe of Yosef the hidden way in later founded a second
-Luz in the land of the Hittites (Shoftim 1:23 to 26). *Bereishis Rabbah* 69:8,
-though it remains unclear whether it means the Luz in Eretz
-Yisrael or the other one: its people were not mixed up when Sancheriv conquered
-the area, it was not destroyed by Nevuchadnetzar, and the *malach hamaves* has no
-dominion there. Rabbi Abba bar Kahana: one who enters it blossoms with *mitzvos*
-and good deeds like a *luz*. Chazal there also say that as an almond has no
-opening, so the city was sealed; Rabbi Simon adds that a *luz* tree stood at its
-entrance, and Rabbi Pinchas bar Chamah that the way in was a cave whose mouth a
-*luz* tree concealed. Rabbi J. D. Eisenstein (1854-1956) claimed the Luz of this
-midrash is the Tibetan city of Lhasa, whose people are reputed to be long-lived
-and so could be said to elude the *malach hamaves*. The *luz* bone, said to be
-the kernel from which a person is revived at *techiyas hameisim* and nurtured
-only through *melaveh malkah* (*Mateh Moshe* 513), belongs to the same word.
+Luz in the land of the Hittites (Shoftim 1:23 to 26).
+- *Bereishis Rabbah* 69:8, though it remains unclear whether it means the Luz in
+  Eretz Yisrael or the other one: its people were not mixed up when Sancheriv
+  conquered the area, it was not destroyed by Nevuchadnetzar, and the *malach
+  hamaves* has no dominion there.
+- Rabbi Abba bar Kahana: one who enters it blossoms with *mitzvos* and good
+  deeds like a *luz*.
+- Chazal there also say that as an almond has no opening, so the city was
+  sealed; Rabbi Simon adds that a *luz* tree stood at its entrance, and Rabbi
+  Pinchas bar Chamah that the way in was a cave whose mouth a *luz* tree
+  concealed.
+- Rabbi J. D. Eisenstein (1854-1956) claimed the Luz of this midrash is the
+  Tibetan city of Lhasa, whose people are reputed to be long-lived and so could
+  be said to elude the *malach hamaves*.
+
+The *luz* bone, said to be the kernel from which a person is revived at
+*techiyas hameisim* and nurtured only through *melaveh malkah* (*Mateh Moshe*
+513), belongs to the same word.
 
 ## Rendering guidance
 

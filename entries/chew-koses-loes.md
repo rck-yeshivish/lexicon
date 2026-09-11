@@ -121,25 +121,27 @@ difference at all, since they appear to be of different origins: *koses* seems
 to be a native Hebrew word, *lo'es* seems to be a loanword from Aramaic, so
 their overlap would not be superfluity.
 
-Members of the Mazuz family of Tunisia seem to presume a real difference,
-though Rabbi Reuven Chaim Klein grants that it is hard to substantiate and hard even to say
-exactly what it means. Rabbi Matzliach Mazuz (*Ish Matzliach* vol. 2, *Orach
-Chaim* 47), discussing at length whether *pilpel* is the common pepper, black
-pepper, or both, raises how the use of *kas* rather than *lo'es* for chewing
-*pilpel* on a fast day might bear on that question. Rabbi Meir Mazuz (*Arim
-Nissi* to Pesachim 39b): *le'isah* typically implies chewing as part of eating,
-in preparation for swallowing, while *kesisah* does not necessarily bear that
-implication; that is why Rashi glosses *lo'es* as *koses* in the case of
-chewing wheat for a bandage, to say that this man was not chewing in order to
-swallow but only to soften the grain. Rabbi Yitzchak Barda (a son-in-law of Rabbi
-Matzliach Mazuz) notes that the Rema (*Orach Chaim* 567:3, following the Tur)
-permits *lo'es* of cinnamon sticks and other unpulverized spices on a fast day
-other than Yom Kippur, to wet the throat, provided one spits it out, while his
-source, the Ravyah (*Hilchos Taanis* 861), writes *lachus*; he explains
-*kesisah* as the chewing with more enjoyment of the spices' sweet juices than
-*le'isah* implies. Rabbi Klein glosses that as *kesisah* possibly connoting forceful or
-even indulgent mastication and *le'isah* leaning toward a more utilitarian
-chewing, but that gloss is his own paraphrase of Rabbi Barda.
+Members of the Mazuz family of Tunisia seem to presume a real difference, though
+Rabbi Reuven Chaim Klein grants that it is hard to substantiate and hard even to
+say exactly what it means.
+- Rabbi Matzliach Mazuz (*Ish Matzliach* vol. 2, *Orach Chaim* 47), discussing
+  at length whether *pilpel* is the common pepper, black pepper, or both, raises
+  how the use of *kas* rather than *lo'es* for chewing *pilpel* on a fast day
+  might bear on that question.
+- Rabbi Meir Mazuz (*Arim Nissi* to Pesachim 39b): *le'isah* typically implies
+  chewing as part of eating, in preparation for swallowing, while *kesisah* does
+  not necessarily bear that implication; that is why Rashi glosses *lo'es* as
+  *koses* in the case of chewing wheat for a bandage, to say that this man was
+  not chewing in order to swallow but only to soften the grain.
+- Rabbi Yitzchak Barda (a son-in-law of Rabbi Matzliach Mazuz) notes that the
+  Rema (*Orach Chaim* 567:3, following the Tur) permits *lo'es* of cinnamon
+  sticks and other unpulverized spices on a fast day other than Yom Kippur, to
+  wet the throat, provided one spits it out, while his source, the Ravyah
+  (*Hilchos Taanis* 861), writes *lachus*; he explains *kesisah* as the chewing
+  with more enjoyment of the spices' sweet juices than *le'isah* implies. Rabbi
+  Klein glosses that as *kesisah* possibly connoting forceful or even indulgent
+  mastication and *le'isah* leaning toward a more utilitarian chewing, but that
+  gloss is his own paraphrase of Rabbi Barda.
 
 ## Rendering guidance
 

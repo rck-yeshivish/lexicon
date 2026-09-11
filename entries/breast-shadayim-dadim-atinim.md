@@ -101,46 +101,47 @@ Aram bear a name that literally means "the breast."
 
 ### atinim (עטינים)
 A hapax: the wicked man dies at ease, "his *atinim* full of milk" (Iyov
-21:23-25). The Ralbag and other commentators read it as breasts, that is, the
-man's stores are full and he need not scavenge. In Modern Hebrew *atinim*
-(singular *atin*) is the udders of a milk-producing animal, or a human nipple.
-Other explanations in Biblical scholarship include "pail," "vessel,"
-"trough," "watering place," "side/thigh," even "body" (see David J. A.
-Clines' dictionary of classical Hebrew). Rashi (there) points to the Mishnaic
-cognate
-*maatan*, the vat in which olives are gathered so that they give off their oil
-(*Maasros* 4:3, *Bava Metzia* 5:7, *Taharos* 9:1 and 9:9), and the act of
-placing them in it (*Menachos* 8:4): the olive is made to act like a breast and
-give
-off liquid. Rabbi Shlomo Pappenheim traces it to ע-ט, insatiability and
-stinginess: *vaya'at* (Shmuel I
-14:33, 15:19), scrounging after spoil; *ayit*, the bird always after more; *eit*,
-a writing instrument never done writing; *me'at*, the little that justifies
-reaching for more; and *atah*, wrapping, a lazy way of putting on clothes, stingy
-in effort. The udder is never at rest, always filling and being emptied.
-Targum to Iyov 21:24 renders *atinim* *bizoi*, and Rabbi Natan of Rome (*Sefer
-HeAruch*) explains the Rabbis' *bizaya* in "woe to the breasts that nursed this
-one" (Yerushalmi *Kilayim* 1:7, Bereishis Rabbah 5:9) as that same Greek word.
-The Greek βυζίου (*byziou*) is a cousin of the English
-"bosom," from Proto-Germanic *bosmaz*, both said to go back to the
-Proto-Indo-European root *bhew*-, "swelling," "bending," "curving."
+21:23-25).
+- The Ralbag and other commentators read it as breasts, that is, the man's
+  stores are full and he need not scavenge. In Modern Hebrew *atinim* (singular
+  *atin*) is the udders of a milk-producing animal, or a human nipple.
+- Other explanations in Biblical scholarship include "pail," "vessel," "trough,"
+  "watering place," "side/thigh," even "body" (see David J. A. Clines'
+  dictionary of classical Hebrew).
+- Rashi (there) points to the Mishnaic cognate *maatan*, the vat in which olives
+  are gathered so that they give off their oil (*Maasros* 4:3, *Bava Metzia*
+  5:7, *Taharos* 9:1 and 9:9), and the act of placing them in it (*Menachos*
+  8:4): the olive is made to act like a breast and give off liquid.
+- Rabbi Shlomo Pappenheim traces it to ע-ט, insatiability and stinginess:
+  *vaya'at* (Shmuel I 14:33, 15:19), scrounging after spoil; *ayit*, the bird
+  always after more; *eit*, a writing instrument never done writing; *me'at*,
+  the little that justifies reaching for more; and *atah*, wrapping, a lazy way
+  of putting on clothes, stingy in effort. The udder is never at rest, always
+  filling and being emptied.
+- Targum to Iyov 21:24 renders *atinim* *bizoi*, and Rabbi Natan of Rome (*Sefer
+  HeAruch*) explains the Rabbis' *bizaya* in "woe to the breasts that nursed
+  this one" (Yerushalmi *Kilayim* 1:7, Bereishis Rabbah 5:9) as that same Greek
+  word. The Greek βυζίου (*byziou*) is a cousin of the English "bosom," from
+  Proto-Germanic *bosmaz*, both said to go back to the Proto-Indo-European root
+  *bhew*-, "swelling," "bending," "curving."
 
 ### ziz (זיז)
 Yeshayahu 66:11, "you shall nurse and be satisfied from the *shod* of her
-consolations, and suckle and delight from the *ziz* of her honor." Radak reads
-*ziz* as a form of *ziv*, glow, and the zemer *Shimru Shabsosai* paraphrases the
-pasuk with some nusachos reading *ziv*. Shadal and Gesenius explain *ziz* as
-breast, as does *Daas Mikra* there; they associate the Biblical *ziz* with the
-Italian *zizza* and the German *zitze*, both of them the teat of a female
-mammal. Linguists derive those from the theoretical Proto-Germanic *titt*, and
-that from the Proto-Indo-European *tata*, "father," "parent," or "nipple"; Dr.
-Hayim Tawil, in his *An Akkadian Lexical Companion for Biblical Hebrew*, notes
-an Akkadian *zizu* that also means breast, so that, Rabbi Klein says, it is quite
-possible the Indo-European words are cognate with their Semitic counterparts.
-Mitchell First argues that *ziz* refers to any protrusion (see Malbim there),
-which leads him to speculate that this word for a breast, which protrudes from
-the bosom, and *mezuzah*, which protrudes at the side of the doorway, may be
-related.
+consolations, and suckle and delight from the *ziz* of her honor."
+- Radak reads *ziz* as a form of *ziv*, glow, and the zemer *Shimru Shabsosai*
+  paraphrases the pasuk with some nusachos reading *ziv*.
+- Shadal and Gesenius explain *ziz* as breast, as does *Daas Mikra* there; they
+  associate the Biblical *ziz* with the Italian *zizza* and the German *zitze*,
+  both of them the teat of a female mammal. Linguists derive those from the
+  theoretical Proto-Germanic *titt*, and that from the Proto-Indo-European
+  *tata*, "father," "parent," or "nipple"; Dr. Hayim Tawil, in his *An Akkadian
+  Lexical Companion for Biblical Hebrew*, notes an Akkadian *zizu* that also
+  means breast, so that, Rabbi Klein says, it is quite possible the
+  Indo-European words are cognate with their Semitic counterparts.
+- Mitchell First argues that *ziz* refers to any protrusion (see Malbim there),
+  which leads him to speculate that this word for a breast, which protrudes from
+  the bosom, and *mezuzah*, which protrudes at the side of the doorway, may be
+  related.
 
 ## Rendering guidance
 

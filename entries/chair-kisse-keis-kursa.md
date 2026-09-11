@@ -91,21 +91,23 @@ of the word does not turn on it.
 ### kisse (כסא)
 The workhorse: 135 occurrences, always with a final aleph. The haftarah for
 Shabbos Rosh Chodesh opens: "So says Hashem: the heavens are My throne
-[*kisse*], and the earth is My footstool. Which is the house that has been built for Me?
-And which is the place of My resting?" (Yeshayahu 66:1). Pappenheim: primarily a chair
-with a cover or overhead canopy, the canopy itself displaying the honor of the one
-seated, especially a king; his family of words includes *michsah*, a central fund such
-as the one the members of a korban Pesach pool their money into (Shemos 12:4). Rambam
-(*Moreh Nevuchim* 1:9): a *kisse* implies importance
-and power, presumably, Rabbi Reuven Chaim Klein says, because ordinary people in ancient times had no
-chairs but sat on whatever flat surface was at hand; the Beis HaMikdash is
-called the seat of Hashem's glory because prophecy issues from there. Rabbi Menachem
-Mendel of Shklov, if Rabbi Klein understood him correctly, similarly connects *kisse* to
-*ani*, kaf and samech following yod and nun, so
-that the throne connotes the Selfhood of Hashem rather than what merely emanates from
-Him; he bolsters it by noting that the Aramaic *kursa* shares its three letters with
-*keres*, the Aramaic of *beten*, so that as the *keres* is integral to a man, *kisse*
-names the "Person" of Hashem.
+[*kisse*], and the earth is My footstool. Which is the house that has been built
+for Me? And which is the place of My resting?" (Yeshayahu 66:1).
+- Pappenheim: primarily a chair with a cover or overhead canopy, the canopy
+  itself displaying the honor of the one seated, especially a king; his family
+  of words includes *michsah*, a central fund such as the one the members of a
+  korban Pesach pool their money into (Shemos 12:4).
+- Rambam (*Moreh Nevuchim* 1:9): a *kisse* implies importance and power,
+  presumably, Rabbi Reuven Chaim Klein says, because ordinary people in ancient
+  times had no chairs but sat on whatever flat surface was at hand; the Beis
+  HaMikdash is called the seat of Hashem's glory because prophecy issues from
+  there.
+- Rabbi Menachem Mendel of Shklov, if Rabbi Klein understood him correctly,
+  similarly connects *kisse* to *ani*, kaf and samech following yod and nun, so
+  that the throne connotes the Selfhood of Hashem rather than what merely
+  emanates from Him; he bolsters it by noting that the Aramaic *kursa* shares
+  its three letters with *keres*, the Aramaic of *beten*, so that as the *keres*
+  is integral to a man, *kisse* names the "Person" of Hashem.
 
 ### kisseh (כסה) and keis (כס)
 *Kisseh* three times: twice at Melachim I 10:19, of Shlomo HaMelech's throne, and Iyov

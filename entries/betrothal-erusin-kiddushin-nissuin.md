@@ -32,43 +32,48 @@ contrasted, *kiddushin* carries the *hekdesh* sense of setting apart and
 
 ### erusin (אירוסין)
 The Biblical term (Shemos 22:15, Devarim 20:7, 22:23-27, 28:30). Chazal read
-*morashah* in Devarim 33:4 as though *me'orasah*, betrothed, so that the Torah is
-betrothed to Klal Yisrael as a wife to her husband (*Berachos* 57a, *Pesachim*
-49b). Rabbi Shalom Mansoura of Sanna: *erusin* is an expression of tying. Rabbi
-Yitzchak Ratzabi gives two ways to take that. Rabbi Baruch HaLevi Epstein reads
-א-ר-ש as equivalent to א-ר-ז, since sin/samech and zayin interchange, and א-ר-ז
-is something packed tightly (Yechezkel 27:24; modern Hebrew *arizah*, a package),
-and Rabbi Epstein adds that א-ר-ז is related by metathesis to *eizor*, a tight
-belt. Alternatively, Rabbi Ratzabi suggests, Rabbi Mansoura may mean a simpler
-metathesis with no letter replaced: transpose the last two letters and get א-ס-ר,
-to tie or bind, the betrothed woman being tied to her husband and released only
-by a get or by his death. Rabbi Yitzchak Vana: *arusah* is from *eres*, poison, since one who
-approaches her illicitly incurs the death penalty as from a snake or scorpion.
-Another Yemenite scholar cited by Rabbi Ratzabi: *arusah* as in *aris*, a
-sharecropper who holds a partial claim, since the betrothed husband has a partial
-claim on her (adultery applies) but not a full one (he does not yet inherit her).
-Rabbi Ratzabi's own two suggestions turn on the interchange of aleph and ayin:
-ע-ר-ס, to mix (as in *arisah*, kneaded dough), for the joining of man and wife,
-or *eres*, a bed.
+*morashah* in Devarim 33:4 as though *me'orasah*, betrothed, so that the Torah
+is betrothed to Klal Yisrael as a wife to her husband (*Berachos* 57a,
+*Pesachim* 49b).
+- Rabbi Shalom Mansoura of Sanna: *erusin* is an expression of tying. Rabbi
+  Yitzchak Ratzabi gives two ways to take that. Rabbi Baruch HaLevi Epstein
+  reads א-ר-ש as equivalent to א-ר-ז, since sin/samech and zayin interchange,
+  and א-ר-ז is something packed tightly (Yechezkel 27:24; modern Hebrew
+  *arizah*, a package), and Rabbi Epstein adds that א-ר-ז is related by
+  metathesis to *eizor*, a tight belt. Alternatively, Rabbi Ratzabi suggests,
+  Rabbi Mansoura may mean a simpler metathesis with no letter replaced:
+  transpose the last two letters and get א-ס-ר, to tie or bind, the betrothed
+  woman being tied to her husband and released only by a get or by his death.
+- Rabbi Yitzchak Vana: *arusah* is from *eres*, poison, since one who approaches
+  her illicitly incurs the death penalty as from a snake or scorpion.
+- Another Yemenite scholar cited by Rabbi Ratzabi: *arusah* as in *aris*, a
+  sharecropper who holds a partial claim, since the betrothed husband has a
+  partial claim on her (adultery applies) but not a full one (he does not yet
+  inherit her).
+- Rabbi Ratzabi's own two suggestions turn on the interchange of aleph and ayin:
+  ע-ר-ס, to mix (as in *arisah*, kneaded dough), for the joining of man and
+  wife, or *eres*, a bed.
 
 ### kiddushin (קידושין)
 The term of the Mishnah, and the name of the masechta. *Kiddushin* 2b: the
 Rabbanan Savorai ask why the Mishnah (*Kiddushin* 2:1) uses it rather than the
 Biblical word, and answer that it is from *hekdesh*, consecrated property: he
-forbids her to all others as consecration forbids all men to benefit. Rabbi
-Yitzchak Vana: the parallel to *hekdesh* is that betrothal, like consecration,
-raises the severity of the prohibition on one who transgresses with her. Rabbi
-Alexander Sender Shor and Rabbi Elazar Moshe Horowitz: mid'oraisa the betrothed
-couple may already live together, and only the rabbinic enactment forbids her to
-her own husband until nissuin (*Kallah* 1:1, Rashi to *Kesuvos* 8a); so only
-after that enactment does she resemble *hekdesh*, forbidden to everyone
-including her husband, and that is why the term is the Rabbis' and not the
-Torah's. The Taz (to *Even HaEzer* 34:2) holds that the two-stage structure
-itself confers a kedushah found nowhere else; Rabbi Klein offers, as his own
-extension of that, the argument that the Rabbis coined *kiddushin* because they
-were the ones who instituted the two-step framework, while from the Torah's
-perspective that added holiness does not yet exist and betrothal is simply
-*erusin*, a word implying nothing about holiness.
+forbids her to all others as consecration forbids all men to benefit.
+- Rabbi Yitzchak Vana: the parallel to *hekdesh* is that betrothal, like
+  consecration, raises the severity of the prohibition on one who transgresses
+  with her.
+- Rabbi Alexander Sender Shor and Rabbi Elazar Moshe Horowitz: mid'oraisa the
+  betrothed couple may already live together, and only the rabbinic enactment
+  forbids her to her own husband until nissuin (*Kallah* 1:1, Rashi to *Kesuvos*
+  8a); so only after that enactment does she resemble *hekdesh*, forbidden to
+  everyone including her husband, and that is why the term is the Rabbis' and
+  not the Torah's.
+- The Taz (to *Even HaEzer* 34:2) holds that the two-stage structure itself
+  confers a kedushah found nowhere else; Rabbi Klein offers, as his own
+  extension of that, the argument that the Rabbis coined *kiddushin* because
+  they were the ones who instituted the two-step framework, while from the
+  Torah's perspective that added holiness does not yet exist and betrothal is
+  simply *erusin*, a word implying nothing about holiness.
 
 Tosafos (to *Kiddushin* 2b) read *kiddushin* differently, from *kiddush* in the
 sense of preparing or designating (Shemos 19:10, Bamidbar 11:18); *kedeishah*, a

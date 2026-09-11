@@ -50,22 +50,23 @@ Yericho in connection with balsam trees (*Antiquities of the Jews* IV ch. 6 and
 XIV ch. 4, *War of the Jews* I ch. 6 and ch. 18) but says nothing about *panag*
 in Yechezkel meaning balsam oil.
 
-Against it, Radak himself notes that if *tzari* is balsam
-oil then *panag* is unlikely to be, since Yechezkel lists them separately; Rabbi
-Yosef Teomim-Frankel (*Iggros Pri Megadim* letter 2) takes that as support for
-reading *tzari* as something else (Rashi's "theriaca"). Rabbi Moshe Tedeschi
-Ashkenazi and Rabbi Shmuel David Luzzatto, in their commentaries to Yechezkel,
-tie *panag* to *pinuk*, pleasure or indulgence, by the interchange of gimmel and
-kuf; ironically, for all their opposition to Kabbalah, their reading can be
-corroborated from the Zohar (*Bereishis* 47b, 235b, 245b-246b), which likewise
-links *panag* to
-*tafnukim*. *Shoresh Yesha* connects it to *oneg*, also pleasure or delicacy;
-Rabbi Klein presumes the reason is that ayin and pei are consecutive letters and
-so somehow interchangeable. Dr. Zohar Amar of Bar Ilan University, in *Tzimchei
-HaMikra*, gathers a further list of explanations from the commentators:
-cassia, wax (making *panag* a synonym of *donag*), honeycomb, edible grass,
-rice, millet, some sort of pastry or baked good, a kind of
-wheat, and a place name (so that the pasuk would mean wheat from there).
+- Against it, Radak himself notes that if *tzari* is balsam oil then *panag* is
+  unlikely to be, since Yechezkel lists them separately; Rabbi Yosef
+  Teomim-Frankel (*Iggros Pri Megadim* letter 2) takes that as support for
+  reading *tzari* as something else (Rashi's "theriaca").
+- Rabbi Moshe Tedeschi Ashkenazi and Rabbi Shmuel David Luzzatto, in their
+  commentaries to Yechezkel, tie *panag* to *pinuk*, pleasure or indulgence, by
+  the interchange of gimmel and kuf; ironically, for all their opposition to
+  Kabbalah, their reading can be corroborated from the Zohar (*Bereishis* 47b,
+  235b, 245b-246b), which likewise links *panag* to *tafnukim*.
+- *Shoresh Yesha* connects it to *oneg*, also pleasure or delicacy; Rabbi Klein
+  presumes the reason is that ayin and pei are consecutive letters and so
+  somehow interchangeable.
+- Dr. Zohar Amar of Bar Ilan University, in *Tzimchei HaMikra*, gathers a
+  further list of explanations from the commentators: cassia, wax (making
+  *panag* a synonym of *donag*), honeycomb, edible grass, rice, millet, some
+  sort of pastry or baked good, a kind of wheat, and a place name (so that the
+  pasuk would mean wheat from there).
 
 ### tzari (צרי), nataf (נטף), ketaf (קטף)
 *Tzari* (also *tzori* at Yechezkel 27:17, *tzri* at Bereishis 37:25) appears six
@@ -118,20 +119,23 @@ Yekutiel of Rome (*Sefer HaTadir*) and Rabbi Yosef of Saragossa, a talmid of
 Rabbeinu Nissim of Gerona, explain it of drinking a quantity of scented (*bosem*)
 wine.
 
-On how *bosem* became *balsamon*, there are three attempts. Marcus
-Jastrow notes that an extra lamed was added to *bosem* to produce *balsamon* but
-does not explain where that consonant came from. Dr. Richard C. Steiner of
-Yeshiva University accounts for it by arguing that the Hebrew and Semitic sin was
-originally pronounced in a way resembling an *l* sound, or was at least
-sometimes so perceived by Greeks, hence the *ls* in *balsamon*. Others surmise
-that in some unknown early Semitic language *bosem* itself had a lamed before
-the sin. Earlier, before the derivation from *bosem* became widely accepted,
-Rabbi Binyamin Mussafia (*Mussaf HeAruch*) speculated that Greek *balsamon* came
-from the Hebrew *baal shemen*, master of oil, presumably invoking the
-interchange of shin and sin; Dr. Alexander Kohut (*HeAruch HaShaleim*) dismissed
-that on the ground that *baal shemen* appears nowhere else, and argued instead
-for the Hebrew *boles*, cutting, which occurs once in Tanach (Amos 7:14),
-together with *shemen*, oil.
+On how *bosem* became *balsamon*, there are three attempts.
+- Marcus Jastrow notes that an extra lamed was added to *bosem* to produce
+  *balsamon* but does not explain where that consonant came from.
+- Dr. Richard C. Steiner of Yeshiva University accounts for it by arguing that
+  the Hebrew and Semitic sin was originally pronounced in a way resembling an
+  *l* sound, or was at least sometimes so perceived by Greeks, hence the *ls* in
+  *balsamon*.
+- Others surmise that in some unknown early Semitic language *bosem* itself had
+  a lamed before the sin.
+
+Earlier, before the derivation from *bosem* became widely accepted, Rabbi
+Binyamin Mussafia (*Mussaf HeAruch*) speculated that Greek *balsamon* came from
+the Hebrew *baal shemen*, master of oil, presumably invoking the interchange of
+shin and sin; Dr. Alexander Kohut (*HeAruch HaShaleim*) dismissed that on the
+ground that *baal shemen* appears nowhere else, and argued instead for the
+Hebrew *boles*, cutting, which occurs once in Tanach (Amos 7:14), together with
+*shemen*, oil.
 
 ### afarsemon (אפרסמון) and opopalsamun
 *Afarsemon* (also *afarsema*) is the commonest Rabbinic word for balsam oil. It

@@ -63,31 +63,38 @@ moist. He resolves it himself, following Bechoros 41a: paired with *cheres*, *ga
 one; standing alone, *garav* is the dry. (David A. Clines' dictionary of Biblical Hebrew
 renders *garav* "eczema" and *cheres* "itch.")
 
-**What cheres is.** Rabbi Avraham Bedersi (*Chosam Tochnis*): named for *cheres*, pottery,
-because it is dry as a shard; Rashi (to Bechoros 41a) says hard like pottery, both
-comparisons implicitly resting on the interchange of samech and sin. Bedersi then offers a second possibility, that *cheres* is not boils at
-all but a disease of unbearable itching, reading Iyov 2:8, where Iyov takes a *cheres* to
-scratch himself, as his proof (though that *cheres* has a sin and plainly means a
-potsherd). Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah* to Devarim 28:27) cites the
-same pasuk and still holds explicitly that *cheres* is a dry *garav*, which is why a dry
-shard suits it for scratching, while separately suggesting that perhaps *cheres* is a skin
-affliction brought on by bad climate, related to the sun's power over one's environment;
-Rabbi Reuven Chaim Klein wonders whether that means sunburn, noting that Mecklenburg does not say so.
-Ibn Saruk, Ibn Janach and Radak intimate no connection at all between the two senses of
-ח-ר-ס.
+**What cheres is.**
+- Rabbi Avraham Bedersi (*Chosam Tochnis*): named for *cheres*, pottery, because
+  it is dry as a shard; Rashi (to Bechoros 41a) says hard like pottery, both
+  comparisons implicitly resting on the interchange of samech and sin.
+- Bedersi then offers a second possibility, that *cheres* is not boils at all
+  but a disease of unbearable itching, reading Iyov 2:8, where Iyov takes a
+  *cheres* to scratch himself, as his proof (though that *cheres* has a sin and
+  plainly means a potsherd).
+- Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah* to Devarim 28:27) cites
+  the same pasuk and still holds explicitly that *cheres* is a dry *garav*,
+  which is why a dry shard suits it for scratching, while separately suggesting
+  that perhaps *cheres* is a skin affliction brought on by bad climate, related
+  to the sun's power over one's environment; Rabbi Reuven Chaim Klein wonders
+  whether that means sunburn, noting that Mecklenburg does not say so.
+- Ibn Saruk, Ibn Janach and Radak intimate no connection at all between the two
+  senses of ח-ר-ס.
 
-**Where shechin comes from.** Rashi (to Shemos 9:9, Vayikra 13:18, Chullin 8a): from heat,
-flesh made hot by a wound rather than by fire, as in Mishnaic *shechunah*, hot weather
-(Yoma 53b; the Mishnah there, Yoma 5:1, is the Kohen Gadol's short prayer). Rabbi Yitzchak
-of Zeldin (*Shoresh Yesha*): from *shachum*, Targum's standard word for *chum*, brown
-(Onkelos to Bereishis 30:32), mem and nun interchanging. This would refer to the brownish
-color of a *shechin* spot on the skin.
-Rabbi Shlomo Pappenheim: from the biliteral ש-ח, bending, which yields *hishtachavaah* and
-*shuchah*, *shichah* and *shachas*, pits and caves cramped enough that a man inside must
-bend, and from there *meshichah*, anointing, since oil softens what is hard and makes it
-bendable, so that the skin of one struck with *shechin* looks smeared with a poisonous
-emollient; he traces *shechunah* to the same root, its original sense a blight in which
-produce develops *shechin*-like spots from extreme heat and dryness.
+**Where shechin comes from.**
+- Rashi (to Shemos 9:9, Vayikra 13:18, Chullin 8a): from heat, flesh made hot by
+  a wound rather than by fire, as in Mishnaic *shechunah*, hot weather (Yoma
+  53b; the Mishnah there, Yoma 5:1, is the Kohen Gadol's short prayer).
+- Rabbi Yitzchak of Zeldin (*Shoresh Yesha*): from *shachum*, Targum's standard
+  word for *chum*, brown (Onkelos to Bereishis 30:32), mem and nun
+  interchanging. This would refer to the brownish color of a *shechin* spot on
+  the skin.
+- Rabbi Shlomo Pappenheim: from the biliteral ש-ח, bending, which yields
+  *hishtachavaah* and *shuchah*, *shichah* and *shachas*, pits and caves cramped
+  enough that a man inside must bend, and from there *meshichah*, anointing,
+  since oil softens what is hard and makes it bendable, so that the skin of one
+  struck with *shechin* looks smeared with a poisonous emollient; he traces
+  *shechunah* to the same root, its original sense a blight in which produce
+  develops *shechin*-like spots from extreme heat and dryness.
 
 **How Targum handles it.** Targumic Aramaic's standard rendering of *cham*, hot, and its
 inflections is related to *shechin* (Shemos 16:21; Melachim I 1:1; Yeshayahu 44:16;

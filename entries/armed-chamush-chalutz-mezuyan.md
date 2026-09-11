@@ -59,18 +59,19 @@ Chaim Kanievsky, and appears to stand in *Mechilta d'Rashbi* and the Yemenite
 *Midrash HaBeiur*; see also Baal HaTurim there.)
 
 Several further routes to the etymology have been offered, all of them as
-conjecture. Rabbi Dr. Ernest Klein conjectures that *chamush* relates to
-five in the sense of a military formation divided in five parts, van, body,
-rear and two flanks. Rabbi Reuven Chaim Klein adds his own suggestion: the most basic
-weapon a man has is his own fist, which has five fingers, so a word for one
-bearing a weapon might well be tied to five. The German philologist Wilhelm
-Gesenius (1786 to 1842) sees Hebrew *chamush* as related to the Arabic *hamas*,
-to be eager or manly in battle, since a Hebrew shin often becomes a sin or
-samech sound in Arabic. David Curwin at the
-Balashon Blog (19 October 2023) clarifies that the name of the Arab terror
-organization Hamas is technically an acronym for the Arabic term for "The
-Islamic Resistance Movement," but was almost certainly influenced by the Arabic
-*hamas* as well.
+conjecture.
+- Rabbi Dr. Ernest Klein conjectures that *chamush* relates to five in the sense
+  of a military formation divided in five parts, van, body, rear and two flanks.
+- Rabbi Reuven Chaim Klein adds his own suggestion: the most basic weapon a man
+  has is his own fist, which has five fingers, so a word for one bearing a
+  weapon might well be tied to five.
+- The German philologist Wilhelm Gesenius (1786 to 1842) sees Hebrew *chamush*
+  as related to the Arabic *hamas*, to be eager or manly in battle, since a
+  Hebrew shin often becomes a sin or samech sound in Arabic. David Curwin at the
+  Balashon Blog (19 October 2023) clarifies that the name of the Arab terror
+  organization Hamas is technically an acronym for the Arabic term for "The
+  Islamic Resistance Movement," but was almost certainly influenced by the
+  Arabic *hamas* as well.
 
 Targum renders *chamush* in all four places by a cognate of *zariz* (encourage,
 arouse, strengthen, embolden), which is to say that armed men are prepared and
@@ -90,27 +91,28 @@ Gad and Reuven that their soldiers go *chalutzim* (Bamidbar 32:30, 32:32;
 Devarim 3:18). Rashi (to Bamidbar 21:3) simply defines *chalutzim* as
 *mezuyanim*.
 
-The root ח-ל-צ yields removing something from its place, slipping off a
-garment, rescuing from danger, and *chalatzim*, the thighs, loins or hips; it
-also gives the given name Cheletz, one of David's warriors (Shmuel II 23:26;
-Divrei HaYamim I 11:27, 27:10) and another man of that name (Divrei HaYamim I
-2:39). As with *chamush*,
-Ibn Balaam, Ibn Ezra (to Bamidbar 31:3) and Ibn Parchon derive the adjective
-from the body part: weapons are often fastened at the loins. Radak (*Sefer
-HaShorashim*) accepts that and adds the removal sense: fighting men are
-figuratively removed from the rest of the nation by being designated as
-soldiers. Rabbi Shlomo Pappenheim narrows it: *chalutzim* are the units
-extracted from the formation to serve at the front, ahead of the army. Rabbi Reuven Chaim
-Klein proposes a further possibility of his own, that *chalutzim* are those
-who have drawn their weapon from its holder or sheath, or are ready to do so at
-a moment's notice, while noting that he has found no philologist who says so
-explicitly. Ibn
-Janach (*Sefer HaShorashim*) derives it from shedding a garment, seemingly
-because men ready for battle often shed some of their civilian clothing. The Targumim
-again often render it by *zariz*. In the Torah journal *Aspaklaria*, Rabbi
-Elimelech Bleiberg and Rabbi Itamar Habshush debated whether the Modern Hebrew
-*chalutz*, a pioneer, grows out of that Targumic tie between *chalutz* and
-*zariz*, or is a Modern Hebrew coinage.
+The root ח-ל-צ yields removing something from its place, slipping off a garment,
+rescuing from danger, and *chalatzim*, the thighs, loins or hips; it also gives
+the given name Cheletz, one of David's warriors (Shmuel II 23:26; Divrei HaYamim
+I 11:27, 27:10) and another man of that name (Divrei HaYamim I 2:39).
+- As with *chamush*, Ibn Balaam, Ibn Ezra (to Bamidbar 31:3) and Ibn Parchon
+  derive the adjective from the body part: weapons are often fastened at the
+  loins.
+- Radak (*Sefer HaShorashim*) accepts that and adds the removal sense: fighting
+  men are figuratively removed from the rest of the nation by being designated
+  as soldiers.
+- Rabbi Shlomo Pappenheim narrows it: *chalutzim* are the units extracted from
+  the formation to serve at the front, ahead of the army.
+- Rabbi Reuven Chaim Klein proposes a further possibility of his own, that
+  *chalutzim* are those who have drawn their weapon from its holder or sheath,
+  or are ready to do so at a moment's notice, while noting that he has found no
+  philologist who says so explicitly.
+- Ibn Janach (*Sefer HaShorashim*) derives it from shedding a garment, seemingly
+  because men ready for battle often shed some of their civilian clothing.
+- The Targumim again often render it by *zariz*. In the Torah journal
+  *Aspaklaria*, Rabbi Elimelech Bleiberg and Rabbi Itamar Habshush debated
+  whether the Modern Hebrew *chalutz*, a pioneer, grows out of that Targumic tie
+  between *chalutz* and *zariz*, or is a Modern Hebrew coinage.
 
 ### The difference between chamush and chalutz
 Malbim (to Yehoshua 4:12) notes the overlap and separates them: *chamushim* are
@@ -143,11 +145,14 @@ slang *zayin* took on a rude sense, which scholars like David Assaf and Yisrael
 Bartel see as a bowdlerized form of the Hebrew *zanav*, tail, used
 insultingly.)
 
-The biblical cousin is *azeinecha*, a weapon (Devarim 23:14). Ibn Saruk takes
-the root as א-ז-ן; Radak holds the initial alef is not radical and the root is
-ז-ו-ן, which brings *azen* very close to *zayin*; Ibn Janach goes both ways.
-Rabbi Shlomo Pappenheim traces both to the biliteral ז-ן, provision and the
-meeting of needs: a weapon is what equips a fighter to withstand an assault.
+The biblical cousin is *azeinecha*, a weapon (Devarim 23:14).
+- Ibn Saruk takes the root as א-ז-ן.
+- Radak holds the initial alef is not radical and the root is ז-ו-ן, which
+  brings *azen* very close to *zayin*.
+- Ibn Janach goes both ways.
+- Rabbi Shlomo Pappenheim traces both to the biliteral ז-ן, provision and the
+  meeting of needs: a weapon is what equips a fighter to withstand an assault.
+
 (*Sefer HaTishbi* also cites some who explain *susim meyuzanim* at Yirmiyahu 5:8
 as armed horses.)
 

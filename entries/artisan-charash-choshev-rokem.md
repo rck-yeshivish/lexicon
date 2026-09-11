@@ -126,17 +126,18 @@ readings:
 
 A separate Aramaic sense: *charash* is Targum's regular word for one who
 practices *kishuf* (Onkelos to Shemos 22:17 on *michasheifah*), and the Gemara
-uses it that way too
-(Rashi to Berachos 62a, Shabbos 75a, Pesachim 110a, Bava Metzia 29b, Chullin
-84b). The Yemenite poet Rabbi Shalom
-Shabazi ties this to the mute sense, since spells were often cast in a whisper. Dr.
-Alexander Kohut, in *He'Aruch HaShaleim*, cites the Maskilic scholar Peretz
-Smolenskin as tying it instead to the thinking and deliberating sense of the
-root, since the dark arts were typically performed in a state of deliberate
-intent. Rabbi Klein adds an alternative of his own: it may relate to the artisan sense,
-since for whatever reason the default artisan in Aramaic is one engaged in the
-occult, which he suggests may connect to the idea that Aramaic is a language
-associated with the *Sitra Achra*.
+uses it that way too (Rashi to Berachos 62a, Shabbos 75a, Pesachim 110a, Bava
+Metzia 29b, Chullin 84b).
+- The Yemenite poet Rabbi Shalom Shabazi ties this to the mute sense, since
+  spells were often cast in a whisper.
+- Dr. Alexander Kohut, in *He'Aruch HaShaleim*, cites the Maskilic scholar
+  Peretz Smolenskin as tying it instead to the thinking and deliberating sense
+  of the root, since the dark arts were typically performed in a state of
+  deliberate intent.
+- Rabbi Klein adds an alternative of his own: it may relate to the artisan
+  sense, since for whatever reason the default artisan in Aramaic is one engaged
+  in the occult, which he suggests may connect to the idea that Aramaic is a
+  language associated with the *Sitra Achra*.
 
 ## Rendering guidance
 
