@@ -47,8 +47,10 @@ can mean reverting to one's **natural** state even where that was never one's
 prior state. So *Shabbos* is a return to man's natural condition of rest even
 for someone who has never rested; so too *lasheves*, to sit, and *shevi* /
 *shevuyah*, a captive whose freedom of movement has been curtailed by his
-captors, as if stuck in a position of rest. On the same logic Avraham's
-servant, charged with finding a wife for Yitzchak in Avraham's homeland Charan,
+captors, as if stuck in a position of rest.
+
+Similarly, Avraham's servant, charged with finding a wife for Yitzchak in
+Avraham's homeland Charan,
 could ask what to do if the woman would not agree to leave, "Should I return
 (*hehashev ashiv*) your son to the land from which you left?" (Bereishis 24:5).
 Although Yitzchak had never been in Charan, he could still return there, since

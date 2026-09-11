@@ -93,8 +93,9 @@ so that *eid* and *sahad* are etymologically related.
 
 **Whether sahad is related to sa'ad.** Rav Hirsch (to Tehillim 20:3) says yes:
 *sahad*, with sin or samech, is related to ס-ע-ד, "support," by the interchange
-of hey and ayin; a witness's role is to give testimony that could support one
-side of the case. Rabbi Yehudah Aryeh of Carpentras, an eighteenth-century
+of hey and ayin. The connection is justified because a witness's role is to give
+testimony that could support one side of the case. Rabbi Yehudah Aryeh of
+Carpentras, an eighteenth-century
 grammarian and dayan, connects them similarly in *Ohalei Yehuda*, and also
 suggests *sahad* is a blend of *zeh*, "this" (sin or samech for zayin), and
 *eid*, which in some ways is like Shadal, since it too relates the two words. In

@@ -20,7 +20,7 @@ Moed*) lists seventeen in Tanach and treats them as somewhat synonymous, without
 differentiating the species; Rashi (to Yechezkel 2:6) and Rabbi Saadia Gaon (to
 Mishlei 15:19) both say in passing that there are twenty; Rabbi Klein, following
 *Ohel Moed* and adding three more, reaches twenty-one with *na'atzutz*.
-Explicit contrasts are few: *kotz v'dardar* names two different kinds of thorn;
+Some are set against each other: *kotz v'dardar* names two different kinds of thorn;
 the Vilna Gaon sets *kimosh*, the thorns along a
 field's edge, against *charul*, the ordinary thorn; Rabbi Pappenheim splits
 *salon* from *silon*. *Kotz* is a **thorn**; *sneh* a **thornbush** (Rashi,

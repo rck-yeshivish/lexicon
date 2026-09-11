@@ -49,9 +49,10 @@ is at bottom one who is negligent out of indolence. He is not trying to defy or
 provoke; he simply does not care enough about the consequences. Hence the
 *poshea* of Shemos 22:8 and *Bava Kama* 21b and 29a, the watchman who failed the
 vigilance expected of him without ever meaning to undermine anyone's property
-rights. Rabbi Klein draws the extension in his own voice, continuing from
-Pappenheim rather than quoting him: before a king, and all the more before the
-King of kings, a higher degree of mindfulness is expected, so that laziness and
+rights.
+
+Before a king, and all the more before the King of kings, a higher degree of
+mindfulness is expected, so that laziness and
 apathy are tantamount to rebellion, since failing to live up to what is expected
 slights the king's honor. It is in that sense that *pasha* was borrowed to mean
 rebellion. In many cases, including the story of Meisha, Targum renders *pasha*

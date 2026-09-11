@@ -131,7 +131,7 @@ outside and leaving him unshaken. *Zeiyah*, sweat (Bereishis 3:19): many misquot
 Yoma 4b as saying the Torah was given with *zeiyah*, an obvious error, though
 Pappenheim does connect the two words; for him sweat is the body's reaction to
 inner heat from exertion, anger or fear, so *zeiyah* is linked to internal
-agitation, which Rabbi Klein contrasts with *za*/*ziyah*, usually the effects of an
+agitation, in contrast with *za*/*ziyah*, usually the effects of an
 external one. *Za'avah* in the tochachah (Devarim 28:25), fulfilled, says
 Yirmiyahu, for Menashe's sins (Yirmiyahu 15:4; see also Yirmiyahu 24:9, 29:18,
 34:17; Yechezkel 23:46; Divrei HaYamim II 29:8): Onkelos renders it *ziyah*, which is probably what led Rashi there to

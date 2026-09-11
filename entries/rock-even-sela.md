@@ -71,7 +71,9 @@ harder and cannot be broken so easily, being made of different minerals glued
 together with calcium carbonate (calcite) and generally whitish in complexion,
 and that kind is a *sela*. To smash a *sela* one must apply intense pressure, so
 that when it finally goes its pieces fly outwards and disperse (see Yirmiyahu
-23:29). In most instances in Tanach a *sela* is a hard rock protruding from the
+23:29).
+
+In most instances in Tanach a *sela* is a hard rock protruding from the
 ground, or even a rocky mountain. Because it is so hard and cannot easily be
 chipped, it became the recognized standard for determining weights and
 currencies, and in the time of the Mishnah *sela* is also the name of a specific

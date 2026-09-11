@@ -210,8 +210,8 @@ the sub-units do not necessarily contribute an equal force, *kabir* where the
 components are equally powerful.
 
 *Adir*: Rabbi Pappenheim, calling someone *chazak* means he is more powerful
-than someone else, *adir* that he is the most powerful of a whole group. Rabbi
-Klein finds it apt that Hashem is described as *adir* (see Shemos 15:6;
+than someone else, *adir* that he is the most powerful of a whole group. It is
+thus quite apt that Hashem is described as *adir* (see Shemos 15:6;
 Tehillim 8:2, 93:4). Rabbi Pappenheim traces *adir* to ד-ר, freedom of motion
 without limitation or constriction, and Hashem is free of subjection to any
 other force. Rabbi Edel: *adir* is related to *adar*/*hadar*, beauty and glory,

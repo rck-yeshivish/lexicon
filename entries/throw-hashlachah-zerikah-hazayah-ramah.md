@@ -44,9 +44,9 @@ disparaging: Hagar casting off Yishmael (Bereishis 21:15), Yosef thrown into the
 pit, Moshe throwing down the Luchos (Shemos 32:19), Pharaoh's decree against the
 infants (Shemos 1:22), *tereifah* meat thrown to the dogs (Shemos 22:30). He
 admits that some are deliberate, to bring about a result: Aharon throwing his
-staff (Shemos 7:10) and the gold into the fire (Shemos 32:24). Rabbi Reuven
-Chaim Klein adds that the same could be said of the cedar, hyssop and crimson
-thread thrown into the burning of the *parah adumah* (Bamidbar 19:6).
+staff (Shemos 7:10) and the gold into the fire (Shemos 32:24). The same could
+be said of the cedar, hyssop and crimson thread thrown into the burning of the
+*parah adumah* (Bamidbar 19:6).
 
 Ramban (to Bereishis 21:15) offers two readings of *vatashlech*: Hagar
 **abandoned** Yishmael, so *hashlachah* is a form of forsaking; or she **sent

@@ -86,8 +86,8 @@ is a concoction that leaves a man weak and immobile, as though tied up and
 detained. A near word *re'alah* (Yeshayahu 3:19) is an ornament one wraps
 oneself in. Radak (to Yeshayahu 51:17 and in *Sefer HaShorashim*) cites the
 poison reading but also defines the word as shake, rattle and roll, akin to
-*ro'ed*, to which Rabbi Reuven Chaim Klein suggests it may be etymologically connected through
-the interchangeability of lamed and dalet. Rabbi Klein offers his own hedged
+*ro'ed*, to which it might be etymologically connected through the
+interchangeability of lamed and dalet. Rabbi Reuven Chaim Klein offers his own hedged
 reconciliation of the two readings: perhaps *ra'al* names not a lethal poison
 but a toxic contagion that throws a man into seizure-like convulsions. In Modern
 Hebrew *ra'al* is deadly poison.

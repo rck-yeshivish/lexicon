@@ -55,8 +55,8 @@ halachic connotation.
 Radak adds that *Torah* itself (and Aramaic *Orayta*) is from yud-reish-hey;
 on that account, Rabbi Klein notes, *Torah* might best be rendered "a teaching"
 or "instruction." Radak also weighs Ibn Janach's alternative, the root
-tav-vav-reish, investigation or scouting (which, Rabbi Klein remarks, would not
-account for the Aramaic cognate), from which come system and order, and the word
+tav-vav-reish, investigation or scouting (an etymology that would not account
+for the Aramaic cognate), from which come system and order, and the word
 *tor*, one's turn within a fixed arrangement; on that reading *Torah* is the law
 laid out as a systematic code. Rav Hirsch (Bereishis 26:5; Devarim 4:1) takes a
 third root, hey-reish-hey, to impregnate: the Torah is, as it were, the seeds of

@@ -65,9 +65,9 @@ duty"). Others, however, have found a Hebrew basis for the word.
 
 Menachem ibn Saruk (920 to 970) gives the root as כ-ס; Rabbi Yehuda ibn
 Chayyuj, Rabbi Yonah ibn Janach (990 to 1050) and Radak (1160 to 1235) give
-כ-ס-ס. Either way these roots mean number. Rabbi Klein draws the consequence:
-that explains how *meches* was borrowed to mean a tax, since a rate is usually a
-function of numbers. The grammarians point to *michsas* (Shemos 12:4), the
+כ-ס-ס. Either way these roots mean number. This explains how *meches* was
+borrowed to mean a tax, since a rate is usually a function of numbers. The
+grammarians point to *michsas* (Shemos 12:4), the
 number of people collectively offering a single korban Pesach, as evidence that
 the root means number.
 

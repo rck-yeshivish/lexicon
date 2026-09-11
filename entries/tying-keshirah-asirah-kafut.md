@@ -22,7 +22,7 @@ For Malbim, *keshirah* is **tying** where the thing tied consents to it: **bind,
 tie, join**; *asirah* is **tying down** without the consent of what is tied:
 **bind, detain, restrain**, and it is the root of *assir* (prisoner) and *issur*
 (prohibition). *Kafut* is the Aramaic and Mishnaic **tied down**; one way of
-reading it, Rabbi Klein says, ties it to *kefiyah*, compulsion; Rashi glosses
+reading it ties it to *kefiyah*, compulsion; Rashi glosses
 it sometimes with *asirah* and sometimes with *keshirah*; and Dr. Michael
 Sokoloff connects it to a different Aramaic root altogether. *Tzror* is
 **binding tight**, a union of strongly attached parts (Pappenheim). *Ketirah* is
@@ -102,9 +102,9 @@ Kamma 6:5, Taharos 7:5). In the Gemara Rashi again sometimes defines it with
 *asirah* (Sukkah 31a; see also Targum to Tehillim 118:27) and sometimes with
 *keshirah* (Chullin 16a, Sanhedrin 77b, Kiddushin 70a).
 
-Etymology, two proposals. One way, Rabbi Klein says, is to tie *kafut* to
+Etymology, two proposals. One way is to tie *kafut* to
 *kefiyah*, duress or compulsion, since both subjugate and dominate another. That
-approach, he adds, jibes with Rabbi Shlomo Pappenheim's reading of the biliteral
+approach jibes with Rabbi Shlomo Pappenheim's reading of the biliteral
 kaf-peh as "receptacle," under which he gathers *kaf* (palm), *kofef* (bending,
 what turns a palm into a receptacle), *akifah* (enforcement, bending others to
 an authority), *kippah* (dome, a palm-like structure), *kofeh* (overturning a

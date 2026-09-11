@@ -39,9 +39,7 @@ with *petora*; but Rabbi Mordechai Dov Yudelovitch, whose view Rabbi Klein
 adopts, holds that *taka* is the small, private **tray-table** for one, while
 *petora* is the longer dining table. *Tavla* is for Rabbi Eliyahu HaBachur
 simply the Rabbinic Hebrew for *shulchan*; for Rash MiShantz it differs, a
-**board** or table top without legs attached. Where *petora* and *taka* stand
-together, on Rabbi Yudelovitch's view the difference is size and privacy, not
-vocabulary.
+**board** or table top without legs attached.
 
 ## At a glance
 

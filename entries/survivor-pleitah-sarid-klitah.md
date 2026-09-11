@@ -36,8 +36,9 @@ rescue by **expulsion**: one is spit out of the danger, so a *palit* is a
 by **reception**: one is taken in, as a *miklat* receives him, so it is
 **refuge**, **taking in**. For Malbim and Bedersi *sarid* is the one who was
 caught and could not get out and lived anyway: **survivor** or **remnant**.
-Rabbi Avraham Yitzchak Shain draws the line differently: the *palit* was totally
-surrounded and spit out, the *sarid* was not necessarily enveloped at all.
+Rabbi Avraham Yitzchak Shain, accounting for another pattern in their usage,
+explains that the *palit* was totally surrounded and spit out, while the *sarid*
+was not necessarily totally enveloped.
 *Sarid u'palit* is a stock pair.
 
 ## At a glance
@@ -66,7 +67,7 @@ Yechezkel 33:21-22), and of a war waged by Jews, a *sarid* (Bamidbar 21:35;
 Devarim 2:34, 3:3; Yehoshua 10:28, 10:30, 10:33, 10:37, 10:39, 10:40, 11:8;
 Melachim II 10:11). For him *palit* is one who was totally surrounded
 ("swallowed" or "absorbed") by enemies and "spit out" so that he escaped, while
-*sarid* is simply a survivor not necessarily enveloped by enemy troops. A Jewish
+*sarid* is simply a survivor not necessarily totally enveloped by enemy troops. A Jewish
 army may not besiege a city or enemy on all four sides but must leave one side
 open for refugees (*Sifrei* to Matos §157; Rambam, *Hilchos Melachim* 6:7), so
 its enemies were never surrounded to be "spit out," and their survivors are

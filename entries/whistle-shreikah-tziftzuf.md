@@ -54,8 +54,9 @@ impelling a multitude of Egyptian soldiers to gather and invade Ashur
 (Yeshayahu 7:18), and whistles to the nations to gather against Yisrael
 (Yeshayahu 5:26). In the most uplifting sense, He whistles to gather His people
 in from exile (Zechariah 10:8); Rashi there explains it from the way whistlers
-whistle to call those who have gotten lost, so Hashem will invite all who have
-strayed to return to Him. The *Tur* (*Orach Chaim* §286) famously explains the
+whistle to call those who have gotten lost. In the same way, Hashem will invite
+all who have strayed to return to Him. The *Tur* (*Orach Chaim* §286) famously
+explains the
 reversed-alphabet acrostic that opens *Tikanta Shabbos* as alluding to
 *tishrok*, "He will whistle," the last four letters of the alef-beis, the Final
 Whistle that brings the Redemption.

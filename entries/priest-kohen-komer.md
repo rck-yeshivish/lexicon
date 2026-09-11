@@ -55,9 +55,9 @@ secondary senses: one who wears any sort of special clothes, as a *chasan* does
 capacity, as a prince does (Shmuel II 8:18). Rabbi Aharon Marcus (1843-1916)
 notes that the Arabic *kahin*, soothsayer or diviner, is probably a cognate of
 *kohen*, and on that basis suggests that the root of *kohen* is *koh*, "thus,"
-the prophets' word when they relay Hashem's message. Rabbi Klein adds that,
-since kohanim not only served in the Mikdash but were instrumental in teaching
-Torah, it makes sense that they would be associated with prophecy, which
+the prophets' word when they relay Hashem's message. Indeed, kohanim not only
+served in the Mikdash but were instrumental in teaching Torah, so it makes
+sense that they would be associated with prophecy, which
 likewise relays Hashem's word (see Malachi 2:7).
 
 ### komer (כומר)

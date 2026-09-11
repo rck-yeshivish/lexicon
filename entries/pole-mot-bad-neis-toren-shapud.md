@@ -87,7 +87,8 @@ event lifted out of the ordinary order of nature, and a *neis* as pole is the
 branch lifted above the rest of the tree. Mecklenburg (*HaKsav VeHaKabbalah* to
 Bereishis 22:1): a *nisayon* from the All-Knowing cannot be for the tester to
 learn something, so it is for the tested to reach new levels by prevailing
-through the travails of a Divine test, another kind of lifting. Rav Hirsch (to
+through the travails of a Divine test. In this way the *nisayon* is another
+kind of lifting, raising a man up like a *neis*. Rav Hirsch (to
 Bereishis 17:20 and 22:1) joins *neis* to *nasi*, the leader whose task is to
 raise those under him, and, like Pappenheim, reads *neis* as lifting in both
 senses at once, a man's rise in spiritual rank when he passes a test and a tall

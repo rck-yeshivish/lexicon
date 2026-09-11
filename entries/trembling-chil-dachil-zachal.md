@@ -133,8 +133,8 @@ in Tanach. In *Haazinu*: "the rage of those who are *zochel* on the dirt"
   farthest planet from the earth in medieval astronomy (Uranus, Neptune and Pluto
   being discovered later). Dr. Tzvi Langermann added in private correspondence
   that the parallel Arabic root can also mean lagging behind or becoming
-  fatigued, not unlike Rabbi Yosef Kara's "I have delayed," and likewise apt,
-  since Saturn's motion in longitude is the slowest of the seven planets.
+  fatigued (not unlike Rabbi Yosef Kara's "I have delayed"). This is likewise
+  apt, since Saturn's motion in longitude is the slowest of the seven planets.
 - A further Rabbinic sense: when Rabbi Oshaya's face lit up in excitement, the
   Yerushalmi (*Sanhedrin* 11:4) says his face was *zachlin*, and the Midrash uses
   *zachalin* of Bar Pedaya (*Koheles Rabbah* 8:1). Rabbi Klein suggests that
