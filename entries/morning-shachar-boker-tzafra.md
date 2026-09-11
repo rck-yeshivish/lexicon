@@ -42,18 +42,18 @@ sunrise, while the pasuk (Bereishis 22:3) says he rose *baboker*.
 Ibn Ezra and Radak (both to Bereishis 1:5, and Radak in *Sefer HaShorashim*):
 the root ב-ק-ר means to seek out, discern, investigate. Only by daylight can one
 tell one thing from another; at night everything runs together, which is why
-evening is *erev*, from *eiruv*, "mixture." Hence the family: *bikores*
+evening is *erev*, a word that also means "mixture." Hence the family: *bikores*
 (inspection), *bikkur cholim* (finding out how the sick man is and what can be
 done for him), *bakar* (cattle, which need looking after), and *boker* in the
 sense of a herdsman seeking out pasture.
 
 ### shachar (שחר)
-Root ש-ח-ר. Rabbi Shlomo Alkabetz: not a synonym for *boker* at all, but the
+Root ש-ח-ר. Rabbi Shlomo Alkabetz: not just a synonym for *boker*, but the
 first rays that break through the darkness of night, which is why English says
 daybreak. He reads Tehillim 22:1, *ayeles hashachar*, as a comparison to a doe
 that springs suddenly and without warning: dawn arrives all at once, whereas
 nightfall comes on gradually. (The morning star, Venus, is called *ayeles
-hashachar* because it shows before sunrise.)
+hashachar* because it is often visible before sunrise.)
 
 Two further senses of the root:
 1. **Seeking.** Rashi to Tehillim 22:1 gives "morning," then cites Rabbi Menachem
@@ -66,11 +66,11 @@ Two further senses of the root:
    black, because the light of dawn drives out the night's blackness; Yoma 29a
    likewise treats *shachar* as the *end* of the night. *Peirush HaRokeach*:
    dawn is called *shachar* because the sky is still partly black, especially in
-   the west. More esoteric sources, the column says, intimate a deeper
+   the west. More esoteric sources intimate a deeper
    explanation. The Zohar (Beshalach 46a) makes the darkness the point: just
    before dawn the pitch black of the night sky becomes especially overwhelming
-   and the sun's light must penetrate that thick darkness. The column notes that
-   the British writer Thomas Fuller (1608-1661) put the same idea into English:
+   and the sun's light must penetrate that thick darkness. The British writer
+   Thomas Fuller (1608 to 1661) put the same idea into English:
    "It is always darkest just before the day dawneth." The Vilna Gaon writes
    that the darkest part of the night is right before the crack of dawn, just as
    the exile will be hardest immediately before the Final Redemption. On this
@@ -88,7 +88,7 @@ Two further senses of the root:
 
 Two side-forms of the root: *shacharus* (Koheles 11:10), one's youth, which
 Radak (*Sefer HaShorashim*) reads as the morning of a life and Rashi as the
-years when the hair is still black; and Yeshayahu 8:20, where what is
+years when the hair tends to be blacker; and Yeshayahu 8:20, where what is
 inexplicable is what has no *shachar*, no light shed on it.
 
 ### tzafra (צפרא) and kritzuta (קריצתא)
@@ -102,11 +102,11 @@ greeting was *tzafra d'mareh tav*.
 is hard to say which came first. Ramban
 (Vayikra 14:4): *tzipor* comes from *tzafra*, since birds wake early and chirp.
 Rabbi Aharon Marcus: the reverse, *tzafra* from *tzipor*. Rabbi Yaakov Zev Lev
-(*Me'at Tzari*) notes that the *Rokeach* himself has it both ways: to Bereishis
+(*Me'at Tzari*) notes that the *Rokeach* himself apparently has it both ways: to Bereishis
 1:5 he derives *tzafra* from *tzipor* (dawn is *shachar*, akin to *shachor*, and
-black suggests the blackbird; also birds are about early), and to Bereishis 1:20
-he derives *tzipor* from *tzafra* (like Ramban), since birds fly up high before
-sunup.
+black suggests the blackbird; also birds tend to be about early), and to Bereishis 1:20
+he derives *tzipor* from *tzafra* (like Ramban), since birds tend to fly up high
+before sunup.
 
 Targum Yonasan (Bereishis 19:15 and 32:27) gives *kritizin* for *shachar*; Targum
 Neofiti simply Aramaicizes it to *shachara*. Rabbi Moshe Kosover of Beit

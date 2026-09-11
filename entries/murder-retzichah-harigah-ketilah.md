@@ -35,8 +35,9 @@ passes the verdict. *Harigah* is **killing** plain, lawful or not, direct or
 brought about at a distance, and it covers animals and plants as well as people.
 *Ketilah* is the Aramaic word the Targumim use for both, the ordinary Aramaic for
 **kill**; in the few Hebrew pesukim it is disputed. *Lo tirtzach* means
-"do not murder," not "do not kill," and the choice of root is why shechitah
-and judicial execution are not in the prohibition.
+"do not murder," not "do not kill," and the choice of root, Bedersi explains,
+confines the prohibition of extra-judicial killing to people, not animals or
+plants.
 
 ## At a glance
 
@@ -44,7 +45,7 @@ and judicial execution are not in the prohibition.
 |---|---|---|---|
 | רציחה | retzichah | murder | unlawful by definition (Rashbam); humans only (Bedersi); by one's own hand |
 | הריגה | harigah | killing, slaying | value-free (Rashbam, Pappenheim); includes indirect killing and animals (Bedersi) |
-| קטילה | ketilah | killing (Aramaic) | the Targum's rendering of both; "cutting" in many sugyos; Hebrew usage disputed |
+| קטילה | ketilah | killing (Aramaic) | the Targum's rendering of both; "cutting" in some sugyos; Hebrew usage disputed |
 
 ## Where the authorities disagree
 
@@ -85,7 +86,7 @@ it equals *harigah* and *retzichah*, but the Hebrew *ketilah* is striking a man
 into a helpless state on the verge of death, so that though he may technically
 still be alive he has effectively been killed; he takes the root as a
 portmanteau of the biliterals ק-ט, "cutting/submitting," and ט-ל,
-"throwing/lowering." The column adds that there may be some support for this in
+"throwing/lowering." Rabbi Klein adds that there may be some support for this in
 *Sefer HaChachmah* (ascribed to Rabbi Elazar Rokeach of Worms), which has
 *ketilah* as killing in a prolonged and tortuous way rather than at one
 stroke. Hence two accounts of Onkelos's *lo tiktol
@@ -121,7 +122,8 @@ and *arigah*, weaving. Rav Hirsch (to Shemos 35:25) hints at the same
 *harigah*/*arigah* link, and (to Bereishis 30:27) connects ה-ר-ג with ע-ר-ג,
 "desiring/yearning"; Rabbi Aharon Marcus takes the ר-ג family further, to
 *regev* (a clump of dirt), *regel* (foot), *rogez* (anger) and *regesh*
-(feeling), all of them bound up with subduing, conquering or trampling.
+(feeling), all of them bound up, in one way or another, with subduing,
+conquering or trampling.
 
 ### ketilah (קטילה)
 The standard Targumic rendering of both Hebrew words, seven times in the Aramaic
@@ -131,7 +133,7 @@ they use פ-ע-ל in Hebrew. It appears four times in the Hebrew of Tanach (Iyov
 24:14; Tehillim 139:19; Ovadiah 1:9). In a number of sugyos the Aramaic verb
 means "cut" rather than "kill" (Shabbos 98a; Eruvin 28b; Moed Katan 12b;
 Yevamos 121b; Bava Kamma 96a; Sanhedrin 33a, 74b; Shevuos 46a; Bechoros 8b);
-perhaps, the column suggests, that is its literal sense, cutting the soul away
+perhaps, Rabbi Klein suggests, that is its literal sense, cutting the soul away
 from the body, which is another way of characterizing death, so that *ketilah*
 names an aspect of killing without being quite synonymous with *harigah* and
 *retzichah*.
@@ -139,7 +141,7 @@ names an aspect of killing without being quite synonymous with *harigah* and
 The Mishnah in several places (Shabbos 6:1; Sotah 1:6; Avodah Zarah 1:8; Meilah
 5:1; Keilim 11:8) mentions a piece of jewelry called a *katla*, which Rashi
 (Shabbos 57b; Sotah 7b) explains is a very tight necklace, a choker. Perhaps,
-the column suggests, the name relates to *ketilah* in the sense of killing,
+Rabbi Klein suggests, the name relates to *ketilah* in the sense of killing,
 since a woman wearing such an adornment might feel as though she were being
 killed.
 

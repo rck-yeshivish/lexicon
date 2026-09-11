@@ -35,10 +35,10 @@ updated: 2026-09-10
 
 *Goy* is the loose word: a **nation** in the sense of a mass of people with no
 one king over them. *Am* is the tight word: a **people** united under a single
-king, leader, or under Hashem, and the only one of the four that regularly
+king, leader, or under Hashem, and, unlike *goy*, it regularly
 takes a possessive (*ami*, "My people"). *Leom* is a **nation** bound by a
-shared religion, so it can cover more than one kingdom. *Umah* stands with
-*leom* against *goy* as a nation that does have a crown. On Heidenheim's
+shared religion, so it can cover more than one kingdom (Malbim). *Umah* stands with
+*leom* against *goy* as a nation that does have a crown (Rabbi Yoel Ibn Shuaib). On Heidenheim's
 approach it follows that every *am* is also a *goy*, but not every *goy* is an
 *am*. Colloquially *goy* is
 "gentile," but it literally means nation, and in Tanach it is applied to Yisrael
@@ -56,11 +56,10 @@ too.
 ## Where the authorities disagree
 
 **Which word carries the shared character.** Malbim, Heidenheim, and Wertheimer
-all make *am* the word of shared allegiance or shared conduct and *goy* the
-mere aggregate. The Vilna Gaon (*Biur HaGra* to Yeshayahu 1:4) reverses it:
-*goy* denotes people who share a common manner, *am* a mass of individuals. The
-column brings the Gra as a "nonetheless" against the others and does not
-adjudicate.
+all make *am* the word of shared allegiance or shared conduct, and Malbim and
+Heidenheim make *goy* the mere aggregate. The Vilna Gaon (*Biur HaGra* to
+Yeshayahu 1:4) reverses it: *goy* denotes people who share a common manner, *am*
+a mass of individuals.
 
 **Whether goy can name one person.** Rabbi Eliyahu Mizrachi (to Bereishis
 20:4): *goy* is only ever a nation, never an individual. Rabbi Shlomo Ibn
@@ -69,10 +68,10 @@ Rabbeinu Yonah: it can name an individual. Rabbi Yaakov Tzvi Mecklenburg proves
 from Shemos 21:8 that both *am* and *goy* can point to any single member of the
 group, which is the ground of the everyday usage.
 
-**What leom is.** Malbim (on the Midrash): a religious grouping, wider than
-*am*. Wertheimer: either a common king (so Rashi and Targum to Bereishis 25:23
+**What leom is.** Malbim (on the Midrash): a religious grouping, which can be
+wider than *am*. Wertheimer: either a common king (so Rashi and Targum to Bereishis 25:23
 render it "kingdom") or a common religion. Edel: a family or tribe *inside* a
-nation, tied to *em* and Aramaic *imma*, mother, which is narrower than either.
+nation, probably tied to *em* and Aramaic *imma*, mother, which is narrower than either.
 
 ## Distinctions
 
@@ -84,7 +83,7 @@ simply agreeing to a political union. None of these is a shared purpose, so the
 bond is a marriage of convenience. Because the word leans on numbers, Tanach
 occasionally calls Yisrael a *goy* precisely when it wants the multitude in
 view (Malbim). Rabbi Yoel Ibn Shuaib: the Pelishtim, ruled by five lords
-(Yehoshua 13:3), are the model of a *goy*.
+(Yehoshua 13:3), are an example of a *goy*.
 
 ### am (עם)
 Heidenheim: a group united by one leader, king, or God. Malbim: a smaller, more
@@ -107,8 +106,8 @@ from the wording that they are near synonyms, not identical. Ibn Shuaib sets
 *umah* and *leom* together as the nation under one king, against *goy*. Malbim,
 on *Bereishis Rabbah* 63, makes *leom* a religious body, which can be wider
 than *am* when several kingdoms hold one faith. Edel takes *leom* or *om*, the
-form later poets use, as a family or tribe within a nation, related to *em* and
-*imma*.
+form some later poets use, as a family or tribe within a nation, probably related
+to *em* and *imma*.
 
 ## Rendering guidance
 

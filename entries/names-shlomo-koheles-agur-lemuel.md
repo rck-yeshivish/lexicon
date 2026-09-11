@@ -56,12 +56,10 @@ David, king of Yerushalayim, whom tradition identifies as Shlomo; that gives
 three names, and Rabbi Yehoshua ben Levi, the early Amora, adds four more, for
 seven in all: **Shlomo**,
 **Yedidyah**, **Koheles**, and the four proper names in the last two chapters of
-Mishlei, **Agur**, **Yakeh**, **Isiel** and **Lemuel**. Three of them turn on
-completeness and peace (Shlomo, from *shalem* or *shalom*), three on gathering
-and giving out wisdom (Koheles and Agur gather; Yakeh spits out), and Isiel and
-Lemuel both record what he said to himself about the Torah's limits on a king.
-Agur, Yakeh, Isiel and Lemuel read on the surface
-as ordinary proper names; the Midrashic identification is a second layer, not a replacement.
+Mishlei, **Agur**, **Yakeh**, **Isiel** and **Lemuel**. Shlomo turns on
+completeness or peace (*shalem* or *shalom*); Koheles and Agur on gathering;
+Yakeh on spitting out; and Isiel and Lemuel, in the Midrash, both allude to his
+justification for exceeding the Torah's limits on a king.
 
 ## At a glance
 
@@ -89,8 +87,8 @@ peace of his reign.
 **Why *Koheles*.** The Midrash: because his teachings were delivered in
 gatherings, from *hakhel*, *kahal*, *kehillah*, as it says "then Shlomo gathered"
 (Melachim I 8:1). Rashi (to Koheles 1:1): because he gathered up many forms of
-wisdom into himself. The second reading pairs *Koheles* with *Agur* as two words
-for the same act, which is what *Midrash Agur* does.
+wisdom into himself. The second reading is similar to the Midrash on *Agur*,
+that he gathered up (*agar*) the Torah's wisdom.
 
 **Whether *Yakeh* is a reproach or a compliment.** The Midrashim take it as a
 reproach: he was filled with wisdom and later spat it out (*heikiah*) and forgot
@@ -108,7 +106,7 @@ had amassed.
    the two letters being interchangeable, both counted among the dentals along
    with DALET, TES and TAV.
 2. **A second version of that Midrash**, sharper still: *lamah li El*, "what do
-   I need Hashem for", a king throwing off the yoke of Heaven.
+   I need Hashem for", as though he threw off the yoke of Heaven.
 3. **Ibn Ezra** (to Mishlei 31:1): *lemo El*, "to them, El", because in his days
    Israel served Hashem alone and no other.
 4. **Ralbag**: "for Him, El", his election as Hashem's chosen king. **Rashi** (to
@@ -143,14 +141,14 @@ puts them beside Shlomo as his three most precious names, because gathering is
 what his reign was: the whole nation gathered together and no strife among them.
 
 ### Yakeh (יקה), Isiel (איתיאל) and Lemuel (למואל)
-The three names attached to the closing chapters of Mishlei, and the three that
-carry the account of how Shlomo reasoned about a king's limits. *Isiel* is read
+Three of the names attached to the closing chapters of Mishlei. *Isiel* and
+*Lemuel* carry the account of how Shlomo reasoned about a king's limits. *Isiel* is read
 as a compound of *iti*, with me, and *el* in the sense of power: the Torah warns
 a king against many horses, much silver and gold, and many wives (Devarim
 17:16-17), and Shlomo held that with him was the strength not to be turned by
 them. In the end he was not able to hold the excess and remain what was expected
 of him. *Lemuel* records the same reasoning as speech addressed to Hashem, and
-*Yakeh* records what it cost him.
+*Yakeh*, in the Midrashim, alludes to the wisdom he lost when he began to stray.
 
 ## Rendering guidance
 

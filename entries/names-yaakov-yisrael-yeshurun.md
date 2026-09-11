@@ -29,10 +29,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Yaakov, Yisrael and Yeshurun are three names for one man, and they are not
-interchangeable. Yaakov is the man, and by the Ohr HaChaim's reading the man in a low
-moment; Yisrael is the man as founder of the nation, an added name rather than a
-replacement (Rabbeinu Bachya); Yeshurun is a rare title of praise, four times in all
+Yaakov, Yisrael and Yeshurun are three names for one man, and though the Torah
+seems to use the first two almost interchangeably, the commentators distinguish them.
+Yaakov is the man, and by the Ohr HaChaim's reading the man in a low
+moment; Yisrael is the man as founder of the nation (Maharal, Rav Hirsch), an added
+name rather than a replacement (Rabbeinu Bachya); Yeshurun is a rare title of praise, four times in all
 Tanach, built on *yashar*, and it answers Esav's charge that Yaakov means crooked
 dealing (Ramban).
 
@@ -64,15 +65,13 @@ v'naeh*, straight and fine, the two phrases matching in *gematria* when *Yeshuru
 spelled with two vavs. Rabbeinu Bachya: from *shur*, to gaze, since they came nearest to
 gazing on the Shechinah at Har Sinai. The Vilna Gaon: from *shir*, song, for the shirah
 at the Sea. Rabbi Yaakov Tzvi Mecklenburg: from *shirah* as a name of the Torah (Devarim
-31:19), since they alone accepted it. The column sets these side by side and does not
-rank them.
+31:19), since they alone accepted it.
 
 **Whether Yeshurun is a name of the Jewish People at all.** The Maharsha holds that
 *Yeshurun* is a Name of Hashem, and ascribes the view to Rashi. Rabbi Yechezkel Landau
 (*Noda BiYehudah Tinyana, Orach Chaim* §126) works out what the Maharsha meant; Rabbi
-Nosson Kamenetsky devoted an exhaustive essay to the question. The column itself brings
-the Maharsha only as a bracketed aside, and takes as its plain evidence that *Yeshurun*
-names Yaakov the pre-Shacharis passage that calls the Jewish People "the congregation of
+Nosson Kamenetsky devoted an exhaustive essay to the question. One place where *Yeshurun*
+clearly names Yaakov is the pre-Shacharis passage that calls the Jewish People "the congregation of
 Your firstborn son Yaakov, whom from Your love that You loved him and from Your
 happiness that You were happy with him, You called his name Yisrael and Yeshurun," whose
 earliest source is *Tanna DeVei Eliyahu* (*Seder Eliyahu Rabbah* ch. 21).
@@ -86,27 +85,26 @@ his fellow, typified by the brothers' sale of Yosef.
 
 **Which name stands highest.** The Zohar ranks them: *Yisrael* above *Yaakov* (*Vayechi*
 222a), and *Yeshurun* above *Yisrael* (*Vayishlach* 177b). The Chasam Sofer (to Yoma
-73b) gives the reason: *Yisrael* is *yashar* plus *El*, a high level reached with Divine
+73b), explaining why later breastplates read *shivtei Yisrael* rather than *shivtei
+Yeshurun*, says that *Yisrael* is *yashar* plus *El*, a high level reached with Divine
 help, while *Yeshurun* describes a people inherently straight, at their peak through
 their own effort. *Megaleh Amukos* of Rabbi Nosson Nota Shapiro maps the three onto the
 Arizal's worlds by the shape of the suffixes, angels of *Beriah* ending in *-el* and
 those of *Yetzirah* in *-on/-ron*: *Yaakov* in *Asiyah*, *Yisrael* in *Beriah*,
-*Yeshurun* in *Yetzirah*. The column presents *Yetzirah* here as higher than
-*Beriah*, whereas its own listing of the four worlds puts *Beriah* above *Yetzirah*.
+*Yeshurun* in *Yetzirah*.
 
 ## Distinctions
 
 ### Yaakov (יעקב)
 Bereishis 25:26: named for the *akeiv*, Esav's heel, which he held at birth. Bereishis
 27:36 records Esav's counter-reading, that the name comes from ע-ק-ב in the sense of
-supplanting or deceit; that slur is what the third name answers.
+supplanting or deceit; that slur, for the Ramban, is what the third name answers.
 
 ### Yisrael (ישראל)
 Bereishis 32:29, the angel of Esav at the Yabok: he "lords" (*sar*) over angels
 (*elohim*, or *el* for short) and over men, confirmed by Hashem Himself at Bereishis
 35:10. Rabbeinu Bachya: the
-earlier name was not withdrawn, so *Yisrael* is an addition and both remain in force, which
-is why the Torah keeps using both.
+earlier name was not withdrawn, so *Yisrael* is an addition and both remain in force.
 
 ### Yeshurun (ישורון)
 Devarim 32:15, 33:5 and 33:26, and Yeshayahu 44:2. Yoma 73b: the

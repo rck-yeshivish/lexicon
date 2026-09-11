@@ -16,8 +16,8 @@ updated: 2026-09-10
 ## Bottom line
 
 *Resen* and *meteg* are both the gear that controls a beast. Rabbi Avraham Bedersi has *meteg* the metal
-bit and *resen* a rope or a leather bit; Dr. David J. A. Clines, whom the column
-brings as a similar approach, has *meteg* the whole bridle and *resen* the
+bit and *resen* a rope or a leather bit; Dr. David J. A. Clines, with a similar
+approach, has *meteg* the whole bridle and *resen* the
 mouthpiece or the reins; Rabbi Moshe Tedeschi Ashkenazi has the exact opposite of
 Bedersi, *meteg* the leather strap and *resen* the metal bit. Aramaic *zemam*
 covers both and is a **muzzle**, the device that closes a mouth. *Prumbia* is
@@ -32,7 +32,7 @@ Five occurrences in Tanach, once as the place-name Resen (Bereishis 10:12) and
 four as the mouthpiece (Yeshayahu 30:28, Iyov 30:11, Iyov 41:5, Tehillim 32:9).
 Radak (to Yeshayahu 30:28): a *resen* is what steers an animal where its rider
 wants it to go; in *Sefer HaShorashim* he adds a second aspect, that it serves as a muzzle
-blocking the animal's mouth, presumably (so the column reads him) so that it will
+blocking the animal's mouth, presumably (so Rabbi Klein reads him) so that it will
 not bite people or eat from other people's fields. Rashi (to
 Yeshayahu 30:28) glosses it with the rabbinic *prumbia*. Menachem Ibn Saruk,
 Yonah Ibn Janach, Ibn Parchon and Radak take the root as ר-ס-ן. Rabbi Shlomo
@@ -41,7 +41,7 @@ Pappenheim treats the final nun as non-essential and derives it from biliteral
 Yechezkel 46:14, the Modern Hebrew *tarsis*, spray, and the nouns *resisim*,
 Amos 6:11, and *resisei*, Shir HaShirim 5:2): the bit makes the animal drool, and
 the dripping saliva is a small thing broken off a bigger one. Rabbi Aharon Marcus
-applies the same root differently: the bit bifurcates the space inside the
+applies the same root slightly differently: the bit bifurcates the space inside the
 mouth. Rav Hirsch (to Tehillim 2:2) connects *resen* to *roznim*, nobles, by
 the samech/zayin interchange: the *roznim* steer the state as the *resen*
 steers the beast. Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*) reads it
@@ -50,15 +50,15 @@ as a portmanteau of *ratz* and *ein*, "no running."
 ### meteg (מתג)
 Also five occurrences (Shmuel II 8:1, Melachim II 19:28, Yeshayahu 37:29,
 Mishlei 26:3, Tehillim 32:9). Radak (*Sefer HaShorashim*): a long piece of
-metal set in the mouth to control the animal, and he states outright that it is
-not built like a *resen* without saying how they differ. *Ohalei Yehuda* offers
+metal set in the mouth to control the animal, and he notes that it is
+not built like a *resen*, without fully explaining how they differ. *Ohalei Yehuda* offers
 two etymologies by letter-interchange: gimmel for kuf, linking *meteg* to
 *matok* (sweet), since control of one's beast is desirable and
-enjoyable to the rider (the column adds its own version: just as a man wants to
+enjoyable to the rider (Rabbi Klein adds his own version: just as a man wants to
 keep something sweet in his mouth, so does a rider want to keep the *meteg* in
 his horse's mouth); or mem for nun with
 gimmel for kuf, linking it to *nituk* (untie), since the *meteg*'s virtue is a
-knot that will not come undone. Rabbi Yehoshua Steinberg suggests *tugah* /
+knot that cannot easily be undone. Rabbi Yehoshua Steinberg suggests *tugah* /
 *yagon* (distress), since the *meteg* leads by causing pain. Rabbi Amitai
 Ben-David notes the later Masoretic *meteg*, the short vertical stress mark,
 and the Modern Hebrew "switch" that took its name from the shape, as did
@@ -66,17 +66,18 @@ certain kinds of worm.
 
 ### The difference between them
 Bedersi (*Chotam Tochnit*, the first work on Hebrew synonyms): *meteg* is a
-**metal** bit; *resen* is either a rope at the neck or a **leather** bit. The
-column brings a similar approach favored by Dr. David J. A. Clines in his
-dictionary of Classical Hebrew: *meteg* is the entire **bridle** by which one
+**metal** bit; *resen* is either a rope at the neck or a **leather** bit. A
+similar approach is favored by Dr. David J. A. Clines in his dictionary of
+Classical Hebrew: *meteg* is the entire **bridle** by which one
 directs an animal, while *resen* is specifically the **mouthpiece** joining the
 bridle to the animal, or the **reins**, the long strap held by the rider and
 attached to the bridle. Rabbi Moshe Tedeschi Ashkenazi (*Otzar Nirdafim*) holds
 the exact opposite of Bedersi, *meteg*
 the leather strap and *resen* the metal bit, tying *meteg* to *metach*
-(stretching out) via gimmel/ches. That they are near-synonyms is clear from
-their pairing in Tehillim 32:9 and from Targum rendering both by *zemam*
-(Yeshayahu 30:28, Iyov 30:11; Melachim II 19:28, Yeshayahu 37:29). In the one
+(stretching out) via gimmel/ches. That they are close in meaning is seen from
+their pairing in Tehillim 32:9, and Targum's rendering both by *zemam*
+(Yeshayahu 30:28, Iyov 30:11; Melachim II 19:28, Yeshayahu 37:29) suggests the
+same. In the one
 pasuk where both stand together, Targum to Tehillim 32:9 distinguishes them:
 *meteg* becomes *zemama*, *resen* becomes *prumbia* (Targum to Iyov 41:5
 likewise renders *resen* as *prumbia*).
@@ -88,7 +89,8 @@ one threshing *terumah* should hang a basket of the same species from the
 animal's neck so that it not be restrained from eating, uses the verb *zomem*
 for muzzling. *Bereishis Rabbah* 41:5, Targum Yonasan and Targum Yerushalmi (to
 Bereishis 13:7), relating the tradition Rashi cites there, all use cognates of
-*zemam* for the muzzle Avraham put on his animals, which Lot did not. The homograph *zomem*
+*zemam* for the muzzle Avraham was particular to put on his animals, while Lot
+was not as careful. The homograph *zomem*
 means to plot (Tehillim 37:12; ascribed even to Hashem, Yirmiyahu 51:12,
 Eichah 2:17, Zechariah 1:6; the conspiring witnesses of Devarim 19:19 and the
 *eidim zomemim* of the Mishnah, Bava Kamma 7:3, Sanhedrin 6:2, Makkos 1:3 and
@@ -100,12 +102,12 @@ even *zman*, time being graspable only by the intellect; he does not connect
 the muzzle. Rabbi Yaakov Tzvi Mecklenburg opens the way to a bridge: an
 intellectual decision **closes off** the other options, and so *nezem* is the
 ring that must form a complete circle to be affixed on the wearer. Mecklenburg
-himself stops there; it is the column that adds, in its own voice, that *zemam*
+himself stops there; it is Rabbi Klein who adds, in his own voice, that *zemam*
 is by that logic what closes an animal's mouth, or alternatively that the
 *zemam* is fixed on the animal's face just as the *nezem* is fixed on a human
 face. Shadal
-(to Vayikra 18:17) reaches the same place from the other side: what typifies a *zamam* is that it stays within the realm of the
-mind, so that *zemamah* would typically be evil thoughts though it could in
+(to Vayikra 18:17) offers an all-inclusive explanation of the whole ז-ם family: what typifies a *zamam* is that it stays within the realm of the
+mind, so that *zemamah* might typically be evil thoughts though it could in
 theory be good ones; *zimah* is the secret thought a man holds in and never puts
 into words, and lying with a woman and her daughter or granddaughter is called
 *zimah* because society holds it so heinous that one would keep such fantasies
@@ -125,8 +127,8 @@ instrument, to spare their lips and cheeks the strain of continuous blowing; in
 Latin and English the accessory is a *capistrum*. Being something like a muzzle
 or halter, it came in rabbinic parlance to be associated with an animal's
 headgear. The rabbinic form carries an extra mem vowel, what linguists call
-epenthetic vowel insertion. *Bereishis Rabbah* 45:7 has the variant *probi* /
-*prochi*, seemingly cognate with *prumbia*/*phorbeia*, in the aphorism about the
+epenthetic vowel insertion. *Bereishis Rabbah* 45:7 has the variant *probi* or
+*prochi* (depending on the edition), seemingly cognate with *prumbia*/*phorbeia*, in the aphorism about the
 donkey's ears. *Afsar* (from
 Persian) is the bit or reins; because taking hold of an animal's *afsar*
 acquires the animal, the term carries a legal sense in the Bavli for the

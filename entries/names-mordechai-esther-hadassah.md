@@ -39,7 +39,7 @@ updated: 2026-09-10
 ## Bottom line
 
 All five are names, and each pair is two names, not one. **Mordechai** is the Babylonian name the Megillah uses
-throughout, **Petachyah** his Hebrew name, **Bilshan** a title of his mastery of languages.
+throughout, **Petachyah** his Hebrew name, **Bilshan**, for the Gemara, a title of his mastery of languages.
 **Esther** is the name the Megillah uses; **Hadassah** appears once, at Esther 2:7, whose
 *hi Esther* says they are one woman. Which was her birth name is a Tannaic dispute.
 
@@ -61,7 +61,7 @@ Esther, and Hadassah is a description, the righteous being likened to a *hadas*
 she hid her people (Esther 2:20); Rabbi Avigdor Katz adds that Mordechai hid her from
 the king's men. Rabbi Nechemiah: Hadassah was her name, and the nations called her
 Esther after Istahar. The Vilna Gaon follows Rabbi Nechemiah, the *Chachmei Tzarfas*
-commentary Rabbi Meir; Ralbag leaves it open; Rabbi Tanchum HaYerushalmi and Rabbi
+commentary seemingly Rabbi Meir; Ralbag leaves it open; Rabbi Tanchum HaYerushalmi and Rabbi
 Yitzchak Arama hold Hadassah was the birth name, Esther the name of the court.
 
 **What Istahar is.** Rashi (to Megillah 13a) and *Sefer HeAruch*: the moon, from Aramaic
@@ -69,33 +69,34 @@ Yitzchak Arama hold Hadassah was the birth name, Esther the name of the court.
 *beside* the moon; so too *Yalkut Shimoni* (Esther §1053), whose version of Rabbi
 Nechemiah's statement reads explicitly that the idolaters called her after Venus,
 which they called Istahar, and *Targum Sheini*, which explains the name by the
-astrological force of *Nogah*, Venus. The column notes that Rabbi Yosef Nechmias
-(to Esther 2:7) has Istahar as the *sun*, and says outright that this is
-incorrect, though in some pagan mythologies the counterpart of Istahar may have
+astrological force of *Nogah*, Venus. Rabbi Yosef Nechmias (to Esther 2:7) has
+Istahar as the *sun*; Rabbi Klein says outright that this is incorrect,
+though in some pagan mythologies the counterpart of Istahar may have
 been the wife or consort of the sun god.
 
 **Foreign name or Hebrew in disguise.** Rabbi Shlomo Alkabetz (*Manos HaLevi*) and Rabbi
 Eliezer Ashkenazi (*Yosef Lekach*), with Ibn Ezra: she took Esther when Mordechai wanted her
-origin concealed, the Aramaic for *hadas* being *assa*, so the new name still says myrtle.
+origin concealed, the Aramaic for *hadas* being *assa*, which is close enough to Esther.
 Maharsha (to Chullin 139b) and Rabbi Meir Mazuz (*Sansan L'Yair*): against Rabbi
-Ashkenazi's Aramaic, it is Persian. The Maskilic scholar Yitzchak Ber Levinsohn
-(*Shorashei Levanon*), whom the column brings here, argues that Esther is a
-portmanteau of *asa*, myrtle, and *ter*, "fresh" (by tav/tes interchange), making
+Ashkenazi's Aramaic, they assume it was Persian. The Maskilic scholar Yitzchak Ber Levinsohn
+(*Shorashei Levanon*) argues that Esther is a
+portmanteau of *asa*, myrtle, and *ter*, "fresh" (possibly by tav/tes interchange), making
 the name an exact translation of the phrase *hadas ra'anan* used by *Sefer
-HeAruch*. (The column adds an aside: a king of Yehudah named Asa, a
+HeAruch*. (As an aside, a king of Yehudah named Asa, a
 great-grandson of Shlomo, has his name spelled exactly like the Aramaic for
-myrtle, aleph samech aleph, but it has found no source that ties King Asa to
-Queen Esther or to the myrtle.) Rabbi Yekusiel Yehuda Halberstam: her family
+myrtle, aleph samech aleph, but Rabbi Klein has found no source that ties King
+Asa to Queen Esther or to the myrtle.) Rabbi Yekusiel Yehuda Halberstam: her family
 Judaized *Istahar* into *Esther*, while Mordechai, who let no loanwords into his Hebrew,
 kept calling her Hadassah.
 
 **Mordechai's other names.** Megillah 16b and Menachos 65a read Mordechai-Bilshan (Ezra
 2:2, Nechemiah 7:7) as one man with a title (see Maharsha and *Keren Orah* to
 Menachos 65a); Ibn Ezra (to Esther 2:21) presumes Bilshan is the next man listed.
-On why the Megillah keeps the Babylonian name: *Torah Temimah* (to Shemos 30:23
-§48 and Esther 2:5 §11) postulates that his true Hebrew name was Petachyah, and
-that because Mordechai carries an idolatrous association the Gemara sought a
-favorable allusion for it in the Torah and thereby gave it some legitimacy; Rabbi
+On the Babylonian name: *Torah Temimah* (to Shemos 30:23 §48 and Esther 2:5
+§11) postulates that his true Hebrew name was Petachyah, though for some reason
+the Megillah consistently calls him Mordechai, and that because of that name's
+idolatrous implications the Gemara sought a favorable allusion for it in the
+Torah and thereby gave it some legitimacy; Rabbi
 Yehonatan Eybeschutz (*Yaaros Dvash* vol. 2 drush 13) holds that as Moshe's given
 name is absent from the Torah after "erase me from Your book," so Mordechai, who
 likewise gave himself up for the Jewish People, caused his real name Petachyah to
@@ -103,7 +104,7 @@ be left out of the Megillah.
 
 **Whether there was a fourth name.** One opinion in Megillah 15a has the navi
 Malachi be Mordechai himself, called Malachi because he was viceroy to the
-Persian king, *mishneh l'melech*, the column presuming that *malachi* is read as
+Persian king, *mishneh l'melech*, Rabbi Klein presuming that *malachi* is read as
 kin to *melech*; that would give him three names, Mordechai, Petachyah and
 Malachi. Other opinions there make Malachi an alternate name for Ezra, or a
 separate man altogether, and the Rambam, in his introduction to *Yad
@@ -120,21 +121,20 @@ the Megillah from "instead of the thorn-bush will arise a *brosh*" (Yeshayahu
 55:13), playing on *brosh* as *b'rosh*, "at the head," and reading it of
 Mordechai, whose name alludes to *mar dror*, which the Torah calls *besamim
 rosh*, the head of all spices; *Peirush HaRokeach* (to Shemos 30:23) adds that
-the gematria of *rosh*, 501, equals *zehu Mordechai HaTzadik*. The column
+the gematria of *rosh*, 501, equals *zehu Mordechai HaTzadik*. Rabbi Klein
 stresses that none of this is meant as *etymology*: the Gemara is giving an
 *exegetical* allusion to the name in the Torah, and the question of the name's
 actual origin is a separate one.
 
-The same consonants are a Babylonian name in Tanach: Evil Merodach (Melachim II
-25:27), Merodach Baladan (Yeshayahu 39:1), who appears
+Many scholars have noted the name's similarity to the Babylonian name Merodach
+in Tanach: Evil Merodach (Melachim II 25:27), Merodach Baladan (Yeshayahu 39:1), who appears
 elsewhere as *Berodach* Baladan (Melachim II 20:12), probably by the
 interchangeability of mem and beis, and Yirmiyahu 50:2, where Merodach stands as
 another name for the Babylonian god Bel, the counterpart of the Canaanite Baal.
-The column reports that archaeologists have found Merodach/Marduk to have been
-one of the chief gods of the Babylonian pantheon, and that the Babylonian
-creation myth *Enuma Elish* tells of Marduk defeating Tiamat, the primordial sea
-monster of chaos, and using her body to make the world. It then says plainly what
-it is *not* claiming: not that Mordechai was named after that deity, but that the
+Archaeologists have found Merodach/Marduk to have been one of the chief gods of
+the Babylonian pantheon, and the Babylonian creation myth *Enuma Elish* tells of
+Marduk defeating Tiamat, the primordial sea monster of chaos, and using her body
+to make the world. Rabbi Klein says plainly what he is *not* claiming: not that Mordechai was named after that deity, but that the
 personal name Mordechai and its variants, current in Babylonian and Persian
 society, were rooted in the god's name, and that once such names became ordinary
 one bears them without being named for an idol, much as people today are called
@@ -142,7 +142,7 @@ Mark or Veronica without a thought for Mars or Nike.
 
 Dr. Alexander Kohut, in *HeAruch HaShaleim*, suggests instead that Mordechai
 means "small person" in Persian, a name given him by others in appreciation of
-his exceptional humility. (The column adds that it had once taken the Irish and
+his exceptional humility. (Rabbi Klein adds that he had once taken the Irish and
 Scottish name Murdoch for a corruption of Mordechai, but on looking further found
 it more likely from the Gaelic *muir*, sea.) Mordechai's name appears 58 times in
 the Megillah, and twice more in Tanach as Mordechai Bilshan.
@@ -179,9 +179,9 @@ Rabbi Shmuel bar Nachmani read "instead of the thorn-bush will arise a
 myrtle-tree" (Yeshayahu 55:13) of Esther the myrtle replacing Vashti the
 thorn-bush.
 
-Beyond the myrtle of the righteous, the column gathers several further
-explanations of the name Hadassah. Megillah 13a, as Rashi reads Rabbi Yehoshua
-ben Karcha, implies a greenish complexion the color of a myrtle leaf (the column
+Beyond the myrtle of the righteous, there are several further explanations of
+the name Hadassah. Megillah 13a, as Rashi reads Rabbi Yehoshua
+ben Karcha, implies a greenish complexion the color of a myrtle leaf (Rabbi Klein
 notes that Venus was anciently taken for a green planet, which may fit the
 Istahar connection), and Ben Azzai there gives her average stature, neither tall
 as a *lulav* nor stout as an *esrog*. Rabbi Refael Berdugo cites an unknown source
@@ -198,7 +198,7 @@ a rabbinic tradition putting her at exactly 74 (*Midrash Panim Acheirim* version
 Esther 2:7 has her called Esther, from hiding, for the modesty she kept through
 the seven and a half decades in Mordechai's house.
 
-The column also traces Istahar outward: its etymological cognates include the
+Istahar's etymological cognates include the
 English *star*, *astrology*, *astronomy*, *asterisk*, *asteroid*, *disaster*,
 *stellar*, *estrogen* and *Easter*, the name Stella, the Languedocien Astruc, and
 the German *Stern*, a common Jewish surname; some have argued that the given name
@@ -206,8 +206,8 @@ Estori, borne by Rabbi Estori HaParchi, belongs here too. The *Pri Megadim* writ
 in one of his letters that the Yiddish woman's name Sterna, or Shterna, derives
 from Esther, and weighs whether that should bear on how it is written in *gittin*,
 with sin and tes like a foreign name or with samech and tav like the Hebrew
-Esther. On the *Nogah* side, the column lists the pagan names under which that
-force was worshipped as goddess of love and fertility: the Canaanite Ashtoreth,
+Esther. On the *Nogah* side, that perceived force was worshipped as goddess of love and
+fertility under various pagan names: the Canaanite Ashtoreth,
 Sumerian Inanna, Babylonian Ishtar or Astarte, Greek Aphrodite, Latin Venus and
 Germanic Eostre.
 
@@ -215,7 +215,7 @@ Rabbi Tzadok HaKohen of Lublin reads the two names as the lesson of Purim: when
 Hashem's face is hidden (Esther), Israel still holds fast and does His will
 (Hadassah).
 
-Two closing notes the column adds: *Melechet Shlomo* (to Mishnah Pesachim 2:6)
+*Melechet Shlomo* (to Mishnah Pesachim 2:6)
 records a bitter herb customarily called *Esther HaMalkah*, and Rabbi Yitzchak
 Epstein cites some who speculate that it was so called because of a tradition
 that, besides the seeds Esther ate in Achashverosh's palace (Megillah 13a), she

@@ -32,8 +32,8 @@ updated: 2026-09-10
 
 Both words come out **month** in English, but they name different things.
 *Chodesh* is properly the **new moon**, the month's beginning, from *chadash*,
-"new"; "month" is a secondary, borrowed sense (Malbim, Rav Hirsch). *Yerach* the
-column takes, as a suggestion and not a ruling, to be the month as a full span of
+"new"; "month" is a secondary, borrowed sense (Malbim, Rav Hirsch). *Yerach* Rabbi
+Klein takes, as a suggestion and not a ruling, to be the month as a full span of
 days, kin to *yareach*, the moon; Malbim himself reads it as simply a thirty-day
 period. Where a pasuk uses
 *chodesh* in a place that calls for *Rosh Chodesh*, it is the new moon, not the
@@ -50,25 +50,25 @@ month. Practically: by custom a *kesubah* says *chodesh* and a *get* says *yerac
 
 ## Where the authorities disagree
 
-**The simple view,** which the column records and passes over: *some say*
-that *chodesh* is Aramaic and *yerach* Hebrew. Others, the column says, offer a
-more sophisticated approach.
+**The simple view:** *some say* that *chodesh* is Aramaic and *yerach* Hebrew.
+Others, Rabbi Klein says, offer a more sophisticated approach.
 
 **Malbim:** *chodesh* is the month's beginning, and *yerach* is a period of
 thirty days as such, whether or not those thirty days answer to any lunar event.
 On this reading *yerach* is a unit of counting, not an astronomical term.
 
-**Against that,** in truth *yerach* is related to *yareach*, the moon, whose
-lunar movements help fix the month's length. On that basis, the column says, *we
-may posit* the cleaner division: *chodesh* denotes the *beginning* of the month,
-*yerach* the entire month as a whole. The column offers this as a suggestion,
-not as a ruling.
+**Against that,** Rabbi Klein holds that in truth *yerach* is related to
+*yareach*, the moon, whose lunar movements help fix the month's length. On that
+basis, he says, *we may posit* the cleaner division: *chodesh* denotes the
+*beginning* of the month, *yerach* the entire month as a whole. He offers this as
+a suggestion, not as a ruling.
 
-**Rav Hirsch** offers another way of dividing them, which the column says fits
-its own model: *chodesh* is the month as
+**Rav Hirsch** offers another way of dividing them, which, Rabbi Klein says,
+fits his own model: *chodesh* is the month as
 an abstract unit of time, measured by the moon's light vanishing and returning,
 while *yerach* is the month as a vehicle of maturation, the passage of time made
-tangible in the growth of produce, a month bound to the rules of nature.
+tangible in the growth of produce. On this understanding, *yerach* is a month
+bound to the rules of nature.
 
 ## Distinctions
 
@@ -77,14 +77,14 @@ Malbim and Rav Hirsch: the primary sense is not "month" but "the beginning of th
 month." Hence the places where *chodesh* stands where one would expect *Rosh
 Chodesh*: Bamidbar 28:14, Shmuel I 20:18, Yeshayahu 1:13. The word carries
 *chadash*, "new," and *chiddush*, renewal, so what it names is the novelty of
-the month. The first of the months is Nissan, whose very meaning is "miracles,"
-because Yetzias Mitzrayim, one of the greatest miracles of all time, happened
-then.
+the month. For Rabbi Klein this is also why the first of the months is Nissan,
+whose very meaning is "miracles," because Yetzias Mitzrayim, one of the greatest
+miracles of all time, happened then.
 
 ### yerach (ירח) and yareach (ירח)
 Rabbi Aharon Marcus ties *yerach* to *oraiach*, "path," and to the Aramaic
 *itrachish*, "it happened." Marcus does not explain the thematic link between
-these words; the reading that follows is the columnist's own ("to me it seems
+these words; the reading that follows is Rabbi Klein's own ("to me it seems
 fairly clear"). *Chodesh*, being bound up with "new," alludes to Hashem's
 introducing new occurrences outside the normal system of nature, which is what
 we call miracles; that, he suggests, is why *chodesh* is the word we use
@@ -94,7 +94,7 @@ of nature: time running its course naturally, as if the month just happened,
 seemingly without Hashem's miraculous intervention. That, on this reading, is
 why it is the less common word.
 
-### the practical ruling
+### the practical custom
 Rabbi Mordechai Jaffe, the *Levush*: the custom is that a *get* dates the month
 as a *yerach* and a *kesubah* as a *chodesh*. *Yerach* carries being sent away,
 from *geresh yerachim* (Devarim 33:14); *chodesh* carries newness, and taking a

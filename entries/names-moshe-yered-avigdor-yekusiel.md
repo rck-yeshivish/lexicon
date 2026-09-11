@@ -51,7 +51,7 @@ These are not synonyms but one man's ten names. The six of Divrei HaYamim I 4:18
 *Vayikra Rabbah* 1:3, each expounded from a Hebrew root; four more (Toviah,
 Shemayah, Ben Nesanel, Levi) follow. The Midrash
 concludes that of all ten, the Torah and Hashem Himself call him only **Moshe**,
-the name Basyah gave him, and that conclusion is the point of the whole passage.
+the name Basyah gave him.
 
 ## At a glance
 
@@ -73,9 +73,9 @@ readings: he brought the Torah down, he brought the Shechinah down, or, from
 adds a fourth, that the mahn descended in his days, and Taanis 9a specifies in
 his merit. Chever likewise has two: *chibbur*, that he joined Israel to Hashem,
 which the Vilna Gaon (to Divrei HaYamim I 4:18) ties to his erecting the
-Mishkan; or ע-ב-ר, presumably (so the column reads it) on the interchange of ches and
+Mishkan; or ע-ב-ר, presumably (so Rabbi Klein reads it) on the interchange of ches and
 ayin, that he made punishment and retribution pass over, which the Midrash says
-cryptically and which the column takes, in its own voice ("which I think"), to
+cryptically and which he takes, in his own voice ("which I think"), to
 mean his pleading with Hashem after the Eigel. Avi-Socho has two: from
 *socheh*, a gazer or seer, a codeword for prophecy, so that he is father of the
 nevi'im in that he reached a level of prophecy none of his successors matched;
@@ -90,7 +90,7 @@ different giver: Basyah, Moshe; Amram, Chever, since for this son's sake he
 remarried the wife he had divorced; Yocheved, Yekusiel; Miriam, Yered, since she
 went down to the river to see his fate; Aharon, Avi-Zanoach, since his father had
 forsaken his mother; Kehas, Avigdor, since the decree against the boys was
-repealed at his birth; the wet-nurse, Socho (*Zayis Raanan* notes she was hired
+repealed at his birth; the wet-nurse, Socho (*Zayis Raanan* notes she was apparently hired
 alongside Yocheved's own nursing); and Israel, Shemayah ben Nesanel. *Sefer
 HaYashar* and *Yalkut Shimoni* to Shemos 166 carry the same tradition. Ibn Ezra
 (to Shemos 2:22 and 4:20) dismisses *Divrei HaYamim Shel
@@ -101,8 +101,8 @@ Chazal. Rabbi Klein does not himself rule between them.
 strength of *Yetziv Pisgam* (read on the second day of Shavuos) and its "humble
 man Yehonasan," claims it as one of Moshe's ten. His grandson-in-law Rabbi
 Chanoch Henoch Teitelbaum of Sassov points out that no rabbinic source claims
-Yehonasan as one of Moshe's names. The column does not rule between them, but
-adds a note of its own: Yehonasan and Nesanel are built the same way, a cognate
+Yehonasan as one of Moshe's names. Rabbi Klein does not rule between them, but
+adds a note of his own: Yehonasan and Nesanel are built the same way, a cognate
 of *nasan* plus a theophoric element, *Yeho*- as a prefix standing for the first
 three letters of the Shem HaMeforash in the one and *-el* as a suffix in the
 other; and Bava Basra 109b-110a identifies the idolatrous priest Yehonasan ben
@@ -114,7 +114,7 @@ name of a grandson who may have been named for him.
 
 **Whether Tamar was his original name.** Rabbi Gedaliah Ibn Yachya (*Shalsheles
 HaKabbalah*) cites a tradition that Moshe's original name was Tamar or Tamur,
-meaning "raising" in Egyptian. The column knows of no other source for it.
+meaning "raising" in Egyptian. Rabbi Klein knows of no other source for it.
 
 ## Distinctions
 
@@ -124,7 +124,7 @@ count to ten. **Toviah**, because at his birth his mother "saw him, that he was
 good" (*tov*, Shemos 2:2). Most people today say Tuviah, though Tanach vowelizes
 it Toviah; Dr. Alexander Beider notes in his *Dictionary of Ashkenazi Given
 Names* that scholars do not know what caused the vowel shift. Others in Tanach
-bear the name: the head of a family that returned with Zerubavel (Ezra 2:60,
+seemingly bear the name: the head of a family that returned with Zerubavel (Ezra 2:60,
 Nechemiah 7:62), a kohen in the early Second Beis HaMikdash period (Zechariah
 6:10, 6:14), and the Ammonite slave who tried to thwart Nechemiah's rebuilding of
 Yerushalayim (Nechemiah 2:10-19, 3:35, 4:1, 6-7, 13:4-7). **Shemayah** (Divrei HaYamim I 24:6),
@@ -138,7 +138,7 @@ because he gave (*nasan*) the Torah over from Hashem to Israel. **Levi**, becaus
 he was Levi's grandson.
 
 ### Heiman
-Bava Basra 15a identifies Heiman of Tehillim as Moshe. The name means the trustworthy one, and the column says that
+Bava Basra 15a identifies Heiman of Tehillim as Moshe. The name means the trustworthy one, and Rabbi Klein says that
 identification *might* be the basis for the Zohar's title for him, *Raya
 Mehemna*, the trustworthy shepherd.
 
@@ -147,8 +147,8 @@ Mehemna*, the trustworthy shepherd.
 the Torah uses only Moshe, the name Basyah gave, as her reward for the kindness
 of taking him in; even Hashem calls him by it. Rabbi Chaim Shmuelevitz reads each
 name as a different facet of his greatness, and Moshe in particular as the trait
-he absorbed from Basyah, giving up one's life to do chesed for another, which is
-why he later asked to be erased from Hashem's book to save Israel after the
+he absorbed from Basyah, giving up one's life to do chesed for another, which shows
+when he later asked to be erased from Hashem's book to save Israel after the
 Eigel (Shemos 32:32).
 
 ## Rendering guidance

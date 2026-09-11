@@ -23,8 +23,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All of these are Hebrew words for "nothing," and the column sets out the nuances
-that separate them. *Hevel* and *rik*, which *Aleinu* pairs as what the other
+All of these are Hebrew words for "nothing," separated by nuances. *Hevel* and *rik*, which *Aleinu* pairs as what the other
 nations serve, denote the impotence and powerlessness of their imagined deities.
 Rabbi Avraham Bedersi makes *hevel* the less intense of the two, something that
 does exist but has no purpose, and *rik* something that does not even exist. For
@@ -35,31 +34,30 @@ is total "nothingness," and *rik* is what has some value on the surface until
 one digs deeper. Rabbi Shlomo Pappenheim, tracing each to its two-letter root,
 makes *rik* (ר-ק, emptying) what is completely lacking in import, as though
 emptied of its very substance, and *hevel* (ב-ל, negation) what is futile,
-somewhat substantial but still mostly useless. The column does not decide
-between them. *Efes*, the "nothing" of *Aleinu*'s "nothing exists besides Him,"
+somewhat substantial but still mostly useless. *Efes*, the "nothing" of *Aleinu*'s "nothing exists besides Him,"
 means "nothing" or "non-existent" in Tanach and also "but, however"; Menachem
 Ibn Saruk holds that sense distinct, while Radak implies that all its meanings
 are interrelated. *Tohu* and *bohu*, both commonly translated "nothingness,"
 describe the state of the world before the Six Days of Creation, and the
 commentators read them in many ways, dividing among other things over which is
 matter and which is form (Ramban: *tohu* matter, *bohu* form; Ralbag the exact
-opposite). *Blimah*, *meumah* and *klum*, the column holds, are etymologically
+opposite). *Blimah*, *meumah* and *klum*, Rabbi Reuven Chaim Klein holds, are etymologically
 related, all relating back to *mah*, "what." *Meumah* means "nothing" and can
 also mean "anything," because Hebrew allows double negatives; *klum*, its
 Rabbinic counterpart, also means "nothing."
 
 ## Distinctions
 
-The first essay opens from *Aleinu*, which contrasts the Jews, who worship the
+*Aleinu* contrasts the Jews, who worship the
 "King, King of Kings, the Holy One, blessed be He," with the other nations, who
 serve *hevel* and *rik*. Those two terms denote the impotence and powerlessness
 of the imagined deities the gentiles worship, and amount to saying that those
 nations worship "nothing." Later in the same prayer a third word for "nothing"
-appears, *efes*. The second essay acknowledges the Mishnah (*Chagigah* 2:1) that
+appears, *efes*. Though the Mishnah (*Chagigah* 2:1) writes that
 asking what came before the Creation of the world and what will be after its
-expiration is not a worthwhile course of study, yet the Torah itself (Bereishis
+expiration is not a worthwhile course of study, the Torah itself (Bereishis
 1:2) teaches that before the Six Days of Creation the world consisted of *tohu*
-and *bohu*. Both words are commonly translated "nothingness"; the column holds
+and *bohu*. Both words are commonly translated "nothingness"; Rabbi Reuven Chaim Klein holds
 that understanding their nuances will help one better understand what the Torah
 means to teach about the state of the world before Creation.
 
@@ -115,7 +113,7 @@ to the blunt impact of falling into it (Bava Kamma 53a); and insulating foods in
 certain materials that create heat, which are said to "add *hevel*" to them
 (Shabbos 34a). As Radak explains in *Sefer HaShorashim*, verbal utterances are
 *hevel* because they dissipate into the air very quickly and have no staying
-power; the column adds that the same is true of bad air and hot air.
+power; Rabbi Reuven Chaim Klein adds that the same is true of bad air and hot air.
 
 Rabbi Avraham Dovid Kobernick compares ה-ב-ל to its metathesized counterparts
 ב-ל-ה (*bilui*, "wearing out") and ל-ה-ב (*lahav*, "flame"), explaining that all
@@ -125,7 +123,7 @@ is right now "nothing," *bilui* something on its way to becoming "nothing," and
 these with their polar opposite, ל-ב (*lev*, "heart"), the mechanism that keeps
 things alive and running.
 
-Returning to the name Hevel, the column holds that Adam and Chavah's son was
+Returning to the name Hevel, Rabbi Reuven Chaim Klein holds that Adam and Chavah's son was
 likely given it because he lived only a short time before Kayin killed him, so
 that his life was essentially useless and totally unimportant in the grand
 scheme of things; and Christian writers such as Martin Luther and John Calvin
@@ -176,7 +174,7 @@ Aramaicization of *reik*, a cognate of *rik*.
 
 ### hevel and rik in Aleinu
 It may be because of the etymological association between *rik* and *rok*,
-"spittle," the column suggests, that an old Ashkenazi custom developed of
+"spittle," Rabbi Reuven Chaim Klein suggests, that an old Ashkenazi custom developed of
 spitting after saying *varik*, the word in *Aleinu* describing the object of
 pagan worship; it is still practiced in some circles, especially among Chabad
 Chassidim.
@@ -184,7 +182,7 @@ Chassidim.
 A medieval Ashkenazi tradition sees *hevel* and *rik* in *Aleinu* as allusions
 to Jesus, because *hevel* in gematria equals *zol*, "cheap, disgraced," and
 *varik* equals *Yeshu*, the rabbinic name for him (his Hebrew name was Yeshua).
-The column notes that Tanach itself already uses *hevel* of idolatry (Devarim
+Tanach itself already uses *hevel* of idolatry (Devarim
 32:21; Melachim II 17:15), because that mode of worship is worthless and
 produces nothing of significance. This wording in *Aleinu* made much trouble for
 Jews in Christian Europe throughout history, and because of the damning
@@ -210,11 +208,11 @@ of negation.
 In seven more places *efes* means "but, however," broadly synonymous with
 *aval*, *rak* and *ach*. Menachem Ibn Saruk (*Machberes Menachem*) sees this
 meaning as distinct from the others, while Radak (*Sefer HaShorashim*) implies
-that all these meanings are interrelated. On that view, as the column explains
+that all these meanings are interrelated. On that view, as Rabbi Reuven Chaim Klein explains
 it, *efes* is a conjunction that qualifies, minimizes or outright negates what
 was said before, as though one recanted or partially recanted one's previous
 statement, which is like turning that statement into "nothing," or at least
-"emptying" it of its previous meaning. The column adds that in Modern Hebrew
+"emptying" it of its previous meaning. In Modern Hebrew
 *efes* takes on a numeric sense, "zero."
 
 Rabbi Shlomo Pappenheim traces *efes* to the biliteral root פ-ס, taking the
@@ -259,10 +257,10 @@ starting from the middle and expanding outward, or from the edges, filling in
 until He reached the middle. The 14th-century Provencal scholar Rabbi Nissim of
 Marseilles (to Bereishis 1:2) seemingly follows the first approach: both words
 allude to the moment before Creation, when the entire world was concentrated in
-the middle, from which everything was to expand outward (the column compares how
-scientists nowadays understand the Big Bang, and notes Rabbi Alexander Hool's
-argument, in *The Six Days of Creation*, that whereas modern science believes the universe is still expanding,
-Judaism understands that it has actually stopped expanding). He likens *tohu* to
+the middle, from which everything was to expand outward (Rabbi Reuven Chaim Klein
+compares how scientists nowadays understand the Big Bang; Rabbi Alexander Hool
+argues, in *The Six Days of Creation*, that whereas modern science believes the universe is still expanding,
+Judaism understands that it has actually stopped expanding). Rabbi Nissim likens *tohu* to
 a person stuck "wondering" (*toheh*/*tamah*), who stays immobile in place,
 moving neither right nor left because of his indecision: *tohu* is that moment
 before Hashem catalyzed the world to expand outward.
@@ -285,10 +283,11 @@ Lunel, as likewise explaining *tohu* as matter that has no shape but is destined
 to receive one later, and *bohu* as the concept of shape. Rabbi Levi is also
 cited as explaining that existence hinges on polar opposites, so that *tohu* is
 "absence" and *bohu* "presence"; somehow Hashem's tempering the balance between
-these two poles brings the world into existence. The column adds that the world
-is a place where opposites, concrete and abstract, are expected to coexist, and
-Hashem is the One who makes peace between them. It cautions that Botarel has
-been known to fabricate sources, so his citation might not be the most reliable.
+these two poles brings the world into existence. Rabbi Reuven Chaim Klein adds
+that the world is a place where opposites, concrete and abstract, are expected to
+coexist, and Hashem is the One who makes peace between them; he also cautions
+that Botarel has been known to fabricate sources, so his citation might not be the
+most reliable.
 
 Shadal: *tohu* is something pointless that brings no benefit (for his *bohu*,
 see below).
@@ -296,8 +295,8 @@ see below).
 Rabbi Shlomo Pappenheim sees the hei and vav of *tohu* and *bohu* as letters
 added to the core root. *Tohu* derives from the monoliteral tav and denotes an
 outline or silhouette that shapes something's outer contours but whose core
-inner essence has not yet been filled in. The column notes that this fits an
-esoteric passage in the Gemara (Chagigah 12a) that explains, on Yeshayahu 34:11,
+inner essence has not yet been filled in. Rabbi Reuven Chaim Klein notes that
+this fits an esoteric passage in the Gemara (Chagigah 12a) that explains, on Yeshayahu 34:11,
 *tohu* as "a green line that circumscribes the entire world" (something that
 establishes the boundaries of the physical universe) and *bohu* as "the wet
 stones embedded in the mantle from which water goes out" (the external source of
@@ -329,22 +328,22 @@ them to sin.
 
 Rabbi Shlomo Pappenheim takes the root of *bohu* to be the monoliteral beis,
 "inside": *bohu* is something's external structure whose interior still needs
-to be filled in (for the Gemara's *bohu*, Chagigah 12a, see above). The column
-adds a point Rabbi Pappenheim does not make: the name of the letter beis itself
+to be filled in (for the Gemara's *bohu*, Chagigah 12a, see above). Rabbi Reuven Chaim
+Klein adds a point Rabbi Pappenheim does not make: the name of the letter beis itself
 relates to *bayis*, "house," a place into which a person might enter.
 
 ### blimah (בלימה)
-Having shown how *meumah* relates to *mah*, the column holds that its last two
-words for "nothing," *blimah* and *klum*, also relate back to *mah*. *Blimah*
+Rabbi Reuven Chaim Klein holds that *blimah* and *klum*, like *meumah*, relate
+back to *mah*. *Blimah*
 appears only once in Tanach: Iyov describes Hashem as the One who "hangs the
 land on *blimah*" (Iyov 26:7). On a simple level this means that Hashem actively
 suspends the earth in space ("nothing") without its needing to lean on any other
 cosmic body. Following this understanding, Rabbi Saadia Gaon, Ibn Ezra, Rabbi
 Moshe Kimchi (to Iyov there) and Radak (*Sefer HaShorashim*) all explain
 *blimah* as a portmanteau of *bli*, "without, there is not," and *mah*,
-"anything," literally "what." The column recalls that *bli* also relates to the
-concept of "nothingness," a point from Part 1 (Rabbi Pappenheim's ב-ל family,
-under *hevel* above), and notes that *blimah* is sometimes written as two words.
+"anything," literally "what." *Bli* also relates to the
+concept of "nothingness" (Rabbi Pappenheim's ב-ל family,
+under *hevel* above), and *blimah* is sometimes written as two words.
 In this spirit Rabbi Avraham bar Chiyya HaNasi (*Higayon HaNefesh*) writes that
 *blimah* is synonymous with *tohu*.
 
@@ -364,7 +363,7 @@ explains *blimah* as a portmanteau of *bli* and *meumah*: unlike other artisans
 and craftspeople, Hashem was able to create the world without any tools or
 materials.
 
-The column adds that biblical *blimah* has nothing to do with the Yiddish girls'
+Biblical *blimah* has nothing to do with the Yiddish girls'
 name Blima, also pronounced Blume (responsa *Maharsham* vol. 4 §50, vol. 8
 §242), which derives from Germanic cognates of the English *bloom*, *blossom* and
 *blow* (and the German and Yiddish *blatt*). According to linguists, those
@@ -373,8 +372,8 @@ blossoming." In Greek and Latin the first consonant of that root became an
 f-sound (just as beis and pei can interchange in Hebrew), yielding the
 etymological ancestors of the English *flower*, *flour*, *foliage*, *folio*,
 *flora*, *flourish* and more; it is also the basis of the name of the Roman
-goddess Flora (Fluusai in the ancient Oscan culture). None of this, the column
-adds, has anything to do with the British English interjection *blimey*.
+goddess Flora (Fluusai in the ancient Oscan culture). None of this has anything
+to do with the British English interjection *blimey*.
 
 ### meumah (מאומה) and klum (כלום)
 *Meumah* is a tricky term: it means "nothing," but it can also mean "anything,
