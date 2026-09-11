@@ -73,18 +73,19 @@ For one entry, with its source article open beside it:
 
 ## What an entry must not contain
 
-- **The Bottom line explains the words, briefly. It never discusses how to
-  translate them.** It is the first thing on every page, and most readers come
-  to understand how the words differ, not to render them. Say what each word
-  means and how it differs from the others, in plain words and as short as that
-  allows: most clusters need well under 100 words, and a short one is never
-  padded. Keep the bold on the key English meanings, since readers scan for
-  them. Anything about rendering, transliterating, roman or italic type, or what
-  a translator should do belongs in Rendering guidance. Where the authorities
-  disagree on the central distinction, say so in a clause without choosing a
-  side, and let the sections below set out the views; never state one view as
-  settled, and never let one authority's line read as the consensus. Hedges
-  survive shortening. The model the site's owner approved:
+- **The Bottom line explains the words. It is never written from a
+  translator's point of view.** It is the first thing on every page, and a
+  reader comes to it to learn what the words mean and how they differ. So it
+  says what each word means and how it differs from the others, and that is its
+  whole subject. It does not discuss how to translate them: nothing about
+  rendering, transliterating, roman or italic type, what to keep untranslated,
+  or what a translator must get right. That advice belongs in Rendering
+  guidance, and moves there rather than being lost. This is a change of focus,
+  not of length: keep every distinction, reading, name and hedge the Bottom line
+  carries, and do not shorten it for its own sake. Keep the bold on the key
+  English meanings. Where the authorities disagree on the central distinction,
+  the Bottom line keeps saying so without choosing a side. The model the site's
+  owner approved:
 
       Yaakov, Yisrael and Yeshurun all name the same Patriarch, and each shows
       him in a different light. *Yaakov* is the man himself, and in the Ohr
