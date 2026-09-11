@@ -19,8 +19,7 @@ updated: 2026-09-10
 *pen* is **lest**, a maybe the speaker hopes will not happen. On Rabbi Eliyahu
 HaBachur's and Rabbi Immanuel Benevento's view, Biblical Hebrew has no neutral
 "maybe" at all: every *ulai* and every *pen* carries the speaker's leaning.
-Rabbi Shlomo of Urbino holds the opposite, that *ulai* is as neutral as English
-"maybe," and the column leaves the machlokes standing, noting a significant
+Rabbi Shlomo of Urbino holds the opposite, that *ulai* is neutral, and Rabbi Klein leaves the machlokes standing, noting a significant
 problem with the first view. Aramaic *shema* / *dilma* is neutral on all
 accounts.
 
@@ -28,8 +27,8 @@ accounts.
 
 ### ulai (אולי)
 Rabbi Shlomo of Urbino, a sixteenth-century Italian scholar, writes in *Ohel
-Moed*, his lexicon of Hebrew synonyms, that *ulai* carries a neutral charge,
-like English "maybe" and like Aramaic *dilma*/*shema*. Two other Italian
+Moed*, his lexicon of Hebrew synonyms, that *ulai* carries a neutral charge;
+English "maybe" is neutral, and so is Aramaic *dilma*/*shema*. Two other Italian
 grammarians of the same generation disagree: Rabbi Eliyahu HaBachur (1469-1549)
 in *Sefer HaTishbi* and Rabbi Immanuel Benevento in *Livyat Chen* hold that
 Biblical Hebrew has no neutral word for "maybe" at all, and that *ulai*
@@ -37,11 +36,11 @@ introduces a possibility the speaker desires. Malbim writes similarly: *ulai*
 implies either a certain desire for that outcome or the recognition that it is
 the likelier of the two to materialize.
 
-The column's illustration: "I bought a lottery ticket because *maybe* I will
+To illustrate: "I bought a lottery ticket because *maybe* I will
 win" takes *ulai*; "I wear a seatbelt because *maybe* I will get in an
 accident" takes *pen*.
 
-The distinction, the column notes, is also somewhat supported by linguists.
+Rabbi Klein finds the distinction also somewhat supported by linguists.
 Some experts explain *ulai* as a portmanteau of *oh lo* ("or not"), or relate
 it to Hebrew *lu* or Aramaic *levai* ("if only").
 
@@ -60,8 +59,8 @@ Yitzchak. The Gaon locates Rashi's proof in the word: had Eliezer genuinely
 wanted the mission to succeed he would have said *pen*.
 
 Yaakov's *ulai yemusheini avi*, "maybe my father will feel me" (Bereishis
-27:12), is what the column calls a significant problem with the way HaBachur,
-Benevento and the Vilna Gaon explain *ulai*, since Yaakov plainly did not want
+27:12), is what Rabbi Klein calls a significant problem with the way HaBachur,
+Benevento and the Vilna Gaon explain *ulai*, since Yaakov would seemingly not want
 to be caught. A bevy of commentators, among them Rabbi Yehuda Leib Edel
 (1760-1828), Rabbi Tzvi Hirsch Chayes (1805-1855), Rabbi Seligman Baer
 (Yitzchok Dov) Bamberger of Würzburg (1807-1878), Rabbi Shlomo Aharon
@@ -73,7 +72,7 @@ an end to the deception; he was so bound to truth that passing a lie to his
 father made him uncomfortable even where it was justified. Mecklenburg too
 holds that Yaakov *wanted* his father to feel him, but not so as to expose the
 ploy: he wanted his father's hands laid on his head for the *berachah*.
-Alternatively, the column suggests, on Malbim's view no answer is needed, since
+Alternatively, Rabbi Klein suggests, on Malbim's view no answer is needed, since
 *ulai* need not mean Yaakov wanted it, only that he felt it most likely to
 happen; Rabbi Wertheimer uses a similar argument for the *ulai* of Bereishis
 18:28.

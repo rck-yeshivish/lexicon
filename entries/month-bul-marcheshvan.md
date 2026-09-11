@@ -35,17 +35,18 @@ updated: 2026-09-10
 
 **Bul** and **Marcheshvan** name the same month; in most of
 Tanach it is simply *chodesh hashemini*, **the eighth month**, counted from Nissan. Bul is
-the older, pre-exilic name (Melachim I 6:38); Marcheshvan never appears in Tanach and first
-shows up in Mishnah. Whether the *mar* of Marcheshvan is even a separate element is
-disputed. In the same family, *mabul* is **flood** and *geshem* **rain**, and the
-difference is not quantity.
+the older, pre-exilic name (Melachim I 6:38); Marcheshvan never appears in Tanach but does
+appear in the Mishnah. Whether the *mar* of Marcheshvan is even a separate element is
+disputed. Alongside them, *mabul* is **flood** and *geshem* **rain**; for Rabbi Moshe
+Shapiro they are the same waters, the difference lying in whether the people
+deserve blessing.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | בול | Bul | Bul | the pre-exilic name, once in Tanach; leaves falling, clods, fodder mixed indoors (Yerushalmi Rosh Hashanah 1:2); yevul, the gathered produce (Rid, Ibn Saruk) |
-| מרחשון | Marcheshvan | Marcheshvan | post-exilic, from Bavel (Yerushalmi; Ramban to Shemos 12:2); widely read as a single name meaning "eighth month" (Klein, Zivotofsky), which Avraham Epstein disputes |
+| מרחשון | Marcheshvan | Marcheshvan | post-exilic, from Bavel (Yerushalmi; Ramban to Shemos 12:2); widely read as a single name meaning "eighth month" (Ernest Klein, Zivotofsky), which Avraham Epstein disputes |
 | מבול | mabul | flood | destructive water: bilui, bilbul, movil (Rashi to Bereishis 6:17) |
 | גשם | geshem | rain | water as the bond of heaven and earth (Rabbi Moshe Shapiro) |
 
@@ -66,8 +67,8 @@ grain and produce in a man's house and storehouses after the harvest; Dr. Alexan
 (1842-1894) in *Aruch HaShalem* offers a similar understanding. Ibn Janach (*Sefer
 HaShorashim*): from *balul*, mixing, rainfall being a liquid into which things are mixed.
 Radak (to Melachim I 6:38 and in his *Sefer HaShorashim*): from *mabul* itself, the month
-opening the rainy season, as in *Midrash Tanchuma* (*Noach* §11), that until Shlomo built
-the Mikdash rain with the potential to become a flood would fall on the world forty days
+opening the rainy season. *Midrash Tanchuma* (*Noach* §11) also ties Bul to *mabul*: until
+Shlomo built the Mikdash rain with the potential to become a flood would fall on the world forty days
 a year, and once it was built that forty-day rain was done away with, as though the mem
 had been taken off *mabul* to leave Bul. (In modern Hebrew *bul* means "exactly," which
 seems to be a borrowing of the English "bull's eye," and also "stamp," borrowed from
@@ -84,11 +85,11 @@ writing *Mar Cheshvan* as two words in a *get*; and see *Pischei Teshuvah*, Even
 §126:12, on a *get* that says Cheshvan rather than Marcheshvan); and Rabbi Chizkiyahu
 Medini of Hebron (1834-1904), who records that in some communities there is a custom not
 to make weddings in Marcheshvan, because *mar* at the head of the name means bitter and
-the name is therefore a bad omen. Against them, the *Pri Chadash* (Even HaEzer §126)
-takes *mar* as drops of rain (Yeshayahu 40:15), or as the bitterness of a month with no
-yom tov, or of the passing of the Imahos, Sarah and Rachel, on none of which is there
-reason to refrain from weddings; on that basis Rabbi Betzalel Stern (1911-1988) concludes
-*mar* is not even Hebrew and is no omen for anything. Rabbi Shmuel ben David Halevi
+the name is therefore a bad omen. Against them, others, following the *Pri Chadash* (Even HaEzer §126),
+take *mar* as drops of rain (Yeshayahu 40:15), or as the bitterness of a month with no
+yom tov, or of the passing of the Imahos, Sarah and/or Rachel, which would mean there is
+no reason to refrain from weddings. Moreover, Rabbi Betzalel Stern (1911-1988) concludes
+that *mar* is not even Hebrew and is no omen for anything. Rabbi Shmuel ben David Halevi
 (1625-1681) in the *Nachalas Shivah* first offers that *mar* is a term of importance, like
 the honorific Mar of Mar Zutra and *amar Mar*, and like modern Hebrew "mister," since the
 date on which Marcheshvan begins is important for reckoning the whole year's calendar,
@@ -96,8 +97,7 @@ but he too ultimately rejects the approach and concludes that Marcheshvan is one
 name whose *mar* is not to be interpreted on its own. Rabbi Chaim Dov Lieman of Kiryat
 Sefer (*Otzar Peninim* §28) defends the wedding custom from Rashi to Bereishis Rabbah
 48:9, who held the month-names were not taken verbatim from the Babylonian calendar but
-revealed through nevuah, so that expounding the *mar* is entirely in place. The column
-leaves the two sides standing.
+revealed through nevuah, so that expounding the *mar* is entirely in place.
 
 **What Cheshvan means, for those who parse it.** Rav Hirsch (1808-1880) drops the *mar*
 and reads Cheshvan from ח-ש-ה, quiet: the hush after the crowded month of Tishrei, which
@@ -105,8 +105,7 @@ gives a man room to look inward and think over all that passed in the yom tov se
 *Sefer HaKushyos*, by an anonymous talmid of Rabbi Meir of Rothenburg (1215-1293),
 published by Rabbi Y. Y. Stahl: from ר-ח-ש, stirring, bubbling, murmuring, which somehow
 relates to the month in which the first Mikdash was completed, or else from ש-ו-ה, evened
-out, the month somehow being "equalized in its rains" (the column reports both without
-seeing the connection). The Christian Hebraist and philologist Johannes Buxtorf
+out, the month somehow being "equalized in its rains." The Christian Hebraist and philologist Johannes Buxtorf
 (1564-1629) likewise presumes ר-ח-ש, citing *marcheshes*, the deep pan in which fried
 things sizzle (Vayikra 2:7), as something liquid, and ties that to the month that opens
 the rainy season. Rabbi Zecharia HaRofeh, a fifteenth-century Yemenite sage (*Midrash
@@ -121,8 +120,8 @@ exile. It seems the original names mirrored the months the Canaanites used: on t
 sarcophagus of the Tyrian (Canaanite) king Ashmunezer II the king refers to the month Bul.
 Old Assyrian and Babylonian inscriptions name the eighth month Arahsamna (Akkadian
 *warahsamna*), which scholars parse as *arah*, cognate with the Hebrew *yerach*, month,
-plus *samna*, cognate with *shemonah*, eight, so that the name means "eighth month"; the
-column reports this as the most widely accepted etymology of Marcheshvan. Rabbi Dr. Ernest
+plus *samna*, cognate with *shemonah*, eight, so that the name means "eighth month"; this
+seems to be the most widely accepted etymology of Marcheshvan. Rabbi Dr. Ernest
 Klein follows it, explaining that the mem of the Babylonian form turned into a vav, much as
 Hebrew *argaman* becomes Aramaic *argavan*, and Rabbi Dr. Ari Zivotofsky notes in support
 that Yemenite Jews pronounce the name Marach-Shwan rather than Mar-Cheshvan. But the
@@ -131,16 +130,16 @@ Babylonian calendar is named ordinally, all of them being named for a pagan deit
 suggests instead that Arahsamna, and so Marcheshvan, was named for the Canaanite moon-god
 Yarikh (cognate with *yerach*) together with the Tyrian deity Eshmun, who may himself have
 been named for being eighth in birth order, depending on which version of the myth one
-takes. Rabbi Shaul Goldman suggests instead a link to *shemen* and the olive pressing. The
-Maharal's system joins the last two: seven is a complete unit and stands for nature, eight
-is the new beginning past a completed cycle and stands for what is above nature, and
-*shemonah* bears on *shemen* because oil rises above water, the most instrumental element
-of natural life, as the supernatural rises above the natural; so whether Marcheshvan goes
-with *shemonah* or with *shemen*, the two ideas hold together.
+takes. Rabbi Shaul Goldman suggests instead a link to *shemen* and the olive pressing. In
+Jewish numerology seven is a complete unit and eight the new beginning past a completed
+cycle; in the Maharal's system seven stands for nature and eight for what is above
+nature, and *shemonah* bears on *shemen* because oil rises above water, the most
+instrumental element of natural life, as the supernatural rises above the natural. In
+light of this, Rabbi Reuven Chaim Klein concludes, whether Marcheshvan goes with
+*shemonah* or with *shemen*, the two ideas hold together.
 
-A last loose end the column reports and cannot close: the Hebrew Wikipedia says that
-several medieval Ashkenazi manuscripts call the month simply "Shvan," and it was not able
-to learn more by press time.
+The Hebrew Wikipedia says that several medieval Ashkenazi manuscripts call the month
+simply "Shvan"; Rabbi Reuven Chaim Klein was not able to learn more by press time.
 
 ## Distinctions
 
@@ -157,8 +156,8 @@ homily too, and compares it to *emes*, made of the first, middle and last letter
 alef-beis.
 
 ### Marcheshvan (מרחשון)
-Absent from Tanach; the earliest source is Mishnah Taanis 1:3-4. The *mabul* began in this
-month (Rosh Hashanah 11b; Rashi to Bereishis 7:11-12, 8:4-5; Targum pseudo-Yonasan to
+Absent from Tanach, though it appears in Mishnah Taanis 1:3-4. The *mabul* is said to have
+begun in this month (Rosh Hashanah 11b; Rashi to Bereishis 7:11-12, 8:4-5; Targum pseudo-Yonasan to
 Bereishis 7:11), and in it Yeravam, wanting to stop his people going up to Yerushalayim,
 set up golden calves in Beis El and Dan and invented a holiday in the eighth month
 mimicking the Sukkos of the seventh (Melachim I 12:32-33).
@@ -166,7 +165,7 @@ mimicking the Sukkos of the seventh (Melachim I 12:32-33).
 ### mabul (מבול) and geshem (גשם)
 Rashi (to Bereishis 6:17): a *mabul* wastes everything (*bilui*), confounds everything
 (*bilbul*) and carries things from above to below (*movil*), so he too builds it on ב-ל.
-(The English *mobile*, the column notes, is not related to *movil* but comes from the
+(The English *mobile* is not related to *movil* but comes from the
 Latin *movere*, which also gives *move*.) Building on Rashi, Rabbi Moshe Shapiro
 (1935-2017) explains that the very same waters that come down from Heaven serve either as
 a destructive *mabul* or as a constructive *geshem*, the difference lying in whether the

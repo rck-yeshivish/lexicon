@@ -50,8 +50,7 @@ tabachim* (chief of the executioners, an army commander), *rav hachovel* (master
 of the rope, a ship's captain), *ravei hamelech* (the king's officers). *Rebbi*
 is "my *rav*," my master, "Rabbi" being its Anglicized form; for a Torah
 scholar, or even a lay observant Jew, that master is his teacher in Torah, and
-for a thief it is the leader of his delinquent gang. This is what lets the
-column answer the question it opens with. Reish Lakish, the quintessential
+for a thief it is the leader of his delinquent gang. Reish Lakish, the quintessential
 *baal teshuvah*, who went from highway robber to master Torah scholar,
 insinuated to his teacher and brother-in-law Rabbi Yochanan (*Bava Metzia* 84a)
 that Rabbi Yochanan had done him no real service in bringing him to teshuvah,

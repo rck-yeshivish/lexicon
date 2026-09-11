@@ -18,12 +18,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Seudah* is a **meal** built on bread, from *saad*, to sustain; it is the word
+*Seudah* is a **meal** generally associated with bread, from *saad*, to sustain; it is the word
 for the three Shabbos meals. *Mishteh* is a **feast** built on wine, from
 *shoseh*, to drink; it is the word for the Purim meal and for the banquets of
-Megillas Esther. *Mesibah* says nothing about food or drink at all: it is the
+Megillas Esther. *Mesibah* focuses on neither food nor drink: it is the
 meal at which people **recline**, and only later came to mean a party in
-general. Each word names one thing: the bread, the wine, or the posture.
+general. In Rabbi Klein's summary, each word focuses on one thing: the bread,
+the wine, or the posture.
 
 ## Distinctions
 
@@ -42,11 +43,10 @@ Hashem." So a *seudah* is named for what the festive meal does for the body.
 The word and its derivatives appear close to fifty times in Tanach, from the
 verb *shoseh*, to drink. Rabbi Tzaddok HaKohen of Lublin (1823 to 1900):
 *seudah* and *mishteh* are both festive meals, but the first centers on eating
-and the second on drinking, which is why *seudah* goes with bread and the
+and the second on drinking, which is why *seudah* is generally associated with bread and the
 Shabbos table while *mishteh* goes with wine and the Purim meal that
-commemorates the wine banquets of Megillas Esther. The column enters a "see,
-however" against this, without resolving it: Rashi (to Shir HaShirim 1:2,
-Koheles 2:3 and Esther 5:4) writes that the defining element of an enjoyable,
+commemorates the wine banquets of Megillas Esther. Rashi (to Shir HaShirim 1:2,
+Koheles 2:3 and Esther 5:4), however, writes that the defining element of an enjoyable,
 joyous *seudah* is the wine. Rabbi Levi Yitzchok of Berditchev (1740-1810,
 *Kedushas Levi*, Parshas Vayeira) reads *mishteh* as a meal of gladness, and on
 that basis explains that the party to which Esther invited Haman and
@@ -64,7 +64,7 @@ So a *mesibah* is a meal taken slouched on couches rather than sitting upright,
 and from there the word was borrowed for any gathering or party. One
 contemporary linguist argues instead that *mesibah* is related to
 *sovev*/*sevivah*, "around," and names the fact that everyone gathers around
-for a party; the column answers that this claim remains unsubstantiated.
+for a party; Rabbi Klein answers that this claim remains unsubstantiated.
 
 ## Rendering guidance
 

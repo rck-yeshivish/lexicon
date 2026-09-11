@@ -17,17 +17,18 @@ updated: 2026-09-10
 
 Three words for the same vice, one per layer of the language: *kilay* is the
 Biblical **miser**, *tzaykan* the Mishnaic **skinflint**, *kamtzan* the
-post-Mishnaic and Modern Hebrew **cheapskate**. Each carries its own image:
-*kilay* locks his money up, *tzaykan* is narrow and hard about parting with it,
-*kamtzan* measures out the smallest possible amount. *Kilay* is disputed.
+post-Mishnaic and Modern Hebrew **cheapskate**. Each carries its own image on the etymologies offered:
+*kilay* locks his money up (Rabbi Shlomo Pappenheim), *tzaykan* is narrow or,
+on another possible etymology, hard about parting with it, *kamtzan* measures
+out the smallest possible amount. *Kilay* is disputed.
 Commentators such as Radak read it as "miser," the Ashkenazic commentators
 (Rashi, Mahari Kara, Rabbi Eliezer of Beaugency) as "trickster."
 
 ## Distinctions
 
 ### kilay (כילי)
-Twice in Tanach, both in one perek (Yeshayahu 32:5, 32:7). Radak (there and in
-*Sefer HaShorashim*) reads it from the contrast with *shoa* and *nadiv*, the
+Twice in Tanach, both in one perek (Yeshayahu 32:5, 32:7). The commentators,
+Radak among them (there and in *Sefer HaShorashim*), read it from the contrast with *shoa* and *nadiv*, the
 open-handed: the *kilay* is the opposite, careful to a fault about what he gives,
 laying out money or effort only by exact measure.
 
@@ -36,7 +37,7 @@ Roots. Radak and Ibn Janach in their respective *Sifrei HaShorashim* assign it t
 measured quantity. Rabbi Shlomo Pappenheim takes the biliteral כ-ל,
 "all-encompassing," whence *kele* (jail, which detains the whole man), and reads
 *kilay* as one who jails his own money and goods so nobody else benefits. His
-other derivatives of כ-ל: *kol*, *kallah* (adorned with every sort of ornament),
+other derivatives of כ-ל: *kol*, *kallah* (typically adorned with every sort of ornament),
 *kalkalah* (providing for all one's needs), *makoles*, *keli* (what surrounds its
 contents on all sides), *heichal*, *kalos* (finishing, coming to be or being
 destroyed entirely), and *achilah*.
@@ -63,7 +64,7 @@ biliteral כ-ל but classes it with *nochel* (Malachi 1:14), *nichleihem*
 plotting; on the triliteralists' account those words come from נ-כ-ל.
 Pappenheim connects נ-כ-ל back to כ-ל by explaining that treacherous plotting
 is the final decision after an entire process of planning and thinking has
-been completed. Rashi has a third gloss elsewhere (to Sotah 41b): a desirous
+been completed. Rashi has another gloss elsewhere (to Sotah 41b): a desirous
 man who always wants to drink wine.
 
 *Bereishis Rabbah* 51:1 refers to an animal called a *kilay*, and there are
@@ -75,9 +76,10 @@ favor it. Some write that the *kilay* is a *Schildkröte*, the German for
 turtle. Either way both creatures carry a shell about with them, and on that
 basis Solomon Rabinowitz of New York (d. 1943) in his *Sefer HaMishkalim* draws
 the comparison to the cheapskate: as the cheapskate retreats into himself and
-is not generous with others, so the snail or turtle retreats into its shell
-rather than deal with the world, locking itself in and coming out only when the
-coast is clear. Rabinowitz conjectures from this that perhaps the Midrash's
+is not generous with others, so the snail or turtle sometimes retreats into its shell
+rather than deal with the world; and as those creatures might lock themselves
+in, so the cheapskate locks himself into his belongings and comes out only when
+the coast is clear. Rabinowitz conjectures from this that perhaps the Midrash's
 name for the creature was somehow influenced by the biblical *kilay*.
 
 ### tzaykan (צייקן)
@@ -89,8 +91,8 @@ them as ungenerous, using a cognate of *atzar*, stopping, for how they stop thei
 money from reaching anyone else; so too Rashi and Rabbeinu Chananel to Eruvin
 49a.
 
-Etymology is not readily obvious. Rabbi Dr. Ernest Klein (no relation to the
-columnist) theorizes that *tzaykan* derives from *tzuk*/*tzok*, a narrow strait
+Etymology is not readily obvious. Rabbi Dr. Ernest Klein (no relation to Rabbi
+Reuven Chaim Klein) theorizes that *tzaykan* derives from *tzuk*/*tzok*, a narrow strait
 or pressure, in the sense of the miser's narrow-mindedness about which causes
 deserve his money. Another possible etymology is *mutzak*, a hard metal, his
 hardness relating to the *tzaykan*'s hard-headed stubbornness about parting
@@ -103,26 +105,26 @@ trait is a virtue, not a vice.
 Post-Mishnaic and the living word today. It appears already in some girsaos of
 the Tosefta (Sotah 13, in the story of the Kohen who took two portions of
 lechem hapanim and still got only a bean's worth), and
-cognates appear in the Gemara mostly as verbs, where Rashi again reaches for
-*atzar* (Menachos 86a, Chullin 46a; Rashbam to Bava Basra 52b).
+cognates appear in the Gemara, especially as verbs, where in some places Rashi
+again reaches for *atzar* (Menachos 86a, Chullin 46a; Rashbam to Bava Basra 52b).
 
 The root is ק-מ-צ, seven times in Tanach, six of them the *kemitzah* of a
 minchah (Vayikra 2:2, 5:12, 6:8, Bamidbar 5:26). Rashi (Vayikra 2:2, Kesubos 8b,
 Zevachim 64b, Menachos 11a): the kohen closes his three middle fingers over his
 palm to take the flour and wipes away the excess with thumb and pinky, so that
 not a grain more than those three fingers hold remains. *Kemitzah* is therefore
-both containment and holding the amount to its minimum, which is exactly the
-*kamtzan*: he stores his wealth and keeps to the least anyone can get from him.
+both containment and holding the amount to its minimum, and both relate
+to the *kamtzan*: he stores his wealth and keeps to the least anyone can get from him.
 The seventh appearance, *likematzim* (Bereishis 41:47), describes Mitzrayim's
 yield in the years of plenty; Radak (there and in *Sefer HaShorashim*): from a
-minimal seeding the land gave three-finger loads of produce, again the sense of
-smallest measure.
+minimal seeding the land gave three-finger loads of produce. This too relates to
+*kemitzah* as smallest measure.
 
 The Aramaic *kamtza* seems to belong here too. Targum uses it for *arbeh*
 (Mishlei 30:27), *yelek* (Nachum 3:15) and *chagav* (Bamidbar 13:33, Yeshayahu
 40:22), all grasshoppers, and this perhaps relates to *kemitzah* and *kamtzan*
 in that a single grasshopper out of a whole swarm is a small quantity from
-within a much larger pool. Hence the two readings of *ein hakometz masbia es
+within a much larger pool. There are two readings of *ein hakometz masbia es
 ha'ari* (Berachos 3b, Sanhedrin 16a): that a *kometz* is a pithy sustenance,
 too small a quantity to provide the lion's share, or that *kometz* here means a
 grasshopper and one grasshopper will not satisfy a lion's hunger (Rashi to

@@ -29,7 +29,8 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Lahat* (Shemos 7:11) is the trick the practitioner works himself, **sleight of
+On the Gemara's reading (Sanhedrin 67b) as Rashi and Ramban explain it, *lahat*
+(Shemos 7:11) is the trick the practitioner works himself, **sleight of
 hand** or **magic arts**; *lat* (Shemos 7:22, 8:3, 8:14) is the covert method
 that works through *sheidim*, **secret arts**. For Onkelos, who treats them as
 one word, both are **incantation**. *Lahat* elsewhere means **flame** (Bereishis
@@ -56,7 +57,7 @@ first plague, and that is what the meforshim are commenting on.
 1. **Synonyms.** Targum Onkelos (to Shemos 7:11, 7:22) renders both as
    *lachash*, whispered incantation. Ibn Janach and Radak support this
    lexically: the triliteral ל-א-ט means "covered, hidden," and its middle *aleph*
-   can drop out or morph into a *vav* (Shmuel I 21:10; Yeshayahu 25:7), so it
+   can drop out or morph into a *vav* (Shmuel I 21:10; Yeshayahu 25:7); they suggest that it
    drops in *lat* and turns to *hey* in *lahat*. Rashi (to Shemos 7:11)
    cites Onkelos, and on 7:22 glosses *lat* as something said quietly. Rabbi
    Shlomo Pappenheim (*Yerios Shlomo*) likewise makes them one thing, the speed
@@ -66,22 +67,22 @@ first plague, and that is what the meforshim are commenting on.
    disputed: Rashi (to Sanhedrin 67b), the practitioner acts himself versus
    sending *sheidim*; the Tosafists (*Moshav Zekenim* to Shemos 7:11), sleight
    of hand versus compelling *sheidim*; Rabbi Avraham Saba (*Tzror HaMor*),
-   speech-acts versus magical instruments; Ramban (to Shemos 7:11), destructive
+   seemingly explaining the Gemara, magical instruments versus speech-acts; Ramban (to Shemos 7:11), destructive
    angels (*aish lohet*, Tehillim 104:4) versus the imperceptible *sheidim*.
 3. **Two words, one trick.** Ibn Ezra (to Shemos 7:11, 7:22) rejects the
    missing-*hey* derivation, holding that a radical *hey* does not sit in the
    middle of a triliteral root. He keeps the words separate but makes them two
    aspects of one act: *lahat* the lightning speed of the hand, *lat* the
-   concealment (compare Shoftim 4:21). Rabbi Yehuda HaLevi says much the same,
-   and Rav Hirsch (to Shemos 7:11) is in this family: *lahat* the shiny object
+   concealment (compare Shoftim 4:21). Rabbi Yehuda HaLevi says much the same.
+   Rav Hirsch (to Shemos 7:11): *lahat* is the shiny object
    that distracts the crowd, *lat* the quick hand while they are looking away.
 
-**Whether any of it worked.** Rabbi Saadia Gaon (*Emunos v'Deos*, maamar 3),
+**Whether any of it worked.** Rabbi Saadia Gaon,
 Rabbeinu Chananel ben Chushiel, Rabbi Yehuda HaLevi, and Rabbi Avraham Maimuni
 deny *sheidim* and the efficacy of *kishuf*. On their reading "they also did so"
 does not mean the *chartumim* achieved what Moshe and Aharon achieved; they
 performed the speech-acts, but those dry actions created nothing new and only
-*seemed* to copy. Rav Saadia Gaon and Ralbag (to Shemos 7:11, 7:22) accordingly
+*seemed* to copy. Rav Saadia Gaon (*Emunos v'Deos*, maamar 3) and Ralbag (to Shemos 7:11, 7:22) accordingly
 take both words to mean something done in a concealed or clandestine way: the
 *chartumim* pulled off the illusion at the staff, the blood and the frogs, and at
 the lice could not manage even the illusion. The Vilna Gaon (*Biur HaGra*, Yoreh
@@ -91,15 +92,15 @@ on *kishuf*, noting that the Torah itself seemingly attests to the efficacy of t
 *Klil HaYofi* (to Shemos 7:11), answers: he assumes as an axiom that the
 *chartumim* did no more than an illusory ploy, and finds two dimensions in it,
 *lahat* the sleight of hand, and *lat* the arousing of the onlooker's imagination
-so that he thinks he sees what is not there, which is *sheidim* in the Rambam's
+so that he thinks he sees what is not there, which relates to *sheidim* in the Rambam's
 sense (*Moreh Nevuchim* 3:46).
 
 ## Distinctions
 
 ### lahat (להט)
 Menachem Ibn Saruk lists it under ל-ה-ט, a root carrying two senses, "flame or
-blade" and "a type of *kishuf*." The two are one for Radak, who entertains the same
-possibility and suggests that some forms of magic call for a sharp sword.
+blade" and "a type of *kishuf*." Radak also entertains this
+possibility, suggesting that some forms of magic call for a sharp sword.
 Menachem never lists *lat* at all in *Machberet Menachem*, so there is no telling
 which root he would have put it under. Rashi (to Shemos 7:11) connects the magical sense
 to the *lahat hacherev hamis'hapeches* of Bereishis 3:24: the ever-turning sword
@@ -122,11 +123,11 @@ astrologer. Rabbi Shlomo Pappenheim reads the root as "slow movement": *ittim*
 are magicians who worked deliberately slowly when performing their rites, to
 heighten the drama and persuade the onlookers that the acts worked. Rashi (to
 Yeshayahu 19:3) takes *ittim* as the name of an idolatrous deity instead, which
-the column notes is often identified with the Egyptian god Atum or the Sumerian
+is often identified with the Egyptian god Atum or the Sumerian
 Ittyi. The same root gives *l'at*, "slowly, gently" (Bereishis 33:14; Shmuel II
 18:5; Yeshayahu 8:6; Iyov 15:11), and the lexicographers dispute whether the
-opening *lamed* is a radical. The column raises א-ט as a root seemingly related to
-all of this, but says plainly that it has found no one who explicitly connects
+opening *lamed* is a radical. Rabbi Klein raises א-ט as a root seemingly related to
+all of this, but says plainly that he has found no one who explicitly connects
 *lat* or *lahat* to it.
 
 ## Rendering guidance

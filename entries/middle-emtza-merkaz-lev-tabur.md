@@ -30,18 +30,18 @@ HaTishbi*, his lexicon of rabbinic Hebrew) traces the root to מ-צ-ע. The
 classical lexicographers (Menachem Ibn Saruk, Ibn Janach, Ibn Parchon in
 *Machberes HeAruch*, Radak) hold there is no such root in Biblical Hebrew at
 all: the one candidate word, *matza*, a mat (Yeshayahu 28:20), they derive from
-י-צ-ע, spreading out or laying out bedding. Rabbi Klein suggests that perhaps
+י-צ-ע, spreading out or laying out bedding. Rabbi Reuven Chaim Klein suggests that perhaps
 HaBachur saw the link exactly there, since unfurling a folded or rolled sheet
 reveals the inside, the "middle," of the material.
 
-Two dissents from the secular lexicographer Avraham Even-Shoshan (1906-1984),
-both of which the column cites. In his concordance of Biblical Hebrew he does
+Two dissents from the secular lexicographer Avraham Even-Shoshan (1906-1984).
+In his concordance of Biblical Hebrew he does
 trace *matza* to מ-צ-ע, against the classical lexicographers, though his
 etymology of *emtza* itself is a different one: in his "new dictionary" of
 Hebrew he argues that post-biblical *emtza* derives from the Greek *mesos*,
 "middle," the same Greek word behind *Mesopotamia*, the land in the middle of
 the Euphrates and the Tigris, and behind the scientific *meson*, a subatomic
-particle found in the middle of a nucleus. Linguists, the column reports, hold
+particle found in the middle of a nucleus. Linguists hold
 that Greek *mesos* comes from the Proto-Indo-European *medhyo*, which also
 yields Germanic *midja* and Latin *medius*, and through them the English
 *middle*, *medium*, *mediocre*, *mediate*, *midwife*, *medieval*,
@@ -66,8 +66,8 @@ fancy way of saying its middle. The great etymologist Rabbi Dr. Ernest Klein
 spot for tying"), which in turn derives from the Akkadian *rakasu* ("to
 fasten").
 
-Despite Ibn Tibbon's admission that the word comes from Arabic, the column
-holds there is still room to see something Hebraic in it. Rabbi Dovid Golumb
+Despite Ibn Tibbon's admission that the word comes from Arabic, Rabbi Reuven
+Chaim Klein holds there is still room to see something Hebraic in it. Rabbi Dovid Golumb
 (1861-1935, *Targumna*) conjectures that the late root ר-כ-ז actually comes
 from the earlier ר-כ-ס through the interchange of *zayin* and *samech*; Rabbi
 Ernest Klein, in his *A Comprehensive Etymological Dictionary of the Hebrew
@@ -92,7 +92,7 @@ interchange being attested in various ancient languages, most notably
 Egyptian). From all of this, Rabbi Reuven Chaim Klein concludes, it seems the root's
 principal sense is tying together; the knot is where the connection is
 strongest and most concentrated, and a thing's middle is generally where the
-concentration is highest, the extremities being thinner, so the semantic jump
+concentration is highest, the extremities typically being thinner, so the semantic jump
 from ר-כ-ס to ר-כ-ז is not so far.
 
 Like English "central," *merkaz* has drifted from the geometric to the
@@ -119,7 +119,7 @@ white tree), *Levanon* (the region where the *livneh* commonly grows) and
 *levonah* (frankincense, a whitish resin).
 
 In rabbinic parlance *aliba*, "according to," also comes from *lev*, the
-Aramaic meaning literally "on the heart of." The column adds a discovery of its
+Aramaic meaning literally "on the heart of." Rabbi Reuven Chaim Klein adds a discovery of his
 own, that *aliba* parallels the etymology of the English *according*. English
 *heart* and its Germanic cognates such as *herz* are related to Latin *cord*
 and Greek *kardia*, some Indo-European languages using an *h* where others use
@@ -137,10 +137,10 @@ both times as *tabur ha'aretz*, the middle of the land (Shoftim 9:37, Yechezkel
 38:12). The same move seems to have happened as with *lev*, from an organ in
 the middle of the body to the middle of anything; and just as the *lev* is
 essential to life, so the *tabur* is what sustains a fetus in its mother's
-womb. The column raises, on its own and without a source, whether *tabur* might
+womb. Rabbi Reuven Chaim Klein raises, on his own and without a source, whether *tabur* might
 also extend to the essential or chief point within a discussion the way *lev*
-does, and says plainly that it has not yet seen an example. (It also points the
-reader to its own earlier essay on the name Tiberias and *tabur*.)
+does, and says plainly that he has not yet seen an example. (The name Tiberias
+is also connected with *tabur*.)
 
 ### what is not "middle"
 The prefix *beis*, and *besoch*/*tichon*, *bekerev*/*kerev*, and *gav*/*go*,
@@ -149,8 +149,7 @@ are easy to confuse, since the middle is just the innermost point of a circle
 or regular polygon. Even where Targum and Rashi render *besoch* (Bereishis 2:9)
 with *emtza*, *besoch* does not typically mean the exact middle but simply
 somewhere not necessarily along the edge; see Ramban there and *Shu"t Maharit*
-vol. 2, Even HaEzer 8. The column leaves these words themselves for a future
-essay.
+vol. 2, Even HaEzer 8.
 
 ## Rendering guidance
 

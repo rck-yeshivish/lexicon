@@ -24,8 +24,7 @@ flips to "men of standing," Rashi). *Ish* is one individual, physically mature:
 **a man**, "man" as against woman or child. *Gever* is man as strength: **man**
 in the sense of the strong male, and not generic humanity, though whether it is
 always male is itself disputed (Ibn Ezra says yes, Rabbi Yehuda Leib Edel brings
-gender-neutral uses against him). The Zohar ranks them (*adam* > *enosh* > *ish* > *gever*), so a
-derashah on which word a pasuk uses is a derashah on rank.
+gender-neutral uses against him). The Zohar ranks them (*adam* > *enosh* > *ish* > *gever*).
 
 ## Distinctions
 
@@ -34,8 +33,7 @@ The all-encompassing word: singular and plural, male and female (Bereishis
 1:26-27; Zohar Nasso 141b). Malbim: *adam* behaves like a proper name, which is
 why it never takes a plural or feminine form; "two adams" is as wrong as "two
 Reuvens." On the root, some explain that he was called Adam because *adam* comes
-from *adamah*, ground, and he was created from the earth. The column presses the
-obvious objection: all the animals too were created from the earth (Bereishis
+from *adamah*, ground, and he was created from the earth. But all the animals too were created from the earth (Bereishis
 1:24), and *adam* is never used of them, so why is he the one called Adam? The
 Maharal answers that the name ties him to the ground as a reminder that just as
 dirt is worthless yet holds great potential to foster growth, so a man is
@@ -43,30 +41,30 @@ physically worthless, being only dust and ashes, yet holds great potential to
 grow. Rabbi Shlomo Pappenheim answers the question head on: the animals were not
 *created* from the earth, they merely *emerged* from it, while Adam was actually
 created from it. Pappenheim also ties *adam*, separately, to the biliteral ד-ם, "similar" (*domeh*,
-*demus*, *dimyon*), because man is made in Hashem's image and resembles Him in
-the way his actions echo through creation. Rav Hirsch: from *hadom*, footstool,
-for man was meant to sit at Hashem's footstool as His deputy. Rabbi Yaakov Tzvi
+*demus*, *dimyon*), because man is made in Hashem's image and resembles Him in some ways, most
+obviously in the way his actions echo through creation. Rav Hirsch: from *hadom*, footstool,
+for man was meant to sit at Hashem's footstool as His deputy, so to speak. Rabbi Yaakov Tzvi
 Mecklenburg: the *adamah* link marks man's pull toward the material, so *adam*
 names the great distance he can travel toward the spiritual. The Zohar (Tazria
 48a): *adam* is man at his highest potential.
 
 ### enosh (אנוש)
-Man in degradation (Yeshayahu 51:12), lost hope (Iyov 14:19), or the pursuit of
+Usually man in degradation (Yeshayahu 51:12), lost hope (Iyov 14:19), or the pursuit of
 bodily pleasure (Tehillim 104:15); the angels who argued against giving man the
 Torah called him *enosh* (Tehillim 8:5). Radak (*Sefer HaShorashim*): the root
 א-נ-ש means weak and sickly. Rabbi Shlomo Pappenheim: from נ-ש, "moved from its
 natural condition" (*nosheh*, *nashah*, *anush*), so *enosh* is man whose powers
-are weak beside greater spiritual beings. Wertheimer: *enosh* is *ish* with a
+are, in some ways, weak beside greater spiritual beings. Wertheimer: *enosh* is *ish* with a
 diminutive nun. The Vilna Gaon: the image of Hashem held fully only for Adam and
 Sheis; it was lost in the days of Sheis's son Enosh, when idolatry began to
 develop, and the loss of that spiritual resemblance was reflected in physical
 ways, leaving man weakened, to the point that according to the Midrash people's
 faces came to look like apes. Rashi (to Bamidbar 13:3): the plural *anashim* means men of
-importance, because the lowly man who joins others and humbles himself before
-them becomes important through the group.
+importance. Rabbi Klein explains why: the lowly man who joins others and humbles
+himself before them becomes important through the group.
 
 ### ish (איש)
-The exclusive term: man as against woman, or man as against child. Where *adam*
+The exclusive term: sometimes man as against woman, sometimes man as against child. Where *adam*
 names the species, *ish* names a single specimen of any species, which is why
 the Tanach uses it of an angel (Yechezkel 9:11), a keruv (Shemos 25:20), a star
 (Yeshayahu 40:26), an animal (Bereishis 7:2), even a curtain (Shemos 26:3).
@@ -79,8 +77,8 @@ man's greatest possibilities.
 ### gever (גבר)
 Ibn Ezra (to Shemos 10:11): always a male as against a female. Rabbi Yehuda Leib
 Edel disputes this and cites gender-neutral uses. Malbim: from *gevurah*, so it
-recalls strength and potency and usually means the male; a woman in power takes
-a cognate, *gevirah* (Yirmiyahu 13:18) or *geveres* (Yeshayahu 47:5), queen,
+recalls strength and potency and usually means the male; a woman in power may be
+called by a cognate, *gevirah* (Yirmiyahu 13:18) or *geveres* (Yeshayahu 47:5), queen,
 queen-mother, mistress, lady of the house.
 
 Ibn Yachya reads the four as life stages: *adam* the child (nearest the ground),

@@ -15,26 +15,25 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Iruv* is the general word and it is for **dry** things intermingling:
+*Iruv* is for **dry** things intermingling:
 **mixing, intermingling**. *Mizug* is for **liquids**, specifically the pouring
 of one into another: **mixing, diluting** (a cup of wine). *Dimua* is the
-halachic term for **terumah** that has fallen into unsanctified produce:
-**commingling**. *Dimua* and *dimah* ("tear") are the same root ד-מ-ע, and how the
-two senses relate is, in the column's words, the subject of much discussion;
-most of the commentators it brings hold them connected, Ibn Janach being the
-one who does not, so a source that plays tears against mixture is not punning
-loosely.
+Mishnaic term for mixing, used for instance of **terumah** that has fallen into
+unsanctified produce: **commingling**. *Dimua* and *dimah* ("tear") are the same root ד-מ-ע, and how the
+two senses relate has been the subject of much discussion;
+most of the commentators below hold them connected, Ibn Janach being the
+one who does not.
 
 ## Distinctions
 
 ### iruv (עירוב)
-Root ע-ר-ב, one of the most polysemous in the language. In this sense it serves
+Root ע-ר-ב, a quite versatile root with a plethora of meanings. In this sense it serves
 in Tanach (Mishlei 14:10, 20:19, 24:21; Tehillim 106:35; Ezra 9:2) and in
 Biblical Aramaic (Daniel 2:41, 2:43): Ezra's *hisarvu*, of Jewish seed mixed
 with the seed of the nations, and Tehillim's *vayisarvu*, of Jews mingling with
 the gentiles and learning their ways. Declensions: *taarovess* and *irbuv*
 (mixtures), *eiruv*. Rabbi Shimon Dov Ber Analak of Shidlitz: *iruv* is the
-mixing up of **dry** objects, which is why it serves for people intermingling.
+mixing up of **dry** objects, as with people intermingling.
 
 ### mizug (מזיגה)
 Apparently from מ-ז-ג, a root that surfaces in Tanach exactly once, in the noun
@@ -57,10 +56,11 @@ preserves the wine's taste as the *zag* naturally does. Analak: *mizug* is for
 **liquid** ingredients, wine mixed with water.
 
 ### dimua (דימוע)
-Root ד-מ-ע. The Mishnaic term for terumah mixed into chullin (Terumos 1:4, 3:1,
+Root ד-מ-ע. The Mishnaic term for mixing, used for instance of terumah mixed
+into chullin (Terumos 1:4, 3:1,
 3:9, 4:7, 5:5-6, 9:4; Challah 1:4, 3:2; Orlah 2:4, 2:6; Demai 1:3; Shabbos
 21:1; Chagigah 3:4; Gittin 5:4; Avodah Zarah 3:4, 4:7; Ohalos 16:4; Taharos
-3:4). In Tanach it is essentially absent, with one contested exception: the
+3:4). In Tanach this sense seems absent, with one possible exception: the
 warning not to delay one's *dimah* (Shemos 22:28), which Temurah 4a and the
 Mechilta read as terumah. Rashi there says outright that he does not know why
 terumah should be called *dimah*; to Temurah 4a he explains that terumah is
@@ -70,8 +70,8 @@ ratio is only a rabbinic stringency and cannot explain a name the Torah itself
 uses; they read *dimah* as implying something wet, terumah being the one tithe
 that may be taken from produce already in liquid form. Rabbi Meir Posner (*Beis
 Meir* to Even HaEzer §67) defends Rashi: the Torah may name a thing in
-anticipation of a later enactment, as Kesubos 10b reads *almanah* against the
-*manah* of a widow's kesubah; and Rashi to Pesachim 44a treats the
+anticipation of a later enactment. This is reminiscent of Kesubos 10b, which
+reads *almanah* against the *manah* of a widow's kesubah. And Rashi to Pesachim 44a treats the
 one-in-a-hundred rule as Biblical anyway.
 
 ### dimah (דמעה), tear
@@ -87,7 +87,7 @@ Ramban also suggests that perhaps the agricultural sense is borrowed from the
 tear, or that neither is borrowed and *dimah* means tear-like droplets of any
 kind. Maharal (*Gur Aryeh*): terumah is *dimah* because it applies once the
 wine or oil has separated from the fruit, as a tear separates from the eye.
-Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) runs it the other way:
+Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) bridges the two meanings:
 mixture is the core sense, as it more commonly is in Mishnaic Hebrew, and tears
 show outwardly how mixed up a man's feelings are.
 
@@ -97,8 +97,7 @@ begins once the fruit ripens on its own, so *dimah* as tithable produce points
 to the manmade character of wine and oil, which have to be pressed out of the
 grape and the olive rather than occurring naturally. He notes that wine is
 called poetically the blood (*dam*) of grapes (Bereishis 49:11; Devarim 32:14),
-pressing being a sort of violence done to the fruit. The column reports itself
-unsure whether Rav Hirsch meant this as an etymology at all, and, if he did,
+pressing being a sort of violence done to the fruit. It is unclear whether Rav Hirsch meant this as an etymology at all, and, if he did,
 whether he held *dimah*, with an ayin, to be etymologically related to *dam*,
 without one. Elsewhere (Vayikra 7:19, 11:43; Bamidbar 18:29) Rav Hirsch
 compares ד-מ-ע with the phonetically near roots ט-מ-ע (mixing, assimilating),
@@ -115,9 +114,9 @@ hem ba'aretz* (Shemos 14:3). The Mechilta there explicates *nevuchim* as an
 expression of mixture, Pharaoh thinking they were confused and mixed up about
 where they were headed; alternatively it reads *nevuchim* as related to
 *bocheh*, weeping, Pharaoh foreseeing that they were destined to cry in the
-wilderness (Bamidbar 14:1). The column holds there is reason to think the two
+wilderness (Bamidbar 14:1). Rabbi Klein holds there is reason to think the two
 explanations are actually related. Rabbi Yisroel Yaakov Algazi (*Kehillas
-Yaakov*) explains *navochah* of Shushan (Esther 3:15) the same way: on the
+Yaakov*) explains *navochah* of Shushan (Esther 3:15) similarly: on the
 simple level the Jews were confused as to what the future held, and Algazi adds
 that *navochah* also bears on *bocheh*, one of the last avenues left them being
 to cry out to Hashem to save them. Rabbi Shlomo Pappenheim of Breslau (*Cheshek

@@ -20,13 +20,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Rachum* (*rachamim*) is **mercy**, **compassion**: the savior is moved by the
-sufferer's plight and acts. *Chanun* (*chein*) is **grace**, **favor**: the
+*Rachum* (*rachamim*) is **mercy**, **compassion**; in Rabbi Klein's own
+analysis, the savior is moved by the sufferer's plight and acts. *Chanun* (*chein*) is **grace**, **favor**: the
 sufferer finds favor and is given a free gift he need not deserve (Rashi:
 *matnas chinam*). *Chus* is **sparing**, refusing to let something be lost
 because one values it; *chemlah* is **pity** that will not see a thing ruined
-for its own worth, and it reaches the one who cannot ask (Malbim, Wertheimer).
-*Rachum* looks at the giver's heart, *chanun* at the receiver's standing.
+for its own worth, and it can reach the one who cannot ask (Malbim, Wertheimer).
+So for Rabbi Klein *rachum* looks at the giver's heart, *chanun* at the
+receiver's standing; other commentators divide the two differently.
 
 ## Distinctions
 
@@ -34,14 +35,14 @@ for its own worth, and it reaches the one who cannot ask (Malbim, Wertheimer).
 Both *rachum* and *chanun* are of the Thirteen Attributes of Mercy that Hashem
 revealed to Moshe as he prayed for the Jewish People after the golden calf,
 attributes that are key to how Hashem runs the world and to how a man attains
-atonement; the column notes that although we generally refrain from adjectives
-in describing Hashem, these are presented as such. Rabbeinu Bachaya (on Shemos)
+atonement; although one generally refrains from using adjectives
+to describe Hashem, these are presented as such. Rabbeinu Bachaya (on Shemos)
 writes that *rachum* and *chanun* are Hashem's way of forgiving sinners who ask
 forgiveness, repent and undergo some affliction, but he does not there explain
 how the two differ; elsewhere he writes that they are actually one and the same
 attribute, His heeding prayer in time of need even before that person has
 repented, and finds support in the fact that Tanach often uses them together,
-sometimes in one order and sometimes in the other. The column's own analysis,
+sometimes in one order and sometimes in the other. Rabbi Klein's own analysis,
 by way of an analogy from the relationship between a victim and one with the
 power to save him: *rachum* focuses on the savior, who sees the victim's
 downtrodden state, empathizes with him, and ultimately decides to save; he acts
@@ -57,8 +58,8 @@ from any form of suffering. Malbim: *rachmanus* applies only to an intelligent
 being; one pities a child or an animal differently from an adult.
 
 ### chanun (חנון), chein (חן)
-The column: *chanun* focuses on the victim, who finds favor (*chein*) in the
-savior's eyes (with Hashem, through prayer) or is simply granted (*choneh*) a
+Rabbi Klein: *chanun* focuses on the victim, who finds favor (*chein*) in the
+savior's eyes (with Hashem, this may come through prayer) or is simply granted (*choneh*) a
 reprieve. Rashi (to Devarim 3:23): *chanun* recalls *matnas chinam*, a free
 gift, relief not necessarily deserved. Bechor-Shor: *chanun* is for the rich,
 a present regardless of need. Gloss to Tosafos: *chanun* is a special reprieve
@@ -70,11 +71,11 @@ himself.
 
 ### chus (חוס) and chemlah (חמלה)
 Neither is among the Thirteen Attributes. Malbim: both can be felt toward any
-entity, not only an intelligent one; in English, "caring." *Chus* is refusing
+entity, not only an intelligent one (English calls this "caring"); *chus* is refusing
 to let a thing be destroyed because one would lose the benefit one has from it
 (the *chas* of *chas v'shalom*). *Chemlah* is refusing to let a thing be ruined
 because of an innate quality in it, a beauty or a completeness one does not
-want to see spoiled. Wertheimer: *chemlah* extends to pitying one who cannot
+want to see spoiled. Wertheimer: *chemlah* can extend to pitying one who cannot
 ask for help, a child or one without the faculties to ask.
 
 ## Rendering guidance

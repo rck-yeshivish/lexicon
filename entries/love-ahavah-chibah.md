@@ -21,9 +21,9 @@ that gives itself to the beloved (Rav Hirsch, Rabbi Eliyahu Lopian) and embraces
 whole person, faults included (Rabbi Yosef Zechariah Stern). *Chibah* is love held
 close and inward, love of what is dear in someone: **fondness, affection**; *chaviv*,
 **dear**. *Rechim* is the Targum's Aramaic for *ahavah* (in Hebrew the root is
-mercy, save Tehillim 18:2): **love**. *Agav* is the counterfeit: **lust**, never
-love. On the readings above *chibah* is not a plain synonym; beside *ahavah* it
-is the narrower, inner, selective word. The column itself, though, offers the other possibility, that
+usually mercy, save Tehillim 18:2): **love**. *Agav* is love in its negative form:
+**lust**, not the positive love the others name. On the readings above *chibah* is not a plain synonym; beside *ahavah* it
+is the narrower, inner, selective word. Rabbi Klein himself, though, offers the other possibility, that
 *chibah* is no different from *ahavah* and may even be etymologically the same
 word, so the distinction is not closed.
 
@@ -64,19 +64,19 @@ between love that depends on a matter and love that does not; he applies his
 definition both to loving Hashem (Devarim 6:5) and to loving a fellow Jew
 (Vayikra 19:18).
 
-The root appears close to 250 times in Tanach, almost always for the verb or the
+The root appears close to 250 times in Tanach, in most cases for the verb or the
 abstract noun. In three cases the plural *ahavim* means concrete expressions of
 love, verbal or physical (Mishlei 5:19, 7:18; Hoshea 8:9). One passage fits none of these: Shir HaShirim 3:10 describes the
 *apiryon* as *ratzuf ahavah*, "paved with *ahavah*," where the word seems to name
 a material rather than an emotion. *HALOT* (Koehler and Baumgartner) argues that
 in this context *ahavah* is cognate with the Arabic *ihab*, "leather, skin," and
-the column leaves it to the reader to work out what that would have to do with
+Rabbi Klein leaves it to the reader to work out what that would have to do with
 love; Rabbi Yosef Kara reads the word there as the emotional motivations of those
-who built the *apiryon*, not the material they used. The column also reports the
+who built the *apiryon*, not the material they used. An
 approach first suggested by the German philologist Wilhelm Gesenius and later
-partly adopted by *HALOT*, tying *ahavah* to the Arabic *habba*, "to breathe
-heavily" or "to be excited," and on that basis grouping *ahavah*, *hav*, *avah*,
-*chibah* and *hevel* together as onomatopoeic renderings of heavy breathing.
+partly adopted by *HALOT* ties *ahavah* to the Arabic *habba*, "to breathe
+heavily" or "to be excited"; on that basis Gesenius connects *ahavah*, *hav*, *avah*,
+*chibah* and *hevel*, implying that all are onomatopoeic renderings of heavy breathing.
 
 ### chibah (חיבה) and chaviv (חביב)
 Root ח-ב-ב. Cognates are already in Tanach: Hashem calls the Jews *chovev amim*,
@@ -86,12 +86,13 @@ Tehillim 18:2, rendering *erchamcha*, uses a cognate of *chibah*. Pappenheim
 (*Yerios Shlomo*, *Cheshek Shlomo*): from ח-ב, hidden (as in *mischabeh*); one who
 is *chaviv* is embedded in the memory and in the depths of the heart, as if hidden
 inside the one who dotes on him. He puts under the same root *chov* (a debt, since
-the debtor may try to hide from the creditor, or since the lender hides his assets
+the debtor may try to hide from the creditor, or since the lender could be said to hide his assets
 by handing them over for a time), *machavas* (a frying pan, deep enough to hide
 what is in it) and *chavis* (a barrel, closed on every side). Rabbi Benzion Chaim
 Lubetzky (*Midrash
 Safah Echas*): *chibah* is love kept inside and not necessarily expressed
-outwardly, unlike *ahavah*, which tends to outward expression. Rabbi Yosef Zechariah
+outwardly. Rabbi Klein notes that this seems to differ from *ahavah*, which tends
+to outward expression. Rabbi Yosef Zechariah
 Stern (via Rabbi Yehuda Leib Maimon-Fishman): *chibah* is love of a person's
 positive aspects only; *ahavah* embraces the whole person, shortcomings included.
 Hence the Mishnah (Berachos 9:5) derives from ואהבת that one blesses over the bad as
@@ -100,19 +101,19 @@ oneself with one's own; Rabbi Stern therefore called himself an *ohev Tzion*, no
 *chovev Tzion*. Shadal (Devarim 33:3) ties *chibah* to *chubi*, bosom (Iyov 31:33),
 an expression of close intimacy, something one carries in one's bosom.
 
-Against all of this the column enters its own counter-suggestion: we may argue
+Against all of this Rabbi Klein enters his own counter-suggestion: one may argue
 that *chibah* is really no different from *ahavah*, and may even be
 etymologically the same word, since aleph, hey, ches and ayin are often taken as
 interchangeable, so that swapping the opening ches of ח-ב-ה for an aleph or hey
-and reordering the letters yields א-ה-ב. That is the column's own move, not any
+and reordering the letters yields א-ה-ב. That is his own move, not any
 authority's, but it leaves the *chibah*-versus-*ahavah* distinction an open
 question.
 
 ### rechim (רחים)
 Root ר-ח-ם. In Hebrew usually mercy (*racheim*, *rachamim*), the womb (*rechem*),
 or a bird (*racham*, Vayikra 11:18; Devarim 14:17). The one clear exception is
-ארחמך ה' (Tehillim 18:2), which Ibn Janach, Rashi, Ibn Ezra, Radak, and Ibn Ramoch
-all render "I will love You." The column's evidence is vocalization: wherever the
+ארחמך ה' (Tehillim 18:2), which the commentators, among them Ibn Janach, Rashi, Ibn Ezra, Radak, and Ibn Ramoch,
+all render "I will love You." Rabbi Klein points to the vocalization: wherever the
 first-person verb of pitying occurs the vowel under the reish is a *patach*
 (*aracheim*, Shemos 33:19, Yirmiyahu 13:14, 30:18, Hoshea 1:6-7, 2:6;
 *arachamenu*, Yirmiyahu 31:20), and *erchamcha* alone is vocalized otherwise. In
@@ -122,7 +123,7 @@ Avineri: it is not too astonishing that one root carries both senses, since love
 is the root of mercy, one having mercy only on whom he loves. Rav Hirsch (Shemos
 13:2): the root's primary denotation is a mother's protectiveness, which joins
 *rechem*, where a mother shields her unborn child, to *rachamim*, the dominant
-trait of a protective mother. The column adds on its own account that the bird
+trait of a protective mother. Rabbi Klein adds on his own account that the bird
 *racham* fits too, both because it heralds rain, which is close to mercy (Chullin
 63a), and because that mother bird is understood to be especially merciful to its
 young (*Peirush HaRokeach* and *Moshav Zekanim* to Vayikra 11:18).
@@ -131,24 +132,25 @@ young (*Peirush HaRokeach* and *Moshav Zekanim* to Vayikra 11:18).
 Root ע-ג-ב. Ten occurrences, all in Yechezkel 23 and 33 except Yirmiyahu 4:30: a
 negative love, lust, used of Israel's lusting after idolatry. Plural *agavim* is
 expressions of lust, lewd songs (Yechezkel 33:31-32). Rabbi Yehuda Leib Edel: *agav*
-is marked by outward professions of love, lewd gestures and songs, the opposite of
-Lubetzky's inward *chibah*. The same root gives the *ugav*, an unidentified
+is marked by outward professions of love, lewd gestures and songs; that, Rabbi Klein
+notes, makes it the opposite of *chibah* as Lubetzky reads it. The same root gives the *ugav*, an unidentified
 musical instrument mentioned four times (Bereishis 4:21; Iyov 21:21, 30:31;
 Tehillim 150:4). Shadal (Bereishis 4:21) surmises that *ugav* is a portmanteau of
 *al* and *gav*, "on the back," and does not connect it to *agav* in the sense of
 love. Rabbi Yitzchak of Zeldin (*Shoresh Yesha*) does connect them: the *ugav*
-produced sensuous, romantically appealing tones. The column notes that linguists
+produced sensuous, romantically appealing tones. Linguists
 in *BDB* cite the same idea. Zeldin likewise brings in *agavos*, "buttocks" in the
 Gemara (Berachos 24a, Sanhedrin 38b, Niddah 30b), since the movement of the thigh
 can awaken the desires of onlookers. Rabbi David Chaim Chelouche, the late Chief
 Rabbi of Netanya, takes a more prosaic route: the root names a shape, a half-oval,
 so the *ugav* is an instrument of that shape and the *agavos* protrude in that
 shape; he derives *agav* in the sense of licentious love from *agavos* but does
-not quite explain how, and the column's own guess is that this kind of "love" is a
-smokescreen for desire aroused by wrongly fixing on a person's physical qualities.
+not quite explain how, and Rabbi Klein's own guess is that this kind of "love" is a
+smokescreen for desire that may have been aroused by wrongly fixing on a person's
+physical qualities.
 From the same root come the Modern Hebrew *agevet*, syphilis, and *agvaniyah*,
 tomato, which Yechiel Michel Pines coined after *agav* because European languages
-called the tomato a "love apple"; the column records that Rabbi Tzvi Yehuda Kook
+called the tomato a "love apple"; it is related that Rabbi Tzvi Yehuda Kook
 would never say *agvaniyah* on account of that derivation.
 
 On the Greek side, Professor Saul Levin entertains the possibility that the Greek
@@ -169,14 +171,13 @@ Zeira (Rosh HaShanah 29a, Nedarim 32a, Eruvin 96b). Rabbi Shlomo Luria (*Yam She
 Shlomo* to Gittin 4:30) treats the confusion between the masculine names Ahuviyah
 and Ahuvyah, the latter apparently a calque of the German Gottlieb, as Rabbi Yaakov
 Margolis of Regensburg implies in *Seder HaGet* §21; the name Ahuv appears in the
-responsa *HaMabit* (vol. 1 §69). The feminine Ahuvah, the column reports linguists
-saying, is a relatively recent Hebrew calque of the Yiddish Leeba and not an
+responsa *HaMabit* (vol. 1 §69). The feminine Ahuvah, linguists explain, is a relatively recent Hebrew calque of the Yiddish Leeba and not an
 original Hebrew name, though a bulla from the City of David bears the name
-*ne'ehevet*, of which the column says frankly that it is not convinced it must be
+*ne'ehevet*, of which Rabbi Klein says frankly that he is not convinced it must be
 a proper name at all. From ר-ח-ם there is one Racham in Tanach (Divrei HaYamim I
 2:44) and men named Rav Rechumi or Ben-Rechumi in the Gemara (Pesachim 39a,
 Kesubos 62b, Nazir 13a, Zevachim 77a); whether these point to love, mercy, rain or
-something else, the column says, remains unclear.
+something else remains unclear.
 
 ## Rendering guidance
 
