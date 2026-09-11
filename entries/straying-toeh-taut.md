@@ -18,8 +18,8 @@ updated: 2026-09-10
 The two are essentially pronounced alike and spelled differently, and the
 general assumption among the commentators is that **תעה (tav) is "lost,
 stray"** and **טעה (tet) is "err, make a mistake"**; throughout Rabbinic
-literature *ta'us* always means a mistake. The column does not settle whether
-they differ. Rabbi Eliyahu HaBachur draws the line as straying off the path
+literature *ta'us* always means a mistake. Whether they differ is disputed.
+Rabbi Eliyahu HaBachur draws the line as straying off the path
 against an error of heart or intellect. Rabbi Avraham Aharon Broide rejects
 that: the tav word too means erring, and Radak writes that the two are the same
 word, the tav being the preferred orthography in Scripture and the tet in
@@ -58,7 +58,7 @@ in Rabbinic sources. In Rabbinic literature *ta'us* always refers to a mistake.
 Rabbi Yaakov Zev Lev of Sanhedria HaMurchevet (*Me'as Tzari*) reconciles the
 difference of opinions: in Hebrew there is a difference between the tav and tet
 words, but in Aramaic there is only one word, spelled with a tet, carrying both
-meanings. The column adds that Rabbi Eliyahu HaBachur himself already
+meanings. Rabbi Klein adds that Rabbi Eliyahu HaBachur himself already
 acknowledged this in his *Meturgaman*, where he correctly asserts that wherever
 cognates of the tav word appear in Tanach, the Targumim replace the tav with a
 tet.
@@ -74,14 +74,14 @@ where he is going, and has decided the improper path to be the proper one.
 ### The Targum on Hagar
 Bereishis 21:14 says Hagar left *va'teisa*, strayed (tav), in the wilderness of
 Be'er Sheva, and Onkelos renders it with a tet. Rabbi Broide's answer, given at
-a gathering where no one else offered one: the Targumim render idolatrous
+a gathering where no one else offered one: the Targumim generally render idolatrous
 deities *ta'avasa* (tet), on the understanding that avodah zarah began as
 mankind's mistake (Rambam, Hilchos Avodah Zarah ch. 1); so Onkelos hints at the
 tradition (in Pirkei DeRabbi Eliezer there and in other sources) that when
 Hagar left Avraham's house she returned to the idolatry of her youth. She did
-not only lose her way, she also erred by returning to idolatry. The column
-brings the discussion as an illustration of the general assumption that the
-tav word is "lost" and the tet word "mistaken."
+not only lose her way, she also erred by returning to idolatry. The discussion
+illustrates the general assumption that the tav word is "lost" and the tet word
+"mistaken."
 
 ## Rendering guidance
 

@@ -28,12 +28,12 @@ strength, which man shares with beast (Rabbi Soloveitchik). *Gevurah* is
 *koach*, for Rabbi Mecklenburg *koach* used to defeat opposition rather than
 merely withstand it, for Rabbi Soloveitchik the heroism given to man alone to
 transcend the instinct of survival; the Mishnah's *gibbor* conquers his yetzer
-(Avos 4:1). On *chozek* the two columns carry different views: for Bedersi and
-Wertheimer it is the standard word for **strong** and *ometz* is strength above
-the normal measure, while for Rabbi Pappenheim *chozek* is already
-extra-strength *koach*, the strength by which one stands out above the rest. The
-Vilna Gaon makes *chozek* outer, physical strength and *ometz* strength of the
-heart, and the column gives four more readings of *chazak v'ematz*. *Eitan* is
+(Avos 4:1). On *chozek*: for Bedersi and Wertheimer it is the standard word for
+**strong** and *ometz* is strength above the normal measure; for Rabbi
+Pappenheim *chozek* is extra-strength *koach*, the strength by which one stands
+out above the rest. The Vilna Gaon makes *chozek* outer, physical strength and
+*ometz* strength of the heart, and *chazak v'ematz* has four more readings
+besides (below). *Eitan* is
 strength that holds back (Rabbi Edel) or endures (Rav Hirsch); *adir* the most
 powerful of a whole group (Rabbi Pappenheim); *oz* strength of spirit that
 others cannot deter (Wertheimer), or, for Rabbi Wessely, primarily Divine,
@@ -60,8 +60,8 @@ Rashi there, pace Tosafos).
 
 ### gevurah (גבורה)
 The Mishnah (Avos 4:1) asks who is a *gibbor* and answers, he who conquers his
-yetzer; the column reads this as tying *gevurah* to self-control, as it ties
-*eitan* to restraint. Rabbi Soloveitchik echoes the idea: *gevurah* is given
+yetzer; Rabbi Klein reads this as tying *gevurah* to self-control, just like
+*eitan*. Rabbi Soloveitchik echoes the idea: *gevurah* is given
 exclusively to man, his ability to transcend the brute instinct of survival he
 shares with the animals, and is best translated "heroism," the courage to enter
 a situation that may not be ideal for his physical survival. Accordingly a
@@ -73,7 +73,7 @@ also borrows the word for elements of nature without free will, like water
 (e.g. Bereishis 7:18-19); for him *gevurah* is the act by which one actualizes
 one's potential *koach*, an outward show of strength. Rabbi Mecklenburg: where
 *koach* withstands what opposes it, *gevurah* is a more proactive use of *koach*
-that seeks to defeat the opposition entirely. The column adds, on its own
+that seeks to defeat the opposition entirely. Rabbi Klein adds, on his own
 account and conditionally: if *gevurah* entails holding oneself back, Hashem is
 the immaculate *Gibbor*, holding back His anger and giving the wicked time
 before punishing them (see Yoma 69b), and for this reason He is often called
@@ -85,8 +85,7 @@ Moshe, passing the leadership to Yehoshua, tells him *chazak v'ematz* (Devarim
 31:7); Hashem says it to him at Devarim 31:23 and three times more (Yehoshua 1:6,
 1:7, 1:9), and the
 people say it to Yehoshua (1:18); David says it to Shlomo (Divrei HaYamim I
-22:13, 28:20). The column asks what the seemingly redundant pair means, and
-gives these readings:
+22:13, 28:20). The pair seems redundant, and it is read in these ways:
 
 1. Rabbi Avraham Bedersi HaPenini (a 13th century Spanish sage) and Rabbi
    Shlomo Aharon Wertheimer (1866 to 1935): *chozek* is the standard word for
@@ -117,11 +116,9 @@ gives these readings:
 
 Rabbi Pappenheim also sets *chozek* against *tokef*: *chozek* is the strength to
 withstand being overpowered by another, *tokef* the strength actually to
-overpower others. In "The Power to Hold Back" he makes *chozek* extra-strength
-*koach*, a non-standard ability by which one person stands out above the rest,
-and calling someone *chazak* means he is more powerful than someone else (see
-*adir*, below). The columns do not set this beside Bedersi and Wertheimer, for
-whom *chozek* is the standard word.
+overpower others. He also makes *chozek* extra-strength *koach*, a non-standard
+ability by which one person stands out above the rest, and calling someone
+*chazak* means he is more powerful than someone else (see *adir*, below).
 
 ### otzem (עצם) and oz (עז)
 Rabbi Dr. Asher Weiser (editor of the Mossad HaRav Kook edition of Ibn Ezra on
@@ -171,29 +168,28 @@ us feel we can do something for Him in return by keeping the Torah and giving
 Him *oz*.
 
 ### eitan (איתן)
-"The Power to Hold Back" opens with Tishrei, which Melachim I 8:2 calls the
-month of the *Eitanim*. The Gemara (Rosh Hashanah 11a) explains that the Avos,
+Melachim I 8:2 calls Tishrei the month of the *Eitanim*. The Gemara (Rosh Hashanah 11a) explains that the Avos,
 called *eitanim*, "powerful ones," were born in it, which leads the Gemara
 elsewhere to identify Eitan HaEzrachi (Tehillim 89:1) with Avraham, the
 "powerful" one who stemmed the tide of polytheism (see Maharsha to Bava Basra
-15a). The column sets out to show that five words for power, *eitan*, *koach*,
-*gevurah*, *adir* and *kabir*, are not true synonyms.
+15a). Rabbi Klein holds that five words for power, *eitan*, *koach*, *gevurah*,
+*adir* and *kabir*, are not true synonyms.
 
 *Nachal eitan* (Devarim 21:4): for Rashi *nachal* is a valley or wadi and
 *eitan* strong or hard, a rocky place; for Rambam (Hilchos Rotzeach 9:2)
 *nachal* is a river and *eitan* strong-flowing. Rabbi Edel, without referring to
 either, reconciles their views: *eitan* is literally the river bank, which seems
 to hold the waters back from passing its threshold, and that restraint takes
-great strength, so *eitan* came to mean strength and power. The column then
-observes that *eitan* describes Yosef's unshakeable righteousness (Bereishis
-49:24) and the rocky habitat of Yisro's descendants (Bamidbar 24:21), who like
-Avraham showed strong discipline and self-control. Rav Samson Raphael Hirsch
+great strength, so *eitan* came to mean strength and power. *Eitan* describes
+Yosef's unshakeable righteousness (Bereishis 49:24) and the rocky habitat of
+Yisro's descendants (Bamidbar 24:21), who, Rabbi Klein notes, like Avraham
+showed strong discipline and self-control. Rav Samson Raphael Hirsch
 (to Shemos 14:27) adds that *eitan* is something strong and durable that has
 lasted a long time, like bedrock. On Tishrei, the Gemara there adds that even if
 the Avos were not born in it, the month is "powerful" for being blessed with
 more timely mitzvos than other months; Metzudas David (to Melachim I 8:2): it
-is a powerful month for its many holidays that serve self-perfection. The
-column's lesson: Tishrei can make a person a firm, strongly anchored stalwart,
+is a powerful month for its many holidays that serve self-perfection. Rabbi
+Klein's lesson: Tishrei can make a person a firm, strongly anchored stalwart,
 as hard to budge as rock.
 
 Rabbi Pappenheim admits he is unsure how to break the word down. In *Yerios
@@ -214,8 +210,8 @@ the sub-units do not necessarily contribute an equal force, *kabir* where the
 components are equally powerful.
 
 *Adir*: Rabbi Pappenheim, calling someone *chazak* means he is more powerful
-than someone else, *adir* that he is the most powerful of a whole group. The
-column finds it apt that Hashem is described as *adir* (see Shemos 15:6;
+than someone else, *adir* that he is the most powerful of a whole group. Rabbi
+Klein finds it apt that Hashem is described as *adir* (see Shemos 15:6;
 Tehillim 8:2, 93:4). Rabbi Pappenheim traces *adir* to ד-ר, freedom of motion
 without limitation or constriction, and Hashem is free of subjection to any
 other force. Rabbi Edel: *adir* is related to *adar*/*hadar*, beauty and glory,

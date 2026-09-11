@@ -15,11 +15,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The column glosses *ne'um* as "word," and its opening question is why a word for
-"word" is used overwhelmingly for the Word of Hashem, what its etymology is, and
-how it differs from *amirah*, *dibbur* and *sichah*. The answer it develops is
-that *ne'um* is the solemn declaration whose whole force is that it is true and
-settled: a **declaration**, an **utterance**, in a *nevuah* **thus says**.
+*Ne'um*, "word," is used overwhelmingly for the Word of Hashem. It is the solemn
+declaration whose force is that it is true (Pappenheim) and settled (*Peirush
+HaRokeach* and Rabbeinu Efrayim): a **declaration**, an **utterance**, in a
+*nevuah* **thus says**.
 *Yichaveh* is speech that gives an idea life by bringing it out into the open,
 or, on Pappenheim's alternative, speech that joins speaker to listener as *ach*
 to *ach*: **express**, **declare**. *Yabia* is speech welling up from the depths
@@ -38,7 +37,7 @@ human speakers whose words are called *ne'um* are David HaMelech (Shmuel II
 Tanach.
 
 Menachem, Ibn Janach and Radak take the root as נ-א-ם. Rabbi Shlomo Pappenheim
-of Breslau (1740 to 1814, *Yerios Shlomo*) offers what the column calls a more
+of Breslau (1740 to 1814, *Yerios Shlomo*) offers what Rabbi Klein calls a more
 thorough approach: *ne'um* is a poetic word used to stress the veracity of a
 statement, marking that what is said is no collection of random words
 haphazardly spewed out but deliberate and accurate declarations.
@@ -51,12 +50,11 @@ HaShorashim* (under א-מ-ן and under נ-א-ם) likewise ties *ne'um* to truth.
 *ne'um* stresses the gravity of the circumstance that moved the speaker to
 address his hearers.
 
-The column adds a modern echo of the same equation of "word" with truth: per
-the *Oxford English Dictionary*, English *word* in Ebonics and hip-hop slang
+Per the *Oxford English Dictionary*, English *word* in Ebonics and hip-hop slang
 expresses affirmation or agreement, so that "Word!" amounts to "That's the
-truth!" or "There's no denying it!", a usage that likely stems from the
-influence of Christian preachers reading the Bible and translating *ne'um* as
-"word."
+truth!" or "There's no denying it!" Rabbi Klein holds that this usage likely
+stems from the influence of Christian preachers reading the Bible and
+translating *ne'um* as "word."
 
 One of the Dead Sea Scrolls (4Q339) contains a list of false prophets with
 Bilaam on it. Against that, rabbinic tradition maintains that Bilaam was not a
@@ -65,8 +63,8 @@ to have Hashem convey to him a malevolent *nevuah* against the Jews, and in the
 end quite the opposite happened. When all is said and done, his declarations
 were true in the same way the Word of Hashem elsewhere is true. In that spirit,
 *Peirush HaRokeach* and Rabbeinu Efrayim explain that *ne'um* conveys the
-content of an irrevocable decree or oath, even for Bilaam's *ne'um*. The column
-adds, with its own hedge ("it seems"), that David and Shlomo could use it of
+content of an irrevocable decree or oath, even for Bilaam's *ne'um*. Rabbi Klein
+adds, with his own hedge ("it seems"), that David and Shlomo could use it of
 themselves because as Divinely chosen kings they were able to speak assertively
 and decisively in a way that whatever they said was or became true.
 
@@ -74,7 +72,7 @@ The verb form appears only once in Tanach but is much more common in later
 post-biblical Hebrew: *numasi*/*nimasi*, "I said," in the Mishnah (Yevamos
 16:7), in Rabbi Akiva's report of what he said to a Sage in Babylonia about a
 complex halachic question, and *numeinu*, "we said" (Gittin 6:7; also Tosefta
-Sanhedrin 2:1 and Nazir 4:7). The halachic *Midrashim* use *nam lo* for "he said to him" in
+Sanhedrin 2:1 and Nazir 4:7). The halachic *Midrashim* sometimes use *nam lo* for "he said to him" in
 place of *amar lo* (*Mechilta* to Shemos 12:6, 12:21, 12:43; *Sifrei*
 Beha'alosecha 65, Shelach 110, Pinchas 142), and, remarkably, only in the
 disputes of Rabbi Yonasan and Rabbi Yoshiyah.
@@ -101,8 +99,7 @@ correct.
 
 Dr. Shlomo Mandelkorn (1846 to 1902), in his concordance of biblical Hebrew
 *Heichal HaKodesh* (page 710), notes that an Arabic cognate of *ne'um* means "to
-whisper." The column records this and says outright: "I am not sure what to
-make of that."
+whisper." Rabbi Klein says outright: "I am not sure what to make of that."
 
 ### yichaveh / achaveh (יחוה / אחוה)
 Ibn Chayyuj, Ibn Janach and Radak: root ח-ו-ה (Tehillim 19:3; Iyov 13:7, 32:10,
@@ -132,9 +129,10 @@ stopping, like a spring that never runs dry.
 145:5; Iyov 7:11) and *lasuach* (Bereishis 24:63). Ibn Chayyuj, Ibn Janach and
 Radak: root ש-ו-ח. Menachem: the biliteral ש-ח. Pappenheim takes ש-ח from ס-ח
 ("uprooting, removing, transferring"): *sichah* is stream-of-thought speech,
-the mind wandering, by which a man uproots his sorrows and lets them go.
-*Peirush HaRokeach* reads the transferring differently: *sichah* is speech that
-moves from topic to topic within one conversation.
+the mind wandering, meant to help the speaker forget, "uproot," his sorrows.
+*Peirush HaRokeach* similarly writes that *sichah* is speech about various
+topics within one conversation; Rabbi Klein notes that this can be looked at as
+"transferring" the discussion from one subject to another.
 
 ## Rendering guidance
 

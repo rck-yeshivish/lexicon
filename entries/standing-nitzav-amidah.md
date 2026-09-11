@@ -26,9 +26,9 @@ Malbim (typically with special effort), Rabbi Shimon Dov Ber Analak and Rabbi
 Yaakov Tzvi Mecklenburg. Two other readings stand beside it: Rabbi Tzvi
 Elimelech Shapiro of Dinov, who concedes there are counter-proofs, makes
 *nitzav* standing anew and *amidah* standing already; Rabbi Shlomo Aharon
-Wertheimer makes *nitzav* prolonged standing, so that *amidah* may be
-momentary. The column's sources repeatedly build on a pasuk's switch from one
-to the other, though *Metzudas David* holds the two synonymous at Divrei
+Wertheimer makes *nitzav* prolonged standing, which implies that *amidah* could
+even be momentary. Several of these authorities build on a pasuk's switch from
+one to the other, though *Metzudas David* holds the two synonymous at Divrei
 HaYamim II 20:17.
 
 ## Distinctions
@@ -50,7 +50,7 @@ identifies as Dasan and Aviram (Shemos 5:20), and Moshe told *v'nitzavta* at the
 river's edge before makkas dam (Shemos 7:15).
 
 - The Midrash (*Bereishis Rabbah* 48:7, *Shir HaShirim Rabbah* 2:21, *Shocher
-  Tov* to Tehillim 22:19, *Pesikta Rabbasi* 15, *HaChodesh*), which the column
+  Tov* to Tehillim 22:19, *Pesikta Rabbasi* 15, *HaChodesh*), which Rabbi Klein
   offers as a possible counter-proof to Rabbi Shapiro, states explicitly that
   *nitzav* means *etimos*, Greek *hétoimos*, "prepared, ready"; *Targum Sheini*
   (to Esther 3:14) uses the same Greek word to render *atidim*, "prepared."
@@ -60,11 +60,11 @@ river's edge before makkas dam (Shemos 7:15).
 - Pappenheim: *amidah* is teleologically neutral, while *nitzav* is standing for
   a specific purpose. Yaakov's ladder is *mutzav* (Bereishis 28:12) because it
   was purposefully set up standing so as to be used later for going up and down.
-  The column notes that this dovetails with the Midrash and the Targumim. He
-  traces *nitzav* to the biliteral צ-ב, standing or stationing, whence *yatziv*
-  (true, well-grounded), *tzvi* (desire, what stands constantly before one's
-  mind), *tzava* (an army, men stationed in formation), *tzavah* (bloated, stuck
-  in place), *tzav* (turtle, whose shell makes it look swollen) and *tzav*
+  Rabbi Klein notes that this dovetails with the Midrash and the Targumim.
+  Pappenheim traces *nitzav* to the biliteral צ-ב, standing or stationing, whence
+  *yatziv* (true, well-grounded), *tzvi* (desire, what remains in one's mind as
+  though constantly standing before one), *tzava* (an army, men stationed in
+  formation), *tzavah* (bloated, stuck in place), *tzav* (turtle, whose shell makes it look swollen) and *tzav*
   (covered wagon, shaped like a turtle). Parts of this are cited by Rabbi Yaakov
   Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) and by the Malbim (*Yair Ohr*).
 - Malbim, echoing Pappenheim: *nitzav* is actively and purposefully standing and

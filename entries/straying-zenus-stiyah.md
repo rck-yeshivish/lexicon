@@ -43,10 +43,10 @@ Hoshea and Yechezkel, uses words of sexual deviance for theistic infidelity.
 Rabbi Shlomo Pappenheim reaches the same breadth from the other end: *zenus*
 comes from ז-ן, sustenance, first named deviance from the sexual norm, and only
 then came to mean deviance from any expectation, idol worship included.
-*Stiyah* is **deviation** from a specific track, and the column traces the
+*Stiyah* is **deviation** from a specific track, and Rabbi Klein traces the
 same root through *sotah*, *satan*, *shoteh* and *ruach shtus*; Rabbi Moshe
 Shapiro relates *shitah*, the ordered approach, to it as its diametric opposite.
-Rabbi Aharon Marcus goes further, holding that the letter tet by itself denotes
+Rabbi Aharon Marcus goes further, proposing that the letter tet by itself denotes
 movement to the side, so that *chet*, sin, is a straying.
 
 ## At a glance
@@ -62,7 +62,8 @@ movement to the side, so that *chet*, sin, is a straying.
 ## Distinctions
 
 ### zenus (זנות)
-Straying from the paths of righteousness is deviance from the proper path, as
+Straying from the paths of righteousness can be understood as deviance from the
+proper path, as
 children who reject the Torah they were taught are colloquially "off the
 *derech*." *Zonah*, colloquially a prostitute, literally refers to one who has
 strayed from a certain set of expectations. A *zonah* whom a kohen may not marry
@@ -77,8 +78,8 @@ theistic infidelity.
 Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) traces *zenus*, promiscuity,
 to the biliteral ז-ן, the nucleus of the words for sustenance: in bentching
 Hashem is He who sustains (*zan*) all of Creation, and *mazon*, food, is
-essential to sustaining life. An over-abundance of *mazon*, a very physical
-substance, draws a person toward wholly physical endeavors, and this leads to
+essential to sustaining life. He proposes that an over-abundance of *mazon*, a
+very physical substance, draws a person toward wholly physical endeavors, and this leads to
 lustful desires. Excess physical energy generally finds its outlet in strenuous
 activity (work, exercise, or Torah study); one who does not avail himself of
 such outlets enters dangerous territory, as the Gemara warns that inactivity
@@ -103,7 +104,7 @@ from a specific track.
 Rabbi Moshe Shapiro (1935 to 2017) explains that *shitah*, a systematized and
 ordered approach (commonly an opinion in a Talmudic discussion), is also related
 to *stiyah*, and denotes its thematic diametric opposite: the systematized path
-against the one who deviates from it. The column calls this yet another example
+against the one who deviates from it. Rabbi Klein calls this yet another example
 of a uniquely Hebrew phenomenon, in which words of polar opposite meaning are
 related in their roots. Rabbi Shapiro also relates the place name Shittim, where
 the people strayed after the women of Moav (Bamidbar 25:1), to *stiyah*.

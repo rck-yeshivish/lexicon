@@ -39,7 +39,7 @@ reading of *peta* as immediacy seems to fit *oness*, and Bartenuro reaches
 *pitom* the objective one, and Rabbi Pappenheim the exact opposite. Most sources
 point to a marked difference, though Ibn Ezra seems to say the two are one and
 the same. Where they stand together, as in Bamidbar 6:9, the Gemara reads them
-as a halachic pair and not a stylistic doubling.
+as a halachic pair.
 
 ## At a glance
 
@@ -74,7 +74,7 @@ What, if anything, separates the two? These are the views.
    Segal (1586 to 1667), author of the TaZ, explains in *Divrei David* there how
    Rashi actually follows the Gemara in adopting Rabbi Yoshiya's view; see also
    *Biur HaGra* to Mishlei 6:15. Elsewhere Rashi explains *peta* as immediacy
-   (see Distinctions), which Rabbi Klein finds seems to fit his ostensible view
+   (see Distinctions), which Rabbi Klein finds seems to fit Rashi's ostensible view
    that *peta* is *oness*; Bartenuro reaches *oness* by a slightly different
    route.
 4. **Rav Hirsch** (to Bamidbar 6:9): *peta* is a **subjective** surprise, one a
@@ -111,8 +111,7 @@ to Bamidbar 6:9) offers a slightly different take on why *peta* should be
 *oness*: peh often interchanges with the phonetically similar beis, so פ-ת-ע may
 be viewed as ב-ת-ע, a permutation of ב-ע-ת, "startled" or "frightened" (Esther
 7:6; Yirmiyahu 8:15), making *peta* what catches a person totally off guard. The
-column notes that the Arabic *baghta*, "unexpected event," is a cognate of this
-root. Rabbi Shlomo Pappenheim (1740 to 1814) derives ב-ע-ת from the two-letter
+Arabic *baghta*, "unexpected event," is a cognate of this root. Rabbi Shlomo Pappenheim (1740 to 1814) derives ב-ע-ת from the two-letter
 ב-ע, what reveals itself from beneath the surface, as *bua*/*avabua*, boils that
 bubble up on the skin (Shemos 9:9-10; Yeshayahu 64:1); as a corollary the root
 came to mean fear, which is often accompanied by goose-bumps on the surface of

@@ -66,7 +66,7 @@ keeps its own connotation in most, not all, of its appearances.
 **Chasach: before or during.** Rabbi Yosef Grayever of Ostrow (1808 to 1898):
 *pasak* stops a thing in the middle, once begun, while *chasach* stops it from
 starting in the first place. Rabbi Shlomo Aharon Wertheimer (1866 to 1935),
-explicitly against Grayever: *chasach* stops in the middle something already
+contrary to Grayever: *chasach* stops in the middle something already
 under way. Potiphar had already begun handing his household over to Yosef, so
 keeping back his wife (Bereishis 39:9) was not an absolute withholding but an
 interruption; and *v'lo chasachta es bincha* (Bereishis 22:12) is said to
@@ -102,7 +102,7 @@ him, contrasts *chasach* with *chadal*, whose impediment comes from the person
 himself, whether on purpose or not. Rabbi Yaakov Toledano (below) takes *chadal*
 to mean specifically a willful decision to stop.
 
-**How Onkelos handles them.** The nuances seem exclusive to Hebrew, the column
+**How Onkelos handles them.** The nuances seem exclusive to Hebrew, Rabbi Klein
 says, and the Targumim do not keep them: Onkelos renders *chasach* as *mana*
 (Bereishis 20:6, 22:16, 39:9), and both *kala* (Shemos 36:6) and *chadal*
 (Bereishis 18:11, 41:49; Devarim 15:11) as *pasak*, literally to split or cut;
@@ -111,8 +111,8 @@ elsewhere he leaves *kala* (Bereishis 8:2) and *mana* (Bereishis 30:2; Bamidbar
 *chadal*, follows Onkelos and glosses *pasak*. Rabbi Yaakov Toledano of Meknes
 (1690 to 1771) explains that Rashi was troubled: *chadal* means a person
 willfully deciding to stop, and blood cannot decide, so Rashi supplied *pasak*,
-which an insentient thing can do. The column offers a simpler reading, that
-Rashi merely gave Onkelos' word and was not troubled at all. Rabbi Rafael
+which an insentient thing can do. Rabbi Klein offers a simpler reading, that
+Rashi merely gave Onkelos' word and was not really troubled by it. Rabbi Rafael
 Binyamin Posen (1942 to 2016) notes that Onkelos renders *chadal* three times in
 the Plague of Hail with *mana* but at Sarah with *pasak*, and postulates two
 kinds of *chadal*: of an ongoing process, rendered *pasak* (Sarah), and of a

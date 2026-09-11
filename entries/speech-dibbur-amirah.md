@@ -18,16 +18,15 @@ updated: 2026-09-10
 *Dibbur* is speech as an act (**speak, address, discourse**): forceful, bold,
 sustained, and complete whether or not anyone receives it. *Amirah* is speech as
 communication (**say, tell**): gentle, brief, aimed at a hearer who takes the
-meaning in. Rashi's "*dibbur* is harsh, *amirah* is soft" is a register claim
-about tone, not a claim that *dibbur* means rebuke, and it is limited from
+meaning in. Rashi's "*dibbur* is harsh, *amirah* is soft" is limited from
 several directions (Mecklenburg, the Gemara on *yadber*, Maharal, *Moshav
 Zekanim*). Rav Hirsch reads the pair as act of speech against act of
 communication. But the direction is not settled: Malbim reverses the force of
 the two, and the Vilna Gaon to Bamidbar 22:5 seems to make *dibbur* the more
-communicative of them. *Aseres HaDibros* is "Ten Sayings" or "Decalogue"; the
-column's line is that this "would be better" than "Ten Commandments," said with
-all due respect to Cecil B. DeMille and Charlton Heston. *Asarah Maamaros* is
-"Ten Sayings" too in the column.
+communicative of them. *Aseres HaDibros* is "Ten Sayings" or "Decalogue"; Rabbi
+Klein's line is that this "would be better" than "Ten Commandments," said with
+all due respect to Cecil B. DeMille and Charlton Heston. He renders *Asarah
+Maamaros* "Ten Sayings" too.
 
 ## Distinctions
 
@@ -37,18 +36,18 @@ from "the man, the master of the land, spoke (*dibber*) with us harshly"
 (Bereishis 42:30), and set against *amirah* as supplicatory speech that seeks
 the listener's favor (to Bamidbar 12:1). Rabbi Yaakov Tzvi Mecklenburg (1785 to
 1865) limits this: not every *dibbur* in the Torah has to mean harsh speech, and
-*vayedaber* to Dinah's heart (Bereishis 34:3) was intense, not harsh, since
+*vayedaber* to Dinah's heart (Bereishis 34:3) was intense but not necessarily
+harsh, since
 otherwise she presumably would not have acceded; and Rashi himself (to Vayikra
-10:19) reads *dibbur* as boldness rather than harshness. *Yadber* (Tehillim
+10:19) reads *dibbur* as boldness, not necessarily harshness. *Yadber* (Tehillim
 47:4), a rare form, means a kind of leadership, and one might be tempted to hear
 strong, forceful terms in it, but the Gemara (*Makkos* 11a) separates the two:
 *dibbur* connotes harshness and *yadber* actually connotes softness. Maharal
 (*Nesivos Olam*): in the context of Torah study *dibbur* is always pleasant, and
 only in other contexts is it harsh. *Moshav Zekanim* (to Shemos 6:2) confines
-the harsh sense to the Chumash, against the rest of Tanach. Cutting the other
-way again, the column points (in its discussion of *amirah* and love) to
-*Sifsei Chachamim* on Devarim 2:16, which deals with the implication of Rashi's
-comment there that *dibbur* is a term of endearment. Zohar (*Idra Rabbah*, the commentary to
+the harsh sense to the Chumash, against the rest of Tanach. *Sifsei Chachamim*
+on Devarim 2:16 deals with the implication of Rashi's comment there that
+*dibbur* is a term of endearment. Zohar (*Idra Rabbah*, the commentary to
 Parashas Naso, 132b): *dibbur* requires raising the voice to make a forceful
 announcement; *amirah* does not. Rabbi Shlomo Pappenheim of Breslau (1740 to
 1814, *Yerios Shlomo*): *dibbur* is the act of using the vocal cords, whether or
@@ -86,17 +85,16 @@ understand *dibbur* as implying more of a form of communication than *amirah*
 does.
 
 ### maamar (מאמר) against dibrah (דיברה)
-The question that organizes the whole piece: why *Asarah Maamaros* for creation
-(*Avos* 5:1) and *Aseres HaDibros* at Sinai. Several of the answers below are
-the column's own applications of a distinction the source states more narrowly;
-where that is so it is marked.
+Why *Asarah Maamaros* for creation (*Avos* 5:1) and *Aseres HaDibros* at Sinai?
+Several of the answers below are Rabbi Klein's own applications of a
+distinction the source states more narrowly; where that is so it is marked.
 
-From the Zohar's line that *dibbur* requires raising the voice, the column
-argues (its own step, "we can argue"): the whole point of raising the voice is
+From the Zohar's line that *dibbur* requires raising the voice, Rabbi Klein
+argues (his own step, "we can argue"): the whole point of raising the voice is
 to make a forceful impression on a listener, so at creation, with no listeners
 yet, Hashem did not need to raise His voice and those sayings are *maamaros*,
 while at Sinai there was an assembled audience and those are *dibros*. Rav
-Hirsch inverts it, and this application is his own: *maamar* requires an active
+Hirsch's application is his own: *maamar* requires an active
 listener on the receiving end to hear the utterance and translate it into
 reality, and at creation each utterance took effect at once, while *dibbur*
 exists independently of the listener, the Decalogue being Hashem's revelation of
@@ -108,14 +106,15 @@ context within which a *dibbur* can be said, so on this understanding the
 relevance. Rabbeinu Bachaya (to Shemos 13:1): *dibbur* alludes to the Written
 Torah, *amirah* to the Oral Torah, an idea many have cited and expanded,
 including the Vilna Gaon, Rabbi Pinchas Horowitz of Frankfurt (1731 to 1805) and
-Rabbi Naftali Tzvi Yehudah Berlin, the Netziv (1816 to 1893); hence *Amora*, the
-Talmudic sage who expounds the scriptures and laws, the hero of the Oral Torah.
+Rabbi Naftali Tzvi Yehudah Berlin, the Netziv (1816 to 1893). Interestingly,
+*Amora* (derived from *amirah*) is the Talmudic sage who expounds the scriptures
+and laws, the hero of the Oral Torah.
 The Vilna Gaon reads *Haazinu* by it: "Listen, heavens, and I will speak
 (*va'adabeirah*)," the Written Torah revealed from above, "and let the earth
 hear the sayings (*imrei*) of my mouth" (Devarim 32:1), the Oral Torah brought
 out by the earth's inhabitants below. Zohar (Bereishis 239b): in *Vayedaber
 Hashem el Moshe leymor*, the *leymor* reveals the hidden elements not included
-in the *vayedaber*, so *amirah* is an expansion upon *dibbur*. The column runs
+in the *vayedaber*, so *amirah* is an expansion upon *dibbur*. Rabbi Klein runs
 this into a parallel: as the Written Torah is a fixed canonized text and the
 Oral Torah an expansion on it, so the Zohar (Shemos 161a) teaches that Hashem
 looked into the Torah and created the world, making the Torah the fixed canon
@@ -123,25 +122,25 @@ and the world the expansion; so the speech expressing the Torah is *dibbur*, and
 the words creating the world *amirah*.
 
 Malbim's two approaches feed the same question. On the first (*amirah* absolute,
-*dibbur* a proposition), the column reasons that the words that made the world,
-and so the rules of nature, must have been absolute and forceful, since only
-Hashem can break them, while the Decalogue connotes a more malleable reality,
+*dibbur* a proposition), it seems to Rabbi Klein that the words that made the
+world, and so the rules of nature, must have been absolute and forceful, since
+only Hashem can break them, while the Decalogue connotes a more malleable reality,
 some prohibitions being legitimately suspendable in certain circumstances.
-Rabbi Moshe Feinstein (1895 to 1986) uses the exact opposite reasoning on the
-same principle to explain why *tzitzis*, not absolutely obligatory but
+Rabbi Moshe Feinstein (1895 to 1986) uses the exact opposite reasoning to
+explain why *tzitzis*, not absolutely obligatory but
 essentially optional, opens with *vayomer* rather than the usual *vayedaber*
-(Bamidbar 15:37). On Malbim's second approach, with Jaffa-Ashkenazi, the column
+(Bamidbar 15:37). On Malbim's second approach, with Jaffa-Ashkenazi, Rabbi Klein
 argues that verbosity is a rhetorical device for making sure an audience
 understands, so at creation, with no intended audience, Hashem could be as brief
 as He wished, just the headlines, hence *maamaros*, whereas at Sinai He
 sacrificed brevity for clarity, hence *dibros*. Following Mecklenburg's
-"switching" logic, the column adds that the sayings that made the world fit an
+"switching" logic, Rabbi Klein adds that the sayings that made the world fit an
 *amirah* verb because they were the ultimate change in reality, from nothing to
 something.
 
-The column's own closing answer is psychological: when a person feels the
-weight of living up to expectations, those expectations feel as though they were
-said in harsh, demanding terms even if objectively they were not, so the
+Rabbi Klein's own answer is psychological: when a person feels the weight of
+living up to expectations, those expectations generally feel as though they
+were said in harsh, demanding terms even if objectively they were not, so the
 Decalogue, which lays out Hashem's expectations of us, is *Dibros*; whereas the
 *Asarah Maamaros* that created the world are Hashem's gift, and a gift is taken
 as an expression of love, a *maamar*. (In Talmudic usage *maamar* denotes a form
@@ -154,7 +153,7 @@ Rashi's alternative: forms of glory and pride, citing *yisamru* (Tehillim 94:4).
 Rav Saadia Gaon (882 to 942) adds two more. First, expressions of "being on
 top," just as the *amir* (Yeshayahu 17:6) is the most important branch of a tree
 because it is on top: Hashem put the Jews on top and the Jews put Hashem on top.
-The column connects this to the Arabic *Emir*, "military commander" or "tribal
+This is also related to the Arabic *Emir*, "military commander" or "tribal
 chief," who sits atop the hierarchical society he presides over (see Bartenura
 to *Shekalim* 5:3). Dunash ibn Labrat (925 to 990), Rav Saadia's interlocutor,
 preferred this first approach, which in some ways resembles Rashi's glory and
@@ -172,7 +171,7 @@ many others) read *amirah* as an expression of love, so that the passages mean
 Hashem showed His love for the Jewish People and they in turn showed their love
 for Him. What is the philological basis? One might perhaps suggest the Latin
 *amor*, "love," the basis of English *amorous* and *enamored*, which sounds like
-a homonym of *amirah*; but the column calls it quite implausible that these
+a homonym of *amirah*; but Rabbi Klein calls it quite implausible that these
 chassidishe masters based their teaching on a Latin homonym, and offers a much
 sounder basis. The Targumim render these words *chativah*; *chativah* in
 biblical Hebrew is "splitting" or "chopping," which might be the basis of

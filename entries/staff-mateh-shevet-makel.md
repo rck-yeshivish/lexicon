@@ -21,11 +21,11 @@ updated: 2026-09-10
 *Mateh* is a **staff** of office, the stick of a dignitary or a man in authority
 (Malbim, Rabbi Shlomo Aharon Wertheimer), and also a **tribe**, almost
 exclusively in Bamidbar and Yehoshua. *Shevet* is a **rod**, wound up with force
-to strike (the Vilna Gaon), the instrument of authority and of flogging (Rashi),
+to strike (the Vilna Gaon), the instrument of authority (Rashi) and of flogging,
 and equally a **tribe**. *Mishenes* is a **cane**, leaned on. *Makel* is a **rod
-for striking**, the shepherd's stick. *Sharvit* is the royal **scepter**.
-*Choter* is probably a Hebraized form of Aramaic *chutra*, staff. On the column's
-question, how the two words for tribe differ: citing Shadal, Rabbi Yaakov Tzvi
+for striking**, in Tanach generally the shepherd's stick. *Sharvit* is the royal
+**scepter**. *Choter* is probably a Hebraized form of Aramaic *chutra*, staff. On
+how the two words for tribe differ: citing Shadal, Rabbi Yaakov Tzvi
 Mecklenburg holds that *shevet* first named the tribe's leader and *mateh* its
 members; Malbim reads *shevet* as a branch, each tribe a branch of Yaakov's
 family tree; and Rabbi Zev HaKohen Hoberman calls Yisrael *shevatim* for their
@@ -53,7 +53,7 @@ underneath, as the tribesmen live under their chief.
 
 ### shevet (שבט)
 Rashi (Sanhedrin 5a): *shevet* denotes authority and the responsibility that
-comes with it; in a legal context the *shevet* or *shotim* is the instrument of
+comes with it. In a legal context the *shevet* or *shotim* is the instrument of
 flogging for those whose offenses deserve it. Wertheimer: such terms first named
 a stick for hitting animals, and their use for hitting people is borrowed. The
 Vilna Gaon (1720 to 1797): *mateh* and *shevet* are both for hitting but differ

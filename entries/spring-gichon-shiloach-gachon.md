@@ -18,8 +18,8 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Gichon* and *Shiloach* are, for the rabbinic sages the column cites, two names
-for one body of water, the spring by Yerushalayim: Rashi and Radak say so
+*Gichon* and *Shiloach* are, for various rabbinic sages, two names for one body
+of water, the spring by Yerushalayim: Rashi and Radak say so
 outright, and Targum renders Gichon as *Shilucha*. Later linguists disagree:
 for Wilhelm Gesenius the Gichon is the fountain and the Shiloach the aqueduct
 that channels it, for Avraham Even-Shoshan the Shiloach is a channel or pool the
@@ -28,8 +28,8 @@ walls and the Shiloach within. There is also the *other* Gichon: the river of
 Bereishis 2:13 that circles Kush is, for Rashi and Rabbi Avraham Maimuni, a
 different river from the Yerushalayim spring, while Rav Saadia Gaon, Ibn Ezra
 and the Ramah identify the two. *Gachon* (Bereishis 3:14) is
-not a place at all but the serpent's **belly**, which Rav Hirsch and Rabbi
-Pappenheim tie to the name Gichon.
+not a place at all but the serpent's **belly**, which Rav Hirsch (with a
+"perhaps") and Rabbi Pappenheim tie to the name Gichon.
 
 ## Distinctions
 
@@ -52,7 +52,7 @@ to water the land; on that basis Radak notes that the Shiloach wellspring in
 Yerushalayim, far smaller, is also called Gichon (Melachim I 1:33), because its
 waters likewise go out into channels to irrigate the gardens around it. Targum
 to Melachim I 1:33 renders Gichon as *Shilucha*, a variation of Shiloach,
-possibly, the column suggests, to convey this very notion (and Targum to
+possibly, Rabbi Klein suggests, to convey this very notion (and Targum to
 Yeshayahu 8:6 renders *Mei Shiloach* as *Mei Shilucha*).
 
 Two rivers or one: Rashi (to Kerisus 5b) says the Gichon of the coronation was a
@@ -66,15 +66,15 @@ near Yerushalayim, and the Ramah (Rabbi Meir Abulafia, 1170 to 1244) is cited by
 Maimuni disagrees with Ibn Ezra and sides with Rashi that they are two discrete
 bodies of water: in some way we are no longer privy to, the spring outside
 Yerushalayim resembled the great river, and so was given its name. He also
-writes that in his time the spring was called *Brachah*; the column is unsure
-whether he meant *Brachah*, "blessing," or *Breichah*, "pool" (perhaps what is
+writes that in his time the spring was called *Brachah*; Rabbi Klein is unsure
+whether Maimuni meant *Brachah*, "blessing," or *Breichah*, "pool" (perhaps what is
 now called Chizkiyahu's Pool), and Rabbi Moshe Maimon of Jackson, NJ, in his
 glosses to Rabbi Avraham Maimuni's commentary, presumes the former.
 
 Chizkiyahu blocked the waters so that the Assyrian army besieging Yerushalayim
 would not have easy access to water (Divrei HaYamim II 32:4). According to the
-Mishnah (*Pesachim* 4:9) the sages of his time did not agree, presumably, the
-column suggests, because it showed a lack of trust in Hashem, who had promised
+Mishnah (*Pesachim* 4:9) the sages of his time did not agree, presumably, Rabbi
+Klein suggests, because they felt it showed a lack of trust in Hashem, who had promised
 through Yeshayahu to save Yerushalayim; an alternate tradition sees his act as
 noble (Radak to Divrei HaYamim II 32:30; Radal to *Pirkei DeRabbi Eliezer* 9:30).
 A story is told of Rabbi Chaim Vital, whom the Arizal faulted in a dream for not
@@ -90,18 +90,18 @@ name, the *Shelach* pool, appears at Nechemiah 3:15. Rashi (to Melachim I 1:33,
 Yeshayahu 8:6) writes explicitly that the Gichon was also called Shiloach, and
 so does Radak (to Melachim I 1:33).
 
-The later linguists and philologists the column cites hold that the two names
-do not refer to exactly the same place. Wilhelm Gesenius (1786 to 1842): the
+Later linguists and philologists have argued that the two names do not refer
+to exactly the same place. Wilhelm Gesenius (1786 to 1842): the
 Gichon is the fountain that supplies the water, while the Shiloach, explained as
 a cognate of ש-ל-ח, "sending," is the aqueduct that channels it. Avraham
 Even-Shoshan (1906 to 1984), in his concordance of Biblical Hebrew: the
 Shiloach was a channel or pool into which the waters of the Gichon spring
 flowed. Professor Carol A. Dray of the University of Cambridge: the Gichon was
-outside the walls of Yerushalayim, the Shiloach within. (The column notes that
-today the Gihon Company is Yerushalayim's public waterworks.)
+outside the walls of Yerushalayim, the Shiloach within. (Today the Gihon Company
+is Yerushalayim's public waterworks.)
 
-The Septuagint renders Shiloach *Siloam*; the column suggests the final *m* is
-possibly Semitic mimation. An inscription found at what is believed to be the
+The Septuagint renders Shiloach *Siloam*; Rabbi Klein suggests the final *m* is
+possibly related to Semitic mimation. An inscription found at what is believed to be the
 site of the Shiloach is known in English as the Siloam Inscription, and it
 seems the Greek name was later borrowed into Arabic, the *m* becoming *n*, to
 give *Silwan*, the name of the neighborhood just outside the Old City walls.

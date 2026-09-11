@@ -37,7 +37,7 @@ Yehuda Leib Shapira-Frankfurter: *sekilah* is a means of killing that one stone
 could accomplish, *regimah* a whole heap thrown by many. *Sefer HaChachmah*
 reverses the pair, and Rabbi Moshe Tedeschi Ashkenazi admits no clear line holds
 in usage. The root ס-ק-ל also means clearing a field of stones, the opposite use
-of stones (Ibn Janach, Radak), so context alone decides.
+of stones (Ibn Janach, Radak).
 
 ## At a glance
 
@@ -68,8 +68,7 @@ only a means to killing, and even one stone would theoretically suffice, while
 he is already dead; so where *regimah* is used, Scripture or Mishnah typically
 says the entire nation did it. *Sefer HaChachmah* (ascribed to the late
 twelfth-century Rabbi Elazar Rokeach of Worms) reverses them: *regimah* is the
-throwing, *sekilah* the resulting pile of stones. The added "he shall be put to
-death" is Yashar's own argument, and his "usually" is load-bearing.
+throwing, *sekilah* the resulting pile of stones.
 
 **Why Yehoshua 7:25 uses both on Achan.** Rashi (see also Targum and Radak
 there): Achan himself received *regimah*, the animals he took *sekilah*. Yashar:
@@ -81,16 +80,16 @@ and ashes once he was dead and burnt, to disgrace him further.
 Menachem*) lists "stoning" and "clearing" as two separate categories, implying
 he does not see them as related. Ibn Janach and Radak (each in his *Sefer
 HaShorashim*) see them as related as exact opposites, one using stones and the
-other getting rid of them, a self-antonym of the kind the column calls
-well-established in Hebrew. Pappenheim bridges them: both are throwing stones,
+other getting rid of them, a self-antonym, a well-established phenomenon in
+Hebrew. Pappenheim bridges them: both are throwing stones,
 at a person or away from the area being cleared. Rabbi Yehoshua (Jeremy)
 Steinberg suggests the clearing sense is a metathesis of Mishnaic ס-ל-ק (as in
 *siluk*), "remove, finish," a suggestion also cited by Rabbi Yaakov Berger of
 Kiryat Sefer (*Milon Leshon HaMikra*). Tedeschi finds the core in amassing a
 large quantity, of stones to throw or stones cleared, and compares ס-ג-ל
 (*segulah*, what one gathers up; *segol*, a grouping of three dots) and ש-כ-ל
-(*eshkol*, a cluster; *shakul*, bereft of children, as a cluster thins row by
-row).
+(*eshkol*, a cluster). The same ש-כ-ל gives *shakul*, bereft of children, as a
+cluster thins row by row.
 
 ## Distinctions
 
@@ -134,8 +133,8 @@ string ר-ג to *regev* (clod), *regel* (foot), *rogez* (anger) and *regesh*
 words of strong, even violent, movement, and so makes *regem* the violent act of
 throwing. *Ohalei Yehuda* (Rabbi Yehudah Aryeh of Carpentras, 18th century)
 relates *regimah* to *regev*, "clump of dirt" (Iyov 21:33, 38:38), both a
-gathering of smaller parts, by the interchange of MEM and BEIS; the column notes
-this resembles Tedeschi's account of *sekilah*. Rav Hirsch (to Shemos 26:1)
+gathering of smaller parts, by the interchange of MEM and BEIS; this resembles
+Tedeschi's account of *sekilah*. Rav Hirsch (to Shemos 26:1)
 links ר-ג-מ to ר-ק-מ, embroidery, by the interchange of GIMMEL and KUF: one piles
 stones on top of a person, the other sews a picture on top of a fabric. Rabbi
 Avi Kobernick (*Hipuch Osiyos*) ties it to the permutations ג-מ-ר (finish off),
@@ -157,12 +156,12 @@ not a name but "royal delegation," *regem* meaning a grouping; others, "royal
 officials," *regem* meaning officers (Ibn Ezra to Zechariah 7:2, Tehillim
 68:28). Abarbanel (to Zechariah 7:7, *Mashmia Yeshuah* 14:2): perhaps a title
 for his role at court. Since the Ugaritic equivalent of ר-ג-מ means "say,
-announce, answer," the column suggests he may have been the king's herald, and,
-its own guess again, that Sarezer is *sar otzar*, treasurer. Radak (to Zechariah
+announce, answer," Rabbi Klein suggests Regem-Melech may have been the king's
+herald, and, his own guess again, that Sarezer is perhaps *sar otzar*, treasurer. Radak (to Zechariah
 7:2 and *Sefer HaShorashim*) and Ibn Ezra (to Zechariah 7:2) favor a real name.
 Avraham Shmuel Herschberg (1858 to 1943) claims Regem was a god of the air,
-making Regem-Melech theophoric; the column could not substantiate this and found
-no other source for such a deity.
+making Regem-Melech theophoric; Rabbi Klein could not substantiate this and
+found no other source for such a deity.
 
 Two further words are traced to ר-ג-מ. *Argaman*, purple cloth: Rabbi Yosef
 Kimchi (*Sefer HaGalui*, *Sefer HaChukah*) takes it from the root with ALEF and
@@ -175,10 +174,10 @@ place to place, *targum* transfers a text from one language to another. Rabbi
 Chaim Hirschensohn (1857 to 1935): "speaking," with *regimah* itself from
 *rikmah*, speech woven of sounds, letters and words. Rabbi Yaakov Yehudah
 Zilberberg Di Kasif (1914 to 2003): smooth and coherent speech, by a link to the
-root the column finds unclear. Rabbi Binyamin Kohen-Shauli (1942 to 1971): a
+root that Rabbi Klein finds somewhat unclear. Rabbi Binyamin Kohen-Shauli (1942 to 1971): a
 metathesis of Aramaic ג-מ-ר, to learn. Rabbi Yaakov Loyfer (introduction to
 Targum Onkelos in *Otzar HaRishonim*): "elucidated speech," from ר-ג-מ as the
-Ugaritic "say." The column compares Yiddish *taytsh*, "translate," an early form
+Ugaritic "say." Rabbi Klein compares Yiddish *taytsh*, "translate," an early form
 of German *deutsch* before the *t* became *d* under Grimm's Law, and cognate
 with English "Teutonic."
 

@@ -30,9 +30,9 @@ prisoners (Radak), all the captured people (Malbim), or living people or animals
 ornamental battle-dress (Pappenheim); jewelry and decorative items, against
 *shalal* the catch-all (Mecklenburg); or dead animals taken as war prizes, not
 ordinary booty (Malbim). The Midian account (Bamidbar 31) uses four of them,
-each doing separate work. Rabbi Klein observes that the words are not truly
-synonymous, for the Egyptians say "I will apportion the *shalal*" (Shemos 15:9),
-yet what the Jews took from them is *bizas Mitzrayim* and *bizas hayam*, not
+each doing separate work. Rabbi Klein holds that the words are not truly
+synonymous. The Egyptians say "I will apportion the *shalal*" (Shemos 15:9), yet
+what the Jews took from them is *bizas Mitzrayim* and *bizas hayam*, not
 *shalal*.
 
 ## Distinctions
@@ -45,8 +45,8 @@ Aryeh* there) cite Rashi's division approvingly and substantiate it from other
 places where these words or their cognates appear. Rabbi Yaakov Chaim Sofer
 objects from Divrei HaYamim II 15:11, which speaks of offering captured *shalal*
 as korbanos, implying that *shalal* can mean animals, unlike Rashi and Radak.
-Separately, and not as an answer to Sofer, Rav Hirsch (to Bamidbar 31:11), whose
-view parallels Mecklenburg's on *ad* (below), makes it a matter of company:
+Rav Hirsch (to Bamidbar 31:11), making a point similar to Mecklenburg's that
+*shalal* is the catch-all (below), makes it a matter of company:
 where no other words are used alongside it, *shalal* can refer to anything
 pilfered in battle, animals and humans included, because ultimately all the
 spoils of war are alike in being taken through violence. Malbim: *shalal* is the
@@ -103,7 +103,7 @@ he divides *shalal*" (Bereishis 49:27). Rashi: *ad* here is plunder, and the roo
 points out that most times Tanach uses *shalal* or *bizah*, the Targumim render
 them with Aramaic cognates of *ad*. The Aramaic root also means removal (Targum
 Onkelos to Shemos 25:15) and even atonement, the removal of sin (Targum to
-Yeshayahu 47:11), which the column relates to booty as
+Yeshayahu 47:11), which Rabbi Klein relates to booty as
 the removal of property from the loser's domain. Rabbi Pappenheim derives it
 instead from *adi*, "jewelry, ornament," and limits it to the ornamental clothes
 soldiers wore to battle and were stripped of when captured. Malbim: *ad* is not

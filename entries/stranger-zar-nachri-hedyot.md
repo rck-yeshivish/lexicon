@@ -18,15 +18,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Zar* and *nachri* both mean "stranger," and on the reading of most of the
-commentators they measure different distances. A *zar* is estranged **in one
-respect**, and is often a member of the same nation or household: an
-**outsider**, a **stranger**. A *nachri* is a **foreigner** in every respect,
-from another nation entirely. Malbim puts the rule in a line: the *nachri* is
+*Zar* and *nachri* both mean "stranger," and it seems from most of the
+commentators that they measure different distances. A *zar* is estranged **in
+one respect**, and is often a member of the same nation or household: an
+**outsider**, a **stranger**. A *nachri* is a complete **foreigner**, strange in
+many ways, from another nation entirely. Malbim puts the rule in a line: the *nachri* is
 *more* unfamiliar than the *zar*. Rabbi Shlomo Pappenheim dissents, holding the
 two equally estranged and differing only in what their roots fix on. In Kodashim
-contexts *zar* is a technical term, the **non-Kohen**. *Chiloni* is the Targum's
-Aramaic for *zar* and the Midrash's word for a non-Kohen; *hedyot* is a Greek
+contexts *zar* is a technical term, the **non-Kohen**. *Chiloni* is often the
+Targum's Aramaic for *zar*, and the Midrash's word for a non-Kohen; *hedyot* is a Greek
 loanword for a **commoner** or **layman**, the ordinary man against the leader,
 the amateur against the craftsman, the *Kohen hedyot* against the Kohen Gadol.
 
@@ -45,13 +45,13 @@ Dictionary* feels otherwise.)
 Malbim's own illustrations carry the point. A non-Kohen is a *zar* toward
 terumah and the korbanos he may not eat (Vayikra 22:10, 22:12-13), yet he is
 plainly no total stranger. A man other than a married woman's husband is a *zar*
-to her (Devarim 25:5, Yechezkel 16:32) because she is forbidden to him, and no
-more than that. *Mamzer* is said to be related to *zar* (Yevamos 76b), which,
-given Malbim's understanding, makes sense: a *mamzer* is a full Jew, foreign
+to her (Devarim 25:5, Yechezkel 16:32) because she is forbidden to him, even if
+he is not a complete stranger. *Mamzer* is said to be related to *zar* (Yevamos
+76b), which, Rabbi Klein notes, makes sense given Malbim's understanding: a *mamzer* is a full Jew, foreign
 only as regards marrying into unblemished lineage. He is therefore termed a
 *zar* and not a *nachri*.
 
-The same reasoning seems to explain a Gemara. Tehillim 81:10 pairs *el zar* with
+Rabbi Klein applies the same reasoning to a Gemara. Tehillim 81:10 pairs *el zar* with
 *el nechar*, yet Shabbos 105b seemingly declines to read the first clause in its
 literal sense as outlawing foreign gods, and applies *el zar* to the yetzer
 hara. The forced explanation presumably stems from the word *zar*: from a Jewish
@@ -105,8 +105,7 @@ to His standards, and illustrates it with a parable: a Kohen Gadol
 meets a *chiloni* on the road who asks to walk with him, and is told that a
 Kohen keeps to ritually pure paths and does not pass through cemeteries; join me
 at that standard or I walk alone. In Modern Hebrew *chiloni* is a secular Jew,
-estranged in exactly this sense, failing to live at the standard of the rest of
-the nation.
+likewise estranged, failing to live at the standard of the rest of the nation.
 
 ### hedyot (הדיוט)
 Frequent in the Mishnah in three senses: a commoner against the political or
@@ -114,7 +113,7 @@ spiritual leadership (Nedarim 5:5, Sanhedrin 7:10, Horayos 3:2-3); an ordinary
 non-professional against a skilled craftsman (Moed Katan 1:8, Bava Metzia 4:4,
 Keilim 26:1); and as a modifier, *Kohen hedyot*, the ordinary Kohen against the
 Kohen Gadol (Yoma 7:5, Yevamos 2:4, Sotah 8:3). A Greek loanword, from the word
-that also gave English "idiot," but the Hebrew carries none of that sense.
+that also gave English "idiot."
 
 ## Rendering guidance
 

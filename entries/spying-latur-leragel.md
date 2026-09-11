@@ -59,7 +59,7 @@ alongside *veyachperu*).
 
 ### latur (תור) and tarim (תרים)
 Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865): *latur* is the search for the
-good, the positive attributes of what is being scouted. The column explains the
+good, the positive attributes of what is being scouted. Rabbi Klein explains the
 mission on those lines: Hashem had already promised the Land, and they were
 destined to conquer it no matter what, so Moshe's errand was not for
 conventional military reasons; it was meant to strengthen the nation's
@@ -68,10 +68,9 @@ they betrayed the mission and gathered the Land's perceived disadvantages
 instead. Because they were commissioned to look for the good, Bamidbar always
 describes them and their actions as *tarim*.
 
-Two English asides frame the column. Conventional linguists trace "tourist" to
-Old French *tourner*, "to turn"; Dr. Isaac Elchanan Mozeson, whom the column
-calls an unconventional linguist, finds its origin in Hebrew *tor*, and the
-column finds the likeness striking, *tarim* being, so to speak, "tourists" who
+Conventional linguists trace "tourist" to Old French *tourner*, "to turn"; Dr.
+Isaac Elchanan Mozeson, an unconventional linguist, finds its origin in Hebrew
+*tor*, and Rabbi Klein finds the likeness striking, *tarim* being, so to speak, "tourists" who
 explore a land for positive information. David Curwin notes a conceptual link
 between *tor*, "scout," and *tor*, "dove": doves first appear in Tanach when
 Noach sends one from the Teivah to explore the land, expected to report
