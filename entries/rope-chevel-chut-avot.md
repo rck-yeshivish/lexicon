@@ -47,9 +47,9 @@ updated: 2026-09-10
 
 They sort by thickness and by what the cord is doing. *Chut* is the **thread**,
 the single strand; *chevel* the ordinary **rope**; *avot* the **thick rope** or
-cable, braided from three. *Meitar* is the cord under tension, so a **tent cord**
+cable, which Malbim describes as braided from three. *Meitar* is the cord under tension, so a **tent cord**
 or a **bowstring**; *moseirah* the **bond** that restrains a captive, and *kevel*
-the iron **fetter**; *eitun* a **cord of fine linen**, once only. Shoftim
+the iron **fetter**; *eitun*, on Radak's reading, a **cord of fine linen**, once only. Shoftim
 16:12 puts *avot* and *chut* in a single sentence, Shimshon snapping the one off
 his arms as though it were the other.
 
@@ -82,9 +82,7 @@ narrative uses three words: Rachav lowered the spies through the window on a
 *chevel* (Yehoshua 2:15), and the sign she was to tie
 in the window is a *tikvah* or *chut* (2:18, 2:21). Abarbanel argues that the
 *chevel* the spies descended on was the very *chut* Rachav tied as a sign, even
-though the pesukim use two different words. The column records this as a
-surprising reading and puts no named authority against it. *Tikvah* itself the
-column leaves for another time, noting only that the commentators connect it
+though the pesukim use two different words. The commentators connect *tikvah*
 with *kav*, straight, a plumb line.
 
 **The root of *meitar*.** The word enters the cluster through *eitun*: Targum to
@@ -94,19 +92,19 @@ release of tension where it was expected, whence *mattir*, to untie, and *heter*
 and *muttar*, permitted. Rabbi David Chaim Chelouche derives it instead from ת-ר
 in the sense of seeing: the *meitar* was first the crossbow string drawn to hold
 the arrow, released when the archer sees his enemy within range, and only in a
-borrowed sense any especially strong string or rope. The column notes in passing that
-this is the word for "string" in the name of the String Bridge in Yerushalayim,
-the *Gesher HaMeitarim*.
+borrowed sense any especially strong string or rope. *Meitar* is the word for
+"string" in the name of the String Bridge in Yerushalayim, the *Gesher
+HaMeitarim*.
 
-**What *eitun* is.** Radak: ropes of high-grade Egyptian linen, matching Targum
-Yonasan (to Yehoshua 2:15), which renders *chevel* as *atuna*. Rabbi Shlomo
+**What *eitun* is.** Targum Yonasan (to Yehoshua 2:15) renders *chevel* as
+*atuna*, the Aramaic counterpart of *eitun*. Radak: ropes of high-grade Egyptian
+linen. Rabbi Shlomo
 Pappenheim: not a cord at all, but cloth sewn full of holes, from the same
 biliteral root as *tene*, a wicker basket.
 
-**Whether *kevel* belongs here.** The tie to *chevel* by the interchange of CHET
-and KAF is offered by the column's author as his own suggestion, with the
-express note that he has not seen it stated explicitly; it is a proposal,
-not a ruling. Rabbi Amitai Ben-David notes that in modern Hebrew *kevel* or
+**Whether *kevel* belongs here.** Rabbi Reuven Chaim Klein notes that he has not
+seen it stated explicitly, but it seems to him that *kevel* and *chevel* are
+related by the interchange of CHET and KAF. Rabbi Amitai Ben-David notes that in modern Hebrew *kevel* or
 *kabel* took on a different meaning and is used specifically of electric cables
 and cable cars. Rabbi Ernest David Klein, in *A Comprehensive Etymological
 Dictionary of the English Language*, cites two opinions on the English word
@@ -128,13 +126,14 @@ Two Mishnaic words grow from it: *chayat*, the tailor, and *machat*, the needle.
 ### chevel (חבל)
 Every lexicographer agrees the rope-sense comes from ח-ב-ל, but that root also
 yields scheme, lot, band of men, pain, damage and pledge. Rabbi Shlomo
-Pappenheim orders them all under the rope, which is above all what measures: a
+Pappenheim orders them all under the rope, one of whose main uses is to measure: a
 man who has measured his options and settled on a stratagem has a *chevel*; a
 surveyed portion of a field is a *chevel*; as a portion exists only inside a
 larger area, so a *chevel* of men is a subgroup inside a larger group; and as a
 portion is local, so *chevlei leidah* are localized pains and *chevel* as damage
-is partial destruction and not annihilation. The pledge is the sense in which a
-creditor partly destroys his debtor's livelihood by taking what he needs; for
+is partial destruction and not annihilation. The pledge is one way a
+creditor might partly destroy his debtor's livelihood, if he takes an essential
+item as collateral; for
 that branch see [collateral](collateral-mashkon-chaval-avot-rahan.html).
 
 ### avot (עבות)
@@ -143,12 +142,12 @@ that an *avot* is a rope thicker than usual because more strings or fibers go
 into it than into an ordinary rope. Malbim ties it to the rest of the cluster: an *avot* is three
 *chevel* or *moseirah* strands braided into one. He learns the number of three
 from Rashi (to Sukkah 33a), who reasons that since the *anaf etz avot* of
-Vayikra 23:40 is the hadas, the branch must carry leaves in groups of three, so
-*avot* implies a merger of at least three. This עבות is distinct from the
+Vayikra 23:40 is the hadas, the branch must carry leaves in groups of three, which
+suggests that *avot* implies a merger of at least three. This עבות is distinct from the
 עבוט of the same transliteration, a pledge, treated in the collateral entry.
 
 ### moseirah (מוסרה) and kevel (כבל)
-*Moseirah* appears almost always in the idiom of loosing: Hashem brings the
+*Moseirah* appears in the idiom of loosing: Hashem brings the
 prisoner out of his darkness and snaps his *moserot* (Tehillim 107:14), and so
 too Tehillim 2:3 and 116:16, Yeshayahu 52:2, Yirmiyahu
 5:5 and 30:8, Nachum 1:13, Iyov 39:5. *Kevel* is iron and appears twice, both in

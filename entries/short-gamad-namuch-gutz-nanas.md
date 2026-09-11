@@ -21,16 +21,15 @@ updated: 2026-09-10
 *Gomed* is a **measure**, an *amah* or a cut-down *amah*, and *gamadim* in
 Yechezkel are read either as sounders of the sea's depth or as **dwarfs** an
 *amah* tall. *Namuch* is **low**, the plain Rabbinic word for short in height, of
-a person or a fence alike. *Gutz* is **stunted**; the column's preferred
-derivation, against two rivals, is a Semitic one from an Aramaic sense of cutting
-off, as though the man's height had been cut short. *Nanas* is the Rabbinic term
-for a **dwarf**, and equally for short boards or low walls. None of these is exclusively about people, so a short wall in a sugya
-is *namuch* or *nanas*, not a metaphor.
+a person or a fence alike. *Gutz* is **stunted**; the derivation
+Rabbi Reuven Chaim Klein finds more plausible than its two rivals is a Semitic
+one, from an Aramaic sense of cutting off, as though the man's height had been
+cut short. *Nanas* is the Rabbinic term for a **dwarf**, and equally for short
+boards or low walls. *Gamad*, *namuch* and *nanas* are not confined to people.
 
-The column frames the whole essay on the Gemara (Moed Katan 18a) that the Pharaoh
-of Moshe's day was but one *amah* tall, which it says gives a different spin on
-the scene of Moshe and Aharon standing before him, and it asks whether these four
-words are truly synonyms. It does not close with a flat verdict either way.
+The Gemara (Moed Katan 18a) says that the Pharaoh of Moshe's day was but one
+*amah* tall, which, Rabbi Klein observes, gives a different spin to the scene of
+Moshe and Aharon standing before him.
 
 ## Distinctions
 
@@ -46,25 +45,25 @@ and mem trading places.
 
 The other occurrence is Yechezkel 27:11, the *gamadim* who manned the watchtowers
 of Tyre. Rashi and Mahari Kara there first explain *gamadim* as seamen adept at
-measuring the depths of the sea with ropes; the column says this fits Rabbi Dr.
-Ernest Klein's connection of Hebrew *gamad* to the Ethiopic *gwend*, "stick,"
+measuring the depths of the sea with ropes; Rabbi Reuven Chaim Klein says this
+fits Rabbi Dr. Ernest Klein's connection of Hebrew *gamad* to the Ethiopic *gwend*, "stick,"
 probably a sort of yardstick used to measure a *gomed*. Subsequently Rashi, and
 Radak there and in *Sefer HaShorashim*, explain *gamadim* as short people, no
 more than an *amah* tall. Targum Yonasan there renders *gamadim* as
 Cappadocians; Rabbi Eliyahu Bachur (1469-1549) in *Sefer Tishbi* merges the
 Targum with Rashi's second explanation to posit that the Cappadocians were a
-nation of dwarfs, which the column likens in an aside to the Lilliputians of
-*Gulliver's Travels*.
+nation of dwarfs, which Rabbi Reuven Chaim Klein likens in an aside to the
+Lilliputians of *Gulliver's Travels*.
 
 In Talmudic Hebrew the root means contracting or shrinking: Eretz Yisrael has the
 supernatural property of expanding to hold all its inhabitants when settled, and
 is *gamda*, contracted or shrunk, when left uninhabited (Gittin 57a; further
-examples at Beitzah 15a, Pesachim 111a, Chullin 43a). Ernest Klein, whom the
-column notes is no relation to the columnist, connects this to the Arabic
-*jamada*, "stiffening, congealing, hardening," since in hardening matter grows
-more compact and smaller in its dimensions; the column reports his point with a
-hedge, that it seems to be that hardening and shrinking are two sides of one
-coin. Gamda also appears in the Gemara as a name or nickname, in Rav Gamda, Rav
+examples at Beitzah 15a, Pesachim 111a, Chullin 43a). Rabbi Dr. Ernest Klein,
+no relation to Rabbi Reuven Chaim Klein, connects this to the Arabic *jamada*,
+"stiffening, congealing, hardening." As Rabbi Reuven Chaim Klein reads him, his
+point seems to be that hardening and shrinking are often two sides of one coin,
+since in hardening matter typically grows more compact and smaller in its
+dimensions. Gamda also appears in the Gemara as a name or nickname, in Rav Gamda, Rav
 Chiyya bar Gamda, Rabbi Yehudah ben Gamda, and the Gamda River; and in Modern
 Hebrew *gamad* is a garden gnome. Bachur takes *gomed* to be the native Hebrew
 word for a short person.
@@ -80,8 +79,8 @@ as though the nun belonged to the root. The comparison is to the Rabbinic
 *terumah*, derived from the biblical reish-(vav)-mem of raising and lifting and
 then treated as though the initial tav were root. The root of *mach* itself is
 given as mem-vav-kaf (Ibn Janach and Radak), mem-kaf-kaf (Ibn Chayyuj), mem-kaf
-(Ibn Saruk), or a bare kaf (Rabbi Pappenheim); the column refers the reader to
-its own earlier piece "The Poor and Unfortunate" (May 2019), and see the separate
+(Ibn Saruk), or a bare kaf (Rabbi Pappenheim). For more on *mach*, see Rabbi
+Reuven Chaim Klein's "The Poor and Unfortunate" (May 2019) and the separate
 entry here on the words for poverty.
 
 ### gutz (גוץ)
@@ -99,16 +98,16 @@ Three etymologies are on the table. Rabbi Binyamin Mussafia (1606-1675) in
 *Musaf HeAruch* writes that *gutz* actually comes from Greek. Dr. Alexander
 Kohut (1842-1894) in *Aruch HaShaleim* disagrees with that supposition, comparing
 the Hebrew and Aramaic *gutz* to the French *court* / *curt* and the Hungarian
-*kisci*, "small," which the column suggests may be due to the interchange of the
-gimmel and kuf sounds together with some shuffling of consonants; Kohut's
-etymology follows his general observation that many languages have similar
+*kisci*, "small," which Rabbi Reuven Chaim Klein suggests may be due to the
+interchange of the gimmel and kuf sounds together with some shuffling of
+consonants; Kohut's etymology broadly follows his general observation that many languages have similar
 sounding terms for one phenomenon. Kohut further notes that French *curt* derives
 from the Latin *curtus*, which would relate it to English "short" and to the
 German and Yiddish *kurtz*, and modern linguists trace all of these to the
 Proto-Indo-European root *sker-*, "cutting," the ultimate etymon of scissors,
 shear, scabbard, skirmish, scar, shard, sharp, scrape, shirt, skirt and curt.
-The column itself calls a third etymology more plausible, an essentially Semitic
-one: the verb *gutz* in Aramaic generally means gnawing, biting or cutting off,
+Rabbi Reuven Chaim Klein calls a third etymology more plausible, an essentially
+Semitic one: the verb *gutz* in Aramaic generally means gnawing, biting or cutting off,
 so a short man is one whose height seems cut off from what one might otherwise
 have expected. Professor Michael Sokoloff, in *A Dictionary of Jewish Babylonian
 Aramaic of the Talmudic and Geonic Periods*, writes that the Aramaic root
@@ -121,7 +120,7 @@ in glossing *gamadim* at Yechezkel 27:11. Bechoros 45b humorously suggests that
 an especially tall man not marry an especially tall woman, lest their offspring
 be as tall as a ship's mast, and that an especially short man (*nanas*) not marry
 an especially short woman (*nanaset*), lest their offspring be as short as a
-finger. Like the others it is not confined to people: short boards and walls are
+finger. Like some of the others it is not confined to people: short boards and walls are
 *nanasin* (Rashi to Yoma 16b, Pesachim 64a, and to Yechezkel 40:43).
 Nevuchadnetzar, a mighty conqueror who was nonetheless short in height, is
 described as "the *nanas* of Bavel" (*Pesikta DeRav Kahana* §13:5; see also
@@ -134,7 +133,7 @@ Bachur in *Sefer Tishbi*, having said that the native Hebrew term for a short
 person is *gomed*, equates the Rabbinic *nanas* with the Latin *nano* and with
 *ninio*, "baby" in Spanish; those Latinate words derive in turn from the Greek
 *nanos* (so *Aruch HaShaleim*), which English speakers will recognize as the
-prefix in nanosecond, nanogram and nanotechnology. The column adds that *nanas*
+prefix in nanosecond, nanogram and nanotechnology. *Nanas*
 is entirely unrelated to the Modern Hebrew *ananas*, pineapple, which derives
 from the Peruvian *nanas* by way of Spanish.
 

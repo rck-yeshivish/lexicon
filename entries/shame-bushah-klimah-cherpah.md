@@ -48,7 +48,7 @@ chronological sequence.
 |---|---|---|---|
 | בושה | bushah | shame | mildest; written first in a pair (Radak); can be social only, without contrition (Edel) |
 | כלימה | kelimah | humiliation | graver; inflicted from outside (Malbim); the deed itself is disgraceful (Edel) |
-| חרפה | cherpah | disgrace, reproach | follows another's insult (Wertheimer); disparagement rather than shame (Bedersi); most intense of all (Chelouche) |
+| חרפה | cherpah | disgrace, reproach | follows another's insult (Wertheimer); disparagement rather than shame (Bedersi); more intense than *bushah* and *klimah* (Chelouche) |
 | חפרה | chafrah | mortification | wanting to dig a hole and hide; most intense (Malbim) |
 
 ## Where the authorities disagree
@@ -62,8 +62,8 @@ chronological sequence.
    several synonyms for one concept appear in tandem, Tanach sets them in
    ascending order from least intense to most intense. On that basis he holds
    *bushah* less intense than *klimah* and *cherpah* both.
-2. **Physiological sequence.** Isaac Satanow (1732 to 1804), whom the column
-   identifies as a Maskillic scholar, builds on *Bava Metzia* 58b, that one
+2. **Physiological sequence.** Isaac Satanow (1732 to 1804), a Maskillic
+   scholar, builds on *Bava Metzia* 58b, that one
    publicly shamed first blushes and then turns white. *Bushah* he ties to the
    root BET-SHIN, which also means "delaying," because shame first delays the
    normal circulation of the blood and reddens the face; *klimah* is the later
@@ -81,12 +81,12 @@ chronological sequence.
 **Which word is the most intense.** Bedersi says *klimah*. Malbim says
 *chafrah*, one who would bury his head. Rabbi David Chaim Chelouche (1920 to 2016),
 the late Chief Rabbi of Netanya, says *cherpah*, more intense than *bushah* and
-*klimah* both. The three are not reconcilable.
+*klimah* both.
 
-**Whether cherpah belongs to this cluster at all.** Bedersi treats it as
-disparagement, a word about what others say, not about what the ashamed man
-feels. Wertheimer, Malbim and Chelouche keep it in, as shame received from
-outside.
+**Whether cherpah is shame or disparagement.** Bedersi understands it as related
+to disparaging rather than to shame. Wertheimer and Malbim treat it as shame
+received from outside, and Chelouche as a more intense shame than *bushah* and
+*klimah*.
 
 ## Distinctions
 
@@ -106,7 +106,7 @@ inherent to the act at all but felt from the circumstances, as with the thief
 ashamed at being seen (Yirmiyahu 2:26), which stems from man's standing as a
 social creature and bespeaks nothing of his moral contrition. Malbim: *bushah*
 is internal shame. Wertheimer: *bushah* can arise from the shamed man himself or
-from someone outside him. Targum renders it *bahat*.
+from someone outside him. Targum typically renders it *bahat*.
 
 ### klimah (כלימה)
 Root כ-ל-ם. The most intense of the three for Bedersi: shame for having done what
@@ -131,18 +131,17 @@ belittled or insulted by another; *chafrah* is wanting to dig (*chofer*) a hole
 and crawl into it so that nobody sees him, again as the result of being shamed
 by another. Malbim: *chafrah* is the most intense, burying one's head out of
 sheer shame; he also separates internal *charfah* from external *cherpah*.
-Bedersi reads *cherpah* as closer to disparagement than to shame (see the
-column's separate piece "Disgraceful Disparagement," November 2021). Chelouche
-takes *cherpah* as the most intense of all: the maidservant designated to a
+Bedersi reads *cherpah* as closer to disparagement than to shame (see Rabbi
+Klein's separate essay "Disgraceful Disparagement," November 2021). Chelouche
+takes *cherpah* as more intense than *bushah* and *klimah*: the maidservant designated to a
 particular man for conjugal purposes is a *charufah* (Vayikra 19:20), a
 conjugation of *cherpah*, because she is placed in a humiliating position, having
 no matrimonial bond to the man for whom she is designated.
 
-The column notes that Shapira-Frankfurter does not himself address
-*cherpah*/*chafrah*, and offers its own conjecture: that the root ח-פ-ר may be
-related to ח-ו-ר (*chivar*, "white") through the interchange of peh and vav,
-since shame whitens the face, so that *cherpah* would be no more than a
-metathesized *chafrah*. That is the column's suggestion, not a cited authority's.
+Shapira-Frankfurter does not himself address *cherpah*/*chafrah*. Rabbi Klein
+offers his own conjecture: that the root ח-פ-ר may be related to ח-ו-ר
+(*chivar*, "white") through the interchange of peh and vav, since shame whitens
+the face, so that *cherpah* would be no more than a metathesized *chafrah*.
 
 ### The Aramaic
 Targum typically renders *bushah* as *bahat* and *klimah* as *kissuf*; hence the
@@ -159,9 +158,8 @@ The Maharal (*Netivos Olam*, *Nesiv HaOsher*, ch. 2) ties those two together:
 man's drive to accrue more and more money derives from his desire to become
 rich. Radak's father, Rabbi Yosef Kimchi (1105 to 1170), finds the shame sense of
 this root already in Tzefaniah 2:1, though others read that verse as "desiring."
-The column leaves the link open, saying that it remains unclear how *kissuf* as
-shame relates to money and desire, and offering three possibilities only as
-guesses: shame at not having acquired the wealth one thinks one should, the
+Rabbi Klein admits that it remains unclear how *kissuf* as shame relates to
+money and desire, and offers three possibilities only as guesses: shame at not having acquired the wealth one thinks one should, the
 shameful things a man may do in pursuit of wealth, or the whitish color of silver
 resembling the paled face of a shamed man.
 

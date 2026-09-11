@@ -26,15 +26,15 @@ The words sort by species. General (either species):
 *seh* = **a lamb or kid**, one animal; *tzon* = **flock**. Goats: *eiz* =
 **she-goat**, *tayish* = **he-goat**, *gedi* and *seir* = **kid**. Sheep:
 *rachel* = **ewe**, *ayil* = **ram**, *keves* and *tleh* = **lamb**. *Kesev* is,
-on one reading, an exact metathesis of *keves*, and on others a slightly older or more general sheep. *Atud* is the one word the column leaves
-genuinely unsettled: any goat, or an extra-large adult goat, or a fat young
+on one reading, an exact metathesis of *keves*, and on others a slightly older or more general sheep. *Atud* is the word whose meaning is
+most obscured: it might be any goat, or an extra-large adult goat, or a fat young
 sheep, or any adult male of either species.
 
 ## Distinctions
 
-The column counts fifteen or so words in Tanach for sheep (ovines) and goats
+Tanach uses fifteen or so words for sheep (ovines) and goats
 (caprines): some used only for sheep, some only for goats, and some for both
-species indiscriminately or collectively, which it calls "ovacaprines." Some mark
+species indiscriminately or collectively, known as "ovacaprines." Some mark
 a gender or an age, others are general.
 
 ### seh (שה)
@@ -43,15 +43,14 @@ Gender-neutral, a single young animal of either species. The Torah often pairs
 Bamidbar 15:11; Devarim 14:4).
 
 ### tzon (צאן)
-The collective: a flock or herd, sheep and goats together. Rabbi Shlomo
-Pappenheim traces it to the tzadi element meaning "goes out," since these
-lighter animals go out to graze even in winter, where the heavier cattle stay
-in.
+The collective, most commonly a flock or herd, sheep and goats together. Rabbi
+Shlomo Pappenheim traces it to the tzadi element meaning "goes out," since these
+lighter animals tend to go out even in winter, where the heavier cattle tend to
+stay in.
 
 ### eiz (עז)
-Adult she-goat, a nanny goat or she-goat in English, plural *izzim*; the column's
-own summary hedges the age, "female, possibly only adult." It notes that Hebrew
-*eiz* is related to the Arabic word for goat, *enzu*, with the nun dropped in
+She-goat, possibly only an adult one, a nanny goat or she-goat in English,
+plural *izzim*. Hebrew *eiz* is related to the Arabic word for goat, *enzu*, with the nun dropped in
 Hebrew as often happens. Rabbi David Ibn Zimra (1479-1589): absent a stated age,
 *eiz* covers any female goat from eight days old until two years. Pappenheim
 traces it to the two-letter ayin-zayin element of what is stable and
@@ -73,20 +72,20 @@ being hairy. Aramaic *tzfir* (Daniel 8:8, 8:21) is *seir*. The texts of the
 Rambam (*Hilchos Maaseh HaKorbanos* 1:14) divide: one version holds that *seir*
 specifically names a young goat in its second year (so Rashi to Menachos 91b) and
 is the only term for such a beast, the other that the only term is *seir izzim*.
-The column refers the reader to *Aruch HaShulchan HeAsid* for more on the point.
+*Aruch HaShulchan HeAsid* discusses the point further.
 
 ### rachel (רחל)
-Adult female sheep, a ewe. The column notes that Hebrew *rachel* is related to
+Adult female sheep, a ewe. Hebrew *rachel* is related to
 the Akkadian *lahru* by metathesis, the same consonants in reverse order. Rashi
 (Menachos 107b): a *rachel* is in its second year of life or older.
 
 ### ayil (איל)
 The ram, plural *eilim*, the *rachel*'s counterpart (Menachos 13:7); *Parah* 1:3
 sets it at a male sheep more than a month into its second year. Pappenheim
-traces it to the aleph-lamed element of power, the ram being the strongest of an
-otherwise flimsy species. Rabbinic Hebrew sometimes says *zachar shel rechalim*,
+traces it to the aleph-lamed element of power, the ram being the strongest of a
+species that otherwise tends to be flimsy. Rabbinic Hebrew sometimes says *zachar shel rechalim*,
 "a male of the ewes," instead (*Parah* 3:3; *Bechoros* 5:3; Bava Kama 50a;
-Yevamos 121b), and the column says the difference between that term and *ayil*
+Yevamos 121b); the difference between that term and *ayil*
 is not readily apparent. Rabbi Yisrael David Miller of Grodno (1839-1913)
 suggests Chazal use it where a reader might otherwise confuse *ayil* with *ayal*,
 a deer or hart; others have suggested it distinguishes a castrated from an
@@ -124,7 +123,7 @@ derives from Shemos 23:19 and Shmuel I 7:9 that *tleh* and *gedi* name animals
 still nursing.
 
 ### atud (עתוד)
-The word whose meaning the column calls the most obscured. As some commentators
+The word whose meaning is most obscured. As some commentators
 have it, *atud* denotes a he-goat larger and stronger than usual (see Ibn Ezra to
 Bamidbar 15:25 and Yeshayahu 1:11), and it is used especially of the male goat
 that leads the flock (Yirmiyahu 50:8). Targum Onkelos renders it *tayish*, adult
@@ -132,7 +131,7 @@ male goat, in one place (Bereishis 31:10) and *gedi*, young goat, in another
 (Bamidbar 7:17). *Peirush HaTur HaAruch* (Bereishis 31:10) and Rabbi Yosef
 Chiyyun (Tehillim 50:13): *atudim* are fattened *kevasim*, young sheep.
 Alternatively Ramban (Bereishis 31:10) argues they are any adult male of either
-species. The column's own summary leaves all four open: *atud* might be any goat,
+species. So *atud* might be any goat,
 or an extra-large adult goat, or a fat young sheep, or any male of either
 species. Related fatling
 words: *karim* (Devarim 32:14; Yechezkel 27:21; Yirmiyahu 51:40), perhaps male

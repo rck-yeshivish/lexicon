@@ -19,11 +19,12 @@ updated: 2026-09-10
 ## Bottom line
 
 *Ra'ah* is plain **seeing**, the eye doing its work, including what a man happens
-upon without meaning to. *Hibit* is the deliberate **look**, and in the Midrash
-the look of one positioned above what he sees. *Mashkif* is **looking out** or
+upon without meaning to. *Hibit* is the more deliberate **look**, though Rabbi
+Yaakov Tzvi Mecklenburg denies that the word itself denotes deliberateness; in
+the Midrash it is the look of one positioned above what he sees. *Mashkif* is **looking out** or
 **down** from a height, one who sees without being seen; in the Chumash Rashi
 takes it as boding ill. *Tzofeh* is **gazing** at what is not present to the eye,
-which is why a navi is a *tzofeh* and why waiting for what has not yet come is
+which is why a navi is sometimes called a *tzofeh* and why waiting for what has not yet come is
 *mitzapeh*. *Shur* is seeing from far off, *metzitz* is **peeking** through a
 narrow opening, and *mashgiach* is watching that acts on what it sees.
 
@@ -36,8 +37,9 @@ particular a sight one stumbles on without intending to behold it. The Vilna Gao
 in.
 
 ### hibit (הביט)
-The Vilna Gaon (there): *hibit* is seeing what a glance would not have caught, so
-the verb carries deliberateness, looking in order to investigate or understand.
+The Vilna Gaon (there): *hibit* is seeing what a glance would not have caught.
+Accordingly the verb carries a more deliberate sense, looking in order to
+investigate or understand.
 Bereishis Rabbah 44:12: *hibit* is the looking of one above at what is below him.
 Malbim accepts both and reconciles them: sometimes *hibit* is examination, and
 then the looker need not be above; sometimes it is simply seeing, and then it is
@@ -53,7 +55,7 @@ among the Sages over which is which.
 Radak (*Sefer HaShorashim*): *mashkif* is one who sees but cannot be seen. Rashi
 (to Bereishis 18:16): wherever *mashkif* or *hashkafah* appears it carries a
 negative connotation, except Devarim 26:15, which is a positive looking. Rabbi
-Shlomo Aharon Wertheimer explains, correctly in the column's judgment, that
+Shlomo Aharon Wertheimer explains, correctly in Rabbi Klein's judgment, that
 Rashi did not mean every instance in all of Tanach but every instance in the
 Torah.
 Rashi (to *Berachos* 29a): *hishkif* is staring at something in the hope of
@@ -67,12 +69,12 @@ mountain, looking downward.
 The gazing at what does not physically exist, an abstraction rather than a thing.
 Malbim: awaiting what has not yet come is *mitzapeh* on the same logic, since the
 one who waits also sees what is not there and hopes it will come to be; and
-nevi'im are called *tzofim* because their visions, though not physically present,
+nevi'im are sometimes called *tzofim* because their visions, though not physically present,
 are altogether real. Rabbi Wertheimer adds the sentry: one who stays in place
 over time to watch developments as they unfold. The Vilna Gaon (to Mishlei 15:3)
-puts the distance in this word: *tzofeh* is seeing from afar. The column notes
-that others put the far-seeing in other words instead, the Midrash to Koheles
-5:1 in *ra'ah* or *hibit* and Malbim in *shur*.
+puts the distance in this word: *tzofeh* is seeing from afar. Others put the
+far-seeing in other words instead, the Midrash to Koheles 5:1 in *ra'ah* or
+*hibit* and Malbim in *shur*.
 
 ### shur (שור)
 Malbim: seeing something far away, in time or in space. Rabbi Shlomo Pappenheim
@@ -84,7 +86,7 @@ where the nose, ears, and palate take in whatever reaches them all at once.
 Malbim: not primarily a word for seeing at all, but a borrowed term whose
 hyper-literal sense is stretching; the one who is *metzitz* cranes his neck for a
 better view, as in Shir HaShirim 2:9, peering through the lattice. Rabbi
-Wertheimer: looking where the field of vision is constricted, which in English is
+Wertheimer: looking where the field of vision is somewhat constricted, which in English is
 peeking.
 
 ### mashgiach (משגיח)
@@ -92,7 +94,7 @@ Rabbi Wertheimer: unlike *mashkif*, *mashgiach* always carries a good sense.
 Rabbi Moshe Shapiro: not one who merely watches but one who watches actively, and
 when he sees what calls for intervention he does not hesitate to take action and
 set it right. So too *hashgachah*, Hashem's administrative role in creation: not
-a passive *deus otiosus*, a god at rest, as the column puts it, but One who
+a passive *deus otiosus*, a god at rest, but One who
 actively affects the world's events according to His will.
 
 ## Rendering guidance

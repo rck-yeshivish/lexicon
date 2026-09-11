@@ -33,20 +33,20 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tarnegol* is the ordinary word for a **rooster** in Mishnaic Hebrew. *Gever* means **man** or **male** far more
-often than rooster; it names the bird only where the context forces it (the
-Mishnah's "call of the *gever*," Targum Yonasan on Etzion Gever). *Sechvi* is
+*Tarnegol* is the ordinary word for a **rooster** in Mishnaic Hebrew. *Gever* sometimes means rooster but more
+often means **man** or **male**; it is taken as the bird in the Mishnah's "call of
+the *gever*" and by Targum Yonasan on Etzion Gever. *Sechvi* is
 the genuinely open word: Chazal fix it as **rooster** in the morning berachah,
-but most mefarshim read it as the **heart**. *Ziz sadai* is a bird of some kind,
-which Targum renders **wild fowl**. Rashi, Ibn Ezra, Radak, Rosh, and Tur read the *sechvi* of Iyov 38:36
-otherwise.
+but most mefarshim, Rashi, Ibn Ezra, Radak, Rosh, and Tur among them, read it as
+the **heart**, or at least as also meaning heart. *Ziz sadai* is a bird of some
+kind, which Targum renders **wild fowl**.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| גבר | gever | rooster (rarely) | normally "man"; seemingly a cognate of *gevurah*, strength; the distinctive voice among birds (Rabbeinu Efrayim) |
-| שכוי | sechvi | rooster / heart | a hapax; rooster for Chazal, heart for most mefarshim, skull for Pappenheim |
+| גבר | gever | rooster (sometimes) | normally "man"; seemingly a cognate of *gevurah*, strength; the distinctive voice among birds (Rabbeinu Efrayim) |
+| שכוי | sechvi | rooster / heart | a hapax; rooster for Chazal; heart, or at least also heart, for most mefarshim; skull for Pappenheim |
 | זיז שדי | ziz sadai | wild fowl | Tehillim 50:11, 80:14; *tarnegol bara* in Targum |
 | תרנגול | tarnegol | rooster | post-Biblical, the Mishnaic standard; letters of Nergal rearranged (Rabbi Meir HaLevi Abulafia) |
 
@@ -88,7 +88,7 @@ deity: the men of Bavel brought Sukkos Benos and the men of Kutha made Nergal
 idol and Nergal a rooster-shaped one; Rabbeinu Chananel specifies a wild
 rooster. Rabbi Meir HaLevi Abulafia offers two accounts of the name: *tarnegol*
 has the same letters as *nergal*, or *nergal* is from *ragil*, frequent, since
-the rooster copulates most often. The Yerushalmi (Avodah Zarah 3:2) understands
+the rooster is understood to copulate most often. The Yerushalmi (Avodah Zarah 3:2) understands
 Nergal differently, as a foot-shaped idol, from *regel*, treating the nun as not
 integral to the core meaning. On the strength of the Sanhedrin passage Rabbi
 Chaim Futernik surmises that *sechvi* in the sense of rooster is itself related
@@ -110,11 +110,10 @@ Divrei HaYamim II 20:36).
 Why Bilaam called himself a *gever* (Bamidbar 24:3, 24:15) drew several
 readings. Rabbeinu Efrayim: Berachos 7a says the moment of Divine anger each
 morning can be identified when the rooster's red crest turns white, and Bilaam
-likewise knew the moment a curse would take. (The column adds, as a curiosity,
-that a 2021 paper by Dr. Jessica L. Lamont of Yale demonstrates that chickens
+likewise knew the moment a curse would take. (A 2021 paper by Dr. Jessica L. Lamont of Yale demonstrates that chickens
 were particularly associated with curse rituals in ancient Greece.) *Peirush
 HaRokeach*: the rooster
-copulates constantly (Berachos 22a), and Bilaam was as single-minded. *Siddur
+copulates frequently (Berachos 22a), and Bilaam was as single-minded. *Siddur
 HaRokeach*: the rooster shuts one eye and stands on one foot at that moment, and
 Bilaam was blind in one eye and lame in one foot. Rabbeinu Bachya (to Bamidbar
 24:3): the rooster crows seven times (*Perek Shirah* ch. 4 assigns it seven
@@ -141,10 +140,10 @@ raising chickens in Yerushalayim, a prohibition codified in the Mishnah as well
 
 Rabbi Dr. Ernest Klein derives *tarnegol* from the Akkadian *tar-lugallu*
 ("cock"), assuming an interchange of nun and lamed. The Akkadian word is itself
-a compound of the Sumerian *tar* ("bird," which the column compares to the
+a compound of the Sumerian *tar* ("bird," similar to the
 Hebrew *tor*, pigeon) and *lugal* ("king"), perhaps an allusion to the rooster's
-crest, which resembles a king's crown. The column adds a further curiosity of
-its own: Bilaam, who called himself a rooster, had as his patron Balak son of
+crest, which resembles a king's crown. Rabbi Reuven Chaim Klein adds a further curiosity of
+his own: Bilaam, who called himself a rooster, had as his patron Balak son of
 Tzippor, whose father's name means "bird" and who was himself a king.
 
 ## Rendering guidance

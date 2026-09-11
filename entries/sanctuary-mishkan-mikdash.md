@@ -24,11 +24,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mishkan* is the **Mishkan** (English "Tabernacle"), the portable Sanctuary of
+*Mishkan* is the **Mishkan** (English "Tabernacle"), generally the portable Sanctuary of
 the wilderness and of Gilgal, Shiloh, Nov and Givon. *Mikdash*, or *Beis
 HaMikdash*, is the permanent **Temple** in Yerushalayim. The distinction is
 temporary against permanent, and it shows in the building itself: curtains and
-cloth for the *Mishkan*, walls and a roof for the *Mikdash*. The Gemara does sometimes use the words for each other, but those
+cloth for the *Mishkan*, walls and a roof for the *Mikdash*. The Gemara does sometimes use the words almost interchangeably, but those
 are borrowed usages, not evidence that they are synonyms.
 
 ## At a glance
@@ -40,17 +40,16 @@ are borrowed usages, not evidence that they are synonyms.
 
 ## Where the authorities disagree
 
-The sources do not split on the meanings. The column notes that Eruvin 2a admits
-the two words are sometimes used almost interchangeably, and rules even so that
-they are not truly synonymous: they name two specific types of holy place, and
-the other usages are simply borrowed meanings. What the column does supply is a
-middle case. Mishnah Zevachim 14:6 gives the *Mishkan* at Shiloh
+Eruvin 2a admits that the two words are sometimes used almost interchangeably;
+Rabbi Klein holds even so that they are not truly synonymous: they name two
+specific types of holy place, and the other usages are simply borrowed meanings.
+Mishnah Zevachim 14:6 gives the *Mishkan* at Shiloh
 quasi-*Mikdash* status: its stone walls had the properties of a permanent
 edifice, unlike the *Mishkan* everywhere else, yet it was still covered with a
-curtain as it had been elsewhere, and it stood there almost four hundred years,
-which itself lent it permanence. So Shiloh was not a temporary Sanctuary at all
-but a semi-permanent stepping-stone between the temporary *Mishkan* and the
-permanent *Mikdash*.
+curtain as it had been elsewhere. Moreover, it stood there almost four hundred
+years, which gave it some sort of permanence. So, he concludes, Shiloh was not a
+temporary Sanctuary like the *Mishkan* elsewhere but a semi-permanent
+stepping-stone between the temporary *Mishkan* and the permanent *Mikdash*.
 
 ## Distinctions
 
@@ -61,8 +60,8 @@ curtain, and ten curtains over the whole, because the building was made to be
 taken down and carried. It stood mobile for the forty years in the wilderness,
 then at Gilgal for the fourteen years of conquest and division of the Land, then
 at Shiloh for 369 years, and after the Pelishtim destroyed the Shiloh Sanctuary,
-at Nov and Givon for a combined fifty-seven years. Private altars were permitted
-during the *Mishkan* era, except during the forty years in the wilderness and the
+at Nov and Givon for a combined fifty-seven years. Private altars were permitted for certain
+types of offerings during the *Mishkan* era, except during the forty years in the wilderness and the
 centuries at Shiloh.
 
 ### Mikdash (מקדש)
@@ -78,7 +77,7 @@ Yoma 9a-9b gives the causes of each destruction: the Shiloh Sanctuary for
 desecration of holy foodstuffs and for impropriety in intimacy, the first Beis
 HaMikdash for the three cardinal sins (idolatry, impropriety in intimacy, and
 murder), the second for baseless hatred among Jews. The destruction of the two
-*Batei Mikdash* is mourned each year on Tishah B'Av; the column adds that in
+*Batei Mikdash* is mourned each year on Tishah B'Av; Rabbi Klein adds that in
 some ways the destruction of Mishkan Shiloh is an equally sad catastrophe.
 Zevachim 119a
 reads Devarim 12:9, "for you have not yet come to the resting place or to the

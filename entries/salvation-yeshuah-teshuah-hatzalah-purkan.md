@@ -18,12 +18,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Yeshuah* and *teshuah* are the grand words: **salvation**, total release from
-oppression, and specifically salvation that answers a cry (*shav'ah*) for help.
-*Hatzalah* is the plain one: **rescue**, being pulled out of danger (root sense
-"separate, remove"). Whether it is the lesser word is itself disputed: the
-Rokeach calls it partial or temporary next to *yeshuah*, while Malbim has it
-carrying more, protection from future troubles on top of the saving. *Purkan*
+*Yeshuah* and *teshuah* are **salvation**, specifically salvation that answers a
+cry (*shav'ah*) for help, and for the Rokeach total release from oppression.
+*Hatzalah* is **rescue**, being pulled out of danger (root sense
+"separate, remove"). The Rokeach calls it partial or temporary next to
+*yeshuah*; Malbim has it carrying more, protection from future troubles on top
+of the saving. *Purkan*
 (Aramaic, the Targum's *pidyon*) is **redemption**, being bought back.
 
 ## Distinctions
@@ -38,21 +38,21 @@ a complaint. Rabbi Shlomo Pappenheim: the biliteral ש-ע underlies *yeshuah*,
 *teshuah*, and *shav'ah*, and its core is enjoyment and pleasure (so too
 *sha'ashua*, playful or delightful; *mishan*, leaning and relying, the
 satisfaction of being supported by another; and *sha'ah*, an hour, a unit of
-time a person gives to a task he wants to do). The column offers an alternative
-of its own, that the core of ש-ע is "smoothness," here the uninterrupted passage
-from prayer to salvation.
+time a person gives to a task he wants to do). Rabbi Klein offers an alternative
+of his own, that the core of ש-ע may be "smoothness," here the uninterrupted
+passage from prayer to salvation.
 
 Rav Hirsch proposes an etymological difference between the two. *Yeshuah*, root
 י-ש-ע, is kin to י-ש-ה and to
 the biliteral י-ש, "exists": it is the first-order existence Hashem grants, the
 salvation from a danger that threatened one's very being. *Teshuah*, root
 ש-ו-ע, is kin to ש-ב-ע (seven) and ש-פ-ע (influx): it concerns what is
-peripheral to existence, one's property and economic freedom, so it often names
+somewhat peripheral to existence, one's property and economic freedom, so it often names
 salvation through military victory over outside conquerors.
 
 Rabbi Yechiel Michel Heilpern and Rabbi Chanoch Zundel of Bialystok: *yeshuah*
-and *teshuah* are salvation from a grave threat, murder or a crime of a sexual
-nature (Devarim 22:27), which is why the Midrash (Shemos Rabbah 1:32) infers
+and *teshuah* are salvation from a particularly grave threat, such as murder or
+a crime of a sexual nature (Devarim 22:27), which is why the Midrash (Shemos Rabbah 1:32) infers
 from *vayoshi'an* (Shemos 2:17) that the shepherds meant harm to Yisro's
 daughters. Peirush HaRokeach: *yeshuah*/*teshuah* is total and utter salvation
 from a state of oppression and subjugation. Malbim argues further that *yeshuah*
@@ -67,11 +67,11 @@ both *yeshuah* and *pidyon* with words of *purkan*.
 ### hatzalah (הצלה)
 Peirush HaRokeach: only a partial or temporary respite from oppression, not a
 total release. Malbim (to Yirmiyahu 15:20) adds that *hatzalah* focuses on the
-element of salvation that releases a person from mortal danger; the column
+element of salvation that releases a person from mortal danger; Rabbi Klein
 suggests that this may be why Hatzolah is the name the volunteer paramedic
-organizations took. Elsewhere Malbim argues that *hatzalah*, against *yeshuah*,
+organizations took. Malbim further argues that *hatzalah*, against *yeshuah*,
 implies being saved from the situation plus being protected from future
-troubles. Heilpern and Rabbi Chanoch Zundel: *hatzalah* is saving from any
+troubles. Heilpern and Rabbi Chanoch Zundel: *hatzalah* can refer to saving from any
 threat, not only the gravest. Rabbi Shlomo Pappenheim: from the biliteral צ-ל,
 "separation for a constructive purpose," so extricating a person from peril;
 under the same root he puts *tzel*, a shadow, which appears to separate itself

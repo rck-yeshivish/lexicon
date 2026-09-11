@@ -43,10 +43,10 @@ updated: 2026-09-10
 ## Bottom line
 
 *Sheviis*, "the seventh," is the Sabbatical year, and it is the Mishnah's word
-for it. *Shavua* is a **week**, but in Daniel and in several mishnayos it is a
+for it. *Shavua* is a **week**, but in Daniel, seemingly, and in several mishnayos it is a
 **seven-year cycle**, so context decides. *Shabbos* is the day, and by
-synecdoche the **week** it closes and the Sabbatical **year** itself (Ramban).
-*Shevuah* is an **oath**, tied to *sheva* by every authority here, though they
+synecdoche the **week** it closes (Ramban), and the Sabbatical **year** itself.
+*Shevuah* is an **oath**, tied to *sheva* by most of the authorities here, though they
 part on why. *Sheva* is not "seven" where the sources read it as
 "many" (Rasag to Bereishis 4:24 and Mishlei 24:16).
 
@@ -56,9 +56,9 @@ part on why. *Sheva* is not "seven" where the sources read it as
 |---|---|---|---|
 | שבע | sheva | seven, many | non-numeric in places: "much," "more and more" (Rasag) |
 | שביעית | sheviis | the seventh year | the ordinal of *sheva*; already Biblical for the Sabbatical year |
-| שבוע | shavua | week, seven-year cycle | any seven-day period, not the calendar week (Mecklenburg); seven years in Daniel |
+| שבוע | shavua | week, seven-year cycle | any seven-day period, not the calendar week (Mecklenburg); seemingly seven years in Daniel |
 | שבת | shabbos | Shabbos, week, Sabbatical year | part standing for whole (Ramban); for Mecklenburg the sense is cessation, never "week" |
-| שבועה | shevuah | oath | binds the swearer under Hashem (Ibn Ezra, Rav Hirsch); strengthened by sevenfold repetition (*Sefer HaChinuch* 330) |
+| שבועה | shevuah | oath | ties the claim to Hashem's existence (Ibn Ezra) or places the swearer under His control (Rav Hirsch); strengthened by sevenfold repetition (*Sefer HaChinuch* 330) |
 | שבויה | shevuyah | captive | the picture behind both the cycle and the oath: no freedom to move |
 
 ## Where the authorities disagree
@@ -71,15 +71,15 @@ rendering the first pair *yoma tava* and the second *shavua*. Ramban adds that
 *shabbos* for "week" is common in rabbinic speech (*Taanis* 4:7, *Megillah* 3:4,
 *Kesubos* 1:1, 5:6-7, *Eduyos* 4:10, *Nedarim* 8:1, *Bava Metzia* 9:11, *Bava
 Basra* 5:10, *Sheviis* 2:6, *Niddah* 4:5), and calls the word a synecdoche: a day
-within the week and the week entire, and likewise the Sabbatical year (Vayikra
-25:2, 25:4, 25:6, 26:34-35; Divrei HaYamim II 36:21) and the seven-year cycle
-that contains it (Vayikra 25:8), the name for the Sabbatical year highlighting
+within the week and the week entire. By the same token the Sabbatical year is
+called *shabbos* (Vayikra 25:2, 25:4, 25:6, 26:34-35; Divrei HaYamim II 36:21),
+and so is the seven-year cycle that contains it (Vayikra 25:8), the name for the Sabbatical year highlighting
 its Shabbos-like rules requiring one to rest from working the ground.
 Rabbi Yaakov Tzvi Mecklenburg objects that
 nowhere else in Tanach does *shabbos* mean week, and reads it there in its plain
 sense of ceasing: between the Omer on the second day of Pesach and the Two Loaves
-on Shavuos no new grain is used in the Mikdash, so those weeks are themselves a
-cessation.
+on Shavuos no new grain is used in the Mikdash, so those weeks may be
+characterized as a cessation.
 
 **Shabbos or shavua, when both mean week.** Mecklenburg: *shabbos* is
 specifically the calendar week that runs from Sunday to Shabbos, which lends the
@@ -91,19 +91,19 @@ is the heretical Tzedoki position; on his account the name Shavuos lends credenc
 to it, and that is why Chazal refrained from using it and called the festival
 *Atzeres* instead.
 
-**Why an oath is a shevuah.** Five accounts, none of them exclusive:
+**Why an oath is a shevuah.** Five accounts:
 
 1. **Sevenfold strengthening.** Rava rules that saying "no, no" or "yes, yes" is
    an oath (*Shevuos* 36a), which Rashi explains as strengthening by repetition,
    conceptually like an oath, which is meant to strengthen the force of what one
-   says. The Brown-Driver-Briggs lexicon, which the column quotes, joins the two
+   says. The Brown-Driver-Briggs lexicon joins the two
    senses of ש-ב-ע by defining the "swear" sense as "seven oneself, or bind
    oneself by seven things." And treaty oaths in Tanach were accompanied by seven
    animals (Bereishis 21:23-33) or a multiple of seven
-   (Divrei HaYamim II 15:11-15), so that, as the column puts it, it seems the
+   (Divrei HaYamim II 15:11-15), so that, Rabbi Klein concludes, it seems the
    number seven was somehow associated with affirming the oath taken, and all
    oaths came to be called *shevuah* in consequence. *Sefer HaChinuch* (mitzvah
-   330) explains the link the same way: repeating a
+   330) explains the connection between *shevuah* and *sheva*: repeating a
    thing seven times strengthens that speech act and symbolizes its everlasting
    value. Onkelos renders the oath verb at Bereishis 24:9
    with a cognate of *kiyum*, establishing and everlasting.
@@ -119,24 +119,26 @@ to it, and that is why Chazal refrained from using it and called the festival
    to symbolize universally His role as Creator and Master of the world, so the
    one who swears actively places himself under His direct control, as if to say
    that if what he says is untrue he hereby delivers himself into Hashem's hand
-   to be dealt with justly. The column adds that seven went on being a
+   to be dealt with justly. Seven went on being a
    significant stock number in many ancient Near Eastern texts.
 4. **Captivity.** Mecklenburg, Pappenheim, and Rav Hirsch all connect *shevuah*
    to *shevuyah*, a captive: the sworn man is bound and cannot move freely.
 5. **Satiation.** Rabbi Moshe Elyakim Briah Hopstein: *shevuah* is akin to
    *seviah*, being satisfied, since swearing in Hashem's name is a way of
    clinging to Him, and the righteous are not satisfied until they cling to Him
-   entirely. Rabbi Yitzchok Avigdor Lubchansky of Milwaukee adds that the mitzvah
-   to swear in Hashem's name, as against the name of any other deity (Devarim
-   6:13, 10:20), is listed as the seventh positive commandment in Rambam's
-   reckoning of the 613, which illustrates the tie again between Hashem, swearing
-   and the number seven.
+   entirely.
+
+Rabbi Yitzchok Avigdor Lubchansky of Milwaukee notes that the mitzvah
+to swear in Hashem's name, as against the name of any other deity (Devarim
+6:13, 10:20), is listed as the seventh positive commandment in Rambam's
+reckoning of the 613, which illustrates the tie again between Hashem, swearing
+and the number seven.
 
 **Is sheva always the number?** Rasag's *Tafsir* renders Lemech's "sevenfold has
 Kayin been avenged, and Lemech seventy-seven" (Bereishis 4:24) as "much... more
 and more," and *sheva yipol tzaddik vakam* (Mishlei 24:16) as "many"; Ibn Ezra
-and Ralbag read Mishlei the same way. Mecklenburg likewise takes the sevenfold
-punishments of Vayikra 26:18, 26:24, 26:28 as recurring punishment rather than a
+and Ralbag read Mishlei the same way. Mecklenburg likewise intimates that the sevenfold
+punishments of Vayikra 26:18, 26:24, 26:28 are recurring punishment rather than a
 count.
 
 ## Distinctions
@@ -159,27 +161,27 @@ out (*Pesachim* 12a, 86a; *Moed Katan* 12a; *Sotah* 44a; *Bava Metzia* 110b;
 
 ### The root
 Mecklenburg traces both ש-ב-ת and ש-ב-ע to the two-letter ש-ב, whose sense is
-returning; the ayin is not one of Pappenheim's radical letters, but the Aramaic
-*shav*, seven, is *sheva* without it, which leaves room for the derivation.
-Hence a *shevuyah*, a captive, caught in a closed system that keeps returning to
+returning. The ayin is not one of Pappenheim's radical letters, but, Rabbi Klein
+argues, the Aramaic *shav*, seven, is *sheva* without it, which leaves ample room
+for the derivation. Hence, for Mecklenburg, a *shevuyah*, a captive, caught in a closed system that keeps returning to
 its start, and hence *shabbos* and *shavua* as cycles of time that restart on
 reaching seven, whether of days, weeks, years, or, as the medieval mekubalim
-have it, millennia. Pappenheim arrives at the same place from the other side: one
+have it, millennia. Pappenheim offers a similar explanation: one
 who has returned home no longer moves toward anything, so *shabbos* as cessation
 grows out of returning, and a captive is forced into that same stillness.
 
-Mecklenburg holds that seven's cyclical importance is embedded in creation, since
-the week answers to no astronomical cycle as day, month, and year do; he points
-to the seven musical notes, and Rabbi Moshe Zuriel to the seven colors of the
-rainbow, to which the column adds the seven planets visible to the naked eye,
+Mecklenburg holds that seven's cyclical importance is embedded in creation;
+although the week answers to no astronomical cycle as day, month, and year do,
+he points to the seven musical notes, and Rabbi Moshe Zuriel to the seven colors of the
+rainbow, to which Rabbi Klein adds the seven planets visible to the naked eye,
 the seven letters that take a *dagesh*, the seven orifices of the head (*Sefer
-Yetzirah* 4:3), and perhaps the reputed seven-chambered uterus. The column then
-qualifies itself: the first examples are not foolproof and could be understood
+Yetzirah* 4:3), and perhaps the reputed seven-chambered uterus. Rabbi Klein then
+qualifies this: the first examples are not foolproof and could be understood
 as social constructs, since seven notes and seven colors of the rainbow may
 reflect no more than a human consensus that fixed on seven, and in reality the
 notes or the colors could be divided into any number, though we are not
 conditioned to think of them so. The Shelah
-closes the theme: Hashem made the world in six days and rested on the seventh to
+writes that Hashem made the world in six days and rested on the seventh to
 teach a man to use his seventy years (Tehillim 90:10) and waste none of them, and
 the mitzvos built on seven, the seven days of *chametz*, the seven days of *sheva
 berachos*, carry the same reminder.

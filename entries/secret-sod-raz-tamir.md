@@ -23,11 +23,11 @@ advice they give: Radak, who disagrees with Ibn Janach's split into two distinct
 senses and holds the two are really one); only in Chazal does
 it become **secret**, the confidence shared with a few. The Biblical word for a
 secret proper is *dvar seter*, **a hidden matter** (Pappenheim). *Kamus* is
-**stored away, sealed up** (Devarim 32:34, once only): classified information.
+**stored away, sealed up** (Devarim 32:34, once only); for Rav Hirsch, classified information.
 *Raz* (Aramaic, Daniel) is **mystery**, an idea closed off from the many
 (Rashi: *seter*, *satum*). *Tamir* is Aramaic **hidden**, Targum's word for
-most Hebrew hiding-words. In a pasuk, סוד is
-usually "counsel" or "assembly," not "secret"; in a Gemara or in mussar
+many Hebrew hiding-words. In a pasuk, סוד is
+usually "counsel" or "assembly," not "secret"; in a Gemara
 it is "secret."
 
 ## Distinctions
@@ -40,7 +40,8 @@ gathering of people (Amos 3:7, Hashem does nothing without revealing His *sod*
 to His servants the prophets) and advice
 (Mishlei 15:22, plans are cancelled without *sod*). Radak (*Shorashim*)
 disagrees with that formulation and holds the two are really one: the *sod* is
-the council one takes counsel from, on the model of English "counsel/council."
+the council one takes counsel from, an understanding analogous to the English
+"counsel/council."
 Hence the piyut rubric *misod chachamim u'nevonim* means "from the counsel of
 the earlier sages" who recommended adding the poetic compositions, not from any
 untold secret. The Rabbinic sense follows: only one's closest advisors are privy
@@ -96,15 +97,16 @@ what they will really have done and really deserve. A possible cognate appears
 in the Mishnah (Peah 5:8), where sheaves bundled into *kumsaos*, stack bases,
 are exempted from the rule that bundles forgotten in the field are left for the
 poor. Rav Hirsch (to
-Shemos 35:22, Vayikra 2:2, Devarim 32:34), invoking the interchange of kaf and
+Shemos 35:22, Vayikra 2:2, Devarim 32:34), implicitly invoking the interchange of kaf and
 kuf and of samech and tzadi, joins *kamus* to *kamatz*, gathered and
 minimized, both of them something stored away and protected: in the case of
 *kamus*, protected classified information kept from those who do not need to
 know. Rabbi Avi Kobernick similarly reads it against its metathesis
 SAMECH-MEM-KAF, next to or adjacent, arguing that closely guarded secrets are
-kept close and not revealed indiscriminately. The column adds a theory it once
-held of its own, that the mem of KAF-MEM-SAMECH is not integral and the core
-etymon is the biliteral KAF-SAMECH, cover, since what is covered becomes hidden.
+kept close and not revealed indiscriminately. Rabbi Reuven Chaim Klein once
+theorized, as his own view, that the mem of KAF-MEM-SAMECH is not integral and
+the core etymon is the biliteral KAF-SAMECH, cover, since what is covered
+becomes hidden.
 The compound *sod kamus*, a secretive secret, was coined by Rabbi
 Yitzchak Ibn Ghiyyat in one of his poems, according to the Academy of the Hebrew
 Language, and has only grown in popularity since.
@@ -114,34 +116,34 @@ Aramaic (*raz*, Daniel 4:6; *raza*, Daniel 2:18-47), possibly once in Hebrew
 (Yeshayahu 24:16).
 Rashi (to Daniel 2:19, 2:47; Sanhedrin 94a) glosses *seter*; to Daniel 4:6,
 *satum*: either way an idea hidden and closed up so as to be inaccessible to the
-masses. The column adds that *raz* is a very common word in the Dead Sea
-Scrolls, used there for various mystical and esoteric allusions, and that
+masses. *Raz* is a very common word in the Dead Sea
+Scrolls, used there for various mystical and esoteric allusions, and
 linguists derive the Aramaic word from the Old Persian *raza*, itself related to
 the Sanskrit *rahasya*, both said to go back to Proto-Indo-Iranian *rajh*.
 
 Pappenheim and Malbim (to Iyov 15:12) trace the Biblical *rezem*, hinting, to
-the biliteral REISH-ZAYIN, "hidden": a wink of the eyes or a gesture tells those
-in the know that one is privy to a secret others are not. The column notes that
-Pappenheim says this only of *rezem*, which is Biblical, and that extending it
-to the Mishnaic *remez* (Gittin 5:7) is its own step, though not much of a
-stretch. Pappenheim and Malbim also derive *roznim*, noblemen and ministers
+the biliteral REISH-ZAYIN, "hidden." As Pappenheim explains it, a wink of the
+eyes or a gesture tells those in the know that one is privy to a secret others
+are not. Pappenheim says this only of *rezem*, which is Biblical; Rabbi Reuven
+Chaim Klein finds it not much of a stretch to extend it to the Mishnaic *remez*
+(Gittin 5:7) as well. Pappenheim and Malbim also derive *roznim*, noblemen and ministers
 (Shoftim 5:3; Yeshayahu 40:23; Tehillim 2:2; Mishlei 8:15, 14:28, 31:4), from
 the same root, since such aristocrats were often privy to information the
 common people were not (see also Malbim to Mishlei 14:28 and *Shoresh Yesha*).
 
-The column suggests, as its own proposal, reading *raz* as a metathesis of *zar*,
-strange or foreign, since the information is withheld from others and so
-estranged from them; it then reports having found that Rabbi Dov Kook of Tiberias
-mentions that the gematria of *raz*/*zar* equals that of *rahav*, the angelic
-representative of Egypt, and of *bahar*, "at the mountain," the term for the
-mitzvos given at Har Sinai, and it says plainly that it has not merited to
-understand the secret behind those connections.
+Rabbi Reuven Chaim Klein suggests, as his own proposal, reading *raz* as a
+metathesis of *zar*, strange or foreign, since the information is withheld from
+others and so estranged from them. Rabbi Dov Kook of Tiberias mentions that the
+gematria of *raz*/*zar* equals that of *rahav*, the angelic representative of
+Egypt, and of *bahar*, "at the mountain," the term for the mitzvos given at Har
+Sinai; Rabbi Klein says plainly that he has not merited to understand the secret
+behind those connections.
 
-Rabbi Eliyahu HaBachur (*Sefer Tishbi*) writes that the angel Raziel, named in
-many Kabbalistic sources and credited with the book *Raziel HaMalach* ascribed
-to Adam HaRishon, takes his name from the Aramaic *raz*, alluding to his role as
-Hashem's secretary of sorts. (The column notes in passing that the English
-"secretary" itself derives from "secret.") The Chassidei Ashkenaz read *zer*, a
+Rabbi Eliyahu HaBachur (*Sefer Tishbi*) writes that the angel Raziel (named in
+many Kabbalistic sources; *Raziel HaMalach*, a book ascribed to Adam HaRishon,
+discusses secrets Adam learned from him) takes his name from the Aramaic *raz*, alluding to his role as
+Hashem's secretary of sorts. (The English "secretary" itself derives from
+"secret.") The Chassidei Ashkenaz read *zer*, a
 diadem, and the second syllable of *mashzar*, interwoven, in the account of the
 Mishkan as allusions to the Kabbalistic *razin* contained there (*Tosafos
 HaShalem* to Shemos 25:10 §9, 25:11 §6 and §16, 25:25 §6, 39:2 §1).
@@ -152,8 +154,9 @@ Aramaic. Targum uses it for *tamun* (Bereishis 35:4; Shemos 2:12; Yirmiyahu
 *mischabeh* (Shmuel I 10:22); Targum Yonasan (to Devarim 32:34) renders *kamus*
 as *tumrah*. Rabbi Ernest Klein proposes that the Hebrew root ט-מ-ן, hidden or
 buried, actually derives from the Aramaic ט-מ-ר, with nun and reish
-interchanging as they often do; the column adds that it is equally possible the
-opposite is true and the Aramaic derives from the Hebrew. Klein also relates the
+interchanging as they often do; Rabbi Reuven Chaim Klein adds that it is equally
+possible the opposite is true and the Aramaic derives from the Hebrew. Rabbi
+Ernest Klein also relates the
 English *mattamore*, a subterranean dwelling or storehouse, to this Hebrew and
 Aramaic term, by way of French and Arabic.
 
@@ -165,8 +168,8 @@ relates that he heard from the elder sages of Yerushalayim that Kabbalistically
 those works belong to "the secret of the Hidden World," such that whoever writes
 a commentary to elucidate them will have it destroyed before publication or will
 die in his prime. Rabbi Elazar Lipa Gartenhaus points out that both came true
-for the author's own great-great-great-grandfather, Rabbi Reuven Chaim Klein of
-Davidkoff, who published *Shenos Chaim*, a commentary on the first part of
+for Rabbi Reuven Chaim Klein's own great-great-great-grandfather and namesake,
+Rabbi Reuven Chaim Klein of Davidkoff, who published *Shenos Chaim*, a commentary on the first part of
 Rabbeinu Yerucham's *Toldos Adam v'Chava*: he lost the rest of what he had
 written before he could publish it, and he died at forty-seven.
 

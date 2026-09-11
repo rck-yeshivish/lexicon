@@ -26,9 +26,9 @@ updated: 2026-09-10
 
 Both mean **shoulder**, and no single ruling settles them. One
 division (the *Ohel Moed*'s second view, with Radak): *katef* is the shoulder proper, the whole shoulder; *shechem* is the
-part of it directly opposite the neck, so **upper shoulder**, and in the one
-pasuk that sets the two in a spatial relation, **upper back**. *Shechem* alone
-carries the borrowed senses of a parcel carried there and, from that, a **portion** or allotment.
+part of it directly opposite the neck, so **upper shoulder**. In Iyov 31:22,
+which sets the two in a spatial relation, *shechem* seems rather to be the
+**upper back**. *Shechem* also carries the borrowed senses of a parcel carried there and, from that, a **portion** or allotment.
 
 ## At a glance
 
@@ -39,8 +39,7 @@ carries the borrowed senses of a parcel carried there and, from that, a **portio
 
 ## Where the authorities disagree
 
-The column's own question, once *shechem* has been shown to be a body part: does
-not *katef* mean "shoulder"? How then can *shechem* mean it too?
+If *katef* means "shoulder," how can *shechem* mean it too?
 
 Rabbi Shlomo of Urbino, a sixteenth-century Italian scholar, writes in *Ohel
 Moed*, a lexicon of Hebrew synonyms, that some explain the two words to mean
@@ -58,11 +57,10 @@ willing to accept the curse on that condition. There *katef* is plainly a body
 part sitting atop the *shechem*, from which it seems that *katef* is the upper
 shoulder and *shechem* is actually the back, which suits a curse that his
 shoulder be dislocated from his back and fall. The commentators point out that
-this is at odds with Radak, who makes *shechem* the higher part; the column
-leaves the difficulty standing.
+this is at odds with Radak, who makes *shechem* the higher part.
 
 **Rabbi Ezra Reuven Dangoor** (1848-1930), Chief Rabbi of Baghdad: the division
-is front and back, not high and low. *Shechem* is the backside of the shoulder,
+is front and back. *Shechem* is the backside of the shoulder,
 *katef* the front side.
 
 **The Munkatcher Rebbe, Rabbi Chaim Elazar Shapiro** (1871-1937): *shechem* is
@@ -74,7 +72,7 @@ primarily means "corner" or "side," and refers to the shoulder only as a borrowe
 meaning, the shoulder sitting at the corner or side of the body. Radak cites the
 same explanation in his own work of that name. On that view the word evolved in
 three stages, primarily "side," secondarily "shoulder," and in its tertiary sense
-"package" or "portion." The column notes that this understanding does not
+"package" or "portion." Rabbi Klein notes that this understanding does not
 account for the difference between *shechem* and *katef*, both of which mean
 "shoulder" and "side."
 
@@ -85,7 +83,7 @@ Yaakov to Yosef, after blessing Yosef's two sons: "Behold, I will die and God
 will be with you and return you to the Land of your Forefathers. And I give to
 you one *shechem* over your brothers, which I had taken from the Emorites with my
 sword and my bow" (Bereishis 48:21-22). The commentators, among them Targum,
-Rashi and Ibn Ezra, in the column's word "scramble" to explain what Yaakov
+Rashi and Ibn Ezra, "scramble" to explain what Yaakov
 bequeaths. Some read the Canaanite city of Shechem, which Yaakov's sons had
 already conquered from the Emorites who lived there, and Sefer Yehoshua ends with
 Yosef's bones buried in that city (Yehoshua 24:32). Others read not the city but
@@ -100,16 +98,15 @@ that it is pleasant. And he lowered his *shechem* to carry the burden" (Bereishi
 49:14-15), the *shechem* being the part of the donkey on which it carries its
 yoke. Rabbi Dovid Zvi Hoffmann (1843-1921) connects the verb *lehashkim*, to wake
 up early, whose root is the same letters as *shechem*: waking involves raising
-one's shoulder as one goes from horizontal to vertical. The column adds that some
-linguists argue the link differently, that loading parcels on a beast's back was
-usually done early in the morning, right before setting out for the day, so
-*shechem* came to mean doing anything early in the morning, and even waking early;
-and it closes by recalling Benjamin Franklin (1706-1790), that early to bed and
-early to rise makes a man healthy, wealthy and wise.
+one's shoulder as one goes from horizontal to vertical. Some linguists similarly
+tie rising early to the shoulder: loading parcels on a beast's back was usually
+done early in the morning, right before setting out for the day, so *shechem*
+came to mean doing anything early in the morning, and even waking early. Benjamin
+Franklin (1706-1790) had it that early to bed and early to rise makes a man
+healthy, wealthy and wise.
 
 ### katef (כתף)
-The shoulder as such, and the piece of the body on which a load actually rides.
-Its only contrastive appearance with *shechem* is Iyov 31:21-22, where Iyov,
+The shoulder as such. It appears in contrast with *shechem* at Iyov 31:21-22, where Iyov,
 protesting that his hand never tricked an orphan, accepts a curse that his *katef*
 fall from his *shechem*.
 

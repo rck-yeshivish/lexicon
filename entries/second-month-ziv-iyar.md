@@ -40,13 +40,13 @@ radiance as something given off rather than the source itself (Rabbi Moshe
 Shapiro). **Iyar** is the name in use since Bavel and appears nowhere in Tanach.
 How to spell Iyar, with
 one yud or two, is an unsettled halachic question in a *get*, and the poskim
-conclude for two.
+cited conclude that one should optimally write two.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| זו | Ziv | Ziv | the Biblical month-name; written defective, though the Aramaic noun is written plene (Radak) |
+| זו | Ziv | Ziv | the Biblical month-name; written defective, though the Aramaic noun is written plene; Radak still gives the root as ז-י-ו |
 | זיו | ziv | radiance, splendor | the emanation, not the luminary: Onkelos to Shemos 34:29, Targum Yonasan to Yeshayahu 6:3 (Rabbi Moshe Shapiro) |
 | אייר | Iyar | Iyar | post-Biblical, from the Babylonian calendar by prophetic revelation (Yerushalmi Rosh HaShanah 1:2) |
 | אויר | avir | air | the connection *Sefer HaKushyos* proposes for the name Iyar |
@@ -60,39 +60,40 @@ Rabbi Yehoshua in Nissan.
 
 1. **The splendor of the trees.** Rabbi Eliezer: the month is called Ziv for the
    radiance of the trees, which begin to blossom then. The Yerushalmi (*Rosh
-   HaShanah* 1:2) says the same, that the flora have budded and become
+   HaShanah* 1:2) gives a similar reason, that the flora have budded and become
    recognizable.
 2. **The splendor of the Avos.** Rabbi Yehoshua: Ziv points to the birth of the
    *zivsanei olam*, the radiant ones of the world, the Avos. Since on his view
-   they were born in Nissan, Rashi answers the obvious difficulty: by the time
+   they were born in Nissan, Rashi touches on the apparent difficulty: by the time
    the second month comes around, the fathers born in the month before are
-   already born, and the second month carries their light.
+   already born.
 
-Both are in the Gemara and neither is rejected. The column's own reading joins
+Rabbi Klein's own reading joins
 them through Rabbi Moshe Shapiro's sense of *ziv*: Nissan is the month of
-*nissim*, the light itself; Iyar is what continues to shine from it, which is why
+*nissim*, the light itself; Iyar is what continues to shine from it and is,
+after a fashion, a continuation of it, which is why
 one who missed the korban Pesach in Nissan can bring Pesach Sheini in the second
 month (Bamidbar 9:11), and why the buds are the tree's radiance without being the
 trunk. On the same reading the Avos are called the Chariot of Hashem in the
 sense that they are not Him, but vehicles for the spread of His will through
 creation at large.
 
-**The root of Ziv.** Radak (*Sefer HaShorashim*): the root is ז-י-ו, even though
-the month-name is never written with a yud in Tanach, while the ordinary Aramaic
-word for radiance in Daniel (2:31, 4:33, 5:6, 5:9-10, 7:28) always is. Rabbi
+**The root of Ziv.** The month-name is spelled defective, while the ordinary
+Aramaic word for radiance in Daniel (2:31, 4:33, 5:6, 5:9-10, 7:28) is
+consistently spelled plene. Radak (*Sefer HaShorashim*): the root is ז-י-ו, even
+though the month-name is never written with a yud in Tanach. Rabbi
 Shlomo Pappenheim (*Cheshek Shlomo*): the root is the two-letter ז-ו, which he
 also takes as the etymon of *zavis*, a corner, and the month is Ziv because in
-it the sun somehow turns a corner, the column adding as its own guess that this
+it the sun somehow turns a corner; Rabbi Klein's own guess is that this
 may be the entry of the new season of spring.
 
-**Where the name Ziv came from.** The column reports that historians and Bible
-scholars tend to explain Ziv as the Phoenician and Canaanite name for the second
-month, simply borrowed into Tanach, and answers that one need not resort to that
-sort of speculation, since the word *ziv* is in any case Biblical, appearing six
-times in the Aramaic of Daniel in the sense of radiance. On the name Iyar it
-reports, without objection, that scholars trace it to the Akkadian month-name
-*ayyaru*, meaning "light," which the column notes seems awfully close to the
-Hebrew *ohr*, also light.
+**Where the name Ziv came from.** Historians and Bible scholars tend to explain
+Ziv as the Phoenician and Canaanite name for the second month, simply borrowed
+into Tanach. Rabbi Klein notes that, even without resorting to that sort of
+speculation, the word *ziv* is in any case Biblical, appearing six times in the
+Aramaic of Daniel in the sense of radiance. Scholars trace the name Iyar to the
+Akkadian month-name *ayyaru*, meaning "light," which, he notes, seems awfully
+close to the Hebrew *ohr*, also light.
 
 **How to spell Iyar in a get.** Because the name is not in Tanach there is no
 settled orthography, and the question is whether it takes two yuds (אייר) or one
@@ -103,24 +104,24 @@ the Parma manuscript both have two yuds, while many other popular editions,
 *Ein Yaakov* to *Rosh HaShanah* 18a among them, have
 one. Maharil (responsa 189), *Terumas HaDeshen* 233, Rabbi Yaakov Margolis
 (*Seder HaGet* 17 and 19), *Shulchan Aruch* (*Even HaEzer* 126:23), and Rema
-(*Even HaEzer* 126:7) all conclude that one should write two yuds, while
+(*Even HaEzer* 126:7) all conclude that one should optimally write two yuds, while
 acknowledging that some wrote one; Maharil himself brought a proof for one yud
 from the text of Targum Yonasan he had, and Rabbi Margolis notes that our texts
 of that Targum always have two. *Nachalas Shivah* rules for two yuds, both from
 Targum Yonasan to Bamidbar 9:11, which names the second month Iyar with two, and
 from the allusion he found in *Yalkut Chadash* in the name of *Megaleh Amukos*
-121, that Iyar is an acronym for Avraham, Yitzchak, Yaakov, and Rochel, the
-Merkavah of Hashem; *Beis Shmuel* (*Even HaEzer* 126:20) cites the same. Rema
+121, that Iyar can be read as an acronym for Avraham, Yitzchak, Yaakov, and
+Rochel, who are said to be the Merkavah of Hashem; *Beis Shmuel* (*Even HaEzer* 126:20) cites the same. Rema
 records that on account of this doubt many batei din have the practice of not
 writing *gittin* during Iyar at all (see *Aruch HaShulchan*, *Even HaEzer*
 126:15).
 
 **What Iyar means.** *Sefer HaKushyos*, the work of an anonymous talmid of Rabbi
 Meir of Rothenburg published by Rabbi Y. Y. Stahl,
-gives two accounts, both from *avir*, air: the month's weather is air that is
-neither too hot nor too cold, or else the world was left hanging in the air from
+gives two accounts, both from *avir*, air: the month's air is commonly neither
+too hot nor too cold, or else the world was left hanging in the air from
 creation until Israel accepted the Torah in Sivan (*Shabbos* 88a), so the month
-before Sivan is named for air. The column adds that the rabbinic *avir* is
+before Sivan is named for air. The rabbinic *avir* is
 itself borrowed from the Greek *aer*, which is also the etymon of the English
 "air." Rabbi Yosef Kara (to Melachim I 8:2) and the
 Maharal (*Chiddushei Aggados* to *Yevamos* 62b) tie the name Ziv to that same
@@ -154,8 +155,8 @@ pseudo-Rashi to *Bereishis Rabbah* 48:9. It appears in the Mishnah (*Rosh
 HaShanah* 1:3) and in Targum Yonasan to Bamidbar 9:11. Beyond the *avir*
 readings above, three acronyms are attached to it: *Megaleh Amukos*, Avraham,
 Yitzchak, Yaakov, Rochel; Rabbi Shimshon of Ostropoli, on Tehillim 6:11, whose
-last four words open with the letters of Iyar spelled with two yuds (the column
-reports that a check of the Base HaSefer database, developed by Moshe Escott of
+last four words open with the letters of Iyar spelled with two yuds (a check
+of the Base HaSefer database, developed by Moshe Escott of
 Taryag Analytics, confirms this is the only pasuk in all of Tanach whose words
 form an acronym spelling Iyar); and the
 Chasam Sofer (to *Shabbos* 147b), on "I will not place upon you all the illness

@@ -54,7 +54,7 @@ Torah never applies it to this yom tov. Its sense is disputed,
 | קציר | Chag HaKatzir | Festival of the Harvest | the grain harvest season (Shemos 23:16) |
 | ביכורים | Yom HaBikkurim | Day of the First Fruits | first day bikkurim may be brought (Bamidbar 28:26) |
 | קהל | Yom HaKahal | Day of the Congregation | the Torah's name for Matan Torah (Devarim 18:16) |
-| טנא | Chag HaTene | Festival of the Basket | post-Biblical; the baskets the bikkurim came in (Philo) |
+| טנא | Chag HaTene | Festival of the Basket | post-Biblical; the baskets the bikkurim came in (apparently Philo) |
 
 ## Where the authorities disagree
 
@@ -62,10 +62,9 @@ Torah never applies it to this yom tov. Its sense is disputed,
 (1868-1937): *atzeres* means "stop," as Israeli stop signs read *atzor*, and here
 denotes "the end" of something, so Shavuos is the conclusion of Pesach as
 *Shemini Atzeres* is the conclusion of Succos, which is why Rabbinic literature
-sometimes calls Shavuos "the *Atzeres* of Pesach." The column adds that Ramban
-(to Vayikra 23:36) offers a similar idea, and that Rabbi Moshe Zacuto (1625-1697)
-adopts a related approach; neither is credited with the Munkatcher's own
-formulation. The *Kedushas Levi*, Rabbi Levi Yitzchak of Berditchev (1740-1810),
+sometimes calls Shavuos "the *Atzeres* of Pesach." Ramban (to Vayikra 23:36)
+offers a similar idea, and Rabbi Moshe Zacuto (1625-1697) adopts a related
+approach. The *Kedushas Levi*, Rabbi Levi Yitzchak of Berditchev (1740-1810),
 likewise makes both names one thought, each viewing the yom tov as completing a
 span of time: *Shavuos* completes the weeks leading up from Pesach, *Atzeres* is
 the festive finale of Pesach itself. Rabbi Dovid Tzvi Hoffmann (1843-1921)
@@ -87,11 +86,11 @@ Yechezkel Abramsky (1886-1976) reads the name from the absence of a positive
 mitzvah: the two days the Torah calls *Atzeres*, the eighth of Succos (Vayikra
 23:36, Bamidbar 29:35) and the seventh of Pesach (Devarim 16:8), are the only
 yamim tovim with no act commanded, only refraining from melachah, unlike lulav on
-Succos, matzah on Pesach, shofar on Rosh Hashanah and the fast of Yom Kippur.
+at least the first day of Succos, matzah on the first day of Pesach, shofar on Rosh Hashanah and the fast of Yom Kippur.
 Shavuos had its own act, the two goats and two leavened loaves (Vayikra
 23:16-20), while the Beis HaMikdash stood; once the First Beis HaMikdash was
 destroyed and that lapsed, Shavuos too was left with refraining alone, and in
-later times people began to call it *Atzeres*. The column notes that the
+later times people began to call it *Atzeres*. The
 *Kedushas Levi* also writes that Shavuos is called *Atzeres* because it carries
 only the prohibition of work and no other mitzvah.
 
@@ -102,14 +101,14 @@ associated with Shavuos; the word does appear for other days, the eighth of
 Succos and the seventh of Pesach. He nonetheless concludes that *atzeres* is a
 fitting name, because Targum to Bamidbar 28:26 renders *b'shavuoseichem* as
 *b'atzarteichon*, which shows that *atzeres* is somehow an Aramaic rendering of
-*Shavuos*, though the column notes that in other places the Targumim do render
-the word *Shavuos* itself into Aramaic.
+*Shavuos*. In other places, though, the Targumim do render the word *Shavuos*
+itself into Aramaic.
 
 **Why the Torah's names fell out of use.** Rabbi Baruch Epstein (1860-1941): once
 Yisrael was exiled from the Land and working it was no longer central to their
 lives, *Chag HaKatzir* and *Yom HaBikkurim* fell away, those elements of the yom
 tov having become impossible to fulfill. Why was *Shavuos* itself dropped, when that
-name has nothing to do with agriculture? Some explain
+name seemingly has nothing to do with agriculture as such? Some explain
 that since *shavuos* means "weeks," the name may lend credence to the heretical
 Sadducean view that the Omer count always begins on a Sunday and Shavuos
 therefore always falls on a Sunday, after seven complete calendar weeks; Chazal
@@ -127,7 +126,7 @@ many were camped out in their fields, away from the towns, and so would not know
 when the Sanhedrin had declared Rosh Chodesh Sivan, while those in the field
 certainly knew when Pesach fell and had only to count. *Shavua* means both a
 seven-day period, plural *shavuos* in Biblical Hebrew, and a seven-year shemittah
-cycle, plural *shavuim*; the column notes that for some reason Rashi in his
+cycle, plural *shavuim*; for some reason Rashi in his
 commentary to the Gemara sometimes writes *shavuim* for weeks.
 
 ### Chag HaKatzir (קציר) and Yom HaBikkurim (ביכורים)

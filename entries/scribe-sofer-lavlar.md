@@ -17,20 +17,18 @@ updated: 2026-09-10
 
 Both words mean **scribe**, and Rashi uses each to define the other. *Sofer* is
 the Hebrew word, at home in Tanach and in the Mishnah; *lavlar* is the later
-term, confined to Mishnaic and Talmudic Hebrew and borrowed from Latin. Whether
-they differ in *meaning* is the question the column sets out to answer, and it
-leaves two named views standing (see below). In
+term, found in Mishnaic and Talmudic Hebrew and borrowed from Latin. Whether
+they differ in *meaning* is disputed between two named views (see below). In
 the plural, *sofrim* in rabbinic usage is often not "scribes" at all but **the
-Sofrim**, the early Sages, so *divrei sofrim* is "the words of the Sofrim,"
-not "the words of the scribes."
+Sofrim**, the early Sages.
 
 ## Where the authorities disagree
 
-**Do *sofer* and *lavlar* mean two different things?** The column asks this
-outright, notes that the etymological difference is clear (*sofer* and *safra*
-are Hebrew and Aramaic, of Semitic stock; *lavlar* is borrowed from Latin and
-Greek, of Indo-European stock), and reports that the earliest sources it found
-discussing the question are two Hungarian rabbinic scholars of the last century.
+**Do *sofer* and *lavlar* mean two different things?** The etymological
+difference is clear (*sofer* and *safra* are Hebrew and Aramaic, of Semitic
+stock; *lavlar* is borrowed from Latin and Greek, of Indo-European stock). The
+earliest sources Rabbi Klein found discussing the question are two Hungarian
+rabbinic scholars of the last century.
 
 1. **Two distinct groups.** Rabbi Dr. Yehuda Aryeh (Lajos) Blau, in his German
    *Studien zum althebräischen Buchwesen und zur Biblischen Litteratur- und
@@ -42,8 +40,6 @@ discussing the question are two Hungarian rabbinic scholars of the last century.
    Archäologie*, cites Blau and disagrees with him: the two terms come to the
    same thing, though the loanword *lavlar* may have carried a somewhat more
    formal connotation.
-
-The column does not decide between them.
 
 ## Distinctions
 
@@ -79,7 +75,7 @@ Ten Martyrs.
 But Chazal read the word from the "counting" sense of the root. The Gemara
 (Kiddushin 30a, Chagigah 15b, Yerushalmi Berachos 1:4) teaches that *sofer*
 literally means one who counts, and the early Sages are called *sofrim* because
-they counted the letters of the Torah. The column suggests, tentatively, that
+they counted the letters of the Torah. Rabbi Klein suggests, tentatively, that
 this may perhaps allude to a scribal practice attested among the later
 Masoretes, who used numbers to help fix the most accurate text of Tanach and to
 check their own work, and that perhaps the early Sages did something similar as
@@ -121,10 +117,10 @@ settles the *meaning* is the open question set out above.
 On the vowels: the popular *lavlar*, for all that prominent works use it, looks
 to be a mispronunciation. The Kaufmann manuscript of the Mishnah, the earliest
 vocalized one, reads *livlar*, and the Yerushalmi (Gittin 3:1, Bava Metzia 1:4)
-spells the word with a yud after the lamed, which points to a chirik rather than
-a patach. The column compares Bisyah (Divrei HaYamim I 4:18) and Milkah
+spells the word with a yud after the lamed, suggesting a chirik rather than
+a patach. Rabbi Klein finds this somewhat similar to Bisyah (Divrei HaYamim I 4:18) and Milkah
 (Bereishis 11:29 and elsewhere), pointed in Tanach with a chirik under the first
-letter yet somehow become Basyah and Malkah with a patach. It also allows the
+letter yet somehow become Basyah and Malkah with a patach. He also allows the
 possibility that the rabbis altered the pronunciation on purpose in taking the
 word over, so as to say *lavlar* rather than *libler* or something nearer the
 foreign original.
@@ -134,11 +130,10 @@ The Hebrew and the Latin words for a scribe are built alike, each on its own
 language's word for a book (*sofer* and *sefer*, *libellarius* and *liber*).
 The Germanic languages do it differently, building their word for a scribe on
 the verb "to write": English *scribe*, Yiddish and German *schreiber*, neither
-cognate with the word for a book. The column notes the bevy of English relatives
-of the Germanic form (*scrivener*, *scribble*, *describe*, *transcribe*,
-*prescribe*, *subscribe*, *ascribe*, *inscribe*, *proscribe*, *serif*, *script*,
-*manuscript*), and closes with a point of Jewish genealogy: among the countless
-descendants of Rabbi Moshe Sofer, author of the *Chasam Sofer*, some branches
+cognate with the word for a book. The Germanic form has a bevy of English
+relatives (*scrivener*, *scribble*, *describe*, *transcribe*, *prescribe*,
+*subscribe*, *ascribe*, *inscribe*, *proscribe*, *serif*, *script*,
+*manuscript*). Among the countless descendants of Rabbi Moshe Sofer, author of the *Chasam Sofer*, some branches
 carry the surname Sofer and others the surname Schreiber, which mean exactly the
 same thing, one in Hebrew and one in Yiddish.
 
