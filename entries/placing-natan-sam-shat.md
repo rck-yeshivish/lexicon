@@ -22,9 +22,7 @@ Rabbi Shlomo Pappenheim ranks the three by how deliberate and how lasting the
 placing is. *Natan* is the loosest: **put** something down, anywhere. *Sam* is
 **place**, into a spot designated for it, as part of a plan, but for no stated
 duration. *Shat* is **set** or **lay**, placed into an order and meant to stay
-there indefinitely. The trap is that English "put" flattens all three; where a
-pasuk switches words mid-sentence (Shemos 10:1-2, Shemos 40:18) the switch is
-the whole point.
+there indefinitely.
 
 ## Distinctions
 
@@ -106,7 +104,7 @@ every instance of the two words, the column says, remains to be seen.
 - Trap: "put" will swallow all three. Shemos 40:18 alternates *natan*, *sam*,
   *natan* in one pasuk; three "put"s destroy the reason the Torah alternated.
 - Trap: לא שת לבו and לא שם לבו both come out "he did not take it to heart."
-  Where both appear in a chapter (Shemos 7:22 against 9:21), distinguish them:
+  Where both appear (Shemos 7:22 against 9:21), distinguish them:
   "would not set his heart to it" against "did not give it a thought."
 - Trap: do not upgrade *sam* to permanence. It says a designated place, not a
   lasting one; the duration is what *shat* adds.
@@ -120,12 +118,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Put in Place](https://articles.ohr.edu/articles/put-in-place)," What's in a Word?, Ohr Somayach, 6
-Shvat 5782 (2022-01-08): raw text in
-`sources/whats-in-a-word/raw/9523-put-in-place.md`. Primary loci cited: Shemos
-10:1-2, 7:22, 9:21, 40:18; Bereishis 3:15, 4:25, 41:33, 45:9, 48:14, 48:17,
-48:18; Devarim 28:8; Mishlei 3:10; Tehillim 11:3; Yeshayahu 28:25; *Shabbos*
-103a; *Yoma* 5:2 and 54b; *Shemos Rabbah* 32:2; Rabbi Shlomo Pappenheim,
-*Cheshek Shlomo* and *Yerios Shlomo*. The column's rival Greek derivation of
-*siman* and its frequency counts from Even-Shoshan's concordance are reported here
-as the column gives them.
+Rabbi Reuven Chaim Klein, "[Put in Place](https://articles.ohr.edu/articles/put-in-place)," *What's in a Word?*, Ohr Somayach, 8 January 2022.
+
+Cited in the essay: Shemos 10:1-2, 7:22, 9:21, 40:18; Bereishis 3:15, 4:25, 41:33, 45:9, 48:14, 48:17, 48:18; Devarim 28:8; Mishlei 3:10; Tehillim 11:3; Yeshayahu 28:25; *Shabbos* 103a; *Yoma* 5:2 and 54b; *Shemos Rabbah* 32:2; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Even-Shoshan's concordance.

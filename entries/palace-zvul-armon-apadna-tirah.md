@@ -16,14 +16,14 @@ updated: 2026-09-10
 ## Bottom line
 
 *Armon* is the general word and covers both English senses, **palace** and
-**castle**, so it is the safe default. *Apadna* is the luxury sense alone: a
+**castle**. *Apadna* is the luxury sense alone: a
 **palace**, or in the Gemara a grand hall or room. *Tirah* is the defensive
 sense: a **fortress** or fortified enclosure, never a byword for opulence.
 *Paltin* is the late Hebrew for a **palace** in the imperial sense. *Zvul* is a
 **lofty abode**, the dwelling that perfectly suits the one it is meant for, and
 it is used almost always of the Beis HaMikdash; where it sits relative to the
 other four the column leaves open, closing with "the term *zvul* somehow fits in
-to all of this, I'm just not sure exactly how." Do not tidy that away.
+to all of this, I'm just not sure exactly how."
 
 ## Distinctions
 
@@ -59,7 +59,7 @@ assigns it the four-letter root א-ר-מ-נ. Ibn Janach, invoking the interchang
 lamed and reish, holds that *almon* (Yechezkel 19:7, Yeshayahu 13:22) is the
 same word.
 
-What settles its rendering is usage: *armon* appears both for a king's residence
+What settles its sense is usage: *armon* appears both for a king's residence
 (Melachim II 16:18, Melachim I 15:25, Yirmiyahu 49:27) and for a fortified
 stronghold (Mishlei 18:19, Eichah 2:5, Michah 5:4). It therefore straddles both
 English words.
@@ -157,37 +157,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Castle in the Sky](https://articles.ohr.edu/articles/castle-in-the-sky)," What's in a Word?, Ohr Somayach
-(2020-11-28): raw text in `sources/whats-in-a-word/raw/8941-castle-in-the-sky.md`.
-Primary loci: Bereishis 30:20, 25:16, 31:18, 35:26, 46:15; Melachim I 8:13,
-15:25; Melachim II 16:18; Divrei HaYamim II 6:2; Yeshayahu 63:15, 13:22;
-Chavakuk 3:11; Yechezkel 19:7, 25:4, 46:23; Mishlei 18:19; Eichah 2:5; Michah
-5:4; Yirmiyahu 49:27; Daniel 11:45; Shir HaShirim 8:9; Tehillim 69:26; Divrei
-HaYamim I 6:39; Chagigah 12b; Rashi to Bava Metzia 35a, Bava Basra 6b, Shabbos
-77b; Berachos 56a, Kesubos 91b, 50b, Bava Kamma 21a; Mishnah Sanhedrin 2:3,
-10:5; Rav Hirsch to Bereishis 30:20; Ibn Ezra to Bereishis 25:16; Bamidbar
-31:10; Shoftim 9; Yehoshua 10:13; *Rosh Hashanah* 17a.
+Rabbi Reuven Chaim Klein, "[Castle in the Sky](https://articles.ohr.edu/articles/castle-in-the-sky)," *What's in a Word?*, Ohr Somayach, 28 November 2020.
 
-The Ugaritic, Akkadian, Arabic and Old Persian derivations had been dropped from
-an earlier version of this entry under a mistaken sources rule; they are
-restored above. Two of them were load-bearing: the Semitic *zabalu*, "to lift,"
-is the whole basis of Rabbi Dovid Tzvi Hoffmann's reading, which the entry kept
-without it, and the Old Persian against Akkadian question is a live disagreement
-between Rabbi Ernest Klein and Dr. Chaim Tawil that the entry did not report at
-all.
-
-The article's own conclusion leaves *zvul* unplaced: "the term *zvul* somehow
-fits in to all of this, I'm just not sure exactly how." An earlier version of
-this entry closed that question by ruling *zvul* out of the set; the Bottom line
-now reports the article's admission instead.
-
-One citation not run down: the column gives *Rosh Hashanah* 17a for *zvul* as
-the Beis HaMikdash, and that locus is repeated here as the column has it, not
-verified against the daf. Chagigah 12b, which the entry also cites, is the
-seven-heavens passage; the detail that Zevul is the heaven holding Yerushalayim
-and the Mikdash was in an earlier version of this entry but is not in the
-article, and has been cut.
-
-The entry has no `words:` block, and so no pointed forms for זבול, ארמון or
-טירה. That is left for whoever maintains that block; the entry stays `draft` on
-account of it, not on account of its content.
+Cited in the essay: Bereishis 30:20, 25:16, 31:18, 35:26, 46:15; Melachim I 8:13, 15:25; Melachim II 16:18; Divrei HaYamim II 6:2; Yeshayahu 63:15, 13:22; Chavakuk 3:11; Yechezkel 19:7, 25:4, 46:23; Mishlei 18:19; Eichah 2:5; Michah 5:4; Yirmiyahu 49:27; Daniel 11:45; Shir HaShirim 8:9; Tehillim 69:26; Divrei HaYamim I 6:39; Chagigah 12b; Rashi to Bava Metzia 35a, Bava Basra 6b, Shabbos 77b; Berachos 56a, Kesubos 91b, 50b, Bava Kamma 21a; Mishnah Sanhedrin 2:3, 10:5; Rav Hirsch to Bereishis 30:20; Ibn Ezra to Bereishis 25:16; Bamidbar 31:10; Shoftim 9; Yehoshua 10:13; *Rosh Hashanah* 17a; Rabbi Dovid Tzvi Hoffmann; Rabbi Ernest Klein; Dr. Chaim Tawil.

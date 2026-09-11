@@ -60,9 +60,8 @@ Mishlei, **Agur**, **Yakeh**, **Isiel** and **Lemuel**. Three of them turn on
 completeness and peace (Shlomo, from *shalem* or *shalom*), three on gathering
 and giving out wisdom (Koheles and Agur gather; Yakeh spits out), and Isiel and
 Lemuel both record what he said to himself about the Torah's limits on a king.
-The one thing not to get wrong: Agur, Yakeh, Isiel and Lemuel read on the surface
-as ordinary proper names, and every English translation of Mishlei treats them
-so; the Midrashic identification is a second layer, not a replacement.
+Agur, Yakeh, Isiel and Lemuel read on the surface
+as ordinary proper names; the Midrashic identification is a second layer, not a replacement.
 
 ## At a glance
 
@@ -99,8 +98,7 @@ it all when he began to stray, like a bowl that can be filled with water and
 just as easily emptied. Ralbag (to Mishlei 30:1) takes it as praise: he spits
 out, that is, rejects, the sayings that are untrue, and sets down in Mishlei only
 what is left. A third view has him regurgitating to the public whatever wisdom he
-had amassed. The Bottom line leaves all three in play, since they read the same
-verb in opposite directions and the choice is a matter of derashah.
+had amassed.
 
 **What *Lemuel* means.** Four readings, and they split sharply.
 
@@ -117,15 +115,12 @@ verb in opposite directions and the choice is a matter of derashah.
    Sanhedrin 70b and Mishlei 31:1) is close: "for him, for Hashem", that his
    deeds and his wisdom should go into Hashem's service and nowhere else.
 
-The Bottom line keeps the Midrashic reading first, since it is what puts the name
-on the list of seven at all, and records the rest.
-
 **Whether *Alukah* is an eighth name.** Rabbi Yishaya of Trani (the Rid) reads
 *Alukah* at Mishlei 30:15, literally a leech, as another name for Shlomo, who
 sucked up and drank in every form of wisdom. Tosafos (to Eruvin 19a) and Tosafos
 and Tosafos Shantz (to Avodah Zarah 17a) grant that *Alukah* is somebody's name
 but hold it cannot be Shlomo's, precisely because it is not one of the seven the
-Midrash lists. The Bottom line follows Tosafos and keeps the count at seven.
+Midrash lists.
 
 ## Distinctions
 
@@ -168,11 +163,11 @@ of him. *Lemuel* records the same reasoning as speech addressed to Hashem, and
   *Koheles* to assembling people and *Agur* to amassing wisdom.
 - *Yedidyah* is best left transliterated with a gloss at first mention, "friend
   of Hashem", which is how the column renders it; the Anglicised "Jedidiah" reads
-  foreign in a sefer.
+  foreign.
 - Where a passage plays *heikiah* against *Yakeh*, English needs the same verb
   twice: "spat out" for both, or the wordplay disappears.
-- For the other Midrashic name-clusters see `names-moshe-yered-avigdor-yekusiel.md`
-  and `names-yosef-yehosef-avreich-tzafnas-paneach.md`.
+- For the other Midrashic name-clusters see [names of Moshe](names-moshe-yered-avigdor-yekusiel.html)
+  and [names of Yosef](names-yosef-yehosef-avreich-tzafnas-paneach.html).
 
 ## Notes for a project
 
@@ -180,14 +175,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Solomon's Seven Names](https://articles.ohr.edu/articles/solomons-seven-names)," What's in a Word?, Ohr
-Somayach, 18 Adar I 5779 (2019-02-23): raw text in
-`sources/whats-in-a-word/raw/8149-solomons-seven-names.md`. Primary loci: Shmuel
-II 12:24-25; Divrei HaYamim I 22:9; Melachim I 8:1; Koheles 1:1 with Rashi;
-Mishlei 30:1, 30:15, 31:1, 31:4; Devarim 17:16-17, 33:12; Yirmiyahu 11:15, 12:7;
-Yeshayahu 5:1; Tehillim 84:2; Menachos 53; Sanhedrin 70b with Rashi; Tosafos to
-Eruvin 19a; Tosafos and Tosafos Shantz to Avodah Zarah 17a; Ralbag and Ibn Ezra
-to Mishlei 30:1 and 31:1; *Targum Sheini*; *Midrash Agur* §4. The seven-name
-tradition is given in the name of the early Amora Rabbi Yehoshua ben Levi. The
-column glosses *Yedidyah* as "friend of G-d," and this entry follows that gloss;
-the `words:` block still carries "beloved of Hashem" and has not been touched.
+Rabbi Reuven Chaim Klein, "[Solomon's Seven Names](https://articles.ohr.edu/articles/solomons-seven-names)," *What's in a Word?*, Ohr Somayach, 23 February 2019.
+
+Cited in the essay: Shmuel II 12:24-25; Divrei HaYamim I 22:9; Melachim I 8:1; Koheles 1:1 with Rashi; Mishlei 30:1, 30:15, 31:1, 31:4; Devarim 17:16-17, 33:12; Yirmiyahu 11:15, 12:7; Yeshayahu 5:1; Tehillim 84:2; Menachos 53; Sanhedrin 70b with Rashi; Tosafos to Eruvin 19a; Tosafos and Tosafos Shantz to Avodah Zarah 17a; Ralbag and Ibn Ezra to Mishlei 30:1 and 31:1; *Targum Sheini*; *Midrash Agur* §4; Rabbi Yehoshua ben Levi.

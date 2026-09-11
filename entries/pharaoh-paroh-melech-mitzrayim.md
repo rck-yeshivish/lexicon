@@ -15,12 +15,9 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Paroh* is a title, not a personal name: render it **Pharaoh** and never treat
-it as the man's name. *Melech Mitzrayim* is **the King of Egypt**, the office
+*Paroh* is **Pharaoh**, a title, not a personal name. *Melech Mitzrayim* is **the King of Egypt**, the office
 in its national capacity. The Torah's choice between them is deliberate, and in
-six places it writes both (*Paroh Melech Mitzrayim*). The trap is collapsing all
-three forms into "Pharaoh"; where a passage alternates, the alternation is the
-point, and the doubled form must stay doubled.
+six places it writes both (*Paroh Melech Mitzrayim*).
 
 ## Distinctions
 
@@ -128,15 +125,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Pharaoh and the King](https://articles.ohr.edu/articles/the-pharaoh-and-the-king)," What's in a Word?, Ohr
-Somayach, 19 Teves 5778 (2018-01-06):
-https://articles.ohr.edu/articles/the-pharaoh-and-the-king; raw text in
-`sources/whats-in-a-word/raw/7572-the-pharaoh-and-the-king.md`. Primary loci
-cited: Shemos 2:23, 6:11, 6:13, 6:29, 14:8; Bereishis 10:13, 26:9, 41:1, 41:10,
-41:46; Melachim I 3:1; Yechezkel 29:2; Yirmiyahu 44:30; Tehillim 34:1; Ezra
-6:14; Moed Katan 18a; *Zohar*, *Shemos* 17a and 19b; Rabbeinu Bachya to
-Bereishis 41:1; Abarbanel; *Maaseh Hashem*; *Sefer HaYashar*. The column's
-Egyptological material (Shishak as Shoshenq I, the shared r/l glyph, Melol as
-Pepi II or Merire) and the academic "great house" etymology are reported here as
-the column reports them. An earlier draft cited Melachim I 14:25 for Shishak; the
-column gives no locus for him, so the citation has been dropped.
+Rabbi Reuven Chaim Klein, "[The Pharaoh and the King](https://articles.ohr.edu/articles/the-pharaoh-and-the-king)," *What's in a Word?*, Ohr Somayach, 6 January 2018.
+
+Cited in the essay: Shemos 2:23, 6:11, 6:13, 6:29, 14:8; Bereishis 10:13, 26:9, 41:1, 41:10, 41:46; Melachim I 3:1; Yechezkel 29:2; Yirmiyahu 44:30; Tehillim 34:1; Ezra 6:14; Moed Katan 18a; *Zohar*, *Shemos* 17a and 19b; Rabbeinu Bachya to Bereishis 41:1; Abarbanel; *Maaseh Hashem*; *Sefer HaYashar*.

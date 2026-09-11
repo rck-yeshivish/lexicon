@@ -15,17 +15,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Resen* and *meteg* are both the gear that controls a beast, and no single
-English word will separate them. Rabbi Avraham Bedersi has *meteg* the metal
+*Resen* and *meteg* are both the gear that controls a beast. Rabbi Avraham Bedersi has *meteg* the metal
 bit and *resen* a rope or a leather bit; Dr. David J. A. Clines, whom the column
 brings as a similar approach, has *meteg* the whole bridle and *resen* the
 mouthpiece or the reins; Rabbi Moshe Tedeschi Ashkenazi has the exact opposite of
-Bedersi, *meteg* the leather strap and *resen* the metal bit. Render *meteg*
-**bit** and *resen* **bridle** or **reins** with Bedersi and Clines, and reverse
-the pair only if you are following *Otzar Nirdafim*. Aramaic *zemam*
+Bedersi, *meteg* the leather strap and *resen* the metal bit. Aramaic *zemam*
 covers both and is a **muzzle**, the device that closes a mouth. *Prumbia* is
 the rabbinic **muzzle/halter**; *afsar* is the **reins** by which one takes
-legal possession of an animal. Do not confuse the noun *zemam* (muzzle) with
+legal possession of an animal. The noun *zemam* (muzzle) is distinct from
 its homograph *zomem/zimah* (plot, scheme), though the sources tie them.
 
 ## Distinctions
@@ -160,18 +157,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Balak: Muzzled Up](https://articles.ohr.edu/articles/balak-muzzled-up)," What's in a Word?, Ohr Somayach,
-12 Tammuz 5783 (2023-07-01): raw text in
-`sources/whats-in-a-word/raw/11006-balak-muzzled-up.md`. Primary loci cited:
-Bereishis 10:12, 13:7; Bamidbar 23:16 with Rashi and *Bamidbar Rabbah* 20:20;
-Vayikra 18:17, 20:14; Devarim 19:19, 25:4; Yeshayahu 30:28, 37:29; Yirmiyahu
-51:12; Yechezkel 46:14; Amos 6:11; Zechariah 1:6; Melachim II 19:28; Shmuel II
-8:1; Mishlei 26:3; Tehillim 2:2, 32:9, 37:12, 140:9; Iyov 30:11, 41:5; Shir
-HaShirim 5:2; Eichah 2:17; Radak to Yeshayahu 30:28 and *Sefer HaShorashim* s.v.
-רסן and s.v. מתג; Bedersi, *Chotam Tochnit*; Dr. David J. A. Clines,
-*Dictionary of Classical Hebrew*; Rabbi Moshe Tedeschi Ashkenazi, *Otzar
-Nirdafim*; *Ohalei Yehuda*; Rav Hirsch to Tehillim 2:2; Mecklenburg and Shadal
-to Vayikra 18:17; Mishnah *Terumos* 9:3, *Shabbos* 5:1, *Keilim* 11:5, *Bava
-Kamma* 7:3, *Sanhedrin* 6:2, *Makkos* 1:3 and 1:6; Bava Kamma 17b; Kiddushin
-27a-b; Bava Basra 53b; Yevamos 37b; *Bereishis Rabbah* 41:5, 45:7, 75:9; Targum
-Yonasan to Bamidbar 19:2; Dr. Alexander Kohut on the Greek *phorbeia*.
+Rabbi Reuven Chaim Klein, "[Balak: Muzzled Up](https://articles.ohr.edu/articles/balak-muzzled-up)," *What's in a Word?*, Ohr Somayach, 1 July 2023.
+
+Cited in the essay: Bereishis 10:12, 13:7; Bamidbar 23:16 with Rashi and *Bamidbar Rabbah* 20:20; Vayikra 18:17, 20:14; Devarim 19:19, 25:4; Yeshayahu 30:28, 37:29; Yirmiyahu 51:12; Yechezkel 46:14; Amos 6:11; Zechariah 1:6; Melachim II 19:28; Shmuel II 8:1; Mishlei 26:3; Tehillim 2:2, 32:9, 37:12, 140:9; Iyov 30:11, 41:5; Shir HaShirim 5:2; Eichah 2:17; Radak to Yeshayahu 30:28 and *Sefer HaShorashim* s.v. רסן and s.v. מתג; Bedersi, *Chotam Tochnit*; Dr. David J. A. Clines, *Dictionary of Classical Hebrew*; Rabbi Moshe Tedeschi Ashkenazi, *Otzar Nirdafim*; *Ohalei Yehuda*; Rav Hirsch to Tehillim 2:2; Mecklenburg and Shadal to Vayikra 18:17; Mishnah *Terumos* 9:3, *Shabbos* 5:1, *Keilim* 11:5, *Bava Kamma* 7:3, *Sanhedrin* 6:2, *Makkos* 1:3 and 1:6; Bava Kamma 17b; Kiddushin 27a-b; Bava Basra 53b; Yevamos 37b; *Bereishis Rabbah* 41:5, 45:7, 75:9; Targum Yonasan to Bamidbar 19:2; Dr. Alexander Kohut on the Greek *phorbeia*.

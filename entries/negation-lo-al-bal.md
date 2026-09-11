@@ -128,19 +128,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Naso/Shavuos: Just Say No](https://articles.ohr.edu/articles/nasoshavuos-just-say-no)," What's in a Word?, Ohr
-Somayach, 7 Sivan 5783 (2023-05-27):
-https://articles.ohr.edu/articles/nasoshavuos-just-say-no, raw text in
-`sources/whats-in-a-word/raw/10949-nasoshavuos-just-say-no.md`. Primary loci
-cited: Devarim 20:19, 13:1; Vayikra 20:25, 10:1; Shemos 13:7, 12:19; Mishnah
-Bikkurim 4:2, Kiddushin 1:7, Zevachim 8:10, Pesachim 3:3 and 9:3; Shabbos 90b;
-Makkos 16b; Meilah 17a; Chagigah 13a; Gittin 60b; Rashi to Yeshayahu 26:10;
-*Machberes Menachem* s.v. בל; *Shitah Mekubetzes* to Temurah 6b citing *Sefer
-HaMeoros*; Tehillim 93:1, 96:10, 147:19-20; Mishlei 10:30, 12:3; Iyov 41:15;
-Divrei HaYamim I 16:30; Shmuel I 27:10; *Toras Moshe* to Vayikra 10:1.
+Rabbi Reuven Chaim Klein, "[Naso/Shavuos: Just Say No](https://articles.ohr.edu/articles/nasoshavuos-just-say-no)," *What's in a Word?*, Ohr Somayach, 27 May 2023.
 
-Two notes on the loci. The article cites the Chagigah 13a derashah to Tehillim
-147:19, but the word *bal* it turns on stands in 147:20 (*u'mishpatim bal
-yeda'um*); the entry gives 147:19-20. The article's transliterations are
-Sephardic (*lo tashchit*, *bal tossif*); the entry gives them in the house
-Ashkenazic form.
+Cited in the essay: Devarim 20:19, 13:1; Vayikra 20:25, 10:1; Shemos 13:7, 12:19; Mishnah Bikkurim 4:2, Kiddushin 1:7, Zevachim 8:10, Pesachim 3:3 and 9:3; Shabbos 90b; Makkos 16b; Meilah 17a; Chagigah 13a; Gittin 60b; Rashi to Yeshayahu 26:10; *Machberes Menachem* s.v. בל; *Shitah Mekubetzes* to Temurah 6b citing *Sefer HaMeoros*; Tehillim 93:1, 96:10, 147:19-20; Mishlei 10:30, 12:3; Iyov 41:15; Divrei HaYamim I 16:30; Shmuel I 27:10; *Toras Moshe* to Vayikra 10:1.

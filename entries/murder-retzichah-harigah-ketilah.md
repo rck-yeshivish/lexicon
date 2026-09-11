@@ -33,9 +33,9 @@ updated: 2026-09-10
 *Retzichah* is **murder**: killing with no legal warrant, and the word itself
 passes the verdict. *Harigah* is **killing** plain, lawful or not, direct or
 brought about at a distance, and it covers animals and plants as well as people.
-*Ketilah* is the Aramaic word the Targumim use for both, so render it "kill";
-in the few Hebrew pesukim it is disputed. Not to get wrong: *lo tirtzach* is
-"do not murder," never "do not kill," and the choice of root is why shechitah
+*Ketilah* is the Aramaic word the Targumim use for both, the ordinary Aramaic for
+**kill**; in the few Hebrew pesukim it is disputed. *Lo tirtzach* means
+"do not murder," not "do not kill," and the choice of root is why shechitah
 and judicial execution are not in the prohibition.
 
 ## At a glance
@@ -51,7 +51,7 @@ and judicial execution are not in the prohibition.
 **Whether retzichah and harigah differ at all.** Rabbi Nathan Adler cites the two
 standing side by side in Tehillim 94:6 as evidence that they are synonymous.
 Rashbam, Rabbi Shlomo Pappenheim and Rabbi Avraham Bedersi (*Chotam Tochnit*)
-hold they are not, and the Bottom line follows them: the *rotzeach* of Bamidbar
+hold they are not: the *rotzeach* of Bamidbar
 35:16-18 and Devarim 19:4-6 is the murderer, whether *b'mezid* or *b'shogeg*,
 and Eliyahu's rebuke to Achav is *haratzachta v'gam yarashta* (Melachim I
 21:19). *Harigah*, by contrast, sits on both sides of the line: the woman put to
@@ -166,19 +166,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Yisro: Murder He Wrote](https://articles.ohr.edu/articles/yisro-murder-he-wrote)," What's in a Word?, Ohr
-Somayach, 20 Shevat 5783 (2023-02-11):
-https://articles.ohr.edu/articles/yisro-murder-he-wrote; raw text in
-`sources/whats-in-a-word/raw/10820-yisro-murder-he-wrote.md`. Primary loci
-cited: Shemos 20:13; Devarim 5:17 (the article prints 5:16) and 19:4-6;
-Bereishis 4:8, 30:27; Shemos 35:25; Vayikra 20:15, 20:16; Bamidbar 22:39,
-35:16-18, 35:27, 35:30; Shoftim 20:4; Shmuel I 22:21; Shmuel II 12:9; Melachim I
-21:19; Yeshayahu 22:13, 27:1; Ovadiah 1:9; Tehillim 78:47, 94:6, 139:19; Iyov
-13:15, 24:14; Daniel 2:13-14, 3:22, 5:19, 5:30, 7:11; Mishnah Shabbos 6:1, Sotah
-1:6, Avodah Zarah 1:8, Meilah 5:1, Keilim 11:8; Shabbos 57b, 98a; Eruvin 28b;
-Pesachim 111a; Moed Katan 12b; Yevamos 121b; Sotah 7b; Gittin 59a; Bava Kamma
-23b, 65a, 96a; Bava Metzia 95a; Sanhedrin 33a, 74b; Shevuos 46a; Chullin 11b,
-35b; Bechoros 8b; Niddah 20b, 55b; *Chotam Tochnit*; *Sefer HaMilim*; *Sefer
-Yeraim* §175; *Sefer HaChachmah*; *Machberes Menachem*. The column's closing
-cross-references to its own earlier essays on *mitah* and on *challal/peger* are
-not reproduced here.
+Rabbi Reuven Chaim Klein, "[Yisro: Murder He Wrote](https://articles.ohr.edu/articles/yisro-murder-he-wrote)," *What's in a Word?*, Ohr Somayach, 11 February 2023.
+
+Cited in the essay: Shemos 20:13; Devarim 5:17 and 19:4-6; Bereishis 4:8, 30:27; Shemos 35:25; Vayikra 20:15, 20:16; Bamidbar 22:39, 35:16-18, 35:27, 35:30; Shoftim 20:4; Shmuel I 22:21; Shmuel II 12:9; Melachim I 21:19; Yeshayahu 22:13, 27:1; Ovadiah 1:9; Tehillim 78:47, 94:6, 139:19; Iyov 13:15, 24:14; Daniel 2:13-14, 3:22, 5:19, 5:30, 7:11; Mishnah Shabbos 6:1, Sotah 1:6, Avodah Zarah 1:8, Meilah 5:1, Keilim 11:8; Shabbos 57b, 98a; Eruvin 28b; Pesachim 111a; Moed Katan 12b; Yevamos 121b; Sotah 7b; Gittin 59a; Bava Kamma 23b, 65a, 96a; Bava Metzia 95a; Sanhedrin 33a, 74b; Shevuos 46a; Chullin 11b, 35b; Bechoros 8b; Niddah 20b, 55b; *Chotam Tochnit*; *Sefer HaMilim*; *Sefer Yeraim* §175; *Sefer HaChachmah*; *Machberes Menachem*.

@@ -18,11 +18,9 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Totafos* is the word of Chumash and belongs to the head alone: render it
-**frontlets**, or leave it as *totafos*, but never as "tefillin" in a passage
-that turns on the difference. *Tefillin* is the Mishnaic word, plural because it
+*Totafos* is the word of Chumash and belongs to the head alone. *Tefillin* is the Mishnaic word, plural because it
 names the pair of head and arm together; the singular of one box is *tefillah*.
-The fact not to lose: the Torah never calls the arm box *totafos*, which is one
+The Torah never calls the arm box *totafos*, which is one
 of the two reasons the berachah before laying them says *tefillin* and not the
 biblical term.
 
@@ -51,15 +49,15 @@ that he is proud to stand in Hashem's service. This also explains why the Gemara
 to tefillin.
 
 **Something that has to do with seeing.** Tosafos' second suggestion, adopted by
-Chizkuni and Rabbi Yosef Bechor Shor (the column cites them to Shemos 3:16), ties
+Chizkuni and Rabbi Yosef Bechor Shor (to Shemos 13:16), ties
 *totafos* to gazing, the head
 tefillin sitting by the eyes and looking outward. The Gemara (Berachos 6a) reads
 "the nations of the world will see that the name of Hashem is called upon you"
 (Devarim 28:10) as the gentiles seeing a Jew in his tefillin, so the biblical
 word for them plausibly touches on being seen.
 
-**Dripping.** Menachem Ibn Saruk (920-970; *Machberes Menachem*, cited by Rashi,
-the column says, to Shemos 3:16) takes the word from the biliteral ט-פ, which
+**Dripping.** Menachem Ibn Saruk (920-970; *Machberes Menachem*, cited by Rashi
+to Shemos 13:16) takes the word from the biliteral ט-פ, which
 yields four categories: *taf* (children), *notef*/*tipah* (dripping), *netifos*
 (adornments and niceties), and *matif* (speech, preaching). He explicitly classes
 *totafos* with the last of these, but offers no further justification for the
@@ -177,7 +175,7 @@ related to Hebrew.
   denotes the head tefillin. Onkelos' *tefillin* is a translation of the mitzvah,
   not of the word.
 - In Mishnah, Gemara, and halachah: *tefillin*, left as is. The English
-  "phylacteries" is a foreign borrowing that reads oddly in a sefer; use it only
+  "phylacteries" is a foreign borrowing that reads oddly; use it only
   where a title or a quoted translation demands it.
 - Trap: "tefillin" in English will absorb *totafos* wherever it appears, and the
   distinction between them is exactly what a passage on the berachah, or on Rabbi
@@ -197,19 +195,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bo: Filling your Phylacteries](https://articles.ohr.edu/articles/bo-filling-your-phylacteries)," What's in a Word?,
-Ohr Somayach (2024-01-20): raw text in
-`sources/whats-in-a-word/raw/11218-bo-filling-your-phylacteries.md`. Primary
-loci: Shemos 13:16, Devarim 6:8, 11:18, 28:10; Menachos 34b with Tosafos and
-Rabbi Akiva; Mishnah Shabbos 6:1 with Shabbos 57b; Megillah 16b; Berachos 6a;
-Shemos 21:22; Yeshayahu 3:19; Bereishis 30:8, 38:18; Rashi to Shemos 3:16,
-13:16 and Devarim 6:8; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi
-Pappenheim, *Chesheik Shlomo* and *Yerios Shlomo*; Maharal, *Be'er HaGolah*
-§4:2; the Rosh, *Hilchos Tefillin* §2; Tur, *Orach Chaim* §25; Mishnah Shekalim
-3:2; Bereishis 34:22; Mishlei 1:10; Esther 8:16. The column's Egyptian and
-Ugaritic derivations (Grimme via Tigay, Weinfeld on Elephantine and Ugaritic) and
-its academic lexicography on *Sefer HeAruch*'s root (Kohut) are reported here as
-the column reports them. Two loci where the column may have slipped are kept as it
-gives them and flagged here: it cites Rashi to Shemos 3:16 for Menachem Ibn Saruk,
-and Chizkuni and Rabbi Yosef Bechor Shor to Shemos 3:16, where the discussion of
-*totafos* is at Shemos 13:16.
+Rabbi Reuven Chaim Klein, "[Bo: Filling your Phylacteries](https://articles.ohr.edu/articles/bo-filling-your-phylacteries)," *What's in a Word?*, Ohr Somayach, 20 January 2024.
+
+Cited in the essay: Shemos 13:16, Devarim 6:8, 11:18, 28:10; Menachos 34b with Tosafos and Rabbi Akiva; Mishnah Shabbos 6:1 with Shabbos 57b; Megillah 16b; Berachos 6a; Shemos 21:22; Yeshayahu 3:19; Bereishis 30:8, 38:18; Rashi to Shemos 3:16, 13:16 and Devarim 6:8; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Pappenheim, *Chesheik Shlomo* and *Yerios Shlomo*; Maharal, *Be'er HaGolah* §4:2; the Rosh, *Hilchos Tefillin* §2; Tur, *Orach Chaim* §25; Mishnah Shekalim 3:2; Bereishis 34:22; Mishlei 1:10; Esther 8:16; *Machberes Menachem*; Chizkuni; Rabbi Yosef Bechor Shor; Professor Hubert Grimme via Professor Jeffrey H. Tigay; Professor Moshe Weinfeld; Dr. Alexander Kohut, *HeAruch HaShaleim*.

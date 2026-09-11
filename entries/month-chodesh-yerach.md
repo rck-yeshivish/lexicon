@@ -36,8 +36,8 @@ Both words come out **month** in English, but they name different things.
 column takes, as a suggestion and not a ruling, to be the month as a full span of
 days, kin to *yareach*, the moon; Malbim himself reads it as simply a thirty-day
 period. Where a pasuk uses
-*chodesh* in a place that calls for *Rosh Chodesh*, render "new moon," not
-"month." Practically: by custom a *kesubah* says *chodesh* and a *get* says *yerach*
+*chodesh* in a place that calls for *Rosh Chodesh*, it is the new moon, not the
+month. Practically: by custom a *kesubah* says *chodesh* and a *get* says *yerach*
 (Levush), so the two are not interchangeable even in a document.
 
 ## At a glance
@@ -52,7 +52,7 @@ period. Where a pasuk uses
 
 **The simple view,** which the column records and passes over: *some say*
 that *chodesh* is Aramaic and *yerach* Hebrew. Others, the column says, offer a
-more sophisticated approach, and it is those that the entry follows.
+more sophisticated approach.
 
 **Malbim:** *chodesh* is the month's beginning, and *yerach* is a period of
 thirty days as such, whether or not those thirty days answer to any lunar event.
@@ -120,9 +120,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Old Month versus New Month](https://articles.ohr.edu/articles/old-month-versus-new-month)," What's in a Word?, Ohr
-Somayach, 1 Nissan 5778 (2018-03-17): raw text in
-`sources/whats-in-a-word/raw/7687-old-month-versus-new-month.md`. Primary loci
-cited: Bamidbar 28:14; Shmuel I 20:18; Yeshayahu 1:13; Devarim 24:5, 33:14;
-Malbim and Rav Hirsch on *chodesh* and *yerach*; *Levush* on the wording of a
-*get* and a *kesubah*.
+Rabbi Reuven Chaim Klein, "[Old Month versus New Month](https://articles.ohr.edu/articles/old-month-versus-new-month)," *What's in a Word?*, Ohr Somayach, 17 March 2018.
+
+Cited in the essay: Bamidbar 28:14; Shmuel I 20:18; Yeshayahu 1:13; Devarim 24:5, 33:14; Malbim and Rav Hirsch on *chodesh* and *yerach*; Rabbi Aharon Marcus; *Levush* on the wording of a *get* and a *kesubah*.

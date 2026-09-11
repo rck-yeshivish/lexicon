@@ -48,7 +48,7 @@ usually the proper name of the coastal plain. *Eil* / *eilonei* is contested:
 **plain** for Targum Onkelos, the **name** of a particular plain for Rashi, and
 **wooded land outside a city** for Ramban. *Kikar* is the **grassland plain** of
 the Yarden, *avel* a bare **prairie**, and *padan* the Aramaic of *sadeh*,
-**field**. The one thing not to get wrong: *mishor* also means moral
+**field**. *Mishor* also means moral
 straightness, so a *mishor* in a mussar passage is uprightness, not geography.
 
 ## At a glance
@@ -84,9 +84,6 @@ straightness, so a *mishor* in a mussar passage is uprightness, not geography.
    citing the old practice of planting trees at a city's entrance, and ties
    *eil* / *eilonei* to *elah* (terebinth) and *alon* (oak). Rabbi Shmuel
    Masnuth (*Bereishis Zuta* there) reads *eil* in Eil Paran as a bridge.
-
-The Bottom line keeps Rashi's reading in narrative and flags Ramban wherever
-trees are plausible in context.
 
 **Whether eil and mishor are synonyms.** Rabbi Yaakov Tzvi Mecklenburg
 (*HaKsav VeHaKabbalah* to Bereishis 18:1) agrees with Onkelos that both mean
@@ -182,15 +179,15 @@ the Hebrew vowelization system that keeps them apart.
 ### The full inventory
 Rabbi Shlomo of Urbino (*Ohel Moed*, a lexicon of Hebrew synonyms) lists
 fourteen words in this family: *mishor, eil, eilonei, sharon, kikar, kar, avel,
-emek, bikah, gei, nachal, urim, shdeimah,* and *cheil*. Several are better
-rendered "valley" than "plain," but all name flat stretches of land.
+emek, bikah, gei, nachal, urim, shdeimah,* and *cheil*. Several are nearer to
+"valley" than to "plain," but all name flat stretches of land.
 
 ## Rendering guidance
 
 - Trap: English "plain" absorbs *mishor*, *sharon*, *eil*, *kikar*, and *avel*
   at once. Where a commentary is working the difference, mark it: "level
   ground," "fertile plain," "grassland," "bare prairie."
-- *Mishor* in Tehillim or a mussar sefer is usually moral, not topographical.
+- *Mishor* in Tehillim or mussar prose is usually moral, not topographical.
   "Level path" or "straight road" preserves both senses where the pasuk plays on
   them; "plain" throws the moral sense away.
 - Where Rashi calls a word "the name of the plain," treat it as a proper noun
@@ -211,27 +208,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayeitzei: Name of the Plain](https://articles.ohr.edu/articles/vayeitzei-name-of-the-plain)," What's in a Word?, Ohr
-Somayach, 6 Kislev 5785 (2024-12-07): raw text in
-`sources/whats-in-a-word/raw/11608-vayeitzei-name-of-the-plain.md`. Primary
-loci: Bereishis 12:6, 13:10-11, 13:18, 14:6, 14:13, 18:1, 25:20, 49:21;
-Bamidbar 33:49; Yehoshua 11:17; Hoshea 12:13; Shir HaShirim 2:1; Tehillim
-125:2; Yechezkel 16:4; Mishlei 3:8; Iyov 40:16; Targum Onkelos and *Bereishis
-Rabbah* 42:6 to Bereishis 14:6; Zohar *Vayera* 97b; Rambam to Bava Basra 6:2;
-Rabbi Hai Gaon to Niddah 2:7; *Sefer HaAruch*; *Sifrei HaShorashim* of Ibn
-Janach and Radak; *HaKsav VeHaKabbalah* to Bereishis 18:1, 49:21 and Vayikra
-1:9; *Cheshek Shlomo* and *Yerios Shlomo*; *Ohel Moed*; *Bereishis Zuta* to
-Bereishis 14:6; Bereishis 36:2, 46:14; Bamidbar 21:25, 22:41, 26:26; Yehoshua
-12:7, 13:5; Shoftim 12:11-12; Melachim I 16:6, 16:8, 16:13-14; Melachim II 15:30,
-17:1, 18:1, 18:9; Divrei HaYamim I 4:15, 4:37, 9:8. The column's Akkadian
-derivation of *padan* (Rabbi Ernest Klein), its Nabatean and Arabic *feddan*
-(Rabbi Hoffmann, on which his geographic identification rests), the Even-Shoshan
-concordance count for *mishor*, and Shadal's reading are all reported here as the
-column gives them.
+Rabbi Reuven Chaim Klein, "[Vayeitzei: Name of the Plain](https://articles.ohr.edu/articles/vayeitzei-name-of-the-plain)," *What's in a Word?*, Ohr Somayach, 7 December 2024.
 
-One fault is left standing because this pass does not touch the `words:` block:
-its entry for פדן credits "the Aramaic of *sadeh*" to Rashi and Ibn Ezra, whereas
-the column has Rashi and Ibn Ezra saying only that *padan* means the same as
-*sadeh*, and gives the Aramaic identification in Shadal's name. Its entry for שרון
-also says *sharon* is "usually" the proper name of the coastal plain, where the
-column says "in at least some of the places... if not all of them."
+Cited in the essay: Bereishis 12:6, 13:10-11, 13:18, 14:6, 14:13, 18:1, 25:20, 49:21; Bamidbar 33:49; Yehoshua 11:17; Hoshea 12:13; Shir HaShirim 2:1; Tehillim 125:2; Yechezkel 16:4; Mishlei 3:8; Iyov 40:16; Targum Onkelos and *Bereishis Rabbah* 42:6 to Bereishis 14:6; Rashi and Ramban to Bereishis 14:6; Zohar *Vayera* 97b; Rambam to Bava Basra 6:2; Rabbi Hai Gaon to Niddah 2:7; *Sefer HaAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *HaKsav VeHaKabbalah* to Bereishis 18:1, 49:21 and Vayikra 1:9; *Cheshek Shlomo* and *Yerios Shlomo*; *Ohel Moed*; *Bereishis Zuta* to Bereishis 14:6; Bereishis 36:2, 46:14; Bamidbar 21:25, 22:41, 26:26; Yehoshua 12:7, 13:5; Shoftim 12:11-12; Melachim I 16:6, 16:8, 16:13-14; Melachim II 15:30, 17:1, 18:1, 18:9; Divrei HaYamim I 4:15, 4:37, 9:8; Shadal and Rabbi David Tzvi Hoffmann to Bereishis 25:20; Rabbi Ernest Klein's etymological dictionary; Avraham Even-Shoshan's concordance.

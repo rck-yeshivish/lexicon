@@ -23,8 +23,6 @@ of the important ones**; in the absolute, recognisable because a *mem* follows
 ("*achad me...*"), it means **any one of them**, and implies the lesser, not the
 greater. *Chad* is *echad* with the *aleph* dropped, Aramaic in almost every
 occurrence. *Achat* / *echat* are the feminine, one word vowelised two ways.
-Never let "one" flatten the *echad* / absolute-*achad* contrast where a derashah
-turns on it.
 
 ## Distinctions
 
@@ -48,9 +46,9 @@ not so much as taken a donkey from *hekdesh*, unlike the standard practice of
 political leaders, and was certainly not guilty of Korach's charge.
 
 ### the dispute the two forms answer
-Rendering that first clause as "a donkey of one of them," with *echad* meaning
-one of the people, follows Rashi and Targum Onkelos. Rashi's own grandson
-Rashbam, and Chizkuni and Ramban, render it otherwise: "I did not take one
+Rashi and Targum Onkelos read that first clause as "a donkey of one of them,"
+with *echad* meaning one of the people. Rashi's own grandson
+Rashbam, and Chizkuni and Ramban, read it otherwise: "I did not take one
 donkey from them," *echad* attaching to the donkey and not to the people, since
 otherwise the Torah should have written *achad* as it does in the second clause.
 It is against that objection that Rabbi Wolf Heidenheim defends Rashi, and his
@@ -162,25 +160,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Korach: The One and Only](https://articles.ohr.edu/articles/korach-the-one-and-only)," What's in a Word?, Ohr
-Somayach, 28 Sivan 5783 (2023-06-17): raw text in
-`sources/whats-in-a-word/raw/10975-korach-the-one-and-only.md`. Primary loci:
-Bamidbar 16:15 and 28:4; Devarim 6:4; Bereishis 3:22, 22:2, 26:10, 49:16;
-Vayikra 13:2; Shmuel I 9:3 and 17:18; Yechezkel 18:10 and 33:30; Tehillim 49:8;
-Daniel 2:31, 3:19, 6:3, 7:5, 7:16; *Megillah* 28a; *Sanhedrin* 93b; *Bamidbar
-Rabbah* 18:10; *Tanchuma Korach* 7; *Bereishis Rabbah* 98:13; Radak, *Sefer
-HaShorashim* and *Michlol*; Ibn Janach, *Sefer HaShorashim*; Rabbi Wolf
-Heidenheim as quoted by *HaKtav VaHaKabbalah* to Bamidbar 16:15; Rabbi Shlomo
-Zalman Hanau, *Shaarei Tefillah* 11; Malbim, *Ayelet HaShachar* introduction to
-Vayikra 69 and *Artzos HaChaim* Orach Chaim 6:1; Rabbi Shmuel Yehudah Steiger,
-*Avnei Shayish*; Rabbi Yehonosson Eybeschutz on Adam's language.
+Rabbi Reuven Chaim Klein, "[Korach: The One and Only](https://articles.ohr.edu/articles/korach-the-one-and-only)," *What's in a Word?*, Ohr Somayach, 17 June 2023.
 
-Restored in this pass: the machlokes over Bamidbar 16:15 between Rashi with
-Targum Onkelos and Rashbam with Chizkuni and Ramban, which is the question
-Heidenheim's two forms are answering, and Rabbi Yehonosson Eybeschutz on the
-aleph of *echad*. All five of those authorities stood in the front matter with
-nothing in the body attached to them.
-
-The entry has no `words:` block, and so no pointed forms for אחד, אחת or חד.
-That is left for whoever maintains that block; the entry stays `draft` on
-account of it, not on account of its content.
+Cited in the essay: Bamidbar 16:15 with Rashi, Targum Onkelos, Rashbam, Chizkuni and Ramban, and 28:4; Devarim 6:4; Bereishis 3:22, 22:2, 26:10, 49:16; Vayikra 13:2; Shmuel I 9:3 and 17:18; Yechezkel 18:10 and 33:30; Tehillim 49:8; Daniel 2:31, 3:19, 6:3, 7:5, 7:16; *Megillah* 28a; *Sanhedrin* 93b; *Bamidbar Rabbah* 18:10; *Tanchuma Korach* 7; *Bereishis Rabbah* 98:13; Radak, *Sefer HaShorashim* and *Michlol*; Ibn Janach, *Sefer HaShorashim*; Rabbi Wolf Heidenheim as quoted by *HaKtav VaHaKabbalah* to Bamidbar 16:15; Rabbi Shlomo Zalman Hanau, *Shaarei Tefillah* 11; Malbim, *Ayelet HaShachar* introduction to Vayikra 69 and *Artzos HaChaim* Orach Chaim 6:1; Rabbi Shmuel Yehudah Steiger, *Avnei Shayish*; Rabbi Yehonosson Eybeschutz on Adam's language.

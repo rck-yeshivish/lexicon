@@ -25,8 +25,8 @@ The three age words run in ascending order: *zaken* is **an elder** (sixty),
 *Yashan* is **old** of plants and produce, not of people ("aged," "last year's").
 *Atik* is **ancient**, old by remoteness in time. *Vatik*, on what the column
 calls the more plausible explanation (Rabbi Ernest Klein), is not an age word at
-all: render it **veteran** or **senior**, of standing and reliability, never
-"old." The trap is English "old," which will flatten all six.
+all but means **veteran** or **senior**, of standing and reliability, not
+"old."
 
 ## Distinctions
 
@@ -119,25 +119,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Old Man and the See](https://articles.ohr.edu/articles/the-old-man-and-the-see)," What's in a Word?, Ohr
-Somayach, 25 Cheshvan 5780 (2019-11-23):
-https://articles.ohr.edu/articles/the-old-man-and-the-see; raw text in
-`sources/whats-in-a-word/raw/8487-the-old-man-and-the-see.md`. Primary loci
-cited: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and
-28:9; Iyov 12:12, 14:8, 15:11, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel
-7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam
-Tochnis*; *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi
-Ernest Klein's etymological dictionary.
+Rabbi Reuven Chaim Klein, "[The Old Man and the See](https://articles.ohr.edu/articles/the-old-man-and-the-see)," *What's in a Word?*, Ohr Somayach, 23 November 2019.
 
-The comparative Arabic and Indo-European etymologies and the Vatican folk
-etymology had been dropped from an earlier version of this entry under a
-mistaken sources rule; they are restored above. The Arabic *wathuqa* is Klein's
-actual argument, so without it the entry's ruling on *vatik* rested on nothing,
-and the Vatican paragraph is what the article's title puns on.
-
-Three claims have been cut from the rendering guidance as not traceable to the
-article: a citation of Tehillim 71:18 for *ziknah v'seivah*, which the article
-never gives; that *zaken* in a halachic context means elder by authority rather
-than years; and the *yashan*/*chadash* contrast with "stale" for an idea. The
-clause saying that the roots of *vatik* and *atik* are distinct is also cut; the
-article says only that one might connect them, and does not rule.
+Cited in the essay: *Avos* 5:24 with Rashi and Bartenura; Shmuel I 12:2; Yeshayahu 46:4 and 28:9; Iyov 12:12, 14:8, 15:11, 29:8, 32:6; Bereishis 12:8 and 26:22; Daniel 7:9-22; Bava Metzia 109b; Radak, *Sefer HaShorashim*; Bedersi, *Chosam Tochnis*; *HaRechasim LeVik'ah*; *Maftechos HaDamesek*; *Sefer HeAruch*; Rabbi Ernest Klein's etymological dictionary.

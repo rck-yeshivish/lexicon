@@ -18,9 +18,9 @@ updated: 2026-09-10
 *Areimah* is the standard word for a **pile** or **heap**, in Tanach and in
 Mishnaic Hebrew alike. *Chamarim* (always doubled, *chamarim chamarim*) is
 **heaps upon heaps**, a mass gathered together. *Gadish* is a **stack** of grain
-still in the sheaf; *omer* is the **bundle** or **sheaf** itself. The trap is
-*areimah* against *gadish*: Rambam seems to equate them, but Rabbi Shlomo
-Pappenheim separates them, and the difference is threshed grain (*areimah*)
+still in the sheaf; *omer* is the **bundle** or **sheaf** itself. Rambam seems
+to equate *areimah* and *gadish*, but Rabbi Shlomo
+Pappenheim separates them: the difference is threshed grain (*areimah*)
 against unthreshed (*gadish*). The column reports that it has found no source that
 distinguishes *areimah* from *chamarim* in meaning.
 
@@ -28,8 +28,7 @@ distinguishes *areimah* from *chamarim* in meaning.
 
 ### areimah (ערמה)
 Root ע-ר-ם. Eleven times in Tanach in the sense of "pile" beyond Shemos 15:8,
-including Yirmiyahu 50:26 (the article prints Jer. 3:26), Chaggai 2:16, Rus 3:7
-(the article prints 3:17), Nechemiah 3:34 and 13:15, Shir HaShirim 7:3, and a
+including Yirmiyahu 50:26, Chaggai 2:16, Rus 3:7, Nechemiah 3:34 and 13:15, Shir HaShirim 7:3, and a
 cluster in Divrei HaYamim II 31:6-9; in Mishnaic Hebrew at *Terumos* 2:1,
 *Maasros* 1:5-6 and 5:7, and *Beitzah* 4:1. The same root also carries
 "cleverness" (Bereishis 3:1, Iyov 5:12, Mishlei 19:25) and "nakedness."
@@ -80,7 +79,7 @@ two steps: ע-ר-ם relates to ע-מ-ר ("bundling") by metathesis, and ע-מ-ר
 by the interchange of ayin and ches, so that *areimah* and *chamarim* are
 ultimately related. It states plainly that it has not seen any commentator who
 explicitly links the two, nor found anyone who offers a way of differentiating
-their meanings. Treat this as the column's own suggestion, not a received
+their meanings. This is the column's own suggestion, not a received
 distinction.
 
 ## Rendering guidance
@@ -122,14 +121,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Piles and Piles](https://articles.ohr.edu/articles/piles-and-piles)," What's in a Word?, Ohr Somayach,
-13 Shvat 5782 (2022-01-15): raw text in
-`sources/whats-in-a-word/raw/9534-piles-and-piles.md`. Primary loci cited:
-Shemos 15:8, 8:10, 2:3; Bamidbar 11:32; Bereishis 1:22-23, 2:25, 3:1, 11:3,
-13:13, 14:10, 30:37; Chaggai 2:16; Shir HaShirim 7:3; Nechemiah 3:34, 13:15;
-Divrei HaYamim II 31:6-9; Iyov 5:12; Mishlei 19:25; *Terumos* 2:1, *Maasros*
-1:5-6 and 5:7, *Beitzah* 4:1, *Uktzin* 2:5, *Peah* 5:1 and 6:2, *Eduyos* 4:4;
-*Mechilta* to Shemos 14:16; *Esther Rabbah* 3:15; Rav Hirsch to Bereishis 2:25
-and 13:13; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 3:1. Two loci in
-the article appear to be digit transpositions: Rus 3:7 is printed as 3:17, and
-the *areimos* of Yirmiyahu 50:26 is printed as Jer. 3:26.
+Rabbi Reuven Chaim Klein, "[Piles and Piles](https://articles.ohr.edu/articles/piles-and-piles)," *What's in a Word?*, Ohr Somayach, 15 January 2022.
+
+Cited in the essay: Shemos 15:8, 8:10, 2:3; Bamidbar 11:32; Bereishis 1:22-23, 2:25, 3:1, 11:3, 13:13, 14:10, 30:37; Yirmiyahu 50:26; Chaggai 2:16; Rus 3:7; Shir HaShirim 7:3; Nechemiah 3:34, 13:15; Divrei HaYamim II 31:6-9; Iyov 5:12; Mishlei 19:25; *Terumos* 2:1, *Maasros* 1:5-6 and 5:7, *Beitzah* 4:1, *Uktzin* 2:5, *Peah* 5:1 and 6:2, *Eduyos* 4:4; *Mechilta* to Shemos 14:16; *Esther Rabbah* 3:15; Rav Hirsch to Bereishis 2:25 and 13:13; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 3:1.

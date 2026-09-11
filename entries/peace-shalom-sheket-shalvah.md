@@ -28,9 +28,8 @@ motion and outward disturbance: **quiet, stillness, calm**; whether it ranks abo
 *shalom* (Bedersi) or below it as a mere ceasefire (Rabbi Shlomo Aharon Wertheimer)
 is disputed, and both readings stay live. *Shaanan* is the
 fullest rest, free even of the busyness of prosperity: **serenity** (Bedersi,
-Pappenheim). The one thing not to get wrong: *shalom* is about parties in harmony,
-*shalvah* and *sheket* about a person or a scene at rest; do not render all three
-"peace."
+Pappenheim). *Shalom* is about parties in harmony,
+*shalvah* and *sheket* about a person or a scene at rest.
 
 ## Distinctions
 
@@ -133,15 +132,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Peace and Quiet](https://articles.ohr.edu/articles/peace-and-quiet)," What's in a Word?, Ohr Somayach, 18 Av
-5780 (2020-08-08): raw text in `sources/whats-in-a-word/raw/8816-peace-and-quiet.md`.
-The column's opening etymology (Latin *pax* behind English "peace" and possibly
-behind Mishnaic *piyus*) is reported here as the column gives it. Primary loci the
-article cites: Bedersi to Divrei HaYamim I 22:9; Wertheimer on
-*sheket* against *shalom/shalvah*; Pappenheim on the roots ש-ל and ש-א; Shemos 3:5;
-Maariv of Shabbos; Shir HaShirim Rabbah 3:14; Malbim on *shalvah/shalom* and
-*shaanan/shaon*; Rashi and
-Ibn Ezra to Eichah 1:5; Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II 29:11,
-Daniel 6:5 (*shalu*); Rashi to Rus 2:16 and Ramban to Bereishis 38:5 (*shaluta*);
-Rav Hirsch to Bereishis 8:1 and Vayikra 5:4; Yirmiyahu 30:10, 48:11; Mishlei 1:33;
-Iyov 21:23; Bereishis Rabbah 10:9; Yeshayahu 32:18; the Shabbos Minchah Amidah.
+Rabbi Reuven Chaim Klein, "[Peace and Quiet](https://articles.ohr.edu/articles/peace-and-quiet)," *What's in a Word?*, Ohr Somayach, 8 August 2020.
+
+Cited in the essay: Bedersi to Divrei HaYamim I 22:9; Wertheimer on *sheket* against *shalom/shalvah*; Pappenheim on the roots ש-ל and ש-א; Shemos 3:5; Maariv of Shabbos; Shir HaShirim Rabbah 3:14; Malbim on *shalvah/shalom* and *shaanan/shaon*; Rashi and Ibn Ezra to Eichah 1:5; Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II 29:11, Daniel 6:5 (*shalu*); Rashi to Rus 2:16 and Ramban to Bereishis 38:5 (*shaluta*); Rav Hirsch to Bereishis 8:1 and Vayikra 5:4; Yirmiyahu 30:10, 48:11; Mishlei 1:33; Iyov 21:23; Bereishis Rabbah 10:9; Yeshayahu 32:18; the Shabbos Minchah Amidah.

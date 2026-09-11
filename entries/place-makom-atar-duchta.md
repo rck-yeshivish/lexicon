@@ -15,12 +15,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Makom* is the only native Hebrew word for "place," and it is the default:
-**place**, or **site/location/spot** where English wants variety. *Atar* is the
+*Makom* is the only native Hebrew word for "place." *Atar* is the
 standard Aramaic word for the same thing, the Targum's regular rendering of
 *makom*; *duchta* is the Bavli's Aramaic word for "place," which the column
 suggests, if the derivation holds, may itself be an Old Persian loanword rather
-than native Aramaic. The one thing not to get wrong: these are not shades of meaning but
+than native Aramaic. These are not shades of meaning but
 shades of *language*. Where a passage sets *makom* against *atar*, the contrast
 is Hebrew against Aramaic, not one kind of place against another.
 
@@ -162,16 +161,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Chukas: The Right Site](https://articles.ohr.edu/articles/chukas-the-right-site)," What's in a Word?, Ohr
-Somayach, 28 Sivan 5783 (2023-06-17): raw text in
-`sources/whats-in-a-word/raw/10994-chukas-the-right-site.md`. Primary loci the
-article cites: Bamidbar 21:1; *Eichah Rabbah* 1:21; Ibn Janach and Radak, *Sefer
-HaShorashim*; Rabbi Pappenheim on ק-ם; Rabbi Eliyahu HaBachur, *Meturgaman*;
-Daniel 2:35, 2:38; Ezra 5:15, 6:3, 6:5, 6:7, 6:8, 8:15; Mishlei 27:8; Shmuel I
-23:13; Yechezkel 23:40; Melachim I 14:28; Divrei HaYamim II 12:11; *Berachos* 32b
-and 42b; *Sanhedrin* 39a; *Sotah* 14a; *Avodah Zarah* 11a; *Bereishis Rabbah* 5:3
-on Tehillim 93:3; *HaKsav VeHaKabbalah* to Shemos 33:21. The column's Akkadian and
-Sumerian cognates, the Kuntillet Ajrud inscription, the Old Persian, Avestan and
-Proto-Indo-European derivations for *duchta*, and its own exchange with an AI
-chatbot on a supposed link to the Latin *dux*, are all reported here as the column
-reports them, with its hedges intact.
+Rabbi Reuven Chaim Klein, "[Chukas: The Right Site](https://articles.ohr.edu/articles/chukas-the-right-site)," *What's in a Word?*, Ohr Somayach, 17 June 2023.
+
+Cited in the essay: Bamidbar 21:1; *Eichah Rabbah* 1:21; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Pappenheim on ק-ם; Rabbi Eliyahu HaBachur, *Meturgaman*; Daniel 2:35, 2:38; Ezra 5:15, 6:3, 6:5, 6:7, 6:8, 8:15; Mishlei 27:8; Shmuel I 23:13; Yechezkel 23:40; Melachim I 14:28; Divrei HaYamim II 12:11; *Berachos* 32b and 42b; *Sanhedrin* 39a; *Sotah* 14a; *Avodah Zarah* 11a; *Bereishis Rabbah* 5:3 on Tehillim 93:3; *HaKsav VeHaKabbalah* to Shemos 33:21; Rabbi Aharon Marcus; Rabbi Joseph Perles, *Etymologische Studien zur Kunde der rabbinischen Sprache und Alterthümer*; Dr. Alexander Kohut, *Aruch HaShaleim*; the Kuntillet Ajrud inscription.

@@ -40,8 +40,8 @@ takes a possessive (*ami*, "My people"). *Leom* is a **nation** bound by a
 shared religion, so it can cover more than one kingdom. *Umah* stands with
 *leom* against *goy* as a nation that does have a crown. On Heidenheim's
 approach it follows that every *am* is also a *goy*, but not every *goy* is an
-*am*. The trap is the colloquial
-"gentile": *goy* literally means nation, and in Tanach it is applied to Yisrael
+*am*. Colloquially *goy* is
+"gentile," but it literally means nation, and in Tanach it is applied to Yisrael
 too.
 
 ## At a glance
@@ -60,8 +60,7 @@ all make *am* the word of shared allegiance or shared conduct and *goy* the
 mere aggregate. The Vilna Gaon (*Biur HaGra* to Yeshayahu 1:4) reverses it:
 *goy* denotes people who share a common manner, *am* a mass of individuals. The
 column brings the Gra as a "nonetheless" against the others and does not
-adjudicate; the Bottom line leads with the first group because that is the reading
-the column develops at length, and the Gra stands beside it, not behind it.
+adjudicate.
 
 **Whether goy can name one person.** Rabbi Eliyahu Mizrachi (to Bereishis
 20:4): *goy* is only ever a nation, never an individual. Rabbi Shlomo Ibn
@@ -74,8 +73,6 @@ group, which is the ground of the everyday usage.
 *am*. Wertheimer: either a common king (so Rashi and Targum to Bereishis 25:23
 render it "kingdom") or a common religion. Edel: a family or tribe *inside* a
 nation, tied to *em* and Aramaic *imma*, mother, which is narrower than either.
-Render by context; "kingdom" where the pasuk is political, "nation" where it is
-not.
 
 ## Distinctions
 
@@ -135,12 +132,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Unaffiliated Nations](https://articles.ohr.edu/articles/the-unaffiliated-nations)," What's in a Word?, Ohr
-Somayach, 29 Cheshvan 5778 (2017-11-18): raw text in
-`sources/whats-in-a-word/raw/7491-the-unaffiliated-nations.md`. Primary loci
-cited: Bereishis 25:23 with Rashi and Targum; Rashi to Tehillim 2:1 citing Ibn
-Saruk; Yehoshua 13:3; Devarim 27:9; Yoel 2:2 with Mishlei 30:27 (the article
-prints Mishlei 30:7; the pasuk that says the locust has no king is 30:27);
-*Biur HaGra* to Yeshayahu 1:4; Shemos 21:8; Bereishis 20:4 with Rabbi Eliyahu
-Mizrachi and *Michlal Yofi*; Radak, *Sefer HaShorashim*, in the name of
-Rabbeinu Yonah; *Bereishis Rabbah* 63 (the article prints §63:27).
+Rabbi Reuven Chaim Klein, "[The Unaffiliated Nations](https://articles.ohr.edu/articles/the-unaffiliated-nations)," *What's in a Word?*, Ohr Somayach, 18 November 2017.
+
+Cited in the essay: Bereishis 25:23 with Rashi and Targum; Rashi to Tehillim 2:1 citing Ibn Saruk; Yehoshua 13:3; Devarim 27:9; Yoel 2:2 with Mishlei 30:27; *Biur HaGra* to Yeshayahu 1:4; Shemos 21:8; Bereishis 20:4 with Rabbi Eliyahu Mizrachi and *Michlal Yofi*; Radak, *Sefer HaShorashim*, in the name of Rabbeinu Yonah; *Bereishis Rabbah* 63.

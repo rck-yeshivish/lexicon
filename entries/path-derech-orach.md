@@ -52,19 +52,16 @@ updated: 2026-09-10
 *Derech* is the **way** or **road**: broad, public, open to everyone, the
 general term, and the one that extends to conduct ("the way of Hashem").
 *Orach* is the **path**: short, narrow, seldom traveled (Vilna Gaon), the road
-that reaches the outlying towns and villages (Malbim). Keep "way"/"road" for
-*derech* and "path" for *orach* and never swap them; English treats the two as
-interchangeable, the Hebrew does not. Pappenheim's dissent (one road, *derech*
-its length, *orach* its width) is recorded below; the Gaon and Malbim carry
-the rendering. Six more words fill out the cluster: *rechov* is the **street**
+that reaches the outlying towns and villages (Malbim). *Derech* and *orach* are
+not interchangeable. Pappenheim dissents: one road, *derech*
+its length, *orach* its width. Six more words fill out the cluster: *rechov* is the **street**
 inside a town, against *derech* the road between towns; *netiv* is the
 **narrow path**, shorter or narrower than a *derech*, and in the Zohar's
 approach a private one open only to select individuals; *mesilah* is the
 **paved road**; *mishol* the **footpath**, for a man on foot; *maagal* the
 **circular path**, from *igul*, a circle; *shvil* the **downhill path**, from
 *shafel*, low. Of these six only the Zohar's reading of *netiv* carries a
-name; the rest are given as "some explain" and "others explain," and so they
-are recorded here.
+name; the rest are given as "some explain" and "others explain."
 
 ## At a glance
 
@@ -129,8 +126,7 @@ the shorter and/or narrower one. Second, an approach the article locates in
 the Zohar: a *derech* is open to the public, while a *netiv* is for private
 use and is open only to select individuals. That second reading sits close to
 what the Vilna Gaon and Malbim say of *orach*, but the article sets *netiv*
-only against *derech* and does not sort *netiv* against *orach*; neither do
-we.
+only against *derech* and does not sort *netiv* against *orach*.
 
 ### mesilah (מסילה)
 A paved road. Recorded only as what a *mesilah* "is said to refer
@@ -142,8 +138,7 @@ its surface, and not its length, its width, or who walks it.
 A pedestrian footpath, and the article gives no more than that and no
 authority for it. Where the other words in the cluster are sorted by width,
 by public access, or by surface, this one is sorted by who travels it: a man
-on foot. (The article cites no pasuk; the familiar locus, *mishol hakeramim*
-of Bamidbar 22:24, is ours, not the article's.)
+on foot.
 
 ### maagal (מעגל)
 A circular path, derived from *igul*, a circle. The derivation is the whole of
@@ -184,30 +179,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Roads and Paths, Ways and Means](https://articles.ohr.edu/articles/roads-and-paths-ways-and-means)," What's in a
-Word?, Ohr Somayach, 14 Elul 5778 (2018-08-25): raw text in
-`sources/whats-in-a-word/raw/7893-roads-and-paths-ways-and-means.md`. Primary
-loci the article cites: Bereishis 49:16-18 (the pasuk itself is 49:17) with
-Rabbi Tzvi Hirsch Shlez; Mishlei 2:20 with Wertheimer; Zohar Vayakhel 215a and
-Kedoshim 88a; Yeshayahu 63:2 and Rashi to Devarim 33:29 on *dorech*; Radak on
-*oreach*; Rabbi Moshe Shapiro on *dorech* as the treading down of trials. That
-article treats *derech* and *orach* alone, and is explicitly the first
-installment of a series: it opens by promising to study "these different words
-and more" over the following weeks and closes "To be continued." Any later
-installment on the remaining six words has not been consulted here.
+Rabbi Reuven Chaim Klein, "[Roads and Paths, Ways and Means](https://articles.ohr.edu/articles/roads-and-paths-ways-and-means)," *What's in a Word?*, Ohr Somayach, 25 August 2018.
 
-The remaining six words come from a second piece by the same author: Rabbi
-Reuven Chaim Klein, "Learning to differentiate between apparent synonyms,"
-*Babel: The Language Magazine* 31 (May 2020), pages 30 to 33; local text in
-`sources/klein-babel-2020/synonyms-in-language.txt`. It names eight Hebrew
-words for street or path, *derech*, *orach*, *rechov*, *netiv*, *mesilah*,
-*maagal*, *mishol* and *shvil*, and supplies the distinctions recorded above
-for *rechov*, *netiv*, *mesilah*, *mishol*, *maagal* and *shvil*. It cites the
-Zohar for the public *derech* against the private *netiv*, and gives every
-other one of those distinctions unattributed, as "some explain," "others
-explain," "is said to refer" or "is explained as." No further authority
-should be read into them. The eight words are introduced there by an anecdote:
-as a boy in Los Angeles the author knew Hollywood Boulevard, Avenue of the
-Stars, Melrose Place, Rodeo Drive, Valley Circle and the Third Street where his
-yeshivah stood, and was bothered by who decided which thoroughfare got which
-name.
+Rabbi Reuven Chaim Klein, "Learning to differentiate between apparent synonyms," *Babel: The Language Magazine* 31, May 2020, pp. 30-33.
+
+Cited in the essay: Bereishis 49:17 with Rabbi Tzvi Hirsch Shlez; Mishlei 2:20 with Wertheimer; Zohar Vayakhel 215a and Kedoshim 88a; Yeshayahu 63:2 and Rashi to Devarim 33:29 on *dorech*; Radak on *oreach*; Rabbi Moshe Shapiro on *dorech* as the treading down of trials; Vilna Gaon; Malbim.

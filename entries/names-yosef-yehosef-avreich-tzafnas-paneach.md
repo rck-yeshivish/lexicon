@@ -36,14 +36,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Yosef* is a name, not a word to translate; Rachel gave it from *yosef*, "He
+*Yosef* is a name; Rachel gave it from *yosef*, "He
 shall add" (Bereishis 30:24). *Yehosef* is the same person with a hei of
-Hashem's Name added (Tehillim 81:6), so it is **Yehosef**, never "Yosef" with a
-note. *Tzafnas Paneach* stays transliterated; if it must be glossed, Rashi's
+Hashem's Name added (Tehillim 81:6). *Tzafnas Paneach* is, by Rashi's reading,
 **revealer of mysteries**. *Avreich* is the one genuinely contested word here,
-and the choice between **father to the king**, **a father in wisdom though young
-in years**, and **one before whom all kneel** commits you to a mefaresh. Do not
-render *rach* as "royal" without knowing you have left the mainstream.
+read as **father to the king**, **a father in wisdom though young
+in years**, or **one before whom all kneel**. *Rach* as "royal" is a minority
+reading, outside the mainstream.
 
 ## At a glance
 
@@ -85,9 +84,6 @@ three.
    ב-ר-כ, *berech*, a knee. The Taz in *Divrei Dovid* notes why: these
    authorities rejected splitting the name into two words at all, so they needed
    a single root. *Targum Yonasan* synthesizes the first and third readings.
-
-The Bottom line leaves *avreich* transliterated in narrative and glosses it by
-whichever mefaresh the passage is following.
 
 **Whether Tzafnas Paneach reveals or conceals.** *Bereishis Rabbah* 90:4 gives
 four readings; three take *tzafnas* from צ-פ-נ, hidden. On *paneach* there is
@@ -132,8 +128,7 @@ was expert in civil law and in that role functioned in a way resembling a king,
 though Rashi elsewhere (Menachos 38b) derives Aryoch from *aryeh*, the lion to
 which Yehudah is compared (Bereishis 49:9). The name Aryoch is borne in Tanach by
 the king of Elasar, one of the four kings Avraham fought (Bereishis 14:1, 14:9),
-and by a minister of Nevuchadnetzar (Daniel 2:4, 2:15, 2:24-25). The Bottom line keeps "soft" and treats the royal reading as a
-derashah to be flagged, not assumed.
+and by a minister of Nevuchadnetzar (Daniel 2:4, 2:15, 2:24-25).
 
 ## Distinctions
 
@@ -183,16 +178,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayeshev: The Amazing Multi-Named Joseph](https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph)," What's in
-a Word?, Ohr Somayach, 23 Kislev 5783 (2022-12-17): raw text in
-`sources/whats-in-a-word/raw/10750-vayeshev-the-amazing-multi-named-joseph.md`.
-Primary loci: Bereishis 29:17, 30:23-24, 41:43, 41:45, 49:9; Bamidbar 13:7;
-Devarim 28:56; Shmuel II 3:39; Tehillim 81:6; Divrei HaYamim I 25:9; Ezra 10:42;
-Nechemiah 12:14; Sotah 10b and 36b; Niddah 30b; Shabbos 53a; Menachos 38b; Bava
-Basra 4a; *Bereishis Rabbah* 90:3 and 90:4; *Sifrei Devarim* 1; Rambam,
-*Hilchos Klei HaMikdash* 9:9, with *Minchas Chinuch* 99; *Divrei Dovid* to
-Bereishis 41:43; *Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19; *Emunas Avraham*
-to Bereishis 29:17; *Sefer Russiana* to Bereishis 29:17; Bereishis 14:1, 14:9;
-Daniel 2:4, 2:15, 2:24-25; the piyyut *Even Choger*; and the column's own *Lashon
-HaKodesh: History, Holiness, & Hebrew* for the proposed Egyptian renderings of
-*Tzafnas Paneach*.
+Rabbi Reuven Chaim Klein, "[Vayeshev: The Amazing Multi-Named Joseph](https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph)," *What's in a Word?*, Ohr Somayach, 17 December 2022.
+
+Cited in the essay: Bereishis 29:17, 30:23-24, 41:43, 41:45, 49:9; Bamidbar 13:7; Devarim 28:56; Shmuel II 3:39; Tehillim 81:6; Divrei HaYamim I 25:9; Ezra 10:42; Nechemiah 12:14; Sotah 10b and 36b; Niddah 30b; Shabbos 53a; Menachos 38b; Bava Basra 4a; *Bereishis Rabbah* 90:3 and 90:4; *Sifrei Devarim* 1; Rambam, *Hilchos Klei HaMikdash* 9:9, with *Minchas Chinuch* 99; *Divrei Dovid* to Bereishis 41:43; *Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19; *Emunas Avraham* to Bereishis 29:17; *Sefer Russiana* to Bereishis 29:17; Bereishis 14:1, 14:9; Daniel 2:4, 2:15, 2:24-25; the piyyut *Even Choger*; *Lashon HaKodesh: History, Holiness, & Hebrew* on *Tzafnas Paneach*.

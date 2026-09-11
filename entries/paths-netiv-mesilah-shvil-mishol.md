@@ -21,13 +21,13 @@ road, *netiv* the narrow **path** that only some people use, *mishol* the
 ankle at a time, and *maagal* a **roundabout way** that goes nowhere in
 particular. The column does not rank the whole field by width: it says only that
 a *netiv* is narrower than a *derech*, and that a *shvil* is narrower than a
-*netiv*. The trap is that English "path" and "way" will take any of them; a
+*netiv*. A
 pasuk that pairs two (Bamidbar 20:17 against 20:19, or Shoftim 5:6) is
 distinguishing them on purpose.
 
 ## Distinctions
 
-For *derech* and *orach*, see `path-derech-orach.md`; this entry covers the rest
+For *derech* and *orach*, see [path](path-derech-orach.html); this entry covers the rest
 of the field. The column sets the whole set against English street names, where
 "boulevard," "avenue," "way" and "drive" are, as it puts it, entirely arbitrary
 and carry no real meaning; in Hebrew the exact opposite is true.
@@ -115,11 +115,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[On the Straight and Narrow](https://articles.ohr.edu/articles/on-the-straight-and-narrow)," What's in a Word?, Ohr
-Somayach, 21 Elul 5778 (2018-09-01): raw text in
-`sources/whats-in-a-word/raw/7917-on-the-straight-and-narrow.md`. The piece is
-the sequel to the column's own treatment of *derech* and *orach*. Primary loci:
-Shemos 35:35 (Rabbeinu Bachya); Bamidbar 20:17, 20:19, 22:24; Shoftim 5:6, 5:20;
-Melachim I 20:10; Yeshayahu 40:12, 47:2; Shir HaShirim 2:15; Shekalim 1:1 with
-Rabbi Meshullam; Bikkurim 3:2; Taanis 2:1; Megillah 3:1; Zohar, Mikeitz 197b and
-Va'era 31a-b.
+Rabbi Reuven Chaim Klein, "[On the Straight and Narrow](https://articles.ohr.edu/articles/on-the-straight-and-narrow)," *What's in a Word?*, Ohr Somayach, 1 September 2018.
+
+Cited in the essay: Shemos 35:35 (Rabbeinu Bachya); Bamidbar 20:17, 20:19, 22:24; Shoftim 5:6, 5:20; Melachim I 20:10; Yeshayahu 40:12, 47:2; Shir HaShirim 2:15; Shekalim 1:1 with Rabbi Meshullam; Bikkurim 3:2; Taanis 2:1; Megillah 3:1; Zohar, Mikeitz 197b and Va'era 31a-b.

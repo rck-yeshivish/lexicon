@@ -29,14 +29,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All three are names and none of them is translated: **Yaakov**, **Yisrael**,
-**Yeshurun**, in roman type. What a translator must get right is that they are not
-interchangeable. *Yaakov* is the man, and by the Ohr HaChaim's reading the man in a low
-moment; *Yisrael* is the man as founder of the nation, an added name rather than a
-replacement (Rabbeinu Bachya); *Yeshurun* is a rare title of praise, four times in all
-Tanach, built on *yashar*, and it answers Esav's charge that *Yaakov* means crooked
-dealing (Ramban). Where a passage switches names in mid-sentence, the switch is the
-point; do not smooth it to one name.
+Yaakov, Yisrael and Yeshurun are three names for one man, and they are not
+interchangeable. Yaakov is the man, and by the Ohr HaChaim's reading the man in a low
+moment; Yisrael is the man as founder of the nation, an added name rather than a
+replacement (Rabbeinu Bachya); Yeshurun is a rare title of praise, four times in all
+Tanach, built on *yashar*, and it answers Esav's charge that Yaakov means crooked
+dealing (Ramban).
 
 ## At a glance
 
@@ -55,10 +53,7 @@ of the nation. Rabbi Elimelech of Lizhensk: the two names stand for two avenues 
 avodah, *Yaakov* for *yiras Hashem* and *Yisrael* for *ahavas Hashem*. The Ohr HaChaim
 works through the pesukim systematically and finds a different rule: *Yaakov* wherever
 the Torah shows him downcast or in distress, *Yisrael* wherever he is at peace and
-content. All three are workable lenses; the Bottom line quotes the Maharal and Rav
-Hirsch's rule because it is the one that bears on how a translator handles the nation's
-name, and flags the Ohr HaChaim's because it explains the switches inside a single
-narrative.
+content.
 
 **What Yeshurun means.** Ramban (to Bamidbar 23:10, Devarim 2:10 and 7:12): *yashar*,
 straight, given precisely to counter Esav's claim (Bereishis 27:36) that *Yaakov* comes
@@ -70,8 +65,7 @@ spelled with two vavs. Rabbeinu Bachya: from *shur*, to gaze, since they came ne
 gazing on the Shechinah at Har Sinai. The Vilna Gaon: from *shir*, song, for the shirah
 at the Sea. Rabbi Yaakov Tzvi Mecklenburg: from *shirah* as a name of the Torah (Devarim
 31:19), since they alone accepted it. The column sets these side by side and does not
-rank them; the Bottom line leads with Ramban because his is the one reading that states
-why the name was given.
+rank them.
 
 **Whether Yeshurun is a name of the Jewish People at all.** The Maharsha holds that
 *Yeshurun* is a Name of Hashem, and ascribes the view to Rashi. Rabbi Yechezkel Landau
@@ -97,9 +91,8 @@ help, while *Yeshurun* describes a people inherently straight, at their peak thr
 their own effort. *Megaleh Amukos* of Rabbi Nosson Nota Shapiro maps the three onto the
 Arizal's worlds by the shape of the suffixes, angels of *Beriah* ending in *-el* and
 those of *Yetzirah* in *-on/-ron*: *Yaakov* in *Asiyah*, *Yisrael* in *Beriah*,
-*Yeshurun* in *Yetzirah*. Note that the article presents *Yetzirah* here as higher than
-*Beriah*, whereas its own listing of the four worlds puts *Beriah* above *Yetzirah*; the
-discrepancy is left as it stands.
+*Yeshurun* in *Yetzirah*. The column presents *Yetzirah* here as higher than
+*Beriah*, whereas its own listing of the four worlds puts *Beriah* above *Yetzirah*.
 
 ## Distinctions
 
@@ -111,8 +104,7 @@ supplanting or deceit; that slur is what the third name answers.
 ### Yisrael (ישראל)
 Bereishis 32:29, the angel of Esav at the Yabok: he "lords" (*sar*) over angels
 (*elohim*, or *el* for short) and over men, confirmed by Hashem Himself at Bereishis
-35:10. (The article prints Gen. 32:30; the naming is at 32:29 in Hebrew versification,
-32:28 in English.) Rabbeinu Bachya: the
+35:10. Rabbeinu Bachya: the
 earlier name was not withdrawn, so *Yisrael* is an addition and both remain in force, which
 is why the Torah keeps using both.
 
@@ -142,13 +134,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Jacob's Three Names](https://articles.ohr.edu/articles/jacobs-three-names)," What's in a Word?, Ohr Somayach, 14
-Teves 5780 (2020-01-11): raw text in
-`sources/whats-in-a-word/raw/8553-jacobs-three-names.md`. Primary loci cited: Bereishis
-25:26, 27:36, 32:29, 35:10; Devarim 31:19, 32:15, 33:5, 33:26; Yeshayahu 44:2; Michah
-7:20; Yoma 73b with Chasam Sofer; Zohar *Vayishlach* 177b and *Vayechi* 222a; *Seder
-Eliyahu Rabbah* ch. 21; Ramban to Bamidbar 23:10 and Devarim 2:10, 7:12; Rabbeinu Bachya;
-*Megaleh Amukos*; *Arugas HaBosem*; *Peirush HaRokeach* to the Siddur; *Eitz Yosef*;
-*Noda BiYehudah Tinyana, Orach Chaim* §126. One locus is corrected against the
-article: it prints Gen. 32:30 for the giving of the name Yisrael, which is Bereishis
-32:29 in Hebrew versification. The `words:` block carries the corrected locus with the article's form noted.
+Rabbi Reuven Chaim Klein, "[Jacob's Three Names](https://articles.ohr.edu/articles/jacobs-three-names)," *What's in a Word?*, Ohr Somayach, 11 January 2020.
+
+Cited in the essay: Bereishis 25:26, 27:36, 32:29, 35:10; Devarim 31:19, 32:15, 33:5, 33:26; Yeshayahu 44:2; Michah 7:20; Yoma 73b with Chasam Sofer; Zohar *Vayishlach* 177b and *Vayechi* 222a; *Seder Eliyahu Rabbah* ch. 21; Ramban to Bamidbar 23:10 and Devarim 2:10, 7:12; Rabbeinu Bachya; *Megaleh Amukos*; *Arugas HaBosem*; *Peirush HaRokeach* to the Siddur; *Eitz Yosef*; *Noda BiYehudah Tinyana, Orach Chaim* §126.

@@ -31,9 +31,7 @@ updated: 2026-09-10
 *Shemen* is the general word, **oil**, which is why the Torah must say *shemen
 zayis zach* to specify **pure olive oil**. *Yitzhar* is **olive oil** in itself,
 and is never paired with *zayis* in Tanach. Every occurrence of *yitzhar* is
-agricultural, the yield of the press, so where a passage lists produce, render it
-"oil" as a crop and *shemen* as the substance. What a translator must not do is
-let one English word erase the fact that *yitzhar* already carries "olive."
+agricultural, the yield of the press.
 
 ## At a glance
 
@@ -45,7 +43,7 @@ let one English word erase the fact that *yitzhar* already carries "olive."
 
 ## Where the authorities disagree
 
-Three accounts of the difference, and they do not reduce to one. The article
+Three accounts of the difference, and they do not reduce to one. The column
 sets them out as three possible ways of differentiating the words and does not
 choose among them.
 
@@ -67,10 +65,6 @@ choose among them.
    Yisrael that was olive oil, so *yitzhar* in the Torah means olive oil; Shabbos
    26b records that Bavel used sesame oil, Media nut oil, Alexandria radish oil,
    and Cappadocia naphtha.
-
-The Bottom line follows the first two, which agree on the English and differ only
-on how narrow the word is, and notes the third where a source is discussing lamp
-oil outside Eretz Yisrael.
 
 ## Distinctions
 
@@ -114,15 +108,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Olives and Oil](https://articles.ohr.edu/articles/olives-and-oil)," What's in a Word?, Ohr Somayach, 24
-Kislev 5777 (2016-12-24): raw text in
-`sources/whats-in-a-word/raw/7061-olives-and-oil.md`. The piece is a Chanukah
-feature, opening from the jug of *shemen zayis zach* of the Menorah. Primary
-loci cited: Shemos 6:18, 2:10; Iyov 24:11; Zechariah 4:12; Shabbos 26b;
-*Machberes Menachem*; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer
-HaGilui*; Ibn Ezra to Iyov 24:11.
+Rabbi Reuven Chaim Klein, "[Olives and Oil](https://articles.ohr.edu/articles/olives-and-oil)," *What's in a Word?*, Ohr Somayach, 24 December 2016.
 
-Two loci where the article slips and the entry does not follow it. It prints
-Zechariah 5:12 for the golden oil; the "two olive trees" and the golden oil are
-at 4:11-12. It prints Shemos 2:11 for Moshe's name being given from the water;
-that is 2:10.
+Cited in the essay: Shemos 6:18, 2:10; Iyov 24:11; Zechariah 4:12; Shabbos 26b; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGilui*; Ibn Ezra to Iyov 24:11.

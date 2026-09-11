@@ -38,12 +38,10 @@ updated: 2026-09-10
 
 ## Bottom line
 
-All five are names and stay transliterated in roman type; what a translator must not do is
-treat the pairs as one name each. **Mordechai** is the Babylonian name the Megillah uses
+All five are names, and each pair is two names, not one. **Mordechai** is the Babylonian name the Megillah uses
 throughout, **Petachyah** his Hebrew name, **Bilshan** a title of his mastery of languages.
 **Esther** is the name the Megillah uses; **Hadassah** appears once, at Esther 2:7, whose
-*hi Esther* says they are one woman. Which was her birth name is a Tannaic dispute, so a
-translation should not settle it silently.
+*hi Esther* says they are one woman. Which was her birth name is a Tannaic dispute.
 
 ## At a glance
 
@@ -128,7 +126,7 @@ stresses that none of this is meant as *etymology*: the Gemara is giving an
 actual origin is a separate one.
 
 The same consonants are a Babylonian name in Tanach: Evil Merodach (Melachim II
-25:27; the article prints 28:27), Merodach Baladan (Yeshayahu 39:1), who appears
+25:27), Merodach Baladan (Yeshayahu 39:1), who appears
 elsewhere as *Berodach* Baladan (Melachim II 20:12), probably by the
 interchangeability of mem and beis, and Yirmiyahu 50:2, where Merodach stands as
 another name for the Babylonian god Bel, the counterpart of the Canaanite Baal.
@@ -244,19 +242,10 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Myrrh & Myrtle," What's in a Word?, Ohr Somayach: Part 1
-(2024-03-02) and Part 2 (2024-03-09), the latter posted twice; raw texts in
-`sources/whats-in-a-word/raw/` under ids 11285, 11286 and 11326, the last two identical.
-Primary loci: Shemos 30:23, 32:32; Devarim 31:18; Melachim II 20:12, 25:27;
-Yeshayahu 39:1, 55:13; Yirmiyahu 50:2; Zechariah 1:8; Iyov 31:26; Esther 2:5,
-2:7, 2:20, 2:21, 3:7, 8:1, 9:24; Ezra 2:2, 10:23; Nechemiah 7:7, 9:5, 11:24;
-Divrei HaYamim I 24:16; Berachos 57a; Megillah 10b, 13a, 13b, 15a, 16b; Menachos
-64b-65a; Chullin 139b; Mishnah Shekalim 5:1, Pesachim 2:6; Yerushalmi Shekalim
-5:1; *Bereishis Rabbah* 39:13; *Midrash Panim Acheirim* version 2 §2; *Yalkut
-Shimoni* Esther §1053; *Targum Sheini*, Targum and *Biur HaGra* to Esther 2:7;
-*Peirush HaRokeach* to Shemos 30:23; Maharsha and *Keren Orah* to Menachos 65a;
-*Manos HaLevi*; *Yosef Lekach*; *Sansan L'Yair*; *Shorashei Levanon*; *HeAruch
-HaShaleim*; *Melechet Shlomo*; *Torah Temimah* to Shemos 30:23 §48 and Esther 2:5
-§11; *Yaaros Dvash* vol. 2 drush 13; Rambam's introduction to *Yad HaChazakah*.
-The column's plugs for its author's own books, and its cross-reference to its
-earlier essay on *pur* and *goral*, are not reproduced here.
+Rabbi Reuven Chaim Klein, "[Ki Sisa/Purim Katan: Myrrh & Myrtle (Part 1)](https://articles.ohr.edu/articles/ki-sisapurim-katan-myrrh-myrtle-part-1)," *What's in a Word?*, Ohr Somayach, 2 March 2024.
+
+Rabbi Reuven Chaim Klein, "[Vayakhel: Myrrh & Myrtle (Part 2)](https://articles.ohr.edu/articles/vayakhel-myrrh-myrtle-part-2)," *What's in a Word?*, Ohr Somayach, 9 March 2024.
+
+Rabbi Reuven Chaim Klein, "[Vayakhel: Myrrh & Myrtle (Part 2)](https://articles.ohr.edu/articles/vayakhel-myrrh-myrtle-part-2-2)," *What's in a Word?*, Ohr Somayach, 9 March 2024.
+
+Cited in the essay: Shemos 30:23, 32:32; Devarim 31:18; Melachim II 20:12, 25:27; Yeshayahu 39:1, 55:13; Yirmiyahu 50:2; Zechariah 1:8; Iyov 31:26; Esther 2:5, 2:7, 2:20, 2:21, 3:7, 8:1, 9:24; Ezra 2:2, 10:23; Nechemiah 7:7, 9:5, 11:24; Divrei HaYamim I 24:16; Berachos 57a; Megillah 10b, 13a, 13b, 15a, 16b; Menachos 64b-65a; Chullin 139b; Mishnah Shekalim 5:1, Pesachim 2:6; Yerushalmi Shekalim 5:1; *Bereishis Rabbah* 39:13; *Midrash Panim Acheirim* version 2 §2; *Yalkut Shimoni* Esther §1053; *Targum Sheini*, Targum and *Biur HaGra* to Esther 2:7; *Peirush HaRokeach* to Shemos 30:23; Maharsha and *Keren Orah* to Menachos 65a; *Manos HaLevi*; *Yosef Lekach*; *Sansan L'Yair*; *Shorashei Levanon*; *HeAruch HaShaleim*; *Melechet Shlomo*; *Torah Temimah* to Shemos 30:23 §48 and Esther 2:5 §11; *Yaaros Dvash* vol. 2 drush 13; Rambam's introduction to *Yad HaChazakah*.

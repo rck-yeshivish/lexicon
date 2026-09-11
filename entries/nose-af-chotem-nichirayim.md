@@ -22,10 +22,8 @@ updated: 2026-09-10
 or **even, also** in most, and in the dual *apayim* usually **face**. *Chotem*
 is the rabbinic word for the organ, and in the plural *chotmin* the **nostrils**
 proper. *Nichirayim* is a single biblical word for the two **nostrils** as
-openings (Iyov 41:12). The one thing not to get wrong: *af* is not primarily an
+openings (Iyov 41:12). *Af* is not primarily an
 anatomical word, and in the vast majority of pesukim it means anger, not nose.
-Check the context before letting a nose into the English, and never translate
-*apayim* as "nostrils" where the pasuk means the face.
 
 ## Distinctions
 
@@ -49,7 +47,7 @@ the middle as often happens, and that Arabic has a similar *anf*, "nose"; and
 that Biblical Hebrew has a root א-נ-פ yielding verbs of becoming angry, which
 is the same nose-anger link again.
 
-The connections among the senses are worth carrying into a translation. Rashi
+Rashi
 (to Devarim 29:19, Shmuel II 22:9, Yeshayahu 48:9, Tehillim 18:9, *Berachos*
 56b): *charon af* is anger because anger shows in the nose as it flares. Some
 have argued that since the nose is a person's most distinguishing and
@@ -179,23 +177,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shemini: The Nosey Truth](https://articles.ohr.edu/articles/shemini-the-nosey-truth)," What's in a Word?, Ohr
-Somayach, 27 Adar Beis 5784 (2024-04-06): raw text in
-`sources/whats-in-a-word/raw/11327-shemini-the-nosey-truth.md`. Primary loci:
-Bereishis 2:7, 50:9; Shemos 15:8; Vayikra 10:1-2, 11:30, 21:18; Devarim 23:4,
-29:19; Shmuel II 22:9, 23:37; Yeshayahu 3:21, 48:9; Yirmiyahu 6:29, 8:16, 17:4;
-Yechezkel 8:17, 23:25; Tehillim 18:9; Iyov 39:20, 41:12; Shir HaShirim 7:5;
-Daniel 6:23; Ezra 5:10, 6:5; Divrei HaYamim I 11:39; Mishnah *Yevamos* 16:3,
-*Nega'im* 6:7-8, *Machshirin* 6:5, *Middos* 3:2, *Keilim* 11:8 and 14:8,
-*Sanhedrin* 10:6, *Sotah* 1:9, *Yadayim* 4:4, *Avos* 4:1 and 5:2; *Tosefta
-Shabbos* 8:28 and *Zavim* 5:2; *Sanhedrin* 52a, *Niddah* 25a and 47a, *Sukkah*
-35b, *Taanis* 29a, *Berachos* 56b and 61b, *Shabbos* 151b; *Bamidbar Rabbah*
-5:6; Zohar *Mishpatim* 122b, *Naso* 130b, *Haazinu* 289a and 294a; Rabbi Eliyahu
-Bachur, *Meturgeman*; *Torah Lishmah* 421.
+Rabbi Reuven Chaim Klein, "[Shemini: The Nosey Truth](https://articles.ohr.edu/articles/shemini-the-nosey-truth)," *What's in a Word?*, Ohr Somayach, 6 April 2024.
 
-Prof. Edward Yechezkel Kutscher's linguistic-history argument, the counts from
-Even-Shoshan's concordance, and the Latin and Arabic comparisons had been
-dropped from an earlier version of this entry under a mistaken sources rule;
-they are restored above, since the column cites them and the entry's own claim
-that *af* means "nose" only in a minority of pesukim rests on Kutscher and
-Even-Shoshan.
+Cited in the essay: Bereishis 2:7, 50:9; Shemos 15:8; Vayikra 10:1-2, 11:30, 21:18; Devarim 23:4, 29:19; Shmuel II 22:9, 23:37; Yeshayahu 3:21, 48:9; Yirmiyahu 6:29, 8:16, 17:4; Yechezkel 8:17, 23:25; Tehillim 18:9; Iyov 39:20, 41:12; Shir HaShirim 7:5; Daniel 6:23; Ezra 5:10, 6:5; Divrei HaYamim I 11:39; Mishnah *Yevamos* 16:3, *Nega'im* 6:7-8, *Machshirin* 6:5, *Middos* 3:2, *Keilim* 11:8 and 14:8, *Sanhedrin* 10:6, *Sotah* 1:9, *Yadayim* 4:4, *Avos* 4:1 and 5:2; *Tosefta Shabbos* 8:28 and *Zavim* 5:2; *Sanhedrin* 52a, *Niddah* 25a and 47a, *Sukkah* 35b, *Taanis* 29a, *Berachos* 56b and 61b, *Shabbos* 151b; *Bamidbar Rabbah* 5:6; Zohar *Mishpatim* 122b, *Naso* 130b, *Haazinu* 289a and 294a; Rabbi Eliyahu Bachur, *Meturgeman*; *Torah Lishmah* 421; Prof. Edward Yechezkel Kutscher; Even-Shoshan's concordance.

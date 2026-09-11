@@ -40,8 +40,8 @@ updated: 2026-09-10
 *Ivri* is **Hebrew**, first applied to Avraham; *Yisrael* and *Bnei Yisrael* are
 **Israel** and **the Children of Israel**, the Torah's ordinary name for the
 nation; *Yehudi* is **Jew**, strictly a subject of the Kingdom of Yehudah before
-it became the name of the whole people. The one thing not to get wrong is that
-these are not interchangeable registers of the same word: Rabbeinu Bachya holds
+it became the name of the whole people. These are not interchangeable
+registers of the same word: Rabbeinu Bachya holds
 *Ivri* marks a lower standing than *Yisrael*, which is why the Torah keeps
 *eved Ivri* for the Jewish slave even after Sinai, by which point the term had
 otherwise largely fallen out of use in Tanach.
@@ -62,13 +62,12 @@ otherwise largely fallen out of use in Tanach.
 gives three views: that the whole world stood on one *ever*, one side of the
 scale, and Avraham on the other, and his stature balanced it; that it is a
 genealogical marker, Avraham being descended from Ever, Shem's great-grandson
-(Bereishis 11:21-24); that it records his Mesopotamian origin from the far
+(Bereishis 11:14-17); that it records his Mesopotamian origin from the far
 *ever* of the Euphrates, and that he spoke the *Ivri* tongue. *Pesikta Rabbasi*
 33 adds a fourth: when the whole world served idols and Avraham held apart, he
 was called *Ivri* for taking the opposite side of that question. *Shemos Rabbah*
 3:8 reads the name of the nation prospectively, *Ivriim* because they were to
-cross over (*she'avru*) the sea. The Bottom line does not choose among them,
-since all four give the same English; a derashah in hand decides which is live.
+cross over (*she'avru*) the sea.
 
 ## Distinctions
 
@@ -92,7 +91,7 @@ plane than a free man, so the older, lower name suits him.
 people over two thousand. It is Yaakov's second name used as a patronym, so the
 nation is *Yisrael* or the sons of *Yisrael*. Through most of Tanach this, and
 not *Ivri*, is what the people are called, on Rabbeinu Bachya's account because
-it is the name of the higher standing. Note for a translator that "Israelite"
+it is the name of the higher standing. "Israelite"
 and "Israeli" are not the same word in English: the second means a citizen of
 the modern state.
 
@@ -127,7 +126,7 @@ they claim their baloney is kosher.
 - *Eved Ivri* is "Hebrew bondsman" or "Hebrew slave," never "Jewish slave." The
   word choice is the whole of Rabbeinu Bachya's point.
 - Where a passage sets *Ivri* against *Yisrael* deliberately (Rabbeinu Bachya's
-  reading, or a shmuess on Avraham standing alone), keep "Hebrew" and "Israel"
+  reading), keep "Hebrew" and "Israel"
   as two distinct English words and do not smooth either to "Jew."
 - Where a later sefer of Tanach uses *Yehudim* of the people at large rather than
   of subjects of the southern kingdom, "Jews" is right and "Judahites" would be
@@ -141,14 +140,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Names of a People](https://articles.ohr.edu/articles/names-of-a-people)," What's in a Word?, Ohr Somayach,
-11 Cheshvan 5779 (2018-10-20): raw text in
-`sources/whats-in-a-word/raw/7961-names-of-a-people.md`. Primary loci cited:
-Bereishis 11:21-24, 14:13-14, 29:35; Shemos 21:6; *Bereishis Rabbah* 42:8;
-*Pesikta Rabbasi* 33; *Shemos Rabbah* 3:8; Rabbeinu Bachya to Shemos 21:6. Two
-notes on the loci: the column gives Bereishis 11:21-24 for Ever's genealogy, but
-Ever is born and named at 11:14-17, and 11:21-24 covers Reu, Serug and Nachor;
-the entry keeps the column's citation and flags the slip here rather than
-correcting it silently. An earlier draft's rendering bullet naming Megillas Esther
-and Sefer Yirmiyahu for the generalized *Yehudim* has been generalized, since the
-column cites neither.
+Rabbi Reuven Chaim Klein, "[Names of a People](https://articles.ohr.edu/articles/names-of-a-people)," *What's in a Word?*, Ohr Somayach, 20 October 2018.
+
+Cited in the essay: Bereishis 11:14-17, 14:13-14, 29:35; Shemos 21:6; *Bereishis Rabbah* 42:8; *Pesikta Rabbasi* 33; *Shemos Rabbah* 3:8; Rabbeinu Bachya to Shemos 21:6.

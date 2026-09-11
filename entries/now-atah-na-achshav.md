@@ -23,11 +23,11 @@ updated: 2026-09-10
 *Atah* is the ordinary biblical **now**, over four hundred times, and it carries
 *eis*, time, in its own letters. *Na* also means **now**, and only secondarily
 "please" or "raw." *Achshav* is **now** in the language of Chazal and in Modern
-Hebrew, and never occurs in Tanach; do not use it to render a pasuk. In Aramaic,
+Hebrew, and never occurs in Tanach. In Aramaic,
 *ke'an* is the biblical form and the Targum's regular rendering of both *atah*
-and *na*; *ke'don*, *hashta*, and *ha'idna* are its later companions. The one
-thing not to get wrong is the stratum: *atah* and *na* for Tanach, *achshav* and
-*hashta* for Chazal.
+and *na*; *ke'don*, *hashta*, and *ha'idna* are its later companions. The words
+also divide by stratum: *atah* and *na* belong to Tanach, *achshav* and
+*hashta* to Chazal.
 
 ## Distinctions
 
@@ -99,24 +99,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Elul 2: Now!](https://articles.ohr.edu/articles/elul-2-now)", What's in a Word?, Ohr Somayach,
-18 Elul 5777 (2017-09-09): `sources/whats-in-a-word/raw/7409-elul-2-now.md`.
-Primary loci and authorities: the Aramaic portions of Daniel and Ezra for
-*ke'an*; the Targumim's rendering of *atah* and *na*; Rabbi Eliyahu HaBachur on
-the spelling of *achshav*; Rabbi Wolf Heidenheim, Roedelheim Machzor, on
-*hashta*; Rabbi Binyamin Mussafia on *ha'idna*; the Haggadah's *Ha Lachma Anya*
-for the *hashta* / *ha shaata* dispute; Dr. Marcus Jastrow on the *achshav* and
-*ke'an* contractions.
+Rabbi Reuven Chaim Klein, "[Elul 2: Now!](https://articles.ohr.edu/articles/elul-2-now)," *What's in a Word?*, Ohr Somayach, 9 September 2017.
 
-The attributions of the *achshav* and *ke'an* contractions to Marcus Jastrow,
-the note on the earliest attestation of *achshav* in the Qumran scroll 4Q225,
-and the suggestion that English "now" comes from *na* had been dropped from an
-earlier version of this entry under a mistaken sources rule. They are restored
-above; without Jastrow the *achshav* etymology the entry keeps had no author at
-all.
-
-Two claims have been cut from the rendering guidance as not traceable to the
-article: that *hashta* in a Gemara introduces a rhetorical turn, and that
-*ha'idna* means "nowadays" and contrasts the present era with an earlier one.
-The article says only that *ha'idna* is *ha idana*, "this time," which is more
-or less "now."
+Cited in the essay: the Aramaic portions of Daniel and Ezra for *ke'an*; the Targumim's rendering of *atah* and *na*; Rabbi Eliyahu HaBachur on the spelling of *achshav*; Rabbi Wolf Heidenheim, Roedelheim Machzor, on *hashta*; Rabbi Binyamin Mussafia on *ha'idna*; the Haggadah's *Ha Lachma Anya* for the *hashta* / *ha shaata* dispute; Dr. Marcus Jastrow on the *achshav* and *ke'an* contractions; the Dead Sea Scrolls, 4Q225.

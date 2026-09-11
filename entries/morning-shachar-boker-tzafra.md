@@ -138,14 +138,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Good Morning Sunshine](https://articles.ohr.edu/articles/good-morning-sunshine)," What's in a Word?, Ohr
-Somayach, 16 Kislev 5780 (2019-12-14),
-https://articles.ohr.edu/articles/good-morning-sunshine; raw text in
-`sources/whats-in-a-word/raw/8518-good-morning-sunshine.md`. Primary loci:
-Bereishis 32:27; Berachos 27a; Pesachim 4a; Bereishis 22:3; Tehillim 22:1 with
-Rashi; Mishlei 11:27; Bereishis 1:5 with Ibn Ezra, Radak and *Peirush HaRokeach*;
-Bereishis 1:20 (*Rokeach*); Tehillim 63:2 (Ibn Ezra); Koheles 11:10; Yeshayahu
-8:20; Yoma 29a and 19b; Zohar, Beshalach 46a; Ramban to Vayikra 14:4; Bereishis
-19:15 (Targum Yonasan); Tehillim 35:19; Mishlei 6:13; Radak, *Sefer HaShorashim*.
-On the *tzipor* side of the *tzafra* question see
-`entries/bird-of-tzipor-kanaf.md`.
+Rabbi Reuven Chaim Klein, "[Good Morning Sunshine](https://articles.ohr.edu/articles/good-morning-sunshine)," *What's in a Word?*, Ohr Somayach, 14 December 2019.
+
+Cited in the essay: Bereishis 32:27; Berachos 27a; Pesachim 4a; Bereishis 22:3; Tehillim 22:1 with Rashi; Mishlei 11:27; Bereishis 1:5 with Ibn Ezra, Radak and *Peirush HaRokeach*; Bereishis 1:20 (*Rokeach*); Tehillim 63:2 (Ibn Ezra); Koheles 11:10; Yeshayahu 8:20; Yoma 29a and 19b; Zohar, Beshalach 46a; Ramban to Vayikra 14:4; Bereishis 19:15 (Targum Yonasan); Tehillim 35:19; Mishlei 6:13; Radak, *Sefer HaShorashim*.

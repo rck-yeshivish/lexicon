@@ -22,8 +22,9 @@ updated: 2026-09-10
 word for a **plague** or **blow**, from a root that means striking, and by
 Rashi's reading it does not by itself mean anything fatal. *Negef*, which the
 column calls *mageifah*'s first cousin, is the exception: Malbim reads it as a
-plague that does kill, and Rashi glosses it as *dever*. The one thing not to get
-wrong: *mageifah* names the striking, *dever* names the disease. On the column's
+plague that does kill, and Rashi glosses it as *dever*. On Rashi's reading *mageifah* names
+the striking and *dever* the disease, though Abarbanel holds *mageifah*
+inherently lethal. On the column's
 own summary a *mageifah* is just a plague while a *dever* is an especially deadly
 one; but the difference is not one of scale, as Rabbi Yair Chaim Bachrach shows
 against the sage who made *mageifah* the deadlier of the two.
@@ -106,13 +107,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Plague of Plagues](https://articles.ohr.edu/articles/plague-of-plagues)," What's in a Word?, Ohr Somayach,
-26 Teves 5778 (2018-01-13): raw text in
-`sources/whats-in-a-word/raw/7579-plague-of-plagues.md`. Primary loci cited:
-Shemos 5:3, 7:27, 9:14, 21:22, 21:35, 30:12; Bamidbar 25:9; Shmuel II 24:15;
-Mishnah *Taanis* 3:4; *Bava Kama* 2b and 60b; Rashi to Shemos 7:27 and 30:12;
-Abarbanel and Rabbeinu Chananel on *tzfardea*; Rabbi Yair Chaim Bachrach,
-*Chavos Yair*. The column's comparative-Semitic remark that words spelled DBR mean
-"death" in other Semitic languages, its bubonic-plague comparison, and its
-contrasting mortality figure from the Ecology Global Network are reported here as
-the column gives them.
+Rabbi Reuven Chaim Klein, "[Plague of Plagues](https://articles.ohr.edu/articles/plague-of-plagues)," *What's in a Word?*, Ohr Somayach, 13 January 2018.
+
+Cited in the essay: Shemos 5:3, 7:27, 9:14, 21:22, 21:35, 30:12; Bamidbar 25:9; Shmuel II 24:15; Mishnah *Taanis* 3:4; *Bava Kama* 2b and 60b; Rashi to Shemos 7:27 and 30:12; Abarbanel and Rabbeinu Chananel on *tzfardea*; Rabbi Yair Chaim Bachrach, *Chavos Yair*; the Ecology Global Network.

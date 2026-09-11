@@ -46,15 +46,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-These are not synonyms but one man's ten names, and every one of them stays a
-transliterated **name**, never an English gloss. The six of Divrei HaYamim I 4:18
+These are not synonyms but one man's ten names. The six of Divrei HaYamim I 4:18
 (Yered, Avigdor, Chever, Avi-Socho, Yekusiel, Avi-Zanoach) are read as Moshe by
 *Vayikra Rabbah* 1:3, each expounded from a Hebrew root; four more (Toviah,
-Shemayah, Ben Nesanel, Levi) follow. The one thing not to get wrong: the Midrash
+Shemayah, Ben Nesanel, Levi) follow. The Midrash
 concludes that of all ten, the Torah and Hashem Himself call him only **Moshe**,
 the name Basyah gave him, and that conclusion is the point of the whole passage.
-Render the derashos by keeping the name in Hebrew and putting the root's meaning
-in a gloss.
 
 ## At a glance
 
@@ -117,8 +114,7 @@ name of a grandson who may have been named for him.
 
 **Whether Tamar was his original name.** Rabbi Gedaliah Ibn Yachya (*Shalsheles
 HaKabbalah*) cites a tradition that Moshe's original name was Tamar or Tamur,
-meaning "raising" in Egyptian. The column knows of no other source for it, and
-neither does this entry.
+meaning "raising" in Egyptian. The column knows of no other source for it.
 
 ## Distinctions
 
@@ -135,7 +131,7 @@ Yerushalayim (Nechemiah 2:10-19, 3:35, 4:1, 6-7, 13:4-7). **Shemayah** (Divrei H
 because Hashem heard (*shama*) his tefillos; the man of that name in Divrei
 HaYamim is read as Moshe because he had a part in establishing the twenty-four
 mishmaros, which go back to Moshe. Others in Tanach carry it too: a true navi in
-Yeravam's day (Melachim I 12:22; the article prints II Kings 12:22, and Divrei
+Yeravam's day (Melachim I 12:22, and Divrei
 HaYamim II 12:5-15), a false one in Yirmiyahu's (Yirmiyahu 29:31-32), and various
 other Levi'im and Yisraelim. **Ben Nesanel** (Divrei HaYamim I 24:6),
 because he gave (*nasan*) the Torah over from Hashem to Israel. **Levi**, because
@@ -183,18 +179,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Moses' Many Names](https://articles.ohr.edu/articles/moses-many-names)," What's in a Word?, Ohr Somayach,
-21 Teves 5782 (2021-12-25): raw text in
-`sources/whats-in-a-word/raw/9503-moses-many-names.md`. Primary loci: Divrei
-HaYamim I 4:18 and 24:6; Shemos 2:1-2, 2:22, 4:20, 32:32; Bamidbar 11:2; Shoftim
-18:30; Melachim I 12:22; Ezra 2:60; Nechemiah 2:10-19, 3:35, 4:1, 6-7, 7:62,
-13:4-7; Zechariah 6:10, 6:14; Yirmiyahu 29:31-32; Divrei HaYamim II 12:5-15; *Vayikra Rabbah* 1:3; *Shemos
-Rabbah* 1:26; Megillah 13a; Taanis 9a; Zevachim 102a; Bava Basra 15a and
-109b-110a; Avos 1:1; Vilna Gaon and *Targum Rav Yosef* to Divrei HaYamim I 4:18;
-Ibn Ezra to Shemos 2:22 and 4:20; *Shalsheles HaKabbalah*; *Sefer HaYashar* and
-*Yalkut Shimoni* Shemos 166; *Divrei HaYamim Shel Moshe*, printed in Rabbi
-J. D. Eisenstein's *Otzar Midrashim* p. 358; the piyyut *Yetziv Pisgam*; Dr.
-Alexander Beider, *Dictionary of Ashkenazi Given Names*. Two loci are corrected
-against the article: it prints Shemos 2:1 for "she saw him, that he was good,"
-which is Shemos 2:2, and II Kings 12:22 for the navi Shemayah in Yeravam's day,
-which is Melachim I 12:22.
+Rabbi Reuven Chaim Klein, "[Moses' Many Names](https://articles.ohr.edu/articles/moses-many-names)," *What's in a Word?*, Ohr Somayach, 25 December 2021.
+
+Cited in the essay: Divrei HaYamim I 4:18 and 24:6; Shemos 2:1-2, 2:22, 4:20, 32:32; Bamidbar 11:2; Shoftim 18:30; Melachim I 12:22; Ezra 2:60; Nechemiah 2:10-19, 3:35, 4:1, 6-7, 7:62, 13:4-7; Zechariah 6:10, 6:14; Yirmiyahu 29:31-32; Divrei HaYamim II 12:5-15; *Vayikra Rabbah* 1:3; *Shemos Rabbah* 1:26; Megillah 13a; Taanis 9a; Zevachim 102a; Bava Basra 15a and 109b-110a; Avos 1:1; Vilna Gaon and *Targum Rav Yosef* to Divrei HaYamim I 4:18; Ibn Ezra to Shemos 2:22 and 4:20; *Shalsheles HaKabbalah*; *Sefer HaYashar* and *Yalkut Shimoni* Shemos 166; *Divrei HaYamim Shel Moshe*, printed in Rabbi J. D. Eisenstein's *Otzar Midrashim* p. 358; the piyyut *Yetziv Pisgam*; Dr. Alexander Beider, *Dictionary of Ashkenazi Given Names*.
