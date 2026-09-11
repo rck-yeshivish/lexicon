@@ -155,6 +155,17 @@ def inline(s):
     return s
 
 
+def join_lines(parts):
+    """Join wrapped source lines into one run of text. A line that ends inside a
+    hyphenated word ("parents-in-" / "law") joins without a space."""
+    out = ""
+    for p in (x.strip() for x in parts):
+        if out and not re.search("[A-Za-z]-$", out):
+            out += " "
+        out += p
+    return out
+
+
 def md(text):
     """Render the narrow markdown subset the entries actually use."""
     out, i = [], 0
@@ -197,7 +208,7 @@ def md(text):
                         and not re.match(r"^\s*[-*]\s+", lines[i]):
                     item.append(lines[i].strip())
                     i += 1
-                items.append(" ".join(item))
+                items.append(join_lines(item))
             out.append("<ul>" + "".join(f'<li dir="{bidir(x)}">{inline(x)}</li>' for x in items) + "</ul>")
             continue
         if re.match(r"^\s*\d+\.\s+", line):                     # numbered
@@ -209,7 +220,7 @@ def md(text):
                         and not re.match(r"^\s*\d+\.\s+", lines[i]):
                     item.append(lines[i].strip())
                     i += 1
-                items.append(" ".join(item))
+                items.append(join_lines(item))
             out.append("<ol>" + "".join(f'<li dir="{bidir(x)}">{inline(x)}</li>' for x in items) + "</ol>")
             continue
         para = [line]                                            # paragraph
@@ -218,7 +229,7 @@ def md(text):
                 and not re.match(r"^\s*([-*]|\d+\.)\s+", lines[i]):
             para.append(lines[i])
             i += 1
-        txt = " ".join(x.strip() for x in para)
+        txt = join_lines(para)
         out.append(f'<p dir="{bidir(txt)}">{inline(txt)}</p>')
     return "\n".join(out)
 
