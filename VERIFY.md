@@ -73,6 +73,27 @@ For one entry, with its source article open beside it:
 
 ## What an entry must not contain
 
+- **The Bottom line explains the words, briefly. It never discusses how to
+  translate them.** It is the first thing on every page, and most readers come
+  to understand how the words differ, not to render them. Say what each word
+  means and how it differs from the others, in plain words and as short as that
+  allows: most clusters need well under 100 words, and a short one is never
+  padded. Keep the bold on the key English meanings, since readers scan for
+  them. Anything about rendering, transliterating, roman or italic type, or what
+  a translator should do belongs in Rendering guidance. Where the authorities
+  disagree on the central distinction, say so in a clause without choosing a
+  side, and let the sections below set out the views; never state one view as
+  settled, and never let one authority's line read as the consensus. Hedges
+  survive shortening. The model the site's owner approved:
+
+      Yaakov, Yisrael and Yeshurun all name the same Patriarch, and each shows
+      him in a different light. *Yaakov* is the man himself, and in the Ohr
+      HaChaim's reading, the man at a low moment. *Yisrael*, given after he
+      prevailed over the angel, is the man as founder of the nation; Rabbeinu
+      Bachya stresses it is an added name, not a replacement. *Yeshurun* is a
+      rare title of praise, found only four times in all Tanach, built on
+      *yashar*, upright, and the Ramban reads it as an answer to Esav's charge
+      that the name Yaakov means crooked dealing.
 - **The Sources section is a citation and a list of loci. Nothing else.** It
   reads, in full:
 
