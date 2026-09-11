@@ -20,15 +20,13 @@ Moed*) lists seventeen in Tanach and treats them as somewhat synonymous, without
 differentiating the species; Rashi (to Yechezkel 2:6) and Rabbi Saadia Gaon (to
 Mishlei 15:19) both say in passing that there are twenty; Rabbi Klein, following
 *Ohel Moed* and adding three more, reaches twenty-one with *na'atzutz*. The
-article is mostly etymology. Explicit contrasts are few: *kotz v'dardar* names
+column is mostly etymology. Explicit contrasts are few: *kotz v'dardar* names
 two different kinds of thorn; the Vilna Gaon sets *kimosh*, the thorns along a
 field's edge, against *charul*, the ordinary thorn; Rabbi Pappenheim splits
-*salon* from *silon*. Renderings are therefore judgment calls: *kotz* **thorn**,
-*dardar* **thistle**, *sneh* **thornbush** (Rashi, Rabbi Saadia Gaon; left
-untranslated where it names the Burning Bush), *charul* **nettle** or thistle
-(as some define it; Radak, a grass-like thorn), *chedek* **brier**, *sikim* and *tzninim*
-**thorns** in "thorns in your eyes / in your sides." The trap: קוץ ודרדר is two
-kinds, not a doubled phrase, so it reads "thorn and thistle."
+*salon* from *silon*. *Kotz* is a **thorn**; *sneh* a **thornbush** (Rashi,
+Rabbi Saadia Gaon), used of the Burning Bush; *charul* a **nettle** or
+thistle as some define it, for Radak a grass-like thorn; *chedek* a **brier**.
+קוץ ודרדר is two kinds, not a doubled phrase.
 
 ## Distinctions
 
@@ -193,7 +191,7 @@ Metzudas Tzion); or, for Rabbi Pappenheim, from *nohel*/*menahel*, the place a
 shepherd leads his young animals. Rabbi Avraham ben Shlomo (to Shoftim 8:7)
 cites Chazal for seventeen words, but his list drops *tzinim*, *akrav*, *bashah*
 and *sirpad* and adds *maluach*, *masuchah*, *pirchach* and *arar*; he also
-gives Arabic names for some of the thorns, which the article leaves aside.
+gives Arabic names for some of the thorns, which the column leaves aside.
 
 ## Rendering guidance
 
@@ -216,18 +214,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Of Thorns and Thistles](https://articles.ohr.edu/articles/of-thorns-and-thistles)," What's in a Word?, Ohr
-Somayach, 9 Av 5782 (2022-08-06): raw text in
-`sources/whats-in-a-word/raw/9809-of-thorns-and-thistles.md`. The frame is
-Rabbi Shlomo of Urbino, *Ohel Moed*, with Rashi to Yechezkel 2:6 and Rabbi
-Saadia Gaon to Mishlei 15:19 for the count of twenty. Primary loci: Bereishis
-3:18, 24:6, 50:10-11; Shemos 3:2-4; Bamidbar 33:55, 34:4; Devarim 8:15, 33:16;
-Yehoshua 15:3; Shoftim 1:36, 8:7, 8:16, 9:14-15; Melachim I 12:11, 12:14;
-Divrei HaYamim I 4:8; Divrei HaYamim II 10:11, 10:14; Yeshayahu 5:5, 5:6, 7:19,
-10:17, 34:13, 55:13; Yirmiyahu 17:1; Yechezkel 2:6, 3:9, 17:4, 28:13, 28:24;
-Hoshea 2:8, 10:8; Michah 7:4; Nachum 1:10; Tzefanyah 2:9; Zechariah 7:12;
-Tehillim 58:10, 91:4, 140:2-4; Mishlei 15:19, 23:2, 24:31; Iyov 30:7, 31:40;
-Shir HaShirim 2:2, 7:9; Koheles 7:6; Sukkah 13a; Bava Kamma 119b; Avodah Zarah
-47b; Eruvin 34b; Sotah 13a; Gittin 68a; Megillah 10b; Chullin 59a with Ramban;
-Shabbos 117b. The article prints the *atad* verses in Shoftim as "9:15-15"; the
-word stands in 9:14 and twice in 9:15.
+Rabbi Reuven Chaim Klein, "[Of Thorns and Thistles](https://articles.ohr.edu/articles/of-thorns-and-thistles)," *What's in a Word?*, Ohr Somayach, 6 August 2022.
+
+Cited in the essay: Bereishis 3:18, 24:6, 50:10-11; Shemos 3:2-4; Bamidbar 33:55, 34:4; Devarim 8:15, 33:16; Yehoshua 15:3; Shoftim 1:36, 8:7, 8:16, 9:14-15; Melachim I 12:11, 12:14; Yeshayahu 5:5, 5:6, 7:19, 10:17, 34:13, 55:13; Yirmiyahu 17:1; Yechezkel 2:6, 3:9, 17:4, 28:13, 28:24; Hoshea 2:8, 10:8; Michah 7:4; Nachum 1:10; Tzefanyah 2:9; Zechariah 7:12; Tehillim 58:10, 91:4, 140:2-4; Mishlei 15:19, 23:2, 24:31; Iyov 30:7, 31:40; Shir HaShirim 2:2, 7:9; Koheles 7:6; Divrei HaYamim I 4:8; Divrei HaYamim II 10:11, 10:14; Eruvin 34b; Shabbos 117b; Sukkah 13a; Megillah 10b; Sotah 13a; Gittin 68a; Bava Kamma 119b; Avodah Zarah 47b; Chullin 59a; Rabbi Shlomo of Urbino, *Ohel Moed*; Rashi to Yechezkel 2:6, Nachum 1:10, Eruvin 34b, Sukkah 13a, Bava Kamma 119b and Avodah Zarah 47b; Rabbi Saadia Gaon to Mishlei 15:19 and his *Tafsir* to Shemos 3:2; Ibn Ezra, long commentary to Shemos 3:2; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach; Radak, *Sefer HaShorashim*; Mahari Kara; Metzudas Tzion; Donash Ibn Labrat; the Targum to Bereishis 3:18 and Hoshea 10:8; Rabbi Shlomo Pappenheim; Rav Hirsch to Bereishis 24:6, Bamidbar 33:55, Tehillim 91:4 and 140:2-4; the Vilna Gaon to Mishlei 24:31; *Ohalei Yehuda*; *Shoresh Yesha*; Rabbi Aharon Marcus, *Kesses HaSofer*; Rabbi Yehoshua Steinberg; Ramban to Chullin 59a; Rabbi Avraham ben Shlomo to Shoftim 8:7; Rabbi David Chaim Chelouche; Malbim to Yechezkel 17:4; Rabbi David Golumb; Rabbi Yaakov Yehudah (Zilberberg) de Kassif; Yaakov Reifman; Rabbi Yechiel Michel Stern.

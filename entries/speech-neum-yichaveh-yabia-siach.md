@@ -15,18 +15,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The article glosses *ne'um* as "word," and its opening question is why a word
-for "word" is used overwhelmingly for the Word of Hashem, what its etymology is,
-and how it differs from *amirah*, *dibbur* and *sichah*. The answer it develops
-is that *ne'um* is the solemn declaration whose whole force is that it is true
-and settled: render it **declaration**, **utterance**, or in a *nevuah* **thus
-says**, and never flatten it to "said." *Yichaveh* is
-speech that gives an idea life by bringing it out into the open, or, on
-Pappenheim's alternative, speech that joins speaker to listener as *ach* to
-*ach*: **express**, **declare**. *Yabia* is speech welling up from the depths like a
-spring: **pour forth**, **utter**. *Siach* is discursive, wandering speech that
-unburdens the speaker: **converse**, **muse**, **pour out one's talk**. The trap
-is that "speak" and "say" absorb all four.
+The column glosses *ne'um* as "word," and its opening question is why a word for
+"word" is used overwhelmingly for the Word of Hashem, what its etymology is, and
+how it differs from *amirah*, *dibbur* and *sichah*. The answer it develops is
+that *ne'um* is the solemn declaration whose whole force is that it is true and
+settled: a **declaration**, an **utterance**, in a *nevuah* **thus says**.
+*Yichaveh* is speech that gives an idea life by bringing it out into the open,
+or, on Pappenheim's alternative, speech that joins speaker to listener as *ach*
+to *ach*: **express**, **declare**. *Yabia* is speech welling up from the depths
+like a spring: **pour forth**, **utter**. *Siach* is discursive, wandering
+speech that unburdens the speaker: **converse**, **muse**, **pour out one's
+talk**.
 
 ## Distinctions
 
@@ -39,7 +38,7 @@ human speakers whose words are called *ne'um* are David HaMelech (Shmuel II
 Tanach.
 
 Menachem, Ibn Janach and Radak take the root as נ-א-ם. Rabbi Shlomo Pappenheim
-of Breslau (1740 to 1814, *Yerios Shlomo*) offers what the article calls a more
+of Breslau (1740 to 1814, *Yerios Shlomo*) offers what the column calls a more
 thorough approach: *ne'um* is a poetic word used to stress the veracity of a
 statement, marking that what is said is no collection of random words
 haphazardly spewed out but deliberate and accurate declarations.
@@ -52,7 +51,7 @@ HaShorashim* (under א-מ-ן and under נ-א-ם) likewise ties *ne'um* to truth.
 *ne'um* stresses the gravity of the circumstance that moved the speaker to
 address his hearers.
 
-The article adds a modern echo of the same equation of "word" with truth: per
+The column adds a modern echo of the same equation of "word" with truth: per
 the *Oxford English Dictionary*, English *word* in Ebonics and hip-hop slang
 expresses affirmation or agreement, so that "Word!" amounts to "That's the
 truth!" or "There's no denying it!", a usage that likely stems from the
@@ -66,7 +65,7 @@ to have Hashem convey to him a malevolent *nevuah* against the Jews, and in the
 end quite the opposite happened. When all is said and done, his declarations
 were true in the same way the Word of Hashem elsewhere is true. In that spirit,
 *Peirush HaRokeach* and Rabbeinu Efrayim explain that *ne'um* conveys the
-content of an irrevocable decree or oath, even for Bilaam's *ne'um*. The article
+content of an irrevocable decree or oath, even for Bilaam's *ne'um*. The column
 adds, with its own hedge ("it seems"), that David and Shlomo could use it of
 themselves because as Divinely chosen kings they were able to speak assertively
 and decisively in a way that whatever they said was or became true.
@@ -102,7 +101,7 @@ correct.
 
 Dr. Shlomo Mandelkorn (1846 to 1902), in his concordance of biblical Hebrew
 *Heichal HaKodesh* (page 710), notes that an Arabic cognate of *ne'um* means "to
-whisper." The article records this and says outright: "I am not sure what to
+whisper." The column records this and says outright: "I am not sure what to
 make of that."
 
 ### yichaveh / achaveh (יחוה / אחוה)
@@ -124,12 +123,12 @@ its plainest the root gives *mabua*/*novea*, a wellspring rising out of a hidden
 source (Mishlei 18:4, Koheles 12:6, Yeshayahu 35:7). So *yabia* (Tehillim 19:3)
 and *abiah* (Tehillim 78:2) are speech flowing up from the depths of the heart
 and breaking out in an attention-grabbing way. A similar point had already been
-made by Ibn Janach and Radak in their respective *Sifrei HaShorashim*. *Siddur HaRokeach* and *Peirush HaRokeach*:
-*yabia* is speaking on and on without stopping, like a spring that never runs
-dry.
+made by Ibn Janach and Radak in their respective *Sifrei HaShorashim*. *Siddur
+HaRokeach* and *Peirush HaRokeach*: *yabia* is speaking on and on without
+stopping, like a spring that never runs dry.
 
 ### siach / sichah (שיח / שיחה)
-*Yasiach* (Tehillim 119:23), *asichah* (Tehillim 55:18, 77:4 and 77:13, 119:15,
+*Yasiach* (Tehillim 119:23), *asichah* (Tehillim 55:18, 77:4, 77:7 and 77:13, 119:15,
 145:5; Iyov 7:11) and *lasuach* (Bereishis 24:63). Ibn Chayyuj, Ibn Janach and
 Radak: root ש-ו-ח. Menachem: the biliteral ש-ח. Pappenheim takes ש-ח from ס-ח
 ("uprooting, removing, transferring"): *sichah* is stream-of-thought speech,
@@ -164,19 +163,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Balaam's Numa](https://articles.ohr.edu/articles/balaams-numa)," What's in a Word?, Ohr Somayach,
-26 June 2021 / 16 Tammuz 5781: raw text in
-`sources/whats-in-a-word/raw/9266-balaams-numa.md`. Primary loci cited: Bereishis
-3:20, 24:63; Bamidbar 24:3 to 24:16; Shmuel II 23:1; Yeshayahu 1:24 with Ibn
-Ezra, 35:7; Yirmiyahu 23:31; Tehillim 19:3, 55:18, 77:4 and 77:13, 78:2, 119:15,
-119:23, 145:5; Mishlei 18:4, 30:1; Iyov 7:11, 13:7, 32:10, 32:17; Koheles 12:6;
-Ezra 4:8, 5:4, 5:9, 6:13; Mishnah Yevamos 16:7 and Gittin 6:7; *Mechilta* to
-Shemos 12:6, 12:21, 12:43; *Sifrei* Beha'alosecha 65, Shelach 110, Pinchas 142;
-Radak, *Sefer HaShorashim* (entries א-מ-ן and נ-א-ם); Pappenheim, *Yerios
-Shlomo* and *Cheshek Shlomo*; *Peirush HaRokeach* and *Siddur HaRokeach*; *Sefer
-HeAruch*; *Noda B'Yehudah*; Abudraham; Dr. Shlomo Mandelkorn, *Heichal HaKodesh*
-p. 710; the *machzor* edited by Ernst Daniel Goldschmidt; the *Oxford English
-Dictionary*; and Dead Sea Scroll 4Q339, which the article cites only as the foil
-for the rabbinic position that Bilaam was an evil prophet rather than a false
-one. The article writes the *asichah* loci in Tehillim 77 as a range, "77:4-13";
-the two verses that carry the word are 77:4 and 77:13.
+Rabbi Reuven Chaim Klein, "[Balaam's Numa](https://articles.ohr.edu/articles/balaams-numa)," *What's in a Word?*, Ohr Somayach, 26 June 2021.
+
+Cited in the essay: Bereishis 3:20, 24:63; Bamidbar 24:3, 24:4, 24:15, 24:16; Shmuel II 23:1; Yeshayahu 1:24, 35:7; Yirmiyahu 23:31; Tehillim 19:3, 55:18, 77:4, 77:7, 77:13, 78:2, 119:15, 119:23, 145:5; Mishlei 18:4, 30:1; Iyov 7:11, 13:7, 32:10, 32:17; Koheles 12:6; Ezra 4:8, 5:4, 5:9, 6:13; Mishnah Yevamos 16:7 and Gittin 6:7; Tosefta Sanhedrin 2:1 and Nazir 4:7; *Mechilta* to Shemos 12:6, 12:21, 12:43; *Sifrei* Beha'alosecha 65, Shelach 110, Pinchas 142; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak, *Sefer HaShorashim* (א-מ-ן and נ-א-ם); Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; *Peirush HaRokeach* and *Siddur HaRokeach*; Rabbeinu Efrayim; *Sefer HeAruch*; Rabbi Gershon Shaul Yom Tov Lipmann Heller; Rabbi Yechezkel Landau, *Noda B'Yehudah*; Rabbi Binyamin Mussafia; Ibn Ezra to Yeshayahu 1:24; Abudraham; the *machzor* edited by Ernst Daniel Goldschmidt; Dr. Shlomo Mandelkorn, *Heichal HaKodesh*, p. 710; the *Oxford English Dictionary*; Dead Sea Scroll 4Q339.

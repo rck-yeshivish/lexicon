@@ -28,20 +28,18 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Both mean **suddenly**, but seem to refer to different degrees of
-intentionality in the one who did or experienced the sudden event. *Peta* is the
-rarer word (seven times in Tanach), and the Gemara (Kerisus 9a) holds that it
-means *shogeg* only; *pitom* (twenty-five times) is for the Gemara the more
-ambiguous word, reaching *shogeg*, *oness* and even *meizid*. Not all agree: in
-the Sifrei Rabbi Yoshiya makes *pitom* *oness* and Rabbi Yonatan reverses the
-pair; Rashi's reading of *peta* as immediacy seems to fit *oness*, and
-Bartenuro reaches *oness* by another route;
-Rav Hirsch makes *peta* the subjective surprise and *pitom* the objective one,
-and Rabbi Pappenheim the exact opposite. Most sources point to a marked
-difference, though Ibn Ezra seems to say the two are one and the same. Where
-they stand together, as in Bamidbar 6:9, the Gemara reads them as a halachic
-pair and not a stylistic doubling; render the couplet with two words
-("suddenly, all at once") and never collapse it into one.
+Both mean **suddenly**, but seem to refer to different degrees of intentionality
+in the one who did or experienced the sudden event. *Peta* is the rarer word
+(seven times in Tanach), and the Gemara (Kerisus 9a) holds that it means
+*shogeg* only; *pitom* (twenty-five times) is for the Gemara the more ambiguous
+word, reaching *shogeg*, *oness* and even *meizid*. Not all agree: in the Sifrei
+Rabbi Yoshiya makes *pitom* *oness* and Rabbi Yonatan reverses the pair; Rashi's
+reading of *peta* as immediacy seems to fit *oness*, and Bartenuro reaches
+*oness* by another route; Rav Hirsch makes *peta* the subjective surprise and
+*pitom* the objective one, and Rabbi Pappenheim the exact opposite. Most sources
+point to a marked difference, though Ibn Ezra seems to say the two are one and
+the same. Where they stand together, as in Bamidbar 6:9, the Gemara reads them
+as a halachic pair and not a stylistic doubling.
 
 ## At a glance
 
@@ -53,7 +51,7 @@ pair and not a stylistic doubling; render the couplet with two words
 
 ## Where the authorities disagree
 
-The article asks what, if anything, separates the two, and gives these views.
+The column asks what, if anything, separates the two, and gives these views.
 
 1. **Kerisus 9a**: *peta* means *shogeg* only; *pitom* is the more ambiguous one
    and can mean *shogeg*, *oness*, or *meizid*. The Mishnah (Kerisus 2:2) has the
@@ -94,16 +92,14 @@ The article asks what, if anything, separates the two, and gives these views.
    approach the two may mean exactly the same thing, not synonyms but different
    forms of one word.
 
-Before turning to Ibn Ezra, the article sums up that, whatever the exact
+Before turning to Ibn Ezra, the column sums up that, whatever the exact
 difference, most sources point to a marked difference between the two; Ibn
-Ezra's reading is set in contrast to all of them. For rendering, the Bottom line leans on the Gemara (with Rabbi
-Yoshiya on *peta*), since the Mishnah in Kerisus 2:2 rests on it; that choice is
-ours, and the other views stand.
+Ezra's reading is set in contrast to all of them.
 
 ## Distinctions
 
 ### peta (פתע)
-Root פ-ת-ע (technically *feta*). Seven appearances: the article opens with the
+Root פ-ת-ע (technically *feta*). Seven appearances: the column opens with the
 killer who pushed his victim *b'feta* (Bamidbar 35:22); four are alongside
 *pitom* (Bamidbar 6:9; Yeshayahu 29:5, 30:13; Mishlei 6:15), and two more stand
 alone (Chavakuk 2:7; Mishlei 29:1). Rashi (to Bamidbar 35:22, Mishlei 6:15,
@@ -115,7 +111,7 @@ Bartenuro (*Amar Nakeh* to Bamidbar 6:9) offers a slightly different take on
 why *peta* should be *oness*: peh often interchanges with the phonetically
 similar beis, so פ-ת-ע may be viewed as ב-ת-ע, a permutation of ב-ע-ת,
 "startled" or "frightened" (Esther 7:6; Yirmiyahu 8:15), making *peta* what
-catches a person totally off guard. The article notes that the Arabic *baghta*,
+catches a person totally off guard. The column notes that the Arabic *baghta*,
 "unexpected event," is a cognate of this root. Rabbi Shlomo Pappenheim (1740 to
 1814) derives ב-ע-ת from the two-letter ב-ע, what reveals itself from beneath
 the surface, as *bua*/*avabua*, boils that bubble up on the skin (Shemos
@@ -149,10 +145,10 @@ Bartenuro cites Yechezkel 45:20 to illustrate the *pitom*-*peti* connection.
   Rav Hirsch *peta* is the surprise one could have foreseen ("unwarily"), for
   Rashi's immediacy it is "too quickly to guard against"; *pitom* for Rav
   Hirsch is "with no warning at all."
-- Where a sefer is quoting Kerisus 9a, keep *shogeg*, *oness* and *meizid* in
+- Where a passage is quoting Kerisus 9a, keep *shogeg*, *oness* and *meizid* in
   transliteration; "by mistake," "by accident" and "on purpose" are serviceable
   glosses but blur the halachic categories if used alone.
-- פתי in Mishlei: "simpleton" or "simple-minded fool" (the article renders
+- פתי in Mishlei: "simpleton" or "simple-minded fool" (the column renders
   Mishlei 14:15 and 22:3 with "fool"); on Rav Hirsch's reading the word is
   about being open and easily swayed.
 
@@ -162,15 +158,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[When Suddenly…](https://articles.ohr.edu/articles/when-suddenlyaeur)," What's in a Word?, Ohr Somayach,
-26 Tammuz 5780 (2020-07-18):
-https://articles.ohr.edu/articles/when-suddenlyaeur; raw text in
-`sources/whats-in-a-word/raw/8790-when-suddenlyaeur.md`. Primary loci cited:
-Bamidbar 6:9, 12:4, 35:22; Shemos 9:9-10; Yeshayahu 29:5, 30:13, 64:1;
-Yirmiyahu 8:15; Yechezkel 45:20; Chavakuk 2:7; Mishlei 6:15, 14:15, 22:3, 29:1;
-Esther 7:6; Kerisus 2:2 and 9a; Makkos 7b; *Sifrei* to Bamidbar 6:9; Rashi there,
-to 35:22, to Mishlei 6:15 and to Makkos 7b; *Divrei David* (TaZ); *Biur HaGra* to
-Mishlei 6:15; *Amar Nakeh* (Bartenuro) to Bamidbar 6:9; Rabbeinu Efrayim to
-Bamidbar 12:4; Rav Hirsch to Bereishis 9:27 and Bamidbar 6:9; Ibn Ezra to
-Bamidbar 35:22; *Minchah Belulah* to Bamidbar 12:4. Rabbi Pappenheim and Rabbi
-David Golomb are cited without a work.
+Rabbi Reuven Chaim Klein, "[When Suddenly…](https://articles.ohr.edu/articles/when-suddenlyaeur)," *What's in a Word?*, Ohr Somayach, 18 July 2020.
+
+Cited in the essay: Bereishis 9:27; Shemos 9:9-10; Bamidbar 6:9, 12:4, 35:22; Yeshayahu 29:5, 30:13, 64:1; Yirmiyahu 8:15; Yechezkel 45:20; Chavakuk 2:7; Mishlei 6:15, 14:15, 22:3, 29:1; Esther 7:6; Mishnah Kerisus 2:2; Kerisus 9a; Makkos 7b; *Sifrei* to Bamidbar 6:9 (Rabbi Yoshiya and Rabbi Yonatan); Rashi to Bamidbar 6:9 and 35:22, Mishlei 6:15 and Makkos 7b; Rabbi David HaLevi Segal, *Divrei David* to Bamidbar 6:9; *Biur HaGra* to Mishlei 6:15; Rabbi Ovadiah of Bartenuro, *Amar Nakeh* to Bamidbar 6:9; Rabbi Shlomo Pappenheim; Rabbeinu Efrayim ben Shimshon of Regensburg to Bamidbar 12:4; Rabbi David Golomb; Rav Hirsch to Bereishis 9:27 and Bamidbar 6:9; Ibn Ezra to Bamidbar 35:22; Rabbi Avraham Menachem Rappaport, *Minchah Belulah* to Bamidbar 12:4.

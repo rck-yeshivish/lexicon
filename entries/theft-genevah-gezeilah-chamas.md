@@ -15,9 +15,9 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Genevah* is theft **by stealth**: the *ganav* hides himself, so render it
-**stealing** and the actor **thief**. *Gezeilah* is taking **openly**, in public
-or by force, so render it **robbery** and the actor **robber**. The distinction
+*Genevah* is theft **by stealth**: the *ganav* hides himself. It is
+**stealing**, and the actor a **thief**. *Gezeilah* is taking **openly**, in
+public or by force: **robbery**, and the actor a **robber**. The distinction
 is not severity but visibility, and the halachah runs the opposite way to
 intuition: the Torah imposes extra fines on the *ganav* (double, and four or
 five times for a slaughtered or sold animal) and none on the *gazlan*, because
@@ -44,10 +44,10 @@ Rambam (Hilchos Geneivah 1:3): he takes another's property clandestinely so that
 the owner does not know, as a pickpocket does; if he took it openly, with
 violence or by force, he is not a *ganav* but a *gazlan*.
 
-The *ganav* alone bears the fines (the article cites Shemos 21:37): besides
-returning the value he pays an extra penalty of the same value, double in all,
-and for a kosher animal slaughtered or sold, five times for cattle and four for
-sheep or goats. Bava Kamma 79b gives the reason, and it is the heart of this
+The *ganav* alone bears the fines: besides returning the value he pays an extra
+penalty of the same value, double in all (Shemos 22:3), and for a kosher animal
+slaughtered or sold, five times for cattle and four for sheep or goats (Shemos
+21:37). Bava Kamma 79b gives the reason, and it is the heart of this
 cluster: the *ganav* hides his theft from people but does not care to hide it
 from Hashem, so he shows he respects man more than Hashem and cares more what
 people think. The *gazlan* does not care what anybody thinks, but at least he
@@ -142,15 +142,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Stealing and Robbing](https://articles.ohr.edu/articles/stealing-and-robbing)," What's in a Word?, Ohr
-Somayach, 27 Shevat 5780 (2020-02-22): raw text in
-`sources/whats-in-a-word/raw/8613-stealing-and-robbing.md`. Primary loci:
-Vayikra 5:23, 19:11, 19:13; Shemos 20:13, 21:37, 22:3, 23:19 with Rav Hirsch;
-Devarim 5:17; Bereishis 6:13, 31:19, 38:12; Bereishis Rabbah 54:3; Bava Kamma
-4b, 57a, 62a, 79b, 97a; Bava Basra 34a, 38a; Shevuos 44b; Sanhedrin 108a;
-Tehillim 71:4, 72:6; Yoma 39a; Rambam, Hilchos Geneivah 1:3 and Hilchos
-Gezeilah 1:3, with *Kesef Mishneh*, *Lechem Mishneh* and *Even HaAzel*; *S'ma*
-to Choshen Mishpat 348:7; Radak, *Sefer HaShorashim*; Ernest Klein on Arabic
-*jazala*; Dr. Chaim Tawil on Akkadian *hamasu*. The article cites Shemos 21:37
-for the *ganav*'s fines in general; the verse itself states the fourfold and
-fivefold payment, and the double payment is stated at Shemos 22:3.
+Rabbi Reuven Chaim Klein, "[Stealing and Robbing](https://articles.ohr.edu/articles/stealing-and-robbing)," *What's in a Word?*, Ohr Somayach, 22 February 2020.
+
+Cited in the essay: Bereishis 6:13, 31:19, 38:12; Shemos 20:13, 21:37, 22:3, 23:19; Vayikra 5:23, 19:11, 19:13; Devarim 5:17; Tehillim 71:4, 72:6; *Bereishis Rabbah* 54:3; Yoma 39a; Bava Kamma 4b, 57a, 62a, 79b, 97a; Bava Basra 34a, 38a; Sanhedrin 108a; Shevuos 44b; Rashi to Bereishis 6:13, Yoma 39a and Tehillim 71:4; Radak to Tehillim 71:4 and *Sefer HaShorashim*; Rambam, Hilchos Geneivah 1:3 and Hilchos Gezeilah 1:3, with *Kesef Mishneh*, *Lechem Mishneh* and *Even HaAzel*; *S'ma* to Choshen Mishpat 348:7; Rabbi Shlomo Pappenheim; Rav Hirsch to Shemos 23:19; the Netziv; Ernest Klein; Dr. Chaim Tawil.

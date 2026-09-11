@@ -30,9 +30,8 @@ Mecklenburg holds that *shevet* first named the tribe's leader and *mateh* its
 members; Malbim reads *shevet* as a branch, each tribe a branch of Yaakov's
 family tree; and Rabbi Zev HaKohen Hoberman calls Yisrael *shevatim* for their
 authority and responsibility over the nations and *matos* as Yaakov Avinu's cane,
-the support he leans on to carry his legacy. The one thing not to get wrong:
-*mateh* and *shevet* are both stick and tribe, and English has no word that
-carries both, so the pun in a derashah has to be built rather than translated.
+the support he leans on to carry his legacy. *Mateh* and *shevet* are both stick
+and tribe.
 
 ## Distinctions
 
@@ -136,14 +135,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Tribesmen Stick Together](https://articles.ohr.edu/articles/tribesmen-stick-together)," What's in a Word?, Ohr
-Somayach, 28 Tammuz 5777 (2017-07-22):
-https://articles.ohr.edu/articles/tribesmen-stick-together; raw text in
-`sources/whats-in-a-word/raw/7357-tribesmen-stick-together.md`. Primary loci
-cited: Bereishis 49:28; Yirmiyahu 1:11; Tehillim 2:9; Megillas Esther (the
-*sharvit* of Achashverosh); Sanhedrin 5a; Malbim; Rashi; Rabbi Shlomo Aharon
-Wertheimer; the Vilna Gaon; Rabbi Yehuda ibn Kuraish; Rabbi Yaakov Lorberbaum of
-Lissa; Rabbi Yaakov Tzvi Mecklenburg citing Shadal (the column does not name the
-work); Rabbi Zev HaKohen Hoberman. Wertheimer's claim that only Moshe's stick is
-called a *mateh* is reported as his; Tanach also uses the word of Aharon's staff
-(Bamidbar 17:23) and Yehudah's (Bereishis 38:18).
+Rabbi Reuven Chaim Klein, "[Tribesmen Stick Together](https://articles.ohr.edu/articles/tribesmen-stick-together)," *What's in a Word?*, Ohr Somayach, 22 July 2017.
+
+Cited in the essay: Bereishis 49:28; Yirmiyahu 1:11; Tehillim 2:9; Megillas Esther (the *sharvit* of Achashverosh); Sanhedrin 5a; Malbim to Yirmiyahu 1:11 and Bereishis 49:28; Rashi to Sanhedrin 5a; Rabbi Shlomo Aharon Wertheimer; the Vilna Gaon; Rabbi Yehuda ibn Kuraish; Rabbi Yaakov Lorberbaum of Lissa; Rabbi Yaakov Tzvi Mecklenburg, citing Shadal; Rabbi Zev HaKohen Hoberman; the Targumim.

@@ -30,15 +30,14 @@ updated: 2026-09-10
 
 The Targumim render *klitah* and *pleitah* alike, with the Aramaic word for
 salvation (*shizba*/*shaziv*), so in some ways the two are synonyms, both
-"saving" in general. At the core, though, *pleitah* is rescue by
-**expulsion**: one is spit out of the danger, so a *palit* is a **refugee**.
-*Klitah* is rescue by **reception**: one is taken in, as a *miklat* receives
-him, so render it **refuge** or **taking in**. For Malbim and Bedersi *sarid*
-is the one who was caught and could not get out and lived anyway: **survivor**
-or **remnant**. Rabbi Avraham Yitzchak Shain draws the line differently: the
-*palit* was totally surrounded and spit out, the *sarid* was not necessarily
-enveloped at all. The trap is the stock pair *sarid u'palit*, where "survivor"
-will swallow both; keep them apart as "survivor nor refugee."
+"saving" in general. At the core, though, *pleitah* is rescue by **expulsion**:
+one is spit out of the danger, so a *palit* is a **refugee**. *Klitah* is rescue
+by **reception**: one is taken in, as a *miklat* receives him, so it is
+**refuge**, **taking in**. For Malbim and Bedersi *sarid* is the one who was
+caught and could not get out and lived anyway: **survivor** or **remnant**.
+Rabbi Avraham Yitzchak Shain draws the line differently: the *palit* was totally
+surrounded and spit out, the *sarid* was not necessarily enveloped at all.
+*Sarid u'palit* is a stock pair.
 
 ## At a glance
 
@@ -52,7 +51,7 @@ will swallow both; keep them apart as "survivor nor refugee."
 
 **What separates sarid from palit.** Malbim (Rabbi Meir Leibush Weiser, 1809 to
 1879): a *palit* was in the trenches of war or another calamity and was able to
-flee, saving himself (in the article's terms, "spit out" of harm's way); a
+flee, saving himself (in the column's terms, "spit out" of harm's way); a
 *sarid* was caught in the middle, unable to escape, and somehow survived
 anyway. Rabbi Avraham Bedersi (13th century) presents the same explanation in
 brief in *Chotam Tochnit*. So *palit* is "refugee," *sarid* more accurately
@@ -77,24 +76,20 @@ used the humanitarian corridor to attack the Jewish army, so the army was
 allowed to surround them on all sides.
 
 The two accounts do not coincide: for Malbim the *sarid* is the one who could
-not escape, for Rabbi Shain the one who was not sealed in. The Bottom line
-leads with Malbim and Bedersi for rendering; that choice is ours, and Rabbi
-Shain's pattern stands beside it.
+not escape, for Rabbi Shain the one who was not sealed in.
 
 **Where klitah and pleitah come from.** Rabbi Yitzchak of Zeldin (*Shoresh
 Yesha*): ק-ל-ט is a metathesis of ל-ק-ט, "gathering" (*leket*, *yalkut*), since
 those sheltered together are as if gathered up into a safe spot. Rabbi Yehoshua
-Steinberg of the Veromemanu Foundation takes a different approach: a
-metathesis of ק-ט-ל, "killing," since *klitah* often refers to those received
-by a sanctuary and so escaping death. Most philologists and lexicographers, the
-article says, trace *pleitah* to the triliteral פ-ל-ט, as the article itself
-does, but some take the פ as not part of the core root (see Sources on the
-article's wording): Rabbi Moshe Tedeschi-Ashkenazi (1821 to 1898, *Otzar
-Nirdafim* §380) derives *pleitah* from the two-letter ל-ט, and Rabbi Steinberg,
-in an essay titled "Run, Lot Run," connects *pleitah* and many other words to
-that biliteral root; he even derives *klitah* from it, so that on his view the
-two words share an etymological source. The Bottom line stays with the
-triliteral roots.
+Steinberg of the Veromemanu Foundation takes a different approach: a metathesis
+of ק-ט-ל, "killing," since *klitah* often refers to those received by a
+sanctuary and so escaping death. Most philologists and lexicographers, the
+column says, trace *pleitah* to the triliteral פ-ל-ט, as the column itself does,
+but some take the פ as not part of the core root: Rabbi Moshe Tedeschi-Ashkenazi
+(1821 to 1898, *Otzar Nirdafim* §380) derives *pleitah* from the two-letter ל-ט,
+and Rabbi Steinberg, in an essay titled "Run, Lot Run," connects *pleitah* and
+many other words to that biliteral root; he even derives *klitah* from it, so
+that on his view the two words share an etymological source.
 
 **Bigdei srad (Shemos 31:10, 35:19, 39:1, 39:41).** Rashi and his grandson
 Rashbam (to Shemos 31:10): not the bigdei kehunah, which are listed separately,
@@ -148,12 +143,12 @@ on the southern border of Zevulun's territory (Yehoshua 19:10, 19:12), and in
 recent times a popular Jewish name.
 
 ### klitah (קליטה)
-Root ק-ל-ט. The article opens with the Masoretic siman at the end of
+Root ק-ל-ט. The column opens with the Masoretic siman at the end of
 Vayishlach, which gives *klitah* for the parashah's 154 pesukim. The word is
 neither in the parashah nor a Biblical name, but echoes Yaakov dividing his
 camp so that the rest would be "for survival" (Bereishis 32:8), and the
 Haftarah's Har Tziyon as a place "for survival" (Ovadiah 1:17); the word in both
-pesukim, though, is *pleitah*. In a closing note the article corrects itself:
+pesukim, though, is *pleitah*. In a closing note the column corrects itself:
 Rabbi Nosson Kamenetsky (1930 to 2019) points out that the name Klita appears
 three times in Tanach (Ezra 10:23; Nechemiah 8:7, 10:11), though spelled with a
 final aleph, not the final hei of the Masoretic word.
@@ -199,26 +194,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayishlach: Saving Survivors](https://articles.ohr.edu/articles/vayishlach-saving-survivors)," What's in a Word?, Ohr
-Somayach, 19 Kislev 5784 (2023-12-02):
-https://articles.ohr.edu/articles/vayishlach-saving-survivors; raw text in
-`sources/whats-in-a-word/raw/11148-vayishlach-saving-survivors.md`. Primary loci
-cited: Bereishis 14:13, 32:8; Shemos 31:10, 35:19, 39:1, 39:41 with Rashi,
-Rashbam, Ibn Ezra, Chizkuni and Ramban; Vayikra 22:23; Bamidbar 4:1-15, 13:9,
-21:35, 34:26; Devarim 2:34, 3:3, 25:18 with Targum pseudo-Yonasan and Rashi;
-Yehoshua 8:22, 10:28, 10:30, 10:33, 10:37, 10:39, 10:40, 11:8, 19:10, 19:12;
-Shmuel I 25:44; Shmuel II 3:15; Melachim II 10:11; Yeshayahu 1:9 with the Vilna
-Gaon; Yirmiyahu 42:17; Yechezkel 11:1, 11:13, 33:21-22; Ovadiah 1:17; Yonah
-2:11 with Targum; Ezra 10:23; Nechemiah 8:7, 10:11, 10:23, 12:17; Divrei HaYamim
-I 3:21, 4:42, 6:42, 6:52; Berachos 3:6 (Mishnah) and 7a; Shabbos 1:6, 9:3, 11:6;
-Yoma 72a-b, 77a; Megillah 12b; Yevamos 79a with *Benayahu*; Sotah 1:7; Sanhedrin
-10:4, 44b, 95b, 105b; Avodah Zarah 4b; Chullin 108b, 111a, 112b; Bechoros 6:7,
-7:6; Mikvaos 8:3; *Midrash Tanchuma*, Ki Seitzei §10; *Sifrei* to Matos §157;
-Rambam, *Hilchos Melachim* 6:7; *Chotam Tochnit*; *Shoresh Yesha*; *Otzar
-Nirdafim* §380; Rabbi Steinberg, "Run, Lot Run." The article also refers the
-reader to its earlier essay "Murder He Wrote" (February 2023) on *ketilah*.
-Rabbi Shain is cited without a work. Two slips in the article, noted rather than
-repeated: it calls the *kalut* a non-kosher animal, but Vayikra 22:23 speaks of
-an ox or sheep, a kosher species, with that blemish; and it introduces the
-biliteral view by saying some take the initial פ of *pleitah* "as radical to the
-core root," where the examples that follow treat the פ as outside the root.
+Rabbi Reuven Chaim Klein, "[Vayishlach: Saving Survivors](https://articles.ohr.edu/articles/vayishlach-saving-survivors)," *What's in a Word?*, Ohr Somayach, 2 December 2023.
+
+Cited in the essay: Bereishis 14:13, 32:8; Shemos 31:10, 35:19, 39:1, 39:41; Vayikra 22:23; Bamidbar 4:1-15, 13:9, 21:35, 34:26; Devarim 2:34, 3:3, 25:18; Yehoshua 8:22, 10:28, 10:30, 10:33, 10:37, 10:39, 10:40, 11:8, 19:10, 19:12; Shmuel I 25:44; Shmuel II 3:15; Melachim II 10:11; Yeshayahu 1:9; Yirmiyahu 42:17; Yechezkel 11:1, 11:13, 33:21-22; Ovadiah 1:17; Yonah 2:11; Ezra 10:23; Nechemiah 8:7, 10:11, 10:23, 12:17; Divrei HaYamim I 3:21, 4:42, 6:42, 6:52; Mishnah Berachos 3:6, Shabbos 1:6, 9:3, 11:6, Sotah 1:7, Sanhedrin 10:4, Bechoros 6:7, 7:6, Mikvaos 8:3; Berachos 7a; Yoma 72a-b, 77a; Megillah 12b; Yevamos 79a; Sanhedrin 44b, 95b, 105b; Avodah Zarah 4b; Chullin 108b, 111a, 112b; *Sifrei* to Matos §157; *Midrash Tanchuma*, Ki Seitzei §10; Targum Onkelos to Shemos 31:10; Targum to Yonah 2:11; Targum pseudo-Yonasan and Rashi to Devarim 25:18; Rashi, Rashbam, Ibn Ezra, Chizkuni and Ramban to Shemos 31:10; Rambam, *Hilchos Melachim* 6:7; Malbim; Rabbi Avraham Bedersi, *Chotam Tochnit*; the Vilna Gaon to Yeshayahu 1:9; Rabbi Avraham Yitzchak Shain; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Yehoshua Steinberg, "Run, Lot Run"; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* §380; Rabbi Yosef Chaim of Baghdad, *Benayahu* to Yevamos 79a; Rabbi Nosson Kamenetsky.

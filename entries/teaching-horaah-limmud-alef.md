@@ -26,10 +26,9 @@ ways: for Malbim, teaching that happens **inadvertently**, a person or thing
 serving as the example from which a lesson is drawn; for Rabbi Pappenheim, the
 learner's **firm grasp** of material won through repeated instruction.
 *Hadrachah*, Malbim's contrast term, is **guidance** or counsel in applying
-what one already knows, not necessarily new information. The one thing not to
-get wrong: *hora'ah* and *limmud* are stages, not synonyms (Shadal and Rav
-Hirsch, as Rabbi Klein pairs them), and Shadal reads a whole tragedy in Tanach
-off the difference.
+what one already knows, not necessarily new information. *Hora'ah* and
+*limmud* are stages, not synonyms (Shadal and Rav Hirsch, as Rabbi Klein pairs
+them), and Shadal reads a whole tragedy in Tanach off the difference.
 
 ## Distinctions
 
@@ -65,7 +64,7 @@ goodness and morality, from which a person instilled with its values can grow
 into a paragon of virtue.
 
 ### limmud (למוד)
-The article opens with a count: words from lamed-mem-dalet appear eighty-six
+The column opens with a count: words from lamed-mem-dalet appear eighty-six
 times in Tanach, but in the Chumash only in Devarim, and most of those in
 Va'eschanan.
 
@@ -74,10 +73,11 @@ until it is engraved on the pupil's heart and he knows it well, where *hora'ah*
 is teaching a thing once and expecting it to be retained. Shadal reads Melachim
 II 12:3 accordingly: Yoash did right in Hashem's eyes all the years Yehoyada was
 alive, as Yehoyada taught him (*horahu*), and once Yehoyada died he no longer
-kept those teachings, and even ended up deifying himself. The wording is a criticism of the method.
-Yehoyada used *hora'ah* and not *limmud*, never repeating the essential lessons
-to the boy-king; had he reinforced them again and again, they would have become
-second nature, and Yoash would not have strayed once his teacher was gone.
+kept those teachings, and even ended up deifying himself. The wording is a
+criticism of the method. Yehoyada used *hora'ah* and not *limmud*, never
+repeating the essential lessons to the boy-king; had he reinforced them again
+and again, they would have become second nature, and Yoash would not have
+strayed once his teacher was gone.
 
 Rav Hirsch makes a similar point from Moshe's own usage: in Devarim, Moshe
 describes his teaching of Klal Yisrael with cognates of *limmud*, not with
@@ -123,7 +123,8 @@ drawing on *alef*'s sense of teaching, so that "for want of oxen the trough is
 an empty pit" warns the teacher that without students he will become an empty
 vessel; with students to answer for, a teacher fills himself with knowledge.
 About this Rabbi Yehuda HaNasi said, "I learned much from my teachers, more from
-my colleagues, and from my students most of all" (Taanis 7a; Makkos 10a).
+my colleagues, and from my students most of all" (Makkos 10a); Taanis 7a has
+the same saying from Rabbi Chanina.
 
 ### hadrachah (הדרכה)
 Malbim's contrast term. The common thread of *hora'ah* and *limmud* is the
@@ -155,17 +156,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Ultimate Teacher](https://articles.ohr.edu/articles/the-ultimate-teacher)," What's in a Word?, Ohr
-Somayach, 15 Av 5781 (2021-07-24):
-https://articles.ohr.edu/articles/the-ultimate-teacher; raw text in
-`sources/whats-in-a-word/raw/9308-the-ultimate-teacher.md`. Primary loci cited:
-Shemos 15:4; Vayikra 15:3, 21:20; Devarim 4:1, 7:13 (the article prints 7:12),
-11:14, 28:4, 28:18 (the article prints 28:12, which has no *alafim*), 28:51;
-Bereishis 26:5; Shoftim 3:31, 16:29; Rus 3:8; Shmuel I 21:14; Melachim II 12:3;
-Yeshayahu 28:9, 30:24; Yoel 2:23; Iyov 6:6, 33:33, 35:11; Mishlei 14:4, 22:25;
-Tehillim 8:8, 50:10; Shir HaShirim 4:4; Berachos 30a; Taanis 7a; Makkos 10a;
-*Avos* 4:7 and 6:6; *Horayos* 1:1 and 1:4; *Parah* 7:9; for *lefes*, *Kilayim*
-1:3, 1:9, 3:1, *Maasros* 5:2, 5:8, *Chullin* 7:4, *Keilim* 9:4, *Uktzin* 1:4.
-Menachem Ibn Saruk, *Machberes Menachem*; Radak; Rabbi Shlomo Pappenheim. The
-article gives the closing saying to Rabbi Yehuda HaNasi for both loci; in
-Makkos 10a it is Rebbi's, but in Taanis 7a the same saying is Rabbi Chanina's.
+Rabbi Reuven Chaim Klein, "[The Ultimate Teacher](https://articles.ohr.edu/articles/the-ultimate-teacher)," *What's in a Word?*, Ohr Somayach, 24 July 2021.
+
+Cited in the essay: Bereishis 26:5; Shemos 15:4; Vayikra 15:3, 21:20; Devarim 4:1, 7:13, 11:14, 28:4, 28:18, 28:51; Shoftim 3:31, 16:29; Shmuel I 21:14; Melachim II 12:3; Yeshayahu 28:9, 30:24; Yoel 2:23; Tehillim 8:8, 50:10; Mishlei 14:4, 22:25; Iyov 6:6, 33:33, 35:11; Shir HaShirim 4:4; Rus 3:8; Mishnah *Avos* 4:7 and 6:6, *Horayos* 1:1 and 1:4, *Parah* 7:9; Berachos 30a; Taanis 7a; Makkos 10a; Ibn Janach and Radak; Menachem Ibn Saruk, *Machberes Menachem*; Rav Hirsch to Bereishis 26:5 and Devarim 4:1; Malbim; Shadal; Rabbi Shlomo Pappenheim; the Vilna Gaon to Mishlei 14:4.

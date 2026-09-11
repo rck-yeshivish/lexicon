@@ -49,9 +49,7 @@ one. *Kala* stops because the goal is reached or the reason has lapsed
 (Grayever, Wertheimer), or, for Malbim, is detained against its nature:
 **cease**, **be held back**. *Pasak* is **break off** in the middle (Grayever).
 Grayever himself allows that colloquially the words interchange, and that each
-keeps its own connotation in most, not all, of its appearances. All five take
-English "stop," which is the trap; where two stand near each other, give each
-its own verb.
+keeps its own connotation in most, not all, of its appearances.
 
 ## At a glance
 
@@ -77,8 +75,7 @@ Rabbi Shlomo Pappenheim (1740 to 1814) frames it differently: *chasach* stops an
 act that the laws of morality or nature say should be stopped, so that it is in
 a sense an antonym of *mana*, and he derives it from ח-ס (caring) with ס-כ
 (protection), one who stops another from a reprehensible act. Malbim explicitly
-follows him that *chasach* names an impediment from outside the actor. The
-Bottom line gives both the before-or-during readings; "hold back" serves either.
+follows him that *chasach* names an impediment from outside the actor.
 
 **Mana: from within or from outside.** Grayever: *mana* is stopping by conscious
 decision, not from inability. Wertheimer: willful and total. Pappenheim: *mana*
@@ -166,10 +163,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Stop It!](https://articles.ohr.edu/articles/stop-it)," What's in a Word?, Ohr Somayach, 28 Teves
-5782 (2022-01-01): https://articles.ohr.edu/articles/stop-it; raw text in
-`sources/whats-in-a-word/raw/9513-stop-it.md`. Primary loci: Shemos 9:29, 9:33,
-9:34, 23:5, 36:6; Mishlei 1:15; Bereishis 8:2, 11:8, 18:11, 20:6, 22:12, 22:16,
-30:2, 39:9, 41:49; Tehillim 40:12; Bamidbar 9:13, 24:11; Devarim 15:11; Shmuel II
-13:13; Rashi to Bereishis 18:11; Malbim, *Ayeles HaShachar* 461 and to Vayikra
-2:13, 26:6, and *Yair Ohr* on how *shabbas* differs from this set.
+Rabbi Reuven Chaim Klein, "[Stop It!](https://articles.ohr.edu/articles/stop-it)," *What's in a Word?*, Ohr Somayach, 1 January 2022.
+
+Cited in the essay: Bereishis 8:2, 11:8, 18:11, 20:6, 22:12, 22:16, 30:2, 39:9, 41:49; Shemos 9:29, 9:33, 9:34, 23:5, 36:6; Bamidbar 9:13, 24:11; Devarim 15:11; Shmuel II 13:13; Tehillim 40:12; Mishlei 1:15; Rabbi Yosef Grayever of Ostrow; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim; Malbim, *Ayeles HaShachar* 461, to Vayikra 2:13 and 26:6, and *Yair Ohr*; Targum Onkelos and the so-called Targum Yonasan; Rashi to Bereishis 18:11; Rabbi Yaakov Toledano of Meknes; Rabbi Rafael Binyamin Posen.

@@ -46,10 +46,9 @@ of the windpipe, the ringed exterior and the inner membrane, and the difference
 has halachic weight. In Tanach *garon* and *gargeres* often mean the visible
 **throat** or **neck** rather than the pipe inside it, and Rabbi Pappenheim even
 takes *garon* as the food pipe first; from the Mishnah on, *gargeres* and
-*kaneh* are technical and their partner is *veshet*, the **food pipe**. The one
-thing not to get wrong: in any *shechitah* context *gargeres* or *kaneh* is the
-windpipe and *veshet* the esophagus, and rendering either loosely as "throat"
-destroys the halachah.
+*kaneh* are technical and their partner is *veshet*, the **food pipe**. In any
+*shechitah* context *gargeres* or *kaneh* is the windpipe and *veshet* the
+esophagus.
 
 ## At a glance
 
@@ -86,8 +85,7 @@ destroys the halachah.
 Rabbi Klein notes that Pappenheim's reading would dissolve the difficulty of the
 rabbinic *gargaran* and *hana'as grono* (below), but that the fact remains that
 in rabbinic literature *gargeres* always stands against the *veshet*, so there
-it must be the windpipe. The Bottom line follows Malbim for Tanach and the
-Mishnah's usage for rabbinic texts.
+it must be the windpipe.
 
 **Are garon and gargeres different words at all?** Both are built on ג-ר.
 Menachem Ibn Saruk (*Machberes Menachem*) does not seem to posit any difference,
@@ -112,9 +110,6 @@ surrounds the *garon*, without spelling out what that means.
    Rabbi Yaakov Weil holds that the majority is measured by the circumference of
    the inner *kaneh* alone, not the outer *gargeres* (see *Shach*, *Yoreh Deah*
    21:1, and *Pri Megadim*, *Siftei Daas*, there).
-
-The Bottom line follows Rabbi Yaakov Emden for translation and flags Rabbi Yaakov
-Weil wherever a halachic measurement is at stake.
 
 **Why a glutton is a gargaran.** The word is clearly built from *gargeres*, the
 windpipe, yet gorging is done with the *veshet* (*Taharos* 7:9; Targum to Eichah
@@ -155,7 +150,7 @@ measuring stick, and never the windpipe; all are long pipe-like things,
 typically hollow, which is how rabbinic Hebrew came to use it for the trachea.
 Rabbi Klein adds that *kinamon*, cinnamon, which grows as pipe-like sticks, might
 belong with them. (Rabbi Pappenheim connects these words to the two-letter ק-נ
-in a different way, which the article leaves for another time.) The Mishnah
+in a different way, which the column leaves for another time.) The Mishnah
 (*Tamid* 4:3) has one Kohen bring the heart, lungs, and *kaneh* to the altar,
 where the company of heart and lungs settles the meaning. In the Bavli *kaneh* is
 the standard term, regularly paired with *veshet* in place of the Mishnaic
@@ -211,14 +206,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Gorgeous Windpipe](https://articles.ohr.edu/articles/the-gorgeous-windpipe)," What's in a Word?, Ohr
-Somayach, 26 Sivan 5782 (2022-06-25): raw text in
-`sources/whats-in-a-word/raw/9745-the-gorgeous-windpipe.md`. Primary loci the
-article cites: Yeshayahu 3:16, 58:1; Yirmiyahu 2:25; Yechezkel 16:11; Tehillim
-5:10, 69:4, 115:7, 149:6; Mishlei 1:9, 3:3, 3:22, 6:21; Iyov 40:16; Eichah 1:11;
-Koheles 12:6; *Mishnah Chullin* 2:1, 2:4, 3:1-4, 10:4; *Negaim* 10:9; *Taharos*
-7:9 with Rambam, *Tosafos Yom Tov* and *Lechem Shamayim*; *Niddah* 10:8; *Tamid*
-4:3; *Chullin* 18a-19a and following, 103b; *Pesachim* 108a; *Taanis* 5b;
-*Vayikra Rabbah* 18:1; *Koheles Rabbah* 12:6; Rashi to *Chullin* 18a; *Shach*,
-*Yoreh Deah* 21:1 with *Pri Megadim*, *Siftei Daas*; Rabbi Binyamin Mussafia,
-*Mussaf HeAruch*; the Old French, Latin, Spanish and English throat words.
+Rabbi Reuven Chaim Klein, "[The Gorgeous Windpipe](https://articles.ohr.edu/articles/the-gorgeous-windpipe)," *What's in a Word?*, Ohr Somayach, 25 June 2022.
+
+Cited in the essay: Yeshayahu 3:16, 58:1; Yirmiyahu 2:25; Yechezkel 16:11; Tehillim 5:10, 69:4, 115:7, 149:6; Mishlei 1:9, 3:3, 3:22, 6:21; Iyov 40:16; Eichah 1:11; Koheles 12:6; Mishnah *Chullin* 2:1, 2:4, 3:1-4, 10:4, *Tamid* 4:3, *Negaim* 10:9, *Niddah* 10:8, *Taharos* 7:9; *Pesachim* 108a; *Taanis* 5b; *Chullin* 18a-19a, 21a, 28a-29a, 30b, 32b, 40b, 44a, 45a, 50a, 54a, 57b, 85b, 103b; *Vayikra Rabbah* 18:1; *Koheles Rabbah* 12:6; Targum to Eichah 1:11; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Ezra to Mishlei 1:9; Rabbi Moshe Kimchi to Iyov 40:16; Rashi to Mishlei 1:9 and *Chullin* 18a; Malbim; Rabbi Shlomo Pappenheim; Rambam, commentary to the Mishnah, *Taharos* 7:9; Rabbi Yom Tov Lipmann Heller, *Tosafos Yom Tov* to *Taharos* 7:9; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Rabbi Yaakov Emden, *Lechem Shamayim*; Rabbi Tanchum HaYerushalmi; Rabbi Yaakov Weil; Rabbi Amitai Ben-David, *Sichas Chullin* to *Chullin* 18a, 44a, 45a; *Shach*, *Yoreh Deah* 21:1, with *Pri Megadim*, *Siftei Daas*; Rabbi Yosef de Bonne of Stadthagen; Rabbi Meir Batzri.

@@ -31,7 +31,7 @@ between the Hebrew pair evident from that split. *Gallal* is "tooth" only as the
 Gemara reads it, in context the tort category of tooth damage. *Chit*, in
 Rabbinic literature only in one Mishnah and its Sifra parallel, is disputed: the
 **gums** (Rashi) or the **teeth** themselves (the Mainz commentary ascribed to
-Rabbeinu Gershom, and the *Aruch*). Do not render *mesalos* simply "teeth."
+Rabbeinu Gershom, and the *Aruch*).
 
 ## Distinctions
 
@@ -181,18 +181,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Showing Teeth](https://articles.ohr.edu/articles/showing-teeth)," What's in a Word?, Ohr Somayach, 1
-Iyar 5783 (2023-04-22): raw text in
-`sources/whats-in-a-word/raw/10931-showing-teeth.md`. Primary loci: Iyov 19:20,
-29:17; Yoel 1:6; Mishlei 10:26, 23:2, 30:14, 31:9; Tehillim 3:8, 35:16, 45:9,
-58:7; Shemos 21:24; Bereishis 25:30 with Shadal; Melachim I 10:18, 14:10, 22:39;
-Divrei HaYamim II 9:17; Shir HaShirim 7:5; Amos 3:15, 4:6, 6:4; Yeshayahu 57:19;
-Malachi 1:12; Ezra 5:8, 6:5; Mishnah Bava Kamma 1:4, 2:2, 2:5; Rosh Hashanah
-2:8; Shabbos 6:5, 19:2, 24:3; Pesachim 2:7; Niddah 9:7; Chullin 1:2; Keilim
-13:2-8; Bechoros 6:4, 6:12; Gemara Bava Kamma 2b, 3a, 83a; Chullin 59a;
-Bechoros 35a; Berachos 56a; Pesachim 113a; Yoma 84a; Shabbos 63b, 89b; Kesubos
-71a, 111b; Avodah Zarah 28a; Gittin 69a; Sifra, *Emor parshasa* 7:12; Shulchan
-Aruch, Yoreh Deah 79:1; the Haggadah. Rabbi Moshe Tedeschi Ashkenazi, *Otzar
-Nirdafim*; Ibn Parchon, *Machberes HaAruch*; Rabbi Nosson of Rome, *Sefer
-HaAruch*; Dr. Alexander Kohut, *HaAruch HaShaleim*; Dr. Daniel Vainstub and
-colleagues, *Jerusalem Journal of Archaeology* (2022), on the Lachish comb.
+Rabbi Reuven Chaim Klein, "[Showing Teeth](https://articles.ohr.edu/articles/showing-teeth)," *What's in a Word?*, Ohr Somayach, 22 April 2023.
+
+Cited in the essay: Bereishis 25:30; Shemos 21:24; Melachim I 10:18, 14:10, 22:39; Yeshayahu 57:19; Yoel 1:6; Amos 3:15, 4:6, 6:4; Malachi 1:12; Tehillim 3:8, 35:16, 45:9, 58:7; Mishlei 10:26, 23:2, 30:14, 31:9; Iyov 19:20, 29:17; Shir HaShirim 7:5; Ezra 5:8, 6:5; Divrei HaYamim II 9:17; Mishnah Shabbos 6:5, 19:2, 24:3, Pesachim 2:7, Rosh Hashanah 2:8, Bava Kamma 1:4, 2:2, 2:5, Chullin 1:2, Bechoros 6:4, 6:12, Keilim 13:2-8, Niddah 9:7; Berachos 56a; Shabbos 63b, 89b; Pesachim 113a; Yoma 84a; Kesubos 71a, 111b; Gittin 69a; Bava Kamma 2b, 3a, 83a; Avodah Zarah 28a; Chullin 59a; Bechoros 35a; Sifra, *Emor parshasa* 7:12; the Haggadah; Shulchan Aruch, Yoreh Deah 79:1; the Targumim; Menachem Ibn Saruk; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim; *Shoresh Yesha*; Rabbi David Chaim Chelouche; Rabbi Moshe Tedeschi Ashkenazi, *Otzar Nirdafim*; Shadal to Bereishis 25:30; Rashi to Yoel 1:6, Mishlei 30:14, Berachos 56a, Shabbos 63b, Bava Kamma 3a and 83a, Chullin 59a and Bechoros 35a; *Biur HaGra* to Mishlei 31:9; Rabbi Shlomo Ibn Parchon, *Machberes HaAruch*; Tosafos to Bava Kamma 2b, Gittin 69a, Avodah Zarah 28a and Chullin 59a; Rabbeinu Chananel; the Mainz commentary ascribed to Rabbeinu Gershom to Bechoros 35a; Rabbi Nosson of Rome, *Sefer HaAruch*; Rambam to Bechoros 6:4; Dr. Daniel Vainstub and colleagues, *Jerusalem Journal of Archaeology* (2022); Dr. Alexander Kohut, *HaAruch HaShaleim*.

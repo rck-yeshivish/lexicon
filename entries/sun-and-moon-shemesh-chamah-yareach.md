@@ -52,9 +52,7 @@ at sunrise and sunset. *Yareach* is the **moon** as the traveler on its path;
 *levanah* the **moon** as the white one; *sahar* the **crescent**, the moon by
 its shape, though others note it is an Aramaic loanword sometimes used for the
 moon. The account is Rabbi Aharon Marcus's, who adds that the words may
-represent successive stages in man's relationship with the sun and moon. In
-ordinary translation all three suns are "the sun" and all three moons "the
-moon"; surface the aspect only where the passage turns on it.
+represent successive stages in man's relationship with the sun and moon.
 
 ## At a glance
 
@@ -73,22 +71,22 @@ moon"; surface the aspect only where the passage turns on it.
 bakes pottery, and pottery was a mainstay of ancient civilization, so the sun is
 named for what it makes possible. Others: because the sun takes on a reddish,
 pottery-like hue at sunrise and at sunset, so it is named for how it looks. The
-Bottom line carries both, since the article gives no ground for choosing.
+column gives no ground for choosing between them.
 
 **Whether *sahar* is Hebrew.** Rabbi Aharon Marcus counts it as the third Hebrew
 word for the moon, the one that names it by its shape. Others hold *sahar* is not
 really Hebrew but an Aramaic loanword sometimes used for the moon. On Rabbi
 Marcus's view the word carries the crescent shape; on the loanword view the
-article says only that it is used for the moon.
+column says only that it is used for the moon.
 
 **Whether the staged history is admissible.** Rabbi Aharon Marcus holds that the
 six words may also represent different stages in the history of man's
-relationship with the sun and moon. The article notes that some might reject
+relationship with the sun and moon. The column notes that some might reject
 this historical aspect of the explanation, because it would seem to contradict
 the Divine origin of the Hebrew language, and answers that the basic argument
 still holds: the three words for the sun and the three for the moon somewhat
 parallel each other in their focus on different aspects of the sun and the
-moon. That is the part a translator needs.
+moon.
 
 ## Distinctions
 
@@ -107,7 +105,7 @@ identify the two luminaries yet downplay their importance: *shemesh*, the
 servant, highlighting its subservience to Hashem, and *yareach*, related to
 *orach*, a path, for the moon's orbital path in the heavens. Both names in time
 came to be used as names of the idolatrous gods of the sun and the moon
-themselves, and the article notes that archeologists have identified the
+themselves, and the column notes that archeologists have identified the
 worship of Shammash and Yarikh in ancient Canaan and Mesopotamia. This is what
 necessitated the coining of the next pair. Place-names reflecting the old
 practices are still in use: Beis Shemesh, the house of the sun, and Yericho,
@@ -139,11 +137,11 @@ the moon.
   is what the word contributes; on the view that it is an Aramaic loanword for
   the moon, plain "moon" is defensible.
 - Watch the homographs. *Cheres* spelled the same way is the skin affliction of
-  Devarim 28:27, treated in `boils-shechin-garav-cheres.md`, and in Mishnaic
+  Devarim 28:27, treated in [boils](boils-shechin-garav-cheres.html), and in Mishnaic
   Hebrew *cheres* is an earthenware shard in the ordinary sense. *Yerach*, the
   month, is the same root as *yareach* and is treated in
-  `month-chodesh-yerach.md`; for *lavan*, white, see
-  `white-lavan-chivar-tzochar.md`, and for the place-name, `jericho-yereicho-yericho.md`.
+  [month](month-chodesh-yerach.html); for *lavan*, white, see
+  [white](white-lavan-chivar-tzochar.html), and for the place-name, [Jericho](jericho-yereicho-yericho.html).
 
 ## Notes for a project
 
@@ -151,13 +149,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[My Three Suns (and Moons)](https://articles.ohr.edu/articles/my-three-suns-and-moons)," What's in a Word?, Ohr
-Somayach, 30 Av 5776 (2016-09-03): raw text in
-`sources/whats-in-a-word/raw/6916-my-three-suns-and-moons.md`. The treatment is
-Rabbi Aharon Marcus's (sometimes known as the Chasid from Hamburg), with two
-anonymous "others": the pottery-hue reading of *cheres* and the Aramaic-loanword
-view of *sahar*. The archeological identification of Shammash and Yarikh is the
-article's, credited to archeologists without names. Loci the article cites:
-Bereishis 1, for the two unnamed luminaries; Vayikra 26:30, the *chaman*;
-Yeshayahu 3:18, the *saharonim*. Devarim 28:27 and the homographs in the
-rendering guidance are pointers to other entries, not from this article.
+Rabbi Reuven Chaim Klein, "[My Three Suns (and Moons)](https://articles.ohr.edu/articles/my-three-suns-and-moons)," *What's in a Word?*, Ohr Somayach, 3 September 2016.
+
+Cited in the essay: Bereishis 1; Vayikra 26:30; Yeshayahu 3:18; Rabbi Aharon Marcus.

@@ -29,18 +29,15 @@ updated: 2026-09-10
 ## Bottom line
 
 Both mean **stoning**, and Targum renders both *sekilah* and *regimah* as
-*regimah* (Rabbi Eliyahu HaBachur, *Meturgaman*), so any difference has to be
-carried by the English. Rabbi Shlomo Pappenheim makes *sekilah* the act of
-throwing and *regimah* the result, the victim subdued and immobile; Yashar
-similarly makes *sekilah* stoning that need not kill, hence the Torah's added
-"he shall be put to death," and *regimah* stoning to death. Rabbi Yehuda Leib
-Shapira-Frankfurter: *sekilah* is a means of killing that one stone could
-accomplish, *regimah* a whole heap thrown by many. *Sefer HaChachmah* reverses
-the pair, and Rabbi Moshe Tedeschi Ashkenazi admits no clear line holds in
-usage. The Bottom line follows Pappenheim and Yashar: render *sekilah*
-**stoning** or **pelting with stones**, *regimah* **stoning to death**. The root
-ס-ק-ל also means clearing a field of stones, the opposite use of stones (Ibn
-Janach, Radak), so context alone decides.
+*regimah* (Rabbi Eliyahu HaBachur, *Meturgaman*). Rabbi Shlomo Pappenheim makes
+*sekilah* the act of throwing and *regimah* the result, the victim subdued and
+immobile; Yashar similarly makes *sekilah* stoning that need not kill, hence the
+Torah's added "he shall be put to death," and *regimah* stoning to death. Rabbi
+Yehuda Leib Shapira-Frankfurter: *sekilah* is a means of killing that one stone
+could accomplish, *regimah* a whole heap thrown by many. *Sefer HaChachmah*
+reverses the pair, and Rabbi Moshe Tedeschi Ashkenazi admits no clear line holds
+in usage. The root ס-ק-ל also means clearing a field of stones, the opposite use
+of stones (Ibn Janach, Radak), so context alone decides.
 
 ## At a glance
 
@@ -71,9 +68,8 @@ only a means to killing, and even one stone would theoretically suffice, while
 he is already dead; so where *regimah* is used, Scripture or Mishnah typically
 says the entire nation did it. *Sefer HaChachmah* (ascribed to the late
 twelfth-century Rabbi Elazar Rokeach of Worms) reverses them: *regimah* is the
-throwing, *sekilah* the resulting pile of stones. The Bottom line follows
-Pappenheim and Yashar; the added "he shall be put to death" is Yashar's own
-argument, and his "usually" is load-bearing (see Sources).
+throwing, *sekilah* the resulting pile of stones. The added "he shall be put to
+death" is Yashar's own argument, and his "usually" is load-bearing.
 
 **Why Yehoshua 7:25 uses both on Achan.** Rashi (see also Targum and Radak
 there): Achan himself received *regimah*, the animals he took *sekilah*. Yashar:
@@ -100,20 +96,19 @@ row).
 
 ### sekilah (סקילה)
 Twenty occurrences in the sense of stoning to death: for approaching Har Sinai
-(Shemos 19:13), the ox that kills a person (Shemos 21:28-29, 21:32), the idolater
-(Devarim 17:5) and the one who incites to idolatry (Devarim 13:11), the betrothed
-*naarah* who commits adultery and her paramour (Devarim 22:21, 22:24). It is
-also used where nobody dies: Moshe tells Pharaoh the Egyptians would stone the
-Jews for slaughtering their gods (Shemos 8:22, a verse the column does not
-number); "a little more and they will stone me" (Shemos 17:4); Dovid HaMelech's
-similar fear (Shmuel I 30:6); and Shimi ben Geira's actual stoning of Dovid, who
-survived (Shmuel II 16:6, 16:13). Fatal instances: Achan (Yehoshua 7:25) and
-Navos (Melachim I 21:10-15; the column prints 23:10-15). In the Mishnah it is
-used of stoning a person or animal to death (among many places, *Sanhedrin* 6:1,
-7:4) and of stoning a dead man's coffin (*Eduyos* 5:6). Twice in Tanach the root
-means the reverse, clearing stones away: Yeshayahu 62:10 and the vineyard
-mashal of Yeshayahu 5:2, a usage that carries into Mishnah *Shevi'is* 2:3 and
-3:7.
+(Shemos 19:13), the ox that kills a person (Shemos 21:28-29, 21:32), the
+idolater (Devarim 17:5) and the one who incites to idolatry (Devarim 13:11), the
+betrothed *naarah* who commits adultery and her paramour (Devarim 22:21, 22:24).
+It is also used where nobody dies: Moshe tells Pharaoh the Egyptians would stone
+the Jews for slaughtering their gods (Shemos 8:22); "a little more and they will
+stone me" (Shemos 17:4); Dovid HaMelech's similar fear (Shmuel I 30:6); and
+Shimi ben Geira's actual stoning of Dovid, who survived (Shmuel II 16:6, 16:13).
+Fatal instances: Achan (Yehoshua 7:25) and Navos (Melachim I 21:10-15). In the
+Mishnah it is used of stoning a person or animal to death (among many places,
+*Sanhedrin* 6:1, 7:4) and of stoning a dead man's coffin (*Eduyos* 5:6). Twice
+in Tanach the root means the reverse, clearing stones away: Yeshayahu 62:10 and
+the vineyard mashal of Yeshayahu 5:2, a usage that carries into Mishnah
+*Shevi'is* 2:3 and 3:7.
 
 ### regimah (רגימה)
 Sixteen occurrences in the sense of stoning to death: the *megadef* of Vayikra
@@ -178,14 +173,14 @@ and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) compares *esnan* from ת-נ.
 relationship is not clear. Rabbi Refael Gruskin: as *regimah* throws stones from
 place to place, *targum* transfers a text from one language to another. Rabbi
 Chaim Hirschensohn (1857 to 1935): "speaking," with *regimah* itself from
-*rikmah*, speech woven of sounds, letters and words. Rabbi Yaakov Yehudah Zilberberg Di Kasif
-(1914 to 2003): smooth and coherent speech, by a link to the root the column
-finds unclear. Rabbi Binyamin Kohen-Shauli (1942 to 1971): a metathesis of
-Aramaic ג-מ-ר, to learn. Rabbi Yaakov Loyfer (introduction to Targum Onkelos in
-*Otzar HaRishonim*): "elucidated speech," from ר-ג-מ as the Ugaritic "say." The
-column compares Yiddish *taytsh*, "translate," an early form of German *deutsch*
-before the *t* became *d* under Grimm's Law, and cognate with English
-"Teutonic."
+*rikmah*, speech woven of sounds, letters and words. Rabbi Yaakov Yehudah
+Zilberberg Di Kasif (1914 to 2003): smooth and coherent speech, by a link to the
+root the column finds unclear. Rabbi Binyamin Kohen-Shauli (1942 to 1971): a
+metathesis of Aramaic ג-מ-ר, to learn. Rabbi Yaakov Loyfer (introduction to
+Targum Onkelos in *Otzar HaRishonim*): "elucidated speech," from ר-ג-מ as the
+Ugaritic "say." The column compares Yiddish *taytsh*, "translate," an early form
+of German *deutsch* before the *t* became *d* under Grimm's Law, and cognate
+with English "Teutonic."
 
 ## Rendering guidance
 
@@ -207,20 +202,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Emor: Getting Stoned](https://articles.ohr.edu/articles/emor-getting-stoned)," What's in a Word?, Ohr
-Somayach, 15 Iyar 5783 (2023-05-06): raw text in
-`sources/whats-in-a-word/raw/10935-emor-getting-stoned.md`. Primary loci cited:
-Vayikra 20:2, 20:27, 24:10-23; Shemos 17:4, 19:13, 21:28-29, 21:32, 26:1;
-Bamidbar 14:10, 15:35-36; Devarim 13:11, 17:5, 21:21, 22:21, 22:24; Yehoshua
-7:25; Shmuel I 30:6; Shmuel II 16:6, 16:13; Melachim I 12:18, 21:10-15 (the
-column prints 23:10-15); Yeshayahu 5:2, 62:10; Yechezkel 16:40, 23:47; Iyov
-21:33, 38:38; Zechariah 7:2, 7:7; Tehillim 68:28; Mishlei 26:8; Ezra 4:7; Divrei
-HaYamim I 2:47; Divrei HaYamim II 10:18, 24:21; Chullin 133a; Mishnah *Sukkah*
-4:9, *Sanhedrin* 6:4, *Eduyos* 5:6, *Shevi'is* 2:3 and 3:7, and the column's
-longer list of Mishnayos on stoning; *Machberes Menachem*; Ibn Janach and Radak,
-*Sefer HaShorashim*; *HaKsav VeHaKabbalah* to Vayikra 24:16; *Otzar Nirdafim*;
-*Ohalei Yehuda*; *Sefer HaChachmah*; *Meturgaman*; *Sefer HaTishbi*; *Milon
-Leshon HaMikra*; *Hipuch Osiyos*; *Mishnas Rabbi Eliezer* ch. 3; Abarbanel,
-*Mashmia Yeshuah* 14:2; *Otzar HaRishonim*. Shemos 8:22 is supplied from the
-text. Yashar's "usually" matters: Vayikra 20:2, 20:27 and 24:16 do join *mos
-yumas* to *regimah*.
+Rabbi Reuven Chaim Klein, "[Emor: Getting Stoned](https://articles.ohr.edu/articles/emor-getting-stoned)," *What's in a Word?*, Ohr Somayach, 6 May 2023.
+
+Cited in the essay: Shemos 8:22, 17:4, 19:13, 21:28-29, 21:32, 26:1; Vayikra 20:2, 20:27, 24:10-23, 24:16; Bamidbar 14:10, 15:35-36; Devarim 13:11, 17:5, 21:21, 22:21, 22:24; Yehoshua 7:25; Shmuel I 30:6; Shmuel II 16:6, 16:13; Melachim I 12:18, 21:10-15; Yeshayahu 5:2, 62:10; Yechezkel 16:40, 23:47; Zechariah 7:2, 7:7; Tehillim 68:28; Mishlei 26:8; Iyov 21:33, 38:38; Ezra 4:7; Divrei HaYamim I 2:47; Divrei HaYamim II 10:18, 24:21; Mishnah *Shevi'is* 2:3 and 3:7, *Sukkah* 4:9, *Sanhedrin* 6:1, 6:4, 7:4, *Eduyos* 5:6; Chullin 133a; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui* and *Sefer HaChukah*; Rashi, Targum and Radak to Yehoshua 7:25; Meiri to Mishlei 26:8; Rabbi Eliyahu HaBachur, *Meturgaman* and *Sefer HaTishbi*; Rabbi Shlomo Pappenheim; Rabbi Moshe Tedeschi Ashkenazi, *Otzar Nirdafim*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Vayikra 24:16; Yashar; Rabbi Yehuda Leib Shapira-Frankfurter; *Sefer HaChachmah*; Rav Hirsch to Shemos 26:1; Rabbi Yehoshua Steinberg; Rabbi Yaakov Berger, *Milon Leshon HaMikra*; *Ohalei Yehuda*; Rabbi Aharon Marcus; Rabbi Avi Kobernick, *Hipuch Osiyos*; Rabbi Yitzchak Ginsburgh; *Mishnas Rabbi Eliezer* ch. 3; Ibn Ezra to Zechariah 7:2 and Tehillim 68:28; Radak to Zechariah 7:2; Abarbanel to Zechariah 7:7 and *Mashmia Yeshuah* 14:2; Avraham Shmuel Herschberg; Rabbi Refael Gruskin; Rabbi Chaim Hirschensohn; Rabbi Yaakov Yehudah Zilberberg Di Kasif; Rabbi Binyamin Kohen-Shauli; Rabbi Yaakov Loyfer, introduction to Targum Onkelos in *Otzar HaRishonim*.

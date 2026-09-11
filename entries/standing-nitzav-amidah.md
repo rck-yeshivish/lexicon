@@ -27,10 +27,9 @@ Yaakov Tzvi Mecklenburg. Two other readings stand beside it: Rabbi Tzvi
 Elimelech Shapiro of Dinov, who concedes there are counter-proofs, makes
 *nitzav* standing anew and *amidah* standing already; Rabbi Shlomo Aharon
 Wertheimer makes *nitzav* prolonged standing, so that *amidah* may be
-momentary. The Bottom line follows the purpose reading. What a translator must
-not do is render both "stood" in a pasuk that switches from one to the other;
-the column's sources repeatedly build on exactly those switches, though
-*Metzudas David* holds the two synonymous at Divrei HaYamim II 20:17.
+momentary. The column's sources repeatedly build on a pasuk's switch from one
+to the other, though *Metzudas David* holds the two synonymous at Divrei
+HaYamim II 20:17.
 
 ## Distinctions
 
@@ -57,7 +56,7 @@ river's edge before makkas dam (Shemos 7:15).
   (to Esther 3:14) uses the same Greek word to render *atidim*, "prepared."
   Targum often renders *nitzav* cognates with the root ע-ת-ד, which gives
   *atid*, prepared, future (Bereishis 28:13; Shemos 2:4, 8:16, 34:2; Shmuel I
-  1:16, as the column cites it).
+  1:26).
 - Pappenheim: *amidah* is teleologically neutral, while *nitzav* is standing for
   a specific purpose. Yaakov's ladder is *mutzav* (Bereishis 28:12) because it
   was purposefully set up standing so as to be used later for going up and down.
@@ -141,14 +140,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Parshas Bo: Please Stand Up](https://articles.ohr.edu/articles/parshas-bo-please-stand-up)," What's in a Word?, Ohr
-Somayach, 6 Shvat 5783 (2023-01-28): raw text in
-`sources/whats-in-a-word/raw/10810-parshas-bo-please-stand-up.md`. Primary loci:
-Bereishis 18:22, 24:13, 24:30, 28:12, 28:13; Shemos 2:4, 5:20, 7:15, 8:16,
-14:13, 18:13-14, 26:15, 34:2; Yehoshua 10:13; Shmuel I 1:16, 19:20; Yeshayahu
-3:13 with Rashi; Divrei HaYamim II 20:17 with *Metzudas David* and Malbim;
-Esther 3:14 (*Targum Sheini*); Nedarim 64b; *Bereishis Rabbah* 48:7; *Shir
-HaShirim Rabbah* 2:21; *Shocher Tov* to Tehillim 22:19; *Pesikta Rabbasi* 15;
-Rambam, Hilchos Talmud Torah 4:2; Pappenheim on the root צ-ב, cited in
-*HaKesav VeHaKabbalah* and *Yair Ohr*. Shmuel I 1:16 has no form of *nitzav*;
-the verse with one is presumably 1:26 (הַנִּצֶּבֶת עִמְּכָה).
+Rabbi Reuven Chaim Klein, "[Parshas Bo: Please Stand Up](https://articles.ohr.edu/articles/parshas-bo-please-stand-up)," *What's in a Word?*, Ohr Somayach, 28 January 2023.
+
+Cited in the essay: Bereishis 18:22, 24:13, 24:30, 28:12, 28:13; Shemos 2:4, 5:20, 7:15, 8:16, 14:13, 18:13-14, 26:15, 34:2; Yehoshua 10:13; Shmuel I 1:26, 19:20; Yeshayahu 3:13; Divrei HaYamim II 20:17; Esther 3:14; Nedarim 64b; *Bereishis Rabbah* 48:7; *Shir HaShirim Rabbah* 2:21; *Shocher Tov* to Tehillim 22:19; *Pesikta Rabbasi* 15 (*HaChodesh*); Targum; *Targum Sheini* to Esther 3:14; Rashi to Yeshayahu 3:13; Rabbi Tzvi Elimelech Shapiro of Dinov; Rabbi Shlomo Pappenheim; Malbim, *Yair Ohr* and to Divrei HaYamim II 20:17; Radak to Shmuel I 19:20; *Metzudas David* to Divrei HaYamim II 20:17; Rabbi Shimon Dov Ber Analak; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*; Rabbi Shlomo Aharon Wertheimer; Rambam, Hilchos Talmud Torah 4:2.

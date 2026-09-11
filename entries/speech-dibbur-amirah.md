@@ -15,21 +15,19 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Dibbur* is speech as an act: forceful, bold, sustained, and complete whether or
-not anyone receives it. Render it **speak, address, discourse**. *Amirah* is
-speech as communication: gentle, brief, aimed at a hearer who takes the meaning
-in. Render it **say, tell**. The one thing not to get wrong: Rashi's "*dibbur*
-is harsh, *amirah* is soft" is a register claim about tone, not a claim that
-*dibbur* means rebuke, and it is limited from several directions (Mecklenburg,
-the Gemara on *yadber*, Maharal, *Moshav Zekanim*). Where the pasuk gives no
-tonal cue, Rav Hirsch's reading (act of speech against act of communication) is
-available. But the direction is not settled: Malbim reverses the force of the
-two, and the Vilna Gaon to Bamidbar 22:5 seems to make *dibbur* the more
+*Dibbur* is speech as an act (**speak, address, discourse**): forceful, bold,
+sustained, and complete whether or not anyone receives it. *Amirah* is speech as
+communication (**say, tell**): gentle, brief, aimed at a hearer who takes the
+meaning in. Rashi's "*dibbur* is harsh, *amirah* is soft" is a register claim
+about tone, not a claim that *dibbur* means rebuke, and it is limited from
+several directions (Mecklenburg, the Gemara on *yadber*, Maharal, *Moshav
+Zekanim*). Rav Hirsch reads the pair as act of speech against act of
+communication. But the direction is not settled: Malbim reverses the force of
+the two, and the Vilna Gaon to Bamidbar 22:5 seems to make *dibbur* the more
 communicative of them. *Aseres HaDibros* is "Ten Sayings" or "Decalogue"; the
-article's line is that this "would be better" than "Ten Commandments," said with
+column's line is that this "would be better" than "Ten Commandments," said with
 all due respect to Cecil B. DeMille and Charlton Heston. *Asarah Maamaros* is
-"Ten Sayings" too in the article; "Ten Utterances" is ours, to keep the pair
-distinct in English.
+"Ten Sayings" too in the column.
 
 ## Distinctions
 
@@ -48,7 +46,7 @@ strong, forceful terms in it, but the Gemara (*Makkos* 11a) separates the two:
 (*Nesivos Olam*): in the context of Torah study *dibbur* is always pleasant, and
 only in other contexts is it harsh. *Moshav Zekanim* (to Shemos 6:2) confines
 the harsh sense to the Chumash, against the rest of Tanach. Cutting the other
-way again, the article points (in its discussion of *amirah* and love) to
+way again, the column points (in its discussion of *amirah* and love) to
 *Sifsei Chachamim* on Devarim 2:16, which deals with the implication of Rashi's
 comment there that *dibbur* is a term of endearment. Zohar (*Idra Rabbah*, the commentary to
 Parashas Naso, 132b): *dibbur* requires raising the voice to make a forceful
@@ -141,7 +139,7 @@ sacrificed brevity for clarity, hence *dibros*. Following Mecklenburg's
 *amirah* verb because they were the ultimate change in reality, from nothing to
 something.
 
-The article's own closing answer is psychological: when a person feels the
+The column's own closing answer is psychological: when a person feels the
 weight of living up to expectations, those expectations feel as though they were
 said in harsh, demanding terms even if objectively they were not, so the
 Decalogue, which lays out Hashem's expectations of us, is *Dibros*; whereas the
@@ -156,7 +154,7 @@ Rashi's alternative: forms of glory and pride, citing *yisamru* (Tehillim 94:4).
 Rav Saadia Gaon (882 to 942) adds two more. First, expressions of "being on
 top," just as the *amir* (Yeshayahu 17:6) is the most important branch of a tree
 because it is on top: Hashem put the Jews on top and the Jews put Hashem on top.
-The article connects this to the Arabic *Emir*, "military commander" or "tribal
+The column connects this to the Arabic *Emir*, "military commander" or "tribal
 chief," who sits atop the hierarchical society he presides over (see Bartenura
 to *Shekalim* 5:3). Dunash ibn Labrat (925 to 990), Rav Saadia's interlocutor,
 preferred this first approach, which in some ways resembles Rashi's glory and
@@ -174,7 +172,7 @@ many others) read *amirah* as an expression of love, so that the passages mean
 Hashem showed His love for the Jewish People and they in turn showed their love
 for Him. What is the philological basis? One might perhaps suggest the Latin
 *amor*, "love," the basis of English *amorous* and *enamored*, which sounds like
-a homonym of *amirah*; but the article calls it quite implausible that these
+a homonym of *amirah*; but the column calls it quite implausible that these
 chassidishe masters based their teaching on a Latin homonym, and offers a much
 sounder basis. The Targumim render these words *chativah*; *chativah* in
 biblical Hebrew is "splitting" or "chopping," which might be the basis of
@@ -202,7 +200,7 @@ Rishonim and even alluded to in the Targumim.
   *tzivah*. Rabbi Moshe Feinstein builds on *vayomer* in the *tzitzis* parashah
   (Bamidbar 15:37) precisely because the verb there is not the usual
   *vayedaber*; he applies Malbim's absolute-against-proposition principle, but
-  reasons from it in the exact opposite direction, and the article does not
+  reasons from it in the exact opposite direction, and the column does not
   report Malbim himself on that pasuk.
 - *Aseres HaDibros*: "Ten Sayings" or "Decalogue," which the column says
   "would be better" than the popular "Ten Commandments." Any derashah on
@@ -217,20 +215,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shavuot Special Feature!](https://articles.ohr.edu/articles/shavuot-special-feature)", What's in a Word?, Ohr
-Somayach, 5 Sivan 5779 (2019-06-08): raw text in
-`sources/whats-in-a-word/raw/8272-shavuot-special-feature.md`. The piece runs in
-two parts under the title "That's Amore!": Part 1, "The Ten Sayings," and Part
-2, "The Speech of Love." Primary loci: Bereishis 34:3, 42:30; Shemos 6:2, 13:1,
-19:3, 32:7; Vayikra 10:19, 21:1; Bamidbar 12:1, 15:37, 22:5; Devarim 2:16,
-26:17-18, 32:1; Yeshayahu 17:6; Tehillim 19:4, 47:4, 94:4; *Avos* 5:1; *Makkos*
-11a; *Berachos* 6a; Zohar *Idra Rabbah* (to Naso) 132b, Zohar Bereishis 239b and
-Zohar Shemos 161a; Maharal, *Nesivos Olam*; *Moshav Zekanim* to Shemos 6:2;
-*Sefer HaChachmah*; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, with Rabbi Wolf
-Heidenheim's notes; *Sifsei Chachamim* to Devarim 2:16; Bartenura to *Shekalim*
-5:3. The article's comparative material is reported as it stands there: the
-Arabic *Emir* behind Rav Saadia's "on top" reading, and the Latin *amor*, which
-the article raises only to reject as a basis for the chassidishe reading. The
-column marks several of its own applications with "we can argue" or "if we
-follow his logic"; those are flagged in the body as the column's, not the
-sources'.
+Rabbi Reuven Chaim Klein, "[Shavuot Special Feature!](https://articles.ohr.edu/articles/shavuot-special-feature)," *What's in a Word?*, Ohr Somayach, 8 June 2019.
+
+Cited in the essay: Bereishis 34:3, 42:30; Shemos 6:2, 13:1, 19:3, 32:7; Vayikra 10:19, 21:1; Bamidbar 12:1, 15:37, 22:5; Devarim 2:16, 26:17-18, 32:1; Yeshayahu 17:6; Tehillim 19:4, 47:4, 94:4; *Avos* 5:1; *Makkos* 11a; *Berachos* 6a; Zohar, *Idra Rabbah* (Naso) 132b, Bereishis 239b and Shemos 161a; Rashi to Shemos 6:2, 19:3, 32:7, Vayikra 10:19, Bamidbar 12:1 and Devarim 26:17-18; Rabbi Yaakov Tzvi Mecklenburg; Maharal, *Nesivos Olam*; *Moshav Zekanim* to Shemos 6:2; *Sefer HaChachmah*; Rabbeinu Bachaya to Shemos 13:1; the Vilna Gaon, including to Bamidbar 22:5; Rabbi Pinchas Horowitz of Frankfurt; the Netziv; Malbim; Rabbi Moshe Feinstein; Rabbi Shmuel Jaffa-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, with Rabbi Wolf Heidenheim's notes; Ibn Ezra and Rabbi Yoel Ibn Shuaib to Tehillim 19:4; Ibn Ezra to Devarim 26:17; Rav Hirsch; Rav Saadia Gaon; Dunash ibn Labrat; *Sifsei Chachamim* to Devarim 2:16; Bartenura to *Shekalim* 5:3; the Targumim; Raavan; Rabbi Yonah Isaac Neiman of Makow on *Akdamus*; Rabbi Shmuel Shmelka Horowitz of Nikolsburg; Rabbi Kalonymus Kalman Epstein of Krakow; Rabbi Yaakov Yosef of Ostrog; Rabbi Shimon Maryles of Jaroslaw.

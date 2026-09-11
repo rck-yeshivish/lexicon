@@ -20,17 +20,16 @@ updated: 2026-09-10
 
 *Haggadah* is **telling** in the strong sense: something new, said forcefully,
 and, at its core in Rabbi Klein's summary, drawing a past event into the
-listener's present. *Sippur* is the more general **relating** of a story, old
-or new, and for Rav Moshe Shapiro it carries the sense of many details joined
-into one whole. Ramban (to Devarim 26:3) seems to treat the two as synonyms;
-most commentators do not, and the Bottom line follows them. Why the Torah
-commands *v'higadta l'vincha* while Chazal call the mitzvah *sippur yetzias
-Mitzrayim* is answered more than one way: for Rabbi Klein, when the Torah spoke
-the story was still new, and by the time of Chazal it had been handed down for
-generations; for Rabbi Yechiel Michel Feinstein, Chazal took the word the Torah
-uses for the purpose of the miracles (*l'maan tesaper*, Shemos 10:2), where
-*v'higadta* only teaches how to tell; Rabbi Nosson Gestetner concludes that
-they are two separate mitzvos.
+listener's present. *Sippur* is the more general **relating** of a story, old or
+new, and for Rav Moshe Shapiro it carries the sense of many details joined into
+one whole. Ramban (to Devarim 26:3) seems to treat the two as synonyms; most
+commentators do not. Why the Torah commands *v'higadta l'vincha* while Chazal
+call the mitzvah *sippur yetzias Mitzrayim* is answered more than one way: for
+Rabbi Klein, when the Torah spoke the story was still new, and by the time of
+Chazal it had been handed down for generations; for Rabbi Yechiel Michel
+Feinstein, Chazal took the word the Torah uses for the purpose of the miracles
+(*l'maan tesaper*, Shemos 10:2), where *v'higadta* only teaches how to tell;
+Rabbi Nosson Gestetner concludes that they are two separate mitzvos.
 
 ## Distinctions
 
@@ -151,14 +150,14 @@ ideas or details they did not know.
 
 ## Rendering guidance
 
-- *V'higadta l'vincha*: **and you shall tell your son**. Where the shiur turns
+- *V'higadta l'vincha*: **and you shall tell your son**. Where the passage turns
   on the word, gloss it once: "tell, in the sense of making it new and making
   it his."
 - *Sippur yetzias Mitzrayim*: **the telling of the Exodus**, or leave the phrase
   transliterated. *Misaper*: **relate**, **recount**.
 - *Aggadah*: **aggadah**, not "legend" or "fairytale"; Rabbi Klein calls the
   modern usage an unfair redefinition.
-- Trap: English "tell" absorbs both words, and the whole point of the article is
+- Trap: English "tell" absorbs both words, and the whole point of the column is
   that the Torah's verb and Chazal's verb differ. Where a passage sets them side
   by side, render *haggadah* **declare** or **set before him** and *sippur*
   **recount**, so the reader can see two acts.
@@ -171,17 +170,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Pesach: Telling the Story](https://articles.ohr.edu/articles/pesach-telling-the-story)," What's in a Word?, Ohr
-Somayach, 8 Nisan 5779 (2019-04-13):
-https://articles.ohr.edu/articles/pesach-telling-the-story, raw text in
-`sources/whats-in-a-word/raw/8217-pesach-telling-the-story.md`. Primary loci
-cited: Shemos 10:2; 13:8; 19:3 with Rashi; 19:9 with Ibn Ezra; Bereishis 3:11;
-Bereishis 37:28 with Targum; Bereishis 24:23 with Alshich; Vayikra 5:1;
-Devarim 26:3 with Ramban; Esther 2:20; Radak, *Sefer HaShorashim*; Menachem Ibn
-Saruk; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; the Netziv; Rabbi Dovid
-Abudraham; Malbim; Rabbi Shlomo Aharon Wertheimer; *Peirush HaRokeach*; Rabbi
-Aryeh Pomeranchik reporting the Brisker Rav in the name of Rav Chaim
-Soloveitchik. The article also compares German and Yiddish *zahlen* and English
-*tell*, *tale*, *recount* and "tell time"; where it calls *tell* and *tale*
-derived from German *zahlen*, the English words are cognates of it rather than
-borrowings.
+Rabbi Reuven Chaim Klein, "[Pesach: Telling the Story](https://articles.ohr.edu/articles/pesach-telling-the-story)," *What's in a Word?*, Ohr Somayach, 13 April 2019.
+
+Cited in the essay: Bereishis 3:11, 24:23, 37:28; Shemos 10:2, 13:8, 19:3, 19:9; Vayikra 5:1; Devarim 26:3; Esther 2:20; the Haggadah; Ramban to Devarim 26:3; Rashi to Shemos 19:3; Ibn Ezra to Shemos 19:9; Radak, *Sefer HaShorashim*; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yehuda Leib Edel; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Targum to Bereishis 37:28; the Netziv; Rabbi Dovid Abudraham; Rabbi Dr. Ari Bergmann; Alshich to Bereishis 24:23; Rabbi Aryeh Pomeranchik, reporting the Brisker Rav in the name of Rav Chaim Soloveitchik; Malbim; Rabbi Shlomo Aharon Wertheimer; Rav Moshe Shapiro; *Peirush HaRokeach*; Rabbi Yechiel Michel Feinstein; Rabbi Nosson Gestetner.

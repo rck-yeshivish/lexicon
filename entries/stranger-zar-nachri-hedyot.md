@@ -20,16 +20,15 @@ updated: 2026-09-10
 
 *Zar* and *nachri* both mean "stranger," and on the reading of most of the
 commentators they measure different distances. A *zar* is estranged **in one
-respect**, and is often a member of the same nation or household: render him
-**outsider** or **stranger**. A *nachri* is a **foreigner** in every respect,
+respect**, and is often a member of the same nation or household: an
+**outsider**, a **stranger**. A *nachri* is a **foreigner** in every respect,
 from another nation entirely. Malbim puts the rule in a line: the *nachri* is
 *more* unfamiliar than the *zar*. Rabbi Shlomo Pappenheim dissents, holding the
 two equally estranged and differing only in what their roots fix on. In Kodashim
-contexts *zar* is a technical term, the **non-Kohen**, and should be rendered
-that way, never "stranger." *Chiloni* is the Targum's Aramaic for *zar* and the
-Midrash's word for a non-Kohen; *hedyot* is a Greek loanword for a **commoner**
-or **layman**, the ordinary man against the leader, the amateur against the
-craftsman, the *Kohen hedyot* against the Kohen Gadol.
+contexts *zar* is a technical term, the **non-Kohen**. *Chiloni* is the Targum's
+Aramaic for *zar* and the Midrash's word for a non-Kohen; *hedyot* is a Greek
+loanword for a **commoner** or **layman**, the ordinary man against the leader,
+the amateur against the craftsman, the *Kohen hedyot* against the Kohen Gadol.
 
 ## Distinctions
 
@@ -71,11 +70,10 @@ opposite of a relative (Bereishis 31:15, Devarim 23:21). Malbim: a complete
 foreigner, from another land and another people, strange in many ways at once.
 
 Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865): the root נ-כ-ר bears opposite
-senses,
-"recognizing" (*makir*, *lehakir*) and "not recognizing" (*nachri*), and a verb
-of the same root means to deny or repudiate (Devarim 32:27, Iyov 21:29). This is
-why the Mechilta (to Shemos 12:43) defines *ben-neichar* as any heretic who
-denies Hashem, Jew or not.
+senses, "recognizing" (*makir*, *lehakir*) and "not recognizing" (*nachri*), and
+a verb of the same root means to deny or repudiate (Devarim 32:27, Iyov 21:29).
+This is why the Mechilta (to Shemos 12:43) defines *ben-neichar* as any heretic
+who denies Hashem, Jew or not.
 
 Rabbi Shlomo Pappenheim holds that *nachri* and *zar* denote the same degree of
 estrangement and differ only in what their roots fix on. *Nachri* is tied to
@@ -143,12 +141,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Strange Aliens](https://articles.ohr.edu/articles/strange-aliens)," What's in a Word?, Ohr Somayach, 19
-Iyar 5781 (2021-05-01): raw text in
-`sources/whats-in-a-word/raw/9192-strange-aliens.md`. Primary loci: Mishlei 2:16,
-5:10, 5:20, 7:5, 20:16, 27:2; Yeshayahu 28:21, 61:5; Ovadiah 1:11; Tehillim
-81:10, 137:4; Shemos 21:2 (Ibn Ezra, long commentary), 12:43 with the Mechilta,
-29:33, 30:33; Vayikra 19:2, 22:10, 22:12-13; Devarim 17:15, 23:21, 25:5, 32:27;
-Bereishis 31:15, 42:7; Yechezkel 16:32; Iyov 21:29; Shmuel II 15:19; Yevamos
-76b; Shabbos 105b; Vayikra Rabbah 24:7; *Sefer Chassidim* 619; Vilna Gaon to
-Mishlei 27:2.
+Rabbi Reuven Chaim Klein, "[Strange Aliens](https://articles.ohr.edu/articles/strange-aliens)," *What's in a Word?*, Ohr Somayach, 1 May 2021.
+
+Cited in the essay: Bereishis 31:15, 42:7; Shemos 12:43, 21:2, 29:33, 30:33; Vayikra 19:2, 22:10, 22:12-13; Devarim 17:15, 23:21, 25:5, 32:27; Shmuel II 15:19; Yeshayahu 28:21, 61:5; Yechezkel 16:32; Ovadiah 1:11; Tehillim 81:10, 137:4; Mishlei 2:16, 5:20, 7:5, 27:2; Iyov 21:29; Mishnah Nedarim 5:5, Sanhedrin 7:10, Horayos 3:2-3, Moed Katan 1:8, Bava Metzia 4:4, Keilim 26:1, Yoma 7:5, Yevamos 2:4, Sotah 8:3; Shabbos 105b; Yevamos 76b; the Mechilta to Shemos 12:43; *Vayikra Rabbah* 24:7; Ibn Ezra, long commentary to Shemos 21:2; the Vilna Gaon to Mishlei 27:2; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Yaakov Tzvi Mecklenburg; *Sefer Chassidim* 619; Onkelos to Shemos 29:33 and 30:33; Targum to Devarim 17:15, Shmuel II 15:19, Mishlei 27:2 and Tehillim 81:10, 137:4; *Peirush Yonatan* to Targum Yonatan to Bereishis 42:7; *Yair* to Devarim 25:5 and *Me'at Tzari* there; the *Oxford English Dictionary*.

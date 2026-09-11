@@ -2,7 +2,7 @@
 cluster: spying
 hebrew: [תור, רגל, מרגלים, תרים, חפר]
 roots: [ת-ו-ר, ר-ג-ל, ח-פ-ר]
-translit: [tor, tur, latur, lasur, tarim, ragel, leragel, meragel, meraglim, merag'lim, vayachperu, chafirah, cherpah]
+translit: [tor, tur, latur, lasur, tarim, ragel, leragel, meragel, meraglim, merag'lim, veyachperu, vayachperu, chafirah, cherpah]
 english: [scout, scout out, spy, spies, dig, dig up]
 domain: action
 words:
@@ -24,7 +24,7 @@ words:
     en: spies
     distinct: men sent to expose an enemy's soft points; used of Yosef's brothers (Bereishis 42) and Yehoshua's two men (Yehoshua 2:1), never of Moshe's twelve
   - he: חפר
-    tr: vayachperu
+    tr: veyachperu
     en: dig up, mine for
     nk: חָפַר
     distinct: Devarim 1:22, digging deliberately for damning information; kin to cherpah, disgrace (Rabbi Yaakov Tzvi Mecklenburg)
@@ -43,8 +43,7 @@ for what is good; *leragel* is to **spy out** with an eye for what is weak
 (Rabbi Yaakov Tzvi Mecklenburg). Bamidbar calls Moshe's twelve *tarim*,
 **scouts**, throughout; Tanach never calls them *meraglim*, the traditional
 name, which is drawn from the verb Devarim uses looking back (*leragel*,
-alongside *vayachperu*). A translation that calls them "the spies" in Bamidbar
-has already decided the parashah's question.
+alongside *veyachperu*).
 
 ## At a glance
 
@@ -54,7 +53,7 @@ has already decided the parashah's question.
 | תרים | tarim | scouts | Moshe's twelve, as Bamidbar names them |
 | רגל | leragel | spy out | looking for weakness (Mecklenburg); from regel, the lowest limb (Rabbi Klein, hedged) |
 | מרגלים | meraglim | spies | Yosef's brothers, Yehoshua's two men; never Moshe's twelve |
-| חפר | vayachperu | dig up | mining for damning information; kin to cherpah (Mecklenburg) |
+| חפר | veyachperu | dig up | mining for damning information; kin to cherpah (Mecklenburg) |
 
 ## Distinctions
 
@@ -81,7 +80,7 @@ something positive.
 ### leragel (רגל) and meraglim (מרגלים)
 The search for weakness and vulnerability (Mecklenburg). Devarim, which Moshe
 spoke about forty years later, describes the men's actions with other words:
-*vayachperu lanu es haaretz* (Devarim 1:22) and *vayeraglu osah* (Devarim 1:24).
+*veyachperu lanu es haaretz* (Devarim 1:22) and *vayeraglu osah* (Devarim 1:24).
 The first is the verb of digging, the deliberate mining of damning information,
 and Rabbi Mecklenburg points out that *chafirah*, digging, is related to
 *cherpah*, disgrace: here, digging for negative information about the Land.
@@ -121,13 +120,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," What's in a Word?, Ohr Somayach,
-23 Sivan 5777 (2017-06-17): https://articles.ohr.edu/articles/spy-versus-spy;
-raw text in `sources/whats-in-a-word/raw/7302-spy-versus-spy.md`. Primary loci:
-Bamidbar 13-14; Devarim 1:22, 1:24; Bereishis 42; Yehoshua 2:1; Rabbi Yaakov
-Tzvi Mecklenburg, *HaKtav VeHaKabbalah*; Pseudo-Philo; Dr. Isaac Elchanan
-Mozeson; David Curwin. The column transliterates Devarim 1:22 as *vayachperu*;
-the verse reads וְיַחְפְּרוּ, part of the people's request to Moshe, not a
-narrative past. Noach's bird is called *yonah* (Bereishis 8:8), so Curwin's link
-to *tor* runs through the bird, not the word. On *chafirah* see the entries
-`dig-karah-chafirah-chatzivah.md` and `shame-bushah-klimah-cherpah.md`.
+Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," *What's in a Word?*, Ohr Somayach, 17 June 2017.
+
+Cited in the essay: Bereishis 42; Bamidbar 13-14; Devarim 1:22, 1:24; Yehoshua 2:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKtav VeHaKabbalah*; the Midrash; Pseudo-Philo; Dr. Isaac Elchanan Mozeson; David Curwin.

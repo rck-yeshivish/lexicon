@@ -22,11 +22,10 @@ but Rashi (to Berachos 55b) and Ramban treat it as a synonym of *machshavah*,
 the Yad Ramah makes it simply the Aramaic for *machshavah*, and Rashi to Daniel
 defines it as *hirhur*. *Hirhur* is, for the Vilna Gaon, a thought already
 formulated into possible words, or alternatively a thought of the heart rather
-than the brain: **musing**, or where the heart sense governs **stirring** (a
-judgment call). The one thing not to get wrong: *hirhur* is not a vaguer,
-lesser "thought"; on the Gaon's first reading it is thought already put into
-words, and in Rabbi Klein's synthesis of the three it is the *last* stage,
-thought at the threshold of speech.
+than the brain: **musing**, or where the heart sense governs **stirring**.
+*Hirhur* is not a vaguer, lesser "thought"; on the Gaon's first reading it is
+thought already put into words, and in Rabbi Klein's synthesis of the three it
+is the *last* stage, thought at the threshold of speech.
 
 ## Distinctions
 
@@ -98,11 +97,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Word for a Thought](https://articles.ohr.edu/articles/a-word-for-a-thought)," What's in a Word?, Ohr
-Somayach, 9 Teves 5777 (2017-01-07): raw text in
-`sources/whats-in-a-word/raw/7082-a-word-for-a-thought.md`. Primary loci the
-article cites: Vilna Gaon, commentary to *Sefer Yetzirah* (for the first
-distinction; the brain-and-heart alternative is given without a locus); Rabbi
-Pinchas HaLevi Horowitz on *hirhur* and *herayon*; Rashi to Berachos 55b and to
-Daniel 2:29-30; Ramban to Bamidbar 2:14; Yad Ramah to Sanhedrin 38b; Rabbi
-Shlomo Aharon Wertheimer on *raayon* against *machshavah*.
+Rabbi Reuven Chaim Klein, "[A Word for a Thought](https://articles.ohr.edu/articles/a-word-for-a-thought)," *What's in a Word?*, Ohr Somayach, 7 January 2017.
+
+Cited in the essay: the Vilna Gaon, commentary to *Sefer Yetzirah*; Rabbi Pinchas HaLevi Horowitz; Rashi to Berachos 55b and Daniel 2:29-30; Ramban to Bamidbar 2:14; Rabbi Meir HaLevi Abulafia, *Yad Ramah* to Sanhedrin 38b; Rabbi Shlomo Aharon Wertheimer.

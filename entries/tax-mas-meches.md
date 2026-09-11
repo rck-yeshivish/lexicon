@@ -28,11 +28,9 @@ consecrated share of the Midianite booty given to Hashem. Its origin is
 disputed three ways: an Akkadian loanword for dues or tributes (Dr. Hayim
 Tawil); a Hebrew root meaning number (Menachem ibn Saruk, Chayyuj, Ibn Janach,
 Radak); a Hebrew root meaning covering, whence the pocket, so the tax that goes
-into the king's own purse (Rabbi Pappenheim). The rendering does not turn on the
-dispute: in Bamidbar 31 "levy" or "tribute" keeps the sense of a consecrated
-share (a judgment call, not the article's). The Aramaic terms are technical;
-keep them transliterated and gloss, and note that the Gemara equates several of
-them (*belo* is *gulgalta*, which is *karga*; *halach* is *arnona*).
+into the king's own purse (Rabbi Pappenheim). The Aramaic terms are technical,
+and the Gemara equates several of them (*belo* is *gulgalta*, which is *karga*;
+*halach* is *arnona*).
 
 ## Distinctions
 
@@ -48,13 +46,12 @@ gives the English noun *tax* two definitions, "a compulsory contribution to
 state revenue" and "a strain or heavy demand"; if Rabbi Pappenheim is correct,
 the second meaning is actually the basis for the first.
 
-The usage that matters for translation: although *mas* is typically translated
-"tax," some scholars argue that a more accurate translation would be "corvée
-work," a system of compulsory, unpaid labor or civil service imposed by a
-sovereign, and that meaning is borne out by the Bible in several places. The
-Egyptian taskmasters set over the enslaved Jews are *sarei missim* (Shemos
-1:11), and Shlomo HaMelech's mandatory conscription of civilians is called a
-*mas* (Melachim I 5:27).
+Although *mas* is typically translated "tax," some scholars argue that a more
+accurate translation would be "corvée work," a system of compulsory, unpaid
+labor or civil service imposed by a sovereign, and that meaning is borne out by
+the Bible in several places. The Egyptian taskmasters set over the enslaved Jews
+are *sarei missim* (Shemos 1:11), and Shlomo HaMelech's mandatory conscription
+of civilians is called a *mas* (Melachim I 5:27).
 
 ### meches (מכס)
 Six appearances in Tanach in the sense of tax, all in one chapter (Bamidbar
@@ -131,7 +128,7 @@ place of *taska*.
   labor," not "tax officers." Melachim I 5:27 likewise, "levy" in the sense of
   conscription.
 - Bamidbar 31:28, *vaharemosa meches laHashem*: "you shall raise up a **levy**
-  for Hashem" or "a tribute." The article counts these as *meches* in the sense
+  for Hashem" or "a tribute." The column counts these as *meches* in the sense
   of tax; preferring "levy" or "tribute" to "tax" for a division of spoils
   consecrated to Hashem is a judgment call.
 - Trap: English "tax" will absorb *mas*, *meches* and every Aramaic term at once,
@@ -150,17 +147,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Heavy Taxes and Empty Pockets](https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets)," What's in a Word?,
-Ohr Somayach, 24 Tammuz 5779 (2019-07-27): raw text in
-`sources/whats-in-a-word/raw/8339-heavy-taxes-and-empty-pockets.md`. Primary
-loci cited: Shemos 1:11, 12:4; Melachim I 5:27; Bamidbar 21:13, 31:28-41; Ezra
-7:24; Bava Basra 8a; Nedarim 62b; Bava Metzia 73b, 108a; Pesachim 6a; Gittin
-58b; Megillah 7b; Tosafos to Avodah Zarah 14b. Also cited: Rabbi Pappenheim,
-*Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Nosson of Rome, *Sefer HaAruch*;
-Dr. Hayim Tawil on the Akkadian *miksu*; the *Oxford English Dictionary* on
-English *tax*; the Roman *annona* as historians record it. The article names the
-king of Ezra 7:24 as Cyrus and the exempted as the Men of the Great Assembly; in
-the text the verse sits in the letter ascribed to Artachshasta (Ezra 7:11-26)
-and names the kohanim, Levi'im and the other servants of the Beis HaMikdash. The
-article opens by promising three Talmudic terms (*karga*, *arnona*, *taska*) and
-closes by listing four, adding *gulgalta*.
+Rabbi Reuven Chaim Klein, "[Heavy Taxes and Empty Pockets](https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets)," *What's in a Word?*, Ohr Somayach, 27 July 2019.
+
+Cited in the essay: Shemos 1:11, 12:4; Bamidbar 21:13, 31:28-41; Melachim I 5:27; Ezra 7:24; Pesachim 6a; Megillah 7b; Nedarim 62b; Gittin 58b; Bava Metzia 73b, 108a; Bava Basra 8a; Rashi to Pesachim 6a, Megillah 7b, Gittin 58b, Bava Metzia 73b and 108a, and Bava Basra 8a; Tosafos to Avodah Zarah 14b; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Dr. Hayim Tawil; Menachem ibn Saruk; Rabbi Yehuda ibn Chayyuj; Rabbi Yonah ibn Janach; Radak; Rabbi Baruch Avraham Toledano; Rabbi Nosson of Rome, *Sefer HaAruch*; Rabbeinu Nissim to Nedarim 62b; Maharam Chalavah and Meiri to Pesachim 6a; the *Oxford English Dictionary*.

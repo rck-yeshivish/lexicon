@@ -33,9 +33,9 @@ updated: 2026-09-10
 ## Bottom line
 
 *Shulchan* is the Biblical **table**, and the Aramaic *petora* is its standard
-equivalent; render both "table." *Taka* is also glossed *shulchan* by Rashi,
+equivalent. *Taka* is also glossed *shulchan* by Rashi,
 and the variant readings of one Talmudic story seem to make it interchangeable
-with *petora*; but Rabbi Mordechai Dov Yudelovitch, whose view the article
+with *petora*; but Rabbi Mordechai Dov Yudelovitch, whose view the column
 adopts, holds that *taka* is the small, private **tray-table** for one, while
 *petora* is the longer dining table. *Tavla* is for Rabbi Eliyahu HaBachur
 simply the Rabbinic Hebrew for *shulchan*; for Rash MiShantz it differs, a
@@ -59,13 +59,13 @@ vocabulary.
 Kiddushin 81a. The texts seem to pull the same way. In the story of Abaye at
 Rabbah's Seder, where the table was lifted away at Maggid and Abaye asked why
 (Pesachim 115b), our printed text reads *taka*; the Rif (Pesachim 25b in his
-pagination) reads *petora* both times; Rabbi David Abudraham's commentary to
-the Haggadah has *petora* in the narration and *taka* in Abaye's question; and
-all three readings are attested in manuscripts on the *Hachi Garsinan* website.
+pagination) reads *petora* both times; Rabbi David Abudraham's commentary to the
+Haggadah has *petora* in the narration and *taka* in Abaye's question; and all
+three readings are attested in manuscripts on the *Hachi Garsinan* website.
 Rabbi Klein's first conclusion is that it seems this interchangeability points
-to the two being synonymous. The Arizal, in his Aramaic *Atkinu Seudata* songs for the Shabbos
-meals, writes *petora chadata* (Friday night) and *l'ater petora* (Shabbos
-morning), but *hai taka* for the third meal.
+to the two being synonymous. The Arizal, in his Aramaic *Atkinu Seudata* songs
+for the Shabbos meals, writes *petora chadata* (Friday night) and *l'ater
+petora* (Shabbos morning), but *hai taka* for the third meal.
 
 But do they mean the same thing? Rabbi Mordechai Dov Yudelovitch of Lida (d.
 1951; also spelled Judilovitz) says no: *petora* is a large table, *taka* a
@@ -73,14 +73,14 @@ small, private table on which people would customarily eat on festive occasions
 or in the presence of esteemed guests, that is, a portable personal tray-table
 for one, while *petora* is a longer table of the sort one has in a dining room.
 Rabbi Shaul Goldman arrived at the same conclusion independently. So, the
-article concludes, despite Rashi's glossing both as *shulchan*, the two do not
-mean exactly the same thing, and every *taka* example the article cites refers
+column concludes, despite Rashi's glossing both as *shulchan*, the two do not
+mean exactly the same thing, and every *taka* example the column cites refers
 to a private table at which one person ate, as against the more communal
 *petora*: Rava's own *taka* removed while the Reish Galusa's still stood
 (Berachos 42a), and the bad wife who prepares her husband's *taka* (Yevamos
 63b).
 
-The article adds an etymological difference. Dr. Michael Sokoloff, in his
+The column adds an etymological difference. Dr. Michael Sokoloff, in his
 dictionary of Jewish Palestinian Aramaic of the Byzantine period, writes that
 *petora* is a cognate, or even a derivative, of the Akkadian *passuru* (plural
 of *passurum*), itself borrowed from the Sumerian *bansur*, "table"; in his
@@ -92,9 +92,7 @@ HaTishbi*): *tavla* is the Rabbinic Hebrew equivalent of the Biblical
 *shulchan*. Nonetheless, Rash MiShantz (Rabbi Shimshon of Sens, to Ohalos 15:2)
 writes that they differ: a *shulchan* is a flat surface attached to four legs
 that hold it up, while a *tavla* is a table top not attached to legs, so it can
-even be a flat board or plank. The article leaves the two views standing. For
-rendering (our note), follow the Rash where a halachic passage turns on
-construction.
+even be a flat board or plank. The column leaves the two views standing.
 
 **The root of shulchan.** Ibn Janach (990 to 1055) and Radak (1160 to 1235): the
 triliteral ש-ל-ח, "dispatch, send away, sword," though exactly how it connects
@@ -107,8 +105,8 @@ to those meanings is not readily apparent. Menachem Ibn Saruk (920 to 970,
 All 21 occurrences in the Chumash are the ritual *shulchan* of the Mishkan
 bearing the lechem hapanim; in the other 50 in Tanach it can be an ordinary
 table at which a king or great man eats and feeds his household. The Mishnaic
-*shulchani*, "moneychanger" (Maaser Sheini 4:2; Bava Metzia 2:4, 9:12, and see
-Sources; Shevuos 7:6; Meilah 6:5; Keilim 12:5), is so called because he worked
+*shulchani*, "moneychanger" (Maaser Sheini 4:2; Bava Metzia 2:4, 3:11, 4:6,
+9:12; Shevuos 7:6; Meilah 6:5; Keilim 12:5), is so called because he worked
 from behind a table on which he laid the money. The Gemara also uses *shulchan*
 euphemistically for marital intimacy (Nedarim 20a-b).
 
@@ -125,7 +123,7 @@ moneychanger, *shulchani*, comes from *shulchan*. Rabbi Avraham Menachem
 Rappaport (1520 to 1596, *Minchah Belulah* to Bamidbar 22:5) offers two more
 readings of *pesorah*: from *pisaron*, interpretation, for Bilaam's occupation
 as a dream interpreter; and from *petora*, table, since Bilaam's pagan rites
-included "setting a table for Gad" (Yeshayahu 65:11; the article prints 7:5):
+included "setting a table for Gad" (Yeshayahu 65:11):
 as the Mikdash had a ritual *shulchan* for the holy service of Hashem, the
 idolaters set a ritual table for their deities, the holy and the unholy often
 paralleling each other as mirror images. Shabbos 36a records that *patora* and
@@ -134,7 +132,7 @@ and that after the Churban the two senses switched.
 
 ### taka (טכא)
 Rashi glosses it *shulchan* (Berachos 46b, Gittin 67b, Kiddushin 81a). The word
-appears many times in the Gemara; the article cites a few. Once the *taka* is
+appears many times in the Gemara; the column cites a few. Once the *taka* is
 removed at the end of a meal one has declared intent to bench and may not eat
 again until he does (Berachos 42a); Rava, eating at the Reish Galusa's, went on
 eating food the Reish Galusa sent him after his own *taka* was taken away,
@@ -143,8 +141,8 @@ explaining that he did not yet intend to bench, relying on the Reish Galusa's
 *taka* and meanwhile curses him, and for Rava sets his *taka* and turns her back
 on him, not eating with him (Yevamos 63b). The word does not seem to appear in
 Tanach, but some commentators explain a similar word in one pasuk as related to
-it: Moshe describes Yisrael's servility, "and they are *tuku* at Your feet,"
-where *tuku* is obscure and variously explained. Rabbi Shmuel David Luzzatto
+it: Moshe describes Yisrael's servility, "and they are *tuku* at Your feet"
+(Devarim 33:3), where *tuku* is obscure and variously explained. Rabbi Shmuel David Luzzatto
 (Shadal, 1800 to 1865) and Rabbi Ezra Reuven Dangoor (1848 to 1930) relate it to
 *taka*, "sitting at a table": Yisrael sit at Hashem's table to accept His
 directives and receive His blessings, as a guest at his host's.
@@ -163,7 +161,7 @@ subset of it. Alternatively he takes *tevel* as a portmanteau of *tav*, good,
 and *lo*, not, an explanation also offered by *Sefer HaAruch*, Bartenura (to
 Berachos 7:1), Rabbi Chaim Vital (*Eitz Chaim*, Shaar 50 ch. 3) and *Kli Yakar*
 (to Shoftim 11:3). He also suggests that *tevel* is related to the Arabic
-*mitabel*, food with something mixed into it, which, the article notes though
+*mitabel*, food with something mixed into it, which, the column notes though
 Rabbeinu Manoach does not, is a cognate of Hebrew *tavlin*, spice (see also
 *HaKsav VeHaKabbalah* to Shemos 22:28).
 
@@ -193,25 +191,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Terumah: A Table for Thee](https://articles.ohr.edu/articles/terumah-a-table-for-thee)," What's in a Word?, Ohr
-Somayach, 8 Adar Alef 5784 (2024-02-17):
-https://articles.ohr.edu/articles/terumah-a-table-for-thee; raw text in
-`sources/whats-in-a-word/raw/11261-terumah-a-table-for-thee.md`. Primary loci
-cited: Bamidbar 22:5 with Rashi, *Matnos Kehunah* and *Minchah Belulah*;
-Yeshayahu 65:11 (the article prints 7:5; the pasuk about setting a table for
-Gad is 65:11); Shemos 22:28 with *HaKsav VeHaKabbalah*; Shoftim 11:3 with *Kli
-Yakar*; Mishnah Maaser Sheini 4:2, Bava Metzia 2:4, 9:12, Shevuos 7:6, Meilah
-6:5, Keilim 2:3, 12:5, 16:8, 25:1, 27:1, Eruvin 5:1, Yoma 3:10, Mikvaos 4:2,
-Ohalos 15:2 with Rash MiShantz, Berachos 7:1 with Bartenura; Berachos 42a and
-46b, Beitzah 29b, Shabbos 36a, Pesachim 57a and 115b, Yevamos 63b, Nedarim
-20a-b, Gittin 67b, Kiddushin 81a, Bava Basra 111a, Chullin 54b and 132b;
-Bamidbar Rabbah 20:7; Tanchuma Balak 4; Rif, Pesachim 25b; Rabbi David
-Abudraham to the Haggadah; the *Hachi Garsinan* manuscripts; the Arizal's
-*Atkinu Seudata*; Rambam, Hilchos Chametz uMatzah 6:7 with Rabbeinu Manoach;
-*Eitz Chaim*, Shaar 50 ch. 3; *Sefer HaTishbi*; *Machberes Menachem*; Dr.
-Michael Sokoloff's dictionaries of Jewish Palestinian Aramaic and of Jewish
-Babylonian Aramaic. Among the Bava Metzia references the article prints
-"3:114:6," which looks like two citations (perhaps 3:11 and 4:6) run together;
-they are not repeated above. The "*tuku* at Your feet" pasuk is quoted in the
-article without a locus; it is Devarim 33:3. Rabbi Yudelovitch, Rabbi Shaul
-Goldman and Alexandre Beider are cited without a work.
+Rabbi Reuven Chaim Klein, "[Terumah: A Table for Thee](https://articles.ohr.edu/articles/terumah-a-table-for-thee)," *What's in a Word?*, Ohr Somayach, 17 February 2024.
+
+Cited in the essay: Shemos 22:28; Bamidbar 22:5; Devarim 33:3; Shoftim 11:3; Yeshayahu 65:11; Mishnah Berachos 7:1, Eruvin 5:1, Maaser Sheini 4:2, Yoma 3:10, Bava Metzia 2:4, 3:11, 4:6, 9:12, Shevuos 7:6, Meilah 6:5, Keilim 2:3, 12:5, 16:8, 25:1, 27:1, Ohalos 15:2, Mikvaos 4:2; Berachos 42a, 46b; Shabbos 36a; Pesachim 57a, 115b; Beitzah 29b; Yevamos 63b; Nedarim 20a-b; Gittin 67b; Kiddushin 81a; Bava Basra 111a; Chullin 54b, 132b; *Bamidbar Rabbah* 20:7; *Tanchuma* Balak 4; Rashi to Bamidbar 22:5, Berachos 46b, Beitzah 29b, Gittin 67b, Kiddushin 81a and Chullin 54b; *Matnos Kehunah*; Rabbi Avraham Menachem Rappaport, *Minchah Belulah* to Bamidbar 22:5; Ibn Janach; Radak; Menachem Ibn Saruk, *Machberes Menachem*; Shadal; Rabbi Ezra Reuven Dangoor; the Rif, Pesachim 25b; Rabbi David Abudraham to the Haggadah; the *Hachi Garsinan* manuscripts; the Arizal, *Atkinu Seudata*; Rabbi Mordechai Dov Yudelovitch; Rabbi Shaul Goldman; Dr. Michael Sokoloff's dictionaries of Jewish Palestinian Aramaic and of Jewish Babylonian Aramaic; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rash MiShantz to Ohalos 15:2; Rabbeinu Manoach to Rambam, Hilchos Chametz uMatzah 6:7; *Sefer HaAruch*; Bartenura to Berachos 7:1; Rabbi Chaim Vital, *Eitz Chaim*, Shaar 50 ch. 3; *Kli Yakar* to Shoftim 11:3; *HaKsav VeHaKabbalah* to Shemos 22:28; the Targumim; Alexandre Beider.

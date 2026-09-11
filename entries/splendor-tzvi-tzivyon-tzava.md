@@ -37,12 +37,11 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tzvi* carries three senses to keep apart by context: **splendor, glory,
-beauty** (Rashi); **desire, what is wanted** (Radak); and the animal, **deer** or
-**gazelle**. *Tzivyon* is either **consent** or **ideal form**, depending on the
-commentator. *Tzava* is a **legion**, a body joined by one shared want. The trap
-is *eretz hatzvi*: "the Desired Land" on the plain reading, "the Land of the
-Deer" in the derashos of Chazal, and no English phrase carries both.
+*Tzvi* carries three senses: **splendor, glory, beauty** (Rashi); **desire, what
+is wanted** (Radak); and the animal, **deer** or **gazelle**. *Tzivyon* is
+either **consent** or **ideal form**, depending on the commentator. *Tzava* is a
+**legion**, a body joined by one shared want. *Eretz hatzvi* is "the Desired
+Land" on the plain reading, "the Land of the Deer" in the derashos of Chazal.
 
 ## At a glance
 
@@ -63,27 +62,26 @@ through Yechezkel 7:20, where the people took the "*tzvi* of Hashem's ornament,"
 the Beis HaMikdash, and turned it into an abominable place of idolatry: Targum
 renders *tzvi* there as *chedvah*, "delight," and Radak as *pe'er* and *yofi*.
 At Yirmiyahu 3:19, the "heritage of *tzvi*," Targum again has "delight" and
-Radak an expression of desire. Neither is wrong; the Bottom line keeps all three
-senses live and picks by context.
+Radak an expression of desire.
 
 **Why Eretz Yisrael is eretz hatzvi.** The Land is described as the most *tzvi*
 of all lands (Yechezkel 20:6). The Ritva, Rabbi Yom Tov of Seville (1260 to
 1330): the most beautiful of lands. Radak, on the other hand: the most splendid
 and desirable, because it has the most perfect, balanced climate. Ibn Ezra (to
-Daniel 8:9): simply "the *tzvi*," most desirable of all; Ralbag there: desired by
-*all* people; Midrash *Shocher Tov* (to Tehillim 5): all the nations of the world
-desire it and want it. Rav Saadia Gaon (to Daniel 11:16): Hashem wants, that is
-chooses, that land to rest His Presence there. Against these, Chazal read *tzvi*
-as the deer
-(Kesubos 112a; *Sifrei* to Devarim 11:10): as a deer's hide will not stretch back
-over it once flayed, so the Land's produce exceeds what it could hold; or, as the
-deer is swift, so its produce ripens quickly (*Shemos Rabbah* §32:2).
+Daniel 8:9): simply "the *tzvi*," most desirable of all; Ralbag there: desired
+by *all* people; Midrash *Shocher Tov* (to Tehillim 5): all the nations of the
+world desire it and want it. Rav Saadia Gaon (to Daniel 11:16): Hashem wants,
+that is chooses, that land to rest His Presence there. Against these, Chazal
+read *tzvi* as the deer (Kesubos 112a; *Sifrei* to Devarim 11:10): as a deer's
+hide will not stretch back over it once flayed, so the Land's produce exceeds
+what it could hold; or, as the deer is swift, so its produce ripens quickly
+(*Shemos Rabbah* §32:2).
 
 **What tzivyon means.** Rosh Hashanah 11a and Chullin 60a: Hashem created each
 element of nature according to its *tzivyon*. Rashi and Rabbeinu Gershom: its
 will, having been asked and having consented. Alternatively, the Ritva follows
 Rabbi Nosson of Rome's *Sefer HaAruch*: an expression of beauty, each element of
-creation fashioned according to its most beautiful form. (The article notes in
+creation fashioned according to its most beautiful form. (The column notes in
 passing that in Modern Hebrew *tzivyon* means a thing's "nature" or "character.")
 
 ## Distinctions
@@ -134,13 +132,13 @@ they share one want; unite for a common goal and they become one army, otherwise
 they are a hodgepodge of unrelated individuals.
 
 ### the Arabic cognate and sababa
-The article closes with the modern Hebrew slang *sababa*, which it calls
+The column closes with the modern Hebrew slang *sababa*, which it calls
 untranslatable, used to express enthusiasm, satisfaction or agreement, along the
 lines of "awesome" or "cool." It comes from Arabic *tzababa*, "great" or
 "excellent" in spoken Arabic, whose technical meaning is "yearning" or "strong
-love"; the article holds this Arabic word to be related to the Hebrew and
+love"; the column holds this Arabic word to be related to the Hebrew and
 Aramaic words under discussion, so that *sababa* should really be pronounced
-*tzababa*, the way Baba Tzali became Baba Sali. The article's own summary is
+*tzababa*, the way Baba Tzali became Baba Sali. The column's own summary is
 that *tzvi* carries a plethora of meanings: desire or wanting, deer or gazelle,
 beauty or glory, good, and delightful or awesome.
 
@@ -161,19 +159,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[My Dear Deer](https://articles.ohr.edu/articles/my-dear-deer)," What's in a Word?, Ohr Somayach, 21
-Teves 5780 (2020-01-18): raw text in
-`sources/whats-in-a-word/raw/8563-my-dear-deer.md`. The piece ends "to be
-continued," and its sequel takes up how *tzvi* differs from *ratzon* and
-*chefetz*; see `will-ratzon-chefetz.md`. Primary loci cited: Yeshayahu 4:2,
-13:19, 28:1-5, 66:20; Yechezkel 7:20, 20:6; Yirmiyahu 3:19; Zechariah 7:14;
-Malachi 3:12; Tehillim 106:24; Daniel 8:9, 11:16, 11:41; Devarim 11:10, 14:5,
-29:9; Bamidbar 5:21-22, 7:3; Vayikra 11:29; Bereishis 24:13; Shemos 2:4; Esther
-2:3-12; Shir HaShirim 2:9, 2:17, 8:14; Rosh Hashanah 11a; Chullin 60a; Kesubos
-112a; *Shemos Rabbah* §32:2; *Bamidbar Rabbah* §12:17; *Shocher Tov* to Tehillim
-5; *Sefer HaAruch*; *Meturgaman*. The article's comparative material is reported
-as it stands there: the Aramaic *tzadi*-to-*tes* shift and the Semitic ט-ב root,
-and the closing Arabic *tzababa* behind the modern slang *sababa*. One slip of
-the article's own: in reporting the Ritva on the Gemara's *tzivyon* it writes
-that "*tzvi* is an expression of beauty," where the word under discussion is
-*tzivyon*.
+Rabbi Reuven Chaim Klein, "[My Dear Deer](https://articles.ohr.edu/articles/my-dear-deer)," *What's in a Word?*, Ohr Somayach, 18 January 2020.
+
+Cited in the essay: Bereishis 24:13; Shemos 2:4; Vayikra 11:29; Bamidbar 5:21-22, 7:3; Devarim 11:10, 14:5, 29:9; Yeshayahu 4:2, 13:19, 28:1, 28:4, 28:5, 66:20; Yirmiyahu 3:19; Yechezkel 7:20, 20:6; Zechariah 7:14; Malachi 3:12; Tehillim 106:24; Shir HaShirim 2:9, 2:17, 8:14; Esther 2:3-12; Daniel 8:9, 11:16, 11:41; Rosh Hashanah 11a; Kesubos 112a; Chullin 60a; *Sifrei* to Devarim 11:10; *Shemos Rabbah* 32:2; *Bamidbar Rabbah* 12:17; Midrash *Shocher Tov* to Tehillim 5; Targum to Yechezkel 7:20 and Yirmiyahu 3:19; Rashi to Yeshayahu 4:2; Radak to Yeshayahu 4:2 and 13:19, Yechezkel 7:20 and Yirmiyahu 3:19; Rashi and Rabbeinu Gershom on *tzivyon*; the Ritva; Rabbi Nosson of Rome, *Sefer HaAruch*; Ibn Ezra and Ralbag to Daniel 8:9; Rav Saadia Gaon to Daniel 11:16; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Eliyahu HaBachur, *Meturgaman*; Rabbi Chaim Friedlander; Rav Hirsch.

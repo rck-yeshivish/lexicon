@@ -28,17 +28,17 @@ strength, which man shares with beast (Rabbi Soloveitchik). *Gevurah* is
 *koach*, for Rabbi Mecklenburg *koach* used to defeat opposition rather than
 merely withstand it, for Rabbi Soloveitchik the heroism given to man alone to
 transcend the instinct of survival; the Mishnah's *gibbor* conquers his yetzer
-(Avos 4:1). On *chozek* the two articles carry different views: for Bedersi and
+(Avos 4:1). On *chozek* the two columns carry different views: for Bedersi and
 Wertheimer it is the standard word for **strong** and *ometz* is strength above
 the normal measure, while for Rabbi Pappenheim *chozek* is already
-extra-strength *koach*, the strength by which one stands out above the rest.
-The Vilna Gaon makes *chozek* outer, physical strength and *ometz* strength of
-the heart, and the article gives four more readings of *chazak v'ematz*.
-*Eitan* is strength that holds back (Rabbi Edel) or endures (Rav Hirsch); *adir* the most powerful of a
-whole group (Rabbi Pappenheim); *oz* strength of spirit that others cannot
-deter (Wertheimer), or, for Rabbi Wessely, primarily Divine, supernatural power;
-*takif* strength that surrounds and **overpowers** (Rabbi Pappenheim). Trap: one
-English word for all; never let *koach* and *gevurah* both be "strength".
+extra-strength *koach*, the strength by which one stands out above the rest. The
+Vilna Gaon makes *chozek* outer, physical strength and *ometz* strength of the
+heart, and the column gives four more readings of *chazak v'ematz*. *Eitan* is
+strength that holds back (Rabbi Edel) or endures (Rav Hirsch); *adir* the most
+powerful of a whole group (Rabbi Pappenheim); *oz* strength of spirit that
+others cannot deter (Wertheimer), or, for Rabbi Wessely, primarily Divine,
+supernatural power; *takif* strength that surrounds and **overpowers** (Rabbi
+Pappenheim).
 
 ## Distinctions
 
@@ -60,7 +60,7 @@ Rashi there, pace Tosafos).
 
 ### gevurah (גבורה)
 The Mishnah (Avos 4:1) asks who is a *gibbor* and answers, he who conquers his
-yetzer; the article reads this as tying *gevurah* to self-control, as it ties
+yetzer; the column reads this as tying *gevurah* to self-control, as it ties
 *eitan* to restraint. Rabbi Soloveitchik echoes the idea: *gevurah* is given
 exclusively to man, his ability to transcend the brute instinct of survival he
 shares with the animals, and is best translated "heroism," the courage to enter
@@ -73,7 +73,7 @@ also borrows the word for elements of nature without free will, like water
 (e.g. Bereishis 7:18-19); for him *gevurah* is the act by which one actualizes
 one's potential *koach*, an outward show of strength. Rabbi Mecklenburg: where
 *koach* withstands what opposes it, *gevurah* is a more proactive use of *koach*
-that seeks to defeat the opposition entirely. The article adds, on its own
+that seeks to defeat the opposition entirely. The column adds, on its own
 account and conditionally: if *gevurah* entails holding oneself back, Hashem is
 the immaculate *Gibbor*, holding back His anger and giving the wicked time
 before punishing them (see Yoma 69b), and for this reason He is often called
@@ -82,10 +82,11 @@ before punishing them (see Yoma 69b), and for this reason He is often called
 
 ### chozek (חזק) and ometz (אמץ)
 Moshe, passing the leadership to Yehoshua, tells him *chazak v'ematz* (Devarim
-31:7, 31:23); the article has Hashem repeat it four more times (Yehoshua
-1:6-18; see Sources); David says it to Shlomo (Divrei HaYamim I 22:13, 28:20).
-The article asks what the seemingly redundant pair means, and gives these
-readings:
+31:7); Hashem says it to him at Devarim 31:23 and three times more (Yehoshua 1:6,
+1:7, 1:9), and the
+people say it to Yehoshua (1:18); David says it to Shlomo (Divrei HaYamim I
+22:13, 28:20). The column asks what the seemingly redundant pair means, and
+gives these readings:
 
 1. Rabbi Avraham Bedersi HaPenini (a 13th century Spanish sage) and Rabbi
    Shlomo Aharon Wertheimer (1866 to 1935): *chozek* is the standard word for
@@ -119,15 +120,15 @@ withstand being overpowered by another, *tokef* the strength actually to
 overpower others. In "The Power to Hold Back" he makes *chozek* extra-strength
 *koach*, a non-standard ability by which one person stands out above the rest,
 and calling someone *chazak* means he is more powerful than someone else (see
-*adir*, below). The articles do not set this beside Bedersi and Wertheimer, for
+*adir*, below). The columns do not set this beside Bedersi and Wertheimer, for
 whom *chozek* is the standard word.
 
 ### otzem (עצם) and oz (עז)
 Rabbi Dr. Asher Weiser (editor of the Mossad HaRav Kook edition of Ibn Ezra on
 the Torah): *ometz* is related to *otzem*, the aleph interchanging with the ayin
 and the other two consonants switching places by metathesis. Rabbi Yehuda Leib
-Edel (1760 to 1828): *otzem*/*etzem* is growth in added quantity (see Shemos 1:8
-as printed, 1:20; Devarim 7:1; Yoel 2:2; Tehillim 35:18), strength through
+Edel (1760 to 1828): *otzem*/*etzem* is growth in added quantity (see Shemos 1:20;
+Devarim 7:1; Yoel 2:2; Tehillim 35:18), strength through
 numbers, and from there the word expanded to inherent strength, added quality
 and not only quantity. Alternatively, it is borrowed from *etzem*, bone, the
 strongest part of the body.
@@ -148,7 +149,7 @@ meaning strong or hard, by the interchange of tzadi and zayin.
 Rabbi Wertheimer compares *oz*/*izuz* to *az*, strong or bold: ע-ז is strength of
 spirit, a resolve others cannot easily dissuade or deter. A person's *oz* is so
 palpable that it shows in his face (see Koheles 8:1), and so it is poetically
-called a garment he wears (see Mishlei 31:24 as printed; see Sources). Moshe
+called a garment he wears (see Mishlei 31:25). Moshe
 told the spies to see whether the Canaanites were *chazak* or weak (Bamidbar
 13:18), and they reported them *az* (13:28): charged with gauging physical
 strength, they examined the Canaanites' psychological resolve instead, and found
@@ -157,8 +158,8 @@ a determination that could be seen on their faces.
 Rabbi Naftali Hertz Wessely (Weisel, 1725 to 1805): the primary meaning of *oz*
 always refers to Divine, supernatural power, in contrast to *gevurah*, which can
 also refer to power within the normal course of nature. Rabbi Edel cites him and
-adds that this is the sense of "Hashem gives *oz* to His nation" (Tehillim 29:11;
-the article prints 28:11): He lifts Yisrael above the rules of nature. On this
+adds that this is the sense of "Hashem gives *oz* to His nation" (Tehillim
+29:11): He lifts Yisrael above the rules of nature. On this
 view *oz* means anything strong only in a borrowed sense. "Give *oz* to God"
 (Tehillim 68:35) cannot literally mean that a mortal strengthens Hashem; when
 Yisrael follow His will He showers them with abundance, as if they had given
@@ -175,7 +176,7 @@ month of the *Eitanim*. The Gemara (Rosh Hashanah 11a) explains that the Avos,
 called *eitanim*, "powerful ones," were born in it, which leads the Gemara
 elsewhere to identify Eitan HaEzrachi (Tehillim 89:1) with Avraham, the
 "powerful" one who stemmed the tide of polytheism (see Maharsha to Bava Basra
-15a). The article sets out to show that five words for power, *eitan*, *koach*,
+15a). The column sets out to show that five words for power, *eitan*, *koach*,
 *gevurah*, *adir* and *kabir*, are not true synonyms.
 
 *Nachal eitan* (Devarim 21:4): for Rashi *nachal* is a valley or wadi and
@@ -183,7 +184,7 @@ elsewhere to identify Eitan HaEzrachi (Tehillim 89:1) with Avraham, the
 *nachal* is a river and *eitan* strong-flowing. Rabbi Edel, without referring to
 either, reconciles their views: *eitan* is literally the river bank, which seems
 to hold the waters back from passing its threshold, and that restraint takes
-great strength, so *eitan* came to mean strength and power. The article then
+great strength, so *eitan* came to mean strength and power. The column then
 observes that *eitan* describes Yosef's unshakeable righteousness (Bereishis
 49:24) and the rocky habitat of Yisro's descendants (Bamidbar 24:21), who like
 Avraham showed strong discipline and self-control. Rav Samson Raphael Hirsch
@@ -192,7 +193,7 @@ lasted a long time, like bedrock. On Tishrei, the Gemara there adds that even if
 the Avos were not born in it, the month is "powerful" for being blessed with
 more timely mitzvos than other months; Metzudas David (to Melachim I 8:2): it
 is a powerful month for its many holidays that serve self-perfection. The
-article's lesson: Tishrei can make a person a firm, strongly anchored stalwart,
+column's lesson: Tishrei can make a person a firm, strongly anchored stalwart,
 as hard to budge as rock.
 
 Rabbi Pappenheim admits he is unsure how to break the word down. In *Yerios
@@ -214,7 +215,7 @@ components are equally powerful.
 
 *Adir*: Rabbi Pappenheim, calling someone *chazak* means he is more powerful
 than someone else, *adir* that he is the most powerful of a whole group. The
-article finds it apt that Hashem is described as *adir* (see Shemos 15:6;
+column finds it apt that Hashem is described as *adir* (see Shemos 15:6;
 Tehillim 8:2, 93:4). Rabbi Pappenheim traces *adir* to ד-ר, freedom of motion
 without limitation or constriction, and Hashem is free of subjection to any
 other force. Rabbi Edel: *adir* is related to *adar*/*hadar*, beauty and glory,
@@ -237,17 +238,17 @@ with a persuasive argument.
 
 - *koach* "strength"; *gevurah* "might", or "heroism" where the passage works
   with Rabbi Soloveitchik's sense; so the morning berachos can read "who girds
-  Yisrael with might" and "who gives strength to the tired" (our rendering;
-  Rabbi Soloveitchik would give *gevurah* as "heroism"); *chozek* "strength",
+  Yisrael with might" and "who gives strength to the tired" (Rabbi
+  Soloveitchik would give *gevurah* as "heroism"); *chozek* "strength",
   *chazak* "strong"; *ometz* "fortitude", "resolve"; *oz* "might", *az* "bold";
   *eitan* "steadfast"; *adir* "mighty"; *kabir* "mighty in number"; *takif*
   "overpowering"; *otzem* "vastness" (number) or "innate strength".
-- חזק ואמץ: our rendering is "be strong and resolute", which fits Bedersi and
+- חזק ואמץ: "be strong and resolute" fits Bedersi and
   Wertheimer's scale (the greater word second) and the Vilna Gaon's outer
   strength and strength of heart alike; "strong and courageous" only if
   "courageous" is held for *ometz* throughout. Malbim's temporary against lasting
   strength and Rabbi Shapira-Frankfurter's courage to enter against courage to
-  stay are further readings the article leaves standing; where a passage works
+  stay are further readings the column leaves standing; where a passage works
   with one of them, the English should follow it.
 - Trap: "strength" absorbs every word here, "power" absorbs *koach*, *oz* and
   *takif*. When several sit together, assign each its English before drafting
@@ -262,28 +263,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Power to Hold Back](https://articles.ohr.edu/articles/the-power-to-hold-back)," What's in a Word?, Ohr
-Somayach, 8 Tishrei 5781 (2020-09-26), raw text in
-`sources/whats-in-a-word/raw/8868-the-power-to-hold-back.md`; and "The Strong
-Ones," 23 Elul 5780 (2020-09-12), raw text in
-`sources/whats-in-a-word/raw/8857-the-strong-ones.md`. Primary loci in "The
-Power to Hold Back": Melachim I 8:2 with Rosh Hashanah 11a and Metzudas David;
-Tehillim 89:1 with Bava Basra 15a and Maharsha; Devarim 21:4 with Rashi and
-Rambam, Hilchos Rotzeach 9:2; Bereishis 49:24; Bamidbar 24:21; Rav Hirsch to
-Shemos 14:27; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Avos 4:1;
-Rabbi Soloveitchik, *Catharsis*; Bereishis 7:18-19; Yoma 69b; Yirmiyahu 32:18;
-Rashi to Berachos 8a; Targum to Devarim 8:18; Shabbos 119b with Rashi and
-Tosafos; Shemos 15:6; Tehillim 8:2, 93:4. In "The Strong Ones": Devarim 31:7,
-31:23; Yehoshua 1:6-18; Divrei HaYamim I 22:13, 28:20; Vilna Gaon to Yehoshua
-1:7 and Mishlei 24:5; Malbim, *Yair Ohr* and to Yeshayahu 28:2; *HaRechasim
-LeVikah* to Bereishis 25:23; Berachos 32b; Zechariah 6:3; Shemos 1:8, 1:20;
-Devarim 7:1; Yoel 2:2; Tehillim 35:18; Koheles 8:1; Mishlei 31:24; Bamidbar
-13:18, 13:28; Tehillim 29:11, 68:35; Eichah Rabbah 1:33; Esther 9:29, 10:2;
-Koheles 4:12; Daniel 4:27; *Ohel Moed*. Slips in the articles, noted rather than
-repeated: Tehillim 28:11 for 29:11 (Tehillim 28 has nine pesukim); Mishlei
-31:24 for 31:25, where *oz* is called a garment; Shemos 1:8 has no form of
-ע-צ-ם (the root stands at 1:7, 1:9 and 1:20); of the four occurrences within
-Yehoshua 1:6-18 that the article gives to Hashem, the last (1:18) is said by
-the people to Yehoshua; and the article has Hashem say *chazak v'ematz* in
-Berachos 32b "through Moshe," where the pasuk the Gemara expounds is Yehoshua
-1:7, said by Hashem after Moshe's death.
+Rabbi Reuven Chaim Klein, "[The Power to Hold Back](https://articles.ohr.edu/articles/the-power-to-hold-back)," *What's in a Word?*, Ohr Somayach, 26 September 2020.
+
+Rabbi Reuven Chaim Klein, "[The Strong Ones](https://articles.ohr.edu/articles/the-strong-ones)," *What's in a Word?*, Ohr Somayach, 12 September 2020.
+
+Cited in the essay: Bereishis 7:18-19, 25:23, 49:24; Shemos 1:20, 14:27, 15:6; Bamidbar 13:18, 13:28, 24:21; Devarim 7:1, 8:18, 21:4, 31:7, 31:23; Yehoshua 1:6, 1:7, 1:9, 1:18; Melachim I 8:2; Yeshayahu 28:2; Yirmiyahu 32:18; Yoel 2:2; Zechariah 6:3; Tehillim 8:2, 29:11, 35:18, 68:35, 89:1, 93:4; Mishlei 24:5, 31:25; Koheles 4:12, 8:1; Esther 9:29, 10:2; Daniel 4:27; Divrei HaYamim I 22:13, 28:20; Avos 4:1; Berachos 8a, 32b; Shabbos 119b; Yoma 69b; Rosh Hashanah 11a; Bava Basra 15a; *Eichah Rabbah* 1:33; Targum to Devarim 8:18; Rashi to Devarim 21:4, Berachos 8a and Shabbos 119b; Tosafos to Shabbos 119b; Rambam, Hilchos Rotzeach 9:2; Maharsha to Bava Basra 15a; Metzudas David to Melachim I 8:2; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Yehuda Leib Edel; Rav Hirsch to Shemos 14:27; Rabbi J. B. Soloveitchik, *Catharsis*; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer; the Vilna Gaon to Yehoshua 1:7 and Mishlei 24:5; Malbim, *Yair Ohr* and to Yeshayahu 28:2; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVikah* to Bereishis 25:23; Rabbi Dr. Asher Weiser; Rabbi Moshe Shapiro; Rabbi Aharon Marcus; Rabbi Naftali Hertz Wessely; Rabbi Yerucham Levovitz; Rabbi Shlomo of Urbino, *Ohel Moed*, with Yonah Wilheimer's 1881 edition.

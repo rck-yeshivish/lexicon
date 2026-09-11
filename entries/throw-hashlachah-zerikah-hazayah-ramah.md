@@ -26,13 +26,13 @@ sometimes connotes throwing purposefully and forcefully (Maharal: it implies
 force). *Hazayah* is *zerikah* at a longer distance (Rabbi Pappenheim) or by
 hand rather than with a vessel (Malbim): **sprinkle**. *Ramah* is throwing
 upward in an arc so that it lands exactly on its target: **hurl**, **shoot**.
-The trap is treating *hashlachah* as vigorous; Maharal reads it as throwing
-without force, and so, Rabbi Yehoshua Hartman suggests, does Rashbam.
+Maharal reads *hashlachah* as throwing without force, and so, Rabbi Yehoshua
+Hartman suggests, does Rashbam.
 
 ## Distinctions
 
 ### hashlachah (השלכה)
-The article opens with Yosef: *hashlachah* three times as the brothers plan to
+The column opens with Yosef: *hashlachah* three times as the brothers plan to
 throw his body into a pit, as Reuven persuades them to throw him in alive, and
 as they do (Bereishis 37:20, 22, 24). Rabbi Shlomo Pappenheim of Breslau:
 *hashlachah* is throwing in a way that does not show whether one means to hit
@@ -135,13 +135,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Real Toss Up](https://articles.ohr.edu/articles/a-real-toss-up)," What's in a Word?, Ohr Somayach,
-21 December 2019 / 23 Kislev 5780: raw text in
-`sources/whats-in-a-word/raw/8528-a-real-toss-up.md`. Primary loci cited:
-Bereishis 21:15, 37:20, 37:22, 37:24; Shemos 1:22, 7:10, 9:8, 15:1, 22:30,
-32:19, 32:24; Bamidbar 19:6; Devarim 29:27; Tehillim 51:13; Mishnah Shabbos
-11:1; Chagigah 15a; Rashi and Maharal to Shemos 9:8; Rashbam to Shemos 32:19;
-Ramban to Bereishis 21:15; the dictionaries of Ernest Klein and Avraham
-Even-Shoshan for the *shaphel* theory. The article gives the root left after
-removing the *shaphel* *shin* as "lamed-ches, going"; the root for going is
-ל-ך, lamed-chaf, as the article itself has it for Rabbi Pappenheim's ל-כ.
+Rabbi Reuven Chaim Klein, "[A Real Toss Up](https://articles.ohr.edu/articles/a-real-toss-up)," *What's in a Word?*, Ohr Somayach, 21 December 2019.
+
+Cited in the essay: Bereishis 21:15, 37:20, 37:22, 37:24; Shemos 1:22, 7:10, 9:8, 15:1, 22:30, 32:19, 32:24; Bamidbar 19:6; Devarim 29:27; Tehillim 51:13; Mishnah Shabbos 11:1; Chagigah 15a; Rabbi Shlomo Pappenheim; Ramban to Bereishis 21:15; Rashi and Maharal to Shemos 9:8; Rashbam to Shemos 32:19; Rabbi Yehoshua Hartman; Malbim; Menachem Ibn Saruk; Ibn Janach; Radak; the dictionaries of Ernest Klein and Avraham Even-Shoshan; Rabbi Moshe Shapiro; the Targumim.

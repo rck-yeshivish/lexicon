@@ -34,10 +34,9 @@ opposed to bitter. *Areiv* is **pleasing**: for Rabbi Pappenheim, sweetness as
 this particular person finds it; in Tanach it attaches to a voice, on one view
 to a scent, and to food only once. *Na'im* is **pleasant**: visual appeal for
 the Vilna Gaon, and for Rabbi Pappenheim not a physical property at all but the
-transcendent pleasure of enjoying the thing. The trap is rendering all three
-"sweet": where the Hebrew moves from *matok* to *areiv* it has moved, on Rabbi
-Pappenheim's reading, from what everyone tastes to what one person happens to
-love, and a passage may turn on that move.
+transcendent pleasure of enjoying the thing. Where the Hebrew moves from
+*matok* to *areiv* it has moved, on Rabbi Pappenheim's reading, from what
+everyone tastes to what one person happens to love.
 
 ## At a glance
 
@@ -53,12 +52,10 @@ love, and a passage may turn on that move.
 *matok* is gustatory appeal. Rabbi Shlomo Pappenheim of Breslau: *na'im* names
 no physical property at all but the transcendent pleasure one derives from
 enjoying something sweet, so that *matok* and *areiv* refer to the physical and
-*na'im* to the sublime. The article sets the two side by side and does not
-choose between them. For rendering (our note): where a passage plainly means
-something good to look at, the Gaon's reading fits, and where it is the pleasure itself, Rabbi
-Pappenheim's.
+*na'im* to the sublime. The column sets the two side by side and does not
+choose between them.
 
-**Where areiv comes from.** According to etymologists, the article reports, the
+**Where areiv comes from.** According to etymologists, the column reports, the
 origin of *areiv* is unknown, though some linguists suggest it first meant "to
 be well-mixed," related to *arev*, mixed: a glass of wine properly mixed with
 the right proportion of water is pleasant and especially appealing, and on
@@ -70,10 +67,10 @@ connection (see Distinctions). The Vilna Gaon does not directly address *areiv*.
 
 ### matok (מתוק)
 Root מ-ת-ק. At Marah Hashem had Moshe cast a tree into the bitter (*mar*)
-waters and made them *matok*, and the article asks how *matok* differs from
+waters and made them *matok*, and the column asks how *matok* differs from
 *areiv*. The Vilna Gaon does not directly address that question, but
 distinguishes *matok*, gustatory appeal, from *na'im*/*noam*, visual appeal. In
-Tanach, the article observes, words related to *matok* or *metek* commonly refer
+Tanach, the column observes, words related to *matok* or *metek* commonly refer
 to culinary sweetness. Rabbi Shlomo Pappenheim: *matok* is the objective measure of
 taste, the kind everyone recognizes as sweet, found in honey, figs and dates,
 and the polar opposite of bitter. From there it was borrowed for anything one
@@ -86,7 +83,7 @@ Root ע-ר-ב. Pappenheim: against *matok*, *areiv* is a *subjective* sweetness,
 acquired taste and a matter of personal choice. One with an affinity for bitter
 food might say "bitter is *areiv* to me," but not "bitter is *matok* to me."
 
-Before bringing Rabbi Pappenheim, the article surveys the usage on its own
+Before bringing Rabbi Pappenheim, the column surveys the usage on its own
 account: *areiv* never appears in a gastronomical context in Tanach except
 Mishlei 20:17; it is used of a voice (Shir HaShirim 2:14, "your voice is
 *areiv*"), and one opinion in Berachos 43a has the berachah over balsam oil as
@@ -141,13 +138,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Sweet and Pleasant](https://articles.ohr.edu/articles/sweet-and-pleasant)," What's in a Word?, Ohr
-Somayach, 11 Shevat 5778 (2018-01-27):
-https://articles.ohr.edu/articles/sweet-and-pleasant; raw text in
-`sources/whats-in-a-word/raw/7611-sweet-and-pleasant.md`. Primary loci cited:
-Shir HaShirim 2:14; Mishlei 20:17; Berachos 43a (*borei shemen areiv*); the
-*ve'haarev na* berachah of Birchos HaTorah and the *ve'se'erav lefanecha*
-passage before Birkas Kohanim in the Yom Tov Mussaf. The article tells the
-Marah episode without a verse; Shemos 15:23-25 is supplied here. The Vilna
-Gaon and Rabbi Pappenheim are cited without a work. The etymologists and
-linguists on the origin of *areiv* are unnamed in the article.
+Rabbi Reuven Chaim Klein, "[Sweet and Pleasant](https://articles.ohr.edu/articles/sweet-and-pleasant)," *What's in a Word?*, Ohr Somayach, 27 January 2018.
+
+Cited in the essay: Shemos 15:25; Mishlei 20:17; Shir HaShirim 2:14; Berachos 43a (*borei shemen areiv*); the *ve'haarev na* berachah of Birchos HaTorah and the *ve'se'erav lefanecha* passage before Birkas Kohanim in the Yom Tov Mussaf; the Vilna Gaon; Rabbi Shlomo Pappenheim.

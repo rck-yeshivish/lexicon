@@ -24,12 +24,10 @@ outright, and Targum renders Gichon as *Shilucha*. Later linguists disagree:
 for Wilhelm Gesenius the Gichon is the fountain and the Shiloach the aqueduct
 that channels it, for Avraham Even-Shoshan the Shiloach is a channel or pool the
 Gichon flows into, and for Professor Carol A. Dray the Gichon lay outside the
-walls and the Shiloach within. Render both as proper names, **Gichon** and
-**Shiloach**; "aqueduct," "channel" or "pool" for Shiloach carries the second
-view. The other trap is the *other* Gichon: the river of Bereishis 2:13 that
-circles Kush is, for Rashi and Rabbi Avraham Maimuni, a different river from the
-Yerushalayim spring, while Rav Saadia Gaon, Ibn Ezra and the Ramah identify the
-two; do not let one English "Gichon" decide that. *Gachon* (Bereishis 3:14) is
+walls and the Shiloach within. There is also the *other* Gichon: the river of
+Bereishis 2:13 that circles Kush is, for Rashi and Rabbi Avraham Maimuni, a
+different river from the Yerushalayim spring, while Rav Saadia Gaon, Ibn Ezra
+and the Ramah identify the two. *Gachon* (Bereishis 3:14) is
 not a place at all but the serpent's **belly**, which Rav Hirsch and Rabbi
 Pappenheim tie to the name Gichon.
 
@@ -163,18 +161,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Matos Masei: The Shiloach Waters](https://articles.ohr.edu/articles/matos-masei-the-shiloach-waters)," What's in a
-Word?, Ohr Somayach, 26 Tamuz 5783 (2023-07-15): raw text in
-`sources/whats-in-a-word/raw/11019-matos-masei-the-shiloach-waters.md`. Primary
-loci cited: Bereishis 2:13 and 3:14; Melachim I 1:33, 1:38, 1:45; Divrei
-HaYamim II 32:4, 32:30, 33:14; Yeshayahu 8:6; Nechemiah 3:15; Iyov 38:8; Michah
-4:10; Tehillim 22:10; Zechariah 14:8; Mishnah *Pesachim* 4:9 and *Sukkah* 4:10;
-Kerisus 5b; Berachos 10b; Rashi to Kerisus 5b, Berachos 10b, Sukkah 48a,
-Melachim I 1:33, Yeshayahu 8:6 and Bereishis 2:13; Targum to Melachim I 1:33
-and Yeshayahu 8:6; Radak, *Sefer HaShorashim* s.v. גוח, and to Bereishis 2:13,
-Melachim I 1:33 and Divrei HaYamim II 32:30; Ibn Janach, *Sefer HaShorashim*;
-Ibn Ezra to Shemos 2:11; *HaKosev* to *Ein Yaakov*, Horayos 12a; Rav Hirsch to
-Bereishis 3:14; *Get Pashut*, Even HaEzer 128:37; *Divrei Yoel*, Even HaEzer
-125; Rama, Even HaEzer 128:3; Radal to *Pirkei DeRabbi Eliezer* 9:30; Wilhelm
-Gesenius; Avraham Even-Shoshan's concordance; Professor Carol A. Dray; the
-Septuagint.
+Rabbi Reuven Chaim Klein, "[Matos Masei: The Shiloach Waters](https://articles.ohr.edu/articles/matos-masei-the-shiloach-waters)," *What's in a Word?*, Ohr Somayach, 15 July 2023.
+
+Cited in the essay: Bereishis 2:13, 3:14; Melachim I 1:33, 1:38, 1:45; Yeshayahu 8:6; Michah 4:10; Zechariah 14:8; Tehillim 22:10; Iyov 38:8; Nechemiah 3:15; Divrei HaYamim II 32:4, 32:30, 33:14; Mishnah *Pesachim* 4:9 and *Sukkah* 4:10; Berachos 10b; Kerisus 5b; Rashi to Bereishis 2:13, Melachim I 1:33, Yeshayahu 8:6, Berachos 10b, Sukkah 48a and Kerisus 5b; Targum to Melachim I 1:33 and Yeshayahu 8:6; Ibn Janach and Radak, *Sefer HaShorashim* (ג-ו-ח); Radak to Bereishis 2:13, Melachim I 1:33 and Divrei HaYamim II 32:30; Rabbi Yosef Kimchi; Ibn Ezra to Shemos 2:11; Rav Saadia Gaon; the Ramah, cited by *HaKosev* to *Ein Yaakov*, Horayos 12a; Rabbi Avraham Maimuni, with the glosses of Rabbi Moshe Maimon; Radal to *Pirkei DeRabbi Eliezer* 9:30; Rav Hirsch to Bereishis 3:14; Rabbi Shlomo Pappenheim; Rabbi Moshe Ibn Chaviv, *Get Pashut*, Even HaEzer 128:37; Rabbi Yoel Teitelbaum, *Divrei Yoel*, Even HaEzer 125; Rama, Even HaEzer 128:3; Wilhelm Gesenius; Avraham Even-Shoshan's concordance; Professor Carol A. Dray; the Septuagint.

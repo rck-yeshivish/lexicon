@@ -32,15 +32,13 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Chidekel* and *Diglat* are one river under two names, and both render **Tigris**:
-*Chidekel* is the Biblical name, *Diglat* the later one that Targum and Shas use.
-Rashi states explicitly that the Diglat of the Gemara is the Chidekel of Tanach, so
-never translate them as two rivers; that the two are cognates, Hebrew and Aramaic, is
-Shadal's observation. Where a passage expounds the name, keep the Hebrew visible:
-Berachos 59b hears *chad* (sharp) and *kal* (light, swift) in *Chidekel*, and that
-derashah dies in English. *Tigras* in Chullin 59b is a separate word for an animal,
-not the river, though Abarbanel and Rabbi Binyamin Mussafia tie the river's Greek name
-to the tiger.
+*Chidekel* and *Diglat* are one river under two names, the **Tigris**:
+*Chidekel* is the Biblical name, *Diglat* the later one that Targum and Shas
+use. Rashi states explicitly that the Diglat of the Gemara is the Chidekel of
+Tanach; that the two are cognates, Hebrew and Aramaic, is Shadal's observation.
+Berachos 59b hears *chad* (sharp) and *kal* (light, swift) in *Chidekel*.
+*Tigras* in Chullin 59b is a separate word for an animal, not the river, though
+Abarbanel and Rabbi Binyamin Mussafia tie the river's Greek name to the tiger.
 
 ## At a glance
 
@@ -96,7 +94,7 @@ implies that the name was parsed as *mar* ("master") plus *tichoras*, corrupted 
 ## Distinctions
 
 ### Chidekel (חדקל)
-The article opens with the borders of Eretz Yisrael, reaching the Euphrates in Devarim
+The column opens with the borders of Eretz Yisrael, reaching the Euphrates in Devarim
 1:7 and in Shemos 23:31 as Targum Onkelos and Rashi read it, against the Yarden of
 Bamidbar 34:12; Mesopotamia, the Greek "land between two rivers," lies between the
 Euphrates and the Tigris. *Chidekel* appears twice in Tanach: Bereishis 2:14, the third
@@ -185,19 +183,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Devarim: The Sharp River](https://articles.ohr.edu/articles/devarim-the-sharp-river)," What's in a Word?, Ohr Somayach, 8
-Av 5785 (2025-08-02): raw text in
-`sources/whats-in-a-word/raw/11903-devarim-the-sharp-river.md`. Primary loci cited:
-Bereishis 2:11, 2:14, 10:22; Shemos 23:31; Bamidbar 1:52, 34:12; Devarim 1:7; Melachim
-II 15:29, 16:7, 16:10; Divrei HaYamim I 5:6; Divrei HaYamim II 28:20; Nachum 1:12;
-Daniel 10:4; Berachos 59b; Bava Kamma 30a; Taanis 24b; Eruvin 22b, 57b; Moed Katan 25b;
-Yevamos 121a; Kiddushin 71b; Chullin 59b; Bereishis Rabbah 16:4; Targum Onkelos and
-Targum Neofiti to Bereishis 2:14; the Peshitta; Rabbi Saadia Gaon, *Tafsir*; Abarbanel,
-Shadal and *Torah Temimah* to Bereishis 2:14; *Kedushah U'Brachah* and *Shevo
-V'Achlamah* to Berachos 59b; Rabbi Matzliach Mazuz, *Vaya'an Shmuel* vol. 12 p. 76;
-Rabbi Aharon Marcus, *Keses HaSofer* and *Barzilai*; *Mussaf HeAruch* and *HeAruch
-HaShaleim* s.v. *tigras*; Josephus, *Antiquities* 1.1.3; Isidore of Seville,
-*Etymologies*; Wilhelm Gesenius on Tiglat-Pileser; Rabbi Ernest Klein's etymological
-dictionary of English. Where the article explains Rav Hirsch's pairing of ד-ג-ל with
-ד-ק-ל by the interchange of "gimmel and dalet," the letters that differ are gimmel and
-kuf.
+Rabbi Reuven Chaim Klein, "[Devarim: The Sharp River](https://articles.ohr.edu/articles/devarim-the-sharp-river)," *What's in a Word?*, Ohr Somayach, 2 August 2025.
+
+Cited in the essay: Bereishis 2:11, 2:14, 10:22; Shemos 23:31; Bamidbar 1:52, 34:12; Devarim 1:7; Melachim II 15:29, 16:7, 16:10; Nachum 1:12; Daniel 10:4; Divrei HaYamim I 5:6; Divrei HaYamim II 28:20; Berachos 59b; Eruvin 22b, 57b; Taanis 24b; Moed Katan 25b; Yevamos 121a; Kiddushin 71b; Bava Kamma 30a; Chullin 59b; *Bereishis Rabbah* 16:4; Targum Onkelos to Bereishis 2:14 and Shemos 23:31; Targum to Nachum 1:12; Targum Neofiti to Bereishis 2:14; the Peshitta; Rashi to Shemos 23:31, Taanis 24b, Moed Katan 25b and Bava Kamma 30a; Rabbi Saadia Gaon, *Tafsir* to Bereishis 2:14; Abarbanel, Shadal and *Torah Temimah* to Bereishis 2:14; Rav Hirsch to Bamidbar 1:52; Rabbi Naftali HaKohen Katz, *Kedushah U'Brachah* to Berachos 59b; Rabbi Refael Mamo, *Shevo V'Achlamah* to Berachos 59b; Rabbi Matzliach Mazuz, *Vaya'an Shmuel* vol. 12 p. 76, and *Shayarei Kehunah HaChadash*, *Orach Chaim* 47; Rabbi Aharon Marcus, *Keses HaSofer* to Bereishis 2:11 and *Barzilai* p. 127; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Dr. Alexander Kohut, *HeAruch HaShaleim*; Josephus, *Antiquities* 1.1.3; Rabbi Levi ben Avraham; Rabbi Nissim of Marseilles; Isidore of Seville, *Etymologies*; Wilhelm Gesenius; Rabbi Ernest Klein's etymological dictionary of English.

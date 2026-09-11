@@ -29,11 +29,11 @@ prisoners (Radak), all the captured people (Malbim), or living people or animals
 (the Gra). *Ad* the column leaves unsettled: plunder, as in Aramaic (Rashi);
 ornamental battle-dress (Pappenheim); jewelry and decorative items, against
 *shalal* the catch-all (Mecklenburg); or dead animals taken as war prizes, not
-ordinary booty (Malbim). The trap: English "spoils" and "booty" cover all five,
-and the Midian account (Bamidbar 31) uses four of them, each doing separate
-work. The column's frame: the words are not truly synonymous, for the Egyptians
-say "I will apportion the *shalal*" (Shemos 15:9), yet what the Jews took from
-them is *bizas Mitzrayim* and *bizas hayam*, not *shalal*.
+ordinary booty (Malbim). The Midian account (Bamidbar 31) uses four of them,
+each doing separate work. The column's frame: the words are not truly
+synonymous, for the Egyptians say "I will apportion the *shalal*" (Shemos 15:9),
+yet what the Jews took from them is *bizas Mitzrayim* and *bizas hayam*, not
+*shalal*.
 
 ## Distinctions
 
@@ -103,7 +103,7 @@ he divides *shalal*" (Bereishis 49:27). Rashi: *ad* here is plunder, and the roo
 points out that most times Tanach uses *shalal* or *bizah*, the Targumim render
 them with Aramaic cognates of *ad*. The Aramaic root also means removal (Targum
 Onkelos to Shemos 25:15) and even atonement, the removal of sin (Targum to
-Yeshayahu 47:1, as the column cites it), which the column relates to booty as
+Yeshayahu 47:11), which the column relates to booty as
 the removal of property from the loser's domain. Rabbi Pappenheim derives it
 instead from *adi*, "jewelry, ornament," and limits it to the ornamental clothes
 soldiers wore to battle and were stripped of when captured. Malbim: *ad* is not
@@ -141,16 +141,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Take Your Spoils](https://articles.ohr.edu/articles/take-your-spoils)," What's in a Word?, Ohr Somayach,
-13 Shevat 5780 (2020-02-08): raw text in
-`sources/whats-in-a-word/raw/8594-take-your-spoils.md`. Primary loci: Shemos
-15:9, 3:5, 25:15 (Targum Onkelos); Bamidbar 31:11-12 and 31:27, with Rashi and
-*Gur Aryeh* to 31:11 and Rav Hirsch to 31:11; Bereishis 49:27 with Rashi;
-Yeshayahu 10:6 and 47:1; Divrei HaYamim II 14:13, 15:11; *Biur HaGra* to
-Yeshayahu 10:6 and to Divrei HaYamim II 14:13; Rabbi Shmuel Ibn Tibbon's Hebrew
-translation of the *Moreh Nevuchim*. The column names Rabbi Avraham Bedersi
-HaPenini without naming his work. Two loci as the column prints them: it says
-Bamidbar 31:11-12 uses *shevi*, *baz*, *malkoach* and *shalal*, but those two
-verses have *shalal*, *malkoach* and *shevi*, with *baz* at 31:9 (as a verb) and
-31:32 (as a noun); and Targum to Yeshayahu 47:1 has no atonement in it, the
-verse that speaks of atoning being presumably 47:11.
+Rabbi Reuven Chaim Klein, "[Take Your Spoils](https://articles.ohr.edu/articles/take-your-spoils)," *What's in a Word?*, Ohr Somayach, 8 February 2020.
+
+Cited in the essay: Bereishis 49:27; Shemos 3:5, 15:9; Bamidbar 31, 31:11, 31:27; Divrei HaYamim II 15:11; Rashi to Bereishis 49:27 and Bamidbar 31:11; Rabbi Avraham Bedersi HaPenini; Maharal, *Gur Aryeh* to Bamidbar 31:11; Radak; Rabbi Yaakov Chaim Sofer; Rav Hirsch to Bamidbar 31:11; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shmuel Ibn Tibbon, Hebrew translation of the *Moreh Nevuchim*; *Biur HaGra* to Yeshayahu 10:6 and Divrei HaYamim II 14:13; Menachem Ibn Saruk; Ibn Janach; Rabbi Baruch HaLevi Epstein; Rabbi Eliyahu HaBachur; Targum Onkelos to Shemos 25:15; Targum to Yeshayahu 47:11; Rabbi Yaakov Tzvi Mecklenburg.
