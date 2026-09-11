@@ -23,8 +23,8 @@ hapax in Iyov 21:24, understood by the Ralbag and others as **breasts**; in
 Modern Hebrew it is the **udders** of a milk-producing animal or a human
 **nipple**. *Ziz* (Yeshayahu 66:11) is disputed: Radak reads it as *ziv*,
 **radiance**, while Shadal and Gesenius read it as **breast**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the
-first three as Biblical synonyms; do not assume *dadim* always matches
-*shadayim*, since Malbim holds they name different parts of the body.
+first three as Biblical synonyms, though Malbim holds that *dadim* and
+*shadayim* name different parts of the body.
 
 ## Distinctions
 
@@ -168,19 +168,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Nursing from the Good](https://articles.ohr.edu/articles/nursing-from-the-good)," What's in a Word?, Ohr
-Somayach, 13 Av 5784 (2024-08-17):
-https://articles.ohr.edu/articles/nursing-from-the-good; raw text in
-`sources/whats-in-a-word/raw/11489-nursing-from-the-good.md`. Primary loci:
-Bereishis 49:25 with Rashi; Bamidbar 11:8 with Rashi, *Yoma* 75a, *Sifrei*
-Behaaloscha 89, Tosefta *Sotah* 4:1; Yechezkel 23:3 with Rabbeinu Chananel as
-quoted by Rabbi Menachem ben Shimon of Posquieres; Mishlei 5:19 with *Eruvin*
-54b; *Shabbos* 53b; *Yoma* 3:10; Iyov 21:23-25 with Rashi, the Ralbag, and Targum
-there; Yeshayahu 66:11 with Radak, Shadal, Gesenius, *Daas Mikra*, Malbim and
-Mitchell First; Daniel 1:7 with Pseudo-Rasag; Bamidbar 1:5, 2:10, 7:30, 7:35,
-10:18, 11:26-27, 34:21; Yerushalmi *Kilayim* 1:7 and
-Bereishis Rabbah 5:9 with *Sefer HeAruch*; Koheles 2:8; *Maasros* 4:3, *Bava
-Metzia* 5:7, *Taharos* 9:1 and 9:9, *Menachos* 8:4, *Negaim* 6:7-8, *Niddah*
-5:8, *Bechoros* 7:5, *Sotah* 1:6, *Keilim* 8:11; Dr. Hayim Tawil, *An Akkadian
-Lexical Companion for Biblical Hebrew*; David J. A. Clines, *The Dictionary of
-Classical Hebrew*.
+Rabbi Reuven Chaim Klein, "[Nursing from the Good](https://articles.ohr.edu/articles/nursing-from-the-good)," *What's in a Word?*, Ohr Somayach, 17 August 2024.
+
+Cited in the essay: Bereishis 49:25 with Rashi; Bamidbar 11:8 with Rashi, *Yoma* 75a, *Sifrei* Behaaloscha 89, Tosefta *Sotah* 4:1; Yechezkel 23:3 with Rabbeinu Chananel as quoted by Rabbi Menachem ben Shimon of Posquieres, 23:8, 23:21; Mishlei 5:19 with *Eruvin* 54b; *Shabbos* 53b; *Yoma* 3:10; Iyov 21:23-25 with Rashi, the Ralbag, and Targum there; Yeshayahu 66:11 with Radak, Shadal, Gesenius, *Daas Mikra*, Malbim and Mitchell First; Daniel 1:7 with Pseudo-Rasag; Bamidbar 1:5, 2:10, 7:30, 7:35, 10:18, 11:26-27, 34:21; Shmuel I 14:33, 15:19; Yerushalmi *Kilayim* 1:7 and Bereishis Rabbah 5:9 with *Sefer HeAruch*; Koheles 2:8; *Maasros* 4:3, *Bava Metzia* 5:7, *Taharos* 9:1 and 9:9, *Menachos* 8:4, *Negaim* 6:7-8, *Niddah* 5:8, *Bechoros* 7:5, *Sotah* 1:6, *Keilim* 8:11; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi Ashkenazi, *Otzar Nirdafim*; Dr. Hayim Tawil, *An Akkadian Lexical Companion for Biblical Hebrew*; David J. A. Clines, *The Dictionary of Classical Hebrew*.

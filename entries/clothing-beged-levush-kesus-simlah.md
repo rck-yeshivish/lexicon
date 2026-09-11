@@ -51,8 +51,8 @@ is not a garment-type but what one dresses in, so **apparel**, and in practice
 the distinctive dress of a station (*levush malchus*). *Kesus* is a **covering**,
 draped rather than put on; *simlah* (or *salmah*) a **cloak**, a *kesus* that
 also confers honor. *Mad* is the **fitted garment**, *me'il* the **outer robe**,
-*maateh* any **wrap**. The trap: *beged* and *levush* both come out "clothing,"
-and the difference between them carries two separate derashos.
+*maateh* any **wrap**. The difference between *beged* and *levush* carries two
+separate derashos.
 
 ## At a glance
 
@@ -74,12 +74,11 @@ and the difference between them carries two separate derashos.
 a garment specially sewn to his shape and dimensions. Rabbi Shlomo Aharon
 Wertheimer is the one who points out that the two stand in contrast, and he
 leaves it there. The
-Bottom line follows Malbim, but keep the Maharik where a sugya turns on
-tailoring.
+Bottom line follows Malbim.
 
 **What kesus names.** Malbim: the manner of wearing, draped rather than donned.
 Rabbi Shlomo Pappenheim: the function, protection from heat and cold. Compatible,
-but they will not always give the same English.
+but not identical.
 
 **simlah against salmah.** The consensus treats them as one word with the lamed
 and mem transposed. Ibn Ezra (to Shemos 22:25) dissents: *simlah* is the general
@@ -110,7 +109,7 @@ deed weaving a *levush* and a bad deed a *beged*. The man makes the clothes.
 ### kesus (כסות), simlah (שמלה) and salmah (שלמה)
 *Kesus* literally means "cover," and names the garment one covers oneself with, a
 shawl or poncho rather than something put on in the usual manner; the kaf sometimes drops
-and it appears as *sus* (Bereishis 49:11; the article prints 41:11). A *kesus* worn at night is a *salmah*
+and it appears as *sus* (Bereishis 49:11). A *kesus* worn at night is a *salmah*
 or *simlah*, and Malbim adds a second difference: *kesus* only covers, while
 *simlah* also honors its wearer. Wertheimer describes it as a linen cloth that
 can be folded to cover head, neck and upper torso, much like a kefiyeh, and
@@ -142,10 +141,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[My Clothes and Me](https://articles.ohr.edu/articles/my-clothes-and-me)," What's in a Word?, Ohr Somayach,
-9 Adar II 5778 (2018-02-24): raw text in
-`sources/whats-in-a-word/raw/7658-my-clothes-and-me.md`. Primary loci cited:
-Bereishis 49:11 for *sus* (the article prints 41:11, where the word does not
-appear); Shemos 22:25 (Ibn Ezra); Shabbos 77b; Bava Kamma 91b; Malbim
-and Rabbi Shlomo Pappenheim on the set; Wertheimer pointing out the contrast
-with the Maharik.
+Rabbi Reuven Chaim Klein, "[My Clothes and Me](https://articles.ohr.edu/articles/my-clothes-and-me)," *What's in a Word?*, Ohr Somayach, 24 February 2018.
+
+Cited in the essay: Bereishis 49:11; Shemos 22:25 with Ibn Ezra; Shabbos 77b; Bava Kamma 91b; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; the Maharik; Rabbi Moshe Shapiro; Rabbi Shlomo of Karlin.

@@ -21,11 +21,10 @@ with circumstances he did not arrange. *Keri* is the same root in the Torah's
 rebuke (Vayikra 26), where it is not a neutral event but **offhandedness** or
 **flippancy** toward Hashem (Rabbi Shlomo Pappenheim reads it instead as the
 sinner's provoking posture), and in Mishnaic Hebrew it is the euphemism for a
-seminal emission (leave it transliterated there). *Te'unah* is a **mishap** or
+seminal emission. *Te'unah* is a **mishap** or
 **befalling**, named for the causes that converge rather than the point of
-contact. *I'rua* is post-biblical, a plain **event** or **incident**. The trap:
-English "accident" flattens *keri* into an accident and loses the whole
-argument of Vayikra 26, which is about attitude, not chance.
+contact. *I'rua* is post-biblical, a plain **event** or **incident**. The whole
+argument of Vayikra 26 is about attitude, not chance.
 
 ## Distinctions
 
@@ -63,9 +62,7 @@ back offhandedly. Rabbi Shlomo Pappenheim takes a slightly different approach:
 antagonistic posture, an attempt to anger Hashem through his actions, so that
 the problem is twofold, the sin itself and the attitude behind it; the
 word then carries his "stronger impact" and draws a stronger response. The
-column leaves both standing. Rav
-Hirsch's reading is the easier default for a translator, since it fits the
-passage's own reciprocity, but that preference is ours, not the column's.
+column leaves both standing.
 
 In the Mishnah *keri* means a seminal emission (*Berachos* 3:4-6, *Terumos*
 1:6, *Avodah Zarah* 3:4, *Avos* 5:5, *Tamid* 1:1, *Middos* 1:9, *Keilim* 1:5,
@@ -167,15 +164,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bamidbar/Shavuot: Coincidence or Happenstance?
-(Part 1/2)](https://articles.ohr.edu/articles/bamidbarshavuot-coincidence-or-happenstance-part-12)," 4 Sivan 5785 (2025-05-31), and "Naso: Coincidence or Happenstance?
-(Part 2/2)," 11 Sivan 5785 (2025-06-07), What's in a Word?, Ohr Somayach: raw text
-in `sources/whats-in-a-word/raw/11821-bamidbarshavuot-coincidence-or-happenstance-part-12.md` and `sources/whats-in-a-word/raw/11822-naso-coincidence-or-happenstance-part-22.md`.
-Primary loci cited: Vayikra 26:14-46 with Megillah 31b; Rabbi Shlomo
-Pappenheim, *Cheshek Shlomo* s.v. ק-ר; Malbim, *Sefer HaCarmel*; Rav Hirsch to
-Bereishis 42:4 and Vayikra 26:21; Rashi to Shemos 21:13; Koheles 3:19, 9:2-3;
-Shmuel I 6:9 and 20:26; Rus 2:3; Devarim 22:6, 23:11, 25:18; Tehillim 85:11,
-91:10; Mishlei
-12:21; Yehoshua 2:23; Bereishis 42:29, 42:38, 44:29; Bamidbar 23:4, 23:16;
-Shemos 21:13; Yirmiyahu 10:11; Rabbi Shaul Goldman; Professor Stephen B.
-Chapman, "Miqreh and YHWH."
+Rabbi Reuven Chaim Klein, "[Bamidbar/Shavuot: Coincidence or Happenstance? (Part 1/2)](https://articles.ohr.edu/articles/bamidbarshavuot-coincidence-or-happenstance-part-12)," *What's in a Word?*, Ohr Somayach, 31 May 2025.
+
+Rabbi Reuven Chaim Klein, "[Naso: Coincidence or Happenstance? (Part 2/2)](https://articles.ohr.edu/articles/naso-coincidence-or-happenstance-part-22)," *What's in a Word?*, Ohr Somayach, 7 June 2025.
+
+Cited in the essay: Vayikra 26:21, 26:23, 26:24, 26:27-28, 26:40-41; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ק-ר; Malbim, *Sefer HaCarmel*; Rav Hirsch to Bereishis 42:4 and Vayikra 26:21; Rashi to Shemos 21:13; Koheles 3:19, 9:2-3; Shmuel I 6:9 and 20:26; Rus 2:3; Devarim 22:6, 23:11, 25:18; Tehillim 85:11, 91:10; Mishlei 12:21; Yehoshua 2:23; Bereishis 42:29, 42:38, 44:29; Bamidbar 23:4, 23:16; Shemos 21:13; Yirmiyahu 10:11; Mishnah *Berachos* 3:4-6 and 4:2, *Terumos* 1:6, *Kilayim* 7:7, *Pesachim* 8:6, *Yoma* 1:1, *Taanis* 4:6, *Moed Katan* 2:1-2, *Avodah Zarah* 3:4, *Avos* 5:5, *Zevachim* 12:4, *Tamid* 1:1, *Middos* 1:9 and 2:2, *Keilim* 1:5, *Parah* 4:4, *Taharos* 9:2, *Mikvaos* 3:4 and 8:4, *Niddah* 5:1, *Zavim* 1:1-2 and 2:3; Rabbi Shaul Goldman; Professor Stephen B. Chapman, "Miqreh and YHWH."

@@ -19,9 +19,7 @@ updated: 2026-09-10
 chill**. *Kor* is the severe kind, the cold that hurts: **bitter cold,
 freezing** (Rabbi Shlomo Pappenheim). Rabbi Yehoshua Steinberg draws the line
 differently: *kor* is the drop in temperature, *tzinah* is a cold that
-surrounds and envelops a person like snow. Both words are rare in Tanach, so
-the register matters more than the frequency suggests: do not render *kor* with
-a mild English word.
+surrounds and envelops a person like snow. Both words are rare in Tanach.
 
 ## Distinctions
 
@@ -120,10 +118,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Freezing Cold](https://articles.ohr.edu/articles/freezing-cold)," What's in a Word?, Ohr Somayach,
-7 Teves 5782 (2021-12-11): raw text in
-`sources/whats-in-a-word/raw/9482-freezing-cold.md`. Primary loci cited:
-Bereishis 8:22; Yirmiyahu 18:14; Mishlei 22:5, 25:13, 25:25; Amos 4:2; Shemos
-16:33, 17:1; Bamidbar 13:21, 20:1, 27:14, 33:36, 33:55, 34:3; Devarim 32:51;
-Yehoshua 15:1; Chullin 3:5 and 58b; Sanhedrin 39b; Radak, *Sefer HaShorashim*;
-and the Mishnayos listed above for *tzonen*.
+Rabbi Reuven Chaim Klein, "[Freezing Cold](https://articles.ohr.edu/articles/freezing-cold)," *What's in a Word?*, Ohr Somayach, 11 December 2021.
+
+Cited in the essay: Bereishis 8:22; Yirmiyahu 18:14; Mishlei 22:5, 25:13 with Rashi, Ibn Ezra, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi and Rabbi Yishaya of Trani, 25:25; Amos 4:2 with Abarbanel; Shemos 16:33 with Rav Hirsch, 17:1 with *Targumna*; Bamidbar 13:21, 20:1, 27:14, 33:36, 33:55 with Rashbam, 34:3; Devarim 32:51; Yehoshua 15:1; Mishnah Maasros 4:4, Shabbos 3:4-5, 22:4, 22:6, Pesachim 3:3-4, Yoma 3:5, Nedarim 8:7, Zevachim 11:7, Chullin 3:5, Keilim 3:7, Mikvaos 10:6, Machshirin 5:10; Chullin 58b with Rashi; Sanhedrin 39b; Radak, *Sefer HaShorashim*; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Yosef Nechemias; Rabbi Yehoshua Steinberg.

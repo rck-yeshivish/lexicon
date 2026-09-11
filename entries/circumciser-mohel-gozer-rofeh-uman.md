@@ -77,9 +77,8 @@ reading makes *mohel* a cutter and Dubno's does not.
 **What rofeh means in the sugya.** Rashi to Menachos 42a and the Mainz
 commentary attributed to Rabbeinu Gershom: *rofeh* there is the surgeon serving
 as circumciser, so the word does duty for "circumciser." Rashi to Avodah Zarah
-26b: it means a physician who also knows how to perform one. Follow the second
-where the passage separates the man's trade from the act; it is the more careful
-statement.
+26b: it means a physician who also knows how to perform one. The second is the
+more careful statement.
 
 **Why two thirteenth-century Ashkenazi authorities were called HaGozer.** Rabbi
 Yissachar Tamar first suggests continuity, an Eretz Yisrael usage preserved in
@@ -165,17 +164,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Tazria: The Cutter](https://articles.ohr.edu/articles/tazria-the-cutter)," What's in a Word?, Ohr Somayach,
-5 Nissan 5784 (2024-04-13): https://articles.ohr.edu/articles/tazria-the-cutter;
-raw text in `sources/whats-in-a-word/raw/11342-tazria-the-cutter.md`. Primary
-loci cited: Vayikra 12:3; Bereishis ch. 17, 21:4, 34:15-22; Shemos 4:25, 12:44,
-12:48; Devarim 30:6; Yehoshua ch. 5, 5:4, 5:7;
-Yeshayahu 1:22; Tehillim 136:13; Mishnah Shabbos 19:2, 19:5, 19:6, Demai 7:4,
-Taharos 9:3, Mikvaos 7:3-4, Machsirin 6:5; Shabbos 131b, 133b, 156a; Bava Basra 21a; Sanhedrin 17b; Avodah
-Zarah 26b; Menachos 42a; Taanis 21b; Yerushalmi Shabbos 19:1 and Rosh Hashanah
-3:9; Bereishis Rabbah 84:7 with *Tanchuma Vayeishev* 9, *Naso* 30 and *Shocher
-Tov* to Tehillim 115; Koheles Rabbah 3:2; Shach to Yoreh Deah 69:79;
-Shadal to Yeshayahu 1:22. The article's non-traditional citations are reported
-here as it gives them: Solomon Dubno's *Tikkun Sofrim* (to Bereishis 17:13, in
-*Netivos HaShalom*), and Wilhelm Gesenius and Dr. Alexander Kohut as accepting
-Shadal's approach.
+Rabbi Reuven Chaim Klein, "[Tazria: The Cutter](https://articles.ohr.edu/articles/tazria-the-cutter)," *What's in a Word?*, Ohr Somayach, 13 April 2024.
+
+Cited in the essay: Vayikra 12:3; Bereishis ch. 17, 21:4, 34:15-22; Shemos 4:25, 12:44, 12:48; Devarim 30:6; Yehoshua ch. 5, 5:4, 5:7; Yeshayahu 1:22 with Shadal; Tehillim 136:13; Mishnah Shabbos 19:2, 19:5, 19:6, Demai 7:4, Taharos 9:3, Mikvaos 7:3-4, Machsirin 6:5; Shabbos 131b with Rashi and Rabbeinu Chananel, 133b, 156a; Bava Basra 21a with Rashi; Sanhedrin 17b; Avodah Zarah 26b with Rashi; Menachos 42a with Rashi and the commentary attributed to Rabbeinu Gershom; Taanis 21b; Yerushalmi Shabbos 19:1 and Rosh Hashanah 3:9; Bereishis Rabbah 84:7 with *Tanchuma Vayeishev* 9, *Naso* 30 and *Shocher Tov* to Tehillim 115; Koheles Rabbah 3:2; Shach to Yoreh Deah 69:79; Rabbi Shlomo Pappenheim; Rabbi Yissachar Tamar; Rabbi David Zacut Modena; Rabbi Dov Kook of Teveryah; Solomon Dubno, *Tikkun Sofrim* to Bereishis 17:13, in *Netivos HaShalom*; Wilhelm Gesenius; Dr. Alexander Kohut.

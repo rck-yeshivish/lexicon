@@ -19,9 +19,9 @@ updated: 2026-09-10
 *Av* is the **thick cloud** that darkens the sky. *Eid* is the **rising vapor**
 or mist that clouds are formed from. *Nasi* is the **rain cloud** that carries
 and lifts water. *Chaziz* is the **thundercloud** that comes with lightning.
-Chazal count these five as the words for cloud; the trap is that four of them
-are not interchangeable descriptions but different states of cloud, so English
-"cloud" for all five flattens a Midrash that is counting five names on purpose.
+Chazal count these five as the words for cloud; four of them are not
+interchangeable descriptions but different states of cloud, and the Midrash is
+counting five names on purpose.
 
 ## Distinctions
 
@@ -67,7 +67,7 @@ along.
 ### nasi (נשיא)
 Literally "prince." Chazal: clouds play kingmaker, since whose field gets rain
 decides who prospers, so Tanach can call them *nesiim* (Tehillim 135:7, Mishlei
-25:14; the article prints Tehillim 137:7, but the locus with *nesiim* is 135:7).
+25:14).
 Pappenheim: the root is ש-א, carrying or lifting, either because these clouds
 carry rainwater from place to place, or because they are light enough to rise,
 as against heavy clouds that come down as fog.
@@ -121,10 +121,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[On Clouds](https://articles.ohr.edu/articles/on-clouds)," What's in a Word?, Ohr Somayach, 12 Sivan
-5779 (2019-06-15): raw text in `sources/whats-in-a-word/raw/8287-on-clouds.md`.
-Primary loci: Yerushalmi Taanis 3:3; *Midrash Tehillim* 135; *Bereishis Rabbah*
-12:12; Bereishis 2:6, 49:25; Shemos 19:9, 20:18; Devarim 32:35 (Targum); Shoftim
-5:4; Shmuel II 22:12; Tehillim 135:7 (article: 137:7); Mishlei 25:14; Iyov
-28:26, 36:32, 38:37; Eichah 3:41; Zechariah 10:1; Avodah Zarah 1:1; Rashi to
-Taanis 6b; Pappenheim on the roots ע, ע-ב, ד, ש-א and ח-ז.
+Rabbi Reuven Chaim Klein, "[On Clouds](https://articles.ohr.edu/articles/on-clouds)," *What's in a Word?*, Ohr Somayach, 15 June 2019.
+
+Cited in the essay: Yerushalmi Taanis 3:3; *Midrash Tehillim* 135; *Bereishis Rabbah* 12:12; Bereishis 2:6, 49:25 with *Peirush HaRokeach*; Shemos 19:9, 20:18 with Rashi; Devarim 32:35 (Targum); Shoftim 5:4; Shmuel II 22:12; Tehillim 135:7; Mishlei 25:14; Iyov 28:26, 36:32, 38:37; Eichah 3:41; Zechariah 10:1; Avodah Zarah 1:1; Rashi to Taanis 6b; Pappenheim on the roots ע, ע-ב, ד, ש-א and ח-ז; *Sefer HaChochmah*; Rabbeinu Bachya; Ibn Ezra; *Midrash Lekach Tov* (*Pesikta Zutrasa*); Rabbi Shlomo of Urbino, *Ohel Moed*; Menachem Ibn Saruk, *Machberes*; Ibn Janach, *Sefer HaShorashim*; Rabbi Yehudah Ibn Balaam, *Sefer HaTzimud*; *Midrash Chuppas Eliyahu Rabbah*; *Metzudas Tzion*; Rabbi Yaakov Chaim Sofer; the Zohar.

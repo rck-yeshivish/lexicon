@@ -19,9 +19,8 @@ updated: 2026-09-10
 (*charitzei hechalav*, Shmuel I 17:18) and *shfot* (*shfot bakar*, Shmuel II
 17:29) each occur once, and Targum Yonasan renders both as *guvnin d'chalva*,
 cheese; but each is disputed, *charitz* possibly meaning unweaned kids or milk
-still in the udder, *shfot* possibly the udders themselves or butter. Render
-both as "cheese" with a footnote, since the halachic weight of Bechoros 6b
-rests on which reading you take.
+still in the udder, *shfot* possibly the udders themselves or butter. The
+halachic weight of Bechoros 6b rests on which reading is right.
 
 ## Distinctions
 
@@ -164,13 +163,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[More Cheese Please](https://articles.ohr.edu/articles/more-cheese-please)," What's in a Word?, Ohr
-Somayach, 5 Sivan 5782 (2022-06-04): raw text in
-`sources/whats-in-a-word/raw/9723-more-cheese-please.md`. Primary loci cited:
-Iyov 10:10, 14:5, 33:21; Shmuel I 17:18; Shmuel II 17:29; Tehillim 3, 68:16-17,
-127:5; Vayikra 13:41-42, 14:9, 21:20; Yeshayahu 10:22, 28:27; Yechezkel 13:11,
-13:13, 38:22, 40:43; Melachim II 4:38; Daniel 9:25; Bechoros 6b and *Bechoros*
-7:2; *Shemos Rabbah* 2:4; *Midrash Shmuel* 20:4; *Midrash Shocher Tov* to
-Tehillim 3; Yerushalmi *Chagigah* 2:3 and *Rus Rabbah* 3:2 on David's petirah
-on Shavuos; Rema, Yoreh Deah 89:4 with *Pri Megadim* 89:7; *Chasam Sofer* 6:22;
-Alexander Kohut, *Aruch HaShalem*; Josephus on the Tyropoeon.
+Rabbi Reuven Chaim Klein, "[More Cheese Please](https://articles.ohr.edu/articles/more-cheese-please)," *What's in a Word?*, Ohr Somayach, 4 June 2022.
+
+Cited in the essay: Iyov 10:10, 14:5, 33:21; Shmuel I 17:18 with Targum Yonasan, Rashi and Rabbi Yosef Kara; Shmuel II 17:29; Tehillim 3, 68:16-17, 127:5; Vayikra 13:41-42, 14:9, 21:20; Yeshayahu 10:22, 28:27; Yechezkel 13:11, 13:13, 38:22, 40:43; Melachim II 4:38; Daniel 9:25; Mishnah *Berachos* 6:3, *Shabbos* 17:2, *Eruvin* 7:3, *Nedarim* 6:5, *Bava Kamma* 5:5, *Eduyos* 5:2, *Avodah Zarah* 2:4-5, *Chullin* 8:1-3, *Bechoros* 7:2, *Mikvaos* 5:6; Bechoros 6b; *Shemos Rabbah* 2:4; *Midrash Shmuel* 20:4; *Midrash Shocher Tov* to Tehillim 3 with *Daas Sofrim*; Yerushalmi *Chagigah* 2:3 and *Rus Rabbah* 3:2 on David's petirah on Shavuos; *Machberes Menachem*; *Sifrei HaShorashim* of Ibn Janach and Radak; *Metzudas Tzion*; *Hoil Moshe*; Rema, Yoreh Deah 89:4 with *Pri Megadim* 89:7; *Chasam Sofer* 6:22; Alexander Kohut, *Aruch HaShalem*; Josephus on the Tyropoeon.

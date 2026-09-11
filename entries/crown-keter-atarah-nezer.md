@@ -25,8 +25,8 @@ head without rising above it, a coronet. *Atarah* is the general **crown** or
 is the crown of **consecration and separation**, worn by the nazir and the Kohen
 Gadol, which is why the word marks a man off as set apart, not merely as
 honored. Some hold *keter* is the general word and the other two are particular
-kinds, but most read all three as distinct kinds; the trap is rendering *nezer*
-"crown" where it means the state of being set apart.
+kinds, but most read all three as distinct kinds; *nezer* sometimes means the
+state of being set apart.
 
 ## Distinctions
 
@@ -90,12 +90,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Crown is a Crown](https://articles.ohr.edu/articles/a-crown-is-a-crown)," What's in a Word?, Ohr Somayach,
-24 Tammuz 5776 (2016-07-30):
-https://articles.ohr.edu/articles/a-crown-is-a-crown; raw text in
-`sources/whats-in-a-word/raw/6876-a-crown-is-a-crown.md`. Primary loci: Esther
-1:11, 2:17, 6:8; Bamidbar 6:7; Vayikra 21:12; the *zer zahav* of the Mishkan
-kelim in Shemos. Rabbi Yaakov Tzvi Mecklenburg writes in *HaKesav VeHaKabbalah*;
-the Malbim is cited by the article without a locus. The article's report that
-linguists take *tag* for a Persian loanword, and its own aside on the English
-word "tag," are reported above as the article reports them.
+Rabbi Reuven Chaim Klein, "[A Crown is a Crown](https://articles.ohr.edu/articles/a-crown-is-a-crown)," *What's in a Word?*, Ohr Somayach, 30 July 2016.
+
+Cited in the essay: Esther 1:11, 2:17, 6:8; Bamidbar 6:7; Vayikra 21:12; the *zer zahav* of the Mishkan kelim in Shemos; the Malbim; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*; unnamed linguists on *tag*.

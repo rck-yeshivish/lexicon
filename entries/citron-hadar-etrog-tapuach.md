@@ -41,8 +41,7 @@ updated: 2026-09-10
 The Torah's *pri eitz hadar* (Vayikra 23:40) is the esrog by Mesorah, and the
 Gemara's derivations are asmachta (Ibn Ezra, Rambam). *Esrog* is the
 **citron**, the Mishnaic and Targumic name. *Tapuach* is an **apple**, and only
-in Shir HaShirim 2:3 does Rabbeinu Tam read it as a citron. Do not render *hadar*
-"citron" in the pasuk; translate the word and let the halachah supply the rest.
+in Shir HaShirim 2:3 does Rabbeinu Tam read it as a citron.
 
 ## At a glance
 
@@ -76,7 +75,7 @@ not operate on the plain level; both add that the citron is in fact the most bea
 is the Raavyah's, on the kesubah formula in which a groom writes that his bride
 may collect from "the better *arag* of my property": *arag* is an expression of
 desirability, since Targum renders *nechmad* as *ragig* (Onkelos to Bereishis
-2:9 and 3:6; the article files Mishlei 21:20 under Onkelos's name too), and
+2:9 and 3:6; Targum to Mishlei 21:20), and
 *taavah* likewise at Devarim 5:18, and *arag* is a cognate of that term. The
 Ramban, the Raavyah's younger contemporary, adds that *esrog* too is a cognate
 of *arag* and *ragig*, so that *esrog* is rightly "the desirable fruit"; since
@@ -90,7 +89,7 @@ to a core biliteral ר-ג (ravishing, subduing, cancelling) without ever thinkin
 to connect the Mishnaic *esrog* to it.
 
 **The gematria route.** The Baal HaTurim (to Vayikra 23:40): *pri eitz hadar*
-and *esrogim* match in gematria (the article prints 659 and 660, so the match
+and *esrogim* match in gematria (the column gives 659 and 660, so the match
 needs the kollel); Rabbi Meir Mazuz: *trung* likewise comes to 659.
 
 ## Distinctions
@@ -189,21 +188,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Beautiful Citron](https://articles.ohr.edu/articles/the-beautiful-citron)," What's in a Word?, Ohr
-Somayach, 28 Elul 5782 (2022-09-24):
-https://articles.ohr.edu/articles/the-beautiful-citron; raw text in
-`sources/whats-in-a-word/raw/10055-the-beautiful-citron.md`. Primary loci cited:
-Vayikra 23:40 (the article prints 23:4 twice; the pasuk of the Four Species is
-23:40); Bereishis 2:9, 3:6; Devarim 5:18; Mishlei 21:20, 25:11; Yoel 1:12; Shir
-HaShirim 2:3, 2:5, 7:9, 8:5; Yehoshua 12:17, 15:34, 16:8, 17:8; Divrei HaYamim I
-2:43; Sukkah 35a;
-Berachos 40a; Kiddushin 70a; Tosafos to Shabbos 88a and Taanis 29b; Yerushalmi
-Sukkah 3:5 and 3:10, Gittin 2:3; Mishnah Maasros 1:4, Bikkurim 2:6, Sukkah
-3:4-7, 4:7, 4:9, Meilah 6:4; Sifra to Vayikra 23:40; Bereishis Rabbah 15:7; Vayikra
-Rabbah 30:15; Tanchuma Emor 20; Rambam, Commentary on the Mishnah introduction
-and *Moreh Nevuchim* 3:43; Baal HaTurim to Vayikra 23:40; Peshitta and Targum
-Neofiti to Vayikra 23:40. The article's
-archaeology (Ramat Rachel, Dr. Zohar Amar), the Persian and Sanskrit etymologies
-of Dr. Michael Sokoloff, the excursus on the English "orange," the Peshitta's
-spelling, and Josephus with Dr. Alexander Kohut are reported here as the article
-gives them.
+Rabbi Reuven Chaim Klein, "[The Beautiful Citron](https://articles.ohr.edu/articles/the-beautiful-citron)," *What's in a Word?*, Ohr Somayach, 24 September 2022.
+
+Cited in the essay: Vayikra 23:40 with Ibn Ezra, Targum Onkelos, Targum Yonasan, Targum Neofiti, the Peshitta and the Baal HaTurim; Bereishis 2:9, 3:6; Devarim 5:18; Mishlei 21:20, 25:11; Yoel 1:12; Shir HaShirim 2:3, 2:5, 7:9, 8:5; Yehoshua 12:17, 15:34, 16:8, 17:8; Divrei HaYamim I 2:43; Sukkah 35a; Berachos 40a; Kiddushin 70a; Tosafos to Shabbos 88a and Taanis 29b; Yerushalmi Sukkah 3:5 and 3:10, Gittin 2:3; Mishnah Maasros 1:4, Bikkurim 2:6, Sukkah 3:4-7, 4:7, 4:9, Meilah 6:4; Sifra to Vayikra 23:40; Bereishis Rabbah 15:7; Vayikra Rabbah 30:15; Tanchuma Emor 20; Rambam, Commentary on the Mishnah introduction and *Moreh Nevuchim* 3:43; the Raavyah; the Ramban; Rabbi Meir Mazuz; the Chazon Ish; Rabbi David Kochavi of Estelle; Dr. Zohar Amar; Dr. Michael Sokoloff; Josephus, *Antiquities* XVII 10:7 and *The War of the Jews* II 4:3; Dr. Alexander Kohut.

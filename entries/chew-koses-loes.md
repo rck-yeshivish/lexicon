@@ -17,13 +17,12 @@ updated: 2026-09-10
 
 Both are rabbinic; neither is biblical, and Biblical Hebrew has no plain verb
 for chewing at all (*maaleh geirah* means brings up the cud, not chews it).
-Render *koses* **chew** in the sense of gnawing something raw or eating it in
-an unusual way, and *lo'es* **chew** in the ordinary sense of working food
-before swallowing. Rashi flatly equates them (*lo'es* means *koses*), so treat
-them as synonyms unless a halachic passage turns on the difference. The
+*Koses* is to **chew** in the sense of gnawing something raw or eating it in
+an unusual way, and *lo'es* is to **chew** in the ordinary sense of working food
+before swallowing. Rashi flatly equates them (*lo'es* means *koses*). The
 article's own suggestion is that perhaps no semantic difference is called for at
-all, since the two seem to come from different languages. Where a passage does
-turn on the word choice, the article sets out two readings of the difference
+all, since the two seem to come from different languages. Where a passage
+turns on the word choice, the column sets out two readings of the difference
 that pull against each other and resolves neither: Rabbi Meir Mazuz has
 *le'isah* typically implying chewing toward swallowing while *kesisah* does not
 necessarily carry that implication, and Rabbi Yitzchak Barda has *kesisah* the
@@ -169,21 +168,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Behaaloscha: Chew That](https://articles.ohr.edu/articles/behaaloscha-chew-that)," What's in a Word?, Ohr
-Somayach, 18 Sivan 5785 (2025-06-14): raw text in
-`sources/whats-in-a-word/raw/11831-behaaloscha-chew-that.md`. Primary loci
-cited: Bamidbar 11:33; Vayikra 11:3-7 and Devarim 14:6-8; Berachos 36b, 37a,
-42a, 44b; Tosefta *Berachos* 4:6-7; Mishnah *Nedarim* 6:10 and Tosefta
-*Nedarim* 3:7; Yoma 81a; Megillah 7b with Rashi and Maharsha; Kesubos 77a with
-Rashi; Beitzah 26b with Rashi; Chullin 15a; Mishnah *Shabbos* 19:2, *Niddah*
-9:7, *Pesachim* 2:7 with Rashi to Pesachim 39b; Yechezkel 17:9 with Rashi and
-Mahari Kara; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ק-ס; Radak to
-Melachim I 14:3; *Ohr Zarua, Hilchos Pesachim* 256 and *Hilchos Berachos* 149;
-*Sefer HaNer* to Berachos 42a; *Ho'il Moshe* to Melachim I 14:3; *Shulchan
-Aruch, Orach Chaim* 567:3 with the Ravyah, *Hilchos Taanis* 861, and 651:9;
-*Ish Matzliach* vol. 2 *Orach Chaim* 47; *Arim Nissi* to Pesachim 39b. The
-comparative material the column itself cites is reported here as it attributes
-it: Rabbi Ernest Klein's Akkadian and Arabic derivations, Samuel Krauss's link
-to ע-ס-ס, Dr. Asher Weiser named alongside Zilberberg for the כ-ס-ס / ק-ס-ס
-connection, Dr. A. Weiss on *kos shel akarin* (*Chorev* 1943 vol. 7 p. 55), and
-the *couscous* and *kasha* comparisons.
+Rabbi Reuven Chaim Klein, "[Behaaloscha: Chew That](https://articles.ohr.edu/articles/behaaloscha-chew-that)," *What's in a Word?*, Ohr Somayach, 14 June 2025.
+
+Cited in the essay: Bamidbar 4:7, 11:33; Shemos 25:29; Vayikra 11:3-7 and Devarim 14:6-8; Yehoshua 9:5, 9:12; Melachim I 14:3 with Radak and *Ho'il Moshe*; Yechezkel 9:2, 9:11, 17:9 with Rashi and Mahari Kara; Koheles 12:3 in Targum; Berachos 36b, 37a, 42a, 44b; Tosefta *Berachos* 4:6-7; Mishnah *Nedarim* 6:10 and Tosefta *Nedarim* 3:7; Yoma 81a; Megillah 7b with Rashi and Maharsha; Kesubos 77a with Rashi; Beitzah 26b with Rashi; Chullin 15a; Mishnah *Shabbos* 19:2, *Niddah* 9:7, *Pesachim* 2:7 with Rashi to Pesachim 39b; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ק-ס; the piyut *Elokei HaRuchos*; *Ohr Zarua, Hilchos Pesachim* 256 and *Hilchos Berachos* 149; *Sefer HaNer* to Berachos 42a; *Shulchan Aruch, Orach Chaim* 567:3 with the Ravyah, *Hilchos Taanis* 861, and 651:9; *Ish Matzliach* vol. 2 *Orach Chaim* 47; *Arim Nissi* to Pesachim 39b; Rabbi Avi Kobernick, *Hipuch Otiyos*; Rabbi Yaakov Yehudah Zilberberg, *Di Kasif*; Dr. Asher Weiser; Rabbi Ernest Klein; Samuel Krauss; Dr. A. Weiss, *Chorev* 1943 vol. 7 p. 55.

@@ -42,9 +42,7 @@ grown, it becomes *gamal* for a male and *nakah* for a female (Rabbi Nosson of
 Rome, *Sefer HeAruch*). *Gamal* is the default word and covers females too when
 no distinction is being drawn; Tanach marks a she-camel by the phrase *gemalim
 meinikos*, nursing camels (Bereishis 32:16). *Kar* and *kirkaros* are contested,
-and rendering either simply "camel" adopts one view against others. The trap:
-English "camel" absorbs all four and erases the age and gender the Hebrew is
-carrying.
+and not every view takes either of them as a camel.
 
 ## At a glance
 
@@ -87,7 +85,7 @@ animals that graze there.
 of camel, which he links to his own *kar*. Radak (there and in *Sefer
 HaShorashim*): a general word for a camel or any swift-running animal. Rabbi
 Yosef Bechor Shor (to Bamidbar 7:3): young female calves that skip and jump as
-though dancing. All three are live; render by context and say which you took.
+though dancing. All three are live.
 
 **Why the camel is named from ג-מ-ל.** Menachem Ibn Saruk simply lists three
 senses of the root, growing, repaying, and camel, without joining them. Rav
@@ -209,21 +207,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayishlach: Go Camel](https://articles.ohr.edu/articles/vayishlach-go-camel)," What's in a Word?, Ohr
-Somayach, 13 Kislev 5785 (2024-12-14): raw text in
-`sources/whats-in-a-word/raw/11619-vayishlach-go-camel.md`. Primary loci:
-Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16; Vayikra 11:18; Bamidbar 1:10,
-2:20, 7:3, 7:54, 7:59, 10:12,
-13:12, 17:23; Shmuel I 1:23, 24:18; Divrei HaYamim I 24:17; Yeshayahu 16:1,
-18:5, 28:9, 60:6, 66:20; Yirmiyahu 2:23; Hoshea 1:8; Tehillim 7:5, 13:6, 116:12;
-Mishlei 31:12; Mishnah Shabbos 5:1, Keilim 23:2, Yoma 3:9, Yevamos 6:4, Shekalim
-3:2; Sanhedrin 52a and 107b; Yevamos 116a; Bava Basra 5b; Yerushalmi Chagigah
-2:1; *Bereishis Rabbah* 76:7; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn
-Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*;
-*Keses HaSofer* to Bereishis 10:2; Even-Shoshan's concordance; Rabbi Ernest
-Klein; Dr. Michael Sokoloff's dictionary of Jewish Babylonian Aramaic; the
-Oxford English Dictionary.
+Rabbi Reuven Chaim Klein, "[Vayishlach: Go Camel](https://articles.ohr.edu/articles/vayishlach-go-camel)," *What's in a Word?*, Ohr Somayach, 14 December 2024.
 
-The article prints the Shmuel I locus for *gemaltani* as "I Sam. 24:17," which
-is the English versification; in the Hebrew it is Shmuel I 24:18, and that is
-what is given above.
+Cited in the essay: Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16 with Rashi; Vayikra 11:18; Bamidbar 1:10, 2:20, 7:3, 7:54, 7:59, 10:12, 13:12, 17:23; Shmuel I 1:23, 24:18; Divrei HaYamim I 24:17; Yeshayahu 16:1, 18:5, 28:9, 60:6, 66:20; Yirmiyahu 2:23; Hoshea 1:8; Tehillim 7:5, 13:6, 116:12; Mishlei 31:12; Mishnah Shabbos 5:1, Keilim 23:2, Yoma 3:9, Yevamos 6:4, Shekalim 3:2; Sanhedrin 52a and 107b; Yevamos 108a and 116a; Bava Basra 5b; Kiddushin 70a; Eruvin 100b; Nedarim 20a; Kesubos 22a and 54a; Bava Kama 80a; Yerushalmi Chagigah 2:1; *Bereishis Rabbah* 76:7; Rabbi Saadia Gaon's Tafsir; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*; *Keses HaSofer* to Bereishis 10:2; Even-Shoshan's concordance; Rabbi Ernest Klein; Dr. Michael Sokoloff's dictionary of Jewish Babylonian Aramaic; the Oxford English Dictionary.

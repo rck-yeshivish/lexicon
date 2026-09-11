@@ -20,10 +20,9 @@ updated: 2026-09-10
 
 *Tzaakah* and *zaakah* both mean **to cry out**, and most authorities treat them
 as one word with two interchangeable opening letters (Rashi, Ramban, the Zohar,
-Rabbi Shlomo Pappenheim); render both "cry out" and do not manufacture a
-difference. *Shaavah* is not the same: it is **a cry for help**, and Rabbi Yehuda
-Leib Shapira-Frankfurter holds it is addressed only to Hashem. The one thing not
-to get wrong: in *tzaakah* and *zaakah* the sufferer voices his pain, while in
+Rabbi Shlomo Pappenheim). *Shaavah* is not the same: it is **a cry for help**, and Rabbi Yehuda
+Leib Shapira-Frankfurter holds it is addressed only to Hashem. In *tzaakah*
+and *zaakah* the sufferer voices his pain, while in
 *shaavah* he asks outright to be saved (Rabbi Yaakov Tzvi Mecklenburg). Where a
 minority does separate *tzaakah* from *zaakah*, *tzaakah* is the graver of the
 two.
@@ -113,11 +112,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[For Crying Out Loud](https://articles.ohr.edu/articles/for-crying-out-loud)," What's in a Word?, Ohr Somayach,
-9 Adar II 5778 (2018-02-24):
-`sources/whats-in-a-word/raw/7655-for-crying-out-loud.md`. Primary loci:
-Bereishis 27:34; Esther 4:1; Tehillim 107 (verses 6, 13, 19, 28) with Malbim at
-107:6; Iyov 6:17 with Rashi and Iyov 40:17 with Ramban; Sotah 36b with Rashi;
-Berachos 54b with Tosafos; Zohar, Shemos 20a; Rabbi Shlomo Pappenheim on ש-ו-ע
-and צ-ע-ק. The article does not give the locus of the Midrash linking Esav's cry
-to Mordechai's, and it is not supplied here.
+Rabbi Reuven Chaim Klein, "[For Crying Out Loud](https://articles.ohr.edu/articles/for-crying-out-loud)," *What's in a Word?*, Ohr Somayach, 24 February 2018.
+
+Cited in the essay: Bereishis 27:34; Esther 4:1; the Midrash linking Esav's cry to Mordechai's; Tehillim 107 (verses 6, 13, 19, 28) with Malbim at 107:6; Iyov 6:17 with Rashi and Iyov 40:17 with Ramban; Sotah 36b with Rashi; Berachos 54b with Tosafos; Zohar, Shemos 20a; Rabbi Shlomo Pappenheim on ש-ו-ע and צ-ע-ק; Rabbi Elazar Rokeach of Worms; Rabbi Yehuda Leib Shapira-Frankfurter; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Emmanuel Chai Ricci; Rabbi Shlomo Aharon Wertheimer.

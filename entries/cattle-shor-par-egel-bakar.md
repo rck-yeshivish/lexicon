@@ -26,9 +26,8 @@ updated: 2026-09-10
 the **bull**, *parah* the **cow** or **heifer**, and the name attaches only once
 the animal is grown. *Egel* and *eglah* are the male and female **calf**. *Aleph*
 is the strong working **ox** of Tanach's poetry, eight appearances. *Bakar* is
-the collective, **cattle**, and its *boker* is the **herdsman**. The trap: English
-"ox" and "cow" will take all five, and *shor* is the word that most needs
-guarding, since it is not a synonym for *par* at any age.
+the collective, **cattle**, and its *boker* is the **herdsman**. *Shor* is not
+a synonym for *par* at any age.
 
 ## Distinctions
 
@@ -48,8 +47,7 @@ older a *stag*; an older castrated beast used for draft work is an *ox*, though
 Rabbi Eliezer HaKallir's *piyut* for the second day of Pesach uses five Hebrew
 words for an ox: *par*, *shor*, *egel*, *aleph*, *bakar*. *Peirush HaRokeach* and
 Rabbeinu Efrayim find the five alluded to in the law that a thief who steals an
-ox and then slaughters or sells it pays five times its value (the article prints
-Shemos 22:37; the locus is Shemos 21:37).
+ox and then slaughters or sells it pays five times its value (Shemos 21:37).
 
 ### egel (עגל) and eglah (עגלה)
 The calf, still nursing. English "calf" serves both sexes; Hebrew has *egel* for
@@ -139,17 +137,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bovine Words: Cows and Cowboys](https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys)," What's in a Word?,
-Ohr Somayach, 17 Tammuz 5779 (2019-07-20),
-https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys; raw text in
-`sources/whats-in-a-word/raw/8333-bovine-words-cows-and-cowboys.md`. Primary loci
-cited: Shemos 21:37; Vayikra 22:24, 22:27; Devarim
-7:13, 28:4, 28:18, 28:51; Yeshayahu 30:24; Amos 7:14; Tehillim 8:8, 50:10,
-69:32; Mishlei 3:8, 14:4; Yechezkel 16:4; Iyov 40:16; Parah 1:1; Chullin 60a;
-Avodah Zarah 8a; *Tzohar HaTeivah*; Radak, *Sefer HaShorashim*; Dr. Julian
-Mason.
+Rabbi Reuven Chaim Klein, "[Bovine Words: Cows and Cowboys](https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys)," *What's in a Word?*, Ohr Somayach, 20 July 2019.
 
-Three loci in the article need correcting. It prints the fivefold-payment pasuk
-as "Ex. 22:37"; the locus is Shemos 21:37. In its list of the eight *aleph*
-pesukim it prints "Deut. 7:12" and "28:12"; neither has the word, and the two
-pesukim that do, and that bring the count to eight, are Devarim 7:13 and 28:18.
+Cited in the essay: Shemos 21:37 with *Peirush HaRokeach* and Rabbeinu Efrayim; Vayikra 22:24, 22:27; Devarim 7:13, 28:4, 28:18, 28:51; Yeshayahu 30:24; Amos 7:14; Tehillim 8:8, 50:10, 69:32 with Rashi and Radak; Mishlei 3:8, 14:4 with the Vilna Gaon; Yechezkel 16:4; Iyov 40:16; Parah 1:1; Chullin 60a; Avodah Zarah 8a; Rabbi Eliezer HaKallir's *piyut* for the second day of Pesach; *Tzohar HaTeivah*; Radak, *Sefer HaShorashim*; Rabbi Yonah Merzbach; Rabbi Yehoshua Steinberg; Dr. Julian Mason.

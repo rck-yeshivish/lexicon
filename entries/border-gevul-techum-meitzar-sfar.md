@@ -27,8 +27,8 @@ Mishnaic word for **the bounded area** (*techum Shabbos*). *Meitzar* (plural
 *mitzarim*) is the Rabbinic word for a **boundary**, as between adjoining
 fields, distinct, per Ibn Kuraish, from the Biblical *meitzar* meaning
 **straits**. *Sfar* typically names not the line itself but what sits near it,
-the **frontier** or border region exposed to what lies outside. The trap is
-*bein hametzarim*, which Rashi reads two ways at once: the Three Weeks, taking
+the **frontier** or border region exposed to what lies outside. Rashi reads
+*bein hametzarim* two ways at once: the Three Weeks, taking
 *mitzarim* from *tzarah*, "sorrow"; and, in the plain sense, "between the
 boundaries."
 
@@ -154,24 +154,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Matos/Masei: On the Border](https://articles.ohr.edu/articles/matosmasei-on-the-border)," What's in a Word?, Ohr
-Somayach, 28 Tammuz 5784 (2024-08-03): raw text in
-`sources/whats-in-a-word/raw/11471-matosmasei-on-the-border.md`. Primary loci
-cited: Eichah 1:3 with *Eichah Rabbah* 1:29, Rashi, Ibn Ezra, Targum, Mahari
-Kara; Bamidbar 34:1-12; Shemos 7:27, 10:4, 13:7, 19:12, 19:23; Bereishis 10:6,
-10:19, 10:30, 23:17, 49:13; Devarim 1:7, 19:4; Melachim I 5:32; Yechezkel 27:9;
-Tzefaniah 2:5-6; Amos 5:9; Tehillim 39:14, 118:5, 147:5; Iyov 9:27, 10:20;
-Divrei HaYamim I 1:8; Kesubos 44a; *Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3 and
-9:2, *Sanhedrin* 1:5, *Ohalos* 2:2, *Shabbos* 24:3, *Bava Metzia* 10:5, *Parah*
-9:5; Radak, *Sefer HaShorashim*; *Yerios Shlomo* p. 836; *Cheshek Shlomo*;
-*HaKtav VeHaKabbalah* to Shemos 13:7, 19:12 and Vayikra 23:16; *Pardes Rimonim*
-shaar 8 ch. 2. The article also brings Rabbi Pinchas of Koretz on why there is
-no Zohar to Matos, Masei, and Devarim: the mind is constricted in these weeks,
-which belongs to the *meitzar* sense of narrowing.
+Rabbi Reuven Chaim Klein, "[Matos/Masei: On the Border](https://articles.ohr.edu/articles/matosmasei-on-the-border)," *What's in a Word?*, Ohr Somayach, 3 August 2024.
 
-The article prints the frogs pasuk as "Ez. 7:27" in one place; the locus is
-Shemos 7:27, as its own earlier citation has it. On *techum* it writes that
-Rabbi Golumb "sees the TAV as a radical, thus identifying its core root as
-CHET-VAV-MEM," which reads backwards, since a root of chet-vav-mem is precisely
-one in which the tav is not a radical; the substance, that he works from
-ח-ו-ם, is not in doubt, and that is what is given above.
+Cited in the essay: Eichah 1:3 with *Eichah Rabbah* 1:29, Rashi, Ibn Ezra, Targum and Mahari Kara; Bamidbar 34:1-12; Shemos 7:27 with Rav Hirsch, 10:4, 13:7, 19:12, 19:23; Bereishis 10:6, 10:19, 10:30, 23:17, 49:13; Devarim 1:7, 19:4; Melachim I 5:32; Yechezkel 27:9; Tzefaniah 2:5-6; Amos 5:9; Tehillim 39:14, 118:5, 147:5; Iyov 9:27, 10:20; Divrei HaYamim I 1:8; Kesubos 44a; Mishnah *Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3 and 9:2, *Sanhedrin* 1:5, *Ohalos* 2:2, *Shabbos* 24:3, *Bava Metzia* 10:5, *Parah* 9:5; Radak, *Sefer HaShorashim*; Rabbi Yehuda Ibn Kuraish, *Risala*; *Yerios Shlomo* p. 836; *Cheshek Shlomo*; *HaKtav VeHaKabbalah* to Shemos 13:7, 19:12 and Vayikra 23:16; *Iyun Tefillah* to Tehillim 147:5; *Midrash Safah Echas*; *Birkas Ish*; *Pardes Rimonim* shaar 8 ch. 2; Rabbi Ernest Klein's etymological dictionary; Wilhelm Gesenius.

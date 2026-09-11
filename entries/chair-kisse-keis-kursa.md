@@ -34,10 +34,10 @@ updated: 2026-09-10
 
 *Kisse* (כסא) is **throne**: not a neutral chair but a seat that marks rank, which is
 why it is the word for Hashem's *Kisse HaKavod*. *Kisseh* (כסה) and *keis* (כס) are the
-same word in two rarer spellings; do not translate them differently, but never let the
-shortened *keis* of Shemos 17:16 pass silently, since the missing letter is the whole
-point of the derashah. *Kursa* is simply the Aramaic of *kisse*, so a Targum or Gemara
-*kursa* is still **throne**; reserve **armchair** for Modern Hebrew. *Kathedra* is the
+same word in two rarer spellings, and in the shortened *keis* of Shemos 17:16 the
+missing letter is the whole point of the derashah. *Kursa* is simply the Aramaic of
+*kisse*, so a Targum or Gemara *kursa* is still **throne**; the sense **armchair**
+belongs to Modern Hebrew. *Kathedra* is the
 Greek word behind English **chair** and **cathedral**, and it turns up four times in the
 Mishnah.
 
@@ -57,7 +57,7 @@ Rabbi Shlomo Pappenheim traces it to the biliteral כ-ס, "covering," which for 
 yields *kisui*, *michaseh*, *kesus* (clothing), *kos* (a covered cup), *kis* (a pocket),
 *meches* (a tax paid into the king's pocket), *nechasim* and *michsah*. The Bottom line
 takes Pappenheim's sense of the meaning, a throne being a covered, canopied seat,
-without depending on his root analysis, since the rendering is the same either way.
+without depending on his root analysis, since the meaning is the same either way.
 
 **What the "covering" covers.** Rabbi Avraham Abulafia: *Kisse HaKavod* means not
 something enveloped (*mukaf*) but something that envelopes (*makif*), Hashem's
@@ -71,8 +71,8 @@ follows Hirsch: the king is set apart, covered and hidden away.
 Shemos 17:16) records that the later Masoretes divided the same way, the Leningrad Codex
 and Sassoon 507 writing two words, which is the accepted practice, the Aleppo Codex and
 Sassoon 1053 one. Radak (*Sefer HaShorashim*) explains the missing aleph by the one-word
-reading; the Midrash keeps the absence as a statement in its own right. Render "the
-throne of Yah" either way and note the spelling.
+reading; the Midrash keeps the absence as a statement in its own right. On either
+reading the phrase means "the throne of Yah."
 
 **The reish in kursa.** The column put the question to linguists and got two answers.
 The first, which it says seems to be the case: *kisse* without the reish is the older
@@ -85,9 +85,8 @@ experts explained as dissimilation, and Klein explains the rhotic as inserted (b
 epenthesis) to stand in for a doubled consonant, here the doubled samech marked by the
 dagesh. Other linguists wrote to the column that the rhotic form *kursa* may instead be
 the more original, Hebrew having dropped the reish, in which case the dagesh in the
-samech marks where the reish went, and the phenomenon is assimilation. Nothing in
-translation turns on
-it.
+samech marks where the reish went, and the phenomenon is assimilation. The meaning
+of the word does not turn on it.
 
 ## Distinctions
 
@@ -152,12 +151,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Chair of Thrones](https://articles.ohr.edu/articles/chair-of-thrones)," What's in a Word?, Ohr Somayach, 1 Iyar
-5783 (2023-04-22): raw text in `sources/whats-in-a-word/raw/10930-chair-of-thrones.md`.
-Primary loci cited: Yeshayahu 66:1; Shemos 12:4, 17:16; Bereishis 41:40; Melachim I
-10:19; Iyov 26:9; Tehillim 81:4; Daniel 5:20, 7:9; Pesachim 117a; Tanchuma *Ki Seitzei*
-§11 with Rashi to Shemos 17:16; Rashi to Daniel 7:9, Yevamos 118b, Kesuvos 75a, Gittin
-35a; Radak, *Sefer HaShorashim*; Rambam, *Moreh Nevuchim* 1:9; Rabbi Eliyahu HaBachur,
-*Meturgaman*; *Minchas Shai* to Shemos 17:16; Mishnah Kesuvos 5:5 and Keilim 4:3, 22:3,
-24:2; Dr. Chaim Tawil on the Akkadian *kussu*; Rabbi Ernest Klein on the Arabic
-*kursiyy* and on epenthesis; the unnamed linguists the column consulted on the reish.
+Rabbi Reuven Chaim Klein, "[Chair of Thrones](https://articles.ohr.edu/articles/chair-of-thrones)," *What's in a Word?*, Ohr Somayach, 22 April 2023.
+
+Cited in the essay: Yeshayahu 66:1; Shemos 12:4, 17:16; Bereishis 41:40 with Rav Hirsch; Melachim I 10:19; Iyov 26:9; Tehillim 81:4 with Rav Hirsch; Daniel 5:20, 7:9; Pesachim 117a; Tanchuma *Ki Seitzei* §11 with Rashi to Shemos 17:16; Rashi to Daniel 7:9, Yevamos 118b, Kesuvos 75a, Gittin 35a; Radak, *Sefer HaShorashim*; Rambam, *Moreh Nevuchim* 1:9; Rabbi Eliyahu HaBachur, *Meturgaman*; *Minchas Shai* to Shemos 17:16; Mishnah Kesuvos 5:5 and Keilim 4:3, 22:3, 24:2; Rabbi Shlomo Pappenheim; Rabbi Avraham Abulafia; Rabbi David Chaim Chelouche; Rabbi Menachem Mendel of Shklov; Dr. Chaim Tawil on the Akkadian *kussu*; Rabbi Ernest Klein on the Arabic *kursiyy* and on epenthesis; the unnamed linguists the column consulted on the reish.

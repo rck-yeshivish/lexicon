@@ -41,14 +41,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Yeled* is the unmarked word for a **child**, and carries no age with it; use
-it wherever the Hebrew does not mark a stage. *Olel* is the **toddler** who has
+*Yeled* is the unmarked word for a **child**, and carries no age with it.
+*Olel* is the **toddler** who has
 been weaned and gets himself up to look for food. *Roveh* is a **youngster**
 between *naar* and *elem*. *Elem* is the **young man** who has nearly reached
-his full height. In Aramaic, *ravya* and *talya* both come out as **boy** or
+his full height. In Aramaic, *ravya* and *talya* both mean **boy** or
 **lad**, and the Targum is not consistent about which Hebrew word each renders.
 This entry covers the etymologies and the child-words; for *naar* and *almah*
-themselves see `youth-naar-almah-elem.md`.
+themselves see [youth](youth-naar-almah-elem.html).
 
 ## At a glance
 
@@ -68,15 +68,12 @@ his *Sefer HaShorashim*): *naarah* and *almah* mean the same thing. Rabbi
 Shlomo Pappenheim's two roots also land both words at the same point in life.
 Rabbi Yaakov Tzvi Mecklenburg, summarizing Pappenheim, grants that the stage is
 the same but splits the focus: *elem* names the showing of physical maturity,
-*naar* the coming of intellectual and spiritual maturity. Follow Mecklenburg
-where a passage uses both; follow Ibn Janach and Radak where only one appears
-and nothing turns on it.
+*naar* the coming of intellectual and spiritual maturity.
 
 **The order of the stages.** Pappenheim's account runs *olel*, growing through
 childhood, then *elem*. *Midrash Tadshe* (ch. 6) instead sets *elem* after
 *naar* and inserts *roveh* between them, listing the stages of life as *yeled*,
-*naar*, *roveh*, *elem*, *ish*, *sav*, *zaken* (the article calls them six
-stages, though seven names are printed). What both agree on is that *yeled* is
+*naar*, *roveh*, *elem*, *ish*, *sav*, *zaken*. What both agree on is that *yeled* is
 the earliest.
 
 **How old a yeled is.** Pappenheim: no fixed age at all, and Yishmael is called
@@ -85,7 +82,7 @@ Mishnah's *yeled* (*Erachin* 4:4): anyone from twenty to sixty, as against
 *zaken*, over sixty. Rabbi Eliyahu HaKohen of Izmir cites anonymous "sages of
 astrology" who put *yeled* at two to five, *naar* at five to eight, and *bachur*
 at eight to eighteen. The bracket schemes
-are context-bound; Pappenheim's reading is the one to translate by.
+are context-bound.
 
 **The Aramaic correspondences.** They do not line up. Onkelos usually renders
 *yeled* as *ravya* (Bereishis 21:8, 21:16; Shemos 2:6; see also Sukkah 5b), the
@@ -99,8 +96,7 @@ translates *rivah/riviysa* as *naarah* (Shabbos 127b, Kesubos 62b, Sanhedrin
 109b) but at Sotah 26a
 defines *roveh* as *bachur* and as *yeled*. Rabbi Yaakov Kamenetsky already
 noted some of these inconsistencies; his resolution lies beyond the article's
-scope. Practically: do not
-build an argument on which Aramaic word stands under a Hebrew one.
+scope.
 
 ## Distinctions
 
@@ -165,13 +161,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Toldot: Boys and Girls (Part 2)](https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2)," What's in a Word?,
-Ohr Somayach, 5 Kislev 5781 (2020-11-21): raw text in
-`sources/whats-in-a-word/raw/8933-toldot-boys-and-girls-part-2.md`; Part 1 is
-covered in `youth-naar-almah-elem.md`. Primary loci cited: Bereishis 21:8, 21:15
-to 16, 24:20, 25:27, 34:4, 37:2, 42:22 (the article prints 44:22; Reuven's plea
-about the *yeled* is 42:22); Shemos 2:6; Bamidbar 30:17; Rus 2:5 to 6, 3:10;
-Eichah 5:13; Koheles 11:9; *Erachin* 4:4 with Rashi to Erachin 18b; *Midrash
-Tadshe* ch. 6; Sukkah 5b; Megillah 5b; Sanhedrin 58b, 109b; Shabbos 127b; Kesubos
-62b; Sotah 26a; *Dikdukei Sofrim* to Yevamos 114a; Gittin 36a; *Avos* 1:10 with
-Rashbatz and Bartenura; Ibn Janach and Radak, *Sifrei HaShorashim*.
+Rabbi Reuven Chaim Klein, "[Toldot: Boys and Girls (Part 2)](https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2)," *What's in a Word?*, Ohr Somayach, 21 November 2020.
+
+Cited in the essay: Bereishis 21:8, 21:15 to 16, 24:20, 25:27, 34:4, 37:2, 42:22; Shemos 2:6; Bamidbar 30:17; Rus 2:5 to 6, 3:10; Eichah 5:13; Koheles 11:9; *Erachin* 4:4 with Rashi to Erachin 18b; *Midrash Tadshe* ch. 6; Sukkah 5b; Megillah 5b with Rashi; Sanhedrin 58b, 109b; Shabbos 127b; Kesubos 62b; Sotah 26a; *Dikdukei Sofrim* to Yevamos 114a; Gittin 36a; *Avos* 1:10 with Rashbatz and Bartenura; Ibn Janach and Radak, *Sifrei HaShorashim*.

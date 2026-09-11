@@ -41,8 +41,7 @@ updated: 2026-09-10
 *Ugah* is not "cake" in the modern sense: its core is **round**, and as a food it is a
 **flat round loaf**, which is why the Torah calls the matzos of Yetzias Mitzrayim *ugos
 matzos* (Shemos 12:39). *Chararah* is Rashi's and the Mechilta's gloss on it. *Kikar* is a **loaf** with
-body, *challah* a **round loaf**, *gluska* the Rabbinic **fine roll**. The trap is
-English "cake," which sweetens what *ugah* does not: say "flat cake" or "round loaf."
+body, *challah* a **round loaf**, *gluska* the Rabbinic **fine roll**.
 
 ## At a glance
 
@@ -120,12 +119,12 @@ Og ate them, a second account of the name.
 ### kikar (ככר), challah (חלה) and the Rabbinic words
 *Kikar* appears five times, always as *kikar lechem* (Shemos 29:23; Shmuel I 2:36;
 Yirmiyahu 37:21; Mishlei 6:26; Divrei HaYamim I 16:3). *Challah* appears alone (Vayikra
-7:12, 24:5; Bamidbar 6:15; the column also lists Vayikra 15:20), as *challas lechem*
+7:12, 24:5; Bamidbar 6:15, 15:20), as *challas lechem*
 (Shemos 29:23; Vayikra 7:13, 8:26; Shmuel II 6:19), and as *challas matzah*
-(Shemos 29:2; Vayikra 2:4, 7:12; Bamidbar 6:19; the column also lists Vayikra 5:26).
+(Shemos 29:2; Vayikra 2:4, 7:12; Bamidbar 6:19).
 Both words likewise imply a round shape (Ibn Ezra to Vayikra 2:4); for these against
 *lechem* and *pas* see
-`bread-lechem-kikar-challah-pat.md`. Pesachim 6b: the Rabbanan required destroying
+[bread](bread-lechem-kikar-challah-pat.html). Pesachim 6b: the Rabbanan required destroying
 chametz rather than nullification alone, lest a man find a good *gluska* on Pesach and
 be tempted; Rabbi Binyamin Mussafia (*Mussaf HeAruch*) derives the word from the Greek
 *chollix*/*hollix* and
@@ -168,20 +167,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Pesach: Eating Cake](https://articles.ohr.edu/articles/pesach-eating-cake)," What's in a Word?, Ohr Somayach, 19
-Nissan 5784 (2024-04-27): raw text in
-`sources/whats-in-a-word/raw/11363-pesach-eating-cake.md`. Primary loci cited: Bereishis
-3:21, 18:6; Shemos 12:39, 29:2, 29:23; Vayikra 2:4, 7:12-13, 24:5; Bamidbar 6:15, 11:8;
-Shmuel II 6:19; Melachim I 17:13, 19:6; Yirmiyahu 37:21; Yechezkel 4:12; Hoshea 7:8;
-Mishlei 6:26; Divrei HaYamim I 16:3; Shabbos 1:10, 30b; Peah 5:8 with the Yerushalmi;
-Chullin 2:9, 41a; Moed Katan 1:1; Taanis 23a; Pesachim 6b, 74b; Kesubos 111b; *Bereishis
-Rabbah* §42:8, §48:12, §88:2; *Mechilta* to Shemos 12:39; *Yehudah Ya'aleh* Orach Chaim
-vol. 1 §157; *Aruch HaShulchan* Orach Chaim 429:8; *Mussaf HeAruch*; *Bava Kamma* 2:3;
-Eruvin 68a; Avodah Zarah 66b; Chullin 64a; Pesachim 76b; Kohut, *Aruch HaShaleim*;
-HALOT; Even-Shoshan.
+Rabbi Reuven Chaim Klein, "[Pesach: Eating Cake](https://articles.ohr.edu/articles/pesach-eating-cake)," *What's in a Word?*, Ohr Somayach, 27 April 2024.
 
-Three loci in the article need care. Its *kikar lechem* list prints "II Sam. 2:36"; the
-pasuk with *kikar lechem* is Shmuel I 2:36, and Shmuel II 6:19 is one of its *challas
-lechem* loci, not a *kikar* one. Its *challah*-alone list prints "Lev. 15:20," where
-Vayikra 15:20 has no *challah*; the *challah* of chapter 15 is Bamidbar 15:20. Its
-*challas matzah* list prints "Lev. 5:26," which likewise has no *challah*.
+Cited in the essay: Bereishis 3:21 with Rabbi Yitzchak of Pira, 18:6 with Shadal; Shemos 12:39 with Rashi and the *Mechilta*, 29:2, 29:23; Vayikra 2:4 with Ibn Ezra, 7:12-13, 8:26, 24:5; Bamidbar 6:15, 6:19, 11:8, 15:20; Shmuel I 2:36; Shmuel II 6:19; Melachim I 17:13 with Targum, 19:6; Yirmiyahu 37:21; Yechezkel 4:12; Hoshea 7:8; Mishlei 6:26; Divrei HaYamim I 16:3; Mishnah *Shabbos* 1:10, *Bava Kamma* 2:3, *Peah* 5:8 with the Yerushalmi, *Chullin* 2:9, *Moed Katan* 1:1; Shabbos 30b; Chullin 41a with Rashi, 64a; Taanis 23a; Pesachim 6b, 74b, 76b; Kesubos 111b; Eruvin 68a; Avodah Zarah 66b; *Bereishis Rabbah* §42:8, §48:12, §88:2; *Chemdas Yamim*; *Yehudah Ya'aleh* Orach Chaim vol. 1 §157; *HaDrash V'HaIyun*, Tzav §29; *Aruch HaShulchan* Orach Chaim 429:8; *Mussaf HeAruch*; Kohut, *Aruch HaShaleim*; Rabbi Aharon Marcus; Rabbi Ernest Klein; HALOT; Even-Shoshan; Julius Pokorny.

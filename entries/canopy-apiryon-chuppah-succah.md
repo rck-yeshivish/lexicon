@@ -21,7 +21,7 @@ of shelter, a covering that protects from what is above. *Chuppah* is a
 top, with nothing about protection. *Apiryon* the column takes to be more than a
 canopy: the Mishnah suggests a **mobile enclosure** a woman travels inside, and
 on the reading of those who tie the word to the Sanskrit *paryanka* it is a
-**palanquin**, a covered litter carried on poles. The trap: on that reading, the
+**palanquin**, a covered litter carried on poles. On that reading, the
 mefarshim who gloss *apiryon* as a *chuppah* are stating
 its halachic function at Amram and Yocheved's remarriage, not equating the two
 words. The column's working premise throughout is that no two words in Hebrew
@@ -95,11 +95,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Panoply of Canopies](https://articles.ohr.edu/articles/a-panoply-of-canopies)," What's in a Word?, Ohr
-Somayach (2017-01-21): raw text in
-`sources/whats-in-a-word/raw/7103-a-panoply-of-canopies.md`. Primary loci:
-Shemos 2:1 to 10, 35:12; Shir HaShirim 3:9 to 11; *Sotah* 12a; *Bava Basra*
-120a; Mishnah *Sotah* 9:14; Rashi to *Succah* 2a and to Shemos 35:12; Maharsha
-to *Sotah* 12a; Rabbi Pheobus Meir Parenzo's glosses to *Yalkut Shimoni*, Shemos
-§165 (Venice 1566); the anonymous "some" who tie *apiryon* to the Sanskrit
-*paryanka*.
+Rabbi Reuven Chaim Klein, "[A Panoply of Canopies](https://articles.ohr.edu/articles/a-panoply-of-canopies)," *What's in a Word?*, Ohr Somayach, 21 January 2017.
+
+Cited in the essay: Shemos 35:12; Shir HaShirim 3:9 to 11; *Sotah* 12a; *Bava Basra* 120a; Mishnah *Sotah* 9:14; Rashi to *Succah* 2a and to Shemos 35:12; Maharsha to *Sotah* 12a; Rabbi Pheobus Meir Parenzo's glosses to *Yalkut Shimoni*, Shemos §165 (Venice 1566); Rabbi Tzvi Mordechai Libber; the unnamed "some" who tie *apiryon* to the Sanskrit *paryanka*.

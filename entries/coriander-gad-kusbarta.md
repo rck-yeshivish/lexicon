@@ -23,8 +23,7 @@ identified as **coriander**: so Targum Yonasan, Menachem Ibn Saruk, Radak, and
 Rashi, who render it with the Aramaic *kusbarta* and the Old French *coliander*.
 Rav Hai Gaon, quoted by Rabbi Yehudah Ibn Balaam, says **mustard seed** instead,
 and Ibn Ezra records both and leaves it open. Onkelos declines to translate at
-all. The one thing not to get wrong: "white *gad* seed" does not mean the seed is
-white. Rashi, the Rashbam, and Radak all say the man was white and only its shape
+all. "White *gad* seed" does not mean the seed is white. Rashi, the Rashbam, and Radak all say the man was white and only its shape
 was like a *gad* seed, and that *gad* seeds are not white.
 
 ## Distinctions
@@ -133,17 +132,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Coriander Conundrum](https://articles.ohr.edu/articles/a-coriander-conundrum)," What's in a Word?, Ohr
-Somayach, 14 Sivan 5780 (2020-06-06):
-https://articles.ohr.edu/articles/a-coriander-conundrum; raw text in
-`sources/whats-in-a-word/raw/8735-a-coriander-conundrum.md`. Primary loci: Shemos
-16:14 and 16:31, Bamidbar 11:7, with Targum Onkelos, Targum Yonasan, Rashi, the
-Rashbam, Radak, Ibn Ezra, and the Ralbag; *Machberes Menachem* and Radak's *Sefer
-HaShorashim* s.v. גד; Mishnah *Sheviis* 9:1, *Kilayim* 1:2, *Maasros* 3:9 and
-4:5; *Pesachim* 39a and 63a; *Avodah Zarah* 10b with Rabbeinu Chananel, *Sefer
-HeAruch*, *Tosafos Rabbeinu Elchanan*, *Tosafos HaRosh*, and *Nimukei Yosef*;
-*Shabbos* 109a; *Yoma* 75a; *Eruvin* 28a; *Gittin* 70a; *Berachos* 57b;
-Devarim 33:13-14; Shir HaShirim 4:13; Bereishis 24:53; Yechezkel 23:47. The
-article's Sanskrit and Linear B derivations, its citation of Wilhelm Gesenius on
-Punic *goid*, and its thanks to Dr. Ariel Shaveh and Rabbi Tzvi Mordechai Libber
-are reported above as the article reports them.
+Rabbi Reuven Chaim Klein, "[A Coriander Conundrum](https://articles.ohr.edu/articles/a-coriander-conundrum)," *What's in a Word?*, Ohr Somayach, 6 June 2020.
+
+Cited in the essay: Shemos 16:14 and 16:31, Bamidbar 11:7, with Targum Onkelos, Targum Yonasan, Rashi, the Rashbam, Radak, Ibn Ezra, and the Ralbag; *Machberes Menachem* and Radak's *Sefer HaShorashim* s.v. גד; Rav Hai Gaon as quoted by Rabbi Yehudah Ibn Balaam; Rabbi Yehuda Leib Krinsky, *Yahel Ohr*; Mishnah *Sheviis* 9:1, *Kilayim* 1:2, *Maasros* 3:9 and 4:5; *Pesachim* 39a and 63a; *Avodah Zarah* 10b with Rabbeinu Chananel, *Sefer HeAruch*, Rashi, *Tosafos Rabbeinu Elchanan*, *Tosafos HaRosh*, and *Nimukei Yosef*; *Shabbos* 109a; *Yoma* 75a; *Eruvin* 28a and *Gittin* 70a with Rashi; *Berachos* 57b; *Sefer HaTishbi*; Jastrow; Devarim 33:13-14; Shir HaShirim 4:13; Bereishis 24:53; Yechezkel 23:47; Rabbi Shlomo Pappenheim; Rabbi Dovid Golumb, *Targumna*; Wilhelm Gesenius; Dr. Ariel Shaveh; Rabbi Tzvi Mordechai Libber.

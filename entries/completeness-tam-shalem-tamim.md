@@ -25,12 +25,9 @@ quantity, and having more than enough does not disqualify it (Rabbi Shlomo
 Pappenheim). *Tam* / *tamim* is **whole** in quality: an exact match with
 nothing missing and nothing extra (Rabbeinu Bachaya; Pappenheim); of a korban
 **unblemished**, of a person **wholehearted** or **wholesome**, of the Torah
-**perfect**. For rendering, this guide takes *shleimus* as **completeness** or
-**wholeness** rather than "perfection", since "perfection" names a ceiling
-reached while *shalem*, on Pappenheim's definition, says only that nothing is
-missing and leaves room for more; that last step is ours, not the article's.
-Keep "perfect" for *tamim*, where the exactness earns it, and even there prefer
-"whole" or "wholehearted" of a person.
+**perfect**. *Shleimus* is **completeness** or **wholeness**, not a ceiling
+reached: *shalem*, on Pappenheim's definition, says only that nothing is missing
+and leaves room for more; that last step is ours, not the column's.
 
 ## Distinctions
 
@@ -74,9 +71,8 @@ mean the same thing, but proposes a fundamental distinction all the same:
 *shalem* is quantitative completeness, *tam* qualitative. Hence *shalem* for
 honest weights that are not short of their declared weight (Devarim 25:15), for
 the uncut stones of the mizbeach, unchipped and unnotched (Devarim 27:6;
-Yehoshua 8:31, which the article prints as 8:21), and for the quota of sin not
-yet full in Avraham's day (Bereishis 15:16, of the Emori; the column says the
-Canaanites). And *shalem* does not exclude excess: *leshalem*, to pay, still
+Yehoshua 8:31), and for the quota of sin not
+yet full in Avraham's day (Bereishis 15:16, of the Emori). And *shalem* does not exclude excess: *leshalem*, to pay, still
 applies to one who paid more than the price, whereas *tamim* cannot apply
 without an exact match and fails the moment anything is missing or extra.
 
@@ -88,12 +84,11 @@ and *tam* as a positive form of completion. And if the column has understood him
 correctly, Rabbi Shimon Dov Ber Analak of Siedlce holds that *tam* is completion
 in one particular aspect and not necessarily in all, while *shalem* implies a
 more overall completion, as Yaakov came to Shechem *shalem* (Bereishis 33:18)
-and Chazal expound it of body, Torah and wealth (Shabbos 33b; the article prints
-33a); *tam*, by contrast, almost exclusively denotes completion in the spiritual
+and Chazal expound it of body, Torah and wealth (Shabbos 33b); *tam*, by contrast, almost exclusively denotes completion in the spiritual
 realm, not the physical, intellectual or financial.
 
 The commentators are bothered by *vayitmu*, "and the days of weeping in mourning
-for Moshe were finished" (Devarim 34:8; the article prints 33:8), which uses a
+for Moshe were finished" (Devarim 34:8), which uses a
 cognate of *tam* for the closing of a fixed count of days, a quantitative
 measure. The article leaves two answers standing. One may accept Rabbi
 Wertheimer's supposition that *tam* covers quantitative completion as well as
@@ -111,7 +106,7 @@ qualitative completeness and so cannot be a mere count of the passage of time.
 
 ## Rendering guidance
 
-- *Shleimus* in a mussar text: "completeness" (the state of lacking nothing)
+- *Shleimus*: "completeness" (the state of lacking nothing)
   or "wholeness." Reach for "perfection" only where the Hebrew itself names
   the ultimate degree and the context rules out further growth; by
   Pappenheim's definition the *shalem* may still gain, the "perfect" cannot.
@@ -134,13 +129,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Seeking Completion](https://articles.ohr.edu/articles/seeking-completion)," What's in a Word?, Ohr
-Somayach, 10 Cheshvan 5782 (2021-10-16): raw text in
-`sources/whats-in-a-word/raw/9396-seeking-completion.md`. Primary loci the
-article cites: Bereishis 17:1 with Rabbeinu Bachaya; Bereishis 25:27; Bereishis
-Rabbah 64:3; Tehillim 19:8; Devarim 13:1, 18:13 (with Onkelos and Sefer HaBahir
-137), 25:15, 27:6, 34:8; Yehoshua 8:31; Shemos 3:5; Vayikra 1:3, 22:21, 23:15
-with Vayikra Rabbah 28:3; Bamidbar 19:2; Bereishis 15:16 and 33:18 with Shabbos
-33b; Zohar to Bamidbar 165b. Three of the article's loci are corrected here,
-with the article's form noted in the body: Devarim 34:8 (the article prints
-33:8), Shabbos 33b (printed 33a), and Yehoshua 8:31 (printed 8:21).
+Rabbi Reuven Chaim Klein, "[Seeking Completion](https://articles.ohr.edu/articles/seeking-completion)," *What's in a Word?*, Ohr Somayach, 16 October 2021.
+
+Cited in the essay: Bereishis 17:1 with Rabbeinu Bachaya; Bereishis 25:27; Bereishis Rabbah 64:3; Tehillim 19:8; Devarim 13:1, 18:13 (with Onkelos and Sefer HaBahir 137), 25:15, 27:6, 34:8; Yehoshua 8:31; Shemos 3:5; Vayikra 1:3, 22:21, 23:15 with Vayikra Rabbah 28:3; Bamidbar 19:2; Bereishis 15:16 and 33:18 with Shabbos 33b; Zohar to Bamidbar 165b; Malbim; Rabbi Shlomo Pappenheim; the Kedushat Levi; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham Bedersi; Rabbi Moshe Sofer; Rabbi Shimon Dov Ber Analak.

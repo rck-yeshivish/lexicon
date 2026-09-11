@@ -41,7 +41,7 @@ updated: 2026-09-10
 verb for **distraining**, seizing a pledge by force once payment is due. *Avot*
 is a **pledge** handed over by agreement. *Rahan* is security **deposited up
 front**. *Apoteiki* is property **designated** for collection on default and
-never surrendered. Not to be lost: *chaval* is taken, *avot* and *rahan* given.
+never surrendered. *Chaval* is taken, *avot* and *rahan* given.
 
 ## At a glance
 
@@ -166,16 +166,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Taking Collateral](https://articles.ohr.edu/articles/taking-collateral)," What's in a Word?, Ohr Somayach,
-9 Elul 5783 (2023-08-26): https://articles.ohr.edu/articles/taking-collateral;
-raw text in `sources/whats-in-a-word/raw/11066-taking-collateral.md`. Primary
-loci cited: Shemos 22:25; Devarim 15:6, 15:8, 24:6, 24:10-13, 24:17; Yechezkel
-18:7; Mishlei 22:7; Tehillim 2:3, 37:35; Yoel 2:7; Chavakuk 2:6; Mishnah Sheviis
-10:2, Bava Metzia 5:7 and 6:7, Shevuos 6:7, Eduyos 8:2, Gittin 4:4, Keilim 23:2,
-Taharos 10:4-5, Peah 8:8, Kesubos 11:3, Arachin 5:6; Bava Kamma 11b and
-115a, Bava Basra 44b, Gittin 40b, Kesubos 54a; Rambam, *Hilchos Maaser Sheini*
-3:18; *Sefer HaTishbi* and *Meturgaman*; Tedeschi-Ashkenazi, *Otzar Nirdafim*.
-The Even-Shoshan concordance count for *chaval* and the Greek etymology of
-*apoteiki* (Rabbi Dr. Daniel Sperber's *Dictionary of Greek and Latin Legal
-Terms in Rabbinic Literature*, with the Latin and English derivatives) are
-reported here as the article gives them.
+Rabbi Reuven Chaim Klein, "[Taking Collateral](https://articles.ohr.edu/articles/taking-collateral)," *What's in a Word?*, Ohr Somayach, 26 August 2023.
+
+Cited in the essay: Shemos 22:25 with Rashi and Rav Hirsch; Devarim 15:6, 15:8, 24:6, 24:10-13, 24:17; Yechezkel 18:7; Mishlei 22:7; Tehillim 2:3, 37:35; Yoel 2:7; Chavakuk 2:6; Mishnah Sheviis 10:2, Bava Metzia 5:7 and 6:7, Shevuos 6:7, Eduyos 8:2 with Tosafos Yom Tov, Gittin 4:4, Keilim 23:2, Taharos 10:4-5, Peah 8:8, Kesubos 11:3, Arachin 5:6; Bava Kamma 11b and 115a, Bava Basra 44b, Gittin 40b, Kesubos 54a, with Rashi; Rambam, *Hilchos Maaser Sheini* 3:18; *Sefer HaAruch*; *Sefer HaTishbi* and *Meturgaman*; Menachem Ibn Saruk, Rabbi Yonah Ibn Janach and Radak; Rabbi Shlomo Pappenheim; Tedeschi-Ashkenazi, *Otzar Nirdafim*; Even-Shoshan's concordance; Rabbi Dr. Daniel Sperber, *Dictionary of Greek and Latin Legal Terms in Rabbinic Literature*; Merriam-Webster.

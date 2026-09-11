@@ -36,8 +36,7 @@ updated: 2026-09-10
 *Shekel* does not mean the same thing in Tanach and in Mishnah. In Tanach a
 *shekel* is the full weighed coin; the Mishnah calls that coin a *sela* and uses
 *shekel* for the **half-shekel** of the annual donation (Ramban to Shemos 30:13).
-Render Biblical שקל **shekel** and Mishnaic סלע **sela**, never "shekel," and
-check the register of a Mishnaic שקל before writing "shekel." *Beka* is **half a
+Biblical שקל is the **shekel** and Mishnaic סלע the **sela**. *Beka* is **half a
 shekel**, from "splitting."
 
 ## At a glance
@@ -154,14 +153,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayakhel (Shabbat Shekalim)](https://articles.ohr.edu/articles/vayakhel-shabbat-shekalim)," What's in a Word?, Ohr
-Somayach, 25 Adar I 5782 (2022-02-26): raw text in
-`sources/whats-in-a-word/raw/9595-vayakhel-shabbat-shekalim.md`. Primary loci:
-Shemos 30:11-16, 38:26, 17:16 with Rashi; Bereishis 24:22; Vayikra 5:15;
-Bamidbar 18:16; Bechoros 50a and Rashi to Bechoros 5a; Yerushalmi Kiddushin 1:3;
-Mishnah Shevuos 6:7, Shekalim 2:1 and 6:5; Ramban to Shemos 30:13; Rambam,
-Hilchos Arachin 4:3, Hilchos Shekalim 1:2, and to Shekalim 2:1; *Sefer
-HaChinuch* mitzvah 355; Radak, *Sefer HaShorashim*; *Me'at Tzari* to Bereishis
-24:22; Daniel 5:25; Ezra 2:69, 8:27; Nechemiah 7:69-71; Divrei HaYamim I 29:7.
-The companion piece on *sela* against the other words for rock is "Like a Rock"
-(November 2018).
+Rabbi Reuven Chaim Klein, "[Vayakhel (Shabbat Shekalim)](https://articles.ohr.edu/articles/vayakhel-shabbat-shekalim)," *What's in a Word?*, Ohr Somayach, 26 February 2022.
+
+Cited in the essay: Shemos 30:13 with Ramban, 38:26 with Rashi and Ibn Ezra, 17:16 with Rashi; Bereishis 24:22 with Rashbam, Ibn Ezra and Targum Onkelos; Vayikra 5:15; Bamidbar 18:16; Bechoros 50a and Rashi to Bechoros 5a; Yerushalmi Kiddushin 1:3; Mishnah Peah 8:7, Kilayim 2:8, Shabbos 6:6, Shekalim 1:6, 2:1 and 6:5, Bava Metzia 4:3, Bava Basra 2:1, Shevuos 6:7, Bechoros 8:2-8; Rambam, Hilchos Arachin 4:3, Hilchos Shekalim 1:2, and to Shekalim 2:1; *Sefer HaChinuch* mitzvah 355; Radak, *Sefer HaShorashim*; *Me'at Tzari* to Bereishis 24:22; Daniel 5:25; Ezra 2:69, 8:27; Nechemiah 7:69-71; Divrei HaYamim I 29:7; Rabbi Menachem Azariah of Fano; the piyut ascribed to Rabbi Elazar HaKallir; Rabbi David Schlussel of Munkatch; Rabbi David Cohen; Rabbi Elazar Rokach of Amsterdam; Rabbi Asher Gvirer.

@@ -29,9 +29,9 @@ column offers two theories of its own, that *bo* fixes on the destination and
 walking while *biah* names a change of place however it came about. Both of its
 own theories the column flags as needing a concordance to test. *Atah* is
 **arrive**: like *bo* it faces the destination, but it names only the arrival
-and never the journey (Rabbi Pappenheim, cited by Malbim). What a
-translator must not do is let one English "come" cover *bo* and *atah*
-together; where a pasuk has both, *atah* is the one that has landed.
+and never the journey (Rabbi Pappenheim, cited by Malbim). *Bo* and *atah*
+are not interchangeable; where a pasuk has both, *atah* is the one that has
+landed.
 
 ## Distinctions
 
@@ -57,8 +57,8 @@ a thing is causing it to come; on that basis Rabbi Yaakov Tzvi Mecklenburg
 suggests reading *bo el Pharaoh* as "bring [the following message] to
 Pharaoh." Rabbi Shlomo Pappenheim
 derives *navi* from the same two-letter root ב-א, since a navi brings Hashem's
-words to his listeners. Rabbi Pappenheim adds the point that matters most for
-rendering: *biah* covers both reaching the destination ("I came home") and the
+words to his listeners. Rabbi Pappenheim adds that *biah* covers both
+reaching the destination ("I came home") and the
 approach to it ("I am coming home"). Hence Rachel is described as "coming" while
 still on her way to the well (Bereishis 29:9), and Yosef as "coming" while his
 brothers still saw him from afar (Bereishis 37:19).
@@ -139,10 +139,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articles/bo-come-to-pharaoh)," What's in a Word?, Ohr Somayach
-(2021-01-23): raw text in
-`sources/whats-in-a-word/raw/9039-bo-come-to-pharaoh.md`. Primary loci: Shemos
-10:1, 7:15, 7:26, 9:1, 8:15; Bereishis 29:9, 37:19, 4:15; Devarim 33:2;
-Yeshayahu 21:12; Zohar Bo 34a; Shabbos 55a; Ramban to Shemos 8:15; *Baal
-HaTurim*, *Hadar Zekeinim*, and *Moshav Zekeinim* on the makkos pesukim; Malbim,
-*Yair Ohr*, citing Rabbi Shlomo Pappenheim.
+Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articles/bo-come-to-pharaoh)," *What's in a Word?*, Ohr Somayach, 23 January 2021.
+
+Cited in the essay: Shemos 10:1, 7:26, 9:1, 8:15; Bereishis 29:9, 37:19, 4:15; Devarim 33:2; Yeshayahu 21:12; Zohar Bo 34a; Shabbos 55a; Ramban to Shemos 8:15; *Baal HaTurim*, *Hadar Zekeinim*, and *Moshav Zekeinim* on the makkos pesukim; Rabbi Elimelech of Lizhensk; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rav Hirsch; Rabbi Menachem Mendel Kasher; Malbim, *Yair Ohr*.

@@ -27,8 +27,6 @@ valley ringed by mountains, not bread. *Challah* in Tanach is a **meal-cake**,
 almost always one brought as a korban, and in the Mishnah generally the
 **tithe** separated from dough, not the loaf we call by that name today. *Pat* is a **morsel**, a broken piece, which became a plain synonym for
 bread in Rabbinic usage. *Rifta* and *nahamah* are the Aramaic words for bread.
-The trap: "loaf" for both *kikar* and *challah*, which conflates a shape with a
-korban and a mitzvah.
 
 ## Distinctions
 
@@ -113,15 +111,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Let Them Eat Bread](https://articles.ohr.edu/articles/let-them-eat-bread)," What's in a Word?, Ohr Somayach,
-10 Tammuz 5778 (2018-06-23); raw text at
-`sources/whats-in-a-word/raw/7815-let-them-eat-bread.md`. Primary loci cited:
-Bamidbar 21:5 (*lechem haklokel*) and 15:20; Shemos 29:23 with Targum Onkelos;
-Shoftim 8:5; Shmuel I 10:3 and 2:36 with Radak; Yirmiyahu 37:21; Mishlei 6:26
-and 27:22; Divrei HaYamim I 16:3 (the article prints "I Chon. 16:3"); Vayikra
-2:6; Shmuel II 17:19; *maseches Challah*; Rabbi Nosson of Rome, *Sefer HeAruch*,
-s.v. *rifta*; Jastrow on *challah*.
+Rabbi Reuven Chaim Klein, "[Let Them Eat Bread](https://articles.ohr.edu/articles/let-them-eat-bread)," *What's in a Word?*, Ohr Somayach, 23 June 2018.
 
-The article closes its opening by saying that these terms are not all synonyms
-for one thing but differ slightly from one another, which is what the
-distinctions above set out.
+Cited in the essay: Bamidbar 21:5 (*lechem haklokel*) and 15:20; Shemos 29:23 with Targum Onkelos; Shoftim 8:5; Shmuel I 10:3 and 2:36 with Radak; Yirmiyahu 37:21; Mishlei 6:26 and 27:22; Divrei HaYamim I 16:3; Vayikra 2:6; Shmuel II 17:19; *maseches Challah*; Rabbi Nosson of Rome, *Sefer HeAruch*, s.v. *rifta*; Jastrow on *challah*; Rabbi Dr. Guy Matalon.

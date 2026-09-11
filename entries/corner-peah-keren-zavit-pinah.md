@@ -27,12 +27,11 @@ simply a **direction** (Onkelos: *ruach*). *Keren* is a **horn**, and a corner
 only where something juts out, chiefly the corners of the Altar. On Rabbi
 Pappenheim's distinction, as the column reads him, *zavit* is the
 inside of a corner and *pinah* is the outside of it, and by extension a
-**prominence** or **cornerstone**, so *pinah* often wants "cornerstone" or
-"leading man," not "corner." *Miktzoa* is the sharp **angle** where two sides
-meet at a point; *katzeh* is the **edge/end**, a right-angled corner. The trap:
+**prominence** or **cornerstone**, so *pinah* often means a cornerstone or a
+leading man rather than a corner. *Miktzoa* is the sharp **angle** where two
+sides meet at a point; *katzeh* is the **edge/end**, a right-angled corner.
 Onkelos renders *peah*, *pinah*, *miktzoa*, *katzeh* and *paam* all as *zavit*,
-which flattens the Hebrew; a translation into English must not follow him and
-print "corner" five times.
+which flattens the Hebrew.
 
 ## Distinctions
 
@@ -158,13 +157,12 @@ says frankly it is not sure it understands. He groups here *miketz*/*keitz*,
 *katz* (being disgusted, since the disgusted man feels the thing will bring
 about the end of his life), *ketzitzah*, *kayitz*, *yekitzah*, *kotz* and
 *katzin* (officer), which stands to *katzeh* as *paas* stands to *peah*; the
-full family is set out in `waking-yekitzah-oorah.md`.
+full family is set out in [waking](waking-yekitzah-oorah.html).
 
 *Paam* is a further biblical word for corner, which Onkelos likewise renders
 *zavit*; the column sends the reader elsewhere for it.
 
-Two rarities complete the set, both too infrequent to carry weight in a
-rendering: *atik* (Yechezkel 41:15, 42:3), which Ibn Saruk gives a quadriliteral
+Two rarities complete the set: *atik* (Yechezkel 41:15, 42:3), which Ibn Saruk gives a quadriliteral
 root of its own, א-ת-י-ק, Ibn Janach and Radak trace to נ-ת-ק (disengaging,
 uprooting), and Pappenheim to TAV-KUF ("static," a panel holding a wall in place
 and not letting it move); and *demeshek* (Amos 3:12), a *hapax* that Radak takes
@@ -205,23 +203,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayakhel-Pekudai: Turning the Corner (Part 1/2)](https://articles.ohr.edu/articles/vayakhel-pekudai-turning-the-corner-part-12)"
-(2023-03-18) and "Vayikra: Turning the Corner (Part 2/2)" (2023-03-25), What's
-in a Word?, Ohr Somayach: raw text in
-`sources/whats-in-a-word/raw/10884-vayakhel-pekudai-turning-the-corner-part-12.md`
-and `sources/whats-in-a-word/raw/10883-vayikra-turning-the-corner-part-22.md`.
-Primary loci: Shemos 25:26, 26:23, 27:2, 27:9, 37:13, 38:2, 38:5; Vayikra 4:7,
-8:15, 19:9, 19:27, 23:22; Bamidbar 24:17, 35:5; Shoftim 20:2; Shmuel I 14:38;
-Melachim I 6:1; Yeshayahu 44:13; Yirmiyahu 48:45, 51:26; Yechezkel 41:15, 42:3,
-43:20; Amos 3:12; Tzefaniah 1:16; Zechariah 9:15; Tehillim 118:22, 144:12;
-Esther 9:9; Divrei HaYamim II 26:15; Nechemiah 3:19, 3:24; Mishnah *Peah* 3:1,
-*Kilayim* 2:7, 3:3, 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid*
-1:4, 2:5, 3:3, 4:1, 7:3, *Middos* 2:5, 3:2-3, 4:3, 4:5, *Keilim* 17:9-10, 18:2,
-*Bava Basra* 10:8 with the commentary of Rabbi Yishmael ben Chachamon to *Bava
-Basra* 175b; *Berachos* 53b; *Kiddushin* 66a; *Shabbos* 123b; Rashba responsa
-vol. 4 §278; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Mecklenburg,
-*HaKsav VeHaKabbalah*; Shadal to Shemos 25:31. The article's aside on Radak and
-the Latin *cornu*, and its citation of Dr. Avi Hurvitz on *keren zavit*, are
-reported above as the article reports them.
+Rabbi Reuven Chaim Klein, "[Vayakhel-Pekudai: Turning the Corner (Part 1/2)](https://articles.ohr.edu/articles/vayakhel-pekudai-turning-the-corner-part-12)," *What's in a Word?*, Ohr Somayach, 18 March 2023.
 
-The source article for this cluster is truncated mid-sentence in every published copy, cutting the close of an aside on *rosh tor* and the letter *aleph*; nothing the entry rests on is affected.
+Rabbi Reuven Chaim Klein, "[Vayikra: Turning the Corner (Part 2/2)](https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22)," *What's in a Word?*, Ohr Somayach, 25 March 2023.
+
+Cited in the essay: Shemos 25:26, 26:23, 27:2, 27:9, 37:13, 38:2, 38:5; Vayikra 4:7, 8:15, 19:9, 19:27, 23:22; Bamidbar 24:17, 35:5; Shoftim 20:2; Shmuel I 14:38; Melachim I 6:1; Yeshayahu 44:13; Yirmiyahu 48:45, 51:26; Yechezkel 41:15, 42:3, 43:20; Amos 3:12 with Rashi and Radak; Tzefaniah 1:16; Zechariah 9:15 with Rashi, Radak and Mahari Kara; Tehillim 118:22, 144:12; Esther 9:9; Divrei HaYamim II 26:15; Nechemiah 3:19 with Rashi, 3:24 with *Daas Mikra*; Mishnah *Peah* 3:1, *Kilayim* 2:7, 3:3, 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid* 1:4, 2:5, 3:3, 4:1, 7:3, *Middos* 2:5, 3:2-3, 4:3, 4:5, *Keilim* 17:9-10, 18:2, *Bava Basra* 10:8 with the commentary of Rabbi Yishmael ben Chachamon to *Bava Basra* 175b; *Berachos* 53b; *Kiddushin* 66a; *Shabbos* 123b; Rashba responsa vol. 4 §278; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 27:2 and Vayikra 4:7; Shadal to Shemos 25:31; Malbim; Menachem Ibn Saruk; Ibn Janach and Radak; Rabbi Yehoshua Steinberg; Rabbi Benzion Chaim Lubetzky; Rabbi David Chaim Chelouche; Rabbi Yitzchak Zev Yadler; Rabbi Chaim Ozer Grodzenski as reported by Rabbi Chaim Pinchas Scheinberg; Dr. Avi Hurvitz.

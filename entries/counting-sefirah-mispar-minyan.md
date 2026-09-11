@@ -41,12 +41,11 @@ updated: 2026-09-10
 
 *Sofer* / *sefirah* is a count where each unit is marked and matters in itself,
 and *mispar* is a number that sets a limit. *Moneh* / *minyan* is a count whose
-point is the total; the single unit carries nothing. Render *sefirah* "counting"
-and, where the sense is the daily obligation, keep the qualitative weight;
-render *moneh* "count" or "tally" and *minyan* "tally" or, in the shul sense,
-"quorum." The one thing not to get wrong: the Torah's choice of *sofer* for
-*Sefiras HaOmer* is deliberate, so do not flatten it into the same English as
-the *moneh* of the Kohen Gadol's sprinklings.
+point is the total; the single unit carries nothing. *Sefirah* is **counting**,
+with qualitative weight where the sense is the daily obligation; *moneh* is to
+**count** or **tally**, and *minyan* a **tally** or, in the shul sense, a
+**quorum**. The Torah's choice of *sofer* for *Sefiras HaOmer* is deliberate,
+and it differs from the *moneh* of the Kohen Gadol's sprinklings.
 
 ## At a glance
 
@@ -99,8 +98,7 @@ Omer*, to the annual wheat offering of Shavuos. And halachically each day of the
 Omer may be reckoned a separate mitzvah, so that one who misses a whole day
 continues counting, though without a berachah. Many have used the forty-nine
 days for a forty-nine step scheme of character development, or for the ways of
-acquiring Torah listed in the sixth perek of Avos (which the article counts as
-forty-nine; the Mishnah itself says forty-eight), or for a forty-nine daf
+acquiring Torah listed in the sixth perek of Avos, or for a forty-nine daf
 masechta such as *Sotah* or *Shevuos*. On that model the point of the counting
 is not only the destination of Shavuos but the days themselves: if a man works
 each day at becoming better, then not only the final count has significance but
@@ -117,12 +115,11 @@ weight on its own.
 
 ### mifkad (מפקד)
 Root פ-ק-ד. A third family for counting and numbering, which the article names
-and expressly defers. Take nothing from it here beyond Rabbi Wertheimer's
-position above.
+and expressly defers.
 
 ## Rendering guidance
 
-- *Sefiras HaOmer*: "the counting of the Omer," and where the sefer is making
+- *Sefiras HaOmer*: "the counting of the Omer," and where the source is making
   the point, say what kind of count it is rather than reaching for a heavier
   English word. The weight is in the mitzvah, not in the verb.
 - Trap: English "count" absorbs both *sofer* and *moneh*. Where a passage sets
@@ -143,14 +140,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[When Just Counting Doesn't Count](https://articles.ohr.edu/articles/when-just-counting-doesnt-count)," What's in a Word?,
-Ohr Somayach, 17 Iyar 5777 (2017-05-13):
-https://articles.ohr.edu/articles/when-just-counting-doesnt-count; raw text in
-`sources/whats-in-a-word/raw/7251-when-just-counting-doesnt-count.md`. Primary
-loci cited: Vayikra 23:15-16 (the mitzvah of counting); Devarim 25:2 (*mispar*
-of lashes); Avos ch. 6 (the forty-eight ways of acquiring Torah, which the
-article counts as forty-nine); the masechtos *Sotah* and *Shevuos* as
-forty-nine-daf tractates; the Yom Kippur liturgy's *moneh* for the Kohen
-Gadol's sprinklings. Authorities: the Vilna Gaon; Rabbi Wertheimer; Rabbi
-Shlomo Pappenheim of Breslau; Rabbi Yaakov Tzvi Mecklenburg (*HaKesav
-VeHaKabbalah*).
+Rabbi Reuven Chaim Klein, "[When Just Counting Doesn't Count](https://articles.ohr.edu/articles/when-just-counting-doesnt-count)," *What's in a Word?*, Ohr Somayach, 13 May 2017.
+
+Cited in the essay: Vayikra 23:15-16; Devarim 25:2; Avos ch. 6; the masechtos *Sotah* and *Shevuos*; the Yom Kippur liturgy on the Kohen Gadol's sprinklings; the Vilna Gaon; Rabbi Wertheimer; Rabbi Shlomo Pappenheim of Breslau; Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*).

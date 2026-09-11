@@ -21,8 +21,7 @@ but extended to any young bird; where the two are contrasted (Rabbi Yaakov
 Kamenetsky, Rabbi Shmuel Ashkenazi) the *efroach* is the younger, still tied to
 its mother, and the *gozal* the older, already able to fly. *Pargit* is a
 Rabbinic word for a **young chicken**. *Nipol* is a **fallen nestling**, defined
-by the halachic case, not the species. The trap: English "chick" or "fledgling"
-will absorb *efroach* and *gozal* both, and the whole point of a passage may be
+by the halachic case, not the species. The whole point of a passage may be
 which stage is meant.
 
 ## Distinctions
@@ -141,18 +140,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Ki Saytzei: Flowering Chicklings](https://articles.ohr.edu/articles/ki-saytzei-flowering-chicklings)," What's in a Word?,
-Ohr Somayach, 14 Elul 5782 (2022-09-10); raw text at
-`sources/whats-in-a-word/raw/9906-ki-saytzei-flowering-chicklings.md`. Primary
-loci cited: Devarim 22:6-7 (*efroach*, twice), Iyov 39:30, Tehillim 84:4;
-*Shabbos* 18:2, *Eduyos* 4:2, *Chullin* 12:3; Bereishis 15:9 and Devarim 32:11
-(*gozal*), with *Bikkurim* 3:5, *Shekalim* 8:5 and 9:1, *Bava Metzia* 1:4 and
-2:3, *Kinnim* 2:1, *Taharos* 8:6; Ibn Ezra to Devarim 22:6 and 32:11; Ibn Janach
-and Radak, *Sefer HaShorashim*; Rav Hirsch to Bereishis 16:11 and Shemos 23:19;
-*Bereishis Rabbah* 44:14; *Tosefta Chullin* 10:2; *Bava Basra* 2:6 and 23b with
-Rashi, Rabbeinu Gershom and Rambam; *Chullin* 65a; *Berachos* 39b, *Bava Metzia*
-24b, *Bereishis Rabbah* 18:17, *Vayikra Rabbah* 34:14, *Perek Shirah* ch. 4.
-The article's modern-zoological section (an Academy of the Hebrew Language piece
-and Dr. Moshe Raanan of Herzog College, distinguishing nidifugous *efroach* from
-nidicolous *gozal*) and Rabbi Ernest Klein's Proto-Indo-European derivation of
-*pargit* are reported here as the article gives them.
+Rabbi Reuven Chaim Klein, "[Ki Saytzei: Flowering Chicklings](https://articles.ohr.edu/articles/ki-saytzei-flowering-chicklings)," *What's in a Word?*, Ohr Somayach, 10 September 2022.
+
+Cited in the essay: Devarim 22:6-7 (*efroach*, twice) with Targum Yonasan and Targum Onkelos, Iyov 39:30, Tehillim 84:4; *Shabbos* 18:2, *Eduyos* 4:2, *Chullin* 12:3; Bereishis 15:9 with Targum Onkelos and Devarim 32:11 (*gozal*), with *Bikkurim* 3:5, *Shekalim* 8:5 and 9:1, *Bava Metzia* 1:4 and 2:3, *Kinnim* 2:1, *Taharos* 8:6; Ibn Ezra to Devarim 22:6 and 32:11; Ibn Janach and Radak, *Sefer HaShorashim*; Rav Hirsch to Bereishis 16:11 and Shemos 23:19; *Bereishis Rabbah* 44:14; *Tosefta Chullin* 10:2; *Bava Basra* 2:6 and 23b with Rashi, Rabbeinu Gershom and Rambam; *Melechess Shlomo* and the Kaufmann manuscript; *Chullin* 65a; *Berachos* 39b, *Bava Metzia* 24b, *Bereishis Rabbah* 18:17, *Vayikra Rabbah* 34:14, *Perek Shirah* ch. 4; *Sefer HeAruch*; Rabbi Ernest Klein; the Academy of the Hebrew Language; Dr. Moshe Raanan.

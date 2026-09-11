@@ -19,9 +19,8 @@ updated: 2026-09-10
 of a rasha. *Neveilah* is a **carcass**, an animal that died without shechitah,
 and by the same authority it can name a human body too, but only one killed by
 an outside force. *Challal* literally means **empty** or **cavity**: a body
-emptied of its soul is like an empty vessel. The trap is letting "corpse" cover all three:
-*neveilah* in a halachic passage is a technical term and must not be softened,
-and *peger* carries a note of contempt that "body" will lose.
+emptied of its soul is like an empty vessel. *Neveilah* in a halachic passage
+is a technical term, and *peger* carries a note of contempt.
 
 ## Distinctions
 
@@ -105,11 +104,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Of Corpses and Carcasses](https://articles.ohr.edu/articles/of-corpses-and-carcasses)," What's in a Word?, Ohr
-Somayach, 26 Sivan 5778 (2018-06-09):
-https://articles.ohr.edu/articles/of-corpses-and-carcasses, raw text in
-`sources/whats-in-a-word/raw/7788-of-corpses-and-carcasses.md`. Primary loci
-cited: Bamidbar 14:29-33; Bereishis 15:11 with Rashi; Yeshayahu 26:19; Yevamos
-49b; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and glosses to Radak's *Sefer
-HaShorashim*; Rabbi Shlomo Pappenheim on *po gar*; Rabbi Yosef Teomim (*Pri
-Megadim*) in his letters on Hebrew grammar, on *Elokai Neshamah*.
+Rabbi Reuven Chaim Klein, "[Of Corpses and Carcasses](https://articles.ohr.edu/articles/of-corpses-and-carcasses)," *What's in a Word?*, Ohr Somayach, 9 June 2018.
+
+Cited in the essay: Bamidbar 14:29-33; Bereishis 15:11 with Rashi; Yeshayahu 26:19; Yevamos 49b; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and glosses to Radak's *Sefer HaShorashim*; Rabbi Shlomo Pappenheim on *po gar*; Rabbi Yosef Teomim (*Pri Megadim*) in his letters on Hebrew grammar, on *Elokai Neshamah*.

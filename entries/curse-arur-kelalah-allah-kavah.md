@@ -21,9 +21,9 @@ Malbim runs *arur* the other way, see below). *Kelalah* is the weaker word, root
 in *kal*, light: **disparagement**, or a **curse** that must name what it wishes
 on its target. *Allah* is the curse that either invokes Hashem by name or is laid
 down conditionally: **oath-curse, imprecation**. *Kavah* is the curse pronounced
-in public with the victim named outright. The trap is treating *arur* and
-*kelalah* as one word; Shemos 22:27 uses both of them in a single pasuk, and the
-switch is the whole point.
+in public with the victim named outright. *Arur* and *kelalah* are not one
+word; Shemos 22:27 uses both of them in a single pasuk, and the switch is the
+whole point.
 
 ## Distinctions
 
@@ -74,8 +74,8 @@ public with his name stated explicitly (compare the naming of Bamidbar 1:17).
 - Bereishis 12:3: "whoever curses you, I will curse" loses the pair. Render the
   first "whoever calls down a curse on you" and the second "him will I curse,"
   or gloss the Hebrew.
-- *Arur* standing alone as a declaration: "Cursed be he." *Kelalah* alone in a
-  mussar context: "curse" is acceptable, but "disparagement" is right wherever
+- *Arur* standing alone as a declaration: "Cursed be he." *Kelalah* alone:
+  "curse" is acceptable, but "disparagement" is right wherever
   the passage plays on *kal*.
 - *Allah*: "oath-curse" or "imprecation," never plain "curse," since the whole
   distinction is that Hashem's Name or a condition is attached. In a shevuah
@@ -90,10 +90,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Clarifying a Collection of Curses](https://articles.ohr.edu/articles/clarifying-a-collection-of-curses)," What's in a Word?,
-Ohr Somayach, 17 Kislev 5777 (2016-12-17):
-https://articles.ohr.edu/articles/clarifying-a-collection-of-curses; raw text in
-`sources/whats-in-a-word/raw/7049-clarifying-a-collection-of-curses.md`. Primary
-loci: Shemos 22:27; Bereishis 12:3; Devarim 28:20 (*me'erah*); Bamidbar 1:17.
-Rabbi Yaakov Tzvi Mecklenburg writes in *HaKesav VeHaKabbalah*; the Vilna Gaon,
-Malbim, and Radak are cited by the article without a locus beyond these pesukim.
+Rabbi Reuven Chaim Klein, "[Clarifying a Collection of Curses](https://articles.ohr.edu/articles/clarifying-a-collection-of-curses)," *What's in a Word?*, Ohr Somayach, 17 December 2016.
+
+Cited in the essay: Shemos 22:27; Bereishis 12:3; Devarim 28:20 (*me'erah*); Bamidbar 1:17; the Vilna Gaon; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*; Malbim; Radak.
