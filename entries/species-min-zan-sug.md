@@ -28,7 +28,7 @@ loanword; in its three Hebrew appearances the meforshim argue whether it means
 the language of logic the **parent category** (genus) above the *min* (Rambam in
 Rabbi Moshe Ibn Tibbon's translation, Rabbi Shmuel Ibn Tibbon, the Ran,
 Ramchal). The Torah's *minim* do not necessarily
-line up with the species of modern botany and zoology, as the column notes; the
+line up with the species of modern botany and zoology, as Rabbi Klein notes; the
 Ran reads the *minim* of the Teivah as the ancestors of today's species, though
 Ramban answers the Teivah's capacity with a miracle instead.
 
@@ -53,7 +53,7 @@ but cannot be a perfect representation of it. A step further, *min* is a group
 of things that look alike enough but are not exactly the same, so that grouping
 them together is, in a way, something of a "falsehood." Shadal compares this to
 Latin *species*, from "seeing," borrowed for things that "appear" similar enough
-to be categorized together; the column adds that *species* descends from the
+to be categorized together. *Species* descends from the
 Proto-Indo-European root *spek-*, ancestor of *spectacle*, *special*, *aspect*,
 *suspect*, *scope* and others. Shadal extends the sense to *min*, heretic: each
 heretic's belief differs slightly from the next, yet they all fall into one
@@ -65,7 +65,7 @@ Rabbi Shlomo Pappenheim (1740 to 1814) takes the two-letter root מ-נ as
 "creating order out of causes and effects." One group of its derivatives is
 headed by *moneh* and *minyan*, counting, which creates mathematical order by
 quantifying a set of givens; *min* derives from it too, since it likewise
-determines what belongs in one grouping and what is excluded (in the column's
+determines what belongs in one grouping and what is excluded (in Rabbi Klein's
 colloquial gloss, what "counts" and what does not). Like Shadal, Pappenheim
 connects *temunah* to *min*, on his own reasoning: a *temunah* is a relatively
 vague picture that may show a certain species without being the image of any one
@@ -87,10 +87,10 @@ Yehoshua (Jeremy) Steinberg of the Veromemanu Foundation proposes that *minnim*
 is a metathesis of *nimim*, "hairs, strings," and so specifically a stringed
 instrument.
 
-On whether the Torah's *minim* are today's species: the column notes that
+On whether the Torah's *minim* are today's species: Rabbi Klein notes that
 ancient ways of categorizing flora and fauna do not necessarily line up with the
 taxonomy of modern botanists and zoologists, and that the Torah might group
-things by different criteria. It illustrates from the Teivah, whose known
+things by different criteria. He illustrates from the Teivah, whose known
 dimensions could not hold every known species. Ramban (to Bereishis 6:19), the
 first to address the question, posits a miracle that let the Teivah house
 specimens of all those species. Rabbeinu Nissim of Gerona (to Bereishis 6:14)
@@ -125,7 +125,7 @@ second as related to *zenus*, lust (a vice that comes from overindulging in
 sustenance), since it was a type of spice that served as an aphrodisiac (see
 *Bava Kamma* 16b).
 
-If *zan* and *min* do mean the same thing, the column suggests they are still
+If *zan* and *min* do mean the same thing, Rabbi Klein suggests they are still
 not quite synonymous, because they come from different languages. From where in
 Tanach each word appears, Professor Avi Hurvitz argues that *zan* is simply the
 Late Biblical Hebrew equivalent of the Classical Biblical Hebrew *min*. Dr.

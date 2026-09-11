@@ -38,7 +38,7 @@ updated: 2026-09-10
 ## Bottom line
 
 *Shemittah* is **releasing**: loosening one's grip so that a thing slips out of
-one's control, which is why the same word covers letting a field lie and letting
+one's control, which may be why the same word covers letting a field lie and letting
 a debt go. *Chalitzah* is **extracting** something from what encloses it.
 *Shalaf* is **drawing** a thing quickly out of a loose holder, most often a sword
 from its sheath. *Shal* is a shoe **slipped off** with no hands at all. Shoresh Yesha draws a three-way
@@ -61,32 +61,30 @@ taking off a shoe, and they answer to three ways a shoe can be fastened. *Shal*
 (Shemos 3:5, Yehoshua 5:15) is slipping a sandal off without even using the
 hands; *shalaf* is taking a shoe off by hand; *chalitzah* is removing a shoe
 fastened to the foot, which must first be untied. Rabbi Shlomo Pappenheim
-(1740-1814) draws the line elsewhere: *chalitzah* is extraction from something
+(1740-1814) runs in a similar vein: *chalitzah* is extraction from something
 that engulfs, while *shalaf* is used wherever the two items were only loosely
 attached and could easily be separated, which is why it fits both the sword a
 warrior needs readily at his disposal and the shoe handed over to close a deal
 before the other party backs out; since both must come away swiftly, we would not
 expect either to be fastened too strongly.
 
-The column raises a difficulty of its own here and leaves it open. It calls it
-perplexing that the Gemara names a load mounted on an animal a *shlif* (*Bava
-Kamma* 3a; see Rashi to *Bava Kamma* 17b, *Shabbos* 154b, *Eruvin* 16a,
-*Kiddushin* 22b), and says outright that it does not understand why a word for a
-parcel one hopes will *not* slip off the animal's back should derive from the act
-of slipping off. It offers two possibilities, both marked "perhaps": that *shlif*
+Rabbi Reuven Chaim Klein raises a difficulty of his own here and leaves it open.
+He finds it perplexing that the Gemara names a load mounted on an animal a *shlif*
+(*Bava Kamma* 3a; see Rashi to *Bava Kamma* 17b, *Shabbos* 154b, *Eruvin* 16a,
+*Kiddushin* 22b), a word seemingly derived from ש-ל-פ, and says outright that he
+does not understand why a word for a parcel one hopes will *not* slip off the
+animal's back should derive from the act of slipping off. He offers two possibilities, both marked "perhaps": that *shlif*
 names precisely that hope, or that *shalaf* in fact denotes the same untying
 that *chalitzah* denotes, against *Shoresh Yesha*, so that *shlif* is what one
 does to the package once it reaches its destination (Rashi to *Bava Basra* 75b
-notes the *shlif* was *tied* to the animal). The
-column does not choose between Pappenheim and *Shoresh Yesha*.
+notes the *shlif* was *tied* to the animal).
 
 **Are chalitzah and shalaf the same act?** Targum Yonasan renders the verb of the
 *chalitzah* ceremony (Devarim 25:9) with a cognate of *shalaf*, and Rashi (to
 *Chullin* 53a, *Gittin* 33b) links the two verbs as though they were synonyms.
 Pappenheim, as above, keeps them apart. Radak (to Yeshayahu 58:11 and in *Sefer
 HaShorashim*) seems to have had an alternate version of the Midrash below that
-used *shalaf* where ours uses a cognate of *shemittah*, so the two roots were
-already trading places in the texts.
+used *shalaf* where ours uses a cognate of *shemittah*.
 
 **What alatz means.** Delilah "pressed" (*alatz*) Shimshon to give up the secret
 of his super-human strength (Shoftim 16:16). Ramban (to Bereishis 32:25) reads
@@ -94,9 +92,9 @@ the alef of *alatz* as interchangeable with the ches of *chalatz*, which he
 understands as a metathesized permutation of *lachatz*, pressure. Chazal (*Sotah*
 9b, *Bereishis Rabbah* 52:12) explain *alatz* differently, and concretely, as
 Delilah slipping away (*nishmatah*) from under Shimshon in the throes of
-intimacy as a way of pressing him. The column's own inference from that is that
+intimacy as a way of pressing him. Rabbi Reuven Chaim Klein infers from that that
 perhaps Chazal took *alatz* as directly related to *chalatz*, slipping, rather
-than to *lachatz*; it then reports finding that contention stated explicitly by
+than to *lachatz*, and reports finding that contention stated explicitly by
 Rabbi Moshe ben HaNessiah Britannico (13th-century England) in *Sefer HaShoham*
 and by Rabbi Yosef Chaim of Baghdad (1832-1909) in *Ben Yehoyada* to *Sotah* 9b.
 
@@ -113,11 +111,12 @@ hand (Shmuel II 6:6, Divrei HaYamim I 13:9), Rabbi Yonah Ibn Janach (*Sefer
 HaShorashim*) explains that the weight was bursting the animals' joints and the
 Aron would have slipped off had they collapsed. When Yehu had Izevel thrown from
 the window (Melachim II 9:33), the verb is a cognate, and Radak there with Ibn
-Ezra (to Devarim 15:1) gloss it as letting something go so that it falls. So the
-root is leaving a thing to itself and the falling that results, which is exactly
-what a man does to his field and to his debts in the seventh year.
+Ezra (to Devarim 15:1) gloss it as letting something go so that it falls. So, it
+seems, the root denotes leaving a thing to itself and the falling that results,
+which Rabbi Reuven Chaim Klein suggests is what a man does to his field and to his
+debts in the seventh year.
 
-Two further uses are extensions rather than forsaking. The woodchopper whose hand
+Two further uses seem to be extensions rather than forsaking. The woodchopper whose hand
 slips, killing a man, so that he flees to a city of refuge (Devarim 19:5): Rashi
 uses a cognate, following the Mishnah (*Makkos* 2:1), and himself links it (to
 Shmuel II 6:6) to Uzza. And a dislocated shoulder or thigh in an animal, whether
@@ -127,7 +126,7 @@ place. Rashi widens the root further to escaping danger or fleeing trouble
 letter in writing a sefer Torah or a pasuk in reading it (*Megillah* 18b),
 whence the *hashmatos*, the omissions, at the back of many sefarim. Despite its currency in speech, *Shemittah* is fairly rare in the Bavli outside
 quotations of these pesukim (*Nazir* 8b, *Sotah* 41a, *Gittin* 36a, *Bava Metzia*
-30b and 48b, *Sanhedrin* 32a, *Shevuos* 44b, and, the column adds, several other
+30b and 48b, *Sanhedrin* 32a, *Shevuos* 44b, and several other
 places).
 
 ### chalitzah (חליצה)
@@ -158,7 +157,7 @@ derived it from the hips-and-thighs sense of *chalatzayim*, a blouse typically
 covering the loins.
 
 ### shalaf (שלף) and shal (של)
-*Shalaf* appears twenty-five times, overwhelmingly of drawing a sword (Bamidbar
+*Shalaf* appears twenty-five times, most commonly of drawing a sword (Bamidbar
 22:23, 22:31; Yehoshua 5:13; Shoftim 3:22, 8:10, 8:20, 9:54, 20:2, 20:15, 20:17, 20:25,
 20:35, 20:46; Shmuel I 17:51, 31:4; Shmuel II 24:9; Melachim II 3:26; Divrei
 HaYamim I 10:4, 21:16, 21:25), and less commonly of slipping off a shoe for

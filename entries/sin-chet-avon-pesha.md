@@ -23,7 +23,7 @@ updated: 2026-09-10
 sin (*meizid*). *Pesha* is the **rebellious sin**, done to defy Hashem. That is
 the Gemara's ladder (Yoma 36b), and the *vidui* keeps its ascending order: "I
 have sinned, I have done iniquity, I have rebelled." Rabbi Netanel Weil: the
-ladder holds only when the words stand together; a lone *chet* or *avon* covers
+difference between *chet* and *avon* holds only when the two stand together; a lone *chet* or *avon* covers
 every kind of sin and is simply "sin." *Aveirah*, the Rabbinic catch-all, is
 **transgression**.
 
@@ -33,7 +33,7 @@ In the Yom Kippur confessionals we mimic the vidui of the Kohen Gadol in the
 Beis HaMikdash. The Mishnah (*Yoma* 4:2) relates that
 when the Kohen Gadol confessed his own sins and his household's he admitted
 specifically to three kinds: *chet*, *avon* and *pesha*. These are not
-synonyms, the column says, but different degrees of sin, and the Gemara (Yoma
+synonyms but different degrees of sin, and the Gemara (Yoma
 36b) explains *chet* as an inadvertent sin, the state of mind called *shogeg*,
 *avon* as a wanton or intentional sin, *meizid*, and *pesha* as a sin of
 rebellion. There are, however, other ways of explaining the differences.
@@ -47,7 +47,7 @@ himself king, Batsheva came before David demanding that he keep his promise that
 Shlomo would succeed him, saying that if Adoniyahu secures the throne "then I and
 my son Shlomo will be *chataim*" (Melachim I 1:21). Rashi explains *chet* there
 as "lacking": Batsheva and Shlomo would be lacking the royal titles due them.
-Probably based on Rashi's comment, says the column, the Vilna Gaon (Mishlei 1:10,
+Probably based on Rashi's comment, the Vilna Gaon (Mishlei 1:10,
 13:6) writes that a *chet* is a sin through a lacking, that is, the failure to
 perform a positive mitzvah. Rabbi Yechezkel Landau (1713-1793) also takes *chet*
 as the lack of fulfilling a positive mitzvah, but synthesizes it with the
@@ -58,7 +58,7 @@ sin, and still draws a lesson from Rashi's "lack": a *chet* is not simply the
 lack of something but the failure to achieve a goal, the sinner deviating from
 the goal of mankind and missing his intended objective. Rabbi Shlomo Pappenheim
 of Breslau (1740-1814), similarly: *chet* denotes the sinner's lack of intention
-or mindfulness when committing his sin. Malbim, whose approach the column calls
+or mindfulness when committing his sin. Malbim, whose approach is
 slightly different, holds that all three words *could* refer to an offense
 committed on purpose, differing in motive: a *chet* is a sin committed because a
 person was swayed by his physical temptations and purposely indulged in what he
@@ -69,7 +69,7 @@ Root ע-ו-ה, crooked. Gemara: the wanton or intentional sin, *meizid*.
 Pappenheim: the sin of one who "thinks too much," wrongly concluding that sinning
 is the proper way to go and acting accordingly. Malbim: a sin a person commits
 because his intellect had been negatively persuaded, causing him to stray.
-*Peirush HaRokeach*, which the column says slightly disagrees with the Gemara's
+*Peirush HaRokeach*, which slightly disagrees with the Gemara's
 way of dividing the three: *avon* is specifically a sin from which one derived
 physical pleasure or gained some other benefit.
 
@@ -87,7 +87,7 @@ crimes of indecency it now serves colloquially as a general term for every kind
 of wrongdoing. Rabbi Yaakov Tzvi Mecklenburg (1785-1865): *aveirah* comes from
 the root ע-ב-ר, which means "passes" in a physical sense, the idea being that a
 man morally passes over his own thoughts so as not to focus on the nefariousness
-of his deeds. The column adds a suggestion of its own, that one who commits an
+of his deeds. Rabbi Klein suggests that one who commits an
 *aveirah* has crossed a Rabbinic red line, noting that the Gemara (Shabbos 40a)
 holds that even a person who violates a Rabbinic prohibition can be called an
 *avaryan*.
@@ -100,7 +100,7 @@ such a context *chet* means whatever *chet* means and *avon* whatever *avon*
 means; but when either appears on its own, without the other, it includes all
 types of sin and not only the specific type it otherwise names.
 
-Nor, the column says, is the classifying black and white. In *Hilchos Teshuvah*
+Nor, Rabbi Klein says, is the classifying black and white. In *Hilchos Teshuvah*
 the Rambam codifies the penitent's obligation to confess by saying *chatati,
 aviti, pashati*, the same formula the Kohen Gadol said in the Beis HaMikdash.
 Rabbi Yosef Babad (1801-1874) in *Minchas Chinuch* writes that one need not

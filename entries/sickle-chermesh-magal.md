@@ -16,15 +16,13 @@ updated: 2026-09-10
 ## Bottom line
 
 Both mean **sickle**, and the weight of the sources treats them as one tool
-under two names: *chermesh* is the Hebrew word, *magal* a Hebraicized form of the
-Aramaic *magla*. That is why the Torah says *meihachel chermesh bakamah* (Devarim
+under two names; the Targumim suggest that *chermesh* is the Hebrew word and *magal*
+a Hebraicized form of the Aramaic *magla*. That is why the Torah says *meihachel chermesh bakamah* (Devarim
 16:9) while the Mishnah's ceremony of cutting the Omer asks the crowd twice
 *magal zeh?* (Menachos 10:3). The proposal that one is a "sickle" and the other a
-"scythe" was made and rejected on the column's own showing, and
-the sources that do set the two words apart are working homiletically, not naming
-two tools.
+"scythe" was made by some scholars and rejected by Dr. Shmuel Yeivin.
 
-## The article's question
+## Why the Mishnah says magal
 
 The Torah begins Sefiras HaOmer "when the sickle (*chermesh*) commences upon the
 standing grain" (Devarim 16:9), yet the Mishnah, describing the public affair of
@@ -32,8 +30,8 @@ cutting the Omer, uses a different word for the implement: the harvester holds u
 a *magal* and asks the assembled crowd, "Is this a *magal*?" and they answer
 "Yes!", and he asks again and they answer again (Menachos 10:3). So why does the
 Mishnah call the tool a *magal* where the Torah calls it a *chermesh*? Are they
-synonyms, or is there a difference? The column's answer, in short, is that they
-are one tool, *chermesh* the older Hebrew word and *magal* the later one taken in
+synonyms, or is there a difference? Rabbi Klein's answer, in short, is that the
+evidence suggests they are one tool, *chermesh* the older Hebrew word and *magal* the later one taken in
 from Aramaic.
 
 ## Distinctions
@@ -73,7 +71,7 @@ Roots proposed:
   reaches twenty and becomes liable to Divine punishment for his sins, he remains
   so for the next fifty years, until seventy, the archetypal lifespan in Tanach.
   In support he notes that *chermesh* has a gematria of 548, the same as
-  *umalach hamaves*, "and the Angel of Death"; the column adds in passing that
+  *umalach hamaves*, "and the Angel of Death"; Rabbi Klein remarks in passing that
   this is reminiscent of the popular depictions of the Grim Reaper with his
   scythe. Rabbi Vital then asserts that the Torah used *chermesh* here rather
   than *magal* precisely to teach that lesson.
@@ -84,7 +82,7 @@ several times in the Mishnah (Sheviis 5:6, Menachos 10:3, Keilim 13:1 and 15:4).
 
 That it is the Aramaic form is what the evidence suggests: wherever *chermesh*
 appears the Targumim render it *magla*, and the *Sifrei* (to Devarim 23:26)
-explains *chermesh* to mean *magal* outright. On that showing the two are
+explains *chermesh* to mean *magal* outright. On that showing the two would be
 synonymous, *chermesh* Hebrew in origin and *magal* Aramaic, which accounts for
 Devarim, written earlier, using the purely Hebrew term while the later nevi'im
 (Yirmiyahu and Yoel) and the Mishnah, from after Aramaic had spread, use the
@@ -110,13 +108,13 @@ Rabbi Shlomo Pappenheim of Breslau (1740-1814): the root is ג-ל, whose primary
 sense is "round," whence *gal* (a heap of stones in a circular formation),
 *galgal* (wheel) and *megillah* (a scroll, which is rolled up); the *magal*
 belongs there because the sickle's blade is curved and almost forms a circle. He
-traces *galus* and *geulah* to the same two-letter root. The column says his own
-way of connecting those two to the core sense of ג-ל is a bit complex, and offers
-instead its own suggestion, that the connection lies in the cyclical nature of
-the exile-redemption-exile pattern that prevails until the final geulah; and it
-adds a further suggestion of its own, that Chazal preferred *magal* to *chermesh*
+traces *galus* and *geulah* to the same two-letter root. Rabbi Klein calls
+Pappenheim's own way of connecting those two to the core sense of ג-ל a bit
+complex, suggests instead that the connection lies in the cyclical nature of
+the exile-redemption-exile pattern that prevails until the final geulah, and
+further suggests that Chazal preferred *magal* to *chermesh*
 because *magal* fits etymologically with the Pesach theme of the passage from
-galus to geulah. Both are offered as the columnist's suggestions, not as sources.
+galus to geulah.
 
 ## Rendering guidance
 

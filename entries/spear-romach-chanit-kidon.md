@@ -39,10 +39,8 @@ Shlomo Pappenheim the weapon of the military camp, from the "encamping" root.
 *Kidon* is a small *romach* (Rambam), usually thrown at the enemy (Rabbi Tanchum
 HaYerushalmi), so **javelin** or **dart**; HALOT instead gives "hunting
 knife/scimitar," and Targum renders it *romcha*. *Alunki* is the rabbinic
-**lance**, from Greek (Rabbi Shmuel Krauss). The column
-works by etymology and rules on no difference in use, and for Rabbi Krauss all
-three are one weapon; the distinctions rest on the etymologies and on Rambam's
-"small *romach*," not on a settled difference.
+**lance**, from Greek (Rabbi Shmuel Krauss). For Rabbi Krauss all
+three are one weapon.
 
 ## At a glance
 
@@ -58,12 +56,10 @@ three are one weapon; the distinctions rest on the etymologies and on Rambam's
 **Whether these are three weapons or one.** Rabbi Shmuel Krauss (1866 to 1948)
 writes that *romach*, *chanit*, and *kidon* are all synonyms for the same sort of
 weapon, and adds that the rabbis used a fourth, *alunki*. Targum to Yehoshua 8:18
-renders *kidon* as *romcha*, which the column takes to imply that those two
+renders *kidon* as *romcha*, implying that those two
 weapons are very similar and their names can even be somewhat interchanged.
 HALOT gives each word its own English: *romach* "lance," *chanit* "spear,"
-*kidon* "hunting knife/scimitar." The column sets out to show how each word's
-inner meaning relates to its own root, and does not rule between Rabbi Krauss
-and the separate glosses.
+*kidon* "hunting knife/scimitar."
 
 **How *romach* is built.** Menachem Ibn Saruk (920 to 970), Yonah Ibn Janach
 (990 to 1055), and Radak (1160 to 1235): a triliteral root REISH-MEM-CHET, used
@@ -71,8 +67,7 @@ for nothing but this weapon. Rabbi Moshe Tedeschi Ashkenazi (1821 to 1898,
 *Otzar Nirdafim*): related to biliteral MEM-CHET, "erase, annihilate," for the
 weapon's destructive nature. *Ohalei Yehuda*: a single stab of a *romach* is
 fatal to anyone, exalted or lowly, so the word fuses REISH-(VAV)-MEM ("high,
-exalted") with MEM-CHET, lethal even to the highest-ranking. (The column adds
-that Kozbi was a Midianite princess and Zimri the prince of the tribe of Shimon,
+exalted") with MEM-CHET, lethal even to the highest-ranking. (Kozbi was a Midianite princess and Zimri the prince of the tribe of Shimon,
 yet both fell to Pinchas's *romach*.) Alternatively, *Ohalei Yehuda*: REISH-MEM
 ("high, lift, remove") with CHET-YOD (*chai*, "life"), a remover of life. Rav
 Hirsch (to Shemos 15:1, Bamidbar 25:7) follows the triliteralists' REISH-MEM-CHET
@@ -84,7 +79,7 @@ by stabbing.
 century, in the Holy Land; *HaMadrich HaMaspik*): the word usually means a small
 *romach* thrown at the enemy, like an arrow or dart, but Golyas wearing "a copper
 *kidon* between his shoulders" (Shmuel I 17:6) implies it can also mean a helmet.
-From this the column suggests, hedged ("it would seem that perhaps"), that
+From this Rabbi Reuven Chaim Klein suggests, hedged ("it would seem that perhaps"), that
 *kidon* may be a general term for an infantryman's gear, weaponry or armor.
 Radak (to Shmuel I 17:6): even with Golyas the *kidon* is an offensive weapon,
 not armor, something resembling a *romach* that soldiers hid between their
@@ -98,7 +93,7 @@ weapon commonly found in the *machaneh* and used for military purposes. Then
 three more: Rabbi Tedeschi Ashkenazi, from CHET-NUN-HEI, the spear often stabbed
 into the ground where it would be "camped"; *Shoresh Yesha*, from the same root,
 the weapon military camps fear; and *Ohalei Yehuda*, related to *chadah*,
-"sharp, pointed," which the column supposes is probably by the interchange of
+"sharp, pointed," which Rabbi Reuven Chaim Klein supposes is probably by the interchange of
 NUN and DALET.
 
 ## Distinctions
@@ -128,9 +123,9 @@ knife/scimitar." The classical lexicographers: root KAF-YOD-DALET; since *kid*
 from that root means "misfortune, suffering" (Iyov 21:20), Ibn Janach suggests
 the *kidon* is named for bringing misfortune on one's enemies. Rambam (to Keilim
 11:8): a small *romach*, the weapon kings and aristocrats typically carried at
-all times. The column suggests, hedged ("perhaps"), that Rambam read the word as
+all times. Rabbi Reuven Chaim Klein suggests, hedged ("perhaps"), that Rambam read the word as
 *yad*, "hand," with the KAF a *kaf hadimyon*: a weapon always with its owner, as
-a hand is. The philologist Rabbi Ernest Klein ("no relation," the column notes):
+a hand is. The philologist Rabbi Ernest Klein (no relation to Rabbi Reuven Chaim Klein):
 probably related to Arabic *kadda* and Ethiopic *kedda*, verbs for "thrusting."
 In a somewhat similar way Rabbi Yehoshua (Jeremy) Steinberg of the Veromemanu
 Foundation proposes a metathesis of DALET-KAF, "smashed," for how a *kidon* might
@@ -144,8 +139,7 @@ offshoot of the family tree).
 Rabbinic only. Rabbi Shmuel Krauss counts it the rabbis' fourth synonym for this
 weapon; the example given is Shmuel's statement that one struck by a Persian
 *alunki* will not live (Gittin 70a). Rabbi Krauss derives *alunki* from Greek
-*lonche*, the etymon of English "lance." In the Persian version, the same
-paragraph continues, the points were tipped with poison, so one struck by it is
+*lonche*, the etymon of English "lance." In the Persian version the points were tipped with poison, so one struck by it is
 unlikely to survive.
 
 ## Rendering guidance

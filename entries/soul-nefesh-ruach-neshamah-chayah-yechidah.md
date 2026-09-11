@@ -23,7 +23,7 @@ updated: 2026-09-10
 ## Bottom line
 
 The soul has five names, each for a different aspect of it (Bereishis Rabbah
-14:9), and the column's thesis is that they are not mere synonyms. *Nefesh* is
+14:9), and Rabbi Klein's thesis is that they are not mere synonyms. *Nefesh* is
 the **soul**, which the Midrash ties to blood, the lifeline of physical
 existence; in Tanach it also means blood, one who has died, will, the self,
 and a name. *Ruach* is **spirit**: for Rambam primarily air, whence wind and
@@ -40,8 +40,8 @@ they differ over who has *chayah* and *yechidah* at all.
 ### nefesh (נפש)
 Root נ-פ-ש; the commonest word in Tanach for the soul, its cognates occurring
 over 750 times. Rambam (Moreh 1:41) notes that it carries multiple meanings;
-the column holds that each of them relates back to the soul in one way or
-another, and lists them: blood (Bamidbar 19:13, Devarim 12:23; Bechoros 6b,
+Rabbi Klein holds that each of them relates back to the soul in one way or
+another: blood (Bamidbar 19:13, Devarim 12:23; Bechoros 6b,
 Niddah 9a); one who has died, having lost his *nefesh* (Vayikra 19:28, 21:1;
 Bamidbar 9:6); death, often described as the *nefesh* leaving (Bereishis
 19:17, 35:18; Bamidbar 21:4, 23:10), though rabbinic literature typically
@@ -65,7 +65,7 @@ Yaakov Tzvi Mecklenburg offers a similar idea, even connecting *nefesh* to
 and Devarim 12:23; see also Rashi to Iyov 35:15). Rabbi Aharon Marcus gives
 two etymologies. First, *nefesh* is *neshef*, blowing (Shemos 15:10,
 Yeshayahu 40:24), its letters reordered as נ-ש-פ, which ties *nefesh* to
-*neshamah* and *neshimah*, breathing; the column notes that the unspoken basis
+*neshamah* and *neshimah*, breathing; the unspoken basis
 of that link is the interchange of פ and מ. Alternatively, it comes from the
 two-letter root נ-פ, movement, recalling the constant movement of breathing,
 as in *napach*, blowing (Bereishis 2:7, Yeshayahu 54:16), *nafah*, sifting,
@@ -155,9 +155,9 @@ conduit that bridges the *neshamah* and the *nefesh*. *Ruach gevohah*, "a high
 
 ### neshamah (נשמה)
 Root נ-ש-ם. Unlike *nefesh* and *ruach*, it refers only to the soul and has no
-other meaning, and the column suggests that this is seemingly why it appears
-only 25 times in Tanach. By the column's survey its cognates never refer to
-animals, which it explains from the view that only people have a *neshamah*
+other meaning, and Rabbi Klein suggests that this is seemingly why it appears
+only 25 times in Tanach. A survey of those occurrences shows that its cognates
+never refer to animals, because only people have a *neshamah*
 (Ibn Ezra to Bereishis 7:21, Koheles 3:21; see also Radak to Yeshayahu 42:5).
 
 The Midrash (Bereishis Rabbah 14:9) connects it with *neshimah*, breathing,
@@ -165,11 +165,11 @@ deriving from Tehillim 150:6 that one must thank Hashem for every breath.
 *Shoresh Yesha* adds that the מ of its root נ-ש-ם interchanges with ב or פ,
 each giving a word for blowing: *mashiv haruach* with a ב, *neshef* with a פ.
 Rashi (to Yoma 85a) seems to define death as the point at which a person no
-longer breathes, which the column says may have halachic implications for the
+longer breathes, which, Rabbi Klein notes, may have halachic implications for the
 brain-death controversy. Radak (*Sefer HaShorashim*) derives *tinshemes*, a
 non-kosher predatory bird often translated "owl" (Vayikra 11:18, Devarim
 14:16), from the root נ-ש-ם of *neshamah* and breathing, because one who sees
-it starts breathing heavily (presumably, the column adds, out of fright). Ibn
+it starts breathing heavily (presumably, Rabbi Klein adds, out of fright). Ibn
 Ezra (to Bereishis 7:21, and *Shitah Acheres* to Bereishis 2:7) reports that
 other sages relate *neshamah* to *shamayim*, since man's soul comes from
 Above, and allows that even if there is no etymological connection the two
@@ -210,14 +210,14 @@ In the Creation narrative Tanach uses *nefesh* of sea creatures, birds and land
 animals (Bereishis 1:21-30); of man it says that Hashem blew a *nishmas chaim*
 into his nostrils, making him a *nefesh chayah* (Bereishis 2:7), which Targum
 Onkelos famously renders *ruach memalela*, "a verbal *ruach*." In these
-passages, the column says, *chayah* and *chaim* enter the lexicon as a term
+passages *chayah* and *chaim* enter the lexicon as a term
 for the soul. Rabbi Chaim of Volozhin (*Nefesh HaChaim* 2:17) calls the
 *chayah* "the *neshamah* of the *neshamah*," and in many sources it is paired
 with the *yechidah*.
 
 In *Cheshek Shlomo* Rabbi Pappenheim traces *chayah* and *chaim* to the
 two-letter root ח-י, life (*chai*), and takes ח-ו as an extension of it, also
-meaning life; the column suggests the link is likely the interchange of ו and
+meaning life; Rabbi Klein suggests the link is likely the interchange of ו and
 י (*hayah*, "was," is *havah* in Aramaic; see also Rashbam to Bamidbar 21:14
 and Ibn Ezra to Amos 5:5). As a result Pappenheim explains *chaveh*, speech
 (Tehillim 19:3, Iyov 32:17), since putting a thing into words gives life to an
@@ -230,11 +230,11 @@ denotes rest, peace, harmony, the lack of strife or contradiction: life is a
 state of equilibrium among all the components of the body, and can exist only
 while they all coexist.
 
-The column holds that *yechidah* in the sense of soul does not appear in
+Rabbi Klein holds that *yechidah* in the sense of soul does not appear in
 Tanach, and that the word occurs there once (Shoftim 11:34), of Yiftach's
 daughter, an only child, meaning something unique and unparalleled. Rabbi
-Pappenheim's lexical work concerns Biblical Hebrew, but the column draws on it
-for *yechidah*: he explains ח-ד as singularity or unification, as in *echad*,
+Pappenheim's lexical work concerns Biblical Hebrew, but Rabbi Klein draws on it
+for *yechidah*: Pappenheim explains ח-ד as singularity or unification, as in *echad*,
 one, and *yachad*, together, a single unit made of sub-units joined as one;
 *chad* or *chidud*, sharp, since its force is focused on one point; and
 *chidah*, a riddle, which requires sharpening the mind and bringing all its
@@ -242,7 +242,7 @@ energy to bear on one question.
 
 The Midrash (Bereishis Rabbah 14:9): *chayah* is the transcendent nature of the
 soul, which continues to live when the body dies, and *yechidah* is its
-uniqueness, man's only limb that has no counterpart; the column holds that
+uniqueness, man's only limb that has no counterpart; Rabbi Klein holds that
 these clearly allude to the etymologies above. The Vilna Gaon (*Aderes
 Eliyahu* to Bereishis 2:7): *chayah* is the overall holistic life-force.
 
@@ -252,8 +252,8 @@ brain (nervous system); the *chayah*, the respiratory system; the *yechidah*,
 the hands, which make man unique among the animals, since they have natural
 weapons while his hands let him defend himself with a whole arsenal; the
 *ruach*, the heart (circulatory system); and the *nefesh*, the legs
-(ambulatory system). By the stages of life, citing a tradition (similar, the
-column notes, to Rabbi Falk's model below): at birth the soul is called
+(ambulatory system). By the stages of life, citing a tradition (similar
+to Rabbi Falk's model below): at birth the soul is called
 *neshamah*, since the baby first begins to breathe; at ten, *ruach*, since he
 is now imbued with a Good Inclination that helps him fight off the Evil
 Inclination (Mishlei 18:14); at twenty, *nefesh*, an expression of rest or
@@ -267,8 +267,8 @@ birth to 13, 13 to 25, 25 to 40, 40 to 60, and 60 until death.
 
 The authorities differ over who has *chayah* and *yechidah*. The Vilna Gaon
 (*Aderes Eliyahu* to Bereishis 2:7): man as he stands now has no *yechidah*,
-but in Messianic times he will. The Shelah (Rabbi Yeshayahu Horowitz), in a
-view the column calls similar, writes that not everyone can be cognizant of
+but in Messianic times he will. The Shelah (Rabbi Yeshayahu Horowitz),
+similarly, writes that not everyone can be cognizant of
 his *chayah* and *yechidah* during his lifetime; only *bnei aliyah*, those
 upwardly mobile in a spiritual sense, merit connecting with them. Rabbi
 Alexander Sender Shor: an ordinary person has a *nefesh*, *ruach* and

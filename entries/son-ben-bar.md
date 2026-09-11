@@ -21,8 +21,8 @@ updated: 2026-09-10
 Simplistically speaking, both mean **son** and the difference is language, not
 sense: *ben* is Hebrew, *bar* is its Aramaic equivalent, which is why Targum
 renders *ben* as *bar* everywhere. *Bar* in Aramaic also means **outside**
-or **separate**, which is why halachah prefers *ben* in a get and why the
-darshanim read a lesson into *bar mitzvah*.
+or **separate**; for Rabbi Yaakov Margolis that double meaning is why a get
+says *ben*, and some read a lesson from it into *bar mitzvah*.
 
 ## Distinctions
 
@@ -49,11 +49,11 @@ traces this second sense to the two-letter root ב-ר, exclusion or separation:
 *bar* is grain separated from its chaff, *bor*/*boris* is a cleaning agent used
 to separate and exclude filth, and *bari* (against *shema*) is a sort of
 certainty in which all other options have been conclusively excluded; to which
-the column adds the common *bar minan*, "except from us." On this reading *bar*
-means son because the child was separated from his mother's person by the act of
+Rabbi Klein adds the common *bar minan*, "except from us." On Rabbi Pappenheim's
+reading *bar* means son because the child was separated from his mother's person by the act of
 childbirth.
 
-That double meaning has a halachic consequence. Rabbi Yaakov Margolis of
+That double meaning is reflected in a halachic discussion. Rabbi Yaakov Margolis of
 Regensburg (1430-1501) writes in *Seder HaGet* that in a get one writes
 "so-and-so *ben* so-and-so" and not *bar*, even though the Aramaic *bar* is used
 in all other legal documents, because a get must be as clear as possible and
@@ -82,7 +82,7 @@ Rabbi Leib Mintzberg, the leader of the Yerushalmi "Masmidim," takes a different
 approach: like Rabbi Pappenheim he reads *ben* from building and producing, the
 son as the product of his parents' building and nurturing, and *bar* as the
 opposite connotation, the son as separate and independent of them, which is
-exactly what the day marks, that his growth is no longer in the hands of the
+what the day marks, that his growth is no longer in the hands of the
 parents who built him up but is now his own responsibility.
 
 ### Rashbi, "Rabbi Shimon" and "Rabbi Shimon ben/bar Yochai"

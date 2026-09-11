@@ -31,7 +31,7 @@ creature under two names. *Peten* is the **asp** that charming cannot touch
 ground, and *achshuv* is a *hapax* whose identity is unsettled. Avos d'Rabbi
 Nassan lists the seven beside *nachash*, but scribal errors have crept into our
 editions and rendered its own treatment unintelligible; the distinctions below
-come from other sources, as the column says it must.
+come from other sources.
 
 ## Distinctions
 
@@ -64,8 +64,8 @@ through 21:9). Mitchell First points out that the English word *serpent* bears a
 close resemblance to *saraph*.
 
 ### tanin (תנין)
-The Vilna Gaon: *nachash* is to land as *tanin* is to sea. The analogy suggests,
-the column says, that *nachash* is a land snake and *tanin* a sea snake,
+The Vilna Gaon: *nachash* is to land as *tanin* is to sea. The analogy suggests
+that *nachash* is a land snake and *tanin* a sea snake,
 possibly an eel or something similar. Rashi (Bereishis 1:21 and Niddah 22b), on
 the other hand, simply writes that a *tanin* is a big fish. Contrary to popular
 belief, *akalason* does not mean snake at all but "coiled," serving as a
@@ -89,12 +89,12 @@ his commentary to the Zohar, has *efeh* as the male snake and *nachash* as the
 female; the earlier Polish mekubal Rabbi Natan Nata Shapiro (1585-1633) in
 *Megaleh Amukos* has the two words representing the male and female forces of
 evil, *efeh* the female and *nachash* the male, which agrees with Ibn Parchon.
-The Midrash calls the *efeh* a snake called an *eches* (the column notes it is
+The Midrash calls the *efeh* a snake called an *eches* (it is
 unclear in which language), believed able to kill a flying bird just by looking
 at its shadow; in Modern Hebrew *eches* is an adder or rattlesnake. Rabbi Shlomo
 Pappenheim of Breslau (1740-1814): the letters פ-ע in the root always denote
 consistency, in movement or in sound, here the rattlesnake's rattle. Rabbi
-Avigdor the Frenchman, a 14th-century commentator: this, not the *saraph*, was
+Avigdor the Frenchman, a 14th-century commentator: this was
 the snake sent in the wilderness.
 
 ### achshuv (עכשוב)
@@ -105,11 +105,11 @@ say, which in Hebrew is an *achavish*.
 
 ### peten (פתן)
 Wertheimer, against *nachash*: where a *nachash* can be charmed, a *peten* is
-immune to charming and stays dangerous (Tehillim 58:6). Two derivations, both
+immune to charming and stays dangerous (Tehillim 58:6). Two possible derivations, both
 his: from *miftan*, a threshold, since whoever meets a *peten* has certainly
 stepped into danger just as whoever enters a house treads on its threshold; or
 from *pitui*, coaxing, for the snake's cajoling Chavah to eat from the Eitz
-HaDaas. The column adds that the English *python* is likely derived from *peten*.
+HaDaas. Rabbi Klein holds that the English *python* is likely derived from *peten*.
 The *Rokeach*: *peten* focuses on a snake's advanced age, *efeh* names one
 extremely old and also large, and *tzefa* is a flying *saraph* with multiple
 tails; Wertheimer cites this too and argues it is based on the otherwise
@@ -125,8 +125,8 @@ its body always touching the ground. Rabbi Aharon Marcus argues instead that
 the Hebrew phenomenon of words carrying polar-opposite meanings: in Akkadian, the
 lingua franca of the ancient world, *shepu* meant foot, while in Hebrew the word
 names the footless serpent. Wertheimer adds that the final nun implies the
-creature is something small, though appending a vav-nun does not always serve as
-a diminutive. The *Rokeach* has it small against the long *nachash*, but Rabbi
+creature is something small. Appending a vav-nun does not always serve as
+a diminutive, however. The *Rokeach* has it small against the long *nachash*, but Rabbi
 Yaakov Yisroel Stahl points out that the same commentary apparently contradicts
 itself, since it elsewhere makes *shephiphon* the large snake and *nachash* the
 smaller one.

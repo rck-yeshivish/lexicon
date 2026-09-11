@@ -38,13 +38,12 @@ updated: 2026-09-10
 ## Bottom line
 
 *Cheresh* is thinking silence: **holding one's peace** while turning something
-over, and never merely quiet. *Shetikah* is the **quieting down** that follows
+over. *Shetikah* is the **quieting down** that follows
 a commotion. *Dom* is **falling silent**, silence as a state that comes over a
 person, and at root simply stoppage. *Chashah* is **keeping still**, an inward
 stillness or a held-back answer. *Hass* alone is transitive: to **hush**
-others. Where a passage
-turns on which one it is (Mordechai's *hachareish tacharishi*, Esther 4:14),
-the choice of word is the whole point.
+others. Mordechai chose *cheresh*
+specifically (*hachareish tacharishi*, Esther 4:14).
 
 ## At a glance
 
@@ -68,12 +67,11 @@ is the silence of a man weighing what to say next, so Mordechai was telling
 Esther not merely to think silently about the threat facing the Jews but to go
 out and do something, stressing that there was no time left for silent
 deliberation. Then, on Rav Hirsch's reading that *cheresh* is the stillness of
-one who is asked to speak or act and behaves as though he never heard, the column
-adds a further posit of its own, that Mordechai deliberately used the loaded
+one who is asked to speak or act and behaves as though he never heard, Rabbi Klein
+further posits that Mordechai deliberately used the loaded
 *hachareish tacharishi* to tell Esther not to ignore his call as though she were
 deaf and heard nothing but silence, but to be spurred into action and say to
-Achashverosh what was needed to save her nation. The column marks that second
-part as its own suggestion, "we may posit."
+Achashverosh what was needed to save her nation.
 
 ## Where the authorities disagree
 
@@ -95,15 +93,15 @@ grounds, arguing that were that the reality the Torah would have used a cognate
 of *shetikah* and not *dom*.
 
 **What chashah means.** Bedersi does not explain this word. Mecklenburg: a
-reflective, introspective sort of quiet, similar to Bedersi's understanding of
-*cheresh*. Rabbi Shlomo Aharon Wertheimer (1866-1935): the silence of one who
+reflective, introspective sort of quiet, which Rabbi Klein likens to Bedersi's
+understanding of *cheresh*. Rabbi Shlomo Aharon Wertheimer (1866-1935): the silence of one who
 holds himself back from answering another even though he has what to answer.
 
 **What cheresh means in Tanach as against Mishnaic usage.** In Mishnaic Hebrew
 *cheresh* is one who can neither hear nor speak (Niddah 13b). Rabbi Pappenheim
 explains that a deaf-mute is called a *cheresh* because he is the paragon of
 quiet, silence surrounding him on every side: he neither breaks the silence with
-his own speech nor hears anything other than silence. The column suggests there
+his own speech nor hears anything other than silence. Rabbi Klein suggests there
 may even be biblical precedent for that usage, at Shemos 4:11, where Hashem
 answers Moshe at the burning bush, "Who put a mouth for man, or makes a person
 mute (*ilem*) or deaf (*cheiresh*)…" If *cheiresh* merely means silent, how does
@@ -112,7 +110,7 @@ there means deaf and mute together, exactly as Chazal use the word; others that
 it means deaf but not mute (Tosafos to Chagigah 2b with *Maharsha* and *Hagahos
 Rashash* there, and Ibn Ezra to Shemos 4:11). Rabbi Shlomo Algazi (1610-1683)
 splits it the other way: in Rabbinic Hebrew *cheiresh* is a deaf-mute, while in
-Biblical Hebrew it is one who can hear but cannot talk. The column calls that
+Biblical Hebrew it is one who can hear but cannot talk. Rabbi Klein calls that
 somewhat problematic, since it would leave the term meaning exactly what *ilem*
 means.
 
@@ -121,8 +119,8 @@ means.
 ### cheresh (חרש)
 Bedersi: an introspective silence, in which the silent party considers ideas but
 does not verbally reveal those thoughts, the silence practiced by wise men and
-experts; the column notes in support that in Akkadian *charash* means "wise" or
-"intelligent." In related contexts a certain type of craftsman is a *charash*
+experts (in Akkadian *charash* means "wise" or
+"intelligent"). In related contexts a certain type of craftsman is a *charash*
 (Shemos 35:35), and Targum calls Pharaoh's *chartumim* the *charshei* (to Shemos
 7:22), such men being experts who silently think out how best to do what they do,
 the artisan in particular tending to be quiet while he concentrates on his work;
@@ -161,7 +159,7 @@ a time to speak." See the dispute above. Mecklenburg also theorizes that
 this root.
 
 ### hass (הס)
-Not a way of being silent but of making others so, and, the column says, its
+Not a way of being silent but of making others so, and, Rabbi Klein suggests, its
 etymology might be an onomatopoeic adaptation of the sound used to quiet others.
 Bedersi does not mention it either. Pappenheim and Mecklenburg: the verb is
 usually employed where one silences others so they may listen to somebody else,

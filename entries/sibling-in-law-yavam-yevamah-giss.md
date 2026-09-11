@@ -43,9 +43,9 @@ updated: 2026-09-10
 ## Bottom line
 
 *Yavam* and *yevamah* belong to *yibbum*: **the levir** and **the
-widow**, the **brother-in-law** and **sister-in-law** of the mitzvah. *Giss* is the Mishnaic word, a man's word for his wife's brother and by
-most usage his sister's husband too. Biblical Hebrew has no general word for a
-sibling-in-law, only *eishes achiv*. English "brother-in-law" covers four
+widow**, the **brother-in-law** and **sister-in-law** of the mitzvah. *Giss* is the Mishnaic word, a man's word for his wife's brother and, on
+some views, his sister's husband too. On the view of Rabbi Mecklenburg and
+others, Biblical Hebrew has no general word for a sibling-in-law, only *eishes achiv*. English "brother-in-law" covers four
 relations at once, a woman's husband's brother, a woman's sister's husband, a man's wife's brother and a man's sister's husband.
 
 ## At a glance
@@ -55,7 +55,7 @@ relations at once, a woman's husband's brother, a woman's sister's husband, a ma
 | יבם | yavam | the levir, brother-in-law | the surviving brother; a woman's word (HaBachur) |
 | יבמה | yevamah | the widow, sister-in-law | bound to him; also a husband's brother's wife (Rus 1:15) |
 | ייבום | yibbum | levirate marriage | the mitzvah act; its sense disputed three ways |
-| גיס | giss | brother-in-law | Mishnaic; a man's word (Heidenheim, HaBachur) |
+| גיס | giss | brother-in-law | Mishnaic; a man's word (HaBachur) |
 | חתן | choten | father-in-law | Ibn Janach stretches it to brother-in-law; Radak refuses |
 | במה | bamah | private altar, high place | the proposed etymon of yavam |
 
@@ -67,7 +67,7 @@ traces it to the biliteral ב-מ, whose core sense shows in *bam*, "in them" or
 of "in, through" and the mem of "them," so that the two-letter root denotes the
 conglomeration and meeting point of several parties. *Bamah*, the private altar,
 he derives from it as a site where many gathered in communal worship; *bamah*
-also means "high place," which the column notes many commentators take to be the
+also means "high place," which many commentators take to be the
 word's original meaning, since such gatherings were usually held at elevated
 spots to be seen. Pappenheim then sets *yavam* against the other in-law terms: a
 spouse has only one father-in-law and one mother-in-law, so *choten* / *chosenes*
@@ -109,8 +109,8 @@ brother-in-law. His proof is the Mishnah (*Sanhedrin* 3:4), which lists the
 relatives disqualified from testifying and mentions *baal achoso*, his sister's
 husband, separately from *gisso*. Rabbi Tanchum HaYerushalmi, a thirteenth-century
 exegete who lived in Eretz Yisrael, defines *giss* as a man's wife's sister's
-husband, which the column reads as implying that his sister's husband is not his
-*giss*. The column then says Heidenheim's proof from the Mishnah is not
+husband, implying that his sister's husband is not his
+*giss*. Rabbi Klein holds that Heidenheim's proof from the Mishnah is not
 foolproof: Chullin 18b has Rabbi Yochanan calling Reish Lakish *gissa gissa*,
 which the Ritva says recalls that Reish Lakish was married to Rabbi Yochanan's
 sister (Bava Metzia 84a), and on that basis the *Nimukei Yosef* (*Sanhedrin* 6a
@@ -132,8 +132,8 @@ father-in-law Yisro/Reuel (Bamidbar 10:29), while Shoftim 4:11 describes Chovav
 as Moshe's *choten*. Radak (1160-1234) disagrees and clarifies that Chovav is
 another name for Yisro and Reuel was Chovav's father, so Chovav was Moshe's
 father-in-law and there is no proof at all that *choten* can mean brother-in-law.
-The column observes that both of them seem to disregard the Midrashic position
-that Reuel and Chovav are both alternate names for Yisro. It adds that there is
+Rabbi Klein observes that both of them seem to disregard the Midrashic position
+that Reuel and Chovav are both alternate names for Yisro. There is
 precedent for Ibn Janach's assertion in other languages: the Akkadian cognate of
 *choten* can mean both father-in-law and brother-in-law, and in Yiddish
 *shvugger*, brother-in-law, and *shver*, father-in-law, ultimately derive from a
@@ -149,30 +149,30 @@ commanded to marry each other; the English "levirate marriage" comes from the
 Latin *levir*, brother-in-law. On the Talmudic principle that a man and his wife
 are considered one, Rabbi Pappenheim broadens *yavam* / *yevamah* to take in a
 spouse's sibling's spouse as well, citing Rus 1:15, where Naomi calls Orpah Rus's
-*yevamah* although she was Rus's husband's brother's wife; the column notes the
-same usage in the Mishnah (*Yevamos* 15:4), where *yevamah* is a woman's
+*yevamah* although she was Rus's husband's brother's wife; the same usage
+appears in the Mishnah (*Yevamos* 15:4), where *yevamah* is a woman's
 husband's brother's wife.
 
 ### giss (גיס)
 Root ג-ס, which does not appear in Tanach at all; the two letters never stand
-adjacent anywhere in it. In Mishnaic Hebrew the two-letter string yields four
-senses, each with a long list of loci in the column: "mixing" (among them
+adjacent anywhere in it. In Mishnaic Hebrew the two-letter string yields various
+senses, each attested at several loci, including "mixing" (among them
 *Pesachim* 5:10), "army" (*Rosh Hashanah* 2:5), "thick" (*Shabbos* 4:1), and
 "familiar, intimate" (*Yevamos* 4:10, *Avos* 4:7). Rabbi Yaakov Emden (1697-1776)
 submits that *giss* as brother-in-law relates to the last of these, connoting
-closeness and family intimacy. The column then offers its own suggestion, that
-all four senses may derive from a core meaning of mixing: an army is fighters
+closeness and family intimacy. Rabbi Klein suggests that
+all the various senses may derive from a core meaning of mixing: an army is fighters
 mixed for a common cause, thickness is mass concentrated in one place, and
 intimacy is two parties joined close, so that *giss* / *gissa* fits a root about
-families mixing together in matrimony, which it says is reminiscent of Rabbi
+families mixing together in matrimony, which he finds reminiscent of Rabbi
 Pappenheim's ב-מ.
 
 The same root gives *gassus* or *gassus ruach*, haughtiness (*Avos* 4:7 and
 Targum to Tehillim 10:2, 10:4, 76:13, 101:5, and Mishlei 16:18), the arrogant man
-feeling higher and more important than others, which the column notes would make
+feeling higher and more important than others, which, Rabbi Klein notes, would make
 words related to *giss* semantically close to Rabbi Mecklenburg's reading of
 *yibbum* as elevation. In Talmudic Aramaic *gissa* also means "side" (see Targum
-to Vayikra 3:4 and Yeshayahu 60:4, 66:12), which the column suggests, as a
+to Vayikra 3:4 and Yeshayahu 60:4, 66:12), which Rabbi Klein suggests, as a
 "perhaps," may relate to the sibling-in-law standing figuratively on the other
 side of the family tree.
 
@@ -183,7 +183,7 @@ chirik as is the common practice. Some versions of the Mishnah, that printed in
 the Yerushalmi and the Kaufmann manuscript, spell it with an initial aleph,
 *agiss*. In Modern Hebrew aleph-gimmel-samech, *agas*, is a pear, and in the
 Mishnah (*Kilayim* 1:4, *Maasros* 1:3, *Uktzin* 1:6) it certainly names some sort
-of fruit; the column adds, as an irony, that *agiss* has become the accepted
+of fruit; ironically, *agiss* has become the accepted
 Israeli spelling of the diaper brand "Huggies."
 
 ## Rendering guidance

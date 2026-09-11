@@ -37,16 +37,17 @@ updated: 2026-09-10
 ## Bottom line
 
 *Chalak* is the adjective: **smooth**, and where a surface lets things slide,
-**slippery**. *Shua* and its Aramaic form *shiiya* are, in Rabbi Yaakov Tzvi
-Mecklenburg's words, not one hundred percent synonymous with it: they name
-daubing or pasting one material onto another, which incidentally smooths the
-surface (**smoothed on**, **daubed**, **plastered**). The halachah in *Kilayim* 9:8 turns on the difference.
+**slippery**. *Shua* and its Aramaic form *shiiya* are, Rabbi Klein concludes in
+light of Rabbi Yaakov Tzvi Mecklenburg's explanation, not one hundred percent
+synonymous with it: they name daubing or pasting one material onto another, which
+incidentally smooths the surface (**smoothed on**, **daubed**, **plastered**). The
+dispute over *shaatnez* in *Kilayim* 9:8 turns on what *shua* means.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| חלק | chalak | smooth, slippery | a state, no process implied (Mecklenburg) |
+| חלק | chalak | smooth, slippery | a state, no process implied (Rabbi Klein, after Mecklenburg) |
 | שוע | shua | smoothed on, daubed | smoothing by attaching one thing to another (Tosafos, Rambam) |
 | שעיע | shiiya | smooth | Aramaic of the Targumim for chalak, but the root is Hebrew too (Rabbi Avraham Vilner) |
 | משעי | mishi | smoothness | the smoothing bathing gives the skin (Radak); or bathing for pleasure (Rashi, Menachem) |
@@ -56,8 +57,8 @@ surface (**smoothed on**, **daubed**, **plastered**). The halachah in *Kilayim* 
 
 **What *shua* means in the *shaatnez* Mishnah.** *Shaatnez* (Vayikra 19:19;
 Devarim 22:11) is read by the Mishnah (*Kilayim* 9:8) as a contraction of *shua*
-(smoothed), *tavui* (spun) and *nuz* (woven or twisted); the issur binds only
-where all three were done to wool and linen together.
+(smoothed), *tavui* (spun) and *nuz* (woven or twisted); the issur applies only
+to fabric made of wool and linen via these three processes.
 
 1. **Rashi** (to Yevamos 5b): *shua* is "combed smooth," and it applies to a
    single material worked on its own. So wool and linen must be combined from
@@ -67,21 +68,21 @@ where all three were done to wool and linen together.
    attaching separate things, "pressed smooth together." Wool and linen
    processed apart and joined afterward are still *shaatnez*.
 
-The practical case is felt, made by pressing fibers together: not *shaatnez* on
+One practical case is felt, made by pressing fibers together: not *shaatnez* on
 Rashi's definition, *shaatnez* on the Tosafists'.
 
 **The proof for the second view.** Rabbi Yaakov Tzvi Mecklenburg (1785-1865)
 points to the Rambam's commentary on that Mishnah, which defines *shua* by citing
 Targum Onkelos to Vayikra 14:42, where *v'tach es habayis*, plastering the house
 with fresh mortar once the afflicted stones are removed and replaced, is rendered
-*v'yashua*. As the column unpacks it, in that context *shua*'s primary sense is
+*v'yashua*. As Rabbi Klein unpacks it, in that context *shua*'s primary sense is
 not "making smooth" but "applying plaster"; if the whole of its meaning were
 "making smooth," as Rashi has it, the Targum makes no sense there, so *shua* must
 also mean attaching, with smoothing the implication (and the plaster is smoothed
 over the wall as much as the wall by the plaster). Mecklenburg adds the cognate
 *sha*, closing the eyes (Yeshayahu 6:10, 32:3), where it appears as though the
-upper lid is attached to the lower, which supports his point that *shua* means
-attachment.
+upper lid is attached to the lower, which supports his point that *shua* also
+means attachment.
 
 **What *mishi* means in Yechezkel 16:4.** Radak (there and in *Sefer
 HaShorashim*): smoothness, since washing smooths the skin. Menachem Ibn Saruk

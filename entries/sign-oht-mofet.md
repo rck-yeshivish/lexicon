@@ -32,10 +32,10 @@ updated: 2026-09-10
 *Oht* is a **sign** or **token**, the general word, and it can be entirely
 natural: the luminaries are an *oht* for the seasons, tefillin are an *oht*, the
 tribal flags were an *oht*, a letter of the alef-beis is an *oht*. *Mofet* is
-the narrower word, a **wonder** or **portent**, on most readings one that bends
-nature. For Malbim, every *mofet* is an *oht*, not every
-*oht* a *mofet*. Where they stand together (the makkos
-are called both, Shemos 10:1-2 and 11:9-10) the pairing is doing work.
+the narrower word, a **wonder** or **portent**, on some readings (Ramban, Malbim)
+one that bends nature. For Malbim, every *mofet* is an *oht*, not every
+*oht* a *mofet*. The makkos
+are called both (Shemos 10:1-2 and 11:9-10).
 
 ## At a glance
 
@@ -45,7 +45,7 @@ are called both, Shemos 10:1-2 and 11:9-10) the pairing is doing work.
 | מופת | mofet | wonder, portent | supernatural, from *pele* (Ramban); points to Hashem (Malbim) |
 | עד | eid | witness | reminds and moves to action, where an *oht* only reminds (Pappenheim) |
 
-## The article's question
+## Three signs in Parshas Bo
 
 Parshas Bo carries three signs: the makkos in Mitzrayim are called a sign (Shemos
 10:1-2), the blood the Jews were to put on the doorpost is called a sign (Shemos
@@ -73,8 +73,8 @@ between an *oht* and a *mofet*?
    An *oht* is a sign or symbol that can lie within nature; a *mofet* is a
    non-physical sign, a more abstract, logical argument, and he relates *mofet*
    to *yofi*, beauty, because the veracity of a logical argument lies in the
-   beauty of its honesty. The column adds at that point that Radak in *Sefer
-   HaShorashim* gives the root of *mofet* as י-פ-ת. It also notes that the
+   beauty of its honesty. Radak in *Sefer
+   HaShorashim* gives the root of *mofet* as י-פ-ת. The
    earliest person to use *mofet* in this way was Rabbi Shmuel Ibn Tibbon
    (1150-1230), best known for translating the works of the Rambam and others
    from Judeo-Arabic into Hebrew, who writes that a *mofet* is a proof that
@@ -85,23 +85,22 @@ between an *oht* and a *mofet*?
 7:9): when Hashem sends someone to perform a miraculous feat, the word used
 depends on the purpose of the miracle. If the purpose is to relate a message
 about Hashem, the term is *mofet*; if it is to relate something about the
-messenger or medium, the term is *oht*. Malbim reads the staff-and-snake so:
+messenger or medium, the term is *oht*. Malbim explains the staff-and-snake:
 before Klal Yisrael it is an *oht*, a sign to them that Moshe was really sent by
 Hashem; before Pharaoh it is a *mofet*, since to Pharaoh, who denied Hashem, it
 was simply a supernatural parlor trick with no deeper meaning.
 
-**Which is the stronger inducement to belief.** Radak (1160-1235) in *Sefer
+**Mofet and belief.** Radak (1160-1235) in *Sefer
 HaShorashim*: an *oht* is any type of sign, while a *mofet* is specifically the
 sort of sign whose purpose is to cause one to believe in something set for the
 future. Rabbi Avraham Menachem HaKohen Rappaport (1520-1594) in *Minchah Belulah*
-gives two differences, and the first pulls the other way: an *oht* directly
+gives two differences: an *oht* directly
 brings a person to a certain belief, while a *mofet* only pushes him in the
 direction of a belief without bringing him to any conclusion, and he relates
 *mofet* to *mefateh*, to seduce or convince (see Devarim Rabbah §7:9);
 alternatively, an *oht* is a sign of the Heavenly realm and a *mofet* a sign in
 the Earthly realm. He then concludes that *oht* and *mofet* are simply synonyms
-meaning exactly the same thing. The column does not set Radak and Rabbi
-Rappaport against each other; it presents each in turn.
+meaning exactly the same thing.
 
 **Whether they are synonyms.** Ramban cites the Sifrei (to Bamidbar 6:3), which
 explicitly notes that *oht* and *mofet* are the
@@ -120,13 +119,13 @@ manifest itself.
 ### oht (אות)
 Ramban derives it from א-ת-ה, "come," in Aramaic with an alef in place of the
 hei, since it signals what is to come. Malbim: any sign or symbol used to remind
-a person of what it symbolizes. Abarbanel's examples make the natural range
-clear: the sun and moon serve as an *oht* for different periods of time
+a person of what it symbolizes. Abarbanel's examples point to the natural
+range: the sun and moon serve as an *oht* for different periods of time
 (Bereishis 1:14), tefillin is an *oht* symbolizing the Exodus (Shemos 13:9,
 13:16), the flags of each tribe bore images serving as an *oht* symbolizing the
 tribe (Bamidbar 2:2), and each letter of the alef-beis is called an *oht* because
-it is a sign representing a certain sound; all of these lie within the confines
-of nature. Rabbi Shlomo Pappenheim (1740-1814) contrasts *oht* with *eid*: an
+it is a sign representing a certain sound; all of these suggest that an *oht*
+can be a sign within the confines of nature. Rabbi Shlomo Pappenheim (1740-1814) contrasts *oht* with *eid*: an
 *oht* is simply a reminder, while an *eid* serves to remind and to spur one into
 action.
 

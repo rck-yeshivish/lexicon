@@ -24,13 +24,12 @@ updated: 2026-09-10
 *Tenumah* is **drowsiness** or **dozing**, the half-asleep state in which one
 still answers to his name. *Linah*, technically speaking, is not "sleeping" at
 all but **leaving something overnight**, though it generally takes in the hours
-people sleep, and it governs meat and a corpse as readily as a guest. Ibn Ezra's
-ranking, *tenumah* under *sheinah* under *tardeimah*, is the one the column sets
-out first, and Radak, *Peirush HaRokeach*, Rabbi Sternbuch, Rabbi Wertheimer and
-Rabbi Yosef Nechemias are all described as following it; the Netziv rejects it
-outright and makes *tardeimah* the *lighter* sleep of one just dropping off,
-which is why it precedes *vayishan*. The two readings stay two, and the column
-declares no winner.
+people sleep, and it governs meat and a corpse as readily as a guest. Ibn Ezra
+ranks *tenumah* under *sheinah* under *tardeimah*, and Radak, *Peirush HaRokeach*,
+Rabbi Sternbuch, Rabbi Wertheimer and Rabbi Yosef Nechemias follow that ranking
+or a similar one; the Netziv disagrees with it and makes *tardeimah* the *lighter*
+sleep of one just dropping off, which is why it precedes *vayishan*. Both
+readings stand.
 
 ## Distinctions
 
@@ -38,7 +37,7 @@ declares no winner.
 The triliteral lexicographers, Ibn Chayyuj (945-1000), Ibn Janach (990-1055) and
 Radak (1160-1235), give the root י-ש-נ. Rabbi Yitzchak Zeldin (18th-century
 Germany, *Shoresh Yesha*) notes the root carries both "sleep" and "old" and says
-the two meanings are one and the same; the column calls the remark a bit
+the two meanings are one and the same; Rabbi Klein calls the remark a bit
 unclear and reads it, tentatively, as Rav Hirsch's point (to Bereishis 24:1),
 that the older a man gets the more his energy is sapped and the more he needs
 sleep. The biliteralist Menachem Ibn Saruk (920-970), in *Machberes Menachem*,
@@ -55,9 +54,9 @@ blackout.
 
 Rabbi Aharon Marcus (1843-1916) locates the core of *sheinah* in the letter
 shin alone, which he claims is universally associated in all languages with
-quiet and silence, as in the onomatopoetic *shushing* of a person; seemingly, the
-column says, his point is that a sleeping man is silent, so the very word for
-sleep carries quietness.
+quiet and silence, as in the onomatopoetic *shushing* of a person. Rabbi Klein
+takes Rabbi Marcus's point to be, seemingly, that a sleeping man is silent, so the
+very word for sleep carries quietness.
 
 ### tardeimah (תרדמה)
 All the early lexicographers, Ibn Saruk this time included, give ר-ד-ם. Rav
@@ -73,7 +72,7 @@ themselves, Bereishis 1:28; Vayikra 25:43) and *meridah* (rebellion, the plebs
 breaking free of that yoke); *tardeimah* is accordingly sleep that overpowers a
 man and lords itself over him, taking him unwilling in the middle of whatever
 else he was doing, and Rabbi Moshe Yitzchak Tedeschi-Ashkenazi (1821-1898) reads
-it the same way. In Modern Hebrew the cognate *radum* is a person sedated or
+it similarly. In Modern Hebrew the cognate *radum* is a person sedated or
 tranquilized, who may still technically be awake and lucid.
 
 *Bereishis Rabbah* 17:5 and 44:17: *tardeimah* appears in three contexts,
@@ -131,10 +130,10 @@ saw he was a mere mortal.
   immersed that he has lost the capacity for thinking, in *tenumah* the lids are
   shut but the mind is still at work; elsewhere (to Berachos 60b), the eyes are
   at rest in *sheinah* and, though closed, not technically at rest in *tenumah*.
-  The column admits it is not sure what exactly the Gaon means, and wonders
-  whether he was alluding to the two modes of sleep neurologists recognize, one
+  Rabbi Klein admits he is not sure what exactly the Gaon means, and wonders
+  whether the Gaon was alluding to the two modes of sleep neurologists recognize, one
   of them marked by rapid eye movement.
-- Rabbi Avraham Bedersi (*Chosam Tochnis*), whom the column calls the earliest
+- Rabbi Avraham Bedersi (*Chosam Tochnis*), the earliest
   scholar to work on Hebrew synonyms, makes it circumstantial, not a matter of
   depth: *sheinah* goes with rest and tranquility, *tenumah* with indolence and
   laziness, and *tardeimah* he first defines as the end of a long sleep and then
@@ -199,21 +198,21 @@ though *durmita* is spelled with a tes and *misah* with a tav. Rabbi Chaim Vital
 Targum uses it to render *tardeimah*. The Aderet, Rabbi Eliyahu David
 Rabinowitz-Teomim (1843-1905), correctly points out that the Targumim never do:
 Targum consistently renders *tardeimah* with an Aramaicized form of the Hebrew
-*sheinah*, *sheinsa* (Bereishis 2:21; Mishlei 19:15; Iyov 4:13, 33:15), and
-*durmita* is not an Aramaic word at all, appearing nowhere in the Talmud or any
+*sheinah*, *sheinsa* (Bereishis 2:21; Mishlei 19:15; Iyov 4:13, 33:15).
+*Durmita* is not an Aramaic word at all, appearing nowhere in the Talmud or any
 other Aramaic document.
 
-So what is it? The column's own answer: *durmita* is of Romance etymology. It
-theorizes that the word is related to the Latin *dormire*, "sleeping," ancestor
+So what is it? Rabbi Klein's own answer, as far as he can tell: *durmita* is of
+Romance etymology. He theorizes that the word is related to the Latin *dormire*, "sleeping," ancestor
 of English *dormant* and *dormitory* (French *dormant*, Spanish *durmiendo*,
-Catalan *dorment*). Rabbi Dr. Yitzchak (Jared) Greenblatt, whom the column calls a prominent Aramaicist, concurred, adding that when Greek or Latin words are
+Catalan *dorment*). Rabbi Dr. Yitzchak (Jared) Greenblatt, a prominent Aramaicist, concurred, adding that when Greek or Latin words are
 borrowed into Hebrew or Aramaic the t-sound is typically written with tes rather
-than tav, as here (see also Rema, *Even HaEzer* 129:31). The column then floats
+than tav, as here (see also Rema, *Even HaEzer* 129:31). Rabbi Klein floats
 a further thought: linguists say the Latin *dormire* derives from the
 Proto-Indo-European root *drem-*, and since *drem-* uses the same three
 consonants as *tardeimah* with the first two switched, perhaps the connection
-between *durmita* and *tardeimah* should be reconsidered after all. It adds that
-linguists agree the English word *dream* has nothing to do with any of this.
+between *durmita* and *tardeimah* should be reconsidered after all. Linguists
+agree that the English word *dream* has nothing to do with any of this.
 
 ## Rendering guidance
 

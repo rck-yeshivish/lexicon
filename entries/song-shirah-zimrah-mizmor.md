@@ -18,12 +18,12 @@ updated: 2026-09-10
 *Shir* / *shirah* is **song**: the sung, worded song, and the general term for
 song sacred or secular (Malbim). *Zemer* / *zimrah* is **music**, or
 **melody**: instrumental music (Ibn Ezra, Radak, Sforno, the Vilna Gaon, Rav
-Hirsch, Wertheimer), or the tune as against the words (Mecklenburg), and in
-Malbim's second view the specifically religious song of Hashem's praise; when
-the two stand together *shirah* comes first, *zimrah* second, because *zimrah*
-is the higher (Malbim). *Mizmor* is **psalm** as a title, and in the
+Hirsch, Wertheimer), or the tune as against the words (Mecklenburg), and, in
+what is possibly a second view of Malbim's, the specifically religious song of
+Hashem's praise; when the two stand together *shirah* comes first, *zimrah*
+second, because *zimrah* is somehow the higher (Malbim). *Mizmor* is **psalm** as a title, and in the
 superscriptions *mizmor shir* / *shir mizmor* the *mizmor* is the tune and the
-*shir* the words (Pappenheim and Pincus, whom the column calls two credible
+*shir* the words (Pappenheim and Pincus, two credible
 authorities who beg to differ with Ibn Ezra, who holds there is no difference).
 
 The American historian Cyrus Gordon (1908-2001) said, in effect, that the
@@ -35,7 +35,7 @@ the *shir*/*zemer* pair as one such nuance.
 ## Distinctions
 
 ### shir / shirah (שיר, שירה)
-Root ש-י-ר. The simplest way of telling the two apart, the column says, is that
+Root ש-י-ר. The simplest way of telling the two apart is that
 *shirah* is verbal song and *zimrah* instrumental music, a reading proffered by
 a bevy of authorities including Ibn Ezra (Tehillim 105:2), Radak (Divrei HaYamim
 I 16:9), Sforno (Tehillim 105:2), the Vilna Gaon (cited in his son's *Be'er
@@ -56,14 +56,13 @@ the beginning can be attached to the end, is song fitting, not beforehand; and
 the whole Torah is called a *shirah* (Devarim 31:19) because Haazinu is a
 microcosm of the whole Torah and so of the whole history of the world, a history
 shaped as a circle, since at the end man will return to his former place of
-glory as though Adam's eating from the Eitz HaDaas had never happened. The
-column notes a tension here: *yashar* seems to mean the *opposite* of *shirah*,
+glory as though Adam's eating from the Eitz HaDaas had never happened. Rabbi
+Klein notes a tension here: *yashar* seems to mean the *opposite* of *shirah*,
 a line that goes continuously straight against a circle whose end leads back to
 its beginning. Even so, Rabbi Shapiro observes, rabbinic literature plainly
 connects them, since the cows that carried the Aron back walked straight
 (*vayisharnah*, Shmuel I 6:12) and Avodah Zarah 24b expounds that they *sang*.
-Rabbi Shlomo Pappenheim (1740-1814) connects *shir* to *yashar*, straight, in the
-other direction: a song follows a straight path in holding one theme without
+Rabbi Shlomo Pappenheim (1740-1814) connects *shir* to *yashar*, straight: a song follows a straight path in holding one theme without
 deviating, so its beginning and end are linked as variations on the one theme.
 Rabbi Shimon Dov Ber Analak of Siedlce (1848-1907): from *shur*, a wall, since a
 song is built of many lines carefully arranged as a wall is of bricks, and pull
@@ -85,10 +84,10 @@ materialism.
 ### zemer / zimrah (זמר, זמרה)
 Root ז-מ-ר, which in the verb *zomer* also means cutting down or pruning
 (Vayikra 25:3; one of the 39 melachos). The bevy of authorities above:
-instrumental music, hence *klei zemer* and Yiddish *klezmer*, a portmanteau of
+instrumental music. The Yiddish *klezmer* is a portmanteau of
 *klei* (instruments) and *zemer* (music). Malbim: somehow a higher, more intense
 form of song than *shirah*, which is why whenever the two appear in tandem
-*shirah* comes first and *zemer* second; and, in what the column says is
+*shirah* comes first and *zemer* second; and, in what is
 possibly a separate explanation, the specifically religious song that speaks of
 Hashem's praises. Edel, similarly: *zimrah* is always a means of acknowledging
 Hashem's part in bringing the happiness and thanking Him for it. Mecklenburg: the
