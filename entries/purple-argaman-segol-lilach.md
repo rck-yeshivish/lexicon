@@ -187,7 +187,7 @@ standing in Tanach or Chazal.
   transliterated, glossed once per work as red-dyed wool, beside *techeiles* and
   *tola'as shani*.
 - Trap: English "purple" will absorb *argaman* and then argue backwards, so that
-  the Mishkan acquires a color no source gives it. If a project must use
+  the Mishkan acquires a color no source gives it. If a translation must use
   "purple," attach the note that the older English sense was a deep red.
 - Second trap: *argaman* and *tola'as shani* are both reds. Where the pasuk lists
   them together, the English must not give both the same word; on Rasag's reading
