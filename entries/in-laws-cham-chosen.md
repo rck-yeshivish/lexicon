@@ -32,16 +32,17 @@ The wife's words. Yehudah is called Tamar's
 *cham* (Bereishis 38:13, 38:25), and Naomi is Rus's *chamos* (Rus 2:11 through
 3:17).
 
-Rav Hirsch: in a traditional patriarchal society, where marriage is viewed as a
-woman leaving her parents' family and joining her husband's, his relatives stand
-around her like a *chomah*, a wall; hence *cham* and *chamos*. Rabbi Shlomo Pappenheim
-reads the same letters as the biliteral ח-מ, hot: a bride must stress the warm
-love she receives from her new relatives in order to honor her husband, and
-love is spoken of metaphorically as fire (Shir HaShirim 8:7), so it makes sense
-that she names them from the root of heat. The kabbalist Rabbi Menachem Azariah
-of Fano: the husband's parents do not *give* their son in the way the wife's
-parents give their daughter; their contribution is that they gave birth to him,
-so the words derive from *yechemasni* ("birth," Tehillim 51:7).
+- Rav Hirsch: in a traditional patriarchal society, where marriage is viewed as
+  a woman leaving her parents' family and joining her husband's, his relatives
+  stand around her like a *chomah*, a wall; hence *cham* and *chamos*.
+- Rabbi Shlomo Pappenheim reads the same letters as the biliteral ח-מ, hot: a
+  bride must stress the warm love she receives from her new relatives in order
+  to honor her husband, and love is spoken of metaphorically as fire (Shir
+  HaShirim 8:7), so it makes sense that she names them from the root of heat.
+- The kabbalist Rabbi Menachem Azariah of Fano: the husband's parents do not
+  *give* their son in the way the wife's parents give their daughter; their
+  contribution is that they gave birth to him, so the words derive from
+  *yechemasni* ("birth," Tehillim 51:7).
 
 The *Pri Megadim* (Rabbi Yosef Teomim-Frankel), in a letter on dikduk, suggests
 working from the Aramaic instead: ח-מ there means "to see," and the Targumim always
@@ -57,21 +58,23 @@ The husband's words, and cognate with *chasan*. Yisro is called Moshe's *chosen*
 thirteen times in Shemos 18:1-27, and the curse on incest with a mother-in-law
 reads *shochev im chosanto* (Devarim 27:23).
 
-Rav Hirsch: the husband does not join a new family; his family forms a
-connection with another family while he remains in his own, so his words for
-his in-laws are built on connection, like *chasan*. (Hebrew and Yiddish
-have *mechutanim* for two people whose children have married each other;
-English has no word for that relationship at all.) Rabbi Shlomo Pappenheim
-derives *chasan* from the biliteral ח-ת, descending or setting down, since the
-groom branches off from his family to found a new subdivision; his parents-in-
-law are *chosen* and *choseness* because in giving him their daughter they gave
-him the chance to open that branch. (Radak gives the core sense of *chasan*
-differently, as one who experiences a new joy, which is why the word covers a
-baby at his bris as well as a groom.) Rabbi Menachem Azariah of Fano reads
-*chosen* as a contraction of *achos nosen*, "a sister he gives," on the premise
-that soulmates stand on a level and a husband and wife may be called brother
-and sister; the father-in-law is the one who gave this man his "sister," which
-is why the word can only ever be the husband's.
+- Rav Hirsch: the husband does not join a new family; his family forms a
+  connection with another family while he remains in his own, so his words for
+  his in-laws are built on connection, like *chasan*. (Hebrew and Yiddish have
+  *mechutanim* for two people whose children have married each other; English
+  has no word for that relationship at all.)
+- Rabbi Shlomo Pappenheim derives *chasan* from the biliteral ח-ת, descending or
+  setting down, since the groom branches off from his family to found a new
+  subdivision; his parents-in-
+  law are *chosen* and *choseness* because in giving him their daughter they
+  gave him the chance to open that branch. (Radak gives the core sense of
+  *chasan* differently, as one who experiences a new joy, which is why the word
+  covers a baby at his bris as well as a groom.)
+- Rabbi Menachem Azariah of Fano reads *chosen* as a contraction of *achos
+  nosen*, "a sister he gives," on the premise that soulmates stand on a level
+  and a husband and wife may be called brother and sister; the father-in-law is
+  the one who gave this man his "sister," which is why the word can only ever be
+  the husband's.
 
 *Pri Megadim* on why this pair never widened: *chosen* names the man who made
 him a *chasan*, and *choseness* was formed from it. Since *chasan* is by

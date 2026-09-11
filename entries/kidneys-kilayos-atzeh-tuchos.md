@@ -45,23 +45,24 @@ Both *kilayos* and *tuchos* appear only in the plural.
 
 ## Where the authorities disagree
 
-**What *atzeh* is** (Vayikra 3:9, the fat taken "opposite the *atzeh*"). Chullin
-11a reads it as the kidneys, on the strength of Berachos 61a, that the two kidneys
-give *eitzah* to the heart, one advising for good and one for bad (Koheles 10:2
-putting the good counsel on the right); Rashi (to Shemos 29:22 and Vayikra 3:9)
-and Rashbam follow, and Rabbi Klein notes that the derashah appears to rest on
-the spelling עצה, which can be read *eitzah*. Rabbi Elazar Rokeach of Worms, a late
-twelfth-century Ashkenazic scholar, adds when citing this tradition (*Sodi Razi*)
-that the kidneys are also the source of happiness, from *v'sa'alozna kilyosai*
-(Mishlei 23:16). Against them, Targum Onkelos (to Vayikra 3:9; see *Meleches
-Shlomo* to Chullin 3:1), *Sefer HeAruch*, *Sefer HaTishbi*, Ibn Janach, and Radak
-read it as the end of the spine, the last two
-taking the root as ע-צ-ה, though Radak grants that Chazal evidently read it as
-from י-ע-צ. Ibn Ezra says only that the sense may be gleaned from context, and
-rejects any link
-to *eitz*, "tree," which is what Menachem Ibn Saruk implies by filing *atzeh*
-under ע-צ, and what Rabbeinu Bachya, Shadal, and Rabbi Shlomo Pappenheim say
-outright: the spine with its ribs looks like a trunk with branches.
+**What *atzeh* is** (Vayikra 3:9, the fat taken "opposite the *atzeh*").
+- Chullin 11a reads it as the kidneys, on the strength of Berachos 61a, that the
+  two kidneys give *eitzah* to the heart, one advising for good and one for bad
+  (Koheles 10:2 putting the good counsel on the right); Rashi (to Shemos 29:22
+  and Vayikra 3:9) and Rashbam follow, and Rabbi Klein notes that the derashah
+  appears to rest on the spelling עצה, which can be read *eitzah*. Rabbi Elazar
+  Rokeach of Worms, a late twelfth-century Ashkenazic scholar, adds when citing
+  this tradition (*Sodi Razi*) that the kidneys are also the source of
+  happiness, from *v'sa'alozna kilyosai* (Mishlei 23:16).
+- Against them, Targum Onkelos (to Vayikra 3:9; see *Meleches Shlomo* to Chullin
+  3:1), *Sefer HeAruch*, *Sefer HaTishbi*, Ibn Janach, and Radak read it as the
+  end of the spine, the last two taking the root as ע-צ-ה, though Radak grants
+  that Chazal evidently read it as from י-ע-צ.
+- Ibn Ezra says only that the sense may be gleaned from context, and rejects any
+  link to *eitz*, "tree," which is what Menachem Ibn Saruk implies by filing
+  *atzeh* under ע-צ, and what Rabbeinu Bachya, Shadal, and Rabbi Shlomo
+  Pappenheim say outright: the spine with its ribs looks like a trunk with
+  branches.
 
 **Why *atzeh* would mean kidneys at all.** Rabbi Shes ben Yefes HaRofeh of Aleppo
 (*Chemas HaChemdah* to Vayikra 3:17): they filter the blood and cleanse the
@@ -74,13 +75,17 @@ bad. (Rabbi Natan Slifkin's monograph "The Question of the Kidneys' Counsel"
 treats the scientific side of the kidneys-and-thought question and how it might
 bear on transplants.)
 
-**What *tuchos* is.** Rosh Hashanah 26a, with Targum, Rashi, and Radak: the
-kidneys. Ibn Ezra (to Iyov 38:36) differs slightly, preferring the innards
-generally rather than the kidneys specifically, which Rabbi Klein says comes to
-much the same. Others read the word as a fowl, an ibis or some such bird, or as
-darkness; see *Daas Mikra* (to Iyov 38:36), the Brown-Driver-Briggs Hebrew
-lexicon, and David J. A. Clines' *Dictionary of Classical Hebrew*. Part of the question turns on whether the *sechvi* beside it
-(Iyov 38:36) is the heart or a rooster.
+**What *tuchos* is.**
+- Rosh Hashanah 26a, with Targum, Rashi, and Radak: the kidneys.
+- Ibn Ezra (to Iyov 38:36) differs slightly, preferring the innards generally
+  rather than the kidneys specifically, which Rabbi Klein says comes to much the
+  same.
+- Others read the word as a fowl, an ibis or some such bird, or as darkness; see
+  *Daas Mikra* (to Iyov 38:36), the Brown-Driver-Briggs Hebrew lexicon, and
+  David J. A. Clines' *Dictionary of Classical Hebrew*.
+
+Part of the question turns on whether the *sechvi* beside it (Iyov 38:36) is the
+heart or a rooster.
 
 **Where *tuchos* comes from.** *Machberes Menachem* and Rashi (to Tehillim 51:8
 and Rosh Hashanah 26a): from ט-ח, "smooth," the root also of *mitachavei*, a
@@ -91,26 +96,30 @@ same root, since the kidneys are coated in fat. *Chochmas Manoach* merges the tw
 ## Distinctions
 
 ### kilayos (כליות)
-Thirty-one times in Tanach, fifteen of them the rule that an animal's kidneys are
-burned on the mizbeiach with its fats (Vayikra 3:4, 3:10, 4:9, 8:16, 8:25, 9:10,
-9:19, and parallels), and again in the Mishnah (Chullin 3:2, 4:1; Tamid 4:3). In
-the abstract sense it is a man's hidden motives, which Hashem examines,
+Thirty-one times in Tanach, fifteen of them the rule that an animal's kidneys
+are burned on the mizbeiach with its fats (Vayikra 3:4, 3:10, 4:9, 8:16, 8:25,
+9:10, 9:19, and parallels), and again in the Mishnah (Chullin 3:2, 4:1; Tamid
+4:3). In the abstract sense it is a man's hidden motives, which Hashem examines,
 "testing the heart and the kidneys" (Yirmiyahu 11:20, 17:10, 20:12; Tehillim
-7:10). Three derivations: Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim* 344)
-links it to *kele*, imprisonment, spelled with a final aleph, since these organs
-sit shut away deep inside, which fits Ibn Ezra's reading (to Tehillim 7:10) that
-*kilayos* can sometimes mean the thoughts hidden in a man. Ibn Ezra elsewhere (to Shemos
-23:25, Vayikra 3:4; Tehillim 16:7, 139:13, cited by Radak in *Sefer
-HaShorashim*) postulates that the kidneys are the seat of libidinous desire and
-the word a cognate of כ-ל-ה, "to long for" (Shmuel II 13:39); Rav Hirsch (to
-Shemos 23:18 and Vayikra 3:4) makes a similar point, that they are the deepest
-source of sensuous desire and so the organs of the evil impulses, and Ramban (to
-Vayikra 1:9), in line with this, explains why
-burning them is central to atonement, since they are the instruments of the desire
-that caused the sin. Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes a third
-path, from the biliteral כ-ל, "totality," which also gives *kol* and *kli*, a
-vessel that surrounds what is put in it: the kidneys are the vessel holding
-filtered waste until it is expelled. In the Gemara the singular is *kulya*.
+7:10). Three derivations:
+- Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim* 344) links it to *kele*,
+  imprisonment, spelled with a final aleph, since these organs sit shut away
+  deep inside, which fits Ibn Ezra's reading (to Tehillim 7:10) that *kilayos*
+  can sometimes mean the thoughts hidden in a man.
+- Ibn Ezra elsewhere (to Shemos 23:25, Vayikra 3:4; Tehillim 16:7, 139:13, cited
+  by Radak in *Sefer HaShorashim*) postulates that the kidneys are the seat of
+  libidinous desire and the word a cognate of כ-ל-ה, "to long for" (Shmuel II
+  13:39); Rav Hirsch (to Shemos 23:18 and Vayikra 3:4) makes a similar point,
+  that they are the deepest source of sensuous desire and so the organs of the
+  evil impulses, and Ramban (to Vayikra 1:9), in line with this, explains why
+  burning them is central to atonement, since they are the instruments of the
+  desire that caused the sin.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes a third path, from the
+  biliteral כ-ל, "totality," which also gives *kol* and *kli*, a vessel that
+  surrounds what is put in it: the kidneys are the vessel holding filtered waste
+  until it is expelled.
+
+In the Gemara the singular is *kulya*.
 
 ### the wheat of Devarim 32:14
 "The fat of the *kilyos* of wheat" is a distinct usage. Rashi: wheat so plump each

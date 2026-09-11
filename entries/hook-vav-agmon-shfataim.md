@@ -68,34 +68,38 @@ interchange anyway.
 
 ### agmon (אגמון)
 Five appearances (Iyov 40:26, 41:12; Yeshayahu 9:13, 19:15, 58:5). This is the
-third biblical word, one that Rabbi Shlomo of Urbino does not
-explicitly list as a synonym of *vav* and *shfataim*. *Machberes
-Menachem* defines it as a cane with a hooked top. Radak takes it as a kind of
-reed, reading א-ג-ם against ג-מ-א by metathesis, from which *gome*, reed. Rabbi
-Shlomo Pappenheim works the same ground from the two-letter root ג-מ, absorbent
-or spongy matter: *agam* is a swamp, which soaks up water and stays wet; *gome*
-is the spongy reed that grows there; *agmon* is primarily a hook-topped thistle
-that also commonly grows in such marshland; it was commonly used as a fishhook,
-and from there the word came to mean anything hooked or bent. Targum renders *agmon* differently in
-Yeshayahu 9:13 and 19:15, as *hegmon*, itself a word of Greek origin and the
-antecedent of English *hegemony*, a reading Radak cites in *Sefer HaShorashim*;
-at Yeshayahu 58:5 Targum leaves it untranslated.
+third biblical word, one that Rabbi Shlomo of Urbino does not explicitly list as
+a synonym of *vav* and *shfataim*.
+- *Machberes Menachem* defines it as a cane with a hooked top.
+- Radak takes it as a kind of reed, reading א-ג-ם against ג-מ-א by metathesis,
+  from which *gome*, reed.
+- Rabbi Shlomo Pappenheim works the same ground from the two-letter root ג-מ,
+  absorbent or spongy matter: *agam* is a swamp, which soaks up water and stays
+  wet; *gome* is the spongy reed that grows there; *agmon* is primarily a
+  hook-topped thistle that also commonly grows in such marshland; it was
+  commonly used as a fishhook, and from there the word came to mean anything
+  hooked or bent.
+- Targum renders *agmon* differently in Yeshayahu 9:13 and 19:15, as *hegmon*,
+  itself a word of Greek origin and the antecedent of English *hegemony*, a
+  reading Radak cites in *Sefer HaShorashim*; at Yeshayahu 58:5 Targum leaves it
+  untranslated.
 
 ### shfataim (שפתים)
-Once only, Yechezkel 40:43. Rabbi Shlomo of Urbino, in his lexicon of Hebrew
-synonyms *Ohel Moed*, gives *shfataim* as an alternate word for "hook, hanger."
-Targum there renders *ankliyot*, hooks, and Rashi and Radak cite that reading.
-But Radak himself (in his commentary and in *Sefer HaShorashim* s.v. ש-פ-ת) and
-Abarbanel explain *shfataim* instead as the **place** on which pots were set, a
-sort of stovetop; *Machberes Menachem* implies the same by filing the word under
-his fifth category of the ש-פ root. Rabbi Pappenheim also follows this approach,
-deriving it from the
-two-letter root ש-פ, moving without lifting the feet from the ground: Bilaam
-who went *shefi* (Bamidbar 23:3), the *ashafim* (Daniel 1:20, 2:2, 2:10), and
-the *shefifon*, the snake that never lifts itself off the floor. On that
-reading *shfataim* is where the pots sit and are not lifted until the cooking
-is done. Rabbi Eliezer of Beaugency (to Yechezkel 40:43) reads it as a ledge or
-lip running around the perimeter of the Table.
+Once only, Yechezkel 40:43.
+- Rabbi Shlomo of Urbino, in his lexicon of Hebrew synonyms *Ohel Moed*, gives
+  *shfataim* as an alternate word for "hook, hanger." Targum there renders
+  *ankliyot*, hooks, and Rashi and Radak cite that reading.
+- But Radak himself (in his commentary and in *Sefer HaShorashim* s.v. ש-פ-ת)
+  and Abarbanel explain *shfataim* instead as the **place** on which pots were
+  set, a sort of stovetop; *Machberes Menachem* implies the same by filing the
+  word under his fifth category of the ש-פ root. Rabbi Pappenheim also follows
+  this approach, deriving it from the two-letter root ש-פ, moving without
+  lifting the feet from the ground: Bilaam who went *shefi* (Bamidbar 23:3), the
+  *ashafim* (Daniel 1:20, 2:2, 2:10), and the *shefifon*, the snake that never
+  lifts itself off the floor. On that reading *shfataim* is where the pots sit
+  and are not lifted until the cooking is done.
+- Rabbi Eliezer of Beaugency (to Yechezkel 40:43) reads it as a ledge or lip
+  running around the perimeter of the Table.
 
 ## Rendering guidance
 

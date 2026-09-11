@@ -26,15 +26,15 @@ accounts.
 ## Distinctions
 
 ### ulai (אולי)
-Rabbi Shlomo of Urbino, a sixteenth-century Italian scholar, writes in *Ohel
-Moed*, his lexicon of Hebrew synonyms, that *ulai* carries a neutral charge;
-English "maybe" is neutral, and so is Aramaic *dilma*/*shema*. Two other Italian
-grammarians of the same generation disagree: Rabbi Eliyahu HaBachur (1469-1549)
-in *Sefer HaTishbi* and Rabbi Immanuel Benevento in *Livyat Chen* hold that
-Biblical Hebrew has no neutral word for "maybe" at all, and that *ulai*
-introduces a possibility the speaker desires. Malbim writes similarly: *ulai*
-implies either a certain desire for that outcome or the recognition that it is
-the likelier of the two to materialize.
+- Rabbi Shlomo of Urbino, a sixteenth-century Italian scholar, writes in *Ohel
+  Moed*, his lexicon of Hebrew synonyms, that *ulai* carries a neutral charge;
+  English "maybe" is neutral, and so is Aramaic *dilma*/*shema*.
+- Two other Italian grammarians of the same generation disagree: Rabbi Eliyahu
+  HaBachur (1469-1549) in *Sefer HaTishbi* and Rabbi Immanuel Benevento in
+  *Livyat Chen* hold that Biblical Hebrew has no neutral word for "maybe" at
+  all, and that *ulai* introduces a possibility the speaker desires.
+- Malbim writes similarly: *ulai* implies either a certain desire for that
+  outcome or the recognition that it is the likelier of the two to materialize.
 
 To illustrate: "I bought a lottery ticket because *maybe* I will
 win" takes *ulai*; "I wear a seatbelt because *maybe* I will get in an
@@ -60,22 +60,24 @@ wanted the mission to succeed he would have said *pen*.
 
 Yaakov's *ulai yemusheini avi*, "maybe my father will feel me" (Bereishis
 27:12), is what Rabbi Klein calls a significant problem with the way HaBachur,
-Benevento and the Vilna Gaon explain *ulai*, since Yaakov would seemingly not want
-to be caught. A bevy of commentators, among them Rabbi Yehuda Leib Edel
-(1760-1828), Rabbi Tzvi Hirsch Chayes (1805-1855), Rabbi Seligman Baer
-(Yitzchok Dov) Bamberger of Würzburg (1807-1878), Rabbi Shlomo Aharon
-Wertheimer (1866-1935) and Rabbi Zalman Sorotzkin (1881-1966), answer that
-Yaakov is the one most associated with commitment to truth, the navi Michah
-(7:20) associating him with *emes* as he associates Avraham with
-*chesed*, and that he therefore really did want his father to feel him and put
-an end to the deception; he was so bound to truth that passing a lie to his
-father made him uncomfortable even where it was justified. Mecklenburg too
-holds that Yaakov *wanted* his father to feel him, but not so as to expose the
-ploy: he wanted his father's hands laid on his head for the *berachah*.
-Alternatively, Rabbi Klein suggests, on Malbim's view no answer is needed, since
-*ulai* need not mean Yaakov wanted it, only that he felt it most likely to
-happen; Rabbi Wertheimer uses a similar argument for the *ulai* of Bereishis
-18:28.
+Benevento and the Vilna Gaon explain *ulai*, since Yaakov would seemingly not
+want to be caught.
+- A bevy of commentators, among them Rabbi Yehuda Leib Edel (1760-1828), Rabbi
+  Tzvi Hirsch Chayes (1805-1855), Rabbi Seligman Baer (Yitzchok Dov) Bamberger
+  of Würzburg (1807-1878), Rabbi Shlomo Aharon Wertheimer (1866-1935) and Rabbi
+  Zalman Sorotzkin (1881-1966), answer that Yaakov is the one most associated
+  with commitment to truth, the navi Michah (7:20) associating him with *emes*
+  as he associates Avraham with *chesed*, and that he therefore really did want
+  his father to feel him and put an end to the deception; he was so bound to
+  truth that passing a lie to his father made him uncomfortable even where it
+  was justified.
+- Mecklenburg too holds that Yaakov *wanted* his father to feel him, but not so
+  as to expose the ploy: he wanted his father's hands laid on his head for the
+  *berachah*.
+- Alternatively, Rabbi Klein suggests, on Malbim's view no answer is needed,
+  since *ulai* need not mean Yaakov wanted it, only that he felt it most likely
+  to happen; Rabbi Wertheimer uses a similar argument for the *ulai* of
+  Bereishis 18:28.
 
 ## Rendering guidance
 

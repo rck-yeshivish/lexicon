@@ -41,13 +41,14 @@ particular **threads**. Rabbi Shlomo Pappenheim narrows *pishtah* / *pishtan*
 further, to the flax while it is still growing in the ground.
 
 ### sheish (שש)
-Ralbag and Abarbanel: a thread of six fibers, the number being the word
-(*sheish*, six); Rambam draws the same distinction in Hilchos Klei HaMikdash
-8:14. Some say that *sheish* is actually an Egyptian word for the choicest grade
-of linen, with *butz* as its Aramaic-Hebrew rendering (see *Daas Zekeinim* to
-Bereishis 41:42). Pappenheim reads *sheish* as combed linen strands not yet spun
-into thread, and ties the word to *shayish*, marble or limestone, for its
-smoothness.
+- Ralbag and Abarbanel: a thread of six fibers, the number being the word
+  (*sheish*, six); Rambam draws the same distinction in Hilchos Klei HaMikdash
+  8:14.
+- Some say that *sheish* is actually an Egyptian word for the choicest grade of
+  linen, with *butz* as its Aramaic-Hebrew rendering (see *Daas Zekeinim* to
+  Bereishis 41:42).
+- Pappenheim reads *sheish* as combed linen strands not yet spun into thread,
+  and ties the word to *shayish*, marble or limestone, for its smoothness.
 
 Two readings explain why Yoma 71b has to prove that *sheish* means linen. The
 Steipler Gaon (in a letter to Rabbi Moshe Mordechai Schulsinger, *Mishmar

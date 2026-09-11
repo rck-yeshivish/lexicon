@@ -62,26 +62,28 @@ now** (Bedersi). *Zeh* for place is the loose one, a general area, and *koh* is
 
 ## Where the authorities disagree
 
-**What halom carries.** Chazal (Zevachim 102a) buttress their reading of the
-Burning Bush by postulating that *halom* always connotes something to do with
-royalty, so that *"al tikrav halom"* (Shemos 3:5) is a refusal of dynastic
-leadership to Moshe, on the strength of David's *"ki haviosani ad halom"*
-(Shmuel II 7:18). Maharsha adds that the exegesis is also supported by the
-choice of the rare *halom* over the common *poh*; *Bereishis Rabbah* 45:1 reads Hagar's *halom*
-(Bereishis 16:13) the same way. Maharsha (to Zevachim 102a) and *HaKtav
-VeHaKabbalah* (to Bereishis 16:13) work through further examples of *halom*
-carrying something royal or otherwise important about the place. Luzzatto
-extrapolates from the Gemara's discussion that *halom* means "here" as an
-important, special place, against the other words in the cluster, which can carry
-a banal or prosaic "here." In a similar vein, Rav Hirsch (to Bereishis 16:13)
-pairs ה-ל-ם (breaking or beating, as with
-a hammer) with *paam*: as a *paam* is one beat in the continuum of time, *halom*
-is one step in the continuum of space, marking a place one may be marching to as
-finally "here." Dr. Lawrence Resnick sums up Rav Hirsch: *halom* never means
-"here," it means "hither," a single spatial step forward, up to here. As Rabbi
-Eliezer Cohn has pointed out, Rav Hirsch is in fact following his great-uncle Rabbi Yehuda Leib Shapira-Frankfurter
-(*HaRechasim LeVikah* to Bereishis 16:13), who had already written that *halom*
-always means "to here."
+**What halom carries.**
+- Chazal (Zevachim 102a) buttress their reading of the Burning Bush by
+  postulating that *halom* always connotes something to do with royalty, so that
+  *"al tikrav halom"* (Shemos 3:5) is a refusal of dynastic leadership to Moshe,
+  on the strength of David's *"ki haviosani ad halom"* (Shmuel II 7:18).
+  Maharsha adds that the exegesis is also supported by the choice of the rare
+  *halom* over the common *poh*; *Bereishis Rabbah* 45:1 reads Hagar's *halom*
+  (Bereishis 16:13) the same way. Maharsha (to Zevachim 102a) and *HaKtav
+  VeHaKabbalah* (to Bereishis 16:13) work through further examples of *halom*
+  carrying something royal or otherwise important about the place.
+- Luzzatto extrapolates from the Gemara's discussion that *halom* means "here"
+  as an important, special place, against the other words in the cluster, which
+  can carry a banal or prosaic "here."
+- In a similar vein, Rav Hirsch (to Bereishis 16:13) pairs ה-ל-ם (breaking or
+  beating, as with a hammer) with *paam*: as a *paam* is one beat in the
+  continuum of time, *halom* is one step in the continuum of space, marking a
+  place one may be marching to as finally "here." Dr. Lawrence Resnick sums up
+  Rav Hirsch: *halom* never means "here," it means "hither," a single spatial
+  step forward, up to here. As Rabbi Eliezer Cohn has pointed out, Rav Hirsch is
+  in fact following his great-uncle Rabbi Yehuda Leib Shapira-Frankfurter
+  (*HaRechasim LeVikah* to Bereishis 16:13), who had already written that
+  *halom* always means "to here."
 
 **The roots.** *Poh* is spelled peh-hei usually, peh-vav twenty times in
 Yechezkel 41-42, peh-aleph once (Iyov 38:11), so Ibn Janach and Rabbi Shlomo Ibn
@@ -114,21 +116,21 @@ Yosef: "bring my father down *heinah*" (Bereishis 45:13); the Yevusim to David,
 "you shall not come *heinah*" (Shmuel II 5:6); Avraham's offspring promised a
 return after the exile, "in the fourth generation they shall return *heinah*"
 (Bereishis 15:16); the waters split *heinah v'heinah* (Melachim II 2:14); and
-Yirmiyahu's exiles asking the way *heinah*, to Tzion (Yirmiyahu 50:5). Luzzatto
-asserts, with prooftexts, that it is used only where something has travelled from
-elsewhere and arrived, often of somebody *coming* here, ostensibly from somewhere
-else (Yehoshua 2:2; Shoftim
-16:2; Shmuel II 5:6; Melachim II 8:7; Yechezkel 40:4; Divrei HaYamim I 11:5),
-while *poh* and *zeh* are static and need not imply any contrast with another
-place. Wertheimer: *poh* is the more specific "here" and *heinah* the more
-general, and *heinah* suits a listener not yet arrived. Bedersi (a thirteenth
-century Spanish scholar), in *Chosam Tochnis*: *poh* and *halom* are strictly
-spatial, while *heinah* is often borrowed for time as well. Bereishis 15:16 has
-both senses in one pasuk, the fourth generation returning *heinah* because the
-sin of the Emori is not complete *ad heinah*, "until now"; so too Yaakov, "I have
-not seen him *ad heinah*" (Bereishis 44:28). Bedersi warns against confusing it
-with its homonym *heinah*, a feminine form of *hein*, "they" (Bereishis 6:2,
-21:29; Shmuel II 17:28).
+Yirmiyahu's exiles asking the way *heinah*, to Tzion (Yirmiyahu 50:5).
+- Luzzatto asserts, with prooftexts, that it is used only where something has
+  travelled from elsewhere and arrived, often of somebody *coming* here,
+  ostensibly from somewhere else (Yehoshua 2:2; Shoftim 16:2; Shmuel II 5:6;
+  Melachim II 8:7; Yechezkel 40:4; Divrei HaYamim I 11:5), while *poh* and *zeh*
+  are static and need not imply any contrast with another place.
+- Wertheimer: *poh* is the more specific "here" and *heinah* the more general,
+  and *heinah* suits a listener not yet arrived.
+- Bedersi (a thirteenth century Spanish scholar), in *Chosam Tochnis*: *poh* and
+  *halom* are strictly spatial, while *heinah* is often borrowed for time as
+  well. Bereishis 15:16 has both senses in one pasuk, the fourth generation
+  returning *heinah* because the sin of the Emori is not complete *ad heinah*,
+  "until now"; so too Yaakov, "I have not seen him *ad heinah*" (Bereishis
+  44:28). Bedersi warns against confusing it with its homonym *heinah*, a
+  feminine form of *hein*, "they" (Bereishis 6:2, 21:29; Shmuel II 17:28).
 
 ### zeh (זה) and koh (כה)
 *Zeh* is "this," occasionally used for place: "stay *zeh* the night" (Bamidbar

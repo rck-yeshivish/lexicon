@@ -49,19 +49,22 @@ names the great distance he can travel toward the spiritual. The Zohar (Tazria
 48a): *adam* is man at his highest potential.
 
 ### enosh (אנוש)
-Usually man in degradation (Yeshayahu 51:12), lost hope (Iyov 14:19), or the pursuit of
-bodily pleasure (Tehillim 104:15); the angels who argued against giving man the
-Torah called him *enosh* (Tehillim 8:5). Radak (*Sefer HaShorashim*): the root
-א-נ-ש means weak and sickly. Rabbi Shlomo Pappenheim: from נ-ש, "moved from its
-natural condition" (*nosheh*, *nashah*, *anush*), so *enosh* is man whose powers
-are, in some ways, weak beside greater spiritual beings. Wertheimer: *enosh* is *ish* with a
-diminutive nun. The Vilna Gaon: the image of Hashem held fully only for Adam and
-Sheis; it was lost in the days of Sheis's son Enosh, when idolatry began to
-develop, and the loss of that spiritual resemblance was reflected in physical
-ways, leaving man weakened, to the point that according to the Midrash people's
-faces came to look like apes. Rashi (to Bamidbar 13:3): the plural *anashim* means men of
-importance. Rabbi Klein explains why: the lowly man who joins others and humbles
-himself before them becomes important through the group.
+Usually man in degradation (Yeshayahu 51:12), lost hope (Iyov 14:19), or the
+pursuit of bodily pleasure (Tehillim 104:15); the angels who argued against
+giving man the Torah called him *enosh* (Tehillim 8:5).
+- Radak (*Sefer HaShorashim*): the root א-נ-ש means weak and sickly.
+- Rabbi Shlomo Pappenheim: from נ-ש, "moved from its natural condition"
+  (*nosheh*, *nashah*, *anush*), so *enosh* is man whose powers are, in some
+  ways, weak beside greater spiritual beings.
+- Wertheimer: *enosh* is *ish* with a diminutive nun.
+- The Vilna Gaon: the image of Hashem held fully only for Adam and Sheis; it was
+  lost in the days of Sheis's son Enosh, when idolatry began to develop, and the
+  loss of that spiritual resemblance was reflected in physical ways, leaving man
+  weakened, to the point that according to the Midrash people's faces came to
+  look like apes.
+- Rashi (to Bamidbar 13:3): the plural *anashim* means men of importance. Rabbi
+  Klein explains why: the lowly man who joins others and humbles himself before
+  them becomes important through the group.
 
 ### ish (איש)
 The exclusive term: sometimes man as against woman, sometimes man as against child. Where *adam*

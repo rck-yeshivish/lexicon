@@ -36,24 +36,28 @@ the world, one who says there are many, one who says God has a body, one who
 says God did not create everything, one who serves an intermediary. *Avodah
 Zarah* 26b: the *min* transgresses to anger Hashem, the *meshumad* for pleasure.
 
-There are many theories as to how sectarians came to be called *minim*. Rabbi
-Yishaya of Trani associates *min* with the pagan deity Meni
-(Yeshayahu 65:11). Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) argues that Manes,
-also called Mani or Manichaeus, and Apikores were Greek philosophers who rejected
-conventional religion, and their followers came to be called *minim* and
-*apikorsim* respectively. Rabbi Shmuel David Luzzatto (to Shemos 20:4) works from
-the plain biblical sense of *min*, "type, species": each sectarian holds a
-slightly different creed, but all fall into the one broader *type*. Rabbi
-Binyamin Mussafia: the original sectarians called themselves *maaminim*,
-"believers," to bolster their religious bona fides, and the rabbis bowdlerized
-the word down to *minim*. Rabbi J. D. Eisenstein (*Otzar Yisroel* s.v. *min*,
-*minus*) cites some scholars, unnamed, who have it that the rabbis called the
-sectarians *maaminim* sarcastically and the word was then shortened to *minim*;
-he also cites a view that *min* was originally an acronym for *maamin Yeshu
-Notzri*, "believer in Jesus of Nazareth." Rabbi Shlomo Tzvi Shick writes that the
-rabbis called the Tzedukim *minim* because the Tzedukim denied that water pooled
-in a vessel is disqualified for a mikvah, so they never immersed properly and
-were permanently tamei, and the Greek word for an impure person is *mijan*.
+There are many theories as to how sectarians came to be called *minim*.
+- Rabbi Yishaya of Trani associates *min* with the pagan deity Meni (Yeshayahu
+  65:11).
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) argues that Manes, also called Mani
+  or Manichaeus, and Apikores were Greek philosophers who rejected conventional
+  religion, and their followers came to be called *minim* and *apikorsim*
+  respectively.
+- Rabbi Shmuel David Luzzatto (to Shemos 20:4) works from the plain biblical
+  sense of *min*, "type, species": each sectarian holds a slightly different
+  creed, but all fall into the one broader *type*.
+- Rabbi Binyamin Mussafia: the original sectarians called themselves *maaminim*,
+  "believers," to bolster their religious bona fides, and the rabbis bowdlerized
+  the word down to *minim*.
+- Rabbi J. D. Eisenstein (*Otzar Yisroel* s.v. *min*, *minus*) cites some
+  scholars, unnamed, who have it that the rabbis called the sectarians
+  *maaminim* sarcastically and the word was then shortened to *minim*; he also
+  cites a view that *min* was originally an acronym for *maamin Yeshu Notzri*,
+  "believer in Jesus of Nazareth."
+- Rabbi Shlomo Tzvi Shick writes that the rabbis called the Tzedukim *minim*
+  because the Tzedukim denied that water pooled in a vessel is disqualified for
+  a mikvah, so they never immersed properly and were permanently tamei, and the
+  Greek word for an impure person is *mijan*.
 
 ### apikores (אפיקורוס)
 Never in Tanach; twice in the Mishnah (*Sanhedrin* 10:1, *Avos* 2:14). Rambam
@@ -93,17 +97,20 @@ In the berachah praying for the dissolution of heretics we call them
 the original nusach had *meshumadim*, and some keep the custom of davening with
 the older wording.
 
-Etymologies split three ways. The simplest is ש-מ-ד, to destroy. On Even-Shoshan's
-biblical concordance the root occurs ninety times in the Hebrew portions of
-Tanach and once in the Aramaic (Daniel 7:26); it also seems to stand behind the
-personal name Shemed, a man of the tribe of Binyamin (Divrei HaYamim I 8:12).
-*Shmad* as a noun is the Gemara's word for the destructive decrees imposed on
-Klal Yisrael from time to time (see the uncensored *Rosh HaShanah* 19a). On this
-root: Rabbi Eliyahu HaBachur (*Sefer HaTishbi*), because most such conversions
-happen in times of *shmad*; Rabbi Yair Chaim Bachrach (*Mekor Chaim* to *Orach
-Chaim* 118), because the apostate has been cut off and destroyed by detaching
-himself from the nation; Rabbi Shmuel David Luzzatto (to Shemos 12:43), one who
-converted under a decree of *shmad* and kept practicing once the coercion lifted.
+Etymologies split three ways. The simplest is ש-מ-ד, to destroy. On
+Even-Shoshan's biblical concordance the root occurs ninety times in the Hebrew
+portions of Tanach and once in the Aramaic (Daniel 7:26); it also seems to stand
+behind the personal name Shemed, a man of the tribe of Binyamin (Divrei HaYamim
+I 8:12). *Shmad* as a noun is the Gemara's word for the destructive decrees
+imposed on Klal Yisrael from time to time (see the uncensored *Rosh HaShanah*
+19a). On this root:
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*), because most such conversions
+  happen in times of *shmad*.
+- Rabbi Yair Chaim Bachrach (*Mekor Chaim* to *Orach Chaim* 118), because the
+  apostate has been cut off and destroyed by detaching himself from the nation.
+- Rabbi Shmuel David Luzzatto (to Shemos 12:43), one who converted under a
+  decree of *shmad* and kept practicing once the coercion lifted.
+
 Rabbi Ernest Klein's etymological dictionary of Hebrew cites the German Bible
 scholar and philologist Friedrich Delitzsch, who argued that Hebrew *shmad* is a
 metathesized form of the Akkadian *mashadu*, "striking," with the mem and shin

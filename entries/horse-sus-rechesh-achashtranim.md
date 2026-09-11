@@ -51,93 +51,111 @@ couriers or for pulling: **swift steed** or **courier horse**, not plain "horse.
 
 ## Where the authorities disagree
 
-**Is *rechesh* a horse at all?** A superior, especially fast young horse (Ralbag
-to Esther 8:10; Ibn Janach in *Sefer HaShorashim*; and in a similar vein the
-German linguist Wilhelm Gesenius, 1786-1842, who ties *rechesh* to the Arabic verb
-for a horse's running or galloping and so takes it as a superior breed known for
-remarkable speed). Some unspecific swift-running animal, not necessarily a horse,
-since Esther 8:10 and Melachim I 5:8 list *rechesh* beside *sus* (Radak, who
-elsewhere identifies it with the mules). A permutation of *rechush*, property, so
-the king's own horses (Ibn Ezra, Rabbi Moshe Ibn Chalava; Solomon Rabinowitz of
-New York, d. 1943, in *Sefer HaMishkalim*, reads *rechush* in Ezra 1:4 the other
-way about, as the *rechesh* horse rather than ordinary property). A horse decked
-in its rider's weapons, itself a kind of *rechush*, or from *reches*, "tying,"
-the horse-and-rider team bound together (*Ohalei Yehuda*, Rabbi Yehudah Aryeh of
-Carpentras). From ר-כ-ס, tying, by the shin/sin-samech interchange, hence the
-wagon-horse (Rav Hirsch to Bereishis 12:5), so *sus* is general and *rechesh*
-specific. The Maskilic Hebrew scholar Naftali Torczyner, Tur-Sinai (1886-1973),
-likewise reaches the wagon-horse, taking ר-כ-ש as a metathesis of ק-ש-ר,
-tying and tethering, probably on the kuf/kaf interchange; he goes further and has
-*rechush* derive from *rechesh*, since a man's main property was his livestock,
-or because moveable goods were typically carried by *rechashim*.
+**Is *rechesh* a horse at all?**
+- A superior, especially fast young horse (Ralbag to Esther 8:10; Ibn Janach in
+  *Sefer HaShorashim*; and in a similar vein the German linguist Wilhelm
+  Gesenius, 1786-1842, who ties *rechesh* to the Arabic verb for a horse's
+  running or galloping and so takes it as a superior breed known for remarkable
+  speed).
+- Some unspecific swift-running animal, not necessarily a horse, since Esther
+  8:10 and Melachim I 5:8 list *rechesh* beside *sus* (Radak, who elsewhere
+  identifies it with the mules).
+- A permutation of *rechush*, property, so the king's own horses (Ibn Ezra,
+  Rabbi Moshe Ibn Chalava; Solomon Rabinowitz of New York, d. 1943, in *Sefer
+  HaMishkalim*, reads *rechush* in Ezra 1:4 the other way about, as the
+  *rechesh* horse rather than ordinary property).
+- A horse decked in its rider's weapons, itself a kind of *rechush*, or from
+  *reches*, "tying," the horse-and-rider team bound together (*Ohalei Yehuda*,
+  Rabbi Yehudah Aryeh of Carpentras).
+- From ר-כ-ס, tying, by the shin/sin-samech interchange, hence the wagon-horse
+  (Rav Hirsch to Bereishis 12:5), so *sus* is general and *rechesh* specific.
+  The Maskilic Hebrew scholar Naftali Torczyner, Tur-Sinai (1886-1973), likewise
+  reaches the wagon-horse, taking ר-כ-ש as a metathesis of ק-ש-ר, tying and
+  tethering, probably on the kuf/kaf interchange; he goes further and has
+  *rechush* derive from *rechesh*, since a man's main property was his
+  livestock, or because moveable goods were typically carried by *rechashim*.
 
-**What *achashtranim* are.** Mules, from a male donkey and a mare, as against the
-typically weaker hinnies (Rav Saadia Gaon, Ibn Ezra, Radak, Rabbi Moshe Ibn Chalava,
-Ralbag); Rabbi Yosef Kimchi (*Sefer HaGalui*) reports Rav Saadia Gaon's
-etymology, Persian *achash*, "big," plus Aramaic *trein*, "two," one beast
-merging two species. An adjective on *rechesh*, from CHET-SHIN, speed, plus
-TAV-REISH, scouting, the mounts spies used (*Midrash Lekach Tov*). Similarly, a
-name built on the same roots with TAV-REISH as "jumping," so that the animal's
-swiftness is in its leap rather than its run (Rabbi Shlomo Pappenheim).
-Fast-running camels (Rashi), somewhat an outlier. No animal at all but an ordinary
-adjective, "government-owned," from the Old Persian *khshathrana*/*khshathra*,
-"dominion, government, province" (Rabbi Ernest Klein), another outlier. Ibn
-Janach adds that it is not too farfetched to presume *achashtranim* and
-*rechashim* are the same thing. Eight-legged beasts that run on one set of four
-legs, then draw those into the body and let the other four down when tired, with
-האחשתרנים in *gematria* (1014) equalling *shel shemonah raglaim*, "of eight legs"
-(*Peirush HaRokeach* to Bereishis 1:25 and Esther 8:10, who reads the extra *es*
-in *v'es habehemah* as including the otherwise unmentioned *achashtranim*, though
-he does not say what sort of animal they are). A similar tradition is in Rabbi
-Yosef Kara's commentary to Esther, though he attaches it to "sons of the
-*remachim*" and makes them **flying camels** with two sets of four legs, close to
-Rashi's camels.
+**What *achashtranim* are.**
+- Mules, from a male donkey and a mare, as against the typically weaker hinnies
+  (Rav Saadia Gaon, Ibn Ezra, Radak, Rabbi Moshe Ibn Chalava, Ralbag); Rabbi
+  Yosef Kimchi (*Sefer HaGalui*) reports Rav Saadia Gaon's etymology, Persian
+  *achash*, "big," plus Aramaic *trein*, "two," one beast merging two species.
+- An adjective on *rechesh*, from CHET-SHIN, speed, plus TAV-REISH, scouting,
+  the mounts spies used (*Midrash Lekach Tov*).
+- Similarly, a name built on the same roots with TAV-REISH as "jumping," so that
+  the animal's swiftness is in its leap rather than its run (Rabbi Shlomo
+  Pappenheim).
+- Fast-running camels (Rashi), somewhat an outlier.
+- No animal at all but an ordinary adjective, "government-owned," from the Old
+  Persian *khshathrana*/*khshathra*, "dominion, government, province" (Rabbi
+  Ernest Klein), another outlier.
+- Ibn Janach adds that it is not too farfetched to presume *achashtranim* and
+  *rechashim* are the same thing.
+- Eight-legged beasts that run on one set of four legs, then draw those into the
+  body and let the other four down when tired, with האחשתרנים in *gematria*
+  (1014) equalling *shel shemonah raglaim*, "of eight legs" (*Peirush HaRokeach*
+  to Bereishis 1:25 and Esther 8:10, who reads the extra *es* in *v'es
+  habehemah* as including the otherwise unmentioned *achashtranim*, though he
+  does not say what sort of animal they are). A similar tradition is in Rabbi
+  Yosef Kara's commentary to Esther, though he attaches it to "sons of the
+  *remachim*" and makes them **flying camels** with two sets of four legs, close
+  to Rashi's camels.
 
-**What "sons of the *remachim*" means.** In his Mishnah commentary (Kilayim 8:5)
-Rambam identifies the *ramach* as a kind of frigid horse one might have thought
-a separate species for the interbreeding prohibition; in Hilchos Kilayim 9:5 he
-calls it a wild horse, as against the domesticated *sus*. Rabbi Shlomo Sirilio
-(1485-1554), without explaining why, says he thinks the *ramach* is what we call
-a zebra. On the mule reading, *remachim* are the mares that bore them (Radak in
-*Sefer HaShorashim*), and there is apparently an Arabic
-cognate resembling *remachim* that likewise means a female horse. Simply young
-horses (Rabbi Tuviah ben Eliezer), a reading also implied by Rashi (to Taanis 23a;
-see too *Shenos Eliyahu* to Kilayim 8:5 and *Gilyonei HaShas*), and Ibn Yachya
-claims outright that they were small horses. Or the riders, the jockeys, on
-REISH-MEM, raising or lifting, with MEM-KAF, hitting or whipping, the rider
-lifting his arm to whip the horse on (Rabbi Tuviah). Against Megillah 18a's flat
-"we do not know," Rabbeinu Nissim of Gerona (*Teshuvos HaRan* 79, cited in
-*Teshuvos HaRivash* 390-391) holds that only the masses do not know, while the
-talmidei chachamim know, or at least could know. Rabbi Reuven Chaim Klein adds
-that the Gemara's saying it of these two words implies we *do* know what
-*rechesh* means, which is why the commentators offer their readings of it.
+**What "sons of the *remachim*" means.**
+- In his Mishnah commentary (Kilayim 8:5) Rambam identifies the *ramach* as a
+  kind of frigid horse one might have thought a separate species for the
+  interbreeding prohibition; in Hilchos Kilayim 9:5 he calls it a wild horse, as
+  against the domesticated *sus*.
+- Rabbi Shlomo Sirilio (1485-1554), without explaining why, says he thinks the
+  *ramach* is what we call a zebra.
+- On the mule reading, *remachim* are the mares that bore them (Radak in *Sefer
+  HaShorashim*), and there is apparently an Arabic cognate resembling *remachim*
+  that likewise means a female horse.
+- Simply young horses (Rabbi Tuviah ben Eliezer), a reading also implied by
+  Rashi (to Taanis 23a; see too *Shenos Eliyahu* to Kilayim 8:5 and *Gilyonei
+  HaShas*), and Ibn Yachya claims outright that they were small horses.
+- Or the riders, the jockeys, on REISH-MEM, raising or lifting, with MEM-KAF,
+  hitting or whipping, the rider lifting his arm to whip the horse on (Rabbi
+  Tuviah).
+
+Against Megillah 18a's flat "we do not know," Rabbeinu Nissim of Gerona
+(*Teshuvos HaRan* 79, cited in *Teshuvos HaRivash* 390-391) holds that only the
+masses do not know, while the talmidei chachamim know, or at least could know.
+Rabbi Reuven Chaim Klein adds that the Gemara's saying it of these two words
+implies we *do* know what *rechesh* means, which is why the commentators offer
+their readings of it.
 
 ## Distinctions
 
 ### sus (סוס)
 Roughly 140 times in Tanach, and in the name Gadi ben Susi (Bamidbar 13:11); at
-Yeshayahu 38:14 the same word is a bird. Ibn Janach and Radak take the root as
-SAMECH-VAV-SAMECH, Menachem Ibn Saruk as biliteral SAMECH-SAMECH. Rabbi Shlomo
-Pappenheim offers two: in *Yerios Shlomo*, the one-letter root SAMECH,
-repellence, yielding *nisah*, fleeing, the animal one flees on; in *Cheshek
-Shlomo*, SIN-SIN, liveliness, the root of *sasson*. Rav Hirsch (to Bereishis
-1:21) reads SAMECH-VAV-SAMECH alongside ZAYIN-VAV-ZAYIN, SIN-VAV-SIN, and
-TZADI-VAV-TZADI as degrees of movement: *zuz*, the most basic shifting; *sasson*,
-the active movement of joy; *tzitz*, fertile blossoming. The link predates the
-grammarians: Shir HaShirim Rabbah 1:49 (on 1:9) has Hashem glad to drown
-Pharaoh's cavalry as He is always glad to destroy Israel's enemies, which *Eitz
-Yosef* there and Rabbeinu Bachaya (to Bereishis 2:19) ground in this very pun and
-in the horse's gladness in war (see Pesachim 113b, that horses love war). Rabbi
-Avraham Saba (*Tzror HaMor* to Bereishis 2:20) writes that the horse is the
-happiest of all animals, so much so that a man who is sad or worried is made glad
-at once simply by riding one, and that is why *sus* and *sasson* are related.
-Rabbi Yaakov Ashkenazi of Janow (*Tzeina U'Reinah*, Bereishis) has Adam name them
-*susim* because he saw, when the animals came before him, that horses were
-especially jovial. Maharal (*Ohr Chadash* to Esther 8:1) makes a like point: the
-Megillah stresses that the proclamations permitting the Jews to defend themselves
-went out specifically by horse, because that proclamation heralded happiness,
-while the earlier decrees to kill the Jews are not said to have gone by horse
-(Esther 3:13-15), because they projected none.
+Yeshayahu 38:14 the same word is a bird.
+- Ibn Janach and Radak take the root as SAMECH-VAV-SAMECH, Menachem Ibn Saruk as
+  biliteral SAMECH-SAMECH.
+- Rabbi Shlomo Pappenheim offers two: in *Yerios Shlomo*, the one-letter root
+  SAMECH, repellence, yielding *nisah*, fleeing, the animal one flees on; in
+  *Cheshek Shlomo*, SIN-SIN, liveliness, the root of *sasson*.
+- Rav Hirsch (to Bereishis 1:21) reads SAMECH-VAV-SAMECH alongside
+  ZAYIN-VAV-ZAYIN, SIN-VAV-SIN, and TZADI-VAV-TZADI as degrees of movement:
+  *zuz*, the most basic shifting; *sasson*, the active movement of joy; *tzitz*,
+  fertile blossoming.
+- The link predates the grammarians: Shir HaShirim Rabbah 1:49 (on 1:9) has
+  Hashem glad to drown Pharaoh's cavalry as He is always glad to destroy
+  Israel's enemies, which *Eitz Yosef* there and Rabbeinu Bachaya (to Bereishis
+  2:19) ground in this very pun and in the horse's gladness in war (see Pesachim
+  113b, that horses love war).
+- Rabbi Avraham Saba (*Tzror HaMor* to Bereishis 2:20) writes that the horse is
+  the happiest of all animals, so much so that a man who is sad or worried is
+  made glad at once simply by riding one, and that is why *sus* and *sasson* are
+  related.
+- Rabbi Yaakov Ashkenazi of Janow (*Tzeina U'Reinah*, Bereishis) has Adam name
+  them *susim* because he saw, when the animals came before him, that horses
+  were especially jovial.
+- Maharal (*Ohr Chadash* to Esther 8:1) makes a like point: the Megillah
+  stresses that the proclamations permitting the Jews to defend themselves went
+  out specifically by horse, because that proclamation heralded happiness, while
+  the earlier decrees to kill the Jews are not said to have gone by horse
+  (Esther 3:13-15), because they projected none.
 
 ### rechesh (רכש)
 Four times in Tanach: Esther 8:10, 8:14; Melachim I 5:8 (tribute to Shlomo
@@ -155,20 +173,23 @@ coming from the Aramaic *rechesh*.
 ### The name of Achashverosh's horse
 Targum Sheini (to Esther 6:10) and *Peirush HaRokeach* (to Esther 9:4) give the
 king's horse the name Shifrigaz, which Rabbi Eliyahu HaBachur vocalizes in
-*Meturgeman* as Shfargaz. Rabbi Yaakov Daniel Amash derives Shifrigaz from a
-portmanteau of *shapir*, beautiful, and *gaz*, transporting (see Rashi to
-Tehillim 90:10): the horse was apparently beautiful, and a horse's work is to carry its
-rider. Dr. Alexander Kohut (1842-1894), in *HaAruch HaShaleim*, renders the name
-on his understanding of Persian into German as *rothweisses Pferd*, the red-white
-horse. Dr. Dan Shapira, a linguist and philologist at Bar Ilan, in a letter to
-Rabbi Reuven Chaim Klein, says he thinks the name comes from the Persian
-*shap*/*shab*, black or night-colored, plus *rechesh*, horse, assuming kaf and
-gimmel interchange and shin and zayin; he compared it to Shabdiz, apparently the
-horse of the Persian king Khosrow Parviz (590-628), said to be the fastest in the
-world, and Rabbi Reuven Chaim Klein offers that perhaps Shifrigaz is somehow related to or
-conflated with that later horse. (Rabbi Yehuda Spitz points out that this
-tradition differs from the animated *Megillas Lester*, where the king's horse is
-named Hangover.)
+*Meturgeman* as Shfargaz.
+- Rabbi Yaakov Daniel Amash derives Shifrigaz from a portmanteau of *shapir*,
+  beautiful, and *gaz*, transporting (see Rashi to Tehillim 90:10): the horse
+  was apparently beautiful, and a horse's work is to carry its rider.
+- Dr. Alexander Kohut (1842-1894), in *HaAruch HaShaleim*, renders the name on
+  his understanding of Persian into German as *rothweisses Pferd*, the red-white
+  horse.
+- Dr. Dan Shapira, a linguist and philologist at Bar Ilan, in a letter to Rabbi
+  Reuven Chaim Klein, says he thinks the name comes from the Persian
+  *shap*/*shab*, black or night-colored, plus *rechesh*, horse, assuming kaf and
+  gimmel interchange and shin and zayin; he compared it to Shabdiz, apparently
+  the horse of the Persian king Khosrow Parviz (590-628), said to be the fastest
+  in the world, and Rabbi Reuven Chaim Klein offers that perhaps Shifrigaz is
+  somehow related to or conflated with that later horse.
+
+(Rabbi Yehuda Spitz points out that this tradition differs from the animated
+*Megillas Lester*, where the king's horse is named Hangover.)
 
 ### achashtranim (אחשתרנים) and remachim (רמכים)
 Both are confined to Esther 8:10. Menachem Ibn Saruk, Ibn Janach, and Radak parse

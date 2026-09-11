@@ -55,16 +55,18 @@ accurate term.
 
 ## Where the authorities disagree
 
-**Whether Tziyon is a separate city.** Rabbi Ashtori HaParchi, the Radbaz, and
-Rabbi Elazar Azkiri all prove from Melachim I 8:1 (and Divrei HaYamim II 5:2)
-that they are two: Shlomo gathered the elders *in Yerushalayim* in order to
-bring the Aron up *from the City of David, which is Tziyon*. Rashi (to Sotah
-5a, Yoma 77b) says flatly that Tziyon is outside Yerushalayim. Rabbi Yechiel
-Michel Tukachinsky disagrees with some of this: *Tziyon* in Tanach is not always
-an adjoining city but at times a neighborhood inside Yerushalayim. The Zohar
-(*Idra Zuta* 296b) says the two are two spiritual levels, one the aspect of
-*rachamim* and the other the aspect of *din*, which Rabbi Klein takes as
-suggesting that both names denote one physical place.
+**Whether Tziyon is a separate city.**
+- Rabbi Ashtori HaParchi, the Radbaz, and Rabbi Elazar Azkiri all prove from
+  Melachim I 8:1 (and Divrei HaYamim II 5:2) that they are two: Shlomo gathered
+  the elders *in Yerushalayim* in order to bring the Aron up *from the City of
+  David, which is Tziyon*.
+- Rashi (to Sotah 5a, Yoma 77b) says flatly that Tziyon is outside Yerushalayim.
+- Rabbi Yechiel Michel Tukachinsky disagrees with some of this: *Tziyon* in
+  Tanach is not always an adjoining city but at times a neighborhood inside
+  Yerushalayim.
+- The Zohar (*Idra Zuta* 296b) says the two are two spiritual levels, one the
+  aspect of *rachamim* and the other the aspect of *din*, which Rabbi Klein
+  takes as suggesting that both names denote one physical place.
 
 **Where Har Tziyon is.** Tehillim 48:3 places it *yarkesei tzafon*, in the
 north.

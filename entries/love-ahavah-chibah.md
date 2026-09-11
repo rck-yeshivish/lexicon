@@ -31,35 +31,40 @@ word, so the distinction is not closed.
 
 ### ahavah (אהבה)
 Root א-ה-ב for the classical lexicographers (Menachem, Chayyuj, Ibn Janach, Ibn
-Parchon, Radak). Rav Hirsch (Bereishis 22:2, 37:4; Vayikra 19:18; Devarim 6:5)
-reads the core as ה-ב, *hav*, to give (a biliteral that appears over thirty times
-in Tanach, and is cognate with the Biblical Aramaic *yahav*): *ahavah* is giving
-oneself over to another and striving to bring him as close as can be. Hirsch sets
-it against its antonym *sinah*, hatred, which he ties to *sneh*, a thorn: the
-hater wants to be a thing people keep away from, while for *ahavah* the other
-party's very existence is a necessity. Rabbi Eliyahu Lopian (*Lev Eliyahu*
-vol. 1 p. 110) teaches the same from the mussar side: most people take love for the
-pleasant feeling one has in the beloved's company, which is self-love through
-another ("I love fish"); true love is what rouses a person to give to and provide
-for the beloved. On that understanding of love, Yaakov's seven years were "like a few days in his love for her"
-(Bereishis 29:20): every day of work was giving to her. Rav Dessler (*Michtav
-MeEliyahu* vol. 1 pp. 32-36) says likewise. *Orchos Tzadikim* (Shaar HaAhavah): one
-brings himself to love another by helping him and spending on him (Rabbi Avraham
-Erlanger: the basis of Rav Hirsch's reading). Rabbi Yehoshua Steinberg adds
-Kiddushin 30b, which ties *vaheiv* (Bamidbar 21:14) to *ahavah*. Rabbi Shlomo
-Pappenheim (*Cheshek Shlomo*) weighs *hav* and rejects it, reading the root as
-א-ב, "primary cause," as in *av* and *avah* (to desire): *ahavah* is the awakening
-of desire in a positive direction, its antonym *eivah* (with *oyev*, "enemy") the
-same desire turned negative. Professor Saul Levin adds that perhaps *oyev* is
-itself a cognate of *ahavah*, both words being ways of dealing passionately with
-an outsider, the one romantically and the other bellicosely. Rabbi Yitzchak of
-Zeldin (*Shoresh Yesha*) offers both: *hav* as the
-smitten lover's "give, give" (Mishlei 30:15, the leech), or a metathesis of *avah*.
-*Sefer HaBris* (Rabbi Pinchas Eliyahu Horowitz): love is the expansion of the soul
-and its joy in what pleases it, desired above all else. Rabbi Meir Ibn Gabbai:
-*ahavah* and *echad* are both thirteen in gematria; love is the longing of two to
-become one. *Sefer HaBris* also treats *ahavah* at length, sorting its kinds and
-its interplay with *yirah*, and dwelling on the Mishnah's distinction (Avos 5:16)
+Parchon, Radak).
+- Rav Hirsch (Bereishis 22:2, 37:4; Vayikra 19:18; Devarim 6:5) reads the core
+  as ה-ב, *hav*, to give (a biliteral that appears over thirty times in Tanach,
+  and is cognate with the Biblical Aramaic *yahav*): *ahavah* is giving oneself
+  over to another and striving to bring him as close as can be. Hirsch sets it
+  against its antonym *sinah*, hatred, which he ties to *sneh*, a thorn: the
+  hater wants to be a thing people keep away from, while for *ahavah* the other
+  party's very existence is a necessity. Rabbi Eliyahu Lopian (*Lev Eliyahu*
+  vol. 1 p. 110) teaches the same from the mussar side: most people take love
+  for the pleasant feeling one has in the beloved's company, which is self-love
+  through another ("I love fish"); true love is what rouses a person to give to
+  and provide for the beloved. On that understanding of love, Yaakov's seven
+  years were "like a few days in his love for her" (Bereishis 29:20): every day
+  of work was giving to her. Rav Dessler (*Michtav MeEliyahu* vol. 1 pp. 32-36)
+  says likewise. *Orchos Tzadikim* (Shaar HaAhavah): one brings himself to love
+  another by helping him and spending on him (Rabbi Avraham Erlanger: the basis
+  of Rav Hirsch's reading). Rabbi Yehoshua Steinberg adds Kiddushin 30b, which
+  ties *vaheiv* (Bamidbar 21:14) to *ahavah*.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) weighs *hav* and rejects it,
+  reading the root as א-ב, "primary cause," as in *av* and *avah* (to desire):
+  *ahavah* is the awakening of desire in a positive direction, its antonym
+  *eivah* (with *oyev*, "enemy") the same desire turned negative. Professor Saul
+  Levin adds that perhaps *oyev* is itself a cognate of *ahavah*, both words
+  being ways of dealing passionately with an outsider, the one romantically and
+  the other bellicosely.
+- Rabbi Yitzchak of Zeldin (*Shoresh Yesha*) offers both: *hav* as the smitten
+  lover's "give, give" (Mishlei 30:15, the leech), or a metathesis of *avah*.
+- *Sefer HaBris* (Rabbi Pinchas Eliyahu Horowitz): love is the expansion of the
+  soul and its joy in what pleases it, desired above all else.
+- Rabbi Meir Ibn Gabbai: *ahavah* and *echad* are both thirteen in gematria;
+  love is the longing of two to become one.
+
+*Sefer HaBris* also treats *ahavah* at length, sorting its kinds and its
+interplay with *yirah*, and dwelling on the Mishnah's distinction (Avos 5:16)
 between love that depends on a matter and love that does not; he applies his
 definition both to loving Hashem (Devarim 6:5) and to loving a fellow Jew
 (Vayikra 19:18).
@@ -82,24 +87,25 @@ heavily" or "to be excited"; on that basis Gesenius connects *ahavah*, *hav*, *a
 Root ח-ב-ב. Cognates are already in Tanach: Hashem calls the Jews *chovev amim*,
 "beloved of the nations" (Devarim 33:3), and one of the names of Moshe's
 father-in-law Yisro was Chovav, likewise related to *chibah*. The Targum to
-Tehillim 18:2, rendering *erchamcha*, uses a cognate of *chibah*. Pappenheim
-(*Yerios Shlomo*, *Cheshek Shlomo*): from ח-ב, hidden (as in *mischabeh*); one who
-is *chaviv* is embedded in the memory and in the depths of the heart, as if hidden
-inside the one who dotes on him. He puts under the same root *chov* (a debt, since
-the debtor may try to hide from the creditor, or since the lender could be said to hide his assets
-by handing them over for a time), *machavas* (a frying pan, deep enough to hide
-what is in it) and *chavis* (a barrel, closed on every side). Rabbi Benzion Chaim
-Lubetzky (*Midrash
-Safah Echas*): *chibah* is love kept inside and not necessarily expressed
-outwardly. Rabbi Klein notes that this seems to differ from *ahavah*, which tends
-to outward expression. Rabbi Yosef Zechariah
-Stern (via Rabbi Yehuda Leib Maimon-Fishman): *chibah* is love of a person's
-positive aspects only; *ahavah* embraces the whole person, shortcomings included.
-Hence the Mishnah (Berachos 9:5) derives from ואהבת that one blesses over the bad as
-over the good, and ואהבת לרעך means loving every Jew with his faults as one loves
-oneself with one's own; Rabbi Stern therefore called himself an *ohev Tzion*, not a
-*chovev Tzion*. Shadal (Devarim 33:3) ties *chibah* to *chubi*, bosom (Iyov 31:33),
-an expression of close intimacy, something one carries in one's bosom.
+Tehillim 18:2, rendering *erchamcha*, uses a cognate of *chibah*.
+- Pappenheim (*Yerios Shlomo*, *Cheshek Shlomo*): from ח-ב, hidden (as in
+  *mischabeh*); one who is *chaviv* is embedded in the memory and in the depths
+  of the heart, as if hidden inside the one who dotes on him. He puts under the
+  same root *chov* (a debt, since the debtor may try to hide from the creditor,
+  or since the lender could be said to hide his assets by handing them over for
+  a time), *machavas* (a frying pan, deep enough to hide what is in it) and
+  *chavis* (a barrel, closed on every side).
+- Rabbi Benzion Chaim Lubetzky (*Midrash Safah Echas*): *chibah* is love kept
+  inside and not necessarily expressed outwardly. Rabbi Klein notes that this
+  seems to differ from *ahavah*, which tends to outward expression.
+- Rabbi Yosef Zechariah Stern (via Rabbi Yehuda Leib Maimon-Fishman): *chibah*
+  is love of a person's positive aspects only; *ahavah* embraces the whole
+  person, shortcomings included. Hence the Mishnah (Berachos 9:5) derives from
+  ואהבת that one blesses over the bad as over the good, and ואהבת לרעך means
+  loving every Jew with his faults as one loves oneself with one's own; Rabbi
+  Stern therefore called himself an *ohev Tzion*, not a *chovev Tzion*.
+- Shadal (Devarim 33:3) ties *chibah* to *chubi*, bosom (Iyov 31:33), an
+  expression of close intimacy, something one carries in one's bosom.
 
 Against all of this Rabbi Klein enters his own counter-suggestion: one may argue
 that *chibah* is really no different from *ahavah*, and may even be

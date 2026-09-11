@@ -24,19 +24,23 @@ an expression of *dilug* and *kefitzah* together.
 ## Distinctions
 
 ### dilug (דילוג)
-Root ד-ל-ג. On the Vilna Gaon's reading of Yerushalmi Beitzah 5:2, *dilug* is
-the skip taken with one foot still on the ground while the other springs the
-body forward; Rambam and the Rosh cite the same in their commentaries to Mishnah
-Ohalos 8:5. Wertheimer suggests measuring it by height rather than form: in Shir
-HaShirim 2:8 *midaleg* is over mountains and *mikapetz* over hills, so *dilug*
-is the higher of the two. Rabbi Klein posits, in his own voice, that the
-controlling sense is what is skipped, and that *dilug* could therefore more
-accurately be called "skipping" and *kefitzah* "jumping": English "skip" carries
-both the gait and the evasion ("he skipped the boring parts"), and the two are
-in truth conceptually similar, since a skipping step is a way of not treading on
-what lies underfoot, and the Hebrew verb covers both. Rabbi Yaakov Lorberbaum of Lisa allows that
-*dilug* may in fact be the faster motion, but holds that its focus is still on
-what is skipped and not on the speed.
+Root ד-ל-ג.
+- On the Vilna Gaon's reading of Yerushalmi Beitzah 5:2, *dilug* is the skip
+  taken with one foot still on the ground while the other springs the body
+  forward; Rambam and the Rosh cite the same in their commentaries to Mishnah
+  Ohalos 8:5.
+- Wertheimer suggests measuring it by height rather than form: in Shir HaShirim
+  2:8 *midaleg* is over mountains and *mikapetz* over hills, so *dilug* is the
+  higher of the two.
+- Rabbi Klein posits, in his own voice, that the controlling sense is what is
+  skipped, and that *dilug* could therefore more accurately be called "skipping"
+  and *kefitzah* "jumping": English "skip" carries both the gait and the evasion
+  ("he skipped the boring parts"), and the two are in truth conceptually
+  similar, since a skipping step is a way of not treading on what lies
+  underfoot, and the Hebrew verb covers both.
+- Rabbi Yaakov Lorberbaum of Lisa allows that *dilug* may in fact be the faster
+  motion, but holds that its focus is still on what is skipped and not on the
+  speed.
 
 ### kefitzah (קפיצה)
 Root ק-פ-ץ. The Vilna Gaon: both feet leave the ground. Rabbi Shlomo Pappenheim:
@@ -60,23 +64,25 @@ and so is the marten that jumps from the ladder to the dovecote (Bava Basra
 verbs apply to one subject.
 
 ### pesach (פסח)
-Root פ-ס-ח. Rashi (Shemos 12:11 and 12:13, Yeshayahu 31:5): an expression of
-*dilug* and *kefitzah* both. The korban carries the name because it commemorates
-Hashem's passing over the Jewish houses at makkas bechoros, and the Yom Tov is
-named after the korban. Rabbi Avigdor Nevenzahl, Chief Rabbi Emeritus of the Old
-City of Yerushalayim, supplies the *dilug*: Hashem has no body and did not
-literally jump; the Torah speaks from the vantage of the aftermath, in which the
-Egyptian firstborn died and the Jewish ones did not, so that in hindsight it
-seemed *as if* He jumped over them. What was skipped was the general
-requirement, that a man first perform some act of commitment sealing his bond
-with Hashem before Hashem lets him come close; at the Exodus, though they had
-not yet shown that desire, He did miracles for them and took them out anyway.
-Rabbi Nachshon Schiller focuses on the haste, the element Rabbi Klein ties to
-*kefitzah*: kabbalistic sources assert that
-Klal Yisrael had fallen to the forty-ninth level of *tumah*, and another moment
-in Egypt would have brought them to the fiftieth, from which there is no
-recovering, so the redemption had to be immediate, and the Korban Pesach is
-eaten *b'chipazon* (Shemos 12:11) in imitation of that haste.
+Root פ-ס-ח.
+- Rashi (Shemos 12:11 and 12:13, Yeshayahu 31:5): an expression of *dilug* and
+  *kefitzah* both. The korban carries the name because it commemorates Hashem's
+  passing over the Jewish houses at makkas bechoros, and the Yom Tov is named
+  after the korban.
+- Rabbi Avigdor Nevenzahl, Chief Rabbi Emeritus of the Old City of Yerushalayim,
+  supplies the *dilug*: Hashem has no body and did not literally jump; the Torah
+  speaks from the vantage of the aftermath, in which the Egyptian firstborn died
+  and the Jewish ones did not, so that in hindsight it seemed *as if* He jumped
+  over them. What was skipped was the general requirement, that a man first
+  perform some act of commitment sealing his bond with Hashem before Hashem lets
+  him come close; at the Exodus, though they had not yet shown that desire, He
+  did miracles for them and took them out anyway.
+- Rabbi Nachshon Schiller focuses on the haste, the element Rabbi Klein ties to
+  *kefitzah*: kabbalistic sources assert that Klal Yisrael had fallen to the
+  forty-ninth level of *tumah*, and another moment in Egypt would have brought
+  them to the fiftieth, from which there is no recovering, so the redemption had
+  to be immediate, and the Korban Pesach is eaten *b'chipazon* (Shemos 12:11) in
+  imitation of that haste.
 
 The same root gives *piseach*, the lame or immobile man. Rabbi Klein draws an
 insight of his own from this: two conceptually opposite meanings sharing one

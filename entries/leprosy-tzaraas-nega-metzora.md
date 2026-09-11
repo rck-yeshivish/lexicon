@@ -68,17 +68,21 @@ where it can be dealt with. On this reading *nega tzaraas* (Vayikra 13:2-3, 13:9
 and the mechanism that exposes it, and each word appears alone where only one of
 the two is in view.
 
-**What tzirah is.** Ibn Ezra (to Shemos 23:28, Devarim 7:20): not a hornet but a
-disease, of a piece with *tzaraas*. Ibn Janach (*Sefer HaShorashim*) traces both
-to צ-ר-ע and defines *tzirah* as destruction and pestilence. Menachem Ibn Saruk
-lists the two as separate categories under one root and entertains no thematic
-or semantic connection between them. Rabbi Shlomo Pappenheim (*Yerios Shlomo*)
-keeps the standard "hornet" and surmises that the two are connected by content:
-a hornet's sting is venomous and can prove lethal, as *tzaraas* can be poisonous
-and detrimental to a man's health. Rabbi Yehuda Aryeh of Carpentras (*Ohalei
-Yehudah*) reads *tzirah* instead as a fusion of *tzar*, enemy, and *ra*, bad,
-swarms of wasps or bees being a peculiarly formidable enemy in that they cannot
-be fought with sword and spear.
+**What tzirah is.**
+- Ibn Ezra (to Shemos 23:28, Devarim 7:20): not a hornet but a disease, of a
+  piece with *tzaraas*.
+- Ibn Janach (*Sefer HaShorashim*) traces both to צ-ר-ע and defines *tzirah* as
+  destruction and pestilence.
+- Menachem Ibn Saruk lists the two as separate categories under one root and
+  entertains no thematic or semantic connection between them.
+- Rabbi Shlomo Pappenheim (*Yerios Shlomo*) keeps the standard "hornet" and
+  surmises that the two are connected by content: a hornet's sting is venomous
+  and can prove lethal, as *tzaraas* can be poisonous and detrimental to a man's
+  health.
+- Rabbi Yehuda Aryeh of Carpentras (*Ohalei Yehudah*) reads *tzirah* instead as
+  a fusion of *tzar*, enemy, and *ra*, bad, swarms of wasps or bees being a
+  peculiarly formidable enemy in that they cannot be fought with sword and
+  spear.
 
 **Why the Torah alternates tzarua and metzora.** Four answers:
 
@@ -110,44 +114,48 @@ to substantiate.
 The noun and its inflections appear thirty-five times in Tanach, most of them in
 Vayikra 13-14, plus Devarim 24:8 (one may not evade the consequences by cutting
 the spot away), Naaman in Melachim II 5:3, 5:6-7, 5:27, and Uziyahu, struck on
-the forehead for offering the *ketores*, in Divrei HaYamim II 26:19. Gesenius
-and other philologists hold the Hebrew root related to the Arabic *sara'a*,
-being thrown down to the ground, which is where a possible connection to
-epilepsy comes from; it seems to Rabbi Klein that this literal sense refers to
-Hashem throwing a man down and humbling him by afflicting him with *tzaraas*. Rav Hirsch
-(to Vayikra 13:2) links צ-ר-ע to ז-ר-ע (*zorea*, sowing) and ז-ר-ה (*zoreh*,
-winnowing or throwing), by the interchange of tzadi with zayin and ayin with hei:
-a seed hidden underground bursts out visibly, and so a spot on the skin is the
-outward showing of a rot rooted within. Rabbi Moshe David Valle (*Kise Nachon*
-to Melachim I 11:26) parses *tzaraas* as *eis*, time, with *tzar*, constriction.
-Rabbi Avi Kobernick reads the root against its metathesised neighbours: against
-ע-צ-ר (*aritz* and *ne'eratz*, powerful, awesome and esteemed, but also, in
-*ta'arotz*, broken and subdued, the two senses reconciled on his reading because
-a man who views his enemies as powerful is thereby broken in his own eyes),
-*tzaraas* is its opposite, since sickness is bodily weakness; and with צ-ע-ר
-(*tzaar*, pain),
-since the affliction is a burden borne. The connection may run deeper:
-*Toras Kohanim* to Vayikra 13:2 says that the sufferer is pained
-by it and so are those who see him, and Chazal's use of *tzaar* there may hint
-that they too linked the words.
-Mr. Moshe Ossi (*Al Katzeh HaLashon*) suggests a connection to שׂ-ר-ע,
-expansion, the root of *sarua*, the
-overextended limb that disqualifies a Kohen or a korban (Vayikra 21:18, 22:23)
-and of *meihistarea* in Yeshayahu 28:20, since *tzaraas* spreads.
+the forehead for offering the *ketores*, in Divrei HaYamim II 26:19.
+- Gesenius and other philologists hold the Hebrew root related to the Arabic
+  *sara'a*, being thrown down to the ground, which is where a possible
+  connection to epilepsy comes from; it seems to Rabbi Klein that this literal
+  sense refers to Hashem throwing a man down and humbling him by afflicting him
+  with *tzaraas*.
+- Rav Hirsch (to Vayikra 13:2) links צ-ר-ע to ז-ר-ע (*zorea*, sowing) and ז-ר-ה
+  (*zoreh*, winnowing or throwing), by the interchange of tzadi with zayin and
+  ayin with hei: a seed hidden underground bursts out visibly, and so a spot on
+  the skin is the outward showing of a rot rooted within.
+- Rabbi Moshe David Valle (*Kise Nachon* to Melachim I 11:26) parses *tzaraas*
+  as *eis*, time, with *tzar*, constriction.
+- Rabbi Avi Kobernick reads the root against its metathesised neighbours:
+  against ע-צ-ר (*aritz* and *ne'eratz*, powerful, awesome and esteemed, but
+  also, in *ta'arotz*, broken and subdued, the two senses reconciled on his
+  reading because a man who views his enemies as powerful is thereby broken in
+  his own eyes), *tzaraas* is its opposite, since sickness is bodily weakness;
+  and with צ-ע-ר (*tzaar*, pain), since the affliction is a burden borne. The
+  connection may run deeper: *Toras Kohanim* to Vayikra 13:2 says that the
+  sufferer is pained by it and so are those who see him, and Chazal's use of
+  *tzaar* there may hint that they too linked the words.
+- Mr. Moshe Ossi (*Al Katzeh HaLashon*) suggests a connection to שׂ-ר-ע,
+  expansion, the root of *sarua*, the overextended limb that disqualifies a
+  Kohen or a korban (Vayikra 21:18, 22:23) and of *meihistarea* in Yeshayahu
+  28:20, since *tzaraas* spreads.
 
 Two names seem to come from the root: the city of Tzarah in Dan's territory,
 named eleven times in Tanach, and Tzeruah, mother of Yeravam ben Nevat (Melachim
 I 11:26). Alfred Jones, *The Proper Names of the Old Testament Scriptures
 Expounded and Illustrated* (London, 1856), p. 376, notes that her name is
 etymologically related to *tzaraas* but does not explain why she should bear so
-odd a name. *Midrash Tadshe* (*Otzar Midrashim* p. 481) does: her name alludes
-to her son's bringing a spirit of *tzaraas* on the nation and turning their
-hearts from Hashem. Rabbi Tzvi Hirsch Ferber of London, explaining that midrash:
-Yeravam put a rebellious spirit in the air that induced his generation to sin
-with him. Rabbi Moshe David Valle speculates that perhaps she was literally
-afflicted and passed her impurity to him. Pseudo-Rashi (to Divrei HaYamim II
-4:17): she was a widow, and when her husband died he spread impurity through the
-tent to all in it, as a *metzora* is a conduit of impurity.
+odd a name.
+- *Midrash Tadshe* (*Otzar Midrashim* p. 481) does: her name alludes to her
+  son's bringing a spirit of *tzaraas* on the nation and turning their hearts
+  from Hashem. Rabbi Tzvi Hirsch Ferber of London, explaining that midrash:
+  Yeravam put a rebellious spirit in the air that induced his generation to sin
+  with him.
+- Rabbi Moshe David Valle speculates that perhaps she was literally afflicted
+  and passed her impurity to him.
+- Pseudo-Rashi (to Divrei HaYamim II 4:17): she was a widow, and when her
+  husband died he spread impurity through the tent to all in it, as a *metzora*
+  is a conduit of impurity.
 
 ### nega (נגע)
 From נ-ג-ע (Ibn Janach, Radak) or the two-letter ג-ע (Ibn Saruk). The root

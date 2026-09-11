@@ -71,19 +71,20 @@ beautifying newborns as they emerged from the womb or for the bettering of Klal
 Yisrael through Torah and mitzvos, since she bore Moshe (*Sifrei Behaaloscha* 78,
 *Shemos Rabbah* 1:13, *Koheles Rabbah* 7:3, *Midrash Shmuel* 23).
 
-Rabbi Moshe Shapiro: *shapir* is a *shifal* form, the shin not radical, from
-פ-א-ר, whence *pe'er* and *tiferes*, the initial shin marking an action that
-produces *pe'er*. A popular folk etymology ties the early
-Ashkenazi surname Shapiro to *shapir*, though historians argue it more likely
-comes from the name of the German town Speyer. Rav Hirsch (to Bereishis 5:1,
-49:11), on shin/sin and beis/peh interchange, groups *shefer* with *sefer*,
-*mispar*, *sofer*, and *shover*: a *sefer* is a composite whole made of parts
-fitted together coherently, counting and number highlight the individual units
-within a whole system, and *shover* breaks the parts off the whole. From that he
-surmises that *shefer* is beauty as the fit of many parts into one order, against
-*yofi*, the outward beauty others perceive; and with that inwardness he implies
-it makes sense that *shofar* should point to the inside of the tube. Ritva notes
-that *shofar* implies something beautiful and copacetic.
+- Rabbi Moshe Shapiro: *shapir* is a *shifal* form, the shin not radical, from
+  פ-א-ר, whence *pe'er* and *tiferes*, the initial shin marking an action that
+  produces *pe'er*. A popular folk etymology ties the early Ashkenazi surname
+  Shapiro to *shapir*, though historians argue it more likely comes from the
+  name of the German town Speyer.
+- Rav Hirsch (to Bereishis 5:1, 49:11), on shin/sin and beis/peh interchange,
+  groups *shefer* with *sefer*, *mispar*, *sofer*, and *shover*: a *sefer* is a
+  composite whole made of parts fitted together coherently, counting and number
+  highlight the individual units within a whole system, and *shover* breaks the
+  parts off the whole. From that he surmises that *shefer* is beauty as the fit
+  of many parts into one order, against *yofi*, the outward beauty others
+  perceive; and with that inwardness he implies it makes sense that *shofar*
+  should point to the inside of the tube.
+- Ritva notes that *shofar* implies something beautiful and copacetic.
 
 Linguists offer another origin altogether: Avraham
 Even-Shoshan (1906-1984) and Rabbi Ernest Klein (1899-1983) claim *shofar* is

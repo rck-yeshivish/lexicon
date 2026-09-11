@@ -91,18 +91,21 @@ grasp the reasons behind the *mishpatim* and to keep those too. He describes
 pinnacle of moral perfection.
 
 ### mishpat (משפט)
-Root ש-פ-ט, "judge." Yoma 67b: the laws that would have been written had the
-Torah not commanded them (idolatry, arayos, murder, theft, blasphemy). Rabbi
-Moshe Shapiro: not "a law with a reason" by definition but a decision between
-two viable options, as a *shofet* decides between two legitimate litigants
-(*Tikkunei Zohar*, *Patach Eliyahu*: the Middle Pillar). Bedersi (*Chotam
-Tochnit*): against *din*, *mishpat* is the verdict rendered that settles the
-dispute. Pappenheim: what ethics demands; a worker's wage is a *mishpat*.
-Wertheimer: the judiciary's discretion among legal outcomes. Onkelos renders
-*mishpat* as *din* (Shemos 21:1) and as *halachah* (21:9). Keeping a *mishpat*,
-whose reason is meant to be understood, means functioning like a judge who
-weighs his options and reasons to a conclusion; a *chok* asks no such decision,
-the law being already set in stone.
+Root ש-פ-ט, "judge."
+- Yoma 67b: the laws that would have been written had the Torah not commanded
+  them (idolatry, arayos, murder, theft, blasphemy).
+- Rabbi Moshe Shapiro: not "a law with a reason" by definition but a decision
+  between two viable options, as a *shofet* decides between two legitimate
+  litigants (*Tikkunei Zohar*, *Patach Eliyahu*: the Middle Pillar).
+- Bedersi (*Chotam Tochnit*): against *din*, *mishpat* is the verdict rendered
+  that settles the dispute.
+- Pappenheim: what ethics demands; a worker's wage is a *mishpat*.
+- Wertheimer: the judiciary's discretion among legal outcomes.
+- Onkelos renders *mishpat* as *din* (Shemos 21:1) and as *halachah* (21:9).
+
+Keeping a *mishpat*, whose reason is meant to be understood, means functioning
+like a judge who weighs his options and reasons to a conclusion; a *chok* asks
+no such decision, the law being already set in stone.
 
 ### chok and mishpat as Written and Oral Torah
 Many sources tie the pair to the two Torahs, and they divide on which is which.
@@ -118,17 +121,22 @@ Oral Torah digs into the interior for the less obvious meanings and so
 corresponds to *chok*. Both readings stand, neither preferred.
 
 ### din (דין)
-Root ד-י-ן. Pappenheim: DALET-NUN is judicial decision-making and its execution;
-hence *dan*, *din* itself, *dayan*, *madon* (litigation), *adon* (one with
-jurisdiction over another, a husband over his wife or a master over his slave),
-*Adonai* as the Master of all creation, and *medinah* (the area under one court
-system). Rabbi Klein adds on his own account the given names Dan, Daniel,
-Avidan and Dinah. Bedersi: the controversy or fight between two opposing litigants, so
-a litigant is a *baal din* (Avos 4:22). A similar point is implied by *gmar
-din*, a judicial decision or sentencing. Wertheimer: the penal
-system that metes out punishment to those who break the law. Maharal: law the
-intellect presumes true; or, alternatively, law between man and his fellow, that
-is civil law. Rabbi Yosef Nechemias (to Esther 1:13): the letter of the law.
+Root ד-י-ן.
+- Pappenheim: DALET-NUN is judicial decision-making and its execution; hence
+  *dan*, *din* itself, *dayan*, *madon* (litigation), *adon* (one with
+  jurisdiction over another, a husband over his wife or a master over his
+  slave), *Adonai* as the Master of all creation, and *medinah* (the area under
+  one court system). Rabbi Klein adds on his own account the given names Dan,
+  Daniel, Avidan and Dinah.
+- Bedersi: the controversy or fight between two opposing litigants, so a
+  litigant is a *baal din* (Avos 4:22). A similar point is implied by *gmar
+  din*, a judicial decision or sentencing.
+- Wertheimer: the penal system that metes out punishment to those who break the
+  law.
+- Maharal: law the intellect presumes true; or, alternatively, law between man
+  and his fellow, that is civil law.
+- Rabbi Yosef Nechemias (to Esther 1:13): the letter of the law.
+
 *Din* is frequent in Tanach but occurs only twice in Chumash, both in the one
 pasuk charging the Sanhedrin that sits in the Mikdash with deciding "between
 *din* and *din*" (Devarim 17:8).
@@ -152,58 +160,64 @@ leumi*, and secular Israelis often call religious Jews *dosim* after the
 Ashkenazi pronunciation of the tav; but Rabbi Klein holds that the word's
 original sense may have had nothing to do with religion as such.
 
-**What separates it from *din*.** Rabbi Shmuel Laniado is clear that one of the
-two words means the Torah's laws while the other means either pragmatic
-measures for temporary circumstances or the rules set by the governing power;
-Rabbi Klein's objection is that Laniado himself is unsure which word is which.
-Rabbi Yosef Nechemias (to Esther 1:13): *din* is the letter of the law and *dat*
-what was done in practice, so that even if Vashti was within her rights not to
-appear (*din*), there might still be ground to punish her as an extra-judicial
-deterrent to others minded to defy the king (*dat*); this is why the Megillah
-puts *dat* before *din*, though in theory *din* should come first. Ibn Ezra (to
-Esther 1:3): *dat* is the law of the land, here of the kings of Persia and
-Media, and *din* the particular verdict decreed on the offender; alternatively,
-he suggests, *dat* is what Divine fate dictates and *din* what the astrological
-forces decree, a reading also cited by Rabbi Moshe Chalavah there. Maharal: the
-laws dictated by the established norms of a polity, essentially common law,
-against *din* as the laws the intellect presumes true; or, alternatively, *dat*
-is law between man and himself, ethics, morality and religion, and *din* law
-between man and his fellow. Rabbi Yosef Zecharia Stern likewise: *dat* is the
-norms a country needs for governance or for a given situation, a pragmatic
-matter, and *din* is justice set in law, a logical and moral one. Wertheimer:
-*dat* is the rule of law itself, whether revealed or merely societal, while
-*mishpat* is the judiciary's discretion and *din* the penal system. Rabbi Tzadok
-HaKohen of Lublin: *din* is law promulgated on logic and rationality, *dat* the
-ruler's prerogative to legislate by fiat even where reason does not carry it;
-Haman's charge (Esther 3:8) alluded to *dina d'malchusa dina* (see Gittin 6b),
-that a government's *din* is recognized as halachah, and his claim was that the
-Jews kept Achashverosh's *din*, rooted in reason, but not his *dat*, which might
-be irrational, and were therefore disloyal. Rabbi Tzadok adds that in Torah the
-two are a tandem, *dat* and *din* being Written and Oral Torah, both needed to
-keep the law properly.
+**What separates it from *din*.**
+- Rabbi Shmuel Laniado is clear that one of the two words means the Torah's laws
+  while the other means either pragmatic measures for temporary circumstances or
+  the rules set by the governing power; Rabbi Klein's objection is that Laniado
+  himself is unsure which word is which.
+- Rabbi Yosef Nechemias (to Esther 1:13): *din* is the letter of the law and
+  *dat* what was done in practice, so that even if Vashti was within her rights
+  not to appear (*din*), there might still be ground to punish her as an
+  extra-judicial deterrent to others minded to defy the king (*dat*); this is
+  why the Megillah puts *dat* before *din*, though in theory *din* should come
+  first.
+- Ibn Ezra (to Esther 1:3): *dat* is the law of the land, here of the kings of
+  Persia and Media, and *din* the particular verdict decreed on the offender;
+  alternatively, he suggests, *dat* is what Divine fate dictates and *din* what
+  the astrological forces decree, a reading also cited by Rabbi Moshe Chalavah
+  there.
+- Maharal: the laws dictated by the established norms of a polity, essentially
+  common law, against *din* as the laws the intellect presumes true; or,
+  alternatively, *dat* is law between man and himself, ethics, morality and
+  religion, and *din* law between man and his fellow.
+- Rabbi Yosef Zecharia Stern likewise: *dat* is the norms a country needs for
+  governance or for a given situation, a pragmatic matter, and *din* is justice
+  set in law, a logical and moral one.
+- Wertheimer: *dat* is the rule of law itself, whether revealed or merely
+  societal, while *mishpat* is the judiciary's discretion and *din* the penal
+  system.
+- Rabbi Tzadok HaKohen of Lublin: *din* is law promulgated on logic and
+  rationality, *dat* the ruler's prerogative to legislate by fiat even where
+  reason does not carry it; Haman's charge (Esther 3:8) alluded to *dina
+  d'malchusa dina* (see Gittin 6b), that a government's *din* is recognized as
+  halachah, and his claim was that the Jews kept Achashverosh's *din*, rooted in
+  reason, but not his *dat*, which might be irrational, and were therefore
+  disloyal. Rabbi Tzadok adds that in Torah the two are a tandem, *dat* and
+  *din* being Written and Oral Torah, both needed to keep the law properly.
 
-**Etymology.** Pappenheim (*Cheshek Shlomo*) traces *dat* to the biliteral
-DALET-TAV or the monoliteral DALET: practice by force of custom, whether a
-custom of one person, a family, or a nation; he also connects *odos*, on the
-topic of, to the same root.
-He contrasts *mishpat*, what ethics demands, and *chok*, what the law of the
-land demands: a worker's wage is a *mishpat*, one's taxes a *chok*, and tipping
-the bearer of good news a *dat*. Others trace *dat* to the same etymon as *din*:
-Avraham Even-Shoshan, in his Hebrew dictionary, holds the tav of *dat* to be a
-suffix added to *din* with the nun dropped, so that the two share a root, and
-Yehoshua Yaron (*Mevo L'Midrash HaLashon*) proposes much the same. The
-prevailing understanding in scholarly circles, however, is that *dat* comes from
-Old Iranian: the etymology was first proposed by Gesenius, who
-traced Hebrew and Aramaic *dat* to Persian *data*, the passive past participle
-of *da*, "to give," which linguists now trace to the Proto-Indo-European roots
-*dō-* and *dǝ-*, "to give." Benjamin J. Noonan, *Non-Semitic Loanwords
-in the Hebrew Bible: A Lexicon of Language Contact* (2019), p. 89, writes that
-no reason exists to reject the loan hypothesis and that
-Biblical Hebrew and Aramaic *dat* undoubtedly come from Old Iranian *data-*. If
-so, how does a Persian word reach Chumash, written long before the Jews met the
-Persians? Rabbi Eliyahu Benamozegh (*Eim La'Mikra* to Devarim 33:2) writes that
-this does not trouble him, since he finds Egyptian, Greek and possibly even
-Latin words in Chumash.
+**Etymology.**
+- Pappenheim (*Cheshek Shlomo*) traces *dat* to the biliteral DALET-TAV or the
+  monoliteral DALET: practice by force of custom, whether a custom of one
+  person, a family, or a nation; he also connects *odos*, on the topic of, to
+  the same root. He contrasts *mishpat*, what ethics demands, and *chok*, what
+  the law of the land demands: a worker's wage is a *mishpat*, one's taxes a
+  *chok*, and tipping the bearer of good news a *dat*.
+- Others trace *dat* to the same etymon as *din*: Avraham Even-Shoshan, in his
+  Hebrew dictionary, holds the tav of *dat* to be a suffix added to *din* with
+  the nun dropped, so that the two share a root, and Yehoshua Yaron (*Mevo
+  L'Midrash HaLashon*) proposes much the same.
+- The prevailing understanding in scholarly circles, however, is that *dat*
+  comes from Old Iranian: the etymology was first proposed by Gesenius, who
+  traced Hebrew and Aramaic *dat* to Persian *data*, the passive past participle
+  of *da*, "to give," which linguists now trace to the Proto-Indo-European roots
+  *dō-* and *dǝ-*, "to give." Benjamin J. Noonan, *Non-Semitic Loanwords in the
+  Hebrew Bible: A Lexicon of Language Contact* (2019), p. 89, writes that no
+  reason exists to reject the loan hypothesis and that Biblical Hebrew and
+  Aramaic *dat* undoubtedly come from Old Iranian *data-*. If so, how does a
+  Persian word reach Chumash, written long before the Jews met the Persians?
+  Rabbi Eliyahu Benamozegh (*Eim La'Mikra* to Devarim 33:2) writes that this
+  does not trouble him, since he finds Egyptian, Greek and possibly even Latin
+  words in Chumash.
 
 **אשדת (Devarim 33:2).** The word is obscure, and Bible critics have dealt
 with it by a heretical emendation of the penultimate letter.

@@ -50,33 +50,34 @@ it is the word the early poskim use for the Purim custom.
 
 ## Where the authorities disagree
 
-**Whether *masveh* has any relative in Tanach.** Rabbi Yehuda Chayyuj, Ibn
-Janach, Radak, and Rabbi Shlomo Ibn Parchon: *masveh* is the sole derivative of
-the root SAMECH-VAV-HEI, standing alone. Rashi suggests instead that the word
-comes from Aramaic, finding apparent cognates of it in the Gemara (Kesubos 60a,
-62b). Rashbam (to Shemos 34:33), Ibn
-Ezra (to Bereishis 49:11 and Shemos 34:33), and Chizkuni: *suto*, Yehudah's
-"clothing" in Bereishis 49:11, is its
-cognate; Menachem Ibn Saruk
-(*Machberes Menachem*) files both under the one-letter root SAMECH. On that
-reading *masveh* means a fabric before it means a mask. Donash Ibn
-Labrat, Menachem's famous interlocutor, takes *suto* as *kesuso*, "his covering,"
-with a missing KAF.
+**Whether *masveh* has any relative in Tanach.**
+- Rabbi Yehuda Chayyuj, Ibn Janach, Radak, and Rabbi Shlomo Ibn Parchon:
+  *masveh* is the sole derivative of the root SAMECH-VAV-HEI, standing alone.
+- Rashi suggests instead that the word comes from Aramaic, finding apparent
+  cognates of it in the Gemara (Kesubos 60a, 62b).
+- Rashbam (to Shemos 34:33), Ibn Ezra (to Bereishis 49:11 and Shemos 34:33), and
+  Chizkuni: *suto*, Yehudah's "clothing" in Bereishis 49:11, is its cognate;
+  Menachem Ibn Saruk (*Machberes Menachem*) files both under the one-letter root
+  SAMECH. On that reading *masveh* means a fabric before it means a mask.
+- Donash Ibn Labrat, Menachem's famous interlocutor, takes *suto* as *kesuso*,
+  "his covering," with a missing KAF.
 
-**Where *masechah* as "mask" comes from.** Ibn Janach and Radak: the root is
-NUN-SAMECH-KAF, *nesech*, pouring, hence molten metal. The same root also carries
-"hiding" and "covering," and those senses, Rabbi Reuven Chaim Klein suggests,
-would be the bridge to a mask. Alternatively, he offers, the word may be tied
-to MEM-SAMECH-KAF, mixing, both of liquids (Yeshayahu 5:22, Mishlei 9:2,
-9:5) and of threads into cloth (*masach*, a curtain; *masechet*, Shoftim
-16:13-14), which would make *masechah* and *masveh* near neighbours after all.
-That root, he adds, seems to be congruent with the more familiar
-MEM-ZAYIN-GIMMEL, "to mix" or "dilute," samech and zayin being interchangeable
-and kaf and gimmel likewise. A third line is foreign: Rabbi Dr. Ernest Klein and
-Avraham Even-Shoshan hold that Modern Hebrew *masechah* in the sense of "mask"
-also developed under the pull of phonetically similar words in other languages,
-the English *mask*, the French *masque* and the Arabic *maskhara*. The mask
-sense is post-Biblical either way.
+**Where *masechah* as "mask" comes from.**
+- Ibn Janach and Radak: the root is NUN-SAMECH-KAF, *nesech*, pouring, hence
+  molten metal. The same root also carries "hiding" and "covering," and those
+  senses, Rabbi Reuven Chaim Klein suggests, would be the bridge to a mask.
+- Alternatively, he offers, the word may be tied to MEM-SAMECH-KAF, mixing, both
+  of liquids (Yeshayahu 5:22, Mishlei 9:2, 9:5) and of threads into cloth
+  (*masach*, a curtain; *masechet*, Shoftim 16:13-14), which would make
+  *masechah* and *masveh* near neighbours after all. That root, he adds, seems
+  to be congruent with the more familiar MEM-ZAYIN-GIMMEL, "to mix" or "dilute,"
+  samech and zayin being interchangeable and kaf and gimmel likewise.
+- A third line is foreign: Rabbi Dr. Ernest Klein and Avraham Even-Shoshan hold
+  that Modern Hebrew *masechah* in the sense of "mask" also developed under the
+  pull of phonetically similar words in other languages, the English *mask*, the
+  French *masque* and the Arabic *maskhara*.
+
+The mask sense is post-Biblical either way.
 
 ## Distinctions
 
@@ -97,12 +98,14 @@ In Tanach a cast-metal figure: *egel masechah*, the molten calf (Shemos 32:4,
 32:8; Devarim 9:16; Nechemiah 9:18). Only in Modern Hebrew does it mean a mask.
 The related *masechet* has its own life: in Mishnaic Hebrew the woof threads
 running across a weave (Rabbeinu Chananel to Shabbos 59b; Rambam to Keilim 21:1;
-the Rash to Negaim 11:9), and also a tractate. *Sefer Chassidim* 929: a
-*masechta* is the woven fabric of the rulings on one topic. *Tosefos Yom Tov*
-(introduction): from *maschah yeinah*, "she mixed her wine" (Mishlei 9:2), a
-tractate being a mixture of laws. Rabbi Binyamin Mussafia suggests SAMECH-KAF, to
-listen (*haskeis*, Devarim 27:9), since listening is the core mechanism by which
-Torah she'be'al peh, typified by the Mishnah, is transmitted.
+the Rash to Negaim 11:9), and also a tractate.
+- *Sefer Chassidim* 929: a *masechta* is the woven fabric of the rulings on one
+  topic.
+- *Tosefos Yom Tov* (introduction): from *maschah yeinah*, "she mixed her wine"
+  (Mishlei 9:2), a tractate being a mixture of laws.
+- Rabbi Binyamin Mussafia suggests SAMECH-KAF, to listen (*haskeis*, Devarim
+  27:9), since listening is the core mechanism by which Torah she'be'al peh,
+  typified by the Mishnah, is transmitted.
 
 ### partzuf (פרצוף)
 Once in the Mishnah (Yevamos 16:3) and often in Gemara and Midrash, with the

@@ -58,37 +58,42 @@ outside the real.
 
 ### kazav (כזב)
 Scripture uses it plainly for falsehood: "the remnant of Israel do no iniquity
-and speak no *kazav*" (Tzefaniah 3:13). Albo: *kazav* is the break in the second
-equation, the mouth saying what the heart does not hold. The Vilna Gaon (to Mishlei 12:25) draws the line by time
-instead: *sheker* was a lie the whole time, *kazav* became a lie afterward. A
-man who says he will do what he never intended has spoken *sheker*; a man who
-meant it and then failed to keep his word has spoken *kazav*. Rabbeinu Yosef
-Bechor Shor (to Bamidbar 23:19) likewise reads *kozev* as one who does not keep
-his word. Rabbi Yehuda Leib Shapira-Frankfurter draws the consequence: the
-Torah never forbade *saying kazav*, because at the moment of speech there is no
-*kazav* yet; it becomes one retroactively. Malbim (*Yair Ohr*): *sheker* has no
-validity at all, while *kazav* has some purchase on reality, seeming true at
-first and only later fully exposed. In *Sefer HaCarmel* he adds that one
-utterance can sometimes be both at once: *sheker* from the speaker's side, who knew, and
-*kazav* from the hearer's side, who cannot yet disprove it. That is what the
-phrase *sheker v'chazav* holds together. Rav Hirsch (to Shemos 7:11, 21:17)
-links the root כ-ז-ב to כ-ש-ף, witchcraft: what looks real on the surface and
-proves wholly untrue, and Yechezkel indeed uses *kazav* of witchery (13:6, 13:7,
-13:9, 21:34, 22:28).
+and speak no *kazav*" (Tzefaniah 3:13).
+- Albo: *kazav* is the break in the second equation, the mouth saying what the
+  heart does not hold.
+- The Vilna Gaon (to Mishlei 12:25) draws the line by time instead: *sheker* was
+  a lie the whole time, *kazav* became a lie afterward. A man who says he will
+  do what he never intended has spoken *sheker*; a man who meant it and then
+  failed to keep his word has spoken *kazav*. Rabbeinu Yosef Bechor Shor (to
+  Bamidbar 23:19) likewise reads *kozev* as one who does not keep his word.
+  Rabbi Yehuda Leib Shapira-Frankfurter draws the consequence: the Torah never
+  forbade *saying kazav*, because at the moment of speech there is no *kazav*
+  yet; it becomes one retroactively.
+- Malbim (*Yair Ohr*): *sheker* has no validity at all, while *kazav* has some
+  purchase on reality, seeming true at first and only later fully exposed. In
+  *Sefer HaCarmel* he adds that one utterance can sometimes be both at once:
+  *sheker* from the speaker's side, who knew, and *kazav* from the hearer's
+  side, who cannot yet disprove it. That is what the phrase *sheker v'chazav*
+  holds together.
+- Rav Hirsch (to Shemos 7:11, 21:17) links the root כ-ז-ב to כ-ש-ף, witchcraft:
+  what looks real on the surface and proves wholly untrue, and Yechezkel indeed
+  uses *kazav* of witchery (13:6, 13:7, 13:9, 21:34, 22:28).
 
 ### kachash (כחש)
 Usually rendered "denial," and forbidden in the same pasuk as *sheker* (Vayikra
-19:11). Malbim (*Sefer HaCarmel*): a *sheker* meets no immediate contradiction
-when it is spoken, while a *kachash* is contradicted before it is uttered, said
-into the teeth of the other party's claim. Rav Hirsch (to Vayikra 5:21, 19:11,
-Devarim 9:7) makes it a false *reaction* to another's claim, and contrasts it
-with *ka'as*, anger (taking ches with ayin and shin with samech as
-interchangeable): *ka'as* is a real and warranted response to another's
-wrongdoing, *kachash* a manufactured response of denial to another's warranted
-claim. Rabbi Yonah Wilheimer sets *kazav* against *kachash* as the two shapes a
-lie can take: *kazav* says of what is not that it is (fabrication), *kachash*
-says of what is that it is not (denial). It would seem, Rabbi Klein adds, that on
-Rabbi Wilheimer's reading *sheker* is then an umbrella term over both.
+19:11).
+- Malbim (*Sefer HaCarmel*): a *sheker* meets no immediate contradiction when it
+  is spoken, while a *kachash* is contradicted before it is uttered, said into
+  the teeth of the other party's claim.
+- Rav Hirsch (to Vayikra 5:21, 19:11, Devarim 9:7) makes it a false *reaction*
+  to another's claim, and contrasts it with *ka'as*, anger (taking ches with
+  ayin and shin with samech as interchangeable): *ka'as* is a real and warranted
+  response to another's wrongdoing, *kachash* a manufactured response of denial
+  to another's warranted claim.
+- Rabbi Yonah Wilheimer sets *kazav* against *kachash* as the two shapes a lie
+  can take: *kazav* says of what is not that it is (fabrication), *kachash* says
+  of what is that it is not (denial). It would seem, Rabbi Klein adds, that on
+  Rabbi Wilheimer's reading *sheker* is then an umbrella term over both.
 
 Rabbi Shlomo Aharon Wertheimer seems to grade all three by how soon the lie can
 be caught: *sheker*, everyone knows it is false the moment it leaves the mouth;

@@ -83,13 +83,14 @@ defenseless, while the *aryeh* takes the beasts of the forest. Moreover, Tehilli
 to hunt. *Zohar* (Terumah 143a): a *kfir* is a small, weak lion.
 
 ### not lions at all
-The Italian scholar Rabbi Yishaya of Trani (to Hoshea 13:8): *lavi* and *laviyah*
-are a different species from lions altogether, though he himself admits that
-*shachal* and *shachatz* are words for lion. Rabbi Pinchas Eliyahu Horowitz of
-Vilna, in his scientific almanac *Sefer HaBris*: *shachal* is a panther and
-*layish* a leopard, and he understood these not to be alternate words for "lion."
-Rabbi Shlomo Pappenheim similarly: *namer*, *lavi* and *shachal* are all words
-for a spotted leopard, or perhaps a tiger.
+- The Italian scholar Rabbi Yishaya of Trani (to Hoshea 13:8): *lavi* and
+  *laviyah* are a different species from lions altogether, though he himself
+  admits that *shachal* and *shachatz* are words for lion.
+- Rabbi Pinchas Eliyahu Horowitz of Vilna, in his scientific almanac *Sefer
+  HaBris*: *shachal* is a panther and *layish* a leopard, and he understood
+  these not to be alternate words for "lion."
+- Rabbi Shlomo Pappenheim similarly: *namer*, *lavi* and *shachal* are all words
+  for a spotted leopard, or perhaps a tiger.
 
 ## Rendering guidance
 

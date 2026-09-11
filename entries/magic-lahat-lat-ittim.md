@@ -98,16 +98,17 @@ sense (*Moreh Nevuchim* 3:46).
 ## Distinctions
 
 ### lahat (להט)
-Menachem Ibn Saruk lists it under ל-ה-ט, a root carrying two senses, "flame or
-blade" and "a type of *kishuf*." Radak also entertains this
-possibility, suggesting that some forms of magic call for a sharp sword.
-Menachem never lists *lat* at all in *Machberet Menachem*, so there is no telling
-which root he would have put it under. Rashi (to Shemos 7:11) connects the magical sense
-to the *lahat hacherev hamis'hapeches* of Bereishis 3:24: the ever-turning sword
-looks to an onlooker as though something had been said over it. Rabbi Shlomo
-Pappenheim (*Cheshek Shlomo*) works from the biliteral ט-ל, "folding": a blade
-or flame seems to fold through what it cuts or burns, and *lahat* was borrowed
-for the fast folding motion of a conjuror's hands.
+- Menachem Ibn Saruk lists it under ל-ה-ט, a root carrying two senses, "flame or
+  blade" and "a type of *kishuf*." Radak also entertains this possibility,
+  suggesting that some forms of magic call for a sharp sword. Menachem never
+  lists *lat* at all in *Machberet Menachem*, so there is no telling which root
+  he would have put it under.
+- Rashi (to Shemos 7:11) connects the magical sense to the *lahat hacherev
+  hamis'hapeches* of Bereishis 3:24: the ever-turning sword looks to an onlooker
+  as though something had been said over it.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) works from the biliteral ט-ל,
+  "folding": a blade or flame seems to fold through what it cuts or burns, and
+  *lahat* was borrowed for the fast folding motion of a conjuror's hands.
 
 ### lat (לט)
 Ramban derives it from the biliteral ל-ט, "clandestine" (Shmuel I 18:22), fitting
@@ -117,18 +118,22 @@ gets there through "folding" too: folded cloth conceals what is inside, and
 *lat* is the trick of folding a stone into a cloth and drawing out a bird.
 
 ### ittim (אטים)
-Yeshayahu 19:3, among Egypt's diviners. Menachem and Radak trace it to the
-biliteral א-ט and define it as a kind of *kishuf*; Ibn Janach makes it a kind of
-astrologer. Rabbi Shlomo Pappenheim reads the root as "slow movement": *ittim*
-are magicians who worked deliberately slowly when performing their rites, to
-heighten the drama and persuade the onlookers that the acts worked. Rashi (to
-Yeshayahu 19:3) takes *ittim* as the name of an idolatrous deity instead, which
-is often identified with the Egyptian god Atum or the Sumerian
-Ittyi. The same root gives *l'at*, "slowly, gently" (Bereishis 33:14; Shmuel II
-18:5; Yeshayahu 8:6; Iyov 15:11), and the lexicographers dispute whether the
-opening *lamed* is a radical. Rabbi Klein raises א-ט as a root seemingly related to
-all of this, but says plainly that he has found no one who explicitly connects
-*lat* or *lahat* to it.
+Yeshayahu 19:3, among Egypt's diviners.
+- Menachem and Radak trace it to the biliteral א-ט and define it as a kind of
+  *kishuf*.
+- Ibn Janach makes it a kind of astrologer.
+- Rabbi Shlomo Pappenheim reads the root as "slow movement": *ittim* are
+  magicians who worked deliberately slowly when performing their rites, to
+  heighten the drama and persuade the onlookers that the acts worked.
+- Rashi (to Yeshayahu 19:3) takes *ittim* as the name of an idolatrous deity
+  instead, which is often identified with the Egyptian god Atum or the Sumerian
+  Ittyi.
+
+The same root gives *l'at*, "slowly, gently" (Bereishis 33:14; Shmuel II 18:5;
+Yeshayahu 8:6; Iyov 15:11), and the lexicographers dispute whether the opening
+*lamed* is a radical. Rabbi Klein raises א-ט as a root seemingly related to all
+of this, but says plainly that he has found no one who explicitly connects *lat*
+or *lahat* to it.
 
 ## Rendering guidance
 

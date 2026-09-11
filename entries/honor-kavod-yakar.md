@@ -45,26 +45,28 @@ Rabbi Avraham Vilner (*Be'er Avraham* to Esther 1:4) says the reverse: *kavod* i
 one's importance relative to others.
 
 ### yakar (יקר)
-Root י-ק-ר: precious, expensive, honorable. Rabbi Eliyahu Bachur (*Sefer
-HaTishbi*): whatever is precious becomes expensive. Indeed, by the law of supply
-and demand, the rarer a thing the higher its price. Rabbi
-Pappenheim, explaining the initial yod as radical, traces it to
-ק-ר, a strong impact from great weight or speed: the *yakar* thing makes an
-impact by its mere mention, as a precious gem (Yechezkel 27:22); the rare thing
-(prophecy in Shmuel's youth, Shmuel I 3:1) impresses more than the common one;
-the costly thing is costly because esteemed or scarce, so "the death of His
-pious ones is *yakar* in Hashem's eyes" (Tehillim 116:15) means He is loath to
-let them die without cause. Malbim splits Rabbi Pappenheim's two senses between
-the two words: *yakar* is primarily "rare", importance that comes from
-circumstance, from having few equals (gems and precious metals might be
-examples), not from inherent worth. Rabbi Avraham Vilner, the Vilna Gaon's son, writes the exact opposite of
-Malbim: *yakar* is inherent value needing no comparison, and *kavod* is one's
-standing over against others. Rabbi Klein's own verdict on the pair is that
-this puts us back at square one.
+Root י-ק-ר: precious, expensive, honorable.
+- Rabbi Eliyahu Bachur (*Sefer HaTishbi*): whatever is precious becomes
+  expensive. Indeed, by the law of supply and demand, the rarer a thing the
+  higher its price.
+- Rabbi Pappenheim, explaining the initial yod as radical, traces it to ק-ר, a
+  strong impact from great weight or speed: the *yakar* thing makes an impact by
+  its mere mention, as a precious gem (Yechezkel 27:22); the rare thing
+  (prophecy in Shmuel's youth, Shmuel I 3:1) impresses more than the common one;
+  the costly thing is costly because esteemed or scarce, so "the death of His
+  pious ones is *yakar* in Hashem's eyes" (Tehillim 116:15) means He is loath to
+  let them die without cause.
+- Malbim splits Rabbi Pappenheim's two senses between the two words: *yakar* is
+  primarily "rare", importance that comes from circumstance, from having few
+  equals (gems and precious metals might be examples), not from inherent worth.
+- Rabbi Avraham Vilner, the Vilna Gaon's son, writes the exact opposite of
+  Malbim: *yakar* is inherent value needing no comparison, and *kavod* is one's
+  standing over against others.
+
+Rabbi Klein's own verdict on the pair is that this puts us back at square one.
 In Esther the noun *yikar* is excellence, esteem, honorableness: Achashverosh's
-display (1:4),
-wives giving *yikar* to husbands (1:20), the *yikar* due Mordechai (6:3, 6:6),
-and the Jews' *yikar* at the resolution (8:16).
+display (1:4), wives giving *yikar* to husbands (1:20), the *yikar* due
+Mordechai (6:3, 6:6), and the Jews' *yikar* at the resolution (8:16).
 
 ### The Aramaic question
 Rabbi Eliyahu Bachur (*Meturgeman*): Targum tends to render כ-ב-ד, both "heavy" (Shemos

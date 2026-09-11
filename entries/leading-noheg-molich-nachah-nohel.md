@@ -54,20 +54,20 @@ leading, a stronger man leading weaker ones or an older leading younger and
 using that greatness to help them, while *noheg* can sometimes name leading someone or
 something to its downfall.
 
-Rabbi Shlomo Aharon Wertheimer: *noheg* implies leading from a position of power
-and strength, as when Hashem "led" the east wind before the makkah of arbeh
-(Shemos 10:13). Malbim (to Shemos 10:13) reads the same pasuk as deliberate
-intervention, Hashem stepping into nature to bring about what would not have
-happened on its own, in contrast to the more hands-off *nachah* and *nohel*.
-Malbim (to Tehillim 31:4) elsewhere frames it as *nachas* (a word Rabbi Klein
-finds difficult to render, perhaps closest to pleasantness and calm): *nachah*
-and *nohel* lead with *nachas*,
-*noheg* is heavy-handed; Rabbi Yosef Shapotshnick of London (*Revid HaZahav* to
-the Siddur, on Az Yashir) explains similarly. Rav Hirsch, who was
-Shapira-Frankfurter's great-nephew, puts it a third way (to Shemos 13:17):
-*noheg* is blind following, the led not giving it much thought, while *nachah*
-implies a shared mind, the led seeing their leader as bringing them to a goal
-they want.
+- Rabbi Shlomo Aharon Wertheimer: *noheg* implies leading from a position of
+  power and strength, as when Hashem "led" the east wind before the makkah of
+  arbeh (Shemos 10:13).
+- Malbim (to Shemos 10:13) reads the same pasuk as deliberate intervention,
+  Hashem stepping into nature to bring about what would not have happened on its
+  own, in contrast to the more hands-off *nachah* and *nohel*. Malbim (to
+  Tehillim 31:4) elsewhere frames it as *nachas* (a word Rabbi Klein finds
+  difficult to render, perhaps closest to pleasantness and calm): *nachah* and
+  *nohel* lead with *nachas*, *noheg* is heavy-handed; Rabbi Yosef Shapotshnick
+  of London (*Revid HaZahav* to the Siddur, on Az Yashir) explains similarly.
+- Rav Hirsch, who was Shapira-Frankfurter's great-nephew, puts it a third way
+  (to Shemos 13:17): *noheg* is blind following, the led not giving it much
+  thought, while *nachah* implies a shared mind, the led seeing their leader as
+  bringing them to a goal they want.
 
 Derivatives: *manhig* (leader), and in later Hebrew *nahag* (driver) and *hegeh*
 (steering wheel). *Higayon* in the sense of logic or dialectics is a medieval
@@ -137,51 +137,56 @@ version of Rabbi Pappenheim's whole scheme. Later Hebrew gives *menahel*,
 principal or manager, *hanhalah*, administration, and *mankal*, a contraction of
 *menahel klali*, general manager.
 
-Rabbi Shimon Goldblit (*Leshon Chachamim*) shifts the pieces: for him *noheg*
-is the protective leading (much as Rabbi Pappenheim explains *nachah*), which is
-why Tehillim 78:52 uses *vayenahageim* of Hashem bringing the Jews safely
-through a desolate place, while *nohel* is the leading that also actively
-advances them. On that basis he explains the yeshivos' calling their
-administrator a *menahel*: he clears the obstacles and also sees to each
-student's growth. Rabbi Tedeschi Ashkenazi reads *noheg* the other way about:
-he insists it is leading passively, the leader standing before or behind while
-his charges travel forward of their own accord, and *nohel* is the leader who
-actively has a hand in taking them farther than they could have gone alone.
-Malbim adds that *nohel* is used specifically of leading those already tired or
-spent, who need extra encouragement and inspiration to reach what they can.
+- Rabbi Shimon Goldblit (*Leshon Chachamim*) shifts the pieces: for him *noheg*
+  is the protective leading (much as Rabbi Pappenheim explains *nachah*), which
+  is why Tehillim 78:52 uses *vayenahageim* of Hashem bringing the Jews safely
+  through a desolate place, while *nohel* is the leading that also actively
+  advances them. On that basis he explains the yeshivos' calling their
+  administrator a *menahel*: he clears the obstacles and also sees to each
+  student's growth.
+- Rabbi Tedeschi Ashkenazi reads *noheg* the other way about: he insists it is
+  leading passively, the leader standing before or behind while his charges
+  travel forward of their own accord, and *nohel* is the leader who actively has
+  a hand in taking them farther than they could have gone alone.
+- Malbim adds that *nohel* is used specifically of leading those already tired
+  or spent, who need extra encouragement and inspiration to reach what they can.
 
-On the root: Rabbi Yosef Grayever of Ostrow (*Gelilei Chesef*) has a long
-exposition on the biliteral string ה-ל, which he takes as the ultimate root of
-many Hebrew words and whose core sense he gives as separating. *Nohel* on his
-account is actively supervising those in one's charge, thinking how to aid them
-and doing all one can to save them and separate them from whatever harm may
-come, which, Rabbi Klein notes, somewhat resembles Rabbi Pappenheim and Rabbi
-Goldblit in making *nohel* an active leading. Under the same string Rabbi
-Grayever gathers *ohel*, a tent, which separates a private space out of a public one; *hilula*,
-a wedding in Talmudic Aramaic, marriage separating a woman from every man but
-her husband, though in later kabbalistic usage the word means the celebration of
-a yahrzeit; *hallel* and *tehillah*, praise being a way of saying that what is
-praised stands out and apart; *holelus*, foolishness, an unworthy pursuit one
-ought to separate from; *hilulim* (Vayikra 19:24), the fourth-year fruits set
-apart to be brought to the Beis HaMikdash; *ahal*, aloe, a fragrance that
-carries farther than others and so is classed separately; *halah*, henceforth,
-marking off a stretch of time or space; *halom*, here, a place set apart by its
-importance; *yahal* and *halo*, illumination, since spreading light lets a
-person tell one object from another; and *halmah*, breaking, smashing a thing
-into separate parts. Rabbi David Chaim Chelouche (*Ohr Chadash* to Bereishis
-33:14) takes the same two letters as "light": the leader's task is to enlighten
-those in his charge as to the right path and help them follow it. Rabbi Shmuel
-Yehudah Steiger (*Avnei Shayish*) and Mr. Yehoshua Yaron of Haifa (*Mevo
-L'Midrash HaLashon*) see *nohel* and *noheg* both from נ-ה, with an added lamed
-or gimmel, in the sense of drawing or pulling, the leader taking the initiative
-and pulling his people along a path; so *vayinahu* (Shmuel I 7:2) of the Jews
-letting themselves be drawn after Hashem's dictates. They take *nachah* from the
-same root with a ches set between the nun and the hei, and connect to it a rare
-verb form of *nahar*, to lead, which occurs four times in Tanach (Yeshayahu 2:2;
-Yirmiyahu 31:12, 51:44; Michah 4:1), a river's current pulling water along a
-course as a leader draws those under him along his. Later Hebrew gives *menahel*
-(principal), *hanhalah* (administration), and *mancheh* (master of ceremonies)
-from *nachah*.
+On the root:
+- Rabbi Yosef Grayever of Ostrow (*Gelilei Chesef*) has a long exposition on the
+  biliteral string ה-ל, which he takes as the ultimate root of many Hebrew words
+  and whose core sense he gives as separating. *Nohel* on his account is
+  actively supervising those in one's charge, thinking how to aid them and doing
+  all one can to save them and separate them from whatever harm may come, which,
+  Rabbi Klein notes, somewhat resembles Rabbi Pappenheim and Rabbi Goldblit in
+  making *nohel* an active leading. Under the same string Rabbi Grayever gathers
+  *ohel*, a tent, which separates a private space out of a public one; *hilula*,
+  a wedding in Talmudic Aramaic, marriage separating a woman from every man but
+  her husband, though in later kabbalistic usage the word means the celebration
+  of a yahrzeit; *hallel* and *tehillah*, praise being a way of saying that what
+  is praised stands out and apart; *holelus*, foolishness, an unworthy pursuit
+  one ought to separate from; *hilulim* (Vayikra 19:24), the fourth-year fruits
+  set apart to be brought to the Beis HaMikdash; *ahal*, aloe, a fragrance that
+  carries farther than others and so is classed separately; *halah*, henceforth,
+  marking off a stretch of time or space; *halom*, here, a place set apart by
+  its importance; *yahal* and *halo*, illumination, since spreading light lets a
+  person tell one object from another; and *halmah*, breaking, smashing a thing
+  into separate parts.
+- Rabbi David Chaim Chelouche (*Ohr Chadash* to Bereishis 33:14) takes the same
+  two letters as "light": the leader's task is to enlighten those in his charge
+  as to the right path and help them follow it.
+- Rabbi Shmuel Yehudah Steiger (*Avnei Shayish*) and Mr. Yehoshua Yaron of Haifa
+  (*Mevo L'Midrash HaLashon*) see *nohel* and *noheg* both from נ-ה, with an
+  added lamed or gimmel, in the sense of drawing or pulling, the leader taking
+  the initiative and pulling his people along a path; so *vayinahu* (Shmuel I
+  7:2) of the Jews letting themselves be drawn after Hashem's dictates. They
+  take *nachah* from the same root with a ches set between the nun and the hei,
+  and connect to it a rare verb form of *nahar*, to lead, which occurs four
+  times in Tanach (Yeshayahu 2:2; Yirmiyahu 31:12, 51:44; Michah 4:1), a river's
+  current pulling water along a course as a leader draws those under him along
+  his.
+
+Later Hebrew gives *menahel* (principal), *hanhalah* (administration), and
+*mancheh* (master of ceremonies) from *nachah*.
 
 ## Rendering guidance
 
