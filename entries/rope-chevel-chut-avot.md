@@ -122,7 +122,7 @@ Once in the Chumash, when Avraham swore to the king of Sedom that he would take
 nothing of the spoil, "from a *chut* to a shoelace" (Bereishis 14:23), and six
 more times in Tanach: the beloved's lips like a crimson *chut* (Shir HaShirim
 4:3), and the *chut hameshulash* that is not quickly undone (Koheles 4:12), which Chazal read of three generations of talmidei
-chachamim, in whom Torah becomes fixed (Bava Basra 59a as the column cites it).
+chachamim, in whom Torah becomes fixed (Bava Basra 59a).
 Two Mishnaic words grow from it: *chayat*, the tailor, and *machat*, the needle.
 
 ### chevel (חבל)

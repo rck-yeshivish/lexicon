@@ -44,7 +44,7 @@ punishment aspect (*Yevamos* 2b; *Sifrei Naso* 1 are the column's examples).
 The early lexicographers (Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak,
 and Rabbi Shlomo Ibn Parchon, the twelfth-century author of
 *Machberes He'Aruch*) all take ז-ה-ר as one triliteral root carrying two very
-distinct senses, warning and light (Hoshea 7:16, Tehillim 132:12), and none of
+distinct senses, warning and light, and none of
 them intimates a connection between the two. Maimonides' son, Rabbi Avraham
 Maimuni, joins them: the root means light or brilliance (*zohar*), and one
 illuminates another's intellectual perception by instructing him as to his
@@ -137,4 +137,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shavuot: Brilliant Prohibitions](https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions)," *What's in a Word?*, Ohr Somayach, 15 May 2021.
 
-Cited in the essay: Bereishis 39:20, 40:3; Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Hoshea 7:16; Yechezkel 3:17; Tehillim 106:27, 132:12; Rus 3:2; Koheles 4:14; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1 and 4:1, *Sanhedrin* 7:7, *Kerisos* 3:10; *Yevamos* 2b; *Sifrei Naso* 1; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Radak; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*; Rabbi Avraham Maimuni; Rabbeinu Efrayim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Yehuda Ibn Chayyuj; Rabbi Jose Faur.
+Cited in the essay: Bereishis 39:20, 40:3; Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Yechezkel 3:17; Tehillim 106:27; Rus 3:2; Koheles 4:14; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1 and 4:1, *Sanhedrin* 7:7, *Kerisos* 3:10; *Yevamos* 2b; *Sifrei Naso* 1; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Radak; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*; Rabbi Avraham Maimuni; Rabbeinu Efrayim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Yehuda Ibn Chayyuj; Rabbi Jose Faur.

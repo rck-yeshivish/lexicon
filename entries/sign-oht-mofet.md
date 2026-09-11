@@ -103,8 +103,8 @@ the Earthly realm. He then concludes that *oht* and *mofet* are simply synonyms
 meaning exactly the same thing. The column does not set Radak and Rabbi
 Rappaport against each other; it presents each in turn.
 
-**Whether they are synonyms.** Ramban cites the Sifrei (the column gives the
-locus as Bamidbar 6:3), which explicitly notes that *oht* and *mofet* are the
+**Whether they are synonyms.** Ramban cites the Sifrei (to Bamidbar 6:3), which
+explicitly notes that *oht* and *mofet* are the
 same thing, and explains that this does not literally mean the two are true
 synonyms bearing exactly the same meaning, only that both refer to the same sort
 of phenomenon. *Midrash Lekach Tov*, also known as *Pesikta Zutrasa*, cites the
@@ -162,4 +162,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Sign is Coming](https://articles.ohr.edu/articles/the-sign-is-coming)," *What's in a Word?*, Ohr Somayach, 12 January 2019.
 
-Cited in the essay: Bereishis 1:14; Shemos 7:9 with Sforno, 10:1-2, 11:9-10, 12:13, 13:9, 13:16; Bamidbar 2:2; Devarim 13:2 with Ramban; the *Sifrei*, cited to Bamidbar 6:3; *Midrash Lekach Tov* (*Pesikta Zutrasa*); *Devarim Rabbah* §7:9; Radak, *Sefer HaShorashim*; Malbim; Abarbanel; Rabbi Shmuel Ibn Tibbon; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim.
+Cited in the essay: Bereishis 1:14; Shemos 7:9 with Sforno, 10:1-2, 11:9-10, 12:13, 13:9, 13:16; Bamidbar 2:2; Devarim 13:2 with Ramban; the *Sifrei* to Bamidbar 6:3; *Midrash Lekach Tov* (*Pesikta Zutrasa*); *Devarim Rabbah* §7:9; Radak, *Sefer HaShorashim*; Malbim; Abarbanel; Rabbi Shmuel Ibn Tibbon; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim.
