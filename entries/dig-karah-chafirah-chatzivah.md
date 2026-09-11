@@ -32,9 +32,9 @@ Netziv, Rav Hirsch).
 
 ### karah (כרה)
 Root כ-ר-ה; fifteen Biblical occurrences in the sense of digging, by Even
-Shoshan's concordance. The column starts from the oddity that the first Mishnah
-in Bava Kamma (1:1) lists *bor* second of the four categories of damages, and the
-pasuk grounding it uses the relatively obscure *karah* (Shemos 21:33-34), while
+Shoshan's concordance. The first Mishnah in Bava Kamma (1:1) lists *bor* second
+of the four categories of damages, and, oddly, the pasuk grounding it uses the
+relatively obscure *karah* (Shemos 21:33-34), while
 the Mishnah itself consistently says *chofer* for making a *bor* (Sheviis 3:10,
 Bava Kamma 5:5, Bava Basra 2:12). Malbim: the
 first stage of digging a pit, which is why "he dug (*karah*) a pit and dug it

@@ -94,7 +94,7 @@ Targumim and Midrashim together give good tidings, thanksgiving and berachos to
 Hashem, agricultural fecundity, song, verbal cleverness, and even the shofar,
 from which the column reads Naftali as the quick and persuasive communicator.
 
-### The question the column opens with, and its answer
+### Why Torah mastery went to Yissachar and not Naftali
 Yaakov gave Yissachar and Naftali essentially the same berachah, that they
 excel in Torah, and the only difference is the word: *na'eimah* for Yissachar
 (Bereishis 49:14, read of Torah by Bereishis Rabbah 98:12, with the Zohar

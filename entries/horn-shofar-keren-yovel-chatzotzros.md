@@ -38,12 +38,11 @@ halachah turns on the bovine horn being *called* a *keren*.
 ## Distinctions
 
 ### shofar (שופר)
-The column opens on the Mishnah (*Rosh Hashanah* 3:2), which disqualifies a
-bovine horn for the mitzvah, and on the Gemara there, in both Bavli and
-Yerushalmi, which grounds that in the bovine horn's being called a *keren*
-(Devarim 33:17; see also *Gittin* 2:3, *Keilim* 11:7) and not a *shofar*, while
-the ram's horn is called both, or at least is not called a *keren*. Its question
-is why a word should disqualify if both words mean "horn."
+The Mishnah (*Rosh Hashanah* 3:2) disqualifies a bovine horn for the mitzvah,
+and the Gemara there, in both Bavli and Yerushalmi, grounds that in the bovine
+horn's being called a *keren* (Devarim 33:17; see also *Gittin* 2:3, *Keilim*
+11:7) and not a *shofar*, while the ram's horn is called both, or at least is
+not called a *keren*. Why should a word disqualify if both words mean "horn"?
 
 Ramban: while attached, every horn is a *keren*; detached, two kinds part
 company. One is hollow but naturally packed with a filling that must be drawn
@@ -162,7 +161,7 @@ something like pointy or protruding, and behind them stand *unicorn*, *capricorn
 that these derive from the Hebrew *keren*, and some have argued it; but linguists
 take the Latin and Greek as tributaries of the Proto-Indo-European root *ker*, so
 the n-sound does not seem integral to the original root, which makes the tie to
-*keren* harder. The column's own closing thought is that on Rabbi Pappenheim's
+*keren* harder. Rabbi Klein's own thought is that on Rabbi Pappenheim's
 reckoning the nun of *keren* is likewise not part of the core root, so perhaps
 there is something to the connection after all.
 

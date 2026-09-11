@@ -107,7 +107,7 @@ often interchangeable, with only a slight nuance between them: *netirah* is
 localized, specific guardianship, *netzirah* is watching in a general sense.
 
 ### The names
-The column closes with an onomastic aside. Several names look related to
+Several names look related to
 *shemirah*: the places Shamir (Yehoshua 15:48; Shoftim 10:1 to 10:2), Shomron
 (Samaria, over 110 times in Tanach), Shamrayin (its Aramaic name, Ezra 4:10,
 4:17) and Shimron (Yehoshua 11:1, 12:20, 19:15); and the personal names Shemer,

@@ -20,8 +20,8 @@ to the language of Chazal, not to Tanach. *Shenhav* (plural *shenhabim*) is the
 biblical word, and most of the commentators render it **ivory**, not the animal
 (Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo). A minority read it as
 the elephant itself (Ibn Janach, HaKallir, Rabbi Avraham ben Shlomo, and the
-commentary printed as Rashi to Divrei HaYamim). Even on the minority reading, as
-the column's own summary has it, the word focuses on the elephant specifically as
+commentary printed as Rashi to Divrei HaYamim). Even on the minority reading,
+Rabbi Klein holds, the word focuses on the elephant specifically as
 the source of ivory. That is the difference the column settles on: *shenhav*
 names the beast for its tusks, while
 post-biblical *pil* names it for other properties, its superlative mass or
@@ -89,7 +89,7 @@ whatever stood between. Where the word comes from within Hebrew is unsettled:
   buries its victims." The column offers all this humbly as a suggestion,
   farfetched as it may sound, not as a received reading.
 
-The column closes with a further curiosity: the *Oxford English Dictionary*
+The *Oxford English Dictionary*
 cites the suggestion that English *elephant* derives ultimately from the Hebrew
 *elef*, ox, which might itself be related to *pil*/*pila* by metathesis; and the
 Jewish surnames Helfand, Gelfand and Elfant all mean "elephant."

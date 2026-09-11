@@ -78,7 +78,7 @@ the day, because the sun generally remains in the southern hemisphere of the
 celestial map during the day. *Negev* is literally "dry," because the southern
 part of Eretz Yisrael is a dry and arid desert-land, so like *yam* it is a name
 taken from the land itself. *Teiman* and *yamin* are "right," again from an
-east-facing stance. The column closes with a geographical anomaly: the Hebrew
+east-facing stance. Rabbi Klein points to a geographical anomaly: the Hebrew
 words for left and right turn up in place-names near the Gulf of Aden between
 Africa and Arabia, so that one travelling northwards there approaches Yemen
 (related to *yemin*) on his right and Somalia (related to *smol*) on his left.

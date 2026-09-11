@@ -27,7 +27,7 @@ young one, a **foal**; *pered* is the **mule**. Zecharyah 9:9 puts *chamor* and
 ## Distinctions
 
 ### The English words, before the Hebrew ones
-The column opens by sorting the English, because the English is what blurs. The
+It is the English that blurs the distinctions. The
 older word is *ass*, from Latin *asinus*, with cognates across Indo-European:
 Greek *onos*, and possibly the Sumerian *anse*; English keeps others in
 *onager* (Middle English for a wild donkey), *easel* (a wooden frame that looks

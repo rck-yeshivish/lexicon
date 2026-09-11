@@ -32,15 +32,14 @@ to *din*.
 ## Distinctions
 
 ### din (דין)
-The column opens from the Mishnah (Rosh Hashanah 1:2) that on Rosh Hashanah all
+The Mishnah (Rosh Hashanah 1:2) teaches that on Rosh Hashanah all
 the inhabitants of the world pass before Hashem like the animals of a corral and
 He judges the whole of Creation, which is why the day is *Yom HaDin*; but Yom
 Kippur is called the Day of Judgment as well, so what separates them? Ramban:
 Rosh Hashanah is *din b'rachamim*, judgment inside mercy, and Yom Kippur is
-*rachamim b'din*, mercy inside judgment. The column calls the distinction
-cryptic and takes up only the Rosh Hashanah half, leaving Yom Kippur for another
-time, so nothing here explains *rachamim b'din*. Rabbi Reuven Chaim Klein
-unpacks *din* through
+*rachamim b'din*, mercy inside judgment. Rabbi Reuven Chaim Klein calls the
+distinction cryptic and explains only the Rosh Hashanah half, so nothing here
+explains *rachamim b'din*. He unpacks *din* through
 a mashal of two philanthropists. Both give large sums, but the second vets every
 applicant, weighs the cause, and sets the amount by what the man before him
 merits. That is *din*: the receiver is the object of focus, so the influx can be
@@ -75,8 +74,8 @@ principle in dipping the apple in honey, honey being sweet and so itself
 (Tehillim 81:4) along the same line: the Rosh Chodesh side of the day, the side
 that carries the *din*, is the concealed one.
 
-The column closes by asking what such concealment can accomplish, since we can
-hardly be fooling anyone by closing our eyes to the *din*. Its answer is that
+Rabbi Klein asks what such concealment can accomplish, since we can
+hardly be fooling anyone by closing our eyes to the *din*. His answer is that
 the concealment works by moving the object of focus. If we are judged, we are
 the object of focus, and with our sins that is a poor place to stand; so on Rosh
 Hashanah we do not speak of sins at all, but of Hashem's greatness and His

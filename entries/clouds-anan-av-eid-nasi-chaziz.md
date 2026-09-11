@@ -31,7 +31,7 @@ The Yerushalmi (Taanis 3:3), *Midrash Tehillim* 135 and *Bereishis Rabbah*
 market.
 
 ### anan (ענן)
-The unmarked term, and the one the article starts from: *anan* and its forms
+The unmarked term: *anan* and its forms
 come close to a hundred times in Tanach, seventeen of them in Behaaloscha, more
 than in any other parashah. Chazal: clouds are *ananim* because the rain they bring makes
 people *anavim*, humble with one another, since a surplus makes men deal fairly

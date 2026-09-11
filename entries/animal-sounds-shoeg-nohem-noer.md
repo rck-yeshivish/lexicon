@@ -42,7 +42,7 @@ updated: 2026-09-10
 ## Bottom line
 
 Biblical Hebrew assigns each animal its own verb, exactly as English does not
-let a cow bark. The article's frame is onomatopoeia: it holds that in all
+let a cow bark. Rabbi Klein sees onomatopoeia at work: he holds that in all
 languages the words for animal sounds seem to derive from the sounds themselves,
 and that societies hear those sounds differently, which is why an American child
 says a rooster crows "cock-a-doodle-do" and an Israeli child "koo-koo-ri-koo",

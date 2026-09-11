@@ -113,14 +113,14 @@ is meant simply to hurt or even to kill, the Targum uses words unrelated to
 *lakah*. He adds that *lakah* is not a perfect translation of *makkeh*, the one
 being struck and the other striking.
 
-The column adds a bracketed aside of its own on the English side: the verb
+Rabbi Klein adds an observation of his own on the English side: the verb
 "lick" in "to lick one's enemies" (built on Bamidbar 22:4) means to smite or
 defeat, and "to lick the whip" is to taste punishment, so the Germanic *lick*
-covers both smiting and passing the tongue over something. It notes at once that
+covers both smiting and passing the tongue over something. He notes at once that
 linguists would say the resemblance to the Semitic ל-ק-ה ("hitting") and ל-ק-ק
 ("licking") is simply chance.
 
-For completeness, the column closes by noting that Modern Hebrew says
+Modern Hebrew says
 *leharbitz* or *marbitz* for hitting, spanking, or beating someone up, from
 ר-ב-צ, which in Biblical Hebrew means crouching, stretching out, and lying down;
 the sense was later extended to beating a man down so that he is left spread out

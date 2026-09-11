@@ -66,7 +66,7 @@ Kobernick reads ג-ב-ן against its metatheses ג-נ-ב (stealing) and נ-ג-ב
 (drying): in each, something integral is removed from where it belongs, the
 object from its owner, the moisture from the substance, liquid from curds.
 
-Derashos, and the column's opening question, why dairy on Shavuos: Rabbi
+Derashos, and the question of why dairy is eaten on Shavuos: Rabbi
 Shimshon of Ostropoli connects it to *Har Gavnunim*,
 an alternate name for Sinai (Tehillim 68:16-17), from *gvinah*. *Shemos Rabbah*
 2:4, which the column reads as assuming the name relates somehow to *gnivah* and
@@ -77,7 +77,7 @@ avodah zarah, and Klal
 Yisrael stood there in their purest state, every dross-like blemish healed.
 Rabbi Yosef Nissim Ben-Adahan:
 *gvinah* has the gematria of seventy, for the seventy planes of interpretation
-in every part of Torah. The column adds two further answers in a postscript:
+in every part of Torah. Rabbi Klein adds two further answers:
 David HaMelech died on Shavuos by tradition (Yerushalmi *Chagigah* 2:3, *Rus
 Rabbah* 3:2), and since most of Tanach's cheese occurs in his story, perhaps the
 custom marks him; or, since the heter of dairy is derived from a story about
@@ -132,7 +132,7 @@ Tedeschi-Ashkenazi (*Hoil Moshe* to Tehillim 127:5, Shmuel II 17:29, Yechezkel
 fire, the cheesy particles in the milk into one glob; he groups *ashpah*, the
 bin or container for arrows, and *shifshuf* with it, and
 alternatively makes *shfot* the wicker baskets used to filter fermenting milk,
-separating the curds from the whey. The column adds as an aside that Josephus
+separating the curds from the whey. Josephus
 mentions a place in Yerushalayim called the Tyropoeon, the Valley of the
 Cheesemakers, which some scholars have identified with Shaar HaAshpah, on the
 strength of that link between *ashpah* and *shfot*.

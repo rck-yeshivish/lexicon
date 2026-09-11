@@ -69,7 +69,7 @@ Hebrew word carrying a sense and its reverse, or, as he then suggests himself,
 a *reya* is precisely one whose separate existence is a brokenness off from
 you, really meant to be attached to you.
 
-The column closes on the theme of friendship with two lines from public life:
+Two lines from public life speak to the theme of friendship:
 the American poet Ralph Waldo Emerson (1803-1882), "The only way to have a
 friend is to be one," and President Bill Clinton's "*Shalom Chaver*."
 

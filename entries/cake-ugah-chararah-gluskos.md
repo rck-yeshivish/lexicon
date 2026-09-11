@@ -55,7 +55,7 @@ body, *challah* a **round loaf**, *gluska* the Rabbinic **fine roll**.
 
 ## Where the authorities disagree
 
-**Whether matzah must be round.** The column frames this as one small part of the
+**Whether matzah must be round.** The question is one small part of the
 long-running controversy over machine-made matzos, which are typically square, some
 having argued that because matzah is tied to *ugah* in the pasuk it must, or at least
 should, be round. Rabbi Yehuda Aszad (*Yehudah Ya'aleh*, Orach Chaim
@@ -134,7 +134,7 @@ offers as an alternative that Rabbinic *gluskos* may instead be related to the A
 Greek *glukus*, at first sweet new wine and then anything sweet, the English *glucose*
 being coined from it only in the 1800s.
 
-The column closes with parallels in other languages. English *cake* comes from the
+English *cake* comes from the
 Norse *kaka*, which linguists like Julius Pokorny take back to the Proto-Indo-European
 root *gag*/*gog*, "round," on the interchange of g and k, which is the same pairing of
 "baked good" with "round" that *ugah* shows; the diminutive *cookie* has its parallel in

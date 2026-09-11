@@ -58,16 +58,16 @@ preferred by *Korban HaEidah* there, *Torah Temimah* to Shemos 13:18, and Rabbi
 Chaim Kanievsky, and appears to stand in *Mechilta d'Rashbi* and the Yemenite
 *Midrash HaBeiur*; see also Baal HaTurim there.)
 
-The column gives several further routes to the etymology, all of them offered
-as conjecture. Rabbi Dr. Ernest Klein conjectures that *chamush* relates to
+Several further routes to the etymology have been offered, all of them as
+conjecture. Rabbi Dr. Ernest Klein conjectures that *chamush* relates to
 five in the sense of a military formation divided in five parts, van, body,
 rear and two flanks. The columnist adds his own suggestion: the most basic
 weapon a man has is his own fist, which has five fingers, so a word for one
 bearing a weapon might well be tied to five. The German philologist Wilhelm
 Gesenius (1786 to 1842) sees Hebrew *chamush* as related to the Arabic *hamas*,
 to be eager or manly in battle, since a Hebrew shin often becomes a sin or
-samech sound in Arabic. As an aside the column notes David Curwin at the
-Balashon Blog (19 October 2023), who clarifies that the name of the Arab terror
+samech sound in Arabic. David Curwin at the
+Balashon Blog (19 October 2023) clarifies that the name of the Arab terror
 organization Hamas is technically an acronym for the Arabic term for "The
 Islamic Resistance Movement," but was almost certainly influenced by the Arabic
 *hamas* as well.
@@ -161,10 +161,10 @@ drawing a sword empties its sheath, and readiness to do so is a fighter's edge.
 
 *Vayikra Rabbah* 25:4 gives the counterweight: Avraham's victories came "not
 through a *zayin* and not through a shield (*magen*), but through tefillah and
-supplication." The column closes on the observation that Tehillim 91, said
-against every sort of danger and especially for soldiers at war, contains no
-letter zayin, an allusion to the idea that one who can draw on the power of
-tefillah has no need of physical weapons.
+supplication." Tehillim 91, said against every sort of danger and especially
+for soldiers at war, contains no letter zayin, which Rabbi Klein reads as an
+allusion to the idea that one who can draw on the power of tefillah has no need
+of physical weapons.
 
 ## Rendering guidance
 

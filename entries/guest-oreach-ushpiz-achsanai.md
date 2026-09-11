@@ -116,7 +116,7 @@ teaching an *achsanai* (guest) to buy provisions from his *ushpiz* (host) even
 when he has enough of his own (see also *Bamidbar Rabbah* 19:15 and *Midrash
 Tanchuma, Chukas* 12).
 
-The column closes on a parallel in English itself: *host* is understood to be a
+English itself has a parallel: *host* is understood to be a
 cognate of *guest*, both ultimately from Proto-Indo-European *ghostis*, guest
 or stranger, which is said in turn to come from *ghos*, to eat. Words with an
 h-sound in one Indo-European language often carry a c, k or g sound in another

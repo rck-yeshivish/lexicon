@@ -91,8 +91,8 @@ of the word does not turn on it.
 ## Distinctions
 
 ### kisse (כסא)
-The workhorse: 135 occurrences, always with a final aleph. The column opens on the
-haftarah for Shabbos Rosh Chodesh: "So says Hashem: the heavens are My throne
+The workhorse: 135 occurrences, always with a final aleph. The haftarah for
+Shabbos Rosh Chodesh opens: "So says Hashem: the heavens are My throne
 [*kisse*], and the earth is My footstool. Which is the house that has been built for Me?
 And which is the place of My resting?" (Yeshayahu 66:1). Pappenheim: primarily a chair
 with a cover or overhead canopy, the canopy itself displaying the honor of the one

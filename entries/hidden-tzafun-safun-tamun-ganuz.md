@@ -38,7 +38,7 @@ unbeknownst to the victim (Yirmiyahu 18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6,
 140:6, 142:4), others burying, as Yaakov buried the idols of Shechem (Bereishis
 35:4), Moshe the Mitzri (Shemos 2:12), and the spies themselves in flax (Yehoshua
 2:6). Mishnaic *hatmanah* is embedding food in a heat source or insulator to keep
-it warm (Shabbos 2:7, 4:1-2; Beitzah 2:6; Eduyos 3:10). From all this the column
+it warm (Shabbos 2:7, 4:1-2; Beitzah 2:6; Eduyos 3:10). From all this Rabbi Klein
 concludes that *tamun* seems to mean simply anything placed within another
 material that covers it and hides it from view. The Mechilta (to Shemos 22:5) and
 Bava Kamma 60a-62a use *tamun* for what a fire consumed that the kindler could

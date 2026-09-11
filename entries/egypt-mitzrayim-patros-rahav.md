@@ -117,7 +117,7 @@ Bereishis 10:14) add that Patros, Pathyris in Greek, was a major city in Upper
 Egypt, and that the region took its name from the city, as in Greek times the
 region took the name Thebias from the city of Thebes while *Aegyptus* meant Lower
 Egypt in particular. Patros, then, is closely associated with Mitzrayim but not
-quite synonymous with it. It seems, the column concludes, that Yanai's *Makkas
+quite synonymous with it. It seems, Rabbi Klein concludes, that Yanai's *Makkas
 Bechorei Pasros* uses it for Egypt at large as a poetic way of naming Mitzrayim
 by a more obscure term; he reached that conclusion after consulting Professor
 Shulamit Elitzur, the world's expert in *piyyutim*, who confirmed that there is
@@ -159,7 +159,7 @@ in Chazal: a language called Gipti (Shabbos 115a to 115b, Megillah 18a), which
 seems to be Coptic; and the parsing of *totafos* (Devarim 6:8, 11:18) as *tot*,
 two in Kapti, plus *pat*, two in Afriki (Sanhedrin 4b, Zevachim 37b, Menachos
 34b), where the consensus takes Kapti for Coptic and Afriki for Phrygian. The
-column adds as an aside that the Romani were once thought to have come from
+Romani were once thought to have come from
 Egypt, hence "Gyptians" and eventually "Gypsies," though anthropologists now
 place their origin in South Asia.
 

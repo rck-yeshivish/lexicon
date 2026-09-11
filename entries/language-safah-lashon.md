@@ -49,8 +49,8 @@ interpreter had to know both, which implied to them that the viceroy could not
 follow Lashon HaKodesh on his own. Many commentators, Rashi among them, hold
 that when Yosef revealed himself he spoke to them in Lashon HaKodesh, without an
 interpreter, as proof of who he was. The Ramban (to Bereishis 45:12) objects:
-that proves nothing, since the Canaanites next door spoke Lashon HaKodesh (the
-column notes in passing that Yeshayahu 19:18 calls it the language of Canaan)
+that proves nothing, since the Canaanites next door spoke Lashon HaKodesh
+(Yeshayahu 19:18 calls it the language of Canaan)
 and a king is commonly familiar with the languages of nearby countries, as
 Nevuchadnetzar spoke Hebrew though his advisers answered in Aramaic (Daniel
 2:2-4). The Chasam Sofer answers with what the column calls a novel
@@ -67,7 +67,7 @@ kedushah, and a lapse in kedushah loses it, while German passes down for
 generations. Yosef speaking Lashon HaKodesh therefore proved that after all his
 years in Mitzrayim he had kept the purity and holiness the language requires,
 and had not defiled himself with the promiscuity Egyptian culture stood for. In
-this way, the column concludes, he typified Hebrew held as a *lashon*, taken
+this way, Rabbi Klein concludes, Yosef typified Hebrew held as a *lashon*, taken
 inside, rather than as a *safah*.
 
 ## Rendering guidance

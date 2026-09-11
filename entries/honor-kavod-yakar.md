@@ -21,15 +21,15 @@ adjective and **esteem** or **preciousness** as a noun: value that comes from
 rarity and from the impact a thing makes (Rabbi Pappenheim; Malbim). In
 Megillas Esther the noun *yikar* is "esteem" or "honor". The authorities split
 on which of the two is inherent: Malbim gives that to *kavod*, Rabbi Avraham
-Vilner to *yakar*, and the column, having laid both out, says we are back to
-square one; it settles nothing. *Yakar* means "rare" (Shmuel I 3:1), "costly"
+Vilner to *yakar*, and Rabbi Klein says we are back to
+square one; he settles nothing. *Yakar* means "rare" (Shmuel I 3:1), "costly"
 (Tehillim 116:15) or "dear" (Yirmiyahu 31:19), by context.
 
 ## Distinctions
 
 ### kavod (כבוד)
-Root כ-ב-ד, which also gives "heavy" and "liver" (*kaved*). The column's frame:
-weight, value and honor are one metaphor; the substantial thing is the one that
+Root כ-ב-ד, which also gives "heavy" and "liver" (*kaved*). Rabbi Klein takes
+weight, value and honor as one metaphor: the substantial thing is the one that
 commands respect. Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*): the
 liver distributes nourishment to each limb according to its need, an honorable
 form of division; or, since the liver is the seat of anger (Berachos 60b) and
@@ -73,7 +73,7 @@ possibility, might be that *yakar* is *kavod* in Aramaic and the difference is
 linguistic, not semantic. The column at once names the problem with its own
 suggestion: י-ק-ר declines many times in Tanach, in stretches written in Hebrew,
 which makes it hard to say *yakar* is Aramaic only. In defense of the suggestion
-the column then points to a rabbinic tradition that treats *yakar* as
+Rabbi Klein points to a rabbinic tradition that treats *yakar* as
 quintessentially Aramaic: Megillah 9a proves there is Aramaic in Esther from
 *yikar* (1:20), and Sanhedrin 38b proves Adam spoke Aramaic from יקרו in Tehillim
 139:17, which the commentators read as the Aramaic word for "honorable" standing
@@ -93,7 +93,7 @@ Rabbi Efrayim Zalman Margulies (*Beis Efrayim*, *Orach Chaim* 70), Sfas Emes to
 Megillah 9a, Rabbi Zvi Hirsch Chajes in his glosses to Megillah 9a and Sanhedrin
 38b, and Rabbi Eliezer Harstik (*Raglei Mevasser* to *Sefer HaTishbi*).
 
-The column closes on names. Several medieval rabbanim were called Rabbeinu Yakar
+On names: several medieval rabbanim were called Rabbeinu Yakar
 or Rabbeinu Yakir (*Tosafos* to Eruvin 40b, Avodah Zarah 68a, Chullin 47a),
 including the father of Rabbi Yaakov bar Yakar, Rashi's rebbi, and the father of
 Rabbi Yehuda ben Yakar, Ramban's. Scholars have argued that Yakar/Yakir was not

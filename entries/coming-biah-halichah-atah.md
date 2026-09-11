@@ -82,13 +82,13 @@ more (Shemos 7:26, 9:1) when three makkos did not remain.
 ### lech / halichah (הלך, הליכה)
 The counterpart term throughout: on the Tosafists' reading, simply going
 somewhere without the sense of entering; on Rabbi Elimelech's, without
-repetition and without any implication of willingness. The column then offers
-two theories of its own, both as an English speaker's temptation rather than as
+repetition and without any implication of willingness. Rabbi Klein offers
+two theories of his own, both as an English speaker's temptation rather than as
 a finding. First, that *bo* and *lech* answer to English "come" and "go": *bo*
 fixes primarily on one's destination ("come to"), *lech* on one's place of
 departure ("go from"). Alternatively, that *biah* denotes a change of place
 however it came about, while *halichah* denotes specifically the act of walking.
-The column closes the point by saying that a Biblical concordance would have to
+Rabbi Klein adds that a Biblical concordance would have to
 be consulted to see how well any of these theories pans out.
 
 ### atah (אתה)
@@ -103,8 +103,8 @@ bordering, since it closes the alef-beis. A border links two bodies and
 distinguishes them at once; hence *es*, the particle that links a verb to its
 object and sometimes means "with," and *os* ("sign"), which links sign to
 signified. *Atah* on this reading is the traveler finally joined to his
-destination, as against *biah*, which can still have him on the road. The column
-adds a parenthesis of its own: perhaps the finality of *atah* is hinted in its
+destination, as against *biah*, which can still have him on the road. Rabbi
+Klein adds a suggestion of his own: perhaps the finality of *atah* is hinted in its
 root's being the first and *last* letters of the alef-beis, while *biah* has the
 first and the second. The same root yields *tav* ("mark"), which serves as a
 border distinguishing a thing from the rest: Yechezkel saw Hashem command an

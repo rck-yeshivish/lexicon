@@ -110,8 +110,7 @@ mem and the lamed. This does not conflict with Rambam and the Aruch, since
 "camp" and "body of troops" fall within the semantic range of Latin *familia*.
 
 ### the English comparison
-The column closes by setting the Hebrew words beside their European
-counterparts. The *Oxford English Dictionary* traces English *family* to Latin
+The *Oxford English Dictionary* traces English *family* to Latin
 *famulus*, "servant," which widened to a body of servants making up a
 household, then to any entourage or retinue of troops or people, and by the
 time English took it from French, to any group connected by blood or affinity;

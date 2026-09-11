@@ -32,8 +32,8 @@ a synonym for *par* at any age.
 ## Distinctions
 
 ### the English words first
-The column starts on the English side, since it holds that English has neat
-parallels to the Hebrew terms, only without a traceable etymology behind them. A
+Rabbi Klein holds that English has neat parallels to the Hebrew terms, only
+without a traceable etymology behind them. A
 *heifer* is a young female bovine, especially one that has not yet calved; a
 *cow* is a mature female that has calved and so gives milk, though colloquially
 "cow" covers any bovine at all. On the male side English marks the gelded off

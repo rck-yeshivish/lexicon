@@ -67,7 +67,7 @@ sweet as the sound of a *kinnor*. Rabbi Nosson of Rome (*Sefer HeAruch*) defines
 a thorn jujube (compare Rashi to *Bava Basra* 48b), or as a musical instrument, a
 harp or lyre, so the derashah may be about the fruit twice over.
 
-**Whether Tiveria is a Biblical city.** The column sets two accounts against each
+**Whether Tiveria is a Biblical city.** Two accounts stand against each
 other. Josephus (*Antiquities of the Jews* XVIII:8) has Herod, the Herodian
 tetrarch of the Galilee, found the city and name it in honor of the Roman emperor
 Tiberius. The Gemara (*Megillah* 5b-6a), on the other hand, identifies it with
@@ -79,8 +79,7 @@ at the *tabur*, the navel of Eretz Yisrael, in importance rather than in
 geography, and the name is *tovah re'iyasah*, "its sight is good," which Tosafos
 explains as its beauty, its gardens and orchards.
 
-**Why the rabbinic sources drop the name Kinneres.** The column closes with what
-it calls another fascinating theory that it found. Archaeologists at ancient
+**Why the rabbinic sources drop the name Kinneres.** Archaeologists at ancient
 Ugarit (Ras Shamra, in modern Syria) found a list of old Canaanite gods carrying
 a god named Kinnaru, and *kinnor* appears in Ugaritic for a stringed instrument
 in the same sense as the Hebrew; on this some academic scholars have argued that

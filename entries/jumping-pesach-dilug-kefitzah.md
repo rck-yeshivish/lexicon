@@ -29,13 +29,12 @@ the skip taken with one foot still on the ground while the other springs the
 body forward; Rambam and the Rosh cite the same in their commentaries to Mishnah
 Ohalos 8:5. Wertheimer suggests measuring it by height rather than form: in Shir
 HaShirim 2:8 *midaleg* is over mountains and *mikapetz* over hills, so *dilug*
-is the higher of the two. The column then posits, in its own voice, that the
+is the higher of the two. Rabbi Klein posits, in his own voice, that the
 controlling sense is what is skipped, and that *dilug* is therefore more
 accurately "skipping" and *kefitzah* "jumping": English "skip" carries both the
 gait and the evasion ("he skipped the boring parts"), and the two are in truth
 conceptually one, since a skipping step is exactly a way of not treading on what
-lies underfoot, and the Hebrew verb covers both. Part 2 works from that same
-distinction throughout. Rabbi Yaakov Lorberbaum of Lisa allows that
+lies underfoot, and the Hebrew verb covers both. Rabbi Yaakov Lorberbaum of Lisa allows that
 *dilug* may in fact be the faster motion, but holds that its focus is still on
 what is skipped and not on the speed.
 
@@ -78,8 +77,8 @@ in Egypt would have brought them to the fiftieth, from which there is no
 recovering, so the redemption had to be immediate, and the Korban Pesach is
 eaten *b'chipazon* (Shemos 12:11) in imitation of that haste.
 
-The same root gives *piseach*, the lame or immobile man. The column closes with
-this as an insight of its own: two conceptually opposite meanings sharing one
+The same root gives *piseach*, the lame or immobile man. Rabbi Klein draws an
+insight of his own from this: two conceptually opposite meanings sharing one
 spelling is a common phenomenon in Lashon HaKodesh, and it illustrates that
 Hebrew words are not the product of human whim but carry inherent meaning, on a
 Divine intuition not found in other languages.

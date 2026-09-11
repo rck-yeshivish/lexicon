@@ -62,13 +62,13 @@ The name *Yitzchak* appears 108 times in Tanach; four times he is called
 (the high places of Yischak) and 7:16 (the house of Yischak); Tehillim 105:9
 (Hashem's oath to Yischak). That last is customarily said at a bris, while its
 parallel, Divrei HaYamim I 16:16, said in the daily tefillos, reads *Yitzchak*.
-Since the words are one word, the column turns to more esoteric readings of the
-two spellings:
+Since the words are one word, the readings of the two spellings are esoteric
+ones:
 
 Rabbeinu Bachaya (to Bereishis 17:19, Bamidbar 32:3): the name is really
 *Yitzchak*, and the nevi'im sometimes wrote it with a sin to hint that Yitzchak
-embodies *din*, likened to a raging fire, *aish*. The column then adds on its
-own account that Pappenheim derives *aish* from the monoliteral shin, which it
+embodies *din*, likened to a raging fire, *aish*. Rabbi Klein adds on his
+own account that Pappenheim derives *aish* from the monoliteral shin, which he
 takes as solidifying the connection. Rabbi Shmuel Feivish Kahane, a seventeenth
 century sage, in *Leket Shmuel*, holds precisely the reverse: the name should
 have been *Yischak*, but a sin would have pointed at a raging judgment from
