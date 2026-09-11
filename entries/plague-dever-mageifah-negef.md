@@ -50,7 +50,7 @@ a city of five hundred adult men, on the assumption that so many deaths in so
 short a span must mean an infectious disease (against a world death rate per day,
 reported by the Ecology Global Network, of eight per thousand people);
 and in the Gemara (*Bava Kama* 60b), which advises staying indoors when
-there is *dever* in the city. On Rabbi Bachrach's reading, *dever* is the sudden death by
+there is *dever* in the city. By contrast with *mageifah* (below), *dever* is the sudden death by
 pestilence that leaves no visible wound on any one part of the body.
 
 ### mageifah (מגפה)
@@ -65,7 +65,7 @@ Rabbi Klein explains it, *mageifah* is the general term for any striking of an
 opponent. Rabbi Yair Chaim Bachrach gives it a narrower sense: an infected wound
 that can spread like venom through the limbs and the bloodstream, which fits the
 ג-פ-ה family of words for striking one particular part of the body and sometimes
-letting the harm travel from there; *mageifah* describes what the striker does in
+letting the harm travel from there. *Mageifah*, as against *dever*, describes what the striker does in
 bringing the plague, rather than what the victim contracts.
 
 ### negef (נגף)

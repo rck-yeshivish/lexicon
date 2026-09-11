@@ -105,8 +105,8 @@ the definite *aleph* is not in Tanach but is common in the Bavli and Targumim.
 
 ### achat / echat (אחת)
 The feminine. Ibn Janach (*Sefer HaShorashim*): feminine of *echad*/*achad*,
-where the expected *echadet* drops its *dalet* (probably to avoid *dalet* and
-*tav* back to back). Radak in *Sefer HaShorashim* disagrees, making *achat*/*echat* the
+where the expected *echadet* drops its *dalet* (probably, Rabbi Klein suggests, to
+avoid *dalet* and *tav* back to back). Radak in *Sefer HaShorashim* disagrees, making *achat*/*echat* the
 feminine of *ach* and holding that *echad*/*achad* have no true feminine; in his
 *Michlol* he treats all of them as one stock, *ach* being *echad* minus the
 *dalet* and *chad* being *echad* minus the *aleph*. Practically, *achat* (over

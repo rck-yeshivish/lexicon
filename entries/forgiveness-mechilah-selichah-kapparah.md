@@ -32,7 +32,7 @@ Root ס-ל-ח. Close to fifty Biblical occurrences, most famously Hashem's answe
 to Moshe after the Meraglim, *salachti kidvarecha* (Bamidbar 14:20). Its
 cognates appear many times for the forgiveness a korban brings (Vayikra
 4:20-35, 5:10-26). Linguists connect *selichah* to the Akkadian *salahu* and the
-Aramaic *zelicha*, both meaning "sprinkling," which may be a reference to the
+Aramaic *zelicha*, both meaning "sprinkling." This may be a reference to the
 sprinkling of the blood on the mizbeach, the main component of the korbanos. Rabbi Moshe Meth (*Matteh Moshe*)
 and Rabbi Yitzchak Eizik of Tirna (*Sefer HaMinhagim*): *selichah* pairs with
 *avon* (Bamidbar 14:19). Rabbi Yaakov Tzvi Mecklenburg: *selichah* may be

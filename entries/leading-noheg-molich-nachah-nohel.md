@@ -93,7 +93,7 @@ Rabbi Wertheimer: *molich* in the sense of leading is simply an inflection of
 happen, in getting those in his charge to go from one place or situation to
 another (Devarim 8:2, 8:15; Yirmiyahu 2:6; Tehillim 136:16). The root is ה-ל-ך,
 whose forms appear over 1550 times in Tanach. Rabbi Pappenheim adds that leading
-is not the root's own sense at all but a borrowed or ancillary one, and the same
+is not the root's own sense at all but a borrowed or ancillary one. The same
 holds for *yolech* where Hashem "led" the sea with a strong east wind through
 the night (Shemos 14:21), taking charge of a force of nature for the sake of the
 morning's miracle. Though the mem of *molich* is plainly no part of the root,

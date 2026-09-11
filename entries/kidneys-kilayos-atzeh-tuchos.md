@@ -49,8 +49,8 @@ Both *kilayos* and *tuchos* appear only in the plural.
 11a reads it as the kidneys, on the strength of Berachos 61a, that the two kidneys
 give *eitzah* to the heart, one advising for good and one for bad (Koheles 10:2
 putting the good counsel on the right); Rashi (to Shemos 29:22 and Vayikra 3:9)
-and Rashbam follow, and the derashah appears to rest on the
-spelling עצה, which can be read *eitzah*. Rabbi Elazar Rokeach of Worms, a late
+and Rashbam follow, and Rabbi Klein notes that the derashah appears to rest on
+the spelling עצה, which can be read *eitzah*. Rabbi Elazar Rokeach of Worms, a late
 twelfth-century Ashkenazic scholar, adds when citing this tradition (*Sodi Razi*)
 that the kidneys are also the source of happiness, from *v'sa'alozna kilyosai*
 (Mishlei 23:16). Against them, Targum Onkelos (to Vayikra 3:9; see *Meleches

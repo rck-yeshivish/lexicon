@@ -165,7 +165,7 @@ Rabbi Reuven Chaim Klein, says he thinks the name comes from the Persian
 *shap*/*shab*, black or night-colored, plus *rechesh*, horse, assuming kaf and
 gimmel interchange and shin and zayin; he compared it to Shabdiz, apparently the
 horse of the Persian king Khosrow Parviz (590-628), said to be the fastest in the
-world, and Rabbi Klein offers that perhaps Shifrigaz is somehow related to or
+world, and Rabbi Reuven Chaim Klein offers that perhaps Shifrigaz is somehow related to or
 conflated with that later horse. (Rabbi Yehuda Spitz points out that this
 tradition differs from the animated *Megillas Lester*, where the king's horse is
 named Hangover.)

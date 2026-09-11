@@ -34,8 +34,8 @@ collectively (Vayikra 14:9). Some *medakdekim* separate the two forms, *se'ar*
 for a patch of hair and *se'arah* for one strand (see Tosafos Yom Tov to Negaim
 4:1 and Niddah 3:2). Rabbi Dr. Jared Greenblatt theorizes that Hebrew and
 Aramaic *saar(a)* appear to be cognate with the words for barley, *se'orah*,
-barley being possibly called "hairy" because its awns are longer than wheat's;
-the Mishnah indeed uses *se'ar* for the fibers protruding from produce (Shabbos
+barley being possibly called "hairy" because its awns are longer than wheat's.
+Indeed, the Mishnah uses *se'ar* for the fibers protruding from produce (Shabbos
 21:3, Kilayim 3:5). Greenblatt adds that both sets of words may be related to
 *sa'ir*, a goat, as *ma'azia* is. Apart from the three places where the Targum
 uses *binta* (Rabbi Eliyahu HaBachur, *Meturgeman*, counts only those three),

@@ -35,9 +35,9 @@ word for "now" there. Its first two letters spell *eis*, time.
 
 ### na (נא)
 Spelled *nun-aleph*. The second most common word for "now" in Tanach. The same
-letters also carry "please" and "raw," and the raw sense follows directly from
-the temporal one: food eaten *now*, before it has had time to cook, is eaten
-raw. Rabbi Klein adds that the English "now" possibly comes from the
+letters also carry "please" and "raw," and Rabbi Klein finds the link between
+raw and now fairly obvious: food eaten *now*, before it has had time to cook, is
+eaten raw. He adds that the English "now" possibly comes from the
 similar-sounding *na*.
 
 ### achshav (עכשיו)

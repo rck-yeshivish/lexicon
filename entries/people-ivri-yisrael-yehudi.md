@@ -88,8 +88,8 @@ plane than a free man, so the older, lower name suits him.
 *Bnei Yisrael* appears 636 times in Tanach and *Yisrael* as a name for the
 people over two thousand. It is Yaakov's second name used as a patronym, so the
 nation is *Yisrael* or the sons of *Yisrael*. Through most of Tanach this, and
-not *Ivri*, is what the people are called, on Rabbeinu Bachya's account because
-it is the name of the higher standing. "Israelite"
+not *Ivri*, is what the people are called, and this follows from Rabbeinu
+Bachya's point, since it is the name of the higher standing. "Israelite"
 and "Israeli" are not the same word in English: the second means a citizen of
 the modern state.
 

@@ -78,8 +78,8 @@ Arabic.)
 were found there was much speculation in traditional sources about the name, some sages
 taking the *mar* as separate. Those who parse it: Rabbi Yechiel Michel Epstein (1829-1907)
 in the *Aruch HaShulchan*, who speculates that *mar* means switch, as in *temurah*, for
-Yeravam's switching the seventh month for the eighth, and works as a double entendre with
-the bitterness his act brought on the Jewish People afterward, though he concludes that we
+Yeravam's switching the seventh month for the eighth (according to this, *mar* is also a
+double entendre for the bitterness his act brought on the Jewish People afterward), though he concludes that we
 cannot expound the month-names this way, the more so where halachah turns on it (his case:
 writing *Mar Cheshvan* as two words in a *get*; and see *Pischei Teshuvah*, Even HaEzer
 §126:12, on a *get* that says Cheshvan rather than Marcheshvan); and Rabbi Chizkiyahu

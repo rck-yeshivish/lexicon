@@ -158,7 +158,7 @@ major difficulty: Shua's daughter herself is called a *cnaanis* (Divrei HaYamim
 I 2:3), which should mean "Canaanitess" literally, and it makes no sense for
 the pasuk to call the daughter by an appellation that fits her father's
 occupation, which suggests that *cnaani* said of the father is a nationality
-after all. Unless, perhaps, Shua's daughter was a trader
+after all. Unless, Rabbi Klein suggests, Shua's daughter was perhaps a trader
 herself: Targum Rav Yosef to Divrei HaYamim there renders *cnaanis* as
 *pragmatita*, a Greek term for a female merchant, which supports Chazal's
 reading of the father's *cnaani* as well.

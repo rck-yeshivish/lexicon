@@ -56,8 +56,8 @@ contradict the Rash: a goat that jumps off a roof is *kofetz* (Bava Kama 2:3),
 and so is the marten that jumps from the ladder to the dovecote (Bava Basra
 2:4), while a man permitted to jump over graves to greet a king is *midaleg*
 (Berachos 19b). These suggest that *doleg* is not confined to animals nor
-*kofetz* to people, and Rabbi Klein adds that Shir HaShirim 2:8 proves it, since
-there both verbs apply to one subject.
+*kofetz* to people. Moreover, Shir HaShirim 2:8 proves it, since there both
+verbs apply to one subject.
 
 ### pesach (פסח)
 Root פ-ס-ח. Rashi (Shemos 12:11 and 12:13, Yeshayahu 31:5): an expression of

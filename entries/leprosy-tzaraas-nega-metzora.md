@@ -126,8 +126,8 @@ Rabbi Avi Kobernick reads the root against its metathesised neighbours: against
 a man who views his enemies as powerful is thereby broken in his own eyes),
 *tzaraas* is its opposite, since sickness is bodily weakness; and with צ-ע-ר
 (*tzaar*, pain),
-since the affliction is a burden borne. Rabbi Klein adds that the connection
-may run deeper: *Toras Kohanim* to Vayikra 13:2 says that the sufferer is pained
+since the affliction is a burden borne. The connection may run deeper:
+*Toras Kohanim* to Vayikra 13:2 says that the sufferer is pained
 by it and so are those who see him, and Chazal's use of *tzaar* there may hint
 that they too linked the words.
 Mr. Moshe Ossi (*Al Katzeh HaLashon*) suggests a connection to שׂ-ר-ע,

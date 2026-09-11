@@ -41,8 +41,8 @@ physically worthless, being only dust and ashes, yet holds great potential to
 grow. Rabbi Shlomo Pappenheim answers the question head on: the animals were not
 *created* from the earth, they merely *emerged* from it, while Adam was actually
 created from it. Pappenheim also ties *adam*, separately, to the biliteral ד-ם, "similar" (*domeh*,
-*demus*, *dimyon*), because man is made in Hashem's image and resembles Him in some ways, most
-obviously in the way his actions echo through creation. Rav Hirsch: from *hadom*, footstool,
+*demus*, *dimyon*), because man is made in Hashem's image and resembles Him in some ways. The
+most obvious example is the way his actions echo through creation. Rav Hirsch: from *hadom*, footstool,
 for man was meant to sit at Hashem's footstool as His deputy, so to speak. Rabbi Yaakov Tzvi
 Mecklenburg: the *adamah* link marks man's pull toward the material, so *adam*
 names the great distance he can travel toward the spiritual. The Zohar (Tazria
@@ -77,7 +77,7 @@ man's greatest possibilities.
 ### gever (גבר)
 Ibn Ezra (to Shemos 10:11): always a male as against a female. Rabbi Yehuda Leib
 Edel disputes this and cites gender-neutral uses. Malbim: from *gevurah*, so it
-recalls strength and potency and usually means the male; a woman in power may be
+recalls strength and potency and usually means the male. A woman in power may be
 called by a cognate, *gevirah* (Yirmiyahu 13:18) or *geveres* (Yeshayahu 47:5), queen,
 queen-mother, mistress, lady of the house.
 

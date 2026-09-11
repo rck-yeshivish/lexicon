@@ -38,9 +38,11 @@ Yeshayahu 30:28) glosses it with the rabbinic *prumbia*. Menachem Ibn Saruk,
 Yonah Ibn Janach, Ibn Parchon and Radak take the root as ר-ס-ן. Rabbi Shlomo
 Pappenheim treats the final nun as non-essential and derives it from biliteral
 ר-ס, "breaking something off into smaller pieces" (compare *la'ros*, to drip or sprinkle,
-Yechezkel 46:14, the Modern Hebrew *tarsis*, spray, and the nouns *resisim*,
-Amos 6:11, and *resisei*, Shir HaShirim 5:2): the bit makes the animal drool, and
-the dripping saliva is a small thing broken off a bigger one. Rabbi Aharon Marcus
+Yechezkel 46:14): the bit makes the animal drool, and the dripping saliva is a
+small thing broken off a bigger one. Rabbi Klein adds that the same meaning
+accounts for the Modern Hebrew *tarsis*, spray. The nouns *resisim* (Amos 6:11)
+and *resisei* (Shir HaShirim 5:2) likewise refer to smaller pieces broken off
+something bigger. Rabbi Aharon Marcus
 applies the same root slightly differently: the bit bifurcates the space inside the
 mouth. Rav Hirsch (to Tehillim 2:2) connects *resen* to *roznim*, nobles, by
 the samech/zayin interchange: the *roznim* steer the state as the *resen*

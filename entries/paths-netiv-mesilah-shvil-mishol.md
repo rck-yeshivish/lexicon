@@ -51,8 +51,8 @@ Modern Hebrew it is a traffic lane.
 ### mesilah (מסילה)
 Malbim: a paved path, and usually the pedestrian walk at a street's edge. The
 word *maslul*, a planned route or itinerary, is related to it. Wertheimer adds
-that it is generally straight as well as paved, which is why the stars are said
-to travel in a *mesilah* (Shoftim 5:20): they appear to travel in a straight,
+that it is generally straight as well as paved. The stars are said to travel in
+a *mesilah* (Shoftim 5:20) because they appear to travel in a straight,
 pre-planned course. The word choice in Bamidbar carries weight: Bnei Yisrael
 first ask Edom for passage on his *derech* (20:17) and, after the refusal, ask
 instead for his *mesilah* (20:19), and are refused again. Why the second wording

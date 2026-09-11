@@ -41,7 +41,7 @@ party's very existence is a necessity. Rabbi Eliyahu Lopian (*Lev Eliyahu*
 vol. 1 p. 110) teaches the same from the mussar side: most people take love for the
 pleasant feeling one has in the beloved's company, which is self-love through
 another ("I love fish"); true love is what rouses a person to give to and provide
-for the beloved. So Yaakov's seven years were "like a few days in his love for her"
+for the beloved. On that understanding of love, Yaakov's seven years were "like a few days in his love for her"
 (Bereishis 29:20): every day of work was giving to her. Rav Dessler (*Michtav
 MeEliyahu* vol. 1 pp. 32-36) says likewise. *Orchos Tzadikim* (Shaar HaAhavah): one
 brings himself to love another by helping him and spending on him (Rabbi Avraham

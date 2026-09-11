@@ -74,7 +74,7 @@ holds the two equal in position and different only in origin.
   Aleinu: here the shift implies two roles, *melech* to Yisrael, who accept His
   sovereignty, and *moshel* to the nations, who do not, while Zechariah 14:9,
   *vehayah Hashem lemelech al kol ha'aretz*, has Him *melech* over the whole
-  world. The column resolves it by saying the answer must be that in time to
+  world. The Vilna Gaon resolves it: the answer must be that in time to
   come, when all truth is revealed, everyone will recognize and accept, so that
   He will be *melech* universally and not *moshel*.
 - Rosh Hashanah 16a on Malchiyos works only on this distinction (see above).

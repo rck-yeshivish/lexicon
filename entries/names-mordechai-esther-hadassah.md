@@ -115,8 +115,8 @@ as separate members of the Anshei Knesses HaGedolah.
 
 ### Mordechai (מרדכי) and Merodach
 Chullin 139b asks where Mordechai is hinted in the Torah and answers *mar dror*, pure
-myrrh (Shemos 30:23), rendered *mira dachya* by Onkelos: a tzaddik gives off fragrance
-as myrrh does. Megillah 10b has Rabbi Shmuel bar Nachmani open his expositions on
+myrrh (Shemos 30:23), rendered *mira dachya* by Onkelos. The idea behind the connection
+is that a tzaddik exudes good deeds as myrrh gives off fragrance. Megillah 10b has Rabbi Shmuel bar Nachmani open his expositions on
 the Megillah from "instead of the thorn-bush will arise a *brosh*" (Yeshayahu
 55:13), playing on *brosh* as *b'rosh*, "at the head," and reading it of
 Mordechai, whose name alludes to *mar dror*, which the Torah calls *besamim

@@ -90,7 +90,7 @@ Hebrew has only *makom*? Two answers are offered. Rabbi Dr. Ernest Klein (1899-1
 Greenblatt see the Aramaic *atar* as related to verb cognates in Arabic and
 Ethiopic meaning "tracing" or "tracking" (Modern Hebrew *l'ater* is used the same
 way), on the strength of which Rabbi Reuven Chaim Klein suggests that the
-"place" sense of *duchta*/*duch* may be an expansion of a word that at core is about finding
+"place" sense of *atar* may be an expansion of a word that at core is about finding
 something's location rather than about the location itself. Alternatively, Rabbi
 Joseph Perles (1835-1894), in his German *Etymologische Studien zur Kunde der
 rabbinischen Sprache und Alterthümer* (pp. 57, 81-82), argues that *duchta*/*duch*

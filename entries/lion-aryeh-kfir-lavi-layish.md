@@ -78,7 +78,7 @@ cub is faster and stronger than a grown lion.
 *Avos d'Rabbi Nasan*: an adolescent lion, so called because he denies (*kofer*)
 his parents. Rabbi Yechiel Michel Stern: a *kfir* is less fierce than an *aryeh*,
 which is why Michah 5:7 has the *kfir* falling on sheep, domesticated and
-defenseless, while the *aryeh* takes the beasts of the forest; and Tehillim
+defenseless, while the *aryeh* takes the beasts of the forest. Moreover, Tehillim
 104:21 has the *kfir* roaring to ask for its food, implying it is still too young
 to hunt. *Zohar* (Terumah 143a): a *kfir* is a small, weak lion.
 

@@ -71,7 +71,8 @@ group, which is the ground of the everyday usage.
 **What leom is.** Malbim (on the Midrash): a religious grouping, which can be
 wider than *am*. Wertheimer: either a common king (so Rashi and Targum to Bereishis 25:23
 render it "kingdom") or a common religion. Edel: a family or tribe *inside* a
-nation, probably tied to *em* and Aramaic *imma*, mother, which is narrower than either.
+nation, which is narrower than either. The word is thus probably tied to *em* and
+Aramaic *imma*, mother.
 
 ## Distinctions
 
@@ -106,8 +107,8 @@ from the wording that they are near synonyms, not identical. Ibn Shuaib sets
 *umah* and *leom* together as the nation under one king, against *goy*. Malbim,
 on *Bereishis Rabbah* 63, makes *leom* a religious body, which can be wider
 than *am* when several kingdoms hold one faith. Edel takes *leom* or *om*, the
-form some later poets use, as a family or tribe within a nation, probably related
-to *em* and *imma*.
+form some later poets use, as a family or tribe within a nation. The word is thus
+probably related to *em* and *imma*.
 
 ## Rendering guidance
 

@@ -76,7 +76,7 @@ is unconditional and so more engraved in the person, and the Mishnah's love that
 depends on nothing and is never lost (Avos 5:16) is the parallel. Rav Hirsch (to
 Tehillim 119:5): kuf interchanges with gimmel, so *chok* is kin to *chag*, at
 root a circle, and a *chok* encircles us with mitzvos and further chances to
-develop ourselves. Rabbi Klein grounds that connection in a midrash (*Shemos
+develop ourselves. The basis for that connection is a midrash (*Shemos
 Rabbah* 15:25) on "He told His words to Yaakov, His *chukim* and *mishpatim* to
 Yisrael" (Tehillim 147:19), which reads it of the yamim tovim, since the
 *chagim* are elsewhere called a *chok* (Tehillim 81:4-5) and their dates turn on
@@ -124,7 +124,7 @@ jurisdiction over another, a husband over his wife or a master over his slave),
 *Adonai* as the Master of all creation, and *medinah* (the area under one court
 system). Rabbi Klein adds on his own account the given names Dan, Daniel,
 Avidan and Dinah. Bedersi: the controversy or fight between two opposing litigants, so
-a litigant is a *baal din* (Avos 4:22); a similar point is implied by *gmar
+a litigant is a *baal din* (Avos 4:22). A similar point is implied by *gmar
 din*, a judicial decision or sentencing. Wertheimer: the penal
 system that metes out punishment to those who break the law. Maharal: law the
 intellect presumes true; or, alternatively, law between man and his fellow, that
