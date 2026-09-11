@@ -25,13 +25,12 @@ food that actually nourishes. Of the produce words: *tevuah* is **crop**, what
 comes forth (ripe or not); *tenuvah* is **ripe produce**; *yevul* is
 **produce** seen as perishable; *dagan* is threshed **grain**; *bar* is grain
 **cleaned of its chaff**; *shever* is **provisions**, grain bought in a famine.
-Onkelos renders *ochel*, *bar*, *shever* and *dagan* all by *avur*. Where a
-pasuk uses two of them, the difference is usually the state of the grain.
+Onkelos renders *ochel*, *bar*, *shever* and *dagan* all by *avur*.
 
 ## Distinctions
 
 ### ochel (אוכל), maachal (מאכל)
-Root א-כ-ל, and so anything eaten. The grammarians note that the root covers
+Root א-כ-ל, and so anything eaten. Many grammarians note that the root covers
 consuming and destroying generally, by fire (Shemos 3:2, 24:17) or by sword
 (Devarim 32:42; Yirmiyahu 46:10). Rabbi Shlomo Pappenheim (1740 to 1814) traces
 it to the biliteral כ-ל, utter destruction, *kilayon*. Rabbi Yehuda HaChassid
@@ -47,7 +46,7 @@ Ibn Saruk and Pappenheim: root ב-ל; Ibn Janach and Radak: י-ב-ל. Pappenheim
 reads ב-ל as decomposition and gives two applications: in *Yerios Shlomo*, all
 produce is *yevul* because the seed decomposes to let what grows from it come
 up; in *Cheshek Shlomo*, the especially perishable produce is *yevul* because it
-rots if it is not looked after.
+can easily rot if it is not looked after.
 
 ### tevuah (תבואה)
 Rabbi Shlomo Aharon Wertheimer (1866 to 1935): root ב-א, coming or bringing, so
@@ -67,7 +66,8 @@ alike, so *tenuvah* is specifically ripe produce (Devarim 32:13), and *niv
 sefasayim* (Yeshayahu 57:19), the product of the lips, is well-formed speech.
 
 ### dagan (דגן)
-Wertheimer: the five grains (wheat, barley, oats, spelt and rye), and only once
+Wertheimer: the five grains (simplistically speaking, wheat, barley, oats, spelt
+and rye), and only once
 they have been ripened, reaped, and heaped into a smooth pile (see Rashi to
 *Berachos* 47b).
 
@@ -81,7 +81,7 @@ chosen or refined, grain without chaff (see also Ramban to Bereishis 41:49), and
 explains that Yosef had the Egyptians store the grain that way (Bereishis 41:35)
 because otherwise there would not have been room for it all.
 
-The column adds a note on the English: the King James Version renders *bar*
+The King James Version renders *bar*
 "corn," which did not then mean the yellow stuff on the cob. "Corn" originally
 meant grain with the seed still inside, and was used of whatever staple grain a
 given place grew; only after the discovery of the Americas did it attach almost
@@ -91,7 +91,7 @@ languages the word comes from.
 ### shever (שבר)
 The word seems to derive from the triliteral ש-ב-ר, breaking. Radak (to Amos
 8:5, Bereishis 41:56, and *Sefer HaShorashim*) and the Meiri (to Mishlei 10:3):
-produce is *shever* because it breaks the famine, which is why most of its
+produce is *shever* because it breaks the famine. Most of its
 occurrences in Tanach are in the Yosef narrative. Rabbi Yechezkel Weinfeld of
 Ramat Eshkol compares *shever*, which breaks a famine, to the English
 *breakfast*, the morning meal that breaks the night's fast. *Peirush HaRokeach*

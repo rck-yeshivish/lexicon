@@ -28,17 +28,17 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Tzom* is the Biblical word for a **fast**, abstaining from food; *taanis* is
+*Tzom* is the Biblical word for a **fast**, usually abstaining from food; *taanis* is
 the Mishnaic word for a **fast day**, built on *inui*, **affliction**, and so
-wider than food alone. The names are not free variants: *Tzom Gedaliah* and
-*Taanis Esther* carry their words for a reason, and the two proposed reasons
-are given below. *Inui* is affliction, of which fasting is one form.
+wider than food alone. The words are not free variants, and two approaches to
+what separates them are given below; on the first, *Tzom Gedaliah* and
+*Taanis Esther* carry their words for a reason. *Inui* is affliction, of which fasting is one form.
 
 ## At a glance
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| צום | tzom | fast | Biblical; from "gathering" per Radak in his father's name, hence a fast the whole nation joins |
+| צום | tzom | fast | Biblical; from "gathering" per Radak in his father's name, which a derashah reads as a fast the whole nation joins |
 | תענית | taanis | fast day | from inui, affliction; the Mishnaic term, and already in Ezra 9:5 |
 | עינוי | inui | affliction | the Torah's word for Yom Kippur; abstaining from food is only part of it |
 
@@ -63,15 +63,15 @@ are given below. *Inui* is affliction, of which fasting is one form.
    acceptance of a day as halachically distinct, whose distinction rules out
    eating and drinking, which is why Rambam uses it in *Hilchos Taaniyos*.
 
-The column leaves the two approaches standing side by side; Rabbi Gurwitz
-"takes a different approach," and nothing decides between them.
+The two approaches stand side by side; Rabbi Gurwitz "takes a different
+approach," and nothing decides between them.
 
 **Where tzom comes from.** *Tzom* and its variations appear close to fifty times
 in Tanach and usually refer to abstaining from eating. It is probably related to
 *tzamei*, thirsty, since one who fasts generally ends up thirsty. Nonetheless,
 Radak (*Sefer HaShorashim*, and to Melachim I 21:9)
-reports in his father's name that *tzom* literally means gathering, and proves
-it from the Mishnah's *tzomes hagidim* (*Chullin* 4:7), the point in an
+reports in his father's name that *tzom* literally means gathering, and cites
+in support the Mishnah's *tzomes hagidim* (*Chullin* 4:7), the point in an
 animal's leg where the sinews converge; Modern Hebrew's *tzomes*, a junction,
 preserves the sense. The gathering reading is the one that carries a
 *derashah*, below.
@@ -91,8 +91,8 @@ churban of the first Beis HaMikdash.
 Built on *inui*, so it names the affliction rather than the abstention. The
 Torah uses verb forms of *inui* for what is required on Yom Kippur (Vayikra
 16:29 to 31, 23:27 to 32; Bamidbar 29:7), and refraining from food and drink is
-one of the things included in it. Strictly, then, *taanis* does not mean "fast"
-at all but "self-affliction". *Taanis Esther*, kept the day before Purim, and
+one of the things included in it. Strictly, then, *taanis* does not primarily mean
+"fast" but any self-affliction, fasting included. *Taanis Esther*, kept the day before Purim, and
 *Taanis Bechoros*, kept by many firstborn before Pesach, both carry this word.
 
 ### the gathering reading in Yeshayahu

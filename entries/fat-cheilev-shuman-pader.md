@@ -22,17 +22,17 @@ to the meat. *Pader* is contested: most of the grammarians read it as simply
 **fat**, a synonym of *cheilev*; Ramban narrows it to the **thin fatty
 membrane** dividing the innards; and a group of grammarians drops the fat sense
 altogether for the **organ cluster** of trachea, lungs, heart, and liver.
-*Tarba* is the Aramaic standing in for *cheilev*. *Cheilev* also means **the
-choicest part** of a non-animal thing, and in that borrowed sense has nothing to
-do with fat at all.
+*Tarba* is the Aramaic standing in for *cheilev*. *Cheilev* is also sometimes
+borrowed for **the choicest part** of a non-animal thing, where it does not
+refer to animal fat at all.
 
 ## Distinctions
 
 ### cheilev (חלב)
-About ninety occurrences in Tanach, most of them in the opening chapters of
+About ninety occurrences in Tanach, the largest share of them in the opening chapters of
 Vayikra. It is fat in the plain sense, of animals and of people, as when Ehud
 ben Gera's blade disappeared into Eglon's belly (Shoftim 3:22; see also Tehillim
-73:7). Rashi (Bereishis 45:18; Tehillim 147:14): the word is also borrowed for
+73:7). Rashi (Bereishis 45:18; Tehillim 147:14): the word is sometimes borrowed for
 whatever is choicest and richest, even where no animal fat is involved. So
 Pharaoh's promise that Yosef's brothers would eat the *cheilev* of the land
 (Bereishis 45:18), and the Levi'im separating *terumas maaser* from the
@@ -40,7 +40,7 @@ Pharaoh's promise that Yosef's brothers would eat the *cheilev* of the land
 Cheilev (Shmuel II 23:29), though elsewhere his name is given as Cheiled (Divrei
 HaYamim I 11:30) or Cheldai (Divrei HaYamim I 27:15).
 
-*Cheilev* also covers parts of a korban that are not fat at all but share its
+*Cheilev* also covers parts of a korban that are not technically fat but share its
 law. The tail of a sheep holds no visceral fat, yet the Torah speaks of its fat
 (Vayikra 3:9) because it goes on the mizbeach with the *cheilev* proper (Ramban
 and Rabbeinu Bachya there; Rambam, *Hilchos Maachalos Assuros* 7:5). Likewise
@@ -51,8 +51,8 @@ and forbidden to eat (see Tosafos there and the standard text of the Mishnah).
 
 The root ches-lamed-beis also gives *chalav*, milk, which appears close to fifty
 times in Tanach by Even Shoshan's concordance. Rabbi Shlomo Pappenheim (*Cheshek
-Shlomo*): *cheilev* is from *chalav* because it accrues in hard white globs,
-milk-colored. The column adds an alternative of its own: perhaps *cheilev*
+Shlomo*): *cheilev* is from *chalav* because it accrues in hard globs that are
+typically white, like milk. Rabbi Klein adds an alternative of his own: perhaps *cheilev*
 relates to *chalav* because unskimmed milk itself contains fatty acids,
 milkfats. Rav Hirsch (Bereishis 45:18) joins *cheilev*, *chalav*, and *chalaf*,
 removed from its place or reused for a different purpose: milk is the
@@ -64,11 +64,11 @@ Not in Tanach at all; it enters with the Mishnah (*Kerisus* 4:1). Rabbi Shlomo
 Aharon Wertheimer ties it to the biblical root shin-mem-nun, oily, familiar from
 *shemen*. Rashi (Chullin 45b): *cheilev* is the general Hebrew word covering
 both forbidden and permitted fats, and *shuman* was coined by Chazal for the
-permitted fats specifically, so that the two could be told apart. The column notes that
-mammals do in fact carry two kinds of fat: visceral fats, usually large
+permitted fats specifically, so that the two could be told apart. Mammals do in
+fact carry two kinds of fat: visceral fats, usually large
 independent pieces of blubber, denser and harder from fascia compression, and
 intermuscular fats, attached to the meat and softer. Ramban and Rabbeinu Bachya
-(Vayikra 3:9) expand on Rashi along those lines: *cheilev* is the visceral fat,
+(Vayikra 3:9) expand on this: *cheilev* is the visceral fat,
 the globs not attached to muscle, which the Torah forbids, while *shuman* is the
 intermuscular fat, the strips one meets in a kosher cut, which is permitted. Pappenheim: *shuman* is from *shemen* because it is the more
 pourable, oil-like fat.
@@ -77,11 +77,11 @@ pourable, oil-like fat.
 Targumic Aramaic for *cheilev* (Onkelos to Shemos 23:18, 29:13; Vayikra 3:3,
 7:24, 8:26), with the exception of Hevel's korban, where Onkelos renders it with
 a form of *shuman* / *shemen* (Bereishis 4:4; so too Targum to Tehillim 73:7).
-Rashi regularly defines the Gemara's *tarba* as *cheilev* (Shabbos 133b, 136b;
-Avodah Zarah 28b; Chullin 93a; Bechoros 30a), though once as *shuman* (Bava
-Metzia 83b). Chizkuni (Vayikra 3:3) and *Tirgem Avraham*: *tarba* is from the
+Rashi often defines the Gemara's *tarba* as *cheilev* (Shabbos 133b, 136b;
+Avodah Zarah 28b; Chullin 93a; Bechoros 30a), though at Bava Metzia 83b he
+defines it as *shuman*. Chizkuni (Vayikra 3:3) and *Tirgem Avraham*: *tarba* is from the
 Aramaic *rav*, big or growing, since the more a person or animal eats the more
-fat accrues; that Aramaic term is in turn probably related to the Hebrew
+fat accrues. That Aramaic term is in turn probably related to the Hebrew
 reish-beis-(hey) of multiplying.
 
 ### pader (פדר)

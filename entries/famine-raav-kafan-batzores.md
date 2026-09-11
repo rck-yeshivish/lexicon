@@ -17,11 +17,13 @@ updated: 2026-09-10
 
 *Ra'av* is the standard word, some 130 occurrences: **famine**, or **hunger**
 when the subject is a person. *Kafan* appears in Hebrew only twice, both in Iyov
-(5:22, 30:3), and is the harder case: the famine of prices or of a stomach
-that has stopped complaining, not a second word for the same thing. *Batzores* is the rabbinic term, which Rashi glosses as **a year of famine**
-(the root's third sense being withholding). Where *kafan* stands beside *ra'av*
-in the same passage, the pairing is the whole reason the distinction is being
-drawn.
+(5:22, 30:3), and is the harder case: it may be simply the Aramaic word for
+the same thing, or, on various readings, the famine of prices or of a stomach
+that has stopped complaining. *Batzores* is the rabbinic term; the Biblical
+*shnas batzores* Rashi glosses as **a year of famine** (the famine sense
+seemingly closest to the root's third meaning, withholding). Where *kafan*
+stands beside *ra'av* in the same passage, the pairing is what suggests that
+the two differ.
 
 ## Distinctions
 
@@ -36,10 +38,10 @@ empty and whose soul craves food.
 ### kafan (כפן)
 Root כ-פ-נ. Multiple commentators, the earliest of whom seems to be Ibn Saruk
 (*Machberes Menachem*), have noted that Targum's regular renderings of *ra'av*
-are *k'fan*, *kafna*, *kfina*, all from that same root, which would suggest that
-*ra'av* is Hebrew and *kafan* Aramaic, the two being not synonyms in the
-classical sense but one word in each of two languages. But *kafan* stands in
-Iyov, which is not clearly written in Aramaic, and there it appears alongside
+are *k'fan*, *kafna*, *kfina*, all from that same root. Rabbi Klein infers that
+it is quite possible *ra'av* is Hebrew and *kafan* Aramaic, the two being not
+synonyms in the classical sense but one word in each of two languages. But
+*kafan* stands in Iyov, which is not clearly written in Aramaic, and there it appears alongside
 *ra'av* itself; this suggests that *kafan* is indeed a Hebrew word meaning
 something slightly different from *ra'av*, at least where it appears in Hebrew.
 The readings:
@@ -68,7 +70,7 @@ The readings:
   dressing, sleeping, procreating) eating and drinking are the most important,
   so a dearth of food *forces* his hand. He notes as well that
   *kafan* can mean scattering or spreading out, possibly a metathesis of *kanaf*
-  (wing), which a bird spreads to fly, and famine is what sends a man out of the
+  (wing), which a bird spreads to fly, and famine may send a man out of the
   stricken place, as it sent Avraham, Yitzchak, and Yaakov.
 - Rabbi Shlomo Pappenheim offers a similar explanation: from the biliteral כ-פ,
   receptacle, which yields *kaf* (palm), *kofef* (bending, the act that turns a
@@ -76,18 +78,19 @@ The readings:
   to an authority), *kippah* (dome, a palm-like structure), *kofeh* (turning a
   vessel over, which creates a dome-like space), and *kefiyah* (subduing
   dissent, and so causing one to bend). Famine is
-  the calamity that bends a man's stature, physically from malnutrition or
+  the calamity that might bend a man's stature, physically from malnutrition or
   figuratively in forcing him to submit to whatever terms will keep him alive.
 - The Vilna Gaon: *kafan* is the *internal* difficulty, where enough food is at
-  hand yet does not satisfy, the curse of "you shall eat and not be sated"
+  hand yet does not satisfy, which he likens to the curse of "you shall eat and
+  not be sated"
   (Vayikra 26:26), the reverse of "you shall eat your bread to satisfaction"
   (Vayikra 26:5), which Rashi explains as a small quantity blessed in the belly.
 - Wertheimer: *kafan* is worse than *ra'av*, the man so far gone in
   malnourishment that he no longer feels hunger, having grown used to receiving
   less than he needs.
 - Minority: Rabbi Dr. Moshe Zidel claims *kafan* is specifically thirst, lack of
-  drink, against *ra'av* as hunger, lack of solid food. The column reports that
-  it has found no other source indicating this distinction.
+  drink, against *ra'av* as hunger, lack of solid food. Rabbi Klein reports that
+  he has found no other source indicating this distinction.
 
 ### batzores (בצורת)
 The Biblical phrase *shnas batzores* (Yirmiyahu 17:8), which Rashi explains as a
@@ -98,7 +101,7 @@ which elsewhere gives "stronghold, fortified" (*mivtzar*) and "grape harvest"
 (*batzir*); the famine sense seems to relate closest to the root's third
 meaning, withholding or subtracting. Rabbi Pappenheim reads ב-צ-ר in general as
 a portmanteau of ב-א (come) and צ-ר (narrow), though he does not himself apply
-it to famine; the column adds, with some creativity of its own, that a famine
+it to famine; Rabbi Klein adds, with some creativity of his own, that a famine
 drives people into financial and economic straits where their range of choices
 stays narrow.
 
@@ -106,10 +109,10 @@ stays narrow.
 Targum's usual word for *ra'av* is *kafna*. But Rabbi Eliyahu HaBachur
 (*Meturgaman*) notes that Targum to Iyov renders *kafan* itself as *ultzan*
 (5:22, 30:3), and Targum to Tehillim renders *ra'av* once as *kafna* (105:16)
-and twice as *ultzana* (33:19, 37:19); the Targum to Iyov, Mishlei, and Tehillim
+and twice as *ultzana* (33:19, 37:19). The Targum to Iyov, Mishlei, and Tehillim
 is written in a different style from the other Targumim, its language closer to
-the Syriac dialect of Aramaic, so a different Aramaic word for "famine" there is
-not surprising. As an aside, the column notes that *ultzan*/*ultzana* seem to
+the Syriac dialect of Aramaic, so it is not surprising that it sometimes uses a
+different Aramaic word for "famine" there. As an aside, *ultzan*/*ultzana* seem to
 derive from the Hebrew root א-ל-צ, the root of Biblical *alatz*.
 
 ## Rendering guidance

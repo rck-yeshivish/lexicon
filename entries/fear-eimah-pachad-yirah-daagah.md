@@ -15,12 +15,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Eimah* is the felt emotion of being afraid: **dread, terror**. *Pachad* is the
-sudden, short-lived start of fear, its outward reaction: **fright, fear**. *Yirah*
+For Ibn Ezra, *eimah* is the felt emotion of being afraid: **dread, terror**.
+*Pachad* is the sudden, short-lived start of fear, for Ibn Ezra its outward
+manifestation: **fright, fear**. *Yirah*
 and its noun *morah* are the sustained fear that has built up over time: **fear**
 (the general word). *Daagah* is fear of a loss or of a coming evil: **worry,
-anxiety**. *Pachad* is sudden and brief, *morah* is continual and therefore the
-more intense (Rashi, Rabbi Shlomo Aharon Wertheimer).
+anxiety**. Rashi contrasts *pachad* as sudden with *morah* as pent up over time;
+for Rabbi Shlomo Aharon Wertheimer *pachad* is brief and *morah* continual and
+therefore the more intense.
 
 ## Distinctions
 
@@ -29,8 +31,8 @@ Root א-י-ם. Ibn Ezra (Shemos 23:27): *eimah* is the emotive feeling of being 
 as against *pachad*, the outward manifestation of fear. Rashi (Shemos 15:16): *eimah*
 and *pachad* differ as fear of a distant threat differs from fear of one close at
 hand; the versions of Rashi and the other commentators disagree on which is which.
-Either way, the
-column observes, a man reacts differently to hearing news of a threat than to
+Either way, Rabbi
+Klein observes, a man reacts differently to hearing news of a threat than to
 meeting one, and Hebrew registers those differing fight-or-flight responses in
 two otherwise synonymous words.
 
@@ -39,8 +41,8 @@ Root פ-ח-ד. Rashi (Devarim 11:25), distinguishing it from *morah*, repeats th
 far/near distinction there and adds a second one: *pachad* is a sudden fear,
 *morah* a fear pent up for some time. Wertheimer: *pachad* is the less
 intense, sudden but short-lived; and it applies only to human beings, who have the
-intellect to grasp what a danger implies, whereas the other words apply to animals
-too, whose instinct reacts without comprehension. Ibn Ezra: the outward
+intellect to grasp what a danger implies, whereas the other words can apply to
+animals too, whose instinct reacts without comprehension. Ibn Ezra: the outward
 manifestation of fear.
 
 ### yirah / morah (יראה / מורא)
@@ -57,7 +59,7 @@ HaMelech's counsel, דאגה בלב איש ישחנה (Mishlei 12:25): speak it 
 worry confined to finite words loses its limitlessness; on the second reading,
 distract oneself with other matters. Beis HaLevi: worry over what is foreseen as
 certain. Wertheimer: not the worrying itself but the despondency of one steeped in
-anxious fright; the column notes that this echoes Franklin Delano Roosevelt's
+anxious fright; Rabbi Klein notes that this echoes Franklin Delano Roosevelt's
 inaugural line that the only thing we have to fear is fear itself.
 
 ## Rendering guidance

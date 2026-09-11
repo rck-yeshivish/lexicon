@@ -21,8 +21,9 @@ updated: 2026-09-10
 *Meitzach* is the biblical word, some thirteen times in Tanach; *padachat* is the
 word of Chazal, absent from Tanach. From the Geonim onward they are treated as
 the same thing in two strata of the language (Rav Hai Gaon; Rabbeinu Chananel;
-*Sefer HaAruch*; and Rashi, who glosses *padachat* as *meitzach* every time), so
-on that view both are **forehead**. At Shemos 28:38, since most authorities hold
+*Sefer HaAruch*), and Rashi's glossing *padachat* as *meitzach* every time
+suggests that he too took them as synonyms, so on that view both are
+**forehead**. At Shemos 28:38, since most authorities hold
 the *tzitz* sat above the forehead where the *tefillin* go, the Ritva and
 *Tosafos Yeshanim* either read the pasuk as "above his *meitzach*" or take
 biblical *meitzach* as **the top of the head**, or at least as including the top
@@ -31,14 +32,14 @@ of the head along with the forehead.
 ## Distinctions
 
 ### meitzach (מצח)
-Thirteen or so occurrences in Tanach, always in the construct form, which is why
-the vowelization outside the construct is disputed (see below). Targum Yonasan
+Thirteen or so occurrences in Tanach, always in the construct form; the vowelization
+outside the construct is disputed (see below). Targum Yonasan
 to Shemos 28:38 renders it *padachta*. On the root:
 
 - Rabbi Shlomo Pappenheim ties *meitzach* to *netzach* and *nitzachon*, victory:
   the forehead is the most noticeable and visible part of a man and so seems to
-  overpower the rest of him. He runs both back to the biliteral צ-ח, though the
-  column remarks that his way of explaining that connection may seem a bit
+  overpower the rest of him. He runs both back to the biliteral צ-ח, though Rabbi
+  Klein remarks that his way of explaining that connection may seem a bit
   farfetched.
 - Rabbi David Chaim Chelouche, late Chief Rabbi of Netanya, offers a more direct
   connection to the same core: a forehead is generally smooth and hairless, and
@@ -63,18 +64,18 @@ goes back to the Geonim: Rav Hai Gaon in his commentary to Niddah 3:5, and his
 student to Shabbos 80b; Rabbi Zecharia Aghmati (*Sefer HaNer* to Shabbos 80b)
 citing Rav Hai; then Rabbeinu Chananel to Shabbos 80b and the *Aruch*. Rashi
 glosses *padachat* as *meitzach* at Shabbos 151b, Yevamos 120a, Kesuvos 75a, and
-Bechoros 46b, without exception, which the column takes as suggesting that he too
-understood the two to be perfectly synonymous. (The column reports a suggestion
-of Rabbi Yosef de Jong that *meitzach* is specifically the front of the forehead
-while *padachat* takes in the temples as well, but notes that he concedes he has
-no source for it, and that the Academy of the Hebrew Language's official
+Bechoros 46b, without exception, which Rabbi Klein takes as suggesting that he too
+understood the two to be perfectly synonymous. (Rabbi Yosef de Jong suggests
+that *meitzach* is specifically the front of the forehead while *padachat* takes
+in the temples as well, though he concedes he has no source for it; the Academy
+of the Hebrew Language's official
 anatomical dictionary defines *padachat* as the Latin *glabella*, the smooth
 part of the forehead above and between the eyebrows, which would seem to exclude
 the temples.)
 
 Where the word came from is unsettled. Its root seems to be פ-ד-ח, and such
 a root is not attested anywhere else in Hebrew. Dr. Alexander Kohut writes in
-*Aruch HaShaleim* that *padachat* is of Persian origin, and the column supports
+*Aruch HaShaleim* that *padachat* is of Persian origin, and Rabbi Klein supports
 him from the Comprehensive Aramaic Lexicon Project, which shows that the few
 places *padachat* appears in the Gemara and rabbinic literature are the only
 instances of the word in Aramaic at all; this suggests it is not really an
@@ -83,10 +84,11 @@ logical candidate. Others argue for a Semitic or even a Hebrew basis:
 
 - Rabbi Yaakov Yehuda Zilberberg de Kassif, by metathesis, groups three roots
   that use *peh*, *dalet*, and *ches* in different orders: *dachaf*, to push,
-  *pachad*, fear, and *padachat*. Haste and confusion push their way to the
-  forefront of a man's emotions so that fear becomes his dominant feeling, and
-  that inner fear is in turn pushed outward and shows on his forehead.
-- Rabbi Chelouche reads *padachat* as a cognate of *metzach* outright, *mem*
+  *pachad*, fear, and *padachat*. Haste and confusion often push their way to
+  the forefront of a man's emotions so that fear becomes his dominant feeling,
+  and that inner fear is in turn pushed outward and often shows on his forehead.
+- Rabbi Chelouche argues that *padachat* can be understood as a cognate of
+  *metzach*, *mem*
   interchanging with *peh* (both sounded at the lips) and *tzadi* with *dalet*
   (as their orthographic similarity in Arabic shows).
 - Rabbi Yehoshua Steinberg of the Veromemanu Foundation suggests connecting
@@ -98,14 +100,14 @@ logical candidate. Others argue for a Semitic or even a Hebrew basis:
 ### The Arabic fadiha
 The Arabic *fadiha* (or *fadichah*) has entered Modern Hebrew slang for a
 shameful occurrence, a scandal, or a public shaming. Asked whether it connects to
-*padachat*, Rabbi Shaul Goldman offered the column two possibilities. Either
+*padachat*, Rabbi Shaul Goldman offered two possibilities. Either
 *fadiha* goes back to the Aramaic ב-ד-ח, happiness or joking (which gives Hebrew
 *bedichah*, a joke, and the Hebrew and Yiddish *badchan*), since words for joyous
 expression are often used for ridicule as well, the *beis* morphing into a *peh*;
 or *padachat* and *fadiha* are related through the sense of exposure, the Arabic
 verb *fadah* meaning "to expose," the forehead being the most exposed part of the
-body and a *fadiha* an incident that exposes a man's foibles. The column adds an
-aside of its own, calling it "totally anachronistic," that the facepalm is a very
+body and a *fadiha* an incident that exposes a man's foibles. Rabbi Klein adds a
+tentative aside of his own, calling it "totally anachronistic," that the facepalm is a very
 human reaction to an embarrassing situation.
 
 ### metzach or meitzach

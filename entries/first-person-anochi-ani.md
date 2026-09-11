@@ -23,14 +23,13 @@ else, did it), and with *ani* the news is in the predicate (what I did, as
 against something else I might have done). But that is
 not the only reading in the field: Rav Hirsch takes *anochi*'s force to be
 nearness rather than exclusion, and Rabbi Edel takes the pair to name body and
-soul. Derashos are built on the difference, beginning with *Anochi Hashem
-Elokecha*.
+soul. The distinction is applied to *Anochi Hashem Elokecha*.
 
 ## Distinctions
 
 ### ani (אני)
 The ordinary first-person pronoun, and the one that survived into everyday
-speech; *anochi* by contrast sounds archaic today. Maharal: *ani* is simply
+speech; *anochi* by contrast sounds somewhat archaic today. Maharal: *ani* is simply
 first person, without stress. Malbim and Rabbi Shlomo Pappenheim: *ani* is used
 where the fresh information sits in the predicate, so *ani omed* means "I am
 standing," that is, standing and not sitting. Rav Hirsch: *ani* marks the
@@ -55,7 +54,7 @@ word *anoch*, meaning love and endearment.
 
 Rabbeinu Bachya says *anochi* carries deeper, kabbalistic weight than *ani*,
 without explaining further. One might read that as *anochi* for the soul and
-*ani* for the body, but the evidence points the other way: Ibn Ezra relates
+*ani* for the body, but there is evidence to the contrary: Ibn Ezra relates
 *anochi* to *anach*, a plumb line (Amos 7:7-8), and Rabbi Yehuda Leib Edel
 builds on this that *anochi* is the bob at the line's end, which anchors the
 straightedge, as the body anchors the soul in this world and holds it inside

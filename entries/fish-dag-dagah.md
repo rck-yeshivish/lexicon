@@ -17,11 +17,11 @@ updated: 2026-09-10
 
 *Dag* is **a fish**, the singular; *dagah* is the loaded form, and what it adds
 is disputed: **a large fish or a small one** (Chazal), **a female fish**
-(Rashi), **a dead fish** (Zohar), or **fish as a collective**, the species
-rather than the individual (Ibn Ezra). Where a passage switches from *dag* to
-*dagah*, as Yonah does between 2:1 and 2:2, the switch is the point. The Aramaic
-*nuna* and its diminutives (*munini*, *gildna*, *avruma*, *tzachanta*) are all
-**small fish**, not a species name.
+(Rashi and others), **a dead fish** (Zohar), or **fish as a collective**, the
+species rather than the individual (Ibn Ezra). Most of the sources that take up
+the difference focus on the switch from *dag* to *dagah* in Yonah 2:1 and 2:2.
+Rashi glosses several Aramaic words in the Gemara (*avruma*, *munini*, *gildna*,
+*tzachanta*) as **small fish**.
 
 ## Distinctions
 
@@ -45,7 +45,7 @@ Shabbos brought extra *da'agah*, worry, into the world.
 - Other sources, among them Rashi (to Yonah 2:1) and *Yalkut Shimoni* 550: *dag*
   is a male fish, *dagah* a female. The first fish's belly was roomy and Yonah was too much at ease, so
   Hashem had it spit him out into a pregnant female whose cavity was cramped,
-  and only then did he daven. The difficulty, which the column raises, is why
+  and only then did he daven. The difficulty, which Rabbi Klein raises, is why
   only female fish would be eaten in Mitzrayim or killed in the plague. (It may
   suit the reading in Yoma 75a that "eating *dagah*" in Bamidbar 11:5 is not
   about food at all but about the illicit intimacy the people were free to
@@ -69,32 +69,32 @@ Shabbos brought extra *da'agah*, worry, into the world.
 ### the verb (ויִדגו)
 Yaakov blesses Yosef's sons *v'yidgu*, may they multiply like fish (Bereishis
 48:16). Rav Hirsch notes that this is the only verbal use of ד-ג in all of
-Chumash; everywhere else the cognates are nouns. Menachem alone derives the verb
+Chumash; everywhere else the cognates are nouns. Among the earlier grammarians, Menachem alone derives the verb
 from the same root as *dag*; Ibn Janach and Radak assign it a triliteral ד-ג-ה,
 though Radak seems the more open to connecting it to *dag*. Rabbi Yehuda Ibn Balaam
 lists ד-ג-ה among verbs formed from nouns; Rabbi Aharon Marcus reverses the
 direction, making fecundity primary and "fish" the borrowed sense, and uses this
 to account for Chumash never saying *dag/dagim*, only *dagah*, *digas*, and
-*v'yidgu*. (The column notes the counterexample itself: *digei* in Bereishis
-9:2, apparently the construct of *dag*.)
+*v'yidgu*. (Rabbi Klein himself points out the counterexample: *digei* in
+Bereishis 9:2, apparently the construct of *dag*.)
 
 ### the wider family
 Rabbi Pappenheim also attaches two further words to ד-ג that the other
 commentators do not necessarily see as related. *Da'agah*, worry: an
 apprehension resting on slight grounds, like the fisherman who picks his spot on
-faint signs with no real proof that fish are there. *Dagan*, grain: the most
-fecund of plants, one seed begetting many, as one fish fathers many. Menachem,
+faint signs with no real proof that fish are there. *Dagan*, grain: an especially
+fecund plant, one seed begetting many, as one fish fathers many. Menachem,
 Ibn Janach, and Radak each give these their own triliteral roots, ד-א-ג and
 ד-ג-נ. *Dugmah*, specimen (Shabbos 10:1, Eduyos 5:6, and often in the Gemara),
 is said to be a loanword from the Greek *deigma*; but given Rabbi Pappenheim's
-biliteral, the column conjectures that it may derive from ד-ג too, an example
+biliteral, Rabbi Klein conjectures that it may derive from ד-ג too, an example
 being a mere sampling of a quantitatively larger pool, with the mem extraneous
 to the root.
 
 As an aside, Menachem does agree that the name of the Philistine god Dagon
 derives from the same root as *dag*, the idol that represented that deity having
-been fish-shaped; the column treats the deity at length in the encyclopedic
-section of its author's *God versus Gods: Judaism in the Idolatry* (Mosaica
+been fish-shaped; Rabbi Klein treats the deity at length in the encyclopedic
+section of his *God versus Gods: Judaism in the Idolatry* (Mosaica
 Press, 2018).
 
 ### the Aramaic small fish
@@ -108,12 +108,11 @@ Horayos 12a, Berachos 44b, Kesubos 105b); and *tzachanta* (Rashi to Succah 18a,
 Sanhedrin 49a), which Yerushalmi Nedarim 6:3 gives as the Bavel name for the
 *tarit*. On *munini*: Rabbi David Golomb parses it as a diminutive mem plus the
 Aramaic *nun*, fish; Rabbi Moshe Batzri as a contraction of *mei nuna*, fish
-water. *Tarit* is Rashi's word for tuna (Megillah 6a, Berachos 44a), as are
+water. Rashi identifies *tarit* as tuna (Megillah 6a, Berachos 44a), and likewise
 *sultanit* and the Spanish *kulyis* (Shabbos 39a, Chullin 66a). On the species: ichthyologists, mentioned by Dr. Moshe Raanan, identify *gildna*
 with the flathead grey mullet (*Mugil cephalus*) or with gilt-head bream
 (*Sparus aurata*), and modern scholars, also cited by Dr. Raanan, identify
-*tzachanta* with either sardines or anchovies. These are naturalists' proposals,
-not lexical rulings.
+*tzachanta* with either sardines or anchovies.
 
 ## Rendering guidance
 

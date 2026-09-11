@@ -32,11 +32,12 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Makkah* is a **blow**, and from there a **wound** and a **plague**; the plural
-*makkot* is the Torah's own word for judicial **lashes**. *Malkut* is the
+*Makkah* is a **blow**, and from there a **wound** and a **plague**; cognates of
+*makkah* are the Torah's own language for judicial **lashes**, and the plural
+*makkot* names them. *Malkut* is the
 Mishnaic word for the same punishment, **flogging**, which the linguist Avraham
 Even-Shoshan derives from the Aramaic root ל-ק-ה. On Even-Shoshan's account the
-two mean essentially the same thing in different languages, and the column
+two mean essentially the same thing in different languages, and Rabbi Klein
 posits from this that the masechta simply carries a Hebrew name and an Aramaic
 one. Two other authorities do read a real difference of scope into the pair, in
 opposite directions; and in any case *makkeh* is the one who strikes and *lokeh*
@@ -47,7 +48,7 @@ can mean impaired rather than struck.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מכה | makkah | blow, wound, plague | Hebrew, active, the striking and its result (Ibn Janach, Radak) |
+| מכה | makkah | blow, wound, plague | Hebrew, active (HaBachur), the striking and its result; root נ-כ-ה for Ibn Chayyuj, Ibn Janach, and Radak |
 | מכות | makkot | lashes | the Torah's verb for flogging; rabbinic *makkos mardus* on one view (Taieb) |
 | מלקות | malkut | flogging | Mishnaic, from Aramaic on Even-Shoshan's derivation; Torah-ordained lashes on one view (Taieb) |
 | לקה | lakah | be struck, be impaired | passive (HaBachur), and broader than striking (Tiferes Yisrael) |
@@ -55,8 +56,8 @@ can mean impaired rather than struck.
 ## Where the authorities disagree
 
 **Which of the two is the wider word.** Three readings, the first two opposed
-and both prompted by the question of why the masechta is called Makkos, the
-third denying that there is a difference at all.
+and both bearing on the question of why the masechta is called Makkos, the
+third holding that the two essentially mean the same thing.
 
 1. **Makkot is the narrower, so the better name.** Tiferes Yisrael (Rabbi
    Yisrael Lipschutz): *lakah* is not specifically "hit" but a general word for
@@ -70,7 +71,7 @@ third denying that there is a difference at all.
    galus, so *Makkos* is the name that takes in both punishments.
 3. **The two are one word in two languages.** Avraham Even-Shoshan, in his
    dictionary: *malkut* and *makkot* essentially mean the same thing, only in
-   Aramaic and in Hebrew respectively. No difference of scope at all.
+   Aramaic and in Hebrew respectively.
 
 **Which term belongs to Torah lashes and which to rabbinic.** Rabbi Shmuel Taieb
 (*Shemen Tov*): the Gemara commonly uses *malkut* for lashes ordained by the
@@ -84,7 +85,7 @@ two answers: the name follows the Torah's own language, since cognates of
 *makkah* occur five times in the flogging passage (Devarim 25:2-3) and *malkut*
 nowhere in Tanach; and מכות has the letters of כמות, "like death," alluding to
 the principle that flogging is in some respects a lesser death (Sanhedrin 10a).
-Simpler still, the column proposes: in light of HaBachur's and Even-Shoshan's
+Rabbi Klein proposes: in light of HaBachur's and Even-Shoshan's
 understanding "we may posit" that the masechta has a Hebrew name and an Aramaic
 one, as Beitzah is also Bei'ah, and many Hungarian and chassidishe Jews indeed
 have the custom of saying Malkus.
@@ -99,7 +100,8 @@ monoliteral roots and give נ-כ-ה, the nun regularly dropping in conjugation.
 The primary sense is striking another. From the act the word passes to the wound
 it leaves, and from there to a plague, so that the Ten Plagues are the *Eser
 Makkos*, literally ten strikings. This is the word the Torah uses for the
-court's flogging (Devarim 25:2-3), and hence the masechta's name.
+court's flogging (Devarim 25:2-3), and, for Rabbi Naftali HaKohen Katz, hence
+the masechta's name.
 
 ### malkut / lakah (מלקות, לקה)
 Neither *malkut* nor *lakah* occurs in Tanach; both do appear in Mishnaic
