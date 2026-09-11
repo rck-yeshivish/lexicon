@@ -57,9 +57,8 @@ all.
 
 ## Where the authorities disagree
 
-The column opens by saying it is important to distinguish the physical act of
-pushing from the metaphorical sense of being pushed around or coerced, and that
-some of these words carry both.
+The physical act of pushing must be kept apart from the metaphorical sense of
+being pushed around or coerced, and some of these words carry both.
 
 **Whether potzer is physical.** Rav Hirsch (to Bereishis 19:3) reads it as
 primarily poking or stabbing at someone or something until they acquiesce to the
@@ -179,7 +178,7 @@ that continues into Modern Hebrew and is not far from the original in Shir
 HaShirim. One of the Wilderness encampments was named Dafkah (Bamidbar
 33:12-13), seemingly from the same root.
 
-The column closes with a historical aside. Norbert Pearlroth, who served as
+Norbert Pearlroth, who served as
 research director of *Ripley's Believe It or Not!* for over half a century, wrote
 in his column on Jewish family names (*The Indiana Jewish Post*, 29 March 1946,
 p. 8) that the surname Deifik comes from *dofek*, "pulse": before 1848 Jews could
@@ -188,7 +187,7 @@ work such as barber-surgeon, and the patriarch of the Deifik family had the habi
 of feeling his patients' pulse, so the Hebrew word for heartbeat became the
 family name. Pearlroth's successor in that column, David L. Gold, later clarified
 (*The Indiana Jewish Post*, 31 October 1990, p. 16) that Deifik in fact derives
-from a nickname given to that patriarch. The columnist adds that Deifik is his
+from a nickname given to that patriarch. Rabbi Klein adds that Deifik is his
 wife's maiden name, and that on his own amateur genealogical research everyone
 bearing it (originally spelled Dojfig, Deifig or Dojfik) descends from her
 family, who came from Michalcze, today Mykhal'che in Ukraine, near Horodenka.

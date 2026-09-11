@@ -162,7 +162,7 @@ another Semitic language, and Rabbi Shaul Goldman adds that *agape* might instea
 be related to *chibah* / *chaviv*.
 
 ### names from these roots
-The column closes Part 1 with an excursus on names. It knows of no use of *ahavah*
+Rabbi Klein knows of no use of *ahavah*
 as a personal name in Tanach or the Tannaic period, but the Gemara has several men
 named Ahavah, among them the father of Rabbi Adda bar Ahavah and the son of Rabbi
 Zeira (Rosh HaShanah 29a, Nedarim 32a, Eruvin 96b). Rabbi Shlomo Luria (*Yam Shel

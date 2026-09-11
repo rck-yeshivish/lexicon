@@ -121,13 +121,13 @@ in the town of Worms (Germaiza), but on this showing it more likely comes from
 the Iranian word for red, which is itself bound up with worms, just not the
 German town of that name.
 
-Why *shani* should share the root of *sheini*, "two," is a question the column
-takes up. Rabbi Yaakov Hibbert of Manchester *conjectures*, from the wording of
+Why should *shani* share the root of *sheini*, "two"?
+Rabbi Yaakov Hibbert of Manchester *conjectures*, from the wording of
 the *Ohr HaChaim* (to Bereishis 38:28), that perhaps crimson relates to "two"
 because it was a string of that color that marked Zerach as the *second* son born
-to Yehudah and Tamar. The column then reports a different explanation it found in
-both Rabbi Moshe Tedeschi-Ashkenazi's *Otzar Nirdafim* and Rabbi Shlomo
-Pappenheim's *Cheshek Shlomo*: cloth dyed this color was often dyed *twice*, so
+to Yehudah and Tamar. Rabbi Moshe Tedeschi-Ashkenazi's *Otzar Nirdafim* and
+Rabbi Shlomo Pappenheim's *Cheshek Shlomo* both give a different explanation:
+cloth dyed this color was often dyed *twice*, so
 that the color would hold more strongly, and that is the link between *shani* and
 *sheini*.
 
@@ -311,7 +311,7 @@ Jewish from wearing a red garment called a *karbalta*, literally a rooster's
 crest, as *Sefer HaAruch* and Rabbeinu Chananel to Berachos 20a explain.
 
 ### Rashi's Old French
-The column closes by noting that Rashi uses the Old French *russ* to render
+Rashi uses the Old French *russ* to render
 *adom* (Bereishis 25:25, Vayikra 13:39), *gichor* (Berachos 31b, 58b, 59b,
 Bechoros 45b), *shachum* (Bereishis 30:32, Avodah Zarah 33b), *sumka* (Bechoros
 45b), and *tola'as shani* (Gittin 69b). That Romance word derives from the

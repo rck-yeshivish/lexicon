@@ -33,7 +33,7 @@ Pappenheim). *Shalom* is about parties in harmony,
 
 ## Distinctions
 
-The column opens on the Latin *pax*, which it notes is the progenitor of the
+The Latin *pax* is the progenitor of the
 English "peace" and may also be an ancestor of the Mishnaic Hebrew *piyus*,
 "appeasement"; Rome had its *pax Romana*, and the Jewish People their own under
 Shlomo HaMelech, whose very name is a cognate of *shalom*.
@@ -54,16 +54,15 @@ terms with something outside oneself, though it can borrow the sense of inner pe
 Root ש-ל-ה, from Pappenheim's ש-ל: the state in which every disturbance has been
 removed; hence *moshel* and *memshalah*, the rulers whose task is to keep it.
 Bedersi ranks it with *shalom*; Wertheimer groups the two as total peace. Why
-both of them pair the words the column asks outright, and answers with a hedge:
-the answer may lie in their shared etymological root, the biliteral ש-ל.
+do both of them pair the words? Rabbi Klein suggests that the answer may lie in their shared etymological root, the biliteral ש-ל.
 Pappenheim, after entertaining synonymy, concludes that *shalom* is the
 all-encompassing state across every relationship, while *shalvah* is one peaceful
 relationship within a wider discord. Malbim: *shalvah* is inner peace, *shalom*
 external. The verb *shalu* means both to be at ease (Rashi and Ibn Ezra to Eichah
 1:5) and to sin unwittingly (Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II
 29:11; the Targumim typically render *shogeg* as *shaluta*, and see Daniel 6:5,
-Rashi to Rus 2:16 and Ramban to Bereishis 38:5). How the two meanings converge in
-one word the column asks and answers twice over: Bedersi, the complacency of
+Rashi to Rus 2:16 and Ramban to Bereishis 38:5). How do the two meanings converge in
+one word? Bedersi: the complacency of
 *shalvah* easily breeds indolence, which leaves a man not careful enough to avoid
 sin; Rav Hirsch (Bereishis 8:1, Vayikra 5:4) similarly reads the double meaning as
 an allusion to the possible negative side of tranquility, since a man can become
@@ -97,7 +96,7 @@ others at all.
 *shalvah* and *shaanan*.
 
 ### Shabbos (שבת)
-The column closes by adding one more peace-word beginning with shin: Shabbos
+One more peace-word begins with shin: Shabbos
 itself, the epitome of rest and quiet in This World and a microcosm of the final
 peace awaiting us in the World to Come. Hence the Shabbos afternoon prayer, which
 calls the day's rest a rest of *shalom*, *shalvah*, *hashket* (*sheket*) and

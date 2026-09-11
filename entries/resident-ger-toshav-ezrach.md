@@ -21,8 +21,8 @@ updated: 2026-09-10
 *Ger* is the **sojourner**, cut off from his place of origin and living
 somewhere temporarily; *toshav* is the settled **resident** who is there for
 the long term; *ezrach* is the **native** or **citizen**, whose family and
-origins are known to everyone. *Zar* is the plain **stranger**. The column's own capsulization is Rabbi Shlomo
-Aharon Wertheimer's: a *ger* is the opposite of an *ezrach* and the opposite of a
+origins are known to everyone. *Zar* is the plain **stranger**. Rabbi Shlomo
+Aharon Wertheimer's capsulization: a *ger* is the opposite of an *ezrach* and the opposite of a
 *toshav*, neither a full-fledged citizen of this land nor an alien resident, but
 simply living here as one stop in a greater journey. *Ger* in halachic usage
 means a convert, while in Chumash it need not; and on Mizrachi's reading *ger
@@ -30,7 +30,7 @@ v'toshav* of Vayikra 25:35 is one person, a *ger toshav*.
 
 ## Distinctions
 
-The column opens from Modern Hebrew, where *ezrach* means "citizen," *toshav*
+In Modern Hebrew *ezrach* means "citizen," *toshav*
 means "resident (without citizenship)," and verb cognates of *ger* simply mean
 "dwelling," although *ger* itself retains a religious connotation.
 

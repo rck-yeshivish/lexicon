@@ -108,13 +108,13 @@ the word *Shavuos* itself into Aramaic.
 **Why the Torah's names fell out of use.** Rabbi Baruch Epstein (1860-1941): once
 Yisrael was exiled from the Land and working it was no longer central to their
 lives, *Chag HaKatzir* and *Yom HaBikkurim* fell away, those elements of the yom
-tov having become impossible to fulfill. Why *Shavuos* itself was dropped, which
-has nothing to do with agriculture, the column answers anonymously: some explain
+tov having become impossible to fulfill. Why was *Shavuos* itself dropped, when that
+name has nothing to do with agriculture? Some explain
 that since *shavuos* means "weeks," the name may lend credence to the heretical
 Sadducean view that the Omer count always begins on a Sunday and Shavuos
 therefore always falls on a Sunday, after seven complete calendar weeks; Chazal
 discontinued the name to avoid the appearance of supporting that view. Now that
-the Sadducees are no longer a force, the column concludes, we can revert to the
+the Sadducees are no longer a force, Rabbi Klein concludes, we can revert to the
 Torah's own name.
 
 ## Distinctions

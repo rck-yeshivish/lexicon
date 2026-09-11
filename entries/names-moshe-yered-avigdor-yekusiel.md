@@ -92,10 +92,10 @@ went down to the river to see his fate; Aharon, Avi-Zanoach, since his father ha
 forsaken his mother; Kehas, Avigdor, since the decree against the boys was
 repealed at his birth; the wet-nurse, Socho (*Zayis Raanan* notes she was hired
 alongside Yocheved's own nursing); and Israel, Shemayah ben Nesanel. *Sefer
-HaYashar* and *Yalkut Shimoni* to Shemos 166 carry the same tradition. The column closes the point by sending the
-reader to Ibn Ezra (to Shemos 2:22 and 4:20), who dismisses *Divrei HaYamim Shel
+HaYashar* and *Yalkut Shimoni* to Shemos 166 carry the same tradition. Ibn Ezra
+(to Shemos 2:22 and 4:20) dismisses *Divrei HaYamim Shel
 Moshe* as a reliable source, since it comes neither from the nevi'im nor from
-Chazal. It does not itself rule between them.
+Chazal. Rabbi Klein does not himself rule between them.
 
 **Whether Yehonasan is one of the names.** Rabbi Moshe Teitelbaum, on the
 strength of *Yetziv Pisgam* (read on the second day of Shavuos) and its "humble
@@ -108,7 +108,7 @@ three letters of the Shem HaMeforash in the one and *-el* as a suffix in the
 other; and Bava Basra 109b-110a identifies the idolatrous priest Yehonasan ben
 Gershom ben Menasheh (Shoftim 18:30, where the nun of Menasheh is superscripted
 as though not part of the text) as Moshe's own grandson, since Menasheh without
-the nun is Moshe and Moshe had a son named Gershom. So, the column concludes,
+the nun is Moshe and Moshe had a son named Gershom. So, Rabbi Klein concludes,
 even if Yehonasan is not named as one of Moshe's own names, it is certainly the
 name of a grandson who may have been named for him.
 

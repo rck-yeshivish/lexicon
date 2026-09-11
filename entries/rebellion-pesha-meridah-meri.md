@@ -49,7 +49,7 @@ is at bottom one who is negligent out of indolence. He is not trying to defy or
 provoke; he simply does not care enough about the consequences. Hence the
 *poshea* of Shemos 22:8 and *Bava Kama* 21b and 29a, the watchman who failed the
 vigilance expected of him without ever meaning to undermine anyone's property
-rights. The column then draws the extension in its own voice, continuing from
+rights. Rabbi Klein draws the extension in his own voice, continuing from
 Pappenheim rather than quoting him: before a king, and all the more before the
 King of kings, a higher degree of mindfulness is expected, so that laziness and
 apathy are tantamount to rebellion, since failing to live up to what is expected
@@ -88,8 +88,7 @@ Moshe calls the nation *mamrim* for refusing Hashem's word (Devarim 9:7, 9:24,
 (Devarim 21:18), *moreh* being a cognate of *mamre*. The *Sifrei* (*Ki Seitzei*
 218) darshens that *moreh* on *moreh* meaning "teaching": the boy has taught
 himself another path. But that exegesis, the column notes, does not tell us the
-etymological basis of *mamre*, and it is for that that the column turns to the
-lexicographers. Ibn Janach and Radak give the roots מ-ר-ה and מ-ר-ר, both of
+etymological basis of *mamre*. Ibn Janach and Radak give the roots מ-ר-ה and מ-ר-ר, both of
 which can refer to rebelling or to changing from what one was commanded;
 *Machberet Menachem*, as one would expect, links them all to the biliteral מ-ר.
 

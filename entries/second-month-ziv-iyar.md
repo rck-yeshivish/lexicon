@@ -145,9 +145,8 @@ explains that singing it on the day of the week Moshe died is a declaration of
 his *ziv*, the light of his teaching still shining after him.
 
 ### Iyar (אייר)
-The column opens by noting what is special about this month: Sefiras HaOmer runs
-through the whole of it, which makes it the only month on the calendar with a
-mitzvah attached to it from end to end.
+Sefiras HaOmer runs through the whole of this month, which makes it the only
+month on the calendar with a mitzvah attached to it from end to end.
 
 The name is not in Tanach. The names of all the months now in use came up from Bavel, by
 prophetic revelation according to the Yerushalmi (*Rosh HaShanah* 1:2) and

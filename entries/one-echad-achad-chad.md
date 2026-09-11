@@ -26,8 +26,8 @@ occurrence. *Achat* / *echat* are the feminine, one word vowelised two ways.
 
 ## Distinctions
 
-The essay starts from Moshe's defense against Korach's accusation of monetary
-impropriety: "I did not take a donkey of *echad* of them, and I did not do bad
+In his defense against Korach's accusation of monetary impropriety Moshe says,
+"I did not take a donkey of *echad* of them, and I did not do bad
 to *achad* of them" (Bamidbar 16:15), one pasuk with two words for "one."
 
 ### echad (אחד)

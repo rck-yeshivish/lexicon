@@ -23,7 +23,7 @@ in action. Where Hashem *pakad* someone, action follows.
 
 ## Distinctions
 
-The column opens from the six commandments to remember: the Shabbos (Shemos
+The Torah gives six commandments to remember: the Shabbos (Shemos
 20:8), the Exodus (Devarim 16:3), that
 Amalek attacked after the Exodus (Devarim 25:17), the giving of the Torah at Har
 Sinai (Devarim 4:9), how the Jews angered Hashem in the wilderness (Devarim
@@ -123,7 +123,7 @@ what we already have by letting it grow and multiply, mirroring the female's
 role in incubating and gestating what the male provided, so we say *ufakdeinu bo
 livrachah*.
 
-The column then ties Treves back to this: the explanation dovetails with the
+Rabbi Klein ties Treves back to this: the explanation dovetails with the
 Kabbalistic terminology, since Hashem's trait of mercy reflects unfettered
 Divine influence with the focus on the Giver, associating *zachor* and mercy
 with the male paradigm, while His trait of judgment reflects a limited Divine

@@ -18,8 +18,8 @@ updated: 2026-09-10
 *Pidyon* (verb *podeh*) is redemption by exchange: **ransom**, **buying back**,
 the fact of being freed. *Geulah* (verb *goel*) is redemption by right of
 kinship and by force, with no payment: **redemption**, **deliverance**, and it
-carries the sense of being raised up, not merely let out. The column stages no
-dispute: it lines up several explanations that run in the same direction (the
+carries the sense of being raised up, not merely let out. Several
+explanations run in the same direction (the
 Vilna Gaon, the Chatam Sofer, Rabbi Menachem Mendel of Kosov, Malbim), each
 making *geulah* the fuller term and *pidyon* the transactional or bare one, with
 Rabbi Chaim of Brisk and Rabbi Shmuel Tuvia Stern cutting the difference on
@@ -42,7 +42,7 @@ holiness onto something else (the redemption of hekdesh); alternatively,
 *pidyon* is case-by-case redemption of the individual. (The column introduces
 Rabbi Stern as the late Rabbi of Miami Beach.)
 
-A note on spelling, which the column carries as a closing footnote: *podeh* is
+A note on spelling: *podeh* is
 generally spelled with a heh, but in one place (Iyov 33:24) Scripture replaces
 the heh with an ayin (פדע). Rashi there and Ramban (to Shemos 21:14) explain
 that ayin and heh are interchangeable letters, so it is the same word. Ibn
@@ -60,7 +60,7 @@ not only saved from something bad but raised above one's circumstances and made
 greater. Rabbi Menachem Mendel of Kosov: comprehensive, everlasting
 deliverance. Malbim: *geulah* is redemption born of closeness between redeemer
 and redeemed, and that closeness is the impetus for the redeemer's feeling of
-responsibility to save. The column then runs this out to *goel hadam*: when a
+responsibility to save. The same closeness lies behind *goel hadam*: when a
 man's relative is murdered he holds a status that may, under certain
 circumstances, perhaps allow avenging the death, and Bamidbar 35:19 calls him
 *goel hadam*, "redeemer of blood," where *goel* alludes to the avenger's kinship
@@ -70,14 +70,14 @@ application is Malbim's; it follows on from him.) Rabbi Shmuel Tuvia Stern:
 profane and shakes off its non-holy associations so it may enter the domain of
 the holy; alternatively, *geulah* is mass redemption of the nation at large.
 
-The halachic setting is where the column starts. The end of Vayikra treats
+The end of Vayikra treats
 redemption in the legal sense: the right, or even the commandment, of the
 impoverished and their extended family to redeem property sold out of
 desperation and bring it back to the family, whether a field, a house of
 residence, or a person sold as a slave (Vayikra 25:25-55), and the halachic
 mechanisms for redeeming consecrated animals, houses, or fields (Vayikra
-27:9-34). The verb there is sometimes *goel* and sometimes *podeh*, and that is
-the question the column opens with.
+27:9-34). The verb there is sometimes *goel* and sometimes *podeh*: what is
+the difference between them?
 
 ## Rendering guidance
 

@@ -69,7 +69,7 @@ The column does not choose among them.
 
 ## Distinctions
 
-The column opens by asking why Hebrew has so many words for rain. One answer, it
+Why does Hebrew have so many words for rain? One answer, Rabbi Klein
 says, is simply that rainfall mattered enormously to an agrarian society; but
 since the words of Hebrew bear intrinsic meanings and the Torah is not a
 thesaurus, there must be a deeper implication to the multiplicity.
@@ -90,7 +90,7 @@ indoors before the heavier rains come. *Malkosh* is tied to *mekoshesh*, one who
 reaps; it falls at the onset of spring, around Pesach, just before the harvest.
 
 ### the column's own answer
-It closes by returning to the question it opened with. The different words for
+Rabbi Klein answers that the different words for
 rain are not simply a product of rain's agricultural importance; they refer to
 different ways in which Hashem provides for the world. Some elements of Creation
 need a strong, torrential downpour to be quenched, while others need only a

@@ -148,9 +148,9 @@ pulling air into the lungs, and the same root gave way to *sheifah*, a higher
 yearning or desire that one has internalized (Koheles 1:5; Iyov 7:2, 36:20).
 
 ### why Moshe and not Mashui
-The column closes on a question many commentators have asked: why is he called
-Moshe, "he who pulls," rather than *Mashui*, "he who was pulled out"? Was he not
-the one who *was* pulled from the water?
+Many commentators have asked why he is called Moshe, "he who pulls," rather than
+*Mashui*, "he who was pulled out." Was he not the one who *was* pulled from the
+water?
 
 Rabbi Shlomo Ibn Parchon (*Machberes He'Aruch*) raises the question implicitly,
 asserting that Moshe should have been called Mashui and that the one who did the

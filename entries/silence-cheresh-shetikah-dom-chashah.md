@@ -56,15 +56,14 @@ the choice of word is the whole point.
 | חשה | chashah | keep still | reflective stillness (Mecklenburg) or withholding an answer one has (Wertheimer) |
 | הס | hass | hush | transitive: silencing others so they may listen or show honor (Pappenheim, Mecklenburg) |
 
-## The article's question and its answer
+## Why Mordechai chose cheresh
 
-The essay begins from Mordechai's words to Esther, "for if you shall surely be
-silent at this moment, redemption and salvation will arise for the Jews from
-another avenue" (Esther 4:14; see *Esther Rabbah* 8:6), and asks why he chose
-cognates of *cheresh* over the other words for silence. It works through
-*shetikah*, *dom*, *chashah* and *hass* first, then turns to *cheresh*.
+Mordechai tells Esther, "for if you shall surely be silent at this moment,
+redemption and salvation will arise for the Jews from another avenue" (Esther
+4:14; see *Esther Rabbah* 8:6). Why did he choose cognates of *cheresh* over the
+other words for silence?
 
-Its answer comes in two parts. On Bedersi's and Pappenheim's reading, *cheresh*
+Rabbi Klein answers in two parts. On Bedersi's and Pappenheim's reading, *cheresh*
 is the silence of a man weighing what to say next, so Mordechai was telling
 Esther not merely to think silently about the threat facing the Jews but to go
 out and do something, stressing that there was no time left for silent

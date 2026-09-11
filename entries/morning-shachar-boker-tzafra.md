@@ -77,8 +77,8 @@ Two further senses of the root:
    account *shachar* is related to *shachor* because morning breaks through the
    *blackest* point of the night.
 
-   The column then asks how the Zohar's claim can be substantiated
-   phenomenologically. Rabbi Moshe Shapiro answers that the first ray of morning
+   How can the Zohar's claim be substantiated phenomenologically? Rabbi Moshe
+   Shapiro answers that the first ray of morning
    light overshadows the smallest stars and the weaker sources of light, as
    though they were extinguished, while itself being too subtle to give any
    noticeable illumination of its own; so right at dawn the sky appears to grow
@@ -98,7 +98,7 @@ cantillation system) the Targum splits them, *boker* as *tzafra* and *shachar* a
 *kritzuta*. *Tzafra* is the standard Aramaic for morning in the Gemara; Rashi's
 greeting was *tzafra d'mareh tav*.
 
-*Tzafra* and *tzipor* (bird) are clearly linked, but, as the column concludes, it
+*Tzafra* and *tzipor* (bird) are clearly linked, but, as Rabbi Klein concludes, it
 is hard to say which came first. Ramban
 (Vayikra 14:4): *tzipor* comes from *tzafra*, since birds wake early and chirp.
 Rabbi Aharon Marcus: the reverse, *tzafra* from *tzipor*. Rabbi Yaakov Zev Lev

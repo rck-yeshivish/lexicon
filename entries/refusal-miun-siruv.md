@@ -43,9 +43,8 @@ Yisrael flatly refused and even threatened military action (Bamidbar 20:21); of
 Yaakov refusing to be comforted for Yosef (Bereishis 37:35), of Yosef refusing
 Potifar's wife (Bereishis 39:8), of Yaakov refusing to put his right hand on
 Yosef's firstborn (Bereishis 48:19), of Amnon deviously feigning sickness by
-refusing to eat (Shmuel II 13:9), and in several other places. The column's
-opening puzzle is that the more familiar Hebrew word for refusal is nonetheless
-not *mi'un* but *siruv*.
+refusing to eat (Shmuel II 13:9), and in several other places. Nonetheless,
+the more familiar Hebrew word for refusal is not *mi'un* but *siruv*.
 
 Rabbi Shlomo Pappenheim of Breslau (1740-1814) derives *mi'un* from *ein* /
 *ayin*, "no," "is not," "has not": one who refuses does not engage with what he
@@ -74,9 +73,8 @@ this, the column writes, it *seems* that the two are indeed synonyms but are
 sourced in different languages: *mi'un* and its cognates, appearing many times
 in Tanach, *seem* to be genuine Hebrew, while *siruv*, which at most appears
 once, *seems* to be a borrowed Aramaic loanword, and so became more popular in
-post-biblical Hebrew when Aramaic had a stronger influence on the language. The
-column then says plainly that there is another approach to the question, given
-below.
+post-biblical Hebrew when Aramaic had a stronger influence on the language.
+There is, however, another approach to the question, given below.
 
 In rabbinic Hebrew *sarvan* is settled: the Mishnah (*Berachos* 5:3) rules that
 a chazan who errs is replaced at once, and warns that the replacement must not
@@ -128,7 +126,7 @@ refusing to listen to its ruling; such a man, held in contempt of the court, may
 be subject to sanctions resembling excommunication, and the dayanim may give the
 opposing litigant permission to petition a non-Jewish court.
 
-The column closes with the English suffix that gave it its title: according to
+As for the English suffix in "refusenik": according to
 the *Oxford English Dictionary* the *-nik* of *beatnik*, *no-goodnik*,
 *peacenik* and *kibbutznik* is borrowed from Yiddish and Russian, and is said to
 have come into vogue especially after the Russians launched the Sputnik

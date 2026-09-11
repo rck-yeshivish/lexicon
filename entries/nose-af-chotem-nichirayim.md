@@ -27,7 +27,7 @@ anatomical word, and in the vast majority of pesukim it means anger, not nose.
 
 ## Distinctions
 
-The essay opens from *Sanhedrin* 52a, which describes the fire that consumed
+*Sanhedrin* 52a describes the fire that consumed
 Nadav and Avihu (Vayikra 10:1-2) as two fiery livewires that split into four
 and entered the four *chotem* of the two men. It is *chotem*, the Rabbinic
 word, that the Gemara uses there.

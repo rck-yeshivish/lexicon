@@ -30,7 +30,7 @@ exalt**, not to disparage, though the Biblical verb means the latter.
 
 ## Distinctions
 
-The column opens with an analogy. The Jewish-German linguist and anthropologist
+The Jewish-German linguist and anthropologist
 Franz Boas (1858-1942) claimed that the Eskimos of Arctic North America have
 more than twenty-five words for ice, and the usual explanation is that a people
 picks up every nuance of what matters most to it and gives each one a name. So

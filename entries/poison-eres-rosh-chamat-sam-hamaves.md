@@ -64,7 +64,7 @@ ascribed to Rashi on Divrei HaYamim II 22:10 has Asaliah killing this way too.
 Rabbi Shlomo Pappenheim of Breslau (1740-1814) takes ס-מ / ש-מ as putting a
 thing in its place, and derives *samim*, the ketores ingredients (Shemos 30:7,
 30:34, 40:27; Vayikra 16:12; Divrei HaYamim II 2:3, 13:11), from their being
-stowed in specially designated places. It seems from all this, the column
+stowed in specially designated places. It seems from all this, Rabbi Reuven Chaim Klein
 concludes, that *sam hamaves* is the general word, covering any lethal
 preparation and naming none in particular.
 

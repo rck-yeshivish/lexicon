@@ -34,8 +34,8 @@ The Mishnah at *Zevachim* 13:3 sets *even* and *sela* side by side.
 
 ## Distinctions
 
-The column opens with a disclaimer, that its author is no geologist and does
-not pretend to be one, and with the Mishnah that raises the question. *Zevachim*
+Rabbi Klein disclaims any expertise: he is no geologist and does not pretend to
+be one. *Zevachim*
 13:3 teaches that besides slaughtering a korban outside the Mikdash there is a
 separate prohibition of offering one outside it. Rabbi Yosi holds this applies
 only to one who erected an altar especially for the purpose and offered on it;

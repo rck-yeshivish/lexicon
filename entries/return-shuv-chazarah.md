@@ -27,13 +27,13 @@ U-turn, so *chazar b'teshuvah* is not a redundancy but two halves of one motion.
 
 ## Distinctions
 
-The column opens on Shabbos Shuvah, with Hoshea's words in the haftarah,
+On Shabbos Shuvah we read Hoshea's words in the haftarah,
 "Return O Yisrael until Hashem your God" (Hoshea 14:2). *Shuv* / *shuva* is the
 basis of *teshuvah*, and cognates of *shuva* are used throughout Tanach for
 repentance (for example Devarim 30:2). But there is a second Hebrew word for
 returning, *chazar*, and a lapsed Jew who has come back to observance is
 colloquially one who *chazar b'teshuvah*, a phrase built from two different
-verbs both meaning to return. That is the question the essay sets itself.
+verbs both meaning to return. How, then, do *shuv* and *chazar* differ?
 
 ### shuv, teshuvah (שוב, תשובה)
 Rabbi Shlomo Pappenheim of Breslau (1740-1814): the two-letter root ש-ב denotes
@@ -70,7 +70,7 @@ man recants his righteousness and becomes a sinner, he cannot justifiably be
 said to be returning to anything, unless, as the Gemara explains, he had
 previously been a sinner.
 
-This is the column's own answer to the question in its title. *Teshuvah*
+This is Rabbi Klein's own account of what *teshuvah* means. *Teshuvah*
 denotes a man's journey to his natural sin-free state; he is returning to where
 he is supposed to be, whether or not he was ever there before, returning to his
 spiritual default position, his home base. The column calls it the quest for

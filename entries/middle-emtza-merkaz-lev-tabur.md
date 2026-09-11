@@ -89,7 +89,7 @@ to each other geographically; on interchanges of letters he derives from the
 same root *rechush* and *neches*/*nechasim* (property, what a man accrues) and
 *rochel* (a merchant, who gathers up commodities to sell, the samech and lamed
 interchange being attested in various ancient languages, most notably
-Egyptian). From all of this, the column concludes, it seems the root's
+Egyptian). From all of this, Rabbi Reuven Chaim Klein concludes, it seems the root's
 principal sense is tying together; the knot is where the connection is
 strongest and most concentrated, and a thing's middle is generally where the
 concentration is highest, the extremities being thinner, so the semantic jump

@@ -71,10 +71,10 @@ cross over (*she'avru*) the sea.
 
 ## Distinctions
 
-The column takes its three questions from an exchange on the Los Angeles subway,
-where a friendly stranger asked the author and his wife whether they were Amish
-and he answered, "Nah, we're Hebrews": why are Jews called Hebrews, why are they
-called Jews, and what does the biblical "Israelites" mean?
+On the Los Angeles subway a friendly stranger once asked Rabbi Klein and his
+wife whether they were Amish, and he answered, "Nah, we're Hebrews." But why are
+Jews called Hebrews, why are they called Jews, and what does the biblical
+"Israelites" mean?
 
 ### Ivri (עברי) and ever (עבר)
 The first man in the Torah called an *Ivri* is Avraham, in the refugee's report
@@ -111,7 +111,7 @@ that the earliest appearance of *Ioudaios* is in the so-called Moschos
 Inscription, a stele erected in honor of the Greek gods by a Jew turned Hellene
 named Moschos. The name itself is Leah's: she called her fourth son Yehudah, the
 forebear of the Davidic line, as an expression of *hodaah*, thanks to Hashem for
-granting her a fourth son (Bereishis 29:35). The column closes with a story: Rabbi
+granting her a fourth son (Bereishis 29:35). Rabbi
 Dr. Norman Lamm, debating a radical secular Israeli who denied the Jewishness of
 the State of Israel, is reported to have answered that one who speaks of French
 and Spanish and Italian nationals while denying the nationhood of the Jewish

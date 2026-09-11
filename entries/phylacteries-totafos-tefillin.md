@@ -151,11 +151,11 @@ Hashem and Hashem to them, since the Gemara says that He too wears tefillin, who
 contents declare the uniqueness of Klal Yisrael as ours declare His oneness
 (Berachos 6a).
 
-The column closes the etymology with a convergence: Professor Moshe Weinfeld
-(1925-2009) notes that in the Aramaic writings found at Elephantine the term
-*tefillah* describes a silver amulet, and that in Ugaritic *tefili* refers to a
-sort of ornament worn on the head or forehead, which would mean that the etymology
-of *tefillin* may line up with that of *totafos*, which may also mean an ornament.
+Professor Moshe Weinfeld (1925-2009) notes that in the Aramaic writings found at
+Elephantine the term *tefillah* describes a silver amulet, and that in Ugaritic
+*tefili* refers to a sort of ornament worn on the head or forehead. That would
+mean, Rabbi Klein observes, that the etymology of *tefillin* may line up with
+that of *totafos*, which may also mean an ornament.
 
 ## Why the berachah says tefillin
 

@@ -113,7 +113,7 @@ derives from *prosopon*, and is the etymological ancestor of the English word
 Shamash on the old traditions of the community of Worms), so the custom was
 literally to wear faces on one's face.
 
-The column closes with why. The Gemara (Megillah 12a) says the Jews of
+Why the custom? The Gemara (Megillah 12a) says the Jews of
 Achashverosh's time were liable to destruction for having bowed to
 Nevuchadnetzar's idol, but since they had not really forsaken Hashem and bowed
 only out of fear, they were not truly deserving of it: as their idolatry was
