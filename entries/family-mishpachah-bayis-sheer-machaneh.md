@@ -126,7 +126,7 @@ Hebrew *bayis* both mean "family" while their core sense is "house."
 - *Mishpachah*: "family." *Bayis* of people: "household." *Machaneh*: "camp."
   *She'er*: "kinsman," "blood relative," or in the marital contexts "wife."
 - Trap: English "family" will absorb *mishpachah*, *bayis*, and *machaneh*
-  alike. In Vayishlach all three point at Yaakov's people within a few pesukim
+  alike. In Vayishlach two of them point at Yaakov's people within a few pesukim
   (*machaneh*, Bereishis 32:9 and 33:8; *bayis*, 35:2), and the words are making
   different claims: a body encamped, a household, a lineage. Keep them apart.
 - Trap: *bayis* and *she'er* both narrow to "wife." Do not render either as
