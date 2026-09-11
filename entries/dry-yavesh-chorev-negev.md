@@ -73,8 +73,8 @@ what Mecklenburg intends, not something Mecklenburg says.
 On the root: *Shoresh Yesha* takes ח-ר-ב at core as destruction, the opposite of
 living and thriving, which yields both *cherev* (the instrument of destruction)
 and dryness (what withers for lack of juice); Pappenheim says something similar.
-Rabbi Avraham Maimuni (to Bereishis 31:40) reads *chorev* as dryness caused by
-heat, which fits Radak in *Sefer HaShorashim* on ח-ר-ה, where heat is the core
+Rabbi Avraham Maimuni (to Bereishis 31:40) seems to read *chorev* as dryness
+caused by heat, which fits Radak in *Sefer HaShorashim* on ח-ר-ה, where heat is the core
 and anger the result. On that footing the column offers two speculations of its
 own, both flagged as such. First, that ח-ר-ב may somehow be an offshoot of
 ח-ר-(ה), the "destruction" sense alluding to the eventual consequence of
@@ -97,8 +97,8 @@ shriveling rather than literally drying.
 
 Rabbi Aharon Marcus writes that the core meaning of ב-ש is finishing or
 completing a project, and claims that this original sense is still known to us
-through Akkadian. It shows, he says, in two Hebrew roots: י-ב-ש, dryness, the
-end or completion of the drying process, and ב-ש-ל, giving *bishul* as cooking
+through Akkadian. It shows, he says, in two Hebrew roots: י-ב-ש, dryness, which
+seemingly denotes the end or completion of the drying process, and ב-ש-ל, giving *bishul* as cooking
 and *bishul* as ripening (Bereishis 40:10), the completion of preparing food.
 He also supposes that the *shin* of ב-ש stands for *aish*, fire, alluding to the
 part heat plays in cooking, ripening and drying alike. His completion sense

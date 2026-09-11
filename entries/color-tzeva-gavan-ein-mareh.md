@@ -17,12 +17,12 @@ words:
   - he: עין
     tr: ein
     en: color
-    distinct: construct of ayin, eye; the one specific color of a thing, since the eye is the instrument that tells colors apart (Raavad I, Emunah HaRamah), and Rambam's regular word for color
+    distinct: construct of ayin, eye; the one specific color of a thing, since the eye is the instrument that tells colors apart (Raavad I, Emunah HaRamah); Rambam uses it for color in some cases, and tzeva in others
   - he: מראה
     tr: mareh
     en: appearance, sight, color
     nk: מַרְאֶה
-    distinct: from ra'ah, to see; the whole picture a thing presents, which may take in more than one color, not the single color alone (Malbim to Vayikra 13:5)
+    distinct: from ra'ah, to see; the whole picture a thing presents, which could include its color, not the color alone (Malbim to Vayikra 13:5); a sight that may include more than one color (Shadal)
 sources:
   - wiaw:11705 "Terumah: Color Me" (2025-03-01) https://articles.ohr.edu/articles/terumah-color-me
 authorities: [Radak, Rashi, Malbim, Shadal, Maharal, Raavad I, Rambam, Menachem Ibn Saruk, Rabbi Natan of Rome, Rabbi Eliyahu Bachur, Rabbi Aharon Fuld, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shmuel Yehudah Steiger, Rabbi Meir Hellman, Rabbi Shalom Pushinsky, Rabbi Ernest Klein, Alexander Kohut, Aharon Aaronsohn]
@@ -35,12 +35,14 @@ updated: 2026-09-10
 
 *Tzeva* is **color** in the sense of dye: the colorant, and the color a thing
 has been given (Shadal: an artificial color, from *tzovea*, dyeing). *Ein*,
-construct of *ayin*, is a thing's own single **color**, and is Rambam's usual
-word for it. *Mareh* is the **appearance**, the whole sight a thing presents,
-which may include several colors (Malbim). *Gavan* is Aramaic, **color** or
-**shade**, and belongs to Talmudic and Targumic language, not to Tanach.
-Between them the four mark the difference between what a thing looks like and
-what has been done to it.
+construct of *ayin*, is a thing's own single **color**; Rambam sometimes uses
+*tzeva* for colors, but in other cases consistently uses *ein*. *Mareh* is the
+**appearance**, the whole picture of a thing, which could include its color
+(Malbim); for Shadal it is a sight that may include more than one color. *Gavan*
+is Aramaic, **color** or **shade**, and belongs to Talmudic and Targumic
+language, not to Tanach. Between *tzeva* and *gavan* the column would say the
+difference is simply one of origin: *tzeva* is the native Hebrew word, *gavan*
+an Aramaic borrowing of an Indo-European word.
 
 ## At a glance
 
@@ -59,11 +61,11 @@ in. Shadal says the same and adds the third term: *ein* and *mareh* both name a
 thing's natural look, while *tzeva* is an artificial color produced by painting
 or dyeing.
 
-**How wide ein reaches.** Raavad I (*Emunah HaRamah* 1:6) keeps it to color: the
-word means color because the eye is the organ that detects color, exactly as
-*lashon* (tongue) and *safah* (lip) came to mean language. The Maharal (*Gur
-Aryeh* to Vayikra 13:5) allows it further: *ein* means color primarily, but can
-name any property by which one thing is compared to another, even where nothing
+**How wide ein reaches.** Raavad I (*Emunah HaRamah* 1:6) explains why it means
+color: the eye is the organ that detects color, exactly as *lashon* (tongue) and
+*safah* (lip) came to mean language. The Maharal (*Gur Aryeh* to Vayikra 13:5)
+likewise takes *ein* to mean color primarily, and adds that it can name any
+property by which one thing is compared to another, even where nothing
 visual is involved, which is how *k'ein* and *m'ein* come to mean resembling or
 being a microcosm of something.
 
@@ -131,8 +133,8 @@ solution, the root came to cover soaking of every kind. Menachem Ibn Saruk
 this, listing both senses under one root without their usual separation.
 
 Dr. Alexander Kohut (*HeAruch HaShaleim*) ties צ-ב-ע instead to ט-ב-ע, which
-means sinking or drowning, and also stamping, and also nature, the link resting
-on the interchangeability of tzadi and tes. The column supplies the reasoning it
+means sinking or drowning, and also stamping, and also nature, the link seemingly
+resting on the interchangeability of tzadi and tes. The column supplies the reasoning it
 presumes he had: dyeing immerses an object in liquid much as a sinking thing is
 immersed; dyeing imprints a lasting color as stamping leaves a permanent mark;
 and *teva*, nature, is what is ingrained in a thing, as a dyed fabric absorbs
@@ -142,8 +144,8 @@ On the deeper sense of the root, Rabbi Yaakov Tzvi Mecklenburg (*HaKsav
 VeHaKabbalah* to Shemos 8:15, 31:18, Vayikra 4:25) takes it as gripping or
 holding fast: dyeing forges a bond that holds the color to the material, and
 color is the derived sense. That also explains *etzba*, finger, which is said to
-come from this root and whose alef Radak holds is not part of it (whence *matzbia*, using the finger in the Yom
-Kippur lottery, *Mishnah Yoma* 2:1, later pointing, and in Modern Hebrew
+come from this root and whose alef Radak holds is not part of it (whence *matzbia*, using one's finger to enter a
+raffle, *Mishnah Yoma* 2:1, later pointing, and in Modern Hebrew
 voting): the finger is what lets a man hold and control what he grasps, which is
 why the plagues are "the finger of Hashem" (Shemos 8:15) and the Luchos are
 written with His Finger (Shemos 31:18). Rabbi Shmuel Yehudah Steiger (*Avnei
@@ -155,8 +157,9 @@ here the colorant bound to the cloth.
 The construct of *ayin*, eye. It names the picture the eye holds, and often one
 aspect of it, the thing's color: the manna whose color was like the color of
 *bedolach*, *eino k'ein habedolach* (Bamidbar 11:7), and the *tzaraas* spot that
-"stands in its color" without lightening or darkening (Vayikra 13:5). Rambam
-uses *ein* rather than *tzeva* for color as such: the *galgalim* have no physical
+"stands in its color" without lightening or darkening (Vayikra 13:5). Rambam,
+who sometimes uses *tzeva* for colors and coloring, in other cases consistently
+uses *ein*: the *galgalim* have no physical
 color (*Yesodei HaTorah* 3:3), the garment whose color changes with *tzaraas*
 (*Tumas Tzaraas* 16:10), and the abstraction one cannot sell, the taste of honey
 or the color of a crystal (*Mechirah* 22:14). He uses both together for making

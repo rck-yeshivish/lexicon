@@ -18,8 +18,8 @@ updated: 2026-09-10
 *Oyev* is the enemy who acts, or at least plans to act: **enemy**, **foe**.
 *Soneh* is hatred held inside, shown by what a man refrains from doing:
 **hater**. *Tzar* (*tzorer*) is open, self-costing hostility: **adversary**,
-**persecutor**. Bamidbar 10:35 pairs them, and the difference between the two
-is the point of the tefillah.
+**persecutor**. Bamidbar 10:35 pairs them, and on Malbim's reading Moshe davens
+there that both kinds of Hashem's enemies be vanquished.
 
 ## Distinctions
 
@@ -37,8 +37,9 @@ his hatred beneath a façade of empathy. Like the *soneh*, he is a clandestine
 enemy, not an overt one.
 
 ### soneh (שונא)
-From *sinah*, hatred. A *soneh* is a hater rather than an enemy: the hatred
-stays internal and is not expressed outwardly. This is the word of "*lo sisna
+From *sinah*, hatred. The *soneh* is a hidden enemy: his hatred stays internal
+and is not expressed outwardly, remaining in the realm of the theoretical. This
+is the word of "*lo sisna
 es achicha bilvavecha*" (Vayikra 19:17), where mere hatred of a fellow Jew is
 forbidden whether or not it ever turns into action. His disposition is read
 from what he does **not** do: the Mishnah (Sanhedrin 3:5), disqualifying a

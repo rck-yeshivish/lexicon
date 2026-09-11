@@ -25,7 +25,8 @@ the same thing in two strata of the language (Rav Hai Gaon; Rabbeinu Chananel;
 on that view both are **forehead**. At Shemos 28:38, since most authorities hold
 the *tzitz* sat above the forehead where the *tefillin* go, the Ritva and
 *Tosafos Yeshanim* either read the pasuk as "above his *meitzach*" or take
-biblical *meitzach* as **the top of the head**, not the brow.
+biblical *meitzach* as **the top of the head**, or at least as including the top
+of the head along with the forehead.
 
 ## Distinctions
 

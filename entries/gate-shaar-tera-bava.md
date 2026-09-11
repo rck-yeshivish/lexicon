@@ -18,7 +18,7 @@ words:
   - he: בבא
     tr: bava
     en: gate, doorway; section
-    distinct: Talmudic Aramaic only, never used by the Targumim; Rashi renders it shaar, petach, or deles, and it also means a set or a section of a text (Rabbi Yitzchak Frank)
+    distinct: Talmudic Aramaic, absent from Biblical Aramaic and never used by the Targumim to render a Hebrew word, though it appears in Targum to Esther in an addition to the text; Rashi renders it shaar, petach, or deles, and it also means a set or a section of a text (Rabbi Yitzchak Frank)
 sources:
   - wiaw:10740 "Vayishlach: Enter the Gate" (2022-12-03) https://articles.ohr.edu/articles/vayishlach-enter-the-gate
 authorities: [Rashi, Shadal, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Eliyahu HaBachur, Meiri, Tosafos Yom Tov, Rabbi Shmuel Ibn Tibbon, Rabbi Yitzchak Frank, Rabbi Uriel Frank, Rabbi Jeremy Steinberg]
@@ -31,9 +31,13 @@ updated: 2026-09-10
 
 All three mean **gate**: *shaar* in Hebrew, *tera* in Targumic Aramaic, *bava*
 in the Aramaic of the Gemara. They are not synonyms within one language; each
-carries a second, non-architectural sense. *Shaar* in a Mishnah is often a
-market **price**, and *bava* in a Gemara a **section** of a text, as in Bava
-Kamma. Neither is a gate.
+carries a second, non-architectural sense. *Shaar* in a Mishnah is usually a
+gate and less commonly a market **price**, and *bava* in a Gemara a **section** of a text, as in Bava
+Kamma. Whether the textual sense has anything to do with a gate is left open.
+Rabbi Uriel Frank says it has none; *Tosafos Yom Tov* reads the names of the
+three masechtos as gates; and Ibn Tibbon ties *shaar* as a section of a book to
+the one city gate that all its citizens share, which the column thinks it not
+farfetched to say of *bava* too.
 
 ## At a glance
 
@@ -41,7 +45,7 @@ Kamma. Neither is a gate.
 |---|---|---|---|
 | שער | shaar | gate | Hebrew; also a settlement, a price, or the act of appraising (Shadal) |
 | תרע | tera | gate | Targumic Aramaic; from "breaching," a gate seemingly being a break in the wall (Rabbi Eliyahu HaBachur, who suggests this) |
-| בבא | bava | gate; section | Talmudic Aramaic only; also a set, or a section of a text |
+| בבא | bava | gate; section | Talmudic Aramaic; never used by the Targumim to render a Hebrew word, though it appears in an addition in Targum to Esther 5:14; also a set, or a section of a text |
 
 ## Where the authorities disagree
 

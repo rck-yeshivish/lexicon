@@ -18,13 +18,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Mammon* is **money** in the broadest sense, one's assets and holdings; it is
-Aramaic in origin and never appears in Tanach, only from the Mishnah on. *Damim*
+*Mammon* is **money** in the broadest sense, one's assets and holdings; it
+never appears in Tanach, only from the Mishnah on, and the *Pri Megadim* holds it
+to be Aramaic. *Damim*
 is **the price** or **the value** of a thing, always plural, and it is the
 homonym of *damim*, blood. *Maos* and *zuzim* are coin
-names that widened into general words for **money**; *kesef* is **silver** that
-widened the same way. *Mechir* is the Biblical **price**. In a Mishnaic passage
-*damim* is regularly money, while in Chumash
+names that widened into general words for **money**; *kesef* is **silver**, which
+probably widened the same way. *Mechir* is the Biblical **price**. In a Mishnaic passage
+*damim* is regularly money, while in Tanach
 it is blood, with only two pesukim disputed.
 
 ## Distinctions
@@ -41,7 +42,8 @@ Etymologies: *Bamidbar Rabbah* 22:8 reads it as *mah atah moneh, eino klum*, wha
 are you counting, it is nothing, an exegesis that partly suggests the root מ-נ-ה,
 counting. Rabbi Ernest Klein, in his etymological dictionaries of Hebrew and of
 English, writes that it most probably derives from *ma'amon*, a deposit or
-trust, from א-מ-נ, true or trustworthy, with the opening mem part of the root.
+trust, from א-מ-נ, true or trustworthy, with the opening mem added to the core
+root.
 The word also appears in the Christian Bible as a personification and
 deification of the greedy pursuit of wealth; and Rabbi Yitzchok Schmelkes of
 Lvov (1827-1905, responsa *Beis Yitzchak*, Yoreh Deah vol. 1 §152) explains
@@ -109,8 +111,9 @@ letters that *mammon*
 is cash, *mobilia*, whose value is already known, and *damim* is moveable property whose
 value has still to be assessed before it can serve as currency; he also holds
 *damim* to be Hebrew (citing Rashbam at Shemos 22:1) against Aramaic *mammon*,
-and ties *damim* to *dimyon*/*demus*, since such property only resembles capital
-until it is appraised. Rabbi Shimon Yehuda Leib Goldblit (*Leshon Chachamim*)
+and ties *damim* to *dimyon*/*demus*, something that only appears to resemble
+something else, which the column says ostensibly fits his view of *damim* as
+property that only resembles capital until it is appraised. Rabbi Shimon Yehuda Leib Goldblit (*Leshon Chachamim*)
 takes *dimyon* differently: a man imagines his money equals every commodity
 there is, "money answers everything" (Koheles 10:19).
 
