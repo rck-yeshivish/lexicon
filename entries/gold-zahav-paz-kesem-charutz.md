@@ -62,22 +62,28 @@ Aharon Wertheimer calls it the finest and rarest gold there is. Ibn Ezra (to
 Tehillim 19:11 and Shir HaShirim 5:11) reads it as a precious stone. Rabbi Moshe
 David Valle takes it as royal jewels that happened to be made of gold.
 
-**Where paz comes from.** Rabbi Shlomo Pappenheim: the biliteral פ-ז means quick
-movement, which is why David dancing before the Aron is *mifazez* (Shmuel II
-6:16); *paz* is gold so pure it shimmers in the sun as though dancing, and
-*mufaz* (Melachim I 10:18), *meufaz* (Yirmiyahu 10:9), and *ufaz* (Daniel 10:5)
-all describe that glitter. Others, such as Ibn Janach and Radak, separate the
-words: פ-ז-ז is its own root meaning strength, so *mifazez* is dancing with
-vigor and *mufaz* and *ufaz* describe gold unalloyed and therefore stronger.
-Radak adds a third possibility, that *meufaz* means "from Ufaz," which Targum
-identifies with Ophir; Rabbi Klein suggests this may be because the zayin of
-Ufaz interchanges with the reish of Ophir. Rav Hirsch (to Bereishis 49:23-24,
-and see his comment to Tehillim 19:11) says plainly that there ought to be a
-connection between *mifazez* and *paz* but that he does not know what it is.
+**Where paz comes from.**
+- Rabbi Shlomo Pappenheim: the biliteral פ-ז means quick movement, which is why
+  David dancing before the Aron is *mifazez* (Shmuel II 6:16); *paz* is gold so
+  pure it shimmers in the sun as though dancing, and *mufaz* (Melachim I 10:18),
+  *meufaz* (Yirmiyahu 10:9), and *ufaz* (Daniel 10:5) all describe that glitter.
+- Others, such as Ibn Janach and Radak, separate the words: פ-ז-ז is its own
+  root meaning strength, so *mifazez* is dancing with vigor and *mufaz* and
+  *ufaz* describe gold unalloyed and therefore stronger.
+- Radak adds a third possibility, that *meufaz* means "from Ufaz," which Targum
+  identifies with Ophir; Rabbi Klein suggests this may be because the zayin of
+  Ufaz interchanges with the reish of Ophir.
+- Rav Hirsch (to Bereishis 49:23-24, and see his comment to Tehillim 19:11) says
+  plainly that there ought to be a connection between *mifazez* and *paz* but
+  that he does not know what it is.
 
-**What betzer means** (Iyov 22:24, and see 22:25, 36:19). Ibn Janach, Radak, and
-Ralbag: gold. Ibn Ezra: silver. Menachem, followed by Rashi: a stronghold. Rabbi
-Yishaya of Trani: not gold itself but the crude ore from which gold is refined.
+**What betzer means** (Iyov 22:24, and see 22:25, 36:19).
+- Ibn Janach, Radak, and Ralbag: gold.
+- Ibn Ezra: silver.
+- Menachem, followed by Rashi: a stronghold.
+- Rabbi Yishaya of Trani: not gold itself but the crude ore from which gold is
+  refined.
+
 The pasuk has Elifaz the Temani telling Iyov that if he repents he will have a
 *betzer* "on the ground" and Ophir, that is gold, "with the rocks of the
 brooks."
@@ -92,17 +98,19 @@ it as gold while recording the gemstone view.
 then concludes it is more likely gold. Rabbi Moshe Ibn Ezra holds that in Iyov
 31:24 specifically it means silver, while agreeing it is gold elsewhere.
 
-**How zahav is derived.** Rabbi Aharon Marcus: from ז-ה, or perhaps from the
-letter zayin alone, meaning "this," because something that sparkles calls
-attention to itself. Rabbi Shlomo Pappenheim similarly: from ז-ב, "flow,"
-because in refining, the pure gold flows away from its dross. Rabbi Shlomo
-Aharon Wertheimer: from *zav*, flow, in a different sense, gold found by flowing
-water, following Ramban on the good gold of Havilah along the Pishon (Bereishis
-2:11-12), which Ramban locates in the sand and on the river's banks. A popular
-reading, cited by *Peirush HaRokeach*, Rabbi Todros Abulafia, Rabbi Binyamin
-HaRofeh Anav (a brother of the author of *Shibbolei HaLeket*), the Maharal,
-Rabbi Eliezer Papo and others, parses it as *zeh hav*, "give this," for gold as
-legal tender.
+**How zahav is derived.**
+- Rabbi Aharon Marcus: from ז-ה, or perhaps from the letter zayin alone, meaning
+  "this," because something that sparkles calls attention to itself.
+- Rabbi Shlomo Pappenheim similarly: from ז-ב, "flow," because in refining, the
+  pure gold flows away from its dross.
+- Rabbi Shlomo Aharon Wertheimer: from *zav*, flow, in a different sense, gold
+  found by flowing water, following Ramban on the good gold of Havilah along the
+  Pishon (Bereishis 2:11-12), which Ramban locates in the sand and on the
+  river's banks.
+- A popular reading, cited by *Peirush HaRokeach*, Rabbi Todros Abulafia, Rabbi
+  Binyamin HaRofeh Anav (a brother of the author of *Shibbolei HaLeket*), the
+  Maharal, Rabbi Eliezer Papo and others, parses it as *zeh hav*, "give this,"
+  for gold as legal tender.
 
 ## Distinctions
 
@@ -122,15 +130,18 @@ borrowed for anything clean and pristine (Yirmiyahu 51:7, Zechariah 4:12).
 **Ophir** is a person, Havilah's brother, son of Yoktan son of Ever (Bereishis
 10:29, Divrei HaYamim I 1:23), and a place from which both *zahav* (Melachim I
 9:28, 10:11, 22:49, Divrei HaYamim II 9:10) and *kesem* (Yeshayahu 13:12,
-Tehillim 45:10, Iyov 28:16) were brought. Rabbi Pinchas Eliyahu Horowitz (*Sefer
-HaBris*) identifies it with Peru, where large gold deposits are supposedly
-concentrated in the Andes and the rivers of the jungle; Rabbi Yosef Chaim of
-Baghdad takes *zahav Ophir* to be white gold, perhaps platinum or an alloy of
-gold with some other white metal, which he says is found in Russia. Others
-identify Ophir with somewhere on the Indian subcontinent, with Atlantis, with
-the Philippines and even with Australia; the accepted view among scholars is
-somewhere in the Arabian Peninsula or the Horn of Africa; and the American
-archaeologist William Foxwell Albright identified Ophir with Punt in Somalia.
+Tehillim 45:10, Iyov 28:16) were brought.
+- Rabbi Pinchas Eliyahu Horowitz (*Sefer HaBris*) identifies it with Peru, where
+  large gold deposits are supposedly concentrated in the Andes and the rivers of
+  the jungle.
+- Rabbi Yosef Chaim of Baghdad takes *zahav Ophir* to be white gold, perhaps
+  platinum or an alloy of gold with some other white metal, which he says is
+  found in Russia.
+- Others identify Ophir with somewhere on the Indian subcontinent, with
+  Atlantis, with the Philippines and even with Australia; the accepted view
+  among scholars is somewhere in the Arabian Peninsula or the Horn of Africa;
+  and the American archaeologist William Foxwell Albright identified Ophir with
+  Punt in Somalia.
 
 ### kesem (כתם)
 Nine occurrences. The same root כ-ת-ם gives *ketem*, a stain (Yirmiyahu 2:22,
@@ -149,13 +160,14 @@ English form was probably influenced by the place name Orange, of the House of
 Orange.)
 
 ### charutz (חרוץ)
-Six occurrences as gold. *Charutz* is the standard Phoenician (Tyrian) and
-Akkadian word for gold, and some scholars therefore claim Hebrew borrowed it
-from those languages. Against that, Rabbi Aharon
-Marcus: from ח-ר-צ, cutting or digging with a sharp instrument, since gold is
-dug out of the earth; Rabbi Wertheimer says the same. Rabbi Yishaya of Trani
-takes it from the word's other sense: gold is called *charutz* because chasing
-it makes a man diligent and industrious.
+Six occurrences as gold.
+- *Charutz* is the standard Phoenician (Tyrian) and Akkadian word for gold, and
+  some scholars therefore claim Hebrew borrowed it from those languages.
+- Against that, Rabbi Aharon Marcus: from ח-ר-צ, cutting or digging with a sharp
+  instrument, since gold is dug out of the earth; Rabbi Wertheimer says the
+  same.
+- Rabbi Yishaya of Trani takes it from the word's other sense: gold is called
+  *charutz* because chasing it makes a man diligent and industrious.
 
 ### Color as the distinction
 The Mishnah (Yoma 4:4) records that the fire pan for the ketores was of greenish

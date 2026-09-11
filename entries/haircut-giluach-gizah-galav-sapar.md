@@ -81,21 +81,24 @@ seemingly a barber's razor; Rabbi Nosson of Rome (*Sefer HaAruch*) seems instead
 to explain the *maglev* the angel held at Sarah's disposal against Pharaoh
 (Bereishis Rabbah 41:2) as a bridle for reining a donkey.
 
-Targum Yonasan uses forms of *galav* for *giluach* (Vayikra 19:27, Bamidbar
-6:19) and even for *ta'ar*, razor (Bamidbar 8:7), and the Targum uses variants
-of it again for razors and cutting elsewhere (Yehoshua 5:2, Yirmiyahu 48:37; see
-also Bereishis Rabbah 31:8), all of which suggests that perhaps *galav* is an
-Aramaic word. Rashi and Mahari Kara (to Yechezkel 5:1), however, explain that it
-comes from Greek; Rabbi Klein reports that after much searching he found no
-Greek word that fits, but that Dr. Alexander Kohut suggests emending Rashi's wording
-to read Arabic instead of Greek. Dr. Chaim Tawil, for his part, holds *galav* is
-clearly a loanword from the Akkadian *gallabu*, barber. Rav Hirsch (to Tehillim
-74:6) connects ג-ל-ב to ק-ל-פ, "peel" in Rabbinic Hebrew, by the interchange of
-gimmel with kuf and beis with peh; indeed, Rabbi Klein observes, a haircut that
-lays bare what was covered can be similar to peeling. Rabbi David Golumb
-(*Targumna* to Bamidbar 21:29) argues that *galav* is a metathesized form of
-*gvul*, border, which may be better understood in light of the possible
-connection between *sapar* and *sfar* below.
+- Targum Yonasan uses forms of *galav* for *giluach* (Vayikra 19:27, Bamidbar
+  6:19) and even for *ta'ar*, razor (Bamidbar 8:7), and the Targum uses variants
+  of it again for razors and cutting elsewhere (Yehoshua 5:2, Yirmiyahu 48:37;
+  see also Bereishis Rabbah 31:8), all of which suggests that perhaps *galav* is
+  an Aramaic word.
+- Rashi and Mahari Kara (to Yechezkel 5:1), however, explain that it comes from
+  Greek; Rabbi Klein reports that after much searching he found no Greek word
+  that fits, but that Dr. Alexander Kohut suggests emending Rashi's wording to
+  read Arabic instead of Greek.
+- Dr. Chaim Tawil, for his part, holds *galav* is clearly a loanword from the
+  Akkadian *gallabu*, barber.
+- Rav Hirsch (to Tehillim 74:6) connects ג-ל-ב to ק-ל-פ, "peel" in Rabbinic
+  Hebrew, by the interchange of gimmel with kuf and beis with peh; indeed, Rabbi
+  Klein observes, a haircut that lays bare what was covered can be similar to
+  peeling.
+- Rabbi David Golumb (*Targumna* to Bamidbar 21:29) argues that *galav* is a
+  metathesized form of *gvul*, border, which may be better understood in light
+  of the possible connection between *sapar* and *sfar* below.
 
 ### sapar (ספר)
 Absent from Tanach, standard in the Targumim and the Mishnah, and the everyday

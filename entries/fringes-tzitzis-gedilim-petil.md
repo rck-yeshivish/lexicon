@@ -79,14 +79,15 @@ Parchon, Radak) put it in ג-ד-ל, the root of *gadol*. Ibn Janach defines
 *gedilim* as *tzitzis*; Radak refines it to free-hanging *tzitzis*; Ibn Parchon
 defines it by *petil*; Ibn Saruk by *chut*, "string."
 
-Rav Hirsch (to Bamidbar 15:38): a braided rope is a *gedil* because braiding
-makes it thicker than a single string, so it appears to have "grown" and become
-"bigger." He notes parenthetically that the Rabbinic *gudal* ("thumb") names the
-thickest finger, not the longest. Radak's father, Rabbi Yosef Kimchi (*Sefer
-HaGalui*), takes the other path: the strings "expand" the edge of the garment
-beyond the fabric itself. Rabbi Reuven Chaim Klein offers a third turn of the
-same idea, that *gedilim* are a mere extension or "overgrowth" of the garment,
-as the *gudal* is a sort of extension of the hand.
+- Rav Hirsch (to Bamidbar 15:38): a braided rope is a *gedil* because braiding
+  makes it thicker than a single string, so it appears to have "grown" and
+  become "bigger." He notes parenthetically that the Rabbinic *gudal* ("thumb")
+  names the thickest finger, not the longest.
+- Radak's father, Rabbi Yosef Kimchi (*Sefer HaGalui*), takes the other path:
+  the strings "expand" the edge of the garment beyond the fabric itself.
+- Rabbi Reuven Chaim Klein offers a third turn of the same idea, that *gedilim*
+  are a mere extension or "overgrowth" of the garment, as the *gudal* is a sort
+  of extension of the hand.
 
 The difference from *tzitzis*: Menachos 39a requires a third of the strings'
 length to be *gadil* (braided) and two thirds to hang loose like a branch
@@ -135,26 +136,30 @@ with *tzitzis* worn at prayer; he, and Rabbi Tanchum HaYerushalmi in *HaMadrich
 HaMaspik*, hold the grammatically correct plural is *taliyos*, not *talitos* and
 certainly not the popular Yiddish misnomer *talleisim*.
 
-Etymologies: Rabbi Nosson of Rome (*Sefer HeAruch*) cites Rav Matzliach Gaon
-that the garment is "placed upon" the other clothes, relating *tallis* to
-*natal*, lifting (see Targum to Bereishis 50:13); alternatively he ties it to
-ט-ל-ל, *tillel*, "shade, covering" in Late Biblical Hebrew and Biblical Aramaic
-(Nechemiah 3:15, Daniel 4:9). Rabbi Ernest Klein, in his etymological
-dictionary of Hebrew, follows that second approach, relating *tallis* to
-*telalim* and holding it cognate with *tzel*, on the interchange of tzadi and
-tes. Dr. Alexander Kohut (*HeAruch HaShaleim*), as is his habit, derives
-*tallis* from Persian, a theory that has not gained much traction.
-David Curwin of the *Balashon* blog brings a further theory, in the name of the
-late Rabbi Dr. Seth Mandel: that *tallis* and the Rabbinic *itztala* come from
-one Greek etymon, both borrowed from Latin *stola* and Greek στολή (*stolē*).
-Rashi (to Sanhedrin 44a, and see Bechoros 34b) does define *itztala* as
-*tallis*, and Rabbi Tanchum HaYerushalmi likewise notes how close the two words
-are. Rabbeinu Bachaya reads *tallis* as alluding to Hashem being lifted and
-raised above all, on Daniel's *netilas min ar'a*, "lifted from the earth"
-(Daniel 7:4). Rabbi Nosson Shapiro (*Matzas Shimurin* fol. 11b) offers a
-kabbalistic derivation from the Aramaic *talyusa*, which Targum Onkelos uses of
-a young person coming of age (Bereishis 8:21); Rabbi Reuven Chaim Klein says
-frankly that what Rabbi Shapiro says there is beyond his expertise.
+Etymologies:
+- Rabbi Nosson of Rome (*Sefer HeAruch*) cites Rav Matzliach Gaon that the
+  garment is "placed upon" the other clothes, relating *tallis* to *natal*,
+  lifting (see Targum to Bereishis 50:13); alternatively he ties it to ט-ל-ל,
+  *tillel*, "shade, covering" in Late Biblical Hebrew and Biblical Aramaic
+  (Nechemiah 3:15, Daniel 4:9). Rabbi Ernest Klein, in his etymological
+  dictionary of Hebrew, follows that second approach, relating *tallis* to
+  *telalim* and holding it cognate with *tzel*, on the interchange of tzadi and
+  tes.
+- Dr. Alexander Kohut (*HeAruch HaShaleim*), as is his habit, derives *tallis*
+  from Persian, a theory that has not gained much traction.
+- David Curwin of the *Balashon* blog brings a further theory, in the name of
+  the late Rabbi Dr. Seth Mandel: that *tallis* and the Rabbinic *itztala* come
+  from one Greek etymon, both borrowed from Latin *stola* and Greek στολή
+  (*stolē*). Rashi (to Sanhedrin 44a, and see Bechoros 34b) does define
+  *itztala* as *tallis*, and Rabbi Tanchum HaYerushalmi likewise notes how close
+  the two words are.
+- Rabbeinu Bachaya reads *tallis* as alluding to Hashem being lifted and raised
+  above all, on Daniel's *netilas min ar'a*, "lifted from the earth" (Daniel
+  7:4).
+- Rabbi Nosson Shapiro (*Matzas Shimurin* fol. 11b) offers a kabbalistic
+  derivation from the Aramaic *talyusa*, which Targum Onkelos uses of a young
+  person coming of age (Bereishis 8:21); Rabbi Reuven Chaim Klein says frankly
+  that what Rabbi Shapiro says there is beyond his expertise.
 
 ### kruspidin (כרוספדין)
 The Targum renders both *tzitzis* and *gedilim* as *kruspeda* (plural

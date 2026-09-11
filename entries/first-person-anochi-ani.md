@@ -29,14 +29,17 @@ soul. The distinction is applied to *Anochi Hashem Elokecha*.
 
 ### ani (אני)
 The ordinary first-person pronoun, and the one that survived into everyday
-speech; *anochi* by contrast sounds somewhat archaic today. Maharal: *ani* is simply
-first person, without stress. Malbim and Rabbi Shlomo Pappenheim: *ani* is used
-where the fresh information sits in the predicate, so *ani omed* means "I am
-standing," that is, standing and not sitting. Rav Hirsch: *ani* marks the
-speaker off as distinct from the one he is addressing. Rabbi Yehuda Leib Edel:
-when a person says *ani* he speaks for his soul. Rabbi Yaakov Tzvi Mecklenburg
-shows from a range of sources that although *ani* is normally a common pronoun,
-when Hashem uses it, it can function as a Name of His.
+speech; *anochi* by contrast sounds somewhat archaic today.
+- Maharal: *ani* is simply first person, without stress.
+- Malbim and Rabbi Shlomo Pappenheim: *ani* is used where the fresh information
+  sits in the predicate, so *ani omed* means "I am standing," that is, standing
+  and not sitting.
+- Rav Hirsch: *ani* marks the speaker off as distinct from the one he is
+  addressing.
+- Rabbi Yehuda Leib Edel: when a person says *ani* he speaks for his soul.
+- Rabbi Yaakov Tzvi Mecklenburg shows from a range of sources that although
+  *ani* is normally a common pronoun, when Hashem uses it, it can function as a
+  Name of His.
 
 ### anochi (אנכי)
 The emphatic form. Maharal: reflexive first person, one who is stressing

@@ -37,13 +37,15 @@ meeting one, and Hebrew registers those differing fight-or-flight responses in
 two otherwise synonymous words.
 
 ### pachad (פחד)
-Root פ-ח-ד. Rashi (Devarim 11:25), distinguishing it from *morah*, repeats the
-far/near distinction there and adds a second one: *pachad* is a sudden fear,
-*morah* a fear pent up for some time. Wertheimer: *pachad* is the less
-intense, sudden but short-lived; and it applies only to human beings, who have the
-intellect to grasp what a danger implies, whereas the other words can apply to
-animals too, whose instinct reacts without comprehension. Ibn Ezra: the outward
-manifestation of fear.
+Root פ-ח-ד.
+- Rashi (Devarim 11:25), distinguishing it from *morah*, repeats the far/near
+  distinction there and adds a second one: *pachad* is a sudden fear, *morah* a
+  fear pent up for some time.
+- Wertheimer: *pachad* is the less intense, sudden but short-lived; and it
+  applies only to human beings, who have the intellect to grasp what a danger
+  implies, whereas the other words can apply to animals too, whose instinct
+  reacts without comprehension.
+- Ibn Ezra: the outward manifestation of fear.
 
 ### yirah / morah (יראה / מורא)
 Root י-ר-א. Rashi (Devarim 11:25): the fear that has remained pent up for some time.
@@ -53,14 +55,16 @@ what one anticipates *might* happen, as against *daagah*, worry over what one
 foresees *will* happen.
 
 ### daagah (דאגה)
-Root ד-א-ג. Rashi (Yoma 75a): fear of losing something one has; Rashi (Gittin 70a):
-fear of the arrival of a frightening situation, such as famine or invasion. Shlomo
-HaMelech's counsel, דאגה בלב איש ישחנה (Mishlei 12:25): speak it out to others, for
-worry confined to finite words loses its limitlessness; on the second reading,
-distract oneself with other matters. Beis HaLevi: worry over what is foreseen as
-certain. Wertheimer: not the worrying itself but the despondency of one steeped in
-anxious fright; Rabbi Klein notes that this echoes Franklin Delano Roosevelt's
-inaugural line that the only thing we have to fear is fear itself.
+Root ד-א-ג.
+- Rashi (Yoma 75a): fear of losing something one has; Rashi (Gittin 70a): fear
+  of the arrival of a frightening situation, such as famine or invasion. Shlomo
+  HaMelech's counsel, דאגה בלב איש ישחנה (Mishlei 12:25): speak it out to
+  others, for worry confined to finite words loses its limitlessness; on the
+  second reading, distract oneself with other matters.
+- Beis HaLevi: worry over what is foreseen as certain.
+- Wertheimer: not the worrying itself but the despondency of one steeped in
+  anxious fright; Rabbi Klein notes that this echoes Franklin Delano Roosevelt's
+  inaugural line that the only thing we have to fear is fear itself.
 
 ## Rendering guidance
 

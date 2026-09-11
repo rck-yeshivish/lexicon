@@ -48,24 +48,24 @@ unchanging permanence, a state that never alters. Mecklenburg derives it from
 *tzach*, "pristine, pure," the final state of being the soul reaches for.
 
 ### selah (סלה)
-Root ס-ל-ה. Two readings, and they are not reconcilable on the surface. (1)
-Eruvin 54a, followed by Rashi, Meiri and other classical *meforshim* to Tehillim
-3:3: *selah* means forever, denoting what continues without end. The earliest
-translations of Tanach render it so consistently: Targum Yonasan in Aramaic,
-Aquilas in Greek, and the Peshitta in Syriac. Wertheimer sharpens it
-to the **continual**, the ever-repeating, as against *netzach*'s continuous. (2)
-Radak (to Tehillim 3:3 and in *Sefer HaShorashim*) and Malbim (Tehillim 3:3,
-Chavakuk 3:3): *selah* is an interjection closing an idea, and for Radak a
-musical direction to lift the voice at the close; Malbim adds that it can mark
-off a parenthetical remark from the main line. Rabbi Chaim Friedlander: it
-signals that an important idea has just ended and one should pause and take it
-in. Rabbi Aviad Sar-Shalom Basilea faulted Radak for seeming to set aside the
-Gemara's reading; Rabbi Yaakov Emden defended him, that Radak gives the *pshat*
-and the tradition gives the deeper sense. Ibn Ezra: *selah* affirms that what was
-just said is true, roughly "so it is." Mecklenburg himself ties *selah* to *suleh*
-(Iyov 28:16), which denotes something of higher value, and cites one of
-the earlier commentators who apparently wrote that *Selah* is one of the Names of
-Hashem.
+Root ס-ל-ה. Two readings, and they are not reconcilable on the surface.
+- (1) Eruvin 54a, followed by Rashi, Meiri and other classical *meforshim* to
+  Tehillim 3:3: *selah* means forever, denoting what continues without end. The
+  earliest translations of Tanach render it so consistently: Targum Yonasan in
+  Aramaic, Aquilas in Greek, and the Peshitta in Syriac. Wertheimer sharpens it
+  to the **continual**, the ever-repeating, as against *netzach*'s continuous.
+- (2) Radak (to Tehillim 3:3 and in *Sefer HaShorashim*) and Malbim (Tehillim
+  3:3, Chavakuk 3:3): *selah* is an interjection closing an idea, and for Radak
+  a musical direction to lift the voice at the close; Malbim adds that it can
+  mark off a parenthetical remark from the main line. Rabbi Chaim Friedlander:
+  it signals that an important idea has just ended and one should pause and take
+  it in. Rabbi Aviad Sar-Shalom Basilea faulted Radak for seeming to set aside
+  the Gemara's reading; Rabbi Yaakov Emden defended him, that Radak gives the
+  *pshat* and the tradition gives the deeper sense.
+- Ibn Ezra: *selah* affirms that what was just said is true, roughly "so it is."
+- Mecklenburg himself ties *selah* to *suleh* (Iyov 28:16), which denotes
+  something of higher value, and cites one of the earlier commentators who
+  apparently wrote that *Selah* is one of the Names of Hashem.
 
 ### va'ed / ad (ועד, עד)
 Root ע-ד. Wertheimer: *ad* literally means "until," and left hanging with no
@@ -74,12 +74,15 @@ infinite duration. Mecklenburg links *va'ed* to *adi'im*, "adornments," the
 eternal ornaments of the soul in the World to Come.
 
 Whether the three words carry "forever" everywhere or only beside *olam* is
-disputed: Rabbi Avraham ben Ezriel of Vienna limits the Gemara's ruling to
-verses where they stand next to *olam*; Maharsha takes it as a general lexical
-finding. Rabbi Menachem ibn Saruk (*Machaberes Menachem*) and Rabbi Yosef Kimchi
-(*Sefer HaGilui*) treat them as flat synonyms; Kimchi leaves *selah* off the
-list. Rashi's own account of Eruvin 54a is the simple one: they mean the same
-because they appear together.
+disputed:
+- Rabbi Avraham ben Ezriel of Vienna limits the Gemara's ruling to verses where
+  they stand next to *olam*.
+- Maharsha takes it as a general lexical finding.
+- Rabbi Menachem ibn Saruk (*Machaberes Menachem*) and Rabbi Yosef Kimchi
+  (*Sefer HaGilui*) treat them as flat synonyms; Kimchi leaves *selah* off the
+  list.
+- Rashi's own account of Eruvin 54a is the simple one: they mean the same
+  because they appear together.
 
 ## Rendering guidance
 

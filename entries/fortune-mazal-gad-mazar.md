@@ -48,32 +48,38 @@ of good, not to blind chance.
 ## Where the authorities disagree
 
 **What *mazar* means** (Iyov 38:32, "do you bring out the *mazaros* in their
-season"). Most commentators, including Rabbi Saadia Gaon (there), Menachem Ibn
-Saruk, Ibn Janach, Rashi, and Rabbi Moshe Kimchi: the same as *mazal*, *reish* and *lamed* interchanging (see
-Ramban to Shemos 22:15). Ibn Ezra calls that far-fetched and makes *mazaros* one
-star or group of stars, as Ramban and Ralbag also cite. Dunash Ibn Labrat takes
-it out of the sky entirely: a blowing wind. Rabbi Yitzchak the Blind (to *Sefer
-Yetzirah* 5) keeps it astrological but somehow different from *mazal*, and Rabbi
-Reuven Chaim Klein admits that this explanation lies beyond his own level of
-understanding.
+season").
+- Most commentators, including Rabbi Saadia Gaon (there), Menachem Ibn Saruk,
+  Ibn Janach, Rashi, and Rabbi Moshe Kimchi: the same as *mazal*, *reish* and
+  *lamed* interchanging (see Ramban to Shemos 22:15).
+- Ibn Ezra calls that far-fetched and makes *mazaros* one star or group of
+  stars, as Ramban and Ralbag also cite.
+- Dunash Ibn Labrat takes it out of the sky entirely: a blowing wind.
+- Rabbi Yitzchak the Blind (to *Sefer Yetzirah* 5) keeps it astrological but
+  somehow different from *mazal*, and Rabbi Reuven Chaim Klein admits that this
+  explanation lies beyond his own level of understanding.
 
-**How *mazal* is derived.** The anonymous commentator to Rambam's Hilchos Yesodei
-HaTorah: from the Aramaic *azal*, "going," since the sun and moon travel through
-them or near them; he also relates *mazal* to the Arabic *al-manazil*, a house or
-lunar station, and takes it to mean the same as the Arabic *burj*, a tower or
-constellation. Rabbi Dr. Ernest Klein derives the Hebrew *mazal* from the
-Akkadian *mazaztu* or *mazaltu*, the static position of the stars, itself from
-the Akkadian *nazazu*, "to stand," which he also makes the ultimate etymon of
-*mezuzah* by way of the Akkadian *manzazu*, "doorpost." Dr. Chaim Tawil agrees
-with Klein only about *mezuzah*, and sees *mazal* as related instead to the
-Akkadian *manzaltu*, a clear cognate of the Arabic *manazil*. The classical
-lexicographers offer an alternative: Ibn Janach and Radak derive it from נ-ז-ל,
-"to flow or drip," the disappearing *nun* replaced by the dot in the *zayin*,
-Radak adding that the *mazalos* move with a steady flow. Rabbi Shlomo Pappenheim
-reduces that to the biliteral ז-ל, the failure of related components to hold
-together, which also gives *zolel* (spending that flows away from a man), *zol*
-(cheap), and *zulas* (apart from); the *mazalos* are the forces that seem to
-regulate rainfall, and in a borrowed sense any bestowal of good.
+**How *mazal* is derived.**
+- The anonymous commentator to Rambam's Hilchos Yesodei HaTorah: from the
+  Aramaic *azal*, "going," since the sun and moon travel through them or near
+  them; he also relates *mazal* to the Arabic *al-manazil*, a house or lunar
+  station, and takes it to mean the same as the Arabic *burj*, a tower or
+  constellation.
+- Rabbi Dr. Ernest Klein derives the Hebrew *mazal* from the Akkadian *mazaztu*
+  or *mazaltu*, the static position of the stars, itself from the Akkadian
+  *nazazu*, "to stand," which he also makes the ultimate etymon of *mezuzah* by
+  way of the Akkadian *manzazu*, "doorpost."
+- Dr. Chaim Tawil agrees with Klein only about *mezuzah*, and sees *mazal* as
+  related instead to the Akkadian *manzaltu*, a clear cognate of the Arabic
+  *manazil*.
+- The classical lexicographers offer an alternative: Ibn Janach and Radak derive
+  it from נ-ז-ל, "to flow or drip," the disappearing *nun* replaced by the dot
+  in the *zayin*, Radak adding that the *mazalos* move with a steady flow.
+- Rabbi Shlomo Pappenheim reduces that to the biliteral ז-ל, the failure of
+  related components to hold together, which also gives *zolel* (spending that
+  flows away from a man), *zol* (cheap), and *zulas* (apart from); the *mazalos*
+  are the forces that seem to regulate rainfall, and in a borrowed sense any
+  bestowal of good.
 
 **Whether to say "*mazal tov*."** Rabbi Eliyahu Katz, formerly Chief Rabbi of
 Slovakia, held that the word's ambiguity makes the greeting best avoided, lest it
@@ -84,19 +90,22 @@ say it, understanding it of Hashem's bestowal of good rather than of chance.
 
 ### mazal (מזל)
 Once in Tanach, in Yoshiyahu's campaign against idolatry: those burning incense
-"to the Baal, to the sun, to the moon, to the *mazalos*, and to all the legions of
-heaven" (Melachim II 23:5). There it seems to be some astronomical phenomenon,
-usually understood as the twelve constellations of the zodiac (Berachos 32b),
-which the idolaters deified and brought korbanos to. In Chazal it also names the channel of Hashem's *shefa* into this
-world, as in "everything depends on *mazal*, even a sefer Torah in the heichal"
-(Zohar Naso 134a), which Rabbi Yosef Gikatilla (*Shaarei Orah*) explains of
-*Keser*, the highest sefirah, from which every energy flows down. The *Tiferes
-Yisrael* takes *mazal* as everything outside a person's free choice, a current
-from Above. Ramchal separates two senses: Hashem's governance through the astral
-forces, which the nations mistook for independent powers and worshipped, and His
-governance of circumstance by other means. There is much discussion of whether
-Klal Yisrael is subject to the first at all. *Mazal* sometimes also names the
-guardian force behind a person (Rashi to Megillah 3a; Shabbos 53b and 61b).
+"to the Baal, to the sun, to the moon, to the *mazalos*, and to all the legions
+of heaven" (Melachim II 23:5). There it seems to be some astronomical
+phenomenon, usually understood as the twelve constellations of the zodiac
+(Berachos 32b), which the idolaters deified and brought korbanos to.
+- In Chazal it also names the channel of Hashem's *shefa* into this world, as in
+  "everything depends on *mazal*, even a sefer Torah in the heichal" (Zohar Naso
+  134a), which Rabbi Yosef Gikatilla (*Shaarei Orah*) explains of *Keser*, the
+  highest sefirah, from which every energy flows down.
+- The *Tiferes Yisrael* takes *mazal* as everything outside a person's free
+  choice, a current from Above.
+- Ramchal separates two senses: Hashem's governance through the astral forces,
+  which the nations mistook for independent powers and worshipped, and His
+  governance of circumstance by other means. There is much discussion of whether
+  Klal Yisrael is subject to the first at all.
+- *Mazal* sometimes also names the guardian force behind a person (Rashi to
+  Megillah 3a; Shabbos 53b and 61b).
 
 ### gad (גד)
 Twice in Tanach: Leah's cry at the birth of Zilpah's son, "*ba gad*," from which
@@ -105,18 +114,19 @@ Yeshayahu's rebuke of "those who set a table for *gad*" (Yeshayahu 65:11). The
 Aramaic *gada* appears in the Gemara for the spiritual force behind a physical
 thing: one who worships the mountain against one who worships "the *gada* of the
 mountain" (Chullin 40a), and "the bed of the *gada*," a bed left unused in honor
-of the house's *mazal* (Nedarim 56a with the Ran and *Sefer HeAruch*). *Shoresh
-Yesha* links *gad* to *haggadah*, "telling," on the pagan notion that the stars
-and constellations can tell a man his future. Rabbi Shlomo Pappenheim derives it
-from the biliteral ג-ד, "attaching" or "connecting," which also yields
-*agudah*/*egged*/*iggud*, *gid* (the sinew holding the body's parts together),
-*gedud* (a squad of soldiers joined together), *meged* (delicacies, which the
-palate wants to attach itself to), and *haggadah* (presenting new information by
-integrating it into a broader narrative); on that reading Leah was acknowledging
-that the heavenly force charged with granting pregnancy had visited her. Rabbi
-Yosef Grayever of Ostrow reads *gad* here instead as an alternate form of
-*meged*, Leah greeting the birth as one greets the arrival of delicacies and
-other good things.
+of the house's *mazal* (Nedarim 56a with the Ran and *Sefer HeAruch*).
+- *Shoresh Yesha* links *gad* to *haggadah*, "telling," on the pagan notion that
+  the stars and constellations can tell a man his future.
+- Rabbi Shlomo Pappenheim derives it from the biliteral ג-ד, "attaching" or
+  "connecting," which also yields *agudah*/*egged*/*iggud*, *gid* (the sinew
+  holding the body's parts together), *gedud* (a squad of soldiers joined
+  together), *meged* (delicacies, which the palate wants to attach itself to),
+  and *haggadah* (presenting new information by integrating it into a broader
+  narrative); on that reading Leah was acknowledging that the heavenly force
+  charged with granting pregnancy had visited her.
+- Rabbi Yosef Grayever of Ostrow reads *gad* here instead as an alternate form
+  of *meged*, Leah greeting the birth as one greets the arrival of delicacies
+  and other good things.
 
 Another set of words on the ג-ד string means cutting and separating, the polar
 opposite of attaching. Rabbi Reuven Chaim Klein discusses those words, and how

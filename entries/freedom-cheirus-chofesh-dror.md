@@ -72,15 +72,18 @@ the surface and proves in fact to be what frees.
 
 ### chorim (חורים)
 The *cheirus*-cognate that does appear in Tanach, thirteen times, but of
-noblemen and dignitaries rather than of freedom as such (see Rashi to
-Yirmiyahu 27:20). Rashi to Sotah 49a: *chorin* are people of lineage. Rabbi
-Yitzchok Dov Bamberger, the Wurzburger Rav, connects *chorim* to the Aramaic
-root ח-ו-ר, "white": a dignitary's name must be unstained, and in the ancient
-world only the important wore white. Rabbi Yaakov Tzvi Mecklenburg instead
-links *cheirus* to *chor*, "hole," the same three letters. Separately, it seems
-to Rabbi Klein that Chazal chose *cheirus* to stress that newly freed slaves
-begin with a clean slate and have it in them to become people of consequence in
-their own right, and on Pesach we celebrate that potential for greatness.
+noblemen and dignitaries rather than of freedom as such (see Rashi to Yirmiyahu
+27:20).
+- Rashi to Sotah 49a: *chorin* are people of lineage.
+- Rabbi Yitzchok Dov Bamberger, the Wurzburger Rav, connects *chorim* to the
+  Aramaic root ח-ו-ר, "white": a dignitary's name must be unstained, and in the
+  ancient world only the important wore white.
+- Rabbi Yaakov Tzvi Mecklenburg instead links *cheirus* to *chor*, "hole," the
+  same three letters.
+- Separately, it seems to Rabbi Klein that Chazal chose *cheirus* to stress that
+  newly freed slaves begin with a clean slate and have it in them to become
+  people of consequence in their own right, and on Pesach we celebrate that
+  potential for greatness.
 
 *Hefker*, "ownerless," is conceptually related to freedom.
 

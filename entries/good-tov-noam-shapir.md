@@ -45,25 +45,31 @@ physical beauty (Bereishis 6:2; Shmuel I 8:16, 9:2; Melachim I 20:3), where it
 also tends to render *yafeh* (Bereishis 12:11, 29:17, 41:2) as *shapir*.
 
 ### noam (נעם), naim (נעים)
-Root נ-ע-ם. Rabbi Pappenheim (*Yerios Shlomo*): from the biliteral ע-ם, which
-also gives *im*, "with": a person tends to bond with what he finds pleasant, so
-*noam* is the pull toward a thing one wishes to join; in *Cheshek Shlomo* he
-reduces it further to ע, movement. Rav Hirsch (Bereishis 5:30): the pleasant
-thing arouses and moves a person toward a goal. Ibn Janach and Radak (*Sefer
-HaShorashim*) define both *noam* and *shapir* as *yofi*; Menachem Ibn Saruk
-(*Machberes Menachem*) defines *shapir* as *noam* and *noam* as *hadar*, beauty.
-Bedersi, in *Chosam Tochnis*, the first known book that tries to distinguish
-Hebrew synonyms: *noam* is *yofi*, beauty. Rabbi Klein, saying it seems to him
-that Bedersi means this and admitting he is probably reading too much in:
-subjective goodness, felt personally, as beauty is in the eye of the beholder,
-the way the *yefas toar* need be beautiful only in her captor's eyes (Kiddushin
-22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim 21:11). Rabbi Goldman, in
-personal correspondence with Rabbi Klein: *noam* is attraction and desirability,
-whether grounded in objective features such as symmetry, color and form or in
-wholly subjective ones. Personal names carry the root: Naomi, wife of Elimelech;
-Naamah, daughter of Lemech (Bereishis 4:22) and also a wife of Shlomo (Melachim
-I 14:21, 14:31; Divrei HaYamim II 12:13); Naaman the Aramean general (Melachim
-II 5:2-27); the Arabic Naim and the Modern Hebrew Noam.
+Root נ-ע-ם.
+- Rabbi Pappenheim (*Yerios Shlomo*): from the biliteral ע-ם, which also gives
+  *im*, "with": a person tends to bond with what he finds pleasant, so *noam* is
+  the pull toward a thing one wishes to join; in *Cheshek Shlomo* he reduces it
+  further to ע, movement.
+- Rav Hirsch (Bereishis 5:30): the pleasant thing arouses and moves a person
+  toward a goal.
+- Ibn Janach and Radak (*Sefer HaShorashim*) define both *noam* and *shapir* as
+  *yofi*.
+- Menachem Ibn Saruk (*Machberes Menachem*) defines *shapir* as *noam* and
+  *noam* as *hadar*, beauty.
+- Bedersi, in *Chosam Tochnis*, the first known book that tries to distinguish
+  Hebrew synonyms: *noam* is *yofi*, beauty. Rabbi Klein, saying it seems to him
+  that Bedersi means this and admitting he is probably reading too much in:
+  subjective goodness, felt personally, as beauty is in the eye of the beholder,
+  the way the *yefas toar* need be beautiful only in her captor's eyes
+  (Kiddushin 22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim 21:11).
+- Rabbi Goldman, in personal correspondence with Rabbi Klein: *noam* is
+  attraction and desirability, whether grounded in objective features such as
+  symmetry, color and form or in wholly subjective ones.
+
+Personal names carry the root: Naomi, wife of Elimelech; Naamah, daughter of
+Lemech (Bereishis 4:22) and also a wife of Shlomo (Melachim I 14:21, 14:31;
+Divrei HaYamim II 12:13); Naaman the Aramean general (Melachim II 5:2-27); the
+Arabic Naim and the Modern Hebrew Noam.
 
 ### shapir (שפיר), shefer (שפר)
 Root ש-פ-ר: beauty, improvement, goodness. Iyov 26:13, "by His breath the
@@ -71,16 +77,18 @@ heavens were made *shifrah*", suggesting an act of perfecting, making them
 splendid and orderly. Biblical Aramaic *shefar* (Daniel 3:32, 4:24, 6:2) is a
 king's approval, "it seemed good". Talmudic *shapir* is primarily "well",
 "properly" (*ati shapir*, *shapir ka'amar*), affirming that an argument is
-correct or that a thing meets the standard. Rabbi Moshe Shapiro: a *shiphal*
-form of פ-א-ר, the shin marking an action that produces *pe'er*, glory. (A
-popular folk etymology ties the old Jewish surname Shapiro or Shapira to
-*shapir*, though historians presume it more plausibly comes from the German town
-Speyer.) Bedersi: *shefer* is *tov*. Rabbi Klein, on the same admittedly
-strained reading of Bedersi: objective goodness, a value recognized regardless
-of the beholder. Rabbi Goldman: plain positivity, "good" or "fitting", with no
-necessary appeal or elegance; a strong logical argument is not always elegant,
-an elegant insight is not always practical, and good advice is *shapir* even
-when it does not resonate and is hard to accept.
+correct or that a thing meets the standard.
+- Rabbi Moshe Shapiro: a *shiphal* form of פ-א-ר, the shin marking an action
+  that produces *pe'er*, glory. (A popular folk etymology ties the old Jewish
+  surname Shapiro or Shapira to *shapir*, though historians presume it more
+  plausibly comes from the German town Speyer.)
+- Bedersi: *shefer* is *tov*. Rabbi Klein, on the same admittedly strained
+  reading of Bedersi: objective goodness, a value recognized regardless of the
+  beholder.
+- Rabbi Goldman: plain positivity, "good" or "fitting", with no necessary appeal
+  or elegance; a strong logical argument is not always elegant, an elegant
+  insight is not always practical, and good advice is *shapir* even when it does
+  not resonate and is hard to accept.
 
 Naftali's *imrei shefer* (Bereishis 49:21) is read by *Midrash Shocher Tov*
 (Tehillim 81:4) as spreading Torah, which Rabbi Klein compares to the English

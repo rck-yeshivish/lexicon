@@ -69,14 +69,17 @@ Shabbos brought extra *da'agah*, worry, into the world.
 ### the verb (ויִדגו)
 Yaakov blesses Yosef's sons *v'yidgu*, may they multiply like fish (Bereishis
 48:16). Rav Hirsch notes that this is the only verbal use of ד-ג in all of
-Chumash; everywhere else the cognates are nouns. Among the earlier grammarians, Menachem alone derives the verb
-from the same root as *dag*; Ibn Janach and Radak assign it a triliteral ד-ג-ה,
-though Radak seems the more open to connecting it to *dag*. Rabbi Yehuda Ibn Balaam
-lists ד-ג-ה among verbs formed from nouns; Rabbi Aharon Marcus reverses the
-direction, making fecundity primary and "fish" the borrowed sense, and uses this
-to account for Chumash never saying *dag/dagim*, only *dagah*, *digas*, and
-*v'yidgu*. (Rabbi Klein himself points out the counterexample: *digei* in
-Bereishis 9:2, apparently the construct of *dag*.)
+Chumash; everywhere else the cognates are nouns.
+- Among the earlier grammarians, Menachem alone derives the verb from the same
+  root as *dag*.
+- Ibn Janach and Radak assign it a triliteral ד-ג-ה, though Radak seems the more
+  open to connecting it to *dag*.
+- Rabbi Yehuda Ibn Balaam lists ד-ג-ה among verbs formed from nouns.
+- Rabbi Aharon Marcus reverses the direction, making fecundity primary and
+  "fish" the borrowed sense, and uses this to account for Chumash never saying
+  *dag/dagim*, only *dagah*, *digas*, and *v'yidgu*. (Rabbi Klein himself points
+  out the counterexample: *digei* in Bereishis 9:2, apparently the construct of
+  *dag*.)
 
 ### the wider family
 Rabbi Pappenheim also attaches two further words to ד-ג that the other

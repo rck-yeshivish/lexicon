@@ -71,28 +71,30 @@ Rabbeinu Bachya ibn Chalava (each to Bereishis 41:51), and later
 Rabbi Binyamin Mussafia (*Musaf HaAruch*) and Rabbi Shmuel HaLevi (*Nachalas
 Shivah*).
 
-On the root itself: Menachem Ibn Saruk reduces *nashani* and *teshi* to the
-single letter *shin*; others, including Ibn Chayyuj, Ibn Janach and Radak, hold
-that it may be נ-ש-ה or נ-ש-ש.
-Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) gives the biliteral נ-ש, moving
-something out of its natural condition, and forgetting is information moved out
-of its place in the mind; on that root he also puts *gid hanasheh* (the sinew
-that moves from its place), *nosheh* (a lender, who moves his money out of his
-hand), *anush* (a sickly man, whose health has been displaced) and *enosh*
-(mankind, weak beside higher beings). Elsewhere he derives *teshi* from ת-ש,
-weakening; Rabbi Moshe Tedeschi Ashkenazi (*Hoil Moshe*) makes weakening the
-primary sense of נ-ש itself.
+On the root itself:
+- Menachem Ibn Saruk reduces *nashani* and *teshi* to the single letter *shin*;
+  others, including Ibn Chayyuj, Ibn Janach and Radak, hold that it may be נ-ש-ה
+  or נ-ש-ש.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) gives the biliteral נ-ש, moving
+  something out of its natural condition, and forgetting is information moved
+  out of its place in the mind; on that root he also puts *gid hanasheh* (the
+  sinew that moves from its place), *nosheh* (a lender, who moves his money out
+  of his hand), *anush* (a sickly man, whose health has been displaced) and
+  *enosh* (mankind, weak beside higher beings). Elsewhere he derives *teshi*
+  from ת-ש, weakening.
+- Rabbi Moshe Tedeschi Ashkenazi (*Hoil Moshe*) makes weakening the primary
+  sense of נ-ש itself.
 
 ### The distinction, and the dissent
-Malbim (Iyov 11:6): *shachach* is recoverable, *nashah* is irretrievable.
-Rav Hirsch (Bereishis 8:1): *shachach* is inadvertent, *nashah* is what happens
-to a man who treated the matter flippantly, so he bears more blame for having
-forgotten; and (Devarim 4:9) *shachach* is displacement by another focus while
-*nashah* is a weakened memory. Rabbi Eliyahu Katz, formerly Chief Rabbi of
-Slovakia and later of Be'er Sheva, disagrees with both: the Targumim tend to
-render *shachach* and its cognates with *nashah*-words, which he takes as
-evidence that *nashah* is simply the Aramaic way of saying *shachach* and that
-no distinction exists.
+- Malbim (Iyov 11:6): *shachach* is recoverable, *nashah* is irretrievable.
+- Rav Hirsch (Bereishis 8:1): *shachach* is inadvertent, *nashah* is what
+  happens to a man who treated the matter flippantly, so he bears more blame for
+  having forgotten; and (Devarim 4:9) *shachach* is displacement by another
+  focus while *nashah* is a weakened memory.
+- Rabbi Eliyahu Katz, formerly Chief Rabbi of Slovakia and later of Be'er Sheva,
+  disagrees with both: the Targumim tend to render *shachach* and its cognates
+  with *nashah*-words, which he takes as evidence that *nashah* is simply the
+  Aramaic way of saying *shachach* and that no distinction exists.
 
 ## Rendering guidance
 

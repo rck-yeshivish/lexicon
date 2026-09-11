@@ -66,29 +66,34 @@ copyists who introduced spelling errors into the Talmud that obscure which varia
 means what. In Zoharic Aramaic *ushpiz* usually means **guest**: most famously
 the seven *Ushpizin* who grace the sukkah (Zohar *Emor* 103b).
 
-On etymology: Eruvin 53b, as Rashi explains it, plays on *ushpiz* as *ish pi zo
-chai*, "the man by whom this mouth lives"; Tosafos there, citing Rabbeinu
-Chananel, answer that the word is simply Aramaic and not built from that phrase.
-Rabbi Eliyahu HaBachur (*Sefer HaTishbi*), who vocalizes it *ashpaz*, takes it
-from Latin *hospes*, the etymon of English *hospitality*, *hospice*, *hospital*
-and *hospitaller*. According to modern linguists that Latin word apparently
-derives from proto-Italic *hospitpotis*, "the master of the guest," and it is
-also said to be related to Latin *hostis*, stranger or enemy, behind English
-*hostile* and *hostage*. Others, including Rabbi Shmuel Krauss, argue that
-*ushpaz* comes not from Latin but from Old Persian, where *aspanj* means "inn."
-Either way HaBachur notes the word covers both the lodging house and the guest
-who uses it. (In Modern Hebrew *ishpuz* means hospitalization.) Rabbi Yaakov
-Emden argues for a Hebrew reading, *yesh po zin*, "there is sustenance here,"
-for *ushpiz* as host. Rabbi Shimon Yehuda Leib Goldblit parses *ushpaz* as *ish
-paz*, "a man of gold," and uses it to explain why the Zohar reaches for a
-non-Hebrew word for the seven tzaddikim rather than the plain *orchim*:
-*ushpizin* pays them a compliment that the seemingly neutral Hebrew does not.
-Ashpenaz of Daniel 1:3 seems to be a proper name, though Ludwig Koehler and
-Walter Baumgartner, in their lexicon of biblical Hebrew and Aramaic, understand
-it rather as a title, something like "chief of the household" or "landlord";
-on that reading it seems related to the later *ushpiz*, with an extra nun as
-often happens. By the *Sefer Yuchasin*'s girsa of Taanis 24b (see *Dikdukei Sofrim*)
-Rav Nachman's mother was named Ushpiztai, likely from the same word.
+On etymology:
+- Eruvin 53b, as Rashi explains it, plays on *ushpiz* as *ish pi zo chai*, "the
+  man by whom this mouth lives"; Tosafos there, citing Rabbeinu Chananel, answer
+  that the word is simply Aramaic and not built from that phrase.
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*), who vocalizes it *ashpaz*, takes it
+  from Latin *hospes*, the etymon of English *hospitality*, *hospice*,
+  *hospital* and *hospitaller*. According to modern linguists that Latin word
+  apparently derives from proto-Italic *hospitpotis*, "the master of the guest,"
+  and it is also said to be related to Latin *hostis*, stranger or enemy, behind
+  English *hostile* and *hostage*.
+- Others, including Rabbi Shmuel Krauss, argue that *ushpaz* comes not from
+  Latin but from Old Persian, where *aspanj* means "inn." Either way HaBachur
+  notes the word covers both the lodging house and the guest who uses it. (In
+  Modern Hebrew *ishpuz* means hospitalization.)
+- Rabbi Yaakov Emden argues for a Hebrew reading, *yesh po zin*, "there is
+  sustenance here," for *ushpiz* as host.
+- Rabbi Shimon Yehuda Leib Goldblit parses *ushpaz* as *ish paz*, "a man of
+  gold," and uses it to explain why the Zohar reaches for a non-Hebrew word for
+  the seven tzaddikim rather than the plain *orchim*: *ushpizin* pays them a
+  compliment that the seemingly neutral Hebrew does not.
+- Ashpenaz of Daniel 1:3 seems to be a proper name, though Ludwig Koehler and
+  Walter Baumgartner, in their lexicon of biblical Hebrew and Aramaic,
+  understand it rather as a title, something like "chief of the household" or
+  "landlord"; on that reading it seems related to the later *ushpiz*, with an
+  extra nun as often happens.
+
+By the *Sefer Yuchasin*'s girsa of Taanis 24b (see *Dikdukei Sofrim*) Rav
+Nachman's mother was named Ushpiztai, likely from the same word.
 
 ### achsanai (אכסנאי) and achsanyah (אכסניה)
 Twice in the Mishnah (*Demai* 3:1, *Chullin* 8:2), at least once in Targum (to

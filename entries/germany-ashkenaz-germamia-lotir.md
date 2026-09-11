@@ -56,28 +56,31 @@ HeAruch*); *Lotir* is the Rishonim's own **Rhineland**; *Almenia* is
 
 ## Where the authorities disagree
 
-**What the Biblical Ashkenaz was.** The earliest rabbinic sources say simply
-"Asia" (Targum Yerushalmi and Neofiti to Bereishis 10:3; Targum Rav Yosef to
-Divrei HaYamim I 1:6; Yerushalmi Megillah 1:9), which in antiquity could take in
-Asia Minor and much besides. Shadal (there) gives two possibilities: a nation
-living near Armenia, citing in the name of a scholar called Ilasse that the
-second word of the ancient Greek name for the Black Sea, Pontus *Euxinus* or
-Pontus *Axenus*, is a cognate of Ashkenaz (Rabbi Ernest Klein mentions the same
-in his English etymological dictionary under *Euxine*); or, in the name of his
-son Filosseno Luzzatto, the Asuciandae or Ascantii, whom Pliny the Elder places
-near the Sea of Azov and who may be the people Strabo, a generation earlier,
-calls the Sittaceni. The more accepted view in scholarly circles is the Iranian
-Scythians, called *Ashkuza* (also *Ashguza*, *Ishguza*) in Akkadian and *Saka*
-in Old Persian; other sources identify Ashkenaz with Ascanius, an Italian king
-of Greco-Roman mythology; and the Brown-Driver-Briggs lexicon suggests the
-Ascanians, taking the final *-az* as an Armenian patronymic suffix. Rabbi Aryeh
-Kaplan (*The Living Torah* there), from Josephus's "Aschanax founded the
-Aschanaxians, who are now called by the Greeks Rheginians," lists four
-candidates: Rhegium at the tip of the Italian peninsula; Rhagae in Media; Regnum
-Polemonis southeast of the Black Sea, which he sees as most in line with
-Chazal's "Asia"; and the Rhine region, which fits the medieval usage. Rabbeinu
-Efrayim (there): Ashkenaz is France along the Seine, and Elisha is Almenia;
-Radak reads both Gomer and Ashkenaz as Alemania.
+**What the Biblical Ashkenaz was.**
+- The earliest rabbinic sources say simply "Asia" (Targum Yerushalmi and Neofiti
+  to Bereishis 10:3; Targum Rav Yosef to Divrei HaYamim I 1:6; Yerushalmi
+  Megillah 1:9), which in antiquity could take in Asia Minor and much besides.
+- Shadal (there) gives two possibilities: a nation living near Armenia, citing
+  in the name of a scholar called Ilasse that the second word of the ancient
+  Greek name for the Black Sea, Pontus *Euxinus* or Pontus *Axenus*, is a
+  cognate of Ashkenaz (Rabbi Ernest Klein mentions the same in his English
+  etymological dictionary under *Euxine*); or, in the name of his son Filosseno
+  Luzzatto, the Asuciandae or Ascantii, whom Pliny the Elder places near the Sea
+  of Azov and who may be the people Strabo, a generation earlier, calls the
+  Sittaceni.
+- The more accepted view in scholarly circles is the Iranian Scythians, called
+  *Ashkuza* (also *Ashguza*, *Ishguza*) in Akkadian and *Saka* in Old Persian;
+  other sources identify Ashkenaz with Ascanius, an Italian king of Greco-Roman
+  mythology; and the Brown-Driver-Briggs lexicon suggests the Ascanians, taking
+  the final *-az* as an Armenian patronymic suffix.
+- Rabbi Aryeh Kaplan (*The Living Torah* there), from Josephus's "Aschanax
+  founded the Aschanaxians, who are now called by the Greeks Rheginians," lists
+  four candidates: Rhegium at the tip of the Italian peninsula; Rhagae in Media;
+  Regnum Polemonis southeast of the Black Sea, which he sees as most in line
+  with Chazal's "Asia"; and the Rhine region, which fits the medieval usage.
+- Rabbeinu Efrayim (there): Ashkenaz is France along the Seine, and Elisha is
+  Almenia.
+- Radak reads both Gomer and Ashkenaz as Alemania.
 
 **Whether Germamia glosses Gomer or Magog.** Yoma 10a and Yerushalmi Megillah 1:9
 give Germamia for Gomer, close to an anagram of the name, and the Vilna Gaon

@@ -33,15 +33,17 @@ context narrows it (Rabbi Mecklenburg).
 ### minchah (מנחה)
 The commonest of the six, over two hundred appearances, and the word the Torah
 uses four times for Yaakov's tribute of five hundred and fifty animals to Esav
-(Bereishis 32:14, 32:19-22). Rav Hirsch: a *minchah* is a gift of homage, by
-which the giver shows his subservience; it serves the giver's interest in
-demonstrating his dependence. Rabbi Shlomo Aharon Wertheimer takes it
-differently, as a gift that gains the giver atonement. Rabbi Yaakov Tzvi
-Mecklenburg: a *minchah* can be an outright tax or tribute paid by a subject to
-his master, as the subjugated Moavim paid David (Shmuel II 8:2) and as Hoshea,
-the last king of Yisrael, paid his Assyrian overlord (Melachim II 17:3). Radak
-and others root it in *nach*/*nachah*, "placed, rested," since the gift is meant
-to settle and placate the recipient.
+(Bereishis 32:14, 32:19-22).
+- Rav Hirsch: a *minchah* is a gift of homage, by which the giver shows his
+  subservience; it serves the giver's interest in demonstrating his dependence.
+- Rabbi Shlomo Aharon Wertheimer takes it differently, as a gift that gains the
+  giver atonement.
+- Rabbi Yaakov Tzvi Mecklenburg: a *minchah* can be an outright tax or tribute
+  paid by a subject to his master, as the subjugated Moavim paid David (Shmuel
+  II 8:2) and as Hoshea, the last king of Yisrael, paid his Assyrian overlord
+  (Melachim II 17:3).
+- Radak and others root it in *nach*/*nachah*, "placed, rested," since the gift
+  is meant to settle and placate the recipient.
 
 Rabbi Mecklenburg presses further: the more submission a gift shows, the more it
 deserves the name *minchah*. Hence *Tefillas Minchah*, said as the sun is on its
@@ -82,16 +84,19 @@ back to the giver, so that giver and receiver trade places. This is why Yitzchak
 asked Esav for a meal before blessing him (Bereishis 27).
 
 ### eshkar (אשכר)
-Twice in Tanach (Tehillim 72:10, Yechezkel 27:15) and obscure. Radak is unsure
-whether the root is all four letters or only the last three (ש-כ-ר, "beer" or
-"drunk"). Rabbi Avraham ben Chaim Ibn Ramoch: a *minchah* is gold, silver, and
-precious stones while an *eshkar* is choice fruits, which, Rabbi Klein suggests,
-seems to mean inedible against edible, and which might explain the link to
-*sheichar*. Wertheimer: an *eshkar* is a gift whose worth is aesthetic rather
-than monetary or useful, a gift that "bribes" the recipient, so to speak, into
-overrating it, leaving him as though intoxicated (*shikur*) and unable to weigh
-its real value. Malbim relates *eshkar* to *sachar*, "reward" or "payment," the
-shin shifting to a sin.
+Twice in Tanach (Tehillim 72:10, Yechezkel 27:15) and obscure.
+- Radak is unsure whether the root is all four letters or only the last three
+  (ש-כ-ר, "beer" or "drunk").
+- Rabbi Avraham ben Chaim Ibn Ramoch: a *minchah* is gold, silver, and precious
+  stones while an *eshkar* is choice fruits, which, Rabbi Klein suggests, seems
+  to mean inedible against edible, and which might explain the link to
+  *sheichar*.
+- Wertheimer: an *eshkar* is a gift whose worth is aesthetic rather than
+  monetary or useful, a gift that "bribes" the recipient, so to speak, into
+  overrating it, leaving him as though intoxicated (*shikur*) and unable to
+  weigh its real value.
+- Malbim relates *eshkar* to *sachar*, "reward" or "payment," the shin shifting
+  to a sin.
 
 ### doron (דורון)
 It does not appear in Tanach at all. Targum Yonasan renders the *minchah* Yaakov

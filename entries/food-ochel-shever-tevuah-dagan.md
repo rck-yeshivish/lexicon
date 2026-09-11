@@ -49,16 +49,18 @@ up; in *Cheshek Shlomo*, the especially perishable produce is *yevul* because it
 can easily rot if it is not looked after.
 
 ### tevuah (תבואה)
-Rabbi Shlomo Aharon Wertheimer (1866 to 1935): root ב-א, coming or bringing, so
-whatever comes forth from a seed or a tree; hence its extension to the fruits of
-any conduct (Mishlei 3:14, 18:20, and 10:16).
-Wertheimer stresses that produce is *tevuah* even before full ripeness and even
-while still attached to the ground, once it has reached a third of its growth
-(Yerushalmi *Kilayim* 7:5). Ibn Janach: produce is *tevuah* because it comes in
-at set times of the year. Radak (to Yehoshua 5:11 and *Sefer HaShorashim*) sets
-*tevuah* against *avur*: *avur* goes with *avar*, past, and is grain of previous
-years, while *tevuah* goes with *ba* and is this year's. Rav Hirsch: *tevuah* is
-the choicest produce, the kind a farmer wants to bring into his house.
+- Rabbi Shlomo Aharon Wertheimer (1866 to 1935): root ב-א, coming or bringing,
+  so whatever comes forth from a seed or a tree; hence its extension to the
+  fruits of any conduct (Mishlei 3:14, 18:20, and 10:16). Wertheimer stresses
+  that produce is *tevuah* even before full ripeness and even while still
+  attached to the ground, once it has reached a third of its growth (Yerushalmi
+  *Kilayim* 7:5).
+- Ibn Janach: produce is *tevuah* because it comes in at set times of the year.
+- Radak (to Yehoshua 5:11 and *Sefer HaShorashim*) sets *tevuah* against *avur*:
+  *avur* goes with *avar*, past, and is grain of previous years, while *tevuah*
+  goes with *ba* and is this year's.
+- Rav Hirsch: *tevuah* is the choicest produce, the kind a farmer wants to bring
+  into his house.
 
 ### tenuvah (תנובה)
 Pappenheim: root נ-ו-ב, fully developed products, agricultural and verbal

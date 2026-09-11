@@ -59,15 +59,17 @@ What is severed, and from what:
   *avodah zarah*, where the Torah writes the doubled *hikares tikares* (Bamidbar
   15:31), an early death and a punished soul after it.
 
-The age at which "early death" is measured is itself disputed. Yerushalmi
-Bikkurim 2:1: before fifty, derived from Bamidbar 4:18, where Moshe and Aharon
-are warned not to let the tribe of Kehas be "cut off" through gazing at the
-uncovered vessels, together with Bamidbar 8:25, that the Levi'im served only to
-fifty. Moed Katan 28a: even a death between fifty and sixty is *karet*; Rav
-Yosef made a *seudah* on turning sixty, no longer liable, and even past sixty a
-sudden death can be *karet*. Ibn Ezra (Bereishis 17:14): death before fifty two,
-or else the death of one's descendants, so that his memory is wiped out entirely
-and his legacy is what gets cut off.
+The age at which "early death" is measured is itself disputed.
+- Yerushalmi Bikkurim 2:1: before fifty, derived from Bamidbar 4:18, where Moshe
+  and Aharon are warned not to let the tribe of Kehas be "cut off" through
+  gazing at the uncovered vessels, together with Bamidbar 8:25, that the Levi'im
+  served only to fifty.
+- Moed Katan 28a: even a death between fifty and sixty is *karet*; Rav Yosef
+  made a *seudah* on turning sixty, no longer liable, and even past sixty a
+  sudden death can be *karet*.
+- Ibn Ezra (Bereishis 17:14): death before fifty two, or else the death of one's
+  descendants, so that his memory is wiped out entirely and his legacy is what
+  gets cut off.
 
 ### ariri (ערירי)
 Root ע-ר-ר. Four appearances in Tanach. Avraham, questioning the promise of the

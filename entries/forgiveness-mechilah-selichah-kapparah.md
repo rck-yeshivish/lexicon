@@ -30,57 +30,68 @@ how their two words differ from *kapparah* at all.
 ### selichah (סליחה)
 Root ס-ל-ח. Close to fifty Biblical occurrences, most famously Hashem's answer
 to Moshe after the Meraglim, *salachti kidvarecha* (Bamidbar 14:20). Its
-cognates appear many times for the forgiveness a korban brings (Vayikra
-4:20-35, 5:10-26). Linguists connect *selichah* to the Akkadian *salahu* and the
-Aramaic *zelicha*, both meaning "sprinkling." This may be a reference to the
-sprinkling of the blood on the mizbeach, the main component of the korbanos. Rabbi Moshe Meth (*Matteh Moshe*)
-and Rabbi Yitzchak Eizik of Tirna (*Sefer HaMinhagim*): *selichah* pairs with
-*avon* (Bamidbar 14:19). Rabbi Yaakov Tzvi Mecklenburg: *selichah* may be
-quantitatively the stronger, since it reaches the whole quantity of the sin, but
-only by completely deferring its punishment to a later time; the sin itself is
-left as it was. Rabbi Shlomo Aharon
-Wertheimer: a reprieve, the sinner is not punished all at once but given time
-to repay slowly. Rav Hirsch: the correction of the relationship between the
-sinner and the one (or One) he wronged. The word also names the *piyyut*
-genre, *Selichos*, originally said inside the *selach lanu* berachah of Shemoneh
-Esrei and nowadays before davening begins or after Shemoneh Esrei.
+cognates appear many times for the forgiveness a korban brings (Vayikra 4:20-35,
+5:10-26).
+- Linguists connect *selichah* to the Akkadian *salahu* and the Aramaic
+  *zelicha*, both meaning "sprinkling." This may be a reference to the
+  sprinkling of the blood on the mizbeach, the main component of the korbanos.
+- Rabbi Moshe Meth (*Matteh Moshe*) and Rabbi Yitzchak Eizik of Tirna (*Sefer
+  HaMinhagim*): *selichah* pairs with *avon* (Bamidbar 14:19).
+- Rabbi Yaakov Tzvi Mecklenburg: *selichah* may be quantitatively the stronger,
+  since it reaches the whole quantity of the sin, but only by completely
+  deferring its punishment to a later time; the sin itself is left as it was.
+- Rabbi Shlomo Aharon Wertheimer: a reprieve, the sinner is not punished all at
+  once but given time to repay slowly.
+- Rav Hirsch: the correction of the relationship between the sinner and the one
+  (or One) he wronged.
+
+The word also names the *piyyut* genre, *Selichos*, originally said inside the
+*selach lanu* berachah of Shemoneh Esrei and nowadays before davening begins or
+after Shemoneh Esrei.
 
 ### mechilah (מחילה)
 Root מ-ח-ל, which Ernest Klein's *A Comprehensive Etymological Dictionary of the
-Hebrew Language* calls of uncertain etymology. Rabbi Eliyahu HaBachur: absent from Tanach,
-present in Rabbinic literature and the liturgy; besides forgiveness it means
-cancelling a debt or forgoing what one deserves. Matteh Moshe and Sefer
-HaMinhagim pair it with *pesha*, and since no pasuk has *mechilah* they prove
-it from *mocheh peshaecha* (Yeshayahu 43:25), seemingly reading *mochel* as
-*mocheh*, to wipe away; Rabbi Aharon Fuld (glosses to HaBachur) suggests that
-*mochel* is *mocheh* plus *al*. Rabbi Moshe Yitzchak Avigdor and Rabbi Yehuda Aszad: kin to *yachel*
-(Bamidbar 30:3), which Targum renders cancel, nullify. Rabbi Shlomo Pappenheim
-proposes that many three-letter roots opening with *mem* are really the remaining
-two letters with the *mem* flipping the sense to its opposite (*chok* engrave,
-*machak* erase; *leitz* scorn, *meilitz* defend; *na* movement, *mana*
-withholding; *rad* rule, *marad* rebel, and more). Pappenheim himself does not
-apply this to *mechilah*; Rabbi Reuven Chaim Klein suggests that perhaps we
-may: ח-ל is primarily hollowing out, and in many cases profaning something holy
-by emptying it, and a Jew who sins makes himself a hollow vessel, so מ-ח-ל would
-be the mechanism by which Hashem fills the hollow and re-infuses the penitent
-with holiness. Mecklenburg: qualitatively the stronger, it can erase part of
-the sin outright even if not all of it. Wertheimer: immediate and complete
-forgiveness. Rav Hirsch: commuting the punishment the guilty party deserves.
+Hebrew Language* calls of uncertain etymology.
+- Rabbi Eliyahu HaBachur: absent from Tanach, present in Rabbinic literature and
+  the liturgy; besides forgiveness it means cancelling a debt or forgoing what
+  one deserves.
+- Matteh Moshe and Sefer HaMinhagim pair it with *pesha*, and since no pasuk has
+  *mechilah* they prove it from *mocheh peshaecha* (Yeshayahu 43:25), seemingly
+  reading *mochel* as *mocheh*, to wipe away; Rabbi Aharon Fuld (glosses to
+  HaBachur) suggests that *mochel* is *mocheh* plus *al*.
+- Rabbi Moshe Yitzchak Avigdor and Rabbi Yehuda Aszad: kin to *yachel* (Bamidbar
+  30:3), which Targum renders cancel, nullify.
+- Rabbi Shlomo Pappenheim proposes that many three-letter roots opening with
+  *mem* are really the remaining two letters with the *mem* flipping the sense
+  to its opposite (*chok* engrave, *machak* erase; *leitz* scorn, *meilitz*
+  defend; *na* movement, *mana* withholding; *rad* rule, *marad* rebel, and
+  more). Pappenheim himself does not apply this to *mechilah*; Rabbi Reuven
+  Chaim Klein suggests that perhaps we may: ח-ל is primarily hollowing out, and
+  in many cases profaning something holy by emptying it, and a Jew who sins
+  makes himself a hollow vessel, so מ-ח-ל would be the mechanism by which Hashem
+  fills the hollow and re-infuses the penitent with holiness.
+- Mecklenburg: qualitatively the stronger, it can erase part of the sin outright
+  even if not all of it.
+- Wertheimer: immediate and complete forgiveness.
+- Rav Hirsch: commuting the punishment the guilty party deserves.
 
 ### kapparah (כפרה)
-Root כ-פ-ר. Matteh Moshe and Sefer HaMinhagim pair it with *chet* (Shemos
-32:30); Rabbi Yechezkel Landau: elsewhere it goes with *avon* (Mishlei 16:6,
-Yeshayahu 27:9, Tehillim 78:38), but the Chumash pairing with *chet* governs.
-Malbim records two derivations. From *kofer*, ransom: *kapparah* is a price
-paid for forgiveness, usually a korban (*kapparah* also gives its name to Yom
-HaKippurim and to the Erev Yom Kippur *kapparos*). From *kapporet*, cover:
-*kapparah* covers the sin on the surface so it is no longer visible, but does
-not completely remove or wipe it away. Rabbi Reuven Chaim Klein offers a
-harmonization of his own, that in English one "covers" a cost by offsetting it, so covering and paying a price can be two
-facets of one idea. Malbim's own summary is that *kapparah* recalls the price
-paid for sin and focuses on the transactional side of atonement. Rav Hirsch:
-the total negation of any negative ramification of the sin. Mecklenburg and
-Wertheimer do not place *kapparah* against the other two.
+Root כ-פ-ר.
+- Matteh Moshe and Sefer HaMinhagim pair it with *chet* (Shemos 32:30); Rabbi
+  Yechezkel Landau: elsewhere it goes with *avon* (Mishlei 16:6, Yeshayahu 27:9,
+  Tehillim 78:38), but the Chumash pairing with *chet* governs.
+- Malbim records two derivations. From *kofer*, ransom: *kapparah* is a price
+  paid for forgiveness, usually a korban (*kapparah* also gives its name to Yom
+  HaKippurim and to the Erev Yom Kippur *kapparos*). From *kapporet*, cover:
+  *kapparah* covers the sin on the surface so it is no longer visible, but does
+  not completely remove or wipe it away. Rabbi Reuven Chaim Klein offers a
+  harmonization of his own, that in English one "covers" a cost by offsetting
+  it, so covering and paying a price can be two facets of one idea. Malbim's own
+  summary is that *kapparah* recalls the price paid for sin and focuses on the
+  transactional side of atonement.
+- Rav Hirsch: the total negation of any negative ramification of the sin.
+
+Mecklenburg and Wertheimer do not place *kapparah* against the other two.
 
 ## Rendering guidance
 

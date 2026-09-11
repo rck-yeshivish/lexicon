@@ -54,38 +54,49 @@ thing.
 
 ## Where the authorities disagree
 
-**What shdeimah means.** Four views. **Grain field**: Rashi (to Devarim 32:32, Yeshayahu
-16:8, Chavakuk 3:17), consistently. **Grapevine, a true synonym of gefen**:
-Rabbeinu Bachaya (to Devarim 32:32), who reads the pasuk as deliberate doubled
-verbiage, with Ibn Janach (*Sefer HaShorashim*), Ibn Ezra and Radak (to
-Yeshayahu 16:8). **Any nourishing ground**: Pappenheim, not a vine and not
-Rashi's grain field either, but land juicy enough to feed what grows in it. **A
-poor field**: *Ohalei Yehuda* and *Shoresh Yesha*, a portmanteau of *sadeh*,
-field, and *mah*, what, seemingly invoking the shin and sin interchange, with
-mem interchanging with peh to link ש-ד-ם to ש-ד-פ, wind-blasted (Ibn Janach and
-Radak make a similar point at Yeshayahu 37:27, though not for every instance).
+**What shdeimah means.** Four views.
+- **Grain field**: Rashi (to Devarim 32:32, Yeshayahu 16:8, Chavakuk 3:17),
+  consistently.
+- **Grapevine, a true synonym of gefen**: Rabbeinu Bachaya (to Devarim 32:32),
+  who reads the pasuk as deliberate doubled verbiage, with Ibn Janach (*Sefer
+  HaShorashim*), Ibn Ezra and Radak (to Yeshayahu 16:8).
+- **Any nourishing ground**: Pappenheim, not a vine and not Rashi's grain field
+  either, but land juicy enough to feed what grows in it.
+- **A poor field**: *Ohalei Yehuda* and *Shoresh Yesha*, a portmanteau of
+  *sadeh*, field, and *mah*, what, seemingly invoking the shin and sin
+  interchange, with mem interchanging with peh to link ש-ד-ם to ש-ד-פ,
+  wind-blasted (Ibn Janach and Radak make a similar point at Yeshayahu 37:27,
+  though not for every instance).
 
-**What sorek is.** Targum Yonasan (to Yeshayahu 5:2, Yirmiyahu 2:21), Ibn
-Janach and Radak: the choicest grapevine, and per Ibn Ghiyyat in Radak's name
-one whose grapes have no pits. Rashi: shoots good for planting as trunks in
-their own right (Yeshayahu 5:2), or the vine's especially long tendrils
-(Bereishis 49:11), while at Yirmiyahu 2:21 he seems to follow the choice-vine
-approach, explaining *sorek* as shoots from a good *gefen*. Earlier, Rabbi Shmuel ben
-Chofni Gaon (998 to 1034, to Bereishis 49:11): the
-*softest* branches of the vineyard, which he notes is the sense of
-*al-sarik* in Syrian Arabic; Rabbi Klein adds that the word possibly refers to the Sirac or Syrac grapes now known as
-Syrah or Shiraz. Ibn Saruk: simply *sarig*, a tendril. Rabbi Klein suggests
-that perhaps all these readings are somehow describing the same thing.
+**What sorek is.**
+- Targum Yonasan (to Yeshayahu 5:2, Yirmiyahu 2:21), Ibn Janach and Radak: the
+  choicest grapevine, and per Ibn Ghiyyat in Radak's name one whose grapes have
+  no pits.
+- Rashi: shoots good for planting as trunks in their own right (Yeshayahu 5:2),
+  or the vine's especially long tendrils (Bereishis 49:11), while at Yirmiyahu
+  2:21 he seems to follow the choice-vine approach, explaining *sorek* as shoots
+  from a good *gefen*.
+- Earlier, Rabbi Shmuel ben Chofni Gaon (998 to 1034, to Bereishis 49:11): the
+  *softest* branches of the vineyard, which he notes is the sense of *al-sarik*
+  in Syrian Arabic; Rabbi Klein adds that the word possibly refers to the Sirac
+  or Syrac grapes now known as Syrah or Shiraz.
+- Ibn Saruk: simply *sarig*, a tendril.
 
-**The root of gefen.** The early grammarians (Ibn Saruk, Ibn Janach, Radak)
-hold the triliteral ג-פ-נ; Pappenheim derives it from the biliteral ג-פ,
-outward protrusion, with *gaf* (side, Mishlei 9:3), a bird's wing, *guf* (the
-body as the outward projection of the person), *mageifah* (a plague spreading
-by contact), and *agaf* (a flank of troops spread like wings; in Modern Hebrew
-a department within a larger body). *Shoresh Yesha*, implicitly invoking the
-gimmel and kaf interchange, relates ג-פ-נ to כ-פ-נ, famine, since wine makes a
-man hungry (Pesachim 107b to 108a). In
-Ugaritic and Canaanite mythological texts the *gefen* is deified as an
+Rabbi Klein suggests that perhaps all these readings are somehow describing the
+same thing.
+
+**The root of gefen.**
+- The early grammarians (Ibn Saruk, Ibn Janach, Radak) hold the triliteral
+  ג-פ-נ.
+- Pappenheim derives it from the biliteral ג-פ, outward protrusion, with *gaf*
+  (side, Mishlei 9:3), a bird's wing, *guf* (the body as the outward projection
+  of the person), *mageifah* (a plague spreading by contact), and *agaf* (a
+  flank of troops spread like wings; in Modern Hebrew a department within a
+  larger body).
+- *Shoresh Yesha*, implicitly invoking the gimmel and kaf interchange, relates
+  ג-פ-נ to כ-פ-נ, famine, since wine makes a man hungry (Pesachim 107b to 108a).
+
+In Ugaritic and Canaanite mythological texts the *gefen* is deified as an
 idolatrous god named Gapnu, understood there to be a messenger of Baal.
 
 ## Distinctions

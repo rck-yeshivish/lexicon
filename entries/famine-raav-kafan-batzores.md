@@ -29,11 +29,12 @@ the two differ.
 
 ### ra'av (רעב)
 The ordinary Biblical word, used for each of the three famines that drove the
-Avos out of Eretz Yisrael (Bereishis 12:10, 26:1, 45:11). Ralbag (to Iyov 5:22):
-*ra'av* is famine from simple scarcity of food. The Vilna Gaon: *ra'av* is the
-*external* crisis, a lack of available quality produce. Rabbi Shlomo Aharon
-Wertheimer: *ra'av* is the man actively suffering hunger pangs, whose body is
-empty and whose soul craves food.
+Avos out of Eretz Yisrael (Bereishis 12:10, 26:1, 45:11).
+- Ralbag (to Iyov 5:22): *ra'av* is famine from simple scarcity of food.
+- The Vilna Gaon: *ra'av* is the *external* crisis, a lack of available quality
+  produce.
+- Rabbi Shlomo Aharon Wertheimer: *ra'av* is the man actively suffering hunger
+  pangs, whose body is empty and whose soul craves food.
 
 ### kafan (כפן)
 Root כ-פ-נ. Multiple commentators, the earliest of whom seems to be Ibn Saruk

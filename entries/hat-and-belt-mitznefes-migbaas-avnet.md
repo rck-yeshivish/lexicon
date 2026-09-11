@@ -40,13 +40,15 @@ because the hat carried two hill-like humps on top and tied under the chin.
 Rambam has the ordinary *kohen*'s hat actually covering the head.
 
 ### mitznefes (מצנפת)
-Root צ-נ-ף. The Meiri: an especially long cloth that the *kohen gadol* winds
-(*tzonef*) around his head, so the name records the wrapping.
-The Vilna Gaon says the same, against the pre-sewn *migbaas*. Others hold both
-were wrapped, and the *mitznefes* is distinguished by reaching down to the
-beard. Rambam has it encircling the perimeter of the head without covering it.
-*Tosafos HaRosh* (Yoma 71b) links *mitznefes* to *tznif*, which alludes to the
-honor of wearing a royal diadem.
+Root צ-נ-ף.
+- The Meiri: an especially long cloth that the *kohen gadol* winds (*tzonef*)
+  around his head, so the name records the wrapping. The Vilna Gaon says the
+  same, against the pre-sewn *migbaas*.
+- Others hold both were wrapped, and the *mitznefes* is distinguished by
+  reaching down to the beard.
+- Rambam has it encircling the perimeter of the head without covering it.
+- *Tosafos HaRosh* (Yoma 71b) links *mitznefes* to *tznif*, which alludes to the
+  honor of wearing a royal diadem.
 
 Against all of these, Rashi and Ramban maintain that *migbaas* and *mitznefes*
 were both the same type of hat and are simply synonyms. Josephus writes that

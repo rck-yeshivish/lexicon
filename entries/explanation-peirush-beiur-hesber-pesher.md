@@ -30,45 +30,50 @@ interpretation only (Radak, Malbim).
 ### peirush (פירוש)
 Root פ-ר-ש (kin to *parashah*, *prishah*, *parush*, *parash*, *peresh*; and to
 *perushim*, which in the Mishnah, Yadayim 4:6 to 8, names the Torah-loyal Jews
-against the antinomian *Tzedokim*, and today the non-Chassidic Yerushalmim of the
-Old Yishuv). Shadal: the means of making known what was unknown, kin to פ-ר-ש
-with a sin, "spreading out," since new information spreads the enigmatic matter
-open; so the blasphemer and the mekoshesh waited because Hashem had not yet
-*porash*, made known, their sentence (Vayikra 24:12, Bamidbar 15:34). Rabbi
-Shlomo Pappenheim: the root means "separating"; the verdict was separated out
-from the possible outcomes, and *meforash*, "explicitly," is the true reading
-separated from the ambiguous alternatives. On the same root he explains *parash*,
-cavalry, as troops kept separate from the infantry, and *peresh*, dung, as what
-is separated off from the body. Rabbi Moshe Tedeschi-Ashkenazi:
-clarifying in an unambiguous way, as evidence is spread out (Devarim 22:17).
-Malbim (*Yair Ohr*): *peirush* reveals the exoteric, the surface facts and the
-normative implications, what everyone can see once it is spread out.
+against the antinomian *Tzedokim*, and today the non-Chassidic Yerushalmim of
+the Old Yishuv).
+- Shadal: the means of making known what was unknown, kin to פ-ר-ש with a sin,
+  "spreading out," since new information spreads the enigmatic matter open; so
+  the blasphemer and the mekoshesh waited because Hashem had not yet *porash*,
+  made known, their sentence (Vayikra 24:12, Bamidbar 15:34).
+- Rabbi Shlomo Pappenheim: the root means "separating"; the verdict was
+  separated out from the possible outcomes, and *meforash*, "explicitly," is the
+  true reading separated from the ambiguous alternatives. On the same root he
+  explains *parash*, cavalry, as troops kept separate from the infantry, and
+  *peresh*, dung, as what is separated off from the body.
+- Rabbi Moshe Tedeschi-Ashkenazi: clarifying in an unambiguous way, as evidence
+  is spread out (Devarim 22:17).
+- Malbim (*Yair Ohr*): *peirush* reveals the exoteric, the surface facts and the
+  normative implications, what everyone can see once it is spread out.
 
 ### beiur (ביאור)
 Root ב-א-ר, which the classical lexicographers (Ibn Saruk, Ibn Janach, Radak)
-read as two senses, wellspring (*be'er*) and elucidation (*ba'er*). Pappenheim
-treats the aleph as non-essential and drops to the biliteral ב-ר, "separated,
-choicest, clear" (*barah*, *bari*, *bahr* for grain parted from its chaff, *bar*
-for a son parted from his mother's womb, *bor*/*boris* for the soap that
-separates off filth, *birah*, *bahir*, and more); *bor*, a pit, and *be'er*, a
-well, are both products of digging the earth away to separate the dirt from the
-water underneath, and a *beiur* separates the correct explanation from the
-mistaken ones. Shadal: *beiur* is a clear manner of *writing*,
-expanding on an idea with words; the verb appears only three times in Tanach,
-each about writing to clarify (*ba'er heitiv* on the stones, Devarim 27:8;
-Moshe's *be'er* of the Torah, Devarim 1:5; Chavakuk's tablets, Chavakuk 2:2).
-Mecklenburg (*HaKsav VeHaKabbalah*) cites Shadal's explanations of *poser*,
-*beiur* and *peirush*. Tedeschi-Ashkenazi: the bes is non-essential and the core
-root is א-(ו)-ר, light; one who elucidates metaphorically sheds light on the
-matter, an etymology that parallels English "elucidate"
-itself, from Latin *lux*/*lucidus* and ultimately the proto-Indo-European *leuk*,
-whence *lucid*, *translucent* and *pellucid*. Malbim: *beiur* is clarification of
-the *esoteric*, an in-depth probing of the core elements that lie beneath the
-surface, as against *peirush*, which is occupied with a matter's external
-trappings. Rabbi Reuven Chaim Klein adds on his own account that *beiur* accordingly relates to
-*be'er* in the sense of a wellspring, whose waters are hidden deep underground
-and which is the mechanism for drawing them up into daylight. Commonly
-pronounced *biur*.
+read as two senses, wellspring (*be'er*) and elucidation (*ba'er*).
+- Pappenheim treats the aleph as non-essential and drops to the biliteral ב-ר,
+  "separated, choicest, clear" (*barah*, *bari*, *bahr* for grain parted from
+  its chaff, *bar* for a son parted from his mother's womb, *bor*/*boris* for
+  the soap that separates off filth, *birah*, *bahir*, and more); *bor*, a pit,
+  and *be'er*, a well, are both products of digging the earth away to separate
+  the dirt from the water underneath, and a *beiur* separates the correct
+  explanation from the mistaken ones.
+- Shadal: *beiur* is a clear manner of *writing*, expanding on an idea with
+  words; the verb appears only three times in Tanach, each about writing to
+  clarify (*ba'er heitiv* on the stones, Devarim 27:8; Moshe's *be'er* of the
+  Torah, Devarim 1:5; Chavakuk's tablets, Chavakuk 2:2). Mecklenburg (*HaKsav
+  VeHaKabbalah*) cites Shadal's explanations of *poser*, *beiur* and *peirush*.
+- Tedeschi-Ashkenazi: the bes is non-essential and the core root is א-(ו)-ר,
+  light; one who elucidates metaphorically sheds light on the matter, an
+  etymology that parallels English "elucidate" itself, from Latin
+  *lux*/*lucidus* and ultimately the proto-Indo-European *leuk*, whence *lucid*,
+  *translucent* and *pellucid*.
+- Malbim: *beiur* is clarification of the *esoteric*, an in-depth probing of the
+  core elements that lie beneath the surface, as against *peirush*, which is
+  occupied with a matter's external trappings. Rabbi Reuven Chaim Klein adds on
+  his own account that *beiur* accordingly relates to *be'er* in the sense of a
+  wellspring, whose waters are hidden deep underground and which is the
+  mechanism for drawing them up into daylight.
+
+Commonly pronounced *biur*.
 
 ### hesber (הסבר)
 Clearest from the Aramaic *svar*, to think or hold a position (Daniel 7:25;
@@ -137,21 +142,24 @@ story has something to do with *Patros*, a name for Egypt made of those three
 letters plus a final samech.
 
 On the etymology of *poser*, the classical lexicographers take the triliteral
-פ-ת-ר. Shadal reads *poser* instead as a contraction of *posei'ach ohr*, "he
-opens light," one who sheds light on what perplexes others. Rav Hirsch (to Shemos
-13:2) connects *poser* with a tav to *peter* with a tes, both expressions of
-opening and revealing, since a *peter rechem* is the firstborn who opens the
-mother's womb and reveals her motherhood realized, and a *pitaron* likewise opens
-a closed communication to reveal its inner meaning; and he conjectures (to Shemos
-25:39) that *kaftor*, a button, may be a portmanteau of *kafut*, tied up, and
-*pitaron*/*poser*, opened, since buttons are made to open and close. Rabbi
-Avraham Bedersi (*Chosam Tochnis*) takes the trouble to clarify that *poser* is
-not a synonym of the Aramaic-Persian *patshegen* (Esther 3:14, 4:8, 8:13): a
-*poser* gives the explanation of a text, a *patshegen* is its copy or wording,
-a different concept altogether. Rabbi Yehudah Aryeh of Carpentras (*Ohalei
-Yehuda*), by contrast, holds that *patshegen* derives from *poser* plus *ken*,
-"so," the kaf of *ken* turning into a gimmel, though he does not quite account
-for how the reish of *poser* became a shin.
+פ-ת-ר.
+- Shadal reads *poser* instead as a contraction of *posei'ach ohr*, "he opens
+  light," one who sheds light on what perplexes others.
+- Rav Hirsch (to Shemos 13:2) connects *poser* with a tav to *peter* with a tes,
+  both expressions of opening and revealing, since a *peter rechem* is the
+  firstborn who opens the mother's womb and reveals her motherhood realized, and
+  a *pitaron* likewise opens a closed communication to reveal its inner meaning;
+  and he conjectures (to Shemos 25:39) that *kaftor*, a button, may be a
+  portmanteau of *kafut*, tied up, and *pitaron*/*poser*, opened, since buttons
+  are made to open and close.
+- Rabbi Avraham Bedersi (*Chosam Tochnis*) takes the trouble to clarify that
+  *poser* is not a synonym of the Aramaic-Persian *patshegen* (Esther 3:14, 4:8,
+  8:13): a *poser* gives the explanation of a text, a *patshegen* is its copy or
+  wording, a different concept altogether.
+- Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*), by contrast, holds that
+  *patshegen* derives from *poser* plus *ken*, "so," the kaf of *ken* turning
+  into a gimmel, though he does not quite account for how the reish of *poser*
+  became a shin.
 
 *Pesher* appears only once in the Hebrew of Tanach, "who knows the *pesher* of a
 matter" (Koheles 8:1), where Rashi takes the wise man to be Moshe, who knew how
@@ -171,22 +179,25 @@ from *pesher*, the shin becoming a sin or samech as often happens in moving from
 Hebrew to Arabic.
 
 Beyond the classical triliteral reading, other grammarians account for *pesher*
-otherwise. Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) derives it from the
-biliteral ש-ר, untie or open, as in the Aramaic *um'shareh kitrin*, "and untying
-knots" (Daniel 5:12; see also 5:6, 3:25), kin to the Talmudic *sharei*,
-permitted, and parallel to the Hebrew *matir*: interpreting a dream, or any
-enigma, is untying a knot. On his account *pesher* and *pitaron* are cognates,
-with *pesher*, which he holds to be the Aramaic word, the etymon of the later
-Hebrew *pitaron*. Rabbi Eliyahu Bachur (*Sefer HaTishbi*, and in his glosses to
-Radak's *Sefer HaShorashim*) relates *pesher* to *poser* by the interchange of
-shin and tav, a Hebrew shin often becoming an Aramaic tav
-(*shemonah*/*tamnei*, *shor*/*tor*, *yeshivah*/*metivta*), which seems to point the opposite way, making *pesher* Hebrew and
-*pitaron* Aramaic. Bachur alternatively suggests that *pesher* is *peirush*
-metathesized, shin and reish trading places, an explanation offered as well by
-Rabbi Shlomo Ibn Melech (*Michlal Yofi* to Koheles 8:1) and by Bedersi. *Ohalei
-Yehuda* instead makes *pesher* a portmanteau of *peh*, mouth, and *yashar*,
-straight, perhaps alluding to the part spoken mediation plays both in reaching
-correct interpretations and in reaching compromises.
+otherwise.
+- Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) derives it from the
+  biliteral ש-ר, untie or open, as in the Aramaic *um'shareh kitrin*, "and
+  untying knots" (Daniel 5:12; see also 5:6, 3:25), kin to the Talmudic
+  *sharei*, permitted, and parallel to the Hebrew *matir*: interpreting a dream,
+  or any enigma, is untying a knot. On his account *pesher* and *pitaron* are
+  cognates, with *pesher*, which he holds to be the Aramaic word, the etymon of
+  the later Hebrew *pitaron*.
+- Rabbi Eliyahu Bachur (*Sefer HaTishbi*, and in his glosses to Radak's *Sefer
+  HaShorashim*) relates *pesher* to *poser* by the interchange of shin and tav,
+  a Hebrew shin often becoming an Aramaic tav (*shemonah*/*tamnei*,
+  *shor*/*tor*, *yeshivah*/*metivta*), which seems to point the opposite way,
+  making *pesher* Hebrew and *pitaron* Aramaic. Bachur alternatively suggests
+  that *pesher* is *peirush* metathesized, shin and reish trading places, an
+  explanation offered as well by Rabbi Shlomo Ibn Melech (*Michlal Yofi* to
+  Koheles 8:1) and by Bedersi.
+- *Ohalei Yehuda* instead makes *pesher* a portmanteau of *peh*, mouth, and
+  *yashar*, straight, perhaps alluding to the part spoken mediation plays both
+  in reaching correct interpretations and in reaching compromises.
 
 The root's apparent rabbinic offshoots: *psharah*, compromise, a conflict-resolution in
 which neither side wins outright and each gives something up to reach a happy

@@ -50,14 +50,15 @@ all called *cheilev* because they share *cheilev*'s law, burned on the mizbeach
 and forbidden to eat (see Tosafos there and the standard text of the Mishnah).
 
 The root ches-lamed-beis also gives *chalav*, milk, which appears close to fifty
-times in Tanach by Even Shoshan's concordance. Rabbi Shlomo Pappenheim (*Cheshek
-Shlomo*): *cheilev* is from *chalav* because it accrues in hard globs that are
-typically white, like milk. Rabbi Klein adds an alternative of his own: perhaps *cheilev*
-relates to *chalav* because unskimmed milk itself contains fatty acids,
-milkfats. Rav Hirsch (Bereishis 45:18) joins *cheilev*, *chalav*, and *chalaf*,
-removed from its place or reused for a different purpose: milk is the
-nourishment separated out of the mother's body to sustain another, and *cheilev*
-is the energy the body stores aside for future use rather than present need.
+times in Tanach by Even Shoshan's concordance.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo*): *cheilev* is from *chalav* because
+  it accrues in hard globs that are typically white, like milk.
+- Rabbi Klein adds an alternative of his own: perhaps *cheilev* relates to
+  *chalav* because unskimmed milk itself contains fatty acids, milkfats.
+- Rav Hirsch (Bereishis 45:18) joins *cheilev*, *chalav*, and *chalaf*, removed
+  from its place or reused for a different purpose: milk is the nourishment
+  separated out of the mother's body to sustain another, and *cheilev* is the
+  energy the body stores aside for future use rather than present need.
 
 ### shuman (שומן)
 Not in Tanach at all; it enters with the Mishnah (*Kerisus* 4:1). Rabbi Shlomo
@@ -97,28 +98,30 @@ slaughter would ooze blood unbecomingly on the mizbeach, it was covered with the
 *pader*; the Mainz commentary attributed to Rabbeinu Gershom takes this as the
 internal fats, again equating *pader* with *cheilev*.
 
-Against this, Ramban (Vayikra 1:8): *pader* is not a general word for fat but
-one specific fat, the thin membrane separating the internal organs from one
-another, and the word comes by metathesis from peh-reish-dalet, to separate. Rav
-Hirsch (Vayikra 1:8; Shemos 13:2) builds a family on peh-dalet-reish with
-peh-tes-reish (*peter*, opening) and peh-tav-reish (*pisaron*, the
-interpretation of a dream), the three linked by the interchangeability of tav,
-tes and dalet, and all of them revealing, removing, or separating: *peter
-rechem* (Shemos 13:2, 13:12, 13:13, 13:15, 34:19; Bamidbar 3:12, 18:15;
-Yechezkel 20:26) is the firstborn opening the womb and so revealing the mother's
-potential motherhood actualized; an interpreter separates a dream's true meaning
-from the rest; and *pader* is fat removed from the body for the korban, lying
-over the entrails like a headdress. He also suggests linking peh-dalet-reish to
-beis-tav-reish, cutting or disconnecting, peh and beis being interchangeable as
-dalet and tav are. Rabbi David Chaim Chelouche takes the core as peh-dalet, the
-final reish a radical, equivalent to beis-dalet, alone or apart, peh and beis
-being interchangeable. Rabbi Shaul Goldman speculates that peh-dalet-reish may
-actually be related to peh-zayin-reish, to spread, diffuse or disperse, dalet
-and zayin often being taken as interchangeable in the Semitic languages and
-especially in the shift from Hebrew to Aramaic; and he notes that Onkelos does
-not in fact render *pader* by *tarba* word for word but by *prisusa d'tarba*, a
-spread of fat, which would mean that *pader* implies fat that spreads over and
-covers, not a generic word for fat perfectly synonymous with *cheilev*.
+- Against this, Ramban (Vayikra 1:8): *pader* is not a general word for fat but
+  one specific fat, the thin membrane separating the internal organs from one
+  another, and the word comes by metathesis from peh-reish-dalet, to separate.
+- Rav Hirsch (Vayikra 1:8; Shemos 13:2) builds a family on peh-dalet-reish with
+  peh-tes-reish (*peter*, opening) and peh-tav-reish (*pisaron*, the
+  interpretation of a dream), the three linked by the interchangeability of tav,
+  tes and dalet, and all of them revealing, removing, or separating: *peter
+  rechem* (Shemos 13:2, 13:12, 13:13, 13:15, 34:19; Bamidbar 3:12, 18:15;
+  Yechezkel 20:26) is the firstborn opening the womb and so revealing the
+  mother's potential motherhood actualized; an interpreter separates a dream's
+  true meaning from the rest; and *pader* is fat removed from the body for the
+  korban, lying over the entrails like a headdress. He also suggests linking
+  peh-dalet-reish to beis-tav-reish, cutting or disconnecting, peh and beis
+  being interchangeable as dalet and tav are.
+- Rabbi David Chaim Chelouche takes the core as peh-dalet, the final reish a
+  radical, equivalent to beis-dalet, alone or apart, peh and beis being
+  interchangeable.
+- Rabbi Shaul Goldman speculates that peh-dalet-reish may actually be related to
+  peh-zayin-reish, to spread, diffuse or disperse, dalet and zayin often being
+  taken as interchangeable in the Semitic languages and especially in the shift
+  from Hebrew to Aramaic; and he notes that Onkelos does not in fact render
+  *pader* by *tarba* word for word but by *prisusa d'tarba*, a spread of fat,
+  which would mean that *pader* implies fat that spreads over and covers, not a
+  generic word for fat perfectly synonymous with *cheilev*.
 
 Other grammarians drop the fat sense entirely: Rabbi Saadia Gaon (Vayikra 1:8), Ibn
 Janach (*Sefer HaShorashim*), Ibn Parchon (*Machberes HeAruch*), and Rabbi

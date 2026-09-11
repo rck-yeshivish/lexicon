@@ -97,16 +97,21 @@ of a human court: on the tradition that Iyov was originally an advisor to
 Pharaoh (Sotah 11a), the Yerushalmi (Sotah 5:6) calls him a prominent member of
 Pharaoh's *pamilia*, spelling the word with an extra yod between the mem and the
 lamed.
-On its origin: Rabbi Gedaliah Lipschutz (*Regel Yesharah* to Derech Eretz Zuta
-ch. 4) reads it as a Hebrew abbreviation, *po maliyasa*, "here is great esteem";
-Rabbi Eliezer Herstik objects that he fails to see how this clarifies the word's meaning. Rambam
-(*Moreh Nevuchim* 2:6) says it is the Greek for "camp" (rendered *machaneh* in
-the standard Hebrew, *tzava* in the Kapach edition), and *Sefer HaAruch* defines
-it as a company of soldiers. Rabbi Eliyahu HaBachur (*Sefer Tishbi*) reads it with an initial feh rather than
-peh and a chirik under the mem rather than a patach, and on that reading
-identifies the word with Latin *familia*. Alexander Kohut bolsters the
-connection by noting that the Yerushalmi spells the word with a yod between the
-mem and the lamed. In Rabbi Klein's view this does not conflict with Rambam and the Aruch, since
+On its origin:
+- Rabbi Gedaliah Lipschutz (*Regel Yesharah* to Derech Eretz Zuta ch. 4) reads
+  it as a Hebrew abbreviation, *po maliyasa*, "here is great esteem"; Rabbi
+  Eliezer Herstik objects that he fails to see how this clarifies the word's
+  meaning.
+- Rambam (*Moreh Nevuchim* 2:6) says it is the Greek for "camp" (rendered
+  *machaneh* in the standard Hebrew, *tzava* in the Kapach edition), and *Sefer
+  HaAruch* defines it as a company of soldiers.
+- Rabbi Eliyahu HaBachur (*Sefer Tishbi*) reads it with an initial feh rather
+  than peh and a chirik under the mem rather than a patach, and on that reading
+  identifies the word with Latin *familia*. Alexander Kohut bolsters the
+  connection by noting that the Yerushalmi spells the word with a yod between
+  the mem and the lamed.
+
+In Rabbi Klein's view this does not conflict with Rambam and the Aruch, since
 "camp" and "body of troops" fall within the semantic range of Latin *familia*.
 
 ### the English comparison
