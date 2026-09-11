@@ -65,7 +65,7 @@ words cross the line.
    Jewish handmaid is called *amah* because she is not yet mistress of the
    house, and the fear (*aimah*) of the real mistress is upon her.
 
-The Bottom line follows Bedersi and Pappenheim together, since they agree that
+Bedersi and Pappenheim agree that
 *amah* is the higher station and differ only on which duties define it; Hagar's
 usage is Bedersi's own proof. Reines is the outlier, on a different root.
 
@@ -80,7 +80,7 @@ root refers specifically to an extra appendage attached to something else,
 whence *sapachas*, a type of tzaraas (Vayikra 13:2), and *sapach*, an appendix;
 a *mishpachah* is the patriarch's children as secondary attachments ascribed to
 him, and a *shifchah* an adjunct attached to the otherwise complete faculty of a
-household. Nothing in translation turns on the choice.
+household.
 
 **Whether the Jewish/non-Jewish split is in the words themselves.** Some argue
 *shifchah* inherently means a non-Jewish slave woman and *amah* a Jewish one.
@@ -138,11 +138,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Handmaid's Deal](https://articles.ohr.edu/articles/the-handmaids-deal)," What's in a Word?, Ohr
-Somayach, 27 Shevat 5779 (2019-02-02):
-https://articles.ohr.edu/articles/the-handmaids-deal; raw text in
-`sources/whats-in-a-word/raw/8120-the-handmaids-deal.md`. Primary loci cited:
-Bereishis 16, 20:17, 21, 25:12, 32:23, 33:2, 33:6; Shemos 21:4, 21:8-9; Vayikra
-13:2, 25:44; Shmuel I 25; Kesuvos 59b; *Moshav Zekeinim* to Shemos 21:4; Rabbi
-Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Eliezer Reines, *Maftechos
-HaDamesek* (Warsaw 1898).
+Rabbi Reuven Chaim Klein, "[The Handmaid's Deal](https://articles.ohr.edu/articles/the-handmaids-deal)," *What's in a Word?*, Ohr Somayach, 2 February 2019.
+
+Cited in the essay: Bereishis 16, 20:17, 21, 25:12, 32:23, 33:2, 33:6; Shemos 21:4, 21:8-9; Vayikra 13:2, 25:44; Shmuel I 25; Kesuvos 59b; *Moshav Zekeinim* to Shemos 21:4; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Eliezer Reines, *Maftechos HaDamesek* (Warsaw 1898).

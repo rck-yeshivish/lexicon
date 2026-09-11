@@ -22,11 +22,8 @@ rarity and from the impact a thing makes (Rabbi Pappenheim; Malbim). In
 Megillas Esther the noun *yikar* is "esteem" or "honor". The authorities split
 on which of the two is inherent: Malbim gives that to *kavod*, Rabbi Avraham
 Vilner to *yakar*, and the column, having laid both out, says we are back to
-square one; it settles nothing. Our own working default, not the article's, is
-Malbim, since it agrees with *yakar* meaning "rare" elsewhere, but the split
-stands. Read *yakar* by context: "rare" (Shmuel I 3:1), "costly" (Tehillim
-116:15), "dear" (Yirmiyahu 31:19). Trap: "honor" for both when they sit in one
-passage.
+square one; it settles nothing. *Yakar* means "rare" (Shmuel I 3:1), "costly"
+(Tehillim 116:15) or "dear" (Yirmiyahu 31:19), by context.
 
 ## Distinctions
 
@@ -119,7 +116,7 @@ Porat was really named Yosef, for *ben poras Yosef* (Bereishis 49:22).
 - In a Targum, Aramaic *yekara* simply is *kavod*: render "honor" or "glory".
 - Trap: "honor" absorbs both. When *kavod* and *yakar* appear together, hold
   "honor" for *kavod* and "esteem" or "preciousness" for *yakar*; Malbim's
-  inherent (*kavod*) against rare (*yakar*) is our working gloss for a passage
+  inherent (*kavod*) against rare (*yakar*) is a working gloss for a passage
   that turns on the difference, but Rabbi Avraham Vilner reads it the other way
   and the column itself leaves the question open.
 - Second trap: "precious" as a term of endearment is *yakar* only; do not use it
@@ -131,21 +128,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Ki Sisa/Purim: Heavy Honors](https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors)," What's in a Word?, Ohr
-Somayach, 15 Adar 5785 (2025-03-15): raw text in
-`sources/whats-in-a-word/raw/11724-ki-sisapurim-heavy-honors.md`. Primary loci
-the article cites: Esther 1:4, 1:20, 6:3, 6:6, 8:16; Rabbi Eliyahu Bachur, *Sefer
-HaTishbi* s.v. יקר and *Meturgeman* on Targum to Shemos 4:10, 7:14, 20:11,
-Shmuel I 2:29, Shmuel II 14:26, Yeshayahu 43:23; *Aholei Yehudah* on the liver
-with Berachos 60b; Rabbi Pappenheim, *Yerios Shlomo* introduction, with Yechezkel 27:22, Shmuel I 3:1, Tehillim 116:15; Malbim,
-*Sefer HaCarmel* and *Yair Ohr*; *Be'er Avraham* to Esther 1:4; Megillah 9a and
-Sanhedrin 38b with Tehillim 139:17, Yad Ramah to Sanhedrin 38b, Maharsha to Bava
-Basra 75b, Aruch L'Ner to Sanhedrin 38b, and Rabbi Uziel's glosses; *Beis
-Efrayim* OC 70; Sfas Emes to Megillah 9a, Maharatz Chajes to Megillah 9a and Sanhedrin 38b;
-*Raglei Mevasser* to *Sefer HaTishbi*; *Safah LaNe'emanim* pp. 34-35; *Beis
-Shaul* and *Miskenos Naftali* to Yadayim 4:5; Yirmiyahu 31:19; *Tosafos* to
-Eruvin 40b, Avodah Zarah 68a, Chullin 47a; Bereishis 25:27, 49:22. The article's
-remark that Yakar/Yakir was a byname for Efrayim it gives as the argument of
-unnamed scholars, qualified by Rabbi Dr. Ephraim Kanarfogel's private
-correspondence to the author that it does not hold across the board; both are
-carried here as the article carries them.
+Rabbi Reuven Chaim Klein, "[Ki Sisa/Purim: Heavy Honors](https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors)," *What's in a Word?*, Ohr Somayach, 15 March 2025.
+
+Cited in the essay: Esther 1:4, 1:20, 6:3, 6:6, 8:16; Rabbi Eliyahu Bachur, *Sefer HaTishbi* s.v. יקר and *Meturgeman* on Targum to Shemos 4:10, 7:14, 20:11, Shmuel I 2:29, Shmuel II 14:26, Yeshayahu 43:23; *Aholei Yehudah* on the liver with Berachos 60b; Rabbi Pappenheim, *Yerios Shlomo* introduction, with Yechezkel 27:22, Shmuel I 3:1, Tehillim 116:15; Malbim, *Sefer HaCarmel* and *Yair Ohr*; *Be'er Avraham* to Esther 1:4; Megillah 9a and Sanhedrin 38b with Tehillim 139:17, Yad Ramah to Sanhedrin 38b, Maharsha to Bava Basra 75b, Aruch L'Ner to Sanhedrin 38b, and Rabbi Uziel's glosses; *Beis Efrayim* OC 70; Sfas Emes to Megillah 9a, Maharatz Chajes to Megillah 9a and Sanhedrin 38b; *Raglei Mevasser* to *Sefer HaTishbi*; *Safah LaNe'emanim* pp. 34-35; *Beis Shaul* and *Miskenos Naftali* to Yadayim 4:5; Yirmiyahu 31:19; *Tosafos* to Eruvin 40b, Avodah Zarah 68a, Chullin 47a; Bereishis 25:27, 49:22.

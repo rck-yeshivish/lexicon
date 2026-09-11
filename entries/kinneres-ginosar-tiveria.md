@@ -36,8 +36,7 @@ One lake, three names, each taken from whichever city on its shore was most
 prominent at the time: **Kinneret** in Tanach, **Ginosar** in the Targumim and
 in the works of that era, Josephus included, and **Yamah shel Tiveria**, the Sea
 of Tiberias, in the Gemara. It seems, the column says, that the lake has no
-name of its own at all. Render each name as the source gives it and do not
-harmonize them into "the Sea of Galilee," which is a later regional label and
+name of its own at all. "The Sea of Galilee" is a later regional label and
 not the term any of these sources uses.
 
 ## At a glance
@@ -55,20 +54,18 @@ not the term any of these sources uses.
 and fix its location by the nearest body of water, so a *get* written in Tiveria
 must name this lake. Which of its three names is the correct one was disputed at
 length between Rabbi Yosef Karo and Rabbi Moshe ben Yosef of Trani, who sat
-together on the beis din of Tzefas. The article records the dispute without
-setting out either position, so no ruling is reported here; anyone needing the
-practical answer must go to their responsa rather than rely on this entry.
+together on the beis din of Tzefas. The column records the dispute without
+setting out either position.
 
 **Where the name Kinneres comes from.** A popular account says the lake is called
 *Kinneres* because its pear shape resembles a *kinnor*, a musical instrument.
-The article states flatly that there is no real source for this. The Gemara
+The column states flatly that there is no real source for this. The Gemara
 (*Megillah* 6a), which identifies the Biblical Kinneres with Ginosar, derives the
 name differently and applies it to the city, not the lake: its fruits are as
 sweet as the sound of a *kinnor*. Rabbi Nosson of Rome (*Sefer HeAruch*) defines
 *kinnor* either as a kind of berry, which the column notes Jastrow identifies as
 a thorn jujube (compare Rashi to *Bava Basra* 48b), or as a musical instrument, a
-harp or lyre, so the derashah may be about the fruit twice over. The Bottom line
-follows the Gemara and treats the harp-shape story as folklore.
+harp or lyre, so the derashah may be about the fruit twice over.
 
 **Whether Tiveria is a Biblical city.** The column sets two accounts against each
 other. Josephus (*Antiquities of the Jews* XVIII:8) has Herod, the Herodian
@@ -133,7 +130,7 @@ the word also names a berry.
 
 - Use the name the source uses: "Kinneres" in a pasuk, "Ginosar" in a Targum,
   "the Sea of Tiveria" in a sugya. Substituting one for another silently erases
-  the chronology, which is the article's whole point.
+  the chronology, which is the column's whole point.
 - Trap: English "Sea of Galilee" absorbs all three, and it renders none of them.
   The column traces the phrase to the Christian Bible, which occasionally calls
   the lake the Sea of Tiberias but more often the Sea of Galilee, and which is
@@ -156,15 +153,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The Shining Sea of Galilee](https://articles.ohr.edu/articles/the-shining-sea-of-galilee)," What's in a Word?, Ohr
-Somayach, 2 Av 5779 (2019-08-03): raw text in
-`sources/whats-in-a-word/raw/8351-the-shining-sea-of-galilee.md`. Primary loci
-the article cites: Bamidbar 34:11; Devarim 3:17; Yehoshua 12:3, 13:27, 19:35;
-*Megillah* 5b-6a; *Berachos* 44a; *Shabbos* 87a-87b; *Moed Katan* 18b; *Bava
-Kamma* 81a-81b; *Bava Basra* 74 and 48b; *Bechoros* 55a; Yerushalmi *Shekalim*
-6:2 and *Bava Basra* 5:1; *Bereishis Rabbah* 98:17; *Sefer HeAruch* s.v. kinnor;
-Josephus, *War of the Jews* III:10 and *Antiquities of the Jews* XVIII:8;
-Jastrow on the berry; the Ugaritic god-list from Ras Shamra with the deity
-Kinnaru, and the late Dr. Dov Ginzberg of the Geological Survey of Israel on it.
-The article's responsa reference for the *get* dispute is given by name only,
-without a siman, so none is supplied here.
+Rabbi Reuven Chaim Klein, "[The Shining Sea of Galilee](https://articles.ohr.edu/articles/the-shining-sea-of-galilee)," *What's in a Word?*, Ohr Somayach, 3 August 2019.
+
+Cited in the essay: Bamidbar 34:11; Devarim 3:17; Yehoshua 12:3, 13:27, 19:35; *Megillah* 5b-6a with Tosafos; *Berachos* 44a; *Shabbos* 87a-87b; *Moed Katan* 18b; *Bava Kamma* 81a-81b; *Bava Basra* 74; Rashi to *Bava Basra* 48b; *Bechoros* 55a; Yerushalmi *Shekalim* 6:2 and *Bava Basra* 5:1; *Bereishis Rabbah* 98:17; *Sefer HeAruch* s.v. kinnor; Josephus, *War of the Jews* III:10 and *Antiquities of the Jews* XVIII:8; Jastrow on the berry; the responsa of Rabbi Yosef Karo and of Rabbi Moshe ben Yosef of Trani on the *get*; the Ugaritic god-list from Ras Shamra with the deity Kinnaru, and the late Dr. Dov Ginzberg of the Geological Survey of Israel on it.

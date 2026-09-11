@@ -22,9 +22,8 @@ updated: 2026-09-10
 while travelling; the word is built on *orach*, a road. *Achsanai* is the
 rabbinic **guest**, and *achsanyah* the **lodging** or the **host** who
 provides it. *Ushpiz* is Aramaic and cuts both ways: in the Gemara usually the
-**host**, in the Zohar (the *Ushpizin* of Sukkos) the **guest**. The trap is
-exactly that ambiguity: never decide *ushpiz* or *achsanyah* from the word
-alone, decide it from the sentence, and check Rashi on the spot.
+**host**, in the Zohar (the *Ushpizin* of Sukkos) the **guest**. *Achsanyah*
+shares that ambiguity: both words point now to the guest and now to the host.
 
 ## Distinctions
 
@@ -152,16 +151,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Be My Guest](https://articles.ohr.edu/articles/be-my-guest)," What's in a Word?, Ohr Somayach,
-18 Cheshvan 5783 (2022-11-12): raw text in
-`sources/whats-in-a-word/raw/10698-be-my-guest.md`. Primary loci cited: Shoftim
-19:17, Shmuel II 12:4, Yirmiyahu 9:1 and 14:8; Bereishis 37:25; Radak and Ibn
-Janach, *Sefer HaShorashim* s.v. ארח; Ibn Saruk, *Machberes*; Rabbi Shlomo
-Pappenheim on biliteral ר-ח; Zohar *Emor* 103b; Bava Metzia 24a with Rashi and
-Rabbeinu Chananel; Shabbos 140b; Eruvin 53b with Rashi and Tosafos; Beitzah 4a;
-Taanis 24b with *Dikdukei Sofrim*; Daniel 1:3; Mishnah *Demai* 3:1 and *Chullin*
-8:2; Targum to Iyov 31:32; Arachin 16b with Rashi to Bereishis 13:3; Berachos
-63b with Rashi; Rashi to Bamidbar 20:17, *Bamidbar Rabbah* 19:15, *Midrash
-Tanchuma, Chukas* 12; *Sefer HaTishbi* and *Meturgaman*; Rabbi Dr. Alexander
-Kohut, Rabbi Shmuel Krauss, and Ludwig Koehler and Walter Baumgartner's lexicon
-of biblical Hebrew and Aramaic on Ashpenaz.
+Rabbi Reuven Chaim Klein, "[Be My Guest](https://articles.ohr.edu/articles/be-my-guest)," *What's in a Word?*, Ohr Somayach, 12 November 2022.
+
+Cited in the essay: Shoftim 19:17, Shmuel II 12:4, Yirmiyahu 9:1 and 14:8; Bereishis 37:25; Yeshayahu 21:13; Yirmiyahu 40:3, 52:34; Mishlei 15:17; Melachim II 25:30; Radak and Ibn Janach, *Sefer HaShorashim* s.v. ארח; Ibn Saruk, *Machberes*; Rabbi Shlomo Pappenheim on biliteral ר-ח; Zohar *Emor* 103b; Bava Metzia 24a with Rashi and Rabbeinu Chananel; Shabbos 140b; Eruvin 53b with Rashi and Tosafos; Beitzah 4a; Taanis 24b with *Dikdukei Sofrim*; Daniel 1:3; Mishnah *Demai* 3:1 and *Chullin* 8:2; Targum to Iyov 31:32; Arachin 16b with Rashi to Bereishis 13:3; Berachos 63b with Rashi; Rashi to Bamidbar 20:17, *Bamidbar Rabbah* 19:15, *Midrash Tanchuma, Chukas* 12; *Sefer HaTishbi* and *Meturgaman*; Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, and Ludwig Koehler and Walter Baumgartner's lexicon of biblical Hebrew and Aramaic on Ashpenaz.

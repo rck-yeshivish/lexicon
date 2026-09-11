@@ -37,8 +37,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-One city, two vocalizations, and three descriptive names. Render the place **Jericho** (or
-**Yericho**) throughout; what a translator must not do is flatten the vowels, since every
+One city, two vocalizations, and three descriptive names. Every
 explanation offered turns on which form a given sefer uses. *Yericho* (with a yod between
 the reish and the ches) is the form of Yehoshua and Shmuel II; *Yereicho* (without it) the
 form of Chumash and of most of the later sefarim. Which vowel carries which sense is not
@@ -68,7 +67,7 @@ blessing of strong fragrance it was renamed *Yericho*. Rabbi David Luria offers 
 explanation: the pagan Canaanites were evidently moon-worshippers, and because of the
 name's idolatrous associations the Jews changed it to *Yericho*, for the sweet-smelling
 balsam they found there. (The column notes that archaeologists have found evidence of an
-ancient Canaanite moon-god named Yarikh.) Both face the objection the article states
+ancient Canaanite moon-god named Yarikh.) Both face the objection the column states
 plainly: Yirmiyahu, Ezra-Nechemiah, Divrei HaYamim and part of Melachim all post-date the
 conquest and still write *Yereicho*.
 
@@ -79,10 +78,8 @@ four-letter Name opens with a yod, hinting at the great miracle of the conquest 
 city's consecration; but he concludes that the difference is more practical, that the city
 proper bore one name and the surrounding country, where the balsam and date trees grew,
 the other, and he works through every occurrence in Tanach to show it. Rabbi Shimon Schwab
-(*Maayan Beis HaShoeivah*) reached the same conclusion independently. The article's account
-of Weil is internally tangled: it pairs the yod-form with *Yericho*, then calls the yod
-"the additional YOD in *Yereicho*," and attaches *reyach* to *Yereicho* against the rule it
-had just quoted from the Oraysa editor. That rule, which the editor offers as something by
+(*Maayan Beis HaShoeivah*) reached the same conclusion independently. The Oraysa editor's
+rule, which he offers as something by
 which "perhaps" the variants can be accounted for, is: yod present, *reyach*; yod absent,
 *yareyach*.
 
@@ -158,7 +155,7 @@ fast-growing tree duly replaces them.
   "Jericho" everywhere makes Rabbi Weil's whole proof invisible.
 - *Ir HaTmarim* at Shoftim 1:16: render **the City of Dates** and gloss "(that is,
   Jericho)" on the authority of Targum and Rashi, rather than substituting the name.
-- *Reyach* is **scent**, never "smell" in a sefer; *yareyach* is **the moon**; *tamar* is a
+- *Reyach* is **scent**, never "smell"; *yareyach* is **the moon**; *tamar* is a
   **date palm**, and *timros* are **columns**, not palms.
 
 ## Notes for a project
@@ -167,18 +164,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Matot: The Names of Jericho](https://articles.ohr.edu/articles/matot-the-names-of-jericho)," What's in a Word?, Ohr Somayach,
-24 Tammuz 5782 (2022-07-23): raw text in
-`sources/whats-in-a-word/raw/9795-matot-the-names-of-jericho.md`. Primary loci cited:
-Bamidbar 22:1, 26:3, 26:63, 31:12, 33:48, 33:50, 34:15, 35:1, 36:13; Devarim 32:49, 34:1,
-34:3; Shoftim 1:16; Shmuel II 10:5; Melachim I 16:34; Melachim II 2:4-5, 2:15, 2:18, 20:13,
-25:5; Yeshayahu 39:2; Yirmiyahu 39:5, 52:8; Yechezkel 27:17, 47:19; Yoel 3:3; Shir HaShirim
-3:6; Ezra 2:34; Nechemiah 3:2, 7:36; Divrei HaYamim I 6:63, 19:5; Divrei HaYamim II 28:15;
-Berachos 43a; Mishnah Tamid 3:8 and Yevamos 16:7 with *Hagahos HaRashash*; Targum
-Yerushalmi to Devarim 34:3; Josephus, *Antiquities of the Jews* IV:6 and XIV:4 and *War of
-the Jews* I:6 and I:18; *Yossiphon* (the 1999 Oraysa edition, whose anonymous editor
-supplies the yod rule); *Peirush HaRokeach*; Rabbi Shimon Schwab, *Maayan Beis HaShoeivah*.
-The article gives Bamidbar 33:48 and 33:50 separately, and 33:49 does not name the city; an
-earlier draft of this entry ran them together as 33:48-50 and dropped 26:63. The `words:`
-block still carries the Oraysa editor's alignment as though it were the settled reading of
-*Yossiphon* and Rashi; the body above states the machlokes instead.
+Rabbi Reuven Chaim Klein, "[Matot: The Names of Jericho](https://articles.ohr.edu/articles/matot-the-names-of-jericho)," *What's in a Word?*, Ohr Somayach, 23 July 2022.
+
+Cited in the essay: Bamidbar 22:1, 26:3, 26:63, 31:12, 33:48, 33:50, 34:15, 35:1, 36:13; Devarim 32:49, 34:1, 34:3; Shoftim 1:16; Shmuel II 10:5; Melachim I 16:34; Melachim II 2:4-5, 2:15, 2:18, 20:13, 25:5; Yeshayahu 39:2; Yirmiyahu 39:5, 52:8; Yechezkel 27:17, 47:19; Yoel 3:3; Shir HaShirim 3:6; Ezra 2:34; Nechemiah 3:2, 7:36; Divrei HaYamim I 6:63, 19:5; Divrei HaYamim II 28:15; Berachos 43a; Mishnah Tamid 3:8 and Yevamos 16:7 with *Hagahos HaRashash*; Targum Yerushalmi to Devarim 34:3; Josephus, *Antiquities of the Jews* IV:6 and XIV:4 and *War of the Jews* I:6 and I:18; *Yossiphon* (the 1999 Oraysa edition); *Peirush HaRokeach*; Rabbi Shimon Schwab, *Maayan Beis HaShoeivah*.

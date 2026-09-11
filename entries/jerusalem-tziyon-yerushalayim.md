@@ -39,8 +39,7 @@ David**, a separate walled city that only later came inside the walls of
 **Yerushalayim**; the nechamah formula says "the mourners of Tziyon and
 Yerushalayim" because they are two. Where *tziyon* stands for the Beis
 HaMikdash or for Klal Yisrael, it is the common noun *tziyun*, "outstanding",
-not the place. Render each by its own name and never write one for the other;
-where the Hebrew uses *Tziyon* for the whole city, some sources call it a
+not the place. Where the Hebrew uses *Tziyon* for the whole city, some sources call it a
 synonym, though the column suggests that synecdoche, the part naming the whole,
 may be the more accurate term.
 
@@ -64,8 +63,7 @@ Michel Tukachinsky disagrees with some of this: *Tziyon* in Tanach is not always
 an adjoining city but at times a neighborhood inside Yerushalayim. The Zohar
 (*Idra Zuta* 296b) says the two are two spiritual levels, one the aspect of
 *rachamim* and the other the aspect of *din*, which the column takes as
-suggesting that both names denote one physical place. The Bottom line follows
-the first group, which has the pasuk.
+suggesting that both names denote one physical place.
 
 **Where Har Tziyon is.** Tehillim 48:3 places it *yarkesei tzafon*, in the
 north.
@@ -88,8 +86,7 @@ north.
 
 The column's own comment is that none of the first three sources agree with what
 we today call Har Tziyon, which is southwest of the Old City, and that the
-Midrash makes this very point. Translate *yarkesei tzafon* literally and put the
-machlokes in a note.
+Midrash makes this very point.
 
 **How wide "the mountain of Tziyon" is.** HaParchi, a prominent rabbinic
 topographer, concedes that "mountains of Tziyon" or "mountain of Tziyon" can
@@ -149,8 +146,6 @@ something singled out and outstanding.
   city, and the Temple in successive lines makes all three sound like one
   referent. Follow Tukachinsky and distinguish: the place, the Mikdash, and
   Klal Yisrael.
-- In a frum text, *Tziyon* and *Yerushalayim* are preferable to "Zion" and
-  "Jerusalem", which carry a translated, outside register.
 
 ## Notes for a project
 
@@ -158,15 +153,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Twin Cities: Zion and Jerusalem](https://articles.ohr.edu/articles/twin-cities-zion-and-jerusalem)," What's in a Word?,
-Ohr Somayach, 16 Av 5778 (2018-07-28): raw text in
-`sources/whats-in-a-word/raw/7874-twin-cities-zion-and-jerusalem.md`. Primary
-loci cited: Melachim I 8:1 and Divrei HaYamim II 5:2; Shmuel II 8:7 with Rashi;
-Rashi to Sotah 5a and Yoma 77b; Vilna Gaon to Yeshayahu 1:9; Tehillim 48:3 with
-Ibn Ezra, Radak, and Rashi citing Dunash ibn Labrat; *Midrash Socher Tov* and
-Rabbi Yosef Tuv-Elem, *Tzafnas Panei'ach*, to Vayikra 1:11; Yirmiyahu 31:5;
-Tehillim 132:14, 2:6, 133:1 with Targum; Yoel 4:18; Yeshayahu 51:3; *Shekalim*
-8:1; *Zohar*, *Idra Zuta* 296b. The article closes by saying that much of its
-information was culled from *Har HaKodesh* by the late Rabbi Moshe Nachum
-Shapiro and *Ir HaKodesh VeHaMikdash* by Rabbi Yechiel Michel Tukachinsky; that
-is the whole of what it attributes to the former.
+Rabbi Reuven Chaim Klein, "[Twin Cities: Zion and Jerusalem](https://articles.ohr.edu/articles/twin-cities-zion-and-jerusalem)," *What's in a Word?*, Ohr Somayach, 28 July 2018.
+
+Cited in the essay: Melachim I 8:1 and Divrei HaYamim II 5:2; Shmuel II 8:7 with Rashi; Rashi to Sotah 5a and Yoma 77b; Vilna Gaon to Yeshayahu 1:9; Tehillim 48:3 with Ibn Ezra, Radak, and Rashi citing Dunash ibn Labrat; *Midrash Socher Tov* and Rabbi Yosef Tuv-Elem, *Tzafnas Panei'ach*, to Vayikra 1:11; Yirmiyahu 31:5; Tehillim 132:14, 2:6, 133:1 with Targum; Yoel 4:18; Yeshayahu 51:3; *Shekalim* 8:1; *Zohar*, *Idra Zuta* 296b; Rabbi Ashtori HaParchi, the Radbaz and Rabbi Elazar Azkiri; *Har HaKodesh* by Rabbi Moshe Nachum Shapiro; *Ir HaKodesh VeHaMikdash* by Rabbi Yechiel Michel Tukachinsky.

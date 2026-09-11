@@ -45,8 +45,7 @@ directional, **hither**, a step arrived at rather than a place stood in (Rav
 Hirsch, as Dr. Lawrence Resnick sums him up), and Chazal read it as marking a
 place of royal weight (Zevachim 102a). *Heinah* is **here** as a destination
 reached from elsewhere, and alone among them also **until now** (Bedersi). *Zeh*
-for place is the loose one, a general area; *koh* is **thereabouts**. English
-"here" flattens all five.
+for place is the loose one, a general area; *koh* is **thereabouts**.
 
 ## At a glance
 
@@ -81,7 +80,7 @@ finally "here." The column quotes Dr. Lawrence Resnick's summary of Rav Hirsch:
 to here. And the column reports, on Rabbi Eliezer Cohn's observation, that Rav
 Hirsch is in fact following his great-uncle Rabbi Yehuda Leib Shapira-Frankfurter
 (*HaRechasim LeVikah* to Bereishis 16:13), who had already written that *halom*
-always means "to here." The Bottom line keeps both.
+always means "to here."
 
 **The roots.** *Poh* is spelled peh-hei usually, peh-vav twenty times in
 Yechezkel 41-42, peh-aleph once (Iyov 38:11), so Ibn Janach and Rabbi Shlomo Ibn
@@ -157,16 +156,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shemot: Here We Go](https://articles.ohr.edu/articles/shemot-here-we-go)," What's in a Word?, Ohr Somayach,
-18 Teves 5785 (2025-01-18): https://articles.ohr.edu/articles/shemot-here-we-go;
-raw text in `sources/whats-in-a-word/raw/11665-shemot-here-we-go.md`. Primary
-loci: Shemos 3:5; Zevachim 102a with Maharsha; *Bereishis Rabbah* 45:1; *HaKtav
-VeHaKabbalah* and *HaRechasim LeVikah* to Bereishis 16:13; Rabbi Shlomo
-Pappenheim, *Cheshek Shlomo*; Bedersi, *Chosam Tochnis*. David's prayer is Shmuel
-II 7:18 (the article prints I Sam. 7:18); the article also gives Bereishis 15:6
-for Targum's *hacha* rendering *heinah*, where the pasuk carrying *heinah* is
-15:16. Luzzatto's readings are those Malbim cites in *Yair Ohr*. The article
-credits Rabbi Eliezer Cohn with the observation that Rav Hirsch follows
-Shapira-Frankfurter, and quotes Dr. Lawrence Resnick's summary of Rav Hirsch on
-*halom*; both are named here as the article names them. Rabbi Grayever's reading
-the article states only in brief, saying it needs a full article of its own.
+Rabbi Reuven Chaim Klein, "[Shemot: Here We Go](https://articles.ohr.edu/articles/shemot-here-we-go)," *What's in a Word?*, Ohr Somayach, 18 January 2025.
+
+Cited in the essay: Bereishis 6:2, 15:16, 16:13, 19:12, 21:29, 22:5, 31:37, 38:21-22, 44:28, 45:5, 45:13; Shemos 3:5; Bamidbar 11:31, 13:17, 22:8, 22:19, 23:15; Devarim 5:27, 29:14; Yehoshua 2:2, 3:9; Shoftim 16:2, 18:3; Shmuel I 14:34; Shmuel II 5:6, 7:18, 17:28, 18:30; Melachim II 2:14, 8:7; Yirmiyahu 50:5; Yechezkel 40:4, 41-42; Iyov 38:11; Rus 4:1; Divrei HaYamim I 11:5; Zevachim 102a with Maharsha; Bava Metzia 4a; *Bereishis Rabbah* 45:1; *HaKtav VeHaKabbalah*, *HaRechasim LeVikah* and Rav Hirsch to Bereishis 16:13; Rabbi Shmuel David Luzzatto, as Malbim cites him in *Yair Ohr*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Bedersi, *Chosam Tochnis*.

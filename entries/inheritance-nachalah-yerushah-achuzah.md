@@ -22,10 +22,7 @@ passes out of one man's *reshus* into another's, with no assumption that it was
 willingly given or that anyone else shares in it. *Achuzah* is the **holding**,
 inherited property the heir has actually taken hold of. The column gives
 several competing approaches to the first two, and they do not reduce to one
-another; the summary above is the working shape they share. The trap: English
-"inheritance" absorbs the first two, so where a passage turns on the difference,
-render *nachalah* "patrimony" or "ancestral portion" and reserve plain
-"inheritance" for *yerushah*.
+another.
 
 ## Distinctions
 
@@ -98,12 +95,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[A Heritage of Inheritance](https://articles.ohr.edu/articles/a-heritage-of-inheritance)," What's in a Word?, Ohr
-Somayach, 24 Tammuz 5778 (2018-07-07),
-https://articles.ohr.edu/articles/a-heritage-of-inheritance; raw text in
-`sources/whats-in-a-word/raw/7839-a-heritage-of-inheritance.md`. Primary loci
-the article cites: Bamidbar 27:1-11 (the laws of inheritance, where both words
-appear); Devarim 21:16 (the firstborn's double portion); Devarim 32:8 (the
-nations' portions); Bereishis 15:3 (Avraham's steward as *yoresh*). The
-article's Latin etymology of English "inherit" is carried in the *yerushah*
-section, as the article gives it.
+Rabbi Reuven Chaim Klein, "[A Heritage of Inheritance](https://articles.ohr.edu/articles/a-heritage-of-inheritance)," *What's in a Word?*, Ohr Somayach, 7 July 2018.
+
+Cited in the essay: Bamidbar 27:1-11; Devarim 21:16, 32:8; Bereishis 15:3; Malbim; Shadal; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Rav Hirsch.

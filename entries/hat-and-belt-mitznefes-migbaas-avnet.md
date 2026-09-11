@@ -22,7 +22,7 @@ belts, *avnet* is the **sash** of the priestly service, *chagor* the general
 **belt** for anything that goes around the body, and *eizor* the **girdle** at
 the waist, worn by strong men. Rashi and Ramban maintain that *migbaas* and
 *mitznefes* were the same type of hat and are indeed synonyms; the other sources
-in the article distinguish them, and taking them as two is the safer default.
+in the column distinguish them.
 
 ## Distinctions
 
@@ -62,8 +62,8 @@ on the honor that wearing it brings, in line with *Tosafos HaRosh* on *tznif*.
 Root כ-ב-ע. The everyday word for a hat in Modern Hebrew, but in *Tanach* it
 appears six times and always as part of a warrior's kit (Shmuel I 17:5,
 Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II
-26:14), so that it possibly should not be rendered "hat" at all but "hard hat"
-or even "helmet."
+26:14), so that it is possibly not a "hat" at all but a "hard hat" or even a
+"helmet."
 
 ### avnet (אבנט)
 Malbim: a belt worn for ritual purposes, which is why it is the belt of the
@@ -106,10 +106,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Hats and Belts](https://articles.ohr.edu/articles/hats-and-belts)," What's in a Word?, Ohr Somayach,
-25 March 2017 / 27 Adar II 5777: raw text in
-`sources/whats-in-a-word/raw/7195-hats-and-belts.md`. Primary loci: Mishnah Yoma
-7:5; Yoma 71b with *Tosafos HaRosh*; Shemos 28:4, 28:40; Shmuel I 17:5,
-Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II
-26:14 for *kova*; Josephus on the shape of the priestly cap, as the article
-cites him.
+Rabbi Reuven Chaim Klein, "[Hats and Belts](https://articles.ohr.edu/articles/hats-and-belts)," *What's in a Word?*, Ohr Somayach, 25 March 2017.
+
+Cited in the essay: Mishnah Yoma 7:5; Yoma 71b with *Tosafos HaRosh*; Shemos 28:4, 28:40; Shmuel I 17:5, Yeshayahu 59:17, Yirmiyahu 46:4, Yechezkel 27:10 and 38:5, Divrei HaYamim II 26:14 for *kova*; the Meiri, the Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban and Malbim; Josephus on the shape of the priestly cap.

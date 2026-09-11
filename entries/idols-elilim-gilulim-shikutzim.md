@@ -30,7 +30,7 @@ things), *gilulim* **dung-idols**, *shikutzim* **abominations**, *terafim*
 grieve their worshippers. *Chamanim* are named from *chamah*, the sun, because
 they are left standing outside in it. *Asherim* are the idols that get their
 **validation** only from others, or, on the Raavad's reading, that must be
-propped back up by others. The one thing not to get wrong: unlike the ten Names
+propped back up by others. Unlike the ten Names
 of Hashem, which name one Being, these ten name different things and different
 reproaches.
 
@@ -40,7 +40,7 @@ reproaches.
 ten words for idolatry. Malbim: the correspondence is deliberate, since Hashem
 set the forces of good and of evil in balance so that a person's choice would be
 genuinely free, which is the ground of all reward and punishment. Maharitatz
-(Rabbi Yom Tov Tzahalon) enters the caution that matters for translation: the
+(Rabbi Yom Tov Tzahalon) cautions that the
 ten Names all name One, but the ten words for idolatry name ten different sorts
 of idol worship and are not contextually interchangeable, even though Chazal saw
 in all of them a reproach to idolatry as such.
@@ -73,7 +73,7 @@ From *nitzav*, standing: the single-stone altar, and by extension the idol that
 must stand where it is put and cannot move of itself.
 
 ### atzabim (עצבים)
-Given in the article as literally "bones," idols being assembled from many parts
+Given in the column as literally "bones," idols being assembled from many parts
 as a body is from bones, where Hashem is not composed of parts at all. Malbim
 reads it from *atzuv*, grieved: they sadden those who serve them, because they
 never deliver what was expected.
@@ -138,11 +138,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Top Ten Words for Idols](https://articles.ohr.edu/articles/top-ten-words-for-idols)," What's in a Word?, Ohr
-Somayach, 23 Adar II 5779 (2019-03-30):
-https://articles.ohr.edu/articles/top-ten-words-for-idols; raw text in
-`sources/whats-in-a-word/raw/8198-top-ten-words-for-idols.md`. Primary loci
-cited: *Avos d'Rabbi Nosson* ch. 34; Vayikra 19:4; Yirmiyahu 14:14; Zechariah
-11:17; Iyov 13:4; Shabbos 149a with Rabbeinu Nissim and Ritva; Rabbeinu Shimshon
-of Shantz and *Pirush HaRaavad* to *Toras Kohanim*; *She'iltos d'Rav Achai
-Gaon*; Malbim; Rabbi Shlomo Pappenheim; Maharitatz.
+Rabbi Reuven Chaim Klein, "[Top Ten Words for Idols](https://articles.ohr.edu/articles/top-ten-words-for-idols)," *What's in a Word?*, Ohr Somayach, 30 March 2019.
+
+Cited in the essay: *Avos d'Rabbi Nosson* ch. 34; Vayikra 19:4 with Rashi and Ibn Ezra; Yirmiyahu 14:14; Zechariah 11:17; Iyov 13:4 with Rashi and Ramban; Shabbos 149a with Rashi, Rabbeinu Nissim and Ritva; Rabbeinu Shimshon of Shantz and *Pirush HaRaavad* to *Toras Kohanim*; *She'iltos d'Rav Achai Gaon*; the Netziv; Malbim; Rabbi Shlomo Pappenheim; Rabbi Eliyahu Benamozegh; Maharitatz.

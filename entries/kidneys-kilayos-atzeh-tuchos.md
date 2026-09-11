@@ -30,10 +30,10 @@ updated: 2026-09-10
 
 *Kilayos* is the plain word for **kidneys**, and in a *pasuk* about Hashem
 searching a man it is his **innermost thoughts**. *Tuchos* is a poetic word for
-the same organ, so render it **kidneys** with Chazal, or **innards** with Ibn
-Ezra. *Atzeh* is a hapax and genuinely disputed: **kidneys** on the Gemara's
-reading, **the base of the spine** on Targum Onkelos's; say which you follow.
-Note that both *kilayos* and *tuchos* appear only in the plural.
+the same organ: **kidneys** by Chazal's reading, **innards** by Ibn
+Ezra's. *Atzeh* is a hapax and genuinely disputed: **kidneys** on the Gemara's
+reading, **the base of the spine** on Targum Onkelos's.
+Both *kilayos* and *tuchos* appear only in the plural.
 
 ## At a glance
 
@@ -60,8 +60,7 @@ taking the root as ע-צ-ה while granting that Chazal read it as from י-ע-צ.
 Ezra says only that the sense must be gleaned from context, and rejects any link
 to *eitz*, "tree," which is what Menachem Ibn Saruk implies by filing *atzeh*
 under ע-צ, and what Rabbeinu Bachya, Shadal, and Rabbi Shlomo Pappenheim say
-outright: the spine with its ribs looks like a trunk with branches. Keep both
-readings; the sugya and the Targum are each authoritative in their own domain.
+outright: the spine with its ribs looks like a trunk with branches.
 
 **Why *atzeh* would mean kidneys at all.** Rabbi Shes ben Yefes HaRofeh of Aleppo
 (*Chemas HaChemdah* to Vayikra 3:17): they filter the blood and cleanse the
@@ -146,20 +145,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Vayikra: The Kidneys Advisory](https://articles.ohr.edu/articles/vayikra-the-kidneys-advisory)," What's in a Word?, Ohr
-Somayach, 13 Adar II 5784 (2024-03-23): raw text in
-`sources/whats-in-a-word/raw/11307-vayikra-the-kidneys-advisory.md`. The article's
-list of the korbanos loci prints "Lev. 2:15" and "4:7"; the fifteen instances run
-through Vayikra 3-9. Primary loci: Vayikra 1:9, 3:4, 3:9, 3:10, 3:17, 4:9, 8:16,
-8:25, 9:10, 9:19; Shemos 23:18, 23:25, 29:22; Bereishis 21:16; Devarim 32:14 with
-Rashi and *Chizkuni*; Yirmiyahu 11:20, 17:10, 20:12; Tehillim 7:10, 16:7, 51:8,
-139:13; Mishlei 23:16; Iyov 38:36; Koheles 10:2; Berachos 61a; Chullin 11a;
-Chullin 3:2 and 4:1, Tamid 4:3; Rosh Hashanah 26a; Kesubos 111b; *Sefer
-HaShorashim*; *Machberes Menachem*; *Sefer HeAruch*; *Sefer HaTishbi*; *Meleches
-Shlomo* to Chullin 3:1; *Otzar Nirdafim* 344; *Cheshek Shlomo*; *Sodi Razi*;
-*Chemas HaChemdah*; *Chochmas Manoach*; *Daas Mikra* to Iyov 38:36; the
-Brown-Driver-Briggs lexicon and Clines' *Dictionary of Classical Hebrew* (which
-the article cites for the "fowl" and "darkness" readings of *tuchos*); Rabbi
-Natan Slifkin's monograph on the kidneys' counsel. For כ-ל-ה, "to long for," the
-article's list is Shmuel II 13:39, Tehillim 119:3 and 119:81; only 13:39 and
-119:81 carry the root, and Tehillim 119:3 does not, so it is not repeated above.
+Rabbi Reuven Chaim Klein, "[Vayikra: The Kidneys Advisory](https://articles.ohr.edu/articles/vayikra-the-kidneys-advisory)," *What's in a Word?*, Ohr Somayach, 23 March 2024.
+
+Cited in the essay: Vayikra 1:9, 3:4, 3:9, 3:10, 3:17, 4:9, 8:16, 8:25, 9:10, 9:19; Shemos 23:18, 23:25, 29:22; Bereishis 21:16; Devarim 32:14 with Rashi and *Chizkuni*; Shmuel II 13:39; Yirmiyahu 11:20, 17:10, 20:12; Tehillim 7:10, 16:7, 51:8, 139:13; Mishlei 23:16; Iyov 38:36; Koheles 10:2; Berachos 61a; Chullin 11a; Chullin 3:2 and 4:1, Tamid 4:3; Rosh Hashanah 26a; Kesubos 111b; *Sefer HaShorashim*; *Machberes Menachem*; *Sefer HeAruch*; *Sefer HaTishbi*; *Meleches Shlomo* to Chullin 3:1; *Otzar Nirdafim* 344; *Cheshek Shlomo*; *Sodi Razi*; *Chemas HaChemdah*; *Chochmas Manoach*; *Daas Mikra* to Iyov 38:36; the Brown-Driver-Briggs lexicon and Clines' *Dictionary of Classical Hebrew*; Rabbi Natan Slifkin's monograph on the kidneys' counsel.

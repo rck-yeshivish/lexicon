@@ -38,8 +38,7 @@ updated: 2026-09-10
 couriers or for pulling: **swift steed** or **courier horse**, not plain "horse."
 *Achashtranim* and *remachim* occur together only in Esther 8:10, and Megillah
 18a says outright that we do not know what they mean; the majority reading makes
-*achashtranim* **mules** and *remachim* the **mares** that bore them. Never
-render the four words of that pasuk as four synonyms for "horse."
+*achashtranim* **mules** and *remachim* the **mares** that bore them.
 
 ## At a glance
 
@@ -70,8 +69,7 @@ specific. The Maskilic Hebrew scholar Naftali Torczyner, Tur-Sinai (1886-1973),
 reaches the wagon-horse independently, taking ר-כ-ש as a metathesis of ק-ש-ר,
 tying and tethering, probably on the kuf/kaf interchange; he goes further and has
 *rechush* derive from *rechesh*, since a man's main property was his livestock,
-or because moveable goods were carried by *rechashim*. Our own working choice,
-not the column's, is Rav Hirsch and Ralbag.
+or because moveable goods were carried by *rechashim*.
 
 **What *achashtranim* are.** Mules, from a male donkey and a mare, as against the
 weaker hinnies (Rav Saadia Gaon, Ibn Ezra, Radak, Rabbi Moshe Ibn Chalava,
@@ -198,18 +196,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "Speedy Horsepower," Parts 1 and 2, What's in a Word?,
-Ohr Somayach, 20 Shevat 5783 (2023-02-11): raw text in
-`sources/whats-in-a-word/raw/10842-purimtrumah-speedy-horsepower-part-12.md` and
-`.../10843-purimtitzaveh-speedy-horsepower-part-22.md`. Primary loci cited:
-Esther 3:13-15, 8:1, 8:10, 8:14; Melachim I 5:8; Michah 1:13; Bereishis 1:21,
-1:25, 2:19, 2:20, 12:5; Bamidbar 13:11; Yeshayahu 38:14; Shir HaShirim 1:9 and
-Shir HaShirim Rabbah 1:49; Megillah 18a; Pesachim 113b; Kesubos 55b; Bava Basra
-152a; Yerushalmi Kiddushin 1:5; Kilayim 8:5 and Yerushalmi Kilayim 8:4; Rambam,
-Hilchos Kilayim 9:5; *Teshuvos HaRan* 79 and *Teshuvos HaRivash* 390-391; Ezra
-1:4; Tehillim 90:10 with Rashi; Esther 6:10, 9:4; *Tzror HaMor* to Bereishis
-2:20; *Tzeina U'Reinah* to Bereishis; *Ohr Chadash* to Esther 8:1; *Shenos
-Eliyahu* to Kilayim 8:5 and *Gilyonei HaShas*; *Sefer HaMishkalim*; *Meturgeman*;
-*HaAruch HaShaleim*. Dr. Dan Shapira's reading of the horse's name and Rabbi
-Yehuda Spitz's aside the article gives as private communications to the author,
-and they are marked as such here.
+Rabbi Reuven Chaim Klein, "[Purim/Trumah: Speedy Horsepower (Part 1/2)](https://articles.ohr.edu/articles/purimtrumah-speedy-horsepower-part-12)," *What's in a Word?*, Ohr Somayach, 11 February 2023.
+
+Rabbi Reuven Chaim Klein, "[Purim/Titzaveh: Speedy Horsepower (Part 2/2)](https://articles.ohr.edu/articles/purimtitzaveh-speedy-horsepower-part-22)," *What's in a Word?*, Ohr Somayach, 11 February 2023.
+
+Cited in the essay: Esther 3:13-15, 8:1, 8:10, 8:14; Melachim I 5:8; Michah 1:13; Bereishis 1:21, 1:25, 2:19, 2:20, 12:5; Bamidbar 13:11; Yeshayahu 38:14; Shir HaShirim 1:9 and Shir HaShirim Rabbah 1:49; Megillah 18a; Pesachim 113b; Kesubos 55b; Bava Basra 152a; Taanis 23a with Rashi; Yerushalmi Kiddushin 1:5; Kilayim 8:5 with Rambam's commentary, and Yerushalmi Kilayim 8:4; Rambam, Hilchos Kilayim 9:5; *Teshuvos HaRan* 79 and *Teshuvos HaRivash* 390-391; Ezra 1:4; Tehillim 90:10 with Rashi; Esther 6:10 with Targum Sheini, and 9:4; *Peirush HaRokeach* to Bereishis 1:25 and Esther 8:10, 9:4; *Midrash Lekach Tov*; *Sefer HaGalui*; *Tzror HaMor* to Bereishis 2:20; *Tzeina U'Reinah* to Bereishis; *Ohr Chadash* to Esther 8:1; *Shenos Eliyahu* to Kilayim 8:5 and *Gilyonei HaShas*; *Sefer HaMishkalim*; *Meturgeman*; *HaAruch HaShaleim*.

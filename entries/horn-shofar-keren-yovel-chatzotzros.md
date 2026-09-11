@@ -25,16 +25,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Shofar* stays transliterated; where a gloss is wanted it is **ram's horn**,
+*Shofar* names the **ram's horn**,
 and the word carries the sense of a **hollow tube** (Ran, from *shefoferes*)
 and of **beauty and fitness** (root ש-פ-ר; Ritva). *Keren* is the general
 **horn**, still on the animal or off it, and by extension a **ray**, a
 **corner**, **strength**, and in the Mishnah the **principal** of a debt or
 investment. *Yovel* is a horn too (Shemos 19:13) and gives its name to the
 fiftieth year. *Chatzotzros* are the silver **trumpets** of Bamidbar 10:2,
-though the terms crossed after the Churban. The trap: never render *keren* and
-*shofar* both as "horn" in Rosh Hashanah 3:2, since the whole halachah turns on
-the bovine horn being *called* a *keren*.
+though the terms crossed after the Churban. In Rosh Hashanah 3:2 the whole
+halachah turns on the bovine horn being *called* a *keren*.
 
 ## Distinctions
 
@@ -190,17 +189,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2)," What's in
-a Word?, Ohr Somayach (2022-09-17), reposted 28 Elul 5782 (2022-09-24): raw
-text in
-`sources/whats-in-a-word/raw/9992-nitzavimvayelechrh-the-shofars-horn.md` and
-`sources/whats-in-a-word/raw/10060-nitzavimvayelechrh-the-shofars-horn-2.md`.
-The two files carry the same essay; the second is not a continuation. Loci as
-above, plus its footnote: Chiddushei HaRamban to Rosh Hashanah 26a and his
-Derashah L'Rosh Hashanah; Ritva there; *Cheshek Shlomo* s.v. בל; Ran on Rosh
-Hashanah 6a in the Rif; *Shu"t HaMabit* 1:125. Also Devarim 33:17; Tehillim 81:4;
-*Sifrei Behaaloscha* 78; *Koheles Rabbah* 7:3; *Midrash Shmuel* 23; Daniel 8:5,
-8:8, 8:21; Ezra 8:35; Divrei HaYamim II 29:21; Yechezkel 43:20; Shmuel I 16:13;
-*Kesubos* 3:9, 13:2; *Kiddushin* 4:12; *Maaser Sheni* 4:3; *Pesachim* 2:4;
-*Yevamos* 11:5, 11:7; *Tamid* 2:5, 4:1, 7:3; *Keilim* 17:9-10, 17:17; Vayikra
-25:50. Its front matter gives the year as 5787, an error for 5782.
+Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn)," *What's in a Word?*, Ohr Somayach, 17 September 2022.
+
+Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2)," *What's in a Word?*, Ohr Somayach, 24 September 2022.
+
+Cited in the essay: Bereishis 49:21; Rav Hirsch to Bereishis 5:1 and 49:11; Shemos 1:15, 19:13, 19:19, 38:2; Vayikra 8:15, 25:10-15, 25:50, 27:17-31; Bamidbar 10:2; Devarim 33:17; Yehoshua 6:4-13; Shmuel I 16:1, 16:13; Melachim I 1:39; Yechezkel 29:21, 43:20; Tehillim 16:6, 81:4, 132:17, 148:14; Iyov 26:13; Daniel 3:32, 4:24, 6:2, 8:5, 8:8, 8:21; Ezra 8:35; Divrei HaYamim II 29:21; Mishnah *Rosh Hashanah* 3:2 with the Bavli and Yerushalmi there; Mishnah *Gittin* 2:3, *Keilim* 11:7, 14:5, 17:9-10, 17:17, *Shabbos* 2:4, *Parah* 5:4, 5:8, 6:1, 9:2, *Mikvaos* 2:10, 4:5, 6:1-2, 6:5-7, 6:9, *Kesubos* 3:9, 13:2, *Bava Kamma* 2:5, 9:6-12, *Kilayim* 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid* 2:5, 4:1, 7:3, *Middos* 3:2-3, 4:3, 4:5, *Peah* 1:1, *Kiddushin* 4:12, *Terumos* 6:1-4, 7:1-4, 8:1, 11:2, *Maaser Sheni* 4:3, *Pesachim* 2:4, *Yevamos* 11:5, 11:7, *Shevuos* 8:3-4, *Shekalim* 2:1, 6:1, 6:5 with Rambam's commentary, and *Kinnim* 3:6; Shabbos 36a; Sukkah 34a with *Chasam Sofer* and *Aruch LaNer*; *Vayikra Rabbah* 29:6; *Bereishis Rabbah* 98:17; *Sifrei Behaaloscha* 78; *Shemos Rabbah* 1:13; *Koheles Rabbah* 7:3; *Midrash Shmuel* 23; Chiddushei HaRamban to Rosh Hashanah 26a and his Derashah L'Rosh Hashanah; Ritva there; Ran on Rosh Hashanah 6a in the Rif; *Cheshek Shlomo* s.v. בל; *Shu"t HaMabit* 1:125; Rabbi Moshe Shapiro; Avraham Even-Shoshan and Rabbi Ernest Klein.

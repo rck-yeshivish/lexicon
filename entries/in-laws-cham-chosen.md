@@ -23,8 +23,7 @@ they differ by whose in-laws they are. Radak: *cham* and *chamos* are always a
 **wife's** parents-in-law, *chosen* and *choseness* always a **husband's**. In
 Mishnaic Hebrew *cham* and *chamos* widened to cover a husband's in-laws too,
 but *chosen* and *choseness* never widened to cover a wife's (*Pri Megadim*).
-So an English "father-in-law" is correct for both but loses the one thing the
-Hebrew is telling you, which side of the marriage is speaking.
+The Hebrew tells which side of the marriage is speaking.
 
 ## Distinctions
 
@@ -113,9 +112,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Heat with the In-Laws](https://articles.ohr.edu/articles/heat-with-the-in-laws)," What's in a Word?, Ohr
-Somayach, 20 Shevat 5780 (2020-02-15): raw text in
-`sources/whats-in-a-word/raw/8605-heat-with-the-in-laws.md`. Primary loci
-cited: Shemos 18:1-27; Devarim 27:23; Bereishis 38:13, 38:25; Rus 2:11-3:17;
-Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak,
-*Sefer HaShorashim*; *Shem MiShimon* (Rabbi Shimon Pollack).
+Rabbi Reuven Chaim Klein, "[Heat with the In-Laws](https://articles.ohr.edu/articles/heat-with-the-in-laws)," *What's in a Word?*, Ohr Somayach, 15 February 2020.
+
+Cited in the essay: Shemos 18:1-27; Devarim 27:23; Bereishis 38:13, 38:25; Rus 2:11-3:17; Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak, *Sefer HaShorashim*; Rav Hirsch; Rabbi Shlomo Pappenheim; Rabbi Menachem Azariah of Fano; the *Pri Megadim*, in a letter on dikduk; *Shem MiShimon* (Rabbi Shimon Pollack).

@@ -23,9 +23,8 @@ updated: 2026-09-10
 *Din* is **judgment** and *rachamim* is **mercy**, but the axis between them is
 not severity against leniency; it is where the attention rests. Under *rachamim*
 the focus is on the Giver, so the flow is constant and unearned. Under *din* the
-focus is on the receiver, so the flow is measured out by what he deserves. Keep
-both words as **judgment** and **mercy**, and never render *din* "punishment":
-Hashem gives under *din* too. The Divine Name of *din* is *Elokim*; the
+focus is on the receiver, so the flow is measured out by what he deserves. *Din*
+is not punishment: Hashem gives under *din* too. The Divine Name of *din* is *Elokim*; the
 four-letter Name is the Name of *rachamim*. In the shofar, *tekiah* (one
 unbroken sound) answers to *rachamim* and *teruah* (a broken, fragmented sound)
 to *din*.
@@ -33,12 +32,12 @@ to *din*.
 ## Distinctions
 
 ### din (דין)
-The article opens from the Mishnah (Rosh Hashanah 1:2) that on Rosh Hashanah all
+The column opens from the Mishnah (Rosh Hashanah 1:2) that on Rosh Hashanah all
 the inhabitants of the world pass before Hashem like the animals of a corral and
 He judges the whole of Creation, which is why the day is *Yom HaDin*; but Yom
 Kippur is called the Day of Judgment as well, so what separates them? Ramban:
 Rosh Hashanah is *din b'rachamim*, judgment inside mercy, and Yom Kippur is
-*rachamim b'din*, mercy inside judgment. The article calls the distinction
+*rachamim b'din*, mercy inside judgment. The column calls the distinction
 cryptic and takes up only the Rosh Hashanah half, leaving Yom Kippur for another
 time, so nothing here explains *rachamim b'din*. Rabbi Reuven Chaim Klein
 unpacks *din* through
@@ -55,7 +54,7 @@ receiving it. The focus stays on the giver, so the giving is steady and does not
 depend on desert. That is *rachamim*, and it is why the four-letter Name is
 associated with it. The Kabbalists express the same pair as *duchra* and
 *nukva*, and as *mashpia* and *mekabel*, influencer and recipient. In the
-imagery of the article the sun, always the same disc and always emitting its own
+imagery of the column the sun, always the same disc and always emitting its own
 light, is the giver and so *rachamim*; the moon, which has no light of its own
 and waxes and wanes, is the receiver and so *din*. Rosh Hashanah, first day of
 a solar year and first day of a lunar month at once, is where the two systems
@@ -72,11 +71,11 @@ blast, the Name of *rachamim* with the whole one. Because every *teruah* is
 sandwiched between two *tekios*, all that shows from outside is *rachamim*; this
 is the Kabbalistic *mesikas hadin*, "sweetening the judgment," and the same
 principle in dipping the apple in honey, honey being sweet and so itself
-*rachamim*. The article reads *tiku bachodesh shofar bakeseh l'yom chageinu*
+*rachamim*. The column reads *tiku bachodesh shofar bakeseh l'yom chageinu*
 (Tehillim 81:4) along the same line: the Rosh Chodesh side of the day, the side
 that carries the *din*, is the concealed one.
 
-The article closes by asking what such concealment can accomplish, since we can
+The column closes by asking what such concealment can accomplish, since we can
 hardly be fooling anyone by closing our eyes to the *din*. Its answer is that
 the concealment works by moving the object of focus. If we are judged, we are
 the object of focus, and with our sins that is a poor place to stand; so on Rosh
@@ -111,13 +110,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Rosh Hashana: A Tale of Two Beginnings](https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings)," What's in a
-Word?, Ohr Somayach, 28 Elul 5779 (2019-09-28): raw text in
-`sources/whats-in-a-word/raw/8411-rosh-hashana-a-tale-of-two-beginnings.md`.
-Primary loci: Rosh Hashanah 1:2 (all the world passes before Him like sheep of a
-flock); Ramban on *din b'rachamim* and *rachamim b'din*; Tehillim 47:6 (the
-article cites the chapter, 47, without the verse, and notes it is said seven
-times before the shofar) and Tehillim 81:4 (likewise cited as chapter 81); the
-Gemara's *sulam rauah*. The sun-and-moon parable is carried above as the article
-gives it; its calendrical mechanics (the nineteen-year cycle, intercalation, the
-solar eclipse) are background and are not repeated here.
+Rabbi Reuven Chaim Klein, "[Rosh Hashana: A Tale of Two Beginnings](https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings)," *What's in a Word?*, Ohr Somayach, 28 September 2019.
+
+Cited in the essay: Mishnah Rosh Hashanah 1:2; Ramban on *din b'rachamim* and *rachamim b'din*; Tehillim 47:6 and 81:4; the Gemara's *sulam rauah*.

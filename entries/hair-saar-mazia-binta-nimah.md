@@ -21,11 +21,10 @@ updated: 2026-09-10
 *Saar* (Aramaic *saara*) is the plain word for hair, whether one strand or the
 whole growth: **hair**. How the three Aramaic words divide the field is not
 settled by any earlier source; the column reports finding no theory and offers
-its own suggestion, which is what this entry follows: *mazia* is a patch of
+its own suggestion: *mazia* is a patch of
 hair, **hair** or **a head of hair**; *binta* is one single strand, **a hair**;
 *nimah* is a hair that protrudes or is unwanted, and outside the hair sense it
-is a **string** or **thread**. The trap
-is that English "hair" flattens all four, and two of them stand side by side in
+is a **string** or **thread**. Two of them stand side by side in
 the same Gemara, where the point is precisely that a *binta* came loose from the
 *mazia*.
 
@@ -131,15 +130,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[All About Hair](https://articles.ohr.edu/articles/all-about-hair)," What's in a Word?, Ohr Somayach,
-20 June 2020 / 28 Sivan 5780: raw text in
-`sources/whats-in-a-word/raw/8754-all-about-hair.md`. Primary loci cited:
-Bamidbar 8:7, 16:1; Vayikra 13:37, 14:9; Devarim 21:12, 32:24 with Rashi;
-Shoftim 20:16 with Targum; Tehillim 6:1, 11:2, 40:13; Iyov 9:17, 30:11; Mishlei
-14:1; Shemos 25:4, 26:7, 35:6 in Targum Onkelos; Berachos 8a; Shabbos 64a, 74b,
-79a; Eruvin 4b, 102b; Sukkah 6a, 9a; Megillah 16a; Nedarim 50a; Gittin 6b, 68b;
-Avodah Zarah 12b; Bava Metzia 84b; Sanhedrin 21a, 25a, 109b to 110a; Yoma 38b,
-69b; Menachos 42b; Mishnah Shabbos 21:3, Kilayim 3:5, Negaim 4:1, Niddah 3:2
-with Tosafos Yom Tov; Tosefta Erchin 2:7; *Zohar*, Tazria 49a; Rabbi Eliyahu
-HaBachur, *Meturgeman*; Rabbi Avraham Meir Israel, *Yalkut HaMeiri*; Rabbi Dr.
-Alexander Kohut on *mazia*, *bini* and *nimah*.
+Rabbi Reuven Chaim Klein, "[All About Hair](https://articles.ohr.edu/articles/all-about-hair)," *What's in a Word?*, Ohr Somayach, 20 June 2020.
+
+Cited in the essay: Bamidbar 8:7, 16:1; Vayikra 13:37, 14:9; Devarim 21:12, 32:24 with Rashi; Shoftim 20:16 with Targum; Tehillim 6:1, 11:2, 40:13; Iyov 9:17, 30:11; Mishlei 14:1; Shemos 25:4, 26:7, 35:6 in Targum Onkelos; Berachos 8a; Shabbos 64a, 74b, 79a; Eruvin 4b, 102b; Sukkah 6a, 9a; Megillah 16a; Nedarim 50a; Gittin 6b, 68b; Avodah Zarah 12b; Bava Metzia 84b; Sanhedrin 21a, 25a, 109b to 110a; Yoma 38b, 69b; Menachos 42b; Mishnah Shabbos 21:3, Kilayim 3:5, Negaim 4:1, Niddah 3:2 with Tosafos Yom Tov; Tosefta Erchin 2:7; *Zohar*, Tazria 49a; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Avraham Meir Israel, *Yalkut HaMeiri*; Rabbi Dr. Alexander Kohut on *mazia*, *bini* and *nimah*.

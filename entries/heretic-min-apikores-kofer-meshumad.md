@@ -18,14 +18,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-Rambam's taxonomy (*Hilchos Teshuvah* 3:6-9) is the one to translate by. *Min*
+Rambam gives a taxonomy (*Hilchos Teshuvah* 3:6-9). *Min*
 is a **sectarian**, wrong about Hashem Himself. *Apikores* is a **scoffer**,
 wrong about prophecy, and in practice one who insults Torah and its scholars.
 *Kofer* is a **denier**, wrong about the Torah, techiyas hameisim or Moshiach.
 *Meshumad* is an **apostate**, one who has left Klal Yisrael for another faith
 or is notorious for deliberate transgression. *Mumar* is the censor's tamer
-replacement for *meshumad*, best rendered **convert-out**. The trap: "heretic"
-absorbs all five, and Rambam's point is that each names a different denial.
+replacement for *meshumad*, a **convert-out**. Rambam's point is that each names
+a different denial.
 
 ## Distinctions
 
@@ -174,15 +174,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Korach: Of Heretics and Apostates](https://articles.ohr.edu/articles/korach-of-heretics-and-apostates)," What's in a
-Word?, Ohr Somayach, 30 Sivan 5784 (2024-07-06); raw text at
-`sources/whats-in-a-word/raw/11438-korach-of-heretics-and-apostates.md`. Primary
-loci cited: Rambam, *Hilchos Teshuvah* 3:6-3:9 and his commentary to *Sanhedrin*
-10:1; *Sanhedrin* 10:1, 60a, 99b; *Avos* 2:14; *Avodah Zarah* 26b; Rashba,
-Responsa 3:352; Yeshayahu 65:11; Shemos 20:4 and 12:43 with Rabbi Shmuel David
-Luzzatto and Ramban; Bereishis 42:8; *Shevuos* 4:1, 4:3-4, 5:1-2, 6:3; *Rosh
-HaShanah* 19a (uncensored); *Mekor Chaim* to *Orach Chaim* 118; *Kuzari* 3:65;
-*Chasam Sofer*, *Kovetz Teshuvos* 79; Daniel 7:26; Divrei HaYamim I 8:12;
-Bamidbar 31:23 with the *Peshitta*; *Gittin* 67b. At *Hilchos Teshuvah* 3:8 the
-article prints "one who denies that the Torah does not come from God"; Rambam's
-category is one who denies that the Torah is from Hashem.
+Rabbi Reuven Chaim Klein, "[Korach: Of Heretics and Apostates](https://articles.ohr.edu/articles/korach-of-heretics-and-apostates)," *What's in a Word?*, Ohr Somayach, 6 July 2024.
+
+Cited in the essay: Rambam, *Hilchos Teshuvah* 3:6-3:9 and his commentary to *Sanhedrin* 10:1; *Sanhedrin* 10:1, 60a, 99b; *Avos* 2:14; *Avodah Zarah* 26b; Rashba, Responsa 3:352; Yeshayahu 65:11; Shemos 20:4 and 12:43 with Rabbi Shmuel David Luzzatto and Ramban; Bereishis 42:8; *Shevuos* 4:1, 4:3-4, 5:1-2, 6:3; *Rosh HaShanah* 19a (uncensored); *Mekor Chaim* to *Orach Chaim* 118; *Kuzari* 3:65; *Chasam Sofer*, *Kovetz Teshuvos* 79; Daniel 7:26; Divrei HaYamim I 8:12; Bamidbar 31:23 with the *Peshitta*; *Gittin* 67b; *Sefer HaTishbi*; *Otzar Yisroel* s.v. *min*, *minus*; *Sefer HaIyunim VeHaDiyunim*; *Machberes HeAruch*; *Magen Avos*; *HaMadrich HaMaspik*; Rabbi Ernest Klein's etymological dictionary of Hebrew.

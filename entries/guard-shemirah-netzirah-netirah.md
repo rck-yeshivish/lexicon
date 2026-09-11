@@ -19,9 +19,8 @@ updated: 2026-09-10
 **keep**, and by extension **wait for** something whose hour has not yet come.
 *Netzirah* is the stronger and the perpetual watch: **safeguard**, **watch over**
 (unceasingly). *Netirah* is holding something in the mind: **harbor** (a grudge),
-**hold on to**. The trap is *lo sitor* (Vayikra 19:18); it is not "do not guard"
-but "do not keep it stored up inside," and any English that uses "keep" there
-will read as the wrong verb.
+**hold on to**. *Lo sitor* (Vayikra 19:18) does not mean "do not guard" but "do
+not keep it stored up inside."
 
 ## Distinctions
 
@@ -145,18 +144,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Acharei Mos/Kedoshim: The Watchers and Guardians](https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians),"
-What's in a Word?, Ohr Somayach, 10 May 2025 / 12 Iyar 5785: raw text in
-`sources/whats-in-a-word/raw/11813-acharei-moskedoshim-the-watchers-and-guardians.md`.
-Primary loci cited: Vayikra 19:18 with Rashi and Malbim; Shemos 22:6; Bereishis
-37:11 with Mahari Kara to Koheles 5:7; Devarim 32:10; Yehoshua 1:8; Shmuel I
-1:12; Yeshayahu 11:1, 14:19, 60:21; Yirmiyahu 3:5; Tehillim 40:12, 103:9,
-105:45, 121:7, 130:3; Mishlei 2:8 with the Vilna Gaon; Shir HaShirim 1:6;
-Daniel 7:28, 11:7; Berachos 3a; Sukkah 52a; Malbim, *Sefer HaCarmel*; Rabbi
-Shlomo Aharon Wertheimer, *Biurei Shemos HaNirdafim*; *Siddur HaRokeach*; Rabbi
-Eliyahu Bachur, *Meturgeman*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon*;
-*Vayikra Rabbah* 19:6. For the closing onomastic aside the article gives a
-fuller list of loci than is reproduced here; two of its references appear to
-have slipped (it prints "II Chron. 5:21" for Shimras, which is I Divrei
-Hayamim 8:21, and "Ezra 10:3" for Shmaryah, which is Ezra 10:32), so the
-uncertain ones are left uncited above rather than repeated.
+Rabbi Reuven Chaim Klein, "[Acharei Mos/Kedoshim: The Watchers and Guardians](https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians)," *What's in a Word?*, Ohr Somayach, 10 May 2025.
+
+Cited in the essay: Vayikra 19:18 with Rashi and Malbim; Shemos 22:6; Bereishis 37:11 with Mahari Kara to Koheles 5:7; Devarim 32:10; Yehoshua 1:8, 11:1, 12:20, 15:48, 19:15; Shoftim 10:1 to 10:2; Shmuel I 1:12; Yeshayahu 11:1, 14:19, 60:21; Yirmiyahu 3:5; Tehillim 40:12, 103:9, 105:45, 121:7, 130:3; Mishlei 2:8 with the Vilna Gaon; Shir HaShirim 1:6; Daniel 7:28, 11:7; Ezra 4:10, 4:17; Berachos 3a; Sukkah 52a; Malbim, *Sefer HaCarmel*; Rabbi Shlomo Aharon Wertheimer, *Biurei Shemos HaNirdafim*; *Siddur HaRokeach*; Rabbi Eliyahu Bachur, *Meturgeman*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon*; *Vayikra Rabbah* 19:6.

@@ -20,17 +20,16 @@ All four are Rabbinic Hebrew, none of them in Tanach, and all four mean
 another (it also means physically pressed close together). *Miyad* is
 **straightaway**, literally "from hand," the readiness of what is already in
 your hand. *Le'alter* is **on the spot**, a contraction of *al atar*. *Otyom* is
-a technical Mishnaic term, best left as *otyom* with a gloss; Rav Hai Gaon, the
-*Aruch*, Rashi and Rashba all hold it is a Greek loanword, and the article
-identifies the Greek as εὐθέως, *eutheos*, "immediately." The trap is that
-English "immediately" flattens all four.
+a technical Mishnaic term; Rav Hai Gaon, the
+*Aruch*, Rashi and Rashba all hold it is a Greek loanword, and the column
+identifies the Greek as εὐθέως, *eutheos*, "immediately."
 
 ## Distinctions
 
 ### teikef (תיכף)
 Carries both senses at once: "closely pressed together" in space and "rapidly
 succeeding each other" in time. Two objects set right beside one another and two
-events falling right after one another take the same word. This is the article's
+events falling right after one another take the same word. This is the column's
 governing idea, which it says may help shed light on the set: that Hebrew, and
 even English, joins the spatial and the temporal, an idea the Maharal of Prague
 (1525-1609) had already expressed long before the space-time continuum entered
@@ -89,11 +88,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Forthwith in the Fourth Dimension](https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension)," What's in a
-Word?, Ohr Somayach, 25 Elul 5777 (2017-09-16),
-https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension; raw text in
-`sources/whats-in-a-word/raw/7426-forthwith-in-the-fourth-dimension.md`. Primary
-loci: Mishnah Niddah 2:2; Rashi to Yoma 6a and Kerisos 17b; Rashba, *Toras
-HaBayis* 7:3; Rav Hai Gaon to Niddah; *Sefer HaAruch*. The Greek εὐθέως and the
-"off-hand" aside are the article's own; the *teikef umiyad* note in Rendering
-guidance is ours, and is marked there.
+Rabbi Reuven Chaim Klein, "[Forthwith in the Fourth Dimension](https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension)," *What's in a Word?*, Ohr Somayach, 16 September 2017.
+
+Cited in the essay: Mishnah Niddah 2:2; Rashi to Yoma 6a and Kerisos 17b; Rashba, *Toras HaBayis* 7:3; Rav Hai Gaon to Niddah; *Sefer HaAruch*; the Maharal of Prague; Rabbi Yishaya Pick-Berlin; Rabbi Yaakov Emden; Rabbi Emmanuel Chai Ricci's commentary to the Mishnah; Rabbi Betzalel Ronsberg.

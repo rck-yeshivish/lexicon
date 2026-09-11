@@ -27,9 +27,8 @@ covered. *Tzafun* is **hidden away for safekeeping, stored up**: concealed in
 order to preserve, the treasured hidden, not the merely unseen. *Ganuz* is
 **stored away, put in the treasury** (Rabbinic: consigned to *genizah*).
 *Nistar* / *mustar* is **hidden** from sight or from knowledge, the plain
-general word. *Ne'elam* is **hidden from the mind, beyond one's grasp**. The
-thing not to get wrong: *tzafun* is not a synonym of "lost from view"; it is
-hidden *and kept*, so אור הצפון is light stored away, not light gone dark.
+general word. *Ne'elam* is **hidden from the mind, beyond one's grasp**.
+*Tzafun* is not a synonym of "lost from view"; it is hidden *and kept*.
 
 ## Distinctions
 
@@ -161,24 +160,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Mishpatim: Hidden Things](https://articles.ohr.edu/articles/mishpatim-hidden-things)," What's in a Word?, Ohr
-Somayach, 24 Shevat 5785 (2025-02-22): raw text in
-`sources/whats-in-a-word/raw/11696-mishpatim-hidden-things.md`. Primary loci
-the article cites: Shemos 22:5 with Mechilta and Bava Kamma 60a-62a; Yirmiyahu
-18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6, 140:6, 142:4; Bereishis 35:4, 41:36;
-Shemos 2:2, 2:12; Yehoshua 2:6; Shabbos 2:7, 4:1-2, 9:6, 16:1; Beitzah 2:6;
-Eduyos 3:10; Sanhedrin 10:6; Devarim 33:19, 33:21 with Rashi; Melachim I 6:9,
-7:3; Rabbi Yosef Kimchi, *Sefer Zikaron*; Menachem Ibn Saruk, *Machberet
-Menachem*; Pappenheim, *Cheshek Shlomo* s.v. TET-MEM, SAMECH-PEH, TZADI-PEH,
-SAMECH-TAV-REISH, AYIN-LAMED; Shadal to Vayikra 11:5; Yechezkel 27:24; Esther
-3:9, 4:7; Divrei HaYamim I 28:11; Ezra 1:8, 5:17, 6:1, 7:20, 7:21; Yeshayahu
-39:6; Shmuel I 25:29; Pesachim 4:9; Middos 1:6; Shekalim 6:1-2; Bava Basra 11a;
-Daniel 3:2-3; Yeshayahu 4:6; Eichah 3:10; Midrash Shmuel 28:1; Midrash Shocher
-Tov to Tehillim 114; Bamidbar Rabbah 20:21; Tanchuma Lech Lecha 19 and Vayera 5;
-*HaKsav VeHaKabbalah* to Bereishis 49:6.
+Rabbi Reuven Chaim Klein, "[Mishpatim: Hidden Things](https://articles.ohr.edu/articles/mishpatim-hidden-things)," *What's in a Word?*, Ohr Somayach, 22 February 2025.
 
-The source article is truncated mid-sentence at the source, cutting a closing
-list of further hidden-words it does not treat; nothing the entry rests on is
-affected. An earlier draft carried a sentence on Aramaic *tamir* rendering these
-words in Targum, credited to Rabbi Ernest Klein by a nun/reish interchange. That
-claim is nowhere in this article and has been cut.
+Cited in the essay: Shemos 22:5 with Mechilta and Bava Kamma 60a-62a; Yirmiyahu 18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6, 140:6, 142:4; Bereishis 35:4, 41:36; Shemos 2:2, 2:12; Yehoshua 2:6; Shabbos 2:7, 4:1-2, 9:6, 16:1; Beitzah 2:6; Eduyos 3:10; Sanhedrin 10:6; Devarim 33:19, 33:21 with Rashi; Melachim I 6:9, 7:3; Rabbi Yosef Kimchi, *Sefer Zikaron*; Menachem Ibn Saruk, *Machberet Menachem*; Pappenheim, *Cheshek Shlomo* s.v. TET-MEM, SAMECH-PEH, TZADI-PEH, SAMECH-TAV-REISH, AYIN-LAMED; Shadal to Vayikra 11:5; Yechezkel 27:24; Esther 3:9, 4:7; Divrei HaYamim I 28:11; Ezra 1:8, 5:17, 6:1, 7:20, 7:21; Yeshayahu 39:6; Shmuel I 25:29; Pesachim 4:9; Middos 1:6; Shekalim 6:1-2; Bava Basra 11a; Daniel 3:2-3; Yeshayahu 4:6; Eichah 3:10; Midrash Shmuel 28:1; Midrash Shocher Tov to Tehillim 114; Bamidbar Rabbah 20:21; Tanchuma Lech Lecha 19 and Vayera 5; *HaKsav VeHaKabbalah* to Bereishis 49:6; Hillel Halkin (Philologos), *Forward*, 19 August 2012.

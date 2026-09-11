@@ -35,10 +35,9 @@ updated: 2026-09-10
 
 *Makeves* is the heavy hammer, **mallet** or **sledgehammer**, the tool Yael used
 (Shoftim 4:21); *halmus* is the poetic word for the very same tool (Shoftim
-5:26), so render both **mallet**. *Patish* is the plain **hammer**, in the Gemara
+5:26). *Patish* is the plain **hammer**, in the Gemara
 the blacksmith's; *kurnas*, Mishnaic only, is the **smith's hammer**. The sources
-grade their sizes against each other and contradict each other doing it, so
-follow whichever source is being quoted rather than a fixed hierarchy.
+grade their sizes against each other and contradict each other doing it.
 
 ## At a glance
 
@@ -57,8 +56,7 @@ big *makeves*. Rabbi Nosson of Rome (*Sefer HeAruch*): *kurnas* is a small
 the blacksmith's, though elsewhere (Shabbos 73a, Moed Katan 11a) he simply
 equates the two. Radak:
 *patish* is a big *makeves*. Rabbi Yitzchak Avineri reverses the axis: *makeves*
-is a *patish* with one sharp head. Nothing reconciles them, so render each word
-by its own character rather than by relative size.
+is a *patish* with one sharp head. Nothing reconciles them.
 
 **Where *makeves* comes from.** Ibn Janach, Ibn Parchon, and Radak file it under
 נ-ק-ב, "to bore," Ibn Parchon explaining that the *dagesh* in the *mem* stands for
@@ -93,7 +91,7 @@ being Old French for hammer. Rabbi Hartom also floats two further readings: that
 the nickname was given at birth because Yehudah's head was shaped like a hammer
 (compare *makavan* above), and that Maccabee is a shortened *makav-yahu*, from
 *nakav* in the sense of marking or designating, "the one designated by Hashem."
-The spelling follows the derivation; keep whichever the source uses.
+The spelling follows the derivation.
 
 ## Distinctions
 
@@ -174,18 +172,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "The Hebrew Hammers," What's in a Word?, Ohr Somayach,
-in two parts, 20 Kislev 5785 (2024-12-21) and 27 Kislev (2024-12-28): raw text in
-`sources/whats-in-a-word/raw/11627-vayeshev-the-hebrew-hammers-part-12.md` and
-`11634-miketz-the-hebrew-hammers-part-22.md`. Part 1 is about the name Maccabee,
-not the cluster; only its bearing on *makeves* is carried here. Primary loci:
-Shoftim 4:21, 5:26; Yeshayahu 41:7, 44:12, 51:1; Yirmiyahu 10:4, 23:29,
-50:23; Melachim I 6:7; Shemos 15:11, 25:31; Bamidbar 10:2, 11:31; Iyov 9:26;
-Tehillim 73:10; Mishnah Keilim 13:4, 29:5, 29:6 and 29:7, Shabbos 12:1 and 17:2,
-Parah 3:11, Bechoros 7:1; Bechoros 43b with Rashi and the Mainz Commentary
-ascribed to Rabbeinu Gershom; Shabbos 21b, 73a; Moed Katan 11a; Berachos 34a;
-Megillah 25a; Gittin 56b; Bava Basra 20a; Menachos 28a; *Sifrei HaShorashim*;
-*Machberes Menachem*; *Meturgaman*; *Sefer HeAruch* and *Mussaf HeAruch*;
-*Yerios Shlomo* and *Cheshek Shlomo*; *Aholei Yehuda*; Rabbi Ernest Klein and
-Dr. Alexander Kohut (*Aruch Completum*) on *kurnas*; Abraham Kahana and Rabbi
-Eliyahu Shmuel Hartom on the kuf spelling of Maccabee.
+Rabbi Reuven Chaim Klein, "[Vayeshev: The Hebrew Hammers (Part 1/2)](https://articles.ohr.edu/articles/vayeshev-the-hebrew-hammers-part-12)," *What's in a Word?*, Ohr Somayach, 21 December 2024.
+
+Rabbi Reuven Chaim Klein, "[Miketz: The Hebrew Hammers (Part 2/2)](https://articles.ohr.edu/articles/miketz-the-hebrew-hammers-part-22)," *What's in a Word?*, Ohr Somayach, 28 December 2024.
+
+Cited in the essay: Shoftim 4:21, 5:26; Yeshayahu 41:7, 44:12, 51:1; Yirmiyahu 10:4, 23:29, 50:23; Melachim I 6:7; Shemos 15:11, 25:31; Bamidbar 10:2, 11:31; Iyov 9:26; Tehillim 73:10; Mishnah Keilim 13:4, 29:5, 29:6 and 29:7, Shabbos 12:1 and 17:2, Parah 3:11, Bechoros 7:1; Bechoros 43b with Rashi and the Mainz Commentary ascribed to Rabbeinu Gershom; Shabbos 21b, 73a; Moed Katan 11a; Berachos 34a; Megillah 25a; Gittin 56b; Bava Basra 20a; Menachos 28a; *Sifrei HaShorashim*; *Machberes Menachem*; *Meturgaman*; *Sefer HeAruch* and *Mussaf HeAruch*; *Yerios Shlomo* and *Cheshek Shlomo*; *Aholei Yehuda*; Rabbi Ernest Klein and Dr. Alexander Kohut (*Aruch Completum*) on *kurnas*; *Peirush Rokeach* to Shemos 15:11, *Tzror HaMor*, *Zohar Chadash* 73b with *Biur HaGra*, and *Ohr Yakar* on Maccabee; Abraham Kahana and Rabbi Eliyahu Shmuel Hartom on the kuf spelling of Maccabee.

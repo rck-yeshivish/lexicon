@@ -19,9 +19,7 @@ updated: 2026-09-10
 *Dilug* is **skipping**: the focus is on what got passed over. *Kefitzah* is
 **leaping**: the focus is on covering ground fast. *Pesach* holds both, which is
 what Rashi means when he calls it an expression of *dilug* and *kefitzah*
-together, so "pass over" is right for the Korban Pesach and the makkah, and
-"jump" is wrong. Do not let one English word cover *dilug* and *kefitzah* where
-a pasuk sets them side by side.
+together.
 
 ## Distinctions
 
@@ -32,8 +30,8 @@ body forward; Rambam and the Rosh cite the same in their commentaries to Mishnah
 Ohalos 8:5. Wertheimer suggests measuring it by height rather than form: in Shir
 HaShirim 2:8 *midaleg* is over mountains and *mikapetz* over hills, so *dilug*
 is the higher of the two. The column then posits, in its own voice, that the
-controlling sense is what is skipped, and that *dilug* is therefore better
-rendered "skipping" and *kefitzah* "jumping": English "skip" carries both the
+controlling sense is what is skipped, and that *dilug* is therefore more
+accurately "skipping" and *kefitzah* "jumping": English "skip" carries both the
 gait and the evasion ("he skipped the boring parts"), and the two are in truth
 conceptually one, since a skipping step is exactly a way of not treading on what
 lies underfoot, and the Hebrew verb covers both. Part 2 works from that same
@@ -109,14 +107,8 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Jumping for Passover: Part 1](https://articles.ohr.edu/articles/jumping-for-passover-part-1)," What's in a Word?, Ohr
-Somayach, 5 Nissan 5777 (2017-04-01),
-https://articles.ohr.edu/articles/jumping-for-passover-part-1, and "Part 2," 12
-Nissan 5777 (2017-04-08),
-https://articles.ohr.edu/articles/jumping-for-passover-part-2; raw text in
-`sources/whats-in-a-word/raw/7204-jumping-for-passover-part-1.md` and
-`sources/whats-in-a-word/raw/7218-jumping-for-passover-part-2.md`. Primary loci:
-Rashi to Shemos 12:11, 12:13 and Yeshayahu 31:5; Shir HaShirim 2:8; Yerushalmi
-Beitzah 5:2; Mishnah Ohalos 8:5 with Rambam, the Rosh, the Rash of Shantz,
-Bartenura and Tiferes Yisrael; Mishnah Bava Kama 2:3; Mishnah Bava Basra 2:4;
-Berachos 19b.
+Rabbi Reuven Chaim Klein, "[Jumping for Passover: Part 1](https://articles.ohr.edu/articles/jumping-for-passover-part-1)," *What's in a Word?*, Ohr Somayach, 1 April 2017.
+
+Rabbi Reuven Chaim Klein, "[Jumping for Passover: Part 2](https://articles.ohr.edu/articles/jumping-for-passover-part-2)," *What's in a Word?*, Ohr Somayach, 8 April 2017.
+
+Cited in the essay: Rashi to Shemos 12:11, 12:13 and Yeshayahu 31:5; Shir HaShirim 2:8; Yerushalmi Beitzah 5:2 with the Vilna Gaon; Mishnah Ohalos 8:5 with Rambam, the Rosh, the Rash of Shantz, Bartenura and Tiferes Yisrael; Mishnah Bava Kama 2:3; Mishnah Bava Basra 2:4; Berachos 19b.

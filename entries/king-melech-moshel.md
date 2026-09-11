@@ -23,9 +23,7 @@ updated: 2026-09-10
 Both words name the same position of power; they differ in how the man got
 there. A *melech* is **king** by the people's willing acceptance. A *moshel* is
 a **ruler** who holds them by force or by proven superiority, accepted or not.
-The translator's trap is that English "ruler" and "king" are near-synonyms and
-will collapse the pair; where a pasuk sets them side by side, the second word
-is never mere repetition.
+Where a pasuk sets them side by side, the second word is never mere repetition.
 
 ## Distinctions
 
@@ -41,7 +39,7 @@ as even the most calculating king must keep conceding to his people so that
 they go on accepting him lovingly, so must a *chasan* act with patience and
 reliability so that his wife goes on wanting to remain his partner.
 
-This is also what the article uses to answer a question on the Gemara. Rosh
+This is also what the column uses to answer a question on the Gemara. Rosh
 Hashanah 16a has Hashem say, "Recite before Me verses of kingship so that you
 make Me *melech* over you," and the Gemara takes the recital not merely as our
 affirming His kingship but as making Him King; why should that be contingent on
@@ -75,7 +73,7 @@ holds the two equal in position and different only in origin.
   Aleinu: here the shift implies two roles, *melech* to Yisrael, who accept His
   sovereignty, and *moshel* to the nations, who do not, while Zechariah 14:9,
   *vehayah Hashem lemelech al kol ha'aretz*, has Him *melech* over the whole
-  world. The article resolves it by saying the answer must be that in time to
+  world. The column resolves it by saying the answer must be that in time to
   come, when all truth is revealed, everyone will recognize and accept, so that
   He will be *melech* universally and not *moshel*.
 - Rosh Hashanah 16a on Malchiyos works only on this distinction (see above).
@@ -95,9 +93,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Divine Dictator or Populist King?](https://articles.ohr.edu/articles/divine-dictator-or-populist-king)", What's in a
-Word?, Ohr Somayach, 9 Av 5776 (2016-08-13): raw text in
-`sources/whats-in-a-word/raw/6893-divine-dictator-or-populist-king.md`. Primary
-loci cited: Bereishis 37:8; Pirkei d'Rabbi Eliezer ch. 16; Shoftim 8:22; Rosh
-Hashanah 16a; Tehillim 22:29; Zechariah 14:9 (both quoted at the close of
-Aleinu).
+Rabbi Reuven Chaim Klein, "[Divine Dictator or Populist King?](https://articles.ohr.edu/articles/divine-dictator-or-populist-king)" *What's in a Word?*, Ohr Somayach, 13 August 2016.
+
+Cited in the essay: Bereishis 37:8; Pirkei d'Rabbi Eliezer ch. 16; Shoftim 8:22; Rosh Hashanah 16a; Tehillim 22:29; Zechariah 14:9; the Vilna Gaon; Rabbi Moshe Soloveitchik of Switzerland.

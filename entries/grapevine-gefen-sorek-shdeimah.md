@@ -39,8 +39,7 @@ is the disputed one: Rashi makes it a **grain field**, the grammarians a
 **vine**, Rabbi Shlomo Pappenheim simply rich, nourishing **ground**. *Sarig*
 is the **tendril**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists *gefen*,
 *sorek*, and *shdeimah* together as "grapevines", but the sources that treat
-each word separately do not let them collapse: keep the quality in *sorek* and
-keep *shdeimah* open. The column itself closes undecided, offering that perhaps
+each word separately do not let them collapse. The column itself closes undecided, offering that perhaps
 all these different explanations of *sorek* are somehow describing the same
 thing.
 
@@ -55,7 +54,7 @@ thing.
 
 ## Where the authorities disagree
 
-**What shdeimah means.** Four views, and the choice changes the translation of
+**What shdeimah means.** Four views, and the choice changes the meaning of
 Devarim 32:32 outright. **Grain field**: Rashi (to Devarim 32:32, Yeshayahu
 16:8, Chavakuk 3:17), consistently. **Grapevine, a true synonym of gefen**:
 Rabbeinu Bachaya (to Devarim 32:32), who reads the pasuk as deliberate doubled
@@ -66,10 +65,6 @@ poor field**: *Ohalei Yehuda* and *Shoresh Yesha*, a portmanteau of *sadeh*,
 field, and *mah*, what, seemingly invoking the shin and sin interchange, with
 mem interchanging with peh to link ש-ד-ם to ש-ד-פ, wind-blasted (Ibn Janach and
 Radak make a similar point at Yeshayahu 37:27, though not for every instance).
-The Bottom line keeps "field" by
-default, since Rashi is the plainest reading and Pappenheim also refuses the
-vine, and flags the synonym reading where a passage pairs *shdeimah* with
-*gefen*.
 
 **What sorek is.** Targum Yonasan (to Yeshayahu 5:2, Yirmiyahu 2:21), Ibn
 Janach and Radak: the choicest grapevine, and per Ibn Ghiyyat in Radak's name
@@ -81,8 +76,7 @@ Chofni Gaon (998 to 1034, to Bereishis 49:11), whom the column gives as an earli
 *softest* branches of the vineyard, which the column notes is the sense of
 *al-sarik* in Syrian Arabic (possibly the Sirac or Syrac grapes now known as
 Syrah or Shiraz). Ibn Saruk: simply *sarig*, a tendril. The column suggests
-that perhaps all these readings describe one thing from different angles; they
-are still not interchangeable in English.
+that perhaps all these readings describe one thing from different angles.
 
 **The root of gefen.** The early grammarians (Ibn Saruk, Ibn Janach, Radak)
 hold the triliteral ג-פ-נ; Pappenheim derives it from the biliteral ג-פ,
@@ -153,14 +147,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Through the Grapevine](https://articles.ohr.edu/articles/through-the-grapevine)," What's in a Word?, Ohr
-Somayach, 14 Teves 5782 (2021-12-18): raw text in
-`sources/whats-in-a-word/raw/9491-through-the-grapevine.md`. Primary loci
-cited: Bereishis 49:11 and 40:10 to 40:12; Devarim 32:32; Yeshayahu 5:2, 16:4,
-16:8, 37:27, 60:16; Yirmiyahu 2:21, 31:39; Chavakuk 3:17 (the article prints
-"Hab. 13:17" once; Chavakuk has only three perakim); Melachim II 23:4; Yoel
-1:7; Tehillim 32:4; Mishlei 9:3; Koheles 2:8; Bamidbar 11:8 and 21:15; Iyov
-40:17; Eichah 1:14; *Kilayim* 6:3 and 6:5, *Shevi'is* 1:3, *Sotah* 8:3, *Bava
-Basra* 2:7, *Bechoros* 4:8; Pesachim 107b to 108a; Kesubos 111b with Maharsha,
-Rivan, and *Shitah Mekubetzes*; *Ohel Moed*, *Machberes Menachem*, and the
-*Sifrei HaShorashim*.
+Rabbi Reuven Chaim Klein, "[Through the Grapevine](https://articles.ohr.edu/articles/through-the-grapevine)," *What's in a Word?*, Ohr Somayach, 18 December 2021.
+
+Cited in the essay: Bereishis 49:11 and 40:10 to 40:12; Devarim 32:32; Yeshayahu 5:2, 16:4, 16:8, 37:27, 60:16; Yirmiyahu 2:21, 31:39; Chavakuk 3:17; Melachim II 23:4; Yoel 1:7; Tehillim 32:4; Mishlei 9:3; Koheles 2:8; Bamidbar 11:8 and 21:15; Iyov 40:17; Eichah 1:14; *Kilayim* 6:3 and 6:5, *Shevi'is* 1:3, *Sotah* 8:3, *Bava Basra* 2:7, *Bechoros* 4:8; Pesachim 107b to 108a; Kesubos 111b with Maharsha, Rivan, and *Shitah Mekubetzes*; *Ohel Moed*, *Machberes Menachem*, and the *Sifrei HaShorashim*.

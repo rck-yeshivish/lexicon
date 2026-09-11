@@ -24,9 +24,9 @@ updated: 2026-09-10
 **shearing**, an animal's wool, and a cut that leaves something standing.
 *Galav* is a **barber** (or his razor), a *hapax legomenon* in Yechezkel 5:1.
 *Sapar* is not Biblical at all: it is the Targumic and Mishnaic word, "barber"
-and "to give a haircut," and it is the ordinary word today. The trap is that
-English "cut hair" covers all of them; the *metzora* and the Nazir are *giluach*
-and never *gizah*, and the difference is halachically load-bearing.
+and "to give a haircut," and it is the ordinary word today. The *metzora* and
+the Nazir are *giluach* and never *gizah*, and the difference is halachically
+load-bearing.
 
 ## Distinctions
 
@@ -152,20 +152,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Haircut Time](https://articles.ohr.edu/articles/haircut-time)," What's in a Word?, Ohr Somayach, 1
-Nissan 5782 (2022-04-02), https://articles.ohr.edu/articles/haircut-time; raw
-text in `sources/whats-in-a-word/raw/9642-haircut-time.md`. Primary loci:
-Vayikra 14:8 and 14:9; Bamidbar 6:9, 6:18 and 6:19; Rav Hirsch to Bereishis 9:21
-and Tehillim 74:6; Bereishis 41:14; Vayikra 21:5; Bereishis 38:12 and 31:19
-(in the *Yerios Shlomo* paragraph the article attaches Yehudah's shearing to
-31:19; Yehudah's is 38:12, while 31:19 is Lavan's, and the entry gives 38:12
-there); Devarim 18:4; Iyov 1:20; Tehillim 72:6; Yechezkel 5:1 with
-Radak, Rashi and Mahari Kara; Radak, *Sefer HaShorashim*; Bereishis Rabbah 41:2
-and 18:3; Yerushalmi Sotah 3:4; Targum Yonasan to Vayikra 19:27, Bamidbar 6:19,
-8:7, Yehoshua 5:2, Yirmiyahu 48:37; Bereishis Rabbah 31:8; Bamidbar 21:29,
-26:33, 27:1, 36:11; Yehoshua 15:6, 17:3, 18:19, 18:21; Bamidbar 6:5; Shoftim
-13:5; Mishnah Taanis 2:7 and 4:7, Sanhedrin 2:5, Avodah Zarah 2:2, Kilayim 9:3,
-Shevi'is 8:5, Shabbos 1:2, Pesachim 4:6, Moed Katan 3:2, Keilim 3:3, 13:1, 16:8
-and 24:5; Tosefta Beitzah 3:19; Beitzah 34a; Sotah 16a; Pappenheim, *Yerios
-Shlomo* and *Cheshek Shlomo*; Golumb, *Targumna*; Rabbi Eliyahu HaBachur,
-*Meturgaman*; *Sefer HaAruch*; Dr. Alexander Kohut and Dr. Chaim Tawil.
+Rabbi Reuven Chaim Klein, "[Haircut Time](https://articles.ohr.edu/articles/haircut-time)," *What's in a Word?*, Ohr Somayach, 2 April 2022.
+
+Cited in the essay: Vayikra 14:8 and 14:9; Bamidbar 6:9, 6:18 and 6:19; Rav Hirsch to Bereishis 9:21 and Tehillim 74:6; Bereishis 41:14; Vayikra 21:5; Bereishis 38:12 and 31:19; Devarim 18:4; Iyov 1:20; Tehillim 72:6; Yechezkel 5:1 with Radak, Rashi and Mahari Kara; Radak, *Sefer HaShorashim*; Bereishis Rabbah 41:2 and 18:3; Yerushalmi Sotah 3:4; Targum Yonasan to Vayikra 19:27, Bamidbar 6:19, 8:7, Yehoshua 5:2, Yirmiyahu 48:37; Bereishis Rabbah 31:8; Bamidbar 21:29, 26:33, 27:1, 36:11; Yehoshua 15:6, 17:3, 18:19, 18:21; Bamidbar 6:5; Shoftim 13:5; Mishnah Taanis 2:7 and 4:7, Sanhedrin 2:5, Avodah Zarah 2:2, Kilayim 9:3, Shevi'is 8:5, Shabbos 1:2, Pesachim 4:6, Moed Katan 3:2, Keilim 3:3, 13:1, 16:8 and 24:5; Tosefta Beitzah 3:19; Beitzah 34a; Sotah 16a; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Golumb, *Targumna*; Rabbi Eliyahu HaBachur, *Meturgaman*; *Sefer HaAruch*; Dr. Alexander Kohut and Dr. Chaim Tawil.

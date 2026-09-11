@@ -24,8 +24,7 @@ hardness of substance at all but hardness of heart toward those one should love:
 **cruel, callous**. *Perech* literally breaks, so *avodas perech* is
 **back-breaking** labor, or, on a second line of reading, **pointless** labor,
 work with no end and no product. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the
-three as the Hebrew words for hard; do not render all three "hard," since only
-*kashah* is about hardness itself.
+three as the Hebrew words for hard; only *kashah* is about hardness itself.
 
 ## Distinctions
 
@@ -120,7 +119,7 @@ sets out from there to explore the differences anyway.
   halachah in Vayikra 25:43 turns on which one it is.
 - *Mikshah*: "hammered work," or "beaten from a single block," not "hard work."
 - Trap: English "hard" will take *kashah* and *perech* together, and English
-  "hard-hearted" will take *kashah* and *kashiach* together. The article reads
+  "hard-hearted" will take *kashah* and *kashiach* together. The column reads
   the Haggadah's equation of *avodah kashah* with *perech*, and Onkelos's
   *kashyu*, as suggesting the two are roughly equivalent, and then works through
   their differences all the same; in translation keep them apart wherever the
@@ -132,13 +131,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Shemot: Hard Work and Hard Hearts](https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts)," What's in a Word?,
-Ohr Somayach, 25 Teves 5781 (2021-01-09):
-https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts; raw text in
-`sources/whats-in-a-word/raw/9005-shemot-hard-work-and-hard-hearts.md`. Primary
-loci: Shemos 1:13-14, 6:9, 7:3, 25:31 with Rashi, 26:31, 37:22; Bamidbar 8:4;
-Vayikra 25:43 with *Toras Kohanim*, 25:53; Iyov 39:16 with Ibn Ezra; Yeshayahu
-63:17 with *Michlal Yofi* and *Metzudas Tzion*; *Chullin* 46b; Tosafos to *Sukkah*
-29b; Targum Onkelos to Shemos 1:13-14 and Vayikra 25:53; Radak, *Sefer
-HaShorashim*; *Ohel Moed* of Rabbi Shlomo of Urbino, a student of Rabbi Ovadia of
-Bartenura. Rabbi Yaakov Tzvi Mecklenburg writes in *HaKesav VeHaKabbalah*.
+Rabbi Reuven Chaim Klein, "[Shemot: Hard Work and Hard Hearts](https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts)," *What's in a Word?*, Ohr Somayach, 9 January 2021.
+
+Cited in the essay: Shemos 1:13-14, 6:9, 7:3, 25:31 with Rashi, 26:31, 37:22; Bamidbar 8:4; Vayikra 25:43 with *Toras Kohanim*, 25:53; Iyov 39:16 with Ibn Ezra; Yeshayahu 63:17 with *Michlal Yofi* and *Metzudas Tzion*; *Chullin* 46b; Tosafos to *Sukkah* 29b; Targum Onkelos to Shemos 1:13-14 and Vayikra 25:53; Radak, *Sefer HaShorashim*; *Ohel Moed* of Rabbi Shlomo of Urbino; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*.

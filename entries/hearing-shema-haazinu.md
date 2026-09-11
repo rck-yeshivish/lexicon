@@ -19,10 +19,9 @@ updated: 2026-09-10
 listening. *Shema* is **hear** in the fuller sense, taking in what is said and
 understanding it (Malbim), or hearkening in answer to a call (Rokeach). On
 distance, the Sifrei has *haazinu* for what is near and *shema* for what is far;
-Chizkuni, Abarbanel and Rabbi Yitzchak Arama hold the reverse. The trap: English
-"hear" and "listen" are used loosely, but Devarim 32:1 and Yeshayahu 1:2 assign
-the two Hebrew verbs to heaven and earth in opposite order, and any translation
-that does not keep them apart destroys the question the meforshim are answering.
+Chizkuni, Abarbanel and Rabbi Yitzchak Arama hold the reverse. Devarim 32:1 and
+Yeshayahu 1:2 assign the two Hebrew verbs to heaven and earth in opposite order,
+and that reversal is the question the meforshim are answering.
 
 ## Distinctions
 
@@ -80,7 +79,7 @@ true synonyms in lashon hakodesh and therefore must distinguish them.
   which is the reverse of the Hebrew. Resist the instinct: *haazinu* is the ear,
   *shema* is the mind.
 - Where *shema* means to obey (*shamoa tishme'u*), render "hearken" or "obey"
-  and note the shift. (This bullet is ours; the article does not treat the
+  and note the shift. (This bullet is ours; the column does not treat the
   obedience sense.)
 - If a passage follows Chizkuni, Abarbanel or Rabbi Yitzchak Arama rather than
   the Sifrei, say which view the rendering assumes rather than choosing silently;
@@ -93,9 +92,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Listen Up!](https://articles.ohr.edu/articles/listen-up)", What's in a Word?, Ohr Somayach, 10
-Tammuz 5776 (2016-07-16); raw text at
-`sources/whats-in-a-word/raw/6850-listen-up.md`. Primary loci cited: Devarim 32:1
-and 6:4; Yeshayahu 1:2; Bamidbar 12:8; *Sifrei* to parashas Haazinu; Chizkuni,
-Abarbanel and Rabbi Yitzchak Arama, whom the article names without giving a
-locus; Malbim; Rokeach, in two places.
+Rabbi Reuven Chaim Klein, "[Listen Up!](https://articles.ohr.edu/articles/listen-up)" *What's in a Word?*, Ohr Somayach, 16 July 2016.
+
+Cited in the essay: Devarim 32:1 and 6:4; Yeshayahu 1:2; Bamidbar 12:8; *Sifrei* to parashas Haazinu; some of the Baalei HaTosafos; Chizkuni, Abarbanel and Rabbi Yitzchak Arama; Malbim; Rokeach.

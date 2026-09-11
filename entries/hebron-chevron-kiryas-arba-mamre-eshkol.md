@@ -39,8 +39,7 @@ whether *arba* is the number, "City of Four," or the personal name of the giants
 father, "City of Arba"; Rashi holds each way in a different place, and the column
 records a third view, that the name is not Semitic at all and never meant either.
 **Mamre** and **Eshkol** are the names of Avraham's two allies, and the Torah
-uses both of the place as well. Do not translate Kiryas Arba in a running text;
-give the name and let a note carry the "four."
+uses both of the place as well.
 
 ## At a glance
 
@@ -83,8 +82,7 @@ above. Rashi (to Bereishis 35:27) *partially* circumvents the problem: in a
 two-word name the article sometimes attaches to the second word while governing
 the compound. Radak (there) also seems to address it: the city carries the name
 for both reasons at once, for Arba the father of the giants and because four
-giants ruled it, so the numeric sense is present and the article is in order. The
-Bottom line keeps the readings live, as Rashi himself does.
+giants ruled it, so the numeric sense is present and the article is in order.
 
 **Who Arba was.** Rashi: the giants' father. Rabbi Dr. Moshe Zidel (d. 1971)
 *speculates* otherwise. Targum Yonasan (to Devarim 1:28) renders "sons of giants"
@@ -102,8 +100,7 @@ bet with peh, so that Kiryas Arba and Chevron would both be ways of tying the
 city to Ephron. Against this, *Tosefta d'Targum* and the *Peshitta* to Yehoshua
 15:13-14 and 21:11 explicitly make Arba into Tzochar, Ephron's father, with the
 three giants as Ephron's sons; see also Rabbi Chaim Kanievsky, *Taama d'Kra* to
-Bereishis 23:8. The Bottom line follows Rashi's plain identification and records
-Zidel's as the speculation the column calls it.
+Bereishis 23:8.
 
 **What Mamre is.** From Bereishis 13:18 it reads as though the Plains of Mamre
 are *in* Chevron rather than another name for it, while Bereishis 23:19 and 35:27
@@ -175,14 +172,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[The City of Four](https://articles.ohr.edu/articles/the-city-of-four)," What's in a Word?, Ohr Somayach,
-24 Cheshvan 5782 (2021-10-30): raw text in
-`sources/whats-in-a-word/raw/9416-the-city-of-four.md`. Primary loci the article
-cites: Bereishis 13:18, 14:13, 14:24, 23:2, 23:8, 23:19, 25:9, 35:27, 37:14,
-49:29-30, 50:13; Shemos 6:18; Bamidbar 3:19, 13:22-24, 23:10; Devarim 1:28;
-Yehoshua 10:3, 14:15, 15:13-14, 20:7, 21:11; Shoftim 1:10; Divrei HaYamim I 5:28,
-6:3, 23:12; *Bereishis Rabbah* 58:4 and 88:13; Targum Yonasan to Devarim 1:28;
-*Tosefta d'Targum* to Yehoshua 15:13-14 and 21:11; Rabbi Chaim Kanievsky, *Taama
-d'Kra* to Bereishis 23:8; *Peshitta* to Yehoshua 15:13-14 and 21:11. The article
-prints Yehoshua 14:5 in its opening list of cross-identifications; the pasuk that
-identifies Kiryas Arba with Chevron is 14:15.
+Rabbi Reuven Chaim Klein, "[The City of Four](https://articles.ohr.edu/articles/the-city-of-four)," *What's in a Word?*, Ohr Somayach, 30 October 2021.
+
+Cited in the essay: Bereishis 13:18, 14:13, 14:24, 23:2, 23:8, 23:19, 25:9, 35:27, 37:14, 49:29-30, 50:13; Shemos 6:18; Bamidbar 3:19, 13:22-24, 23:10; Devarim 1:28; Yehoshua 10:3, 14:15, 15:13-14, 20:7, 21:11; Shoftim 1:10; Divrei HaYamim I 5:28, 6:3, 23:12; *Bereishis Rabbah* 58:4 and 88:13; Targum Yonasan to Devarim 1:28; *Tosefta d'Targum* to Yehoshua 15:13-14 and 21:11; Rabbi Chaim Kanievsky, *Taama d'Kra* to Bereishis 23:8; *Peshitta* to Yehoshua 15:13-14 and 21:11.

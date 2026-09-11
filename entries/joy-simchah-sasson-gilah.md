@@ -21,9 +21,8 @@ for the Vilna Gaon it is the joy attained at the end, where *simchah* begins the
 pursuit. *Gilah* is a burst of joy that does not last (Malbim), or the joy of
 recalling past joys (Gra): **exultation, a burst of joy**. *Rinah* is joy that breaks
 into song of Hashem's praise: **joyous song**. *Ditzah* and *chedvah* are the
-Aramaic words for joy: **mirth, delight**. The one thing not to get wrong: both
-ששון ושמחה and שמחה וששון are scriptural and Chazal darshen the order (Sukkah 48b),
-so keep the Hebrew order and give each word its own English; never a single "joy."
+Aramaic words for joy: **mirth, delight**. Both
+ששון ושמחה and שמחה וששון are scriptural, and Chazal darshen the order (Sukkah 48b).
 
 ## Distinctions
 
@@ -41,8 +40,7 @@ to show he is glad, festive clothes, music at a celebration; its antonyms are
 Vilna Gaon: the realization of happiness, the end of the process; in the days of
 Mashiach the ecstasy will *begin* with *sasson* and open onto further *simchah*
 according to one's merits, which is why the pasuk of the redemption, ששון ושמחה
-ישיגו (the Gemara's proof-text; the article cites it as Shmuel I 14:45, though the
-words are Yeshayahu 35:10), puts *sasson* first, while Esther 8:16 puts *simchah*
+ישיגו (Yeshayahu 35:10, the Gemara's proof-text), puts *sasson* first, while Esther 8:16 puts *simchah*
 first; on his reading each is superior in its own context, which is why the
 order varies. The column's own resolution of the Gemara's contest (Sukkah 48b),
 on Malbim's terms, is that it seems both are right and the dispute reflects a
@@ -71,7 +69,7 @@ couple.
 - The wedding berachah's list, ששון ושמחה... גילה רינה דיצה וחדוה: give each its own
   English (rejoicing, gladness, exultation, song, mirth, delight); a translator who
   writes "joy, joy, joy" has erased the berachah.
-- Standalone שמחה: "joy" or "gladness." Avoid "happiness" in a sefer; it reads
+- Standalone שמחה: "joy" or "gladness." Avoid "happiness"; it reads
   modern and flattens the inner/outer split.
 - גיל / גילה standing alone: "exultation" or "a burst of joy"; beside שמחה, let it
   be the sharper, shorter word.
@@ -88,11 +86,6 @@ None yet.
 
 ## Sources
 
-Rabbi Reuven Chaim Klein, "[Subtleties of Simcha and Sasson](https://articles.ohr.edu/articles/subtleties-of-simcha-and-sasson)," What's in a Word?,
-Ohr Somayach, 3 Tammuz 5776 (2016-07-09): raw text in
-`sources/whats-in-a-word/raw/6839-subtleties-of-simcha-and-sasson.md`. Primary
-loci the article cites: Sukkah 48b (the contest of Simchah and Sasson); Esther
-8:16; the redemption pasuk ששון ושמחה ישיגו (given in the article as Shmuel I
-14:45; it is Yeshayahu 35:10); Malbim's synonym notes on *simchah*, *sasson*,
-*gilah* and their antonyms; the Vilna Gaon on *simchah* and *sasson*; Bereishis
-Rabbah 63:1; Machzor Vitry on the wedding berachos.
+Rabbi Reuven Chaim Klein, "[Subtleties of Simcha and Sasson](https://articles.ohr.edu/articles/subtleties-of-simcha-and-sasson)," *What's in a Word?*, Ohr Somayach, 9 July 2016.
+
+Cited in the essay: Sukkah 48b; Esther 8:16; Yeshayahu 35:10; Malbim's synonym notes on *simchah*, *sasson*, *gilah* and their antonyms; the Vilna Gaon on *simchah* and *sasson*; Bereishis Rabbah 63:1; Machzor Vitry on the wedding berachos.
