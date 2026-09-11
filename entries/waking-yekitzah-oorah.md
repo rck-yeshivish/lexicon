@@ -15,14 +15,14 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Yekitzah* is **waking up**; *oorah* is **rousing** or **stirring**. How they differ is disputed, and the column gives three views. Rabbi Shlomo Pappenheim:
+*Yekitzah* is **waking up**; *oorah* is **rousing** or **stirring**. How they differ is disputed; there are three views. Rabbi Shlomo Pappenheim:
 *yekitzah* is sudden and complete, asleep one moment and awake the next, while
 *oorah* is gradual and includes the half-asleep state (so "my heart is awake,"
 Shir HaShirim 5:2). Rabbi Yechezkel Pannet seems to suggest that *orer* suits
 waking from deep sleep and *yekitzah* waking one who merely dozed off. Malbim:
 two stages of one process, *oorah* first (coming to one's senses), then
 *yekitzah* (getting up and staying awake); and in Chavakuk 2:19 *yekitzah* is
-the more responsive waking, *oorah* the most basic. The column adds its own
+the more responsive waking, *oorah* the most basic. Rabbi Klein adds his own
 suggestion that *yekitzah* is the end of a dream or other false impression,
 since most of its Biblical occurrences follow a dream or drunkenness.
 
@@ -33,7 +33,7 @@ The triliteralists, Ibn Chayyuj, Ibn Janach and Radak, take it from the
 triliteral י-ק-צ, "wake up." Menachem Ibn Saruk (*Machberes Menachem*) instead
 files it under the biliteral ק-צ, which also carries border, summer, pressure,
 disgust, cutting and thorn; he does not intimate how these connect to waking,
-but, the column says, some connections can be gleaned from other
+but some connections can be gleaned from other
 commentators.
 
 Rav Hirsch (to Bereishis 9:24) ties *yekitzah* to *kutz* (harvest, cut off) and
@@ -55,7 +55,7 @@ moment and awake the next, with no half-and-half in between.
 Rabbi Aharon Marcus (1843 to 1916) offers a relatively straightforward
 explanation: *yekitzah* is the *keitz*, the end, of one's sleep.
 
-The column offers an alternative of its own: "we may explain" that *yekitzah*
+Rabbi Klein offers an alternative of his own: "we may explain" that *yekitzah*
 is the end of a dream or other false impression of reality, since most times
 its cognates appear in Tanach they concern waking from a sleep with dreams
 (Bereishis 28:16, 41:4, 41:7; Melachim I 3:15; Tehillim 73:20; Yeshayahu 29:8)
@@ -68,16 +68,16 @@ Yesha* relates all derivatives of ע-ו-ר to revealing and exposing: *ohr* (ski
 is the part of the body left exposed, *ervah* is the exposing of what should be
 covered, and a sleeper, eyes shut, has nothing revealed to him, so waking is
 *oorah*, an entire world now revealed to him. A blind
-man is an *iver* because he sleeps a permanent sleep, or (a second suggestion
-there) because a layer of skin sits over his eyes. Pappenheim works the same
+man is an *iver* because it is as though he sleeps a permanent sleep, or (a second suggestion
+there) because it is as though a layer of skin sits over his eyes. Pappenheim works the same
 biliteral ע-ר and reaches "revealing" too, but applies it differently: the
-sleeper's powers are hidden, he lies inert and motionless, and waking reveals
+sleeper's powers are hidden, he appears inert and motionless, and waking reveals
 them; on that basis he explains *noer*, a lion's roar, as an outburst that
 reveals what was in him.
 
 Pappenheim contrasts it with *yekitzah*: *oorah* is the more gradual waking, a
 man slowly passing from asleep to awake through an intermediate stage of
-dozing. He grounds it in
+dozing. The concept is alluded to in
 *ani yesheinah v'libi er*, "I am asleep but my heart is awake" (Shir HaShirim
 5:2): a man can be in *oorah* while he is still, technically, asleep.
 
@@ -90,7 +90,7 @@ Aramaic collapses the pair; *vayikatz* becomes *v'isar*, the Aramaic TAV
 standing in for the Hebrew YOD as the reflexive. The Gemara's term for one
 half-asleep is *nim v'lo nim, tir v'lo tir*, "asleep and not asleep, awake and
 not awake" (*Pesachim* 120b; *Taanis* 12b). Rashi (to *Taanis* 12b, and see
-Rashi to *Bava Kama* 117b) derives *tir* from the Targumic *v'isar* (as though, the column notes, the tav were part of the root) and reads it as a sleeper on
+Rashi to *Bava Kama* 117b) derives *tir* from the Targumic *v'isar* (as though, Rabbi Klein notes, the tav were part of the root) and reads it as a sleeper on
 the edge of waking; Tosafos (to *Taanis* 12b, and see Tosafos to *Niddah* 63a)
 explain it the other way, the wakefulness of one about to fall asleep.
 
@@ -104,8 +104,8 @@ process: *oorah* first, coming to one's senses, then *yekitzah*, actually
 getting up from bed and remaining fully awake.
 Malbim also reads Chavakuk 2:19 by the sentience of the object: the navi says
 *hakitzah* to a wooden idol and *uri* to a stone one, because on the scale of
-*domem*, *tzomeach*, *chai* and *medaber* (from "Kabbalistic and philosophical
-traditions," the column says), wood ranks above stone, and
+*domem*, *tzomeach*, *chai* and *medaber* (from Kabbalistic and philosophical
+traditions), wood ranks above stone, and
 *yekitzah* is the more responsive wakefulness while *oorah* is the most basic.
 
 ## Rendering guidance

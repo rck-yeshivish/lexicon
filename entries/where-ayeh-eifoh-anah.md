@@ -38,7 +38,7 @@ cognates *ey*, *ayekah*) is **where is**, and for Shapira-Frankfurter, followed
 by Rabbi Yaakov Tzvi Mecklenburg, it carries a further charge: the searcher
 expected the thing to be here and is surprised it is not. Rabbi Shlomo Aharon
 Wertheimer and Rabbi Shlomo Pappenheim instead set the two apart by how vague
-the question is, which the column presents as one view. *Anah* is **to where**,
+the question is. *Anah* is **to where**,
 a question of destination, not of present place (Pappenheim), and with a
 prefixed mem, *me'ayin*, it flips to **from where**, a question of origin. Where a pasuk turns on *ayeh*, on Shapira-Frankfurter's
 reading the surprise at an absence is inside the word.
@@ -50,19 +50,16 @@ reading the surprise at an absence is inside the word.
 | איה / אי | ayeh / ey | where is | present location; a searcher surprised at an absence (Shapira-Frankfurter, Mecklenburg) |
 | איפה | eifoh | where | "which here" (Rashi); the ordinary question; also "now" and "what, who" |
 | אנה / אן | anah / an | to where | destination, not location (Pappenheim); temporally, "until when" |
-| מאין | me'ayin | from where | origin; a prefixed mem tends to flip a root's meaning (the column) |
+| מאין | me'ayin | from where | origin; a prefixed mem tends to flip a root's meaning (Rabbi Klein) |
 
 ## Where the authorities disagree
 
 **Which of ayeh and eifoh is the vaguer question.** Rabbi Shlomo Aharon
 Wertheimer (1866 to 1935): *ayeh* is the general question, used when one has no
 inkling at all where the thing is, while *eifo* is used when one has a general
-sense of the place and is asking exactly where. Rabbi Shlomo Pappenheim, the
-column says, similarly understands *eifoh* as a vaguer question about location
-than *ey*/*ayeh*, whose root queries a specific location. The column presents
-the two as agreeing. Taken at face value, though, Wertheimer's *ayeh* is the
-question of one with no inkling, while Pappenheim's *ayeh* is the more specific;
-that tension is our observation, not the column's.
+sense of the place and is asking exactly where. Rabbi Shlomo Pappenheim
+similarly understands *eifoh* as a vaguer question about location
+than *ey*/*ayeh*, whose root queries a specific location.
 
 **What ayeh adds beyond location.** Along these lines, Rabbi Yehuda Leib
 Shapira-Frankfurter (1743 to 1826), Rav Hirsch's great uncle, writes in
@@ -95,16 +92,16 @@ Rabbi Pappenheim (1740 to 1814): the root is א-י, a query about a specific
 location. From it he derives *ee*, an island, which is literally "where is
 it?", since water on every side leaves no landmark by which to find it.
 Rabbi Wertheimer notes that besides "where," *ey* sometimes questions whether
-or how a thing actually exists, and can also mean "which." The column's
-examples are *ayeh* (Bereishis 18:9), its cognate *ayekah* (Bereishis 3:9) and
+or how a thing actually exists, and can also mean "which." Examples
+are *ayeh* (Bereishis 18:9), its cognate *ayekah* (Bereishis 3:9) and
 *ey* (Bereishis 4:9, to Kayin about Hevel).
 
 ### eifoh (איפה)
 Rashi to Iyov 38:4: a compound of *ey*, "which," and *poh*, "here," so that the
 question is literally "which here?" The Aramaic *heicha* and *heichan* are built
 the same way, from *hei*, "which," and *ka* or *kan*, "here." English "where"
-is somewhat reminiscent, as if *w* for "which" plus "here," but the column
-notes that linguists trace the English word differently.
+is somewhat reminiscent, as if *w* for "which" plus "here," but
+linguists trace the English word differently.
 
 ### an, anah, le'an (אן, אנה, לאן)
 *An* (Shmuel I 10:14; Iyov 8:2), with its more common derivatives *anah* in
@@ -113,12 +110,12 @@ where *ayeh* and *eifoh* ask after a thing's current location, this root asks
 after its destination, "to where." He derives *aniyah*, a ship, from it: a
 ship does not run straight to its port but is pushed about by the water, so its
 destination cannot be read off its course, and the word for it is the question
-itself. The column adds, from its own paradigm of the interrelation of time and
+itself. Rabbi Klein adds, from his own paradigm of the interrelation of time and
 space in Hebrew, that *anah* is borrowed from the spatial to the temporal to
 ask after a target time, "until when" (Bamidbar 14:11).
 
 ### me'ayin (מאין)
-The column has noted before that a mem added to a root tends to flip its
+Rabbi Klein has noted before that a mem added to a root tends to flip its
 meaning, so this root's destination question becomes one of origin: "from
 where" (Bereishis 29:4; Bamidbar 11:13; Tehillim 121:1).
 

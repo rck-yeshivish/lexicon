@@ -20,15 +20,15 @@ updated: 2026-09-10
 
 ## Bottom line
 
-*Neder*, which the column reports is commonly translated "promise," works on an
+*Neder*, commonly translated "promise," works on an
 **object**, giving it a forbidden status on the
 model of hekdesh. *Shevuah* is an **oath**: it works on the **person**, binding
 him to do or not do, and it generally invokes Hashem's name. They are not two
 grades of one thing: the Gemara (Nedarim 2b) understands them as two different
 types of verbal expression, each dealt with on its own terms, and the Mishnah
-gives each its own masechta in a different seder. A *nedavah* is, per the column, a type of *neder*: one statement that undertakes a korban (sometimes
-only implicitly) and designates the specific animal; "freewill offering" is the usual English, not the column's. The common English
-"promise" and "oath," the column says, imply the two are basically synonymous, a
+gives each its own masechta in a different seder. A *nedavah* is a type of *neder*: one statement that undertakes a korban (sometimes
+only implicitly) and designates the specific animal. The common English
+"promise" and "oath," Rabbi Klein says, imply the two are basically synonymous, a
 *shevuah* being a more serious *neder*.
 
 ## Distinctions
@@ -61,7 +61,7 @@ his claim and one on a subpoenaed witness who says he has nothing to testify.
 Every valid *shevuah* must be kept or must be true.
 
 There is also a forbidden kind, outlawed by the third of the Aseres HaDibros,
-which forbids taking Hashem's name in vain; the column gives four types of vain oath: swearing to what is plainly false
+which forbids taking Hashem's name in vain and refers to four types of vain oath: swearing to what is plainly false
 (that a marble pillar is gold), swearing to what is self-evident (that the
 heavens are the heavens), swearing to transgress (that he will not put on
 tefillin), and swearing to the impossible (that he will not sleep for three
@@ -73,8 +73,8 @@ of utterance the Torah identifies as binding when it exhorts a man to keep his
 word (Bamidbar 30:3). The difference is
 where each lands: the *neder* on a specific object, forbidding it or benefit
 from it; the *shevuah* on the person, obligating him to an act or its
-avoidance. Shlomo HaMelech's "death and life are in the power of the tongue"
-(Mishlei 18:21), which the column brings to show the importance granted to
+avoidance. Rabbi Klein brings Shlomo HaMelech's "death and life are in the power of the tongue"
+(Mishlei 18:21) to show the importance granted to
 speech, given that words can create these legal realities. Because of that
 gravity it is customary to annul all *nedarim* and *shevuos* on the eve of Rosh
 Hashanah and Yom Kippur, to save people from violating their own words.

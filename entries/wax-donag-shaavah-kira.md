@@ -34,8 +34,8 @@ updated: 2026-09-10
 
 *Donag* is the Biblical word for **wax**, and it always appears as the substance
 that melts in fire; its name is tied to wax's pliability (Rav Hirsch), to its
-giving light (Rabbi Yehoshua Steinberg), or to its translucence (Avraham
-Even-Shoshan), and Rabbi Dr. Ernest Klein calls it of uncertain etymology.
+giving light (Rabbi Yehoshua Steinberg), or to Akkadian *dumqu*, "clear" or
+"shiny" (Avraham Even-Shoshan), and Rabbi Dr. Ernest Klein calls it of uncertain etymology.
 *Shaavah* is the Mishnaic and Targumic word for the same substance: **beeswax**,
 or **candle wax** in a halachic context. The Gemara defines it as the refuse of
 honey, and its name seems to come from SHIN-AYIN, "smooth," for the texture of
@@ -48,7 +48,7 @@ generally a **spice**; some make it wax, following the Midrash.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | דונג | donag | wax | Biblical only; wax as what melts in fire; pliable like an ear lobe (Rav Hirsch), *dei-nogah*, "enough light" (Steinberg), or Akkadian *dumqu*, "shiny" (Even-Shoshan) |
-| שעוה | shaavah | beeswax, candle wax | Mishnaic and Targumic; *pesulta d'duvsha*, the refuse of honey (Shabbos 20b); seemingly root SHIN-AYIN, "smooth" (the column) |
+| שעוה | shaavah | beeswax, candle wax | Mishnaic and Targumic; *pesulta d'duvsha*, the refuse of honey (Shabbos 20b); seemingly root SHIN-AYIN, "smooth" (Rabbi Reuven Chaim Klein) |
 | קירא | kira | wax | a loan-word from Greek *keros* / Latin *cera*, not native (the Gemara's *keirosa*, *kiri*) |
 | נכאת | nechot | spice (Midrash: wax) | a caravan good in Bereishis 37:25 and 43:11; wax per Bereishis Rabbah 91:11 and Targum Yonasan and Neofiti |
 
@@ -68,19 +68,19 @@ editions of Onkelos (Bereishis 37:25, 43:11) read *shaaf*, which apparently
 means "smear" (see Chullin 111b). Ramban (to Shemos 30:34) takes Onkelos's
 rendering to mean olive oil. The Vilna Gaon's son, Rabbi Avraham Vilner, reads
 the word as *saaf* and connects it to *seif*, "branch" (Yechezkel 31:8).
-Despite all this, the column validates Rashi's citation through Rabbi Yosef
+Despite all this, Rabbi Reuven Chaim Klein validates Rashi's citation through Rabbi Yosef
 Teomim-Frankel (1727 to 1792), who suggests in *Iggros Pri Megadim* that *shaaf*
-is just a variant of *shaavah*, presumably, the column adds, because PEH and VAV are phonetically close and can interchange.
+is just a variant of *shaavah*, presumably, Rabbi Reuven Chaim Klein adds, because PEH and VAV are phonetically close and can interchange.
 
 **Where *donag* comes from.** Rav Hirsch (to Shemos 29:20) connects it to
 *tenuch*, the ear lobe, ostensibly invoking the interchange of DALET with TAV
 and GIMMEL with KAF; wax, he explains, is malleable and pliable, as the fatty
 ear lobe is. Rabbi Yehoshua Steinberg (*Shorashei Leshon HaKodesh*, Warsaw
 1897) reads it as a compound of *dei* and *nogah*, "enough light," an allusion
-to wax's use in candles. More scholarly-oriented etymologists, the column says,
+to wax's use in candles. More scholarly-oriented etymologists
 are at a loss: the prominent linguist Avraham Even-Shoshan (1906 to 1984)
 suggests in his dictionary that it derives from Akkadian *dumqu*, "clear" or
-"shiny," which the column takes as a reference to wax's translucence; Rabbi
+"shiny," which Rabbi Reuven Chaim Klein takes as a reference to wax's translucence; Rabbi
 Dr. Ernest Klein (1899 to 1983) concludes that it is of uncertain etymology,
 mentioning Even-Shoshan's theory as just a possibility, and cites Dr. Heinrich
 Leberecht Fleischer (1801 to 1888), who compares Arabic *danj*, "the remainder of the honeycombs."
@@ -91,7 +91,7 @@ Leberecht Fleischer (1801 to 1888), who compares Arabic *danj*, "the remainder o
 Four times in Tanach: Michah 1:4, Tehillim 22:15, 68:3, 97:5. In every one it is
 wax as the thing that easily melts in fire, so the word carries an image of
 dissolving before heat. It is absent from Mishnah and Gemara, except as the
-name of a woman in Rav Nachman's household, Donag (Kiddushin 70a). The column's summary:
+name of a woman in Rav Nachman's household, Donag (Kiddushin 70a). Rabbi Reuven Chaim Klein's summary:
 *donag* focuses on either wax's malleability, its role in bringing light, or
 its translucent appearance.
 
@@ -121,11 +121,11 @@ loan-words from Latin *cera* and/or Greek *keros*.
 ### nechot (נכאת)
 A trade good in the Yishmaeli caravan (Bereishis 37:25) and among the gifts
 Yaakov sends to the viceroy (43:11). Generally a spice, often identified as
-ladanum; Ibn Janach: carobs. According to some commentators it is another
+ladanum; Ibn Janach: carobs. According to some commentators it may be another
 Biblical word for wax: the Midrash, Targum Yonasan and Targum Neofiti, and
-Onkelos as Rashi cites him. Professor Zohar Amar's observation that *me'at
-dvash* precedes it in 43:11 is offered as what may have led to the beeswax
-reading, not as proof of it.
+Onkelos as Rashi cites him. Professor Zohar Amar observes that *me'at
+dvash* precedes it in 43:11, which may have led to the beeswax
+reading.
 
 ## Rendering guidance
 

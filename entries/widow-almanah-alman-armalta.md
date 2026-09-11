@@ -38,7 +38,7 @@ updated: 2026-09-10
 ## Bottom line
 
 *Almanah* is **widow**, *alman* **widower**, *almenus* **widowhood**. The
-Aramaic *armalta* is, as the column argues from the fluidity of such consonants
+Aramaic *armalta* is, as Rabbi Reuven Chaim Klein argues from the fluidity of such consonants
 and the Semitic cognates, not a synonym but the same word in Aramaic. In Kesubos 1:2 *almanah* covers any
 previously married woman, divorced as well as widowed, though even in Rabbinic
 Hebrew it usually means widow.
@@ -56,7 +56,7 @@ hall, and Ibn Ezra and Ibn Kaspi read **palaces emptied** of their dwellers.
 | אלמנה | almanah | widow | from *ilem*, mute: no one left to argue for her (Ibn Janach); in the Mishnah also any formerly married woman |
 | אלמן | alman | widower | once in Tanach (Yirmiyahu 51:5); the masculine that any etymology must also explain (Chasam Sofer) |
 | אלמנות | almenus | widowhood | the state, four occurrences; masculine *almon* once (Yeshayahu 47:9) |
-| ארמלתא | armalta | widow | Aramaic; standard in Targum and both Talmuds; the same word, not a second one (the column) |
+| ארמלתא | armalta | widow | Aramaic; standard in Targum and both Talmuds; the same word, not a second one (Rabbi Reuven Chaim Klein) |
 | כרמלית | karmelis | intermediate domain | *k'armelis*, "like a widow," in between (Rambam to Shabbos 1:1) |
 
 ## Where the authorities disagree
@@ -64,7 +64,7 @@ hall, and Ibn Ezra and Ibn Kaspi read **palaces emptied** of their dwellers.
 **Where almanah comes from.** On the surface the word is quadriliteral,
 א-ל-מ-נ, with a feminine hei; four-letter roots are rare, and many grammarians
 argue that words with ostensibly four- or five-letter roots are often loanwords.
-The column's readings:
+The readings:
 
 1. **From א-ל-ם, muteness.** Ibn Janach (*Sefer HaShorashim*): the widow is left
    muted, with nobody to argue for her if anyone fights with her, and the nun is
@@ -86,7 +86,7 @@ The column's readings:
    reading is homiletic, since on the literal plane there is no basis for
    expounding Biblical nouns so; he illustrates it ironically, that one cannot
    derive *lechem* from *milchamah* and rule that a man may not eat bread until
-   he has fought over it (though, the column notes, some exegetes have offered
+   he has fought over it (though some exegetes have offered
    comparable explanations of *lechem*).
 4. **From "deserted."** Rabbi Shlomo Eiger (*Gilyon Maharsha* to Kesubos 2a),
    the Chasam Sofer's brother-in-law, inverts the discussion of *almenos* in
@@ -131,7 +131,7 @@ One group, Targum Yonasan, Rabbi Saadia Gaon, Rabbi Yehuda Ibn Balaam, Rashi,
 Mahari Kara, Ibn Parchon, and Radak, reads it as *armenos*, castles or palaces,
 on the interchange of lamed and reish; see also Abarbanel and Malbim, who
 relate it to *ulam*, a hall. Ibn Ezra and Ibn Kaspi reject that, contending
-(bizarrely, in the column's word) that lamed and reish do not interchange, and
+(bizarrely, in Rabbi Reuven Chaim Klein's word) that lamed and reish do not interchange, and
 read *almenos* as palaces emptied of their dwellers; so too Yerushalayim after
 the destruction of the First Beis HaMikdash is "like an *almanah*" (Eichah 1:1),
 emptied of its Jewish inhabitants.
@@ -171,17 +171,17 @@ also the Targumim's standard for *almanah*. Rabbi David Chaim Chelouche reads it
 as Aramaic א-ר, strength, used euphemistically for its opposite, plus מ-ל,
 cutting: the widow weakened and unable to speak for herself.
 
-It might be tempting to call *armela* a synonym of *almanah*, but the column
+It might be tempting to call *armela* a synonym of *almanah*, but Rabbi Reuven Chaim Klein
 holds it more cogent that they are different forms of the very same word.
 Linguists teach that sporadic changes in dental and liquid consonants are
 normal, and other Semitic languages have similar but not identical words:
 Arabic *armla*, *armala*; Syriac *armalta*; Assyrian and Akkadian *almattu*;
 Ugaritic *almnt*; Amharic *armoma*. So *armela* and *almanah* are not synonyms
-but cognates from adjacent languages.
+but, more accurately, cognates from adjacent languages.
 
 ### almanta (אלמנתא) and karmelis (כרמלית)
 Rambam (*Hilchos Yibbum V'Chalitzah* 4:34) seems to coin an Aramaicized
-*almanta* for halachic documents, a word nobody else uses, which is strange for
+*almanta* for halachic documents, a word nobody else uses, which is somewhat strange for
 so common a thing. But the Rabbi Shabsai Frankel edition (*Yalkut Shinuyei
 Nuschaos* there) shows that the Oxford and Cambridge manuscripts do not have
 *almanta* and read the ordinary *armalta*. Rambam also reads the third Shabbos
@@ -196,11 +196,11 @@ texts, most famously the Geonic-era *Sefer Zerubavel*, has drawn various
 etymologies: from the *armillatus* of Caligula, the emperor's bracelet; a
 corruption of the Persian deity Ahriman or Angro-Mainyus, which most scholars
 reject; most accepted, from Romulus, or a corruption of Aurelianus; or from a
-Greek Eremolaos, Eremelaus, "destroyer of people." The column proposes, as a
+Greek Eremolaos, Eremelaus, "destroyer of people." Rabbi Reuven Chaim Klein proposes, as a
 plausible though admittedly speculative Semitic etymology, the Aramaic *armela*:
 the name would then evoke the Jewish people's national bereavement, or
 spiritual desolation, in the period before the redemption. Even if not
-etymologically true, it says, the idea holds as *drush*.
+etymologically true, he says, the idea holds as *drush*.
 
 ## Rendering guidance
 

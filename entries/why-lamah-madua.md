@@ -25,7 +25,7 @@ updated: 2026-09-10
 ## Bottom line
 
 Both mean **why**, and in many places they seem interchangeable; Ibn Parchon
-and Radak hold them synonymous, while the column holds that no two Hebrew words
+and Radak hold them synonymous, while Rabbi Klein holds that no two Hebrew words
 mean exactly the same thing. Those who find a difference give four accounts:
 Rabbi Yaakov Tzvi Mecklenburg and the Malbim make *madua* ask the effective
 cause and *lamah* the ultimate purpose; Rabbi Shlomo Aharon Wertheimer makes
@@ -44,8 +44,8 @@ command.
 ## Where the authorities disagree
 
 **Whether there is a difference at all.** Some early grammarians, such as Ibn
-Parchon and Radak, explain that the two words are synonymous. Against them the
-column sets its own principle, demonstrated in its other essays, that the
+Parchon and Radak, explain that the two words are synonymous. Against them Rabbi
+Klein sets his own principle, which he says he has demonstrated time and again, that the
 Hebrew language is not happenstance and no two words mean exactly the same
 thing; and others find slight differences in connotation.
 

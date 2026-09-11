@@ -43,7 +43,7 @@ Rabbi Aharon Marcus (1843 to 1916) theorizes that כ-ב-ס means both launder an
 young sheep (*keves*), alluding to the washing of the sheep's wool. He further
 relates *rachel*, ewe, to *rechitzah*, since Hebrew lamed apparently becomes
 tzadi in Akkadian, in allusion to the same process, and finds a hint in Shir
-HaShirim 6:6, which uses both words in one pasuk. The columnist writes that he
+HaShirim 6:6, which uses both words in one pasuk. Rabbi Klein writes that he
 has been unable to substantiate the lamed/tzadi interchange, but notes that the
 *Pesikta Rabbasi* expounds *keves* as though related to *kevisah*, the korban
 washing away sin.
@@ -103,10 +103,10 @@ a matter of degree instead: *merikah* purges clinging particles, *shetifah* is
 filling it with water and scrubbing further. Bedersi separates *merikah* from
 the whole group: it is not water-cleaning but buffing and polishing, softening a
 surface and taking off rust, which is how *tamruk* in Esther 2:3 and 2:12 is a
-cosmetic regimen that smooths the skin. This fits, in the column's words, with Rabbi
+cosmetic regimen that smooths the skin. This fits, Rabbi Klein notes, with Rabbi
 Shlomo Pappenheim's derivation of both from ר-ק, emptying a thing of its
 blemishes and imperfections. Menachem Ibn Saruk files *merikah*
-and *tamruk* under מ-ר-ק in separate categories, implying no link; Rashi (to
+and *tamruk* under מ-ר-ק in separate categories, without implying a link; Rashi (to
 Vayikra 6:21) does link them. Rav Hirsch (to Shemos 21:25 and Vayikra 6:21)
 compares *merikah* to *morag*, a threshing tool, by the interchange of kuf and
 gimmel, making it a penetrating cleaning that goes below the surface. *Machberes
@@ -117,7 +117,7 @@ surface layer.
 Rabbinic only: *Berachos* 8:3, *Shabbos* 21:2-3, *Bava Basra* 5:10, *Keilim*
 28:2, *Parah* 3:9. Cleaning by wiping off what soils. Rashi (to Yeshayahu 47:11)
 takes it as an expression of finality: what is wiped away is gone for good. It
-is probably in this sense, the column suggests, that *kinuach seudah*, the
+is probably in this sense, Rabbi Klein suggests, that *kinuach seudah*, the
 *kinuach* of the meal, came to mean dessert.
 
 ## Rendering guidance

@@ -18,8 +18,8 @@ updated: 2026-09-10
 *Milchamah* is the common Biblical word for **war**, over three hundred times in
 Tanach, with the verb *lochem*, **to wage war** (also around three hundred).
 *Krav* also means **war, battle, combat**, in such phrases as *yom krav* and
-*klei krav*. *Pulmus* is Mishnaic, from Greek *polemos*, war, found three times in one Mishnah (*Sotah* 9:14). The column presents these, with *b'tarunya* and
-*kenigia* (the last three Greek), as apparent synonyms and draws no line between *milchamah* and *krav*. The disputes it records are over the root of
+*klei krav*. *Pulmus* is Mishnaic, from Greek *polemos*, war, found three times in one Mishnah (*Sotah* 9:14). Rabbi Klein presents these, with *b'tarunya* and
+*kenigia* (the last three Greek), as apparent synonyms and draws no line between *milchamah* and *krav*. The disputes are over the root of
 *milchamah* (bread and war from ל-ח-ם, or from ח-ם, heat, or "coming
 together"), over *b'tarunya* (battle, or Greek tyranny), and over *kenigia*
 (war, or hunting, which the Greek *kynigia* supports).
@@ -31,8 +31,8 @@ Almost unanimously traced to the root ל-ח-ם, which also yields *lechem*
 (bread) and meat. Menachem Ibn Saruk (*Machberes Menachem*) lists the three
 senses as separate declensions without insinuating any link between them. Ibn
 Janach (*Sefer HaShorashim*) collapses the food senses into one broad "staple
-food," most instances of *lechem* being bread and some meat; the column adds
-that cognate languages confirm this, Arabic *lahm* usually meaning meat and, in
+food," most instances of *lechem* being bread and some meat; Rabbi Klein adds
+that this can be confirmed from cognate languages, Arabic *lahm* usually meaning meat and, in
 the South Arabic dialect of Soqotra, fish. Radak (*Sefer HaShorashim*) closes
 the gap further: war can be figuratively characterized as the sword of the
 combatants "eating" the slain. Rav Hirsch (to Bereishis 3:19, 10:9, 14:2) reads
@@ -42,7 +42,7 @@ second struggle between parties; by his phonetic etymology he links ל-ח-ם to
 ל-א-ם (*leom*, nation), the existential fight of a polity to survive.
 
 Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) takes a totally different approach,
-deriving *lechem* and *milchamah* from the two-letter core ח-ם. The column calls this noteworthy, since Pappenheim generally holds that a biliteral core
+deriving *lechem* and *milchamah* from the two-letter core ח-ם. Rabbi Klein calls this noteworthy, since Pappenheim generally holds that a biliteral core
 joins only with ה, א, מ, נ, ת, י, or ו to form a three-letter root, and here he
 has it join an initial lamed. The core is heat: *cham*, hot; *cheimah*, anger
 heated up; *chamah*, the sun; *chaman*, an idol in the shape of the sun; *chum*,
@@ -56,21 +56,21 @@ The *Theological Dictionary of the Old Testament* (vol. 7) suggests another
 approach: the basic idea of ל-ח-ם is coming together, people joining for a meal
 or eaters in contact with food, and combatants in close contact on the
 battlefield; its scholars adduce the Arabic *lahhama*, soldering or welding. The
-column observes that the sense is already in Rabbinic Hebrew, where *halchamah*
+sense is already in Rabbinic Hebrew, where *halchamah*
 is soldering (Yerushalmi Beitzah 1:5, Vayikra Rabbah 3:3, Shir HaShirim Rabbah
-4:30, 5:10), as in Modern Hebrew, and that the Netziv (*Haamek Davar* to Bamidbar
+4:30, 5:10), as in Modern Hebrew, and the Netziv (*Haamek Davar* to Bamidbar
 28:2) already partially makes the point: *lechem* relates to *halchamah* since
 food solders body to soul, and korbanos are called *lechem* because they cement
 the bond between Klal Yisrael and Hashem. The Netziv does not explicitly connect
 this to *milchamah*, as the scholars of the TDOT did.
 
-As an aside the column notes Lachmi, brother of Golias (Divrei HaYamim I
-20:5), and Lachman ben Ristak, a gentile named in the Gemara (Eruvin 63b).
+As an aside, Lachmi is the name of the brother of Golias (Divrei HaYamim I
+20:5), and Lachman ben Ristak that of a gentile named in the Gemara (Eruvin 63b).
 
 ### krav (קרב)
 Root ק-ר-ב, meaning approaching, innards, and war, which the classical
 lexicographers (Ibn Saruk, Ibn Janach, Radak) present as three distinct senses.
-The column says the truth is blurrier: to approach is to come nearer to the
+Rabbi Klein says the truth is blurrier: to approach is to come nearer to the
 inside of a perimeter and reach its innards, and in battle the attackers
 approach while the defenders protect what lies within their line. Some verbs of
 ק-ר-ב literally mean approaching but contextually refer to potential battle
@@ -98,12 +98,12 @@ Hebrew *pulmus* is often a controversy or debate, not an actual war.
 *Avodah Zarah* 2b-3a: in the future the nations will claim they would have kept
 the Torah had it been given them, and Hashem will test them with the mitzvah of
 sukkah; the Gemara asks how mitzvos can be given then, and answers that Hashem
-does not come *b'tarunya* with His creations. The columnist says he always
+does not come *b'tarunya* with His creations. Rabbi Klein says he always
 understood the word as *batrunya*, "battle," Hashem not fighting against His
 creations, but on further investigation it appears it should be read
 *b'tarunya*, the beis a preposition. Rabbi Binyamin Mussafia (*Musaf HeAruch*)
 writes that *tarunya* is a Hebraization of the Greek *tyronia*, tyranny. On this
-reading, the column explains, Hashem does not impose His will like a dictator,
+reading, Rabbi Klein explains, Hashem does not impose His will like a dictator,
 but in His benevolence always gives people another chance. The same Greek word
 is in the Targumim, which render *sarnei Plishtim* (Yehoshua 13:3, Shoftim 3:3
 and 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7, 29:7, Divrei HaYamim I 12:20) as
@@ -123,13 +123,13 @@ buttresses this from *Chullin* 60b, which asks whether Moshe was a *kenigi* or a
 the point being that such detail about kosher and non-kosher animals could only
 have come from Above.
 
-The column adds that *kenigia* is indeed a loanword from Greek *kynigia*, which
+*Kenigia* is indeed a loanword from Greek *kynigia*, which
 in fact means hunting or pursuing predatory beasts, and which linguists derive
 from *kyon*, dog (whence English *canine* and *cynicism*). By the shift of an
 original k to h in the Germanic languages (Greek *kardia*, *keras*, Latin
 *centum*; English *heart*, *horn*, *hundred*), *kyon* is related to English
-*hound* and Yiddish and German *hunt*, and *kynigia* to English *hunt*. The
-columnist once thought *kenigia* related to English *king*, German *Koenig*, and
+*hound* and Yiddish and German *hunt*, and *kynigia* to English *hunt*. Rabbi
+Klein once thought *kenigia* might be related to English *king*, German *Koenig*, and
 Yiddish *kenig*; Rabbi Shaul Goodman assured him that those belong with *kin*,
 *kind*, and *genus*, for the regent's rightful parentage.
 

@@ -60,15 +60,15 @@ word means white at all.
 **Whether lavan and chivar differ at all.** In many of the places where the
 Talmud's Aramaic *chivar* appears, Rashi translates it back into Hebrew as
 *lavan* (Berachos 28a, Gittin 69b and 73a, Bava Basra 73a, Avodah Zarah 28a,
-Chullin 55b). The column takes this to imply that perhaps Rashi understood the
+Chullin 55b). Rabbi Klein takes this to imply that perhaps Rashi understood the
 two to mean exactly the same thing, though they may not technically be synonyms
 because one is Hebrew and the other Aramaic. Rabbi Shlomo Pappenheim, without
 saying he is distinguishing them, defines *chivar* as a whiteness that is not an
 object's natural color but a property caused by an outside force, as when a
 thing is whitened in fire. He grounds this in what he considered a scientific
 fact, that most objects are naturally white and other colors come from
-impurities, which a hot furnace melts away to leave the natural white; the
-column calls this quasi-scientific. On his account, it seems, *lavan* is the
+impurities, which a hot furnace melts away to leave the natural white; Rabbi
+Klein calls this quasi-scientific. On his account, it seems, *lavan* is the
 umbrella and *chivar* the whiteness of something whitened from outside.
 
 **Whether tzochar means white.** Rashi (to Shoftim 5:10) says yes: Devorah
@@ -78,8 +78,8 @@ he again reads white wool, citing the Shoftim pasuk as proof. Rabbi Avraham
 Bedersi in *Chotam Tochnit*, the first work on Hebrew synonyms, disputes it and
 prefers Ibn Janach's view that *tzochar* primarily means "combed": combed wool
 simply happens to come out white and pristine. The donkeys, he explains, were
-combed against fleas, not necessarily white. The column finds this fits those
-etymologies that relate *tzochar* to "pristine" or "clean," which in its view
+combed against fleas, not necessarily white. Rabbi Klein finds this fits those
+etymologies that relate *tzochar* to "pristine" or "clean," which in his view
 shows the core meaning is not quite white. Those are Radal's (1798 to 1855)
 tie to *tzach*, clean, clear, pristine, and Rabbi Benzion Chaim Lubetzky's (d.
 1945) rearrangement of צ-ח-ר into ר-ח-צ, *rechitzah*, washing, both suggested
@@ -87,7 +87,7 @@ independently by Rabbi Dovberish Rosenberg of Zurich in *Davar Tov*. Continuing
 from *tzach*, Rabbi Tedeschi (*Otzar Nirdafim*) and Rabbi Yehudah Aryeh of
 Carpentras (*Aholei Yehuda*) read it as a portmanteau of *tzach* and *chivar*,
 white, and Rabbi Yitzchak of Zeldin (*Shoresh Yesha*) as *tzach* plus *ohr*,
-light. On the other side, the best versions of Rashi to Berachos 31b, where
+light. Elsewhere, the best versions of Rashi to Berachos 31b, where
 Chanah asks that her son be neither too *tzachor* nor too ruddy, explain it as
 white, and Sotah 12a explains Miriam's name Tzochar from *tzahar*, noon,
 because her face shone.
@@ -99,10 +99,10 @@ Chelbo borne by several sages). The Peshitta, and Rashi in the name of
 Menachem (*Machberes Menachem*), read it as fatty or oily, a way of saying the
 wine was of especially good quality, which seems to relate it to *cheilev*.
 Radak: a place-name, an area in Aram that produced quality wine, which Rabbi
-Tedeschi identifies as Chalab, also known as Aleppo or Aram Tzova. The column
-recalls a tradition, cited by a twelfth-century rabbi, that Aleppo was called Chalab because Avraham grazed
+Tedeschi identifies as Chalab, also known as Aleppo or Aram Tzova. A
+tradition, cited by a twelfth-century rabbi, holds that Aleppo was called Chalab because Avraham grazed
 his livestock there and gave out milk to the poor. Rabbi Aharon Marcus notes
-that Targum Yonasan renders *chelbon* wine *chamar cheilat*, sweet wine (see below). The column leaves these readings standing.
+that Targum Yonasan renders *chelbon* wine *chamar cheilat*, sweet wine (see below).
 
 ## Distinctions
 
@@ -121,7 +121,7 @@ Lavan, and Levanah of the Nesinim (Ezra 2:45, Nechemiah 7:48). So do the
 places Livnah in the Wilderness, also called Lavan (Bamidbar 33:20-21, Devarim
 1:1), the Canaanite Livnah near Lachish (Yehoshua 10:29-39, 12:15), and
 Levanon, especially the often snow-topped Mount Lebanon. Since Hebrew and Arabic
-are both Semitic languages, the column notes, Arabic *laban*, milk and
+are both Semitic languages, Arabic *laban*, milk and
 specifically sour milk, relates to *lavan* by its white color, and is the basis
 of Yiddish and Modern Hebrew *leben*.
 
@@ -174,7 +174,7 @@ Yehoshua 13:21).
 
 The Italian scholar Rabbi Moshe Yitzchak Tedeschi Ashkenazi (1821 to 1898;
 *Otzar Nirdafim*) links *chivar* to *ohr*, light, on the interchange of ches
-and alef; compare Rav Hirsch to Bereishis 1:3. The column adds that since white
+and alef; compare Rav Hirsch to Bereishis 1:3. Rabbi Klein adds that since white
 is what an object shows when it absorbs none of the colors of visible light, the
 link between white and light becomes more understandable.
 
@@ -188,13 +188,13 @@ lists of Shimon's sons Zerach appears in place of Tzochar (Bamidbar 26:13,
 Divrei HaYamim I 4:24), and Rashi (to Bamidbar 26:13; see also responsa
 *Rashba* vol. 1 §12) identifies the two, the names being close in meaning:
 he defines *tzochar* as *tzohar*, bright, presumably on the interchange of ches
-and hei, which matches *zerach*, shining. The column adds, as its own
-suggestion with no source it has seen, that this Tzochar may have been named
+and hei, which matches *zerach*, shining. Rabbi Klein adds, as his own
+suggestion with no source he has seen, that this Tzochar may have been named
 for his great-grandfather Lavan, both names meaning white.
 
 ### chelbon (חלבון) and chalav (חלב)
-Yaakov's blessing to Yehudah, whiteness of teeth from *chalav* (Bereishis
-49:12), is the column's starting point. Rabbi Matisyahu Strashun (1817 to 1885)
+Yaakov's blessing to Yehudah speaks of whiteness of teeth from *chalav* (Bereishis
+49:12). Rabbi Matisyahu Strashun (1817 to 1885)
 and Rabbi Binyamin Rabinowitz-Teomim argue that the pair *yayin* and *chalav*
 there means not wine and milk but red wine and white wine; see also Targum to
 Shir HaShirim 5:1, which likewise renders *chalav* there as white wine.
@@ -205,7 +205,7 @@ Aharon Marcus (1843 to 1916) suggests that the original word for "white" in all
 languages is *chalav*, claiming even a Celtic cognate, and connects Latin
 *albus* to *chalav*, the ches softening toward an alef; so, he explains, the
 Alps are named for being white like milk, as is the river Elbe (Latin
-*Albis*), though the column notes this is nowadays considered something of a
+*Albis*), though this is nowadays considered something of a
 folk etymology. He is unsure whether *chalav* meant milk first and then white,
 or white first and then milk. He also considers deriving *chalav* from Aramaic
 *chali*, sweet, with a bes added, noting that Targum Yonasan to Yechezkel 27:18

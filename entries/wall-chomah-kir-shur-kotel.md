@@ -20,7 +20,7 @@ updated: 2026-09-10
 
 ## Bottom line
 
-The column's own summary: *chomah* is the **city wall** (or a lookout post),
+Rabbi Reuven Chaim Klein's own summary: *chomah* is the **city wall** (or a lookout post),
 *kir* the generic **structural wall**, *cheil* a **short wall**, *chayitz* a
 **flimsy partition** and *mechitzah* any partition (Rabbi Moshe Zacuto,
 where Pappenheim makes *chayitz* synonymous with *mechitzah*), *shur*
@@ -28,7 +28,7 @@ the Aramaic for *chomah*, *kotel* the Aramaic for *kir*. Where the *cheil*
 stands is disputed: outside a taller wall, with the empty space between them
 (Rabbi Shlomo Pappenheim), or a shorter wall inside the *chomah* (Rashi); Radak
 seems unsure which, and suggests it may be a moat. Rabbi Shlomo of Urbino, as
-is his wont, holds the six mean exactly the same thing; the column follows Pappenheim's two-letter roots to find
+is his wont, holds the six mean exactly the same thing; Rabbi Reuven Chaim Klein sees more to it than that, and Pappenheim's two-letter roots help bring out
 the nuances.
 
 ## Distinctions
@@ -56,11 +56,11 @@ velocity: *korah*, a beam, and *tikrah*, a ceiling, whose horizontal timbers
 press down on the supports beneath. On that reading *kir* is originally the
 upright beam that bears a structure's weight, and only then any wall of stone
 or metal. The root also destroys: Bilaam foretells that Yisrael will *karkar*
-the nations (Bamidbar 24:17), which Rashi, Ibn Ezra and Ibn Janach render
+the nations (Bamidbar 24:17), which most commentators, Rashi, Ibn Ezra and Ibn Janach among them, render
 "destroy" without explaining the etymology. Radak (*Sefer HaShorashim*) derives
 *karkar* from *kir*, to destroy a wall and so strip a nation of its protection,
-comparing *shoresh*, root, whose verb *misharesh* means to uproot; thus, the
-column concludes, *kir* can refer both to building a wall and to tearing one
+comparing *shoresh*, root, whose verb *misharesh* means to uproot; thus, Rabbi Reuven
+Chaim Klein concludes, *kir* can refer both to building a wall and to tearing one
 down. Rav Hirsch (to Vayikra 19:28,
 Bamidbar 24:17) and Rabbi Yitzchok of Volozhin's *Peh Kadosh* (to Bamidbar
 24:17) offer comparable explanations.

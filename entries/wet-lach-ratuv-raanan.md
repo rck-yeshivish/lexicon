@@ -17,7 +17,7 @@ updated: 2026-09-10
 
 *Lach* is **moist**: a little wet, and on Rabbi Shlomo Pappenheim's reading the
 inner moisture of a living thing. *Ratuv* is **wet**. Rashi, Ibn Ezra and Radak
-simply define it as *lach*, and the column suggests that perhaps the two are
+simply define it as *lach*, and Rabbi Klein suggests that perhaps the two are
 not technically synonyms, *lach* being native Hebrew and *ratuv* borrowed from
 Aramaic; Pappenheim instead makes *ratuv* enough liquid to show on the
 surface and to wet whatever touches it, moisture that comes from outside, and
@@ -26,7 +26,7 @@ Rabbi Avraham Bedersi likewise makes it moisture from external water.
 thing growing. *Rutfash* is **revivified**, flesh restored to youthful
 moisture. *Tofeach* and *mefulam* are Rabbinic: *tofeach* is **wet**, familiar
 in the phrase for wet enough to make something else wet; *mefulam* is **wet**
-for Rashi but **hearty, plump** for the *Aruch*, and the column suggests Rashi
+for Rashi but **hearty, plump** for the *Aruch*, and Rabbi Klein suggests Rashi
 may mean **sodden**, so saturated as to be bloated. Pappenheim's difference between a little
 moisture and enough to wet something else can carry halachic weight.
 
@@ -64,8 +64,8 @@ twice in Tanach, both in Iyov: a well-watered plant, *ratov* before the sun
 *yirtavu* (24:8). It is the Targumim's standard rendering of *lach*, and Rashi
 (Iyov 8:16, 24:8; Sukkah 10b), Ibn Ezra (Iyov 8:16), and Radak (*Sefer
 HaShorashim*) define *ratuv* as *lach*. Since the Targumim typically render
-*lach* by *ratuv*, as Rashi (Iyov 24:8) and Ibn Ezra (Iyov 8:16) note, the
-column suggests that perhaps the two are not technically synonyms, because
+*lach* by *ratuv*, as Rashi (Iyov 24:8) and Ibn Ezra (Iyov 8:16) note, Rabbi
+Klein suggests that perhaps the two are not technically synonyms, because
 *lach* is a native Hebrew word while *ratuv* is borrowed from Aramaic (or
 another Semitic language).
 
@@ -121,7 +121,7 @@ Rabbinic only (*Eduyos* 4:6; *Keilim* 8:3-4, 10:8; *Taharos* 1:9, 3:1, 8:8-9;
 25b; Yoma 78a), so wet that it can make other things wet. Its root
 tes-peh-ches means something else in Tanach, the source of *tefach*, a handbreadth, and of words for measuring length
 and extension, a sense that carries into Rabbinic Hebrew. How that fits the
-"wet" sense is unclear; the column suggests, as its own tentative proposal,
+"wet" sense is unclear; Rabbi Klein suggests, as his own tentative proposal,
 that perhaps an item dripping wet expands in its dimensions.
 
 ### mefulam (מפולם)
@@ -142,7 +142,7 @@ derives either from the Persian for a clump of dirt or from Greek *piloma*,
 *piloga*, *pilos* ("clay, mud, pile"), treated as though Hebrew. The Greek
 *piloma* in fact appears in some versions of Mishnah *Shabbos* 22:6 (the
 Kaufmann manuscript and the Alfasi), a muddy river one may not go into on
-Shabbos. To square all this with Rashi's "wet," the column suggests Rashi might
+Shabbos. To square all this with Rashi's "wet," Rabbi Klein suggests Rashi might
 have read the word on the model of *tofeach*: so saturated with liquid as to be
 bloated, distended, and plump.
 

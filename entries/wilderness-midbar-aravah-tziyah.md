@@ -26,8 +26,8 @@ settlement or cultivation and so empty of people; *aravah* is a **desert
 plain** overrun with thorns and wild growth, not bone-dry; *tziyah* is a
 **parched land**, dried out by prolonged heat. For Malbim *tziyah* and *aravah*
 are desolate from an outside cause (heat; weeds), *midbar* by its own nature. Early English Bibles themselves split on
-*midbar*, "desert" (Wycliffe) against "wilderness" (Tyndale, KJV), and the
-column takes no side.
+*midbar*, "desert" (Wycliffe) against "wilderness" (Tyndale, KJV), and Rabbi
+Klein takes no side.
 
 ## Distinctions
 
@@ -58,9 +58,8 @@ All the early lexicographers, Ibn Saruk included, explicitly trace it to
 pleasant), *aravah* (willow), *areiv* (guarantor), *eiruv* (connection,
 mixture), *erev* (the woof of a fabric), *arov* (the mixture of wild animals),
 *erev* or *Arav* (Arabia), *oreiv* (raven), *aravos* (a name of the heavens),
-and *aravah* (wilderness). Rabbeinu Meyuchas ben Eliyahu, a Greek or Byzantine
-scholar of some time before the 1500s (the column's footnote cites him to
-Devarim 1:1), reads it topographically: an *aravah* is a depressed valley, less
+and *aravah* (wilderness). Rabbeinu Meyuchas ben Eliyahu (to Devarim 1:1), a Greek or Byzantine
+scholar of some time before the 1500s, reads it topographically: an *aravah* is a depressed valley, less
 exposed to sunlight and so like a dark jungle, and he compares *erev*, the dark
 part of the day, and *oreiv*, the black bird. Rabbi Abrahams connects the root
 differently, as the breaking down of boundaries so that distinct units blend:
@@ -73,7 +72,7 @@ rubric the *aravah* is a plain, neither elevated like mountains nor depressed
 like a valley, blurring the difference between them. Rabbi Abrahams also
 connects *aravah* to *Araviyah*, Arabia, homeland of the desert-dwelling Arabs,
 whom he describes as breaking down boundaries through theft and immorality;
-the column's shorthand alludes to their not wanting the Torah because of *lo
+the allusions are to their not wanting the Torah because of *lo
 sigzol* and to their getting ten *kavim* of immorality.
 
 Malbim: an *aravah* is dominated by thorns, thistles and wild growth, so it is
@@ -112,15 +111,15 @@ to leave its corral), *tzitz* / *netz* (a bud), *nitzotz* (a spark),
 *tzitzis*, and *metziah* (finding, seeing something out in the open).
 
 Tehillim 107:33-35 pairs *midbar* with *midbar* and *tziyah* with *tzimaon*, a
-thirsty place, implying a connection between those two words; the column
+thirsty place, implying a connection between those two words; Rabbi Klein
 suggests this might hint that *tzom*, fasting, and *tzamei*, thirsty, also
 belong to the monoliteral צ, though Pappenheim himself assigns them to the
 biliteral צ-ם.
 
 Malbim: *tziyah* is a place made especially dry and arid by prolonged exposure
 to heat, the exact opposite of a land of springs and pools; hence Tehillim
-107:35, Hashem turning a *tziyah* into sources of water. The column's note to
-Malbim's distinction also cites *Yair Ohr* (maareches mem, os dalet).
+107:35, Hashem turning a *tziyah* into sources of water. See also
+*Yair Ohr* (maareches mem, os dalet).
 
 ### How intense, and in what order
 The Vilna Gaon, Rabbi Eliyahu Kramer (1720 to 1797), to Hoshea 2:5, where
@@ -132,7 +131,7 @@ Yirmiyahu 50:12 stacks all three for Bavel's future: *midbar*, *tziyah*,
 *aravah*. *Metzudas David* there, as he often does, treats them as a series of
 synonyms, possibly as poetic expression, with no semantic difference intended;
 Malbim there refers the reader to his distinction at Yeshayahu 35:1, given
-above. The column leaves the three views side by side.
+above.
 
 ## Rendering guidance
 

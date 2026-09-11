@@ -47,8 +47,8 @@ so usually positive; since a man in his right mind would never choose to want
 what is bad for him, *ratzon* always names a good and noble wanting. The same
 word means appeasement, an attempt to sway another's free choice. Rabbi
 Margolios (*Beis Middos*): *ratzon* is the innate desire to do good. Rabbi
-Edel: *ratzon* covers both the means to an end and the end itself. The column
-draws the consequence that the mitzvos, called *retzon Hashem*, would on his
+Edel: *ratzon* covers both the means to an end and the end itself. Rabbi Klein
+draws the consequence that the mitzvos, called *retzon Hashem*, would on Rabbi Edel's
 view be means to Hashem's ends, and finds the point in the Mishnah (Makkos
 3:16), where Rabbi Chananya ben Akashya cites Yeshayahu 42:21: Hashem's final
 will (*chefetz*), to give Yisrael merit, fuels His intermediate will (*ratzon*),
@@ -76,14 +76,13 @@ Malbim, make *chefetz* an unchosen want: Tanach speaks of Hashem as *chafetz*
 (Bamidbar 14:8; Yeshayahu 42:21, 53:10; Melachim I 10:9; Tehillim 147:10;
 Shmuel I 15:22), and it is difficult, if not heretical, to say Hashem has a
 want He did not choose; so *chefetz* too must be a wanting within free choice.
-In Malbim's defense the column suggests that Tanach borrows the word from the
+In Malbim's defense Rabbi Klein suggests that Tanach borrows the word from the
 human case, and that if Hashem wants something He perforce chooses to want it.
 
 Rabbi Yehuda Leib Edel (1760 to 1828) offers a totally different take:
 *chefetz* is the final goal itself, while *ratzon* can also name intermediate
-goals. The column's illustration: "I want to buy pizza" is a *ratzon*, a means;
-"I want to eat pizza," the final goal, is a *chefetz*. The column recalls from
-an earlier essay ("Deleterious Desires," June 2017) that for the Vilna Gaon
+goals. Rabbi Klein's illustration: "I want to buy pizza" is a *ratzon*, a means;
+"I want to eat pizza," the final goal, is a *chefetz*. For the Vilna Gaon,
 *chefetz* refers specifically to food-related desires (see the *taavah* /
 *chemdah* entry).
 
@@ -93,7 +92,7 @@ Rabbi Pappenheim (1740 to 1814) derives *tzvi*, the desirable, from the root
 constantly standing before him, so *tzvi* is a continuous, perhaps obsessive,
 yearning over an extended time, as against a fleeting want. Rabbi Marcus: the
 word was borrowed for the deer because deer run quickly, as *ratzon* is tied to
-running; alternatively, the column suggests, a deer is swift enough to escape
+running; alternatively, Rabbi Klein suggests, a deer is swift enough to escape
 capture and so free to run after its heart's wants. In Aramaic *tzvei* is
 nearly synonymous with *ratzon*: Targum Onkelos renders *cheshek* (Devarim 7:7)
 and *chefetz* (Devarim 25:7) with it, as it renders others of the same words

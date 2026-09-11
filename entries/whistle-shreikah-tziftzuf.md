@@ -23,7 +23,7 @@ of astonishment at a ruined place that had been thriving, and the signal by
 which Hashem calls the masses to gather, at the end of days to gather His people
 home. Rabbi Yaakov Berger notes that biblical *shreikah* seemingly always means
 whistling with the mouth alone, while the Aramaic *mashrokita* of Daniel is an
-instrument. *Tziftzuf*, which the column calls its apparent synonym, is
+instrument. *Tziftzuf*, its apparent synonym, is
 **whistling, chirping, tweeting**, the bird's sound, and by extension a low,
 rapid whisper or half-intelligible **prattle**; in the Rema's halachic usage
 *mitzaftzef* is simply "to whistle."
@@ -36,9 +36,9 @@ prosaically defines it broadly as moving the lips to produce a sound. Rabbi
 Shlomo Ibn Prachon (*Machberes HeAruch*) expands on it: specifically puckering
 the lips and exhaling air through them; he adds that the vowel *shuruk* is
 related to the root because the mouth puckers to make its *oo* sound as though
-about to whistle. The column wondered whether Hebrew ש-ר-ק, whistling, is
+about to whistle. Rabbi Klein wondered whether Hebrew ש-ר-ק, whistling, is
 connected to Aramaic ש-ר-ק, smooth or slippery, since whistling makes a smooth
-sound, but its language guru Rabbi Shaul Goldman rejected the supposition. Two
+sound, but his language guru Rabbi Shaul Goldman rejected the supposition. Two
 uses stand opposite each other in Tanach.
 
 *Shreikah* of desolation: passersby whistle at the ruin of a place that had
@@ -61,7 +61,7 @@ reversed-alphabet acrostic that opens *Tikanta Shabbos* as alluding to
 Whistle that brings the Redemption.
 
 English *screak* and *shriek* are typically traced to the Proto-Indo-European
-root *ker* or *skr*; the column wonders whether the Hebrew *shreikah* had some
+root *ker* or *skr*; Rabbi Klein wonders whether the Hebrew *shreikah* had some
 influence on them, or whether both are onomatopoeic imitations of sounds heard
 in nature.
 
@@ -78,8 +78,8 @@ on the ground as it chirps are the sign that portends the redemption. Rabbi
 Yissachar Shlomo Teichtal (*Eim HaBanim Semeichah* 2:12), asked how the
 beginning of the redemption could come through Zionist pioneers who violate
 Shabbos, deflected the question by noting that in the Gemara too the harbinger
-is an impure bird, the *racham*, not a kosher one. On which bird is meant, the
-column refers to Rabbi Amitai Ben-David's *Sichas Chullin* to *Chullin* 63a.
+is an impure bird, the *racham*, not a kosher one. Which bird is meant is
+discussed in Rabbi Amitai Ben-David's *Sichas Chullin* to *Chullin* 63a.
 
 ### mashrokita (משרוקיתא)
 An instrument in Nevuchadnetzar's music (Daniel 3:5, 3:7, 3:10, 3:15), in the
@@ -109,38 +109,38 @@ next meal.
 
 *Tziftzuf* often refers to a low whisper, which sounds almost like whistling
 since the mouth is narrowed as in whistling: speaking quickly, constantly, low.
-It can also mean verbal pattering, including blabbering about rumors. Rashi and
+It can also mean verbal pattering, and could refer to blabbering about rumors. Rashi and
 Ramban (to Vayikra 14:4) use it for the mindless prattling, typified by
-*lashon hara*, that brings *tzaraas*. Asked how that squares with "whistling,"
+*lashon hara*, for which a person might be punished with *tzaraas*. Asked how that squares with "whistling,"
 Rabbi Shaul Goldman explained that the original sense is bird-noise, also used
 for babbling or any speech meant to be audible but almost always
-unintelligible; that is the descriptive sense. The column adds its own
-prescriptive sense: speech whose meaning renders it unfit, such as rumors and
+unintelligible; that is the descriptive sense. Rabbi Klein adds that it
+could also refer, in a prescriptive sense, to speech whose meaning renders it unfit, such as rumors and
 *lashon hara*.
 
 In Modern Hebrew *tziftzuf* is the sound of an alarm, and one who is
-*mitzaftzef* ignores the pleas of others and marches to his own beat. The column
+*mitzaftzef* ignores the pleas of others and marches to his own beat. Rabbi Klein
 says this is probably borrowed from Yiddish *fife* (a cognate of English
 *pipe*), "whistle," which came to mean ignoring others, as one who keeps
-whistling while told to stop. It adds that it is not insignificant that the
+whistling while told to stop. He adds that he feels it is not insignificant that the
 Germanic *piper*/*fifer* repeat a *p*/*f* sound as *tziftzuf* repeats its *f*,
-and that it is convinced English *cheep* is connected to the *tzif* of *tziftzuf*.
+and that he is convinced English *cheep* is connected to the *tzif* of *tziftzuf*.
 
 ### Whistling as a practice
 The late Lubavitcher Rebbe encouraged his followers to whistle to express
 elated happiness, and perhaps to symbolize, or even bring about, the impending
-*geulah*. The column traces this to the Rashaz, who taught (*Ohr Torah* to
+*geulah*. Rabbi Klein traces this to the Rashaz, who taught (*Ohr Torah* to
 Bereishis 49:11) that the *shuruk*, the vowel tied to *shreikah*, has three dots
 one below the other because a person should lower himself to the
-self-effacement of recognizing that he is nothing before Hashem, a level reached
-through loving Hashem in the happiness of mitzvos, and which he calls the entire
+self-effacement of recognizing that he is nothing before Hashem, a level said to be reached
+through loving Hashem in the happiness of mitzvos, and which the Rashaz calls the entire
 purpose of the Messianic era. In other chassidic and mussar circles teachers
 commonly chide students not to whistle as a *goyish* practice. Rabbi Efrayim
 Greenblatt (*Rivevos Efrayim* 8:604) knows of no source forbidding it, though
 his cheder teacher told him it was forbidden. The *Chazon Ish* (cited in
 *Orchos Shabbos* ch. 21 fn. 60) said that nowadays whistling is a breach of
 modesty, though in *Aliba D'Hilchasa* (vol. 69 p. 83) Rabbi Chaim Kanievsky is
-quoted as never having heard this from him. The column's teacher Rabbi Yosef
+quoted as never having heard this from him. Rabbi Klein's teacher Rabbi Yosef
 Yitzchok Lerner (*Shemiras HaGuf VeHaNefesh Tinyana* p. 454) cites a bevy of
 Kabbalistic sources that whistling can arouse harsh judgments, and that the
 arch-heretic Jacob Frank used whistling as evil magic.

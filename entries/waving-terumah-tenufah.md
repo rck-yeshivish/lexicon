@@ -28,8 +28,7 @@ for elegance; and Targum Onkelos, as Rabbi Yaakov Zev Lev reads him, makes
 *tenufah* up and down just like *terumah*. Outside the korban, *terumah* is the
 **separated portion**: of the Mishkan donation Rashi (to Shemos 25:2) renders it
 "separation," not "lifting," and as the Kohen's tithe the word is parsed *trei
-mi'meah*, two per hundred. On Rashi's reading the pesukim that name
-both for the same limb describe two distinct acts.
+mi'meah*, two per hundred.
 
 ## Distinctions
 
@@ -64,7 +63,7 @@ forms of *terumah* twice, matching four lateral directions against two vertical
 ones.
 
 Rabbeinu Avraham ben HaRambam (to Shemos 29:24) writes that *tenufah* itself
-means both back and forth and up and down. This seems to be based, the column
+means both back and forth and up and down. This seems to be based, Rabbi Klein
 suggests, on the rule that in practice whatever requires the one requires the
 other; and it does not really help define the two words against each other.
 
@@ -80,8 +79,8 @@ Torah uses in tandem to avoid being repetitive; on his view breast takes
 *tenufah* and thigh *terumah* as a matter of linguistic elegance, with no deeper
 significance.
 
-Targum Onkelos complicates the picture. Rabbi Shmuel Botnick, whose question
-prompted the column, noted that to Shemos 29:24 Onkelos renders *tenufah* with
+Targum Onkelos complicates the picture. Rabbi Shmuel Botnick
+noted that to Shemos 29:24 Onkelos renders *tenufah* with
 an Aramaic cognate of *terumah*, which would make it "elevating, lifting"
 rather than horizontal waving. Rabbi Yaakov Zev Lev (*Me'at Tzari* to Shemos
 29:24) notes that there Onkelos disagrees with Rashi, defining *tenufah* as up
@@ -145,19 +144,19 @@ Rabbi Yehudah Aryeh of Carpentras, an eighteenth-century grammarian and
 *dayan*, reads *nofes* in *Aholei Yehuda* as figuratively lifted above other
 foods for its esteem, and reads *ramos* (Iyov 28:18), from *terumah*'s root,
 the same way, a gem so rare it is figuratively raised above the rest. According
-to modern linguists, the column adds, that gemstone may be black coral, mother
+to modern linguists, that gemstone may be black coral, mother
 of pearl, or some specific sea shell.
 
 ### Names from the two roots
 *Ramos* as topographical heights gives Ramos Gilad (sometimes spelled with a
-silent alef after the reish) and the modern place-names built on it. The column
+silent alef after the reish) and the modern place-names built on it. Rabbi Klein
 knows of no biblical place-name from נ-ו-פ; the nearest is Memphis, written
 Moph once (Hoshea 9:6) and more often Noph (Yeshayahu 19:13; Yirmiyahu 2:16,
 44:1, 46:14, 46:19; Yechezkel 30:13, 30:16), but that is more likely a Hebrew
 adaptation of a foreign name. So too with personal names: ר-ו-ם gives Ram (Rus
 4:19; Divrei HaYamim I 2:9, 2:25), Yirmiyahu (a yud, the ר-ם element, and three
 letters of the Shem) and Yoram (two letters of the Shem and the ר-ם element),
-while as far as the column knows נ-ו-פ gives none. Rabbi Yehoshua Steinberg (of
+while as far as he knows נ-ו-פ gives none. Rabbi Yehoshua Steinberg (of
 the Veromemanu Foundation) suggests that Remalyahu, father of Pekach king of
 Israel, is ר-ם plus the grammatical lamed plus three letters of the Shem;
 others take it from an otherwise unattested root ר-מ-ל.
