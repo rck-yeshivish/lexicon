@@ -15,7 +15,7 @@ sources:
   - wiaw:10884 "Vayakhel-Pekudai: Turning the Corner (Part 1/2)" (2023-03-18) https://articles.ohr.edu/articles/vayakhel-pekudai-turning-the-corner-part-12
   - wiaw:10883 "Vayikra: Turning the Corner (Part 2/2)" (2023-03-25) https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22
 authorities: [Rabbi Shlomo Pappenheim, Malbim, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi David Chaim Chelouche, Menachem Ibn Saruk, Ibn Janach, Rashba, Rabbi Yitzchak Zev Yadler, Rabbi Yishmael ben Chachamon, Targum Onkelos, Rashi, Mahari Kara, Shadal, Mordechai Zer-Kavod, Rabbi Benzion Chaim Lubetzky, Avi Hurvitz]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Corner: peah / keren / zavit / pinah / miktzoa / katzeh
@@ -27,10 +27,11 @@ simply a **direction** (Onkelos: *ruach*). *Keren* is a **horn**, and a corner
 as something that juts out (Malbim), in Tanach the corners of the Altar. On Rabbi
 Pappenheim's distinction, if Rabbi Klein has understood him correctly, *zavit* is
 the inside of a corner and *pinah* is the outside of it, whence leaders are
-*pinos*; for Mordechai Zer-Kavod the primary sense of *pinah* is not "corner" at
-all but a raised place, a **prominence** (hence the **cornerstone**). *Miktzoa* is
-the sharp **angle** where two sides meet at a point; *katzeh* is the
-**edge/end**, a right-angled corner. Onkelos renders *pinah*, *miktzoa*, *katzeh*
+*pinos*; for Mordechai Zer-Kavod the primary sense of *pinah* in Tanach is not
+actually "corner" but a raised place, a **prominence** (hence the
+**cornerstone**). For Pappenheim, *miktzoa* is the sharp **angle** where two
+sides meet at a point, and *katzeh*, from a root meaning **edge/end**, a
+right-angled corner. Onkelos renders *pinah*, *miktzoa*, *katzeh*
 and *paam* as *zavit*, and *peah* too at the corners of the Shulchan.
 
 ## Distinctions
@@ -39,19 +40,20 @@ and *paam* as *zavit*, and *peah* too at the corners of the Shulchan.
 The commonest biblical word for corner, roughly eighty-five occurrences, but in
 most of them it names a cardinal direction (Shemos 27:9; Bamidbar 35:5), usually
 alongside a word for north, south, east or west, where Onkelos generally gives
-*rucha*/*ruach*; only in the four instances where it means "corner" proper (the
-*peah* of the head and of the beard, Vayikra 19:27, and the *peah* of the field,
-Vayikra 19:9, 23:22) does he leave it untranslated. For the four rings on the
+*rucha*/*ruach*; in the four instances where it means "corner" as opposed to
+"direction" (the *peah* of the head and of the beard, Vayikra 19:27, and the
+*peah* of the field, Vayikra 19:9, 23:22) he leaves it untranslated. For the four rings on the
 four *peah* of the Shulchan (Shemos 25:26, 37:13) Onkelos renders *zavit*, the
 word that will matter later. Rabbi Shlomo
 Pappenheim (1740 to 1814) gives two etymologies: in *Yerios Shlomo* from
 PEH-HEY, "mouth," a corner being where one enters and leaves an area as the
 mouth is where food enters and words leave; in *Cheshek Shlomo* from PEH-ALEPH,
-"wide corner." The Moabite noblemen called *paas* (Bamidbar 24:17; Yirmiyahu
-48:45) are those set apart at the corner of their society and the cornerstones
-on which it rests. Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865): *peah* need not
-be in a corner at all, only cut off and set apart, which is why the *peah* of a
-field may be left in the middle (Mishnah *Peah* 3:1).
+"wide corner." For him the Moabite noblemen called *paas* (Bamidbar 24:17;
+Yirmiyahu 48:45) are those set apart at the corner of their society and the
+cornerstones on which it rests. Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865):
+*peah* need not be physically in a corner but can be anything cut off and set
+apart, which is why the *peah* of a field may even be left in the middle
+(Mishnah *Peah* 1:3).
 
 ### keren (קרן)
 Primarily an animal's **horn**, and in Tanach the horn-like protrusions at the
@@ -81,11 +83,11 @@ overflows the Altar's corners (Radak and Mahari Kara there). Onkelos uses
 first, as Rabbi Yehoshua Steinberg of the Veromemanu Foundation explains him,
 seems to be that turning a corner is a change of direction, and a shiny thing
 likewise makes one change direction by drawing the eye to it. In a separate
-discussion he seems to give a slightly different account: light bouncing off a
+discussion Pappenheim seems to give a slightly different account: light bouncing off a
 shiny object toward the eye travels at an angle, and so produces a corner. He
 also claims that Iyar was originally called Ziv (Melachim I 6:1) because in that
-month the sun somehow turns a corner, which Rabbi Klein suggests, with a question
-mark, may mean its ushering in the new season of spring.
+month the sun somehow turns a corner, which Rabbi Klein tentatively suggests may
+mean its ushering in the new season of spring.
 
 The last of Haman's ten sons was named Vayzasa (Esther 9:9), an anagram of
 *zavit*, and Rabbi Benzion Chaim Lubetzky (d. 1945) argues that in so naming him
@@ -93,11 +95,18 @@ Haman meant to show off his own importance, as though his sons were the
 cornerstones of the Persian Empire.
 
 The Gemara's set phrase for a corner is *keren zavit* (*Berachos* 53b, where one
-may use a torch's light without seeing the fire if the two of them stand on
+can use a torch's light without seeing the fire if the two of them stand on
 opposite sides of a *keren zavit*; *Kiddushin* 66a, where Torah was so neglected
 that it was relegated to a mere *keren zavit* for whoever wished to take it). Dr.
 Avi Hurvitz, a veteran linguist and expert philologist, notes that the phrase is
 a semantic redundancy, since *keren* already means corner and so does *zavit*.
+Rabbi Chaim Pinchas Scheinberg (1910 to 2012) related at a Degel HaTorah rally
+that over a century ago Rabbi Chaim Ozer Grodzenski (1863 to 1940) had already
+noted the redundancy and explained the phrase as "a corner of a corner": in the
+time *Kiddushin* describes, Torah was not given even a whole corner, only a
+small corner within a corner, so that the doubled word is for emphasis. Rabbi
+Klein holds that an explanation said in a polemic context should probably not
+be taken as actual linguistic analysis.
 
 ### pinah (פינה)
 Twice in the Chumash, both for the corners of the Altar (Shemos 27:2, 38:2),
@@ -110,17 +119,16 @@ where Onkelos gives *zavit*, and twenty-eight more times in Tanach.
   be of better quality than the rest. He derives it from PEH-NUN,
   "front/surface," the root of *panim* and of *panah*, to turn and face: at a
   *pinah* one must turn to keep following the perimeter; *peninim* (precious
-  stones) he suggests reading the same way, a gem cut so its faces and their
-  corners show.
+  stones) he suggests reading the same way, a gem polished so its faces and
+  their corners show. The Rashba (responsa vol. 4 §278) presumes that *pinah*
+  and *zavit* are synonyms.
 - Rabbi David Chaim Chelouche (1920 to 2016), late Chief Rabbi of Netanya,
   traces both *peah* and *pinah* to the single letter PEH, "end/edge" (with an
   added alef in *peah* and an added nun in *pinah*), *peah* naming more broadly
-  the edge of a given area and *pinah* the edge where two of its sides meet; and
-  the Rashba (responsa vol. 4 §278) presumes *pinah* and *zavit* are plain
-  synonyms.
+  the edge of a given area and *pinah* the edge where two of its sides meet.
 - Mordechai Zer-Kavod (*Daas Mikra* to Nechemiah 3:24) makes the primary sense
-  "raised place," from *rosh pinah* (Tehillim 118:22) and *pinos u'gevohos*
-  (Tzefaniah 1:16) and *migdalim hapinos* (Divrei HaYamim II 26:15); the *even
+  "raised place," from *rosh pinah* (Tehillim 118:22), *hapinos hagevohos*
+  (Tzefaniah 1:16) and *al hamigdalim v'al hapinos* (Divrei HaYamim II 26:15); the *even
   pinah* stands against the *even mosad* in Yirmiyahu 51:26, foundation stone
   underground and corner stone all the way on top, so that a *pinah* is
   something prominently placed.
@@ -140,10 +148,11 @@ well (*Tamid* 1:4, 3:3, *Middos* 2:5), and Onkelos renders it, like the rest,
   spread out; hence he reads the Mishnah's praise of monetary law as a *miktzoa
   baTorah* (*Bava Basra* 10:8) as the discipline that sharpens the mind and
   opens it to higher intellectuality, and he suggests too that the *ketziah*
-  spice is so called because its plant has many sharp angles, thorns perhaps.
+  spice is so called because its plant has many sharp angles (thorns, Rabbi
+  Klein wonders).
 - Rabbi Yishmael ben Chachamon, who lived in Egypt in Rambam's time, notes in
   his commentary (*Bava Basra* 175b) that the Mishnah's *miktzoa* means "corner"
-  just as it does in Tanach, which, Rabbi Klein observes, does not much clarify
+  just as it does in Tanach, which, Rabbi Klein observes, does not help clarify
   the usage.
 - Rabbi Yitzchak Zev Yadler (1843 to 1917) reads it as the cornerstone of Torah
   study, monetary law being rooted in logical structures, a keystone and
@@ -158,22 +167,28 @@ Pappenheim: the corner that forms a **right angle**, and
 like *peah* a spacious area at the corner rather than *miktzoa*'s single point.
 He separates *katzeh* from *peah* by orientation, *katzeh* being a corner above,
 below, in front or behind, and *peah* one at the side, a distinction Rabbi Klein
-says frankly he is not sure he understands. He groups here *miketz*/*keitz*,
-*katz* (being disgusted, since the disgusted man feels the thing will bring
-about the end of his life), *ketzitzah*, *kayitz*, *yekitzah*, *kotz* and
-*katzin* (officer), which stands to *katzeh* as *paas* stands to *peah*; the
-full family is set out in [waking](waking-yekitzah-oorah.html).
+says frankly he is not sure he understands. He relates *katzin* (officer) to
+*katzeh* as he relates *paas* to *peah*. Other words from the root include
+*miketz*/*keitz*, *katz* (being disgusted, since the disgusted man feels the
+thing will bring about the end of his life), *ketzitzah*, *kayitz*, *yekitzah*
+and *kotz*; the full family is set out in [waking](waking-yekitzah-oorah.html).
 
 *Paam* is a further biblical word for corner, which Onkelos likewise renders
 *zavit*.
 
-Two rarities complete the set: *atik* (Yechezkel 41:15, 42:3), which Ibn Saruk gives a quadriliteral
+Two biblical rarities complete the set: *atik* (Yechezkel 41:15, 42:3), which Ibn Saruk gives a quadriliteral
 root of its own, א-ת-י-ק, Ibn Janach and Radak trace to נ-ת-ק (disengaging,
 uprooting), and Pappenheim to TAV-KUF ("static," a panel holding a wall in place
 and not letting it move); and *demeshek* (Amos 3:12), a *hapax* that Radak takes
 from the context as the corner of a bed, while Rashi explains it as though it
 meant Damesek, the city, even though *demeshek* is vocalized with a shin where
 the place name has a sin.
+
+The Mishnah has one more term, *rosh tor* (*Kilayim* 2:7, 3:3, *Keilim* 18:2),
+literally "head of an ox" in Aramaic. Shadal (to Shemos 25:31) explains that it
+is not a generic word for corner but a corner whose angle intersects with
+another line, a shape said to look like the head of an ox; it also resembles the
+letter aleph, since *aleph* literally means "ox."
 
 ## Rendering guidance
 
@@ -196,7 +211,7 @@ the place name has a sin.
   analysis. Treat it as a derashah for a note, not a lexical claim.
 - Mishnaic *peah* is a halachic term of art. Leave it as *peah* and gloss it;
   "the corner of the field" is misleading, since the *peah* may sit in the
-  middle (Mecklenburg on Mishnah *Peah* 3:1). The Mishnah's *rosh tor*
+  middle (Mecklenburg on Mishnah *Peah* 1:3). The Mishnah's *rosh tor*
   (*Kilayim* 2:7, 3:3, *Keilim* 18:2), literally "ox head" in Aramaic, is
   likewise not a generic word for corner: Shadal (to Shemos 25:31) explains that
   it is a corner whose angle is intersected by another line, a shape said to
@@ -212,4 +227,4 @@ Rabbi Reuven Chaim Klein, "[Vayakhel-Pekudai: Turning the Corner (Part 1/2)](htt
 
 Rabbi Reuven Chaim Klein, "[Vayikra: Turning the Corner (Part 2/2)](https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22)," *What's in a Word?*, Ohr Somayach, 25 March 2023.
 
-Cited in the essay: Shemos 25:26, 26:23, 27:2, 27:9, 37:13, 38:2, 38:5; Vayikra 4:7, 8:15, 19:9, 19:27, 23:22; Bamidbar 24:17, 35:5; Shoftim 20:2; Shmuel I 14:38; Melachim I 6:1; Yeshayahu 44:13; Yirmiyahu 48:45, 51:26; Yechezkel 41:15, 42:3, 43:20; Amos 3:12 with Rashi and Radak; Tzefaniah 1:16; Zechariah 9:15 with Rashi, Radak and Mahari Kara; Tehillim 118:22, 144:12; Esther 9:9; Divrei HaYamim II 26:15; Nechemiah 3:19 with Rashi, 3:24 with *Daas Mikra*; Mishnah *Peah* 3:1, *Kilayim* 2:7, 3:3, 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid* 1:4, 2:5, 3:3, 4:1, 7:3, *Middos* 2:5, 3:2-3, 4:3, 4:5, *Keilim* 17:9-10, 18:2, *Bava Basra* 10:8 with the commentary of Rabbi Yishmael ben Chachamon to *Bava Basra* 175b; *Berachos* 53b; *Kiddushin* 66a; *Shabbos* 123b; Rashba responsa vol. 4 §278; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 27:2 and Vayikra 4:7; Shadal to Shemos 25:31; Malbim; Menachem Ibn Saruk; Ibn Janach and Radak; Rabbi Yehoshua Steinberg; Rabbi Benzion Chaim Lubetzky; Rabbi David Chaim Chelouche; Rabbi Yitzchak Zev Yadler; Rabbi Chaim Ozer Grodzenski as reported by Rabbi Chaim Pinchas Scheinberg; Dr. Avi Hurvitz.
+Cited in the essay: Shemos 25:26, 26:23, 27:2, 27:9, 37:13, 38:2, 38:5; Vayikra 4:7, 8:15, 19:9, 19:27, 23:22; Bamidbar 24:17, 35:5; Shoftim 20:2; Shmuel I 14:38; Melachim I 6:1; Yeshayahu 44:13; Yirmiyahu 48:45, 51:26; Yechezkel 41:15, 42:3, 43:20; Amos 3:12 with Rashi and Radak; Tzefaniah 1:16; Zechariah 9:15 with Rashi, Radak and Mahari Kara; Tehillim 118:22, 144:12; Esther 9:9; Divrei HaYamim II 26:15; Nechemiah 3:19 with Rashi, 3:24 with *Daas Mikra*; Mishnah *Peah* 1:3, *Kilayim* 2:7, 3:3, 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid* 1:4, 2:5, 3:3, 4:1, 7:3, *Middos* 2:5, 3:2-3, 4:3, 4:5, *Keilim* 17:9-10, 18:2, *Bava Basra* 10:8 with the commentary of Rabbi Yishmael ben Chachamon to *Bava Basra* 175b; *Berachos* 53b; *Kiddushin* 66a; *Shabbos* 123b; Rashba responsa vol. 4 §278; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 27:2 and Vayikra 4:7; Shadal to Shemos 25:31; Malbim; Menachem Ibn Saruk; Ibn Janach and Radak; Rabbi Yehoshua Steinberg; Rabbi Benzion Chaim Lubetzky; Rabbi David Chaim Chelouche; Rabbi Yitzchak Zev Yadler; Rabbi Chaim Ozer Grodzenski as reported by Rabbi Chaim Pinchas Scheinberg; Dr. Avi Hurvitz.

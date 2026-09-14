@@ -13,18 +13,18 @@ words:
 sources:
   - wiaw:11433 "Shelach: Message on a Pole" (2024-06-29) https://articles.ohr.edu/articles/shelach-message-on-a-pole
 authorities: [Rabbi Yaakov Tzvi Mecklenburg, Zohar, Rabbeinu Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rav Hirsch, Rambam, Rashi, Rabbi Ernest Klein, Rabbi Tzvi Matisyahu Abrahams, Midrash Tanchuma, Mechilta, Even Shoshan, Doron Yaakov]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Pole: mot / bad / neis / toren / shapud
 
 ## Bottom line
 
-*Mot* is a thick carrying pole, and in the feminine
-*motah* the bar of a yoke: **carrying pole, yoke-bar**. *Bad* is the same object
-in the Mishkan vessels: **stave**. *Neis* is a tall
-upright pole raised to be seen, hence **banner, standard**, and on a ship the
-**sail**. *Toren* is the **mast** that holds the *neis* up. *Shapud* is a
+*Mot* is a pole for carrying things, and the feminine *motah* most often the
+bar of a yoke: **carrying pole, yoke-bar**. *Bad*, which Rabbi Shlomo of Urbino
+makes a synonym of *mot*, is the carrying pole of the Mishkan vessels:
+**stave**. *Neis* is a high pole or flagpole (**banner, standard**), and on a
+ship the **sail**. *Toren* is the **mast** that holds the *neis* up. *Shapud* is a
 pointed **skewer** or spit.
 
 ## Distinctions
@@ -62,7 +62,7 @@ Rabbi Shlomo of Urbino (*Ohel Moed*) makes *mot* and *bad* synonyms. *Badim* are
 the staves of the Shulchan (Shemos 25:28, 37:14), the golden Mizbeiach (Shemos
 30:4, 37:27), the copper Mizbeiach (Shemos 27:7, 38:7) and the Aron (Shemos
 25:13-15, 37:5). The root ב-ד-(ד) also yields *levad*, alone, and *boded*,
-singular, and *hisbodedus*. Pappenheim (*Yerios Shlomo*) connects them two ways:
+singular, and *hisbodedus*. Pappenheim connects them two ways: in *Yerios Shlomo*,
 once a branch of the right quality is chosen for a stave it can be viewed as the one branch
 out of all the others, singular among its peers; or a *bad* is the thick branch
 that comes off the tree right at the root and so looks like a tree standing
@@ -103,17 +103,30 @@ escape (*manos*) Gehinnom; the *Mechilta* to Shemos 15:25 reads "there He tested
 them" at Marah as Hashem lifting them to greatness, which He did by revealing
 parts of the Torah to them before Sinai.
 
+Rabbi Tzvi Matisyahu Abrahams (*Root Connections in the Torah*, 120-125) draws
+the senses of *neis* together homiletically: the *nisyonos* are the wind in the
+sail without which the boat, to which life is compared, does not move; only a
+*neis*, Divine help rather than human intuition, carries a person through a real
+test, and Nissan is named as the month of the greatest miracles in Tanach, among
+them the birth of Yitzchak, the Exodus, the Splitting of the Sea, Haman's downfall; a
+banner proclaims its message as a miracle proclaims Hashem's hand; and *nisah*,
+fleeing, is sometimes the right answer to a test, as Yosef fled (*vayanas*)
+rather than risk the sin (Bereishis 39:12). For that last link he leans on
+Rashi (to Yeshayahu 30:17), who explains the *neis* as a military signal to the
+troops either to rally or to flee.
+
 ### toren (תורן)
-The ship's mast, paired with *neis* as its sail (Yeshayahu 30:17 and 33:23,
-Yechezkel 27:5), and again in the Mishnah's ruling that a sold boat includes its
-*toren* and its *neis* (*Bava Basra* 5:1, with Rambam's commentary there and
-Rashi to *Bava Basra* 73a). Menachem Ibn Saruk, Ibn Janach and Radak give the
+The ship's mast, the tall pole that holds up the *neis*, its sail. The two
+words often appear together (Yeshayahu 30:17, 33:23; Yechezkel 27:5, 7), and the
+Mishnah rules that a sold boat includes its *toren* and its *neis* (*Bava Basra*
+5:1, with Rambam's commentary there and Rashi to *Bava Basra* 73a).
+Lexicographers such as Menachem Ibn Saruk, Ibn Janach and Radak give the
 triliteral ת-ר-ן, which yields nothing else. Pappenheim works from ת-ר,
 furling and unfurling, whose derivative *meisar*, rope, gives him the mast,
 since the mast is held fast by ropes.
 
 ### shapud (שפוד)
-Mishnaic only: usually a wooden pole with a sharpened end, a spit or skewer (*Pesachim*
+Mishnaic: usually a wooden pole with a sharpened end, a spit or skewer (*Pesachim*
 7:1-2, *Sukkah* 1:8, *Bava Kamma* 8:1, *Avodah Zarah* 5:12, *Zevachim* 11:7,
 *Keilim* 5:5 and 7:3, *Ohalos* 1:3). Vocalization is unsettled: the Kaufmann
 manuscript, the earliest vowelized Mishnah, reads *shfud* in most places,
@@ -128,21 +141,9 @@ Klein adds an etymology of his own, flagging that he usually shies away from spe
 English *spit* comes from German *spitz*, point or sharp end, from the
 Proto-Indo-European root *spei-* or *spi-*, something pointy, which also gives
 *spike* and *spoke*, and it seems fairly clear to him that *spit* and its
-cognates go back to the same Greek word as *shapud*, on the interchange of the
-*t* and *d* sounds in Germanic under Grimm's Law, the Danish *spid* for English
+cognates are related to the same Greek word from which *shapud* derives, on the
+interchange of the *t* and *d* sounds in Germanic under Grimm's Law, the Danish *spid* for English
 *spit* showing that dynamic.
-
-Rabbi Tzvi Matisyahu Abrahams (*Root Connections in the Torah*, 120-125) draws
-the senses of *neis* together homiletically: the *nisyonos* are the wind in the
-sail without which the boat, to which life is compared, does not move; only a
-*neis*, Divine help rather than human intuition, carries a person through a real
-test, and Nissan is named as the month of the greatest miracles in Tanach, the
-birth of Yitzchak, the Exodus, the Splitting of the Sea, Haman's downfall; a
-banner proclaims its message as a miracle proclaims Hashem's hand; and *nisah*,
-fleeing, is sometimes the right answer to a test, as Yosef fled (*vayanas*)
-rather than risk the sin (Bereishis 39:12). For that last link he leans on
-Rashi (to Yeshayahu 30:17), who explains the *neis* as a military signal to the
-troops either to rally or to flee.
 
 ## Rendering guidance
 
@@ -171,4 +172,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shelach: Message on a Pole](https://articles.ohr.edu/articles/shelach-message-on-a-pole)," *What's in a Word?*, Ohr Somayach, 29 June 2024.
 
-Cited in the essay: Bereishis 17:20, 22:1, 39:12; Shemos 15:25, 25:13-15, 25:28, 27:7, 30:4, 37:5, 37:14, 37:27, 38:7; Vayikra 26:13; Bamidbar 4:10, 4:12, 13:23, 21:8-9; Yeshayahu 30:17, 33:23, 58:6; Yechezkel 27:5, 30:18; Nachum 1:13; Tehillim 4:7; Zohar *Shelach* 160b; *Mechilta* to Shemos 15:25; *Tanchuma Vayeira* 43; Mishnah *Shabbos* 1:9, *Pesachim* 7:1-2, *Sukkah* 1:8, *Nedarim* 3:2, *Bava Kamma* 8:1, *Bava Metzia* 10:4, *Bava Basra* 1:6, 4:4-5, 5:1, *Shevuos* 3:8, *Avodah Zarah* 5:12, *Zevachim* 11:7, *Keilim* 5:5, 7:3, 12:3, 20:3, *Ohalos* 1:3, *Taharos* 10:1-2, 10:8, *Zavim* 4:7; Rambam's commentary to *Bava Basra* 5:1; Rashi to *Bava Basra* 73a and to Yeshayahu 30:17; Rav Hirsch to Bereishis 17:20, 22:1 and Tehillim 4:7; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Ibn Janach and Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheishek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; the Kaufmann manuscript of the Mishnah; Even Shoshan's concordance; Rabbi Ernest Klein; Doron Yaakov, *Academ* vol. 40 pp. 2-3; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* 120-125.
+Cited in the essay: Bereishis 17:20, 22:1, 39:12; Shemos 15:25, 25:13-15, 25:28, 27:7, 30:4, 37:5, 37:14, 37:27, 38:7; Vayikra 26:13; Bamidbar 4:10, 4:12, 13:23, 21:8-9; Yeshayahu 30:17, 33:23, 58:6; Yechezkel 27:5, 27:7, 30:18; Nachum 1:13; Tehillim 4:7; Zohar *Shelach* 160b; *Mechilta* to Shemos 15:25; *Tanchuma Vayeira* 43; Mishnah *Shabbos* 1:9, *Pesachim* 7:1-2, *Sukkah* 1:8, *Nedarim* 3:2, *Bava Kamma* 8:1, *Bava Metzia* 10:4, *Bava Basra* 1:6, 4:4-5, 5:1, *Shevuos* 3:8, *Avodah Zarah* 5:12, *Zevachim* 11:7, *Keilim* 5:5, 7:3, 12:3, 20:3, *Ohalos* 1:3, *Taharos* 10:1-2, 10:8, *Zavim* 4:7; Rambam's commentary to *Bava Basra* 5:1; Rashi to *Bava Basra* 73a and to Yeshayahu 30:17; Rav Hirsch to Bereishis 17:20, 22:1 and Tehillim 4:7; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Ibn Janach and Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheishek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; the Kaufmann manuscript of the Mishnah; Even Shoshan's concordance; Rabbi Ernest Klein; Doron Yaakov, *Academ* vol. 40 pp. 2-3; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* 120-125.

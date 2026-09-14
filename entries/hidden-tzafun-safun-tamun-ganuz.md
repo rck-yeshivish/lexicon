@@ -13,7 +13,7 @@ words:
 sources:
   - wiaw:11696 "Mishpatim: Hidden Things" (2025-02-22) https://articles.ohr.edu/articles/mishpatim-hidden-things
 authorities: [Mechilta, Rabbi Shlomo Pappenheim, Rabbi Yosef Kimchi, Rashi, Menachem Ibn Saruk, Shadal, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein, Rabbi Yehuda Leib Shapira-Frankfurter, Targum, Professor Edward Yechezkel Kutscher, Hillel Halkin]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Hidden: tzafun / safun / tamun / ganuz (nistar, ne'elam)
@@ -21,13 +21,13 @@ updated: 2026-09-10
 ## Bottom line
 
 All six mean "hidden," and Rabbi Shlomo Pappenheim does most of the separating.
-*Tamun* is **buried, concealed within** something (usually the
-ground). *Safun* is **stowed, hidden away** deliberately, its outer face
-covered. *Tzafun* is **hidden away for safekeeping, stored up**: concealed in
-order to preserve. *Ganuz* is
-**stored away, put in the treasury** (Rabbinic: consigned to *genizah*).
-*Nistar* / *mustar* is **hidden** from sight or from knowledge. *Ne'elam* is
-**hidden from the mind, beyond one's grasp**.
+*Tamun* is **buried, concealed within** something (for Pappenheim, usually the
+ground). For him *safun* is **stowed, hidden away** deliberately, its outer face
+seemingly covered, and *tzafun* is **hidden away for safekeeping, stored up**:
+concealed in order to preserve. *Ganuz* is **stored away, put in the treasury**
+(Rabbinic: consigned to *genizah*). *Nistar* / *mustar* is **hidden** from sight
+or from knowledge. For Pappenheim *ne'elam* is **hidden from the mind, beyond
+one's grasp**.
 
 ## Distinctions
 
@@ -35,7 +35,7 @@ order to preserve. *Ganuz* is
 Root ט-מ-ן, thirty-one times in Tanach; at least eight are a hidden trap laid
 unbeknownst to the victim (Yirmiyahu 18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6,
 140:6, 142:4), others burying, as Yaakov buried the idols of Shechem (Bereishis
-35:4), Moshe the Mitzri (Shemos 2:12), and the spies themselves in flax (Yehoshua
+35:4) and Moshe the Mitzri (Shemos 2:12), or the spies hidden in flax (Yehoshua
 2:6). Mishnaic *hatmanah* is embedding food in a heat source or insulator to keep
 it warm (Shabbos 2:7, 4:1-2; Beitzah 2:6; Eduyos 3:10). From all this Rabbi Reuven Chaim Klein
 concludes that *tamun* seems to mean simply anything placed within another
@@ -49,7 +49,7 @@ and *tumtum*; a *tamun* object is one people are blocked from reaching, and
 
 ### safun (ספון)
 Root ס-פ-ן, spelled with samech (Devarim 33:21; Melachim I 6:9, 7:3) or sin
-(Devarim 33:19); Rashi (to Devarim 33:19) notes the two are one, and Rabbi
+(Devarim 33:19); Rashi (to Devarim 33:19) notes that the two spellings are interchangeable, and Rabbi
 Yosef Kimchi (*Sefer Zikaron*) explains it by the samech/sin interchange.
 Menachem Ibn Saruk (*Machberet Menachem*) actually uses *tzafun* to define
 *safun*. Pappenheim: from SAMECH-PEH, "edge, end," seemingly meaning that what is
@@ -84,7 +84,7 @@ for This World, but I am storing for the World to Come." Rabbi Yehoshua (Jeremy)
 Steinberg of the Veromemanu Foundation suggests a link to KAF-NUN-SAMECH, usually
 "enter" but sometimes storing or in-gathering, as in *kanus*; Rabbi Ernest Klein
 writes that *ganuz* and *ganzach* are related to the Persian *ganza*/*ganj*,
-"treasure," and in Modern Hebrew a *ganaz* is an archivist or curator of a
+"treasure." In Modern Hebrew a *ganaz* is an archivist or curator of a
 treasured collection. *Gizbar*, treasurer, is its relative, twice in Tanach (Ezra
 1:8, 7:21) and often in the Mishnah of the *hekdesh* officer; scholars have
 explained *gizbar* as a loanword from Old Persian *ganzabara*/*ginzbara*, the nun
@@ -96,8 +96,8 @@ Aramaicized form, zayin becoming dalet, and *gizbar*/*gidabar* is apparently als
 the etymon of the names Jasper, Caspar and Gaspar.
 
 ### nistar / mustar (נסתר, מוסתר, סתר)
-Root ס-ת-ר, over a hundred times in Tanach; *mistar*/*mistor*, the mem being
-radical to the stem, is a hidden or protected place (Yeshayahu 4:6; Eichah 3:10).
+Root ס-ת-ר, over a hundred times in Tanach; *mistar*/*mistor*, the initial mem
+extraneous to the root, is a hidden or protected place (Yeshayahu 4:6; Eichah 3:10).
 Pappenheim, on various prooftexts, has the root cover both hidden from people's
 knowledge (*seter*, a secret) and hidden from the senses (*hastarah*, physically
 obscured); the Rabbinic sense "destroy" is a redefinition of the second, since
@@ -107,10 +107,10 @@ is at first hidden from the one who points out the incongruity, or each statemen
 blocks the other's truth, or a contradiction destroys the force of the original
 statement.
 
-Rabbinic *mistorin*, the hidden and esoteric parts of the Torah (Midrash Shmuel
-28:1, on Rachel's descendants as masters of *mistorin*; Midrash Shocher Tov to
-Tehillim 114 and Bamidbar Rabbah 20:21, on Israel not revealing their *mistorin*
-in Egypt; Tanchuma Lech Lecha 19, on milah; Tanchuma Vayera 5, on the Oral Torah)
+Rabbinic *mistorin*, "mystery" (Midrash Shmuel 28:1, on Rachel's descendants as
+masters of *mistorin*, the hidden and esoteric parts of the Torah; Midrash Shocher
+Tov to Tehillim 114 and Bamidbar Rabbah 20:22, on Israel not revealing their
+*mistorin* in Egypt; Tanchuma Lech Lecha 19, on milah; Tanchuma Vayera 5, on the Oral Torah)
 resembles this root in both sound and meaning, but its origin is the Greek
 *mysterion*, secret rites
 open only to initiates, who were called *mystes*, which is also behind English
@@ -160,4 +160,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Mishpatim: Hidden Things](https://articles.ohr.edu/articles/mishpatim-hidden-things)," *What's in a Word?*, Ohr Somayach, 22 February 2025.
 
-Cited in the essay: Shemos 22:5 with Mechilta and Bava Kamma 60a-62a; Yirmiyahu 18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6, 140:6, 142:4; Bereishis 35:4, 41:36; Shemos 2:2, 2:12; Yehoshua 2:6; Shabbos 2:7, 4:1-2, 9:6, 16:1; Beitzah 2:6; Eduyos 3:10; Sanhedrin 10:6; Devarim 33:19, 33:21 with Rashi; Melachim I 6:9, 7:3; Rabbi Yosef Kimchi, *Sefer Zikaron*; Menachem Ibn Saruk, *Machberet Menachem*; Pappenheim, *Cheshek Shlomo* s.v. TET-MEM, SAMECH-PEH, TZADI-PEH, SAMECH-TAV-REISH, AYIN-LAMED; Shadal to Vayikra 11:5; Yechezkel 27:24; Esther 3:9, 4:7; Divrei HaYamim I 28:11; Ezra 1:8, 5:17, 6:1, 7:20, 7:21; Yeshayahu 39:6; Shmuel I 25:29; Pesachim 4:9; Middos 1:6; Shekalim 6:1-2; Bava Basra 11a; Daniel 3:2-3; Yeshayahu 4:6; Eichah 3:10; Midrash Shmuel 28:1; Midrash Shocher Tov to Tehillim 114; Bamidbar Rabbah 20:21; Tanchuma Lech Lecha 19 and Vayera 5; *HaKsav VeHaKabbalah* to Bereishis 49:6; Hillel Halkin (Philologos), *Forward*, 19 August 2012.
+Cited in the essay: Shemos 22:5 with Mechilta and Bava Kamma 60a-62a; Yirmiyahu 18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6, 140:6, 142:4; Bereishis 35:4, 41:36; Shemos 2:2, 2:12; Yehoshua 2:6; Shabbos 2:7, 4:1-2, 9:6, 16:1; Beitzah 2:6; Eduyos 3:10; Sanhedrin 10:6; Devarim 33:19 with Rashi, 33:21; Melachim I 6:9, 7:3; Rabbi Yosef Kimchi, *Sefer Zikaron*; Menachem Ibn Saruk, *Machberet Menachem*; Rabbi Shlomo Pappenheim; Shadal to Vayikra 11:5; Yechezkel 27:24; Esther 3:9, 4:7; Divrei HaYamim I 28:11; Ezra 1:8, 5:17, 6:1, 7:20, 7:21; Yeshayahu 39:6; Shmuel I 25:29; Pesachim 4:9; Middos 1:6; Shekalim 6:1-2; Bava Basra 11a; Daniel 3:2-3; Yeshayahu 4:6; Eichah 3:10; Midrash Shmuel 28:1; Midrash Shocher Tov to Tehillim 114; Bamidbar Rabbah 20:22; Tanchuma Lech Lecha 19 and Vayera 5; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LaVikah*, cited in *HaKsav VeHaKabbalah* to Bereishis 49:6; Hillel Halkin (Philologos), *Forward*, 19 August 2012.

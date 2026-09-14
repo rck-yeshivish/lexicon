@@ -9,7 +9,7 @@ words:
   - he: צרעת
     tr: tzaraas
     en: leprosy, the affliction itself
-    distinct: the impurity that clings to the person because of sin, the malady proper (Arizal, Shaar HaMitzvos); Ibn Ezra reads it as "disease" in a general sense
+    distinct: the impurity that clings to the person because of sin (Arizal, Shaar HaMitzvos); Ibn Ezra reads it as "disease" in a general sense
   - he: נגע
     tr: nega
     en: spot, plague-spot, affliction
@@ -21,28 +21,29 @@ words:
   - he: מצורע
     tr: metzora
     en: leper (until purified)
-    distinct: still applies once the spot is healed, until the purification is finished (Perlmutter); Chazal expound it as motzi shem ra, one who defames (Erachin 15b)
+    distinct: still applies once the spot is healed, until the purification is finished (Perlmutter); for Shadal, one who has multiple negaim; Chazal expound it as motzi shem ra, one who defames (Erachin 15b)
   - he: צרעה
     tr: tzirah
     en: hornet, pestilence
-    distinct: same root; Ibn Ezra and Ibn Janach make it a malady sent against the Canaanites, Ibn Saruk keeps it a separate category with no shared sense
+    distinct: same root; Ibn Ezra and Ibn Janach make it a malady sent against the Canaanites, Ibn Saruk lists it as a separate category without entertaining a shared sense
 sources:
   - wiaw:11793 "Tazria/Metzora: Spot on (Tzar'at)" (2025-05-03) https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat
 authorities: [Arizal, Rav Hirsch, Rabbi Shlomo Pappenheim, Ibn Ezra, Rabbi Yonah Ibn Janach, Menachem Ibn Saruk, Radak, Peirush HaRokeach, Rabbi Menachem Deutsch, Rabbi Shlomo Tzvi Shick, Rabbi Eliezer Perlmutter, Shadal, Rabbi Moshe David Valle, Rabbi Yehuda Aryeh of Carpentras, Rabbi Tzvi Hirsch Ferber, Rabbi Avi Kobernick, Midrash Tadshe, pseudo-Rashi, Moshe Ossi, Gesenius, Alfred Jones]
-status: draft
+status: reviewed
 updated: 2026-09-10
 ---
 # Leprosy: tzaraas / nega / tzarua / metzora
 
 ## Bottom line
 
-*Tzaraas* is the **affliction itself**, the impurity that has taken hold;
-*nega* is the **spot**, the point of contact where it strikes, and on the
-Arizal's reading, where the Torah pairs them, *nega tzaraas*, it is naming two
-things and not one. *Tzarua*
-and *metzora* both mean **leper**, but *tzarua* is the man while the affliction
-is on him and *metzora* still fits him until the purification is complete
-(Perlmutter). The affliction has been rendered leprosy, Hansen's disease,
+*Tzaraas* is the **affliction itself**; *nega* is the **spot**, for Rabbi
+Shlomo Pappenheim the point of contact where the affliction strikes. On the
+Arizal's reading *tzaraas* is the impurity that has taken hold and *nega* the
+Divine blow that brings it to the surface, so that where the Torah pairs them,
+*nega tzaraas*, it is naming two things and not one. *Tzarua* and *metzora* both
+mean **leper**; of four explanations of why the Torah alternates them,
+Perlmutter's is that *tzarua* is the man while the affliction is on him and
+*metzora* still fits him until the purification is complete. The affliction has been rendered leprosy, Hansen's disease,
 epilepsy, mold and mere skin discoloration, and Rav Hirsch holds that an affliction that is merely
 pathological is by definition not a *nega* at all.
 
@@ -53,7 +54,7 @@ pathological is by definition not a *nega* at all.
 | צרעת | tzaraas | leprosy, the affliction | the impurity clinging to the sinner (Arizal); "disease" generally (Ibn Ezra to Vayikra 13:19) |
 | נגע | nega | spot, plague-spot | the meeting point of the man and what strikes him (Pappenheim); the Divine blow that exposes the impurity (Arizal) |
 | צרוע | tzarua | leper, while afflicted | used only of one actually bearing the affliction (Perlmutter); a single spot (Shadal, hard to substantiate by Rabbi Klein's account) |
-| מצורע | metzora | leper, until purified | covers the healed man before purification (Perlmutter); read as *motzi shem ra* (Erachin 15b) |
+| מצורע | metzora | leper, until purified | covers the healed man before purification (Perlmutter); more than one spot (Shadal); read as *motzi shem ra* (Erachin 15b) |
 | צרעה | tzirah | hornet, pestilence | sent against the Canaanites; a malady rather than an insect (Ibn Ezra), "destruction, pestilence" (Ibn Janach) |
 
 ## Where the authorities disagree
@@ -69,8 +70,9 @@ and the mechanism that exposes it, and each word appears alone where only one of
 the two is in view.
 
 **What tzirah is.**
-- Ibn Ezra (to Shemos 23:28, Devarim 7:20): not a hornet but a disease, of a
-  piece with *tzaraas*.
+- Ibn Ezra (to Shemos 23:28, Devarim 7:20): not a hornet but a disease or
+  malady, etymologically related to *tzaraas*; conversely (to Vayikra 13:19),
+  *tzaraas* itself just means "disease" in a general sense.
 - Ibn Janach (*Sefer HaShorashim*) traces both to צ-ר-ע and defines *tzirah* as
   destruction and pestilence.
 - Menachem Ibn Saruk lists the two as separate categories under one root and
@@ -100,13 +102,9 @@ the two is in view.
    *tzarua* is only for one still actively afflicted, while *metzora* covers a
    man whose spot has healed but who has not yet finished the purification, since
    he remains on the cusp of the affliction returning.
-4. **Number of spots.** Shadal (to Vayikra 13:5): *tzarua* is one who has only a
-   single *nega*; Rabbi Klein introduces the distinction as hard to
-   substantiate.
-
-Rabbi Klein does not rank the four, though he says of the first answer that it
-fails to account for where each word is used, and introduces the fourth as hard
-to substantiate.
+4. **Number of spots.** Shadal (to Vayikra 13:45): *tzarua* is one who has only
+   a single *nega*, *metzora* one who has multiple *negaim*; Rabbi Klein finds
+   the distinction hard to substantiate.
 
 ## Distinctions
 
@@ -174,18 +172,18 @@ same letters reordered, turns on where one puts the *ayin*, that is, on how the
 eye sees what has come.
 
 ### tzarua (צרוע) and metzora (מצורע)
-Both are declensions of צ-ר-ע. *Tzarua* appears five times (Vayikra 5:2, 13:44-45,
-14:3; Bamidbar 5:2), for instance where a leper may not eat *terumah* (Vayikra
-22:4) or must be sent from the camp; *metzora* appears fifteen, including the
+Both are declensions of צ-ר-ע. *Tzarua* appears five times (Vayikra 13:44-45,
+14:3, 22:4; Bamidbar 5:2), for instance where a leper may not eat *terumah*
+(Vayikra 22:4) or must be sent from the camp (Bamidbar 5:2); *metzora* appears fifteen, including the
 opening of the purification laws (Vayikra 14:2), Naaman (Melachim II 5:1),
 Geichazi (5:27), and Uziyahu (Melachim II 15:5, Divrei HaYamim II 26:21-23). The
 feminine *metzoraas* is used of Moshe's hand (Shemos 4:6) and of Miriam
 (Bamidbar 12:10). For the four accounts of the alternation, see above. On the
-sins that bring *tzaraas*, Chazal list idolatry, immorality, murder, chillul
+sins that can bring *tzaraas*, Chazal list idolatry, immorality, murder, chillul
 Hashem, blasphemy, theft, misusing public property, haughtiness, *lashon hara*,
 stinginess, false testimony, a judge who perverts the law, swearing in vain,
 entering another's domain, evil thoughts, and causing strife between brothers
-(*Vayikra Rabbah* 17:3, *Erachin* 15b, *Zohar Balak* 206a, *Tanchuma Metzora* 4).
+(*Vayikra Rabbah* 17:3, *Erachin* 16a, *Zohar Balak* 206a, *Tanchuma Metzora* 4).
 
 ## Rendering guidance
 
@@ -212,4 +210,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Tazria/Metzora: Spot on (Tzar'at)](https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat)," *What's in a Word?*, Ohr Somayach, 3 May 2025.
 
-Cited in the essay: Vayikra 5:2, 13:2-3, 13:5, 13:9, 13:19, 13:20, 13:25, 13:27, 13:44-45, 13:47, 13:49, 13:59, 14:2-3, 14:32, 14:34, 21:18, 22:4, 22:23; Shemos 4:6, 23:28; Bamidbar 5:2, 12:10; Devarim 7:20, 24:8; Yeshayahu 28:20; Yehoshua 24:12; Melachim I 11:26; Melachim II 5:1-27, 15:5; Divrei HaYamim II 4:17, 26:19-23; *Erachin* 15b; *Vayikra Rabbah* 17:3; *Toras Kohanim* to Vayikra 13:2; *Zohar Balak* 206a; *Tanchuma Metzora* 4; Arizal, *Shaar HaMitzvos*, *Tazria*; Ibn Janach, *Sefer HaShorashim*; Pappenheim, *Yerios Shlomo*; Gesenius; Alfred Jones, *The Proper Names of the Old Testament Scriptures Expounded and Illustrated*, p. 376.
+Cited in the essay: Vayikra 13:2-3, 13:9, 13:19, 13:20, 13:25, 13:27, 13:44-45, 13:47, 13:49, 13:59, 14:2-3, 14:32, 14:34, 21:18, 22:4, 22:23; Shemos 4:6, 23:28; Bamidbar 5:2, 12:10; Devarim 7:20, 24:8; Yeshayahu 28:20; Yehoshua 24:12; Melachim I 11:26; Melachim II 5:1-27, 15:5; Divrei HaYamim II 4:17, 26:19-23; *Erachin* 15b, 16a; *Vayikra Rabbah* 17:3; *Toras Kohanim* to Vayikra 13:2; *Zohar Balak* 206a; *Tanchuma Metzora* 4; *Midrash Tadshe* (*Otzar Midrashim* p. 481); Arizal, *Shaar HaMitzvos*, *Tazria*; Ibn Ezra to Shemos 23:28, Devarim 7:20 and Vayikra 13:19; Ibn Janach, *Sefer HaShorashim*; Radak; Menachem Ibn Saruk; Pappenheim, *Yerios Shlomo*; Rav Hirsch to Vayikra 13:2 and Bereishis 20:5; Shadal to Vayikra 13:45; *Peirush HaRokeach* to Vayikra 13:45 with *Tosafos HaShaleim*; Rabbi Shlomo Tzvi Shick, *Torah Shleimah*, *Metzora* 1, citing Rabbi Menachem Deutsch; Rabbi Eliezer Perlmutter, *Even Moshe*; Rabbi Yehuda Aryeh of Carpentras, *Ohalei Yehudah*; Rabbi Moshe David Valle, *Kise Nachon* to Melachim I 11:26; Rabbi Tzvi Hirsch Ferber; pseudo-Rashi to Divrei HaYamim II 4:17; Rabbi Avi Kobernick; Moshe Ossi, *Al Katzeh HaLashon*; Gesenius; Alfred Jones, *The Proper Names of the Old Testament Scriptures Expounded and Illustrated*, p. 376.
