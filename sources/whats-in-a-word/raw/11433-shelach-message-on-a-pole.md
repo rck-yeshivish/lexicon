@@ -6,7 +6,7 @@ date: 2024-06-29
 hebrew_date: "For the week ending 29 June 2024 / 23 Sivan 5784"
 url: https://articles.ohr.edu/articles/shelach-message-on-a-pole
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
-truncated_upstream: "the body stops mid-sentence at the source; too recent for the author's mirror, which runs about two years behind. Missing: the close of an aside on the Danish word spid. Re-checked 2026-09-10: every Ohr Somayach code path (articles API, slug page, legacy numeric page, yhiy/article.php, RSS and print views) returns the identical cut, and it is already present in the Wayback capture of the legacy page (20240627172606), so the loss is in the stored row itself. No mirror carries the tail: the Times of Israel repost is either cut at the same word or is an abridged teaser pointing back to ohr.edu, and the Jewish Press syndication is a differently-scoped edit that stops before this passage."
+completed_from: "the body was cut mid-sentence in every Ohr Somayach copy; the missing close was restored from the author's own post of the full essay to his Google Group, https://groups.google.com/g/whats-in-a-word/c/gxKIrue8eb8"
 ---
 # Shelach: Message on a Pole
 
@@ -106,4 +106,4 @@ Before the Jews entered the Holy Land, they demanded of Moses to send a group of
 
 
 
- The English word *spit* derives from the German word *spitz* ("point/sharp end"), which in turn comes from the Proto-Indo-European root *spei*- or *spi*- (“something pointy"). Other English words that derive from that root include *spike * and *spoke* (like those on a wheel). Although in these essays, I typically shy away from speculative etymologies, it seems pretty clear to me that the English word *spit* and its cognates are actually related to the same Greek word from which the Mishnaic *shapud* derives. This is can be understood based on the interchangeability of the *t*-sound and *d*-sound in Germanic language, as explained by Grimm’s Law. Indeed, the Danish word *spid * is the equivalent to the English word *spit*, which shows that dynamic in p
+ The English word *spit* derives from the German word *spitz* ("point/sharp end"), which in turn comes from the Proto-Indo-European root *spei*- or *spi*- (“something pointy"). Other English words that derive from that root include *spike * and *spoke* (like those on a wheel). Although in these essays, I typically shy away from speculative etymologies, it seems pretty clear to me that the English word *spit* and its cognates are actually related to the same Greek word from which the Mishnaic *shapud* derives. This is can be understood based on the interchangeability of the *t*-sound and *d*-sound in Germanic language, as explained by Grimm’s Law. Indeed, the Danish word *spid * is the equivalent to the English word *spit*, which shows that dynamic in play here.

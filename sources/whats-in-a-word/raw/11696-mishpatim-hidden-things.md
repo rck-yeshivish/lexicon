@@ -6,7 +6,7 @@ date: 2025-02-22
 hebrew_date: "For the week ending 22 February 2025 / 24 Shvat 5785"
 url: https://articles.ohr.edu/articles/mishpatim-hidden-things
 source: "What's in a Word?" by Rabbi Reuven Chaim Klein, Ohr Somayach (ohr.edu). Copyright the author/Ohr Somayach; stored for private research use.
-truncated_upstream: "the body stops mid-sentence at the source; too recent for the author's mirror. Missing: the close of a sentence listing further hidden-words the essay does not treat. Re-checked 2026-09-10: every Ohr Somayach code path (articles API, slug page, legacy numeric page, yhiy/article.php, RSS and print views) returns the identical cut, and it is already present in the Wayback capture of the legacy page (20250206190946), so the loss is in the stored row itself. No mirror carries the tail: the Times of Israel repost is either cut at the same word or is an abridged teaser pointing back to ohr.edu, and the Jewish Press syndication is a differently-scoped edit that stops before this passage."
+completed_from: "the body was cut mid-sentence in every Ohr Somayach copy; the missing close was restored from the author's own post of the full essay to his Google Group, https://groups.google.com/g/whats-in-a-word/c/IX746QiD7dI"
 ---
 # Mishpatim: Hidden Things
 
@@ -90,4 +90,4 @@ While the Torah makes it clear that a person who lights a fire has personal liab
 
 
 
- Rabbi Yehuda Leib Shapira-Frankfurter, sometimes known as Ralash, writes in *HaRechasim LaVikah *(as cited in *HaKtav VeHaKabbalah* to Gen. 49:6) that the while *sod * denotes a “secret” or “hidden matter” that people speak about quietly, *ta’alumah* (a cognate of *ne’elam*)or *seter * refer to things that are so hidden that only *one person* knows about them and to which nobody else is privy. [For more about Hebrew synonyms for “secret,” see my earlier essay “[Revealing the Secret](https://ohr.edu/this_week/whats_in_a_word/10317)” (Oct. 2022). Others words for "hidden" things include *pele/nifla*, *nichbeh/mitchabeh*, *tzanua*, *camun*, and more, but we cannot treat all of these words in thi
+ Rabbi Yehuda Leib Shapira-Frankfurter, sometimes known as Ralash, writes in *HaRechasim LaVikah *(as cited in *HaKtav VeHaKabbalah* to Gen. 49:6) that the while *sod * denotes a “secret” or “hidden matter” that people speak about quietly, *ta’alumah* (a cognate of *ne’elam*)or *seter * refer to things that are so hidden that only *one person* knows about them and to which nobody else is privy. [For more about Hebrew synonyms for “secret,” see my earlier essay “[Revealing the Secret](https://ohr.edu/this_week/whats_in_a_word/10317)” (Oct. 2022). Others words for "hidden" things include *pele/nifla*, *nichbeh/mitchabeh*, *tzanua*, *camun*, and more, but we cannot treat all of these words in this limited framework.]
