@@ -43,8 +43,8 @@ def check(p):
     dm = re.search(r"^domain:\s*(\S+)", fm, re.M)
     if dm and dm.group(1) not in DOMAINS:
         errs.append(f"domain `{dm.group(1)}` not in the allowed set")
-    if not re.search(r"^\s+- wiaw:\d+ \".+\" \(\d{4}-\d{2}-\d{2}\) https://articles\.ohr\.edu/articles/[a-z0-9\-]+\s*$", fm, re.M):
-        errs.append("no well-formed source line (  - wiaw:<id> \"<title>\" (<date>) https://articles.ohr.edu/articles/<slug>)")
+    if not re.search(r"^\s+- wiaw:\d+ \".+\" \(\d{4}-\d{2}-\d{2}\) https://(?:articles\.ohr\.edu/articles/[a-z0-9\-]+|groups\.google\.com/g/whats-in-a-word/c/[\w\-]+)\s*$", fm, re.M):
+        errs.append("no well-formed source line (  - wiaw:<id> \"<title>\" (<date>) https://articles.ohr.edu/articles/<slug>, or the author\'s Google Group thread for an essay Ohr Somayach does not carry)")
     if re.search(r"^hebrew:\s*\[\s*\]", fm, re.M) or not re.search(r"[א-ת]", fm):
         errs.append("hebrew list empty or not Hebrew script")
     if not re.search(r"^status:\s*(draft|reviewed)\s*$", fm, re.M):
