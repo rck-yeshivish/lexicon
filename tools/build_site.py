@@ -471,6 +471,27 @@ def main():
     for e in entries:
         emit(f'entries/{e["slug"]}.html', entry_page(e))
 
+    # "Try" examples: a Hebrew word, a transliteration and an English concept, each
+    # from a different entry, chosen in the browser on every visit. The pool is a
+    # few kilobytes inlined in the page, so the home page does not fetch data.json
+    # just to fill three buttons, and the static three stay for anyone without
+    # scripts. Only words with their own ruling go in, so every pick finds something.
+    def strip_nikud(s):
+        return "".join(ch for ch in s if not (0x0591 <= ord(ch) <= 0x05C7))
+    heb_word = re.compile("[" + chr(0x05D0) + "-" + chr(0x05EA) + "]{2,6}")
+    pool = {"h": {}, "t": {}, "e": {}}
+    for w in words:
+        if not w["d"]:
+            continue
+        if heb_word.fullmatch(w["k"]) and heb_word.fullmatch(strip_nikud(w["h"])):
+            pool["h"].setdefault(w["s"], strip_nikud(w["h"]))
+        if re.fullmatch("[a-z][a-z']{2,11}", w["t"] or ""):
+            pool["t"].setdefault(w["s"], w["t"])
+        if re.fullmatch("[a-z]{4,14}", w["e"] or ""):
+            pool["e"].setdefault(w["s"], w["e"])
+    try_pool = json.dumps({k: [[v, s] for s, v in d.items()] for k, d in pool.items()},
+                          ensure_ascii=False, separators=(",", ":"))
+
     n_words, n_entries = len(words), len(entries)
     home = f'''<section class="hero">
   <div class="banner">
@@ -488,6 +509,7 @@ def main():
   <p class="hint">Try <button class="chip" data-q="בושה">בושה</button>
     <button class="chip" data-q="chochmah">chochmah</button>
     <button class="chip" data-q="humiliation">humiliation</button></p>
+  <script type="application/json" id="try-pool">{try_pool}</script>
 </section>
 <section class="split">
   <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">א&#1523; ועד ת&#1523;</p></a>
@@ -1028,6 +1050,26 @@ function wire(){
     } else if(e.key === "Escape"){ close(); q.blur(); }
   });
   document.addEventListener("click", e => { if(!ac.contains(e.target) && e.target !== q) close(); });
+  // Swap the three static examples for a fresh set on every visit: one Hebrew
+  // word, one transliteration, one English concept, from three different entries.
+  const pool = document.getElementById("try-pool");
+  if(pool){
+    try{
+      const P = JSON.parse(pool.textContent), used = new Set();
+      const chips = document.querySelectorAll(".hint .chip");
+      const pick = list => {
+        const ok = (list || []).filter(x => !used.has(x[1]));
+        if(!ok.length) return null;
+        const x = ok[Math.floor(Math.random() * ok.length)];
+        used.add(x[1]);
+        return x;
+      };
+      ["h", "t", "e"].forEach((k, i) => {
+        const x = pick(P[k]);
+        if(x && chips[i]){ chips[i].textContent = x[0]; chips[i].dataset.q = x[0]; }
+      });
+    }catch(err){}
+  }
   document.querySelectorAll(".chip").forEach(b =>
     b.addEventListener("click", () => { q.value = b.dataset.q; q.focus(); run(); }));
 }
