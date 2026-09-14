@@ -1,0 +1,1960 @@
+{
+ "_note": "Entries that discuss the same Hebrew word, or tie their words to the same root themselves. Found by matching words, roots and transliterations across entries, then each candidate pair judged by reading both entries (2026-09-14); coincidental look-alikes were dropped. The site shows each pair as 'Also discussed in' on both pages.",
+ "pairs": [
+  {
+   "a": "activist-askan-shtadlan-macher",
+   "b": "angel-malach-shaliach",
+   "word": "שדר / shadar (ש-ד-ר)"
+  },
+  {
+   "a": "altar-mizbeach-matzeivah-bamah",
+   "b": "idols-elilim-gilulim-shikutzim",
+   "word": "מצבה / matzeivah (נ-צ-ב)"
+  },
+  {
+   "a": "altar-mizbeach-matzeivah-bamah",
+   "b": "platform-kan-duchan-bimah-basis",
+   "word": "במה / בימה, bamah / bimah"
+  },
+  {
+   "a": "altar-mizbeach-matzeivah-bamah",
+   "b": "sibling-in-law-yavam-yevamah-giss",
+   "word": "במה / bamah"
+  },
+  {
+   "a": "altar-mizbeach-matzeivah-bamah",
+   "b": "slaughter-shechitah-zevichah-tevichah",
+   "word": "מזבח / זביחה, mizbeach / zevichah (ז-ב-ח)"
+  },
+  {
+   "a": "altar-mizbeach-matzeivah-bamah",
+   "b": "standing-nitzav-amidah",
+   "word": "מצבה / matzeivah (נ-צ-ב)"
+  },
+  {
+   "a": "altar-mizbeach-matzeivah-bamah",
+   "b": "tombstone-matzeivah-tziyun-nefesh",
+   "word": "מצבה / matzeivah (נ-צ-ב)"
+  },
+  {
+   "a": "angel-classes-kruvim-chayos-ishim",
+   "b": "angel-malach-shaliach",
+   "word": "מלאך / מלאכים, malach / malachim"
+  },
+  {
+   "a": "angel-classes-kruvim-chayos-ishim",
+   "b": "man-adam-ish-enosh-gever",
+   "word": "איש / אישים, ish / ishim"
+  },
+  {
+   "a": "angel-classes-kruvim-chayos-ishim",
+   "b": "snake-nachash-saraph-tanin-peten",
+   "word": "שרף / שרפים, saraph / serafim (ש-ר-פ)"
+  },
+  {
+   "a": "angel-classes-kruvim-chayos-ishim",
+   "b": "waking-yekitzah-oorah",
+   "word": "עירין / irin"
+  },
+  {
+   "a": "angel-malach-shaliach",
+   "b": "work-melachah-avodah",
+   "word": "מלאך / מלאכה, malach / melachah (ל-א-ך)"
+  },
+  {
+   "a": "anger-cheimah-ketzef-charon-rogez",
+   "b": "dirt-zuhamah-lichluch-tinuf-goal",
+   "word": "זעם / zaam (ז-ע-מ), with זוהמה / zuhamah"
+  },
+  {
+   "a": "anger-cheimah-ketzef-charon-rogez",
+   "b": "nose-af-chotem-nichirayim",
+   "word": "אף / חרון אף, af / charon af (א-נ-פ)"
+  },
+  {
+   "a": "anger-cheimah-ketzef-charon-rogez",
+   "b": "poison-eres-rosh-chamat-sam-hamaves",
+   "word": "כעס / עכס, kaas / eches (metathesis)"
+  },
+  {
+   "a": "anger-cheimah-ketzef-charon-rogez",
+   "b": "sin-chet-avon-pesha",
+   "word": "עברה / עבירה, evrah / aveirah (ע-ב-ר)"
+  },
+  {
+   "a": "anger-cheimah-ketzef-charon-rogez",
+   "b": "sun-and-moon-shemesh-chamah-yareach",
+   "word": "חמה / cheimah and chamah (heat)"
+  },
+  {
+   "a": "anger-cheimah-ketzef-charon-rogez",
+   "b": "trembling-raadah-retet-raash",
+   "word": "רוגז / rogez (ר-ג-ז)"
+  },
+  {
+   "a": "anger-cheimah-ketzef-charon-rogez",
+   "b": "wall-chomah-kir-shur-kotel",
+   "word": "חמה / חומה, cheimah / chomah (ח-מ)"
+  },
+  {
+   "a": "anger-cheimah-ketzef-charon-rogez",
+   "b": "waving-terumah-tenufah",
+   "word": "אנף / anaf (נ-פ / נ-ו-פ)"
+  },
+  {
+   "a": "animal-behemah-chayah",
+   "b": "animal-sounds-shoeg-nohem-noer",
+   "word": "בהמה / behemah"
+  },
+  {
+   "a": "animal-behemah-chayah",
+   "b": "beast-beir-behemah-baar-bur",
+   "word": "בהמה / חיה, behemah / chayah"
+  },
+  {
+   "a": "animal-sounds-shoeg-nohem-noer",
+   "b": "beast-beir-behemah-baar-bur",
+   "word": "בהמה / behemah"
+  },
+  {
+   "a": "animal-sounds-shoeg-nohem-noer",
+   "b": "drinking-shtiyah-hashkaah-gemiah",
+   "word": "שוקק / shokek (ש-ק)"
+  },
+  {
+   "a": "animal-sounds-shoeg-nohem-noer",
+   "b": "waking-yekitzah-oorah",
+   "word": "נוער / noer (ע-ר)"
+  },
+  {
+   "a": "animal-sounds-shoeg-nohem-noer",
+   "b": "whistle-shreikah-tziftzuf",
+   "word": "מצפצף / mitzaftzef (צ-פ)"
+  },
+  {
+   "a": "animal-sounds-shoeg-nohem-noer",
+   "b": "youth-naar-almah-elem",
+   "word": "נוער / נער, noer / naar (נ-ע-ר)"
+  },
+  {
+   "a": "approach-gishah-kiruv",
+   "b": "war-milchamah-krav-pulmus",
+   "word": "קרב / kiruv, krav, korban (ק-ר-ב)"
+  },
+  {
+   "a": "ark-teivah-aron",
+   "b": "word-milah-teivah-davar",
+   "word": "תיבה / teivah"
+  },
+  {
+   "a": "armed-chamush-chalutz-mezuyan",
+   "b": "food-ochel-shever-tevuah-dagan",
+   "word": "ז-ן / ז-ו-ן (zayin, mazon)"
+  },
+  {
+   "a": "armed-chamush-chalutz-mezuyan",
+   "b": "slipping-off-shemittah-chalitzah-shalaf",
+   "word": "חלוץ / חליצה, chalutz / chalitzah (ח-ל-צ)"
+  },
+  {
+   "a": "around-saviv-heikef-afef-chug",
+   "b": "cake-ugah-chararah-gluskos",
+   "word": "עוגה / ugah (ag, circle)"
+  },
+  {
+   "a": "around-saviv-heikef-afef-chug",
+   "b": "hat-and-belt-mitznefes-migbaas-avnet",
+   "word": "חגורה / chagorah"
+  },
+  {
+   "a": "around-saviv-heikef-afef-chug",
+   "b": "merchant-socher-rochel-cnaani-tagar",
+   "word": "סוחר / socher (ס-ח-ר)"
+  },
+  {
+   "a": "around-saviv-heikef-afef-chug",
+   "b": "old-zaken-seivah-yashish",
+   "word": "סב / סבא, sav / saba"
+  },
+  {
+   "a": "artisan-charash-choshev-rokem",
+   "b": "circumciser-mohel-gozer-rofeh-uman",
+   "word": "אומן / uman (א-מ-נ)"
+  },
+  {
+   "a": "artisan-charash-choshev-rokem",
+   "b": "purple-argaman-segol-lilach",
+   "word": "ר-ק-מ / ר-ג-מ (rokem, argaman)"
+  },
+  {
+   "a": "artisan-charash-choshev-rokem",
+   "b": "silence-cheresh-shetikah-dom-chashah",
+   "word": "חרש / charash, cheresh (ח-ר-ש)"
+  },
+  {
+   "a": "artisan-charash-choshev-rokem",
+   "b": "stoning-sekilah-regimah",
+   "word": "ר-ק-מ / ר-ג-מ (rokem, regimah)"
+  },
+  {
+   "a": "artisan-charash-choshev-rokem",
+   "b": "thought-machshavah-hirhur-raayon",
+   "word": "חושב / מחשבה, choshev / machshavah (ח-ש-ב)"
+  },
+  {
+   "a": "artisan-charash-choshev-rokem",
+   "b": "writing-ketivah-charut-chakuk",
+   "word": "חרש / charash, charushah (ח-ר-ש)"
+  },
+  {
+   "a": "balsam-panag-tzari-afarsemon",
+   "b": "placing-natan-sam-shat",
+   "word": "בושם / bosem, besamim"
+  },
+  {
+   "a": "basket-tene-sal-keluv",
+   "b": "rope-chevel-chut-avot",
+   "word": "אטון / eitun"
+  },
+  {
+   "a": "beast-beir-behemah-baar-bur",
+   "b": "explanation-peirush-beiur-hesber-pesher",
+   "word": "בור / באר / ביאור, bor / be'er / beiur (ב-א-ר)"
+  },
+  {
+   "a": "beauty-hod-hadar",
+   "b": "citron-hadar-etrog-tapuach",
+   "word": "הדר / hadar (ה-ד-ר)"
+  },
+  {
+   "a": "beauty-hod-hadar",
+   "b": "praise-hallel-shevach-hodaah-kilus",
+   "word": "הדר / הודאה, hadar (lehader) / hodaah"
+  },
+  {
+   "a": "because-baavur-biglal-bishvil",
+   "b": "path-derech-orach",
+   "word": "שביל / shvil, bishvil"
+  },
+  {
+   "a": "because-baavur-biglal-bishvil",
+   "b": "paths-netiv-mesilah-shvil-mishol",
+   "word": "שביל / בשביל, shvil / bishvil (ש-ב-ל)"
+  },
+  {
+   "a": "bed-mitah-eres",
+   "b": "betrothal-erusin-kiddushin-nissuin",
+   "word": "ערס / ערש, eres (ע-ר-ס), with arusah"
+  },
+  {
+   "a": "bed-mitah-eres",
+   "b": "dough-arisah-batzek-issah",
+   "word": "ערס / עריסה, eres / arisah (ע-ר-ס)"
+  },
+  {
+   "a": "bed-mitah-eres",
+   "b": "staff-mateh-shevet-makel",
+   "word": "מטה mitah / מטה mateh (נ-ט-ה, incline)"
+  },
+  {
+   "a": "beginning-reishis-techilah-kedem",
+   "b": "directions-tzafon-darom-mizrach-maarav",
+   "word": "קדם / kedem (ק-ד-מ)"
+  },
+  {
+   "a": "beginning-reishis-techilah-kedem",
+   "b": "poison-eres-rosh-chamat-sam-hamaves",
+   "word": "ראש / rosh (poison)"
+  },
+  {
+   "a": "beginning-reishis-techilah-kedem",
+   "b": "window-chalon-eshnav",
+   "word": "חלון / תחילה chalon / techilah (biliteral ח-ל, Pappenheim)"
+  },
+  {
+   "a": "betrothal-erusin-kiddushin-nissuin",
+   "b": "dough-arisah-batzek-issah",
+   "word": "ארוסה / עריסה arusah / arisah (ע-ר-ס)"
+  },
+  {
+   "a": "betrothal-erusin-kiddushin-nissuin",
+   "b": "tying-keshirah-asirah-kafut",
+   "word": "אסר / asar, to tie (א-ס-ר)"
+  },
+  {
+   "a": "bird-of-tzipor-kanaf",
+   "b": "morning-shachar-boker-tzafra",
+   "word": "צפרא / tzafra"
+  },
+  {
+   "a": "bird-of-tzipor-kanaf",
+   "b": "wing-kanaf-ever-agaf",
+   "word": "כנף / kanaf"
+  },
+  {
+   "a": "blemish-mum-pgam-simpon",
+   "b": "nothing-hevel-rik-tohu-bohu",
+   "word": "מאומה / meumah"
+  },
+  {
+   "a": "blindness-iver-suma-sagi-nahor-sanverim",
+   "b": "waking-yekitzah-oorah",
+   "word": "עור / iver (ע-ו-ר)"
+  },
+  {
+   "a": "blue-sapir-techeiles-kachol",
+   "b": "counting-sefirah-mispar-minyan",
+   "word": "ספיר / sapir (ס-פ-ר)"
+  },
+  {
+   "a": "blue-sapir-techeiles-kachol",
+   "b": "fringes-tzitzis-gedilim-petil",
+   "word": "תכלת / techeiles"
+  },
+  {
+   "a": "blue-sapir-techeiles-kachol",
+   "b": "telling-haggadah-sippur",
+   "word": "ספיר / ספור sapir / sippur (ס-פ-ר)"
+  },
+  {
+   "a": "boats-oniah-sefinah-rafsodah",
+   "b": "wilderness-midbar-aravah-tziyah",
+   "word": "צי / tzi, tzim (ship)"
+  },
+  {
+   "a": "boils-shechin-garav-cheres",
+   "b": "sun-and-moon-shemesh-chamah-yareach",
+   "word": "חרס / cheres"
+  },
+  {
+   "a": "boils-shechin-garav-cheres",
+   "b": "teaching-horaah-limmud-alef",
+   "word": "ילפת / yalefes (ל-פ)"
+  },
+  {
+   "a": "bone-etzem-gerem",
+   "b": "strength-koach-gevurah-ometz-chozek",
+   "word": "עצם / etzem, otzem"
+  },
+  {
+   "a": "bone-etzem-gerem",
+   "b": "tree-eitz-ilan",
+   "word": "עצם / עץ etzem / eitz"
+  },
+  {
+   "a": "book-sefer-iggeret-megillah",
+   "b": "border-gevul-techum-meitzar-sfar",
+   "word": "ספר / sfar, sefer (ס-פ-ר)"
+  },
+  {
+   "a": "book-sefer-iggeret-megillah",
+   "b": "counting-sefirah-mispar-minyan",
+   "word": "ספר / sefer, sofer, mispar (ס-פ-ר)"
+  },
+  {
+   "a": "book-sefer-iggeret-megillah",
+   "b": "document-gett-shtar",
+   "word": "שטר / shtar"
+  },
+  {
+   "a": "book-sefer-iggeret-megillah",
+   "b": "gathering-asifah-kovetz-kehillah-agur",
+   "word": "אגרת / אגור iggeret / agur (א-ג-ר)"
+  },
+  {
+   "a": "book-sefer-iggeret-megillah",
+   "b": "haircut-giluach-gizah-galav-sapar",
+   "word": "ספר / sfar, sippur, sapar (ס-פ-ר family)"
+  },
+  {
+   "a": "book-sefer-iggeret-megillah",
+   "b": "names-shlomo-koheles-agur-lemuel",
+   "word": "אגור / agur (א-ג-ר)"
+  },
+  {
+   "a": "book-sefer-iggeret-megillah",
+   "b": "return-shuv-chazarah",
+   "word": "מחזור / machzor (ח-ז-ר)"
+  },
+  {
+   "a": "book-sefer-iggeret-megillah",
+   "b": "scribe-sofer-lavlar",
+   "word": "סופר / sofer (ס-פ-ר)"
+  },
+  {
+   "a": "book-sefer-iggeret-megillah",
+   "b": "telling-haggadah-sippur",
+   "word": "ספר / ספור sefer / sippur (ס-פ-ר)"
+  },
+  {
+   "a": "border-gevul-techum-meitzar-sfar",
+   "b": "counting-sefirah-mispar-minyan",
+   "word": "ספר / sfar (ס-פ-ר)"
+  },
+  {
+   "a": "border-gevul-techum-meitzar-sfar",
+   "b": "egypt-mitzrayim-patros-rahav",
+   "word": "מיצר / מצרים meitzar / Mitzrayim"
+  },
+  {
+   "a": "border-gevul-techum-meitzar-sfar",
+   "b": "haircut-giluach-gizah-galav-sapar",
+   "word": "ספר / sfar (ס-פ-ר)"
+  },
+  {
+   "a": "border-gevul-techum-meitzar-sfar",
+   "b": "red-adom-shani-chamutz",
+   "word": "חום / תחום chum / techum (ח-ו-ם)"
+  },
+  {
+   "a": "border-gevul-techum-meitzar-sfar",
+   "b": "telling-haggadah-sippur",
+   "word": "ספר / sfar (ס-פ-ר)"
+  },
+  {
+   "a": "bread-lechem-kikar-challah-pat",
+   "b": "cake-ugah-chararah-gluskos",
+   "word": "ככר / חלה kikar / challah"
+  },
+  {
+   "a": "bread-lechem-kikar-challah-pat",
+   "b": "plain-mishor-sharon-eil-kikar",
+   "word": "ככר / kikar"
+  },
+  {
+   "a": "bread-lechem-kikar-challah-pat",
+   "b": "war-milchamah-krav-pulmus",
+   "word": "לחם / מלחמה lechem / milchamah (ל-ח-ם)"
+  },
+  {
+   "a": "bread-lechem-kikar-challah-pat",
+   "b": "wet-lach-ratuv-raanan",
+   "word": "לחם / lechem (ל-ח)"
+  },
+  {
+   "a": "breast-shadayim-dadim-atinim",
+   "b": "clouds-anan-av-eid-nasi-chaziz",
+   "word": "שדים / shadayim"
+  },
+  {
+   "a": "canopy-apiryon-chuppah-succah",
+   "b": "curtain-parochet-masach-vilon-pargod",
+   "word": "סוכה / סכך / מסך sukkah / sechach / masach (ס-כ, covering)"
+  },
+  {
+   "a": "cattle-shor-par-egel-bakar",
+   "b": "haircut-giluach-gizah-galav-sapar",
+   "word": "עגל / עיגול egel / igul (ע-ג-ל)"
+  },
+  {
+   "a": "cattle-shor-par-egel-bakar",
+   "b": "morning-shachar-boker-tzafra",
+   "word": "בקר / boker, bakar (ב-ק-ר)"
+  },
+  {
+   "a": "cattle-shor-par-egel-bakar",
+   "b": "path-derech-orach",
+   "word": "עגל / מעגל egel / maagal (igul)"
+  },
+  {
+   "a": "cattle-shor-par-egel-bakar",
+   "b": "paths-netiv-mesilah-shvil-mishol",
+   "word": "עגל / מעגל egel / maagal (igul)"
+  },
+  {
+   "a": "cattle-shor-par-egel-bakar",
+   "b": "teaching-horaah-limmud-alef",
+   "word": "אלף / aleph (ox)"
+  },
+  {
+   "a": "cattle-shor-par-egel-bakar",
+   "b": "wall-chomah-kir-shur-kotel",
+   "word": "שור / shor (ש-ר, Pappenheim)"
+  },
+  {
+   "a": "chair-kisse-keis-kursa",
+   "b": "clothing-beged-levush-kesus-simlah",
+   "word": "כסות / kesus (כ-ס, covering)"
+  },
+  {
+   "a": "chair-kisse-keis-kursa",
+   "b": "property-rechush-mikneh-nechasim",
+   "word": "נכסים / כסא nechasim / kisse (כ-ס)"
+  },
+  {
+   "a": "cheese-gvinah-charitz-shfot",
+   "b": "sinai-chorev-gavnunim-bashan",
+   "word": "גבננים / גבינה gavnunim / gvinah (ג-ב-ן)"
+  },
+  {
+   "a": "chew-koses-loes",
+   "b": "coriander-gad-kusbarta",
+   "word": "כסס / koses, kusbarta"
+  },
+  {
+   "a": "chew-koses-loes",
+   "b": "rock-even-sela",
+   "word": "סלע / sela (ס-ל-ע)"
+  },
+  {
+   "a": "chew-koses-loes",
+   "b": "teeth-shein-mesalos-kaka",
+   "word": "לעס / lo'es (ל-ע-ס)"
+  },
+  {
+   "a": "chick-efroach-gozal-pargit-nipol",
+   "b": "donkey-chamor-aton-pere-ayir-pered",
+   "word": "פרא / אפרוח pere / efroach (Hirsch's פ-ר group)"
+  },
+  {
+   "a": "chick-efroach-gozal-pargit-nipol",
+   "b": "theft-genevah-gezeilah-chamas",
+   "word": "גוזל / gozal (ג-ז-ל)"
+  },
+  {
+   "a": "child-yeled-olel-roveh-ravya",
+   "b": "sheep-and-goats-seh-keves-ayil-eiz",
+   "word": "טלה / טליא tleh / talya"
+  },
+  {
+   "a": "child-yeled-olel-roveh-ravya",
+   "b": "youth-naar-almah-elem",
+   "word": "עלם / עלמה (elem / almah)"
+  },
+  {
+   "a": "circumciser-mohel-gozer-rofeh-uman",
+   "b": "cutting-bokea-korea-gozer",
+   "word": "גוזר / גזר (ג-ז-ר), also מוהל / מילה"
+  },
+  {
+   "a": "circumciser-mohel-gozer-rofeh-uman",
+   "b": "word-milah-teivah-davar",
+   "word": "מילה (milah), Pappenheim's מ-ל"
+  },
+  {
+   "a": "citron-hadar-etrog-tapuach",
+   "b": "praise-hallel-shevach-hodaah-kilus",
+   "word": "הדר / להדר (hadar / lehader)"
+  },
+  {
+   "a": "clothing-beged-levush-kesus-simlah",
+   "b": "property-rechush-mikneh-nechasim",
+   "word": "כסות / נכסים (כ-ס-ה, covering)"
+  },
+  {
+   "a": "coins-shekel-sela-beka-darkemon",
+   "b": "rock-even-sela",
+   "word": "סלע (sela)"
+  },
+  {
+   "a": "cold-kor-tzinah",
+   "b": "thorns-kotz-dardar-sneh-charul",
+   "word": "צנינים / צנים / צנה (צ-נ)"
+  },
+  {
+   "a": "collateral-mashkon-chaval-avot-rahan",
+   "b": "rope-chevel-chut-avot",
+   "word": "חבל (ח-ב-ל) chaval / chevel; not עבוט / עבות, which only share a transliteration"
+  },
+  {
+   "a": "collateral-mashkon-chaval-avot-rahan",
+   "b": "sanctuary-mishkan-mikdash",
+   "word": "משכון / משכן (ש-כ-נ, dwell)"
+  },
+  {
+   "a": "collateral-mashkon-chaval-avot-rahan",
+   "b": "wound-petza-chaburah-chovel",
+   "word": "חובל / חבל (ח-ב-ל)"
+  },
+  {
+   "a": "color-tzeva-gavan-ein-mareh",
+   "b": "prophet-navi-roeh-chozeh",
+   "word": "מראה (mareh)"
+  },
+  {
+   "a": "coming-biah-halichah-atah",
+   "b": "leading-noheg-molich-nachah-nohel",
+   "word": "הולך / מוליך (ה-ל-ך)"
+  },
+  {
+   "a": "coming-biah-halichah-atah",
+   "b": "sign-oht-mofet",
+   "word": "אתה / אות (א-ת-ה, and Pappenheim's ת)"
+  },
+  {
+   "a": "coming-biah-halichah-atah",
+   "b": "synonyms-davar-vayomer-vayidaber",
+   "word": "אתה (atah), Devarim 33:2"
+  },
+  {
+   "a": "completeness-tam-shalem-tamim",
+   "b": "names-shlomo-koheles-agur-lemuel",
+   "word": "שלמה / שלם (ש-ל-מ)"
+  },
+  {
+   "a": "completeness-tam-shalem-tamim",
+   "b": "peace-shalom-sheket-shalvah",
+   "word": "שלם / שלום (ש-ל-מ)"
+  },
+  {
+   "a": "coriander-gad-kusbarta",
+   "b": "fortune-mazal-gad-mazar",
+   "word": "גד (gad), Pappenheim's ג-ד"
+  },
+  {
+   "a": "corner-peah-keren-zavit-pinah",
+   "b": "horn-shofar-keren-yovel-chatzotzros",
+   "word": "קרן (keren)"
+  },
+  {
+   "a": "corpse-peger-neveilah-challal",
+   "b": "idols-elilim-gilulim-shikutzim",
+   "word": "חללים / חלול (ח-ל-ל), elilim"
+  },
+  {
+   "a": "corpse-peger-neveilah-challal",
+   "b": "window-chalon-eshnav",
+   "word": "חלל (ח-ל-ל / ח-ל)"
+  },
+  {
+   "a": "counting-sefirah-mispar-minyan",
+   "b": "haircut-giluach-gizah-galav-sapar",
+   "word": "ספר (ס-פ-ר) sapar / sfar"
+  },
+  {
+   "a": "counting-sefirah-mispar-minyan",
+   "b": "money-mammon-damim-maos",
+   "word": "מנה / מונה (מ-נ-ה)"
+  },
+  {
+   "a": "counting-sefirah-mispar-minyan",
+   "b": "remember-zachor-pakad",
+   "word": "פקד / מפקד (פ-ק-ד)"
+  },
+  {
+   "a": "counting-sefirah-mispar-minyan",
+   "b": "scribe-sofer-lavlar",
+   "word": "סופר (ס-פ-ר)"
+  },
+  {
+   "a": "counting-sefirah-mispar-minyan",
+   "b": "species-min-zan-sug",
+   "word": "מונה / מנין (מ-נ)"
+  },
+  {
+   "a": "counting-sefirah-mispar-minyan",
+   "b": "telling-haggadah-sippur",
+   "word": "ספר / מספר / ספיר (ס-פ-ר)"
+  },
+  {
+   "a": "crying-out-tzaakah-zaakah-shaavah",
+   "b": "salvation-yeshuah-teshuah-hatzalah-purkan",
+   "word": "שועה / ישועה (ש-ו-ע / ש-ע)"
+  },
+  {
+   "a": "curse-arur-kelalah-allah-kavah",
+   "b": "dirt-zuhamah-lichluch-tinuf-goal",
+   "word": "אלה / אלח (א-ל-ה)"
+  },
+  {
+   "a": "curse-arur-kelalah-allah-kavah",
+   "b": "disgrace-bizayon-kalon-zilzul-gnai",
+   "word": "קללה (ק-ל)"
+  },
+  {
+   "a": "curtain-parochet-masach-vilon-pargod",
+   "b": "hard-kashah-kashiach-perech",
+   "word": "פרוכת / פרך (פ-ר-כ)"
+  },
+  {
+   "a": "cutting-bokea-korea-gozer",
+   "b": "excision-karet-ariri",
+   "word": "כרת (kares / karet)"
+  },
+  {
+   "a": "cutting-bokea-korea-gozer",
+   "b": "word-milah-teivah-davar",
+   "word": "מילה (milah)"
+  },
+  {
+   "a": "cutting-tools-garzen-kardum-maatzad",
+   "b": "hammer-makevet-patish-kurnas",
+   "word": "קורנס (kurnas)"
+  },
+  {
+   "a": "dancing-rikud-kirkur-pizuz",
+   "b": "gold-zahav-paz-kesem-charutz",
+   "word": "מפזז / פז (פ-ז / פ-ז-ז)"
+  },
+  {
+   "a": "dancing-rikud-kirkur-pizuz",
+   "b": "jumping-pesach-dilug-kefitzah",
+   "word": "קפיצה (kefitzah), Yerushalmi Beitzah 5:2"
+  },
+  {
+   "a": "death-mitah-petirah",
+   "b": "murder-retzichah-harigah-ketilah",
+   "word": "מיתה (mitah)"
+  },
+  {
+   "a": "delay-boshesh-ichur-hismahmeah",
+   "b": "shame-bushah-klimah-cherpah",
+   "word": "בושש / בושה (ב-ו-ש / ב-ש)"
+  },
+  {
+   "a": "desire-taavah-chemdah",
+   "b": "land-eretz-adamah-ratzon",
+   "word": "חפץ (chefetz)"
+  },
+  {
+   "a": "desire-taavah-chemdah",
+   "b": "sinai-chorev-gavnunim-bashan",
+   "word": "חמדה / חמד (ח-מ-ד)"
+  },
+  {
+   "a": "desire-taavah-chemdah",
+   "b": "will-ratzon-chefetz",
+   "word": "חפץ (chefetz)"
+  },
+  {
+   "a": "destruction-churban-shemamah",
+   "b": "dry-yavesh-chorev-negev",
+   "word": "חרבה / חורבן / חרב (ח-ר-ב)"
+  },
+  {
+   "a": "destruction-churban-shemamah",
+   "b": "earth-taivel-arka-cheled",
+   "word": "חרבה (charavah)"
+  },
+  {
+   "a": "dig-karah-chafirah-chatzivah",
+   "b": "shame-bushah-klimah-cherpah",
+   "word": "חפר / חפרה / חרפה (ח-פ-ר)"
+  },
+  {
+   "a": "dig-karah-chafirah-chatzivah",
+   "b": "spying-latur-leragel",
+   "word": "חפר / חפירה (ח-פ-ר)"
+  },
+  {
+   "a": "directions-tzafon-darom-mizrach-maarav",
+   "b": "dry-yavesh-chorev-negev",
+   "word": "נגב (negev)"
+  },
+  {
+   "a": "directions-tzafon-darom-mizrach-maarav",
+   "b": "hidden-tzafun-safun-tamun-ganuz",
+   "word": "צפון (tzafon / tzafun, צ-פ-נ)"
+  },
+  {
+   "a": "directions-tzafon-darom-mizrach-maarav",
+   "b": "mixing-iruv-mizug-dimua",
+   "word": "מערב / עירוב (ע-ר-ב, mixing)"
+  },
+  {
+   "a": "directions-tzafon-darom-mizrach-maarav",
+   "b": "red-adom-shani-chamutz",
+   "word": "מזרח / זרח (ז-ר-ח)"
+  },
+  {
+   "a": "directions-tzafon-darom-mizrach-maarav",
+   "b": "resident-ger-toshav-ezrach",
+   "word": "מזרח / אזרח (ז-ר-ח)"
+  },
+  {
+   "a": "directions-tzafon-darom-mizrach-maarav",
+   "b": "sweet-matok-areiv-naim",
+   "word": "מערב / ערב (ע-ר-ב)"
+  },
+  {
+   "a": "directions-tzafon-darom-mizrach-maarav",
+   "b": "wilderness-midbar-aravah-tziyah",
+   "word": "מערב / ערב (ע-ר-ב)"
+  },
+  {
+   "a": "disgrace-bizayon-kalon-zilzul-gnai",
+   "b": "spoils-shalal-bizah-malkoach",
+   "word": "בזה / בזיון (ב-ז-ה, ב-ז)"
+  },
+  {
+   "a": "donkey-chamor-aton-pere-ayir-pered",
+   "b": "pile-areimah-chamarim-gadish",
+   "word": "חמור / חמרים (ח-מ-ר)"
+  },
+  {
+   "a": "donkey-chamor-aton-pere-ayir-pered",
+   "b": "wine-yayin-tirosh-chemer-shechar",
+   "word": "חמור / חמר (ח-מ-ר)"
+  },
+  {
+   "a": "dough-arisah-batzek-issah",
+   "b": "wine-yayin-tirosh-chemer-shechar",
+   "word": "עסיס / עיסה / עיסוי (ע-ס-ס)"
+  },
+  {
+   "a": "drawing-water-dalah-shoev",
+   "b": "poor-ani-evyon-dal-rash",
+   "word": "דל / דלה / דלי (ד-ל, ד-ל-ל)"
+  },
+  {
+   "a": "drawing-water-dalah-shoev",
+   "b": "pulling-moshe-moshech-shoev-shoef",
+   "word": "שואב (ש-א-ב)"
+  },
+  {
+   "a": "drinking-shtiyah-hashkaah-gemiah",
+   "b": "hook-vav-agmon-shfataim",
+   "word": "הגמיאיני / גומא / אגמון (ג-מ-א, ג-מ)"
+  },
+  {
+   "a": "drinking-shtiyah-hashkaah-gemiah",
+   "b": "meal-seudah-mishteh-mesibah",
+   "word": "משתה / שתיה (ש-ת-ה)"
+  },
+  {
+   "a": "drunkenness-sove-shachar-sheichar",
+   "b": "gift-minchah-matanah-shai",
+   "word": "שכר / שיכור / אשכר (ש-כ-ר)"
+  },
+  {
+   "a": "drunkenness-sove-shachar-sheichar",
+   "b": "lie-sheker-kazav-kachash",
+   "word": "שיכור / שקר"
+  },
+  {
+   "a": "drunkenness-sove-shachar-sheichar",
+   "b": "wine-yayin-tirosh-chemer-shechar",
+   "word": "שכר / סבא (ש-כ-ר, ס-ב-א)"
+  },
+  {
+   "a": "dry-yavesh-chorev-negev",
+   "b": "earth-taivel-arka-cheled",
+   "word": "חרבה / יבשה (ח-ר-ב, י-ב-ש)"
+  },
+  {
+   "a": "earth-taivel-arka-cheled",
+   "b": "stopping-chadal-mana-chasach-kala-pasak",
+   "word": "חדל / חלד"
+  },
+  {
+   "a": "egypt-mitzrayim-patros-rahav",
+   "b": "fire-aish-lehavah-shalheves-lapid",
+   "word": "להבים / להב (ל-ה-ב)"
+  },
+  {
+   "a": "egypt-mitzrayim-patros-rahav",
+   "b": "public-rabim-tzibbur-parhessya-pumbi",
+   "word": "רהב"
+  },
+  {
+   "a": "eleven-achad-asar-ashtei-asar",
+   "b": "one-echad-achad-chad",
+   "word": "אחד (א-ח-ד)"
+  },
+  {
+   "a": "exaggeration-havai-guzma",
+   "b": "haircut-giluach-gizah-galav-sapar",
+   "word": "גז / גוזז / גזם (ג-ז)"
+  },
+  {
+   "a": "exaggeration-havai-guzma",
+   "b": "locust-arbeh-gazam-yelek-chasil",
+   "word": "גזם (ג-ז-ם)"
+  },
+  {
+   "a": "exchange-temurah-chalifah",
+   "b": "heretic-min-apikores-kofer-meshumad",
+   "word": "תמורה / מומר (מ-ו-ר)"
+  },
+  {
+   "a": "exchange-temurah-chalifah",
+   "b": "razor-taar-morah",
+   "word": "תמורה / מורה (מ-ר)"
+  },
+  {
+   "a": "explanation-peirush-beiur-hesber-pesher",
+   "b": "food-ochel-shever-tevuah-dagan",
+   "word": "שבר (ש-ב-ר)"
+  },
+  {
+   "a": "explanation-peirush-beiur-hesber-pesher",
+   "b": "trust-bitachon-machseh-tikvah",
+   "word": "שבר (ש-ב-ר)"
+  },
+  {
+   "a": "family-mishpachah-bayis-sheer-machaneh",
+   "b": "handmaid-amah-shifchah-eved",
+   "word": "משפחה / שפחה (ש-פ-ח)"
+  },
+  {
+   "a": "famine-raav-kafan-batzores",
+   "b": "grapevine-gefen-sorek-shdeimah",
+   "word": "כפן / גפן"
+  },
+  {
+   "a": "famine-raav-kafan-batzores",
+   "b": "pressure-lachatz-dchak-negisah-atz",
+   "word": "אלץ / עולצנא (א-ל-צ)"
+  },
+  {
+   "a": "famine-raav-kafan-batzores",
+   "b": "tying-keshirah-asirah-kafut",
+   "word": "כפן / כפייה (כ-פ)"
+  },
+  {
+   "a": "fasting-tzom-taanis",
+   "b": "poor-ani-evyon-dal-rash",
+   "word": "עינוי / עני / תענית"
+  },
+  {
+   "a": "fat-cheilev-shuman-pader",
+   "b": "oil-shemen-yitzhar",
+   "word": "שמן / שומן (ש-מ-נ)"
+  },
+  {
+   "a": "fat-cheilev-shuman-pader",
+   "b": "white-lavan-chivar-tzochar",
+   "word": "חלב / חלבון (ח-ל-ב)"
+  },
+  {
+   "a": "fear-eimah-pachad-yirah-daagah",
+   "b": "fish-dag-dagah",
+   "word": "דאגה (ד-א-ג)"
+  },
+  {
+   "a": "fire-aish-lehavah-shalheves-lapid",
+   "b": "magic-lahat-lat-ittim",
+   "word": "להט (ל-ה-ט)"
+  },
+  {
+   "a": "fish-dag-dagah",
+   "b": "fish-nun-kavra-shibuta",
+   "word": "דג / נון"
+  },
+  {
+   "a": "fish-dag-dagah",
+   "b": "food-ochel-shever-tevuah-dagan",
+   "word": "דגן (ד-ג, ד-ג-נ)"
+  },
+  {
+   "a": "fish-nun-kavra-shibuta",
+   "b": "snake-nachash-saraph-tanin-peten",
+   "word": "תנין"
+  },
+  {
+   "a": "fleeing-nas-boreach",
+   "b": "pole-mot-bad-neis-toren-shapud",
+   "word": "נס (נ-ס, נ-ס-ס)"
+  },
+  {
+   "a": "food-ochel-shever-tevuah-dagan",
+   "b": "month-bul-marcheshvan",
+   "word": "יבול / בול (ב-ל)"
+  },
+  {
+   "a": "food-ochel-shever-tevuah-dagan",
+   "b": "son-ben-bar",
+   "word": "בר (ב-ר)"
+  },
+  {
+   "a": "food-ochel-shever-tevuah-dagan",
+   "b": "straying-zenus-stiyah",
+   "word": "מזון / זנות (ז-ן)"
+  },
+  {
+   "a": "food-ochel-shever-tevuah-dagan",
+   "b": "trust-bitachon-machseh-tikvah",
+   "word": "שבר (ש-ב-ר)"
+  },
+  {
+   "a": "foot-paam-regel",
+   "b": "spying-latur-leragel",
+   "word": "רגל (ר-ג-ל)"
+  },
+  {
+   "a": "forehead-meitzach-padachat",
+   "b": "forever-olam-netzach-selah-vaed",
+   "word": "נצח / מצח / צח (צ-ח)"
+  },
+  {
+   "a": "forever-olam-netzach-selah-vaed",
+   "b": "hidden-tzafun-safun-tamun-ganuz",
+   "word": "עולם / נעלם (ע-ל-ם)"
+  },
+  {
+   "a": "forever-olam-netzach-selah-vaed",
+   "b": "spoils-shalal-bizah-malkoach",
+   "word": "עד (ע-ד)"
+  },
+  {
+   "a": "forever-olam-netzach-selah-vaed",
+   "b": "witness-eid-sahad",
+   "word": "עד (ע-ד)"
+  },
+  {
+   "a": "forgetting-shachach-nashah",
+   "b": "lie-sheker-kazav-kachash",
+   "word": "שכח / כחש (כ-ח-ש)"
+  },
+  {
+   "a": "forgetting-shachach-nashah",
+   "b": "man-adam-ish-enosh-gever",
+   "word": "אנוש / נשה (נ-ש)"
+  },
+  {
+   "a": "forgiveness-mechilah-selichah-kapparah",
+   "b": "heretic-min-apikores-kofer-meshumad",
+   "word": "כפרה / כופר (כ-פ-ר)"
+  },
+  {
+   "a": "forgiveness-mechilah-selichah-kapparah",
+   "b": "lion-aryeh-kfir-lavi-layish",
+   "word": "כפרה / כפיר (כ-פ-ר, cover)"
+  },
+  {
+   "a": "freedom-cheirus-chofesh-dror",
+   "b": "shame-bushah-klimah-cherpah",
+   "word": "חורים / חרפה via חיור (ח-ו-ר, white)"
+  },
+  {
+   "a": "freedom-cheirus-chofesh-dror",
+   "b": "white-lavan-chivar-tzochar",
+   "word": "חורים / חיור (ח-ו-ר)"
+  },
+  {
+   "a": "freedom-cheirus-chofesh-dror",
+   "b": "writing-ketivah-charut-chakuk",
+   "word": "חרות / חירות"
+  },
+  {
+   "a": "friend-reya-chaver-amit",
+   "b": "hebron-chevron-kiryas-arba-mamre-eshkol",
+   "word": "חבר / חברון (ח-ב-ר)"
+  },
+  {
+   "a": "friend-reya-chaver-amit",
+   "b": "judgment-din-rachamim",
+   "word": "תרועה (ר-ע, broken)"
+  },
+  {
+   "a": "friend-reya-chaver-amit",
+   "b": "wound-petza-chaburah-chovel",
+   "word": "חבר / חבורה (ח-ב-ר)"
+  },
+  {
+   "a": "fringes-tzitzis-gedilim-petil",
+   "b": "garment-aderet-glima-itztala",
+   "word": "טלית / איצטלא"
+  },
+  {
+   "a": "fringes-tzitzis-gedilim-petil",
+   "b": "phylacteries-totafos-tefillin",
+   "word": "פתיל (פ-ת-ל)"
+  },
+  {
+   "a": "fringes-tzitzis-gedilim-petil",
+   "b": "rope-chevel-chut-avot",
+   "word": "פתיל / גדיל"
+  },
+  {
+   "a": "garment-aderet-glima-itztala",
+   "b": "strength-koach-gevurah-ometz-chozek",
+   "word": "אדרת / אדיר (א-ד-ר)"
+  },
+  {
+   "a": "garment-aderet-glima-itztala",
+   "b": "veil-tzaif-redid",
+   "word": "סודר"
+  },
+  {
+   "a": "gathering-asifah-kovetz-kehillah-agur",
+   "b": "names-shlomo-koheles-agur-lemuel",
+   "word": "אגור / קהלת (א-ג-ר, ק-ה-ל)"
+  },
+  {
+   "a": "gift-minchah-matanah-shai",
+   "b": "seeing-raah-hibit-tzofeh",
+   "word": "תשורה / שור (ש-ו-ר)"
+  },
+  {
+   "a": "gift-minchah-matanah-shai",
+   "b": "wine-yayin-tirosh-chemer-shechar",
+   "word": "אשכר / שכר (ש-כ-ר)"
+  },
+  {
+   "a": "gold-zahav-paz-kesem-charutz",
+   "b": "murder-retzichah-harigah-ketilah",
+   "word": "חרוץ / רצח via ח-ר-צ (cutting)"
+  },
+  {
+   "a": "good-tov-noam-shapir",
+   "b": "horn-shofar-keren-yovel-chatzotzros",
+   "word": "שפיר / שפר / שופר (ש-פ-ר)"
+  },
+  {
+   "a": "good-tov-noam-shapir",
+   "b": "sweet-matok-areiv-naim",
+   "word": "נועם / נעים (נ-ע-ם)"
+  },
+  {
+   "a": "grapevine-gefen-sorek-shdeimah",
+   "b": "plain-mishor-sharon-eil-kikar",
+   "word": "שדמה"
+  },
+  {
+   "a": "grapevine-gefen-sorek-shdeimah",
+   "b": "red-adom-shani-chamutz",
+   "word": "שורק (ש-ר-ק)"
+  },
+  {
+   "a": "grapevine-gefen-sorek-shdeimah",
+   "b": "wing-kanaf-ever-agaf",
+   "word": "גפן / אגף (ג-פ)"
+  },
+  {
+   "a": "guard-shemirah-netzirah-netirah",
+   "b": "palace-zvul-armon-apadna-tirah",
+   "word": "נטירה (ט-ר)"
+  },
+  {
+   "a": "guest-oreach-ushpiz-achsanai",
+   "b": "path-derech-orach",
+   "word": "אורח / ארח (א-ר-ח)"
+  },
+  {
+   "a": "guest-oreach-ushpiz-achsanai",
+   "b": "sun-and-moon-shemesh-chamah-yareach",
+   "word": "אורח / ירח via ארח (path)"
+  },
+  {
+   "a": "haircut-giluach-gizah-galav-sapar",
+   "b": "path-derech-orach",
+   "word": "גילוח / מעגל via עיגול (ע-ג-ל)"
+  },
+  {
+   "a": "haircut-giluach-gizah-galav-sapar",
+   "b": "paths-netiv-mesilah-shvil-mishol",
+   "word": "גילוח / מעגל via עיגול (ע-ג-ל)"
+  },
+  {
+   "a": "haircut-giluach-gizah-galav-sapar",
+   "b": "razor-taar-morah",
+   "word": "תער (ע-ר-ה)"
+  },
+  {
+   "a": "haircut-giluach-gizah-galav-sapar",
+   "b": "scribe-sofer-lavlar",
+   "word": "ספר / סופר (ס-פ-ר)"
+  },
+  {
+   "a": "haircut-giluach-gizah-galav-sapar",
+   "b": "telling-haggadah-sippur",
+   "word": "ספר / ספור (ס-פ-ר)"
+  },
+  {
+   "a": "haircut-giluach-gizah-galav-sapar",
+   "b": "writing-ketivah-charut-chakuk",
+   "word": "גלב / גליף"
+  },
+  {
+   "a": "hammer-makevet-patish-kurnas",
+   "b": "here-halom-poh-heinah-zeh-koh",
+   "word": "הלמות / הלום (ה-ל-ם, ה-ל)"
+  },
+  {
+   "a": "handmaid-amah-shifchah-eved",
+   "b": "work-melachah-avodah",
+   "word": "עבד / עבודה (ע-ב-ד)"
+  },
+  {
+   "a": "hebron-chevron-kiryas-arba-mamre-eshkol",
+   "b": "wound-petza-chaburah-chovel",
+   "word": "חברון / חבורה (ח-ב-ר)"
+  },
+  {
+   "a": "heretic-min-apikores-kofer-meshumad",
+   "b": "lion-aryeh-kfir-lavi-layish",
+   "word": "כופר / כפיר (כ-פ-ר)"
+  },
+  {
+   "a": "heretic-min-apikores-kofer-meshumad",
+   "b": "razor-taar-morah",
+   "word": "מומר / מורה (מ-ר, switching)"
+  },
+  {
+   "a": "heretic-min-apikores-kofer-meshumad",
+   "b": "rebellion-pesha-meridah-meri",
+   "word": "מומר / ממרא (מ-ר)"
+  },
+  {
+   "a": "heretic-min-apikores-kofer-meshumad",
+   "b": "species-min-zan-sug",
+   "word": "מין"
+  },
+  {
+   "a": "hidden-tzafun-safun-tamun-ganuz",
+   "b": "names-mordechai-esther-hadassah",
+   "word": "אסתר / הסתר (ס-ת-ר)"
+  },
+  {
+   "a": "hidden-tzafun-safun-tamun-ganuz",
+   "b": "names-yosef-yehosef-avreich-tzafnas-paneach",
+   "word": "צפון / צפנת (צ-פ-ן)"
+  },
+  {
+   "a": "hidden-tzafun-safun-tamun-ganuz",
+   "b": "secret-sod-raz-tamir",
+   "word": "סתר (ס-ת-ר)"
+  },
+  {
+   "a": "hook-vav-agmon-shfataim",
+   "b": "marsh-achu-agam-bitzah",
+   "word": "אגם / גומא (ג-מ)"
+  },
+  {
+   "a": "horn-shofar-keren-yovel-chatzotzros",
+   "b": "sheep-and-goats-seh-keves-ayil-eiz",
+   "word": "יובל"
+  },
+  {
+   "a": "horse-sus-rechesh-achashtranim",
+   "b": "joy-simchah-sasson-gilah",
+   "word": "סוס / ששון"
+  },
+  {
+   "a": "horse-sus-rechesh-achashtranim",
+   "b": "middle-emtza-merkaz-lev-tabur",
+   "word": "רכס / reches (ר-כ-ס)"
+  },
+  {
+   "a": "horse-sus-rechesh-achashtranim",
+   "b": "rose-shoshanah-chavatzeles-vered",
+   "word": "ששון / sasson (ש-ש)"
+  },
+  {
+   "a": "horse-sus-rechesh-achashtranim",
+   "b": "tying-keshirah-asirah-kafut",
+   "word": "קשר / keshirah (ק-ש-ר), רכס (ר-כ-ס)"
+  },
+  {
+   "a": "idols-elilim-gilulim-shikutzim",
+   "b": "mask-masveh-masechah-partzuf",
+   "word": "מסכה / masechah (נ-ס-כ)"
+  },
+  {
+   "a": "idols-elilim-gilulim-shikutzim",
+   "b": "standing-nitzav-amidah",
+   "word": "מצבה / matzeivah, נצב / nitzav (נ-צ-ב)"
+  },
+  {
+   "a": "idols-elilim-gilulim-shikutzim",
+   "b": "tombstone-matzeivah-tziyun-nefesh",
+   "word": "מצבה / matzeivah (נ-צ-ב)"
+  },
+  {
+   "a": "idols-elilim-gilulim-shikutzim",
+   "b": "writing-ketivah-charut-chakuk",
+   "word": "פסל / pesel, pasal (פ-ס-ל)"
+  },
+  {
+   "a": "in-laws-cham-chosen",
+   "b": "sibling-in-law-yavam-yevamah-giss",
+   "word": "חתן / choten (ח-ת-נ)"
+  },
+  {
+   "a": "inheritance-nachalah-yerushah-achuzah",
+   "b": "river-nahar-yeor-nachal",
+   "word": "נחל / nachal, נחלה / nachalah (נ-ח-ל)"
+  },
+  {
+   "a": "inheritance-nachalah-yerushah-achuzah",
+   "b": "wine-yayin-tirosh-chemer-shechar",
+   "word": "ירש / yerushah, תירוש / tirosh (י-ר-ש, ר-ש)"
+  },
+  {
+   "a": "jericho-yereicho-yericho",
+   "b": "month-chodesh-yerach",
+   "word": "ירח / yareach (moon), yerach (י-ר-ח)"
+  },
+  {
+   "a": "jericho-yereicho-yericho",
+   "b": "soul-nefesh-ruach-neshamah-chayah-yechidah",
+   "word": "ריח / reyach, רוח / ruach, ירח / yareach (ר-ח)"
+  },
+  {
+   "a": "jericho-yereicho-yericho",
+   "b": "sun-and-moon-shemesh-chamah-yareach",
+   "word": "ירח / yareach (י-ר-ח)"
+  },
+  {
+   "a": "jerusalem-tziyon-yerushalayim",
+   "b": "tombstone-matzeivah-tziyun-nefesh",
+   "word": "ציון / tziyun, Tziyon (צ-י-נ)"
+  },
+  {
+   "a": "joy-simchah-sasson-gilah",
+   "b": "rose-shoshanah-chavatzeles-vered",
+   "word": "ששון / sasson"
+  },
+  {
+   "a": "judgment-din-rachamim",
+   "b": "law-din-mishpat-chok-dat",
+   "word": "דין / din (ד-י-נ)"
+  },
+  {
+   "a": "judgment-din-rachamim",
+   "b": "love-ahavah-chibah",
+   "word": "רחמים / rachamim (ר-ח-ם)"
+  },
+  {
+   "a": "judgment-din-rachamim",
+   "b": "mercy-rachum-chanun-chus-chemlah",
+   "word": "רחמים / rachamim, רחום / rachum (ר-ח-ם)"
+  },
+  {
+   "a": "king-melech-moshel",
+   "b": "synonyms-davar-vayomer-vayidaber",
+   "word": "מלוכה / meluchah, מושל / moshel (מ-ל-כ, מ-ש-ל)"
+  },
+  {
+   "a": "land-eretz-adamah",
+   "b": "land-eretz-adamah-ratzon",
+   "word": "ארץ / eretz, אדמה / adamah"
+  },
+  {
+   "a": "land-eretz-adamah",
+   "b": "man-adam-ish-enosh-gever",
+   "word": "אדמה / adamah, אדם / adam (א-ד-מ)"
+  },
+  {
+   "a": "land-eretz-adamah-ratzon",
+   "b": "man-adam-ish-enosh-gever",
+   "word": "אדמה / adamah, אדם / adam (ד-ם)"
+  },
+  {
+   "a": "land-eretz-adamah-ratzon",
+   "b": "will-ratzon-chefetz",
+   "word": "רצון / ratzon, חפץ / chefetz (ר-צ-ה, ח-פ-צ)"
+  },
+  {
+   "a": "law-din-mishpat-chok-dat",
+   "b": "writing-ketivah-charut-chakuk",
+   "word": "חק / chok (ח-ק-ק)"
+  },
+  {
+   "a": "leading-noheg-molich-nachah-nohel",
+   "b": "poor-ani-evyon-dal-rash",
+   "word": "מוליך / molich, הלך / heilech (ה-ל-ך)"
+  },
+  {
+   "a": "leprosy-tzaraas-nega-metzora",
+   "b": "princess-sarai-sarah-yiscah",
+   "word": "זרע / zera (ז-ר-ע)"
+  },
+  {
+   "a": "level-madreigah-maalah-sulam",
+   "b": "path-derech-orach",
+   "word": "דרך / derech (ד-ר-ך), מסילה / mesilah (ס-ל-ל)"
+  },
+  {
+   "a": "level-madreigah-maalah-sulam",
+   "b": "teaching-horaah-limmud-alef",
+   "word": "דרך / derech (ד-ר-ך)"
+  },
+  {
+   "a": "level-madreigah-maalah-sulam",
+   "b": "trampling-romes-dorech-boss",
+   "word": "דורך / dorech, דרך / derech (ד-ר-ך)"
+  },
+  {
+   "a": "lice-kinnim-kalmta-parosh",
+   "b": "platform-kan-duchan-bimah-basis",
+   "word": "כן / kan, kinnim (כ-נ)"
+  },
+  {
+   "a": "lice-kinnim-kalmta-parosh",
+   "b": "priest-kohen-komer",
+   "word": "כהן / kohen, הכנה / hachanah (כ-נ)"
+  },
+  {
+   "a": "licking-lechichah-lekikah",
+   "b": "locust-arbeh-gazam-yelek-chasil",
+   "word": "ילק / yelek (ל-ק-ק)"
+  },
+  {
+   "a": "linen-sheish-bahd-butz-pishtim",
+   "b": "marsh-achu-agam-bitzah",
+   "word": "בוץ / butz (ב-צ)"
+  },
+  {
+   "a": "linen-sheish-bahd-butz-pishtim",
+   "b": "pole-mot-bad-neis-toren-shapud",
+   "word": "בד / bad (ב-ד)"
+  },
+  {
+   "a": "linen-sheish-bahd-butz-pishtim",
+   "b": "vegetable-yerek-yarok-karpas",
+   "word": "כרפס / karpas"
+  },
+  {
+   "a": "locust-arbeh-gazam-yelek-chasil",
+   "b": "public-rabim-tzibbur-parhessya-pumbi",
+   "word": "ארבה / arbeh (ר-ב)"
+  },
+  {
+   "a": "lottery-goral-pur-payis-cholesh",
+   "b": "rope-chevel-chut-avot",
+   "word": "חבל / chevel (ח-ב-ל)"
+  },
+  {
+   "a": "love-ahavah-chibah",
+   "b": "mercy-rachum-chanun-chus-chemlah",
+   "word": "רחמים / rachamim (ר-ח-ם)"
+  },
+  {
+   "a": "man-adam-ish-enosh-gever",
+   "b": "rooster-gever-sechvi-tarnegol",
+   "word": "גבר / gever (ג-ב-ר)"
+  },
+  {
+   "a": "man-adam-ish-enosh-gever",
+   "b": "strength-koach-gevurah-ometz-chozek",
+   "word": "גבורה / gevurah, גבר / gever (ג-ב-ר)"
+  },
+  {
+   "a": "meal-seudah-mishteh-mesibah",
+   "b": "trust-bitachon-machseh-tikvah",
+   "word": "סעד / saad, סעודה / seudah (ס-ע-ד)"
+  },
+  {
+   "a": "mercy-rachum-chanun-chus-chemlah",
+   "b": "prayer-tefillah-bakashah-techinah",
+   "word": "חן / chen, חנון / chanun, תחינה / techinah (ח-נ-ן)"
+  },
+  {
+   "a": "middle-emtza-merkaz-lev-tabur",
+   "b": "tying-keshirah-asirah-kafut",
+   "word": "רכס / reches (ר-כ-ס)"
+  },
+  {
+   "a": "mixing-iruv-mizug-dimua",
+   "b": "sweet-matok-areiv-naim",
+   "word": "ערב / iruv, areiv (ע-ר-ב)"
+  },
+  {
+   "a": "mixing-iruv-mizug-dimua",
+   "b": "wilderness-midbar-aravah-tziyah",
+   "word": "ערב / iruv, aravah (ע-ר-ב)"
+  },
+  {
+   "a": "money-mammon-damim-maos",
+   "b": "property-rechush-mikneh-nechasim",
+   "word": "רכוש / rechush"
+  },
+  {
+   "a": "money-mammon-damim-maos",
+   "b": "shame-bushah-klimah-cherpah",
+   "word": "כסף / kesef (כ-ס-ף)"
+  },
+  {
+   "a": "money-mammon-damim-maos",
+   "b": "speech-neum-yichaveh-yabia-siach",
+   "word": "אמן / emes, mammon, ne'um (א-מ-נ)"
+  },
+  {
+   "a": "month-bul-marcheshvan",
+   "b": "negation-lo-al-bal",
+   "word": "בלוי / bilui, יבול / yevul, מבול / mabul (ב-ל)"
+  },
+  {
+   "a": "month-bul-marcheshvan",
+   "b": "rain-geshem-matar-yoreh-malkosh",
+   "word": "גשם / geshem (ג-ש-מ)"
+  },
+  {
+   "a": "month-bul-marcheshvan",
+   "b": "silence-cheresh-shetikah-dom-chashah",
+   "word": "חשה / chashah (ח-ש-ה)"
+  },
+  {
+   "a": "month-chodesh-yerach",
+   "b": "sun-and-moon-shemesh-chamah-yareach",
+   "word": "ירח / yareach, yerach (י-ר-ח)"
+  },
+  {
+   "a": "murder-retzichah-harigah-ketilah",
+   "b": "survivor-pleitah-sarid-klitah",
+   "word": "קטל / ketilah (ק-ט-ל)"
+  },
+  {
+   "a": "murder-retzichah-harigah-ketilah",
+   "b": "will-ratzon-chefetz",
+   "word": "רצון / ratzon (ר-צ-ה)"
+  },
+  {
+   "a": "muzzle-resen-meteg-zemam",
+   "b": "secret-sod-raz-tamir",
+   "word": "רוזנים / roznim"
+  },
+  {
+   "a": "names-mordechai-esther-hadassah",
+   "b": "secret-sod-raz-tamir",
+   "word": "סתר / seter, Esther (ס-ת-ר)"
+  },
+  {
+   "a": "names-moshe-yered-avigdor-yekusiel",
+   "b": "pulling-moshe-moshech-shoev-shoef",
+   "word": "משה / Moshe (מ-ש-ה)"
+  },
+  {
+   "a": "names-shlomo-koheles-agur-lemuel",
+   "b": "peace-shalom-sheket-shalvah",
+   "word": "שלמה / שלום / שלם (ש-ל-מ)"
+  },
+  {
+   "a": "names-shlomo-koheles-agur-lemuel",
+   "b": "underworld-gehinnom-sheol-shachat-avadon",
+   "word": "עלוקה / alukah"
+  },
+  {
+   "a": "names-yaakov-yisrael-yeshurun",
+   "b": "people-ivri-yisrael-yehudi",
+   "word": "ישראל / Yisrael"
+  },
+  {
+   "a": "names-yaakov-yisrael-yeshurun",
+   "b": "plain-mishor-sharon-eil-kikar",
+   "word": "ישר / yashar (Yeshurun, mishor)"
+  },
+  {
+   "a": "nation-goy-am-leom-umah",
+   "b": "with-es-im",
+   "word": "עם / am, im"
+  },
+  {
+   "a": "nose-af-chotem-nichirayim",
+   "b": "slaughter-shechitah-zevichah-tevichah",
+   "word": "נחירה / nechirah (נ-ח-ר)"
+  },
+  {
+   "a": "nothing-hevel-rik-tohu-bohu",
+   "b": "unmarried-ravak-panui-bachur",
+   "word": "ריק / reik, rik (ר-י-ק)"
+  },
+  {
+   "a": "nothing-hevel-rik-tohu-bohu",
+   "b": "vegetable-yerek-yarok-karpas",
+   "word": "ריק / ירק (ר-ק)"
+  },
+  {
+   "a": "now-atah-na-achshav",
+   "b": "time-eit-zman-moed-shaah",
+   "word": "עת / eis, atah"
+  },
+  {
+   "a": "oil-shemen-yitzhar",
+   "b": "prohibition-azharah-issur-lav",
+   "word": "צהר / tzohar (and zohar, yitzhar)"
+  },
+  {
+   "a": "old-zaken-seivah-yashish",
+   "b": "sleep-sheinah-tardeimah-tenumah",
+   "word": "ישן / yashan (י-ש-נ)"
+  },
+  {
+   "a": "palace-zvul-armon-apadna-tirah",
+   "b": "plain-mishor-sharon-eil-kikar",
+   "word": "פדן / padan"
+  },
+  {
+   "a": "palace-zvul-armon-apadna-tirah",
+   "b": "waving-terumah-tenufah",
+   "word": "ר-ו-ם (armon, terumah)"
+  },
+  {
+   "a": "path-derech-orach",
+   "b": "paths-netiv-mesilah-shvil-mishol",
+   "word": "נתיב / מסילה / משעול / שביל / רחוב / מעגל"
+  },
+  {
+   "a": "path-derech-orach",
+   "b": "sun-and-moon-shemesh-chamah-yareach",
+   "word": "אורח / orach"
+  },
+  {
+   "a": "path-derech-orach",
+   "b": "trampling-romes-dorech-boss",
+   "word": "דרך / derech, dorech (ד-ר-כ)"
+  },
+  {
+   "a": "peace-shalom-sheket-shalvah",
+   "b": "trust-bitachon-machseh-tikvah",
+   "word": "בטח / betach"
+  },
+  {
+   "a": "phylacteries-totafos-tefillin",
+   "b": "prayer-tefillah-bakashah-techinah",
+   "word": "תפילה / tefillah (פ-ל-ל)"
+  },
+  {
+   "a": "pile-areimah-chamarim-gadish",
+   "b": "wine-yayin-tirosh-chemer-shechar",
+   "word": "חמרים / חמר (ח-מ-ר)"
+  },
+  {
+   "a": "place-makom-atar-duchta",
+   "b": "platform-kan-duchan-bimah-basis",
+   "word": "דוכתא / דוכן (duchta, duchan)"
+  },
+  {
+   "a": "placing-natan-sam-shat",
+   "b": "poison-eres-rosh-chamat-sam-hamaves",
+   "word": "סמים / samim (ס-מ, ש-ם)"
+  },
+  {
+   "a": "plague-dever-mageifah-negef",
+   "b": "wilderness-midbar-aravah-tziyah",
+   "word": "דבר / dever (ד-ב-ר)"
+  },
+  {
+   "a": "plain-mishor-sharon-eil-kikar",
+   "b": "sheep-and-goats-seh-keves-ayil-eiz",
+   "word": "איל / ayil (א-ל)"
+  },
+  {
+   "a": "plain-mishor-sharon-eil-kikar",
+   "b": "wall-chomah-kir-shur-kotel",
+   "word": "ישר / yashar (Pappenheim's ש-ר)"
+  },
+  {
+   "a": "platform-kan-duchan-bimah-basis",
+   "b": "priest-kohen-komer",
+   "word": "כהן / kohen (כ-נ)"
+  },
+  {
+   "a": "platform-kan-duchan-bimah-basis",
+   "b": "sibling-in-law-yavam-yevamah-giss",
+   "word": "במה / bamah"
+  },
+  {
+   "a": "platform-kan-duchan-bimah-basis",
+   "b": "trampling-romes-dorech-boss",
+   "word": "בסיס / basis"
+  },
+  {
+   "a": "poison-eres-rosh-chamat-sam-hamaves",
+   "b": "snake-nachash-saraph-tanin-peten",
+   "word": "עכס / eches"
+  },
+  {
+   "a": "poor-ani-evyon-dal-rash",
+   "b": "short-gamad-namuch-gutz-nanas",
+   "word": "מך / mach"
+  },
+  {
+   "a": "pressure-lachatz-dchak-negisah-atz",
+   "b": "pushing-potzer-docheh-dochef-hadof",
+   "word": "דחק / d'chak (ד-ח-ק)"
+  },
+  {
+   "a": "pressure-lachatz-dchak-negisah-atz",
+   "b": "slipping-off-shemittah-chalitzah-shalaf",
+   "word": "אלץ / alatz"
+  },
+  {
+   "a": "prohibition-azharah-issur-lav",
+   "b": "rebuke-mussar-tochachah",
+   "word": "אסור / assur"
+  },
+  {
+   "a": "prohibition-azharah-issur-lav",
+   "b": "red-adom-shani-chamutz",
+   "word": "זהר / zohar, zehoris (ז-ה-ר)"
+  },
+  {
+   "a": "prohibition-azharah-issur-lav",
+   "b": "tying-keshirah-asirah-kafut",
+   "word": "איסור / אסירה / assur (א-ס-ר)"
+  },
+  {
+   "a": "property-rechush-mikneh-nechasim",
+   "b": "tax-mas-meches",
+   "word": "מכס / meches"
+  },
+  {
+   "a": "prophet-navi-roeh-chozeh",
+   "b": "stoning-sekilah-regimah",
+   "word": "ר-ג-מ (Ugaritic 'say')"
+  },
+  {
+   "a": "pulling-moshe-moshech-shoev-shoef",
+   "b": "veil-tzaif-redid",
+   "word": "שאף / shoef (ש-א-פ)"
+  },
+  {
+   "a": "purple-argaman-segol-lilach",
+   "b": "stoning-sekilah-regimah",
+   "word": "ארגמן / ר-ג-מ, ר-ק-מ"
+  },
+  {
+   "a": "rain-geshem-matar-yoreh-malkosh",
+   "b": "teaching-horaah-limmud-alef",
+   "word": "יורה / מורה (י-ר-ה)"
+  },
+  {
+   "a": "razor-taar-morah",
+   "b": "rebellion-pesha-meridah-meri",
+   "word": "מ-ר, switching (morah, mumar, meri)"
+  },
+  {
+   "a": "rebellion-pesha-meridah-meri",
+   "b": "refusal-miun-siruv",
+   "word": "מרי / מרידה / meri, meridah"
+  },
+  {
+   "a": "rebellion-pesha-meridah-meri",
+   "b": "sin-chet-avon-pesha",
+   "word": "פשע / pesha"
+  },
+  {
+   "a": "rebuke-mussar-tochachah",
+   "b": "tying-keshirah-asirah-kafut",
+   "word": "אסור / assur, yissurin"
+  },
+  {
+   "a": "red-adom-shani-chamutz",
+   "b": "resident-ger-toshav-ezrach",
+   "word": "ז-ר-ח, shining (Zerach, ezrach)"
+  },
+  {
+   "a": "red-adom-shani-chamutz",
+   "b": "strength-koach-gevurah-ometz-chozek",
+   "word": "אמץ / ometz, amutz (א-מ-צ)"
+  },
+  {
+   "a": "red-adom-shani-chamutz",
+   "b": "white-lavan-chivar-tzochar",
+   "word": "צחר / tzochar, tzachar (צ-ח-ר)"
+  },
+  {
+   "a": "red-adom-shani-chamutz",
+   "b": "wine-yayin-tirosh-chemer-shechar",
+   "word": "חמר / chemer, chamar (Tehillim 75:9)"
+  },
+  {
+   "a": "red-adom-shani-chamutz",
+   "b": "worm-rimah-toleah",
+   "word": "תולע / תולעת / tola, tola'as (ת-ל-ע)"
+  },
+  {
+   "a": "redemption-geulah-pidyon",
+   "b": "salvation-yeshuah-teshuah-hatzalah-purkan",
+   "word": "פורקן / purkan (with פדיון)"
+  },
+  {
+   "a": "refusal-miun-siruv",
+   "b": "thorns-kotz-dardar-sneh-charul",
+   "word": "סרבים / סלונים / saravim, salonim (Yechezkel 2:6)"
+  },
+  {
+   "a": "resident-ger-toshav-ezrach",
+   "b": "stranger-zar-nachri-hedyot",
+   "word": "זר / zar"
+  },
+  {
+   "a": "resident-ger-toshav-ezrach",
+   "b": "word-milah-teivah-davar",
+   "word": "י-ש-ב / toshav, teivah (sitting, dwelling)"
+  },
+  {
+   "a": "return-shuv-chazarah",
+   "b": "seven-sheva-shavua-shevuah",
+   "word": "שבת / shabbos (ש-ב, returning)"
+  },
+  {
+   "a": "return-shuv-chazarah",
+   "b": "spoils-shalal-bizah-malkoach",
+   "word": "שבי / shevi, shevuyah"
+  },
+  {
+   "a": "return-shuv-chazarah",
+   "b": "word-milah-teivah-davar",
+   "word": "ש-ו-ב / shuv, teivah (returning)"
+  },
+  {
+   "a": "rock-even-sela",
+   "b": "rock-tzur-chalamish",
+   "word": "אבן / סלע / even, sela"
+  },
+  {
+   "a": "rope-chevel-chut-avot",
+   "b": "trust-bitachon-machseh-tikvah",
+   "word": "תקוה / tikvah (ק-ו, kav)"
+  },
+  {
+   "a": "rope-chevel-chut-avot",
+   "b": "wound-petza-chaburah-chovel",
+   "word": "חבל / chevel, chovel (ח-ב-ל)"
+  },
+  {
+   "a": "scribe-sofer-lavlar",
+   "b": "telling-haggadah-sippur",
+   "word": "ספר / sofer, sippur (ס-פ-ר)"
+  },
+  {
+   "a": "seeing-raah-hibit-tzofeh",
+   "b": "wall-chomah-kir-shur-kotel",
+   "word": "שור / shur (seeing)"
+  },
+  {
+   "a": "seven-sheva-shavua-shevuah",
+   "b": "shavuos-atzeres-katzir-bikkurim",
+   "word": "שבוע / שבועות / shavua, Shavuos (ש-ב-ע)"
+  },
+  {
+   "a": "seven-sheva-shavua-shevuah",
+   "b": "vow-neder-shevuah-nedavah",
+   "word": "שבועה / shevuah (ש-ב-ע)"
+  },
+  {
+   "a": "shame-bushah-klimah-cherpah",
+   "b": "spying-latur-leragel",
+   "word": "חרפה / חפרה / cherpah, chafrah (ח-פ-ר)"
+  },
+  {
+   "a": "shame-bushah-klimah-cherpah",
+   "b": "white-lavan-chivar-tzochar",
+   "word": "חיור / chivar (ח-ו-ר)"
+  },
+  {
+   "a": "sheep-and-goats-seh-keves-ayil-eiz",
+   "b": "strength-koach-gevurah-ometz-chozek",
+   "word": "עז / eiz, oz (ע-ז)"
+  },
+  {
+   "a": "sign-oht-mofet",
+   "b": "synonyms-davar-vayomer-vayidaber",
+   "word": "אתה / atah (Aramaic 'come', א-ת-ה)"
+  },
+  {
+   "a": "sign-oht-mofet",
+   "b": "witness-eid-sahad",
+   "word": "עד / eid"
+  },
+  {
+   "a": "silence-cheresh-shetikah-dom-chashah",
+   "b": "writing-ketivah-charut-chakuk",
+   "word": "חרש / cheresh, charushah (ח-ר-ש)"
+  },
+  {
+   "a": "sleep-sheinah-tardeimah-tenumah",
+   "b": "tying-keshirah-asirah-kafut",
+   "word": "רתם / rosem, rotem (ר-ת-ם)"
+  },
+  {
+   "a": "snake-nachash-saraph-tanin-peten",
+   "b": "uncle-dod-misaref",
+   "word": "שרף / saraf (ש-ר-פ, burning)"
+  },
+  {
+   "a": "son-ben-bar",
+   "b": "wisdom-chochmah-binah-daat-tevunah",
+   "word": "בינה / תבונה / binah, tevunah and בן / ben (ב-נ)"
+  },
+  {
+   "a": "soul-nefesh-ruach-neshamah-chayah-yechidah",
+   "b": "tombstone-matzeivah-tziyun-nefesh",
+   "word": "נפש / nefesh"
+  },
+  {
+   "a": "speech-dibbur-amirah",
+   "b": "synonyms-davar-vayomer-vayidaber",
+   "word": "ויאמר / וידבר / vayomer, vayidaber; אמירה / דיבור (א-מ-ר, ד-ב-ר)"
+  },
+  {
+   "a": "speech-dibbur-amirah",
+   "b": "wilderness-midbar-aravah-tziyah",
+   "word": "דבר / dibbur, yadber (ד-ב-ר)"
+  },
+  {
+   "a": "speech-dibbur-amirah",
+   "b": "word-milah-teivah-davar",
+   "word": "דבר / dibbur, davar (ד-ב-ר)"
+  },
+  {
+   "a": "splendor-tzvi-tzivyon-tzava",
+   "b": "standing-nitzav-amidah",
+   "word": "יציב / yatziv, and the root צ-ב"
+  },
+  {
+   "a": "splendor-tzvi-tzivyon-tzava",
+   "b": "will-ratzon-chefetz",
+   "word": "צבי / tzvi (desire)"
+  },
+  {
+   "a": "spoils-shalal-bizah-malkoach",
+   "b": "witness-eid-sahad",
+   "word": "עד / ad, eid (ע-ד, with adi)"
+  },
+  {
+   "a": "staff-mateh-shevet-makel",
+   "b": "trust-bitachon-machseh-tikvah",
+   "word": "משען / משענת / mishan, mishenes"
+  },
+  {
+   "a": "standing-nitzav-amidah",
+   "b": "tombstone-matzeivah-tziyun-nefesh",
+   "word": "מצבה / matzeivah (נ-צ-ב)"
+  },
+  {
+   "a": "strength-koach-gevurah-ometz-chozek",
+   "b": "tree-eitz-ilan",
+   "word": "עץ / עצם / eitz, etzem, otzem (ע-צ)"
+  },
+  {
+   "a": "sun-and-moon-shemesh-chamah-yareach",
+   "b": "white-lavan-chivar-tzochar",
+   "word": "לבן / לבנה / lavan, levanah (ל-ב-נ)"
+  },
+  {
+   "a": "sweet-matok-areiv-naim",
+   "b": "wilderness-midbar-aravah-tziyah",
+   "word": "ערב / areiv, aravah (ע-ר-ב)"
+  },
+  {
+   "a": "synonyms-davar-vayomer-vayidaber",
+   "b": "word-milah-teivah-davar",
+   "word": "דבר / davar (word and thing)"
+  },
+  {
+   "a": "teaching-horaah-limmud-alef",
+   "b": "trampling-romes-dorech-boss",
+   "word": "ד-ר-כ / derech, hadrachah, dorech"
+  },
+  {
+   "a": "teeth-shein-mesalos-kaka",
+   "b": "worm-rimah-toleah",
+   "word": "מתלעות / mesalos (ת-ל-ע)"
+  },
+  {
+   "a": "thorns-kotz-dardar-sneh-charul",
+   "b": "war-milchamah-krav-pulmus",
+   "word": "עקרב / akrav (ק-ר-ב)"
+  },
+  {
+   "a": "trust-bitachon-machseh-tikvah",
+   "b": "witness-eid-sahad",
+   "word": "סעד / saad"
+  },
+  {
+   "a": "unmarried-ravak-panui-bachur",
+   "b": "vegetable-yerek-yarok-karpas",
+   "word": "ריק / reik (ר-י-ק, empty): ravak, yerek"
+  },
+  {
+   "a": "waving-terumah-tenufah",
+   "b": "worm-rimah-toleah",
+   "word": "רימה / rimah (ר-ו-ם / ר-מ-ם)"
+  }
+ ]
+}

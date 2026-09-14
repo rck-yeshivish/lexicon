@@ -395,6 +395,10 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 """
 
 
+# slug -> [(cluster, other slug, shared word)], from xref.json; filled in main().
+XREF = {}
+
+
 def entry_page(e):
     # Lay the words out left to right in the same order as the At-a-glance table,
     # with each word marked RTL on its own. A single dir="rtl" block would be
@@ -411,6 +415,14 @@ def entry_page(e):
     for headname, mdtext in e["sections"]:
         if headname == "Notes for a project" and mdtext.strip() in ("None yet.", ""):
             continue
+        if headname == "Sources" and XREF.get(e["slug"]):
+            # Other entries that discuss the same word or root, so a reader can
+            # follow a word from one essay to the next.
+            items = "".join(
+                f'<li><a href="{html.escape(s)}.html">{html.escape(c[:1].upper() + c[1:])}</a>'
+                f'<span class="xw">{inline(w)}</span></li>'
+                for c, s, w in XREF[e["slug"]])
+            parts.append(f'<section class="xref"><h2>Also discussed in</h2><ul>{items}</ul></section>')
         cls = {"Bottom line": "bottomline", "At a glance": "glance",
                "Where the authorities disagree": "disagree"}.get(headname, "")
         if headname == "Rendering guidance":
@@ -434,6 +446,15 @@ def main():
         ASSETS[kind] = f"app.{h}.{kind}"
 
     entries, words, english = collect()
+    clusters = {e["slug"]: e["cluster"] for e in entries}
+    xref_file = ROOT / "xref.json"
+    if xref_file.exists():
+        for p in json.loads(xref_file.read_text(encoding="utf-8"))["pairs"]:
+            if p["a"] in clusters and p["b"] in clusters:
+                XREF.setdefault(p["a"], []).append((clusters[p["b"]], p["b"], p["word"]))
+                XREF.setdefault(p["b"], []).append((clusters[p["a"]], p["a"], p["word"]))
+        for v in XREF.values():
+            v.sort(key=lambda x: x[0].lower())
     # Write in place and sweep stale files afterwards, rather than deleting the
     # tree first: on a OneDrive-synced folder the sync client holds directory
     # handles and rmtree fails with WinError 5 half way through.
@@ -849,6 +870,9 @@ header.bare .brand{flex:1}
 .entry li{margin:0 0 8px}
 .entry ul,.entry ol{padding-inline-start:1.4em}
 .entry li::marker{color:var(--faint)}
+.xref ul{list-style:none;padding:0}
+.xref li{margin:0 0 8px}
+.xref .xw{color:var(--dim);margin-left:10px;font-size:15px}
 .bottomline{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
   padding:22px 24px 8px;box-shadow:var(--shadow)}
 .bottomline h2{border:0;padding:0}
