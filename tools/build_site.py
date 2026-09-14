@@ -1061,7 +1061,16 @@ function wire(){
   q.addEventListener("input", run);
   q.addEventListener("focus", () => { load(); if(q.value.trim()) run(); });
   q.addEventListener("keydown", e => {
-    if(ac.hidden) return;
+    if(ac.hidden){
+      // The list can be closed while the box still holds a query (a click
+      // elsewhere closed it). Enter should still open the best match.
+      const v = q.value.trim();
+      if(e.key === "Enter" && v){
+        e.preventDefault();
+        load().then(() => { const r = search(v); if(r.length) location.href = href(r[0]); });
+      }
+      return;
+    }
     if(e.key === "ArrowDown" || e.key === "ArrowUp"){
       e.preventDefault();
       sel = Math.max(0, Math.min(rows.length-1, sel + (e.key === "ArrowDown" ? 1 : -1)));
@@ -1073,7 +1082,12 @@ function wire(){
       if(pick){ e.preventDefault(); location.href = href(pick); }
     } else if(e.key === "Escape"){ close(); q.blur(); }
   });
-  document.addEventListener("click", e => { if(!ac.contains(e.target) && e.target !== q) close(); });
+  // A click outside the search closes the list, but not a click on a "Try"
+  // chip: the chip has just opened it, and the same click reaching here used to
+  // close it again before the reader could see it.
+  document.addEventListener("click", e => {
+    if(!ac.contains(e.target) && e.target !== q && !e.target.closest(".chip")) close();
+  });
   // Swap the three static examples for a fresh set on every visit: one Hebrew
   // word, one transliteration, one English concept, from three different entries.
   const pool = document.getElementById("try-pool");
