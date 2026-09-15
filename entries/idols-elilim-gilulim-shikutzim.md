@@ -102,14 +102,17 @@ in all of them a reproach to idolatry as such.
 ## Distinctions
 
 ### elilim (אלילים)
-Two lines of explanation. From *chalul*, hollow: Malbim, that idolaters pretend
-a holy spirit dwells within the idol when in truth it is hollow and empty; and
-the version of Rashi to Shabbos 149a cited by Rabbeinu Nissim and Ritva, that
-their existence was imagined in the empty cavity of their worshippers' hearts.
-The printed Rashi there instead links *elilim* to *chalalim*, corpses,
-ostensibly because idols, like corpses, are lifeless things. Separately, Rashi (Vayikra 19:4; Yirmiyahu 14:14; Zechariah
-11:17; Iyov 13:4), Ibn Ezra (Vayikra 19:4), and Ramban (Iyov 13:4) derive *elil*
-from *al*, "not": the sheer nothingness of an idol's power.
+Two lines of explanation.
+
+- From *chalul*, hollow: Malbim, that idolaters pretend a holy spirit dwells
+  within the idol when in truth it is hollow and empty; and the version of Rashi
+  to Shabbos 149a cited by Rabbeinu Nissim and Ritva, that their existence was
+  imagined in the empty cavity of their worshippers' hearts.
+- The printed Rashi there instead links *elilim* to *chalalim*, corpses,
+  ostensibly because idols, like corpses, are lifeless things.
+- Separately, Rashi (Vayikra 19:4; Yirmiyahu 14:14; Zechariah 11:17; Iyov 13:4),
+  Ibn Ezra (Vayikra 19:4), and Ramban (Iyov 13:4) derive *elil* from *al*,
+  "not": the sheer nothingness of an idol's power.
 
 ### pesel (פסל)
 From *pasul* / *nifsal*, disqualified: the idol is ruled out of the range of
@@ -124,28 +127,33 @@ connects פ-ס-ל with פ-צ-ל (*pitzel*, peeling) and ב-צ-ל (*batzal*, onio
 three involving cutting or otherwise removing outer layers.
 
 ### masechah (מסכה)
-From *nisuch*, pouring: Malbim and Rabbi Shlomo Pappenheim, metal idols formed
-by molten metal poured into a mold. Rabbi Eliyahu Benamozegh reads it instead
-from *sichah*, anointing, the consecration rite said to draw the deity's spirit
-into the image.
+
+- From *nisuch*, pouring: Malbim and Rabbi Shlomo Pappenheim, metal idols formed
+  by molten metal poured into a mold.
+- Rabbi Eliyahu Benamozegh reads it instead from *sichah*, anointing, the
+  consecration rite said to draw the deity's spirit into the image.
 
 ### matzeivah (מצבה)
 From *nitzav*, standing: the single-stone altar, and by extension the idol that
 must stand where it is put and cannot move of itself.
 
 ### atzabim (עצבים)
-Literally "bones": idols are assembled from many parts
-as a body is from bones, where Hashem is not composed of parts at all. Malbim
-reads it from *atzuv*, grieved: they sadden those who serve them, because they
-never deliver what was expected.
+
+- Literally "bones": idols are assembled from many parts as a body is from
+  bones, where Hashem is not composed of parts at all.
+- Malbim reads it from *atzuv*, grieved: they sadden those who serve them,
+  because they never deliver what was expected.
 
 ### gilulim (גלולים)
-From *megual*, defiled, and *glalim*, excrement. Rabbeinu Shimshon of Shantz and
-*Pirush HaRaavad* to *Toras Kohanim* make an important restriction: the disgust
-is not at the sin of idolatry but at the physical state of the idols themselves.
-Left out in the rain, wooden idols go moldy and metal ones rust; scorched by
-fire they can turn filthy and repulsive. Malbim locates the disgust in the faces of
-the images, sometimes portrayed as insects, moles, and bats.
+From *megual*, defiled, and *glalim*, excrement.
+
+- Rabbeinu Shimshon of Shantz and *Pirush HaRaavad* to *Toras Kohanim* make an
+  important restriction: the disgust is not at the sin of idolatry but at the
+  physical state of the idols themselves. Left out in the rain, wooden idols go
+  moldy and metal ones rust; scorched by fire they can turn filthy and
+  repulsive.
+- Malbim locates the disgust in the faces of the images, sometimes portrayed as
+  insects, moles, and bats.
 
 ### terafim (תרפים)
 From rotting: they can go putrid.
@@ -154,22 +162,25 @@ From rotting: they can go putrid.
 From *sheketz*, an abomination; the plain sense is that they are abominable.
 
 ### chamanim (חמנים)
-From *chamah*, the sun, because they are left standing outdoors in the sun. Rav
-Achai Gaon (680-752) in *She'iltos d'Rav Achai Gaon* gives a different reason:
-they die as animals do. The Netziv, Rabbi Naftali Tzvi Yehudah Berlin
-(1816-1893), explains the connection: a person who dies is customarily buried to
-conceal his embarrassment, while an animal's carcass is not given that respect
-but is left in the open to rot under the sun's heat. Idols, once useless, are
-likewise left out rather than buried.
+
+- From *chamah*, the sun, because they are left standing outdoors in the sun.
+- Rav Achai Gaon (680-752) in *She'iltos d'Rav Achai Gaon* gives a different
+  reason: they die as animals do. The Netziv, Rabbi Naftali Tzvi Yehudah Berlin
+  (1816-1893), explains the connection: a person who dies is customarily buried
+  to conceal his embarrassment, while an animal's carcass is not given that
+  respect but is left in the open to rot under the sun's heat. Idols, once
+  useless, are likewise left out rather than buried.
 
 ### asherim (אשרים)
-From *ishur*, validation: an idol receives its validation, meaning its praise,
-only from others, and is not worthy of praise on its own merits, having no powers
-of its own. Malbim explains it slightly differently, of moon worship, since the
-ancients admitted that the moon has no light of its own and takes it from the
-sun, and worshipped it anyway. *Pirush HaRaavad* reads *asherim* from *yashar*,
-straightening: if the idol falls it cannot right itself and must be set up again
-by someone else.
+
+- From *ishur*, validation: an idol receives its validation, meaning its praise,
+  only from others, and is not worthy of praise on its own merits, having no
+  powers of its own.
+- Malbim explains it slightly differently, of moon worship, since the ancients
+  admitted that the moon has no light of its own and takes it from the sun, and
+  worshipped it anyway.
+- *Pirush HaRaavad* reads *asherim* from *yashar*, straightening: if the idol
+  falls it cannot right itself and must be set up again by someone else.
 
 ## Rendering guidance
 

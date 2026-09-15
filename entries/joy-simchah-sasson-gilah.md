@@ -63,31 +63,42 @@ many commentators' account, Aramaic forms of the word for joy: **mirth, delight*
 ## Distinctions
 
 ### simchah (שמחה)
-Root ש-מ-ח. Malbim: the internal, continual gladness; its antonym is *yagon*, inner
-despondency. Vilna Gaon: the beginning of the process that leads to full elation,
-and in this world the more prominent, because a person first pursues *simchah* and
-only then reaches the goal that is *sasson*; and, against *gilah*, a new joy while
-still fresh.
+Root ש-מ-ח.
+
+- Malbim: the internal, continual gladness; its antonym is *yagon*, inner
+  despondency.
+- Vilna Gaon: the beginning of the process that leads to full elation, and in this
+  world the more prominent, because a person first pursues *simchah* and only then
+  reaches the goal that is *sasson*; and, against *gilah*, a new joy while still
+  fresh.
 
 ### sasson (ששון)
-Root ש-ו-ש. Malbim: the outward expression of inner happiness, what a person does
-to show he is glad, festive clothes, music at a celebration; its antonyms are
-*aveilus*, mourning, the outward expression of sadness, and *anachah*, a sigh.
-Vilna Gaon: the realization of happiness, the end of the process; in the days of
-Mashiach the ecstasy will *begin* with *sasson* and open onto further *simchah*
-according to one's merits, which is why the pasuk of the redemption, ששון ושמחה
-ישיגו (Yeshayahu 35:10, the Gemara's proof-text), puts *sasson* first, while Esther 8:16 puts *simchah*
-first; on his reading each is superior in its own context, which is why the
-order varies. Rabbi Klein's own resolution of the Gemara's contest (Sukkah 48b),
-on Malbim's terms, is that it seems both are right and the dispute reflects a
-chicken-and-egg: sometimes the inner feeling comes first and bursts outward,
-sometimes the outward celebration rouses the inner mood.
+Root ש-ו-ש.
+
+- Malbim: the outward expression of inner happiness, what a person does to show he
+  is glad, festive clothes, music at a celebration; its antonyms are *aveilus*,
+  mourning, the outward expression of sadness, and *anachah*, a sigh.
+- Vilna Gaon: the realization of happiness, the end of the process; in the days of
+  Mashiach the ecstasy will *begin* with *sasson* and open onto further *simchah*
+  according to one's merits, which is why the pasuk of the redemption, ששון ושמחה
+  ישיגו (Yeshayahu 35:10, the Gemara's proof-text), puts *sasson* first, while
+  Esther 8:16 puts *simchah* first; on his reading each is superior in its own
+  context, which is why the order varies.
+
+Rabbi Klein's own resolution of the Gemara's contest (Sukkah 48b), on Malbim's
+terms, is that it seems both are right and the dispute reflects a chicken-and-egg:
+sometimes the inner feeling comes first and bursts outward, sometimes the outward
+celebration rouses the inner mood.
 
 ### gilah (גילה)
-Root ג-י-ל. Malbim: a stroke of fleeting happiness that does not continue, as
-against continual *simchah*. Vilna Gaon: a nostalgic joy that recalls the joys of
-the past, as against fresh *simchah*. Bereishis Rabbah 63:1 seems to understand
-*gilah* as specifically the joy of a man who fathers a son.
+Root ג-י-ל.
+
+- Malbim: a stroke of fleeting happiness that does not continue, as against
+  continual *simchah*.
+- Vilna Gaon: a nostalgic joy that recalls the joys of the past, as against fresh
+  *simchah*.
+- Bereishis Rabbah 63:1 seems to understand *gilah* as specifically the joy of a man
+  who fathers a son.
 
 ### rinah (רינה)
 Root ר-נ-ן. Machzor Vitry (Rabbi Simchah of Vitry, a talmid of Rashi): the joy

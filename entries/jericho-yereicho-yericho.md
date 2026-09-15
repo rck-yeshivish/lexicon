@@ -48,58 +48,66 @@ Rashi take it as Jericho.
 
 ## Where the authorities disagree
 
-**Why the vocalization changes.** The kabbalist Rabbi Menachem Azaria of Fano: the
-Canaanites, who worshipped the moon and the other celestial bodies, called it *Yereicho*
-after the moon, and once the Jews conquered it and its dates received a special Divine
-blessing of strong fragrance it was renamed *Yericho*. Rabbi David Luria offers a similar
-explanation: the pagan Canaanites were evidently moon-worshippers, and because of the
-name's idolatrous associations the Jews changed it to *Yericho*, for the sweet-smelling
-balsam they found there. (Archaeologists have found evidence of an
-ancient Canaanite moon-god named Yarikh.) Both face the objection Rabbi Klein states
-plainly: Yirmiyahu, Ezra-Nechemiah, Divrei HaYamim and part of Melachim all post-date the
-conquest and still write *Yereicho*.
+**Why the vocalization changes.**
 
-Rabbi Yedidya Tia Weil, son of Rabbi Nesanel Weil the famed author of *Korban Netanel*,
-answers without a chronology. He presumes that the two vocalizations track the two
-spellings, and at first considers that the extra yod is a tribute to Hashem, whose
-four-letter Name opens with a yod, hinting at the great miracle of the conquest and the
-city's consecration; but he concludes that the difference is more practical, that the city
-proper bore one name and the surrounding country, where the balsam and date trees grew,
-the other, and he works through every occurrence in Tanach to show it. Rabbi Shimon Schwab
-(*Maayan Beis HaShoeivah*) reached the same conclusion independently. The Oraysa editor's
-rule, which he offers as something by
-which "perhaps" the variants can be accounted for, is: yod present, *reyach*; yod absent,
-*yareyach*.
+- The kabbalist Rabbi Menachem Azaria of Fano: the Canaanites, who worshipped the moon and
+  the other celestial bodies, called it *Yereicho* after the moon, and once the Jews
+  conquered it and its dates received a special Divine blessing of strong fragrance it was
+  renamed *Yericho*.
+- Rabbi David Luria offers a similar explanation: the pagan Canaanites were evidently
+  moon-worshippers, and because of the name's idolatrous associations the Jews changed it
+  to *Yericho*, for the sweet-smelling balsam they found there. (Archaeologists have found
+  evidence of an ancient Canaanite moon-god named Yarikh.)
+
+Both face the objection Rabbi Klein states plainly: Yirmiyahu, Ezra-Nechemiah, Divrei
+HaYamim and part of Melachim all post-date the conquest and still write *Yereicho*.
+
+- Rabbi Yedidya Tia Weil, son of Rabbi Nesanel Weil the famed author of *Korban Netanel*,
+  answers without a chronology. He presumes that the two vocalizations track the two
+  spellings, and at first considers that the extra yod is a tribute to Hashem, whose
+  four-letter Name opens with a yod, hinting at the great miracle of the conquest and the
+  city's consecration; but he concludes that the difference is more practical, that the
+  city proper bore one name and the surrounding country, where the balsam and date trees
+  grew, the other, and he works through every occurrence in Tanach to show it. Rabbi
+  Shimon Schwab (*Maayan Beis HaShoeivah*) reached the same conclusion independently.
+- The Oraysa editor's rule, which he offers as something by which "perhaps" the variants
+  can be accounted for, is: yod present, *reyach*; yod absent, *yareyach*.
 
 **Which sense the name carries.** One of the earliest sources to connect Jericho with its
-palms and balsam trees is the Jewish-Roman historian Flavius Josephus (*Antiquities of the Jews*
-IV:6 and XIV:4, *War of the Jews* I:6 and I:18); the connection is elaborated in
-*Yossiphon*, a Hebrew abridgement and adaptation of Josephus' writings, probably written in
-tenth-century Italy. *Yossiphon* gives both names: *Ir HaReyach*, the City of Scent, for the
-balsam trees that produced the sweet-smelling balsam oil, and *Ir HaYareach*, the City of
-the Moon, because the new moon was sighted at Jericho before anywhere else, so the most
-reliable witnesses before the Sanhedrin tended to come from there. (He also relates a
-legend that balsam would grow nowhere but around Jericho, withering when foreign kings
-tried to transplant it, apparently until the churban of the second Beis HaMikdash, after
-which it took root even in Egypt.) On both counts Rabbi Klein says only that it *seems*
-*Yossiphon* understood the place-name that way. Rashi (to Melachim II 20:13, Yeshayahu
-39:2, Yechezkel 27:17, Berachos 43a) is read as taking *Yossiphon* for the scent, since he
-quotes him that *Yereicho* is so called for the sweet-smelling balsam; Rabbeinu Yoel and the
-*Peirush HaRokeach* likewise read the name, in the *Yereicho* form that stands in most of
-Tanach, from *reyach*, but attach it to the smell of the dates.
+palms and balsam trees is the Jewish-Roman historian Flavius Josephus (*Antiquities of the
+Jews* IV:6 and XIV:4, *War of the Jews* I:6 and I:18); the connection is elaborated in
+*Yossiphon*, a Hebrew abridgement and adaptation of Josephus' writings, probably written
+in tenth-century Italy.
+
+- *Yossiphon* gives both names: *Ir HaReyach*, the City of Scent, for the balsam trees
+  that produced the sweet-smelling balsam oil, and *Ir HaYareach*, the City of the Moon,
+  because the new moon was sighted at Jericho before anywhere else, so the most reliable
+  witnesses before the Sanhedrin tended to come from there. (He also relates a legend that
+  balsam would grow nowhere but around Jericho, withering when foreign kings tried to
+  transplant it, apparently until the churban of the second Beis HaMikdash, after which it
+  took root even in Egypt.) On both counts Rabbi Klein says only that it *seems*
+  *Yossiphon* understood the place-name that way.
+- Rashi (to Melachim II 20:13, Yeshayahu 39:2, Yechezkel 27:17, Berachos 43a) is read as
+  taking *Yossiphon* for the scent, since he quotes him that *Yereicho* is so called for
+  the sweet-smelling balsam.
+- Rabbeinu Yoel and the *Peirush HaRokeach* likewise read the name, in the *Yereicho* form
+  that stands in most of Tanach, from *reyach*, but attach it to the smell of the dates.
 
 Rabbi Klein adds one observation of his own, and marks its limits: the Mishnah (Tamid
 3:8) says some of the sounds of the avodah, and the scent of the ketores, carried from Yerushalayim
 as far as Jericho, which implies some connection between Jericho and smells, but he writes
 that he has seen no source that explicitly ties this to the city's name.
 
-**Whether reyach and yareyach share a root.** Ibn Saruk, Ibn Janach and Radak keep them
-separate, ר-י-ח for scent and י-ר-ח for the moon. Pappenheim derives both from the biliteral
-ר-ח, air, whose commonest manifestation is *ruach*, wind: because air is light and all but
-imperceptible, *ruach* is also the soul and whatever else is spiritual and beyond the
-physical senses, and *reyach* is accordingly the perception no other sense can register,
-travelling within the *ruach*; the moon is called *yareyach* because its movements somehow
-control the *ruach*, the tides and winds.
+**Whether reyach and yareyach share a root.**
+
+- Ibn Saruk, Ibn Janach and Radak keep them separate, ר-י-ח for scent and י-ר-ח for the
+  moon.
+- Pappenheim derives both from the biliteral ר-ח, air, whose commonest manifestation is
+  *ruach*, wind: because air is light and all but imperceptible, *ruach* is also the soul
+  and whatever else is spiritual and beyond the physical senses, and *reyach* is
+  accordingly the perception no other sense can register, travelling within the *ruach*;
+  the moon is called *yareyach* because its movements somehow control the *ruach*, the
+  tides and winds.
 
 **Ir HaTmarim.** Mishnah Yevamos 16:7 applies the title to Tzoar, as does Targum Yerushalmi
 to Devarim 34:3; the Rashash already notes that this stands against Devarim 34:3 itself,
@@ -124,14 +132,16 @@ number. Yechezkel 47:19, in the future borders of the Land, names a city Tamar, 
 Targum and Rashi again read as Jericho.
 
 ### reyach (ריח), yareyach (ירח) and tamar (תמר)
-On *reyach* and *yareyach*, see the dispute above. On *tamar*: the classical lexicographers
-give ת-מ-ר, covering *tamar* and its cognate *tomer*, the date and the date palm, and Radak
-extends it to whatever is tall and straight, which is how *timros* comes to mean columns of
-smoke (Yoel 3:3, Shir HaShirim 3:6). Rabbi Aharon Marcus claims the root of *tamar* is
-related to the Akkadian and Sumerian word for "sight," since a tall palm can often be seen from a
-long way off. Pappenheim traces it to the biliteral מ-ר, replacing: parts of the palm are
-often cut away, for a *lulav*, for *schach*, for the dates, and the relatively
-fast-growing tree duly replaces them.
+On *reyach* and *yareyach*, see the dispute above. On *tamar*:
+
+- the classical lexicographers give ת-מ-ר, covering *tamar* and its cognate *tomer*, the
+  date and the date palm, and Radak extends it to whatever is tall and straight, which is
+  how *timros* comes to mean columns of smoke (Yoel 3:3, Shir HaShirim 3:6).
+- Rabbi Aharon Marcus claims the root of *tamar* is related to the Akkadian and Sumerian
+  word for "sight," since a tall palm can often be seen from a long way off.
+- Pappenheim traces it to the biliteral מ-ר, replacing: parts of the palm are often cut
+  away, for a *lulav*, for *schach*, for the dates, and the relatively fast-growing tree
+  duly replaces them.
 
 ## Rendering guidance
 

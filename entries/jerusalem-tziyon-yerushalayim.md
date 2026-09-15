@@ -85,13 +85,15 @@ Rabbi Klein's own comment is that none of the first three sources agree with wha
 we today call Har Tziyon, which is southwest of the Old City, and that the
 Midrash makes this very point.
 
-**How wide "the mountain of Tziyon" is.** HaParchi, a prominent rabbinic
-topographer, concedes that "mountains of Tziyon" or "mountain of Tziyon" can
-mean not Har Tziyon itself but the mountains of that general vicinity, taking in
-Har Tziyon, Har HaMoriah, and Har HaZeisim, so that when Tziyon appears
-alongside the Mikdash it can include the Temple Mount as well. Tukachinsky
-reaches the same place from the other side: where *tziyon* means the Mikdash,
-Har Tziyon sometimes refers to Har HaMoriah.
+**How wide "the mountain of Tziyon" is.**
+
+- HaParchi, a prominent rabbinic topographer, concedes that "mountains of
+  Tziyon" or "mountain of Tziyon" can mean not Har Tziyon itself but the
+  mountains of that general vicinity, taking in Har Tziyon, Har HaMoriah, and
+  Har HaZeisim, so that when Tziyon appears alongside the Mikdash it can include
+  the Temple Mount as well.
+- Tukachinsky reaches the same place from the other side: where *tziyon* means
+  the Mikdash, Har Tziyon sometimes refers to Har HaMoriah.
 
 ## Distinctions
 

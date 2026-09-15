@@ -55,15 +55,17 @@ and, at least at Iyov 40:26, for *agmon*.
 
 ### vav (וו)
 Thirteen appearances, all in the Mishkan chapters of Shemos (26, 27, 36, 38).
-Targum Onkelos never translates it; he leaves *vav* standing as *vav*. Menachem
-Ibn Saruk, Ibn Janach and Radak all take the root as ו-ו; Rabbi Shlomo
-Pappenheim seems somewhat inclined to the single letter ו. Rabbi Aharon Marcus
-(1843-1916) supposes that *vav* is not a root-word at all: the sixth letter is
-shaped like a hook, much as the Arabic numerals 6 and 9 are, so the letter itself
-came to stand for "hook" in early Hebrew, without the word *vav* actually
-meaning "hook." He goes as far as to claim that the crude usage was abandoned
-once Klal Yisrael entered Eretz Yisrael, on the evidence that the word appears
-nowhere else in Tanach. Rashi (to Shemos 27:10) glosses *vavim* as *ankliyot*.
+
+- Targum Onkelos never translates it; he leaves *vav* standing as *vav*.
+- Menachem Ibn Saruk, Ibn Janach and Radak all take the root as ו-ו.
+- Rabbi Shlomo Pappenheim seems somewhat inclined to the single letter ו.
+- Rabbi Aharon Marcus (1843-1916) supposes that *vav* is not a root-word at all:
+  the sixth letter is shaped like a hook, much as the Arabic numerals 6 and 9
+  are, so the letter itself came to stand for "hook" in early Hebrew, without
+  the word *vav* actually meaning "hook." He goes as far as to claim that the
+  crude usage was abandoned once Klal Yisrael entered Eretz Yisrael, on the
+  evidence that the word appears nowhere else in Tanach.
+- Rashi (to Shemos 27:10) glosses *vavim* as *ankliyot*.
 
 ### ankliyot (אנקליות)
 The Mishnaic word (Pesachim 5:9, Tamid 3:5, Middos 3:5, Keilim 12:2-3),

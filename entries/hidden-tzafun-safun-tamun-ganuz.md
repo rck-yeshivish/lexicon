@@ -70,64 +70,79 @@ Root ט-מ-ן, thirty-one times in Tanach; at least eight are a hidden trap laid
 unbeknownst to the victim (Yirmiyahu 18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6,
 140:6, 142:4), others burying, as Yaakov buried the idols of Shechem (Bereishis
 35:4) and Moshe the Mitzri (Shemos 2:12), or the spies hidden in flax (Yehoshua
-2:6). Mishnaic *hatmanah* is embedding food in a heat source or insulator to keep
-it warm (Shabbos 2:7, 4:1-2; Beitzah 2:6; Eduyos 3:10). From all this Rabbi Reuven Chaim Klein
-concludes that *tamun* seems to mean simply anything placed within another
-material that covers it and hides it from view. The Mechilta (to Shemos 22:5) and
-Bava Kamma 60a-62a use *tamun* for what a fire consumed that the kindler could
-not readily see, for which his liability is more limited. Pappenheim: from
-TET-MEM, "blocking, impeding," the root of *tumah* (a legal block on what one may
-do, so that *tameh* is essentially the Mishnaic *assur*), *atum* (closed, sealed),
-and *tumtum*; a *tamun* object is one people are blocked from reaching, and
-*tamun* alone usually implies hiding in the ground.
+2:6). Mishnaic *hatmanah* is embedding food in a heat source or insulator to
+keep it warm (Shabbos 2:7, 4:1-2; Beitzah 2:6; Eduyos 3:10).
+
+- From all this Rabbi Reuven Chaim Klein concludes that *tamun* seems to mean
+  simply anything placed within another material that covers it and hides it
+  from view. The Mechilta (to Shemos 22:5) and Bava Kamma 60a-62a use *tamun*
+  for what a fire consumed that the kindler could not readily see, for which his
+  liability is more limited.
+- Pappenheim: from TET-MEM, "blocking, impeding," the root of *tumah* (a legal
+  block on what one may do, so that *tameh* is essentially the Mishnaic
+  *assur*), *atum* (closed, sealed), and *tumtum*; a *tamun* object is one
+  people are blocked from reaching, and *tamun* alone usually implies hiding in
+  the ground.
 
 ### safun (ספון)
 Root ס-פ-ן, spelled with samech (Devarim 33:21; Melachim I 6:9, 7:3) or sin
-(Devarim 33:19); Rashi (to Devarim 33:19) notes that the two spellings are interchangeable, and Rabbi
-Yosef Kimchi (*Sefer Zikaron*) explains it by the samech/sin interchange.
-Menachem Ibn Saruk (*Machberet Menachem*) actually uses *tzafun* to define
-*safun*. Pappenheim: from SAMECH-PEH, "edge, end," seemingly meaning that what is
-usually a thing's external, outer side is obscured by something covering it, so
-it cannot be seen at all; and *safun* implies hiding in an organized, deliberate
-way, where the other words can be hasty or ad hoc.
+(Devarim 33:19).
+
+- Rashi (to Devarim 33:19) notes that the two spellings are interchangeable, and
+  Rabbi Yosef Kimchi (*Sefer Zikaron*) explains it by the samech/sin
+  interchange.
+- Menachem Ibn Saruk (*Machberet Menachem*) actually uses *tzafun* to define
+  *safun*.
+- Pappenheim: from SAMECH-PEH, "edge, end," seemingly meaning that what is
+  usually a thing's external, outer side is obscured by something covering it,
+  so it cannot be seen at all; and *safun* implies hiding in an organized,
+  deliberate way, where the other words can be hasty or ad hoc.
 
 ### tzafun (צפון)
-Root צ-פ-ן, over thirty times in Tanach; Yocheved hid Moshe three months
-(Shemos 2:2). Rabbi Yosef Kimchi ties it to *safun* via the tzadi/samech
-interchange. Pappenheim gives it its own root, TZADI-PEH, "floating, covering":
-hiding by embedding within something that covers it; and TZADI-PEH-NUN means
-hiding specifically **for the purpose of preserving and saving**. Relatives: *tzafon* (north), which also seems
-to come from the same root; Shadal (to Vayikra 11:5) even relates *shafan* to it,
-since rabbits dig holes and hide in them.
+Root צ-פ-ן, over thirty times in Tanach; Yocheved hid Moshe three months (Shemos
+2:2).
+
+- Rabbi Yosef Kimchi ties it to *safun* via the tzadi/samech interchange.
+- Pappenheim gives it its own root, TZADI-PEH, "floating, covering": hiding by
+  embedding within something that covers it; and TZADI-PEH-NUN means hiding
+  specifically **for the purpose of preserving and saving**.
+
+Relatives: *tzafon* (north), which also seems to come from the same root; Shadal
+(to Vayikra 11:5) even relates *shafan* to it, since rabbits dig holes and hide
+in them.
 
 ### ganuz (גנוז)
-Root ג-נ-ז. In Tanach the noun is a royal storehouse, where a king might hide his
-most treasured things: *ginzei* (Yechezkel 27:24; Esther 3:9, 4:7), *ganzach*
-(Divrei HaYamim I 28:11), and in Biblical Aramaic *ginzaya* (Ezra 5:17, 6:1,
-7:20); Targum uses Aramaic inflections of it to render *otzar* (Yeshayahu 39:6),
-*tzrurah* (Shmuel I 25:29) and *pikadon* (Bereishis 41:36). In the Mishnah it is
-also the verb: Chizkiyahu hid the Book of Remedies (Pesachim 4:9), the Chashmonaim
-hid the altar stones the gentiles had defiled (Middos 1:6), the Aron was hidden
-(Shekalim 6:1-2); *genizah* is the honorable disposal, such as by burial, of
-used or ruined holy writings (Shabbos 9:6, 16:1; Sanhedrin 10:6), and Arabic
-*janaz*, "to bury," is a cognate of the Hebrew/Aramaic word. Hence
-the Cairo Genizah; in the vernacular a *genizah* is sometimes called *sheimos*,
-"names," since by strict law only documents bearing Hashem's name need burial.
-Bava Basra 11a: Munbaz gave his treasury away in a famine, "they stored (*ganzu*)
-for This World, but I am storing for the World to Come." Rabbi Yehoshua (Jeremy)
-Steinberg of the Veromemanu Foundation suggests a link to KAF-NUN-SAMECH, usually
-"enter" but sometimes storing or in-gathering, as in *kanus*; Rabbi Ernest Klein
-writes that *ganuz* and *ganzach* are related to the Persian *ganza*/*ganj*,
-"treasure." In Modern Hebrew a *ganaz* is an archivist or curator of a
-treasured collection. *Gizbar*, treasurer, is its relative, twice in Tanach (Ezra
-1:8, 7:21) and often in the Mishnah of the *hekdesh* officer; scholars have
-explained *gizbar* as a loanword from Old Persian *ganzabara*/*ginzbara*, the nun
-assimilating into the zayin, and Professor Edward Yechezkel Kutscher explains its
-*-bar* element as cognate with German *bahre* and English *bear*, the *gizbar*
-being the one who bears the responsibility of the treasury; Old Persian, German
-and English are all Indo-European languages. Biblical Aramaic *gidabar* (Daniel 3:2-3) is the
-Aramaicized form, zayin becoming dalet, and *gizbar*/*gidabar* is apparently also
-the etymon of the names Jasper, Caspar and Gaspar.
+Root ג-נ-ז. In Tanach the noun is a royal storehouse, where a king might hide
+his most treasured things: *ginzei* (Yechezkel 27:24; Esther 3:9, 4:7),
+*ganzach* (Divrei HaYamim I 28:11), and in Biblical Aramaic *ginzaya* (Ezra
+5:17, 6:1, 7:20); Targum uses Aramaic inflections of it to render *otzar*
+(Yeshayahu 39:6), *tzrurah* (Shmuel I 25:29) and *pikadon* (Bereishis 41:36). In
+the Mishnah it is also the verb: Chizkiyahu hid the Book of Remedies (Pesachim
+4:9), the Chashmonaim hid the altar stones the gentiles had defiled (Middos
+1:6), the Aron was hidden (Shekalim 6:1-2); *genizah* is the honorable disposal,
+such as by burial, of used or ruined holy writings (Shabbos 9:6, 16:1; Sanhedrin
+10:6), and Arabic *janaz*, "to bury," is a cognate of the Hebrew/Aramaic word.
+Hence the Cairo Genizah; in the vernacular a *genizah* is sometimes called
+*sheimos*, "names," since by strict law only documents bearing Hashem's name
+need burial. Bava Basra 11a: Munbaz gave his treasury away in a famine, "they
+stored (*ganzu*) for This World, but I am storing for the World to Come."
+
+- Rabbi Yehoshua (Jeremy) Steinberg of the Veromemanu Foundation suggests a link
+  to KAF-NUN-SAMECH, usually "enter" but sometimes storing or in-gathering, as
+  in *kanus*.
+- Rabbi Ernest Klein writes that *ganuz* and *ganzach* are related to the
+  Persian *ganza*/*ganj*, "treasure."
+
+In Modern Hebrew a *ganaz* is an archivist or curator of a treasured collection.
+*Gizbar*, treasurer, is its relative, twice in Tanach (Ezra 1:8, 7:21) and often
+in the Mishnah of the *hekdesh* officer; scholars have explained *gizbar* as a
+loanword from Old Persian *ganzabara*/*ginzbara*, the nun assimilating into the
+zayin, and Professor Edward Yechezkel Kutscher explains its *-bar* element as
+cognate with German *bahre* and English *bear*, the *gizbar* being the one who
+bears the responsibility of the treasury; Old Persian, German and English are
+all Indo-European languages. Biblical Aramaic *gidabar* (Daniel 3:2-3) is the
+Aramaicized form, zayin becoming dalet, and *gizbar*/*gidabar* is apparently
+also the etymon of the names Jasper, Caspar and Gaspar.
 
 ### nistar / mustar (נסתר, מוסתר, סתר)
 Root ס-ת-ר, over a hundred times in Tanach; *mistar*/*mistor*, the initial mem
@@ -157,13 +172,16 @@ suggests the confusion may date from when Arabic displaced Greek among the Jews
 of the Near East, in Geonic times.
 
 ### ne'elam (נעלם)
-Root ע-ל-ם. Pappenheim: hidden in the intellectual sense, from AYIN-LAMED,
-"above" or "atop," as in *al*; the thing lies above one's range of intellectual
-perception, which is why it is hidden from him. Rabbi Yehuda Leib
-Shapira-Frankfurter, sometimes called Ralash (*HaRechasim LaVikah*, cited in
-*HaKsav VeHaKabbalah* to Bereishis 49:6): *sod* is a secret or hidden matter that
-people speak of quietly; *ta'alumah*, a cognate of *ne'elam*, or *seter*, is so
-hidden that one person alone knows it and nobody else is privy.
+Root ע-ל-ם.
+
+- Pappenheim: hidden in the intellectual sense, from AYIN-LAMED, "above" or
+  "atop," as in *al*; the thing lies above one's range of intellectual
+  perception, which is why it is hidden from him.
+- Rabbi Yehuda Leib Shapira-Frankfurter, sometimes called Ralash (*HaRechasim
+  LaVikah*, cited in *HaKsav VeHaKabbalah* to Bereishis 49:6): *sod* is a secret
+  or hidden matter that people speak of quietly; *ta'alumah*, a cognate of
+  *ne'elam*, or *seter*, is so hidden that one person alone knows it and nobody
+  else is privy.
 
 Other words for hidden things include *pele*/*nifla*, *nichbeh*/*mitchabeh*,
 *tzanua* and *camun*.

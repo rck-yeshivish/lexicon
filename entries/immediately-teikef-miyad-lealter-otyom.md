@@ -81,15 +81,17 @@ tikaseiv v'seichaseim le'alter l'chaim tovim u'l'shalom*.
 
 ### otyom (אותיום)
 Appears once in the Mishnah, Niddah 2:2, and clearly means "immediately
-thereafter"; some argue the vocalization should really be *evteos*. Rabbi
-Emmanuel Chai Ricci (1688-1743), in his commentary to the Mishnah, takes it as an
-abbreviation of a Hebrew phrase spelling out the halachic definition of
-"immediately" in that sugya. Rabbi Betzalel Ronsberg (1762-1821) disagrees,
-pointing out that it does not square with the Gemara's conclusions about that
-definition, and prefers Rav Hai Gaon (in the commentary to Niddah ascribed to
-him), *Sefer HaAruch*, Rashi (Yoma 6a, Kerisos 17b) and Rashba (*Toras HaBayis*
-7:3), who all write that *otyom* is actually a Greek word. Indeed, the
-Ancient Greek εὐθέως, *eutheos*, means "immediately."
+thereafter"; some argue the vocalization should really be *evteos*.
+
+- Rabbi Emmanuel Chai Ricci (1688-1743), in his commentary to the Mishnah, takes
+  it as an abbreviation of a Hebrew phrase spelling out the halachic definition
+  of "immediately" in that sugya.
+- Rabbi Betzalel Ronsberg (1762-1821) disagrees, pointing out that it does not
+  square with the Gemara's conclusions about that definition, and prefers Rav
+  Hai Gaon (in the commentary to Niddah ascribed to him), *Sefer HaAruch*, Rashi
+  (Yoma 6a, Kerisos 17b) and Rashba (*Toras HaBayis* 7:3), who all write that
+  *otyom* is actually a Greek word. Indeed, the Ancient Greek εὐθέως, *eutheos*,
+  means "immediately."
 
 ## Rendering guidance
 

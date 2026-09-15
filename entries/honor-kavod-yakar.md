@@ -44,21 +44,26 @@ square one. *Yakar* means "rare" (Shmuel I 3:1), "costly"
 ## Distinctions
 
 ### kavod (כבוד)
-Root כ-ב-ד, which also gives "heavy" and "liver" (*kaved*). Rabbi Klein takes
-weight, value and honor as one metaphor: the substantial thing is the one that
-commands respect. Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*): the
-liver distributes nourishment to each limb according to its need, an honorable
-form of division; or, since the liver is the seat of anger (Berachos 60b) and
-anger mostly results from slighted honor, the organ and the concept
-share a root. Rabbi Pappenheim (introduction to *Yerios Shlomo*) speculates that
-כ-ב-ד fuses כ-ב (extinguishing) and ב-ד (aloneness) but never explains it; Rabbi
-Klein tentatively posits that honor, as a social construct, perhaps extinguishes
-or diminishes individuality in some ways. Rabbinic *l'chabed* also means to
-sweep or clean, and in contemporary usage *kibbud kal* is light refreshments,
-both ways of honoring a guest. Malbim (*Sefer HaCarmel*, *Yair Ohr*): *kavod* is
-owed to a thing for its own inherent properties, the sage who earned his wisdom.
-Rabbi Avraham Vilner (*Be'er Avraham* to Esther 1:4) says the reverse: *kavod* is
-one's importance relative to others.
+Root כ-ב-ד, which also gives "heavy" and "liver" (*kaved*).
+
+- Rabbi Klein takes weight, value and honor as one metaphor: the substantial
+  thing is the one that commands respect.
+- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*): the liver distributes
+  nourishment to each limb according to its need, an honorable form of division;
+  or, since the liver is the seat of anger (Berachos 60b) and anger mostly
+  results from slighted honor, the organ and the concept share a root.
+- Rabbi Pappenheim (introduction to *Yerios Shlomo*) speculates that כ-ב-ד fuses
+  כ-ב (extinguishing) and ב-ד (aloneness) but never explains it; Rabbi Klein
+  tentatively posits that honor, as a social construct, perhaps extinguishes or
+  diminishes individuality in some ways.
+
+Rabbinic *l'chabed* also means to sweep or clean, and in contemporary usage
+*kibbud kal* is light refreshments, both ways of honoring a guest.
+
+- Malbim (*Sefer HaCarmel*, *Yair Ohr*): *kavod* is owed to a thing for its own
+  inherent properties, the sage who earned his wisdom.
+- Rabbi Avraham Vilner (*Be'er Avraham* to Esther 1:4) says the reverse: *kavod*
+  is one's importance relative to others.
 
 ### yakar (יקר)
 Root י-ק-ר: precious, expensive, honorable.
@@ -85,31 +90,36 @@ display (1:4), wives giving *yikar* to husbands (1:20), the *yikar* due
 Mordechai (6:3, 6:6), and the Jews' *yikar* at the resolution (8:16).
 
 ### The Aramaic question
-Rabbi Eliyahu Bachur (*Meturgeman*): Targum tends to render כ-ב-ד, both "heavy" (Shemos
-4:10, 7:14; Shmuel II 14:26) and "honor" (Shemos 20:11; Shmuel I 2:29; Yeshayahu
-43:23), with Aramaic י-ק-ר; so one simple line, which Rabbi Klein raises as a
-possibility, might be that *yakar* is *kavod* in Aramaic and the difference is
-linguistic, not semantic. He himself names the problem with the suggestion:
-י-ק-ר declines many times in Tanach, in stretches written in Hebrew, which makes
-it hard to say *yakar* is Aramaic only. In defense of the suggestion he points to a rabbinic tradition that treats *yakar* as
-quintessentially Aramaic: Megillah 9a proves there is Aramaic in Esther from
-*yikar* (1:20), and Sanhedrin 38b proves Adam spoke Aramaic from יקרו in Tehillim
-139:17, which commentaries read as the Aramaic word for "honorable" standing
-in for the Hebrew *kavod* (Yad Ramah to Sanhedrin 38b, Maharsha to Bava Basra
-75b, Aruch L'Ner to Sanhedrin 38b). Rabbi Uziel (glosses to Megillah 9a) objects
-to that reading of Sanhedrin: *yakar* exists in Hebrew too, where it means
-"precious." *Yad Ramah* himself offers an alternative elucidation of the sugya,
-that the Gemara's proof was from *re'echa*, "Your thoughts," which he takes as a
-cognate of the Aramaic *ra'ayon*, "idea." Why the Amora chose 1:20 and not 1:4,
-where *yikar* already appears: Rabbi Baruch HaLevi Epstein (*Safah LaNe'emanim*
-pp. 34-35), because one loanword proves nothing and only several foreign words in
-a single sentence show that a text "uses" the other language; Rabbi Nathansohn
-(*Beis Shaul* to Yadayim 4:5), because the Gemara wanted an Aramaic word inflected
-in Hebrew fashion, not merely a word of Aramaic etymology (see also Rabbi Naftali
-Maskileison, *Miskenos Naftali* to Yadayim 4:5); the question is also handled by
-Rabbi Efrayim Zalman Margulies (*Beis Efrayim*, *Orach Chaim* 70), Sfas Emes to
-Megillah 9a, Rabbi Zvi Hirsch Chajes in his glosses to Megillah 9a and Sanhedrin
-38b, and Rabbi Eliezer Harstik (*Raglei Mevasser* to *Sefer HaTishbi*).
+Rabbi Eliyahu Bachur (*Meturgeman*): Targum tends to render כ-ב-ד, both "heavy"
+(Shemos 4:10, 7:14; Shmuel II 14:26) and "honor" (Shemos 20:11; Shmuel I 2:29;
+Yeshayahu 43:23), with Aramaic י-ק-ר; so one simple line, which Rabbi Klein
+raises as a possibility, might be that *yakar* is *kavod* in Aramaic and the
+difference is linguistic, not semantic. He himself names the problem with the
+suggestion: י-ק-ר declines many times in Tanach, in stretches written in Hebrew,
+which makes it hard to say *yakar* is Aramaic only. In defense of the suggestion
+he points to a rabbinic tradition that treats *yakar* as quintessentially
+Aramaic: Megillah 9a proves there is Aramaic in Esther from *yikar* (1:20), and
+Sanhedrin 38b proves Adam spoke Aramaic from יקרו in Tehillim 139:17, which
+commentaries read as the Aramaic word for "honorable" standing in for the Hebrew
+*kavod* (Yad Ramah to Sanhedrin 38b, Maharsha to Bava Basra 75b, Aruch L'Ner to
+Sanhedrin 38b). Rabbi Uziel (glosses to Megillah 9a) objects to that reading of
+Sanhedrin: *yakar* exists in Hebrew too, where it means "precious." *Yad Ramah*
+himself offers an alternative elucidation of the sugya, that the Gemara's proof
+was from *re'echa*, "Your thoughts," which he takes as a cognate of the Aramaic
+*ra'ayon*, "idea."
+
+Why the Amora chose 1:20 and not 1:4, where *yikar* already appears:
+
+- Rabbi Baruch HaLevi Epstein (*Safah LaNe'emanim* pp. 34-35), because one
+  loanword proves nothing and only several foreign words in a single sentence
+  show that a text "uses" the other language.
+- Rabbi Nathansohn (*Beis Shaul* to Yadayim 4:5), because the Gemara wanted an
+  Aramaic word inflected in Hebrew fashion, not merely a word of Aramaic
+  etymology (see also Rabbi Naftali Maskileison, *Miskenos Naftali* to Yadayim
+  4:5); the question is also handled by Rabbi Efrayim Zalman Margulies (*Beis
+  Efrayim*, *Orach Chaim* 70), Sfas Emes to Megillah 9a, Rabbi Zvi Hirsch Chajes
+  in his glosses to Megillah 9a and Sanhedrin 38b, and Rabbi Eliezer Harstik
+  (*Raglei Mevasser* to *Sefer HaTishbi*).
 
 On names: several medieval rabbanim were called Rabbeinu Yakar
 or Rabbeinu Yakir (*Tosafos* to Eruvin 40b, Avodah Zarah 68a, Chullin 47a),
