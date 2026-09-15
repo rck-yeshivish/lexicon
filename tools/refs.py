@@ -47,6 +47,18 @@ MISHNAH = {
     "Yadayim": "Yadayim", "Uktzin": "Oktzin",
 }
 
+# Tractates of the Bavli; the same spellings name the Yerushalmi's.
+BAVLI = {k: v for k, v in MISHNAH.items() if v not in (
+    "Peah", "Demai", "Kilayim", "Sheviit", "Terumot", "Maasrot", "Maaser Sheni", "Challah",
+    "Orlah", "Bikkurim", "Shekalim", "Eduyot", "Pirkei Avot", "Middot", "Kinnim", "Kelim",
+    "Oholot", "Negaim", "Parah", "Tahorot", "Mikvaot", "Makhshirin", "Zavim", "Tevul Yom",
+    "Yadayim", "Oktzin")}
+YERUSHALMI = {k: v for k, v in MISHNAH.items() if v not in (
+    "Pirkei Avot", "Eduyot", "Zevachim", "Menachot", "Chullin", "Bekhorot", "Arakhin", "Temurah",
+    "Keritot", "Meilah", "Tamid", "Middot", "Kinnim", "Kelim", "Oholot", "Negaim", "Parah",
+    "Tahorot", "Mikvaot", "Makhshirin", "Zavim", "Tevul Yom", "Yadayim", "Oktzin")}
+
+
 def _alt(names):
     return "|".join(re.escape(n) for n in sorted(names, key=len, reverse=True))
 
@@ -56,9 +68,15 @@ _NUM = r"(\d+):(\d+)(?:\s*[-–]\s*(\d+))?"
 _CHAIN = r"(?:(?:,|;|,? and)\s+\d+:\d+(?:\s*[-–]\s*\d+)?)*"
 TANACH_RX = re.compile(r"(?<![\w-])(%s)\s+%s%s" % (_alt(TANACH), _NUM, _CHAIN))
 MISHNAH_RX = re.compile(r"(?<![\w-])(%s)\s+%s%s" % (_alt(MISHNAH), _NUM, _CHAIN))
-# Mishnah-shaped citations that are not the Mishnah.
+YERUSHALMI_RX = re.compile(r"(?<![\w-])Yerushalmi\s+(%s)\s+(\d+):(\d+)(?:,\s+\d+:\d+)*" % _alt(YERUSHALMI))
+# Bavli: tractate and daf, with more dapim of the same tractate after it (74a, 150b).
+BAVLI_RX = re.compile(r"(?<![\w-])(%s)\s+(\d+)([ab])\b(?:,\s+\d+[ab]\b)*" % _alt(BAVLI))
+# Citations shaped like the Mishnah or the Bavli that are something else.
 NOT_MISHNAH = re.compile(r"(Yerushalmi|Tosefta|Hilchos|Rambam|Mishneh Torah|Sifra|Sifrei)\s+$")
+NOT_BAVLI = re.compile(r"(Yerushalmi|Tosefta|Hilchos|Rambam|Mishneh Torah)\s+$")
 PIECE = re.compile(_NUM)
+DAF = re.compile(r"(\d+)([ab])\b")
+HALACHAH = re.compile(r"(\d+):(\d+)")
 MAX_RANGE = 4
 
 
@@ -70,25 +88,39 @@ def keys_for(book, ch, v1, v2):
 
 
 def find(text):
-    """[(start, end, sefaria_book, [(label, [keys])])] for each citation run.
-
-    Offsets are into `text`; each run can hold several references to the same
-    book ("Yeshayahu 43:3, 45:14")."""
+    """[(start, end, kind, sefaria_book, name, [(piece_start, piece_end, [keys])])]
+    for each citation run, in text order. kind is tanach, mishnah, bavli or
+    yerushalmi. A run can hold several references to one book ("Yeshayahu
+    43:3, 45:14", "Bava Basra 74a, 150b")."""
     out = []
-    for rx, table, mishnah in ((TANACH_RX, TANACH, False), (MISHNAH_RX, MISHNAH, True)):
-        for m in rx.finditer(text):
-            if mishnah:
-                if NOT_MISHNAH.search(text[max(0, m.start() - 20):m.start()]):
-                    continue
-                book = "Mishnah " + table[m.group(1)] if table[m.group(1)] != "Pirkei Avot" else "Pirkei Avot"
-            else:
-                book = table[m.group(1)]
-            refs, pos = [], m.start(1) + len(m.group(1))
-            for p in PIECE.finditer(text, pos, m.end()):
-                ch, v1 = int(p.group(1)), int(p.group(2))
-                v2 = int(p.group(3)) if p.group(3) else None
-                refs.append((p.start(), p.end(), keys_for(book, ch, v1, v2)))
-            out.append((m.start(), m.end(), book, m.group(1), refs))
+    before = lambda m: text[max(0, m.start() - 20):m.start()]
+    for m in TANACH_RX.finditer(text):
+        book = TANACH[m.group(1)]
+        pieces = [(p.start(), p.end(), keys_for(book, int(p.group(1)), int(p.group(2)),
+                                                int(p.group(3)) if p.group(3) else None))
+                  for p in PIECE.finditer(text, m.start(1) + len(m.group(1)), m.end())]
+        out.append((m.start(), m.end(), "tanach", book, m.group(1), pieces))
+    for m in MISHNAH_RX.finditer(text):
+        if NOT_MISHNAH.search(before(m)):
+            continue
+        name = MISHNAH[m.group(1)]
+        book = name if name == "Pirkei Avot" else "Mishnah " + name
+        pieces = [(p.start(), p.end(), keys_for(book, int(p.group(1)), int(p.group(2)),
+                                                int(p.group(3)) if p.group(3) else None))
+                  for p in PIECE.finditer(text, m.start(1) + len(m.group(1)), m.end())]
+        out.append((m.start(), m.end(), "mishnah", book, m.group(1), pieces))
+    for m in YERUSHALMI_RX.finditer(text):
+        book = "Jerusalem Talmud " + YERUSHALMI[m.group(1)]
+        pieces = [(p.start(), p.end(), [f"{book}.{p.group(1)}.{p.group(2)}"])
+                  for p in HALACHAH.finditer(text, m.start(1) + len(m.group(1)), m.end())]
+        out.append((m.start(), m.end(), "yerushalmi", book, "Yerushalmi " + m.group(1), pieces))
+    for m in BAVLI_RX.finditer(text):
+        if NOT_BAVLI.search(before(m)):
+            continue
+        book = BAVLI[m.group(1)]
+        pieces = [(p.start(), p.end(), [f"{book}.{p.group(1)}{p.group(2)}"])
+                  for p in DAF.finditer(text, m.start(1) + len(m.group(1)), m.end())]
+        out.append((m.start(), m.end(), "bavli", book, m.group(1), pieces))
     out.sort()
     # Drop a run nested inside another (a tractate name inside a longer match).
     kept, last = [], -1

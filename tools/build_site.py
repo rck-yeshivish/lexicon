@@ -14,7 +14,7 @@ There is a small markdown renderer here rather than a dependency, because the
 entries use a known, narrow subset (headings, tables, lists, bold, italic,
 links, code) and a build that needs no install is one less thing to break.
 """
-import re, sys, json, html, shutil, pathlib, unicodedata, datetime, hashlib
+import re, sys, json, html, shutil, pathlib, unicodedata, datetime, hashlib, urllib.parse
 from collections import Counter
 
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
@@ -410,6 +410,8 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 
 # The essay on the method of synonyms, not a group of them.
 METHOD = "synonyms-davar-vayomer-vayidaber"
+# Entries whose words share a root but are not synonyms; the cards say so.
+ROOT_FAMILY = {"splendor-tzvi-tzivyon-tzava"}
 
 # slug -> [(cluster, other slug, shared word)], from xref.json; filled in main().
 XREF = {}
@@ -451,6 +453,7 @@ def glance_cards(mdtext):
 # forms so common across those texts (כלם, all) that a root match on them is
 # more likely coincidence than the word itself.
 PESUKIM = {"meta": {}, "verses": {}}
+TALMUD = {"meta": {}, "passages": {}}
 STOP = set()
 STOP_AT = 12
 
@@ -476,12 +479,15 @@ class Cites:
             return ""
         for disp, hb, root in self.words:
             # The headword itself, with up to two prefix letters (וְסַלּוֹנִים:
-            # ו + סלון + ים) and up to three inflection letters after it.
-            i = b.find(hb)
-            if i != -1 and i <= 2 and all(c in refs.PREFIX for c in b[:i]):
-                tail = b[i + len(hb):]
-                if len(tail) <= 3 and all(c in refs.SUFFIX for c in tail):
-                    return disp
+            # ו + סלון + ים) and up to three inflection letters after it. A
+            # final א or ה is dropped first, since it goes with the ending
+            # (גרמניא, בַּגֶּרְמָנִי; כלימה, כְּלִמָּתוֹ).
+            for core in dict.fromkeys((hb, hb[:-1] if len(hb) > 3 and hb[-1] in "אה" else hb)):
+                i = b.find(core)
+                if i != -1 and i <= 2 and all(c in refs.PREFIX for c in b[:i]):
+                    tail = b[i + len(core):]
+                    if len(tail) <= 3 and all(c in refs.SUFFIX for c in tail):
+                        return disp
         if b in STOP:
             return ""
         for disp, hb, root in self.words:
@@ -489,23 +495,50 @@ class Cites:
                 return disp
         return ""
 
-    def card(self, label, keys, mishnah):
-        texts = [PESUKIM["verses"].get(k) for k in keys]
-        if not all(texts):
-            return None
-        toks = []
-        for t in texts:
-            # A maqaf-joined pair (וְגַם־נִכְלְמוּ) is two tokens, so only the
-            # word itself is marked; a token ending in maqaf joins the next.
-            for w in t.split(" "):
-                for piece in re.split(r"(?<=־)", w):
-                    if piece:
-                        toks.append([piece, self.mark(piece)])
+    def tokens(self, text):
+        # A maqaf-joined pair (וְגַם־נִכְלְמוּ) is two tokens, so only the word
+        # itself is marked; a token ending in maqaf joins the next.
+        return [[piece, self.mark(piece)] for w in text.split(" ")
+                for piece in re.split(r"(?<=־)", w) if piece]
+
+    def card(self, label, keys, kind):
+        # Every citation the site recognises is a link. Where its text cannot
+        # be shown (no segment of the amud holds the entry's word, a mishnah
+        # numbered differently), the card offers the text on Sefaria instead.
+        c = self.text_card(label, keys, kind)
+        if c:
+            return c
+        return {"l": label, "w": [], "t": [],
+                "u": "https://www.sefaria.org/" + urllib.parse.quote(keys[0].replace(" ", "_"))}
+
+    def text_card(self, label, keys, kind):
+        if kind in ("bavli", "yerushalmi"):
+            # A whole amud will not fit a card: show the segments of it that
+            # hold the entry's words (at most two), with an ellipsis for the rest.
+            segs = TALMUD["passages"].get(keys[0])
+            if not segs:
+                return None
+            hits = [(i, self.tokens(s)) for i, s in enumerate(segs)]
+            hits = [(i, t) for i, t in hits if any(m for _, m in t)][:2]
+            if not hits:
+                return None
+            toks = []
+            for n, (i, t) in enumerate(hits):
+                if (n == 0 and i > 0) or (n > 0 and i > hits[n - 1][0] + 1):
+                    toks.append(["…", ""])
+                toks += t
+            if hits[-1][0] < len(segs) - 1:
+                toks.append(["…", ""])
+        else:
+            texts = [PESUKIM["verses"].get(k) for k in keys]
+            if not all(texts):
+                return None
+            toks = [tok for t in texts for tok in self.tokens(t)]
         order = [d for d, _, _ in self.words]
         found = sorted({m for _, m in toks if m}, key=order.index)
         # Mishnah numbering and spelling vary between editions; a mishnah is
         # shown only where the entry's word is actually in it.
-        if mishnah and not found:
+        if kind == "mishnah" and not found:
             return None
         return {"l": label, "w": toks, "t": found if len(found) >= 2 else []}
 
@@ -524,14 +557,13 @@ class Cites:
                 out.append(p)
                 continue
             s, pos = [], 0
-            for start, _end, book, name, pieces in runs:
-                mishnah = book.startswith("Mishnah") or book == "Pirkei Avot"
+            for start, _end, kind, book, name, pieces in runs:
                 for n, (ps, pe, keys) in enumerate(pieces):
                     a = start if n == 0 else ps
                     k = "|".join(keys)
                     if k not in self.cards:
                         label = p[a:pe] if n == 0 else f"{name} {p[ps:pe]}"
-                        self.cards[k] = self.card(label, keys, mishnah)
+                        self.cards[k] = self.card(label, keys, kind)
                     if not self.cards[k]:
                         continue
                     s.append(p[pos:a])
@@ -545,15 +577,20 @@ class Cites:
         used = {k: c for k, c in self.cards.items() if c}
         if not used:
             return ""
-        versions = []
-        for k in used:
-            book = k.split("|")[0].rsplit(".", 2)[0]
-            meta = PESUKIM["meta"].get(book, {})
-            v = f'{meta.get("version")} ({meta.get("license")})'
-            if meta and v not in versions:
-                versions.append(v)
+        titles = {}
+        for k, c in used.items():
+            if c.get("u"):
+                continue
+            first = k.split("|")[0]
+            book = first.rsplit(".", 1)[0] if re.search(r"\.\d+[ab]$", first) else first.rsplit(".", 2)[0]
+            meta = PESUKIM["meta"].get(book) or TALMUD["meta"].get(book) or {}
+            if meta.get("version"):
+                lic = meta.get("license")
+                if lic and lic != "unknown" or meta["version"] not in titles:
+                    titles[meta["version"]] = lic if lic and lic != "unknown" else titles.get(meta["version"])
+        versions = [f"{t} ({l})" if l else t for t, l in titles.items()]
         data = json.dumps(used, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-        return (f'<aside class="prail" aria-label="In the pesukim"><p class="prail-h">In the pesukim</p>'
+        return (f'<aside class="prail" aria-label="In the sources"><p class="prail-h">In the sources</p>'
                 f'<div class="prail-f" hidden></div><div class="prail-list"></div>'
                 f'<p class="prail-credit">Texts from Sefaria: {html.escape("; ".join(versions))}</p></aside>'
                 f'<script type="application/json" id="pesukim-data">{data}</script>')
@@ -658,7 +695,9 @@ def entry_page(e):
             toc.append((i, headname, []))
             continue
         if headname == "At a glance" and glance_cards(mdtext):
-            parts.append(f'<section class="glance" id="{i}"><h2>At a glance</h2>{glance_cards(mdtext)}</section>')
+            note = ('<p class="root-note">Words from one root, not synonyms: each card is a meaning of its own.</p>'
+                    if e["slug"] in ROOT_FAMILY else "")
+            parts.append(f'<section class="glance" id="{i}"><h2>At a glance</h2>{note}{glance_cards(mdtext)}</section>')
             toc.append((i, headname, []))
             if deferred:
                 parts.append(deferred[0])
@@ -668,8 +707,7 @@ def entry_page(e):
         body, subs = md(mdtext), []
         if headname == "Distinctions":
             body, subs = distinction_ids(body)
-        if headname != "Sources":
-            body = cites.link(body)
+        body = cites.link(body)
         parts.append(f'<section class="{cls}" id="{i}"><h2>{html.escape(headname)}</h2>{body}</section>')
         toc.append((i, headname, subs))
     parts.append("</article>")
@@ -704,12 +742,14 @@ def main():
                 XREF.setdefault(p["b"], []).append((clusters[p["a"]], p["a"], p["word"]))
         for v in XREF.values():
             v.sort(key=lambda x: x[0].lower())
-    pes = ROOT / "references" / "pesukim.json"
-    if pes.exists():
-        PESUKIM.update(json.loads(pes.read_text(encoding="utf-8")))
-        freq = Counter(re.sub(r"[^א-ת]", "", refs.bare(w))
-                       for v in PESUKIM["verses"].values() for w in re.split(r"[\s־]+", v))
-        STOP.update(w for w, c in freq.items() if c >= STOP_AT)
+    for name, store in (("pesukim.json", PESUKIM), ("talmud.json", TALMUD)):
+        f = ROOT / "references" / name
+        if f.exists():
+            store.update(json.loads(f.read_text(encoding="utf-8")))
+    texts = list(PESUKIM["verses"].values()) + [s for segs in TALMUD["passages"].values() for s in segs]
+    freq = Counter(re.sub(r"[^א-ת]", "", refs.bare(w))
+                   for v in texts for w in re.split(r"[\s־]+", v))
+    STOP.update(w for w, c in freq.items() if c >= STOP_AT * max(1, len(texts) // 5000))
     # Write in place and sweep stale files afterwards, rather than deleting the
     # tree first: on a OneDrive-synced folder the sync client holds directory
     # handles and rmtree fails with WinError 5 half way through.
@@ -1180,7 +1220,7 @@ header.bare .brand{flex:1}
 .entry a.cite{color:inherit;text-decoration:none;border-bottom:1px dotted var(--accent);cursor:pointer}
 .entry a.cite:hover,.entry a.cite.lit{color:var(--accent);background:var(--accent-soft);border-radius:3px;text-decoration:none}
 .prail{display:none}
-.pcard{border:1px solid var(--line);border-radius:12px;background:var(--panel);padding:9px 12px 10px;margin:0 0 10px;cursor:pointer}
+.pcard{border:1px solid var(--line);border-radius:12px;background:var(--panel);padding:9px 12px 10px;margin:0 0 10px}
 .pcard.on{border-color:var(--accent)}
 .pref{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:2px 8px;font-size:12.5px;color:var(--dim)}
 .ptog{font-size:11.5px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:1px 8px;white-space:nowrap}
@@ -1188,6 +1228,7 @@ header.bare .brand{flex:1}
 .pv{font-family:var(--heb);font-size:18px;line-height:1.6;text-align:right;margin-top:3px;color:var(--ink)}
 .pv mark{background:none;color:var(--accent);font-weight:600}
 .pell{color:var(--faint)}
+.plink{display:inline-block;font-size:13.5px;margin-top:4px}
 .prail-h{font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);font-weight:600;margin:0 0 10px}
 .prail-f{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px}
 .prail-f button{font-family:var(--heb);font-size:15px;border:1px solid var(--line);background:var(--panel);
@@ -1221,6 +1262,7 @@ header.bare .brand{flex:1}
 .bottomline h2{border:0;padding:0}
 .bottomline p{font-size:18px}
 .inshort p{color:var(--ink)}
+.root-note{color:var(--dim);font-size:15px;margin:-4px 0 12px}
 .method-note{background:var(--accent-soft);border-left:3px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;
   padding:14px 18px;margin:14px 0 32px}
 .method-note p{margin:0;font-size:16px;line-height:1.55}
@@ -1413,6 +1455,8 @@ function wire(){
     // The introduction essay's examples are not a group of synonyms.
     const cap = oneGroup && list[0].s === "synonyms-davar-vayomer-vayidaber"
       ? "An example from Rabbi Klein's introduction to Hebrew synonyms"
+      : oneGroup && list[0].s === "splendor-tzvi-tzivyon-tzava"
+      ? `${group(list[0]).length} words from one root, not synonyms`
       : oneGroup
       ? `${group(list[0]).length} words in the ${esc(ent(list[0]).c)} group, each with its own shade`
       : "Each word has near-synonyms. Open one to see how they differ";
@@ -1587,10 +1631,9 @@ function wireToc(){
   spy();
 }
 
-// The pesukim panel: the pesukim cited in the part of the entry on screen,
-// pesukim holding two of the cluster's words first, each shown as a short
-// excerpt around the marked word that opens in full on a click. Narrow screens
-// have no panel; a citation opens its pasuk under the line instead.
+// The sources panel: the pesukim, mishnayos and Gemara cited in the part of the
+// entry on screen, those holding two of the cluster's words first. Narrow
+// screens have no panel; a citation opens its text under the line instead.
 function wirePesukim(){
   const data = document.getElementById("pesukim-data"), rail = document.querySelector(".prail");
   if(!data || !rail) return;
@@ -1606,31 +1649,19 @@ function wirePesukim(){
   });
   const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
   const lit = (k, on) => cites.forEach(c => { if(c.dataset.k === k) c.classList.toggle("lit", on); });
-  const verse = (d, full) => {
-    const w = d.w;
-    let a = 0, b = w.length;
-    if(!full && w.length > 10){
-      const m = Math.max(0, w.findIndex(x => x[1]));
-      a = Math.max(0, m - 3); b = Math.min(w.length, a + 8); a = Math.max(0, b - 8);
-    }
-    const body = w.slice(a, b).map((x, i, s) => (x[1] ? `<mark>${esc(x[0])}</mark>` : esc(x[0]))
-      + (i < s.length - 1 && !x[0].endsWith("־") ? " " : "")).join("");
-    return (a > 0 ? '<span class="pell">… </span>' : "") + body + (b < w.length ? '<span class="pell"> …</span>' : "");
-  };
-  const card = (k, full) => {
+  // The whole text, always: a pasuk or mishnah in full, and for the Gemara the
+  // segments that hold the entry's words, with "…" where the rest is left out.
+  const verse = d => d.w.map((x, i, s) => (x[0] === "…" ? '<span class="pell">…</span>'
+      : x[1] ? `<mark>${esc(x[0])}</mark>` : esc(x[0]))
+    + (i < s.length - 1 && !x[0].endsWith("־") ? " " : "")).join("");
+  const card = k => {
     const d = P[k], div = document.createElement("div");
     div.className = "pcard";
     div.dataset.k = k;
     const tog = d.t.length ? `<span class="ptog"><bdi lang="he">${esc(d.t.join(" + "))}</bdi> together</span>` : "";
-    div.innerHTML = `<div class="pref"><span>${esc(d.l)}</span>${tog}</div><div class="pv" dir="rtl" lang="he">${verse(d, full)}</div>`;
-    if(!full){
-      div.title = "Show the whole pasuk";
-      div.addEventListener("click", () => {
-        div._full = !div._full;
-        div.querySelector(".pv").innerHTML = verse(d, div._full);
-        div.title = div._full ? "" : "Show the whole pasuk";
-      });
-    }
+    div.innerHTML = d.u
+      ? `<div class="pref"><span>${esc(d.l)}</span></div><a class="plink" href="${esc(d.u)}" target="_blank" rel="noopener">Open on Sefaria ↗</a>`
+      : `<div class="pref"><span>${esc(d.l)}</span>${tog}</div><div class="pv" dir="rtl" lang="he">${verse(d)}</div>`;
     div.addEventListener("mouseenter", () => lit(k, true));
     div.addEventListener("mouseleave", () => lit(k, false));
     return div;
@@ -1638,7 +1669,9 @@ function wirePesukim(){
   let shown = null, filter = "";
   const render = (r, active) => {
     const keys = [...new Set(cites.filter(c => c._r === r).map(c => c.dataset.k))];
-    keys.sort((x, y) => (P[y].t.length > 0) - (P[x].t.length > 0));
+    // Two of the words together first, texts next, Sefaria links last.
+    const rank = k => (P[k].t.length ? 2 : 0) + (P[k].u ? 0 : 1);
+    keys.sort((x, y) => rank(y) - rank(x));
     // At most six filter words, the ones marked in the most pesukim here.
     const count = {};
     keys.forEach(k => new Set(P[k].w.filter(x => x[1]).map(x => x[1])).forEach(h => { count[h] = (count[h] || 0) + 1; }));
@@ -1656,7 +1689,7 @@ function wirePesukim(){
     list.innerHTML = "";
     const vis = keys.filter(k => !filter || P[k].w.some(x => x[1] === filter));
     if(!vis.length) list.innerHTML = '<p class="prail-none">No pesukim are cited in this part of the entry.</p>';
-    vis.forEach(k => { const c = card(k, false); if(k === active) c.classList.add("on"); list.appendChild(c); });
+    vis.forEach(k => { const c = card(k); if(k === active) c.classList.add("on"); list.appendChild(c); });
     shown = r;
   };
   const current = () => {
@@ -1695,7 +1728,7 @@ function wirePesukim(){
     }
     const pop = document.createElement("div");
     pop.className = "ppop"; pop.dataset.k = k;
-    pop.appendChild(card(k, true));
+    pop.appendChild(card(k));
     inside ? host.appendChild(pop) : host.after(pop);
     c.setAttribute("aria-expanded", "true");
   }));
