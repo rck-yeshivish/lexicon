@@ -6,14 +6,23 @@ translit: [pesha, pasha, poshea, nifsha, vayifsha, meridah, mered, mored, morede
 english: [rebellion, revolt, defiance, negligence, insubordination]
 domain: society
 words:
+  - he: פשע
+    tr: pesha
+    en: negligence, rebellion
+    nk: פֶּשַׁע
+    distinct: at bottom negligence out of indolence, borrowed for rebellion since apathy before a king slights his honor (Pappenheim); a sin of rebellion against chet and avon (Yoma 36b); Targum renders it mored, active defiance
+  - he: מרידה
+    tr: meridah
+    en: revolt
+    nk: מְרִידָה
+    distinct: revolt as a counter-response, throwing off a present ruler; the subjects asserting control, mem reversing ר-ד, lording over (Pappenheim); shares letters with merudim, downtrodden, joined by Rav Hirsch and split by Machberet Menachem
+  - he: מרי
+    tr: meri
+    en: defiance
+    nk: מְרִי
+    distinct: defiance as switching allegiance, putting another's word in place of a ruler's; the reaction to the unpalatable, from מ-ר, changing (Pappenheim); blurred with meridah, both from מ-ר as in Mar (Marcus)
   - he: מורה
     nk: מוֹרֶה
-  - he: מרי
-    nk: מְרִי
-  - he: מרידה
-    nk: מְרִידָה
-  - he: פשע
-    nk: פֶּשַׁע
 sources:
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
 authorities: [Rashi, Midrash Tanchuma, Rabbi Shlomo Pappenheim, Targum, Rabbi Yonah Ibn Janach, Radak, Machberet Menachem (Rabbi Menachem Ibn Saruk), Rav Hirsch, Rabbi Aharon Marcus, Sifrei]
@@ -31,6 +40,14 @@ especially throwing off a present ruler. *Meri* and *mamre* are **defiance** as 
 allegiance, replacing one authority's word with another's. A lazy *poshea* is
 not a revolutionary, and in the *shomrim* sugya (Shemos 22:8) the *poshea* is
 **negligent**, not a rebel.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| פשע | pesha | negligence, rebellion | negligence out of laziness, rebellion only by extension (Pappenheim) |
+| מרידה | meridah | revolt | throwing off a present ruler; reversing *rodeh*, lording over (Pappenheim) |
+| מרי | meri | defiance | switching out a ruler's word for another's (Pappenheim) |
 
 ## Distinctions
 

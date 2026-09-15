@@ -5,6 +5,15 @@ roots: [י-ס-ר, י-כ-ח]
 translit: [mussar, musar, mosar, yissurin, yisurin, yissurim, yisurim, tochachah, tochacha, tochechah, tochecha, tochachas, tochachat, tochechet, tochachos, tochachot, hochachah, hochacha, vikuach, vikuach, nochach, lehasir, assur, asur]
 english: [reproof, rebuke, discipline, chastisement, correction, moral instruction]
 domain: action
+words:
+  - he: תוכחה
+    tr: tochachah
+    en: reproof, rebuke
+    distinct: spoken reproof, logically proving past wrongdoing, possible between equals (Malbim); rebuke from the mouth (Vilna Gaon); kin to nochach, opposite, and hochachah, proof, best done by spurring a debate (Pappenheim)
+  - he: מוסר
+    tr: mussar
+    en: discipline, chastisement
+    distinct: from superior to subordinate, by word or blow, aimed at future conduct (Malbim); from the limbs, not the mouth, kin to yissurin (Vilna Gaon); removing or binding (Pappenheim); tying down the yetzer (Mecklenburg)
 sources:
   - wiaw:7260 "Burke and Rebuke" (2017-05-20) https://articles.ohr.edu/articles/burke-and-rebuke
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
@@ -21,6 +30,13 @@ other that he did wrong, about his past deeds, and possible between equals.
 *Mussar* is **discipline** (or **chastisement**): from a superior to a
 subordinate, by word or by blow, aimed at his future conduct; the Vilna Gaon
 ties it to *yissurin*, afflictions.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תוכחה | tochachah | reproof, rebuke | spoken proof of past wrong, even between equals (Malbim); by debate (Pappenheim) |
+| מוסר | mussar | discipline, chastisement | a superior's discipline, word or blow, for the future (Malbim); *yissurin* (Vilna Gaon) |
 
 ## Distinctions
 

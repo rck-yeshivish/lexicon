@@ -5,6 +5,15 @@ roots: [כ-ן, כ-ה-ן, כ-מ-ר]
 translit: [kohen, kohanim, komer, komrim, kemarim, nichmeru, nichmaru, michmar, komer shel anavim, hachanah, nachon]
 english: [priest, idolatrous priest, priest of an idol, temple functionary]
 domain: ritual
+words:
+  - he: כהן
+    tr: kohen
+    en: priest
+    distinct: the general word, a priest of any cult, Aharon's sons and Yisro alike; bound to a place name, a position of leadership (Rashi), where Onkelos renders rabbah; the one who sees the preparations are in order (Pappenheim)
+  - he: כומר
+    tr: komer
+    en: idolatrous priest
+    distinct: specifically an idolatrous priest (Radak, Ibn Kaspi); in black vestments (Radak), or cloistered, a monk (Eliyahu HaBachur); nets his followers through feeling (Rav Hirsch); perhaps a perfect synonym from Akkadian kumru (Tawil)
 sources:
   - wiaw:8529 "Holy Priests vs. Unholy Priests" (2019-12-28) https://articles.ohr.edu/articles/holy-priests-vs-unholy-priests
 authorities: [Targum Onkelos, Rashi, Radak, Rabbi Yosef Ibn Kaspi, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Dr. Chaim Tawil]
@@ -23,6 +32,13 @@ decide that case by case. This distinction does not settle Tzefaniah 1:4, where
 four readings stand, including Targum and Rashi seemingly reversing the usual
 division and, on Dr. Chaim Tawil's Akkadian evidence, the possibility that the
 two words are synonyms from two languages.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כהן | kohen | priest | any priest, legitimate or idolatrous; with a place name, a leader (Rashi) |
+| כומר | komer | idolatrous priest | the idolater's priest (Radak, Ibn Kaspi); black-robed (Radak) or cloistered (Eliyahu HaBachur) |
 
 ## Distinctions
 

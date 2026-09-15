@@ -6,6 +6,18 @@ translit: [navi, nevi, neviim, roeh, roe, chozeh, choze, machazeh, machaze, mare
 english: [prophet, seer, visionary, spokesman, vision]
 domain: society
 words:
+  - he: נביא
+    tr: navi
+    en: prophet, spokesman
+    distinct: the prophet as mouth, bringing Hashem's word; from niv, fruit of the lips (Rashi, Rashbam), or from נ-ב-א (Ibn Ezra); plainly spokesman at Shemos 7:1 (Onkelos, Rasag); sent to rebuke the public, and feared (Malbim)
+  - he: רואה
+    tr: roeh
+    en: seer
+    distinct: the earlier prophet, seeing by ruach hakodesh to help individuals uncover the hidden, and sought out (Malbim); the Hebrew word for one who sees, of sharp vision (Vilna Gaon)
+  - he: חוזה
+    tr: chozeh
+    en: visionary
+    distinct: the later prophet, bearing the Aramaic word for one who sees, which marks a vision less clearly grasped (Vilna Gaon); his vision a chazon or machazeh, not a mareh
   - he: מראה
     nk: מַרְאֶה
 sources:
@@ -24,6 +36,14 @@ and in Shemos 7:1 it means plainly **spokesman**. *Roeh* is the **seer**, the
 earlier kind, sought out by individuals, whose vision was sharp. *Chozeh* is the
 later **visionary**, the Aramaic word for a seer, and the Vilna Gaon takes the
 switch to Aramaic as a mark of dimmer clarity.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נביא | navi | prophet, spokesman | the mouth that brings Hashem's word; sent to rebuke, and feared (Malbim) |
+| רואה | roeh | seer | the earlier seer people came to (Malbim); sharp vision (Vilna Gaon) |
+| חוזה | chozeh | visionary | the later seer; the Aramaic word marks dimmer clarity (Vilna Gaon) |
 
 ## Distinctions
 

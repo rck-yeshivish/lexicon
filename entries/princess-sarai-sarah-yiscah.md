@@ -5,6 +5,27 @@ roots: [ש-ר-ר, ש-ר-ה, ס-כ-ה, נ-ס-ך]
 translit: [sarai, saray, sarah, sara, yiscah, yiskah, iscah, sar, sarim, serarah, srarah, nesichah, nesicha, sachta, sachin, histakel, sichah]
 english: [my princess, princess, prince, rulership, gazing, the one gazed upon]
 domain: society
+words:
+  - he: שר
+    tr: sar
+    en: prince, officer
+    distinct: the base word, prince or officer; from ס-ר, removal, since his authority limits how those under him may move and act (Pappenheim)
+  - he: שררה
+    tr: serarah
+    en: rulership
+    distinct: the abstract noun, rulership; the word Philo and Rashi use in explaining the name Sarah
+  - he: שרי
+    tr: Sarai
+    en: my princess
+    distinct: a princess to her own nation (Berachos 13a); the final yod a possessive (Rashi) or a diminishing letter (Maharal); or a standing that would end with her life, having no child (Maharsha)
+  - he: שרה
+    tr: Sarah
+    en: princess
+    distinct: princess without limit, over the whole world (Berachos 13a, Rashi); the final hei implies expansion (Maharal); destined to rule past her lifetime through Yitzchak (Maharsha); the hei a sign of fertility (Shadal, Kli Yakar)
+  - he: יסכה
+    tr: Yiscah
+    en: the one who gazed, the one all gazed upon
+    distinct: a third name tradition identifies with her (Megillah 14a, Sanhedrin 69b), doubted by Ibn Ezra and Shadal; she gazed with ruach hakodesh, or all gazed at her beauty (the Gemara); nesichah, princess (Rashi); her childhood name (Marcus)
 sources:
   - wiaw:11580 "Lech Lecha: The Princess' Gaze (Part 1/2)" (2024-11-09) https://articles.ohr.edu/articles/lech-lecha-the-princess-gaze-part-12
   - wiaw:11581 "Vayera: The Princess' Gaze (Part 2/2)" (2024-11-16) https://articles.ohr.edu/articles/vayera-the-princess-gaze-part-22
@@ -24,6 +45,16 @@ without limit, over the whole world (*Berachos* 13a, Rashi to Bereishis 17:15).
 or **the one all gazed upon** for her beauty; Rashi adds a third sense,
 *nesichah*, princess again. Ibn Ezra and Shadal are skeptical of the
 identification.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שר | sar | prince, officer | the base word; authority limiting others' movement, from removal (Pappenheim) |
+| שררה | serarah | rulership | abstract rulership; used by Philo and Rashi to explain the name Sarah |
+| שרי | Sarai | my princess | princess of her own nation; the yod possessive (Rashi) or diminishing (Maharal) |
+| שרה | Sarah | princess | princess over the whole world (Rashi); the expanding *hei* (Maharal) |
+| יסכה | Yiscah | the one who gazed, the one all gazed upon | gazed with *ruach hakodesh*, or gazed upon for beauty (the Gemara); *nesichah* (Rashi) |
 
 ## Distinctions
 

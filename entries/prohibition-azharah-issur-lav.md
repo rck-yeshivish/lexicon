@@ -6,8 +6,19 @@ translit: [azharah, azhara, azharos, azharot, hizhartem, lehazhir, issur, isur, 
 english: [prohibition, warning, forewarning, forbidden, negative commandment]
 domain: ritual
 words:
+  - he: אזהרה
+    tr: azharah
+    en: forewarning
+    distinct: the prohibition as forewarning, enlightening a man as to his duties, from zohar, light (Avraham Maimuni, Pappenheim); often the warning aspect against the punishment aspect; covers positive mitzvos too (Faur); or from zar, estranging oneself (Rabbeinu Efrayim)
   - he: איסור
+    tr: issur
+    en: prohibition, binding
     nk: אִיסּוּר
+    distinct: the prohibition as a binding that ties one's hands, from assur, tied; the substantive forbidden status; one's actions precluded against his will (Malbim); freedom of movement removed, from ס-ר (Pappenheim)
+  - he: לאו
+    tr: lav
+    en: negative commandment
+    distinct: simply a negative commandment, an anthimeria from lo, not; absent from Tanach and common in rabbinic writing; a prohibited act even where the punishment is not severe
 sources:
   - wiaw:9211 "Shavuot: Brilliant Prohibitions" (2021-05-15) https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions
   - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
@@ -30,6 +41,14 @@ committing, named for the word *lo*. *Azharah* and *issur* are not two names
 for one thing. *Azharah* often names the warning
 aspect of a prohibition as against its punishment aspect (*Yevamos* 3b);
 *issur* is the substantive prohibited status.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אזהרה | azharah | forewarning | forewarning that enlightens (Pappenheim); the warning, as against the punishment |
+| איסור | issur | prohibition, binding | a binding that ties one's hands; precluded against one's will (Malbim) |
+| לאו | lav | negative commandment | the plain negative commandment, from *lo*; rabbinic, not in Tanach |
 
 ## Distinctions
 

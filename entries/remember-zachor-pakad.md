@@ -5,6 +5,19 @@ roots: [ז-כ-ר, פ-ק-ד, ש-מ-ר]
 translit: [zachor, zachar, zecher, zeicher, zechirah, zikaron, zichronos, zichronot, pakad, pokeid, pekidah, pikadon, pikdonos, pikdonot, shamor, tovah, berachah, brachah]
 english: [remember, recall, call to mind, attend to, take note of, keep in mind]
 domain: cognition
+words:
+  - he: זכור
+    tr: zachor
+    en: remember, call to mind
+    distinct: remembering in the mind alone, doing nothing else, or constantly over a long span (Malbim); recalling what one knew and forgot (Ibn Ezra); implies mercy (Treves); after a shorter time (Al-Dhamari)
+  - he: שמור
+    tr: shamor
+    en: keep in mind
+    distinct: keeping in mind something one currently knows, against zachor, remembering what one once knew and forgot (Ibn Ezra)
+  - he: פקד
+    tr: pakad
+    en: attend to, take note of
+    distinct: remembering in order to act, whence count, appoint, punish, deposit (Malbim, Wertheimer); or one fleeting act of remembering (Malbim); can mean to punish, so not mercy (Treves); after a long time (Al-Dhamari); the female element (Kedushas Levi)
 sources:
   - wiaw:9110 "Ki Tisa: Remember Forever" (2021-03-06) https://articles.ohr.edu/articles/ki-tisa-remember-forever
 authorities: [Rabbi Moshe Ibn Ezra, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo of Urbino, Rabbi Saadia ben David Al-Dhamari, Rashbatz, Rabbi Moshe de Leon, Rabbi Naftali Hertz Treves, Kedushas Levi, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Asher Weiser, Rashi, Kli Yakar]
@@ -20,6 +33,14 @@ remembering that issues in action: **attend to, take note of** (and in the
 right context "count," "appoint," "punish," "deposit"). Rabbi Shlomo Aharon
 Wertheimer, capsulizing Malbim's stance: *zechirah* is in thought, *pekidah* is
 in action.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| זכור | zachor | remember, call to mind | in thought alone (Malbim, Wertheimer); recalling the forgotten (Ibn Ezra); merciful (Treves) |
+| שמור | shamor | keep in mind | keeping in mind what one currently knows (Ibn Ezra) |
+| פקד | pakad | attend to, take note of | remembering that issues in action (Malbim); after a long time (Al-Dhamari) |
 
 ## Distinctions
 

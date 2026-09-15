@@ -6,8 +6,27 @@ translit: [lachatz, lochatzim, lochatz, dchak, dechak, d'chak, negisah, negisha,
 english: [pressure, squeeze, crowding, pressing, driving, urging]
 domain: action
 words:
+  - he: לחץ
+    tr: lachatz
+    en: pressure
+    distinct: the eye on the one applying the pressure, saying nothing of whether it worked (Schwab); not necessarily nefarious, pressure to extract a benefit (Ashkenazi), against pressuring chiefly to make a man suffer (Pappenheim); physical or psychological (Posen)
+  - he: דחק
+    tr: d'chak
+    en: crowding, squeezing out
+    distinct: pressure strong enough to force the other's hand (Schwab); the malevolent word (Ashkenazi), against pressuring for one's own benefit, shoving a man from his place for another (Pappenheim); Onkelos's word for physical pressure (Posen)
+  - he: נגישה
+    tr: negisah
+    en: taskmaster's driving
+    distinct: the taskmaster's relentless driving, from ג-ש, closeness, standing over a man with no space to breathe (Pappenheim); pressing for money not actually owed, against nosheh for a real debt (Malbim)
+  - he: אץ
+    tr: atz
+    en: hurrying
+    distinct: pressing a man to move faster, from צ, going out (Pappenheim); or physically pushing him, since Onkelos renders it d'chak (Posen)
   - he: אלץ
+    tr: alatz
+    en: pressing with words
     nk: אָלַץ
+    distinct: a hapax, Delilah pressing Shimshon; cajoling with words, from ל-צ as in melitzah (Pappenheim); tied to lachatz (Ramban, Radak); making a man angry (Ibn Janach); Chazal read it as Delilah slipping away from beneath him (Sotah 9b)
 sources:
   - wiaw:9658 "Pesach: Putting Pressure" (2022-04-16) https://articles.ohr.edu/articles/pesach-putting-pressure
   - wiaw:9682 "The Year of Slipping Away (Part 1 of 2)" (2022-05-14) https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2
@@ -30,6 +49,16 @@ along, or on Rabbi Posen's Targum reading physically pushing him. *Alatz* is
 **pressing with words**, cajoling on Pappenheim, tied to *lachatz* by Ramban and
 Radak, and read as making a man angry by Ibn Janach. The Haggadah's *v'es
 lachatzeinu, zeh had'chak* is a gloss of one by the other.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| לחץ | lachatz | pressure | on the one applying it (Schwab); benign (Ashkenazi) or meant to hurt (Pappenheim) |
+| דחק | d'chak | crowding, squeezing out | pressure that lands (Schwab); shoving a man aside for one's own gain (Pappenheim) |
+| נגישה | negisah | taskmaster's driving | standing over a man, from closeness (Pappenheim); pressing for money not owed (Malbim) |
+| אץ | atz | hurrying | hurrying a man along (Pappenheim); physically pushing, per Onkelos (Posen) |
+| אלץ | alatz | pressing with words | cajoling with words (Pappenheim); kin to *lachatz* (Ramban, Radak); angering (Ibn Janach) |
 
 ## Distinctions
 

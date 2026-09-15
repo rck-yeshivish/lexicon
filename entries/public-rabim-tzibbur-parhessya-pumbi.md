@@ -5,6 +5,27 @@ roots: [ר-ב, צ-ב-ר, פ-ר-ס]
 translit: [rabim, b'rabim, rav, harbeh, ribo, arbeh, aruvah, rahav, tzibbur, tzibur, b'tzibbur, parhessya, farhessya, parhesia, pirsum, pirsumei nisa, pumbi, b'pumbi, tzina, b'tzina, tzanua]
 english: [in public, publicly, the community, the congregation, publicity, public spectacle]
 domain: society
+words:
+  - he: רבים
+    tr: rabim
+    en: in front of many
+    distinct: the plain word for a public setting, before many; often standing against yachid, the individual owner, as in reshus harabim; from ר-ב, quantitative increase (Pappenheim)
+  - he: ציבור
+    tr: tzibbur
+    en: community
+    distinct: a mass of individuals treated as one body, a legal entity that owns property and appoints its servants, as in korbanos of the tzibbur and shliach tzibbur; from צ-ב-ר, heaping up
+  - he: פרהסיא
+    tr: parhessya
+    en: openly
+    distinct: a noun for publicity, meaning the same as pirsum (Eliyahu HaBachur); the visibility and communal side of an act, against b'tzina, in private; from Greek parrhesia, frank speech; its ה-ס as hushing (Golumb)
+  - he: פרסום
+    tr: pirsum
+    en: publicizing
+    distinct: the verb, the act of publicizing, meaning the same as parhessya (Eliyahu HaBachur); perhaps from parrhesia, or from פ-ר-ס with a mem appended (Rav Hirsch)
+  - he: פומבי
+    tr: pumbi
+    en: public spectacle
+    distinct: an affair made deliberately conspicuous, from Greek pompe, a procession, not from parrhesia; means the same as pirsum (Eliyahu HaBachur); the showy first luchos were destroyed (Tanchuma)
 sources:
   - wiaw:11449 "Chukas: Out in Public" (2024-07-13) https://articles.ohr.edu/articles/chukas-out-in-public
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Sefer HaAruch, Rabbi David Golumb, Rav Hirsch, Rabbi Ernest Klein]
@@ -21,6 +42,16 @@ updated: 2026-09-10
 in the eyes of the community, and its foil is *b'tzina*, in private. *Pirsum*
 is the act, **publicizing**, and *b'pumbi* is a public **spectacle**, an affair
 made deliberately conspicuous.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| רבים | rabim | in front of many | the plainest word, before many people; against *yachid*, the individual |
+| ציבור | tzibbur | community | the community as a legal body that owns and appoints |
+| פרהסיא | parhessya | openly | openly, in the community's eyes; the foil of *b'tzina*, in private |
+| פרסום | pirsum | publicizing | the act of publicizing (Eliyahu HaBachur); from פ-ר-ס (Rav Hirsch) |
+| פומבי | pumbi | public spectacle | public fanfare, from *pompe*; the showy first luchos broke (Tanchuma) |
 
 ## Distinctions
 

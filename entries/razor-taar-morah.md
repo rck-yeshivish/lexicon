@@ -6,10 +6,16 @@ translit: [taar, taer, morah, mora, mitaar, temurah, mumar]
 english: [razor, blade, scissors, fear]
 domain: body
 words:
-  - he: מורה
-    nk: מוֹרָה
   - he: תער
+    tr: taar
+    en: razor
     nk: תַּעַר
+    distinct: the plain word, the Torah's for the nazir; from ע-ר-ה, laying bare, as mitaar, a scabbard (Rav Hirsch); no source clearly separates it from morah
+  - he: מורה
+    tr: morah
+    en: razor, scissors
+    nk: מוֹרָה
+    distinct: the Neviim's word in the same formula; razor throughout (Radak), against scissors by Shimshon and fear of men by Shmuel (Targum, Rashi); from י-ר-ה, throwing away (Rashi), or מ-ר, switching (Pappenheim); what hair fears (Vayikra Rabbah)
 sources:
   - wiaw:7768 "Razor's Edge" (2018-05-26) https://articles.ohr.edu/articles/razors-edge
 authorities: [Targum, Rashi, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Vayikra Rabbah]
@@ -28,6 +34,13 @@ throughout, while Targum and Rashi render it **scissors** by Shimshon and
 has found no source that clearly explains the difference between the two words,
 and has been unable to work out why the Torah says *taar* and the Neviim say
 *morah*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תער | taar | razor | the Torah's plain word; lays the skin bare (Rav Hirsch) |
+| מורה | morah | razor, scissors | the Neviim's word; razor (Radak), or scissors, and by Shmuel fear (Rashi) |
 
 ## Distinctions
 

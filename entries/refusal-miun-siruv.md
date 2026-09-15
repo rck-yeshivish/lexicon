@@ -6,6 +6,14 @@ translit: [miun, mieun, vayimaen, maen, meen, siruv, seiruv, sarvan, sarvanim, s
 english: [refuse, refusal, decline, rebel, rebellion, pester]
 domain: speech
 words:
+  - he: מיאון
+    tr: mi'un
+    en: refusing, declining
+    distinct: the biblical Hebrew word, forty-six times in Tanach; declining to comply with what one was asked (Dienna); from ein, no, ignoring what one rejects (Pappenheim); perhaps only siruv's Hebrew twin, since the Targumim render it siruv (Eliyahu HaBachur); technically the minor's refusal of her husband
+  - he: סירוב
+    tr: siruv
+    en: refusal, utter rejection
+    distinct: Aramaic and rabbinic, at most once in Tanach and disputed there, rebels (Menachem, Rashi, Radak) or thorns (Donash); the utter rejection of a proposition, harsher than mi'un (Dienna); technically contempt of beis din
   - he: מרי
     nk: מְרִי
   - he: מרידה
@@ -34,6 +42,13 @@ declining to comply with something asked of one, *siruv* is the utter rejection
 of the proposition itself, and it *somehow* implies the more intense refusal.
 Both words also have technical rabbinic senses: *mi'un* is the minor's refusal
 of her husband, *siruv* is contempt of beis din.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מיאון | mi'un | refusing, declining | biblical Hebrew; declining a request (Dienna); a minor's refusal of her husband |
+| סירוב | siruv | refusal, utter rejection | Aramaic loanword; outright rejection, harsher than *mi'un* (Dienna); contempt of beis din |
 
 ## Distinctions
 
