@@ -23,6 +23,15 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   research use as source material, not for republication.
 
 
+### Klein, *What's in a Word? Synonyms in the Hebrew Language* (book manuscript)
+- `klein-book-manuscript/WTDBAW.docx`, from the author, as of 14 September 2026: the column
+  gathered into a book by parsha, 1,258 pages, with footnotes and his working notes.
+  Unpublished and still being edited; held for private research use, never for the site.
+- `chapters/` is the text split one essay per file (footnotes kept); `chapter-essay-map.json`
+  maps each chapter to the corpus essay it matches by content. It holds 371 of the 375
+  harvested essays, a typical chapter being about 87% the published text plus revisions,
+  and five essays the corpus lacks.
+
 ### Klein, "Learning to differentiate between apparent synonyms" (Babel, 2020)
 - `klein-babel-2020/` holds the PDF and its extracted text. Rabbi Klein writing
   about the *method* rather than about one cluster: why the question arises, the

@@ -1,0 +1,3046 @@
+[
+ {
+  "n": 1,
+  "file": "001-from-before.md",
+  "title": "From Before",
+  "essays": [],
+  "published_share": 0
+ },
+ {
+  "n": 2,
+  "file": "002-cities-of-egypt.md",
+  "title": "Cities of Egypt",
+  "essays": [],
+  "published_share": 0.0
+ },
+ {
+  "n": 3,
+  "file": "003-flying-sparks.md",
+  "title": "Flying Sparks",
+  "essays": [
+   "6817"
+  ],
+  "published_share": 0.76
+ },
+ {
+  "n": 4,
+  "file": "004-in-the-beginning.md",
+  "title": "In the Beginning…",
+  "essays": [
+   "11562",
+   "11087",
+   "11095"
+  ],
+  "published_share": 0.94
+ },
+ {
+  "n": 5,
+  "file": "005-be-a-man.md",
+  "title": "Be a Man",
+  "essays": [
+   "8444",
+   "11394"
+  ],
+  "published_share": 0.89
+ },
+ {
+  "n": 6,
+  "file": "006-enter-the-garden.md",
+  "title": "Enter the Garden",
+  "essays": [
+   "11106",
+   "11105"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 7,
+  "file": "007-the-shiloach-waters.md",
+  "title": "The Shiloach Waters",
+  "essays": [
+   "11019"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 8,
+  "file": "008-sleepy-words.md",
+  "title": "Sleepy Words",
+  "essays": [
+   "11120",
+   "11119",
+   "10931"
+  ],
+  "published_share": 0.9
+ },
+ {
+  "n": 9,
+  "file": "009-the-sword-of-methusaleh.md",
+  "title": "The Sword of Methusaleh",
+  "essays": [
+   "7366"
+  ],
+  "published_share": 0.08
+ },
+ {
+  "n": 10,
+  "file": "010-a-tale-of-two-arks.md",
+  "title": "A Tale of Two Arks",
+  "essays": [
+   "9775",
+   "6943",
+   "9405"
+  ],
+  "published_share": 0.85
+ },
+ {
+  "n": 11,
+  "file": "011-names-of-a-people.md",
+  "title": "Names of a People",
+  "essays": [
+   "7961"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 12,
+  "file": "012-ashkenaz-and-teutonic-jews.md",
+  "title": "Ashkenaz and Teutonic Jews",
+  "essays": [
+   "11563"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 13,
+  "file": "013-the-princess-gaze.md",
+  "title": "The Princess’ Gaze",
+  "essays": [
+   "11581",
+   "11580"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 14,
+  "file": "014-eighth-month.md",
+  "title": "Eighth Month",
+  "essays": [
+   "11123",
+   "11411"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 15,
+  "file": "015-prime-property.md",
+  "title": "Prime Property",
+  "essays": [
+   "10695"
+  ],
+  "published_share": 0.94
+ },
+ {
+  "n": 16,
+  "file": "016-dirt-dust-and-ashes.md",
+  "title": "Dirt, Dust, and Ashes",
+  "essays": [
+   "8467",
+   "8333",
+   "8181"
+  ],
+  "published_share": 0.89
+ },
+ {
+  "n": 17,
+  "file": "017-seeking-completion.md",
+  "title": "Seeking Completion",
+  "essays": [
+   "9396",
+   "8816"
+  ],
+  "published_share": 0.9
+ },
+ {
+  "n": 18,
+  "file": "018-a-laughing-matter.md",
+  "title": "A Laughing Matter",
+  "essays": [
+   "8903"
+  ],
+  "published_share": 0.82
+ },
+ {
+  "n": 19,
+  "file": "019-energizing-the-tired-and-exhausted.md",
+  "title": "Energizing the Tired and Exhausted",
+  "essays": [
+   "6774"
+  ],
+  "published_share": 0.86
+ },
+ {
+  "n": 20,
+  "file": "020-seeing-is-believing.md",
+  "title": "Seeing is Believing",
+  "essays": [
+   "7463"
+  ],
+  "published_share": 0.69
+ },
+ {
+  "n": 21,
+  "file": "021-be-my-guest.md",
+  "title": "Be My Guest",
+  "essays": [
+   "10698"
+  ],
+  "published_share": 0.91
+ },
+ {
+  "n": 22,
+  "file": "022-where-are-you.md",
+  "title": "Where Are You?",
+  "essays": [
+   "8478"
+  ],
+  "published_share": 0.82
+ },
+ {
+  "n": 23,
+  "file": "023-the-man-with-enough-light.md",
+  "title": "The Man with Enough Light",
+  "essays": [
+   "7974"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 24,
+  "file": "024-getting-pushy.md",
+  "title": "Getting Pushy",
+  "essays": [
+   "11128"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 25,
+  "file": "025-words-for-words.md",
+  "title": "Words for Words",
+  "essays": [
+   "9405",
+   "6943"
+  ],
+  "published_share": 0.94
+ },
+ {
+  "n": 26,
+  "file": "026-elephants-galore.md",
+  "title": "Elephants Galore",
+  "essays": [
+   "9416",
+   "8913"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 27,
+  "file": "027-take-a-bow.md",
+  "title": "Take a Bow",
+  "essays": [],
+  "published_share": 0.0
+ },
+ {
+  "n": 28,
+  "file": "028-the-old-man-and-the-see.md",
+  "title": "The Old Man and the See",
+  "essays": [
+   "8487",
+   "11119",
+   "8444"
+  ],
+  "published_share": 0.41
+ },
+ {
+  "n": 29,
+  "file": "029-maybe-yes-maybe-no.md",
+  "title": "Maybe Yes, Maybe No",
+  "essays": [
+   "7483"
+  ],
+  "published_share": 0.72
+ },
+ {
+  "n": 30,
+  "file": "030-take-a-drink.md",
+  "title": "Take a Drink",
+  "essays": [
+   "10709",
+   "9126"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 31,
+  "file": "031-all-wrapped-up.md",
+  "title": "All Wrapped Up",
+  "essays": [
+   "11584"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 32,
+  "file": "032-true-love.md",
+  "title": "True Love",
+  "essays": [
+   "10714",
+   "10983"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 33,
+  "file": "033-the-unaffiliated-nations.md",
+  "title": "The Unaffiliated Nations",
+  "essays": [
+   "7491"
+  ],
+  "published_share": 0.84
+ },
+ {
+  "n": 34,
+  "file": "034-noble-clothes.md",
+  "title": "Noble Clothes",
+  "essays": [
+   "11594",
+   "8497",
+   "9907"
+  ],
+  "published_share": 0.91
+ },
+ {
+  "n": 35,
+  "file": "035-boys-and-girls.md",
+  "title": "Boys and Girls",
+  "essays": [
+   "8922",
+   "8933",
+   "11069"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 36,
+  "file": "036-disgraceful-disparagement.md",
+  "title": "Disgraceful Disparagement",
+  "essays": [
+   "9428"
+  ],
+  "published_share": 0.93
+ },
+ {
+  "n": 37,
+  "file": "037-the-doers-and-fighters.md",
+  "title": "The Doers and Fighters",
+  "essays": [
+   "10720"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 38,
+  "file": "038-like-a-rock.md",
+  "title": "Like a Rock",
+  "essays": [
+   "8000",
+   "7499",
+   "7990"
+  ],
+  "published_share": 0.84
+ },
+ {
+  "n": 39,
+  "file": "039-name-of-the-plain.md",
+  "title": "Name of the Plain",
+  "essays": [
+   "11608"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 40,
+  "file": "040-gad-luck-to-you.md",
+  "title": "Gad Luck to You",
+  "essays": [
+   "10730"
+  ],
+  "published_share": 0.9
+ },
+ {
+  "n": 41,
+  "file": "041-castle-in-the-sky.md",
+  "title": "Castle in the Sky",
+  "essays": [
+   "8941"
+  ],
+  "published_share": 0.83
+ },
+ {
+  "n": 42,
+  "file": "042-the-ovine-and-caprine-families.md",
+  "title": "The Ovine and Caprine Families",
+  "essays": [
+   "11139",
+   "9436",
+   "8505"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 43,
+  "file": "043-angels-and-agents.md",
+  "title": "Angels and Agents",
+  "essays": [
+   "7512"
+  ],
+  "published_share": 0.76
+ },
+ {
+  "n": 44,
+  "file": "044-good-morning-sunshine.md",
+  "title": "Good Morning Sunshine",
+  "essays": [
+   "8518"
+  ],
+  "published_share": 0.85
+ },
+ {
+  "n": 45,
+  "file": "045-the-gift-of-giving.md",
+  "title": "The Gift of Giving",
+  "essays": [
+   "7982"
+  ],
+  "published_share": 0.61
+ },
+ {
+  "n": 46,
+  "file": "046-go-camel.md",
+  "title": "Go Camel",
+  "essays": [
+   "11619",
+   "9554"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 47,
+  "file": "047-family-matters.md",
+  "title": "Family Matters",
+  "essays": [
+   "9448",
+   "8120"
+  ],
+  "published_share": 0.81
+ },
+ {
+  "n": 48,
+  "file": "048-playing-with-fire.md",
+  "title": "Playing with Fire",
+  "essays": [
+   "8007",
+   "8076"
+  ],
+  "published_share": 0.87
+ },
+ {
+  "n": 49,
+  "file": "049-saving-survivors.md",
+  "title": "Saving Survivors",
+  "essays": [
+   "11148"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 50,
+  "file": "050-the-amazing-multi-named-joseph.md",
+  "title": "The Amazing Multi-Named Joseph",
+  "essays": [
+   "10750"
+  ],
+  "published_share": 0.93
+ },
+ {
+  "n": 51,
+  "file": "051-lost-or-mistaken.md",
+  "title": "Lost or Mistaken",
+  "essays": [
+   "7804"
+  ],
+  "published_share": 0.52
+ },
+ {
+  "n": 52,
+  "file": "052-a-real-toss-up.md",
+  "title": "A Real Toss Up",
+  "essays": [
+   "8528"
+  ],
+  "published_share": 0.89
+ },
+ {
+  "n": 53,
+  "file": "053-mercantile-man.md",
+  "title": "Mercantile Man",
+  "essays": [
+   "11160"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 54,
+  "file": "054-wake-up-time.md",
+  "title": "Wake-up Time",
+  "essays": [
+   "9473"
+  ],
+  "published_share": 0.81
+ },
+ {
+  "n": 55,
+  "file": "055-say-it-clear.md",
+  "title": "Say it Clear",
+  "essays": [
+   "11178",
+   "11170",
+   "11314"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 56,
+  "file": "056-famishing-famines.md",
+  "title": "Famishing Famines",
+  "essays": [
+   "10761",
+   "10970"
+  ],
+  "published_share": 1.02
+ },
+ {
+  "n": 57,
+  "file": "057-slaughtering-and-butchering.md",
+  "title": "Slaughtering and Butchering",
+  "essays": [
+   "8980",
+   "8023",
+   "9658"
+  ],
+  "published_share": 0.76
+ },
+ {
+  "n": 58,
+  "file": "058-all-tied-up.md",
+  "title": "All Tied Up",
+  "essays": [
+   "10970",
+   "9211",
+   "10761"
+  ],
+  "published_share": 1.02
+ },
+ {
+  "n": 59,
+  "file": "059-on-misers-and-cheapskates.md",
+  "title": "On Misers and Cheapskates",
+  "essays": [
+   "9734"
+  ],
+  "published_share": 0.81
+ },
+ {
+  "n": 60,
+  "file": "060-speaking-in-tongues.md",
+  "title": "Speaking in Tongues",
+  "essays": [
+   "7548"
+  ],
+  "published_share": 0.94
+ },
+ {
+  "n": 61,
+  "file": "061-a-biblical-feast.md",
+  "title": "A Biblical Feast",
+  "essays": [
+   "8546"
+  ],
+  "published_share": 0.9
+ },
+ {
+  "n": 62,
+  "file": "062-jacobs-three-names.md",
+  "title": "Jacob’s Three Names",
+  "essays": [
+   "8553"
+  ],
+  "published_share": 0.69
+ },
+ {
+  "n": 63,
+  "file": "063-shouldering-the-burden.md",
+  "title": "Shouldering the Burden",
+  "essays": [
+   "7562"
+  ],
+  "published_share": 0.89
+ },
+ {
+  "n": 64,
+  "file": "064-say-your-prayers.md",
+  "title": "Say your Prayers",
+  "essays": [
+   "7090"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 65,
+  "file": "065-crouching-lion-hidden-blessing.md",
+  "title": "Crouching Lion, Hidden Blessing",
+  "essays": [
+   "8039"
+  ],
+  "published_share": 0.58
+ },
+ {
+  "n": 66,
+  "file": "066-through-the-grapevine.md",
+  "title": "Through the Grapevine",
+  "essays": [
+   "9491",
+   "11489"
+  ],
+  "published_share": 0.91
+ },
+ {
+  "n": 67,
+  "file": "067-white-is-light.md",
+  "title": "White is Light",
+  "essays": [
+   "11188"
+  ],
+  "published_share": 0.93
+ },
+ {
+  "n": 68,
+  "file": "068-boats-ships-and-nautical-rhapsody.md",
+  "title": "Boats, Ships, and Nautical Rhapsody",
+  "essays": [
+   "8991"
+  ],
+  "published_share": 0.68
+ },
+ {
+  "n": 69,
+  "file": "069-good-and-pleasant.md",
+  "title": "Good and Pleasant",
+  "essays": [
+   "11655"
+  ],
+  "published_share": 0.95
+ },
+ {
+  "n": 70,
+  "file": "070-them-bones-and-themselves.md",
+  "title": "Them Bones and Themselves",
+  "essays": [
+   "10785",
+   "9745"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 71,
+  "file": "071-olives-and-oil.md",
+  "title": "Olives and Oil",
+  "essays": [
+   "7061"
+  ],
+  "published_share": 0.65
+ },
+ {
+  "n": 72,
+  "file": "072-around-in-concentric-circles.md",
+  "title": "Around in Concentric Circles",
+  "essays": [
+   "7530"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 73,
+  "file": "073-holy-priests-vs-unholy-priests.md",
+  "title": "Holy Priests vs. Unholy Priests",
+  "essays": [
+   "8529",
+   "8953",
+   "9632"
+  ],
+  "published_share": 0.71
+ },
+ {
+  "n": 74,
+  "file": "074-to-be-a-wise-guy.md",
+  "title": "To Be a Wise Guy",
+  "essays": [
+   "8959",
+   "8969"
+  ],
+  "published_share": 0.7
+ },
+ {
+  "n": 75,
+  "file": "075-seeking-salvation.md",
+  "title": "Seeking Salvation",
+  "essays": [
+   "9464"
+  ],
+  "published_share": 0.94
+ },
+ {
+  "n": 76,
+  "file": "076-cans-of-oil.md",
+  "title": "Cans of Oil",
+  "essays": [
+   "10751"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 77,
+  "file": "077-the-hebrew-hammers.md",
+  "title": "The Hebrew Hammers",
+  "essays": [
+   "11627",
+   "11634"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 78,
+  "file": "078-the-pharaoh-and-the-king.md",
+  "title": "The Pharaoh and the King",
+  "essays": [
+   "7572"
+  ],
+  "published_share": 0.78
+ },
+ {
+  "n": 79,
+  "file": "079-a-panoply-of-canopies.md",
+  "title": "A Panoply of Canopies",
+  "essays": [
+   "9005",
+   "7103"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 80,
+  "file": "080-moses-many-names.md",
+  "title": "Moses’ Many Names",
+  "essays": [
+   "9503"
+  ],
+  "published_share": 0.82
+ },
+ {
+  "n": 81,
+  "file": "081-prophets-and-visionaries.md",
+  "title": "Prophets and Visionaries",
+  "essays": [
+   "8052",
+   "10935"
+  ],
+  "published_share": 0.87
+ },
+ {
+  "n": 82,
+  "file": "082-here-we-go.md",
+  "title": "Here we go",
+  "essays": [
+   "11665"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 83,
+  "file": "083-drawing-water.md",
+  "title": "Drawing Water",
+  "essays": [
+   "10786"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 84,
+  "file": "084-pulling-drawing.md",
+  "title": "Pulling & Drawing",
+  "essays": [
+   "11200",
+   "9513",
+   "8400"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 85,
+  "file": "085-my-dear-deer.md",
+  "title": "My Dear Deer",
+  "essays": [
+   "8563"
+  ],
+  "published_share": 0.75
+ },
+ {
+  "n": 86,
+  "file": "086-the-trick-of-magi.md",
+  "title": "The Trick of Magi",
+  "essays": [
+   "10804"
+  ],
+  "published_share": 0.95
+ },
+ {
+  "n": 87,
+  "file": "087-the-vertically-challenged.md",
+  "title": "The Vertically-Challenged",
+  "essays": [
+   "11205",
+   "11763"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 88,
+  "file": "088-plague-of-plagues.md",
+  "title": "Plague of Plagues",
+  "essays": [
+   "7579"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 89,
+  "file": "089-marshes-marshes-marshes.md",
+  "title": "Marshes, Marshes, Marshes",
+  "essays": [
+   "9031"
+  ],
+  "published_share": 0.76
+ },
+ {
+  "n": 90,
+  "file": "090-down-by-the-river.md",
+  "title": "Down by the River",
+  "essays": [
+   "8076",
+   "8007"
+  ],
+  "published_share": 0.85
+ },
+ {
+  "n": 91,
+  "file": "091-lice-aint-nice.md",
+  "title": "Lice Ain’t Nice",
+  "essays": [
+   "11666",
+   "11462"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 92,
+  "file": "092-just-because.md",
+  "title": "Just Because",
+  "essays": [
+   "7110"
+  ],
+  "published_share": 0.58
+ },
+ {
+  "n": 93,
+  "file": "093-stop-it.md",
+  "title": "Stop It!",
+  "essays": [
+   "9513",
+   "8400",
+   "11200"
+  ],
+  "published_share": 0.9
+ },
+ {
+  "n": 94,
+  "file": "094-come-to-pharaoh.md",
+  "title": "Come To Pharaoh",
+  "essays": [
+   "9039"
+  ],
+  "published_share": 0.86
+ },
+ {
+  "n": 95,
+  "file": "095-army-of-grasshoppers.md",
+  "title": "Army of Grasshoppers",
+  "essays": [
+   "7592"
+  ],
+  "published_share": 0.77
+ },
+ {
+  "n": 96,
+  "file": "096-put-in-place.md",
+  "title": "Put in Place",
+  "essays": [
+   "9523"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 97,
+  "file": "097-please-stand-up.md",
+  "title": "Please Stand Up",
+  "essays": [
+   "10810"
+  ],
+  "published_share": 1.0
+ },
+ {
+  "n": 98,
+  "file": "098-the-sign-is-coming.md",
+  "title": "The Sign is Coming…",
+  "essays": [
+   "8085"
+  ],
+  "published_share": 0.68
+ },
+ {
+  "n": 99,
+  "file": "099-turning-off-the-lights.md",
+  "title": "Turning off the Lights",
+  "essays": [
+   "7123"
+  ],
+  "published_share": 0.84
+ },
+ {
+  "n": 100,
+  "file": "100-follow-the-leader.md",
+  "title": "Follow the Leader",
+  "essays": [
+   "11678",
+   "11677"
+  ],
+  "published_share": 1.0
+ },
+ {
+  "n": 101,
+  "file": "101-thats-a-flogging.md",
+  "title": "That’s a Flogging",
+  "essays": [
+   "8584"
+  ],
+  "published_share": 0.77
+ },
+ {
+  "n": 102,
+  "file": "102-filling-your-phylacteries.md",
+  "title": "Filling your Phylacteries",
+  "essays": [
+   "11218",
+   "11413"
+  ],
+  "published_share": 0.94
+ },
+ {
+  "n": 103,
+  "file": "103-armed-and-ready.md",
+  "title": "Armed and Ready",
+  "essays": [
+   "11613",
+   "11006"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 104,
+  "file": "104-cut-it-out.md",
+  "title": "Cut it out!",
+  "essays": [
+   "8107",
+   "8098",
+   "8613"
+  ],
+  "published_share": 0.75
+ },
+ {
+  "n": 105,
+  "file": "105-afraid-of-fright-or-ready-to-fight.md",
+  "title": "Afraid of Fright or Ready to Fight",
+  "essays": [
+   "7018"
+  ],
+  "published_share": 0.82
+ },
+ {
+  "n": 106,
+  "file": "106-piles-and-piles.md",
+  "title": "Piles and Piles",
+  "essays": [
+   "9534",
+   "8594"
+  ],
+  "published_share": 0.82
+ },
+ {
+  "n": 107,
+  "file": "107-sweet-and-pleasant.md",
+  "title": "Sweet and Pleasant",
+  "essays": [
+   "7611"
+  ],
+  "published_share": 0.85
+ },
+ {
+  "n": 108,
+  "file": "108-the-wormy-place.md",
+  "title": "The Wormy Place",
+  "essays": [
+   "11902",
+   "10931"
+  ],
+  "published_share": 1.01
+ },
+ {
+  "n": 109,
+  "file": "109-through-the-looking-window.md",
+  "title": "Through the Looking Window",
+  "essays": [
+   "10818",
+   "9056"
+  ],
+  "published_share": 0.87
+ },
+ {
+  "n": 110,
+  "file": "110-g-ds-best-friend.md",
+  "title": "G-d’s Best Friend",
+  "essays": [
+   "7620"
+  ],
+  "published_share": 0.67
+ },
+ {
+  "n": 111,
+  "file": "111-heat-with-the-in-laws.md",
+  "title": "Heat with the In-laws",
+  "essays": [
+   "8605"
+  ],
+  "published_share": 0.81
+ },
+ {
+  "n": 112,
+  "file": "112-just-winging-it.md",
+  "title": "Just Winging It",
+  "essays": [
+   "9070"
+  ],
+  "published_share": 0.89
+ },
+ {
+  "n": 113,
+  "file": "113-laundering-and-cleaning.md",
+  "title": "Laundering and Cleaning",
+  "essays": [
+   "9544"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 114,
+  "file": "114-myself-and-i.md",
+  "title": "Myself and I",
+  "essays": [
+   "7144"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 115,
+  "file": "115-murder-he-wrote.md",
+  "title": "Murder He Wrote",
+  "essays": [
+   "10820",
+   "10935"
+  ],
+  "published_share": 1.01
+ },
+ {
+  "n": 116,
+  "file": "116-write-it-down.md",
+  "title": "Write it down",
+  "essays": [
+   "11687"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 117,
+  "file": "117-stairs-to-above.md",
+  "title": "Stairs to Above",
+  "essays": [
+   "11245"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 118,
+  "file": "118-forever-and-ever.md",
+  "title": "Forever and Ever",
+  "essays": [
+   "7633"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 119,
+  "file": "119-the-handmaids-deal.md",
+  "title": "The Handmaid’s Deal",
+  "essays": [
+   "8120",
+   "9448"
+  ],
+  "published_share": 0.86
+ },
+ {
+  "n": 120,
+  "file": "120-feeding-the-lie.md",
+  "title": "Feeding the Lie",
+  "essays": [
+   "9080"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 121,
+  "file": "121-stealing-and-robbing.md",
+  "title": "Stealing and Robbing",
+  "essays": [
+   "8613",
+   "9642",
+   "8098"
+  ],
+  "published_share": 0.9
+ },
+ {
+  "n": 122,
+  "file": "122-boorish-animals.md",
+  "title": "Boorish Animals",
+  "essays": [
+   "10832"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 123,
+  "file": "123-hidden-things.md",
+  "title": "Hidden Things",
+  "essays": [
+   "11696"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 124,
+  "file": "124-bruisers-and-bleeders.md",
+  "title": "Bruisers and Bleeders",
+  "essays": [
+   "11252"
+  ],
+  "published_share": 0.94
+ },
+ {
+  "n": 125,
+  "file": "125-digging-deeper.md",
+  "title": "Digging Deeper",
+  "essays": [
+   "9554",
+   "11619",
+   "8271"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 126,
+  "file": "126-rabbi-of-robbers.md",
+  "title": "Rabbi of Robbers",
+  "essays": [
+   "7153"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 127,
+  "file": "127-sacred-spaces.md",
+  "title": "Sacred Spaces",
+  "essays": [
+   "7164"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 128,
+  "file": "128-a-table-for-thee.md",
+  "title": "A Table for Thee",
+  "essays": [
+   "11261"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 129,
+  "file": "129-color-me.md",
+  "title": "Color Me",
+  "essays": [
+   "11705"
+  ],
+  "published_share": 0.87
+ },
+ {
+  "n": 130,
+  "file": "130-raise-the-curtain.md",
+  "title": "Raise the Curtain",
+  "essays": [
+   "8157"
+  ],
+  "published_share": 0.85
+ },
+ {
+  "n": 131,
+  "file": "131-cherubic-children-and-other-angels.md",
+  "title": "Cherubic Children and Other Angels",
+  "essays": [
+   "8129"
+  ],
+  "published_share": 0.69
+ },
+ {
+  "n": 132,
+  "file": "132-foreheads-and-fadihot.md",
+  "title": "Foreheads and Fadihot",
+  "essays": [
+   "8622"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 133,
+  "file": "133-the-true-blue.md",
+  "title": "The True Blue",
+  "essays": [
+   "8167"
+  ],
+  "published_share": 0.71
+ },
+ {
+  "n": 134,
+  "file": "134-the-color-purple.md",
+  "title": "The Color Purple",
+  "essays": [
+   "9575"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 135,
+  "file": "135-hats-and-belts.md",
+  "title": "Hats and Belts",
+  "essays": [
+   "7195"
+  ],
+  "published_share": 0.66
+ },
+ {
+  "n": 136,
+  "file": "136-is-cotton-a-type-of-linen.md",
+  "title": "Is Cotton a Type of Linen?",
+  "essays": [
+   "8140"
+  ],
+  "published_share": 0.66
+ },
+ {
+  "n": 137,
+  "file": "137-better-late-than.md",
+  "title": "Better Late Than…",
+  "essays": [
+   "8644",
+   "8654"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 138,
+  "file": "138-awesome-balsam.md",
+  "title": "Awesome Balsam",
+  "essays": [
+   "10824",
+   "9795"
+  ],
+  "published_share": 1.0
+ },
+ {
+  "n": 139,
+  "file": "139-why-which-why.md",
+  "title": "Why? Which why?",
+  "essays": [
+   "7039"
+  ],
+  "published_share": 0.94
+ },
+ {
+  "n": 140,
+  "file": "140-mercy-or-pity.md",
+  "title": "Mercy or Pity",
+  "essays": [
+   "8654",
+   "7679",
+   "8644"
+  ],
+  "published_share": 0.67
+ },
+ {
+  "n": 141,
+  "file": "141-my-clothes-and-me.md",
+  "title": "My Clothes and Me",
+  "essays": [
+   "7658"
+  ],
+  "published_share": 0.72
+ },
+ {
+  "n": 142,
+  "file": "142-solomons-seven-names.md",
+  "title": "Solomon’s Seven Names",
+  "essays": [
+   "8149"
+  ],
+  "published_share": 0.86
+ },
+ {
+  "n": 143,
+  "file": "143-on-hooks-and-hangers.md",
+  "title": "On Hooks and Hangers",
+  "essays": [
+   "9565"
+  ],
+  "published_share": 0.95
+ },
+ {
+  "n": 144,
+  "file": "144-in-the-middle.md",
+  "title": "In the Middle",
+  "essays": [
+   "9785",
+   "11613"
+  ],
+  "published_share": 0.9
+ },
+ {
+  "n": 145,
+  "file": "145-turning-the-corner.md",
+  "title": "Turning the Corner",
+  "essays": [
+   "10884",
+   "10883",
+   "9992"
+  ],
+  "published_share": 1.0
+ },
+ {
+  "n": 146,
+  "file": "146-crafty-artisans.md",
+  "title": "Crafty Artisans",
+  "essays": [
+   "11298"
+  ],
+  "published_share": 0.95
+ },
+ {
+  "n": 147,
+  "file": "147-tree-words.md",
+  "title": "Tree Words",
+  "essays": [
+   "7133"
+  ],
+  "published_share": 0.76
+ },
+ {
+  "n": 148,
+  "file": "148-the-beauty-of-adar.md",
+  "title": "The Beauty of Adar",
+  "essays": [
+   "9595",
+   "7644"
+  ],
+  "published_share": 0.83
+ },
+ {
+  "n": 149,
+  "file": "149-parshas-zachor-remember-forever.md",
+  "title": "Parshas Zachor: Remember Forever",
+  "essays": [
+   "9110"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 150,
+  "file": "150-parshas-parah-seeing-red.md",
+  "title": "Parshas Parah: Seeing Red",
+  "essays": [
+   "11743",
+   "11763",
+   "11742"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 151,
+  "file": "151-parshas-hachodesh-old-month-versus-new-month.md",
+  "title": "Parshas HaChodesh: Old Month versus New Month",
+  "essays": [
+   "7687"
+  ],
+  "published_share": 0.51
+ },
+ {
+  "n": 152,
+  "file": "152-party-hardy.md",
+  "title": "Party Hardy",
+  "essays": [
+   "7176"
+  ],
+  "published_share": 0.75
+ },
+ {
+  "n": 153,
+  "file": "153-playing-the-lottery.md",
+  "title": "Playing the Lottery",
+  "essays": [
+   "8181",
+   "8333",
+   "8467"
+  ],
+  "published_share": 0.78
+ },
+ {
+  "n": 154,
+  "file": "154-to-remain-silent.md",
+  "title": "To Remain Silent",
+  "essays": [
+   "8634"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 155,
+  "file": "155-fake-faces.md",
+  "title": "Fake Faces",
+  "essays": [
+   "9092"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 156,
+  "file": "156-heavy-honors.md",
+  "title": "Heavy Honors",
+  "essays": [
+   "11724"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 157,
+  "file": "157-between-books-and-scrolls.md",
+  "title": "Between Books and Scrolls",
+  "essays": [
+   "9581",
+   "8217"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 158,
+  "file": "158-pick-your-poison.md",
+  "title": "Pick your Poison",
+  "essays": [
+   "9632",
+   "9616",
+   "9603"
+  ],
+  "published_share": 0.78
+ },
+ {
+  "n": 159,
+  "file": "159-speedy-horsepower.md",
+  "title": "Speedy Horsepower",
+  "essays": [
+   "11286",
+   "11326",
+   "11285"
+  ],
+  "published_share": 0.75
+ },
+ {
+  "n": 160,
+  "file": "160-do-the-din.md",
+  "title": "Do the Din",
+  "essays": [
+   "11715"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 161,
+  "file": "161-for-crying-out-loud.md",
+  "title": "For Crying Out Loud",
+  "essays": [
+   "7655"
+  ],
+  "published_share": 0.75
+ },
+ {
+  "n": 162,
+  "file": "162-freezing-cold.md",
+  "title": "Freezing Cold",
+  "essays": [
+   "9482"
+  ],
+  "published_share": 0.78
+ },
+ {
+  "n": 163,
+  "file": "163-running-on-willpower.md",
+  "title": "Running on Willpower",
+  "essays": [
+   "8573"
+  ],
+  "published_share": 0.85
+ },
+ {
+  "n": 164,
+  "file": "164-fowl-language-and-poultry.md",
+  "title": "Fowl Language and Poultry",
+  "essays": [
+   "7009"
+  ],
+  "published_share": 0.46
+ },
+ {
+  "n": 165,
+  "file": "165-the-kidneys-advisory.md",
+  "title": "The Kidneys Advisory",
+  "essays": [
+   "11307"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 166,
+  "file": "166-the-gorgeous-windpipe.md",
+  "title": "The Gorgeous Windpipe",
+  "essays": [
+   "9745",
+   "10785"
+  ],
+  "published_share": 0.87
+ },
+ {
+  "n": 167,
+  "file": "167-anatomy-of-a-soul.md",
+  "title": "Anatomy of a Soul",
+  "essays": [
+   "8759",
+   "8768",
+   "8779"
+  ],
+  "published_share": 0.9
+ },
+ {
+  "n": 168,
+  "file": "168-the-chayah-and-yechidah.md",
+  "title": "The Chayah and Yechidah",
+  "essays": [
+   "8779",
+   "8759",
+   "8768"
+  ],
+  "published_share": 0.91
+ },
+ {
+  "n": 169,
+  "file": "169-good-fat-bad-fat.md",
+  "title": "Good Fat, Bad Fat",
+  "essays": [
+   "11314",
+   "11170"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 170,
+  "file": "170-the-nosey-truth.md",
+  "title": "The Nosey Truth",
+  "essays": [
+   "11327"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 171,
+  "file": "171-types-of-species.md",
+  "title": "Types of Species",
+  "essays": [
+   "10897",
+   "11438"
+  ],
+  "published_share": 0.93
+ },
+ {
+  "n": 172,
+  "file": "172-wet-words.md",
+  "title": "Wet Words",
+  "essays": [
+   "11276"
+  ],
+  "published_share": 0.95
+ },
+ {
+  "n": 173,
+  "file": "173-dancing-away.md",
+  "title": "Dancing Away",
+  "essays": [
+   "11784"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 174,
+  "file": "174-the-cutter.md",
+  "title": "The Cutter",
+  "essays": [
+   "11342",
+   "11520"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 175,
+  "file": "175-haircut-time.md",
+  "title": "Haircut Time",
+  "essays": [
+   "9642",
+   "8613",
+   "9756"
+  ],
+  "published_share": 0.83
+ },
+ {
+  "n": 176,
+  "file": "176-spot-on-tzarat.md",
+  "title": "Spot on Tzar’at",
+  "essays": [
+   "11793"
+  ],
+  "published_share": 1.0
+ },
+ {
+  "n": 177,
+  "file": "177-rule-of-thumb.md",
+  "title": "Rule of Thumb",
+  "essays": [],
+  "published_share": 0.0
+ },
+ {
+  "n": 178,
+  "file": "178-confronting-death.md",
+  "title": "Confronting Death",
+  "essays": [
+   "10907"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 179,
+  "file": "179-on-the-tombstone.md",
+  "title": "On the Tombstone",
+  "essays": [
+   "7730"
+  ],
+  "published_share": 0.76
+ },
+ {
+  "n": 180,
+  "file": "180-say-uncle.md",
+  "title": "Say Uncle",
+  "essays": [
+   "9184"
+  ],
+  "published_share": 0.78
+ },
+ {
+  "n": 181,
+  "file": "181-karet-and-ariri.md",
+  "title": "Karet and Ariri",
+  "essays": [
+   "8271",
+   "9554"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 182,
+  "file": "182-the-watchers-and-guardians.md",
+  "title": "The Watchers and Guardians",
+  "essays": [
+   "11813"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 183,
+  "file": "183-burke-and-rebuke.md",
+  "title": "Burke and Rebuke",
+  "essays": [
+   "7260",
+   "10970"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 184,
+  "file": "184-top-ten-words-for-idols.md",
+  "title": "Top Ten Words for Idols",
+  "essays": [
+   "8198"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 185,
+  "file": "185-now-and-forthwith.md",
+  "title": "Now and Forthwith!",
+  "essays": [
+   "7426",
+   "7409"
+  ],
+  "published_share": 0.82
+ },
+ {
+  "n": 186,
+  "file": "186-a-window-into-widows.md",
+  "title": "A Window into Widows",
+  "essays": [
+   "11816",
+   "11817"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 187,
+  "file": "187-rose-by-another-name.md",
+  "title": "Rose by Another Name",
+  "essays": [
+   "11391"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 188,
+  "file": "188-blemished-imperfections.md",
+  "title": "Blemished Imperfections",
+  "essays": [
+   "8696",
+   "9138"
+  ],
+  "published_share": 1.58
+ },
+ {
+  "n": 189,
+  "file": "189-trends-in-time.md",
+  "title": "Trends in Time",
+  "essays": [
+   "7396"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 190,
+  "file": "190-getting-stoned.md",
+  "title": "Getting Stoned",
+  "essays": [
+   "10935",
+   "9694",
+   "9682"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 191,
+  "file": "191-trusting-and-relying-on-g-d.md",
+  "title": "Trusting and Relying on G-d",
+  "essays": [
+   "8836",
+   "9877"
+  ],
+  "published_share": 1.68
+ },
+ {
+  "n": 192,
+  "file": "192-divorce-bills-and-other-documents.md",
+  "title": "Divorce Bills and other Documents",
+  "essays": [
+   "8704"
+  ],
+  "published_share": 0.64
+ },
+ {
+  "n": 193,
+  "file": "193-settled-citizens.md",
+  "title": "Settled Citizens",
+  "essays": [
+   "9199"
+  ],
+  "published_share": 0.75
+ },
+ {
+  "n": 194,
+  "file": "194-the-poor-and-unfortunate.md",
+  "title": "The Poor and Unfortunate",
+  "essays": [
+   "8245"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 195,
+  "file": "195-peace-and-quiet.md",
+  "title": "Peace and Quiet",
+  "essays": [
+   "8816",
+   "9396"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 196,
+  "file": "196-coincidence-or-happenstance.md",
+  "title": "Coincidence or Happenstance?",
+  "essays": [
+   "11822",
+   "11821"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 197,
+  "file": "197-all-about-money.md",
+  "title": "All About Money",
+  "essays": [
+   "11394",
+   "11742",
+   "8444"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 198,
+  "file": "198-words-of-redemption.md",
+  "title": "Words of Redemption",
+  "essays": [
+   "8714",
+   "7742"
+  ],
+  "published_share": 0.82
+ },
+ {
+  "n": 199,
+  "file": "199-veggies-for-the-dipping.md",
+  "title": "Veggies for the Dipping",
+  "essays": [
+   "11353"
+  ],
+  "published_share": 0.95
+ },
+ {
+  "n": 200,
+  "file": "200-eating-cake.md",
+  "title": "Eating Cake",
+  "essays": [
+   "11363"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 201,
+  "file": "201-jumping-for-passover.md",
+  "title": "Jumping for Passover",
+  "essays": [
+   "7204",
+   "7218"
+  ],
+  "published_share": 0.81
+ },
+ {
+  "n": 202,
+  "file": "202-escape-from-patros.md",
+  "title": "Escape from Patros",
+  "essays": [
+   "10890"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 203,
+  "file": "203-defining-freedom.md",
+  "title": "Defining Freedom",
+  "essays": [
+   "7707"
+  ],
+  "published_share": 0.7
+ },
+ {
+  "n": 204,
+  "file": "204-telling-the-story-part-1-2.md",
+  "title": "Telling the Story (Part 1/2)",
+  "essays": [
+   "8217",
+   "8272"
+  ],
+  "published_share": 0.89
+ },
+ {
+  "n": 205,
+  "file": "205-telling-the-story-part-2-2.md",
+  "title": "Telling the Story (Part 2/2)",
+  "essays": [
+   "8217",
+   "9581"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 206,
+  "file": "206-putting-pressure.md",
+  "title": "Putting Pressure",
+  "essays": [
+   "9658",
+   "9682",
+   "8980"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 207,
+  "file": "207-sing-and-song.md",
+  "title": "Sing and Song",
+  "essays": [
+   "8681"
+  ],
+  "published_share": 0.87
+ },
+ {
+  "n": 208,
+  "file": "208-the-sickle-and-the-exile.md",
+  "title": "The Sickle and the Exile",
+  "essays": [
+   "9153"
+  ],
+  "published_share": 0.76
+ },
+ {
+  "n": 209,
+  "file": "209-when-just-counting-doesnt-count.md",
+  "title": "When Just Counting Doesn’t Count",
+  "essays": [
+   "7251"
+  ],
+  "published_share": 0.65
+ },
+ {
+  "n": 210,
+  "file": "210-boys-and-bars.md",
+  "title": "Boys and Bars",
+  "essays": [
+   "8257"
+  ],
+  "published_share": 0.87
+ },
+ {
+  "n": 211,
+  "file": "211-the-shiny-month.md",
+  "title": "The Shiny Month",
+  "essays": [
+   "11411",
+   "11123",
+   "10884"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 212,
+  "file": "212-bamidbar-out-in-the-wild.md",
+  "title": "Bamidbar: Out in the Wild",
+  "essays": [
+   "10940"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 213,
+  "file": "213-a-word-for-a-thought.md",
+  "title": "A Word for a Thought",
+  "essays": [
+   "7082"
+  ],
+  "published_share": 0.68
+ },
+ {
+  "n": 214,
+  "file": "214-strange-aliens.md",
+  "title": "Strange Aliens",
+  "essays": [
+   "9192"
+  ],
+  "published_share": 0.37
+ },
+ {
+  "n": 215,
+  "file": "215-on-clouds.md",
+  "title": "On Clouds",
+  "essays": [
+   "8287"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 216,
+  "file": "216-razors-edge.md",
+  "title": "Razor’s Edge",
+  "essays": [
+   "7768"
+  ],
+  "published_share": 0.72
+ },
+ {
+  "n": 217,
+  "file": "217-a-crown-is-a-crown.md",
+  "title": "A Crown is a Crown",
+  "essays": [
+   "6876"
+  ],
+  "published_share": 0.44
+ },
+ {
+  "n": 218,
+  "file": "218-a-variety-of-enemies.md",
+  "title": "A Variety of Enemies",
+  "essays": [
+   "6828",
+   "7779"
+  ],
+  "published_share": 0.61
+ },
+ {
+  "n": 219,
+  "file": "219-running-away.md",
+  "title": "Running Away",
+  "essays": [
+   "7779",
+   "6828"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 220,
+  "file": "220-lift-wave.md",
+  "title": "Lift & Wave",
+  "essays": [
+   "11422"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 221,
+  "file": "221-deleterious-desires.md",
+  "title": "Deleterious Desires",
+  "essays": [
+   "7292"
+  ],
+  "published_share": 0.78
+ },
+ {
+  "n": 222,
+  "file": "222-chew-that.md",
+  "title": "Chew That",
+  "essays": [
+   "11831"
+  ],
+  "published_share": 1.0
+ },
+ {
+  "n": 223,
+  "file": "223-a-coriander-conundrum.md",
+  "title": "A Coriander Conundrum",
+  "essays": [
+   "8735",
+   "8439"
+  ],
+  "published_share": 0.91
+ },
+ {
+  "n": 224,
+  "file": "224-fishy-words.md",
+  "title": "Fishy Words",
+  "essays": [
+   "9228",
+   "9234"
+  ],
+  "published_share": 0.84
+ },
+ {
+  "n": 225,
+  "file": "225-message-on-a-pole.md",
+  "title": "Message on a Pole",
+  "essays": [
+   "11433"
+  ],
+  "published_share": 0.93
+ },
+ {
+  "n": 226,
+  "file": "226-of-corpses-and-carcasses.md",
+  "title": "Of Corpses and Carcasses",
+  "essays": [
+   "7788"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 227,
+  "file": "227-learning-the-ropes.md",
+  "title": "Learning the Ropes",
+  "essays": [
+   "10974"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 228,
+  "file": "228-spy-versus-spy.md",
+  "title": "Spy versus Spy",
+  "essays": [
+   "7302"
+  ],
+  "published_share": 0.5
+ },
+ {
+  "n": 229,
+  "file": "229-kneading-the-dough.md",
+  "title": "Kneading the Dough",
+  "essays": [
+   "8744"
+  ],
+  "published_share": 0.69
+ },
+ {
+  "n": 230,
+  "file": "230-growing-the-fringes.md",
+  "title": "Growing the Fringes",
+  "essays": [
+   "11856",
+   "11857"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 231,
+  "file": "231-revolting-revolutions.md",
+  "title": "Revolting Revolutions",
+  "essays": [
+   "9245"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 232,
+  "file": "232-the-land-down-under.md",
+  "title": "The Land Down Under",
+  "essays": [
+   "7313"
+  ],
+  "published_share": 0.81
+ },
+ {
+  "n": 233,
+  "file": "233-names-of-the-underworld.md",
+  "title": "Names of the Underworld",
+  "essays": [
+   "8304"
+  ],
+  "published_share": 0.83
+ },
+ {
+  "n": 234,
+  "file": "234-all-about-hair.md",
+  "title": "All About Hair",
+  "essays": [
+   "8754"
+  ],
+  "published_share": 0.72
+ },
+ {
+  "n": 235,
+  "file": "235-the-one-and-only.md",
+  "title": "The One and Only",
+  "essays": [
+   "10975"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 236,
+  "file": "236-out-in-public.md",
+  "title": "Out in Public",
+  "essays": [
+   "11449"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 237,
+  "file": "237-laws-and-orders.md",
+  "title": "Laws and Orders",
+  "essays": [
+   "8315"
+  ],
+  "published_share": 0.87
+ },
+ {
+  "n": 238,
+  "file": "238-let-them-eat-bread.md",
+  "title": "Let Them Eat Bread",
+  "essays": [
+   "7815"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 239,
+  "file": "239-the-right-site.md",
+  "title": "The Right Site",
+  "essays": [
+   "10994"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 240,
+  "file": "240-words-for-war.md",
+  "title": "Words for War",
+  "essays": [
+   "11889"
+  ],
+  "published_share": 0.93
+ },
+ {
+  "n": 241,
+  "file": "241-biblical-refuseniks.md",
+  "title": "Biblical Refuseniks",
+  "essays": [
+   "9254"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 242,
+  "file": "242-slithering-serpents-and-sea-snakes.md",
+  "title": "Slithering Serpents and Sea Snakes",
+  "essays": [
+   "7321",
+   "7341"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 243,
+  "file": "243-lick-it-up.md",
+  "title": "Lick It Up",
+  "essays": [
+   "11448",
+   "8584"
+  ],
+  "published_share": 1.0
+ },
+ {
+  "n": 244,
+  "file": "244-balaams-numa.md",
+  "title": "Balaam’s Numa",
+  "essays": [
+   "9266"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 245,
+  "file": "245-an-asinine-essay.md",
+  "title": "An Asinine Essay",
+  "essays": [
+   "11871",
+   "11869",
+   "8933"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 246,
+  "file": "246-are-you-really-with-me.md",
+  "title": "Are You Really “With Me”?",
+  "essays": [
+   "8323"
+  ],
+  "published_share": 0.78
+ },
+ {
+  "n": 247,
+  "file": "247-muzzled-up.md",
+  "title": "Muzzled Up",
+  "essays": [
+   "11006",
+   "11613",
+   "11010"
+  ],
+  "published_share": 1.0
+ },
+ {
+  "n": 248,
+  "file": "248-foot-festivals.md",
+  "title": "Foot Festivals",
+  "essays": [
+   "7828"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 249,
+  "file": "249-a-collection-of-curses.md",
+  "title": "A Collection of Curses",
+  "essays": [
+   "7049"
+  ],
+  "published_share": 0.64
+ },
+ {
+  "n": 250,
+  "file": "250-performance-platforms.md",
+  "title": "Performance Platforms",
+  "essays": [
+   "11462",
+   "11666"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 251,
+  "file": "251-piercing-spears.md",
+  "title": "Piercing Spears",
+  "essays": [
+   "11010",
+   "11006",
+   "9795"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 252,
+  "file": "252-a-heritage-of-inheritance.md",
+  "title": "A Heritage of Inheritance",
+  "essays": [
+   "7839"
+  ],
+  "published_share": 0.61
+ },
+ {
+  "n": 253,
+  "file": "253-bovine-words-cows-and-cowboys.md",
+  "title": "Bovine Words: Cows and Cowboys",
+  "essays": [
+   "8333",
+   "8181",
+   "8467"
+  ],
+  "published_share": 0.81
+ },
+ {
+  "n": 254,
+  "file": "254-flour-power.md",
+  "title": "Flour Power",
+  "essays": [
+   "9275",
+   "10020",
+   "8846"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 255,
+  "file": "255-united-we-fast.md",
+  "title": "United We Fast",
+  "essays": [
+   "7332"
+  ],
+  "published_share": 0.63
+ },
+ {
+  "n": 256,
+  "file": "256-tribesmen-stick-together.md",
+  "title": "Tribesmen Stick Together",
+  "essays": [
+   "7357"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 257,
+  "file": "257-of-oaths-and-promises.md",
+  "title": "Of Oaths and Promises",
+  "essays": [
+   "6963"
+  ],
+  "published_share": 0.91
+ },
+ {
+  "n": 258,
+  "file": "258-null-and-void.md",
+  "title": "Null and Void",
+  "essays": [
+   "7851"
+  ],
+  "published_share": 0.78
+ },
+ {
+  "n": 259,
+  "file": "259-welcome-to-rooster-city.md",
+  "title": "Welcome to Rooster City",
+  "essays": [
+   "9288"
+  ],
+  "published_share": 0.75
+ },
+ {
+  "n": 260,
+  "file": "260-wheres-the-gold.md",
+  "title": "Where’s the Gold?",
+  "essays": [
+   "8724"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 261,
+  "file": "261-heavy-taxes-and-empty-pockets.md",
+  "title": "Heavy Taxes and Empty Pockets",
+  "essays": [
+   "8339"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 262,
+  "file": "262-when-suddenly.md",
+  "title": "When Suddenly…",
+  "essays": [
+   "8790"
+  ],
+  "published_share": 0.85
+ },
+ {
+  "n": 263,
+  "file": "263-on-the-border.md",
+  "title": "On the Border",
+  "essays": [
+   "11471"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 264,
+  "file": "264-the-names-of-jericho.md",
+  "title": "The Names of Jericho",
+  "essays": [
+   "9795",
+   "10824",
+   "11010"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 265,
+  "file": "265-of-thorns-and-thistles.md",
+  "title": "Of Thorns and Thistles",
+  "essays": [
+   "9809",
+   "10883"
+  ],
+  "published_share": 0.94
+ },
+ {
+  "n": 266,
+  "file": "266-the-shining-sea-of-galilee.md",
+  "title": "The Shining Sea of Galilee",
+  "essays": [
+   "8351"
+  ],
+  "published_share": 0.82
+ },
+ {
+  "n": 267,
+  "file": "267-of-heretics-and-apostates.md",
+  "title": "Of Heretics and Apostates",
+  "essays": [
+   "11438",
+   "10897"
+  ],
+  "published_share": 0.95
+ },
+ {
+  "n": 268,
+  "file": "268-just-say-no.md",
+  "title": "Just Say No",
+  "essays": [
+   "10949"
+  ],
+  "published_share": 1.0
+ },
+ {
+  "n": 269,
+  "file": "269-brilliant-prohibitions.md",
+  "title": "Brilliant Prohibitions",
+  "essays": [
+   "9211",
+   "10970"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 270,
+  "file": "270-of-demons-and-spirits.md",
+  "title": "Of Demons and Spirits",
+  "essays": [],
+  "published_share": 0.0
+ },
+ {
+  "n": 271,
+  "file": "271-getting-dirty.md",
+  "title": "Getting Dirty",
+  "essays": [
+   "11413",
+   "11218"
+  ],
+  "published_share": 1.01
+ },
+ {
+  "n": 272,
+  "file": "272-more-cheese-please.md",
+  "title": "More Cheese Please",
+  "essays": [
+   "9723",
+   "7377"
+  ],
+  "published_share": 0.89
+ },
+ {
+  "n": 273,
+  "file": "273-the-mountain-of-many-names.md",
+  "title": "The Mountain of Many Names",
+  "essays": [
+   "7377",
+   "9723"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 274,
+  "file": "274-stop-its-shavuot.md",
+  "title": "Stop! It’s Shavuot",
+  "essays": [
+   "7758"
+  ],
+  "published_share": 0.74
+ },
+ {
+  "n": 275,
+  "file": "275-thats-amore.md",
+  "title": "That’s Amore!",
+  "essays": [
+   "8272",
+   "8217"
+  ],
+  "published_share": 0.64
+ },
+ {
+  "n": 276,
+  "file": "276-the-number-eleven.md",
+  "title": "The Number Eleven",
+  "essays": [
+   "7864"
+  ],
+  "published_share": 0.59
+ },
+ {
+  "n": 277,
+  "file": "277-the-sharp-river.md",
+  "title": "The Sharp River",
+  "essays": [
+   "11903"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 278,
+  "file": "278-empty-exaggerations.md",
+  "title": "Empty Exaggerations",
+  "essays": [
+   "9756",
+   "9642",
+   "8613"
+  ],
+  "published_share": 0.83
+ },
+ {
+  "n": 279,
+  "file": "279-beds-of-the-righteous.md",
+  "title": "Beds of the Righteous",
+  "essays": [
+   "8364",
+   "7927",
+   "10824"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 280,
+  "file": "280-words-of-destruction.md",
+  "title": "Words of Destruction",
+  "essays": [
+   "7366"
+  ],
+  "published_share": 0.67
+ },
+ {
+  "n": 281,
+  "file": "281-dont-trample-on-me.md",
+  "title": "Don’t Trample On Me",
+  "essays": [
+   "11024"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 282,
+  "file": "282-looking-four-directions.md",
+  "title": "Looking Four Directions",
+  "essays": [
+   "7029"
+  ],
+  "published_share": 0.68
+ },
+ {
+  "n": 283,
+  "file": "283-the-ultimate-teacher.md",
+  "title": "The Ultimate Teacher",
+  "essays": [
+   "9308",
+   "11523",
+   "8333"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 284,
+  "file": "284-forget-about-it.md",
+  "title": "Forget About It",
+  "essays": [
+   "8389"
+  ],
+  "published_share": 0.82
+ },
+ {
+  "n": 285,
+  "file": "285-listen-up.md",
+  "title": "Listen up!",
+  "essays": [
+   "6850"
+  ],
+  "published_share": 0.42
+ },
+ {
+  "n": 286,
+  "file": "286-nursing-from-the-good.md",
+  "title": "Nursing from the Good",
+  "essays": [
+   "11489",
+   "9491"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 287,
+  "file": "287-making-mountains-out-of-hills.md",
+  "title": "Making Mountains out of Hills",
+  "essays": [],
+  "published_share": 0.0
+ },
+ {
+  "n": 288,
+  "file": "288-subtleties-of-simcha-and-sasson.md",
+  "title": "Subtleties of Simcha and Sasson",
+  "essays": [
+   "6839"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 289,
+  "file": "289-rain-rain-come-again.md",
+  "title": "Rain, Rain Come Again",
+  "essays": [
+   "6861"
+  ],
+  "published_share": 0.64
+ },
+ {
+  "n": 290,
+  "file": "290-dont-be-a-behamah-or-a-chayah.md",
+  "title": "Don't be a Behamah or a Chayah",
+  "essays": [
+   "6999"
+  ],
+  "published_share": 0.62
+ },
+ {
+  "n": 291,
+  "file": "291-my-three-suns-and-moons.md",
+  "title": "My Three Suns (and Moons)",
+  "essays": [
+   "6916"
+  ],
+  "published_share": 0.64
+ },
+ {
+  "n": 292,
+  "file": "292-taking-collateral.md",
+  "title": "Taking Collateral",
+  "essays": [
+   "11066"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 293,
+  "file": "293-indulging-in-pleasure.md",
+  "title": "Indulging in Pleasure",
+  "essays": [
+   "8295"
+  ],
+  "published_share": 0.66
+ },
+ {
+  "n": 294,
+  "file": "294-enter-the-gate.md",
+  "title": "Enter the Gate",
+  "essays": [
+   "10740"
+  ],
+  "published_share": 0.85
+ },
+ {
+  "n": 295,
+  "file": "295-cutting-tools.md",
+  "title": "Cutting Tools",
+  "essays": [
+   "11644"
+  ],
+  "published_share": 0.91
+ },
+ {
+  "n": 296,
+  "file": "296-showing-teeth.md",
+  "title": "Showing Teeth",
+  "essays": [
+   "10931",
+   "11902",
+   "11119"
+  ],
+  "published_share": 0.97
+ },
+ {
+  "n": 297,
+  "file": "297-anger-issues.md",
+  "title": "Anger Issues",
+  "essays": [
+   "9296"
+  ],
+  "published_share": 0.78
+ },
+ {
+  "n": 298,
+  "file": "298-getting-drunk.md",
+  "title": "Getting Drunk",
+  "essays": [
+   "11520",
+   "11342",
+   "9632"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 299,
+  "file": "299-flowering-chicklings.md",
+  "title": "Flowering Chicklings",
+  "essays": [
+   "9906",
+   "11871"
+  ],
+  "published_share": 0.96
+ },
+ {
+  "n": 300,
+  "file": "300-single-guys.md",
+  "title": "Single Guys",
+  "essays": [
+   "11069",
+   "9338",
+   "10883"
+  ],
+  "published_share": 0.92
+ },
+ {
+  "n": 301,
+  "file": "301-seasoning-the-land.md",
+  "title": "Seasoning the Land",
+  "essays": [
+   "9359",
+   "9346",
+   "8573"
+  ],
+  "published_share": 0.88
+ },
+ {
+  "n": 302,
+  "file": "302-a-basket-case.md",
+  "title": "A Basket Case",
+  "essays": [
+   "10020",
+   "8846",
+   "9275"
+  ],
+  "published_share": 1.84
+ },
+ {
+  "n": 303,
+  "file": "303-no-more-boils.md",
+  "title": "No More Boils",
+  "essays": [
+   "11523",
+   "9308"
+  ],
+  "published_share": 0.56
+ },
+ {
+  "n": 304,
+  "file": "304-the-strong-ones.md",
+  "title": "The Strong Ones",
+  "essays": [
+   "8857",
+   "8868",
+   "11743"
+  ],
+  "published_share": 0.83
+ },
+ {
+  "n": 305,
+  "file": "305-straying-from-the-path.md",
+  "title": "Straying from the Path",
+  "essays": [
+   "7927",
+   "8364"
+  ],
+  "published_share": 0.8
+ },
+ {
+  "n": 306,
+  "file": "306-ten-expressions-of-praise.md",
+  "title": "Ten Expressions of Praise",
+  "essays": [
+   "6934"
+  ],
+  "published_share": 0.76
+ },
+ {
+  "n": 307,
+  "file": "307-animal-sounds.md",
+  "title": "Animal Sounds",
+  "essays": [
+   "9126",
+   "8933",
+   "11869"
+  ],
+  "published_share": 0.93
+ },
+ {
+  "n": 308,
+  "file": "308-holy-matrimony.md",
+  "title": "Holy Matrimony",
+  "essays": [
+   "8883"
+  ],
+  "published_share": 0.84
+ },
+ {
+  "n": 309,
+  "file": "309-all-mixed-up.md",
+  "title": "All Mixed Up",
+  "essays": [
+   "11480"
+  ],
+  "published_share": 0.99
+ },
+ {
+  "n": 310,
+  "file": "310-twin-cities-of-zion-and-jerusalem.md",
+  "title": "Twin Cities of Zion and Jerusalem",
+  "essays": [
+   "7874"
+  ],
+  "published_share": 0.73
+ },
+ {
+  "n": 311,
+  "file": "311-remembering-the-wall.md",
+  "title": "Remembering the Wall",
+  "essays": [
+   "11898",
+   "8373",
+   "9992"
+  ],
+  "published_share": 0.95
+ },
+ {
+  "n": 312,
+  "file": "312-ways-and-means.md",
+  "title": "Ways and Means",
+  "essays": [
+   "9368",
+   "7893",
+   "7917"
+  ],
+  "published_share": 0.83
+ },
+ {
+  "n": 313,
+  "file": "313-shake-quake.md",
+  "title": "Shake & Quake",
+  "essays": [
+   "11526",
+   "11544",
+   "11527"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 314,
+  "file": "314-divine-dictator-or-populist-king.md",
+  "title": "Divine Dictator or Populist King",
+  "essays": [
+   "6893"
+  ],
+  "published_share": 0.61
+ },
+ {
+  "n": 315,
+  "file": "315-degrees-of-sin.md",
+  "title": "Degrees of Sin",
+  "essays": [
+   "7940"
+  ],
+  "published_share": 0.79
+ },
+ {
+  "n": 316,
+  "file": "316-forms-of-forgiveness.md",
+  "title": "Forms of Forgiveness",
+  "essays": [
+   "8400",
+   "8422",
+   "9513"
+  ],
+  "published_share": 0.54
+ },
+ {
+  "n": 317,
+  "file": "317-an-utter-embarrassment.md",
+  "title": "An Utter Embarrassment",
+  "essays": [
+   "9907",
+   "11594"
+  ],
+  "published_share": 0.98
+ },
+ {
+  "n": 318,
+  "file": "318-the-shofars-horn.md",
+  "title": "The Shofar’s Horn",
+  "essays": [
+   "9992",
+   "10060",
+   "8439"
+  ],
+  "published_share": 1.51
+ },
+ {
+  "n": 319,
+  "file": "319-the-beautiful-citron.md",
+  "title": "The Beautiful Citron",
+  "essays": [
+   "10130",
+   "10055"
+  ],
+  "published_share": 0.93
+ },
+ {
+  "n": 320,
+  "file": "320-chair-of-thrones.md",
+  "title": "Chair of Thrones",
+  "essays": [
+   "10930"
+  ],
+  "published_share": 0.98
+ }
+]

@@ -1,0 +1,3212 @@
+[
+ {
+  "n": 0,
+  "file": "000-front-matter.md",
+  "title": "(front matter)",
+  "section": "",
+  "parsha": "",
+  "wiaw": null,
+  "words": 1497,
+  "footnotes": 0
+ },
+ {
+  "n": 1,
+  "file": "001-from-before.md",
+  "title": "From Before",
+  "section": "TO DO",
+  "parsha": "",
+  "wiaw": null,
+  "words": 0,
+  "footnotes": 0
+ },
+ {
+  "n": 2,
+  "file": "002-cities-of-egypt.md",
+  "title": "Cities of Egypt",
+  "section": "TO DO",
+  "parsha": "",
+  "wiaw": null,
+  "words": 105,
+  "footnotes": 0
+ },
+ {
+  "n": 3,
+  "file": "003-flying-sparks.md",
+  "title": "Flying Sparks",
+  "section": "TO DO",
+  "parsha": "",
+  "wiaw": null,
+  "words": 878,
+  "footnotes": 1
+ },
+ {
+  "n": 4,
+  "file": "004-in-the-beginning.md",
+  "title": "In the Beginning…",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "wiaw": 11562,
+  "words": 8463,
+  "footnotes": 3
+ },
+ {
+  "n": 5,
+  "file": "005-be-a-man.md",
+  "title": "Be a Man",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "wiaw": null,
+  "words": 1635,
+  "footnotes": 1
+ },
+ {
+  "n": 6,
+  "file": "006-enter-the-garden.md",
+  "title": "Enter the Garden",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "wiaw": 11106,
+  "words": 4121,
+  "footnotes": 1
+ },
+ {
+  "n": 7,
+  "file": "007-the-shiloach-waters.md",
+  "title": "The Shiloach Waters",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "wiaw": 11019,
+  "words": 1965,
+  "footnotes": 1
+ },
+ {
+  "n": 8,
+  "file": "008-sleepy-words.md",
+  "title": "Sleepy Words",
+  "section": "Sefer Bereishis",
+  "parsha": "Bereishis",
+  "wiaw": 11120,
+  "words": 3988,
+  "footnotes": 1
+ },
+ {
+  "n": 9,
+  "file": "009-the-sword-of-methusaleh.md",
+  "title": "The Sword of Methusaleh",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "wiaw": null,
+  "words": 1125,
+  "footnotes": 1
+ },
+ {
+  "n": 10,
+  "file": "010-a-tale-of-two-arks.md",
+  "title": "A Tale of Two Arks",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "wiaw": 6943,
+  "words": 3029,
+  "footnotes": 2
+ },
+ {
+  "n": 11,
+  "file": "011-names-of-a-people.md",
+  "title": "Names of a People",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "wiaw": 7961,
+  "words": 941,
+  "footnotes": 0
+ },
+ {
+  "n": 12,
+  "file": "012-ashkenaz-and-teutonic-jews.md",
+  "title": "Ashkenaz and Teutonic Jews",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "wiaw": 11563,
+  "words": 2591,
+  "footnotes": 1
+ },
+ {
+  "n": 13,
+  "file": "013-the-princess-gaze.md",
+  "title": "The Princess’ Gaze",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "wiaw": 11581,
+  "words": 3254,
+  "footnotes": 1
+ },
+ {
+  "n": 14,
+  "file": "014-eighth-month.md",
+  "title": "Eighth Month",
+  "section": "Sefer Bereishis",
+  "parsha": "Noach",
+  "wiaw": 11123,
+  "words": 2586,
+  "footnotes": 1
+ },
+ {
+  "n": 15,
+  "file": "015-prime-property.md",
+  "title": "Prime Property",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "wiaw": 10695,
+  "words": 1956,
+  "footnotes": 1
+ },
+ {
+  "n": 16,
+  "file": "016-dirt-dust-and-ashes.md",
+  "title": "Dirt, Dust, and Ashes",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "wiaw": 8467,
+  "words": 1506,
+  "footnotes": 1
+ },
+ {
+  "n": 17,
+  "file": "017-seeking-completion.md",
+  "title": "Seeking Completion",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "wiaw": 9396,
+  "words": 1707,
+  "footnotes": 1
+ },
+ {
+  "n": 18,
+  "file": "018-a-laughing-matter.md",
+  "title": "A Laughing Matter",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "wiaw": 8903,
+  "words": 1558,
+  "footnotes": 1
+ },
+ {
+  "n": 19,
+  "file": "019-energizing-the-tired-and-exhausted.md",
+  "title": "Energizing the Tired and Exhausted",
+  "section": "Sefer Bereishis",
+  "parsha": "Lech Lecha",
+  "wiaw": 6774,
+  "words": 699,
+  "footnotes": 1
+ },
+ {
+  "n": 20,
+  "file": "020-seeing-is-believing.md",
+  "title": "Seeing is Believing",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "wiaw": 7463,
+  "words": 1203,
+  "footnotes": 1
+ },
+ {
+  "n": 21,
+  "file": "021-be-my-guest.md",
+  "title": "Be My Guest",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "wiaw": 10698,
+  "words": 1793,
+  "footnotes": 1
+ },
+ {
+  "n": 22,
+  "file": "022-where-are-you.md",
+  "title": "Where Are You?",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "wiaw": 8478,
+  "words": 1014,
+  "footnotes": 1
+ },
+ {
+  "n": 23,
+  "file": "023-the-man-with-enough-light.md",
+  "title": "The Man with Enough Light",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "wiaw": 7974,
+  "words": 1037,
+  "footnotes": 1
+ },
+ {
+  "n": 24,
+  "file": "024-getting-pushy.md",
+  "title": "Getting Pushy",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "wiaw": 11128,
+  "words": 2464,
+  "footnotes": 1
+ },
+ {
+  "n": 25,
+  "file": "025-words-for-words.md",
+  "title": "Words for Words",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "wiaw": 9405,
+  "words": 1628,
+  "footnotes": 1
+ },
+ {
+  "n": 26,
+  "file": "026-elephants-galore.md",
+  "title": "Elephants Galore",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayera",
+  "wiaw": 8913,
+  "words": 3020,
+  "footnotes": 2
+ },
+ {
+  "n": 27,
+  "file": "027-take-a-bow.md",
+  "title": "Take a Bow",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "wiaw": null,
+  "words": 987,
+  "footnotes": 1
+ },
+ {
+  "n": 28,
+  "file": "028-the-old-man-and-the-see.md",
+  "title": "The Old Man and the See",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "wiaw": 8487,
+  "words": 1880,
+  "footnotes": 1
+ },
+ {
+  "n": 29,
+  "file": "029-maybe-yes-maybe-no.md",
+  "title": "Maybe Yes, Maybe No",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "wiaw": 7483,
+  "words": 1392,
+  "footnotes": 1
+ },
+ {
+  "n": 30,
+  "file": "030-take-a-drink.md",
+  "title": "Take a Drink",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "wiaw": 10709,
+  "words": 2067,
+  "footnotes": 1
+ },
+ {
+  "n": 31,
+  "file": "031-all-wrapped-up.md",
+  "title": "All Wrapped Up",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "wiaw": 11584,
+  "words": 2035,
+  "footnotes": 1
+ },
+ {
+  "n": 32,
+  "file": "032-true-love.md",
+  "title": "True Love",
+  "section": "Sefer Bereishis",
+  "parsha": "Chayei Sarah",
+  "wiaw": 10983,
+  "words": 4981,
+  "footnotes": 1
+ },
+ {
+  "n": 33,
+  "file": "033-the-unaffiliated-nations.md",
+  "title": "The Unaffiliated Nations",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "wiaw": 7491,
+  "words": 1587,
+  "footnotes": 1
+ },
+ {
+  "n": 34,
+  "file": "034-noble-clothes.md",
+  "title": "Noble Clothes",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "wiaw": 11594,
+  "words": 3543,
+  "footnotes": 1
+ },
+ {
+  "n": 35,
+  "file": "035-boys-and-girls.md",
+  "title": "Boys and Girls",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "wiaw": null,
+  "words": 3879,
+  "footnotes": 1
+ },
+ {
+  "n": 36,
+  "file": "036-disgraceful-disparagement.md",
+  "title": "Disgraceful Disparagement",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "wiaw": 9428,
+  "words": 1408,
+  "footnotes": 1
+ },
+ {
+  "n": 37,
+  "file": "037-the-doers-and-fighters.md",
+  "title": "The Doers and Fighters",
+  "section": "Sefer Bereishis",
+  "parsha": "Toldos",
+  "wiaw": 10720,
+  "words": 1841,
+  "footnotes": 0
+ },
+ {
+  "n": 38,
+  "file": "038-like-a-rock.md",
+  "title": "Like a Rock",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "wiaw": null,
+  "words": 3094,
+  "footnotes": 3
+ },
+ {
+  "n": 39,
+  "file": "039-name-of-the-plain.md",
+  "title": "Name of the Plain",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "wiaw": 11608,
+  "words": 2330,
+  "footnotes": 1
+ },
+ {
+  "n": 40,
+  "file": "040-gad-luck-to-you.md",
+  "title": "Gad Luck to You",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "wiaw": 10730,
+  "words": 2481,
+  "footnotes": 1
+ },
+ {
+  "n": 41,
+  "file": "041-castle-in-the-sky.md",
+  "title": "Castle in the Sky",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "wiaw": 8941,
+  "words": 1789,
+  "footnotes": 1
+ },
+ {
+  "n": 42,
+  "file": "042-the-ovine-and-caprine-families.md",
+  "title": "The Ovine and Caprine Families",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeitzei",
+  "wiaw": 8505,
+  "words": 5516,
+  "footnotes": 3
+ },
+ {
+  "n": 43,
+  "file": "043-angels-and-agents.md",
+  "title": "Angels and Agents",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "wiaw": 7512,
+  "words": 1104,
+  "footnotes": 4
+ },
+ {
+  "n": 44,
+  "file": "044-good-morning-sunshine.md",
+  "title": "Good Morning Sunshine",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "wiaw": 8518,
+  "words": 1369,
+  "footnotes": 1
+ },
+ {
+  "n": 45,
+  "file": "045-the-gift-of-giving.md",
+  "title": "The Gift of Giving",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "wiaw": 7982,
+  "words": 1404,
+  "footnotes": 2
+ },
+ {
+  "n": 46,
+  "file": "046-go-camel.md",
+  "title": "Go Camel",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "wiaw": 11619,
+  "words": 3109,
+  "footnotes": 1
+ },
+ {
+  "n": 47,
+  "file": "047-family-matters.md",
+  "title": "Family Matters",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "wiaw": 9448,
+  "words": 2063,
+  "footnotes": 1
+ },
+ {
+  "n": 48,
+  "file": "048-playing-with-fire.md",
+  "title": "Playing with Fire",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "wiaw": 8007,
+  "words": 1161,
+  "footnotes": 0
+ },
+ {
+  "n": 49,
+  "file": "049-saving-survivors.md",
+  "title": "Saving Survivors",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayishlach",
+  "wiaw": 11148,
+  "words": 2677,
+  "footnotes": 1
+ },
+ {
+  "n": 50,
+  "file": "050-the-amazing-multi-named-joseph.md",
+  "title": "The Amazing Multi-Named Joseph",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeshev",
+  "wiaw": 10750,
+  "words": 2104,
+  "footnotes": 1
+ },
+ {
+  "n": 51,
+  "file": "051-lost-or-mistaken.md",
+  "title": "Lost or Mistaken",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeshev",
+  "wiaw": 7804,
+  "words": 1032,
+  "footnotes": 1
+ },
+ {
+  "n": 52,
+  "file": "052-a-real-toss-up.md",
+  "title": "A Real Toss Up",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeshev",
+  "wiaw": 8528,
+  "words": 1594,
+  "footnotes": 1
+ },
+ {
+  "n": 53,
+  "file": "053-mercantile-man.md",
+  "title": "Mercantile Man",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayeshev",
+  "wiaw": 11160,
+  "words": 2493,
+  "footnotes": 1
+ },
+ {
+  "n": 54,
+  "file": "054-wake-up-time.md",
+  "title": "Wake-up Time",
+  "section": "Sefer Bereishis",
+  "parsha": "Miketz",
+  "wiaw": 9473,
+  "words": 1686,
+  "footnotes": 1
+ },
+ {
+  "n": 55,
+  "file": "055-say-it-clear.md",
+  "title": "Say it Clear",
+  "section": "Sefer Bereishis",
+  "parsha": "Miketz",
+  "wiaw": 11178,
+  "words": 4737,
+  "footnotes": 1
+ },
+ {
+  "n": 56,
+  "file": "056-famishing-famines.md",
+  "title": "Famishing Famines",
+  "section": "Sefer Bereishis",
+  "parsha": "Miketz",
+  "wiaw": 10761,
+  "words": 1690,
+  "footnotes": 1
+ },
+ {
+  "n": 57,
+  "file": "057-slaughtering-and-butchering.md",
+  "title": "Slaughtering and Butchering",
+  "section": "Sefer Bereishis",
+  "parsha": "Miketz",
+  "wiaw": 8023,
+  "words": 3036,
+  "footnotes": 2
+ },
+ {
+  "n": 58,
+  "file": "058-all-tied-up.md",
+  "title": "All Tied Up",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayigash",
+  "wiaw": 10970,
+  "words": 2276,
+  "footnotes": 1
+ },
+ {
+  "n": 59,
+  "file": "059-on-misers-and-cheapskates.md",
+  "title": "On Misers and Cheapskates",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayigash",
+  "wiaw": 9734,
+  "words": 2206,
+  "footnotes": 1
+ },
+ {
+  "n": 60,
+  "file": "060-speaking-in-tongues.md",
+  "title": "Speaking in Tongues",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayigash",
+  "wiaw": 7548,
+  "words": 945,
+  "footnotes": 0
+ },
+ {
+  "n": 61,
+  "file": "061-a-biblical-feast.md",
+  "title": "A Biblical Feast",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayigash",
+  "wiaw": 8546,
+  "words": 1291,
+  "footnotes": 1
+ },
+ {
+  "n": 62,
+  "file": "062-jacobs-three-names.md",
+  "title": "Jacob’s Three Names",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "wiaw": 8553,
+  "words": 1516,
+  "footnotes": 1
+ },
+ {
+  "n": 63,
+  "file": "063-shouldering-the-burden.md",
+  "title": "Shouldering the Burden",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "wiaw": 7562,
+  "words": 891,
+  "footnotes": 1
+ },
+ {
+  "n": 64,
+  "file": "064-say-your-prayers.md",
+  "title": "Say your Prayers",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "wiaw": 7090,
+  "words": 680,
+  "footnotes": 1
+ },
+ {
+  "n": 65,
+  "file": "065-crouching-lion-hidden-blessing.md",
+  "title": "Crouching Lion, Hidden Blessing",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "wiaw": 8039,
+  "words": 1491,
+  "footnotes": 1
+ },
+ {
+  "n": 66,
+  "file": "066-through-the-grapevine.md",
+  "title": "Through the Grapevine",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "wiaw": 9491,
+  "words": 2190,
+  "footnotes": 4
+ },
+ {
+  "n": 67,
+  "file": "067-white-is-light.md",
+  "title": "White is Light",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "wiaw": 11188,
+  "words": 3497,
+  "footnotes": 1
+ },
+ {
+  "n": 68,
+  "file": "068-boats-ships-and-nautical-rhapsody.md",
+  "title": "Boats, Ships, and Nautical Rhapsody",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "wiaw": 8991,
+  "words": 1854,
+  "footnotes": 1
+ },
+ {
+  "n": 69,
+  "file": "069-good-and-pleasant.md",
+  "title": "Good and Pleasant",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "wiaw": 11655,
+  "words": 2464,
+  "footnotes": 1
+ },
+ {
+  "n": 70,
+  "file": "070-them-bones-and-themselves.md",
+  "title": "Them Bones and Themselves",
+  "section": "Sefer Bereishis",
+  "parsha": "Vayechi",
+  "wiaw": 10785,
+  "words": 2307,
+  "footnotes": 1
+ },
+ {
+  "n": 71,
+  "file": "071-olives-and-oil.md",
+  "title": "Olives and Oil",
+  "section": "Chanuka",
+  "parsha": "",
+  "wiaw": 7061,
+  "words": 1163,
+  "footnotes": 1
+ },
+ {
+  "n": 72,
+  "file": "072-around-in-concentric-circles.md",
+  "title": "Around in Concentric Circles",
+  "section": "Chanuka",
+  "parsha": "",
+  "wiaw": 7530,
+  "words": 1096,
+  "footnotes": 1
+ },
+ {
+  "n": 73,
+  "file": "073-holy-priests-vs-unholy-priests.md",
+  "title": "Holy Priests vs. Unholy Priests",
+  "section": "Chanuka",
+  "parsha": "",
+  "wiaw": 8529,
+  "words": 2801,
+  "footnotes": 2
+ },
+ {
+  "n": 74,
+  "file": "074-to-be-a-wise-guy.md",
+  "title": "To Be a Wise Guy",
+  "section": "Chanuka",
+  "parsha": "",
+  "wiaw": 8969,
+  "words": 3145,
+  "footnotes": 1
+ },
+ {
+  "n": 75,
+  "file": "075-seeking-salvation.md",
+  "title": "Seeking Salvation",
+  "section": "Chanuka",
+  "parsha": "",
+  "wiaw": 9464,
+  "words": 1254,
+  "footnotes": 1
+ },
+ {
+  "n": 76,
+  "file": "076-cans-of-oil.md",
+  "title": "Cans of Oil",
+  "section": "Chanuka",
+  "parsha": "",
+  "wiaw": 10751,
+  "words": 2132,
+  "footnotes": 1
+ },
+ {
+  "n": 77,
+  "file": "077-the-hebrew-hammers.md",
+  "title": "The Hebrew Hammers",
+  "section": "Chanuka",
+  "parsha": "",
+  "wiaw": 11634,
+  "words": 4672,
+  "footnotes": 3
+ },
+ {
+  "n": 78,
+  "file": "078-the-pharaoh-and-the-king.md",
+  "title": "The Pharaoh and the King",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "wiaw": 7572,
+  "words": 1335,
+  "footnotes": 1
+ },
+ {
+  "n": 79,
+  "file": "079-a-panoply-of-canopies.md",
+  "title": "A Panoply of Canopies",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "wiaw": 7103,
+  "words": 2800,
+  "footnotes": 2
+ },
+ {
+  "n": 80,
+  "file": "080-moses-many-names.md",
+  "title": "Moses’ Many Names",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "wiaw": 9503,
+  "words": 1795,
+  "footnotes": 1
+ },
+ {
+  "n": 81,
+  "file": "081-prophets-and-visionaries.md",
+  "title": "Prophets and Visionaries",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "wiaw": 8052,
+  "words": 1371,
+  "footnotes": 1
+ },
+ {
+  "n": 82,
+  "file": "082-here-we-go.md",
+  "title": "Here we go",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "wiaw": 11665,
+  "words": 2541,
+  "footnotes": 1
+ },
+ {
+  "n": 83,
+  "file": "083-drawing-water.md",
+  "title": "Drawing Water",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "wiaw": 10786,
+  "words": 2098,
+  "footnotes": 1
+ },
+ {
+  "n": 84,
+  "file": "084-pulling-drawing.md",
+  "title": "Pulling & Drawing",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "wiaw": 11200,
+  "words": 2875,
+  "footnotes": 1
+ },
+ {
+  "n": 85,
+  "file": "085-my-dear-deer.md",
+  "title": "My Dear Deer",
+  "section": "Shemos",
+  "parsha": "Shemos",
+  "wiaw": 8563,
+  "words": 1536,
+  "footnotes": 1
+ },
+ {
+  "n": 86,
+  "file": "086-the-trick-of-magi.md",
+  "title": "The Trick of Magi",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "wiaw": 10804,
+  "words": 2198,
+  "footnotes": 0
+ },
+ {
+  "n": 87,
+  "file": "087-the-vertically-challenged.md",
+  "title": "The Vertically-Challenged",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "wiaw": 11205,
+  "words": 1716,
+  "footnotes": 0
+ },
+ {
+  "n": 88,
+  "file": "088-plague-of-plagues.md",
+  "title": "Plague of Plagues",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "wiaw": 7579,
+  "words": 1143,
+  "footnotes": 1
+ },
+ {
+  "n": 89,
+  "file": "089-marshes-marshes-marshes.md",
+  "title": "Marshes, Marshes, Marshes",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "wiaw": 9031,
+  "words": 1049,
+  "footnotes": 1
+ },
+ {
+  "n": 90,
+  "file": "090-down-by-the-river.md",
+  "title": "Down by the River",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "wiaw": 8076,
+  "words": 953,
+  "footnotes": 1
+ },
+ {
+  "n": 91,
+  "file": "091-lice-aint-nice.md",
+  "title": "Lice Ain’t Nice",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "wiaw": 11666,
+  "words": 2094,
+  "footnotes": 1
+ },
+ {
+  "n": 92,
+  "file": "092-just-because.md",
+  "title": "Just Because",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "wiaw": 7110,
+  "words": 903,
+  "footnotes": 1
+ },
+ {
+  "n": 93,
+  "file": "093-stop-it.md",
+  "title": "Stop It!",
+  "section": "Shemos",
+  "parsha": "Vaera",
+  "wiaw": 9513,
+  "words": 2148,
+  "footnotes": 1
+ },
+ {
+  "n": 94,
+  "file": "094-come-to-pharaoh.md",
+  "title": "Come To Pharaoh",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "wiaw": 9039,
+  "words": 1360,
+  "footnotes": 1
+ },
+ {
+  "n": 95,
+  "file": "095-army-of-grasshoppers.md",
+  "title": "Army of Grasshoppers",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "wiaw": 7592,
+  "words": 1122,
+  "footnotes": 1
+ },
+ {
+  "n": 96,
+  "file": "096-put-in-place.md",
+  "title": "Put in Place",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "wiaw": 9523,
+  "words": 1880,
+  "footnotes": 1
+ },
+ {
+  "n": 97,
+  "file": "097-please-stand-up.md",
+  "title": "Please Stand Up",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "wiaw": 10810,
+  "words": 1831,
+  "footnotes": 1
+ },
+ {
+  "n": 98,
+  "file": "098-the-sign-is-coming.md",
+  "title": "The Sign is Coming…",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "wiaw": 8085,
+  "words": 1440,
+  "footnotes": 1
+ },
+ {
+  "n": 99,
+  "file": "099-turning-off-the-lights.md",
+  "title": "Turning off the Lights",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "wiaw": 7123,
+  "words": 891,
+  "footnotes": 1
+ },
+ {
+  "n": 100,
+  "file": "100-follow-the-leader.md",
+  "title": "Follow the Leader",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "wiaw": 11678,
+  "words": 3755,
+  "footnotes": 1
+ },
+ {
+  "n": 101,
+  "file": "101-thats-a-flogging.md",
+  "title": "That’s a Flogging",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "wiaw": 8584,
+  "words": 1213,
+  "footnotes": 1
+ },
+ {
+  "n": 102,
+  "file": "102-filling-your-phylacteries.md",
+  "title": "Filling your Phylacteries",
+  "section": "Shemos",
+  "parsha": "Bo",
+  "wiaw": 11218,
+  "words": 2535,
+  "footnotes": 1
+ },
+ {
+  "n": 103,
+  "file": "103-armed-and-ready.md",
+  "title": "Armed and Ready",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "wiaw": 11613,
+  "words": 2651,
+  "footnotes": 1
+ },
+ {
+  "n": 104,
+  "file": "104-cut-it-out.md",
+  "title": "Cut it out!",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "wiaw": 8107,
+  "words": 2702,
+  "footnotes": 1
+ },
+ {
+  "n": 105,
+  "file": "105-afraid-of-fright-or-ready-to-fight.md",
+  "title": "Afraid of Fright or Ready to Fight",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "wiaw": 7018,
+  "words": 709,
+  "footnotes": 1
+ },
+ {
+  "n": 106,
+  "file": "106-piles-and-piles.md",
+  "title": "Piles and Piles",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "wiaw": 9534,
+  "words": 3288,
+  "footnotes": 2
+ },
+ {
+  "n": 107,
+  "file": "107-sweet-and-pleasant.md",
+  "title": "Sweet and Pleasant",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "wiaw": 7611,
+  "words": 1046,
+  "footnotes": 1
+ },
+ {
+  "n": 108,
+  "file": "108-the-wormy-place.md",
+  "title": "The Wormy Place",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "wiaw": 11902,
+  "words": 2720,
+  "footnotes": 1
+ },
+ {
+  "n": 109,
+  "file": "109-through-the-looking-window.md",
+  "title": "Through the Looking Window",
+  "section": "Shemos",
+  "parsha": "Bishalach",
+  "wiaw": 9056,
+  "words": 3651,
+  "footnotes": 2
+ },
+ {
+  "n": 110,
+  "file": "110-g-ds-best-friend.md",
+  "title": "G-d’s Best Friend",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "wiaw": 7620,
+  "words": 1260,
+  "footnotes": 1
+ },
+ {
+  "n": 111,
+  "file": "111-heat-with-the-in-laws.md",
+  "title": "Heat with the In-laws",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "wiaw": 8605,
+  "words": 1325,
+  "footnotes": 1
+ },
+ {
+  "n": 112,
+  "file": "112-just-winging-it.md",
+  "title": "Just Winging It",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "wiaw": 9070,
+  "words": 1524,
+  "footnotes": 1
+ },
+ {
+  "n": 113,
+  "file": "113-laundering-and-cleaning.md",
+  "title": "Laundering and Cleaning",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "wiaw": 9544,
+  "words": 1963,
+  "footnotes": 1
+ },
+ {
+  "n": 114,
+  "file": "114-myself-and-i.md",
+  "title": "Myself and I",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "wiaw": 7144,
+  "words": 1229,
+  "footnotes": 1
+ },
+ {
+  "n": 115,
+  "file": "115-murder-he-wrote.md",
+  "title": "Murder He Wrote",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "wiaw": 10820,
+  "words": 2190,
+  "footnotes": 1
+ },
+ {
+  "n": 116,
+  "file": "116-write-it-down.md",
+  "title": "Write it down",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "wiaw": 11687,
+  "words": 2624,
+  "footnotes": 1
+ },
+ {
+  "n": 117,
+  "file": "117-stairs-to-above.md",
+  "title": "Stairs to Above",
+  "section": "Shemos",
+  "parsha": "Yisro",
+  "wiaw": 11245,
+  "words": 1812,
+  "footnotes": 0
+ },
+ {
+  "n": 118,
+  "file": "118-forever-and-ever.md",
+  "title": "Forever and Ever",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "wiaw": 7633,
+  "words": 1360,
+  "footnotes": 1
+ },
+ {
+  "n": 119,
+  "file": "119-the-handmaids-deal.md",
+  "title": "The Handmaid’s Deal",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "wiaw": 8120,
+  "words": 1144,
+  "footnotes": 1
+ },
+ {
+  "n": 120,
+  "file": "120-feeding-the-lie.md",
+  "title": "Feeding the Lie",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "wiaw": 9080,
+  "words": 1459,
+  "footnotes": 1
+ },
+ {
+  "n": 121,
+  "file": "121-stealing-and-robbing.md",
+  "title": "Stealing and Robbing",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "wiaw": 8613,
+  "words": 1554,
+  "footnotes": 1
+ },
+ {
+  "n": 122,
+  "file": "122-boorish-animals.md",
+  "title": "Boorish Animals",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "wiaw": 10832,
+  "words": 1804,
+  "footnotes": 1
+ },
+ {
+  "n": 123,
+  "file": "123-hidden-things.md",
+  "title": "Hidden Things",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "wiaw": 11696,
+  "words": 2437,
+  "footnotes": 1
+ },
+ {
+  "n": 124,
+  "file": "124-bruisers-and-bleeders.md",
+  "title": "Bruisers and Bleeders",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "wiaw": 11252,
+  "words": 1965,
+  "footnotes": 1
+ },
+ {
+  "n": 125,
+  "file": "125-digging-deeper.md",
+  "title": "Digging Deeper",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "wiaw": 9554,
+  "words": 2027,
+  "footnotes": 1
+ },
+ {
+  "n": 126,
+  "file": "126-rabbi-of-robbers.md",
+  "title": "Rabbi of Robbers",
+  "section": "Shemos",
+  "parsha": "Mishpatim",
+  "wiaw": 7153,
+  "words": 837,
+  "footnotes": 1
+ },
+ {
+  "n": 127,
+  "file": "127-sacred-spaces.md",
+  "title": "Sacred Spaces",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "wiaw": 7164,
+  "words": 935,
+  "footnotes": 0
+ },
+ {
+  "n": 128,
+  "file": "128-a-table-for-thee.md",
+  "title": "A Table for Thee",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "wiaw": 11261,
+  "words": 2248,
+  "footnotes": 1
+ },
+ {
+  "n": 129,
+  "file": "129-color-me.md",
+  "title": "Color Me",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "wiaw": 11705,
+  "words": 3015,
+  "footnotes": 1
+ },
+ {
+  "n": 130,
+  "file": "130-raise-the-curtain.md",
+  "title": "Raise the Curtain",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "wiaw": 8157,
+  "words": 1093,
+  "footnotes": 1
+ },
+ {
+  "n": 131,
+  "file": "131-cherubic-children-and-other-angels.md",
+  "title": "Cherubic Children and Other Angels",
+  "section": "Shemos",
+  "parsha": "Terumah",
+  "wiaw": 8129,
+  "words": 1456,
+  "footnotes": 2
+ },
+ {
+  "n": 132,
+  "file": "132-foreheads-and-fadihot.md",
+  "title": "Foreheads and Fadihot",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "wiaw": 8622,
+  "words": 1362,
+  "footnotes": 1
+ },
+ {
+  "n": 133,
+  "file": "133-the-true-blue.md",
+  "title": "The True Blue",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "wiaw": 8167,
+  "words": 1149,
+  "footnotes": 1
+ },
+ {
+  "n": 134,
+  "file": "134-the-color-purple.md",
+  "title": "The Color Purple",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "wiaw": 9575,
+  "words": 1936,
+  "footnotes": 1
+ },
+ {
+  "n": 135,
+  "file": "135-hats-and-belts.md",
+  "title": "Hats and Belts",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "wiaw": 7195,
+  "words": 1052,
+  "footnotes": 1
+ },
+ {
+  "n": 136,
+  "file": "136-is-cotton-a-type-of-linen.md",
+  "title": "Is Cotton a Type of Linen?",
+  "section": "Shemos",
+  "parsha": "Titzaveh",
+  "wiaw": 8140,
+  "words": 1355,
+  "footnotes": 2
+ },
+ {
+  "n": 137,
+  "file": "137-better-late-than.md",
+  "title": "Better Late Than…",
+  "section": "Shemos",
+  "parsha": "Ki Sisa",
+  "wiaw": 8644,
+  "words": 1322,
+  "footnotes": 1
+ },
+ {
+  "n": 138,
+  "file": "138-awesome-balsam.md",
+  "title": "Awesome Balsam",
+  "section": "Shemos",
+  "parsha": "Ki Sisa",
+  "wiaw": 10824,
+  "words": 2229,
+  "footnotes": 1
+ },
+ {
+  "n": 139,
+  "file": "139-why-which-why.md",
+  "title": "Why? Which why?",
+  "section": "Shemos",
+  "parsha": "Ki Sisa",
+  "wiaw": 7039,
+  "words": 853,
+  "footnotes": 1
+ },
+ {
+  "n": 140,
+  "file": "140-mercy-or-pity.md",
+  "title": "Mercy or Pity",
+  "section": "Shemos",
+  "parsha": "Ki Sisa",
+  "wiaw": 7679,
+  "words": 2581,
+  "footnotes": 2
+ },
+ {
+  "n": 141,
+  "file": "141-my-clothes-and-me.md",
+  "title": "My Clothes and Me",
+  "section": "Shemos",
+  "parsha": "Vayakhel",
+  "wiaw": 7658,
+  "words": 871,
+  "footnotes": 1
+ },
+ {
+  "n": 142,
+  "file": "142-solomons-seven-names.md",
+  "title": "Solomon’s Seven Names",
+  "section": "Shemos",
+  "parsha": "Vayakhel",
+  "wiaw": 8149,
+  "words": 1177,
+  "footnotes": 1
+ },
+ {
+  "n": 143,
+  "file": "143-on-hooks-and-hangers.md",
+  "title": "On Hooks and Hangers",
+  "section": "Shemos",
+  "parsha": "Pekudai",
+  "wiaw": 9565,
+  "words": 1349,
+  "footnotes": 1
+ },
+ {
+  "n": 144,
+  "file": "144-in-the-middle.md",
+  "title": "In the Middle",
+  "section": "Shemos",
+  "parsha": "Pekudai",
+  "wiaw": 9785,
+  "words": 2354,
+  "footnotes": 1
+ },
+ {
+  "n": 145,
+  "file": "145-turning-the-corner.md",
+  "title": "Turning the Corner",
+  "section": "Shemos",
+  "parsha": "Pekudai",
+  "wiaw": 10883,
+  "words": 3302,
+  "footnotes": 1
+ },
+ {
+  "n": 146,
+  "file": "146-crafty-artisans.md",
+  "title": "Crafty Artisans",
+  "section": "Shemos",
+  "parsha": "Pekudai",
+  "wiaw": 11298,
+  "words": 2189,
+  "footnotes": 1
+ },
+ {
+  "n": 147,
+  "file": "147-tree-words.md",
+  "title": "Tree Words",
+  "section": "Shemos",
+  "parsha": "Tu B’Shvat",
+  "wiaw": 7133,
+  "words": 1006,
+  "footnotes": 1
+ },
+ {
+  "n": 148,
+  "file": "148-the-beauty-of-adar.md",
+  "title": "The Beauty of Adar",
+  "section": "Shemos",
+  "parsha": "4 Parshiyos",
+  "wiaw": 7644,
+  "words": 3906,
+  "footnotes": 2
+ },
+ {
+  "n": 149,
+  "file": "149-parshas-zachor-remember-forever.md",
+  "title": "Parshas Zachor: Remember Forever",
+  "section": "Shemos",
+  "parsha": "4 Parshiyos",
+  "wiaw": 9110,
+  "words": 2276,
+  "footnotes": 3
+ },
+ {
+  "n": 150,
+  "file": "150-parshas-parah-seeing-red.md",
+  "title": "Parshas Parah: Seeing Red",
+  "section": "Shemos",
+  "parsha": "4 Parshiyos",
+  "wiaw": 11763,
+  "words": 6147,
+  "footnotes": 1
+ },
+ {
+  "n": 151,
+  "file": "151-parshas-hachodesh-old-month-versus-new-month.md",
+  "title": "Parshas HaChodesh: Old Month versus New Month",
+  "section": "Shemos",
+  "parsha": "4 Parshiyos",
+  "wiaw": 7687,
+  "words": 1154,
+  "footnotes": 1
+ },
+ {
+  "n": 152,
+  "file": "152-party-hardy.md",
+  "title": "Party Hardy",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 7176,
+  "words": 901,
+  "footnotes": 1
+ },
+ {
+  "n": 153,
+  "file": "153-playing-the-lottery.md",
+  "title": "Playing the Lottery",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 8181,
+  "words": 1427,
+  "footnotes": 1
+ },
+ {
+  "n": 154,
+  "file": "154-to-remain-silent.md",
+  "title": "To Remain Silent",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 8634,
+  "words": 1730,
+  "footnotes": 1
+ },
+ {
+  "n": 155,
+  "file": "155-fake-faces.md",
+  "title": "Fake Faces",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 9092,
+  "words": 1340,
+  "footnotes": 1
+ },
+ {
+  "n": 156,
+  "file": "156-heavy-honors.md",
+  "title": "Heavy Honors",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 11724,
+  "words": 2302,
+  "footnotes": 1
+ },
+ {
+  "n": 157,
+  "file": "157-between-books-and-scrolls.md",
+  "title": "Between Books and Scrolls",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 9581,
+  "words": 2740,
+  "footnotes": 1
+ },
+ {
+  "n": 158,
+  "file": "158-pick-your-poison.md",
+  "title": "Pick your Poison",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 9603,
+  "words": 7026,
+  "footnotes": 2
+ },
+ {
+  "n": 159,
+  "file": "159-speedy-horsepower.md",
+  "title": "Speedy Horsepower",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 10843,
+  "words": 8126,
+  "footnotes": 2
+ },
+ {
+  "n": 160,
+  "file": "160-do-the-din.md",
+  "title": "Do the Din",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 11715,
+  "words": 3372,
+  "footnotes": 1
+ },
+ {
+  "n": 161,
+  "file": "161-for-crying-out-loud.md",
+  "title": "For Crying Out Loud",
+  "section": "Shemos",
+  "parsha": "Purim",
+  "wiaw": 7655,
+  "words": 998,
+  "footnotes": 1
+ },
+ {
+  "n": 162,
+  "file": "162-freezing-cold.md",
+  "title": "Freezing Cold",
+  "section": "Vayikra",
+  "parsha": "Vayikra",
+  "wiaw": 9482,
+  "words": 1688,
+  "footnotes": 1
+ },
+ {
+  "n": 163,
+  "file": "163-running-on-willpower.md",
+  "title": "Running on Willpower",
+  "section": "Vayikra",
+  "parsha": "Vayikra",
+  "wiaw": 8573,
+  "words": 1361,
+  "footnotes": 1
+ },
+ {
+  "n": 164,
+  "file": "164-fowl-language-and-poultry.md",
+  "title": "Fowl Language and Poultry",
+  "section": "Vayikra",
+  "parsha": "Vayikra",
+  "wiaw": 7009,
+  "words": 1300,
+  "footnotes": 1
+ },
+ {
+  "n": 165,
+  "file": "165-the-kidneys-advisory.md",
+  "title": "The Kidneys Advisory",
+  "section": "Vayikra",
+  "parsha": "Vayikra",
+  "wiaw": 11307,
+  "words": 1973,
+  "footnotes": 1
+ },
+ {
+  "n": 166,
+  "file": "166-the-gorgeous-windpipe.md",
+  "title": "The Gorgeous Windpipe",
+  "section": "Vayikra",
+  "parsha": "Tzav",
+  "wiaw": 9745,
+  "words": 2248,
+  "footnotes": 1
+ },
+ {
+  "n": 167,
+  "file": "167-anatomy-of-a-soul.md",
+  "title": "Anatomy of a Soul",
+  "section": "Vayikra",
+  "parsha": "Tzav",
+  "wiaw": 8768,
+  "words": 2893,
+  "footnotes": 0
+ },
+ {
+  "n": 168,
+  "file": "168-the-chayah-and-yechidah.md",
+  "title": "The Chayah and Yechidah",
+  "section": "Vayikra",
+  "parsha": "Tzav",
+  "wiaw": 8779,
+  "words": 1514,
+  "footnotes": 1
+ },
+ {
+  "n": 169,
+  "file": "169-good-fat-bad-fat.md",
+  "title": "Good Fat, Bad Fat",
+  "section": "Vayikra",
+  "parsha": "Tzav",
+  "wiaw": 11314,
+  "words": 2125,
+  "footnotes": 1
+ },
+ {
+  "n": 170,
+  "file": "170-the-nosey-truth.md",
+  "title": "The Nosey Truth",
+  "section": "Vayikra",
+  "parsha": "Shemini",
+  "wiaw": 11327,
+  "words": 2741,
+  "footnotes": 1
+ },
+ {
+  "n": 171,
+  "file": "171-types-of-species.md",
+  "title": "Types of Species",
+  "section": "Vayikra",
+  "parsha": "Shemini",
+  "wiaw": 10897,
+  "words": 2409,
+  "footnotes": 1
+ },
+ {
+  "n": 172,
+  "file": "172-wet-words.md",
+  "title": "Wet Words",
+  "section": "Vayikra",
+  "parsha": "Shemini",
+  "wiaw": 11276,
+  "words": 2703,
+  "footnotes": 2
+ },
+ {
+  "n": 173,
+  "file": "173-dancing-away.md",
+  "title": "Dancing Away",
+  "section": "Vayikra",
+  "parsha": "Shemini",
+  "wiaw": 11784,
+  "words": 2229,
+  "footnotes": 1
+ },
+ {
+  "n": 174,
+  "file": "174-the-cutter.md",
+  "title": "The Cutter",
+  "section": "Vayikra",
+  "parsha": "Tazria",
+  "wiaw": 11342,
+  "words": 2219,
+  "footnotes": 1
+ },
+ {
+  "n": 175,
+  "file": "175-haircut-time.md",
+  "title": "Haircut Time",
+  "section": "Vayikra",
+  "parsha": "Tazria",
+  "wiaw": 9642,
+  "words": 2096,
+  "footnotes": 1
+ },
+ {
+  "n": 176,
+  "file": "176-spot-on-tzarat.md",
+  "title": "Spot on Tzar’at",
+  "section": "Vayikra",
+  "parsha": "Metzora",
+  "wiaw": 11793,
+  "words": 2955,
+  "footnotes": 1
+ },
+ {
+  "n": 177,
+  "file": "177-rule-of-thumb.md",
+  "title": "Rule of Thumb",
+  "section": "Vayikra",
+  "parsha": "Metzora",
+  "wiaw": null,
+  "words": 1317,
+  "footnotes": 1
+ },
+ {
+  "n": 178,
+  "file": "178-confronting-death.md",
+  "title": "Confronting Death",
+  "section": "Vayikra",
+  "parsha": "Acharei Mos",
+  "wiaw": 10907,
+  "words": 1531,
+  "footnotes": 1
+ },
+ {
+  "n": 179,
+  "file": "179-on-the-tombstone.md",
+  "title": "On the Tombstone",
+  "section": "Vayikra",
+  "parsha": "Acharei Mos",
+  "wiaw": 7730,
+  "words": 890,
+  "footnotes": 2
+ },
+ {
+  "n": 180,
+  "file": "180-say-uncle.md",
+  "title": "Say Uncle",
+  "section": "Vayikra",
+  "parsha": "Acharei Mos",
+  "wiaw": 9184,
+  "words": 1628,
+  "footnotes": 1
+ },
+ {
+  "n": 181,
+  "file": "181-karet-and-ariri.md",
+  "title": "Karet and Ariri",
+  "section": "Vayikra",
+  "parsha": "Acharei Mos",
+  "wiaw": 8271,
+  "words": 1258,
+  "footnotes": 1
+ },
+ {
+  "n": 182,
+  "file": "182-the-watchers-and-guardians.md",
+  "title": "The Watchers and Guardians",
+  "section": "Vayikra",
+  "parsha": "Kedoshim",
+  "wiaw": 11813,
+  "words": 2251,
+  "footnotes": 1
+ },
+ {
+  "n": 183,
+  "file": "183-burke-and-rebuke.md",
+  "title": "Burke and Rebuke",
+  "section": "Vayikra",
+  "parsha": "Kedoshim",
+  "wiaw": 7260,
+  "words": 754,
+  "footnotes": 1
+ },
+ {
+  "n": 184,
+  "file": "184-top-ten-words-for-idols.md",
+  "title": "Top Ten Words for Idols",
+  "section": "Vayikra",
+  "parsha": "Kedoshim",
+  "wiaw": 8198,
+  "words": 1106,
+  "footnotes": 0
+ },
+ {
+  "n": 185,
+  "file": "185-now-and-forthwith.md",
+  "title": "Now and Forthwith!",
+  "section": "Vayikra",
+  "parsha": "Kedoshim",
+  "wiaw": null,
+  "words": 1350,
+  "footnotes": 2
+ },
+ {
+  "n": 186,
+  "file": "186-a-window-into-widows.md",
+  "title": "A Window into Widows",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "wiaw": 11816,
+  "words": 3329,
+  "footnotes": 1
+ },
+ {
+  "n": 187,
+  "file": "187-rose-by-another-name.md",
+  "title": "Rose by Another Name",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "wiaw": 11391,
+  "words": 2428,
+  "footnotes": 1
+ },
+ {
+  "n": 188,
+  "file": "188-blemished-imperfections.md",
+  "title": "Blemished Imperfections",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "wiaw": 8696,
+  "words": 2249,
+  "footnotes": 1
+ },
+ {
+  "n": 189,
+  "file": "189-trends-in-time.md",
+  "title": "Trends in Time",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "wiaw": 7396,
+  "words": 1081,
+  "footnotes": 1
+ },
+ {
+  "n": 190,
+  "file": "190-getting-stoned.md",
+  "title": "Getting Stoned",
+  "section": "Vayikra",
+  "parsha": "Emor",
+  "wiaw": 10935,
+  "words": 8802,
+  "footnotes": 3
+ },
+ {
+  "n": 191,
+  "file": "191-trusting-and-relying-on-g-d.md",
+  "title": "Trusting and Relying on G-d",
+  "section": "Vayikra",
+  "parsha": "Behar",
+  "wiaw": 9877,
+  "words": 1678,
+  "footnotes": 1
+ },
+ {
+  "n": 192,
+  "file": "192-divorce-bills-and-other-documents.md",
+  "title": "Divorce Bills and other Documents",
+  "section": "Vayikra",
+  "parsha": "Behar",
+  "wiaw": 8704,
+  "words": 2337,
+  "footnotes": 1
+ },
+ {
+  "n": 193,
+  "file": "193-settled-citizens.md",
+  "title": "Settled Citizens",
+  "section": "Vayikra",
+  "parsha": "Behar",
+  "wiaw": 9199,
+  "words": 2215,
+  "footnotes": 1
+ },
+ {
+  "n": 194,
+  "file": "194-the-poor-and-unfortunate.md",
+  "title": "The Poor and Unfortunate",
+  "section": "Vayikra",
+  "parsha": "Behar",
+  "wiaw": 8245,
+  "words": 1559,
+  "footnotes": 1
+ },
+ {
+  "n": 195,
+  "file": "195-peace-and-quiet.md",
+  "title": "Peace and Quiet",
+  "section": "Vayikra",
+  "parsha": "Bechukosai",
+  "wiaw": 8816,
+  "words": 1565,
+  "footnotes": 2
+ },
+ {
+  "n": 196,
+  "file": "196-coincidence-or-happenstance.md",
+  "title": "Coincidence or Happenstance?",
+  "section": "Vayikra",
+  "parsha": "Bechukosai",
+  "wiaw": 11822,
+  "words": 2922,
+  "footnotes": 0
+ },
+ {
+  "n": 197,
+  "file": "197-all-about-money.md",
+  "title": "All About Money",
+  "section": "Vayikra",
+  "parsha": "Bechukosai",
+  "wiaw": 11394,
+  "words": 2753,
+  "footnotes": 1
+ },
+ {
+  "n": 198,
+  "file": "198-words-of-redemption.md",
+  "title": "Words of Redemption",
+  "section": "Vayikra",
+  "parsha": "Bechukosai",
+  "wiaw": 7742,
+  "words": 2437,
+  "footnotes": 2
+ },
+ {
+  "n": 199,
+  "file": "199-veggies-for-the-dipping.md",
+  "title": "Veggies for the Dipping",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "wiaw": 11353,
+  "words": 2254,
+  "footnotes": 0
+ },
+ {
+  "n": 200,
+  "file": "200-eating-cake.md",
+  "title": "Eating Cake",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "wiaw": 11363,
+  "words": 2071,
+  "footnotes": 1
+ },
+ {
+  "n": 201,
+  "file": "201-jumping-for-passover.md",
+  "title": "Jumping for Passover",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "wiaw": null,
+  "words": 1990,
+  "footnotes": 2
+ },
+ {
+  "n": 202,
+  "file": "202-escape-from-patros.md",
+  "title": "Escape from Patros",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "wiaw": 10890,
+  "words": 2754,
+  "footnotes": 1
+ },
+ {
+  "n": 203,
+  "file": "203-defining-freedom.md",
+  "title": "Defining Freedom",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "wiaw": 7707,
+  "words": 1663,
+  "footnotes": 2
+ },
+ {
+  "n": 204,
+  "file": "204-telling-the-story-part-1-2.md",
+  "title": "Telling the Story (Part 1/2)",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "wiaw": 8217,
+  "words": 1356,
+  "footnotes": 1
+ },
+ {
+  "n": 205,
+  "file": "205-telling-the-story-part-2-2.md",
+  "title": "Telling the Story (Part 2/2)",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "wiaw": 8217,
+  "words": 1500,
+  "footnotes": 2
+ },
+ {
+  "n": 206,
+  "file": "206-putting-pressure.md",
+  "title": "Putting Pressure",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "wiaw": 9658,
+  "words": 2119,
+  "footnotes": 1
+ },
+ {
+  "n": 207,
+  "file": "207-sing-and-song.md",
+  "title": "Sing and Song",
+  "section": "Vayikra",
+  "parsha": "Pesach",
+  "wiaw": 8681,
+  "words": 2121,
+  "footnotes": 1
+ },
+ {
+  "n": 208,
+  "file": "208-the-sickle-and-the-exile.md",
+  "title": "The Sickle and the Exile",
+  "section": "Vayikra",
+  "parsha": "Sefiras HaOmer",
+  "wiaw": 9153,
+  "words": 1509,
+  "footnotes": 1
+ },
+ {
+  "n": 209,
+  "file": "209-when-just-counting-doesnt-count.md",
+  "title": "When Just Counting Doesn’t Count",
+  "section": "Vayikra",
+  "parsha": "Sefiras HaOmer",
+  "wiaw": 7251,
+  "words": 1306,
+  "footnotes": 1
+ },
+ {
+  "n": 210,
+  "file": "210-boys-and-bars.md",
+  "title": "Boys and Bars",
+  "section": "Vayikra",
+  "parsha": "Sefiras HaOmer",
+  "wiaw": 8257,
+  "words": 1238,
+  "footnotes": 1
+ },
+ {
+  "n": 211,
+  "file": "211-the-shiny-month.md",
+  "title": "The Shiny Month",
+  "section": "Vayikra",
+  "parsha": "Sefiras HaOmer",
+  "wiaw": 11411,
+  "words": 2863,
+  "footnotes": 1
+ },
+ {
+  "n": 212,
+  "file": "212-bamidbar-out-in-the-wild.md",
+  "title": "Bamidbar: Out in the Wild",
+  "section": "Bamidbar",
+  "parsha": "Bamidbar",
+  "wiaw": 10940,
+  "words": 2266,
+  "footnotes": 1
+ },
+ {
+  "n": 213,
+  "file": "213-a-word-for-a-thought.md",
+  "title": "A Word for a Thought",
+  "section": "Bamidbar",
+  "parsha": "Bamidbar",
+  "wiaw": 7082,
+  "words": 676,
+  "footnotes": 1
+ },
+ {
+  "n": 214,
+  "file": "214-strange-aliens.md",
+  "title": "Strange Aliens",
+  "section": "Bamidbar",
+  "parsha": "Bamidbar",
+  "wiaw": 9192,
+  "words": 4034,
+  "footnotes": 2
+ },
+ {
+  "n": 215,
+  "file": "215-on-clouds.md",
+  "title": "On Clouds",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "wiaw": 8287,
+  "words": 1417,
+  "footnotes": 1
+ },
+ {
+  "n": 216,
+  "file": "216-razors-edge.md",
+  "title": "Razor’s Edge",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "wiaw": 7768,
+  "words": 685,
+  "footnotes": 0
+ },
+ {
+  "n": 217,
+  "file": "217-a-crown-is-a-crown.md",
+  "title": "A Crown is a Crown",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "wiaw": 6876,
+  "words": 1597,
+  "footnotes": 1
+ },
+ {
+  "n": 218,
+  "file": "218-a-variety-of-enemies.md",
+  "title": "A Variety of Enemies",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "wiaw": 6828,
+  "words": 1017,
+  "footnotes": 1
+ },
+ {
+  "n": 219,
+  "file": "219-running-away.md",
+  "title": "Running Away",
+  "section": "Bamidbar",
+  "parsha": "Naso",
+  "wiaw": 7779,
+  "words": 1024,
+  "footnotes": 1
+ },
+ {
+  "n": 220,
+  "file": "220-lift-wave.md",
+  "title": "Lift & Wave",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "wiaw": 11422,
+  "words": 2639,
+  "footnotes": 0
+ },
+ {
+  "n": 221,
+  "file": "221-deleterious-desires.md",
+  "title": "Deleterious Desires",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "wiaw": 7292,
+  "words": 1321,
+  "footnotes": 1
+ },
+ {
+  "n": 222,
+  "file": "222-chew-that.md",
+  "title": "Chew That",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "wiaw": 11831,
+  "words": 2294,
+  "footnotes": 1
+ },
+ {
+  "n": 223,
+  "file": "223-a-coriander-conundrum.md",
+  "title": "A Coriander Conundrum",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "wiaw": 8735,
+  "words": 1273,
+  "footnotes": 1
+ },
+ {
+  "n": 224,
+  "file": "224-fishy-words.md",
+  "title": "Fishy Words",
+  "section": "Bamidbar",
+  "parsha": "Behaloscha",
+  "wiaw": 9228,
+  "words": 3378,
+  "footnotes": 1
+ },
+ {
+  "n": 225,
+  "file": "225-message-on-a-pole.md",
+  "title": "Message on a Pole",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "wiaw": 11433,
+  "words": 3126,
+  "footnotes": 0
+ },
+ {
+  "n": 226,
+  "file": "226-of-corpses-and-carcasses.md",
+  "title": "Of Corpses and Carcasses",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "wiaw": 7788,
+  "words": 1046,
+  "footnotes": 1
+ },
+ {
+  "n": 227,
+  "file": "227-learning-the-ropes.md",
+  "title": "Learning the Ropes",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "wiaw": 10974,
+  "words": 2006,
+  "footnotes": 1
+ },
+ {
+  "n": 228,
+  "file": "228-spy-versus-spy.md",
+  "title": "Spy versus Spy",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "wiaw": 7302,
+  "words": 1360,
+  "footnotes": 1
+ },
+ {
+  "n": 229,
+  "file": "229-kneading-the-dough.md",
+  "title": "Kneading the Dough",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "wiaw": 8744,
+  "words": 1509,
+  "footnotes": 1
+ },
+ {
+  "n": 230,
+  "file": "230-growing-the-fringes.md",
+  "title": "Growing the Fringes",
+  "section": "Bamidbar",
+  "parsha": "Shelach",
+  "wiaw": 11856,
+  "words": 3056,
+  "footnotes": 1
+ },
+ {
+  "n": 231,
+  "file": "231-revolting-revolutions.md",
+  "title": "Revolting Revolutions",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "wiaw": 9245,
+  "words": 1758,
+  "footnotes": 1
+ },
+ {
+  "n": 232,
+  "file": "232-the-land-down-under.md",
+  "title": "The Land Down Under",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "wiaw": 7313,
+  "words": 1005,
+  "footnotes": 1
+ },
+ {
+  "n": 233,
+  "file": "233-names-of-the-underworld.md",
+  "title": "Names of the Underworld",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "wiaw": 8304,
+  "words": 1705,
+  "footnotes": 1
+ },
+ {
+  "n": 234,
+  "file": "234-all-about-hair.md",
+  "title": "All About Hair",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "wiaw": 8754,
+  "words": 1562,
+  "footnotes": 1
+ },
+ {
+  "n": 235,
+  "file": "235-the-one-and-only.md",
+  "title": "The One and Only",
+  "section": "Bamidbar",
+  "parsha": "Korach",
+  "wiaw": 10975,
+  "words": 2565,
+  "footnotes": 1
+ },
+ {
+  "n": 236,
+  "file": "236-out-in-public.md",
+  "title": "Out in Public",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "wiaw": 11449,
+  "words": 2248,
+  "footnotes": 0
+ },
+ {
+  "n": 237,
+  "file": "237-laws-and-orders.md",
+  "title": "Laws and Orders",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "wiaw": 8315,
+  "words": 1749,
+  "footnotes": 1
+ },
+ {
+  "n": 238,
+  "file": "238-let-them-eat-bread.md",
+  "title": "Let Them Eat Bread",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "wiaw": 7815,
+  "words": 1024,
+  "footnotes": 0
+ },
+ {
+  "n": 239,
+  "file": "239-the-right-site.md",
+  "title": "The Right Site",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "wiaw": 10994,
+  "words": 2038,
+  "footnotes": 1
+ },
+ {
+  "n": 240,
+  "file": "240-words-for-war.md",
+  "title": "Words for War",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "wiaw": 11889,
+  "words": 2600,
+  "footnotes": 0
+ },
+ {
+  "n": 241,
+  "file": "241-biblical-refuseniks.md",
+  "title": "Biblical Refuseniks",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "wiaw": 9254,
+  "words": 1488,
+  "footnotes": 1
+ },
+ {
+  "n": 242,
+  "file": "242-slithering-serpents-and-sea-snakes.md",
+  "title": "Slithering Serpents and Sea Snakes",
+  "section": "Bamidbar",
+  "parsha": "Chukas",
+  "wiaw": null,
+  "words": 1658,
+  "footnotes": 1
+ },
+ {
+  "n": 243,
+  "file": "243-lick-it-up.md",
+  "title": "Lick It Up",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "wiaw": 11448,
+  "words": 2018,
+  "footnotes": 1
+ },
+ {
+  "n": 244,
+  "file": "244-balaams-numa.md",
+  "title": "Balaam’s Numa",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "wiaw": 9266,
+  "words": 1669,
+  "footnotes": 1
+ },
+ {
+  "n": 245,
+  "file": "245-an-asinine-essay.md",
+  "title": "An Asinine Essay",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "wiaw": 11869,
+  "words": 3778,
+  "footnotes": 0
+ },
+ {
+  "n": 246,
+  "file": "246-are-you-really-with-me.md",
+  "title": "Are You Really “With Me”?",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "wiaw": 8323,
+  "words": 1555,
+  "footnotes": 1
+ },
+ {
+  "n": 247,
+  "file": "247-muzzled-up.md",
+  "title": "Muzzled Up",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "wiaw": 11006,
+  "words": 2718,
+  "footnotes": 1
+ },
+ {
+  "n": 248,
+  "file": "248-foot-festivals.md",
+  "title": "Foot Festivals",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "wiaw": 7828,
+  "words": 1004,
+  "footnotes": 1
+ },
+ {
+  "n": 249,
+  "file": "249-a-collection-of-curses.md",
+  "title": "A Collection of Curses",
+  "section": "Bamidbar",
+  "parsha": "Balak",
+  "wiaw": null,
+  "words": 1102,
+  "footnotes": 1
+ },
+ {
+  "n": 250,
+  "file": "250-performance-platforms.md",
+  "title": "Performance Platforms",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "wiaw": 11462,
+  "words": 2348,
+  "footnotes": 1
+ },
+ {
+  "n": 251,
+  "file": "251-piercing-spears.md",
+  "title": "Piercing Spears",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "wiaw": 11010,
+  "words": 2072,
+  "footnotes": 1
+ },
+ {
+  "n": 252,
+  "file": "252-a-heritage-of-inheritance.md",
+  "title": "A Heritage of Inheritance",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "wiaw": 7839,
+  "words": 903,
+  "footnotes": 1
+ },
+ {
+  "n": 253,
+  "file": "253-bovine-words-cows-and-cowboys.md",
+  "title": "Bovine Words: Cows and Cowboys",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "wiaw": 8333,
+  "words": 1586,
+  "footnotes": 1
+ },
+ {
+  "n": 254,
+  "file": "254-flour-power.md",
+  "title": "Flour Power",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "wiaw": 9275,
+  "words": 1514,
+  "footnotes": 1
+ },
+ {
+  "n": 255,
+  "file": "255-united-we-fast.md",
+  "title": "United We Fast",
+  "section": "Bamidbar",
+  "parsha": "Pinchas",
+  "wiaw": 7332,
+  "words": 1597,
+  "footnotes": 1
+ },
+ {
+  "n": 256,
+  "file": "256-tribesmen-stick-together.md",
+  "title": "Tribesmen Stick Together",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "wiaw": 7357,
+  "words": 1406,
+  "footnotes": 1
+ },
+ {
+  "n": 257,
+  "file": "257-of-oaths-and-promises.md",
+  "title": "Of Oaths and Promises",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "wiaw": 6963,
+  "words": 762,
+  "footnotes": 0
+ },
+ {
+  "n": 258,
+  "file": "258-null-and-void.md",
+  "title": "Null and Void",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "wiaw": 7851,
+  "words": 881,
+  "footnotes": 1
+ },
+ {
+  "n": 259,
+  "file": "259-welcome-to-rooster-city.md",
+  "title": "Welcome to Rooster City",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "wiaw": 9288,
+  "words": 1560,
+  "footnotes": 1
+ },
+ {
+  "n": 260,
+  "file": "260-wheres-the-gold.md",
+  "title": "Where’s the Gold?",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "wiaw": 8724,
+  "words": 2082,
+  "footnotes": 1
+ },
+ {
+  "n": 261,
+  "file": "261-heavy-taxes-and-empty-pockets.md",
+  "title": "Heavy Taxes and Empty Pockets",
+  "section": "Bamidbar",
+  "parsha": "Mattos",
+  "wiaw": 8339,
+  "words": 1373,
+  "footnotes": 1
+ },
+ {
+  "n": 262,
+  "file": "262-when-suddenly.md",
+  "title": "When Suddenly…",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "wiaw": 8790,
+  "words": 1809,
+  "footnotes": 1
+ },
+ {
+  "n": 263,
+  "file": "263-on-the-border.md",
+  "title": "On the Border",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "wiaw": 11471,
+  "words": 2184,
+  "footnotes": 1
+ },
+ {
+  "n": 264,
+  "file": "264-the-names-of-jericho.md",
+  "title": "The Names of Jericho",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "wiaw": 9795,
+  "words": 2089,
+  "footnotes": 1
+ },
+ {
+  "n": 265,
+  "file": "265-of-thorns-and-thistles.md",
+  "title": "Of Thorns and Thistles",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "wiaw": 9809,
+  "words": 3692,
+  "footnotes": 1
+ },
+ {
+  "n": 266,
+  "file": "266-the-shining-sea-of-galilee.md",
+  "title": "The Shining Sea of Galilee",
+  "section": "Bamidbar",
+  "parsha": "Masei",
+  "wiaw": 8351,
+  "words": 1138,
+  "footnotes": 1
+ },
+ {
+  "n": 267,
+  "file": "267-of-heretics-and-apostates.md",
+  "title": "Of Heretics and Apostates",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "wiaw": 11438,
+  "words": 2593,
+  "footnotes": 1
+ },
+ {
+  "n": 268,
+  "file": "268-just-say-no.md",
+  "title": "Just Say No",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "wiaw": 10949,
+  "words": 2281,
+  "footnotes": 1
+ },
+ {
+  "n": 269,
+  "file": "269-brilliant-prohibitions.md",
+  "title": "Brilliant Prohibitions",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "wiaw": 9211,
+  "words": 1540,
+  "footnotes": 1
+ },
+ {
+  "n": 270,
+  "file": "270-of-demons-and-spirits.md",
+  "title": "Of Demons and Spirits",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "wiaw": null,
+  "words": 1262,
+  "footnotes": 1
+ },
+ {
+  "n": 271,
+  "file": "271-getting-dirty.md",
+  "title": "Getting Dirty",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "wiaw": 11413,
+  "words": 2637,
+  "footnotes": 1
+ },
+ {
+  "n": 272,
+  "file": "272-more-cheese-please.md",
+  "title": "More Cheese Please",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "wiaw": 9723,
+  "words": 2453,
+  "footnotes": 1
+ },
+ {
+  "n": 273,
+  "file": "273-the-mountain-of-many-names.md",
+  "title": "The Mountain of Many Names",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "wiaw": null,
+  "words": 831,
+  "footnotes": 1
+ },
+ {
+  "n": 274,
+  "file": "274-stop-its-shavuot.md",
+  "title": "Stop! It’s Shavuot",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "wiaw": 7758,
+  "words": 1764,
+  "footnotes": 1
+ },
+ {
+  "n": 275,
+  "file": "275-thats-amore.md",
+  "title": "That’s Amore!",
+  "section": "Bamidbar",
+  "parsha": "Shavuos",
+  "wiaw": null,
+  "words": 3513,
+  "footnotes": 1
+ },
+ {
+  "n": 276,
+  "file": "276-the-number-eleven.md",
+  "title": "The Number Eleven",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "wiaw": 7864,
+  "words": 1275,
+  "footnotes": 1
+ },
+ {
+  "n": 277,
+  "file": "277-the-sharp-river.md",
+  "title": "The Sharp River",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "wiaw": 11903,
+  "words": 2738,
+  "footnotes": 0
+ },
+ {
+  "n": 278,
+  "file": "278-empty-exaggerations.md",
+  "title": "Empty Exaggerations",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "wiaw": 9756,
+  "words": 2261,
+  "footnotes": 1
+ },
+ {
+  "n": 279,
+  "file": "279-beds-of-the-righteous.md",
+  "title": "Beds of the Righteous",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "wiaw": 8364,
+  "words": 1440,
+  "footnotes": 1
+ },
+ {
+  "n": 280,
+  "file": "280-words-of-destruction.md",
+  "title": "Words of Destruction",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "wiaw": 7366,
+  "words": 1163,
+  "footnotes": 1
+ },
+ {
+  "n": 281,
+  "file": "281-dont-trample-on-me.md",
+  "title": "Don’t Trample On Me",
+  "section": "Devarim",
+  "parsha": "Devarim",
+  "wiaw": 11024,
+  "words": 3907,
+  "footnotes": 2
+ },
+ {
+  "n": 282,
+  "file": "282-looking-four-directions.md",
+  "title": "Looking Four Directions",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "wiaw": 7029,
+  "words": 1086,
+  "footnotes": 1
+ },
+ {
+  "n": 283,
+  "file": "283-the-ultimate-teacher.md",
+  "title": "The Ultimate Teacher",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "wiaw": 9308,
+  "words": 1956,
+  "footnotes": 1
+ },
+ {
+  "n": 284,
+  "file": "284-forget-about-it.md",
+  "title": "Forget About It",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "wiaw": 8389,
+  "words": 1628,
+  "footnotes": 1
+ },
+ {
+  "n": 285,
+  "file": "285-listen-up.md",
+  "title": "Listen up!",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "wiaw": 6850,
+  "words": 1393,
+  "footnotes": 1
+ },
+ {
+  "n": 286,
+  "file": "286-nursing-from-the-good.md",
+  "title": "Nursing from the Good",
+  "section": "Devarim",
+  "parsha": "Voeschanan",
+  "wiaw": 11489,
+  "words": 2758,
+  "footnotes": 1
+ },
+ {
+  "n": 287,
+  "file": "287-making-mountains-out-of-hills.md",
+  "title": "Making Mountains out of Hills",
+  "section": "Devarim",
+  "parsha": "Eikev",
+  "wiaw": null,
+  "words": 838,
+  "footnotes": 1
+ },
+ {
+  "n": 288,
+  "file": "288-subtleties-of-simcha-and-sasson.md",
+  "title": "Subtleties of Simcha and Sasson",
+  "section": "Devarim",
+  "parsha": "Eikev",
+  "wiaw": 6839,
+  "words": 744,
+  "footnotes": 1
+ },
+ {
+  "n": 289,
+  "file": "289-rain-rain-come-again.md",
+  "title": "Rain, Rain Come Again",
+  "section": "Devarim",
+  "parsha": "Eikev",
+  "wiaw": 6861,
+  "words": 896,
+  "footnotes": 1
+ },
+ {
+  "n": 290,
+  "file": "290-dont-be-a-behamah-or-a-chayah.md",
+  "title": "Don't be a Behamah or a Chayah",
+  "section": "Devarim",
+  "parsha": "Re’ay",
+  "wiaw": null,
+  "words": 642,
+  "footnotes": 1
+ },
+ {
+  "n": 291,
+  "file": "291-my-three-suns-and-moons.md",
+  "title": "My Three Suns (and Moons)",
+  "section": "Devarim",
+  "parsha": "Re’ay",
+  "wiaw": 6916,
+  "words": 866,
+  "footnotes": 1
+ },
+ {
+  "n": 292,
+  "file": "292-taking-collateral.md",
+  "title": "Taking Collateral",
+  "section": "Devarim",
+  "parsha": "Re’ay",
+  "wiaw": 11066,
+  "words": 2080,
+  "footnotes": 1
+ },
+ {
+  "n": 293,
+  "file": "293-indulging-in-pleasure.md",
+  "title": "Indulging in Pleasure",
+  "section": "Devarim",
+  "parsha": "Re’ay",
+  "wiaw": 8295,
+  "words": 1698,
+  "footnotes": 1
+ },
+ {
+  "n": 294,
+  "file": "294-enter-the-gate.md",
+  "title": "Enter the Gate",
+  "section": "Devarim",
+  "parsha": "Shoftim",
+  "wiaw": 10740,
+  "words": 2179,
+  "footnotes": 1
+ },
+ {
+  "n": 295,
+  "file": "295-cutting-tools.md",
+  "title": "Cutting Tools",
+  "section": "Devarim",
+  "parsha": "Shoftim",
+  "wiaw": 11644,
+  "words": 2348,
+  "footnotes": 0
+ },
+ {
+  "n": 296,
+  "file": "296-showing-teeth.md",
+  "title": "Showing Teeth",
+  "section": "Devarim",
+  "parsha": "Shoftim",
+  "wiaw": 10931,
+  "words": 2437,
+  "footnotes": 1
+ },
+ {
+  "n": 297,
+  "file": "297-anger-issues.md",
+  "title": "Anger Issues",
+  "section": "Devarim",
+  "parsha": "Shoftim",
+  "wiaw": 9296,
+  "words": 2163,
+  "footnotes": 1
+ },
+ {
+  "n": 298,
+  "file": "298-getting-drunk.md",
+  "title": "Getting Drunk",
+  "section": "Devarim",
+  "parsha": "Ki Saytzei",
+  "wiaw": 11520,
+  "words": 1802,
+  "footnotes": 1
+ },
+ {
+  "n": 299,
+  "file": "299-flowering-chicklings.md",
+  "title": "Flowering Chicklings",
+  "section": "Devarim",
+  "parsha": "Ki Saytzei",
+  "wiaw": 9906,
+  "words": 1582,
+  "footnotes": 1
+ },
+ {
+  "n": 300,
+  "file": "300-single-guys.md",
+  "title": "Single Guys",
+  "section": "Devarim",
+  "parsha": "Ki Saytzei",
+  "wiaw": 11069,
+  "words": 4406,
+  "footnotes": 2
+ },
+ {
+  "n": 301,
+  "file": "301-seasoning-the-land.md",
+  "title": "Seasoning the Land",
+  "section": "Devarim",
+  "parsha": "Ki Savo",
+  "wiaw": 9346,
+  "words": 2364,
+  "footnotes": 1
+ },
+ {
+  "n": 302,
+  "file": "302-a-basket-case.md",
+  "title": "A Basket Case",
+  "section": "Devarim",
+  "parsha": "Ki Savo",
+  "wiaw": 10020,
+  "words": 1201,
+  "footnotes": 1
+ },
+ {
+  "n": 303,
+  "file": "303-no-more-boils.md",
+  "title": "No More Boils",
+  "section": "Devarim",
+  "parsha": "Ki Savo",
+  "wiaw": 11523,
+  "words": 3995,
+  "footnotes": 2
+ },
+ {
+  "n": 304,
+  "file": "304-the-strong-ones.md",
+  "title": "The Strong Ones",
+  "section": "Devarim",
+  "parsha": "Nitzavim-Vayelech",
+  "wiaw": 8857,
+  "words": 3812,
+  "footnotes": 2
+ },
+ {
+  "n": 305,
+  "file": "305-straying-from-the-path.md",
+  "title": "Straying from the Path",
+  "section": "Devarim",
+  "parsha": "Nitzavim-Vayelech",
+  "wiaw": 7927,
+  "words": 986,
+  "footnotes": 1
+ },
+ {
+  "n": 306,
+  "file": "306-ten-expressions-of-praise.md",
+  "title": "Ten Expressions of Praise",
+  "section": "Devarim",
+  "parsha": "Haazinu",
+  "wiaw": 6934,
+  "words": 882,
+  "footnotes": 1
+ },
+ {
+  "n": 307,
+  "file": "307-animal-sounds.md",
+  "title": "Animal Sounds",
+  "section": "Devarim",
+  "parsha": "V’Zos HaBrachah",
+  "wiaw": 9126,
+  "words": 2046,
+  "footnotes": 1
+ },
+ {
+  "n": 308,
+  "file": "308-holy-matrimony.md",
+  "title": "Holy Matrimony",
+  "section": "Devarim",
+  "parsha": "V’Zos HaBrachah",
+  "wiaw": 8883,
+  "words": 1971,
+  "footnotes": 1
+ },
+ {
+  "n": 309,
+  "file": "309-all-mixed-up.md",
+  "title": "All Mixed Up",
+  "section": "Devarim",
+  "parsha": "Tisha B’Av and Nachamu",
+  "wiaw": 11480,
+  "words": 2897,
+  "footnotes": 1
+ },
+ {
+  "n": 310,
+  "file": "310-twin-cities-of-zion-and-jerusalem.md",
+  "title": "Twin Cities of Zion and Jerusalem",
+  "section": "Devarim",
+  "parsha": "Tisha B’Av and Nachamu",
+  "wiaw": null,
+  "words": 1467,
+  "footnotes": 2
+ },
+ {
+  "n": 311,
+  "file": "311-remembering-the-wall.md",
+  "title": "Remembering the Wall",
+  "section": "Devarim",
+  "parsha": "Tisha B’Av and Nachamu",
+  "wiaw": 8373,
+  "words": 4095,
+  "footnotes": 1
+ },
+ {
+  "n": 312,
+  "file": "312-ways-and-means.md",
+  "title": "Ways and Means",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "wiaw": null,
+  "words": 4146,
+  "footnotes": 3
+ },
+ {
+  "n": 313,
+  "file": "313-shake-quake.md",
+  "title": "Shake & Quake",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "wiaw": 11527,
+  "words": 6120,
+  "footnotes": 2
+ },
+ {
+  "n": 314,
+  "file": "314-divine-dictator-or-populist-king.md",
+  "title": "Divine Dictator or Populist King",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "wiaw": 6893,
+  "words": 1028,
+  "footnotes": 1
+ },
+ {
+  "n": 315,
+  "file": "315-degrees-of-sin.md",
+  "title": "Degrees of Sin",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "wiaw": 7940,
+  "words": 1202,
+  "footnotes": 1
+ },
+ {
+  "n": 316,
+  "file": "316-forms-of-forgiveness.md",
+  "title": "Forms of Forgiveness",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "wiaw": 8400,
+  "words": 3563,
+  "footnotes": 2
+ },
+ {
+  "n": 317,
+  "file": "317-an-utter-embarrassment.md",
+  "title": "An Utter Embarrassment",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "wiaw": 9907,
+  "words": 1798,
+  "footnotes": 1
+ },
+ {
+  "n": 318,
+  "file": "318-the-shofars-horn.md",
+  "title": "The Shofar’s Horn",
+  "section": "Devarim",
+  "parsha": "Elul/Rosh HaShanah/Yom Kippur",
+  "wiaw": 10060,
+  "words": 4863,
+  "footnotes": 2
+ },
+ {
+  "n": 319,
+  "file": "319-the-beautiful-citron.md",
+  "title": "The Beautiful Citron",
+  "section": "Devarim",
+  "parsha": "Sukkos/Simchas Torah",
+  "wiaw": 10055,
+  "words": 4782,
+  "footnotes": 2
+ },
+ {
+  "n": 320,
+  "file": "320-chair-of-thrones.md",
+  "title": "Chair of Thrones",
+  "section": "Devarim",
+  "parsha": "Shabbos Rosh Chodesh",
+  "wiaw": 10930,
+  "words": 1837,
+  "footnotes": 1
+ }
+]
