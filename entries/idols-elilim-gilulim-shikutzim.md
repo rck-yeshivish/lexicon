@@ -6,12 +6,49 @@ translit: [elilim, elil, pesel, pesilim, masechah, masecha, matzeivah, matzevah,
 english: [idols, graven image, molten image, pillar, images, dung-idols, abominations, sun-pillars]
 domain: ritual
 words:
-  - he: מסכה
-    nk: מַסֵּכָה
-  - he: מצבה
-    nk: מַצֵּבָה
+  - he: אלילים
+    tr: elilim
+    en: nothings, hollow things
+    distinct: hollow, with no holy spirit within (Malbim); or nothings, from al, not, their power sheer nothingness (Rashi, Ibn Ezra, Ramban); the printed Rashi to Shabbos 149a links them to chalalim, lifeless corpses
   - he: פסל
+    tr: pesel
+    en: carved image
     nk: פֶּסֶל
+    distinct: from pasul, disqualified from legitimate worship, like the discarded shavings of something hewn; the root means hewing, kin to peeling and onion (Rav Hirsch)
+  - he: מסכה
+    tr: masechah
+    en: molten image
+    nk: מַסֵּכָה
+    distinct: molten metal poured into a mold (Malbim, Pappenheim); or from sichah, anointing, the rite said to draw the deity's spirit into the image (Rabbi Eliyahu Benamozegh)
+  - he: מצבה
+    tr: matzeivah
+    en: standing pillar
+    nk: מַצֵּבָה
+    distinct: from nitzav, standing; the single-stone altar, and by extension the idol that must stand where it is put and cannot move of itself
+  - he: עצבים
+    tr: atzabim
+    en: bones
+    distinct: literally bones, idols assembled from many parts as a body is, where Hashem has no parts at all; or from atzuv, grieved, since they never deliver and sadden their worshippers (Malbim)
+  - he: גלולים
+    tr: gilulim
+    en: dung-idols
+    distinct: from megual, defiled, and glalim, excrement; the disgust is at the idols' filthy physical state, moldy or rusted, not at the sin (Rabbeinu Shimshon of Shantz, Pirush HaRaavad); at their insect-like faces (Malbim)
+  - he: תרפים
+    tr: terafim
+    en: things that rot
+    distinct: named from rotting, since they can go putrid
+  - he: שקוצים
+    tr: shikutzim
+    en: abominations
+    distinct: from sheketz, an abomination; the plain sense is that they are abominable
+  - he: חמנים
+    tr: chamanim
+    en: sun-pillars
+    distinct: from chamah, the sun, since they are left standing outdoors in it; or because they die as animals do (Rav Achai Gaon), left in the open like a carcass rather than buried (Netziv)
+  - he: אשרים
+    tr: asherim
+    en: cultic posts
+    distinct: from ishur, validation, praised only by others and with no powers of its own; of moon worship, borrowing its light (Malbim); from yashar, straightening, since a fallen idol must be set up again by others (Pirush HaRaavad)
 sources:
   - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
@@ -34,6 +71,21 @@ they are left standing outside in it. *Asherim* are the idols that get their
 propped back up by others. Unlike the ten Names
 of Hashem, which name one Being, these ten name different things and different
 reproaches.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אלילים | elilim | nothings, hollow things | hollow, no spirit within (Malbim); or sheer nothings, from *al* (Rashi) |
+| פסל | pesel | carved image | disqualified from worship, like a carving's discarded shavings |
+| מסכה | masechah | molten image | molten metal poured into a mold (Malbim); or anointed (Benamozegh) |
+| מצבה | matzeivah | standing pillar | stands where it is put; cannot move of itself |
+| עצבים | atzabim | bones | assembled of parts, like bones; or they grieve their worshippers (Malbim) |
+| גלולים | gilulim | dung-idols | filthy objects, moldy or rusting (Raavad); insect-like faces (Malbim) |
+| תרפים | terafim | things that rot | they can rot and go putrid |
+| שקוצים | shikutzim | abominations | plainly abominable, from *sheketz* |
+| חמנים | chamanim | sun-pillars | left standing in the sun; unburied like a carcass (Netziv) |
+| אשרים | asherim | cultic posts | validated only by others; must be set upright again (Raavad) |
 
 ## The framing
 

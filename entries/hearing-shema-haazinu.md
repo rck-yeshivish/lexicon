@@ -5,6 +5,15 @@ roots: [ש-מ-ע, א-ז-נ]
 translit: [shema, shma, tishma, shamoa, shomea, haazinu, haazin, haazanah, ozen, ozen]
 english: [hear, hearken, listen, give ear]
 domain: cognition
+words:
+  - he: האזין
+    tr: haazinu
+    en: give ear
+    distinct: from ozen, the ear's own physical act, saying nothing of grasp; listening of any kind, or inferring what is implicit (Rokeach); listening from near (Sifrei), though Chizkuni, Abarbanel and Rabbi Yitzchak Arama reverse it
+  - he: שמע
+    tr: shema
+    en: hear
+    distinct: hearing with a measure of intellectual or emotional grasp (Malbim); hearkening in answer to another's call (Rokeach); listening from a distance, which demands concentration (Sifrei), though Chizkuni, Abarbanel and Rabbi Yitzchak Arama reverse it
 sources:
   - wiaw:6850 "Listen Up!" (2016-07-16) https://articles.ohr.edu/articles/listen-up
 authorities: [Sifrei, Baalei HaTosafos, Chizkuni, Abarbanel, Rabbi Yitzchak Arama, Malbim, Rokeach]
@@ -22,6 +31,13 @@ distance, the Sifrei has *haazinu* for what is near and *shema* for what is far;
 Chizkuni, Abarbanel and Rabbi Yitzchak Arama hold the reverse. Devarim 32:1 and
 Yeshayahu 1:2 assign the two Hebrew verbs to heaven and earth in opposite order,
 and both distance readings are offered to explain that reversal.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| האזין | haazinu | give ear | the ear's physical act; listening from near (Sifrei), from far (Chizkuni) |
+| שמע | shema | hear | takes in and understands (Malbim); answers a call (Rokeach); from far (Sifrei) |
 
 ## Distinctions
 

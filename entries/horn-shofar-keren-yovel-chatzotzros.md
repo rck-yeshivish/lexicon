@@ -6,10 +6,24 @@ translit: [shofar, shofarot, shofaros, keren, karnayim, kranot, yovel, yoveil, c
 english: [shofar, horn, ram's horn, trumpet, corner, principal, beauty]
 domain: ritual
 words:
-  - he: יובל
-    nk: יוֹבֵל
+  - he: שופר
+    tr: shofar
+    en: ram's horn
+    distinct: the hollow horn whose filling is drawn out, where a solid horn stays keren (Ramban); a hollow tube, from shefoferes (Ran); beauty and fitness, from ש-פ-ר (Ritva), many parts fitted into one order (Rav Hirsch)
   - he: קרן
+    tr: keren
+    en: horn
     nk: קֶרֶן
+    distinct: the general horn, attached or detached, and a solid horn even detached (Ramban); by extension a ray, strength, a corner and principal; the meeting point of opposing forces, a fork in the road (Rabbi Moshe Shapiro)
+  - he: יובל
+    tr: yovel
+    en: horn, jubilee
+    nk: יוֹבֵל
+    distinct: a horn (Shemos 19:13) that also means ram (Rosh Hashanah 26a); names the fiftieth year, proclaimed with the shofar; from ב-ל, mixing, the horn that moved the nation and the army (Pappenheim)
+  - he: חצוצרות
+    tr: chatzotzros
+    en: trumpets
+    distinct: the Torah's silver trumpets (Bamidbar 10:2); after the Beis HaMikdash, shofaros came to be called chatzotzros (Shabbos 36a, Sukkah 34a), and we have since returned to the older usage (Mabit)
   - he: שפיר
     nk: שַׁפִּיר
   - he: שפר
@@ -35,6 +49,15 @@ investment. *Yovel* is a horn too (Shemos 19:13) and gives its name to the
 fiftieth year. *Chatzotzros* are the silver **trumpets** of Bamidbar 10:2,
 though after the Churban *shofaros* came to be called *chatzotzros*. In Rosh Hashanah 3:2 the whole
 halachah turns on the bovine horn being *called* a *keren*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שופר | shofar | ram's horn | hollow horn (Ramban); a tube (Ran); beauty of parts in harmony (Rav Hirsch) |
+| קרן | keren | horn | the general horn; also ray, corner, principal; a fork in the road (Rabbi Moshe Shapiro) |
+| יובל | yovel | horn, jubilee | a horn, also a ram; names the fiftieth year it proclaims |
+| חצוצרות | chatzotzros | trumpets | the Torah's silver trumpets; for a time, the name for *shofaros* |
 
 ## Distinctions
 

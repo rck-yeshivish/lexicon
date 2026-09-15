@@ -5,6 +5,19 @@ roots: [נ-ח-ל, י-ר-ש, א-ח-ז]
 translit: [nachalah, nachala, nochel, yerushah, yerusha, yoresh, achuzah, achuza, achuzas nachalah, reshus, reshut]
 english: [inheritance, patrimony, holding, ancestral holding, heir]
 domain: society
+words:
+  - he: נחלה
+    tr: nachalah
+    en: inheritance, patrimony
+    distinct: property that comes down the generations, or what the bequeather willingly passes on (Malbim); one share of an estate divided among several (Shadal); the estate flowing on like a river, nachal (Rav Hirsch)
+  - he: ירושה
+    tr: yerushah
+    en: inheritance
+    distinct: a bare legal transfer from one reshus to another, sanctioned or not (Malbim); the heir with no one to share it (Shadal); from rosh, the heir as head of the estate (Pappenheim, Mecklenburg); the young displacing the old (Rav Hirsch)
+  - he: אחוזה
+    tr: achuzah
+    en: holding
+    distinct: inherited property the heir has already taken possession of and holds, as against property far off or still disputed (Malbim)
 sources:
   - wiaw:7839 "A Heritage of Inheritance" (2018-07-07) https://articles.ohr.edu/articles/a-heritage-of-inheritance
 authorities: [Malbim, Shadal, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch]
@@ -22,6 +35,14 @@ of one man's *reshus* into another's, with no assumption that it was willingly
 given (Malbim), or with no one else sharing in it (Shadal). *Achuzah* is the
 **holding**, inherited property the heir has actually taken hold of. Several
 competing approaches separate the first two.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נחלה | nachalah | inheritance, patrimony | the patrimony flowing down (Malbim, Rav Hirsch); one share among several (Shadal) |
+| ירושה | yerushah | inheritance | a bare legal transfer (Malbim); one heir, no one to share (Shadal) |
+| אחוזה | achuzah | holding | inherited property already taken in hand (Malbim) |
 
 ## Distinctions
 

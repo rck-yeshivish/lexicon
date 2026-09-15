@@ -5,6 +5,23 @@ roots: [ת-כ-ף, י-ד, א-ת-ר]
 translit: [teikef, tekef, techef, miyad, mi'yad, miyyad, lealter, le'alter, alter, otyom, ot yom, evteos, al atar]
 english: [immediately, straightaway, forthwith, on the spot, right after]
 domain: time
+words:
+  - he: תיכף
+    tr: teikef
+    en: immediately after
+    distinct: one thing hard on the heels of another, and also physically pressed close together, one word joining space and time
+  - he: מיד
+    tr: miyad
+    en: straightaway
+    distinct: literally from hand; what sits in the hand passes to the next hand with no interval, so too an event that follows the one before with nothing in between
+  - he: לאלתר
+    tr: le'alter
+    en: on the spot
+    distinct: a contraction of al atar, on the spot (Rabbi Yishaya Pick-Berlin, Rabbi Yaakov Emden), a word for place doing duty for time
+  - he: אותיום
+    tr: otyom
+    en: immediately thereafter
+    distinct: once in the Mishnah (Niddah 2:2), its identity disputed; a Hebrew abbreviation (Rabbi Emmanuel Chai Ricci), or the Greek eutheos (Rav Hai Gaon, Sefer HaAruch, Rashi, Rashba), which Rabbi Betzalel Ronsberg prefers
 sources:
   - wiaw:7426 "Forthwith in the Fourth Dimension" (2017-09-16) https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension
 authorities: [Maharal of Prague, Rabbi Yishaya Pick-Berlin, Rabbi Yaakov Emden, Rabbi Emmanuel Chai Ricci, Rabbi Betzalel Ronsberg, Rav Hai Gaon, Sefer HaAruch, Rashi, Rashba]
@@ -23,6 +40,15 @@ already in your hand. *Le'alter* is **on the spot**, which some commentators
 explain as a contraction of *al atar*. *Otyom* is a technical Mishnaic term; Rav
 Hai Gaon, the *Aruch*, Rashi and Rashba all hold it is a Greek loanword, and the
 Ancient Greek εὐθέως, *eutheos*, means "immediately."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תיכף | teikef | immediately after | right after in time; also pressed close in space |
+| מיד | miyad | straightaway | literally from hand; passes on with no interval |
+| לאלתר | le'alter | on the spot | a contraction of *al atar* (Pick-Berlin, Emden); place standing for time |
+| אותיום | otyom | immediately thereafter | disputed: a Hebrew abbreviation (Ricci) or Greek *eutheos* (Rashi, Rashba) |
 
 ## Distinctions
 

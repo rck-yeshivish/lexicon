@@ -5,6 +5,23 @@ roots: [ו-ו, א-ג-ם, ש-פ-ת, ש-פ, ג-מ]
 translit: [vav, vavim, vavin, agmon, agmonim, shfataim, shefataim, shefatayim, ankliyot, onkliyot, ankliyos, agam, gome, gomeh, shefi, ashafim, shefifon, hegmon]
 english: [hook, hanger, hooked reed, ledge, hearth]
 domain: other
+words:
+  - he: וו
+    tr: vav
+    en: hook
+    distinct: the most basic word, only the fittings of the Mishkan's pillars and nowhere else in Tanach; perhaps no root-word at all but named for the hook-shaped letter (Rabbi Aharon Marcus); glossed ankliyot (Rashi)
+  - he: אנקליות
+    tr: ankliyot
+    en: hook
+    distinct: the Mishnaic word, especially the barbed part of a hook; apparently a Greek loanword from a root meaning to bend, kin to anchor and angle; Targum's word for shfataim and, at Iyov 40:26, agmon
+  - he: אגמון
+    tr: agmon
+    en: hooked reed
+    distinct: a cane with a hooked top (Machberes Menachem); a kind of reed (Radak); a hook-topped marsh thistle used as a fishhook, and from there anything hooked or bent (Pappenheim)
+  - he: שפתים
+    tr: shfataim
+    en: hooks, setting for pots
+    distinct: once only, and disputed; hooks (Targum, Rashi, Rabbi Shlomo of Urbino), the stovetop place where pots sit unlifted until cooked (Radak, Abarbanel, Pappenheim), or a ledge around the Table (Rabbi Eliezer of Beaugency)
 sources:
   - wiaw:9565 "On Hooks and Hangers" (2022-02-05) https://articles.ohr.edu/articles/on-hooks-and-hangers
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashi, Rabbi Shlomo of Urbino, Abarbanel, Rabbi Eliezer of Beaugency, Targum Onkelos, Targum Yonasan, Shadal, A. E. Silverstone]
@@ -24,6 +41,15 @@ or a **setting for pots** (Radak, Abarbanel) or a **ledge** (Rabbi Eliezer of
 Beaugency). *Ankliyot* is the Mishnaic word for a hook, especially its barbed
 part, and appears to be a Greek loanword; it is what Targum uses for *shfataim*
 and, at least at Iyov 40:26, for *agmon*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| וו | vav | hook | only the Mishkan's pillar fittings; named for the hook-shaped letter (Marcus) |
+| אנקליות | ankliyot | hook | the Mishnaic word, especially the barb; a Greek loanword, kin to anchor |
+| אגמון | agmon | hooked reed | hook-topped marsh reed, used as a fishhook, then anything bent (Pappenheim) |
+| שפתים | shfataim | hooks, setting for pots | disputed: hooks (Targum), a pot-setting (Radak, Abarbanel), or a ledge (Rabbi Eliezer of Beaugency) |
 
 ## Distinctions
 

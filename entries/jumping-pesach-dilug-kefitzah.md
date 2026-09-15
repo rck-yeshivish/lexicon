@@ -5,6 +5,19 @@ roots: [פ-ס-ח, ד-ל-ג, ק-פ-ץ]
 translit: [pesach, pesah, poseach, piseach, pisei'ach, dilug, dilluk, doleg, midaleg, kefitzah, kefitza, kofetz, mikapetz, kefitzas haderech, kefitzat haderech]
 english: [skipping, jumping, leaping, passing over, lame]
 domain: action
+words:
+  - he: דילוג
+    tr: dilug
+    en: skipping
+    distinct: one foot still on the ground as the other springs (Vilna Gaon, Rambam, Rosh); the higher leap (Wertheimer); its focus is what is skipped (Lorberbaum); for an animal, not a person (Rabbi Shimshon of Shantz), a view Bartenura rejects
+  - he: קפיצה
+    tr: kefitzah
+    en: leaping
+    distinct: both feet leave the ground (Vilna Gaon); covering several steps in one to arrive faster, not avoiding what lies underneath (Pappenheim); hence kefitzas haderech, and anything done in haste
+  - he: פסח
+    tr: pesach
+    en: passing over
+    distinct: an expression of dilug and kefitzah both (Rashi); the skipping of the usual prerequisite of commitment (Rabbi Avigdor Nevenzahl), and the haste of a redemption that had to be immediate (Rabbi Nachshon Schiller)
 sources:
   - wiaw:7204 "Jumping for Passover: Part 1" (2017-04-01) https://articles.ohr.edu/articles/jumping-for-passover-part-1
   - wiaw:7218 "Jumping for Passover: Part 2" (2017-04-08) https://articles.ohr.edu/articles/jumping-for-passover-part-2
@@ -20,6 +33,14 @@ On Rabbi Klein's account, *dilug* is **skipping**: the focus is on what got
 passed over. *Kefitzah* is **leaping**: the focus is on covering ground fast.
 *Pesach* holds both, and that, he explains, is what Rashi means when he calls it
 an expression of *dilug* and *kefitzah* together.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| דילוג | dilug | skipping | one foot on the ground (Vilna Gaon); the focus is what is skipped |
+| קפיצה | kefitzah | leaping | both feet off the ground (Vilna Gaon); covering ground fast (Pappenheim) |
+| פסח | pesach | passing over | both *dilug* and *kefitzah* at once (Rashi); skipping and haste together |
 
 ## Distinctions
 

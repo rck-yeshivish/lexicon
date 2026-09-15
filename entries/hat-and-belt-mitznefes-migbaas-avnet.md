@@ -5,6 +5,31 @@ roots: [ג-ב-ע, צ-נ-ף, כ-ב-ע, ח-ג-ר, א-ז-ר]
 translit: [migbaas, migbaat, mitznefes, mitznefet, tznif, tzonef, kova, koba, avnet, avneit, chagor, chagorah, chagora, eizor, aizor, ezor, sinar]
 english: [turban, headdress, cap, helmet, sash, girdle, belt, waistband]
 domain: ritual
+words:
+  - he: מגבעת
+    tr: migbaas
+    en: headdress
+    distinct: the ordinary kohen's plain hat, tied to kova (Meiri); comes pre-sewn, ready to put on (Vilna Gaon); humped like a hill, from givah (Abarbanel); the same hat as mitznefes (Rashi, Ramban)
+  - he: מצנפת
+    tr: mitznefes
+    en: turban
+    distinct: the kohen gadol's long cloth wound (tzonef) around the head (Meiri, Vilna Gaon); encircles the head without covering it (Rambam); recalls the honor of a royal diadem (Tosafos HaRosh); one hat with migbaas (Rashi, Ramban)
+  - he: כובע
+    tr: kova
+    en: helmet, hard hat
+    distinct: the everyday Modern Hebrew hat, but all six of its appearances in Tanach are part of a warrior's kit, so possibly not a hat at all but a hard hat or helmet
+  - he: אבנט
+    tr: avnet
+    en: sash
+    distinct: a belt worn for ritual purposes, which is why it is the belt of the kohanim (Malbim); the Torah's word for the belt all the kohanim wore
+  - he: חגור
+    tr: chagor
+    en: belt
+    distinct: the general term, anything that goes around the body, whether at the torso, the heart, the waist or the feet (Malbim); the feminine chagorah carries the same sense
+  - he: אזור
+    tr: eizor
+    en: girdle
+    distinct: specifically the belt at the waist, generally drawn tight (Malbim); hence girding it is a figure for a feat of strength, and in Tanach only mighty men wear it
 sources:
   - wiaw:7195 "Hats and Belts" (2017-03-25) https://articles.ohr.edu/articles/hats-and-belts
 authorities: [Meiri, Vilna Gaon, Abarbanel, Rambam, Rashi, Ramban, Tosafos HaRosh, Malbim, Josephus]
@@ -23,6 +48,17 @@ belts, *avnet* is the **sash** of the priestly service, *chagor* the general
 the waist, worn by strong men. Rashi and Ramban maintain that *migbaas* and
 *mitznefes* were the same type of hat and are indeed synonyms; the others
 distinguish them.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מגבעת | migbaas | headdress | the ordinary *kohen*'s plain hat (Meiri); pre-sewn (Vilna Gaon); humped like a hill (Abarbanel) |
+| מצנפת | mitznefes | turban | the *kohen gadol*'s long cloth wound around the head (Meiri); names the honor (Tosafos HaRosh) |
+| כובע | kova | helmet, hard hat | all six appearances in *Tanach* are a soldier's; likely a helmet |
+| אבנט | avnet | sash | the ritual belt, worn by all the *kohanim* (Malbim) |
+| חגור | chagor | belt | the general term; anything around the body, at any height (Malbim) |
+| אזור | eizor | girdle | at the waist, drawn tight (Malbim); worn only by mighty men |
 
 ## Distinctions
 

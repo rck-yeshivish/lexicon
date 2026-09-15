@@ -5,6 +5,31 @@ roots: [ש-מ-ח, ש-ו-ש, ג-י-ל, ר-נ-ן, ד-ו-ץ, ח-ד-ה]
 translit: [simchah, simcha, sasson, sason, sosson, gilah, gila, gil, rinah, rina, ditzah, ditza, chedvah, chedva, yagon, aveilus, aveilut, anachah]
 english: [joy, gladness, rejoicing, exultation, burst of joy, joyous song, mirth, delight]
 domain: emotion
+words:
+  - he: שמחה
+    tr: simchah
+    en: joy, gladness
+    distinct: the inner, continual gladness, opposite yagon (Malbim); the beginning of the process that ends in sasson, and against gilah a fresh joy (Vilna Gaon)
+  - he: ששון
+    tr: sasson
+    en: rejoicing
+    distinct: joy shown outwardly, in festive clothes and music, opposite aveilus and anachah (Malbim); the joy attained at the end of the process, though in the days of Mashiach it comes first (Vilna Gaon)
+  - he: גילה
+    tr: gilah
+    en: exultation, a burst of joy
+    distinct: a fleeting stroke of happiness that does not continue (Malbim); a nostalgic joy recalling past joys (Vilna Gaon); the joy of a man who fathers a son (Bereishis Rabbah 63:1)
+  - he: רינה
+    tr: rinah
+    en: joyous song
+    distinct: the joy that stirs the celebrant to sing Hashem's praises (Machzor Vitry)
+  - he: דיצה
+    tr: ditzah
+    en: mirth
+    distinct: on many commentators' account an Aramaic form of the word for joy; beside chedvah in the wedding berachah it signals the all-inclusive joy wished on the couple
+  - he: חדוה
+    tr: chedvah
+    en: delight
+    distinct: likewise an Aramaic form of the word for joy on many commentators' account; beside ditzah in the wedding berachah it signals the all-inclusive joy wished on the couple
 sources:
   - wiaw:6839 "Subtleties of Simcha and Sasson" (2016-07-09) https://articles.ohr.edu/articles/subtleties-of-simcha-and-sasson
 authorities: [Malbim, Vilna Gaon, Machzor Vitry, Bereishis Rabbah]
@@ -23,6 +48,17 @@ recalling past joys (Gra): **exultation, a burst of joy**. *Rinah* is joy that b
 into song of Hashem's praise: **joyous song**. *Ditzah* and *chedvah* are, on
 many commentators' account, Aramaic forms of the word for joy: **mirth, delight**. Both
 ששון ושמחה and שמחה וששון are scriptural, and Chazal darshen the order (Sukkah 48b).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שמחה | simchah | joy, gladness | inner and continual (Malbim); where the pursuit begins (Vilna Gaon) |
+| ששון | sasson | rejoicing | joy shown outwardly (Malbim); the joy reached at the end (Vilna Gaon) |
+| גילה | gilah | exultation, a burst of joy | fleeting (Malbim); recalling past joys (Vilna Gaon) |
+| רינה | rinah | joyous song | joy that breaks into song of Hashem's praise (Machzor Vitry) |
+| דיצה | ditzah | mirth | an Aramaic form of joy, in the wedding berachah |
+| חדוה | chedvah | delight | likewise an Aramaic form of joy, paired with *ditzah* |
 
 ## Distinctions
 

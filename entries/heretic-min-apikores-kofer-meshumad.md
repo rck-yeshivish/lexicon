@@ -7,7 +7,26 @@ english: [sectarian, heretic, scoffer, denier, apostate, convert-out]
 domain: society
 words:
   - he: מין
+    tr: min
+    en: sectarian
     nk: מִין
+    distinct: wrong about Hashem Himself, in five kinds, from denying He runs the world to serving an intermediary (Rambam); sins to anger Hashem, where the meshumad sins for pleasure (Avodah Zarah 26b); the name's origin is much disputed
+  - he: אפיקורוס
+    tr: apikores
+    en: scoffer
+    distinct: denies prophecy, Moshe Rabbeinu's prophecy, or that Hashem knows man's deeds (Rambam); in settled usage one who insults the Torah and talmidei chachamim (Sanhedrin 99b); tied to hefker (Rambam) or to Epicurus
+  - he: כופר
+    tr: kofer
+    en: denier
+    distinct: denies the Torah, techiyas hameisim or the coming of Moshiach (Rambam); the root's Mishnaic sense is denying a legal claim, and the bridge to heresy seems to be covering over the facts
+  - he: משומד
+    tr: meshumad
+    en: apostate
+    distinct: notorious for deliberate sin, who has left Klal Yisrael for another faith uncoerced (Rambam); converted under coercion and persisted (Luzzatto), or rejects the whole Torah (Chasam Sofer); specifically a baptized Christian (Rav Hai Gaon), though Rabbi Tanchum HaYerushalmi says any apostate
+  - he: מומר
+    tr: mumar
+    en: convert-out
+    distinct: from מ-ו-ר, to switch, the tamer word censors substituted for meshumad; one who changed religion willingly (Luzzatto); one who traded the Torah for something passing, even in one mitzvah (Chasam Sofer)
 sources:
   - wiaw:11438 "Korach: Of Heretics and Apostates" (2024-07-06) https://articles.ohr.edu/articles/korach-of-heretics-and-apostates
 authorities: [Rambam, Rashba, Rabbi Yishaya of Trani, Rabbi Eliyahu HaBachur, Rabbi Shmuel David Luzzatto, Rabbi Binyamin Mussafia, Rabbi J. D. Eisenstein, Rabbi Shlomo Tzvi Shick, Ramban, Rav Hai Gaon, Rabbi Moshe Ibn Ezra, Rabbi Shlomo Ibn Parchon, Rashbatz, Kuzari, Rabbi Tanchum HaYerushalmi, Rabbi Yair Chaim Bachrach, Chasam Sofer, Rabbi Ernest Klein, Friedrich Delitzsch, Avraham Even-Shoshan, Peshitta]
@@ -27,6 +46,16 @@ or is notorious for deliberate transgression. *Mumar* is the tamer word the
 censors sometimes substituted for *meshumad*, a **convert-out**. In colloquial
 speech the terms overlap, but in Rambam's codification each carries a specific
 meaning.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מין | min | sectarian | wrong about Hashem Himself (Rambam); sins to anger Hashem, not for pleasure |
+| אפיקורוס | apikores | scoffer | wrong about prophecy (Rambam); in practice insults Torah and its scholars |
+| כופר | kofer | denier | wrong about Torah, techiyas hameisim or Moshiach (Rambam); covers over the facts |
+| משומד | meshumad | apostate | left for another faith (Rambam); coerced, then persisted (Luzzatto); baptized Christian (Rav Hai Gaon) |
+| מומר | mumar | convert-out | the censors' tamer word; willing convert (Luzzatto); even in one mitzvah (Chasam Sofer) |
 
 ## Distinctions
 

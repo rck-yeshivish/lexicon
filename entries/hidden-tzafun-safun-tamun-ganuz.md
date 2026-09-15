@@ -8,8 +8,31 @@ domain: other
 words:
   - he: סתר
     nk: סֵתֶר
+  - he: טמון
+    tr: tamun
+    en: buried, concealed
+    distinct: anything placed within another material that covers it and hides it from view; from TET-MEM, blocking, so people are blocked from reaching it, and usually hidden in the ground (Pappenheim)
+  - he: ספון
+    tr: safun
+    en: stowed, hidden away
+    distinct: its outer face covered so it cannot be seen at all, hidden in an organized, deliberate way where the others can be hasty (Pappenheim); defined by tzafun (Menachem Ibn Saruk) and tied to it by interchange (Rabbi Yosef Kimchi)
   - he: צפון
+    tr: tzafun
+    en: hidden away, stored up
     nk: צָפוּן
+    distinct: hidden by embedding within something that covers it, specifically to preserve and save it (Pappenheim); tied to safun by letter interchange (Rabbi Yosef Kimchi); tzafon, north, seems to share the root
+  - he: גנוז
+    tr: ganuz
+    en: stored away, put in the treasury
+    distinct: the treasure word, from the royal storehouse where a king hid his most treasured things; in the Mishnah the verb of hiding precious or holy things, and genizah the honorable disposal of holy writings
+  - he: נסתר
+    tr: nistar
+    en: hidden
+    distinct: hidden both from people's knowledge, as a secret, and from the senses, physically obscured (Pappenheim); the Rabbinic sense of destroying is a redefinition of the second
+  - he: נעלם
+    tr: ne'elam
+    en: hidden from the mind, beyond one's grasp
+    distinct: hidden in the intellectual sense, from AYIN-LAMED, above, lying beyond one's range of perception (Pappenheim); its cognate ta'alumah is so hidden that one person alone knows it (Rabbi Yehuda Leib Shapira-Frankfurter)
 sources:
   - wiaw:11696 "Mishpatim: Hidden Things" (2025-02-22) https://articles.ohr.edu/articles/mishpatim-hidden-things
 authorities: [Mechilta, Rabbi Shlomo Pappenheim, Rabbi Yosef Kimchi, Rashi, Menachem Ibn Saruk, Shadal, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein, Rabbi Yehuda Leib Shapira-Frankfurter, Targum, Professor Edward Yechezkel Kutscher, Hillel Halkin]
@@ -28,6 +51,17 @@ concealed in order to preserve. *Ganuz* is **stored away, put in the treasury**
 (Rabbinic: consigned to *genizah*). *Nistar* / *mustar* is **hidden** from sight
 or from knowledge. For Pappenheim *ne'elam* is **hidden from the mind, beyond
 one's grasp**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| טמון | tamun | buried, concealed | placed within something that covers it; usually in the ground (Pappenheim) |
+| ספון | safun | stowed, hidden away | stowed deliberately and orderly, its outer face covered (Pappenheim) |
+| צפון | tzafun | hidden away, stored up | hidden for safekeeping, to preserve and save it (Pappenheim) |
+| גנוז | ganuz | stored away, put in the treasury | laid up as in a royal treasury; in the Mishnah, *genizah* of holy writings |
+| נסתר | nistar | hidden | hidden from knowledge or from the senses (Pappenheim) |
+| נעלם | ne'elam | hidden from the mind, beyond one's grasp | hidden from the mind, above one's perception (Pappenheim) |
 
 ## Distinctions
 

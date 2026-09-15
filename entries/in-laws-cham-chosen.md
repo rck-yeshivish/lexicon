@@ -8,6 +8,22 @@ domain: society
 words:
   - he: חתן
     nk: חָתָן
+  - he: חם
+    tr: cham
+    en: father-in-law
+    distinct: in Biblical Hebrew always a wife's father-in-law (Radak), widened in Mishnaic Hebrew to a husband's; from chomah, a wall around the bride (Rav Hirsch), or from heat, the warm love she receives (Pappenheim)
+  - he: חמות
+    tr: chamos
+    en: mother-in-law
+    distinct: in Biblical Hebrew always a wife's mother-in-law (Radak), later a husband's too; from Aramaic seeing, since she is forever watching her daughter-in-law (Pri Megadim)
+  - he: חותן
+    tr: chosen
+    en: father-in-law
+    distinct: always a husband's father-in-law, never widened, since it names the man who made him a chasan (Pri Megadim); built on connection (Rav Hirsch); can also mean brother-in-law (Ibn Janach), which Radak disputes
+  - he: חותנת
+    tr: choseness
+    en: mother-in-law
+    distinct: always a husband's mother-in-law (Radak), formed from chosen, so it too never widened to a wife's, even in Mishnaic Hebrew (Pri Megadim)
 sources:
   - wiaw:8605 "Heat with the In-Laws" (2020-02-15) https://articles.ohr.edu/articles/heat-with-the-in-laws
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
@@ -25,6 +41,15 @@ they differ by whose in-laws they are. Radak: *cham* and *chamos* are always a
 Mishnaic Hebrew *cham* and *chamos* widened to cover a husband's in-laws too,
 but *chosen* and *choseness* never widened to cover a wife's (*Pri Megadim*).
 The Hebrew tells which side of the marriage is speaking.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חם | cham | father-in-law | the wife's word (Radak); widened in Mishnaic Hebrew to the husband's |
+| חמות | chamos | mother-in-law | the wife's word (Radak); forever watching her daughter-in-law (Pri Megadim) |
+| חותן | chosen | father-in-law | the husband's word, never widened (Pri Megadim); kin to *chasan* |
+| חותנת | choseness | mother-in-law | the husband's word, formed from *chosen* (Pri Megadim) |
 
 ## Distinctions
 
