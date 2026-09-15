@@ -120,18 +120,21 @@ strength to throw the Luchos and merely dropped them; Rabbi Hartman infers that
 Rashbam, like Maharal, took *vayashlech* as dropping without force.
 
 ### hazayah (הזיה)
-Rabbi Pappenheim: the same kind of throwing as *zerikah*, only over a longer
-distance. Malbim: *zerikah* is throwing or sprinkling with a vessel, *hazayah*
-by hand.
+
+- Rabbi Pappenheim: the same kind of throwing as *zerikah*, only over a longer
+  distance.
+- Malbim: *zerikah* is throwing or sprinkling with a vessel, *hazayah* by hand.
 
 ### ramah (רמה)
 The root ר-ם means "esteemed" or "high," and in Biblical Hebrew it occasionally
-means throwing (Shemos 15:1, *ramah vayam*). Rabbi Pappenheim: *ramah* is
-throwing or shooting something upward in an arc so that it lands precisely on
-its target. The Targumim render *zerikah* with the cognate ז-ר-ק but render
-*hashlachah* with ר-ם derivatives, so, Rabbi Reuven Chaim Klein concludes, in
-Aramaic the ר-ם root seems to mean what *hashlachah* means, perhaps the lifting of an object in
-order to throw it.
+means throwing (Shemos 15:1, *ramah vayam*).
+
+- Rabbi Pappenheim: *ramah* is throwing or shooting something upward in an arc
+  so that it lands precisely on its target.
+- The Targumim render *zerikah* with the cognate ז-ר-ק but render *hashlachah*
+  with ר-ם derivatives, so, Rabbi Reuven Chaim Klein concludes, in Aramaic the
+  ר-ם root seems to mean what *hashlachah* means, perhaps the lifting of an
+  object in order to throw it.
 
 Rabbi Reuven Chaim Klein's conclusion: *hashlachah* and *zerikah* are the two basic words;
 *hazayah* and *ramah* are like *zerikah* with a twist, *hazayah* throwing long

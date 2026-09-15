@@ -83,10 +83,11 @@ in rabbinic literature *gargeres* always stands against the *veshet*, so there
 it must be the windpipe.
 
 **Are garon and gargeres different words at all?** Both are built on ג-ר.
-Menachem Ibn Saruk (*Machberes Menachem*) does not seem to posit any difference,
-filing both under the seventh category of the two-letter ג-ר. Ibn Ezra (to
-Mishlei 1:9) and Rabbi Moshe Kimchi (to Iyov 40:16) say the *gargeres*
-surrounds the *garon*, without spelling out what that means.
+
+- Menachem Ibn Saruk (*Machberes Menachem*) does not seem to posit any
+  difference, filing both under the seventh category of the two-letter ג-ר.
+- Ibn Ezra (to Mishlei 1:9) and Rabbi Moshe Kimchi (to Iyov 40:16) say the
+  *gargeres* surrounds the *garon*, without spelling out what that means.
 
 **Are gargeres and kaneh the same organ?**
 

@@ -75,15 +75,20 @@ Saruk, Ibn Janach, Ibn Parchon, Radak) trace *romes* to ר-מ-ס.
   foot treads the ground, a much less intense and more subtle form of the
   action.
 
-**What separates romes from dorech.** Malbim: *dorech* is a neutral term, treading or
-walking over a threshold; *romes* implies walking in a destructive, damaging way. So he
-reads Yeshayahu 1:12: people came to the Mikdash for a sort of religious experience but
-were not open to learning how to fear Hashem, so they might as well have been trampling
-the courtyard, their presence rendering it purposeless. Rabbi Moshe Tedeschi-Ashkenazi
-(*Otzar Nirdafim*) instead relates both words to the ground being walked on, each time
-by ignoring one letter of the root: *derech* from *rach*, soft ground that a man treads
-into a path for others, *romes* from *ram*, ground higher than usual, which needs more
-force to stomp flat and fashion a path. Both readings stand.
+**What separates romes from dorech.**
+
+- Malbim: *dorech* is a neutral term, treading or walking over a threshold;
+  *romes* implies walking in a destructive, damaging way. So he reads Yeshayahu
+  1:12: people came to the Mikdash for a sort of religious experience but were
+  not open to learning how to fear Hashem, so they might as well have been
+  trampling the courtyard, their presence rendering it purposeless.
+- Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) instead relates both words
+  to the ground being walked on, each time by ignoring one letter of the root:
+  *derech* from *rach*, soft ground that a man treads into a path for others,
+  *romes* from *ram*, ground higher than usual, which needs more force to stomp
+  flat and fashion a path.
+
+Both readings stand.
 
 **Whether boss is a distinct word.**
 - Rabbi Klein observes that *boss* is used in very much the same ways as the
@@ -123,23 +128,28 @@ even describe the constructive act of the presses: olives at Michah 6:15, grapes
 9:13, Yeshayahu 16:10 and 63:2, Yirmiyahu 48:33 and Nechemiah 13:15.
 
 ### boss (בוס)
-Words related to *boss* appear a little over ten times: Yeshayahu 14:19, 14:25, 63:6,
-63:18; Yirmiyahu 12:10; Yechezkel 16:6, 16:22; Zechariah 10:5; Tehillim 44:6, 60:14,
-108:14; Mishlei 27:7. Pappenheim builds two other words on
-the root ב-ס. *Eivus*, a feeding trough, its aleph extraneous: an owner fills it hoping
-the animal will overeat and fatten, and the animal often ends up stepping on the leftover food,
-disregarding its importance (he contrasts people, who store leftovers for a later meal).
-And Rabbinic *basis*, a base or pedestal (Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim
-83a; Avodah Zarah 8b; Chullin 125a), the bottom part on which the rest of the object
-rests, like the ground that is trodden with something more significant on top of it. Rabbi
-Klein nonetheless holds that the more convincing etymology for *basis* lies in the
-Latin *basis* and the Greek βάσις, forebears of English *base* and *basis*. In Modern
-Hebrew *basis* is an army base, a usage that may have been influenced by English *base*
-but may also relate conceptually to *basis* as foundation. Rabbi Yisroel Zev Horowitz,
-an acclaimed scholar of the geography of Eretz Yisrael, conjectures that the name of the
-*Yevusi*, who held Yerushalayim before the conquest, may be related to this word: known
-as strong conquerors who trampled their enemies to clear a path, their very name
-possibly reflects such deeds.
+Words related to *boss* appear a little over ten times: Yeshayahu 14:19, 14:25,
+63:6, 63:18; Yirmiyahu 12:10; Yechezkel 16:6, 16:22; Zechariah 10:5; Tehillim
+44:6, 60:14, 108:14; Mishlei 27:7.
+
+- Pappenheim builds two other words on the root ב-ס. *Eivus*, a feeding trough,
+  its aleph extraneous: an owner fills it hoping the animal will overeat and
+  fatten, and the animal often ends up stepping on the leftover food,
+  disregarding its importance (he contrasts people, who store leftovers for a
+  later meal). And Rabbinic *basis*, a base or pedestal (Shabbos 47a, 117a,
+  120b, 125b, 142a; Pesachim 83a; Avodah Zarah 8b; Chullin 125a), the bottom
+  part on which the rest of the object rests, like the ground that is trodden
+  with something more significant on top of it.
+- Rabbi Klein nonetheless holds that the more convincing etymology for *basis*
+  lies in the Latin *basis* and the Greek βάσις, forebears of English *base* and
+  *basis*. In Modern Hebrew *basis* is an army base, a usage that may have been
+  influenced by English *base* but may also relate conceptually to *basis* as
+  foundation.
+- Rabbi Yisroel Zev Horowitz, an acclaimed scholar of the geography of Eretz
+  Yisrael, conjectures that the name of the *Yevusi*, who held Yerushalayim
+  before the conquest, may be related to this word: known as strong conquerors
+  who trampled their enemies to clear a path, their very name possibly reflects
+  such deeds.
 
 Rabbi Klein writes that he used to connect Hebrew *boss* with American English *boss*,
 the master who lords it over his subordinates as one who tramples a thing has conquered

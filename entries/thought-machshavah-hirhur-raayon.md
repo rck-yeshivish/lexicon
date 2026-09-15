@@ -51,37 +51,47 @@ threshold of speech.
 ## Distinctions
 
 ### machshavah (מחשבה)
-Root ח-ש-ב. The Vilna Gaon (commentary to *Sefer Yetzirah*) and others: a pure,
-abstract thought, as against *hirhur*, which has already been formulated into
-possible words. Alternatively, the Gaon writes, *machshavah* takes place in the
-brain, the seat of intellect, while *hirhur* takes place in the heart, the seat
-of emotion. Wertheimer: *machshavah* is the result of deliberate, focused
-thinking, related to *cheshbon*, calculation; it is intended, purposeful
-pondering.
+Root ח-ש-ב.
+
+- The Vilna Gaon (commentary to *Sefer Yetzirah*) and others: a pure, abstract
+  thought, as against *hirhur*, which has already been formulated into possible
+  words. Alternatively, the Gaon writes, *machshavah* takes place in the brain,
+  the seat of intellect, while *hirhur* takes place in the heart, the seat of
+  emotion.
+- Wertheimer: *machshavah* is the result of deliberate, focused thinking,
+  related to *cheshbon*, calculation; it is intended, purposeful pondering.
 
 ### hirhur (הרהור)
-Root ה-ר-ר (Rabbinic). The Vilna Gaon: a thought that has been transferred into
-possible words, so it is nearer to speech than *machshavah* is. Indeed, Rabbi
-Pinchas HaLevi Horowitz relates *hirhur* to *herayon*, pregnancy: it is the
-conception of a thought that will in time germinate into speech. The Gaon's
-alternative account puts it in the heart, not the brain. Rashi (to Daniel
-2:29-30) defines *raayon* as *hirhur*, as opposed to *machshavah*, which seems
-to contradict his own equation of *raayon* with *machshavah* at Berachos 55b.
+Root ה-ר-ר (Rabbinic).
+
+- The Vilna Gaon: a thought that has been transferred into possible words, so it
+  is nearer to speech than *machshavah* is.
+- Indeed, Rabbi Pinchas HaLevi Horowitz relates *hirhur* to *herayon*,
+  pregnancy: it is the conception of a thought that will in time germinate into
+  speech.
+- The Gaon's alternative account puts it in the heart, not the brain.
+- Rashi (to Daniel 2:29-30) defines *raayon* as *hirhur*, as opposed to
+  *machshavah*, which seems to contradict his own equation of *raayon* with
+  *machshavah* at Berachos 55b.
 
 ### raayon (רעיון)
 There is ample reason, Rabbi Klein grants, to take *raayon* as one's
 intellectual will: Hebrew *tzadi* commonly becomes Aramaic *ayin*, so *ratzon*
 is Aramaic *raavon*, spelled almost exactly like *raayon*, which would seem to
-suggest a connection. But Rashi (to Berachos 55b) forcefully rejects that
-etymology: *raayon* is not related to *ratzon* but means the same as
-*machshavah*. Ramban (to Bamidbar 2:14) likewise makes *raayon* synonymous with
-*machshavah*. Rabbi Meir HaLevi Abulafia (Yad Ramah to Sanhedrin 38b): *raayon*
-is the Aramaic translation of *machshavah*, which, Rabbi Klein notes, suggests
-that the two are indeed synonyms, one Aramaic and one Hebrew. Wertheimer takes a
-different approach: a *raayon* is the beginning of a thought, the idea that
-simply materialises as one clears the mind to rest, spontaneous and sometimes
-fleeting, which upon further consideration can potentially be developed into a
-well-formulated concept; the *machshavah* is the product of deliberate thinking.
+suggest a connection.
+
+- But Rashi (to Berachos 55b) forcefully rejects that etymology: *raayon* is not
+  related to *ratzon* but means the same as *machshavah*.
+- Ramban (to Bamidbar 2:14) likewise makes *raayon* synonymous with
+  *machshavah*.
+- Rabbi Meir HaLevi Abulafia (Yad Ramah to Sanhedrin 38b): *raayon* is the
+  Aramaic translation of *machshavah*, which, Rabbi Klein notes, suggests that
+  the two are indeed synonyms, one Aramaic and one Hebrew.
+- Wertheimer takes a different approach: a *raayon* is the beginning of a
+  thought, the idea that simply materialises as one clears the mind to rest,
+  spontaneous and sometimes fleeting, which upon further consideration can
+  potentially be developed into a well-formulated concept; the *machshavah* is
+  the product of deliberate thinking.
 
 ### the track of thought
 Rabbi Klein's synthesis: the three words are not exactly synonymous but mark

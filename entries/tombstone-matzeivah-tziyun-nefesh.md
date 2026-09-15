@@ -52,35 +52,40 @@ to go on serving Hashem, cut off by death.
 
 ## Where the authorities disagree
 
-**Why the three words.** Rabbi Yechiel Michel Tukachinsky (*Gesher HaChaim*):
-three purposes, as above. Others explain instead that all three reflect the
-deceased's desire to continue serving Hashem and keeping the mitzvos had he
-remained alive: *matzeivah*, which also names the single-stone altar, says he
-wished to go on worshipping Hashem and was forced to stop because he died;
-*tziyun*, "remarkable" or "outstanding," the word Tanach uses in the parts
-written after the *matzeivah*-altar became forbidden, says he strove for
-excellence throughout his life and death cut that pursuit off; and *nefesh*,
-related to will (see Rashi to Bereishis 23:8), conjures the departed's will to
-do good.
+**Why the three words.**
 
-**What the matzeivah is really named for.** Rabbi Shlomo Zalman Ehrenreich takes
-a different approach: the tombstone shares its word with the single-stone altar
-because the two share a common feature. Just as korbanos on an altar atone for
-sins, so does the death of the righteous, who are memorialized with a headstone
-(Moed Katan 28a). Rabbi Moshe Shick: we colloquially call a tombstone
-*matzeivah* because the word is related to *netziv*, "standing" or "erect," and
-the name instills the belief in *Techiyas HaMeisim*, that the dead will stand up
-again. Rabbi Asher Pollak adds that the pasuk itself alludes to this: Kever
-Rachel's stone is "the *matzeivah* of Rachel's grave *ad hayom*," and *hayom* is
-a codeword for the day Mashiach will arrive, as in Tehillim 95:7, which
-Eliyahu HaNavi cited as a prooftext that Mashiach will come today, if only
-Israel would listen to Hashem's voice (Sanhedrin 98a).
+- Rabbi Yechiel Michel Tukachinsky (*Gesher HaChaim*): three purposes, as above.
+- Others explain instead that all three reflect the deceased's desire to
+  continue serving Hashem and keeping the mitzvos had he remained alive:
+  *matzeivah*, which also names the single-stone altar, says he wished to go on
+  worshipping Hashem and was forced to stop because he died; *tziyun*,
+  "remarkable" or "outstanding," the word Tanach uses in the parts written after
+  the *matzeivah*-altar became forbidden, says he strove for excellence
+  throughout his life and death cut that pursuit off; and *nefesh*, related to
+  will (see Rashi to Bereishis 23:8), conjures the departed's will to do good.
 
-**What tziyun means here.** Tukachinsky: the stone that delineates exactly where
-the deceased is buried. Rabbi Pollak also writes that a
-tombstone is called a *tziyun* because, like a road marker, it reminds those who
-see it where they are going and what is expected of them. The "others" above
-read *tziyun* as "outstanding."
+**What the matzeivah is really named for.**
+
+- Rabbi Shlomo Zalman Ehrenreich takes a different approach: the tombstone
+  shares its word with the single-stone altar because the two share a common
+  feature. Just as korbanos on an altar atone for sins, so does the death of the
+  righteous, who are memorialized with a headstone (Moed Katan 28a).
+- Rabbi Moshe Shick: we colloquially call a tombstone *matzeivah* because the
+  word is related to *netziv*, "standing" or "erect," and the name instills the
+  belief in *Techiyas HaMeisim*, that the dead will stand up again. Rabbi Asher
+  Pollak adds that the pasuk itself alludes to this: Kever Rachel's stone is
+  "the *matzeivah* of Rachel's grave *ad hayom*," and *hayom* is a codeword for
+  the day Mashiach will arrive, as in Tehillim 95:7, which Eliyahu HaNavi cited
+  as a prooftext that Mashiach will come today, if only Israel would listen to
+  Hashem's voice (Sanhedrin 98a).
+
+**What tziyun means here.**
+
+- Tukachinsky: the stone that delineates exactly where the deceased is buried.
+- Rabbi Pollak also writes that a tombstone is called a *tziyun* because, like a
+  road marker, it reminds those who see it where they are going and what is
+  expected of them.
+- The "others" above read *tziyun* as "outstanding."
 
 **What nefesh means here.** Three readings.
 - Tukachinsky: the soul, honored at the place where it may linger near its

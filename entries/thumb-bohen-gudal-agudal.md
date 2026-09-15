@@ -113,14 +113,16 @@ Klein suggests, to be a literal Aramaic translation of *gudal*: the Targumim ren
 *gadol* as *rabbah*, which shares its root with *ravravta*.
 
 ### ilyon (אליון)
-The Targumim do not render *bohen* as *ravravta* or *zikfa*; they tend to render it
-*ilyon* or *alyon*, *ilyona* or *alyona* (see Gittin 69a and Rashi there). Linguists
-relate it to *alyah*, the fat of an animal's tail, the thumb being fatter and having
-more cartilage than the other fingers. Midrash Tanchuma (Ki Savo 4) reads Hashem's
-promise to set Yisrael *elyon*, high above the nations (Devarim 26:19, 28:1), as
-making them like the *ilyon*, higher than the four fingers: acting properly, they
-will rule over the Four Kingdoms (Bavel, Persia and Madai, Yavan, Rome); if not, the
-Four Kingdoms will subjugate them.
+The Targumim do not render *bohen* as *ravravta* or *zikfa*; they tend to render
+it *ilyon* or *alyon*, *ilyona* or *alyona* (see Gittin 69a and Rashi there).
+
+- Linguists relate it to *alyah*, the fat of an animal's tail, the thumb being
+  fatter and having more cartilage than the other fingers.
+- Midrash Tanchuma (Ki Savo 4) reads Hashem's promise to set Yisrael *elyon*,
+  high above the nations (Devarim 26:19, 28:1), as making them like the *ilyon*,
+  higher than the four fingers: acting properly, they will rule over the Four
+  Kingdoms (Bavel, Persia and Madai, Yavan, Rome); if not, the Four Kingdoms
+  will subjugate them.
 
 ## Rendering guidance
 

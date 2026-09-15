@@ -111,13 +111,17 @@ Root י-ע-ד, "appoint."
   used interchangeably.
 
 ### shaah (שעה)
-Root ש-ע-ה. The Rama (Rabbi Moshe Isserles) heard that some consider *bechol eit u'vechol shaah*, in the
-second berachah of Birkas HaMazon and the last of Shemoneh Esrei, redundant,
-and say only *bechol eit*. He rejects that: *eit* is the annual seasons and
-*shaah* the hours of the day, two different measures and not a doubling. Rabbi
-Yaakov Emden takes issue with the Rama's claim that *eit* refers to the
-seasons, citing other (natural) phenomena that *eit* names. So *shaah* here is
-the unit of the day: **hour**.
+Root ש-ע-ה.
+
+- The Rama (Rabbi Moshe Isserles) heard that some consider *bechol eit u'vechol
+  shaah*, in the second berachah of Birkas HaMazon and the last of Shemoneh
+  Esrei, redundant, and say only *bechol eit*. He rejects that: *eit* is the
+  annual seasons and *shaah* the hours of the day, two different measures and
+  not a doubling.
+- Rabbi Yaakov Emden takes issue with the Rama's claim that *eit* refers to the
+  seasons, citing other (natural) phenomena that *eit* names.
+
+So *shaah* here is the unit of the day: **hour**.
 
 ## Rendering guidance
 

@@ -47,22 +47,27 @@ persistence of *ayef*.
 
 ## Where the authorities disagree
 
-**Whether ayef and yaef differ at all.** Some explain that they do not: the two are one
-word by metathesis, the ayin and yud trading places. Rabbi Yishaya of Trani, the Rid,
-compares the case to another well-known pair of metathetical synonyms, *kesev* and
-*keves*, both "lamb" in Tanach. Rabbi Shimon Schwab says they differ in degree, and
-reads the morning berachah accordingly: on the surface its wording simply follows
-Yeshayahu's, but he sees more in its use of *yaef* rather than *ayef*, chosen for
-maximum effect, that Hashem strengthens not only the tired but the completely
-exhausted.
+**Whether ayef and yaef differ at all.**
 
-**What sets yagea apart from ayef.** Rabbi Yosef of Saragossa (d. 1420, a student of
-the Ran) addresses *ayef/yaef* against *yagea*: all mean tired in the same way, but from
-different causes, *ayef* from repeatedly performing certain movements, the persistence
-of the action, and *yagea* from the speed of one's actions, having overexerted oneself.
-Malbim also sees two causes, but different ones: *ayef* is the regular tiredness that
-one with naturally low energy experiences, *yagea* the tiredness that results from
-(over)exerting oneself.
+- Some explain that they do not: the two are one word by metathesis, the ayin
+  and yud trading places. Rabbi Yishaya of Trani, the Rid, compares the case to
+  another well-known pair of metathetical synonyms, *kesev* and *keves*, both
+  "lamb" in Tanach.
+- Rabbi Shimon Schwab says they differ in degree, and reads the morning berachah
+  accordingly: on the surface its wording simply follows Yeshayahu's, but he
+  sees more in its use of *yaef* rather than *ayef*, chosen for maximum effect,
+  that Hashem strengthens not only the tired but the completely exhausted.
+
+**What sets yagea apart from ayef.**
+
+- Rabbi Yosef of Saragossa (d. 1420, a student of the Ran) addresses *ayef/yaef*
+  against *yagea*: all mean tired in the same way, but from different causes,
+  *ayef* from repeatedly performing certain movements, the persistence of the
+  action, and *yagea* from the speed of one's actions, having overexerted
+  oneself.
+- Malbim also sees two causes, but different ones: *ayef* is the regular
+  tiredness that one with naturally low energy experiences, *yagea* the
+  tiredness that results from (over)exerting oneself.
 
 ## Distinctions
 
@@ -78,13 +83,14 @@ the surviving word in Modern Hebrew.
 - for Rabbi Yosef of Saragossa, tiredness from persistent, repeated action.
 
 ### yaef (יעף)
-Yeshayahu 40:29, in the haftarah of Lech Lecha: "the Giver of strength to the tired
-(*yaef*), and to those without energy, an abundance of might." The first part is
-paraphrased in the morning berachah *ha'nosen la'yaef koach*, and is commonly appended
-to the end of works of Torah literature as the author's way of saying that his ability
-to endure weariness while writing came from Above. Some treat the form as *ayef*
-transposed (the Rid compares *kesev/keves*); Schwab treats the choice of *yaef* in the
-berachah as meaningful.
+Yeshayahu 40:29, in the haftarah of Lech Lecha: "the Giver of strength to the
+tired (*yaef*), and to those without energy, an abundance of might." The first
+part is paraphrased in the morning berachah *ha'nosen la'yaef koach*, and is
+commonly appended to the end of works of Torah literature as the author's way of
+saying that his ability to endure weariness while writing came from Above.
+
+- Some treat the form as *ayef* transposed (the Rid compares *kesev/keves*).
+- Schwab treats the choice of *yaef* in the berachah as meaningful.
 
 ### yagea (יגע)
 Three occurrences only: Devarim 25:18 (*ve'atah ayef veyagea*), Shmuel

@@ -61,13 +61,15 @@ The Torah's *lo tignovu* (Vayikra 19:11) forbids this class, and it mandates
 repayment by the *ganav* at Shemos 22:3. The two prohibitions carry different
 rules: the Gemara's list of twenty-four kinds of damage counts *genevah* and
 *gezeilah* as two items (Bava Kamma 4b), and Rambam's *Sefer Nezikin* gives
-Hilchos Geneivah and Hilchos Gezeilah separate sections. Bava Kamma 79b: the
-*ganav* conceals himself from his victim and takes in a stealthier, sneakier
-way. The *S'ma* (to Choshen Mishpat 348:7) adds that even if the victim ends up
-seeing him, the fact that he *tried* to hide is enough to make him a *ganav*.
-Rambam (Hilchos Geneivah 1:3): he takes another's property clandestinely so that
-the owner does not know, as a pickpocket does; if he took it openly, with
-violence or by force, he is not a *ganav* but a *gazlan*.
+Hilchos Geneivah and Hilchos Gezeilah separate sections.
+
+- Bava Kamma 79b: the *ganav* conceals himself from his victim and takes in a
+  stealthier, sneakier way. The *S'ma* (to Choshen Mishpat 348:7) adds that even
+  if the victim ends up seeing him, the fact that he *tried* to hide is enough
+  to make him a *ganav*.
+- Rambam (Hilchos Geneivah 1:3): he takes another's property clandestinely so
+  that the owner does not know, as a pickpocket does; if he took it openly, with
+  violence or by force, he is not a *ganav* but a *gazlan*.
 
 The *ganav* alone bears the fines: besides returning the value he pays an extra
 penalty of the same value, double in all (Shemos 22:3), and for a kosher animal
@@ -80,15 +82,17 @@ penalties. (By Torah tradition the *lo tignov* of the Aseres HaDibros, Shemos
 20:13 and Devarim 5:17, is kidnapping, not ordinary theft.)
 
 ### gezeilah (גזילה)
-*Lo tigzol* (Vayikra 19:13), with repayment at Vayikra 5:23. Bereishis Rabbah
-54:3: *gezeilah* is taking in public, out in the open; one opinion requires that
-he take it in front of ten people, and if only nine he is "only" a *ganav*;
-another opinion requires that he come face to face with the victim and grab the
-item from his hand. Rambam (Hilchos Gezeilah 1:3) illustrates: grabbing movable
-goods from a man's hand (see Bava Basra 34a), entering his property without
-permission and taking (see Shevuos 44b), overpowering his slaves or animals and
-making them work (see Bava Kamma 97a), going into his field and eating his
-produce (see Bava Basra 38a).
+*Lo tigzol* (Vayikra 19:13), with repayment at Vayikra 5:23.
+
+- Bereishis Rabbah 54:3: *gezeilah* is taking in public, out in the open; one
+  opinion requires that he take it in front of ten people, and if only nine he
+  is "only" a *ganav*; another opinion requires that he come face to face with
+  the victim and grab the item from his hand.
+- Rambam (Hilchos Gezeilah 1:3) illustrates: grabbing movable goods from a man's
+  hand (see Bava Basra 34a), entering his property without permission and taking
+  (see Shevuos 44b), overpowering his slaves or animals and making them work
+  (see Bava Kamma 97a), going into his field and eating his produce (see Bava
+  Basra 38a).
 
 - Ernest Klein (no relation to Rabbi Reuven Chaim Klein) relates *gezel* to the
   Arabic *jazala*, "cut off," a violent ripping of the object out of its
@@ -123,11 +127,13 @@ Klein adds, in passing, that in Arabic the word is related to the Hebrew
 *chamas* is not etymologically connected to the name of the terrorist
 organization Hamas.
 
-Rashi (to Yoma 39a and Tehillim 71:4) and Radak (to Tehillim 71:4 and in
-*Sefer HaShorashim*) equate *chometz*/*chamtzan* with *gazlan* and *chamsan*,
-Radak explaining it by the interchange of tzadi and samech. The Netziv writes
-that *chamtzan* does not technically mean a thief; rather he is akin to a thief,
-one who took from something he rightfully deserved but took more than his due.
+- Rashi (to Yoma 39a and Tehillim 71:4) and Radak (to Tehillim 71:4 and in
+  *Sefer HaShorashim*) equate *chometz*/*chamtzan* with *gazlan* and *chamsan*,
+  Radak explaining it by the interchange of tzadi and samech.
+- The Netziv writes that *chamtzan* does not technically mean a thief; rather he
+  is akin to a thief, one who took from something he rightfully deserved but
+  took more than his due.
+
 (In Modern Hebrew *chamtzan* is oxygen, for unrelated reasons.)
 
 ### listim (לסטים)

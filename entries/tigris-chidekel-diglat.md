@@ -46,25 +46,29 @@ Abarbanel and Rabbi Binyamin Mussafia tie the river's Greek name to the tiger.
 
 ## Where the authorities disagree
 
-**Why the Torah says Chidekel and Chazal say Diglat.** Rabbi Naftali HaKohen Katz
-(*Kedushah U'Brachah* to Berachos 59b) reads the Gemara as answering an unspoken
-question from the Torah's side: Kush and Ashur are given their popular names, so why
-does the Tigris get an obscure one and not *Diglat*? Because *Chidekel* alludes to the
-river's character. Rabbi Matzliach Mazuz, in a 1937 letter to Rabbi Chawita Kohen of
-Djerba (*Vaya'an Shmuel* vol. 12 p. 76; also *Shayarei Kehunah HaChadash*, *Orach
-Chaim* 47), asks from the other side why Chazal preferred *Diglat*, and assumes that
-by their time people no longer called it *Chidekel*, so they used the familiar name.
-Rabbi Reuven Chaim Klein somewhat expands this by presuming that the two names are
-from two languages, *Chidekel* Hebrew and *Diglat* Aramaic; and Shadal (to Bereishis
-2:14) had already noted that they are cognates, the Aramaic dropping the initial chet
-and trading kuf for gimmel.
+**Why the Torah says Chidekel and Chazal say Diglat.**
 
-**What "sharp and light" describes.** *Torah Temimah* (to Bereishis 2:14): the water
-itself, sharp in taste and light, not hard on the body and weighing less than water
-from elsewhere (perhaps, Rabbi Reuven Chaim Klein wonders, for having fewer minerals). Rabbi Refael
-Mamo (*Shevo V'Achlamah* to Berachos 59b): the current, which runs fast where the
-Euphrates runs slow, since in Chazal's idiom whatever works fast is called sharp, as a
-sharp knife cuts quickly.
+- Rabbi Naftali HaKohen Katz (*Kedushah U'Brachah* to Berachos 59b) reads the
+  Gemara as answering an unspoken question from the Torah's side: Kush and Ashur
+  are given their popular names, so why does the Tigris get an obscure one and
+  not *Diglat*? Because *Chidekel* alludes to the river's character.
+- Rabbi Matzliach Mazuz, in a 1937 letter to Rabbi Chawita Kohen of Djerba
+  (*Vaya'an Shmuel* vol. 12 p. 76; also *Shayarei Kehunah HaChadash*, *Orach
+  Chaim* 47), asks from the other side why Chazal preferred *Diglat*, and
+  assumes that by their time people no longer called it *Chidekel*, so they used
+  the familiar name. Rabbi Reuven Chaim Klein somewhat expands this by presuming
+  that the two names are from two languages, *Chidekel* Hebrew and *Diglat*
+  Aramaic; and Shadal (to Bereishis 2:14) had already noted that they are
+  cognates, the Aramaic dropping the initial chet and trading kuf for gimmel.
+
+**What "sharp and light" describes.**
+
+- *Torah Temimah* (to Bereishis 2:14): the water itself, sharp in taste and
+  light, not hard on the body and weighing less than water from elsewhere
+  (perhaps, Rabbi Reuven Chaim Klein wonders, for having fewer minerals).
+- Rabbi Refael Mamo (*Shevo V'Achlamah* to Berachos 59b): the current, which
+  runs fast where the Euphrates runs slow, since in Chazal's idiom whatever
+  works fast is called sharp, as a sharp knife cuts quickly.
 
 **How the name is built.**
 - Rabbi Aharon Marcus (*Keses HaSofer* to Bereishis 2:11, *Barzilai* p. 127)
@@ -78,16 +82,18 @@ sharp knife cuts quickly.
 - Rabbi Mamo takes it differently, that the base is *dekel*, palm, and the
   Gemara asked only what the prefixed chet adds, the answer being *chad*.
 
-**Tigras in Chullin 59b.** Rabbi Binyamin Mussafia (*Mussaf HeAruch*): the tiger, so
-called because it runs as swiftly as an arrow; like Abarbanel, he notes that the
-Tigris is named for its fast current. Rabbi Reuven Chaim Klein adds that this
-etymology first appears in Isidore of Seville's Latin *Etymologies* (around the year
-600). Dr. Alexander Kohut (*HeAruch HaShaleim*) rejects Rabbi Mussafia's reading, partly because
-a tiger has nothing to do with a lion and partly because in context the Gemara seems to
-describe a mythological animal, and identifies *tigras* with the *martichoras*, the
-manticore of Old Persian myth, a lion with a human face and a scorpion's tail; he
-implies that the name was parsed as *mar* ("master") plus *tichoras*, corrupted to
-*tigras*.
+**Tigras in Chullin 59b.**
+
+- Rabbi Binyamin Mussafia (*Mussaf HeAruch*): the tiger, so called because it
+  runs as swiftly as an arrow; like Abarbanel, he notes that the Tigris is named
+  for its fast current. Rabbi Reuven Chaim Klein adds that this etymology first
+  appears in Isidore of Seville's Latin *Etymologies* (around the year 600).
+- Dr. Alexander Kohut (*HeAruch HaShaleim*) rejects Rabbi Mussafia's reading,
+  partly because a tiger has nothing to do with a lion and partly because in
+  context the Gemara seems to describe a mythological animal, and identifies
+  *tigras* with the *martichoras*, the manticore of Old Persian myth, a lion
+  with a human face and a scorpion's tail; he implies that the name was parsed
+  as *mar* ("master") plus *tichoras*, corrupted to *tigras*.
 
 ## Distinctions
 
@@ -130,24 +136,30 @@ Klein suggests, the Samaritans took the Masoretic chet for a typo and had the au
 to change it.
 
 ### dekel (דקל) and degel (דגל)
-Rabbi Refael Mamo ties both river-names to *dekel*, the palm, which grows thick along
-the Tigris to this day, *Diglat* reaching the same root through the kuf/gimmel
-interchange. The root of *Diglat* would seem to be ד-ג-ל, as in *degel*, a flag, and of
-*ha'dekel* ד-ק-ל. Rav Hirsch (to Bamidbar 1:52), without mentioning the river, notes the
-similarity of those two roots: a *degel* is a standard seen from afar, a palm a tall tree
-seen from a distance. Rabbi Reuven Chaim Klein adds that the river might connect to ד-ק-ל,
-and maybe even to ד-ג-נ, *dagan*, grain, since its water let both grow in the fertile
-crescent.
+
+- Rabbi Refael Mamo ties both river-names to *dekel*, the palm, which grows
+  thick along the Tigris to this day, *Diglat* reaching the same root through
+  the kuf/gimmel interchange.
+- The root of *Diglat* would seem to be ד-ג-ל, as in *degel*, a flag, and of
+  *ha'dekel* ד-ק-ל. Rav Hirsch (to Bamidbar 1:52), without mentioning the river,
+  notes the similarity of those two roots: a *degel* is a standard seen from
+  afar, a palm a tall tree seen from a distance.
+- Rabbi Reuven Chaim Klein adds that the river might connect to ד-ק-ל, and maybe
+  even to ד-ג-נ, *dagan*, grain, since its water let both grow in the fertile
+  crescent.
 
 ### Tiglat-Pileser
 The Assyrian king who began the exile of the Northern Kingdom is Tiglat-Pileser
-(Melachim II 15:29, 16:10), Tiglat-Plesser (Melachim II 16:7) or Tiglat-Pilnesser
-(Divrei HaYamim I 5:6, II 28:20). Wilhelm Gesenius, the German philologist, took the
-*Tiglat-* element as the *Diglat*, by the interchange of tav and dalet, and rendered
-the name "Lord of the Tigris." Modern Assyriologists have since shown that the
-original name was *Tukulti-apil-Esharra*, "my trust is in the son of Ashur," Ashur
-being the Assyrian nation (from Shem's son Ashur, Bereishis 10:22) and its chief deity;
-none of which, Rabbi Reuven Chaim Klein concludes, has to do with the Tigris.
+(Melachim II 15:29, 16:10), Tiglat-Plesser (Melachim II 16:7) or
+Tiglat-Pilnesser (Divrei HaYamim I 5:6, II 28:20).
+
+- Wilhelm Gesenius, the German philologist, took the *Tiglat-* element as the
+  *Diglat*, by the interchange of tav and dalet, and rendered the name "Lord of
+  the Tigris."
+- Modern Assyriologists have since shown that the original name was
+  *Tukulti-apil-Esharra*, "my trust is in the son of Ashur," Ashur being the
+  Assyrian nation (from Shem's son Ashur, Bereishis 10:22) and its chief deity;
+  none of which, Rabbi Reuven Chaim Klein concludes, has to do with the Tigris.
 
 ### the name Tigris, and tigras (תיגרס)
 *Tigris* is first recorded in Greek and Latin, and philologists have long argued
