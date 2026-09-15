@@ -13,7 +13,7 @@ words:
     distinct: the Torah's own name, since the date is fixed by counting seven weeks from Pesach rather than by a calendar day (Shemos 34:22; Devarim 16:10, 16:16)
   - he: עצרת
     tr: Atzeres
-    en: Assembly
+    en: Assembly, Conclusion
     distinct: the name of Chazal, never used for Shavuos in the Torah itself (Midrash Lekach Tov); read as "conclusion" of Pesach (Munkatcher Rebbe, Kedushas Levi) or as "gathering" after Yom HaKahal (Rabbi Dovid Tzvi Hoffmann, Rabbi Yaakov Tzvi Mecklenburg)
   - he: קציר
     tr: Chag HaKatzir
@@ -27,6 +27,14 @@ words:
     tr: Yom HaKahal
     en: Day of the Congregation
     distinct: Devarim 18:16, the Torah's name for the day of Matan Torah, and the ground for reading Atzeres as gathering (Rabbi Dovid Tzvi Hoffmann)
+  - he: חמישים
+    tr: Yom HaChamishim
+    en: the Fiftieth Day
+    distinct: post-Biblical, used by Josephus and other Jewish-Hellenistic sources, since Shavuos always falls on the fiftieth day of Sefiras HaOmer; the source of the English "Pentecost"
+  - he: טנא
+    tr: Chag HaTene
+    en: Festival of the Basket
+    distinct: post-Biblical, apparently the name Philo Judaeus of Alexandria gave it, alluding to the baskets in which the bikkurim were brought
 sources:
   - wiaw:7758 "Stop! It's Shavuot!" (2018-05-19) https://articles.ohr.edu/articles/stop-itas-shavuot
 authorities: [Midrash Lekach Tov (Rabbi Tuviah ben Eliezer), Ramban, Rabbi Chaim Elazar Shapiro (Munkatcher Rebbe), Rabbi Moshe Zacuto, Kedushas Levi (Rabbi Levi Yitzchak of Berditchev), Rabbi Dovid Tzvi Hoffmann, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Abramsky, Rabbi Baruch Epstein, Rashi, Josephus, Philo Judaeus]
@@ -54,6 +62,7 @@ Torah never applies it to this yom tov. Its sense is disputed,
 | קציר | Chag HaKatzir | Festival of the Harvest | the grain harvest season (Shemos 23:16) |
 | ביכורים | Yom HaBikkurim | Day of the First Fruits | first day bikkurim may be brought (Bamidbar 28:26) |
 | קהל | Yom HaKahal | Day of the Congregation | the Torah's name for Matan Torah (Devarim 18:16) |
+| חמישים | Yom HaChamishim | the Fiftieth Day | post-Biblical (Josephus); the fiftieth day of the Omer, whence "Pentecost" |
 | טנא | Chag HaTene | Festival of the Basket | post-Biblical; the baskets the bikkurim came in (apparently Philo) |
 
 ## Where the authorities disagree

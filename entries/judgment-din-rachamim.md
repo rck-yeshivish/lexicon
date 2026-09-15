@@ -41,8 +41,8 @@ to *din*.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| דין | din | judgment | focus on the receiver, giving measured by desert; not punishment; the Name *Elokim* (Rabbi Reuven Chaim Klein) |
-| רחמים | rachamim | mercy | focus on the Giver, giving constant and unearned; the four-letter Name (Rabbi Reuven Chaim Klein); motherly protection (Rav Hirsch) |
+| דין | din | judgment | focus on the receiver, giving measured by desert (Rabbi Klein); the Name *Elokim* |
+| רחמים | rachamim | mercy | focus on the Giver, giving constant and unearned (Rabbi Klein); motherly protection (Rav Hirsch) |
 
 ## Distinctions
 

@@ -51,11 +51,11 @@ argument of Vayikra 26 is about attitude, not chance.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מקרה | mikreh | occurrence, happenstance | a sudden collision with circumstances (Rabbi Shlomo Pappenheim); the meeting-point; cause unknown or irregular (Malbim) |
-| קרי | keri | offhandedness, flippancy | glib service, answered in kind (Rav Hirsch); a provoking posture (Rabbi Shlomo Pappenheim); Mishnaic euphemism for an emission |
+| מקרה | mikreh | occurrence, happenstance | a sudden collision with circumstances (Pappenheim); cause unknown or irregular (Malbim) |
+| קרי | keri | offhandedness, flippancy | glib service, answered in kind (Rav Hirsch); Mishnaic euphemism for an emission |
 | מציאה | metziah | finding | a happening from an ordinary cause (Malbim) |
-| תאונה | te'unah | mishap, befalling | the confluence of causes (Malbim); an unpredictable landing place (Rabbi Shaul Goldman) |
-| אירוע | i'rua | event, incident | post-biblical plain event; something landing on the ground (Rabbi Shaul Goldman) |
+| תאונה | te'unah | mishap, befalling | the confluence of causes (Malbim); an unpredictable landing place (Goldman) |
+| אירוע | i'rua | event, incident | post-biblical, a plain event; something landing on the ground (Goldman) |
 
 ## Distinctions
 

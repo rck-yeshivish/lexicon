@@ -18,12 +18,19 @@ words:
     tr: keluv
     en: basket, cage
     distinct: twice in Tanach, once for unripe figs (Amos 8:1) and once for birds being fattened (Yirmiyahu 5:27), whence the modern sense of a cage
+  - he: דוד
+    tr: dud
+    en: basket, pot
+    nk: דּוּד
+    distinct: a basket in Yirmiyahu 24:1-2 but a pot in Shmuel I 2:14 and Divrei HaYamim II 35:13, the vessels being much the same shape; which one goes by context
   - he: כלכלה
     tr: kalkalah
-    en: hamper, large basket
+    en: hamper
     distinct: Mishnaic; an especially large sal for storing all kinds of food, from kalkal, "to sustain" (Rabbi Tanchum HaYerushalmi)
-  - he: דוד
-    nk: דּוּד
+  - he: כפיפה
+    tr: kefifah
+    en: wicker basket
+    distinct: Mishnaic, spelled sometimes with a kuf and sometimes with a kaf; seems to mean specifically a wicker basket (Shabbos 2:2; Sotah 2:1, 3:1; Keilim 26:1)
 sources:
   - wiaw:8846 "A Basket Case" (2020-09-05) https://articles.ohr.edu/articles/a-basket-case
   - wiaw:10020 "A Basket Case" (2022-09-17) https://articles.ohr.edu/articles/a-basket-case-2
@@ -47,7 +54,9 @@ large Mishnaic **hamper**.
 | טנא | tene | fruit basket | typically loosely woven so fruit will not spoil (Pappenheim); only in Ki Savo |
 | סל | sal | basket | the standard word; bread basket in daily use (Pappenheim); "lifting" (Rav Hirsch) |
 | כלוב | keluv | basket, cage | unripe figs (Amos 8:1) or birds being fattened (Yirmiyahu 5:27) |
+| דוד | dud | basket, pot | a basket (Yirmiyahu 24:1-2) or a pot (Shmuel I 2:14), by context |
 | כלכלה | kalkalah | hamper | a large sal for storing food, from kalkal, "to sustain" (Rabbi Tanchum) |
+| כפיפה | kefifah | wicker basket | Mishnaic; seems to mean specifically a wicker basket |
 
 ## Where the authorities disagree
 

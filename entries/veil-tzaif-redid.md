@@ -44,9 +44,9 @@ public. Targum pseudo-Yonasan and Targum Yerushalmi always render *tza'if* as
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| צעיף | tza'if | veil, shawl, headcloth | spread on her face (Midrash Sechel Tov, Carpentras, al Damari); wrapping (Gesenius, Shadal); worn going outside (Rabbi Yitzchak Ratzabi) |
-| רדיד | redid | shawl, wrap | thin head covering (Sefer HaAruch, Radak); like a tallis (Ibn Ezra); hangs down (Rabbi Shlomo Pappenheim); worn in public (Rambam) |
-| סודר | sudar | shawl | a man's shawl, unlike *tza'if* and *redid*; a signal cloth; from *sudarium* (Rabbi Ernest Klein) |
+| צעיף | tza'if | veil, shawl, headcloth | spread over her face (Midrash Sechel Tov); worn going outside (Rabbi Ratzabi) |
+| רדיד | redid | shawl, wrap | a thin head covering (Sefer HaAruch, Radak); worn in public (Rambam) |
+| סודר | sudar | shawl | a man's shawl, unlike *tza'if* and *redid*; also a signal cloth |
 
 ## Distinctions
 

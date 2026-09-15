@@ -42,9 +42,9 @@ when they appear together, so that Rashi's canal is what *yeor* means beside a
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| נהר | nahar | river | the ordinary river, standing out above its tributaries (Rabbi Shlomo Pappenheim); stays within its banks (Malbim); natural beside a *yeor* (Rashi, Tannenbaum) |
-| יאור | yeor | irrigation canal, the River | irrigation canal (Rashi), only beside *nahar* (Tannenbaum); overflows its banks, mostly the Nile (Malbim); violent current (Rabbi Pappenheim) |
-| נחל | nachal | brook, wadi | river and valley at once; eroding river or seasonal runoff; only a river flowing to the sea (Wertheimer); circular motion (Rabbi Pappenheim) |
+| נהר | nahar | river | the ordinary river, above its tributaries (Pappenheim); keeps within its banks (Malbim) |
+| יאור | yeor | irrigation canal, the River | an irrigation canal (Rashi); overflows its banks, mostly the Nile (Malbim) |
+| נחל | nachal | brook, wadi | river and valley at once; only a river flowing to the sea (Wertheimer) |
 
 ## Distinctions
 

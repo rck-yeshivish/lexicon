@@ -18,16 +18,22 @@ words:
     tr: cheled
     en: the transient world
     distinct: the world under time; Radak makes CHET-LAMED-DALET and its metathesis CHET-DALET-LAMED synonyms of zman, and Rav Hirsch ties chadal, to cease, and chaludah, rust, to man's wearing out
+  - he: חרבה
+    tr: charavah
+    en: dry land
+    nk: חָרָבָה
+    distinct: one of the seven names for the earth (Avos d'Rabbi Nasan); dry land, like yabashah, so called for absorbing the Mabul's waters (version 2), or Hevel's blood (Midrash Mishlei)
+  - he: יבשה
+    tr: yabashah
+    en: dry land
+    nk: יַבָּשָׁה
+    distinct: one of the seven names for the earth (Avos d'Rabbi Nasan); dry land, the same meaning as charavah, both named for absorbing the Mabul's waters (version 2)
   - he: קרקע
     tr: karka
-    en: floor, ground
+    en: floor
     distinct: not a word for land at all in Biblical Hebrew but the floor under a building or a sea, only later near-synonymous with eretz and adamah (Rabbi Avraham Bedersi)
   - he: חדל
     nk: חֶדֶל
-  - he: חרבה
-    nk: חָרָבָה
-  - he: יבשה
-    nk: יַבָּשָׁה
 sources:
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
 authorities: [Avos d'Rabbi Nasan, Metzudas Tziyon, Malbim, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yom Tov Tzahalon, Rabbi Shmuel Yaffe-Ashkenazi, Midrash Mishlei, Rabban Shimon ben Gamliel, Bereishis Rabbah, Radak, Ibn Ezra, Yerushalmi Shabbos, Rabbi David Chaim Chelouche, Rav Hirsch, Rabbi Avraham Bedersi]
@@ -53,7 +59,8 @@ letters, different nikud, one root. And *karka* is not on this list at all.
 | תבל | taivel | the inhabited world | the settled parts (Malbim, Metzudas Tziyon); Rashi: everywhere but Eretz Yisrael |
 | ארקא | arka | earth | once only, Yirmiyahu 10:11, in Aramaic context |
 | חלד | cheled | the transient world | the earth as subject to time (Radak); *chadal*, to cease; *chaludah*, rust (Rav Hirsch) |
-| חרבה, יבשה | charavah, yabashah | dry land | named for absorbing the waters of the Mabul (Avos d'Rabbi Nasan) |
+| חרבה | charavah | dry land | named for absorbing the waters of the Mabul (Avos d'Rabbi Nasan) |
+| יבשה | yabashah | dry land | named for absorbing the waters of the Mabul (Avos d'Rabbi Nasan) |
 | קרקע | karka | floor | not "land" in Tanach at all, but the floor beneath a building or sea (Bedersi) |
 
 ## Where the authorities disagree

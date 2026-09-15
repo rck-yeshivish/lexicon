@@ -8,7 +8,7 @@ domain: quantity
 words:
   - he: ספירה
     tr: sefirah
-    en: counting (a marked, qualitative count)
+    en: counting
     distinct: a count in which each unit is marked and something is required of it, not only the total (Rabbi Yaakov Tzvi Mecklenburg); linked to sapir, the flawless gem, since the count is meant to purify the counter
   - he: מספר
     tr: mispar
@@ -17,7 +17,7 @@ words:
     distinct: a number functioning as a limit, as the mispar of lashes in Devarim 25:2 (Mecklenburg); the Gra makes it the specific number reached, against minyan as the count in general
   - he: מונה
     tr: moneh
-    en: to count, to tally
+    en: count, tally
     distinct: counting things worth counting, from maneh, a respectable portion (Mecklenburg); the count is for the total alone, the individual unit not necessarily carrying weight
   - he: מנין
     tr: minyan
@@ -56,7 +56,7 @@ and it differs from the *moneh* of the Kohen Gadol's sprinklings.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| ספירה / ספר | sefirah / sofer | counting | each unit marked and required, not only the sum (Mecklenburg) |
+| ספירה | sefirah | counting | each unit marked and required, not only the sum (Mecklenburg) |
 | מספר | mispar | number | a number used as a limit (Mecklenburg); the specific number reached (the Gra) |
 | מונה | moneh | count, tally | counting what is worth counting, from maneh (Mecklenburg); only the total matters |
 | מנין | minyan | tally, quorum | the resulting number; a general count (the Gra) |

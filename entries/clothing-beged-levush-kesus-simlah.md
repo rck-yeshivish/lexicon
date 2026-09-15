@@ -8,7 +8,7 @@ domain: body
 words:
   - he: בגד
     tr: beged
-    en: garment (the general word)
+    en: garment
     distinct: the hypernym, covering every kind of clothing (Malbim); Maharik narrows it to an unfitted piece of cloth like a tallis; kin to begidah, treachery, the facade a man puts up (Rabbi Moshe Shapiro)
   - he: לבוש
     tr: levush
@@ -24,15 +24,15 @@ words:
     distinct: a kesus worn at night; unlike a plain kesus it also lends its wearer honor (Malbim); a linen cloth folded over head and shoulders, unfolding to a bed sheet (Wertheimer)
   - he: מד
     tr: mad
-    en: fitted garment, uniform
+    en: fitted garment
     distinct: custom-fitted to its wearer, from moded, "measure"
   - he: מעיל
     tr: me'il
-    en: robe, outer garment
+    en: robe
     distinct: the outermost layer, from mei'al, "on top" (Malbim); thin and delicate (Wertheimer); kin to me'ilah, betrayal (Rabbi Moshe Shapiro)
   - he: מעטה
     tr: maateh
-    en: wrap, covering
+    en: wrap
     distinct: wrapping or enveloping generally, not necessarily clothing at all
   - he: שלמה
     nk: שַׂלְמָה

@@ -16,7 +16,7 @@ words:
     distinct: the neutral word, lawful or not (Rashbam, Rabbi Pappenheim); reaches indirect killing (Bedersi) and the killing of animals and plants
   - he: קטילה
     tr: ketilah
-    en: killing (Aramaic); striking down
+    en: killing (Aramaic)
     distinct: the Targumim's word for both Hebrew terms, and the ordinary Aramaic verb; in Hebrew Rabbi Pappenheim limits it to striking a man to the verge of death, and its Talmudic sense of "cutting" may, Rabbi Klein suggests, be its core
   - he: מיתה
     nk: מִיתָה

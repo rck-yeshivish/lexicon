@@ -40,9 +40,9 @@ speech.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| בגלל | biglal | on account of, because of | a reason already on the ground that justifies the act (Heidenheim, Mecklenburg, Malbim) |
-| בעבור | baavur | in order that, so that | the reason is the intended outcome, not yet in existence (Heidenheim, Mecklenburg, Malbim) |
-| בשביל | bishvil | because | post-Biblical; usually equal to *biglal*; *shvil*, the road of ankles, as *eikev* (Rabbi Shlomo Pappenheim) |
+| בגלל | biglal | on account of, because of | the reason already exists and justifies the act (Heidenheim, Malbim) |
+| בעבור | baavur | in order that, so that | the reason is the intended outcome, not yet in existence (Heidenheim, Malbim) |
+| בשביל | bishvil | because | post-Biblical, usually equal to *biglal*; the everyday modern word |
 
 ## Distinctions
 

@@ -57,12 +57,12 @@ context narrows it (Rabbi Mecklenburg).
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| מנחה | minchah | homage, tribute | serves the giver, showing subservience (Rav Hirsch); gains atonement (Wertheimer); even a tax, the more submissive the more fitting (Rabbi Mecklenburg) |
-| מתנה | matanah | gift | fills the receiver's need, nothing coming back (Wertheimer); not for an offering to Hashem (Rabbi Mecklenburg), who has no needs (Rabbi Klein) |
-| שי | shai | weighty gift | *yesh* reversed, a gift of substance (Bedersi); weighty to the giver, not the receiver, so always given to Hashem (Wertheimer) |
-| תשורה | teshurah | showpiece gift | the eye-catching present people look at and sing over (Midrash Shocher Tov, Wertheimer); brought on greeting a navi or holy man (Malbim) |
-| אשכר | eshkar | gift (no settled English) | obscure; root uncertain (Radak); choice fruits (Ibn Ramoch); aesthetic worth that intoxicates the receiver (Wertheimer); from *sachar*, reward (Malbim) |
-| דורון | doron | gift | not in Tanach; Greek for gift (Rabbi Eliyahu HaBachur); Targum Yonasan's word for Yaakov's *minchah* |
+| מנחה | minchah | homage, tribute | serves the giver, showing subservience (Rav Hirsch); gains atonement (Wertheimer) |
+| מתנה | matanah | gift | fills the receiver's need, nothing coming back (Wertheimer); not offered to Hashem (Mecklenburg) |
+| שי | shai | weighty gift | a gift of substance (Bedersi); weighty to the giver (Wertheimer); always to Hashem |
+| תשורה | teshurah | showpiece gift | the eye-catching showpiece (Wertheimer); brought on greeting a navi (Malbim) |
+| אשכר | eshkar | gift (no settled English) | obscure and disputed; choice fruits (Ibn Ramoch), or a gift that intoxicates (Wertheimer) |
+| דורון | doron | gift | not Hebrew; the Greek for gift (Rabbi Eliyahu HaBachur), used by the Targum |
 
 ## Distinctions
 

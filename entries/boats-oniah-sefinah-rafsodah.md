@@ -18,6 +18,11 @@ words:
     tr: rafsodah
     en: raft
     distinct: beams tied together, the same thing as dovrah (Rashi and Radak to Melachim I 5:23 and Divrei HaYamim II 2:15)
+  - he: עברה
+    tr: avarah
+    en: ferry
+    nk: עֲבָרָה
+    distinct: the ferry (Shmuel II 19:19), from l'avor, to cross over; in the Gemara ma'abara or mavra (Shabbos 32a, Bava Kama 116a)
   - he: דוגית
     tr: dugit
     en: fishing skiff
@@ -26,8 +31,6 @@ words:
     tr: tzi
     en: large ship, warship
     distinct: an especially large vessel (Rashi to Bamidbar 24:24, Yeshayahu 23:13), typically a battleship, built big and strong (Malbim)
-  - he: עברה
-    nk: עֲבָרָה
 sources:
   - wiaw:8991 "Vayechi: Boats, Ships and Nautical Rhapsody" (2021-01-02) https://articles.ohr.edu/articles/vayechi-boats-ships-and-nautical-rhapsody
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
@@ -52,6 +55,7 @@ warship. In a pasuk *sefinah* is a rarity, in a Mishnah the default word.
 | אניה | oniah | ship | the general Biblical term, qualified for type (oni Tarshish, oni shayit) |
 | ספינה | sefinah | ship, boat | once in Tanach; the standard Mishnaic word (possibly a lesser, coastal vessel, per Rabbi Shlomo Pappenheim) |
 | רפסודה | rafsodah | raft | tied beams, same as dovrah (Rashi, Radak) |
+| עברה | avarah | ferry | the ferry (Shmuel II 19:19), from *l'avor*, to cross over |
 | דוגית | dugit | fishing skiff | the fisherman's small boat (Bava Basra 73a), from dag (Sperber) |
 | צי | tzi | large ship, warship | especially large (Rashi); a battleship (Malbim) |
 

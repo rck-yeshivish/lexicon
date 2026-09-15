@@ -6,8 +6,15 @@ translit: [derech, derekh, derachim, drachim, dorech, doreich, orach, orah, orch
 english: [way, road, path, street, paved road, footpath, circular path, downhill path]
 domain: other
 words:
+  - he: דרך
+    tr: derech
+    en: way, road
+    distinct: wide and open to the public (Vilna Gaon); runs from major city to major city (Malbim); the same road as the orach, seen for its length (Pappenheim); from dorech, to tread, the path of life whose trials a man treads down (Rabbi Moshe Shapiro)
   - he: אורח
+    tr: orach
+    en: path
     nk: אוֹרַח
+    distinct: short, narrow, less commonly traveled (Vilna Gaon); the road reaching the outlying towns and villages (Malbim); a new road no one has trodden, tied to the righteous (Zohar); the same road as the derech, seen for its width (Pappenheim)
   - he: רחוב
     tr: rechov
     nk: רְחוֹב
@@ -16,7 +23,7 @@ words:
   - he: נתיב
     tr: netiv
     nk: נָתִיב
-    en: path, narrow path
+    en: narrow path
     distinct: shorter and/or narrower than a derech (given as "others explain"; no authority named), and in the Zohar's approach private, open only to select individuals, where a derech is open to the public
   - he: מסילה
     tr: mesilah
@@ -67,7 +74,7 @@ name; the others are anonymous explanations.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| דרך | derech | way, road | wide and public, city to city (Vilna Gaon; Malbim); from *dorech*, to tread |
+| דרך | derech | way, road | wide and public (Vilna Gaon); city to city (Malbim); from *dorech*, to tread |
 | אורח | orach | path | short, narrow, less commonly traveled (Vilna Gaon); reaches the outlying towns (Malbim) |
 | רחוב | rechov | street | the road inside a town, against *derech* between towns ("some explain") |
 | נתיב | netiv | narrow path | shorter and/or narrower than a *derech* ("others explain"); private, for select individuals (Zohar) |

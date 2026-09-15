@@ -46,10 +46,10 @@ between Hashem and what is below. On Rabbi Shlomo Pappenheim's reading,
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| פרוכת | paroches | dividing curtain | divides king from people, Kodesh from Kodesh HaKodashim (Rashi); any border between two domains, a function not a fabric (Rabbi Shlomo Pappenheim) |
-| מסך | masach | screen | covers an entrance (Rashi); heavy cloth that shields from view, from ס-כ, covering (Rabbi Shlomo Pappenheim) |
-| וילון | vilon | curtain | plain Rabbinic curtain; a loanword, *velum*, kin to *veil*; the first of the seven heavens |
-| פרגוד | pargod | partition curtain | stands where *paroches* stands (Rav Hai Gaon); separates a *chasan* (Sefer HaAruch); in aggadah, what screens Hashem (Rashi) |
+| פרוכת | paroches | dividing curtain | divides Kodesh from Kodesh HaKodashim (Rashi); a function, not a fabric (Pappenheim) |
+| מסך | masach | screen | covers an entrance (Rashi); heavy cloth that shields from view (Pappenheim) |
+| וילון | vilon | curtain | the plain Rabbinic curtain, a loanword (*velum*); the first of seven heavens |
+| פרגוד | pargod | partition curtain | stands where the *paroches* stands (Rav Hai Gaon); in aggadah, what screens Hashem (Rashi) |
 
 ## Distinctions
 

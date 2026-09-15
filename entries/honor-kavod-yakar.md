@@ -38,8 +38,8 @@ square one. *Yakar* means "rare" (Shmuel I 3:1), "costly"
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| כבוד | kavod | honor | weight; inherent worth (Malbim); or importance relative to others (Rabbi Avraham Vilner) |
-| יקר | yakar | precious, esteem | rarity and impact (Rabbi Pappenheim); circumstance, not inherent worth (Malbim); or inherent worth (Rabbi Avraham Vilner); perhaps Aramaic *kavod* (Rabbi Klein) |
+| כבוד | kavod | honor | weight; inherent worth (Malbim), or importance relative to others (Vilner) |
+| יקר | yakar | precious, esteem | rarity and impact (Pappenheim); inherent worth for Vilner, not for Malbim |
 
 ## Distinctions
 

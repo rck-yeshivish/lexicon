@@ -12,7 +12,7 @@ words:
     distinct: the plural, "many lice"; the classical lexicographers (Ibn Janach, Rashbam, Ibn Ezra, Ibn Parchon) hold the mem is not part of the root, which is the biliteral כ-נ
   - he: כנם
     tr: kinam
-    en: the lice, as a species
+    en: the lice
     distinct: a singular form naming the whole species of lice rather than individuals (Ibn Janach, Rashbam, Ibn Ezra, Ibn Parchon), used twice in the makkah account (Shemos 8:13 to 14)
   - he: כנה
     tr: kinah

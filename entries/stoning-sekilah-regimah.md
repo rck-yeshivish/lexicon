@@ -8,11 +8,11 @@ domain: action
 words:
   - he: סקילה
     tr: sekilah
-    en: stoning
+    en: stoning, pelting
     distinct: the act of throwing stones, which need not be fatal (Yashar; Shimi ben Geira "stoned" Dovid HaMelech without killing him); the same root also means clearing a field of stones
   - he: רגימה
     tr: regimah
-    en: stoning to death, pelting
+    en: stoning to death
     distinct: the result rather than the act, the victim subdued and immobile (Rabbi Shlomo Pappenheim), or stoning to death (Yashar); a whole heap thrown, a communal effort rather than a single stone (Rabbi Yehuda Leib Shapira-Frankfurter)
   - he: מרגמה
     tr: margeimah
@@ -43,8 +43,7 @@ of stones (Ibn Janach, Radak).
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| סקילה | sekilah | stoning, pelting | the act of throwing; not necessarily fatal, hence the added "he shall be put to death" (Yashar); could in theory be done with a single stone (Shapira-Frankfurter) |
-| סקל | sakel | clear of stones | the same root used in reverse, removing stones from a field or road (Yeshayahu 5:2, 62:10) |
+| סקילה | sekilah | stoning, pelting | the act of throwing, not necessarily fatal (Yashar); one stone could in theory suffice (Shapira-Frankfurter) |
 | רגימה | regimah | stoning to death | the result: subdued and immobile (Pappenheim); a heap thrown, typically by "the entire nation" (Shapira-Frankfurter) |
 | מרגמה | margeimah | sling, catapult | the launching device (Mishlei 26:8), seemingly from ר-ג-מ |
 

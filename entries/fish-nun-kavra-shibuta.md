@@ -16,14 +16,17 @@ words:
     distinct: the other common Aramaic word; Tosafos (Moed Katan 11a) leaves open whether it means fish in general or one species; Chullin 109b, which compares its taste to a bird's, reads like a species, and Jastrow reads it as fish kept live in a basket
   - he: שיבוטא
     tr: shibuta
-    en: shibuta (a Babylonian river fish)
+    en: shibuta
     distinct: a named kosher fish whose brain tastes like pork (Chullin 109b) and which the Yerushalmi places in Bavel and not in Eretz Yisrael; some tie the name to Shabbos
   - he: סנדל
     tr: sandal
     en: sandal-fish
     distinct: a fish of the sea (Niddah 25b), the shape a certain miscarriage is compared to; Meiri likens it to a free-floating piece of meat with no clear limbs
   - he: תנין
+    tr: tanin
+    en: sea monster
     nk: תַּנִּין
+    distinct: the sea-monsters of the fifth day (Bereishis 1:21); a big fish (Rashi), or to the sea what nachash is to land, suggesting a sea snake (Vilna Gaon); built on nun, the tav not being root (Rabbi Aharon Marcus, Rav Hirsch)
 sources:
   - wiaw:9234 "Fun with Fish (Part 2/2)" (2021-06-05) https://articles.ohr.edu/articles/fun-with-fish-part-22
   - wiaw:7321 "Slithering Serpents and Sea Snakes - Part 1" (2017-07-01) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1
@@ -45,10 +48,11 @@ derashah on it.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| נון | nun | fish | Aramaic; Targum's standard rendering of dag; absent from Tanach as a word for fish (Rabbi Aharon Marcus theorizes it was left out because the nations deified it) |
+| נון | nun | fish | Aramaic, the Targum's *dag*; absent from Tanach, perhaps as a deified name (Rabbi Aharon Marcus) |
 | כוורא | kavra | fish | Aramaic; possibly a species rather than the general term (Tosafos to Moed Katan 11a; Chullin 109b) |
 | שיבוטא | shibuta | shibuta | a specific kosher river fish of Bavel whose brain tastes like pork (Chullin 109b) |
-| סנדל | sandal | sandal-fish | shaped like a fish of the sea (Niddah 25b); like a piece of meat without clear limbs (Meiri to Yevamos 12b) |
+| סנדל | sandal | sandal-fish | a sea fish (Niddah 25b); like a piece of meat without clear limbs (Meiri) |
+| תנין | tanin | sea monster | the sea-monsters of Bereishis 1:21; a big fish (Rashi), perhaps a sea snake (Vilna Gaon) |
 
 ## Where the authorities disagree
 

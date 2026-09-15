@@ -52,11 +52,11 @@ and Malbim and others make a *shvil* narrower than a *netiv*.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | רחוב | rechov | city street | a street within a city (Rabbi Meshullam); also a town square |
-| נתיב | netiv | path | narrow (Rabbeinu Bachya); an approach road (Vilna Gaon); not public (Malbim, Zohar); a private shortcut (Wertheimer) |
+| נתיב | netiv | path | narrow (Rabbeinu Bachya); private, not public (Malbim, Zohar) |
 | מסילה | mesilah | paved road | paved, usually the walk at a street's edge (Malbim); straight (Wertheimer) |
 | מעגל | maagal | roundabout way | circular (Vilna Gaon); goes nowhere useful, the scenic route (Wertheimer) |
-| משעול | mishol | footpath | for feet or a rider, not a wagon (Rabbi Shlomo Pappenheim); a fox track (Rabbi Moshe Shapiro) |
-| שביל | shvil | trail | a steep downward path (Rav Hirsch); narrower than a *netiv* (Malbim); one ankle wide (Wertheimer) |
+| משעול | mishol | footpath | for feet or a rider, not a wagon (Pappenheim) |
+| שביל | shvil | trail | a steep downward path (Rav Hirsch); one ankle wide (Wertheimer) |
 
 ## Distinctions
 
