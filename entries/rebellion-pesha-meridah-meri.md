@@ -104,12 +104,15 @@ Moshe calls the nation *mamrim* for refusing Hashem's word (Devarim 9:7, 9:24,
 31:27); the Mishnah's renegade elder who defies the Sanhedrin is a *zaken mamre*
 (*Sanhedrin* 11:2); the Gemara's apostate is a *mumar* (*Shabbos* 69a, 87a,
 *Eruvin* 69a-b, *Yevamos* 47b); and the rebellious son is a *ben sorer u'moreh*
-(Devarim 21:18), *moreh* being a cognate of *mamre*. The *Sifrei* (*Ki Seitzei*
-218) darshens that *moreh* on *moreh* meaning "teaching": the boy has taught
-himself another path. But that exegesis does not tell us the
-etymological basis of *mamre*. Ibn Janach and Radak give the roots מ-ר-ה and מ-ר-ר, both of
-which can refer to rebelling or to changing from what one was commanded;
-*Machberet Menachem*, as one would expect, links them all to the biliteral מ-ר.
+(Devarim 21:18), *moreh* being a cognate of *mamre*.
+
+- The *Sifrei* (*Ki Seitzei* 218) darshens that *moreh* on *moreh* meaning
+  "teaching": the boy has taught himself another path. But that exegesis does
+  not tell us the etymological basis of *mamre*.
+- Ibn Janach and Radak give the roots מ-ר-ה and מ-ר-ר, both of which can refer
+  to rebelling or to changing from what one was commanded.
+- *Machberet Menachem*, as one would expect, links them all to the biliteral
+  מ-ר.
 
 Rabbi Shlomo Pappenheim develops מ-ר as changing, switching, clearing one thing
 away so another can take its place, and lists: *mohar* (bride price, given in

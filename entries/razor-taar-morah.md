@@ -51,16 +51,18 @@ a sword's scabbard: as the razor takes off the hair and lays the skin bare, so
 the sword appears suddenly when it is drawn out.
 
 ### morah (מורה)
-The word in the Neviim for the same prohibition. Linguists
-admit they do not know its etymological source, though some suggest that its
-original root is also ע-ר-ה, with the initial *ayin* dropped, which would put it
-with *taar* on Rav Hirsch's reading. Two further etymologies are given. Rashi (to
-Shoftim 13:5) ties *morah* to י-ר-ה, "shoots" or "throws away," because the razor
-throws the hair away, so to speak. Rabbi Shlomo Pappenheim takes the root as מ-ר,
-transferring or switching, the root of *temurah* (which attempts to transfer
-*kedushah* from one animal to another) and *mumar* (one who rejects Judaism and
-switches to another religion): shaving away hair paves the way for a new batch to
-replace what was cut.
+The word in the Neviim for the same prohibition. Linguists admit they do not
+know its etymological source, though some suggest that its original root is also
+ע-ר-ה, with the initial *ayin* dropped, which would put it with *taar* on Rav
+Hirsch's reading. Two further etymologies are given.
+
+- Rashi (to Shoftim 13:5) ties *morah* to י-ר-ה, "shoots" or "throws away,"
+  because the razor throws the hair away, so to speak.
+- Rabbi Shlomo Pappenheim takes the root as מ-ר, transferring or switching, the
+  root of *temurah* (which attempts to transfer *kedushah* from one animal to
+  another) and *mumar* (one who rejects Judaism and switches to another
+  religion): shaving away hair paves the way for a new batch to replace what was
+  cut.
 
 *Vayikra Rabbah* 10:5 hears "fear" in the word: why is the *taar* called a
 *morah*? Because hair is scared (*morah*) only of the razor, which shaves it with
@@ -69,13 +71,15 @@ a shaving of destruction, as it says "do not destroy the corner of your beard"
 obscured, and treats it as an opening for the discussion.
 
 ### The dispute at Shmuel I 1:11
-Targum (to Shoftim 13:5 and 16:17) renders *morah* as scissors by Shimshon, and
-Targum (to Shmuel I 1:11) renders it "fear of men" by Shmuel; Rashi follows the
-same split in each place. Radak renders *morah* "razor" everywhere, and explains
-that Targum and Rashi are following Rabbi Yossi, who holds (*Nazir* 66a) that
-Shimshon was a *nazir* but Shmuel was not; on that view Chana's vow cannot be
-about a razor, so *morah* there must mean the fear of other men. Radak himself
-holds like Rabbi Nehorai, that Shmuel was a *nazir*, and so keeps "razor."
+
+- Targum (to Shoftim 13:5 and 16:17) renders *morah* as scissors by Shimshon,
+  and Targum (to Shmuel I 1:11) renders it "fear of men" by Shmuel; Rashi
+  follows the same split in each place.
+- Radak renders *morah* "razor" everywhere, and explains that Targum and Rashi
+  are following Rabbi Yossi, who holds (*Nazir* 66a) that Shimshon was a *nazir*
+  but Shmuel was not; on that view Chana's vow cannot be about a razor, so
+  *morah* there must mean the fear of other men. Radak himself holds like Rabbi
+  Nehorai, that Shmuel was a *nazir*, and so keeps "razor."
 
 ## Rendering guidance
 

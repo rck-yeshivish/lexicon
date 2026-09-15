@@ -99,14 +99,16 @@ first rain, and it teaches people to reinforce their roofs and bring the produce
 indoors before the later rains come. *Malkosh* is tied to *mekoshesh*, one who
 reaps; it falls at the onset of spring, around Pesach, just before the harvest.
 
-Ibn Janach and Radak derive three meanings from the one root י-ר-ה: throwing
-(*yarah bayam*, Shemos 15:4), teaching (*yoreh deah*, Yeshayahu 28:9), and rain
-(*yoreh*, *moreh*, Devarim 11:14, Yoel 2:23); Menachem Ibn Saruk traces them
-to the single letter ר and adds a fourth, spittle (Vayikra 15:3, Shmuel I
-21:14, Iyov 6:6). None of them suggests a thematic link, and Rabbi Klein
-proposes that the common theme is unidirectional movement: a thing thrown goes
-away from oneself, rain and spittle flow only downward, and teaching passes
-from teacher to student and not the reverse.
+- Ibn Janach and Radak derive three meanings from the one root י-ר-ה: throwing
+  (*yarah bayam*, Shemos 15:4), teaching (*yoreh deah*, Yeshayahu 28:9), and
+  rain (*yoreh*, *moreh*, Devarim 11:14, Yoel 2:23).
+- Menachem Ibn Saruk traces them to the single letter ר and adds a fourth,
+  spittle (Vayikra 15:3, Shmuel I 21:14, Iyov 6:6).
+
+None of them suggests a thematic link, and Rabbi Klein proposes that the common
+theme is unidirectional movement: a thing thrown goes away from oneself, rain
+and spittle flow only downward, and teaching passes from teacher to student and
+not the reverse.
 
 ### Rabbi Klein's own answer
 Rabbi Klein answers that the different words for

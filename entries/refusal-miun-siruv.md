@@ -71,18 +71,22 @@ A hapax at best, and even that instance is not universally agreed upon. When
 Hashem tells Yechezkel not to fear repercussions from the people over his
 prophecies, He calls them *saravim* and *salonim* (Yechezkel 2:6). The
 commentators agree that *salonim* are a kind of thorn; on *saravim* there are
-two approaches. Menachem Ibn Saruk (920-970), Rashi (1040-1105), Radak
-(1160-1234) and others explain that the people were "rebels" and "refusers," and
-Menachem goes so far as to define *meridah* by *sarvanus* and *saravanim* by
-*mardus*; on their reading this is the only instance in Tanach of the root
-ס-ר-ב in the sense of refusing. Menachem's famous interlocutor Donash Ibn Labrat
-(920-990) disagrees with that assessment, proffering instead that *saravim* is a
-kind of thorn, just as *salonim* is. Rashi, Mahari Kara and others compare
-*salonim* to *silon* (Yechezkel 28:24), which they likewise take as a thorn;
-Rabbi Shlomo Pappenheim, however, distinguishes the two. He traces both to the
-two-letter root ס-ל, repeated action: *salonim*, said of the people, are those
-who repeatedly bother and provoke others, while a *silon* is a thistle whose
-many prickly spikes stab one who holds it again and again.
+two approaches.
+
+- Menachem Ibn Saruk (920-970), Rashi (1040-1105), Radak (1160-1234) and others
+  explain that the people were "rebels" and "refusers," and Menachem goes so far
+  as to define *meridah* by *sarvanus* and *saravanim* by *mardus*; on their
+  reading this is the only instance in Tanach of the root ס-ר-ב in the sense of
+  refusing.
+- Menachem's famous interlocutor Donash Ibn Labrat (920-990) disagrees with that
+  assessment, proffering instead that *saravim* is a kind of thorn, just as
+  *salonim* is.
+- Rashi, Mahari Kara and others compare *salonim* to *silon* (Yechezkel 28:24),
+  which they likewise take as a thorn.
+- Rabbi Shlomo Pappenheim, however, distinguishes the two. He traces both to the
+  two-letter root ס-ל, repeated action: *salonim*, said of the people, are those
+  who repeatedly bother and provoke others, while a *silon* is a thistle whose
+  many prickly spikes stab one who holds it again and again.
 
 In that same perek Hashem uses forms of *meri* /
 *meridah* six times and Targum renders each with a cognate of *siruv*; and

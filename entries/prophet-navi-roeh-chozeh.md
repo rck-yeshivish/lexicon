@@ -48,13 +48,14 @@ switch to Aramaic as a mark of dimmer clarity.
 ## Distinctions
 
 ### navi (נביא)
-Two accounts of the root. Rashi (to Shemos 7:1 and Nechemiah 6:7) and Rashbam
-(to Bereishis 20:7) tie *navi* to *niv*, as in *niv sefasayim* (Yeshayahu
-57:19), the fruit of the lips; a *navi* is one whose lips bear fruit. Rashbam
-defines the man Hashem calls a *navi* as one who is regularly with Him, speaks
-His words, and whose words He loves and whose *tefillos* He hears. Radak says
-the same at Shmuel I 9:9.
+Two accounts of the root.
 
+- Rashi (to Shemos 7:1 and Nechemiah 6:7) and Rashbam (to Bereishis 20:7) tie
+  *navi* to *niv*, as in *niv sefasayim* (Yeshayahu 57:19), the fruit of the
+  lips; a *navi* is one whose lips bear fruit. Rashbam defines the man Hashem
+  calls a *navi* as one who is regularly with Him, speaks His words, and whose
+  words He loves and whose *tefillos* He hears. Radak says the same at Shmuel I
+  9:9.
 - Against this, Ibn Ezra (to Shemos 7:1) rules the derivation untenable: *navi*
   and its cognates never appear in Tanach without an aleph, which suggests that
   the aleph belongs to the root, נ-ב-א. Rabbi Yonah Ibn Janach and Radak, each

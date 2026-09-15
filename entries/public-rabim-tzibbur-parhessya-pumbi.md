@@ -139,14 +139,16 @@ onomatopoeic rendering of the sound of hushing others, since one who would
 proclaim something to the masses must first quiet them so that they let him
 speak.
 
-*Pirsum* too seems to derive from the Greek *parrhesia*, on HaBachur's assertion
-that the two words are related, though other theories have been suggested. Rabbi
-Ernest Klein, in his etymological dictionary of Hebrew, relates that some
-scholars trace *pirsum* to the Syriac/Aramaic root פ-ר-ס, opening or cutting
-open, or to the Hebrew root פ-שׂ-ה, expanding, spreading, opening. Rabbi Reuven
-Chaim Klein says plainly that he was unable to locate the works of the philologists
-Rabbi Ernest Klein refers to, but found that Rav Hirsch (to Tehillim 80:14) sees *pirsum*
-as derived from פ-ר-ס with a radical *mem* appended at the end.
+- *Pirsum* too seems to derive from the Greek *parrhesia*, on HaBachur's
+  assertion that the two words are related, though other theories have been
+  suggested.
+- Rabbi Ernest Klein, in his etymological dictionary of Hebrew, relates that
+  some scholars trace *pirsum* to the Syriac/Aramaic root פ-ר-ס, opening or
+  cutting open, or to the Hebrew root פ-שׂ-ה, expanding, spreading, opening.
+- Rabbi Reuven Chaim Klein says plainly that he was unable to locate the works
+  of the philologists Rabbi Ernest Klein refers to, but found that Rav Hirsch
+  (to Tehillim 80:14) sees *pirsum* as derived from פ-ר-ס with a radical *mem*
+  appended at the end.
 
 ### pumbi (פומבי)
 Also absent from Tanach and Mishnah, and rare in Shas: twice in the Bavli and

@@ -78,19 +78,24 @@ red, it does, he writes, still seem to be their understanding; they seem to hold
 multiple shades of red. Rambam's approach is echoed by the later authorities
 named above.
 
-**Which red.** Radak (*Sefer HaShorashim*) first writes crimson red, then cites
-Rasag that *tola'as shani* is the crimson red, and concludes that *argaman* must
-be a different shade of red; after that he mentions those who explain *argaman*
-as *lac*. Several midrashim assert that *argaman* resembles fire, which points
-toward orange (*Sifrei Zuta*, *Midrash HaGadol*, and *Yalkut Midrashei Teiman* to
-Bamidbar 4:13; *Midrash Agur* ch. 14), and several Yemenite sources (*Midrash
-Chefetz*, *Meor HaAfeilah* to Shemos 25:4) make *argaman* a yellowish red against
-the strong red of *tola'as shani*. So perhaps, Rabbi Reuven Chaim Klein suggests, Radak would
-agree that *argaman* was orange-colored: explaining it as red does not preclude
-explaining it as orange, orange being essentially a shade of red mixed with
-yellow. What is clear is that none of these sources sees *argaman* as a mixture
-of red with blue or green, and that omission seems to obviate the notion that it
-is what we call purple.
+**Which red.**
+
+- Radak (*Sefer HaShorashim*) first writes crimson red, then cites Rasag that
+  *tola'as shani* is the crimson red, and concludes that *argaman* must be a
+  different shade of red; after that he mentions those who explain *argaman* as
+  *lac*.
+- Several midrashim assert that *argaman* resembles fire, which points toward
+  orange (*Sifrei Zuta*, *Midrash HaGadol*, and *Yalkut Midrashei Teiman* to
+  Bamidbar 4:13; *Midrash Agur* ch. 14), and several Yemenite sources (*Midrash
+  Chefetz*, *Meor HaAfeilah* to Shemos 25:4) make *argaman* a yellowish red
+  against the strong red of *tola'as shani*.
+
+So perhaps, Rabbi Reuven Chaim Klein suggests, Radak would agree that *argaman*
+was orange-colored: explaining it as red does not preclude explaining it as
+orange, orange being essentially a shade of red mixed with yellow. What is clear
+is that none of these sources sees *argaman* as a mixture of red with blue or
+green, and that omission seems to obviate the notion that it is what we call
+purple.
 
 **Where the root sits.** The root seems to comprise five letters, א-ר-ג-מ-ן. Ibn
 Ezra asserts that such four- and five-letter roots are either compound roots
@@ -132,14 +137,15 @@ interchangeability of *mem* and *vav*, and *argavana* is also how Targum renders
 *argaman*. One point holds across every view: *argaman* names dyed wool, not a
 color.
 
-Two passages make it fairly clear that *argaman* is not purple. Rashi (to Shir
-HaShirim 7:6) implies *argaman* is a color sometimes found in women's hair; as
-Professor Athalya Brenner-Idan first pointed out, taking *argaman* as purple
-there is dissatisfactory, since no natural hair is purple, and she supposes that
-in that instance *argaman* may not name a specific color at all but stand in for
-anything expensive or rare. And Targum Onkelos with Rashi (to Bereishis 49:11)
-write that *argaman* resembles the color of wine, which again seemingly precludes
-purple.
+Two passages make it fairly clear that *argaman* is not purple.
+
+- Rashi (to Shir HaShirim 7:6) implies *argaman* is a color sometimes found in
+  women's hair; as Professor Athalya Brenner-Idan first pointed out, taking
+  *argaman* as purple there is dissatisfactory, since no natural hair is purple,
+  and she supposes that in that instance *argaman* may not name a specific color
+  at all but stand in for anything expensive or rare.
+- And Targum Onkelos with Rashi (to Bereishis 49:11) write that *argaman*
+  resembles the color of wine, which again seemingly precludes purple.
 
 Brenner-Idan herself, it should be said, reads *argaman* as a general term taking
 in shades of red that run from pink all the way to violet or dark purple; she

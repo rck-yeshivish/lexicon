@@ -60,18 +60,21 @@ all.
 The physical act of pushing must be kept apart from the metaphorical sense of
 being pushed around or coerced, and some of these words carry both.
 
-**Whether potzer is physical.** Rav Hirsch (to Bereishis 19:3) reads it as
-primarily poking or stabbing at someone or something until they acquiesce to the
-desires of the one pushing, an image of persistence and determination, which
-fits Lot pressing his guests and Yaakov pressing Eisav to take the
-gift (Bereishis 33:11). Shadal (to Bereishis 33:11) enriches this by arguing that
-פ-צ-ר is itself an offshoot of the biliteral צ-ר, narrow or strait, since pushing
-a person leaves him with narrow choices until he relents, akin to navigating a
-narrow passageway; Shadal, Rabbi Klein notes, evidently took the *peh* as a
-radical added to the core two-letter root. Rabbi Yaakov Tzvi Mecklenburg (*HaKsav
-VeHaKabbalah* to Bereishis 19:9) interprets the second occurrence, of the
-Sedomites, in the physical sense: they physically pushed Lot away from the door,
-preventing him from protecting his guests.
+**Whether potzer is physical.**
+
+- Rav Hirsch (to Bereishis 19:3) reads it as primarily poking or stabbing at
+  someone or something until they acquiesce to the desires of the one pushing,
+  an image of persistence and determination, which fits Lot pressing his guests
+  and Yaakov pressing Eisav to take the gift (Bereishis 33:11).
+- Shadal (to Bereishis 33:11) enriches this by arguing that פ-צ-ר is itself an
+  offshoot of the biliteral צ-ר, narrow or strait, since pushing a person leaves
+  him with narrow choices until he relents, akin to navigating a narrow
+  passageway; Shadal, Rabbi Klein notes, evidently took the *peh* as a radical
+  added to the core two-letter root.
+- Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah* to Bereishis 19:9)
+  interprets the second occurrence, of the Sedomites, in the physical sense:
+  they physically pushed Lot away from the door, preventing him from protecting
+  his guests.
 
 **Where dochef comes from.**
 - Menachem Ibn Saruk, Ibn Janach, and Radak all trace it to the triliteral
@@ -85,29 +88,37 @@ preventing him from protecting his guests.
   Rabbi Klein adds, Golumb also assumes the reordering that moves the guttural
   into second position.
 
-**How hadof differs from docheh.** Rabbi Pappenheim derives *hadof* from ד-פ,
-"pushing away with ease," and illustrates it with Geichazi shoving the Shunamis
-woman (Melachim II 4:27), which he says was easy because she was on a mountain
-and the incline made her footing more precarious. The Malbim (*Yair Ohr*) offers
-a similar explanation from a different angle, insinuating that *hadof* implies
-pushing away something less rooted in its original location. Targum there
-uses an Aramaic form of *dachah* for what Geichazi did.
+**How hadof differs from docheh.**
 
-**What dofi means.** Rabbi Pappenheim traces *dofi* to this root, and Rabbi
-David Abudarham of Seville had made the same connection earlier,
-in his commentary to the *vidui*, where the penitent admits to having spoken
-*dofi*: it is speaking derogatorily about another, by which one has essentially
-pushed away the victim of his hateful speech for personal gain. That explanation
-is Abudarham's; Rashi (to Tehillim 50:20) is cited only for the narrower point
-that he too links *dofi* with *hadof*. Rabbi Yosef Kimchi, cited by Abudarham,
-explains *dofi* instead as a portmanteau of the Greek prefix *di-*, two or
-double, and the Hebrew *pi*, mouth: duplicitous speech, as though one spoke with
-two different mouths, like the English "speaks with a forked tongue."
+- Rabbi Pappenheim derives *hadof* from ד-פ, "pushing away with ease," and
+  illustrates it with Geichazi shoving the Shunamis woman (Melachim II 4:27),
+  which he says was easy because she was on a mountain and the incline made her
+  footing more precarious.
+- The Malbim (*Yair Ohr*) offers a similar explanation from a different angle,
+  insinuating that *hadof* implies pushing away something less rooted in its
+  original location.
+- Targum there uses an Aramaic form of *dachah* for what Geichazi did.
 
-**What the men of Givah did at the door.** *Mitdapkim* (Shoftim 19:22): Targum
-Yonasan uses a cognate of *dchak*, the people pushing the door to break it open.
-*Metzudas Tzion* (there, and to Shir HaShirim 5:2) explains that they were more
-gently knocking, to convince the host to open up.
+**What dofi means.**
+
+- Rabbi Pappenheim traces *dofi* to this root, and Rabbi David Abudarham of
+  Seville had made the same connection earlier, in his commentary to the
+  *vidui*, where the penitent admits to having spoken *dofi*: it is speaking
+  derogatorily about another, by which one has essentially pushed away the
+  victim of his hateful speech for personal gain. That explanation is
+  Abudarham's; Rashi (to Tehillim 50:20) is cited only for the narrower point
+  that he too links *dofi* with *hadof*.
+- Rabbi Yosef Kimchi, cited by Abudarham, explains *dofi* instead as a
+  portmanteau of the Greek prefix *di-*, two or double, and the Hebrew *pi*,
+  mouth: duplicitous speech, as though one spoke with two different mouths, like
+  the English "speaks with a forked tongue."
+
+**What the men of Givah did at the door.** *Mitdapkim* (Shoftim 19:22):
+
+- Targum Yonasan uses a cognate of *dchak*, the people pushing the door to break
+  it open.
+- *Metzudas Tzion* (there, and to Shir HaShirim 5:2) explains that they were
+  more gently knocking, to convince the host to open up.
 
 ## Distinctions
 
@@ -147,22 +158,23 @@ the premises as quickly as possible (Divrei HaYamim II 26:20), and Tehillim
 Root ה-ד-פ. Hashem pushing out the Canaanite nations (Devarim 6:19, 9:4,
 Yehoshua 23:5); pushing a man to his death, whether by accident (Bamidbar 35:22)
 or deliberately (Bamidbar 35:20); Geichazi and the Shunamis woman (Melachim II
-4:27). Rabbi Pappenheim brings the Mishnaic *dofan* here, a flimsy wall easily
-pushed aside (Yoma 2:3, Sukkah 1:1, Zevachim 8:1, Keilim 2:2, and many more);
-*daf* is the wooden board such a wall was often built of, which in
-later medieval Hebrew becomes a page or folio in a book. In most of its
-Mishnaic occurrences *dofan* is used in a borrowed
-sense, of a child born by Cesarean section or otherwise by cutting through a
-physiological barrier to remove the child from the womb. Pappenheim also brings
-*dofi* (Tehillim 50:20), a fault or misdeed.
-Rav Hirsch (to Bamidbar 35:20) groups *hadof* with ע-ד-פ (*adif*, extra),
-ח-ט-פ (*chatifah*, seizing), ח-ט-ב (*chativah*, cutting off), and ע-ט-פ
-(*atifah*, wrapping or enveloping), on the interchange of hei, ayin and ches and
-of dalet and tes. The theme uniting all five is something deemed extra or even
-extraneous: *hadof* pushes a thing away because it is superfluous, *adif* is
-literally extra, *chatifah* grabs what was extraneous where it stood and belongs
-elsewhere, *chativah* cuts off what is extra, and *atifah* wraps a thing to set
-it apart from the rest.
+4:27).
+
+- Rabbi Pappenheim brings the Mishnaic *dofan* here, a flimsy wall easily pushed
+  aside (Yoma 2:3, Sukkah 1:1, Zevachim 8:1, Keilim 2:2, and many more); *daf*
+  is the wooden board such a wall was often built of, which in later medieval
+  Hebrew becomes a page or folio in a book. In most of its Mishnaic occurrences
+  *dofan* is used in a borrowed sense, of a child born by Cesarean section or
+  otherwise by cutting through a physiological barrier to remove the child from
+  the womb. Pappenheim also brings *dofi* (Tehillim 50:20), a fault or misdeed.
+- Rav Hirsch (to Bamidbar 35:20) groups *hadof* with ע-ד-פ (*adif*, extra),
+  ח-ט-פ (*chatifah*, seizing), ח-ט-ב (*chativah*, cutting off), and ע-ט-פ
+  (*atifah*, wrapping or enveloping), on the interchange of hei, ayin and ches
+  and of dalet and tes. The theme uniting all five is something deemed extra or
+  even extraneous: *hadof* pushes a thing away because it is superfluous, *adif*
+  is literally extra, *chatifah* grabs what was extraneous where it stood and
+  belongs elsewhere, *chativah* cuts off what is extra, and *atifah* wraps a
+  thing to set it apart from the rest.
 
 ### dofek (דפק)
 Root ד-פ-ק, three occurrences, each read slightly differently. Yaakov declines to
@@ -178,19 +190,21 @@ that continues into Modern Hebrew and is not far from the original in Shir
 HaShirim. One of the Wilderness encampments was named Dafkah (Bamidbar
 33:12-13), seemingly from the same root.
 
-Norbert Pearlroth, who served as
-research director of *Ripley's Believe It or Not!* for over half a century, wrote
-in his column on Jewish family names (*The Indiana Jewish Post*, 29 March 1946,
-p. 8) that the surname Deifik comes from *dofek*, "pulse": before 1848 Jews could
-not attend Polish or Russian medical schools and were limited to para-medical
-work such as barber-surgeon, and the patriarch of the Deifik family had the habit
-of feeling his patients' pulse, so the Hebrew word for heartbeat became the
-family name. Pearlroth's successor in that column, David L. Gold, later clarified
-(*The Indiana Jewish Post*, 31 October 1990, p. 16) that Deifik in fact derives
-from a nickname, ostensibly given to that patriarch. Rabbi Klein adds that Deifik is his
-wife's maiden name, and that on his own amateur genealogical research it seems
-that everyone bearing it (originally spelled Dojfig, Deifig or Dojfik) is related
-to her family, who came from Michalcze, today Mykhal'che in Ukraine, near Horodenka.
+- Norbert Pearlroth, who served as research director of *Ripley's Believe It or
+  Not!* for over half a century, wrote in his column on Jewish family names
+  (*The Indiana Jewish Post*, 29 March 1946, p. 8) that the surname Deifik comes
+  from *dofek*, "pulse": before 1848 Jews could not attend Polish or Russian
+  medical schools and were limited to para-medical work such as barber-surgeon,
+  and the patriarch of the Deifik family had the habit of feeling his patients'
+  pulse, so the Hebrew word for heartbeat became the family name.
+- Pearlroth's successor in that column, David L. Gold, later clarified (*The
+  Indiana Jewish Post*, 31 October 1990, p. 16) that Deifik in fact derives from
+  a nickname, ostensibly given to that patriarch.
+
+Rabbi Klein adds that Deifik is his wife's maiden name, and that on his own
+amateur genealogical research it seems that everyone bearing it (originally
+spelled Dojfig, Deifig or Dojfik) is related to her family, who came from
+Michalcze, today Mykhal'che in Ukraine, near Horodenka.
 
 ## Rendering guidance
 

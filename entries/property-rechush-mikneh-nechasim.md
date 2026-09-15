@@ -68,22 +68,25 @@ for what one has acquired, but it is herds.
    maidservants. Rabbi Klein offers this as an explanation that "can be gleaned"
    from him, not as his stated position.
 
-**Where *nechasim* comes from.** Bamidbar Rabbah 22:8 relates it to *kisui*, and
-Rabbi Shlomo Pappenheim takes it from KAF-SAMECH, whose core sense for him is
-placing one thing on top of another. Rabbi Aharon Marcus contends that *neches*,
-the singular, is likewise derived from *reches* (ostensibly, on Rabbi Klein's
-reading, through the interchangeability of REISH and NUN), making it a cousin of
-*rechush*. He notes that *nechasim* has
-similar-sounding cognates in Phoenician (Canaanite) and Akkadian, languages whose
-speakers were in close contact with Hebrew from an early time, and that
-*nechasim* first appears in Sefer Yehoshua, written once the Jews had reached the
-Holy Land and could theoretically have been influenced by its Canaanite
-inhabitants. On this basis Marcus notes that the tie between *nechasim* and
-*rechush* is especially poignant for Yehoshua himself, who as an Ephraimite
-pronounced the *shin* like a *sin* (Shoftim 12:6), so he may have said *rechus*.
-Marcus adds that in many ancient languages the letters equivalent to *shin* and
-*lamed* are interchangeable, which leads him to claim that the root of *rechush*
-is also the original source of ר-כ-ל, whence *rochel*, a merchant.
+**Where *nechasim* comes from.**
+
+- Bamidbar Rabbah 22:8 relates it to *kisui*, and Rabbi Shlomo Pappenheim takes
+  it from KAF-SAMECH, whose core sense for him is placing one thing on top of
+  another.
+- Rabbi Aharon Marcus contends that *neches*, the singular, is likewise derived
+  from *reches* (ostensibly, on Rabbi Klein's reading, through the
+  interchangeability of REISH and NUN), making it a cousin of *rechush*. He
+  notes that *nechasim* has similar-sounding cognates in Phoenician (Canaanite)
+  and Akkadian, languages whose speakers were in close contact with Hebrew from
+  an early time, and that *nechasim* first appears in Sefer Yehoshua, written
+  once the Jews had reached the Holy Land and could theoretically have been
+  influenced by its Canaanite inhabitants. On this basis Marcus notes that the
+  tie between *nechasim* and *rechush* is especially poignant for Yehoshua
+  himself, who as an Ephraimite pronounced the *shin* like a *sin* (Shoftim
+  12:6), so he may have said *rechus*. Marcus adds that in many ancient
+  languages the letters equivalent to *shin* and *lamed* are interchangeable,
+  which leads him to claim that the root of *rechush* is also the original
+  source of ר-כ-ל, whence *rochel*, a merchant.
 
 ## Distinctions
 
@@ -92,37 +95,40 @@ Thirty-three times in Tanach, only in Bereishis, Bamidbar, Daniel, Ezra, and
 Divrei HaYamim; the verb *rachash*, to accrue property, is in Bereishis alone.
 Seven instances fall in Lech Lecha (Bereishis 12:5, 13:6, 14:11, 14:12, 14:16,
 14:21, 15:14), the highest concentration in any parashah. In Tanach *rechush*
-and *mikneh* always appear in the singular. Rav Hirsch (to Bereishis 12:5), and
-Solomon Rabinowitz (d. 1943) with him, argues that *rechush*, with a final SHIN,
-is related to *reches* with a SIN, "tying" or "attaching" (see Rashi to Shemos
-28:28): the term alludes to the pursuit of wealth, whereby a man seeks to accrue
-as much as he can and tie all of it together into one net worth. The Hebrew
-scholar Naftali Torczyner/Tur-Sinai (1886-1973) offers a slightly different
-approach, taking *rechush* as ultimately derived from *rechesh*, a type of horse:
-since livestock was the crux of a man's possessions in the ancient world,
-*rechush* later expanded into a general term for everything he owned. *Ohalei
-Yehudah* understands that *rechesh* itself relates back to *reches*, because a
-harness or stirrup was tied to the horse for riding. Rabbi Natan of Rome (*Sefer
-HeAruch*) and Rabbi Eliyahu HaBachur (*Sefer HaTishbi* and *Meturgaman*) write
-that Targum typically renders *rechush*, like *hon*, wealth, into Aramaic as
-*mammon*.
+and *mikneh* always appear in the singular.
+
+- Rav Hirsch (to Bereishis 12:5), and Solomon Rabinowitz (d. 1943) with him,
+  argues that *rechush*, with a final SHIN, is related to *reches* with a SIN,
+  "tying" or "attaching" (see Rashi to Shemos 28:28): the term alludes to the
+  pursuit of wealth, whereby a man seeks to accrue as much as he can and tie all
+  of it together into one net worth.
+- The Hebrew scholar Naftali Torczyner/Tur-Sinai (1886-1973) offers a slightly
+  different approach, taking *rechush* as ultimately derived from *rechesh*, a
+  type of horse: since livestock was the crux of a man's possessions in the
+  ancient world, *rechush* later expanded into a general term for everything he
+  owned. *Ohalei Yehudah* understands that *rechesh* itself relates back to
+  *reches*, because a harness or stirrup was tied to the horse for riding.
+- Rabbi Natan of Rome (*Sefer HeAruch*) and Rabbi Eliyahu HaBachur (*Sefer
+  HaTishbi* and *Meturgaman*) write that Targum typically renders *rechush*,
+  like *hon*, wealth, into Aramaic as *mammon*.
 
 ### mikneh (מקנה)
 Over seventy-five times in Tanach, the commonest of the three. Root
-KUF-NUN(-HEI), which also yields *miknah* and *kinyan*, acquisition. Ramban (to
-Bereishis 14:19, 34:23) and Radak (*Sefer HaShorashim*): the word names livestock
-precisely because livestock were a person's chief acquisition, all the more so in
-the ancient world, where how much livestock a man held was the measuring stick of
-how rich he was. Dr. Gerald Leonard Cohen (Missouri University of Science and
-Technology) notes in his *Comments on Etymology* that the importance of livestock
-can be seen in the fact that of the first three letters of the alphabet, two
-refer to domesticated animals: *aleph* means "ox," and *gimmel* is related to
-*gamal*, "camel." Rabbi Shlomo Pappenheim
-gives KUF-NUN the core sense of a minimal dwelling, whence *ken*, a bird's nest,
-and *kinyan*, which often shifts an item from one domain into another; *mikneh* is then
-either the commercially central asset (a beast serves for wool, milk, hide,
-offspring, meat, and field work, where produce is only eaten) or the animal often kept
-in a barn rather than a home.
+KUF-NUN(-HEI), which also yields *miknah* and *kinyan*, acquisition.
+
+- Ramban (to Bereishis 14:19, 34:23) and Radak (*Sefer HaShorashim*): the word
+  names livestock precisely because livestock were a person's chief acquisition,
+  all the more so in the ancient world, where how much livestock a man held was
+  the measuring stick of how rich he was. Dr. Gerald Leonard Cohen (Missouri
+  University of Science and Technology) notes in his *Comments on Etymology*
+  that the importance of livestock can be seen in the fact that of the first
+  three letters of the alphabet, two refer to domesticated animals: *aleph*
+  means "ox," and *gimmel* is related to *gamal*, "camel."
+- Rabbi Shlomo Pappenheim gives KUF-NUN the core sense of a minimal dwelling,
+  whence *ken*, a bird's nest, and *kinyan*, which often shifts an item from one
+  domain into another; *mikneh* is then either the commercially central asset (a
+  beast serves for wool, milk, hide, offspring, meat, and field work, where
+  produce is only eaten) or the animal often kept in a barn rather than a home.
 
 ### nechasim (נכסים)
 Seven times in Tanach, always plural: once in Yehoshua (22:8), twice in Koheles
