@@ -59,6 +59,18 @@ YERUSHALMI = {k: v for k, v in MISHNAH.items() if v not in (
     "Tahorot", "Mikvaot", "Makhshirin", "Zavim", "Tevul Yom", "Yadayim", "Oktzin")}
 
 
+# Commentaries on the Bavli that Sefaria carries, by the name the entries use.
+# When the entry names one just before a daf ("Tosafos to Bava Basra 74a"), the
+# words it is about are in that commentary, not in the Gemara's own text.
+COMMENTARIES = {"Tosafos": "Tosafot", "Tosafot": "Tosafot", "Rashi": "Rashi",
+                "Rashbam": "Rashbam", "Ran": "Ran", "Ritva": "Ritva",
+                "Rabbeinu Chananel": "Rabbeinu Chananel"}
+COMMENTARY_NAME = {"Tosafot": "Tosafos", "Rashi": "Rashi", "Rashbam": "Rashbam", "Ran": "Ran",
+                   "Ritva": "Ritva", "Rabbeinu Chananel": "Rabbeinu Chananel"}
+# Tried on any daf whose Gemara text lacks the entry's word.
+DEFAULT_COMMENTARIES = ("Rashi", "Tosafot")
+
+
 def _alt(names):
     return "|".join(re.escape(n) for n in sorted(names, key=len, reverse=True))
 
@@ -114,12 +126,18 @@ def find(text):
         pieces = [(p.start(), p.end(), [f"{book}.{p.group(1)}.{p.group(2)}"])
                   for p in HALACHAH.finditer(text, m.start(1) + len(m.group(1)), m.end())]
         out.append((m.start(), m.end(), "yerushalmi", book, "Yerushalmi " + m.group(1), pieces))
+    comm_rx = re.compile(r"\b(%s)\b" % _alt(COMMENTARIES))
     for m in BAVLI_RX.finditer(text):
         if NOT_BAVLI.search(before(m)):
             continue
         book = BAVLI[m.group(1)]
-        pieces = [(p.start(), p.end(), [f"{book}.{p.group(1)}{p.group(2)}"])
-                  for p in DAF.finditer(text, m.start(1) + len(m.group(1)), m.end())]
+        # A commentator named in the words just before the citation.
+        named = comm_rx.findall(text[max(0, m.start() - 90):m.start()])
+        comms = list(dict.fromkeys(([COMMENTARIES[named[-1]]] if named else []) + list(DEFAULT_COMMENTARIES)))
+        pieces = []
+        for p in DAF.finditer(text, m.start(1) + len(m.group(1)), m.end()):
+            daf = f"{book}.{p.group(1)}{p.group(2)}"
+            pieces.append((p.start(), p.end(), [daf] + [f"{c} on {daf}" for c in comms]))
         out.append((m.start(), m.end(), "bavli", book, m.group(1), pieces))
     out.sort()
     # Drop a run nested inside another (a tractate name inside a longer match).

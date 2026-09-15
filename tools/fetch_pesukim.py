@@ -41,13 +41,29 @@ def clean(t):
 
 
 def cited():
-    verses, passages = set(), set()
+    """Verse keys; and each cited daf or halachah with the commentaries worth
+    trying on it and the (bare) headwords of the entries that cite it."""
+    verses, passages = set(), {}
     for p in sorted((ROOT / "entries").glob("*.md")):
-        body = p.read_text(encoding="utf-8").split("\n---\n", 1)[1]
+        text = p.read_text(encoding="utf-8")
+        m = re.search(r"^hebrew:\s*\[(.*)\]", text, re.M)
+        words = {refs.bare(h.strip()) for h in m.group(1).split(",")} if m else set()
+        body = text.split("\n---\n", 1)[1]
         for _s, _e, kind, _b, _n, pieces in refs.find(body.replace("\n", " ")):
             for _, _, ks in pieces:
-                (passages if kind in ("bavli", "yerushalmi") else verses).update(ks)
+                if kind in ("bavli", "yerushalmi"):
+                    entry = passages.setdefault(ks[0], {"comms": [], "words": set()})
+                    entry["comms"] += [c for c in ks[1:] if c not in entry["comms"]]
+                    entry["words"] |= words
+                else:
+                    verses.update(ks)
     return verses, passages
+
+
+def has_word(segs, words):
+    text = refs.bare(" ".join(segs))
+    cores = {w[:-1] if len(w) > 3 and w[-1] in "אה" else w for w in words if w and " " not in w}
+    return any(c in text for c in cores)
 
 
 def fetch(ref):
@@ -107,20 +123,33 @@ def main():
     save(PESUKIM, data)
 
     tal = load(TALMUD, {"meta": {}, "passages": {}})
-    missing = sorted(k for k in want_p if k not in tal["passages"])
-    print(f"{len(want_p)} cited dapim and halachos, {len(missing)} to fetch")
-    for n, key in enumerate(missing, 1):
+
+    def get(key):
+        if key in tal["passages"]:
+            return tal["passages"][key]
         d = fetch(key)
-        if d and d.get("versions"):
-            v = d["versions"][0]
-            tal["meta"].setdefault(key.rsplit(".", 2)[0] if key.startswith("Jerusalem") else key.rsplit(".", 1)[0],
-                                   {"version": v.get("versionTitle"), "license": v.get("license")})
-            segs = [clean(s) for s in flat(v.get("text"))]
-            tal["passages"][key] = [s for s in segs if s]
-        if n % 50 == 0:
-            print(f"  passages {n}/{len(missing)}")
-            save(TALMUD, tal)
         time.sleep(0.15)
+        if not d or not d.get("versions"):
+            tal["passages"][key] = []
+            return []
+        v = d["versions"][0]
+        book = key.rsplit(".", 2)[0] if key.startswith("Jerusalem") else key.rsplit(".", 1)[0]
+        if " on " in book:
+            book = book.split(" on ")[0]
+        tal["meta"].setdefault(book, {"version": v.get("versionTitle"), "license": v.get("license")})
+        tal["passages"][key] = [s for s in (clean(s) for s in flat(v.get("text"))) if s]
+        return tal["passages"][key]
+
+    print(f"{len(want_p)} cited dapim and halachos")
+    for n, (key, info) in enumerate(sorted(want_p.items()), 1):
+        # The commentaries are fetched only where the Gemara's own text lacks
+        # every word of the entries that cite it.
+        if not has_word(get(key), info["words"]):
+            for c in info["comms"]:
+                get(c)
+        if n % 50 == 0:
+            print(f"  passages {n}/{len(want_p)}")
+            save(TALMUD, tal)
     save(TALMUD, tal)
     print(f"wrote {len(data['verses'])} verses, {len(tal['passages'])} passages")
 

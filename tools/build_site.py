@@ -454,6 +454,7 @@ def glance_cards(mdtext):
 # more likely coincidence than the word itself.
 PESUKIM = {"meta": {}, "verses": {}}
 TALMUD = {"meta": {}, "passages": {}}
+TALMUD_COMMS = {}   # daf -> the commentaries on it held in TALMUD
 STOP = set()
 STOP_AT = 12
 
@@ -512,16 +513,25 @@ class Cites:
                 "u": "https://www.sefaria.org/" + urllib.parse.quote(keys[0].replace(" ", "_"))}
 
     def text_card(self, label, keys, kind):
+        src = keys[0]
         if kind in ("bavli", "yerushalmi"):
             # A whole amud will not fit a card: show the segments of it that
             # hold the entry's words (at most two), with an ellipsis for the rest.
-            segs = TALMUD["passages"].get(keys[0])
-            if not segs:
+            # Where the Gemara's text lacks them, try the commentaries on the
+            # daf (the one the entry names first, then Rashi and Tosafos).
+            # Any other commentary already fetched on this daf is tried last
+            # (the Sources list names no commentator, but the body may have).
+            extra = [c for c in TALMUD_COMMS.get(keys[0], []) if c not in keys]
+            for src in list(keys) + extra:
+                segs = TALMUD["passages"].get(src) or []
+                hits = [(i, self.tokens(s)) for i, s in enumerate(segs)]
+                hits = [(i, t) for i, t in hits if any(m for _, m in t)][:2]
+                if hits:
+                    break
+            else:
                 return None
-            hits = [(i, self.tokens(s)) for i, s in enumerate(segs)]
-            hits = [(i, t) for i, t in hits if any(m for _, m in t)][:2]
-            if not hits:
-                return None
+            if " on " in src:
+                label = f'{refs.COMMENTARY_NAME.get(src.split(" on ")[0], src.split(" on ")[0])}, {label}'
             toks = []
             for n, (i, t) in enumerate(hits):
                 if (n == 0 and i > 0) or (n > 0 and i > hits[n - 1][0] + 1):
@@ -540,7 +550,7 @@ class Cites:
         # shown only where the entry's word is actually in it.
         if kind == "mishnah" and not found:
             return None
-        return {"l": label, "w": toks, "t": found if len(found) >= 2 else []}
+        return {"l": label, "w": toks, "t": found if len(found) >= 2 else [], "s": src}
 
     def link(self, fragment):
         out, skip = [], 0
@@ -581,8 +591,9 @@ class Cites:
         for k, c in used.items():
             if c.get("u"):
                 continue
-            first = k.split("|")[0]
+            first = c.get("s") or k.split("|")[0]
             book = first.rsplit(".", 1)[0] if re.search(r"\.\d+[ab]$", first) else first.rsplit(".", 2)[0]
+            book = book.split(" on ")[0]
             meta = PESUKIM["meta"].get(book) or TALMUD["meta"].get(book) or {}
             if meta.get("version"):
                 lic = meta.get("license")
@@ -746,6 +757,9 @@ def main():
         f = ROOT / "references" / name
         if f.exists():
             store.update(json.loads(f.read_text(encoding="utf-8")))
+    for key in TALMUD["passages"]:
+        if " on " in key:
+            TALMUD_COMMS.setdefault(key.split(" on ", 1)[1], []).append(key)
     texts = list(PESUKIM["verses"].values()) + [s for segs in TALMUD["passages"].values() for s in segs]
     freq = Counter(re.sub(r"[^א-ת]", "", refs.bare(w))
                    for v in texts for w in re.split(r"[\s־]+", v))
@@ -1238,6 +1252,11 @@ header.bare .brand{flex:1}
 .prail-credit{font-size:11.5px;line-height:1.4;color:var(--faint);margin:12px 0 0}
 .ppop{margin:8px 0 6px}
 .ppop .pcard{cursor:default;margin:0}
+/* Under a bullet the card takes back the bullet's indent: on a phone that
+   indent is a fifth of the width. */
+li > .ppop{margin-inline-start:-1.4em}
+.pclose{border:0;background:none;color:var(--faint);font-size:20px;line-height:1;padding:0 2px;cursor:pointer;margin-left:auto}
+.pclose:hover{color:var(--ink)}
 @media (min-width:1360px){
   main:has(.entry-layout.has-rail){max-width:1320px}
   .entry-layout.has-rail{grid-template-columns:180px minmax(0,760px) 250px;gap:0 40px}
@@ -1729,6 +1748,10 @@ function wirePesukim(){
     const pop = document.createElement("div");
     pop.className = "ppop"; pop.dataset.k = k;
     pop.appendChild(card(k));
+    const x = document.createElement("button");
+    x.type = "button"; x.className = "pclose"; x.textContent = "×"; x.setAttribute("aria-label", "Close");
+    x.addEventListener("click", () => { pop.remove(); c.setAttribute("aria-expanded", "false"); });
+    pop.querySelector(".pref").appendChild(x);
     inside ? host.appendChild(pop) : host.after(pop);
     c.setAttribute("aria-expanded", "true");
   }));
