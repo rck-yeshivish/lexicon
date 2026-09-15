@@ -387,10 +387,10 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
   <a class="brand" href="{up}index.html" aria-label="What&rsquo;s in a Word? — back to the start">What&rsquo;s in a Word?</a>
   {'<div class="hsearch"><input id="q" type="search" placeholder="Search Hebrew or English" autocomplete="off" spellcheck="false" dir="auto"><div id="ac" class="ac" hidden></div></div>' if header_search else ''}
   <nav class="navs">
-    <a class="meth {'on' if active == 'me' else ''}" href="{up}method.html">Methodology</a>
+    <a class="meth {'on' if active == 'me' else ''}" href="{up}method.html">About</a>
     <span class="seg">
-      <a href="{up}hebrew.html" class="{'on' if active == 'he' else ''}">Hebrew</a>
-      <a href="{up}english.html" class="{'on' if active == 'en' else ''}">English</a>
+      <a href="{up}hebrew.html" lang="he" title="Browse the Hebrew index" class="ix {'on' if active == 'he' else ''}">א–ת</a>
+      <a href="{up}english.html" title="Browse the English index" class="{'on' if active == 'en' else ''}">A–Z</a>
     </span>
   </nav>
 </header>
@@ -1008,6 +1008,7 @@ header.bare .brand{flex:1}
 .meth{color:var(--faint);font-size:14px;font-weight:500;white-space:nowrap}
 .meth:hover{color:var(--ink);text-decoration:none}
 .meth.on{color:var(--ink)}
+.seg a.ix{font-family:var(--heb);font-size:16px;line-height:1.15}
 .seg a{position:relative;padding:5px 14px;border-radius:7px;font-size:14px;color:var(--dim);font-weight:500}
 .seg a:hover{text-decoration:none;color:var(--ink);background:rgba(255,255,255,.55)}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
