@@ -31,6 +31,8 @@ Every entry in `../entries/` must trace to a file here. Orthodox sources only.
   maps each chapter to the corpus essay it matches by content. It holds 371 of the 375
   harvested essays, a typical chapter being about 87% the published text plus revisions,
   and five essays the corpus lacks.
+- **Use:** to correct an error the author has since fixed (a locus, a name, a date); not as
+  a source for claims the published essays do not make.
 
 ### Klein, "Learning to differentiate between apparent synonyms" (Babel, 2020)
 - `klein-babel-2020/` holds the PDF and its extracted text. Rabbi Klein writing
