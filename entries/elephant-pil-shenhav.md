@@ -5,6 +5,15 @@ roots: [פ-י-ל, פ-ל, ש-ן, ה-ב]
 translit: [pil, pila, pilim, pilei, shenhav, shenhab, shenhabim, shenhavim, shen dpil, pildash, pele, nefilim, nefel, neifel]
 english: [elephant, ivory, tusk]
 domain: nature
+words:
+  - he: שנהב
+    tr: shenhav
+    en: ivory
+    distinct: the biblical word, read by most as ivory (Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo) and by a minority as the elephant itself (HaKallir, Rabbi Avraham ben Shlomo); even on that reading it names the beast for its tusks
+  - he: פיל
+    tr: pil
+    en: elephant
+    distinct: the ordinary post-biblical word, absent from Tanach; names the beast for other properties, kin to pele, wonder (Rabbi Yehoshua Steinberg), or to nefilim (Rabbi Yechiel Michel Stern), or perhaps for burying the dead (Rabbi Reuven Chaim Klein)
 sources:
   - wiaw:8913 "Elephants Galore" (2020-11-07) https://articles.ohr.edu/articles/elephants-galore
 authorities: [Targum, Rashi, Radak, Metzudos, Ralbag, Rabbi Yosef Karo, Abarbanel, Rabbeinu Yonah Ibn Janach, Rabbeinu Efrayim ben Shimshon, HaKallir, Rabbi Avraham ben Shlomo, Rabbi Yosef Bechor Shor, Rabbi Menashe ben Israel, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rabbi Yechiel Michel Stern, Chaim Tawil]
@@ -26,6 +35,13 @@ specifically as the source of ivory. That is the difference he settles on: *shen
 names the beast for its tusks, while
 post-biblical *pil* names it for other properties, its superlative mass or
 possibly its knack for burying the dead.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שנהב | shenhav | ivory | biblical; ivory for most (Targum, Rashi); the elephant itself for a minority (HaKallir) |
+| פיל | pil | elephant | post-biblical, the language of Chazal; kin to *pele*, wonder (Steinberg) |
 
 ## Distinctions
 

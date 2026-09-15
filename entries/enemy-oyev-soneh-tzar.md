@@ -5,6 +5,19 @@ roots: [א-י-ב, ש-נ-א, צ-ר-ר]
 translit: [oyev, oyeiv, oyvecha, soneh, sonei, sonecha, sinah, sina, tzar, tzorer, tzorrer]
 english: [enemy, foe, hater, adversary, persecutor]
 domain: society
+words:
+  - he: אויב
+    tr: oyev
+    en: enemy, foe
+    distinct: the enemy who acts, or has at least pictured himself causing harm, and rejoices at his victim's misfortune (Malbim); still hides his hatred beneath a show of empathy; injures body and money, where the soneh targets the soul (Vilna Gaon)
+  - he: שונא
+    tr: soneh
+    en: hater
+    distinct: hatred held inside and never expressed, read from what he refrains from doing, like the Mishnah's witness who has not spoken to his fellow for three days; the more dangerous, aiming at his victim's spiritual existence (Vilna Gaon)
+  - he: צר
+    tr: tzar
+    en: adversary, persecutor
+    distinct: the overt enemy, hating with such heat that he attacks openly and spends his own reputation and resources to do it; Haman is tzorer haYehudim
 sources:
   - wiaw:6828 "A Variety of Enemies" (2016-07-02) https://articles.ohr.edu/articles/a-variety-of-enemies
 authorities: [Malbim, Vilna Gaon]
@@ -20,6 +33,14 @@ updated: 2026-09-10
 **hater**. *Tzar* (*tzorer*) is open, self-costing hostility: **adversary**,
 **persecutor**. Bamidbar 10:35 pairs *oyev* and *soneh*, and Rabbi Klein concludes that Moshe
 davens there that both kinds of Hashem's enemies be vanquished.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אויב | oyev | enemy, foe | acts, or plans to (Malbim); targets body and money (Vilna Gaon) |
+| שונא | soneh | hater | hatred kept inside, seen in what he refrains from; targets the soul (Vilna Gaon) |
+| צר | tzar | adversary, persecutor | open hostility, spending his own reputation and resources to attack |
 
 ## Distinctions
 

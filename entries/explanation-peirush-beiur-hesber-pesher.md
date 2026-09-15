@@ -5,6 +5,27 @@ roots: [פ-ר-ש, ב-א-ר, ב-ר, ס-ב-ר, ש-ב-ר, פ-ש-ר, פ-ת-ר]
 translit: [peirush, perush, pirush, beiur, biur, be'ur, ba'er, hesber, hesbeir, hasbarah, masbir, svara, sevara, pesher, peisher, pshar, psharah, pitaron, pisaron, poter, poseir, meforash]
 english: [explanation, commentary, elucidation, clarification, interpretation, solution, reasoning]
 domain: speech
+words:
+  - he: פירוש
+    tr: peirush
+    en: explanation, commentary
+    distinct: the plain explanation of what a text says on its surface, the exoteric (Malbim); makes known what was unknown, spreading the matter open (Shadal); separates the true reading from ambiguous alternatives (Rabbi Shlomo Pappenheim)
+  - he: ביאור
+    tr: beiur
+    en: elucidation
+    distinct: goes beneath the surface to bring up what is hidden (Malbim); a clear manner of writing, expanding on an idea with words (Shadal); separates the correct explanation from mistaken ones (Rabbi Shlomo Pappenheim); answers what is said (Rabbi Reuven Subar)
+  - he: הסבר
+    tr: hesber
+    en: explanation of the reasoning
+    distinct: lays out the svara behind a matter, answering why where beiur answers what, and lifts the idea by supplying its rational support (Rabbi Reuven Subar); clearest from the Aramaic svar, to think or hold a position
+  - he: פשר
+    tr: pesher
+    en: interpretation
+    distinct: the solving of an enigma, once in the Hebrew of Tanach and often in Daniel's Aramaic for dreams; defined as pitaron (Ibn Saruk, Ibn Janach, Radak); untying a knot (Rabbi Moshe Tedeschi-Ashkenazi); peirush metathesized (Rabbi Eliyahu Bachur)
+  - he: פתרון
+    tr: pitaron
+    en: interpretation
+    distinct: in Tanach the interpretation of a dream and nothing else (Radak, Malbim), which separates it from peirush and beiur; later any definition (Menachem Ibn Saruk) and in Modern Hebrew any solution; an opening that reveals, as peter rechem (Rav Hirsch)
 sources:
   - wiaw:11170 "Miketz: Say it Clear (Part 1/2)" (2023-12-16) https://articles.ohr.edu/articles/miketz-say-it-clear-part-12
   - wiaw:11178 "Vayigash: Say it Clear (Part 2/2)" (2023-12-23) https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22
@@ -25,6 +46,16 @@ hidden (Malbim), at length and in writing, so that the matter is clear (Shadal).
 where *beiur* answers *what* (Rabbi Reuven Subar). *Pesher* and *pitaron* are
 **interpretation**, the solving of an enigma; *pitaron* in Tanach is dream
 interpretation only (Radak, Malbim).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| פירוש | peirush | explanation, commentary | the surface sense, exoteric (Malbim); spreads the matter open (Shadal) |
+| ביאור | beiur | elucidation | beneath the surface (Malbim); written out clearly (Shadal); answers *what* (Subar) |
+| הסבר | hesber | explanation of the reasoning | the reasoning, answering *why* where *beiur* answers *what* (Subar) |
+| פשר | pesher | interpretation | solving an enigma; untying a knot (Tedeschi-Ashkenazi); dreams in Daniel |
+| פתרון | pitaron | interpretation | in Tanach, dream interpretation only (Radak, Malbim); later, any solution |
 
 ## Distinctions
 

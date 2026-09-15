@@ -7,7 +7,14 @@ english: [excision, cut off, childless, extirpation]
 domain: other
 words:
   - he: כרת
+    tr: karet
+    en: excision
     nk: כָּרֵת
+    distinct: the sinner himself cut off; from the reunion of souls in the World to Come (Rabbi Yaakov Tzvi Mecklenburg), from the soul's Upper Source (Rabbi Chaim of Volozhin), or in body, soul or both (Ramban, Rabbeinu Bachya); Ibn Ezra adds the death of descendants
+  - he: ערירי
+    tr: ariri
+    en: childless
+    distinct: the line ending rather than the man; every karet can carry it (Rashi, Ibn Ezra), against a separate penalty attaching only to the forbidden marriages (Riva)
 sources:
   - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Chaim of Volozhin, Ramban, Rabbeinu Bachya, Ibn Ezra, Rashi, Riva]
@@ -24,6 +31,13 @@ soul's place in the World of Souls, or from the source his soul hangs on. *Ariri
 punishment or two is a *machlokes*: Rashi holds every *karet* can carry *ariri*
 with it; Riva holds *ariri* is a separate penalty attaching only to the forbidden
 marriages.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כרת | karet | excision | the man himself cut off; in body, soul or both (Ramban) |
+| ערירי | ariri | childless | the line ending; part of any *karet* (Rashi) or a separate penalty (Riva) |
 
 ## Distinctions
 

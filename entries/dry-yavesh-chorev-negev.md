@@ -6,12 +6,23 @@ translit: [yavesh, yaveish, yavshah, yabashah, yabasha, vativash, chorev, charev
 english: [dry, dried out, parched, arid, dry land]
 domain: nature
 words:
+  - he: חרב
+    tr: charev
+    en: dried
+    distinct: only partly dry, the surface dried with moisture still underneath (Vilna Gaon, Malbim), and written first when it stands beside yavesh (Malbim); in one account of Pappenheim, dryness on the outside; Rabbi Tanchum HaYerushalmi equates chareivah with yavesh, leaving open that they are synonyms
   - he: חרבה
     nk: חֲרֵבָה
+  - he: יבש
+    tr: yavesh
+    en: dry
+    distinct: dry outright, drained through and through, the more intense of the pair (Vilna Gaon, Malbim); an interior empty of liquid, from ב-ש, the withholding of the flourishing a thing should show (Rabbi Shlomo Pappenheim); the completion of drying (Rabbi Aharon Marcus)
   - he: יבשה
     nk: יַבָּשָׁה
   - he: נגב
+    tr: negev
+    en: arid, parched
     nk: נֶגֶב
+    distinct: carries only the partial dryness of charev, never the total dryness of yavesh (Rabbi Yaakov Zev Lev); in Tanach nearly always south, which Shapira-Frankfurter holds is its only Hebrew sense, while Rabbi Klein takes dry as the core
 sources:
   - wiaw:9775 "On Dry Land" (2022-07-09) https://articles.ohr.edu/articles/on-dry-land
   - wiaw:7366 "Words of Destruction" (2017-07-29) https://articles.ohr.edu/articles/words-of-destruction
@@ -29,6 +40,14 @@ remains underneath. *Yavesh* is **dry** outright, drained through and through.
 The order is fixed: wherever the two stand together, *charev* comes first and
 *yavesh* second (Malbim). *Negev* is **arid** or **parched**, closer to *charev* than to
 *yavesh* (Rabbi Yaakov Zev Lev), and in Tanach it usually means "south" rather than "dry" at all.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חרב | charev | dried | partly dry, moisture left beneath (Vilna Gaon); written before *yavesh* (Malbim) |
+| יבש | yavesh | dry | completely dry, the stronger word (Malbim); empty of liquid within (Pappenheim) |
+| נגב | negev | arid, parched | partial dryness like *charev* (Yaakov Zev Lev); in Tanach usually south |
 
 ## Distinctions
 

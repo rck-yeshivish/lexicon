@@ -5,6 +5,15 @@ roots: [ה-ב, ה-ו-ה, ג-ז-ם, ג-ז]
 translit: [havai, hava'i, hovai, guzma, guzmah, gozma, gozem, gazam, gazim, nidrei havai, divrei havai, geiz, gozez, geza, gazis, gazit]
 english: [hyperbole, exaggeration, overstatement, figure of speech]
 domain: speech
+words:
+  - he: הבאי
+    tr: havai
+    en: hyperbole
+    distinct: the older word, already in the Mishnah; the way plain people speak, overstated but not lying (Rashi); still something to be taken seriously and studied (Rabbi Menachem Azariah of Fano); from the Aramaic for a thorn (Rabbi Eliyahu HaBachur) or from habaim, foolishness (Rabbeinu Tam)
+  - he: גוזמא
+    tr: guzma
+    en: overstatement
+    distinct: the Gemara's word, absent from Tanach and Mishnah; a rhetorical device adding to a matter to press it home (Rashi); literally true, only its plain implication overshooting (Rabbi Yaakov Emden); a truth with its numbers swelled, from gazam, the locust (Rav Hirsch)
 sources:
   - wiaw:9756 "Empty Exaggerations" (2022-07-02) https://articles.ohr.edu/articles/empty-exaggerations
 authorities: [Rashi, Rabbeinu Tam, Rabbi Eliezer of Metz, Rabbeinu Nissim, Tosafos Yeshanim, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Aryeh Leib Feinstein, Rabbi Shmuel Jaffa-Ashkenazi, Rabbi Yissachar Ber Eilenberg, Rabbi Eliyahu HaKohen of Izmir, Rabbi Menachem Azariah of Fano, Rabbi Meir Pozna, Rabbi Ami, Alexander Kohut]
@@ -22,6 +31,13 @@ speech**, and a *guzma* is **an overstatement**. Rabbi Yaakov Emden: a statement
 *guzma* is literally true, and it is only its plain implication that overshoots.
 Rabbi Menachem Azariah of Fano: *havai* marks something to be taken
 seriously, though not necessarily literally.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| הבאי | havai | hyperbole | older, in the Mishnah; plain people's overstated speech (Rashi); still worth study (Menachem Azariah of Fano) |
+| גוזמא | guzma | overstatement | the Gemara's word; literally true, only the implication overshoots (Emden) |
 
 ## Distinctions
 

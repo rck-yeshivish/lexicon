@@ -5,6 +5,15 @@ roots: [מ-ר, מ-ו-ר, מ-י-ר, ח-ל-פ]
 translit: [temurah, temura, hamer yamir, yamir, vayamiru, chalifah, chalifa, chalipha, chelef, chalaf, yachalof]
 english: [substitution, exchange, replacement, swap]
 domain: action
+words:
+  - he: תמורה
+    tr: temurah
+    en: substitution
+    distinct: putting a second thing in place of the first, seen from the man who does it (Malbim); one man swapping his own animals (Algazi); trading better for worse (Shapira-Frankfurter, Wertheimer), so any attempt counts as for the worse (Rav Hirsch)
+  - he: חליפה
+    tr: chalifah
+    en: exchange
+    distinct: seen from the objects switched (Malbim), and from the thing gotten rid of, moved out of one place or state whether or not anything replaces it (Rav Hirsch); two people swapping (Algazi); trading up (Shapira-Frankfurter) or neutral (Wertheimer)
 sources:
   - wiaw:8714 "Old Switcheroo" (2020-05-23) https://articles.ohr.edu/articles/old-switcheroo
 authorities: [Rabbi Yisrael Yaakov Algazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Malbim, Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim]
@@ -23,6 +32,13 @@ downgrade (Rabbi Shapira-Frankfurter, Wertheimer, Rav Hirsch). *Chalifah* is
 (Shapira-Frankfurter) word. Vayikra 27:10 uses
 both of the same prohibited act; Vayikra 27:33, stating the consequence, uses
 only *hamer yamir*. *Chalifah* is not merely a stylistic variant.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תמורה | temurah | substitution | substitution seen from the one who switches (Malbim); a downgrade (Shapira-Frankfurter, Rav Hirsch) |
+| חליפה | chalifah | exchange | the objects switched (Malbim); moving a thing out (Rav Hirsch); neutral (Wertheimer) |
 
 ## Distinctions
 

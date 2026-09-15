@@ -5,6 +5,19 @@ roots: [ר-ע-ב, כ-פ-נ, ב-צ-ר]
 translit: [raav, raavon, kafan, kefan, kafna, kefina, kafnah, batzores, batzoret, shnas batzores, shnat batzoret, ultzan, ultzana, kefiyah]
 english: [famine, hunger, starvation, drought, dearth]
 domain: nature
+words:
+  - he: רעב
+    tr: ra'av
+    en: famine, hunger
+    distinct: the standard word, famine of a land or hunger of a person; famine from simple scarcity (Ralbag); the external crisis, a lack of produce (Vilna Gaon); the man actively suffering hunger pangs (Rabbi Shlomo Aharon Wertheimer)
+  - he: כפן
+    tr: kafan
+    en: dearth
+    distinct: perhaps only the Aramaic for ra'av; famine from hoarding and high prices (Ralbag); food at hand that does not satisfy (Vilna Gaon); so starved he no longer feels hunger (Wertheimer); thirst, a minority view (Rabbi Moshe Zidel)
+  - he: בצורת
+    tr: batzores
+    en: famine
+    distinct: the rabbinic term, from the Biblical shnas batzores, a year of famine (Rashi); the crop failure rather than the people's suffering; closest to the root's sense of withholding, people pressed into narrow straits (Rabbi Reuven Chaim Klein)
 sources:
   - wiaw:10761 "Famishing Famines" (2022-12-31) https://articles.ohr.edu/articles/famishing-famines
 authorities: [Menachem Ibn Saruk, Rashi, Radak, Ibn Ezra, Rabbi Shmuel Masnuth, Rabbi Yosef Kimchi, Ralbag, Rabbi Shimon ben Tzemach Duran, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rabbi Moshe Zidel]
@@ -24,6 +37,14 @@ that has stopped complaining. *Batzores* is the rabbinic term; the Biblical
 seemingly closest to the root's third meaning, withholding). Where *kafan*
 stands beside *ra'av* in the same passage, the pairing is what suggests that
 the two differ.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| רעב | ra'av | famine, hunger | the standard word; simple scarcity (Ralbag); the external lack of produce (Vilna Gaon) |
+| כפן | kafan | dearth | disputed: hoarding and high prices (Ralbag); food that does not satisfy (Vilna Gaon) |
+| בצורת | batzores | famine | the rabbinic term; the crop failure, not the suffering; withholding |
 
 ## Distinctions
 

@@ -8,6 +8,22 @@ domain: action
 words:
   - he: שוקק
     nk: שׁוֹקֵק
+  - he: שתיה
+    tr: lishtos
+    en: drink
+    distinct: the act of drinking itself, said only of people and animals; names what happens inside the drinker, liquid settling food into its place or restoring innards shriveled by thirst (Rabbi Shlomo Pappenheim)
+  - he: השקאה
+    tr: lehashkos
+    en: give to drink, water
+    distinct: providing drink rather than drinking, hence almost always hifil; reaches the ground and plants as well as people and beasts; tied to the sound of liquid not yet drunk, so everything before the act (Rabbi Shlomo Pappenheim)
+  - he: משקה
+    tr: mashkeh
+    en: beverage
+    distinct: the beverage itself, the noun beside the verb lehashkos; sometimes carries the implication of an alcoholic drink
+  - he: הגמיאיני
+    tr: hagmieini
+    en: let me drink
+    distinct: the servant's own request, used once in the parashah; the early lexicographers give the root ג-מ-א; Rashi ties it to Mishnaic ג-מ-ע, swallowing (Rashi); Pappenheim to ג-מ, drinking the way a reed soaks up water (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:10709 "Chayei Sarah: Take a Drink" (2022-11-12) https://articles.ohr.edu/articles/chayei-sarah-take-a-drink
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
@@ -34,6 +50,15 @@ drinking and giving to drink, when eating and feeding come off one root (א-כ-�
 man and beast while the causative *lehashkos* reaches even to plants. He has
 wondered about these questions for years and has not yet found a satisfactory
 answer. What follows are etymological insights, not a resolution.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שתיה | lishtos | drink | the act itself, only of people and animals; what drinking does inside (Pappenheim) |
+| השקאה | lehashkos | give to drink, water | providing drink, not drinking; waters even the ground; what comes before the act (Pappenheim) |
+| משקה | mashkeh | beverage | the beverage itself; sometimes implies an alcoholic one |
+| הגמיאיני | hagmieini | let me drink | the servant's own request; swallowing (Rashi); soaking it up like a reed (Pappenheim) |
 
 ## Distinctions
 

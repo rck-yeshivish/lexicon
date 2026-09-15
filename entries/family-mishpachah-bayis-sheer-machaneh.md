@@ -8,6 +8,26 @@ domain: society
 words:
   - he: שפחה
     nk: שִׁפְחָה
+  - he: משפחה
+    tr: mishpachah
+    en: family
+    distinct: the ordinary word for family, clan or extended kin; one core sense of attachment, people bound by common descent (Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch), or appendages ascribed to the patriarch (Rabbi Aharon Marcus, Rabbi Zev Hoberman)
+  - he: בית
+    tr: bayis
+    en: household
+    distinct: the people under one roof rather than the building (Radak, Rashi); in some places specifically one's wife (Ibn Janach), as Rabbi Yose called his wife baisi
+  - he: מחנה
+    tr: machaneh
+    en: camp
+    distinct: more precisely a camp than a family, a group settled in one spot on the way to somewhere else (Rav Hirsch); from dwelling or stopping over, and in most places military
+  - he: שאר
+    tr: she'er
+    en: blood relative
+    distinct: a blood relative, from the flesh sense of the word, kin sharing one forebear; the word also means food, and it narrows to one's spouse
+  - he: פמליא
+    tr: pamalia
+    en: entourage
+    distinct: a retinue or court, mostly Hashem's angelic host but also a human court; Greek for camp (Rambam), or Latin familia (Rabbi Eliyahu HaBachur, Alexander Kohut)
 sources:
   - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
 authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Yehudah Aryeh of Carpentras, HaKtav V'HaKabbalah, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Rambam, Sefer HaAruch, Rabbi Eliyahu HaBachur, Rabbi Gedaliah Lipschutz, Rabbi Eliezer Herstik, Alexander Kohut]
@@ -25,6 +45,16 @@ even where it names Yaakov's people. *She'er* is a **blood relative**,
 kinsman, from the "flesh" sense of the word, and it too can mean **wife**.
 *Pamalia* is an **entourage** or retinue, human or angelic. Two of these,
 *machaneh* and *bayis*, name Yaakov's family within a single parashah.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| משפחה | mishpachah | family | clan or extended kin; attached by common descent (Ohalei Yehuda, Rav Hirsch) |
+| בית | bayis | household | the household under one roof (Radak); sometimes one's wife (Ibn Janach) |
+| מחנה | machaneh | camp | a group encamped on the way somewhere (Rav Hirsch); usually military |
+| שאר | she'er | blood relative | kin, from the flesh sense; can narrow to one's wife |
+| פמליא | pamalia | entourage | a retinue, mostly angelic; Latin *familia* (Eliyahu HaBachur) |
 
 ## Distinctions
 

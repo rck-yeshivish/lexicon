@@ -6,8 +6,23 @@ translit: [sove, soveh, sova, sava, savim, sovim, savaim, savyuta, shachar, shik
 english: [swilling, drinking to excess, drunkenness, getting drunk, strong drink, gluttony]
 domain: action
 words:
+  - he: סבא
+    tr: sove
+    en: swilling
+    distinct: drinking intoxicants to excess, the drinking itself whether or not drunkenness follows (Malbim), though Menachem Ibn Saruk defines it simply as drunkenness; the drink side of the ben sorer u'moreh pair; drinking past the point of being full, tied to seviah (Rav Hirsch)
+  - he: סבא
+    tr: sava
+    en: wine, drink
+    distinct: the same root as a noun; wine (Targum, Rashi, Rabbi Yosef Kara), or elsewhere in Rashi a general term for drinks; so named because drunkards are called sovim (Rabbi Yosef Nechemias)
   - he: שכר
+    tr: shachar
+    en: getting drunk
+    distinct: getting drunk, the state actually achieved, where sove is the drinking (Malbim); a production of the imagination from within, kin to sheger, shir and sheker (Rav Hirsch, Resnick); from כ-ר, dancing, the head dizzy as if dancing (Rabbi Aharon Marcus)
+  - he: שכר
+    tr: sheichar
+    en: strong drink
     nk: שֵׁכָר
+    distinct: the beverage that makes one drunk; strictly any intoxicant, in Tanach sometimes strong wine (Rabbi Moshe Tedeschi-Ashkenazi); aged wine against yayin, new wine (Targum Onkelos, Rashi); in Rabbinic Hebrew beer or mead
 sources:
   - wiaw:11520 "Ki Seitzei: Getting Drunk" (2024-09-14) https://articles.ohr.edu/articles/ki-seitzei-getting-drunk
 authorities: [Menachem Ibn Saruk, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Rabbi Moshe Tzuriel, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehudah Aryeh of Carpentras, Rav Hirsch, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Kara, Rabbi Yosef Nechemias, Rabbi Dr. Asher Weiser, Dr. Lawrence Resnick, Rashi, Radak, Rambam, Ramban, Rabbi Aharon Marcus]
@@ -23,6 +38,15 @@ drinking itself, whether or not the drinker actually got drunk. *Shachar* is
 **getting drunk**, the state achieved. The noun *sheichar* is the **strong
 drink** that produces it. In the *ben sorer u'moreh* pasuk, *zollel* is the meat
 side (gluttony) and *sove* the drink side (swilling).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| סבא | sove | swilling | drinking to excess, whether or not he gets drunk (Malbim) |
+| סבא | sava | wine, drink | the drink itself; wine (Targum, Rashi, Kara), elsewhere in Rashi any drink |
+| שכר | shachar | getting drunk | actually drunk, the state achieved (Malbim); the head as if dancing (Marcus) |
+| שכר | sheichar | strong drink | the intoxicating drink; aged wine against *yayin* (Onkelos, Rashi); later beer or mead |
 
 ## Distinctions
 

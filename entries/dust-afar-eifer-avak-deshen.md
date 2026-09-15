@@ -5,6 +5,23 @@ roots: [ע-פ-ר, א-פ-ר, א-ב-ק, ד-ש-ן]
 translit: [afar, ofor, eifer, efer, avak, ovok, deshen, doshen, deshe, afar vaeifer, avak lashon hara]
 english: [dirt, soil, ashes, dust, fat-ash]
 domain: nature
+words:
+  - he: עפר
+    tr: afar
+    en: dirt, soil
+    distinct: the general word, the soil that can grow things, against eifer and avak which grow nothing (Zohar); Beis Shammai limits it to literal soil, Beis Hillel includes ashes, and the halachah follows Beis Hillel
+  - he: אפר
+    tr: eifer
+    en: ashes
+    distinct: what fire leaves, matter broken down into particles by burning (Rabbi Shlomo Pappenheim); grows nothing (Zohar); ashes have no fruitful future, as in Avraham's afar va'eifer (Netziv); burnt through with no fire left, against deshen (Rabbi Eliezer Lipman Lichtenstein)
+  - he: אבק
+    tr: avak
+    en: dust
+    distinct: fine powder from pulverizing, not burning; finer than run-of-the-mill afar (Rabbi Shlomo Pappenheim); matter rubbed down to its core particles, light enough for the wind, always the product of a struggle (Rabbi Moshe Shapiro); perhaps kin to chibbuk, clinging to something else (Rabbi Yehuda Leib Edel)
+  - he: דשן
+    tr: deshen
+    en: ashes, fatty ash
+    distinct: a narrower word for ashes, and disputed; burnt with fire still glowing inside, like an ember (Rabbi Eliezer Lipman Lichtenstein); the ashes of the avodah in the Mikdash (Rabbi Yehuda Leib Shapira-Frankfurter); animal ash only, named for its residual fat (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:8467 "Dirt, Dust and Ashes" (2019-11-09) https://articles.ohr.edu/articles/dirt-dust-and-ashes
 authorities: [Netziv, Beis Shammai, Beis Hillel, Zohar, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Yehuda Leib Edel, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliezer Lipman Lichtenstein, Rabbi Yehuda Leib Shapira-Frankfurter]
@@ -22,6 +39,15 @@ a narrower word for ashes, tied by Rabbi Pappenheim to fat and by Rabbi Yehuda
 Leib Shapira-Frankfurter to the Mikdash. The difference between *afar* and
 *eifer* is fertility, which is what makes it significant that the Torah calls
 the ashes of the Parah Adumah *afar* and not *eifer*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עפר | afar | dirt, soil | the general word; fertile, it grows things (Zohar) |
+| אפר | eifer | ashes | burnt remains; sterile, grows nothing (Zohar); no fruitful future (Netziv) |
+| אבק | avak | dust | fine powder from pulverizing; always the product of a struggle (Rabbi Moshe Shapiro) |
+| דשן | deshen | ashes, fatty ash | disputed: still glowing (Lichtenstein); Mikdash ash (Shapira-Frankfurter); animal ash, from fat (Pappenheim) |
 
 ## Distinctions
 
