@@ -14,7 +14,7 @@ words:
     tr: masechah
     en: molten image (in Modern Hebrew, mask)
     nk: מַסֵּכָה
-    distinct: in Tanach a cast-metal figure, from nesech, "pouring" (Ibn Janach, Radak), as in egel masechah; the "mask" sense is modern, perhaps by way of that root's secondary sense of covering or of MEM-SAMECH-KAF, mixing (Rabbi Reuven Chaim Klein), and shaped by foreign words like mask (Rabbi Dr. Ernest Klein, Even-Shoshan)
+    distinct: in Tanach a cast-metal figure, from nesech, "pouring" (Ibn Janach, Radak), or for Rabbi Eliyahu Benamozegh from sichah, anointing, as in egel masechah; the "mask" sense is modern, perhaps by way of that root's secondary sense of covering or of MEM-SAMECH-KAF, mixing (Rabbi Reuven Chaim Klein), and shaped by foreign words like mask (Rabbi Dr. Ernest Klein, Even-Shoshan)
   - he: פרצוף
     tr: partzuf
     en: face
@@ -45,7 +45,7 @@ it is the word the early poskim use for the Purim custom.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | מסוה | masveh | mask, veil | Biblical, only of Moshe's face-covering; a cloth with holes for eyes, nose, mouth (Ibn Parchon) |
-| מסכה | masechah | molten image | cast metal, from *nesech*, pouring (Ibn Janach, Radak); "mask" only in Modern Hebrew |
+| מסכה | masechah | molten image | cast metal, from *nesech*, pouring (Ibn Janach, Radak), or from *sichah*, anointing (Rabbi Eliyahu Benamozegh); "mask" only in Modern Hebrew |
 | פרצוף | partzuf | face | Greek *prosopon*; the poskim's word for the Purim masks (Rema, Orach Chaim 696:8) |
 | סותה | suto | his garment | Bereishis 49:11; a cognate of *masveh* (Rashbam, Ibn Ezra, Chizkuni) |
 
