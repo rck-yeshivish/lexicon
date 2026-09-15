@@ -106,15 +106,16 @@ general word for **angels**.
   *kruvim* and *chayos* likewise.
 
 ### chayos (חיות)
-The highest created rank: they are not the
-highest of all entities, only the highest of all *created* entities in the Upper
-Realms. The anonymous commentator to Rambam brings two explanations, the first
-of them as what "some explain": they appeared to Yechezkel in the form of
-*chayos*, wild animals, because in this world man stands at the peak of creation
-and animals do not, so the highest of the angels appeared as animals to teach the
-*navi* that even the highest creature Above is as an animal beside Hashem.
-Alternatively they are so called because through them the *chiyus*, the
-life-force, is given to all lower creations.
+The highest created rank: they are not the highest of all entities, only the
+highest of all *created* entities in the Upper Realms.
+
+- The anonymous commentator to Rambam brings two explanations, the first of them
+  as what "some explain": they appeared to Yechezkel in the form of *chayos*,
+  wild animals, because in this world man stands at the peak of creation and
+  animals do not, so the highest of the angels appeared as animals to teach the
+  *navi* that even the highest creature Above is as an animal beside Hashem.
+- Alternatively they are so called because through them the *chiyus*, the
+  life-force, is given to all lower creations.
 
 ### ofanim (אופנים)
 Second rank; the word also means "wheel." If the Divine glory is likened to a
@@ -123,22 +124,29 @@ several works ascribed to the school of Rabbi Elazar Rokeach of Worms, the *ofan
 is the inside of the wheel and the *galgal* its outside, meaning its spokes.
 
 ### erelim (אראלים)
-Third rank (Yeshayahu 33:7). The anonymous commentator: the word denotes
-something strong or important, as the Beis HaMikdash and the Mizbeach are called
-*Ariel* and *Harel* (Yechezkel 43:15). The school of the Rokeach: the *erelim*
-tell the other angels about Hashem's decrees. Bar Kappara, a talmid of Rabbi
-Yehudah HaNasi, is said to have announced his rebbi's passing by proclaiming that
-the *erelim* and the afflicted, meaning the human righteous, both took hold of
-the Holy Ark, the *erelim* overpowered the afflicted, and the Ark was captured
-(Kesubos 104a), the *erelim* being those charged with carrying out the decree.
+Third rank (Yeshayahu 33:7).
+
+- The anonymous commentator: the word denotes something strong or important, as
+  the Beis HaMikdash and the Mizbeach are called *Ariel* and *Harel* (Yechezkel
+  43:15).
+- The school of the Rokeach: the *erelim* tell the other angels about Hashem's
+  decrees.
+- Bar Kappara, a talmid of Rabbi Yehudah HaNasi, is said to have announced his
+  rebbi's passing by proclaiming that the *erelim* and the afflicted, meaning
+  the human righteous, both took hold of the Holy Ark, the *erelim* overpowered
+  the afflicted, and the Ark was captured (Kesubos 104a), the *erelim* being
+  those charged with carrying out the decree.
 
 ### chashmalim (חשמלים)
-Fourth rank; they reveal themselves to the nevi'im in fiery flashes of light. The
-Gemara (Chagigah 13b) reads the name as *chash* (quiet) and *mal* (speak),
-because at times they speak of Hashem's glory and at times they remain quiet. The
-school of the Rokeach reads it as a portmanteau of *chashuv* (important, on
-account of their nearness to the Divine glory) and *mal* (speak, since they speak
-of Hashem's holiness). In Modern Hebrew *chashmal* means electricity.
+Fourth rank; they reveal themselves to the nevi'im in fiery flashes of light.
+
+- The Gemara (Chagigah 13b) reads the name as *chash* (quiet) and *mal* (speak),
+  because at times they speak of Hashem's glory and at times they remain quiet.
+- The school of the Rokeach reads it as a portmanteau of *chashuv* (important,
+  on account of their nearness to the Divine glory) and *mal* (speak, since they
+  speak of Hashem's holiness).
+
+In Modern Hebrew *chashmal* means electricity.
 
 ### serafim (שרפים)
 Fifth rank. The anonymous commentator: they are named for their appearance, which
@@ -168,21 +176,27 @@ to guard the path to the Eitz HaChaim (Rashi to Bereishis 3:24).
 
 ### ishim (אישים)
 The lowest rank in Rambam's list, the angels who speak with human nevi'im.
-Literally "men," because their level is close to that of the nevi'im they
-address. Rabbi Mordechai Shlomo Movshovitz explains instead that they sometimes
-act like men, as the three who came to Avraham (Bereishis 18) looked and behaved
-like people. Tanach itself calls an angel *ish* (Yechezkel 9:11), since *ish*
-can name a single member of any species, not only of mankind. Rabbi Yaakov Tzvi
-Mecklenburg explains that *ish* implies a more abstract and immaterial form of
-existence, which is why it can still refer to angels or other otherworldly beings.
+
+- Literally "men," because their level is close to that of the nevi'im they
+  address.
+- Rabbi Mordechai Shlomo Movshovitz explains instead that they sometimes act
+  like men, as the three who came to Avraham (Bereishis 18) looked and behaved
+  like people.
+- Tanach itself calls an angel *ish* (Yechezkel 9:11), since *ish* can name a
+  single member of any species, not only of mankind. Rabbi Yaakov Tzvi
+  Mecklenburg explains that *ish* implies a more abstract and immaterial form of
+  existence, which is why it can still refer to angels or other otherworldly
+  beings.
 
 ### irin (עירין) and kadishin (קדישין)
-Not on Rambam's list. The school of the Rokeach: *kadishin* are holy and set
-apart in that they do not carry out decrees themselves but tell other angels
-what to do; *irin* are sent to the cities (*ir*) of this world to observe men's
-deeds and to give particular dreams. Rabbi Yaakov Tzvi Mecklenburg derives
-*irin* instead from *eir* (awake), since they are always awake and watching what
-people do.
+Not on Rambam's list.
+
+- The school of the Rokeach: *kadishin* are holy and set apart in that they do
+  not carry out decrees themselves but tell other angels what to do; *irin* are
+  sent to the cities (*ir*) of this world to observe men's deeds and to give
+  particular dreams.
+- Rabbi Yaakov Tzvi Mecklenburg derives *irin* instead from *eir* (awake), since
+  they are always awake and watching what people do.
 
 ## Rendering guidance
 

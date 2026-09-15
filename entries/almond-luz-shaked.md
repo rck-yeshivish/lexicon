@@ -51,14 +51,16 @@ The plain Hebrew word: *shekeidim* among the gifts Yaakov sent down to Mitzrayim
 34, 37:19 to 20).
 
 The word seems to belong to the root ש-ק-ד, which carries watchfulness,
-vigilance, diligence, persistence. Grammarians as early as Ibn Janach
-(990-1055) and Radak (1160-1235) intimated a connection between the two senses,
-explaining that the almond tree is especially zealous in bringing out its
-blossom faster than other trees, though *Machberes Menachem* does not seem to
-draw the connection. The botanist Dr. Joshua D. Klein of the Volcani Center gives
-a second explanation, that *shaked* suits the almond because it
-tends to stay on the tree rather than drop when ripe as most fleshy fruits do, so
-that the nut is "diligent" in hanging on longer than most fruits.
+vigilance, diligence, persistence.
+
+- Grammarians as early as Ibn Janach (990-1055) and Radak (1160-1235) intimated
+  a connection between the two senses, explaining that the almond tree is
+  especially zealous in bringing out its blossom faster than other trees, though
+  *Machberes Menachem* does not seem to draw the connection.
+- The botanist Dr. Joshua D. Klein of the Volcani Center gives a second
+  explanation, that *shaked* suits the almond because it tends to stay on the
+  tree rather than drop when ripe as most fleshy fruits do, so that the nut is
+  "diligent" in hanging on longer than most fruits.
 
 The link may even predate the *medakdekim*, as it seems to be found in Hashem's
 pun to Yirmiyahu: "What do you see, Yirmiyahu? And I said, I see a *makel
@@ -92,15 +94,16 @@ Targum Yonasan and Targum Neofiti support the equation from the other side: they
 render the *shekeidim* of Bereishis 43:11 as *meshach diluzin*, almond oil or
 butter, and the *shekeidim* of Bamidbar 17:23 as *luzin*.
 
-On that reading, Rabbi Klein says, it seems *luz* is Aramaic and *shaked* Hebrew,
-and the two mean exactly the same thing. Dr. Gary Rendsburg of Rutgers University
-adds that the Torah nonetheless uses the Aramaic *luz* in the story of how Lavan
-the Aramean tried to swindle Yaakov because the story happened in Aram, the home
-of Aramaic, so that an Aramaic word in an Aramean setting lends the account
-authenticity. Rabbi Klein offers an alternative of his own, marked as a thought
-rather than a ruling: perhaps in Hebrew *shaked* is the almond fruit or nut
-itself and names the tree only in a borrowed sense, while *luz* names the tree
-directly; Avraham Even-Shoshan's dictionary seems to follow that approach.
+- On that reading, Rabbi Klein says, it seems *luz* is Aramaic and *shaked*
+  Hebrew, and the two mean exactly the same thing. Dr. Gary Rendsburg of Rutgers
+  University adds that the Torah nonetheless uses the Aramaic *luz* in the story
+  of how Lavan the Aramean tried to swindle Yaakov because the story happened in
+  Aram, the home of Aramaic, so that an Aramaic word in an Aramean setting lends
+  the account authenticity.
+- Rabbi Klein offers an alternative of his own, marked as a thought rather than
+  a ruling: perhaps in Hebrew *shaked* is the almond fruit or nut itself and
+  names the tree only in a borrowed sense, while *luz* names the tree directly;
+  Avraham Even-Shoshan's dictionary seems to follow that approach.
 
 Not everyone equates them.
 - Another version of Rabbi Saadia Gaon's commentary has *luz* as the silverleaf
@@ -115,16 +118,17 @@ Koheles 12:5) and never as *luz*; *segd* means almond in Syriac and Ethiopic and
 seems itself to derive from the Hebrew *shaked* by the interchange of gimmel and
 kuf.
 
-Rabbi Shlomo Pappenheim: the biliteral ל-ז means sideward deviation, whether
-physical movement to the side or moral swerving from the straight path. The
-*luz* tree fits because its shoots branch off the trunk very early, unlike other
-trees. The demonstrative *halaz*, "that one," comes from the same root, its
-antecedent typically being someone far off, removed from here. Midrash *Sechel Tov* reads
-*halaz* homiletically the other way, connecting it to the *luz* tree's outward
-majesty, where it is used of Yitzchak (Bereishis 24:65), Yosef (Bereishis
-37:19), Zecharyah (Zecharyah 2:8), and Eretz Yisrael (Yechezkel 36:35). Rabbi
-Klein adds that the almond's aesthetic quality may also be what is reflected in
-the almond-like decorations fixed (*meshukadim*) to the Menorah.
+- Rabbi Shlomo Pappenheim: the biliteral ל-ז means sideward deviation, whether
+  physical movement to the side or moral swerving from the straight path. The
+  *luz* tree fits because its shoots branch off the trunk very early, unlike
+  other trees. The demonstrative *halaz*, "that one," comes from the same root,
+  its antecedent typically being someone far off, removed from here.
+- Midrash *Sechel Tov* reads *halaz* homiletically the other way, connecting it
+  to the *luz* tree's outward majesty, where it is used of Yitzchak (Bereishis
+  24:65), Yosef (Bereishis 37:19), Zecharyah (Zecharyah 2:8), and Eretz Yisrael
+  (Yechezkel 36:35). Rabbi Klein adds that the almond's aesthetic quality may
+  also be what is reflected in the almond-like decorations fixed (*meshukadim*)
+  to the Menorah.
 
 Solomon Löwisohn (1789-1821), a Hungarian Maskilic
 scholar, derived Lusitania, the Roman name for Portugal, from the Aramaic *luz*,

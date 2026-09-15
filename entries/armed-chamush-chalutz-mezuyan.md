@@ -57,24 +57,29 @@ both live readings of one word.
 ## Distinctions
 
 ### chamush (חמוש)
-Once in Chumash (Shemos 13:18) and three times after: the men of Gad and
-Reuven expected to lead the conquest (Yehoshua 1:14) and doing so (Yehoshua
-4:12), and Gidon's war with Midyan (Shoftim 7:11). Ramban reads the peshat at
-Shemos 13:18 as armed, since Yisrael feared attack by the Pelishtim or others
-on the way. The Mechilta and Rashi read *chamushim* from *chamesh*, that only
-one in five (or one in fifty, or one in five hundred) left Mitzrayim. (In
-Modern Hebrew the association with armaments went on developing, so that
+Once in Chumash (Shemos 13:18) and three times after: the men of Gad and Reuven
+expected to lead the conquest (Yehoshua 1:14) and doing so (Yehoshua 4:12), and
+Gidon's war with Midyan (Shoftim 7:11).
+
+- Ramban reads the peshat at Shemos 13:18 as armed, since Yisrael feared attack
+  by the Pelishtim or others on the way.
+- The Mechilta and Rashi read *chamushim* from *chamesh*, that only one in five
+  (or one in fifty, or one in five hundred) left Mitzrayim.
+
+(In Modern Hebrew the association with armaments went on developing, so that
 *tachmoshes* is ammunition.)
 
-Menachem Ibn Saruk, Ibn Janach, Ibn Parchon and Radak take the root as
-ח-מ-ש, which also yields *chamesh*, *chomesh*, *chamishah*, *chamishim*. The
-noun *chomesh*, typically translated "lower abdomen," occurs four times, all in
-Shmuel (Shmuel II
-2:23, 3:27, 4:6, 20:10), of men killed by a stab there; Sanhedrin 49a places it
-by the fifth rib, where the gallbladder and liver hang, so that a blow there
-kills. Ibn Janach, Rabbi Yehudah Ibn Balaam, Ibn Parchon, Ibn Ezra and Radak
-derive the adjective from that noun: an armed man typically wears his weapon
-girded at the *chomesh*. Ibn Saruk derives it the other way, the noun from the adjective.
+Menachem Ibn Saruk, Ibn Janach, Ibn Parchon and Radak take the root as ח-מ-ש,
+which also yields *chamesh*, *chomesh*, *chamishah*, *chamishim*. The noun
+*chomesh*, typically translated "lower abdomen," occurs four times, all in
+Shmuel (Shmuel II 2:23, 3:27, 4:6, 20:10), of men killed by a stab there;
+Sanhedrin 49a places it by the fifth rib, where the gallbladder and liver hang,
+so that a blow there kills.
+
+- Ibn Janach, Rabbi Yehudah Ibn Balaam, Ibn Parchon, Ibn Ezra and Radak derive
+  the adjective from that noun: an armed man typically wears his weapon girded
+  at the *chomesh*.
+- Ibn Saruk derives it the other way, the noun from the adjective.
 
 The Yerushalmi (*Shabbos* 6:4) ties it to *chamesh* instead: the Mishnah there
 lists five weapons a man might bear into a public domain on Shabbos, a sword, a
@@ -101,13 +106,15 @@ conjecture.
 
 Targum renders *chamush* in all four places by a cognate of *zariz* (encourage,
 arouse, strengthen, embolden), which is to say that armed men are prepared and
-ready for a fight at a moment's notice. The related verb *chimesh* (Bereishis
-41:34, where Yosef advises Pharaoh) is read two ways: Targum Onkelos, Rashi and
-Ibn Parchon by *zariz*, that Pharaoh should spur his subjects to store; Rashbam,
-Ibn Ezra, *Daas Zekeinim*, Radak and others by *chamesh*, that he impose a fifth
-as tax (also implied in Ibn Saruk's *Machberes Menachem*). Ibn Janach reads it
-as a third thing, related to the Arabic *chamus*, hidden, a cognate of the
-Hebrew *kamus*.
+ready for a fight at a moment's notice.
+
+- The related verb *chimesh* (Bereishis 41:34, where Yosef advises Pharaoh) is
+  read two ways: Targum Onkelos, Rashi and Ibn Parchon by *zariz*, that Pharaoh
+  should spur his subjects to store.
+- Rashbam, Ibn Ezra, *Daas Zekeinim*, Radak and others by *chamesh*, that he
+  impose a fifth as tax (also implied in Ibn Saruk's *Machberes Menachem*).
+- Ibn Janach reads it as a third thing, related to the Arabic *chamus*, hidden,
+  a cognate of the Hebrew *kamus*.
 
 ### chalutz (חלוץ)
 Seventeen occurrences in the military sense, mostly Bamidbar (31:5, 32:21,
@@ -141,13 +148,15 @@ I 11:27, 27:10) and another man of that name (Divrei HaYamim I 2:39).
   between *chalutz* and *zariz*, or is a Modern Hebrew coinage.
 
 ### The difference between chamush and chalutz
-Malbim (to Yehoshua 4:12) notes the overlap and separates them: *chamushim* are
-soldiers arrayed in formations of fifty, hence the tie to *chamesh*, while
-*chalutzim* are men slipped off and separated from the rest of the nation.
-Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim* 22) accepts Malbim on
-*chalutzim* but explains *chamushim* by the grammarians' route, men armed at
-the *chomesh*. If both words are named for a body part, Rabbi Reuven Chaim Klein observes,
-they differ only in which one.
+- Malbim (to Yehoshua 4:12) notes the overlap and separates them: *chamushim*
+  are soldiers arrayed in formations of fifty, hence the tie to *chamesh*, while
+  *chalutzim* are men slipped off and separated from the rest of the nation.
+- Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim* 22) accepts Malbim on
+  *chalutzim* but explains *chamushim* by the grammarians' route, men armed at
+  the *chomesh*.
+
+If both words are named for a body part, Rabbi Reuven Chaim Klein observes, they
+differ only in which one.
 
 ### mezuyan (מזוין)
 Not in Tanach and not in the Mishnah, but common in Gemara: *listim mezuyanin*,

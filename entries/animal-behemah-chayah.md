@@ -47,31 +47,38 @@ are descriptions:
 ## Distinctions
 
 ### behemah (בהמה)
-Ibn Ezra and Radak: the domesticated animals, which live with people and have a
-use for them, whether for their meat or as beasts of burden. Among the kosher
-species, *behemah* is limited to three families, the same three that alone may be
-brought as *korbanos*: the bovine, ovine and caprine families, that is cattle,
-sheep, and goats. The category is not only kosher, though: other, non-kosher
-animals such as pigs, camels, and donkeys are seemingly *behemos* as well, which
-is why the sacrificial list alone does not define the word. Ramban instead defines *behemos* as the herbivores, animals
-that feed solely on plants and other flora. Rabbi Yaakov Tzvi Mecklenburg relates
-the word itself to the noises animals make, building *behemah* on ה-מ(-ה),
-incoherent noise; Rabbi Aharon Marcus similarly derives it from ב-ה-ה, an
-onomatopoeic rendering of a common animal sound. Either way, the *behemah* differs
-from man, who is sometimes called a *middaber*, a speaker: people produce
-understandable speech, while animals just make sounds.
+- Ibn Ezra and Radak: the domesticated animals, which live with people and have
+  a use for them, whether for their meat or as beasts of burden. Among the
+  kosher species, *behemah* is limited to three families, the same three that
+  alone may be brought as *korbanos*: the bovine, ovine and caprine families,
+  that is cattle, sheep, and goats. The category is not only kosher, though:
+  other, non-kosher animals such as pigs, camels, and donkeys are seemingly
+  *behemos* as well, which is why the sacrificial list alone does not define the
+  word.
+- Ramban instead defines *behemos* as the herbivores, animals that feed solely
+  on plants and other flora.
+- Rabbi Yaakov Tzvi Mecklenburg relates the word itself to the noises animals
+  make, building *behemah* on ה-מ(-ה), incoherent noise.
+- Rabbi Aharon Marcus similarly derives it from ב-ה-ה, an onomatopoeic rendering
+  of a common animal sound.
+
+Either way, the *behemah* differs from man, who is sometimes called a
+*middaber*, a speaker: people produce understandable speech, while animals just
+make sounds.
 
 ### chayah (חיה)
-Ibn Ezra and Radak: the wild animals, which live in uninhabited country, lions
-and tigers and bears. Ramban: the carnivores, the meat-eaters. The Netziv favors
-Ibn Ezra and Radak and doubts Ramban from Bava Kamma 19b, where Chazal state that
-deer do not generally eat meat. On Ramban's rule a deer would then be a *behemah*,
-yet a deer is a kosher animal and is not one of the three *behemah* families, and
-everybody agrees it is a *chayah*; on the strength of that question the Netziv
-rejects Ramban's approach. A recently published letter of Rabbi Chaim Kanievsky,
-addressed to Rabbi Chaim Tzvi Lehrfeld, offers a defense of Ramban: a deer does
-eat small insects and other creeping creatures, and that is carnivorous enough to
-place it among the *chayos* even though it does not eat animal meat.
+- Ibn Ezra and Radak: the wild animals, which live in uninhabited country, lions
+  and tigers and bears.
+- Ramban: the carnivores, the meat-eaters.
+- The Netziv favors Ibn Ezra and Radak and doubts Ramban from Bava Kamma 19b,
+  where Chazal state that deer do not generally eat meat. On Ramban's rule a
+  deer would then be a *behemah*, yet a deer is a kosher animal and is not one
+  of the three *behemah* families, and everybody agrees it is a *chayah*; on the
+  strength of that question the Netziv rejects Ramban's approach.
+- A recently published letter of Rabbi Chaim Kanievsky, addressed to Rabbi Chaim
+  Tzvi Lehrfeld, offers a defense of Ramban: a deer does eat small insects and
+  other creeping creatures, and that is carnivorous enough to place it among the
+  *chayos* even though it does not eat animal meat.
 
 ## Rendering guidance
 

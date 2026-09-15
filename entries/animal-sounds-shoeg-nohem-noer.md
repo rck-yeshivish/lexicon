@@ -85,21 +85,27 @@ they differ.
 
 Two of the three read it as a sound; the gait reading remains live.
 
-**What separates the lion's four verbs.** Rabbi Yechiel Michel Stern, Rav of the
-Ezras Torah neighborhood in Yerushalayim, suggests that the difference is the
-reason the lion is making noise. For example, the Vilna Gaon explains that a
-lion is *shoeg* when it is hungry, while Rashi (to Sanhedrin 102a, Berachos 32a)
-writes that it is *nohem* when it has a lot to eat, so that it becomes
-especially happy and goes berserk. Rabbi Stern does not explain what causes a
-lion to be *yehegeh* or *noer*. Rabbi Pappenheim works instead from the biliteral roots and
-gets a different grid: *shoeg* almost involuntary, *nohem* deliberate, *yehegeh*
-steady, *noer* sudden.
+**What separates the lion's four verbs.**
 
-**Where nohek comes from.** Rabbi David Chaim Chelouche (1920-2016), the late
-Chief Rabbi of Netanya, argues that both *nohem* and *nohek* derive from נ-ה,
-which also gives *nehi*, the onomatopoeic interjection denoting sighing
-(Yirmiyahu 9:17-19 and 31:14, Amos 5:16, Michah 2:4). Rabbi Pappenheim instead
-traces *nohek* to the one-letter root ק, "expulsion," parent of נ-ק, "cleaning."
+- Rabbi Yechiel Michel Stern, Rav of the Ezras Torah neighborhood in
+  Yerushalayim, suggests that the difference is the reason the lion is making
+  noise. For example, the Vilna Gaon explains that a lion is *shoeg* when it is
+  hungry, while Rashi (to Sanhedrin 102a, Berachos 32a) writes that it is
+  *nohem* when it has a lot to eat, so that it becomes especially happy and goes
+  berserk. Rabbi Stern does not explain what causes a lion to be *yehegeh* or
+  *noer*.
+- Rabbi Pappenheim works instead from the biliteral roots and gets a different
+  grid: *shoeg* almost involuntary, *nohem* deliberate, *yehegeh* steady, *noer*
+  sudden.
+
+**Where nohek comes from.**
+
+- Rabbi David Chaim Chelouche (1920-2016), the late Chief Rabbi of Netanya,
+  argues that both *nohem* and *nohek* derive from נ-ה, which also gives *nehi*,
+  the onomatopoeic interjection denoting sighing (Yirmiyahu 9:17-19 and 31:14,
+  Amos 5:16, Michah 2:4).
+- Rabbi Pappenheim instead traces *nohek* to the one-letter root ק, "expulsion,"
+  parent of נ-ק, "cleaning."
 
 ## Distinctions
 
@@ -151,14 +157,16 @@ Hirsch (to Devarim 25:18) links it to *zanav*, a tail, on the interchange of
 tzadi with zayin and peh with beis.
 
 ### behemah (בהמה)
-Rabbi Yaakov Tzvi Mecklenburg: the very word for a domestic animal is built on
-ה-מ(-ה), "incoherent noise," the same root Rabbi Pappenheim reads in *nohem*.
-Rabbi Aharon Marcus (1843-1916) similarly reads it as ב-ה-ה, an onomatopoeic
-rendering of a common animal sound, "baaaa," and links it to the ancient Latin
-and Old Irish *bo(s)*, the etymon of English *bovine*, related also to Greek
-*bous* and to *bol*/*vol* in various Slavic languages. Either way *behemah*
-stands against man, who is sometimes called a *medaber*, a speaker: the animal just makes sounds,
-man has the unique ability to produce understandable sounds through speech.
+- Rabbi Yaakov Tzvi Mecklenburg: the very word for a domestic animal is built on
+  ה-מ(-ה), "incoherent noise," the same root Rabbi Pappenheim reads in *nohem*.
+- Rabbi Aharon Marcus (1843-1916) similarly reads it as ב-ה-ה, an onomatopoeic
+  rendering of a common animal sound, "baaaa," and links it to the ancient Latin
+  and Old Irish *bo(s)*, the etymon of English *bovine*, related also to Greek
+  *bous* and to *bol*/*vol* in various Slavic languages.
+
+Either way *behemah* stands against man, who is sometimes called a *medaber*, a
+speaker: the animal just makes sounds, man has the unique ability to produce
+understandable sounds through speech.
 
 ### Two cautions from Rabbi Klein
 Donash also writes in that passage that a rooster (*gever*) is *tzorayach*, but

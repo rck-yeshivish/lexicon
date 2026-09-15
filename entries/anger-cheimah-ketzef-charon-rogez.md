@@ -132,15 +132,19 @@ words mark different points on the spectrum from annoyed to incensed, others fix
 on the object of the anger, others on its effects, and others on its cause.
 
 ### kaas (כעס)
-Root כ-ע-ס. The commonest, most generic term (Shmuel I 1:6, Iyov 6:2). Rabbeinu
-Efrayim: a metathesis of *eches*, poison in the heart. Malbim: anger pent up in the
-heart and never brought out into action. Pappenheim: the simplest, lowest grade.
-Rashi (to Shabbos 62b) runs the metathesis the other way, taking *eches* as a
-metathesis of *kaas* because a snake emits its venom only when it becomes angered.
-Either way, the link is already in the Gemara's exposition of the name of Kalev's
-daughter Achsah (Yehoshua 15:16-17), "because anyone who sees her becomes angry
-(*kaas*) at his wife," resting on the metathesis of ע-כ-ס, the supposed root of
-Achsah and seemingly of *eches*, and כ-ע-ס.
+Root כ-ע-ס. The commonest, most generic term (Shmuel I 1:6, Iyov 6:2).
+
+- Rabbeinu Efrayim: a metathesis of *eches*, poison in the heart.
+- Malbim: anger pent up in the heart and never brought out into action.
+- Pappenheim: the simplest, lowest grade.
+- Rashi (to Shabbos 62b) runs the metathesis the other way, taking *eches* as a
+  metathesis of *kaas* because a snake emits its venom only when it becomes
+  angered.
+
+Either way, the link is already in the Gemara's exposition of the name of
+Kalev's daughter Achsah (Yehoshua 15:16-17), "because anyone who sees her
+becomes angry (*kaas*) at his wife," resting on the metathesis of ע-כ-ס, the
+supposed root of Achsah and seemingly of *eches*, and כ-ע-ס.
 
 ### cheimah (חמה)
 Yeshayahu 27:4, Esther 7:10.
@@ -231,18 +235,22 @@ reached a boiling point.
 In Modern Hebrew *katzefet* is whipped cream.
 
 ### af (אף) and the lesser words
-*Af* (Shemos 34:6, Devarim 6:15) is nose or face; Rabbeinu Efrayim: the angry
-man's nose emits proverbial smoke. Malbim: anger physically visible in the face,
-typically born of emotion not intellect, at times roused spontaneously.
+*Af* (Shemos 34:6, Devarim 6:15) is nose or face.
 
-*Anaf* (Devarim 1:37, Yeshayahu 12:1, Tehillim 2:12) is disputed against *af*:
-Rabbeinu Efrayim holds it is the same word as *af* with an extra nun, while Radak
-writes the exact opposite, that the true root of *af* is א-נ-ף and the nun
-sometimes drops out. Rokeach: *anaf* is anger that spurs one to immediate revenge.
-Pappenheim, as an aside, traces *anaf* instead to the biliteral נ-פ, movement, the
-body twitching and convulsing out of sheer anger. The non-kosher *anafah* of
-Vayikra 11:19 and Devarim 14:18 is explained by the Gemara (Chullin 63a) as a
-*dayah ragzanit*, an angry bird.
+- Rabbeinu Efrayim: the angry man's nose emits proverbial smoke.
+- Malbim: anger physically visible in the face, typically born of emotion not
+  intellect, at times roused spontaneously.
+
+- *Anaf* (Devarim 1:37, Yeshayahu 12:1, Tehillim 2:12) is disputed against *af*:
+  Rabbeinu Efrayim holds it is the same word as *af* with an extra nun, while
+  Radak writes the exact opposite, that the true root of *af* is א-נ-ף and the
+  nun sometimes drops out.
+- Rokeach: *anaf* is anger that spurs one to immediate revenge.
+- Pappenheim, as an aside, traces *anaf* instead to the biliteral נ-פ, movement,
+  the body twitching and convulsing out of sheer anger.
+
+The non-kosher *anafah* of Vayikra 11:19 and Devarim 14:18 is explained by the
+Gemara (Chullin 63a) as a *dayah ragzanit*, an angry bird.
 
 *Ashan*, smoke (Shmuel II 22:9, Tehillim 18:9 and 80:5, Devarim 29:19): Radak
 explains this as a borrowed term that came to mean anger because smoke is a

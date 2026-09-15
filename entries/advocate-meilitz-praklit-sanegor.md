@@ -69,21 +69,23 @@ defender.
 Rashi (to *Avos* 4:11, *Zevachim* 7b, *Bava Basra* 10a), *Machzor Vitri* (*Avos*
 4:11), and the Rambam (to *Avos* 4:11) define *praklit* as *meilitz yosher* or
 *meilitz tov*; Rashi (to *Chagigah* 13b) and Rabbeinu Chananel (to *Rosh
-Hashanah* 26a, *Kiddushin* 5a) define *sanegor* the same way, so *meilitz yosher*
-is the Hebrew term the others are explained by. Its plain sense in Bereishis
-42:23 is an interpreter standing between two parties, and more broadly a
-middle-man. The full phrase comes from Iyov 33:23-24, where a single *meilitz*
+Hashanah* 26a, *Kiddushin* 5a) define *sanegor* the same way, so *meilitz
+yosher* is the Hebrew term the others are explained by. Its plain sense in
+Bereishis 42:23 is an interpreter standing between two parties, and more broadly
+a middle-man. The full phrase comes from Iyov 33:23-24, where a single *meilitz*
 angel out of a thousand tells of a man's *yashro*, his straightness, and he is
-spared. *Meilitz* can be traced either to מ-ל-צ or to ל-ו-צ. Ibn Janach and
-Radak relate the first to מ-ר-צ, *meretz* (fluency, persistence), by the
-interchange of lammed and reish, and on that reading the word seems to name the
-smoothness and consistency the advocate's speech requires; they also trace it to
-ל-ו-צ (thinking, explaining), so that it names his reasoning. Rabbi Shlomo
-Pappenheim takes the core of ל-צ as logical verbalization, usable for good
-(*meilitz*) or for ill (*leitzanus*, mockery); elsewhere he holds that in many
-roots a prefixed mem reverses the two-letter core, so *leitz* (scorn) becomes *meilitz*
-(justification, defense). Modern Hebrew's *leitzan*, a clown, comes from *leitz*
-but has lost the pejorative edge.
+spared. *Meilitz* can be traced either to מ-ל-צ or to ל-ו-צ.
+
+- Ibn Janach and Radak relate the first to מ-ר-צ, *meretz* (fluency,
+  persistence), by the interchange of lammed and reish, and on that reading the
+  word seems to name the smoothness and consistency the advocate's speech
+  requires; they also trace it to ל-ו-צ (thinking, explaining), so that it names
+  his reasoning.
+- Rabbi Shlomo Pappenheim takes the core of ל-צ as logical verbalization, usable
+  for good (*meilitz*) or for ill (*leitzanus*, mockery); elsewhere he holds
+  that in many roots a prefixed mem reverses the two-letter core, so *leitz*
+  (scorn) becomes *meilitz* (justification, defense). Modern Hebrew's *leitzan*,
+  a clown, comes from *leitz* but has lost the pejorative edge.
 
 ### praklit (פרקליט)
 A loanword, not Hebrew. It appears in Targum as the Aramaic rendering of
@@ -109,42 +111,48 @@ Shimon bar Yochai (*Zevachim* 7b, Tosefta *Parah* 1:1, *Toras Kohanim* to Vayikr
 appease, and only then is the gift accepted.
 
 ### sanegor (סניגור)
-Also a loanword. Rabbi Klein notes that it might be more accurately spelled
-*synagor*, being made of the Greek *syn* (together, same), the element in English
-*synonym*, *syntax*, *synagogue* and *synthesis*, and *agor* (gathering place,
-assembly), which he says is possibly related to the Hebrew *agur*, gathering. The
-*synegoros* in Ancient Greece was a legal expert who argued before the assembly
-on a defendant's behalf. From an exegetical perspective many sources take it as a
-contraction of *sani* (to despise, hate) plus *tigra* (fighting, argument), the
-one who hates strife and quiets the prosecutor's accusations; this explanation is
-cited by Rashi (on *Ein Yaakov*, *Chagigah* 13b), *Machzor Vitri* (to *Avos* 4:11
-and in the laws of Rosh Hashanah), Rabbeinu Elyakim (quoted in *Imrei Noam* to
-Vayikra 16:4), and *Moshav Zekanim* (to Vayikra 16:4).
+Also a loanword.
+
+- Rabbi Klein notes that it might be more accurately spelled *synagor*, being
+  made of the Greek *syn* (together, same), the element in English *synonym*,
+  *syntax*, *synagogue* and *synthesis*, and *agor* (gathering place, assembly),
+  which he says is possibly related to the Hebrew *agur*, gathering. The
+  *synegoros* in Ancient Greece was a legal expert who argued before the
+  assembly on a defendant's behalf.
+- From an exegetical perspective many sources take it as a contraction of *sani*
+  (to despise, hate) plus *tigra* (fighting, argument), the one who hates strife
+  and quiets the prosecutor's accusations; this explanation is cited by Rashi
+  (on *Ein Yaakov*, *Chagigah* 13b), *Machzor Vitri* (to *Avos* 4:11 and in the
+  laws of Rosh Hashanah), Rabbeinu Elyakim (quoted in *Imrei Noam* to Vayikra
+  16:4), and *Moshav Zekanim* (to Vayikra 16:4).
 
 ### kategor (קטגור)
 The accuser, and also from Greek: *kata* (down, reverse, against) plus *agora*
-(assembly), so one who speaks against another before an assembly.
-*Encyclopedia Britannica* explains that although *kategoria* originally meant
-an accusation, Aristotle (384-322 BCE) already used it in the philosophical sense
-of an assertion, and that the English *category*, a class or group into which one
-can assert that an item belongs, descends from it. Many commentators, among them
-Rabbeinu Chananel (*Rosh Hashanah* 26a, *Kiddushin* 5a), the Rambam, the
-Rashbatz, and Rabbi Yaakov bar Shimshon (the last three to *Avos* 4:11),
-understand *kategor* as a slanderer, one who informs to get a man into trouble;
-on that basis Rabbi Eliyahu HaBachur (1469-1549) in *Sefer HaTishbi* claims it is
-related to the Latin *interrogator*, which Rabbi Klein says does not quite pan out
-etymologically, *interrogator* being *inter* (between) plus *rogare* (to ask),
-which has nothing to do with the origins of *kategor*. *Machzor Vitri* reads it
-as a portmanteau of *ketata* (dispute) plus *tigra* (fighting); others as *magur
-ketat*, instigator of dispute (*Sefer Kushyot* 346, *Moshav Zekanim* to Vayikra
-16:4), or *kara tigra*, calling for a fight. The later Hebrew *kitrug*,
-accusation, seems to be a metathesis of *kategor*, the reish and gimmel switching
-places. The pair is load-bearing in halachah: a cow's horn is invalid for shofar,
-since the bovine recalls the Golden Calf, which draws Heavenly accusation, and
-likewise the Kohen Gadol's golden vestments are set aside for the Yom Kippur
-service, because "the *kategor* cannot become a *sanegor*" (the shofar in
-*Rosh Hashanah* 36a and Yerushalmi *Rosh Hashanah* 3:2, the vestments in *Rosh
-Hashanah* 36a and Yerushalmi *Yoma* 7:3).
+(assembly), so one who speaks against another before an assembly. *Encyclopedia
+Britannica* explains that although *kategoria* originally meant an accusation,
+Aristotle (384-322 BCE) already used it in the philosophical sense of an
+assertion, and that the English *category*, a class or group into which one can
+assert that an item belongs, descends from it.
+
+- Many commentators, among them Rabbeinu Chananel (*Rosh Hashanah* 26a,
+  *Kiddushin* 5a), the Rambam, the Rashbatz, and Rabbi Yaakov bar Shimshon (the
+  last three to *Avos* 4:11), understand *kategor* as a slanderer, one who
+  informs to get a man into trouble; on that basis Rabbi Eliyahu HaBachur
+  (1469-1549) in *Sefer HaTishbi* claims it is related to the Latin
+  *interrogator*, which Rabbi Klein says does not quite pan out etymologically,
+  *interrogator* being *inter* (between) plus *rogare* (to ask), which has
+  nothing to do with the origins of *kategor*.
+- *Machzor Vitri* reads it as a portmanteau of *ketata* (dispute) plus *tigra*
+  (fighting); others as *magur ketat*, instigator of dispute (*Sefer Kushyot*
+  346, *Moshav Zekanim* to Vayikra 16:4), or *kara tigra*, calling for a fight.
+
+The later Hebrew *kitrug*, accusation, seems to be a metathesis of *kategor*,
+the reish and gimmel switching places. The pair is load-bearing in halachah: a
+cow's horn is invalid for shofar, since the bovine recalls the Golden Calf,
+which draws Heavenly accusation, and likewise the Kohen Gadol's golden vestments
+are set aside for the Yom Kippur service, because "the *kategor* cannot become a
+*sanegor*" (the shofar in *Rosh Hashanah* 36a and Yerushalmi *Rosh Hashanah*
+3:2, the vestments in *Rosh Hashanah* 36a and Yerushalmi *Yoma* 7:3).
 
 ### meltzar (מלצר)
 Appears twice in Daniel (1:11, 1:16), where it means a guard or a waiter.
