@@ -22,7 +22,9 @@ words:
     distinct: literally a high place, a private altar outside the central place of worship; related to the bimah, the raised platform, and permitted only while the central sanctuary was temporary (Zevachim 14:6)
 sources:
   - wiaw:7499 "Stones and High Altars" (2017-11-25) https://articles.ohr.edu/articles/stones-and-high-altars
-authorities: [Rashi, Ramban, Radak, Rabbi Yonah Ibn Janach, Rabbi Avraham Maimuni, Zohar, Rabbi Elimelech of Lizhensk, Sifrei, Mishnah Zevachim]
+  - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
+  - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
+authorities: [Rashi, Ramban, Radak, Rabbi Yonah Ibn Janach, Rabbi Avraham Maimuni, Zohar, Rabbi Elimelech of Lizhensk, Sifrei, Mishnah Zevachim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -101,13 +103,21 @@ HaPnimi* or *Mizbeach HaZahav*, the Inner or Golden Altar for the daily incense
 ### matzeivah (מצבה)
 Root נ-צ-ב, as in *netziv*, something standing, a pillar. Beyond a single-stone
 altar it names any commemorative monument, and in ordinary speech a tombstone.
+Rabbi Shlomo Aharon Wertheimer explains that *nitzav* implies a prolonged or
+continuous standing, and that a *matzeivah* is so called because it is erected
+to stand in place for a long time.
 Devarim 16:22 forbids it outright; Rashi and Ramban part company over what
 exactly is forbidden (above).
 
 ### bamah (במה)
 Literally a high place, hence a private altar, since these were commonly built
 on higher ground; it is related to *bimah*, the raised platform from
-which the Torah is read. Sacrifices outside the central place of worship are
+which the Torah is read. Rabbi Shlomo Pappenheim traces *bamah* to the
+biliteral root ב-מ, the conglomeration and meeting point of multiple parties: a
+*bamah* is a site at which many people gathered in communal worship, and it
+also denotes a high place (which many commentators take as the word's original
+meaning) because such gatherings typically happened at elevated places to
+increase their visibility. Sacrifices outside the central place of worship are
 forbidden (Devarim 12:5-18), but the Mishnah (*Zevachim* 14:6) holds that the
 prohibition did not apply while the central sanctuary was wholly temporary: until
 the Beis HaMikdash was built, and outside the 369 years the Mishkan stood at
@@ -140,5 +150,9 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Stones and High Altars](https://articles.ohr.edu/articles/stones-and-high-altars)," *What's in a Word?*, Ohr Somayach, 25 November 2017.
+
+Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/sort-of-siblings)," *What's in a Word?*, Ohr Somayach, 21 August 2021.
+
+Rabbi Reuven Chaim Klein, "[Parshas Bo: Please Stand Up](https://articles.ohr.edu/articles/parshas-bo-please-stand-up)," *What's in a Word?*, Ohr Somayach, 28 January 2023.
 
 Cited in the essay: Shemos 27:1-2 and 30:2; Devarim 12:5-18 and 16:22; Bereishis 28:18-22 and 31:13; Bamidbar 17:11-15; *Sifrei* to Devarim 16:22; Zohar *Vayakhel* 219a; Radak, *Sefer HaShorashim*; Mishnah *Zevachim* 14:6.

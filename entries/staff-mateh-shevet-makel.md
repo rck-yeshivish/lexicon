@@ -10,7 +10,9 @@ words:
     nk: מַטֶּה
 sources:
   - wiaw:7357 "Tribesmen Stick Together" (2017-07-22) https://articles.ohr.edu/articles/tribesmen-stick-together
-authorities: [Malbim, Rashi, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Yehuda ibn Kuraish, Rabbi Yaakov Lorberbaum of Lissa, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Zev HaKohen Hoberman]
+  - wiaw:8836 "Trusting and Relying on G-d" (2020-08-29) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d
+  - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
+authorities: [Malbim, Rashi, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Rabbi Yehuda ibn Kuraish, Rabbi Yaakov Lorberbaum of Lissa, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Zev HaKohen Hoberman, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -77,7 +79,11 @@ and tribe.
 ### mishenes (משענת)
 A walking stick on which an elderly person can lean (*mishan* means "lean" or
 "rely"): a cane. Wertheimer: also of wood, and necessarily an especially thick
-branch, since a mere twig cannot support a walker.
+branch, since a mere twig cannot support a walker. Rabbi Shlomo Pappenheim
+derives *mishan* from the biliteral ש-ע, enjoyment and pleasure, *mishan* being
+the satisfaction one achieves when supported by another, and relates the
+*mishenes* to the same root because elderly people who have trouble walking
+receive much satisfaction from having something to lean on.
 
 ### makel (מקל)
 A rod used for hitting, which in Tanach generally appears with a shepherd who
@@ -140,4 +146,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Tribesmen Stick Together](https://articles.ohr.edu/articles/tribesmen-stick-together)," *What's in a Word?*, Ohr Somayach, 22 July 2017.
 
-Cited in the essay: Bereishis 49:28; Yirmiyahu 1:11; Tehillim 2:9; Megillas Esther (the *sharvit* of Achashverosh); Sanhedrin 5a; Malbim to Yirmiyahu 1:11 and Bereishis 49:28; Rashi to Sanhedrin 5a; Rabbi Shlomo Aharon Wertheimer; the Vilna Gaon; Rabbi Yehuda ibn Kuraish; Rabbi Yaakov Lorberbaum of Lissa; Rabbi Yaakov Tzvi Mecklenburg, citing Shadal; Rabbi Zev HaKohen Hoberman; the Targumim.
+Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.edu/articles/trusting-and-relying-on-g-d)," *What's in a Word?*, Ohr Somayach, 29 August 2020.
+
+Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2)," *What's in a Word?*, Ohr Somayach, 10 September 2022.
+
+Cited in the essay: Bereishis 49:28; Yirmiyahu 1:11; Tehillim 2:9; Megillas Esther (the *sharvit* of Achashverosh); Sanhedrin 5a; Malbim to Yirmiyahu 1:11 and Bereishis 49:28; Rashi to Sanhedrin 5a; Rabbi Shlomo Aharon Wertheimer; the Vilna Gaon; Rabbi Yehuda ibn Kuraish; Rabbi Yaakov Lorberbaum of Lissa; Rabbi Yaakov Tzvi Mecklenburg, citing Shadal; Rabbi Zev HaKohen Hoberman; Rabbi Shlomo Pappenheim; the Targumim.

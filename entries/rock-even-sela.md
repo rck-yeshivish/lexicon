@@ -14,6 +14,7 @@ words:
     nk: סֶלַע
 sources:
   - wiaw:7990 "Like a Rock (Part 1)" (2018-11-17) https://articles.ohr.edu/articles/like-a-rock-part-1
+  - wiaw:8000 "Like a Rock (Part 2)" (2018-11-24) https://articles.ohr.edu/articles/like-a-rock-part-2
 authorities: [Malbim, Rabbi Immanuel Chai Ricci, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Aaron Kahn]
 status: reviewed
 updated: 2026-09-10
@@ -71,7 +72,9 @@ harder and cannot be broken so easily, being made of different minerals glued
 together with calcium carbonate (calcite) and generally whitish in complexion,
 and that kind is a *sela*. To smash a *sela* one must apply intense pressure, so
 that when it finally goes its pieces fly outwards and disperse (see Yirmiyahu
-23:29).
+23:29). Malbim notes that a *sela* is the type of rock that is porous and can
+have water inside, while a *tzur*, a harder rock than a *sela*, is so hard that
+there is no possibility of water inside it.
 
 In most instances in Tanach a *sela* is a hard rock protruding from the
 ground, or even a rocky mountain. Because it is so hard and cannot easily be
@@ -112,5 +115,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Like a Rock (Part 1)](https://articles.ohr.edu/articles/like-a-rock-part-1)," *What's in a Word?*, Ohr Somayach, 17 November 2018.
+
+Rabbi Reuven Chaim Klein, "[Like a Rock (Part 2)](https://articles.ohr.edu/articles/like-a-rock-part-2)," *What's in a Word?*, Ohr Somayach, 24 November 2018.
 
 Cited in the essay: Bereishis 28:11, 28:18, 29:10, 49:24; Yehoshua 10:11; Yirmiyahu 23:29; Mishnah *Zevachim* 13:3; Malbim; Rabbi Immanuel Chai Ricci; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah* to Shemos 4:25 and Devarim 9:9; Rabbi Aharon Marcus; Aaron Kahn.

@@ -12,7 +12,8 @@ words:
     nk: יֶלֶק
 sources:
   - wiaw:7592 "Army of Grasshoppers" (2018-01-20) https://articles.ohr.edu/articles/army-of-grasshoppers
-authorities: [Rashi, Radak, Malbim, Meiri, Rabbi Shmuel ben Meshullam of Gerona, Rav Chaim Kanievsky, Rabbi Menachem Tzioni, Rabbeinu Bachya, Pirush HaRokeach, Rav Saadia Gaon, Ralbag, Ramban, Midrash HaGadol, Midrash Sechel Tov, Targum, Rabbi Richard Jacobs]
+  - wiaw:9756 "Empty Exaggerations" (2022-07-02) https://articles.ohr.edu/articles/empty-exaggerations
+authorities: [Rashi, Radak, Malbim, Meiri, Rabbi Shmuel ben Meshullam of Gerona, Rav Chaim Kanievsky, Rabbi Menachem Tzioni, Rabbeinu Bachya, Pirush HaRokeach, Rav Saadia Gaon, Ralbag, Ramban, Midrash HaGadol, Midrash Sechel Tov, Targum, Rabbi Richard Jacobs, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -51,6 +52,11 @@ as *govai*, as does the Targum to Yoel.
 Radak: from *gozez*, because it cuts the grain. First in Yoel's sequence: the
 *gazam* eats, and what it leaves the *arbeh* eats (Yoel 1:4). Targum: *zachala*,
 a crawling thing (compare Devarim 32:24, where the word means a snake).
+Rabbi Shlomo Pappenheim puts *gazam* under the biliteral ג-ז, shaving or
+trimming in a way that leaves some parts attached and some detached, alongside
+*geiz*, the grass that remains after trimming (Tehillim 72:6), and *gozez*,
+shearing wool (Bereishis 31:19, 38:12): the *gazam* is a type of grasshopper
+that eats some produce and leaves the rest.
 
 ### yelek (ילק)
 Radak: from *melakek*, to lick, for its habit of licking and chewing at the
@@ -131,4 +137,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Army of Grasshoppers](https://articles.ohr.edu/articles/army-of-grasshoppers)," *What's in a Word?*, Ohr Somayach, 20 January 2018.
 
-Cited in the essay: Shemos 10:14; Vayikra 11:22; Devarim 28:42, 32:24; Tehillim 78:47 with Rashi; Yoel 1:4, 2:20 with Rashi and Radak; Nachum 3:15 with Malbim; Amos 7:1 with Radak; Divrei HaYamim I 13:8; Chullin 63b, 65a; Bava Kama 116b with Rashi; *Midrash HaGadol* to Shemos 10:14; *Midrash Sechel Tov*; Meiri, *Beis HaBechirah*; Rabbi Shmuel ben Meshullam of Gerona, *Ohel Mo'ed*; Rav Chaim Kanievsky, *Karnei Chagavim* 2; Rabbeinu Bachya to Devarim 28:42; *Pirush HaRokeach*; Rav Saadia Gaon, Ralbag and Ramban on *tzlatzel*; Targum to Yoel.
+Rabbi Reuven Chaim Klein, "[Empty Exaggerations](https://articles.ohr.edu/articles/empty-exaggerations)," *What's in a Word?*, Ohr Somayach, 2 July 2022.
+
+Cited in the essay: Bereishis 31:19, 38:12; Shemos 10:14; Vayikra 11:22; Devarim 28:42, 32:24; Tehillim 72:6, 78:47 with Rashi; Yoel 1:4, 2:20 with Rashi and Radak; Nachum 3:15 with Malbim; Amos 7:1 with Radak; Divrei HaYamim I 13:8; Chullin 63b, 65a; Bava Kama 116b with Rashi; *Midrash HaGadol* to Shemos 10:14; *Midrash Sechel Tov*; Meiri, *Beis HaBechirah*; Rabbi Shmuel ben Meshullam of Gerona, *Ohel Mo'ed*; Rav Chaim Kanievsky, *Karnei Chagavim* 2; Rabbeinu Bachya to Devarim 28:42; *Pirush HaRokeach*; Rav Saadia Gaon, Ralbag and Ramban on *tzlatzel*; Targum to Yoel.

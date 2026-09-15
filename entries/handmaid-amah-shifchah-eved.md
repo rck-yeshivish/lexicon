@@ -21,7 +21,8 @@ words:
     distinct: covers both the Jewish and the non-Jewish male, because an eved Ivri loses something of his standing as a Jew (Moshav Zekeinim; Rabbi Moshe Sherrow), so no second word was needed
 sources:
   - wiaw:8120 "The Handmaid's Deal" (2019-02-02) https://articles.ohr.edu/articles/the-handmaids-deal
-authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Rabbi Eliezer Reines, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Sherrow, Moshav Zekeinim, Rabbi Aharon Marcus, Rabbi Zev Hoberman]
+  - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
+authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Pappenheim, Rabbi Eliezer Reines, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Sherrow, Moshav Zekeinim, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Menachem Ibn Saruk, Ibn Janach, Radak]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -105,6 +106,11 @@ Bilhah and Zilpah are still called *shifchah* after Yaakov married them
 (Bereishis 32:23, 33:2, 33:6), out of humility: raised to be full wives, they
 went on as before and did not assert their new standing.
 
+Menachem Ibn Saruk, Ibn Janach and Radak, unlike the readings of the root
+above, trace *shifchah* and *mishpachah* to the triliteral ש-פ-ח but divide its
+core meaning in two, "maidservant" and "family, clan, tribe": the two words
+come from the same root, but their meanings are not interconnected.
+
 ### eved (עבד)
 One word for the Jewish bondsman and the non-Jewish slave alike. The Tosafists
 (*Moshav Zekeinim* to Shemos 21:4): a Jewish man sold as an *eved* loses
@@ -135,5 +141,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[The Handmaid's Deal](https://articles.ohr.edu/articles/the-handmaids-deal)," *What's in a Word?*, Ohr Somayach, 2 February 2019.
+
+Rabbi Reuven Chaim Klein, "[Family Matters](https://articles.ohr.edu/articles/family-matters)," *What's in a Word?*, Ohr Somayach, 20 November 2021.
 
 Cited in the essay: Bereishis 16, 20:17, 21, 25:12, 32:23, 33:2, 33:6; Shemos 21:4, 21:8-9; Vayikra 13:2, 25:44; Shmuel I 25; Kesuvos 59b; *Moshav Zekeinim* to Shemos 21:4; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Eliezer Reines, *Maftechos HaDamesek* (Warsaw 1898).

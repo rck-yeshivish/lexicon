@@ -12,7 +12,9 @@ words:
     nk: סְפָר
 sources:
   - wiaw:11471 "Matos/Masei: On the Border" (2024-08-03) https://articles.ohr.edu/articles/matosmasei-on-the-border
-authorities: [Rashi, Targum Onkelos, Mahari Kara, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Radak, Rav Hirsch, HaKtav VeHaKabbalah, Rabbi Shlomo Pappenheim, Rabbi Yehoshua Steinberg, Rabbi David Golumb, Rabbi Avraham Rivlin, Rabbi Benzion Chaim Lubetzki, Ramak, Rabbi Saadia Gaon, Rabbi Avraham Yitzchok Shain, Rabbi Pinchas of Koretz, Rabbi Ernest Klein, Wilhelm Gesenius]
+  - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
+  - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
+authorities: [Rashi, Targum Onkelos, Mahari Kara, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Radak, Rav Hirsch, HaKtav VeHaKabbalah, Rabbi Shlomo Pappenheim, Rabbi Yehoshua Steinberg, Rabbi David Golumb, Rabbi Avraham Rivlin, Rabbi Benzion Chaim Lubetzki, Ramak, Rabbi Saadia Gaon, Rabbi Avraham Yitzchok Shain, Rabbi Pinchas of Koretz, Rabbi Ernest Klein, Wilhelm Gesenius, Rabbi Moshe Shapiro]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -126,7 +128,15 @@ Tehillim 147:5) calls it the only instance of *sfar* in Biblical Hebrew, though
 most other commentators appear to take *sefarah* there as a place name. The
 etymology is not immediately clear; Rabbi Golumb conjectures that *sfar* comes from
 *perazi*, used of a city-wall fortification, by samech/zayin interchange and
-metathesis, border cities having been especially fortified. Ramak (*Pardes Rimonim*, shaar 8 ch. 2) uses *sfar* to explain
+metathesis, border cities having been especially fortified. Elsewhere (*Targumna*
+to Shemos 9:29 and Vayikra 14:9) Rabbi Golumb takes the core meaning of the
+string ס-פ-ר as "circle" or "round," related to the Greek *sphere*: a city near
+the border is said to be on the *sfar* because such cities are typically
+surrounded all around by a city wall that protects them from invasion. Rabbi
+Moshe Shapiro holds that all words from ס-פ-ר are interrelated: as a *sippur*
+joins many details into one holistic unit, a *sfar*, whether the border of a
+country or the city limits, confines everything within it and makes it one
+unit. Ramak (*Pardes Rimonim*, shaar 8 ch. 2) uses *sfar* to explain
 *sefirah*: as a border marks off the limits of an area, a *sefirah* is Hashem's
 influx as it reaches man in finite, bounded form, kin to *mispar* (number) and
 *sippur* (what can be told, as Hashem Himself cannot).
@@ -156,4 +166,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Matos/Masei: On the Border](https://articles.ohr.edu/articles/matosmasei-on-the-border)," *What's in a Word?*, Ohr Somayach, 3 August 2024.
 
-Cited in the essay: Eichah 1:3 with *Eichah Rabbah* 1:29, Rashi, Ibn Ezra, Targum and Mahari Kara; Bamidbar 34:1-12; Shemos 7:27 with Rav Hirsch, 10:4, 13:7, 19:12, 19:23; Bereishis 10:6, 10:19, 10:30, 23:17, 49:13; Devarim 1:7, 19:4; Melachim I 5:32; Yechezkel 27:9; Tzefaniah 2:5-6; Amos 5:9; Tehillim 39:14, 118:5, 147:5; Iyov 9:27, 10:20; Divrei HaYamim I 1:8; Kesubos 44a; Mishnah *Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3 and 9:2, *Sanhedrin* 1:5, *Ohalos* 2:2, *Shabbos* 24:3, *Bava Metzia* 10:5, *Parah* 9:5; Radak, *Sefer HaShorashim*; Rabbi Yehuda Ibn Kuraish, *Risala*; *Yerios Shlomo* p. 836; *Cheshek Shlomo*; *HaKtav VeHaKabbalah* to Shemos 13:7, 19:12 and Vayikra 23:16; *Iyun Tefillah* to Tehillim 147:5; *Midrash Safah Echas*; *Birkas Ish*; *Pardes Rimonim* shaar 8 ch. 2; Rabbi Ernest Klein's etymological dictionary; Wilhelm Gesenius.
+Rabbi Reuven Chaim Klein, "[Haircut Time](https://articles.ohr.edu/articles/haircut-time)," *What's in a Word?*, Ohr Somayach, 2 April 2022.
+
+Rabbi Reuven Chaim Klein, "[Pesach: Telling the Story](https://articles.ohr.edu/articles/pesach-telling-the-story)," *What's in a Word?*, Ohr Somayach, 13 April 2019.
+
+Cited in the essay: Eichah 1:3 with *Eichah Rabbah* 1:29, Rashi, Ibn Ezra, Targum and Mahari Kara; Bamidbar 34:1-12; Shemos 7:27 with Rav Hirsch, 10:4, 13:7, 19:12, 19:23; Bereishis 10:6, 10:19, 10:30, 23:17, 49:13; Devarim 1:7, 19:4; Melachim I 5:32; Yechezkel 27:9; Tzefaniah 2:5-6; Amos 5:9; Tehillim 39:14, 118:5, 147:5; Iyov 9:27, 10:20; Divrei HaYamim I 1:8; Kesubos 44a; Mishnah *Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3 and 9:2, *Sanhedrin* 1:5, *Ohalos* 2:2, *Shabbos* 24:3, *Bava Metzia* 10:5, *Parah* 9:5; Radak, *Sefer HaShorashim*; Rabbi Yehuda Ibn Kuraish, *Risala*; *Yerios Shlomo* p. 836; *Cheshek Shlomo*; *HaKtav VeHaKabbalah* to Shemos 13:7, 19:12 and Vayikra 23:16; *Iyun Tefillah* to Tehillim 147:5; *Targumna* to Shemos 9:29 and Vayikra 14:9; *Midrash Safah Echas*; *Birkas Ish*; *Pardes Rimonim* shaar 8 ch. 2; Rabbi Ernest Klein's etymological dictionary; Wilhelm Gesenius.

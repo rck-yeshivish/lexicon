@@ -36,7 +36,8 @@ words:
     distinct: counted among Sinai's names in some versions of the Midrash; either a second mountain of the same name, or one mountain moved from Yerushalayim to the wilderness and back (Rabbi Berachiah Baruch Shapiro, Rabbi Naftali Katz)
 sources:
   - wiaw:7377 "The Mountain of Many Names" (2017-05-29) https://groups.google.com/g/whats-in-a-word/c/9AvUbudDqKQ
-authorities: [Midrash, Zohar, Rabbi Yehudah HaLevi, Rabbi Berachiah Baruch Shapiro, Rabbi Naftali Katz]
+  - wiaw:9723 "More Cheese Please" (2022-06-04) https://articles.ohr.edu/articles/more-cheese-please
+authorities: [Midrash, Zohar, Rabbi Yehudah HaLevi, Rabbi Berachiah Baruch Shapiro, Rabbi Naftali Katz, Rabbi Shlomo Pappenheim, Alexander Kohut]
 status: reviewed
 updated: 2026-09-14
 ---
@@ -116,6 +117,13 @@ the Torah (Shemos 21 onward).
   Sinai Yisrael stood in their purest state, with no physical blemish among
   them. Some explain the custom of eating dairy on Shavuos by this name and its
   comparison to cheese.
+- Rabbi Shlomo Pappenheim reduces ג-ב-ן to the biliteral ג-ב, a bulge or
+  anything that sticks out and is plainly visible: *gavnunim* are bulging
+  mountains that protrude upwards and are quite conspicuous, and he connects
+  *gevinah*, cheese, as likewise "mountainous" in its composition.
+- Alexander Kohut (*Aruch HaShalem*) suggests connecting *gavnunim* with the
+  Arabic *jabal*, mountain, through the interchange of nun and lamed, so that
+  *gavnunim* just means mountainous or hilly.
 
 ### Har Chemed (הר חמד)
 Hashem desired (*chemdah*) to rest His Presence on that mountain in particular
@@ -148,4 +156,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Mountain of Many Names](https://groups.google.com/g/whats-in-a-word/c/9AvUbudDqKQ)," *What's in a Word?*, 29 May 2017.
 
-Cited in the essay: Tehillim 68:16-17; Shemos 21 onward, 33:6; Vayikra 21:20; the Midrash; the Zohar; Rabbi Yehudah HaLevi, *Yom Shabbaton*; Rabbi Berachiah Baruch Shapiro; Rabbi Naftali Katz.
+Rabbi Reuven Chaim Klein, "[More Cheese Please](https://articles.ohr.edu/articles/more-cheese-please)," *What's in a Word?*, Ohr Somayach, 4 June 2022.
+
+Cited in the essay: Tehillim 68:16-17; Shemos 21 onward, 33:6; Vayikra 21:20; the Midrash; the Zohar; Rabbi Yehudah HaLevi, *Yom Shabbaton*; Rabbi Berachiah Baruch Shapiro; Rabbi Naftali Katz; Rabbi Shlomo Pappenheim; Alexander Kohut, *Aruch HaShalem*.

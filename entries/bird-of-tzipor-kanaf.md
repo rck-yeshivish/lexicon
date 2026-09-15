@@ -12,7 +12,8 @@ words:
     nk: צַפְרָא
 sources:
   - wiaw:7009 "Fowl Language and Poultry" (2016-11-19) https://articles.ohr.edu/articles/fowl-language-and-poultry
-authorities: [Rashi, Radak, Rabbi Yom Tov Lipman Heller, Sifri, Rambam, Ramban, Rabbi Chanoch Zundel of Bialystok]
+  - wiaw:9070 "Yitro: Just Winging It" (2021-02-06) https://articles.ohr.edu/articles/yitro-just-winging-it
+authorities: [Rashi, Radak, Rabbi Yom Tov Lipman Heller, Sifri, Rambam, Ramban, Rabbi Chanoch Zundel of Bialystok, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -68,6 +69,12 @@ its focus is the wing rather than the creature. Rashi to Bereishis 7:14: the
 clause *kol kanaf* comes to include every winged thing, grasshoppers among them,
 which *kol tzipor* had not covered. Radak makes it the class term for winged
 insects: grasshoppers, wasps, flies.
+Rav Hirsch (to Bereishis 1:21 and 7:14, Vayikra 19:11), on the interchange of
+kaf with gimmel and of peh with beis, compares *kanaf* with *ganav*, thief: both
+involve hiding or concealing, since a wing covers part of the bird's body just as
+a thief steals in a hidden way; alternatively, the wing lets the bird soar so
+high that it is hidden from plain sight, as the thief steals when nobody is
+looking.
 
 ## Rendering guidance
 
@@ -93,4 +100,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Fowl Language and Poultry](https://articles.ohr.edu/articles/fowl-language-and-poultry)," *What's in a Word?*, Ohr Somayach, 19 November 2016.
 
-Cited in the essay: Bereishis 7:14 with Rashi and Radak; Radak, *Sefer HaShorashim* s.v. צפר; Chullin 139b; Mishnah Chullin 12:2 with Rambam's commentary, citing Sifri; Devarim 22:6 and 22:7; Ramban to Vayikra 14:4; Vayikra 11:13 through 11:19; Mishnah Chullin 3:6; Tosafos Yom Tov to the Mishnah.
+Rabbi Reuven Chaim Klein, "[Yitro: Just Winging It](https://articles.ohr.edu/articles/yitro-just-winging-it)," *What's in a Word?*, Ohr Somayach, 6 February 2021.
+
+Cited in the essay: Bereishis 7:14 with Rashi and Radak; Rav Hirsch to Bereishis 1:21 and 7:14 and Vayikra 19:11; Radak, *Sefer HaShorashim* s.v. צפר; Chullin 139b; Mishnah Chullin 12:2 with Rambam's commentary, citing Sifri; Devarim 22:6 and 22:7; Ramban to Vayikra 14:4; Vayikra 11:13 through 11:19; Mishnah Chullin 3:6; Tosafos Yom Tov to the Mishnah.

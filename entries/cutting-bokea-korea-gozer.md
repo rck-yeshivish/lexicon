@@ -13,6 +13,7 @@ words:
 sources:
   - wiaw:8098 "Cut it Out! (Part 1 of 2)" (2019-01-19) https://articles.ohr.edu/articles/cut-it-out-part-1-of-2
   - wiaw:8107 "Cut it Out! (Part 2 of 2)" (2019-01-26) https://articles.ohr.edu/articles/cut-it-out-part-2-of-2
+  - wiaw:8271 "Karet and Ariri" (2019-06-01) https://articles.ohr.edu/articles/karet-and-ariri
 authorities: [Rabbi Yitzchok Meir Alter of Ger, Shulchan Aruch HaRav, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Shlomo Pappenheim, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
@@ -131,7 +132,13 @@ makes one more tear separating one piece from the whole, while one act of
 unravels. *Gada*, truncating in order to destroy or render useless. *Ketzitzah*,
 chopping with a single strong blow, from ק-צ, "end," since chopping creates two
 new ends. *Ketifah*, severing what was only flimsily attached, the word for
-plucking a flower. *Kares*, cutting in the sense of spiritual excision.
+plucking a flower. *Kares*, cutting in the sense of spiritual excision. Rabbi
+Pappenheim (*Yerios Shlomo*) makes *karet* a general word for cutting, whether
+or not the cutting results in severance: a bill of divorce is a *sefer krisus*
+(Devarim 24:1) because marriage joins two people into one, so ending it is like
+tearing a single body into two parts. *Karet* is also the verb for ratifying a
+covenant, since in ancient times ratification was symbolized by cutting animals
+in half and having the parties to the agreement walk between them.
 
 ## Rendering guidance
 
@@ -162,4 +169,6 @@ Rabbi Reuven Chaim Klein, "[Cut it Out! (Part 1 of 2)](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Cut it Out! (Part 2 of 2)](https://articles.ohr.edu/articles/cut-it-out-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 26 January 2019.
 
-Cited in the essay: Shemos 14:15, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17; Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7; Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24; Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 32:24; Yeshayahu 28:2; Hoshea 13:14; Rav Hirsch to Tehillim 136:13.
+Rabbi Reuven Chaim Klein, "[Karet and Ariri](https://articles.ohr.edu/articles/karet-and-ariri)," *What's in a Word?*, Ohr Somayach, 1 June 2019.
+
+Cited in the essay: Shemos 14:15, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17; Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7; Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24; Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 24:1, 32:24; Yeshayahu 28:2; Hoshea 13:14; Rav Hirsch to Tehillim 136:13; Rabbi Shlomo Pappenheim, *Yerios Shlomo*.

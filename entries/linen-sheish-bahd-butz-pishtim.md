@@ -14,7 +14,9 @@ words:
     nk: כַּרְפַּס
 sources:
   - wiaw:8140 "Is Cotton a Type of Linen?" (2019-02-16) https://articles.ohr.edu/articles/is-cotton-a-type-of-linen
-authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi, Professor Edward Yechezkel Kutscher, Sir Godfrey Rolles Driver]
+  - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
+  - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
+authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi, Professor Edward Yechezkel Kutscher, Sir Godfrey Rolles Driver, Rabbi Saadia Gaon, Ibn Janach, Ibn Ezra, Radak, Rabbi Yosef Nechemias, Targum Rishon, Targum Sheini, Rabbi Ernest Klein]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -80,12 +82,27 @@ Tzari* to Vayikra 16:4) separates the two Aramaic words as Pappenheim separated
 the Hebrew: *kitna* is flax unprocessed and still in the ground, *butz* is linen
 already worked.
 
+Rabbi Shlomo Pappenheim, who traces *botz*, mud, and *bitzah*, marsh, to the
+biliteral ב-צ, a fluid of mucus-like consistency, also asserts that *butz*
+(Esther 1:6, 8:15; Yechezkel 27:16) refers specifically to a type of flax or
+linen that grows in watery soil like that of a *bitzah*.
+
 ### cotton (כותנה, צמר גפן)
 Not a Biblical category. Cotton simply did not exist in the ancient Near East, so
 it makes sense that there would be no Biblical word for it. Some linguists argue
-that *karpas* (Esther 1:3) is a loanword from Persian, where it meant a cotton
+that *karpas* (Esther 1:6) is a loanword from Persian, where it meant a cotton
 garment; the Greek *carbasus* and the Latin *karpasos* likewise refer to a cotton
-garment. Rabbinic Hebrew's common term is *tzemer gefen*, "vine wool," which happens
+garment. Beside *chur* and *techeiles* there, *karpas* is fairly clearly some
+sort of fabric, and which sort is disputed. Rabbi Saadia Gaon (*Tafsir* to
+Esther 1:6) explains it as silk; Ibn Janach (*Sefer HaShorashim*) cites and
+rejects this, preferring a color, an explanation Rashi and Ibn Ezra adopt as
+well, and Radak adds that the color is specifically green, as do Ralbag and
+Rabbi Yosef Nechemias. Targum Rishon and Targum Sheini associate *karpas* with
+*karti*, leek. The Gemara (Megillah 12a) reads it as a portmanteau of *karim*,
+pillows or blankets, and *passim*, silk. Rabbi Dr. Ernest Klein, in his
+etymological dictionary, makes it a loanword from the Persian *karpas*, fine
+linen, which he derives from the Old Indian *kaprasa*, cotton, and the Greek
+*karpasos*, fine flax. Rabbinic Hebrew's common term is *tzemer gefen*, "vine wool," which happens
 to be quite similar to the German *baumwolle*, "tree-wool"; Rambam, in
 his commentary to Mishnah Kilayim 7:2, correctly renders *tzemer gefen* into
 Arabic as *al-qoton*.
@@ -132,4 +149,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Is Cotton a Type of Linen?](https://articles.ohr.edu/articles/is-cotton-a-type-of-linen)" *What's in a Word?*, Ohr Somayach, 16 February 2019.
 
-Cited in the essay: Yoma 71b; Zevachim 18b; Targum to Shemos 9:31; Ralbag and Abarbanel to Shemos 25:4; Rambam, Hilchos Klei HaMikdash 8:14, and his commentary to Mishnah Kilayim 7:2; *Daas Zekeinim* to Bereishis 41:42; Pappenheim; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Vayikra 16:4; Rabbi Moshe Mordechai Schulsinger, *Mishmar HaLevi*, with the replies of the Steipler Gaon and Rabbi Dov Landau; Esther 1:3; Shabbos 105a; Rashi to Berachos 28b, Shabbos 21a, Shabbos 110b and Niddah 17a; Professor Edward Yechezkel Kutscher; Sir Godfrey Rolles Driver.
+Rabbi Reuven Chaim Klein, "[Marshes, Marshes, Marshes](https://articles.ohr.edu/articles/marshes-marshes-marshes)," *What's in a Word?*, Ohr Somayach, 16 January 2021.
+
+Rabbi Reuven Chaim Klein, "[Metzorah/Shabbos HaGadol: Veggies for the Dipping](https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping)," *What's in a Word?*, Ohr Somayach, 20 April 2024.
+
+Cited in the essay: Yoma 71b; Zevachim 18b; Targum to Shemos 9:31; Ralbag and Abarbanel to Shemos 25:4; Rambam, Hilchos Klei HaMikdash 8:14, and his commentary to Mishnah Kilayim 7:2; *Daas Zekeinim* to Bereishis 41:42; Pappenheim; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Vayikra 16:4; Rabbi Moshe Mordechai Schulsinger, *Mishmar HaLevi*, with the replies of the Steipler Gaon and Rabbi Dov Landau; Esther 1:6 with Rabbi Saadia Gaon's *Tafsir*, Targum Rishon, Targum Sheini, Rashi, Ibn Ezra, Radak, Ralbag and Rabbi Yosef Nechemias, and 8:15; Yechezkel 27:16; Ibn Janach, *Sefer HaShorashim*; Megillah 12a; Rabbi Ernest Klein's etymological dictionary; Shabbos 105a; Rashi to Berachos 28b, Shabbos 21a, Shabbos 110b and Niddah 17a; Professor Edward Yechezkel Kutscher; Sir Godfrey Rolles Driver.

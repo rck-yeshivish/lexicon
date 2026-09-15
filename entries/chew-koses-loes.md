@@ -7,7 +7,8 @@ english: [chew, chewing, munch, masticate, crunch, gnaw]
 domain: body
 sources:
   - wiaw:11831 "Behaaloscha: Chew That" (2025-06-14) https://articles.ohr.edu/articles/behaaloscha-chew-that
-authorities: [Rashi, Maharsha, Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Mahari Kara, Rabbi Shlomo Pappenheim, Ohr Zarua, Rabbeinu Chananel, Rav Hai Gaon, Rabbi Moshe Tedeschi-Ashkenazi, Rema, Ravyah, Rabbi Matzliach Mazuz, Rabbi Meir Mazuz, Rabbi Yitzchak Barda, Rabbi Avi Kobernick, Rabbi Ernest Klein, Rabbi Yaakov Yehudah Zilberberg, Dr. Asher Weiser, Samuel Krauss, Dr. A. Weiss]
+  - wiaw:10931 "Showing Teeth" (2023-04-22) https://articles.ohr.edu/articles/showing-teeth
+authorities: [Rashi, Maharsha, Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Mahari Kara, Rabbi Shlomo Pappenheim, Ohr Zarua, Rabbeinu Chananel, Rav Hai Gaon, Rabbi Moshe Tedeschi-Ashkenazi, Shadal, Rema, Ravyah, Rabbi Matzliach Mazuz, Rabbi Meir Mazuz, Rabbi Yitzchak Barda, Rabbi Avi Kobernick, Rabbi Ernest Klein, Rabbi Yaakov Yehudah Zilberberg, Dr. Asher Weiser, Samuel Krauss, Dr. A. Weiss]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -112,6 +113,12 @@ bowels, so chew it and spit it out, again with *lo'es*.
 Rashi twice defines it by the other word, to Pesachim 39b and to Berachos 44b:
 *lo'es* is *koses*. The root ל-ע-ס is Aramaic and Syriac for chewing and
 appears in Targum (to Koheles 12:3); beyond that its origin is obscure. Rabbi
+Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) explains *mitalot*, the molars that
+grind food right before one swallows, as a fusion of the biliterals ת-ל,
+hanging, and ל-ע, swallowing; he notes an affinity between that root and ל-ע-ט,
+to guzzle or gulp (*haliteini*, Bereishis 25:30, as his teacher Shadal notes
+there; *malitin*, force-feed, Mishnah *Shabbos* 24:3), and relates these roots
+as well to ל-ע-ס. Rabbi
 Avi Kobernick (*Hipuch Otiyos*) offers a speculative metathesis of ס-ל-ע, rock:
 a *sela* is what will not break down, and *lo'es* is precisely breaking down.
 
@@ -169,4 +176,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Behaaloscha: Chew That](https://articles.ohr.edu/articles/behaaloscha-chew-that)," *What's in a Word?*, Ohr Somayach, 14 June 2025.
 
-Cited in the essay: Bamidbar 4:7, 11:33; Shemos 25:29; Vayikra 11:3-7 and Devarim 14:6-8; Yehoshua 9:5, 9:12; Melachim I 14:3 with Radak and *Ho'il Moshe*; Yechezkel 9:2, 9:11, 17:9 with Rashi and Mahari Kara; Koheles 12:3 in Targum; Berachos 36b, 37a, 42a, 44b; Tosefta *Berachos* 4:6-7; Mishnah *Nedarim* 6:10 and Tosefta *Nedarim* 3:7; Yoma 81a; Megillah 7b with Rashi and Maharsha; Kesubos 77a with Rashi; Beitzah 26b with Rashi; Chullin 15a; Mishnah *Shabbos* 19:2, *Niddah* 9:7, *Pesachim* 2:7 with Rashi to Pesachim 39b; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ק-ס; the piyut *Elokei HaRuchos*; *Ohr Zarua, Hilchos Pesachim* 256 and *Hilchos Berachos* 149; *Sefer HaNer* to Berachos 42a; *Shulchan Aruch, Orach Chaim* 567:3 with the Ravyah, *Hilchos Taanis* 861, and 651:9; *Ish Matzliach* vol. 2 *Orach Chaim* 47; *Arim Nissi* to Pesachim 39b; Rabbi Avi Kobernick, *Hipuch Otiyos*; Rabbi Yaakov Yehudah Zilberberg, *Di Kasif*; Dr. Asher Weiser; Rabbi Ernest Klein; Samuel Krauss; Dr. A. Weiss, *Chorev* 1943 vol. 7 p. 55.
+Rabbi Reuven Chaim Klein, "[Showing Teeth](https://articles.ohr.edu/articles/showing-teeth)," *What's in a Word?*, Ohr Somayach, 22 April 2023.
+
+Cited in the essay: Bereishis 25:30 with Shadal; Bamidbar 4:7, 11:33; Shemos 25:29; Vayikra 11:3-7 and Devarim 14:6-8; Yehoshua 9:5, 9:12; Melachim I 14:3 with Radak and *Ho'il Moshe*; Yechezkel 9:2, 9:11, 17:9 with Rashi and Mahari Kara; Koheles 12:3 in Targum; Berachos 36b, 37a, 42a, 44b; Tosefta *Berachos* 4:6-7; Mishnah *Nedarim* 6:10 and Tosefta *Nedarim* 3:7; Yoma 81a; Megillah 7b with Rashi and Maharsha; Kesubos 77a with Rashi; Beitzah 26b with Rashi; Chullin 15a; Mishnah *Shabbos* 19:2 and 24:3, *Niddah* 9:7, *Pesachim* 2:7 with Rashi to Pesachim 39b; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ק-ס; the piyut *Elokei HaRuchos*; *Ohr Zarua, Hilchos Pesachim* 256 and *Hilchos Berachos* 149; *Sefer HaNer* to Berachos 42a; *Shulchan Aruch, Orach Chaim* 567:3 with the Ravyah, *Hilchos Taanis* 861, and 651:9; *Ish Matzliach* vol. 2 *Orach Chaim* 47; *Arim Nissi* to Pesachim 39b; Rabbi Avi Kobernick, *Hipuch Otiyos*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yaakov Yehudah Zilberberg, *Di Kasif*; Dr. Asher Weiser; Rabbi Ernest Klein; Samuel Krauss; Dr. A. Weiss, *Chorev* 1943 vol. 7 p. 55.

@@ -25,7 +25,9 @@ words:
     distinct: the wish to dig (chofer) a hole and hide; Malbim makes it the most intense of all, burying one's head out of sheer shame
 sources:
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
-authorities: [Radak, Rabbeinu Yonah, Rabbi Avraham Bedersi, Rabbi David Chaim Chelouche, Rabbi Dovid Golumb, Malbim, Rav Hirsch, Isaac Satanow, Rabbi Shlomo Aharon Wertheimer, Rabbi Yehuda Leib Edel, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Eliyahu HaBachur, Maggid of Kozhnitz, Maharal, Rabbi Yosef Kimchi]
+  - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
+  - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
+authorities: [Radak, Rabbeinu Yonah, Rabbi Avraham Bedersi, Rabbi David Chaim Chelouche, Rabbi Dovid Golumb, Malbim, Rav Hirsch, Isaac Satanow, Rabbi Shlomo Aharon Wertheimer, Rabbi Yehuda Leib Edel, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Eliyahu HaBachur, Maggid of Kozhnitz, Maharal, Rabbi Yosef Kimchi, Rabbi Yaakov Tzvi Mecklenburg]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -146,6 +148,11 @@ Root ח-ר-ף / ח-פ-ר.
   *charufah* (Vayikra 19:20), a conjugation of *cherpah*, because she is placed
   in a humiliating position, having no matrimonial bond to the man for whom she
   is designated.
+- Rabbi Yaakov Tzvi Mecklenburg relates *chafirah*, digging, to *cherpah*,
+  disgrace: in the sense of digging for information, *chafirah* has a negative
+  connotation, as if one were searching out negative information about another
+  to bring it to light, and the spies' *vayachperu* (Devarim 1:22) refers to
+  their digging for negative information about the Land.
 
 Shapira-Frankfurter does not himself address *cherpah*/*chafrah*. Rabbi Klein
 offers his own conjecture: that the root ח-פ-ר may be related to ח-ו-ר
@@ -194,4 +201,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[An Utter Embarrassment](https://articles.ohr.edu/articles/an-utter-embarrassment)," *What's in a Word?*, Ohr Somayach, 17 September 2022.
 
-Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim*; Rabbeinu Yonah, *Shaarei Teshuvah*; Rabbi Avraham Bedersi, *Chotam Tochnit*; Isaac Satanow; Rabbi Yehuda Leib Shapira-Frankfurter; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche; Rabbi Yehuda Leib Edel; Rabbi Dovid Golumb; Targum; Rabbi Eliyahu HaBachur, *Meturgaman*; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.
+Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/digging-deeper)," *What's in a Word?*, Ohr Somayach, 29 January 2022.
+
+Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," *What's in a Word?*, Ohr Somayach, 17 June 2017.
+
+Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Devarim 1:22; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim*; Rabbeinu Yonah, *Shaarei Teshuvah*; Rabbi Avraham Bedersi, *Chotam Tochnit*; Isaac Satanow; Rabbi Yehuda Leib Shapira-Frankfurter; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche; Rabbi Yehuda Leib Edel; Rabbi Dovid Golumb; Rabbi Yaakov Tzvi Mecklenburg; Targum; Rabbi Eliyahu HaBachur, *Meturgaman*; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.

@@ -7,7 +7,8 @@ english: [thorn, thistle, brier, nettle, bramble, thornbush, scorpion]
 domain: nature
 sources:
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
-authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Ohalei Yehuda, Shoresh Yesha, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Ramban, Donash Ibn Labrat, Mahari Kara, Rabbi Avraham ben Shlomo, Rabbi David Chaim Chelouche, Malbim, Rabbi David Golumb, Rabbi Yaakov Yehudah de Kassif, Yaakov Reifman, Rabbi Yechiel Michel Stern, Metzudas Tzion]
+  - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
+authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Ohalei Yehuda, Shoresh Yesha, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Ramban, Donash Ibn Labrat, Mahari Kara, Rabbi Avraham ben Shlomo, Rabbi David Chaim Chelouche, Malbim, Rabbi David Golumb, Rabbi Yaakov Yehudah de Kassif, Yaakov Reifman, Rabbi Yechiel Michel Stern, Metzudas Tzion, Rashbam, Rabbi Yosef Nechemias]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -79,7 +80,13 @@ through the interchange of tzadi and samech. Rav Hirsch (to Tehillim 91:4)
 relates צ-נ to ש-נ, through the interchange of tzadi and shin, sharpness, as in
 *v'shinantam* and *shen*. Rabbi Pappenheim takes the core sense of צ-נ as thorn
 outright, whence *tzinah* (a spiked weapon), *tzinah* (sharp cold) and
-*tznumah* (grain damaged by cold).
+*tznumah* (grain damaged by cold). Where most commentators take *sikim* and
+*tzninim* as kinds of thorn, Rashbam (to Bamidbar 33:55) relates *tzninim* to
+*tzinah* in the sense of cold, without explaining how that fits the context;
+Rabbi Klein suggests that perhaps a sharp, stinging coldness is meant, which
+annoys a person and hampers his ability to accomplish more. So too, where most
+commentators take *tzinim* in Mishlei 22:5 as thorns, Rabbi Yosef Nechemias
+(there) and Radak (*Sefer HaShorashim*) understand it as cold.
 
 ### sirim (סירים), atad (אטד), chedek (חדק)
 *Sirim*, four times (Yeshayahu 34:13, Nachum 1:10, Koheles 7:6, Hoshea 2:8).
@@ -225,4 +232,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Of Thorns and Thistles](https://articles.ohr.edu/articles/of-thorns-and-thistles)," *What's in a Word?*, Ohr Somayach, 6 August 2022.
 
-Cited in the essay: Bereishis 3:18, 24:6, 50:10-11; Shemos 3:2-4; Bamidbar 33:55, 34:4; Devarim 8:15, 33:16; Yehoshua 15:3; Shoftim 1:36, 8:7, 8:16, 9:14-15; Melachim I 12:11, 12:14; Yeshayahu 5:5, 5:6, 7:19, 10:17, 34:13, 55:13; Yirmiyahu 17:1; Yechezkel 2:6, 3:9, 17:4, 28:13, 28:24; Hoshea 2:8, 10:8; Michah 7:4; Nachum 1:10; Tzefanyah 2:9; Zechariah 7:12; Tehillim 58:10, 91:4, 140:2-4; Mishlei 15:19, 23:2, 24:31; Iyov 30:7, 31:40; Shir HaShirim 2:2, 7:9; Koheles 7:6; Divrei HaYamim I 4:8; Divrei HaYamim II 10:11, 10:14; Eruvin 34b; Shabbos 117b; Sukkah 13a; Megillah 10b; Sotah 13a; Gittin 68a; Bava Kamma 119b; Avodah Zarah 47b; Chullin 59a; Rabbi Shlomo of Urbino, *Ohel Moed*; Rashi to Yechezkel 2:6, Nachum 1:10, Eruvin 34b, Sukkah 13a, Bava Kamma 119b and Avodah Zarah 47b; Rabbi Saadia Gaon to Mishlei 15:19 and his *Tafsir* to Shemos 3:2; Ibn Ezra, long commentary to Shemos 3:2; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach; Radak, *Sefer HaShorashim*; Mahari Kara; Metzudas Tzion; Donash Ibn Labrat; the Targum to Bereishis 3:18 and Hoshea 10:8; Rabbi Shlomo Pappenheim; Rav Hirsch to Bereishis 24:6, Bamidbar 33:55, Tehillim 91:4 and 140:2-4; the Vilna Gaon to Mishlei 24:31; *Ohalei Yehuda*; *Shoresh Yesha*; Rabbi Aharon Marcus, *Keses HaSofer*; Rabbi Yehoshua Steinberg; Ramban to Chullin 59a; Rabbi Avraham ben Shlomo to Shoftim 8:7; Rabbi David Chaim Chelouche; Malbim to Yechezkel 17:4; Rabbi David Golumb; Rabbi Yaakov Yehudah (Zilberberg) de Kassif; Yaakov Reifman; Rabbi Yechiel Michel Stern.
+Rabbi Reuven Chaim Klein, "[Freezing Cold](https://articles.ohr.edu/articles/freezing-cold)," *What's in a Word?*, Ohr Somayach, 11 December 2021.
+
+Cited in the essay: Bereishis 3:18, 24:6, 50:10-11; Shemos 3:2-4; Bamidbar 33:55 with Rashbam, 34:4; Devarim 8:15, 33:16; Yehoshua 15:3; Shoftim 1:36, 8:7, 8:16, 9:14-15; Melachim I 12:11, 12:14; Yeshayahu 5:5, 5:6, 7:19, 10:17, 34:13, 55:13; Yirmiyahu 17:1; Yechezkel 2:6, 3:9, 17:4, 28:13, 28:24; Hoshea 2:8, 10:8; Michah 7:4; Nachum 1:10; Tzefanyah 2:9; Zechariah 7:12; Tehillim 58:10, 91:4, 140:2-4; Mishlei 15:19, 22:5 with Rabbi Yosef Nechemias, 23:2, 24:31; Iyov 30:7, 31:40; Shir HaShirim 2:2, 7:9; Koheles 7:6; Divrei HaYamim I 4:8; Divrei HaYamim II 10:11, 10:14; Eruvin 34b; Shabbos 117b; Sukkah 13a; Megillah 10b; Sotah 13a; Gittin 68a; Bava Kamma 119b; Avodah Zarah 47b; Chullin 59a; Rabbi Shlomo of Urbino, *Ohel Moed*; Rashi to Yechezkel 2:6, Nachum 1:10, Eruvin 34b, Sukkah 13a, Bava Kamma 119b and Avodah Zarah 47b; Rabbi Saadia Gaon to Mishlei 15:19 and his *Tafsir* to Shemos 3:2; Ibn Ezra, long commentary to Shemos 3:2; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach; Radak, *Sefer HaShorashim*; Mahari Kara; Metzudas Tzion; Donash Ibn Labrat; the Targum to Bereishis 3:18 and Hoshea 10:8; Rabbi Shlomo Pappenheim; Rav Hirsch to Bereishis 24:6, Bamidbar 33:55, Tehillim 91:4 and 140:2-4; the Vilna Gaon to Mishlei 24:31; *Ohalei Yehuda*; *Shoresh Yesha*; Rabbi Aharon Marcus, *Keses HaSofer*; Rabbi Yehoshua Steinberg; Ramban to Chullin 59a; Rabbi Avraham ben Shlomo to Shoftim 8:7; Rabbi David Chaim Chelouche; Malbim to Yechezkel 17:4; Rabbi David Golumb; Rabbi Yaakov Yehudah (Zilberberg) de Kassif; Yaakov Reifman; Rabbi Yechiel Michel Stern.

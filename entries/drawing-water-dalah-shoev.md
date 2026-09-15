@@ -30,7 +30,8 @@ words:
     distinct: Menachem Ibn Saruk files it under ד-ל; for Rabbi Shlomo Pappenheim, a man emptied of his fortune as a well is emptied of its water
 sources:
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
-authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Malbim, Shadal, Rabbi Chaim Kanievsky, Wilhelm Gesenius]
+  - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
+authorities: [Ibn Chayyuj, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Malbim, Shadal, Rabbi Chaim Kanievsky, Wilhelm Gesenius, Targum Onkelos, Ramban, Rabbi Yaakov Berger]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -134,6 +135,13 @@ bringing moving water to a halt in a vessel. Rabbi Klein notes that this sense
 is best illustrated at a spring, whose waters were flowing until then, as
 against a well, whose waters might have been still even before they were drawn.
 
+Which stage of drawing *shoev* names is subject to some controversy. Rav Hirsch
+(to Bereishis 24:65, Devarim 28:22) takes it as specifically the water being
+drawn into and filling the bucket, which Targum Onkelos bears out by typically
+rendering it *mamleh*, filling. Rabbi Yaakov Berger of Kiryat Sefer (in his
+unpublished *Milon Leshon Mikra*) infers from Ramban (to Bereishis 24:17) that
+its core meaning is the lowering of a bucket into a well to bring back water.
+
 ## Rendering guidance
 
 - Yisro's daughters and Moshe at the well (Shemos 2:16-19) use *dalah*: "drew
@@ -161,4 +169,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shemos: Drawing Water](https://articles.ohr.edu/articles/shemos-drawing-water)," *What's in a Word?*, Ohr Somayach, 14 January 2023.
 
-Cited in the essay: Shemos 2:16-19; Tehillim 30:2; Bamidbar 24:7; Yeshayahu 40:15 and 12:3; Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7, 31:9, 31:12; Mishlei 20:5; Bereishis 24:11-45 and Shadal to 24:13; *Bereishis Rabbah* 60:5; Sotah 47a, Sanhedrin 107b and Avodah Zarah 44a (*even shoeves*, the magnet); Wilhelm Gesenius on ד-ל.
+Rabbi Reuven Chaim Klein, "[Shemos: Pulling & Drawing](https://articles.ohr.edu/articles/shemos-pulling-drawing)," *What's in a Word?*, Ohr Somayach, 6 January 2024.
+
+Cited in the essay: Shemos 2:16-19; Tehillim 30:2; Bamidbar 24:7; Yeshayahu 40:15 and 12:3; Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7, 31:9, 31:12; Mishlei 20:5; Bereishis 24:11-45 and Shadal to 24:13; Rav Hirsch to Bereishis 24:65 and Devarim 28:22; Ramban to Bereishis 24:17; Targum Onkelos; Rabbi Yaakov Berger, *Milon Leshon Mikra*; *Bereishis Rabbah* 60:5; Sotah 47a, Sanhedrin 107b and Avodah Zarah 44a (*even shoeves*, the magnet); Wilhelm Gesenius on ד-ל.

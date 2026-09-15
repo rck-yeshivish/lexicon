@@ -10,7 +10,8 @@ words:
     nk: אָלַץ
 sources:
   - wiaw:9658 "Pesach: Putting Pressure" (2022-04-16) https://articles.ohr.edu/articles/pesach-putting-pressure
-authorities: [Rabbi Eliezer Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Shimon Schwab, Rabbi Refael Binyamin Posen, Malbim, Targum Onkelos, Targum Yonatan, Targum Neofiti, Rashi, Menachem Ibn Saruk, Ramban, Radak, Ibn Janach]
+  - wiaw:9682 "The Year of Slipping Away (Part 1 of 2)" (2022-05-14) https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2
+authorities: [Rabbi Eliezer Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Shimon Schwab, Rabbi Refael Binyamin Posen, Malbim, Targum Onkelos, Targum Yonatan, Targum Neofiti, Rashi, Menachem Ibn Saruk, Ramban, Radak, Ibn Janach, Bereishis Rabbah, Rabbi Moshe ben HaNessiah, Rabbi Yosef Chaim of Baghdad]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -122,6 +123,13 @@ Once in Tanach: Delilah pressing Shimshon for the secret of his strength
 - Ramban (to Bereishis 32:25) treats the aleph of *alatz* as interchangeable
   with the ches of *chalatz*, itself a metathesis of *lachatz*; Radak in *Sefer
   HaShorashim* likewise associates *alatz* with *lachatz*.
+- Chazal (Sotah 9b; *Bereishis Rabbah* 52:12) explain *alatz* differently, as
+  Delilah slipping away (*nishmatah*) from beneath Shimshon during intimacy as a
+  way of pressuring him to give away his secret. Rabbi Reuven Chaim Klein
+  suggests that perhaps they took *alatz* as directly related to *chalatz*, not
+  *lachatz*, a contention he found stated explicitly by Rabbi Moshe ben
+  HaNessiah Britannico (*Sefer HaShoham*) and by Rabbi Yosef Chaim of Baghdad
+  (*Ben Yehoyada* to Sotah 9b).
 - Ibn Janach dissents, glossing the verb "making him angry" rather than putting
   pressure on him.
 - Pappenheim traces it to ל-צ, logical verbalizing, whence *melitzah* (verbal
@@ -159,4 +167,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Pesach: Putting Pressure](https://articles.ohr.edu/articles/pesach-putting-pressure)," *What's in a Word?*, Ohr Somayach, 16 April 2022.
 
-Cited in the essay: Bereishis 19:15, 32:25; Shemos 3:9, 5:13, 5:14, 22:20; Bamidbar 22:25; Devarim 15:2, 26:7; Shoftim 2:18, 16:16; Melachim I 22:27; Yeshayahu 3:5, 30:20; Yoel 2:8; Divrei HaYamim II 18:26; the *Haggadah Shel Pesach* on *v'es lachatzeinu*; Targum Onkelos, Targum Yonatan and Targum Neofiti at the loci above; Rashi and *Machberes Menachem* to Shoftim 16:16; Radak, *Sefer HaShorashim*; Ibn Janach; Ramban to Bereishis 32:25; Rabbi Eliezer Ashkenazi, *Maaseh Hashem*; Rabbi Shlomo Pappenheim; Rabbi Shimon Schwab; Rabbi Dr. Refael Binyamin Posen; Malbim to Shoftim 2:18, Shemos 3:9 and Yeshayahu 3:5 and in *Midrash Haggadah*.
+Rabbi Reuven Chaim Klein, "[The Year of Slipping Away (Part 1 of 2)](https://articles.ohr.edu/articles/the-year-of-slipping-away-part-1-of-2)," *What's in a Word?*, Ohr Somayach, 14 May 2022.
+
+Cited in the essay: Bereishis 19:15, 32:25; Sotah 9b with *Ben Yehoyada*; *Bereishis Rabbah* 52:12; *Sefer HaShoham*; Shemos 3:9, 5:13, 5:14, 22:20; Bamidbar 22:25; Devarim 15:2, 26:7; Shoftim 2:18, 16:16; Melachim I 22:27; Yeshayahu 3:5, 30:20; Yoel 2:8; Divrei HaYamim II 18:26; the *Haggadah Shel Pesach* on *v'es lachatzeinu*; Targum Onkelos, Targum Yonatan and Targum Neofiti at the loci above; Rashi and *Machberes Menachem* to Shoftim 16:16; Radak, *Sefer HaShorashim*; Ibn Janach; Ramban to Bereishis 32:25; Rabbi Eliezer Ashkenazi, *Maaseh Hashem*; Rabbi Shlomo Pappenheim; Rabbi Shimon Schwab; Rabbi Dr. Refael Binyamin Posen; Malbim to Shoftim 2:18, Shemos 3:9 and Yeshayahu 3:5 and in *Midrash Haggadah*.
