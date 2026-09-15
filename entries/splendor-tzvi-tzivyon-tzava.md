@@ -1,5 +1,5 @@
 ---
-cluster: splendor and desire
+cluster: root צ-ב (splendor, desire, consent, army)
 hebrew: [צבי, צביון, צבא, צב, יציב]
 roots: [צ-ב-ה, צ-ב, צ-ב-א]
 translit: [tzvi, tzevi, tsvi, tzvi tiferes, ateres tzvi, tzivyon, tzva, tzava, tzavah, tzav, yatziv, eretz hatzvi, tvi]
@@ -25,7 +25,7 @@ authorities: [Rashi, Radak, Ritva (Rabbi Yom Tov of Seville), Ibn Ezra, Ralbag, 
 status: reviewed
 updated: 2026-09-10
 ---
-# Splendor and desire: tzvi / tzivyon / tzava
+# Root צ-ב (splendor, desire, consent, army): tzvi / tzivyon / tzava
 
 ## Bottom line
 

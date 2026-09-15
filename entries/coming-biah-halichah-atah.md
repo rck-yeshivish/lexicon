@@ -1,6 +1,6 @@
 ---
 cluster: coming
-hebrew: [בוא, ביאה, הליכה, הלך, אתה]
+hebrew: [בוא, בא, ביאה, הליכה, הלך, אתה]
 roots: [ב-א, ב, ה-ל-ך, א-ת-ה, ת]
 translit: [bo, boh, biah, bi'ah, lavo, lehavi, lech, leich, halichah, halicha, holech, molich, atah, asah, ateh, eisayu]
 english: [come, coming, go, going, arrive, arrival]

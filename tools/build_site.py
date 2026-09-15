@@ -314,6 +314,11 @@ def collect():
                 terms.setdefault(g.lower(), (g, ""))
         for term, heb in terms.values():
             english.append({"e": term, "h": strip_heb(heb), "c": e["cluster"], "s": slug})
+    # The method essay only borrows its example words (מושל, בא...) from groups
+    # that have entries of their own; searching one should land on that group,
+    # so the essay keeps only the words no other entry has.
+    elsewhere = {w["k"] for w in words if w["s"] != METHOD}
+    words = [w for w in words if w["s"] != METHOD or w["k"] not in elsewhere]
     return entries, words, english
 
 
@@ -398,6 +403,9 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 """
 
 
+# The essay on the method of synonyms, not a group of them.
+METHOD = "synonyms-davar-vayomer-vayidaber"
+
 # slug -> [(cluster, other slug, shared word)], from xref.json; filled in main().
 XREF = {}
 
@@ -456,7 +464,11 @@ def entry_page(e):
     # Hebrew line under the title is left off those pages rather than doubled.
     # The markdown keeps its order either way.
     has_cards = any(h == "At a glance" and glance_cards(m) for h, m in e["sections"])
-    if not has_cards:
+    if e["slug"] == METHOD:
+        # The method essay's words are three example pairs from different
+        # groups; laid out as a header they read as one group of synonyms.
+        parts[0] += '\n<p class="method-sub">How Hebrew synonyms differ, shown on three example pairs</p>'
+    elif not has_cards:
         parts[0] += f'\n<p class="heb-title">{heb}</p>'
     # Each word's own distinction reads before the disputes about them.
     secs = list(e["sections"])
@@ -1042,6 +1054,7 @@ header.bare .brand{flex:1}
 .bottomline h2{border:0;padding:0}
 .bottomline p{font-size:18px}
 .inshort p{color:var(--ink)}
+.method-sub{color:var(--dim);font-size:19px;margin:0 0 30px}
 /* Hebrew inside English text (a gloss in a sentence, the Also-discussed roots,
    the Hebrew "Try" chip) takes the Hebrew face too, a touch larger, since a
    serif Hebrew set at the sans size reads small beside it. */

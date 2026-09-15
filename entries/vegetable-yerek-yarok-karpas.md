@@ -1,5 +1,5 @@
 ---
-cluster: vegetable
+cluster: vegetable and green
 hebrew: [ירק, ירוק, ירקות, כרפס, כרפסא, רק]
 roots: [י-ר-ק, ר-ק, כ-ר-פ-ס]
 translit: [yerek, yarak, yarok, yerakot, yerakos, karpas, karpasa, kusbarta, rok, reik, petrozilia]
@@ -25,7 +25,7 @@ authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Beders
 status: reviewed
 updated: 2026-09-10
 ---
-# Vegetable: yerek / yarok / karpas
+# Vegetable and green: yerek / yarok / karpas
 
 ## Bottom line
 
