@@ -7,7 +7,14 @@ english: [uncle, paternal uncle, maternal uncle, aunt, kinsman]
 domain: society
 words:
   - he: דוד
+    tr: dod
+    en: father's brother, beloved
     nk: דּוֹד
+    distinct: in Biblical Hebrew primarily the father's brother, never found in Scripture for a mother's brother (Rashi), rendered achvuhi by Onkelos; in Shir HaShirim it seems to mean beloved, a later expansion of its range (Rabbi Klein)
+  - he: מסרף
+    tr: misaref
+    en: maternal uncle, kinsman
+    distinct: a disputed hapax at Amos 6:10, read as the maternal uncle (Ibn Kuraish, Ibn Janach, Radak's Sefer HaShorashim), a generic relative (Rashi, Septuagint), a verb of burning (Targum Yonasan, Radak's commentary), or from seraf, sap (Rendsburg, Wertheimer)
   - he: שרף
     nk: שְׂרָף
 sources:
@@ -33,6 +40,13 @@ verb of **burning** (Targum Yonasan, Radak in his commentary); or a word from
 smear with resin"; Rabbi Shlomo Aharon Wertheimer, unwanted offspring). A mother's
 brother in Tanach is spelled out as "his mother's brother," never *misaref*, and
 never *dod*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| דוד | dod | father's brother, beloved | father's brother, never mother's (Rashi); beloved in Shir HaShirim |
+| מסרף | misaref | maternal uncle, kinsman | disputed *hapax*; maternal uncle (Ibn Kuraish), kinsman (Rashi), or burning (Targum Yonasan) |
 
 ## Distinctions
 

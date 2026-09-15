@@ -6,6 +6,38 @@ translit: [keshirah, keshira, kesher, kasher, asirah, asira, assur, asir, issur,
 english: [tie, bind, fasten, tie down, bind against the will, wrap]
 domain: action
 words:
+  - he: קשירה
+    tr: keshirah
+    en: tie, bind
+    distinct: tying to which the thing tied consents, as conspirators willingly join one another in a kesher (Malbim); used concretely of tefillin and a string, figuratively of souls tied together
+  - he: אסירה
+    tr: asirah
+    en: tie down, detain
+    distinct: tying down without the consent of what is tied, as a captive, and so related to yissurin and issur (Malbim); from samech-reish, removal, the freedom of movement taken away (Rabbi Shlomo Pappenheim)
+  - he: קטירה
+    tr: ketirah
+    en: tie
+    distinct: the Aramaic of keshirah and Targum's standard rendering of it (Rabbi Eliyahu HaBachur), by a shin-to-tav shift (Rabbi Yaakov Berger); in Hebrew the root is smoke or incense; Rabbinic katir can mean a conspiracy
+  - he: כפות
+    tr: kafut
+    en: tied down
+    distinct: Aramaic and Mishnaic tying down, glossed by Rashi sometimes with asirah and sometimes with keshirah; perhaps kin to kefiyah, compulsion, in line with Pappenheim's kaf-peh; or from a different Aramaic root (Dr. Michael Sokoloff)
+  - he: צרור
+    tr: tzror
+    en: binding tight
+    distinct: a union of strongly connected parts, from tzadi-reish (Rabbi Shlomo Pappenheim); money tied up in the hand, and tzaros, co-wives tied together by marriage to one man
+  - he: עקידה
+    tr: akeidah
+    en: bind
+    distinct: tying down like a korban, as Avraham tied down Yitzchak; animals marked where they were usually tied, and beis eiked, where shepherds tied sheep for shearing (Radak's father); the Mishnah sets it apart from kafus
+  - he: חבישה
+    tr: chavishah
+    en: saddle, bind up
+    distinct: saddling a donkey, tying a headdress on, and binding a wound tight to heal it, whence tachboshes, a bandage
+  - he: חיתול
+    tr: chitul
+    en: wrap
+    distinct: wrapping in soft fabric, as against tying tight (Malbim); in Modern Hebrew the noun is a diaper
   - he: איסור
     nk: אִיסּוּר
 sources:
@@ -29,6 +61,19 @@ Sokoloff connects it to a different Aramaic root altogether. *Tzror* is
 the Aramaic of *keshirah*, Targum's standard rendering of it (HaBachur), by a
 shin-to-tav shift, presuming tav and tes interchange (Rabbi Yaakov Berger). On Malbim's consent test, consent
 belongs to *keshirah*, its absence to *asirah*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| קשירה | keshirah | tie, bind | tying with consent, as conspirators join a *kesher* (Malbim) |
+| אסירה | asirah | tie down, detain | tying down against the will, as a captive (Malbim); root of *issur* |
+| קטירה | ketirah | tie | Aramaic for *keshirah*, Targum's standard rendering (HaBachur); the Hebrew root means smoke |
+| כפות | kafut | tied down | Aramaic and Mishnaic tied down; Rashi glosses it both ways; perhaps from *kefiyah* |
+| צרור | tzror | binding tight | tight binding, a union of strongly attached parts (Pappenheim) |
+| עקידה | akeidah | bind | tying down like a korban, as at the *Akeidah*; set apart from *kafus* |
+| חבישה | chavishah | saddle, bind up | saddling, tying on a headdress, binding a wound; whence *tachboshes*, bandage |
+| חיתול | chitul | wrap | wrapping in soft fabric, not tying tight (Malbim) |
 
 ## Distinctions
 

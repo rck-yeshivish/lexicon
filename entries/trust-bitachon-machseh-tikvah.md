@@ -6,10 +6,48 @@ translit: [bitachon, bitochon, betach, boteach, machseh, machaseh, chasah, lacha
 english: [trust, confidence, refuge, hope, expectation, waiting, leaning, reliance, support, security]
 domain: emotion
 words:
-  - he: שבר
-    nk: שֵׂבֶר
+  - he: בטחון
+    tr: bitachon
+    en: trust
+    distinct: an emotional state, confidence about a good future and serenity in turmoil, saying nothing of what one does about it (Malbim); trust that Hashem will do what He promised (Vilna Gaon)
+  - he: מחסה
+    tr: machseh
+    en: refuge
+    distinct: one who actively lives by his bitachon (Malbim); trust in Hashem even where He promised nothing (Vilna Gaon); from ח-ס, relying on Hashem's caring (Rabbi Shlomo Pappenheim)
+  - he: תקוה
+    tr: tikvah
+    en: hope
+    distinct: relying wholly on the fulfilment without being able to call it certain, the middle of the scale (Wertheimer); from kav, a straight line from the present situation to the one anticipated (Rabbi Shlomo Pappenheim)
+  - he: תוחלת
+    tr: tocheles
+    en: expectant waiting
+    distinct: waiting that relies on the outcome but not wholeheartedly, the least certain of the three, hence yachel Yisrael, since our sins might block our salvation (Wertheimer)
+  - he: חכוי
+    tr: chikui
+    en: waiting
+    distinct: waiting in full certainty, sure that it will happen and only waiting for it, the most certain of the three (Wertheimer)
+  - he: סמיכה
+    tr: semichah
+    en: leaning
+    distinct: leaning with all one's weight, as on the korban (Malbim); any leaning or relying, even done willingly and not from need (Rabbi Shlomo Pappenheim)
+  - he: משען
+    tr: mishan
+    en: leaning for support
+    distinct: leaning only partly, or a beneficiary knowingly relying on another, usually Hashem (Malbim); leaning for actual support because one is too weak to stand alone, with the satisfaction of being held up (Rabbi Shlomo Pappenheim)
   - he: סעד
+    tr: saad
+    en: support, help
     nk: סָעַד
+    distinct: holding up what would fall, so a patron's support of one who does not know of it (Malbim); the act of helping one who needs mishan (Rabbi Shlomo Pappenheim); better rendered helps, the beneficiary doing his own part (Rabbi Moshe Tzuriel)
+  - he: שבר
+    tr: sever
+    en: hopeful looking-to
+    nk: שֵׂבֶר
+    distinct: spelled like shever, food, as men look to Hashem and He feeds them (Peirush HaRokeach); strong trust from recognising Hashem as creator and sustainer (Wertheimer); joining separate pieces into one logical conclusion (Rav Hirsch)
+  - he: כסל
+    tr: kesel
+    en: assurance
+    distinct: being sure, with almost foolish naivety, that no harm will come, where tikvah awaits a good (Malbim); akin to kesil, fool, since relying wholly on Hashem may look foolish (Rabbi Moshe Wolfson)
 sources:
   - wiaw:8836 "Trusting and Relying on G-d" (2020-08-29) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
@@ -35,6 +73,21 @@ unaware of it; Pappenheim: to one who needs *mishan*), or, as Rabbi Moshe
 Tzuriel suggests, **help**, the beneficiary also doing his part. *Sever* is **hopeful
 looking-to**; *kesel* **assurance** that nothing bad will happen (Malbim). Chovos
 HaLevavos counts these as ten levels of one thing.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| בטחון | bitachon | trust | inner confidence, silent about action (Malbim); trust in what Hashem promised (Vilna Gaon) |
+| מחסה | machseh | refuge | trust lived out (Malbim); trust beyond what Hashem promised (Vilna Gaon) |
+| תקוה | tikvah | hope | wholehearted hope, short of certainty (Wertheimer); a straight line to the outcome (Pappenheim) |
+| תוחלת | tocheles | expectant waiting | waiting with some doubt; the least certain of the three (Wertheimer) |
+| חכוי | chikui | waiting | waiting sure it will come; the most certain of the three (Wertheimer) |
+| סמיכה | semichah | leaning | leaning with full weight (Malbim); any leaning, even by choice (Pappenheim) |
+| משען | mishan | leaning for support | partial leaning (Malbim); leaning out of need, too weak to stand alone (Pappenheim) |
+| סעד | saad | support, help | support given, even to one unaware (Malbim); help where the beneficiary does his part (Tzuriel) |
+| שבר | sever | hopeful looking-to | strong trust from knowing Hashem sustains all (Wertheimer); reasoned hope (Rav Hirsch) |
+| כסל | kesel | assurance | near-naive certainty that no harm will come (Malbim); akin to *kesil*, fool (Wolfson) |
 
 ## Distinctions
 

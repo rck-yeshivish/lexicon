@@ -5,6 +5,23 @@ roots: [ש-ל-כ, ז-ר-ק, נ-ז-ה, ר-מ-ה]
 translit: [hashlachah, hashlacha, vayashlech, vatashlech, zerikah, zerika, zarak, zarko, hazayah, hazaya, ramah, rama]
 english: [throw away, drop, cast, throw, sprinkle, hurl, shoot]
 domain: action
+words:
+  - he: השלכה
+    tr: hashlachah
+    en: throw away, drop
+    distinct: careless, disparaging throwing that does not show whether the thrower means to hit anything, usually downward, though some uses are purposeful (Rabbi Shlomo Pappenheim); implies no force (Maharal), so Rashbam may read Moshe as dropping the Luchos (Rabbi Yehoshua Hartman); abandoning or sending away (Ramban)
+  - he: זריקה
+    tr: zerikah
+    en: throw, sprinkle
+    distinct: purposely causing something to land in a chosen spot, typically matter that spreads as it falls, as the blood of the korbanos (Rabbi Shlomo Pappenheim); implies throwing with force (Maharal); in Chazal a general term for any throwing, deliberate or not
+  - he: הזיה
+    tr: hazayah
+    en: sprinkle
+    distinct: the same kind of throwing as zerikah, only over a longer distance (Rabbi Shlomo Pappenheim); or by hand, where zerikah is throwing or sprinkling with a vessel (Malbim)
+  - he: רמה
+    tr: ramah
+    en: hurl, shoot
+    distinct: throwing or shooting something upward in an arc so that it lands precisely on its target (Rabbi Shlomo Pappenheim); from the root of high and esteemed, and the Targumim render hashlachah with its derivatives
 sources:
   - wiaw:8528 "A Real Toss Up" (2019-12-21) https://articles.ohr.edu/articles/a-real-toss-up
 authorities: [Rabbi Shlomo Pappenheim, Ramban, Maharal, Rashbam, Rashi, Malbim, Rabbi Yehoshua Hartman, Rabbi Moshe Shapiro, Menachem Ibn Saruk, Ibn Janach, Radak, Targum, Rabbi Ernest Klein, Avraham Even-Shoshan]
@@ -28,6 +45,15 @@ hand rather than with a vessel (Malbim): **sprinkle**. *Ramah* is throwing
 upward in an arc so that it lands exactly on its target: **hurl**, **shoot**.
 Rabbi Yehoshua Hartman suggests that Rashbam, like Maharal, took *hashlachah*
 as dropping without force.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| השלכה | hashlachah | throw away, drop | casual, disparaging throw, often downward (Pappenheim); implies no force (Maharal) |
+| זריקה | zerikah | throw, sprinkle | aimed throw of spreading matter to a chosen spot (Pappenheim); implies force (Maharal) |
+| הזיה | hazayah | sprinkle | *zerikah* over a longer distance (Pappenheim), or by hand, not vessel (Malbim) |
+| רמה | ramah | hurl, shoot | thrown upward in an arc to land exactly on target (Pappenheim) |
 
 ## Distinctions
 

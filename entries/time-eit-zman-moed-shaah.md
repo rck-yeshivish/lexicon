@@ -6,8 +6,23 @@ translit: [eit, eis, et, es, ittim, itim, zman, zeman, zman, zmanim, moed, moeid
 english: [time, a time, season, appointed time, set time, hour]
 domain: time
 words:
+  - he: זמן
+    tr: zman
+    en: time
+    distinct: time in general (Wertheimer, Rav Hirsch); the flow of time as an existing element of creation (Maharal); like moed, a time set by man (Malbim); the entire duration of an appointed time (Rabbi Yaakov Emden); tied to preparation (Rabbi Moshe Shapiro, Pappenheim)
   - he: עת
+    tr: eit
+    en: a time
     nk: עֵת
+    distinct: a portion of time (Rav Hirsch), or for others a point within the span; time as an abstract concept (Maharal); a natural unit that nature itself shows (Malbim); any point within an appointed span (Rabbi Yaakov Emden); the seasons (Rama), which Emden contests
+  - he: מועד
+    tr: moed
+    en: appointed time
+    distinct: the most specific of the three, a preset point like a meeting scheduled to the minute (Wertheimer); a predetermined time set by man, or by Hashem for the festivals (Malbim); the beginning of an appointed time (Rabbi Yaakov Emden)
+  - he: שעה
+    tr: shaah
+    en: hour
+    distinct: beside eit, the hours of the day against the seasons of the year, so bechol eit u'vechol shaah is two measures and not a doubling (Rama); Rabbi Yaakov Emden takes issue with his limiting eit to the seasons
 sources:
   - wiaw:7396 "Elul 1: Trends in Time" (2017-09-02) https://articles.ohr.edu/articles/elul-1-trends-in-time
 authorities: [Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Maharal of Prague, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe Isserles, Rabbi Yaakov Emden, Targumim]
@@ -32,6 +47,15 @@ interchangeably. *Shaah* beside *eit* is **hour**, the hours of the day against
 the seasons of the year (Rama). For the Rama, בכל עת ובכל שעה is not a redundancy; he rejects those who
 say only *bechol eit* and reads two measures, "at every season and every hour,"
 though Rabbi Yaakov Emden takes issue with his limiting *eit* to the seasons.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| זמן | zman | time | time in general, the span (Wertheimer, Rav Hirsch); the flow of time itself (Maharal) |
+| עת | eit | a time | a point or portion within time (Rav Hirsch); a natural unit nature shows (Malbim) |
+| מועד | moed | appointed time | most specific, a preset point (Wertheimer); set by man, or by Hashem for festivals (Malbim) |
+| שעה | shaah | hour | the hours of the day, against *eit* as the seasons (Rama) |
 
 ## Distinctions
 

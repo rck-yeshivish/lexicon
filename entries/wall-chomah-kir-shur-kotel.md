@@ -6,10 +6,36 @@ translit: [chomah, choma, chomos, chomot, kir, kiros, shur, shura, shor, cheil, 
 english: [wall, city wall, rampart, partition, structural wall]
 domain: other
 words:
-  - he: חיל
-    nk: חֵיל
+  - he: חומה
+    tr: chomah
+    en: city wall
+    distinct: always a wall around a city or a large and important building, or a lookout post (Rabbi Klein); from ח-מ, heat, its purpose protection from warfare (Rabbi Shlomo Pappenheim); also related to sight (Raavan, Rav Hirsch)
+  - he: קיר
+    tr: kir
+    en: structural wall
+    distinct: the generic structural wall (Rabbi Klein); originally the upright beam that bears a structure's weight, from ק-ר (Rabbi Shlomo Pappenheim); a wall that gives shade, from kor, cold (Rabbi Yehudah Aryeh of Carpentras)
   - he: שור
+    tr: shur
+    en: wall
     nk: שׁוּר
+    distinct: rare in Hebrew, the Aramaic for chomah in the Targumim (Rabbi Klein); a wall built in a straight line against the encircling chomah, or a tall lookout, from shur as seeing (Rabbi Shlomo Pappenheim)
+  - he: חיל
+    tr: cheil
+    en: short wall
+    nk: חֵיל
+    distinct: a low wall running outside a taller one, with empty ground between them (Rabbi Shlomo Pappenheim); a shorter wall inside the chomah (Rashi); Radak seems unsure which, and suggests a moat
+  - he: חיץ
+    tr: chayitz
+    en: flimsy partition
+    distinct: a flimsy partition (Rabbi Moshe Zacuto); a wall dividing one domain into two, equivalent to the Mishnaic mechitzah (Rabbi Shlomo Pappenheim); a single appearance in Tanach, at Yechezkel 13:10
+  - he: מחיצה
+    tr: mechitzah
+    en: partition
+    distinct: the Mishnaic word for any partition at all, against the flimsy chayitz (Rabbi Moshe Zacuto); equivalent to chayitz (Rabbi Shlomo Pappenheim)
+  - he: כותל
+    tr: kotel
+    en: wall
+    distinct: the Aramaic for kir, rendering it in the Targumim (Rabbi Klein); once in Hebrew, at Shir HaShirim 2:9; connected with Akkadian kutallu, backside (Rabbi Ernest Klein)
 sources:
   - wiaw:8373 "Remembering the Wall" (2020-07-25) https://articles.ohr.edu/articles/remembering-the-wall
 authorities: [Rabbi Shlomo of Urbino, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Raavan, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Ibn Ezra, Ibn Janach, Radak, Rabbi Yitzchok of Volozhin, Rabbi Moshe Zacuto, Rabbi Ernest Klein]
@@ -30,6 +56,18 @@ stands is disputed: outside a taller wall, with the empty space between them
 seems unsure which, and suggests it may be a moat. Rabbi Shlomo of Urbino, as
 is his wont, holds the six mean exactly the same thing; Rabbi Reuven Chaim Klein sees more to it than that, and Pappenheim's two-letter roots help bring out
 the nuances.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חומה | chomah | city wall | wall around a city or great building; also a lookout (Rabbi Klein) |
+| קיר | kir | structural wall | the generic structural wall; first the weight-bearing beam (Pappenheim) |
+| שור | shur | wall | Aramaic for *chomah*; a straight wall or a lookout (Pappenheim) |
+| חיל | cheil | short wall | short wall outside a taller one (Pappenheim), or inside it (Rashi) |
+| חיץ | chayitz | flimsy partition | flimsy partition (Zacuto); the same as *mechitzah* (Pappenheim) |
+| מחיצה | mechitzah | partition | any partition at all (Zacuto); equivalent to *chayitz* (Pappenheim) |
+| כותל | kotel | wall | Aramaic for *kir*; from Akkadian *kutallu*, backside (Rabbi Ernest Klein) |
 
 ## Distinctions
 

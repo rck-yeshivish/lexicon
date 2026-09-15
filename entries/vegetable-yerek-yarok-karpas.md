@@ -6,8 +6,19 @@ translit: [yerek, yarak, yarok, yerakot, yerakos, karpas, karpasa, kusbarta, rok
 english: [vegetable, green, parsley, greens, fine linen]
 domain: nature
 words:
+  - he: ירק
+    tr: yerek
+    en: vegetable
+    distinct: the generic word for any vegetable, of which marror is a subset; so called because vegetables are typically green (Rabbi Avraham Bedersi); tied to rok, spit, or reik, empty (Rabbi Yehudah Aryeh of Carpentras)
+  - he: ירוק
+    tr: yarok
+    en: green
+    distinct: the color green, which in Rabbinic Hebrew technically reaches from yellow through green to blue; the emptying out of a plant's inner liquids (Rabbi Shlomo Pappenheim)
   - he: כרפס
+    tr: karpas
+    en: parsley, fabric
     nk: כַּרְפַּס
+    distinct: not a synonym of yerek but one particular plant, parsley in the Yerushalmi, though the matter is far from settled (Rabbi Klein); in Esther a fabric, silk (Rabbi Saadia Gaon) or fine linen (Rabbi Dr. Ernest Klein), or a color, green (Radak)
 sources:
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia Gaon, Ibn Parchon, Ibn Ezra, Rabbi Tanchum HaYerushalmi, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias, Rabbi Baruch Epstein, Rabbi Dr. Ernest Klein, Aquila, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Alan Yuter, Rabbeinu Manoach, Maharil, Ibn Shuaib, Ben Ish Chai, Rabbi Shmuel of Falaise, Rabbi Yosef Tuv-Elem, Rabbi Yaakov Yisroel Stahl]
@@ -26,6 +37,14 @@ Megillas Esther the context, as he reads it, fairly clearly wants a **fabric**, 
 commentators divided between a fabric (silk; fine linen), a **color** (green),
 and, in the Targumim, an association with leek. Seder-night *karpas* does not mean "vegetable"; its popular use seems to
 have come from a piyut, where it was one item from a list.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ירק | yerek | vegetable | any vegetable, the generic word; named for being green (Bedersi) |
+| ירוק | yarok | green | green, though Rabbinic usage runs from yellow to blue; emptied-out sap (Pappenheim) |
+| כרפס | karpas | parsley, fabric | one plant, perhaps parsley (Yerushalmi); in Esther a fabric or a color (Radak) |
 
 ## Distinctions
 

@@ -5,6 +5,15 @@ roots: [י-ק-צ, ק-צ, ע-ו-ר, ע-ר]
 translit: [yekitzah, yekitza, hakitzah, vayikatz, mekitz, hekitz, oorah, urah, ori, orer, me'orer, meorer, hisorerus, hitorerut, er, itar, tir, noer, irin]
 english: [wake up, awaken, rouse, stir, be awake]
 domain: body
+words:
+  - he: יקיצה
+    tr: yekitzah
+    en: waking up
+    distinct: sudden and complete waking (Rabbi Shlomo Pappenheim); waking one who merely dozed off (Rabbi Yechezkel Pannet); the second stage, getting up and staying awake, and the more responsive waking (Malbim); the end of a dream or false impression (Rabbi Klein)
+  - he: עורה
+    tr: oorah
+    en: rousing, stirring
+    distinct: gradual waking through a half-asleep stage (Rabbi Shlomo Pappenheim); waking from deep sleep (Rabbi Yechezkel Pannet); the first stage, coming to one's senses, and the most basic waking (Malbim); a whole world revealed to the waker (Shoresh Yesha)
 sources:
   - wiaw:9473 "Wake-up Time" (2021-12-04) https://articles.ohr.edu/articles/wake-up-time
 authorities: [Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Radak, Ibn Chayyuj, Ibn Janach, Menachem Ibn Saruk, Rabbi Aharon Marcus, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechezkel Pannet, Shoresh Yesha, Rashi, Tosafos, Targum]
@@ -25,6 +34,13 @@ two stages of one process, *oorah* first (coming to one's senses), then
 the more responsive waking, *oorah* the most basic. Rabbi Klein adds his own
 suggestion that *yekitzah* is the end of a dream or other false impression,
 since most of its Biblical occurrences follow a dream or drunkenness.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| יקיצה | yekitzah | waking up | sudden, total waking (Pappenheim); the later stage, getting up (Malbim) |
+| עורה | oorah | rousing, stirring | gradual, through a half-asleep stage (Pappenheim); the first stage, coming to one's senses (Malbim) |
 
 ## Distinctions
 

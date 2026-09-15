@@ -7,7 +7,18 @@ english: [trembling, dread, fear, crawling, writhing]
 domain: emotion
 words:
   - he: חיל
+    tr: chil
+    en: fear, trembling
     nk: חִיל
+    distinct: the commonest of the three in Biblical Hebrew, fear and the bodily tremors it produces, often of labor pangs; the fear of one's place in a changing order (Rav Hirsch); the whole body cramping or spasming at something frightening (Rabbi Shlomo Pappenheim)
+  - he: דחיל
+    tr: dachil
+    en: fearsome, dread
+    distinct: the Aramaic word, Targum's usual rendering of yirah, nora and pachad; either simply the Aramaic of chil, or, in light of Rav Hirsch, the general term for all fear against chil's specific one (Rabbi Klein)
+  - he: זחל
+    tr: zachal
+    en: crawling, fear
+    distinct: two discrete senses, fear and crawling (Menachem Ibn Saruk); at Devarim 32:24 crawling snakes (Rashi) or the fear they cause (Ibn Ezra); in the fear sense perhaps a Hebraicized dachil (Metzudas Tzion); Elihu's zachalti also read as delay (Rabbi Yosef Kara)
 sources:
   - wiaw:11544 "Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)" (2024-09-21) https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13
 authorities: [Rav Hirsch, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonasan, Rabbi Eliyahu Bachur, Menachem Ibn Saruk, Rashi, Ibn Ezra, Ibn Janach, Rabbi Yosef Kara, Sforno, Metzudas Tzion, Rabbi David Golumb, Rabbi Asher Weiser, Toras Chaim, Rabbi Shaul Goldman, Dr. Tzvi Langermann]
@@ -30,6 +41,14 @@ general one. *Zachal* carries two senses in Tanach, **crawling** and **fear**, a
 the fear sense may well be the Aramaic *dachil* Hebraicized, dalet to zayin
 (*Metzudas Tzion*, repeated by Rabbi David Golumb and Rabbi Asher Weiser). The
 piyut *Yarasi Befitzchi Si* sets all three in rhyme.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חיל | chil | fear, trembling | fear of one's place in a new order (Rav Hirsch); whole-body spasm (Pappenheim) |
+| דחיל | dachil | fearsome, dread | Aramaic; Targum's word for *yirah*, *nora*, *pachad*; the more general fear (Rabbi Klein) |
+| זחל | zachal | crawling, fear | crawling (Rashi) or fear (Ibn Ezra); perhaps a Hebraicized *dachil* (Metzudas Tzion) |
 
 ## Distinctions
 

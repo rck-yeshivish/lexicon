@@ -6,10 +6,21 @@ translit: [neder, nedarim, shevuah, shevuot, shevuos, nedavah, nedavos, konam, k
 english: [vow, oath, freewill offering, pledge]
 domain: speech
 words:
+  - he: נדר
+    tr: neder
+    en: vow
+    distinct: a verbal declaration that works on an object, giving it a forbidden status on the model of hekdesh, in this form a konam; the same word covers the pledge to bring a korban or donation
+  - he: נדבה
+    tr: nedavah
+    en: freewill offering
+    distinct: a type of neder, one statement doing two jobs, undertaking to bring an offering, sometimes only by implication, and designating the specific animal as that offering
+  - he: שבועה
+    tr: shevuah
+    en: oath
+    nk: שְׁבוּעָה
+    distinct: an oral statement whose focus is the person, binding him to do or not do, or affirming the past, and generally invoking Hashem's name; a different type of expression from neder, not a graver one (Nedarim 2b)
   - he: שבועות
     nk: שְׁבוּעוֹת
-  - he: שבועה
-    nk: שְׁבוּעָה
 sources:
   - wiaw:6963 "Of Oaths and Promises" (2016-10-01) https://articles.ohr.edu/articles/of-oaths-and-promises
 authorities: [Chazal (Nedarim 2b)]
@@ -30,6 +41,14 @@ gives each its own masechta in a different seder. A *nedavah* is a type of *nede
 only implicitly) and designates the specific animal. The common English
 "promise" and "oath," Rabbi Klein says, imply the two are basically synonymous, a
 *shevuah* being a more serious *neder*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נדר | neder | vow | works on an object, forbidding it on the model of hekdesh |
+| נדבה | nedavah | freewill offering | a *neder* that undertakes a korban and designates the animal |
+| שבועה | shevuah | oath | works on the person, binding him; generally invokes Hashem's name |
 
 ## Distinctions
 

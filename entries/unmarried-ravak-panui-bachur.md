@@ -6,6 +6,18 @@ translit: [ravak, ravok, revakim, panui, penuyah, penuiah, mufneh, mufnah, pnai,
 english: [unmarried man, bachelor, single, unattached, available, young man]
 domain: society
 words:
+  - he: רווק
+    tr: ravak
+    en: unmarried man
+    distinct: the Mishnaic word, covering a divorcé and widower (Rashi) or only a man never married (Tosafos, Rambam); from reik, empty (Matnos Kehunah, Rabbi Dr. Ernest Klein), or a loanword from Arabic meaning youth (Dr. Alexander Kohut)
+  - he: פנוי
+    tr: panui
+    en: unattached
+    distinct: from Mishnaic panah, to clear or make available, the man being available and open to marriage (Rabbi Eliyahu HaBachur); cleared of a family man's obligations (Rabbi Shlomo Pappenheim); a word of the Gemara, not of Tanach or Mishnah
+  - he: בחור
+    tr: bachur
+    en: young man
+    distinct: a young man, especially of military age, never exclusively unmarried in Tanach, though colloquially and at Taanis 4:8 unmarried; from ב-ח-ר, choice, the choicest in strength (Radak, Rabbi Yehudah Aryeh of Carpentras)
   - he: ריק
     nk: רֵיק
 sources:
@@ -30,6 +42,14 @@ unmarried man, colloquially it does mean one but can technically be said of a
 married young man, and its one Mishnaic appearance (Taanis 4:8) clearly means
 unmarried men. *Ravak* and *panui* do not appear in Tanach at all. English
 "bachelor" does not come from *bachur* but from Latin (Rabbi Dr. Ernest Klein).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| רווק | ravak | unmarried man | Mishnaic; any unmarried man (Rashi), or only the never married (Tosafos, Rambam) |
+| פנוי | panui | unattached | available for marriage (HaBachur); cleared of a family man's obligations (Pappenheim) |
+| בחור | bachur | young man | a young man at his choicest (Radak); not exclusively unmarried |
 
 ## Distinctions
 

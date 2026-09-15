@@ -6,8 +6,43 @@ translit: [gehinnom, gehinom, sheol, shol, avadon, avaddon, shachat, shachas, be
 english: [Gehinnom, grave, pit, destruction, shadow of death, underworld]
 domain: other
 words:
+  - he: שאול
+    tr: sheol
+    en: the grave
+    distinct: literally the grave (Ibn Ezra), though by derashah the soul's purgatory after death (Rashi); a deep pit impossible to get out of (Malbim); from ש-ל, cast away, death being a plane away from the living (Rabbi Shlomo Pappenheim)
+  - he: אבדון
+    tr: avadon
+    en: destruction
+    distinct: either the body's ruin and rotting after death, or the place where souls are lost for a time; in Midrash Konen the place of the lost souls of the wicked
+  - he: שחת
+    tr: shachat
+    en: pit
+    distinct: in many pesukim simply a pit; a pit dug to trap wild animals, and also hashchasah, destruction, as the body rots (Rabbi Avraham Bedersi HaPenini); from ש-ח, bending in a cramped place (Rabbi Shlomo Pappenheim)
+  - he: בור שאון
+    tr: bor shaon
+    en: Pit of Noise
+    distinct: literally the Pit of Noise, perhaps the Pit of Silence, since shaon and sha'anan are related (Rabbi Klein, after Ibn Janach); or from shoah, destruction, like avadon and shachat (Rashi, Radak)
+  - he: טיט היון
+    tr: tit hayaven
+    en: slimy mud
+    distinct: slimy mud that holds a man as quicksand does; from י-ן, trickery, since quicksand looks like ground a man can walk on (Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus)
+  - he: צלמות
+    tr: tzalmaves
+    en: shadow of death
+    distinct: the shadow of death, whose connection to the underworld needs no argument; in Midrash Konen the place of slanderers
+  - he: גיהנום
+    tr: gehinnom
+    en: Gehinnom
+    distinct: a valley south of Yerushalayim where the Baal was served, its name borrowed for the sinner's afterlife; for the Gemara not a name of the place but an allusion to those who occupy themselves with what is chinam, pointless
+  - he: תפת
+    tr: tophet
+    en: Tophes
+    distinct: a place south of Yerushalayim where the Baal was served, its name borrowed for the sinner's afterlife; for the Gemara an allusion to those whom the yetzer hara talks over, mefateh
   - he: עלוקה
+    tr: alukah
+    en: leech
     nk: עֲלוּקָה
+    distinct: the leech of Mishlei 30:15, which sources cited by Tosafos read as a name for Gehinnom; it draws out the soul as a leech draws blood (Maharal), or cleanses a man of sin as a leech draws bad blood (Rabbi Chaim of Volozhin)
 sources:
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
 authorities: [Rabbi Yehoshua ben Levi, Rashi, Ibn Ezra, Malbim, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi HaPenini, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Tosafos, Maharsha, Maharal, Rabbi Chaim of Volozhin, Rabbi Yitzchak Abuhab, Rabbi Tzvi Matisyahu Abrahams, Rabbi J. D. Eisenstein, the Vulgate]
@@ -26,6 +61,20 @@ though by derashah it can refer to the soul's purgatory after death (Rashi).
 "destruction" in it. *Avadon* is either the body's **destruction** after death
 or the place where souls are **lost** for a time. Eruvin 19a gives seven Biblical terms for
 Gehinnom, and Maharsha reads them as seven different places within it.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שאול | sheol | the grave | literally the grave (Ibn Ezra); by derashah, purgatory (Rashi) |
+| אבדון | avadon | destruction | the body's ruin after death, or where souls are lost for a time |
+| שחת | shachat | pit | a pit; a trap, or destruction as the body rots (Bedersi) |
+| בור שאון | bor shaon | Pit of Noise | Pit of Noise, or of Silence (Rabbi Klein); from *shoah*, destruction (Rashi, Radak) |
+| טיט היון | tit hayaven | slimy mud | quicksand-like mud; deceptive ground, from a root of trickery (Pappenheim) |
+| צלמות | tzalmaves | shadow of death | the shadow of death; the place of slanderers (Midrash Konen) |
+| גיהנום | gehinnom | Gehinnom | a place name borrowed for the afterlife; alludes to what is *chinam*, pointless |
+| תפת | tophet | Tophes | a place name borrowed for the afterlife; those the yetzer hara talks over (*mefateh*) |
+| עלוקה | alukah | leech | the leech; draws out the soul (Maharal), or cleanses sin (Rabbi Chaim of Volozhin) |
 
 ## Distinctions
 
