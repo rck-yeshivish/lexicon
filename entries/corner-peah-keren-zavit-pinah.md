@@ -84,52 +84,61 @@ most of them it names a cardinal direction (Shemos 27:9; Bamidbar 35:5), usually
 alongside a word for north, south, east or west, where Onkelos generally gives
 *rucha*/*ruach*; in the four instances where it means "corner" as opposed to
 "direction" (the *peah* of the head and of the beard, Vayikra 19:27, and the
-*peah* of the field, Vayikra 19:9, 23:22) he leaves it untranslated. For the four rings on the
-four *peah* of the Shulchan (Shemos 25:26, 37:13) Onkelos renders *zavit*, the
-word that will matter later. Rabbi Shlomo
-Pappenheim (1740 to 1814) gives two etymologies: in *Yerios Shlomo* from
-PEH-HEY, "mouth," a corner being where one enters and leaves an area as the
-mouth is where food enters and words leave; in *Cheshek Shlomo* from PEH-ALEPH,
-"wide corner." For him the Moabite noblemen called *paas* (Bamidbar 24:17;
-Yirmiyahu 48:45) are those set apart at the corner of their society and the
-cornerstones on which it rests. Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865):
-*peah* need not be physically in a corner but can be anything cut off and set
-apart, which is why the *peah* of a field may even be left in the middle
-(Mishnah *Peah* 1:3).
+*peah* of the field, Vayikra 19:9, 23:22) he leaves it untranslated. For the
+four rings on the four *peah* of the Shulchan (Shemos 25:26, 37:13) Onkelos
+renders *zavit*, the word that will matter later.
+
+- Rabbi Shlomo Pappenheim (1740 to 1814) gives two etymologies: in *Yerios
+  Shlomo* from PEH-HEY, "mouth," a corner being where one enters and leaves an
+  area as the mouth is where food enters and words leave; in *Cheshek Shlomo*
+  from PEH-ALEPH, "wide corner." For him the Moabite noblemen called *paas*
+  (Bamidbar 24:17; Yirmiyahu 48:45) are those set apart at the corner of their
+  society and the cornerstones on which it rests.
+- Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865): *peah* need not be physically in
+  a corner but can be anything cut off and set apart, which is why the *peah* of
+  a field may even be left in the middle (Mishnah *Peah* 1:3).
 
 ### keren (קרן)
 Primarily an animal's **horn**, and in Tanach the horn-like protrusions at the
 four corners of the Altar (Shemos 38:2; Vayikra 8:15; Yechezkel 43:20); the
 Mishnah widens it to any corner while keeping the biblical altar sense
 (*Kilayim* 6:7, *Yoma* 5:5, *Zevachim* 5:3, 6:2, 6:5, 11:3, *Tamid* 2:5, 4:1,
-7:3, *Middos* 3:2-3, 4:3, 4:5, *Keilim* 17:9-10). Malbim: the core sense is the
-horn that bulges from the head, borrowed for anything projecting outward, so a
-ray of sunlight is a *keren* and a corner is a *keren* because it juts from an
-otherwise smooth surface. Rabbi Mecklenburg (*HaKsav VeHaKabbalah* to Shemos
-27:2, Vayikra 4:7) makes a similar point, and Radak even insinuates a connection
-between the Hebrew *keren* and the Latin *cornu*, from which the English
-"corner" derives by way of French. Pappenheim instead traces it to KUF-REISH, "strong impact,"
-which yields *korah*, *tikrah* and *kir*, weight-bearing points of impact; a
-corner is where two sides collide.
+7:3, *Middos* 3:2-3, 4:3, 4:5, *Keilim* 17:9-10).
+
+- Malbim: the core sense is the horn that bulges from the head, borrowed for
+  anything projecting outward, so a ray of sunlight is a *keren* and a corner is
+  a *keren* because it juts from an otherwise smooth surface. Rabbi Mecklenburg
+  (*HaKsav VeHaKabbalah* to Shemos 27:2, Vayikra 4:7) makes a similar point, and
+  Radak even insinuates a connection between the Hebrew *keren* and the Latin
+  *cornu*, from which the English "corner" derives by way of French.
+- Pappenheim instead traces it to KUF-REISH, "strong impact," which yields
+  *korah*, *tikrah* and *kir*, weight-bearing points of impact; a corner is
+  where two sides collide.
 
 ### zavit (זוית)
 Twice in Tanach: the beauty of Jewish daughters likened to the hewn corners of a
 palace (Tehillim 144:12), and Yisrael drinking "like the corners of the Altar"
-(Zechariah 9:15). What that image means is disputed. Rashi: their victories will
-leave them overflowing with the good things of the spoil, as the corner of the
-Altar overflows with wine. Alternatively, that in defeating their enemies they
-will figuratively drink their blood, spilled as abundantly as the wine that
-overflows the Altar's corners (Radak and Mahari Kara there). Onkelos uses
-*zavit* to render several of the other corner words. Pappenheim links
-*zavit* to *ziv* (radiance), and offers two ways of making the connection. The
-first, as Rabbi Yehoshua Steinberg of the Veromemanu Foundation explains him,
-seems to be that turning a corner is a change of direction, and a shiny thing
-likewise makes one change direction by drawing the eye to it. In a separate
-discussion Pappenheim seems to give a slightly different account: light bouncing off a
-shiny object toward the eye travels at an angle, and so produces a corner. He
-also claims that Iyar was originally called Ziv (Melachim I 6:1) because in that
-month the sun somehow turns a corner, which Rabbi Klein tentatively suggests may
-mean its ushering in the new season of spring.
+(Zechariah 9:15). What that image means is disputed.
+
+- Rashi: their victories will leave them overflowing with the good things of the
+  spoil, as the corner of the Altar overflows with wine.
+- Alternatively, that in defeating their enemies they will figuratively drink
+  their blood, spilled as abundantly as the wine that overflows the Altar's
+  corners (Radak and Mahari Kara there).
+
+Onkelos uses *zavit* to render several of the other corner words. Pappenheim
+links *zavit* to *ziv* (radiance), and offers two ways of making the connection.
+
+- The first, as Rabbi Yehoshua Steinberg of the Veromemanu Foundation explains
+  him, seems to be that turning a corner is a change of direction, and a shiny
+  thing likewise makes one change direction by drawing the eye to it.
+- In a separate discussion Pappenheim seems to give a slightly different
+  account: light bouncing off a shiny object toward the eye travels at an angle,
+  and so produces a corner.
+
+He also claims that Iyar was originally called Ziv (Melachim I 6:1) because in
+that month the sun somehow turns a corner, which Rabbi Klein tentatively
+suggests may mean its ushering in the new season of spring.
 
 The last of Haman's ten sons was named Vayzasa (Esther 9:9), an anagram of
 *zavit*, and Rabbi Benzion Chaim Lubetzky (d. 1945) argues that in so naming him
@@ -139,16 +148,19 @@ cornerstones of the Persian Empire.
 The Gemara's set phrase for a corner is *keren zavit* (*Berachos* 53b, where one
 can use a torch's light without seeing the fire if the two of them stand on
 opposite sides of a *keren zavit*; *Kiddushin* 66a, where Torah was so neglected
-that it was relegated to a mere *keren zavit* for whoever wished to take it). Dr.
-Avi Hurvitz, a veteran linguist and expert philologist, notes that the phrase is
-a semantic redundancy, since *keren* already means corner and so does *zavit*.
-Rabbi Chaim Pinchas Scheinberg (1910 to 2012) related at a Degel HaTorah rally
-that over a century ago Rabbi Chaim Ozer Grodzenski (1863 to 1940) had already
-noted the redundancy and explained the phrase as "a corner of a corner": in the
-time *Kiddushin* describes, Torah was not given even a whole corner, only a
-small corner within a corner, so that the doubled word is for emphasis. Rabbi
-Klein holds that an explanation said in a polemic context should probably not
-be taken as actual linguistic analysis.
+that it was relegated to a mere *keren zavit* for whoever wished to take it).
+
+- Dr. Avi Hurvitz, a veteran linguist and expert philologist, notes that the
+  phrase is a semantic redundancy, since *keren* already means corner and so
+  does *zavit*.
+- Rabbi Chaim Pinchas Scheinberg (1910 to 2012) related at a Degel HaTorah rally
+  that over a century ago Rabbi Chaim Ozer Grodzenski (1863 to 1940) had already
+  noted the redundancy and explained the phrase as "a corner of a corner": in
+  the time *Kiddushin* describes, Torah was not given even a whole corner, only
+  a small corner within a corner, so that the doubled word is for emphasis.
+
+Rabbi Klein holds that an explanation said in a polemic context should probably
+not be taken as actual linguistic analysis.
 
 ### pinah (פינה)
 Twice in the Chumash, both for the corners of the Altar (Shemos 27:2, 38:2),

@@ -140,18 +140,18 @@ immersed; dyeing imprints a lasting color as stamping leaves a permanent mark;
 and *teva*, nature, is what is ingrained in a thing, as a dyed fabric absorbs
 its color until it is inseparable from it.
 
-On the deeper sense of the root, Rabbi Yaakov Tzvi Mecklenburg (*HaKsav
-VeHaKabbalah* to Shemos 8:15, 31:18, Vayikra 4:25) takes it as gripping or
-holding fast: dyeing forges a bond that holds the color to the material, and
-color is the derived sense. That also explains *etzba*, finger, which is said to
-come from this root and whose alef Radak holds is not part of it (whence *matzbia*, using one's finger to enter a
-raffle, *Mishnah Yoma* 2:1, later pointing, and in Modern Hebrew
-voting): the finger is what lets a man hold and control what he grasps, which is
-why the plagues are "the finger of Hashem" (Shemos 8:15) and the Luchos are
-written with His Finger (Shemos 31:18). Rabbi Shmuel Yehudah Steiger (*Avnei
-Shayish*) reads the two-letter string צ-ב throughout as binding and gathering:
-*tzava* (an army gathered), *tzover* (collecting), *tzibbur* (a public), and
-here the colorant bound to the cloth.
+- On the deeper sense of the root, Rabbi Yaakov Tzvi Mecklenburg (*HaKsav
+  VeHaKabbalah* to Shemos 8:15, 31:18, Vayikra 4:25) takes it as gripping or
+  holding fast: dyeing forges a bond that holds the color to the material, and
+  color is the derived sense. That also explains *etzba*, finger, which is said
+  to come from this root and whose alef Radak holds is not part of it (whence
+  *matzbia*, using one's finger to enter a raffle, *Mishnah Yoma* 2:1, later
+  pointing, and in Modern Hebrew voting): the finger is what lets a man hold and
+  control what he grasps, which is why the plagues are "the finger of Hashem"
+  (Shemos 8:15) and the Luchos are written with His Finger (Shemos 31:18).
+- Rabbi Shmuel Yehudah Steiger (*Avnei Shayish*) reads the two-letter string צ-ב
+  throughout as binding and gathering: *tzava* (an army gathered), *tzover*
+  (collecting), *tzibbur* (a public), and here the colorant bound to the cloth.
 
 ### ein (עין)
 The construct of *ayin*, eye. In many cases it names the picture the eye holds,

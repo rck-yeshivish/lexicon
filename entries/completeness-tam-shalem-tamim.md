@@ -109,15 +109,18 @@ and fails the moment anything is missing or extra.
   financial.
 
 The commentators are bothered by *vayitmu*, "and the days of weeping in mourning
-for Moshe were finished" (Devarim 34:8), which uses a
-cognate of *tam* for the closing of a fixed count of days, a quantitative
-measure. Rabbi Klein leaves two answers standing. One may accept Rabbi
-Wertheimer's supposition that *tam* covers quantitative completion as well as
-qualitative, while *shalem* covers only the quantitative. Or one may answer that
-the completion here is not of the days but of the quality of the mourning:
-Rabbi Moshe Sofer explains that the mourning for Moshe was completed when
-Yisrael compounded the loss of their leader with the realization that they
-could have become his talmidim as Yehoshua did, had they not been lazy.
+for Moshe were finished" (Devarim 34:8), which uses a cognate of *tam* for the
+closing of a fixed count of days, a quantitative measure. Rabbi Klein leaves two
+answers standing.
+
+- One may accept Rabbi Wertheimer's supposition that *tam* covers quantitative
+  completion as well as qualitative, while *shalem* covers only the
+  quantitative.
+- Or one may answer that the completion here is not of the days but of the
+  quality of the mourning: Rabbi Moshe Sofer explains that the mourning for
+  Moshe was completed when Yisrael compounded the loss of their leader with the
+  realization that they could have become his talmidim as Yehoshua did, had they
+  not been lazy.
 
 Rabbi Yaakov Tzvi Mecklenburg applies Pappenheim's distinction to *sheva
 shabbasos temimos* (Vayikra 23:15): Chazal teach that the weeks are *temimos*

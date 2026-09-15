@@ -113,13 +113,15 @@ each day at becoming better, then not only the final count has significance but
 every single day. That is exactly what a *moneh* count is not.
 
 ### moneh, minyan (מונה, מנין)
-Root מ-נ-ה. Mecklenburg derives *moneh* from *maneh*, a respectable portion, so
-that what enters a *moneh* count is by definition worth counting. Rabbi Shlomo
-Pappenheim takes the two-letter root מ-נ as creating order out of causes and
-effects, and heads one group of its derivatives with *moneh* and *minyan*, since
-counting seeks to create mathematical order by quantifying a set of givens; *min*,
-a species, derives from the same root, since it too determines what belongs in
-one grouping and what is excluded.
+Root מ-נ-ה.
+
+- Mecklenburg derives *moneh* from *maneh*, a respectable portion, so that what
+  enters a *moneh* count is by definition worth counting.
+- Rabbi Shlomo Pappenheim takes the two-letter root מ-נ as creating order out of
+  causes and effects, and heads one group of its derivatives with *moneh* and
+  *minyan*, since counting seeks to create mathematical order by quantifying a
+  set of givens; *min*, a species, derives from the same root, since it too
+  determines what belongs in one grouping and what is excluded.
 
 In a *moneh* count the final number is the only requirement: the ten men needed
 for the parts of davening that call for a quorum, or the seven sprinklings the

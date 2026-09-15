@@ -82,16 +82,16 @@ approach to it ("I am coming home"). Hence Rachel is described as "coming" while
 still on her way to the well (Bereishis 29:9), and Yosef as "coming" while his
 brothers still saw him from afar (Bereishis 37:19).
 
-Rabbi Pappenheim and Rabbi Aharon Marcus take *bo* back to the single letter
-ב, "inside," the same sense the letter carries as a non-root prefix: one who
-comes to a place goes inside it and stops coming, because he has arrived, even
-though *bo*/*biah* can still be used of him while he is on the way. Rabbi Klein
-adds that this may perhaps give a better understanding of the Tosafists' and the
-Zohar's assumption that *bo* implies going inside. Rav Hirsch similarly connects
-*bo* to the phonetically similar *po* ("here") through the interchange of beis
-and peh: *bo* fixes on the final destination as *po* fixes on the present
-location, and he adds *peh* ("mouth"), the terminus into which food is destined
-to go.
+- Rabbi Pappenheim and Rabbi Aharon Marcus take *bo* back to the single letter
+  ב, "inside," the same sense the letter carries as a non-root prefix: one who
+  comes to a place goes inside it and stops coming, because he has arrived, even
+  though *bo*/*biah* can still be used of him while he is on the way. Rabbi
+  Klein adds that this may perhaps give a better understanding of the Tosafists'
+  and the Zohar's assumption that *bo* implies going inside.
+- Rav Hirsch similarly connects *bo* to the phonetically similar *po* ("here")
+  through the interchange of beis and peh: *bo* fixes on the final destination
+  as *po* fixes on the present location, and he adds *peh* ("mouth"), the
+  terminus into which food is destined to go.
 
 The *Baal HaTurim* also reads *bo* as a gematria of three, alluding to the three
 makkos remaining. Rabbi Menachem Mendel Kasher answers that this cannot be why
@@ -101,26 +101,32 @@ more (Shemos 7:26, 9:1) when three makkos did not remain.
 ### lech / halichah (הלך, הליכה)
 The counterpart term throughout: on the Tosafists' reading, simply going
 somewhere without the sense of entering; on Rabbi Elimelech's, without
-repetition and without any implication of willingness. Rabbi Klein offers
-two theories of his own, the first as an English speaker's temptation rather
-than as a finding. First, that *bo* and *lech* answer to English "come" and "go": *bo*
-fixes primarily on one's destination ("come to"), *lech* on one's place of
-departure ("go from"). Alternatively, one could argue that *biah* denotes a change of place
-however it came about, while *halichah* denotes specifically the act of walking.
-Rabbi Klein adds that a Biblical concordance would have to
-be consulted to see how well any of these theories pans out.
+repetition and without any implication of willingness. Rabbi Klein offers two
+theories of his own, the first as an English speaker's temptation rather than as
+a finding.
+
+- First, that *bo* and *lech* answer to English "come" and "go": *bo* fixes
+  primarily on one's destination ("come to"), *lech* on one's place of departure
+  ("go from").
+- Alternatively, one could argue that *biah* denotes a change of place however
+  it came about, while *halichah* denotes specifically the act of walking.
+
+Rabbi Klein adds that a Biblical concordance would have to be consulted to see
+how well any of these theories pans out.
 
 ### atah (אתה)
 A biblical word for coming (Devarim 33:2, Yeshayahu 21:12), appearing in both
-the Hebrew and the Aramaic portions of Tanach. Rabbi Pappenheim: *atah* is a
-coming with more finality. Like *bo* it is oriented to the destination, but unlike
-*bo* it refers only to arriving, never to the journey there. The Malbim (*Yair
-Ohr*) cites this distinction between *bo* and *atah* in Rabbi Pappenheim's name.
-Of Devarim 33:2, where Hashem *ba* from Sinai and *atah* from the holy
-multitudes, the commentators explain that the two words are synonymous but from
-two languages, *ba* Hebrew and *atah* Aramaic, the Torah using an Aramaic word
-there to allude to Hashem's having first offered the Torah to the other nations
-before giving it to the Jews.
+the Hebrew and the Aramaic portions of Tanach.
+
+- Rabbi Pappenheim: *atah* is a coming with more finality. Like *bo* it is
+  oriented to the destination, but unlike *bo* it refers only to arriving, never
+  to the journey there. The Malbim (*Yair Ohr*) cites this distinction between
+  *bo* and *atah* in Rabbi Pappenheim's name.
+- Of Devarim 33:2, where Hashem *ba* from Sinai and *atah* from the holy
+  multitudes, the commentators explain that the two words are synonymous but
+  from two languages, *ba* Hebrew and *atah* Aramaic, the Torah using an Aramaic
+  word there to allude to Hashem's having first offered the Torah to the other
+  nations before giving it to the Jews.
 
 Rabbi Pappenheim derives *atah* from the single letter ת, which stands for
 bordering, since it closes the alef-beis. A border links two bodies and

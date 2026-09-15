@@ -46,22 +46,25 @@ is a technical term.
 ## Distinctions
 
 ### peger (פגר)
-Some twenty-two appearances in Tanach, among them the sentence on the
-wilderness generation, where it falls three times: "in this wilderness your
-*pegarim* shall drop... you are *pegarim* who shall fall in the wilderness...
-until your *pegarim* are finished in the wilderness" (Bamidbar 14:29-33). Rabbi
-Eliyahu HaBachur (*Sefer HaTishbi*, and his glosses to Radak's *Sefer
-HaShorashim*): *peger* is a human body, and specifically the rotting body of a
-wicked man. He allows one exception, Bereishis 15:11, where *peger* names the
-animal carcasses of the Bris bein HaBesarim; Rashi there writes that *peger* is
-related to *pigul*, disgusting, and other commentators note that reish and lamed
-are sometimes interchanged. Rabbi Shlomo Pappenheim maintains that *peger* is a
-portmanteau of *po gar*, "here he lives," but does not elaborate; Rabbi Klein
-suggests this possibly refers to the dead body being immobile, unable to move
-elsewhere, so that it lives in its place for eternity. In Aramaic the root
-פ-ג-ר carries inactivity or at least lagging behind: a festival is a *yoma
-d'pagra*, a day of no work, and the Modern Hebrew cognate *mifager* means
-"retard."
+Some twenty-two appearances in Tanach, among them the sentence on the wilderness
+generation, where it falls three times: "in this wilderness your *pegarim* shall
+drop... you are *pegarim* who shall fall in the wilderness... until your
+*pegarim* are finished in the wilderness" (Bamidbar 14:29-33).
+
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, and his glosses to Radak's *Sefer
+  HaShorashim*): *peger* is a human body, and specifically the rotting body of a
+  wicked man. He allows one exception, Bereishis 15:11, where *peger* names the
+  animal carcasses of the Bris bein HaBesarim.
+- Rashi there writes that *peger* is related to *pigul*, disgusting, and other
+  commentators note that reish and lamed are sometimes interchanged.
+- Rabbi Shlomo Pappenheim maintains that *peger* is a portmanteau of *po gar*,
+  "here he lives," but does not elaborate; Rabbi Klein suggests this possibly
+  refers to the dead body being immobile, unable to move elsewhere, so that it
+  lives in its place for eternity.
+
+In Aramaic the root פ-ג-ר carries inactivity or at least lagging behind: a
+festival is a *yoma d'pagra*, a day of no work, and the Modern Hebrew cognate
+*mifager* means "retard."
 
 ### neveilah (נבלה)
 Close to fifty appearances. Its root sense is *balah*, worn out or decayed,
@@ -71,10 +74,12 @@ meat is forbidden. Rabbi Eliyahu HaBachur holds that *neveilah* can name human
 remains as well, but only where the person was killed by an outside force, not
 where he died naturally. He raises the difficulty of Yeshayahu 26:19, "may Your
 dead live, my *neveilah* shall arise": why would the navi call himself that?
-One answer is that Yeshayahu was killed by his grandson Menashe (Yevamos 49b),
-so his own body fits the definition. Another is that "my *neveilah*" is not his
-own body at all but the bodies of future martyrs whose devotion resembled his,
-and they too were killed by outside forces.
+
+- One answer is that Yeshayahu was killed by his grandson Menashe (Yevamos 49b),
+  so his own body fits the definition.
+- Another is that "my *neveilah*" is not his own body at all but the bodies of
+  future martyrs whose devotion resembled his, and they too were killed by
+  outside forces.
 
 ### challal (חלל)
 Close to a hundred appearances. The root means empty or hollow: a human body

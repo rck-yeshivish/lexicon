@@ -116,14 +116,17 @@ Even-Shoshan's concordance.
 
 ### avot (עבוט)
 Root ע-ב-ט. The noun occurs four times, all in Ki Seitzei (Devarim 24:10-13),
-the verb five times, all in Devarim (15:6, 15:8, 24:10). Rashi (Bava Kamma 115a)
-glosses it *mashkon*. Rav Hirsch (to Shemos 22:25, Devarim 15:6, Tehillim 2:3)
-and Tedeschi-Ashkenazi both tie *avot* to *eved*, tes and dalet interchanging:
-an *eved* is tied down to his master's whims and stripped of his freedom, and so
-the borrower is bound to his lender, whom the pasuk itself
-calls his master (Mishlei 22:7); an *avot*, likewise, is an item detained by the
-creditor, its owner no longer free to use it. Rav Hirsch further connects *avot*
-to its homonym *avos* with a final tav, a thick rope used to tie things down.
+the verb five times, all in Devarim (15:6, 15:8, 24:10).
+
+- Rashi (Bava Kamma 115a) glosses it *mashkon*.
+- Rav Hirsch (to Shemos 22:25, Devarim 15:6, Tehillim 2:3) and
+  Tedeschi-Ashkenazi both tie *avot* to *eved*, tes and dalet interchanging: an
+  *eved* is tied down to his master's whims and stripped of his freedom, and so
+  the borrower is bound to his lender, whom the pasuk itself calls his master
+  (Mishlei 22:7); an *avot*, likewise, is an item detained by the creditor, its
+  owner no longer free to use it.
+- Rav Hirsch further connects *avot* to its homonym *avos* with a final tav, a
+  thick rope used to tie things down.
 
 Two other words seem to come from ע-ב-ט with quite different meanings: a verb in
 Yoel 2:7 meaning to stop, and the noun *avtit* in Chavakuk 2:6, possibly thick
@@ -133,13 +136,15 @@ a container for produce.
 ### rahan (רהן)
 The Mishnah (Eduyos 8:2) uses it of a Jewish girl handed to non-Jewish creditors
 as security until her family could pay, the question there being whether she may
-afterward marry a Kohen. Tosafos Yom Tov (Rabbi Gershon Shaul Yom Tov Lipman
-Heller): a *mashkon* is given
-for a debt already owed, *rahan* is what a would-be borrower places with a
-would-be lender so that he will trust him enough to lend, which he finds
-implicit in the Rambam (*Hilchos Maaser Sheini* 3:18). Rav Hirsch (to Tehillim
-37:35) links it to *raanan*, "fresh": as freshness is continuous moisture, so
-*rahan* stays with the creditor until the debt is paid in full.
+afterward marry a Kohen.
+
+- Tosafos Yom Tov (Rabbi Gershon Shaul Yom Tov Lipman Heller): a *mashkon* is
+  given for a debt already owed, *rahan* is what a would-be borrower places with
+  a would-be lender so that he will trust him enough to lend, which he finds
+  implicit in the Rambam (*Hilchos Maaser Sheini* 3:18).
+- Rav Hirsch (to Tehillim 37:35) links it to *raanan*, "fresh": as freshness is
+  continuous moisture, so *rahan* stays with the creditor until the debt is paid
+  in full.
 
 ### apoteiki (אפותיקי)
 Mishnaic (Gittin 4:4), also *apoteka'i* or *upoteke*. A specific item the

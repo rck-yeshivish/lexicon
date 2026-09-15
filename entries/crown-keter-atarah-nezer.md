@@ -67,12 +67,14 @@ occurrence in Tanach is in the construct *keser malchus*, the royal crown, and
 all three are in Megillas Esther (1:11, 2:17, 6:8).
 
 ### atarah (עטרה)
-The Malbim: a crown that goes all the way around the head and rises above it, and
-which need not belong to a king; *atarah* can name any sort of crown. Others hold
-that the mark of an *atarah* is that it is covered on top, while the others need
-not be. Because *keter* and *atarah* both name what surrounds the head, Tanach
-uses them for surrounding of any kind, much as English "circlet" carries the
-circle in it.
+
+- The Malbim: a crown that goes all the way around the head and rises above it,
+  and which need not belong to a king; *atarah* can name any sort of crown.
+- Others hold that the mark of an *atarah* is that it is covered on top, while
+  the others need not be.
+
+Because *keter* and *atarah* both name what surrounds the head, Tanach uses them
+for surrounding of any kind, much as English "circlet" carries the circle in it.
 
 ### nezer (נזר)
 Related to *zer*, the golden band that ran around several of the kelim of the
