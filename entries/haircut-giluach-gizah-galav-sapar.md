@@ -57,15 +57,18 @@ and the Nazir.
 
 ### giluach (גילוח)
 Root ג-ל-ח, some twenty-three appearances in Tanach, thirteen of them in Chumash,
-the largest share of them in the *metzora* and Nazir purification passages (Vayikra 14:8 and 14:9,
-Bamidbar 6:9, 6:18 and 6:19). Rav Hirsch (to Bereishis 9:21), on the
-interchange of hei, ayin and ches, groups ג-ל-ה (*gilui*, reveal), ג-ל-ע
-(*gala*, open) and ג-ל-ח under one theme of exposing and bringing forward: to
-shave is to *expose* the skin the hair had covered. He reads *ta'ar*, razor,
-from ע-ר-ה the same way, laying bare. Rabbi David Golumb (*Targumna* to Vayikra
-14:9) adds a second strand: ג-ל-ח is ח-ג-ל by metathesis, and ח-ג-ל a form of
-ע-ג-ל, "round," so *giluach* carries both the revealing of *gilui* and the
-circular motion (*igul*) of cutting the hair of the head.
+the largest share of them in the *metzora* and Nazir purification passages
+(Vayikra 14:8 and 14:9, Bamidbar 6:9, 6:18 and 6:19).
+
+- Rav Hirsch (to Bereishis 9:21), on the interchange of hei, ayin and ches,
+  groups ג-ל-ה (*gilui*, reveal), ג-ל-ע (*gala*, open) and ג-ל-ח under one
+  theme of exposing and bringing forward: to shave is to *expose* the skin the
+  hair had covered. He reads *ta'ar*, razor, from ע-ר-ה the same way, laying
+  bare.
+- Rabbi David Golumb (*Targumna* to Vayikra 14:9) adds a second strand: ג-ל-ח
+  is ח-ג-ל by metathesis, and ח-ג-ל a form of ע-ג-ל, "round," so *giluach*
+  carries both the revealing of *gilui* and the circular motion (*igul*) of
+  cutting the hair of the head.
 
 (On ח-ג-ל: no word from it appears in Tanach, but Chazal speak of the widow who
 is *chaglah*, who goes around and earns herself a bad name, Yerushalmi Sotah 3:4,
@@ -99,12 +102,15 @@ different works:
 
 ### galav (גלב)
 Root ג-ל-ב, one appearance only: "take a sharp sword, a razor of a *galav* shall
-you take" (Yechezkel 5:1). Radak: a *galav* is a barber, and "razor of a *galav*"
-means the specially sharp blade barbers used to cut hair quickly. Radak (to
-Yechezkel 5:1 and in *Sefer HaShorashim*) also relates *maglev* to this root,
-seemingly a barber's razor; Rabbi Nosson of Rome (*Sefer HaAruch*) seems instead
-to explain the *maglev* the angel held at Sarah's disposal against Pharaoh
-(Bereishis Rabbah 41:2) as a bridle for reining a donkey.
+you take" (Yechezkel 5:1).
+
+- Radak: a *galav* is a barber, and "razor of a *galav*" means the specially
+  sharp blade barbers used to cut hair quickly. Radak (to Yechezkel 5:1 and in
+  *Sefer HaShorashim*) also relates *maglev* to this root, seemingly a barber's
+  razor.
+- Rabbi Nosson of Rome (*Sefer HaAruch*) seems instead to explain the *maglev*
+  the angel held at Sarah's disposal against Pharaoh (Bereishis Rabbah 41:2) as
+  a bridle for reining a donkey.
 
 - Targum Yonasan uses forms of *galav* for *giluach* (Vayikra 19:27, Bamidbar
   6:19) and even for *ta'ar*, razor (Bamidbar 8:7), and the Targum uses variants
@@ -141,30 +147,27 @@ barber (Kilayim 9:3, Shevi'is 8:5, Shabbos 1:2, Pesachim 4:6, Moed Katan 3:2,
 Keilim 13:1 and 24:5), *misperes* as razor (Keilim 13:1, 16:8) and *misparayim*
 as scissors (Keilim 13:1).
 
-Dr. Chaim Tawil sees the forebear of the term in the Neo-Babylonian
-*sirpu*/*sirapu*, shears or scissors, the same consonants as *sapar* in
-metathesized order; he notes that the Neo-Babylonian word was used specifically
-for shearing *animals*, while Hebrew and Aramaic *sapar* covers cutting human
-hair, animal wool and even vegetables (Tosefta Beitzah 3:19, Beitzah 34a, Keilim
-3:3), and that metathesis of a root's consonants is especially prevalent where a
-reish is involved.
-
-Golumb (*Targumna* to Vayikra 14:9) attempts to reconcile the Targum's
-inconsistency: for Yosef's haircut Onkelos writes *sapar* because in Mitzrayim
-they cut hair with *misparayim*, scissors, while for the *metzora* he leaves
-*giluach* standing, since the *metzora* must be shaved smooth "like a gourd"
-(Sotah 16a), which scissors cannot do. Golumb (to Shemos 9:29 and Vayikra
-14:9) further reads the string ס-פ-ר as
-"circle" or "round," asserting that all these words are related to the Greek
-*sphere*, circle: *l'saper* and *sippur*, telling a story that gets traction as
-it goes around and around; *sfar*, a border city surrounded by its protecting
-wall; and *sapar*, the barber who cuts around the head from one ear to the
-other.
-
-Rabbi Yaakov Tzvi Mecklenburg reads ס-פ-ר, as in *mispar*, as a number used as
-a limit, and the same pair is explained that way: the Aramaic *sapar*, barber,
-limits the growth of his client's hair, as the Aramaic *sfar*, a border, limits a
-nation's territory.
+- Dr. Chaim Tawil sees the forebear of the term in the Neo-Babylonian
+  *sirpu*/*sirapu*, shears or scissors, the same consonants as *sapar* in
+  metathesized order; he notes that the Neo-Babylonian word was used
+  specifically for shearing *animals*, while Hebrew and Aramaic *sapar* covers
+  cutting human hair, animal wool and even vegetables (Tosefta Beitzah 3:19,
+  Beitzah 34a, Keilim 3:3), and that metathesis of a root's consonants is
+  especially prevalent where a reish is involved.
+- Golumb (*Targumna* to Vayikra 14:9) attempts to reconcile the Targum's
+  inconsistency: for Yosef's haircut Onkelos writes *sapar* because in Mitzrayim
+  they cut hair with *misparayim*, scissors, while for the *metzora* he leaves
+  *giluach* standing, since the *metzora* must be shaved smooth "like a gourd"
+  (Sotah 16a), which scissors cannot do. Golumb (to Shemos 9:29 and Vayikra
+  14:9) further reads the string ס-פ-ר as "circle" or "round," asserting that
+  all these words are related to the Greek *sphere*, circle: *l'saper* and
+  *sippur*, telling a story that gets traction as it goes around and around;
+  *sfar*, a border city surrounded by its protecting wall; and *sapar*, the
+  barber who cuts around the head from one ear to the other.
+- Rabbi Yaakov Tzvi Mecklenburg reads ס-פ-ר, as in *mispar*, as a number used
+  as a limit, and the same pair is explained that way: the Aramaic *sapar*,
+  barber, limits the growth of his client's hair, as the Aramaic *sfar*, a
+  border, limits a nation's territory.
 
 ## Rendering guidance
 

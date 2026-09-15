@@ -73,27 +73,31 @@ whether *kurnas* is a big or a small *makeves*.
 - Menachem Ibn Saruk (*Machberes Menachem*) ignores the word altogether and
   lists it under no root.
 
-**What *makavan* means** (Bechoros 7:1, a blemish disqualifying a kohen). Bechoros
-43b says he is hammer-headed; the Mainz Commentary ascribed to Rabbeinu Gershom
-and Rabbi Nosson of Rome (*Sefer HaAruch*), that his forehead and back-head
-protrude outwardly so that his head looks like a *makeves*. Rashi takes a
-slightly different approach, seeing *makavan* as another word for *kardum*, a
-hatchet.
+**What *makavan* means** (Bechoros 7:1, a blemish disqualifying a kohen).
 
-**Whether Maccabee means "hammer."** With a *kaf* it is an acronym of *mi kamocha
-ba'eilim Hashem* (Shemos 15:11): *Peirush Rokeach* there, Rabbi Avraham Saba
-(*Tzror HaMor*), Alshich, the Shelah, and *Zohar Chadash* 73b with the *Biur
-HaGra*; the Chasam Sofer reads *Matisyahu Kohen ben Yochanan*; the Ramak (*Ohr
-Yakar*) and the Maggid of Kozhnitz tie it to *kibui*, extinguishing. With a *kuf*
-it is *makeves*, "hammer," already in Rabbi Yochanan Treves; on that
-understanding Abraham Kahana and Rabbi Eliyahu Shmuel Hartom spelled the word
-with a kuf when they translated the apocrypha into Hebrew, explaining that
-Yehudah was called Maccabee because he fought like a hammer smashing its
-opponents, which Kahana compares to the Frankish king Charles Martel, *martel*
-being Old French for hammer. Rabbi Hartom also floats two further readings: that
-the nickname was given at birth because Yehudah's head was shaped like a hammer
-(compare *makavan* above), and that Maccabee is a shortened *makav-yahu*, from
-*nakav* in the sense of marking or designating, "the one designated by Hashem."
+- Bechoros 43b says he is hammer-headed; the Mainz Commentary ascribed to
+  Rabbeinu Gershom and Rabbi Nosson of Rome (*Sefer HaAruch*), that his forehead
+  and back-head protrude outwardly so that his head looks like a *makeves*.
+- Rashi takes a slightly different approach, seeing *makavan* as another word
+  for *kardum*, a hatchet.
+
+**Whether Maccabee means "hammer."**
+
+- With a *kaf* it is an acronym of *mi kamocha ba'eilim Hashem* (Shemos 15:11):
+  *Peirush Rokeach* there, Rabbi Avraham Saba (*Tzror HaMor*), Alshich, the
+  Shelah, and *Zohar Chadash* 73b with the *Biur HaGra*; the Chasam Sofer reads
+  *Matisyahu Kohen ben Yochanan*; the Ramak (*Ohr Yakar*) and the Maggid of
+  Kozhnitz tie it to *kibui*, extinguishing.
+- With a *kuf* it is *makeves*, "hammer," already in Rabbi Yochanan Treves; on
+  that understanding Abraham Kahana and Rabbi Eliyahu Shmuel Hartom spelled the
+  word with a kuf when they translated the apocrypha into Hebrew, explaining
+  that Yehudah was called Maccabee because he fought like a hammer smashing its
+  opponents, which Kahana compares to the Frankish king Charles Martel, *martel*
+  being Old French for hammer.
+- Rabbi Hartom also floats two further readings: that the nickname was given at
+  birth because Yehudah's head was shaped like a hammer (compare *makavan*
+  above), and that Maccabee is a shortened *makav-yahu*, from *nakav* in the
+  sense of marking or designating, "the one designated by Hashem."
 
 ## Distinctions
 
@@ -110,11 +114,13 @@ Three times: the artisan flattening metal for an idol (Yeshayahu 41:7); "is My
 word not like fire, and like a *patish* that shatters rock" (Yirmiyahu 23:29);
 and Bavel as "the *patish* of the whole earth" (Yirmiyahu 50:23). In the first
 two the Targum simply Aramaicizes it as *patisha*. Its root פ-ט-(י)-ש yields
-nothing else, so its base is hard to pin down: Rabbi Yehudah Aryeh of Carpentras
-(*Aholei Yehuda*) connects it with פ-ש-ט, spreading or flattening, which a
-hammer is adept at; Rabbi Moshe Tedeschi-Ashkenazi derives it from either ט-ו-ש,
-"to fly" (Iyov 9:26), or נ-ט-ש, "to spread" (Bamidbar 11:31), for the chips of
-rock that fly and scatter when stone is struck.
+nothing else, so its base is hard to pin down:
+
+- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehuda*) connects it with פ-ש-ט,
+  spreading or flattening, which a hammer is adept at.
+- Rabbi Moshe Tedeschi-Ashkenazi derives it from either ט-ו-ש, "to fly" (Iyov
+  9:26), or נ-ט-ש, "to spread" (Bamidbar 11:31), for the chips of rock that fly
+  and scatter when stone is struck.
 
 ### kurnas (קורנס)
 Absent from Tanach, Hebrew and Aramaic parts alike, but Rashi glosses *makeves* by

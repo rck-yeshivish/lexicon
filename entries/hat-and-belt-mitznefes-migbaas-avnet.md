@@ -69,11 +69,14 @@ differ from the regular *kohen*'s in that they do not wear the same type of hat,
 and by some opinions not the same type of belt either.
 
 ### migbaas (מגבעת)
-Root ג-ב-ע. The Meiri ties *migbaas* to *kova* (roots ג-ב-ע and כ-ב-ע) because
-the ordinary *kohen*'s hat is a plain one. The Vilna Gaon: a *migbaas* comes
-pre-sewn, ready to put on. Abarbanel connects the word to *givah*, a hill,
-because the hat carried two hill-like humps on top and tied under the chin.
-Rambam has the ordinary *kohen*'s hat actually covering the head.
+Root ג-ב-ע.
+
+- The Meiri ties *migbaas* to *kova* (roots ג-ב-ע and כ-ב-ע) because the
+  ordinary *kohen*'s hat is a plain one.
+- The Vilna Gaon: a *migbaas* comes pre-sewn, ready to put on.
+- Abarbanel connects the word to *givah*, a hill, because the hat carried two
+  hill-like humps on top and tied under the chin.
+- Rambam has the ordinary *kohen*'s hat actually covering the head.
 
 ### mitznefes (מצנפת)
 Root צ-נ-ף.

@@ -74,29 +74,30 @@ Shlomo Aharon Wertheimer (*Biurei Shemos HaNirdafim*) likewise holds that it is
 the more temporally limited watch.
 
 ### netzirah (נצירה)
-Root נ-צ-ר, about sixty occurrences; the initial *nun* often drops. The Vilna
-Gaon (to Mishlei 2:8) postulates that *netzirah* is a more substantial watching
-than *shemirah*. On "*lintzor orchos mishpat vederech chasidav yishmor*" he
-reads two types of upright Jew, the *talmid chacham* wholly given to Torah and
-the *chassid* given to *mitzvos*; many devote themselves to *mitzvos* and only
-a select elite to Torah study, and the *yetzer hara* presses hardest on
-*talmidei chachamim* (Sukkah 52a), so Shlomo HaMelech gave the stronger word
-*netzirah* to the wisdom that shields the scholar and reserved *shemirah* for
-the *chassid*, who needs less protection from the *yetzer hara*.
+Root נ-צ-ר, about sixty occurrences; the initial *nun* often drops.
 
-Another approach: Rabbi Shimon Dov Ber Analak of Shidlitz (1848 to 1907)
-theorizes that *shemirah* implies a passive form of watching over something,
-*netzirah* an active form.
-
-The *Siddur HaRokeach* (on "*chasdecha va'amitcha tamid yitzruni*", Tehillim
-40:12): *netzirah* is watching over something forever, not guarding it from one
-passing danger. Indeed *netzer*, a shoot, from the same root (Yeshayahu 11:1,
-14:19, 60:21; Daniel 11:7), can be cultivated only under constant tending. Wertheimer,
-without citing the Rokeach, says the same, and applies it to "*yishmeru
-chukav vesorosav yintzoru*" (Tehillim 105:45): *mitzvos* are kept *ad hoc* as
-each arises, so *shemirah*; Torah study is unceasing (Yehoshua 1:8), so
-*netzirah*. Wertheimer also calls *netzirah* the best kind of watching, from
-"*yitzrenhu ke'ishon eino*" (Devarim 32:10).
+- The Vilna Gaon (to Mishlei 2:8) postulates that *netzirah* is a more
+  substantial watching than *shemirah*. On "*lintzor orchos mishpat vederech
+  chasidav yishmor*" he reads two types of upright Jew, the *talmid chacham*
+  wholly given to Torah and the *chassid* given to *mitzvos*; many devote
+  themselves to *mitzvos* and only a select elite to Torah study, and the
+  *yetzer hara* presses hardest on *talmidei chachamim* (Sukkah 52a), so Shlomo
+  HaMelech gave the stronger word *netzirah* to the wisdom that shields the
+  scholar and reserved *shemirah* for the *chassid*, who needs less protection
+  from the *yetzer hara*.
+- Another approach: Rabbi Shimon Dov Ber Analak of Shidlitz (1848 to 1907)
+  theorizes that *shemirah* implies a passive form of watching over something,
+  *netzirah* an active form.
+- The *Siddur HaRokeach* (on "*chasdecha va'amitcha tamid yitzruni*", Tehillim
+  40:12): *netzirah* is watching over something forever, not guarding it from
+  one passing danger. Indeed *netzer*, a shoot, from the same root (Yeshayahu
+  11:1, 14:19, 60:21; Daniel 11:7), can be cultivated only under constant
+  tending.
+- Wertheimer, without citing the Rokeach, says the same, and applies it to
+  "*yishmeru chukav vesorosav yintzoru*" (Tehillim 105:45): *mitzvos* are kept
+  *ad hoc* as each arises, so *shemirah*; Torah study is unceasing (Yehoshua
+  1:8), so *netzirah*. Wertheimer also calls *netzirah* the best kind of
+  watching, from "*yitzrenhu ke'ishon eino*" (Devarim 32:10).
 
 ### netirah (נטירה)
 Root נ-ט-ר, the rarest of the three: nine occurrences in the Hebrew portions of

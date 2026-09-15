@@ -44,19 +44,24 @@ and both distance readings are offered to explain that reversal.
 ### haazinu (האזינו)
 From *ozen*, ear. On this reading the verb names the ear's own work, catching
 sound and passing it on, with nothing said about whether the hearer grasped it.
-Rokeach: *haazinu* is simply listening of any kind, the unmarked verb.
-Elsewhere he offers a second distinction: *haazinu* is listening and inferring
-something only said implicitly, against *shema* for what was stated explicitly.
-The Sifrei (to parashas Haazinu): *haazinu* is listening from close range.
+
+- Rokeach: *haazinu* is simply listening of any kind, the unmarked verb.
+  Elsewhere he offers a second distinction: *haazinu* is listening and inferring
+  something only said implicitly, against *shema* for what was stated
+  explicitly.
+- The Sifrei (to parashas Haazinu): *haazinu* is listening from close range.
 
 ### shema (שמע)
-Malbim: *shema* is not merely the physical act; it carries a measure of
-intellectual or emotional grasp of what is heard. Rokeach: *shema* is hearkening
-in response to another's call, that is, hearing that answers. Rabbi Klein notes
-that these two explanations, Malbim's and Rokeach's first, fail to account for
-the change in phraseology between Moshe's opening and Yeshayahu's. The Sifrei: *shema* is listening from a distance, which
-demands that a man be especially attentive to the sound, concentrate properly,
-hear what should be heard, and focus on its meaning.
+
+- Malbim: *shema* is not merely the physical act; it carries a measure of
+  intellectual or emotional grasp of what is heard.
+- Rokeach: *shema* is hearkening in response to another's call, that is,
+  hearing that answers. Rabbi Klein notes that these two explanations, Malbim's
+  and Rokeach's first, fail to account for the change in phraseology between
+  Moshe's opening and Yeshayahu's.
+- The Sifrei: *shema* is listening from a distance, which demands that a man be
+  especially attentive to the sound, concentrate properly, hear what should be
+  heard, and focus on its meaning.
 
 ### the reversal in Devarim and Yeshayahu
 Moshe Rabbeinu opens with *haazinu hashamayim* and *v'sishma haaretz* (Devarim
@@ -73,11 +78,12 @@ alone heard "mouth to mouth, in a clear vision and not in riddles" (Bamidbar
 and that Moshe was used to ascending, having gone up the mountain repeatedly and
 for long stretches.
 
-Chizkuni, Abarbanel and Rabbi Yitzchak Arama reject the Sifrei's assignment and
-define the two verbs the other way round, explaining the difference between the
-two nevi'im accordingly. Some of the Baalei HaTosafos take the two words as
-interchangeable, used for the poetry of the verse; most meforshim will not allow
-true synonyms in lashon hakodesh and therefore must distinguish them.
+- Chizkuni, Abarbanel and Rabbi Yitzchak Arama reject the Sifrei's assignment
+  and define the two verbs the other way round, explaining the difference
+  between the two nevi'im accordingly.
+- Some of the Baalei HaTosafos take the two words as interchangeable, used for
+  the poetry of the verse; most meforshim will not allow true synonyms in lashon
+  hakodesh and therefore must distinguish them.
 
 ## Rendering guidance
 

@@ -89,19 +89,21 @@ There are many theories as to how sectarians came to be called *minim*.
   Greek word for an impure person is *mijan*.
 
 ### apikores (אפיקורוס)
-Never in Tanach; twice in the Mishnah (*Sanhedrin* 10:1, *Avos* 2:14). Rambam
-(*Hilchos Teshuvah* 3:8) gives three: one who denies prophecy altogether, one
-who denies the prophecy of Moshe Rabbeinu, one who denies that Hashem knows
-man's deeds. In his Mishnah commentary he adds the settled usage, anyone who
-denigrates the Torah or those who learn it, matching *Sanhedrin* 99b, which
-defines an *apikores* as one who insults a talmid chacham or insults another in
-his presence. Rambam there connects the word to *hefker*, "ownerless."
-Conventional wisdom ties the term to the Greek philosopher
-Epicurus (341-270 BCE), who taught the hedonistic pursuit of physical pleasure as
-a way of life. Rabbi Eliyahu HaBachur also derives it from a man's name, and adds
-that since the term denotes one who insults talmidei chachamim, it makes sense to
-presume the historical Epicurus behind it was himself given to insulting those
-who learn Torah.
+Never in Tanach; twice in the Mishnah (*Sanhedrin* 10:1, *Avos* 2:14).
+
+- Rambam (*Hilchos Teshuvah* 3:8) gives three: one who denies prophecy
+  altogether, one who denies the prophecy of Moshe Rabbeinu, one who denies
+  that Hashem knows man's deeds. In his Mishnah commentary he adds the settled
+  usage, anyone who denigrates the Torah or those who learn it, matching
+  *Sanhedrin* 99b, which defines an *apikores* as one who insults a talmid
+  chacham or insults another in his presence. Rambam there connects the word to
+  *hefker*, "ownerless."
+- Conventional wisdom ties the term to the Greek philosopher Epicurus (341-270
+  BCE), who taught the hedonistic pursuit of physical pleasure as a way of life.
+- Rabbi Eliyahu HaBachur also derives it from a man's name, and adds that since
+  the term denotes one who insults talmidei chachamim, it makes sense to presume
+  the historical Epicurus behind it was himself given to insulting those who
+  learn Torah.
 
 ### kofer (כופר)
 Root כ-פ-ר. Rambam (*Hilchos Teshuvah* 3:6) gives three *kofrim*: one who denies
@@ -116,10 +118,11 @@ and lion. The bridge to heresy seems to be covering over: one who denies might
 cover up the facts by insisting on the truth of something other than the truth.
 
 ### meshumad (משומד)
-Rambam (*Hilchos Teshuvah* 3:9): one notorious for deliberately transgressing
-any single law or the whole Torah, who has turned his back on Klal Yisrael and
-attached himself to another nation and its religion, uncoerced. Rashba (Responsa
-3:352) rejects "renegade" and follows *Avodah Zarah* 26b, above.
+- Rambam (*Hilchos Teshuvah* 3:9): one notorious for deliberately transgressing
+  any single law or the whole Torah, who has turned his back on Klal Yisrael and
+  attached himself to another nation and its religion, uncoerced.
+- Rashba (Responsa 3:352) rejects "renegade" and follows *Avodah Zarah* 26b,
+  above.
 
 In the berachah praying for the dissolution of heretics we call them
 *malshinim*, informers; but some argue that this is a censored version and that
@@ -158,32 +161,39 @@ in the Syriac dialect of Aramaic its declensions mean to immerse in water: the
 *Peshitta* renders the immersing of vessels in a mikvah (Bamidbar 31:23) with a
 verb from ע-מ-ד, and the usage is common in early Syriac Christian writing,
 especially of baptism; a version of the verb also appears in *Gittin* 67b of
-submerging in water, there with the initial ayin dropped. On this, Rav Hai Gaon,
-cited by Rabbi Moshe Ibn Ezra (*Sefer HaIyunim VeHaDiyunim*) and Rabbi Shlomo Ibn
-Parchon (*Machberes HeAruch*), reads the word as originally *meshuamad*, with an
-ayin that was dropped because it grew too hard to pronounce, so that a *meshumad*
-is specifically a Christian, by his baptism. On Rav Hai Gaon's reading the shin
-is radical to the root, which led the philologist Avraham Even-Shoshan to suggest
-the word reflects the *shaphel* inflection, where an initial shin does grammatical
-work. Because of that reading, Rabbi Moshe Ibn Ezra holds Rabshakeh could not
-have been an actual *meshumad*, since he predated Christianity; Rabbi Shlomo Tzvi
-Shick similarly takes *meshumad* literally as "he who had hitherto immersed in
-waters," a reference to Christians, who baptize by sprinkling water that had stood
-in a vessel and so cannot stand in for a mikvah. Rashbatz (*Magen Avos*) keeps
-both forms, *meshuamad* for Christians and *meshumad* for other idolaters; the
-*Kuzari* (3:65) uses *meshuamadim* of Christians for their baptism. Rabbi Tanchum
-HaYerushalmi (*HaMadrich HaMaspik*) rejects Rav Hai Gaon outright: *meshumad*
-covers any apostate, which is why Chazal (*Sanhedrin* 60a) call Rabshakeh one,
-though he obviously predated Christianity.
+submerging in water, there with the initial ayin dropped.
+
+- On this, Rav Hai Gaon, cited by Rabbi Moshe Ibn Ezra (*Sefer HaIyunim
+  VeHaDiyunim*) and Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*), reads the
+  word as originally *meshuamad*, with an ayin that was dropped because it grew
+  too hard to pronounce, so that a *meshumad* is specifically a Christian, by
+  his baptism. On Rav Hai Gaon's reading the shin is radical to the root, which
+  led the philologist Avraham Even-Shoshan to suggest the word reflects the
+  *shaphel* inflection, where an initial shin does grammatical work.
+- Because of that reading, Rabbi Moshe Ibn Ezra holds Rabshakeh could not have
+  been an actual *meshumad*, since he predated Christianity.
+- Rabbi Shlomo Tzvi Shick similarly takes *meshumad* literally as "he who had
+  hitherto immersed in waters," a reference to Christians, who baptize by
+  sprinkling water that had stood in a vessel and so cannot stand in for a
+  mikvah.
+- Rashbatz (*Magen Avos*) keeps both forms, *meshuamad* for Christians and
+  *meshumad* for other idolaters; the *Kuzari* (3:65) uses *meshuamadim* of
+  Christians for their baptism.
+- Rabbi Tanchum HaYerushalmi (*HaMadrich HaMaspik*) rejects Rav Hai Gaon
+  outright: *meshumad* covers any apostate, which is why Chazal (*Sanhedrin*
+  60a) call Rabshakeh one, though he obviously predated Christianity.
 
 ### mumar (מומר)
 Root מ-ו-ר, to switch. Christian censors sometimes found *meshumad* too
 offensive, and it was switched out for the tamer *mumar*; switching religions
-sounds milder than being destroyed. Rabbi Shmuel
-David Luzzatto: *mumar* is one who changed religion willingly, against the
-coerced-then-persisting *meshumad*. Chasam Sofer (*Kovetz Teshuvos* 79): *mumar* is anyone who traded the eternal Torah for something
-passing, even in one mitzvah, while *meshumad* is reserved for one who rejects
-the whole Torah; he adds that the printers blurred the two in practice.
+sounds milder than being destroyed.
+
+- Rabbi Shmuel David Luzzatto: *mumar* is one who changed religion willingly,
+  against the coerced-then-persisting *meshumad*.
+- Chasam Sofer (*Kovetz Teshuvos* 79): *mumar* is anyone who traded the eternal
+  Torah for something passing, even in one mitzvah, while *meshumad* is reserved
+  for one who rejects the whole Torah; he adds that the printers blurred the two
+  in practice.
 
 ## Rendering guidance
 

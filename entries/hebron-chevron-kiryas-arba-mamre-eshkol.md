@@ -78,37 +78,46 @@ well.
 Rabbi Avraham Menachem Rappaport presses the grammatical objection: Bereishis
 35:27 has *Kiryas HaArba* with the definite article, and a proper noun does not
 take one, so the presence of the hei suggests that *arba* there must be read as
-the common noun "four." Two answers. Rashi (to Bereishis 35:27) *partially* circumvents the problem: in a
-two-word name the article sometimes attaches to the second word while governing
-the compound. Radak (there) also seems to address it: the city carries the name
-for both reasons at once, for Arba the father of the giants and because four
-giants ruled it, so the numeric sense is present and the article is in order.
+the common noun "four." Two answers.
 
-**Who Arba was.** Rashi: the giants' father. Rabbi Dr. Moshe Zidel (d. 1971)
-*speculates* otherwise. Targum Yonasan (to Devarim 1:28) renders "sons of giants"
-as "sons of Ephron the giant," and Zidel takes this to mean that the Targum
-understood Ephron and Arba to be one man, Ephron being the one from whom Avraham
-bought the Me'aras HaMachpelah (Bereishis 23; 25:9; 49:29-30; 50:13). He
-justifies it linguistically: the root of *arba*, ר-ב-ע, is visible in the ordinal
-*revi'i* where the alef drops, and from there he posits a link by metathesis and
-the bet/peh interchange to ע-פ-ר, dust, the root of Ephron. He also leans on
-comparative evidence: the Akkadian *turbu'u* means "dust" and its
-root answers to Hebrew ר-ע-ב, and a possible Hebrew cognate, *rova*, seems to be
-twinned with *avak*, dust (see Bamidbar 23:10). Zidel then theorizes a step
-further, deriving *Chevron* itself from Ephron, ayin interchanging with ches and
-bet with peh, so that Kiryas Arba and Chevron would both be ways of tying the
-city to Ephron. Against this, *Tosefta d'Targum* and the *Peshitta* to Yehoshua
-15:13-14 and 21:11 explicitly make Arba into Tzochar, Ephron's father, with the
-three giants as Ephron's sons; see also Rabbi Chaim Kanievsky, *Taama d'Kra* to
-Bereishis 23:8.
+- Rashi (to Bereishis 35:27) *partially* circumvents the problem: in a two-word
+  name the article sometimes attaches to the second word while governing the
+  compound.
+- Radak (there) also seems to address it: the city carries the name for both
+  reasons at once, for Arba the father of the giants and because four giants
+  ruled it, so the numeric sense is present and the article is in order.
+
+**Who Arba was.**
+
+- Rashi: the giants' father.
+- Rabbi Dr. Moshe Zidel (d. 1971) *speculates* otherwise. Targum Yonasan (to
+  Devarim 1:28) renders "sons of giants" as "sons of Ephron the giant," and
+  Zidel takes this to mean that the Targum understood Ephron and Arba to be one
+  man, Ephron being the one from whom Avraham bought the Me'aras HaMachpelah
+  (Bereishis 23; 25:9; 49:29-30; 50:13). He justifies it linguistically: the
+  root of *arba*, ר-ב-ע, is visible in the ordinal *revi'i* where the alef
+  drops, and from there he posits a link by metathesis and the bet/peh
+  interchange to ע-פ-ר, dust, the root of Ephron. He also leans on comparative
+  evidence: the Akkadian *turbu'u* means "dust" and its root answers to Hebrew
+  ר-ע-ב, and a possible Hebrew cognate, *rova*, seems to be twinned with
+  *avak*, dust (see Bamidbar 23:10). Zidel then theorizes a step further,
+  deriving *Chevron* itself from Ephron, ayin interchanging with ches and bet
+  with peh, so that Kiryas Arba and Chevron would both be ways of tying the
+  city to Ephron.
+- Against this, *Tosefta d'Targum* and the *Peshitta* to Yehoshua 15:13-14 and
+  21:11 explicitly make Arba into Tzochar, Ephron's father, with the three
+  giants as Ephron's sons; see also Rabbi Chaim Kanievsky, *Taama d'Kra* to
+  Bereishis 23:8.
 
 **What Mamre is.** From Bereishis 13:18 it reads as though the Plains of Mamre
 are *in* Chevron rather than another name for it, while Bereishis 23:19 and 35:27
-identify the place Mamre with Chevron and Kiryas Arba. Rashi (to Bereishis
-35:27): Mamre is the name of the plain in which Chevron lies. Rabbi David Zvi
-Hoffmann (1843-1921) theorizes that the city was originally *Elonei Mamre* after
-its warlord Mamre, and took the name Kiryas Arba only later, when the giants
-conquered it.
+identify the place Mamre with Chevron and Kiryas Arba.
+
+- Rashi (to Bereishis 35:27): Mamre is the name of the plain in which Chevron
+  lies.
+- Rabbi David Zvi Hoffmann (1843-1921) theorizes that the city was originally
+  *Elonei Mamre* after its warlord Mamre, and took the name Kiryas Arba only
+  later, when the giants conquered it.
 
 ## Distinctions
 

@@ -61,10 +61,13 @@ is so called because he travels an *orach* and is put up along the way. Ibn
 Janach translates *oreach* outright into the rabbinic *achsanai*.
 
 *Aruchah*, a meal (Yirmiyahu 40:3, 52:34, Mishlei 15:17, Melachim II 25:30),
-comes from the same string. Ibn Saruk (*Machberes*) files it as a separate sense
-of א-ר-ח; Radak says plainly that it belongs with *orach* and *oreach* without
-spelling out how. Rabbi Reuven Chaim Klein suggests that perhaps *aruchah*
-originally meant the food provisions a sojourner took with him on his travels.
+comes from the same string.
+
+- Ibn Saruk (*Machberes*) files it as a separate sense of א-ר-ח.
+- Radak says plainly that it belongs with *orach* and *oreach* without spelling
+  out how.
+- Rabbi Reuven Chaim Klein suggests that perhaps *aruchah* originally meant the
+  food provisions a sojourner took with him on his travels.
 
 Rabbi Shlomo Pappenheim assigns all four (*oreach*, *orach*, *orchah*,
 *aruchah*) to the biliteral ר-ח, "air, space," alongside *revach* (open space),
@@ -75,20 +78,25 @@ with *revach* in it; an *oreach* travels it; an *aruchah* is the meal set out in
 an *oreach*'s honor.
 
 ### ushpiz (אושפיז)
-Aramaic. In Talmudic Aramaic it typically means **host**: *ushpiza* is a male
-host (Rashi and Rabbeinu Chananel to Bava Metzia 24a) and a hostess (Rashi to
-Shabbos 140b), but Rashi to Eruvin 53b takes it as guest. Rabbi Dr. Alexander
-Kohut, Rabbi Dr. Ernest Klein, Rabbi Yaakov Chaim Sofer and others read
-*ushpizchan* as the host (Rashi to Beitzah 4a) and *ushpizi* as the guest,
-though Rabbi Reuven Chaim Klein notes that this does not always seem to hold.
-Rabbi Shmuel Krauss
-and Rabbi Yitzchak Avineri argue that *ushpiz* in the Gemara *never* means
-guest, though it could sometimes mean a guest's accommodations, and that the
-"guest" sense is a later development reflected in the Zohar's parlance. Rabbi
-Reuven Chaim Klein's own guess is that perhaps all of this comes from non-expert
-copyists who introduced spelling errors into the Talmud that obscure which variation
-means what. In Zoharic Aramaic *ushpiz* usually means **guest**: most famously
-the seven *Ushpizin* who grace the sukkah (Zohar *Emor* 103b).
+Aramaic.
+
+- In Talmudic Aramaic it typically means **host**: *ushpiza* is a male host
+  (Rashi and Rabbeinu Chananel to Bava Metzia 24a) and a hostess (Rashi to
+  Shabbos 140b), but Rashi to Eruvin 53b takes it as guest.
+- Rabbi Dr. Alexander Kohut, Rabbi Dr. Ernest Klein, Rabbi Yaakov Chaim Sofer
+  and others read *ushpizchan* as the host (Rashi to Beitzah 4a) and *ushpizi*
+  as the guest, though Rabbi Reuven Chaim Klein notes that this does not always
+  seem to hold.
+- Rabbi Shmuel Krauss and Rabbi Yitzchak Avineri argue that *ushpiz* in the
+  Gemara *never* means guest, though it could sometimes mean a guest's
+  accommodations, and that the "guest" sense is a later development reflected
+  in the Zohar's parlance.
+- Rabbi Reuven Chaim Klein's own guess is that perhaps all of this comes from
+  non-expert copyists who introduced spelling errors into the Talmud that
+  obscure which variation means what.
+
+In Zoharic Aramaic *ushpiz* usually means **guest**: most famously the seven
+*Ushpizin* who grace the sukkah (Zohar *Emor* 103b).
 
 On etymology:
 - Eruvin 53b, as Rashi explains it, plays on *ushpiz* as *ish pi zo chai*, "the
@@ -121,22 +129,23 @@ Nachman's mother was named Ushpiztai, likely from the same word.
 
 ### achsanai (אכסנאי) and achsanyah (אכסניה)
 Twice in the Mishnah (*Demai* 3:1, *Chullin* 8:2), at least once in Targum (to
-Iyov 31:32), and throughout Shas and Midrash. HaBachur (*Sefer HaTishbi*): the guest
-lodging temporarily is the *achsanai*, and the inn or host itself the
-*achsanyah*. As with *ushpiz*, the two words sometimes get mixed up. In
-*Meturgaman* HaBachur renders *achsanyah* by the German and Yiddish *gast*;
-related are the Jewish surname Gastwirth, innkeeper, and German *Gasthaus*,
-guest house. Rabbi
-Dr. Ernest Klein claims *achsanyah* derives from Greek *xenos*, stranger or
-foreigner, with the prosthetic alef common in Greek words taken into Hebrew,
-the same Greek word behind English *xenial*, *xenophobia*, *xenogenous*,
-*xenogamy* and the element xenon. Rabbi Avi Kobernick offers a Hebrew
-derivation from כ-ס-ן, read
-against its metatheses כ-נ-ס (gathering in), ס-כ-ן (storing) and נ-כ-ס
-(property): an *achsanyah* gathers wayfarers in and gives them property in
-which to be housed. Rashi to Berachos 63b glosses *achsanyah* with *machnisei
-orchim*, which Rabbi Reuven Chaim Klein takes as alluding to the link between
-כ-ס-ן and כ-נ-ס that Kobernick posited.
+Iyov 31:32), and throughout Shas and Midrash.
+
+- HaBachur (*Sefer HaTishbi*): the guest lodging temporarily is the *achsanai*,
+  and the inn or host itself the *achsanyah*. As with *ushpiz*, the two words
+  sometimes get mixed up. In *Meturgaman* HaBachur renders *achsanyah* by the
+  German and Yiddish *gast*; related are the Jewish surname Gastwirth,
+  innkeeper, and German *Gasthaus*, guest house.
+- Rabbi Dr. Ernest Klein claims *achsanyah* derives from Greek *xenos*,
+  stranger or foreigner, with the prosthetic alef common in Greek words taken
+  into Hebrew, the same Greek word behind English *xenial*, *xenophobia*,
+  *xenogenous*, *xenogamy* and the element xenon.
+- Rabbi Avi Kobernick offers a Hebrew derivation from כ-ס-ן, read against its
+  metatheses כ-נ-ס (gathering in), ס-כ-ן (storing) and נ-כ-ס (property): an
+  *achsanyah* gathers wayfarers in and gives them property in which to be
+  housed. Rashi to Berachos 63b glosses *achsanyah* with *machnisei orchim*,
+  which Rabbi Reuven Chaim Klein takes as alluding to the link between כ-ס-ן
+  and כ-נ-ס that Kobernick posited.
 
 Arachin 16b, from Rashi to Bereishis 13:3 on Avraham
 stopping at the same lodgings coming back from Mitzrayim as he had on the way

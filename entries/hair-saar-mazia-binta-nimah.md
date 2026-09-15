@@ -67,15 +67,19 @@ the Targumim do not really translate *sa'ar* at all, but simply Aramaicize it
 into *saara*.
 
 ### mazia (מזיא)
-Its etymology is disputed. Rabbi Dr. Jared Greenblatt argues that it is related to the Syriac and Aramaic
-*ma'azia*, goat hair (Targum Onkelos to Shemos 25:4, 26:7, 35:6), plainly a
-cognate of *eiz*, and that in later permutations the *zayin* doubled, giving *mazia*, as if the
-*ayin* had dropped. Rabbi Dr. Alexander Kohut contends the
-opposite, that *mazia* is unrelated to *ma'azia* and derives instead from Old
-Persian, noting its relation to the Old Persian word for the hair of the
-eyebrows. Either way, Rashi (to Devarim 32:24) identifies the *mezei* of *mezei
-ra'av* as the one appearance of this Aramaic word in Tanach; others, including
-Ibn Janach, Ibn Parchon, Ibn Ezra and Radak, explain *mezei* differently.
+Its etymology is disputed.
+
+- Rabbi Dr. Jared Greenblatt argues that it is related to the Syriac and Aramaic
+  *ma'azia*, goat hair (Targum Onkelos to Shemos 25:4, 26:7, 35:6), plainly a
+  cognate of *eiz*, and that in later permutations the *zayin* doubled, giving
+  *mazia*, as if the *ayin* had dropped.
+- Rabbi Dr. Alexander Kohut contends the opposite, that *mazia* is unrelated to
+  *ma'azia* and derives instead from Old Persian, noting its relation to the Old
+  Persian word for the hair of the eyebrows.
+
+Either way, Rashi (to Devarim 32:24) identifies the *mezei* of *mezei ra'av* as
+the one appearance of this Aramaic word in Tanach; others, including Ibn Janach,
+Ibn Parchon, Ibn Ezra and Radak, explain *mezei* differently.
 
 *Mazia* is used of Mordechai asking Haman to cut his hair (Megillah 16a), of
 Rabbi Akiva picking the straw out of Rachel's hair (Nedarim 50a), of Rebbi

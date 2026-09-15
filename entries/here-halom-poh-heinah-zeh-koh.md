@@ -103,13 +103,15 @@ Bereishis 16:13; Shmuel II 7:18; Shoftim 18:3. Targum renders it *halcha* (Shemo
 3:5, Shoftim 18:3), and renders *heinah* the same way (Bereishis 45:5, Yehoshua
 2:2, 3:9); the Talmudic cognate is the *heilach* of Bava Metzia 4a, where a man
 concedes part of a claim and pays it on the spot, "and *heilach*," and the sugya
-turns on whether that counts as a partial admission. *Poh* is the default, and
-Luzzatto, drawing a distinction between a general term for a place and a more
-specific spot within it, has *poh* name the specific one: Avraham before the
-Akeidah, "sit *poh* with the donkey" (Bereishis 22:5); "stand *poh* with Me"
-(Devarim 5:27); the covenant binding those *poh* and those not (Devarim 29:14).
-Wertheimer: it fits a person already standing with the speaker; Targum renders it
-*hacha* (Bereishis 19:12, 22:5, Rus 4:1), and *heinah* too (Yehoshua 2:2).
+turns on whether that counts as a partial admission.
+
+- *Poh* is the default, and Luzzatto, drawing a distinction between a general
+  term for a place and a more specific spot within it, has *poh* name the
+  specific one: Avraham before the Akeidah, "sit *poh* with the donkey"
+  (Bereishis 22:5); "stand *poh* with Me" (Devarim 5:27); the covenant binding
+  those *poh* and those not (Devarim 29:14).
+- Wertheimer: it fits a person already standing with the speaker; Targum renders
+  it *hacha* (Bereishis 19:12, 22:5, Rus 4:1), and *heinah* too (Yehoshua 2:2).
 
 ### heinah (הנה)
 Yosef: "bring my father down *heinah*" (Bereishis 45:13); the Yevusim to David,

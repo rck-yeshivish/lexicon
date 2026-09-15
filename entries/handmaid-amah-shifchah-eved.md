@@ -66,18 +66,20 @@ words cross the line.
    Jewish handmaid is called *amah* because she is not yet mistress of the
    house, and the fear (*aimah*) of the real mistress is upon her.
 
-**The root of shifchah.** Rabbi Yaakov Tzvi Mecklenburg: the root, which he
-writes with a shin, sin or samech before peh and ches, denotes connection or
-addition, so a *shifchah* is joined to the mistress of the house, both expected
-to perform services for the master (compare Kesuvos 59b, that a woman who brings
-a hundred *shefachos* into her marriage still owes certain chores herself);
-*mishpachah*, a family, is otherwise separate individuals connected by familial
-relations. Others, including Rabbi Aharon Marcus and Rabbi Zev Hoberman: the
-root refers specifically to an extra appendage attached to something else,
-whence *sapachas*, a type of tzaraas (Vayikra 13:2), and *sapach*, an appendix;
-a *mishpachah* is the patriarch's children as secondary attachments ascribed to
-him, and a *shifchah* an adjunct attached to the otherwise complete faculty of a
-household.
+**The root of shifchah.**
+
+- Rabbi Yaakov Tzvi Mecklenburg: the root, which he writes with a shin, sin or
+  samech before peh and ches, denotes connection or addition, so a *shifchah* is
+  joined to the mistress of the house, both expected to perform services for the
+  master (compare Kesuvos 59b, that a woman who brings a hundred *shefachos* into
+  her marriage still owes certain chores herself); *mishpachah*, a family, is
+  otherwise separate individuals connected by familial relations.
+- Others, including Rabbi Aharon Marcus and Rabbi Zev Hoberman: the root refers
+  specifically to an extra appendage attached to something else, whence
+  *sapachas*, a type of tzaraas (Vayikra 13:2), and *sapach*, an appendix; a
+  *mishpachah* is the patriarch's children as secondary attachments ascribed to
+  him, and a *shifchah* an adjunct attached to the otherwise complete faculty of
+  a household.
 
 **Whether the Jewish/non-Jewish split is in the words themselves.** Some argue
 *shifchah* inherently means a non-Jewish slave woman and *amah* a Jewish one.
