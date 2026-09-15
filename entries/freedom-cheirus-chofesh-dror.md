@@ -6,6 +6,18 @@ translit: [cheirus, cheirut, cheiruseinu, cheiruteinu, chofesh, chofshi, chofshi
 english: [freedom, liberty, release, emancipation, free of obligation, unowned]
 domain: society
 words:
+  - he: דרור
+    tr: dror
+    en: release
+    distinct: freedom from being owned by another, from subjugation to a particular person who lords over him (Wertheimer); the Yovel word, tied to dar, the freed man dwelling in his own domain (Rashi)
+  - he: חופש
+    tr: chofesh
+    en: free, released
+    distinct: freedom from an obligation to work or serve (Wertheimer); the Tanach's other slave-freeing word; read against chafetz, desire, as negative liberty, the mere absence of coercion (Rabbi Jonathan Sacks)
+  - he: חירות
+    tr: cheirus
+    en: freedom
+    distinct: the later, rabbinic word, freedom as a standing, the ben chorin; never freedom in Tanach; hooked by Avos 6:2 to charus, engraved on the Luchos; positive liberty, law studied until engraved on the heart (Rabbi Jonathan Sacks)
   - he: חרות
     nk: חֵרוּת
 sources:
@@ -25,6 +37,14 @@ the Yovel word. *Chofesh* is freedom from the obligation to serve:
 later, rabbinic word: **freedom** as a standing, the *ben chorin*; for Rabbi
 Jonathan Sacks it is the positive liberty. *Cheirus* never carries the sense of
 freedom in Tanach, only in Chazal.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| דרור | dror | release | free of another's ownership (Wertheimer); the Yovel word; *dar*, dwelling in one's own domain (Rashi) |
+| חופש | chofesh | free, released | free of the obligation to work (Wertheimer); negative liberty, doing as one desires (Sacks) |
+| חירות | cheirus | freedom | rabbinic, not Biblical in this sense; *charus*, engraved; positive liberty (Sacks) |
 
 ## Distinctions
 

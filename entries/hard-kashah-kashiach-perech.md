@@ -6,8 +6,20 @@ translit: [kashah, kasha, kashe, akasheh, kashiach, kashiah, perech, parech, por
 english: [hard, harsh, rigid, difficult, cruel, breaking, back-breaking, pointless]
 domain: other
 words:
+  - he: קשה
+    tr: kashah
+    en: hard
+    distinct: the general word, covering both rigid and difficult; the hard work of Mitzrayim; kin to yesh, existence, and to gishah, impact, since only the solid is felt (Rav Hirsch); a family of hard things (Pappenheim)
+  - he: קשיח
+    tr: kashiach
+    en: cruel, callous
+    distinct: not hardness of substance but cruelty (Ibn Ezra, Radak), specifically estrangement from one a person should love (Rabbi Shlomo Ibn Melech); a portmanteau of kashah and sach, removing the harshness from one's thoughts (Metzudas Tzion)
+  - he: פרך
+    tr: perech
+    en: back-breaking, pointless
+    distinct: literally breaking, back-breaking labor (Rashi); breaking as separating, tied to paroches (Rav Hirsch); needless work with no limit (Toras Kohanim, Rabbi Saadia Gaon); breaking a routine so nothing is finished (Pappenheim); more or less equivalent to kashah (Rabbi Klein)
   - he: פרוכת
-    nk: פָּרוֹכֶת
+    nk: פָּרוֹכֶת
 sources:
   - wiaw:9005 "Shemot: Hard Work and Hard Hearts" (2021-01-09) https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts
 authorities: [Rabbi Shlomo of Urbino, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rashi, Rabbi Shlomo Pappenheim, Ibn Ezra, Radak, Rabbi Shlomo Ibn Melech, Metzudas Tzion, Rabbi Saadia Gaon, Toras Kohanim]
@@ -25,6 +37,14 @@ Melech specifically toward those one should love: **cruel, callous**. *Perech* l
 **back-breaking** labor, or, on a second line of reading, **pointless** labor,
 work with no end and no product. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the
 three as the Hebrew words for hard.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| קשה | kashah | hard | general; both rigid and difficult; solidity and impact (Rav Hirsch) |
+| קשיח | kashiach | cruel, callous | cruelty (Ibn Ezra, Radak), toward those one should love (Ibn Melech) |
+| פרך | perech | back-breaking, pointless | back-breaking (Rashi); pointless, never finished (Saadia Gaon, Pappenheim) |
 
 ## Distinctions
 

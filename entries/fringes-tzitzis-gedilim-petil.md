@@ -6,8 +6,27 @@ translit: [tzitzis, tzitzit, tzitz, tzitzin, gedilim, gedilin, gadil, gedil, gud
 english: [fringes, braided cords, thread, four-cornered garment, hem]
 domain: ritual
 words:
+  - he: ציצית
+    tr: tzitzis
+    en: fringes
+    distinct: named for what protrudes from the garment and so is highly visible (Rashi, Malbim); from the single letter tzadi, outwardness (Pappenheim); the two thirds that hang loose like a branch (Radak)
+  - he: גדילים
+    tr: gedilim
+    en: braided cords
+    distinct: the same strings named for the braided third, thickened by twisting so it seems to have grown (Radak, Rav Hirsch); or the strings expanding the garment's edge (Rabbi Yosef Kimchi)
+  - he: פתיל
+    tr: petil
+    en: thread
+    distinct: the single thread of techeiles; named for snug twisting, or for separateness, bound into the tzitzis yet apart since it alone is dyed (Rav Hirsch)
   - he: טלית
-    nk: טַלִּית
+    tr: tallis
+    en: four-cornered garment
+    nk: טַלִּית
+    distinct: not the fringes but the garment that carries them, and Rabbinic Hebrew only; the special garment with tzitzis worn at prayer (Rabbi Eliyahu HaBachur); placed upon the other clothes (Rav Matzliach Gaon) or from tillel, shade (Rabbi Nosson of Rome, Rabbi Ernest Klein)
+  - he: כרוספדין
+    tr: kruspidin
+    en: hem, fringe
+    distinct: the Targum's Aramaic for both tzitzis and gedilim; a loanword from Greek kraspedon, the fringe or hem of a garment (Rabbi Binyamin Mussafia); Persian instead (Kohut)
   - he: ציץ
     nk: צִיץ
 sources:
@@ -31,6 +50,16 @@ for its separateness. *Tallis* is not the fringes at all but the **four-cornered
 garment** that carries them, and it is Rabbinic Hebrew only. *Kruspidin* is the
 Targum's Aramaic for *tzitzis* and *gedilim*, a Greek loanword for the **hem or
 fringe** of a garment. *Tzitzis* and *tallis* are not interchangeable.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ציצית | tzitzis | fringes | what protrudes and is seen (Malbim); the loose-hanging branch part (Radak) |
+| גדילים | gedilim | braided cords | the braided third, thickened so it looks grown (Rav Hirsch) |
+| פתיל | petil | thread | the one *techeiles* thread; snug twisting, or set apart (Rav Hirsch) |
+| טלית | tallis | four-cornered garment | the garment itself, not its strings; Rabbinic Hebrew only |
+| כרוספדין | kruspidin | hem, fringe | the Targum's word for both; Greek *kraspedon*, a garment's hem (Mussafia) |
 
 ## Distinctions
 

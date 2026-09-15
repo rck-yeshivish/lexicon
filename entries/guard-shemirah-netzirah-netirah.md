@@ -5,6 +5,19 @@ roots: [ש-מ-ר, נ-צ-ר, נ-ט-ר]
 translit: [shemirah, shmirah, shemira, shomer, shamar, tishmor, netzirah, netzira, notzer, yitzrenhu, yitzruni, yintzoru, netirah, netira, notrah, natarti, lo titor, netur]
 english: [guard, watch, safeguard, keep, preserve, wait, hold on to, harbor]
 domain: action
+words:
+  - he: שמירה
+    tr: shemirah
+    en: guard, watch, keep
+    distinct: the general word, typically of a tangible thing that can be damaged, stolen or lost (Malbim); also waiting for the right moment; temporary, against a passing threat (Siddur HaRokeach, Wertheimer); passive watching (Rabbi Shimon Dov Ber Analak)
+  - he: נצירה
+    tr: netzirah
+    en: safeguard, watch over
+    distinct: the stronger watch (Vilna Gaon, Wertheimer), given to the wisdom that shields the scholar (Vilna Gaon); perpetual, not against one passing danger, as a netzer shoot needs constant tending (Siddur HaRokeach, Wertheimer); active watching (Rabbi Shimon Dov Ber Analak)
+  - he: נטירה
+    tr: netirah
+    en: harbor, hold on to
+    distinct: not physical guarding but holding a conception in the mind, hence lo sitor, harboring a grievance (Malbim); can extend to the abstract (Wertheimer); localized, specific guardianship (Rabbi Dr. Asher Weiser)
 sources:
   - wiaw:11813 "Acharei Mos/Kedoshim: The Watchers and Guardians" (2025-05-10) https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
@@ -23,6 +36,14 @@ and Wertheimer, the stronger watch, and for the Rokeach and Wertheimer the
 perpetual one: **safeguard**, **watch over** (unceasingly). *Netirah*, for
 Malbim, is holding something in the mind: **harbor** (a grudge), **hold on to**. *Lo sitor* (Vayikra 19:18) does not mean "do not guard" but "do
 not keep it stored up inside."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שמירה | shemirah | guard, watch, keep | general; tangible things (Malbim); temporary, or waiting for the right time (Rokeach) |
+| נצירה | netzirah | safeguard, watch over | stronger (Vilna Gaon); perpetual, like tending a shoot (Rokeach, Wertheimer) |
+| נטירה | netirah | harbor, hold on to | holding something in the mind, as a grudge (Malbim) |
 
 ## Distinctions
 

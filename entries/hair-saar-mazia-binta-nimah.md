@@ -7,7 +7,22 @@ english: [hair, a hair, strand, lock, head of hair, thread, string]
 domain: body
 words:
   - he: שער
+    tr: saar
+    en: hair
     nk: שֵׂעָר
+    distinct: the plain Hebrew word, for one strand or hair collectively; some medakdekim make se'ar a patch and se'arah one strand (Tosafos Yom Tov); taken into Aramaic as saara in its general sense (Rabbi Klein)
+  - he: מזיא
+    tr: mazia
+    en: hair, a head of hair
+    distinct: a patch of hair (Rabbi Klein); related to ma'azia, goat hair (Rabbi Dr. Jared Greenblatt), or from Old Persian (Rabbi Dr. Alexander Kohut); the whole from which a binta comes loose
+  - he: בינתא
+    tr: binta
+    en: a hair
+    distinct: one single strand (Rabbi Klein), as a hair drawn out of milk; only three times in Targum (Rabbi Eliyahu HaBachur); the strand that comes loose from the mazia
+  - he: נימא
+    tr: nimah
+    en: string, thread
+    distinct: the ordinary Talmudic word for a hair, but the hair sense seems secondary and borrowed; elsewhere a string or cord; hair that sticks out or is unwanted (Rabbi Klein)
 sources:
   - wiaw:8754 "All About Hair" (2020-06-20) https://articles.ohr.edu/articles/all-about-hair
 authorities: [Rashi, Ibn Janach, Ibn Parchon, Ibn Ezra, Radak, Rabbi Eliyahu HaBachur, Tosafos Yom Tov, Rabbi Avraham Meir Israel, Rabbi Dr. Jared Greenblatt, Rabbi Dr. Alexander Kohut]
@@ -25,6 +40,15 @@ hair, **hair** or **a head of hair**; *binta* is one single strand, **a hair**;
 *nimah* is a hair that protrudes or is unwanted, and outside the hair sense it
 is a **string** or **thread**. *Binta* and *mazia* stand side by side in Yoma
 69b and Bava Metzia 84b, where a single *binta* comes loose from the *mazia*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שער | saar | hair | the plain word, one strand or all the hair; Aramaic *saara* |
+| מזיא | mazia | hair, a head of hair | a patch of hair (Klein); goat hair (Greenblatt) or Persian (Kohut) |
+| בינתא | binta | a hair | one single strand (Klein); comes loose from the *mazia* |
+| נימא | nimah | string, thread | hair that sticks out or is unwanted (Klein); first a string or thread |
 
 ## Distinctions
 

@@ -7,7 +7,22 @@ english: [guest, wayfarer, host, lodging, inn, meal, way, caravan]
 domain: society
 words:
   - he: אורח
+    tr: oreach
+    en: guest, wayfarer
     nk: אוֹרֵחַ
+    distinct: the biblical word, one who travels an orach, a road, and is put up along the way (Ibn Janach, Radak); the one who travels a wide road with space in it (Pappenheim)
+  - he: אושפיז
+    tr: ushpiz
+    en: host, guest
+    distinct: Aramaic, pointing both ways; in the Gemara usually the host (Rashi, Rabbeinu Chananel), never the guest (Rabbi Shmuel Krauss, Rabbi Yitzchak Avineri); in the Zohar usually the guest, as the Ushpizin; from Latin hospes (Rabbi Eliyahu HaBachur)
+  - he: אכסנאי
+    tr: achsanai
+    en: guest
+    distinct: the rabbinic word for the guest lodging temporarily, as against achsanyah, the inn or host (Rabbi Eliyahu HaBachur); the two words sometimes get mixed up
+  - he: אכסניה
+    tr: achsanyah
+    en: lodging, host
+    distinct: the inn or the host who provides it (Rabbi Eliyahu HaBachur), the host at Arachin 16b; from Greek xenos, stranger (Rabbi Ernest Klein), or a Hebrew root of gathering in (Rabbi Avi Kobernick)
 sources:
   - wiaw:10698 "Be My Guest" (2022-11-12) https://articles.ohr.edu/articles/be-my-guest
 authorities: [Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashi, Rabbeinu Chananel, Tosafos, Rabbi Eliyahu HaBachur, Rabbi Yaakov Emden, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yitzchak Avineri, Rabbi Dr. Ernest Klein, Rabbi Avi Kobernick, Rabbi Yaakov Chaim Sofer, Rabbi Dr. Alexander Kohut, Rabbi Shmuel Krauss, Ludwig Koehler, Walter Baumgartner]
@@ -25,6 +40,15 @@ provides it. *Ushpiz* is Aramaic and cuts both ways: in the Gemara usually the
 **host**, in the Zohar (the *Ushpizin* of Sukkos) usually the **guest**.
 *Achsanyah* shares something of that ambiguity: both words can point sometimes
 to the guest and sometimes to the host.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אורח | oreach | guest, wayfarer | biblical; the wayfarer on the *orach*, road (Ibn Janach, Radak) |
+| אושפיז | ushpiz | host, guest | Gemara, usually the host (Rashi); Zohar, the guest (*Ushpizin*) |
+| אכסנאי | achsanai | guest | the rabbinic guest, lodging temporarily (HaBachur) |
+| אכסניה | achsanyah | lodging, host | the inn or the host (HaBachur); Greek *xenos* (Ernest Klein) |
 
 ## Distinctions
 

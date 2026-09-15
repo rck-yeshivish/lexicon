@@ -5,6 +5,19 @@ roots: [ג-נ, ג-נ-נ, ג, פ-ר-ד-ס, פ-ר-ד]
 translit: [gan, ginah, gina, ginot, ginos, ginunyita, pardes, pardeis, pardesim, pardeisim, bustan, bustana, bostan, haganah, hagana, magen, yagen, migen, agan, niggun, nigun, ken, kan tzipor]
 english: [garden, orchard, park, enclosure, paradise]
 domain: nature
+words:
+  - he: גן
+    tr: gan
+    en: garden
+    distinct: the general word, an enclosed plot fenced and guarded so its growth is not trampled (Radak, Pappenheim); for vegetables and flowers (Rabbi Yosef Kara, Metzudas Tzion) or of several species (Ibn Ezra); the only common one in Tanach
+  - he: פרדס
+    tr: pardes
+    en: orchard
+    distinct: fruit trees (Rabbi Yosef Kara, Metzudas Tzion); one species (Ibn Ezra, Wertheimer) or many in separate rows (Rabbi David Luria); the grander, exclusive plot (Bedersi) or the smaller (Rabbi Yedaiah HaPenini); a Persian loanword (Rabbi Ernest Klein)
+  - he: בוסתן
+    tr: bustan
+    en: garden
+    distinct: the ordinary word for a garden in the Aramaic of the Gemara; defined by pardes (Rashi) and by gan (Rashbam); a loanword from Middle Persian bostan (Rabbi Ernest Klein)
 sources:
   - wiaw:11105 "Enter the Garden (Part 1 of 2)" (2023-09-23) https://articles.ohr.edu/articles/enter-the-garden-part-1-of-2
   - wiaw:11106 "Enter the Garden (Part 2 of 2)" (2023-09-30) https://articles.ohr.edu/articles/enter-the-garden-part-2-of-2
@@ -22,6 +35,14 @@ the only common one of the three, and in the Mishnah it appears as *ginah*.
 grander word; Koheles names both in one pasuk (Koheles 2:5), which suggests they
 are not synonyms. *Bustan* is Talmudic Aramaic for a **garden**, a Persian word,
 and Rashi in places defines it by *pardes* while Rashbam defines it by *gan*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גן | gan | garden | the general, enclosed and guarded plot (Radak, Pappenheim); vegetables and flowers (Kara) |
+| פרדס | pardes | orchard | fruit trees (Kara); one species (Ibn Ezra); grander than *gan* (Bedersi); Persian loanword |
+| בוסתן | bustan | garden | Talmudic Aramaic; *pardes* for Rashi, *gan* for Rashbam; Persian |
 
 ## Distinctions
 

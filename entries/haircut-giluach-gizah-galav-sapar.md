@@ -6,8 +6,23 @@ translit: [giluach, gilu'ach, galach, gizah, geziza, gezizah, gozez, geiz, galav
 english: [shaving, haircutting, shearing, barber, razor]
 domain: action
 words:
+  - he: גילוח
+    tr: giluach
+    en: shaving
+    distinct: a person's hair cut down to the skin (Pappenheim); exposing the skin the hair had covered (Rav Hirsch), with the circular motion of cutting too (Rabbi David Golumb); the Torah's word for the metzora and the Nazir
+  - he: גזיזה
+    tr: gizah
+    en: shearing
+    distinct: typically an animal's wool, of a human only in a borrowed sense (Pappenheim, Yerios Shlomo); a cut that leaves a remnant standing, stubble (Pappenheim, Cheshek Shlomo)
+  - he: גלב
+    tr: galav
+    en: barber
+    distinct: one appearance only, a barber (Radak); perhaps Aramaic; from Greek (Rashi, Mahari Kara); a loanword from Akkadian gallabu (Dr. Chaim Tawil); tied to peeling (Rav Hirsch) or to gvul, border (Rabbi David Golumb)
   - he: ספר
-    nk: סַפָּר
+    tr: sapar
+    en: barber
+    nk: סַפָּר
+    distinct: absent from Tanach, standard in the Targumim and Mishnah, and the everyday word now; from Neo-Babylonian sirpu, shears (Dr. Chaim Tawil); the barber cutting around the head (Rabbi David Golumb) or limiting the hair's growth (Mecklenburg)
   - he: תער
     nk: תַּעַר
 sources:
@@ -28,6 +43,15 @@ leaves something standing.
 *Sapar* is not Biblical at all: it is the Targumic and Mishnaic word, "barber"
 and "to give a haircut," and it is the ordinary word today. The Torah uses *giluach* for the *metzora*
 and the Nazir.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גילוח | giluach | shaving | a close shave, of a person (Pappenheim); exposing the skin (Rav Hirsch) |
+| גזיזה | gizah | shearing | an animal's wool; leaves something standing (Pappenheim) |
+| גלב | galav | barber | a barber, once only in Tanach (Radak); Akkadian *gallabu* (Tawil) |
+| ספר | sapar | barber | not Biblical; Targumic and Mishnaic, and today's word; limits growth (Mecklenburg) |
 
 ## Distinctions
 

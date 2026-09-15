@@ -5,6 +5,19 @@ roots: [מ-ח-ל, ס-ל-ח, כ-פ-ר]
 translit: [mechilah, mechila, mechilas, mechilat, mochel, mocheil, mechal, selichah, selicha, soleach, solei'ach, selach, salachti, selichos, selichot, kapparah, kappara, kaparah, kapara, mechaper, mechapeir, kaper, kippur, kippurim, kapporet, kapores, kofer, kapparos, kapparot]
 english: [forgiveness, pardon, atonement]
 domain: action
+words:
+  - he: סליחה
+    tr: selichah
+    en: forgiveness
+    distinct: forgiveness proper, the bond between the sinner and the One sinned against mended (Rav Hirsch); the Biblical word; reaches the whole sin but only defers its punishment (Mecklenburg); a reprieve, time to repay slowly (Wertheimer)
+  - he: מחילה
+    tr: mechilah
+    en: pardon
+    distinct: the penalty commuted (Rav Hirsch); Rabbinic, never Biblical, and also cancelling a debt or forgoing what one deserves (Rabbi Eliyahu HaBachur); erases part of the sin outright (Mecklenburg); immediate and complete forgiveness (Wertheimer)
+  - he: כפרה
+    tr: kapparah
+    en: atonement
+    distinct: every negative consequence of the sin wiped out (Rav Hirsch); a price paid for forgiveness, usually a korban, or a covering that hides the sin without removing it (Malbim); Mecklenburg and Wertheimer do not set it against the other two
 sources:
   - wiaw:8400 "Forms of Forgiveness" (2019-09-21) https://articles.ohr.edu/articles/forms-of-forgiveness
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Meth, Rabbi Yitzchak Eizik of Tirna, Rabbi Aharon Fuld, Rabbi Moshe Yitzchak Avigdor, Rabbi Yehuda Aszad, Rabbi Shlomo Pappenheim, Rabbi Yechezkel Landau, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Ernest Klein]
@@ -24,6 +37,14 @@ Hirsch), at a price and usually through a korban (Malbim). The liturgy's סלח
 לנו, מחל לנו, כפר לנו uses all three. Rav Hirsch's three-way map is slightly
 more comprehensive than the others: neither Mecklenburg nor Wertheimer addresses
 how their two words differ from *kapparah* at all.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| סליחה | selichah | forgiveness | the relationship mended (Rav Hirsch); Biblical; punishment deferred, not erased (Mecklenburg) |
+| מחילה | mechilah | pardon | punishment commuted (Rav Hirsch); Rabbinic only; also forgoing a debt (HaBachur) |
+| כפרה | kapparah | atonement | every effect of the sin negated (Rav Hirsch); a ransom price or a covering (Malbim) |
 
 ## Distinctions
 

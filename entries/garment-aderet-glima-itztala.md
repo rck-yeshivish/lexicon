@@ -6,8 +6,24 @@ translit: [aderet, aderes, adderet, glima, gelima, gelem, itztala, itztela, ista
 english: [mantle, cloak, robe, wrap, shroud, shawl]
 domain: society
 words:
+  - he: אדרת
+    tr: aderes
+    en: mantle
+    distinct: the biblical outer garment, furry, above all Eliyahu's; displays the wearer's importance, from adir (Radak); freedom from restraint, hanging loosely or worn only by the adirim (Pappenheim)
+  - he: גלימא
+    tr: glima
+    en: unfitted robe
+    distinct: the Gemara's Aramaic outer garment, often formal; made like a golem, a flat unfitted sheet (Rashi), or keeping the wrapped man from moving freely (Rabbi Nosson of Rome); linked to klimah, humiliation (Rav Hirsch, Rabbi David Golumb)
+  - he: איצטלא
+    tr: itztala
+    en: ceremonial cloak
+    distinct: an outer garment worn as a mark of status, as in itztala d'rabbanan; a loanword from Latin stola and Greek stole; glossed tallis (Rashi); the word that took on the figurative sense of mantle, the duties of the role (Rabbi Klein)
+  - he: תכריך
+    tr: tachrich
+    en: wrap
+    distinct: from kaf-reish-kaf, to wrap or surround; Mordechai's garment of butz and argaman; in the plural tachrichin, the standing term for burial shrouds
   - he: טלית
-    nk: טַלִּית
+    nk: טַלִּית
 sources:
   - wiaw:11594 "Toldot: Noble Clothes" (2024-11-30) https://articles.ohr.edu/articles/toldot-noble-clothes
   - wiaw:11856 "Korach: Growing the Fringes (Part 2/2)" (2025-06-28) https://articles.ohr.edu/articles/korach-growing-the-fringes-part-22
@@ -27,6 +43,15 @@ tied to office and rank. *Tachrich* is a **wrap**, and in the plural
 *tachrichin* the burial shrouds. Rashi glosses all three of the first as
 *tallis*, but they can carry slightly different connotations: *glima* stresses
 the garment's shapelessness, *itztala* the wearer's standing.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אדרת | aderes | mantle | the biblical mantle; shows the wearer's importance (Radak); hangs loose (Pappenheim) |
+| גלימא | glima | unfitted robe | shapeless like a *golem*, a flat sheet (Rashi); or restricts movement (Sefer HeAruch) |
+| איצטלא | itztala | ceremonial cloak | a status garment, as in *itztala d'rabbanan*; from Greek *stolē* |
+| תכריך | tachrich | wrap | a wrap, from wrapping around; plural *tachrichin*, burial shrouds |
 
 ## Distinctions
 

@@ -6,10 +6,21 @@ translit: [tov, tob, tovah, noam, no'am, naim, na'im, neimah, ne'imah, na'eimah,
 english: [good, pleasant, pleasantness, fine, fitting, well, beautiful]
 domain: other
 words:
+  - he: טוב
+    tr: tov
+    en: good
+    distinct: the plain and general word, the hypernym; Bedersi defines shefer as tov; Targum often renders it shapir, for approval and for physical beauty (Rabbi Eliyahu Bachur)
+  - he: נעם
+    tr: noam
+    en: pleasant
+    distinct: goodness felt as beauty that draws a person in, defined as yofi (Bedersi); subjective, personally felt goodness (Rabbi Klein) or attraction and desirability (Rabbi Shaul Goldman); the pull toward what one wishes to join (Pappenheim); visual appeal (Vilna Gaon)
+  - he: שפיר
+    tr: shapir
+    en: fine, fitting
+    nk: שַׁפִּיר
+    distinct: goodness as well done, proper, meeting the standard, defined as tov (Bedersi); objective goodness (Rabbi Klein) or plain positivity with no pull (Rabbi Shaul Goldman); in the Gemara primarily the adverb well; inward beauty of parts in harmony, against yofi (Rav Hirsch)
   - he: נעים
     nk: נָעִים
-  - he: שפיר
-    nk: שַׁפִּיר
   - he: שפר
     nk: שֶׁפֶר
 sources:
@@ -37,6 +48,14 @@ goodness; Rabbi Shaul Goldman holds that even if both are subjective they name
 different qualities, *noam* attraction and desirability (whatever its basis) and
 *shapir* plain positivity with no pull in it. *Tov* and *naim* sit together in
 one pasuk (Bereishis 49:14).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| טוב | tov | good | the plain, general word; Targum often renders it *shapir* (Bachur) |
+| נעם | noam | pleasant | beauty that draws one in (Bedersi); subjective (Klein) or attraction (Goldman) |
+| שפיר | shapir | fine, fitting | proper, meeting the standard; objective (Klein) or positivity without pull (Goldman) |
 
 ## Distinctions
 

@@ -6,8 +6,19 @@ translit: [reya, rea, reah, reyah, reiacha, rayacha, reiati, rayati, chaver, cha
 english: [friend, companion, confidant, fellow, associate, acquaintance, colleague]
 domain: society
 words:
+  - he: עמית
+    tr: amis
+    en: associate, acquaintance
+    distinct: the loosest of the three; one who comes now and then, not often (Rokeach); not built on a word for connection, the man one has business dealings with (Wertheimer)
   - he: חבר
+    tr: chaver
+    en: friend
     nk: חָבֵר
+    distinct: the middle and default word, from joining; one who has attached himself elsewhere, or two once apart now drawn close (Rokeach); connection in one shared respect, as two who learn in one place (Wertheimer)
+  - he: רע
+    tr: reya
+    en: companion, confidant
+    distinct: the most intimate; the one you are with frequently and to whom you reveal your secrets (Rokeach); complete affection, the highest form of companionship (Wertheimer)
 sources:
   - wiaw:7620 "G-d's Best Friend" (2018-02-03) https://articles.ohr.edu/articles/g-ds-best-friend
 authorities: [Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Aharon Wertheimer, Rashi, Maharsha, Targum Onkelos]
@@ -24,6 +35,14 @@ middle and the default: **friend**, one joined to you in some shared thing.
 *Reya* is the closest: **companion** or **confidant**, the one you are with
 frequently and to whom you tell your secrets. Rabbi Elazar Rokeach of Worms and
 Rabbi Shlomo Aharon Wertheimer both set them in this order.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עמית | amis | associate, acquaintance | loosest; comes now and then (Rokeach); a business associate (Wertheimer) |
+| חבר | chaver | friend | the default; joined in one shared respect, as learning together (Wertheimer) |
+| רע | reya | companion, confidant | most intimate; you tell him your secrets (Rokeach); complete affection (Wertheimer) |
 
 ## Distinctions
 
