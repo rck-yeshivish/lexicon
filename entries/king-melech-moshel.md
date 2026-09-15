@@ -32,7 +32,7 @@ is not mere repetition.
 ### melech (מלך)
 Root מ-ל-ך. The commentators explain that this is one whose ascent to the throne
 is commissioned directly by the people: they willingly elect to anoint him, and
-that acceptance is what makes him king. The Vilna Gaon
+that acceptance is what makes him king. Ibn Ezra, on *ki laHashem hameluchah umoshel bagoyim* (Tehillim 22:29), explains that both words refer to sovereignty, but *meluchah* denotes a popular sovereign whose dominion his constituents willingly accepted, while a *moshel* is a dictator who continues to rule whether or not his people object to him. The Vilna Gaon
 sharpens this: the *melech* rises from within the camp of the masses and holds
 no inherent advantage over any of them; strip away their recognition and he is
 their equal. Rabbi Moshe Soloveitchik of Switzerland reads the Midrash that
@@ -58,11 +58,6 @@ is why the people offered Gideon the post of *moshel* (Shoftim 8:22) and not of
 *melech*: even though the masses offered it willingly, he would still have been
 called a *moshel*, because they offered it only on the strength of his
 acknowledged military prowess.
-
-Ibn Ezra, on *ki laHashem hameluchah umoshel bagoyim* (Tehillim 22:29), explains
-that both words refer to sovereignty, but *meluchah* denotes a popular sovereign
-whose dominion his constituents willingly accepted, while a *moshel* is a
-dictator who continues to rule whether or not his people object to him.
 
 Some explain instead that *melech* is the king at the top and *moshel* a
 governor or deputy to whom he has delegated power. The consensus

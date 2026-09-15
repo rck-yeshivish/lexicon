@@ -139,9 +139,8 @@ conjuring all the constituent parts working together in harmony, and Ritva's
 
 ### yovel (יובל)
 Also a horn (Shemos 19:13), and in some pesukim the animal it came from
-(Yehoshua 6:4-13). The Gemara (Rosh Hashanah 26a) points out that *yovel* also
-means "ram," and that it was borrowed to mean a ram's horn (Yehoshua 6:4-5) and
-the fiftieth year, when such a horn is blown. Because the fiftieth year of the shemittah cycle is
+(Yehoshua 6:4-13); the Gemara (Rosh Hashanah 26a) points out that *yovel* also
+means "ram." Because the fiftieth year of the shemittah cycle is
 consecrated and proclaimed with the shofar, the year itself is *yovel* (Vayikra
 25:10-15, 25:50, 27:17-31), whence English "jubilee." Since the *yovel* horn was
 used chiefly to tell the travelling nation when to move and the army when to

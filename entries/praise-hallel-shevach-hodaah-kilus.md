@@ -40,11 +40,11 @@ precisely because praising Hashem is so central a part of Yiddishkeit.
 
 ### lehodos (להודות), lehallel (להלל), leshabei'ach (לשבח)
 Thanking is the admission that another did one a good turn and is owed
-gratitude. *Hod*, which refers to what lies underneath the surface, makes up the
-root of *hodaah*, admission or thanksgiving: one recognizes what he knows deep
-down to be true and lets it come to the forefront by expressing it verbally. Praising is relaying another's virtue to a third party. Lauding
+gratitude. Praising is relaying another's virtue to a third party. Lauding
 is dwelling on another's good traits as such, apart from any dealing one had
-with him. Rabbi Shlomo Aharon Wertheimer (1866-1935) notes that in general
+with him. *Hod*, which refers to what lies underneath the surface, makes up the
+root of *hodaah*, admission or thanksgiving: one recognizes what he knows deep
+down to be true and lets it come to the forefront by expressing it verbally. Rabbi Shlomo Aharon Wertheimer (1866-1935) notes that in general
 thanking Hashem stands before lauding Him, because one's personal
 responsibility to show gratitude comes before the general obligation to praise
 Him. Abudraham recognizes seven expressions only, since he also leaves out

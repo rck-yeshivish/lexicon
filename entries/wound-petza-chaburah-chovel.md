@@ -126,15 +126,14 @@ creature that has skin on Shabbos (Shabbos 14:1). The root ח-ב-ל carries
 plotting, rope, lot, pledge, a group of people, pain, and damage. Which of these
 is the direct parent of *chovel* is unclear, but pain and damage appear the
 likeliest, and Rabbinic *chaval*, "a pity," and Modern Hebrew *mechabel*,
-"terrorist," probably belong with them. The early lexicographers (Menachem Ibn
-Saruk, Ibn Janach, Radak) see these senses as distinct from one another; Rabbi
+"terrorist," probably belong with them. Alternatively, Rabbi Klein suggests,
+*chovel* may relate to "a group of people," as *chaburah* is a grouping of
+blood: the one who wounds causes the blood to group beneath the skin. The early lexicographers (Menachem Ibn
+Saruk, Ibn Janach, Radak) see these senses as distinct from *chaval* in the sense of taking a collateral; Rabbi
 Shlomo Pappenheim sees them all as interrelated, with "rope" as the core: one of
 a rope's primary uses was measuring, and anything measurable is limited, so
 *chavlei* is a localized pain that does not affect the whole body, like birth
-pangs, and *chavalah* is partial damage or injury, not total destruction.
-Alternatively, Rabbi Klein suggests,
-*chovel* may relate to "a group of people," as *chaburah* is a grouping of
-blood: the one who wounds causes the blood to group beneath the skin. Rabbi
+pangs, and *chavalah* is partial damage or injury, not total destruction. Rabbi
 Yaakov Berger of Kiryat Sefer (*Milon Leshon Mikra*, unpublished) holds that the
 roots of *chovel* and *chaburah* are one, on the interchange of lamed and reish,
 as Rashi also implies when he explains *chaburah* with a cognate of *chovel*
