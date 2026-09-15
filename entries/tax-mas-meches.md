@@ -6,8 +6,43 @@ translit: [mas, missim, misim, meches, mechess, michsas, michsat, minda, mindah,
 english: [tax, levy, tribute, conscripted labor, corvee, customs, poll tax, crop tax, property tax]
 domain: society
 words:
+  - he: מס
+    tr: mas
+    en: tax, corvée work
+    distinct: the word typically translated tax and the generic word in Modern Hebrew, though some scholars read it as corvée work, compulsory unpaid labor, as with the sarei missim; a burden carried, or assets melted away (Pappenheim)
+  - he: מכס
+    tr: meches
+    en: tax, levy
+    distinct: six times, all in Bamidbar 31, of the consecrated share of booty given to Hashem; an Akkadian loanword for dues (Dr. Chaim Tawil), from a root meaning number (Ibn Saruk, Chayyuj, Ibn Janach, Radak), or the tax that goes into the king's own pocket (Pappenheim); in Modern Hebrew customs duty
+  - he: מנדה
+    tr: mindah
+    en: measured fee, king's portion
+    distinct: related to middah, a fee measured by one's property (Rabbi Toledano); for the Gemara menas hamelech, the king's portion, seemingly the Aramaic equivalent of meches as Pappenheim explains it
+  - he: בלו
+    tr: belo
+    en: food tax, head tax
+    distinct: an expression of wearing out, a tax on food, which is digested (Rabbi Toledano); for the Gemara the same as gulgalta money
   - he: הלך
+    tr: halach
+    en: road tax
     nk: הֲלָךְ
+    distinct: related to holech, travelling, taxes for the upkeep of roads and bridges (Rabbi Toledano); for the Gemara the same as arnona
+  - he: כרגא
+    tr: karga
+    en: poll tax
+    distinct: from Persian karaka or Arabic harag, a head tax, the fixed sum each individual was obligated to pay (see Rashi to Bava Metzia 73b); the same as gulgalta
+  - he: גולגלתא
+    tr: gulgalta
+    en: head tax
+    distinct: the same poll tax as karga, an Aramaicization of gulgoles, skull, since the tax fell on each head
+  - he: ארנונא
+    tr: arnona
+    en: crop tax
+    distinct: a crop tax, a tenth of one's animals and grain every year (Rashi); or the meal each city owed a king or army passing through (Rabbi Nosson of Rome), Greek for a meal or meaning partnership (Rabbeinu Nissim); in Modern Hebrew property tax
+  - he: טסקא
+    tr: taska
+    en: property tax
+    distinct: a property tax (see Rashi to Gittin 58b); elsewhere a sack or a basket, so the tax sense seems borrowed; replaced by arnona in Modern Hebrew
 sources:
   - wiaw:8339 "Heavy Taxes and Empty Pockets" (2019-07-27) https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets
 authorities: [Rabbi Shlomo Pappenheim, Dr. Chaim Tawil, Menachem Ibn Saruk, Rabbi Yehuda ibn Chayyuj, Rabbi Yonah ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri]
@@ -31,6 +66,20 @@ Radak); a Hebrew root meaning covering, whence the pocket, so the tax that goes
 into the king's own purse (Rabbi Pappenheim). The Aramaic terms are technical,
 and the Gemara equates several of them (*belo* is *gulgalta*, which is *karga*;
 *halach* is *arnona*).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מס | mas | tax, corvée work | generic tax; for some scholars corvée, forced labor; a burden carried (Pappenheim) |
+| מכס | meches | tax, levy | Hashem's share of the booty; Akkadian loan (Tawil), number (Radak), or king's pocket (Pappenheim) |
+| מנדה | mindah | measured fee, king's portion | a fee by measure of property (Toledano); the king's portion (Gemara) |
+| בלו | belo | food tax, head tax | food, which wears out (Toledano); head tax, the same as *gulgalta* (Gemara) |
+| הלך | halach | road tax | for roads and bridges, from *holech* (Toledano); the same as *arnona* (Gemara) |
+| כרגא | karga | poll tax | head tax, a fixed sum per person; Persian or Arabic origin |
+| גולגלתא | gulgalta | head tax | the same as *karga*; from *gulgoles*, skull, a tax on each head |
+| ארנונא | arnona | crop tax | yearly tenth of animals and grain (Rashi); meal owed a passing army (Rabbi Nosson of Rome) |
+| טסקא | taska | property tax | property tax; elsewhere a sack or basket, so a borrowed sense |
 
 ## Distinctions
 

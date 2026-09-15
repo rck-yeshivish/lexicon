@@ -6,8 +6,23 @@ translit: [horaah, hora'ah, lhorot, lehorot, yoreh, moreh, limmud, limud, lelame
 english: [instruction, teaching, drilling, training, guidance, counsel, ruling]
 domain: cognition
 words:
+  - he: הוראה
+    tr: hora'ah
+    en: instruction
+    distinct: instruction given once in the expectation that the pupil will retain it (Shadal, cited by Malbim); one step in the learning process that limmud completes (Rav Hirsch); in Mishnaic Hebrew a halachic ruling
+  - he: למוד
+    tr: limmud
+    en: teaching by drilling
+    distinct: going over the lesson again and again until it is engraved on the pupil's heart (Shadal, cited by Malbim); bringing the teaching to its conclusion, seeing the seeds to fruition (Rav Hirsch)
   - he: אלף
+    tr: alef
+    en: train, school
     nk: אַלֵּף
+    distinct: "disputed: teaching done inadvertently, a person or thing serving as the example from which a lesson is drawn (Malbim), against the learner's firm grasp of material won by repeated instruction, from lamed-peh, a strong hold (Pappenheim)"
+  - he: הדרכה
+    tr: hadrachah
+    en: guidance, counsel
+    distinct: counsel in the practical application of what the student already knows, laying out a derech, and not necessarily new information, Malbim's contrast to the teaching words (Malbim)
 sources:
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
 authorities: [Ibn Janach, Radak, Menachem Ibn Saruk, Malbim, Shadal, Rav Hirsch, Rabbi Shlomo Pappenheim, Vilna Gaon]
@@ -29,6 +44,15 @@ learner's **firm grasp** of material won through repeated instruction.
 what one already knows, not necessarily new information. *Hora'ah* and
 *limmud* are stages, not synonyms (Shadal and Rav Hirsch, as Rabbi Klein pairs
 them), and Shadal reads a whole tragedy in Tanach off the difference.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| הוראה | hora'ah | instruction | taught once, expected to be retained (Shadal); in the Mishnah, a halachic ruling |
+| למוד | limmud | teaching by drilling | repeated until engraved on the heart (Shadal); sees the seeds to fruition (Rav Hirsch) |
+| אלף | alef | train, school | disputed: inadvertent teaching by example (Malbim) against firm grasp through repetition (Pappenheim) |
+| הדרכה | hadrachah | guidance, counsel | guiding what one already knows along a *derech*; no new information (Malbim) |
 
 ## Distinctions
 

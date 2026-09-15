@@ -6,6 +6,14 @@ translit: [nitzav, nitzavim, nitzavta, hisyatzvu, hityatzvu, vatetatzav, mutzav,
 english: [standing, stationed, taking up a position, remaining standing]
 domain: body
 words:
+  - he: עמידה
+    tr: amidah
+    en: standing
+    distinct: plain upright, stationary posture, the opposite of sitting, lying and walking, with no purpose implied (Pappenheim, Malbim); standing already rather than anew (Rabbi Shapiro of Dinov); by implication of Wertheimer's view of nitzav, could even be momentary
+  - he: נצב
+    tr: nitzav
+    en: taking up a position
+    distinct: standing for a purpose, in readiness or anticipation (the Midrash, etimos; Pappenheim; Analak; Mecklenburg), typically with special effort (Malbim); standing anew, a reading its author concedes has counter-proofs (Rabbi Shapiro of Dinov); prolonged standing (Wertheimer); synonymous with amidah at Divrei HaYamim II 20:17 (Metzudas David)
   - he: מצבה
     nk: מַצֵּבָה
 sources:
@@ -30,6 +38,13 @@ Wertheimer makes *nitzav* prolonged standing, which implies that *amidah* could
 even be momentary. Several of these authorities build on a pasuk's switch from
 one to the other, though *Metzudas David* holds the two synonymous at Divrei
 HaYamim II 20:17.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עמידה | amidah | standing | neutral upright posture, no purpose implied (Pappenheim, Malbim); standing already (Rabbi Shapiro) |
+| נצב | nitzav | taking up a position | standing for a purpose, in readiness (Pappenheim, Malbim); standing anew (Rabbi Shapiro); prolonged (Wertheimer) |
 
 ## Distinctions
 

@@ -5,6 +5,15 @@ roots: [ת-ע-ה, ט-ע-ה]
 translit: [taah, ta'ah, toeh, to'eh, toim, toeim, toah, taut, ta'ut, taus, hitah, hitu, matteh, tavata, taavasa]
 english: [stray, go astray, be lost, err, make a mistake, mislead]
 domain: cognition
+words:
+  - he: תעה
+    tr: taah with a tav
+    en: stray, be lost
+    distinct: one who strayed off the path and is lost, against a mistake of heart or intellect (Rabbi Eliyahu HaBachur); it too means erring (Rabbi Broide), and is the same word, the spelling Scripture prefers (Radak); lost and at a complete loss which way to go (Wertheimer)
+  - he: טעה
+    tr: taah with a tet
+    en: err, make a mistake
+    distinct: a mistake in heart or intellect (Rabbi Eliyahu HaBachur), and in Rabbinic literature always a mistake; the same word, the spelling Rabbinic sources prefer (Radak); in Aramaic the one word carries both senses (Rabbi Yaakov Zev Lev); lost yet sure the wrong path is the right one (Wertheimer)
 sources:
   - wiaw:7804 "Lost or Mistaken" (2018-06-16) https://articles.ohr.edu/articles/lost-or-mistaken
 authorities: [Rabbi Eliyahu HaBachur, Radak, Rabbi Yosef Kimchi, Kli Yakar, Rabbi Avraham Aharon Broide, Rabbi Yaakov Zev Lev, Rabbi Shlomo Aharon Wertheimer, Targum Onkelos]
@@ -29,6 +38,13 @@ HaBachur, holds that both can mean one lost on the road and differ in how he is
 lost: the *to'eh* with a tav is at a complete loss which way to go, the *to'eh*
 with a tet thinks he knows where he is going and has taken the wrong path for
 the right one.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תעה | taah with a tav | stray, be lost | lost off the path (HaBachur); at a loss which way to go (Wertheimer) |
+| טעה | taah with a tet | err, make a mistake | a mistake, not straying (HaBachur); lost yet sure of the wrong path (Wertheimer) |
 
 ## Distinctions
 

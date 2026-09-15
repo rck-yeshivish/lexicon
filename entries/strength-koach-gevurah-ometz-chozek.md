@@ -6,10 +6,48 @@ translit: [koach, koah, ko'ach, kochos, kochot, gevurah, gevura, gibbor, gibor, 
 english: [strength, power, might, heroism, fortitude, resolve, steadfast, mighty, overpowering]
 domain: other
 words:
+  - he: כח
+    tr: koach
+    en: strength
+    distinct: the most general word, the plain ability to do or withstand something (Pappenheim); physical strength that man shares with beast (Rabbi Soloveitchik); the power to maintain a state against what would break it, or mental fortitude and focus (Rabbi Mecklenburg)
+  - he: גבורה
+    tr: gevurah
+    en: might, heroism
+    distinct: the act that actualizes potential koach, an outward show of strength (Pappenheim); koach used proactively to defeat opposition (Rabbi Mecklenburg); heroism given to man alone to transcend the survival instinct (Rabbi Soloveitchik); physical strength (Shapira-Frankfurter); power within nature, against oz (Wessely)
+  - he: חזק
+    tr: chozek
+    en: strong
+    distinct: the standard word for strength, against above-normal ometz (Bedersi, Wertheimer); outer, physical strength (Vilna Gaon, Malbim); temporary strength that atrophies (Malbim to Yeshayahu 28:2); strength of will to enter danger (Shapira-Frankfurter); extra-strength koach that stands out, and the strength to withstand being overpowered, against tokef (Pappenheim)
+  - he: אמץ
+    tr: ometz
+    en: fortitude, resolve
+    distinct: strength above the normal measure (Bedersi, Wertheimer); strength of the heart (Vilna Gaon, Malbim); resilient strength that recharges and never falters (Malbim to Yeshayahu 28:2); spiritual resolve to stay in the battle (Shapira-Frankfurter); squeezing out every last ounce of energy, from מ-צ (Pappenheim)
   - he: עז
+    tr: oz
+    en: might
     nk: עֹז
+    distinct: strength of spirit, a resolve others cannot deter, visible in the face (Wertheimer); the stable and unwavering, whence azus, brazenness (Pappenheim); primarily Divine, supernatural power, against gevurah (Wessely, Rabbi Edel); tied to otzem and eitz, strong or hard (Rabbi Aharon Marcus)
   - he: עצם
+    tr: otzem
+    en: vastness, innate strength
     nk: עֹצֶם
+    distinct: strength through numbers that grew into inherent strength, or borrowed from etzem, bone (Rabbi Edel); potential strength pent up within, not yet expressed (Rabbi Moshe Shapiro); related to ometz by metathesis (Rabbi Dr. Asher Weiser); quantitative strength whose units need not be equal, against kabir (Pappenheim)
+  - he: איתן
+    tr: eitan
+    en: steadfast
+    distinct: strength that holds back, as a river bank holds the waters (Rabbi Edel); something strong and durable that has lasted, like bedrock (Rav Hirsch); inherent, qualitative strength compressed from connected parts, or a Divine gift of strength (Pappenheim)
+  - he: כביר
+    tr: kabir
+    en: mighty in number
+    distinct: quantitative strength, strong for many units of equal force banded together (Pappenheim; see Rashi to Berachos 8a on communal prayer)
+  - he: אדיר
+    tr: adir
+    en: mighty
+    distinct: the most powerful of a whole group, where chazak is only stronger than another, from ד-ר, unconstrained motion (Pappenheim); related to hadar, glory, since Hashem's strength brings Him glory (Rabbi Edel)
+  - he: תקיף
+    tr: takif
+    en: overpowering
+    distinct: strength that can surround and overpower another, from ק-פ, a circle, and the strength actually to overpower, against chozek that withstands (Pappenheim); Hashem's all-encompassing power (Rabbi Edel); the Targumim's Aramaic for chozek and oz
 sources:
   - wiaw:8868 "The Power to Hold Back" (2020-09-26) https://articles.ohr.edu/articles/the-power-to-hold-back
   - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones
@@ -40,6 +78,21 @@ powerful of a whole group (Rabbi Pappenheim); *oz* strength of spirit that
 others cannot deter (Wertheimer), or, for Rabbi Wessely, primarily Divine,
 supernatural power; *takif* strength that surrounds and **overpowers** (Rabbi
 Pappenheim).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כח | koach | strength | most general, the ability to do or withstand (Pappenheim); physical, shared with beasts (Soloveitchik) |
+| גבורה | gevurah | might, heroism | potential *koach* actualized (Pappenheim); heroism beyond the survival instinct, man's alone (Soloveitchik) |
+| חזק | chozek | strong | the standard word (Bedersi, Wertheimer); outer, physical strength (Vilna Gaon); courage to enter (Shapira-Frankfurter) |
+| אמץ | ometz | fortitude, resolve | above-normal strength (Bedersi, Wertheimer); strength of heart (Vilna Gaon); resolve to stay in the fight (Shapira-Frankfurter) |
+| עז | oz | might | strength of spirit that shows in the face (Wertheimer); Divine, supernatural power (Wessely) |
+| עצם | otzem | vastness, innate strength | strength through numbers (Edel); pent-up potential strength (Rabbi Moshe Shapiro) |
+| איתן | eitan | steadfast | strength that holds back, like a river bank (Edel); durable, like bedrock (Rav Hirsch) |
+| כביר | kabir | mighty in number | strength of many equal units banded together (Pappenheim) |
+| אדיר | adir | mighty | the most powerful of a whole group (Pappenheim); tied to *hadar*, glory (Edel) |
+| תקיף | takif | overpowering | strength that surrounds and overpowers (Pappenheim); the Targum's Aramaic for *chozek* and *oz* |
 
 ## Distinctions
 

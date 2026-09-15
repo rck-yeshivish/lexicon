@@ -5,6 +5,67 @@ roots: [ק-ץ, ח-ח, ס-ל, ס-ר, ד-ר, א-ט-ד, ח-ד-ק, ש-מ-ר, ש-א-�
 translit: [kotz, kotzim, koutz, choach, chochim, choah, salon, salonim, silon, sneh, s'neh, sirim, seerim, dardar, atad, chedek, chadek, shamir, shayit, shayis, barkan, charul, kimosh, akrav, akravim, sikim, sansan, sirpad, tzninim, tzinim, bashah, saravim]
 english: [thorn, thistle, brier, nettle, bramble, thornbush, scorpion]
 domain: nature
+words:
+  - he: קוץ
+    tr: kotz
+    en: thorn
+    distinct: the thorn, named for its many sharp ends, from ק-צ, the end of a thing (Pappenheim)
+  - he: דרדר
+    tr: dardar
+    en: thistle
+    distinct: a second kind of thorn beside kotz; an edible thorn of open, ownerless ground, from ד-ר, freedom (Pappenheim); its fruit peeled and eaten (Rabbi Avraham ben Shlomo); rendered atad by the Targum
+  - he: סנה
+    tr: sneh
+    en: thornbush
+    distinct: the Burning Bush, a thorn bush (Rashi, Rabbi Saadia Gaon); a messy bush in which every kind of thorn grows, from ס-נ, disorder (Pappenheim); thorns like sharp teeth, from ש-ן (Rabbi David Chaim Chelouche)
+  - he: סלון
+    tr: salon
+    en: thorn, thistle
+    distinct: thorns at Yechezkel 2:6 and 28:24 (Rashi, Mahari Kara); Pappenheim splits them, salonim the people who repeatedly provoke, silon the thistle that stabs again and again
+  - he: חוח
+    tr: choach
+    en: thorn
+    distinct: related to chach, a piece of jewelry fastened with a pin (Radak, Pappenheim), whose sharp point would recall a thorn
+  - he: סירים
+    tr: sirim
+    en: thorns
+    distinct: tied by some to hasarah, removal (Rashi); instruments of affliction in a borrowed sense, from ס-ר, removing from place (Pappenheim)
+  - he: אטד
+    tr: atad
+    en: thorn
+    distinct: the Targum's Aramaic for dardar; Goren HaAtad expounded from the thorn fence ringing a granary (Sotah 13a)
+  - he: חדק
+    tr: chedek
+    en: brier
+    distinct: a brier, behind the Rabbinic senses of cutting and pricking; chad plus dak, sharp and thin, or a metathesis of dochak, pressure (Ohalei Yehuda), which Ramban seems to follow
+  - he: שמיר
+    tr: shamir
+    en: brier
+    distinct: a thorn in Yeshayahu, elsewhere the rock-cutting stone or worm; from ש-מ-ר, guarding, since thorns fence and guard a field (Shoresh Yesha, Rav Hirsch)
+  - he: שית
+    tr: shayit
+    en: thorn
+    distinct: paired with shamir in Yeshayahu; an Arabic cognate also means thorn (Ibn Janach); from ש-א-ה, uniformity, thorns growing in desolate ruins (Pappenheim)
+  - he: ברקן
+    tr: barkan
+    en: thorn
+    distinct: twice, both beside kotz; from ב-ר-ק with barak, lightning, the sharp thorn named for a sword's glow, whose power is its sharpness (Rabbi Yehoshua Steinberg)
+  - he: חרול
+    tr: charul
+    en: nettle
+    distinct: a grass-like thorn (Radak), for others nettle or thistle; any ordinary thorn one touches and is burnt by, against kimosh (Vilna Gaon); the dry, fiery thorn, or the one covering a field (Ohalei Yehuda)
+  - he: קימוש
+    tr: kimosh
+    en: thorn
+    distinct: the thorn that grows along a field's perimeter, against the ordinary charul (Vilna Gaon)
+  - he: עקרב
+    tr: akrav
+    en: scorpion
+    distinct: a scorpion, and in Rechavam's threat flogging sticks with scorpion-like spikes, so a thorn only in a borrowed sense; from ק-ר-ב, ever ready for battle (Rav Hirsch)
+  - he: סיכים
+    tr: sikim
+    en: fence-thorn
+    distinct: the thorn of fences, sharing ש-ו-כ with mesuchah, a fence (Radak); linked to siyag (Rav Hirsch); from ס-כ, to cover or protect (Pappenheim)
 sources:
   - wiaw:9809 "Of Thorns and Thistles" (2022-08-06) https://articles.ohr.edu/articles/of-thorns-and-thistles
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
@@ -28,6 +89,26 @@ field's edge, against *charul*, the ordinary thorn; Rabbi Pappenheim splits
 Rabbi Saadia Gaon), used of the Burning Bush; *charul* a **nettle** or
 thistle as some define it, for Radak a grass-like thorn; *chedek* a **brier**.
 קוץ ודרדר is two kinds, not a doubled phrase.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| קוץ | kotz | thorn | the thorn, named for its many sharp ends (Pappenheim) |
+| דרדר | dardar | thistle | a second kind beside *kotz*; edible thorn of ownerless ground (Pappenheim) |
+| סנה | sneh | thornbush | a thornbush (Rashi, Rabbi Saadia Gaon); the Burning Bush |
+| סלון | salon | thorn, thistle | thorns (Rashi); Pappenheim splits *salonim*, provokers, from *silon*, the thistle |
+| חוח | choach | thorn | thorn named from *chach*, a pinned ornament (Radak, Pappenheim) |
+| סירים | sirim | thorns | from removal, *hasarah* (Rashi); instruments of affliction (Pappenheim) |
+| אטד | atad | thorn | the Targum's Aramaic for *dardar*; the thorn fence of Goren HaAtad (Sotah 13a) |
+| חדק | chedek | brier | a brier; sharp and thin, or pressure (Ohalei Yehuda) |
+| שמיר | shamir | brier | brier, and the rock-cutter; thorns guard a field (Shoresh Yesha) |
+| שית | shayit | thorn | paired with *shamir*; thorns of desolate ruins (Pappenheim) |
+| ברקן | barkan | thorn | beside *kotz*; sharp as a sword, from *barak* (Steinberg) |
+| חרול | charul | nettle | grass-like thorn (Radak); the ordinary thorn, against *kimosh* (Vilna Gaon) |
+| קימוש | kimosh | thorn | the thorn along a field's perimeter (Vilna Gaon) |
+| עקרב | akrav | scorpion | scorpion; spiked flogging sticks; a thorn only in a borrowed sense |
+| סיכים | sikim | fence-thorn | the fence-thorn; shares a root with *mesuchah*, fence (Radak) |
 
 ## Distinctions
 

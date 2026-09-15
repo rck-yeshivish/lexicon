@@ -7,7 +7,22 @@ english: [stranger, outsider, foreigner, alien, non-Kohen, commoner, layman]
 domain: society
 words:
   - he: זר
+    tr: zar
+    en: outsider, stranger
     nk: זָר
+    distinct: estranged in one respect only, often from the familiar locality or nation (Malbim), of the speaker's own nation but another tribe (Ibn Ezra); in Kodashim the non-Kohen; for Pappenheim no less estranged than nachri, the root fixing on his disconnection from society
+  - he: נכרי
+    tr: nachri
+    en: foreigner
+    distinct: a complete foreigner from another nation, strange in many ways at once (Ibn Ezra, Malbim); the opposite of a relative (Wertheimer); for Pappenheim equally estranged as zar, tied to lehakir, the stranger one has no picture of
+  - he: חילוני
+    tr: chiloni
+    en: stranger, non-Kohen
+    distinct: the Targumim's frequent Aramaic for zar (Onkelos); in the Midrash a non-Kohen, as Scripture uses zar (Vayikra Rabbah 24:7); in Modern Hebrew a secular Jew
+  - he: הדיוט
+    tr: hedyot
+    en: commoner, layman
+    distinct: a Greek loanword; the commoner against the leadership, the ordinary non-professional against the craftsman, and the Kohen hedyot against the Kohen Gadol (Mishnah)
 sources:
   - wiaw:9192 "Strange Aliens" (2021-05-01) https://articles.ohr.edu/articles/strange-aliens
 authorities: [Ibn Ezra, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Malbim, Sefer Chassidim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonatan, Peirush Yonatan, Mechilta, Yair, Me'at Tzari, Oxford English Dictionary]
@@ -29,6 +44,15 @@ contexts *zar* is a technical term, the **non-Kohen**. *Chiloni* is often the
 Targum's Aramaic for *zar*, and the Midrash's word for a non-Kohen; *hedyot* is a Greek
 loanword for a **commoner** or **layman**, the ordinary man against the leader,
 the amateur against the craftsman, the *Kohen hedyot* against the Kohen Gadol.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| זר | zar | outsider, stranger | strange in one respect only, often a fellow Jew (Malbim, Ibn Ezra); the non-Kohen |
+| נכרי | nachri | foreigner | wholly foreign, from another nation (Ibn Ezra, Malbim); tied to recognition, *lehakir* (Pappenheim) |
+| חילוני | chiloni | stranger, non-Kohen | Aramaic for *zar* (Onkelos); a non-Kohen in the Midrash; modern: a secular Jew |
+| הדיוט | hedyot | commoner, layman | Greek loanword; commoner against leader, amateur against craftsman, *Kohen hedyot* against Kohen Gadol |
 
 ## Distinctions
 

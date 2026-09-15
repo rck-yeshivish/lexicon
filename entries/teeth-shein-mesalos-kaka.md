@@ -6,8 +6,31 @@ translit: [shein, shen, shina, shinayim, mesalos, metallot, mitalot, maltaos, ma
 english: [tooth, teeth, incisors, molars, fangs, gums, ivory]
 domain: body
 words:
+  - he: שן
+    tr: shein
+    en: tooth, ivory
+    distinct: the ordinary word for a tooth, extended to ivory and the teeth of a tool; the front incisors against the molars (Rabbi Tedeschi), or the general term against the specific; from ש-ן, double, since most people grow two sets (Pappenheim)
   - he: מתלעות
+    tr: mesalos
+    en: molars, fangs
     nk: מְתַלְּעוֹת
+    distinct: always plural, one word with malteos by metathesis; the molars at the back (Rabbi Tedeschi, with Rashi, Radak and the Biur HaGra); fangs protruding from a wild animal's mouth (Ibn Parchon); named for nearness to the throat (Pappenheim)
+  - he: ככא
+    tr: kaka
+    en: tooth
+    distinct: the Targum's Aramaic for shein; in the Gemara a tooth, the inner molars at Berachos 56a (Rashi); large teeth, not the gums (Tosafos); also the teeth of a wooden key
+  - he: ניבי
+    tr: nivi
+    en: molars, fangs
+    distinct: the Targum's Aramaic for mesalos and malteos; on Chullin 59a either two teeth that stand out from the rest or the gum indentations where teeth were expected (Rashi), Tosafos favoring the first
+  - he: גלל
+    tr: gallal
+    en: tooth
+    distinct: tooth only as Bava Kamma 2b reads Melachim I 14:10, the tort of tooth damage; teeth are rock hard (Rabbeinu Chananel), sometimes revealed and sometimes hidden (Rashi), or turn food to dung (Rashi)
+  - he: חיט
+    tr: chit
+    en: gums, teeth
+    distinct: "disputed: the gums (Rashi) or the teeth themselves (the Mainz commentary ascribed to Rabbeinu Gershom, Rabbi Nosson of Rome); the Rambam's girsa is chut"
 sources:
   - wiaw:10931 "Showing Teeth" (2023-04-22) https://articles.ohr.edu/articles/showing-teeth
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rabbi David Chaim Chelouche, Rabbi Moshe Tedeschi-Ashkenazi, Shadal, Rashi, Biur HaGra, Ibn Parchon, Tosafos, Rabbeinu Chananel, Rabbeinu Gershom, Rabbi Nosson of Rome, Rambam, Dr. Daniel Vainstub, Dr. Alexander Kohut]
@@ -32,6 +55,17 @@ Gemara reads it, in context the tort category of tooth damage. *Chit*, in
 Rabbinic literature only in one Mishnah and its Sifra parallel, is disputed: the
 **gums** (Rashi) or the **teeth** themselves (the Mainz commentary ascribed to
 Rabbeinu Gershom, and the *Aruch*).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שן | shein | tooth, ivory | the ordinary word, also ivory; the front incisors (Tedeschi) |
+| מתלעות | mesalos | molars, fangs | molars at the back (Tedeschi, Rashi, Radak); or fangs (Ibn Parchon); same as *malteos* |
+| ככא | kaka | tooth | the Targum's Aramaic for *shein*; molars at Berachos 56a (Rashi) |
+| ניבי | nivi | molars, fangs | the Targum's Aramaic for *mesalos*; protruding teeth or gum hollows (Rashi) |
+| גלל | gallal | tooth | tooth only in the Gemara's reading; rock hard (Rabbeinu Chananel), or dung (Rashi) |
+| חיט | chit | gums, teeth | disputed: gums (Rashi) against the teeth themselves (Rabbeinu Gershom, *Aruch*) |
 
 ## Distinctions
 

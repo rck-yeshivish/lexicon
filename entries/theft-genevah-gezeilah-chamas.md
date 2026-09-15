@@ -5,6 +5,23 @@ roots: [ג-נ-ב, ג-ז, ג-ז-ל, ח-מ-ס, ח-מ-צ]
 translit: [genevah, genivah, geneivah, ganav, gannav, gezeilah, gezelah, gezel, gazlan, gozel, chamas, chamsan, chometz, chamtzan, listim, listin, lilastem]
 english: [stealing, theft, robbery, plunder, violence, extortion, brigand]
 domain: action
+words:
+  - he: גניבה
+    tr: genevah
+    en: stealing, theft
+    distinct: theft by stealth, the ganav concealing himself from his victim (Bava Kamma 79b, Rambam); trying to hide is enough even if he is seen (S'ma); he alone pays the extra fines, for respecting man more than Hashem
+  - he: גזילה
+    tr: gezeilah
+    en: robbery
+    distinct: taking openly, in public or by force (Bereishis Rabbah 54:3, Rambam), before ten people or face to face by the two opinions; exempt from the fines; a violent cutting off (Ernest Klein), or taking one thing and leaving the rest (Rabbi Reuven Chaim Klein)
+  - he: חמס
+    tr: chamas
+    en: violence, injustice
+    distinct: theft at Bereishis 6:13 (Rashi) but not always exclusively, often general violence and injustice, like Akkadian hamasu, to oppress (Dr. Chaim Tawil); the Rabbinic chamsan is a coercive buyer who pays, a wrongdoer yet not technically a thief or robber (Bava Kamma 62a)
+  - he: לסטים
+    tr: listim
+    en: robber, brigand
+    distinct: a Greek loanword for a robber; whether an armed listim, who takes openly yet carries a weapon for fear of being caught, is a ganav or a gazlan is disputed (Kesef Mishneh, Lechem Mishneh, Even HaAzel)
 sources:
   - wiaw:8613 "Stealing and Robbing" (2020-02-22) https://articles.ohr.edu/articles/stealing-and-robbing
 authorities: [Bereishis Rabbah, Rambam, S'ma, Rashi, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Rabbi Ernest Klein, Dr. Chaim Tawil, Kesef Mishneh, Lechem Mishneh, Even HaAzel]
@@ -27,6 +44,15 @@ exclusively so, sometimes as general **violence** or **injustice**; in Chazal a
 thief or robber. *Listim* is a Greek loanword for a **robber** or brigand, and
 whether an armed *listim* counts as *ganav* or *gazlan* is disputed among the
 authorities.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גניבה | genevah | stealing, theft | by stealth, the thief hiding himself (Rambam); alone pays the extra fines |
+| גזילה | gezeilah | robbery | openly, in public or by force (Rambam); no extra fines |
+| חמס | chamas | violence, injustice | theft at the Flood (Rashi), often plain violence; *chamsan*, a coercive buyer who pays |
+| לסטים | listim | robber, brigand | Greek loanword; armed robber, disputed whether *ganav* or *gazlan* (Kesef Mishneh) |
 
 ## Distinctions
 

@@ -6,6 +6,14 @@ translit: [haggadah, hagadah, higid, lehagid, maggid, magid, vehigadeta, vehigad
 english: [tell, relate, declare, recount, narrate, the telling]
 domain: speech
 words:
+  - he: הגדה
+    tr: haggadah
+    en: telling
+    distinct: telling in the strong sense, forceful (Rashi) and new (Ibn Ezra, Radak); a drawn-out narrative (Netziv); giving a past event present relevance (Rabbi Bergmann); relaying what one experienced directly (Wertheimer); an expression of thanks (Abudraham)
+  - he: ספור
+    tr: sippur
+    en: relating
+    distinct: the more general relating of a story, old or new, without specifying novelty (Radak); simply relating a past event, not necessarily bearing on the listener (Rabbi Bergmann, Malbim); any story, even one not perceived firsthand (Wertheimer); many details joined into one whole (Rav Moshe Shapiro); explaining clearly, like sapir (Rabbi Mecklenburg)
   - he: מספר
     nk: מְסַפֵּר
 sources:
@@ -31,6 +39,13 @@ Chazal it had been handed down for generations; for Rabbi Yechiel Michel
 Feinstein, Chazal took the word the Torah uses for the purpose of the miracles
 (*l'maan tesaper*, Shemos 10:2), where *v'higadta* only teaches how to tell;
 Rabbi Nosson Gestetner concludes that they are two separate mitzvos.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| הגדה | haggadah | telling | forceful (Rashi) and new (Ibn Ezra); draws a past event into the present (Bergmann) |
+| ספור | sippur | relating | general relating, old or new (Radak); many details joined into one whole (Rav Moshe Shapiro) |
 
 ## Distinctions
 

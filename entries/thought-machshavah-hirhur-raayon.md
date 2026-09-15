@@ -5,6 +5,19 @@ roots: [ח-ש-ב, ה-ר-ר, ר-ע-ה]
 translit: [machshavah, machshava, machashavah, machshavos, machshavot, hirhur, hirhurim, harhor, raayon, ra'ayon, rayon, raayonos, raayonot, hogeh, higayon, higgayon]
 english: [thought, idea, notion, musing, inner words]
 domain: cognition
+words:
+  - he: מחשבה
+    tr: machshavah
+    en: thought
+    distinct: pure, abstract thought, or thought in the brain, against hirhur (Vilna Gaon); the result of deliberate, focused thinking, kin to cheshbon (Wertheimer); a synonym of raayon (Rashi, Ramban, Yad Ramah)
+  - he: הרהור
+    tr: hirhur
+    en: musing, stirring
+    distinct: thought already formulated into possible words, or thought of the heart rather than the brain (Vilna Gaon); the conception of speech, from herayon, pregnancy (Rabbi Pinchas HaLevi Horowitz); in Rabbi Klein's synthesis the last stage, at the threshold of speech
+  - he: רעיון
+    tr: raayon
+    en: idea, notion
+    distinct: the spark that surfaces unbidden and may be developed (Wertheimer); a synonym of machshavah (Rashi to Berachos 55b, Ramban), its Aramaic (Yad Ramah); defined as hirhur (Rashi to Daniel)
 sources:
   - wiaw:7082 "A Word for a Thought" (2017-01-07) https://articles.ohr.edu/articles/a-word-for-a-thought
 authorities: [Vilna Gaon, Rashi, Ramban, Rabbi Meir HaLevi Abulafia, Rabbi Pinchas HaLevi Horowitz, Rabbi Shlomo Aharon Wertheimer]
@@ -26,6 +39,14 @@ than the brain: **musing**, or where the heart sense governs **stirring**.
 On the Gaon's first reading *hirhur* is thought already put into words, and in
 Rabbi Klein's synthesis of the three it is the *last* stage, thought at the
 threshold of speech.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מחשבה | machshavah | thought | deliberate, worked-out thought, kin to *cheshbon* (Wertheimer); abstract, in the brain (Vilna Gaon) |
+| הרהור | hirhur | musing, stirring | thought already in possible words, or of the heart (Vilna Gaon); nearest to speech |
+| רעיון | raayon | idea, notion | an unbidden spark (Wertheimer); a synonym of *machshavah* (Rashi, Ramban) |
 
 ## Distinctions
 
