@@ -6,6 +6,22 @@ translit: [erusin, eirusin, arusah, arusa, meorasah, kiddushin, kidushin, mekude
 english: [betrothal, first stage of marriage, consecration, designation, marriage, engagement]
 domain: ritual
 words:
+  - he: אירוסין
+    tr: erusin
+    en: betrothal
+    distinct: the Biblical term for the first stage of marriage, after which adultery applies though the couple may not yet live together; an expression of tying (Rabbi Mansoura); from eres, poison (Rabbi Vana); not the modern engagement (Rav Hirsch)
+  - he: קידושין
+    tr: kiddushin
+    en: betrothal
+    distinct: the Mishnah's term for the same act; from hekdesh, forbidding her to all others (Rabbanan Savorai), a rabbinic term because only the rabbinic enactment makes her like hekdesh (Rabbi Shor, Rabbi Horowitz); from designating, not consecrating (Tosafos); a loanword from Greek ekdosis (Satlow), which Rabbi Klein finds hard to accept
+  - he: נישואין
+    tr: nissuin
+    en: marriage
+    distinct: the second stage, effected by chuppah, after which the couple live together and the rabbinic prohibition between them is lifted; the father handing the daughter over to the husband (Kesubos 4:5)
+  - he: שידוכין
+    tr: shidduchin
+    en: engagement
+    distinct: the Talmudic term for what English calls engagement, a couple who have agreed to marry later but have not yet done so
   - he: ארוסה
     nk: אֲרוּסָה
 sources:
@@ -27,6 +43,15 @@ Rav Hirsch (to Shemos 22:15)
 already warns that the Torah's *erusin* is not that. Where the two words are
 contrasted, *kiddushin* carries the *hekdesh* sense of setting apart and
 *erusin*, on Rabbi Shalom Mansoura's reading, the sense of binding or tying.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אירוסין | erusin | betrothal | the Torah's word for the first stage; tying (Mansoura); not engagement (Rav Hirsch) |
+| קידושין | kiddushin | betrothal | the Mishnah's word, from *hekdesh* (Kiddushin 2b); set aside, not consecrated (Tosafos) |
+| נישואין | nissuin | marriage | the second stage, effected by chuppah; marriage proper |
+| שידוכין | shidduchin | engagement | an agreement to marry later; engagement, not betrothal |
 
 ## Distinctions
 

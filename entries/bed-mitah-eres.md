@@ -7,7 +7,14 @@ english: [bed, couch, bedstead, crib, cradle]
 domain: other
 words:
   - he: מטה
+    tr: mitah
+    en: bed
     nk: מִטָּה
+    distinct: the ordinary, common word, from a root meaning to incline or stretch out, as a man inclines his body to lie down; any furniture one lies or reclines on (Malbim); the wooden-framed bed (Wertheimer); the bed of husband and wife and so of the righteous (Basilea)
+  - he: ערש
+    tr: eres
+    en: bed, bedstead
+    distinct: the rarer, more particular bed; a crib (Rashbam); a bed of fastened or woven planks, from mixing (Rabbi Mecklenburg, Rav Hirsch); iron- or metal-framed (Wertheimer); custom-fitted (Malbim); the bed of the wicked (Basilea, Kaidanover); against all these, a true synonym of mitah paired for poetic effect (Ramchal)
   - he: עריסה
     nk: עֲרִיסָה
 sources:
@@ -28,6 +35,13 @@ crib, a bed of woven or cross-fastened planks. In many instances Targum renders
 both by *arsa*.
 Ramchal holds they are genuine synonyms paired for poetic effect; the other views
 cited do not treat them as fully synonymous.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מטה | mitah | bed | the ordinary bed, from inclining; anything to recline on (Malbim); wooden-framed (Wertheimer) |
+| ערש | eres | bed, bedstead | rarer and more particular: a crib (Rashbam), iron-framed (Wertheimer), custom-fitted (Malbim) |
 
 ## Distinctions
 

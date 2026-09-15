@@ -6,12 +6,38 @@ translit: [shor, tor, par, parah, para, egel, eglah, egla, aleph, elef, aluf, al
 english: [ox, bull, cow, heifer, calf, cattle, herdsman]
 domain: nature
 words:
+  - he: עגל
+    tr: egel
+    en: calf
+    distinct: the male calf, still nursing; from igul, a circle, since young calves tend to be round and pudgy (Rabbi Zalman Hanau)
+  - he: עגלה
+    tr: eglah
+    en: female calf
+    distinct: the female calf; an eglah through its first year and a parah thereafter (Rabbi Eliezer), or through its second year as well (the Chachamim)
+  - he: פר
+    tr: par
+    en: bull
+    distinct: the fertile male, from breaking into parts and so reproduction, unlike the shor (Rabbi Shlomo Pappenheim); a name the animal takes on only later (Rashi); small, where the shor is big (Radak)
+  - he: פרה
+    tr: parah
+    en: cow, heifer
+    distinct: the female, almost always kept for what her name says, calving and milk (Rabbi Shlomo Pappenheim); the name for an eglah past its first year (Rabbi Eliezer) or its second (the Chachamim)
+  - he: שור
+    tr: shor
+    en: ox
+    nk: שׁוֹר
+    distinct: called so from the day it is born (Rashi); from shar, the umbilical cord, the ox's strength being in its belly (Rabbi Shlomo Pappenheim); commonly assumed castrated, which cannot be, castration being forbidden (Rabbi Yonah Merzbach)
   - he: אלף
+    tr: aleph
+    en: ox
     nk: אֶלֶף
+    distinct: the poetic word, eight appearances in Tanach; the strongest sort of ox, from a strong hold (Rabbi Shlomo Pappenheim); from yalif, to learn (the Vilna Gaon), a trained ox that has learned to work the land (Malbim)
+  - he: בקר
+    tr: bakar
+    en: cattle
+    distinct: the collective; from probing and seeking (Radak); domesticated cattle that need watching and defending, the work of the boker (Rabbi Yehoshua Steinberg)
   - he: בוקר
     nk: בּוֹקֵר
-  - he: שור
-    nk: שׁוֹר
 sources:
   - wiaw:8333 "Bovine Words: Cows and Cowboys" (2019-07-20) https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys
   - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
@@ -29,6 +55,18 @@ the animal is grown. *Egel* and *eglah* are the male and female **calf**. *Aleph
 is the strong working **ox** of Tanach's poetry, eight appearances. *Bakar* is
 the collective, **cattle**, and its *boker* is the **herdsman**. *Shor* is not
 a synonym for *par* at any age.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עגל | egel | calf | the male calf, still nursing; round, from *igul* (Hanau) |
+| עגלה | eglah | female calf | the female calf, until one year (Rabbi Eliezer) or two (Chachamim) |
+| פר | par | bull | the fertile male (Pappenheim); a name taken on only once grown (Rashi) |
+| פרה | parah | cow, heifer | the grown female, kept for calving and milk (Pappenheim) |
+| שור | shor | ox | an ox from the day it is born (Rashi); not necessarily castrated (Merzbach) |
+| אלף | aleph | ox | the poetic word; the strongest ox (Pappenheim), or a trained one (Malbim) |
+| בקר | bakar | cattle | the collective; herd animals that need watching (Steinberg) |
 
 ## Distinctions
 

@@ -6,10 +6,32 @@ translit: [lechem, lachmah, kikar, kikkar, challah, chalah, challos, pat, pas, p
 english: [bread, staple food, loaf, meal-cake, morsel, piece of bread]
 domain: other
 words:
-  - he: חלה
-    nk: חַלָּה
+  - he: לחם
+    tr: lechem
+    en: bread
+    distinct: the wide word, over three hundred times in Tanach; the staple food of a society, so meat in Arabic (Rabbi Dr. Guy Matalon); from soldering, food cementing body and soul (Netziv); what sustains a person's inner moisture (Rabbi Shlomo Pappenheim)
   - he: ככר
+    tr: kikar
+    en: loaf
     nk: כִּכָּר
+    distinct: literally a circle, the loaf named for its round shape; in Tanach usually a talent of metal or a valley ringed by mountains, bread only in kikar lechem, which the Mishnah shortens to kikar alone
+  - he: חלה
+    tr: challah
+    en: meal-cake
+    nk: חַלָּה
+    distinct: a rolled or rounded meal-cake (Jastrow), implying a round shape (Ibn Ezra); in Tanach nearly always a korban, and in the Mishnah generally the tithe separated from dough; any loaf of bread is a later vernacular sense
+  - he: פת
+    tr: pat
+    en: morsel, piece of bread
+    distinct: a broken piece, a morsel (Radak), eleven of its fourteen appearances the phrase pas lechem; in Mishnah and Gemara simply another synonym for bread, Targum even rendering kikar as pas
+  - he: ריפתא
+    tr: rifta
+    en: bread
+    distinct: an Aramaic word for bread in the Gemara, apparently related to Arabic raghif, a flat loaf; a meal of two identical loaves (Rabbi Nosson of Rome)
+  - he: נהמא
+    tr: nahamah
+    en: bread
+    distinct: an Aramaic word for bread in the Gemara that also runs through the Zohar; some linguists claim it is borrowed from Persian nan, bread
 sources:
   - wiaw:7815 "Let Them Eat Bread" (2018-06-23) https://articles.ohr.edu/articles/let-them-eat-bread
   - wiaw:11363 "Pesach: Eating Cake" (2024-04-27) https://articles.ohr.edu/articles/pesach-eating-cake
@@ -30,6 +52,17 @@ valley ringed by mountains, not bread. *Challah* in Tanach is a **meal-cake**,
 almost always one brought as a korban, and in the Mishnah generally the
 **tithe** separated from dough, not the loaf we call by that name today. *Pat* is a **morsel**, a broken piece, which became a plain synonym for
 bread in Rabbinic usage. *Rifta* and *nahamah* are the Aramaic words for bread.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| לחם | lechem | bread | the wide word; the staple food of a society (Matalon) |
+| ככר | kikar | loaf | a circle, so a round loaf; in Tanach usually a talent or a valley |
+| חלה | challah | meal-cake | in Tanach a korban meal-cake; in the Mishnah the tithe from dough |
+| פת | pat | morsel, piece of bread | a broken piece (Radak); in Rabbinic usage plain bread |
+| ריפתא | rifta | bread | Aramaic bread; perhaps a flat loaf, or a meal of two loaves (Aruch) |
+| נהמא | nahamah | bread | Aramaic bread, in the Gemara and the Zohar; perhaps from Persian *nan* |
 
 ## Distinctions
 

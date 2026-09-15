@@ -5,6 +5,23 @@ roots: [ש-ד, ד-ד, ד, ע-ט, ז-ז]
 translit: [shadayim, shadaim, shad, shod, dadim, dad, atinim, atin, itinim, ziz, zeez, lshad, leshad, sheid, shed, bizaya, byziou]
 english: [breast, breasts, teat, udder, nipple, bosom]
 domain: body
+words:
+  - he: שדים
+    tr: shadayim
+    en: breasts
+    distinct: the standard Biblical word, twenty-four times in Tanach; from abnormality, the one limb that secretes milk (Rabbi Shlomo Pappenheim); in Bereishis 49:25 tied instead to shooting or casting (Rashi), or read as clouds (Peirush HaRokeach); the upper, nursing breasts, as against dadim (Malbim)
+  - he: דדים
+    tr: dadim
+    en: breasts
+    distinct: rarer, four times in Tanach, meaning exactly what shadayim means (Menachem Ibn Saruk, Radak), though Malbim and Rabbeinu Chananel read the lower parts; unambiguously breasts in Rabbinic Hebrew; synonymous but from an infant's own sound (Rabbi Moshe Tedeschi-Ashkenazi)
+  - he: עטינים
+    tr: atinim
+    en: breasts, udders
+    distinct: a hapax in Iyov, read as breasts (Ralbag); in Modern Hebrew udders or a nipple; kin to maatan, the olive vat (Rashi); from insatiability, the udder never at rest (Rabbi Shlomo Pappenheim)
+  - he: זיז
+    tr: ziz
+    en: breast, radiance
+    distinct: a disputed hapax in Yeshayahu 66:11; a form of ziv, radiance (Radak); breast, like Italian zizza and German zitze (Shadal, Gesenius, Daas Mikra); any protrusion (Mitchell First)
 sources:
   - wiaw:11489 "Nursing from the Good" (2024-08-17) https://articles.ohr.edu/articles/nursing-from-the-good
   - wiaw:8287 "On Clouds" (2019-06-15) https://articles.ohr.edu/articles/on-clouds
@@ -26,6 +43,15 @@ Modern Hebrew it is the **udders** of a milk-producing animal or a human
 **radiance**, while Shadal and Gesenius read it as **breast**. Rabbi Shlomo of Urbino (*Ohel Moed*) lists the
 first three as Biblical synonyms, though Malbim holds that *dadim* and
 *shadayim* name different parts of the body.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שדים | shadayim | breasts | the standard Biblical word; the upper, nursing breasts (Malbim) |
+| דדים | dadim | breasts | rarer; same as *shadayim* (Radak), or the lower parts (Malbim) |
+| עטינים | atinim | breasts, udders | a hapax read as breasts (Ralbag); in Modern Hebrew, udders |
+| זיז | ziz | breast, radiance | disputed: radiance (Radak) against breast (Shadal, Gesenius) |
 
 ## Distinctions
 

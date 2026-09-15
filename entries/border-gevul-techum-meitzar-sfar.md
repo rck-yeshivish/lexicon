@@ -6,10 +6,25 @@ translit: [gevul, gvul, gvulim, techum, techoma, techumin, meitzar, metzar, mitz
 english: [border, boundary, territory, limit, frontier, straits]
 domain: society
 words:
+  - he: גבול
+    tr: gevul
+    en: border, territory
+    distinct: the Biblical word, at its core the whole area within the borders, not just the edge (Rav Hirsch); the point of convergence that both separates and merges (HaKtav VeHaKabbalah); the border that unites a land as one (Rabbi Rivlin); cognate with Arabic jabal, mountain (Gesenius)
+  - he: תחום
+    tr: techum
+    en: bounded area
+    distinct: the Targum's rendering of gevul and the Mishnaic word for what falls inside a bound, as techum Shabbos; a loanword from Aramaic and in turn Akkadian tahumu (Rabbi Ernest Klein); a metathesis of chasum, sealed (Rabbi Lubetzki)
+  - he: מיצר
+    tr: meitzar
+    en: boundary
+    distinct: the Rabbinic word for a boundary, as between adjoining fields, not the Biblical meitzar, straits, from narrowness (Ibn Kuraish), though Ibn Ezra and Pappenheim connect the two; its plural mitzarim read also from tzarah, sorrow (Rashi)
+  - he: ספר
+    tr: sfar
+    en: frontier
+    nk: סְפָר
+    distinct: not the line itself but what sits near it, the border region exposed to what lies outside; later Rabbinic, with one possible Biblical instance in sefarah (Rabbi Mecklenburg), most taking that as a place name; from circle, border cities walled round (Rabbi Golumb); confines all within it as one unit (Rabbi Moshe Shapiro)
   - he: מצרים
     nk: מְצָרִים
-  - he: ספר
-    nk: סְפָר
 sources:
   - wiaw:11471 "Matos/Masei: On the Border" (2024-08-03) https://articles.ohr.edu/articles/matosmasei-on-the-border
   - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
@@ -33,6 +48,15 @@ the **frontier** or border region exposed to what lies outside. Rashi reads
 *bein hametzarim* two ways at once: the Three Weeks, taking
 *mitzarim* from *tzarah*, "sorrow"; and, in the plain sense, "between the
 boundaries."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גבול | gevul | border, territory | the Biblical word; the whole territory inside the line, not only the edge (Rav Hirsch) |
+| תחום | techum | bounded area | the Targum's and Mishnah's word; the bounded area, as *techum Shabbos* |
+| מיצר | meitzar | boundary | the Rabbinic boundary between fields, distinct from the Biblical straits (Ibn Kuraish) |
+| ספר | sfar | frontier | not the line but the region near it, exposed to what lies outside |
 
 ## Distinctions
 

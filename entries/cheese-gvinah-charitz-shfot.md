@@ -5,6 +5,19 @@ roots: [ג-ב-ן, ג-ב, ח-ר-ץ, ש-פ]
 translit: [gvinah, gevinah, gvina, charitz, charitzei hechalav, shfot, shefot, shfot bakar, giben, gav, gavnunim, gavnunim, gavoah, charutz]
 english: [cheese, curds, soft cheese, hunchback, back, bulge]
 domain: nature
+words:
+  - he: גבינה
+    tr: gvinah
+    en: cheese
+    distinct: the ordinary word and the one Chazal use, once in Tanach; from a bulge, cheese heaping up (Rabbi Shlomo Pappenheim); something integral removed, liquid from curds (Rabbi Avi Kobernick); possibly Aramaic in origin
+  - he: חריץ
+    tr: charitz
+    en: rounds of cheese
+    distinct: a hapax, charitzei hechalav, read as cheese (Targum Yonasan, Rashi); pieces of fresh cheese (Radak), cheese gathered in ditches (Rabbi Yosef Kara), or tangy fermented cheese (Rabbi Tedeschi-Ashkenazi); against these, young kids (Midrash Shmuel), or thick milk in the udder (Ibn Janach)
+  - he: שפות
+    tr: shfot
+    en: cheese
+    distinct: a hapax, shfot bakar, rendered cheese (Targum Yonasan); cheese so slick flies slid off it (Midrash Shocher Tov); soft, spreadable cheese, from rubbing (Rabbi Pappenheim); against these, milk in the udder (Ibn Janach), the udders (Radak), or butter (Rabbi Avraham ben Shlomo)
 sources:
   - wiaw:9723 "More Cheese Please" (2022-06-04) https://articles.ohr.edu/articles/more-cheese-please
 authorities: [Rabbi Shimshon of Ostropoli, Ralbag, Rabbi Saadia Gaon, Radak, Abarbanel, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Avi Kobernick, Targum Yonasan, Rashi, Menachem Ibn Saruk, Ibn Janach, Rabbi Yosef Kara, Metzudas Tzion, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Radal, Rabbi Shmuel Yaffe-Ashkenazi, Rabbi Avraham ben Shlomo, Rabbi Avraham Maskileison, Rabbi Chaim Dov Rabinowitz, Rema, Pri Megadim, Rabbi Yosef Nissim Ben-Adahan, Alexander Kohut, Josephus]
@@ -21,6 +34,14 @@ updated: 2026-09-10
 cheese; but each is disputed, *charitz* possibly meaning unweaned kids or milk
 still in the udder, *shfot* possibly the udders themselves or butter. On Rabbi Avraham Maskileison's reading, that dispute is why
 Bechoros 6b cites the *charitz* pasuk only as a possible proof.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גבינה | gvinah | cheese | the ordinary word, Chazal's; cheese heaps up, from a bulge (Pappenheim) |
+| חריץ | charitz | rounds of cheese | a hapax: cheese (Targum Yonasan, Rashi) or young kids (Midrash Shmuel) |
+| שפות | shfot | cheese | a hapax: soft, spreadable cheese (Pappenheim), or the udders (Radak) |
 
 ## Distinctions
 

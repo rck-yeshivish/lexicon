@@ -6,8 +6,19 @@ translit: [of, ohf, oaf, tzipor, tzippor, tsipor, kanaf, canaf, tzafra, tzippari
 english: [bird, fowl, winged creature, songbird]
 domain: nature
 words:
+  - he: עוף
+    tr: of
+    en: fowl
+    distinct: the broad word for anything that flies, with tzipor and kanaf as classes under it (Radak), covering all birds (Sifri, Rambam); a strong-winged bird, typically a predator, restless because it depends on nothing but itself (Rabbi Chanoch Zundel)
+  - he: ציפור
+    tr: tzipor
+    en: bird
+    distinct: the narrower word, its limit disputed; any bird, as against insects (Radak); only a kosher bird (Sifri, Rambam); the small songbird chirping at morning, from tzafra (Ramban); the weaker, non-predatory bird that trusts another to feed it, joining the last two (Rabbi Chanoch Zundel)
   - he: כנף
+    tr: kanaf
+    en: winged creature
     nk: כָּנָף
+    distinct: named for the wing itself, and reaching to grasshoppers and other winged things that kol tzipor did not cover (Rashi); the class term for winged insects (Radak); kin to ganav, a thief, both hiding (Rav Hirsch)
   - he: צפרא
     nk: צַפְרָא
 sources:
@@ -28,6 +39,14 @@ songbird that greets the morning (Ramban). *Kanaf* is literally **winged
 creature**, the wing itself doing the naming, and it reaches to grasshoppers and
 other winged insects. All three stand in one pasuk, Bereishis 7:14, where Rashi
 reads *kol kanaf* as including what *kol tzipor* had not covered.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עוף | of | fowl | anything that flies (Radak); a strong-winged, restless predator (Rabbi Chanoch Zundel) |
+| ציפור | tzipor | bird | narrower: any bird (Radak), a kosher bird (Sifri, Rambam), or a dawn songbird (Ramban) |
+| כנף | kanaf | winged creature | named for the wing; takes in grasshoppers and other winged insects (Rashi, Radak) |
 
 ## Distinctions
 

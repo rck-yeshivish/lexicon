@@ -6,10 +6,28 @@ translit: [reishis, reishit, breishis, bereishit, rishon, rishonah, rosh, reish,
 english: [beginning, first, foremost, head, onset, outset, before, east]
 domain: time
 words:
-  - he: קדם
-    nk: קֶדֶם
+  - he: ראשית
+    tr: reishis
+    en: beginning, foremost
+    distinct: a beginning that carries importance in its own right; an absolute, primal beginning, not necessarily part of a sequence (Malbim), or the foremost of a series something preceded (the Vilna Gaon); strictly what is chronologically first (Rabbi Hoberman); marks yiras Hashem as the goal of wisdom (Maharal)
+  - he: ראשון
+    tr: rishon
+    en: first
+    distinct: first in a counted series, the opening position defined against the items after it (Malbim); can be spatial as well as temporal, in front (Rabbi Shlomo Pappenheim); being first does not posit a second (Rabbi Klein)
   - he: ראש
+    tr: rosh
+    en: head
     nk: רֹאשׁ
+    distinct: the anatomical head and the head of a nation or tribe; the opening of an expected series, as Rosh Chodesh; a count or tally (Menachem Ibn Saruk), or the final total gathered under one head (Rav Hirsch); also poison
+  - he: תחילה
+    tr: techilah
+    en: onset
+    distinct: the opening act of a sequence, negating a prior time without tying itself to what follows (Malbim); the absolute first (the Vilna Gaon); can name what came later but was the goal from the outset (Rabbi Hoberman); makes yirah and wisdom one continuum (Maharal); from circularity, a process entering its cycle (Rabbi Shlomo Pappenheim)
+  - he: קדם
+    tr: kedem
+    en: before, east
+    nk: קֶדֶם
+    distinct: before in time, with mukdam, kadmon and hakdamah; spatially east, where the sun rises and so what comes first; Targum Onkelos renders b'reishis as b'kadmin; from kuf-dalet, read with kodkod, the skull (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
 authorities: [Rashi, Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Netziv, Maharal, the Vilna Gaon, Malbim, Rabbi Zev Hoberman, Rabbi Shaul Goldman, Targum Onkelos, Targum Yerushalmi]
@@ -30,6 +48,16 @@ account) that a thing did not exist before, without tying itself to what follows
 *Kedem* is **before**, and in space **east**. *Reishis* is valued, not merely
 ordinal, and Rashi's opening comment and the Netziv's *terumah* reading both
 depend on that importance.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ראשית | reishis | beginning, foremost | a valued beginning; absolute and primal (Malbim), or foremost of a series (Vilna Gaon) |
+| ראשון | rishon | first | first in a counted series, defined against what follows (Malbim); also spatial (Pappenheim) |
+| ראש | rosh | head | the head; opens an expected series; a tally (Menachem) or the total (Rav Hirsch) |
+| תחילה | techilah | onset | the onset, negating a prior time (Malbim); the goal from the outset (Hoberman) |
+| קדם | kedem | before, east | before in time; in space, east, where the sun first rises |
 
 ## Distinctions
 

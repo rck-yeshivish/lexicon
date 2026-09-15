@@ -5,6 +5,19 @@ roots: [ח-פ-ה, ס-כ-ך]
 translit: [apiryon, apirion, chuppah, chupah, chuppa, chofeh, mechapeh, succah, sukkah, sukka, sechach, s'chach]
 english: [canopy, wedding canopy, booth, covering, palanquin]
 domain: ritual
+words:
+  - he: סוכה
+    tr: succah
+    en: booth
+    distinct: defined by its sechach, the covering above (Rashi); a structure whose main purpose is to shield a man from what is above him (Rabbi Libber)
+  - he: חופה
+    tr: chuppah
+    en: wedding canopy
+    distinct: from chofeh, to cover; records only that the thing is covered on top, with no implication of shelter (Rabbi Libber)
+  - he: אפריון
+    tr: apiryon
+    en: palanquin
+    distinct: a hapax in Shir HaShirim; glossed as a chuppah (Parenzo, the Maharsha); a mobile enclosure a woman travels in, per the Mishnah (Rabbi Klein); on the paryanka reading a palanquin, the chuppah gloss stating its halachic role, not its meaning
 sources:
   - wiaw:7103 "A Panoply of Canopies" (2017-01-21) https://articles.ohr.edu/articles/a-panoply-of-canopies
 authorities: [Rashi, Maharsha, Rabbi Pheobus Meir Parenzo, Rabbi Tzvi Mordechai Libber]
@@ -26,6 +39,14 @@ mefarshim who gloss *apiryon* as a *chuppah* are stating
 its halachic function at Amram and Yocheved's remarriage, not equating the two
 words. Rabbi Klein's working premise is that no two words in Hebrew
 mean exactly the same thing, so a difference must be found.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| סוכה | succah | booth | defined by its *sechach*; a shelter from what is above (Libber) |
+| חופה | chuppah | wedding canopy | covered on top, with no sense of protection (Libber) |
+| אפריון | apiryon | palanquin | a mobile enclosure or palanquin; a *chuppah* only in function (Maharsha, Parenzo) |
 
 ## Distinctions
 

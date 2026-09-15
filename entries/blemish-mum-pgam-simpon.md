@@ -6,6 +6,18 @@ translit: [mum, moom, mumin, meumah, meuma, pgam, pegam, pagum, pogem, pogemet, 
 english: [blemish, defect, flaw, deficiency, nick, cancellation]
 domain: other
 words:
+  - he: מום
+    tr: mum
+    en: blemish, defect
+    distinct: at root a something, from meumah (Pappenheim, Rabbi Ernest Klein); a small something present that should not be or absent that should be, so it covers both a lack and an excess; the Torah's word for what disqualifies a kohen or an offering
+  - he: פגם
+    tr: pgam
+    en: nick, deficiency
+    distinct: a groove or crevice taken out, like the moon's darkened part or a knife's nick (Rabbi Eliyahu HaBachur); from weakening (Pappenheim); kin to Arabic fajama, to break off a bit (Rabbi Ernest Klein); in rabbinic use a lack, a loss of worth or standing
+  - he: סימפון
+    tr: simpon
+    en: cancelling condition
+    distinct: not a blemish at all but any clause, express or implied, that can cancel a deal (Rashi), from Greek symphoneo, agreement; retroactive cancellation also on a Semitic derivation from erasing (Rabbi Yaakov Dienna); a physical defect only one thing that can trigger it
   - he: מאומה
     nk: מְאוּמָה
 sources:
@@ -28,6 +40,14 @@ something, and by extension a loss of worth or standing. *Simpon* does not mean
 blemish at all; it is a **cancelling condition**, whatever can void an
 agreement, and a physical defect is only one instance of it. In *Kesubos* 57b *simpon* belongs
 to a rule about voidable kiddushin, not a rule about bodies.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מום | mum | blemish, defect | a "something" out of place, a lack or an excess (Pappenheim); the Torah's disqualifying defect |
+| פגם | pgam | nick, deficiency | a nick or groove taken out (Eliyahu HaBachur); by extension, loss of worth |
+| סימפון | simpon | cancelling condition | not a blemish; any condition that can void a deal (Rashi) |
 
 ## Distinctions
 

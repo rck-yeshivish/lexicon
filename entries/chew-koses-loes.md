@@ -5,6 +5,15 @@ roots: [כ-ס-ס, ק-ס-ס, ק-ס, ל-ע-ס]
 translit: [koses, kosses, kas, kesisah, kesisa, kisisah, lachus, lo'es, loes, leisah, leisa, leiseh, kiskusei, kaskasa, lekaskes, kisnin, kesanin, yikoses, keset, kisam]
 english: [chew, chewing, munch, masticate, crunch, gnaw]
 domain: body
+words:
+  - he: כסס
+    tr: koses
+    en: chew
+    distinct: rabbinic, apparently a native Hebrew word; gnawing something raw or eating it in an abnormal way (Rashi); not necessarily chewing toward swallowing (Rabbi Meir Mazuz); the more enjoying chew (Rabbi Yitzchak Barda); perhaps no different in sense from lo'es (Rabbi Reuven Chaim Klein)
+  - he: לעס
+    tr: lo'es
+    en: chew
+    distinct: rabbinic, apparently a loanword from Aramaic; equated with koses (Rashi); ordinary chewing toward swallowing (Rabbi Meir Mazuz); the more workaday chew (Rabbi Yitzchak Barda); perhaps different only in language of origin (Rabbi Reuven Chaim Klein)
 sources:
   - wiaw:11831 "Behaaloscha: Chew That" (2025-06-14) https://articles.ohr.edu/articles/behaaloscha-chew-that
   - wiaw:10931 "Showing Teeth" (2023-04-22) https://articles.ohr.edu/articles/showing-teeth
@@ -30,6 +39,13 @@ necessarily carry that implication, and Rabbi Yitzchak Barda has *kesisah* the
 more enjoying chew and *le'isah* the more workaday one. Rabbi Klein grants that
 the difference the Mazuz family presumes is hard to substantiate, and hard even
 to state exactly.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כסס | koses | chew | chewing raw or in an unusual way (Rashi); the more enjoying chew (Barda) |
+| לעס | lo'es | chew | Aramaic in origin; equated with *koses* (Rashi); chewing to swallow (Meir Mazuz) |
 
 ## Distinctions
 
