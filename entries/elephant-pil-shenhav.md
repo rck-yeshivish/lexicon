@@ -113,16 +113,16 @@ cites the suggestion that English *elephant* derives ultimately from the Hebrew
 Jewish surnames Helfand, Gelfand and Elfant all mean "elephant."
 
 ### pildash (פלדש)
-The sixth son of Nachor (Bereishis 22:22), whose etymology is
-somewhat unclear. Some linguists read the name as a portmanteau of *pladot*,
-torches, and *aish*, fire, two words that stand side by side in the pasuk
-(Nachum 2:4); *pladot* itself occurs
-only once in Tanach and seems to be a metathesized form of the more familiar
-*lapidot*, torches. Another tradition, from Rabbeinu Efrayim ben Shimshon, reads
-the name as *pil* plus *dash*, an elephant that threshes, an allusion to
-Pildash's superlative height, which let him "thresh" over everyone shorter than
-himself. That is the only place *pil* comes near the biblical text, and only by
-way of a name.
+The sixth son of Nachor (Bereishis 22:22), whose etymology is somewhat unclear.
+
+- Some linguists read the name as a portmanteau of *pladot*, torches, and
+  *aish*, fire, two words that stand side by side in the pasuk (Nachum 2:4);
+  *pladot* itself occurs only once in Tanach and seems to be a metathesized form
+  of the more familiar *lapidot*, torches.
+- Another tradition, from Rabbeinu Efrayim ben Shimshon, reads the name as *pil*
+  plus *dash*, an elephant that threshes, an allusion to Pildash's superlative
+  height, which let him "thresh" over everyone shorter than himself. That is the
+  only place *pil* comes near the biblical text, and only by way of a name.
 
 ## Rendering guidance
 

@@ -109,21 +109,23 @@ prepare the *ketores*, and others who likewise withheld the skills that would
 have enhanced the *avodah*. *Pesachim* 10:4 teaches that in the Haggadah one
 begins with *genus* and concludes with praise, that is, begins the telling from
 the point at which the nation was in utter disgrace, its pre-Avrahamic pagan
-origins or its slavery in Mitzrayim. The adjective is *megunah*. Rabbi Eliyahu
-HaBachur, in *Meturgaman*, files *gnai* under a four-letter root ג-נ-א-י of its
-own. Rabbi Dr. Ernest Klein traces it instead to an Aramaic root ג-נ-י meaning
-to be within shade, and further connects *gnai*/*genus* to the Arabic *janyya*,
-"crime." Rabbi Reuven Chaim Klein adds that perhaps the shade sense might be
-related to the English "to cast a shadow" over something. That Aramaic root evidently
-goes back to Rabbi Pappenheim's biliteral ג-נ, protection, which yields *gan*, a
-guarded and protected plot, *niggun*, a melody whose variety of sounds mimics
-the variety of flora in a garden, and *magen*, a shield. On the pairing of
-*gnai* with *gan* the Maggid of Kozhnitz (Rabbi Yisroel Hopstein) built a
-Hassidic insight, not an etymological one: a garden needs
-large amounts of manure to thrive, and the more of such "disgraceful" matter
-one adds, the better it grows; so too a man, the more he humbles himself before
-Hashem and understands his own disgracefulness, the more he can grow and reap
-the fruits of his efforts.
+origins or its slavery in Mitzrayim. The adjective is *megunah*.
+
+- Rabbi Eliyahu HaBachur, in *Meturgaman*, files *gnai* under a four-letter root
+  ג-נ-א-י of its own.
+- Rabbi Dr. Ernest Klein traces it instead to an Aramaic root ג-נ-י meaning to
+  be within shade, and further connects *gnai*/*genus* to the Arabic *janyya*,
+  "crime." Rabbi Reuven Chaim Klein adds that perhaps the shade sense might be
+  related to the English "to cast a shadow" over something. That Aramaic root
+  evidently goes back to Rabbi Pappenheim's biliteral ג-נ, protection, which
+  yields *gan*, a guarded and protected plot, *niggun*, a melody whose variety
+  of sounds mimics the variety of flora in a garden, and *magen*, a shield.
+- On the pairing of *gnai* with *gan* the Maggid of Kozhnitz (Rabbi Yisroel
+  Hopstein) built a Hassidic insight, not an etymological one: a garden needs
+  large amounts of manure to thrive, and the more of such "disgraceful" matter
+  one adds, the better it grows; so too a man, the more he humbles himself
+  before Hashem and understands his own disgracefulness, the more he can grow
+  and reap the fruits of his efforts.
 
 ## Rendering guidance
 

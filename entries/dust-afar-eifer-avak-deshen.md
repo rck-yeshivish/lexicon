@@ -61,26 +61,26 @@ Hillel, which treats *afar* as the general term. *Shabbos* 18a and Rashi to
 *Taanis* 15a likewise imply that *afar* and *eifer* are synonyms, or at least
 interchangeable in some contexts.
 
-The Zohar (*Vayishlach* 170a) sets the real line: *afar* is the crucible from
-which growth comes, while *eifer* and *avak*, what fire leaves behind, grow
-nothing. The
-Zohar's own formulation treats *eifer* and *avak* as though they were perfect
-synonyms for burnt remnants; Rabbi Klein notes that this is a bit of an
-oversimplification, since although both are formed by a violent destructive
-process they are not the same thing, *eifer* being produced by burning and *avak*
-by pulverizing.
-Rabbi Moshe Shapiro draws the lesson of Bamidbar 19:17, where the Torah calls the
-ashes of the Parah Adumah *afar*: what looks like the residue of destruction can
-sometimes become the seed of renewal, which is exactly the point for one purified from
-tumas meis.
+- The Zohar (*Vayishlach* 170a) sets the real line: *afar* is the crucible from
+  which growth comes, while *eifer* and *avak*, what fire leaves behind, grow
+  nothing.
+- The Zohar's own formulation treats *eifer* and *avak* as though they were
+  perfect synonyms for burnt remnants; Rabbi Klein notes that this is a bit of
+  an oversimplification, since although both are formed by a violent destructive
+  process they are not the same thing, *eifer* being produced by burning and
+  *avak* by pulverizing.
+- Rabbi Moshe Shapiro draws the lesson of Bamidbar 19:17, where the Torah calls
+  the ashes of the Parah Adumah *afar*: what looks like the residue of
+  destruction can sometimes become the seed of renewal, which is exactly the
+  point for one purified from tumas meis.
 
-On the root, in Rabbi Pappenheim's system *afar* cannot be related to the
-biliteral פ-ר, because for him a two-letter root joins only HEY, ALEPH, MEM, NUN, TAV,
-YOD or VAV to become triliteral, and *afar* opens with an AYIN. Others who work
-with two-letter roots do connect them: Rabbi Yaakov Tzvi Mecklenburg, since
-*afar* is indispensable to growing *pri*; and Rabbi Aharon Marcus (*Barzilai*),
-who traces both *afar* and *eifer* to פ-ר, and elsewhere (*Keses HaSofer*) reads
-*afar* as a fusion of ע-פ, "flying," with פ-ר.
+- On the root, in Rabbi Pappenheim's system *afar* cannot be related to the
+  biliteral פ-ר, because for him a two-letter root joins only HEY, ALEPH, MEM,
+  NUN, TAV, YOD or VAV to become triliteral, and *afar* opens with an AYIN.
+- Others who work with two-letter roots do connect them: Rabbi Yaakov Tzvi
+  Mecklenburg, since *afar* is indispensable to growing *pri*; and Rabbi Aharon
+  Marcus (*Barzilai*), who traces both *afar* and *eifer* to פ-ר, and elsewhere
+  (*Keses HaSofer*) reads *afar* as a fusion of ע-פ, "flying," with פ-ר.
 
 ### eifer (אפר)
 Ashes, the product of burning. Rabbi Pappenheim traces it to the biliteral פ-ר,

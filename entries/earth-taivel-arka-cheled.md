@@ -65,32 +65,38 @@ letters, different nikud, one root. And *karka* is not on this list at all.
 
 ## Where the authorities disagree
 
-**What *taivel* is against *eretz*.** Where the two stand together (Tehillim
-90:2, 24:1), *Metzudas Tziyon*: *eretz* is the uninhabited parts and *taivel*
-the inhabited. Malbim similarly: *eretz* is the globe entire, *taivel* only what is
-settled. Rashi (to Tehillim 24:1): *eretz* is Eretz Yisrael and *taivel* the
-rest of the planet.
+**What *taivel* is against *eretz*.**
+
+- Where the two stand together (Tehillim 90:2, 24:1), *Metzudas Tziyon*: *eretz*
+  is the uninhabited parts and *taivel* the inhabited.
+- Malbim similarly: *eretz* is the globe entire, *taivel* only what is settled.
+- Rashi (to Tehillim 24:1): *eretz* is Eretz Yisrael and *taivel* the rest of
+  the planet.
 
 **Why *taivel* is so called.** Avos d'Rabbi Nasan (version 1) gives two answers,
 both from the root BET-LAMED as Rabbi Shlomo Pappenheim reads it, a thing losing
-its own standing by being mixed into something else or by wearing away. First,
-the world is *metubal*, spiced, with everything, the root of Mishnaic *tavlin*;
-version 2 has it spiced with Torah, so the world earns the name because Torah is
-mixed into its running. Second, its way is that things enter it and do not come
-out, which Rabbi Klein explains of people buried in the ground who do not emerge
-from the grave, at least until techiyas hameisim reverses it, so that the ground
-is where bodies decay.
+its own standing by being mixed into something else or by wearing away.
 
-**Whether *arka* is Hebrew or Aramaic.** Rabbi Shmuel Yaffe-Ashkenazi: the word
-is Hebrew even though the pasuk around it is Aramaic, since the Aramaic of
-*eretz* is *ara*, TZADI becoming AYIN as it often does, and that form appears in
-the same verse. How Hebrew *eretz* would yield *arka* is unclear; Rabbi Klein
-offers only that perhaps the TZADI became a KUF because the two letters adjoin in
-the alef-beis. *Midrash Mishlei* ch. 8 instead reads *arka* as the land that fled
-from before Hashem when He came to give the Torah at Sinai. Rabbi Klein says
-plainly that he is not sure what this means, and adds that the basis for the
-derashah seems to be the resemblance between Hebrew *arka* with an ALEPH and the
-Aramaic *arka* spelled with an AYIN, which means "to flee."
+- First, the world is *metubal*, spiced, with everything, the root of Mishnaic
+  *tavlin*; version 2 has it spiced with Torah, so the world earns the name
+  because Torah is mixed into its running.
+- Second, its way is that things enter it and do not come out, which Rabbi Klein
+  explains of people buried in the ground who do not emerge from the grave, at
+  least until techiyas hameisim reverses it, so that the ground is where bodies
+  decay.
+
+**Whether *arka* is Hebrew or Aramaic.**
+
+- Rabbi Shmuel Yaffe-Ashkenazi: the word is Hebrew even though the pasuk around
+  it is Aramaic, since the Aramaic of *eretz* is *ara*, TZADI becoming AYIN as
+  it often does, and that form appears in the same verse. How Hebrew *eretz*
+  would yield *arka* is unclear; Rabbi Klein offers only that perhaps the TZADI
+  became a KUF because the two letters adjoin in the alef-beis.
+- *Midrash Mishlei* ch. 8 instead reads *arka* as the land that fled from before
+  Hashem when He came to give the Torah at Sinai. Rabbi Klein says plainly that
+  he is not sure what this means, and adds that the basis for the derashah seems
+  to be the resemblance between Hebrew *arka* with an ALEPH and the Aramaic
+  *arka* spelled with an AYIN, which means "to flee."
 
 ## Distinctions
 

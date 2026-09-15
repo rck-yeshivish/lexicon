@@ -121,18 +121,19 @@ for the connection is presumably the interchangeability of *ches* and *tes*,
 which are consecutive letters.
 
 ### go'al (גועל)
-Thirteen occurrences in Tanach, on Even-Shoshan's concordance. Pappenheim:
-dirtied by a pollutant that is
-disgusting in its own right, excrement (Tzefaniah 3:1), blood (Yeshayahu 59:3,
-Eichah 4:14). Daniel refused to *defile* himself (*yisga'al*) with the king's
-food (Daniel 1:8); Hashem's garments are *befouled* (*ega'alti*) with Edom's
-blood (Yeshayahu 63:3). Rabbi Yehoshua Steinberg ties it to *geulah* and *go'el*
-under ג-(א)-ל: a single axis of nearness and distance, with *go'al* naming what
-one distances oneself from and redemption naming the drawing near; he also links
-ג-ע-ל, "repugnant," through the interchange of *aleph* and *ayin*. Pappenheim,
-taking a slightly different approach, ties it to the two-letter ג-ל, "round,"
-through *galal*, the typically round pellets of animal droppings that no one
-disputes are filth.
+Thirteen occurrences in Tanach, on Even-Shoshan's concordance.
+
+- Pappenheim: dirtied by a pollutant that is disgusting in its own right,
+  excrement (Tzefaniah 3:1), blood (Yeshayahu 59:3, Eichah 4:14). Daniel refused
+  to *defile* himself (*yisga'al*) with the king's food (Daniel 1:8); Hashem's
+  garments are *befouled* (*ega'alti*) with Edom's blood (Yeshayahu 63:3).
+- Rabbi Yehoshua Steinberg ties it to *geulah* and *go'el* under ג-(א)-ל: a
+  single axis of nearness and distance, with *go'al* naming what one distances
+  oneself from and redemption naming the drawing near; he also links ג-ע-ל,
+  "repugnant," through the interchange of *aleph* and *ayin*.
+- Pappenheim, taking a slightly different approach, ties it to the two-letter
+  ג-ל, "round," through *galal*, the typically round pellets of animal droppings
+  that no one disputes are filth.
 
 ### zuhamah (זוהמה)
 Root ז-ה-ם, once in Tanach: to the sick man food looks like *zuhamah* (Iyov
@@ -162,20 +163,21 @@ Rashbam (to Tehillim 26:10) glosses *zimah* as *tinuf*, from which Rabbi
 Steinberg suggests he read ז-מ-ה as a metathesis of ז-ה-ם. In Modern Hebrew
 *mezuham* means "infected" in the bacterial sense.
 
-In at least two places in *HaMadrich HaMaspik*, Rabbi Tanchum HaYerushalmi (a
-thirteenth-century exegete who lived in Eretz Yisrael) writes fairly clearly
-that *tinuf*, *lichluch* and *zuhamah* are all synonymous. Pappenheim too seems
-to equate *lichluch* with *tinuf*, as do Ibn Janach and Radak in their
-respective *Sifrei HaShorashim*. Rabbi Klein suggests that where they are
-equated the difference may be etymological rather than semantic, and offers two
-ways to argue it: *tinuf* seems to be actual biblical Hebrew while *lichluch*
-seems to be a later Aramaic borrowing; or, alternatively, *lichluch* may derive
-from biblical ל-ח while *tinuf* is the loanword that came in from Aramaic, on
-the evidence that the Targumim favor it. Rabbi Shaul Goldman sums up what he
-sees as the differences in rabbinic usage: *tinuf* usually for contamination by
-bodily fluids or contact with animals, *lichluch* usually implying unwanted
-wetness or moisture, *zuhamah* pointing to some unwanted element, usually a
-contaminant.
+- In at least two places in *HaMadrich HaMaspik*, Rabbi Tanchum HaYerushalmi (a
+  thirteenth-century exegete who lived in Eretz Yisrael) writes fairly clearly
+  that *tinuf*, *lichluch* and *zuhamah* are all synonymous.
+- Pappenheim too seems to equate *lichluch* with *tinuf*, as do Ibn Janach and
+  Radak in their respective *Sifrei HaShorashim*.
+- Rabbi Klein suggests that where they are equated the difference may be
+  etymological rather than semantic, and offers two ways to argue it: *tinuf*
+  seems to be actual biblical Hebrew while *lichluch* seems to be a later
+  Aramaic borrowing; or, alternatively, *lichluch* may derive from biblical ל-ח
+  while *tinuf* is the loanword that came in from Aramaic, on the evidence that
+  the Targumim favor it.
+- Rabbi Shaul Goldman sums up what he sees as the differences in rabbinic usage:
+  *tinuf* usually for contamination by bodily fluids or contact with animals,
+  *lichluch* usually implying unwanted wetness or moisture, *zuhamah* pointing
+  to some unwanted element, usually a contaminant.
 
 ## Rendering guidance
 

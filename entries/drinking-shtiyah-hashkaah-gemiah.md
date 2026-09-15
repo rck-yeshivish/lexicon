@@ -142,15 +142,19 @@ me drink."
   absorbent material, which gives *gome*, the spongy reed of marshy wetlands:
   the request is to drink the way a reed soaks up water.
 
-Rabbi Reuven Chaim Klein offers two further possibilities of his own. First, that the term may
-be related to the Mishnaic *guma*, a pit or hole (Chullin 2:9; Parah 2:5),
-drinking being a pouring of things down the hole of one's mouth, on the order of
-the English "down the hatch." Second, a suggestion he credits to his wife, Shira
-Yael Klein, that the root is onomatopoeic, rendering the sound of glugging,
-gulping or slurping down a drink. He adds that the rabbinic *lugma* (a cheekful)
-and *legimah* (a sip) may well be related to *hagmieini*, although Rabbi Ernest
-Klein writes that the origin of the rabbinic ל-ג-מ is unknown and may in fact be
-borrowed from the Greek *lygmos*, "swallowing."
+Rabbi Reuven Chaim Klein offers two further possibilities of his own.
+
+- First, that the term may be related to the Mishnaic *guma*, a pit or hole
+  (Chullin 2:9; Parah 2:5), drinking being a pouring of things down the hole of
+  one's mouth, on the order of the English "down the hatch."
+- Second, a suggestion he credits to his wife, Shira Yael Klein, that the root
+  is onomatopoeic, rendering the sound of glugging, gulping or slurping down a
+  drink.
+
+He adds that the rabbinic *lugma* (a cheekful) and *legimah* (a sip) may well be
+related to *hagmieini*, although Rabbi Ernest Klein writes that the origin of
+the rabbinic ל-ג-מ is unknown and may in fact be borrowed from the Greek
+*lygmos*, "swallowing."
 
 ### how the parashah uses them
 Bereishis 24 runs all three through one episode: *lishtos* of the servant

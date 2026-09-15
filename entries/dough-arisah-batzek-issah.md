@@ -56,40 +56,44 @@ is left open.
 
 ### arisah (עריסה)
 The word Tanach always uses for dough when the mitzvah of *challah* is in view
-(Bamidbar 15:20-21, Nechemiah 10:38, Yechezkel 44:30). Rabbi Nosson of
-Rome (*Sefer HaAruch*): the root ע-ר-שׂ/ע-ר-ס, from which *arisah* is ostensibly
-derived, is an expression of mixing or joining.
-On that basis Rabbi Yaakov Tzvi Mecklenburg and Rav Hirsch take *arisah* to be
-dough precisely as a mixture of ingredients kneaded together (see Rashi to
-Berachos 37b). Mecklenburg adds *eres*, "bed," to the same root: a mattress
-rests on interlaced planks, a mixture of parts; Rabbi Yachya ben Shalom Kohen
-of Sanaa offers the same idea. Rabbeinu Meyuchas bar Eliyahu takes a
-different line: *arisah* is another word for *areivah*, the **kneading trough**, so
-the word names the surface the dough is worked on rather than the dough itself.
-Rabbi Yitzchak Ratzabi suggests that perhaps this is why a betrothed woman is
-called an *arusah*, as one now tied or joined to the man who is going to marry
-her; he notes that although *arusah* is spelled with an *aleph* and not an
-*ayin*, those two letters can sometimes interchange, as seen from
-the Arabic cognate of *arus*, groom, and *arusah*, bride, which is spelled with
-the Arabic equivalent of *ayin*.
+(Bamidbar 15:20-21, Nechemiah 10:38, Yechezkel 44:30).
+
+- Rabbi Nosson of Rome (*Sefer HaAruch*): the root ע-ר-שׂ/ע-ר-ס, from which
+  *arisah* is ostensibly derived, is an expression of mixing or joining. On that
+  basis Rabbi Yaakov Tzvi Mecklenburg and Rav Hirsch take *arisah* to be dough
+  precisely as a mixture of ingredients kneaded together (see Rashi to Berachos
+  37b). Mecklenburg adds *eres*, "bed," to the same root: a mattress rests on
+  interlaced planks, a mixture of parts; Rabbi Yachya ben Shalom Kohen of Sanaa
+  offers the same idea.
+- Rabbeinu Meyuchas bar Eliyahu takes a different line: *arisah* is another word
+  for *areivah*, the **kneading trough**, so the word names the surface the
+  dough is worked on rather than the dough itself.
+- Rabbi Yitzchak Ratzabi suggests that perhaps this is why a betrothed woman is
+  called an *arusah*, as one now tied or joined to the man who is going to marry
+  her; he notes that although *arusah* is spelled with an *aleph* and not an
+  *ayin*, those two letters can sometimes interchange, as seen from the Arabic
+  cognate of *arus*, groom, and *arusah*, bride, which is spelled with the
+  Arabic equivalent of *ayin*.
 
 ### batzek (בצק)
 The ordinary word for dough in Tanach, five times (Shemos 12:34, 12:39,
-Yirmiyahu 7:18, Hoshea 7:4, Shmuel II 13:8). Rabbi Mecklenburg: *batzek* is
-dough already kneaded and worked into a single batch, which has begun to rise
-or is about to. He notes that in a similar sense the root also means
-**swollen**: the Jews' feet did not swell (*batzek*) in the wilderness (Devarim 8:4, and the
-parallel at Nechemiah 9:21). Rabbi Yitzchak Ratzabi picks this up as a further suggestion:
-*arisah* might denote dough whose ingredients have simply been mixed together,
-while *batzek* might refer specifically to dough already kneaded and now
-beginning to rise or swell. He then proposes that if that is so, the halachah
-should be to take *challah* off the dough immediately after kneading, while it
-can still be called *arisah*, before it becomes *batzek*. Separately, Rabbi
-Aharon Marcus theorizes that every three-letter root containing *beis* and
-*kuf*, wherever the third letter falls, turns on breaking through (*boker*,
-*bezek*, *barak*, *bohak*, *bakesh*, *badek*, *bokea*, *bakar*), and assumes
-*batzek* belongs there too: the cracks that appear in leavening dough and make
-it look broken.
+Yirmiyahu 7:18, Hoshea 7:4, Shmuel II 13:8).
+
+- Rabbi Mecklenburg: *batzek* is dough already kneaded and worked into a single
+  batch, which has begun to rise or is about to. He notes that in a similar
+  sense the root also means **swollen**: the Jews' feet did not swell (*batzek*)
+  in the wilderness (Devarim 8:4, and the parallel at Nechemiah 9:21).
+- Rabbi Yitzchak Ratzabi picks this up as a further suggestion: *arisah* might
+  denote dough whose ingredients have simply been mixed together, while *batzek*
+  might refer specifically to dough already kneaded and now beginning to rise or
+  swell. He then proposes that if that is so, the halachah should be to take
+  *challah* off the dough immediately after kneading, while it can still be
+  called *arisah*, before it becomes *batzek*.
+- Separately, Rabbi Aharon Marcus theorizes that every three-letter root
+  containing *beis* and *kuf*, wherever the third letter falls, turns on
+  breaking through (*boker*, *bezek*, *barak*, *bohak*, *bakesh*, *badek*,
+  *bokea*, *bakar*), and assumes *batzek* belongs there too: the cracks that
+  appear in leavening dough and make it look broken.
 
 ### issah (עיסה)
 Not in Tanach as "dough" at all; it is the Mishnah's standard word (Challah

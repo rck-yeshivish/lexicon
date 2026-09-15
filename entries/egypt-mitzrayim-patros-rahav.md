@@ -156,17 +156,19 @@ not Egypt, which Shadal (to Bereishis 10:14) takes to be either Cyprus or Crete,
 also known as Kandia.
 
 ### Where the English word "Egypt" comes from
-Rabbi Aharon Marcus claims that "copt" is a corruption of the Hebrew *Kaftor*,
-and that from that corruption came the Greek *Aíguptos* and the Latin
-*Aegyptus*, the eventual etymons of English "Egypt." Others argue that those
-antecedents derive instead from the native Egyptian phrase meaning "temple of the
-soul of Ptah," Ptah being the deity of the Egyptian city of Memphis, whose name
-the Greeks applied to the region as a whole. Two early forms of the word turn up
-in Chazal: a language called Gipti (Shabbos 115a to 115b, Megillah 18a), which
-seems to be Coptic; and the parsing of *totafos* (Devarim 6:8, 11:18) as *tot*,
-two in Kapti, plus *pat*, two in Afriki (Sanhedrin 4b, Zevachim 37b, Menachos
-34b), where the consensus takes Kapti for Coptic and Afriki for Phrygian. The
-Romani were once thought to have come from
+- Rabbi Aharon Marcus claims that "copt" is a corruption of the Hebrew *Kaftor*,
+  and that from that corruption came the Greek *Aíguptos* and the Latin
+  *Aegyptus*, the eventual etymons of English "Egypt."
+- Others argue that those antecedents derive instead from the native Egyptian
+  phrase meaning "temple of the soul of Ptah," Ptah being the deity of the
+  Egyptian city of Memphis, whose name the Greeks applied to the region as a
+  whole.
+
+Two early forms of the word turn up in Chazal: a language called Gipti (Shabbos
+115a to 115b, Megillah 18a), which seems to be Coptic; and the parsing of
+*totafos* (Devarim 6:8, 11:18) as *tot*, two in Kapti, plus *pat*, two in Afriki
+(Sanhedrin 4b, Zevachim 37b, Menachos 34b), where the consensus takes Kapti for
+Coptic and Afriki for Phrygian. The Romani were once thought to have come from
 Egypt, hence "Gyptians" and eventually "Gypsies," though anthropologists now
 place their origin in South Asia.
 

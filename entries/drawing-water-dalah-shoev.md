@@ -108,23 +108,27 @@ HaShoeivah* celebrations in the Beis HaMikdash, which attended the drawing of
 the water for the Sukkos Water Libation. In the language of Chazal a magnetized
 stone is an *even shoeves*, literally a stone that draws (Sotah 47a; Sanhedrin
 107b; Avodah Zarah 44a), and in Modern Hebrew a vacuum cleaner is a *sha'avak*,
-a portmanteau of *shoev*, draws, and *avak*, dust. Malbim: *shoev* is drawing
-into a bucket without any effort, most commonly from a spring or waterhole,
-where the water is at the surface and needs no lowering and lifting; Shadal (to
-Bereishis 24:13) explains similarly. Rabbi Shlomo Pappenheim treats the
-aleph as non-radical and reaches the biliteral ש-ב, "return," the root of
-*hashavah* (returning a lost object), *lehashiv* (to answer), *yeshivah*
-(dwelling), and *Shabbos* (returning to rest). On his reading, *shoev* is
-bringing moving water to a halt in a vessel. Rabbi Klein notes that this sense
-is best illustrated at a spring, whose waters were flowing until then, as
-against a well, whose waters might have been still even before they were drawn.
+a portmanteau of *shoev*, draws, and *avak*, dust.
 
-Which stage of drawing *shoev* names is subject to some controversy. Rav Hirsch
-(to Bereishis 24:65, Devarim 28:22) takes it as specifically the water being
-drawn into and filling the bucket, which Targum Onkelos bears out by typically
-rendering it *mamleh*, filling. Rabbi Yaakov Berger of Kiryat Sefer (in his
-unpublished *Milon Leshon Mikra*) infers from Ramban (to Bereishis 24:17) that
-its core meaning is the lowering of a bucket into a well to bring back water.
+- Malbim: *shoev* is drawing into a bucket without any effort, most commonly
+  from a spring or waterhole, where the water is at the surface and needs no
+  lowering and lifting; Shadal (to Bereishis 24:13) explains similarly.
+- Rabbi Shlomo Pappenheim treats the aleph as non-radical and reaches the
+  biliteral ש-ב, "return," the root of *hashavah* (returning a lost object),
+  *lehashiv* (to answer), *yeshivah* (dwelling), and *Shabbos* (returning to
+  rest). On his reading, *shoev* is bringing moving water to a halt in a vessel.
+  Rabbi Klein notes that this sense is best illustrated at a spring, whose
+  waters were flowing until then, as against a well, whose waters might have
+  been still even before they were drawn.
+
+Which stage of drawing *shoev* names is subject to some controversy.
+
+- Rav Hirsch (to Bereishis 24:65, Devarim 28:22) takes it as specifically the
+  water being drawn into and filling the bucket, which Targum Onkelos bears out
+  by typically rendering it *mamleh*, filling.
+- Rabbi Yaakov Berger of Kiryat Sefer (in his unpublished *Milon Leshon Mikra*)
+  infers from Ramban (to Bereishis 24:17) that its core meaning is the lowering
+  of a bucket into a well to bring back water.
 
 ## Rendering guidance
 

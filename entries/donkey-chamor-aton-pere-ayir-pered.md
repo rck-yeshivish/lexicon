@@ -97,44 +97,51 @@ several times in the Gemara (Moed Katan 12a and others), never found in Tanach.
 Aramaic and Syriac *chamara*, Ugaritic *hmr*, Arabic *himar*, Akkadian *imeru*.
 That said, the Hebrew lexicographers all agree it derives from the triliteral
 ח-מ-ר, which also gives wine, brown, clay and mortar, a pile, and *chomer*, a
-unit of area. Rabbi Aharon Marcus takes "brown" as the core, so the word names
-the reddish-brown hue of many donkeys. As a pack animal the *chamor* represents
-the wholly material side of creation, hence the tie to "clay and material";
-others tie it to "wine," the dull donkey's intellect matching a
-drunkard's. Note also the personal name
-Chamor, father of Shechem, thirteen times in Tanach (Bereishis 33-34; Yehoshua
-24:32; Shoftim 9:28).
+unit of area.
+
+- Rabbi Aharon Marcus takes "brown" as the core, so the word names the
+  reddish-brown hue of many donkeys.
+- As a pack animal the *chamor* represents the wholly material side of creation,
+  hence the tie to "clay and material".
+- others tie it to "wine," the dull donkey's intellect matching a drunkard's.
+
+Note also the personal name Chamor, father of Shechem, thirteen times in Tanach
+(Bereishis 33-34; Yehoshua 24:32; Shoftim 9:28).
 
 ### aton (אתון)
 Thirty-four occurrences, densest at Bilaam's she-donkey (Bamidbar 22:21-23,
 22:25, 22:27-30, 22:32-33). It stands beside *chamor* in Pharaoh's gifts
 (Bereishis 12:16), and Devorah's song praises the judges who "ride on white
 *asonos*" (Shoftim 5:10). Radak: while *chamor* is either sex, *aton* is
-specifically female. Rabbi Ernest Klein's etymological dictionary makes *aton*
-a quintessentially Semitic word, with parallels in Aramaic and Syriac (*atana*),
+specifically female. Rabbi Ernest Klein's etymological dictionary makes *aton* a
+quintessentially Semitic word, with parallels in Aramaic and Syriac (*atana*),
 Ugaritic (*atnt*), Arabic (*atan*) and Akkadian (*atanu*), all meaning "jenny".
 It remains an open question why Semitic has two separate root-words for the male
 and female donkey when the male and female of other animals often take one root,
-as with
-*par* and *parah*, *egel* and *eglah*, *keves* and *kivsah*. Rabbi David Chaim
-Chelouche (*Ohr Chadash* to Bereishis 12:16) proposes that *aton* derives from
-*es*, the particle that generally carries no meaning of its own but is typically
-attached to another word: male donkeys being known for an elevated libido (see Yechezkel 23:20), the
-*aton*'s role is to be attached to the male. Rav Hirsch (to Bereishis 12:16,
-Shemos 14:27) links א-ת-ן to א-ד-נ, *tav* and *dalet* interchanging, so the name
-marks her load-bearing capacity, as an *eden*, one of the silver sockets holding
-up the beams of the Mishkan, holds up what stands on it.
+as with *par* and *parah*, *egel* and *eglah*, *keves* and *kivsah*.
 
-Two dissents, both resting on *chamor* itself being usable for a female. Shadal
-(to Bereishis 12:16): *aton* is a separate species, the female of the *pere*, and
-the pasuk separates *chamor* from *aton* with servants and maidservants, not how
-one lists a male and female of one kind. But the Shunamis rode an *aton*
-(Melachim II 4:24), and he finds it highly unlikely that a woman would ride a
-wild ass; so he concludes the word later widened to the domesticated female too, its young being an *ayir*
-(Bereishis 49:11). Pappenheim (*Cheshek Shlomo*) rejects the feminine reading for
-the same reason and offers a stage of life: from ת ("sign, boundary") comes א-ת,
-the joining of separate units, whence *es* and *atah*; *eisan* is strength from
-parts tightly joined, and *aton* is the donkey at its full strength.
+- Rabbi David Chaim Chelouche (*Ohr Chadash* to Bereishis 12:16) proposes that
+  *aton* derives from *es*, the particle that generally carries no meaning of
+  its own but is typically attached to another word: male donkeys being known
+  for an elevated libido (see Yechezkel 23:20), the *aton*'s role is to be
+  attached to the male.
+- Rav Hirsch (to Bereishis 12:16, Shemos 14:27) links א-ת-ן to א-ד-נ, *tav* and
+  *dalet* interchanging, so the name marks her load-bearing capacity, as an
+  *eden*, one of the silver sockets holding up the beams of the Mishkan, holds
+  up what stands on it.
+
+Two dissents, both resting on *chamor* itself being usable for a female.
+
+- Shadal (to Bereishis 12:16): *aton* is a separate species, the female of the
+  *pere*, and the pasuk separates *chamor* from *aton* with servants and
+  maidservants, not how one lists a male and female of one kind. But the
+  Shunamis rode an *aton* (Melachim II 4:24), and he finds it highly unlikely
+  that a woman would ride a wild ass; so he concludes the word later widened to
+  the domesticated female too, its young being an *ayir* (Bereishis 49:11).
+- Pappenheim (*Cheshek Shlomo*) rejects the feminine reading for the same reason
+  and offers a stage of life: from ת ("sign, boundary") comes א-ת, the joining
+  of separate units, whence *es* and *atah*; *eisan* is strength from parts
+  tightly joined, and *aton* is the donkey at its full strength.
 
 ### pere (פרא) and arud (ערוד)
 Ten occurrences, with final *aleph* or *hei*: the undomesticated wild ass, and by
