@@ -79,26 +79,31 @@ three are one weapon.
   interchanging with HEI; in his view, it seems, the *romach* is used by
   throwing, not generally by stabbing.
 
-**Whether *kidon* is a weapon or armor.** Rabbi Tanchum HaYerushalmi (13th
-century, in the Holy Land; *HaMadrich HaMaspik*): the word usually means a small
-*romach* thrown at the enemy, like an arrow or dart, but Golyas wearing "a copper
-*kidon* between his shoulders" (Shmuel I 17:6) implies it can also mean a helmet.
-From this Rabbi Reuven Chaim Klein suggests that *kidon* may perhaps be a
-general term for an infantryman's gear, weaponry or armor.
-Radak (to Shmuel I 17:6): even with Golyas the *kidon* is an offensive weapon,
-not armor, something resembling a *romach* that soldiers hid between their
-shoulders; at Yirmiyahu 50:42 Radak seems unsure which of the two it is.
+**Whether *kidon* is a weapon or armor.**
 
-**Where *chanit* comes from.** Ibn Janach and Radak (each in his *Sefer
-HaShorashim*): triliteral CHET-NUN-HEI ("camping, resting, store"); Menachem Ibn
-Saruk, a biliteralist, does not list the word at all. Rabbi Shlomo Pappenheim
-(1740 to 1814), a biliteralist: CHET-NUN, camping as against travelling, the
-weapon commonly found in the *machaneh* and used for military purposes. Then
-three more: Rabbi Tedeschi-Ashkenazi, from CHET-NUN-HEI, the spear often stabbed
-into the ground where it would be "camped"; *Shoresh Yesha*, from the same root,
-the weapon military camps fear; and *Ohalei Yehuda*, related to *chadah*,
-"sharp, pointed," which Rabbi Reuven Chaim Klein supposes is probably by the interchange of
-NUN and DALET.
+- Rabbi Tanchum HaYerushalmi (13th century, in the Holy Land; *HaMadrich
+  HaMaspik*): the word usually means a small *romach* thrown at the enemy, like
+  an arrow or dart, but Golyas wearing "a copper *kidon* between his shoulders"
+  (Shmuel I 17:6) implies it can also mean a helmet. From this Rabbi Reuven
+  Chaim Klein suggests that *kidon* may perhaps be a general term for an
+  infantryman's gear, weaponry or armor.
+- Radak (to Shmuel I 17:6): even with Golyas the *kidon* is an offensive weapon,
+  not armor, something resembling a *romach* that soldiers hid between their
+  shoulders; at Yirmiyahu 50:42 Radak seems unsure which of the two it is.
+
+**Where *chanit* comes from.**
+
+- Ibn Janach and Radak (each in his *Sefer HaShorashim*): triliteral
+  CHET-NUN-HEI ("camping, resting, store"); Menachem Ibn Saruk, a biliteralist,
+  does not list the word at all.
+- Rabbi Shlomo Pappenheim (1740 to 1814), a biliteralist: CHET-NUN, camping as
+  against travelling, the weapon commonly found in the *machaneh* and used for
+  military purposes.
+- Then three more: Rabbi Tedeschi-Ashkenazi, from CHET-NUN-HEI, the spear often
+  stabbed into the ground where it would be "camped"; *Shoresh Yesha*, from the
+  same root, the weapon military camps fear; and *Ohalei Yehuda*, related to
+  *chadah*, "sharp, pointed," which Rabbi Reuven Chaim Klein supposes is
+  probably by the interchange of NUN and DALET.
 
 ## Distinctions
 

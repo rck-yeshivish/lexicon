@@ -65,31 +65,31 @@ certain properties, so that they are said to be of one kind and classed
 together. Ibn Janach adds that *man*, the manna, is from *min*: a "type" of food
 they could not categorize, "for they did not know what it was" (Shemos 16:15).
 
-Shadal (Rabbi Shmuel David Luzzatto, 1800 to 1865, to Shemos 20:4) takes
-*temunah*, an image, from MEM-(VAV)-NUN, which he relates to the Arabic cognate
-*mana*, "lie, false": a *temunah* is a picture that pretends to mimic something
-but cannot be a perfect representation of it. A step further, *min* is a group
-of things that look alike enough but are not exactly the same, so that grouping
-them together is, in a way, something of a "falsehood." Shadal compares this to
-Latin *species*, from "seeing," borrowed for things that "appear" similar enough
-to be categorized together. *Species* descends from the
-Proto-Indo-European root *spek-*, ancestor of *spectacle*, *special*, *aspect*,
-*suspect*, *scope* and others. Shadal extends the sense to *min*, heretic: each
-heretic's belief differs slightly from the next, yet they all fall into one
-category. Rabbi Eliyahu HaBachur (1469 to 1549, *Sefer HaTishbi*) takes a
-different approach, associating *min* in this sense with the pagan deity Meni
-(Yeshayahu 65:11).
-
-Rabbi Shlomo Pappenheim (1740 to 1814) takes the two-letter root מ-נ as
-"creating order out of causes and effects." One group of its derivatives is
-headed by *moneh* and *minyan*, counting, which creates mathematical order by
-quantifying a set of givens; *min* derives from it too, since it likewise
-determines what belongs in one grouping and what is excluded (in Rabbi Klein's
-colloquial gloss, what "counts" and what does not). Like Shadal, Pappenheim
-connects *temunah* to *min*, on his own reasoning: a *temunah* is a relatively
-vague picture that may show a certain species without being the image of any one
-individual in it, as a drawing shows a cow but not which cow. (See also Rav
-Hirsch to Shemos 20:4, who distinguishes *pesel* from *temunah*.)
+- Shadal (Rabbi Shmuel David Luzzatto, 1800 to 1865, to Shemos 20:4) takes
+  *temunah*, an image, from MEM-(VAV)-NUN, which he relates to the Arabic
+  cognate *mana*, "lie, false": a *temunah* is a picture that pretends to mimic
+  something but cannot be a perfect representation of it. A step further, *min*
+  is a group of things that look alike enough but are not exactly the same, so
+  that grouping them together is, in a way, something of a "falsehood." Shadal
+  compares this to Latin *species*, from "seeing," borrowed for things that
+  "appear" similar enough to be categorized together. *Species* descends from
+  the Proto-Indo-European root *spek-*, ancestor of *spectacle*, *special*,
+  *aspect*, *suspect*, *scope* and others. Shadal extends the sense to *min*,
+  heretic: each heretic's belief differs slightly from the next, yet they all
+  fall into one category.
+- Rabbi Eliyahu HaBachur (1469 to 1549, *Sefer HaTishbi*) takes a different
+  approach, associating *min* in this sense with the pagan deity Meni (Yeshayahu
+  65:11).
+- Rabbi Shlomo Pappenheim (1740 to 1814) takes the two-letter root מ-נ as
+  "creating order out of causes and effects." One group of its derivatives is
+  headed by *moneh* and *minyan*, counting, which creates mathematical order by
+  quantifying a set of givens; *min* derives from it too, since it likewise
+  determines what belongs in one grouping and what is excluded (in Rabbi Klein's
+  colloquial gloss, what "counts" and what does not). Like Shadal, Pappenheim
+  connects *temunah* to *min*, on his own reasoning: a *temunah* is a relatively
+  vague picture that may show a certain species without being the image of any
+  one individual in it, as a drawing shows a cow but not which cow. (See also
+  Rav Hirsch to Shemos 20:4, who distinguishes *pesel* from *temunah*.)
 
 *Minnim* at Tehillim 150:4, "praise Him with *minnim* and pipe," is the only
 appearance of the instrument, possibly a *hapax legomenon*, and it is contested.
@@ -111,12 +111,14 @@ On whether the Torah's *minim* are today's species: Rabbi Klein notes that
 ancient ways of categorizing flora and fauna do not necessarily line up with the
 taxonomy of modern botanists and zoologists, and that the Torah might group
 things by different criteria. He illustrates from the Teivah, whose known
-dimensions could not hold every known species. Ramban (to Bereishis 6:19), the
-first to address the question, posits a miracle that let the Teivah house
-specimens of all those species. Rabbeinu Nissim of Gerona (to Bereishis 6:14)
-answers differently: the *minim* the Torah names there do not correspond to the
-species known today but are their ancestors from before they differentiated, so
-there were far fewer *minim* on the Teivah than one might think.
+dimensions could not hold every known species.
+
+- Ramban (to Bereishis 6:19), the first to address the question, posits a
+  miracle that let the Teivah house specimens of all those species.
+- Rabbeinu Nissim of Gerona (to Bereishis 6:14) answers differently: the *minim*
+  the Torah names there do not correspond to the species known today but are
+  their ancestors from before they differentiated, so there were far fewer
+  *minim* on the Teivah than one might think.
 
 ### zan (זן)
 Three times in the Hebrew of Tanach (twice in Tehillim 144:13, once in Divrei
@@ -124,18 +126,24 @@ HaYamim II 16:14) and four times in the Aramaic (Daniel 3:5, 3:7, 3:10, 3:15),
 where *zenei zemara* (Daniel 3:5) is glossed by Rashi as *minei zemer*, types of
 song or music. Rabbi Eliyahu HaBachur (*Meturgeman*): every time *min* appears
 in Tanach, Targum renders it *zan*. The Aramaic *zan* clearly means "type" or
-"sort"; the Hebrew is more debatable. "Our storehouses full, producing from *zan*
-to *zan*" (Tehillim 144:13): Rav Hirsch (there) seems unsure whether the Hebrew
-*zan* is related to *mazon*, "sustenance," and means types of nourishing food,
-as Menachem and Rashi explain, or to the Aramaic *zan*, meaning more broadly
-types of food, as Ibn Janach explains. Radak in *Sefer HaShorashim* (s.v. זון)
-takes the first approach, but elsewhere (there s.v. פוק, and in his commentary
-to Tehillim 144:13) the second. "Spices and *znim*" burned in honor of King Asa
-at his death (Divrei HaYamim II 16:14): *Machberes Menachem* reads a specific
-kind of spice or fragrance, not "types," and pseudo-Rashi and Ralbag (there)
-adopt that; Ibn Janach (*Sefer HaShorashim*) and Radak (to Divrei HaYamim II
-16:14) read types of incense. So at all three Hebrew appearances the meforshim
-debate whether it means what the Aramaic means.
+"sort"; the Hebrew is more debatable.
+
+- "Our storehouses full, producing from *zan* to *zan*" (Tehillim 144:13): Rav
+  Hirsch (there) seems unsure whether the Hebrew *zan* is related to *mazon*,
+  "sustenance," and means types of nourishing food, as Menachem and Rashi
+  explain, or to the Aramaic *zan*, meaning more broadly types of food, as Ibn
+  Janach explains.
+- Radak in *Sefer HaShorashim* (s.v. זון) takes the first approach, but
+  elsewhere (there s.v. פוק, and in his commentary to Tehillim 144:13) the
+  second.
+- "Spices and *znim*" burned in honor of King Asa at his death (Divrei HaYamim
+  II 16:14): *Machberes Menachem* reads a specific kind of spice or fragrance,
+  not "types," and pseudo-Rashi and Ralbag (there) adopt that.
+- Ibn Janach (*Sefer HaShorashim*) and Radak (to Divrei HaYamim II 16:14) read
+  types of incense.
+
+So at all three Hebrew appearances the meforshim debate whether it means what
+the Aramaic means.
 
 Rabbi Pappenheim, whose way is to set aside Aramaic meanings as far as possible
 in favor of uniquely Hebrew explanations, ignores the possibility of a Hebrew
@@ -145,12 +153,13 @@ second as related to *zenus*, lust (a vice that comes from overindulging in
 sustenance), since it was a type of spice that served as an aphrodisiac (see
 *Bava Kamma* 16b).
 
-If *zan* and *min* do mean the same thing, Rabbi Klein suggests they are still
-not quite synonymous, because they come from different languages. From where in
-Tanach each word appears, Professor Avi Hurvitz argues that *zan* is simply the
-Late Biblical Hebrew equivalent of the Classical Biblical Hebrew *min*. Dr.
-Menachem Zvi Kaddari (1925 to 2011), in his dictionary of Biblical Hebrew,
-proposes that *zan* is a loanword from Old Persian *zana*, "type, class."
+- If *zan* and *min* do mean the same thing, Rabbi Klein suggests they are still
+  not quite synonymous, because they come from different languages.
+- From where in Tanach each word appears, Professor Avi Hurvitz argues that
+  *zan* is simply the Late Biblical Hebrew equivalent of the Classical Biblical
+  Hebrew *min*.
+- Dr. Menachem Zvi Kaddari (1925 to 2011), in his dictionary of Biblical Hebrew,
+  proposes that *zan* is a loanword from Old Persian *zana*, "type, class."
 
 ### sug (סוג)
 Not in Tanach in the sense of "type," "category," or "species"; a later

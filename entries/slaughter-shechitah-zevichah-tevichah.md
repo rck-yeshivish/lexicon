@@ -57,20 +57,24 @@ Janach dissents on that last word entirely and reads *tevichah* as **cooking**.
 ## Distinctions
 
 ### shechitah (שחיטה)
-Root ש-ח-ט. Malbim: *shechitah* names the specific halachic act, cutting the
-animal's neck through the esophagus and the trachea. Rabbi Shlomo Pappenheim of
-Breslau (1740-1814), cited by Rabbi Yaakov Tzvi Mecklenburg, reads it wider:
-*shechitah* is a general term for any act that causes a living being's death,
-and halachic slaughtering is one case inside that term, not its whole
-definition. His two proofs: Chullin 17a rules that for the Noahide "his
-*nechirah* (stabbing) is his *shechitah*," and Moshe warns that the nations will
-say Hashem "slaughtered them (*vayishchatem*) in the wilderness" (Bamidbar
-14:16), which cannot mean a literal neck-cut but a bringing-about of death.
+Root ש-ח-ט.
+
+- Malbim: *shechitah* names the specific halachic act, cutting the animal's neck
+  through the esophagus and the trachea.
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814), cited by Rabbi Yaakov Tzvi
+  Mecklenburg, reads it wider: *shechitah* is a general term for any act that
+  causes a living being's death, and halachic slaughtering is one case inside
+  that term, not its whole definition. His two proofs: Chullin 17a rules that
+  for the Noahide "his *nechirah* (stabbing) is his *shechitah*," and Moshe
+  warns that the nations will say Hashem "slaughtered them (*vayishchatem*) in
+  the wilderness" (Bamidbar 14:16), which cannot mean a literal neck-cut but a
+  bringing-about of death.
+
 Rabbi Binyamin Mussafia relates the rabbinic *nechirah*, stabbing an animal in
 its neck (the typical Noahide way of killing an animal, as opposed to properly
-slaughtering it), to *chor*, a hole, because it too involves making a hole; Rabbi
-Shlomo Pappenheim derives *nichirayim*, nostrils, from the same *chor*, a nostril
-being a hole in one's face.
+slaughtering it), to *chor*, a hole, because it too involves making a hole;
+Rabbi Shlomo Pappenheim derives *nichirayim*, nostrils, from the same *chor*, a
+nostril being a hole in one's face.
 
 ### zevichah (זביחה)
 Root ז-ב-ח.
@@ -86,22 +90,26 @@ Root ז-ב-ח.
   synonyms.
 
 ### tevichah (טביחה)
-Root ט-ב-ח. Malbim argues that it is killing an animal for food in a general
-way, even outside the context of ritual slaughtering. Rabbi Shlomo Pappenheim:
-it is a kind of *shechitah* defined by its reason, here ordinary
-human consumption. The word appears three times in Chumash: *u'tevoach tevach*
-at Yosef's banquet (Bereishis 43:16), the thief who slaughters the animal he
-stole (Shemos 21:37), and the curse "your ox will be slaughtered (*tavuach*)
-before your eyes, and you will not eat from it" (Devarim 28:31); basically all
-other instances in Tanach fall outside the Chumash.
-The ordinary thief repays double (Shemos 22:3), but one who slaughtered or sold
-the stolen animal pays four times its value for ovacaprines and five for
-bovines. Rabbi Shlomo Aharon Wertheimer (1866-1935) uses the sense of *tevichah*
-to explain why the Torah chose that word there: without it one might have thought
-the penalty falls only on a thief who slaughtered the animal for no good reason
-or to anger its owner, and that a thief who slaughtered it to eat the meat rather
-than to make a profit could excuse himself. The word blocks the excuse, and the
-fourfold or fivefold payment stands.
+Root ט-ב-ח.
+
+- Malbim argues that it is killing an animal for food in a general way, even
+  outside the context of ritual slaughtering.
+- Rabbi Shlomo Pappenheim: it is a kind of *shechitah* defined by its reason,
+  here ordinary human consumption.
+
+The word appears three times in Chumash: *u'tevoach tevach* at Yosef's banquet
+(Bereishis 43:16), the thief who slaughters the animal he stole (Shemos 21:37),
+and the curse "your ox will be slaughtered (*tavuach*) before your eyes, and you
+will not eat from it" (Devarim 28:31); basically all other instances in Tanach
+fall outside the Chumash. The ordinary thief repays double (Shemos 22:3), but
+one who slaughtered or sold the stolen animal pays four times its value for
+ovacaprines and five for bovines. Rabbi Shlomo Aharon Wertheimer (1866-1935)
+uses the sense of *tevichah* to explain why the Torah chose that word there:
+without it one might have thought the penalty falls only on a thief who
+slaughtered the animal for no good reason or to anger its owner, and that a
+thief who slaughtered it to eat the meat rather than to make a profit could
+excuse himself. The word blocks the excuse, and the fourfold or fivefold payment
+stands.
 
 Rabbi Yonah ibn Janach (990-1050), cited by Wertheimer, dissents on the word
 entirely: *tevichah* means **cooking** (compare Arabic *tovech*), so Yosef told

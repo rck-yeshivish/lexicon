@@ -95,21 +95,24 @@ takes Rabbi Marcus's point to be, seemingly, that a sleeping man is silent, so t
 very word for sleep carries quietness.
 
 ### tardeimah (תרדמה)
-All the early lexicographers, Ibn Saruk this time included, give ר-ד-ם. Rav
-Hirsch (to Bereishis 2:21) links it to ר-ת-ם, tying, through the dalet-tav
-interchange: in *tardeimah* all the bodily senses are metaphorically tied down
-and the man loses his ability to move about consciously, as though fettered. Rav
-Hirsch further speculates that when Eliyahu HaNavi asked Hashem to take his life
-he sat under a *rosem* tree (I Melachim 19:4) because that tree has some
-narcotic effect conducive to falling asleep. Rabbi Shlomo Pappenheim derives it
-from the biliteral ר-ד, descending or downward movement (*yeridah*), the root of
-*rodeh* (governing by keeping subordinates down so they cannot assert
-themselves, Bereishis 1:28; Vayikra 25:43) and *meridah* (rebellion, the plebs
-breaking free of that yoke); *tardeimah* is accordingly sleep that overpowers a
-man and lords itself over him, taking him unwilling in the middle of whatever
-else he was doing, and Rabbi Moshe Yitzchak Tedeschi-Ashkenazi (1821-1898) reads
-it similarly. In Modern Hebrew the cognate *radum* is a person sedated or
-tranquilized, who may still technically be awake and lucid.
+All the early lexicographers, Ibn Saruk this time included, give ר-ד-ם.
+
+- Rav Hirsch (to Bereishis 2:21) links it to ר-ת-ם, tying, through the dalet-tav
+  interchange: in *tardeimah* all the bodily senses are metaphorically tied down
+  and the man loses his ability to move about consciously, as though fettered.
+  Rav Hirsch further speculates that when Eliyahu HaNavi asked Hashem to take
+  his life he sat under a *rosem* tree (I Melachim 19:4) because that tree has
+  some narcotic effect conducive to falling asleep.
+- Rabbi Shlomo Pappenheim derives it from the biliteral ר-ד, descending or
+  downward movement (*yeridah*), the root of *rodeh* (governing by keeping
+  subordinates down so they cannot assert themselves, Bereishis 1:28; Vayikra
+  25:43) and *meridah* (rebellion, the plebs breaking free of that yoke);
+  *tardeimah* is accordingly sleep that overpowers a man and lords itself over
+  him, taking him unwilling in the middle of whatever else he was doing, and
+  Rabbi Moshe Yitzchak Tedeschi-Ashkenazi (1821-1898) reads it similarly.
+
+In Modern Hebrew the cognate *radum* is a person sedated or tranquilized, who
+may still technically be awake and lucid.
 
 *Bereishis Rabbah* 17:5 and 44:17: *tardeimah* appears in three contexts,
 ordinary slumber (Adam), prophetic slumber (Avraham, Bereishis 15:12), and

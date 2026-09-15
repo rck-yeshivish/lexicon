@@ -56,17 +56,20 @@ distinction among the shoe-removal verbs.
 
 ## Where the authorities disagree
 
-**How the three shoe verbs differ.** Shoresh Yesha: Tanach has three verbs for
-taking off a shoe, and they answer to three ways a shoe can be fastened. *Shal*
-(Shemos 3:5, Yehoshua 5:15) is slipping a sandal off without even using the
-hands; *shalaf* is taking a shoe off by hand; *chalitzah* is removing a shoe
-fastened to the foot, which must first be untied. Rabbi Shlomo Pappenheim
-(1740-1814) runs in a similar vein: *chalitzah* is extraction from something
-that engulfs, while *shalaf* is used wherever the two items were only loosely
-attached and could easily be separated, which is why it fits both the sword a
-warrior needs readily at his disposal and the shoe handed over to close a deal
-before the other party backs out; since both must come away swiftly, we would not
-expect either to be fastened too strongly.
+**How the three shoe verbs differ.**
+
+- Shoresh Yesha: Tanach has three verbs for taking off a shoe, and they answer
+  to three ways a shoe can be fastened. *Shal* (Shemos 3:5, Yehoshua 5:15) is
+  slipping a sandal off without even using the hands; *shalaf* is taking a shoe
+  off by hand; *chalitzah* is removing a shoe fastened to the foot, which must
+  first be untied.
+- Rabbi Shlomo Pappenheim (1740-1814) runs in a similar vein: *chalitzah* is
+  extraction from something that engulfs, while *shalaf* is used wherever the
+  two items were only loosely attached and could easily be separated, which is
+  why it fits both the sword a warrior needs readily at his disposal and the
+  shoe handed over to close a deal before the other party backs out; since both
+  must come away swiftly, we would not expect either to be fastened too
+  strongly.
 
 Rabbi Reuven Chaim Klein raises a difficulty of his own here and leaves it open.
 He finds it perplexing that the Gemara names a load mounted on an animal a *shlif*
@@ -79,24 +82,30 @@ that *chalitzah* denotes, against *Shoresh Yesha*, so that *shlif* is what one
 does to the package once it reaches its destination (Rashi to *Bava Basra* 75b
 notes the *shlif* was *tied* to the animal).
 
-**Are chalitzah and shalaf the same act?** Targum Yonasan renders the verb of the
-*chalitzah* ceremony (Devarim 25:9) with a cognate of *shalaf*, and Rashi (to
-*Chullin* 53a, *Gittin* 33b) links the two verbs as though they were synonyms.
-Pappenheim, as above, keeps them apart. Radak (to Yeshayahu 58:11 and in *Sefer
-HaShorashim*) seems to have had an alternate version of the Midrash below that
-used *shalaf* where ours uses a cognate of *shemittah*.
+**Are chalitzah and shalaf the same act?**
+
+- Targum Yonasan renders the verb of the *chalitzah* ceremony (Devarim 25:9)
+  with a cognate of *shalaf*, and Rashi (to *Chullin* 53a, *Gittin* 33b) links
+  the two verbs as though they were synonyms.
+- Pappenheim, as above, keeps them apart.
+- Radak (to Yeshayahu 58:11 and in *Sefer HaShorashim*) seems to have had an
+  alternate version of the Midrash below that used *shalaf* where ours uses a
+  cognate of *shemittah*.
 
 **What alatz means.** Delilah "pressed" (*alatz*) Shimshon to give up the secret
-of his super-human strength (Shoftim 16:16). Ramban (to Bereishis 32:25) reads
-the alef of *alatz* as interchangeable with the ches of *chalatz*, which he
-understands as a metathesized permutation of *lachatz*, pressure. Chazal (*Sotah*
-9b, *Bereishis Rabbah* 52:12) explain *alatz* differently, and concretely, as
-Delilah slipping away (*nishmatah*) from under Shimshon in the throes of
-intimacy as a way of pressing him. Rabbi Reuven Chaim Klein infers from that that
-perhaps Chazal took *alatz* as directly related to *chalatz*, slipping, rather
-than to *lachatz*, and reports finding that contention stated explicitly by
-Rabbi Moshe ben HaNessiah Britannico (13th-century England) in *Sefer HaShoham*
-and by Rabbi Yosef Chaim of Baghdad (1832-1909) in *Ben Yehoyada* to *Sotah* 9b.
+of his super-human strength (Shoftim 16:16).
+
+- Ramban (to Bereishis 32:25) reads the alef of *alatz* as interchangeable with
+  the ches of *chalatz*, which he understands as a metathesized permutation of
+  *lachatz*, pressure.
+- Chazal (*Sotah* 9b, *Bereishis Rabbah* 52:12) explain *alatz* differently, and
+  concretely, as Delilah slipping away (*nishmatah*) from under Shimshon in the
+  throes of intimacy as a way of pressing him. Rabbi Reuven Chaim Klein infers
+  from that that perhaps Chazal took *alatz* as directly related to *chalatz*,
+  slipping, rather than to *lachatz*, and reports finding that contention stated
+  explicitly by Rabbi Moshe ben HaNessiah Britannico (13th-century England) in
+  *Sefer HaShoham* and by Rabbi Yosef Chaim of Baghdad (1832-1909) in *Ben
+  Yehoyada* to *Sotah* 9b.
 
 ## Distinctions
 
@@ -130,31 +139,35 @@ quotations of these pesukim (*Nazir* 8b, *Sotah* 41a, *Gittin* 36a, *Bava Metzia
 places).
 
 ### chalitzah (חליצה)
-Root ח-ל-צ. The Midrash (*Vayikra Rabbah* 34:15) gives four senses: slipping, as
-in the *yevamah* drawing the shoe off her brother-in-law's foot (Devarim 25:9);
-arming, since the soldiers of Israel are *chalutzim* (Devarim 3:18); saving, from
-"*chaltzeini* from an evil man" (Tehillim 140:2); and letting rest, from the
-Shabbos tefillah *retzei v'hachalitzeinu*. Three of these run parallel to senses
-of *shemittah*, and the Gemara itself uses a cognate of *shemittah* for the
-*chalitzah* act: the *yevamah* becomes permitted to others with the *shemittah*
-of most of the heel (*Yevamos* 102a). Pappenheim's unifying sense is extraction
-from within: the foot out of the shoe, the *tzaraas*-stricken stones out of the
-wall (Vayikra 14:40, 14:43), the soldiers drawn out from the nation for the war
-with Midian (Bamidbar 31:3), who are then the *chalutzim* (Bamidbar 32:30,
-Devarim 3:18). *Chalatzayim*, the loins, appears either of a soldier girding
-himself (Yeshayahu 5:27, 11:5, 32:11; Iyov 38:3, 40:7) or of birth (Bereishis
-35:11; Melachim I 5:19; Divrei HaYamim II 6:9; Yirmiyahu 30:6); *Shoresh Yesha*
-takes both from the senses above, the place weapons were typically worn, or the
-place a child slips out from. The Aramaic *charatz* (Daniel 5:6) seems to be the
-same word derived through the interchange of lamed and reish. Aramaic also uses a
-cognate of *chalitzah* for removing clothing (Targum to Shmuel I 31:8-9, Divrei
-HaYamim I 10:8), possibly because stripping off one's clothes is extracting the
-body from within its garments, and this Aramaic usage may be the etymological
-basis for the Modern Hebrew *chultzah*, a shirt. Against that, Rabbi Dr. Ernest
-Klein (1899-1983) writes in his etymological dictionary that *chultzah* was
-originally coined by Prof. Joseph Klausner (1874-1958) to mean "blouse," and
-derived it from the hips-and-thighs sense of *chalatzayim*, a blouse typically
-covering the loins.
+Root ח-ל-צ.
+
+- The Midrash (*Vayikra Rabbah* 34:15) gives four senses: slipping, as in the
+  *yevamah* drawing the shoe off her brother-in-law's foot (Devarim 25:9);
+  arming, since the soldiers of Israel are *chalutzim* (Devarim 3:18); saving,
+  from "*chaltzeini* from an evil man" (Tehillim 140:2); and letting rest, from
+  the Shabbos tefillah *retzei v'hachalitzeinu*. Three of these run parallel to
+  senses of *shemittah*, and the Gemara itself uses a cognate of *shemittah* for
+  the *chalitzah* act: the *yevamah* becomes permitted to others with the
+  *shemittah* of most of the heel (*Yevamos* 102a).
+- Pappenheim's unifying sense is extraction from within: the foot out of the
+  shoe, the *tzaraas*-stricken stones out of the wall (Vayikra 14:40, 14:43),
+  the soldiers drawn out from the nation for the war with Midian (Bamidbar
+  31:3), who are then the *chalutzim* (Bamidbar 32:30, Devarim 3:18).
+
+*Chalatzayim*, the loins, appears either of a soldier girding himself (Yeshayahu
+5:27, 11:5, 32:11; Iyov 38:3, 40:7) or of birth (Bereishis 35:11; Melachim I
+5:19; Divrei HaYamim II 6:9; Yirmiyahu 30:6); *Shoresh Yesha* takes both from
+the senses above, the place weapons were typically worn, or the place a child
+slips out from. The Aramaic *charatz* (Daniel 5:6) seems to be the same word
+derived through the interchange of lamed and reish. Aramaic also uses a cognate
+of *chalitzah* for removing clothing (Targum to Shmuel I 31:8-9, Divrei HaYamim
+I 10:8), possibly because stripping off one's clothes is extracting the body
+from within its garments, and this Aramaic usage may be the etymological basis
+for the Modern Hebrew *chultzah*, a shirt. Against that, Rabbi Dr. Ernest Klein
+(1899-1983) writes in his etymological dictionary that *chultzah* was originally
+coined by Prof. Joseph Klausner (1874-1958) to mean "blouse," and derived it
+from the hips-and-thighs sense of *chalatzayim*, a blouse typically covering the
+loins.
 
 ### shalaf (שלף) and shal (של)
 *Shalaf* appears twenty-five times, most commonly of drawing a sword (Bamidbar

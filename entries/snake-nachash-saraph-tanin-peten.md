@@ -119,27 +119,29 @@ Mitchell First points out that the English word *serpent* bears a close
 resemblance to *saraph*.
 
 ### tanin (תנין)
-The Vilna Gaon: *nachash* is to land as *tanin* is to sea. The analogy suggests
-that *nachash* is a land snake and *tanin* a sea snake,
-possibly an eel or something similar. Rashi (Bereishis 1:21 and Niddah 22b), on
-the other hand, simply writes that a *tanin* is a big fish. Rabbi Aharon Marcus
-argues that the tav of *taninim* (Bereishis 1:21) is not part of the root, so
-that at its core is *nun*, fish, and he explicitly rejects the scholarly
-speculation that *taninim* is a Sanskrit loanword. Rav Hirsch (to Bereishis
-1:21) also suggests that *tannin* derives from *nun*, and adds that *nun* itself
-derives from *nin*, offspring. Contrary to popular
-belief, *akalason* does not mean snake at all but "coiled," serving as a
-description of a type of sea serpent; Yeshayahu 27:1 has the coiled snake
-(*nachash akalason*) and the straight snake (*nachash bariach*), which Bava
-Basra 74b reads as the female and male Leviasan respectively.
+- The Vilna Gaon: *nachash* is to land as *tanin* is to sea. The analogy
+  suggests that *nachash* is a land snake and *tanin* a sea snake, possibly an
+  eel or something similar.
+- Rashi (Bereishis 1:21 and Niddah 22b), on the other hand, simply writes that a
+  *tanin* is a big fish.
+- Rabbi Aharon Marcus argues that the tav of *taninim* (Bereishis 1:21) is not
+  part of the root, so that at its core is *nun*, fish, and he explicitly
+  rejects the scholarly speculation that *taninim* is a Sanskrit loanword.
+- Rav Hirsch (to Bereishis 1:21) also suggests that *tannin* derives from *nun*,
+  and adds that *nun* itself derives from *nin*, offspring.
+
+Contrary to popular belief, *akalason* does not mean snake at all but "coiled,"
+serving as a description of a type of sea serpent; Yeshayahu 27:1 has the coiled
+snake (*nachash akalason*) and the straight snake (*nachash bariach*), which
+Bava Basra 74b reads as the female and male Leviasan respectively.
 
 ### tzefa / tzifoni (צפע, צפעוני) and efeh (אפעה)
-Malbim: a *tzefa* is an especially poisonous snake because even its excrement is
-venomous (in Modern Hebrew the word means "viper"). Rashi (Yeshayahu 59:5):
-*tzifoni* is an evil snake and *efeh* a completely evil one that can portend only
-bad; Radak, there, nonetheless says *tzifoni* and *efeh* are two words for the
-same thing.
-
+- Malbim: a *tzefa* is an especially poisonous snake because even its excrement
+  is venomous (in Modern Hebrew the word means "viper").
+- Rashi (Yeshayahu 59:5): *tzifoni* is an evil snake and *efeh* a completely
+  evil one that can portend only bad.
+- Radak, there, nonetheless says *tzifoni* and *efeh* are two words for the same
+  thing.
 - On the *efeh* (Yeshayahu 30:6, 59:5; Iyov 20:16), Rashi and Mahari Kara: only
   two exist in the world, a male and a female, and they reproduce only once in
   seventy years.
@@ -167,16 +169,17 @@ others that it is no snake at all but some other poisonous creature, a spider,
 say, which in Hebrew is an *achavish*.
 
 ### peten (פתן)
-Wertheimer, against *nachash*: where a *nachash* can be charmed, a *peten* is
-immune to charming and stays dangerous (Tehillim 58:6). Two possible derivations, both
-his: from *miftan*, a threshold, since whoever meets a *peten* has certainly
-stepped into danger just as whoever enters a house treads on its threshold; or
-from *pitui*, coaxing, for the snake's cajoling Chavah to eat from the Eitz
-HaDaas. Rabbi Klein holds that the English *python* is likely derived from *peten*.
-The *Rokeach*: *peten* focuses on a snake's advanced age, *efeh* names one
-extremely old and also large, and *tzefa* is a flying *saraph* with multiple
-tails; Wertheimer cites this too and argues it is based on the otherwise
-undecipherable passage in Avos d'Rabbi Nassan.
+- Wertheimer, against *nachash*: where a *nachash* can be charmed, a *peten* is
+  immune to charming and stays dangerous (Tehillim 58:6). Two possible
+  derivations, both his: from *miftan*, a threshold, since whoever meets a
+  *peten* has certainly stepped into danger just as whoever enters a house
+  treads on its threshold; or from *pitui*, coaxing, for the snake's cajoling
+  Chavah to eat from the Eitz HaDaas.
+- Rabbi Klein holds that the English *python* is likely derived from *peten*.
+- The *Rokeach*: *peten* focuses on a snake's advanced age, *efeh* names one
+  extremely old and also large, and *tzefa* is a flying *saraph* with multiple
+  tails; Wertheimer cites this too and argues it is based on the otherwise
+  undecipherable passage in Avos d'Rabbi Nassan.
 
 ### shephiphon (שפיפון)
 Once in Tanach, Bereishis 49:17; Yerushalmi Terumos 8:3 describes it as

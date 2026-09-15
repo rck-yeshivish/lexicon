@@ -75,36 +75,37 @@ Root ש-י-ר.
   collar (Shabbos 5:1), or coins found arranged in a ring (Bava Metzia 25a);
   song comes at the completion of a phase or task, since happiness comes through
   completion, and then one gives thanks.
-
-Rabbi Moshe Shapiro (1935-2017): only with the hindsight of completion, where
-the beginning can be attached to the end, is song fitting, not beforehand; and
-the whole Torah is called a *shirah* (Devarim 31:19) because Haazinu is a
-microcosm of the whole Torah and so of the whole history of the world, a history
-shaped as a circle, since at the end man will return to his former place of
-glory as though Adam's eating from the Eitz HaDaas had never happened. Rabbi
-Klein notes a tension here: *yashar* seems to mean the *opposite* of *shirah*,
-a line that goes continuously straight against a circle whose end leads back to
-its beginning. Even so, Rabbi Shapiro observes, rabbinic literature plainly
-connects them, since the cows that carried the Aron back walked straight
-(*vayisharnah*, Shmuel I 6:12) and Avodah Zarah 24b expounds that they *sang*.
-Rabbi Shlomo Pappenheim (1740-1814) connects *shir* to *yashar*, straight: a song follows a straight path in holding one theme without
-deviating, so its beginning and end are linked as variations on the one theme.
-Rabbi Shimon Dov Ber Analak of Siedlce (1848-1907): from *shur*, a wall, since a
-song is built of many lines carefully arranged as a wall is of bricks, and pull
-one out and the edifice may fall; which is also why a *sher* is a circular piece
-of jewelry, a round thing having to be fully intact to be whole.
-
-Rabbi Immanuel Frances (1618-1703): *shir* denotes the singer's power to
-mesmerize his listeners and hold their attention as though he ruled over them,
-which links it to words of strength, *sharir* (strongly established), *shur*
-(wall) and *sherarah* (authority); and the song of Tanach often speaks of the
-singer in the third person where one expects the first (Bereishis 49:2; Bamidbar
-24:3; Shoftim 5:12) because true song is like an out-of-body experience, the
-singer seeing himself as a separate entity. Rabbi Yaakov Haber relates that he
-heard from a certain Chassidishe Rebbe, in the name of the Chasam Sofer, that
-*shirah* is related to *shirayim*, leftovers, song being the leftovers of the
-soul, one of the only ways it can express itself in a world dominated by
-materialism.
+- Rabbi Moshe Shapiro (1935-2017): only with the hindsight of completion, where
+  the beginning can be attached to the end, is song fitting, not beforehand; and
+  the whole Torah is called a *shirah* (Devarim 31:19) because Haazinu is a
+  microcosm of the whole Torah and so of the whole history of the world, a
+  history shaped as a circle, since at the end man will return to his former
+  place of glory as though Adam's eating from the Eitz HaDaas had never
+  happened. Rabbi Klein notes a tension here: *yashar* seems to mean the
+  *opposite* of *shirah*, a line that goes continuously straight against a
+  circle whose end leads back to its beginning. Even so, Rabbi Shapiro observes,
+  rabbinic literature plainly connects them, since the cows that carried the
+  Aron back walked straight (*vayisharnah*, Shmuel I 6:12) and Avodah Zarah 24b
+  expounds that they *sang*.
+- Rabbi Shlomo Pappenheim (1740-1814) connects *shir* to *yashar*, straight: a
+  song follows a straight path in holding one theme without deviating, so its
+  beginning and end are linked as variations on the one theme.
+- Rabbi Shimon Dov Ber Analak of Siedlce (1848-1907): from *shur*, a wall, since
+  a song is built of many lines carefully arranged as a wall is of bricks, and
+  pull one out and the edifice may fall; which is also why a *sher* is a
+  circular piece of jewelry, a round thing having to be fully intact to be
+  whole.
+- Rabbi Immanuel Frances (1618-1703): *shir* denotes the singer's power to
+  mesmerize his listeners and hold their attention as though he ruled over them,
+  which links it to words of strength, *sharir* (strongly established), *shur*
+  (wall) and *sherarah* (authority); and the song of Tanach often speaks of the
+  singer in the third person where one expects the first (Bereishis 49:2;
+  Bamidbar 24:3; Shoftim 5:12) because true song is like an out-of-body
+  experience, the singer seeing himself as a separate entity.
+- Rabbi Yaakov Haber relates that he heard from a certain Chassidishe Rebbe, in
+  the name of the Chasam Sofer, that *shirah* is related to *shirayim*,
+  leftovers, song being the leftovers of the soul, one of the only ways it can
+  express itself in a world dominated by materialism.
 
 ### zemer / zimrah (זמר, זמרה)
 Root ז-מ-ר, which in the verb *zomer* also means cutting down or pruning
@@ -131,33 +132,37 @@ Root ז-מ-ר, which in the verb *zomer* also means cutting down or pruning
   rest had been cut out.
 - Analak: *zimrah* does not imply the whole edifice but one small part of it,
   one segment standing independent or cut off from the rest.
-
-Rabbi Frances, on the other side of the pair: when Yaakov sent his sons down to
-Mitzrayim for food in the famine he sent with them the *zimras* of the land of
-Canaan (Bereishis 43:11), taken to mean the best of it, and Rashi connects
-*zimras* to *zemer* by explaining it as the choicest produce over which people
-would sing. Alternatively, Frances explains, pruning a vineyard of unnecessary
-shoots is *zomer* (Vayikra 25:3), which is the art of making music, the artist
-expunging every unneeded element so the song comes out wholly good. Rabbeinu
-Efrayim ben Shimshon (to Bereishis 43:11) reads that *zimras ha'aretz* as fine
-wine, called *zimras* because wine gladdens a man (Tehillim 104:15) and glad
-people sing (*zemer*). Rabbi Nachman of Breslov (1772-1810) reads it as a special
-*niggun* of Eretz Yisrael that Yaakov sent to the Egyptian ruler.
+- Rabbi Frances, on the other side of the pair: when Yaakov sent his sons down
+  to Mitzrayim for food in the famine he sent with them the *zimras* of the land
+  of Canaan (Bereishis 43:11), taken to mean the best of it, and Rashi connects
+  *zimras* to *zemer* by explaining it as the choicest produce over which people
+  would sing. Alternatively, Frances explains, pruning a vineyard of unnecessary
+  shoots is *zomer* (Vayikra 25:3), which is the art of making music, the artist
+  expunging every unneeded element so the song comes out wholly good.
+- Rabbeinu Efrayim ben Shimshon (to Bereishis 43:11) reads that *zimras
+  ha'aretz* as fine wine, called *zimras* because wine gladdens a man (Tehillim
+  104:15) and glad people sing (*zemer*).
+- Rabbi Nachman of Breslov (1772-1810) reads it as a special *niggun* of Eretz
+  Yisrael that Yaakov sent to the Egyptian ruler.
 
 ### mizmor (מזמור)
-Root ז-מ-ר. Ibn Ezra (to Tehillim 48:1): there is no difference between *mizmor
-shir* and *shir mizmor*. Against him Rabbi Klein brings two credible authorities
-who beg to differ. Pappenheim: used side by side the terms take specific senses,
-*shir* the words and lyrics, *mizmor* the tune; within a given song the words
-sometimes begin before the tune and sometimes the tune is played first, so *shir
-mizmor* is the song whose *shir* element precedes its *mizmor*, and *mizmor
-shir* the converse. Rabbi Shimshon Pincus (1944-2001, *Shabbos Malkesa*),
-similarly: *shir* is the story a song tells, the words that voice a man's
-happiness and thanks, and *mizmor* the tune within which the story is told, the
-wordless melody for elation too intense to put logically into words; so a perek
-that begins in words and rises past them is headed *shir mizmor*, and one that
-begins at that intensity and only afterwards, as it subsides, lets the words
-start is headed *mizmor shir*.
+Root ז-מ-ר.
+
+- Ibn Ezra (to Tehillim 48:1): there is no difference between *mizmor shir* and
+  *shir mizmor*. Against him Rabbi Klein brings two credible authorities who beg
+  to differ.
+- Pappenheim: used side by side the terms take specific senses, *shir* the words
+  and lyrics, *mizmor* the tune; within a given song the words sometimes begin
+  before the tune and sometimes the tune is played first, so *shir mizmor* is
+  the song whose *shir* element precedes its *mizmor*, and *mizmor shir* the
+  converse.
+- Rabbi Shimshon Pincus (1944-2001, *Shabbos Malkesa*), similarly: *shir* is the
+  story a song tells, the words that voice a man's happiness and thanks, and
+  *mizmor* the tune within which the story is told, the wordless melody for
+  elation too intense to put logically into words; so a perek that begins in
+  words and rises past them is headed *shir mizmor*, and one that begins at that
+  intensity and only afterwards, as it subsides, lets the words start is headed
+  *mizmor shir*.
 
 ## Rendering guidance
 

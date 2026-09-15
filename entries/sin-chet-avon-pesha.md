@@ -105,11 +105,16 @@ Root ע-ו-ה, crooked.
   physical pleasure or gained some other benefit.
 
 ### pesha (פשע)
-Root פ-ש-ע. Gemara: the sin of rebellion. Pappenheim: the sinner knows his
-forbidden actions are completely wrong and should not be done, and carries them
-out anyway in order to rebel against Hashem. Malbim: the iniquities of one who
-shamelessly sins as a way of rebelling against Hashem. *Peirush HaRokeach*:
-simply the willful sin (having given *avon* the sense of benefit).
+Root פ-ש-ע.
+
+- Gemara: the sin of rebellion.
+- Pappenheim: the sinner knows his forbidden actions are completely wrong and
+  should not be done, and carries them out anyway in order to rebel against
+  Hashem.
+- Malbim: the iniquities of one who shamelessly sins as a way of rebelling
+  against Hashem.
+- *Peirush HaRokeach*: simply the willful sin (having given *avon* the sense of
+  benefit).
 
 In another account, Rabbi Shlomo Pappenheim asserts that rebellion is not the
 primary meaning of *pesha* at all: it primarily denotes negligence that comes
@@ -125,13 +130,15 @@ is in this sense that *pesha* was borrowed to mean rebellion.
 A fourth term, in Rabbinic sources but not in Tanach. It literally means
 "transgression" or "violation," and although it once referred specifically to
 crimes of indecency it now serves colloquially as a general term for every kind
-of wrongdoing. Rabbi Yaakov Tzvi Mecklenburg (1785-1865): *aveirah* comes from
-the root ע-ב-ר, which means "passes" in a physical sense, the idea being that a
-man morally passes over his own thoughts so as not to focus on the nefariousness
-of his deeds. Rabbi Klein suggests that one who commits an
-*aveirah* has crossed a Rabbinic red line, noting that the Gemara (Shabbos 40a)
-holds that even a person who violates a Rabbinic prohibition can be called an
-*avaryan*.
+of wrongdoing.
+
+- Rabbi Yaakov Tzvi Mecklenburg (1785-1865): *aveirah* comes from the root
+  ע-ב-ר, which means "passes" in a physical sense, the idea being that a man
+  morally passes over his own thoughts so as not to focus on the nefariousness
+  of his deeds.
+- Rabbi Klein suggests that one who commits an *aveirah* has crossed a Rabbinic
+  red line, noting that the Gemara (Shabbos 40a) holds that even a person who
+  violates a Rabbinic prohibition can be called an *avaryan*.
 
 ## How sharp are the categories?
 

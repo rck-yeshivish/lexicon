@@ -93,27 +93,31 @@ Achashverosh what was needed to save her nation.
   disagrees on lexical grounds, arguing that were that the reality the Torah
   would have used a cognate of *shetikah* and not *dom*.
 
-**What chashah means.** Bedersi does not explain this word. Mecklenburg: a
-reflective, introspective sort of quiet, which Rabbi Klein likens to Bedersi's
-understanding of *cheresh*. Rabbi Shlomo Aharon Wertheimer (1866-1935): the silence of one who
-holds himself back from answering another even though he has what to answer.
+**What chashah means.** Bedersi does not explain this word.
+
+- Mecklenburg: a reflective, introspective sort of quiet, which Rabbi Klein
+  likens to Bedersi's understanding of *cheresh*.
+- Rabbi Shlomo Aharon Wertheimer (1866-1935): the silence of one who holds
+  himself back from answering another even though he has what to answer.
 
 **What cheresh means in Tanach as against Mishnaic usage.** In Mishnaic Hebrew
-*cheresh* is one who can neither hear nor speak (Niddah 13b). Rabbi Pappenheim
-explains that a deaf-mute is called a *cheresh* because he is the paragon of
-quiet, silence surrounding him on every side: he neither breaks the silence with
-his own speech nor hears anything other than silence. Rabbi Klein suggests there
-may even be biblical precedent for that usage, at Shemos 4:11, where Hashem
-answers Moshe at the burning bush, "Who put a mouth for man, or makes a person
-mute (*ilem*) or deaf (*cheiresh*)…" If *cheiresh* merely means silent, how does
-it differ from *ilem*? Because of that, some commentators explain that *cheiresh*
-there means deaf and mute together, exactly as Chazal use the word; others that
-it means deaf but not mute (Tosafos to Chagigah 2b with *Maharsha* and *Hagahos
-Rashash* there, and Ibn Ezra to Shemos 4:11). Rabbi Shlomo Algazi (1610-1683)
-splits it the other way: in Rabbinic Hebrew *cheiresh* is a deaf-mute, while in
-Biblical Hebrew it is one who can hear but cannot talk. Rabbi Klein calls that
-somewhat problematic, since it would leave the term meaning exactly what *ilem*
-means.
+*cheresh* is one who can neither hear nor speak (Niddah 13b).
+
+- Rabbi Pappenheim explains that a deaf-mute is called a *cheresh* because he is
+  the paragon of quiet, silence surrounding him on every side: he neither breaks
+  the silence with his own speech nor hears anything other than silence.
+- Rabbi Klein suggests there may even be biblical precedent for that usage, at
+  Shemos 4:11, where Hashem answers Moshe at the burning bush, "Who put a mouth
+  for man, or makes a person mute (*ilem*) or deaf (*cheiresh*)…" If *cheiresh*
+  merely means silent, how does it differ from *ilem*? Because of that, some
+  commentators explain that *cheiresh* there means deaf and mute together,
+  exactly as Chazal use the word; others that it means deaf but not mute
+  (Tosafos to Chagigah 2b with *Maharsha* and *Hagahos Rashash* there, and Ibn
+  Ezra to Shemos 4:11).
+- Rabbi Shlomo Algazi (1610-1683) splits it the other way: in Rabbinic Hebrew
+  *cheiresh* is a deaf-mute, while in Biblical Hebrew it is one who can hear but
+  cannot talk. Rabbi Klein calls that somewhat problematic, since it would leave
+  the term meaning exactly what *ilem* means.
 
 ## Distinctions
 

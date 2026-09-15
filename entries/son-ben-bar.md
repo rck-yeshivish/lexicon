@@ -67,17 +67,19 @@ Rabbi Klein adds the common *bar minan*, "except from us." On Rabbi Pappenheim's
 reading *bar* means son because the child was separated from his mother's person by the act of
 childbirth.
 
-That double meaning is reflected in a halachic discussion. Rabbi Yaakov Margolis of
-Regensburg (1430-1501) writes in *Seder HaGet* that in a get one writes
-"so-and-so *ben* so-and-so" and not *bar*, even though the Aramaic *bar* is used
-in all other legal documents, because a get must be as clear as possible and
-*bar* carries more than one meaning. Rabbi Shlomo Luria (1510-1573), the
-Maharshal, supports the ruling for a different reason: in this context nobody
-would think *bar* means "outside," but it might be misconstrued as an acronym for
-*ben reb*, which runs against the custom of keeping honorifics out of a get.
-Rabbi Yosef Colon (1420-1480), the Maharik, contests the ruling; the Rema, Rabbi
-Moshe Isserles (1520-1572), who himself died on Lag B'Omer, codified it twice in
-his glosses to Shulchan Aruch (*Even HaEzer* 126:30 and 129:7).
+That double meaning is reflected in a halachic discussion.
+
+- Rabbi Yaakov Margolis of Regensburg (1430-1501) writes in *Seder HaGet* that
+  in a get one writes "so-and-so *ben* so-and-so" and not *bar*, even though the
+  Aramaic *bar* is used in all other legal documents, because a get must be as
+  clear as possible and *bar* carries more than one meaning.
+- Rabbi Shlomo Luria (1510-1573), the Maharshal, supports the ruling for a
+  different reason: in this context nobody would think *bar* means "outside,"
+  but it might be misconstrued as an acronym for *ben reb*, which runs against
+  the custom of keeping honorifics out of a get.
+- Rabbi Yosef Colon (1420-1480), the Maharik, contests the ruling; the Rema,
+  Rabbi Moshe Isserles (1520-1572), who himself died on Lag B'Omer, codified it
+  twice in his glosses to Shulchan Aruch (*Even HaEzer* 126:30 and 129:7).
 
 ### bat / bas (בת) and the bar mitzvah
 The Aramaic for daughter is *barat*, but the Targumim tend to leave the Hebrew

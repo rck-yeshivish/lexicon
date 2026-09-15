@@ -79,10 +79,12 @@ over the wall as much as the wall by the plaster). Mecklenburg adds the cognate
 upper lid is attached to the lower, which supports his point that *shua* also
 means attachment.
 
-**What *mishi* means in Yechezkel 16:4.** Radak (there and in *Sefer
-HaShorashim*): smoothness, since washing smooths the skin. Menachem Ibn Saruk
-and Rashi: it belongs with *shaashua*, and the pasuk speaks of bathing for
-pleasure.
+**What *mishi* means in Yechezkel 16:4.**
+
+- Radak (there and in *Sefer HaShorashim*): smoothness, since washing smooths
+  the skin.
+- Menachem Ibn Saruk and Rashi: it belongs with *shaashua*, and the pasuk speaks
+  of bathing for pleasure.
 
 **Whether *shiiya* is Hebrew at all.** The Targumim render Yaakov's *chalak*
 (Bereishis 27:11) with the Aramaic *shiiya*, whose root is ש-ע-(ע), which
