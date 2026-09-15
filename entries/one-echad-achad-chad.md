@@ -5,6 +5,27 @@ roots: [א-ח-ד, ח-ד, א-ח]
 translit: [echad, echod, achad, achat, achas, echat, echas, ach, chad, chadah, chada, yachad, chidah, chidud]
 english: [one, a single one, one of, the one, unique]
 domain: quantity
+words:
+  - he: אחד
+    tr: echad
+    en: one
+    distinct: the ordinary word for one, 634 times, and the joining of parts into a whole; where Chazal read closely, the choice or unique one, as the pick of the flock for the Tamid (Megillah 28a); bound up with Hashem's Oneness
+  - he: אחד
+    tr: achad
+    en: one of, any one of
+    distinct: rarer, and in two forms (Rabbi Wolf Heidenheim); in the construct, one of the important ones, as weighty as echad; in the absolute, usually followed by a mem, any ordinary one, the lesser; one comment of Malbim's seems to reject the rule
+  - he: אח
+    tr: ach
+    en: one
+    distinct: normally brother, but one at Yechezkel 18:10 (Rabbi Yonah Ibn Janach, Radak), where others keep brother (Targum, Rashi); Ibn Janach adds Tehillim 49:8, which Radak reads as brother
+  - he: חד
+    tr: chad
+    en: one
+    distinct: echad with the aleph clipped for brevity (Radak), once in Hebrew and otherwise Aramaic; lacking the aleph of oneness, it is the language Adam was demoted to (Rabbi Yehonosson Eybeschutz)
+  - he: אחת
+    tr: achat
+    en: one
+    distinct: the feminine, echadet with its dalet dropped (Ibn Janach), or the feminine of ach, echad having none (Radak); achat the standard form and echat its positional variant
 sources:
   - wiaw:10975 "Korach: The One and Only" (2023-06-17) https://articles.ohr.edu/articles/korach-the-one-and-only
 authorities: [Rashi, Targum Onkelos, Rashbam, Chizkuni, Ramban, Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Zalman Hanau, Rabbi Moshe Sofer, Malbim, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rabbi Shmuel Yehudah Steiger, Rabbi Yehonosson Eybeschutz]
@@ -23,6 +44,16 @@ of the important ones**; in the absolute, recognisable because a *mem* usually f
 ("*achad me...*"), it means **any one of them**, and implies the lesser, not the
 greater. *Chad* is *echad* with the *aleph* dropped, Aramaic in almost every
 occurrence. *Achat* / *echat* are the feminine, one word vowelised two ways.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אחד | echad | one | ordinary one; in derashah the choicest, the one that matters |
+| אחד | achad | one of, any one of | construct, one of the important; absolute, any mere one (Heidenheim) |
+| אח | ach | one | one at Yechezkel 18:10 (Ibn Janach, Radak); brother (Targum, Rashi) |
+| חד | chad | one | *echad* without the aleph (Radak); Aramaic, lacking oneness's aleph (Eybeschutz) |
+| אחת | achat | one | feminine of *echad* (Ibn Janach) or of *ach* (Radak) |
 
 ## Distinctions
 

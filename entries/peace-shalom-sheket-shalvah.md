@@ -7,7 +7,22 @@ english: [peace, wholeness, tranquility, ease, quiet, stillness, calm, serenity]
 domain: emotion
 words:
   - he: שלום
+    tr: shalom
+    en: peace
     nk: שָׁלוֹם
+    distinct: the general word, the end of war (Bedersi); at root wholeness with nothing lacking, and the absence of friction among parties (Rabbi Shlomo Pappenheim); total peace, with shalvah (Wertheimer); coming to terms with what is outside oneself (Malbim)
+  - he: שלוה
+    tr: shalvah
+    en: tranquility, ease
+    distinct: peace within oneself (Malbim), or one peaceful relationship inside a wider discord (Rabbi Shlomo Pappenheim); ranked with shalom (Bedersi, Wertheimer); its verb shalu also means to sin unwittingly, since complacent ease breeds carelessness (Bedersi, Rav Hirsch)
+  - he: שקט
+    tr: sheket
+    en: quiet, stillness
+    distinct: the end of motion and outward disturbance; more than shalom (Bedersi), or less, a mere ceasefire with disagreement still in the background (Wertheimer); patience and forbearance (Rabbi Shlomo Pappenheim); a calming after turbulence (Ibn Janach, Radak)
+  - he: שאנן
+    tr: shaanan
+    en: serenity
+    distinct: the fullest rest, more complete than sheket (Bedersi), free even of the busyness of prosperity (Rabbi Shlomo Pappenheim); quiet because the din, shaon, is gone (Malbim)
   - he: שלם
     nk: שָׁלֵם
 sources:
@@ -29,6 +44,15 @@ motion and outward disturbance: **quiet, stillness, calm**; whether it ranks abo
 is disputed, and both readings stay live. *Shaanan* is the
 fullest rest, free even of the busyness of prosperity: **serenity** (Bedersi,
 Pappenheim).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שלום | shalom | peace | absence of war (Bedersi); wholeness, nothing lacking (Pappenheim); external peace (Malbim) |
+| שלוה | shalvah | tranquility, ease | inner peace (Malbim); peace amid discord (Pappenheim); shadow of complacency (Bedersi) |
+| שקט | sheket | quiet, stillness | stillness; above *shalom* (Bedersi) or a mere ceasefire (Wertheimer) |
+| שאנן | shaanan | serenity | fullest rest (Bedersi); free even of prosperity's busyness (Pappenheim) |
 
 ## Distinctions
 

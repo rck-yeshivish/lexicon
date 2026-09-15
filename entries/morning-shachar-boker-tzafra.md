@@ -7,9 +7,23 @@ english: [dawn, daybreak, morning, first light]
 domain: time
 words:
   - he: בוקר
+    tr: boker
+    en: morning
     nk: בּוֹקֶר
+    distinct: the whole morning, a stretch from sunrise until four hours into the day or midday, not a moment (Malbim, Wertheimer), though Wertheimer hesitates over Bereishis 22:3; from a root meaning to seek out and discern, since only daylight tells things apart (Ibn Ezra, Radak)
+  - he: שחר
+    tr: shachar
+    en: dawn, daybreak
+    distinct: the first rays breaking through the night's darkness, arriving all at once (Rabbi Shlomo Alkabetz); a point that comes before boker; also seeking (Rabbi Menachem ibn Saruk, Malbim), and kin to shachor, black (Rabbi Wolf Heidenheim, Peirush HaRokeach)
   - he: צפרא
+    tr: tzafra
+    en: morning
     nk: צַפְרָא
+    distinct: the standard Aramaic for morning; Onkelos gives it for both shachar and boker in Chumash, while in Iyov, Mishlei and Tehillim the Targum keeps it for boker alone (Rabbi Eliyahu HaBachur); linked with tzipor, bird, though which came first is disputed (Ramban, Rabbi Aharon Marcus)
+  - he: קריצתא
+    tr: kritzuta
+    en: dawn
+    distinct: the Targum's word for shachar in Iyov, Mishlei and Tehillim (Rabbi Eliyahu HaBachur); perhaps related to kritzah, winking, dawn being the small sign that daylight is coming (Rabbi Moshe Kosover of Beit Chilkiyah)
 sources:
   - wiaw:8518 "Good Morning Sunshine" (2019-12-14) https://articles.ohr.edu/articles/good-morning-sunshine
 authorities: [Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Alkabetz, Rashi, Rabbi Menachem ibn Saruk, Ibn Ezra, Radak, Rabbi Wolf Heidenheim, Peirush HaRokeach, Zohar, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Eliyahu HaBachur, Ramban, Rabbi Aharon Marcus, Rabbi Yaakov Zev Lev, Rabbi Moshe Kosover of Beit Chilkiyah, Thomas Fuller]
@@ -29,6 +43,15 @@ both as *tzafra*, but in
 Iyov, Mishlei and Tehillim the Targum separates them: *boker* is *tzafra* and
 *shachar* is *kritzuta*. Both Hebrew roots also carry the sense of seeking out
 and discerning, which is why *shachar* and *boker* can each mean "search."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| בוקר | boker | morning | the whole morning, a stretch (Malbim, Wertheimer); root means to discern (Radak) |
+| שחר | shachar | dawn, daybreak | first light breaking the night, all at once (Alkabetz); kin to *shachor*, black (Heidenheim) |
+| צפרא | tzafra | morning | Aramaic morning; only for *boker* in Iyov, Mishlei, Tehillim (Eliyahu HaBachur); kin to *tzipor* |
+| קריצתא | kritzuta | dawn | Targum's *shachar* in Iyov, Mishlei, Tehillim; a wink, dawn's small sign (Kosover) |
 
 ## Distinctions
 

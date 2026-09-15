@@ -6,6 +6,18 @@ translit: [heini, heni, yani, hafarah, hafaras nedarim, heifer, hefer, batel, bi
 english: [nullify, annul, void, restrain, withhold, break]
 domain: action
 words:
+  - he: הניא
+    tr: heini
+    en: restrain, hold back
+    distinct: works on what has not yet come about, stopping a plan before it is carried out (Rabbi Shlomo Aharon Wertheimer); against that, forcing something out of existence (Malbim); its core sense to break (Menachem Ibn Saruk, Ibn Ezra) or to deny and withhold (Dunash Ibn Labrat, Rashi)
+  - he: הפר
+    tr: heifer
+    en: annul, break
+    distinct: cancels what already exists, crumbling it like pur, a crumb, as one tears up a binding contract (Rabbi Shlomo Aharon Wertheimer); against that, simply ensuring something will not come to fruition, without force (Malbim)
+  - he: בטל
+    tr: batel
+    en: void
+    distinct: the Rabbinic verb for nullification, as in bitul chametz and bitul b'rov, extending to idleness and futility; apparently Aramaic in origin, seven times in Tanach; perhaps tied to tal, dew, which is soon gone (Rabbi Klein)
   - he: נא
     nk: נָא
   - he: פור
@@ -27,6 +39,14 @@ That is why Bamidbar 30 uses both of a husband nullifying his wife's neder: he
 *heini*s her plan and *heifer*s the vow (Rabbi Shlomo Aharon Wertheimer).
 *Batel* is the Rabbinic word, apparently Aramaic in origin: **void**, and by
 extension **idle, futile**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| הניא | heini | restrain, hold back | stops what has not yet come about (Wertheimer); forcing out of existence (Malbim) |
+| הפר | heifer | annul, break | breaks up what already exists, kin to *pur* (Wertheimer); without force (Malbim) |
+| בטל | batel | void | Rabbinic void, apparently Aramaic; also idleness, as in *bitul Torah* |
 
 ## Distinctions
 

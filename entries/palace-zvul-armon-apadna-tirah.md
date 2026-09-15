@@ -5,6 +5,27 @@ roots: [ז-ב-ל, א-ר-מ, ר-ו-ם, פ-ד, ט-ר]
 translit: [zvul, zevul, yizbeleini, zevel, armon, almon, apadna, apadena, padan, tirah, tira, tur, turim, netirah, paltin, paltrin]
 english: [palace, castle, fortress, citadel, lofty abode]
 domain: other
+words:
+  - he: זבול
+    tr: zvul
+    en: lofty abode
+    distinct: a lofty abode set in a high place (Rabbi Dovid Tzvi Hoffmann); a home that fully answers the purpose of the one it is meant for, hence the Beis HaMikdash (Rav Hirsch); where it sits against the other four is left open
+  - he: ארמון
+    tr: armon
+    en: palace, castle
+    distinct: the general and most common word, 32 times, covering both a king's residence and a fortified stronghold; from ר-ו-ם, height (Ibn Janach, Rabbi Shlomo Pappenheim), or a root of its own (Radak)
+  - he: אפדנא
+    tr: apadna
+    en: palace
+    distinct: the luxury sense, a palace in Daniel and in the Gemara a grand room, a royal triclinium (Rashi); the luxurious home of a free man, from פ-ד (Rabbi Shlomo Pappenheim); Persian (Rabbi Ernest Klein) or Akkadian (Dr. Chaim Tawil) in origin
+  - he: טירה
+    tr: tirah
+    en: fortress
+    distinct: the defensive sense, an enclosed fort, perhaps a fortified village; the same as armon (Ibn Ezra); built of rows, from ט-ר (Rabbi Shlomo Pappenheim, Radak), or a fort built to guard (Rabbi Shlomo Pappenheim, Rabbi David Chaim Chelouche)
+  - he: פלטין
+    tr: paltin
+    en: palace
+    distinct: the late Hebrew palace in the imperial sense, the cognate of English palace, from Rome's Palatium hill; or, by another derivation, from Latin praetorium, a governor's residence
 sources:
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
 authorities: [Rav Hirsch, Radak, Targum, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rashi, Ibn Ezra, Rabbi Dovid Tzvi Hoffmann, Rabbi David Chaim Chelouche, Rabbi Ernest Klein, Dr. Chaim Tawil]
@@ -26,6 +47,16 @@ for (Rav Hirsch), and it is used most often of the Beis HaMikdash. Where it sits
 relative to the other four Rabbi Reuven Chaim Klein leaves open: the term
 *zvul*, he writes, "somehow fits in to all of this, I'm just not sure exactly
 how."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| זבול | zvul | lofty abode | a fitting dwelling (Rav Hirsch); set on high (Hoffmann); used of the Mikdash |
+| ארמון | armon | palace, castle | the general word, both palace and stronghold; from height (Ibn Janach) |
+| אפדנא | apadna | palace | luxury sense; in the Gemara a royal dining room (Rashi) |
+| טירה | tirah | fortress | defensive, a fortified enclosure; built to guard (Chelouche); same as *armon* (Ibn Ezra) |
+| פלטין | paltin | palace | late Hebrew imperial palace; kin to English *palace*, from Palatium |
 
 ## Distinctions
 

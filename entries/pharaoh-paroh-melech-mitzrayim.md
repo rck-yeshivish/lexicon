@@ -5,6 +5,19 @@ roots: [פ-ר-ע, מ-ל-כ]
 translit: [paroh, pharaoh, paro, melech mitzrayim, melech mitzraim, paroh melech mitzrayim, poel ra, peh ra, shishak, necho, chafra, melol, adikam]
 english: [Pharaoh, King of Egypt]
 domain: society
+words:
+  - he: פרעה
+    tr: Paroh
+    en: Pharaoh
+    distinct: a title, not a personal name, held by every king of Egypt (Rashi) or by most (Radak); the king acting from personal interest or stubbornness (Rav Chaim Kanievsky); the flesh-and-blood king (Zohar)
+  - he: מלך מצרים
+    tr: Melech Mitzrayim
+    en: King of Egypt
+    distinct: the king acting on the national interest (Rav Chaim Kanievsky); through much of the opening of Shemos, Egypt's heavenly minister (Zohar); close to fifty times against Paroh's 274, and Shishak is called only this
+  - he: פרעה מלך מצרים
+    tr: Paroh Melech Mitzrayim
+    en: Pharaoh, King of Egypt
+    distinct: the doubled form, in six places, where personal and national interest are both at work (Rav Chaim Kanievsky); at Bereishis 41:46 it marks that he kept his throne by Yosef's counsel (Rabbeinu Bachya)
 sources:
   - wiaw:7572 "The Pharaoh and the King" (2018-01-06) https://articles.ohr.edu/articles/the-pharaoh-and-the-king
 authorities: [Rashi, Radak, Rabbi Ovadia of Bartenura, Ibn Ezra, Zohar, Rabbeinu Bachya, Rav Chaim Kanievsky, Abarbanel, Rabbi Avraham Menachem Rappaport, Rabbi Eliezer ben Eliyahu Ashkenazi]
@@ -18,6 +31,14 @@ updated: 2026-09-10
 *Paroh* is **Pharaoh**, a title, not a personal name. *Melech Mitzrayim* is **the King of Egypt**, on Rav
 Chaim Kanievsky's reading the office in its national capacity. The Torah's choice between them is deliberate, and in
 six places it writes both (*Paroh Melech Mitzrayim*).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| פרעה | Paroh | Pharaoh | a title, not a name (Rashi); the king acting for himself (Rav Chaim Kanievsky) |
+| מלך מצרים | Melech Mitzrayim | King of Egypt | the king for the nation (Rav Chaim Kanievsky); Egypt's heavenly minister (Zohar) |
+| פרעה מלך מצרים | Paroh Melech Mitzrayim | Pharaoh, King of Egypt | personal and national interest both at work (Rav Chaim Kanievsky); six times |
 
 ## Distinctions
 

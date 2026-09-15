@@ -6,12 +6,42 @@ translit: [hevel, hevle, havel, rik, reik, reikanya, larik, varik, reikam, efes,
 english: [futility, vanity, emptiness, for naught, formless, void, nothing, anything, nothingness]
 domain: other
 words:
+  - he: הבל
+    tr: hevel
+    en: futility
+    distinct: the less intense word, something that exists but has no purpose (Bedersi); what looks valuable but proves worthless (Shadal); against these, total nothingness (Malbim); somewhat substantial but mostly useless, from ב-ל, negation (Rabbi Shlomo Pappenheim)
+  - he: ריק
+    tr: rik
+    en: for naught
+    nk: רִיק
+    distinct: the more intense word, what does not even exist (Bedersi); toil that yields nothing (Shadal); what has surface value but is empty within, like a husk (Malbim); emptied of its very substance, from ר-ק (Rabbi Shlomo Pappenheim)
+  - he: אפס
+    tr: efes
+    en: nothing, non-existent
+    distinct: nothing or non-existent, the edge of existence, and also but, however; that sense is distinct (Menachem Ibn Saruk) or all its meanings interrelate (Radak); what has reached its end, from פ-ס (Rabbi Shlomo Pappenheim)
+  - he: תהו
+    tr: tohu
+    en: formless
+    distinct: the state before Creation; astonishment, one would wonder at such nothingness (Rashi, Sefer HaBahir); matter without form (Ramban), or form (Ralbag); pointless (Shadal); an outline whose inner essence is not yet filled in (Rabbi Shlomo Pappenheim)
+  - he: בהו
+    tr: bohu
+    en: void
+    distinct: emptiness, rendered reikanya (Targum Onkelos, Rashi); form (Ramban) or matter (Ralbag); not merely useless but bad (Shadal); some minimal tangibility (Sefer HaBahir); an external structure whose interior is not yet filled (Rabbi Shlomo Pappenheim)
+  - he: בלימה
+    tr: blimah
+    en: nothing
+    distinct: once in Tanach (Iyov 26:7), the nothing on which Hashem hangs the earth; bli plus mah, without anything (Rabbi Saadia Gaon, Ibn Ezra, Radak); Chazal read it from ב-ל-ם, holding back (Chullin 89a)
+  - he: מאומה
+    tr: meumah
+    en: nothing, anything
+    nk: מְאוּמָה
+    distinct: nothing, and also anything, since Hebrew allows double negatives; from mah, what (Rabbi Yehudah Aryeh of Carpentras, Gesenius), or from מ-מ, the smallest amount (Rabbi Shlomo Pappenheim), a smidgen of existence (Rav Hirsch)
+  - he: כלום
+    tr: klum
+    en: nothing
+    distinct: the rabbinic counterpart of meumah, nothing, usually in a double negative; a contraction of kol meum (Rabbi Binyamin Mussafia, Rabbi Ernest Klein), though Rabbi Yair Chaim Bachrach disagrees
   - he: בלי
     nk: בְּלִי
-  - he: מאומה
-    nk: מְאוּמָה
-  - he: ריק
-    nk: רִיק
 sources:
   - wiaw:11095 "An Article About Nothing (Part 1 of 2)" (2023-09-09) https://articles.ohr.edu/articles/an-article-about-nothing-part-1-of-2
   - wiaw:11087 "An Article About Nothing (Part 2 of 2)" (2023-09-16) https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2
@@ -47,6 +77,19 @@ opposite). *Blimah*, *meumah* and *klum*, Rabbi Reuven Chaim Klein holds, are et
 related, all relating back to *mah*, "what." *Meumah* means "nothing" and can
 also mean "anything," because Hebrew allows double negatives; *klum*, its
 Rabbinic counterpart, also means "nothing."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| הבל | hevel | futility | exists but purposeless (Bedersi); looks valuable, proves worthless (Shadal); total nothingness (Malbim) |
+| ריק | rik | for naught | does not even exist (Bedersi); toil for naught (Shadal); an empty husk (Malbim) |
+| אפס | efes | nothing, non-existent | non-existent, and also but; senses distinct (Ibn Saruk) or one (Radak) |
+| תהו | tohu | formless | wonderment (Rashi); matter (Ramban) or form (Ralbag); an unfilled outline (Pappenheim) |
+| בהו | bohu | void | emptiness (Rashi); form (Ramban) or matter (Ralbag); actually bad (Shadal) |
+| בלימה | blimah | nothing | *bli mah*, without anything (Radak); holding back, in Chazal's derashah |
+| מאומה | meumah | nothing, anything | nothing or anything, by double negative; the smallest amount (Pappenheim) |
+| כלום | klum | nothing | rabbinic *meumah*; from *kol meum* (Mussafia), which Bachrach disputes |
 
 ## Distinctions
 

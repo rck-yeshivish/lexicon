@@ -6,8 +6,35 @@ translit: [atah, ata, attah, na, achshav, achshov, achshaiv, kean, kaan, kedon, 
 english: [now, at present, nowadays, at this hour]
 domain: time
 words:
+  - he: עתה
+    tr: atah
+    en: now
+    distinct: the ordinary biblical now, over four hundred and thirty times and the most common word for it in Tanach; its first two letters spell eis, time
   - he: נא
+    tr: na
+    en: now
     nk: נָא
+    distinct: the second most common now in Tanach; the same letters carry please and raw, food eaten now, before it has cooked, being raw (Rabbi Klein)
+  - he: עכשיו
+    tr: achshav
+    en: now
+    distinct: never in Tanach, first in the Dead Sea Scrolls, common in Chazal and the principal now of Modern Hebrew; perhaps a contraction of atah kemo shehu, now as it is, and so not quite a synonym of atah (Marcus Jastrow)
+  - he: כען
+    tr: ke'an
+    en: now
+    distinct: the only Aramaic now in Tanach, in Daniel and Ezra, and the Targumim's regular rendering of both atah and na; a contraction of ke'idana, according to this time (Marcus Jastrow)
+  - he: כדון
+    tr: ke'don
+    en: now
+    distinct: an Aramaic now outside Tanach, related to ke'an and, like it, a contraction of ke'idana (Marcus Jastrow)
+  - he: השתא
+    tr: hashta
+    en: now
+    distinct: an Aramaic now outside Tanach, read as a contraction of ha shaata, this hour (Rabbi Wolf Heidenheim); over the Haggadah authorities disagree whether to say hashta or ha shaata
+  - he: האידנא
+    tr: ha'idna
+    en: now
+    distinct: an Aramaic now outside Tanach, read as a portmanteau of ha idana, this time (Rabbi Binyamin Mussafia), though idana begins with an ayin and ha'idna with an aleph (Rabbi Klein)
   - he: עת
     nk: עֵת
 sources:
@@ -26,6 +53,18 @@ updated: 2026-09-10
 Hebrew, and never occurs in Tanach. In Aramaic,
 *ke'an* is the biblical form and the Targum's regular rendering of both *atah*
 and *na*; *ke'don*, *hashta*, and *ha'idna* are its companions outside Tanach.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עתה | atah | now | the common biblical now; its letters spell *eis*, time |
+| נא | na | now | second biblical now; also please and raw, eaten before cooking |
+| עכשיו | achshav | now | Chazal's and Modern Hebrew's now, not in Tanach; *atah kemo shehu* (Jastrow) |
+| כען | ke'an | now | the only Aramaic now in Tanach; Targum's word for *atah* and *na* |
+| כדון | ke'don | now | Aramaic now outside Tanach; like *ke'an*, from *ke'idana* (Jastrow) |
+| השתא | hashta | now | *ha shaata*, this hour (Heidenheim); the Haggadah's wording disputed |
+| האידנא | ha'idna | now | *ha idana*, this time (Mussafia), though the spellings differ (Rabbi Klein) |
 
 ## Distinctions
 

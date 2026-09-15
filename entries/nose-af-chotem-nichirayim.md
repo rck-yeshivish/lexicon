@@ -7,7 +7,18 @@ english: [nose, nostril, face, anger]
 domain: body
 words:
   - he: אף
+    tr: af
+    en: nose, anger
     nk: אַף
+    distinct: the biblical word, meaning nose in only 22 of its 414 appearances and otherwise anger or even, also, with the dual apayim the face (Kutscher); anger shows in the flaring nose (Rashi); the face-nose link runs from the nose as the face's outstanding feature (Rabbi Shlomo Pappenheim) or from face as the core sense (Rabbi Yehudah Aryeh of Carpentras)
+  - he: חוטם
+    tr: chotem
+    en: nose, nostrils
+    distinct: the rabbinic word for the organ, never in Tanach, coined to retire the ambiguous af (Kutscher); in the plural chotmin unmistakably the nostrils; by extension any nose-shaped taper, such as the stem end of an esrog
+  - he: נחירים
+    tr: nichirayim
+    en: nostrils
+    distinct: the two nostrils as openings, once in Tanach (Iyov 41:12); from נ-ח-ר, which also yields snorting (Menachem Ibn Saruk, Ibn Janach, Radak), or from ח-ר by way of chor, a hole, a nostril being a hole in the face (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rabbi Aharon Marcus, Rashi, Rabbi Eliyahu Bachur, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yehudah Ibn Balaam, Rabbi Yosef Kara, Ibn Ezra, Zohar, Maharsha, Rabbi Binyamin Mussafia, Rabbi Moshe Yair Weinstock, Rabbi Shlomo Ibn Parchon, Peirush HaRokeach, Rabbi David Conforte, Ben Ish Chai, Rabbi Avraham Nissan Orenstein, Prof. Edward Yechezkel Kutscher]
@@ -23,6 +34,14 @@ or **even, also** in most, and in the dual *apayim* usually **face**. *Chotem*
 is the rabbinic word for the organ, and in the plural *chotmin* the **nostrils**
 proper. *Nichirayim* is a single biblical word for the two **nostrils** as
 openings (Iyov 41:12).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אף | af | nose, anger | biblical; nose in only 22 of 414, else anger or even (Kutscher) |
+| חוטם | chotem | nose, nostrils | rabbinic, not in Tanach, replacing ambiguous *af* (Kutscher); plural is nostrils |
+| נחירים | nichirayim | nostrils | the nostrils as openings, once in Tanach; a hole, from *chor* (Pappenheim) |
 
 ## Distinctions
 

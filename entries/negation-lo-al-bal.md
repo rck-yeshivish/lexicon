@@ -6,6 +6,18 @@ translit: [lo, al, bal, bli, b'li, bilti, bilui, blo, b'lo]
 english: [not, do not, shall not, without, the prohibition of]
 domain: speech
 words:
+  - he: לא
+    tr: lo
+    en: you shall not
+    distinct: the Torah's standard negation and the marker of a negative commandment; negates past fact and future command alike, you did not as well as you shall not (Rabbi Ber Oppenheimer); addressed concretely to a second person (Rabbi Aharon Maggid, as Rabbi Klein reads him)
+  - he: אל
+    tr: al
+    en: do not
+    distinct: always a negative imperative about something one might yet do, never about a past act, with one exception at Shmuel I 27:10 (Rabbi Ber Oppenheimer); do not, never did not
+  - he: בל
+    tr: bal
+    en: shall not, the prohibition of
+    distinct: in Tanach the same as lo (Rashi), mostly stating a fact rather than a command; Chazal use it to name a prohibition the Torah issued with lo, and why they switched is disputed (Rabbi Meir HaMeili, Rabbi Reuven Margolios, Rabbi Ber Oppenheimer, Rabbi Eliyahu Gutmacher)
   - he: בלי
     nk: בְּלִי
 sources:
@@ -25,6 +37,14 @@ issued in the Torah with *lo*. So *lo sashchis* in a pasuk is **"you shall not
 destroy"**, while *bal tashchis* in a sugya is **"the prohibition of bal
 tashchis"**, not a fresh command. *Bal* is not a Rabbinic coinage: it appears
 close to seventy times in Tanach, though never in Chumash.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| לא | lo | you shall not | the Torah's prohibition; covers did not and shall not alike (Oppenheimer) |
+| אל | al | do not | negative imperative only; do not, never did not (Oppenheimer) |
+| בל | bal | shall not, the prohibition of | means *lo* in Tanach (Rashi), but Chazal's name for a Torah prohibition |
 
 ## Distinctions
 

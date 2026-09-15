@@ -6,10 +6,36 @@ translit: [zaken, zakein, seivah, seiva, sevah, yashish, kashish, yashan, atik, 
 english: [elder, old age, aged, ancient, senior, veteran, stale]
 domain: time
 words:
+  - he: זקן
+    tr: zaken
+    en: elder
+    distinct: an elder, set at sixty (Avos 5:24), a stage before seivah (Bedersi); belongs to people and animals, not plants (Rabbi Yehuda Leib Shapira-Frankfurter)
+  - he: שיבה
+    tr: seivah
+    en: old age
+    distinct: old age proper, seventy, the later stage after zaken (Bedersi); read as a contraction of seva yamim, satisfied with days (Rabbi Eliezer Reines)
+  - he: ישיש
+    tr: yashish
+    en: the aged
+    distinct: older still, placed after seivah on Iyov 15:10 and derived from yesh, one who has existed a long time (Radak); perhaps the Mishnah's ninety (Bedersi); only four times, all in Iyov
+  - he: קשיש
+    tr: kashish
+    en: aged
+    distinct: the Aramaic equivalent, the Targum's rendering of yashish and one of its two for zaken, with the same sense as yashish (Rabbeinu Chananel, Rabbi Nosson of Rome); tied to yashish only by an unlikely gematria interchange (Rabbi Mordechai Tzvi Herzka)
   - he: ישן
+    tr: yashan
+    en: aged, last year's
     nk: יָשָׁן
+    distinct: old of plants and produce, not of people, set against zaken, which is for people and animals (Rabbi Yehuda Leib Shapira-Frankfurter)
   - he: עתיק
+    tr: atik
+    en: ancient
     nk: עַתִּיק
+    distinct: far removed in time, from a root of movement in space, as in vayaatek, since Hebrew ties time to space; hence Atik Yomin, Ancient of Days (Daniel 7:9)
+  - he: ותיק
+    tr: vatik
+    en: veteran, senior
+    distinct: not an age word but standing and reliability, from Arabic wathuqa, firm, seniority being earned by dependability (Rabbi Ernest Klein, judged more plausible by Rabbi Reuven Chaim Klein); one is only tempted to hear old
 sources:
   - wiaw:8487 "The Old Man and the See" (2019-11-23) https://articles.ohr.edu/articles/the-old-man-and-the-see
 authorities: [Rabbi Avraham Bedersi HaPenini, Radak, Rabbi Eliezer Reines, Rabbi Mordechai Tzvi Herzka, Rabbeinu Chananel, Rabbi Nosson of Rome, Rabbi Yehuda Leib Shapira-Frankfurter, Rashi, Bartenura, Rabbi Ernest Klein, Rabbi Shaul Goldman]
@@ -27,6 +53,18 @@ The three age words run in ascending order: *zaken* is **an elder** (sixty),
 Rabbi Reuven Chaim Klein judges more plausible (that of Rabbi Ernest Klein), is
 not an age word at all but means **veteran** or **senior**, of standing and
 reliability, not "old."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| זקן | zaken | elder | sixty, before *seivah* (Bedersi); people and animals, not plants (Shapira-Frankfurter) |
+| שיבה | seivah | old age | seventy, after *zaken* (Bedersi); *seva yamim*, satisfied with days (Reines) |
+| ישיש | yashish | the aged | beyond *seivah*, from *yesh* (Radak); perhaps ninety (Bedersi) |
+| קשיש | kashish | aged | Aramaic for *yashish*, the Targum's standing rendering; also renders *zaken* |
+| ישן | yashan | aged, last year's | old of plants and produce, never of people (Shapira-Frankfurter) |
+| עתיק | atik | ancient | remote in time, from a root of moving in space; *Atik Yomin* |
+| ותיק | vatik | veteran, senior | veteran, from Arabic *wathuqa*, firm (Rabbi Ernest Klein); dependability, not age |
 
 ## Distinctions
 

@@ -5,6 +5,27 @@ roots: [ר-ס-ן, ר-ס, מ-ת-ג, ז-מ-ם, ז-ם]
 translit: [resen, ressen, meteg, metheg, zemam, zemama, zomem, zamam, zimah, zimma, prumbia, prumbiya, perumbia, afsar, ifsar, nezem, roznim]
 english: [muzzle, bit, bridle, reins, halter, plot, scheme]
 domain: other
+words:
+  - he: רסן
+    tr: resen
+    en: bridle
+    distinct: a rope or a leather bit (Bedersi), the mouthpiece or the reins (Clines), but the metal bit (Tedeschi-Ashkenazi); steers the animal and blocks its mouth (Radak); Targum renders it prumbia where it stands beside meteg
+  - he: מתג
+    tr: meteg
+    en: bit
+    distinct: a metal bit (Bedersi) or the whole bridle (Clines), but the leather strap (Tedeschi-Ashkenazi); a long piece of metal set in the mouth, built unlike a resen (Radak); Targum renders it zemama where it stands beside resen
+  - he: זמם
+    tr: zemam
+    en: muzzle
+    distinct: the Aramaic and rabbinic muzzle that closes an animal's mouth, and Targum's word for both resen and meteg; its homograph zomem, to plot, is a separate word, though the muzzle locks the mouth as a scheme stays within the mind (Shadal)
+  - he: פרומביא
+    tr: prumbia
+    en: muzzle, halter
+    distinct: the rabbinic muzzle or halter of the Mishnah, Rashi's gloss for resen and Targum's word for resen beside meteg; from the Greek phorbeia, the leather strap an aulos player wore over his mouth (Kohut)
+  - he: אפסר
+    tr: afsar
+    en: reins
+    distinct: the bit or reins, from Persian; taking hold of an animal's afsar acquires the animal, so in the Bavli it names the legal mechanism by which anything is acquired
 sources:
   - wiaw:11006 "Balak: Muzzled Up" (2023-07-01) https://articles.ohr.edu/articles/balak-muzzled-up
 authorities: [Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rabbi Moshe Tedeschi-Ashkenazi, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Aharon Marcus, Rabbi Yehoshua Steinberg, Rabbi Yaakov Tzvi Mecklenburg, Shadal, Rabbi Amitai Ben-David, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Dr. David J. A. Clines, Dr. Alexander Kohut]
@@ -24,6 +45,16 @@ covers both and is a **muzzle**, the device that closes a mouth. *Prumbia* is
 the rabbinic **muzzle/halter**; *afsar* is the **reins** by which one takes
 legal possession of an animal. The noun *zemam* (muzzle) is distinct from
 its homograph *zomem/zimah* (plot, scheme), though the sources tie them.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| רסן | resen | bridle | leather bit or rope (Bedersi); the metal bit (Tedeschi); steers the beast (Radak) |
+| מתג | meteg | bit | metal bit (Bedersi); the whole bridle (Clines); leather strap (Tedeschi) |
+| זמם | zemam | muzzle | Aramaic and rabbinic muzzle; Targum's word for both *resen* and *meteg* |
+| פרומביא | prumbia | muzzle, halter | rabbinic muzzle or halter; Rashi's gloss for *resen*; Greek *phorbeia* (Kohut) |
+| אפסר | afsar | reins | reins, from Persian; seizing it acquires the animal, hence legal acquisition |
 
 ## Distinctions
 
