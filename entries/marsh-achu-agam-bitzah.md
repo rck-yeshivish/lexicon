@@ -8,6 +8,22 @@ domain: nature
 words:
   - he: בוץ
     nk: בּוֹץ
+  - he: אחו
+    tr: achu
+    en: marsh, riverbank growth
+    distinct: disputed; a marsh, the same as agam (Rashi); the reeds and grasses on a riverbank, not the place, from ach, brother (Ramban, Rav Hirsch); the marsh where that growth grows (Rabbi Moshe ben Shem Tov Gabbai); both grass and ground (Ibn Janach, Radak)
+  - he: אגם
+    tr: agam
+    en: marsh, pond
+    distinct: a marsh, and for Rashi also a standing pond; ground soaked and sponge-like to hold its water, from ג-ם, whence gome, the spongy reed (Rabbi Shlomo Pappenheim); named for the gome growing in it (Wertheimer)
+  - he: ביצה
+    tr: bitzah
+    en: mire
+    distinct: muddy, swampy ground, from botz, mud; matter of a mucus-like consistency, neither pourable nor solid, as in beitzah, an egg (Rabbi Shlomo Pappenheim); Rashi renders it maresc, as he does achu and agam
+  - he: סוף
+    tr: suf
+    en: reeds
+    distinct: not a marsh but the reed growing in one, hence Yam Suf, the Sea of Reeds; Rashi only associates it with agam and renders it roisel, the common reed (Rabbi Avraham Meir HaKohen Glanzer)
 sources:
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
 authorities: [Rashi, Ramban, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe ben Shem Tov Gabbai, Ibn Janach, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Avraham Meir HaKohen Glanzer]
@@ -25,6 +41,15 @@ Ramban and Rav Hirsch make it the **riverbank growth**, the reeds and grasses,
 not the place. *Suf* is not a marsh at all but the **reeds** that grow in one,
 which is why *Yam Suf* is the Sea of Reeds. Iyov 8:11 puts *bitzah* and *achu*
 in one pasuk with *gome* beside them.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אחו | achu | marsh, riverbank growth | disputed: marsh (Rashi) against riverbank grass, not the place (Ramban, Rav Hirsch) |
+| אגם | agam | marsh, pond | marsh, or a standing pond (Rashi); spongy soaked ground, kin to *gome* (Pappenheim) |
+| ביצה | bitzah | mire | mire, ground held in mud, from *botz*; mucus-like, like an egg (Pappenheim) |
+| סוף | suf | reeds | not a marsh but its reeds (Glanzer on Rashi); hence the Sea of Reeds |
 
 ## Distinctions
 

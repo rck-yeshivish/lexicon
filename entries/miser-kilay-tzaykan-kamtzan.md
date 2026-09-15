@@ -5,6 +5,19 @@ roots: [כ-ל, כ-י-ל, כ-ו-ל, נ-כ-ל, צ-ק, ק-מ-צ]
 translit: [kilay, keilay, kili, tzaykan, tzaikan, tzaykanim, tzaykanut, kamtzan, kamtzanut, kemitzah, kemitza, kometz, komatz, kamtza, likematzim]
 english: [miser, cheapskate, stingy, tightfisted, penny-pincher]
 domain: society
+words:
+  - he: כילי
+    tr: kilay
+    en: miser
+    distinct: the Biblical miser, opposite of nadiv and shoa (Radak); one who jails his own money, from כ-ל (Rabbi Shlomo Pappenheim); read as ki yomar sheli sheli, what is mine is mine (Ibn Ezra); for the Ashkenazic commentators a trickster, from נ-כ-ל (Rashi, Mahari Kara, Rabbi Eliezer of Beaugency)
+  - he: צייקן
+    tr: tzaykan
+    en: skinflint
+    distinct: the Mishnaic cheapskate, who spends the community's money rather than his own; stops his money reaching others (Rashi); from tzuk, narrowness (Rabbi Ernest Klein), or mutzak, hard metal; a virtue in Orchos Tzaddikim's Shaar HaTzaykanus
+  - he: קמצן
+    tr: kamtzan
+    en: cheapskate
+    distinct: the post-Mishnaic and living word; from ק-מ-צ, the kemitzah of a minchah, held to three fingers with the excess wiped away (Rashi), so he stores his wealth and keeps to the least anyone can get from him
 sources:
   - wiaw:9734 "On Misers and Cheapskates" (2022-06-18) https://articles.ohr.edu/articles/on-misers-and-cheapskates
 authorities: [Radak, Ibn Janach, Rabbi Shlomo Pappenheim, Ibn Ezra, Rashi, Mahari Kara, Rabbi Eliezer of Beaugency, Menachem Ibn Saruk, Rabbeinu Chananel, Rabbi Ernest Klein, Rashbam, Rabbi Chaim of Friedberg, Maharal, Orchos Tzaddikim, Rabbeinu Yonah, Solomon Rabinowitz, Mendele Mocher Seforim, Alexander Kohut]
@@ -23,6 +36,14 @@ on another possible etymology, hard about parting with it, *kamtzan* measures
 out the smallest possible amount. *Kilay* is disputed.
 Commentators such as Radak read it as "miser," the Ashkenazic commentators
 (Rashi, Mahari Kara, Rabbi Eliezer of Beaugency) as "trickster."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כילי | kilay | miser | Biblical miser (Radak); a trickster (Rashi, Mahari Kara); locks money away (Pappenheim) |
+| צייקן | tzaykan | skinflint | Mishnaic; narrow (Ernest Klein) or hard about parting with his money |
+| קמצן | kamtzan | cheapskate | the living word; measures out the minimum, like the *kemitzah* (Rashi) |
 
 ## Distinctions
 

@@ -5,6 +5,23 @@ roots: [א-ד-ן, ר-ב]
 translit: [adon, adonai, adoni, ribbon, ribono, rav, rebbi, rebbe, rabbi, ravei, rav-tabachim, rav-hachovel]
 english: [master, lord, chief, teacher]
 domain: society
+words:
+  - he: אדון
+    tr: adon
+    en: master
+    distinct: the usual Hebrew word for a slave's master, whose form Adonai is a Name of Hashem; a standing, all-encompassing title borne in every context (Rabbi Baruch Aryeh HaLevi Fischer); in the berachah, dominion over the spiritual realm, in Hebrew (Vilna Gaon)
+  - he: רבון
+    tr: ribbon
+    en: Master
+    distinct: Targum Onkelos's Aramaic for adon, an honorific form of rav; used only where a subordinate is in the master's charge (Rabbi Baruch Aryeh HaLevi Fischer); in the berachah, eminence in the physical world, in Aramaic (Vilna Gaon)
+  - he: רב
+    tr: rav
+    en: master, chief
+    distinct: the Mishnah's ordinary word for a slave's owner; in Tanach only in construct, chief of, as rav tabachim and rav hachovel; like ribbon, a master with a protégé in his charge (Rabbi Baruch Aryeh HaLevi Fischer)
+  - he: רבי
+    tr: rebbi
+    en: Rebbi, Rabbi
+    distinct: my rav, my master; for a Torah scholar his teacher, for a thief the leader of his gang, as Reish Lakish told Rabbi Yochanan (Bava Metzia 84a)
 sources:
   - wiaw:7153 "Rabbi of Robbers" (2017-02-25) https://articles.ohr.edu/articles/rabbi-of-robbers
 authorities: [Targum Onkelos, Vilna Gaon, Rabbi Aharon Leib Steinman, Rabbi Baruch Aryeh HaLevi Fischer]
@@ -23,6 +40,15 @@ assumption, that it is simply Hebrew against Aramaic; and the thematic way
 Rabbi Baruch Aryeh HaLevi Fischer *suggests*, that *adon* is a standing title
 while *rav*/*ribbon* is used only where there is a subordinate in the master's
 charge.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אדון | adon | master | the Hebrew master; a standing title, hence *Adonai* a Name (Fischer) |
+| רבון | ribbon | Master | Aramaic for *adon* (Onkelos); only with a subordinate in his charge (Fischer) |
+| רב | rav | master, chief | Mishnaic owner of a slave; in Tanach only construct, chief of |
+| רבי | rebbi | Rebbi, Rabbi | my master; a Torah teacher or a bandit leader (Bava Metzia 84a) |
 
 ## Distinctions
 

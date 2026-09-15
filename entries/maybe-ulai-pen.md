@@ -5,6 +5,23 @@ roots: [א-ו-ל, פ-נ-ה]
 translit: [ulai, ulay, oolai, pen, shema, sheme, shemay, dilma, dilmah]
 english: [maybe, perhaps, lest]
 domain: other
+words:
+  - he: אולי
+    tr: ulai
+    en: maybe, perhaps
+    distinct: a possibility the speaker desires (Rabbi Eliyahu HaBachur, Rabbi Immanuel Benevento), or thinks the likelier (Malbim); neutral, like English maybe (Rabbi Shlomo of Urbino); Yaakov's ulai (Bereishis 27:12) is the difficulty for the first view
+  - he: פן
+    tr: pen
+    en: lest
+    distinct: a possibility raised in order to guard against it, hoping it will not come about (HaBachur, Benevento); from panah, turned away (Rabbi Yaakov Tzvi Mecklenburg); had Eliezer wanted success he would have said pen (Vilna Gaon)
+  - he: שמא
+    tr: shema
+    en: maybe
+    distinct: the Aramaic maybe, neutral on all accounts, carrying none of the leaning of ulai or pen; like English maybe, as Rabbi Shlomo of Urbino holds ulai to be as well
+  - he: דלמא
+    tr: dilma
+    en: maybe
+    distinct: the Aramaic maybe, paired with shema; neutral on all accounts, as English maybe is neutral (Rabbi Shlomo of Urbino), with no leaning toward or against the outcome
 sources:
   - wiaw:7483 "Maybe Yes, Maybe No" (2017-11-11) https://articles.ohr.edu/articles/maybe-yes-maybe-no
 authorities: [Rabbi Shlomo of Urbino, Rabbi Eliyahu HaBachur, Rabbi Immanuel Benevento, Malbim, Rabbi Yaakov Tzvi Mecklenburg, Vilna Gaon, Rashi, Rabbi Yehuda Leib Edel, Rabbi Tzvi Hirsch Chayes, Rabbi Seligman Baer Bamberger, Rabbi Shlomo Aharon Wertheimer, Rabbi Zalman Sorotzkin, Rabbi Meir Mazuz]
@@ -22,6 +39,15 @@ HaBachur's and Rabbi Immanuel Benevento's view, Biblical Hebrew has no neutral
 Rabbi Shlomo of Urbino holds the opposite, that *ulai* is neutral, and Rabbi Klein leaves the machlokes standing, noting a significant
 problem with the first view. Aramaic *shema* / *dilma* is neutral on all
 accounts.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אולי | ulai | maybe, perhaps | maybe the speaker hopes for (HaBachur) or expects (Malbim); neutral (Urbino) |
+| פן | pen | lest | lest; a maybe the speaker hopes will not happen (HaBachur, Benevento) |
+| שמא | shema | maybe | Aramaic, neutral on all accounts; no hoping or fearing |
+| דלמא | dilma | maybe | Aramaic, neutral on all accounts, like *shema* |
 
 ## Distinctions
 

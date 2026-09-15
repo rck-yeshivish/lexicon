@@ -5,6 +5,19 @@ roots: [ע-ר-ב, מ-ז-ג, ז-ג, ד-מ-ע, ב-כ, נ-ח-ם]
 translit: [iruv, eiruv, irbuv, taarovet, taaruvos, hisarvu, vayisarvu, mizug, mezigah, mazug, mozeg, limzog, mazeg, zag, dimua, dima, dimah, dimaos, dimaot, bdema, navoch, nevuchim, navochah, bocheh, nechamah, nechama]
 english: [mixing, intermingling, blending, diluting, admixture, tear, confusion, weeping, consolation]
 domain: action
+words:
+  - he: עירוב
+    tr: iruv
+    en: mixing, intermingling
+    distinct: the mixing up of dry objects, as with people intermingling (Rabbi Shimon Dov Ber Analak of Shidlitz), like Ezra's hisarvu of Jewish seed with the nations and Tehillim's vayisarvu with the gentiles
+  - he: מזיגה
+    tr: mizug
+    en: mixing, diluting
+    distinct: for liquid ingredients, wine mixed with water (Analak); the Mishnah's word for mixing a cup; pouring from vessel to vessel, the vessel standing in for the grape's zag (Rabbi Shlomo Pappenheim)
+  - he: דימוע
+    tr: dimua
+    en: commingling
+    distinct: the Mishnaic term for mixing, above all terumah fallen into chullin; Shemos 22:28's dimah read as terumah, for its one-in-a-hundred rule (Rashi) or as something wet (Tosafos); one root with dimah, tear, connected by most but not Ibn Janach
 sources:
   - wiaw:11480 "Devarim: All Mixed Up" (2024-08-10) https://articles.ohr.edu/articles/devarim-all-mixed-up
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Epstein, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro, Ritva, Rashba, Maharsha, Yaavetz]
@@ -23,6 +36,14 @@ unsanctified produce: **commingling**. *Dimua* and *dimah* ("tear") are the same
 two senses relate has been the subject of much discussion;
 most of the commentators below hold them connected, Ibn Janach being the
 one who does not.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עירוב | iruv | mixing, intermingling | dry things or people intermingling (Analak); Ezra's mixed seed |
+| מזיגה | mizug | mixing, diluting | liquids, diluting wine with water (Analak); the Seder's mixed cup |
+| דימוע | dimua | commingling | Mishnaic, of *terumah* mixed into *chullin*; shares a root with *dimah*, tear |
 
 ## Distinctions
 

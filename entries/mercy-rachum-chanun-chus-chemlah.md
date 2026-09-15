@@ -6,10 +6,29 @@ translit: [rachum, rachamim, rachamin, rachmanus, rachmanut, chanun, chanan, che
 english: [mercy, compassion, grace, favor, pity, sparing, caring]
 domain: emotion
 words:
+  - he: רחום
+    tr: rachum
+    en: merciful
+    distinct: one of the Thirteen Attributes, which Rabbeinu Bachaya elsewhere makes one with chanun; focuses on the savior, moved by the sufferer's plight (Rabbi Klein); for the poor (Bechor-Shor); beyond the letter of the law (Rokeach), or, others say, only for one who asks
+  - he: רחמים
+    tr: rachamim
+    en: mercy, compassion
+    nk: רַחֲמִים
+    distinct: Hashem withholding a calamity before it falls (gloss to Tosafos); His general oversight of the world (Rabbeinu Bachaya); against din, the Giver gives without weighing desert (Rabbi Klein); from motherly protection, as in rechem (Rav Hirsch)
+  - he: חנון
+    tr: chanun
+    en: gracious
+    distinct: focuses on the receiver, who finds favor (chein) or is granted a reprieve (Rabbi Klein); a free gift not necessarily deserved, matnas chinam (Rashi); for the rich, regardless of need (Bechor-Shor); a reprieve in the midst of distress (gloss to Tosafos)
   - he: חן
     nk: חֵן
-  - he: רחמים
-    nk: רַחֲמִים
+  - he: חוס
+    tr: chus
+    en: sparing
+    distinct: refusing to let a thing be destroyed because one would lose the benefit one has from it, as in chas v'shalom; felt toward any entity, not only an intelligent one (Malbim); not among the Thirteen Attributes
+  - he: חמלה
+    tr: chemlah
+    en: pity
+    distinct: refusing to let a thing be ruined because of an innate quality in it, a beauty or completeness (Malbim); can extend to one who cannot ask for help, a child (Wertheimer); not among the Thirteen Attributes
 sources:
   - wiaw:7679 "Mercy or Pity" (2018-03-10) https://articles.ohr.edu/articles/mercy-or-pity
   - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
@@ -30,6 +49,16 @@ because one values it; *chemlah* is **pity** that will not see a thing ruined
 for its own worth, and it can reach the one who cannot ask (Malbim, Wertheimer).
 So for Rabbi Klein *rachum* looks at the giver's heart, *chanun* at the
 receiver's standing; other commentators divide the two differently.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| רחום | rachum | merciful | the giver moved by the sufferer's plight (Rabbi Klein); for the poor (Bechor-Shor) |
+| רחמים | rachamim | mercy, compassion | gives without weighing desert, against *din* (Rabbi Klein); motherly protection (Rav Hirsch) |
+| חנון | chanun | gracious | the receiver finds favor (Rabbi Klein); a free, undeserved gift (Rashi) |
+| חוס | chus | sparing | sparing a thing for the benefit one would lose (Malbim) |
+| חמלה | chemlah | pity | pity for a thing's own worth (Malbim); reaches one who cannot ask (Wertheimer) |
 
 ## Distinctions
 

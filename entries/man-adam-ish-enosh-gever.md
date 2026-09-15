@@ -6,8 +6,23 @@ translit: [adam, odom, enosh, anosh, ish, eesh, gever, gevar, anashim, anoshim, 
 english: [man, mankind, human being, mortal, person, a man, adult male, male]
 domain: society
 words:
+  - he: אדם
+    tr: adam
+    en: man, mankind
+    distinct: the species name and highest term, singular and plural, male and female (Zohar); behaves like a proper name, never plural or feminine (Malbim); from adamah (Maharal, Pappenheim), resemblance (Pappenheim) or hadom, footstool (Rav Hirsch); the child for Ibn Yachya
+  - he: אנוש
+    tr: enosh
+    en: mortal, frail man
+    distinct: man in his weakness and degradation; a root meaning weak and sickly (Radak); powers weak beside greater spiritual beings (Pappenheim); ish with a diminutive nun (Wertheimer); the plural anashim means men of importance (Rashi); the elder for Ibn Yachya
+  - he: איש
+    tr: ish
+    en: a man
+    distinct: one individual, physically mature, man against woman or child; a single specimen of any species, even an angel or a curtain; one who has all he needs (Pappenheim); a less material existence, so it can name angels (Mecklenburg); the adult for Ibn Yachya
   - he: גבר
+    tr: gever
+    en: strong man
     nk: גֶּבֶר
+    distinct: man as strength, from gevurah, usually the male (Malbim); always male as against female (Ibn Ezra), against which Rabbi Yehuda Leib Edel cites gender-neutral uses; lowest in the Zohar's ranking; the adolescent for Ibn Yachya
 sources:
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
 authorities: [Zohar, Malbim, Maharal of Prague, Rabbi Shlomo Pappenheim, Rav Hirsch, Vilna Gaon, Radak, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Yaakov Tzvi Mecklenburg, Ibn Ezra, Rabbi Yehuda Leib Edel, Ibn Yachya]
@@ -25,6 +40,15 @@ flips to "men of standing," Rashi). *Ish* is one individual, physically mature:
 in the sense of the strong male, and not generic humanity, though whether it is
 always male is itself disputed (Ibn Ezra says yes, Rabbi Yehuda Leib Edel brings
 gender-neutral uses against him). The Zohar ranks them (*adam* > *enosh* > *ish* > *gever*).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אדם | adam | man, mankind | the species, highest term (Zohar); like a proper name, never plural (Malbim) |
+| אנוש | enosh | mortal, frail man | man in weakness, mortal (Radak); plural *anashim* flips to men of standing (Rashi) |
+| איש | ish | a man | a single mature specimen, against woman or child; has all he needs (Pappenheim) |
+| גבר | gever | strong man | man as strength (Malbim); always male (Ibn Ezra) or not (Edel) |
 
 ## Distinctions
 

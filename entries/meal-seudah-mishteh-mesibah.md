@@ -8,6 +8,18 @@ domain: ritual
 words:
   - he: סעד
     nk: סָעַד
+  - he: סעודה
+    tr: seudah
+    en: meal
+    distinct: a meal generally associated with bread, from saad, to sustain (Radak), named for what it does for the body; the word for the three Shabbos meals; centers on eating, against mishteh (Rabbi Tzaddok HaKohen of Lublin)
+  - he: משתה
+    tr: mishteh
+    en: feast
+    distinct: a feast built on wine, from shoseh, to drink, the Purim meal and the banquets of Megillas Esther (Rabbi Tzaddok HaKohen of Lublin), though Rashi makes wine the defining element of any joyous seudah; a meal of gladness (Rabbi Levi Yitzchok of Berditchev)
+  - he: מסיבה
+    tr: mesibah
+    en: reclining meal
+    distinct: focuses on neither food nor drink but the posture, those at the meal reclining (Rashi), and only later any party; tied instead to sovev, around, by one contemporary linguist, which Rabbi Klein calls unsubstantiated
 sources:
   - wiaw:7176 "Party Hardy" (2017-03-11) https://articles.ohr.edu/articles/party-hardy
 authorities: [Radak, Rabbi Tzaddok HaKohen of Lublin, Rashi, Rashbam, Rabbi Levi Yitzchok of Berditchev]
@@ -25,6 +37,14 @@ Megillas Esther. *Mesibah* focuses on neither food nor drink: it is the
 meal at which people **recline**, and only later came to mean a party in
 general. In Rabbi Klein's summary, each word focuses on one thing: the bread,
 the wine, or the posture.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| סעודה | seudah | meal | meal of bread, from *saad*, to sustain (Radak); the Shabbos meals |
+| משתה | mishteh | feast | wine feast, from *shoseh*, to drink; the Purim meal (Rabbi Tzaddok) |
+| מסיבה | mesibah | reclining meal | meal taken reclining (Rashi); only later a party in general |
 
 ## Distinctions
 

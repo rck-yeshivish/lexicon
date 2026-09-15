@@ -5,6 +5,27 @@ roots: [א-ה-ב, ר-ח-ם, ח-ב-ב, ע-ג-ב]
 translit: [ahavah, ahava, ahuv, ahuvah, ohev, ahavim, rechim, r'chim, rechimu, rachim, dechilu urechimu, chibah, chiba, chibbah, chaviv, chavivus, chavivut, chovev, agav, agavim, ugav]
 english: [love, fondness, affection, endearment, dear, beloved, lust]
 domain: emotion
+words:
+  - he: אהבה
+    tr: ahavah
+    en: love
+    distinct: the general and widest word; true love gives itself to the beloved, from hav, to give (Rav Hirsch, Rabbi Eliyahu Lopian); desire awakened in a positive direction, from א-ב (Pappenheim); embraces the whole person, faults included (Rabbi Yosef Zechariah Stern)
+  - he: חיבה
+    tr: chibah
+    en: fondness, affection
+    distinct: love held close and inward, not necessarily expressed (Lubetzky); love of a person's positive aspects only (Rabbi Yosef Zechariah Stern); from ח-ב, hidden (Pappenheim), or chubi, bosom (Shadal); Rabbi Klein allows it may be no different from ahavah
+  - he: חביב
+    tr: chaviv
+    en: dear
+    distinct: the one held in chibah; embedded in the memory and in the depths of the heart, as if hidden inside the one who dotes on him (Pappenheim)
+  - he: רחים
+    tr: rechim
+    en: love
+    distinct: the Targum's standard Aramaic for ahavah, as in dechilu u'rechimu; in Hebrew the root is usually mercy, save ארחמך, I will love You (Ibn Janach, Rashi, Ibn Ezra, Radak, Ibn Ramoch); love is the root of mercy (Rabbi Yitzchak Avineri)
+  - he: עגב
+    tr: agav
+    en: lust
+    distinct: love in its negative form, used of Israel's lusting after idolatry; marked by outward professions of love, lewd gestures and songs (Rabbi Yehuda Leib Edel), the opposite of chibah as Lubetzky reads it
 sources:
   - wiaw:10714 "True Love (Part 1/2)" (2023-11-11) https://articles.ohr.edu/articles/true-love-part-12
   - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
@@ -26,6 +47,16 @@ usually mercy, save Tehillim 18:2): **love**. *Agav* is love in its negative for
 is the narrower, inner, selective word. Rabbi Klein himself, though, offers the other possibility, that
 *chibah* is no different from *ahavah* and may even be etymologically the same
 word, so the distinction is not closed.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אהבה | ahavah | love | widest word; giving oneself to the beloved (Rav Hirsch); loves faults too (Stern) |
+| חיבה | chibah | fondness, affection | inner love, unexpressed (Lubetzky); for the good in a person only (Stern) |
+| חביב | chaviv | dear | held dear, as if hidden deep in the heart (Pappenheim) |
+| רחים | rechim | love | Targum's Aramaic for *ahavah*; in Hebrew mercy, except Tehillim 18:2 |
+| עגב | agav | lust | negative love, lust after idolatry; outward and lewd (Edel) |
 
 ## Distinctions
 

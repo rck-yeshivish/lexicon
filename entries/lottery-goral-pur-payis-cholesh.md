@@ -6,10 +6,32 @@ translit: [goral, gorel, pur, purim, payis, payes, pais, cholesh, chalash, kalpi
 english: [lot, lottery, portion, allotment, raffle, ballot box]
 domain: society
 words:
-  - he: חבל
-    nk: חֶבֶל
+  - he: גורל
+    tr: goral
+    en: lot, portion
+    distinct: the general word for a lot, both the drawing and the thing drawn, and for the portion allotted to a man; a positive connotation, a lottery held for a beneficial purpose (Rabbi Yaakov Lorberbaum of Lissa)
   - he: פור
+    tr: pur
+    en: lot
     nk: פּוּר
+    distinct: the foreign word the Megillah glosses as goral (Midrash Lekach Tov, Rashbam, Ibn Ezra, Ramban); Hebrew, a lottery cast in malice (Rabbi Yaakov Lorberbaum of Lissa); a separate lottery from Haman's goral (Maharitatz); the box the lots were put in (Rabbi Shlomo Pappenheim)
+  - he: פייס
+    tr: payis
+    en: lottery
+    distinct: the Mishnaic word for drawing lots, above all the lottery among the kohanim in the Beis HaMikdash; from a Persian or Greek word for a small rock for some linguists, or from piyus, appeasement, since all have an equal chance (Tosafos Yom Tov, Meiri, Sefer HaAruch)
+  - he: חולש
+    tr: cholesh
+    en: casting lots
+    distinct: a rare word for casting lots, Nevuchadnetzar drawing lots each day over the nations (Shabbos 149b); tied to lachash, whisper, lots being cast in the quiet (Rabbi Shlomo HaAdani), or to chalash, weak, a lottery being weak proof of desert (Rabbi Yosef Yishai Rain)
+  - he: קלפי
+    tr: kalpi
+    en: lot box
+    distinct: the Mishnaic name for the box the lots are drawn from, from the Greek kalpe, an urn used for drawing lots; in Modern Hebrew the ballot box at elections
+  - he: חבל
+    tr: chevel
+    en: portion
+    nk: חֶבֶל
+    distinct: a synonym of goral, one of four words for lots in Tanach, the one for time to come, the birthpangs (chevlei leidah) of the Messianic arrival (Yalkut Shimoni, Pesikta d'Rav Kahana); from rope, the line that measures a lot of land (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:8181 "Playing the Lottery" (2019-03-16) https://articles.ohr.edu/articles/playing-the-lottery
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
@@ -27,6 +49,17 @@ glosses as *goral*; the rishonim cited call it Persian. *Payis* is the Mishnaic
 word for the **lottery** among the *kohanim* in the Beis HaMikdash, and *kalpi* the **box** the lots are drawn
 from. *Cholesh* is a rare word for casting lots (Yeshayahu 14:12). *Goral* is
 both the drawing and the thing drawn.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גורל | goral | lot, portion | the general word, the drawing and the portion drawn; beneficial (Lorberbaum) |
+| פור | pur | lot | the Megillah's own gloss for *goral*, called Persian; cast in malice (Lorberbaum) |
+| פייס | payis | lottery | Mishnaic lottery among the *kohanim*; from *piyus*, appeasing all entrants (Tosafos Yom Tov) |
+| חולש | cholesh | casting lots | rare, drawing lots daily (Yeshayahu 14:12); from *lachash*, whisper (HaAdani), or *chalash*, weak (Rain) |
+| קלפי | kalpi | lot box | the box the lots are drawn from; Greek *kalpe*, an urn; today a ballot box |
+| חבל | chevel | portion | a plot measured by rope (Pappenheim); the lot of time to come, *chevlei leidah* (Midrash) |
 
 ## Distinctions
 

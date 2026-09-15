@@ -6,6 +6,30 @@ translit: [mammon, mamon, mammonos, mammonot, damim, damin, dmei, demei, maos, m
 english: [money, funds, price, value, cash, coin, silver]
 domain: society
 words:
+  - he: ממון
+    tr: mammon
+    en: money
+    distinct: money in the broadest sense, any asset a man holds (Rabbi Eliezer Herstik); from the Mishnah on, Targum's Aramaic for hon and rechush (Sefer HeAruch, Rabbi Eliyahu HaBachur); cash of known value (Pri Megadim); from ma'amon, a trust (Rabbi Ernest Klein)
+  - he: דמים
+    tr: damim
+    en: price, value
+    distinct: the price or value of a thing, always plural, and a homonym of blood; property whose value is still to be assessed (Pri Megadim); from ד-מ-ה, resembling (Rabbi Ernest Klein), or from blood, as a man lives off his money (Rabbi Chaim of Friedberg, Rabbi Yaakov Emden)
+  - he: מעות
+    tr: maos
+    en: coins, money
+    distinct: plural of maah, a coin equal to the geirah, widened into money in general; read as mah l'eis, worth only for a time (Bamidbar Rabbah 22:8), or tied to ivus, crookedness (Midrash Shmuel)
+  - he: זוז
+    tr: zuz
+    en: coin, money
+    distinct: a coin that widened into a general word for money; liquid assets that move (zaz) quickly out of one man's hand into another's (Bamidbar Rabbah 22:8)
+  - he: כסף
+    tr: kesef
+    en: silver, money
+    distinct: silver the metal, which became another word for money outright; kept apart from mechir by Targum at Yeshayahu 55:1; its root also yields nichsaf, desiring, the drive for money coming of the desire to be rich (Maharal)
+  - he: מחיר
+    tr: mechir
+    en: price
+    distinct: the Biblical word for price, which Targum renders damim (Rabbi Eliyahu HaBachur); at Yeshayahu 55:1, beside kesef, Targum Yonasan renders it mammon
   - he: רכוש
     nk: רְכוּשׁ
 sources:
@@ -28,6 +52,17 @@ names that widened into general words for **money**; *kesef* is **silver**, whic
 probably widened the same way. *Mechir* is the Biblical **price**. In a Mishnaic passage
 *damim* is regularly money, while in Tanach
 it is generally understood to be blood, with only two pesukim disputed.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ממון | mammon | money | any asset one holds (Herstik); post-Biblical, Aramaic for *hon* (HaBachur) |
+| דמים | damim | price, value | price or value, always plural; homonym of blood; unappraised property (Pri Megadim) |
+| מעות | maos | coins, money | plural of *maah*, a coin; worth only for a time (Bamidbar Rabbah 22:8) |
+| זוז | zuz | coin, money | a coin; money that moves (*zaz*) from hand to hand (Bamidbar Rabbah) |
+| כסף | kesef | silver, money | silver, which became money; root of *nichsaf*, desire (Maharal) |
+| מחיר | mechir | price | the Biblical price; Targum renders it *damim* (HaBachur) |
 
 ## Distinctions
 

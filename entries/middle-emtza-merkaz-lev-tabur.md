@@ -5,6 +5,23 @@ roots: [א-מ-צ-ע, ר-כ-ז, ר-כ-ס, ל-ב, ט-ב-ר]
 translit: [emtza, emtzai, metzia, metziyata, merkaz, merkazi, rikuz, lev, leiv, libo, tabur, tibur, rechasim, rachasim, aliba, aliba dhilchisa]
 english: [middle, center, midst, heart, core, navel]
 domain: other
+words:
+  - he: אמצע
+    tr: emtza
+    en: middle
+    distinct: the middle of Mishnaic Hebrew, absent from Tanach; root מ-צ-ע (Rabbi Eliyahu HaBachur), a root the classical lexicographers deny; from the Greek mesos (Avraham Even-Shoshan); Aramaic metzia, as in Bava Metzia
+  - he: מרכז
+    tr: merkaz
+    en: center
+    distinct: medieval, borrowed from Arabic for the center of a circle (Rabbi Shmuel Ibn Tibbon, Rabbi Ernest Klein); perhaps from ר-כ-ס, tying, the point of highest concentration (Golumb, Rabbi Reuven Chaim Klein); also principal, main, like English central
+  - he: לב
+    tr: lev
+    en: heart, midst
+    distinct: the heart, and by extension the midst of anything, since it sits roughly in the middle of the body, as the heart of the seas; whatever sits at the center or plays a central part (Rabbi Shlomo Pappenheim)
+  - he: טבור
+    tr: tabur
+    en: navel
+    distinct: the navel in the Mishnah, and in Tanach only tabur ha'aretz, the middle of the land; the same move from organ to middle as with lev, the navel sustaining a fetus as the heart sustains life
 sources:
   - wiaw:9785 "In the Middle" (2022-07-16) https://articles.ohr.edu/articles/in-the-middle
 authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Rabbi Eliyahu HaBachur, Rabbi Shmuel Ibn Tibbon, Rabbi Dovid Golumb, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Ramban, Avraham Even-Shoshan]
@@ -21,6 +38,15 @@ in medieval Hebrew and borrowed from Arabic (Rabbi Shmuel Ibn Tibbon says so
 himself); it carries the extra sense of "principal, main," as "central" does in
 English. Tanach says middle with two body words: *lev*, the **heart** or midst
 of a thing, and *tabur*, the **navel** or central point of a land.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אמצע | emtza | middle | Mishnaic middle, never in Tanach; from Greek *mesos* (Even-Shoshan) |
+| מרכז | merkaz | center | medieval Arabic borrowing (Ibn Tibbon); also principal, main, like central |
+| לב | lev | heart, midst | Biblical; the heart, so the midst of a thing (Pappenheim) |
+| טבור | tabur | navel | navel; in Tanach only *tabur ha'aretz*, middle of the land |
 
 ## Distinctions
 
