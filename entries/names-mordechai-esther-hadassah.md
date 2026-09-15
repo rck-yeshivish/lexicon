@@ -98,27 +98,31 @@ court.
   while Mordechai, who let no loanwords into his Hebrew, kept calling her
   Hadassah.
 
-**Mordechai's other names.** Megillah 16b and Menachos 65a read Mordechai-Bilshan (Ezra
-2:2, Nechemiah 7:7) as one man with a title (see Maharsha and *Keren Orah* to
-Menachos 65a); Ibn Ezra (to Esther 2:21) presumes Bilshan is the next man listed.
-On the Babylonian name: *Torah Temimah* (to Shemos 30:23 §48 and Esther 2:5
-§11) postulates that his true Hebrew name was Petachyah, though for some reason
-the Megillah consistently calls him Mordechai, and that because of that name's
-idolatrous implications the Gemara sought a favorable allusion for it in the
-Torah and thereby gave it some legitimacy; Rabbi
-Yehonatan Eybeschutz (*Yaaros Dvash* vol. 2 drush 13) holds that as Moshe's given
-name is absent from the Torah after "erase me from Your book," so Mordechai, who
-likewise gave himself up for the Jewish People, caused his real name Petachyah to
-be left out of the Megillah.
+**Mordechai's other names.**
 
-**Whether there was a fourth name.** One opinion in Megillah 15a has the navi
-Malachi be Mordechai himself, called Malachi because he was viceroy to the
-Persian king, *mishneh l'melech*, Rabbi Klein presuming that *malachi* is read as
-kin to *melech*; that would give him three names, Mordechai, Petachyah and
-Malachi. Other opinions there make Malachi an alternate name for Ezra, or a
-separate man altogether, and the Rambam, in his introduction to *Yad
-HaChazakah*, follows the last, since he lists Malachi, Mordechai Bilshan and Ezra
-as separate members of the Anshei Knesses HaGedolah.
+- Megillah 16b and Menachos 65a read Mordechai-Bilshan (Ezra 2:2, Nechemiah 7:7)
+  as one man with a title (see Maharsha and *Keren Orah* to Menachos 65a).
+- Ibn Ezra (to Esther 2:21) presumes Bilshan is the next man listed.
+- On the Babylonian name: *Torah Temimah* (to Shemos 30:23 §48 and Esther 2:5
+  §11) postulates that his true Hebrew name was Petachyah, though for some
+  reason the Megillah consistently calls him Mordechai, and that because of that
+  name's idolatrous implications the Gemara sought a favorable allusion for it
+  in the Torah and thereby gave it some legitimacy.
+- Rabbi Yehonatan Eybeschutz (*Yaaros Dvash* vol. 2 drush 13) holds that as
+  Moshe's given name is absent from the Torah after "erase me from Your book,"
+  so Mordechai, who likewise gave himself up for the Jewish People, caused his
+  real name Petachyah to be left out of the Megillah.
+
+**Whether there was a fourth name.**
+
+- One opinion in Megillah 15a has the navi Malachi be Mordechai himself, called
+  Malachi because he was viceroy to the Persian king, *mishneh l'melech*, Rabbi
+  Klein presuming that *malachi* is read as kin to *melech*; that would give him
+  three names, Mordechai, Petachyah and Malachi.
+- Other opinions there make Malachi an alternate name for Ezra, or a separate
+  man altogether, and the Rambam, in his introduction to *Yad HaChazakah*,
+  follows the last, since he lists Malachi, Mordechai Bilshan and Ezra as
+  separate members of the Anshei Knesses HaGedolah.
 
 ## Distinctions
 

@@ -70,18 +70,20 @@ substance, and Rabbi Klein takes the Torah's qualifying it for the Menorah,
 intrinsically mean olive oil.
 
 ### yitzhar (יצהר)
-Rabbi Yosef Kimchi (*Sefer HaGilui*) roots the word in *tzohar*, light. His son
-Radak explains him: oil is a peculiarly clear and shining substance, and for the
-same reason olive oil is called "gold" (Zechariah 4:12). Ibn Ezra (to Iyov
-24:11) takes *tzohar* in its other sense, "noon," since oil is burned for light
-and that light resembles the sun at midday. *Yitzhar* is also a proper name nine
-times in Tanach, Levi's grandson and Korach's father (Shemos 6:18 and elsewhere).
-The Midrash has Korach read his father's name as an omen that he would succeed
-in his rebellion against Moshe: oil always sits on top of water, and Moshe's
-name was given for his being drawn from the water (Shemos 2:10), so Korach
-thought he would come out on top. Rabbi Yadler answers that in reality the name
-pointed not at Korach but at his descendant Shmuel HaNavi, who would use
-specially made ritual olive oil to anoint David and begin the Messianic line.
+- Rabbi Yosef Kimchi (*Sefer HaGilui*) roots the word in *tzohar*, light. His
+  son Radak explains him: oil is a peculiarly clear and shining substance, and
+  for the same reason olive oil is called "gold" (Zechariah 4:12).
+- Ibn Ezra (to Iyov 24:11) takes *tzohar* in its other sense, "noon," since oil
+  is burned for light and that light resembles the sun at midday.
+
+*Yitzhar* is also a proper name nine times in Tanach, Levi's grandson and
+Korach's father (Shemos 6:18 and elsewhere). The Midrash has Korach read his
+father's name as an omen that he would succeed in his rebellion against Moshe:
+oil always sits on top of water, and Moshe's name was given for his being drawn
+from the water (Shemos 2:10), so Korach thought he would come out on top. Rabbi
+Yadler answers that in reality the name pointed not at Korach but at his
+descendant Shmuel HaNavi, who would use specially made ritual olive oil to
+anoint David and begin the Messianic line.
 
 ## Rendering guidance
 

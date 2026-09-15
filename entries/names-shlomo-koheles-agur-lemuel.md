@@ -77,19 +77,28 @@ justification for exceeding the Torah's limits on a king.
 
 ## Where the authorities disagree
 
-**What *Shlomo* means.** The Midrash reads it from *shalem*, complete, because he
-oversaw the completion of the Beis HaMikdash. *Targum Sheini* reads it from
-*shalom*, because peace and quiet were to prevail for Israel in his days, which
-is how the prophecy given to David before the birth puts it (Divrei HaYamim I
-22:9). Both stand; *Midrash Agur* (§4) leans on the second when it counts
-Shlomo, Koheles and Agur his three most precious names, all three alluding to the
-peace of his reign.
+**What *Shlomo* means.**
 
-**Why *Koheles*.** The Midrash: because his teachings were delivered in
-gatherings, from *hakhel*, *kahal*, *kehillah*, as it says "then Shlomo gathered"
-(Melachim I 8:1). Rashi (to Koheles 1:1): because he gathered up many forms of
-wisdom into himself. The second reading is similar to the Midrash on *Agur*,
-that he gathered up (*agar*) the Torah's wisdom.
+- The Midrash reads it from *shalem*, complete, because he oversaw the
+  completion of the Beis HaMikdash.
+- *Targum Sheini* reads it from *shalom*, because peace and quiet were to
+  prevail for Israel in his days, which is how the prophecy given to David
+  before the birth puts it (Divrei HaYamim I 22:9).
+
+Both stand; *Midrash Agur* (§4) leans on the second when it counts Shlomo,
+Koheles and Agur his three most precious names, all three alluding to the peace
+of his reign.
+
+**Why *Koheles*.**
+
+- The Midrash: because his teachings were delivered in gatherings, from
+  *hakhel*, *kahal*, *kehillah*, as it says "then Shlomo gathered" (Melachim I
+  8:1).
+- Rashi (to Koheles 1:1): because he gathered up many forms of wisdom into
+  himself.
+
+The second reading is similar to the Midrash on *Agur*, that he gathered up
+(*agar*) the Torah's wisdom.
 
 **Whether *Yakeh* is a reproach or a compliment.**
 - The Midrashim take it as a reproach: he was filled with wisdom and later spat
@@ -115,14 +124,17 @@ that he gathered up (*agar*) the Torah's wisdom.
    Sanhedrin 70b and Mishlei 31:1) is close: "for him, for Hashem", that his
    deeds and his wisdom should go into Hashem's service and nowhere else.
 
-**Whether *Alukah* is an eighth name.** Rabbi Yishaya of Trani (the Rid) reads
-*Alukah* at Mishlei 30:15, literally a leech, as another name for Shlomo, who
-sucked up and drank in every form of wisdom. Tosafos (to Eruvin 19a) and Tosafos
-and Tosafos Shantz (to Avodah Zarah 17a) grant that *Alukah* is somebody's name
-but hold it cannot be Shlomo's, precisely because it is not one of the seven the
-Midrash lists. Tosafos also cite several sources that presume *alukah* is a
-name for Gehinnom, which the Maharal explains: as a leech sucks out a person's
-blood, so Gehinnom sucks out a person's soul.
+**Whether *Alukah* is an eighth name.**
+
+- Rabbi Yishaya of Trani (the Rid) reads *Alukah* at Mishlei 30:15, literally a
+  leech, as another name for Shlomo, who sucked up and drank in every form of
+  wisdom.
+- Tosafos (to Eruvin 19a) and Tosafos and Tosafos Shantz (to Avodah Zarah 17a)
+  grant that *Alukah* is somebody's name but hold it cannot be Shlomo's,
+  precisely because it is not one of the seven the Midrash lists.
+- Tosafos also cite several sources that presume *alukah* is a name for
+  Gehinnom, which the Maharal explains: as a leech sucks out a person's blood,
+  so Gehinnom sucks out a person's soul.
 
 ## Distinctions
 

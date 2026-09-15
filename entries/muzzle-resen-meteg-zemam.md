@@ -129,33 +129,35 @@ animal's neck so that it not be restrained from eating, uses the verb *zomem*
 for muzzling. *Bereishis Rabbah* 41:5, Targum Yonasan and Targum Yerushalmi (to
 Bereishis 13:7), relating the tradition Rashi cites there, all use cognates of
 *zemam* for the muzzle Avraham was particular to put on his animals, while Lot
-was not as careful. The homograph *zomem*
-means to plot (Tehillim 37:12; ascribed even to Hashem, Yirmiyahu 51:12,
-Eichah 2:17, Zechariah 1:6; the conspiring witnesses of Devarim 19:19 and the
-*eidim zomemim* of the Mishnah, Bava Kamma 7:3, Sanhedrin 6:2, Makkos 1:3 and
-1:6), and *zimah* is the licentious scheme of
-Vayikra 18:17 and 20:14. Rabbi Shlomo Pappenheim: the core of biliteral ז-ם is
-"intellectual decision," yielding *zamam*, *yuzma*, *zimah* (the mind's
-decision to do wrong), *nezem* (the nose-ring that entices toward *zimah*) and
-even *zman*, time being graspable only by the intellect; he does not connect
-the muzzle. Rabbi Yaakov Tzvi Mecklenburg opens the way to a bridge: an
-intellectual decision **closes off** the other options, and so *nezem* is the
-ring that must form a complete circle to be affixed on the wearer. Mecklenburg
-himself stops there; it is Rabbi Klein who adds, in his own voice, that *zemam*
-is by that logic what closes an animal's mouth, or alternatively that the
-*zemam* is fixed on the animal's face just as the *nezem* is fixed on a human
-face. Shadal
-(to Vayikra 18:17) offers an all-inclusive explanation of the whole ז-ם family: what typifies a *zamam* is that it stays within the realm of the
-mind, so that *zemamah* might typically be evil thoughts though it could in
-theory be good ones; *zimah* is the secret thought a man holds in and never puts
-into words, and lying with a woman and her daughter or granddaughter is called
-*zimah* because society holds it so heinous that one would keep such fantasies
-secret. So too, Shadal writes, the muzzle locks the animal's mouth against
-eating and biting.
-*Bereishis Rabbah* 75:9 reads the *zemam* of Tehillim 140:9 as a muzzle over
-Esav's face. Yevamos 37b parses *zimah* otherwise, as a portmanteau of *zu mah hi*, "what is
-she," speaking of the after-effects of promiscuity, which leave people's lineage
-in question for want of clear parentage.
+was not as careful. The homograph *zomem* means to plot (Tehillim 37:12;
+ascribed even to Hashem, Yirmiyahu 51:12, Eichah 2:17, Zechariah 1:6; the
+conspiring witnesses of Devarim 19:19 and the *eidim zomemim* of the Mishnah,
+Bava Kamma 7:3, Sanhedrin 6:2, Makkos 1:3 and 1:6), and *zimah* is the
+licentious scheme of Vayikra 18:17 and 20:14.
+
+- Rabbi Shlomo Pappenheim: the core of biliteral ז-ם is "intellectual decision,"
+  yielding *zamam*, *yuzma*, *zimah* (the mind's decision to do wrong), *nezem*
+  (the nose-ring that entices toward *zimah*) and even *zman*, time being
+  graspable only by the intellect; he does not connect the muzzle.
+- Rabbi Yaakov Tzvi Mecklenburg opens the way to a bridge: an intellectual
+  decision **closes off** the other options, and so *nezem* is the ring that
+  must form a complete circle to be affixed on the wearer. Mecklenburg himself
+  stops there; it is Rabbi Klein who adds, in his own voice, that *zemam* is by
+  that logic what closes an animal's mouth, or alternatively that the *zemam* is
+  fixed on the animal's face just as the *nezem* is fixed on a human face.
+- Shadal (to Vayikra 18:17) offers an all-inclusive explanation of the whole ז-ם
+  family: what typifies a *zamam* is that it stays within the realm of the mind,
+  so that *zemamah* might typically be evil thoughts though it could in theory
+  be good ones; *zimah* is the secret thought a man holds in and never puts into
+  words, and lying with a woman and her daughter or granddaughter is called
+  *zimah* because society holds it so heinous that one would keep such fantasies
+  secret. So too, Shadal writes, the muzzle locks the animal's mouth against
+  eating and biting.
+- *Bereishis Rabbah* 75:9 reads the *zemam* of Tehillim 140:9 as a muzzle over
+  Esav's face.
+- Yevamos 37b parses *zimah* otherwise, as a portmanteau of *zu mah hi*, "what
+  is she," speaking of the after-effects of promiscuity, which leave people's
+  lineage in question for want of clear parentage.
 
 ### prumbia (פרומביא) and afsar (אפסר)
 *Prumbia* appears in the Mishnah (*Shabbos* 5:1, *Keilim* 11:5) and in Bava

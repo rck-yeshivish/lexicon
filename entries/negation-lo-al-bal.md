@@ -50,11 +50,13 @@ close to seventy times in Tanach, though never in Chumash.
 
 ### lo (לא)
 The Torah's standard negation, and the marker of a negative commandment: *lo
-sirtzach*, *lo sinaf*, *lo signov*, *lo saaneh*, *lo sachmod*. Rabbi Ber
-Oppenheimer: *lo* negates both past fact and future command, so it covers "you
-shall not eat" and "you did not eat" alike. Rabbi Aharon Maggid, as Rabbi Klein
-reads him ("if I understood him properly"): *lo* is addressed
-concretely to a second person, "*you* shall not."
+sirtzach*, *lo sinaf*, *lo signov*, *lo saaneh*, *lo sachmod*.
+
+- Rabbi Ber Oppenheimer: *lo* negates both past fact and future command, so it
+  covers "you shall not eat" and "you did not eat" alike.
+- Rabbi Aharon Maggid, as Rabbi Klein reads him ("if I understood him
+  properly"): *lo* is addressed concretely to a second person, "*you* shall
+  not."
 
 ### al (אל)
 Rabbi Ber Oppenheimer: *al* is always a negative imperative, always about

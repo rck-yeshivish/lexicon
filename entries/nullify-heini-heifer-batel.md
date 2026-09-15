@@ -58,17 +58,22 @@ representing only a potential for something to happen, their cancellation is
 *heini*.
 
 The word's basic sense was already disputed among the early grammarians.
-Menachem Ibn Saruk: to break. Dunash Ibn Labrat, following Rav Saadia Gaon: to
-deny or withhold. Rashi (to Bamidbar 30:6) follows Dunash; Ibn Ezra (to Shemos
-12:9, Bamidbar 14:34, Bamidbar 30:6, Tehillim 141:5) follows Menachem, though he
-also seems to treat *heini* as equivalent to *heifer*. Rabbi Yaakov Tzvi
-Mecklenburg weighs the two at length, framing the question as whether *heini*
-is the removal of the will (Menachem) or the withholding of the will's
-fulfillment (Dunash). A century after Menachem and Dunash the controversy was
-still raging. Rabbi Dr. Yosaif M. Dubovick, "'Oil, which shall not quit my head':
-Jewish-Christian Interaction in Eleventh-century Baghdad," *Entangled
-Religions* vol. 6 (2018), discusses *yani* in Tehillim 141:5 and the historical
-controversy the question generated.
+
+- Menachem Ibn Saruk: to break.
+- Dunash Ibn Labrat, following Rav Saadia Gaon: to deny or withhold.
+- Rashi (to Bamidbar 30:6) follows Dunash.
+- Ibn Ezra (to Shemos 12:9, Bamidbar 14:34, Bamidbar 30:6, Tehillim 141:5)
+  follows Menachem, though he also seems to treat *heini* as equivalent to
+  *heifer*.
+- Rabbi Yaakov Tzvi Mecklenburg weighs the two at length, framing the question
+  as whether *heini* is the removal of the will (Menachem) or the withholding of
+  the will's fulfillment (Dunash).
+
+A century after Menachem and Dunash the controversy was still raging. Rabbi Dr.
+Yosaif M. Dubovick, "'Oil, which shall not quit my head': Jewish-Christian
+Interaction in Eleventh-century Baghdad," *Entangled Religions* vol. 6 (2018),
+discusses *yani* in Tehillim 141:5 and the historical controversy the question
+generated.
 
 Rav Hirsch (to Bereishis 12:10-13) links *heini* to the similarly spelled *na*,
 raw, half-cooked, the common idea being interruption or stopping: cooking cut

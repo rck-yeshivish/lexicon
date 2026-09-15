@@ -65,22 +65,24 @@ the middle as often happens, and Arabic has a similar *anf*, "nose"; and
 Biblical Hebrew has a root א-נ-פ yielding verbs of becoming angry, which
 is the same nose-anger link again.
 
-Rashi
-(to Devarim 29:19, Shmuel II 22:9, Yeshayahu 48:9, Tehillim 18:9, *Berachos*
-56b): *charon af* is anger because anger shows in the nose as it flares. Some
-have argued that since the nose is a person's most distinguishing and
-outstanding facial feature, the words for face and nose are related to one
-another (see Rabbi Shlomo Pappenheim, *Cheishek Shlomo* s.v. *af*); and see
-Rashi (to Yechezkel 23:25, *Shabbos* 151b) on the *chotem* as one of the
-centerpieces of a person's appearance. Rabbi Yehudah Aryeh of Carpentras
-(*Aholei Yehudah*) reverses the priority: the core sense is face, and it means
-nose because the nose serves as the symbol of a person's overall mood, anger
-being physically discernible on it. Either way, the sense of *af*/*apayim* is
-sometimes ambiguous, and it can be unclear whether nose or face is meant (see
-Rashi to Shir HaShirim 7:5). Rabbi Klein connects the remaining senses back to the nose: rhetorical *af*,
-"even though," turns aside an obvious counterpoint by granting it and holding
-that the thesis still stands, the objection sticking out the way a nose juts
-from a face; and *afah*, baking, takes up the heat of anger.
+- Rashi (to Devarim 29:19, Shmuel II 22:9, Yeshayahu 48:9, Tehillim 18:9,
+  *Berachos* 56b): *charon af* is anger because anger shows in the nose as it
+  flares.
+- Some have argued that since the nose is a person's most distinguishing and
+  outstanding facial feature, the words for face and nose are related to one
+  another (see Rabbi Shlomo Pappenheim, *Cheishek Shlomo* s.v. *af*); and see
+  Rashi (to Yechezkel 23:25, *Shabbos* 151b) on the *chotem* as one of the
+  centerpieces of a person's appearance.
+- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) reverses the priority:
+  the core sense is face, and it means nose because the nose serves as the
+  symbol of a person's overall mood, anger being physically discernible on it.
+
+Either way, the sense of *af*/*apayim* is sometimes ambiguous, and it can be
+unclear whether nose or face is meant (see Rashi to Shir HaShirim 7:5). Rabbi
+Klein connects the remaining senses back to the nose: rhetorical *af*, "even
+though," turns aside an obvious counterpoint by granting it and holding that the
+thesis still stands, the objection sticking out the way a nose juts from a face;
+and *afah*, baking, takes up the heat of anger.
 
 In the Aramaic portions of Tanach *af* appears three times and always means
 "even, also" (Daniel 6:23, Ezra 5:10, 6:5). On that basis Professor Edward
@@ -143,32 +145,41 @@ for you" (Yeshayahu 48:9).
 *Baal HaChotem* as an epithet: the Zohar (*Naso* 130b) has Rav Hamnuna Sabba
 davening to the *Baal HaChotem*, Hashem in His slowness to anger. The Gemara
 (*Taanis* 29a) calls Rabban Gamliel *Baal HaChotem* when he was taken to be
-martyred by the Romans, and offers no explanation of the appellation; Rashi
-there takes it as the nose being the aesthetic centerpiece of the face, as the
-*Nasi* was the centerpiece of his generation, and Maharsha adds that the nose
-is a limb one cannot live without, as Klal Yisrael of that time could not do
-without him. Rabbi Avraham Nissan Orenstein, in his encyclopedia of Jewish
-honorifics, cites some scholars who take the nickname as a pun on the closeness
-of the title *Nasi* to the Latin *naso*/*nasus*, "nose," which is the historical
-etymon of the English *nose*, *nasal*, *nostril*, *nozzle* and *nuzzle*, and of
-the Yiddish *noz*. The Smak is likewise called *Ri Baal HaChotem*, which Rabbi
-David Conforte attributes to hair growing on his nose; and asked whether such a
-nickname may be given to a man with a large nose, the *Torah Lishmah* (421),
-under the name Rabbi Yechezkel Kochali, usually understood as a penname for the
-*Ben Ish Chai*, answered that it depends on the context.
+martyred by the Romans, and offers no explanation of the appellation.
+
+- Rashi there takes it as the nose being the aesthetic centerpiece of the face,
+  as the *Nasi* was the centerpiece of his generation, and Maharsha adds that
+  the nose is a limb one cannot live without, as Klal Yisrael of that time could
+  not do without him.
+- Rabbi Avraham Nissan Orenstein, in his encyclopedia of Jewish honorifics,
+  cites some scholars who take the nickname as a pun on the closeness of the
+  title *Nasi* to the Latin *naso*/*nasus*, "nose," which is the historical
+  etymon of the English *nose*, *nasal*, *nostril*, *nozzle* and *nuzzle*, and
+  of the Yiddish *noz*.
+
+The Smak is likewise called *Ri Baal HaChotem*, which Rabbi David Conforte
+attributes to hair growing on his nose; and asked whether such a nickname may be
+given to a man with a large nose, the *Torah Lishmah* (421), under the name
+Rabbi Yechezkel Kochali, usually understood as a penname for the *Ben Ish Chai*,
+answered that it depends on the context.
 
 ### nichirayim (נחירים)
-Once in Tanach: "from his nostrils goes forth smoke" (Iyov 41:12). Classical
-lexicographers such as Menachem Ibn Saruk, Ibn Janach, Rabbi Shlomo Ibn Parchon and Radak give the root נ-ח-ר, which
-also yields snorting and braying (Iyov 39:20, Yirmiyahu 6:29 and 8:16). Rabbi
-Shlomo Pappenheim works instead from the two-letter ח-ר, "other than the one
-before us," which yields *acher*, *machar*, *achar* and *achor*; from *achor*
-comes *chor*, a hole, since every person has a *chor* on his backside, and
-*nichirayim* is a tributary of *chor*, since a nostril is a hole in the face. He derives two further words from it: *charon*, anger,
-from the flaring nostrils, and *charum* (Vayikra 21:18), the blemish of a
-drooping nose. Rabbi Binyamin Mussafia adds the rabbinic *nechirah*, killing an
-animal by stabbing the neck, also a hole. David's warrior Nachrai (Shmuel II
-23:37, Divrei HaYamim I 11:39) appears to carry the same root.
+Once in Tanach: "from his nostrils goes forth smoke" (Iyov 41:12).
+
+- Classical lexicographers such as Menachem Ibn Saruk, Ibn Janach, Rabbi Shlomo
+  Ibn Parchon and Radak give the root נ-ח-ר, which also yields snorting and
+  braying (Iyov 39:20, Yirmiyahu 6:29 and 8:16).
+- Rabbi Shlomo Pappenheim works instead from the two-letter ח-ר, "other than the
+  one before us," which yields *acher*, *machar*, *achar* and *achor*; from
+  *achor* comes *chor*, a hole, since every person has a *chor* on his backside,
+  and *nichirayim* is a tributary of *chor*, since a nostril is a hole in the
+  face. He derives two further words from it: *charon*, anger, from the flaring
+  nostrils, and *charum* (Vayikra 21:18), the blemish of a drooping nose. Rabbi
+  Binyamin Mussafia adds the rabbinic *nechirah*, killing an animal by stabbing
+  the neck, also a hole.
+
+David's warrior Nachrai (Shmuel II 23:37, Divrei HaYamim I 11:39) appears to
+carry the same root.
 
 *Peirush HaRokeach* (to Bereishis 2:7): the nose is shaped like an inverted
 *shin*, whose name suggests *shinui*, change, since breath alternates between

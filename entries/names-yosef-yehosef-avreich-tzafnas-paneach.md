@@ -93,22 +93,27 @@ less agreement.
 - Later Hebrew, in *Nishmas* and in HaKallir's piyyutim, uses *paneach* as a
   verb for deciphering, which may simply follow the Midrash.
 
-**Whether Yosef and Yehosef are one name or two.** Rabbi Chaim Kanievsky is
-reported to have first held them distinct, so that a father could name one son
-Yosef and another Yehosef; he later retracted and wrote that for naming siblings
-and for shidduchim one should be stringent and treat them as one name. Rabbi Mordechai Gross of Bnei
-Brak leaves it in doubt. The two spellings also stand side by side in the
-Mikdash: Rambam (*Hilchos Klei HaMikdash* 9:9) has *Yehosef* on the shoham
-stones of the Kohen Gadol's shoulders while the choshen reads *Yosef* (see
-*Minchas Chinuch* 99).
+**Whether Yosef and Yehosef are one name or two.**
 
-**When Yosef became Yehosef.** Sotah 10b and 36b: the hei was added when the
-angel Gavriel came to teach him the seventy languages, not at the moment of the
-test. Rabbi Levi Yitzchak of Berditchev infers from the piyyut *Even Choger*
-(Shacharis, first day of Rosh HaShanah) that he was Yehosef already in the womb.
-He reconciles them with Niddah 30b: the unborn child is taught the whole Torah
-by an angel, and all seventy languages are contained in Torah, so the name fit
-him then; birth made him forget, and Gavriel restored him to Yehosef.
+- Rabbi Chaim Kanievsky is reported to have first held them distinct, so that a
+  father could name one son Yosef and another Yehosef; he later retracted and
+  wrote that for naming siblings and for shidduchim one should be stringent and
+  treat them as one name.
+- Rabbi Mordechai Gross of Bnei Brak leaves it in doubt.
+
+The two spellings also stand side by side in the Mikdash: Rambam (*Hilchos Klei
+HaMikdash* 9:9) has *Yehosef* on the shoham stones of the Kohen Gadol's
+shoulders while the choshen reads *Yosef* (see *Minchas Chinuch* 99).
+
+**When Yosef became Yehosef.**
+
+- Sotah 10b and 36b: the hei was added when the angel Gavriel came to teach him
+  the seventy languages, not at the moment of the test.
+- Rabbi Levi Yitzchak of Berditchev infers from the piyyut *Even Choger*
+  (Shacharis, first day of Rosh HaShanah) that he was Yehosef already in the
+  womb. He reconciles them with Niddah 30b: the unborn child is taught the whole
+  Torah by an angel, and all seventy languages are contained in Torah, so the
+  name fit him then; birth made him forget, and Gavriel restored him to Yehosef.
 
 **Whether rach can mean "king."** *Rach* means soft, tender, or young, but
 *reich* in the sense of "king" may appear in several other places as well:
@@ -131,17 +136,18 @@ him then; birth made him forget, and Gavriel restored him to Yehosef.
 ## Distinctions
 
 ### Yosef (יוסף)
-Root י-ס-פ for early lexicographers such as Ibn Chayyuj, Ibn Janach, and Radak:
-to add. Rachel exclaims *asaf* (Hashem has gathered up my disgrace) and names him
-*Yosef* (may Hashem add me another son), Bereishis 30:23-24. Rabbi Shlomo Pappenheim treats
-the yud as extraneous and takes the core as ס-פ, "end," which yields *sof* (an
-end), *sayif* (a sword, which ends a life), *safah* (a lip, edge, or riverbank),
-*saf* (a threshold, a domain's edge), and *asifah* (gathering, which redraws a
-set's boundaries). Adding, on this reading, is extending an end to where it had
-not reached. The name *Yosef* appears more
-than 200 times in Tanach of him and of his descendants, and three others there
-bear it: the father of Yigal the spy
-from Yissachar (Bamidbar 13:7), a singer of the family of Assaf in David's day
+- Root י-ס-פ for early lexicographers such as Ibn Chayyuj, Ibn Janach, and
+  Radak: to add. Rachel exclaims *asaf* (Hashem has gathered up my disgrace) and
+  names him *Yosef* (may Hashem add me another son), Bereishis 30:23-24.
+- Rabbi Shlomo Pappenheim treats the yud as extraneous and takes the core as
+  ס-פ, "end," which yields *sof* (an end), *sayif* (a sword, which ends a life),
+  *safah* (a lip, edge, or riverbank), *saf* (a threshold, a domain's edge), and
+  *asifah* (gathering, which redraws a set's boundaries). Adding, on this
+  reading, is extending an end to where it had not reached.
+
+The name *Yosef* appears more than 200 times in Tanach of him and of his
+descendants, and three others there bear it: the father of Yigal the spy from
+Yissachar (Bamidbar 13:7), a singer of the family of Assaf in David's day
 (Divrei HaYamim I 25:9), and one of the returnees in the days of Ezra and
 Nechemiah (Ezra 10:42, Nechemiah 12:14).
 

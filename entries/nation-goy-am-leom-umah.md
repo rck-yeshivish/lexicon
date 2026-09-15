@@ -55,24 +55,30 @@ too.
 
 ## Where the authorities disagree
 
-**Which word carries the shared character.** Malbim, Heidenheim, and Wertheimer
-all make *am* the word of shared allegiance or shared conduct, and Malbim and
-Heidenheim make *goy* the mere aggregate. The Vilna Gaon (*Biur HaGra* to
-Yeshayahu 1:4) reverses it: *goy* denotes people who share a common manner, *am*
-a mass of individuals.
+**Which word carries the shared character.**
 
-**Whether goy can name one person.** Rabbi Eliyahu Mizrachi (to Bereishis
-20:4): *goy* is only ever a nation, never an individual. Rabbi Shlomo Ibn
-Melech (*Michlal Yofi* there) and Radak (*Sefer HaShorashim*) in the name of
-Rabbeinu Yonah: it can name an individual. Rabbi Yaakov Tzvi Mecklenburg proves
-from Shemos 21:8 that both *am* and *goy* can point to any single member of the
-group, which is the ground of the everyday usage.
+- Malbim, Heidenheim, and Wertheimer all make *am* the word of shared allegiance
+  or shared conduct, and Malbim and Heidenheim make *goy* the mere aggregate.
+- The Vilna Gaon (*Biur HaGra* to Yeshayahu 1:4) reverses it: *goy* denotes
+  people who share a common manner, *am* a mass of individuals.
 
-**What leom is.** Malbim (on the Midrash): a religious grouping, which can be
-wider than *am*. Wertheimer: either a common king (so Rashi and Targum to Bereishis 25:23
-render it "kingdom") or a common religion. Edel: a family or tribe *inside* a
-nation, which is narrower than either. The word is thus probably tied to *em* and
-Aramaic *imma*, mother.
+**Whether goy can name one person.**
+
+- Rabbi Eliyahu Mizrachi (to Bereishis 20:4): *goy* is only ever a nation, never
+  an individual.
+- Rabbi Shlomo Ibn Melech (*Michlal Yofi* there) and Radak (*Sefer HaShorashim*)
+  in the name of Rabbeinu Yonah: it can name an individual.
+- Rabbi Yaakov Tzvi Mecklenburg proves from Shemos 21:8 that both *am* and *goy*
+  can point to any single member of the group, which is the ground of the
+  everyday usage.
+
+**What leom is.**
+
+- Malbim (on the Midrash): a religious grouping, which can be wider than *am*.
+- Wertheimer: either a common king (so Rashi and Targum to Bereishis 25:23
+  render it "kingdom") or a common religion.
+- Edel: a family or tribe *inside* a nation, which is narrower than either. The
+  word is thus probably tied to *em* and Aramaic *imma*, mother.
 
 ## Distinctions
 

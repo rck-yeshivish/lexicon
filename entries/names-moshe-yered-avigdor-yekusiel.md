@@ -68,50 +68,59 @@ the name Basyah gave him.
 
 ## Where the authorities disagree
 
-**How many derashos each name carries.** *Vayikra Rabbah* 1:3 gives Yered three
-readings: he brought the Torah down, he brought the Shechinah down, or, from
-*lirdos*, he ruled over Israel as its leader (see Zevachim 102a). Megillah 13a
-adds a fourth, that the mahn descended in his days, and Taanis 9a specifies in
-his merit. Chever likewise has two: *chibbur*, that he joined Israel to Hashem,
-which the Vilna Gaon (to Divrei HaYamim I 4:18) ties to his erecting the
-Mishkan; or ע-ב-ר, presumably (so Rabbi Klein reads it) on the interchange of ches and
-ayin, that he made punishment and retribution pass over, which the Midrash says
-cryptically and which he takes, in his own voice ("which I think"), to
-mean his pleading with Hashem after the Eigel. Avi-Socho has two: from
-*socheh*, a gazer or seer, a codeword for prophecy, so that he is father of the
-nevi'im in that he reached a level of prophecy none of his successors matched;
-and
-Megillah 13a, that he was a *succah* over Israel by the abundance of his merits
-(see *Targum Rav Yosef* there), which the Vilna Gaon applies to his shielding
-them after Taveirah (Bamidbar 11:2).
+**How many derashos each name carries.**
 
-**Who gave which name.** The Midrash's own conclusion implies only Moshe came
-from Basyah. The apocryphal *Divrei HaYamim Shel Moshe* assigns each name to a
-different giver: Basyah, Moshe; Amram, Chever, since for this son's sake he
-remarried the wife he had divorced; Yocheved, Yekusiel; Miriam, Yered, since she
-went down to the river to see his fate; Aharon, Avi-Zanoach, since his father had
-forsaken his mother; Kehas, Avigdor, since the decree against the boys was
-repealed at his birth; the wet-nurse, Socho (*Zayis Raanan* notes she was apparently hired
-alongside Yocheved's own nursing); and Israel, Shemayah ben Nesanel. *Sefer
-HaYashar* and *Yalkut Shimoni* to Shemos 166 carry the same tradition. Ibn Ezra
-(to Shemos 2:22 and 4:20) dismisses *Divrei HaYamim Shel
-Moshe* as a reliable source, since it comes neither from the nevi'im nor from
-Chazal. Rabbi Klein does not himself rule between them.
+- *Vayikra Rabbah* 1:3 gives Yered three readings: he brought the Torah down, he
+  brought the Shechinah down, or, from *lirdos*, he ruled over Israel as its
+  leader (see Zevachim 102a). Megillah 13a adds a fourth, that the mahn
+  descended in his days, and Taanis 9a specifies in his merit.
+- Chever likewise has two: *chibbur*, that he joined Israel to Hashem, which the
+  Vilna Gaon (to Divrei HaYamim I 4:18) ties to his erecting the Mishkan; or
+  ע-ב-ר, presumably (so Rabbi Klein reads it) on the interchange of ches and
+  ayin, that he made punishment and retribution pass over, which the Midrash
+  says cryptically and which he takes, in his own voice ("which I think"), to
+  mean his pleading with Hashem after the Eigel.
+- Avi-Socho has two: from *socheh*, a gazer or seer, a codeword for prophecy, so
+  that he is father of the nevi'im in that he reached a level of prophecy none
+  of his successors matched; and Megillah 13a, that he was a *succah* over
+  Israel by the abundance of his merits (see *Targum Rav Yosef* there), which
+  the Vilna Gaon applies to his shielding them after Taveirah (Bamidbar 11:2).
 
-**Whether Yehonasan is one of the names.** Rabbi Moshe Teitelbaum, on the
-strength of *Yetziv Pisgam* (read on the second day of Shavuos) and its "humble
-man Yehonasan," claims it as one of Moshe's ten. His grandson-in-law Rabbi
-Chanoch Henoch Teitelbaum of Sassov points out that no rabbinic source claims
-Yehonasan as one of Moshe's names. Rabbi Klein does not rule between them, but
-adds a note of his own: Yehonasan and Nesanel are built the same way, a cognate
-of *nasan* plus a theophoric element, *Yeho*- as a prefix standing for the first
-three letters of the Shem HaMeforash in the one and *-el* as a suffix in the
-other; and Bava Basra 109b-110a identifies the idolatrous priest Yehonasan ben
-Gershom ben Menasheh (Shoftim 18:30, where the nun of Menasheh is superscripted
-as though not part of the text) as Moshe's own grandson, since Menasheh without
-the nun is Moshe and Moshe had a son named Gershom. So, Rabbi Klein concludes,
-even if Yehonasan is not named as one of Moshe's own names, it is certainly the
-name of a grandson who may have been named for him.
+**Who gave which name.**
+
+- The Midrash's own conclusion implies only Moshe came from Basyah.
+- The apocryphal *Divrei HaYamim Shel Moshe* assigns each name to a different
+  giver: Basyah, Moshe; Amram, Chever, since for this son's sake he remarried
+  the wife he had divorced; Yocheved, Yekusiel; Miriam, Yered, since she went
+  down to the river to see his fate; Aharon, Avi-Zanoach, since his father had
+  forsaken his mother; Kehas, Avigdor, since the decree against the boys was
+  repealed at his birth; the wet-nurse, Socho (*Zayis Raanan* notes she was
+  apparently hired alongside Yocheved's own nursing); and Israel, Shemayah ben
+  Nesanel. *Sefer HaYashar* and *Yalkut Shimoni* to Shemos 166 carry the same
+  tradition.
+- Ibn Ezra (to Shemos 2:22 and 4:20) dismisses *Divrei HaYamim Shel Moshe* as a
+  reliable source, since it comes neither from the nevi'im nor from Chazal.
+
+Rabbi Klein does not himself rule between them.
+
+**Whether Yehonasan is one of the names.**
+
+- Rabbi Moshe Teitelbaum, on the strength of *Yetziv Pisgam* (read on the second
+  day of Shavuos) and its "humble man Yehonasan," claims it as one of Moshe's
+  ten.
+- His grandson-in-law Rabbi Chanoch Henoch Teitelbaum of Sassov points out that
+  no rabbinic source claims Yehonasan as one of Moshe's names.
+
+Rabbi Klein does not rule between them, but adds a note of his own: Yehonasan
+and Nesanel are built the same way, a cognate of *nasan* plus a theophoric
+element, *Yeho*- as a prefix standing for the first three letters of the Shem
+HaMeforash in the one and *-el* as a suffix in the other; and Bava Basra
+109b-110a identifies the idolatrous priest Yehonasan ben Gershom ben Menasheh
+(Shoftim 18:30, where the nun of Menasheh is superscripted as though not part of
+the text) as Moshe's own grandson, since Menasheh without the nun is Moshe and
+Moshe had a son named Gershom. So, Rabbi Klein concludes, even if Yehonasan is
+not named as one of Moshe's own names, it is certainly the name of a grandson
+who may have been named for him.
 
 **Whether Tamar was his original name.** Rabbi Gedaliah Ibn Yachya (*Shalsheles
 HaKabbalah*) cites a tradition that Moshe's original name was Tamar or Tamur,
