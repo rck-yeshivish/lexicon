@@ -73,13 +73,14 @@ Three positions.
 *Daas Mikra* (to Iyov 38:36) cites other scholars who read the passage in Iyov
 as concerning types of cloud, so that *sechvi* means a cloud.
 
-**How sechvi and "seeing" connect.** Rashi ties it to *socheh*, gazing (compare
-Targum to Shmuel I 17:42 and Yeshayahu 21:8): the heart is the organ that tries
-to see an action's future consequences, or else the rooster, which sees far
-(Abudarham). Rabbi Yaakov Tzvi Mecklenburg specifies that the seeing is
-intellectual rather than physical, and groups *sechvi* with *hasket* (to listen
-with the mind, not merely hear) and *maskis* (arresting figures engraved in
-stone).
+**How sechvi and "seeing" connect.**
+
+- Rashi ties it to *socheh*, gazing (compare Targum to Shmuel I 17:42 and
+  Yeshayahu 21:8): the heart is the organ that tries to see an action's future
+  consequences, or else the rooster, which sees far (Abudarham).
+- Rabbi Yaakov Tzvi Mecklenburg specifies that the seeing is intellectual rather
+  than physical, and groups *sechvi* with *hasket* (to listen with the mind, not
+  merely hear) and *maskis* (arresting figures engraved in stone).
 
 **Where the name Nergal points.** After the Assyrians conquered the Kingdom of
 Yisrael they settled Mesopotamian foreigners in the land, each bringing his own

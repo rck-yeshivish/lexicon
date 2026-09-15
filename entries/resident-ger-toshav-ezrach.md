@@ -61,17 +61,18 @@ means "resident (without citizenship)," and verb cognates of *ger* simply mean
 Malbim: a *ger* is one living in a land other than his own homeland, whether
 far from it (Bereishis 15:13, Shemos 18:3) or near (Shoftim 19:1, 19:16).
 
-Rav Hirsch (to Bereishis 12:14, 23:4) takes the biliteral ג-ר as "detachment
-from one's roots," and gathers under it *ger*, *gur* (a lion cub, newly weaned
-and detached from its mother), *gur* (fear, the ground yanked out from under
-one), and *megurah* (or *megirah*, "closet/drawer" in Modern Hebrew), a silo for
-storing harvested grain already detached from the ground. Ibn Ezra (to Bereishis
-15:13, 23:4, Tehillim 37:35) likewise reads *ger* as an expression of
-disconnection. Rabbi Yaakov Tzvi Mecklenburg (1785-1865) offers two other
-derivations: from *megirah* / *agurah*, gathering, since the *ger* has now
-gathered himself into his newfound land and community; and from *girui*,
-irritation or instigation, for the *ger*'s knack for instigating a fight against
-his natural desires and overcoming them.
+- Rav Hirsch (to Bereishis 12:14, 23:4) takes the biliteral ג-ר as "detachment
+  from one's roots," and gathers under it *ger*, *gur* (a lion cub, newly weaned
+  and detached from its mother), *gur* (fear, the ground yanked out from under
+  one), and *megurah* (or *megirah*, "closet/drawer" in Modern Hebrew), a silo
+  for storing harvested grain already detached from the ground.
+- Ibn Ezra (to Bereishis 15:13, 23:4, Tehillim 37:35) likewise reads *ger* as an
+  expression of disconnection.
+- Rabbi Yaakov Tzvi Mecklenburg (1785-1865) offers two other derivations: from
+  *megirah* / *agurah*, gathering, since the *ger* has now gathered himself into
+  his newfound land and community; and from *girui*, irritation or instigation,
+  for the *ger*'s knack for instigating a fight against his natural desires and
+  overcoming them.
 
 The temporariness is rabbinic tradition. Yosef's brothers
 tell Pharaoh they came *lagur* in Mitzrayim (Bereishis 47:4), and the Haggadah
@@ -102,11 +103,12 @@ sometimes *ger* (Rashi to Shemos 23:12, Devarim 14:21), and at Vayikra 25:35,
 means a *ger toshav*.
 
 ### toshav (תושב)
-Radak (*Sefer HaShorashim*) traces it to י-ש-ב, sitting and settling for the
-long term. Menachem Ibn Saruk takes the root as the biliteral ש-ב, which Rabbi
-Shlomo Pappenheim defines as returning or reverting to a former place or
-status: a *yeshivah* is a permanent dwelling that removes any need to return
-elsewhere, and a *toshav* is the permanent resident who engages in *yeshivah*.
+- Radak (*Sefer HaShorashim*) traces it to י-ש-ב, sitting and settling for the
+  long term.
+- Menachem Ibn Saruk takes the root as the biliteral ש-ב, which Rabbi Shlomo
+  Pappenheim defines as returning or reverting to a former place or status: a
+  *yeshivah* is a permanent dwelling that removes any need to return elsewhere,
+  and a *toshav* is the permanent resident who engages in *yeshivah*.
 
 Rabbi Yisrael Yaakov Algazi (1680-1757) cites a
 fascinating responsum by Rabbi Shmuel Modiliano, who *argues* that they divide
@@ -123,20 +125,21 @@ homeland, *toshav* because his family had settled Canaan and made it home, so
 that his descendants would remain there even after his death.
 
 ### ezrach (אזרח)
-Menachem Ibn Saruk treats all four letters as the root; Ibn Janach and Radak
-derive it from ז-ר-ח, shining. Radak (to Tehillim 37:35 and in *Sefer
-HaShorashim*): as light makes everything visible, an *ezrach* is one whose
-identity and family are out in the open, against the *ger*, whose origins stay
-unknown. Bava Basra 15a has Avraham writing in Tehillim under the name Eisan
-HaEzrachi, and Targum (to Tehillim 89:1) explains the title as marking that he
-came from the east, *mizrach*, itself from ז-ר-ח because the sun begins to
-shine there. Rabbi David Chaim Chelouche (1920-2016), the late Chief Rabbi of
-Netanya, takes this a step further to account for *ezrach* as "citizen": in
-ancient times the boundaries of civilization were broadly understood to lie in
-the east, so a legitimate citizen properly oriented in society is likewise
-called an easterner, an *ezrach*, while one who leaves the confines of
-civilization and sojourns beyond the pale of settlement is branded a stranger or
-an occidental, in Hebrew a *ger* or a *zar*.
+- Menachem Ibn Saruk treats all four letters as the root.
+- Ibn Janach and Radak derive it from ז-ר-ח, shining. Radak (to Tehillim 37:35
+  and in *Sefer HaShorashim*): as light makes everything visible, an *ezrach* is
+  one whose identity and family are out in the open, against the *ger*, whose
+  origins stay unknown.
+- Bava Basra 15a has Avraham writing in Tehillim under the name Eisan HaEzrachi,
+  and Targum (to Tehillim 89:1) explains the title as marking that he came from
+  the east, *mizrach*, itself from ז-ר-ח because the sun begins to shine there.
+  Rabbi David Chaim Chelouche (1920-2016), the late Chief Rabbi of Netanya,
+  takes this a step further to account for *ezrach* as "citizen": in ancient
+  times the boundaries of civilization were broadly understood to lie in the
+  east, so a legitimate citizen properly oriented in society is likewise called
+  an easterner, an *ezrach*, while one who leaves the confines of civilization
+  and sojourns beyond the pale of settlement is branded a stranger or an
+  occidental, in Hebrew a *ger* or a *zar*.
 
 Rabbi Chelouche attempts to prove the point by noting that in Arabic *maghreb*
 means "west" and *ghurayb* means "stranger," assuming both are cognates of the

@@ -89,21 +89,26 @@ though the pesukim use two different words. The commentators connect *tikvah*
 with *kav*, straight, a plumb line.
 
 **The root of *meitar*.** The word enters the cluster through *eitun*: Targum to
-Mishlei 7:16 renders *eitun* as *meitar*. Rabbi Shlomo Pappenheim derives it from the biliteral
-ת-ר, elasticity, covering both the stretching of a cord into tension and the
-release of tension where it was expected, whence *mattir*, to untie, and *heter*
-and *muttar*, permitted. Rabbi David Chaim Chelouche derives it instead from ת-ר
-in the sense of seeing: the *meitar* was first the crossbow string drawn to hold
-the arrow, released when the archer sees his enemy within range, and only in a
-borrowed sense any especially strong string or rope. *Meitar* is the word for
-"string" in the name of the String Bridge in Yerushalayim, the *Gesher
-HaMeitarim*.
+Mishlei 7:16 renders *eitun* as *meitar*.
+
+- Rabbi Shlomo Pappenheim derives it from the biliteral ת-ר, elasticity,
+  covering both the stretching of a cord into tension and the release of tension
+  where it was expected, whence *mattir*, to untie, and *heter* and *muttar*,
+  permitted.
+- Rabbi David Chaim Chelouche derives it instead from ת-ר in the sense of
+  seeing: the *meitar* was first the crossbow string drawn to hold the arrow,
+  released when the archer sees his enemy within range, and only in a borrowed
+  sense any especially strong string or rope.
+
+*Meitar* is the word for "string" in the name of the String Bridge in
+Yerushalayim, the *Gesher HaMeitarim*.
 
 **What *eitun* is.** Targum Yonasan (to Yehoshua 2:15) renders *chevel* as
-*atuna*, the Aramaic counterpart of *eitun*. Radak: ropes of high-grade Egyptian
-linen. Rabbi Shlomo
-Pappenheim: not a cord at all, but cloth sewn full of holes, from the same
-biliteral root as *tene*, a wicker basket.
+*atuna*, the Aramaic counterpart of *eitun*.
+
+- Radak: ropes of high-grade Egyptian linen.
+- Rabbi Shlomo Pappenheim: not a cord at all, but cloth sewn full of holes, from
+  the same biliteral root as *tene*, a wicker basket.
 
 **Whether *kevel* belongs here.** Rabbi Reuven Chaim Klein notes that he has not
 seen it stated explicitly, but it seems to him that *kevel* and *chevel* are
@@ -140,14 +145,17 @@ item as collateral; for
 that branch see [collateral](collateral-mashkon-chaval-avot-rahan.html).
 
 ### avot (עבות)
-Most lexicographers trace it to ע-ב, thick; Rabbi Shlomo Pappenheim explains
-that an *avot* is a rope thicker than usual because more strings or fibers go
-into it than into an ordinary rope. Malbim ties it to the rest of the cluster: an *avot* is three
-*chevel* or *moseirah* strands braided into one. He learns the number of three
-from Rashi (to Sukkah 33a), who reasons that since the *anaf etz avot* of
-Vayikra 23:40 is the hadas, the branch must carry leaves in groups of three, which
-suggests that *avot* implies a merger of at least three. This עבות is distinct from the
-עבוט of the same transliteration, a pledge, treated in the collateral entry.
+- Most lexicographers trace it to ע-ב, thick; Rabbi Shlomo Pappenheim explains
+  that an *avot* is a rope thicker than usual because more strings or fibers go
+  into it than into an ordinary rope.
+- Malbim ties it to the rest of the cluster: an *avot* is three *chevel* or
+  *moseirah* strands braided into one. He learns the number of three from Rashi
+  (to Sukkah 33a), who reasons that since the *anaf etz avot* of Vayikra 23:40
+  is the hadas, the branch must carry leaves in groups of three, which suggests
+  that *avot* implies a merger of at least three.
+
+This עבות is distinct from the עבוט of the same transliteration, a pledge,
+treated in the collateral entry.
 
 ### moseirah (מוסרה) and kevel (כבל)
 *Moseirah* appears in the idiom of loosing: Hashem brings the

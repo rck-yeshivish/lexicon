@@ -99,17 +99,19 @@ that *yeor* recalls the fact that its waters tend to overflow past the banks,
 giving the illusion of the river itself shooting its waters outwards.
 
 ### nachal (נחל)
-Means both a river and a valley. There are two anonymous accounts of the
-connection: some explain that a *nachal* is the type of river that causes
-erosion, thereby creating a valley in the manner of the Grand Canyon, which in
-English we call a *wadi*, a word borrowed from Arabic; others explain that a
-*nachal* is the seasonal runoff from the mountains after rain, as against the
-year-round *nahar*. Rabbi Shlomo Aharon Wertheimer (1866-1935) restricts the
-word further: *nachal* applies only to a river that flows into a sea, as it
-says, "All the *nechalim* go to the sea" (Koheles 1:7), and not to any type of
-river. Indeed, Rabbi Pappenheim in *Yerios Shlomo* gives the root as ח-ל,
-circular motion, which aptly describes that same cycle: the *nachal* empties
-into the ocean, and the waters of the ocean in turn flow back into the river.
+Means both a river and a valley.
+
+- There are two anonymous accounts of the connection: some explain that a
+  *nachal* is the type of river that causes erosion, thereby creating a valley
+  in the manner of the Grand Canyon, which in English we call a *wadi*, a word
+  borrowed from Arabic; others explain that a *nachal* is the seasonal runoff
+  from the mountains after rain, as against the year-round *nahar*.
+- Rabbi Shlomo Aharon Wertheimer (1866-1935) restricts the word further:
+  *nachal* applies only to a river that flows into a sea, as it says, "All the
+  *nechalim* go to the sea" (Koheles 1:7), and not to any type of river. Indeed,
+  Rabbi Pappenheim in *Yerios Shlomo* gives the root as ח-ל, circular motion,
+  which aptly describes that same cycle: the *nachal* empties into the ocean,
+  and the waters of the ocean in turn flow back into the river.
 
 ## Rendering guidance
 

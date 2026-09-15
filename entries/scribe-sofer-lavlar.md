@@ -93,22 +93,24 @@ his name in either Talmud but only in later sources: Midrash *Shocher Tov* to
 Tehillim 9, *Iggeres Rav Sherira Gaon*, and the *Eileh Ezkerah* kinah for the
 Ten Martyrs.
 
-But Chazal read the word from the "counting" sense of the root. The Gemara
-(Kiddushin 30a, Chagigah 15b, Yerushalmi Berachos 1:4) teaches that *sofer*
-literally means one who counts, and the early Sages are called *sofrim* because
-they counted the letters of the Torah. Rabbi Klein suggests, tentatively, that
-this may perhaps allude to a scribal practice attested among the later
-Masoretes, who used numbers to help fix the most accurate text of Tanach and to
-check their own work, and that perhaps the early Sages did something similar as
-guardians of the Written Torah. The Yerushalmi (Shekalim 5:1) gives a second
-account of the same title: they "counted" in the sense of drawing up numbered
-lists as a memory aid for involved halachos, and every example is a Mishnah that
-opens with a tally: five who may not separate terumah (Terumos 1:1), five grains
-obligated in challah (Challah 1:1), fifteen women who exempt their co-wives from
-yibum (Yevamos 1:1), thirty-six sins punishable by kares (Kerisus 1:1), thirteen
-rules said about an unslaughtered kosher bird (Taharos 1:1), four avos nezikin
-(Bava Kamma 1:1), thirty-nine melachos of Shabbos (Shabbos 7:2). On this reading
-the Sages took a scribal habit and applied it to Torah she'be'al peh.
+But Chazal read the word from the "counting" sense of the root.
+
+- The Gemara (Kiddushin 30a, Chagigah 15b, Yerushalmi Berachos 1:4) teaches that
+  *sofer* literally means one who counts, and the early Sages are called
+  *sofrim* because they counted the letters of the Torah. Rabbi Klein suggests,
+  tentatively, that this may perhaps allude to a scribal practice attested among
+  the later Masoretes, who used numbers to help fix the most accurate text of
+  Tanach and to check their own work, and that perhaps the early Sages did
+  something similar as guardians of the Written Torah.
+- The Yerushalmi (Shekalim 5:1) gives a second account of the same title: they
+  "counted" in the sense of drawing up numbered lists as a memory aid for
+  involved halachos, and every example is a Mishnah that opens with a tally:
+  five who may not separate terumah (Terumos 1:1), five grains obligated in
+  challah (Challah 1:1), fifteen women who exempt their co-wives from yibum
+  (Yevamos 1:1), thirty-six sins punishable by kares (Kerisus 1:1), thirteen
+  rules said about an unslaughtered kosher bird (Taharos 1:1), four avos nezikin
+  (Bava Kamma 1:1), thirty-nine melachos of Shabbos (Shabbos 7:2). On this
+  reading the Sages took a scribal habit and applied it to Torah she'be'al peh.
 
 ### lavlar (לבלר)
 Not a word of Tanach. It appears three times in the Mishnah: in the name Nachum

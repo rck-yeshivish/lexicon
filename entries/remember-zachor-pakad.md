@@ -56,13 +56,15 @@ remembering with a cognate of *pakad* may also be included in the *zichronos* of
 Mussaf on Rosh Hashanah.
 
 ### zachor (זכור / זכר)
-Root ז-כ-ר. The most basic definition is Rabbi Moshe Ibn Ezra's (1055-1138):
-*zachor* is to remember something one once knew and forgot, as against *shamor*,
-to keep in mind something one currently knows. Malbim points to two differences
-between the two kinds of remembering. First, *zachor* simply refers to
-remembering in one's mind, mentally recalling a fact or idea and doing nothing
-else. Alternatively, Malbim explains that *zachor* denotes constantly
-remembering something over a long span of time.
+Root ז-כ-ר.
+
+- The most basic definition is Rabbi Moshe Ibn Ezra's (1055-1138): *zachor* is
+  to remember something one once knew and forgot, as against *shamor*, to keep
+  in mind something one currently knows.
+- Malbim points to two differences between the two kinds of remembering. First,
+  *zachor* simply refers to remembering in one's mind, mentally recalling a fact
+  or idea and doing nothing else. Alternatively, Malbim explains that *zachor*
+  denotes constantly remembering something over a long span of time.
 
 Rabbi Naftali Hertz Treves of Frankfurt (1493-1540) *postulates* in *Sefer
 HaGur* that *zachor* itself implies remembering as an act of mercy, while
@@ -81,29 +83,33 @@ memory of something is a whiff of that idea and is not it itself.
 
 ### pakad (פקד)
 Root פ-ק-ד. Its range in Tanach is so wide that its core meaning is quite
-difficult to pin down: to count (Bamidbar 1:21,
-2:32, Shmuel I 15:4), to be missing (Bamidbar 31:49, Yeshayahu 38:10), to
-command (Tehillim 19:9, 119:56, Ezra 1:2), to appoint (Bamidbar 1:50, 31:14,
-Esther 2:3, Tehillim 109:6), to punish (Shemos 20:5, Hoshea 2:15), to bring
-about death (Bamidbar 16:29, Yirmiyahu 46:21), to visit (Rashi to Nedarim 39b;
-Kli Yakar to Bamidbar 16:29), and to deposit (Vayikra 5:23). Malbim's first
-difference accounts for the whole spread: *pakad* denotes remembering something
-in order to take some sort of action, for better or for worse, so that it
-primarily means remembering something or someone in order to attend to it, deal
-with it, or otherwise pay attention to it. The most basic way of paying
-attention to a thing is to determine whether it is actually present, hence "to
-count" and "to be absent"; another way of dealing with someone is to give him
-instructions about what to do, hence "command" and "appoint"; a third is to give
-him what he deserves, whether to punish him, in some cases even to bring about
-his death, or simply to visit him; and a way to deal with an item is to deposit
-it in someone else's hands to take care of. Rabbi Shlomo Aharon Wertheimer
-(1866-1935) capsulizes this stance: *zechirah* is in thought, *pekidah* is in
-action. In Malbim's second approach *pakad* simply denotes one fleeting act of
-remembering, enough that a man can take the actions related to that memory,
-after which he can forget about it. (Rabbi Dr. Asher Weiser writes that
-*kapdanus*, meticulousness or strictness, relates to פ-ק-ד by way of metathesis,
-in the sense that one who is *makpid* pays attention to something to the utmost
-degree and is particular about all the details.)
+difficult to pin down: to count (Bamidbar 1:21, 2:32, Shmuel I 15:4), to be
+missing (Bamidbar 31:49, Yeshayahu 38:10), to command (Tehillim 19:9, 119:56,
+Ezra 1:2), to appoint (Bamidbar 1:50, 31:14, Esther 2:3, Tehillim 109:6), to
+punish (Shemos 20:5, Hoshea 2:15), to bring about death (Bamidbar 16:29,
+Yirmiyahu 46:21), to visit (Rashi to Nedarim 39b; Kli Yakar to Bamidbar 16:29),
+and to deposit (Vayikra 5:23).
+
+- Malbim's first difference accounts for the whole spread: *pakad* denotes
+  remembering something in order to take some sort of action, for better or for
+  worse, so that it primarily means remembering something or someone in order to
+  attend to it, deal with it, or otherwise pay attention to it. The most basic
+  way of paying attention to a thing is to determine whether it is actually
+  present, hence "to count" and "to be absent"; another way of dealing with
+  someone is to give him instructions about what to do, hence "command" and
+  "appoint"; a third is to give him what he deserves, whether to punish him, in
+  some cases even to bring about his death, or simply to visit him; and a way to
+  deal with an item is to deposit it in someone else's hands to take care of.
+  Rabbi Shlomo Aharon Wertheimer (1866-1935) capsulizes this stance: *zechirah*
+  is in thought, *pekidah* is in action.
+- In Malbim's second approach *pakad* simply denotes one fleeting act of
+  remembering, enough that a man can take the actions related to that memory,
+  after which he can forget about it.
+
+(Rabbi Dr. Asher Weiser writes that *kapdanus*, meticulousness or strictness,
+relates to פ-ק-ד by way of metathesis, in the sense that one who is *makpid*
+pays attention to something to the utmost degree and is particular about all the
+details.)
 
 Rabbi Saadia ben David Al-Dhamari, a fifteenth-century Yemenite scholar, reads
 the pair by elapsed time instead: *pakad* is remembering after a long time,

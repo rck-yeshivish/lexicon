@@ -62,36 +62,39 @@ Rabbi Shimon disagrees and holds that even one who offered on an *even* or a
 then, is the difference between an *even* and a *sela*?
 
 ### even (אבן)
-Malbim: a stone formed by nature, set against *leveinah*, the brick a man makes
-by mixing mortar. Rabbi Shlomo Pappenheim of Breslau (1740-1814): *even* is the
-umbrella term, the most general way of referring to a rock without being more
-specific, and *sela* and the rest fall under it; it sometimes appears in
-construct for specific kinds, *avnei hasadeh*, rocks of the field, *avnei
-yakar*, precious stones, and *avnei shayish*, usually said to be marble, though
-Rabbi Klein notes that in the Judean Formation limestone is a likelier candidate.
-Pappenheim argues that the root is the two-letter ב-נ, building, since most rocks are
-usable for construction and building is the commonest use of rock. Because rocks
-are hard, *even* was then borrowed for any matter in a solid state, as in *avnei
-barad*, rocks of hail, at Yehoshua 10:11: hail is not actually a rock but is
-hard like one, although, Rabbi Klein adds, his geologist friend Aaron Kahn tells
-him that scientifically speaking ice is technically considered a rock. This is
-the word in these Yaakov Avinu
-narratives: the stones he slept on (Bereishis 28:11), the stone he set up and
-poured oil on (28:18), the stone he rolled off the well (29:10), and the phrase
-he coined, *Even Yisrael* (49:24).
+- Malbim: a stone formed by nature, set against *leveinah*, the brick a man
+  makes by mixing mortar.
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814): *even* is the umbrella term,
+  the most general way of referring to a rock without being more specific, and
+  *sela* and the rest fall under it; it sometimes appears in construct for
+  specific kinds, *avnei hasadeh*, rocks of the field, *avnei yakar*, precious
+  stones, and *avnei shayish*, usually said to be marble, though Rabbi Klein
+  notes that in the Judean Formation limestone is a likelier candidate.
+  Pappenheim argues that the root is the two-letter ב-נ, building, since most
+  rocks are usable for construction and building is the commonest use of rock.
+  Because rocks are hard, *even* was then borrowed for any matter in a solid
+  state, as in *avnei barad*, rocks of hail, at Yehoshua 10:11: hail is not
+  actually a rock but is hard like one, although, Rabbi Klein adds, his
+  geologist friend Aaron Kahn tells him that scientifically speaking ice is
+  technically considered a rock.
+
+This is the word in these Yaakov Avinu narratives: the stones he slept on
+(Bereishis 28:11), the stone he set up and poured oil on (28:18), the stone he
+rolled off the well (29:10), and the phrase he coined, *Even Yisrael* (49:24).
 
 ### sela (סלע)
-Rabbi Immanuel Chai Ricci (1688-1743): a *sela* is attached to the ground and an
-*even* is detached, so that one can simply pick it up. Rabbi Shlomo Pappenheim:
-rocks are commonly sand, dirt and other mineral deposits tightly compressed
-together, and those break easily when shattered with a hammer; other rocks are
-harder and cannot be broken so easily, being made of different minerals glued
-together with calcium carbonate (calcite) and generally whitish in complexion,
-and that kind is a *sela*. To smash a *sela* one must apply intense pressure, so
-that when it finally goes its pieces fly outwards and disperse (see Yirmiyahu
-23:29). Malbim notes that a *sela* is the type of rock that is porous and can
-have water inside, while a *tzur*, a harder rock than a *sela*, is so hard that
-there is no possibility of water inside it.
+- Rabbi Immanuel Chai Ricci (1688-1743): a *sela* is attached to the ground and
+  an *even* is detached, so that one can simply pick it up.
+- Rabbi Shlomo Pappenheim: rocks are commonly sand, dirt and other mineral
+  deposits tightly compressed together, and those break easily when shattered
+  with a hammer; other rocks are harder and cannot be broken so easily, being
+  made of different minerals glued together with calcium carbonate (calcite) and
+  generally whitish in complexion, and that kind is a *sela*. To smash a *sela*
+  one must apply intense pressure, so that when it finally goes its pieces fly
+  outwards and disperse (see Yirmiyahu 23:29).
+- Malbim notes that a *sela* is the type of rock that is porous and can have
+  water inside, while a *tzur*, a harder rock than a *sela*, is so hard that
+  there is no possibility of water inside it.
 
 In most instances in Tanach a *sela* is a hard rock protruding from the
 ground, or even a rocky mountain. Because it is so hard and cannot easily be

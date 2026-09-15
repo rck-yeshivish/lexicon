@@ -56,17 +56,19 @@ stone that gives fire.
 ## Distinctions
 
 ### tzur (צור)
-Both Rabbi Shlomo Pappenheim and Malbim: a *tzur* is harder than a *sela*. For
-Rabbi Pappenheim the hardest types of rock are called *tzur*, and he ties the word to
-*tzarur*, cluster or bundle, since its components are packed so tightly that the
-resulting stone is quite hard; he identifies one type of *tzur* as *Hornstein*,
-German for "horn stone," that is, chert. Pieces of chert generally have very
-sharp edges, so they can be used for cutting in place of metal knives. Rabbi
-Yosef Kimchi (1105-1170), father of Radak (Rabbi David Kimchi, 1160-1235),
-writes in *Sefer HaGalui* that *tzur* / *tzor* means specifically a *sharp*
-stone. That fits its two circumcision contexts: Tzipporah takes a *tzur* to be
-mohel for her son (Shemos 4:25), and Yehoshua's mass milah is done with *charvos
-tzurim*, literally stone swords (Yehoshua 5:2-3).
+Both Rabbi Shlomo Pappenheim and Malbim: a *tzur* is harder than a *sela*.
+
+- For Rabbi Pappenheim the hardest types of rock are called *tzur*, and he ties
+  the word to *tzarur*, cluster or bundle, since its components are packed so
+  tightly that the resulting stone is quite hard; he identifies one type of
+  *tzur* as *Hornstein*, German for "horn stone," that is, chert. Pieces of
+  chert generally have very sharp edges, so they can be used for cutting in
+  place of metal knives.
+- Rabbi Yosef Kimchi (1105-1170), father of Radak (Rabbi David Kimchi,
+  1160-1235), writes in *Sefer HaGalui* that *tzur* / *tzor* means specifically
+  a *sharp* stone. That fits its two circumcision contexts: Tzipporah takes a
+  *tzur* to be mohel for her son (Shemos 4:25), and Yehoshua's mass milah is
+  done with *charvos tzurim*, literally stone swords (Yehoshua 5:2-3).
 
 Malbim: a *sela* is the porous kind that can hold water inside; a *tzur* is so
 hard that water in it is impossible. This fits neatly, Rabbi Klein says, with

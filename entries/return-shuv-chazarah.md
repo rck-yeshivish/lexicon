@@ -63,16 +63,17 @@ earlier in time and set it right; *lehashiv*, "to answer," because the answer
 fills the hole the question opened; and *shev*/*yeshivah*, "dwelling," because
 settling in a place creates a home base one always comes back to.
 
-Pappenheim adds a second sense that carries the whole idea of *teshuvah*: ש-ב
-can mean reverting to one's **natural** state even where that was never one's
-prior state. So *Shabbos* is a return to man's natural condition of rest even
-for someone who has never rested; so too *lasheves*, to sit, and *shevi* /
-*shevuyah*, a captive whose freedom of movement has been curtailed by his
-captors, as if stuck in a position of rest. Rabbi Yaakov Tzvi Mecklenburg also
-traces *Shabbos*, together with *shavua*, week, to ש-ב, returning, along a
-different path: as a *shevuyah*, a captive, is stuck within a closed system that
-repeats itself and constantly returns to the beginning, so *Shabbos* and *shavua*
-are circular periods of time that restart when they reach seven.
+- Pappenheim adds a second sense that carries the whole idea of *teshuvah*: ש-ב
+  can mean reverting to one's **natural** state even where that was never one's
+  prior state. So *Shabbos* is a return to man's natural condition of rest even
+  for someone who has never rested; so too *lasheves*, to sit, and *shevi* /
+  *shevuyah*, a captive whose freedom of movement has been curtailed by his
+  captors, as if stuck in a position of rest.
+- Rabbi Yaakov Tzvi Mecklenburg also traces *Shabbos*, together with *shavua*,
+  week, to ש-ב, returning, along a different path: as a *shevuyah*, a captive,
+  is stuck within a closed system that repeats itself and constantly returns to
+  the beginning, so *Shabbos* and *shavua* are circular periods of time that
+  restart when they reach seven.
 
 Similarly, Avraham's servant, charged with finding a wife for Yitzchak in
 Avraham's homeland Charan,
@@ -121,13 +122,15 @@ getting back to where one used to be, while *chazarah* focuses on the act of
 getting out of the rut one is currently stuck in and making a U-turn.
 
 The closest word to *chazarah* in Tanach is *chazir*, "pig," whose root is also
-ח-ז-ר. Rabbi Menachem Ricanati (to Vayikra 11:2): the pig is called *chazir*
-because in the future Hashem will "return" to us the right to eat it, our
-relationship with the pig thus reversing course, after a fashion. (Rabbeinu
-Bachaya and Rabbi David Ibn Zimra write that this should not be taken
-literally.) Ibn Kaspi also points out that the root of *chazarah* appears in
-Tanach only in the word *chazir*, which he explains gets that name because pigs
-commonly turn around backwards to walk aimlessly in circles.
+ח-ז-ר.
+
+- Rabbi Menachem Ricanati (to Vayikra 11:2): the pig is called *chazir* because
+  in the future Hashem will "return" to us the right to eat it, our relationship
+  with the pig thus reversing course, after a fashion. (Rabbeinu Bachaya and
+  Rabbi David Ibn Zimra write that this should not be taken literally.)
+- Ibn Kaspi also points out that the root of *chazarah* appears in Tanach only
+  in the word *chazir*, which he explains gets that name because pigs commonly
+  turn around backwards to walk aimlessly in circles.
 
 ## Rendering guidance
 
