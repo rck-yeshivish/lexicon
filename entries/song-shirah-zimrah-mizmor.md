@@ -5,6 +5,19 @@ roots: [ש-י-ר, ז-מ-ר]
 translit: [shir, sheer, shirah, shira, shiros, shirot, zemer, zimrah, zimra, zimras, zimrat, zmiros, zemiros, zemirot, mizmor, mizmor shir, shir mizmor, zomer, pesukei dezimra, klezmer, klei zemer]
 english: [song, sing, music, melody, tune, hymn, psalm, instrumental music]
 domain: speech
+words:
+  - he: שירה
+    tr: shirah
+    en: song
+    distinct: verbal song, against instrumental zimrah (Ibn Ezra, Radak, Sforno, the Vilna Gaon, Rav Hirsch, Wertheimer); the general term, sacred or secular (Malbim); the lyrics without the tune (Mecklenburg); song at completion, its beginning attached to its end (Maharal)
+  - he: זמרה
+    tr: zimrah
+    en: music, melody
+    distinct: instrumental music (Ibn Ezra, Radak, Sforno, Rav Hirsch); the tune, sung or played (Mecklenburg); a higher form than shirah, and possibly the religious song of Hashem's praise (Malbim); from zomer, pruning, the choicest part of a song (Pappenheim)
+  - he: מזמור
+    tr: mizmor
+    en: psalm
+    distinct: the psalm title; beside shir it is the tune and shir the words, so shir mizmor and mizmor shir tell which comes first (Pappenheim, Rabbi Shimshon Pincus); Ibn Ezra holds the two headings mean the same
 sources:
   - wiaw:8681 "PESACH: Sing and Song" (2020-04-04) https://articles.ohr.edu/articles/pesach-sing-and-song
 authorities: [Ibn Ezra, Radak, Sforno, Vilna Gaon, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yitzchak Hutner, Chasam Sofer, Rabbi Yaakov Haber, Rabbi Immanuel Frances, Rashi, Rabbeinu Efrayim ben Shimshon, Rabbi Nachman of Breslov, Rabbi Elimelech of Lizhensk (Noam Elimelech), Maharal of Prague, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rabbi Shimon Dov Ber Analak, Rabbi Shimshon Pincus, Cyrus Gordon]
@@ -31,6 +44,14 @@ ancients were no less talented than we are but expressed their intelligence
 differently, handling language so deftly that modern scholars take a long time
 even to notice the riddles in it, let alone their subtleties; Rabbi Klein offers
 the *shir*/*zemer* pair as one such nuance.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שירה | shirah | song | the sung, worded song; the general term, sacred or secular (Malbim) |
+| זמרה | zimrah | music, melody | instrumental music, or the tune (Mecklenburg); higher than *shirah* (Malbim) |
+| מזמור | mizmor | psalm | a psalm title; the tune against *shir*, the words (Pappenheim, Pincus) |
 
 ## Distinctions
 

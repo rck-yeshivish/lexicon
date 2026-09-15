@@ -8,6 +8,30 @@ domain: body
 words:
   - he: ישן
     nk: יָשֵׁן
+  - he: שינה
+    tr: sheinah
+    en: sleep
+    distinct: ordinary sleep and the general term, the senses weakened but not wholly severed (Rav Hirsch); a sleeper rehashing the day's thoughts, from ש-נ, doubling (Rabbi Shlomo Pappenheim); deeper than tenumah, lighter than tardeimah (Ibn Ezra); goes with rest and tranquility (Bedersi)
+  - he: תרדמה
+    tr: tardeimah
+    en: deep sleep
+    distinct: sleep that overpowers a man and takes him unwilling (Rabbi Shlomo Pappenheim), the senses tied down as though fettered (Rav Hirsch); the deepest of the three (Ibn Ezra, Radak); the Netziv disagrees and makes it the lighter sleep of one just dropping off
+  - he: תנומה
+    tr: tenumah
+    en: drowsiness, dozing
+    distinct: the half-asleep state in which one answers to his name but cannot give a logical answer (Megillah 18b); the lightest of the three (Ibn Ezra); lids shut while the mind still works (the Vilna Gaon); sleep of extraordinary exhaustion (Malbim); tied to indolence (Bedersi)
+  - he: שכיבה
+    tr: shechivah
+    en: lying down
+    distinct: the act of lying down to sleep, added with linah, the time for sleeping, to the three ranked words to make five terms (Rabbi Yosef Nechemias)
+  - he: לינה
+    tr: linah
+    en: staying overnight
+    distinct: technically not sleeping but leaving something overnight, so it governs sacrificial meat, unpaid wages and a hanging body as readily as a guest; tied to laylah (Rabbi Shlomo Pappenheim); the time for sleeping (Rabbi Yosef Nechemias)
+  - he: דורמיטא
+    tr: durmita
+    en: sleep, in the Zohar
+    distinct: the Zohar's word, associated there with misah, death; Rabbi Chaim Vital took it for Zoharic Aramaic, but it is not Aramaic at all (Aderet); likely from Latin dormire (Rabbi Klein, with Rabbi Yitzchak Greenblatt)
 sources:
   - wiaw:11119 "Bereishit: Sleepy Words (Part 1/2)" (2023-09-25) https://articles.ohr.edu/articles/bereishit-sleepy-words-part-12
   - wiaw:11120 "Sleepy Words (Part 2/2)" (2023-10-19) https://articles.ohr.edu/articles/sleepy-words-part-22
@@ -30,6 +54,17 @@ Rabbi Sternbuch, Rabbi Wertheimer and Rabbi Yosef Nechemias follow that ranking
 or a similar one; the Netziv disagrees with it and makes *tardeimah* the *lighter*
 sleep of one just dropping off, which is why it precedes *vayishan*. Both
 readings stand.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שינה | sheinah | sleep | ordinary sleep, the general term; senses dulled but not severed (Rav Hirsch) |
+| תרדמה | tardeimah | deep sleep | overpowering deep sleep (Pappenheim, Ibn Ezra); the lighter, just dropping off (Netziv) |
+| תנומה | tenumah | drowsiness, dozing | dozing; answers to his name (Megillah 18b); the lightest sleep (Ibn Ezra) |
+| שכיבה | shechivah | lying down | the act of lying down to sleep (Nechemias) |
+| לינה | linah | staying overnight | leaving something overnight, not sleeping; meat, wages and a body too |
+| דורמיטא | durmita | sleep, in the Zohar | the Zohar's word; not Aramaic (Aderet); likely Latin *dormire* (Rabbi Klein) |
 
 ## Distinctions
 

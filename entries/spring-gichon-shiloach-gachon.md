@@ -8,6 +8,14 @@ domain: nature
 words:
   - he: שלח
     nk: שֶׁלַח
+  - he: גיחון
+    tr: Gichon
+    en: Gichon spring
+    distinct: the spring by Yerushalayim, from ג-ו-ח, going forth (Ibn Janach, Radak); one water with the Shiloach (Rashi, Radak), or its fountain (Gesenius); a different river from Eden's Gichon (Rashi, Rabbi Avraham Maimuni), or the same (Rav Saadia Gaon, Ibn Ezra)
+  - he: שילוח
+    tr: Shiloach
+    en: Shiloach waters
+    distinct: another name for the Gichon (Rashi, Radak); for later linguists a separate site, the aqueduct (Gesenius), a channel or pool the Gichon flows into (Even-Shoshan), or the part within the walls (Professor Carol A. Dray); the name written in a get (Rabbi Moshe Ibn Chaviv)
 sources:
   - wiaw:11019 "Matos Masei: The Shiloach Waters" (2023-07-15) https://articles.ohr.edu/articles/matos-masei-the-shiloach-waters
 authorities: [Rashi, Radak, Ibn Janach, Rabbi Yosef Kimchi, Ibn Ezra, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabbi Moshe Maimon, Rabbi Meir Abulafia (Ramah), HaKosev, Targum, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Moshe Ibn Chaviv, Rabbi Yoel Teitelbaum of Satmar, Rama, Wilhelm Gesenius, Avraham Even-Shoshan, Professor Carol A. Dray, Septuagint, Radal]
@@ -30,6 +38,13 @@ different river from the Yerushalayim spring, while Rav Saadia Gaon, Ibn Ezra
 and the Ramah identify the two. *Gachon* (Bereishis 3:14) is
 not a place at all but the serpent's **belly**, which Rav Hirsch
 (tentatively) and Rabbi Pappenheim tie to the name Gichon.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גיחון | Gichon | Gichon spring | the spring whose waters go forth (Radak); the Shiloach's fountain (Gesenius) |
+| שילוח | Shiloach | Shiloach waters | the same water as the Gichon (Rashi, Radak); its aqueduct (Gesenius) |
 
 ## Distinctions
 

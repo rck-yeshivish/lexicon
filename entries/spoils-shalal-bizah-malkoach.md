@@ -6,8 +6,27 @@ translit: [shalal, shallal, baz, bizah, biza, bizas, bizat, malkoach, malkoah, s
 english: [spoils, booty, plunder, loot, captives, live captives, ornaments]
 domain: society
 words:
+  - he: שלל
+    tr: shalal
+    en: spoils
+    distinct: the general term for the defeated side's ownerless property (Malbim), anything taken in battle when it stands alone (Rav Hirsch); in a list, clothing and jewelry (Rashi) or clothing and vessels (Radak); the valuables taken first (the Vilna Gaon)
+  - he: בזה
+    tr: bizah
+    en: plunder
+    distinct: the lesser loot taken after the valuables, akin to bizayon (the Vilna Gaon); movable property other than jewelry (Rashi); property already taken as loot (Malbim); from ב-ז, considered unimportant (Rabbi Shlomo Pappenheim)
+  - he: מלקוח
+    tr: malkoach
+    en: living booty
+    distinct: living booty, people and animals (Rashi); animals beside shevi, every living thing when alone (Radak); those captives taken as slaves or for other purposes (Malbim); living creatures taken by word rather than by hand (Rabbi Baruch HaLevi Epstein)
+  - he: שבי
+    tr: shevi
+    en: captives
+    distinct: human prisoners (Radak); all the captured people of the defeated side (Malbim); living people or animals (the Vilna Gaon); the captive curtailed as if at rest, from ש-ב (Rabbi Shlomo Pappenheim)
   - he: עד
+    tr: ad
+    en: plunder, ornaments
     nk: עַד
+    distinct: disputed; plunder, as the root means in Aramaic (Rashi); ornamental battle-dress stripped from captives (Rabbi Shlomo Pappenheim); jewelry and decorative items, against the catch-all shalal (Mecklenburg); dead animals taken as war prizes (Malbim)
 sources:
   - wiaw:8594 "Take Your Spoils" (2020-02-08) https://articles.ohr.edu/articles/take-your-spoils
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
@@ -35,6 +54,16 @@ each doing separate work. Rabbi Klein holds that the words are not truly
 synonymous. The Egyptians say "I will apportion the *shalal*" (Shemos 15:9), yet
 what the Jews took from them is *bizas Mitzrayim* and *bizas hayam*, not
 *shalal*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שלל | shalal | spoils | the general word (Malbim); in a list, clothing and jewelry (Rashi) |
+| בזה | bizah | plunder | lesser loot taken after the valuables, akin to *bizayon* (the Gra) |
+| מלקוח | malkoach | living booty | living booty, people and animals (Rashi); animals beside *shevi* (Radak) |
+| שבי | shevi | captives | human prisoners (Radak); all the captured people (Malbim) |
+| עד | ad | plunder, ornaments | disputed: plunder (Rashi), battle finery (Pappenheim), or dead animals (Malbim) |
 
 ## Distinctions
 

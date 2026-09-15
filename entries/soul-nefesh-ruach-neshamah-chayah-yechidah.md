@@ -6,10 +6,28 @@ translit: [nefesh, nefesh chayah, ruach, ruach hakodesh, neshamah, neshama, nish
 english: [soul, life-soul, spirit, higher soul, breath of life, life-force, singular soul]
 domain: other
 words:
-  - he: חיה
-    nk: חַיָּה
   - he: נפש
+    tr: nefesh
+    en: soul
     nk: נֶפֶשׁ
+    distinct: the soul tied to blood, the lifeline of physical existence (Bereishis Rabbah 14:9); also blood, will, the self and a name; the most physical part, man's deeds (Rabbi Chaim of Volozhin) and bodily desire (Ibn Ezra, Rabbeinu Yonah); from פ-ש, expanding (Rabbi Shlomo Pappenheim)
+  - he: רוח
+    tr: ruach
+    en: spirit
+    distinct: primarily air, then wind, direction and the life-giving spirit (Rambam); also prophecy and temperament; the soul's wind-like aspect that rises in sleep (Bereishis Rabbah 14:9); man's speech (Rabbi Chaim of Volozhin); the emotional aspect (the Vilna Gaon)
+  - he: נשמה
+    tr: neshamah
+    en: higher soul
+    distinct: means only the soul; tied to neshimah, breathing (Bereishis Rabbah 14:9); only man has one (Ibn Ezra); the intellectual aspect (Maharsha), man's thoughts, and a spiritual life-force Hashem blows into man, not respiration (Rabbi Chaim of Volozhin)
+  - he: חיה
+    tr: chayah
+    en: life-force
+    nk: חַיָּה
+    distinct: the soul's transcendence, living on when the body dies (Bereishis Rabbah 14:9); the overall holistic life-force (the Vilna Gaon); the neshamah of the neshamah (Rabbi Chaim of Volozhin); not given to everyone, only after maturity and mitzvos (Rabbi Yaakov Yehoshua Falk)
+  - he: יחידה
+    tr: yechidah
+    en: singular soul
+    distinct: the soul's uniqueness (Bereishis Rabbah 14:9), from ח-ד, singularity (Rabbi Shlomo Pappenheim); man has none now but will in Messianic times (the Vilna Gaon); received in life by Moshe alone (Rabbi Yaakov Yehoshua Falk)
 sources:
   - wiaw:8759 "Take a Breather (Part 1)" (2020-06-27) https://articles.ohr.edu/articles/take-a-breather-part-1
   - wiaw:8768 "Anatomy of a Soul (Part 2 of 3)" (2020-07-04) https://articles.ohr.edu/articles/anatomy-of-a-soul-part-2-of-3
@@ -34,6 +52,16 @@ has one (Ibn Ezra). *Chayah* is the soul that lives on when the body dies, and
 *yechidah* its uniqueness (the Midrash). The authorities map the soul's parts
 onto the faculties, the organs and the stages of life in different ways, and
 they differ over who has *chayah* and *yechidah* at all.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נפש | nefesh | soul | the physical soul, tied to blood (the Midrash); deeds (*Nefesh HaChaim*) |
+| רוח | ruach | spirit | air, wind, the life-giving spirit (Rambam); speech (*Nefesh HaChaim*) |
+| נשמה | neshamah | higher soul | only ever the soul, and only in man (Ibn Ezra); tied to breathing |
+| חיה | chayah | life-force | lives on when the body dies (the Midrash); the *neshamah* of the *neshamah* |
+| יחידה | yechidah | singular soul | the soul's uniqueness (the Midrash); in life, Moshe's alone (Falk) |
 
 ## Distinctions
 

@@ -6,8 +6,15 @@ translit: [ben, bar, bat, bas, banos, barat, beris, bar mitzvah, bas mitzvah, ba
 english: [son, daughter, child of]
 domain: society
 words:
+  - he: בן
+    tr: ben
+    en: son
+    distinct: the Hebrew word and the word of Tanach, written in a get (Rabbi Yaakov Margolis); from ב-נ, building and producing, the child as the product of his parents' marriage (Rabbi Shlomo Pappenheim, Rabbi Meir Mintzberg)
   - he: בר
+    tr: bar
+    en: son
     nk: בַּר
+    distinct: the Aramaic equivalent, Targum's rendering of every ben; also means outside or separate, the child separated from his mother at birth (Rabbi Shlomo Pappenheim), which is why a get avoids it (Rabbi Yaakov Margolis); in Mishlei 31:2 Hebrew for choicest (Malbim)
 sources:
   - wiaw:8257 "Boys and Bars" (2019-05-25) https://articles.ohr.edu/articles/boys-and-bars
 authorities: [Malbim, Rabbi Yaakov Margolis, Maharshal, Maharik, Rema, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Meir Simcha of Dvinsk, Rabbi David Ovadiah, Rabbi Alexander Sender Feuerstein, Rabbi Meir Mintzberg, Rabbi Yehuda ben Kalonymos of Speyer]
@@ -23,6 +30,13 @@ sense: *ben* is Hebrew, *bar* is its Aramaic equivalent, which is why Targum
 renders *ben* as *bar* everywhere. *Bar* in Aramaic also means **outside**
 or **separate**; for Rabbi Yaakov Margolis that double meaning is why a get
 says *ben*, and some read a lesson from it into *bar mitzvah*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| בן | ben | son | the Hebrew word; from building, the child his parents' product (Pappenheim) |
+| בר | bar | son | the Aramaic word; also means outside, so a get writes *ben* (Margolis) |
 
 ## Distinctions
 

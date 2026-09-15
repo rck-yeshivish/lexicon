@@ -5,6 +5,23 @@ roots: [ד-ב-ר, א-מ-ר, מ-ר, ח-ט-ב]
 translit: [dibbur, dibur, dibber, vayidaber, vayedaber, dibbros, dibbrot, dibrot, amirah, amira, amar, vayomer, leymor, lemor, tomar, maamar, maamaros, maamarot, imrei, amir, heemarta, heemircha, chativah, chativa]
 english: [speech, utterance, saying, statement, declaration]
 domain: speech
+words:
+  - he: דיבור
+    tr: dibbur
+    en: speak, address
+    distinct: harsh speech (Rashi), limited to intensity or boldness (Mecklenburg); a forceful announcement with raised voice (Zohar); the act of speaking, complete with no hearer (Rabbi Shlomo Pappenheim, Rav Hirsch); a proposition, not absolute (Malbim); the Written Torah (Rabbeinu Bachaya)
+  - he: אמירה
+    tr: amirah
+    en: say, tell
+    distinct: gentle speech (Rashi); communication aimed at a hearer who takes in the meaning (Rabbi Shlomo Pappenheim, Rav Hirsch); speech that switches reality (Mecklenburg); absolute (Malbim), or the short headline (Rabbi Shmuel Jaffa-Ashkenazi); the Oral Torah (Rabbeinu Bachaya); the Vilna Gaon seems to reverse the pair
+  - he: מאמר
+    tr: maamar
+    en: saying
+    distinct: the word for the Ten Sayings of creation (Avos 5:1), needing no raised voice with no listeners yet (Rabbi Klein); needing a listener to turn it into reality (Rav Hirsch); setting the framework for a dibbur (Sefer HaChachmah); Hashem's gift, taken as love (Rabbi Klein)
+  - he: דיברות
+    tr: dibros
+    en: sayings, Decalogue
+    distinct: the Aseres HaDibros at Sinai, spoken to an assembled audience (Rabbi Klein); Hashem's absolute will, standing whether or not anyone follows it (Rav Hirsch); expectations that feel demanding (Rabbi Klein); better Ten Sayings than Ten Commandments
 sources:
   - wiaw:8272 "Shavuot Special Feature!" (2019-06-08) https://articles.ohr.edu/articles/shavuot-special-feature
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
@@ -28,6 +45,15 @@ communicative of them. *Aseres HaDibros* is "Ten Sayings" or "Decalogue"; Rabbi
 Klein's line is that this "would be better" than "Ten Commandments," said with
 all due respect to Cecil B. DeMille and Charlton Heston. He renders *Asarah
 Maamaros* "Ten Sayings" too.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| דיבור | dibbur | speak, address | speech as an act; harsh (Rashi); complete with no hearer (Rav Hirsch) |
+| אמירה | amirah | say, tell | speech as communication, gentle, aimed at a hearer (Rashi, Rav Hirsch) |
+| מאמר | maamar | saying | the sayings of creation, with no audience yet (Rabbi Klein) |
+| דיברות | dibros | sayings, Decalogue | Sinai's sayings, to an assembled audience; Hashem's standing will (Rav Hirsch) |
 
 ## Distinctions
 

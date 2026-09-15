@@ -7,7 +7,30 @@ english: [staff, rod, tribe, cane, stick, scepter, branch]
 domain: society
 words:
   - he: מטה
+    tr: mateh
+    en: staff, tribe
     nk: מַטֶּה
+    distinct: the stick of a dignitary or one in authority (Malbim, Wertheimer), so only Moshe's is a mateh; dry wood (Rabbi Yehuda ibn Kuraish); neutral in connotation (Rabbi Yaakov Lorberbaum of Lissa); as tribe, its members rather than its leader (Mecklenburg, citing Shadal)
+  - he: שבט
+    tr: shevet
+    en: rod, tribe
+    distinct: authority and its responsibility (Rashi); a rod wound up with energy to strike (the Vilna Gaon), of wood or metal (Wertheimer); as tribe, a branch of Yaakov's family tree (Malbim), or first the tribe's leader (Mecklenburg, citing Shadal)
+  - he: משענת
+    tr: mishenes
+    en: cane
+    distinct: a walking stick to lean on, necessarily a thick branch (Wertheimer); positive in connotation, supporting the elderly (Rabbi Yaakov Lorberbaum of Lissa); from ש-ע, the satisfaction of being supported (Rabbi Shlomo Pappenheim)
+  - he: מקל
+    tr: makel
+    en: rod for striking
+    distinct: a rod for hitting, in Tanach generally the shepherd's stick, probably related to malkos; negative in connotation, tied to punishment (Rabbi Yaakov Lorberbaum of Lissa); wood only (Wertheimer)
+  - he: שרביט
+    tr: sharvit
+    en: scepter
+    distinct: the royal scepter held by Achashverosh; some explain it is the same object as shevet, Tanach sometimes adding an extra r-sound
+  - he: חוטר
+    tr: choter
+    en: staff
+    distinct: probably a Hebraized form of the Aramaic chutra, which the Targumim use for both mateh and shevet
 sources:
   - wiaw:7357 "Tribesmen Stick Together" (2017-07-22) https://articles.ohr.edu/articles/tribesmen-stick-together
   - wiaw:8836 "Trusting and Relying on G-d" (2020-08-29) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d
@@ -34,6 +57,17 @@ family tree; and Rabbi Zev HaKohen Hoberman calls Yisrael *shevatim* for their
 authority and responsibility over the nations and *matos* as Yaakov Avinu's cane,
 the support he leans on to carry his legacy. *Mateh* and *shevet* are both stick
 and tribe.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מטה | mateh | staff, tribe | a staff of office (Malbim, Wertheimer); neutral; the tribe's members (Mecklenburg) |
+| שבט | shevet | rod, tribe | a rod struck with a wind-up (Vilna Gaon); authority (Rashi); a branch (Malbim) |
+| משענת | mishenes | cane | a cane to lean on; positive, supporting the elderly (Lorberbaum) |
+| מקל | makel | rod for striking | the shepherd's striking rod; negative, tied to punishment (Lorberbaum) |
+| שרביט | sharvit | scepter | the royal scepter; perhaps *shevet* with an added *r* |
+| חוטר | choter | staff | likely Hebraized Aramaic *chutra*, the Targumim's word for *mateh* and *shevet* |
 
 ## Distinctions
 

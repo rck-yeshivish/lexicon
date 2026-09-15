@@ -5,6 +5,27 @@ roots: [ש-ח-ט, ז-ב-ח, ט-ב-ח, נ-ח-ר]
 translit: [shechitah, shechita, shechitas, zevichah, zevicha, zevach, zevah, tevichah, tevicha, tevach, tavuach, tabach, tabachim, mitbach, nechirah, nechira, devicha]
 english: [ritual slaughter, sacrificial slaughter, butchering, slaughtering for food, stabbing, butcher, executioner]
 domain: action
+words:
+  - he: שחיטה
+    tr: shechitah
+    en: ritual slaughter
+    distinct: the specific halachic act of cutting through the esophagus and trachea (Malbim); for Rabbi Shlomo Pappenheim the general term for any act causing a living being's death, halachic slaughter being one case of it
+  - he: נחירה
+    tr: nechirah
+    en: stabbing
+    distinct: stabbing an animal in its neck, the typical Noahide way of killing as opposed to proper slaughter; related to chor, a hole, because it too makes a hole (Rabbi Binyamin Mussafia)
+  - he: זביחה
+    tr: zevichah
+    en: sacrificial slaughter
+    distinct: slaughter with a stated purpose, a korban or meat for a festive gathering (Malbim); a species of shechitah, killing for sacrifice (Rabbi Shlomo Pappenheim); Ralbag to Devarim 12:21 lets it include nechirah, yet to Vayikra 1:1 calls it a synonym of shechitah
+  - he: טביחה
+    tr: tevichah
+    en: slaughter for food
+    distinct: killing an animal for food in a general way, even outside ritual slaughter (Malbim); a shechitah defined by its reason, ordinary human consumption (Rabbi Shlomo Pappenheim); Ibn Janach dissents and reads it as cooking, which Wertheimer answers from rabbinic usage
+  - he: טבח
+    tr: tabach
+    en: butcher, executioner
+    distinct: the title in sar ha'tabachim; in charge of those who slaughtered the king's animals (Rashi), or Chief Executioner (Targum Onkelos, Ibn Ezra, Ramban); Ibn Ezra to Daniel 2:14 makes Potiphar Chief Cook instead
 sources:
   - wiaw:8023 "Slaughtering and Butchering" (2018-12-08) https://articles.ohr.edu/articles/slaughtering-and-butchering
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
@@ -22,6 +43,16 @@ death**. *Zevichah* is slaughter **for a purpose**, above all **sacrificial
 slaughter**. *Tevichah* is slaughter **for eating**, killing an animal for food
 in a general way, even outside the frame of ritual slaughter. Rabbi Yonah ibn
 Janach dissents on that last word entirely and reads *tevichah* as **cooking**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שחיטה | shechitah | ritual slaughter | the halachic neck-cut (Malbim); any putting to death (Pappenheim) |
+| נחירה | nechirah | stabbing | stabbing in the neck, the Noahide way; from *chor*, a hole (Mussafia) |
+| זביחה | zevichah | sacrificial slaughter | slaughter for a purpose (Malbim); above all for a *korban* (Pappenheim) |
+| טביחה | tevichah | slaughter for food | killing for food, even outside ritual slaughter (Malbim); cooking, for Ibn Janach |
+| טבח | tabach | butcher, executioner | Potiphar's title; over the king's slaughterers (Rashi) or Chief Executioner (Onkelos, Ramban) |
 
 ## Distinctions
 

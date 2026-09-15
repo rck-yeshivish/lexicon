@@ -6,10 +6,44 @@ translit: [nachash, nahash, saraph, saraf, seraph, tanin, tannin, tzefa, tzifoni
 english: [snake, serpent, viper, adder, asp, sea serpent, fiery serpent]
 domain: nature
 words:
+  - he: נחש
+    tr: nachash
+    en: snake
+    distinct: either the umbrella term, or, related to lachash, the snake that can be charmed (Wertheimer), as Rashi implies; to land what tanin is to sea (the Vilna Gaon); a long yellowish-green snake with a fatal bite (the Rokeach)
   - he: שרף
+    tr: saraph
+    en: fiery serpent
     nk: שָׂרָף
+    distinct: venomous because its poison burns like fire (Ibn Parchon), its breath burning what it touches (Ibn Janach); the flying saraph has no wings but leaps (Rashi); its bite turns a man to ashes (Rabbi Yosef Bechor Shor)
   - he: תנין
+    tr: tanin
+    en: sea serpent
     nk: תַּנִּין
+    distinct: the sea snake, as nachash is the land snake (the Vilna Gaon); simply a big fish (Rashi); at its core is nun, fish (Rabbi Aharon Marcus, Rav Hirsch)
+  - he: צפע
+    tr: tzefa
+    en: viper
+    distinct: especially poisonous, since even its excrement is venomous (Malbim); a flying saraph with multiple tails (the Rokeach); what a nachash becomes after seventy years, when it can no longer be charmed (Rashi)
+  - he: צפעוני
+    tr: tzifoni
+    en: viper
+    distinct: an evil snake, set against the completely evil efeh (Rashi); Radak holds tzifoni and efeh are two words for the same creature
+  - he: אפעה
+    tr: efeh
+    en: completely evil snake
+    distinct: a completely evil snake that portends only bad (Rashi), though Radak makes it one with tzifoni; only a male and a female exist (Rashi, Mahari Kara); the shorter, thicker, more venomous female saraph-nachash (Ibn Parchon); a rattlesnake, from פ-ע (Rabbi Shlomo Pappenheim)
+  - he: עכשוב
+    tr: achshuv
+    en: venomous creature
+    distinct: a hapax (Tehillim 140:4) whose identity is unsettled; some commentators make it the snake that spits out its poison, others no snake at all but another poisonous creature such as a spider
+  - he: פתן
+    tr: peten
+    en: asp
+    distinct: immune to charming and so always dangerous, against the nachash (Wertheimer), from miftan, threshold, or pitui, coaxing; a snake of advanced age (the Rokeach)
+  - he: שפיפון
+    tr: shephiphon
+    en: adder
+    distinct: a small snake that moves with its body always touching the ground, from ש-פ, closeness (Mecklenburg); from Akkadian shepu, foot, a name for the footless serpent (Rabbi Aharon Marcus); its final nun marks it small (Wertheimer), though the Rokeach contradicts himself on its size (Stahl)
 sources:
   - wiaw:7321 "Slithering Serpents and Sea Snakes - Part 1" (2017-07-01) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1
   - wiaw:7341 "Slithering Serpents and Sea Snakes - Part 2" (2017-07-15) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-2
@@ -33,6 +67,20 @@ ground, and *achshuv* is a *hapax* whose identity is unsettled. Avos d'Rabbi
 Nassan lists the seven beside *nachash*, but scribal errors have crept into our
 editions and rendered its own treatment unintelligible; the distinctions below
 come from other sources.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נחש | nachash | snake | the general word; or the snake that can be charmed (Wertheimer) |
+| שרף | saraph | fiery serpent | venom that burns like fire (Ibn Parchon); wingless, but leaps (Rashi) |
+| תנין | tanin | sea serpent | sea serpent (Vilna Gaon) against simply a big fish (Rashi) |
+| צפע | tzefa | viper | so venomous even its dung is poison (Malbim) |
+| צפעוני | tzifoni | viper | an evil snake (Rashi); the same creature as *efeh* (Radak) |
+| אפעה | efeh | completely evil snake | completely evil (Rashi); the female *saraph* (Ibn Parchon); a rattlesnake (Pappenheim) |
+| עכשוב | achshuv | venomous creature | a *hapax*; a snake that spits poison, or perhaps a spider |
+| פתן | peten | asp | the snake charming cannot touch (Wertheimer) |
+| שפיפון | shephiphon | adder | small, its body always on the ground (Mecklenburg); from Akkadian *shepu*, foot (Marcus) |
 
 ## Distinctions
 

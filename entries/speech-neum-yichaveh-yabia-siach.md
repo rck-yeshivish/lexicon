@@ -5,6 +5,23 @@ roots: [נ-א-ם, ח-ו-ה, נ-ב-ע, ש-ו-ח]
 translit: [neum, ne'um, num, nam, namta, neumta, numita, numati, nimati, numasi, nimasi, numeinu, neimah, vayinamu, yichaveh, achaveh, yabia, abiah, mabua, novea, siach, sichah, sicha, yasiach, asichah, lasuach]
 english: [declaration, utterance, oracle, declare, express, pour forth, converse, muse]
 domain: speech
+words:
+  - he: נאם
+    tr: ne'um
+    en: declaration, utterance
+    distinct: used overwhelmingly for the Word of Hashem; a deliberate declaration stressing that what is said is true, from א-ם (Rabbi Shlomo Pappenheim, Radak); an irrevocable decree or oath, even Bilaam's (Peirush HaRokeach, Rabbeinu Efrayim)
+  - he: יחוה
+    tr: yichaveh
+    en: express, declare
+    distinct: speech that gives an idea life by bringing it into the open, or that joins speaker to listener as brothers (Rabbi Shlomo Pappenheim); speech explaining the reasoning behind something (Peirush HaRokeach)
+  - he: יביע
+    tr: yabia
+    en: pour forth, utter
+    distinct: speech flowing up from the depths of the heart like a spring, from ב-ע (Rabbi Shlomo Pappenheim, Ibn Janach, Radak); speaking on and on without stopping, like a spring that never runs dry (Peirush HaRokeach)
+  - he: שיח
+    tr: siach
+    en: converse, muse
+    distinct: stream-of-thought speech, the mind wandering to help the speaker uproot his sorrows, from ס-ח (Rabbi Shlomo Pappenheim); speech about various topics within one conversation (Peirush HaRokeach)
 sources:
   - wiaw:9266 "Balaam's Numa" (2021-06-26) https://articles.ohr.edu/articles/balaams-numa
 authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Siddur HaRokeach, Rabbeinu Efrayim, Sefer HeAruch, Rabbi Gershon Shaul Yom Tov Lipmann Heller, Rabbi Yechezkel Landau, Rabbi Binyamin Mussafia, Ibn Ezra, Abudraham, Dr. Shlomo Mandelkorn, Ernst Daniel Goldschmidt, Oxford English Dictionary]
@@ -25,6 +42,15 @@ to *ach*: **express**, **declare**. *Yabia* is speech welling up from the depths
 like a spring: **pour forth**, **utter**. *Siach* is discursive, wandering
 speech that unburdens the speaker: **converse**, **muse**, **pour out one's
 talk**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נאם | ne'um | declaration, utterance | the Word of Hashem; a declaration stressing its truth (Pappenheim) |
+| יחוה | yichaveh | express, declare | gives an idea life by voicing it (Pappenheim); explains reasoning (*Peirush HaRokeach*) |
+| יביע | yabia | pour forth, utter | wells up from the heart like a spring (Pappenheim); speaks on and on (Rokeach) |
+| שיח | siach | converse, muse | wandering talk that unburdens the speaker (Pappenheim); shifts topics (*Peirush HaRokeach*) |
 
 ## Distinctions
 

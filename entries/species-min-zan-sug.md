@@ -7,7 +7,18 @@ english: [species, kind, type, sort, category, genus]
 domain: nature
 words:
   - he: מין
+    tr: min
+    en: kind, species
     nk: מִין
+    distinct: the Torah's word, a grouping of individuals alike enough to be classed as one kind (Ibn Janach, Radak); things alike but not identical, like Latin species (Shadal); from מ-נ, ordering what counts (Rabbi Shlomo Pappenheim); in logic the species under a sug
+  - he: זן
+    tr: zan
+    en: kind, type
+    distinct: the Aramaic for min, Targum's rendering of every min (Rabbi Eliyahu HaBachur); Late Biblical Hebrew for min (Professor Avi Hurvitz) or an Old Persian loanword (Dr. Menachem Zvi Kaddari); at its three Hebrew appearances the meforshim debate whether it means type at all
+  - he: סוג
+    tr: sug
+    en: genus, category
+    distinct: post-biblical; in the Mishnah a big container, and in logic the parent category holding several minim (Rambam, Ramchal); a conceptual container, from ס-ג, boundary (Rabbi Klein)
 sources:
   - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
 authorities: [Rabbeinu Yonah Ibn Janach, Radak, Shadal, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rav Hirsch, Rav Saadia Gaon, Ibn Ezra, Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, pseudo-Rashi, Ralbag, Targum, Rabbi Yehoshua Steinberg, Ramban, Rabbeinu Nissim of Gerona, Rambam, Rabbi Moshe Ibn Tibbon, Rabbi Shmuel Ibn Tibbon, Ramchal, Professor Avi Hurvitz, Dr. Menachem Zvi Kaddari]
@@ -31,6 +42,14 @@ Ramchal). The Torah's *minim* do not necessarily
 line up with the species of modern botany and zoology, as Rabbi Klein notes; the
 Ran reads the *minim* of the Teivah as the ancestors of today's species, though
 Ramban answers the Teivah's capacity with a miracle instead.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מין | min | kind, species | the Torah's word; individuals alike enough to class together (Ibn Janach, Radak) |
+| זן | zan | kind, type | the Aramaic *min* (Eliyahu HaBachur); its Hebrew sense is debated |
+| סוג | sug | genus, category | post-biblical; the genus above the *min* (Rambam, Ramchal); in the Mishnah a container |
 
 ## Distinctions
 
