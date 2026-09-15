@@ -112,12 +112,15 @@ and tribe.
 
 ### mishenes (משענת)
 A walking stick on which an elderly person can lean (*mishan* means "lean" or
-"rely"): a cane. Wertheimer: also of wood, and necessarily an especially thick
-branch, since a mere twig cannot support a walker. Rabbi Shlomo Pappenheim
-derives *mishan* from the biliteral ש-ע, enjoyment and pleasure, *mishan* being
-the satisfaction one achieves when supported by another, and relates the
-*mishenes* to the same root because elderly people who have trouble walking
-receive much satisfaction from having something to lean on.
+"rely"): a cane.
+
+- Wertheimer: also of wood, and necessarily an especially thick branch, since a
+  mere twig cannot support a walker.
+- Rabbi Shlomo Pappenheim derives *mishan* from the biliteral ש-ע, enjoyment and
+  pleasure, *mishan* being the satisfaction one achieves when supported by
+  another, and relates the *mishenes* to the same root because elderly people
+  who have trouble walking receive much satisfaction from having something to
+  lean on.
 
 ### makel (מקל)
 A rod used for hitting, which in Tanach generally appears with a shepherd who

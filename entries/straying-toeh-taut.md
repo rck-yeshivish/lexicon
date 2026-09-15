@@ -51,33 +51,38 @@ the right one.
 ### taah with a tav (תעה)
 Words from this root appear some fifty times in Tanach. In the daily *Uva
 LeTzion* we thank Hashem who created us for His honor and separated us from
-those who are lost, *to'im*. Rabbi Eliyahu HaBachur (in his glosses to Radak's
-*Sefer HaShorashim*, as cited by Rabbi Broide): the tav word is a person who
-strayed off the path and ended up lost, as against the tet word, which is a
-mistake in heart or intellect. Rabbi Avraham Aharon Broide (circa early 19th
-century, of Vilna and later Rav of Strabin near Slutzk; *Bayis HaGadol* to
-Pirkei DeRabbi Eliezer ch. 30) rejects that distinction: even the tav word
-means one who makes a mistake, and he cites Tehillim 95:10 and Hoshea 4:12 to
-that effect. He bolsters this by noting that Radak himself, in *Sefer
-HaShorashim* s.v. תף, explicitly writes that *ta'ah* with a tav and with a tet
-are the same word. The interchange of the two spellings was already noted by
-Radak's father, Rabbi Yosef Kimchi (1105 to 1170), in *Sefer Zikaron*, and by
-Rabbi Shlomo Ephraim Lenchitz (1550 to 1619) in *Kli Yakar* to Bamidbar 5:12.
+those who are lost, *to'im*.
+
+- Rabbi Eliyahu HaBachur (in his glosses to Radak's *Sefer HaShorashim*, as
+  cited by Rabbi Broide): the tav word is a person who strayed off the path and
+  ended up lost, as against the tet word, which is a mistake in heart or
+  intellect.
+- Rabbi Avraham Aharon Broide (circa early 19th century, of Vilna and later Rav
+  of Strabin near Slutzk; *Bayis HaGadol* to Pirkei DeRabbi Eliezer ch. 30)
+  rejects that distinction: even the tav word means one who makes a mistake, and
+  he cites Tehillim 95:10 and Hoshea 4:12 to that effect. He bolsters this by
+  noting that Radak himself, in *Sefer HaShorashim* s.v. תף, explicitly writes
+  that *ta'ah* with a tav and with a tet are the same word. The interchange of
+  the two spellings was already noted by Radak's father, Rabbi Yosef Kimchi
+  (1105 to 1170), in *Sefer Zikaron*, and by Rabbi Shlomo Ephraim Lenchitz (1550
+  to 1619) in *Kli Yakar* to Bamidbar 5:12.
 
 ### taah with a tet (טעה)
 In Tanach a cognate is spelled with a tet in only one place, Yechezkel 13:10,
 where the false prophets *hit'u es ami*, and there the sense is ambiguous and
-could fit both meanings: they led My people astray, or they led My people into
-a mistake. Radak yet again writes that the tav and tet words both mean the same
-thing, the former being the preferred orthography in Scripture and the latter
-in Rabbinic sources. In Rabbinic literature *ta'us* always refers to a mistake.
-Rabbi Yaakov Zev Lev of Sanhedria HaMurchevet (*Me'as Tzari*) reconciles the
-difference of opinions: in Hebrew there is a difference between the tav and tet
-words, but in Aramaic there is only one word, spelled with a tet, carrying both
-meanings. Rabbi Klein adds that Rabbi Eliyahu HaBachur himself already
-acknowledged this in his *Meturgaman*, where he correctly asserts that wherever
-cognates of the tav word appear in Tanach, the Targumim replace the tav with a
-tet.
+could fit both meanings: they led My people astray, or they led My people into a
+mistake.
+
+- Radak yet again writes that the tav and tet words both mean the same thing,
+  the former being the preferred orthography in Scripture and the latter in
+  Rabbinic sources. In Rabbinic literature *ta'us* always refers to a mistake.
+- Rabbi Yaakov Zev Lev of Sanhedria HaMurchevet (*Me'as Tzari*) reconciles the
+  difference of opinions: in Hebrew there is a difference between the tav and
+  tet words, but in Aramaic there is only one word, spelled with a tet, carrying
+  both meanings. Rabbi Klein adds that Rabbi Eliyahu HaBachur himself already
+  acknowledged this in his *Meturgaman*, where he correctly asserts that
+  wherever cognates of the tav word appear in Tanach, the Targumim replace the
+  tav with a tet.
 
 ### How the wanderer is lost (Rabbi Wertheimer)
 Rabbi Shlomo Aharon Wertheimer (1866 to 1935) also disagrees with Rabbi

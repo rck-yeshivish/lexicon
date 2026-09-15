@@ -97,23 +97,25 @@ coin *shelilah*/*shelili* for "negative," because plundered property is
 really exists.
 
 ### baz, bizah (בז, בזה)
-The Vilna Gaon (*Biur HaGra* to Yeshayahu 10:6) writes that plunder typically
-occurs in stages: first the valuables are taken, and those are *shalal*; then
-even the less important items, and those are *bizah*, a word related to
-*bizayon* (disgrace, disparagement) because they are not as prized as the
-first; finally everything left is sometimes taken away, so that the enemy is
-totally bereft. The Gra also explains (*Biur HaGra* to Divrei HaYamim II 14:13)
-that *bizah* is the non-living booty, *shevi* specifically the living people or
-animals taken in war. Rashi (to Bamidbar 31:11): *baz* is movable property other
-than jewelry.
+- The Vilna Gaon (*Biur HaGra* to Yeshayahu 10:6) writes that plunder typically
+  occurs in stages: first the valuables are taken, and those are *shalal*; then
+  even the less important items, and those are *bizah*, a word related to
+  *bizayon* (disgrace, disparagement) because they are not as prized as the
+  first; finally everything left is sometimes taken away, so that the enemy is
+  totally bereft.
+- The Gra also explains (*Biur HaGra* to Divrei HaYamim II 14:13) that *bizah*
+  is the non-living booty, *shevi* specifically the living people or animals
+  taken in war.
+- Rashi (to Bamidbar 31:11): *baz* is movable property other than jewelry.
 
-Rabbi Pappenheim puts *baz*/*bizah* in the two-letter ב-ז, "considered
-unimportant," and gives three ways it fits: the plunderers degrade what they
-take by taking it for free, as though it were not worth paying for; having paid
-nothing they handle it callously; and the victims themselves, trying to save
-their lives, seem not to care about what they leave behind. Menachem Ibn Saruk
-agrees with the two-letter root; Ibn Janach and Radak assign ב-ז-ז instead,
-which differs from ב-ז-ה, the verb for disparaging.
+- Rabbi Pappenheim puts *baz*/*bizah* in the two-letter ב-ז, "considered
+  unimportant," and gives three ways it fits: the plunderers degrade what they
+  take by taking it for free, as though it were not worth paying for; having
+  paid nothing they handle it callously; and the victims themselves, trying to
+  save their lives, seem not to care about what they leave behind.
+- Menachem Ibn Saruk agrees with the two-letter root.
+- Ibn Janach and Radak assign ב-ז-ז instead, which differs from ב-ז-ה, the verb
+  for disparaging.
 
 ### malkoach (מלקוח) and shevi (שבי)
 - Rashi (to Bamidbar 31:11): *malkoach* is living booty, people and animals.

@@ -72,11 +72,13 @@ of stones (Ibn Janach, Radak).
   of Worms) reverses them: *regimah* is the throwing, *sekilah* the resulting
   pile of stones.
 
-**Why Yehoshua 7:25 uses both on Achan.** Rashi (see also Targum and Radak
-there): Achan himself received *regimah*, the animals he took *sekilah*. Yashar:
-*regimah* comes first because it denotes killing by stoning, which is how Achan
-died; then *sekilah*, throwing stones without necessarily killing, at his corpse
-and ashes once he was dead and burnt, to disgrace him further.
+**Why Yehoshua 7:25 uses both on Achan.**
+
+- Rashi (see also Targum and Radak there): Achan himself received *regimah*, the
+  animals he took *sekilah*.
+- Yashar: *regimah* comes first because it denotes killing by stoning, which is
+  how Achan died; then *sekilah*, throwing stones without necessarily killing,
+  at his corpse and ashes once he was dead and burnt, to disgrace him further.
 
 **Whether the two senses of ס-ק-ל are one root.**
 - Menachem Ibn Saruk (*Machberes Menachem*) lists "stoning" and "clearing" as

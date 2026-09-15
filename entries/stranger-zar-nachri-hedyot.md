@@ -57,14 +57,15 @@ the amateur against the craftsman, the *Kohen hedyot* against the Kohen Gadol.
 ## Distinctions
 
 ### zar (זר)
-Ibn Ezra (long commentary to Shemos 21:2): *zar* implies someone of the
-speaker's own nation but a different tribe within it. The same understanding can
-be gleaned from the Vilna Gaon's comments to Mishlei 27:2. Malbim: a *zar* is
-from the familiar locality but counts as strange with respect to some particular
-behavior or habit, strange in one way only, while the *nachri* is strange in
-many ways at once. (Rabbi Klein adds an aside: he used to
-think English *bizarre* was related to *zar*, but the *Oxford English
-Dictionary* feels otherwise.)
+- Ibn Ezra (long commentary to Shemos 21:2): *zar* implies someone of the
+  speaker's own nation but a different tribe within it. The same understanding
+  can be gleaned from the Vilna Gaon's comments to Mishlei 27:2.
+- Malbim: a *zar* is from the familiar locality but counts as strange with
+  respect to some particular behavior or habit, strange in one way only, while
+  the *nachri* is strange in many ways at once.
+
+(Rabbi Klein adds an aside: he used to think English *bizarre* was related to
+*zar*, but the *Oxford English Dictionary* feels otherwise.)
 
 Malbim's own illustrations carry the point. A non-Kohen is a *zar* toward
 terumah and the korbanos he may not eat (Vayikra 22:10, 22:12-13), yet he is
@@ -88,10 +89,12 @@ two-letter ז-ר, "estrangement, disconnection": the stranger is cut off from th
 society he finds himself in.
 
 ### nachri (נכרי)
-Ibn Ezra: from an entirely different nation. Rabbi Shlomo Aharon Wertheimer
-(1866 to 1935) points out that *nachri* is in several places used to mean the
-opposite of a relative (Bereishis 31:15, Devarim 23:21). Malbim: a complete
-foreigner, from another land and another people, strange in many ways at once.
+- Ibn Ezra: from an entirely different nation.
+- Rabbi Shlomo Aharon Wertheimer (1866 to 1935) points out that *nachri* is in
+  several places used to mean the opposite of a relative (Bereishis 31:15,
+  Devarim 23:21).
+- Malbim: a complete foreigner, from another land and another people, strange in
+  many ways at once.
 
 Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865): the root נ-כ-ר bears opposite
 senses, "recognizing" (*makir*, *lehakir*) and "not recognizing" (*nachri*), and
@@ -107,12 +110,14 @@ disconnection from the society around him. One and the same man can be called
 both, depending which aspect is in view.
 
 Mishlei (2:16, 5:20, 7:5) likens foreign wisdoms to a *zarah* and a *nachriah*.
-*Sefer Chassidim* 619: the *nachriah* is a non-Jewish woman, the *zarah* a
-Jewish one. Malbim reads the two as two kinds of wisdom: the *zarah* is a
-discipline outside Torah that a man may nonetheless press into Torah's service,
-as he could marry that woman were the procedure right; the *nachriah* is a
-wisdom that can never enhance Torah, as a Jew may never marry a non-Jewish
-woman, its heresies staying irreconcilable.
+
+- *Sefer Chassidim* 619: the *nachriah* is a non-Jewish woman, the *zarah* a
+  Jewish one.
+- Malbim reads the two as two kinds of wisdom: the *zarah* is a discipline
+  outside Torah that a man may nonetheless press into Torah's service, as he
+  could marry that woman were the procedure right; the *nachriah* is a wisdom
+  that can never enhance Torah, as a Jew may never marry a non-Jewish woman, its
+  heresies staying irreconcilable.
 
 ### chiloni (חילוני)
 The Targumim often render Hebrew *zar* into Aramaic as *chiloni* (Onkelos to

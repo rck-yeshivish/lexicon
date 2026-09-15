@@ -80,19 +80,24 @@ keeps its own connotation in most, not all, of its appearances.
   explicitly follows him that *chasach* names an impediment from outside the
   actor.
 
-**Mana: from within or from outside.** Grayever: *mana* is stopping by conscious
-decision, not from inability. Wertheimer: willful and total. Pappenheim: *mana*
-means stopping what one is supposed to be doing, withholding what ought not be
-withheld; and, like *chasach*, it indicates outside forces that stop a person
-from a course of action.
+**Mana: from within or from outside.**
 
-**Kala: purpose served, or force applied.** Grayever: it stops because the goal
-is reached or the reason for starting no longer applies. His examples are the
-two appearances of *vayikaleh* (Bereishis 8:2, Shemos 36:6) and Tehillim 40:12.
-Wertheimer agrees. Malbim offers a slightly different take: it stops against
-the nature of the person or thing, from *kele*, a jail, forcibly detained; the
-nature of rain is to fall, so when it stopped at the Mabul's end it was as
-though Hashem had detained it (Bereishis 8:2).
+- Grayever: *mana* is stopping by conscious decision, not from inability.
+- Wertheimer: willful and total.
+- Pappenheim: *mana* means stopping what one is supposed to be doing,
+  withholding what ought not be withheld; and, like *chasach*, it indicates
+  outside forces that stop a person from a course of action.
+
+**Kala: purpose served, or force applied.**
+
+- Grayever: it stops because the goal is reached or the reason for starting no
+  longer applies. His examples are the two appearances of *vayikaleh* (Bereishis
+  8:2, Shemos 36:6) and Tehillim 40:12.
+- Wertheimer agrees.
+- Malbim offers a slightly different take: it stops against the nature of the
+  person or thing, from *kele*, a jail, forcibly detained; the nature of rain is
+  to fall, so when it stopped at the Mabul's end it was as though Hashem had
+  detained it (Bereishis 8:2).
 
 **Chadal: unable, or unwilling.**
 - Grayever grounds it in inability, whether from nature or from law.
@@ -113,34 +118,40 @@ says, and the Targumim do not keep them: Onkelos renders *chasach* as *mana*
 (Bereishis 18:11, 41:49; Devarim 15:11) as *pasak*, literally to split or cut;
 elsewhere he leaves *kala* (Bereishis 8:2) and *mana* (Bereishis 30:2; Bamidbar
 24:11) in their Hebrew forms. Rashi at Bereishis 18:11, on Sarah's cycles having
-*chadal*, follows Onkelos and glosses *pasak*. Rabbi Yaakov Toledano of Meknes
-(1690 to 1771) explains that Rashi was troubled: *chadal* means a person
-willfully deciding to stop, and blood cannot decide, so Rashi supplied *pasak*,
-which an insentient thing can do. Rabbi Klein offers a simpler reading, that
-Rashi merely gave Onkelos' word and was not really troubled by it. Rabbi Rafael
-Binyamin Posen (1942 to 2016) notes that Onkelos renders *chadal* three times in
-the Plague of Hail with *mana* but at Sarah with *pasak*, and postulates two
-kinds of *chadal*: of an ongoing process, rendered *pasak* (Sarah), and of a
-one-time event, rendered *mana*, as at the Tower (Bereishis 11:8) and the hail.
-He notes that this consistency holds in Onkelos only, not in the so-called
-Targum Yonasan.
+*chadal*, follows Onkelos and glosses *pasak*.
+
+- Rabbi Yaakov Toledano of Meknes (1690 to 1771) explains that Rashi was
+  troubled: *chadal* means a person willfully deciding to stop, and blood cannot
+  decide, so Rashi supplied *pasak*, which an insentient thing can do.
+- Rabbi Klein offers a simpler reading, that Rashi merely gave Onkelos' word and
+  was not really troubled by it.
+- Rabbi Rafael Binyamin Posen (1942 to 2016) notes that Onkelos renders *chadal*
+  three times in the Plague of Hail with *mana* but at Sarah with *pasak*, and
+  postulates two kinds of *chadal*: of an ongoing process, rendered *pasak*
+  (Sarah), and of a one-time event, rendered *mana*, as at the Tower (Bereishis
+  11:8) and the hail. He notes that this consistency holds in Onkelos only, not
+  in the so-called Targum Yonasan.
 
 ## Distinctions
 
 ### chadal (חדל) and mana (מנע)
 Moshe to Pharaoh: *v'hakolos yechdalun*, the sounds will cease (Shemos 9:29),
 and so they do (9:33), and Pharaoh sees they have ceased and hardens his heart
-(9:34). Rav Hirsch (to Bereishis 11:8, Tehillim 17:14) explains that *chadal*
-and the Mishnaic *chaludah*, rust, from ח-ל-ד, the root of *cheled*, the world,
-both highlight frailty: no matter how active a man is, he will eventually wear
-down and be forced to stop, as even metals, typically the strongest materials,
-rust after prolonged exposure to the elements. For *mana*, Grayever's example: *mena raglecha minesivasam*, withhold
-your foot from their paths (Mishlei 1:15), a conscious decision not to keep
-company with the wicked. Rabbi Shlomo Pappenheim derives *mana* from the
-biliteral נ-ע, movement (as in *tenuah*), on his theory that in many roots an
-initial mem inverts the two-letter root that follows: ח-ק engrave against מחק
-erase, ל-צ scorn against מליץ defend, ר-ד rule against מרד rebel, so *mana* is
-the opposite of motion. Wertheimer cites Shmuel II 13:13 for its willful force.
+(9:34).
+
+- Rav Hirsch (to Bereishis 11:8, Tehillim 17:14) explains that *chadal* and the
+  Mishnaic *chaludah*, rust, from ח-ל-ד, the root of *cheled*, the world, both
+  highlight frailty: no matter how active a man is, he will eventually wear down
+  and be forced to stop, as even metals, typically the strongest materials, rust
+  after prolonged exposure to the elements.
+- For *mana*, Grayever's example: *mena raglecha minesivasam*, withhold your
+  foot from their paths (Mishlei 1:15), a conscious decision not to keep company
+  with the wicked.
+- Rabbi Shlomo Pappenheim derives *mana* from the biliteral נ-ע, movement (as in
+  *tenuah*), on his theory that in many roots an initial mem inverts the
+  two-letter root that follows: ח-ק engrave against מחק erase, ל-צ scorn against
+  מליץ defend, ר-ד rule against מרד rebel, so *mana* is the opposite of motion.
+- Wertheimer cites Shmuel II 13:13 for its willful force.
 
 ### kala (כלא)
 Twice in the form *vayikaleh*: the rains ceased from the heavens at the Mabul's

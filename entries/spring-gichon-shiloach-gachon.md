@@ -70,21 +70,25 @@ to Melachim I 1:33 renders Gichon as *Shilucha*, a variation of Shiloach,
 possibly, Rabbi Klein suggests, to convey this very notion (and Targum to
 Yeshayahu 8:6 renders *Mei Shiloach* as *Mei Shilucha*).
 
-Two rivers or one: Rashi (to Kerisus 5b) says the Gichon of the coronation was a
-small wellspring near Yerushalayim, not the great Gichon that flows from Eden;
-on Chizkiyahu's stopping of the Gichon (to Berachos 10b) he stresses again that
-it was near Yerushalayim and not the Gichon of Bereishis, adducing Targum's
-*Shilucha* (to Melachim I 1:33) in support. Ibn Ezra (to Shemos 2:11), following
-Rav Saadia Gaon (882 to 942), identifies the Gichon of Bereishis with the one
-near Yerushalayim, and the Ramah (Rabbi Meir Abulafia, 1170 to 1244) is cited by
-*HaKosev* (to *Ein Yaakov*, Horayos 12a) as saying the same. Rabbi Avraham
-Maimuni disagrees with Ibn Ezra and sides with Rashi that they are two discrete
-bodies of water: in some way we are no longer privy to, the spring outside
-Yerushalayim resembled the great river, and so was given its name. He also
-writes that in his time the spring was called *Brachah*; Rabbi Klein is unsure
-whether Maimuni meant *Brachah*, "blessing," or *Breichah*, "pool" (perhaps what is
-now called Chizkiyahu's Pool), and Rabbi Moshe Maimon of Jackson, NJ, in his
-glosses to Rabbi Avraham Maimuni's commentary, presumes the former.
+Two rivers or one:
+
+- Rashi (to Kerisus 5b) says the Gichon of the coronation was a small wellspring
+  near Yerushalayim, not the great Gichon that flows from Eden; on Chizkiyahu's
+  stopping of the Gichon (to Berachos 10b) he stresses again that it was near
+  Yerushalayim and not the Gichon of Bereishis, adducing Targum's *Shilucha* (to
+  Melachim I 1:33) in support.
+- Ibn Ezra (to Shemos 2:11), following Rav Saadia Gaon (882 to 942), identifies
+  the Gichon of Bereishis with the one near Yerushalayim, and the Ramah (Rabbi
+  Meir Abulafia, 1170 to 1244) is cited by *HaKosev* (to *Ein Yaakov*, Horayos
+  12a) as saying the same.
+- Rabbi Avraham Maimuni disagrees with Ibn Ezra and sides with Rashi that they
+  are two discrete bodies of water: in some way we are no longer privy to, the
+  spring outside Yerushalayim resembled the great river, and so was given its
+  name. He also writes that in his time the spring was called *Brachah*; Rabbi
+  Klein is unsure whether Maimuni meant *Brachah*, "blessing," or *Breichah*,
+  "pool" (perhaps what is now called Chizkiyahu's Pool), and Rabbi Moshe Maimon
+  of Jackson, NJ, in his glosses to Rabbi Avraham Maimuni's commentary, presumes
+  the former.
 
 Chizkiyahu blocked the waters so that the Assyrian army besieging Yerushalayim
 would not have easy access to water (Divrei HaYamim II 32:4). According to the
@@ -126,30 +130,37 @@ give *Silwan*, the name of the neighborhood just outside the Old City walls.
 
 Halachically, a *get* must identify the city where it was written by naming the
 nearest river, and the prevailing custom for *gittin* written in Yerushalayim is
-to name the Shiloach. Rabbi Moshe Ibn Chaviv (1654 to 1696; *Get Pashut*, Even
-HaEzer 128:37) explains that although Tanach more often calls it Gichon, we use
-Shiloach so there is no confusion with the great Gichon of Eden (following Rashi
-that they are two rivers). Rabbi Yoel Teitelbaum of Satmar (1887 to 1979;
-*Divrei Yoel*, Even HaEzer 125) objects that this is not enough, since a river
-with two names requires both in the *get* (see Rama, Even HaEzer 128:3), and
-prefers to answer that since no one today calls it Gichon, that name has been
-halachically uprooted and Shiloach is its only name.
+to name the Shiloach.
+
+- Rabbi Moshe Ibn Chaviv (1654 to 1696; *Get Pashut*, Even HaEzer 128:37)
+  explains that although Tanach more often calls it Gichon, we use Shiloach so
+  there is no confusion with the great Gichon of Eden (following Rashi that they
+  are two rivers).
+- Rabbi Yoel Teitelbaum of Satmar (1887 to 1979; *Divrei Yoel*, Even HaEzer 125)
+  objects that this is not enough, since a river with two names requires both in
+  the *get* (see Rama, Even HaEzer 128:3), and prefers to answer that since no
+  one today calls it Gichon, that name has been halachically uprooted and
+  Shiloach is its only name.
 
 ### gachon (גחון)
 The serpent's belly, in the curse "upon your belly shall you go" (Bereishis
-3:14). Rav Hirsch (there) ties *gachon* to crawling, progress made not in a
-straight line but by squirming along a twisted path, and suggests that perhaps
-this notion of a twisted path is the basis of the name Gichon. Rabbi Shlomo
-Pappenheim offers a similar explanation, tying both *gachon* and *Gichon* to the
-biliteral ג-ח. Both relate this to the birth sense of the root: squeezing
-through a narrow opening takes bending and crawling, as a snake crawls.
+3:14).
+
+- Rav Hirsch (there) ties *gachon* to crawling, progress made not in a straight
+  line but by squirming along a twisted path, and suggests that perhaps this
+  notion of a twisted path is the basis of the name Gichon.
+- Rabbi Shlomo Pappenheim offers a similar explanation, tying both *gachon* and
+  *Gichon* to the biliteral ג-ח.
+
+Both relate this to the birth sense of the root: squeezing through a narrow
+opening takes bending and crawling, as a snake crawls.
 
 ### negichah (נגיחה)
-Rabbi Pappenheim derives "goring" from the same biliteral ג-ח: a horned animal
-cannot gore without bending its body and neck like a snake so the horns reach
-the mark. Rashi (to Bereishis 2:13) had already linked the name Gichon to
-*negichah*, as though the river's flow resembled the outward jab of a goring
-ox.
+- Rabbi Pappenheim derives "goring" from the same biliteral ג-ח: a horned animal
+  cannot gore without bending its body and neck like a snake so the horns reach
+  the mark.
+- Rashi (to Bereishis 2:13) had already linked the name Gichon to *negichah*, as
+  though the river's flow resembled the outward jab of a goring ox.
 
 ## Rendering guidance
 

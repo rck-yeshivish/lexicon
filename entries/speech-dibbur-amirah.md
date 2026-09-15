@@ -160,22 +160,24 @@ Why *Asarah Maamaros* for creation (*Avos* 5:1) and *Aseres HaDibros* at Sinai?
   speech expressing the Torah is *dibbur*, and the words creating the world
   *amirah*.
 
-Malbim's two approaches feed the same question. On the first (*amirah* absolute,
-*dibbur* a proposition), it seems to Rabbi Klein that the words that made the
-world, and so the rules of nature, must have been absolute and forceful, since
-only Hashem can break them, while the Decalogue connotes a more malleable reality,
-some prohibitions being legitimately suspendable in certain circumstances.
-Rabbi Moshe Feinstein (1895 to 1986) uses the exact opposite reasoning to
-explain why *tzitzis*, not absolutely obligatory but
-essentially optional, opens with *vayomer* rather than the usual *vayedaber*
-(Bamidbar 15:37). On Malbim's second approach, with Jaffa-Ashkenazi, Rabbi Klein
-argues that verbosity is a rhetorical device for making sure an audience
-understands, so at creation, with no intended audience, Hashem could be as brief
-as He wished, just the headlines, hence *maamaros*, whereas at Sinai He
-sacrificed brevity for clarity, hence *dibros*. Following Mecklenburg's
-"switching" logic, Rabbi Klein adds that the sayings that made the world fit an
-*amirah* verb because they were the ultimate change in reality, from nothing to
-something.
+Malbim's two approaches feed the same question.
+
+- On the first (*amirah* absolute, *dibbur* a proposition), it seems to Rabbi
+  Klein that the words that made the world, and so the rules of nature, must
+  have been absolute and forceful, since only Hashem can break them, while the
+  Decalogue connotes a more malleable reality, some prohibitions being
+  legitimately suspendable in certain circumstances. Rabbi Moshe Feinstein (1895
+  to 1986) uses the exact opposite reasoning to explain why *tzitzis*, not
+  absolutely obligatory but essentially optional, opens with *vayomer* rather
+  than the usual *vayedaber* (Bamidbar 15:37).
+- On Malbim's second approach, with Jaffa-Ashkenazi, Rabbi Klein argues that
+  verbosity is a rhetorical device for making sure an audience understands, so
+  at creation, with no intended audience, Hashem could be as brief as He wished,
+  just the headlines, hence *maamaros*, whereas at Sinai He sacrificed brevity
+  for clarity, hence *dibros*.
+- Following Mecklenburg's "switching" logic, Rabbi Klein adds that the sayings
+  that made the world fit an *amirah* verb because they were the ultimate change
+  in reality, from nothing to something.
 
 Rabbi Klein's own answer is psychological: when a person feels the weight of
 living up to expectations, those expectations generally feel as though they

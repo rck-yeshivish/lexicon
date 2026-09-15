@@ -69,39 +69,42 @@ they betrayed the mission and gathered the Land's perceived disadvantages
 instead. Because they were commissioned to look for the good, Bamidbar always
 describes them and their actions as *tarim*.
 
-Conventional linguists trace "tourist" to Old French *tourner*, "to turn"; Dr.
-Isaac Elchanan Mozeson, an unconventional linguist, finds its origin in Hebrew
-*tor*, and Rabbi Klein finds the likeness striking, *tarim* being, so to speak, "tourists" who
-explore a land for positive information. David Curwin notes a conceptual link
-between *tor*, "scout," and *tor*, "dove": doves first appear in Tanach when
-Noach sends one from the Teivah to explore the land, expected to report
-something positive.
+- Conventional linguists trace "tourist" to Old French *tourner*, "to turn".
+- Dr. Isaac Elchanan Mozeson, an unconventional linguist, finds its origin in
+  Hebrew *tor*, and Rabbi Klein finds the likeness striking, *tarim* being, so
+  to speak, "tourists" who explore a land for positive information.
+- David Curwin notes a conceptual link between *tor*, "scout," and *tor*,
+  "dove": doves first appear in Tanach when Noach sends one from the Teivah to
+  explore the land, expected to report something positive.
 
 ### leragel (רגל) and meraglim (מרגלים)
 The search for weakness and vulnerability (Mecklenburg). Devarim, which Moshe
 spoke about forty years later, describes the men's actions with other words:
 *veyachperu lanu es haaretz* (Devarim 1:22) and *vayeraglu osah* (Devarim 1:24).
-The first is the verb of digging, the deliberate mining of damning information,
-and Rabbi Mecklenburg points out that *chafirah*, digging, is related to
-*cherpah*, disgrace: here, digging for negative information about the Land.
-Rav Hirsch understands *chafirah* as digging so deep that one reaches the depths
-of the earth and can bring up the spring waters embedded there. Beyond that
-concrete sense the word also means to scout, spy or investigate: as digging deep
-retrieves the waters at the planet's nadir, spying or investigating retrieves
-information otherwise hidden from view.
-Rabbi Klein adds that perhaps *leragel* derives from
-*regel*, the foot, the body's lowest part, and so fits a search for a place's
-lowest features.
+
+- The first is the verb of digging, the deliberate mining of damning
+  information, and Rabbi Mecklenburg points out that *chafirah*, digging, is
+  related to *cherpah*, disgrace: here, digging for negative information about
+  the Land.
+- Rav Hirsch understands *chafirah* as digging so deep that one reaches the
+  depths of the earth and can bring up the spring waters embedded there. Beyond
+  that concrete sense the word also means to scout, spy or investigate: as
+  digging deep retrieves the waters at the planet's nadir, spying or
+  investigating retrieves information otherwise hidden from view.
+- Rabbi Klein adds that perhaps *leragel* derives from *regel*, the foot, the
+  body's lowest part, and so fits a search for a place's lowest features.
 
 The noun *meraglim* never describes Moshe's men in Tanach; it is drawn from the
 Devarim verb. It does appear when Yosef, as viceroy, accuses his brothers of
 being spies, seven times and in a decidedly negative context (Bereishis 42), and
 of the two unnamed men Yehoshua sent to scout the vulnerabilities of Yericho
 (Yehoshua 2:1); these and the other instances denote people sent to expose an
-enemy's weaknesses. The popular Midrashic understanding is that Yehoshua's two
-men were Kalev and Pinchas; Pseudo-Philo identifies them as Kenaz and
-Seenamias, the sons of Kalev; another Midrash says they were Peretz and Zerach,
-Yehudah's twin sons.
+enemy's weaknesses.
+
+- The popular Midrashic understanding is that Yehoshua's two men were Kalev and
+  Pinchas.
+- Pseudo-Philo identifies them as Kenaz and Seenamias, the sons of Kalev;
+  another Midrash says they were Peretz and Zerach, Yehudah's twin sons.
 
 ## Rendering guidance
 

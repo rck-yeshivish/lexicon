@@ -46,11 +46,14 @@ Land" on the plain reading, "the Land of the Deer" in the derashos of Chazal.
 
 ## Where the authorities disagree
 
-**What tzvi means at its core.** Rashi (to Yeshayahu 4:2): beauty. Radak (there,
-and to Yeshayahu 13:19): desire and glory, Bavel being the *tzvi* of kingdoms as
-the most desired place and the pride of the Chaldeans. At Yechezkel 7:20,
-where the people took the "*tzvi* of Hashem's ornament,"
-the Beis HaMikdash, and turned it into an abominable place of idolatry: Targum
+**What tzvi means at its core.**
+
+- Rashi (to Yeshayahu 4:2): beauty.
+- Radak (there, and to Yeshayahu 13:19): desire and glory, Bavel being the
+  *tzvi* of kingdoms as the most desired place and the pride of the Chaldeans.
+
+At Yechezkel 7:20, where the people took the "*tzvi* of Hashem's ornament," the
+Beis HaMikdash, and turned it into an abominable place of idolatry: Targum
 renders *tzvi* there as *chedvah*, "delight," and Radak as *pe'er* and *yofi*.
 At Yirmiyahu 3:19, the "heritage of *tzvi*," Targum again has "delight" and
 Radak an expression of desire.
@@ -72,11 +75,14 @@ of all lands (Yechezkel 20:6).
   its produce ripens quickly (*Shemos Rabbah* §32:2).
 
 **What tzivyon means.** Rosh Hashanah 11a and Chullin 60a: Hashem created each
-element of nature according to its *tzivyon*. Rashi and Rabbeinu Gershom: its
-will, having been asked and having consented. Alternatively, the Ritva follows
-Rabbi Nosson of Rome's *Sefer HaAruch*: an expression of beauty, each element of
-creation fashioned according to its most beautiful form. (In Modern Hebrew
-*tzivyon* means a thing's "nature" or "character.")
+element of nature according to its *tzivyon*.
+
+- Rashi and Rabbeinu Gershom: its will, having been asked and having consented.
+- Alternatively, the Ritva follows Rabbi Nosson of Rome's *Sefer HaAruch*: an
+  expression of beauty, each element of creation fashioned according to its most
+  beautiful form.
+
+(In Modern Hebrew *tzivyon* means a thing's "nature" or "character.")
 
 ## Distinctions
 
@@ -107,26 +113,29 @@ In the switch from Hebrew to Aramaic the *tzadi* commonly transforms into a
 means "good," goodness being something both desirable and beautiful.
 
 ### the two-letter root צ-ב
-Rabbi Shlomo Pappenheim takes the root as "standing" (Bereishis 24:13; Shemos
-2:4; Devarim 29:9). *Yatziv* stands on established bases; *tzvi* as desire is
-what remains in a man's thoughts as though constantly standing before him. He derives with these:
-*matzeivah*, a monument erected to mark a tomb or a cultic place of idolatry;
-*tzava*, a standing army ready to take orders, as against a more haphazard
-militia that has to be assembled; *tzavah*, the act of bloating (Bamidbar
-5:21-22), since something swollen and distended is less likely to move from its
-place and will rather remain standing there; *tzav*, the turtle of Vayikra
-11:29, whose large shell makes it appear bloated; and *tzav*, the covered wagon
-of Bamidbar 7:3 and Yeshayahu 66:20, whose shape resembles the turtle (see also
-*Bamidbar Rabbah* §12:17 on why the wagons are called *tzav*). The Aramaic *tzva*
-appears in Daniel in the sense of "wishes" or "wants"; Rabbi Eliyahu HaBachur
-(1469 to 1549), also known as Elias Levita, writes in *Meturgaman* that *tzva*
-means *emes v'yatziv*, "true and well-grounded"; he also explains *tamrukei*, "cosmetics" (Esther 2:3-12),
-which Aramaic renders *tzavhata*, as an expression of beauty and glory. *Tzava*
-itself, colloquially "army," literally means "legion," a gathering of people.
-Rabbi Chaim Friedlander (1923 to 1986) and Rav Shimshon Raphael Hirsch (1808 to
-1888) connect it to wanting with the same idea: any body of people can be said
-to be joined together if and only if they share one want; unite for a common goal and they become one army, otherwise
-they are a hodgepodge of unrelated individuals.
+- Rabbi Shlomo Pappenheim takes the root as "standing" (Bereishis 24:13; Shemos
+  2:4; Devarim 29:9). *Yatziv* stands on established bases; *tzvi* as desire is
+  what remains in a man's thoughts as though constantly standing before him. He
+  derives with these: *matzeivah*, a monument erected to mark a tomb or a cultic
+  place of idolatry; *tzava*, a standing army ready to take orders, as against a
+  more haphazard militia that has to be assembled; *tzavah*, the act of bloating
+  (Bamidbar 5:21-22), since something swollen and distended is less likely to
+  move from its place and will rather remain standing there; *tzav*, the turtle
+  of Vayikra 11:29, whose large shell makes it appear bloated; and *tzav*, the
+  covered wagon of Bamidbar 7:3 and Yeshayahu 66:20, whose shape resembles the
+  turtle (see also *Bamidbar Rabbah* §12:17 on why the wagons are called
+  *tzav*).
+- The Aramaic *tzva* appears in Daniel in the sense of "wishes" or "wants";
+  Rabbi Eliyahu HaBachur (1469 to 1549), also known as Elias Levita, writes in
+  *Meturgaman* that *tzva* means *emes v'yatziv*, "true and well-grounded"; he
+  also explains *tamrukei*, "cosmetics" (Esther 2:3-12), which Aramaic renders
+  *tzavhata*, as an expression of beauty and glory.
+- *Tzava* itself, colloquially "army," literally means "legion," a gathering of
+  people. Rabbi Chaim Friedlander (1923 to 1986) and Rav Shimshon Raphael Hirsch
+  (1808 to 1888) connect it to wanting with the same idea: any body of people
+  can be said to be joined together if and only if they share one want; unite
+  for a common goal and they become one army, otherwise they are a hodgepodge of
+  unrelated individuals.
 
 ### the Arabic cognate and sababa
 The modern Hebrew slang *sababa*, which Rabbi Klein calls untranslatable, is
