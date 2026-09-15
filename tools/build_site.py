@@ -1229,23 +1229,23 @@ function wire(){
     ac.innerHTML = `<div class="ac-cap">${cap}</div>` + list.map((w,i) => {
       const E = ent(w), tr = w.t ? `<span class="tr">${esc(w.t)}</span>` : "";
       const others = group(w).filter(x => x.k !== w.k);
+      // Every row, the best match included, shows the words it is set against
+      // rather than the start of its distinction: a definition in the dropdown
+      // read as a translation, and the page is where the distinction lives.
+      const vs = others.length
+        ? `vs. ${others.slice(0,3).map(heb).join(", ")}${others.length > 3 ? "…" : ""}`
+        : `in the ${esc(E.c)} group`;
       if(i === 0){
-        const teaser = w.d
-          ? `<span class="d">${esc(w.d)}</span>`
-          : `<span class="d">in the ${esc(E.c)} group: ${esc((E.g || []).slice(0,4).join(", "))}</span>`;
         const n = group(w).length;
         return `<a class="row top${i===sel?" sel":""}" href="${href(w)}">
          <span class="h">${esc(w.n || w.h)}</span>
          <span class="tx">
-           <span class="top-line">${w.e ? `<span class="e">${esc(w.e)}</span>` : ""}${tr}</span>
-           ${teaser}
+           <span class="top-line">${w.e ? `<span class="e">${esc(w.e)}</span>` : `<span class="e">${esc(E.c)}</span>`}${tr}</span>
+           <span class="c">${vs}</span>
            <span class="cta">See how the ${n > 1 ? n + " words" : "words"} differ <span aria-hidden="true">›</span></span>
          </span>
        </a>`;
       }
-      const vs = others.length
-        ? `vs. ${others.slice(0,3).map(heb).join(", ")}${others.length > 3 ? "…" : ""}`
-        : `in the ${esc(E.c)} group`;
       return `<a class="row${i===sel?" sel":""}" href="${href(w)}">
          <span class="h">${esc(w.n || w.h)}</span>
          <span class="tx">
