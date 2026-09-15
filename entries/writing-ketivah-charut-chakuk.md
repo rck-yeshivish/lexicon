@@ -12,7 +12,7 @@ words:
     nk: פָּסַל
 sources:
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rashbam, Rabbi Moshe Zacuto, Rabbi Eliyahu HaBachur, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein, Rabbi Shaul Goldman, Maharal, Rabbi Shem Tov Gaguine, Rabbi Yitzchak Ginsburgh, Rabbi Yehuda HaLevi, Rabbi Meshullam bar Kalonymus]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rashbam, Rabbi Moshe Zacuto, Rabbi Eliyahu HaBachur, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Tzadok HaKohen of Lublin, Rabbi Shem Tov Gaguine, Rabbi Yitzchak Ginsburgh, Rabbi Yehuda HaLevi, Rabbi Meshullam bar Kalonymus]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -44,7 +44,7 @@ Root כ-ת-ב, the most common verb for writing, about 260 times in Tanach. It i
 used for the Luchos (Shemos 31:18, 32:16, 34:28; Devarim 9:10, 10:4) and for
 writing a Sefer Torah in ink on parchment (Devarim 31:9, 31:22, 31:24).
 
-A long-standing tradition going back to the Maharal holds that the first time a
+A long-standing tradition going back to Rabbi Tzadok HaKohen of Lublin holds that the first time a
 word appears in Tanach epitomizes its essence. By that measure Rabbi Reuven
 Chaim Klein finds it telling that the first כ-ת-ב is *k'sov zos zikaron
 ba'sefer*, after the war with Amalek (Shemos 17:14): writing makes words last longer, and more robustly,

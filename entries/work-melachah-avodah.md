@@ -48,7 +48,7 @@ archeology has proven Radak correct, since in Ugaritic, the Semitic language of
 texts found at Ugarit, the root of the verb for sending is ל-א-ך. In an approach
 similar to Radak's, Rabbi Shlomo Pappenheim gives the root of *malach* as ל-ך,
 *lech*, "go."
-- Ramban (to Shemos 20:9, 35:3; Vayikra 23:4) takes *avodah* as a subset of
+- Ramban (to Shemos 20:9, 35:3; Vayikra 23:7) takes *avodah* as a subset of
   *melachah*. On Shabbos and Yom Kippur (Vayikra 23:28-31; Bamidbar 29:7) all
   *melachah* is forbidden; on Pesach, Shavuos, Rosh HaShanah, Succos and Shemini
   Atzeres only *meleches avodah* (Shemos 12:16; Vayikra 23:7-8, 23:21, 23:25,
@@ -140,4 +140,4 @@ Rabbi Reuven Chaim Klein, "[Laborious Work and Angelic Creativity](https://artic
 
 Rabbi Reuven Chaim Klein, "[Angels and Agents](https://articles.ohr.edu/articles/angels-and-agents)," *What's in a Word?*, Ohr Somayach, 2 December 2017.
 
-Cited in the essay: Radak, *Sefer HaShorashim*; Bereishis 2:2-3; Bereishis 2:2 with Rav Hirsch; Shemos 12:16 with Reggio and Rav Hirsch; Shemos 20:9 with Ramban, Abarbanel and Reggio; Shemos 20:10, 31:14-15; Shemos 35:2 with Rav Hirsch; Shemos 35:3 with Ramban; Vayikra 23:3; Vayikra 23:4 with Ramban; Vayikra 23:7-8, 23:21, 23:25, 23:28-31, 23:35, 23:36; Bamidbar 4:3 with the Tosafists and *Peirush HaRokeach*; Bamidbar 4:23, 4:30; Bamidbar 28:18, 28:25, 28:26, 29:1, 29:7, 29:12, 29:35; Devarim 5:14; Koheles 5:8; Sotah 35a; Rabbi Naftali Hertz Wessely, *Yayn Levanon*, cited by Rabbi Yaakov Tzvi Mecklenburg; Rabbi Aharon Leib Steinman; Rabbi Moshe Alshich; Rabbi Tzvi Yehuda Kook; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim; Rabbi Yoel Teitelbaum of Satmar; Rabbi Shmuel David Ungar of Nitra.
+Cited in the essay: Radak, *Sefer HaShorashim*; Bereishis 2:2-3; Bereishis 2:2 with Rav Hirsch; Shemos 12:16 with Reggio and Rav Hirsch; Shemos 20:9 with Ramban, Abarbanel and Reggio; Shemos 20:10, 31:14-15; Shemos 35:2 with Rav Hirsch; Shemos 35:3 with Ramban; Vayikra 23:3; Vayikra 23:7 with Ramban; Vayikra 23:7-8, 23:21, 23:25, 23:28-31, 23:35, 23:36; Bamidbar 4:3 with the Tosafists and *Peirush HaRokeach*; Bamidbar 4:23, 4:30; Bamidbar 28:18, 28:25, 28:26, 29:1, 29:7, 29:12, 29:35; Devarim 5:14; Koheles 5:8; Sotah 35a; Rabbi Naftali Hertz Wessely, *Yayn Levanon*, cited by Rabbi Yaakov Tzvi Mecklenburg; Rabbi Aharon Leib Steinman; Rabbi Moshe Alshich; Rabbi Tzvi Yehuda Kook; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim; Rabbi Yoel Teitelbaum of Satmar; Rabbi Shmuel David Ungar of Nitra.

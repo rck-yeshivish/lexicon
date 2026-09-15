@@ -88,7 +88,7 @@ counterpart of *eid*.
   ד-ע, "knowledge," reversed, making the *eid* the one in the know, much as
   Rabbi Wertheimer's *vaad* does.
 - Rabbi Wertheimer's explanation echoes Shadal (Rabbi Shmuel David Luzzatto,
-  1800 to 1865; to Bereishis 31:50 and Devarim 32:21, and *Bikkurei Ittim* 1829,
+  1800 to 1865; to Bereishis 31:50 and Devarim 31:21, and *Bikkurei Ittim* 1829,
   pp. 194-196), who derives *eid* from a triliteral ע-ה-ד attested in Syriac but
   not in Tanach, meaning primarily to remember, mention, warn, which he takes as
   the *eid*'s primary role, warning a sinner off a misdeed. Going a step
@@ -180,4 +180,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayeitzei: Testify!](https://articles.ohr.edu/articles/vayeitzei-testify)," *What's in a Word?*, Ohr Somayach, 25 November 2023.
 
-Cited in the essay: Bereishis 31:47; Bereishis 31:50 and Devarim 32:21 with Shadal; Bereishis 43:3; Shemos 19:21, 21:29, 26:33, 31:18; Bamidbar 18:2; Devarim 4:45, 6:17; Tehillim 20:3 with Rav Hirsch; Tehillim 93:5, 119:2, 119:31; Iyov 16:19 with Malbim; Yechezkel 7:7; Amos 4:13; Mishnah Bava Kamma 1:4, 2:4, 2:6, 3:8, 4:2, 4:5, 4:9; Yerushalmi Sotah 7:2 and Sanhedrin 10:1; Shabbos 115b; Megillah 9a; Menachem Ibn Saruk, *Machberes Menachem*, in the editions of Herschell Filipowsky and Ángel Sáenz-Badillo; Ibn Janach; Radak; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham Kobernick, *Hipuch Osiyos*; Shadal, *Bikkurei Ittim* (1829), pp. 194-196; a Damascus *kesubah* of 933 from the Cairo Genizah; Rabbi Yosef Kerman.
+Cited in the essay: Bereishis 31:47; Bereishis 31:50 and Devarim 31:21 with Shadal; Bereishis 43:3; Shemos 19:21, 21:29, 26:33, 31:18; Bamidbar 18:2; Devarim 4:45, 6:17; Tehillim 20:3 with Rav Hirsch; Tehillim 93:5, 119:2, 119:31; Iyov 16:19 with Malbim; Yechezkel 7:7; Amos 4:13; Mishnah Bava Kamma 1:4, 2:4, 2:6, 3:8, 4:2, 4:5, 4:9; Yerushalmi Sotah 7:2 and Sanhedrin 10:1; Shabbos 115b; Megillah 9a; Menachem Ibn Saruk, *Machberes Menachem*, in the editions of Herschell Filipowsky and Ángel Sáenz-Badillo; Ibn Janach; Radak; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham Kobernick, *Hipuch Osiyos*; Shadal, *Bikkurei Ittim* (1829), pp. 194-196; a Damascus *kesubah* of 933 from the Cairo Genizah; Rabbi Yosef Kerman.
