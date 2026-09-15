@@ -25,7 +25,9 @@ words:
     distinct: the rain at the onset of spring, around Pesach; from mekoshesh, reaping, because it falls just before the harvest (Taanis 6a)
 sources:
   - wiaw:6861 "Rain, Rain Come Again" (2016-07-23) https://articles.ohr.edu/articles/rain-rain-come-again
-authorities: [Taanis 6a]
+  - wiaw:11123 "Lech Lecha: Eighth Month" (2023-10-28) https://articles.ohr.edu/articles/lech-lecha-eighth-month
+  - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
+authorities: [Taanis 6a, Rashi, Rabbi Moshe Shapiro, Ibn Janach, Radak, Menachem Ibn Saruk]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -80,12 +82,31 @@ with *yoreh* and *malkosh* named as those times. The derivative *gashmiyus*,
 materiality, belongs to *geshem* alone, and grows out of the third view above,
 that *geshem* is rain by the ordinary running of the world.
 
+Building on Rashi's account of *mabul* (to Bereishis 6:17), Rabbi Moshe Shapiro
+explains that the very same waters that fall from the Heavens can serve either
+as a destructive *mabul* or as a constructive *geshem*, the difference lying in
+whether people deserve that Hashem's rain function as an influx of blessing or
+the opposite (see Rashi to Bereishis 7:12). He further explains *geshem* as an
+expression of connection between Heaven and earth: superficially, since rain
+falls from Heaven to earth, and metaphysically, since Heaven represents
+*tzurah* and earth *chomer*, while *geshem* is a physical thing in which
+*chomer* and *tzurah* are married together.
+
 ### yoreh (יורה) and malkosh (מלקוש)
 Both are seasonal markers, and Taanis 6a explains each from its own root. *Yoreh*
 (or *moreh*) carries the senses of shooting and of teaching; it is the season's
 first rain, and it teaches people to reinforce their roofs and bring the produce
 indoors before the later rains come. *Malkosh* is tied to *mekoshesh*, one who
 reaps; it falls at the onset of spring, around Pesach, just before the harvest.
+
+Ibn Janach and Radak derive three meanings from the one root י-ר-ה: throwing
+(*yarah bayam*, Shemos 15:4), teaching (*yoreh deah*, Yeshayahu 28:9), and rain
+(*yoreh*, *moreh*, Devarim 11:14, Yoel 2:23); Menachem Ibn Saruk traces them
+to the single letter ר and adds a fourth, spittle (Vayikra 15:3, Shmuel I
+21:14, Iyov 6:6). None of them suggests a thematic link, and Rabbi Klein
+proposes that the common theme is unidirectional movement: a thing thrown goes
+away from oneself, rain and spittle flow only downward, and teaching passes
+from teacher to student and not the reverse.
 
 ### Rabbi Klein's own answer
 Rabbi Klein answers that the different words for
@@ -119,4 +140,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Rain, Rain Come Again](https://articles.ohr.edu/articles/rain-rain-come-again)," *What's in a Word?*, Ohr Somayach, 23 July 2016.
 
-Cited in the essay: Bereishis 19:24; Shemos 9:18; Devarim 11:14; Taanis 6a.
+Rabbi Reuven Chaim Klein, "[Lech Lecha: Eighth Month](https://articles.ohr.edu/articles/lech-lecha-eighth-month)," *What's in a Word?*, Ohr Somayach, 28 October 2023.
+
+Rabbi Reuven Chaim Klein, "[The Ultimate Teacher](https://articles.ohr.edu/articles/the-ultimate-teacher)," *What's in a Word?*, Ohr Somayach, 24 July 2021.
+
+Cited in the essay: Bereishis 6:17 and 7:12 with Rashi, 19:24; Shemos 9:18, 15:4; Vayikra 15:3; Devarim 11:14; Shmuel I 21:14; Yeshayahu 28:9; Yoel 2:23; Iyov 6:6; Taanis 6a; Rabbi Moshe Shapiro; Ibn Janach and Radak; Menachem Ibn Saruk.

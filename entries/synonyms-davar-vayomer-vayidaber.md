@@ -16,7 +16,8 @@ words:
     nk: מְלוּכָה
 sources:
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
-authorities: [Malbim, Ibn Ezra, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer]
+  - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
+authorities: [Malbim, Ibn Ezra, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -69,7 +70,11 @@ Devarim 33:2: "Hashem *ba* from Sinai... and He *atah* from the holy
 multitudes." The *meforshim*: the two words mean the same, but the first is
 Hebrew and the second Aramaic, and the Torah uses the Aramaic word here to
 allude to Hashem's having first offered the Torah to the other nations before
-giving it to Klal Yisrael.
+giving it to Klal Yisrael. Rabbi Shlomo Pappenheim, whose explanation Malbim
+cites in *Yair Ohr*, does distinguish them: *biah* can mean both reaching one's
+destination and the journey toward it, while *atah*, which also focuses on the
+destination, is a coming with more finality, referring only to arriving and
+never to the journey there.
 
 ### davar (דבר)
 The premise itself. Other languages' words are a consensus among speakers that
@@ -102,4 +107,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Introduction: Synonyms in the Hebrew Language](https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language)," *What's in a Word?*, Ohr Somayach, 25 June 2016.
 
-Cited in the essay: Devarim 33:2; Tehillim 22:29 with Ibn Ezra; Malbim; the *meforshim* on Devarim 33:2.
+Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articles/bo-come-to-pharaoh)," *What's in a Word?*, Ohr Somayach, 23 January 2021.
+
+Cited in the essay: Devarim 33:2; Tehillim 22:29 with Ibn Ezra; Malbim; the *meforshim* on Devarim 33:2; Rabbi Shlomo Pappenheim; Malbim, *Yair Ohr*.

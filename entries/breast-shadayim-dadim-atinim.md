@@ -7,7 +7,8 @@ english: [breast, breasts, teat, udder, nipple, bosom]
 domain: body
 sources:
   - wiaw:11489 "Nursing from the Good" (2024-08-17) https://articles.ohr.edu/articles/nursing-from-the-good
-authorities: [Menachem Ibn Saruk, Ibn Janach, Shlomo Ibn Parchon, Radak, Rabbi Shlomo Pappenheim, Rashi, Dunash, Malbim, Rabbeinu Chananel, Rabbi Menachem ben Shimon of Posquieres, Ralbag, Rabbi Shlomo of Urbino, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Natan of Rome, Pseudo-Rasag, Rabbi Shaul Goldman, Shadal, Wilhelm Gesenius, Daas Mikra, Mitchell First, Chaim Tawil, David J. A. Clines]
+  - wiaw:8287 "On Clouds" (2019-06-15) https://articles.ohr.edu/articles/on-clouds
+authorities: [Menachem Ibn Saruk, Ibn Janach, Shlomo Ibn Parchon, Radak, Rabbi Shlomo Pappenheim, Rashi, Dunash, Malbim, Rabbeinu Chananel, Rabbi Menachem ben Shimon of Posquieres, Ralbag, Rabbi Shlomo of Urbino, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Natan of Rome, Pseudo-Rasag, Rabbi Shaul Goldman, Shadal, Wilhelm Gesenius, Daas Mikra, Mitchell First, Chaim Tawil, David J. A. Clines, Rabbi Yaakov Chaim Sofer, Peirush HaRokeach]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -41,7 +42,9 @@ breasts and womb as symbols of fertility; archeologists know
 that many fertility-goddess idols of the ancient world deliberately exaggerated
 those features for the same reason. Others, Rashi among them, tie *shadayim*
 there to Aramaic *shadi*, to shoot or cast, making it the father's contribution
-rather than the mother's. The largest share of the word's appearances are in
+rather than the mother's. Rabbi Yaakov Chaim Sofer points out that *Peirush
+HaRokeach* explains *shadayim* in that pasuk as clouds that empty out water, as
+nursing breasts empty out milk, so that *shadayim* can also mean "clouds." The largest share of the word's appearances are in
 Shir HaShirim, and *Shaddai*, written on the outside of a mezuzah, is sometimes
 associated with *shadayim*, Hashem nurturing and sustaining creation.
 
@@ -171,4 +174,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Nursing from the Good](https://articles.ohr.edu/articles/nursing-from-the-good)," *What's in a Word?*, Ohr Somayach, 17 August 2024.
 
-Cited in the essay: Bereishis 49:25 with Rashi; Bamidbar 11:8 with Rashi, *Yoma* 75a, *Sifrei* Behaaloscha 89, Tosefta *Sotah* 4:1; Yechezkel 23:3 with Rabbeinu Chananel as quoted by Rabbi Menachem ben Shimon of Posquieres, 23:8, 23:21; Mishlei 5:19 with *Eruvin* 54b; *Shabbos* 53b; *Yoma* 3:10; Iyov 21:23-25 with Rashi, the Ralbag, and Targum there; Yeshayahu 66:11 with Radak, Shadal, Gesenius, *Daas Mikra*, Malbim and Mitchell First; Daniel 1:7 with Pseudo-Rasag; Bamidbar 1:5, 2:10, 7:30, 7:35, 10:18, 11:26-27, 34:21; Shmuel I 14:33, 15:19; Yerushalmi *Kilayim* 1:7 and Bereishis Rabbah 5:9 with *Sefer HeAruch*; Koheles 2:8; *Maasros* 4:3, *Bava Metzia* 5:7, *Taharos* 9:1 and 9:9, *Menachos* 8:4, *Negaim* 6:7-8, *Niddah* 5:8, *Bechoros* 7:5, *Sotah* 1:6, *Keilim* 8:11; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Dr. Chaim Tawil, *An Akkadian Lexical Companion for Biblical Hebrew*; David J. A. Clines, *The Dictionary of Classical Hebrew*.
+Rabbi Reuven Chaim Klein, "[On Clouds](https://articles.ohr.edu/articles/on-clouds)," *What's in a Word?*, Ohr Somayach, 15 June 2019.
+
+Cited in the essay: Bereishis 49:25 with Rashi and *Peirush HaRokeach*; Bamidbar 11:8 with Rashi, *Yoma* 75a, *Sifrei* Behaaloscha 89, Tosefta *Sotah* 4:1; Yechezkel 23:3 with Rabbeinu Chananel as quoted by Rabbi Menachem ben Shimon of Posquieres, 23:8, 23:21; Mishlei 5:19 with *Eruvin* 54b; *Shabbos* 53b; *Yoma* 3:10; Iyov 21:23-25 with Rashi, the Ralbag, and Targum there; Yeshayahu 66:11 with Radak, Shadal, Gesenius, *Daas Mikra*, Malbim and Mitchell First; Daniel 1:7 with Pseudo-Rasag; Bamidbar 1:5, 2:10, 7:30, 7:35, 10:18, 11:26-27, 34:21; Shmuel I 14:33, 15:19; Yerushalmi *Kilayim* 1:7 and Bereishis Rabbah 5:9 with *Sefer HeAruch*; Koheles 2:8; *Maasros* 4:3, *Bava Metzia* 5:7, *Taharos* 9:1 and 9:9, *Menachos* 8:4, *Negaim* 6:7-8, *Niddah* 5:8, *Bechoros* 7:5, *Sotah* 1:6, *Keilim* 8:11; *Machberes Menachem*; Radak, *Sefer HaShorashim*; Malbim, *Sefer HaCarmel*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Dr. Chaim Tawil, *An Akkadian Lexical Companion for Biblical Hebrew*; David J. A. Clines, *The Dictionary of Classical Hebrew*.

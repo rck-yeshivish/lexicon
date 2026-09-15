@@ -38,7 +38,8 @@ words:
     distinct: from ז-נ-ח, to forsake, as father of those who forsook avodah zarah; the Vilna Gaon ties it to the atonement after the meraglim
 sources:
   - wiaw:9503 "Moses' Many Names" (2021-12-25) https://articles.ohr.edu/articles/moses-many-names
-authorities: [Vayikra Rabbah, Shemos Rabbah, Radak, Vilna Gaon, Targum Rav Yosef, Ibn Ezra, Rabbi Chaim Shmuelevitz, Rabbi Gedaliah Ibn Yachya, Rabbi Moshe Teitelbaum, Rabbi Chanoch Henoch Teitelbaum of Sassov, Zayis Raanan, Dr. Alexander Beider]
+  - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
+authorities: [Vayikra Rabbah, Shemos Rabbah, Radak, Vilna Gaon, Targum Rav Yosef, Ibn Ezra, Rabbi Chaim Shmuelevitz, Rabbi Gedaliah Ibn Yachya, Rabbi Moshe Teitelbaum, Rabbi Chanoch Henoch Teitelbaum of Sassov, Zayis Raanan, Dr. Alexander Beider, Rashbam, Rabbi Yehuda Ibn Chayyuj, Rabbi Yonah Ibn Janach, Menachem Ibn Saruk, Rashi]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -151,6 +152,15 @@ he absorbed from Basyah, giving up one's life to do chesed for another, which sh
 when he later asked to be erased from Hashem's book to save Israel after the
 Eigel (Shemos 32:32).
 
+The name Moshe is an inflection of *mishisihu*, "I drew him from the water"
+(Shemos 2:10). The verb is rare: its only other clear occurrences are Dovid's
+*yamsheini*, "pull me out of the many waters" (Shmuel II 22:17, Tehillim
+18:17), and Rashbam (to Shemos 2:10) writes that it refers specifically to
+drawing something out from within water. The triliteralists (Rabbi Yehuda Ibn
+Chayyuj, Rabbi Yonah Ibn Janach, Radak) trace it to the root מ-ש-ה, the
+biliteralist Menachem Ibn Saruk to מ-ש; Rashi (to Shemos 2:10) sides with the
+triliteralists, explicitly rejecting Ibn Saruk.
+
 ## Rendering guidance
 
 - Trap: an English rendering absorbs the name and kills the derashah. Do not
@@ -181,4 +191,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Moses' Many Names](https://articles.ohr.edu/articles/moses-many-names)," *What's in a Word?*, Ohr Somayach, 25 December 2021.
 
-Cited in the essay: Divrei HaYamim I 4:18 and 24:6; Shemos 2:1-2, 2:22, 4:20, 32:32; Bamidbar 11:2; Shoftim 18:30; Melachim I 12:22; Ezra 2:60; Nechemiah 2:10-19, 3:35, 4:1, 6-7, 7:62, 13:4-7; Zechariah 6:10, 6:14; Yirmiyahu 29:31-32; Divrei HaYamim II 12:5-15; *Vayikra Rabbah* 1:3; *Shemos Rabbah* 1:26; Megillah 13a; Taanis 9a; Zevachim 102a; Bava Basra 15a and 109b-110a; Avos 1:1; Vilna Gaon and *Targum Rav Yosef* to Divrei HaYamim I 4:18; Ibn Ezra to Shemos 2:22 and 4:20; *Shalsheles HaKabbalah*; *Sefer HaYashar* and *Yalkut Shimoni* Shemos 166; *Divrei HaYamim Shel Moshe*, printed in Rabbi J. D. Eisenstein's *Otzar Midrashim* p. 358; the piyyut *Yetziv Pisgam*; Dr. Alexander Beider, *Dictionary of Ashkenazi Given Names*.
+Rabbi Reuven Chaim Klein, "[Shemos: Pulling & Drawing](https://articles.ohr.edu/articles/shemos-pulling-drawing)," *What's in a Word?*, Ohr Somayach, 6 January 2024.
+
+Cited in the essay: Divrei HaYamim I 4:18 and 24:6; Shemos 2:1-2, 2:10 with Rashbam and Rashi, 2:22, 4:20, 32:32; Bamidbar 11:2; Shoftim 18:30; Shmuel II 22:17; Tehillim 18:17; Melachim I 12:22; Ezra 2:60; Nechemiah 2:10-19, 3:35, 4:1, 6-7, 7:62, 13:4-7; Zechariah 6:10, 6:14; Yirmiyahu 29:31-32; Divrei HaYamim II 12:5-15; *Vayikra Rabbah* 1:3; *Shemos Rabbah* 1:26; Megillah 13a; Taanis 9a; Zevachim 102a; Bava Basra 15a and 109b-110a; Avos 1:1; Vilna Gaon and *Targum Rav Yosef* to Divrei HaYamim I 4:18; Ibn Ezra to Shemos 2:22 and 4:20; *Shalsheles HaKabbalah*; *Sefer HaYashar* and *Yalkut Shimoni* Shemos 166; *Divrei HaYamim Shel Moshe*, printed in Rabbi J. D. Eisenstein's *Otzar Midrashim* p. 358; the piyyut *Yetziv Pisgam*; Dr. Alexander Beider, *Dictionary of Ashkenazi Given Names*.

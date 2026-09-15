@@ -10,6 +10,7 @@ words:
     nk: חָפַר
 sources:
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
+  - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
 authorities: [Malbim, Ibn Ezra, Ibn Ramoch, Meiri, Rabbi Yaakov Tzvi Mecklenburg, Netziv, Rav Hirsch, Rabbi Shaul Bruch, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara]
 status: reviewed
 updated: 2026-09-10
@@ -78,7 +79,10 @@ Bava Kamma 5:5, Bava Basra 2:12).
   busybody).
 - Mecklenburg: in the sense of digging for information *chafirah* carries a
   negative color, hunting for something discreditable, and may be kin to
-  *cherpah*, disgrace (see the shame entry).
+  *cherpah*, disgrace (see the shame entry). In Moshe's retelling the spies'
+  mission is described as *veyachperu lanu es haaretz* (Devarim 1:22), the verb
+  of digging, used of deliberately mining damning information, and Mecklenburg takes it there as
+  their digging for negative information about the Land.
 - Rabbi Shaul Bruch, in a polemic against Modern Hebrew meant to show the
   richness and exaltedness of *lashon hakodesh*, notes that the Song of the Well
   (Bamidbar 21:18) puts *chafirah* ("dug by the officers") before *karah* ("dug
@@ -132,4 +136,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/digging-deeper)," *What's in a Word?*, Ohr Somayach, 29 January 2022.
 
-Cited in the essay: Shemos 21:33-34 with Malbim and Rav Hirsch; Bava Kamma 1:1 and 5:5; Tehillim 7:16 with Malbim, Ibn Ezra, Ibn Ramoch, Meiri; Bereishis 26:25 and 26:32 with Malbim, HaKsav VeHaKabbalah, HaEmek Davar; Bereishis 50:5 with Netziv; Bamidbar 21:17-18 and Shemos 15:1 with Rabbi Shaul Bruch and Taanis 9a; Rav Hirsch to Bereishis 26:25 and 49:5; Pappenheim on the biliteral כ-ר; Rabbi Yosef Kara to Yeshayahu 5:2; Sheviis 3:10, Bava Basra 2:12; Even Shoshan's concordance for the counts of ח-פ-ר and כ-ר-ה.
+Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," *What's in a Word?*, Ohr Somayach, 17 June 2017.
+
+Cited in the essay: Shemos 21:33-34 with Malbim and Rav Hirsch; Devarim 1:22 with Rabbi Yaakov Tzvi Mecklenburg; Bava Kamma 1:1 and 5:5; Tehillim 7:16 with Malbim, Ibn Ezra, Ibn Ramoch, Meiri; Bereishis 26:25 and 26:32 with Malbim, HaKsav VeHaKabbalah, HaEmek Davar; Bereishis 50:5 with Netziv; Bamidbar 21:17-18 and Shemos 15:1 with Rabbi Shaul Bruch and Taanis 9a; Rav Hirsch to Bereishis 26:25 and 49:5; Pappenheim on the biliteral כ-ר; Rabbi Yosef Kara to Yeshayahu 5:2; Sheviis 3:10, Bava Basra 2:12; Even Shoshan's concordance for the counts of ח-פ-ר and כ-ר-ה.

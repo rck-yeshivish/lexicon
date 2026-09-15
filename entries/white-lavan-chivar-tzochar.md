@@ -24,7 +24,8 @@ words:
     distinct: white by its color (Rashi to Yechezkel 27:18), seemingly from chalav (milk); Menachem reads it as rich, seemingly from cheilev, and Radak as a place-name in Aram
 sources:
   - wiaw:11188 "Vayechi: White is Light" (2023-12-30) https://articles.ohr.edu/articles/vayechi-white-is-light
-authorities: [Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Ramban, Shadal, Ibn Janach, Rid, Ralbag, Rabbi Moshe Chalavah, Rabbi Yosef Nechemias, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Rabbi Shmuel de Ucceda, Rashba, Radal, Rabbi Benzion Chaim Lubetzky, Rabbi Dovberish Rosenberg, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak of Zeldin, Menachem Ibn Saruk, Peshitta, Targum Yonasan, Rabbi Matisyahu Strashun, Rabbi Binyamin Rabinowitz-Teomim, Rabbi Aharon Marcus]
+  - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
+authorities: [Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rabbi Saadia Gaon, Ibn Ezra, Ramban, Shadal, Ibn Janach, Rid, Ralbag, Rabbi Moshe Chalavah, Rabbi Yosef Nechemias, Rabbi Avraham Bedersi, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Rabbi Shmuel de Ucceda, Rashba, Radal, Rabbi Benzion Chaim Lubetzky, Rabbi Dovberish Rosenberg, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak of Zeldin, Menachem Ibn Saruk, Peshitta, Targum Yonasan, Rabbi Matisyahu Strashun, Rabbi Binyamin Rabinowitz-Teomim, Rabbi Aharon Marcus, David J. A. Clines, Rabbi Ernest Klein, Marcus Jastrow]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -60,7 +61,7 @@ word means white at all.
 **Whether lavan and chivar differ at all.** In many of the places where the
 Talmud's Aramaic *chivar* appears, Rashi translates it back into Hebrew as
 *lavan* (Berachos 28a, Gittin 69b and 73a, Bava Basra 73a, Avodah Zarah 28a,
-Chullin 55b). Rabbi Klein takes this to imply that perhaps Rashi understood the
+Chullin 55b). Rabbi Reuven Chaim Klein takes this to imply that perhaps Rashi understood the
 two to mean exactly the same thing, though they may not technically be synonyms
 because one is Hebrew and the other Aramaic. Rabbi Shlomo Pappenheim, without
 saying he is distinguishing them, defines *chivar* as a whiteness that is not an
@@ -68,7 +69,7 @@ object's natural color but a property caused by an outside force, as when a
 thing is whitened in fire. He grounds this in what he considered a scientific
 fact, that most objects are naturally white and other colors come from
 impurities, which a hot furnace melts away to leave the natural white; Rabbi
-Klein calls this quasi-scientific. On his account, it seems, *lavan* is the
+Reuven Chaim Klein calls this quasi-scientific. On his account, it seems, *lavan* is the
 umbrella and *chivar* the whiteness of something whitened from outside.
 
 **Whether tzochar means white.** Rashi (to Shoftim 5:10) says yes: Devorah
@@ -78,7 +79,7 @@ he again reads white wool, citing the Shoftim pasuk as proof. Rabbi Avraham
 Bedersi in *Chotam Tochnit*, the first work on Hebrew synonyms, disputes it and
 prefers Ibn Janach's view that *tzochar* primarily means "combed": combed wool
 simply happens to come out white and pristine. The donkeys, he explains, were
-combed against fleas, not necessarily white. Rabbi Klein finds this fits those
+combed against fleas, not necessarily white. Rabbi Reuven Chaim Klein finds this fits those
 etymologies that relate *tzochar* to "pristine" or "clean," which in his view
 shows the core meaning is not quite white. Those are Radal's (1798 to 1855)
 tie to *tzach*, clean, clear, pristine, and Rabbi Benzion Chaim Lubetzky's (d.
@@ -178,7 +179,7 @@ Yehoshua 13:21).
 
 The Italian scholar Rabbi Moshe Yitzchak Tedeschi-Ashkenazi (1821 to 1898;
 *Otzar Nirdafim*) links *chivar* to *ohr*, light, on the interchange of ches
-and alef; compare Rav Hirsch to Bereishis 1:3. Rabbi Klein adds that since white
+and alef; compare Rav Hirsch to Bereishis 1:3. Rabbi Reuven Chaim Klein adds that since white
 is what an object shows when it absorbs none of the colors of visible light, the
 link between white and light becomes more understandable.
 
@@ -192,9 +193,16 @@ lists of Shimon's sons Zerach appears in place of Tzochar (Bamidbar 26:13,
 Divrei HaYamim I 4:24), and Rashi (to Bamidbar 26:13; see also responsa
 *Rashba* vol. 1 §12) identifies the two, the names being close in meaning:
 he defines *tzochar* as *tzohar*, bright, presumably on the interchange of ches
-and hei, which matches *zerach*, shining. Rabbi Klein adds, as his own
+and hei, which matches *zerach*, shining. Rabbi Reuven Chaim Klein adds, as his own
 suggestion with no source he has seen, that this Tzochar may have been named
 for his great-grandfather Lavan, both names meaning white.
+
+Another approach relates *tzachar* to red. David J. A. Clines' *A Dictionary of
+Classical Hebrew* defines it as "reddish-grey colour"; Rabbi Ernest Klein writes
+that the root צ-ח-ר is related to its Arabic cognate *asharu*, "yellowish-reddish
+land," the etymon of the name Sahara; a version of Rashi to Berachos 31b, as
+printed in the Vilna Shas, says *tzachor* means "red"; and Marcus Jastrow's
+dictionary defines *tzachor* as "glistening" and "light reddish."
 
 ### chelbon (חלבון) and chalav (חלב)
 Yaakov's blessing to Yehudah speaks of whiteness of teeth from *chalav* (Bereishis
@@ -225,7 +233,7 @@ does after all relate to Hebrew, but to *chalav*, not *lavan*.
 - In Shoftim 5:10 do not simply write "white donkeys" without knowing you have
   chosen Rashi over Bedersi. "Groomed she-donkeys" is the other reading.
 - *Chivar* is Aramaic. Do not present *lavan* and *chivar*
-  as a Hebrew synonym pair; on Rabbi Klein's reading of Rashi they are perhaps
+  as a Hebrew synonym pair; on Rabbi Reuven Chaim Klein's reading of Rashi they are perhaps
   the same word in two languages, with at most a narrowing in Pappenheim.
 - *Libbun* in a halachic context is not "whitening" in the color sense but firing
   a vessel to glowing heat; the color word is doing metallurgical work.
@@ -238,4 +246,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayechi: White is Light](https://articles.ohr.edu/articles/vayechi-white-is-light)," *What's in a Word?*, Ohr Somayach, 30 December 2023.
 
-Cited in the essay: Bereishis 11:3, 23:8-9, 40:16, 46:10, 49:12; Shemos 5:7, 5:14, 6:15, 6:17, 17:10-12, 24:14, 31:2, 35:30, 38:22; Vayikra 13; Bamidbar 3:18-21, 26:13, 26:58, 31:8, 33:20-21; Devarim 1:1; Yehoshua 10:29-39, 12:15, 13:21; Shoftim 5:10; Melachim I 21:8; Yeshayahu 1:18, 29:22; Yechezkel 27:18; Yoel 1:7; Tehillim 51:9; Shir HaShirim 5:1 with Targum; Koheles 10:17; Esther 1:6, 8:15; Daniel 7:9, 11:35, 12:10; Ezra 2:45; Nechemiah 4:8, 4:13, 5:7, 7:5, 7:48; Divrei HaYamim I 4:7, 4:24, 6:2-14; Divrei HaYamim II 1:5; Mishnah *Peah* 3:8, *Gittin* 4:4-6, *Avos* 2:16, 6:2; Berachos 31b; Sotah 12a; Megillah 12a; Rashi to Berachos 28a, Gittin 69b and 73a, Bava Basra 73a, Avodah Zarah 28a, Chullin 55b; Rashi to Shoftim 5:10 and Bamidbar 26:13; Rashi, Radak and Targum Yonasan to Yechezkel 27:18; the Peshitta there; Menachem Ibn Saruk, *Machberes Menachem*; responsa *Rashba* vol. 1 §12; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim; Rav Hirsch to Bereishis 1:3, 40:16 and Shemos 5:7; Rabbi Saadia Gaon; Ibn Ezra, Ramban and Shadal to Bereishis 40:16; Ibn Janach; the Rid; Ralbag; Rabbi Moshe Chalavah; Rabbi Yosef Nechemias; Rabbi Avraham Bedersi, *Chotam Tochnit*; Radal; Rabbi Benzion Chaim Lubetzky; Rabbi Dovberish Rosenberg, *Davar Tov*; Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehuda*; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Shmuel de Ucceda, *Midrash Shmuel* to Avos 6:2; Rabbi Matisyahu Strashun; Rabbi Binyamin Rabinowitz-Teomim; Rabbi Aharon Marcus.
+Rabbi Reuven Chaim Klein, "[Pekudai: Seeing Red (Part 2/3)](https://articles.ohr.edu/articles/pekudai-seeing-red-part-23)," *What's in a Word?*, Ohr Somayach, 29 March 2025.
+
+Cited in the essay: Bereishis 11:3, 23:8-9, 40:16, 46:10, 49:12; Shemos 5:7, 5:14, 6:15, 6:17, 17:10-12, 24:14, 31:2, 35:30, 38:22; Vayikra 13; Bamidbar 3:18-21, 26:13, 26:58, 31:8, 33:20-21; Devarim 1:1; Yehoshua 10:29-39, 12:15, 13:21; Shoftim 5:10; Melachim I 21:8; Yeshayahu 1:18, 29:22; Yechezkel 27:18; Yoel 1:7; Tehillim 51:9; Shir HaShirim 5:1 with Targum; Koheles 10:17; Esther 1:6, 8:15; Daniel 7:9, 11:35, 12:10; Ezra 2:45; Nechemiah 4:8, 4:13, 5:7, 7:5, 7:48; Divrei HaYamim I 4:7, 4:24, 6:2-14; Divrei HaYamim II 1:5; Mishnah *Peah* 3:8, *Gittin* 4:4-6, *Avos* 2:16, 6:2; Berachos 31b with Rashi (Vilna Shas); Sotah 12a; Megillah 12a; Rashi to Berachos 28a, Gittin 69b and 73a, Bava Basra 73a, Avodah Zarah 28a, Chullin 55b; Rashi to Shoftim 5:10 and Bamidbar 26:13; Rashi, Radak and Targum Yonasan to Yechezkel 27:18; the Peshitta there; Menachem Ibn Saruk, *Machberes Menachem*; responsa *Rashba* vol. 1 §12; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim; Rav Hirsch to Bereishis 1:3, 40:16 and Shemos 5:7; Rabbi Saadia Gaon; Ibn Ezra, Ramban and Shadal to Bereishis 40:16; Ibn Janach; the Rid; Ralbag; Rabbi Moshe Chalavah; Rabbi Yosef Nechemias; Rabbi Avraham Bedersi, *Chotam Tochnit*; Radal; Rabbi Benzion Chaim Lubetzky; Rabbi Dovberish Rosenberg, *Davar Tov*; Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, *Otzar Nirdafim*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehuda*; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Shmuel de Ucceda, *Midrash Shmuel* to Avos 6:2; Rabbi Matisyahu Strashun; Rabbi Binyamin Rabinowitz-Teomim; Rabbi Aharon Marcus; David J. A. Clines, *A Dictionary of Classical Hebrew*; Rabbi Ernest Klein; Marcus Jastrow.

@@ -31,7 +31,11 @@ words:
     nk: סֹפֵר
 sources:
   - wiaw:7251 "When Just Counting Doesn't Count" (2017-05-13) https://articles.ohr.edu/articles/when-just-counting-doesnt-count
-authorities: [the Vilna Gaon, Rabbi Wertheimer, Rabbi Shlomo Pappenheim of Breslau, Rabbi Yaakov Tzvi Mecklenburg]
+  - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
+  - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
+  - wiaw:9110 "Ki Tisa: Remember Forever" (2021-03-06) https://articles.ohr.edu/articles/ki-tisa-remember-forever
+  - wiaw:10897 "Shemini: Types of Species" (2023-04-15) https://articles.ohr.edu/articles/shemini-types-of-species
+authorities: [the Vilna Gaon, Rabbi Wertheimer, Rabbi Shlomo Pappenheim of Breslau, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Moshe Shapiro, Malbim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -89,6 +93,13 @@ not just the raw numbers but also improving oneself, cleansing oneself of impuri
 he connects *sefirah* to *sapir*, the sapphire, since the counting cleanses a
 person as a precious gem is free of impurities.
 
+Rabbi Moshe Shapiro explains that all words from ס-פ-ר are interrelated and
+refer to unifying disparate parts: *sippur* joins many details into a single
+narrative; a *sfar*, a border, confines everything within it and makes it one
+unit; a *sefer* binds all the contents recorded in it into one entity; and
+*mispar* and *sofer*, number and counting, are the system in which the numbers
+are all bound together in an organized and logical way.
+
 The name *Sefiras HaOmer* comes from the count's joining
 the annual barley offering brought on the second day of Pesach, the *Korban
 Omer*, to the annual wheat offering of Shavuos. And halachically each day of the
@@ -103,7 +114,12 @@ every single day. That is exactly what a *moneh* count is not.
 
 ### moneh, minyan (מונה, מנין)
 Root מ-נ-ה. Mecklenburg derives *moneh* from *maneh*, a respectable portion, so
-that what enters a *moneh* count is by definition worth counting.
+that what enters a *moneh* count is by definition worth counting. Rabbi Shlomo
+Pappenheim takes the two-letter root מ-נ as creating order out of causes and
+effects, and heads one group of its derivatives with *moneh* and *minyan*, since
+counting seeks to create mathematical order by quantifying a set of givens; *min*,
+a species, derives from the same root, since it too determines what belongs in
+one grouping and what is excluded.
 
 In a *moneh* count the final number is the only requirement: the ten men needed
 for the parts of davening that call for a quorum, or the seven sprinklings the
@@ -113,6 +129,11 @@ sprinkling necessarily carries weight on its own.
 
 ### mifkad (מפקד)
 Root פ-ק-ד. A third family for counting and numbering, *poked*/*mifkad*.
+Malbim holds that *pakad* denotes remembering something in order to take some
+action; so understood, it primarily means remembering something in order to
+attend to it, and the most basic way of attending to a thing is to determine
+whether it is actually present, hence *pakad* means both "to count" (Bamidbar
+1:21, 2:32; Shmuel I 15:4) and "to be absent" (Bamidbar 31:49; Yeshayahu 38:10).
 
 ## Rendering guidance
 
@@ -139,4 +160,12 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[When Just Counting Doesn't Count](https://articles.ohr.edu/articles/when-just-counting-doesnt-count)," *What's in a Word?*, Ohr Somayach, 13 May 2017.
 
-Cited in the essay: Vayikra 23:15-16; Devarim 25:2; Avos ch. 6; the masechtos *Sotah* and *Shevuos*; the Yom Kippur liturgy on the Kohen Gadol's sprinklings; the Vilna Gaon; Rabbi Wertheimer; Rabbi Shlomo Pappenheim of Breslau; Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*).
+Rabbi Reuven Chaim Klein, "[Between Books and Scrolls](https://articles.ohr.edu/articles/between-books-and-scrolls)," *What's in a Word?*, Ohr Somayach, 19 February 2022.
+
+Rabbi Reuven Chaim Klein, "[Pesach: Telling the Story](https://articles.ohr.edu/articles/pesach-telling-the-story)," *What's in a Word?*, Ohr Somayach, 13 April 2019.
+
+Rabbi Reuven Chaim Klein, "[Ki Tisa: Remember Forever](https://articles.ohr.edu/articles/ki-tisa-remember-forever)," *What's in a Word?*, Ohr Somayach, 6 March 2021.
+
+Rabbi Reuven Chaim Klein, "[Shemini: Types of Species](https://articles.ohr.edu/articles/shemini-types-of-species)," *What's in a Word?*, Ohr Somayach, 15 April 2023.
+
+Cited in the essay: Vayikra 23:15-16; Devarim 25:2; Bamidbar 1:21, 2:32, 31:49; Shmuel I 15:4; Yeshayahu 38:10; Avos ch. 6; the masechtos *Sotah* and *Shevuos*; the Yom Kippur liturgy on the Kohen Gadol's sprinklings; the Vilna Gaon; Rabbi Wertheimer; Rabbi Shlomo Pappenheim of Breslau; Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*); Rabbi Moshe Shapiro; Malbim.

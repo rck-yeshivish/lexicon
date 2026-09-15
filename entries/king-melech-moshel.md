@@ -12,7 +12,8 @@ words:
     nk: מְלוּכָה
 sources:
   - wiaw:6893 "Divine Dictator or Populist King?" (2016-08-13) https://articles.ohr.edu/articles/divine-dictator-or-populist-king
-authorities: [Vilna Gaon, Rabbi Moshe Soloveitchik of Switzerland]
+  - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
+authorities: [Vilna Gaon, Rabbi Moshe Soloveitchik of Switzerland, Ibn Ezra]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -58,6 +59,11 @@ is why the people offered Gideon the post of *moshel* (Shoftim 8:22) and not of
 called a *moshel*, because they offered it only on the strength of his
 acknowledged military prowess.
 
+Ibn Ezra, on *ki laHashem hameluchah umoshel bagoyim* (Tehillim 22:29), explains
+that both words refer to sovereignty, but *meluchah* denotes a popular sovereign
+whose dominion his constituents willingly accepted, while a *moshel* is a
+dictator who continues to rule whether or not his people object to him.
+
 Some explain instead that *melech* is the king at the top and *moshel* a
 governor or deputy to whom he has delegated power. The consensus
 holds the two equal in position and different only in origin.
@@ -96,4 +102,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Divine Dictator or Populist King?](https://articles.ohr.edu/articles/divine-dictator-or-populist-king)" *What's in a Word?*, Ohr Somayach, 13 August 2016.
 
-Cited in the essay: Bereishis 37:8; Pirkei d'Rabbi Eliezer ch. 16; Shoftim 8:22; Rosh Hashanah 16a; Tehillim 22:29; Zechariah 14:9; the Vilna Gaon; Rabbi Moshe Soloveitchik of Switzerland.
+Rabbi Reuven Chaim Klein, "[Introduction: Synonyms in the Hebrew Language](https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language)," *What's in a Word?*, Ohr Somayach, 25 June 2016.
+
+Cited in the essay: Bereishis 37:8; Pirkei d'Rabbi Eliezer ch. 16; Shoftim 8:22; Rosh Hashanah 16a; Tehillim 22:29 with Ibn Ezra; Zechariah 14:9; the Vilna Gaon; Rabbi Moshe Soloveitchik of Switzerland.

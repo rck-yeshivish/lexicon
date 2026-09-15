@@ -10,7 +10,8 @@ words:
     nk: שַׁוְעָה
 sources:
   - wiaw:7655 "For Crying Out Loud" (2018-02-24) https://articles.ohr.edu/articles/for-crying-out-loud
-authorities: [Rashi, Ramban, Zohar, Malbim, Tosafos, Rabbi Shlomo Pappenheim, Rabbi Elazar Rokeach of Worms, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Emmanuel Chai Ricci, Rabbi Shlomo Aharon Wertheimer]
+  - wiaw:9464 "Seeking Salvation" (2021-11-27) https://articles.ohr.edu/articles/seeking-salvation
+authorities: [Rashi, Ramban, Zohar, Malbim, Tosafos, Rabbi Shlomo Pappenheim, Rabbi Elazar Rokeach of Worms, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Emmanuel Chai Ricci, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -88,6 +89,10 @@ the prisoner and the deathly ill man with *zaakah*.
   it differently: they are the silent cry of pain and *shaavah* is spoken
   tefillah, and one view there makes the wordless cry of the heart the greater
   plea of the two.
+- Rav Hirsch (to Shemos 14:13) suggests that *shaavah* is the act of yearning
+  for a *teshuah*: unlike other words for crying out, which might simply voice
+  one's suffering, *shaavah* is an unmistakable cry for salvation, a sort of
+  prayer as opposed to a complaint.
 
 ## Rendering guidance
 
@@ -115,4 +120,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[For Crying Out Loud](https://articles.ohr.edu/articles/for-crying-out-loud)," *What's in a Word?*, Ohr Somayach, 24 February 2018.
 
-Cited in the essay: Bereishis 27:34; Esther 4:1; the Midrash linking Esav's cry to Mordechai's; Tehillim 107 (verses 6, 13, 19, 28) with Malbim at 107:6; Iyov 6:17 with Rashi and Iyov 40:17 with Ramban; Sotah 36b with Rashi; Berachos 54b with Tosafos; Zohar, Shemos 20a; Rabbi Shlomo Pappenheim on ש-ו-ע and צ-ע-ק; Rabbi Elazar Rokeach of Worms; Rabbi Yehuda Leib Shapira-Frankfurter; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Emmanuel Chai Ricci; Rabbi Shlomo Aharon Wertheimer.
+Rabbi Reuven Chaim Klein, "[Seeking Salvation](https://articles.ohr.edu/articles/seeking-salvation)," *What's in a Word?*, Ohr Somayach, 27 November 2021.
+
+Cited in the essay: Bereishis 27:34; Shemos 14:13 with Rav Hirsch; Esther 4:1; the Midrash linking Esav's cry to Mordechai's; Tehillim 107 (verses 6, 13, 19, 28) with Malbim at 107:6; Iyov 6:17 with Rashi and Iyov 40:17 with Ramban; Sotah 36b with Rashi; Berachos 54b with Tosafos; Zohar, Shemos 20a; Rabbi Shlomo Pappenheim on ש-ו-ע and צ-ע-ק; Rabbi Elazar Rokeach of Worms; Rabbi Yehuda Leib Shapira-Frankfurter; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Emmanuel Chai Ricci; Rabbi Shlomo Aharon Wertheimer.

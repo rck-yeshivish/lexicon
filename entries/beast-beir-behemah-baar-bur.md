@@ -30,7 +30,8 @@ words:
     distinct: Mishnaic; either an uncultivated field left desolate (Rashi, Tashbetz, Bartenura to Avos 2:5), a mind empty as a pit, bor (Rabbi Dr. Asher Weiser), or simply a form of ba'ar (Rabbi Eliyahu HaBachur)
 sources:
   - wiaw:10832 "Mishpatim: Boorish Animals" (2023-02-18) https://articles.ohr.edu/articles/mishpatim-boorish-animals
-authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Rav Hirsch, Rabbi Yehuda Leib Edel, Malbim, Rabbi Eliyahu HaBachur, Rabbi Dr. Asher Weiser, Tashbetz, Bartenura, Rabbi Yaakov Yechiel Weinberg, Rabbi David Chaim Chelouche, Rabbi Shlomo Yehuda Rapoport, Rabbi Shet bar Yefet, Mitchell First, Hillel Halkin]
+  - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
+authorities: [Rabbi Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehudah Aryeh of Carpentras, Rashi, Rav Hirsch, Rabbi Yehuda Leib Edel, Malbim, Rabbi Eliyahu HaBachur, Rabbi Dr. Asher Weiser, Tashbetz, Bartenura, Rabbi Yaakov Yechiel Weinberg, Rabbi David Chaim Chelouche, Rabbi Shlomo Yehuda Rapoport, Rabbi Shet bar Yefet, Mitchell First, Hillel Halkin, Rabbi Aharon Marcus]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -149,7 +150,10 @@ trodden upon by their servility to man, and he compares ב-ה-מ to פ-ע-מ,
 "stepping," by the interchange of bet with pei and hei with ayin. *Chayah* he
 takes from
 *chai*, life: the wild animal is an independent life-form, or alternatively animal life
-is a higher order than *tzomeach*. For the fuller treatment of this pair, including
+is a higher order than *tzomeach*. Rabbi Aharon Marcus derives *behemah* from
+the root ב-ה-ה, an onomatopoeic representation of a common animal sound
+("baaaa"), and links it to the ancient Latin and Old Irish *bo(s)*, related to
+the English *bovine*. For the fuller treatment of this pair, including
 Ramban's division by diet, see [animal](animal-behemah-chayah.html).
 
 ### ba'ar (בער) and bur (בור)
@@ -177,4 +181,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Mishpatim: Boorish Animals](https://articles.ohr.edu/articles/mishpatim-boorish-animals)," *What's in a Word?*, Ohr Somayach, 18 February 2023.
 
-Cited in the essay: Shemos 16:7-8, 22:4; Bereishis 1:24, 45:17, 47:19; Vayikra 1:2; Bamidbar 20:4-11, 22:2; Tehillim 8:8, 73:21-22, 78:48; Mishlei 12:1, 30:2; Avos 2:5; Peah 2:1; Sanhedrin 105a; *Sefer HaShorashim*; *Ohalei Yehuda*; *Sefer HaTishbi*; *Meor Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a; *Seridei Aish* vol. 4 *Chakiras HaMekoros* §7:2; Mitchell First, *Words for the Wise*, p. 149; *Chemas HaChemdah* to Shemos 22:4; Hillel Halkin, as Philologos; Rabbi Shlomo Yehuda Rapoport.
+Rabbi Reuven Chaim Klein, "[Vayakhel/Pekudei: Animal Sounds](https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds)," *What's in a Word?*, Ohr Somayach, 13 March 2021.
+
+Cited in the essay: Shemos 16:7-8, 22:4; Bereishis 1:24, 45:17, 47:19; Vayikra 1:2; Bamidbar 20:4-11, 22:2; Tehillim 8:8, 73:21-22, 78:48; Mishlei 12:1, 30:2; Avos 2:5; Peah 2:1; Sanhedrin 105a; *Sefer HaShorashim*; *Ohalei Yehuda*; *Sefer HaTishbi*; *Meor Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a; *Seridei Aish* vol. 4 *Chakiras HaMekoros* §7:2; Mitchell First, *Words for the Wise*, p. 149; *Chemas HaChemdah* to Shemos 22:4; Hillel Halkin, as Philologos; Rabbi Shlomo Yehuda Rapoport; Rabbi Aharon Marcus.

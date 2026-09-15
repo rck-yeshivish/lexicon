@@ -10,6 +10,7 @@ words:
     nk: נֶצַח
 sources:
   - wiaw:6934 "Ten Expressions of Praise" (2016-09-17) https://articles.ohr.edu/articles/ten-expressions-of-praise
+  - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
 authorities: [Arizal, Maharal of Prague, Abudraham, Rabbi Shlomo Aharon Wertheimer, Rabbi Shimshon Pincus, Rabbi Chaim Volozhiner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Franz Boas]
 status: reviewed
 updated: 2026-09-10
@@ -39,7 +40,9 @@ precisely because praising Hashem is so central a part of Yiddishkeit.
 
 ### lehodos (להודות), lehallel (להלל), leshabei'ach (לשבח)
 Thanking is the admission that another did one a good turn and is owed
-gratitude. Praising is relaying another's virtue to a third party. Lauding
+gratitude. *Hod*, which refers to what lies underneath the surface, makes up the
+root of *hodaah*, admission or thanksgiving: one recognizes what he knows deep
+down to be true and lets it come to the forefront by expressing it verbally. Praising is relaying another's virtue to a third party. Lauding
 is dwelling on another's good traits as such, apart from any dealing one had
 with him. Rabbi Shlomo Aharon Wertheimer (1866-1935) notes that in general
 thanking Hashem stands before lauding Him, because one's personal
@@ -112,5 +115,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Ten Expressions of Praise](https://articles.ohr.edu/articles/ten-expressions-of-praise)," *What's in a Word?*, Ohr Somayach, 17 September 2016.
+
+Rabbi Reuven Chaim Klein, "[The Beauty of Adar](https://articles.ohr.edu/articles/the-beauty-of-adar)," *What's in a Word?*, Ohr Somayach, 17 February 2018.
 
 Cited in the essay: the close of Pesukei DeZimrah on Shabbos and Yom Tov, the Haggadah, and the concluding berachah of Hallel; the Arizal (Nusach Sefard); the Maharal of Prague (Nusach Ashkenaz); Abudraham; Rabbi Chaim Volozhiner, *Nefesh HaChaim* Shaar 2; Rabbi Shimshon Pincus; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Franz Boas.

@@ -10,6 +10,7 @@ words:
     nk: עַד
 sources:
   - wiaw:8594 "Take Your Spoils" (2020-02-08) https://articles.ohr.edu/articles/take-your-spoils
+  - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
 authorities: [Rashi, Rabbi Avraham Bedersi HaPenini, Maharal, Radak, Rabbi Yaakov Chaim Sofer, Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Targum Onkelos, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Baruch HaLevi Epstein, Menachem Ibn Saruk, Ibn Janach, Rabbi Shmuel Ibn Tibbon]
 status: reviewed
 updated: 2026-09-10
@@ -90,6 +91,10 @@ which differs from ב-ז-ה, the verb for disparaging.
 - Radak: *shevi* is human prisoners and *malkoach* animals, but where *malkoach*
   appears later without *shevi* beside it (Bamidbar 31:27) it covers every
   living thing taken, human and animal.
+- Rabbi Pappenheim puts *shevi* / *shevuyah* under the two-letter ש-ב, which
+  can refer to reverting to one's natural state (as in *Shabbos*, rest): the
+  captive is one whose freedom of movement his captors have curtailed, as if
+  stuck in a position of rest.
 - Malbim makes the same relation here as between *shalal* and *bizah*: *shevi*
   is all the captured people of the defeated side, *malkoach* specifically those
   the captors took as slaves or for other purposes.
@@ -147,5 +152,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Take Your Spoils](https://articles.ohr.edu/articles/take-your-spoils)," *What's in a Word?*, Ohr Somayach, 8 February 2020.
+
+Rabbi Reuven Chaim Klein, "[Return to Sender: The True Meaning of Teshuva](https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva)," *What's in a Word?*, Ohr Somayach, 5 October 2019.
 
 Cited in the essay: Bereishis 49:27; Shemos 3:5, 15:9; Bamidbar 31, 31:11, 31:27; Divrei HaYamim II 15:11; Rashi to Bereishis 49:27 and Bamidbar 31:11; Rabbi Avraham Bedersi HaPenini; Maharal, *Gur Aryeh* to Bamidbar 31:11; Radak; Rabbi Yaakov Chaim Sofer; Rav Hirsch to Bamidbar 31:11; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shmuel Ibn Tibbon, Hebrew translation of the *Moreh Nevuchim*; *Biur HaGra* to Yeshayahu 10:6 and Divrei HaYamim II 14:13; Menachem Ibn Saruk; Ibn Janach; Rabbi Baruch HaLevi Epstein; Rabbi Eliyahu HaBachur; Targum Onkelos to Shemos 25:15; Targum to Yeshayahu 47:11; Rabbi Yaakov Tzvi Mecklenburg.

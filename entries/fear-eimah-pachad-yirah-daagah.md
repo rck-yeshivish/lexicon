@@ -7,7 +7,8 @@ english: [dread, terror, fright, fear, worry, anxiety]
 domain: emotion
 sources:
   - wiaw:7018 "Afraid of Fright or Ready to Fight" (2016-11-26) https://articles.ohr.edu/articles/afraid-of-fright-or-ready-to-fight
-authorities: [Rashi, Ibn Ezra, Rabbi Shlomo Aharon Wertheimer, Beis HaLevi]
+  - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
+authorities: [Rashi, Ibn Ezra, Rabbi Shlomo Aharon Wertheimer, Beis HaLevi, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Janach, Radak]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -65,6 +66,12 @@ Root ד-א-ג.
 - Wertheimer: not the worrying itself but the despondency of one steeped in
   anxious fright; Rabbi Klein notes that this echoes Franklin Delano Roosevelt's
   inaugural line that the only thing we have to fear is fear itself.
+- Rabbi Shlomo Pappenheim connects *daagah* to the biliteral ד-ג of *dag*, fish:
+  it is a minimally justified apprehension, the worrier seeing only some signs
+  of a possible danger, as the fisherman (*dayag*, *davag*) picks his spot on
+  vague signs with no solid reason to think there will really be fish there.
+  Menachem Ibn Saruk, Ibn Janach and Radak all derive *daagah* from its own
+  triliteral root, ד-א-ג.
 
 ## Rendering guidance
 
@@ -94,4 +101,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Afraid of Fright or Ready to Fight](https://articles.ohr.edu/articles/afraid-of-fright-or-ready-to-fight)," *What's in a Word?*, Ohr Somayach, 26 November 2016.
 
-Cited in the essay: Rashi to Shemos 15:16 and Devarim 11:25; Ibn Ezra to Shemos 23:27; Rashi to Yoma 75a and Gittin 70a; Mishlei 12:25; Beis HaLevi (Rabbi Yosef Dov Soloveitchik), parashas Vayigash; Rabbi Shlomo Aharon Wertheimer on *pachad*, *morah*, and *daagah*.
+Rabbi Reuven Chaim Klein, "[Fishy Words (Part 1/2)](https://articles.ohr.edu/articles/fishy-words-part-12)," *What's in a Word?*, Ohr Somayach, 29 May 2021.
+
+Cited in the essay: Rashi to Shemos 15:16 and Devarim 11:25; Ibn Ezra to Shemos 23:27; Rashi to Yoma 75a and Gittin 70a; Mishlei 12:25; Beis HaLevi (Rabbi Yosef Dov Soloveitchik), parashas Vayigash; Rabbi Shlomo Aharon Wertheimer on *pachad*, *morah*, and *daagah*; Rabbi Shlomo Pappenheim on the biliteral ד-ג; Menachem Ibn Saruk, Ibn Janach and Radak on ד-א-ג.

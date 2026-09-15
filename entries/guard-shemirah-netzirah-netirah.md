@@ -7,7 +7,8 @@ english: [guard, watch, safeguard, keep, preserve, wait, hold on to, harbor]
 domain: action
 sources:
   - wiaw:11813 "Acharei Mos/Kedoshim: The Watchers and Guardians" (2025-05-10) https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians
-authorities: [Rashi, Malbim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Siddur HaRokeach, Rabbi Shimon Dov Ber Analak, Rabbi Dr. Asher Weiser, Mahari Kara, Rabbi Eliyahu Bachur, Vayikra Rabbah]
+  - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
+authorities: [Rashi, Malbim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Siddur HaRokeach, Rabbi Shimon Dov Ber Analak, Rabbi Dr. Asher Weiser, Mahari Kara, Rabbi Eliyahu Bachur, Vayikra Rabbah, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -98,6 +99,13 @@ On Wertheimer's approach, Rabbi Klein notes, the allegory is not needed: for him
 *shemirah* is usually for something tangible, *netirah* can extend to something
 abstract, and *netzirah* is the best watching of all.
 
+Rabbi Shlomo Pappenheim traces *netirah* to the two-letter root ט-ר, a "straight
+line": the constant vigilance needed to watch over something means one's
+thoughts must be kept straight on it without deviating. Related are *tahor*,
+pure, a state that lasts only if one carefully watches that the pure thing is
+not sullied, and *iter*, closed, something so closely protected that it is
+totally locked up and cannot function.
+
 ### The Aramaic collapse
 The Targumim render *shemirah*, *netzirah* and *netirah* indiscriminately with
 נ-ט-ר forms (see Rabbi Eliyahu Bachur, *Meturgeman*), which might mean that
@@ -149,4 +157,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Acharei Mos/Kedoshim: The Watchers and Guardians](https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians)," *What's in a Word?*, Ohr Somayach, 10 May 2025.
 
-Cited in the essay: Vayikra 19:18 with Rashi and Malbim; Shemos 22:6; Bereishis 37:11 with Mahari Kara to Koheles 5:7; Devarim 32:10; Yehoshua 1:8, 11:1, 12:20, 15:48, 19:15; Shoftim 10:1 to 10:2; Shmuel I 1:12; Yeshayahu 11:1, 14:19, 60:21; Yirmiyahu 3:5; Tehillim 40:12, 103:9, 105:45, 121:7, 130:3; Mishlei 2:8 with the Vilna Gaon; Shir HaShirim 1:6; Daniel 7:28, 11:7; Ezra 4:10, 4:17; Berachos 3a; Sukkah 52a; Malbim, *Sefer HaCarmel*; Rabbi Shlomo Aharon Wertheimer, *Biurei Shemos HaNirdafim*; *Siddur HaRokeach*; Rabbi Eliyahu Bachur, *Meturgeman*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon*; *Vayikra Rabbah* 19:6.
+Rabbi Reuven Chaim Klein, "[Castle in the Sky](https://articles.ohr.edu/articles/castle-in-the-sky)," *What's in a Word?*, Ohr Somayach, 28 November 2020.
+
+Cited in the essay: Vayikra 19:18 with Rashi and Malbim; Shemos 22:6; Bereishis 37:11 with Mahari Kara to Koheles 5:7; Devarim 32:10; Yehoshua 1:8, 11:1, 12:20, 15:48, 19:15; Shoftim 10:1 to 10:2; Shmuel I 1:12; Yeshayahu 11:1, 14:19, 60:21; Yirmiyahu 3:5; Tehillim 40:12, 103:9, 105:45, 121:7, 130:3; Mishlei 2:8 with the Vilna Gaon; Shir HaShirim 1:6; Daniel 7:28, 11:7; Ezra 4:10, 4:17; Berachos 3a; Sukkah 52a; Malbim, *Sefer HaCarmel*; Rabbi Shlomo Aharon Wertheimer, *Biurei Shemos HaNirdafim*; *Siddur HaRokeach*; Rabbi Eliyahu Bachur, *Meturgeman*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon*; *Vayikra Rabbah* 19:6; Rabbi Shlomo Pappenheim on the biliteral ט-ר.

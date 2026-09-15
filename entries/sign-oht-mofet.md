@@ -21,6 +21,7 @@ words:
     distinct: an oht merely reminds; an eid reminds and moves a person to act (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:8085 "The Sign is Coming" (2019-01-12) https://articles.ohr.edu/articles/the-sign-is-coming
+  - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
 authorities: [Ramban, Sifrei, Midrash Lekach Tov, Rabbi Shlomo Aharon Wertheimer, Radak, Sforno, Abarbanel, Rabbi Shmuel Ibn Tibbon, Malbim, Rabbi Avraham Menachem HaKohen Rappaport, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
@@ -129,7 +130,11 @@ manifest itself.
   confines of nature.
 - Rabbi Shlomo Pappenheim (1740-1814) contrasts *oht* with *eid*: an *oht* is
   simply a reminder, while an *eid* serves to remind and to spur one into
-  action.
+  action. He also traces *asah* (אתה), "come" (Devarim 33:2), to the single letter ת, which stands
+  for bordering because it closes the alef-beis: a border links two bodies and
+  also distinguishes between them. Words from this root relate to bordering
+  and connecting, and so an *oht* forms a connection between the sign and the
+  signified.
 
 ### mofet (מופת)
 - Ramban: from *pele*, a wonder.
@@ -164,4 +169,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Sign is Coming](https://articles.ohr.edu/articles/the-sign-is-coming)," *What's in a Word?*, Ohr Somayach, 12 January 2019.
 
-Cited in the essay: Bereishis 1:14; Shemos 7:9 with Sforno, 10:1-2, 11:9-10, 12:13, 13:9, 13:16; Bamidbar 2:2; Devarim 13:2 with Ramban; the *Sifrei* to Bamidbar 6:3; *Midrash Lekach Tov* (*Pesikta Zutrasa*); *Devarim Rabbah* §7:9; Radak, *Sefer HaShorashim*; Malbim; Abarbanel; Rabbi Shmuel Ibn Tibbon; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim.
+Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articles/bo-come-to-pharaoh)," *What's in a Word?*, Ohr Somayach, 23 January 2021.
+
+Cited in the essay: Bereishis 1:14; Shemos 7:9 with Sforno, 10:1-2, 11:9-10, 12:13, 13:9, 13:16; Bamidbar 2:2; Devarim 13:2 with Ramban, 33:2; the *Sifrei* to Bamidbar 6:3; *Midrash Lekach Tov* (*Pesikta Zutrasa*); *Devarim Rabbah* §7:9; Radak, *Sefer HaShorashim*; Malbim; Abarbanel; Rabbi Shmuel Ibn Tibbon; Rabbi Avraham Menachem HaKohen Rappaport, *Minchah Belulah*; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Pappenheim.

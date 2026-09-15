@@ -12,7 +12,9 @@ words:
     nk: רַחֲמִים
 sources:
   - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
-authorities: [Ramban, the Kabbalists, Rabbi Reuven Chaim Klein]
+  - wiaw:11715 "Tetzaveh/Purim: Do the Din" (2025-03-08) https://articles.ohr.edu/articles/tetzavehpurim-do-the-din
+  - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
+authorities: [Ramban, the Kabbalists, Rabbi Reuven Chaim Klein, Rabbi Shlomo Pappenheim, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -45,7 +47,12 @@ applicant, weighs the cause, and sets the amount by what the man before him
 merits. That is *din*: the receiver is the object of focus, so the influx can be
 curtailed, delayed, or portioned. In Tanach the plain word *elohim* can also
 denote a human judge, and calling Hashem *Elokim* invokes exactly that role,
-the Judge of all Creation.
+the Judge of all Creation. Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) traces
+*din* to the two-letter root ד-נ, judicial decision-making and its execution,
+whence *dan* (to judge), *din*, *dayan* (a judge), *madon* (litigation), *adon*
+(a master, one with jurisdiction to make decisions about another), *Adonai*
+(the Name referring to Hashem as the Master of all creation), and *medinah* (a
+province, the area under one common court system).
 
 ### rachamim (רחמים)
 The first philanthropist in the mashal hands out money without asking who is
@@ -58,6 +65,11 @@ light, is the giver and so *rachamim*; the moon, which has no light of its own
 and waxes and wanes, is the receiver and so *din*. Rosh Hashanah, first day of
 a solar year and first day of a lunar month at once, is where the two systems
 meet.
+
+Rav Hirsch (to Shemos 13:2) defines the primary sense of the root ר-ח-ם as
+motherly protection, which joins *rechem*, the place in her body where a mother
+protects her unborn child, to *rachamim*, the dominant trait of a protective
+mother.
 
 ### tekiah (תקיעה) and teruah (תרועה)
 A *tekiah* is one straight, continuous sound; a *teruah* is made of several
@@ -111,4 +123,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Rosh Hashana: A Tale of Two Beginnings](https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings)," *What's in a Word?*, Ohr Somayach, 28 September 2019.
 
-Cited in the essay: Mishnah Rosh Hashanah 1:2; Ramban on *din b'rachamim* and *rachamim b'din*; Tehillim 47:6 and 81:4; the Gemara's *sulam rauah*.
+Rabbi Reuven Chaim Klein, "[Tetzaveh/Purim: Do the Din](https://articles.ohr.edu/articles/tetzavehpurim-do-the-din)," *What's in a Word?*, Ohr Somayach, 8 March 2025.
+
+Rabbi Reuven Chaim Klein, "[True Love (Part 2/2)](https://articles.ohr.edu/articles/true-love-part-22)," *What's in a Word?*, Ohr Somayach, 18 November 2023.
+
+Cited in the essay: Mishnah Rosh Hashanah 1:2; Ramban on *din b'rachamim* and *rachamim b'din*; Tehillim 47:6 and 81:4; the Gemara's *sulam rauah*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rav Hirsch to Shemos 13:2.
