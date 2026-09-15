@@ -10,7 +10,8 @@ words:
     nk: תֵּיבָה
 sources:
   - wiaw:6943 "A Tale of Two Arks" (2016-09-24) https://articles.ohr.edu/articles/a-tale-of-two-arks
-authorities: [Rabbi Aharon Marcus]
+  - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
+authorities: [Rabbi Aharon Marcus, Ibn Janach, Radak, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -38,7 +39,11 @@ holds a living person, while an *aron* covers other kinds of storage, even
 inanimate contents. Rabbi Aharon Marcus (1843 to 1916) points out that *teivah*
 is related to *bayis* (house) because the two contain the same letters; the
 implication drawn from this is that a *teivah* is in some ways like a person's
-home, which supports the second reading.
+home, which supports the second reading. Ibn Janach (*Sefer HaShorashim*) gives
+the root as ת-ב-ה, while Radak (*Sefer HaShorashim*) mentions a possible
+alternative, ת-י-ב; Rav Hirsch (to Bereishis 6:14) derives the word from the
+Aramaic י-ת-ב, the Hebrew י-ש-ב, sitting or dwelling, the *teivah* being one's
+temporary domicile.
 
 ### aron (ארון)
 Also two contexts in Tanach: the *Aron HaBris*, the gold-plated wooden box
@@ -83,4 +88,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Tale of Two Arks](https://articles.ohr.edu/articles/a-tale-of-two-arks)," *What's in a Word?*, Ohr Somayach, 24 September 2016.
 
-Cited in the essay: Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah 3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus.
+Rabbi Reuven Chaim Klein, "[Words for Words](https://articles.ohr.edu/articles/words-for-words)," *What's in a Word?*, Ohr Somayach, 23 October 2021.
+
+Cited in the essay: Bereishis 6 to 9 and 50:26; Shemos 2:3; Mishnah Taanis 2:1; Mishnah Megillah 3:1; Yerushalmi Shekalim 6:1; Rabbi Aharon Marcus; Ibn Janach and Radak, *Sefer HaShorashim*; Rav Hirsch to Bereishis 6:14.

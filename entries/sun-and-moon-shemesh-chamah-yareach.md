@@ -36,7 +36,8 @@ words:
     distinct: naming the moon by its shape (Rabbi Aharon Marcus); others hold it is not really Hebrew but an Aramaic loanword sometimes used for the moon
 sources:
   - wiaw:6916 "My Three Suns (and Moons)" (2016-09-03) https://articles.ohr.edu/articles/my-three-suns-and-moons
-authorities: [Rabbi Aharon Marcus]
+  - wiaw:9795 "Matot: The Names of Jericho" (2022-07-23) https://articles.ohr.edu/articles/matot-the-names-of-jericho
+authorities: [Rabbi Aharon Marcus, Menachem Ibn Saruk, Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -112,6 +113,12 @@ practices are still in use: Beis Shemesh, the house of the sun, and Yericho,
 related to *yareach*, were apparently ancient centers of the sun and moon cults
 before the Jewish People entered Eretz Yisrael.
 
+The classical lexicographers Menachem Ibn Saruk, Yonah Ibn Janach and Radak
+trace *yareach* to the triliteral root י-ר-ח (and *reiach*, smell, to ר-י-ח).
+Rabbi Shlomo Pappenheim instead sees both as derivatives of the biliteral ר-ח,
+air, whose commonest form is *ruach*, wind: the moon is called *yareach* because
+its movements somehow control the *ruach*, the tides and winds.
+
 ### chamah (חמה), cheres (חרס), levanah (לבנה) and sahar (סהר)
 The second layer: *chamah* for the sun's scorching heat and *cheres* for its
 ability to bake pottery (others: for its reddish, pottery-like hue at sunrise
@@ -151,4 +158,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[My Three Suns (and Moons)](https://articles.ohr.edu/articles/my-three-suns-and-moons)," *What's in a Word?*, Ohr Somayach, 3 September 2016.
 
-Cited in the essay: Bereishis 1; Vayikra 26:30; Yeshayahu 3:18; Rabbi Aharon Marcus.
+Rabbi Reuven Chaim Klein, "[Matot: The Names of Jericho](https://articles.ohr.edu/articles/matot-the-names-of-jericho)," *What's in a Word?*, Ohr Somayach, 23 July 2022.
+
+Cited in the essay: Bereishis 1; Vayikra 26:30; Yeshayahu 3:18; Rabbi Aharon Marcus; Menachem Ibn Saruk; Yonah Ibn Janach; Radak; Rabbi Shlomo Pappenheim.

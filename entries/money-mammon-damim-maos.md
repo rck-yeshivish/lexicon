@@ -10,7 +10,8 @@ words:
     nk: רְכוּשׁ
 sources:
   - wiaw:11394 "Bechukosai: All About Money" (2024-06-01) https://articles.ohr.edu/articles/bechukosai-all-about-money
-authorities: [Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Rabbi Shlomo Pappenheim, Rashi, Rashbam, Ibn Ezra, Ibn Janach, Radak, Chida, Rabbi Yitzchok Schmelkes, Rabbi Shlomo Zalman Ehrenreich, Rabbi Chaim of Friedberg, Rabbi Yaakov Emden, Rabbi Azaria Figo, Rabbi Eliezer Herstik, Pri Megadim, Rabbi Shimon Yehuda Leib Goldblit, Theo Vennemann]
+  - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
+authorities: [Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Rabbi Shlomo Pappenheim, Rashi, Rashbam, Ibn Ezra, Ibn Janach, Radak, Chida, Rabbi Yitzchok Schmelkes, Rabbi Shlomo Zalman Ehrenreich, Rabbi Chaim of Friedberg, Rabbi Yaakov Emden, Rabbi Azaria Figo, Rabbi Eliezer Herstik, Pri Megadim, Rabbi Shimon Yehuda Leib Goldblit, Theo Vennemann, Maharal]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -139,7 +140,9 @@ was said to allot a man his destiny.
 ### kesef (כסף)
 Silver the metal, which then became another word for money outright. Where
 *kesef* and *mechir* stand in one pasuk (Yeshayahu 55:1), Targum keeps them
-apart.
+apart. The root כ-ס-ף also yields *nichsaf*, desiring or loving, and the Maharal
+(*Netivos Olam*, *Nesiv HaOsher*, ch. 2) clarifies the connection: man's drive to
+accrue more and more money derives from his desire to become rich.
 
 Rabbi Reuven Chaim Klein reports two of his own guesses about English, one
 abandoned and one not. He used to think English and German *gold* was related to Yiddish and
@@ -187,4 +190,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Bechukosai: All About Money](https://articles.ohr.edu/articles/bechukosai-all-about-money)," *What's in a Word?*, Ohr Somayach, 1 June 2024.
 
-Cited in the essay: Devarim 6:5; Berachos 9:5; Kesubos 2:9, 3:2, 66b; Bava Basra 10:8; *Bamidbar Rabbah* 22:8; Koheles 5:9, 10:19; Shemos 22:1, 30:13; Tehillim 72:14; II Shmuel 24:24; Yeshayahu 45:13, 55:1; Bamidbar 20:19, 32:1; Bereishis 1:27; Nedarim 64b; Bava Kamma 119a; Avos 2:8, 4:11; *Sefer HeAruch*; *Sefer HaTishbi* and *Meturgaman*; *Beis Yitzchak* Yoreh Deah 1:152; *Binah L'Itim* derush 69; *Ragli Mevaser*; *Leshon Chachamim*; *Daas Zekeinim* to Bamidbar 32:1; Yeshayahu 65:11 (Meni); *Iggeres HaTiyul*; *Ezer Ohr* (glosses to *Sefer HaTishbi*); *Midrash Shmuel* to Avos 2:8; *Hafla'ah* to Kesubos 66b.
+Rabbi Reuven Chaim Klein, "[An Utter Embarrassment](https://articles.ohr.edu/articles/an-utter-embarrassment)," *What's in a Word?*, Ohr Somayach, 17 September 2022.
+
+Cited in the essay: Devarim 6:5; Berachos 9:5; Kesubos 2:9, 3:2, 66b; Bava Basra 10:8; *Bamidbar Rabbah* 22:8; Koheles 5:9, 10:19; Shemos 22:1, 30:13; Tehillim 72:14; II Shmuel 24:24; Yeshayahu 45:13, 55:1; Bamidbar 20:19, 32:1; Bereishis 1:27; Nedarim 64b; Bava Kamma 119a; Avos 2:8, 4:11; *Sefer HeAruch*; *Sefer HaTishbi* and *Meturgaman*; *Beis Yitzchak* Yoreh Deah 1:152; *Binah L'Itim* derush 69; *Ragli Mevaser*; *Leshon Chachamim*; *Daas Zekeinim* to Bamidbar 32:1; Yeshayahu 65:11 (Meni); *Iggeres HaTiyul*; *Ezer Ohr* (glosses to *Sefer HaTishbi*); *Midrash Shmuel* to Avos 2:8; *Hafla'ah* to Kesubos 66b; Maharal, *Netivos Olam*, *Nesiv HaOsher* ch. 2.

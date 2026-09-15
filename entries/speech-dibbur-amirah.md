@@ -7,7 +7,8 @@ english: [speech, utterance, saying, statement, declaration]
 domain: speech
 sources:
   - wiaw:8272 "Shavuot Special Feature!" (2019-06-08) https://articles.ohr.edu/articles/shavuot-special-feature
-authorities: [Rashi, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Moshav Zekanim, Zohar, Sefer HaChachmah, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachaya, Vilna Gaon, Rabbi Pinchas Horowitz of Frankfurt, Netziv, Malbim, Rabbi Moshe Feinstein, Rabbi Shmuel Jaffa-Ashkenazi of Istanbul, Rabbi Shlomo Pappenheim, Rabbi Wolf Heidenheim, Ibn Ezra, Rabbi Yoel Ibn Shuaib, Rav Hirsch, Rav Saadia Gaon, Dunash ibn Labrat, Raavan, Rabbi Yonah Isaac Neiman of Makow, Rabbi Shmuel Shmelka Horowitz of Nikolsburg, Rabbi Kalonymus Kalman Epstein of Krakow, Rabbi Yaakov Yosef of Ostrog, Rabbi Shimon Maryles of Jaroslaw, Sifsei Chachamim, Bartenura, Targum]
+  - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
+authorities: [Rashi, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Moshav Zekanim, Zohar, Sefer HaChachmah, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachaya, Vilna Gaon, Rabbi Pinchas Horowitz of Frankfurt, Netziv, Malbim, Rabbi Moshe Feinstein, Rabbi Shmuel Jaffa-Ashkenazi of Istanbul, Rabbi Shlomo Pappenheim, Rabbi Wolf Heidenheim, Ibn Ezra, Rabbi Yoel Ibn Shuaib, Rav Hirsch, Rav Saadia Gaon, Dunash ibn Labrat, Raavan, Rabbi Yonah Isaac Neiman of Makow, Rabbi Shmuel Shmelka Horowitz of Nikolsburg, Rabbi Kalonymus Kalman Epstein of Krakow, Rabbi Yaakov Yosef of Ostrog, Rabbi Shimon Maryles of Jaroslaw, Sifsei Chachamim, Bartenura, Targum, Menachem Ibn Saruk, Radak]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -45,6 +46,9 @@ Root ד-ב-ר.
   might be tempted to hear strong, forceful terms in it, but the Gemara
   (*Makkos* 11a) separates the two: *dibbur* connotes harshness and *yadber*
   actually connotes softness.
+- Menachem Ibn Saruk lists *dibbur* and *yadber*, "leading" or "exterminating," among the distinct
+  meanings of ד-ב-ר, and Radak bridges the two: animals are led by the speech of
+  the one in charge, who commands them where to go.
 - Maharal (*Nesivos Olam*): in the context of Torah study *dibbur* is always
   pleasant, and only in other contexts is it harsh.
 - *Moshav Zekanim* (to Shemos 6:2) confines the harsh sense to the Chumash,
@@ -228,4 +232,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shavuot Special Feature!](https://articles.ohr.edu/articles/shavuot-special-feature)," *What's in a Word?*, Ohr Somayach, 8 June 2019.
 
-Cited in the essay: Bereishis 34:3, 42:30; Shemos 6:2, 13:1, 19:3, 32:7; Vayikra 10:19, 21:1; Bamidbar 12:1, 15:37, 22:5; Devarim 2:16, 26:17-18, 32:1; Yeshayahu 17:6; Tehillim 19:4, 47:4, 94:4; *Avos* 5:1; *Makkos* 11a; *Berachos* 6a; Zohar, *Idra Rabbah* (Naso) 132b, Bereishis 239b and Shemos 161a; Rashi to Shemos 6:2, 19:3, 32:7, Vayikra 10:19, Bamidbar 12:1 and Devarim 26:17-18; Rabbi Yaakov Tzvi Mecklenburg; Maharal, *Nesivos Olam*; *Moshav Zekanim* to Shemos 6:2; *Sefer HaChachmah*; Rabbeinu Bachaya to Shemos 13:1; the Vilna Gaon, including to Bamidbar 22:5; Rabbi Pinchas Horowitz of Frankfurt; the Netziv; Malbim; Rabbi Moshe Feinstein; Rabbi Shmuel Jaffa-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, with Rabbi Wolf Heidenheim's notes; Ibn Ezra and Rabbi Yoel Ibn Shuaib to Tehillim 19:4; Ibn Ezra to Devarim 26:17; Rav Hirsch; Rav Saadia Gaon; Dunash ibn Labrat; *Sifsei Chachamim* to Devarim 2:16; Bartenura to *Shekalim* 5:3; the Targumim; Raavan; Rabbi Yonah Isaac Neiman of Makow on *Akdamus*; Rabbi Shmuel Shmelka Horowitz of Nikolsburg; Rabbi Kalonymus Kalman Epstein of Krakow; Rabbi Yaakov Yosef of Ostrog; Rabbi Shimon Maryles of Jaroslaw.
+Rabbi Reuven Chaim Klein, "[Bamidbar: Out in the Wild](https://articles.ohr.edu/articles/bamidbar-out-in-the-wild)," *What's in a Word?*, Ohr Somayach, 20 May 2023.
+
+Cited in the essay: Bereishis 34:3, 42:30; Shemos 6:2, 13:1, 19:3, 32:7; Vayikra 10:19, 21:1; Bamidbar 12:1, 15:37, 22:5; Devarim 2:16, 26:17-18, 32:1; Yeshayahu 17:6; Tehillim 19:4, 47:4, 94:4; *Avos* 5:1; *Makkos* 11a; *Berachos* 6a; Zohar, *Idra Rabbah* (Naso) 132b, Bereishis 239b and Shemos 161a; Rashi to Shemos 6:2, 19:3, 32:7, Vayikra 10:19, Bamidbar 12:1 and Devarim 26:17-18; Rabbi Yaakov Tzvi Mecklenburg; Maharal, *Nesivos Olam*; *Moshav Zekanim* to Shemos 6:2; *Sefer HaChachmah*; Rabbeinu Bachaya to Shemos 13:1; the Vilna Gaon, including to Bamidbar 22:5; Rabbi Pinchas Horowitz of Frankfurt; the Netziv; Malbim; Rabbi Moshe Feinstein; Rabbi Shmuel Jaffa-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, with Rabbi Wolf Heidenheim's notes; Ibn Ezra and Rabbi Yoel Ibn Shuaib to Tehillim 19:4; Ibn Ezra to Devarim 26:17; Rav Hirsch; Rav Saadia Gaon; Dunash ibn Labrat; *Sifsei Chachamim* to Devarim 2:16; Bartenura to *Shekalim* 5:3; the Targumim; Raavan; Rabbi Yonah Isaac Neiman of Makow on *Akdamus*; Rabbi Shmuel Shmelka Horowitz of Nikolsburg; Rabbi Kalonymus Kalman Epstein of Krakow; Rabbi Yaakov Yosef of Ostrog; Rabbi Shimon Maryles of Jaroslaw; Menachem Ibn Saruk; Radak.

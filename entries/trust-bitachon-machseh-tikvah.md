@@ -13,7 +13,8 @@ words:
 sources:
   - wiaw:8836 "Trusting and Relying on G-d" (2020-08-29) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d
   - wiaw:9877 "Trusting and Relying on G-d" (2022-09-10) https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2
-authorities: [Rabbeinu Bachaya Ibn Pakuda, Malbim, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Tzuriel, Peirush HaRokeach, Rabbi Moshe Wolfson]
+  - wiaw:11178 "Vayigash: Say it Clear (Part 2/2)" (2023-12-23) https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22
+authorities: [Rabbeinu Bachaya Ibn Pakuda, Malbim, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Tzuriel, Peirush HaRokeach, Rabbi Moshe Wolfson, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -90,6 +91,10 @@ straight line from the current situation to the one anticipated.
 Peirush HaRokeach: *sever* is spelled like *shever*, food; men look to Hashem
 in hope and He gives them their food (Tehillim 145:15). Wertheimer: *sever* is
 strong trust that grows from recognising Hashem as creator and sustainer of all.
+Rav Hirsch (to Tehillim 145:15): *sover* is a mental process that computes
+separate pieces of information and joins them into one complete, logical
+thought, so that one who puts his hope in Hashem comes to the intellectual
+conclusion that He is the holistic One who powers all parts of creation.
 *Kesel*, confidence or reliance, seems to be a cognate of *kesil*, fool, both
 from כ-ס-ל. Malbim: in *tikvah* one awaits a
 good; in *kesel* one is sure, with almost foolish naivety, that no harm will
@@ -127,4 +132,6 @@ Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.ed
 
 Rabbi Reuven Chaim Klein, "[Trusting and Relying on G-d](https://articles.ohr.edu/articles/trusting-and-relying-on-g-d-2)," *What's in a Word?*, Ohr Somayach, 10 September 2022.
 
-Cited in the essay: Rabbeinu Bachaya Ibn Pakuda, *Chovos HaLevavos*, Shaar HaBitachon; Bereishis 1:9 to 10, 18:5; Shemos 7:19; Vayikra 11:36; Bamidbar 8:10; Devarim 34:9; Yehoshua 2:18; Michah 3:11; Tehillim 104:15, 118:9, 130:7, 145:15; Mishlei 3:26, 14:26 with *Biur HaGra*; Koheles 2:14; Chagigah 16b; Malbim; the Vilna Gaon; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe Tzuriel; *Peirush HaRokeach*; Rabbi Moshe Wolfson.
+Rabbi Reuven Chaim Klein, "[Vayigash: Say it Clear (Part 2/2)](https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22)," *What's in a Word?*, Ohr Somayach, 23 December 2023.
+
+Cited in the essay: Rabbeinu Bachaya Ibn Pakuda, *Chovos HaLevavos*, Shaar HaBitachon; Bereishis 1:9 to 10, 18:5; Shemos 7:19; Vayikra 11:36; Bamidbar 8:10; Devarim 34:9; Yehoshua 2:18; Michah 3:11; Tehillim 104:15, 118:9, 130:7, 145:15; Mishlei 3:26, 14:26 with *Biur HaGra*; Koheles 2:14; Chagigah 16b; Malbim; the Vilna Gaon; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe Tzuriel; *Peirush HaRokeach*; Rabbi Moshe Wolfson; Rav Hirsch to Tehillim 145:15.

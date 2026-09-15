@@ -30,7 +30,8 @@ words:
     nk: עֲבָרָה
 sources:
   - wiaw:8991 "Vayechi: Boats, Ships and Nautical Rhapsody" (2021-01-02) https://articles.ohr.edu/articles/vayechi-boats-ships-and-nautical-rhapsody
-authorities: [Rashi, Radak, Ibn Ezra, Ralbag, Malbim, Rav Hirsch, Rabbi Shlomo Pappenheim, Rambam, Abarbanel, Sumchos, Rabbi Yaakov ben Yehudah Chazzan of London, Rabbi Dr. Daniel Sperber, Raphael Patai, Chaim Tawil]
+  - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
+authorities: [Rashi, Radak, Ibn Ezra, Ralbag, Malbim, Rav Hirsch, Rabbi Shlomo Pappenheim, Rambam, Abarbanel, Sumchos, Rabbi Yaakov ben Yehudah Chazzan of London, Rabbi Dr. Daniel Sperber, Raphael Patai, Chaim Tawil, Shoresh Yesha]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -137,7 +138,12 @@ Basra 73a); Rabbi Dr. Daniel Sperber derives *dugit* from *dag*, fish, and
 identifies it with the fisherman's boat the Greeks called a *lembus*. *Tzi* and
 *tzim* are the large ships (Rashi to Bamidbar 24:24, Yeshayahu 23:13, and
 *Sanhedrin* 106a), which Malbim adds are typically warships, built big and
-strong. In Aramaic the Targumim render *oniah* sometimes *ilfa* (Yonah 1:3;
+strong. Radak (*Sefer HaShorashim*) traces *tzi* (Yeshayahu 33:21) and *tzim*
+(Bamidbar 24:24) to the same root as *tziyah*, parched land, without explaining
+the link; *Shoresh Yesha* explains it either that on the high seas there are only
+water and ships, so that as a *tziyah* is the opposite of a watered land, a *tzi*
+is the opposite of water, or that a hull's function is to keep the water out,
+which is conceptually the same idea as dryness. In Aramaic the Targumim render *oniah* sometimes *ilfa* (Yonah 1:3;
 Tehillim 48:8, 104:26) and sometimes *sefinah*/*sefinta* (Bereishis 49:13;
 Devarim 28:68; Melachim I 9:26), and Rashi glosses *ilfa* as *sefinah* in one
 place (Avodah Zarah 10b) and as *oniah* in another (Eruvin 53b); Ilfa is also the
@@ -169,4 +175,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayechi: Boats, Ships and Nautical Rhapsody](https://articles.ohr.edu/articles/vayechi-boats-ships-and-nautical-rhapsody)," *What's in a Word?*, Ohr Somayach, 2 January 2021.
 
-Cited in the essay: Bereishis 49:13; Yonah 1:5, 1:3; Iyov 9:26 with Rashi, Ibn Ezra, and Ralbag; Melachim I 5:23, 9:26, 10:22, 22:49; Divrei HaYamim II 2:15; Amos 4:2 with Rashi and Radak; Shmuel II 17:28, 19:19; Mishlei 31:14; Tehillim 48:8, 104:26; Yeshayahu 2:16, 23:13, 33:21; Devarim 28:68, 33:19 with Abarbanel; Bamidbar 24:24; Shemos 12:22; Bava Basra 73a; *Sanhedrin* 106a; *Kesuvos* 69b; *Rosh HaShanah* 23a; *Bava Metzia* 80b; Shabbos 19b, 32a, 103b, 156b; Bava Kama 116a; *Tosefta* Bava Basra 4:1 and Succah 3:2; Yerushalmi Bava Basra 5:1; Rambam to Keilim 15:1; *Eitz Chaim*; Rav Hirsch to Bereishis 16:8.
+Rabbi Reuven Chaim Klein, "[Bamidbar: Out in the Wild](https://articles.ohr.edu/articles/bamidbar-out-in-the-wild)," *What's in a Word?*, Ohr Somayach, 20 May 2023.
+
+Cited in the essay: Bereishis 49:13; Yonah 1:5, 1:3; Iyov 9:26 with Rashi, Ibn Ezra, and Ralbag; Melachim I 5:23, 9:26, 10:22, 22:49; Divrei HaYamim II 2:15; Amos 4:2 with Rashi and Radak; Shmuel II 17:28, 19:19; Mishlei 31:14; Tehillim 48:8, 104:26; Yeshayahu 2:16, 23:13, 33:21; Devarim 28:68, 33:19 with Abarbanel; Bamidbar 24:24; Shemos 12:22; Bava Basra 73a; *Sanhedrin* 106a; *Kesuvos* 69b; *Rosh HaShanah* 23a; *Bava Metzia* 80b; Shabbos 19b, 32a, 103b, 156b; Bava Kama 116a; *Tosefta* Bava Basra 4:1 and Succah 3:2; Yerushalmi Bava Basra 5:1; Rambam to Keilim 15:1; *Eitz Chaim*; Rav Hirsch to Bereishis 16:8; Radak, *Sefer HaShorashim*; *Shoresh Yesha*.

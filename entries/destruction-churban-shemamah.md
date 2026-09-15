@@ -12,7 +12,8 @@ words:
     nk: שָׁם
 sources:
   - wiaw:7366 "Words of Destruction" (2017-07-29) https://articles.ohr.edu/articles/words-of-destruction
-authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Chaim of Volozhin]
+  - wiaw:9775 "On Dry Land" (2022-07-09) https://articles.ohr.edu/articles/on-dry-land
+authorities: [Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Radak, Ibn Ezra, Rabbi Chaim of Volozhin, Shoresh Yesha]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -37,7 +38,12 @@ damaged in itself but has been severed from something outside it that it needed
 in order to thrive. A ghost town wholly intact but abandoned can be considered
 a *churban*; it is destroyed with nothing about it looking destroyed. On the same logic an arid
 land is a *charbah*, its barrenness owing not to a defect in the soil but to its
-being cut off from rain.
+being cut off from rain. *Shoresh Yesha* takes the core of ח-ר-ב as destruction,
+the opposite of something living and thriving, which accounts for the root's
+other senses: *cherev*, the sword, is the implement that brings destruction about,
+and dryness belongs because what is totally dry and juiceless withers away and
+fails to live and thrive. Rabbi Pappenheim puts forth an explanation similar to
+this one.
 
 ### shemamah (שממה)
 Root ש-מ-ם. Malbim: the general term for the utter desolation of a land, and
@@ -99,4 +105,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Words of Destruction](https://articles.ohr.edu/articles/words-of-destruction)," *What's in a Word?*, Ohr Somayach, 29 July 2017.
 
-Cited in the essay: Vayikra 26:31; Tehillim 137:1; Radak, *Sefer HaShorashim* s.v. שמם; Ibn Ezra on *shahm* as desolation; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:4.
+Rabbi Reuven Chaim Klein, "[On Dry Land](https://articles.ohr.edu/articles/on-dry-land)," *What's in a Word?*, Ohr Somayach, 9 July 2022.
+
+Cited in the essay: Vayikra 26:31; Tehillim 137:1; Radak, *Sefer HaShorashim* s.v. שמם; Ibn Ezra on *shahm* as desolation; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Chaim of Volozhin, *Nefesh HaChaim* 1:4; *Shoresh Yesha*.

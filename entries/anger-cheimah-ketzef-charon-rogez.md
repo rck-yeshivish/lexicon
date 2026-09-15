@@ -18,7 +18,11 @@ words:
     nk: פָּנִים
 sources:
   - wiaw:9296 "Anger Issues" (2021-07-17) https://articles.ohr.edu/articles/anger-issues
-authorities: [Rabbeinu Efrayim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Vilna Gaon, Ibn Janach, Ibn Ezra, Radak, Eitz Yosef, Rambam, Rabbi Avraham Maimuni, Rashi, Menachem, Rabbeinu Tam, Targum Yonatan, Donash, Rabbi Yosef Kimchi]
+  - wiaw:9603 "Pick Your Poison" (2022-03-05) https://articles.ohr.edu/articles/pick-your-poison
+  - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
+  - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
+  - wiaw:11527 "Sukkot: Shake & Quake (Pt. 3/3)" (2024-10-19) https://articles.ohr.edu/articles/sukkot-shake-quake-pt-33
+authorities: [Rabbeinu Efrayim, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo of Urbino, Malbim, Rabbi Shlomo Pappenheim, Peirush HaRokeach, Vilna Gaon, Ibn Janach, Ibn Ezra, Radak, Eitz Yosef, Rambam, Rabbi Avraham Maimuni, Rashi, Menachem, Rabbeinu Tam, Targum Yonatan, Donash, Rabbi Yosef Kimchi, Rav Hirsch, Shadal, Rashbam]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -46,6 +50,12 @@ on the object of the anger, others on its effects, and others on its cause.
 Root כ-ע-ס. The commonest, most generic term (Shmuel I 1:6, Iyov 6:2). Rabbeinu
 Efrayim: a metathesis of *eches*, poison in the heart. Malbim: anger pent up in the
 heart and never brought out into action. Pappenheim: the simplest, lowest grade.
+Rashi (to Shabbos 62b) runs the metathesis the other way, taking *eches* as a
+metathesis of *kaas* because a snake emits its venom only when it becomes angered.
+Either way, the link is already in the Gemara's exposition of the name of Kalev's
+daughter Achsah (Yehoshua 15:16-17), "because anyone who sees her becomes angry
+(*kaas*) at his wife," resting on the metathesis of ע-כ-ס, the supposed root of
+Achsah and seemingly of *eches*, and כ-ע-ס.
 
 ### cheimah (חמה)
 Yeshayahu 27:4, Esther 7:10.
@@ -67,6 +77,9 @@ Yechezkel 7:12, Zecharyah 10:3.
   "burnt" (Yechezkel 24:10).
 - Pappenheim departs from that trend: from *nechirim*, nostrils, the angry man's
   heightened exhaling of hot air.
+- Rashi (to Devarim 29:19, Shmuel II 22:9, Yeshayahu 48:9, Tehillim 18:9,
+  Berachos 56b): *charon af* is anger because a person's anger can be discerned
+  on his nose as it fumes in fury.
 - Peirush HaRokeach: *charon* alone is "upset"; *charon af* is anger.
 - Rambam (cited by his son Rabbi Avraham Maimuni): *charon* arouses the thirst
   for vengeance; *atzvus* does not.
@@ -78,6 +91,12 @@ Iyov 3:17, Melachim II 19:27. Elsewhere "shaking" and "fear."
 - Rokeach: the tranquil man who suddenly bursts into anger.
 - Malbim: anger that harries a person and allows him no respite to live in
   tranquility.
+- Shadal (to Bereishis 45:24, Shemos 15:14): primarily physical shaking or
+  trembling, then applied metaphorically to any emotional agitation or
+  disturbance, even if not from fear.
+- Rashbam (to Bereishis 45:24): in Biblical Aramaic *rogez* denotes specifically
+  anger or wrath. In rabbinic usage a *ragzan* is a person prone to anger
+  (Shabbos 156a, Kiddushin 40b).
 
 (The Yiddish *broiges*, of two people in a fight, comes from this word.)
 
@@ -102,6 +121,9 @@ Yirmiyahu 15:17, Zecharyah 1:12.
   "to curse", and in an anger context it names an effect of rage, the angry man
   cursing his object as long as the anger lasts.
 - Vilna Gaon: suppressed anger, held back from showing outwardly.
+- Rav Hirsch (to Tehillim 7:12) relates ז-ע-ם to ז-ה-ם, *zuhamah*, filth, by
+  the interchange of hei and ayin: *zaam* is the rejection of another in the eyes
+  of the beholder, as *zuhamah* too is something to be rejected.
 
 ### ketzef (קצף)
 Bamidbar 17:11, Zecharyah 1:2; a very intense anger, the angry man having
@@ -199,4 +221,12 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Anger Issues](https://articles.ohr.edu/articles/anger-issues)," *What's in a Word?*, Ohr Somayach, 17 July 2021.
 
-Cited in the essay: the lists of Rabbeinu Efrayim, Bedersi and Rabbi Shlomo of Urbino; Malbim; Rabbi Shlomo Pappenheim; Peirush HaRokeach to Shemos 16:20; Ibn Ezra to Esther 1:12; Radak, *Sefer HaShorashim* s.v. קצף; Eitz Yosef to Eichah Rabbah 2:3; Berachos 7a, Rosh Hashanah 32b, Sanhedrin 48b; Chullin 63a on Vayikra 11:19 and Devarim 14:18; Rashi to Shemos 15:24, Yechezkel 27:35, Yeshayahu 54:8; Bava Metzia 4:6 and 6:1.
+Rabbi Reuven Chaim Klein, "[Pick Your Poison](https://articles.ohr.edu/articles/pick-your-poison)," *What's in a Word?*, Ohr Somayach, 5 March 2022.
+
+Rabbi Reuven Chaim Klein, "[Shemini: The Nosey Truth](https://articles.ohr.edu/articles/shemini-the-nosey-truth)," *What's in a Word?*, Ohr Somayach, 6 April 2024.
+
+Rabbi Reuven Chaim Klein, "[Shavuos: Getting Dirty](https://articles.ohr.edu/articles/shavuos-getting-dirty)," *What's in a Word?*, Ohr Somayach, 8 June 2024.
+
+Rabbi Reuven Chaim Klein, "[Sukkot: Shake & Quake (Pt. 3/3)](https://articles.ohr.edu/articles/sukkot-shake-quake-pt-33)," *What's in a Word?*, Ohr Somayach, 19 October 2024.
+
+Cited in the essay: the lists of Rabbeinu Efrayim, Bedersi and Rabbi Shlomo of Urbino; Malbim; Rabbi Shlomo Pappenheim; Peirush HaRokeach to Shemos 16:20; Ibn Ezra to Esther 1:12; Radak, *Sefer HaShorashim* s.v. קצף; Eitz Yosef to Eichah Rabbah 2:3; Berachos 7a, Rosh Hashanah 32b, Sanhedrin 48b; Chullin 63a on Vayikra 11:19 and Devarim 14:18; Rashi to Shemos 15:24, Yechezkel 27:35, Yeshayahu 54:8; Bava Metzia 4:6 and 6:1; Rashi to Shabbos 62b; Yehoshua 15:16-17; Rashi to Devarim 29:19, Shmuel II 22:9, Yeshayahu 48:9, Tehillim 18:9, Berachos 56b; Rav Hirsch to Tehillim 7:12; Shadal to Bereishis 45:24 and Shemos 15:14; Rashbam to Bereishis 45:24; Shabbos 156a, Kiddushin 40b.

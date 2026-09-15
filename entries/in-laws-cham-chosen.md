@@ -10,7 +10,8 @@ words:
     nk: חָתָן
 sources:
   - wiaw:8605 "Heat with the In-Laws" (2020-02-15) https://articles.ohr.edu/articles/heat-with-the-in-laws
-authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack]
+  - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
+authorities: [Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Rabbi Menachem Azariah of Fano, Pri Megadim, Rabbi Shimon Pollack, Rabbi Yonah Ibn Janach]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -75,6 +76,14 @@ reads *shochev im chosanto* (Devarim 27:23).
   and a husband and wife may be called brother and sister; the father-in-law is
   the one who gave this man his "sister," which is why the word can only ever be
   the husband's.
+- Rabbi Yonah Ibn Janach: *chosen*, usually father-in-law, can also mean
+  brother-in-law, since he takes Chovav ben Reuel as a son of Moshe's
+  father-in-law Yisro/Reuel (Bamidbar 10:29), and Chovav is called Moshe's
+  *chosen* (Shoftim 4:11). Radak disagrees: Chovav is another name for Yisro and
+  Reuel was his father, so Chovav was Moshe's father-in-law and there is no proof.
+  Both seem to disregard the Midrashic position that Reuel and Chovav are alike
+  alternate names for Yisro. The Akkadian cognate of *chosen* can mean both
+  father-in-law and brother-in-law.
 
 *Pri Megadim* on why this pair never widened: *chosen* names the man who made
 him a *chasan*, and *choseness* was formed from it. Since *chasan* is by
@@ -116,4 +125,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Heat with the In-Laws](https://articles.ohr.edu/articles/heat-with-the-in-laws)," *What's in a Word?*, Ohr Somayach, 15 February 2020.
 
-Cited in the essay: Shemos 18:1-27; Devarim 27:23; Bereishis 38:13, 38:25; Rus 2:11-3:17; Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak, *Sefer HaShorashim*; Rav Hirsch; Rabbi Shlomo Pappenheim; Rabbi Menachem Azariah of Fano; the *Pri Megadim*, in a letter on dikduk; *Shem MiShimon* (Rabbi Shimon Pollack).
+Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/sort-of-siblings)," *What's in a Word?*, Ohr Somayach, 21 August 2021.
+
+Cited in the essay: Shemos 18:1-27; Devarim 27:23; Bamidbar 10:29; Shoftim 4:11; Ibn Janach; Bereishis 38:13, 38:25; Rus 2:11-3:17; Shir HaShirim 8:7; Tehillim 51:7; Kesubos 1:5; Yevamos 1:1 and 15:4; Radak, *Sefer HaShorashim*; Rav Hirsch; Rabbi Shlomo Pappenheim; Rabbi Menachem Azariah of Fano; the *Pri Megadim*, in a letter on dikduk; *Shem MiShimon* (Rabbi Shimon Pollack).

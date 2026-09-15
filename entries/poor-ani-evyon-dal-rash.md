@@ -14,7 +14,9 @@ words:
     nk: מָךְ
 sources:
   - wiaw:8245 "The Poor and Unfortunate" (2019-05-18) https://articles.ohr.edu/articles/the-poor-and-unfortunate
-authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach, Midrash Tanchuma, Midrash Mishlei, Vayikra Rabbah, Dr. Leon Aryeh Feldman]
+  - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
+  - wiaw:11205 "Vaera: The Vertically-Challenged" (2024-01-13) https://articles.ohr.edu/articles/vaera-the-vertically-challenged
+authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach, Midrash Tanchuma, Midrash Mishlei, Vayikra Rabbah, Dr. Leon Aryeh Feldman, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Menachem Ibn Saruk, Wilhelm Gesenius, Ibn Janach, Radak, Ibn Chayyuj, Rabbi Dr. Ernest Klein, Rabbi Eliyahu Bachur]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -57,7 +59,7 @@ Related to *ta'av*, desire: full of wants he cannot fill. Bedersi draws the
 striking consequence that a rich man who wants more than he has and cannot get
 it is in that respect an *evyon*, and notes that most wealthy people do want
 more than they have, so that in certain ways they may aptly be called
-*evyonim*, which, Rabbi Klein notes, sharpens the Mishnah "Who is rich? He who is happy with his
+*evyonim*, which, Rabbi Reuven Chaim Klein notes, sharpens the Mishnah "Who is rich? He who is happy with his
 lot" (*Avos* 4:1). Rabbi Yehuda Kalatz agrees on the definition and adds a moral
 edge: the *evyon* is lazy and brought it on himself by refusing even to try,
 having no trade, no skill, no business, and not even the knack of appealing for
@@ -99,6 +101,12 @@ charity context. Rabbi Yehuda Kalatz: specifically a man once rich who lost his
 wealth. Rabbi Shlomo Pappenheim of Breslau (1740-1814): the dalet-lamed root
 primarily means drawing water from a well (hence *deli*, a pail), borrowed for
 poverty because a man bereft of his fortune is like a well emptied of its water.
+Rabbi Moshe Tedeschi-Ashkenazi (*Hoil Moshe*), implicitly disagreeing with
+Menachem Ibn Saruk's classing of *dal* under ד-ל, derives it instead from *zol*,
+cheap, by the well-established interchange of zayin and dalet. Wilhelm Gesenius
+takes the core of ד-ל as hanging or swinging, so that a *dal* is a feeble
+individual whose wealth is not well grounded but figuratively hangs and may
+swing from one situation to another.
 
 ### dach (דך)
 Crushed, sharing a root with *medochah*, a pestle. He looks smashed because want
@@ -110,7 +118,12 @@ Also crushed, but abstractly rather than physically: at the mercy of others,
 squashed by having to subordinate himself to them. Bedersi offers an
 alternative: the *mach* need not have a low income at all, but is pressed by
 obligations beyond his means. Pappenheim traces the root to the kaf element of
-striking, one struck by bad *mazal*.
+striking, one struck by bad *mazal*. Others give the root as מ-ו-כ (Ibn Janach
+and Radak), מ-כ-כ (Ibn Chayyuj) or מ-כ (Menachem Ibn Saruk). Rabbi Dr. Ernest
+Klein, echoing Rabbi Eliyahu Bachur's *Sefer Tishbi*, explains the Rabbinic
+*namuch*, low, as a secondary base form of the nifal of *mach*: the grammatical
+nun denotes one who has become lowered, and the resulting word came to be treated
+as though the nun were part of the root.
 
 ### ish techachim (איש תככים)
 Mishlei 29:13, listed as a word for the poor in some of the midrashic lists and
@@ -124,7 +137,7 @@ From "going," and it occurs once in Tanach in this sense, in Nasan's parable to
 David (Shmuel II 12:4). Either the poor man who
 goes door to door raising money, or the man whose assets have all gone. It can
 equally mean any panhandler or itinerant peddler whatever his means, which is
-perhaps why, as Rabbi Klein suggests, it appears in only some of the midrashic
+perhaps why, as Rabbi Reuven Chaim Klein suggests, it appears in only some of the midrashic
 lists.
 
 ## Rendering guidance
@@ -155,4 +168,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Poor and Unfortunate](https://articles.ohr.edu/articles/the-poor-and-unfortunate)," *What's in a Word?*, Ohr Somayach, 18 May 2019.
 
-Cited in the essay: *Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22; *Vayikra Rabbah* §34:6; Bava Metzia 111b; *Avos* 4:1; Mishlei 29:13, 31:20; Shmuel II 12:4; Rabbi Avraham Bedersi HaPenini; Rabbi Yehuda Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham ben Yitzchak HaLevi Tamach's commentary to *Eishes Chayil*, published by Dr. Leon Aryeh Feldman in a 1971 *Sefer Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach; Rabbi Moshe Sternbuch; Rabbi Yechiel Michel Epstein; Rav Chaim Kanievsky.
+Rabbi Reuven Chaim Klein, "[Shemos: Drawing Water](https://articles.ohr.edu/articles/shemos-drawing-water)," *What's in a Word?*, Ohr Somayach, 14 January 2023.
+
+Rabbi Reuven Chaim Klein, "[Vaera: The Vertically-Challenged](https://articles.ohr.edu/articles/vaera-the-vertically-challenged)," *What's in a Word?*, Ohr Somayach, 13 January 2024.
+
+Cited in the essay: *Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22; *Vayikra Rabbah* §34:6; Bava Metzia 111b; *Avos* 4:1; Mishlei 29:13, 31:20; Shmuel II 12:4; Rabbi Avraham Bedersi HaPenini; Rabbi Yehuda Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham ben Yitzchak HaLevi Tamach's commentary to *Eishes Chayil*, published by Dr. Leon Aryeh Feldman in a 1971 *Sefer Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach; Rabbi Moshe Sternbuch; Rabbi Yechiel Michel Epstein; Rav Chaim Kanievsky; Rabbi Moshe Tedeschi-Ashkenazi, *Hoil Moshe*; Menachem Ibn Saruk; Wilhelm Gesenius on ד-ל; Ibn Janach; Radak; Ibn Chayyuj; Rabbi Dr. Ernest Klein; Rabbi Eliyahu Bachur, *Sefer Tishbi*.

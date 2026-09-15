@@ -25,6 +25,7 @@ words:
     distinct: the vine's twining shoot, the word in the butler's dream (Bereishis 40:10); Ibn Saruk equates sorek with it, possibly via the interchange of kuf and gimmel
 sources:
   - wiaw:9491 "Through the Grapevine" (2021-12-18) https://articles.ohr.edu/articles/through-the-grapevine
+  - wiaw:11743 "Pekudai: Seeing Red (Part 2/3)" (2025-03-29) https://articles.ohr.edu/articles/pekudai-seeing-red-part-23
 authorities: [Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Shoresh Yesha, Rashi, Rabbeinu Bachaya, Ibn Ezra, Ohalei Yehuda, Targum Yonasan, Rabbi Yitzchak Ibn Ghiyyat, Rabbi Shmuel ben Chofni Gaon, Maharsha, Rivan, Shitah Mekubetzes]
 status: reviewed
 updated: 2026-09-10
@@ -108,6 +109,13 @@ idolatrous god named Gapnu, understood there to be a messenger of Baal.
 Yeshayahu 5:2, Yirmiyahu 2:21), making it the most common of the three. While
 *gefen* plainly means a grapevine, the meaning of *sorek* is somewhat unclear
 (see the dispute above). Ibn Saruk also defines *shdeimah* as a *sorek*.
+*Sorek* is also taken as a type of high-quality red grape (Bereishis 49:11,
+Yeshayahu 5:2, 16:8, Yirmiyahu 2:21), as *serukim* is used of the red horses of
+Zecharyah 1:8; it seems to be cognate with the Arabic *sharaqa*, "shining
+brightly," and the Persian *sorkh*, "red" or "scarlet." It appears twice as a
+place-name: Nachal Sorek, Delilah's valley between Ashkelon and Gaza (Shoftim
+16:4), and seemingly Masreikah, the town of Samlah king of Edom (Bereishis 36:36,
+Divrei HaYamim I 1:47).
 
 ### shdeimah (שדמה)
 See the dispute above. Pappenheim's route to it runs through the biliteral ש-ד,
@@ -158,4 +166,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Through the Grapevine](https://articles.ohr.edu/articles/through-the-grapevine)," *What's in a Word?*, Ohr Somayach, 18 December 2021.
 
-Cited in the essay: Bereishis 49:11 and 40:10 to 40:12; Devarim 32:32; Yeshayahu 5:2, 16:4, 16:8, 37:27, 60:16; Yirmiyahu 2:21, 31:39; Chavakuk 3:17; Melachim II 23:4; Yoel 1:7; Tehillim 32:4; Mishlei 9:3; Koheles 2:8; Bamidbar 11:8 and 21:15; Iyov 40:17; Eichah 1:14; *Kilayim* 6:3 and 6:5, *Shevi'is* 1:3, *Sotah* 8:3, *Bava Basra* 2:7, *Bechoros* 4:8; Pesachim 107b to 108a; Kesubos 111b with Maharsha, Rivan, and *Shitah Mekubetzes*; *Ohel Moed*, *Machberes Menachem*, and the *Sifrei HaShorashim*.
+Rabbi Reuven Chaim Klein, "[Pekudai: Seeing Red (Part 2/3)](https://articles.ohr.edu/articles/pekudai-seeing-red-part-23)," *What's in a Word?*, Ohr Somayach, 29 March 2025.
+
+Cited in the essay: Bereishis 49:11 and 40:10 to 40:12; Devarim 32:32; Yeshayahu 5:2, 16:4, 16:8, 37:27, 60:16; Yirmiyahu 2:21, 31:39; Chavakuk 3:17; Melachim II 23:4; Yoel 1:7; Tehillim 32:4; Mishlei 9:3; Koheles 2:8; Bamidbar 11:8 and 21:15; Iyov 40:17; Eichah 1:14; *Kilayim* 6:3 and 6:5, *Shevi'is* 1:3, *Sotah* 8:3, *Bava Basra* 2:7, *Bechoros* 4:8; Pesachim 107b to 108a; Kesubos 111b with Maharsha, Rivan, and *Shitah Mekubetzes*; *Ohel Moed*, *Machberes Menachem*, and the *Sifrei HaShorashim*; Zecharyah 1:8; Shoftim 16:4; Bereishis 36:36; Divrei HaYamim I 1:47.

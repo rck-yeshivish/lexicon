@@ -8,7 +8,8 @@ domain: speech
 sources:
   - wiaw:11170 "Miketz: Say it Clear (Part 1/2)" (2023-12-16) https://articles.ohr.edu/articles/miketz-say-it-clear-part-12
   - wiaw:11178 "Vayigash: Say it Clear (Part 2/2)" (2023-12-23) https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22
-authorities: [Radak, Malbim, Ibn Janach, Menachem ibn Saruk, Donash Ibn Labrat, Shadal, Rav Hirsch, Rabbi Avraham Bedersi, Rabbi Yehudah Aryeh of Carpentras, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Eliyahu Bachur, Rabbi Shlomo Ibn Melech, Rabbi Avraham Vilner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Reuven Subar, Rashi, Rashbam, Rabbeinu Tam, Rambam, Maharal, Meiri, Rabbi Tzvi Hirsch Ferber, Alexander Kohut, Rabbi Chaim Gelernter, Rabbi Ernest Klein]
+  - wiaw:10832 "Mishpatim: Boorish Animals" (2023-02-18) https://articles.ohr.edu/articles/mishpatim-boorish-animals
+authorities: [Radak, Malbim, Ibn Janach, Menachem ibn Saruk, Donash Ibn Labrat, Shadal, Rav Hirsch, Rabbi Avraham Bedersi, Rabbi Yehudah Aryeh of Carpentras, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Eliyahu Bachur, Rabbi Shlomo Ibn Melech, Rabbi Avraham Vilner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Reuven Subar, Rashi, Rashbam, Rabbeinu Tam, Rambam, Maharal, Meiri, Rabbi Tzvi Hirsch Ferber, Alexander Kohut, Rabbi Chaim Gelernter, Rabbi Ernest Klein, Rabbi Dr. Asher Weiser]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -72,6 +73,10 @@ read as two senses, wellspring (*be'er*) and elucidation (*ba'er*).
   his own account that *beiur* accordingly relates to *be'er* in the sense of a
   wellspring, whose waters are hidden deep underground and which is the
   mechanism for drawing them up into daylight.
+- Rabbi Dr. Asher Weiser explains *bur*, the uncultured man, as a cognate of
+  *bor*, a pit, a person whose mind is empty like a pit, and sees *be'er*, a
+  wellspring, which holds only a limited amount of water, and *beiur*, the
+  antidote to the *ba'ar*'s ignorance, as related to them.
 
 Commonly pronounced *biur*.
 
@@ -244,4 +249,6 @@ Rabbi Reuven Chaim Klein, "[Miketz: Say it Clear (Part 1/2)](https://articles.oh
 
 Rabbi Reuven Chaim Klein, "[Vayigash: Say it Clear (Part 2/2)](https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22)," *What's in a Word?*, Ohr Somayach, 23 December 2023.
 
-Cited in the essay: Radak, *Sefer HaShorashim* s.v. פתר, פשר, באר, שבר; Malbim, *Yair Ohr*; Bereishis 4:14, 13:6, 40-41; Berachos 55b; Eruvin 32b; Kesubos 107b; Chullin 54b; Bamidbar 22:5 with *Bamidbar Rabbah* 20:7, *Tanchuma Balak* 4, Rashi, and *Gur Aryeh*; Koheles 8:1 with Rashi and *Michlal Yofi*; Daniel 3:25, 5:6, 5:12, 7:25; Esther 3:14, 4:8, 8:13, 9:1; Devarim 1:5, 22:17, 27:8 with Rashi; Vayikra 11:3 and 24:12 with Targum Onkelos; Bamidbar 11:12, 15:34; Shemos 13:2, 16:21, 25:39; Yeshayahu 40:11, 63:9; Chavakuk 2:2; Tehillim 104:27, 119:166, 145:15, 146:5; Mishnah Yadayim 4:6 to 8, Shabbos 20:3, Menachos 5:2, Parah 8:9, Niddah 7:1, Kesubos 10:6 with Rambam's commentary; Rav Hirsch to Shemos 13:2, 25:39 and Tehillim 145:15; Avos 1:15 with Meiri; *Otzar Nirdafim*; *Sefer HaTishbi* with *Raglei Mivaser*; *Chosam Tochnis*; *Ohalei Yehuda*; *Tirgem Avraham*; *Aruch HaShaleim*; Rabbi Dr. Ernest Klein; Rabbi Tzvi Hirsch Ferber.
+Rabbi Reuven Chaim Klein, "[Mishpatim: Boorish Animals](https://articles.ohr.edu/articles/mishpatim-boorish-animals)," *What's in a Word?*, Ohr Somayach, 18 February 2023.
+
+Cited in the essay: Radak, *Sefer HaShorashim* s.v. פתר, פשר, באר, שבר; Malbim, *Yair Ohr*; Bereishis 4:14, 13:6, 40-41; Berachos 55b; Eruvin 32b; Kesubos 107b; Chullin 54b; Bamidbar 22:5 with *Bamidbar Rabbah* 20:7, *Tanchuma Balak* 4, Rashi, and *Gur Aryeh*; Koheles 8:1 with Rashi and *Michlal Yofi*; Daniel 3:25, 5:6, 5:12, 7:25; Esther 3:14, 4:8, 8:13, 9:1; Devarim 1:5, 22:17, 27:8 with Rashi; Vayikra 11:3 and 24:12 with Targum Onkelos; Bamidbar 11:12, 15:34; Shemos 13:2, 16:21, 25:39; Yeshayahu 40:11, 63:9; Chavakuk 2:2; Tehillim 104:27, 119:166, 145:15, 146:5; Mishnah Yadayim 4:6 to 8, Shabbos 20:3, Menachos 5:2, Parah 8:9, Niddah 7:1, Kesubos 10:6 with Rambam's commentary; Rav Hirsch to Shemos 13:2, 25:39 and Tehillim 145:15; Avos 1:15 with Meiri; *Otzar Nirdafim*; *Sefer HaTishbi* with *Raglei Mivaser*; *Chosam Tochnis*; *Ohalei Yehuda*; *Tirgem Avraham*; *Aruch HaShaleim*; Rabbi Dr. Ernest Klein; Rabbi Tzvi Hirsch Ferber; Rabbi Dr. Asher Weiser.

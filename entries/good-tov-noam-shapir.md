@@ -14,7 +14,10 @@ words:
     nk: שֶׁפֶר
 sources:
   - wiaw:11655 "Vayechi: Good and Pleasant" (2025-01-11) https://articles.ohr.edu/articles/vayechi-good-and-pleasant
-authorities: [Rabbi Eliyahu Bachur, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rav Hirsch, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Shaul Goldman, Rabbi Reuven Chaim Klein]
+  - wiaw:7611 "Sweet and Pleasant" (2018-01-27) https://articles.ohr.edu/articles/sweet-and-pleasant
+  - wiaw:9992 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-17) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn
+  - wiaw:10060 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-24) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2
+authorities: [Rabbi Eliyahu Bachur, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rav Hirsch, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Shaul Goldman, Rabbi Reuven Chaim Klein, Vilna Gaon]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -50,6 +53,11 @@ Root נ-ע-ם.
   *im*, "with": a person tends to bond with what he finds pleasant, so *noam* is
   the pull toward a thing one wishes to join; in *Cheshek Shlomo* he reduces it
   further to ע, movement.
+- The Vilna Gaon: *naim*/*noam* is visual appeal, as against *matok*, sweet,
+  which is gustatory appeal. Rabbi Pappenheim argues against him that these words
+  name no physical property at all but the transcendental pleasure one derives
+  from enjoying something sweet, so that *matok* and *areiv* are the physical and
+  *naim* the sublime.
 - Rav Hirsch (Bereishis 5:30): the pleasant thing arouses and moves a person
   toward a goal.
 - Ibn Janach and Radak (*Sefer HaShorashim*) define both *noam* and *shapir* as
@@ -82,6 +90,14 @@ correct or that a thing meets the standard.
   that produces *pe'er*, glory. (A popular folk etymology ties the old Jewish
   surname Shapiro or Shapira to *shapir*, though historians presume it more
   plausibly comes from the German town Speyer.)
+- Rav Hirsch (to Bereishis 5:1, 49:11), on the interchange of shin and sin and
+  of beis and peh, connects *shefer*/*shapir* with *sefer*, a book, a composite
+  of sub-parts brought together coherently, *mispar* and *sofer*, number and
+  counting, and *shover*, breaking. He surmises that *shefer* is beauty as the
+  overall property of a thing of many parts brought together in an orderly and
+  pleasing way, and so differs from *yofi*: *shefer* is inward beauty, the
+  harmonious working together of the parts, *yofi* the outward, superficial beauty
+  others perceive.
 - Bedersi: *shefer* is *tov*. Rabbi Klein, on the same admittedly strained
   reading of Bedersi: objective goodness, a value recognized regardless of the
   beholder.
@@ -146,4 +162,10 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayechi: Good and Pleasant](https://articles.ohr.edu/articles/vayechi-good-and-pleasant)," *What's in a Word?*, Ohr Somayach, 11 January 2025.
 
-Cited in the essay: Bereishis 4:22, 30:3-9, 30:14-18, 46:13, 49:14, 49:21; Melachim I 14:21, 14:31; Melachim II 5:2-27; Divrei HaYamim II 12:13; Tehillim 16:6; Iyov 26:13; Daniel 3:32, 4:24, 6:2; Rabbi Eliyahu Bachur, *Meturgeman*, on Targum to Vayikra 10:20, Bamidbar 24:1, Bereishis 6:2, 12:11, 29:17, 41:2, Shmuel I 8:16, 9:2, Melachim I 20:3; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo* s.v. נעם; Rav Hirsch to Bereishis 5:30; Ibn Janach and Radak, *Sefer HaShorashim* s.v. שפר and נעם; *Machberes Menachem*; Bedersi, *Chotam Tochnit* s.v. שפר / נעם; Rabbi Moshe Shapiro; Bereishis Rabbah 98:12; Zohar Vayechi 242b; Midrash Shocher Tov to Tehillim 81:4; Sotah 13a; Midrash Aggadah to Bereishis 49:21; Kiddushin 22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim 21:11; Divrei HaYamim I 12:33; Yoma 26a; Targum Yonasan to Bereishis 46:13; Rabbi Shaul Goldman in private correspondence with the author.
+Rabbi Reuven Chaim Klein, "[Sweet and Pleasant](https://articles.ohr.edu/articles/sweet-and-pleasant)," *What's in a Word?*, Ohr Somayach, 27 January 2018.
+
+Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn)," *What's in a Word?*, Ohr Somayach, 17 September 2022.
+
+Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2)," *What's in a Word?*, Ohr Somayach, 24 September 2022.
+
+Cited in the essay: Bereishis 4:22, 30:3-9, 30:14-18, 46:13, 49:14, 49:21; Melachim I 14:21, 14:31; Melachim II 5:2-27; Divrei HaYamim II 12:13; Tehillim 16:6; Iyov 26:13; Daniel 3:32, 4:24, 6:2; Rabbi Eliyahu Bachur, *Meturgeman*, on Targum to Vayikra 10:20, Bamidbar 24:1, Bereishis 6:2, 12:11, 29:17, 41:2, Shmuel I 8:16, 9:2, Melachim I 20:3; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo* s.v. נעם; Rav Hirsch to Bereishis 5:30, and to 5:1 and 49:11; the Vilna Gaon on *naim* and *matok*; Ibn Janach and Radak, *Sefer HaShorashim* s.v. שפר and נעם; *Machberes Menachem*; Bedersi, *Chotam Tochnit* s.v. שפר / נעם; Rabbi Moshe Shapiro; Bereishis Rabbah 98:12; Zohar Vayechi 242b; Midrash Shocher Tov to Tehillim 81:4; Sotah 13a; Midrash Aggadah to Bereishis 49:21; Kiddushin 22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim 21:11; Divrei HaYamim I 12:33; Yoma 26a; Targum Yonasan to Bereishis 46:13; Rabbi Shaul Goldman in private correspondence with the author.

@@ -7,6 +7,7 @@ english: [reproof, rebuke, discipline, chastisement, correction, moral instructi
 domain: action
 sources:
   - wiaw:7260 "Burke and Rebuke" (2017-05-20) https://articles.ohr.edu/articles/burke-and-rebuke
+  - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
 authorities: [Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg]
 status: reviewed
 updated: 2026-09-10
@@ -72,6 +73,9 @@ Root י-ס-ר.
   certain expectations. Rabbi Yaakov Tzvi Mecklenburg likewise: *mussar* is
   tying, since it gives a man the power to tie down his *yetzer* and hold his
   desires in check.
+- Malbim, on *asirah*, tying down without the consent of what is tied (as a
+  captive is detained against his will), relates it to *yissurin*, suffering,
+  which likewise comes upon a person against his will.
 
 ## Rendering guidance
 
@@ -100,5 +104,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Burke and Rebuke](https://articles.ohr.edu/articles/burke-and-rebuke)," *What's in a Word?*, Ohr Somayach, 20 May 2017.
+
+Rabbi Reuven Chaim Klein, "[All Tied Up](https://articles.ohr.edu/articles/all-tied-up)," *What's in a Word?*, Ohr Somayach, 3 June 2023.
 
 Cited in the essay: Vayikra 19:17, 26:14-43; Devarim 28:15-68; the Vilna Gaon; Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Edmund Burke; Jonathan Edwards, *Sinners in the Hands of an Angry God*.

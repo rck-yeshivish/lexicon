@@ -12,6 +12,7 @@ words:
     nk: אָתָה
 sources:
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
+  - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
 authorities: [Baal HaTurim, Hadar Zekeinim, Moshav Zekeinim, Ramban, Zohar, Rabbi Elimelech of Lizhensk, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Malbim, Rabbi Menachem Mendel Kasher]
 status: reviewed
 updated: 2026-09-10
@@ -97,6 +98,11 @@ the Hebrew and the Aramaic portions of Tanach. Rabbi Pappenheim: *atah* is a
 coming with more finality. Like *bo* it is oriented to the destination, but unlike
 *bo* it refers only to arriving, never to the journey there. The Malbim (*Yair
 Ohr*) cites this distinction between *bo* and *atah* in Rabbi Pappenheim's name.
+Of Devarim 33:2, where Hashem *ba* from Sinai and *atah* from the holy
+multitudes, the commentators explain that the two words are synonymous but from
+two languages, *ba* Hebrew and *atah* Aramaic, the Torah using an Aramaic word
+there to allude to Hashem's having first offered the Torah to the other nations
+before giving it to the Jews.
 
 Rabbi Pappenheim derives *atah* from the single letter ת, which stands for
 bordering, since it closes the alef-beis. A border links two bodies and
@@ -141,5 +147,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articles/bo-come-to-pharaoh)," *What's in a Word?*, Ohr Somayach, 23 January 2021.
+
+Rabbi Reuven Chaim Klein, "[Introduction: Synonyms in the Hebrew Language](https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language)," *What's in a Word?*, Ohr Somayach, 25 June 2016.
 
 Cited in the essay: Shemos 10:1, 7:26, 9:1, 8:15; Bereishis 29:9, 37:19, 4:15; Devarim 33:2; Yeshayahu 21:12; Zohar Bo 34a; Shabbos 55a; Ramban to Shemos 8:15; *Baal HaTurim*, *Hadar Zekeinim*, and *Moshav Zekeinim* on the makkos pesukim; Rabbi Elimelech of Lizhensk; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rav Hirsch; Rabbi Menachem Mendel Kasher; Malbim, *Yair Ohr*.
