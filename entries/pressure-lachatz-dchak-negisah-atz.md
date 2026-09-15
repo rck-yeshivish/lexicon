@@ -125,25 +125,28 @@ straw were still coming. Targum Neofiti renders *nogsei* as *dachkoi* (Shemos
 Yonatan renders *lo yigos* (Devarim 15:2), the lender forbidden to press for his
 debt after shemittah, with a *d'chak* cognate as well.
 
-Pappenheim traces *negisah* to the biliteral ג-ש, closeness, notwithstanding the
-sin: *gishah* (drawing as near as possible), *gush* (a tightly packed clump),
-*geshem* (rain from clouds of highly concentrated vapor), and he even suggests
-Goshen, the one region the Jews were allowed to settle, for its compact dirt
-against the rest of Mitzrayim, which was apparently sandier. So *negisah* is marked by repeated
-encounters between the one pressing and the one pressed, as though the two were as close as can
-be, standing over a man and not giving him space to breathe. Malbim (to
-Yeshayahu 3:5) draws a further line: *negisah* is pressing a man to pay money he
-does not actually owe, *nosheh* is pressing for money he is already obligated to
-pay.
+- Pappenheim traces *negisah* to the biliteral ג-ש, closeness, notwithstanding
+  the sin: *gishah* (drawing as near as possible), *gush* (a tightly packed
+  clump), *geshem* (rain from clouds of highly concentrated vapor), and he even
+  suggests Goshen, the one region the Jews were allowed to settle, for its
+  compact dirt against the rest of Mitzrayim, which was apparently sandier. So
+  *negisah* is marked by repeated encounters between the one pressing and the
+  one pressed, as though the two were as close as can be, standing over a man
+  and not giving him space to breathe.
+- Malbim (to Yeshayahu 3:5) draws a further line: *negisah* is pressing a man to
+  pay money he does not actually owe, *nosheh* is pressing for money he is
+  already obligated to pay.
 
 ### atz (אץ)
-Bereishis 19:15, *vayaitzu hamalachim b'Lot*. Onkelos
-renders it *d'chak*, and Rabbi Posen concludes from this that the malachim did
-not merely urge Lot verbally but physically pushed him out. Pappenheim reads it
-otherwise: from the biliteral א-צ and ultimately the single letter צ, going out,
-so *atz* is pressing a man to move faster. The malachim pressed Lot to leave
-sooner; the *nogsim* pressed the Jews to work faster. One who is hurried has no
-patience for the next stage and feels compelled to be out of his present state at once.
+Bereishis 19:15, *vayaitzu hamalachim b'Lot*.
+
+- Onkelos renders it *d'chak*, and Rabbi Posen concludes from this that the
+  malachim did not merely urge Lot verbally but physically pushed him out.
+- Pappenheim reads it otherwise: from the biliteral א-צ and ultimately the
+  single letter צ, going out, so *atz* is pressing a man to move faster. The
+  malachim pressed Lot to leave sooner; the *nogsim* pressed the Jews to work
+  faster. One who is hurried has no patience for the next stage and feels
+  compelled to be out of his present state at once.
 
 ### alatz (אלץ)
 Once in Tanach: Delilah pressing Shimshon for the secret of his strength

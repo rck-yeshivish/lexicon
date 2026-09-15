@@ -66,12 +66,14 @@ pointed **skewer** or spit.
 Four occurrences: the spies' pole (Bamidbar 13:23), the poles for carrying the
 Mishkan vessels (Bamidbar 4:10, 4:12), and Nachum 1:13. The feminine *motah*
 appears a further twelve times, usually the bar of a yoke (Vayikra 26:13,
-Yeshayahu 58:6, Yechezkel 30:18). On the spies' pasuk, "they cut a branch
-(*zemorah*) and a single cluster, and carried it on the pole (*mot*) by twos,"
-Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah*) reads two objects, branch
-and pole. The Zohar (*Shelach* 160b) reads one: the definite article on *mot*
-points back to something already named, and the same piece of wood is called
-*zemorah* while attached to the tree and *mot* once cut.
+Yeshayahu 58:6, Yechezkel 30:18).
+
+- On the spies' pasuk, "they cut a branch (*zemorah*) and a single cluster, and
+  carried it on the pole (*mot*) by twos," Rabbi Yaakov Tzvi Mecklenburg
+  (*HaKsav VeHaKabbalah*) reads two objects, branch and pole.
+- The Zohar (*Shelach* 160b) reads one: the definite article on *mot* points
+  back to something already named, and the same piece of wood is called
+  *zemorah* while attached to the tree and *mot* once cut.
 
 Roots:
 - the triliteralists Ibn Janach and Radak, each in his *Sefer HaShorashim*,
@@ -108,33 +110,38 @@ habad* (*Shabbos* 1:9, *Nedarim* 3:2, *Bava Metzia* 10:4, *Bava Basra* 1:6 and
 ### neis (נס)
 A tall pole or flagpole, appearing about twenty times in Tanach on Even
 Shoshan's concordance. The copper snake was set on a *neis* so that the bitten
-could look at it and live (Bamidbar 21:8-9), and we
-daven to "raise a *neis* to gather in our exiles." Pappenheim defines it as a
-tall *mot* and does not seem troubled by the near synonymy. Roots:
-*Machberes Menachem*, נ-ס, which also yields fleeing and miracle; Radak (*Sefer
-HaShorashim*), נ-ס-ס, and he links flagpole to fleeing because in ancient battle
-when the flagbearer fell the whole army lost heart and fled. The nearby
-triliteral נ-ס-ה is testing or training, as with Avraham (Bereishis 22:1);
-*Machberes Menachem* takes even that word back to a one-letter root, samech.
-Pappenheim (*Cheishek
-Shlomo*) traces *neis* instead to ש-א, whose main derivative is *nasa*, to lift
-and carry, with *sin* and *samech* interchanging: a *neis* as miracle is an
-event lifted out of the ordinary order of nature, and a *neis* as pole is the
-branch lifted above the rest of the tree. Mecklenburg (*HaKsav VeHaKabbalah* to
-Bereishis 22:1): a *nisayon* from the All-Knowing cannot be for the tester to
-learn something, so it is for the tested to reach new levels by prevailing
-through the travails of a Divine test. In this way the *nisayon* is another
-kind of lifting, raising a man up like a *neis*. Rav Hirsch (to
-Bereishis 17:20 and 22:1) joins *neis* to *nasi*, the leader whose task is to
-raise those under him, and, like Pappenheim, reads *neis* as lifting in both
-senses at once, a man's rise in spiritual rank when he passes a test and a tall
-pole for carrying or raising a banner; elsewhere (to Tehillim 4:7) he reads the
-flagstaff as a sign that keeps those who see it faithful to their cause, which
-is also what a miracle does. Midrash *Tanchuma* (*Vayeira* 43) links the roots
-thematically: the merit of the *nisayon* of the Akeidah is what lets Israel
-escape (*manos*) Gehinnom; the *Mechilta* to Shemos 15:25 reads "there He tested
-them" at Marah as Hashem lifting them to greatness, which He did by revealing
-parts of the Torah to them before Sinai.
+could look at it and live (Bamidbar 21:8-9), and we daven to "raise a *neis* to
+gather in our exiles."
+
+- Pappenheim defines it as a tall *mot* and does not seem troubled by the near
+  synonymy.
+- Roots: *Machberes Menachem*, נ-ס, which also yields fleeing and miracle; Radak
+  (*Sefer HaShorashim*), נ-ס-ס, and he links flagpole to fleeing because in
+  ancient battle when the flagbearer fell the whole army lost heart and fled.
+  The nearby triliteral נ-ס-ה is testing or training, as with Avraham (Bereishis
+  22:1); *Machberes Menachem* takes even that word back to a one-letter root,
+  samech.
+- Pappenheim (*Cheishek Shlomo*) traces *neis* instead to ש-א, whose main
+  derivative is *nasa*, to lift and carry, with *sin* and *samech*
+  interchanging: a *neis* as miracle is an event lifted out of the ordinary
+  order of nature, and a *neis* as pole is the branch lifted above the rest of
+  the tree.
+- Mecklenburg (*HaKsav VeHaKabbalah* to Bereishis 22:1): a *nisayon* from the
+  All-Knowing cannot be for the tester to learn something, so it is for the
+  tested to reach new levels by prevailing through the travails of a Divine
+  test. In this way the *nisayon* is another kind of lifting, raising a man up
+  like a *neis*.
+- Rav Hirsch (to Bereishis 17:20 and 22:1) joins *neis* to *nasi*, the leader
+  whose task is to raise those under him, and, like Pappenheim, reads *neis* as
+  lifting in both senses at once, a man's rise in spiritual rank when he passes
+  a test and a tall pole for carrying or raising a banner; elsewhere (to
+  Tehillim 4:7) he reads the flagstaff as a sign that keeps those who see it
+  faithful to their cause, which is also what a miracle does.
+- Midrash *Tanchuma* (*Vayeira* 43) links the roots thematically: the merit of
+  the *nisayon* of the Akeidah is what lets Israel escape (*manos*) Gehinnom;
+  the *Mechilta* to Shemos 15:25 reads "there He tested them" at Marah as Hashem
+  lifting them to greatness, which He did by revealing parts of the Torah to
+  them before Sinai.
 
 Rabbi Tzvi Matisyahu Abrahams (*Root Connections in the Torah*, 120-125) draws
 the senses of *neis* together homiletically: the *nisyonos* are the wind in the
@@ -149,34 +156,39 @@ Rashi (to Yeshayahu 30:17), who explains the *neis* as a military signal to the
 troops either to rally or to flee.
 
 ### toren (תורן)
-The ship's mast, the tall pole that holds up the *neis*, its sail. The two
-words often appear together (Yeshayahu 30:17, 33:23; Yechezkel 27:5, 7), and the
+The ship's mast, the tall pole that holds up the *neis*, its sail. The two words
+often appear together (Yeshayahu 30:17, 33:23; Yechezkel 27:5, 7), and the
 Mishnah rules that a sold boat includes its *toren* and its *neis* (*Bava Basra*
 5:1, with Rambam's commentary there and Rashi to *Bava Basra* 73a).
-Lexicographers such as Menachem Ibn Saruk, Ibn Janach and Radak give the
-triliteral ת-ר-ן, which yields nothing else. Pappenheim works from ת-ר,
-furling and unfurling, whose derivative *meisar*, rope, gives him the mast,
-since the mast is held fast by ropes.
+
+- Lexicographers such as Menachem Ibn Saruk, Ibn Janach and Radak give the
+  triliteral ת-ר-ן, which yields nothing else.
+- Pappenheim works from ת-ר, furling and unfurling, whose derivative *meisar*,
+  rope, gives him the mast, since the mast is held fast by ropes.
 
 ### shapud (שפוד)
-Mishnaic: usually a wooden pole with a sharpened end, a spit or skewer (*Pesachim*
-7:1-2, *Sukkah* 1:8, *Bava Kamma* 8:1, *Avodah Zarah* 5:12, *Zevachim* 11:7,
-*Keilim* 5:5 and 7:3, *Ohalos* 1:3). Vocalization is unsettled: the Kaufmann
-manuscript, the earliest vowelized Mishnah, reads *shfud* in most places,
-*shfod* at *Keilim* 5:5 and *shifud* at *Keilim* 7:3, and *shpud*, *shafud* and
-*shafod* are all current as well. Modern Hebrew most commonly says *shipud*, and that
-pronunciation was given official recognition by the Academy of the Hebrew
-Language in 2019, as reported by Doron Yaakov (*Academ* vol. 40 pp. 2-3). Rabbi
-Ernest Klein (no relation to Rabbi Reuven Chaim Klein) argues that *shapud* is ultimately a
-loanword from the Greek *spodos*, charcoal, embers or ashes, which came also to
-mean a spit for roasting meat, as the Italian *spiedo* does. Rabbi Reuven Chaim
-Klein adds an etymology of his own, flagging that he usually shies away from speculative ones:
-English *spit* comes from German *spitz*, point or sharp end, from the
-Proto-Indo-European root *spei-* or *spi-*, something pointy, which also gives
-*spike* and *spoke*, and it seems fairly clear to him that *spit* and its
-cognates are related to the same Greek word from which *shapud* derives, on the
-interchange of the *t* and *d* sounds in Germanic under Grimm's Law, the Danish *spid* for English
-*spit* showing that dynamic.
+Mishnaic: usually a wooden pole with a sharpened end, a spit or skewer
+(*Pesachim* 7:1-2, *Sukkah* 1:8, *Bava Kamma* 8:1, *Avodah Zarah* 5:12,
+*Zevachim* 11:7, *Keilim* 5:5 and 7:3, *Ohalos* 1:3). Vocalization is unsettled:
+the Kaufmann manuscript, the earliest vowelized Mishnah, reads *shfud* in most
+places, *shfod* at *Keilim* 5:5 and *shifud* at *Keilim* 7:3, and *shpud*,
+*shafud* and *shafod* are all current as well. Modern Hebrew most commonly says
+*shipud*, and that pronunciation was given official recognition by the Academy
+of the Hebrew Language in 2019, as reported by Doron Yaakov (*Academ* vol. 40
+pp. 2-3).
+
+- Rabbi Ernest Klein (no relation to Rabbi Reuven Chaim Klein) argues that
+  *shapud* is ultimately a loanword from the Greek *spodos*, charcoal, embers or
+  ashes, which came also to mean a spit for roasting meat, as the Italian
+  *spiedo* does.
+- Rabbi Reuven Chaim Klein adds an etymology of his own, flagging that he
+  usually shies away from speculative ones: English *spit* comes from German
+  *spitz*, point or sharp end, from the Proto-Indo-European root *spei-* or
+  *spi-*, something pointy, which also gives *spike* and *spoke*, and it seems
+  fairly clear to him that *spit* and its cognates are related to the same Greek
+  word from which *shapud* derives, on the interchange of the *t* and *d* sounds
+  in Germanic under Grimm's Law, the Danish *spid* for English *spit* showing
+  that dynamic.
 
 ## Rendering guidance
 

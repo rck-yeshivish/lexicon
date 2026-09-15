@@ -78,42 +78,47 @@ the same root, the one charged with seeing that the preparations for the avodah
 are in order, and *kavanah*, the mental preparation before a task.
 
 ### duchan (דוכן)
-Not in Tanach. In the Mishnah it is three times the platform the Leviim stood
-on for the shirah: six Leviim at least on the *duchan* (Arachin 2:6); its
-location on the cubit-high step between the Ezras Kohanim and the Ezras
-Yisrael, itself three steps of half a cubit each (Middos 2:6); an ancestor who
-stood on the *duchan* as proof of unblemished lineage (Kiddushin 4:5). The
-Gemara keeps that sense (Taanis 29a and Arachin 11b, where the Leviim were
-still singing on the *duchan* when the Babylonians broke in; also Yoma 15b,
-Sukkah 51a, Megillah 24b, Sotah 48a, Arachin 11a) and adds a second: the
-platform the Kohanim stand on for Birkas Kohanim, even outside the Mikdash
-(Shabbos 118b, Rosh Hashanah 28b and 31b, Sotah 38b and 40a, Menachos 44a,
-Kiddushin 71a). Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) already had to say
-that *duchan* is a noun and not a verb. Rabbi Yaakov Emden (*Ezer Ohr*, his
-glosses to *Sefer HaTishbi*): *duchan* is a cognate of the Aramaic *duchta*,
-place, a designated place for Kohanim and Leviim to stand. Rabbi Tzvi Hirsch
-Ferber (*Kerem Tzvi* to Bamidbar 6:23) gives two other readings: a portmanteau
-of the Greek prefix *du-*, double, with the Biblical Hebrew *kan*, base, since
-an elevated platform might be twice the width of the stairs that lead up to it,
-so that it literally means "double base"; or from the root ד-ו-כ, to smash or
-flatten, since the *duchan* was typically a small area and those standing on it
-might have to squeeze together. Rabbi Reuven Chaim Klein extends that second
-reading on his own: the Proto-Indo-European root *plat-*, originally "to spread" or "to
-flatten," yielded a whole family of words for a flat surface, English *flat*,
-*place* (through the Greek *platus*), *platy*, *plaza*, *plate*, *plateau*, and
-also the Rabbinic Hebrew *platya*, street or highway, and the Modern Hebrew
-*plata*, the flat surface for warming food. The same development could be true
-in Hebrew, a name for a flat surface growing out of the verb for flattening, and
-Rabbi Ernest Klein makes a similar point. In Modern
-Hebrew a *duchan* is a booth or stand from which a person peddles his wares;
-Rabbi Ernest Klein connects that too to the Arabic *dukkan*, bench or shop. Rabbi Baruch
-HaLevi Epstein (*Degel HaTorah* §11; see also *Mekor Baruch* vol. 3 p. 1442)
-writes that in Talmudic times a Rosh Yeshiva was sometimes known as a *Reish
-Duchana*, on account of his standing as a public lecturer who spoke from a
-special lectern or platform; Rabbi Menachem Kasher (*Torah Shleimah* vol. 26 p.
-289) points out that this is not entirely accurate, since at the one place the
-term appears (Bava Basra 21) Rashi explains it as a low-level teacher's
-assistant paid to drill the children in what the main teacher had taught.
+Not in Tanach. In the Mishnah it is three times the platform the Leviim stood on
+for the shirah: six Leviim at least on the *duchan* (Arachin 2:6); its location
+on the cubit-high step between the Ezras Kohanim and the Ezras Yisrael, itself
+three steps of half a cubit each (Middos 2:6); an ancestor who stood on the
+*duchan* as proof of unblemished lineage (Kiddushin 4:5). The Gemara keeps that
+sense (Taanis 29a and Arachin 11b, where the Leviim were still singing on the
+*duchan* when the Babylonians broke in; also Yoma 15b, Sukkah 51a, Megillah 24b,
+Sotah 48a, Arachin 11a) and adds a second: the platform the Kohanim stand on for
+Birkas Kohanim, even outside the Mikdash (Shabbos 118b, Rosh Hashanah 28b and
+31b, Sotah 38b and 40a, Menachos 44a, Kiddushin 71a).
+
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) already had to say that *duchan* is
+  a noun and not a verb.
+- Rabbi Yaakov Emden (*Ezer Ohr*, his glosses to *Sefer HaTishbi*): *duchan* is
+  a cognate of the Aramaic *duchta*, place, a designated place for Kohanim and
+  Leviim to stand.
+- Rabbi Tzvi Hirsch Ferber (*Kerem Tzvi* to Bamidbar 6:23) gives two other
+  readings: a portmanteau of the Greek prefix *du-*, double, with the Biblical
+  Hebrew *kan*, base, since an elevated platform might be twice the width of the
+  stairs that lead up to it, so that it literally means "double base"; or from
+  the root ד-ו-כ, to smash or flatten, since the *duchan* was typically a small
+  area and those standing on it might have to squeeze together.
+- Rabbi Reuven Chaim Klein extends that second reading on his own: the
+  Proto-Indo-European root *plat-*, originally "to spread" or "to flatten,"
+  yielded a whole family of words for a flat surface, English *flat*, *place*
+  (through the Greek *platus*), *platy*, *plaza*, *plate*, *plateau*, and also
+  the Rabbinic Hebrew *platya*, street or highway, and the Modern Hebrew
+  *plata*, the flat surface for warming food. The same development could be true
+  in Hebrew, a name for a flat surface growing out of the verb for flattening,
+  and Rabbi Ernest Klein makes a similar point.
+- In Modern Hebrew a *duchan* is a booth or stand from which a person peddles
+  his wares; Rabbi Ernest Klein connects that too to the Arabic *dukkan*, bench
+  or shop.
+- Rabbi Baruch HaLevi Epstein (*Degel HaTorah* §11; see also *Mekor Baruch* vol.
+  3 p. 1442) writes that in Talmudic times a Rosh Yeshiva was sometimes known as
+  a *Reish Duchana*, on account of his standing as a public lecturer who spoke
+  from a special lectern or platform; Rabbi Menachem Kasher (*Torah Shleimah*
+  vol. 26 p. 289) points out that this is not entirely accurate, since at the
+  one place the term appears (Bava Basra 21) Rashi explains it as a low-level
+  teacher's assistant paid to drill the children in what the main teacher had
+  taught.
 
 ### bimah (בימה)
 Not in Tanach either. The Mishnah has it twice: the *bimah* built for the king
@@ -128,39 +133,43 @@ pulpit or seat, on the Ethiopic *minbar*, seat (see also Rambam's commentary to
 Keilim 2:3). How an Arabic term reached the medieval French Jewish vernacular
 has hexed linguists and historians like Max Weinreich for generations.
 
-The consensus of scholars is that *bimah* comes from the
-Greek *bema*, pacing, marching, stepping, step or platform, which in turn comes
-from the Greek *bainein*, going, apparently also the source of the Greek *basis*
-below. On that account *bimah* is not an original Hebrew word and does not even
-come from a Semitic language. Professor Edward Yechezkel Kutscher (*Milim
-V'Toldoteihen*) draws the consequence: *bimah* is not related at all to the
-Biblical Hebrew *bamah*, for all that a *bamah* is a high place used for
-sacrificial worship and so resembles what a *bimah* is. *Bamah*, he writes, is a
-native Hebrew word, appearing over a hundred times in Tanach and attested in
-other Semitic languages, Arabic *buhma*, Aramaic *bamata*, Moabite *bamat*,
-Akkadian *bamtu*, Ugaritic *bmt*. Rabbi Shlomo Pappenheim derives *bamah*,
-private altar, from the biliteral ב-מ, as in *bam*, "in them," which he takes
-to denote the meeting point of multiple parties: the *bamah* was a site at which
-many people gathered in communal worship. *Bamah* also denotes a "high place,"
-which many commentators understand to be the word's original meaning, because
-such gatherings typically took place on elevated spots to increase their
-visibility.
+- The consensus of scholars is that *bimah* comes from the Greek *bema*, pacing,
+  marching, stepping, step or platform, which in turn comes from the Greek
+  *bainein*, going, apparently also the source of the Greek *basis* below. On
+  that account *bimah* is not an original Hebrew word and does not even come
+  from a Semitic language.
+- Professor Edward Yechezkel Kutscher (*Milim V'Toldoteihen*) draws the
+  consequence: *bimah* is not related at all to the Biblical Hebrew *bamah*, for
+  all that a *bamah* is a high place used for sacrificial worship and so
+  resembles what a *bimah* is. *Bamah*, he writes, is a native Hebrew word,
+  appearing over a hundred times in Tanach and attested in other Semitic
+  languages, Arabic *buhma*, Aramaic *bamata*, Moabite *bamat*, Akkadian
+  *bamtu*, Ugaritic *bmt*.
+- Rabbi Shlomo Pappenheim derives *bamah*, private altar, from the biliteral
+  ב-מ, as in *bam*, "in them," which he takes to denote the meeting point of
+  multiple parties: the *bamah* was a site at which many people gathered in
+  communal worship.
+- *Bamah* also denotes a "high place," which many commentators understand to be
+  the word's original meaning, because such gatherings typically took place on
+  elevated spots to increase their visibility.
 
 ### basis (בסיס)
 A loanword, in the Mishnah once, for the base of a candelabrum (Keilim 11:7).
 Its halachic career is larger: *basis l'davar ha'assur*, a permitted object
 serving as the base for a forbidden one and thereby becoming forbidden itself
-(Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Chullin 125). The loan is
-from the Latin and Greek *basis*, base, step, pedestal, foot, going, the
-forebear of English *basis*, *base* and *basic*, and, through the
-interchangeability of *s* and *t*, of *diabetes* and *acrobat* as well. Rabbi
-Shlomo Pappenheim instead traces *basis* to ב-ס, the root of *boss*, to trample:
-the base is the bottom part of an object on which the rest of it rests, and so
-is conceptually similar to the ground one treads on, which lies at the bottom
-with something more significant on top of it. Rabbi Reuven Chaim Klein
-nonetheless finds the Latin and Greek *basis* the more convincing etymology. The
-Modern Hebrew *besisi*, basic or fundamental, and *basis* in the sense of an
-army base come from the same word.
+(Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Chullin 125).
+
+- The loan is from the Latin and Greek *basis*, base, step, pedestal, foot,
+  going, the forebear of English *basis*, *base* and *basic*, and, through the
+  interchangeability of *s* and *t*, of *diabetes* and *acrobat* as well.
+- Rabbi Shlomo Pappenheim instead traces *basis* to ב-ס, the root of *boss*, to
+  trample: the base is the bottom part of an object on which the rest of it
+  rests, and so is conceptually similar to the ground one treads on, which lies
+  at the bottom with something more significant on top of it.
+
+Rabbi Reuven Chaim Klein nonetheless finds the Latin and Greek *basis* the more
+convincing etymology. The Modern Hebrew *besisi*, basic or fundamental, and
+*basis* in the sense of an army base come from the same word.
 
 ### itztaba (אצטבא)
 Four times in the Mishnah, three of them in the Mikdash: the two loaves set on
@@ -169,12 +178,14 @@ the *itztaba* to mark the times for stopping and burning chametz on Erev Pesach
 tevilah, so the people could see it (Shekalim 8:4); the lulavim placed on the
 roof of the *itztaba* before Shabbos (Sukkah 4:4). The fourth is the *itztaba*
 of a bathhouse (Niddah 9:3), which has nothing to do with the Mikdash. The term
-appears in several other places in the Gemara as well. Rashi (to Taanis 29a and
-Arachin 11b) defines *duchan* by *itztaba*, seemingly taking the two as
-synonymous or near-synonymous; Rabbi Ernest Klein, by contrast, gives it a wider
-range of five senses, colonnade, portico, balcony, shelf, or a bench fixed to a
-wall, and traces it to the Greek *stoa*, colonnade or column, which on Julius
-Pokorny's Proto-Indo-European dictionary goes back to the root *sta-*, to stand.
+appears in several other places in the Gemara as well.
+
+- Rashi (to Taanis 29a and Arachin 11b) defines *duchan* by *itztaba*, seemingly
+  taking the two as synonymous or near-synonymous.
+- Rabbi Ernest Klein, by contrast, gives it a wider range of five senses,
+  colonnade, portico, balcony, shelf, or a bench fixed to a wall, and traces it
+  to the Greek *stoa*, colonnade or column, which on Julius Pokorny's
+  Proto-Indo-European dictionary goes back to the root *sta-*, to stand.
 
 ## Rendering guidance
 

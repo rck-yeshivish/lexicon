@@ -89,21 +89,24 @@ physical pleasure can carry a spiritual one with it, but there is no such thing
 as a spiritual pleasure that produces a physical one.
 
 ### oneg (עונג)
-Root ע-נ-ג. Pappenheim: pleasure of the soul, the abstract pleasures that only the
-soul enjoys: understanding, grasping a hard idea, wealth, honor, love, vengeance on
-enemies, peace, a friend's success. *Oneg* remains spiritual even when rooted in
-something physical: *oneg Shabbos* (Yeshayahu 58:13) is delight in Shabbos, which
-may come through good food; the pampered *anug* (Devarim 28:54) is one whose
-emotional well-being needs bodily coddling. And *oneg* also stands wholly apart from
-the body: delighting in peace (Tehillim 37:11), in love (Shir HaShirim 7:7), in honor
-(Yeshayahu 66:11), in Hashem Himself (Tehillim 37:4, Iyov 22:26), all of them
-purely abstract pursuits. Rav Hirsch (1808-1888) explains *oneg* differently:
-the state of being surrounded by favorable and pleasant conditions, which he
-compares to *anak*, a necklace, an object that surrounds the wearer's neck.
-*Anak* can also mean a grant, as in the master's charge to *haanek taanik* the
-departing Hebrew bondsman (Devarim 15:14); explaining that word, Rabbi Yaakov
-Tzvi Mecklenburg (1785-1865) writes that the kuf of *anak* interchanges with a
-gimmel to give *oneg*, the gift the freed bondsman gets to enjoy.
+Root ע-נ-ג.
+
+- Pappenheim: pleasure of the soul, the abstract pleasures that only the soul
+  enjoys: understanding, grasping a hard idea, wealth, honor, love, vengeance on
+  enemies, peace, a friend's success. *Oneg* remains spiritual even when rooted
+  in something physical: *oneg Shabbos* (Yeshayahu 58:13) is delight in Shabbos,
+  which may come through good food; the pampered *anug* (Devarim 28:54) is one
+  whose emotional well-being needs bodily coddling. And *oneg* also stands
+  wholly apart from the body: delighting in peace (Tehillim 37:11), in love
+  (Shir HaShirim 7:7), in honor (Yeshayahu 66:11), in Hashem Himself (Tehillim
+  37:4, Iyov 22:26), all of them purely abstract pursuits.
+- Rav Hirsch (1808-1888) explains *oneg* differently: the state of being
+  surrounded by favorable and pleasant conditions, which he compares to *anak*,
+  a necklace, an object that surrounds the wearer's neck.
+- *Anak* can also mean a grant, as in the master's charge to *haanek taanik* the
+  departing Hebrew bondsman (Devarim 15:14); explaining that word, Rabbi Yaakov
+  Tzvi Mecklenburg (1785-1865) writes that the kuf of *anak* interchanges with a
+  gimmel to give *oneg*, the gift the freed bondsman gets to enjoy.
 
 ### pinuk (פינוק)
 Root פ-נ-ק. A *hapax legomenon*, once in Tanach: מפנק מנער עבדו (Mishlei 29:21),

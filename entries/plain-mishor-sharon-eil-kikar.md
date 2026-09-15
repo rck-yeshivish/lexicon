@@ -87,52 +87,61 @@ plain.
    *eil* / *eilonei* to *elah* (terebinth) and *alon* (oak). Rabbi Shmuel
    Masnuth (*Bereishis Zuta* there) reads *eil* in Eil Paran as a bridge.
 
-**Whether eil and mishor are synonyms.** Rabbi Yaakov Tzvi Mecklenburg
-(*HaKsav VeHaKabbalah* to Bereishis 18:1) agrees with Onkelos that both mean
-plain, but denies they are interchangeable: *mishor* is flatness as such, which
-may be dry sandy steppe good for neither sowing nor pasture, while *eil* /
-*eilonei* is a plain that matters in its own right, a fertile biome fit for
-crops or grazing. He grounds this in א-ל as "power," alluded to in the Zohar
-(*Vayera* 97b) reading *eilonei* as *tokef*; the same root gives *ayil* (the ram,
-the strongest member of an otherwise weak ovicaprine family; see also *HaKsav
-VeHaKabbalah* to Vayikra 1:9), *alyah* (its especially fatty tail, as though its
-power came from there), and *elah* / *alon* (trees with especially thick roots
-and hard, strong wood). Rabbi Shlomo Pappenheim in *Cheshek Shlomo* develops א-ל
-at great length in the same direction. On Elon Moreh, Avraham's first stop on
-entering the land (Bereishis 12:6), Ibn Ezra reads *elon* simply as trees or
-forest, or as field or plain, and Rav Hirsch there expands it, relating *elon* to
-the Aramaic *ilan* ("tree") and to *elah* and *alon*, and reading the
-aleph-(yud)-lamed string generally as "the power to develop and move forward,"
-close to Mecklenburg's understanding, which he extends to a plain that stretches a
-great distance or paves a level surface through otherwise hilly country.
+**Whether eil and mishor are synonyms.**
 
-**Whether sharon is a common noun.** Many commentators, among them Ibn Ezra,
-Rabbi Yishaya of Trani, Rabbi Yosef Kara and pseudo-Rashbam, gloss *sharon* in
-Shir HaShirim 2:1 as *mishor*, a plain (see also Rambam's commentary to Bava
-Basra 6:2). Rabbi Hai Gaon (to Niddah
-2:7) and *Sefer HaAruch* take it as the flatlands of Eretz Yisrael as against the
-hills around Yerushalayim (compare Tehillim 125:2), which is a place-name.
+- Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah* to Bereishis 18:1) agrees
+  with Onkelos that both mean plain, but denies they are interchangeable:
+  *mishor* is flatness as such, which may be dry sandy steppe good for neither
+  sowing nor pasture, while *eil* / *eilonei* is a plain that matters in its own
+  right, a fertile biome fit for crops or grazing. He grounds this in א-ל as
+  "power," alluded to in the Zohar (*Vayera* 97b) reading *eilonei* as *tokef*;
+  the same root gives *ayil* (the ram, the strongest member of an otherwise weak
+  ovicaprine family; see also *HaKsav VeHaKabbalah* to Vayikra 1:9), *alyah*
+  (its especially fatty tail, as though its power came from there), and *elah* /
+  *alon* (trees with especially thick roots and hard, strong wood).
+- Rabbi Shlomo Pappenheim in *Cheshek Shlomo* develops א-ל at great length in
+  the same direction.
+- On Elon Moreh, Avraham's first stop on entering the land (Bereishis 12:6), Ibn
+  Ezra reads *elon* simply as trees or forest, or as field or plain, and Rav
+  Hirsch there expands it, relating *elon* to the Aramaic *ilan* ("tree") and to
+  *elah* and *alon*, and reading the aleph-(yud)-lamed string generally as "the
+  power to develop and move forward," close to Mecklenburg's understanding,
+  which he extends to a plain that stretches a great distance or paves a level
+  surface through otherwise hilly country.
+
+**Whether sharon is a common noun.**
+
+- Many commentators, among them Ibn Ezra, Rabbi Yishaya of Trani, Rabbi Yosef
+  Kara and pseudo-Rashbam, gloss *sharon* in Shir HaShirim 2:1 as *mishor*, a
+  plain (see also Rambam's commentary to Bava Basra 6:2).
+- Rabbi Hai Gaon (to Niddah 2:7) and *Sefer HaAruch* take it as the flatlands of
+  Eretz Yisrael as against the hills around Yerushalayim (compare Tehillim
+  125:2), which is a place-name.
+
 In at least some of its seven occurrences, if not all of them, it is the proper
-name of a specific area in Eretz Yisrael: in modern usage the Sharon is the central stretch of the
-Israeli coastal plain between the Mediterranean and the hills of Shomron, taking
-in Netanya, Herzliya, Ramat HaSharon and Ra'anana. The English given name Sharon,
-and its Latinate form Sharona, are borrowed from that region.
+name of a specific area in Eretz Yisrael: in modern usage the Sharon is the
+central stretch of the Israeli coastal plain between the Mediterranean and the
+hills of Shomron, taking in Netanya, Herzliya, Ramat HaSharon and Ra'anana. The
+English given name Sharon, and its Latinate form Sharona, are borrowed from that
+region.
 
-**How sharon differs from mishor.** Ibn Janach and Radak, each in his *Sefer
-HaShorashim*, suggest the root ש-ר-ה, which also yields *siryon* (armor,
-protecting) and *mishras* (something soaked); Rabbi Reuven Chaim Klein wonders
-whether those two senses collapse into one, since one way to protect a thing is to embed
-it in an outer layer and leave it there. Radak explains that these bear on
-*sharon*, which denotes not an ordinary plain but one saturated with fertile soil
-and so unusually good for agriculture. Rabbi Pappenheim
-in *Yerios Shlomo*: *sharon* is a plain near a mountain or hill, so that the
-contrast makes it conspicuous, while *mishor* is a plain of any kind. He derives
-both from ש-ר, "focal point," parent of *yashar*, the quickest and most direct way
-to a given point; *mishor* he ties to *yashar* because a plain is a straight,
-level surface without unevenness, but for *sharon* he is unsure whether the
-etymology runs through *yashar* or through another derivative of the same
-biliteral, *shar* / *sharir*, the umbilical cord or navel (Yechezkel 16:4,
-Mishlei 3:8, Iyov 40:16).
+**How sharon differs from mishor.**
+
+- Ibn Janach and Radak, each in his *Sefer HaShorashim*, suggest the root ש-ר-ה,
+  which also yields *siryon* (armor, protecting) and *mishras* (something
+  soaked); Rabbi Reuven Chaim Klein wonders whether those two senses collapse
+  into one, since one way to protect a thing is to embed it in an outer layer
+  and leave it there. Radak explains that these bear on *sharon*, which denotes
+  not an ordinary plain but one saturated with fertile soil and so unusually
+  good for agriculture.
+- Rabbi Pappenheim in *Yerios Shlomo*: *sharon* is a plain near a mountain or
+  hill, so that the contrast makes it conspicuous, while *mishor* is a plain of
+  any kind. He derives both from ש-ר, "focal point," parent of *yashar*, the
+  quickest and most direct way to a given point; *mishor* he ties to *yashar*
+  because a plain is a straight, level surface without unevenness, but for
+  *sharon* he is unsure whether the etymology runs through *yashar* or through
+  another derivative of the same biliteral, *shar* / *sharir*, the umbilical
+  cord or navel (Yechezkel 16:4, Mishlei 3:8, Iyov 40:16).
 
 ## Distinctions
 
@@ -155,22 +164,27 @@ relative.
 
 ### padan (פדן)
 The place-name Padan Aram occurs eleven times, all in the second half of
-Bereishis. Rashi and Ibn Ezra (to Bereishis 25:20) gloss *padan* as meaning the
-same as *sadeh*, field or flatland, and Hoshea 12:13, recalling Yaakov's flight,
-calls the place Sdeh Aram, using the construct of *sadeh*. In that light,
-Rabbi Reuven Chaim Klein says, it makes sense that Shadal (to Bereishis 25:20)
-writes that *padan* is Aramaic for *sadeh*. Rabbi David Tzvi Hoffmann (there) similarly takes *padan*
-for an Aramaic term, itself a loanword from the Nabatean and Arabic *feddan*, a
-unit of area like an acre or a hectare, and on that basis reads Padan Aram as
-specifically the plain surrounding the town of Charan, noting that archaeologists
-and geographers have confirmed that ancient Charan lay on a plain otherwise ringed
-by mountains. Alternatively, Rabbi Ernest Klein, in his etymological dictionary of
-Hebrew, surmises that *padan* possibly derives from the Akkadian *padanu*, "road"
-or "garden." Rabbi Shlomo Pappenheim traces the word instead to the biliteral
-פ-ד, redemption or freedom (as in *pidyon* and *pedus*), and suggests that
-*padan* denotes an independent region that had its own sovereignty or was free
-from paying imperial taxes, so that Padan Aram (Bereishis 31:18, 35:26, 46:15)
-is the Free State of Aram, as against other polities in the Aram area.
+Bereishis.
+
+- Rashi and Ibn Ezra (to Bereishis 25:20) gloss *padan* as meaning the same as
+  *sadeh*, field or flatland, and Hoshea 12:13, recalling Yaakov's flight, calls
+  the place Sdeh Aram, using the construct of *sadeh*. In that light, Rabbi
+  Reuven Chaim Klein says, it makes sense that Shadal (to Bereishis 25:20)
+  writes that *padan* is Aramaic for *sadeh*.
+- Rabbi David Tzvi Hoffmann (there) similarly takes *padan* for an Aramaic term,
+  itself a loanword from the Nabatean and Arabic *feddan*, a unit of area like
+  an acre or a hectare, and on that basis reads Padan Aram as specifically the
+  plain surrounding the town of Charan, noting that archaeologists and
+  geographers have confirmed that ancient Charan lay on a plain otherwise ringed
+  by mountains.
+- Alternatively, Rabbi Ernest Klein, in his etymological dictionary of Hebrew,
+  surmises that *padan* possibly derives from the Akkadian *padanu*, "road" or
+  "garden."
+- Rabbi Shlomo Pappenheim traces the word instead to the biliteral פ-ד,
+  redemption or freedom (as in *pidyon* and *pedus*), and suggests that *padan*
+  denotes an independent region that had its own sovereignty or was free from
+  paying imperial taxes, so that Padan Aram (Bereishis 31:18, 35:26, 46:15) is
+  the Free State of Aram, as against other polities in the Aram area.
 
 ### ayalah (אילה)
 Yaakov's blessing to Naftali, "an *ayalah* sent forth, who gives good tidings"

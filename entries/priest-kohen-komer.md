@@ -77,15 +77,16 @@ sometimes a political leader.
   prophecy, which likewise relays Hashem's word (see Malachi 2:7).
 
 ### komer (כומר)
-Radak (Tzefaniah 1:4, Melachim II 23:5, and *Sefer HaShorashim*): *komer* means
-blackened (compare Eichah 5:10), so a *komer* is a priest in black vestments,
-which a Kohen is not, the legitimate Kohanim in the Mikdash having worn white.
-Rabbi Eliyahu HaBachur (1469-1549, *Sefer HaTishbi*) argues that *komer*
-literally means closed, clustered, cloistered, citing the Targum to Tehillim
-77:10 and finding his evidence in the Talmudic *komer shel anavim*, a mass of
-grapes all clustered together (Bechoros 31b); on his reading a *komer* is
-specifically an idolatrous priest secluded and clustered in a monastery, that
-is, a monk, while *kohen* is the more general word.
+- Radak (Tzefaniah 1:4, Melachim II 23:5, and *Sefer HaShorashim*): *komer*
+  means blackened (compare Eichah 5:10), so a *komer* is a priest in black
+  vestments, which a Kohen is not, the legitimate Kohanim in the Mikdash having
+  worn white.
+- Rabbi Eliyahu HaBachur (1469-1549, *Sefer HaTishbi*) argues that *komer*
+  literally means closed, clustered, cloistered, citing the Targum to Tehillim
+  77:10 and finding his evidence in the Talmudic *komer shel anavim*, a mass of
+  grapes all clustered together (Bechoros 31b); on his reading a *komer* is
+  specifically an idolatrous priest secluded and clustered in a monastery, that
+  is, a monk, while *kohen* is the more general word.
 
 A letter from the Elephantine Papyri distinguishes
 Jewish priests, called *kohanim*, from Egyptian priests, called *komrim*.

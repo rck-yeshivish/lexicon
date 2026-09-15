@@ -61,39 +61,44 @@ prohibition first appears in the Mishnah, where it occurs a handful of times
 the warning aspect of a prohibition, the "thou shall not," as against the
 punishment aspect (for example, *Yevamos* 3b and *Sifrei Naso* 1).
 
-The early lexicographers (Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak,
-and Rabbi Shlomo Ibn Parchon, the twelfth-century author of
-*Machberes He'Aruch*) all take ז-ה-ר as one triliteral root carrying two very
-distinct senses, warning and light, and none of
-them intimates a connection between the two. Maimonides' son, Rabbi Avraham
-Maimuni, does connect them: the root means light or brilliance (*zohar*), and one
-illuminates another's intellectual perception by instructing him as to his
-responsibilities, so to warn a person can be said to be shedding light on what
-is expected of him; both senses are enlightenment, one literal and one
-figurative. The late Rabbi Dr. Jose Faur infers from this that at its core
-*azharah* covers what the Torah prescribes and not only what it outlaws, and
-that this is why the *azharos* recited on Shavuos list both kinds of mitzvah
-and not only the prohibitions.
+- The early lexicographers (Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak,
+  and Rabbi Shlomo Ibn Parchon, the twelfth-century author of *Machberes
+  He'Aruch*) all take ז-ה-ר as one triliteral root carrying two very distinct
+  senses, warning and light, and none of them intimates a connection between the
+  two.
+- Maimonides' son, Rabbi Avraham Maimuni, does connect them: the root means
+  light or brilliance (*zohar*), and one illuminates another's intellectual
+  perception by instructing him as to his responsibilities, so to warn a person
+  can be said to be shedding light on what is expected of him; both senses are
+  enlightenment, one literal and one figurative. The late Rabbi Dr. Jose Faur
+  infers from this that at its core *azharah* covers what the Torah prescribes
+  and not only what it outlaws, and that this is why the *azharos* recited on
+  Shavuos list both kinds of mitzvah and not only the prohibitions.
 
 Not everybody agrees that the root is the triliteral ז-ה-ר. Some trace the word
 to the two-letter ז-ר, estrangement, as in *zar*; others go as far as the single
-letter *zayin*. One cognate is in fact spelled without the
-*hei*, "and you shall warn (*ve'hizartem*) the Children of Israel from their
-impurities" (Vayikra 15:31), and Rabbeinu Efrayim touches on this point in
-noting that to warn a person is to tell him to make himself *zar*, estranged,
-from the thing he has been warned against. Rabbi Shlomo Pappenheim of Breslau
-similarly works from ז-ר, one group of whose derivatives is headed by *zoreh*,
-to scatter (Shemos 32:20, Vayikra 26:33, Rus 3:2, Tehillim 106:27); *zohar*,
-light, is a sub-derivative, light being what scatters and spreads out. Just as
-rays of light spread out to illuminate as much as possible, an enlightened
-person must spread his intellectual purview across a wide body of knowledge in
-order to be careful. Pappenheim explicitly notes that *azharah* does not mean a
-warning, as many have understood it: *lehazhir* means to enlighten, as in "you
-shall enlighten them and they shall not incur guilt" (Divrei HaYamim II 19:10)
-and "and you shall enlighten them from Me" (Yechezkel 3:17), enlightening a
-person as to his obligations being tantamount to forewarning him about what he
-should be careful of. So Pappenheim's two-letter root and Rabbi Avraham
-Maimuni's three-letter root land in the same basic explanation.
+letter *zayin*.
+
+- One cognate is in fact spelled without the *hei*, "and you shall warn
+  (*ve'hizartem*) the Children of Israel from their impurities" (Vayikra 15:31),
+  and Rabbeinu Efrayim touches on this point in noting that to warn a person is
+  to tell him to make himself *zar*, estranged, from the thing he has been
+  warned against.
+- Rabbi Shlomo Pappenheim of Breslau similarly works from ז-ר, one group of
+  whose derivatives is headed by *zoreh*, to scatter (Shemos 32:20, Vayikra
+  26:33, Rus 3:2, Tehillim 106:27); *zohar*, light, is a sub-derivative, light
+  being what scatters and spreads out. Just as rays of light spread out to
+  illuminate as much as possible, an enlightened person must spread his
+  intellectual purview across a wide body of knowledge in order to be careful.
+  Pappenheim explicitly notes that *azharah* does not mean a warning, as many
+  have understood it: *lehazhir* means to enlighten, as in "you shall enlighten
+  them and they shall not incur guilt" (Divrei HaYamim II 19:10) and "and you
+  shall enlighten them from Me" (Yechezkel 3:17), enlightening a person as to
+  his obligations being tantamount to forewarning him about what he should be
+  careful of.
+
+So Pappenheim's two-letter root and Rabbi Avraham Maimuni's three-letter root
+land in the same basic explanation.
 
 Rabbi Aharon Marcus traces *zohar* to the monoliteral root *zayin*, which he
 takes as the visual revelation of what the eye can see, the Hebrew words derived
@@ -118,15 +123,17 @@ instance the term takes on a more abstract sense: one who vows "to tie a tying
 prohibition on himself, much as English says "my hands are tied." That abstract
 use of *assur* and its cognates appears countless times through the Mishnah,
 until *assur* in post-Biblical Hebrew came to mean forbidden, and *issur* is the
-more abstract derivative, the rule that renders a thing forbidden. Rabbi
-Pappenheim
-ties *assur* to the two-letter ס-ר, removal: one who is tied has his freedom of
-movement removed. Rabbi Yehuda Ibn Chayyuj had already treated the *aleph* as
-outside the root, noting that *beis ha'surim* (Koheles 4:14) is the equivalent
-of *beis ha'asurim* (Bereishis 39:20, 40:3). Malbim, for whom *asirah* is tying
-done without the consent of what is tied, as a captive is detained against his
-will, notes that *issur* in the sense of prohibition likewise refers to one's
-actions being precluded, by law or by nature, against his will.
+more abstract derivative, the rule that renders a thing forbidden.
+
+- Rabbi Pappenheim ties *assur* to the two-letter ס-ר, removal: one who is tied
+  has his freedom of movement removed.
+- Rabbi Yehuda Ibn Chayyuj had already treated the *aleph* as outside the root,
+  noting that *beis ha'surim* (Koheles 4:14) is the equivalent of *beis
+  ha'asurim* (Bereishis 39:20, 40:3).
+- Malbim, for whom *asirah* is tying done without the consent of what is tied,
+  as a captive is detained against his will, notes that *issur* in the sense of
+  prohibition likewise refers to one's actions being precluded, by law or by
+  nature, against his will.
 
 ### lav (לאו)
 Not in Tanach; found often in later rabbinic writings. An anthimeria formed from

@@ -102,15 +102,16 @@ The Midrashim (*Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22;
   manages only a meager living.
 
 ### evyon (אביון)
-Related to *ta'av*, desire: full of wants he cannot fill. Bedersi draws the
-striking consequence that a rich man who wants more than he has and cannot get
-it is in that respect an *evyon*, and notes that most wealthy people do want
-more than they have, so that in certain ways they may aptly be called
-*evyonim*, which, Rabbi Reuven Chaim Klein notes, sharpens the Mishnah "Who is rich? He who is happy with his
-lot" (*Avos* 4:1). Rabbi Yehuda Kalatz agrees on the definition and adds a moral
-edge: the *evyon* is lazy and brought it on himself by refusing even to try,
-having no trade, no skill, no business, and not even the knack of appealing for
-charity.
+Related to *ta'av*, desire: full of wants he cannot fill.
+
+- Bedersi draws the striking consequence that a rich man who wants more than he
+  has and cannot get it is in that respect an *evyon*, and notes that most
+  wealthy people do want more than they have, so that in certain ways they may
+  aptly be called *evyonim*, which, Rabbi Reuven Chaim Klein notes, sharpens the
+  Mishnah "Who is rich? He who is happy with his lot" (*Avos* 4:1).
+- Rabbi Yehuda Kalatz agrees on the definition and adds a moral edge: the
+  *evyon* is lazy and brought it on himself by refusing even to try, having no
+  trade, no skill, no business, and not even the knack of appealing for charity.
 
 The gradation carries halachic weight in *matanos la'evyonim* on Purim.
 - Some authorities, such as Rabbi Yair Chaim Bachrach (1639-1702) and Rabbi
@@ -130,30 +131,35 @@ The gradation carries halachic weight in *matanos la'evyonim* on Purim.
   honoring Dr. Shmuel Mirsky.
 
 ### misken (מסכן)
-Related to *sakanah*, danger: the forced austerity endangers his life. Rabbi
-Yehuda Kalatz: one who looks to others for support and gets mockery instead.
-Rabbi Shlomo Aharon Wertheimer: so poor and beaten down that people take him for
-a madman and pay him no attention.
+Related to *sakanah*, danger: the forced austerity endangers his life.
+
+- Rabbi Yehuda Kalatz: one who looks to others for support and gets mockery
+  instead.
+- Rabbi Shlomo Aharon Wertheimer: so poor and beaten down that people take him
+  for a madman and pay him no attention.
 
 ### rash (רש)
-Tied to *yerushah*, inheritance, in two directions. One: property dispossessed
-by others, so that he has lost everything. Two, as Wertheimer suggests: a poor
-man son of a poor man, who never knew prosperity and inherited his poverty from
-the cradle.
+Tied to *yerushah*, inheritance, in two directions.
+
+- One: property dispossessed by others, so that he has lost everything.
+- Two, as Wertheimer suggests: a poor man son of a poor man, who never knew
+  prosperity and inherited his poverty from the cradle.
 
 ### dal (דל)
-Literally minus or subtracted. Malbim: *dal* is anyone who lost money, even
-one not poor enough to take charity, which is why *dal* never appears in a
-charity context. Rabbi Yehuda Kalatz: specifically a man once rich who lost his
-wealth. Rabbi Shlomo Pappenheim of Breslau (1740-1814): the dalet-lamed root
-primarily means drawing water from a well (hence *deli*, a pail), borrowed for
-poverty because a man bereft of his fortune is like a well emptied of its water.
-Rabbi Moshe Tedeschi-Ashkenazi (*Hoil Moshe*), implicitly disagreeing with
-Menachem Ibn Saruk's classing of *dal* under ד-ל, derives it instead from *zol*,
-cheap, by the well-established interchange of zayin and dalet. Wilhelm Gesenius
-takes the core of ד-ל as hanging or swinging, so that a *dal* is a feeble
-individual whose wealth is not well grounded but figuratively hangs and may
-swing from one situation to another.
+Literally minus or subtracted.
+
+- Malbim: *dal* is anyone who lost money, even one not poor enough to take
+  charity, which is why *dal* never appears in a charity context.
+- Rabbi Yehuda Kalatz: specifically a man once rich who lost his wealth.
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814): the dalet-lamed root primarily
+  means drawing water from a well (hence *deli*, a pail), borrowed for poverty
+  because a man bereft of his fortune is like a well emptied of its water.
+- Rabbi Moshe Tedeschi-Ashkenazi (*Hoil Moshe*), implicitly disagreeing with
+  Menachem Ibn Saruk's classing of *dal* under ד-ל, derives it instead from
+  *zol*, cheap, by the well-established interchange of zayin and dalet.
+- Wilhelm Gesenius takes the core of ד-ל as hanging or swinging, so that a *dal*
+  is a feeble individual whose wealth is not well grounded but figuratively
+  hangs and may swing from one situation to another.
 
 ### dach (דך)
 Crushed, sharing a root with *medochah*, a pestle. He looks smashed because want
@@ -161,16 +167,18 @@ of food has left him gaunt. Bedersi: even a rich man may be called *dach* if
 illness has made him thin.
 
 ### mach (מך)
-Also crushed, but abstractly rather than physically: at the mercy of others,
-squashed by having to subordinate himself to them. Bedersi offers an
-alternative: the *mach* need not have a low income at all, but is pressed by
-obligations beyond his means. Pappenheim traces the root to the kaf element of
-striking, one struck by bad *mazal*. Others give the root as מ-ו-כ (Ibn Janach
-and Radak), מ-כ-כ (Ibn Chayyuj) or מ-כ (Menachem Ibn Saruk). Rabbi Dr. Ernest
-Klein, echoing Rabbi Eliyahu Bachur's *Sefer Tishbi*, explains the Rabbinic
-*namuch*, low, as a secondary base form of the nifal of *mach*: the grammatical
-nun denotes one who has become lowered, and the resulting word came to be treated
-as though the nun were part of the root.
+- Also crushed, but abstractly rather than physically: at the mercy of others,
+  squashed by having to subordinate himself to them.
+- Bedersi offers an alternative: the *mach* need not have a low income at all,
+  but is pressed by obligations beyond his means.
+- Pappenheim traces the root to the kaf element of striking, one struck by bad
+  *mazal*.
+- Others give the root as מ-ו-כ (Ibn Janach and Radak), מ-כ-כ (Ibn Chayyuj) or
+  מ-כ (Menachem Ibn Saruk).
+- Rabbi Dr. Ernest Klein, echoing Rabbi Eliyahu Bachur's *Sefer Tishbi*,
+  explains the Rabbinic *namuch*, low, as a secondary base form of the nifal of
+  *mach*: the grammatical nun denotes one who has become lowered, and the
+  resulting word came to be treated as though the nun were part of the root.
 
 ### ish techachim (איש תככים)
 Mishlei 29:13, listed as a word for the poor in some of the midrashic lists and

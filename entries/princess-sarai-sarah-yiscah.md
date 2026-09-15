@@ -95,19 +95,22 @@ Bereishis 11:29 until Bereishis 17:15.
 
 ### Sarah (שרה)
 Her name thirty-eight times through the rest of Bereishis, and once more in all
-of Tanach, at Yeshayahu 51:2. On the yod that was taken away, two traditions
-(*Yerushalmi Sanhedrin* 2:6, *Sanhedrin* 107a, *Bereishis Rabbah* 47:1): that
-the yod (ten) was halved into two *heis* (five each), one going to Avram to make
-Avraham and one to Sarai to make Sarah; and that the yod protested its removal
-and was answered by being set at the head of Hoshea's name to make Yehoshua
-(Bamidbar 13:16), moving from last letter of a righteous woman's name to first
-letter of a righteous man's. Rabbi Shmuel David Luzzatto (to Bereishis 17:15)
-sets the change in the pattern of a commoner given a new name on rising to
-greatness: Yosef to Tzafnas Paneach (Bereishis 41:45), Hoshea to Yehoshua
-(Bamidbar 13:16), Matanyahu to Tzidkiyahu (Melachim II 24:17), Daniel, Chananyah,
-Mishael and Azaryah renamed by Nevuchadnetzar at Daniel 1:7. He also suggests
-that the added *hei* signifies femininity and was given to both names as a sign
-of fertility and procreation, as *Kli Yakar* there explains similarly.
+of Tanach, at Yeshayahu 51:2.
+
+- On the yod that was taken away, two traditions (*Yerushalmi Sanhedrin* 2:6,
+  *Sanhedrin* 107a, *Bereishis Rabbah* 47:1): that the yod (ten) was halved into
+  two *heis* (five each), one going to Avram to make Avraham and one to Sarai to
+  make Sarah; and that the yod protested its removal and was answered by being
+  set at the head of Hoshea's name to make Yehoshua (Bamidbar 13:16), moving
+  from last letter of a righteous woman's name to first letter of a righteous
+  man's.
+- Rabbi Shmuel David Luzzatto (to Bereishis 17:15) sets the change in the
+  pattern of a commoner given a new name on rising to greatness: Yosef to
+  Tzafnas Paneach (Bereishis 41:45), Hoshea to Yehoshua (Bamidbar 13:16),
+  Matanyahu to Tzidkiyahu (Melachim II 24:17), Daniel, Chananyah, Mishael and
+  Azaryah renamed by Nevuchadnetzar at Daniel 1:7. He also suggests that the
+  added *hei* signifies femininity and was given to both names as a sign of
+  fertility and procreation, as *Kli Yakar* there explains similarly.
 
 Shadal further writes that the name Sarah is related to an Arabic word *shara*,
 which apparently means having many children.
@@ -171,20 +174,23 @@ Rabbi Shmuel David Luzzatto (to Bereishis 11:29) doubt the identification.
   was her Aramaic name, Sarai and Sarah her Hebrew one.
 
 ### the name in English
-The English *Jessica*, which first appears in Shakespeare's *The Merchant of
-Venice* as the name of Shylock's daughter, is generally understood by onomasts
-as an Anglicization of *Yiscah*. Professor Grant W. Smith of Eastern Washington
-University argues otherwise, that the name comes from falconry: "jess strings"
-are the straps tethering a falcon's legs to its master, from the Old French
-*gesse* and ultimately the Latin *jactus*, throw or cast, and the *-ica* is a
-Latin feminine nominative ending as in *Judaica* and *Hebraica*, so that
-Shakespeare, who apparently referred to falconry often, coined the name for a girl who
-feels trapped under her father's control. Rabbi Klein allows that as an
-intriguing layer of wordplay but maintains the simpler derivation from *Yiscah*,
-since English Bibles before Shakespeare already rendered the name "Jescha"
-(Wycliffe) and "Jisca" (Coverdale), and since, as scholars have noted, other obscure names in the play
-come from Bereishis as well, Shylock having been argued to come from Shelach
-(Bereishis 10:24), and Tuball and Chus from other names there.
+- The English *Jessica*, which first appears in Shakespeare's *The Merchant of
+  Venice* as the name of Shylock's daughter, is generally understood by onomasts
+  as an Anglicization of *Yiscah*.
+- Professor Grant W. Smith of Eastern Washington University argues otherwise,
+  that the name comes from falconry: "jess strings" are the straps tethering a
+  falcon's legs to its master, from the Old French *gesse* and ultimately the
+  Latin *jactus*, throw or cast, and the *-ica* is a Latin feminine nominative
+  ending as in *Judaica* and *Hebraica*, so that Shakespeare, who apparently
+  referred to falconry often, coined the name for a girl who feels trapped under
+  her father's control.
+
+Rabbi Klein allows that as an intriguing layer of wordplay but maintains the
+simpler derivation from *Yiscah*, since English Bibles before Shakespeare
+already rendered the name "Jescha" (Wycliffe) and "Jisca" (Coverdale), and
+since, as scholars have noted, other obscure names in the play come from
+Bereishis as well, Shylock having been argued to come from Shelach (Bereishis
+10:24), and Tuball and Chus from other names there.
 
 The name Sarah has produced a long line of derivatives: the given names Sari,
 Suri, Szori, Sarolta, Zara, Serita and Serl; the English *Sadie*, which began as

@@ -63,33 +63,40 @@ the words the same way, *tzeloti* and *bausi*. That the two stand side by side
 suggests they are not the same thing.
 
 ### tefillah (תפילה)
-Root פ-ל-ל. Rabbi Yaakov Tzvi Mecklenburg derives *tefillah* from *pelilah*,
-arbitration or judgment (in Modern Hebrew the word means "criminal"): the one who
-prays presses his case before Hashem, demanding that He address a perceived
-injustice. The Maharal (*Be'er HaGolah* §4:2) proposes instead that the core
-meaning of פ-ל-ל is intellectuality or thoughtfulness: *tefillah* is a thoughtful
-plea and appeal to the One Above, as judges are called *pelilim* (Shemos 21:22)
-because they use their minds to figure out how to decide the law. Rabbi Simcha Maimon, a prominent Rosh Yeshiva in Yerushalayim, gives
-two readings against *bakashah*. First, *tefillah* is the "flattering" side of
-prayer, in which one praises Hashem, while *bakashah* is the "wishful" side, in
-which one asks Him for one's needs. Second, *tefillah* is formal, instituted
-prayer with set formulae and set halachos, while *bakashah* is *ad hoc*. On the
-second reading, *tefillah* answers to Yaakov's sword: the words themselves carry
-inherent power, as a sword is dangerous by its own sharpness.
+Root פ-ל-ל.
+
+- Rabbi Yaakov Tzvi Mecklenburg derives *tefillah* from *pelilah*, arbitration
+  or judgment (in Modern Hebrew the word means "criminal"): the one who prays
+  presses his case before Hashem, demanding that He address a perceived
+  injustice.
+- The Maharal (*Be'er HaGolah* §4:2) proposes instead that the core meaning of
+  פ-ל-ל is intellectuality or thoughtfulness: *tefillah* is a thoughtful plea
+  and appeal to the One Above, as judges are called *pelilim* (Shemos 21:22)
+  because they use their minds to figure out how to decide the law.
+- Rabbi Simcha Maimon, a prominent Rosh Yeshiva in Yerushalayim, gives two
+  readings against *bakashah*. First, *tefillah* is the "flattering" side of
+  prayer, in which one praises Hashem, while *bakashah* is the "wishful" side,
+  in which one asks Him for one's needs. Second, *tefillah* is formal,
+  instituted prayer with set formulae and set halachos, while *bakashah* is *ad
+  hoc*. On the second reading, *tefillah* answers to Yaakov's sword: the words
+  themselves carry inherent power, as a sword is dangerous by its own sharpness.
 
 ### bakashah (בקשה)
 Root ב-ק-ש. The request made of Hashem in one's own words. The link between
 *bakashos* and *keshasos*, bows, may simply be homiletical, since the two words
-are spelled and sounded so much alike. Rabbi Simcha Maimon nonetheless works out
-a conceptual link: because a *bakashah* lacks the formality of *tefillah* it is
-not inherently a powerful form of prayer, just as an archer's projectile need not
-be as sharp as a sword; but an arrow's efficacy lies not in the arrow itself but
-in the kinetic energy of its release, just as a *bakashah*'s lies not in the
-words but in the urgency the supplicant feels. Rabbi Shmuel Laniado, a
-sixteenth-century Syrian scholar, offers a similar observation on the bow: an
-archer strikes without having to approach his enemy, and so a *bakashah* lets a
-man standing in a dire situation in This World, without leaving where he is,
-send his prayer through the upper realms to the Heavens.
+are spelled and sounded so much alike.
+
+- Rabbi Simcha Maimon nonetheless works out a conceptual link: because a
+  *bakashah* lacks the formality of *tefillah* it is not inherently a powerful
+  form of prayer, just as an archer's projectile need not be as sharp as a
+  sword; but an arrow's efficacy lies not in the arrow itself but in the kinetic
+  energy of its release, just as a *bakashah*'s lies not in the words but in the
+  urgency the supplicant feels.
+- Rabbi Shmuel Laniado, a sixteenth-century Syrian scholar, offers a similar
+  observation on the bow: an archer strikes without having to approach his
+  enemy, and so a *bakashah* lets a man standing in a dire situation in This
+  World, without leaving where he is, send his prayer through the upper realms
+  to the Heavens.
 
 ### techinah / tachanun (תחינה, תחנון)
 Root ח-נ-ן, from *chen*, favor. Rabbi Yaakov Tzvi Mecklenburg: the one who says
