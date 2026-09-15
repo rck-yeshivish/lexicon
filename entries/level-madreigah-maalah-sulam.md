@@ -69,19 +69,22 @@ Torah's own *maalos* when fixing the lashes for ascending by them. Talmudic
 *maalyuta*, "advantage, superb," is a step up in the abstract.
 
 ### madreigah (מדרגה)
-Root ד-ר-ג (Menachem Ibn Saruk, Ibn Janach, Ibn Parchon, Radak), a root with
-no other Biblical derivative; twice in Tanach (Yechezkel 38:20, Shir HaShirim
-2:14) and twice in the Mishnah (Kilayim 6:2, Sheviis 3:8), each pair carrying
-one plural and one singular. Rav Hirsch (to Bereishis 6:9, Tehillim 25:4):
-conceptually akin to *derech*, a path that carries a person to his destination,
-which Rabbi Reuven Chaim Klein takes as implying that ד-ר-ג and ד-ר-ך are kin, possibly
-through the interchange of gimmel and kaf; Rabbi Yitzchak of Zeldin (Shoresh
-Yesha) makes the same connection more prosaically, both words naming a place the
-foot treads. The German philologist Wilhelm Gesenius likewise held ד-ר-ג related
-to ד-ר-ך, and connected the Hebrew root to Arabic *daraja*, walking by foot, and
-a stair or step; later scholars, among them Rabbi Dr. Ernest Klein and
-Avraham Even-Shoshan, similarly connect these to the Akkadian cognates
-*durgu*/*daragu*, path.
+Root ד-ר-ג (Menachem Ibn Saruk, Ibn Janach, Ibn Parchon, Radak), a root with no
+other Biblical derivative; twice in Tanach (Yechezkel 38:20, Shir HaShirim 2:14)
+and twice in the Mishnah (Kilayim 6:2, Sheviis 3:8), each pair carrying one
+plural and one singular.
+
+- Rav Hirsch (to Bereishis 6:9, Tehillim 25:4): conceptually akin to *derech*, a
+  path that carries a person to his destination, which Rabbi Reuven Chaim Klein
+  takes as implying that ד-ר-ג and ד-ר-ך are kin, possibly through the
+  interchange of gimmel and kaf.
+- Rabbi Yitzchak of Zeldin (Shoresh Yesha) makes the same connection more
+  prosaically, both words naming a place the foot treads.
+- The German philologist Wilhelm Gesenius likewise held ד-ר-ג related to ד-ר-ך,
+  and connected the Hebrew root to Arabic *daraja*, walking by foot, and a stair
+  or step; later scholars, among them Rabbi Dr. Ernest Klein and Avraham
+  Even-Shoshan, similarly connect these to the Akkadian cognates
+  *durgu*/*daragu*, path.
 
 Wertheimer (Beiur Shemos HaNirdafim, a work written to show that no two Hebrew
 words are truly synonymous): the two look synonymous on the surface, both naming
@@ -109,25 +112,23 @@ though again no other Biblical word comes from it; a *hapax* in Tanach (Yaakov's
 28:12), common in the Mishnah (Beitzah 1:3, Bava Basra 2:5, 3:6, Makkos 2:1,
 Zavim 3:1, 4:3). Scholars have proposed various etymologies for the root.
 
-Dr. Chaim Tawil (*An Akkadian Lexical Companion for Biblical Hebrew*) cites
-Landsberger that ס-ל-ם is by metathesis a cognate of Akkadian *simmiltu*,
-stairway, the word used of the staircases up the Babylonian ziggurats; on that
-reading the mem is part of the root and *sulam* means much what *maalos* and
-*madreigos* mean.
-
-The more conservative approach takes *sulam* from Hebrew
-ס-ל-ל, paved, whence *mesilah*, with the final mem paragogic and so no part of
-the root, which puts *sulam* on the same footing as *madreigah*, a path up; so
-Rav Hirsch (to Bereishis 28:12, Bamidbar 20:19, Tehillim 84:6), Gesenius, Kohut,
-and the *Enhanced Brown-Driver-Briggs*. Rabbi Dr. Ernest Klein implies that ס-ל-ל
-means paving a path by lifting the stones in the way and throwing them aside, so
-that *sulam* comes from the "lifting" sense, a means of lifting a person higher;
-Pappenheim takes a similar approach and reduces the root further to the
-biliteral ס-ל.
-
-Rabbi Aharon Marcus proposes that where the essential root is ס-ל, the samech
-stands in for the ayin that precedes it in the alef-beis, so the root of *sulam*
-is ע-ל, the very root of *maalos*.
+- Dr. Chaim Tawil (*An Akkadian Lexical Companion for Biblical Hebrew*) cites
+  Landsberger that ס-ל-ם is by metathesis a cognate of Akkadian *simmiltu*,
+  stairway, the word used of the staircases up the Babylonian ziggurats; on that
+  reading the mem is part of the root and *sulam* means much what *maalos* and
+  *madreigos* mean.
+- The more conservative approach takes *sulam* from Hebrew ס-ל-ל, paved, whence
+  *mesilah*, with the final mem paragogic and so no part of the root, which puts
+  *sulam* on the same footing as *madreigah*, a path up; so Rav Hirsch (to
+  Bereishis 28:12, Bamidbar 20:19, Tehillim 84:6), Gesenius, Kohut, and the
+  *Enhanced Brown-Driver-Briggs*.
+- Rabbi Dr. Ernest Klein implies that ס-ל-ל means paving a path by lifting the
+  stones in the way and throwing them aside, so that *sulam* comes from the
+  "lifting" sense, a means of lifting a person higher; Pappenheim takes a
+  similar approach and reduces the root further to the biliteral ס-ל.
+- Rabbi Aharon Marcus proposes that where the essential root is ס-ל, the samech
+  stands in for the ayin that precedes it in the alef-beis, so the root of
+  *sulam* is ע-ל, the very root of *maalos*.
 
 Rashi defines *sulam* with *maalos* (to Bava Metzia 25a, Sukkah 53b) and with
 *madreigos* (to Beitzah 36a), which Rabbi Reuven Chaim Klein brings as proof

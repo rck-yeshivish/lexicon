@@ -64,16 +64,20 @@ Both *kilayos* and *tuchos* appear only in the plural.
   Pappenheim say outright: the spine with its ribs looks like a trunk with
   branches.
 
-**Why *atzeh* would mean kidneys at all.** Rabbi Shes ben Yefes HaRofeh of Aleppo
-(*Chemas HaChemdah* to Vayikra 3:17): they filter the blood and cleanse the
-flesh, letting the head and heart work properly, which sharpens a man's thinking
-the way good advice does. He offers as an alternative that *atzeh* is literally
-marrow inside a bone, and by extension the brain in the skull and the kidneys in
-the body. Rabbi Klein adds a suggestion of his own, that the kidney is an *atzeh*
-because its work is filtering, and advice too is a filtering of good ideas from
-bad. (Rabbi Natan Slifkin's monograph "The Question of the Kidneys' Counsel"
-treats the scientific side of the kidneys-and-thought question and how it might
-bear on transplants.)
+**Why *atzeh* would mean kidneys at all.**
+
+- Rabbi Shes ben Yefes HaRofeh of Aleppo (*Chemas HaChemdah* to Vayikra 3:17):
+  they filter the blood and cleanse the flesh, letting the head and heart work
+  properly, which sharpens a man's thinking the way good advice does. He offers
+  as an alternative that *atzeh* is literally marrow inside a bone, and by
+  extension the brain in the skull and the kidneys in the body.
+- Rabbi Klein adds a suggestion of his own, that the kidney is an *atzeh*
+  because its work is filtering, and advice too is a filtering of good ideas
+  from bad.
+
+(Rabbi Natan Slifkin's monograph "The Question of the Kidneys' Counsel" treats
+the scientific side of the kidneys-and-thought question and how it might bear on
+transplants.)
 
 **What *tuchos* is.**
 - Rosh Hashanah 26a, with Targum, Rashi, and Radak: the kidneys.
@@ -87,11 +91,14 @@ bear on transplants.)
 Part of the question turns on whether the *sechvi* beside it (Iyov 38:36) is the
 heart or a rooster.
 
-**Where *tuchos* comes from.** *Machberes Menachem* and Rashi (to Tehillim 51:8
-and Rosh Hashanah 26a): from ט-ח, "smooth," the root also of *mitachavei*, a
-target (Bereishis 21:16), since an arrow needs a clear run at its mark. Radak,
-Rabbi Avraham Ibn Ramoch, and *Metzudas Zion*: from the "smearing" sense of the
-same root, since the kidneys are coated in fat. *Chochmas Manoach* merges the two.
+**Where *tuchos* comes from.**
+
+- *Machberes Menachem* and Rashi (to Tehillim 51:8 and Rosh Hashanah 26a): from
+  ט-ח, "smooth," the root also of *mitachavei*, a target (Bereishis 21:16),
+  since an arrow needs a clear run at its mark.
+- Radak, Rabbi Avraham Ibn Ramoch, and *Metzudas Zion*: from the "smearing"
+  sense of the same root, since the kidneys are coated in fat.
+- *Chochmas Manoach* merges the two.
 
 ## Distinctions
 
@@ -122,12 +129,15 @@ are burned on the mizbeiach with its fats (Vayikra 3:4, 3:10, 4:9, 8:16, 8:25,
 In the Gemara the singular is *kulya*.
 
 ### the wheat of Devarim 32:14
-"The fat of the *kilyos* of wheat" is a distinct usage. Rashi: wheat so plump each
-kernel was like a kidney, fulfilled in Shlomo's day, though Kesubos 111b takes it
-of the Time to Come, when kernels will be the size of a large ox's kidneys.
-*Chizkuni*: the choicest wheat, from the sense of a man's innermost wants. Radak:
-simply that the kernels somewhat resemble kidneys in shape. (English "kidney
-beans" are named the same way.)
+"The fat of the *kilyos* of wheat" is a distinct usage.
+
+- Rashi: wheat so plump each kernel was like a kidney, fulfilled in Shlomo's
+  day, though Kesubos 111b takes it of the Time to Come, when kernels will be
+  the size of a large ox's kidneys.
+- *Chizkuni*: the choicest wheat, from the sense of a man's innermost wants.
+- Radak: simply that the kernels somewhat resemble kidneys in shape.
+
+(English "kidney beans" are named the same way.)
 
 ### tuchos (טוחות)
 "Behold, You desire truth in the *tuchos*" (Tehillim 51:8), and "who put wisdom

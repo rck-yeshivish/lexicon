@@ -80,48 +80,55 @@ parallel, Divrei HaYamim I 16:16, said in the daily tefillos, reads *Yitzchak*.
 Since the words are one word, the readings of the two spellings are esoteric
 ones:
 
-Rabbeinu Bachaya (to Bereishis 17:19, Bamidbar 32:3): the name is really
-*Yitzchak*, and the nevi'im sometimes wrote it with a sin to hint that Yitzchak
-embodies *din*, likened to a raging fire, *aish*. Rabbi Klein adds on his
-own account that Pappenheim derives *aish* from the monoliteral shin, which he
-takes as solidifying the connection. Rabbi Shmuel Feivish Kahane, a seventeenth
-century sage, in *Leket Shmuel*, holds precisely the reverse: the name should
-have been *Yischak*, but a sin would have pointed at a raging judgment from
-which there would be no recovery, so the Torah writes a tzadi.
+- Rabbeinu Bachaya (to Bereishis 17:19, Bamidbar 32:3): the name is really
+  *Yitzchak*, and the nevi'im sometimes wrote it with a sin to hint that
+  Yitzchak embodies *din*, likened to a raging fire, *aish*. Rabbi Klein adds on
+  his own account that Pappenheim derives *aish* from the monoliteral shin,
+  which he takes as solidifying the connection.
+- Rabbi Shmuel Feivish Kahane, a seventeenth century sage, in *Leket Shmuel*,
+  holds precisely the reverse: the name should have been *Yischak*, but a sin
+  would have pointed at a raging judgment from which there would be no recovery,
+  so the Torah writes a tzadi.
 
 A further approach has it that the name, or at least its spelling, changed or
-will change. Rabbi Yehuda Moscato (1530 to 1593): in the future the name will
-change from *Yitzchak* to *Yischak*, since sin stands for *sasson* and
-*simchah*, and it appears only four times in Tanach as a hint that it comes into
-its own only once the four exiles are complete. Rabbi Shmuel Borenstein (1855 to
-1926) uses a variation of that to settle an apparent contradiction: *Berachos*
-61b and *Sefer Yetzirah* ch. 5 imply that the spleen answers to *s'chok*, while
-*Tikkunei HaZohar* (*tikkun* 84) associates the spleen with sadness. There are
-two laughters, he answers, the legitimate and holy against the illegitimate and
-impure; the holy is reserved for the future, *az yimalei s'chok pinu* (Tehillim
-126:2), while until then most laughter is an illusion masking sadness and
-despondency, and it is that laughter of this world, itself a cover for sadness,
-that the spleen answers to. He concludes that in the future, when *s'chok* will
-mean laughter in its legitimate sense, the name will change from *Yitzchak*,
-tied to the holy laughter alone, to *Yischak*, drawn from the form of laughter
-that had been the unholy one. The Arizal (*Shaar HaPesukim* to Yeshayahu 52:3)
-also offers an explanation of the switch.
+will change.
+
+- Rabbi Yehuda Moscato (1530 to 1593): in the future the name will change from
+  *Yitzchak* to *Yischak*, since sin stands for *sasson* and *simchah*, and it
+  appears only four times in Tanach as a hint that it comes into its own only
+  once the four exiles are complete.
+- Rabbi Shmuel Borenstein (1855 to 1926) uses a variation of that to settle an
+  apparent contradiction: *Berachos* 61b and *Sefer Yetzirah* ch. 5 imply that
+  the spleen answers to *s'chok*, while *Tikkunei HaZohar* (*tikkun* 84)
+  associates the spleen with sadness. There are two laughters, he answers, the
+  legitimate and holy against the illegitimate and impure; the holy is reserved
+  for the future, *az yimalei s'chok pinu* (Tehillim 126:2), while until then
+  most laughter is an illusion masking sadness and despondency, and it is that
+  laughter of this world, itself a cover for sadness, that the spleen answers
+  to. He concludes that in the future, when *s'chok* will mean laughter in its
+  legitimate sense, the name will change from *Yitzchak*, tied to the holy
+  laughter alone, to *Yischak*, drawn from the form of laughter that had been
+  the unholy one.
+- The Arizal (*Shaar HaPesukim* to Yeshayahu 52:3) also offers an explanation of
+  the switch.
 
 In other sources it seems that the original name was *Yischak* and was later
 changed to *Yitzchak*: when Yisrael cried out in Mitzrayim, Hashem asked the
 Avos which of them would give up the numerical value of his name to save them,
 and Yitzchak stepped forward and gave up the sin (300) for a tzadi (90), a
 difference of 210, which is why they were redeemed after an exile of 210 years
-(cited in numerous works, among them *Imrei Noam* to Shemos 6:2, which is
-called the *Rosh* to Shemos 6:1; *Siddur Rokeach*; *Be'er Mayim
-Chaim* to Bereishis 15:13; *Leket Shmuel* to Bereishis 25:19). The Vilna Gaon
-(to *Sifra d'Tzniusa*, end of ch. 3) writes that each of the three Avos had a
-lower name and a higher name; Rabbi Klein applies this to Yitzchak, alongside
-Avram and Avraham and Yaakov and Yisrael or Yeshurun, giving him two names, or
-at least two spellings of the one name, *Yitzchak* (lower) and *Yischak*
-(higher). *Sefer HaShem*, ascribed to the Rokeach, notes that Avraham, Yischak
-and Yeshurun together total 2448, the year of Matan Torah, taking final mem as
-600 and final nun as 700.
+(cited in numerous works, among them *Imrei Noam* to Shemos 6:2, which is called
+the *Rosh* to Shemos 6:1; *Siddur Rokeach*; *Be'er Mayim Chaim* to Bereishis
+15:13; *Leket Shmuel* to Bereishis 25:19).
+
+- The Vilna Gaon (to *Sifra d'Tzniusa*, end of ch. 3) writes that each of the
+  three Avos had a lower name and a higher name; Rabbi Klein applies this to
+  Yitzchak, alongside Avram and Avraham and Yaakov and Yisrael or Yeshurun,
+  giving him two names, or at least two spellings of the one name, *Yitzchak*
+  (lower) and *Yischak* (higher).
+- *Sefer HaShem*, ascribed to the Rokeach, notes that Avraham, Yischak and
+  Yeshurun together total 2448, the year of Matan Torah, taking final mem as 600
+  and final nun as 700.
 
 ## Rendering guidance
 

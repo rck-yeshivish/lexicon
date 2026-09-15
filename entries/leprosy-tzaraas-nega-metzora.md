@@ -152,19 +152,20 @@ odd a name.
 
 ### nega (נגע)
 From נ-ג-ע (Ibn Janach, Radak) or the two-letter ג-ע (Ibn Saruk). The root
-carries touching (*nogea*), reaching (*hagaah*), and striking (*naga*). Rabbi
-Shlomo Pappenheim takes contact as the core: the meeting point of two things;
-reaching is bringing that contact about, and striking is contact of the harmful
-kind, whether from a man's hand or from a malady sent upon him. A *nega* is thus
-the point where the man and the affliction meet. Rav Hirsch (to Vayikra 13:2)
-makes the Divine element definitional: a leprous disease that is merely
-pathological, and not plainly an affliction from Above, falls outside the
-definition of a *nega*. He also (to Bereishis 20:5) pairs נ-ג-ע with נ-ג-ח, ayin
-interchanging with ches: *negichah*, goring, is a violent impact, *negiah* can be
-the lightest touch, and a *nega* is the nexus between a man and a Divine message
-meant to rouse him to teshuvah. The chassidishe adage on *nega* and *oneg*, the
-same letters reordered, turns on where one puts the *ayin*, that is, on how the
-eye sees what has come.
+carries touching (*nogea*), reaching (*hagaah*), and striking (*naga*).
+
+- Rabbi Shlomo Pappenheim takes contact as the core: the meeting point of two
+  things; reaching is bringing that contact about, and striking is contact of
+  the harmful kind, whether from a man's hand or from a malady sent upon him. A
+  *nega* is thus the point where the man and the affliction meet.
+- Rav Hirsch (to Vayikra 13:2) makes the Divine element definitional: a leprous
+  disease that is merely pathological, and not plainly an affliction from Above,
+  falls outside the definition of a *nega*. He also (to Bereishis 20:5) pairs
+  נ-ג-ע with נ-ג-ח, ayin interchanging with ches: *negichah*, goring, is a
+  violent impact, *negiah* can be the lightest touch, and a *nega* is the nexus
+  between a man and a Divine message meant to rouse him to teshuvah.
+- The chassidishe adage on *nega* and *oneg*, the same letters reordered, turns
+  on where one puts the *ayin*, that is, on how the eye sees what has come.
 
 ### tzarua (צרוע) and metzora (מצורע)
 Both are declensions of צ-ר-ע. *Tzarua* appears five times (Vayikra 13:44-45,

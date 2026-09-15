@@ -72,24 +72,25 @@ root.
    is the board on which a man plays out what he really wants.
 
 **Whether *eretz* and *adamah* split by place or by depth.** In many places in
-the Torah an unqualified *eretz* is the Holy Land and *adamah* the Diaspora;
-Rabbi Yaakov Tzvi Mecklenburg sheds light on why the roots should fall that
-way. Building on Rabbi Shlomo
-Pappenheim, he reads *adamah* as the passive word, and applies it to lands
-outside the Holy Land, where one stays sedentary and inactive as regards the
-agricultural mitzvos, which bind only there; *eretz* he derives from REISH-TZADI
-in the sense of fluency or persistency, an allusion to the earth's persistent
-orbit around the sun and its rotation on its axis, and so the word for the Land
-where one must be constantly active and vigilant to keep those mitzvos, the
-opposite of the passivity *adamah* implies. Alongside this stands Rabbi Klein's
-own depth reading, from an earlier piece of his on these two words: *adamah* is
-restricted to the topmost strata of the crust while *eretz* can reach deeper.
-The two are given one after the other, not set against each other. Rav Tzvi
-Yehuda Kook distinguishes *ratzon* from *chefetz*, and Rabbi Klein then draws
-the parallel himself: *eretz* likewise takes in what lies beneath the surface,
-while *adamah*, from DALET-MEM, likeness, he associates with superficiality, the
-neighbour of *dimyon*, imagination or delusion, which may resemble reality
-without being it.
+the Torah an unqualified *eretz* is the Holy Land and *adamah* the Diaspora.
+
+- Rabbi Yaakov Tzvi Mecklenburg sheds light on why the roots should fall that
+  way. Building on Rabbi Shlomo Pappenheim, he reads *adamah* as the passive
+  word, and applies it to lands outside the Holy Land, where one stays sedentary
+  and inactive as regards the agricultural mitzvos, which bind only there;
+  *eretz* he derives from REISH-TZADI in the sense of fluency or persistency, an
+  allusion to the earth's persistent orbit around the sun and its rotation on
+  its axis, and so the word for the Land where one must be constantly active and
+  vigilant to keep those mitzvos, the opposite of the passivity *adamah*
+  implies.
+- Alongside this stands Rabbi Klein's own depth reading, from an earlier piece
+  of his on these two words: *adamah* is restricted to the topmost strata of the
+  crust while *eretz* can reach deeper. The two are given one after the other,
+  not set against each other. Rav Tzvi Yehuda Kook distinguishes *ratzon* from
+  *chefetz*, and Rabbi Klein then draws the parallel himself: *eretz* likewise
+  takes in what lies beneath the surface, while *adamah*, from DALET-MEM,
+  likeness, he associates with superficiality, the neighbour of *dimyon*,
+  imagination or delusion, which may resemble reality without being it.
 
 ## Distinctions
 
@@ -102,13 +103,15 @@ insect; Rabbi Klein adds that this is possibly by the *shiphel* inflection, or
 possibly on the approach that any letter may join a two-letter root.
 
 ### adamah (אדמה)
-Avos d'Rabbi Nasan (version 2): the land is called *adamah* because Adam was
-created from it. Rabbi Shlomo Pappenheim works from the biliteral DALET-MEM,
-likeness (*domeh*), which by its nature implies incongruity, since things merely
-alike are not the same; from there *domem*, still or inactive, where inner
-activity continues but outward activity has stopped. *Adamah* belongs to that
-branch: the setting in which plants grow and are active while the ground itself
-stays passive.
+
+- Avos d'Rabbi Nasan (version 2): the land is called *adamah* because Adam was
+  created from it.
+- Rabbi Shlomo Pappenheim works from the biliteral DALET-MEM, likeness
+  (*domeh*), which by its nature implies incongruity, since things merely alike
+  are not the same; from there *domem*, still or inactive, where inner activity
+  continues but outward activity has stopped. *Adamah* belongs to that branch:
+  the setting in which plants grow and are active while the ground itself stays
+  passive.
 
 ### ratzon (רצון) and chefetz (חפץ)
 Rav Tzvi Yehuda Kook: *ratzon* is a person's final goal, his real will

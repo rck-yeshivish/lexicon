@@ -69,17 +69,18 @@ leading means holding those under one's influence to a consistent course, as a
 shepherd does his flock (Shemos 3:1, Tehillim 78:52) and a general his army
 (Divrei HaYamim I 20:1).
 
-But the consistency is morally neutral, which is why *noheg* can go bad. Lavan uses it of Yaakov "leading" his daughters like captives
-(Bereishis 31:26); Iyov of wicked men who drive off an orphan's donkey (Iyov
-24:3); and the Torah of the Egyptian chariots that drove their riders straight
-into the sea (Shemos 14:25). Rabbi Yehuda Leib Shapira-Frankfurter (*HaRechasim
-LeVik'ah*), cited also by Rabbi Ezra Reuven Dangoor, the Chief Rabbi of Baghdad,
-in his *Adei Zahav*, makes this the distinction: *nachah* and *nohel* always
-carry a positive sense, since they imply an element of greatness in the one
-leading, a stronger man leading weaker ones or an older leading younger and
-using that greatness to help them, while *noheg* can sometimes name leading someone or
-something to its downfall.
+But the consistency is morally neutral, which is why *noheg* can go bad. Lavan
+uses it of Yaakov "leading" his daughters like captives (Bereishis 31:26); Iyov
+of wicked men who drive off an orphan's donkey (Iyov 24:3); and the Torah of the
+Egyptian chariots that drove their riders straight into the sea (Shemos 14:25).
 
+- Rabbi Yehuda Leib Shapira-Frankfurter (*HaRechasim LeVik'ah*), cited also by
+  Rabbi Ezra Reuven Dangoor, the Chief Rabbi of Baghdad, in his *Adei Zahav*,
+  makes this the distinction: *nachah* and *nohel* always carry a positive
+  sense, since they imply an element of greatness in the one leading, a stronger
+  man leading weaker ones or an older leading younger and using that greatness
+  to help them, while *noheg* can sometimes name leading someone or something to
+  its downfall.
 - Rabbi Shlomo Aharon Wertheimer: *noheg* implies leading from a position of
   power and strength, as when Hashem "led" the east wind before the makkah of
   arbeh (Shemos 10:13).
@@ -134,34 +135,38 @@ About forty times in Tanach (Shemos 13:17, 15:13; Tehillim 77:21 among them),
 four of them in Shemos: Hashem did not lead them (*nacham*) by the Philistine
 road (13:17), the pillar of cloud led the way (*lanchosam*, 13:21), "You led
 (*nachisa*) with Your kindness" (15:13), and Moshe is told to lead the nation
-(*nechei*, 32:34). Rabbi Pappenheim ties it to *menuchah* (rest),
-which he derives from the biliteral נ-ח or from the single letter ח: *nachah*
-is the leadership that takes itself to be responsible only for keeping its
-charges clear of mishap and bringing them to a state of rest. His proofs: the pillar of
-cloud that led the Jews through the wilderness is *nachah* (Shemos 13:21,
-Nechemiah 9:12), the Clouds of Glory being there to protect and to clear away
-whatever might trip them up; and "You led (*nachisa*) with Your kindness this
-nation that You redeemed" (Shemos 15:13) speaks of Hashem taking them out of a
-dangerous place. Moshe is told to *nechei* the nation, that is, to instruct
-them (Shemos 32:34).
+(*nechei*, 32:34).
 
-Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) frames *nocheh* differently:
-leading a person all the way to his final destination, not merely along a leg of
-the way.
+- Rabbi Pappenheim ties it to *menuchah* (rest), which he derives from the
+  biliteral נ-ח or from the single letter ח: *nachah* is the leadership that
+  takes itself to be responsible only for keeping its charges clear of mishap
+  and bringing them to a state of rest. His proofs: the pillar of cloud that led
+  the Jews through the wilderness is *nachah* (Shemos 13:21, Nechemiah 9:12),
+  the Clouds of Glory being there to protect and to clear away whatever might
+  trip them up; and "You led (*nachisa*) with Your kindness this nation that You
+  redeemed" (Shemos 15:13) speaks of Hashem taking them out of a dangerous
+  place. Moshe is told to *nechei* the nation, that is, to instruct them (Shemos
+  32:34).
+- Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) frames *nocheh* differently:
+  leading a person all the way to his final destination, not merely along a leg
+  of the way.
 
 ### nohel (נהל)
-Rabbi Wertheimer: a more caring leading, one that supplies those led with what
-they need to thrive. So Yaakov tells Esav he will lead his household on slowly
-(*esnahalah*, Bereishis 33:14), the father-provider; and Yosef "led them with
-bread" through the famine (*vayenahaleim*, Bereishis 47:17), the benevolent
-ruler sustaining his people. Rabbi Pappenheim draws the same line against
-*nachah*: *nachah* saves from the bad, *nohel* also helps in a positive,
-nurturing way, as can be inferred from Shiras HaYam, which uses *nachah* for leading the Jews
-*out of* Egypt and *nohel* for leading them *in* to the holy abode. Rabbi
-Mecklenburg (*HaKsav VeHaKabbalah* to Bereishis 47:17) gives an abbreviated
-version of Rabbi Pappenheim's whole scheme. Later Hebrew gives *menahel*,
-principal or manager, *hanhalah*, administration, and *mankal*, a contraction of
-*menahel klali*, general manager.
+
+- Rabbi Wertheimer: a more caring leading, one that supplies those led with what
+  they need to thrive. So Yaakov tells Esav he will lead his household on slowly
+  (*esnahalah*, Bereishis 33:14), the father-provider; and Yosef "led them with
+  bread" through the famine (*vayenahaleim*, Bereishis 47:17), the benevolent
+  ruler sustaining his people.
+- Rabbi Pappenheim draws the same line against *nachah*: *nachah* saves from the
+  bad, *nohel* also helps in a positive, nurturing way, as can be inferred from
+  Shiras HaYam, which uses *nachah* for leading the Jews *out of* Egypt and
+  *nohel* for leading them *in* to the holy abode. Rabbi Mecklenburg (*HaKsav
+  VeHaKabbalah* to Bereishis 47:17) gives an abbreviated version of Rabbi
+  Pappenheim's whole scheme.
+
+Later Hebrew gives *menahel*, principal or manager, *hanhalah*, administration,
+and *mankal*, a contraction of *menahel klali*, general manager.
 
 - Rabbi Shimon Goldblit (*Leshon Chachamim*) shifts the pieces: for him *noheg*
   is the protective leading (much as Rabbi Pappenheim explains *nachah*), which

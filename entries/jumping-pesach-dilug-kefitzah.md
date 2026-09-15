@@ -64,13 +64,16 @@ Root ד-ל-ג.
   speed.
 
 ### kefitzah (קפיצה)
-Root ק-פ-ץ. The Vilna Gaon: both feet leave the ground. Rabbi Shlomo Pappenheim:
-covering the distance of several steps in one, sometimes off the ground and
-sometimes not, the whole point being to arrive faster. One who is *kofetz* is
-not avoiding anything underneath him; he is shortening the trip. Hence *kefitzas
-haderech*, the miraculous shortening of a journey, and hence the idiomatic use
-for anything done in haste and without proper thought, as when the Gemara says
-of a man who swore on the spot that he "jumped and swore."
+Root ק-פ-ץ.
+
+- The Vilna Gaon: both feet leave the ground.
+- Rabbi Shlomo Pappenheim: covering the distance of several steps in one,
+  sometimes off the ground and sometimes not, the whole point being to arrive
+  faster. One who is *kofetz* is not avoiding anything underneath him; he is
+  shortening the trip. Hence *kefitzas haderech*, the miraculous shortening of a
+  journey, and hence the idiomatic use for anything done in haste and without
+  proper thought, as when the Gemara says of a man who swore on the spot that he
+  "jumped and swore."
 
 ### the subject-based reading, and its rejection
 Rabbi Shimshon of Shantz (to Ohalos 8:5): the difference is not the manner of

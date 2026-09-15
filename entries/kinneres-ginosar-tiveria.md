@@ -51,27 +51,30 @@ must name this lake. Which of its three names is the correct one was disputed at
 length between Rabbi Yosef Karo and Rabbi Moshe ben Yosef of Trani, who sat
 together on the beis din of Tzefas.
 
-**Where the name Kinneres comes from.** A popular account says the lake is called
-*Kinneres* because its pear shape resembles a *kinnor*, a musical instrument.
-There is no real source for this. The Gemara
-(*Megillah* 6a), which identifies the Biblical Kinneres with Ginosar, derives the
-name differently and applies it to the city, not the lake: its fruits are as
-sweet as the sound of a *kinnor*. Rabbi Nosson of Rome (*Sefer HeAruch*) defines
-*kinnor* either as a kind of berry, which Jastrow identifies as
-a thorn jujube (compare Rashi to *Bava Basra* 48b), or as a musical instrument, a
-harp or lyre.
+**Where the name Kinneres comes from.**
 
-**Whether Tiveria is a Biblical city.** Two accounts stand against each
-other. Josephus (*Antiquities of the Jews* XVIII:8) has Herod, the Herodian
-tetrarch of the Galilee, found the city and name it in honor of the Roman emperor
-Tiberius. The Gemara (*Megillah* 5b-6a), on the other hand, identifies it with
-one of two cities named in Yehoshua 19:35, *Chamas* or *Rakas*: *Chamas*, "hot,"
-for the natural hot springs there, and *Rakas*, "empty," because even the empty
-and unlearned among its people were as full of mitzvos as a pomegranate is of
-seeds. For the name Tiveria itself the Gemara gives two accounts: the city sits
-at the *tabur*, the navel of Eretz Yisrael, in importance rather than in
-geography, and the name is *tovah re'iyasah*, "its sight is good," which Tosafos
-explains as its beauty, its gardens and orchards.
+- A popular account says the lake is called *Kinneres* because its pear shape
+  resembles a *kinnor*, a musical instrument. There is no real source for this.
+- The Gemara (*Megillah* 6a), which identifies the Biblical Kinneres with
+  Ginosar, derives the name differently and applies it to the city, not the
+  lake: its fruits are as sweet as the sound of a *kinnor*.
+- Rabbi Nosson of Rome (*Sefer HeAruch*) defines *kinnor* either as a kind of
+  berry, which Jastrow identifies as a thorn jujube (compare Rashi to *Bava
+  Basra* 48b), or as a musical instrument, a harp or lyre.
+
+**Whether Tiveria is a Biblical city.** Two accounts stand against each other.
+
+- Josephus (*Antiquities of the Jews* XVIII:8) has Herod, the Herodian tetrarch
+  of the Galilee, found the city and name it in honor of the Roman emperor
+  Tiberius.
+- The Gemara (*Megillah* 5b-6a), on the other hand, identifies it with one of
+  two cities named in Yehoshua 19:35, *Chamas* or *Rakas*: *Chamas*, "hot," for
+  the natural hot springs there, and *Rakas*, "empty," because even the empty
+  and unlearned among its people were as full of mitzvos as a pomegranate is of
+  seeds. For the name Tiveria itself the Gemara gives two accounts: the city
+  sits at the *tabur*, the navel of Eretz Yisrael, in importance rather than in
+  geography, and the name is *tovah re'iyasah*, "its sight is good," which
+  Tosafos explains as its beauty, its gardens and orchards.
 
 **Why the rabbinic sources drop the name Kinneres.** Archaeologists at ancient
 Ugarit (Ras Shamra, in modern Syria) found a list of old Canaanite gods carrying

@@ -43,11 +43,13 @@ layer; the Maharshal inverts it.
 ## Distinctions
 
 ### eretz (ארץ)
-The Vilna Gaon: *eretz* connotes land as national settlement, and in the
-construct it names a particular nation's land, so "country" fits it well; an
-unqualified *eretz* often means Eretz Yisrael in particular. Malbim: *eretz*
-takes in the whole planet, from the surface down to the innermost core, while
-*adamah* generally means only the crust whose dirt is farmed.
+
+- The Vilna Gaon: *eretz* connotes land as national settlement, and in the
+  construct it names a particular nation's land, so "country" fits it well; an
+  unqualified *eretz* often means Eretz Yisrael in particular.
+- Malbim: *eretz* takes in the whole planet, from the surface down to the
+  innermost core, while *adamah* generally means only the crust whose dirt is
+  farmed.
 
 Bereishis Rabbah 5:8 relates *eretz* to *ratzon* and *ratz*, running: when the
 world was created the land wanted to do Hashem's will, and ran to cover as much
@@ -55,31 +57,32 @@ of the earth's surface as it could until Hashem told it to stop.
 
 The berachos put the difference on display. Over bread one says that Hashem
 brings forth bread *min ha'aretz*, from the land; over vegetables, that He
-creates the fruit *ha'adamah*, of the ground. Rabbeinu Bachaya and the Ritva:
-bread should by rights have taken the more specific *adamah*, the word for a
-field, and the reason it does not is that Chazal shaped the berachah on the
-language of the pasuk (Tehillim 104:14), which says bread comes from the
-*eretz*.
+creates the fruit *ha'adamah*, of the ground.
 
-Rabbi Yechiel Michel Moravsky of Lublin answers from the meanings themselves.
-*Adamah* is limited to the immediate top layer of dirt, while *eretz* reaches
-what lies underground; wheat, whose roots run deep (Yerushalmi Taanis 1:3 puts
-them at fifty handbreadths), is therefore said to come from the *eretz*, while
-vegetables, which do not necessarily need such depth, are fruit of the *adamah*. Rabbi
-Yisrael Lipschitz explains similarly.
+- Rabbeinu Bachaya and the Ritva: bread should by rights have taken the more
+  specific *adamah*, the word for a field, and the reason it does not is that
+  Chazal shaped the berachah on the language of the pasuk (Tehillim 104:14),
+  which says bread comes from the *eretz*.
+- Rabbi Yechiel Michel Moravsky of Lublin answers from the meanings themselves.
+  *Adamah* is limited to the immediate top layer of dirt, while *eretz* reaches
+  what lies underground; wheat, whose roots run deep (Yerushalmi Taanis 1:3 puts
+  them at fifty handbreadths), is therefore said to come from the *eretz*, while
+  vegetables, which do not necessarily need such depth, are fruit of the
+  *adamah*. Rabbi Yisrael Lipschitz explains similarly.
 
 ### adamah (אדמה)
-The Gra: *adamah* denotes specifically uninhabited land set aside for
-agriculture, against *eretz* as settled national territory. The *Pri Megadim*
-adds a different axis entirely: *eretz* is land in its supernal, unblemished
-state, which is why it suits the Holy Land, while *adamah* is the stained and
-imperfect ground that Hashem cursed for Adam's sin (Bereishis 3:17). On his
-reading the vegetable berachah says *adamah* because it acknowledges Hashem's
-kindness now, growing produce out of cursed ground, while the bread berachah
-looks back before the sin, when whole loaves rose from the earth, and forward to
-the days of Mashiach when they will again (Shabbos 30b), and so says *eretz*,
-the land that will by then break free of its curse and return to its pure,
-unblemished state.
+
+- The Gra: *adamah* denotes specifically uninhabited land set aside for
+  agriculture, against *eretz* as settled national territory.
+- The *Pri Megadim* adds a different axis entirely: *eretz* is land in its
+  supernal, unblemished state, which is why it suits the Holy Land, while
+  *adamah* is the stained and imperfect ground that Hashem cursed for Adam's sin
+  (Bereishis 3:17). On his reading the vegetable berachah says *adamah* because
+  it acknowledges Hashem's kindness now, growing produce out of cursed ground,
+  while the bread berachah looks back before the sin, when whole loaves rose
+  from the earth, and forward to the days of Mashiach when they will again
+  (Shabbos 30b), and so says *eretz*, the land that will by then break free of
+  its curse and return to its pure, unblemished state.
 
 Rabbi Shlomo Pappenheim derives *adamah* from the biliteral ד-מ, similarity,
 whence *domem*, inactive: the *adamah* is where plants grow and are active, while
