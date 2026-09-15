@@ -81,14 +81,17 @@ his definitions of *petza* vary: sword or arrow (Bereishis 4:23), sword or knife
 Zarah 28a). It seems pretty clear that the thread is something sharp or
 piercing, which is why Rashi defines *petza* as an open wound.
 
-**The root of chaburah.** In light of Rashi, Malbim (to Yeshayahu 1:6) and Rabbi
-Shlomo Aharon Wertheimer (1866 to 1935) derive it from *chibbur*, "connection,"
-the blood pooling beneath the skin; Rabbi Klein places it with the other
-offshoots of ח-ב-ר, *chibbur*, *chaver* and *chover*, all sharing the sense of
-joining together. Alternatively, he suggests, since a Hebrew root can sometimes
-carry both an idea and its opposite, ח-ב-ר may here mean "splitting," the body
-split open and no longer held closed; he notes this does not fit Rashi but can
-fit other commentators.
+**The root of chaburah.**
+
+- In light of Rashi, Malbim (to Yeshayahu 1:6) and Rabbi Shlomo Aharon
+  Wertheimer (1866 to 1935) derive it from *chibbur*, "connection," the blood
+  pooling beneath the skin; Rabbi Klein places it with the other offshoots of
+  ח-ב-ר, *chibbur*, *chaver* and *chover*, all sharing the sense of joining
+  together.
+- Alternatively, he suggests, since a Hebrew root can sometimes carry both an
+  idea and its opposite, ח-ב-ר may here mean "splitting," the body split open
+  and no longer held closed; he notes this does not fit Rashi but can fit other
+  commentators.
 
 ## Distinctions
 
@@ -120,27 +123,31 @@ read as a declension of *chaburah*, a discoloration of the skin. Rambam
 bruise were the product of the injuring.
 
 ### chovel (חובל)
-Absent from Tanach, standard in Rabbinic Hebrew: one who injures another and owes
-the five payments (Bava Kamma 8:1), and the melachah of wounding any living
+Absent from Tanach, standard in Rabbinic Hebrew: one who injures another and
+owes the five payments (Bava Kamma 8:1), and the melachah of wounding any living
 creature that has skin on Shabbos (Shabbos 14:1). The root ח-ב-ל carries
 plotting, rope, lot, pledge, a group of people, pain, and damage. Which of these
 is the direct parent of *chovel* is unclear, but pain and damage appear the
 likeliest, and Rabbinic *chaval*, "a pity," and Modern Hebrew *mechabel*,
-"terrorist," probably belong with them. Alternatively, Rabbi Klein suggests,
-*chovel* may relate to "a group of people," as *chaburah* is a grouping of
-blood: the one who wounds causes the blood to group beneath the skin. The early lexicographers (Menachem Ibn
-Saruk, Ibn Janach, Radak) see these senses as distinct from *chaval* in the sense of taking a collateral; Rabbi
-Shlomo Pappenheim sees them all as interrelated, with "rope" as the core: one of
-a rope's primary uses was measuring, and anything measurable is limited, so
-*chavlei* is a localized pain that does not affect the whole body, like birth
-pangs, and *chavalah* is partial damage or injury, not total destruction. Rabbi
-Yaakov Berger of Kiryat Sefer (*Milon Leshon Mikra*, unpublished) holds that the
-roots of *chovel* and *chaburah* are one, on the interchange of lamed and reish,
-as Rashi also implies when he explains *chaburah* with a cognate of *chovel*
-(Yeshayahu 1:6; Shir HaShirim 5:7). Rabbi Berger cautiously notes that he knows
-of no earlier authority who says so; Rabbi Klein found that the Hungarian
-scholar Rabbi Baruch Schönfeld (1778 to 1852) suggested this very connection in a
-note in *Bikkurei Ittim* (vol. 9, pp. 70-71).
+"terrorist," probably belong with them.
+
+- Alternatively, Rabbi Klein suggests, *chovel* may relate to "a group of
+  people," as *chaburah* is a grouping of blood: the one who wounds causes the
+  blood to group beneath the skin.
+- The early lexicographers (Menachem Ibn Saruk, Ibn Janach, Radak) see these
+  senses as distinct from *chaval* in the sense of taking a collateral.
+- Rabbi Shlomo Pappenheim sees them all as interrelated, with "rope" as the
+  core: one of a rope's primary uses was measuring, and anything measurable is
+  limited, so *chavlei* is a localized pain that does not affect the whole body,
+  like birth pangs, and *chavalah* is partial damage or injury, not total
+  destruction.
+- Rabbi Yaakov Berger of Kiryat Sefer (*Milon Leshon Mikra*, unpublished) holds
+  that the roots of *chovel* and *chaburah* are one, on the interchange of lamed
+  and reish, as Rashi also implies when he explains *chaburah* with a cognate of
+  *chovel* (Yeshayahu 1:6; Shir HaShirim 5:7). Rabbi Berger cautiously notes
+  that he knows of no earlier authority who says so; Rabbi Klein found that the
+  Hungarian scholar Rabbi Baruch Schönfeld (1778 to 1852) suggested this very
+  connection in a note in *Bikkurei Ittim* (vol. 9, pp. 70-71).
 
 ## Rendering guidance
 

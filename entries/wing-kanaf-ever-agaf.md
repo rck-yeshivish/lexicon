@@ -76,16 +76,18 @@ itself.
   root is the biliteral ב-ר, primarily "choosing" or "separating," and the
   *ever* is the choicest limb of a bird because it is the strongest.
 
-**Where kanaf comes from.** Rav Hirsch (to Bereishis 1:21, 7:14; Vayikra
-19:11) compares *kanaf* to *ganav*, thief, through the interchange of kaf with
-gimmel and peh with beis: both conceal, the wing covering part of the bird's
-body, or carrying it so high that it is out of sight, as the thief works
-unseen. Rabbi Pappenheim (*Yerios Shlomo*) assigns *kanaf* to the biliteral
-כ-פ but offers no thematic link, and his exposition of כ-פ as "receptacle" in
-*Cheshek Shlomo* (whence *kaf*, the palm, and *kapayim*, the heavens draped over
-the horizon like a dome) does not mention *kanaf* at all. Rabbi Klein surmises,
-in the absence of an explanation from Rabbi Pappenheim, that *kanaf* would then
-be the limb by which a bird reaches toward the *kapayim*.
+**Where kanaf comes from.**
+
+- Rav Hirsch (to Bereishis 1:21, 7:14; Vayikra 19:11) compares *kanaf* to
+  *ganav*, thief, through the interchange of kaf with gimmel and peh with beis:
+  both conceal, the wing covering part of the bird's body, or carrying it so
+  high that it is out of sight, as the thief works unseen.
+- Rabbi Pappenheim (*Yerios Shlomo*) assigns *kanaf* to the biliteral כ-פ but
+  offers no thematic link, and his exposition of כ-פ as "receptacle" in *Cheshek
+  Shlomo* (whence *kaf*, the palm, and *kapayim*, the heavens draped over the
+  horizon like a dome) does not mention *kanaf* at all. Rabbi Klein surmises, in
+  the absence of an explanation from Rabbi Pappenheim, that *kanaf* would then
+  be the limb by which a bird reaches toward the *kapayim*.
 
 **What agaf is built on.**
 - *Agaf* seems to be cognate with the Biblical Aramaic *gapin*, wings (Daniel
@@ -113,19 +115,22 @@ be the limb by which a bird reaches toward the *kapayim*.
 
 ### kanaf (כנף)
 Root כ-נ-ף. Primarily the wing of a flying creature, and by extension birds
-themselves (Bereishis 7:14). Rashi there reads *kol kanaf* as including all
-winged creatures, such as grasshoppers, which *kol tzipor* does not cover; Radak
-(to Bereishis 7:14), expanding on Rashi, makes *kanaf* a specific class, winged
-insects like grasshoppers, wasps and flies. Bedersi: because the wing sits at the edge of the
-bird's body, *kanaf* came to mean whatever lies at the periphery or edge, of a
-thing (Devarim 22:12; Shmuel I 24:5) or of a place (Yeshayahu 11:12, 24:16;
-Yechezkel 7:2; Iyov 37:3, 38:13). Rabbi Shlomo Aharon Wertheimer (1866 to 1935)
-adds the sun's rays, called *kanaf* in Malachi 3:20, since they branch off the
-sun as wings branch off a bird. He also fixes the anatomy: *kanaf* is the
-outermost part of the wing, protruding farthest from the body, the part that
-casts shade and so serves as a metaphor for protection; the idiom of taking
-someone under one's wing comes from this Biblical usage (Devarim 23:1; Rus 2:12,
-3:9).
+themselves (Bereishis 7:14).
+
+- Rashi there reads *kol kanaf* as including all winged creatures, such as
+  grasshoppers, which *kol tzipor* does not cover.
+- Radak (to Bereishis 7:14), expanding on Rashi, makes *kanaf* a specific class,
+  winged insects like grasshoppers, wasps and flies.
+- Bedersi: because the wing sits at the edge of the bird's body, *kanaf* came to
+  mean whatever lies at the periphery or edge, of a thing (Devarim 22:12; Shmuel
+  I 24:5) or of a place (Yeshayahu 11:12, 24:16; Yechezkel 7:2; Iyov 37:3,
+  38:13).
+- Rabbi Shlomo Aharon Wertheimer (1866 to 1935) adds the sun's rays, called
+  *kanaf* in Malachi 3:20, since they branch off the sun as wings branch off a
+  bird. He also fixes the anatomy: *kanaf* is the outermost part of the wing,
+  protruding farthest from the body, the part that casts shade and so serves as
+  a metaphor for protection; the idiom of taking someone under one's wing comes
+  from this Biblical usage (Devarim 23:1; Rus 2:12, 3:9).
 
 ### ever (אבר)
 Root א-ב-ר, or ב-ר for Rabbi Pappenheim. Though Rabbi Klein's translation of

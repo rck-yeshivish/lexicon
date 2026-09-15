@@ -136,45 +136,48 @@ older *naarah*, so that both words fit her; this works best if she was three
 when she was chosen for Yitzchak.
 
 According to many commentators, *elem* and *almah* are related to *eilum* and
-*ne'elam*, hidden. Rav Hirsch (to Bereishis 13:15) explains that an *elem* is a
-young *naar* who has not yet matured or developed, his potential still hidden
-and unrealized. *Peirush HaRokeach* points out that throughout the story of the
-secret pact between David and Yonasan, the lad who served as their go-between is
-called a *naar* (Shmuel I 20:1-42), but once an *elem* (20:22), in allusion to
-their need to keep the pact hidden from Yonasan's father, King Shaul.
+*ne'elam*, hidden.
+
+- Rav Hirsch (to Bereishis 13:15) explains that an *elem* is a young *naar* who
+  has not yet matured or developed, his potential still hidden and unrealized.
+- *Peirush HaRokeach* points out that throughout the story of the secret pact
+  between David and Yonasan, the lad who served as their go-between is called a
+  *naar* (Shmuel I 20:1-42), but once an *elem* (20:22), in allusion to their
+  need to keep the pact hidden from Yonasan's father, King Shaul.
 
 From that link the commentators distinguish *almah* from *naarah* in various
-ways. *Peirush HaRokeach* explains that *almah* describes a girl less outgoing
-than *naarah* would indicate. So, Rabbi Klein suggests, Rivkah may already have
-reached the age of *naarah*, and perhaps even passed that technical stage (if
-she was fourteen), and still be an *almah*, because she was hidden from people.
-*Peirush HaRokeach* adds that the word teaches how innocent and sheltered she
-was: she had never even been propositioned, something apparently uncommon for a
-girl her age at that time and place. Rabbeinu Efrayim ben Shimshon (to
-Bereishis 24:43) explains that *almah* said of Rivkah, and *elem* said of David
-(Shmuel I 17:56), imply one who hides his words, typically a sign of wisdom; so
-*naarah* might describe Rivkah's physical age, while *almah* speaks more to her
-intelligence.
+ways.
+
+- *Peirush HaRokeach* explains that *almah* describes a girl less outgoing than
+  *naarah* would indicate. So, Rabbi Klein suggests, Rivkah may already have
+  reached the age of *naarah*, and perhaps even passed that technical stage (if
+  she was fourteen), and still be an *almah*, because she was hidden from
+  people. *Peirush HaRokeach* adds that the word teaches how innocent and
+  sheltered she was: she had never even been propositioned, something apparently
+  uncommon for a girl her age at that time and place.
+- Rabbeinu Efrayim ben Shimshon (to Bereishis 24:43) explains that *almah* said
+  of Rivkah, and *elem* said of David (Shmuel I 17:56), imply one who hides his
+  words, typically a sign of wisdom; so *naarah* might describe Rivkah's
+  physical age, while *almah* speaks more to her intelligence.
 
 For Rabbi Shimon Dov Ber Analak, *elem* names not the adolescent's tenacity but
 his sheer power and strength. In that sense of "energetic" it is related to
 *alim*, with an aleph, the standard Targum for *ometz* and *amitz*, strong or
 resilient.
 
-*Chizkuni* (to Bereishis 24:43) contends that *naarah* and *almah* mean exactly
-the same thing, *naarah* being Hebrew and *almah* Aramaic. The narrator calls
-her a *naarah* (24:16) because the Torah is written in Hebrew; Eliezer, speaking
-with her family, calls her an *almah* (24:43) because he thought that in Charan,
-in Aram, they understood only Aramaic. In fact, *Chizkuni* points out, her
-family did speak Hebrew, since when her going with Eliezer came up, her brother
-and mother called her a *naarah* (24:55).
-
-Rabbi Yonah Ibn Janach and Radak (each in his *Sefer HaShorashim*) also write
-explicitly that *naarah* and *almah* mean the same thing. Rabbi Yaakov Tzvi
-Mecklenburg, summarizing Rabbi Shlomo Pappenheim, grants that on Pappenheim's
-account both words refer to the same stage of life, but holds that *elem*
-focuses on the manifestation of physical maturity and *naar* on the development
-of intellectual and spiritual maturity.
+- *Chizkuni* (to Bereishis 24:43) contends that *naarah* and *almah* mean
+  exactly the same thing, *naarah* being Hebrew and *almah* Aramaic. The
+  narrator calls her a *naarah* (24:16) because the Torah is written in Hebrew;
+  Eliezer, speaking with her family, calls her an *almah* (24:43) because he
+  thought that in Charan, in Aram, they understood only Aramaic. In fact,
+  *Chizkuni* points out, her family did speak Hebrew, since when her going with
+  Eliezer came up, her brother and mother called her a *naarah* (24:55).
+- Rabbi Yonah Ibn Janach and Radak (each in his *Sefer HaShorashim*) also write
+  explicitly that *naarah* and *almah* mean the same thing.
+- Rabbi Yaakov Tzvi Mecklenburg, summarizing Rabbi Shlomo Pappenheim, grants
+  that on Pappenheim's account both words refer to the same stage of life, but
+  holds that *elem* focuses on the manifestation of physical maturity and *naar*
+  on the development of intellectual and spiritual maturity.
 
 Miriam too is called an *almah* (Shemos 2:8), when she watched over Moshe at the
 Nile and he was saved by Pharaoh's daughter. She was about six (*Shemos Rabbah*

@@ -123,19 +123,21 @@ the real one.
 ## Distinctions
 
 ### chalon (חלון)
-Thirty-one appearances. Rabbi Shlomo Pappenheim of Breslau (1740 to 1814)
-traces it to the biliteral ח-ל, circular movement and the empty space inside a
-circle. He puts a wide family under that root: *chalil*, the hollow flute;
-*machol*, a dance in a ring; *chalom*, a dream, thoughts going round and round
-in the mind; *chillul*, the void left where holiness was; *challal*, a corpse
-emptied of its life-force; *choli* and *machalah*, a sickness that affects the
-body all around; and *cheil*, the short wall around a higher wall that leaves an
-empty space between them. In *Yerios Shlomo* he explains that *chalon* belongs
-here because a window is essentially an empty space or hole in a wall, and in
-*Cheshek Shlomo* he adds that *chalon* is specifically a round window, tying the
-word to both core meanings of the biliteral. Radak and Ibn Janach, who do not
-accept biliteral roots, list it under the triliteral ח-ל-ל, emptiness, with the
-same meaning.
+Thirty-one appearances.
+
+- Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) traces it to the biliteral
+  ח-ל, circular movement and the empty space inside a circle. He puts a wide
+  family under that root: *chalil*, the hollow flute; *machol*, a dance in a
+  ring; *chalom*, a dream, thoughts going round and round in the mind;
+  *chillul*, the void left where holiness was; *challal*, a corpse emptied of
+  its life-force; *choli* and *machalah*, a sickness that affects the body all
+  around; and *cheil*, the short wall around a higher wall that leaves an empty
+  space between them. In *Yerios Shlomo* he explains that *chalon* belongs here
+  because a window is essentially an empty space or hole in a wall, and in
+  *Cheshek Shlomo* he adds that *chalon* is specifically a round window, tying
+  the word to both core meanings of the biliteral.
+- Radak and Ibn Janach, who do not accept biliteral roots, list it under the
+  triliteral ח-ל-ל, emptiness, with the same meaning.
 
 ### eshnav (אשנב)
 Twice: Shoftim 5:28, Sisera's mother at the window, and Mishlei 7:6, in the

@@ -58,47 +58,54 @@ Tehillim 19:5, 139:4; Shmuel II 23:2; Mishlei 23:9; over thirty times in Iyov;
 and in the Aramaic of Daniel. *Teivah* in the sense of "word" first appears
 only in later rabbinic writing.
 
-Rabbi Eliyahu HaBachur (1469 to 1549, also known as Elias Levita), in *Mesores
-HaMesores* and *Sefer Tishbi*, notes that many treat the two as identical and
-disagrees: *milah* is the spoken word, *teivah* the written one. Rabbi Yosef
-Teomim (1727 to 1792) differs slightly: *milah* covers both written and spoken,
-while *teivah* is written only.
+- Rabbi Eliyahu HaBachur (1469 to 1549, also known as Elias Levita), in *Mesores
+  HaMesores* and *Sefer Tishbi*, notes that many treat the two as identical and
+  disagrees: *milah* is the spoken word, *teivah* the written one.
+- Rabbi Yosef Teomim (1727 to 1792) differs slightly: *milah* covers both
+  written and spoken, while *teivah* is written only.
 
-On the etymology there are two lines. Rabbi Shlomo Zalman of Hanau (1687 to
-1746) cites HaBachur's distinction and adds that *milah* comes from מ-ל-ל,
-"speech," the root of Sarah's *millel* (Bereishis 21:7) and of David HaMelech's
-*mi yemallel gevuros Hashem* (Tehillim 106:2). Rabbi Klein adds that *millel* is
-the standard Targumic rendering of *amirah*, and that the Eretz Yisrael saying
-in *Megillah* 18a, a *milah* is worth a sela and silence two, sets *milah*
-against *shesikah*, which also implies that it refers to speech. On this
-reading, he explains, a *milah* is the smallest unit of speech with a meaning of
-its own, as against the phonemes or syllables it is built from, and he compares
-Greek *lego*, "to speak," the source of *lexis* and *logos*, "word."
+On the etymology there are two lines.
 
-Rabbi Pappenheim takes a slightly different approach, to the biliteral מ-ל,
-"edge, extremity." *Milah* in *bris milah* is cutting off the extremity;
-*milah* as "word" is an independent unit cut off from the rest of the sentence.
+- Rabbi Shlomo Zalman of Hanau (1687 to 1746) cites HaBachur's distinction and
+  adds that *milah* comes from מ-ל-ל, "speech," the root of Sarah's *millel*
+  (Bereishis 21:7) and of David HaMelech's *mi yemallel gevuros Hashem*
+  (Tehillim 106:2). Rabbi Klein adds that *millel* is the standard Targumic
+  rendering of *amirah*, and that the Eretz Yisrael saying in *Megillah* 18a, a
+  *milah* is worth a sela and silence two, sets *milah* against *shesikah*,
+  which also implies that it refers to speech. On this reading, he explains, a
+  *milah* is the smallest unit of speech with a meaning of its own, as against
+  the phonemes or syllables it is built from, and he compares Greek *lego*, "to
+  speak," the source of *lexis* and *logos*, "word."
+- Rabbi Pappenheim takes a slightly different approach, to the biliteral מ-ל,
+  "edge, extremity." *Milah* in *bris milah* is cutting off the extremity;
+  *milah* as "word" is an independent unit cut off from the rest of the
+  sentence.
 
 ### millel (מלל) as a verb
 How does *millel* differ from *amirah*, *dibbur*, *sichah*, *ne'um*, *yechaveh*
-and *yabia*? *Peirush HaRokeach* and *Siddur HaRokeach*: *millel* is speaking
-elaborately and at length, as in Bildad's *ad an temallel eileh* (Iyov 8:2).
-Rabbeinu Efrayim (to Bereishis 21:7): *millel*, unlike the other verbs of
-speech, is speaking the truth. Rabbi Yehuda Leib Shapira-Frankfurter (1743 to
-1826) makes a similar point: *millel* is speaking so as to explain a thing as
-clearly and accurately as possible. They adduce *v'daas sefasai barur mileilu*
-(Iyov 33:3).
+and *yabia*?
+
+- *Peirush HaRokeach* and *Siddur HaRokeach*: *millel* is speaking elaborately
+  and at length, as in Bildad's *ad an temallel eileh* (Iyov 8:2).
+- Rabbeinu Efrayim (to Bereishis 21:7): *millel*, unlike the other verbs of
+  speech, is speaking the truth. Rabbi Yehuda Leib Shapira-Frankfurter (1743
+  to 1826) makes a similar point: *millel* is speaking so as to explain a thing
+  as clearly and accurately as possible. They adduce *v'daas sefasai barur
+  mileilu* (Iyov 33:3).
 
 ### teivah (תיבה)
 In Tanach *teivah* is an ark or chest: Noach's *teivah* (Bereishis 6 to 9), and
 the basket in which Moshe Rabbeinu was placed (Shemos 2:3). In Mishnaic Hebrew
 it is the shul's ark, or the table (*bimah*) on which the Torah is laid for
-reading. HaBachur brings his proof that *teivah* is the written word from
-*Yevamos* 13b, where any *teivah* needing a lamed prefix may take a hei suffix
-instead, which he understands to refer mainly to how the word is written; and
-from *roshei teivos*, written abbreviations. Rabbi Shlomo Zalman of Hanau
-explains the transfer differently: *teivah* means box, and it refers to the
-written word because the books that hold written words are stored in one.
+reading.
+
+- HaBachur brings his proof that *teivah* is the written word from *Yevamos*
+  13b, where any *teivah* needing a lamed prefix may take a hei suffix instead,
+  which he understands to refer mainly to how the word is written; and from
+  *roshei teivos*, written abbreviations.
+- Rabbi Shlomo Zalman of Hanau explains the transfer differently: *teivah* means
+  box, and it refers to the written word because the books that hold written
+  words are stored in one.
 
 On the root:
 - Ibn Janach (*Sefer HaShorashim*) gives ת-ב-ה.

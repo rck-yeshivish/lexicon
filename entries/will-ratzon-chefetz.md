@@ -102,24 +102,25 @@ want He did not choose; so *chefetz* too must be a wanting within free choice.
 In Malbim's defense Rabbi Klein suggests that Tanach borrows the word from the
 human case, and that if Hashem wants something He perforce chooses to want it.
 
-Rabbi Yehuda Leib Edel (1760 to 1828) offers a totally different take:
-*chefetz* is the final goal itself, while *ratzon* can also name intermediate
-goals. Rabbi Klein's illustration: "I want to buy pizza" is a *ratzon*, a means;
-"I want to eat pizza," the final goal, is a *chefetz*. For the Vilna Gaon,
-*chefetz* refers specifically to food-related desires (see the *taavah* /
-*chemdah* entry).
+- Rabbi Yehuda Leib Edel (1760 to 1828) offers a totally different take:
+  *chefetz* is the final goal itself, while *ratzon* can also name intermediate
+  goals. Rabbi Klein's illustration: "I want to buy pizza" is a *ratzon*, a
+  means; "I want to eat pizza," the final goal, is a *chefetz*.
+- For the Vilna Gaon, *chefetz* refers specifically to food-related desires (see
+  the *taavah* / *chemdah* entry).
 
 ### tzvi (צבי)
-Rabbi Pappenheim (1740 to 1814) derives *tzvi*, the desirable, from the root
-צ-ב, "standing": the desirable thing stays in one's thoughts as though
-constantly standing before him, so *tzvi* is a continuous, perhaps obsessive,
-yearning over an extended time, as against a fleeting want. Rabbi Marcus: the
-word was borrowed for the deer because deer run quickly, as *ratzon* is tied to
-running; alternatively, Rabbi Klein suggests, a deer is swift enough to escape
-capture and so free to run after its heart's wants. In Aramaic *tzvei* is
-nearly synonymous with *ratzon*: Targum Onkelos renders *cheshek* (Devarim 7:7)
-and *chefetz* (Devarim 25:7) with it, as it renders others of the same words
-with *raavon*.
+- Rabbi Pappenheim (1740 to 1814) derives *tzvi*, the desirable, from the root
+  צ-ב, "standing": the desirable thing stays in one's thoughts as though
+  constantly standing before him, so *tzvi* is a continuous, perhaps obsessive,
+  yearning over an extended time, as against a fleeting want.
+- Rabbi Marcus: the word was borrowed for the deer because deer run quickly, as
+  *ratzon* is tied to running; alternatively, Rabbi Klein suggests, a deer is
+  swift enough to escape capture and so free to run after its heart's wants.
+
+In Aramaic *tzvei* is nearly synonymous with *ratzon*: Targum Onkelos renders
+*cheshek* (Devarim 7:7) and *chefetz* (Devarim 25:7) with it, as it renders
+others of the same words with *raavon*.
 
 ## Rendering guidance
 
