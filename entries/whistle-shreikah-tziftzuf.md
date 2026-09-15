@@ -6,6 +6,18 @@ translit: [shreikah, shrekah, sherikah, sharak, sharku, yishrok, tishrok, sharak
 english: [whistle, hiss, chirp, twitter, prattle, piping]
 domain: speech
 words:
+  - he: שריקה
+    tr: shreikah
+    en: whistle
+    distinct: puckering the lips and exhaling (Ibn Prachon); the hiss through the teeth at a ruin once thriving (Rashi), and the call by which Hashem gathers the masses and His people home; with the mouth alone (Rabbi Yaakov Berger)
+  - he: משרוקיתא
+    tr: mashrokita
+    en: whistling instrument
+    distinct: an instrument in Nevuchadnetzar's music in Daniel's Aramaic; from ש-ר-ק, a wind instrument (Ibn Ezra); whistling through an instrument where biblical shreikah is the mouth alone (Rabbi Yaakov Berger)
+  - he: צפצוף
+    tr: tziftzuf
+    en: chirping, prattle
+    distinct: the bird's sound, the voice of its anticipation (Pappenheim); by extension a low rapid whisper, or babble meant to be audible but almost always unintelligible (Rabbi Shaul Goldman), the prattle of lashon hara (Rashi, Ramban); in the Rema's halachic usage, simply to whistle
   - he: שורק
     nk: שׁוּרֶק
 sources:
@@ -27,6 +39,14 @@ instrument. *Tziftzuf*, its apparent synonym, is
 **whistling, chirping, tweeting**, the bird's sound, and by extension a low,
 rapid whisper or half-intelligible **prattle**; in the Rema's halachic usage
 *mitzaftzef* is simply "to whistle."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שריקה | shreikah | whistle | whistle or hiss at a ruin (Rashi); Hashem's call to gather |
+| משרוקיתא | mashrokita | whistling instrument | an instrument, not the mouth (Berger); some wind instrument (Ibn Ezra) |
+| צפצוף | tziftzuf | chirping, prattle | bird's chirping; prattle, as of *lashon hara* (Rashi, Ramban) |
 
 ## Distinctions
 

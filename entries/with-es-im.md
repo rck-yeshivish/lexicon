@@ -6,8 +6,15 @@ translit: [es, et, ito, itto, iti, itti, itah, itam, im, imo, imi, imah, imahem,
 english: [with, alongside, together with, in company with]
 domain: other
 words:
+  - he: את
+    tr: es
+    en: with
+    distinct: usually the untranslatable object marker, sometimes to, from, or with; an unequal pair, one active and one passive (the Vilna Gaon, Malbim), or the stronger, deliberate, more equal with (Pappenheim, Rabbi Mecklenburg)
   - he: עם
+    tr: im
+    en: with
     nk: עִם
+    distinct: with in the fullest sense, two equal and cooperative parties (the Vilna Gaon, Malbim), or merely circumstantial, two who happen to be together (Pappenheim, Rabbi Mecklenburg)
 sources:
   - wiaw:8323 "Are You Really \"With Me\"?" (2019-07-13) https://articles.ohr.edu/articles/are-you-really-with-me
 authorities: [Ibn Janach, Radak, Rashi, the Vilna Gaon, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Nachman Marcuson, Zohar]
@@ -28,6 +35,13 @@ the opposite approach: *im* is circumstantial, they merely happened to be
 together, while *es* is the stronger, more deliberate and more equal "with." The
 two schools read the same pesukim in opposite ways (Lot's *itto* and *imo*),
 though on Bilam Rabbi Mecklenburg's reading mirrors the Gra's.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| את | es | with | unequal pair (Vilna Gaon, Malbim); deliberate, equal with (Pappenheim, Mecklenburg) |
+| עם | im | with | full partnership (Vilna Gaon, Malbim); mere circumstance (Pappenheim, Mecklenburg) |
 
 ## Distinctions
 

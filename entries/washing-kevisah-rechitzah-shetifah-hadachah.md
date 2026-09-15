@@ -5,6 +5,31 @@ roots: [כ-ב-ס, ר-ח-ץ, ש-ט-ף, ד-ו-ח, מ-ר-ק, ק-נ-ח]
 translit: [kevisah, kevissah, kibbus, vchibsu, rechitzah, rechitza, rachatz, shetifah, shtifah, shataf, shutaf, hadachah, hadacha, hediach, merikah, merika, marak, tamruk, tamrukim, kinuach, kinuah]
 english: [laundering, washing, bathing, sluicing, rinsing, scouring, wiping]
 domain: action
+words:
+  - he: כביסה
+    tr: kevisah
+    en: laundering
+    distinct: objects only, above all clothing, never a body; the water driven through and through, as against rechitzah on a surface (Pappenheim)
+  - he: רחיצה
+    tr: rechitzah
+    en: washing
+    distinct: washing a body, whole or in part, by immersion or pouring (Pappenheim); outside or inside, where shetifah is exterior only (Wertheimer); scrubbing off dirt in earnest (Bedersi); for filth, against hadachah for blood (Sefer HaShem)
+  - he: שטיפה
+    tr: shetifah
+    en: sluicing
+    distinct: holding a thing under running water so the current cleans it, always bringing the item to the water (Pappenheim); much water, exterior (Wertheimer); the stronger washing (Radak); making the clean look cleaner (Bedersi)
+  - he: הדחה
+    tr: hadachah
+    en: rinsing
+    distinct: from ד-ח, pushing away what water can carry (Ibn Saruk, Pappenheim); exterior with a minimum of water (Wertheimer); a plain rinse (Bedersi); for blood, against rechitzah for filth (Sefer HaShem)
+  - he: מריקה
+    tr: merikah
+    en: scouring
+    distinct: the inside of a vessel, shetifah the outside (Rashi); purging clinging particles, a matter of degree (Rambam); not water-cleaning but buffing off rust, whence tamruk (Bedersi); a penetrating cleaning below the surface (Rav Hirsch)
+  - he: קינוח
+    tr: kinuach
+    en: wiping
+    distinct: Rabbinic only; cleaning by wiping off what soils, an expression of finality, what is wiped away gone for good (Rashi)
 sources:
   - wiaw:9544 "Laundering and Cleaning" (2022-01-22) https://articles.ohr.edu/articles/laundering-and-cleaning
 authorities: [Rashi, Rambam, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Menachem Ibn Saruk, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo HaKohen of Vilna, Netziv, Sefer HaShem, Pesikta Rabbasi]
@@ -29,6 +54,17 @@ Rambam read it within the washing of a vessel, inside against outside or a
 matter of thoroughness. *Kinuach*, Rabbinic only, is **wiping**. Vayikra 6:21 (*merikah*, *shetifah*)
 and Yeshayahu 4:4 (*rechitzah*, *hadachah*) each put two of them in a single
 verse.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כביסה | kevisah | laundering | objects, never a body; water driven right through the cloth (Pappenheim) |
+| רחיצה | rechitzah | washing | a body, by immersion or pouring (Pappenheim); for filth (*Sefer HaShem*) |
+| שטיפה | shetifah | sluicing | under running water (Pappenheim); much water (Wertheimer); the stronger washing (Radak) |
+| הדחה | hadachah | rinsing | little water on the exterior (Wertheimer); a plain rinse (Bedersi) |
+| מריקה | merikah | scouring | inside of a vessel (Rashi); buffing off rust, not water-cleaning (Bedersi) |
+| קינוח | kinuach | wiping | Rabbinic only; wiping away for good (Rashi) |
 
 ## Distinctions
 

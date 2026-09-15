@@ -6,6 +6,14 @@ translit: [rimah, rima, toleah, tolea, tola, tolaas, tolaat, tolaim, mitalot, me
 english: [maggot, worm, larva, teeth, throat]
 domain: nature
 words:
+  - he: רימה
+    tr: rimah
+    en: maggot
+    distinct: larvae, and internal decay (Rabbi Shaul Goldman); always first, the earlier, smaller stage (Netziv, the Vilna Gaon); larvae still in the egg (Rabbi Tedeschi-Ashkenazi); forming from within (Rav Hirsch); not yet moved from where generated (Malbim); creatures that do not eat (Midrash Sechel Tov)
+  - he: תולעה
+    tr: toleah
+    en: worm
+    distinct: the worm that eats, destruction from without (Rabbi Shaul Goldman); the later, larger worm (Netziv, the Vilna Gaon); one grown worm (Rabbi Tedeschi-Ashkenazi); coming from outside (Rav Hirsch); able to move about (Malbim); tied to loa, throat, as bolting its food (Pappenheim, Rav Hirsch)
   - he: מתלעות
     nk: מְתַלְּעוֹת
 sources:
@@ -33,6 +41,13 @@ against coming from outside (Rav Hirsch); not yet moved from where they were
 generated against able to crawl, or worms of rot against worms as such
 (Malbim); creatures that do not eat against creatures that eat as if with teeth
 (*Midrash Sechel Tov*).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| רימה | rimah | maggot | maggots, decay from within (Goldman); the earlier, smaller stage (Netziv, Vilna Gaon) |
+| תולעה | toleah | worm | the eating worm, destruction from outside (Goldman, Rav Hirsch); the later stage |
 
 ## Distinctions
 

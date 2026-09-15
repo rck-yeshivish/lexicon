@@ -6,10 +6,36 @@ translit: [ketivah, kesivah, ktov, kasav, katav, vayikatev, charut, charus, chei
 english: [write, engrave, inscribe, incise, hew, emboss, note down]
 domain: speech
 words:
+  - he: כתיבה
+    tr: ketivah
+    en: writing
+    distinct: the general, most common word, about 260 times in Tanach, used of the Luchos and of a Sefer Torah in ink on parchment; a worthy bearer of ideas that risks detaching part of the idea from the whole (Rav Hirsch)
   - he: חרות
+    tr: charut
+    en: graven
     nk: חָרוּת
+    distinct: writing pressed or cut deep into the material, said of the Luchos; from chor, a hole, cut clean through the stone (Pappenheim, Rabbi Moshe Zacuto; similarly Rav Hirsch), or kin to ח-ר-ט, the stylus (Rashi, Rashbam); read by Chazal as cheirus, freedom
+  - he: חרושה
+    tr: charushah
+    en: engraving
+    distinct: engraving on the tablet of the heart in Yirmiyahu; tied to plowing, digging into the surface (Ibn Saruk, Ibn Janach, Radak); plausibly one root with charut (Rabbi Klein); the plain word for engraving the Torah did not use (Rabbi Moshe Zacuto)
+  - he: חקוק
+    tr: chakuk
+    en: incising
+    distinct: digging small grooves with a metal stylus into wood or stone to form letters, the core of ח-ק, whence chok and mechokek (Pappenheim); engraving draws a border as governing draws a legal line (Rabbi Shaul Goldman)
   - he: פסל
+    tr: pasal
+    en: engraving, hewing
     nk: פָּסַל
+    distinct: technically engraving or hewing rather than writing, of Moshe carving the second Luchos; whence pesel, idol, and pasul, disqualified, from the discarded shavings; kin to peeling and onion, removing outer layers (Rav Hirsch)
+  - he: פיתוח
+    tr: pituach
+    en: embossing
+    distinct: "the opposite of engraving: the background cut or pressed down so the letters stand out, as on the ephod, choshen and tzitz; opening the background to reveal the letters (HaKsav VeHaKabbalah, Yerios Shlomo)"
+  - he: רשם
+    tr: resham
+    en: noting down
+    distinct: writing only the heads (rosh) of a matter, the main points of a discourse, notes rather than a full transcript (Pappenheim); mostly in Daniel's Aramaic, and Targum's word for charut
 sources:
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rav Hirsch, Rashi, Rashbam, Rabbi Moshe Zacuto, Rabbi Eliyahu HaBachur, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Ernest Klein, Rabbi Shaul Goldman, Rabbi Tzadok HaKohen of Lublin, Rabbi Shem Tov Gaguine, Rabbi Yitzchak Ginsburgh, Rabbi Yehuda HaLevi, Rabbi Meshullam bar Kalonymus]
@@ -36,6 +62,18 @@ the letters stand out (*Gittin* 20a). Aramaic *galif*, Targum's word for
 barber, and Rabbi Ernest Klein derives from Greek *glyphein*. *Resham* is
 **noting down**, for Pappenheim the writing of only the heads (*rosh*) of a
 matter.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כתיבה | ketivah | writing | the general word, ink or stone; risks detaching part of an idea (Rav Hirsch) |
+| חרות | charut | graven | cut through the stone (Pappenheim, Zacuto); the stylus's work (Rashi, Rashbam) |
+| חרושה | charushah | engraving | engraving as plowing into the surface (Ibn Saruk); plain engraving (Zacuto) |
+| חקוק | chakuk | incising | small grooves cut with a stylus; hence *chok*, a statute (Pappenheim) |
+| פסל | pasal | engraving, hewing | hewing, not writing; removing outer layers (Rav Hirsch); hence *pesel* |
+| פיתוח | pituach | embossing | embossing: the background cut away so the letters stand out |
+| רשם | resham | noting down | notes of the main points only, from *rosh* (Pappenheim) |
 
 ## Distinctions
 

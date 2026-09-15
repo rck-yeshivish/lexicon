@@ -6,8 +6,19 @@ translit: [midbar, midbor, aravah, arava, aravot, arvos, arvot, tziyah, tziya, t
 english: [wilderness, desert, plain, arid waste, parched land]
 domain: nature
 words:
+  - he: מדבר
+    tr: midbar
+    en: wilderness
+    distinct: land inherently unfit for settlement or cultivation and so empty of people (Malbim); the far pasture where shepherds lead a flock (Radak); emptied as by plague (Pappenheim); free of distraction for hearing speech (Rabbi Abrahams); the same as tziyah, but milder (the Vilna Gaon)
   - he: ערבה
+    tr: aravah
+    en: desert plain
     nk: עֲרָבָה
+    distinct: a plain overrun with thorns and wild growth, not as dry as a tziyah, its opposite a garden (Malbim); a depressed valley, dark like a jungle (Rabbeinu Meyuchas ben Eliyahu); a plain blurring mountain and valley (Rabbi Abrahams)
+  - he: ציה
+    tr: tziyah
+    en: parched land
+    distinct: made dry by prolonged heat, the opposite of springs and pools (Malbim); land whose liquid and inhabitants have gone out (Pappenheim); the same as midbar but a more intense desolation (the Vilna Gaon)
 sources:
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
 authorities: [Radak, Yonah Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Malbim, the Vilna Gaon, Metzudas David, Rav Hirsch, Rabbeinu Meyuchas ben Eliyahu, Rabbi Tzvi Matisyahu Abrahams, Shoresh Yesha, Yair Ohr, Wycliffe Bible, Tyndale Bible, King James Version]
@@ -28,6 +39,14 @@ plain** overrun with thorns and wild growth, not bone-dry; *tziyah* is a
 are desolate from an outside cause (heat; weeds), *midbar* by its own nature. Early English Bibles themselves split on
 *midbar*, "desert" (Wycliffe) against "wilderness" (Tyndale, KJV), and Rabbi
 Klein takes no side.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מדבר | midbar | wilderness | inherently unfit for settlement, so empty of people (Malbim) |
+| ערבה | aravah | desert plain | thorns and weeds, not bone-dry (Malbim); a plain between heights and valleys (Abrahams) |
+| ציה | tziyah | parched land | dried out by heat (Malbim); the more intense desolation (the Vilna Gaon) |
 
 ## Distinctions
 

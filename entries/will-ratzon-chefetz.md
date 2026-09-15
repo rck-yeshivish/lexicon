@@ -6,12 +6,21 @@ translit: [ratzon, ratson, razon, rotzeh, rotze, retzono, retzoncha, retzon Hash
 english: [will, want, desire, yearning]
 domain: emotion
 words:
-  - he: חפץ
-    nk: חֵפֶץ
-  - he: צבי
-    nk: צְבִי
   - he: רצון
+    tr: ratzon
+    en: will
     nk: רָצוֹן
+    distinct: the milder, simple want (Pappenheim); the mind's chosen wanting, and so aimed at the good (Malbim); the innate desire to do good (Rabbi Margolios); means as well as ends (Rabbi Edel); tied to ratz, running (Rabbi Aharon Marcus)
+  - he: חפץ
+    tr: chefetz
+    en: desire
+    nk: חֵפֶץ
+    distinct: the stronger want (Pappenheim), more concrete (Rabbi Tzvi Yehuda Kook), the animal drive (Rabbi Margolios); the soul's unchosen pull, which can fasten on the bad (Malbim), though a chosen want, since Hashem is chafetz (Bedersi); the final goal only (Rabbi Edel); food-related (the Vilna Gaon)
+  - he: צבי
+    tr: tzvi
+    en: yearning
+    nk: צְבִי
+    distinct: "from צ-ב, standing: the desirable thing stands constantly before one, a continuous, perhaps obsessive, yearning over time as against a fleeting want (Pappenheim); in Aramaic nearly synonymous with ratzon"
 sources:
   - wiaw:8573 "Running on Willpower" (2020-01-25) https://articles.ohr.edu/articles/running-on-willpower
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Tzvi Yehuda Kook, Rabbi Aharon Yehuda Leib Margolios, Malbim, Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Leib Edel, Vilna Gaon, Targum Onkelos]
@@ -33,6 +42,14 @@ is bad; Rabbi Avraham Bedersi disputes that *chefetz* is ever unchosen, since
 Hashem is called *chafetz*. Rabbi Yehuda Leib Edel offers a totally different
 axis: *ratzon* can name means as well as ends, *chefetz* only the final goal.
 *Tzvi* in the sense of wanting is **yearning**, a wanting that persists (Rabbi Pappenheim).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| רצון | ratzon | will | the mind's chosen, good wanting (Malbim); can name means, not only ends (Edel) |
+| חפץ | chefetz | desire | the stronger, bodily pull (Pappenheim, Margolios); the final goal (Edel) |
+| צבי | tzvi | yearning | a lasting, even obsessive yearning, not a fleeting want (Pappenheim) |
 
 ## Distinctions
 

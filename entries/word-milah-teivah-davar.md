@@ -6,12 +6,21 @@ translit: [milah, mila, milin, millel, milel, yimallel, timallel, millelu, teiva
 english: [word, spoken word, written word, thing, utterance]
 domain: speech
 words:
-  - he: דבר
-    nk: דָּבָר
   - he: מילה
+    tr: milah
+    en: spoken word
     nk: מִילָּה
+    distinct: the biblical term; the spoken word (Rabbi Eliyahu HaBachur), or written or spoken (Rabbi Yosef Teomim); from מ-ל-ל, speech (Rabbi Shlomo Zalman of Hanau), or from מ-ל, edge, a unit cut off from the sentence (Pappenheim)
   - he: תיבה
+    tr: teivah
+    en: written word
     nk: תֵּיבָה
+    distinct: in this sense only in later rabbinic writing, a grammarians' term (Pappenheim); the written word (HaBachur, Rabbi Yosef Teomim), as in roshei teivos; in Tanach an ark or box, a word being a box that holds its letters
+  - he: דבר
+    tr: davar
+    en: word, thing
+    nk: דָּבָר
+    distinct: both word and thing, the double sense alluding to Hashem creating the world by Divine words (Rabbi Moshe Shapiro); all things are Divine words crystallized (Rabbi Akiva Tatz)
 sources:
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Yosef Teomim, Rabbi Shlomo Zalman of Hanau, Rokeach, Rabbeinu Efrayim, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Janach, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shimon Yehuda Leib Goldblit, Alexander Kohut, Rabbi Moshe Shapiro, Rabbi Akiva Tatz, Rabbi Matityahu Glazerson, Faigy Peritzman]
@@ -30,6 +39,14 @@ teivos*. Rabbi Yosef Teomim differs slightly: *milah* can be written or spoken,
 *teivah* only written. Rabbi Pappenheim, from מ-ל, "edge," makes *milah* the
 word cut off as a unit from the sentence. *Davar* is a **word** that is also a
 **thing**, and for Rabbi Moshe Shapiro that double sense is the point.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מילה | milah | spoken word | biblical; spoken (HaBachur); a unit cut off from the sentence (Pappenheim) |
+| תיבה | teivah | written word | later rabbinic; the written word (HaBachur, Teomim); a box for letters |
+| דבר | davar | word, thing | both word and thing: the world made of Divine words (Rabbi Moshe Shapiro) |
 
 ## Distinctions
 

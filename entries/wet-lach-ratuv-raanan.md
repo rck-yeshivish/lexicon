@@ -5,6 +5,31 @@ roots: [ל-ח, ר-ט-ב, ר-ע-נ, ר-ט-פ-ש, ט-פ-ח, פ-ל-מ]
 translit: [lach, leicho, lachim, ratuv, ratov, yirtavu, rotev, roteiv, raanan, ra'anan, rutfash, tofeach, tofei'ach, mefulam, mefulamot, mefulamos, marak, lechi, luach, lechem, melach]
 english: [moist, wet, soaked, fresh, sodden, damp]
 domain: nature
+words:
+  - he: לח
+    tr: lach
+    en: moist
+    distinct: a little wet, not enough to wet what touches it, the inner moisture of every living thing (Pappenheim); equated with ratuv (Rashi, Ibn Ezra, Radak), and perhaps the native Hebrew against borrowed Aramaic (Rabbi Klein)
+  - he: רטוב
+    tr: ratuv
+    en: wet
+    distinct: very wet, visible on the surface and enough to wet what touches it, moisture from outside (Pappenheim); external water (Bedersi); simply lach (Rashi, Ibn Ezra, Radak), perhaps its Aramaic counterpart (Rabbi Klein)
+  - he: רענן
+    tr: ra'anan
+    en: fresh, verdant
+    distinct: the internal moist freshness that keeps a thing growing rather than withering (Bedersi); the same as ratuv (Ibn Ezra); re'ah anan, a plant grown tall enough to befriend the clouds (Rabbi Tedeschi)
+  - he: רטפש
+    tr: rutfash
+    en: revivified
+    distinct: a hapax in Iyov, flesh restored beyond youth; related to ratuv by a paragogic shin (Rav Hirsch), as ratuv plus pash (Rabbi Yosef Kara, Sforno and others), ratuv plus tafash (Malbim), or at-bash (Rabbi Yosef Kimchi, Radak)
+  - he: טופח
+    tr: tofeach
+    en: wet
+    distinct: Rabbinic only; wet enough to make other things wet, as in tofeach al menas lehatfiach; from the root of tefach, perhaps because a dripping item expands (Rabbi Klein)
+  - he: מפולם
+    tr: mefulam
+    en: wet, plump
+    distinct: a Bavli word of fish and stones; wet (Rashi) against hearty, plump, or fat (the Aruch, Jastrow); Rabbi Klein suggests Rashi means sodden, so saturated as to be bloated; mysterious, from palmoni (Ralbag)
 sources:
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Parchon, Rabbi Moshe Tedeschi-Ashkenazi, Rashi, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rav Hirsch, Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno, Metzudas Zion, Malbim, Rabbi Nosson of Rome, Marcus Jastrow, Alexander Kohut, Ralbag, Rema, Ben Yehoyada, Rabbi Chaim Kanievsky]
@@ -29,6 +54,17 @@ in the phrase for wet enough to make something else wet; *mefulam* is **wet**
 for Rashi but **hearty, plump** for the *Aruch*, and Rabbi Klein suggests Rashi
 may mean **sodden**, so saturated as to be bloated. Pappenheim's difference between a little
 moisture and enough to wet something else can carry halachic weight.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| לח | lach | moist | slightly wet; the inner moisture of living things (Pappenheim) |
+| רטוב | ratuv | wet | wet enough to wet what touches it; moisture from outside (Pappenheim, Bedersi) |
+| רענן | ra'anan | fresh, verdant | inner freshness that keeps a thing growing (Bedersi) |
+| רטפש | rutfash | revivified | flesh restored to youthful moisture; a form of *ratuv* (Rav Hirsch, Malbim) |
+| טופח | tofeach | wet | Rabbinic; wet enough to wet something else |
+| מפולם | mefulam | wet, plump | disputed: wet (Rashi) against plump (the *Aruch*); perhaps sodden (Rabbi Klein) |
 
 ## Distinctions
 

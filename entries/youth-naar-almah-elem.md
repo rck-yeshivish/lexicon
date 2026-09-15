@@ -6,8 +6,23 @@ translit: [naar, na'ar, naarah, na'arah, nearim, elem, almah, alma, alamos, alim
 english: [youth, lad, young man, young woman, maiden, attendant]
 domain: society
 words:
+  - he: נער
+    tr: naar
+    en: youth, lad
+    distinct: the wide word, used far outside any age bracket, so perhaps not an age at all (Rabbi Klein); a boy of thirteen, others by resemblance or as an attendant (Mizrachi, Radak); the tenacious drive to shake off obstacles (Rabbi Analak); tied to revealing (Rabbi Klein)
+  - he: נערה
+    tr: naarah
+    en: young woman
+    distinct: halachically a girl from twelve until six months past maturity; the same as almah (Chizkuni, Ibn Janach, Radak), or older (Ibn Ezra), more outgoing (Peirush HaRokeach), or naming physical age where almah speaks to intelligence (Rabbeinu Efrayim)
   - he: עלם
+    tr: elem
+    en: young man
     nk: עֶלֶם
+    distinct: "tied to ne'elam, hidden: potential still undeveloped (Rav Hirsch); one who hides his words, a sign of wisdom (Rabbeinu Efrayim); sheer strength (Rabbi Analak); physical maturity against naar's intellectual and spiritual (Mecklenburg, summarizing Pappenheim)"
+  - he: עלמה
+    tr: almah
+    en: maiden
+    distinct: hidden, from ne'elam; younger than a naarah (Ibn Ezra), less outgoing and sheltered (Peirush HaRokeach), or wise, hiding her words (Rabbeinu Efrayim); simply the Aramaic for naarah (Chizkuni), the same meaning (Ibn Janach, Radak)
 sources:
   - wiaw:8922 "Chayei Sarah: Boys and Girls (Part 1)" (2020-11-14) https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1
   - wiaw:8933 "Toldot: Boys and Girls (Part 2)" (2020-11-21) https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2
@@ -34,6 +49,15 @@ Against *naarah*, Ibn Ezra makes *almah* younger, *Peirush HaRokeach* less
 outgoing, and Rabbeinu Efrayim wiser, one who hides his words; Rabbi Analak
 makes *elem* sheer strength; *Chizkuni* finds no difference of meaning, only
 Hebrew against Aramaic. Tanach uses *naar* far outside any age bracket.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נער | naar | youth, lad | wide, not tied to an age (Rabbi Klein); also an attendant (Mizrachi, Radak) |
+| נערה | naarah | young woman | a halachic age stage; same as *almah* (Chizkuni) or older (Ibn Ezra) |
+| עלם | elem | young man | hidden, potential undeveloped (Rav Hirsch); sheer strength (Rabbi Analak) |
+| עלמה | almah | maiden | younger (Ibn Ezra), sheltered (*Peirush HaRokeach*), or wise (Rabbeinu Efrayim) |
 
 ## Distinctions
 

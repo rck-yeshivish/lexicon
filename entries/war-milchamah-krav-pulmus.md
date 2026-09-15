@@ -5,6 +5,27 @@ roots: [ל-ח-ם, ח-ם, ק-ר-ב]
 translit: [milchamah, milchama, lochem, locheim, krav, kerav, pulmus, pulmos, batrunya, tarunya, tironya, kenigia, kenigi, kinigia]
 english: [war, battle, combat, campaign, tyranny, hunt]
 domain: action
+words:
+  - he: מלחמה
+    tr: milchamah
+    en: war
+    distinct: the common Biblical word for war, over three hundred times in Tanach; its root, shared with lechem, read as the sword eating the slain (Radak), struggle for survival (Rav Hirsch), heat, from ח-ם (Pappenheim), or coming together (TDOT)
+  - he: קרב
+    tr: krav
+    en: war, battle, combat
+    distinct: "from ק-ר-ב, also approaching and innards, three senses to the lexicographers (Ibn Saruk, Ibn Janach, Radak) but blurrier for Rabbi Klein: attackers approach, defenders guard what lies within; in yom krav and klei krav"
+  - he: פולמוס
+    tr: pulmus
+    en: war, battle
+    distinct: Mishnaic, a loanword from Greek polemos, war, three times in one Mishnah for the wars of Vespasian and Titus; in Modern Hebrew often a controversy rather than a war
+  - he: טרוניא
+    tr: b'tarunya
+    en: tyranny
+    distinct: in Avodah Zarah 3a, Hashem does not come b'tarunya with His creations; tyranny, from Greek tyronia (Rabbi Binyamin Mussafia), where Rabbi Klein once read batrunya, battle; Rome's tironya is tyranny (Matnos Kehunah) or a military tax (Rabbi Natan of Rome, Kohut)
+  - he: קניגיא
+    tr: kenigia
+    en: war, hunting
+    distinct: a Bavli hapax, Gavriel's kenigia with the Leviasan; war (Rabbeinu Gershom, Rashba) against hunting (Rashbam), which the Greek kynigia, hunting, supports
 sources:
   - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Theological Dictionary of the Old Testament, Netziv, Rabbi Yehudah Aryeh of Carpentras, Rabbi Binyamin Mussafia, Matnos Kehunah, Rabbi Natan of Rome, Dr. Alexander Kohut, Rabbeinu Gershom, Rashba, Rashbam, Rashi, Rabbi Shaul Goodman]
@@ -23,6 +44,16 @@ Tanach, with the verb *lochem*, **to wage war** (also around three hundred).
 *milchamah* (bread and war from ל-ח-ם, or from ח-ם, heat, or "coming
 together"), over *b'tarunya* (battle, or Greek tyranny), and over *kenigia*
 (war, or hunting, which the Greek *kynigia* supports).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מלחמה | milchamah | war | the common Biblical word; root read as struggle (Rav Hirsch) or heat (Pappenheim) |
+| קרב | krav | war, battle, combat | the approaching root: attackers draw near, defenders guard within; *yom krav*, *klei krav* |
+| פולמוס | pulmus | war, battle | Mishnaic, from Greek *polemos*; the wars of Vespasian and Titus |
+| טרוניא | b'tarunya | tyranny | Greek tyranny (Mussafia), not battle as Rabbi Klein once read it |
+| קניגיא | kenigia | war, hunting | disputed: war (Rabbeinu Gershom, Rashba) against hunting (Rashbam), as the Greek means |
 
 ## Distinctions
 

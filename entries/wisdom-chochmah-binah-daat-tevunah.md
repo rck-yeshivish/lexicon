@@ -5,6 +5,23 @@ roots: [ח-כ-ם, ב-י-ן, י-ד-ע]
 translit: [chochmah, chochma, chachmah, chokhmah, binah, bina, tevunah, tevuna, daat, daas, da'at, da'as, chacham, chochom, navon, meivin, yodea, ChaBaD, chabad]
 english: [wisdom, understanding, insight, knowledge, discernment]
 domain: cognition
+words:
+  - he: חכמה
+    tr: chochmah
+    en: wisdom
+    distinct: what one hears and learns from others (Rashi, Radak); mastery of any body of knowledge, in Tanach above all the sage's Torah (Bedersi); the unhurried learner who waits (Pappenheim); practical wisdom, truly only by revelation (Malbim); the lowest of the three
+  - he: בינה
+    tr: binah
+    en: understanding
+    distinct: understanding one matter from within another; telling one datum from another, from bein (Bedersi); building on an idea, from ב-נ (Pappenheim); the abstract counterpart of chochmah (Malbim); the big picture against tevunah's parts (Pappenheim); the Oral Torah (the Vilna Gaon)
+  - he: תבונה
+    tr: tevunah
+    en: understanding
+    distinct: used almost interchangeably with binah by most; breaking the big picture into its parts (Pappenheim); the reflection that qualifies chochmah or binah (the Vilna Gaon), or understanding thorough enough to explain to others (Chemdah Genuzah)
+  - he: דעת
+    tr: daat
+    en: knowledge
+    distinct: grasping the reason behind a lesson (Rashi, Bartenura); ruach hakodesh or reconciliation (Rashi), united as connection (Rabbi Burnstein); intellect joined to emotion (Rabbi Friedlander); new ideas thought independently (Rabbeinu Yonah); certainty (Malbim); the synthesis (Ramchal); above binah (some sources, see Maharsha) or below it (Maharal)
 sources:
   - wiaw:8959 "To Be a Wise Guy (Part 1 of 2)" (2020-12-12) https://articles.ohr.edu/articles/to-be-a-wise-guy-part-1-of-2
   - wiaw:8969 "Miketz: To Be a Wise Guy (Part 2 of 2)" (2020-12-19) https://articles.ohr.edu/articles/miketz-to-be-a-wise-guy-part-2-of-2
@@ -32,6 +49,15 @@ what *binah* concludes (Malbim); and, for the kabbalists and Ramchal, the
 synthesis of the other two. Everyone agrees that *chochmah* is the *lowest* of
 the three (Shemos Rabbah 41:3; Rashi to Shabbos 31a); whether *binah* or *daat*
 ranks higher is disputed (the Maharal against some sources, see Maharsha).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חכמה | chochmah | wisdom | learned from others (Rashi); practical wisdom (Malbim); lowest of the three |
+| בינה | binah | understanding | derives one matter from another; builds on what one holds (Pappenheim) |
+| תבונה | tevunah | understanding | almost *binah*; the parts (Pappenheim) or what one can explain (Vilna Gaon) |
+| דעת | daat | knowledge | connection (Burnstein); certainty (Malbim); the synthesis of the other two (Ramchal) |
 
 ## Distinctions
 

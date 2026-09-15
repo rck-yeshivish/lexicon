@@ -7,7 +7,18 @@ english: [work, labor, service, toil]
 domain: action
 words:
   - he: מלאכה
+    tr: melachah
+    en: work
     nk: מְלָאכָה
+    distinct: true synonyms (Abarbanel), or avodah a subset (Ramban); improving an object (Reggio); work defined by its product (Rabbi Steinman); creative even in thought (Wessely); the idea carried into reality, as by a malach (Rav Hirsch); one's free thought realized (Rabbi Tzvi Yehuda Kook); the lighter task (Satmar Rav, Tosafists)
+  - he: עבודה
+    tr: avodah
+    en: labor, service
+    distinct: the worker's own toil regardless of result (Rav Hirsch, Rabbi Steinman); labor for a master (Alshich); hard labor (Malbim, Wertheimer); work one is obligated to do (Pappenheim); work that controls the person (Rabbi Tzvi Yehuda Kook); turned toward Heaven, the service of Hashem
+  - he: שירות
+    tr: sheirus
+    en: service
+    distinct: easier service with light duties, as of the meshares, the domestic helper, against the hard labor of avodah (Malbim, Wertheimer)
 sources:
   - wiaw:8654 "Laborious Work and Angelic Creativity" (2020-03-21) https://articles.ohr.edu/articles/laborious-work-and-angelic-creativity
   - wiaw:7512 "Angels and Agents" (2017-12-02) https://articles.ohr.edu/articles/angels-and-agents
@@ -34,6 +45,14 @@ the lighter task (the Satmar Rav; the Tosafists on Kehas). *Avodah* is then
 obligatory (Rav Hirsch, Alshich, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi
 Shlomo Pappenheim), and, turned toward Heaven, the **service** of Hashem.
 *Sheirus* is light **service**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מלאכה | melachah | work | the product, the idea carried out as by a *malach* (Rav Hirsch); creative work |
+| עבודה | avodah | labor, service | the toil itself (Rav Hirsch); hard or obligatory labor (Malbim, Pappenheim) |
+| שירות | sheirus | service | light service, the domestic helper's (Malbim, Wertheimer) |
 
 ## Distinctions
 

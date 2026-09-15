@@ -6,6 +6,14 @@ translit: [terumah, teruma, terumos, terumot, torem, tenufah, tenufa, tenufos, l
 english: [waving, elevation, lifting, raising, separation, donation, tithe]
 domain: ritual
 words:
+  - he: תנופה
+    tr: tenufah
+    en: waving
+    distinct: back and forth on the horizontal (Rashi, and it seems Ibn Ezra); the broader term covering either axis (Pappenheim); itself both motions (Rabbeinu Avraham ben HaRambam); up and down like terumah (Onkelos, per Rabbi Yaakov Zev Lev); a synonym (Bechor Shor)
+  - he: תרומה
+    tr: terumah
+    en: raising, separated portion
+    distinct: raising and lowering on the vertical (Rashi), the up-and-down alone (Pappenheim); a synonym of tenufah (Bechor Shor); outside the korban, separation, not lifting (Rashi), and as the tithe parsed trei mi'meah, two per hundred (Zohar, Rambam, Sefer HaChinuch)
   - he: אנף
     nk: אָנַף
 sources:
@@ -29,6 +37,13 @@ for elegance; and Targum Onkelos, as Rabbi Yaakov Zev Lev reads him, makes
 **separated portion**: of the Mishkan donation Rashi (to Shemos 25:2) renders it
 "separation," not "lifting," and as the Kohen's tithe the word is parsed *trei
 mi'meah*, two per hundred.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תנופה | tenufah | waving | horizontal waving (Rashi); either axis (Pappenheim); vertical like *terumah* (Onkelos) |
+| תרומה | terumah | raising, separated portion | vertical raising (Rashi, Pappenheim); outside the korban, a separated portion, *trei mi'meah* |
 
 ## Distinctions
 
