@@ -453,7 +453,7 @@ def entry_page(e):
         f'<span id="{html.escape(strip_heb(h))}"></span>' for h in e["hebrew"])
     # "other" is the catch-all domain and tells a reader nothing, so it gets no label.
     title = e["cluster"]
-    eyebrow = "" if e["domain"] == "other" else f'<p class="eyebrow">{html.escape(e["domain"])}</p>\n'
+    eyebrow = '<p class="eyebrow">method</p>\n' if e["slug"] == METHOD else "" if e["domain"] == "other" else f'<p class="eyebrow">{html.escape(e["domain"])}</p>\n'
     parts = [f'''<article class="entry">
 {anchors}
 {eyebrow}<h1>{html.escape(title)}</h1>''']
@@ -467,7 +467,14 @@ def entry_page(e):
     if e["slug"] == METHOD:
         # The method essay's words are three example pairs from different
         # groups; laid out as a header they read as one group of synonyms.
-        parts[0] += '\n<p class="method-sub">How Hebrew synonyms differ, shown on three example pairs</p>'
+        parts[0] += (
+            '\n<div class="method-note"><p><strong>This page works differently.</strong> It is not a '
+            'group of synonyms but Rabbi Klein’s introduction to the whole series: why Hebrew has '
+            'near-synonyms at all, and the ways they turn out to differ. The three pairs below are '
+            'only his examples, and each is covered on its own page: '
+            '<a href="speech-dibbur-amirah.html">Speech</a> (<em>vayomer</em>, <em>vayidaber</em>), '
+            '<a href="king-melech-moshel.html">King</a> (<em>melucha</em>, <em>moshel</em>), and '
+            '<a href="coming-biah-halichah-atah.html">Coming</a> (<em>ba</em>, <em>atah</em>).</p></div>')
     elif not has_cards:
         parts[0] += f'\n<p class="heb-title">{heb}</p>'
     # Each word's own distinction reads before the disputes about them.
@@ -632,7 +639,8 @@ def main():
     try_pool = json.dumps({k: [[v, s] for s, v in d.items()] for k, d in pool.items()},
                           ensure_ascii=False, separators=(",", ":"))
 
-    n_words, n_entries = len(words), len(entries)
+    # The method essay is a page, not a group of synonyms.
+    n_words, n_entries = len(words), sum(1 for e in entries if e["slug"] != METHOD)
     home = f'''<section class="hero">
   <div class="banner">
     <h1 class="wm">What&rsquo;s in a Word?</h1>
@@ -1054,7 +1062,9 @@ header.bare .brand{flex:1}
 .bottomline h2{border:0;padding:0}
 .bottomline p{font-size:18px}
 .inshort p{color:var(--ink)}
-.method-sub{color:var(--dim);font-size:19px;margin:0 0 30px}
+.method-note{background:var(--accent-soft);border-left:3px solid var(--accent);border-radius:0 var(--radius) var(--radius) 0;
+  padding:14px 18px;margin:14px 0 32px}
+.method-note p{margin:0;font-size:16px;line-height:1.55}
 /* Hebrew inside English text (a gloss in a sentence, the Also-discussed roots,
    the Hebrew "Try" chip) takes the Hebrew face too, a touch larger, since a
    serif Hebrew set at the sans size reads small beside it. */
@@ -1241,7 +1251,10 @@ function wire(){
     const group = w => SIBS()[w.s] || [];
     const heb = x => `<span dir="rtl" lang="he">${esc(x.n || x.h)}</span>`;
     const oneGroup = list.every(w => w.s === list[0].s);
-    const cap = oneGroup
+    // The introduction essay's examples are not a group of synonyms.
+    const cap = oneGroup && list[0].s === "synonyms-davar-vayomer-vayidaber"
+      ? "An example from Rabbi Klein's introduction to Hebrew synonyms"
+      : oneGroup
       ? `${group(list[0]).length} words in the ${esc(ent(list[0]).c)} group, each with its own shade`
       : "Each word has near-synonyms. Open one to see how they differ";
     ac.innerHTML = `<div class="ac-cap">${cap}</div>` + list.map((w,i) => {
