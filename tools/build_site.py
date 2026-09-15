@@ -455,6 +455,7 @@ def glance_cards(mdtext):
 PESUKIM = {"meta": {}, "verses": {}}
 TALMUD = {"meta": {}, "passages": {}}
 TALMUD_COMMS = {}   # daf -> the commentaries on it held in TALMUD
+HERO_POOL = []      # short pesukim with two of an entry's words, for the home page
 STOP = set()
 STOP_AT = 12
 
@@ -731,6 +732,13 @@ def entry_page(e):
     nav = (f'<nav class="toc" aria-label="On this page"><p class="toc-h">On this page</p>'
            f'<ul>{"".join(links)}</ul></nav>')
     rail = cites.rail()
+    # Short pesukim holding two of this entry's words go into the pool the home
+    # page draws its watermark from.
+    for k, c in cites.cards.items():
+        if (c and not c.get("u") and len(c["t"]) >= 2 and 4 <= len(c["w"]) <= 9
+                and re.fullmatch(r"[A-Za-z ]+\.\d+\.\d+", k) and not k.startswith(("Mishnah", "Pirkei"))):
+            HERO_POOL.append({"v": " ".join(w for w, _ in c["w"]).replace("־ ", "־"),
+                              "l": c["l"], "s": e["slug"], "t": c["t"]})
     page = (f'<div class="entry-layout{" has-rail" if rail else ""}">{nav}\n'
             + "\n".join(parts) + rail + "</div>")
     return shell(f'{title} — What’s in a Word?', page, depth=1, active="")
@@ -824,8 +832,18 @@ def main():
 
     # The method essay is a page, not a group of synonyms.
     n_words, n_entries = len(words), sum(1 for e in entries if e["slug"] != METHOD)
+    # The watermark: a short pasuk that holds two words of one group, faint
+    # behind the title, a different one each visit (Yeshayahu 45:16 without JS).
+    hero_first = next((h for h in HERO_POOL if h["l"] == "Yeshayahu 45:16"), HERO_POOL[0] if HERO_POOL else None)
+    hero_pool = json.dumps(HERO_POOL, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    wmk = (f'<div class="wmk" aria-hidden="true" dir="rtl" lang="he">{html.escape(hero_first["v"])}</div>'
+           if hero_first else "")
+    wmk_cap = (f'<p class="wmk-cap">Behind the title: <a href="entries/{hero_first["s"]}.html">{html.escape(hero_first["l"])}</a>, '
+               f'where <bdi lang="he">{html.escape(hero_first["t"][0])}</bdi> and <bdi lang="he">{html.escape(hero_first["t"][1])}</bdi> stand together</p>'
+               if hero_first else "")
     home = f'''<section class="hero">
   <div class="banner">
+    {wmk}
     <h1 class="wm">What&rsquo;s in a Word?</h1>
     <p class="wm-sub">Synonyms in the Hebrew Language</p>
     <hr class="wm-rule">
@@ -841,6 +859,8 @@ def main():
     <button class="chip" data-q="chochmah">chochmah</button>
     <button class="chip" data-q="humiliation">humiliation</button></p>
   <script type="application/json" id="try-pool">{try_pool}</script>
+  {wmk_cap}
+  <script type="application/json" id="hero-pool">{hero_pool}</script>
 </section>
 <section class="split">
   <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">א&#1523; ועד ת&#1523;</p></a>
@@ -992,7 +1012,8 @@ header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap
   padding:11px 22px;background:color-mix(in srgb,var(--bg) 82%,transparent);
   backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);
   border-bottom:1px solid var(--line)}
-.brand{font-weight:800;letter-spacing:-.015em;color:var(--brand);font-size:17px;flex:0 0 auto;
+/* The same serif wordmark as the home page. */
+.brand{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:19px;flex:0 0 auto;
   white-space:nowrap}
 .brand:hover{text-decoration:none;opacity:.75}
 .hsearch{flex:1 1 auto;position:relative;max-width:520px;margin:0 auto}
@@ -1025,7 +1046,7 @@ header.bare .brand{flex:1}
    320px screen takes a third row, and even there nothing scrolls sideways. */
 @media (max-width:700px){
   header.site{flex-wrap:wrap;gap:8px 10px;padding:8px 12px}
-  .brand{font-size:15px}
+  .brand{font-size:17px}
   .navs{gap:8px;margin-left:auto}
   .meth{font-size:13px;padding:6px 0}
   .seg a{padding:4px 9px;font-size:13px}
@@ -1034,7 +1055,7 @@ header.bare .brand{flex:1}
 }
 @media (max-width:400px){
   header.site{gap:8px}
-  .brand{font-size:14px;letter-spacing:-.02em}
+  .brand{font-size:16px}
   .navs{gap:6px}
   .meth{font-size:12.5px}
   .seg a{padding:4px 8px;font-size:12.5px}
@@ -1050,6 +1071,15 @@ header.bare .brand{flex:1}
   letter-spacing:-.01em;margin:0 0 12px}
 .wm-sub{color:var(--dim);font-size:13px;font-weight:600;margin:0;letter-spacing:.18em;text-transform:uppercase}
 .wm-rule{width:48px;height:1px;background:var(--line);margin:22px auto 0;border:0}
+.banner{position:relative}
+.banner > :not(.wmk){position:relative;z-index:1}
+.wmk{position:absolute;left:50%;top:50%;transform:translate(-50%,-52%);width:min(860px,calc(100vw - 32px));
+  font-family:var(--heb);font-size:66px;line-height:1.12;color:var(--ink);opacity:.06;
+  text-align:center;pointer-events:none;user-select:none;z-index:0}
+.wmk-cap{margin:22px 0 0;font-size:12.5px;color:var(--faint)}
+.wmk-cap a{color:var(--dim)}
+.wmk-cap bdi{font-family:var(--heb);font-size:14px}
+@media (max-width:640px){.wmk{font-size:36px}}
 @media (max-width:640px){.hero .wm{font-size:38px}.wm-sub{font-size:11.5px;letter-spacing:.14em}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
 .lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
@@ -1470,7 +1500,13 @@ function wire(){
     // every result now says what the site is for, that the word has
     // near-synonyms and differs from them: the top match as a card with the
     // start of its distinction and a button, the rest as comparisons.
-    const group = w => SIBS()[w.s] || [];
+    // The group's words as its page shows them: the words with a card (a line
+    // of their own), not every spelling and related form the entry lists for
+    // search. An entry with no cards falls back to all its words.
+    const group = w => {
+      const all = SIBS()[w.s] || [], carded = all.filter(x => x.d);
+      return carded.length ? carded : all;
+    };
     const heb = x => `<span dir="rtl" lang="he">${esc(x.n || x.h)}</span>`;
     const oneGroup = list.every(w => w.s === list[0].s);
     // The introduction essay's examples are not a group of synonyms.
@@ -1760,7 +1796,20 @@ function wirePesukim(){
   onScroll();
 }
 
+// Home: a different watermark pasuk each visit.
+function wireHero(){
+  const data = document.getElementById("hero-pool"), w = document.querySelector(".wmk"), cap = document.querySelector(".wmk-cap");
+  if(!data || !w || !cap) return;
+  const pool = JSON.parse(data.textContent);
+  if(!pool.length) return;
+  const h = pool[Math.floor(Math.random() * pool.length)];
+  const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
+  w.textContent = h.v;
+  cap.innerHTML = `Behind the title: <a href="entries/${esc(h.s)}.html">${esc(h.l)}</a>, where <bdi lang="he">${esc(h.t[0])}</bdi> and <bdi lang="he">${esc(h.t[1])}</bdi> stand together`;
+}
+
 document.addEventListener("DOMContentLoaded", () => {
+  wireHero();
   wire();
   wireTabs();
   wireToc();
