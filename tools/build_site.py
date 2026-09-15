@@ -440,6 +440,30 @@ def entry_page(e):
 <p class="eyebrow">{html.escape(e["domain"])}</p>
 <h1>{html.escape(e["cluster"])}</h1>
 <p class="heb-title">{heb}</p>''']
+    # "On this page": one link per section the entry actually has, and under
+    # Distinctions one per word, so a long entry can be crossed in a click.
+    # Shown only on wide screens; see .toc in the CSS.
+    toc = []
+
+    def sid(name):
+        return "s-" + (re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-") or "x")
+
+    def distinction_ids(block):
+        subs = []
+
+        def tag(m):
+            n = len(subs) + 1
+            text = m.group(1)
+            he = re.search(r"\(([^()]*[֐-׿][^()]*)\)\s*$", text)
+            if he:
+                label = (f'<span class="th" dir="rtl" lang="he">{he.group(1)}</span>'
+                         f'<span class="tt">{text[:he.start()].strip()}</span>')
+            else:
+                label = f'<span class="tt">{text}</span>'
+            subs.append((f"d-{n}", label, re.sub(r"<[^>]+>", "", text)))
+            return f'<h3 id="d-{n}">{text}</h3>'
+        return re.sub(r"<h3>(.*?)</h3>", tag, block), subs
+
     for headname, mdtext in e["sections"]:
         if headname == "Notes for a project" and mdtext.strip() in ("None yet.", ""):
             continue
@@ -450,23 +474,40 @@ def entry_page(e):
                 f'<li><a href="{html.escape(s)}.html">{html.escape(c[:1].upper() + c[1:])}</a>'
                 f'<span class="xw">{inline(w)}</span></li>'
                 for c, s, w in XREF[e["slug"]])
-            parts.append(f'<section class="xref"><h2>Also discussed in</h2><ul>{items}</ul></section>')
+            parts.append(f'<section class="xref" id="s-also"><h2>Also discussed in</h2><ul>{items}</ul></section>')
+            toc.append(("s-also", "Also discussed in", []))
         cls = {"Bottom line": "bottomline", "At a glance": "glance",
                "Where the authorities disagree": "disagree"}.get(headname, "")
+        i = sid(headname)
         if headname == "Rendering guidance":
             # Collapsed by default: most readers come to understand the words,
             # not to translate them, and this section is advice for the second
             # group. <details> needs no script, and a crawler or an LLM reading
             # the HTML still gets the full text.
-            parts.append(f'<details class="guide"><summary><h2>{html.escape(headname)}</h2>'
+            parts.append(f'<details class="guide" id="{i}"><summary><h2>{html.escape(headname)}</h2>'
                          f'<span class="guide-hint">For translators</span></summary>{md(mdtext)}</details>')
+            toc.append((i, headname, []))
             continue
         if headname == "At a glance" and glance_cards(mdtext):
-            parts.append(f'<section class="glance"><h2>At a glance</h2>{glance_cards(mdtext)}</section>')
+            parts.append(f'<section class="glance" id="{i}"><h2>At a glance</h2>{glance_cards(mdtext)}</section>')
+            toc.append((i, headname, []))
             continue
-        parts.append(f'<section class="{cls}"><h2>{html.escape(headname)}</h2>{md(mdtext)}</section>')
+        body, subs = md(mdtext), []
+        if headname == "Distinctions":
+            body, subs = distinction_ids(body)
+        parts.append(f'<section class="{cls}" id="{i}"><h2>{html.escape(headname)}</h2>{body}</section>')
+        toc.append((i, headname, subs))
     parts.append("</article>")
-    return shell(f'{e["cluster"]} — What’s in a Word?', "\n".join(parts), depth=1, active="")
+    links = []
+    for i, name, subs in toc:
+        sub = "".join(f'<li><a href="#{d}" title="{html.escape(plain, quote=True)}">{label}</a></li>'
+                      for d, label, plain in subs)
+        links.append(f'<li><a href="#{i}">{html.escape(name)}</a>'
+                     + (f'<ul>{sub}</ul>' if sub else "") + "</li>")
+    nav = (f'<nav class="toc" aria-label="On this page"><p class="toc-h">On this page</p>'
+           f'<ul>{"".join(links)}</ul></nav>')
+    page = f'<div class="entry-layout">{nav}\n' + "\n".join(parts) + "</div>"
+    return shell(f'{e["cluster"]} — What’s in a Word?', page, depth=1, active="")
 
 
 # ------------------------------------------------------------------------ build
@@ -920,6 +961,32 @@ header.bare .brand{flex:1}
 .wt{font-style:italic;color:var(--dim);font-size:15px}
 .wd{font-size:15px;line-height:1.5;color:var(--dim)}
 .wd .who{color:var(--ink)}
+/* On this page. Wide screens only: on anything narrower there is no margin to
+   put it in, and a phone reader scrolls. The layout widens main just enough for
+   the rail, so the article column itself stays 760px. */
+.toc{display:none}
+.entry [id]{scroll-margin-top:76px}
+@media (min-width:1100px){
+  main:has(.entry-layout){max-width:1030px}
+  .entry-layout{display:grid;grid-template-columns:180px minmax(0,760px);gap:0 44px}
+  .toc{display:block;position:sticky;top:76px;align-self:start;margin-top:52px;
+    max-height:calc(100vh - 96px);overflow-y:auto;font-size:13.5px;line-height:1.35;
+    scrollbar-width:thin}
+  .toc-h{font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
+    font-weight:600;margin:0 0 10px}
+  .toc ul{list-style:none;margin:0;padding:0}
+  .toc li{margin:0}
+  .toc a{display:block;padding:4px 0 4px 12px;border-left:2px solid var(--line);color:var(--dim)}
+  .toc a:hover{color:var(--ink);text-decoration:none}
+  .toc a.on{color:var(--accent);border-left-color:var(--accent)}
+  .toc ul ul a{padding:3px 0 3px 22px;display:flex;align-items:baseline;gap:7px;
+    white-space:nowrap;overflow:hidden}
+  .toc .th{font-family:var(--heb);font-size:17px;color:var(--ink)}
+  .toc a.on .th{color:var(--accent)}
+  .toc .tt{overflow:hidden;text-overflow:ellipsis}
+  .toc .th+.tt{font-size:12.5px;color:var(--faint);font-style:italic}
+}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
 @media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:30px}.heb-title{font-size:27px;gap:0 22px}}
 .entry section{margin:0 0 34px}
 .entry h2{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
@@ -1268,9 +1335,33 @@ function tally(){
   setTimeout(settle, dur + 150);
 }
 
+// Highlight the section being read in "On this page", and open Rendering
+// guidance when its link is followed, since it is collapsed by default.
+function wireToc(){
+  const toc = document.querySelector(".toc");
+  if(!toc) return;
+  const links = [...toc.querySelectorAll("a")];
+  const targets = links.map(a => document.getElementById(a.getAttribute("href").slice(1)));
+  links.forEach((a, i) => a.addEventListener("click", () => {
+    if(targets[i] && targets[i].tagName === "DETAILS") targets[i].open = true;
+  }));
+  let ticking = false;
+  const spy = () => {
+    ticking = false;
+    let cur = -1;
+    targets.forEach((t, i) => { if(t && t.getBoundingClientRect().top < 110) cur = i; });
+    // A sub-link wins over its section, and the section stays lit beside it.
+    links.forEach((a, i) => a.classList.toggle("on", i === cur ||
+      (cur > i && a.nextElementSibling && a.parentElement.contains(links[cur]))));
+  };
+  addEventListener("scroll", () => { if(!ticking){ ticking = true; requestAnimationFrame(spy); } }, {passive:true});
+  spy();
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   wire();
   wireTabs();
+  wireToc();
   tally();
   // Focus the home search without the browser scrolling the headline off-screen,
   // which is what plain autofocus does on a short viewport.
