@@ -19,11 +19,6 @@ words:
     tr: Ir David
     en: City of David
     distinct: Tanach's other name for Tziyon, also Metzudas David, a fortress with a wall of its own (Rashi to Shmuel II 8:7)
-  - he: ציון
-    tr: tziyun
-    en: outstanding, a marker
-    nk: צִיּוּן
-    distinct: the common noun, "outstanding"; where tziyon stands for the Beis HaMikdash (Yoel 4:17, Tehillim 2:6) or for Klal Yisrael (Yeshayahu 51:3), it is this word, not the place name (Tukachinsky)
 sources:
   - wiaw:7874 "Twin Cities: Zion and Jerusalem" (2018-07-28) https://articles.ohr.edu/articles/twin-cities-zion-and-jerusalem
 authorities: [Rabbi Ashtori HaParchi, Radbaz, Rabbi Elazar Azkiri, Rashi, Vilna Gaon, Ibn Ezra, Radak, Dunash ibn Labrat, Midrash Socher Tov, Rabbi Yosef Tuv-Elem, Zohar, Rabbi Yechiel Michel Tukachinsky, Rogatchover Gaon, Targum, Rabbi Moshe Nachum Shapiro]
@@ -51,7 +46,6 @@ accurate term.
 | ציון | Tziyon | Tziyon, Zion | the City of David, separately walled, outside Yerushalayim proper (Rashi, HaParchi, Radbaz, Azkiri) |
 | ירושלים | Yerushalayim | Jerusalem | the Holy City; spelled singular, read dual, heard as two cities joined; the Targum reads Tehillim 133:1 of the twin cities |
 | עיר דוד | Ir David | City of David | Tanach's name for Tziyon, also Metzudas David (Rashi to Shmuel II 8:7) |
-| ציון | tziyun | outstanding | the common noun: tziyon for the Mikdash or for Klal Yisrael (Tukachinsky) |
 
 ## Where the authorities disagree
 

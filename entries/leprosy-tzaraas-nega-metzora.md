@@ -22,10 +22,6 @@ words:
     tr: metzora
     en: leper (until purified)
     distinct: still applies once the spot is healed, until the purification is finished (Perlmutter); for Shadal, one who has multiple negaim; Chazal expound it as motzi shem ra, one who defames (Erachin 15b)
-  - he: צרעה
-    tr: tzirah
-    en: hornet, pestilence
-    distinct: same root; Ibn Ezra and Ibn Janach make it a malady sent against the Canaanites, Ibn Saruk lists it as a separate category without entertaining a shared sense
 sources:
   - wiaw:11793 "Tazria/Metzora: Spot on (Tzar'at)" (2025-05-03) https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat
 authorities: [Arizal, Rav Hirsch, Rabbi Shlomo Pappenheim, Ibn Ezra, Rabbi Yonah Ibn Janach, Menachem Ibn Saruk, Radak, Peirush HaRokeach, Rabbi Menachem Deutsch, Rabbi Shlomo Tzvi Shick, Rabbi Eliezer Perlmutter, Shadal, Rabbi Moshe David Valle, Rabbi Yehuda Aryeh of Carpentras, Rabbi Tzvi Hirsch Ferber, Rabbi Avi Kobernick, Midrash Tadshe, pseudo-Rashi, Moshe Ossi, Gesenius, Alfred Jones]
@@ -55,7 +51,6 @@ pathological is by definition not a *nega* at all.
 | נגע | nega | spot, plague-spot | the meeting point of the man and what strikes him (Pappenheim); the Divine blow that exposes the impurity (Arizal) |
 | צרוע | tzarua | leper, while afflicted | used only of one actually bearing the affliction (Perlmutter); a single spot (Shadal, hard to substantiate by Rabbi Klein's account) |
 | מצורע | metzora | leper, until purified | covers the healed man before purification (Perlmutter); more than one spot (Shadal); read as *motzi shem ra* (Erachin 15b) |
-| צרעה | tzirah | hornet, pestilence | sent against the Canaanites; a malady rather than an insect (Ibn Ezra), "destruction, pestilence" (Ibn Janach) |
 
 ## Where the authorities disagree
 

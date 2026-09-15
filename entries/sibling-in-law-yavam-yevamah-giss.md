@@ -27,11 +27,6 @@ words:
     en: father-in-law
     nk: חֹתֵן
     distinct: normally the wife's father; Ibn Janach allows it to stretch to brother-in-law, which Radak rejects
-  - he: במה
-    tr: bamah
-    en: private altar, high place
-    nk: בָּמָה
-    distinct: brought into this cluster as the etymon of yavam, either as a gathering point of many (Rabbi Shlomo Pappenheim) or as elevation (Rabbi Yaakov Tzvi Mecklenburg)
 sources:
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Ibn Ezra, Meshech Chochmah, Rabbi Eliyahu HaBachur, Rabbi Tanchum HaYerushalmi, Ritva, Nimukei Yosef, Rabbi Yaakov Emden, Ibn Janach, Radak, Pri Megadim]
@@ -57,7 +52,6 @@ relations at once, a woman's husband's brother, a woman's sister's husband, a ma
 | ייבום | yibbum | levirate marriage | the mitzvah act; its sense disputed three ways |
 | גיס | giss | brother-in-law | Mishnaic; a man's word (HaBachur) |
 | חתן | choten | father-in-law | Ibn Janach stretches it to brother-in-law; Radak refuses |
-| במה | bamah | private altar, high place | the proposed etymon of yavam |
 
 ## Where the authorities disagree
 

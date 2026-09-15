@@ -23,10 +23,6 @@ words:
     tr: veshet
     en: food pipe, esophagus
     distinct: the other pipe, the one that carries food; it is the fixed contrast term for gargeres in the Mishnah and for kaneh in the Gemara
-  - he: גרגרן
-    tr: gargaran
-    en: glutton
-    distinct: built on gargeres though gorging is done with the veshet, a tension answered four ways (Tosafos Yom Tov, Rabbi Binyamin Mussafia, Rabbi Meir Batzri, and Rabbi Klein's own)
 sources:
   - wiaw:9745 "The Gorgeous Windpipe" (2022-06-25) https://articles.ohr.edu/articles/the-gorgeous-windpipe
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Ibn Ezra, Rabbi Moshe Kimchi, Rashi, Rambam, Rabbi Yom Tov Lipmann Heller, Rabbi Binyamin Mussafia, Rabbi Yaakov Emden, Rabbi Tanchum HaYerushalmi, Rabbi Yaakov Weil, Rabbi Amitai Ben-David, Rabbi Yosef de Bonne of Stadthagen, Rabbi Meir Batzri, Shach, Pri Megadim]
@@ -58,7 +54,6 @@ esophagus.
 | גרגרת | gargeres | windpipe, neck | in Mishlei the neck that wears a necklace; always plural, for the trachea's rings (Rashi to Mishlei 1:9) |
 | קנה | kaneh | windpipe | "reed," a hollow tube; the Gemara's term, and for Rabbi Yaakov Weil the inner membrane specifically |
 | ושט | veshet | food pipe | the contrasting pipe throughout *Chullin*; never the windpipe |
-| גרגרן | gargaran | glutton | formed from *gargeres* though gluttony works the *veshet*; see the four answers below |
 
 ## Where the authorities disagree
 

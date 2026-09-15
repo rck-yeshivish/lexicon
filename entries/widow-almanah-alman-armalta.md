@@ -22,10 +22,6 @@ words:
     tr: armalta
     en: widow (Aramaic)
     distinct: the Targumic and Talmudic standard, and the Mishnah already has the verb nisarmelah; for Rabbi Reuven Chaim Klein not a synonym of almanah but the same word in Aramaic dress
-  - he: כרמלית
-    tr: karmelis
-    en: intermediate domain
-    distinct: read as k'armelis, "like a widow," neither one domain nor the other as she is neither maiden nor wife (Rambam to Shabbos 1:1)
 sources:
   - wiaw:11817 "Emor: A Window into Widows (Part 1/2)" (2025-05-17) https://articles.ohr.edu/articles/emor-a-window-into-widows-part-12
   - wiaw:11816 "Behar/Bechukosai: A Window into Widows (Part 2/2)" (2025-05-24) https://articles.ohr.edu/articles/beharbechukosai-a-window-into-widows-part-22
@@ -57,7 +53,6 @@ hall, and Ibn Ezra and Ibn Kaspi read **palaces emptied** of their dwellers.
 | אלמן | alman | widower | once in Tanach (Yirmiyahu 51:5); the masculine that any etymology must also explain (Chasam Sofer) |
 | אלמנות | almenus | widowhood | the state, four occurrences; masculine *almon* once (Yeshayahu 47:9) |
 | ארמלתא | armalta | widow | Aramaic; standard in Targum and both Talmuds; the same word, not a second one (Rabbi Reuven Chaim Klein) |
-| כרמלית | karmelis | intermediate domain | *k'armelis*, "like a widow," in between (Rambam to Shabbos 1:1) |
 
 ## Where the authorities disagree
 

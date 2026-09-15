@@ -18,10 +18,6 @@ words:
     tr: ha'dekel
     en: Tigris
     distinct: the Samaritan reading of Bereishis 2:14, with a hey in place of the chet; not a Masoretic form
-  - he: תיגרס
-    tr: tigras
-    en: tiger (or a mythical lion)
-    distinct: Chullin 59b's "lion of the upper forest"; Rabbi Binyamin Mussafia reads it as the tiger, named for arrow-swift movement, while HeAruch HaShaleim reads it as the manticore of Persian legend
 sources:
   - wiaw:11903 "Devarim: The Sharp River" (2025-08-02) https://articles.ohr.edu/articles/devarim-the-sharp-river
 authorities: [Targum Onkelos, Rashi, Rabbi Saadia Gaon, Abarbanel, Rabbi Naftali HaKohen Katz, Rabbi Binyamin Mussafia, Shadal, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Refael Mamo, Rabbi Matzliach Mazuz, Josephus, Rabbi Levi ben Avraham, Rabbi Nissim of Marseilles, Targum Neofiti, Wilhelm Gesenius, Rabbi Ernest Klein, Isidore of Seville, Dr. Alexander Kohut]
@@ -47,7 +43,6 @@ Abarbanel and Rabbi Binyamin Mussafia tie the river's Greek name to the tiger.
 | חדקל | Chidekel | Tigris | the Biblical name, twice only; read as chad + kal, sharp and swift (Berachos 59b) |
 | דגלת | Diglat | Tigris | the Aramaic/Rabbinic name; Targum Onkelos to Bereishis 2:14 and the standard word in Shas (Rashi: it is the Chidekel) |
 | הדקל | ha'dekel | Tigris | the Samaritan text's form, chet replaced by hey; not Masoretic |
-| תיגרס | tigras | tiger; a mythical lion | Chullin 59b; tiger for Rabbi Binyamin Mussafia, manticore for HeAruch HaShaleim |
 
 ## Where the authorities disagree
 

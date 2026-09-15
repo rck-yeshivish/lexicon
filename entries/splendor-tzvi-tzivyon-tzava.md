@@ -19,14 +19,6 @@ words:
     tr: tzava
     en: legion, army
     distinct: literally a gathering of people, an army only because they share one want (Rav Hirsch, Rabbi Chaim Friedlander); on the two-letter root, a standing force ready for orders, against a militia that must be assembled (Rabbi Shlomo Pappenheim)
-  - he: צב
-    tr: tzav
-    en: turtle; covered wagon
-    distinct: the turtle looks bloated by its shell, and the covered wagon is shaped like the turtle (Rabbi Shlomo Pappenheim, on Vayikra 11:29 and Bamidbar 7:3)
-  - he: יציב
-    tr: yatziv
-    en: well-grounded, firm
-    distinct: from the same two-letter צ-ב, "standing"; what is well-grounded stands on established bases (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:8563 "My Dear Deer" (2020-01-18) https://articles.ohr.edu/articles/my-dear-deer
 authorities: [Rashi, Radak, Ritva (Rabbi Yom Tov of Seville), Ibn Ezra, Ralbag, Rav Saadia Gaon, Targum, Rabbeinu Gershom, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur (Elias Levita), Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Chaim Friedlander, Midrash Shocher Tov]
@@ -51,8 +43,6 @@ Land" on the plain reading, "the Land of the Deer" in the derashos of Chazal.
 | צבי | tzvi | splendor / desire / deer | beauty (Rashi) against desire and glory (Radak) |
 | צביון | tzivyon | consent, or ideal form | consented (Rashi, Rabbeinu Gershom) against beauty (Ritva) |
 | צבא | tzava | legion, army | a group united by one want (Rav Hirsch, Rav Friedlander) |
-| צב | tzav | turtle; covered wagon | bloated by its shell; the wagon shaped like it (Pappenheim) |
-| יציב | yatziv | well-grounded | standing on firm bases (Pappenheim) |
 
 ## Where the authorities disagree
 

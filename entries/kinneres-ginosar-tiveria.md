@@ -18,10 +18,6 @@ words:
     tr: Tiveria
     en: Tiberias
     distinct: the Gemara's name for the lake, Yamah shel Tiveria, once Tiveria outstripped Ginosar; identified with Chamas or Rakas of Yehoshua 19:35 (Megillah 5b-6a)
-  - he: כנור
-    tr: kinnor
-    en: harp, lyre, or a berry
-    distinct: Rabbi Nosson of Rome gives both senses; Megillah 6a ties the city's name to it, its fruit being as sweet as a kinnor's sound, not to the lake's shape
 sources:
   - wiaw:8351 "The Shining Sea of Galilee" (2019-08-03) https://articles.ohr.edu/articles/the-shining-sea-of-galilee
 authorities: [Rabbi Nosson of Rome, Rashi, Tosafos, Bereishis Rabbah, Rabbi Yosef Karo, Rabbi Moshe ben Yosef of Trani, Josephus, Jastrow, Dr. Dov Ginzberg]
@@ -46,7 +42,6 @@ not the term any of these sources uses.
 | כנרת | Kinneres | Kinneret | the Biblical name, from the city in Naftali's portion (Yehoshua 19:35) |
 | גניסר | Ginosar | Ginosar | the same city renamed (Megillah 6a); the Targumim's rendering of Yam Kinneres |
 | טבריה | Tiveria | Tiberias | the Talmudic name, once Tiveria became the leading city on the shore |
-| כנור | kinnor | harp, lyre, or a berry | the word behind the city's name, on the Gemara's own derivation |
 
 ## Where the authorities disagree
 

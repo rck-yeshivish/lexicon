@@ -15,19 +15,6 @@ words:
     en: draw
     nk: שָׁאַב
     distinct: drawing water with no effort, most commonly from a spring or surface pool, no lowering and raising (Malbim); Rabbi Shlomo Pappenheim ties it to ש-ב, bringing flowing water to rest
-  - he: דלי
-    tr: dli
-    en: pail, bucket
-    distinct: the instrument of דלה, what lifts the water up (Radak); Bamidbar 24:7, Yeshayahu 40:15
-  - he: דליות
-    tr: daliyot
-    en: branches at the top of a tree
-    distinct: the topmost boughs, as though lifted and set there (Ibn Janach, Radak); for Rabbi Shlomo Pappenheim they draw water up through the tree
-  - he: דל
-    tr: dal
-    en: poor, destitute
-    nk: דַּל
-    distinct: Menachem Ibn Saruk files it under ד-ל; for Rabbi Shlomo Pappenheim, a man emptied of his fortune as a well is emptied of its water
 sources:
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
   - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
@@ -50,9 +37,6 @@ the water is already at hand, from a spring or surface pool: plain **draw**.
 |---|---|---|---|
 | דלה | dalah | draw up, draw out | deep well; requires lowering and lifting (Malbim); one root with "lift up" (Radak) |
 | שאב | shoev | draw | effortless, most commonly from spring or surface water (Malbim); ש-ב, water brought to rest (Rabbi Shlomo Pappenheim) |
-| דלי | dli | pail, bucket | the tool that does the lifting (Radak) |
-| דליות | daliyot | topmost branches | as if lifted to the top of the tree (Radak); they draw water upward (Rabbi Shlomo Pappenheim) |
-| דל | dal | poor | emptied of fortune as a well is emptied of water (Rabbi Shlomo Pappenheim) |
 
 ## Where the authorities disagree
 

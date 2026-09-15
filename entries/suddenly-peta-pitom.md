@@ -14,10 +14,6 @@ words:
     tr: pitom
     en: suddenly, all at once
     distinct: the broader word, covering shogeg, oness and even meizid (Kerisus 9a); Rav Hirsch makes it the objective surprise, which no forecasting could have caught; Rabbi Pappenheim reverses Rav Hirsch's reading
-  - he: פתי
-    tr: peti
-    en: simpleton, one easily swayed
-    distinct: from petach, "open," hence open and susceptible to outside impressions (Rav Hirsch); the Gemara uses its resemblance to pitom to widen pitom's range
 sources:
   - wiaw:8790 "When Suddenly…" (2020-07-18) https://articles.ohr.edu/articles/when-suddenlyaeur
 authorities: [Rabbi Yoshiya, Rabbi Yonatan, Rashi, Rabbi Ovadiah of Bartenuro, Rabbi David HaLevi Segal, the Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbeinu Efrayim ben Shimshon of Regensburg, Rabbi David Golumb, Rav Hirsch, Ibn Ezra, Rabbi Avraham Menachem Rappaport]
@@ -47,7 +43,6 @@ as a halachic pair.
 |---|---|---|---|
 | פתע | peta | suddenly | shogeg alone (Kerisus 9a); immediacy too quick to guard against (Rashi); subjective surprise (Rav Hirsch) |
 | פתאום | pitom | suddenly, all at once | the ambiguous word, covering shogeg, oness and meizid (Kerisus 9a); objective surprise (Rav Hirsch) |
-| פתי | peti | simpleton | open, and so easily swayed by what is outside him (Rav Hirsch) |
 
 ## Where the authorities disagree
 

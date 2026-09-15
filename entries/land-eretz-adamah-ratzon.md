@@ -16,11 +16,6 @@ words:
     en: ground
     nk: אֲדָמָה
     distinct: from DALET-MEM, likeness and so incongruity, whence domem, inert, the ground staying passive while what grows in it is active (Rabbi Shlomo Pappenheim); often the lands outside Eretz Yisrael
-  - he: רצון
-    tr: ratzon
-    en: will
-    nk: רָצוֹן
-    distinct: a person's ultimate will, what he really wants underneath, as against chefetz, the immediate tangible goal (Rav Tzvi Yehuda Kook); the same root as eretz, which, Rabbi Klein adds, likewise reaches below the surface
   - he: חפץ
     nk: חֵפֶץ
 sources:
@@ -52,7 +47,6 @@ so there are seven words for the earth: *eretz*, *adamah*, *arka*, *charavah*,
 |---|---|---|---|
 | ארץ | eretz | land | root REISH-TZADI, running; the land that runs to do Hashem's will (Bereishis Rabbah 5:8) |
 | אדמה | adamah | ground | root DALET-MEM, whence *domem*, inert; passive while its plants are active (Rabbi Shlomo Pappenheim) |
-| רצון | ratzon | will | the ultimate will, not the immediate *chefetz* (Rav Tzvi Yehuda Kook) |
 
 ## Where the authorities disagree
 

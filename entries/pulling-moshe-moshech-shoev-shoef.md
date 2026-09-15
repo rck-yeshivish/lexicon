@@ -24,10 +24,6 @@ words:
     tr: shoef
     en: inhale, yearn
     distinct: drawing air rather than water (Rabbi Shlomo Aharon Wertheimer); from there sheifah, a higher yearning one has internalized
-  - he: משי
-    tr: meshi
-    en: silk
-    distinct: what is drawn out of the silkworm's body (Rabbi Shlomo Pappenheim); Ibn Janach and Radak put it under מ-ש-ה, Menachem Ibn Saruk under מ-ש-י
 sources:
   - wiaw:11200 "Shemos: Pulling & Drawing" (2024-01-06) https://articles.ohr.edu/articles/shemos-pulling-drawing
 authorities: [Rashi, Rashbam, Radak, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Shlomo Aharon Wertheimer, Ramban, Rabbi Menachem ben Shlomo (Midrash Sechel Tov), Rabbi Shlomo Ibn Parchon, Rabbi Moshe Alshich, Chizkuni, Peirush HaRokeach, Peirush HaTur, Midrash HaGadol, Shadal, Rabbi Shlomo Zalman Ehrenreich, Rabbi Menachem Mendel Kasher (Torah Shleimah), Moshav Zekanim, Rabbi Yaakov Berger, Ibn Ezra, Mahari Kara]
@@ -52,7 +48,6 @@ from a well; *shoef* is its air counterpart, **inhale**, and in *sheifah*,
 | משך | moshech | pull, draw | the general term; includes moshe (Rabbi Chelouche) |
 | שאב | shoev | draw water | almost always from a well; water and not air (Wertheimer) |
 | שאף | shoef | inhale, yearn | air and not water (Wertheimer); hence sheifah, an internalized higher yearning |
-| משי | meshi | silk | what is drawn from the silkworm (Rabbi Shlomo Pappenheim) |
 
 ## Where the authorities disagree
 

@@ -10,10 +10,6 @@ words:
     tr: ivri
     en: Hebrew
     distinct: first said of Avraham (Bereishis 14:13); either the man on the other side (ever) of the world's scale, or a descendant of Ever, or one from beyond the Euphrates (Bereishis Rabbah 42:8); for Rabbeinu Bachya it marks a lower spiritual standing than Yisrael
-  - he: עבר
-    tr: ever
-    en: side, the far side
-    distinct: the noun behind ivri, meaning both a side of a scale and the far bank of a river; also the name of Shem's great-grandson
   - he: ישראל
     tr: yisrael
     en: Israel, Israelite
@@ -23,10 +19,6 @@ words:
     tr: yehudi
     en: Jew
     distinct: strictly a subject of the Kingdom of Yehudah, the southern kingdom of Yehudah and Binyamin under the Davidic line; the name that outlived the exile and became the general term
-  - he: יהודה
-    tr: yehudah
-    en: Judah
-    distinct: Yaakov's fourth son, named by Leah as an expression of hodaah, thanks to Hashem (Bereishis 29:35)
 sources:
   - wiaw:7961 "Names of a People" (2018-10-20) https://articles.ohr.edu/articles/names-of-a-people
   - wiaw:8553 "Jacob's Three Names" (2020-01-11) https://articles.ohr.edu/articles/jacobs-three-names
@@ -52,10 +44,8 @@ otherwise largely fallen out of use in Tanach.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | עברי | ivri | Hebrew | Avraham on the other side of the world (Bereishis Rabbah); lower standing (Rabbeinu Bachya) |
-| עבר | ever | side, far side | a side of a scale, or the far bank of the Euphrates; also a name |
 | ישראל | yisrael | Israel, Israelite | the nation's standard name, from Yaakov's second name; the higher standing (Rabbeinu Bachya) |
 | יהודי | yehudi | Jew | originally the citizen of the southern kingdom only |
-| יהודה | yehudah | Judah | named for Leah's hodaah, her thanks (Bereishis 29:35) |
 
 ## Where the authorities disagree
 

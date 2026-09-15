@@ -14,10 +14,6 @@ words:
     tr: yitzhar
     en: olive oil
     distinct: for Rabbi Klein olive oil in itself, never joined to zayis in Tanach; Radak narrows it to oil as it comes from the press; Rabbi Yitzchak Zev Yadler makes it whatever oil a place burns for light
-  - he: צהר
-    tr: tzohar
-    en: brightness, noon
-    distinct: the root Rabbi Yosef Kimchi gives for yitzhar, since oil is clear and shining (Radak); Ibn Ezra takes the "noon" sense, since lamp oil gives light like the sun at midday
 sources:
   - wiaw:7061 "Olives and Oil" (2016-12-24) https://articles.ohr.edu/articles/olives-and-oil
 authorities: [Menachem Ibn Saruk, Radak, Rabbi Yosef Kimchi, Ibn Ezra, Rashi, Rabbi Yitzchak Zev Yadler]
@@ -39,7 +35,6 @@ Tanach. Every occurrence of *yitzhar* is agricultural, the yield of the press.
 |---|---|---|---|
 | שמן | shemen | oil | the general term, from shuman, fat (Ibn Saruk); needs zayis for olive oil (Rabbi Klein) |
 | יצהר | yitzhar | olive oil | inherently olive (Rabbi Klein); fresh from the press (Radak); or lamp oil by local custom (Yadler) |
-| צהר | tzohar | brightness, noon | the proposed root: oil is clear and shining (Rabbi Yosef Kimchi, Radak) |
 
 ## Where the authorities disagree
 

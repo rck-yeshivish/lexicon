@@ -22,10 +22,6 @@ words:
     tr: avreich
     en: father to the king / young sage
     distinct: three readings, av plus reich, father to the king (Onkelos, Rashi's first); av plus rach, a father in wisdom though young in years (Bereishis Rabbah); or from berech, one before whom all kneel (Sifrei)
-  - he: רך
-    tr: rach
-    en: soft, young / royal
-    distinct: ordinarily soft, tender, young; a minority school reads a second rach meaning "king," from the same reich (Sefer Russiana, Pittsburgher Rebbe, Rabbi Chaim Vital)
 sources:
   - wiaw:10750 "Vayeshev: The Amazing Multi-Named Joseph" (2022-12-17) https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph
 authorities: [Rashi, Targum Onkelos, Targum Yonasan, Ibn Chayyuj, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Levi Yitzchak of Berditchev, Rambam, Chasam Sofer, Ibn Ezra, Rabbi Eliyahu HaBachur, Taz (Divrei Dovid), Rabbi Chaim Vital, Sefer Russiana, Pittsburgher Rebbe, Rabbi Chaim Kanievsky, Rabbi Mordechai Gross]
@@ -52,7 +48,6 @@ readings, mean "royal."
 | יהוסף | Yehosef | Yehosef | the extra hei of the Divine Name, earned in Potiphar's house (Sotah 10b, 36b) |
 | צפנת פענח | Tzafnas Paneach | revealer of mysteries | Pharaoh's title for him (Rashi); "concealer of mysteries" (Chasam Sofer) |
 | אברך | avreich | father to the king / young sage | *av* + *reich* (Onkelos), *av* + *rach* (Bereishis Rabbah), or *berech*, kneeling (Sifrei) |
-| רך | rach | soft, young | the plain sense; a minority reads a homonym meaning "king" (Sefer Russiana, Rabbi Chaim Vital) |
 
 ## Where the authorities disagree
 

@@ -22,10 +22,6 @@ words:
     tr: mishi
     en: smoothness
     distinct: Yechezkel 16:4, the smoothing that bathing gives the skin (Radak); Menachem Ibn Saruk and Rashi read it instead from shaashua, bathing for pleasure
-  - he: שעשוע
-    tr: shaashua
-    en: delight
-    distinct: the same ש-ע root borrowed, since the touch of something smooth is a pleasure (Rabbi Yaakov Tzvi Mecklenburg)
 sources:
   - wiaw:8497 "Smooth Sliding and Glad Gliding" (2019-11-30) https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding
 authorities: [Targum Onkelos, Rashi, Tosafos, Rambam, Radak, Menachem Ibn Saruk, Rabbi Avraham Vilner (Tirgem Avraham), Rabbi Yaakov Tzvi Mecklenburg (HaKtav VeHaKabbalah)]
@@ -51,7 +47,6 @@ dispute over *shaatnez* in *Kilayim* 9:8 turns on what *shua* means.
 | שוע | shua | smoothed on, daubed | smoothing by attaching one thing to another (Tosafos, Rambam) |
 | שעיע | shiiya | smooth | Aramaic of the Targumim for chalak, but the root is Hebrew too (Rabbi Avraham Vilner) |
 | משעי | mishi | smoothness | the smoothing bathing gives the skin (Radak); or bathing for pleasure (Rashi, Menachem) |
-| שעשוע | shaashua | delight | smooth borrowed for pleasant (Mecklenburg) |
 
 ## Where the authorities disagree
 

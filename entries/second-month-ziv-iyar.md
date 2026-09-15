@@ -10,18 +10,10 @@ words:
     tr: Ziv
     en: Ziv
     distinct: the Biblical name of the second month, twice in Melachim I 6, spelled defective without a yud although the Aramaic word for radiance is always plene; Radak (Sefer HaShorashim) still gives the root as ז-י-ו
-  - he: זיו
-    tr: ziv
-    en: radiance, splendor
-    distinct: not the light itself but its spread outward, which is why Onkelos uses it for the rays from Moshe's face and Targum Yonasan for Hashem's glory filling creation (Rabbi Moshe Shapiro)
   - he: אייר
     tr: Iyar
     en: Iyar
     distinct: the current name, absent from Tanach, brought up from Bavel by prophetic revelation (Yerushalmi Rosh HaShanah 1:2); its spelling, one yud or two, is a live halachic question in a get
-  - he: אויר
-    tr: avir
-    en: air
-    distinct: the word Sefer HaKushyos connects Iyar to, whether for the month's temperate air or for the world "hanging in the air" until Matan Torah in Sivan (Shabbos 88a)
 sources:
   - wiaw:11411 "The Shiny Month" (2024-05-25) https://articles.ohr.edu/articles/the-shiny-month
 authorities: [Ibn Ezra, Radak, Rabbi Shlomo Pappenheim, Rashi, Maharil, Terumas HaDeshen, Rabbi Yaakov Margolis, Shulchan Aruch, Rema, Nachalas Shivah, Beis Shmuel, Aruch HaShulchan, Megaleh Amukos, Rabbi Eliezer Hagar of Vizhnitz, Sefer HaKushyos, Rabbi Yosef Kara, Maharal, Maharsha, Rabbi Moshe Shapiro, Rabbi Shimshon of Ostropoli, Chasam Sofer, Rabbi Mordechai Nachman Aronovsky, Rabbi Dovid Jungreis, Moshe Escott]
@@ -47,9 +39,7 @@ cited conclude that one should optimally write two.
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | זו | Ziv | Ziv | the Biblical month-name; written defective, though the Aramaic noun is written plene; Radak still gives the root as ז-י-ו |
-| זיו | ziv | radiance, splendor | the emanation, not the luminary: Onkelos to Shemos 34:29, Targum Yonasan to Yeshayahu 6:3 (Rabbi Moshe Shapiro) |
 | אייר | Iyar | Iyar | post-Biblical, from the Babylonian calendar by prophetic revelation (Yerushalmi Rosh HaShanah 1:2) |
-| אויר | avir | air | the connection *Sefer HaKushyos* proposes for the name Iyar |
 
 ## Where the authorities disagree
 

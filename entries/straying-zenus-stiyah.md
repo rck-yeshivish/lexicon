@@ -18,14 +18,6 @@ words:
     tr: sotah
     en: the suspected wife
     distinct: named for having turned aside from the path of fidelity
-  - he: שוטה
-    tr: shoteh
-    en: mentally incompetent, irregular
-    distinct: behavior that follows no track at all; extended to anything off pattern, a bechor shoteh (Yevamos 16b), a hadas shoteh with leaves not set in threes (Succah 32b)
-  - he: שיטה
-    tr: shitah
-    en: method, ordered approach
-    distinct: related to stiyah as its diametric opposite, an arranged and systematic path (Rabbi Moshe Shapiro)
 sources:
   - wiaw:7927 "Straying from the Path" (2018-09-08) https://articles.ohr.edu/articles/straying-from-the-path
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Aharon Marcus]
@@ -56,8 +48,6 @@ movement to the side, so that *chet*, sin, is a straying.
 | זנות | zenus | straying, promiscuity | breach of an owed loyalty; from ז-ן, sustenance (Rabbi Shlomo Pappenheim) |
 | סטיה | stiyah | deviation | off a marked path; sin in Tanach, samech in Chazal |
 | סוטה | sotah | the suspected wife | turned aside from fidelity |
-| שוטה | shoteh | incompetent, irregular | follows no track; also anything off pattern |
-| שיטה | shitah | method | the ordered path, the reverse of stiyah (Rabbi Moshe Shapiro) |
 
 ## Distinctions
 

@@ -15,14 +15,6 @@ words:
     tr: gerem
     en: bone, itself
     distinct: the bone as one part within a larger frame, whence a single step of a staircase (Metzudas Tzion to Melachim II 9:13) and causation (Rav Hirsch); for the Vilna Gaon the hollow interior where the marrow sits
-  - he: גרמא
-    tr: grama
-    en: indirect causation
-    distinct: rabbinic; one link in a chain of causes (Rav Hirsch); Targum renders sabosi as garamti (Shmuel I 22:22), per Rabbi Eliyahu HaBachur
-  - he: גרמני
-    tr: germani
-    en: a white-skinned man, or a German
-    distinct: from gerem, bones being white (Rambam and Rabbi Tanchum HaYerushalmi to Negaim 2:1); the Vilna Gaon rejects that and reads it as a man of Germanica
 sources:
   - wiaw:10785 "Them Bones and Themselves" (2023-01-07) https://articles.ohr.edu/articles/them-bones-and-themselves
 authorities: [Menachem Ibn Saruk, Rashi, Ralbag, Ramban, Rav Hirsch, Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Emden, Rabbi Eliyahu HaBachur, Rambam, Rabbi Tanchum HaYerushalmi, Rabbeinu Bachaya, Metzudas Tzion, Tosafos, Rabbi David Chaim Chelouche]
@@ -47,8 +39,6 @@ the bone's hard outside, *gerem* the hollow inside where the marrow is.
 |---|---|---|---|
 | עצם | etzem | bone, itself | hard, durable, closed-up (Rav Hirsch); the general term for any bone (Wertheimer); the outer surface (Vilna Gaon) |
 | גרם | gerem | bone, itself | one member of a larger system (Rav Hirsch); the big load-bearing bones (Wertheimer); the inner cavity with its marrow (Vilna Gaon) |
-| גרמא | grama | indirect causation | a link in a chain of causes (Rav Hirsch); rabbinic, not Biblical |
-| גרמני | germani | white-skinned man | from the whiteness of bone (Rambam), or simply a German (Vilna Gaon) |
 
 ## Where the authorities disagree
 

@@ -28,10 +28,6 @@ words:
     en: oath
     nk: שְׁבוּעָה
     distinct: the oath ties the claim to Hashem, "the Seventh One" (Ibn Ezra, building on Sefer Yetzirah 4:2), or delivers the swearer into Hashem's hand (Rav Hirsch)
-  - he: שבויה
-    tr: shevuyah
-    en: captive
-    distinct: bound, with no freedom of movement, like the sworn man (Mecklenburg, Pappenheim, Rav Hirsch); for Mecklenburg, caught in a closed system that keeps returning to its start, like the recurring week
 sources:
   - wiaw:9694 "The Year of Seven (Part 2 of 2)" (2022-05-21) https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2
   - wiaw:7758 "Stop! It's Shavuot!" (2018-05-19) https://articles.ohr.edu/articles/stop-itas-shavuot
@@ -60,7 +56,6 @@ part on why. *Sheva* is not "seven" where the sources read it as
 | שבוע | shavua | week, seven-year cycle | any seven-day period, not the calendar week (Mecklenburg); seemingly seven years in Daniel |
 | שבת | shabbos | Shabbos, week, Sabbatical year | part standing for whole (Ramban); for Mecklenburg, in Vayikra 23 the sense is cessation, not "week" |
 | שבועה | shevuah | oath | ties the claim to Hashem's existence (Ibn Ezra) or places the swearer under His control (Rav Hirsch); strengthened by sevenfold repetition (*Sefer HaChinuch* 330) |
-| שבויה | shevuyah | captive | the picture behind both the cycle and the oath: no freedom to move |
 
 ## Where the authorities disagree
 
