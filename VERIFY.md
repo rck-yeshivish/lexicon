@@ -96,7 +96,9 @@ For one entry, with its source article open beside it:
   warn the reader, which is worse than the note. So the body and the "Cited in
   the essay" line must carry the correct locus, checked against the text
   itself. Where no correct locus can be established, the impossible one comes
-  out.
+  out. "Impossible" means no edition can have it: search every spelling
+  (מיאון and מאון, full and defective), and never remove a locus on one digital
+  edition's silence when the essay and the author's book both give it.
 - **Tell the content; do not narrate the essay.** "The column opens with",
   "closes with a story", "turns to", "the column's opening question" walk the
   reader through the essay instead of telling them what it says. A story, a
