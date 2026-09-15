@@ -75,39 +75,44 @@ any undertaking), *kohen* (who sees to the preparations for the *avodah*),
 
 Hirsch's is the simpler explanation.
 
-**Whether the mem is part of the root.** Ibn Janach (*Sefer HaShorashim*),
-Rashbam, Ibn Ezra (to Shemos 8:12), and Ibn Parchon (*Machberes HeAruch*) all
-take pains to say it is not: the root is the biliteral כ-נ, *kinnim* is the
-plural, *kinam* the species. Ibn Saruk and Radak likewise trace the word to
-כ-נ. Against them stands Rabbi Klein's own thesis: he believes that
-*kinnim* and the two Aramaic words are not synonyms at all but three forms of
-one word. His reasoning is that no cognate of the Aramaic word turns up in
-Ugaritic or Phoenician, and that just as the kuf of Imperial Aramaic shifts to a
-kaf in Talmudic Aramaic, the lamed of the Aramaic forms may answer to the nun of
-Hebrew *kinam*, on the phonetic interchange of lamed, mem, nun and reish; so
-KAF-LAMMED-MEM would equal KAF-NUN-MEM, the mem in *kinam* would be a radical
-after all, contrary to the classical lexicographers, and Biblical Hebrew would
-hold two distinct words, *kinnim*, the plural of *kinah*, and *kinam*, cognate
-with the Aramaic. Rabbi Klein consulted Rabbi Dr. Yitzchak (Jared) Greenblatt
-and Rabbi Shaul Goldman, who agreed the supposition is tenable; and Dr.
-Alexander Kohut, in *He'Aruch HaShaleim*, cites the maskilic scholar Peretz
-Smolenskin that Talmudic Aramaic KAF-LAMMED-MEM is cognate with Biblical Hebrew
-KAF-NUN-MEM. Rabbi Klein puts his conclusion conditionally: if the supposition
-is correct, then KAF-NUN-MEM (Biblical Hebrew), KUF-MEM-LAMMED (Canaanite, Imperial Aramaic and
-Arabic), KUF-LAMMED-MEM (Targumic Aramaic and Akkadian) and KAF-LAMMED-MEM
-(Talmudic Aramaic) are one word in different forms.
+**Whether the mem is part of the root.**
+
+- Ibn Janach (*Sefer HaShorashim*), Rashbam, Ibn Ezra (to Shemos 8:12), and Ibn
+  Parchon (*Machberes HeAruch*) all take pains to say it is not: the root is the
+  biliteral כ-נ, *kinnim* is the plural, *kinam* the species. Ibn Saruk and
+  Radak likewise trace the word to כ-נ.
+- Against them stands Rabbi Klein's own thesis: he believes that *kinnim* and
+  the two Aramaic words are not synonyms at all but three forms of one word. His
+  reasoning is that no cognate of the Aramaic word turns up in Ugaritic or
+  Phoenician, and that just as the kuf of Imperial Aramaic shifts to a kaf in
+  Talmudic Aramaic, the lamed of the Aramaic forms may answer to the nun of
+  Hebrew *kinam*, on the phonetic interchange of lamed, mem, nun and reish; so
+  KAF-LAMMED-MEM would equal KAF-NUN-MEM, the mem in *kinam* would be a radical
+  after all, contrary to the classical lexicographers, and Biblical Hebrew would
+  hold two distinct words, *kinnim*, the plural of *kinah*, and *kinam*, cognate
+  with the Aramaic. Rabbi Klein consulted Rabbi Dr. Yitzchak (Jared) Greenblatt
+  and Rabbi Shaul Goldman, who agreed the supposition is tenable; and Dr.
+  Alexander Kohut, in *He'Aruch HaShaleim*, cites the maskilic scholar Peretz
+  Smolenskin that Talmudic Aramaic KAF-LAMMED-MEM is cognate with Biblical
+  Hebrew KAF-NUN-MEM. Rabbi Klein puts his conclusion conditionally: if the
+  supposition is correct, then KAF-NUN-MEM (Biblical Hebrew), KUF-MEM-LAMMED
+  (Canaanite, Imperial Aramaic and Arabic), KUF-LAMMED-MEM (Targumic Aramaic and
+  Akkadian) and KAF-LAMMED-MEM (Talmudic Aramaic) are one word in different
+  forms.
 
 **Whether kein ever means "louse".** Yeshayahu 51:6, "and its inhabitants will
-die *kein*", and Bamidbar 13:33, "and so were we *kein* in their eyes". Targum
-Yonasan and the classical reading: "likewise", "so". At Yeshayahu 51:6 the
-seventeenth century Dutch Protestant scholar Ludovicus de Dieu first proposed
-that *kein* possibly means "louse": the earth's inhabitants will die like lice.
-Shadal cites it, noting that Rosenmuller and Gesenius followed the same
-approach, and Malbim cites it too in his commentary there; Avraham Even-Shoshan
-favors it in his concordance of Biblical Hebrew, as does Rabbi Dovid Tzvi
-Hoffmann (to Shemos 8:12). At Bamidbar 13:33 it is Malbim who, in light of all
-that, suggests reading *kein* as "louse": the *meraglim* felt themselves
-grasshoppers in their own eyes and as insignificant as lice in the giants'.
+die *kein*", and Bamidbar 13:33, "and so were we *kein* in their eyes".
+
+- Targum Yonasan and the classical reading: "likewise", "so".
+- At Yeshayahu 51:6 the seventeenth century Dutch Protestant scholar Ludovicus
+  de Dieu first proposed that *kein* possibly means "louse": the earth's
+  inhabitants will die like lice. Shadal cites it, noting that Rosenmuller and
+  Gesenius followed the same approach, and Malbim cites it too in his commentary
+  there; Avraham Even-Shoshan favors it in his concordance of Biblical Hebrew,
+  as does Rabbi Dovid Tzvi Hoffmann (to Shemos 8:12).
+- At Bamidbar 13:33 it is Malbim who, in light of all that, suggests reading
+  *kein* as "louse": the *meraglim* felt themselves grasshoppers in their own
+  eyes and as insignificant as lice in the giants'.
 
 ## Distinctions
 
@@ -161,14 +166,18 @@ root instead.
 
 ### parosh (פרעש)
 David tells Shaul it is beneath a king to pursue him, comparing himself to a
-*parosh* (Shmuel I 24:15, 26:20). *Metzudas Tziyon* (to 24:15): a black *kinah*
-that jumps, which in ordinary speech is a flea. Ibn Saruk, Ibn Janach, and Radak
-treat the root as the four-letter פ-ר-ע-ש; Rav Hirsch (to Bereishis 25:6)
-includes it among four-letter roots that are really three-letter roots with a
-final shin added. Parosh also occurs in Tanach as a man's name, in lists of
-people from the start of the Second Temple period (Ezra 2:3, 8:3, 10:25;
-Nechemiah 3:25, 7:8, 10:15). On the possible differences between a *parosh* and a *kinah*, see
-Tosafos and *Tosafos HaRosh* to Shabbos 12a.
+*parosh* (Shmuel I 24:15, 26:20).
+
+- *Metzudas Tziyon* (to 24:15): a black *kinah* that jumps, which in ordinary
+  speech is a flea.
+- Ibn Saruk, Ibn Janach, and Radak treat the root as the four-letter פ-ר-ע-ש.
+- Rav Hirsch (to Bereishis 25:6) includes it among four-letter roots that are
+  really three-letter roots with a final shin added.
+
+Parosh also occurs in Tanach as a man's name, in lists of people from the start
+of the Second Temple period (Ezra 2:3, 8:3, 10:25; Nechemiah 3:25, 7:8, 10:15).
+On the possible differences between a *parosh* and a *kinah*, see Tosafos and
+*Tosafos HaRosh* to Shabbos 12a.
 
 ## Rendering guidance
 

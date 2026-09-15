@@ -84,15 +84,20 @@ The mask sense is post-Biblical either way.
 
 ### masveh (מסוה)
 Three times in Tanach, all in Shemos 34:29-35, of the covering over Moshe
-Rabbeinu's shining face. Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*): a fabric
-laid over the face with holes cut for the eyes, nose, and mouth. On the *suto*
-reading the literal sense of *masveh* is "clothing" or "fabric"; the word *sutot*
-in that sense appears in the Mishnah (Keilim 16:7), and the Rambam, in his
-commentary to the Mishnah there, connects it to the Biblical *suto*. Rabbi Shlomo
-Pappenheim ties *masveh* and *suto* to *stav*, autumn: soft, spongy fabrics worn
-against the cold, or cloths laid over one's clothes to keep them from dirt, as
-is commonly done in that season. Rabbi Ephraim Lenchitz uses *masveh* for the Ashkenazi
-Purim custom, and Rabbi Zerach Eidlitz uses *partzuf* and *masveh* both.
+Rabbeinu's shining face.
+
+- Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*): a fabric laid over the face
+  with holes cut for the eyes, nose, and mouth.
+- On the *suto* reading the literal sense of *masveh* is "clothing" or "fabric";
+  the word *sutot* in that sense appears in the Mishnah (Keilim 16:7), and the
+  Rambam, in his commentary to the Mishnah there, connects it to the Biblical
+  *suto*.
+- Rabbi Shlomo Pappenheim ties *masveh* and *suto* to *stav*, autumn: soft,
+  spongy fabrics worn against the cold, or cloths laid over one's clothes to
+  keep them from dirt, as is commonly done in that season.
+
+Rabbi Ephraim Lenchitz uses *masveh* for the Ashkenazi Purim custom, and Rabbi
+Zerach Eidlitz uses *partzuf* and *masveh* both.
 
 ### masechah (מסכה)
 In Tanach a cast-metal figure: *egel masechah*, the molten calf (Shemos 32:4,

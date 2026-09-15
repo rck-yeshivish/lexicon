@@ -65,10 +65,12 @@ Kutscher traces it to *katan*, "small."
 ## Distinctions
 
 ### pishtim (פשתים)
-The flax plant and the fiber it yields. Ralbag and Abarbanel (to Shemos 25:4):
-*pishtim* and *butz* name linen as a **material**, while *sheish* and *bahd* name
-particular **threads**. Rabbi Shlomo Pappenheim narrows *pishtah* / *pishtan*
-further, to the flax while it is still growing in the ground.
+The flax plant and the fiber it yields.
+
+- Ralbag and Abarbanel (to Shemos 25:4): *pishtim* and *butz* name linen as a
+  **material**, while *sheish* and *bahd* name particular **threads**.
+- Rabbi Shlomo Pappenheim narrows *pishtah* / *pishtan* further, to the flax
+  while it is still growing in the ground.
 
 ### sheish (שש)
 - Ralbag and Abarbanel: a thread of six fibers, the number being the word
@@ -80,22 +82,27 @@ further, to the flax while it is still growing in the ground.
 - Pappenheim reads *sheish* as combed linen strands not yet spun into thread,
   and ties the word to *shayish*, marble or limestone, for its smoothness.
 
-Two readings explain why Yoma 71b has to prove that *sheish* means linen. The
-Steipler Gaon (in a letter to Rabbi Moshe Mordechai Schulsinger, *Mishmar
-HaLevi*): *sheish* names a **color**, whitish, exactly as
-*techeiles*, *argaman* and *shni tolaas* in the Mishkan passages name colors and
-not materials; tradition supplies that those three are wool, and the Gemara has to
-establish that *sheish* is linen. Rabbi Dov Landau, to the same question: *sheish*
-is a general term for any dignified garment, so the Gemara must show that in
-these pesukim it means linen specifically.
+Two readings explain why Yoma 71b has to prove that *sheish* means linen.
+
+- The Steipler Gaon (in a letter to Rabbi Moshe Mordechai Schulsinger, *Mishmar
+  HaLevi*): *sheish* names a **color**, whitish, exactly as *techeiles*,
+  *argaman* and *shni tolaas* in the Mishkan passages name colors and not
+  materials; tradition supplies that those three are wool, and the Gemara has to
+  establish that *sheish* is linen.
+- Rabbi Dov Landau, to the same question: *sheish* is a general term for any
+  dignified garment, so the Gemara must show that in these pesukim it means
+  linen specifically.
 
 ### bahd (בד)
-From *bad*, alone, as in *levad* and *hisbodedus*. Ralbag and Abarbanel: a linen
-thread of a single fiber. Pappenheim: a garment made of linen, and it is called
-*bad*, "alone," because in those times linen fabric was never blended with
-another material, since nothing else held its dye the way linen did. Zevachim 18b
-establishes that *bahd* is linen; on the Steipler's account this is needed
-precisely because the word by itself only says "alone."
+From *bad*, alone, as in *levad* and *hisbodedus*.
+
+- Ralbag and Abarbanel: a linen thread of a single fiber.
+- Pappenheim: a garment made of linen, and it is called *bad*, "alone," because
+  in those times linen fabric was never blended with another material, since
+  nothing else held its dye the way linen did.
+
+Zevachim 18b establishes that *bahd* is linen; on the Steipler's account this is
+needed precisely because the word by itself only says "alone."
 
 ### butz (בוץ) and kitna (כיתנא)
 *Butz* is the later Hebrew and Aramaic word for fine linen; the Latin *byssus*,
@@ -116,24 +123,28 @@ biliteral ב-צ, a fluid of mucus-like consistency, also asserts that *butz*
 linen that grows in watery soil like that of a *bitzah*.
 
 ### cotton (כותנה, צמר גפן)
-Not a Biblical category. Cotton simply did not exist in the ancient Near East, so
-it makes sense that there would be no Biblical word for it. Some linguists argue
-that *karpas* (Esther 1:6) is a loanword from Persian, where it meant a cotton
-garment; the Greek *carbasus* and the Latin *karpasos* likewise refer to a cotton
-garment. Beside *chur* and *techeiles* there, *karpas* is fairly clearly some
-sort of fabric, and which sort is disputed. Rabbi Saadia Gaon (*Tafsir* to
-Esther 1:6) explains it as silk; Ibn Janach (*Sefer HaShorashim*) cites and
-rejects this, preferring a color, an explanation Rashi and Ibn Ezra adopt as
-well, and Radak adds that the color is specifically green, as do Ralbag and
-Rabbi Yosef Nechemias. Targum Rishon and Targum Sheini associate *karpas* with
-*karti*, leek. The Gemara (Megillah 12a) reads it as a portmanteau of *karim*,
-pillows or blankets, and *passim*, silk. Rabbi Dr. Ernest Klein, in his
-etymological dictionary, makes it a loanword from the Persian *karpas*, fine
-linen, which he derives from the Old Indian *kaprasa*, cotton, and the Greek
-*karpasos*, fine flax. Rabbinic Hebrew's common term is *tzemer gefen*, "vine wool," which happens
-to be quite similar to the German *baumwolle*, "tree-wool"; Rambam, in
-his commentary to Mishnah Kilayim 7:2, correctly renders *tzemer gefen* into
-Arabic as *al-qoton*.
+Not a Biblical category. Cotton simply did not exist in the ancient Near East,
+so it makes sense that there would be no Biblical word for it. Some linguists
+argue that *karpas* (Esther 1:6) is a loanword from Persian, where it meant a
+cotton garment; the Greek *carbasus* and the Latin *karpasos* likewise refer to
+a cotton garment. Beside *chur* and *techeiles* there, *karpas* is fairly
+clearly some sort of fabric, and which sort is disputed.
+
+- Rabbi Saadia Gaon (*Tafsir* to Esther 1:6) explains it as silk.
+- Ibn Janach (*Sefer HaShorashim*) cites and rejects this, preferring a color,
+  an explanation Rashi and Ibn Ezra adopt as well, and Radak adds that the color
+  is specifically green, as do Ralbag and Rabbi Yosef Nechemias.
+- Targum Rishon and Targum Sheini associate *karpas* with *karti*, leek.
+- The Gemara (Megillah 12a) reads it as a portmanteau of *karim*, pillows or
+  blankets, and *passim*, silk.
+- Rabbi Dr. Ernest Klein, in his etymological dictionary, makes it a loanword
+  from the Persian *karpas*, fine linen, which he derives from the Old Indian
+  *kaprasa*, cotton, and the Greek *karpasos*, fine flax.
+
+Rabbinic Hebrew's common term is *tzemer gefen*, "vine wool," which happens to
+be quite similar to the German *baumwolle*, "tree-wool"; Rambam, in his
+commentary to Mishnah Kilayim 7:2, correctly renders *tzemer gefen* into Arabic
+as *al-qoton*.
 
 Is the Modern Hebrew *kotna* then derived from the Semitic *kitna*, "linen"?
 Professor Kutscher answers no, resoundingly. He points to the English *cotton*,

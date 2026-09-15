@@ -110,18 +110,20 @@ d'Rabbi Nasan*, version 2, ch. 43.
   has not yet borne young, and a *lavi* one that has.
 
 ### gur (גור)
-Abarbanel (*Mashmia Yeshua*) cites Rabbi Yosef Ibn Kaspi: *gur* is allied to
-*ger*, a sojourner, because the cub's agility keeps it always on the move.
-Rashbam (to Bereishis 49:9): Yaakov compared Yehudah to a *gur aryeh* because a
-cub is faster and stronger than a grown lion.
+- Abarbanel (*Mashmia Yeshua*) cites Rabbi Yosef Ibn Kaspi: *gur* is allied to
+  *ger*, a sojourner, because the cub's agility keeps it always on the move.
+- Rashbam (to Bereishis 49:9): Yaakov compared Yehudah to a *gur aryeh* because
+  a cub is faster and stronger than a grown lion.
 
 ### kfir (כפיר)
-*Avos d'Rabbi Nasan*: an adolescent lion, so called because he denies (*kofer*)
-his parents. Rabbi Yechiel Michel Stern: a *kfir* is less fierce than an *aryeh*,
-which is why Michah 5:7 has the *kfir* falling on sheep, domesticated and
-defenseless, while the *aryeh* takes the beasts of the forest. Moreover, Tehillim
-104:21 has the *kfir* roaring to ask for its food, implying it is still too young
-to hunt. *Zohar* (Terumah 143a): a *kfir* is a small, weak lion.
+- *Avos d'Rabbi Nasan*: an adolescent lion, so called because he denies
+  (*kofer*) his parents.
+- Rabbi Yechiel Michel Stern: a *kfir* is less fierce than an *aryeh*, which is
+  why Michah 5:7 has the *kfir* falling on sheep, domesticated and defenseless,
+  while the *aryeh* takes the beasts of the forest. Moreover, Tehillim 104:21
+  has the *kfir* roaring to ask for its food, implying it is still too young to
+  hunt.
+- *Zohar* (Terumah 143a): a *kfir* is a small, weak lion.
 
 ### not lions at all
 - The Italian scholar Rabbi Yishaya of Trani (to Hoshea 13:8): *lavi* and

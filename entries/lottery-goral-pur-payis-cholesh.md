@@ -75,24 +75,29 @@ Yaakov Lorberbaum of Lissa: *goral* has a positive connotation, a lottery held
 for a beneficial purpose, receiving a portion as at a raffle.
 
 ### pur (פור)
-Esther 3:7: Haman "cast a *pur*, which is a *goral*." Four rishonim take the
-gloss at face value, that *pur* is a foreign word the Megillah renders into
-Hebrew: Rabbi Tuviah ben Eliezer (*Midrash Lekach Tov* to Esther 3:7), Rashbam
-(to Shemos 16:15), Ibn Ezra (to Esther 3:7), and Ramban (to Shemos 12:2). Rabbi
-Klein adds a query of his own, whether the word is Persian or Akkadian; some
-linguists derive *pur*, just as they derive *goral*, from a word for
-stone, in this case the Akkadian *puru*. Rabbi Yosef ben Yosef Ibn Nachmias adds
-why this one word out of the Megillah's many Persian words needed translating:
-the *yom tov* is named Purim after Haman's *pur* (Esther 9:26), so the word is too central to leave opaque.
+Esther 3:7: Haman "cast a *pur*, which is a *goral*."
 
-Two dissenting lines. Rabbi Yaakov Lorberbaum of Lissa keeps both words Hebrew
-and makes them opposites: *pur* is a lottery cast with malicious intent, tied to
-*por hisporerah ha'aretz* (Yeshayahu 24:19), the land breaking apart. The
-Megillah calls Haman's act a *pur* for his malice and a *goral* because from his
-own side he stood to gain, the property of the Jews he meant to kill. Maharitatz
-(Rabbi Yom Tov Tzahalon) has Haman hold two separate lotteries, a *goral* for
-which day to approach Achashverosh and a *pur* for which day to carry out the
-decree, though he does not say why each got the name it did.
+- Four rishonim take the gloss at face value, that *pur* is a foreign word the
+  Megillah renders into Hebrew: Rabbi Tuviah ben Eliezer (*Midrash Lekach Tov*
+  to Esther 3:7), Rashbam (to Shemos 16:15), Ibn Ezra (to Esther 3:7), and
+  Ramban (to Shemos 12:2).
+- Rabbi Klein adds a query of his own, whether the word is Persian or Akkadian;
+  some linguists derive *pur*, just as they derive *goral*, from a word for
+  stone, in this case the Akkadian *puru*.
+- Rabbi Yosef ben Yosef Ibn Nachmias adds why this one word out of the
+  Megillah's many Persian words needed translating: the *yom tov* is named Purim
+  after Haman's *pur* (Esther 9:26), so the word is too central to leave opaque.
+
+Two dissenting lines.
+
+- Rabbi Yaakov Lorberbaum of Lissa keeps both words Hebrew and makes them
+  opposites: *pur* is a lottery cast with malicious intent, tied to *por
+  hisporerah ha'aretz* (Yeshayahu 24:19), the land breaking apart. The Megillah
+  calls Haman's act a *pur* for his malice and a *goral* because from his own
+  side he stood to gain, the property of the Jews he meant to kill.
+- Maharitatz (Rabbi Yom Tov Tzahalon) has Haman hold two separate lotteries, a
+  *goral* for which day to approach Achashverosh and a *pur* for which day to
+  carry out the decree, though he does not say why each got the name it did.
 
 Rabbi Shlomo Pappenheim mentions the authorities who call *pur* Persian and
 disagrees with them: *pur* is Hebrew, from the biliteral פ-ר,
@@ -106,25 +111,32 @@ stone lots were put; in Mishnaic Hebrew that box is the *kalpi*.
 
 ### payis (פייס)
 The word the Mishnah and Gemara use for drawing lots, most prominently the
-lottery deciding which *kohanim* serve (*Yoma* 2:2-4). Some linguists argue that
-*payis* comes from the Persian *pisa* or the Greek *psefos*, "small rock," which
-would make it mean the same as *goral* and *pur*. Against that, *Tosafos Yom Tov*
-(Rabbi Yom Tov Lipmann Heller, to *Shabbos* 23:2) argues the etymology is Hebrew,
-from *piyus* ("appeasement"): the randomness of a lottery appeases everyone, since
-all have an equal chance. The Meiri (*Beis HaBechirah* to *Yoma* 22a) proposed a
-similar understanding, and earlier than both Rabbi Nosson of Rome in *Sefer
-HaAruch*, that a *payis* is a lottery whose purpose is to appease the entrants.
+lottery deciding which *kohanim* serve (*Yoma* 2:2-4).
+
+- Some linguists argue that *payis* comes from the Persian *pisa* or the Greek
+  *psefos*, "small rock," which would make it mean the same as *goral* and
+  *pur*.
+- Against that, *Tosafos Yom Tov* (Rabbi Yom Tov Lipmann Heller, to *Shabbos*
+  23:2) argues the etymology is Hebrew, from *piyus* ("appeasement"): the
+  randomness of a lottery appeases everyone, since all have an equal chance.
+- The Meiri (*Beis HaBechirah* to *Yoma* 22a) proposed a similar understanding,
+  and earlier than both Rabbi Nosson of Rome in *Sefer HaAruch*, that a *payis*
+  is a lottery whose purpose is to appease the entrants.
+
 In Modern Hebrew *payis* is the national lotto.
 
 ### cholesh (חולש)
 Yeshayahu 14:12 says Nevuchadnetzar was *cholesh* over the nations; the Gemara
 (*Shabbos* 149b) explains that he drew lots each day to pick which nation's
-royalty to victimize. Rabbi Shlomo HaAdani, a sixteenth-century commentator to
-the Mishnah, writes in *Meleches Shlomo* (to *Shabbos* 23:2) that *cholesh* is
-related to *lachash* ("whisper"), because, he claims, lotteries are generally
-cast in the quiet. Alternatively, Rabbi Yosef Yishai Rain suggests it is related
-to its Hebrew homonym *chalash* ("weak"): winning something in a raffle or
-lottery is weak proof that one really deserved it.
+royalty to victimize.
+
+- Rabbi Shlomo HaAdani, a sixteenth-century commentator to the Mishnah, writes
+  in *Meleches Shlomo* (to *Shabbos* 23:2) that *cholesh* is related to
+  *lachash* ("whisper"), because, he claims, lotteries are generally cast in the
+  quiet.
+- Alternatively, Rabbi Yosef Yishai Rain suggests it is related to its Hebrew
+  homonym *chalash* ("weak"): winning something in a raffle or lottery is weak
+  proof that one really deserved it.
 
 ### kalpi (קלפי) and chevel (חבל)
 *Kalpi* is the Mishnaic name for the box the lots are drawn from (*Yoma* 39a),

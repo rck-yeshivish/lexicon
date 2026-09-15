@@ -77,23 +77,26 @@ first plague, and that is what the meforshim are commenting on.
    Rav Hirsch (to Shemos 7:11): *lahat* is the shiny object
    that distracts the crowd, *lat* the quick hand while they are looking away.
 
-**Whether any of it worked.** Rabbi Saadia Gaon,
-Rabbeinu Chananel ben Chushiel, Rabbi Yehuda HaLevi, and Rabbi Avraham Maimuni
-deny *sheidim* and the efficacy of *kishuf*. On their reading "they also did so"
-does not mean the *chartumim* achieved what Moshe and Aharon achieved; they
-performed the speech-acts, but those dry actions created nothing new and only
-*seemed* to copy. Rav Saadia Gaon (*Emunos v'Deos*, maamar 3) and Ralbag (to Shemos 7:11, 7:22) accordingly
-take both words to mean something done in a concealed or clandestine way: the
-*chartumim* pulled off the illusion at the staff, the blood and the frogs, and at
-the lice could not manage even the illusion. The Vilna Gaon (*Biur HaGra*, Yoreh
-Deah 179:13) turns a variation of this question against the Maimonidean position
-on *kishuf*, noting that the Torah itself seemingly attests to the efficacy of the
-*chartumim*'s efforts. Rabbi David HaNaggid, the Rambam's great-great-grandson, in
-*Klil HaYofi* (to Shemos 7:11), answers: he assumes as an axiom that the
-*chartumim* did no more than an illusory ploy, and finds two dimensions in it,
-*lahat* the sleight of hand, and *lat* the arousing of the onlooker's imagination
-so that he thinks he sees what is not there, which relates to *sheidim* in the Rambam's
-sense (*Moreh Nevuchim* 3:46).
+**Whether any of it worked.**
+
+- Rabbi Saadia Gaon, Rabbeinu Chananel ben Chushiel, Rabbi Yehuda HaLevi, and
+  Rabbi Avraham Maimuni deny *sheidim* and the efficacy of *kishuf*. On their
+  reading "they also did so" does not mean the *chartumim* achieved what Moshe
+  and Aharon achieved; they performed the speech-acts, but those dry actions
+  created nothing new and only *seemed* to copy.
+- Rav Saadia Gaon (*Emunos v'Deos*, maamar 3) and Ralbag (to Shemos 7:11, 7:22)
+  accordingly take both words to mean something done in a concealed or
+  clandestine way: the *chartumim* pulled off the illusion at the staff, the
+  blood and the frogs, and at the lice could not manage even the illusion.
+- The Vilna Gaon (*Biur HaGra*, Yoreh Deah 179:13) turns a variation of this
+  question against the Maimonidean position on *kishuf*, noting that the Torah
+  itself seemingly attests to the efficacy of the *chartumim*'s efforts.
+- Rabbi David HaNaggid, the Rambam's great-great-grandson, in *Klil HaYofi* (to
+  Shemos 7:11), answers: he assumes as an axiom that the *chartumim* did no more
+  than an illusory ploy, and finds two dimensions in it, *lahat* the sleight of
+  hand, and *lat* the arousing of the onlooker's imagination so that he thinks
+  he sees what is not there, which relates to *sheidim* in the Rambam's sense
+  (*Moreh Nevuchim* 3:46).
 
 ## Distinctions
 
@@ -111,11 +114,12 @@ sense (*Moreh Nevuchim* 3:46).
   *lahat* was borrowed for the fast folding motion of a conjuror's hands.
 
 ### lat (לט)
-Ramban derives it from the biliteral ל-ט, "clandestine" (Shmuel I 18:22), fitting
-*sheidim*, whose presence men cannot ordinarily detect. Ibn Ezra points to
-Shoftim 4:21, Yael approaching Sisera *balat*, quietly. Rabbi Shlomo Pappenheim
-gets there through "folding" too: folded cloth conceals what is inside, and
-*lat* is the trick of folding a stone into a cloth and drawing out a bird.
+- Ramban derives it from the biliteral ל-ט, "clandestine" (Shmuel I 18:22),
+  fitting *sheidim*, whose presence men cannot ordinarily detect.
+- Ibn Ezra points to Shoftim 4:21, Yael approaching Sisera *balat*, quietly.
+- Rabbi Shlomo Pappenheim gets there through "folding" too: folded cloth
+  conceals what is inside, and *lat* is the trick of folding a stone into a
+  cloth and drawing out a bird.
 
 ### ittim (אטים)
 Yeshayahu 19:3, among Egypt's diviners.

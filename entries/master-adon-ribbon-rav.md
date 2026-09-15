@@ -86,13 +86,16 @@ master no less than a rebbi is his talmidim's.
 
 ### The two together in one berachah
 The morning berachah (*Berachos* 60b) calls Hashem *Ribbon kol hamaasim, Adon
-kol haneshamos*. The Vilna Gaon: the first clause speaks of His eminence in the
-physical, action-bound world, and takes the Aramaic word because Aramaic
-belongs to the outer, surface layer of existence; the second speaks of His
-dominion over the spiritual realm, and takes the Hebrew word because Hebrew,
-like that realm, reaches the essence of Creation. Rabbi Aharon Leib Steinman, a
-leader of contemporary Jewry, notes that here the Aramaic clause comes first,
-but does not elaborate on what follows from the observation.
+kol haneshamos*.
+
+- The Vilna Gaon: the first clause speaks of His eminence in the physical,
+  action-bound world, and takes the Aramaic word because Aramaic belongs to the
+  outer, surface layer of existence; the second speaks of His dominion over the
+  spiritual realm, and takes the Hebrew word because Hebrew, like that realm,
+  reaches the essence of Creation.
+- Rabbi Aharon Leib Steinman, a leader of contemporary Jewry, notes that here
+  the Aramaic clause comes first, but does not elaborate on what follows from
+  the observation.
 
 ## Rendering guidance
 

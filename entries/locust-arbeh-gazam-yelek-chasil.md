@@ -92,28 +92,30 @@ for every kind. It heads the four permitted species of Vayikra 11:22 (*arbeh*,
 as *govai*, as does the Targum to Yoel.
 
 ### gazam (גזם)
-Radak: from *gozez*, because it cuts the grain. First in Yoel's sequence: the
-*gazam* eats, and what it leaves the *arbeh* eats (Yoel 1:4). Targum: *zachala*,
-a crawling thing (compare Devarim 32:24, where the word means a snake).
-Rabbi Shlomo Pappenheim puts *gazam* under the biliteral ג-ז, shaving or
-trimming in a way that leaves some parts attached and some detached, alongside
-*geiz*, the grass that remains after trimming (Tehillim 72:6), and *gozez*,
-shearing wool (Bereishis 31:19, 38:12): the *gazam* is a type of grasshopper
-that eats some produce and leaves the rest.
+- Radak: from *gozez*, because it cuts the grain. First in Yoel's sequence: the
+  *gazam* eats, and what it leaves the *arbeh* eats (Yoel 1:4).
+- Targum: *zachala*, a crawling thing (compare Devarim 32:24, where the word
+  means a snake).
+- Rabbi Shlomo Pappenheim puts *gazam* under the biliteral ג-ז, shaving or
+  trimming in a way that leaves some parts attached and some detached, alongside
+  *geiz*, the grass that remains after trimming (Tehillim 72:6), and *gozez*,
+  shearing wool (Bereishis 31:19, 38:12): the *gazam* is a type of grasshopper
+  that eats some produce and leaves the rest.
 
 ### yelek (ילק)
-Radak: from *melakek*, to lick, for its habit of licking and chewing at the
-grass. Third in Yoel's sequence. Nachum 3:15 describes the *yelek* as one that
-"spreads out and flies away," and on that Malbim builds a life cycle: born as a
-kind of worm, then a cocoon, then emerging winged. Rabbi Klein adds that after
-consulting Ohr Somayach's resident zoologist, Rabbi Richard Jacobs, he has been
-unable to confirm that such a grasshopper exists. Targum: *parcha*, a flying
-thing.
+- Radak: from *melakek*, to lick, for its habit of licking and chewing at the
+  grass. Third in Yoel's sequence.
+- Nachum 3:15 describes the *yelek* as one that "spreads out and flies away,"
+  and on that Malbim builds a life cycle: born as a kind of worm, then a cocoon,
+  then emerging winged. Rabbi Klein adds that after consulting Ohr Somayach's
+  resident zoologist, Rabbi Richard Jacobs, he has been unable to confirm that
+  such a grasshopper exists.
+- Targum: *parcha*, a flying thing.
 
 ### chasil (חסיל)
-Radak: the one that finishes off (*chasal*) whatever produce remains, the word
-of *chasal siddur Pesach* and of a *siyum*. Last in Yoel's sequence. Targum:
-*shmota*.
+- Radak: the one that finishes off (*chasal*) whatever produce remains, the word
+  of *chasal siddur Pesach* and of a *siyum*. Last in Yoel's sequence.
+- Targum: *shmota*.
 
 ### chagav (חגב)
 One of the four permitted species (Vayikra 11:22), and, per Meiri (*Beis
@@ -130,26 +132,32 @@ pests, so called because they usually migrate from the north (*tzafon*) of Eretz
 Yisrael.
 
 ### tzlatzel (צלצל)
-Rashi (to Devarim 28:42 and Bava Kama 116b): another kind of grasshopper.
-Rabbeinu Bachya (to Devarim 28:42) and the commentary printed under Rashi's name
-to Divrei HaYamim I 13:8 tie the word to *metziltayim*, cymbals, for the din
-these insects make. *Pirush HaRokeach* connects grasshoppers to *tzel*, shade,
-since a swarm crossing the sky throws a shadow on the ground beneath. Against
-Rashi: Rav Saadia Gaon reads *tzlatzel* as butterflies, Ralbag as worms, and
-Ramban as the clamor of enemy armies, not an insect at all.
+- Rashi (to Devarim 28:42 and Bava Kama 116b): another kind of grasshopper.
+- Rabbeinu Bachya (to Devarim 28:42) and the commentary printed under Rashi's
+  name to Divrei HaYamim I 13:8 tie the word to *metziltayim*, cymbals, for the
+  din these insects make.
+- *Pirush HaRokeach* connects grasshoppers to *tzel*, shade, since a swarm
+  crossing the sky throws a shadow on the ground beneath.
+- Against Rashi: Rav Saadia Gaon reads *tzlatzel* as butterflies, Ralbag as
+  worms, and Ramban as the clamor of enemy armies, not an insect at all.
 
 ### chanamal (חנמל)
-Tehillim 78:47, in the retelling of the *makkos*. Rashi: grasshoppers. Other
-*meforshim*: a kind of hail.
+Tehillim 78:47, in the retelling of the *makkos*.
+
+- Rashi: grasshoppers.
+- Other *meforshim*: a kind of hail.
 
 ### How many were in Mitzrayim
-*Midrash HaGadol* (to Shemos 10:14): seven of the nine kinds made up the *makkah*
-of *arbeh*, namely *arbeh*, *sal'am*, *chargol*, *chagav*, *gazam*, *yelek* and
-*chasil*. Rabbi Menachem Tzioni, a fourteenth-century German mekubal, adds
-*chanamal* for eight, each of the eight containing a hundred sub-species, eight
-hundred in all; *Midrash Sechel Tov* has the same tradition with *tzlatzel* in
-place of *chanamal*. The number mirrors the Gemara's eight hundred kinds of
-*chagav*.
+- *Midrash HaGadol* (to Shemos 10:14): seven of the nine kinds made up the
+  *makkah* of *arbeh*, namely *arbeh*, *sal'am*, *chargol*, *chagav*, *gazam*,
+  *yelek* and *chasil*.
+- Rabbi Menachem Tzioni, a fourteenth-century German mekubal, adds *chanamal*
+  for eight, each of the eight containing a hundred sub-species, eight hundred
+  in all.
+- *Midrash Sechel Tov* has the same tradition with *tzlatzel* in place of
+  *chanamal*.
+
+The number mirrors the Gemara's eight hundred kinds of *chagav*.
 
 ## Rendering guidance
 

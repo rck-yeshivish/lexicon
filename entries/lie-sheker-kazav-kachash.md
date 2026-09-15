@@ -50,30 +50,33 @@ uvchazav* names two of them side by side.
 ## Distinctions
 
 ### sheker (שקר)
-The Torah's own word: *midvar sheker tirchak* (Shemos 23:7), and *lo
-teshakru* in the prohibition of Vayikra 19:11. Rabbi Yosef Albo (*Sefer
-HaIkkarim* 2:27) works from *emes*, truth, as the antonym of both *sheker* and
-*kazav*: truth requires agreement between the statement and reality, and
-between the mouth and the heart. *Sheker* is the break in the first, a
-statement out of joint with the way things are. Rabbi Yehuda Leib Edel presses
-him: if *sheker* is any objective untruth, how can the Torah forbid testifying
-*sheker* or swearing *sheker* (Vayikra 19:11-12), given that a man can present
-things only as he perceives them, and given that Shevuos 26a exempts one who
-swore falsely while thinking that what he said was true? To Rabbi Edel this
-suggests *sheker* must carry an element of advertent deceit. Rabbi Yaakov Tzvi
-Mecklenburg reaches the same place from the wording: the Torah writes *lo
-teshakru* and not *lo sechazvu*, which shows the prohibition covers deliberate
-lying and not mistaken lying (on his reading *kazav* is the mistaken lie, and
-*sheker* the purposeful or deceptive one). Rabbi Klein suggests, though, that
-Rabbi Albo may be defended by holding that the general definition of *sheker*
-does cover any objective untruth, inadvertent or wanton, and that
-the Gemara is applying a separate scriptural imperative, derived from Vayikra
-5:4, which limits the prohibition of false testimony and false oaths to one who
-perjures knowingly. On that defense Albo's broad *sheker* stands.
-Rav Hirsch (to Bereishis 9:21, 21:23, 43:11), taking kuf and kaf as
-interchangeable, joins *sheker* to *shikur*, a drunkard: as the drunk's
-imagination throws up what has no place in reality, *sheker* is what stands
-outside the real.
+The Torah's own word: *midvar sheker tirchak* (Shemos 23:7), and *lo teshakru*
+in the prohibition of Vayikra 19:11.
+
+- Rabbi Yosef Albo (*Sefer HaIkkarim* 2:27) works from *emes*, truth, as the
+  antonym of both *sheker* and *kazav*: truth requires agreement between the
+  statement and reality, and between the mouth and the heart. *Sheker* is the
+  break in the first, a statement out of joint with the way things are.
+- Rabbi Yehuda Leib Edel presses him: if *sheker* is any objective untruth, how
+  can the Torah forbid testifying *sheker* or swearing *sheker* (Vayikra
+  19:11-12), given that a man can present things only as he perceives them, and
+  given that Shevuos 26a exempts one who swore falsely while thinking that what
+  he said was true? To Rabbi Edel this suggests *sheker* must carry an element
+  of advertent deceit.
+- Rabbi Yaakov Tzvi Mecklenburg reaches the same place from the wording: the
+  Torah writes *lo teshakru* and not *lo sechazvu*, which shows the prohibition
+  covers deliberate lying and not mistaken lying (on his reading *kazav* is the
+  mistaken lie, and *sheker* the purposeful or deceptive one).
+- Rabbi Klein suggests, though, that Rabbi Albo may be defended by holding that
+  the general definition of *sheker* does cover any objective untruth,
+  inadvertent or wanton, and that the Gemara is applying a separate scriptural
+  imperative, derived from Vayikra 5:4, which limits the prohibition of false
+  testimony and false oaths to one who perjures knowingly. On that defense
+  Albo's broad *sheker* stands.
+- Rav Hirsch (to Bereishis 9:21, 21:23, 43:11), taking kuf and kaf as
+  interchangeable, joins *sheker* to *shikur*, a drunkard: as the drunk's
+  imagination throws up what has no place in reality, *sheker* is what stands
+  outside the real.
 
 ### kazav (כזב)
 Scripture uses it plainly for falsehood: "the remnant of Israel do no iniquity
