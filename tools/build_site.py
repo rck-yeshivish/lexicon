@@ -366,6 +366,9 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{html.escape(title)}</title>
 <meta name="description" content="A Hebrew-to-English translation guide: one entry per synonym cluster, every distinction attributed to the authority who draws it.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="{up}assets/{ASSETS["css"]}">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>א</text></svg>">
 </head>
@@ -399,12 +402,37 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 XREF = {}
 
 
+def glance_cards(mdtext):
+    """The At-a-glance table as one card per word, or "" if it is not the
+    standard four-column table (Hebrew | translit | English | what sets it
+    apart), in which case the caller renders the markdown as it stands."""
+    lines = [l.strip() for l in mdtext.strip().split("\n") if l.strip()]
+    if len(lines) < 3 or not all(l.startswith("|") for l in lines):
+        return ""
+    rows = [[c.strip() for c in l.strip("|").split("|")] for l in lines]
+    if [c.lower() for c in rows[0]] != ["hebrew", "translit", "english", "what sets it apart"] \
+            or any(len(r) != 4 for r in rows[2:]):
+        return ""
+    cards = []
+    for he, tr, en, d in rows[2:]:
+        # Attributions in parentheses, "(Malbim)", sit a shade darker so the
+        # authority behind each line can be picked out at a glance.
+        dhtml = re.sub(r"\(([A-Z][^()]*)\)", r'(<span class="who">\1</span>)', inline(d))
+        cards.append(f'<div class="wcard"><div class="wh" dir="rtl" lang="he">{inline(he)}</div>'
+                     f'<div class="wmeta"><span class="we">{inline(en)}</span>'
+                     f'<span class="wt">{inline(tr)}</span></div>'
+                     f'<div class="wd">{dhtml}</div></div>')
+    return '<div class="wcards">' + "".join(cards) + "</div>"
+
+
 def entry_page(e):
     # Lay the words out left to right in the same order as the At-a-glance table,
     # with each word marked RTL on its own. A single dir="rtl" block would be
     # correct Hebrew but would right-align the group away from the heading and
     # reverse it against the table beneath it.
-    heb = " &middot; ".join(f'<span dir="rtl">{html.escape(h)}</span>' for h in e["hebrew"][:6])
+    # No separator dots: where the line wraps on a phone a dot was left dangling
+    # at the end of a row. The wide gap alone keeps "הר האלהים" reading as one name.
+    heb = "".join(f'<span dir="rtl">{html.escape(h)}</span>' for h in e["hebrew"][:6])
     anchors = "".join(
         f'<span id="{html.escape(strip_heb(h))}"></span>' for h in e["hebrew"])
     parts = [f'''<article class="entry">
@@ -432,6 +460,9 @@ def entry_page(e):
             # the HTML still gets the full text.
             parts.append(f'<details class="guide"><summary><h2>{html.escape(headname)}</h2>'
                          f'<span class="guide-hint">For translators</span></summary>{md(mdtext)}</details>')
+            continue
+        if headname == "At a glance" and glance_cards(mdtext):
+            parts.append(f'<section class="glance"><h2>At a glance</h2>{glance_cards(mdtext)}</section>')
             continue
         parts.append(f'<section class="{cls}"><h2>{html.escape(headname)}</h2>{md(mdtext)}</section>')
     parts.append("</article>")
@@ -660,7 +691,7 @@ its neighbours' glosses are its own meaning.
 CSS = r""":root{
   --bg:#fbfbfd; --panel:#fff; --ink:#1d1d1f; --dim:#6e6e73; --faint:#86868b;
   --line:#e3e3e6; --accent:#0066cc; --accent-soft:#e8f0fe; --shadow:0 1px 3px rgba(0,0,0,.06),0 8px 28px rgba(0,0,0,.05);
-  --radius:14px; --heb:"SF Hebrew","Noto Sans Hebrew","Arial Hebrew","Times New Roman",serif;
+  --radius:14px; --heb:"Frank Ruhl Libre","SF Hebrew","Noto Sans Hebrew","Arial Hebrew","Times New Roman",serif;
   --brand:#14601f; --brand-sub:#2f6b3a;
 }
 @media (prefers-color-scheme:dark){:root{
@@ -878,8 +909,18 @@ header.bare .brand{flex:1}
 .prose h3{font-size:18px}
 .eyebrow{color:var(--faint);font-size:13px;text-transform:uppercase;letter-spacing:.07em;margin:0 0 8px}
 .entry h1{font-size:38px;letter-spacing:-.021em;font-weight:600;margin:0 0 6px;text-transform:capitalize}
-.heb-title{font-family:var(--heb);font-size:29px;color:var(--dim);margin:0 0 30px;
-  direction:ltr;text-align:left;display:flex;flex-wrap:wrap;gap:0 10px}
+.heb-title{font-family:var(--heb);font-size:32px;font-weight:500;line-height:1.3;color:var(--ink);
+  margin:0 0 30px;direction:ltr;text-align:left;display:flex;flex-wrap:wrap;align-items:baseline;gap:0 28px}
+.wcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
+.wcard{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px 16px}
+.wh{font-family:var(--heb);font-size:34px;font-weight:500;line-height:1.15;text-align:right}
+.wmeta{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:0 10px;
+  margin:6px 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+.we{font-weight:600;font-size:16px}
+.wt{font-style:italic;color:var(--dim);font-size:15px}
+.wd{font-size:15px;line-height:1.5;color:var(--dim)}
+.wd .who{color:var(--ink)}
+@media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:30px}.heb-title{font-size:27px;gap:0 22px}}
 .entry section{margin:0 0 34px}
 .entry h2{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
   font-weight:600;margin:0 0 12px;padding-bottom:8px;border-bottom:1px solid var(--line)}
