@@ -100,25 +100,27 @@ forbids her to all others as consecration forbids all men to benefit.
   Torah's perspective that added holiness does not yet exist and betrothal is
   simply *erusin*, a word implying nothing about holiness.
 
-Tosafos (to *Kiddushin* 2b) read *kiddushin* differently, from *kiddush* in the
-sense of preparing or designating (Shemos 19:10, Bamidbar 11:18); *kedeishah*, a
-harlot, is a cognate because she is set aside for a purpose (Rashi to Bereishis
-38:21 and Devarim 23:18). Others take *kedeishah* as related
-to the Akkadian *qadistu*, "woman of special status," a definition that fits
-both a harlot and a wife, which led Professor Shamma Friedman of the Academy of
-the Hebrew Language to entertain it as a possible etymology for *kiddushin*
-itself. Either way, these approaches hold that *kiddushin* has nothing to do
-with holiness or consecration as such. Two supports: Rabbi Aharon HaLevi of Barcelona
+- Tosafos (to *Kiddushin* 2b) read *kiddushin* differently, from *kiddush* in
+  the sense of preparing or designating (Shemos 19:10, Bamidbar 11:18);
+  *kedeishah*, a harlot, is a cognate because she is set aside for a purpose
+  (Rashi to Bereishis 38:21 and Devarim 23:18).
+- Others take *kedeishah* as related to the Akkadian *qadistu*, "woman of
+  special status," a definition that fits both a harlot and a wife, which led
+  Professor Shamma Friedman of the Academy of the Hebrew Language to entertain
+  it as a possible etymology for *kiddushin* itself.
+
+Either way, these approaches hold that *kiddushin* has nothing to do with
+holiness or consecration as such. Two supports: Rabbi Aharon HaLevi of Barcelona
 (*Chiddushei HaRa'ah* to *Kiddushin* 2b) and Rabbi Yosef Ibn Ezra (*Atzmos
 Yosef*) note that if *mekudeshes* meant consecrated, the groom would be
 forbidding her to himself, which he plainly does not intend; and Rabbi Eliezer
-Ashkenazi notes that consecration would call for *mukdeshes*, whereas the formula
-reads *mekudeshes*, set aside for him. Tosafos (to *Kiddushin* 7b) rule that
-one who betroths "half" a woman with the language of *kiddushin* effects a full
-betrothal, but one who uses the language of *erusin* effects only half. Rabbi
-Klein explains the ruling by what he calls their unspoken logic, the *hekdesh*
-paradigm: consecrating half an animal sanctifies all of it, and *kiddushin* is
-the term related to *hekdesh*.
+Ashkenazi notes that consecration would call for *mukdeshes*, whereas the
+formula reads *mekudeshes*, set aside for him. Tosafos (to *Kiddushin* 7b) rule
+that one who betroths "half" a woman with the language of *kiddushin* effects a
+full betrothal, but one who uses the language of *erusin* effects only half.
+Rabbi Klein explains the ruling by what he calls their unspoken logic, the
+*hekdesh* paradigm: consecrating half an animal sanctifies all of it, and
+*kiddushin* is the term related to *hekdesh*.
 
 Dr. Michael Satlow suggests that the Mishnaic *kiddushin* is a loanword from the
 Greek legal term *ekdosis*, the bride's father handing the girl over to her new

@@ -46,24 +46,28 @@ cited do not treat them as fully synonymous.
 ## Distinctions
 
 ### mitah (מטה)
-The common word. The root is disputed: Menachem ibn Saruk gives mem-tes; Radak
-(*Sefer HaShorashim*) gives mem-tes-tes or נ-ט-ה; Rabbi Shlomo Pappenheim
-(*Yerios Shlomo*, *Cheishek Shlomo*) gives tes-hei; Rabbi Aharon Marcus suggests
-the
-single letter tes, which he reads as movement to the side, gathering under it
-*stiyah* (deviation), *natah* (to incline), *titah* (turn aside), *tata*
-(broom), *tach* (plastering), *taah* (erred), and more. Every one of these yields
-the
-same sense: to incline or stretch out, which is what a man does with his body to
-lie down. The same phenomenon is found in Greek, where *kline*, a bed,
-derives from *klino*, to incline, slant or bend, and this Greek root
-underlies the English *recline*, *incline*, *climax*, *climate* and *clinic*.
-Malbim, in one place: *mitah* is any piece of furniture one lies or
-reclines on, a sofa, couch or loveseat included, while *eres* is specifically
-what one sleeps on.
-Rabbi Shlomo Aharon Wertheimer suggests that *mitah* is the wooden-framed bed. In
-Rabbinic
-usage *mitah* can also mean a bier or coffin.
+The common word. The root is disputed:
+
+- Menachem ibn Saruk gives mem-tes.
+- Radak (*Sefer HaShorashim*) gives mem-tes-tes or נ-ט-ה.
+- Rabbi Shlomo Pappenheim (*Yerios Shlomo*, *Cheishek Shlomo*) gives tes-hei.
+- Rabbi Aharon Marcus suggests the single letter tes, which he reads as movement
+  to the side, gathering under it *stiyah* (deviation), *natah* (to incline),
+  *titah* (turn aside), *tata* (broom), *tach* (plastering), *taah* (erred), and
+  more.
+
+Every one of these yields the same sense: to incline or stretch out, which is
+what a man does with his body to lie down. The same phenomenon is found in
+Greek, where *kline*, a bed, derives from *klino*, to incline, slant or bend,
+and this Greek root underlies the English *recline*, *incline*, *climax*,
+*climate* and *clinic*.
+
+- Malbim, in one place: *mitah* is any piece of furniture one lies or reclines
+  on, a sofa, couch or loveseat included, while *eres* is specifically what one
+  sleeps on.
+- Rabbi Shlomo Aharon Wertheimer suggests that *mitah* is the wooden-framed bed.
+
+In Rabbinic usage *mitah* can also mean a bier or coffin.
 
 ### eres (ערש / ערס)
 Nine appearances in Tanach, the famous one being Og's iron *eres* at Devarim
@@ -103,21 +107,21 @@ the Aramaic with a samech, letters that often interchange. Readings:
   though *mitah* too is used that way.
 
 ### the mussar and kabbalistic readings
-Rabbi Aviad Sar-Shalom Basilea (*Emunas Chachamim*) posits that *mitah* is
-typically the word for the
-bed of husband and wife, and so stands for the right balance of influencer and
-receiver, the man the influencing and initiating force, the woman the receiving
-and building one; it is therefore the word
-thematically evocative of *tzaddikim*, who keep that balance by recognizing
-their own receptive role before Hashem. *Eres*, by contrast, connotes the bed of
-the wicked, a connotation seen best in its use for the wicked
-Og. Rabbi Tzvi Hirsch Kaidanover (*Kav HaYashar*) likewise associates *eres* and
-*arisah* with the forces of
-evil, connecting *eres* with an ayin to its homophone *eres* with an aleph,
-poison, an allusion
-to the poisonous snake in Gan Eden that first brought sin into the world by
-enticing Chavah. In short, on these readings *mitah* is the bed of the righteous
-and *eres* the bed of the wicked.
+- Rabbi Aviad Sar-Shalom Basilea (*Emunas Chachamim*) posits that *mitah* is
+  typically the word for the bed of husband and wife, and so stands for the
+  right balance of influencer and receiver, the man the influencing and
+  initiating force, the woman the receiving and building one; it is therefore
+  the word thematically evocative of *tzaddikim*, who keep that balance by
+  recognizing their own receptive role before Hashem. *Eres*, by contrast,
+  connotes the bed of the wicked, a connotation seen best in its use for the
+  wicked Og.
+- Rabbi Tzvi Hirsch Kaidanover (*Kav HaYashar*) likewise associates *eres* and
+  *arisah* with the forces of evil, connecting *eres* with an ayin to its
+  homophone *eres* with an aleph, poison, an allusion to the poisonous snake in
+  Gan Eden that first brought sin into the world by enticing Chavah.
+
+In short, on these readings *mitah* is the bed of the righteous and *eres* the
+bed of the wicked.
 
 The Torah's use of *arisah* for the dough of *challah* (Bamidbar 15:21) has been
 read by some as a deliberate echo of *eres*: as one consecrates his dough and

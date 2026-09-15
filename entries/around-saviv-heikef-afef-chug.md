@@ -52,14 +52,15 @@ center, an orbit. Bare *saviv* may concede only an arc.
 ## Distinctions
 
 ### saviv (סביב)
-Malbim: *saviv* is not necessarily a complete circuit, though *saviv saviv* is.
-Rabbi Shlomo Pappenheim of Breslau: it means moving around a center in a curving
-way, and a semicircle or a mere arc qualifies. When Bnei Yisrael went *around*
-rather than through the land of the Pelishtim (Shemos 13:18) that is a *sivuv*,
-plainly not a full circle, because any roundabout movement whose purpose may be to
-avoid a point (that point being the center of the circle) can be called a *sivuv*. The word
-also works figuratively, of speaking in a roundabout way instead of coming to
-the point (Shmuel II 14:20).
+- Malbim: *saviv* is not necessarily a complete circuit, though *saviv saviv*
+  is.
+- Rabbi Shlomo Pappenheim of Breslau: it means moving around a center in a
+  curving way, and a semicircle or a mere arc qualifies. When Bnei Yisrael went
+  *around* rather than through the land of the Pelishtim (Shemos 13:18) that is
+  a *sivuv*, plainly not a full circle, because any roundabout movement whose
+  purpose may be to avoid a point (that point being the center of the circle)
+  can be called a *sivuv*. The word also works figuratively, of speaking in a
+  roundabout way instead of coming to the point (Shmuel II 14:20).
 
 Pappenheim adds that *saviv* words usually do mean full circles, and reads a
 family of words that way: *siv*, the fibrous bast wrapped around a palm's
@@ -90,20 +91,23 @@ always carries a negative sense, and the root is bound up with *pe'ah*, a corner
 (plural *pe'os*), because it is an enveloping from every corner at once.
 
 ### chug / chag (חוג / חג)
-Radak: a *chug* is what orbits around another body, as a planet does. Malbim:
-*chug* or *machug* is a circle considered from its center. A *chagorah*, a belt,
-is named for encircling the body.
+- Radak: a *chug* is what orbits around another body, as a planet does.
+- Malbim: *chug* or *machug* is a circle considered from its center.
 
-On *chag* as a festival, Rabbi Yom Tov Lipmann Heller: the word's original sense
-is a circle, evoking the circles of dance that mark a *yom tov* (*Sefer HeAruch*
-and Radak to Shmuel I 30:16 read similarly). On that basis he explains why, of
-the three the Torah calls a *chag*, the Mishnah's plain *chag* is Sukkos: it is
-the festival most identified with *simchah* (Devarim 16:15), and so with
-dancing. Rabbi Yaakov Tzvi Mecklenburg differs slightly: *chag* evokes the
-festive gait of the *olei regel* going up to Yerushalayim. Chanukah is never
-called a *chag*, which is why the customary greeting is not *chag sameach* but
-something on the order of the Yiddish *A Lichtege Chanuka*, an illuminating
-Chanukah.
+A *chagorah*, a belt, is named for encircling the body.
+
+- On *chag* as a festival, Rabbi Yom Tov Lipmann Heller: the word's original
+  sense is a circle, evoking the circles of dance that mark a *yom tov* (*Sefer
+  HeAruch* and Radak to Shmuel I 30:16 read similarly). On that basis he
+  explains why, of the three the Torah calls a *chag*, the Mishnah's plain
+  *chag* is Sukkos: it is the festival most identified with *simchah* (Devarim
+  16:15), and so with dancing.
+- Rabbi Yaakov Tzvi Mecklenburg differs slightly: *chag* evokes the festive gait
+  of the *olei regel* going up to Yerushalayim.
+
+Chanukah is never called a *chag*, which is why the customary greeting is not
+*chag sameach* but something on the order of the Yiddish *A Lichtege Chanuka*,
+an illuminating Chanukah.
 
 Rabbi Wolf Heidenheim: since *ches* and *ayin* sometimes interchange, *chag* is the same
 word as *ag*, circle. Hence *ugah*, a round food such as a cake; *agil*, an

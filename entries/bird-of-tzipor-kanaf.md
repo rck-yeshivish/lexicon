@@ -51,12 +51,15 @@ reads *kol kanaf* as including what *kol tzipor* had not covered.
 ## Distinctions
 
 ### of (עוף)
-Root ע-ו-ף, which also gives the verb "flies." Radak (to Bereishis): the general
-term for any flying creature, with *tzipor* and *kanaf* as classes under it.
-Rabbi Chanoch Zundel of Bialystok adds a character to it, on the model of the
-Gemara's own split between *behemah gasah* and *behemah dakah*: an *of* is a bird
-with strong wings, even if it is physically small, typically a predator, restless
-because it depends on nothing but itself and is always hunting its next meal.
+Root ע-ו-ף, which also gives the verb "flies."
+
+- Radak (to Bereishis): the general term for any flying creature, with *tzipor*
+  and *kanaf* as classes under it.
+- Rabbi Chanoch Zundel of Bialystok adds a character to it, on the model of the
+  Gemara's own split between *behemah gasah* and *behemah dakah*: an *of* is a
+  bird with strong wings, even if it is physically small, typically a predator,
+  restless because it depends on nothing but itself and is always hunting its
+  next meal.
 
 ### tzipor (ציפור)
 Root צ-פ-ר. Three readings, and the Tosafos Yom Tov notes the dispute:
@@ -84,14 +87,16 @@ believes only in his own hands is never at ease.
 
 ### kanaf (כנף)
 Root כ-נ-ף. Literally "wing," and used for a bird only by way of its wings, so
-its focus is the wing rather than the creature. Rashi to Bereishis 7:14: the
-clause *kol kanaf* comes to include every winged thing, grasshoppers among them,
-which *kol tzipor* had not covered. Radak makes it the class term for winged
-insects: grasshoppers, wasps, flies.
+its focus is the wing rather than the creature.
+
+- Rashi to Bereishis 7:14: the clause *kol kanaf* comes to include every winged
+  thing, grasshoppers among them, which *kol tzipor* had not covered.
+- Radak makes it the class term for winged insects: grasshoppers, wasps, flies.
+
 Rav Hirsch (to Bereishis 1:21 and 7:14, Vayikra 19:11), on the interchange of
 kaf with gimmel and of peh with beis, compares *kanaf* with *ganav*, thief: both
-involve hiding or concealing, since a wing covers part of the bird's body just as
-a thief steals in a hidden way; alternatively, the wing lets the bird soar so
+involve hiding or concealing, since a wing covers part of the bird's body just
+as a thief steals in a hidden way; alternatively, the wing lets the bird soar so
 high that it is hidden from plain sight, as the thief steals when nobody is
 looking.
 

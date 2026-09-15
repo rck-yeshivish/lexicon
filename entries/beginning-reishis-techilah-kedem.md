@@ -65,17 +65,21 @@ depend on that importance.
 The classical lexicographers take ר-א-ש as the root, giving *rosh*, *rishon* and
 *reishis* together. *Rosh* is the head anatomically and the head of a nation,
 tribe or unit; it also marks the opening of an expected series, *Rosh Chodesh*
-(Bamidbar 10:10, 28:11) and *Rosh HaShanah* (Yechezkel 40:1). Menachem Ibn Saruk
-(*Machberes Menachem*): *rosh* can also mean a count or tally, especially of
-people (Shemos 30:12; Bamidbar 31:49; Tehillim 139:17; Iyov 22:12). Rav Hirsch
-(to Shemos 30:12) reads that differently: *rosh* there is not the individuals
-counted but the final total, since as the head unites the body's parts, the
-number gathers all the units under one head. *Rosh* also means poison (Devarim
-29:17, 32:32-33; Iyov 20:16; Eichah 3:19, and more); Rav Hirsch (to Devarim
-29:17) holds it can come from both the plant and the animal kingdom, some read it as
-snake venom from the snake's *rosh* (Targum and Rashi to Yirmiyahu 8:14), and
-others take it as a poisonous plant, Rabbi Shlomo Pappenheim explaining that the
-plant in question has a round top that looks like a head.
+(Bamidbar 10:10, 28:11) and *Rosh HaShanah* (Yechezkel 40:1).
+
+- Menachem Ibn Saruk (*Machberes Menachem*): *rosh* can also mean a count or
+  tally, especially of people (Shemos 30:12; Bamidbar 31:49; Tehillim 139:17;
+  Iyov 22:12).
+- Rav Hirsch (to Shemos 30:12) reads that differently: *rosh* there is not the
+  individuals counted but the final total, since as the head unites the body's
+  parts, the number gathers all the units under one head.
+
+*Rosh* also means poison (Devarim 29:17, 32:32-33; Iyov 20:16; Eichah 3:19, and
+more); Rav Hirsch (to Devarim 29:17) holds it can come from both the plant and
+the animal kingdom, some read it as snake venom from the snake's *rosh* (Targum
+and Rashi to Yirmiyahu 8:14), and others take it as a poisonous plant, Rabbi
+Shlomo Pappenheim explaining that the plant in question has a round top that
+looks like a head.
 
 Rabbi Klein offers his own account, doubly hedged, of how these senses hang
 together: the anatomical head is perhaps the central sense, the head controls the

@@ -69,17 +69,17 @@ embroidery by stitching, which produces one. What that means is disputed.
 
 Neither the Gemara nor these commentators say what *charash* means here.
 
-Shadal reads the two words developmentally: *rokem* first meant a primitive
-patchwork done without a needle, drawing shapes on one cloth and somehow
-affixing that cloth to
-another, and he ties ר-ק-ם by metathesis to ק-ר-ם, *krum*, a membrane overlaying
-what is beneath. Later technique let one stitch the picture into the cloth
-itself, but the craftsman kept the old name; later still came the ability to
-form shapes within the weaving, work demanding real planning, and that craftsman
-is a *choshev*, cognate with *machshavah*. Rav Hirsch (to Shemos 26:1) runs
-parallel, linking ר-ק-ם to ר-ג-ם by the interchange of kuf and gimmel: just as
-*regem* is stoning a man by piling stones on him, so the *rokem*'s embroidered
-foreground appears piled on its background.
+- Shadal reads the two words developmentally: *rokem* first meant a primitive
+  patchwork done without a needle, drawing shapes on one cloth and somehow
+  affixing that cloth to another, and he ties ר-ק-ם by metathesis to ק-ר-ם,
+  *krum*, a membrane overlaying what is beneath. Later technique let one stitch
+  the picture into the cloth itself, but the craftsman kept the old name; later
+  still came the ability to form shapes within the weaving, work demanding real
+  planning, and that craftsman is a *choshev*, cognate with *machshavah*.
+- Rav Hirsch (to Shemos 26:1) runs parallel, linking ר-ק-ם to ר-ג-ם by the
+  interchange of kuf and gimmel: just as *regem* is stoning a man by piling
+  stones on him, so the *rokem*'s embroidered foreground appears piled on its
+  background.
 
 Radak (to Shoftim 5:30, Yechezkel 17:3, and in *Sefer HaShorashim*) defines
 *rokem* simply as one who weaves or sews a multicolored textile. Ibn Janach
@@ -131,15 +131,16 @@ Targum Onkelos gives all three separate Aramaic words: *charash* becomes *uman*,
 *choshev* becomes *nagar* (a carpenter in Modern Hebrew), *rokem* becomes
 *tzayar* (a painter in Modern Hebrew). None of the three is in Tanach, but
 *uman* is common in Mishnah (Bikkurim 3:3, Pesachim 4:6, Kiddushin 4:14,
-Sanhedrin 3:4, Avodah Zarah 5:7,
-Erachin 6:3, Taharos 7:3), and its close relative *aman* appears once (Shir
-HaShirim 7:2).
-*Machberes Menachem* takes *uman* as any craftsman; Radak (*Sefer HaShorashim*)
-implies that only an expert earns the title. In the Gemara an *uman* can be a
-bloodletter: Rashi (to Bava Basra 21a) explains the *uman* whom a Torah scholar's
-city must have as a bloodletter or barber, and the word means a bloodletter in
-Taanis 21b as well; elsewhere *umana* clearly refers to a ritual circumciser
-(Shabbos 133b).
+Sanhedrin 3:4, Avodah Zarah 5:7, Erachin 6:3, Taharos 7:3), and its close
+relative *aman* appears once (Shir HaShirim 7:2).
+
+- *Machberes Menachem* takes *uman* as any craftsman.
+- Radak (*Sefer HaShorashim*) implies that only an expert earns the title.
+
+In the Gemara an *uman* can be a bloodletter: Rashi (to Bava Basra 21a) explains
+the *uman* whom a Torah scholar's city must have as a bloodletter or barber, and
+the word means a bloodletter in Taanis 21b as well; elsewhere *umana* clearly
+refers to a ritual circumciser (Shabbos 133b).
 
 ### chacham charashim (חכם חרשים)
 Yeshayahu 3:3, among the pillars Yerushalayim would lose; *hecharash v'hamasger*

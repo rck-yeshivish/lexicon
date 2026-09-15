@@ -130,15 +130,18 @@ Rambam's Mishnah commentary at *Sheviis* 7:6 glosses *ketaf* as the balsam tree.
 Targum Onkelos renders both *tzari* and *nataf* as *ketaf*; Rabbi Saadia Gaon
 and Rabbi Avraham Maimuni render *nataf* as *al-balasan*.
 
-Whether Rabban Shimon ben Gamliel explains the earlier teaching or argues with
-it: Rashi (to Shemos 30:34 and *Kerisus* 6a) reads him as explaining; Ramban
-(there) reads Rambam as taking him to disagree, which would make *tzari* a piece
-of the tree itself rather than its oil (see *Mahari Kurkus* and *Kesef Mishneh*).
+Whether Rabban Shimon ben Gamliel explains the earlier teaching or argues with it:
+
+- Rashi (to Shemos 30:34 and *Kerisus* 6a) reads him as explaining.
+- Ramban (there) reads Rambam as taking him to disagree, which would make
+  *tzari* a piece of the tree itself rather than its oil (see *Mahari Kurkus*
+  and *Kesef Mishneh*).
+
 *Bereishis Rabbah* 91:11 identifies the *tzari* Yaakov sent to Mitzrayim
 (Bereishis 43:11) as *balsam*. That Rabbinic Hebrew word, like the English
 *balsam*, comes from the Greek *balsamon* and the Latin *balsamum*; the *Oxford
-English Dictionary* derives the English *balm*, an aromatic
-resinous substance, and *balmy*, mildly fragrant, from the same terms.
+English Dictionary* derives the English *balm*, an aromatic resinous substance,
+and *balmy*, mildly fragrant, from the same terms.
 
 ### bosem / besamim (בושם)
 The general word, thirty occurrences, for fragrant goods: perfumes, spices,
@@ -152,18 +155,18 @@ plant names are of Semitic origin; the generic Hebrew word for sweet-smelling
 goods was seemingly borrowed by the Greeks for one particular sweet-smelling
 product, balsam oil.
 
-Ramban (to Shemos 25:6 and 30:34) denies a root ב-ש-ם and reads *bosem* as
-a portmanteau of *bo*, in it, and *sam/samim*, potion or elixir. Rabbi Shlomo
-Pappenheim similarly
-traces it to the biliteral ס-ם, putting a thing in its place, since such tonics
-and potions are commonly stored in specifically designated places (though the
-bet is usually treated as a radical in Pappenheim's system of
-roots). Either way, when Chazal said one should become *besumei* on Purim
-(*Megillah* 7b), this seems to refer to intoxication from wine, the wine serving
-as the elixir that brings one to that state; others, including Rabbi Moshe ben
-Yekutiel of Rome (*Sefer HaTadir*) and Rabbi Yosef of Saragossa, a talmid of
-Rabbeinu Nissim of Gerona, explain it of drinking a quantity of scented (*bosem*)
-wine.
+- Ramban (to Shemos 25:6 and 30:34) denies a root ב-ש-ם and reads *bosem* as a
+  portmanteau of *bo*, in it, and *sam/samim*, potion or elixir.
+- Rabbi Shlomo Pappenheim similarly traces it to the biliteral ס-ם, putting a
+  thing in its place, since such tonics and potions are commonly stored in
+  specifically designated places (though the bet is usually treated as a radical
+  in Pappenheim's system of roots).
+
+Either way, when Chazal said one should become *besumei* on Purim (*Megillah*
+7b), this seems to refer to intoxication from wine, the wine serving as the
+elixir that brings one to that state; others, including Rabbi Moshe ben Yekutiel
+of Rome (*Sefer HaTadir*) and Rabbi Yosef of Saragossa, a talmid of Rabbeinu
+Nissim of Gerona, explain it of drinking a quantity of scented (*bosem*) wine.
 
 On how *bosem* became *balsamon*, there are three attempts.
 - Marcus Jastrow notes that an extra lamed was added to *bosem* to produce
@@ -175,13 +178,13 @@ On how *bosem* became *balsamon*, there are three attempts.
 - Others surmise that in some unknown early Semitic language *bosem* itself had
   a lamed before the sin.
 
-Earlier, before the derivation from *bosem* became widely accepted, Rabbi
-Binyamin Mussafia (*Mussaf HeAruch*) speculated that Greek *balsamon* came from
-the Hebrew *baal shemen*, master of oil, presumably invoking the interchange of
-shin and sin; Dr. Alexander Kohut (*HeAruch HaShaleim*) dismissed that on the
-ground that *baal shemen* appears nowhere else, and argued instead for the
-Hebrew *boles*, cutting, which occurs once in Tanach (Amos 7:14), together with
-*shemen*, oil.
+- Earlier, before the derivation from *bosem* became widely accepted, Rabbi
+  Binyamin Mussafia (*Mussaf HeAruch*) speculated that Greek *balsamon* came
+  from the Hebrew *baal shemen*, master of oil, presumably invoking the
+  interchange of shin and sin.
+- Dr. Alexander Kohut (*HeAruch HaShaleim*) dismissed that on the ground that
+  *baal shemen* appears nowhere else, and argued instead for the Hebrew *boles*,
+  cutting, which occurs once in Tanach (Amos 7:14), together with *shemen*, oil.
 
 ### afarsemon (אפרסמון) and opopalsamun
 *Afarsemon* (also *afarsema*) is the commonest Rabbinic word for balsam oil. It
@@ -204,20 +207,22 @@ read as
 *afarsemon* (*Bava Basra* 80b and *Rosh HaShanah* 23a on Yeshayahu 41:19; Rashi
 to Mishlei 27:9).
 
-On where *afarsemon* itself comes from, scholars hold that
-the Rabbinic Hebrew *balsam* seems to have been borrowed straight from Greek, while
-the Talmudic *afarsemon* was borrowed from Old Persian, which took it from
-Greek: drop the initial alef (often added to foreign words taken into Hebrew),
-swap the bet for a pei and the reish for a lamed, both interchangeable pairs,
-and *afarsemon* and *balsam* show as the same etymon. Alternatively,
-*afarsemon* may have come into Persian directly from the Hebrew *bosem*,
-with bet for pei and an added reish. Rabbi Yosef Teomim-Frankel roots the word
-instead in the Hebrew *pirsum* or *mefursam*, publicized, since
-balsam's good scent made it well known throughout the ancient world. In Modern
-Hebrew *afarsemon* means
-persimmon, a neologism that does not reflect the Rabbinic word: persimmons were
-unknown in ancient times, having first been found in North America, and the
-English *persimmon* comes from the Algonquin *pasimenan*, dried fruit.
+- On where *afarsemon* itself comes from, scholars hold that the Rabbinic Hebrew
+  *balsam* seems to have been borrowed straight from Greek, while the Talmudic
+  *afarsemon* was borrowed from Old Persian, which took it from Greek: drop the
+  initial alef (often added to foreign words taken into Hebrew), swap the bet
+  for a pei and the reish for a lamed, both interchangeable pairs, and
+  *afarsemon* and *balsam* show as the same etymon.
+- Alternatively, *afarsemon* may have come into Persian directly from the Hebrew
+  *bosem*, with bet for pei and an added reish.
+- Rabbi Yosef Teomim-Frankel roots the word instead in the Hebrew *pirsum* or
+  *mefursam*, publicized, since balsam's good scent made it well known
+  throughout the ancient world.
+
+In Modern Hebrew *afarsemon* means persimmon, a neologism that does not reflect
+the Rabbinic word: persimmons were unknown in ancient times, having first been
+found in North America, and the English *persimmon* comes from the Algonquin
+*pasimenan*, dried fruit.
 
 *Opopalsamun* is a third
 Rabbinic term, in *Bereishis Rabbah* 39:1 (Avraham likened to *opopalsamun*

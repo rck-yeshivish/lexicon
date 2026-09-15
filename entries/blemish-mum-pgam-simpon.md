@@ -61,18 +61,20 @@ negative, *lo meumah*, nothing at all (Bereishis 30:31, 39:23; Melachim I
 thing short of perfect: either lacking what completes it or carrying an extra
 that puts it past complete, which is equally a defect.
 
-Rabbi Ernest Klein: *mum* without an aleph likely comes from *mum* with one
-(Iyov 31:7; Daniel 1:4) or from *meumah*, a something or a point, first a speck
-on an otherwise clean surface and then any flaw. Rashi (to Bereishis 22:12)
-already links *mum* and *meumah* by derash. Rav Hirsch reads *meumah* as the
-smallest possible scrap of existence, a something barely larger than nothing,
-from the root א-מ, which gives *eim*, mother, the source of existence, and *im*,
-"if," the precondition for anything existing at all. The most popular etymology
-traces *meumah* instead to the biliteral מ-ה, whence *mah*, "what": Rabbi
-Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) makes it a contraction of *mah
-u'mah*, "what and what," and Wilhelm Gesenius offers the same etymology; Rabbi
-Ernest Klein cites it but rejects it on technical grounds, while Rabbi Reuven
-Chaim Klein treats *meumah* as relating back to *mah*.
+- Rabbi Ernest Klein: *mum* without an aleph likely comes from *mum* with one
+  (Iyov 31:7; Daniel 1:4) or from *meumah*, a something or a point, first a
+  speck on an otherwise clean surface and then any flaw. Rashi (to Bereishis
+  22:12) already links *mum* and *meumah* by derash.
+- Rav Hirsch reads *meumah* as the smallest possible scrap of existence, a
+  something barely larger than nothing, from the root א-מ, which gives *eim*,
+  mother, the source of existence, and *im*, "if," the precondition for anything
+  existing at all.
+- The most popular etymology traces *meumah* instead to the biliteral מ-ה,
+  whence *mah*, "what": Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*)
+  makes it a contraction of *mah u'mah*, "what and what," and Wilhelm Gesenius
+  offers the same etymology; Rabbi Ernest Klein cites it but rejects it on
+  technical grounds, while Rabbi Reuven Chaim Klein treats *meumah* as relating
+  back to *mah*.
 
 Beyond the physical, *mum* is used for a defect from sin (Devarim 32:5; Mishlei
 9:7), and in the Gemara for what disqualifies a man from sitting as a dayan,
@@ -80,19 +82,21 @@ where Rashi (to *Sanhedrin* 36b) explains it as a family *pgam*, a more abstract
 use than the biblical one.
 
 ### pgam (פגם)
-Rabbi Eliyahu HaBachur: the literal sense is a groove or crevice. So the *pgam*
-of the moon, the darkened part visible at certain points in its cycle (*Rosh
-HaShanah* 23b), and the nick in a knife that makes it unfit for shechitah
-(*Chullin* 10a, 17a). In that light, Rabbi Ernest Klein's contention that *pgam*
-is probably a cognate of the Arabic *fajama*, to break off a bit, makes good
-sense to Rabbi Reuven Chaim Klein. (Neither word has anything to do with the English
-"pajama," which comes from the Persian *pay*, leg, and *jameh*, garment.)
-Pappenheim traces it instead to the biliteral פ-ג, weakening: *vayafag libo*,
-Yaakov's heart went weak when told Yosef was alive (Bereishis 45:26), and *pag*,
-the unripe fig whose sweetness is still weak (Shir HaShirim 2:13); in modern
-Hebrew *pag* is a premature baby, and *pag* also gives the expiration date of, say,
-a coupon. On that reading every rabbinic use of *pgam* is a weakening of one kind
-or another, in taste, in a knife's blade, or in a girl's worth.
+- Rabbi Eliyahu HaBachur: the literal sense is a groove or crevice. So the
+  *pgam* of the moon, the darkened part visible at certain points in its cycle
+  (*Rosh HaShanah* 23b), and the nick in a knife that makes it unfit for
+  shechitah (*Chullin* 10a, 17a). In that light, Rabbi Ernest Klein's contention
+  that *pgam* is probably a cognate of the Arabic *fajama*, to break off a bit,
+  makes good sense to Rabbi Reuven Chaim Klein. (Neither word has anything to do
+  with the English "pajama," which comes from the Persian *pay*, leg, and
+  *jameh*, garment.)
+- Pappenheim traces it instead to the biliteral פ-ג, weakening: *vayafag libo*,
+  Yaakov's heart went weak when told Yosef was alive (Bereishis 45:26), and
+  *pag*, the unripe fig whose sweetness is still weak (Shir HaShirim 2:13); in
+  modern Hebrew *pag* is a premature baby, and *pag* also gives the expiration
+  date of, say, a coupon. On that reading every rabbinic use of *pgam* is a
+  weakening of one kind or another, in taste, in a knife's blade, or in a girl's
+  worth.
 
 The rabbinic uses all sit on "lacking" rather than "blemish":
 
@@ -132,15 +136,18 @@ already in the days of Daniel, citing *sumponia* there (Daniel 3:5, 3:10, 3:15).
    from *symphoneo*, agreement, and from there any stipulation, even one not
    written into the document, that can invalidate it.
 
-Rashi (to *Kiddushin* 10b, *Kesubos* 57b, *Bava Metzia* 20a): *simpon* means to
-cancel, and covers any clause capable of cancelling a deal, express or implied.
-The early commentary on Onkelos ascribed to Rabbi Yaakov Dienna (printed as
-*Patshegen*, *Tzintzenes HaMan*, and *Sefer HaYair*) offers a Semitic derivation
-instead, from ס-י-מ, erasing or destroying, with *pon* somehow pointing back to
-something from the past (Rabbi Reuven Chaim Klein flags that step as unexplained), and reaches
-the same result as Rashi: retroactive cancellation. On either
-account a physical defect in a kallah is one thing that can trigger a *simpon*,
-not what the word means.
+- Rashi (to *Kiddushin* 10b, *Kesubos* 57b, *Bava Metzia* 20a): *simpon* means
+  to cancel, and covers any clause capable of cancelling a deal, express or
+  implied.
+- The early commentary on Onkelos ascribed to Rabbi Yaakov Dienna (printed as
+  *Patshegen*, *Tzintzenes HaMan*, and *Sefer HaYair*) offers a Semitic
+  derivation instead, from ס-י-מ, erasing or destroying, with *pon* somehow
+  pointing back to something from the past (Rabbi Reuven Chaim Klein flags that
+  step as unexplained), and reaches the same result as Rashi: retroactive
+  cancellation.
+
+On either account a physical defect in a kallah is one thing that can trigger a
+*simpon*, not what the word means.
 
 ## Rendering guidance
 

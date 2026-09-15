@@ -82,19 +82,25 @@ consuming, destroying, burning, kindling, and foolishness.
   biblical *be'ir* is; on that basis Rabbi Shet bar Yefet (*Chemas HaChemdah* to
   Shemos 22:4) argues that *be'ir* is in fact Arabic and not Hebrew.
 
-Others read the bet of *be'ir* as no part of the root. Rabbi Shlomo Yehuda
-Rapoport, a son-in-law of the *Ketzos HaChoshen* who is typically counted a
-maskil, argues that *be'ir* should be read "in the city,"
-the bet being the prefix and *ir* the city, which he takes to reflect that
-*be'ir* means specifically the domesticated animals one would find in an urban
-setting, as against *behemah*, which can take in wild animals too (Tehillim 8:8).
-Similarly, Rabbi David Chaim Chelouche takes the core as ע-ר, "bare": the
-fool is bereft of the adornment of wisdom and so left bare, and the grazing
-animal bereaves the field of its produce and leaves it bare.
+Others read the bet of *be'ir* as no part of the root.
 
-**Which way the metaphor runs.** Edel and the Malbim: a *ba'ar* is so called
-because his want of intelligence makes him like a *be'ir*. *Ohalei Yehuda*
-reverses it: the animal behaves like a *ba'ar*. Either way, the connection may be alluded to in Tehillim 73:22.
+- Rabbi Shlomo Yehuda Rapoport, a son-in-law of the *Ketzos HaChoshen* who is
+  typically counted a maskil, argues that *be'ir* should be read "in the city,"
+  the bet being the prefix and *ir* the city, which he takes to reflect that
+  *be'ir* means specifically the domesticated animals one would find in an urban
+  setting, as against *behemah*, which can take in wild animals too (Tehillim
+  8:8).
+- Similarly, Rabbi David Chaim Chelouche takes the core as ע-ר, "bare": the fool
+  is bereft of the adornment of wisdom and so left bare, and the grazing animal
+  bereaves the field of its produce and leaves it bare.
+
+**Which way the metaphor runs.**
+
+- Edel and the Malbim: a *ba'ar* is so called because his want of intelligence
+  makes him like a *be'ir*.
+- *Ohalei Yehuda* reverses it: the animal behaves like a *ba'ar*.
+
+Either way, the connection may be alluded to in Tehillim 73:22.
 
 **What bur means.**
 - Some explain it as a cognate of the other Mishnaic *bur*, an uncultivated,
@@ -143,18 +149,19 @@ parses as a metathesized form of *boel* and Beor as a form of *be'ir* (*Meor
 Ha'Afeilah* to Bamidbar 22:2; *Yad Ramah* to Sanhedrin 105a).
 
 ### behemah (בהמה) and chayah (חיה)
-Rav Hirsch: *behemah* is related to *bamah*, an elevation or platform, since the
-animal subservient to man carries his menial work and so lifts him toward
-loftier things; alternatively animals are the lower rung of life, figuratively
-trodden upon by their servility to man, and he compares ב-ה-מ to פ-ע-מ,
-"stepping," by the interchange of bet with pei and hei with ayin. *Chayah* he
-takes from
-*chai*, life: the wild animal is an independent life-form, or alternatively animal life
-is a higher order than *tzomeach*. Rabbi Aharon Marcus derives *behemah* from
-the root ב-ה-ה, an onomatopoeic representation of a common animal sound
-("baaaa"), and links it to the ancient Latin and Old Irish *bo(s)*, related to
-the English *bovine*. For the fuller treatment of this pair, including
-Ramban's division by diet, see [animal](animal-behemah-chayah.html).
+- Rav Hirsch: *behemah* is related to *bamah*, an elevation or platform, since
+  the animal subservient to man carries his menial work and so lifts him toward
+  loftier things; alternatively animals are the lower rung of life, figuratively
+  trodden upon by their servility to man, and he compares ב-ה-מ to פ-ע-מ,
+  "stepping," by the interchange of bet with pei and hei with ayin. *Chayah* he
+  takes from *chai*, life: the wild animal is an independent life-form, or
+  alternatively animal life is a higher order than *tzomeach*.
+- Rabbi Aharon Marcus derives *behemah* from the root ב-ה-ה, an onomatopoeic
+  representation of a common animal sound ("baaaa"), and links it to the ancient
+  Latin and Old Irish *bo(s)*, related to the English *bovine*.
+
+For the fuller treatment of this pair, including Ramban's division by diet, see
+[animal](animal-behemah-chayah.html).
 
 ### ba'ar (בער) and bur (בור)
 *Ba'ar* is Biblical, *bur* Mishnaic. Avos 2:5: a *bur* cannot be a fearer of
