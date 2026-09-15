@@ -101,17 +101,19 @@ deceased's name is typically engraved on it.
   (Bereishis 9:19, Shmuel I 13:11).
 
 A verb cognate means to rest: when Hashem rested on the seventh day the Torah
-says *vayinafash* (Shemos 31:17), which Rashi explains as resting, since one
-who stops working gives his *nefesh* a chance to relax and catch its breath
-(*neshimah*). In Modern Hebrew *nofesh* is a vacation. Rav Hirsch (to Shemos
-31:17; see also his remarks to Bereishis 1:20, 9:4) defines the *nefesh* as a
-creature's unique individuality or personality, and so explains the link to
-rest: at work one toils in something outside oneself, while at rest one
-withdraws into one's own personality, and only then can one's individuality
-shine forth. Rabbi Chaim of Volozhin explains the rest sense through his
-glassblower (*Nefesh HaChaim* 1:15): the *nefesh* is the molten glass, the
-last stop of the Divine "air," so the verb cognates of *nefesh* also mean
-resting and stopping.
+says *vayinafash* (Shemos 31:17), which Rashi explains as resting, since one who
+stops working gives his *nefesh* a chance to relax and catch its breath
+(*neshimah*). In Modern Hebrew *nofesh* is a vacation.
+
+- Rav Hirsch (to Shemos 31:17; see also his remarks to Bereishis 1:20, 9:4)
+  defines the *nefesh* as a creature's unique individuality or personality, and
+  so explains the link to rest: at work one toils in something outside oneself,
+  while at rest one withdraws into one's own personality, and only then can
+  one's individuality shine forth.
+- Rabbi Chaim of Volozhin explains the rest sense through his glassblower
+  (*Nefesh HaChaim* 1:15): the *nefesh* is the molten glass, the last stop of
+  the Divine "air," so the verb cognates of *nefesh* also mean resting and
+  stopping.
 
 Its function:
 - in the Midrash (Bereishis Rabbah 14:9) the *nefesh* is blood or bodily
@@ -143,32 +145,36 @@ is the seat of desire, the Torah attributes man's sins to it (Vayikra 5:1,
 
 ### ruach (רוח)
 Root ר-ו-ח; with its various senses it appears in Tanach some 390 times.
-Rambam (Moreh 1:40): primarily the elemental air (Bereishis 1:2); borrowed
-from that for the winds (Shemos 10:13, 10:19), and, since the winds blow from
-four directions, for a direction or corner (Yechezkel 42:16, 42:18); also a
-life-giving spirit (Tehillim 78:39, Bereishis 7:15), which as such is what
-remains of a person after death, since it cannot be physically destroyed
-(Koheles 12:7). Raavad (to *Sefer Yetzirah*): *ruach* plainly does not mean
-the wind or air a person breathes, but a kind of spiritual engine that powers
-man and is energized directly by Hashem. Moshe twice calls Hashem אלקי הרוחות
-לכל בשר (Bamidbar 16:22, 27:16), as the One who grants that life-giving
-spirit. *Ruach* also means prophecy, a Divine influx of information (Bamidbar
-11:17, 11:25; Shmuel II 23:2), and, like *nefesh*, a person's likings and
-wants (Mishlei 29:11, Yeshayahu 19:3) and his temperament (Iyov 15:13, where
-it means anger).
 
-Rabbi Pappenheim folds all these senses into the two-letter root ר-ח, air: as
-air is light and almost indiscernible, *ruach* is the soul as something
-abstract and undetectable by the physical senses. From the same root he
-explains *revach*, open space, which is typically filled with air, and
-*yareach*, the moon, so called because its movements control the winds. Rav
-Hirsch (to Bereishis 8:21, Shemos 30:25) relates *ruach* to *reyach*, smell
-(ר-י-ח), and compares *reichayim*, millstone, and *rokach*, pulverization
-(ר-ק-ח, yod and kuf interchanging): *reyach* is primarily the tiny particles
-that emanate from things that smell, and so it relates to pulverizing and
-grinding, which reduce large objects to small bits. Rav Hirsch does not
-explain how this relates back to *ruach*; Rabbi Marcus writes that *ruach*
-derives from *reyach* because the winds carry smells from place to place.
+- Rambam (Moreh 1:40): primarily the elemental air (Bereishis 1:2); borrowed
+  from that for the winds (Shemos 10:13, 10:19), and, since the winds blow from
+  four directions, for a direction or corner (Yechezkel 42:16, 42:18); also a
+  life-giving spirit (Tehillim 78:39, Bereishis 7:15), which as such is what
+  remains of a person after death, since it cannot be physically destroyed
+  (Koheles 12:7).
+- Raavad (to *Sefer Yetzirah*): *ruach* plainly does not mean the wind or air a
+  person breathes, but a kind of spiritual engine that powers man and is
+  energized directly by Hashem.
+
+Moshe twice calls Hashem אלקי הרוחות לכל בשר (Bamidbar 16:22, 27:16), as the One
+who grants that life-giving spirit. *Ruach* also means prophecy, a Divine influx
+of information (Bamidbar 11:17, 11:25; Shmuel II 23:2), and, like *nefesh*, a
+person's likings and wants (Mishlei 29:11, Yeshayahu 19:3) and his temperament
+(Iyov 15:13, where it means anger).
+
+- Rabbi Pappenheim folds all these senses into the two-letter root ר-ח, air: as
+  air is light and almost indiscernible, *ruach* is the soul as something
+  abstract and undetectable by the physical senses. From the same root he
+  explains *revach*, open space, which is typically filled with air, and
+  *yareach*, the moon, so called because its movements control the winds.
+- Rav Hirsch (to Bereishis 8:21, Shemos 30:25) relates *ruach* to *reyach*,
+  smell (ר-י-ח), and compares *reichayim*, millstone, and *rokach*,
+  pulverization (ר-ק-ח, yod and kuf interchanging): *reyach* is primarily the
+  tiny particles that emanate from things that smell, and so it relates to
+  pulverizing and grinding, which reduce large objects to small bits. Rav Hirsch
+  does not explain how this relates back to *ruach*.
+- Rabbi Marcus writes that *ruach* derives from *reyach* because the winds carry
+  smells from place to place.
 
 Its function:
 - in the Midrash (Bereishis Rabbah 14:9), the soul's wind-like property, flying
@@ -283,11 +289,12 @@ one, and *yachad*, together, a single unit made of sub-units joined as one;
 *chidah*, a riddle, which requires sharpening the mind and bringing all its
 energy to bear on one question.
 
-The Midrash (Bereishis Rabbah 14:9): *chayah* is the transcendent nature of the
-soul, which continues to live when the body dies, and *yechidah* is its
-uniqueness, man's only limb that has no counterpart; Rabbi Klein holds that
-these clearly allude to the etymologies above. The Vilna Gaon (*Aderes
-Eliyahu* to Bereishis 2:7): *chayah* is the overall holistic life-force.
+- The Midrash (Bereishis Rabbah 14:9): *chayah* is the transcendent nature of
+  the soul, which continues to live when the body dies, and *yechidah* is its
+  uniqueness, man's only limb that has no counterpart; Rabbi Klein holds that
+  these clearly allude to the etymologies above.
+- The Vilna Gaon (*Aderes Eliyahu* to Bereishis 2:7): *chayah* is the overall
+  holistic life-force.
 
 Rabbi Yitzchak Karo, uncle of Rabbi Yosef Karo, explains the five names with
 two models. By the parts of the body they power: the *neshamah*, the head and

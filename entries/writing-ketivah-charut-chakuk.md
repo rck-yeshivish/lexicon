@@ -163,21 +163,24 @@ for making a hole: *charitz* (ditch) and *charuz* (stringing, threading, putting
 something through a hole; in later Hebrew, rhyming and versification).
 
 ### chakuk (חקוק)
-Rabbi Shlomo Pappenheim explains *chakuk* too as writing by engraving: digging
-small grooves with a metal stylus into a wooden or stone surface to represent
-letters (or pictures, pictographs, hieroglyphs). This is for him the core
-meaning of the biliteral ח-ק. He derives from it *chok*, the statute whose reason
-is not widely known: because the rationale is not obvious, the exact rules must
-be written down to preserve them, or they are likely to be forgotten. As a
-corollary the legislator is a *mechokek* (Bereishis 49:10; Devarim 33:21;
-Shoftim 5:9, 5:14; Tehillim 60:9), literally a digger or engraver (see Bamidbar
-21:18 in that literal sense), because he is the legal innovator who creates the
-need to write a law down and engrave it for posterity. Rabbi Shaul Goldman sees
-a more abstract link: engraving draws a border around the contours of a letter,
-as governing draws a legal line; so too *chok* in the sense of a quota
-apportions set amounts and draws the limits of those quantities. Outside Tanach,
-*chakuk* is the word Rabbi Yehuda HaLevi uses in his poem *Yom Shabbason* for the
-Shabbos command inscribed on the Luchos.
+- Rabbi Shlomo Pappenheim explains *chakuk* too as writing by engraving: digging
+  small grooves with a metal stylus into a wooden or stone surface to represent
+  letters (or pictures, pictographs, hieroglyphs). This is for him the core
+  meaning of the biliteral ח-ק. He derives from it *chok*, the statute whose
+  reason is not widely known: because the rationale is not obvious, the exact
+  rules must be written down to preserve them, or they are likely to be
+  forgotten. As a corollary the legislator is a *mechokek* (Bereishis 49:10;
+  Devarim 33:21; Shoftim 5:9, 5:14; Tehillim 60:9), literally a digger or
+  engraver (see Bamidbar 21:18 in that literal sense), because he is the legal
+  innovator who creates the need to write a law down and engrave it for
+  posterity.
+- Rabbi Shaul Goldman sees a more abstract link: engraving draws a border around
+  the contours of a letter, as governing draws a legal line; so too *chok* in
+  the sense of a quota apportions set amounts and draws the limits of those
+  quantities.
+
+Outside Tanach, *chakuk* is the word Rabbi Yehuda HaLevi uses in his poem *Yom
+Shabbason* for the Shabbos command inscribed on the Luchos.
 
 ### pasal (פסל)
 Named among the words for the writing on the Luchos, but technically
@@ -211,15 +214,18 @@ sources. The standard Targumic Aramaic for *pituchei chosam* is a form of
 *Mechilta* explains that one may not make a *gelufah*. The Zohar (*Yisro* 84b)
 uses *galif* of the writing on the Luchos, as does Hebrew poetry (for example, a
 *yotzer* for the second day of Pesach by Rabbi Meshullam bar Kalonymus of
-Lucca). Rabbi Yehoshua Steinberg of the Veromemanu Foundation suggests that
-ג-ל-ף is related to the Biblical Hebrew ג-ל-ב, barber (only once in Tanach,
-Yechezkel 5:1), by the interchange of peh and beis: a barber cuts hair as the
-engraver cuts into the writing surface. On the other hand Rabbi Ernest Klein (no
-relation to Rabbi Reuven Chaim Klein), in his etymological dictionary of Hebrew,
-takes the word as a Hebraization of Greek *glyphein*, to hollow out, engrave or
-carve, the source of English *glyph*. Linguists in turn derive the Greek from
-Proto-Indo-European *gleubh*, the ultimate source of English *cleave*, *clove*,
-*cleft* and *clever*.
+Lucca).
+
+- Rabbi Yehoshua Steinberg of the Veromemanu Foundation suggests that ג-ל-ף is
+  related to the Biblical Hebrew ג-ל-ב, barber (only once in Tanach, Yechezkel
+  5:1), by the interchange of peh and beis: a barber cuts hair as the engraver
+  cuts into the writing surface.
+- On the other hand Rabbi Ernest Klein (no relation to Rabbi Reuven Chaim
+  Klein), in his etymological dictionary of Hebrew, takes the word as a
+  Hebraization of Greek *glyphein*, to hollow out, engrave or carve, the source
+  of English *glyph*. Linguists in turn derive the Greek from
+  Proto-Indo-European *gleubh*, the ultimate source of English *cleave*,
+  *clove*, *cleft* and *clever*.
 
 ### resham (רשם)
 Another word in Tanach for writing or noting. The root ר-ש-ם appears seven

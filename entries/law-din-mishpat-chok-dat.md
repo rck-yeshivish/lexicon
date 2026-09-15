@@ -97,19 +97,19 @@ inseparable and everlasting, so *chok* is an unmitigated, unchanging law, which
 is why the word is so often joined to "forever" (Shemos 12:14, 30:21; Vayikra
 3:16, 23:14).
 
-Rabbi Eliyahu Menachem Margules (*Emunas Eliezer*): *chok* does not inherently
-mean a mitzvah with no known reason, but carries that implication through
-*chakuk*, engraved. Obedience out of rational understanding is conditional and
-lasts only while the reason holds; obedience out of commitment to Hashem's will
-is unconditional and so more engraved in the person, and the Mishnah's love that
-depends on nothing and is never lost (Avos 5:16) is the parallel. Rav Hirsch (to
-Tehillim 119:5): kuf interchanges with gimmel, so *chok* is kin to *chag*, at
-root a circle, and a *chok* encircles us with mitzvos and further chances to
-develop ourselves. The basis for that connection is a midrash (*Shemos
-Rabbah* 15:25) on "He told His words to Yaakov, His *chukim* and *mishpatim* to
-Yisrael" (Tehillim 147:19), which reads it of the yamim tovim, since the
-*chagim* are elsewhere called a *chok* (Tehillim 81:4-5) and their dates turn on
-the calendrical rulings of the court.
+- Rabbi Eliyahu Menachem Margules (*Emunas Eliezer*): *chok* does not inherently
+  mean a mitzvah with no known reason, but carries that implication through
+  *chakuk*, engraved. Obedience out of rational understanding is conditional and
+  lasts only while the reason holds; obedience out of commitment to Hashem's
+  will is unconditional and so more engraved in the person, and the Mishnah's
+  love that depends on nothing and is never lost (Avos 5:16) is the parallel.
+- Rav Hirsch (to Tehillim 119:5): kuf interchanges with gimmel, so *chok* is kin
+  to *chag*, at root a circle, and a *chok* encircles us with mitzvos and
+  further chances to develop ourselves. The basis for that connection is a
+  midrash (*Shemos Rabbah* 15:25) on "He told His words to Yaakov, His *chukim*
+  and *mishpatim* to Yisrael" (Tehillim 147:19), which reads it of the yamim
+  tovim, since the *chagim* are elsewhere called a *chok* (Tehillim 81:4-5) and
+  their dates turn on the calendrical rulings of the court.
 
 It might seem from all this that *chukim* outrank *mishpatim* and accomplish
 more. Rabbi Yisrael Salanter points out that in practice the reverse is
@@ -138,16 +138,19 @@ no such decision, the law being already set in stone.
 
 ### chok and mishpat as Written and Oral Torah
 Many sources tie the pair to the two Torahs, and they divide on which is which.
-Rabbi Berachiah Beirach Shapiro (*Zera Beirach*): *chok* alludes to the Written
-Torah, which is not fully explained, and *mishpat* to the Oral Torah, which
-reveals the logic behind the Written Torah's terse commandments. The *Zohar*
-(3:113a) takes the opposite view: *chok* is the Oral Torah and *mishpat* the
-Written. Rabbi Yaakov Tzvi Mecklenburg, explaining the *Zohar*, connects *chok*
-to *cheik*, the bosom, and so the middle or interior of a person, since what is
-engraved is cut into a thing's interior; the Written Torah is an accessible text
-with a plain sense on its surface and so corresponds to *mishpat*, while the
-Oral Torah digs into the interior for the less obvious meanings and so
-corresponds to *chok*. Both readings stand, neither preferred.
+
+- Rabbi Berachiah Beirach Shapiro (*Zera Beirach*): *chok* alludes to the
+  Written Torah, which is not fully explained, and *mishpat* to the Oral Torah,
+  which reveals the logic behind the Written Torah's terse commandments.
+- The *Zohar* (3:113a) takes the opposite view: *chok* is the Oral Torah and
+  *mishpat* the Written. Rabbi Yaakov Tzvi Mecklenburg, explaining the *Zohar*,
+  connects *chok* to *cheik*, the bosom, and so the middle or interior of a
+  person, since what is engraved is cut into a thing's interior; the Written
+  Torah is an accessible text with a plain sense on its surface and so
+  corresponds to *mishpat*, while the Oral Torah digs into the interior for the
+  less obvious meanings and so corresponds to *chok*.
+
+Both readings stand, neither preferred.
 
 ### din (דין)
 Root ד-י-ן.
@@ -248,34 +251,39 @@ original sense may have had nothing to do with religion as such.
   does not trouble him, since he finds Egyptian, Greek and possibly even Latin
   words in Chumash.
 
-**אשדת (Devarim 33:2).** The word is obscure, and Bible critics have dealt
-with it by a heretical emendation of the penultimate letter.
-The Masoretic tradition reads it as two words, *aish* and *dat*, and on that
-reading Ramban has a religion of fire, Onkelos a Torah given through fire, and
-Rashi the primordial Torah written in fire; Abarbanel has two faces to Torah, a
-fire that burns up sinners and a *dat*, a legal framework, for those who want to
-act justly. Rav Hirsch (to Devarim 33:2) derives *dat* from DALET-VAV-TAV,
-attested mainly in Mishnaic Hebrew: a *dut* is a cistern (Rosh HaShanah 3:7,
-Bava Basra 4:2, Keilim 5:6 and 7:1, Ohalos 5:6), always paired with *bor*, and
-unlike a *bor* dug into the ground a *dut* is built up at the level on which
-people walk, so that just as its life-giving water is easy to reach, *dat* gives
-guidance for life that a person can readily apply to himself. He explains *aish
-dat* from the ever-changing contours of a raging fire, which answer to the
-ever-shifting circumstances of life, the Torah being the gift that supplies
-guidance for every kind of situation. Hirsch further suggests, on the
-interchange of dalet and tav, a phonetic tie between *dat* and *dod*, an uncle
-being a close relative charged with the sort of help one expects from a parent,
-the implication being that Hashem gave the Torah as that kind of support against
-the *aish* of life; he suggests connecting *dud*, a pot, and *dad*, a breast, as
-well. A second stream takes אשדת as written, without splitting it. Shadal (to
-Devarim 33:2) reads it as a form of *ashdos* or *eshed*, a waterfall or
-mountain slope (Bamidbar 21:15; Devarim 3:17, 4:49; Yehoshua 10:40, 12:3, 12:8,
-13:20), from ALEPH-SHIN-DALET; his student Rabbi Moshe Tedeschi (*Otzar
-Nirdafim* §402) traces those to the Aramaic SHIN-DALET-ALEPH, pouring, the slope
-being where melted snow and canyon water pour out. Ibn Janach, in *Sefer
-HaShorashim*, had already rejected that root when Abu Omar Ibn Yaqwi, a Hebrew
-grammarian of Cordoba, argued it, and follows the Masoretic view that אשדת is a
-portmanteau of *aish* and *dat*.
+**אשדת (Devarim 33:2).** The word is obscure, and Bible critics have dealt with
+it by a heretical emendation of the penultimate letter.
+
+- The Masoretic tradition reads it as two words, *aish* and *dat*, and on that
+  reading Ramban has a religion of fire, Onkelos a Torah given through fire, and
+  Rashi the primordial Torah written in fire.
+- Abarbanel has two faces to Torah, a fire that burns up sinners and a *dat*, a
+  legal framework, for those who want to act justly.
+- Rav Hirsch (to Devarim 33:2) derives *dat* from DALET-VAV-TAV, attested mainly
+  in Mishnaic Hebrew: a *dut* is a cistern (Rosh HaShanah 3:7, Bava Basra 4:2,
+  Keilim 5:6 and 7:1, Ohalos 5:6), always paired with *bor*, and unlike a *bor*
+  dug into the ground a *dut* is built up at the level on which people walk, so
+  that just as its life-giving water is easy to reach, *dat* gives guidance for
+  life that a person can readily apply to himself. He explains *aish dat* from
+  the ever-changing contours of a raging fire, which answer to the ever-shifting
+  circumstances of life, the Torah being the gift that supplies guidance for
+  every kind of situation. Hirsch further suggests, on the interchange of dalet
+  and tav, a phonetic tie between *dat* and *dod*, an uncle being a close
+  relative charged with the sort of help one expects from a parent, the
+  implication being that Hashem gave the Torah as that kind of support against
+  the *aish* of life; he suggests connecting *dud*, a pot, and *dad*, a breast,
+  as well.
+
+A second stream takes אשדת as written, without splitting it.
+
+- Shadal (to Devarim 33:2) reads it as a form of *ashdos* or *eshed*, a
+  waterfall or mountain slope (Bamidbar 21:15; Devarim 3:17, 4:49; Yehoshua
+  10:40, 12:3, 12:8, 13:20), from ALEPH-SHIN-DALET; his student Rabbi Moshe
+  Tedeschi (*Otzar Nirdafim* §402) traces those to the Aramaic SHIN-DALET-ALEPH,
+  pouring, the slope being where melted snow and canyon water pour out.
+- Ibn Janach, in *Sefer HaShorashim*, had already rejected that root when Abu
+  Omar Ibn Yaqwi, a Hebrew grammarian of Cordoba, argued it, and follows the
+  Masoretic view that אשדת is a portmanteau of *aish* and *dat*.
 
 **Bedersi.** He does not treat *dat* and *din* as a pair at all. He discusses
 *din* as a possible synonym of *mishpat*, and two entries later treats *dat* as

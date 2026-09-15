@@ -64,9 +64,11 @@ near black, which in some later sources *seems* to mean **brown**; *chachlilei* 
 
 ## Where the authorities disagree
 
-**What *seruk* means.** Radak (to Zechariah 1:8 and *Sefer HaShorashim*) takes
-*serukim* as "colorful" in a generic sense, without saying which color; Malbim
-(to Zechariah 1:8) explains it as "pink" or "light red."
+**What *seruk* means.**
+
+- Radak (to Zechariah 1:8 and *Sefer HaShorashim*) takes *serukim* as "colorful"
+  in a generic sense, without saying which color.
+- Malbim (to Zechariah 1:8) explains it as "pink" or "light red."
 
 **Whether *chachlilei* is red.** Rabbi Moshe Tedeschi-Ashkenazi makes it the
 reddened white of the eye, from *kalil*, "crown"; others,
@@ -120,47 +122,52 @@ the Iranian word for red, which is itself seemingly bound up with worms, just no
 German town of that name.
 
 Why should *shani* share the root of *sheini*, "two"?
-Rabbi Yaakov Hibbert of Manchester *conjectures*, from the wording of
-the *Ohr HaChaim* (to Bereishis 38:28), that perhaps crimson relates to "two"
-because it was a string of that color that marked Zerach as the *second* son born
-to Yehudah and Tamar. Rabbi Moshe Tedeschi-Ashkenazi's *Otzar Nirdafim* and
-Rabbi Shlomo Pappenheim's *Cheshek Shlomo* both give a different explanation:
-cloth dyed this color was often dyed *twice*, so
-that the color would hold more strongly, and that is the link between *shani* and
-*sheini*.
+
+- Rabbi Yaakov Hibbert of Manchester *conjectures*, from the wording of the *Ohr
+  HaChaim* (to Bereishis 38:28), that perhaps crimson relates to "two" because
+  it was a string of that color that marked Zerach as the *second* son born to
+  Yehudah and Tamar.
+- Rabbi Moshe Tedeschi-Ashkenazi's *Otzar Nirdafim* and Rabbi Shlomo
+  Pappenheim's *Cheshek Shlomo* both give a different explanation: cloth dyed
+  this color was often dyed *twice*, so that the color would hold more strongly,
+  and that is the link between *shani* and *sheini*.
 
 ### chamutz (חמוץ) and amutz (אמוץ)
 Yeshayahu pictures Hashem taking revenge on Edom as one soiled from a bloodbath:
 "Who is this who comes from Edom, [the one with] soiled (*chamutz*) clothes from
 Batzrah... why are your garments red (*adom*), and your clothes like one who
-tramps in the winepress?" (Yeshayahu 63:1-2). Menachem Ibn Saruk (*Machberes
-Menachem*), Rabbi Yonah Ibn Janach (*Sefer HaShorashim*), and Radak (in his
-*Sefer HaShorashim* and to Yeshayahu 63:1) all write that *chamutz* means "red,"
-Radak noting that the meaning can be gleaned from the context, since that is the
-color of something stained in blood or wine. In that sense the word, a *hapax
-legomenon*, *seems* to have nothing to do with the other words from ח-מ-ץ, which
-can mean "leavened," "vinegar," "anger," or "stealing." Probably because of that,
-Rabbi Moshe Tedeschi-Ashkenazi writes that *chamutz* is really a metathesized
-form of the root מ-ח-ץ, "stab," "smite," "lacerate," since what that verb
-describes can leave a thing reddened with blood; and Radak himself agrees that
-*timchatz* (Tehillim 68:24), with those consonants in that order, also refers to
-becoming reddened.
+tramps in the winepress?" (Yeshayahu 63:1-2).
+
+- Menachem Ibn Saruk (*Machberes Menachem*), Rabbi Yonah Ibn Janach (*Sefer
+  HaShorashim*), and Radak (in his *Sefer HaShorashim* and to Yeshayahu 63:1)
+  all write that *chamutz* means "red," Radak noting that the meaning can be
+  gleaned from the context, since that is the color of something stained in
+  blood or wine. In that sense the word, a *hapax legomenon*, *seems* to have
+  nothing to do with the other words from ח-מ-ץ, which can mean "leavened,"
+  "vinegar," "anger," or "stealing."
+- Probably because of that, Rabbi Moshe Tedeschi-Ashkenazi writes that *chamutz*
+  is really a metathesized form of the root מ-ח-ץ, "stab," "smite," "lacerate,"
+  since what that verb describes can leave a thing reddened with blood; and
+  Radak himself agrees that *timchatz* (Tehillim 68:24), with those consonants
+  in that order, also refers to becoming reddened.
 
 Zechariah's *amutzim* horses (6:3) are the same word, since the guttural aleph
 and ches are often interchangeable (Ibn Janach, Radak), and since that vision
 also has *adumim* horses (6:2), Radak adds that *chamutz* / *amutz* differs from
-*adom* in not being as strong a red. Rabbi Moshe Tedeschi-Ashkenazi clarifies
-that the shade of *amutz* resembles the color of a chestnut, what we might call
-burgundy. He also *suggests* that the root א-מ-ץ in the sense of strength
-(*ometz* / *amatz*) may derive from this meaning, since in girding one's strength
-the red blood inside begins to boil in the red parts of the innards; Rabbi Reuven Chaim Klein
-remarks that he is not sure what this means. Similarly, Rabbi
-Pappenheim traces *amutzim* to the biliteral מ-צ, which he defines as
-sucking or squeezing, the root also of *mitz*, juice, *metzitzah*, sucking, and
-*ometz*, power, in the sense that using that force means squeezing out every last
-bit; red horses are *amutzim* because they exert so much effort that their blood
-rises to the surface of the skin as if squeezed out, which turns even their hairs
-red.
+*adom* in not being as strong a red.
+
+- Rabbi Moshe Tedeschi-Ashkenazi clarifies that the shade of *amutz* resembles
+  the color of a chestnut, what we might call burgundy. He also *suggests* that
+  the root א-מ-ץ in the sense of strength (*ometz* / *amatz*) may derive from
+  this meaning, since in girding one's strength the red blood inside begins to
+  boil in the red parts of the innards; Rabbi Reuven Chaim Klein remarks that he
+  is not sure what this means.
+- Similarly, Rabbi Pappenheim traces *amutzim* to the biliteral מ-צ, which he
+  defines as sucking or squeezing, the root also of *mitz*, juice, *metzitzah*,
+  sucking, and *ometz*, power, in the sense that using that force means
+  squeezing out every last bit; red horses are *amutzim* because they exert so
+  much effort that their blood rises to the surface of the skin as if squeezed
+  out, which turns even their hairs red.
 
 ### zerach (זרח), shining and red
 Rashbam and Chizkuni (to Bereishis 38:30) explain that the name Zerach means

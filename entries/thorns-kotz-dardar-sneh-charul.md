@@ -114,11 +114,13 @@ thistle as some define it, for Radak a grass-like thorn; *chedek* a **brier**.
 
 ### kotz (קוץ)
 Twelve times in Tanach as thorn, and at least once as a person's name (Divrei
-HaYamim I 4:8). The triliteralists Ibn Janach and Radak read ק-ו-צ; Menachem Ibn
-Saruk, a biliteralist, reads ק-צ. Rabbi Shlomo Pappenheim, another biliteralist,
-gives ק-צ the core sense of the end or conclusion of a thing (*keitz*, *ketzeh*,
-*katz*, *ketzitzah*, *kayitz*, *yekitzah*, *katzin*), so *kotz* is named for its
-many sharp ends.
+HaYamim I 4:8).
+
+- The triliteralists Ibn Janach and Radak read ק-ו-צ.
+- Menachem Ibn Saruk, a biliteralist, reads ק-צ.
+- Rabbi Shlomo Pappenheim, another biliteralist, gives ק-צ the core sense of the
+  end or conclusion of a thing (*keitz*, *ketzeh*, *katz*, *ketzitzah*,
+  *kayitz*, *yekitzah*, *katzin*), so *kotz* is named for its many sharp ends.
 
 ### dardar (דרדר)
 Twice, both times in the phrase *kotz v'dardar* of two different kinds of thorn
@@ -144,40 +146,46 @@ Six times, all of the Burning Bush (Shemos 3:2-4, Devarim 33:16).
   ש-ן, tooth, since the thorns on a branch look like sharp teeth.
 
 ### salon / silon (סלון)
-The commentators, among them Rashi and Mahari Kara, take *salonim* (Yechezkel
-2:6) as thorns, and Radak reads the pasuk as telling the navi not to fear the
-people or their jabs; the same commentators take *silon* (Yechezkel 28:24) as thorn too. Rabbi Pappenheim
-differentiates the two, both from ס-ל, repeated action: *salonim* are people
-who repeatedly bother and provoke, *silon* the thistle whose many spikes stab
-the one who holds it again and again.
+- The commentators, among them Rashi and Mahari Kara, take *salonim* (Yechezkel
+  2:6) as thorns, and Radak reads the pasuk as telling the navi not to fear the
+  people or their jabs; the same commentators take *silon* (Yechezkel 28:24) as
+  thorn too.
+- Rabbi Pappenheim differentiates the two, both from ס-ל, repeated action:
+  *salonim* are people who repeatedly bother and provoke, *silon* the thistle
+  whose many spikes stab the one who holds it again and again.
 
 ### choach (חוח), tzninim (צנינים)
 *Choach*: the rose among the *chochim* (Shir HaShirim 2:2). Lexicographers such
 as Radak and Rabbi Pappenheim relate it to *chach*, from ח-ח (or possibly the
-single letter ח), a piece of jewelry fastened with a pin; the pin's sharp
-point, Rabbi Klein reasons, would somehow recall a thorn.
-*Tzninim* (Bamidbar 33:55): *Ohalei Yehuda* relates it to *sneh*, most likely
-through the interchange of tzadi and samech. Rav Hirsch (to Tehillim 91:4)
-relates צ-נ to ש-נ, through the interchange of tzadi and shin, sharpness, as in
-*v'shinantam* and *shen*. Rabbi Pappenheim takes the core sense of צ-נ as thorn
-outright, whence *tzinah* (a spiked weapon), *tzinah* (sharp cold) and
-*tznumah* (grain damaged by cold). Where most commentators take *sikim* and
-*tzninim* as kinds of thorn, Rashbam (to Bamidbar 33:55) relates *tzninim* to
-*tzinah* in the sense of cold, without explaining how that fits the context;
-Rabbi Klein suggests that perhaps a sharp, stinging coldness is meant, which
-annoys a person and hampers his ability to accomplish more. So too, where most
-commentators take *tzinim* in Mishlei 22:5 as thorns, Rabbi Yosef Nechemias
-(there) and Radak (*Sefer HaShorashim*) understand it as cold.
+single letter ח), a piece of jewelry fastened with a pin; the pin's sharp point,
+Rabbi Klein reasons, would somehow recall a thorn.
+
+- *Tzninim* (Bamidbar 33:55): *Ohalei Yehuda* relates it to *sneh*, most likely
+  through the interchange of tzadi and samech.
+- Rav Hirsch (to Tehillim 91:4) relates צ-נ to ש-נ, through the interchange of
+  tzadi and shin, sharpness, as in *v'shinantam* and *shen*.
+- Rabbi Pappenheim takes the core sense of צ-נ as thorn outright, whence
+  *tzinah* (a spiked weapon), *tzinah* (sharp cold) and *tznumah* (grain damaged
+  by cold).
+- Where most commentators take *sikim* and *tzninim* as kinds of thorn, Rashbam
+  (to Bamidbar 33:55) relates *tzninim* to *tzinah* in the sense of cold,
+  without explaining how that fits the context; Rabbi Klein suggests that
+  perhaps a sharp, stinging coldness is meant, which annoys a person and hampers
+  his ability to accomplish more. So too, where most commentators take *tzinim*
+  in Mishlei 22:5 as thorns, Rabbi Yosef Nechemias (there) and Radak (*Sefer
+  HaShorashim*) understand it as cold.
 
 ### sirim (סירים), atad (אטד), chedek (חדק)
 *Sirim*, four times (Yeshayahu 34:13, Nachum 1:10, Koheles 7:6, Hoshea 2:8).
-Rashi (to Nachum 1:10) reports that some tie it to *hasarah*, removal, without
-explaining the connection; Rabbi Klein suggests perhaps the painful removal of
-thorns stuck in one's person, or clearing thorns from a place before one can
-enter it. Rabbi Pappenheim offers a more creative account: ס-ר is removing
-something from its place, *yissurin* and *mussar* are affliction meant to
-remove a person from his sinful state, and thorns are *sirim*, in a borrowed
-sense, as instruments of affliction.
+
+- Rashi (to Nachum 1:10) reports that some tie it to *hasarah*, removal, without
+  explaining the connection; Rabbi Klein suggests perhaps the painful removal of
+  thorns stuck in one's person, or clearing thorns from a place before one can
+  enter it.
+- Rabbi Pappenheim offers a more creative account: ס-ר is removing something
+  from its place, *yissurin* and *mussar* are affliction meant to remove a
+  person from his sinful state, and thorns are *sirim*, in a borrowed sense, as
+  instruments of affliction.
 
 *Atad*, four times as thorn (Tehillim 58:10, Shoftim 9:14-15), and the Targum's
 Aramaic for *dardar* (Targum to Bereishis 3:18, Hoshea 10:8). It gives *Goren
@@ -204,10 +212,10 @@ and Radak file it under ש-מ-ר, guarding, without saying how; *Shoresh Yesha*
 thorns, and thorns are what one fences a field with to guard it. (English
 *guard*, *yard* and *garden*, Rabbi Klein adds, are related.)
 
-*Shayit*: Ibn Janach writes that it has an Arabic cognate also meaning thorn.
-Rabbi Pappenheim: from ש-א-ה, uniformity, the root of *shoah*, destruction
-across the board, so thorns that grow in the ruins of desolate places (Rabbi
-Klein: a cactus, perhaps?).
+- *Shayit*: Ibn Janach writes that it has an Arabic cognate also meaning thorn.
+- Rabbi Pappenheim: from ש-א-ה, uniformity, the root of *shoah*, destruction
+  across the board, so thorns that grow in the ruins of desolate places (Rabbi
+  Klein: a cactus, perhaps?).
 
 *Barkan*, twice, both alongside *kotz* (Shoftim 8:7, 8:16). Menachem, Ibn
 Janach and Radak assign it to ב-ר-ק with *barak* (lightning, and a sword's
@@ -275,9 +283,10 @@ related to *sneh*, since palm branches are thorny, a point also made by Rabbi
 Pappenheim, Malbim (to Yechezkel 17:4) and Rabbi Yaakov Yehudah (Zilberberg) de
 Kassif (1914 to 2003).
 
-*Saravim* (Yechezkel 2:6): many commentators read it from *siruv*, refusal or
-rebellion; Donash Ibn Labrat makes it a thorn like *salonim*, and Rashi, citing
-him, adds offhand that there are twenty words for thorn.
+- *Saravim* (Yechezkel 2:6): many commentators read it from *siruv*, refusal or
+  rebellion.
+- Donash Ibn Labrat makes it a thorn like *salonim*, and Rashi, citing him, adds
+  offhand that there are twenty words for thorn.
 
 ### the other lists
 Yaakov Reifman and Rabbi Yechiel Michel Stern, the Rav of Ezras Torah, explaining

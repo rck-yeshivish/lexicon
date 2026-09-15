@@ -44,13 +44,17 @@ term.
 
 ### totafos (טוטפות)
 Three times in Chumash (Shemos 13:16, Devarim 6:8, 11:18), each time of the head
-alone. Targum Onkelos and Targum pseudo-Yonasan render it *tefillin*. A second
-early tradition among the ancient translations, that of Targum Neofiti and the
-Peshitta, renders it instead by the Aramaic or Syriac equivalent of *zikaron*,
-"remembrance," which implies they took the core meaning to be remembering; Ibn
-Ezra (to Shemos 13:16) echoes that approach. On that reading it
-is unclear what the etymological root of *totafos* might be, or even what language
-it comes from. Beyond that, several lines of explanation:
+alone.
+
+- Targum Onkelos and Targum pseudo-Yonasan render it *tefillin*.
+- A second early tradition among the ancient translations, that of Targum
+  Neofiti and the Peshitta, renders it instead by the Aramaic or Syriac
+  equivalent of *zikaron*, "remembrance," which implies they took the core
+  meaning to be remembering; Ibn Ezra (to Shemos 13:16) echoes that approach. On
+  that reading it is unclear what the etymological root of *totafos* might be,
+  or even what language it comes from.
+
+Beyond that, several lines of explanation:
 
 **An ornament worn on the forehead.** Tosafos (Menachos 34b) look for the word's
 cognates in Mishnaic Hebrew and find *totefes*, an article of women's jewelry
@@ -132,45 +136,47 @@ and arm, and the Mishnah's word for a single box is *tefillah* (Menachos 4:1,
 Keilim 16:7, 18:8, Mikvaos 10:2, 10:3-4); the possessive *tefillav*, "his
 tefillin," appears at Erchin 6:4.
 
-Tosafos (Menachos 34b), in the same passage that treats *totafos*, derive the
-word from פ-ל-ל, argument or proof: the tefillin are a tangible testament to the
-association of Klal Yisrael with Hashem. Similarly the Rosh (*Hilchos Tefillin*
-§2) and his son the Tur (*Orach Chaim* §25) take it from *plilah*, argument,
-since tefillin quell any argument about the specialness of Klal Yisrael, serving
-as a physical sign that Hashem rests His presence upon them. The Maharal (*Be'er
-HaGolah* §4:2) proposes that the root's core sense is intellectuality or
-thoughtfulness: *tefillah* is a thoughtful plea, judges are *pelilim* (Shemos
-21:22) because they use their minds to decide the law, and tefillin sit at the
-head and beside the heart to fix mind and heart on remembering Hashem; Rabbi
-Yaakov Emden (*Mor U'Ketziah, Orach Chaim* §25, and *Siddur Yaavetz* on the
-berachos before laying tefillin) and Rabbi Yisroel Lipshitz (*Tiferes Yisrael* to
-Menachos 4:1, *Yachin* §2) offer comparable explanations.
-
-Rabbi Nosson of Rome (1035-1106) in *Sefer HeAruch*, his lexicon of Rabbinic
-Hebrew, instead files *tefillin* under ת-פ-ל, and Rabbi Eliyahu Bachur
-(1469-1549) in *Sefer Tishbi* questions why he did not give the root as פ-ל-ל
-(the root Tosafos give). Explaining the Aruch's position, Dr. Alexander Kohut (1842-1894) in
-*HeAruch HaShaleim* argues that ת-פ-ל is a permutation of ט-פ-ל (*tafel*, a
-secondary element attached to a primary one), and refers to the way tefillin are
-attached or tied to a person's body. Rabbi Yosef Teomim-Frankel (1727-1792),
-author of the *Pri Megadim*, suggests in one of his epistles that *tefillin*
-likewise derives from ת-פ-ל in its sense of "unsalted": because one dons tefillin
-every single weekday the mitzvah becomes like something routine and bland, with no special taste
-to it, and one must perform it anyway simply because Hashem decreed so. He further
-suggests connecting *tefillin* to *pele*/*hafla'ah*, wonderment, exaggeration and
-separation, from the root פ-ל-(א); Rabbi Mecklenburg applies that to the way Klal
-Yisrael consciously separate themselves from the ways of evil and from impure
-thoughts by binding tefillin on, and Rabbi Mordechai Abadi (1826-1884) to the way
-only Klal Yisrael separate Hashem from everything else and single Him out by
-declaring His uniqueness. Rashi (to Bereishis 30:8) in fact connects *tefillah*
-with *pesil* and the root פ-ת-ל, thread or cord, twisted, wrestling; some read
-Yehudah's *ptil* (Bereishis 38:18, usually rendered "wick" but here generally
-understood as "belt") as his tefillin, *ptil* being readable as an anagram of
-*tefillin* (*Paneach Raza*, *Baal HaTurim* there), and *Noam Elimelech* (to
-Bamidbar 18:8), echoing Tosafos, reads tefillin as what ties Klal Yisrael to
-Hashem and Hashem to them. Indeed, the Gemara says that He too wears tefillin, whose
-contents declare the uniqueness of Klal Yisrael as ours declare His oneness
-(Berachos 6a).
+- Tosafos (Menachos 34b), in the same passage that treats *totafos*, derive the
+  word from פ-ל-ל, argument or proof: the tefillin are a tangible testament to
+  the association of Klal Yisrael with Hashem. Similarly the Rosh (*Hilchos
+  Tefillin* §2) and his son the Tur (*Orach Chaim* §25) take it from *plilah*,
+  argument, since tefillin quell any argument about the specialness of Klal
+  Yisrael, serving as a physical sign that Hashem rests His presence upon them.
+- The Maharal (*Be'er HaGolah* §4:2) proposes that the root's core sense is
+  intellectuality or thoughtfulness: *tefillah* is a thoughtful plea, judges are
+  *pelilim* (Shemos 21:22) because they use their minds to decide the law, and
+  tefillin sit at the head and beside the heart to fix mind and heart on
+  remembering Hashem; Rabbi Yaakov Emden (*Mor U'Ketziah, Orach Chaim* §25, and
+  *Siddur Yaavetz* on the berachos before laying tefillin) and Rabbi Yisroel
+  Lipshitz (*Tiferes Yisrael* to Menachos 4:1, *Yachin* §2) offer comparable
+  explanations.
+- Rabbi Nosson of Rome (1035-1106) in *Sefer HeAruch*, his lexicon of Rabbinic
+  Hebrew, instead files *tefillin* under ת-פ-ל, and Rabbi Eliyahu Bachur
+  (1469-1549) in *Sefer Tishbi* questions why he did not give the root as פ-ל-ל
+  (the root Tosafos give). Explaining the Aruch's position, Dr. Alexander Kohut
+  (1842-1894) in *HeAruch HaShaleim* argues that ת-פ-ל is a permutation of ט-פ-ל
+  (*tafel*, a secondary element attached to a primary one), and refers to the
+  way tefillin are attached or tied to a person's body.
+- Rabbi Yosef Teomim-Frankel (1727-1792), author of the *Pri Megadim*, suggests
+  in one of his epistles that *tefillin* likewise derives from ת-פ-ל in its
+  sense of "unsalted": because one dons tefillin every single weekday the
+  mitzvah becomes like something routine and bland, with no special taste to it,
+  and one must perform it anyway simply because Hashem decreed so. He further
+  suggests connecting *tefillin* to *pele*/*hafla'ah*, wonderment, exaggeration
+  and separation, from the root פ-ל-(א); Rabbi Mecklenburg applies that to the
+  way Klal Yisrael consciously separate themselves from the ways of evil and
+  from impure thoughts by binding tefillin on, and Rabbi Mordechai Abadi
+  (1826-1884) to the way only Klal Yisrael separate Hashem from everything else
+  and single Him out by declaring His uniqueness.
+- Rashi (to Bereishis 30:8) in fact connects *tefillah* with *pesil* and the
+  root פ-ת-ל, thread or cord, twisted, wrestling; some read Yehudah's *ptil*
+  (Bereishis 38:18, usually rendered "wick" but here generally understood as
+  "belt") as his tefillin, *ptil* being readable as an anagram of *tefillin*
+  (*Paneach Raza*, *Baal HaTurim* there), and *Noam Elimelech* (to Bamidbar
+  18:8), echoing Tosafos, reads tefillin as what ties Klal Yisrael to Hashem and
+  Hashem to them. Indeed, the Gemara says that He too wears tefillin, whose
+  contents declare the uniqueness of Klal Yisrael as ours declare His oneness
+  (Berachos 6a).
 
 Professor Moshe Weinfeld (1925-2009) notes that in the Aramaic writings found at
 Elephantine the term *tefillah* describes a silver amulet, and that in Ugaritic

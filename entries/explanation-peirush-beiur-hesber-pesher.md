@@ -123,20 +123,22 @@ advocacy.
 
 Similar Hebrew words might also account for the origin. The root ש-ב-ר appears
 ten times in Tanach, usually for waiting, anticipating or hoping (Tehillim
-145:15, 119:166, 104:27, 146:5), sometimes perhaps for planning or thinking (Esther 9:1).
-Shammai's *sever panim yafos* (Avos 1:15) spells the word with an opening samech,
-as a Biblical sin often becomes a rabbinic samech; per Meiri it means greeting
-people so cheerfully that they think you are glad to see them. Ibn Janach and
-Radak present the two senses as discrete meanings of one root, and Ibn Saruk
-lists only the first; Rabbi Reuven Chaim Klein bridges them by observing that waiting and
-hoping are done in the mind, so that all these verbs name abstract acts of
-thought. Rav Hirsch (to Tehillim 145:15): *sover* is a mental process that
-computes separate pieces of information and joins them into one complete, logical
-thought, so that one who puts his hope in Hashem concludes intellectually that He
-is the One who powers all of creation; by the interchange of bes and peh Rav
-Hirsch connects *sover* to *sofer*, counting, likewise a mental joining, and by
-the interchange of sin/samech with tzadi to *tzover*, gathering, the verb behind
-*tzibbur*.
+145:15, 119:166, 104:27, 146:5), sometimes perhaps for planning or thinking
+(Esther 9:1). Shammai's *sever panim yafos* (Avos 1:15) spells the word with an
+opening samech, as a Biblical sin often becomes a rabbinic samech; per Meiri it
+means greeting people so cheerfully that they think you are glad to see them.
+
+- Ibn Janach and Radak present the two senses as discrete meanings of one root,
+  and Ibn Saruk lists only the first.
+- Rabbi Reuven Chaim Klein bridges them by observing that waiting and hoping are
+  done in the mind, so that all these verbs name abstract acts of thought.
+- Rav Hirsch (to Tehillim 145:15): *sover* is a mental process that computes
+  separate pieces of information and joins them into one complete, logical
+  thought, so that one who puts his hope in Hashem concludes intellectually that
+  He is the One who powers all of creation; by the interchange of bes and peh
+  Rav Hirsch connects *sover* to *sofer*, counting, likewise a mental joining,
+  and by the interchange of sin/samech with tzadi to *tzover*, gathering, the
+  verb behind *tzibbur*.
 
 Rabbi Reuven Subar, whose surname may or may not be related to the word, proposes
 a way of splitting *hesber* from *beiur*: both relieve perplexity, but *beiur*
@@ -235,23 +237,27 @@ otherwise.
   *yashar*, straight, perhaps alluding to the part spoken mediation plays both
   in reaching correct interpretations and in reaching compromises.
 
-The root's apparent rabbinic offshoots: *psharah*, compromise, a conflict-resolution in
-which neither side wins outright and each gives something up to reach a happy
-medium (Rambam's commentary to Kesubos 10:6); and *efshar*, possible, on the
-assumption that its opening aleph is extraneous to the root. Rabbi Avraham Vilner
-(*Tirgem Avraham* to Bereishis 4:14) ties *efshar* to *pesher*, since a *pesher*
-solves a conundrum and what is merely "possible" is itself something of a
-conundrum, lying between the necessary and the impossible. Dr. Alexander Kohut
-(*Aruch HaShaleim*) likewise derives *efshar* from *pitaron* or *pesher*, as does
-Rabbi Chaim Gelernter of Kitov in his glosses to *Raglei Mivaser* on *Sefer
-HaTishbi*; Rabbi Dr. Ernest Klein rejects the etymology. Rabbi Vilner further
-gathers in *poshrim*, lukewarm water (Shabbos 20:3, Menachos 5:2, Parah 8:9,
-Niddah 7:1), and *posher*, dissolving or melting (Targum Onkelos to Shemos
-16:21), as middle states, neither hot nor cold and neither wholly solid nor
-wholly liquid, and the Aramaic *pashra*, an animal's cud (Targum Onkelos to
-Vayikra 11:3), as the middle stage between food eaten and food digested, though
-Rashi there ties *pashra* more directly to *posher*, dissolving and melting the
-food.
+The root's apparent rabbinic offshoots: *psharah*, compromise, a
+conflict-resolution in which neither side wins outright and each gives something
+up to reach a happy medium (Rambam's commentary to Kesubos 10:6); and *efshar*,
+possible, on the assumption that its opening aleph is extraneous to the root.
+
+- Rabbi Avraham Vilner (*Tirgem Avraham* to Bereishis 4:14) ties *efshar* to
+  *pesher*, since a *pesher* solves a conundrum and what is merely "possible" is
+  itself something of a conundrum, lying between the necessary and the
+  impossible.
+- Dr. Alexander Kohut (*Aruch HaShaleim*) likewise derives *efshar* from
+  *pitaron* or *pesher*, as does Rabbi Chaim Gelernter of Kitov in his glosses
+  to *Raglei Mivaser* on *Sefer HaTishbi*.
+- Rabbi Dr. Ernest Klein rejects the etymology.
+
+Rabbi Vilner further gathers in *poshrim*, lukewarm water (Shabbos 20:3,
+Menachos 5:2, Parah 8:9, Niddah 7:1), and *posher*, dissolving or melting
+(Targum Onkelos to Shemos 16:21), as middle states, neither hot nor cold and
+neither wholly solid nor wholly liquid, and the Aramaic *pashra*, an animal's
+cud (Targum Onkelos to Vayikra 11:3), as the middle stage between food eaten and
+food digested, though Rashi there ties *pashra* more directly to *posher*,
+dissolving and melting the food.
 
 ## Rendering guidance
 

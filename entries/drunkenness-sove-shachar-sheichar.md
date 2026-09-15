@@ -79,57 +79,66 @@ the drink that does it.
   *mem*.
 
 ### sava (סבא, as a noun)
-The same root as a noun for drink. Targum, Rashi (to *Bava Basra* 15b) and Rabbi
-Yosef Kara (to Yeshayahu 1:22, "your *sava* is diluted with water") take *sava*
-as wine; so does Rashi to Hoshea 4:18. Elsewhere Rashi seems to treat it as a
-general term for drinks (Yeshayahu 1:22, Nachum 1:10; and *savyuta*, wine
-merchants, at *Avodah Zarah* 77a). Rabbi Yosef Nechemias (to Mishlei 23:20):
-because drunkards are called *sovim*, the word *sava* came to refer to wine
-itself. Rabbi Shlomo Aharon Wertheimer explains the Yeshayahu charge sharply: a
-man drunk enough to be a *sava* is no longer sensitive to the taste of what he
-is drinking, so unsavory sellers serve him wine diluted with water at the full
-price of the unadulterated article, and he never realizes he has been cheated.
+The same root as a noun for drink.
+
+- Targum, Rashi (to *Bava Basra* 15b) and Rabbi Yosef Kara (to Yeshayahu 1:22,
+  "your *sava* is diluted with water") take *sava* as wine; so does Rashi to
+  Hoshea 4:18.
+- Elsewhere Rashi seems to treat it as a general term for drinks (Yeshayahu
+  1:22, Nachum 1:10; and *savyuta*, wine merchants, at *Avodah Zarah* 77a).
+- Rabbi Yosef Nechemias (to Mishlei 23:20): because drunkards are called
+  *sovim*, the word *sava* came to refer to wine itself.
+- Rabbi Shlomo Aharon Wertheimer explains the Yeshayahu charge sharply: a man
+  drunk enough to be a *sava* is no longer sensitive to the taste of what he is
+  drinking, so unsavory sellers serve him wine diluted with water at the full
+  price of the unadulterated article, and he never realizes he has been cheated.
 
 Sva, or Seba, is one of the sons of Kush (Bereishis 10:7; Divrei HaYamim I 1:9),
 and his descendants the Sabeans appear later alongside the Kushites (Yeshayahu
-43:3, 45:14). On the *savaim* of Yechezkel 23:42, Radak in his commentary reads
-that Sabean people, while in *Sefer HaShorashim* he writes that they were
-drunkards; Targum Yonasan and Rashi there read merchants who go around, taking
-*savaim* as a cognate of *sivuv*.
+43:3, 45:14).
+
+- On the *savaim* of Yechezkel 23:42, Radak in his commentary reads that Sabean
+  people, while in *Sefer HaShorashim* he writes that they were drunkards.
+- Targum Yonasan and Rashi there read merchants who go around, taking *savaim*
+  as a cognate of *sivuv*.
 
 ### shachar / sheichar (שכר)
-Root ש-כ-ר. The verb of getting drunk (Noach, *vayishkar*, Bereishis 9:21) occurs
-nineteen times in Tanach on Even-Shoshan's biblical concordance; the noun
+Root ש-כ-ר. The verb of getting drunk (Noach, *vayishkar*, Bereishis 9:21)
+occurs nineteen times in Tanach on Even-Shoshan's biblical concordance; the noun
 *shikaron*, drunkenness, appears in three places (Yirmiyahu 13:13; Yechezkel
 23:33 and 39:19), and is also the name of a town in Yehudah's territory
 (Yehoshua 15:11); post-biblical *shikur*, a drunkard, is the etymon of the
 Yiddish *shikker*. The noun *sheichar*, the beverage that renders one drunk,
-appears twenty-three times. Rabbi Moshe Tedeschi-Ashkenazi: strictly it is any intoxicating
-drink, but in Tanach it sometimes means strong wine in particular. Targum
-Onkelos and Rashi to Bamidbar 6:3 read it as aged wine against *yayin*, new
-wine; Rashi to Bamidbar 28:7 as intoxicating wine, and at *Zevachim* 91a he ties
-*sheichar* to *seviah*, satisfaction. It is as though the libation poured down
-the altar's pipes were satisfying the thirst of those hollow tubes. But sometimes
-*sheichar* in Tanach could refer to other intoxicating drinks: Vayikra 10:9
-forbids drinking *sheichar* before entering the Mikdash, and there is ample
-reason to hold that one may be liable even for other intoxicating substances
-besides wine (*Nazir* 4a, *Kerisus* 13b, Ramban to Vayikra 10:9). In Rabbinic
-Hebrew *sheichar* is what we call beer or mead (*Pesachim* 3:1).
+appears twenty-three times.
 
-Rav Hirsch (to Shemos 13:12) makes a comment Rabbi Klein calls somewhat cryptic,
-connecting *shachar* with *sheger*, *shir* and *sheker* on the
-interchangeability of *kaf*, *gimmel*, *yod* and *kuf*: all of them name
-something born from oneself, and Rav Hirsch gives no further detail. Dr. Lawrence
-Resnick (*1,000 Words*, which elucidates Rav Hirsch's word connections) spells
-it out as a production coming from within, mentally or physically: *sheger* is
-one's live offspring, the handiwork of one's own reproductive system; *shir* an
-enthusiastic expression of one's own mental vision; *shechar* the drunken state
-in which the imagination forms a reality of its own making; and *sheker* a
-falsehood consciously presented as true. Rabbi Aharon Marcus instead proposes
-that ש-כ-ר derives from the biliteral כ-ר(-כ-ר), dancing, with the initial *shin*
-peripheral to the stem, as in David *mecharker* before the Aron (Shmuel II 6:14,
-6:16): getting drunk brings on a dizziness as though the head were dancing
-around.
+- Rabbi Moshe Tedeschi-Ashkenazi: strictly it is any intoxicating drink, but in
+  Tanach it sometimes means strong wine in particular.
+- Targum Onkelos and Rashi to Bamidbar 6:3 read it as aged wine against *yayin*,
+  new wine; Rashi to Bamidbar 28:7 as intoxicating wine, and at *Zevachim* 91a
+  he ties *sheichar* to *seviah*, satisfaction. It is as though the libation
+  poured down the altar's pipes were satisfying the thirst of those hollow
+  tubes.
+
+But sometimes *sheichar* in Tanach could refer to other intoxicating drinks:
+Vayikra 10:9 forbids drinking *sheichar* before entering the Mikdash, and there
+is ample reason to hold that one may be liable even for other intoxicating
+substances besides wine (*Nazir* 4a, *Kerisus* 13b, Ramban to Vayikra 10:9). In
+Rabbinic Hebrew *sheichar* is what we call beer or mead (*Pesachim* 3:1).
+
+- Rav Hirsch (to Shemos 13:12) makes a comment Rabbi Klein calls somewhat
+  cryptic, connecting *shachar* with *sheger*, *shir* and *sheker* on the
+  interchangeability of *kaf*, *gimmel*, *yod* and *kuf*: all of them name
+  something born from oneself, and Rav Hirsch gives no further detail. Dr.
+  Lawrence Resnick (*1,000 Words*, which elucidates Rav Hirsch's word
+  connections) spells it out as a production coming from within, mentally or
+  physically: *sheger* is one's live offspring, the handiwork of one's own
+  reproductive system; *shir* an enthusiastic expression of one's own mental
+  vision; *shechar* the drunken state in which the imagination forms a reality
+  of its own making; and *sheker* a falsehood consciously presented as true.
+- Rabbi Aharon Marcus instead proposes that ש-כ-ר derives from the biliteral
+  כ-ר(-כ-ר), dancing, with the initial *shin* peripheral to the stem, as in
+  David *mecharker* before the Aron (Shmuel II 6:14, 6:16): getting drunk brings
+  on a dizziness as though the head were dancing around.
 
 ## Rendering guidance
 

@@ -69,15 +69,18 @@ and grain), and *smadar*
 
 ## Where the authorities disagree
 
-**Whether yayin and tirosh differ at all.** Some Bible scholars claim *tirosh*
-is an archaic word for wine that *yayin* later replaced; Rabbi Klein objects
-that this does not explain the difference, or why the newer word did not simply
-supersede the older. *Machberes Menachem* defines *yayin* as *tirosh*. Rabbi
-Yosef Kimchi (1105 to 1170), in *Sefer HaGalui*, objects that nobody ever
-doubted what *yayin* meant, and that defining it by *tirosh* adds nothing and is
-incorrect, which to Rabbi Klein suggests that Rabbi Kimchi did not take them as
-perfect synonyms. Yoma 76b already treats them as two words for two aspects of
-the drink (below).
+**Whether yayin and tirosh differ at all.**
+
+- Some Bible scholars claim *tirosh* is an archaic word for wine that *yayin*
+  later replaced; Rabbi Klein objects that this does not explain the difference,
+  or why the newer word did not simply supersede the older.
+- *Machberes Menachem* defines *yayin* as *tirosh*.
+- Rabbi Yosef Kimchi (1105 to 1170), in *Sefer HaGalui*, objects that nobody
+  ever doubted what *yayin* meant, and that defining it by *tirosh* adds nothing
+  and is incorrect, which to Rabbi Klein suggests that Rabbi Kimchi did not take
+  them as perfect synonyms.
+- Yoma 76b already treats them as two words for two aspects of the drink
+  (below).
 
 **How they differ.**
 - (1) **Age.** An earlier tradition makes *yayin* old wine and *tirosh* new:
@@ -254,39 +257,48 @@ donkey, be reincarnated as one, and come to proposition one in the marketplace
 (after Kesubos 65a).
 
 ### sove, sava (סבא)
-The rebellious son is *zollel v'sove* (Devarim 21:20); the Mishnah (Sanhedrin
-8:2) and Targum Onkelos take *zollel* as gorging on meat and *sove* as binging
-on wine, as the two words are used in Mishlei 23:20. From that alone *sove*
-would mean "drunk," as Ibn Janach and Radak explain it in their *Sefer
-HaShorashim*. But in Yeshayahu 1:22, "your *sava* is diluted with water," the
-Targum, Rashi (to Bava Basra 15b) and Rabbi Yosef Kara take *sava* as wine, and
-Ibn Janach and Radak agree on that verse (see also Rashi to Avodah Zarah 71a:
-*savyuta*, wine merchants). Rabbi Yosef Nechemias (to Mishlei 23:20): since
-drunkards are called *sovim*, *sava* came to mean wine itself. Rabbi Pappenheim
-traces *sove* to the biliteral ס-ב, circling, since the drunkard circles the
-streets for his next drink (so *sivuv*, *saviv*, *mesibah*, *seivah*, *saba*).
-*Ohalei Yehuda* relates *sava* to its homonym שבע, satiated: wine satisfies
-hunger, or conversely strong wine does not quench thirst, and on that last
-point he even considers a link to *tzamah*, thirst, through the interchange of
-tzadi with samech and bet with mem.
+- The rebellious son is *zollel v'sove* (Devarim 21:20); the Mishnah (Sanhedrin
+  8:2) and Targum Onkelos take *zollel* as gorging on meat and *sove* as binging
+  on wine, as the two words are used in Mishlei 23:20. From that alone *sove*
+  would mean "drunk," as Ibn Janach and Radak explain it in their *Sefer
+  HaShorashim*.
+- But in Yeshayahu 1:22, "your *sava* is diluted with water," the Targum, Rashi
+  (to Bava Basra 15b) and Rabbi Yosef Kara take *sava* as wine, and Ibn Janach
+  and Radak agree on that verse (see also Rashi to Avodah Zarah 71a: *savyuta*,
+  wine merchants).
+- Rabbi Yosef Nechemias (to Mishlei 23:20): since drunkards are called *sovim*,
+  *sava* came to mean wine itself.
+- Rabbi Pappenheim traces *sove* to the biliteral ס-ב, circling, since the
+  drunkard circles the streets for his next drink (so *sivuv*, *saviv*,
+  *mesibah*, *seivah*, *saba*).
+- *Ohalei Yehuda* relates *sava* to its homonym שבע, satiated: wine satisfies
+  hunger, or conversely strong wine does not quench thirst, and on that last
+  point he even considers a link to *tzamah*, thirst, through the interchange of
+  tzadi with samech and bet with mem.
 
 ### assis (עסיס), mel'ayah and dim'ah (מלאה, דמע), smadar (סמדר)
 Rabbi Moshe Ibn Ezra derives *assis* from *issui*, "squeeze, press, knead,"
 seemingly after the process that extracts wine from grapes; in Modern Hebrew
 *asisi* is "juicy" and *issui* a massage. Shemos 22:28 warns against delaying
-the tithes of *mel'ayah* and *dim'ah*. Targum Yonasan renders *mel'ayah* as
-*chamra*, and so Rabbi Shlomo of Urbino (*Ohel Moed*, a lexicon of synonyms)
-lists it as a word for wine; Rabbi Klein finds it fairly explicit elsewhere
-(Bamidbar 18:27) that *mel'ayah* means wine. *Midrash Chefetz* (to Shemos
-22:28) takes it as grapes, "filled" (*maleh*) with wine; other commentators,
-including Rashbam and Rabbi Yosef Bechor Shor, take *mel'ayah* as grain (compare
-Devarim 22:9) and *dim'ah* as wine (or oil). Menachem Ibn Saruk: *dim'ah* is
-filtered wine without sediment, clear as tears (*dim'ah*). Either way, Rabbi
-Klein concludes, there seems to be at least one more Biblical word for wine (see
-*Torah Shleimah* to Shemos 22:28 §478). *Smadar*: on the strength of Symmachus' Greek translation of Shir
-HaShirim 2:13, 2:15 and 7:13, Dr. Edward Kutscher claims it is a kind of wine;
-in the Mishnah (Orlah 1:7; Gittin 3:8) it clearly means unripe grapes, and that
-is its classic definition.
+the tithes of *mel'ayah* and *dim'ah*.
+
+- Targum Yonasan renders *mel'ayah* as *chamra*, and so Rabbi Shlomo of Urbino
+  (*Ohel Moed*, a lexicon of synonyms) lists it as a word for wine; Rabbi Klein
+  finds it fairly explicit elsewhere (Bamidbar 18:27) that *mel'ayah* means
+  wine.
+- *Midrash Chefetz* (to Shemos 22:28) takes it as grapes, "filled" (*maleh*)
+  with wine; other commentators, including Rashbam and Rabbi Yosef Bechor Shor,
+  take *mel'ayah* as grain (compare Devarim 22:9) and *dim'ah* as wine (or oil).
+- Menachem Ibn Saruk: *dim'ah* is filtered wine without sediment, clear as tears
+  (*dim'ah*).
+
+Either way, Rabbi Klein concludes, there seems to be at least one more Biblical
+word for wine (see *Torah Shleimah* to Shemos 22:28 §478).
+
+*Smadar*: on the strength of Symmachus' Greek translation of Shir HaShirim 2:13,
+2:15 and 7:13, Dr. Edward Kutscher claims it is a kind of wine; in the Mishnah
+(Orlah 1:7; Gittin 3:8) it clearly means unripe grapes, and that is its classic
+definition.
 
 ## Rendering guidance
 
