@@ -469,13 +469,10 @@ def entry_page(e):
         def tag(m):
             n = len(subs) + 1
             text = m.group(1)
-            he = re.search(r"\(([^()]*[֐-׿][^()]*)\)\s*$", text)
-            # Only "name (Hebrew)"; a heading naming two words keeps its text.
-            if he and "(" not in text[:he.start()]:
-                label = (f'<span class="th" dir="rtl" lang="he">{he.group(1)}</span>'
-                         f'<span class="tt">{text[:he.start()].strip()}</span>')
-            else:
-                label = f'<span class="tt">{text}</span>'
+            # The heading as written, in one style for every link. Pulling the
+            # Hebrew out to the front only worked for "name (Hebrew)" headings,
+            # and the rail came out mixed wherever a heading was shaped otherwise.
+            label = f'<span class="tt">{text}</span>'
             subs.append((f"d-{n}", label, re.sub(r"<[^>]+>", "", text)))
             return f'<h3 id="d-{n}">{text}</h3>'
         return re.sub(r"<h3>(.*?)</h3>", tag, block), subs
@@ -1007,10 +1004,8 @@ header.bare .brand{flex:1}
   .toc a.on{color:var(--accent);border-left-color:var(--accent)}
   .toc ul ul a{padding:3px 0 3px 22px;display:flex;align-items:baseline;gap:7px;
     white-space:nowrap;overflow:hidden}
-  .toc .th{font-family:var(--heb);font-size:17px;color:var(--ink)}
-  .toc a.on .th{color:var(--accent)}
   .toc .tt{overflow:hidden;text-overflow:ellipsis}
-  .toc .th+.tt{font-size:12.5px;color:var(--faint);font-style:italic}
+  .toc bdi[lang="he"]{font-size:1.12em}
 }
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
 @media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:24px}.heb-title{font-size:26px;gap:0 22px}}
