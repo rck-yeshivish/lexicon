@@ -92,21 +92,27 @@ gazelle (49:21), Binyamin to a wolf (49:27). What, then, did he call Yissachar?
    way, so a donkey "caused" Yissachar to be born.
 
 **Yigarem (Bamidbar 24:8).** Bilam's blessing that Israel will consume their
-enemies "and their bones *yigarem*." Menachem Ibn Saruk (*Machberes Menachem*):
-ג-ר-מ has two senses, bone and breaking, and here it means they will break them;
-Rashi cites him. Rashi himself prefers gnawing: scraping (*gorer*) the meat off
-the bone with the teeth and sucking out the marrow, leaving the bone bare (see
-also Rashi to Yechezkel 23:34).
+enemies "and their bones *yigarem*."
+
+- Menachem Ibn Saruk (*Machberes Menachem*): ג-ר-מ has two senses, bone and
+  breaking, and here it means they will break them; Rashi cites him.
+- Rashi himself prefers gnawing: scraping (*gorer*) the meat off the bone with
+  the teeth and sucking out the marrow, leaving the bone bare (see also Rashi to
+  Yechezkel 23:34).
 
 **Germani (Negaim 2:1).** The Mishnah says the whitest shade of *tzaraas* looks
-dim on the skin of a *germani*. Rambam (commentary to the Mishnah) and Rabbi
-Tanchum HaYerushalmi (*HaMadrich HaMaspik*) derive the word from *gerem*, since
-bones are white, so a *germani* is a man of especially white skin. The Vilna Gaon
-(*Shenos Eliyahu* there) does not accept this and takes *germani* as a member of
-the European tribes of the lands the Romans called Germanica. Rabbi Klein
-suggests it is likely the Gaon's own distinction that drove him: if *gerem* is the
-bone's interior, tying *germani* to it becomes problematic, since that is not the
-part whose whiteness one sees.
+dim on the skin of a *germani*.
+
+- Rambam (commentary to the Mishnah) and Rabbi Tanchum HaYerushalmi (*HaMadrich
+  HaMaspik*) derive the word from *gerem*, since bones are white, so a *germani*
+  is a man of especially white skin.
+- The Vilna Gaon (*Shenos Eliyahu* there) does not accept this and takes
+  *germani* as a member of the European tribes of the lands the Romans called
+  Germanica.
+
+Rabbi Klein suggests it is likely the Gaon's own distinction that drove him: if
+*gerem* is the bone's interior, tying *germani* to it becomes problematic, since
+that is not the part whose whiteness one sees.
 
 ## Distinctions
 

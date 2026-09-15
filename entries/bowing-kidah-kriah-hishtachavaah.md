@@ -84,9 +84,10 @@ HaMikdash courtyard, supporting himself on his two thumbs, his face to the
 ground, kissing the floor, and standing straight again; and that Levi once
 demonstrated *kidah* before Rabbi Yehudah HaNasi and was left paralyzed.
 
-Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) and Malbim (1809 to 1879)
-derive *kidah* from *kadkod*, the skull, since one tilts the top of the head
-downward. Linguists relate *kidah* to the Akkadian *qadadu*, to incline.
+- Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) and Malbim (1809 to 1879)
+  derive *kidah* from *kadkod*, the skull, since one tilts the top of the head
+  downward.
+- Linguists relate *kidah* to the Akkadian *qadadu*, to incline.
 
 ### kriah (כריעה)
 Kneeling, as Shlomo HaMelech is described "kneeling (*kore'a*) on his knees"

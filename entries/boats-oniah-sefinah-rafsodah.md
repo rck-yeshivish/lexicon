@@ -86,14 +86,16 @@ seems to recall commentators explaining *safun* of the hull being immersed, and
 so hidden, in the sea while only the upper part shows, but reports that he could
 not locate the source.
 
-**Whether a *dugit* is sold with the ship it is tied to.** Sumchos (*Tosefta*
-Bava Basra 4:1): yes, since it was attached to the *sefinah* and typically towed
-by the mother ship out at sea. Others seem to disagree, holding that the sale of
-the larger ship cannot be assumed to include the smaller boat (Yerushalmi Bava
-Basra 5:1; *Tosefta* Succah 3:2), and those sources call the small boat *iskupah*
-instead. *Iskupah* is from the Greek *skaphe*, literally a
-bowl, hence a bowl-shaped boat, and is the ancestor of the Germanic *scif*, from
-which the English "ship," "skiff" and "skipper" come.
+**Whether a *dugit* is sold with the ship it is tied to.**
+
+- Sumchos (*Tosefta* Bava Basra 4:1): yes, since it was attached to the
+  *sefinah* and typically towed by the mother ship out at sea.
+- Others seem to disagree, holding that the sale of the larger ship cannot be
+  assumed to include the smaller boat (Yerushalmi Bava Basra 5:1; *Tosefta*
+  Succah 3:2), and those sources call the small boat *iskupah* instead.
+  *Iskupah* is from the Greek *skaphe*, literally a bowl, hence a bowl-shaped
+  boat, and is the ancestor of the Germanic *scif*, from which the English
+  "ship," "skiff" and "skipper" come.
 
 ## Distinctions
 

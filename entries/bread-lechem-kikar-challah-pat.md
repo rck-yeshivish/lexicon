@@ -67,26 +67,29 @@ bread in Rabbinic usage. *Rifta* and *nahamah* are the Aramaic words for bread.
 ## Distinctions
 
 ### lechem (לחם)
-Root ל-ח-ם. That *lechem* means bread may not be its literal sense at all but
-only a colloquialism: Rabbi Dr. Guy Matalon explains
-that *lechem* denotes the staple food of a society, which takes on different
-meanings by society. Among Klal Yisrael bread is the staple, so *lechem* is
-bread; in Arabic culture the staple is meat, so *lahm* is meat. On that reading,
-Rabbi Klein adds, historians cannot settle the original meaning of Beis Lechem
-(Bethlehem), which could be read "House of Bread" or "House of Meat." The same root
-gives *lochem*, to
-wage war, and *milchamah*; wars were often fought over the food supply, and the root
-also carries soldering or pressing things together, which fits both bread, whose
-parts are fused in baking, and combatants closing with each other on a
-battlefield. The Netziv (*Haamek Davar* to Bamidbar 28:2) relates *lechem* to
-*halchamah*, soldering, in the sense that food cements the connection between
-body and soul by keeping a person alive, and explains that korbanos are called
-*lechem* because they likewise cement the bond between Klal Yisrael and Hashem;
-he does not connect it to *milchamah*. Rabbi Shlomo Pappenheim, discussing the
-biliteral ל-ח, whose core sense he takes as moisture, lists *lechem*, bread or
-meat, among its derivatives, as what sustains and rejuvenates a person's inner
-moisture. At Bamidbar 21:5 the Manna is called *lechem haklokel*, the
-insubstantial bread.
+Root ל-ח-ם.
+
+- That *lechem* means bread may not be its literal sense at all but only a
+  colloquialism: Rabbi Dr. Guy Matalon explains that *lechem* denotes the staple
+  food of a society, which takes on different meanings by society. Among Klal
+  Yisrael bread is the staple, so *lechem* is bread; in Arabic culture the
+  staple is meat, so *lahm* is meat. On that reading, Rabbi Klein adds,
+  historians cannot settle the original meaning of Beis Lechem (Bethlehem),
+  which could be read "House of Bread" or "House of Meat."
+- The same root gives *lochem*, to wage war, and *milchamah*; wars were often
+  fought over the food supply, and the root also carries soldering or pressing
+  things together, which fits both bread, whose parts are fused in baking, and
+  combatants closing with each other on a battlefield.
+- The Netziv (*Haamek Davar* to Bamidbar 28:2) relates *lechem* to *halchamah*,
+  soldering, in the sense that food cements the connection between body and soul
+  by keeping a person alive, and explains that korbanos are called *lechem*
+  because they likewise cement the bond between Klal Yisrael and Hashem; he does
+  not connect it to *milchamah*.
+- Rabbi Shlomo Pappenheim, discussing the biliteral ל-ח, whose core sense he
+  takes as moisture, lists *lechem*, bread or meat, among its derivatives, as
+  what sustains and rejuvenates a person's inner moisture.
+
+At Bamidbar 21:5 the Manna is called *lechem haklokel*, the insubstantial bread.
 
 ### kikar (ככר)
 The word seems literally to mean a circle. In Tanach it most commonly means a

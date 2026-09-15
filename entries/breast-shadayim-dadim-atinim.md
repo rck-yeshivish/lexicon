@@ -61,18 +61,22 @@ Parchon, Radak) traces it to the two-letter root ש-ד. Rabbi Shlomo Pappenheim
 takes the core of ש-ד as abnormality, a departure from the ordinary: the mammary
 glands secrete nourishing milk, unlike any other limb. He derives from the same
 root *shoded* (to plunder, taking or using something outside its normal way),
-*sheid* (a demon, which disrupts the natural order), and *shidah/shidos* (Koheles
-2:8), nimble dancers who move like *sheidim*. In Bereishis 49:25 Yaakov blesses
-Yosef with "blessings of *shadayim* and *rechem*," which on a simple reading is
-breasts and womb as symbols of fertility; archeologists know
-that many fertility-goddess idols of the ancient world deliberately exaggerated
-those features for the same reason. Others, Rashi among them, tie *shadayim*
-there to Aramaic *shadi*, to shoot or cast, making it the father's contribution
-rather than the mother's. Rabbi Yaakov Chaim Sofer points out that *Peirush
-HaRokeach* explains *shadayim* in that pasuk as clouds that empty out water, as
-nursing breasts empty out milk, so that *shadayim* can also mean "clouds." The largest share of the word's appearances are in
-Shir HaShirim, and *Shaddai*, written on the outside of a mezuzah, is sometimes
-associated with *shadayim*, Hashem nurturing and sustaining creation.
+*sheid* (a demon, which disrupts the natural order), and *shidah/shidos*
+(Koheles 2:8), nimble dancers who move like *sheidim*.
+
+- In Bereishis 49:25 Yaakov blesses Yosef with "blessings of *shadayim* and
+  *rechem*," which on a simple reading is breasts and womb as symbols of
+  fertility; archeologists know that many fertility-goddess idols of the ancient
+  world deliberately exaggerated those features for the same reason.
+- Others, Rashi among them, tie *shadayim* there to Aramaic *shadi*, to shoot or
+  cast, making it the father's contribution rather than the mother's.
+- Rabbi Yaakov Chaim Sofer points out that *Peirush HaRokeach* explains
+  *shadayim* in that pasuk as clouds that empty out water, as nursing breasts
+  empty out milk, so that *shadayim* can also mean "clouds."
+
+The largest share of the word's appearances are in Shir HaShirim, and *Shaddai*,
+written on the outside of a mezuzah, is sometimes associated with *shadayim*,
+Hashem nurturing and sustaining creation.
 
 Two names may carry the word. Pseudo-Rasag (to Daniel 1:7) explains Shadrach,
 the Babylonian name given to Chananyah, as a portmanteau of *shad* and *rach*,
@@ -82,46 +86,51 @@ of light," or "my breasts are light," or "Shaddai is light."
 
 ### l'shad (לשד)
 Bamidbar 11:8 describes the taste of the man as *l'shad hashamen*, a hapax whose
-apparent root ל-ש-ד occurs nowhere else. *Yoma* 75a gives two readings that take
-the lammed as part of the root: from *shadayim*, since a nursing infant tastes
-many flavors in the milk, so the man held many tastes; or from *sheid*, which
-shifts its shape and color, as the man shifted its taste. Rashi (to Bamidbar
-11:8) asks what the first reading has to do with oil and inclines to Dunash, who
-renders *l'shad* a loaf. *Sifrei* (Behaaloscha 89) and Tosefta (*Sotah* 4:1)
-expand the nursing comparison: the man was Yisrael's main sustenance as milk is an
-infant's; or, nursing all day never harms a baby, and neither would the man; or, as a
-toddler suffers at weaning, so were Yisrael pained when it ceased.
+apparent root ל-ש-ד occurs nowhere else.
+
+- *Yoma* 75a gives two readings that take the lammed as part of the root: from
+  *shadayim*, since a nursing infant tastes many flavors in the milk, so the man
+  held many tastes; or from *sheid*, which shifts its shape and color, as the
+  man shifted its taste.
+- Rashi (to Bamidbar 11:8) asks what the first reading has to do with oil and
+  inclines to Dunash, who renders *l'shad* a loaf.
+- *Sifrei* (Behaaloscha 89) and Tosefta (*Sotah* 4:1) expand the nursing
+  comparison: the man was Yisrael's main sustenance as milk is an infant's; or,
+  nursing all day never harms a baby, and neither would the man; or, as a
+  toddler suffers at weaning, so were Yisrael pained when it ceased.
 
 ### dadim (דדים), dad (דד)
-Four times in Tanach: Yechezkel 23:3, 23:8, 23:21, and Mishlei 5:19. Menachem Ibn
-Saruk (*Machberes Menachem*) and Radak (*Sefer HaShorashim*) say *dadim* means
-exactly what *shadayim* means, from the two-letter root ד-ד. Rabbi Shlomo
-Pappenheim traces it to the single letter dalet, whose sense he takes as
-separation and protrusion: the breasts protrude and stand apart from the body.
-He puts in the same family *dud* (pot) and *dudaim*, shaped like *dadim*; *dod*
-and *dodah*, branching off the family line, with *dod* (a beloved) and *yedid*;
-*niddah*, separated from her husband; *nadan/nedunya*, a dowry set apart from
-one's property; *nadan*, a sheath; and *yad*, the hand separating out from the
-body's sides.
+Four times in Tanach: Yechezkel 23:3, 23:8, 23:21, and Mishlei 5:19.
 
-Against the identification, Malbim (*Sefer HaCarmel*) holds that in Biblical
-Hebrew *shadayim* and *dadim* are different body parts: *shadayim* the upper
-breasts from which she nurses, *dadim* the lower parts, the place of maidenhood.
-Rabbeinu Chananel, quoted by Rabbi Menachem ben Shimon of Posquieres (to
-Yechezkel 23:3), reads *dadim* similarly. In Rabbinic Hebrew, however, *dadim*
-unambiguously means breasts: *Eruvin* 54b on Mishlei 5:19, that as an infant finds
-milk each time he nuzzles the *dadim*, a talmid chacham finds new taste each time
-he returns to his learning; *Shabbos* 53b, the widower whose *dadim* opened so he
-could nurse his child; Ben Katin's twelve *dadim*, breast-like spigots, on the
-kiyor (*Yoma* 3:10); and *Negaim* 6:7-8 on tzaraas, *Niddah* 5:8 on a girl's
-development, *Bechoros* 7:5 on blemishes, *Sotah* 1:6 on the sotah ceremony, and
-*Keilim* 8:11. Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) keeps them
-synonymous in
-sense but separate in origin: *shadayim* from pouring, *dadim* an infant's own
-sound for his mother's breast. Rabbi Shaul Goldman suggests, as an alternative,
-that they may be two forms of one etymon,
-the shin shifting to tav as often happens moving from Hebrew to Aramaic, and
-that tav to dalet, the second dalet standing in both.
+- Menachem Ibn Saruk (*Machberes Menachem*) and Radak (*Sefer HaShorashim*) say
+  *dadim* means exactly what *shadayim* means, from the two-letter root ד-ד.
+- Rabbi Shlomo Pappenheim traces it to the single letter dalet, whose sense he
+  takes as separation and protrusion: the breasts protrude and stand apart from
+  the body. He puts in the same family *dud* (pot) and *dudaim*, shaped like
+  *dadim*; *dod* and *dodah*, branching off the family line, with *dod* (a
+  beloved) and *yedid*; *niddah*, separated from her husband; *nadan/nedunya*, a
+  dowry set apart from one's property; *nadan*, a sheath; and *yad*, the hand
+  separating out from the body's sides.
+
+- Against the identification, Malbim (*Sefer HaCarmel*) holds that in Biblical
+  Hebrew *shadayim* and *dadim* are different body parts: *shadayim* the upper
+  breasts from which she nurses, *dadim* the lower parts, the place of
+  maidenhood. Rabbeinu Chananel, quoted by Rabbi Menachem ben Shimon of
+  Posquieres (to Yechezkel 23:3), reads *dadim* similarly.
+- In Rabbinic Hebrew, however, *dadim* unambiguously means breasts: *Eruvin* 54b
+  on Mishlei 5:19, that as an infant finds milk each time he nuzzles the
+  *dadim*, a talmid chacham finds new taste each time he returns to his
+  learning; *Shabbos* 53b, the widower whose *dadim* opened so he could nurse
+  his child; Ben Katin's twelve *dadim*, breast-like spigots, on the kiyor
+  (*Yoma* 3:10); and *Negaim* 6:7-8 on tzaraas, *Niddah* 5:8 on a girl's
+  development, *Bechoros* 7:5 on blemishes, *Sotah* 1:6 on the sotah ceremony,
+  and *Keilim* 8:11.
+- Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) keeps them synonymous in
+  sense but separate in origin: *shadayim* from pouring, *dadim* an infant's own
+  sound for his mother's breast.
+- Rabbi Shaul Goldman suggests, as an alternative, that they may be two forms of
+  one etymon, the shin shifting to tav as often happens moving from Hebrew to
+  Aramaic, and that tav to dalet, the second dalet standing in both.
 
 Several names look to carry *dad*. Eldad and Meidad (Bamidbar 11:26-27) seem to
 be *El* and *mei* plus *dad*; so too Elidad, prince of Binyamin at the entry to

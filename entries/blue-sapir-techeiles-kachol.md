@@ -42,37 +42,46 @@ and black.
 
 ## Where the authorities disagree
 
-**What shade techeiles is.** Rashi (to Bamidbar 15:38 and Shemos 25:4) defines
-*techeiles* as wool dyed with the blood of the chilazon, and calls its color
-*yarok*, which in his usage is a catch-all covering the band from orange to
-violet, with yellow, green, blue and indigo in between, so his definition does
-not settle the shade.
-The Midrash fixes it by comparison instead: *techeiles* resembles the color of
-the *sapir* stone, which is why looking at the tzitzis recalls the whole Torah,
-the Luchos having been hewn from *sapir*. The Midrash's comparison is to an object and not
-to a name for a hue. On the breadth of *yarok*, see the entry on
-*yerek*/*yarok*.
+**What shade techeiles is.**
 
-**Whether kachol is blue.** Rashi (Bava Basra 4a and Sukkah 51b) explains
-*avnei kochla*, among the materials with which, on one opinion in the Gemara,
-Herod adorned the Beis HaMikdash, as marble that is *kachol*, apparently blue; compare the Ramban to
-Bereishis 49:12. Against a simple identification with blue, Rabbi Klein
-holds that there are places where *kachol* clearly means black and not blue, and
-gives as his example the Midrash (Bamidbar Rabbah) on the tribal flags, where
-Yissachar's is *kachol* and Dan's is *sapir*. Besides that, the word itself comes
-from kohl, the antimony powder applied around the eye
-for healing or adornment, whose hues ran widely through the dark colors from blue
-to black, so that it certainly does not mean "blue" alone. The Gemara's
-*kimachol bishfoferes*, "like kohl in its tube," refers to the applicator.
+- Rashi (to Bamidbar 15:38 and Shemos 25:4) defines *techeiles* as wool dyed
+  with the blood of the chilazon, and calls its color *yarok*, which in his
+  usage is a catch-all covering the band from orange to violet, with yellow,
+  green, blue and indigo in between, so his definition does not settle the
+  shade.
+- The Midrash fixes it by comparison instead: *techeiles* resembles the color of
+  the *sapir* stone, which is why looking at the tzitzis recalls the whole
+  Torah, the Luchos having been hewn from *sapir*. The Midrash's comparison is
+  to an object and not to a name for a hue.
 
-Two further arguments come from outside the traditional sources. Frankie Snyder, an expert in the tiles found at the Temple's site,
-wrote to Rabbi Klein that archaeologists have found several colors of marble from
-Herod's Temple but no blue marble; Rabbi Klein takes this to suggest that
-*kachol* does not really mean blue. And Professor Aharon Demsky of Bar Ilan University points to an
-ancient wine decanter found near Chevron inscribed "[Belonging] to Yachzeyahu,
-wine *kachol*"; Rabbi Klein, who has never heard of blue wine, takes the
-inscription most likely to mean dark wine, and sees in it support for his view
-that *kachol* originally meant black or dark rather than blue.
+On the breadth of *yarok*, see the entry on *yerek*/*yarok*.
+
+**Whether kachol is blue.**
+
+- Rashi (Bava Basra 4a and Sukkah 51b) explains *avnei kochla*, among the
+  materials with which, on one opinion in the Gemara, Herod adorned the Beis
+  HaMikdash, as marble that is *kachol*, apparently blue; compare the Ramban to
+  Bereishis 49:12.
+- Against a simple identification with blue, Rabbi Klein holds that there are
+  places where *kachol* clearly means black and not blue, and gives as his
+  example the Midrash (Bamidbar Rabbah) on the tribal flags, where Yissachar's
+  is *kachol* and Dan's is *sapir*. Besides that, the word itself comes from
+  kohl, the antimony powder applied around the eye for healing or adornment,
+  whose hues ran widely through the dark colors from blue to black, so that it
+  certainly does not mean "blue" alone. The Gemara's *kimachol bishfoferes*,
+  "like kohl in its tube," refers to the applicator.
+
+Two further arguments come from outside the traditional sources.
+
+- Frankie Snyder, an expert in the tiles found at the Temple's site, wrote to
+  Rabbi Klein that archaeologists have found several colors of marble from
+  Herod's Temple but no blue marble; Rabbi Klein takes this to suggest that
+  *kachol* does not really mean blue.
+- And Professor Aharon Demsky of Bar Ilan University points to an ancient wine
+  decanter found near Chevron inscribed "[Belonging] to Yachzeyahu, wine
+  *kachol*"; Rabbi Klein, who has never heard of blue wine, takes the
+  inscription most likely to mean dark wine, and sees in it support for his view
+  that *kachol* originally meant black or dark rather than blue.
 
 ## Distinctions
 

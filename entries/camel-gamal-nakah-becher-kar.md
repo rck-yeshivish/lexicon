@@ -56,14 +56,19 @@ and not every view takes either of them as a camel.
 
 ## Where the authorities disagree
 
-**What bichrei means in Yeshayahu 60:6.** Targum, Rashi, Mahari Kara, and Radak
-there, and Ibn Janach and Radak in their *Sifrei HaShorashim*, read it as ב-כ-ר:
-young camels, *becher* in the absolute. Rabbi Saadia Gaon (in his Tafsir) and
-Ibn Ezra read the beis as the preposition "with" or "through," leaving *kar*.
-Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*) explicitly refuses any connection
-between *bichrah* and the *kar hagamal* of Bereishis 31:34. Rabbi Reuven Chaim Klein leaves
-the dispute standing. Rabbi Ernest Klein holds *becher* cognate with
-the Arabic *bakuru* and the Akkadian *bakru*, both of them a young camel.
+**What bichrei means in Yeshayahu 60:6.**
+
+- Targum, Rashi, Mahari Kara, and Radak there, and Ibn Janach and Radak in their
+  *Sifrei HaShorashim*, read it as ב-כ-ר: young camels, *becher* in the
+  absolute.
+- Rabbi Saadia Gaon (in his Tafsir) and Ibn Ezra read the beis as the
+  preposition "with" or "through," leaving *kar*.
+- Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*) explicitly refuses any
+  connection between *bichrah* and the *kar hagamal* of Bereishis 31:34.
+
+Rabbi Reuven Chaim Klein leaves the dispute standing. Rabbi Ernest Klein holds
+*becher* cognate with the Arabic *bakuru* and the Akkadian *bakru*, both of them
+a young camel.
 
 **What kar means.**
 - Ibn Ezra himself appears to give two answers in two places. To Yeshayahu 16:1
@@ -81,11 +86,16 @@ the Arabic *bakuru* and the Akkadian *bakru*, both of them a young camel.
   a *kar* is a fertile field, marked out by ditches dug round it, and *karim*
   are the fattened animals that graze there.
 
-**What kirkaros are** (Yeshayahu 66:20). Ibn Ezra: an especially prominent kind
-of camel, which he links to his own *kar*. Radak (there and in *Sefer
-HaShorashim*): a general word for a camel or any swift-running animal. Rabbi
-Yosef Bechor Shor (to Bamidbar 7:3): young female calves that skip and jump as
-though dancing. All three are live.
+**What kirkaros are** (Yeshayahu 66:20).
+
+- Ibn Ezra: an especially prominent kind of camel, which he links to his own
+  *kar*.
+- Radak (there and in *Sefer HaShorashim*): a general word for a camel or any
+  swift-running animal.
+- Rabbi Yosef Bechor Shor (to Bamidbar 7:3): young female calves that skip and
+  jump as though dancing.
+
+All three are live.
 
 **Why the camel is named from ג-מ-ל.**
 - Menachem Ibn Saruk simply lists three senses of the root, growing, repaying,
@@ -179,12 +189,13 @@ Talmudic *mehugan* or *hagun* carries the sense of worthy, of good stock
 (Kiddushin 70a, Eruvin 100b, Nedarim 20a, Yevamos 108a, Kesubos 22a and 54a,
 Bava Kama 80a).
 
-*Becher*/*bichrah* also surfaces where one would least expect it. Rabbi Ernest
-Klein and other etymologists derive the English "albacore," a kind of tuna, from
-the Spanish *albacora*, and that from the Arabic *al bakrah*, "the young camel";
-Rabbi Reuven Chaim Klein says how camels relate to tuna is beyond him and he would like to know.
-The Oxford English Dictionary cites this etymology and rejects
-it.
+*Becher*/*bichrah* also surfaces where one would least expect it.
+
+- Rabbi Ernest Klein and other etymologists derive the English "albacore," a
+  kind of tuna, from the Spanish *albacora*, and that from the Arabic *al
+  bakrah*, "the young camel"; Rabbi Reuven Chaim Klein says how camels relate to
+  tuna is beyond him and he would like to know.
+- The Oxford English Dictionary cites this etymology and rejects it.
 
 ## Rendering guidance
 

@@ -103,17 +103,19 @@ so that by the time he meets the angel it is covered with them.
 
 ### iver (עור) and ivaron (עורון)
 Root ע-ו-ר, spelled exactly like *ohr*, skin. The Biblical word: "do not put a
-stumbling block before a blind man" (Vayikra 19:14). Rabbi Shlomo Pappenheim ties
-the two: the commonest cause of blindness is a cataract, a skin-like membrane
-forming over the eye, so the blind man is an *iver* and the affliction *ivaron*.
-Hence "bribery
-blinds the eyes of the wise" (Devarim 16:19): a bribed judge has not lost his
-intellect any more than a man with a cataract has lost his eye; the organ works,
-but something has settled over it, blinding him to the truth of this case. *Shoresh Yesha*, which relates the words
-of ע-ו-ר to revealing and exposing, explains that a blind man is an *iver*
-because it is as though he sleeps an eternal slumber, with nothing revealed to
-him since he sees nothing; alternatively, it suggests, because it is as though a
-layer of skin always covers his eyes.
+stumbling block before a blind man" (Vayikra 19:14).
+
+- Rabbi Shlomo Pappenheim ties the two: the commonest cause of blindness is a
+  cataract, a skin-like membrane forming over the eye, so the blind man is an
+  *iver* and the affliction *ivaron*. Hence "bribery blinds the eyes of the
+  wise" (Devarim 16:19): a bribed judge has not lost his intellect any more than
+  a man with a cataract has lost his eye; the organ works, but something has
+  settled over it, blinding him to the truth of this case.
+- *Shoresh Yesha*, which relates the words of ע-ו-ר to revealing and exposing,
+  explains that a blind man is an *iver* because it is as though he sleeps an
+  eternal slumber, with nothing revealed to him since he sees nothing;
+  alternatively, it suggests, because it is as though a layer of skin always
+  covers his eyes.
 
 ### suma (סומא)
 Root ס-מ-א. The Gemara's and Targumim's word for a blind man; its weight comes

@@ -116,15 +116,18 @@ within which one may walk on Shabbos (*Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3).
   the color to the border.
 
 ### meitzar (מיצר) and mitzarim (מצרים)
-Rabbi Yehuda Ibn Kuraish (*Risala*) identifies *mitzarim* in Eichah 1:3 as the
-plural of the Rabbinic *meitzar*, "boundary," as in *dina d'bar meitzra*, the
-neighbor's right of first refusal on an adjoining field (Kesubos 44a). He notes
-that this is not the Biblical *meitzar* of "from the straits I called out to
-Hashem" (Tehillim 118:5), which belongs to *tzar*, narrowness, and denotes
-something slightly different. Some commentators, among them Ibn Ezra (to Eichah
-1:3) and Rabbi Shlomo Pappenheim (*Cheshek Shlomo*), do connect the two. Rabbi
-Reuven Chaim Klein suggests the connection can be accounted for thematically: a border
-serves to narrow down the contours of a given plot.
+
+- Rabbi Yehuda Ibn Kuraish (*Risala*) identifies *mitzarim* in Eichah 1:3 as the
+  plural of the Rabbinic *meitzar*, "boundary," as in *dina d'bar meitzra*, the
+  neighbor's right of first refusal on an adjoining field (Kesubos 44a). He
+  notes that this is not the Biblical *meitzar* of "from the straits I called
+  out to Hashem" (Tehillim 118:5), which belongs to *tzar*, narrowness, and
+  denotes something slightly different.
+- Some commentators, among them Ibn Ezra (to Eichah 1:3) and Rabbi Shlomo
+  Pappenheim (*Cheshek Shlomo*), do connect the two.
+
+Rabbi Reuven Chaim Klein suggests the connection can be accounted for
+thematically: a border serves to narrow down the contours of a given plot.
 
 Rashi to Eichah 1:3, following *Eichah Rabbah* 1:29, reads *bein hametzarim* as
 the three weeks bookended by Shivah Asar B'Tammuz and Tishah B'Av, taking
@@ -141,29 +144,34 @@ to mark out Kush's territory clearly once his second son was born.
 The word typically refers to something located near the border: an *ir
 hanidachas* at the *sfar* is not destroyed, lest the gap invite the neighboring
 nations in (*Sanhedrin* 1:5), and *eglah arufah* is not done for a corpse found
-near the *sfar* (*Sotah* 9:2). Targum uses it likewise (Bereishis 49:13,
-Devarim 1:7, Tzefaniah 2:5-6). In the sense of "border" the word seems to
-belong only to later Rabbinic Hebrew; there is one possible Biblical
-appearance, *sefarah* in Bereishis 10:30, where the land of Shem's descendants
-stretches from Meisha (Mecca, per Rabbi Saadia Gaon) to its *sfar* at Har
-HaKedem, and Targum Onkelos renders with *sfar*. On that basis Rabbi
-Mecklenburg (*HaKtav VeHaKabbalah* to Vayikra 23:16; *Iyun Tefillah* to
-Tehillim 147:5) calls it the only instance of *sfar* in Biblical Hebrew, though
-most other commentators appear to take *sefarah* there as a place name. The
-etymology is not immediately clear; Rabbi Golumb conjectures that *sfar* comes from
-*perazi*, used of a city-wall fortification, by samech/zayin interchange and
-metathesis, border cities having been especially fortified. Elsewhere (*Targumna*
-to Shemos 9:29 and Vayikra 14:9) Rabbi Golumb takes the core meaning of the
-string ס-פ-ר as "circle" or "round," related to the Greek *sphere*: a city near
-the border is said to be on the *sfar* because such cities are typically
-surrounded all around by a city wall that protects them from invasion. Rabbi
-Moshe Shapiro holds that all words from ס-פ-ר are interrelated: as a *sippur*
-joins many details into one holistic unit, a *sfar*, whether the border of a
-country or the city limits, confines everything within it and makes it one
-unit. Ramak (*Pardes Rimonim*, shaar 8 ch. 2) uses *sfar* to explain
-*sefirah*: as a border marks off the limits of an area, a *sefirah* is Hashem's
-influx as it reaches man in finite, bounded form, kin to *mispar* (number) and
-*sippur* (what can be told, as Hashem Himself cannot).
+near the *sfar* (*Sotah* 9:2). Targum uses it likewise (Bereishis 49:13, Devarim
+1:7, Tzefaniah 2:5-6). In the sense of "border" the word seems to belong only to
+later Rabbinic Hebrew; there is one possible Biblical appearance, *sefarah* in
+Bereishis 10:30, where the land of Shem's descendants stretches from Meisha
+(Mecca, per Rabbi Saadia Gaon) to its *sfar* at Har HaKedem, and Targum Onkelos
+renders with *sfar*. On that basis Rabbi Mecklenburg (*HaKtav VeHaKabbalah* to
+Vayikra 23:16; *Iyun Tefillah* to Tehillim 147:5) calls it the only instance of
+*sfar* in Biblical Hebrew, though most other commentators appear to take
+*sefarah* there as a place name.
+
+The etymology is not immediately clear.
+
+- Rabbi Golumb conjectures that *sfar* comes from *perazi*, used of a city-wall
+  fortification, by samech/zayin interchange and metathesis, border cities
+  having been especially fortified.
+- Elsewhere (*Targumna* to Shemos 9:29 and Vayikra 14:9) Rabbi Golumb takes the
+  core meaning of the string ס-פ-ר as "circle" or "round," related to the Greek
+  *sphere*: a city near the border is said to be on the *sfar* because such
+  cities are typically surrounded all around by a city wall that protects them
+  from invasion.
+- Rabbi Moshe Shapiro holds that all words from ס-פ-ר are interrelated: as a
+  *sippur* joins many details into one holistic unit, a *sfar*, whether the
+  border of a country or the city limits, confines everything within it and
+  makes it one unit.
+- Ramak (*Pardes Rimonim*, shaar 8 ch. 2) uses *sfar* to explain *sefirah*: as a
+  border marks off the limits of an area, a *sefirah* is Hashem's influx as it
+  reaches man in finite, bounded form, kin to *mispar* (number) and *sippur*
+  (what can be told, as Hashem Himself cannot).
 
 ## Rendering guidance
 

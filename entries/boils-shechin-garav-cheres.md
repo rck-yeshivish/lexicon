@@ -51,17 +51,24 @@ stands beside it.
 
 ## Where the authorities disagree
 
-**Which way the Egyptian shechin ran.** Rashi (to Devarim 28:27): moist inside and dry
-outside, so that neither the treatment for moist boils nor that for dry ones could work.
-His source, Bechoros 41a, says the reverse, moist outside and dry inside; Rabbi Natan
-Borgel (*Chok Nasan*) proposes emending Rashi's text to match.
+**Which way the Egyptian shechin ran.**
 
-**What garav means.** Rashi to Devarim 28:27: *garav* and *cheres* are the less horrid
-sorts of boils, *garav* thoroughly moist and *cheres* thoroughly dry. Rashi to Vayikra
-21:20: *garav* is thoroughly dry, and *yalefet* is the "Egyptian *chazazis*," both dry and
-moist. He resolves it himself, following Bechoros 41a: paired with *cheres*, *garav* is the moist
-one; standing alone, *garav* is the dry. (David A. Clines' dictionary of Biblical Hebrew
-renders *garav* "eczema" and *cheres* "itch.")
+- Rashi (to Devarim 28:27): moist inside and dry outside, so that neither the
+  treatment for moist boils nor that for dry ones could work.
+- His source, Bechoros 41a, says the reverse, moist outside and dry inside.
+
+Rabbi Natan Borgel (*Chok Nasan*) proposes emending Rashi's text to match.
+
+**What garav means.**
+
+- Rashi to Devarim 28:27: *garav* and *cheres* are the less horrid sorts of
+  boils, *garav* thoroughly moist and *cheres* thoroughly dry.
+- Rashi to Vayikra 21:20: *garav* is thoroughly dry, and *yalefet* is the
+  "Egyptian *chazazis*," both dry and moist.
+
+He resolves it himself, following Bechoros 41a: paired with *cheres*, *garav* is
+the moist one; standing alone, *garav* is the dry. (David A. Clines' dictionary
+of Biblical Hebrew renders *garav* "eczema" and *cheres* "itch.")
 
 **What cheres is.**
 - Rabbi Avraham Bedersi (*Chosam Tochnis*): named for *cheres*, pottery, because
@@ -130,15 +137,18 @@ the sun (Iyov 9:7; Shoftim 8:13, 14:18); both readings offered for it run throug
 those homonyms.
 
 ### yalefet (ילפת)
-A hapax legomenon at Vayikra 21:20 (the list recurs at 22:22). Rashi, from Bechoros 41a:
-from *melafefes*, what attaches, since it accompanies a man to the day he dies. Pappenheim
-(*Cheshek Shlomo*) reaches the same sense from the biliteral ל-פ (the opening yud and
-closing tav extraneous), a strong hold from which it is hard to break free: *aluf*, a
-chieftain ruling from strength; *elef*, a thousand, the constituency a warlord needs before
-he can claim the title *aluf*; *vayilafes*/*vayilpos*, to grab or grasp hard (Shoftim 16:29,
-Rus 3:8); *lefes*, a turnip rooted fast in the ground, and *lefes*, a condiment or dip that
-accompanies bread. On this reading *yalefes* is the boil that leaves a scar attached to the
-skin that can never be removed.
+A hapax legomenon at Vayikra 21:20 (the list recurs at 22:22).
+
+- Rashi, from Bechoros 41a: from *melafefes*, what attaches, since it
+  accompanies a man to the day he dies.
+- Pappenheim (*Cheshek Shlomo*) reaches the same sense from the biliteral ל-פ
+  (the opening yud and closing tav extraneous), a strong hold from which it is
+  hard to break free: *aluf*, a chieftain ruling from strength; *elef*, a
+  thousand, the constituency a warlord needs before he can claim the title
+  *aluf*; *vayilafes*/*vayilpos*, to grab or grasp hard (Shoftim 16:29, Rus
+  3:8); *lefes*, a turnip rooted fast in the ground, and *lefes*, a condiment or
+  dip that accompanies bread. On this reading *yalefes* is the boil that leaves
+  a scar attached to the skin that can never be removed.
 
 ### avabuos (אבעבועות)
 Shemos 9:9-10 only. Bechoros 41a proves from this word that the Egyptian boils were
