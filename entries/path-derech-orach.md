@@ -41,7 +41,8 @@ words:
 sources:
   - wiaw:7893 "Roads and Paths, Ways and Means" (2018-08-25) https://articles.ohr.edu/articles/roads-and-paths-ways-and-means
   - babel:2020 "Learning to differentiate between apparent synonyms" (2020-05) sources/klein-babel-2020/synonyms-in-language.txt
-authorities: [Vilna Gaon, Malbim, Rabbi Tzvi Hirsch Shlez, Rabbi Shlomo Aharon Wertheimer, Zohar, Rabbi Shlomo Pappenheim, Radak, Rashi, Rabbi Moshe Shapiro]
+  - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
+authorities: [Vilna Gaon, Malbim, Rabbi Tzvi Hirsch Shlez, Rabbi Shlomo Aharon Wertheimer, Zohar, Rabbi Shlomo Pappenheim, Radak, Rashi, Rabbi Moshe Shapiro, Rabbi Moshe Tedeschi-Ashkenazi]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -96,6 +97,10 @@ subdue them underfoot.
 - Rabbi Moshe Shapiro, from Rashi's treading: the *derech* is the path of life,
   strewn with trials that a man is expected to tread down and overcome; only so
   does he go forward on it.
+- Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*), reading the word by the
+  ground walked on and ignoring the initial dalet: *derech* is related to *rach*,
+  soft, a soft parcel of ground that a man can simply walk onto, and by treading
+  it he creates a path for others to follow.
 
 ### orach (אורח)
 Root א-ר-ח; Pappenheim derives it from the two letters ר-ח, width (*revach*,
@@ -175,4 +180,6 @@ Rabbi Reuven Chaim Klein, "[Roads and Paths, Ways and Means](https://articles.oh
 
 Rabbi Reuven Chaim Klein, "Learning to differentiate between apparent synonyms," *Babel: The Language Magazine* 31, May 2020, pp. 30-33.
 
-Cited in the essay: Bereishis 49:17 with Rabbi Tzvi Hirsch Shlez; Mishlei 2:20 with Wertheimer; Zohar Vayakhel 215a and Kedoshim 88a; Yeshayahu 63:2 and Rashi to Devarim 33:29 on *dorech*; Radak on *oreach*; Rabbi Moshe Shapiro on *dorech* as the treading down of trials; Vilna Gaon; Malbim.
+Rabbi Reuven Chaim Klein, "[Don't Trample On Me](https://articles.ohr.edu/articles/dont-trample-on-me)," *What's in a Word?*, Ohr Somayach, 22 July 2023.
+
+Cited in the essay: Bereishis 49:17 with Rabbi Tzvi Hirsch Shlez; Mishlei 2:20 with Wertheimer; Zohar Vayakhel 215a and Kedoshim 88a; Yeshayahu 63:2 and Rashi to Devarim 33:29 on *dorech*; Radak on *oreach*; Rabbi Moshe Shapiro on *dorech* as the treading down of trials; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Vilna Gaon; Malbim.

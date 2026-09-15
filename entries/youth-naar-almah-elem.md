@@ -10,7 +10,8 @@ words:
     nk: עֶלֶם
 sources:
   - wiaw:8922 "Chayei Sarah: Boys and Girls (Part 1)" (2020-11-14) https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1
-authorities: [Rashi, Rabbi Eliyahu Mizrachi, Radak, Ibn Ezra, Rav Hirsch, Peirush HaRokeach, Rabbeinu Efrayim ben Shimshon, Rabbi Shimon Dov Ber Analak, Chizkuni]
+  - wiaw:8933 "Toldot: Boys and Girls (Part 2)" (2020-11-21) https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2
+authorities: [Rashi, Rabbi Eliyahu Mizrachi, Radak, Ibn Ezra, Rav Hirsch, Peirush HaRokeach, Rabbeinu Efrayim ben Shimshon, Rabbi Shimon Dov Ber Analak, Chizkuni, Rabbi Yonah Ibn Janach, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -144,6 +145,13 @@ in Aram, they understood only Aramaic. In fact, *Chizkuni* points out, her
 family did speak Hebrew, since when her going with Eliezer came up, her brother
 and mother called her a *naarah* (24:55).
 
+Rabbi Yonah Ibn Janach and Radak (each in his *Sefer HaShorashim*) also write
+explicitly that *naarah* and *almah* mean the same thing. Rabbi Yaakov Tzvi
+Mecklenburg, summarizing Rabbi Shlomo Pappenheim, grants that on Pappenheim's
+account both words refer to the same stage of life, but holds that *elem*
+focuses on the manifestation of physical maturity and *naar* on the development
+of intellectual and spiritual maturity.
+
 Miriam too is called an *almah* (Shemos 2:8), when she watched over Moshe at the
 Nile and he was saved by Pharaoh's daughter. She was about six (*Shemos Rabbah*
 1:13). That
@@ -184,4 +192,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Chayei Sarah: Boys and Girls (Part 1)](https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1)," *What's in a Word?*, Ohr Somayach, 14 November 2020.
 
-Cited in the essay: Bereishis 17:25, 18:7 with Rashi, 21:12, 21:17-20, 22:3, 22:5, 24:14, 24:16, 24:28, 24:43 with Rabbeinu Efrayim ben Shimshon and *Chizkuni*, 24:55, 24:57, 25:27 with Rashi, 37:2 with Rashi and Rabbi Eliyahu Mizrachi, 41:12 with Rashi, 44:22, 44:33; Rav Hirsch to Bereishis 13:15; Shemos 2:6, 2:8, 33:11; Shmuel I 17:56, 20:1-42 with *Peirush HaRokeach*, 20:22; Shmuel II 18:32; Divrei HaYamim II 13:7; Radak to Yehoshua 6:23; Ibn Ezra to Shir HaShirim 1:3; Kesubos 39a; Rashi to Kesubos 44b; Sotah 12b; *Seder Olam* ch. 1; *Sifrei* to Devarim 33:21; *Midrash Mishlei* to Mishlei 1:4; *Shemos Rabbah* 1:13.
+Rabbi Reuven Chaim Klein, "[Toldot: Boys and Girls (Part 2)](https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2)," *What's in a Word?*, Ohr Somayach, 21 November 2020.
+
+Cited in the essay: Bereishis 17:25, 18:7 with Rashi, 21:12, 21:17-20, 22:3, 22:5, 24:14, 24:16, 24:28, 24:43 with Rabbeinu Efrayim ben Shimshon and *Chizkuni*, 24:55, 24:57, 25:27 with Rashi, 37:2 with Rashi and Rabbi Eliyahu Mizrachi, 41:12 with Rashi, 44:22, 44:33; Rav Hirsch to Bereishis 13:15; Shemos 2:6, 2:8, 33:11; Shmuel I 17:56, 20:1-42 with *Peirush HaRokeach*, 20:22; Shmuel II 18:32; Divrei HaYamim II 13:7; Radak to Yehoshua 6:23; Ibn Ezra to Shir HaShirim 1:3; Kesubos 39a; Rashi to Kesubos 44b; Sotah 12b; *Seder Olam* ch. 1; *Sifrei* to Devarim 33:21; *Midrash Mishlei* to Mishlei 1:4; *Shemos Rabbah* 1:13; Ibn Janach and Radak, *Sifrei HaShorashim*; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim.

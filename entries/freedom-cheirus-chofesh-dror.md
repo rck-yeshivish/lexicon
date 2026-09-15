@@ -10,7 +10,8 @@ words:
     nk: חֵרוּת
 sources:
   - wiaw:7707 "Defining Freedom" (2018-03-31) https://articles.ohr.edu/articles/defining-freedom
-authorities: [Rashi, Ibn Ezra, Radak, Rabbeinu Yonah ibn Janach, Ramban, Sefer HaAruch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yitzchok Dov Bamberger, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Jonathan Sacks, Isaiah Berlin]
+  - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
+authorities: [Rashi, Ibn Ezra, Radak, Rabbeinu Yonah ibn Janach, Ramban, Sefer HaAruch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yitzchok Dov Bamberger, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Jonathan Sacks, Isaiah Berlin, Menachem Ibn Saruk]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -59,7 +60,12 @@ on the Seder night, and *Birkas HaChodesh* asks to be brought from *avdus* to
 *cheirus*. Avos 6:2 finds the scriptural hook in *charus* ("engraved") on the
 Luchos (Shemos 32:16), spelled there with a *tav* rather than the usual *tes*:
 read not *charus* but *cheirus*, for no one is free except one occupied with
-Torah. Rabbi Klein remarks that it seems fairly clear that if the whole purpose of
+Torah. The classical lexicographers, Menachem Ibn Saruk, Ibn Janach and Radak,
+take *charus* from ח-ר-ת, which occurs only in this one instance in Tanach, a
+*hapax legomenon*; that unique word in the context of the Luchos is likely what
+led Chazal (Eruvin 54a; *Shemos Rabbah* 32:1; and elsewhere) to connect *charus*
+with *cheirus* and to explain in various ways how the Torah's strictures reflect
+freedom rather than servitude. Rabbi Klein remarks that it seems fairly clear that if the whole purpose of
 Yetzias Mitzrayim was Matan Torah, the word for the freedom that came of it
 should indeed be *cheirus*, and the Yom Tov that celebrates it *Zman
 Cheiruseinu*. Rabbi Sacks builds his distinction on that reading: negative
@@ -112,4 +118,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Defining Freedom](https://articles.ohr.edu/articles/defining-freedom)," *What's in a Word?*, Ohr Somayach, 31 March 2018.
 
-Cited in the essay: Vayikra 25:10 with Rashi; Rosh Hashanah 9b; Beitzah 24a; Radak, *Sefer HaShorashim* s.v. דרר; Shemos 30:23 with Ibn Janach and Ramban; Esther 1:6 with Megillah 12a; Shemos 21; Devarim 15; Yirmiyahu 34; Avos 6:2 on Shemos 32:16; Yirmiyahu 27:20 with Rashi; Rashi to Sotah 49a; Ibn Ezra; *Sefer HaAruch*; Rabbi Shlomo Aharon Wertheimer; Rabbi Yitzchok Dov Bamberger; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Jonathan Sacks; Isaiah Berlin.
+Rabbi Reuven Chaim Klein, "[Yisro: Write it down](https://articles.ohr.edu/articles/yisro-write-it-down)," *What's in a Word?*, Ohr Somayach, 15 February 2025.
+
+Cited in the essay: Vayikra 25:10 with Rashi; Rosh Hashanah 9b; Beitzah 24a; Radak, *Sefer HaShorashim* s.v. דרר; Eruvin 54a; *Shemos Rabbah* 32:1; Menachem Ibn Saruk; Shemos 30:23 with Ibn Janach and Ramban; Esther 1:6 with Megillah 12a; Shemos 21; Devarim 15; Yirmiyahu 34; Avos 6:2 on Shemos 32:16; Yirmiyahu 27:20 with Rashi; Rashi to Sotah 49a; Ibn Ezra; *Sefer HaAruch*; Rabbi Shlomo Aharon Wertheimer; Rabbi Yitzchok Dov Bamberger; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Jonathan Sacks; Isaiah Berlin.

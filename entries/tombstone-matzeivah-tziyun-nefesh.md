@@ -23,7 +23,8 @@ words:
     distinct: the Mishnaic word (Shekalim 2:5); it honors the deceased and his soul, which may linger by the resting place of its body (Tukachinsky); Rabbi Eliyahu Katz ties it instead to vayinafash, rest
 sources:
   - wiaw:7730 "On the Tombstone" (2018-04-28) https://articles.ohr.edu/articles/on-the-tombstone
-authorities: [Rabbi Yechiel Michel Tukachinsky, Rabbi Shlomo Zalman Ehrenreich, Rabbi Moshe Shick, Rabbi Asher Pollak, Rabbi Eliyahu Katz, Rashi]
+  - wiaw:10810 "Parshas Bo: Please Stand Up" (2023-01-28) https://articles.ohr.edu/articles/parshas-bo-please-stand-up
+authorities: [Rabbi Yechiel Michel Tukachinsky, Rabbi Shlomo Zalman Ehrenreich, Rabbi Moshe Shick, Rabbi Asher Pollak, Rabbi Eliyahu Katz, Rashi, Rabbi Shlomo Aharon Wertheimer]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -97,7 +98,11 @@ Yaakov set a *matzeivah* over Rachel's grave (Bereishis 35:20), and this is the
 common word in spoken Hebrew. Its other sense is the single-stone altar that was
 halachically permitted for avodah in the days of the Avos and later forbidden,
 and both Ehrenreich's reading and that of the "others" work off that double
-sense; Shick and Pollak work instead off *netziv*, standing.
+sense; Shick and Pollak work instead off *netziv*, standing. Rabbi Shlomo
+Aharon Wertheimer, who explains that *nitzav* implies prolonged or continuous
+standing, adds that a *matzeivah*, whether single-stone altar or monument, is so
+called because it is erected with the intent that it stand in place for a long
+time.
 
 ### tziyun (ציון)
 Graves marked with a *tziyun*, a "marker," appear at Yechezkel 39:15 and
@@ -140,4 +145,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[On the Tombstone](https://articles.ohr.edu/articles/on-the-tombstone)," *What's in a Word?*, Ohr Somayach, 28 April 2018.
 
-Cited in the essay: Bereishis 23:8 (Rashi) and 35:20; Shemos 31:17; Vayikra 21:1 to 4; Melachim II 23:17; Yechezkel 39:15; Tehillim 95:7; Shekalim 2:5; Ohalos 7:1; Moed Katan 28a; Sanhedrin 98a; Rabbi Yechiel Michel Tukachinsky, *Gesher HaChaim*; Rabbi Shlomo Zalman Ehrenreich; Rabbi Moshe Shick; Rabbi Asher Pollak; Rabbi Eliyahu Katz.
+Rabbi Reuven Chaim Klein, "[Parshas Bo: Please Stand Up](https://articles.ohr.edu/articles/parshas-bo-please-stand-up)," *What's in a Word?*, Ohr Somayach, 28 January 2023.
+
+Cited in the essay: Bereishis 23:8 (Rashi) and 35:20; Shemos 31:17; Vayikra 21:1 to 4; Melachim II 23:17; Yechezkel 39:15; Tehillim 95:7; Shekalim 2:5; Ohalos 7:1; Moed Katan 28a; Sanhedrin 98a; Rabbi Yechiel Michel Tukachinsky, *Gesher HaChaim*; Rabbi Shlomo Zalman Ehrenreich; Rabbi Moshe Shick; Rabbi Asher Pollak; Rabbi Eliyahu Katz; Rabbi Shlomo Aharon Wertheimer.

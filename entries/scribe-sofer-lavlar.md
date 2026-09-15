@@ -7,7 +7,8 @@ english: [scribe, scribes, the Sofrim, the early Sages]
 domain: society
 sources:
   - wiaw:10818 "Bishalach: Scribal Culture" (2023-02-04) https://articles.ohr.edu/articles/bishalach-scribal-culture
-authorities: [Rashi, Rabbi Eliyahu HaBachur, Rabbi Yehuda Aryeh Blau, Rabbi Shmuel Krauss]
+  - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
+authorities: [Rashi, Rabbi Eliyahu HaBachur, Rabbi Yehuda Aryeh Blau, Rabbi Shmuel Krauss, Raymond P. Dougherty]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -46,7 +47,11 @@ rabbinic scholars of the last century.
 ### sofer (סופר)
 Root ס-פ-ר, a root that carries a wide range of senses: book, story, to tell or
 relate, number, to count, sapphire, spherical, haircut, border, and more. At its
-plainest a *sofer* is one who produces a *sefer*. The word appears more than
+plainest a *sofer* is one who produces a *sefer*. Professor Raymond P.
+Dougherty of Yale explains how the word grows out of the core meaning "to
+count": counting is primarily a mental process, but memory is fallible, so there
+must be recourse to a written tally or record, and from these secondary meanings
+*sofer* came to mean scribe and *sefer* a record, letter or book. The word appears more than
 fifty times in Tanach, often of royal scribes who wrote down the king's
 decisions for circulation to the people. Devorah's song praises the tribe of
 Zevulun with "and from Zevulun, those who pull the quill of the *sofer*"
@@ -160,4 +165,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Bishalach: Scribal Culture](https://articles.ohr.edu/articles/bishalach-scribal-culture)," *What's in a Word?*, Ohr Somayach, 4 February 2023.
 
-Cited in the essay: Bereishis 11:29; Shoftim 5:14; Shmuel II 8:17, 20:25; Melachim II 18:18, 18:37, 19:2, 22:3, 22:8-10, 22:12; Yeshayahu 36:3, 37:2; Yirmiyahu 8:8, 36:10, 36:12, 36:20-21, 36:26, 37:15, 37:20; Yechezkel 9:2-3; Tehillim 45:2; Esther 3:12 with Targum; Ezra 7:6, 7:11; Nechemyah 8:1-13, 12:26, 12:36, 13:13; Divrei HaYamim I 4:18, 18:16, 24:6; Divrei HaYamim II 26:11, 34:15, 34:18, 34:20; Mishnah Peah 2:6, Terumos 1:1, Orlah 3:9, Challah 1:1, Shabbos 1:3, 7:2, 12:5, Pesachim 3:1, Yevamos 1:1, 2:4, 9:3, Nedarim 9:2, Sotah 9:15, Gittin 3:1, 7:2, 8:8, 9:8, Kiddushin 4:13, Bava Kamma 1:1, Bava Metzia 5:11, Sanhedrin 4:3, 5:5, 11:3, Kerisus 1:1, Keilim 13:7, 24:6, Parah 11:5-6, Taharos 1:1, 4:7, 4:11, Tevul Yom 4:6, Yadayim 3:2; Tosefta Bava Metzia 6:17; Kiddushin 30a; Chagigah 15b; Yerushalmi Berachos 1:4, Shekalim 5:1, Gittin 3:1, Bava Metzia 1:4; Rashi to Sotah 20a, Gittin 67a, Bava Basra 21b; Midrash *Shocher Tov* to Tehillim 9; *Iggeres Rav Sherira Gaon*; the kinah *Eileh Ezkerah*; Rabbi Eliyahu HaBachur, *Meturgaman*; the Kaufmann manuscript of the Mishnah; Rabbi Dr. Yehuda Aryeh (Lajos) Blau, *Studien zum althebräischen Buchwesen und zur Biblischen Litteratur- und Textgeschichte*; Rabbi Dr. Shmuel Krauss, *Talmudische Archäologie*.
+Rabbi Reuven Chaim Klein, "[Between Books and Scrolls](https://articles.ohr.edu/articles/between-books-and-scrolls)," *What's in a Word?*, Ohr Somayach, 19 February 2022.
+
+Cited in the essay: Bereishis 11:29; Shoftim 5:14; Shmuel II 8:17, 20:25; Melachim II 18:18, 18:37, 19:2, 22:3, 22:8-10, 22:12; Yeshayahu 36:3, 37:2; Yirmiyahu 8:8, 36:10, 36:12, 36:20-21, 36:26, 37:15, 37:20; Yechezkel 9:2-3; Tehillim 45:2; Esther 3:12 with Targum; Ezra 7:6, 7:11; Nechemyah 8:1-13, 12:26, 12:36, 13:13; Divrei HaYamim I 4:18, 18:16, 24:6; Divrei HaYamim II 26:11, 34:15, 34:18, 34:20; Mishnah Peah 2:6, Terumos 1:1, Orlah 3:9, Challah 1:1, Shabbos 1:3, 7:2, 12:5, Pesachim 3:1, Yevamos 1:1, 2:4, 9:3, Nedarim 9:2, Sotah 9:15, Gittin 3:1, 7:2, 8:8, 9:8, Kiddushin 4:13, Bava Kamma 1:1, Bava Metzia 5:11, Sanhedrin 4:3, 5:5, 11:3, Kerisus 1:1, Keilim 13:7, 24:6, Parah 11:5-6, Taharos 1:1, 4:7, 4:11, Tevul Yom 4:6, Yadayim 3:2; Tosefta Bava Metzia 6:17; Kiddushin 30a; Chagigah 15b; Yerushalmi Berachos 1:4, Shekalim 5:1, Gittin 3:1, Bava Metzia 1:4; Rashi to Sotah 20a, Gittin 67a, Bava Basra 21b; Midrash *Shocher Tov* to Tehillim 9; *Iggeres Rav Sherira Gaon*; the kinah *Eileh Ezkerah*; Rabbi Eliyahu HaBachur, *Meturgaman*; the Kaufmann manuscript of the Mishnah; Rabbi Dr. Yehuda Aryeh (Lajos) Blau, *Studien zum althebräischen Buchwesen und zur Biblischen Litteratur- und Textgeschichte*; Rabbi Dr. Shmuel Krauss, *Talmudische Archäologie*; Professor Raymond P. Dougherty.

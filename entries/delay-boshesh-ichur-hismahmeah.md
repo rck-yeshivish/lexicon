@@ -10,7 +10,8 @@ words:
     nk: בּוּשָׁה
 sources:
   - wiaw:8644 "Better Late Than …….." (2020-03-14) https://articles.ohr.edu/articles/better-late-than-aeuraeur
-authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Saba, Rav Hirsch, Rabbi Dovid Golumb, Rabbi Aharon Marcus, Rabbi Chanoch Zundel of Bialystok, Piskei HaRosh, Talmidei Rabbeinu Yonah, Maadanei Yom Tov]
+  - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
+authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Saba, Rav Hirsch, Rabbi Dovid Golumb, Rabbi Aharon Marcus, Rabbi Chanoch Zundel of Bialystok, Piskei HaRosh, Talmidei Rabbeinu Yonah, Maadanei Yom Tov, Isaac Satanow]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -83,7 +84,7 @@ expression of uncertainty: one who is *hismahmeah* is standing about doing
 nothing in particular because he is still asking himself what he ought to do.
 
 ### boshesh and bushah
-Four accounts of why the same root gives lateness and shame.
+Five accounts of why the same root gives lateness and shame.
 - Rabbi Shlomo Pappenheim: it is the kind of delay to be ashamed of.
 - Rav Hirsch: the root's core is disappointment, and shame is disappointment in
   oneself upon seeing one's own shortcoming, while *boshesh* is a delay so long
@@ -94,6 +95,11 @@ Four accounts of why the same root gives lateness and shame.
 - Rabbi Aharon Marcus: the core of ב-ש is something being delayed or withheld,
   whence both lateness and the shame that turns a man's face white, his blood
   withheld from travelling its usual way.
+- Isaac Satanow, a Maskillic scholar, building on *Bava Metzia* 58b, that one
+  publicly shamed first blushes and then turns white: *bushah* is related to the
+  root ב-ש, which also means delaying, because shame first delays the regular
+  circulation of the blood, which reddens the face. Rabbi Yehuda Leib
+  Shapira-Frankfurter alludes to Satanow's explanation and rejects it.
 
 ## Rendering guidance
 
@@ -121,4 +127,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Better Late Than ……..](https://articles.ohr.edu/articles/better-late-than-aeuraeur)," *What's in a Word?*, Ohr Somayach, 14 March 2020.
 
-Cited in the essay: Shemos 32:1 with Rashi; *Bereishis Rabbah* 18:6 with *Eitz Yosef*; Bereishis 19:16; Shmuel II 15:28; Shoftim 5:28; Iyov 6:6 with Targum; Berachos 40a with *Piskei HaRosh*, Talmidei Rabbeinu Yonah, Rashi, and *Maadanei Yom Tov*; *HaRechasim LeVik'ah* to Shemos 32:1; Malbim ad loc.; *Tzror HaMor* ad loc.; Rabbi Shlomo Pappenheim on ב-ש and on biliteral מ-ה; *Targumna*; Rabbi Yaakov Tzvi Mecklenburg, quoting R' Naftali Hertz (Wessely) Weisel.
+Rabbi Reuven Chaim Klein, "[An Utter Embarrassment](https://articles.ohr.edu/articles/an-utter-embarrassment)," *What's in a Word?*, Ohr Somayach, 17 September 2022.
+
+Cited in the essay: Shemos 32:1 with Rashi; *Bava Metzia* 58b; Isaac Satanow; *Bereishis Rabbah* 18:6 with *Eitz Yosef*; Bereishis 19:16; Shmuel II 15:28; Shoftim 5:28; Iyov 6:6 with Targum; Berachos 40a with *Piskei HaRosh*, Talmidei Rabbeinu Yonah, Rashi, and *Maadanei Yom Tov*; *HaRechasim LeVik'ah* to Shemos 32:1; Malbim ad loc.; *Tzror HaMor* ad loc.; Rabbi Shlomo Pappenheim on ב-ש and on biliteral מ-ה; *Targumna*; Rabbi Yaakov Tzvi Mecklenburg, quoting R' Naftali Hertz (Wessely) Weisel.

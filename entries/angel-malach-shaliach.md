@@ -14,7 +14,9 @@ words:
     nk: שַׁדַּר
 sources:
   - wiaw:7512 "Angels and Agents" (2017-12-02) https://articles.ohr.edu/articles/angels-and-agents
-authorities: [Radak, Rabbi Shlomo Pappenheim, Malbim, Ralbag, Rambam, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yaakov Lorberbaum of Lissa, Vilna Gaon, Rashi, Bereishis Rabbah]
+  - wiaw:8129 "Cherubic Children and Other Angels" (2019-02-09) https://articles.ohr.edu/articles/cherubic-children-and-other-angels
+  - wiaw:10720 "Toldos: The Doers and Fighters" (2022-11-26) https://articles.ohr.edu/articles/toldos-the-doers-and-fighters
+authorities: [Radak, Rabbi Shlomo Pappenheim, Malbim, Ralbag, Rambam, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yaakov Lorberbaum of Lissa, Vilna Gaon, Rashi, Bereishis Rabbah, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Ramban]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -47,7 +49,12 @@ charged with the kind of task the sender would do himself, so the assignment is
 prestigious and the *malach*, in a way, holds a position of honor, and being one
 is not necessarily a sign of subservience; Malbim adds that a *malach* is not required to report back. From
 this primary sense the word is applied to the angels Hashem *sends* on various
-undertakings, some of them to work miracles or carry word to prophets. Ralbag, throughout his commentary to Tanach,
+undertakings, some of them to work miracles or carry word to prophets. The anonymous
+commentator to Rambam explains that *malachim* names all the ranks of angels in
+general and also one rank in particular, the sixth of the ten Rambam lists
+(*Hilchos Yesodei HaTorah* 2:7), as *Taharos* names both an order of the Mishnah
+and a masechta within it; the school of the Rokeach takes that rank as the
+angels sent to earth for special missions. Ralbag, throughout his commentary to Tanach,
 consistently tries to explain every *malach* mentioned as a prophet and not an
 angel (and see Rambam, Moreh Nevuchim 2:6, for his view of angelology).
 Mecklenburg:
@@ -82,7 +89,11 @@ Aramaic has two words for sending: *shagar* (whose primary meaning seems to be
 which entered the Hebrew vernacular as a contraction of *shaliach d'rabbanan*,
 emissary of the rabbis, used of rabbinic envoys sent to collect charitable
 donations for public institutions. In Modern Hebrew *shadar* means to broadcast,
-in the radio and television sense.
+in the radio and television sense. Sending is the post-Biblical sense of
+*shadar*. In Biblical Aramaic, Daryavesh, until sunset, was *mishtadar*,
+trying, to save Daniel (Daniel 6:15); Ramban takes the core meaning of *shadar*
+as rebelling (*eshtadur*, Ezra 4:15, 4:19) and theorizes that it is a cognate of
+*shadal*, persuading or attempting, since lammed and reish interchange.
 
 ## Rendering guidance
 
@@ -110,4 +121,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Angels and Agents](https://articles.ohr.edu/articles/angels-and-agents)," *What's in a Word?*, Ohr Somayach, 2 December 2017.
 
-Cited in the essay: Bereishis 32:4 with *Bereishis Rabbah* 75:4 and Rashi; Radak, *Sefer HaShorashim* s.v. לאך; Rambam, *Moreh Nevuchim* 2:6; Ralbag on Tanach passim; Vilna Gaon to Mishlei 13:17.
+Rabbi Reuven Chaim Klein, "[Cherubic Children and Other Angels](https://articles.ohr.edu/articles/cherubic-children-and-other-angels)," *What's in a Word?*, Ohr Somayach, 9 February 2019.
+
+Rabbi Reuven Chaim Klein, "[Toldos: The Doers and Fighters](https://articles.ohr.edu/articles/toldos-the-doers-and-fighters)," *What's in a Word?*, Ohr Somayach, 26 November 2022.
+
+Cited in the essay: Bereishis 32:4 with *Bereishis Rabbah* 75:4 and Rashi; Radak, *Sefer HaShorashim* s.v. לאך; Rambam, *Moreh Nevuchim* 2:6, and *Hilchos Yesodei HaTorah* 2:7; Ralbag on Tanach passim; Vilna Gaon to Mishlei 13:17; Daniel 6:15; Ezra 4:15, 4:19.

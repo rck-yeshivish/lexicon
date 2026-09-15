@@ -12,6 +12,7 @@ words:
     nk: פּוּר
 sources:
   - wiaw:8181 "Playing the Lottery" (2019-03-16) https://articles.ohr.edu/articles/playing-the-lottery
+  - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
 authorities: [Maharitatz (Rabbi Yom Tov Tzahalon), Rabbi Yaakov Lorberbaum of Lissa, Midrash Lekach Tov, Rashbam, Ibn Ezra, Ramban, Rabbi Yosef ben Yosef Ibn Nachmias, Rabbi Shlomo Pappenheim, Tosafos Yom Tov, Meiri, Sefer HaAruch, Rabbi Shlomo HaAdani (Meleches Shlomo), Rabbi Yosef Yishai Rain]
 status: reviewed
 updated: 2026-09-10
@@ -101,7 +102,12 @@ drawing lots; in Modern Hebrew it is the ballot box at government elections. *Ch
 *chevel*, and says all four will be used against the sons of Eisav: *cholesh*
 when Yehoshua weakened Amalek (*vayachalosh*, Shemos 17:13), *pur* and *goral*
 in the Purim victory, and in time to come a *chevel*, since the birthpangs of the
-Messianic arrival are called *chevlei leidah* (Hoshea 13:13).
+Messianic arrival are called *chevlei leidah* (Hoshea 13:13). Rabbi Shlomo
+Pappenheim takes "rope" as the principal meaning of ח-ב-ל and derives its other
+senses from that: one of a rope's main uses is measuring, and a *chevel* was
+typically used to survey and measure a plot of land, hence *chevel* as a lot of
+land; and just as such a lot is a localized thing within a greater area, so
+*chevel* as pain is a localized pain, like *chevlei leidah*.
 
 ## Rendering guidance
 
@@ -126,5 +132,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Playing the Lottery](https://articles.ohr.edu/articles/playing-the-lottery)," *What's in a Word?*, Ohr Somayach, 16 March 2019.
+
+Rabbi Reuven Chaim Klein, "[Shelach: Learning the Ropes](https://articles.ohr.edu/articles/shelach-learning-the-ropes)," *What's in a Word?*, Ohr Somayach, 10 June 2023.
 
 Cited in the essay: Esther 3:7 and 9:26; Vayikra 16:8; Bamidbar 26:55; Shemos 12:2, 16:15, 17:13; Yeshayahu 14:12, 24:19; Hoshea 13:13; *Yoma* 2:2-4, 22a, 39a; *Shabbos* 23:2 and 149b; *Yalkut Shimoni*, Shemos §265; *Pesikta d'Rav Kahana* §3:1; Rabbi Shlomo Pappenheim; *Tosafos Yom Tov*.

@@ -12,7 +12,9 @@ words:
     nk: רַחֲמִים
 sources:
   - wiaw:7679 "Mercy or Pity" (2018-03-10) https://articles.ohr.edu/articles/mercy-or-pity
-authorities: [Rabbeinu Bachaya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer]
+  - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
+  - wiaw:10983 "True Love (Part 2/2)" (2023-11-18) https://articles.ohr.edu/articles/true-love-part-22
+authorities: [Rabbeinu Bachaya, Rashi, Rabbi Yosef Bechor-Shor, gloss to Tosafos, Rabbi Elazar Rokeach of Worms, Rabbi Avraham bar Chaim Ibn Ramoch, Malbim, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Yitzchak Avineri]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -61,6 +63,17 @@ Hashem, these are presented as such.
   form of suffering.
 - Malbim: *rachmanus* applies only to an intelligent being; one pities a child
   or an animal differently from an adult.
+- Rabbi Klein, setting *rachamim* against *din*: under *rachamim* the focus is
+  on the Giver, who gives an influx of His good without asking whether the
+  receiver deserves it, while under *din* the focus is on the receiver and the
+  flow is measured by what he deserves. Tradition ties the four-letter Name to
+  *rachamim* and *Elokim* to *din*, and in the shofar the one straight, steady
+  *tekiah* represents *rachamim*, against the broken *teruah* of *din*.
+- Rav Hirsch (to Shemos 13:2) defines the primary sense of ר-ח-ם as motherly
+  protection, joining *rechem*, where a mother protects her unborn child, to
+  *rachamim*, the dominant trait of a protective mother. Rabbi Yitzchak Avineri
+  writes that one root can carry both love and mercy because love is the root of
+  mercy: one only has mercy on those whom he loves.
 
 ### chanun (חנון), chein (חן)
 - Rabbi Klein: *chanun* focuses on the victim, who finds favor (*chein*) in the
@@ -111,4 +124,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Mercy or Pity](https://articles.ohr.edu/articles/mercy-or-pity)," *What's in a Word?*, Ohr Somayach, 10 March 2018.
 
-Cited in the essay: Rabbeinu Bachaya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos, Rosh Hashanah 17b; Ibn Ramoch to Tehillim 86:16, 112:4, 145:8; Malbim on *chus* and *chemlah*; Rabbi Wertheimer.
+Rabbi Reuven Chaim Klein, "[Rosh Hashana: A Tale of Two Beginnings](https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings)," *What's in a Word?*, Ohr Somayach, 28 September 2019.
+
+Rabbi Reuven Chaim Klein, "[True Love (Part 2/2)](https://articles.ohr.edu/articles/true-love-part-22)," *What's in a Word?*, Ohr Somayach, 18 November 2023.
+
+Cited in the essay: Rabbeinu Bachaya to Shemos; Rashi to Devarim 3:23; gloss to Tosafos, Rosh Hashanah 17b; Ibn Ramoch to Tehillim 86:16, 112:4, 145:8; Malbim on *chus* and *chemlah*; Rabbi Wertheimer; Rav Hirsch to Shemos 13:2; Rabbi Yitzchak Avineri.

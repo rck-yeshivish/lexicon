@@ -29,7 +29,8 @@ words:
     distinct: ordinarily an apple, but in Shir HaShirim 2:3 the citron (Rabbeinu Tam), whether there alone or generally is unclear
 sources:
   - wiaw:10055 "The Beautiful Citron" (2022-09-24) https://articles.ohr.edu/articles/the-beautiful-citron
-authorities: [Ibn Ezra, Rambam, Ramban, Raavyah, Baal HaTurim, Rabbeinu Tam, Targum Onkelos, Targum Yonasan, Ra'ah, Ritva, Meiri, Rabbeinu Bachya, Tashbetz, Rabbi Moshe Mintz, Rabbi Meir Mazuz, Chazon Ish, Rabbi David Kochavi of Estelle, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Dr. Zohar Amar, Dr. Michael Sokoloff, Alexander Kohut]
+  - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
+authorities: [Ibn Ezra, Rambam, Ramban, Raavyah, Baal HaTurim, Rabbeinu Tam, Targum Onkelos, Targum Yonasan, Ra'ah, Ritva, Meiri, Rabbeinu Bachya, Tashbetz, Rabbi Moshe Mintz, Rabbi Meir Mazuz, Chazon Ish, Rabbi David Kochavi of Estelle, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Dr. Zohar Amar, Dr. Michael Sokoloff, Alexander Kohut, Malbim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -99,7 +100,9 @@ needs the kollel); Rabbi Meir Mazuz: *trung* likewise comes to 659.
 ### hadar (הדר)
 Root ה-ד-ר. In Tanach the word is glory or beauty, so *pri eitz hadar* on its
 face is either a beautiful fruit or the fruit of a beautiful tree, and tells you
-nothing about which fruit. In Modern Hebrew *hadar* was reassigned to the whole
+nothing about which fruit. Malbim, for whom *hadar* is outward beauty as against
+*hod*, inner beauty, explains that the citron tree is called an *eitz hadar*
+because its fruits are outwardly beautiful. In Modern Hebrew *hadar* was reassigned to the whole
 citrus genus (oranges, grapefruits, lemons, limes, tangerines, pomelos,
 kumquats, mandarins, clementines and the rest; the fruit closest to the citron
 is the one called Buddha's Hand, for its finger-like shape); the Chazon Ish
@@ -192,4 +195,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Beautiful Citron](https://articles.ohr.edu/articles/the-beautiful-citron)," *What's in a Word?*, Ohr Somayach, 24 September 2022.
 
-Cited in the essay: Vayikra 23:40 with Ibn Ezra, Targum Onkelos, Targum Yonasan, Targum Neofiti, the Peshitta and the Baal HaTurim; Bereishis 2:9, 3:6; Devarim 5:18; Mishlei 21:20, 25:11; Yoel 1:12; Shir HaShirim 2:3, 2:5, 7:9, 8:5; Yehoshua 12:17, 15:34, 16:8, 17:8; Divrei HaYamim I 2:43; Sukkah 35a; Berachos 40a; Kiddushin 70a; Tosafos to Shabbos 88a and Taanis 29b; Yerushalmi Sukkah 3:5 and 3:10, Gittin 2:3; Mishnah Maasros 1:4, Bikkurim 2:6, Sukkah 3:4-7, 4:7, 4:9, Meilah 6:4; Sifra to Vayikra 23:40; Bereishis Rabbah 15:7; Vayikra Rabbah 30:15; Tanchuma Emor 20; Rambam, Commentary on the Mishnah introduction and *Moreh Nevuchim* 3:43; the Raavyah; the Ramban; Rabbi Meir Mazuz; the Chazon Ish; Rabbi David Kochavi of Estelle; Dr. Zohar Amar; Dr. Michael Sokoloff; Josephus, *Antiquities* XVII 10:7 and *The War of the Jews* II 4:3; Dr. Alexander Kohut.
+Rabbi Reuven Chaim Klein, "[The Beauty of Adar](https://articles.ohr.edu/articles/the-beauty-of-adar)," *What's in a Word?*, Ohr Somayach, 17 February 2018.
+
+Cited in the essay: Vayikra 23:40 with Ibn Ezra, Targum Onkelos, Targum Yonasan, Targum Neofiti, the Peshitta and the Baal HaTurim; Bereishis 2:9, 3:6; Devarim 5:18; Mishlei 21:20, 25:11; Yoel 1:12; Shir HaShirim 2:3, 2:5, 7:9, 8:5; Yehoshua 12:17, 15:34, 16:8, 17:8; Divrei HaYamim I 2:43; Sukkah 35a; Berachos 40a; Kiddushin 70a; Tosafos to Shabbos 88a and Taanis 29b; Yerushalmi Sukkah 3:5 and 3:10, Gittin 2:3; Mishnah Maasros 1:4, Bikkurim 2:6, Sukkah 3:4-7, 4:7, 4:9, Meilah 6:4; Sifra to Vayikra 23:40; Bereishis Rabbah 15:7; Vayikra Rabbah 30:15; Tanchuma Emor 20; Rambam, Commentary on the Mishnah introduction and *Moreh Nevuchim* 3:43; the Raavyah; the Ramban; Malbim; Rabbi Meir Mazuz; the Chazon Ish; Rabbi David Kochavi of Estelle; Dr. Zohar Amar; Dr. Michael Sokoloff; Josephus, *Antiquities* XVII 10:7 and *The War of the Jews* II 4:3; Dr. Alexander Kohut.

@@ -10,7 +10,8 @@ words:
     nk: אִיסּוּר
 sources:
   - wiaw:9211 "Shavuot: Brilliant Prohibitions" (2021-05-15) https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions
-authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Avraham Maimuni, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Yehuda Ibn Chayyuj, Rabbi Jose Faur]
+  - wiaw:10970 "All Tied Up" (2023-06-03) https://articles.ohr.edu/articles/all-tied-up
+authorities: [Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Ibn Parchon, Rabbi Avraham Maimuni, Rabbeinu Efrayim, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Yehuda Ibn Chayyuj, Rabbi Jose Faur, Malbim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -103,7 +104,10 @@ Pappenheim
 ties *assur* to the two-letter ס-ר, removal: one who is tied has his freedom of
 movement removed. Rabbi Yehuda Ibn Chayyuj had already treated the *aleph* as
 outside the root, noting that *beis ha'surim* (Koheles 4:14) is the equivalent
-of *beis ha'asurim* (Bereishis 39:20, 40:3).
+of *beis ha'asurim* (Bereishis 39:20, 40:3). Malbim, for whom *asirah* is tying
+done without the consent of what is tied, as a captive is detained against his
+will, notes that *issur* in the sense of prohibition likewise refers to one's
+actions being precluded, by law or by nature, against his will.
 
 ### lav (לאו)
 Not in Tanach; found often in later rabbinic writings. An anthimeria formed from
@@ -137,4 +141,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shavuot: Brilliant Prohibitions](https://articles.ohr.edu/articles/shavuot-brilliant-prohibitions)," *What's in a Word?*, Ohr Somayach, 15 May 2021.
 
-Cited in the essay: Bereishis 39:20, 40:3; Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Yechezkel 3:17; Tehillim 106:27; Rus 3:2; Koheles 4:14; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1 and 4:1, *Sanhedrin* 7:7, *Kerisos* 3:10; *Yevamos* 2b; *Sifrei Naso* 1; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Radak; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*; Rabbi Avraham Maimuni; Rabbeinu Efrayim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Yehuda Ibn Chayyuj; Rabbi Jose Faur.
+Rabbi Reuven Chaim Klein, "[All Tied Up](https://articles.ohr.edu/articles/all-tied-up)," *What's in a Word?*, Ohr Somayach, 3 June 2023.
+
+Cited in the essay: Bereishis 39:20, 40:3; Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Yechezkel 3:17; Tehillim 106:27; Rus 3:2; Koheles 4:14; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1 and 4:1, *Sanhedrin* 7:7, *Kerisos* 3:10; *Yevamos* 2b; *Sifrei Naso* 1; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Radak; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*; Rabbi Avraham Maimuni; Rabbeinu Efrayim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Yehuda Ibn Chayyuj; Rabbi Jose Faur; Malbim.

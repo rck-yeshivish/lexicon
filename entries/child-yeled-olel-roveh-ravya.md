@@ -33,7 +33,9 @@ words:
     distinct: the Targum's other word for yeled and naar (Megillah 5b), feminine talyasa; likely from tleh, a young goat, as English "kid" covers both (Rabbi Reuven Chaim Klein)
 sources:
   - wiaw:8933 "Toldot: Boys and Girls (Part 2)" (2020-11-21) https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yonah Ibn Janach, Radak, Rashi, Midrash Tadshe, Rabbi Eliyahu HaKohen of Izmir, Rabbi Meir Simcha of Dvinsk, Targum Onkelos, Rabbi Yaakov Kamenetsky, Rashbatz, Bartenura]
+  - wiaw:8922 "Chayei Sarah: Boys and Girls (Part 1)" (2020-11-14) https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1
+  - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yonah Ibn Janach, Radak, Rashi, Midrash Tadshe, Rabbi Eliyahu HaKohen of Izmir, Rabbi Meir Simcha of Dvinsk, Targum Onkelos, Rabbi Yaakov Kamenetsky, Rashbatz, Bartenura, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -117,7 +119,11 @@ Both from Pappenheim's biliteral ע-ל, "on top", the root behind *al*, *elyon*,
 placed on the animal), *me'il* (a tunic worn over other clothes), and *na'al*
 (a shoe worn on the foot). An *olel* is the child already weaned from his
 mother's milk who now gets himself up to find or ask for food; he grows through
-childhood until he is an *elem*, grown up to nearly his full size.
+childhood until he is an *elem*, grown up to nearly his full size. According to
+many commentators, *elem* and *almah* are related instead to *eilum* and
+*ne'elam*, hidden; Rav Hirsch (to Bereishis 13:15) explains that an *elem* is a
+young *naar* who has not yet matured, so that his potential remains hidden and
+unrealized.
 
 ### naar (נער), for the contrast
 Pappenheim's root here is ע-ר, revealing: *va'te'ar* for emptying a jug and so
@@ -135,7 +141,9 @@ and their cognates are clearly derived from the two-letter ר-ב, to grow in
 Aramaic (see Targum to
 Bereishis 25:27), so a boy or girl is one still growing; *talya* and *talyasa*
 seem to him related to *tleh*, a young goat, the same doubling that gives
-English "kid" both senses, ostensibly because both run around wildly. Targum
+English "kid" both senses, ostensibly because both run around wildly. Rav Hirsch (to Bereishis 30:32)
+writes that *tleh* itself refers not only to a young lamb but also to a young
+human, just as English "kid" means both a young goat and a young child. Targum
 in some places uses *tali/talya* for *yeled* and for *naar* (Megillah 5b; *Dikdukei Sofrim* to
 Yevamos 114a), and Rashi (to Megillah 5b) likewise defines *tali* as *naar*. On
 the name Avtalyon, the Rashbatz and Bartenura (to *Avos* 1:10) write that it
@@ -165,4 +173,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Toldot: Boys and Girls (Part 2)](https://articles.ohr.edu/articles/toldot-boys-and-girls-part-2)," *What's in a Word?*, Ohr Somayach, 21 November 2020.
 
-Cited in the essay: Bereishis 21:8, 21:15 to 16, 24:20, 25:27, 34:4, 37:2, 42:22; Shemos 2:6; Bamidbar 30:17; Rus 2:5 to 6, 3:10; Eichah 5:13; Koheles 11:9; *Erachin* 4:4 with Rashi to Erachin 18b; *Midrash Tadshe* ch. 6; Sukkah 5b; Megillah 5b with Rashi; Sanhedrin 58b, 109b; Shabbos 127b; Kesubos 62b; Sotah 26a; *Dikdukei Sofrim* to Yevamos 114a; Gittin 36a; *Avos* 1:10 with Rashbatz and Bartenura; Ibn Janach and Radak, *Sifrei HaShorashim*.
+Rabbi Reuven Chaim Klein, "[Chayei Sarah: Boys and Girls (Part 1)](https://articles.ohr.edu/articles/chayei-sarah-boys-and-girls-part-1)," *What's in a Word?*, Ohr Somayach, 14 November 2020.
+
+Rabbi Reuven Chaim Klein, "[The Ovine and Caprine Families](https://articles.ohr.edu/articles/the-ovine-and-caprine-families)," *What's in a Word?*, Ohr Somayach, 7 December 2019.
+
+Cited in the essay: Rav Hirsch to Bereishis 13:15 and 30:32; Bereishis 21:8, 21:15 to 16, 24:20, 25:27, 34:4, 37:2, 42:22; Shemos 2:6; Bamidbar 30:17; Rus 2:5 to 6, 3:10; Eichah 5:13; Koheles 11:9; *Erachin* 4:4 with Rashi to Erachin 18b; *Midrash Tadshe* ch. 6; Sukkah 5b; Megillah 5b with Rashi; Sanhedrin 58b, 109b; Shabbos 127b; Kesubos 62b; Sotah 26a; *Dikdukei Sofrim* to Yevamos 114a; Gittin 36a; *Avos* 1:10 with Rashbatz and Bartenura; Ibn Janach and Radak, *Sifrei HaShorashim*.

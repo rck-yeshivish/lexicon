@@ -7,7 +7,8 @@ english: [ritual slaughter, sacrificial slaughter, butchering, slaughtering for 
 domain: action
 sources:
   - wiaw:8023 "Slaughtering and Butchering" (2018-12-08) https://articles.ohr.edu/articles/slaughtering-and-butchering
-authorities: [Malbim, Ralbag, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Yonah ibn Janach, Rashi, Ibn Ezra, Ramban, Targum Onkelos]
+  - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
+authorities: [Malbim, Ralbag, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Yonah ibn Janach, Rashi, Ibn Ezra, Ramban, Targum Onkelos, Rabbi Binyamin Mussafia]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -34,6 +35,11 @@ definition. His two proofs: Chullin 17a rules that for the Noahide "his
 *nechirah* (stabbing) is his *shechitah*," and Moshe warns that the nations will
 say Hashem "slaughtered them (*vayishchatem*) in the wilderness" (Bamidbar
 14:16), which cannot mean a literal neck-cut but a bringing-about of death.
+Rabbi Binyamin Mussafia relates the rabbinic *nechirah*, stabbing an animal in
+its neck (the typical Noahide way of killing an animal, as opposed to properly
+slaughtering it), to *chor*, a hole, because it too involves making a hole; Rabbi
+Shlomo Pappenheim derives *nichirayim*, nostrils, from the same *chor*, a nostril
+being a hole in one's face.
 
 ### zevichah (זביחה)
 Root ז-ב-ח.
@@ -122,4 +128,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Slaughtering and Butchering](https://articles.ohr.edu/articles/slaughtering-and-butchering)," *What's in a Word?*, Ohr Somayach, 8 December 2018.
 
-Cited in the essay: Bereishis 37:36 with Rashi, Ibn Ezra, Ramban and Targum Onkelos, and 43:16; Shemos 21:37, 22:3; Vayikra 1:1 with Ralbag; Bamidbar 14:16, and 22:40 with Targum Yonasan; Devarim 12:21 with Ralbag, and 28:31; Melachim II and Yirmiyahu on Nevuzaradan; Daniel 2:14 with Ibn Ezra; Mishnah Eduyos 8:4; Chullin 17a; Pesachim 17a; Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Yonah ibn Janach.
+Rabbi Reuven Chaim Klein, "[Shemini: The Nosey Truth](https://articles.ohr.edu/articles/shemini-the-nosey-truth)," *What's in a Word?*, Ohr Somayach, 6 April 2024.
+
+Cited in the essay: Bereishis 37:36 with Rashi, Ibn Ezra, Ramban and Targum Onkelos, and 43:16; Shemos 21:37, 22:3; Vayikra 1:1 with Ralbag; Bamidbar 14:16, and 22:40 with Targum Yonasan; Devarim 12:21 with Ralbag, and 28:31; Melachim II and Yirmiyahu on Nevuzaradan; Daniel 2:14 with Ibn Ezra; Mishnah Eduyos 8:4; Chullin 17a; Pesachim 17a; Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Yonah ibn Janach; Rabbi Binyamin Mussafia.

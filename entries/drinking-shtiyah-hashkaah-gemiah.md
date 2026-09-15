@@ -10,7 +10,8 @@ words:
     nk: שׁוֹקֵק
 sources:
   - wiaw:10709 "Chayei Sarah: Take a Drink" (2022-11-12) https://articles.ohr.edu/articles/chayei-sarah-take-a-drink
-authorities: [Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Shadal, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rashi, Rav Hirsch, Rabbi Ernest Klein, Antoine-Chrysostome Quatremere de Quincy]
+  - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
+authorities: [Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Shadal, Menachem Ibn Saruk, Ibn Chayyuj, Ibn Janach, Radak, Rashi, Rav Hirsch, Rabbi Ernest Klein, Antoine-Chrysostome Quatremere de Quincy, Vilna Gaon]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -84,6 +85,12 @@ and watered (*hishkah*) the face of the earth" (Bereishis 2:6).
   the reading that *meshek* relates to *mashkeh* in the sense of a cup-bearer,
   which Shadal rejects on the grounds that in Tanach only kings have cup-bearers
   and Avraham was no king.
+- On the bear that is *shokek* (Mishlei 28:15): the Vilna Gaon (there) takes it
+  as the bear's roar and relates it to *shokek* in the sense of desire, because
+  a bear is always hungry and desires food. Other commentators, like Ibn Janach
+  and Radak, explain that *shokek* is not a roar at all but the bear's sauntering
+  gait, and Radak relates it to *shok* (more accurately the calf than the thigh),
+  which moves as one walks.
 - Rabbi Shlomo Pappenheim's summary of the pair: *lishtos* is about what drinking
   does to the body, so it is the act itself; *lehashkos* is about the sound of
   liquid not yet drunk, so it is everything before the act, the preparing and
@@ -150,4 +157,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Chayei Sarah: Take a Drink](https://articles.ohr.edu/articles/chayei-sarah-take-a-drink)," *What's in a Word?*, Ohr Somayach, 12 November 2022.
 
-Cited in the essay: Bereishis 2:6, 15:2, 24:14-24:46, 40:23; Vayikra 13:48; Bamidbar 33:52; Yeshayahu 33:4; Tehillim 11:3; Iyov 39:30; Shabbos 8:1, 14:4, and 77a; Chullin 2:9; Parah 2:5; *Machberes Menachem*; *Cheishek Shlomo*; *Yerios Shlomo*; Shadal, citing Antoine-Chrysostome Quatremère de Quincy; Rabbi Ernest Klein.
+Rabbi Reuven Chaim Klein, "[Vayakhel/Pekudei: Animal Sounds](https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds)," *What's in a Word?*, Ohr Somayach, 13 March 2021.
+
+Cited in the essay: Bereishis 2:6, 15:2, 24:14-24:46, 40:23; Vayikra 13:48; Bamidbar 33:52; Yeshayahu 33:4; Tehillim 11:3; Mishlei 28:15 with the Vilna Gaon; Iyov 39:30; Shabbos 8:1, 14:4, and 77a; Chullin 2:9; Parah 2:5; *Machberes Menachem*; *Cheishek Shlomo*; *Yerios Shlomo*; Shadal, citing Antoine-Chrysostome Quatremère de Quincy; Rabbi Ernest Klein.
