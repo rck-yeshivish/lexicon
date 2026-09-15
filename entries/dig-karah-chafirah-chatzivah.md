@@ -6,8 +6,20 @@ translit: [karah, kara, korah, chafirah, chafira, chofer, chafar, chatzivah, cha
 english: [dig, begin to dig, dig out, dig through, hew, quarry, search out]
 domain: action
 words:
+  - he: כרה
+    tr: karah
+    en: begin to dig, hollow out
+    distinct: the first, preparatory stage of digging that does not finish the work (Malbim, Rav Hirsch); so even an unfinished pit brings liability (Malbim); a grave plot only marked out (Netziv)
   - he: חפר
     nk: חָפַר
+  - he: חפירה
+    tr: chafirah
+    en: dig out, dig through
+    distinct: the completion of the dig (Malbim), down to the spring water, hence searching out what is hidden (Rav Hirsch), with a negative color of hunting discreditable information (Mecklenburg); put before karah at Bamidbar 21:18 for its weight (Rabbi Shaul Bruch)
+  - he: חציבה
+    tr: chatzivah
+    en: hew, quarry
+    distinct: quarrying, excavating rock or hard ground with a hammer, in contrast to the digging terms (Malbim); for Rabbi Yosef Kara a synonym of karah and chofer that names the digging of a round pit
 sources:
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
@@ -28,6 +40,14 @@ Kara instead makes it digging a round pit). A verse that uses both verbs of one
 pit (Tehillim 7:16; Bereishis 26:25 against 26:32; Bamidbar 21:18) is not
 repeating itself, and *karah* is the *earlier, lesser* act (Malbim, Mecklenburg,
 Netziv, Rav Hirsch, Rabbi Shaul Bruch).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כרה | karah | begin to dig, hollow out | the first stage, digging not finished (Malbim, Rav Hirsch); marks out a grave (Netziv) |
+| חפירה | chafirah | dig out, dig through | the dig completed (Malbim); down to water, hence searching out (Rav Hirsch) |
+| חציבה | chatzivah | hew, quarry | hewing rock with a tool (Malbim); a round pit (Rabbi Yosef Kara) |
 
 ## Distinctions
 

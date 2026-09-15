@@ -5,6 +5,23 @@ roots: [ב-ז-ה, ב-ז, ק-ל-ן, ק-ל, ז-ל-ז-ל, ז-ל, ג-נ-ה, ג-נ]
 translit: [bizayon, bizayyon, bizzayon, vayivez, bazui, bozeh, bozei, kalon, kalon, mekaleh, kal, kelalah, klalah, zilzul, zilzel, zal, zolel, zalzal, zol, gnai, genai, genus, genut, megunah, meguneh]
 english: [disparagement, disgrace, dishonor, cheapening, shame, insult]
 domain: speech
+words:
+  - he: בזיון
+    tr: bizayon
+    en: contempt, disparagement
+    distinct: holding something utterly worthless, a stronger disparagement than kalon, the object not undervalued but treated as valueless (Rabbi Shlomo Pappenheim); perhaps a cognate of bushah (Rabbi David Chaim Chelouche)
+  - he: קלון
+    tr: kalon
+    en: dishonor, disgrace
+    distinct: from kal, light; declaring a man a lightweight, worth less than he is and not worth the honor due him, lowering a value where bizayon cancels it (Rabbi Shlomo Pappenheim)
+  - he: זלזול
+    tr: zilzul
+    en: making light of, cheapening
+    distinct: disparagement by cheapening a thing's value, from parts that will not stay joined, as goods sold low or money spent loosely (Pappenheim); the Targumim sometimes render kalon with it (Rabbi Eliyahu HaBachur)
+  - he: גנאי
+    tr: gnai
+    en: disgrace, discredit
+    distinct: post-biblical, living in the Targumim and Mishnaic Hebrew; simply the opposite of praise (Rambam); from an Aramaic root of shade (Rabbi Ernest Klein), or a four-letter root of its own (Rabbi Eliyahu HaBachur)
 sources:
   - wiaw:9428 "Disgraceful Disparagement" (2021-11-06) https://articles.ohr.edu/articles/disgraceful-disparagement
 authorities: [Rashi, Rambam, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi David Chaim Chelouche, Rabbi Ernest Klein, Maggid of Kozhnitz]
@@ -22,6 +39,15 @@ stronger, treating him as worth nothing at all: **contempt, disparagement**
 dear: **making light of, cheapening**. *Gnai* is post-biblical and is simply the
 opposite of praise (Rambam): **disgrace, discredit**. *Kalon* lowers a value,
 *bizayon* cancels it.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| בזיון | bizayon | contempt, disparagement | treats him as worth nothing; stronger than *kalon* (Pappenheim) |
+| קלון | kalon | dishonor, disgrace | treats him as a lightweight, worth less than he is (Pappenheim) |
+| זלזול | zilzul | making light of, cheapening | cheapening, selling low what should be dear (Pappenheim) |
+| גנאי | gnai | disgrace, discredit | post-biblical; simply the opposite of praise (Rambam) |
 
 ## Distinctions
 

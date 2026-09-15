@@ -6,6 +6,18 @@ translit: [boshesh, bosheish, bosh, ichur, icher, acheir, achar, hitmahmah, hism
 english: [delay, lateness, tarry, linger, dawdle, shame]
 domain: time
 words:
+  - he: איחור
+    tr: ichur
+    en: being late
+    distinct: neutral, only that a point in time has passed (Rabbi Shlomo Pappenheim); anything past a pre-set time (Malbim); an acceptable, fashionably late lateness (Shapira-Frankfurter); for Weisel, quoted by Mecklenburg, lateness that is willing and deliberate
+  - he: בושש
+    tr: boshesh
+    en: long overdue
+    distinct: an excessive delay, hours upon hours (Shapira-Frankfurter), a lateness beyond the lateness (Malbim); the delay one ought to be ashamed of, tied to bushah (Rabbi Shlomo Pappenheim); for Weisel, being held up by forces beyond one's control
+  - he: התמהמה
+    tr: hismahmeah
+    en: tarrying, dawdling
+    distinct: moving slower than one should, dawdling where speed was called for (Shapira-Frankfurter); for Rabbi Shlomo Pappenheim a positive delay, at times the right thing, standing about while still asking what one ought to do
   - he: בושה
     nk: בּוּשָׁה
 sources:
@@ -25,6 +37,14 @@ give up, and the word carries the sting of *bushah*, shame. *Hismahmeah* is
 **tarrying** or **dawdling**, going slower than one should, and Rabbi Shlomo
 Pappenheim reads it as the one delay that can be right. Shemos 32:1 says
 *boshesh*, not *ichur*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| איחור | ichur | being late | neutral, simply past the set time (Pappenheim, Malbim); deliberate lateness (Weisel) |
+| בושש | boshesh | long overdue | hours overdue (Shapira-Frankfurter); a delay to be ashamed of (Pappenheim) |
+| התמהמה | hismahmeah | tarrying, dawdling | dawdling (Shapira-Frankfurter); a delay that can be right, still asking what to do (Pappenheim) |
 
 ## Distinctions
 

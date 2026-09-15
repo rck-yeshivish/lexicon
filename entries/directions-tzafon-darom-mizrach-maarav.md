@@ -6,14 +6,62 @@ translit: [yam, maarav, ma'arav, meurav, acharon, mizrach, kedem, kodem, panim, 
 english: [west, east, north, south, seaward, forward, hidden, dry country, right, left]
 domain: nature
 words:
-  - he: נגב
-    nk: נֶגֶב
-  - he: פנים
-    nk: פָּנִים
-  - he: צפון
-    nk: צָפוֹן
+  - he: מזרח
+    tr: mizrach
+    en: east
+    distinct: from zarach, to shine, the quarter the sun first shines from; one of three names for east, each fixing on a different aspect of the same direction
   - he: קדם
+    tr: kedem
+    en: east, forward side
     nk: קֶדֶם
+    distinct: from kodem, early or forward, pointing to the rising sun first shining from the east; the word also carries time, so check whether a pasuk means eastward or aforetime
+  - he: פנים
+    tr: panim
+    en: east, facewards
+    nk: פָּנִים
+    distinct: literally facewards, because when Adam was created the front of his body faced eastward; which makes east the frame of reference for smol and yamin
+  - he: ים
+    tr: yam
+    en: west, seaward
+    distinct: literally sea, serving for west because the Mediterranean lies at the west side of Eretz Yisrael (Rabbeinu Bachaya); like negev, a name taken from the land itself
+  - he: מערב
+    tr: maarav
+    en: west
+    distinct: from me'urav, mixed, because as the sun sets the shapes of the shadows become mixed up; a name drawn from the movement of the sun
+  - he: אחרון
+    tr: acharon
+    en: west
+    distinct: literally last, because the west is the last place along the horizon where the sun is found before setting in the evening
+  - he: צפון
+    tr: tzafon
+    en: north, hidden side
+    nk: צָפוֹן
+    distinct: explained several ways; tzafun, hidden, the north hidden from the sun's warmth or presence; or tzifiyah, gazing, fixing north by the northern star; or Mount Tzafon, due north of Eretz Yisrael
+  - he: שמאל
+    tr: smol
+    en: north, left
+    distinct: literally left, a name for north that follows from facing east; north only when the speaker faces east, and left where the orientation is a person's own body
+  - he: אסתן
+    tr: estan
+    en: north
+    distinct: the Gemara's Aramaic word for north (Kesubos 23a); perhaps related to Aramaic asuta, health, alluding to the healing properties of the north wind (Rabbeinu Bachaya)
+  - he: דרום
+    tr: darom
+    en: south
+    distinct: a portmanteau of derech yom, the path of the day, because the sun generally remains in the southern hemisphere of the celestial map during the day
+  - he: נגב
+    tr: negev
+    en: south, dry country
+    nk: נֶגֶב
+    distinct: literally dry, because the southern part of Eretz Yisrael is a dry and arid desert-land; like yam, a name taken from the land itself
+  - he: תימן
+    tr: teiman
+    en: south, right
+    distinct: literally right, a name for south taken from an east-facing stance; stands with yam, tzafon and mizrach at Devarim 3:27
+  - he: ימין
+    tr: yamin
+    en: south, right
+    distinct: literally right, south from an east-facing stance as smol is north; south only when the speaker faces east, and right where the orientation is a person's own body
 sources:
   - wiaw:7029 "Looking Four Directions" (2016-12-03) https://articles.ohr.edu/articles/looking-four-directions
 authorities: [Rabbeinu Bachaya]
@@ -35,6 +83,24 @@ country), or *teiman*/*yamin* (right). Bereishis 28:14 pairs *yam*, *kedem*, *tz
 doublets exist: the several names each fix on a different aspect of the same
 direction, and are generally based either on the movements of the sun or on
 certain topographical features of Eretz Yisrael.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מזרח | mizrach | east | where the sun first shines out, from *zarach*, to shine |
+| קדם | kedem | east, forward side | the sun's first, forward position; can also mean aforetime |
+| פנים | panim | east, facewards | facewards: Adam was created with his front facing east |
+| ים | yam | west, seaward | seaward, toward the Mediterranean (Rabbeinu Bachaya); named from the land |
+| מערב | maarav | west | where shadows blur at sunset, from *me'urav*, mixed |
+| אחרון | acharon | west | the sun's last place on the horizon before setting |
+| צפון | tzafon | north, hidden side | hidden from the sun; or gazing at the northern star; or Mount Tzafon |
+| שמאל | smol | north, left | left, when one faces east |
+| אסתן | estan | north | Aramaic; perhaps *asuta*, health, for the healing north wind (Rabbeinu Bachaya) |
+| דרום | darom | south | *derech yom*, the path of the day's sun |
+| נגב | negev | south, dry country | the dry country of southern Eretz Yisrael |
+| תימן | teiman | south, right | right, when one faces east; with *mizrach* at Devarim 3:27 |
+| ימין | yamin | south, right | right, when one faces east; stays right for one's own body |
 
 ## Distinctions
 

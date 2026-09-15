@@ -6,8 +6,19 @@ translit: [churban, chorban, churban habayis, churban habayit, charbah, charba, 
 english: [destruction, ruin, desolation, devastation]
 domain: other
 words:
+  - he: חורבן
+    tr: churban
+    en: destruction
+    distinct: the destruction of a built-up urban area, the milder of the pair (Malbim); a thing severed from what it needed to thrive, perhaps still standing (Rabbi Shlomo Pappenheim); of the Beis HaMikdash, its spiritual disconnection through sin (Rabbi Klein)
   - he: חרבה
+    tr: charbah
+    en: ruin
     nk: חָרְבָּה
+    distinct: a ruin or waste place; an arid land, barren not through a defect in the soil but through being cut off from rain (Rabbi Shlomo Pappenheim)
+  - he: שממה
+    tr: shemamah
+    en: desolation
+    distinct: the utter desolation of a land, more severe than churban (Malbim); destruction that shows, so whoever sees it stands dumbfounded (Mecklenburg), joining the root's two senses of ruin and astonishment (Radak)
   - he: שם
     nk: שָׁם
 sources:
@@ -27,6 +38,14 @@ off from what kept it alive; the buildings may be standing. *Shemamah* is
 Malbim the stronger of the two. Vayikra 26:31 puts
 both in one pasuk: "I will make your cities a ruin (*charbah*) and lay your sanctuaries waste
 (*vahashimosi*)."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חורבן | churban | destruction | milder, of a city (Malbim); cut off from its lifeline, perhaps intact (Pappenheim) |
+| חרבה | charbah | ruin | a waste; land barren because cut off from rain (Pappenheim) |
+| שממה | shemamah | desolation | the severer word (Malbim); visible ruin that leaves the onlooker dumbfounded (Mecklenburg) |
 
 ## Distinctions
 

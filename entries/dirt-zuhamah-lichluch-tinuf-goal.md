@@ -5,6 +5,27 @@ roots: [ז-ה-ם, ל-ח, ט-נ-פ, א-ל-ח, ג-א-ל]
 translit: [zuhamah, zuhama, zohamah, mezuham, lichluch, likhlukh, lichluchis, tinuf, tinof, tinofet, tinofes, nitanfu, elach, ne'elach, goal, goel, gaal, yitgaal]
 english: [filth, grime, soiling, defilement, contamination]
 domain: body
+words:
+  - he: אלח
+    tr: elach
+    en: tainted, sullied
+    distinct: not soiling by something disgusting but the spoiling of an otherwise uniform substance by an incompatible admixture, an unwanted liquid sullying something else (Rabbi Shlomo Pappenheim); a clash of one party against another (Rav Hirsch)
+  - he: לכלוך
+    tr: lichluch
+    en: grime
+    distinct: post-biblical; dirtying by something not disgusting in itself but unwanted where it landed (Pappenheim); wet, kin to lichluach (Kohut), so no chatzitzah (Mikvaos 9:4); equated with tinuf by Ibn Janach and Radak
+  - he: טינוף
+    tr: tinuf
+    en: soiling
+    distinct: soiling by what is not repulsive in itself but unwanted where it clings, ketchup on a shirt, the dirt secondary to the object (Pappenheim); plain soiling, without smell (Donash Ibn Labrat); synonymous with lichluch and zuhamah (Rabbi Tanchum HaYerushalmi)
+  - he: גועל
+    tr: go'al
+    en: defilement, befouling
+    distinct: dirtying by a pollutant disgusting in its own right, excrement or blood (Pappenheim); what one distances oneself from, against geulah, the drawing near (Rabbi Yehoshua Steinberg)
+  - he: זוהמה
+    tr: zuhamah
+    en: filth
+    distinct: the foul sweat a body gives off, or a food's residue (Radak); fluid oozing from an unhealthy build-up, anything excess and unwanted (Pappenheim); specifically the bad smell of something dirty (Donash Ibn Labrat)
 sources:
   - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
 authorities: [Rabbi Shlomo Pappenheim, Rav Hirsch, Radak, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Donash Ibn Labrat, Rabbi Tanchum HaYerushalmi, Rabbi Yehoshua Steinberg, Rabbi Yaakov Emden, Rashi, Rambam, Rabbi Shimon of Shantz, Rabbi Shaul Goldman, Rabbi Shlomo Ibn Parchon, Shadal, Rabbi Tzemach Duran, Pseudo-Rashbam, Alexander Kohut, Wilhelm Gesenius]
@@ -27,6 +48,16 @@ element mixed in (*elach*). The distinctions are not agreed, though: Rabbi
 Tanchum HaYerushalmi writes fairly clearly, in at least two places, that
 *tinuf*, *lichluch* and *zuhamah* are all synonymous, and Pappenheim himself
 seems to equate *lichluch* with *tinuf*, as do Ibn Janach and Radak.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אלח | elach | tainted, sullied | an incompatible admixture spoils a uniform substance (Pappenheim) |
+| לכלוך | lichluch | grime | wet grime, no *chatzitzah* (*Mikvaos* 9:4); misplaced, not disgusting (Pappenheim) |
+| טינוף | tinuf | soiling | soiling by what is merely misplaced, ketchup on a shirt (Pappenheim) |
+| גועל | go'al | defilement, befouling | defiled by the inherently disgusting, blood or excrement (Pappenheim) |
+| זוהמה | zuhamah | filth | clinging residue that usually smells (Donash Ibn Labrat); foul sweat (Radak) |
 
 ## Distinctions
 

@@ -6,8 +6,23 @@ translit: [gett, get, git, gittin, gitin, shtar, shetar, shtarot, shtaros, sheta
 english: [document, writ, bill, deed, bill of divorce, contract]
 domain: society
 words:
+  - he: גט
+    tr: gett
+    en: document, bill of divorce
+    distinct: any document, but unmodified a bill of divorce (Rashi, Rambam); the broader word, every shtar a gett but not every gett a shtar (Rabbi Yisrael Yaakov Algazi); scholarly consensus makes it a loanword from Akkadian gittu
   - he: שטר
+    tr: shtar
+    en: document
     nk: שְׁטָר
+    distinct: a document, often specified by its type, written to last as evidence, unlike an iggeret (Ritva); whether kin to shoter, the officer, is disputed, separate senses (Rabbi Eliyahu HaBachur) against one root (Rav Hirsch)
+  - he: ספר כריתות
+    tr: sefer kerisus
+    en: scroll of cutting
+    distinct: the biblical bill of divorce, literally a scroll of cutting (Devarim 24:1-3, Yeshayahu 50:1); several authorities take the Mishnaic gett as breaking or cutting to match it (Levush)
+  - he: ספר המקנה
+    tr: sefer hamiknah
+    en: scroll of acquisition
+    distinct: the biblical deed of purchase, literally a scroll of acquisition, five times in Yirmiyahu 32; the standard, or the only, biblical word for a document of sale
 sources:
   - wiaw:8704 "Divorce Bills and Other Documents" (2020-05-16) https://articles.ohr.edu/articles/divorce-bills-and-other-documents
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
@@ -26,6 +41,15 @@ may be called a *gett*, not every *gett* a *shtar*. Unmodified, *gett* means
 **a bill of divorce** (Rashi; Rambam). In Tanach the bill of divorce is *sefer
 kerisus*, literally **a scroll of cutting** (Devarim 24:1-3; Yeshayahu 50:1), and
 a deed of sale is *sefer hamiknah* (Yirmiyahu 32).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גט | gett | document, bill of divorce | any document; unmodified, a bill of divorce (Rashi, Rambam); broader than *shtar* (Algazi) |
+| שטר | shtar | document | a document written to last, unlike an *iggeret* (Ritva); narrower than *gett* (Algazi) |
+| ספר כריתות | sefer kerisus | scroll of cutting | the biblical bill of divorce; *gett* may mirror its cutting (Levush) |
+| ספר המקנה | sefer hamiknah | scroll of acquisition | the biblical deed of sale (Yirmiyahu 32) |
 
 ## Distinctions
 

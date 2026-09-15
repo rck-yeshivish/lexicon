@@ -5,6 +5,35 @@ roots: [ח-מ-ר, א-ת-ן, פ-ר-א, ע-י-ר, פ-ר-ד, י-מ-ם]
 translit: [chamor, chamorim, chamorah, aton, asson, atonot, atonos, atonim, pere, pera, arud, arod, aradaya, ayir, ayarim, sayach, siyach, pered, fered, pirdah, yeimim, yemim]
 english: [donkey, ass, she-ass, jenny, wild ass, foal, colt, mule, hinny]
 domain: nature
+words:
+  - he: חמור
+    tr: chamor
+    en: donkey
+    distinct: the domesticated donkey, of either sex in Biblical Hebrew (Radak, Mecklenburg), and a behemah where pere is a chayah (Radak); named for the reddish-brown hue of many donkeys (Rabbi Aharon Marcus)
+  - he: אתון
+    tr: aton
+    en: jenny, she-ass
+    distinct: specifically the female (Radak); for Shadal first the female of the wild pere, later widened to the domestic; for Pappenheim not a feminine at all but the donkey at its full strength
+  - he: פרא
+    tr: pere
+    en: wild ass
+    distinct: the undomesticated wild ass, a chayah (Radak); by transfer a man of unbridled conduct, lacking the boundaries a man should have (Rav Hirsch); Aramaic and Mishnaic Hebrew call it arud
+  - he: עיר
+    tr: ayir
+    en: foal
+    distinct: the young one, her offspring where paired with aton; the young of a chamor or of a pere (Radak); the adolescent donkey whose strength is being revealed (Pappenheim); a young horse in rabbinic usage (Rashi)
+  - he: סיח
+    tr: sayach
+    en: young donkey
+    distinct: the rabbinic word for a young donkey (Rashbam), where the biblical ayir has shifted to a young horse (Rashi); in Modern Hebrew a young horse, a colt
+  - he: פרד
+    tr: pered
+    en: mule
+    distinct: the mule, from separating; it cannot reproduce (Rav Hai Gaon), or a pariah of mixed lineage (Rabbi Yehoshua Steinberg); or the root covers joining what should stay separate (Rabbi Reuven Chaim Klein)
+  - he: ימים
+    tr: yeimim
+    en: mules, hinnies
+    distinct: a hapax at Bereishis 36:24; mules that Anah bred (Rashi), or hinnies born of a male horse and a female donkey (Yerushalmi, Shadal); giants (Targum Onkelos, Ibn Ezra)
 sources:
   - wiaw:11871 "Balak: An Asinine Essay (Part 1/2)" (2025-07-12) https://articles.ohr.edu/articles/balak-an-asinine-essay-part-12
   - wiaw:11869 "Pinchas: An Asinine Essay (Part 2/2)" (2025-07-19) https://articles.ohr.edu/articles/pinchas-an-asinine-essay-part-22
@@ -23,6 +52,18 @@ through Bamidbar 22). *Pere* (Aramaic *arud*) is the undomesticated **wild ass**
 Radak classes *chamor* as a *behemah* and *pere* as a *chayah*. *Ayir* is the
 young one, a **foal**; *pered* is the **mule**. Zecharyah 9:9 puts *chamor* and
 *ayir* in one pasuk.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חמור | chamor | donkey | the domesticated donkey, either sex (Radak); a *behemah*, not a *chayah* |
+| אתון | aton | jenny, she-ass | the female (Radak); female of the *pere* (Shadal); full strength (Pappenheim) |
+| פרא | pere | wild ass | the wild ass, a *chayah* (Radak); unrestraint, as in *pere adam* (Rav Hirsch) |
+| עיר | ayir | foal | the foal (Radak); strength being revealed (Pappenheim); rabbinic young horse (Rashi) |
+| סיח | sayach | young donkey | rabbinic young donkey (Rashbam); in Modern Hebrew a colt |
+| פרד | pered | mule | the mule; set apart by being unable to reproduce (Rav Hai Gaon) |
+| ימים | yeimim | mules, hinnies | a hapax; mules (Rashi), hinnies (Shadal), or giants (Onkelos, Ibn Ezra) |
 
 ## Distinctions
 

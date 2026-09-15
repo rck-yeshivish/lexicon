@@ -5,6 +5,19 @@ roots: [ר-ק-ד, כ-ר-כ-ר, כ-ר, פ-ז-ז, פ-ז, ר-צ-ד]
 translit: [rikud, rikkud, rikod, rekidah, miraked, mirakedin, kirkur, micharker, mecharker, micharkerin, mifazez, mefazez, mifazezin, paz, tiratzdun, kefitzah]
 english: [dance, whirl, caper, prance, leap]
 domain: action
+words:
+  - he: ריקוד
+    tr: rikud
+    en: dancing
+    distinct: the general word, naming the joy that is the occasion for dancing rather than a specific act (Tedeschi-Ashkenazi); a jump that leaves one foot on the ground, against kefitzah (Yerushalmi)
+  - he: כרכור
+    tr: kirkur
+    en: whirling, capering
+    distinct: a specific act of dancing, the footwork; circular motion (Rabbi Yosef Kara), as young animals move in circles (Tedeschi-Ashkenazi); the movements of the feet, against mifazez of the hands (Rashbam)
+  - he: פזז
+    tr: pizuz
+    en: prancing, leaping about
+    distinct: the wild, fast part of the dance (Metzudas David); the hands and fingers moving with the feet (Rashbam, Rabbi Tanchum HaYerushalmi); the extra verb at Shmuel II 6:16, the wildness that galled Michal (Rabbi Zev Atlas)
 sources:
   - wiaw:11784 "Shemini: Dancing Away" (2025-04-26) https://articles.ohr.edu/articles/shemini-dancing-away
 authorities: [Talmud Yerushalmi, Rabbi Aharon Marcus, Rabbi Moshe Tedeschi-Ashkenazi, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, Rabbi Tanchum HaYerushalmi, Rabbeinu Yonah Ibn Janach, Rabbeinu Avraham ben Shlomo, Targum, Rambam, Rabbi Yehuda Aryeh of Carpentras, Metzudas David, Rabbi Zev Atlas, Rashbam, Shadal, Yehoshua Yaron]
@@ -23,6 +36,14 @@ wild, fast part: **prancing** or **leaping about**, the hands and fingers moving
 with the feet. At Shmuel II 6:14 David is only *micharker*, and at 6:16, through
 Michal's eyes, he is *mifazez umecharker*. For Rabbi Zev Atlas, the added verb
 names what truly irked Michal.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ריקוד | rikud | dancing | the general word; the joy behind the dance (Tedeschi-Ashkenazi); one foot stays down (Yerushalmi) |
+| כרכור | kirkur | whirling, capering | whirling footwork; circular motion (Rabbi Yosef Kara); the feet, not the hands (Rashbam) |
+| פזז | pizuz | prancing, leaping about | wild, fast dancing (Metzudas David); the hands move too (Rashbam); what galled Michal (Atlas) |
 
 ## Distinctions
 

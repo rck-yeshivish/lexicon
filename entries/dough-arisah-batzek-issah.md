@@ -13,7 +13,18 @@ words:
   - he: ערבה
     nk: עֲרֵבָה
   - he: עריסה
+    tr: arisah
+    en: mixed dough
     nk: עֲרִיסָה
+    distinct: the Torah's word for dough in the mitzvah of challah; dough as a mixture just kneaded together (Mecklenburg, Rav Hirsch); the kneading trough (Rabbeinu Meyuchas); simply synonymous with batzek (Ibn Janach, Radak)
+  - he: בצק
+    tr: batzek
+    en: risen dough
+    distinct: the ordinary biblical word for dough; dough already kneaded into one batch and beginning to rise, the root also meaning swollen (Mecklenburg); simply synonymous with arisah (Ibn Janach, Radak)
+  - he: עיסה
+    tr: issah
+    en: kneaded dough
+    distinct: the Mishnah's word, absent from Tanach as dough; what must be kneaded and so is squeezed and trampled (Pappenheim, Mecklenburg, Marcus); the same word as arisah without the extra reish (Rabbi Baruch HaLevi Epstein)
 sources:
   - wiaw:8744 "Kneading the Dough" (2020-06-13) https://articles.ohr.edu/articles/kneading-the-dough
 authorities: [Ibn Janach, Radak, Rabbeinu Meyuchas bar Eliyahu, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Nosson of Rome, Rav Hirsch, Rabbi Yachya ben Shalom Kohen, Rabbi Yitzchak Ratzabi, Rabbi Shlomo Pappenheim, Rabbi Baruch HaLevi Epstein]
@@ -32,6 +43,14 @@ ordinary dough), and *issah* is the Mishnaic word, dough as the thing that is
 **kneaded and pressed**. But the distinction is not agreed: Ibn Janach and Radak
 hold *arisah* and *batzek* to be simply synonymous, and which reading prevails
 is left open.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עריסה | arisah | mixed dough | dough as a mixture (Mecklenburg, Rav Hirsch); the Torah's word for *challah* |
+| בצק | batzek | risen dough | kneaded into a batch and rising (Mecklenburg); the root means swollen |
+| עיסה | issah | kneaded dough | Mishnaic; kneaded, so squeezed and trampled (Pappenheim, Mecklenburg, Marcus) |
 
 ## Distinctions
 

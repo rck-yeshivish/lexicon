@@ -7,7 +7,14 @@ english: [death, died, dying, passing, passed away, departed]
 domain: other
 words:
   - he: מיתה
+    tr: mitah
+    en: death
     nk: מִיתָה
+    distinct: the physical end, the parting of body and soul, said of anyone and of animals; names the conclusion of life and says nothing of what follows, so even the wicked have a mitah; death in general (Rabbi Avraham Chaim Schor)
+  - he: פטירה
+    tr: petirah
+    en: passing
+    distinct: literally exiting, taking leave; the Rabbinic word for leaving This World for the Next, generally reserved for the righteous and implying continuation, the body left exempt once the soul departs (Rabbi Klein); the tzaddik exempted from suffering (Rabbi Avraham Chaim Schor)
 sources:
   - wiaw:10907 "Acharei Mos: Confronting Death" (2024-05-04) https://articles.ohr.edu/articles/acharei-mos-confronting-death
 authorities: [Rabbi Yehuda Chayyuj, Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Menachem ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Avraham Chaim Schor]
@@ -23,6 +30,13 @@ and soul, said of anyone and of animals. *Petirah* (*nifter*) is **passing**,
 literally "exiting, taking leave," the Rabbinic word for a person leaving This
 World for the Next; it is generally reserved for the righteous and implies a
 continuation. *Nifter* is "passed away" or "departed."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מיתה | mitah | death | the physical end, of anyone or any animal; says nothing of what follows |
+| פטירה | petirah | passing | exiting to the Next World; for the righteous (Rabbi Klein); freed from suffering (Schor) |
 
 ## Distinctions
 

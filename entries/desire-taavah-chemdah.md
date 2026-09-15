@@ -6,8 +6,19 @@ translit: [taavah, ta'avah, taava, tayvah, tayvuh, taivah, taavos, hitavu, hisav
 english: [craving, lust, appetite, coveting, desire]
 domain: emotion
 words:
+  - he: תאוה
+    tr: taavah
+    en: craving, lust
+    distinct: desire whose fulfillment is direct bodily pleasure (Vilna Gaon); born of the subject's own proclivities, not the object (Pappenheim, Mecklenburg); made by one's own imagination, from within (Malbim); almost exclusively conjures the desire for intimacy
+  - he: חמדה
+    tr: chemdah
+    en: coveting
+    distinct: desire for what is not itself a bodily pleasure, fine clothes, a house, money (Vilna Gaon); follows from the object's inherent, recognized properties (Pappenheim, Mecklenburg); roused by seeing it (Malbim)
   - he: חפץ
+    tr: chefetz
+    en: desire
     nk: חֵפֶץ
+    distinct: the Vilna Gaon's word for desire for food; seemingly the happy medium, the food's inherent value joined to the eater's appetite (Rabbi Klein); against ratzon, an emotional desire (Malbim), or the immediate, tangible goal (Rabbi Tzvi Yehuda Kook)
 sources:
   - wiaw:7292 "Deleterious Desires" (2017-06-10) https://articles.ohr.edu/articles/deleterious-desires
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
@@ -30,6 +41,14 @@ for desire for food, seems to sit between them, as Rabbi Klein suggests: plain
 illicit relations, and the Vilna Gaon explains that it does so respectively:
 *chemdah* with theft, *taavah* with illicit relations. The contrast between the two is inside (*taavah*) against outside
 (*chemdah*).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תאוה | taavah | craving, lust | bodily pleasure (Vilna Gaon); from within, one's own imagination (Malbim); usually intimacy |
+| חמדה | chemdah | coveting | not a bodily pleasure: money, a house (Vilna Gaon); roused by seeing (Malbim) |
+| חפץ | chefetz | desire | culinary desire (Vilna Gaon); between the other two (Rabbi Klein); the immediate goal (Kook) |
 
 ## Distinctions
 
