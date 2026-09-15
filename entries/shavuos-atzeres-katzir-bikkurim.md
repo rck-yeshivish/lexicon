@@ -67,41 +67,47 @@ Torah never applies it to this yom tov. Its sense is disputed,
 
 ## Where the authorities disagree
 
-**Whether *Atzeres* means conclusion.** Rabbi Chaim Elazar Shapiro of Munkatch
-(1868-1937): *atzeres* means "stop," as Israeli stop signs read *atzor*, and here
-denotes "the end" of something, so Shavuos is the conclusion of Pesach as
-*Shemini Atzeres* is the conclusion of Succos, which is why Rabbinic literature
-sometimes calls Shavuos "the *Atzeres* of Pesach." Ramban (to Vayikra 23:36)
-offers a similar idea, and Rabbi Moshe Zacuto (1625-1697) adopts a related
-approach. The *Kedushas Levi*, Rabbi Levi Yitzchak of Berditchev (1740-1810),
-likewise makes both names one thought, each viewing the yom tov as completing a
-span of time: *Shavuos* completes the weeks leading up from Pesach, *Atzeres* is
-the festive finale of Pesach itself. Rabbi Dovid Tzvi Hoffmann (1843-1921)
-rejects this, arguing there is no evidence that *atzeres* is associated with
-conclusions; he and Rabbi Yaakov Tzvi Mecklenburg (1785-1865) favor "gathering"
-or "congregating," pointing to Devarim 18:16, where the day the Torah was given
-is called *Yom HaKahal*, so that Chazal's name echoes a phrase the Torah had
-already used for that very day.
+**Whether *Atzeres* means conclusion.**
 
-**Two further readings of *Atzeres*.** The *Kedushas Levi* also reads it from
-restraint: a spark of inspiration to love or awe of Hashem is easily lost unless
-it is contained in a worldly receptacle, and a mitzvah done straight after the
-inspiration serves as that vessel. At Sinai Yisrael had no mitzvos yet to serve
-so, except the command to refrain from touching the mountain, and by keeping that
-they fashioned a vessel in which the inspiration of Sinai could be stored
-forever. *Atzeres* therefore carries both senses at once, "stop" (refrain from
-the mountain) and "gather" (gather the inspiration into its container). Rabbi
-Yechezkel Abramsky (1886-1976) reads the name from the absence of a positive
-mitzvah: the two days the Torah calls *Atzeres*, the eighth of Succos (Vayikra
-23:36, Bamidbar 29:35) and the seventh of Pesach (Devarim 16:8), are the only
-yamim tovim with no act commanded, only refraining from melachah, unlike lulav on
-at least the first day of Succos, matzah on the first day of Pesach, shofar on Rosh Hashanah and the fast of Yom Kippur.
-Shavuos had its own act, the two goats and two leavened loaves (Vayikra
-23:16-20), while the Beis HaMikdash stood; once the First Beis HaMikdash was
-destroyed and that lapsed, Shavuos too was left with refraining alone, and in
-later times people began to call it *Atzeres*. The
-*Kedushas Levi* also writes that Shavuos is called *Atzeres* because it carries
-only the prohibition of work and no other mitzvah.
+- Rabbi Chaim Elazar Shapiro of Munkatch (1868-1937): *atzeres* means "stop," as
+  Israeli stop signs read *atzor*, and here denotes "the end" of something, so
+  Shavuos is the conclusion of Pesach as *Shemini Atzeres* is the conclusion of
+  Succos, which is why Rabbinic literature sometimes calls Shavuos "the
+  *Atzeres* of Pesach." Ramban (to Vayikra 23:36) offers a similar idea, and
+  Rabbi Moshe Zacuto (1625-1697) adopts a related approach.
+- The *Kedushas Levi*, Rabbi Levi Yitzchak of Berditchev (1740-1810), likewise
+  makes both names one thought, each viewing the yom tov as completing a span of
+  time: *Shavuos* completes the weeks leading up from Pesach, *Atzeres* is the
+  festive finale of Pesach itself.
+- Rabbi Dovid Tzvi Hoffmann (1843-1921) rejects this, arguing there is no
+  evidence that *atzeres* is associated with conclusions; he and Rabbi Yaakov
+  Tzvi Mecklenburg (1785-1865) favor "gathering" or "congregating," pointing to
+  Devarim 18:16, where the day the Torah was given is called *Yom HaKahal*, so
+  that Chazal's name echoes a phrase the Torah had already used for that very
+  day.
+
+**Two further readings of *Atzeres*.**
+
+- The *Kedushas Levi* also reads it from restraint: a spark of inspiration to
+  love or awe of Hashem is easily lost unless it is contained in a worldly
+  receptacle, and a mitzvah done straight after the inspiration serves as that
+  vessel. At Sinai Yisrael had no mitzvos yet to serve so, except the command to
+  refrain from touching the mountain, and by keeping that they fashioned a vessel
+  in which the inspiration of Sinai could be stored forever. *Atzeres* therefore
+  carries both senses at once, "stop" (refrain from the mountain) and "gather"
+  (gather the inspiration into its container).
+- Rabbi Yechezkel Abramsky (1886-1976) reads the name from the absence of a
+  positive mitzvah: the two days the Torah calls *Atzeres*, the eighth of Succos
+  (Vayikra 23:36, Bamidbar 29:35) and the seventh of Pesach (Devarim 16:8), are
+  the only yamim tovim with no act commanded, only refraining from melachah,
+  unlike lulav on at least the first day of Succos, matzah on the first day of
+  Pesach, shofar on Rosh Hashanah and the fast of Yom Kippur. Shavuos had its own
+  act, the two goats and two leavened loaves (Vayikra 23:16-20), while the Beis
+  HaMikdash stood; once the First Beis HaMikdash was destroyed and that lapsed,
+  Shavuos too was left with refraining alone, and in later times people began to
+  call it *Atzeres*.
+- The *Kedushas Levi* also writes that Shavuos is called *Atzeres* because it
+  carries only the prohibition of work and no other mitzvah.
 
 **Whether the name is warranted at all.** *Midrash Lekach Tov* (also called
 *Pesikta Zutrata*), by the eleventh-century Rabbi Tuviah ben Eliezer, notes that

@@ -108,12 +108,14 @@ barren land; and from *sadeh* the word *sid*, plaster, made by burning stones
 found in the field.
 
 The Biblical *sad* is literally the ropes and chains that tie down a prisoner
-(Iyov 13:27, 33:11). Pappenheim, following Rashi to Iyov 13:27, takes it as the
-tree trunks prisoners were tied to, and relates *sadan* to it. Rabbi Yaakov Tzvi
-Mecklenburg goes the other way and makes the tying sense the core of
-SAMECH-DALET: a *sod* as a secret is information tied down so it cannot escape
-its purview, and a *sod* as a council is a body of men tied together in a common
-advisory role.
+(Iyov 13:27, 33:11).
+
+- Pappenheim, following Rashi to Iyov 13:27, takes it as the tree trunks
+  prisoners were tied to, and relates *sadan* to it.
+- Rabbi Yaakov Tzvi Mecklenburg goes the other way and makes the tying sense the
+  core of SAMECH-DALET: a *sod* as a secret is information tied down so it cannot
+  escape its purview, and a *sod* as a council is a body of men tied together in
+  a common advisory role.
 
 ### dvar seter (דבר סתר) and kamus (כמוס)
 Pappenheim claims that although Biblical *sod* does not quite mean secret, the
@@ -153,19 +155,20 @@ Scrolls, used there for various mystical and esoteric allusions, and
 linguists derive the Aramaic word from the Old Persian *raza*, itself related to
 the Sanskrit *rahasya*, both said to go back to Proto-Indo-Iranian *rajh*.
 
-Pappenheim and Malbim (to Iyov 15:12) trace the Biblical *rezem*, hinting, to
-the biliteral REISH-ZAYIN, "hidden." As Pappenheim explains it, a wink of the
-eyes or a gesture tells those in the know that one is privy to a secret others
-are not. Pappenheim says this only of *rezem*, which is Biblical; Rabbi Reuven
-Chaim Klein finds it not much of a stretch to extend it to the Mishnaic *remez*
-(Gittin 5:7) as well. Pappenheim and Malbim also derive *roznim*, noblemen and ministers
-(Shoftim 5:3; Yeshayahu 40:23; Tehillim 2:2; Mishlei 8:15, 14:28, 31:4), from
-the same root, since such aristocrats were often privy to information the
-common people were not (see also Malbim to Mishlei 14:28 and *Shoresh Yesha*).
-Rav Hirsch (to Tehillim 2:2) instead connects *roznim* to *resen*, the
-mouthpiece put into a horse's or donkey's mouth to control it, through the
-interchange of samech and zayin: the *roznim* lead the government just as the
-*resen* leads an animal.
+- Pappenheim and Malbim (to Iyov 15:12) trace the Biblical *rezem*, hinting, to
+  the biliteral REISH-ZAYIN, "hidden." As Pappenheim explains it, a wink of the
+  eyes or a gesture tells those in the know that one is privy to a secret others
+  are not. Pappenheim says this only of *rezem*, which is Biblical; Rabbi Reuven
+  Chaim Klein finds it not much of a stretch to extend it to the Mishnaic *remez*
+  (Gittin 5:7) as well.
+- Pappenheim and Malbim also derive *roznim*, noblemen and ministers (Shoftim
+  5:3; Yeshayahu 40:23; Tehillim 2:2; Mishlei 8:15, 14:28, 31:4), from the same
+  root, since such aristocrats were often privy to information the common people
+  were not (see also Malbim to Mishlei 14:28 and *Shoresh Yesha*).
+- Rav Hirsch (to Tehillim 2:2) instead connects *roznim* to *resen*, the
+  mouthpiece put into a horse's or donkey's mouth to control it, through the
+  interchange of samech and zayin: the *roznim* lead the government just as the
+  *resen* leads an animal.
 
 Rabbi Reuven Chaim Klein suggests, as his own proposal, reading *raz* as a
 metathesis of *zar*, strange or foreign, since the information is withheld from
@@ -188,13 +191,16 @@ HaShalem* to Shemos 25:10 §9, 25:11 §6 and §16, 25:25 §6, 39:2 §1).
 Aramaic. Targum uses it for *tamun* (Bereishis 35:4; Shemos 2:12; Yirmiyahu
 13:5), *kisui* (Iyov 36:32), *seter* (Tehillim 10:11, 27:5, 32:7, 139:15), and
 *mischabeh* (Shmuel I 10:22); Targum Yonasan (to Devarim 32:34) renders *kamus*
-as *tumrah*. Rabbi Ernest Klein proposes that the Hebrew root ט-מ-ן, hidden or
-buried, actually derives from the Aramaic ט-מ-ר, with nun and reish
-interchanging as they often do; Rabbi Reuven Chaim Klein adds that it is equally
-possible the opposite is true and the Aramaic derives from the Hebrew. Rabbi
-Ernest Klein also relates the
-English *mattamore*, a subterranean dwelling or storehouse, to this Hebrew and
-Aramaic term, by way of French and Arabic.
+as *tumrah*.
+
+- Rabbi Ernest Klein proposes that the Hebrew root ט-מ-ן, hidden or buried,
+  actually derives from the Aramaic ט-מ-ר, with nun and reish interchanging as
+  they often do.
+- Rabbi Reuven Chaim Klein adds that it is equally possible the opposite is true
+  and the Aramaic derives from the Hebrew.
+- Rabbi Ernest Klein also relates the English *mattamore*, a subterranean
+  dwelling or storehouse, to this Hebrew and Aramaic term, by way of French and
+  Arabic.
 
 The Maggid who spoke to Rabbi Yosef Karo consistently called the Provençal
 posek Rabbeinu Yerucham "Yerucham Tamiri," Yerucham the Hidden One (*Maggid

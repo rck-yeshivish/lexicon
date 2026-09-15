@@ -82,34 +82,41 @@ between an *oht* and a *mofet*?
    conclusively establishes an idea while an *oht* is evidence pointing in the
    direction of an idea without conclusively proving it.
 
-**Which word points to the sender and which to the message.** Sforno (to Shemos
-7:9): when Hashem sends someone to perform a miraculous feat, the word used
-depends on the purpose of the miracle. If the purpose is to relate a message
-about Hashem, the term is *mofet*; if it is to relate something about the
-messenger or medium, the term is *oht*. Malbim explains the staff-and-snake:
-before Klal Yisrael it is an *oht*, a sign to them that Moshe was really sent by
-Hashem; before Pharaoh it is a *mofet*, since to Pharaoh, who denied Hashem, it
-was simply a supernatural parlor trick with no deeper meaning.
+**Which word points to the sender and which to the message.**
 
-**Mofet and belief.** Radak (1160-1235) in *Sefer
-HaShorashim*: an *oht* is any type of sign, while a *mofet* is specifically the
-sort of sign whose purpose is to cause one to believe in something set for the
-future. Rabbi Avraham Menachem HaKohen Rappaport (1520-1594) in *Minchah Belulah*
-gives two differences: an *oht* directly
-brings a person to a certain belief, while a *mofet* only pushes him in the
-direction of a belief without bringing him to any conclusion, and he relates
-*mofet* to *mefateh*, to seduce or convince (see Devarim Rabbah §7:9);
-alternatively, an *oht* is a sign of the Heavenly realm and a *mofet* a sign in
-the Earthly realm. He then concludes that *oht* and *mofet* are simply synonyms
-meaning exactly the same thing.
+- Sforno (to Shemos 7:9): when Hashem sends someone to perform a miraculous
+  feat, the word used depends on the purpose of the miracle. If the purpose is to
+  relate a message about Hashem, the term is *mofet*; if it is to relate
+  something about the messenger or medium, the term is *oht*.
+- Malbim explains the staff-and-snake: before Klal Yisrael it is an *oht*, a sign
+  to them that Moshe was really sent by Hashem; before Pharaoh it is a *mofet*,
+  since to Pharaoh, who denied Hashem, it was simply a supernatural parlor trick
+  with no deeper meaning.
 
-**Whether they are synonyms.** Ramban cites the Sifrei (to Bamidbar 6:3), which
-explicitly notes that *oht* and *mofet* are the
-same thing, and explains that this does not literally mean the two are true
-synonyms bearing exactly the same meaning, only that both refer to the same sort
-of phenomenon. *Midrash Lekach Tov*, also known as *Pesikta Zutrasa*, cites the
-Sifrei and adds that an *oht* is a sign about something in the future and a
-*mofet* a sign of something imminent. Rabbi Shlomo Aharon Wertheimer (1866-1935)
+**Mofet and belief.**
+
+- Radak (1160-1235) in *Sefer HaShorashim*: an *oht* is any type of sign, while a
+  *mofet* is specifically the sort of sign whose purpose is to cause one to
+  believe in something set for the future.
+- Rabbi Avraham Menachem HaKohen Rappaport (1520-1594) in *Minchah Belulah* gives
+  two differences: an *oht* directly brings a person to a certain belief, while a
+  *mofet* only pushes him in the direction of a belief without bringing him to
+  any conclusion, and he relates *mofet* to *mefateh*, to seduce or convince (see
+  Devarim Rabbah §7:9); alternatively, an *oht* is a sign of the Heavenly realm
+  and a *mofet* a sign in the Earthly realm. He then concludes that *oht* and
+  *mofet* are simply synonyms meaning exactly the same thing.
+
+**Whether they are synonyms.**
+
+- Ramban cites the Sifrei (to Bamidbar 6:3), which explicitly notes that *oht*
+  and *mofet* are the same thing, and explains that this does not literally mean
+  the two are true synonyms bearing exactly the same meaning, only that both
+  refer to the same sort of phenomenon.
+- *Midrash Lekach Tov*, also known as *Pesikta Zutrasa*, cites the Sifrei and
+  adds that an *oht* is a sign about something in the future and a *mofet* a
+  sign of something imminent.
+
+Rabbi Shlomo Aharon Wertheimer (1866-1935)
 explains that this is no contradiction: *Midrash Lekach Tov* understood the
 Sifrei to mean that there is no difference between the words in that both mean "a
 sign," while they can still differ in the detail of when what is signified is to

@@ -84,26 +84,33 @@ will be with you and return you to the Land of your Forefathers. And I give to
 you one *shechem* over your brothers, which I had taken from the Emorites with my
 sword and my bow" (Bereishis 48:21-22). The commentators, among them Targum,
 Rashi and Ibn Ezra, "scramble" to explain what Yaakov
-bequeaths. Some read the Canaanite city of Shechem, which Yaakov's sons had
-already conquered from the Emorites who lived there, and Sefer Yehoshua ends with
-Yosef's bones buried in that city (Yehoshua 24:32). Others read not the city but
-an extra allotment, *shechem* being able to mean a parcel or package: each son
-received one lot of territory, while Yosef received two, one for each of his
-sons. That sense is a borrowed one, secondary or even tertiary; the word literally
-names the body part on which packages were generally carried.
+bequeaths.
+
+- Some read the Canaanite city of Shechem, which Yaakov's sons had already
+  conquered from the Emorites who lived there, and Sefer Yehoshua ends with
+  Yosef's bones buried in that city (Yehoshua 24:32).
+- Others read not the city but an extra allotment, *shechem* being able to mean a
+  parcel or package: each son received one lot of territory, while Yosef
+  received two, one for each of his sons. That sense is a borrowed one, secondary
+  or even tertiary; the word literally names the body part on which packages
+  were generally carried.
 
 The literal use is in the blessing to Yissachar, "Yissachar is like a boney
 donkey, crouching between the borders. And he saw rest that is good, and the land
 that it is pleasant. And he lowered his *shechem* to carry the burden" (Bereishis
 49:14-15), the *shechem* being the part of the donkey on which it carries its
-yoke. Rabbi Dovid Zvi Hoffmann (1843-1921) connects the verb *lehashkim*, to wake
-up early, whose root is the same letters as *shechem*: waking involves raising
-one's shoulder as one goes from horizontal to vertical. Some linguists similarly
-tie rising early to the shoulder: loading parcels on a beast's back was usually
-done early in the morning, right before setting out for the day, so *shechem*
-came to mean doing anything early in the morning, and even waking early. Benjamin
-Franklin (1706-1790) had it that early to bed and early to rise makes a man
-healthy, wealthy and wise.
+yoke.
+
+- Rabbi Dovid Zvi Hoffmann (1843-1921) connects the verb *lehashkim*, to wake up
+  early, whose root is the same letters as *shechem*: waking involves raising
+  one's shoulder as one goes from horizontal to vertical.
+- Some linguists similarly tie rising early to the shoulder: loading parcels on a
+  beast's back was usually done early in the morning, right before setting out
+  for the day, so *shechem* came to mean doing anything early in the morning,
+  and even waking early.
+
+Benjamin Franklin (1706-1790) had it that early to bed and early to rise makes a
+man healthy, wealthy and wise.
 
 ### katef (כתף)
 The shoulder as such. It appears in contrast with *shechem* at Iyov 31:21-22, where Iyov,

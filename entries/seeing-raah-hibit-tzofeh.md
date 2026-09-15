@@ -70,10 +70,11 @@ narrow opening, and *mashgiach* is watching that acts on what it sees.
 ## Distinctions
 
 ### ra'ah (ראה)
-Malbim: the physiological function of the eye, the sense of sight itself, and in
-particular a sight one stumbles on without intending to behold it. The Vilna Gaon
-(to Yeshayahu 5:12): *ra'ah* is seeing at the surface, what a quick glance takes
-in.
+
+- Malbim: the physiological function of the eye, the sense of sight itself, and
+  in particular a sight one stumbles on without intending to behold it.
+- The Vilna Gaon (to Yeshayahu 5:12): *ra'ah* is seeing at the surface, what a
+  quick glance takes in.
 
 ### hibit (הביט)
 - The Vilna Gaon (there): *hibit* is seeing what a glance would not have caught.
@@ -120,25 +121,29 @@ thing.
   in *ra'ah* or *hibit* and Malbim in *shur*.
 
 ### shur (שור)
-Malbim: seeing something far away, in time or in space. Rabbi Shlomo Pappenheim
-links it to *yashar*, straight: sight alone among the senses can be aimed, the
-man setting his eyes directly opposite one view so that he sees nothing else,
-where the nose, ears, and palate take in whatever reaches them all at once.
+
+- Malbim: seeing something far away, in time or in space.
+- Rabbi Shlomo Pappenheim links it to *yashar*, straight: sight alone among the
+  senses can be aimed, the man setting his eyes directly opposite one view so
+  that he sees nothing else, where the nose, ears, and palate take in whatever
+  reaches them all at once.
 
 ### metzitz (מציץ)
-Malbim: not primarily a word for seeing at all, but a borrowed term whose
-hyper-literal sense is stretching; the one who is *metzitz* cranes his neck for a
-better view, as in Shir HaShirim 2:9, peering through the lattice. Rabbi
-Wertheimer: looking where the field of vision is somewhat constricted, which in English is
-peeking.
+
+- Malbim: not primarily a word for seeing at all, but a borrowed term whose
+  hyper-literal sense is stretching; the one who is *metzitz* cranes his neck for
+  a better view, as in Shir HaShirim 2:9, peering through the lattice.
+- Rabbi Wertheimer: looking where the field of vision is somewhat constricted,
+  which in English is peeking.
 
 ### mashgiach (משגיח)
-Rabbi Wertheimer: unlike *mashkif*, *mashgiach* always carries a good sense.
-Rabbi Moshe Shapiro: not one who merely watches but one who watches actively, and
-when he sees what calls for intervention he does not hesitate to take action and
-set it right. So too *hashgachah*, Hashem's administrative role in creation: not
-a passive *deus otiosus*, a god at rest, but One who
-actively affects the world's events according to His will.
+
+- Rabbi Wertheimer: unlike *mashkif*, *mashgiach* always carries a good sense.
+- Rabbi Moshe Shapiro: not one who merely watches but one who watches actively,
+  and when he sees what calls for intervention he does not hesitate to take
+  action and set it right. So too *hashgachah*, Hashem's administrative role in
+  creation: not a passive *deus otiosus*, a god at rest, but One who actively
+  affects the world's events according to His will.
 
 ## Rendering guidance
 

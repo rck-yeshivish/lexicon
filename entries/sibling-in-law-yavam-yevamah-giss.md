@@ -55,23 +55,26 @@ relations at once, a woman's husband's brother, a woman's sister's husband, a ma
 
 ## Where the authorities disagree
 
-**Why the levir is a *yavam*.** Rabbi Shlomo Pappenheim of Breslau (1740-1814)
-traces it to the biliteral ב-מ, whose core sense shows in *bam*, "in them" or
-"through them," which he further breaks down into two monoliteral roots, the beis
-of "in, through" and the mem of "them," so that the two-letter root denotes the
-conglomeration and meeting point of several parties. *Bamah*, the private altar,
-he derives from it as a site where many gathered in communal worship; *bamah*
-also means "high place," which many commentators take to be the
-word's original meaning, since such gatherings were usually held at elevated
-spots to be seen. Pappenheim then sets *yavam* against the other in-law terms: a
-spouse has only one father-in-law and one mother-in-law, so *choten* / *chosenes*
-and *cham* / *chamos* are always limited to one person, whereas marriage can
-bring any number of siblings-in-law at once, a kind of mass gathering of family.
-Rabbi Yaakov Tzvi Mecklenburg (1785-1865) cites Pappenheim but ultimately prefers
-another approach, connecting *yibbum* to *bamah* through the traditional sense of
-a high place: *yibbum* lifts up a downtrodden childless widow by marrying her and
-making her feel important again, or, he alternatively suggests, elevates the
-deceased brother's neshamah by establishing a family in his name.
+**Why the levir is a *yavam*.**
+
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814) traces it to the biliteral ב-מ,
+  whose core sense shows in *bam*, "in them" or "through them," which he further
+  breaks down into two monoliteral roots, the beis of "in, through" and the mem
+  of "them," so that the two-letter root denotes the conglomeration and meeting
+  point of several parties. *Bamah*, the private altar, he derives from it as a
+  site where many gathered in communal worship; *bamah* also means "high place,"
+  which many commentators take to be the word's original meaning, since such
+  gatherings were usually held at elevated spots to be seen. Pappenheim then sets
+  *yavam* against the other in-law terms: a spouse has only one father-in-law and
+  one mother-in-law, so *choten* / *chosenes* and *cham* / *chamos* are always
+  limited to one person, whereas marriage can bring any number of siblings-in-law
+  at once, a kind of mass gathering of family.
+- Rabbi Yaakov Tzvi Mecklenburg (1785-1865) cites Pappenheim but ultimately
+  prefers another approach, connecting *yibbum* to *bamah* through the
+  traditional sense of a high place: *yibbum* lifts up a downtrodden childless
+  widow by marrying her and making her feel important again, or, he
+  alternatively suggests, elevates the deceased brother's neshamah by
+  establishing a family in his name.
 
 **What the verb *yibbum* does to her status.**
 - Rabbi Shlomo Pappenheim: at the husband's death she was no longer actively
@@ -89,14 +92,16 @@ deceased brother's neshamah by establishing a family in his name.
   charge of a widowed sister-in-law and bring her into their own family (see
   also *Meshech Chochmah* to Devarim 25:5).
 
-**Whether *yavam* is a kinship word at all.** Rabbi Mecklenburg and others, cited
-by Rabbi Heidenheim: Biblical Hebrew has no special word for brother-in-law or
-sister-in-law, the latter being *eishes achiv*, "his brother's wife" (Bereishis
-38:8-9; Vayikra 18:16, 20:21), and only later Rabbinic Hebrew introduced *giss* /
-*gissa*. On their view *yavam* / *yevamah* name specifically the parties to the
-mitzvah of *yibbum* and are not general kinship terms. Rabbi Heidenheim himself
-cites Ibn Ezra and HaBachur as clearly disagreeing, taking *yavam* / *yevamah* as
-kinship terms even outside a *yibbum* context.
+**Whether *yavam* is a kinship word at all.**
+
+- Rabbi Mecklenburg and others, cited by Rabbi Heidenheim: Biblical Hebrew has no
+  special word for brother-in-law or sister-in-law, the latter being *eishes
+  achiv*, "his brother's wife" (Bereishis 38:8-9; Vayikra 18:16, 20:21), and only
+  later Rabbinic Hebrew introduced *giss* / *gissa*. On their view *yavam* /
+  *yevamah* name specifically the parties to the mitzvah of *yibbum* and are not
+  general kinship terms.
+- Rabbi Heidenheim himself cites Ibn Ezra and HaBachur as clearly disagreeing,
+  taking *yavam* / *yevamah* as kinship terms even outside a *yibbum* context.
 
 **What *giss* covers.**
 - Rabbi Wolf Heidenheim: only a spouse's sibling or that sibling's spouse, so
@@ -126,12 +131,15 @@ kinship terms even outside a *yibbum* context.
   brother's wife or his wife's sister *gisaso*, but holds that a borrowed rather
   than the primary sense.
 
-**Whether *choten* can mean brother-in-law.** Ibn Janach (990-1050) says yes,
-adducing it from his understanding that Chovav ben Reuel was a son of Moshe's
-father-in-law Yisro/Reuel (Bamidbar 10:29), while Shoftim 4:11 describes Chovav
-as Moshe's *choten*. Radak (1160-1234) disagrees and clarifies that Chovav is
-another name for Yisro and Reuel was Chovav's father, so Chovav was Moshe's
-father-in-law and there is no proof at all that *choten* can mean brother-in-law.
+**Whether *choten* can mean brother-in-law.**
+
+- Ibn Janach (990-1050) says yes, adducing it from his understanding that Chovav
+  ben Reuel was a son of Moshe's father-in-law Yisro/Reuel (Bamidbar 10:29), while
+  Shoftim 4:11 describes Chovav as Moshe's *choten*.
+- Radak (1160-1234) disagrees and clarifies that Chovav is another name for Yisro
+  and Reuel was Chovav's father, so Chovav was Moshe's father-in-law and there is
+  no proof at all that *choten* can mean brother-in-law.
+
 Rabbi Klein observes that both of them seem to disregard the Midrashic position
 that Reuel and Chovav are both alternate names for Yisro. There is
 precedent for Ibn Janach's assertion in other languages: the Akkadian cognate of
@@ -158,14 +166,15 @@ Root ג-ס, which does not appear in Tanach at all; the two letters never stand
 adjacent anywhere in it. In Mishnaic Hebrew the two-letter string yields various
 senses, each attested at several loci, including "mixing" (among them
 *Pesachim* 5:10), "army" (*Rosh Hashanah* 2:5), "thick" (*Shabbos* 4:1), and
-"familiar, intimate" (*Yevamos* 4:10, *Avos* 4:7). Rabbi Yaakov Emden (1697-1776)
-submits that *giss* as brother-in-law relates to the last of these, connoting
-closeness and family intimacy. Rabbi Klein suggests that
-all the various senses may derive from a core meaning of mixing: an army is fighters
-mixed for a common cause, thickness is mass concentrated in one place, and
-intimacy is two parties joined close, so that *giss* / *gissa* fits a root about
-families mixing together in matrimony, which he finds reminiscent of Rabbi
-Pappenheim's ב-מ.
+"familiar, intimate" (*Yevamos* 4:10, *Avos* 4:7).
+
+- Rabbi Yaakov Emden (1697-1776) submits that *giss* as brother-in-law relates to
+  the last of these, connoting closeness and family intimacy.
+- Rabbi Klein suggests that all the various senses may derive from a core meaning
+  of mixing: an army is fighters mixed for a common cause, thickness is mass
+  concentrated in one place, and intimacy is two parties joined close, so that
+  *giss* / *gissa* fits a root about families mixing together in matrimony, which
+  he finds reminiscent of Rabbi Pappenheim's ב-מ.
 
 The same root gives *gassus* or *gassus ruach*, haughtiness (*Avos* 4:7 and
 Targum to Tehillim 10:2, 10:4, 76:13, 101:5, and Mishlei 16:18), the arrogant man
@@ -176,10 +185,12 @@ to Vayikra 3:4 and Yeshayahu 60:4, 66:12), which Rabbi Klein suggests, as a
 "perhaps," may relate to the sibling-in-law standing figuratively on the other
 side of the family tree.
 
-HaBachur vocalizes the word *gass*; Rabbi Yosef Teomim-Frankel (1727-1792),
-author of the *Pri Megadim*, points out that it is sometimes written with a yod
-between the gimmel and the samech, which supports vocalizing the gimmel with a
-chirik as is the common practice. Some versions of the Mishnah, that printed in
+- HaBachur vocalizes the word *gass*.
+- Rabbi Yosef Teomim-Frankel (1727-1792), author of the *Pri Megadim*, points out
+  that it is sometimes written with a yod between the gimmel and the samech,
+  which supports vocalizing the gimmel with a chirik as is the common practice.
+
+Some versions of the Mishnah, that printed in
 the Yerushalmi and the Kaufmann manuscript, spell it with an initial aleph,
 *agiss*. In Modern Hebrew aleph-gimmel-samech, *agas*, is a pear, and in the
 Mishnah (*Kilayim* 1:4, *Maasros* 1:3, *Uktzin* 1:6) it certainly names some sort

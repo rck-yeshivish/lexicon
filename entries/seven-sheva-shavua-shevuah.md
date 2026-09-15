@@ -59,33 +59,37 @@ part on why. *Sheva* is not "seven" where the sources read it as
 
 ## Where the authorities disagree
 
-**Does shabbos mean "week"?** In "you shall count seven complete *shabbasos*"
-(Vayikra 23:15-16), Ibn Ezra and Ramban hold that the word carries two senses
-within a few pesukim: the first two occurrences name a holy day, the first day of
-Pesach, and the last two mean weeks. Targum Onkelos reflects exactly this,
-rendering the first pair *yoma tava* and the second *shavua*. Ramban adds that
-*shabbos* for "week" is common in rabbinic speech (*Taanis* 4:7, *Megillah* 3:4,
-*Kesubos* 1:1, 5:6-7, *Eduyos* 4:10, *Nedarim* 8:1, *Bava Metzia* 9:11, *Bava
-Basra* 5:10, *Sheviis* 2:6, *Niddah* 4:5), and calls the word a synecdoche: a day
-within the week and the week entire. By the same token the Sabbatical year is
-called *shabbos* (Vayikra 25:2, 25:4, 25:6, 26:34-35; Divrei HaYamim II 36:21),
-and so is the seven-year cycle that contains it (Vayikra 25:8), the name for the Sabbatical year highlighting
-its Shabbos-like rules requiring one to rest from working the ground.
-Rabbi Yaakov Tzvi Mecklenburg objects that
-nowhere else in Tanach does *shabbos* mean week, and reads it there in its plain
-sense of ceasing: between the Omer on the second day of Pesach and the Two Loaves
-on Shavuos no new grain is used in the Mikdash, so those weeks may be
-characterized as a cessation.
+**Does shabbos mean "week"?**
 
-**Shabbos or shavua, when both mean week.** Mecklenburg: *shabbos* is
-specifically the calendar week that runs from Sunday to Shabbos, which lends the
-day's name to the whole; *shavua*, from *sheva*, is any seven-day stretch and
-need not begin on Sunday. Rabbi Dr. Alter HaLevi Hilowitz presumes that *shavua*
-too means the calendar week, and draws a consequence: if the *shavuos* counted to
-the festival are calendar weeks, the count would always begin on a Sunday, which
-is the heretical Tzedoki position; on his account the name Shavuos lends credence
-to it, and that is why Chazal refrained from using it and called the festival
-*Atzeres* instead.
+- In "you shall count seven complete *shabbasos*" (Vayikra 23:15-16), Ibn Ezra
+  and Ramban hold that the word carries two senses within a few pesukim: the
+  first two occurrences name a holy day, the first day of Pesach, and the last
+  two mean weeks. Targum Onkelos reflects exactly this, rendering the first pair
+  *yoma tava* and the second *shavua*. Ramban adds that *shabbos* for "week" is
+  common in rabbinic speech (*Taanis* 4:7, *Megillah* 3:4, *Kesubos* 1:1,
+  5:6-7, *Eduyos* 4:10, *Nedarim* 8:1, *Bava Metzia* 9:11, *Bava Basra* 5:10,
+  *Sheviis* 2:6, *Niddah* 4:5), and calls the word a synecdoche: a day within
+  the week and the week entire. By the same token the Sabbatical year is called
+  *shabbos* (Vayikra 25:2, 25:4, 25:6, 26:34-35; Divrei HaYamim II 36:21), and
+  so is the seven-year cycle that contains it (Vayikra 25:8), the name for the
+  Sabbatical year highlighting its Shabbos-like rules requiring one to rest from
+  working the ground.
+- Rabbi Yaakov Tzvi Mecklenburg objects that nowhere else in Tanach does
+  *shabbos* mean week, and reads it there in its plain sense of ceasing: between
+  the Omer on the second day of Pesach and the Two Loaves on Shavuos no new grain
+  is used in the Mikdash, so those weeks may be characterized as a cessation.
+
+**Shabbos or shavua, when both mean week.**
+
+- Mecklenburg: *shabbos* is specifically the calendar week that runs from Sunday
+  to Shabbos, which lends the day's name to the whole; *shavua*, from *sheva*, is
+  any seven-day stretch and need not begin on Sunday.
+- Rabbi Dr. Alter HaLevi Hilowitz presumes that *shavua* too means the calendar
+  week, and draws a consequence: if the *shavuos* counted to the festival are
+  calendar weeks, the count would always begin on a Sunday, which is the
+  heretical Tzedoki position; on his account the name Shavuos lends credence to
+  it, and that is why Chazal refrained from using it and called the festival
+  *Atzeres* instead.
 
 **Why an oath is a shevuah.** Five accounts:
 
@@ -130,12 +134,14 @@ to swear in Hashem's name, as against the name of any other deity (Devarim
 reckoning of the 613, which illustrates the tie again between Hashem, swearing
 and the number seven.
 
-**Is sheva always the number?** Rasag's *Tafsir* renders Lemech's "sevenfold has
-Kayin been avenged, and Lemech seventy-seven" (Bereishis 4:24) as "much... more
-and more," and *sheva yipol tzaddik vakam* (Mishlei 24:16) as "many"; Ibn Ezra
-and Ralbag read Mishlei the same way. Mecklenburg likewise intimates that the sevenfold
-punishments of Vayikra 26:18, 26:24, 26:28 are recurring punishment rather than a
-count.
+**Is sheva always the number?**
+
+- Rasag's *Tafsir* renders Lemech's "sevenfold has Kayin been avenged, and Lemech
+  seventy-seven" (Bereishis 4:24) as "much... more and more," and *sheva yipol
+  tzaddik vakam* (Mishlei 24:16) as "many"; Ibn Ezra and Ralbag read Mishlei the
+  same way.
+- Mecklenburg likewise intimates that the sevenfold punishments of Vayikra
+  26:18, 26:24, 26:28 are recurring punishment rather than a count.
 
 ## Distinctions
 
@@ -158,15 +164,18 @@ period is *shavuos*, and of *shavua* as a seven-year period *shavuim*; for some
 reason, Rashi in his commentary to the Gemara sometimes uses *shavuim* for weeks.
 
 ### The root
-Mecklenburg traces both ש-ב-ת and ש-ב-ע to the two-letter ש-ב, whose sense is
-returning. The ayin is not one of Pappenheim's radical letters, but, Rabbi Klein
-argues, the Aramaic *shav*, seven, is *sheva* without it, which leaves ample room
-for the derivation. Hence, for Mecklenburg, a *shevuyah*, a captive, caught in a closed system that keeps returning to
-its start, and hence *shabbos* and *shavua* as cycles of time that restart on
-reaching seven, whether of days, weeks, years, or, as the medieval mekubalim
-have it, millennia. Pappenheim offers a similar explanation: one
-who has returned home no longer moves toward anything, so *shabbos* as cessation
-grows out of returning, and a captive is forced into that same stillness.
+
+- Mecklenburg traces both ש-ב-ת and ש-ב-ע to the two-letter ש-ב, whose sense is
+  returning. The ayin is not one of Pappenheim's radical letters, but, Rabbi
+  Klein argues, the Aramaic *shav*, seven, is *sheva* without it, which leaves
+  ample room for the derivation. Hence, for Mecklenburg, a *shevuyah*, a captive,
+  caught in a closed system that keeps returning to its start, and hence
+  *shabbos* and *shavua* as cycles of time that restart on reaching seven,
+  whether of days, weeks, years, or, as the medieval mekubalim have it,
+  millennia.
+- Pappenheim offers a similar explanation: one who has returned home no longer
+  moves toward anything, so *shabbos* as cessation grows out of returning, and a
+  captive is forced into that same stillness.
 
 Mecklenburg holds that seven's cyclical importance is embedded in creation;
 although the week answers to no astronomical cycle as day, month, and year do,

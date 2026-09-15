@@ -70,12 +70,14 @@ creation at large.
 
 **The root of Ziv.** The month-name is spelled defective, while the ordinary
 Aramaic word for radiance in Daniel (2:31, 4:33, 5:6, 5:9-10, 7:28) is
-consistently spelled plene. Radak (*Sefer HaShorashim*): the root is ז-י-ו, even
-though the month-name is never written with a yud in Tanach. Rabbi
-Shlomo Pappenheim (*Cheshek Shlomo*): the root is the two-letter ז-ו, which he
-also takes as the etymon of *zavis*, a corner, and the month is Ziv because in
-it the sun somehow turns a corner; Rabbi Klein's own guess is that this
-may be the entry of the new season of spring.
+consistently spelled plene.
+
+- Radak (*Sefer HaShorashim*): the root is ז-י-ו, even though the month-name is
+  never written with a yud in Tanach.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo*): the root is the two-letter ז-ו,
+  which he also takes as the etymon of *zavis*, a corner, and the month is Ziv
+  because in it the sun somehow turns a corner; Rabbi Klein's own guess is that
+  this may be the entry of the new season of spring.
 
 **Where the name Ziv came from.** Historians and Bible scholars tend to explain
 Ziv as the Phoenician and Canaanite name for the second month, simply borrowed
@@ -92,18 +94,22 @@ spelling there is itself disputed: the Kaufmann manuscript, from late
 eleventh-century Italy and the oldest vowelized manuscript of the Mishnah, and
 the Parma manuscript both have two yuds, while many other popular editions,
 *Ein Yaakov* to *Rosh HaShanah* 18a among them, have
-one. Maharil (responsa 189), *Terumas HaDeshen* 233, Rabbi Yaakov Margolis
-(*Seder HaGet* 17 and 19), *Shulchan Aruch* (*Even HaEzer* 126:23), and Rema
-(*Even HaEzer* 126:7) all conclude that one should optimally write two yuds, while
-acknowledging that some wrote one; Maharil himself brought a proof for one yud
-from the text of Targum Yonasan he had, and Rabbi Margolis notes that our texts
-of that Targum always have two. *Nachalas Shivah* rules for two yuds, both from
-Targum Yonasan to Bamidbar 9:11, which names the second month Iyar with two, and
-from the allusion he found in *Yalkut Chadash* in the name of *Megaleh Amukos*
-121, that Iyar can be read as an acronym for Avraham, Yitzchak, Yaakov, and
-Rochel, who are said to be the Merkavah of Hashem; *Beis Shmuel* (*Even HaEzer* 126:20) cites the same. Rema
-records that on account of this doubt many batei din have the practice of not
-writing *gittin* during Iyar at all (see *Aruch HaShulchan*, *Even HaEzer*
+one.
+
+- Maharil (responsa 189), *Terumas HaDeshen* 233, Rabbi Yaakov Margolis (*Seder
+  HaGet* 17 and 19), *Shulchan Aruch* (*Even HaEzer* 126:23), and Rema (*Even
+  HaEzer* 126:7) all conclude that one should optimally write two yuds, while
+  acknowledging that some wrote one; Maharil himself brought a proof for one yud
+  from the text of Targum Yonasan he had, and Rabbi Margolis notes that our texts
+  of that Targum always have two.
+- *Nachalas Shivah* rules for two yuds, both from Targum Yonasan to Bamidbar
+  9:11, which names the second month Iyar with two, and from the allusion he
+  found in *Yalkut Chadash* in the name of *Megaleh Amukos* 121, that Iyar can be
+  read as an acronym for Avraham, Yitzchak, Yaakov, and Rochel, who are said to
+  be the Merkavah of Hashem; *Beis Shmuel* (*Even HaEzer* 126:20) cites the same.
+
+Rema records that on account of this doubt many batei din have the practice of
+not writing *gittin* during Iyar at all (see *Aruch HaShulchan*, *Even HaEzer*
 126:15).
 
 **What Iyar means.**

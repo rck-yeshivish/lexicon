@@ -80,15 +80,18 @@ chronological sequence.
    act or occurrence that causes the shame, *klimah* the shame itself that
    results, so the word order reflects cause and effect.
 
-**Which word is the most intense.** Bedersi says *klimah*. Malbim says
-*chafrah*, one who would bury his head. Rabbi David Chaim Chelouche (1920 to 2016),
-the late Chief Rabbi of Netanya, says *cherpah*, more intense than *bushah* and
-*klimah* both.
+**Which word is the most intense.**
 
-**Whether cherpah is shame or disparagement.** Bedersi understands it as related
-to disparaging rather than to shame. Wertheimer and Malbim treat it as shame
-received from outside, and Chelouche as a more intense shame than *bushah* and
-*klimah*.
+- Bedersi says *klimah*.
+- Malbim says *chafrah*, one who would bury his head.
+- Rabbi David Chaim Chelouche (1920 to 2016), the late Chief Rabbi of Netanya,
+  says *cherpah*, more intense than *bushah* and *klimah* both.
+
+**Whether cherpah is shame or disparagement.**
+
+- Bedersi understands it as related to disparaging rather than to shame.
+- Wertheimer and Malbim treat it as shame received from outside, and Chelouche
+  as a more intense shame than *bushah* and *klimah*.
 
 ## Distinctions
 

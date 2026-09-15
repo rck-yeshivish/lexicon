@@ -65,13 +65,15 @@ Moshe and Aharon standing before him.
 
 ### gomed and gamadim (גומד, גמדים)
 The root gimmel-mem-dalet occurs twice in Tanach. Ehud's sword, with which he
-struck Eglon, was a *gomed* long (Shoftim 3:16). Rashbam (Bava Basra 100a) and
-Radak (Shoftim 3:16) take *gomed* as the same unit of measure as an *amah*;
-*Sefer HeAruch*, Rashi, and Mahari Kara there take it as a truncated *amah*, and
-Rashi uses a cognate of *gidem*, amputee or cut off, to explain that the sword
-was less than an *amah*. Rabbi Yehoshua Steinberg of the Veromemanu Foundation
-infers from this that Rashi read *gomed* as a metathesized form of *gidem*, dalet
-and mem trading places.
+struck Eglon, was a *gomed* long (Shoftim 3:16).
+
+- Rashbam (Bava Basra 100a) and Radak (Shoftim 3:16) take *gomed* as the same
+  unit of measure as an *amah*.
+- *Sefer HeAruch*, Rashi, and Mahari Kara there take it as a truncated *amah*,
+  and Rashi uses a cognate of *gidem*, amputee or cut off, to explain that the
+  sword was less than an *amah*. Rabbi Yehoshua Steinberg of the Veromemanu
+  Foundation infers from this that Rashi read *gomed* as a metathesized form of
+  *gidem*, dalet and mem trading places.
 
 The other occurrence is Yechezkel 27:11, the *gamadim* who manned the
 watchtowers of Tyre.

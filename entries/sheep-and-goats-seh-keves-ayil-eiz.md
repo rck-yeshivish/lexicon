@@ -118,11 +118,14 @@ stay in.
 ### eiz (עז)
 She-goat, possibly only an adult one, a nanny goat or she-goat in English,
 plural *izzim*. Hebrew *eiz* is related to the Arabic word for goat, *enzu*, with the nun dropped in
-Hebrew as often happens. Rabbi David Ibn Zimra (1479-1589): absent a stated age,
-*eiz* covers any female goat from eight days old until two years. Pappenheim
-traces it to the two-letter ayin-zayin element of what is stable and
-unwavering, the same element behind *azus* (brazenness) and *oz* (strength),
-because the goat's unbending legs give it footing to climb and leap.
+Hebrew as often happens.
+
+- Rabbi David Ibn Zimra (1479-1589): absent a stated age, *eiz* covers any female
+  goat from eight days old until two years.
+- Pappenheim traces it to the two-letter ayin-zayin element of what is stable
+  and unwavering, the same element behind *azus* (brazenness) and *oz*
+  (strength), because the goat's unbending legs give it footing to climb and
+  leap.
 
 ### tayish (תיש)
 Adult male goat, a billy or buck. Pappenheim traces the root to tav-shin,
@@ -133,9 +136,12 @@ opposite of weakness.
 
 ### gedi (גדי) and seir (שעיר)
 Both are young goats. *Gedi* / *gediyah* is a kid up to a year; *seir* /
-*seirah* covers young goats at any age. Abarbanel (Vayikra 16:5) links *seir* to
-*tzair*, young; Rav Hirsch (Devarim 32:2) links it to *se'ar*, hair, the kid
-being hairy. Aramaic *tzfir* (Daniel 8:8, 8:21) is *seir*. The texts of the
+*seirah* covers young goats at any age.
+
+- Abarbanel (Vayikra 16:5) links *seir* to *tzair*, young.
+- Rav Hirsch (Devarim 32:2) links it to *se'ar*, hair, the kid being hairy.
+
+Aramaic *tzfir* (Daniel 8:8, 8:21) is *seir*. The texts of the
 Rambam (*Hilchos Maaseh HaKorbanos* 1:14) divide: one version holds that *seir*
 specifically names a young goat in its second year (so Rashi to Menachos 91b) and
 is the only term for such a beast, the other that the only term is *seir izzim*.
@@ -183,12 +189,15 @@ above, and *kesev* from *kisah* / *mechuseh*, covered, sheep being covered in
 wool.
 
 ### tleh (טלה)
-Another young sheep. Rav Hirsch (Bereishis 30:32): it can name a young human as
-well, like English "kid" (see Rashi to Megillah 5b). Pappenheim traces it to the
-tes-lamed element behind *tal*, dew: as vapor grows heavy enough to be drawn
-down, so the newborn's own weight helps open the way at birth. Rabbi Meir Mazuz
-derives from Shemos 23:19 and Shmuel I 7:9 that *tleh* and *gedi* name animals
-still nursing.
+Another young sheep.
+
+- Rav Hirsch (Bereishis 30:32): it can name a young human as well, like English
+  "kid" (see Rashi to Megillah 5b).
+- Pappenheim traces it to the tes-lamed element behind *tal*, dew: as vapor grows
+  heavy enough to be drawn down, so the newborn's own weight helps open the way
+  at birth.
+- Rabbi Meir Mazuz derives from Shemos 23:19 and Shmuel I 7:9 that *tleh* and
+  *gedi* name animals still nursing.
 
 ### atud (עתוד)
 The word whose meaning is most obscured.
