@@ -81,10 +81,13 @@ season").
   are the forces that seem to regulate rainfall, and in a borrowed sense any
   bestowal of good.
 
-**Whether to say "*mazal tov*."** Rabbi Eliyahu Katz, formerly Chief Rabbi of
-Slovakia, held that the word's ambiguity makes the greeting best avoided, lest it
-be taken to credit the stars with independent power. The prevailing custom is to
-say it, understanding it of Hashem's bestowal of good rather than of chance.
+**Whether to say "*mazal tov*."**
+
+- Rabbi Eliyahu Katz, formerly Chief Rabbi of Slovakia, held that the word's
+  ambiguity makes the greeting best avoided, lest it be taken to credit the stars
+  with independent power.
+- The prevailing custom is to say it, understanding it of Hashem's bestowal of
+  good rather than of chance.
 
 ## Distinctions
 
@@ -143,16 +146,19 @@ is really *gad* ("luck," *mazal*) plus *yesh* ("there is"), an allusion to the
 source of overflowing abundance.
 
 ### mazar (מזר)
-The single occurrence is Hashem's rebuke to Iyov (38:32). Rabbi Shlomo Pappenheim
-derives it from the biliteral ז-ר, "estrangement, disconnection," the root of
-*zar* (a stranger), *mamzer*, *nazir*, and *nezer*, and of a second family headed
-by *zoreh*, "to scatter or throw": *zorer* (a sneeze, which flings liquid from the
-nose), *zohar* (light, which scatters), *azharah* (a warning, which enlightens a
-man as to what is expected of him), *mazor* (a remedy spread on a wound), and
-*zerem* (a current). On that reading *mazar* belongs with *zerem*, the heavenly
-forces regulating the flow of water. Rabbi Reuven Chaim Klein adds a suggestion
-of his own, that Dunash's "powerful wind" could be justified etymologically by
-tying *mazar* instead to *zorer*, a sneeze being a wind-like gust.
+The single occurrence is Hashem's rebuke to Iyov (38:32).
+
+- Rabbi Shlomo Pappenheim derives it from the biliteral ז-ר, "estrangement,
+  disconnection," the root of *zar* (a stranger), *mamzer*, *nazir*, and
+  *nezer*, and of a second family headed by *zoreh*, "to scatter or throw":
+  *zorer* (a sneeze, which flings liquid from the nose), *zohar* (light, which
+  scatters), *azharah* (a warning, which enlightens a man as to what is expected
+  of him), *mazor* (a remedy spread on a wound), and *zerem* (a current). On
+  that reading *mazar* belongs with *zerem*, the heavenly forces regulating the
+  flow of water.
+- Rabbi Reuven Chaim Klein adds a suggestion of his own, that Dunash's "powerful
+  wind" could be justified etymologically by tying *mazar* instead to *zorer*, a
+  sneeze being a wind-like gust.
 
 ## Rendering guidance
 

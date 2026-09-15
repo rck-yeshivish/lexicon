@@ -63,30 +63,35 @@ to Shemos 28:38 renders it *padachta*. On the root:
 ### The problem at Shemos 28:38
 Most commentators hold the *tzitz* was worn above the forehead, on the place
 where *tefillin* are laid, which sits badly with a pasuk that puts it "on
-Aharon's *meitzach*." The *Chiddushei HaRitva* and *Tosafos Yeshanim* (to Yoma
-71b) give two answers. Either *meitzach* does mean forehead and the pasuk means
-*above* the forehead; or *meitzach* means forehead only in the Hebrew of Chazal,
-while in biblical Hebrew it means the top of the head, or at least includes it
-along with the brow. *Tosafos HaShalem* (to Shemos 39:28) states outright that
-*meitzach* does not mean *padachat*.
+Aharon's *meitzach*."
+
+- The *Chiddushei HaRitva* and *Tosafos Yeshanim* (to Yoma 71b) give two
+  answers. Either *meitzach* does mean forehead and the pasuk means *above* the
+  forehead; or *meitzach* means forehead only in the Hebrew of Chazal, while in
+  biblical Hebrew it means the top of the head, or at least includes it along
+  with the brow.
+- *Tosafos HaShalem* (to Shemos 39:28) states outright that *meitzach* does not
+  mean *padachat*.
 
 ### padachat (פדחת)
 Not in Tanach; standard in the Mishnah and Gemara. A child counts as born once
 its *padachat* has emerged (Niddah 3:5), and a corpse may be identified for the
 sake of permitting his widow only when the *padachat* and the face are intact
-(Yevamos 120a). Neither text defines the word. The identification with *meitzach*
-goes back to the Geonim: Rav Hai Gaon in his commentary to Niddah 3:5, and his
-student to Shabbos 80b; Rabbi Zecharia Aghmati (*Sefer HaNer* to Shabbos 80b)
-citing Rav Hai; then Rabbeinu Chananel to Shabbos 80b and the *Aruch*. Rashi
-glosses *padachat* as *meitzach* at Shabbos 151b, Yevamos 120a, Kesuvos 75a, and
-Bechoros 46b, without exception, which Rabbi Klein takes as suggesting that he too
-understood the two to be perfectly synonymous. (Rabbi Yosef de Jong suggests
-that *meitzach* is specifically the front of the forehead while *padachat* takes
-in the temples as well, though he concedes he has no source for it; the Academy
-of the Hebrew Language's official
-anatomical dictionary defines *padachat* as the Latin *glabella*, the smooth
-part of the forehead above and between the eyebrows, which would seem to exclude
-the temples.)
+(Yevamos 120a). Neither text defines the word.
+
+- The identification with *meitzach* goes back to the Geonim: Rav Hai Gaon in
+  his commentary to Niddah 3:5, and his student to Shabbos 80b; Rabbi Zecharia
+  Aghmati (*Sefer HaNer* to Shabbos 80b) citing Rav Hai; then Rabbeinu Chananel
+  to Shabbos 80b and the *Aruch*.
+- Rashi glosses *padachat* as *meitzach* at Shabbos 151b, Yevamos 120a, Kesuvos
+  75a, and Bechoros 46b, without exception, which Rabbi Klein takes as
+  suggesting that he too understood the two to be perfectly synonymous.
+- (Rabbi Yosef de Jong suggests that *meitzach* is specifically the front of the
+  forehead while *padachat* takes in the temples as well, though he concedes he
+  has no source for it; the Academy of the Hebrew Language's official anatomical
+  dictionary defines *padachat* as the Latin *glabella*, the smooth part of the
+  forehead above and between the eyebrows, which would seem to exclude the
+  temples.)
 
 Where the word came from is unsettled. Its root seems to be פ-ד-ח, and such
 a root is not attested anywhere else in Hebrew. Dr. Alexander Kohut writes in

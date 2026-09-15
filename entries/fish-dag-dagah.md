@@ -123,13 +123,15 @@ Chumash; everywhere else the cognates are nouns.
   *dag*.)
 
 ### the wider family
-Rabbi Pappenheim also attaches two further words to ד-ג that the other
-commentators do not necessarily see as related. *Da'agah*, worry: an
-apprehension resting on slight grounds, like the fisherman who picks his spot on
-faint signs with no real proof that fish are there. *Dagan*, grain: an especially
-fecund plant, one seed begetting many, as one fish fathers many. Menachem,
-Ibn Janach, and Radak each give these their own triliteral roots, ד-א-ג and
-ד-ג-נ. *Dugmah*, specimen (Shabbos 10:1, Eduyos 5:6, and often in the Gemara),
+- Rabbi Pappenheim also attaches two further words to ד-ג that the other
+  commentators do not necessarily see as related. *Da'agah*, worry: an
+  apprehension resting on slight grounds, like the fisherman who picks his spot
+  on faint signs with no real proof that fish are there. *Dagan*, grain: an
+  especially fecund plant, one seed begetting many, as one fish fathers many.
+- Menachem, Ibn Janach, and Radak each give these their own triliteral roots,
+  ד-א-ג and ד-ג-נ.
+
+*Dugmah*, specimen (Shabbos 10:1, Eduyos 5:6, and often in the Gemara),
 is said to be a loanword from the Greek *deigma*; but given Rabbi Pappenheim's
 biliteral, Rabbi Klein conjectures that it may derive from ד-ג too, an example
 being a mere sampling of a quantitatively larger pool, with the mem extraneous

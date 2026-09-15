@@ -49,17 +49,21 @@ Root ש-כ-ח. The standard verb. Devarim uses it for forgetting Hashem (6:12,
 8:11, 8:14, 8:19, 32:18), Sinai (4:9), the Torah (31:21), the covenant with the
 Avos (4:31) and with Yisrael (4:23), how the Jews angered Hashem in the
 wilderness (9:7), the halachos of maaser (26:13), and what Amalek did (25:19).
-Rav Hirsch (Bereishis 8:1): *shachach* is forgetting inadvertently; elsewhere
-(Devarim 4:9) he defines it as forgetting because one's attention went to
-something else. Malbim (Iyov 11:6): what is forgotten by *shachach* can be
-retrieved later.
+
+- Rav Hirsch (Bereishis 8:1): *shachach* is forgetting inadvertently; elsewhere
+  (Devarim 4:9) he defines it as forgetting because one's attention went to
+  something else.
+- Malbim (Iyov 11:6): what is forgotten by *shachach* can be retrieved later.
 
 By way of metathesis, some connect ש-כ-ח to כ-ח-ש, deny or weaken, which uses
-the same letters. Rabbi Yekusiel Yehudah Teitelbaum of Sighet (*Yitav Lev* to
-Shemos 10:1) is one of them: forget Hashem and your obligations to Him,
-and you will end by denying His existence outright. On the same interchange,
-Robert Alter and the editors of *Daas Mikra* explain *tishkach* in Tehillim
-137:5 ("let my right hand be forgotten") as *tikchash*, let it be weakened.
+the same letters.
+
+- Rabbi Yekusiel Yehudah Teitelbaum of Sighet (*Yitav Lev* to Shemos 10:1) is
+  one of them: forget Hashem and your obligations to Him, and you will end by
+  denying His existence outright.
+- On the same interchange, Robert Alter and the editors of *Daas Mikra* explain
+  *tishkach* in Tehillim 137:5 ("let my right hand be forgotten") as *tikchash*,
+  let it be weakened.
 
 Rabbi Moshe Shapiro on the Aramaic *shachiach*, common or frequent, which shares
 the root: one would expect the frequent thing to be the best remembered. Rather,

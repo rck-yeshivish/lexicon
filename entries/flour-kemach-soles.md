@@ -53,16 +53,21 @@ states that *soles* is better than *kemach*.
 ## Distinctions
 
 ### kemach (קמח)
-Fourteen appearances in Tanach. Donash Ibn Labrat, arguing against Menachem Ibn
-Saruk, pointed to the ostensible Arabic cognate, which means wheat; an anonymous student of
-Menachem answered that the Arabic word means wheat generally while the Hebrew
-means specifically wheat that has been ground, that is, flour. Donash's own
-student Ibn Sheshes conceded that in the Sotah offering, where the Torah writes
-*kemach se'orim*, flour of barley, the word cannot mean wheat. Rashi
-(Sotah 14a): everything is mixed into *kemach*. It can be finely ground and
-still be *kemach*, since husk and bran remain within the granules (Rashi to
-Kesubos 112b). Rabbi Yaakov Tzvi Mecklenburg: *kemach* is adulterated flour
-carrying subpar material. As a metaphor it is the lesser stock: "he does not
+Fourteen appearances in Tanach.
+
+- Donash Ibn Labrat, arguing against Menachem Ibn Saruk, pointed to the
+  ostensible Arabic cognate, which means wheat; an anonymous student of Menachem
+  answered that the Arabic word means wheat generally while the Hebrew means
+  specifically wheat that has been ground, that is, flour.
+- Donash's own student Ibn Sheshes conceded that in the Sotah offering, where
+  the Torah writes *kemach se'orim*, flour of barley, the word cannot mean wheat.
+- Rashi (Sotah 14a): everything is mixed into *kemach*. It can be finely ground
+  and still be *kemach*, since husk and bran remain within the granules (Rashi
+  to Kesubos 112b).
+- Rabbi Yaakov Tzvi Mecklenburg: *kemach* is adulterated flour carrying subpar
+  material.
+
+As a metaphor it is the lesser stock: "he does not
 care about his *kemach*" (Yevamos 42b, Pesachim 84a, Sukkah 54a) of one who
 speaks imprecisely, since he grinds *kemach* and not *soles* (Rashi there);
 and of Kimchis, the pious woman who merited that each of her seven sons serve as
@@ -83,16 +88,20 @@ Rabbi Immanuel Frances rhymes it with *simchi*, ostensibly attesting to it.
 
 ### soles (סולת)
 Fifty-two appearances in Tanach, more than half of them in Bamidbar, mostly
-clustered in Nasso and Pinchas. Every
-menachah in the Torah is brought of *soles* except the Omer (Vayikra 23:10-11)
-and the Sotah offering (Bamidbar 5:15), both of which are barley; the Sotah
-offering the Torah calls *kemach*. On that basis Rashi (Vayikra 2:1) and Rashbam
-(Bereishis 18:6) hold that *soles* always means wheat flour. Rabbi Shlomo
-Pappenheim objects from Shemos 29:2, which says *soles chittim*, flour of
-wheat, implying that *soles* alone does not necessarily specify the species. Rabbi
-Klein adds that either way, since the Sotah offering is explicitly said to come
-from *kemach*, this implies a different type or grade of flour rather than a
-different species of grain. Menachos
+clustered in Nasso and Pinchas. Every menachah in the Torah is brought of
+*soles* except the Omer (Vayikra 23:10-11) and the Sotah offering (Bamidbar
+5:15), both of which are barley; the Sotah offering the Torah calls *kemach*.
+
+- On that basis Rashi (Vayikra 2:1) and Rashbam (Bereishis 18:6) hold that
+  *soles* always means wheat flour.
+- Rabbi Shlomo Pappenheim objects from Shemos 29:2, which says *soles chittim*,
+  flour of wheat, implying that *soles* alone does not necessarily specify the
+  species.
+- Rabbi Klein adds that either way, since the Sotah offering is explicitly said
+  to come from *kemach*, this implies a different type or grade of flour rather
+  than a different species of grain.
+
+Menachos
 6:7 describes sifting the flour for menachos over and over to yield the finest
 *soles* (see Rashi to Menachos 76b); Rashi to Taanis 9b explains that the finer
 white flour passes the sifter first and the coarser after (see also Tosafos
@@ -109,14 +118,18 @@ be kept in a *sal* rather than dumped in a sack like *kemach*, or the flour
 named for the repeated pressing and grinding that produces it.
 
 ### geres (גרש) and semida (סמידא)
-Rashi (Menachos 27a): *geres* said of barley (Vayikra 2:14) is to barley what
-*soles* is to wheat. Ibn Janach defines *geres* with the word *soles* outright.
-Menachem, Ibn Janach and Radak all treat ג-ר-ש and ג-ר-ס as one root meaning
-breaking or grinding. The Aramaic *semida* Rashi glosses as *soles* (Shabbos
-110b, Pesachim 74b, Taanis 24b, Gittin 56a), and Ibn Ezra (Vayikra 2:1) says
-*soles* is white flour, known in Arabic and Aramaic as *semida*. There is a
-counter-usage: the Targum to Bereishis 18:6 often attributed to Rabbi Yonasan
-ben Uziel renders *kemach* as *semida* and *soles* as *solta*. This Aramaic
+- Rashi (Menachos 27a): *geres* said of barley (Vayikra 2:14) is to barley what
+  *soles* is to wheat.
+- Ibn Janach defines *geres* with the word *soles* outright.
+- Menachem, Ibn Janach and Radak all treat ג-ר-ש and ג-ר-ס as one root meaning
+  breaking or grinding.
+- The Aramaic *semida* Rashi glosses as *soles* (Shabbos 110b, Pesachim 74b,
+  Taanis 24b, Gittin 56a), and Ibn Ezra (Vayikra 2:1) says *soles* is white
+  flour, known in Arabic and Aramaic as *semida*.
+- There is a counter-usage: the Targum to Bereishis 18:6 often attributed to
+  Rabbi Yonasan ben Uziel renders *kemach* as *semida* and *soles* as *solta*.
+
+This Aramaic
 and Arabic word is the etymological ancestor of the English
 *semolina*, by way of the Greek *semidalis* and the interchange of dalet and
 lammed.

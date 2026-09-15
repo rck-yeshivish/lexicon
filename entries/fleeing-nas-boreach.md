@@ -51,38 +51,39 @@ yet arrived.
 ## Distinctions
 
 ### nas (נס)
-Sforno (to Bereishis 31:21 and Yonah 1:3): *nas* is running from an active
-threat, or from someone actually chasing. Malbim: the word applies where the
-danger is immediate or was very close at hand, and the fleeing is plainly
-visible, obvious terror. Malbim adds that *nas* can also be used of fleeing
-something without intelligence, extreme weather for instance, since one need
-only put distance between himself and it.
+- Sforno (to Bereishis 31:21 and Yonah 1:3): *nas* is running from an active
+  threat, or from someone actually chasing.
+- Malbim: the word applies where the danger is immediate or was very close at
+  hand, and the fleeing is plainly visible, obvious terror. Malbim adds that
+  *nas* can also be used of fleeing something without intelligence, extreme
+  weather for instance, since one need only put distance between himself and it.
 
-Malbim distinguishes *nas* from *ratz* as well: both are running, but *ratz* is
-running toward and *nas* is running from. Rabbi Naftali Hertz Treves (*Sefer
-HaGur*), however, points to at least two places where a cognate of *nas*
-means running toward rather than away (Shemos 14:27, Yirmiyahu 16:19). Rabbi
-Klein finds that this sheds light on Rabbi Shlomo Aharon Wertheimer's reading:
-*boreach* attends to
-the place a man is running *from*, with no interest in where he is headed, while
-*nas* attends to his seeking refuge at a particular destination, and may on that
-account be related to *nasa* with an ayin, "to travel."
+- Malbim distinguishes *nas* from *ratz* as well: both are running, but *ratz* is
+  running toward and *nas* is running from.
+- Rabbi Naftali Hertz Treves (*Sefer HaGur*), however, points to at least two
+  places where a cognate of *nas* means running toward rather than away (Shemos
+  14:27, Yirmiyahu 16:19).
+- Rabbi Klein finds that this sheds light on Rabbi Shlomo Aharon Wertheimer's
+  reading: *boreach* attends to the place a man is running *from*, with no
+  interest in where he is headed, while *nas* attends to his seeking refuge at a
+  particular destination, and may on that account be related to *nasa* with an
+  ayin, "to travel."
 
 *Sefer HaChochmah*, ascribed to Rabbi Elazar Rokeach of Worms, has a different
 line altogether: *nisah* is running away to somewhere near, *bericha* to
 somewhere far.
 
 ### boreach (בורח)
-Sforno: running away out of fear of a future threat, with nobody chasing.
-Malbim: the danger is more abstract, less tangible, not yet immediate. Two
-further marks in Malbim. First, one who is *boreach* runs clandestinely, so that
-even a bystander would not necessarily see that he is on the run, where one who
-is *nas* is very obviously fleeing in terror; Rabbi Klein's illustration is the
-difference between a man running from a poisonous snake and an informant hiding
-in witness protection. Second, one who is *boreach* is running from
-an intelligent being, whether a man, an animal, or Hashem. Malbim ties the two
-together: fleeing something that can think sometimes requires going undercover, while
-fleeing a mindless danger requires only distance.
+- Sforno: running away out of fear of a future threat, with nobody chasing.
+- Malbim: the danger is more abstract, less tangible, not yet immediate. Two
+  further marks in Malbim. First, one who is *boreach* runs clandestinely, so
+  that even a bystander would not necessarily see that he is on the run, where
+  one who is *nas* is very obviously fleeing in terror; Rabbi Klein's
+  illustration is the difference between a man running from a poisonous snake
+  and an informant hiding in witness protection. Second, one who is *boreach* is
+  running from an intelligent being, whether a man, an animal, or Hashem. Malbim
+  ties the two together: fleeing something that can think sometimes requires
+  going undercover, while fleeing a mindless danger requires only distance.
 
 ### The Aramaic
 Aramaic draws none of these distinctions. The root ע-ר-ק is its one word for

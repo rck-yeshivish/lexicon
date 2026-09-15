@@ -91,7 +91,10 @@ Menachem Ibn Saruk and Pappenheim take the root as the biliteral ז-ן; Ibn
 Chayyuj, Ibn Janach and Radak as ז-ו-ן. The sense is not in dispute.
 
 ### yevul (יבול)
-Ibn Saruk and Pappenheim: root ב-ל; Ibn Janach and Radak: י-ב-ל. Pappenheim
+- Ibn Saruk and Pappenheim: root ב-ל.
+- Ibn Janach and Radak: י-ב-ל.
+
+Pappenheim
 reads ב-ל as decomposition and gives two applications: in *Yerios Shlomo*, all
 produce is *yevul* because the seed decomposes to let what grows from it come
 up; in *Cheshek Shlomo*, the especially perishable produce is *yevul* because it
@@ -122,21 +125,23 @@ and rye), and only once
 they have been ripened, reaped, and heaped into a smooth pile (see Rashi to
 *Berachos* 47b).
 
-Pappenheim traces *dagan* to the biliteral ד-ג, fecundity and quantitative
-increase, the root of *dag*, fish: grains are an especially fertile plant, since
-one seed can beget grains with many more seeds, just as one fish can father many
-more little fish. Menachem Ibn Saruk, Ibn Janach and Radak all see *dagan* as
-deriving from its own triliteral root, ד-ג-ן.
+- Pappenheim traces *dagan* to the biliteral ד-ג, fecundity and quantitative
+  increase, the root of *dag*, fish: grains are an especially fertile plant,
+  since one seed can beget grains with many more seeds, just as one fish can
+  father many more little fish.
+- Menachem Ibn Saruk, Ibn Janach and Radak all see *dagan* as deriving from its
+  own triliteral root, ד-ג-ן.
 
 ### bar (בר)
-Pappenheim: the biliteral ב-ר is separating and excluding, which gives *bar* as
-son (separated from the mother at birth), *bor* and *boris* (cleansers that
-separate off filth), and *bari* and *barah* (a clarity reached by excluding
-every other possibility). As food, *bar* is grain already separated from its
-chaff. Rabbi Yitzchok of Volozhin (1780 to 1849) says the same, that *bar* means
-chosen or refined, grain without chaff (see also Ramban to Bereishis 41:49), and
-explains that Yosef had the Egyptians store the grain that way (Bereishis 41:35)
-because otherwise there would not have been room for it all.
+- Pappenheim: the biliteral ב-ר is separating and excluding, which gives *bar*
+  as son (separated from the mother at birth), *bor* and *boris* (cleansers that
+  separate off filth), and *bari* and *barah* (a clarity reached by excluding
+  every other possibility). As food, *bar* is grain already separated from its
+  chaff.
+- Rabbi Yitzchok of Volozhin (1780 to 1849) says the same, that *bar* means
+  chosen or refined, grain without chaff (see also Ramban to Bereishis 41:49),
+  and explains that Yosef had the Egyptians store the grain that way (Bereishis
+  41:35) because otherwise there would not have been room for it all.
 
 The King James Version renders *bar*
 "corn," which did not then mean the yellow stuff on the cob. "Corn" originally
@@ -146,25 +151,28 @@ exclusively to what is now called corn, or *maize* in the Native American
 languages the word comes from.
 
 ### shever (שבר)
-The word seems to derive from the triliteral ש-ב-ר, breaking. Radak (to Amos
-8:5, Bereishis 41:56, and *Sefer HaShorashim*) and the Meiri (to Mishlei 10:3):
-produce is *shever* because it breaks the famine. Most of its
-occurrences in Tanach are in the Yosef narrative. Rabbi Yechezkel Weinfeld of
-Ramat Eshkol compares *shever*, which breaks a famine, to the English
-*breakfast*, the morning meal that breaks the night's fast. *Peirush HaRokeach*
-connects *shever* to *sever*, hope, since men look to Hashem trustingly and
-hopefully while He gives them their food (Tehillim 145:15). Ibn Saruk, *Peirush
-HaRokeach* and Rabbeinu Bachaya all take *shever* as food regarded as a
-purchased commodity; Rabbeinu Bachaya says the word implies a sale, which is
-seen in rabbinic Hebrew, where *shover* is a receipt, attesting to payment and
-so breaking a litigant's ability to claim a debt. (In Modern Hebrew *shover* is
-a voucher and *kabbalah* is the receipt.) Rabbi Avraham Rivlin points out that
-*shever* thus carries two diametrically opposed senses at once, breaking or
-destroying and building or sustaining. Rabbeinu Bachaya adds that Yaakov asked
-his sons for *shever* rather than *ochel* or *bar* because *shever* implies the
-edible grain together with its chaff, alluding to them that in time they would
-endure the bad, the exile in which they would be broken as a people, along with
-the good.
+The word seems to derive from the triliteral ש-ב-ר, breaking.
+
+- Radak (to Amos 8:5, Bereishis 41:56, and *Sefer HaShorashim*) and the Meiri
+  (to Mishlei 10:3): produce is *shever* because it breaks the famine. Most of
+  its occurrences in Tanach are in the Yosef narrative.
+- Rabbi Yechezkel Weinfeld of Ramat Eshkol compares *shever*, which breaks a
+  famine, to the English *breakfast*, the morning meal that breaks the night's
+  fast.
+- *Peirush HaRokeach* connects *shever* to *sever*, hope, since men look to
+  Hashem trustingly and hopefully while He gives them their food (Tehillim
+  145:15).
+- Ibn Saruk, *Peirush HaRokeach* and Rabbeinu Bachaya all take *shever* as food
+  regarded as a purchased commodity; Rabbeinu Bachaya says the word implies a
+  sale, which is seen in rabbinic Hebrew, where *shover* is a receipt, attesting
+  to payment and so breaking a litigant's ability to claim a debt. (In Modern
+  Hebrew *shover* is a voucher and *kabbalah* is the receipt.)
+- Rabbi Avraham Rivlin points out that *shever* thus carries two diametrically
+  opposed senses at once, breaking or destroying and building or sustaining.
+- Rabbeinu Bachaya adds that Yaakov asked his sons for *shever* rather than
+  *ochel* or *bar* because *shever* implies the edible grain together with its
+  chaff, alluding to them that in time they would endure the bad, the exile in
+  which they would be broken as a people, along with the good.
 
 ### avur (עבור)
 The Aramaic leveller. Onkelos renders *ochel*, *bar*, *shever* and *dagan* all

@@ -57,19 +57,25 @@ fifty-year Yovel cycle, and the Maharsha builds on that. For the Maharsha, when
 ## Distinctions
 
 ### olam (עולם)
-Root ע-ל-ם. Rashi to Shemos 21:6: the pierced bondsman serves *le'olam*, meaning
-only to the Yovel, not without limit. Maharsha therefore reads *olam* as a long
-period that nonetheless ends, which is why the pairing in Eruvin 54a is not
-redundant. Rabbi Yaakov Tzvi Mecklenburg ties *olam* to *al*, "above": all of
-space and time is the field on which each creature strives to rise above where it
-stands, and Yovel is called *le'olam* because in it the slave rises to his
-master's free status. Rabbi Shlomo Pappenheim reads *ne'elam*, "hidden," from the
-same *al*: what is above one's range of perception is hidden from him.
+Root ע-ל-ם.
+
+- Rashi to Shemos 21:6: the pierced bondsman serves *le'olam*, meaning only to
+  the Yovel, not without limit. Maharsha therefore reads *olam* as a long period
+  that nonetheless ends, which is why the pairing in Eruvin 54a is not redundant.
+- Rabbi Yaakov Tzvi Mecklenburg ties *olam* to *al*, "above": all of space and
+  time is the field on which each creature strives to rise above where it
+  stands, and Yovel is called *le'olam* because in it the slave rises to his
+  master's free status.
+- Rabbi Shlomo Pappenheim reads *ne'elam*, "hidden," from the same *al*: what is
+  above one's range of perception is hidden from him.
 
 ### netzach (נצח)
-Root נ-צ-ח. Rabbi Shlomo Aharon Wertheimer: *netzach* is the **continuous**,
-unchanging permanence, a state that never alters. Mecklenburg derives it from
-*tzach*, "pristine, pure," the final state of being the soul reaches for.
+Root נ-צ-ח.
+
+- Rabbi Shlomo Aharon Wertheimer: *netzach* is the **continuous**, unchanging
+  permanence, a state that never alters.
+- Mecklenburg derives it from *tzach*, "pristine, pure," the final state of
+  being the soul reaches for.
 
 ### selah (סלה)
 Root ס-ל-ה.
@@ -92,10 +98,13 @@ Root ס-ל-ה.
   apparently wrote that *Selah* is one of the Names of Hashem.
 
 ### va'ed / ad (ועד, עד)
-Root ע-ד. Wertheimer: *ad* literally means "until," and left hanging with no
-object it is an ellipsis, "until... (a time that cannot be named)," so it denotes
-infinite duration. Mecklenburg links *va'ed* to *adi'im*, "adornments," the
-eternal ornaments of the soul in the World to Come.
+Root ע-ד.
+
+- Wertheimer: *ad* literally means "until," and left hanging with no object it
+  is an ellipsis, "until... (a time that cannot be named)," so it denotes
+  infinite duration.
+- Mecklenburg links *va'ed* to *adi'im*, "adornments," the eternal ornaments of
+  the soul in the World to Come.
 
 Whether the three words carry "forever" everywhere or only beside *olam* is
 disputed:

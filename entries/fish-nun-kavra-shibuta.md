@@ -56,43 +56,58 @@ derashah on it.
 
 ## Where the authorities disagree
 
-**Which came first, nun or nin.** Rav Hirsch (to Bereishis 1:21): *nun* derives from
-*nin*, offspring, the fish named for its fruitfulness; he compares this to *dag*,
-which primarily denotes fecundity. Rabbi Ron Yosef Chaim Masoud Abuchatzeira: the reverse. Berachos 20a
-teaches that fish are fruitful and multiply in large quantities because the ayin hara
-has no hold on them, so naming descendants by the fish-word turns the ayin hara from
-them; he compares this to the well-known custom among Tunisian Jews, especially those
-of Djerba, of giving children fish-related names to immunize them against the ayin
-hara. Examples: masculine Hayuta/Hauita ("fish" in some North African
-dialects of Arabic, though in Aramaic it means "snake"), Manani (grouper, possibly
-also related to *nun*), Bugid (striped red mullet), Hadir (torpedo fish), Karutz
-(bass), Uzifa, Wurgana; feminine Shelbia (salema porgy), Svirsa, Murgana, Manana (the
-feminized Manani), and Baharia (mermaid).
+**Which came first, nun or nin.**
 
-**Why Ninveh may be named for a fish.** Rabbi Avraham Rivlin: *nun* plus *naveh*, a fish
-inside a house, and Yonah, who refused to go, was made to live out the name inside a
-fish. Rabbi Nissim Paniri: *Yonah* and *Ninveh* share letters, Yonah's name lacking the
-second nun, so Hashem put him inside a *nun* to supply it. Rabbi Aryeh Moshe Teicholtz
-suggests that the name recalls the fish-cult worshipped there.
+- Rav Hirsch (to Bereishis 1:21): *nun* derives from *nin*, offspring, the fish
+  named for its fruitfulness; he compares this to *dag*, which primarily denotes
+  fecundity.
+- Rabbi Ron Yosef Chaim Masoud Abuchatzeira: the reverse. Berachos 20a teaches
+  that fish are fruitful and multiply in large quantities because the ayin hara
+  has no hold on them, so naming descendants by the fish-word turns the ayin hara
+  from them; he compares this to the well-known custom among Tunisian Jews,
+  especially those of Djerba, of giving children fish-related names to immunize
+  them against the ayin hara. Examples: masculine Hayuta/Hauita ("fish" in some
+  North African dialects of Arabic, though in Aramaic it means "snake"), Manani
+  (grouper, possibly also related to *nun*), Bugid (striped red mullet), Hadir
+  (torpedo fish), Karutz (bass), Uzifa, Wurgana; feminine Shelbia (salema porgy),
+  Svirsa, Murgana, Manana (the feminized Manani), and Baharia (mermaid).
 
-**What kavra and shibuta are.** Whether *kavra* means fish in general or a particular
-fish remains unclear (see Tosafos to Moed Katan 11a); Dr. Marcus Jastrow reads it as live
-fish kept in a basket, which would let it cover any fish so housed; Chullin 109b
-favors a species. On *shibuta*, Jastrow says probably the mullet, others the sturgeon
-or porpoise; Drs. Zohar Amar and Ari Zivotofsky identify the shirbot or shabout
-(*Arabibarbus grypus*), which Rabbi Klein calls the most definitive approach and which
-fits the Yerushalmi (Taanis 4:5) that *shibuta* is found in Bavel and not in Eretz
-Yisrael; *Minchas Chinuch* (550:2) suggests the name can cover kosher and non-kosher
-fish both.
+**Why Ninveh may be named for a fish.**
 
-**Yehoshua bin Nun.** His father's name was Nun (Divrei HaYamim I 7:27). An apocryphal
-midrash made famous by Rabbi Avraham Vilner has Yehoshua put into the river as a small
-child and swallowed by a fish, the fish caught and brought to Pharaoh, the child found
-inside, raised in Pharaoh's house and risen to Chief Executioner; Rabbi Yitzchak Yishaya
-Weiss of Neve Achiezer in Bnei Brak has already debunked the midrash's provenance. Other traditions give two further reasons for the name: *Midrash HaBiur*
-(to the haftarah of Shelach), that he would swallow the thirty-one kings of Canaan like
-a fish, and *Megaleh Amukos* 27, that Hashem was ready to hear his *tachanunim* once he
-entered the Land.
+- Rabbi Avraham Rivlin: *nun* plus *naveh*, a fish inside a house, and Yonah, who
+  refused to go, was made to live out the name inside a fish.
+- Rabbi Nissim Paniri: *Yonah* and *Ninveh* share letters, Yonah's name lacking
+  the second nun, so Hashem put him inside a *nun* to supply it.
+- Rabbi Aryeh Moshe Teicholtz suggests that the name recalls the fish-cult
+  worshipped there.
+
+**What kavra and shibuta are.**
+
+- Whether *kavra* means fish in general or a particular fish remains unclear
+  (see Tosafos to Moed Katan 11a).
+- Dr. Marcus Jastrow reads it as live fish kept in a basket, which would let it
+  cover any fish so housed.
+- Chullin 109b favors a species.
+- On *shibuta*, Jastrow says probably the mullet, others the sturgeon or
+  porpoise.
+- Drs. Zohar Amar and Ari Zivotofsky identify the shirbot or shabout
+  (*Arabibarbus grypus*), which Rabbi Klein calls the most definitive approach
+  and which fits the Yerushalmi (Taanis 4:5) that *shibuta* is found in Bavel and
+  not in Eretz Yisrael.
+- *Minchas Chinuch* (550:2) suggests the name can cover kosher and non-kosher
+  fish both.
+
+**Yehoshua bin Nun.** His father's name was Nun (Divrei HaYamim I 7:27).
+
+- An apocryphal midrash made famous by Rabbi Avraham Vilner has Yehoshua put into
+  the river as a small child and swallowed by a fish, the fish caught and brought
+  to Pharaoh, the child found inside, raised in Pharaoh's house and risen to
+  Chief Executioner; Rabbi Yitzchak Yishaya Weiss of Neve Achiezer in Bnei Brak
+  has already debunked the midrash's provenance.
+- Other traditions give two further reasons for the name: *Midrash HaBiur* (to
+  the haftarah of Shelach), that he would swallow the thirty-one kings of Canaan
+  like a fish, and *Megaleh Amukos* 27, that Hashem was ready to hear his
+  *tachanunim* once he entered the Land.
 
 ## Distinctions
 
@@ -128,15 +143,19 @@ of meat with no clear limbs, on which Rabbi Klein wonders in passing whether a j
 is meant.
 
 ### tanin (תנין) and nin (נין)
-Bereishis 1:21, the sea-monsters of the fifth day. Rabbi Aharon Marcus argues that the tav
-is not part of the root, leaving *nun* at the core, and explicitly rejects the scholarly
-speculation that *taninim* is a Sanskrit loanword. Rav Hirsch (to Bereishis 1:21) also
-suggests that *tannin* derives from *nun*, but adds that *nun* itself derives from *nin*,
-offspring (in Modern Hebrew, great-grandchild), comparing this to *dag*, whose primary
-sense is fecundity. The Vilna Gaon writes that *nachash* is to land as *tanin* is to
-sea, an analogy which suggests that *tanin* is a sea snake (possibly an eel or something
-similar); Rashi (to Bereishis 1:21 and Niddah 22b) simply writes that a *tanin* is a big
-fish.
+Bereishis 1:21, the sea-monsters of the fifth day.
+
+- Rabbi Aharon Marcus argues that the tav is not part of the root, leaving *nun*
+  at the core, and explicitly rejects the scholarly speculation that *taninim* is
+  a Sanskrit loanword.
+- Rav Hirsch (to Bereishis 1:21) also suggests that *tannin* derives from *nun*,
+  but adds that *nun* itself derives from *nin*, offspring (in Modern Hebrew,
+  great-grandchild), comparing this to *dag*, whose primary sense is fecundity.
+- The Vilna Gaon writes that *nachash* is to land as *tanin* is to sea, an
+  analogy which suggests that *tanin* is a sea snake (possibly an eel or
+  something similar).
+- Rashi (to Bereishis 1:21 and Niddah 22b) simply writes that a *tanin* is a big
+  fish.
 
 ## Rendering guidance
 

@@ -82,9 +82,10 @@ pe'amayich ba'ne'alim, bas nadiv*, how lovely are your footsteps in sandals,
 daughter of nobles (Shir HaShirim 7:2).
 
 ### the paamos of the Aron
-Targum Onkelos and Rashi (to Shemos 25:12): the four *paamos* are the Aron's
-four corners. Ibn Ezra disagrees and reads them as four feet attached
-underneath; see Ramban there.
+- Targum Onkelos and Rashi (to Shemos 25:12): the four *paamos* are the Aron's
+  four corners.
+- Ibn Ezra disagrees and reads them as four feet attached underneath; see Ramban
+  there.
 
 ## Rendering guidance
 
