@@ -54,12 +54,13 @@ reading the surprise at an absence is inside the word.
 
 ## Where the authorities disagree
 
-**Which of ayeh and eifoh is the vaguer question.** Rabbi Shlomo Aharon
-Wertheimer (1866 to 1935): *ayeh* is the general question, used when one has no
-inkling at all where the thing is, while *eifo* is used when one has a general
-sense of the place and is asking exactly where. Rabbi Shlomo Pappenheim
-similarly understands *eifoh* as a vaguer question about location
-than *ey*/*ayeh*, whose root queries a specific location.
+**Which of ayeh and eifoh is the vaguer question.**
+
+- Rabbi Shlomo Aharon Wertheimer (1866 to 1935): *ayeh* is the general question,
+  used when one has no inkling at all where the thing is, while *eifo* is used
+  when one has a general sense of the place and is asking exactly where.
+- Rabbi Shlomo Pappenheim similarly understands *eifoh* as a vaguer question
+  about location than *ey*/*ayeh*, whose root queries a specific location.
 
 **What ayeh adds beyond location.** Along these lines, Rabbi Yehuda Leib
 Shapira-Frankfurter (1743 to 1826), Rav Hirsch's great uncle, writes in
@@ -89,12 +90,13 @@ modesty.)
 ## Distinctions
 
 ### ey, ayeh (אי, איה)
-Rabbi Pappenheim (1740 to 1814): the root is א-י, a query about a specific
-location. From it he derives *ee*, an island, which is literally "where is
-it?", since water on every side leaves no landmark by which to find it.
-Rabbi Wertheimer notes that besides "where," *ey* sometimes questions whether
-or how a thing actually exists, and can also mean "which." Examples
-are *ayeh* (Bereishis 18:9), its cognate *ayekah* (Bereishis 3:9) and
+- Rabbi Pappenheim (1740 to 1814): the root is א-י, a query about a specific
+  location. From it he derives *ee*, an island, which is literally "where is
+  it?", since water on every side leaves no landmark by which to find it.
+- Rabbi Wertheimer notes that besides "where," *ey* sometimes questions whether
+  or how a thing actually exists, and can also mean "which."
+
+Examples are *ayeh* (Bereishis 18:9), its cognate *ayekah* (Bereishis 3:9) and
 *ey* (Bereishis 4:9, to Kayin about Hevel).
 
 ### eifoh (איפה)

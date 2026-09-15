@@ -69,42 +69,46 @@ verse.
 ## Distinctions
 
 ### kevisah (כביסה)
-Rabbi Shlomo Pappenheim: *kevisah* is never used of the body, only of objects,
-above all clothing. It can be a whole garment immersed (Shemos 19:10, Vayikra
-11:25, 13:6) or one part of one cleaned (Vayikra 6:20), and it works either by
-bringing the garment to standing water or by pouring water on it. In his second
-formulation the contrast with *rechitzah* is depth: *rechitzah* rinses a
-surface, *kevisah* drives the water through and through, as it must with cloth.
-Rabbi Aharon Marcus (1843 to 1916) theorizes that כ-ב-ס means both launder and
-young sheep (*keves*), alluding to the washing of the sheep's wool. He further
-relates *rachel*, ewe, to *rechitzah*, since Hebrew lamed apparently becomes
-tzadi in Akkadian, in allusion to the same process, and finds a hint in Shir
-HaShirim 6:6, which uses both words in one pasuk. Rabbi Klein writes that he
-has been unable to substantiate the lamed/tzadi interchange, but notes that the
-*Pesikta Rabbasi* expounds *keves* as though related to *kevisah*, the korban
-washing away sin.
+- Rabbi Shlomo Pappenheim: *kevisah* is never used of the body, only of objects,
+  above all clothing. It can be a whole garment immersed (Shemos 19:10, Vayikra
+  11:25, 13:6) or one part of one cleaned (Vayikra 6:20), and it works either by
+  bringing the garment to standing water or by pouring water on it. In his
+  second formulation the contrast with *rechitzah* is depth: *rechitzah* rinses
+  a surface, *kevisah* drives the water through and through, as it must with
+  cloth.
+- Rabbi Aharon Marcus (1843 to 1916) theorizes that כ-ב-ס means both launder and
+  young sheep (*keves*), alluding to the washing of the sheep's wool. He further
+  relates *rachel*, ewe, to *rechitzah*, since Hebrew lamed apparently becomes
+  tzadi in Akkadian, in allusion to the same process, and finds a hint in Shir
+  HaShirim 6:6, which uses both words in one pasuk. Rabbi Klein writes that he
+  has been unable to substantiate the lamed/tzadi interchange, but notes that
+  the *Pesikta Rabbasi* expounds *keves* as though related to *kevisah*, the
+  korban washing away sin.
 
 On Shemos 19:10, *v'chibsu*: *Yevamos* 46b first tries to prove from it that
 Klal Yisrael immersed at Sinai, then rejects the proof, since the washing may
-have been for cleanliness alone. Rabbi Shlomo HaKohen of Vilna (1828 to 1905) finds the same
-implied in Targum Onkelos, who renders *v'chibsu* as *v'yichavrun*, "they shall whiten,"
-not his usual rendering for laundering that purifies. The Netziv (Rabbi
-Naftali Tzvi Yehudah Berlin, 1817 to 1893) makes the same point, adding that the
-pasuk says *simlah*, not *beged*, implying outer clothes only; tumah would not
-stop at the outer layer, so he infers that this was laundering in honor of the
-day.
+have been for cleanliness alone.
+
+- Rabbi Shlomo HaKohen of Vilna (1828 to 1905) finds the same implied in Targum
+  Onkelos, who renders *v'chibsu* as *v'yichavrun*, "they shall whiten," not his
+  usual rendering for laundering that purifies.
+- The Netziv (Rabbi Naftali Tzvi Yehudah Berlin, 1817 to 1893) makes the same
+  point, adding that the pasuk says *simlah*, not *beged*, implying outer
+  clothes only; tumah would not stop at the outer layer, so he infers that this
+  was laundering in honor of the day.
 
 ### rechitzah (רחיצה)
-Rabbi Shlomo Pappenheim (1740 to 1814), for whom *rechitzah* and *kevisah*
-differ in what is cleaned while *shetifah* names a method: the body, whole
-(immersion in a mikveh, Vayikra 15:13, Bamidbar 19:7) or in part (feet,
-Bereishis 18:4; face, Bereishis 43:31), and by either method, entering existing
-water (Shemos 2:5, Bamidbar 19:7) or having water poured on one (Bereishis
-43:31, Shemos 30:21). Rabbi Shlomo Aharon Wertheimer (1866 to 1935) allows it
-both outside (the kiyor poured over hands and feet, Shemos 30:19) and inside
-(water put into an animal's innards to cleanse them), where *shetifah* is
-exterior only; alternatively, he says, the difference is the quantity of water
-(see *shetifah*).
+- Rabbi Shlomo Pappenheim (1740 to 1814), for whom *rechitzah* and *kevisah*
+  differ in what is cleaned while *shetifah* names a method: the body, whole
+  (immersion in a mikveh, Vayikra 15:13, Bamidbar 19:7) or in part (feet,
+  Bereishis 18:4; face, Bereishis 43:31), and by either method, entering
+  existing water (Shemos 2:5, Bamidbar 19:7) or having water poured on one
+  (Bereishis 43:31, Shemos 30:21).
+- Rabbi Shlomo Aharon Wertheimer (1866 to 1935) allows it both outside (the
+  kiyor poured over hands and feet, Shemos 30:19) and inside (water put into an
+  animal's innards to cleanse them), where *shetifah* is exterior only;
+  alternatively, he says, the difference is the quantity of water (see
+  *shetifah*).
 
 ### shetifah (שטיפה)
 - Rabbi Shlomo Pappenheim: the root ש-ט-פ means flow or stream; *shetifah* is

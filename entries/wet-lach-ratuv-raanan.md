@@ -99,13 +99,15 @@ The word is a case study in root theory.
 All the classical lexicographers agree on the root reish-tes-beis. It occurs
 twice in Tanach, both in Iyov: a well-watered plant, *ratov* before the sun
 (8:16), and the man robbed of his clothing, soaked by the mountain runoff,
-*yirtavu* (24:8). It is the Targumim's standard rendering of *lach*, and Rashi
-(Iyov 8:16, 24:8; Sukkah 10b), Ibn Ezra (Iyov 8:16), and Radak (*Sefer
-HaShorashim*) define *ratuv* as *lach*. Since the Targumim typically render
-*lach* by *ratuv*, as Rashi (Iyov 24:8) and Ibn Ezra (Iyov 8:16) note, Rabbi
-Klein suggests that perhaps the two are not technically synonyms, because
-*lach* is a native Hebrew word while *ratuv* is borrowed from Aramaic (or
-another Semitic language).
+*yirtavu* (24:8).
+
+- It is the Targumim's standard rendering of *lach*, and Rashi (Iyov 8:16, 24:8;
+  Sukkah 10b), Ibn Ezra (Iyov 8:16), and Radak (*Sefer HaShorashim*) define
+  *ratuv* as *lach*.
+- Since the Targumim typically render *lach* by *ratuv*, as Rashi (Iyov 24:8)
+  and Ibn Ezra (Iyov 8:16) note, Rabbi Klein suggests that perhaps the two are
+  not technically synonyms, because *lach* is a native Hebrew word while *ratuv*
+  is borrowed from Aramaic (or another Semitic language).
 
 Pappenheim (*Yerios Shlomo*) takes another approach and distinguishes them
 twice over. Quantitatively: *lach* is only slightly wet, certainly not enough
@@ -175,8 +177,10 @@ peh-lamed-mem in Biblical or Mishnaic Hebrew, with one possible exception
 (Chagigah 12a); and *mefulamos* stones, quarried from the sea bed and so
 untouched by any tool, fit for the mizbeach (Zevachim 54a; see Rabbi Chaim
 Kanievsky's *Derech Chochmah* to the Rambam, *Hilchos Beis HaBechirah* 1:92).
-Rashi in all three places: wet. Rabbi Nosson of Rome (1035 to 1106) in *Sefer
-HeAruch*, against Rashi, defines it hearty, plump, or fat.
+
+- Rashi in all three places: wet.
+- Rabbi Nosson of Rome (1035 to 1106) in *Sefer HeAruch*, against Rashi, defines
+  it hearty, plump, or fat.
 
 On the etymology, Dr. Marcus Jastrow (1829 to 1903) takes it as a cognate of
 Arabic *tafailam*, whose meaning is comparable with the *Aruch*'s definition.

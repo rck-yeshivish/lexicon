@@ -43,11 +43,14 @@ command.
 
 ## Where the authorities disagree
 
-**Whether there is a difference at all.** Some early grammarians, such as Ibn
-Parchon and Radak, explain that the two words are synonymous. Against them Rabbi
-Klein sets his own principle, which he says he has demonstrated time and again, that the
-Hebrew language is not happenstance and no two words mean exactly the same
-thing; and others find slight differences in connotation.
+**Whether there is a difference at all.**
+
+- Some early grammarians, such as Ibn Parchon and Radak, explain that the two
+  words are synonymous.
+- Against them Rabbi Klein sets his own principle, which he says he has
+  demonstrated time and again, that the Hebrew language is not happenstance and
+  no two words mean exactly the same thing; and others find slight differences
+  in connotation.
 
 **What the difference is.** Four accounts, not one:
 

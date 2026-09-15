@@ -89,41 +89,47 @@ building.
 
 ### kir (קיר)
 About 74 appearances as "wall." Most grammarians take the root as ק-י-ר; some
-drop the yud. Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*) links *kir*
-to *kor*/*kar*, cold, a wall that gives shade to cool off under. Rabbi
-Pappenheim works from the two-letter ק-ר, the strong impact of weight or
-velocity: *korah*, a beam, and *tikrah*, a ceiling, whose horizontal timbers
-press down on the supports beneath. On that reading *kir* is originally the
-upright beam that bears a structure's weight, and only then any wall of stone
-or metal. The root also destroys: Bilaam foretells that Yisrael will *karkar*
-the nations (Bamidbar 24:17), which most commentators, Rashi, Ibn Ezra and Ibn Janach among them, render
-"destroy" without explaining the etymology. Radak (*Sefer HaShorashim*) derives
-*karkar* from *kir*, to destroy a wall and so strip a nation of its protection,
-comparing *shoresh*, root, whose verb *misharesh* means to uproot; thus, Rabbi Reuven
-Chaim Klein concludes, *kir* can refer both to building a wall and to tearing one
-down. Rav Hirsch (to Vayikra 19:28,
-Bamidbar 24:17) and Rabbi Yitzchok of Volozhin's *Peh Kadosh* (to Bamidbar
-24:17) offer comparable explanations.
+drop the yud.
+
+- Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*) links *kir* to
+  *kor*/*kar*, cold, a wall that gives shade to cool off under.
+- Rabbi Pappenheim works from the two-letter ק-ר, the strong impact of weight or
+  velocity: *korah*, a beam, and *tikrah*, a ceiling, whose horizontal timbers
+  press down on the supports beneath. On that reading *kir* is originally the
+  upright beam that bears a structure's weight, and only then any wall of stone
+  or metal.
+- The root also destroys: Bilaam foretells that Yisrael will *karkar* the
+  nations (Bamidbar 24:17), which most commentators, Rashi, Ibn Ezra and Ibn
+  Janach among them, render "destroy" without explaining the etymology.
+- Radak (*Sefer HaShorashim*) derives *karkar* from *kir*, to destroy a wall and
+  so strip a nation of its protection, comparing *shoresh*, root, whose verb
+  *misharesh* means to uproot; thus, Rabbi Reuven Chaim Klein concludes, *kir*
+  can refer both to building a wall and to tearing one down. Rav Hirsch (to
+  Vayikra 19:28, Bamidbar 24:17) and Rabbi Yitzchok of Volozhin's *Peh Kadosh*
+  (to Bamidbar 24:17) offer comparable explanations.
 
 ### shur (שור)
 Rare in Hebrew (Bereishis 49:22; Shmuel II 22:30; Tehillim 18:30; possibly
-Yirmiyahu 5:10 and Iyov 24:11), but common in the Targumim as *shura*,
-rendering *chomah* (Vayikra 25:29; Yehoshua 2:15, 6:20; Eichah 2:8). Rabbi
-Pappenheim traces it to ש-ר, a focal point: *shar*/*sharir*, the umbilical
-cord joining a fetus to its mother (Yechezkel 16:4; Mishlei 3:8; Iyov 40:16);
-*shor*, an ox, whose strength sits in its midsection; *shoresh*, the focal
-point of a plant's growth; *yashar*, the shortest way to a point; *shir*, a
-composition holding to one theme. *Shur* in the sense of seeing belongs here
-too, since sight, unlike the other senses, can be aimed at one point (Bamidbar 23:9, 24:17; Iyov 35:5). With it go *teshurah*, a gift
-for one who greets ("sees") a dignitary; *nesher*, the eagle that sees far; and
-*sheirus*, service, overseeing a master's needs (or, alternatively, straightening
-out the household or staying straightforward with the master's wishes). For
-*shur* as "wall" he offers two links: a wall built in a straight line (*yashar*), as against a
-*chomah* that encircles; or a tall wall used as a lookout, from *shur* as
-seeing. In line with the latter, Rabbi Dr. Ernest Klein notes that *shur* and
-*chomah* both carry the double sense of wall and seeing. Rashi to Bereishis
-49:22 seems unsure which sense *shur* has there, and Radak reads *shor* at
-Bereishis 49:6 as "wall," like the *shur* later in the perek.
+Yirmiyahu 5:10 and Iyov 24:11), but common in the Targumim as *shura*, rendering
+*chomah* (Vayikra 25:29; Yehoshua 2:15, 6:20; Eichah 2:8).
+
+- Rabbi Pappenheim traces it to ש-ר, a focal point: *shar*/*sharir*, the
+  umbilical cord joining a fetus to its mother (Yechezkel 16:4; Mishlei 3:8;
+  Iyov 40:16); *shor*, an ox, whose strength sits in its midsection; *shoresh*,
+  the focal point of a plant's growth; *yashar*, the shortest way to a point;
+  *shir*, a composition holding to one theme. *Shur* in the sense of seeing
+  belongs here too, since sight, unlike the other senses, can be aimed at one
+  point (Bamidbar 23:9, 24:17; Iyov 35:5). With it go *teshurah*, a gift for one
+  who greets ("sees") a dignitary; *nesher*, the eagle that sees far; and
+  *sheirus*, service, overseeing a master's needs (or, alternatively,
+  straightening out the household or staying straightforward with the master's
+  wishes). For *shur* as "wall" he offers two links: a wall built in a straight
+  line (*yashar*), as against a *chomah* that encircles; or a tall wall used as
+  a lookout, from *shur* as seeing.
+- In line with the latter, Rabbi Dr. Ernest Klein notes that *shur* and *chomah*
+  both carry the double sense of wall and seeing.
+- Rashi to Bereishis 49:22 seems unsure which sense *shur* has there, and Radak
+  reads *shor* at Bereishis 49:6 as "wall," like the *shur* later in the perek.
 
 ### cheil (חיל)
 - Rabbi Pappenheim derives it from ח-ל, circular movement and the empty space

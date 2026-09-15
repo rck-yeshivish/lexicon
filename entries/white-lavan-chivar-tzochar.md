@@ -58,40 +58,47 @@ word means white at all.
 
 ## Where the authorities disagree
 
-**Whether lavan and chivar differ at all.** In many of the places where the
-Talmud's Aramaic *chivar* appears, Rashi translates it back into Hebrew as
-*lavan* (Berachos 28a, Gittin 69b and 73a, Bava Basra 73a, Avodah Zarah 28a,
-Chullin 55b). Rabbi Reuven Chaim Klein takes this to imply that perhaps Rashi understood the
-two to mean exactly the same thing, though they may not technically be synonyms
-because one is Hebrew and the other Aramaic. Rabbi Shlomo Pappenheim, without
-saying he is distinguishing them, defines *chivar* as a whiteness that is not an
-object's natural color but a property caused by an outside force, as when a
-thing is whitened in fire. He grounds this in what he considered a scientific
-fact, that most objects are naturally white and other colors come from
-impurities, which a hot furnace melts away to leave the natural white; Rabbi
-Reuven Chaim Klein calls this quasi-scientific. On his account, it seems, *lavan* is the
-umbrella and *chivar* the whiteness of something whitened from outside.
+**Whether lavan and chivar differ at all.**
 
-**Whether tzochar means white.** Rashi (to Shoftim 5:10) says yes: Devorah
-praises those who rode white she-donkeys, carrying on during the war unafraid
-of being sighted by enemies on such conspicuous animals; and to Yechezkel 27:18
-he again reads white wool, citing the Shoftim pasuk as proof. Rabbi Avraham
-Bedersi in *Chotam Tochnit*, the first work on Hebrew synonyms, disputes it and
-prefers Ibn Janach's view that *tzochar* primarily means "combed": combed wool
-simply happens to come out white and pristine. The donkeys, he explains, were
-combed against fleas, not necessarily white. Rabbi Reuven Chaim Klein finds this fits those
-etymologies that relate *tzochar* to "pristine" or "clean," which in his view
-shows the core meaning is not quite white. Those are Radal's (1798 to 1855)
-tie to *tzach*, clean, clear, pristine, and Rabbi Benzion Chaim Lubetzky's (d.
-1945) rearrangement of צ-ח-ר into ר-ח-צ, *rechitzah*, washing, both suggested
-independently by Rabbi Dovberish Rosenberg of Zurich in *Davar Tov*. Continuing
-from *tzach*, Rabbi Tedeschi (*Otzar Nirdafim*) and Rabbi Yehudah Aryeh of
-Carpentras (*Aholei Yehuda*) read it as a portmanteau of *tzach* and *chivar*,
-white, and Rabbi Yitzchak of Zeldin (*Shoresh Yesha*) as *tzach* plus *ohr*,
-light. Elsewhere, the best versions of Rashi to Berachos 31b, where
-Chanah asks that her son be neither too *tzachor* nor too ruddy, explain it as
-white, and Sotah 12a explains Miriam's name Tzochar from *tzahar*, noon,
-because her face shone.
+- In many of the places where the Talmud's Aramaic *chivar* appears, Rashi
+  translates it back into Hebrew as *lavan* (Berachos 28a, Gittin 69b and 73a,
+  Bava Basra 73a, Avodah Zarah 28a, Chullin 55b). Rabbi Reuven Chaim Klein takes
+  this to imply that perhaps Rashi understood the two to mean exactly the same
+  thing, though they may not technically be synonyms because one is Hebrew and
+  the other Aramaic.
+- Rabbi Shlomo Pappenheim, without saying he is distinguishing them, defines
+  *chivar* as a whiteness that is not an object's natural color but a property
+  caused by an outside force, as when a thing is whitened in fire. He grounds
+  this in what he considered a scientific fact, that most objects are naturally
+  white and other colors come from impurities, which a hot furnace melts away to
+  leave the natural white; Rabbi Reuven Chaim Klein calls this quasi-scientific.
+  On his account, it seems, *lavan* is the umbrella and *chivar* the whiteness
+  of something whitened from outside.
+
+**Whether tzochar means white.**
+
+- Rashi (to Shoftim 5:10) says yes: Devorah praises those who rode white
+  she-donkeys, carrying on during the war unafraid of being sighted by enemies
+  on such conspicuous animals; and to Yechezkel 27:18 he again reads white wool,
+  citing the Shoftim pasuk as proof.
+- Rabbi Avraham Bedersi in *Chotam Tochnit*, the first work on Hebrew synonyms,
+  disputes it and prefers Ibn Janach's view that *tzochar* primarily means
+  "combed": combed wool simply happens to come out white and pristine. The
+  donkeys, he explains, were combed against fleas, not necessarily white.
+- Rabbi Reuven Chaim Klein finds this fits those etymologies that relate
+  *tzochar* to "pristine" or "clean," which in his view shows the core meaning
+  is not quite white. Those are Radal's (1798 to 1855) tie to *tzach*, clean,
+  clear, pristine, and Rabbi Benzion Chaim Lubetzky's (d. 1945) rearrangement of
+  צ-ח-ר into ר-ח-צ, *rechitzah*, washing, both suggested independently by Rabbi
+  Dovberish Rosenberg of Zurich in *Davar Tov*.
+- Continuing from *tzach*, Rabbi Tedeschi (*Otzar Nirdafim*) and Rabbi Yehudah
+  Aryeh of Carpentras (*Aholei Yehuda*) read it as a portmanteau of *tzach* and
+  *chivar*, white, and Rabbi Yitzchak of Zeldin (*Shoresh Yesha*) as *tzach*
+  plus *ohr*, light.
+- Elsewhere, the best versions of Rashi to Berachos 31b, where Chanah asks that
+  her son be neither too *tzachor* nor too ruddy, explain it as white, and Sotah
+  12a explains Miriam's name Tzochar from *tzahar*, noon, because her face
+  shone.
 
 **What chelbon wine is.**
 - Rashi: white wine, by its color, which lines up with Rabbinic *chelbon* for

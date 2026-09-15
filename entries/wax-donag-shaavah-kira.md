@@ -54,23 +54,30 @@ generally a **spice**; some make it wax, following the Midrash.
 
 ## Where the authorities disagree
 
-**What *nechot* is.** It is generally understood as a spice, often identified as
-ladanum; Ibn Janach makes it carobs. Against that, Bereishis Rabbah 91:11 makes
-it *shaavah*, wax, and Targum Yonasan and Targum Neofiti (to Bereishis 37:25
-and 43:11) render it *shaavah*. Professor Zohar Amar adds that in Yaakov's list
-the item just before it is *me'at dvash*, "a little honey," which may have led
-to the supposition that *nechot* is something related to honey, that is,
-beeswax.
+**What *nechot* is.**
 
-**What Onkelos says there.** Rashi (to Bereishis 37:25) cites Targum Onkelos as
-also rendering *nechot* as *shaavah*, which is somewhat difficult, because our
-editions of Onkelos (Bereishis 37:25, 43:11) read *shaaf*, which apparently
-means "smear" (see Chullin 111b). Ramban (to Shemos 30:34) takes Onkelos's
-rendering to mean olive oil. The Vilna Gaon's son, Rabbi Avraham Vilner, reads
-the word as *saaf* and connects it to *seif*, "branch" (Yechezkel 31:8).
-Despite all this, Rabbi Reuven Chaim Klein validates Rashi's citation through Rabbi Yosef
-Teomim-Frankel (1727 to 1792), who suggests in *Iggros Pri Megadim* that *shaaf*
-is just a variant of *shaavah*, presumably, Rabbi Reuven Chaim Klein adds, because PEH and VAV are phonetically close and can interchange.
+- It is generally understood as a spice, often identified as ladanum.
+- Ibn Janach makes it carobs.
+- Against that, Bereishis Rabbah 91:11 makes it *shaavah*, wax, and Targum
+  Yonasan and Targum Neofiti (to Bereishis 37:25 and 43:11) render it *shaavah*.
+- Professor Zohar Amar adds that in Yaakov's list the item just before it is
+  *me'at dvash*, "a little honey," which may have led to the supposition that
+  *nechot* is something related to honey, that is, beeswax.
+
+**What Onkelos says there.**
+
+- Rashi (to Bereishis 37:25) cites Targum Onkelos as also rendering *nechot* as
+  *shaavah*, which is somewhat difficult, because our editions of Onkelos
+  (Bereishis 37:25, 43:11) read *shaaf*, which apparently means "smear" (see
+  Chullin 111b).
+- Ramban (to Shemos 30:34) takes Onkelos's rendering to mean olive oil.
+- The Vilna Gaon's son, Rabbi Avraham Vilner, reads the word as *saaf* and
+  connects it to *seif*, "branch" (Yechezkel 31:8).
+
+Despite all this, Rabbi Reuven Chaim Klein validates Rashi's citation through
+Rabbi Yosef Teomim-Frankel (1727 to 1792), who suggests in *Iggros Pri Megadim*
+that *shaaf* is just a variant of *shaavah*, presumably, Rabbi Reuven Chaim
+Klein adds, because PEH and VAV are phonetically close and can interchange.
 
 **Where *donag* comes from.**
 - Rav Hirsch (to Shemos 29:20) connects it to *tenuch*, the ear lobe, ostensibly

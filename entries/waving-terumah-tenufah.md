@@ -85,14 +85,16 @@ other; and it does not really help define the two words against each other.
 ### Why breast and thigh are named as they are
 Rashi (to Vayikra 10:15), reacting to that rule, says he does not know why the
 breast is tied to *tenufah* and the thigh to *terumah* when both limbs undergo
-both. *Peirush HaRokeach* (to Shemos 29:27, Vayikra 7:34) attempts an answer
-from the shape: the breast is a wide flank, fitting the widthwise *tenufah*,
-while the thigh is upright and erect, fitting the up-and-down *terumah*; see
-also Ramban to Vayikra 10:15. Another approach may be gleaned from Rabbi Yosef
-Bechor Shor (to Shemos 29:24), who writes that the two are synonyms which the
-Torah uses in tandem to avoid being repetitive; on his view breast takes
-*tenufah* and thigh *terumah* as a matter of linguistic elegance, with no deeper
-significance.
+both.
+
+- *Peirush HaRokeach* (to Shemos 29:27, Vayikra 7:34) attempts an answer from
+  the shape: the breast is a wide flank, fitting the widthwise *tenufah*, while
+  the thigh is upright and erect, fitting the up-and-down *terumah*; see also
+  Ramban to Vayikra 10:15.
+- Another approach may be gleaned from Rabbi Yosef Bechor Shor (to Shemos
+  29:24), who writes that the two are synonyms which the Torah uses in tandem to
+  avoid being repetitive; on his view breast takes *tenufah* and thigh *terumah*
+  as a matter of linguistic elegance, with no deeper significance.
 
 Targum Onkelos complicates the picture. Rabbi Shmuel Botnick
 noted that to Shemos 29:24 Onkelos renders *tenufah* with
@@ -105,19 +107,21 @@ out that Onkelos renders *terumah* of the miluim thigh as "separating," not
 "lifting."
 
 ### terumah as separation
-Shemos 25:2, the donations for the Mishkan: Rashi glosses *terumah* as
-"separation." Rabbi Yehuda Kalats (*Miseach Ilmim* there) explains Rashi's
-intent: no physical lifting is involved in giving a donation, and the *trei
-mi'meah* reading used of the tithes cannot apply because no fixed amount was
-prescribed for the Mishkan; so *terumah* here is simply separating a portion of
-one's wealth to donate it to the sacred. (*Tenufah* likewise refers to a
-donation at Shemos 35:22.) As the Kohen's tithe, Mishnah *Terumos* 4:3 sets one
-fortieth for the generous, one fiftieth for the average, one sixtieth for the
-stingy, and in line with the average the Zohar (*Korach* 179a), the Rambam
-(commentary to that Mishnah) and *Sefer HaChinuch* (mitzvah 507) parse the word
-itself as *trei mi'meah*, two per hundred, that is one fiftieth. At Vayikra
-23:17 Rashi glosses *Lechem Tenufah* as *Lechem Terumah*, reading it as the
-loaves' being lifted to a higher plane of sanctity rather than a physical wave.
+- Shemos 25:2, the donations for the Mishkan: Rashi glosses *terumah* as
+  "separation." Rabbi Yehuda Kalats (*Miseach Ilmim* there) explains Rashi's
+  intent: no physical lifting is involved in giving a donation, and the *trei
+  mi'meah* reading used of the tithes cannot apply because no fixed amount was
+  prescribed for the Mishkan; so *terumah* here is simply separating a portion
+  of one's wealth to donate it to the sacred. (*Tenufah* likewise refers to a
+  donation at Shemos 35:22.)
+- As the Kohen's tithe, Mishnah *Terumos* 4:3 sets one fortieth for the
+  generous, one fiftieth for the average, one sixtieth for the stingy, and in
+  line with the average the Zohar (*Korach* 179a), the Rambam (commentary to
+  that Mishnah) and *Sefer HaChinuch* (mitzvah 507) parse the word itself as
+  *trei mi'meah*, two per hundred, that is one fiftieth.
+- At Vayikra 23:17 Rashi glosses *Lechem Tenufah* as *Lechem Terumah*, reading
+  it as the loaves' being lifted to a higher plane of sanctity rather than a
+  physical wave.
 
 ### The roots
 In both words the initial tav is not part of the root, which is ר-ו-ם and נ-ו-פ
@@ -151,16 +155,18 @@ connect *tenufah* to that *anaf*: a branch spreads out to the sides of the trunk
 and not upward, as *tenufah* is back-and-forth motion and not necessarily up
 and down.
 
-*Nofes*, flowing honey (Tehillim 19:11, *nofes tzufim*), also seems to belong
-to נ-ו-פ. Rabbi Shlomo Pappenheim ties it to *nof*, since the nectar sits at the
-top of the branch or plant, or alternatively to *tenufah*, since honey was put on
-glowing coals and its scent waved about a room (see Rashi to Mishlei 7:17).
-Rabbi Yehudah Aryeh of Carpentras, an eighteenth-century grammarian and
-*dayan*, reads *nofes* in *Aholei Yehuda* as figuratively lifted above other
-foods for its esteem, and reads *ramos* (Iyov 28:18), from *terumah*'s root,
-the same way, a gem so rare it is figuratively raised above the rest. According
-to modern linguists, that gemstone may be black coral, mother
-of pearl, or some specific sea shell.
+*Nofes*, flowing honey (Tehillim 19:11, *nofes tzufim*), also seems to belong to
+נ-ו-פ.
+
+- Rabbi Shlomo Pappenheim ties it to *nof*, since the nectar sits at the top of
+  the branch or plant, or alternatively to *tenufah*, since honey was put on
+  glowing coals and its scent waved about a room (see Rashi to Mishlei 7:17).
+- Rabbi Yehudah Aryeh of Carpentras, an eighteenth-century grammarian and
+  *dayan*, reads *nofes* in *Aholei Yehuda* as figuratively lifted above other
+  foods for its esteem, and reads *ramos* (Iyov 28:18), from *terumah*'s root,
+  the same way, a gem so rare it is figuratively raised above the rest.
+  According to modern linguists, that gemstone may be black coral, mother of
+  pearl, or some specific sea shell.
 
 ### Names from the two roots
 *Ramos* as topographical heights gives Ramos Gilad (sometimes spelled with a

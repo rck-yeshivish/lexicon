@@ -103,21 +103,24 @@ As an aside, Lachmi is the name of the brother of Golias (Divrei HaYamim I
 ### krav (קרב)
 Root ק-ר-ב, meaning approaching, innards, and war, which the classical
 lexicographers (Ibn Saruk, Ibn Janach, Radak) present as three distinct senses.
-Rabbi Klein says the truth is blurrier: to approach is to come nearer to the
-inside of a perimeter and reach its innards, and in battle the attackers
-approach while the defenders protect what lies within their line. Some verbs of
-ק-ר-ב literally mean approaching but contextually refer to potential battle
-(Shemos 14:10, Devarim 2:19 and 20:10). The same root gives *korban*,
-brought near to the mizbeach and, in a metaphysical sense, bringing the one who
-offers it near to Hashem, and it is used of relations, two people coming
-together (Bereishis 20:4, Vayikra 18:6, Devarim 22:14, Yeshayahu 8:3). Rav
-Hirsch (to Tehillim 140:2) relates *akrav*, the scorpion, with an added initial
-ayin, since it is always poised to attack. Rabbi Yehudah Aryeh of Carpentras
-(*Aholei Yehudah*) links *garav*, a kind of boil, to *krav* by the interchange
-of gimmel and kuf: it itches so fiercely that a man feels impelled to wage war
-on himself scratching it, even to bleeding. In Tanach *krav* appears in such
-phrases as *yom krav*, day of battle (Zecharyah 14:3, Tehillim 78:9, Iyov
-38:23), and *klei krav*, weapons (Koheles 9:18).
+
+- Rabbi Klein says the truth is blurrier: to approach is to come nearer to the
+  inside of a perimeter and reach its innards, and in battle the attackers
+  approach while the defenders protect what lies within their line. Some verbs
+  of ק-ר-ב literally mean approaching but contextually refer to potential battle
+  (Shemos 14:10, Devarim 2:19 and 20:10). The same root gives *korban*, brought
+  near to the mizbeach and, in a metaphysical sense, bringing the one who offers
+  it near to Hashem, and it is used of relations, two people coming together
+  (Bereishis 20:4, Vayikra 18:6, Devarim 22:14, Yeshayahu 8:3).
+- Rav Hirsch (to Tehillim 140:2) relates *akrav*, the scorpion, with an added
+  initial ayin, since it is always poised to attack.
+- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) links *garav*, a kind of
+  boil, to *krav* by the interchange of gimmel and kuf: it itches so fiercely
+  that a man feels impelled to wage war on himself scratching it, even to
+  bleeding.
+
+In Tanach *krav* appears in such phrases as *yom krav*, day of battle (Zecharyah
+14:3, Tehillim 78:9, Iyov 38:23), and *klei krav*, weapons (Koheles 9:18).
 
 ### pulmus (פולמוס)
 Mishnaic, in the sense of war or battle, a loanword from Greek *polemos*, war. It
@@ -148,13 +151,15 @@ Kohut (*HeAruch HaShaleim*) writes at great length to defend that reading.
 
 ### kenigia (קניגיא)
 A hapax in the Bavli, so its precise meaning is not readily apparent: Gavriel is
-destined to do *kenigia* with the Leviasan (*Bava Basra* 74b-75a). The Mainz
-commentary ascribed to Rabbeinu Gershom (to *Bava Basra* 75a), and the Rashba,
-define it as *milchamah*. The Rashbam (there) explains it as hunting, and
-buttresses this from *Chullin* 60b, which asks whether Moshe was a *kenigi* or a
-*balistiri*, that is a hunter or an archer (so Rashi and Rabbeinu Gershom there),
-the point being that such detail about kosher and non-kosher animals could only
-have come from Above.
+destined to do *kenigia* with the Leviasan (*Bava Basra* 74b-75a).
+
+- The Mainz commentary ascribed to Rabbeinu Gershom (to *Bava Basra* 75a), and
+  the Rashba, define it as *milchamah*.
+- The Rashbam (there) explains it as hunting, and buttresses this from *Chullin*
+  60b, which asks whether Moshe was a *kenigi* or a *balistiri*, that is a
+  hunter or an archer (so Rashi and Rabbeinu Gershom there), the point being
+  that such detail about kosher and non-kosher animals could only have come from
+  Above.
 
 *Kenigia* is indeed a loanword from Greek *kynigia*, which
 in fact means hunting or pursuing predatory beasts, and which linguists derive

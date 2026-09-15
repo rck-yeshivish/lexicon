@@ -51,15 +51,19 @@ rapid whisper or half-intelligible **prattle**; in the Rema's halachic usage
 ## Distinctions
 
 ### shreikah (שריקה)
-Root ש-ר-ק. Radak (*Sefer HaShorashim*, and to Zechariah 10:8) quite
-prosaically defines it broadly as moving the lips to produce a sound. Rabbi
-Shlomo Ibn Prachon (*Machberes HeAruch*) expands on it: specifically puckering
-the lips and exhaling air through them; he adds that the vowel *shuruk* is
-related to the root because the mouth puckers to make its *oo* sound as though
-about to whistle. Rabbi Klein wondered whether Hebrew ש-ר-ק, whistling, is
-connected to Aramaic ש-ר-ק, smooth or slippery, since whistling makes a smooth
-sound, but his language guru Rabbi Shaul Goldman rejected the supposition. Two
-uses stand opposite each other in Tanach.
+Root ש-ר-ק.
+
+- Radak (*Sefer HaShorashim*, and to Zechariah 10:8) quite prosaically defines
+  it broadly as moving the lips to produce a sound.
+- Rabbi Shlomo Ibn Prachon (*Machberes HeAruch*) expands on it: specifically
+  puckering the lips and exhaling air through them; he adds that the vowel
+  *shuruk* is related to the root because the mouth puckers to make its *oo*
+  sound as though about to whistle.
+- Rabbi Klein wondered whether Hebrew ש-ר-ק, whistling, is connected to Aramaic
+  ש-ר-ק, smooth or slippery, since whistling makes a smooth sound, but his
+  language guru Rabbi Shaul Goldman rejected the supposition.
+
+Two uses stand opposite each other in Tanach.
 
 *Shreikah* of desolation: passersby whistle at the ruin of a place that had
 been thriving. So Eichah 2:15 to 16 of Yerushalayim after its fall, and so the
@@ -105,28 +109,33 @@ discussed in Rabbi Amitai Ben-David's *Sichas Chullin* to *Chullin* 63a.
 ### mashrokita (משרוקיתא)
 An instrument in Nevuchadnetzar's music (Daniel 3:5, 3:7, 3:10, 3:15), in the
 Aramaic part of Daniel; there is no real way of knowing which instrument is
-meant. Ibn Ezra (to Daniel 3:5) surmises that it is cogent to take the root as
-ש-ר-ק, so some wind instrument with a whistle-like sound (perhaps a band of
-pipers or flutists); Menachem Ibn Saruk (*Machberes Menachem*) lists it under
-that root, and Rashi to Daniel 3:5 makes a similar point briefly. Rabbi Yaakov
-Berger of Kiryat Sefer (*Milon Leshon Mikra*, unpublished) points out that
-biblical Hebrew *shreikah* seemingly always means whistling with the mouth
-alone, while the Aramaic *mashrokita* whistles through an instrument.
+meant.
+
+- Ibn Ezra (to Daniel 3:5) surmises that it is cogent to take the root as ש-ר-ק,
+  so some wind instrument with a whistle-like sound (perhaps a band of pipers or
+  flutists); Menachem Ibn Saruk (*Machberes Menachem*) lists it under that root,
+  and Rashi to Daniel 3:5 makes a similar point briefly.
+- Rabbi Yaakov Berger of Kiryat Sefer (*Milon Leshon Mikra*, unpublished) points
+  out that biblical Hebrew *shreikah* seemingly always means whistling with the
+  mouth alone, while the Aramaic *mashrokita* whistles through an instrument.
 
 ### tziftzuf (צפצוף)
 Four times in Tanach as a verb for whistling, chirping, tweeting, all in
 Yeshayahu (8:19, 10:14, 29:4, 38:14). A noun of the same four letters,
-*tzaftzafah*, appears once, a type of willow (Yechezkel 17:5); Rabbi Moshe
-Kimchi (to Yechezkel) bridges the two meanings of the quadriliteral by noting
-that birds would gather at that willow and chirp there. Ibn Janach and Radak
-(*Sefer HaShorashim*) trace *tziftzuf* to the four-letter צ-פ-צ-ף. Menachem Ibn
-Saruk instead reads it as the doubled biliteral צ-פ, and Rabbi Shlomo Pappenheim
-(*Cheshek Shlomo*), implicitly following him, writes at length on that root:
-its core is something that spreads on top of something else, giving *tzofeh*
-and *mitzpeh* (a gaze spread over a wide field), then *tzipiyah* (waiting, the
-man in trouble looking in every direction for his rescuer), and then
-*tziftzuf*, the bird's sound as the voice of its anticipation of its mate or its
-next meal.
+*tzaftzafah*, appears once, a type of willow (Yechezkel 17:5).
+
+- Rabbi Moshe Kimchi (to Yechezkel) bridges the two meanings of the
+  quadriliteral by noting that birds would gather at that willow and chirp
+  there.
+- Ibn Janach and Radak (*Sefer HaShorashim*) trace *tziftzuf* to the four-letter
+  צ-פ-צ-ף.
+- Menachem Ibn Saruk instead reads it as the doubled biliteral צ-פ, and Rabbi
+  Shlomo Pappenheim (*Cheshek Shlomo*), implicitly following him, writes at
+  length on that root: its core is something that spreads on top of something
+  else, giving *tzofeh* and *mitzpeh* (a gaze spread over a wide field), then
+  *tzipiyah* (waiting, the man in trouble looking in every direction for his
+  rescuer), and then *tziftzuf*, the bird's sound as the voice of its
+  anticipation of its mate or its next meal.
 
 *Tziftzuf* often refers to a low whisper, which sounds almost like whistling
 since the mouth is narrowed as in whistling: speaking quickly, constantly, low.

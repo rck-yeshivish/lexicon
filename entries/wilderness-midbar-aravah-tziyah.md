@@ -73,38 +73,41 @@ does not explicitly trace *midbar* there, but lists six senses of that root:
 
 ### aravah (ערבה)
 Sixty occurrences, sometimes as a place-name (*Arvos Moav*, *Arvos Yericho*).
-All the early lexicographers, Ibn Saruk included, explicitly trace it to
-ע-ר-ב, of which Menachem lists eleven senses: *erev* (evening), *areiv* (sweet,
+All the early lexicographers, Ibn Saruk included, explicitly trace it to ע-ר-ב,
+of which Menachem lists eleven senses: *erev* (evening), *areiv* (sweet,
 pleasant), *aravah* (willow), *areiv* (guarantor), *eiruv* (connection,
 mixture), *erev* (the woof of a fabric), *arov* (the mixture of wild animals),
 *erev* or *Arav* (Arabia), *oreiv* (raven), *aravos* (a name of the heavens),
-and *aravah* (wilderness). Rabbeinu Meyuchas ben Eliyahu (to Devarim 1:1), a Greek or Byzantine
-scholar of some time before the 1500s, reads it topographically: an *aravah* is a depressed valley, less
-exposed to sunlight and so like a dark jungle, and he compares *erev*, the dark
-part of the day, and *oreiv*, the black bird. Rabbi Abrahams connects the root
-differently, as the breaking down of boundaries so that distinct units blend:
-*taaroves* / *irbuvya* (mixture), *erev* (when failing light makes objects hard
-to tell apart), *eiruv* (merging domains for Shabbos), *areiv* (a guarantor
-blurring the line between himself and the borrower), *areiv* (sweetness, a
-harmonious blend of tastes). Rav Hirsch (to Shemos 7:15) similarly explains
-*arov* as turning Mitzrayim into an untamed jungle with no rules. On this
-rubric the *aravah* is a plain, neither elevated like mountains nor depressed
-like a valley, blurring the difference between them. Rabbi Abrahams also
-connects *aravah* to *Araviyah*, Arabia, homeland of the desert-dwelling Arabs,
-whom he describes as breaking down boundaries through theft and immorality;
-the allusions are to their not wanting the Torah because of *lo
-sigzol* and to their getting ten *kavim* of immorality.
+and *aravah* (wilderness).
+
+- Rabbeinu Meyuchas ben Eliyahu (to Devarim 1:1), a Greek or Byzantine scholar
+  of some time before the 1500s, reads it topographically: an *aravah* is a
+  depressed valley, less exposed to sunlight and so like a dark jungle, and he
+  compares *erev*, the dark part of the day, and *oreiv*, the black bird.
+- Rabbi Abrahams connects the root differently, as the breaking down of
+  boundaries so that distinct units blend: *taaroves* / *irbuvya* (mixture),
+  *erev* (when failing light makes objects hard to tell apart), *eiruv* (merging
+  domains for Shabbos), *areiv* (a guarantor blurring the line between himself
+  and the borrower), *areiv* (sweetness, a harmonious blend of tastes). Rav
+  Hirsch (to Shemos 7:15) similarly explains *arov* as turning Mitzrayim into an
+  untamed jungle with no rules. On this rubric the *aravah* is a plain, neither
+  elevated like mountains nor depressed like a valley, blurring the difference
+  between them. Rabbi Abrahams also connects *aravah* to *Araviyah*, Arabia,
+  homeland of the desert-dwelling Arabs, whom he describes as breaking down
+  boundaries through theft and immorality; the allusions are to their not
+  wanting the Torah because of *lo sigzol* and to their getting ten *kavim* of
+  immorality.
 
 Malbim: an *aravah* is dominated by thorns, thistles and wild growth, so it is
 **not** as dry as a *tziyah*; it holds moisture enough to support weeds. Its
 opposite is a flourishing garden, which is why Yeshayahu 51:3 foretells that
 Hashem will turn her *aravah* into the garden of Hashem.
 
-On the willow: Rabbi Abrahams calls it a plain, unremarkable plant with no good
-taste or smell, so that in Chazal's exegesis the *aravah* is the Jew with
-neither Torah nor good deeds (*Vayikra Rabbah* 30:12); Rav Hirsch (to Vayikra
-23:40) explains more simply that willows need little water and so grow even in
-an *aravah*.
+- On the willow: Rabbi Abrahams calls it a plain, unremarkable plant with no
+  good taste or smell, so that in Chazal's exegesis the *aravah* is the Jew with
+  neither Torah nor good deeds (*Vayikra Rabbah* 30:12).
+- Rav Hirsch (to Vayikra 23:40) explains more simply that willows need little
+  water and so grow even in an *aravah*.
 
 ### tziyah (ציה)
 Sixteen occurrences, all in Tehillim, Iyov, or the Later Prophets; never in
@@ -142,16 +145,16 @@ to heat, the exact opposite of a land of springs and pools; hence Tehillim
 *Yair Ohr* (maareches mem, os dalet).
 
 ### How intense, and in what order
-The Vilna Gaon, Rabbi Eliyahu Kramer (1720 to 1797), to Hoshea 2:5, where
-Hashem threatens to make her like a *midbar* and set her like a *tziyah* land:
-the two mean essentially the same thing, but *tziyah* implies the more intense
-desolation, and he reads the escalation as the loss of *nevuah*, leaving her a
-*midbar*, then the loss of even *ruach hakodesh*, leaving her a *tziyah*.
-Yirmiyahu 50:12 stacks all three for Bavel's future: *midbar*, *tziyah*,
-*aravah*. *Metzudas David* there, as he often does, treats them as a series of
-synonyms, possibly as poetic expression, with no semantic difference intended;
-Malbim there refers the reader to his distinction at Yeshayahu 35:1, given
-above.
+- The Vilna Gaon, Rabbi Eliyahu Kramer (1720 to 1797), to Hoshea 2:5, where
+  Hashem threatens to make her like a *midbar* and set her like a *tziyah* land:
+  the two mean essentially the same thing, but *tziyah* implies the more intense
+  desolation, and he reads the escalation as the loss of *nevuah*, leaving her a
+  *midbar*, then the loss of even *ruach hakodesh*, leaving her a *tziyah*.
+- Yirmiyahu 50:12 stacks all three for Bavel's future: *midbar*, *tziyah*,
+  *aravah*. *Metzudas David* there, as he often does, treats them as a series of
+  synonyms, possibly as poetic expression, with no semantic difference intended.
+- Malbim there refers the reader to his distinction at Yeshayahu 35:1, given
+  above.
 
 ## Rendering guidance
 

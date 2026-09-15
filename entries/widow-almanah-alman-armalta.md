@@ -100,44 +100,54 @@ and Rudolf Ruzicka connecting both to Aramaic *alima*, feeling pain.
 
 **How Chazal read the word.** On the Mishnah that a besulah's kesubah is two
 hundred zuz and an *almanah*'s one hundred (Kesubos 1:2), the Gemara (Kesubos
-10b; see *Ben Yehoyada* there) cites Rav Chana of Baghdad that the Biblical
-word *almanah* alludes to the future rabbinic enactment giving a widow a
-*manah*, a hundred zuz, should her next husband divorce her or die. It seems
-that Chazal parse the word as *al* plus *manah*. What the *al* contributes is
-itself disputed: Rabbi Yehuda Aryeh of Modena (*HaBoneh* to *Ein Yaakov*,
-Kesubos 10b) reads "not a *manah*," she lacks the additional *manah* a
-besulah's kesubah has, and Rabbi Betzalel Ashkenazi (*Shittah Mekubetzes*
-there) cites a similar explanation in the name of the Geonim; Rabbi Ashkenazi
-also reads Rashi as taking *al* for *elah*, "only one *manah*"; Rabbi Shmuel
-Strashun (*Hagahos Rashash*) reads *al* as the definite article, as in Arabic.
-The Ritva stresses that the Gemara grants that *almanah* derives from א-ל-ם, per
-the grammarians, and says the added nun coins a word alluding to the kesubah's
-value. In the same spirit *Peirush HaRokeach* (to Vayikra 21:14) notes that the
-gematria of *almanah* equals that of the Aramaic *meah zuzin*. The Chasam Sofer
-adds that the allusion must be to a post-Biblical enactment, since the *manah*
-currency came only after the Biblical period, and raises difficulties: it is
-illogical to name a widow for the sum written in her kesubah if she remarries,
-which would fit a remarried widow rather than the widow herself; and the
-derashah does not explain why a widower is called *alman*. These and other
-difficulties lead him to his own reading above.
+10b; see *Ben Yehoyada* there) cites Rav Chana of Baghdad that the Biblical word
+*almanah* alludes to the future rabbinic enactment giving a widow a *manah*, a
+hundred zuz, should her next husband divorce her or die. It seems that Chazal
+parse the word as *al* plus *manah*.
+
+- What the *al* contributes is itself disputed: Rabbi Yehuda Aryeh of Modena
+  (*HaBoneh* to *Ein Yaakov*, Kesubos 10b) reads "not a *manah*," she lacks the
+  additional *manah* a besulah's kesubah has, and Rabbi Betzalel Ashkenazi
+  (*Shittah Mekubetzes* there) cites a similar explanation in the name of the
+  Geonim.
+- Rabbi Ashkenazi also reads Rashi as taking *al* for *elah*, "only one
+  *manah*".
+- Rabbi Shmuel Strashun (*Hagahos Rashash*) reads *al* as the definite article,
+  as in Arabic.
+- The Ritva stresses that the Gemara grants that *almanah* derives from א-ל-ם,
+  per the grammarians, and says the added nun coins a word alluding to the
+  kesubah's value.
+- In the same spirit *Peirush HaRokeach* (to Vayikra 21:14) notes that the
+  gematria of *almanah* equals that of the Aramaic *meah zuzin*.
+- The Chasam Sofer adds that the allusion must be to a post-Biblical enactment,
+  since the *manah* currency came only after the Biblical period, and raises
+  difficulties: it is illogical to name a widow for the sum written in her
+  kesubah if she remarries, which would fit a remarried widow rather than the
+  widow herself; and the derashah does not explain why a widower is called
+  *alman*. These and other difficulties lead him to his own reading above.
 
 **What almenos means in Yeshayahu 13:22** ("cats will inhabit their *almenos*").
-One group, Targum Yonasan, Rabbi Saadia Gaon, Rabbi Yehuda Ibn Balaam, Rashi,
-Mahari Kara, Ibn Parchon, and Radak, reads it as *armenos*, castles or palaces,
-on the interchange of lamed and reish; see also Abarbanel and Malbim, who
-relate it to *ulam*, a hall. Ibn Ezra and Ibn Kaspi reject that, contending
-(bizarrely, in Rabbi Reuven Chaim Klein's word) that lamed and reish do not interchange, and
-read *almenos* as palaces emptied of their dwellers; so too Yerushalayim after
-the destruction of the First Beis HaMikdash is "like an *almanah*" (Eichah 1:1),
-emptied of its Jewish inhabitants.
 
-**Whether a man may marry a widow.** The Zohar (*Mishpatim* 102a) speaks of the
-danger, the first husband's spirit opposing the match, and Rabbi Aharon
-Berechiah of Modena (*Maavar Yabok*, *Sefas Emes* ch. 9) finds it alluded to in
-*al manah*, that such a match should not be one's lot. Rabbi Mordechai
-Spielman (*Tiferes Tzvi* to Zohar *Mishpatim* 102a) writes at great length that
-this "prohibition" exists only in kabbalistic sources and that by the revealed
-law of the Gemara there is nothing wrong with marrying a widow.
+- One group, Targum Yonasan, Rabbi Saadia Gaon, Rabbi Yehuda Ibn Balaam, Rashi,
+  Mahari Kara, Ibn Parchon, and Radak, reads it as *armenos*, castles or
+  palaces, on the interchange of lamed and reish; see also Abarbanel and Malbim,
+  who relate it to *ulam*, a hall.
+- Ibn Ezra and Ibn Kaspi reject that, contending (bizarrely, in Rabbi Reuven
+  Chaim Klein's word) that lamed and reish do not interchange, and read
+  *almenos* as palaces emptied of their dwellers; so too Yerushalayim after the
+  destruction of the First Beis HaMikdash is "like an *almanah*" (Eichah 1:1),
+  emptied of its Jewish inhabitants.
+
+**Whether a man may marry a widow.**
+
+- The Zohar (*Mishpatim* 102a) speaks of the danger, the first husband's spirit
+  opposing the match, and Rabbi Aharon Berechiah of Modena (*Maavar Yabok*,
+  *Sefas Emes* ch. 9) finds it alluded to in *al manah*, that such a match
+  should not be one's lot.
+- Rabbi Mordechai Spielman (*Tiferes Tzvi* to Zohar *Mishpatim* 102a) writes at
+  great length that this "prohibition" exists only in kabbalistic sources and
+  that by the revealed law of the Gemara there is nothing wrong with marrying a
+  widow.
 
 ## Distinctions
 
