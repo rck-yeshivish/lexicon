@@ -58,30 +58,36 @@ as against *marror*, a specific subset of *yerakos*, and in the ruling that one
 says *borei pri ha'adamah* on vegetables (*Berachos* 6:1).
 
 The early lexicographers, Menachem Ibn Saruk, Yonah Ibn Janach, and Radak, take
-the root as י-ר-ק. As Ibn Saruk explains it, the root yields three related sets
-of words: vegetable, a greenish gem (perhaps emerald, Rabbi Reuven Chaim Klein
-suggests), and the color green. Ibn Janach and Radak add spitting and spittle to
-the same root; Ibn Saruk derives those from a separate biliteral ר-ק. Rabbi
-Avraham Bedersi (*Chosam Tochnis*): vegetables are called *yerakos* because they
-are typically green (*yarok*). Technically, Rabbinic *yarok*
-covers a range from yellow to green to blue (see Rabbi Tanchum HaYerushalmi's
-*HaMadrich HaMaspik*, *Teshuvos Maharam MeRothenberg*, Prague ed. §631, and
-*Beiur HaGra* to *Tikkunei Zohar*, Tikkun 21).
+the root as י-ר-ק.
 
-Rabbi Shlomo Pappenheim takes *yarok* itself to the biliteral ר-ק, emptying or
-depleting. A plant's solid parts form its structure; its liquids give sap,
-flavor, scent, and quality. The liquids remaining inside give taste and scent,
-those expelled outward give its look and color; so the green of a living plant
-is the emptying out of those inner liquids, and in a borrowed sense *yarok* is
-also the yellowish color of less fresh plants drying out. Spitting belongs here
-too, emptying the mouth. Rabbi Yehudah Aryeh of Carpentras (an
-eighteenth-century grammarian and dayan, *Aholei Yehudah*) likewise ties *yerek*
-to *rok*, spit, since vegetables typically grow faster than fruit and the ground
-seems to spit them out; alternatively to *reik*, empty, since the halachic
-*yerek* is a plant whose stem or trunk is not perennial and must be replanted
-each year, so all its nutrients are concentrated in ("emptied out into") the
-vegetable itself, unlike a fruit, which spends some of its nutrients on a tree
-that lasts from year to year.
+- As Ibn Saruk explains it, the root yields three related sets of words:
+  vegetable, a greenish gem (perhaps emerald, Rabbi Reuven Chaim Klein
+  suggests), and the color green.
+- Ibn Janach and Radak add spitting and spittle to the same root; Ibn Saruk
+  derives those from a separate biliteral ר-ק.
+- Rabbi Avraham Bedersi (*Chosam Tochnis*): vegetables are called *yerakos*
+  because they are typically green (*yarok*).
+
+Technically, Rabbinic *yarok* covers a range from yellow to green to blue (see
+Rabbi Tanchum HaYerushalmi's *HaMadrich HaMaspik*, *Teshuvos Maharam
+MeRothenberg*, Prague ed. §631, and *Beiur HaGra* to *Tikkunei Zohar*, Tikkun
+21).
+
+- Rabbi Shlomo Pappenheim takes *yarok* itself to the biliteral ר-ק, emptying or
+  depleting. A plant's solid parts form its structure; its liquids give sap,
+  flavor, scent, and quality. The liquids remaining inside give taste and scent,
+  those expelled outward give its look and color; so the green of a living plant
+  is the emptying out of those inner liquids, and in a borrowed sense *yarok* is
+  also the yellowish color of less fresh plants drying out. Spitting belongs
+  here too, emptying the mouth.
+- Rabbi Yehudah Aryeh of Carpentras (an eighteenth-century grammarian and dayan,
+  *Aholei Yehudah*) likewise ties *yerek* to *rok*, spit, since vegetables
+  typically grow faster than fruit and the ground seems to spit them out;
+  alternatively to *reik*, empty, since the halachic *yerek* is a plant whose
+  stem or trunk is not perennial and must be replanted each year, so all its
+  nutrients are concentrated in ("emptied out into") the vegetable itself,
+  unlike a fruit, which spends some of its nutrients on a tree that lasts from
+  year to year.
 
 ### karpas (כרפס), the plant
 *Karpas* appears in the Mishnah (*Shevi'is* 9:1, cited Sukkah 39b) in a list of
@@ -99,11 +105,12 @@ Arabic *krafsa*/*karfs*, which today means celery, though Rabbi Shaul Goldman
 points out that the vowels of the Hebrew and Aramaic words differ from the
 Arabic.
 
-Rabbi Alan Yuter argues that *karpas* is the Greek *karpos*, any fruit,
-vegetable, or produce. Rabbi Reuven Chaim Klein rejects this: the sources above use *karpas*
-for a specific species, not for produce in general, so although colloquially
-the first dipping's *karpas* can be any vegetable, it is philologically
-difficult to tie the word to the Greek.
+- Rabbi Alan Yuter argues that *karpas* is the Greek *karpos*, any fruit,
+  vegetable, or produce.
+- Rabbi Reuven Chaim Klein rejects this: the sources above use *karpas* for a
+  specific species, not for produce in general, so although colloquially the
+  first dipping's *karpas* can be any vegetable, it is philologically difficult
+  to tie the word to the Greek.
 
 ### karpas (כרפס), the word in Esther
 At Achashverosh's banquet the decorations are *chur, karpas, u'secheiles*
@@ -158,13 +165,15 @@ wrote a commentary on it (printed in *Ohr Zarua*, *Hilchos Pesachim* §256). It
 seems that he simply Hebraized the Aramaic *karpasa* of *Elokei HaRuchos*. So, Rabbi Reuven Chaim Klein concludes, *karpas* does not mean "vegetable"; it was one example of
 a specific vegetable for the first dipping, listed beside many alternatives.
 
-Derashos on the word: Rabbi Yaakov Moelin (1365 to 1427) in *Sefer Maharil*,
-and others, read *karpas* as *perech* metathesized plus a samech worth sixty,
-sixty myriads of Jewish men at backbreaking labor. Others parse *kar* plus
-*pas*: *kar* as sale (Rosh HaShanah 26a) or rulership (Yeshayahu 16:1), *pas* as
-Yosef's *kesones pasim* (Bereishis 37:3), the coat that led to the sale that
-brought Yaakov's family down to Mitzrayim (Rabbeinu Manoach; Ibn Shuaib to Tzav;
-*Ben Ish Chai*, Year 1, Tzav §32).
+Derashos on the word:
+
+- Rabbi Yaakov Moelin (1365 to 1427) in *Sefer Maharil*, and others, read
+  *karpas* as *perech* metathesized plus a samech worth sixty, sixty myriads of
+  Jewish men at backbreaking labor.
+- Others parse *kar* plus *pas*: *kar* as sale (Rosh HaShanah 26a) or rulership
+  (Yeshayahu 16:1), *pas* as Yosef's *kesones pasim* (Bereishis 37:3), the coat
+  that led to the sale that brought Yaakov's family down to Mitzrayim (Rabbeinu
+  Manoach; Ibn Shuaib to Tzav; *Ben Ish Chai*, Year 1, Tzav §32).
 
 ## Rendering guidance
 

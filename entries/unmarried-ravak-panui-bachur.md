@@ -57,18 +57,22 @@ unmarried men. *Ravak* and *panui* do not appear in Tanach at all. English
 Absent from Tanach; three appearances in the Mishnah (Kiddushin 4:13-14), which
 cites the opinions of rabbis who ruled that a *ravak* may not teach young
 children, may not work as a shepherd, and that two *revakim* may not sleep under
-one blanket. In the context of these
-restrictions the commentators dispute what *ravak* means. Rashi (to Kiddushin
-82a) takes it as any unmarried man, whether or not he was married before (and
-then divorced or widowed). Tosafos (to Kiddushin 82a) and Rambam (in his
-commentary to the Mishnah there) disagree and restrict it to a bachelor who was
-never married, citing the Targum to Yeshayahu 40:30, which renders *bachurim* as
-*revakin*; Rabbi Reuven Chaim Klein writes that he does not understand how the
-Targum's rendering supports their view. Some versions of the Targum to Tehillim 148:12
-also render *bachur* as *ravak*, though ours have an Aramaic variant of *elem*
-there. Rabbi Eliyahu HaBachur (1469 to 1549, also known as Elias Levita) does not
-list *ravak* in his lexicon of Targumic Aramaic, *Meturgeman*, though the word
-appears in the Targum at least once.
+one blanket. In the context of these restrictions the commentators dispute what
+*ravak* means.
+
+- Rashi (to Kiddushin 82a) takes it as any unmarried man, whether or not he was
+  married before (and then divorced or widowed).
+- Tosafos (to Kiddushin 82a) and Rambam (in his commentary to the Mishnah there)
+  disagree and restrict it to a bachelor who was never married, citing the
+  Targum to Yeshayahu 40:30, which renders *bachurim* as *revakin*; Rabbi Reuven
+  Chaim Klein writes that he does not understand how the Targum's rendering
+  supports their view.
+
+Some versions of the Targum to Tehillim 148:12 also render *bachur* as *ravak*,
+though ours have an Aramaic variant of *elem* there. Rabbi Eliyahu HaBachur
+(1469 to 1549, also known as Elias Levita) does not list *ravak* in his lexicon
+of Targumic Aramaic, *Meturgeman*, though the word appears in the Targum at
+least once.
 
 The etymology is disputed.
 - Dr. Alexander Kohut (1842 to 1894) infers from Rashi's pairing of *ravak* with
@@ -138,8 +142,8 @@ from this: he is cleared of the obligations incumbent on a family man.
 Rashi uses the two words together, *revakim penuyim* (to Shemos 12:30), which
 possibly suggests that he took them to mean the same thing, and he seems to
 equate them by defining *ravak* as *panui* (to Pesachim 113a). In Rabbi Reuven
-Chaim Klein's reading the equation seems to be semantic; Kohut inferred an etymological one as
-well (above, under *ravak*).
+Chaim Klein's reading the equation seems to be semantic; Kohut inferred an
+etymological one as well (above, under *ravak*).
 
 ### bachur (בחור)
 Close to fifty appearances in Tanach, and never exclusively of an unmarried
@@ -152,15 +156,16 @@ to unmarried men: on Tu B'Av and Yom Kippur the single girls of Yerushalayim
 would go out to dance in the vineyards and call, "*Bachur*, lift up your eyes
 and see what you choose for yourself" (Taanis 4:8).
 
-Radak (1160 to 1235, *Sefer HaShorashim*): the root is ב-ח-ר, "choosing." Young
-unmarried men tend to be at the peak of their strength and are thus the
-choicest candidates for labor or the army, as against older men. Rabbi Yehudah
-Aryeh of Carpentras (an eighteenth-century grammarian and dayan, *Ohalei
-Yehudah*) likewise derives it from ב-ח-ר, "choice": a young adult male is at the
-choicest stage of his life in vigor and aesthetic appeal but does not yet carry
-the responsibilities of a more mature adult that sap his energies.
-Alternatively he parses *bachur* as *bo* ("in him") plus *char* ("heat"), for
-the desire or passion that burns within a *bachur* like a raging fire.
+- Radak (1160 to 1235, *Sefer HaShorashim*): the root is ב-ח-ר, "choosing."
+  Young unmarried men tend to be at the peak of their strength and are thus the
+  choicest candidates for labor or the army, as against older men.
+- Rabbi Yehudah Aryeh of Carpentras (an eighteenth-century grammarian and dayan,
+  *Ohalei Yehudah*) likewise derives it from ב-ח-ר, "choice": a young adult male
+  is at the choicest stage of his life in vigor and aesthetic appeal but does
+  not yet carry the responsibilities of a more mature adult that sap his
+  energies.
+- Alternatively he parses *bachur* as *bo* ("in him") plus *char* ("heat"), for
+  the desire or passion that burns within a *bachur* like a raging fire.
 
 The appellation *HaBachur*: Rabbi Eliyahu HaBachur was so called because he
 married only later in life. Some have argued that the name came from his grammar

@@ -152,19 +152,21 @@ Kamma 6:5, Taharos 7:5). In the Gemara Rashi again sometimes defines it with
 *asirah* (Sukkah 31a; see also Targum to Tehillim 118:27) and sometimes with
 *keshirah* (Chullin 16a, Sanhedrin 77b, Kiddushin 70a).
 
-Etymology, two proposals. One way is to tie *kafut* to
-*kefiyah*, duress or compulsion, since both subjugate and dominate another. That
-approach jibes with Rabbi Shlomo Pappenheim's reading of the biliteral
-kaf-peh as "receptacle," under which he gathers *kaf* (palm), *kofef* (bending,
-what turns a palm into a receptacle), *akifah* (enforcement, bending others to
-an authority), *kippah* (dome, a palm-like structure), *kofeh* (overturning a
-vessel, making a dome-like space), and *kafan* (famine, which bends a man's
-stature); *kefiyah* for him is suppressing dissent so that another bends. Dr.
-Michael Sokoloff, in his dictionary of Jewish Babylonian Aramaic, instead
-connects *kafut* to the quadriliteral Aramaic root כ-ר-פ-ת, found once in the
-Talmud (Niddah 48b), the reish sometimes dropping by assimilation; Rabbi Klein
-notes that as some commentators explain that one Talmudic word, it seems totally
-unrelated to *kafut*.
+Etymology, two proposals.
+
+- One way is to tie *kafut* to *kefiyah*, duress or compulsion, since both
+  subjugate and dominate another. That approach jibes with Rabbi Shlomo
+  Pappenheim's reading of the biliteral kaf-peh as "receptacle," under which he
+  gathers *kaf* (palm), *kofef* (bending, what turns a palm into a receptacle),
+  *akifah* (enforcement, bending others to an authority), *kippah* (dome, a
+  palm-like structure), *kofeh* (overturning a vessel, making a dome-like
+  space), and *kafan* (famine, which bends a man's stature); *kefiyah* for him
+  is suppressing dissent so that another bends.
+- Dr. Michael Sokoloff, in his dictionary of Jewish Babylonian Aramaic, instead
+  connects *kafut* to the quadriliteral Aramaic root כ-ר-פ-ת, found once in the
+  Talmud (Niddah 48b), the reish sometimes dropping by assimilation; Rabbi Klein
+  notes that as some commentators explain that one Talmudic word, it seems
+  totally unrelated to *kafut*.
 
 ### tzror (צרור)
 Root צ-(ו)-ר. *Maaser sheini* money is to be tied up in

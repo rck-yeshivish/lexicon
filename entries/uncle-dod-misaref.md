@@ -88,15 +88,17 @@ Rabbi Shlomo Pappenheim traces *dod*/*dodah* to the single letter ד,
 "separation" or "protrusion": as a *dad* ("breast") protrudes from the body, a
 *dod* protrudes from the straight stem of the family tree as a separate branch.
 
-Rabbi Moshe Kunitz argues from Esther 2:15 ("Esther daughter of Avichayil, *dod*
-of Mordechai") that Esther was Mordechai's cousin on his father's side, since the
-pasuk says *dod* rather than *misaref*, and brings proof from Yevamos 54b, which
-limits the prohibition of one's *dodah* to the father's side, one's father's
-paternal brother's wife. Rabbi Yosef Chaim of Baghdad agrees that the sugya
-proves *dod* is only the paternal uncle, but notes that it does not prove that
-*misaref* is the maternal uncle. (By Biblical law one may marry the ex-wife or
-widow of one's father's maternal brother, but the Rabbis forbade it, Yevamos
-21a.)
+- Rabbi Moshe Kunitz argues from Esther 2:15 ("Esther daughter of Avichayil,
+  *dod* of Mordechai") that Esther was Mordechai's cousin on his father's side,
+  since the pasuk says *dod* rather than *misaref*, and brings proof from
+  Yevamos 54b, which limits the prohibition of one's *dodah* to the father's
+  side, one's father's paternal brother's wife.
+- Rabbi Yosef Chaim of Baghdad agrees that the sugya proves *dod* is only the
+  paternal uncle, but notes that it does not prove that *misaref* is the
+  maternal uncle.
+
+(By Biblical law one may marry the ex-wife or widow of one's father's maternal
+brother, but the Rabbis forbade it, Yevamos 21a.)
 
 ### misaref (מסרף)
 The word occurs once, in Amos's prophecy of destruction: "and his *dod* and his

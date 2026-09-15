@@ -45,12 +45,12 @@ since most of its Biblical occurrences follow a dream or drunkenness.
 ## Distinctions
 
 ### yekitzah (יקיצה)
-The triliteralists, Ibn Chayyuj, Ibn Janach and Radak, take it from the
-triliteral י-ק-צ, "wake up." Menachem Ibn Saruk (*Machberes Menachem*) instead
-files it under the biliteral ק-צ, which also carries border, summer, pressure,
-disgust, cutting and thorn; he does not intimate how these connect to waking,
-but some connections can be gleaned from other
-commentators.
+- The triliteralists, Ibn Chayyuj, Ibn Janach and Radak, take it from the
+  triliteral י-ק-צ, "wake up."
+- Menachem Ibn Saruk (*Machberes Menachem*) instead files it under the biliteral
+  ק-צ, which also carries border, summer, pressure, disgust, cutting and thorn;
+  he does not intimate how these connect to waking, but some connections can be
+  gleaned from other commentators.
 
 Rav Hirsch (to Bereishis 9:24) ties *yekitzah* to *kutz* (harvest, cut off) and
 *kayitz* (summer): when fruit has ripened it tends to disengage from its source
@@ -79,17 +79,18 @@ or a drunkard waking from his stupor (Bereishis 9:24; Mishlei 23:35; Tehillim
 78:65; Yoel 1:5).
 
 ### oorah (עורה)
-"Wake up (*urah*)! Why do You sleep?" (Tehillim 44:24). Root ע-ו-ר. *Shoresh
-Yesha* relates all derivatives of ע-ו-ר to revealing and exposing: *ohr* (skin)
-is the part of the body left exposed, *ervah* is the exposing of what should be
-covered, and a sleeper, eyes shut, has nothing revealed to him, so waking is
-*oorah*, an entire world now revealed to him. A blind
-man is an *iver* because it is as though he sleeps a permanent sleep, or (a second suggestion
-there) because it is as though a layer of skin sits over his eyes. Pappenheim works the same
-biliteral ע-ר and reaches "revealing" too, but applies it differently: the
-sleeper's powers are hidden, he appears inert and motionless, and waking reveals
-them; on that basis he explains *noer*, a lion's roar, as an outburst that
-reveals what was in him.
+"Wake up (*urah*)! Why do You sleep?" (Tehillim 44:24). Root ע-ו-ר.
+
+- *Shoresh Yesha* relates all derivatives of ע-ו-ר to revealing and exposing:
+  *ohr* (skin) is the part of the body left exposed, *ervah* is the exposing of
+  what should be covered, and a sleeper, eyes shut, has nothing revealed to him,
+  so waking is *oorah*, an entire world now revealed to him. A blind man is an
+  *iver* because it is as though he sleeps a permanent sleep, or (a second
+  suggestion there) because it is as though a layer of skin sits over his eyes.
+- Pappenheim works the same biliteral ע-ר and reaches "revealing" too, but
+  applies it differently: the sleeper's powers are hidden, he appears inert and
+  motionless, and waking reveals them; on that basis he explains *noer*, a
+  lion's roar, as an outburst that reveals what was in him.
 
 Pappenheim contrasts it with *yekitzah*: *oorah* is the more gradual waking, a
 man slowly passing from asleep to awake through an intermediate stage of
@@ -105,24 +106,30 @@ The Targumim always render cognates of *yekitzah* by cognates of *oorah*, so
 Aramaic collapses the pair; *vayikatz* becomes *v'isar*, the Aramaic TAV
 standing in for the Hebrew YOD as the reflexive. The Gemara's term for one
 half-asleep is *nim v'lo nim, tir v'lo tir*, "asleep and not asleep, awake and
-not awake" (*Pesachim* 120b; *Taanis* 12b). Rashi (to *Taanis* 12b, and see
-Rashi to *Bava Kama* 117b) derives *tir* from the Targumic *v'isar* (as though, Rabbi Klein notes, the tav were part of the root) and reads it as a sleeper on
-the edge of waking; Tosafos (to *Taanis* 12b, and see Tosafos to *Niddah* 63a)
-explain it the other way, the wakefulness of one about to fall asleep.
+not awake" (*Pesachim* 120b; *Taanis* 12b).
+
+- Rashi (to *Taanis* 12b, and see Rashi to *Bava Kama* 117b) derives *tir* from
+  the Targumic *v'isar* (as though, Rabbi Klein notes, the tav were part of the
+  root) and reads it as a sleeper on the edge of waking.
+- Tosafos (to *Taanis* 12b, and see Tosafos to *Niddah* 63a) explain it the
+  other way, the wakefulness of one about to fall asleep.
 
 ### the two together
 *Nishmas* has *HaMe'orer yesheinim v'haMeikitz nirdamim*, and pairs two words
-for sleeping with the two for waking. Rabbi Yechezkel Pannet of Karlsburg (1783
-to 1845), Chief Rabbi of Transylvania, seems to suggest a match: *orer* suits the deep sleeper (*yesheinim*), dreams and
-all, and *yekitzah* suits one who merely dozed off (*nirdam*) and never went
-under. Alternatively, Malbim explains the two terms as two stages of a gradual
-process: *oorah* first, coming to one's senses, then *yekitzah*, actually
-getting up from bed and remaining fully awake.
-Malbim also reads Chavakuk 2:19 by the sentience of the object: the navi says
-*hakitzah* to a wooden idol and *uri* to a stone one, because on the scale of
-*domem*, *tzomeach*, *chai* and *medaber* (from Kabbalistic and philosophical
-traditions), wood ranks above stone, and
-*yekitzah* is the more responsive wakefulness while *oorah* is the most basic.
+for sleeping with the two for waking.
+
+- Rabbi Yechezkel Pannet of Karlsburg (1783 to 1845), Chief Rabbi of
+  Transylvania, seems to suggest a match: *orer* suits the deep sleeper
+  (*yesheinim*), dreams and all, and *yekitzah* suits one who merely dozed off
+  (*nirdam*) and never went under.
+- Alternatively, Malbim explains the two terms as two stages of a gradual
+  process: *oorah* first, coming to one's senses, then *yekitzah*, actually
+  getting up from bed and remaining fully awake. Malbim also reads Chavakuk 2:19
+  by the sentience of the object: the navi says *hakitzah* to a wooden idol and
+  *uri* to a stone one, because on the scale of *domem*, *tzomeach*, *chai* and
+  *medaber* (from Kabbalistic and philosophical traditions), wood ranks above
+  stone, and *yekitzah* is the more responsive wakefulness while *oorah* is the
+  most basic.
 
 ## Rendering guidance
 

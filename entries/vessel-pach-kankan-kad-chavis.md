@@ -62,18 +62,20 @@ typically hollow.
 
 ## Where the authorities disagree
 
-**The root of pach, and what it means.** The early lexicographers derive *pach*
-from *mefakim*, the flow of liquid (Yechezkel 47:2, Shekalim 6:3, Middos 2:6),
-the *pach* being what liquid flows or is poured from. The triliteralists take
-the root as פ-כ-ה (Radak, *Sefer HaShorashim*), the biliteralists as a
-two-letter פ-כ (*Machberet Menachem*, Rashi to Yechezkel 47:2). Rabbi Shlomo
-Pappenheim also takes the root as פ-כ but gives it the sense of *reversal*,
-parent of *hafuch*: a flask with a narrow opening, which must be turned upside
-down to empty. He relates *puch*, eye makeup (II Melachim 9:30, Yirmiyahu 4:30),
-to it, since such kohl was typically stored in a *pach*, and says the gemstone
-names *puch* (Yeshayahu 54:11, Divrei HaYamim I 29:2) and *nofech* (Shemos
-28:18, 39:11, Yechezkel 28:13) were borrowed from the cosmetic *puch*, the stones
-resembling its color.
+**The root of pach, and what it means.**
+
+- The early lexicographers derive *pach* from *mefakim*, the flow of liquid
+  (Yechezkel 47:2, Shekalim 6:3, Middos 2:6), the *pach* being what liquid flows
+  or is poured from. The triliteralists take the root as פ-כ-ה (Radak, *Sefer
+  HaShorashim*), the biliteralists as a two-letter פ-כ (*Machberet Menachem*,
+  Rashi to Yechezkel 47:2).
+- Rabbi Shlomo Pappenheim also takes the root as פ-כ but gives it the sense of
+  *reversal*, parent of *hafuch*: a flask with a narrow opening, which must be
+  turned upside down to empty. He relates *puch*, eye makeup (II Melachim 9:30,
+  Yirmiyahu 4:30), to it, since such kohl was typically stored in a *pach*, and
+  says the gemstone names *puch* (Yeshayahu 54:11, Divrei HaYamim I 29:2) and
+  *nofech* (Shemos 28:18, 39:11, Yechezkel 28:13) were borrowed from the
+  cosmetic *puch*, the stones resembling its color.
 
 **The etymology of kankan.** Dr. Alexander Kohut (*HaAruch HaShaleim*) claims
 that Mishnaic *kankan* is a loanword from Latin *kanne*/*canna* ("reed," "cane,"
@@ -100,20 +102,23 @@ the swap.
 
 **Whether the Menorah's branches may be hollow.** Rambam (*Beis HaBechirah* 3:4)
 rules that a Menorah made *chalulah* is fit, and there are two ways to read him.
-Rabbi Yosef Karo (1488 to 1575): *chalulah* means not made from a single hunk of
-gold; optimally the Menorah is one hunk of gold, but where it is made of another
-metal it may be fashioned from scraps joined together. (*Aruch HaShulchan
-HeAsid*: such a Menorah is called *chalulah* because there will be gaps between
-the pieces.) The Mabit, Rabbi Moshe of Trani (1505 to 1585, *Kiryas Sefer*):
-the branches may be made hollow *lechatchilah* in all cases, even out of one
-hunk of gold. Rabbi Massoud Chai Rokach (1690 to 1768) and Rabbi Avraham Dovber
-Kahane-Shapiro (1870 to 1943) explain that Rav Karo did not follow the Mabit
-because no source in Chazal says, explicitly or implicitly, that the branches
-may be hollow. Rabbi Reuven Chaim Klein answers for the Mabit: the Torah's word *kaneh* itself
-tells us the branches can (or perhaps even should) be hollow, and Rashbam and Ibn
-Ezra (to Shemos 25:32) write explicitly that the *kanim* ought to be hollow
-within; that is the simple meaning of the Chumash, so the Mabit needed no
-explicit source in Chazal.
+
+- Rabbi Yosef Karo (1488 to 1575): *chalulah* means not made from a single hunk
+  of gold; optimally the Menorah is one hunk of gold, but where it is made of
+  another metal it may be fashioned from scraps joined together. (*Aruch
+  HaShulchan HeAsid*: such a Menorah is called *chalulah* because there will be
+  gaps between the pieces.)
+- The Mabit, Rabbi Moshe of Trani (1505 to 1585, *Kiryas Sefer*): the branches
+  may be made hollow *lechatchilah* in all cases, even out of one hunk of gold.
+
+Rabbi Massoud Chai Rokach (1690 to 1768) and Rabbi Avraham Dovber Kahane-Shapiro
+(1870 to 1943) explain that Rav Karo did not follow the Mabit because no source
+in Chazal says, explicitly or implicitly, that the branches may be hollow. Rabbi
+Reuven Chaim Klein answers for the Mabit: the Torah's word *kaneh* itself tells
+us the branches can (or perhaps even should) be hollow, and Rashbam and Ibn Ezra
+(to Shemos 25:32) write explicitly that the *kanim* ought to be hollow within;
+that is the simple meaning of the Chumash, so the Mabit needed no explicit
+source in Chazal.
 
 ## Distinctions
 

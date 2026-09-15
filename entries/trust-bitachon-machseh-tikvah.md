@@ -107,16 +107,17 @@ HaLevavos counts these as ten levels of one thing.
   His caring.
 
 ### tikvah (תקוה), tocheles (תוחלת), chikui (חכוי)
-Wertheimer: all three mean waiting, graded by certainty. *Tocheles* (verb
-*yachel*): one relies on it coming but not wholeheartedly; hence *yachel
-Yisrael* (Tehillim 130:7), for there is sometimes reason to doubt our
-salvation, since our sins might block what we await. *Tikvah*: one
-relies wholly on the fulfilment, though he cannot say it is certain. *Chikui*:
-one is sure it will happen and is only waiting. Pappenheim: *tikvah* is from
-ק-ו, *kav*, a straight line (the builder's cord; the rope of Yehoshua 2:18; the
-*mikveh*, the body of water gathered as waters travel in a straight line to
-one place, Bereishis 1:9 to 10, Shemos 7:19, Vayikra 11:36); hope sees a
-straight line from the current situation to the one anticipated.
+- Wertheimer: all three mean waiting, graded by certainty. *Tocheles* (verb
+  *yachel*): one relies on it coming but not wholeheartedly; hence *yachel
+  Yisrael* (Tehillim 130:7), for there is sometimes reason to doubt our
+  salvation, since our sins might block what we await. *Tikvah*: one relies
+  wholly on the fulfilment, though he cannot say it is certain. *Chikui*: one is
+  sure it will happen and is only waiting.
+- Pappenheim: *tikvah* is from ק-ו, *kav*, a straight line (the builder's cord;
+  the rope of Yehoshua 2:18; the *mikveh*, the body of water gathered as waters
+  travel in a straight line to one place, Bereishis 1:9 to 10, Shemos 7:19,
+  Vayikra 11:36); hope sees a straight line from the current situation to the
+  one anticipated.
 
 ### semichah (סמיכה), mishan (משען), saad (סעד)
 *Somech* is "next to," hence leaning.
@@ -141,21 +142,25 @@ straight line from the current situation to the one anticipated.
   outside help.
 
 ### sever (שבר) and kesel (כסל)
-Peirush HaRokeach: *sever* is spelled like *shever*, food; men look to Hashem
-in hope and He gives them their food (Tehillim 145:15). Wertheimer: *sever* is
-strong trust that grows from recognising Hashem as creator and sustainer of all.
-Rav Hirsch (to Tehillim 145:15): *sover* is a mental process that computes
-separate pieces of information and joins them into one complete, logical
-thought, so that one who puts his hope in Hashem comes to the intellectual
-conclusion that He is the holistic One who powers all parts of creation.
+- Peirush HaRokeach: *sever* is spelled like *shever*, food; men look to Hashem
+  in hope and He gives them their food (Tehillim 145:15).
+- Wertheimer: *sever* is strong trust that grows from recognising Hashem as
+  creator and sustainer of all.
+- Rav Hirsch (to Tehillim 145:15): *sover* is a mental process that computes
+  separate pieces of information and joins them into one complete, logical
+  thought, so that one who puts his hope in Hashem comes to the intellectual
+  conclusion that He is the holistic One who powers all parts of creation.
+
 *Kesel*, confidence or reliance, seems to be a cognate of *kesil*, fool, both
-from כ-ס-ל. Malbim: in *tikvah* one awaits a
-good; in *kesel* one is sure, with almost foolish naivety, that no harm will
-come. Rabbi Moshe Wolfson accounts for the connection differently: to rely on
-Hashem wholly one must be willing to appear illogical or foolish; though the
-fool in general walks in the dark (Koheles 2:14), one considered a fool for
-following Hashem walks in the light, and so Kislev, when the light of Chanukah
-illuminates the dark winter, is especially the month to work on *kesel*.
+from כ-ס-ל.
+
+- Malbim: in *tikvah* one awaits a good; in *kesel* one is sure, with almost
+  foolish naivety, that no harm will come.
+- Rabbi Moshe Wolfson accounts for the connection differently: to rely on Hashem
+  wholly one must be willing to appear illogical or foolish; though the fool in
+  general walks in the dark (Koheles 2:14), one considered a fool for following
+  Hashem walks in the light, and so Kislev, when the light of Chanukah
+  illuminates the dark winter, is especially the month to work on *kesel*.
 
 ## Rendering guidance
 

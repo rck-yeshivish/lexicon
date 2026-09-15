@@ -59,40 +59,48 @@ always anger (Bedersi). *Chareid* is **trembling** too, the word behind
 
 ## Where the authorities disagree
 
-**Whether ra'adah is visible.** Rabbi Shlomo Aharon Wertheimer: *ra'adah*
-primarily refers to a shaking felt within the body and not discernible to an
-onlooker (Daniel 10:11, *omadti marid*), against *chil*, which he claims refers
-to tremors that can be seen, except in cases such as Tehillim 55:5, where the
-*chil* is explicitly in the heart. Malbim: *ra'adah* is quaking in fear
-specifically where inner fear grows so full that it becomes manifest outwardly
-in tremors.
+**Whether ra'adah is visible.**
 
-**Retet with a tav and retet with a tet.** Each spelling appears once: with a tav
-in Hoshea 13:1, with a tet in Yirmiyahu 49:24. For the tav form, Radak and Ibn
-Janach (each in his *Sefer HaShorashim*) define it as *ra'adah*, a definition
-that seemingly derives from the Targum, where *retet* is the Aramaic for
-*ra'adah* (Onkelos renders the *ra'ad* of Shemos 15:15 as *reteta*); Menachem Ibn
-Saruk (*Machberes Menachem*) defines it as *chil* and *retet* with a tet. All
-three trace it to ר-ת-ת. For the tet form, Ibn Saruk (biliteral ר-ט) defines it
-as *chil* and *retet* with a tav, and Radak (triliteral ר-ט-ט) as just *retet*
-with a tav. Somewhat of an outlier, Ibn Janach defines it as pain in the joints,
-not trembling. Rabbi Pappenheim (biliteral ר-ט) synthesizes the two approaches:
-a disease in which nerves and muscles suddenly flex and relax many times in a
-row, causing convulsions (Rabbi Klein wonders whether he means something like
-Parkinson's), or a disease causing stomach contractions like those of a woman
-giving birth. It makes sense to treat the two spellings as one
-word, tav and tet interchanging, a point already made by rabbinic philologists
-such as Rabbi Avraham Bedersi (*Chotam Tochnit*), Rabbi Yosef Kimchi (*Sefer
-HaGalui*), Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*), and others.
+- Rabbi Shlomo Aharon Wertheimer: *ra'adah* primarily refers to a shaking felt
+  within the body and not discernible to an onlooker (Daniel 10:11, *omadti
+  marid*), against *chil*, which he claims refers to tremors that can be seen,
+  except in cases such as Tehillim 55:5, where the *chil* is explicitly in the
+  heart.
+- Malbim: *ra'adah* is quaking in fear specifically where inner fear grows so
+  full that it becomes manifest outwardly in tremors.
 
-**The order of intensity in Shmuel II 22:8 (Tehillim 18:8).** Malbim, as cited
-in *Sefer HaCarmel*, reads the pasuk as ascending: *ga'ash* a subtler movement
-than *ra'ash*, and *ra'ash* less intense than *rogez*. In his *Yair Ohr* he writes
-that *ga'ash* is a little extra movement and *ra'ash* more than that, in line with
-the *Sefer HaCarmel* citation.
-Rabbi Reuven Landau (*Degel Machaneh Reuven* §61) writes just the opposite on the
-last two: *ra'ash* is more intense than *rogez*. Rabbi Klein does not decide
-between them ("either way").
+**Retet with a tav and retet with a tet.** Each spelling appears once: with a
+tav in Hoshea 13:1, with a tet in Yirmiyahu 49:24.
+
+- For the tav form, Radak and Ibn Janach (each in his *Sefer HaShorashim*)
+  define it as *ra'adah*, a definition that seemingly derives from the Targum,
+  where *retet* is the Aramaic for *ra'adah* (Onkelos renders the *ra'ad* of
+  Shemos 15:15 as *reteta*); Menachem Ibn Saruk (*Machberes Menachem*) defines
+  it as *chil* and *retet* with a tet. All three trace it to ר-ת-ת.
+- For the tet form, Ibn Saruk (biliteral ר-ט) defines it as *chil* and *retet*
+  with a tav, and Radak (triliteral ר-ט-ט) as just *retet* with a tav.
+- Somewhat of an outlier, Ibn Janach defines it as pain in the joints, not
+  trembling.
+- Rabbi Pappenheim (biliteral ר-ט) synthesizes the two approaches: a disease in
+  which nerves and muscles suddenly flex and relax many times in a row, causing
+  convulsions (Rabbi Klein wonders whether he means something like Parkinson's),
+  or a disease causing stomach contractions like those of a woman giving birth.
+
+It makes sense to treat the two spellings as one word, tav and tet
+interchanging, a point already made by rabbinic philologists such as Rabbi
+Avraham Bedersi (*Chotam Tochnit*), Rabbi Yosef Kimchi (*Sefer HaGalui*), Rabbi
+Shlomo Ibn Parchon (*Machberes HeAruch*), and others.
+
+**The order of intensity in Shmuel II 22:8 (Tehillim 18:8).**
+
+- Malbim, as cited in *Sefer HaCarmel*, reads the pasuk as ascending: *ga'ash* a
+  subtler movement than *ra'ash*, and *ra'ash* less intense than *rogez*. In his
+  *Yair Ohr* he writes that *ga'ash* is a little extra movement and *ra'ash*
+  more than that, in line with the *Sefer HaCarmel* citation.
+- Rabbi Reuven Landau (*Degel Machaneh Reuven* §61) writes just the opposite on
+  the last two: *ra'ash* is more intense than *rogez*.
+
+Rabbi Klein does not decide between them ("either way").
 
 **What ziyah was at Sinai.** Rabbi Klein gives at least two ways of reading the
 *ziyah* of Yoma 4b. Onkelos renders *vayecherad* as *ziyah* both when the
@@ -180,16 +188,18 @@ Shoftim 2:9; see also Shmuel II 23:30, Divrei HaYamim I 11:32). Rabbi Klein has
 found no source that makes the reish of *ra'ash* and the gimmel of *ga'ash*
 interchangeable, though both roots end in ע-ש.
 
-*Rogez*: Shadal (to Bereishis 45:24 and Shemos 15:14) says it primarily means
-physical shaking, then applied to any emotional agitation, even not from fear,
-as in *lev ragaz* (Devarim 28:65), literally a trembling heart, here fear-induced
-anxiety. Rashbam (to Bereishis 45:24) notes that in Biblical Aramaic it denotes
-specifically anger; in rabbinic usage a *ragzan* is one prone to anger (Shabbos
-156a, Kiddushin 40b), and in that sense we pray *b'rogez racheim tizkor*, from
-Chavakuk 3:2. Yiddish *broiges* comes from *b'rogez* and reflects only that one
-meaning. Rabbi Avraham Bedersi (*Chotam Tochnit*, on words for anger) clarifies
-that though *rogez* sometimes means angered, it is not always tied to anger, and
-sometimes means shaking out of fear.
+- *Rogez*: Shadal (to Bereishis 45:24 and Shemos 15:14) says it primarily means
+  physical shaking, then applied to any emotional agitation, even not from fear,
+  as in *lev ragaz* (Devarim 28:65), literally a trembling heart, here
+  fear-induced anxiety.
+- Rashbam (to Bereishis 45:24) notes that in Biblical Aramaic it denotes
+  specifically anger; in rabbinic usage a *ragzan* is one prone to anger
+  (Shabbos 156a, Kiddushin 40b), and in that sense we pray *b'rogez racheim
+  tizkor*, from Chavakuk 3:2. Yiddish *broiges* comes from *b'rogez* and
+  reflects only that one meaning.
+- Rabbi Avraham Bedersi (*Chotam Tochnit*, on words for anger) clarifies that
+  though *rogez* sometimes means angered, it is not always tied to anger, and
+  sometimes means shaking out of fear.
 
 ## Rendering guidance
 

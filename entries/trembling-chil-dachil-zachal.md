@@ -87,16 +87,19 @@ Hebrew *yirah*, *nora* and *pachad* (for examples, Rabbi Eliyahu Bachur,
 *Meturgeman*); Onkelos renders *chil* at Shemos 15:14 and *chalu* at Devarim 2:25
 with *dachla*.
 
-On *chil* against *dachil* Rabbi Klein offers two readings. It is quite possible
-that they differ simply as native Hebrew from Aramaic, technically meaning the
-same thing. That said, in light of Rav Hirsch, it seems that *chil* is a specific
-fear, that of one contemplating his place in a new paradigm, and *dachil* a more
-general term for all sorts of fear, hence Targum's use of it for a whole slew of
-fear-words. The second reading is his inference from Rav Hirsch's comment on
-*chil*. Rabbi Klein adds a speculation of his own, noting that
-he has seen no source for it: the only consonantal difference between *chil*
-and *dachil* is the initial dalet, so perhaps the two are etymologically related
-and the latter took on an extra letter.
+On *chil* against *dachil* Rabbi Klein offers two readings.
+
+- It is quite possible that they differ simply as native Hebrew from Aramaic,
+  technically meaning the same thing.
+- That said, in light of Rav Hirsch, it seems that *chil* is a specific fear,
+  that of one contemplating his place in a new paradigm, and *dachil* a more
+  general term for all sorts of fear, hence Targum's use of it for a whole slew
+  of fear-words. The second reading is his inference from Rav Hirsch's comment
+  on *chil*.
+- Rabbi Klein adds a speculation of his own, noting that he has seen no source
+  for it: the only consonantal difference between *chil* and *dachil* is the
+  initial dalet, so perhaps the two are etymologically related and the latter
+  took on an extra letter.
 
 Two idioms. In many instances Targum uses *dachalah* for false gods: "gods of
 silver and gods of gold" (Shemos 20:20), *elohei* in the Torah, is *dachalan* in

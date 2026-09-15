@@ -79,16 +79,17 @@ Gehinnom, and Maharsha reads them as seven different places within it.
 ## Distinctions
 
 ### The seven of Eruvin 19a
-Rabbi Yehoshua ben Levi's list: *sheol*, *avadon*, *be'er shachat*, *bor
-shaon*, *tit hayaven*, *tzalmaves*, and *eretz hatachtis*. Maharsha (Rabbi
-Shmuel Eidels, 1555 to 1631): the seven names correspond to seven different
-places within Gehinnom (see Sotah 10b). *Midrash Konen* (in
-Rabbi J. D. Eisenstein's *Otzar Midrashim* p. 256) assigns places to different
-types of sinners: Korach and his company in
-*sheol*; the lost souls of the wicked in *avadon*; robbers, thieves, and those
-who hold back a worker's wages in *be'er shachat*; those who transgressed in
-matters of intimacy in *tit hayaven*; slanderers in *tzalmaves*; those who
-quarrel with talmidei chachamim in *eretz tachtis*; and so forth.
+Rabbi Yehoshua ben Levi's list: *sheol*, *avadon*, *be'er shachat*, *bor shaon*,
+*tit hayaven*, *tzalmaves*, and *eretz hatachtis*.
+
+- Maharsha (Rabbi Shmuel Eidels, 1555 to 1631): the seven names correspond to
+  seven different places within Gehinnom (see Sotah 10b).
+- *Midrash Konen* (in Rabbi J. D. Eisenstein's *Otzar Midrashim* p. 256) assigns
+  places to different types of sinners: Korach and his company in *sheol*; the
+  lost souls of the wicked in *avadon*; robbers, thieves, and those who hold
+  back a worker's wages in *be'er shachat*; those who transgressed in matters of
+  intimacy in *tit hayaven*; slanderers in *tzalmaves*; those who quarrel with
+  talmidei chachamim in *eretz tachtis*; and so forth.
 
 ### sheol (שאול)
 Close to seventy occurrences.
@@ -110,24 +111,28 @@ Tehillim 88:12. Either the body's ruin and rotting after death, or that souls
 are lost (*avad*) there for a time.
 
 ### shachat (שחת), be'er shachat (באר שחת)
-Tehillim 16:10, 55:24. In many pesukim *shachat* means simply a pit. Rabbi
-Avraham Bedersi HaPenini (1230 to 1300): a pit dug to trap wild animals, which
-he connects to Gehinnom by noting that the wicked sometimes set traps to ensnare
-the righteous; he also explains *shachat* as an expression of *hashchasah*,
-destruction, since the body rots in the grave. Rabbi Pappenheim: root ש-ח, bending, since
-one stuck in so cramped a place must bend; from the same root *hishtachavah*
-(bowing, bending one's posture) and *mashach* (anointing, since oil softens a
-hard thing and makes it pliable).
+Tehillim 16:10, 55:24. In many pesukim *shachat* means simply a pit.
+
+- Rabbi Avraham Bedersi HaPenini (1230 to 1300): a pit dug to trap wild animals,
+  which he connects to Gehinnom by noting that the wicked sometimes set traps to
+  ensnare the righteous; he also explains *shachat* as an expression of
+  *hashchasah*, destruction, since the body rots in the grave.
+- Rabbi Pappenheim: root ש-ח, bending, since one stuck in so cramped a place
+  must bend; from the same root *hishtachavah* (bowing, bending one's posture)
+  and *mashach* (anointing, since oil softens a hard thing and makes it
+  pliable).
 
 ### bor shaon (בור שאון)
-Tehillim 40:3, literally "the Pit of Noise." Rabbi Yonah ibn Janach and others
-explain that *shaon* (a ruckus of noise) and *sha'anan* (quiet) are related, an
-example of the common phenomenon in which Hebrew words of diametrically opposed
-meaning sometimes have related roots. In light of this, Rabbi Klein suggests,
-*bor shaon* might actually mean the Pit of Silence, where one can no longer
-complain or even speak after death. Rashi (to Yeshayahu 9:4) and Radak (*Sefer HaShorashim*) give *shaon*
-the same root as *shoah*, destruction; this, Rabbi Klein notes, fits *avadon* and
-*shachat*, which are also terms of destruction.
+Tehillim 40:3, literally "the Pit of Noise."
+
+- Rabbi Yonah ibn Janach and others explain that *shaon* (a ruckus of noise) and
+  *sha'anan* (quiet) are related, an example of the common phenomenon in which
+  Hebrew words of diametrically opposed meaning sometimes have related roots. In
+  light of this, Rabbi Klein suggests, *bor shaon* might actually mean the Pit
+  of Silence, where one can no longer complain or even speak after death.
+- Rashi (to Yeshayahu 9:4) and Radak (*Sefer HaShorashim*) give *shaon* the same
+  root as *shoah*, destruction; this, Rabbi Klein notes, fits *avadon* and
+  *shachat*, which are also terms of destruction.
 
 ### tit hayaven (טיט היון)
 Tehillim 40:3 (alongside *bor shaon*), literally "slimy mud." Gehinnom holds a man as quicksand does, and
@@ -175,11 +180,13 @@ sexual impropriety); *tophes*, the place into which fall those whom the yetzer
 hara talks over (*mefateh*).
 
 ### alukah (עלוקה)
-Tosafos cite sources reading *alukah*, the leech of Mishlei 30:15, as another
-name for Gehinnom, though they also weigh its being a name for Shlomo HaMelech.
-Maharal: as a leech draws out blood, Gehinnom draws out the soul. Rabbi Chaim
-of Volozhin (*Nefesh HaChaim* 1:12): a leech draws out bad blood and then dies,
-and so Gehinnom cleanses a man of his sins until what the sin made is gone.
+- Tosafos cite sources reading *alukah*, the leech of Mishlei 30:15, as another
+  name for Gehinnom, though they also weigh its being a name for Shlomo
+  HaMelech.
+- Maharal: as a leech draws out blood, Gehinnom draws out the soul.
+- Rabbi Chaim of Volozhin (*Nefesh HaChaim* 1:12): a leech draws out bad blood
+  and then dies, and so Gehinnom cleanses a man of his sins until what the sin
+  made is gone.
 
 ## Rendering guidance
 

@@ -94,13 +94,16 @@ consistently renders it *eifa* (ע-פ-א).
   understanding the *tza'if* as what a woman primarily wore when going outside
   (contrast *redid*, under Rabbi Pappenheim below).
 
-Rav Hirsch has two comments. To Bereishis 24:65 he suggests that צ-ע-פ is related to ש-א-פ, by
-the interchange of tzadi with shin and of ayin with aleph: that root is drawing
-into oneself by inhaling, as one draws the *tza'if* close by wrapping it snugly.
-To Bereishis 40:6 he relates it to the phonetically similar ז-ע-פ (upset,
-troubled): a *tza'if* veils the face from without, while a troubled countenance
-is veiled from within, looking like that of a sleeping or dead person, the life
-missing from the expression.
+Rav Hirsch has two comments.
+
+- To Bereishis 24:65 he suggests that צ-ע-פ is related to ש-א-פ, by the
+  interchange of tzadi with shin and of ayin with aleph: that root is drawing
+  into oneself by inhaling, as one draws the *tza'if* close by wrapping it
+  snugly.
+- To Bereishis 40:6 he relates it to the phonetically similar ז-ע-פ (upset,
+  troubled): a *tza'if* veils the face from without, while a troubled
+  countenance is veiled from within, looking like that of a sleeping or dead
+  person, the life missing from the expression.
 
 ### redid (רדיד)
 Twice in Tanach: the city watchmen beat the woman searching for her beloved and
@@ -113,13 +116,16 @@ popular academic view that places it in the Persian period after the
 destruction of the First Temple.
 
 Once in the Mishnah, on how much of a string hanging from a *redid* counts as
-part of it for tumah (Keilim 29:1). In that context Rabbi Nosson of Rome
-(*Sefer HaAruch*) defines a *radid* as a thin *tza'if* that women use to cover
-their heads. Ibn Ezra (to Yeshayahu 3:23 and Shir HaShirim 5:7) explains that in
-Arabic *redid* is something akin to a tallis, a shawl, and Radak (there)
-similarly calls it a thin garment. Radak relates the Hebrew *redid* to the
-Arabic *arid*; *Sefer HaAruch* and others connect it with the Arabic *rida*, a
-fabric for wrapping the upper body.
+part of it for tumah (Keilim 29:1).
+
+- In that context Rabbi Nosson of Rome (*Sefer HaAruch*) defines a *radid* as a
+  thin *tza'if* that women use to cover their heads.
+- Ibn Ezra (to Yeshayahu 3:23 and Shir HaShirim 5:7) explains that in Arabic
+  *redid* is something akin to a tallis, a shawl, and Radak (there) similarly
+  calls it a thin garment.
+- Radak relates the Hebrew *redid* to the Arabic *arid*; *Sefer HaAruch* and
+  others connect it with the Arabic *rida*, a fabric for wrapping the upper
+  body.
 
 Rambam mentions a custom that women did not appear in public, even with their
 hair covered, unless wrapped in a *redid* (*Hilchos Ishus* 13:11, 24:12); by
@@ -129,12 +135,14 @@ in his code, where a judge disqualified himself because a litigant had removed a
 feather from the judge's *redid*, a favor that compromised his impartiality
 (*Hilchos Sanhedrin* 23:3).
 
-On the name: *Metzudas Tzion* (to Yeshayahu 3:23) implies that the thinness of
-the cloth gives it its name, since *merudad*, from ר-ד-ד, is what has been
-beaten down or subdued until very thin (see Targum Onkelos to Shemos 39:3).
-Rabbi Yehudah Aryeh of Carpentras first offers something similar and then suggests
-parsing *redid* as *ra'ah* (see) and *dod* (beloved), a *redid* being the ornament whose
-wearing exudes closeness by beautifying the wearer.
+On the name:
+
+- *Metzudas Tzion* (to Yeshayahu 3:23) implies that the thinness of the cloth
+  gives it its name, since *merudad*, from ר-ד-ד, is what has been beaten down
+  or subdued until very thin (see Targum Onkelos to Shemos 39:3).
+- Rabbi Yehudah Aryeh of Carpentras first offers something similar and then
+  suggests parsing *redid* as *ra'ah* (see) and *dod* (beloved), a *redid* being
+  the ornament whose wearing exudes closeness by beautifying the wearer.
 
 Rabbi Shlomo Pappenheim traces *redid* to the biliteral ר-ד, whose core sense is
 descending: *yeridah* (going down, hanging down), *marud* (a lowered, embittered state), *rodeh* (ruling, since a ruler lowers
