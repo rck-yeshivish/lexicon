@@ -1,7 +1,7 @@
 ---
 cluster: public
 hebrew: [רבים, ציבור, פרהסיא, פרסום, פומבי, צנעא]
-roots: [ר-ב, ב-ר, צ-ב-ר, פ-ר-ס]
+roots: [ר-ב, צ-ב-ר, פ-ר-ס]
 translit: [rabim, b'rabim, rav, harbeh, ribo, arbeh, aruvah, rahav, tzibbur, tzibur, b'tzibbur, parhessya, farhessya, parhesia, pirsum, pirsumei nisa, pumbi, b'pumbi, tzina, b'tzina, tzanua]
 english: [in public, publicly, the community, the congregation, publicity, public spectacle]
 domain: society
@@ -42,7 +42,7 @@ midst of the *rabim* I will praise Him" (Tehillim 109:30). The Mishnah's *yadua
 l'rabim*, a vow known to the masses (Gittin 4:7), is the same usage.
 
 Rabbi Shlomo Pappenheim (*Chesheik Shlomo*) traces *rabim* to the biliteral
-ב-ר, which he defines as quantitative increase: *rav*/*harbeh* (many), *arbeh*
+ר-ב, which he defines as quantitative increase: *rav*/*harbeh* (many), *arbeh*
 (grasshoppers, since locusts tend to swarm in multitudes), *arubah* (a sunroof or
 skylight, letting in much light), *rahav* (haughtiness, more self-pride than is
 normal), and *ribo* (a myriad, an inflated number that sometimes equals ten
