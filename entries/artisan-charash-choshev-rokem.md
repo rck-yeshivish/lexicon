@@ -10,6 +10,8 @@ words:
     nk: חָרָשׁ
 sources:
   - wiaw:11298 "Pekudai: Crafty Artisans" (2024-03-16) https://articles.ohr.edu/articles/pekudai-crafty-artisans
+  - wiaw:11342 "Tazria: The Cutter" (2024-04-13) https://articles.ohr.edu/articles/tazria-the-cutter
+  - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
 authorities: [Rashi, Rambam, Abarbanel, Rabbi Chaim Kanievsky, Shadal, Rav Hirsch, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rabbi Yehudah Aryeh of Carpentras, Malbim, Rabbi Yosef Kara, Ibn Ezra, Vilna Gaon, Metzudas David, Rabbi Shalom Shabazi, Targum Onkelos, Alexander Kohut, Peretz Smolenskin]
 status: reviewed
 updated: 2026-09-10
@@ -93,6 +95,9 @@ Hebrew carried this on in *machshevon*, a calculator,
 adds that the *choshev* must know his dimensions and quantities, hence
 *cheshbon*.
 
+Menachem Ibn Saruk identifies five distinct meanings of the root ח-ר-ש:
+muteness, deafness, thinking, artisanship and plowing.
+
 Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) links *charash* to
 *cheiresh*, mute, since this artisan generally works in silence, his craft
 typically demanding much thought.
@@ -106,7 +111,11 @@ Sanhedrin 3:4, Avodah Zarah 5:7,
 Erachin 6:3, Taharos 7:3), and its close relative *aman* appears once (Shir
 HaShirim 7:2).
 *Machberes Menachem* takes *uman* as any craftsman; Radak (*Sefer HaShorashim*)
-implies that only an expert earns the title.
+implies that only an expert earns the title. In the Gemara an *uman* can be a
+bloodletter: Rashi (to Bava Basra 21a) explains the *uman* whom a Torah scholar's
+city must have as a bloodletter or barber, and the word means a bloodletter in
+Taanis 21b as well; elsewhere *umana* clearly refers to a ritual circumciser
+(Shabbos 133b).
 
 ### chacham charashim (חכם חרשים)
 Yeshayahu 3:3, among the pillars Yerushalayim would lose; *hecharash v'hamasger*
@@ -164,4 +173,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Pekudai: Crafty Artisans](https://articles.ohr.edu/articles/pekudai-crafty-artisans)," *What's in a Word?*, Ohr Somayach, 16 March 2024.
 
-Cited in the essay: Bereishis 4:22; Shemos 22:17, 26:1, 26:31, 28:11, 31:5, 35:33, 35:35, 38:23; Shoftim 5:30, 16:2; Shmuel I 23:9; Shmuel II 5:11; Melachim II 12:12, 24:14, 24:16; Yeshayahu 3:3, 44:12-13; Yirmiyahu 29:2; Yechezkel 17:3; Mishlei 3:29; Iyov 4:8; Shir HaShirim 7:2; Ezra 3:7; Divrei HaYamim I 22:15, II 24:12; Yoma 72b; Gittin 88a; Sanhedrin 38a; Rambam, *Hilchos Klei HaMikdash* 8:15; Ibn Janach's introduction to *Sefer HaDikduk*; Dr. Alexander Kohut, *He'Aruch HaShaleim*, citing Peretz Smolenskin.
+Rabbi Reuven Chaim Klein, "[Tazria: The Cutter](https://articles.ohr.edu/articles/tazria-the-cutter)," *What's in a Word?*, Ohr Somayach, 13 April 2024.
+
+Rabbi Reuven Chaim Klein, "[Yisro: Write it down](https://articles.ohr.edu/articles/yisro-write-it-down)," *What's in a Word?*, Ohr Somayach, 15 February 2025.
+
+Cited in the essay: Bereishis 4:22; Shemos 22:17, 26:1, 26:31, 28:11, 31:5, 35:33, 35:35, 38:23; Shoftim 5:30, 16:2; Shmuel I 23:9; Shmuel II 5:11; Melachim II 12:12, 24:14, 24:16; Yeshayahu 3:3, 44:12-13; Yirmiyahu 29:2; Yechezkel 17:3; Mishlei 3:29; Iyov 4:8; Shir HaShirim 7:2; Ezra 3:7; Divrei HaYamim I 22:15, II 24:12; Shabbos 133b; Taanis 21b; Yoma 72b; Gittin 88a; Bava Basra 21a with Rashi; Sanhedrin 38a; Rambam, *Hilchos Klei HaMikdash* 8:15; Ibn Janach's introduction to *Sefer HaDikduk*; Dr. Alexander Kohut, *He'Aruch HaShaleim*, citing Peretz Smolenskin.

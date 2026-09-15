@@ -13,6 +13,7 @@ words:
 sources:
   - wiaw:8868 "The Power to Hold Back" (2020-09-26) https://articles.ohr.edu/articles/the-power-to-hold-back
   - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones
+  - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Edel, Rav Hirsch, Metzudas David, Maharsha, Rabbi J. B. Soloveitchik, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Vilna Gaon, Malbim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Dr. Asher Weiser, Rabbi Moshe Shapiro, Rabbi Aharon Marcus, Rabbi Naftali Hertz Wessely, Rabbi Yerucham Levovitz, Rabbi Shlomo of Urbino, Yonah Wilheimer, Rashi, Rambam, Tosafos, Targum]
 status: reviewed
 updated: 2026-09-10
@@ -154,6 +155,12 @@ told the spies to see whether the Canaanites were *chazak* or weak (Bamidbar
 strength, they examined the Canaanites' psychological resolve instead, and found
 a determination that could be seen on their faces.
 
+Rabbi Pappenheim traces ע-ז to something stable, unchanging, unwavering. Its
+derivatives include *azus*, brazenness, being unwilling to compromise, and *oz*,
+the strength that lets something withstand all opposition; so too goats are
+*izzim* because their unbendable legs give them stable footing to jump and climb
+with ease.
+
 Rabbi Naftali Hertz Wessely (Weisel, 1725 to 1805): the primary meaning of *oz*
 always refers to Divine, supernatural power, in contrast to *gevurah*, which can
 also refer to power within the normal course of nature. Rabbi Edel cites him and
@@ -264,5 +271,7 @@ None yet.
 Rabbi Reuven Chaim Klein, "[The Power to Hold Back](https://articles.ohr.edu/articles/the-power-to-hold-back)," *What's in a Word?*, Ohr Somayach, 26 September 2020.
 
 Rabbi Reuven Chaim Klein, "[The Strong Ones](https://articles.ohr.edu/articles/the-strong-ones)," *What's in a Word?*, Ohr Somayach, 12 September 2020.
+
+Rabbi Reuven Chaim Klein, "[The Ovine and Caprine Families](https://articles.ohr.edu/articles/the-ovine-and-caprine-families)," *What's in a Word?*, Ohr Somayach, 7 December 2019.
 
 Cited in the essay: Bereishis 7:18-19, 25:23, 49:24; Shemos 1:20, 14:27, 15:6; Bamidbar 13:18, 13:28, 24:21; Devarim 7:1, 8:18, 21:4, 31:7, 31:23; Yehoshua 1:6, 1:7, 1:9, 1:18; Melachim I 8:2; Yeshayahu 28:2; Yirmiyahu 32:18; Yoel 2:2; Zechariah 6:3; Tehillim 8:2, 29:11, 35:18, 68:35, 89:1, 93:4; Mishlei 24:5, 31:25; Koheles 4:12, 8:1; Esther 9:29, 10:2; Daniel 4:27; Divrei HaYamim I 22:13, 28:20; Avos 4:1; Berachos 8a, 32b; Shabbos 119b; Yoma 69b; Rosh Hashanah 11a; Bava Basra 15a; *Eichah Rabbah* 1:33; Targum to Devarim 8:18; Rashi to Devarim 21:4, Berachos 8a and Shabbos 119b; Tosafos to Shabbos 119b; Rambam, Hilchos Rotzeach 9:2; Maharsha to Bava Basra 15a; Metzudas David to Melachim I 8:2; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbi Yehuda Leib Edel; Rav Hirsch to Shemos 14:27; Rabbi J. B. Soloveitchik, *Catharsis*; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer; the Vilna Gaon to Yehoshua 1:7 and Mishlei 24:5; Malbim, *Yair Ohr* and to Yeshayahu 28:2; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LeVikah* to Bereishis 25:23; Rabbi Dr. Asher Weiser; Rabbi Moshe Shapiro; Rabbi Aharon Marcus; Rabbi Naftali Hertz Wessely; Rabbi Yerucham Levovitz; Rabbi Shlomo of Urbino, *Ohel Moed*, with Yonah Wilheimer's 1881 edition.

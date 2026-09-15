@@ -25,7 +25,8 @@ words:
     distinct: Yehudah's "clothing" in Bereishis 49:11, taken by Rashbam, Ibn Ezra and Chizkuni as a cognate of masveh, which on their reading makes masveh mean "fabric" at root
 sources:
   - wiaw:9092 "Purim: Fake Faces" (2021-02-20) https://articles.ohr.edu/articles/purim-fake-faces
-authorities: [Rabbi Shlomo Ibn Parchon, Rabbi Yehuda Chayyuj, Ibn Janach, Radak, Rashi, Rashbam, Ibn Ezra, Chizkuni, Menachem Ibn Saruk, Donash Ibn Labrat, Rambam, Rabbi Shlomo Pappenheim, Rabbi Ephraim Lenchitz, Rabbi Zerach Eidlitz, Rabbeinu Chananel, Sefer Chassidim, Tosefos Yom Tov, Rabbi Binyamin Mussafia, Rabbi Moshe Chagiz, Rema, Rabbi Yuzpa Shamash, the Rash, Rabbi Dr. Ernest Klein, Avraham Even-Shoshan]
+  - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
+authorities: [Rabbi Shlomo Ibn Parchon, Rabbi Yehuda Chayyuj, Ibn Janach, Radak, Rashi, Rashbam, Ibn Ezra, Chizkuni, Menachem Ibn Saruk, Donash Ibn Labrat, Rambam, Rabbi Shlomo Pappenheim, Rabbi Ephraim Lenchitz, Rabbi Zerach Eidlitz, Rabbeinu Chananel, Sefer Chassidim, Tosefos Yom Tov, Rabbi Binyamin Mussafia, Rabbi Moshe Chagiz, Rema, Rabbi Yuzpa Shamash, the Rash, Rabbi Dr. Ernest Klein, Avraham Even-Shoshan, Rabbi Eliyahu Benamozegh]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -96,6 +97,10 @@ Purim custom, and Rabbi Zerach Eidlitz uses *partzuf* and *masveh* both.
 ### masechah (מסכה)
 In Tanach a cast-metal figure: *egel masechah*, the molten calf (Shemos 32:4,
 32:8; Devarim 9:16; Nechemiah 9:18). Only in Modern Hebrew does it mean a mask.
+Rabbi Eliyahu Benamozegh relates the idol *masechah* not to pouring but to
+*sichah*, anointing: it refers to the ritual anointing of idols for their
+consecration, which was said to bring the spirit of the deity into the physical
+idol.
 The related *masechet* has its own life: in Mishnaic Hebrew the woof threads
 running across a weave (Rabbeinu Chananel to Shabbos 59b; Rambam to Keilim 21:1;
 the Rash to Negaim 11:9), and also a tractate.
@@ -149,4 +154,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Purim: Fake Faces](https://articles.ohr.edu/articles/purim-fake-faces)," *What's in a Word?*, Ohr Somayach, 20 February 2021.
 
-Cited in the essay: Shemos 32:4, 32:8, 34:29-35; Bereishis 49:11; Devarim 9:16, 27:9, 31:18; Shoftim 16:13-14; Yeshayahu 5:22; Mishlei 9:2, 9:5; Nechemiah 9:18; Megillah 12a; Chullin 139b; Kesubos 60a, 62b; Mishnah Yevamos 16:3, Keilim 16:7 and 21:1, Negaim 11:9; Shabbos 59b; *Mahari Mintz* 17; Rema to Orach Chaim 696:8; *Sefer Chassidim* 929; the Oxford English Dictionary; Rabbi Dr. Ernest Klein; Avraham Even-Shoshan.
+Rabbi Reuven Chaim Klein, "[Top Ten Words for Idols](https://articles.ohr.edu/articles/top-ten-words-for-idols)," *What's in a Word?*, Ohr Somayach, 30 March 2019.
+
+Cited in the essay: Shemos 32:4, 32:8, 34:29-35; Bereishis 49:11; Devarim 9:16, 27:9, 31:18; Shoftim 16:13-14; Yeshayahu 5:22; Mishlei 9:2, 9:5; Nechemiah 9:18; Megillah 12a; Chullin 139b; Kesubos 60a, 62b; Mishnah Yevamos 16:3, Keilim 16:7 and 21:1, Negaim 11:9; Shabbos 59b; *Mahari Mintz* 17; Rema to Orach Chaim 696:8; *Sefer Chassidim* 929; the Oxford English Dictionary; Rabbi Dr. Ernest Klein; Avraham Even-Shoshan; Rabbi Eliyahu Benamozegh.

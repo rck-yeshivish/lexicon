@@ -25,6 +25,7 @@ words:
     distinct: a named coin worth two selaim (Rambam to Shekalim 2:1), so Rabbi Klein presumes that Targum Yonasan uses it for beka loosely, "a coin"
 sources:
   - wiaw:9595 "Vayakhel (Shabbat Shekalim)" (2022-02-26) https://articles.ohr.edu/articles/vayakhel-shabbat-shekalim
+  - wiaw:7990 "Like a Rock (Part 1)" (2018-11-17) https://articles.ohr.edu/articles/like-a-rock-part-1
 authorities: [Targum Onkelos, Targum Yonasan, Rashi, Ramban, Rambam, Rashbam, Ibn Ezra, Radak, Sefer HaChinuch, Rabbi Menachem Azariah of Fano, Rabbi Yaakov Zev Lev, Rabbi David Schlussel of Munkatch, Rabbi David Cohen, Rabbi Elazar Rokach of Amsterdam, Rabbi Asher Gvirer, Rabbi Elazar HaKallir]
 status: reviewed
 updated: 2026-09-10
@@ -75,7 +76,10 @@ days of Mashiach.
 **Why the Rabbis chose *sela*.** Rabbi Klein has found no source that addresses
 it explicitly. Rabbi Asher Gvirer of
 Beitar Illit suggests it is because *sela* means a strong rock, marking the
-stronger, more valuable coin. That is a suggestion, not a ruling.
+stronger, more valuable coin. That is a suggestion, not a ruling. A related
+explanation is also given: a *sela*, the rock, is so hard that it cannot easily be
+chipped, so it became the accepted standard for weights and currencies, and by the
+time of the Mishnah a *sela* was the name of a specific coin.
 
 ## Distinctions
 
@@ -103,6 +107,7 @@ five *shekalim* of pidyon haben (Bamidbar 18:16) are five *selaim* in Bechoros,
 the two *shekalim* of the asham (Vayikra 5:15) two *selaim* in Kerisos. Rashi (to Bechoros 5a), Rambam (Hilchos Arachin 4:3, Hilchos Shekalim
 1:2), and *Sefer HaChinuch* (mitzvah 355) state the equation plainly; Onkelos and
 Targum Yonasan render every *shekel* of the parashah *sila*, the Aramaic form.
+
 
 ### beka (בקע)
 Twice only in Tanach: the golden nose-ring Eliezer gave Rivkah (Bereishis 24:22),
@@ -154,5 +159,7 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Vayakhel (Shabbat Shekalim)](https://articles.ohr.edu/articles/vayakhel-shabbat-shekalim)," *What's in a Word?*, Ohr Somayach, 26 February 2022.
+
+Rabbi Reuven Chaim Klein, "[Like a Rock (Part 1)](https://articles.ohr.edu/articles/like-a-rock-part-1)," *What's in a Word?*, Ohr Somayach, 17 November 2018.
 
 Cited in the essay: Shemos 30:13 with Ramban, 38:26 with Rashi and Ibn Ezra, 17:16 with Rashi; Bereishis 24:22 with Rashbam, Ibn Ezra and Targum Onkelos; Vayikra 5:15; Bamidbar 18:16; Bechoros 50a and Rashi to Bechoros 5a; Yerushalmi Kiddushin 1:3; Mishnah Peah 8:7, Kilayim 2:8, Shabbos 6:6, Shekalim 1:6, 2:1 and 6:5, Bava Metzia 4:3, Bava Basra 2:1, Shevuos 6:7, Bechoros 8:2-8; Rambam, Hilchos Arachin 4:3, Hilchos Shekalim 1:2, and to Shekalim 2:1; *Sefer HaChinuch* mitzvah 355; Radak, *Sefer HaShorashim*; *Me'at Tzari* to Bereishis 24:22; Daniel 5:25; Ezra 2:69, 8:27; Nechemiah 7:69-71; Divrei HaYamim I 29:7; Rabbi Menachem Azariah of Fano; the piyut ascribed to Rabbi Elazar HaKallir; Rabbi David Schlussel of Munkatch; Rabbi David Cohen; Rabbi Elazar Rokach of Amsterdam; Rabbi Asher Gvirer.

@@ -34,6 +34,8 @@ words:
     distinct: Aramaic for sadeh (Shadal), which for Rabbi Reuven Chaim Klein fits Hoshea's calling the same place Sdeh Aram; Rashi and Ibn Ezra gloss it as the same as sadeh, field
 sources:
   - wiaw:11608 "Vayeitzei: Name of the Plain" (2024-12-07) https://articles.ohr.edu/articles/vayeitzei-name-of-the-plain
+  - wiaw:7815 "Let Them Eat Bread" (2018-06-23) https://articles.ohr.edu/articles/let-them-eat-bread
+  - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
 authorities: [Rashi, Ibn Ezra, Targum Onkelos, Bereishis Rabbah, Ramban, Ibn Janach, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Rabbi Shmuel Masnuth, Rabbi Hai Gaon, Sefer HaAruch, Rabbi Shlomo of Urbino, Rambam, Rabbi Yishaya of Trani, Rabbi Yosef Kara, pseudo-Rashbam, Shadal, Rabbi David Tzvi Hoffmann, Rabbi Ernest Klein, Rabbi Aharon Marcus, Even-Shoshan concordance]
 status: reviewed
 updated: 2026-09-10
@@ -144,7 +146,9 @@ workhorse: wherever Rashi says a plain has a name, Targum simply writes
 
 ### kikar (ככר) and avel (אבל)
 Ramban accepts Targum that *kikar* is a plain, and specifies lush grassland fed
-by rivers that spill into it. *Avel* he defines as an empty plain or prairie
+by rivers that spill into it. *Kikar* seems literally to mean "circle," which is
+how in Tanach it can name a valley surrounded by mountains, as well as round coins
+and loaves of bread. *Avel* he defines as an empty plain or prairie
 with neither buildings nor trees, tying it to its homonym *avel*, a mourner:
 the desolate plain is bereft of features as the mourner is bereft of his
 relative.
@@ -162,7 +166,11 @@ specifically the plain surrounding the town of Charan, noting that archaeologist
 and geographers have confirmed that ancient Charan lay on a plain otherwise ringed
 by mountains. Alternatively, Rabbi Ernest Klein, in his etymological dictionary of
 Hebrew, surmises that *padan* possibly derives from the Akkadian *padanu*, "road"
-or "garden."
+or "garden." Rabbi Shlomo Pappenheim traces the word instead to the biliteral
+פ-ד, redemption or freedom (as in *pidyon* and *pedus*), and suggests that
+*padan* denotes an independent region that had its own sovereignty or was free
+from paying imperial taxes, so that Padan Aram (Bereishis 31:18, 35:26, 46:15)
+is the Free State of Aram, as against other polities in the Aram area.
 
 ### ayalah (אילה)
 Yaakov's blessing to Naftali, "an *ayalah* sent forth, who gives good tidings"
@@ -211,4 +219,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayeitzei: Name of the Plain](https://articles.ohr.edu/articles/vayeitzei-name-of-the-plain)," *What's in a Word?*, Ohr Somayach, 7 December 2024.
 
-Cited in the essay: Bereishis 12:6, 13:10-11, 13:18, 14:6, 14:13, 18:1, 25:20, 49:21; Bamidbar 33:49; Yehoshua 11:17; Hoshea 12:13; Shir HaShirim 2:1; Tehillim 125:2; Yechezkel 16:4; Mishlei 3:8; Iyov 40:16; Targum Onkelos and *Bereishis Rabbah* 42:6 to Bereishis 14:6; Rashi and Ramban to Bereishis 14:6; Zohar *Vayera* 97b; Rambam to Bava Basra 6:2; Rabbi Hai Gaon to Niddah 2:7; *Sefer HaAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *HaKsav VeHaKabbalah* to Bereishis 18:1, 49:21 and Vayikra 1:9; *Cheshek Shlomo* and *Yerios Shlomo*; *Ohel Moed*; *Bereishis Zuta* to Bereishis 14:6; Bereishis 36:2, 46:14; Bamidbar 21:25, 22:41, 26:26; Yehoshua 12:7, 13:5; Shoftim 12:11-12; Melachim I 16:6, 16:8, 16:13-14; Melachim II 15:30, 17:1, 18:1, 18:9; Divrei HaYamim I 4:15, 4:37, 9:8; Shadal and Rabbi David Tzvi Hoffmann to Bereishis 25:20; Rabbi Ernest Klein's etymological dictionary; Avraham Even-Shoshan's concordance.
+Rabbi Reuven Chaim Klein, "[Let Them Eat Bread](https://articles.ohr.edu/articles/let-them-eat-bread)," *What's in a Word?*, Ohr Somayach, 23 June 2018.
+
+Rabbi Reuven Chaim Klein, "[Castle in the Sky](https://articles.ohr.edu/articles/castle-in-the-sky)," *What's in a Word?*, Ohr Somayach, 28 November 2020.
+
+Cited in the essay: Bereishis 12:6, 13:10-11, 13:18, 14:6, 14:13, 18:1, 25:20, 31:18, 35:26, 46:15, 49:21; Bamidbar 33:49; Yehoshua 11:17; Hoshea 12:13; Shir HaShirim 2:1; Tehillim 125:2; Yechezkel 16:4; Mishlei 3:8; Iyov 40:16; Targum Onkelos and *Bereishis Rabbah* 42:6 to Bereishis 14:6; Rashi and Ramban to Bereishis 14:6; Zohar *Vayera* 97b; Rambam to Bava Basra 6:2; Rabbi Hai Gaon to Niddah 2:7; *Sefer HaAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *HaKsav VeHaKabbalah* to Bereishis 18:1, 49:21 and Vayikra 1:9; *Cheshek Shlomo* and *Yerios Shlomo*; *Ohel Moed*; *Bereishis Zuta* to Bereishis 14:6; Bereishis 36:2, 46:14; Bamidbar 21:25, 22:41, 26:26; Yehoshua 12:7, 13:5; Shoftim 12:11-12; Melachim I 16:6, 16:8, 16:13-14; Melachim II 15:30, 17:1, 18:1, 18:9; Divrei HaYamim I 4:15, 4:37, 9:8; Shadal and Rabbi David Tzvi Hoffmann to Bereishis 25:20; Rabbi Ernest Klein's etymological dictionary; Avraham Even-Shoshan's concordance.

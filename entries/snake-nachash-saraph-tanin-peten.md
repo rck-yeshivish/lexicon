@@ -13,7 +13,8 @@ words:
 sources:
   - wiaw:7321 "Slithering Serpents and Sea Snakes - Part 1" (2017-07-01) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1
   - wiaw:7341 "Slithering Serpents and Sea Snakes - Part 2" (2017-07-15) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-2
-authorities: [Avos d'Rabbi Nassan, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Parchon, Rabbi Yonah ibn Janach, Rabbi Yosef Bechor Shor, Vilna Gaon, Malbim, Radak, Mahari Kara, Rabbi Shalom Buzaglo, Rabbi Natan Nata Shapiro, Rabbi Shlomo Pappenheim, Rabbi Avigdor the Frenchman, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechiel Heilpern, Rabbi Elazar Rokeach of Worms, Rabbi Yaakov Yisroel Stahl, Mitchell First]
+  - wiaw:9234 "Fun with Fish (Part 2/2)" (2021-06-05) https://articles.ohr.edu/articles/fun-with-fish-part-22
+authorities: [Avos d'Rabbi Nassan, Rabbi Shlomo Aharon Wertheimer, Rashi, Rabbi Aharon Marcus, Rabbi Shlomo Ibn Parchon, Rabbi Yonah ibn Janach, Rabbi Yosef Bechor Shor, Vilna Gaon, Malbim, Radak, Mahari Kara, Rabbi Shalom Buzaglo, Rabbi Natan Nata Shapiro, Rabbi Shlomo Pappenheim, Rabbi Avigdor the Frenchman, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yechiel Heilpern, Rabbi Elazar Rokeach of Worms, Rabbi Yaakov Yisroel Stahl, Mitchell First, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -73,7 +74,12 @@ resemblance to *saraph*.
 The Vilna Gaon: *nachash* is to land as *tanin* is to sea. The analogy suggests
 that *nachash* is a land snake and *tanin* a sea snake,
 possibly an eel or something similar. Rashi (Bereishis 1:21 and Niddah 22b), on
-the other hand, simply writes that a *tanin* is a big fish. Contrary to popular
+the other hand, simply writes that a *tanin* is a big fish. Rabbi Aharon Marcus
+argues that the tav of *taninim* (Bereishis 1:21) is not part of the root, so
+that at its core is *nun*, fish, and he explicitly rejects the scholarly
+speculation that *taninim* is a Sanskrit loanword. Rav Hirsch (to Bereishis
+1:21) also suggests that *tannin* derives from *nun*, and adds that *nun* itself
+derives from *nin*, offspring. Contrary to popular
 belief, *akalason* does not mean snake at all but "coiled," serving as a
 description of a type of sea serpent; Yeshayahu 27:1 has the coiled snake
 (*nachash akalason*) and the straight snake (*nachash bariach*), which Bava
@@ -173,4 +179,6 @@ Rabbi Reuven Chaim Klein, "[Slithering Serpents and Sea Snakes - Part 1](https:/
 
 Rabbi Reuven Chaim Klein, "[Slithering Serpents and Sea Snakes - Part 2](https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-2)," *What's in a Word?*, Ohr Somayach, 15 July 2017.
 
-Cited in the essay: Bereishis 1:21 with Rashi, 3:1-6, 49:17; Bamidbar 21:5-9 with Rabbi Yosef Bechor Shor; Yeshayahu 27:1 with Bava Basra 74b, 30:6 with Rashi, and 59:5 with Rashi and Radak; Yirmiyahu 8:17 with Rashi; Tehillim 58:6, 140:4; Iyov 20:16; Niddah 22b with Rashi; Yerushalmi Terumos 8:3; Avos d'Rabbi Nassan; the Midrash on the *eches*; Mahari Kara; Rabbi Shlomo Aharon Wertheimer; Rabbi Aharon Marcus; Rabbi Shlomo Ibn Parchon; Rabbi Yonah ibn Janach; the Vilna Gaon; Malbim; Rabbi Shalom Buzaglo, *Hadras Melech*; Rabbi Natan Nata Shapiro, *Megaleh Amukos*; Rabbi Shlomo Pappenheim; Rabbi Avigdor the Frenchman; Rabbi Yaakov Tzvi Mecklenburg; *Sefer HaChochmah* and the Torah commentary ascribed to Rabbi Elazar Rokeach of Worms, cited by Rabbi Yechiel Heilpern; Rabbi Yaakov Yisroel Stahl; Mitchell First.
+Rabbi Reuven Chaim Klein, "[Fun with Fish (Part 2/2)](https://articles.ohr.edu/articles/fun-with-fish-part-22)," *What's in a Word?*, Ohr Somayach, 5 June 2021.
+
+Cited in the essay: Bereishis 1:21 with Rashi and Rav Hirsch, 3:1-6, 49:17; Bamidbar 21:5-9 with Rabbi Yosef Bechor Shor; Yeshayahu 27:1 with Bava Basra 74b, 30:6 with Rashi, and 59:5 with Rashi and Radak; Yirmiyahu 8:17 with Rashi; Tehillim 58:6, 140:4; Iyov 20:16; Niddah 22b with Rashi; Yerushalmi Terumos 8:3; Avos d'Rabbi Nassan; the Midrash on the *eches*; Mahari Kara; Rabbi Shlomo Aharon Wertheimer; Rabbi Aharon Marcus; Rabbi Shlomo Ibn Parchon; Rabbi Yonah ibn Janach; the Vilna Gaon; Malbim; Rabbi Shalom Buzaglo, *Hadras Melech*; Rabbi Natan Nata Shapiro, *Megaleh Amukos*; Rabbi Shlomo Pappenheim; Rabbi Avigdor the Frenchman; Rabbi Yaakov Tzvi Mecklenburg; *Sefer HaChochmah* and the Torah commentary ascribed to Rabbi Elazar Rokeach of Worms, cited by Rabbi Yechiel Heilpern; Rabbi Yaakov Yisroel Stahl; Mitchell First.

@@ -14,7 +14,9 @@ words:
     nk: נֶגֶב
 sources:
   - wiaw:9775 "On Dry Land" (2022-07-09) https://articles.ohr.edu/articles/on-dry-land
-authorities: [Vilna Gaon, Rashi, Sefer HaChochmah, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shoresh Yesha, Rabbi Avraham Maimuni, Radak, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Rabbi Yaakov Zev Lev, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Ezra, Rav Hirsch, Peirush HaRokeach]
+  - wiaw:7366 "Words of Destruction" (2017-07-29) https://articles.ohr.edu/articles/words-of-destruction
+  - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
+authorities: [Vilna Gaon, Rashi, Sefer HaChochmah, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Shoresh Yesha, Rabbi Avraham Maimuni, Radak, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Rabbi Yaakov Zev Lev, Rabbi Yehuda Leib Shapira-Frankfurter, Ibn Ezra, Rav Hirsch, Peirush HaRokeach, Avos d'Rabbi Nasan, Midrash Mishlei]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -73,6 +75,11 @@ what Mecklenburg intends, not something Mecklenburg says.
 On the root: *Shoresh Yesha* takes ח-ר-ב at core as destruction, the opposite of
 living and thriving, which yields both *cherev* (the instrument of destruction)
 and dryness (what withers for lack of juice); Pappenheim says something similar.
+Elsewhere Pappenheim explains *churban* as what is not inherently damaged but is
+called destroyed because it is disconnected from an outside element it needs in
+order to flourish; by the same token an especially dry and arid land is called a
+*charbah* because its infertility is not due to a problem in the land itself but
+to its inability to receive outside water, as where rainfall is a rarity.
 Rabbi Avraham Maimuni (to Bereishis 31:40) seems to read *chorev* as dryness
 caused by heat, and Radak in *Sefer HaShorashim* holds that heat is the core of
 ח-ר-ה and anger the result. Rabbi Klein offers two speculations of his own, both
@@ -85,6 +92,12 @@ a *beis* cannot serve as a radical added to a biliteral root. Second, that
 *rav*, *harbeh*, *rabbim*: as a thing dries it has less moisture holding it
 together and may develop many holes or cracks, and a thing full of holes is that
 much more open to destruction, whence also "destruction" and "sword."
+
+Avos d'Rabbi Nasan (version 1, ch. 37) counts *charavah* and *yabashah* among
+seven words for the earth, and version 2 explains that the land is called
+*charavah* and *yabashah*, synonyms for dry land, because of its role in
+absorbing the water of the Mabul after the flood ended (or, according to
+*Midrash Mishlei*, in absorbing Hevel's blood after he was buried).
 
 ### yavesh (יבש), yabashah (יבשה)
 Pappenheim: the root is ב-ש, delay or withholding, as in *boshesh Moshe laredes*
@@ -160,4 +173,8 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[On Dry Land](https://articles.ohr.edu/articles/on-dry-land)," *What's in a Word?*, Ohr Somayach, 9 July 2022.
 
-Cited in the essay: Bereishis 7:22, 8:13-14, 12:9, 31:40, 40:10; Shemos 14:21-22, 32:1; Vayikra 7:10; Yehoshua 15:19; Shoftim 1:15; Melachim I 13:4; Yeshayahu 8:23, 19:5, 21:1; Tehillim 102:12, 106:9, 126:4; Mishlei 17:1; Iyov 14:11; Vilna Gaon to Yeshayahu 8:23; Rashi to Bereishis 8:13-14; Radak, *Sefer HaShorashim* on ח-ר-ה; Rabbi Eliyahu HaBachur, *Meturgeman*; Mishnah Chagigah 3:1, Avodah Zarah 2:11 and 5:11, Menachos 3:3 and 8:4, Keilim 25:6, Taharos 2:1, 3:8, 10:2 and 10:8, Machshirin 3:5 and 4:9, Mikvaos 10:4, Tvul Yom 3:6, Parah 5:2, 7:8, 9:1 and 11:8.
+Rabbi Reuven Chaim Klein, "[Words of Destruction](https://articles.ohr.edu/articles/words-of-destruction)," *What's in a Word?*, Ohr Somayach, 29 July 2017.
+
+Rabbi Reuven Chaim Klein, "[Seasoning the Land (Part 2)](https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah)," *What's in a Word?*, Ohr Somayach, 4 September 2021.
+
+Cited in the essay: Avos d'Rabbi Nasan version 1 ch. 37 and version 2; *Midrash Mishlei*; Bereishis 7:22, 8:13-14, 12:9, 31:40, 40:10; Shemos 14:21-22, 32:1; Vayikra 7:10; Yehoshua 15:19; Shoftim 1:15; Melachim I 13:4; Yeshayahu 8:23, 19:5, 21:1; Tehillim 102:12, 106:9, 126:4; Mishlei 17:1; Iyov 14:11; Vilna Gaon to Yeshayahu 8:23; Rashi to Bereishis 8:13-14; Radak, *Sefer HaShorashim* on ח-ר-ה; Rabbi Eliyahu HaBachur, *Meturgeman*; Mishnah Chagigah 3:1, Avodah Zarah 2:11 and 5:11, Menachos 3:3 and 8:4, Keilim 25:6, Taharos 2:1, 3:8, 10:2 and 10:8, Machshirin 3:5 and 4:9, Mikvaos 10:4, Tvul Yom 3:6, Parah 5:2, 7:8, 9:1 and 11:8.

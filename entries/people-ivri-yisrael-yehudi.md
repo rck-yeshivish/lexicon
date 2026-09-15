@@ -29,6 +29,7 @@ words:
     distinct: Yaakov's fourth son, named by Leah as an expression of hodaah, thanks to Hashem (Bereishis 29:35)
 sources:
   - wiaw:7961 "Names of a People" (2018-10-20) https://articles.ohr.edu/articles/names-of-a-people
+  - wiaw:8553 "Jacob's Three Names" (2020-01-11) https://articles.ohr.edu/articles/jacobs-three-names
 authorities: [Bereishis Rabbah, Pesikta Rabbasi, Shemos Rabbah, Rabbeinu Bachya, Rabbi Dr. Norman Lamm]
 status: reviewed
 updated: 2026-09-10
@@ -90,7 +91,10 @@ plane than a free man, so the older, lower name suits him.
 ### Yisrael (ישראל) and Bnei Yisrael (בני ישראל)
 *Bnei Yisrael* appears 636 times in Tanach and *Yisrael* as a name for the
 people over two thousand. It is Yaakov's second name used as a patronym, so the
-nation is *Yisrael* or the sons of *Yisrael*. Through most of Tanach this, and
+nation is *Yisrael* or the sons of *Yisrael*. Yaakov received the name from
+Esav's angel at the crossing of the Yabok: *Yisrael*, because he lords (*sar*)
+over angels (*elohim*, or *el* for short) and over men (Bereishis 32:29); Hashem
+Himself later confirmed it by also giving him the name (Bereishis 35:10). Through most of Tanach this, and
 not *Ivri*, is what the people are called, and this follows from Rabbeinu
 Bachya's point, since it is the name of the higher standing. "Israelite"
 and "Israeli" are not the same word in English: the second means a citizen of
@@ -143,4 +147,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Names of a People](https://articles.ohr.edu/articles/names-of-a-people)," *What's in a Word?*, Ohr Somayach, 20 October 2018.
 
-Cited in the essay: Bereishis 11:14-17, 14:13-14, 29:35; Shemos 21:6; *Bereishis Rabbah* 42:8; *Pesikta Rabbasi* 33; *Shemos Rabbah* 3:8; Rabbeinu Bachya to Shemos 21:6.
+Rabbi Reuven Chaim Klein, "[Jacob's Three Names](https://articles.ohr.edu/articles/jacobs-three-names)," *What's in a Word?*, Ohr Somayach, 11 January 2020.
+
+Cited in the essay: Bereishis 11:14-17, 14:13-14, 29:35, 32:29, 35:10; Shemos 21:6; *Bereishis Rabbah* 42:8; *Pesikta Rabbasi* 33; *Shemos Rabbah* 3:8; Rabbeinu Bachya to Shemos 21:6.

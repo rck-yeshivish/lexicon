@@ -28,7 +28,8 @@ words:
     distinct: for Rashbam, blindness combined with confusion; for Malbim, distorted vision rather than actual blindness; only three occurrences in Tanach
 sources:
   - wiaw:7974 "The Man with Enough Light" (2018-11-03) https://articles.ohr.edu/articles/the-man-with-enough-light
-authorities: [Rabbi Shlomo Pappenheim, Zohar, Rabbi Mordechai HaKohen of Tzfas, Kli Yakar, Rashbam, Malbim, Shadal, Rav Hirsch, Rabbi Yehoshua Trunk of Kutna, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Yehoshua Steinberg, Immanuel Vilkovsky, Fred Rosner, Evyatar Cohen, Chaim Tawil]
+  - wiaw:9473 "Wake-up Time" (2021-12-04) https://articles.ohr.edu/articles/wake-up-time
+authorities: [Rabbi Shlomo Pappenheim, Shoresh Yesha, Zohar, Rabbi Mordechai HaKohen of Tzfas, Kli Yakar, Rashbam, Malbim, Shadal, Rav Hirsch, Rabbi Yehoshua Trunk of Kutna, Rabbi Shmuel Borenstein of Sochatchov, Rabbi Yehoshua Steinberg, Immanuel Vilkovsky, Fred Rosner, Evyatar Cohen, Chaim Tawil]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -108,7 +109,11 @@ forming over the eye, so the blind man is an *iver* and the affliction *ivaron*.
 Hence "bribery
 blinds the eyes of the wise" (Devarim 16:19): a bribed judge has not lost his
 intellect any more than a man with a cataract has lost his eye; the organ works,
-but something has settled over it, blinding him to the truth of this case.
+but something has settled over it, blinding him to the truth of this case. *Shoresh Yesha*, which relates the words
+of ע-ו-ר to revealing and exposing, explains that a blind man is an *iver*
+because it is as though he sleeps an eternal slumber, with nothing revealed to
+him since he sees nothing; alternatively, it suggests, because it is as though a
+layer of skin always covers his eyes.
 
 ### suma (סומא)
 Root ס-מ-א. The Gemara's and Targumim's word for a blind man; its weight comes
@@ -147,4 +152,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Man with Enough Light](https://articles.ohr.edu/articles/the-man-with-enough-light)," *What's in a Word?*, Ohr Somayach, 3 November 2018.
 
-Cited in the essay: Bereishis 19:11 with Rashbam and Malbim; Vayikra 19:14; Bamidbar 24:4 with *Kli Yakar*; Devarim 3:9 with Rashi, 16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Dr. Fred Rosner, *Medicine in the Bible and the Talmud*.
+Rabbi Reuven Chaim Klein, "[Wake-up Time](https://articles.ohr.edu/articles/wake-up-time)," *What's in a Word?*, Ohr Somayach, 4 December 2021.
+
+Cited in the essay: Bereishis 19:11 with Rashbam and Malbim; Vayikra 19:14; Bamidbar 24:4 with *Kli Yakar*; Devarim 3:9 with Rashi, 16:19; Melachim II 6:18; Bava Basra 16a; Avodah Zarah 20b; Zohar; Dr. Fred Rosner, *Medicine in the Bible and the Talmud*; *Shoresh Yesha*.

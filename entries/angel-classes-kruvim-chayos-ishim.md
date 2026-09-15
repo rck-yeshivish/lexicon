@@ -10,6 +10,7 @@ words:
     nk: חַיּוֹת
 sources:
   - wiaw:8129 "Cherubic Children and Other Angels" (2019-02-09) https://articles.ohr.edu/articles/cherubic-children-and-other-angels
+  - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
 authorities: [Rambam, the anonymous commentator to Rambam, the school of Rabbi Elazar Rokeach of Worms, Orchos Chaim, Kolbo, Masechta Atzilus, Rabbi Moshe ibn Chaviv, Rabbi Dovid Luria, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Mordechai Shlomo Movshovitz, Rashi]
 status: reviewed
 updated: 2026-09-10
@@ -106,7 +107,10 @@ The lowest rank in Rambam's list, the angels who speak with human nevi'im.
 Literally "men," because their level is close to that of the nevi'im they
 address. Rabbi Mordechai Shlomo Movshovitz explains instead that they sometimes
 act like men, as the three who came to Avraham (Bereishis 18) looked and behaved
-like people.
+like people. Tanach itself calls an angel *ish* (Yechezkel 9:11), since *ish*
+can name a single member of any species, not only of mankind. Rabbi Yaakov Tzvi
+Mecklenburg explains that *ish* implies a more abstract and immaterial form of
+existence, which is why it can still refer to angels or other otherworldly beings.
 
 ### irin (עירין) and kadishin (קדישין)
 Not on Rambam's list. The school of the Rokeach: *kadishin* are holy and set
@@ -146,4 +150,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Cherubic Children and Other Angels](https://articles.ohr.edu/articles/cherubic-children-and-other-angels)," *What's in a Word?*, Ohr Somayach, 9 February 2019.
 
-Cited in the essay: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7; Yechezkel 43:15; Tehillim 78:25; Kesubos 104a; Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to Bereishis 21:17.
+Rabbi Reuven Chaim Klein, "[Bereishet - Be a Man](https://articles.ohr.edu/articles/bereishet-be-a-man)," *What's in a Word?*, Ohr Somayach, 26 October 2019.
+
+Cited in the essay: Rambam, *Hilchos Yesodei HaTorah* 2:7; *Orchos Chaim*, *Seder Tefillas Shabbos Shacharis* §2; *Kolbo* §37; *Masechta Atzilus*; *Pirkei d'Rabbi Eliezer* ch. 4 with the glosses of Rabbi Dovid Luria; Yeshayahu 33:7; Yechezkel 9:11; Yechezkel 43:15; Tehillim 78:25; Kesubos 104a; Chagigah 13b; Sukkah 5b; Bereishis 3:24 with Rashi; Bereishis 18; Targum to Bereishis 21:17.

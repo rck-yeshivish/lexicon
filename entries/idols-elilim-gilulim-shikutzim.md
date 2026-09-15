@@ -14,7 +14,8 @@ words:
     nk: פֶּסֶל
 sources:
   - wiaw:8198 "Top Ten Words for Idols" (2019-03-30) https://articles.ohr.edu/articles/top-ten-words-for-idols
-authorities: [Avos d'Rabbi Nosson, Malbim, Maharitatz, Rashi, Rabbeinu Nissim, Ritva, Ibn Ezra, Ramban, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh, Rabbeinu Shimshon of Shantz, Pirush HaRaavad, Rav Achai Gaon, Netziv]
+  - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
+authorities: [Avos d'Rabbi Nosson, Malbim, Maharitatz, Rashi, Rabbeinu Nissim, Ritva, Ibn Ezra, Ramban, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Benamozegh, Rabbeinu Shimshon of Shantz, Pirush HaRaavad, Rav Achai Gaon, Netziv, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -60,7 +61,15 @@ from *al*, "not": the sheer nothingness of an idol's power.
 
 ### pesel (פסל)
 From *pasul* / *nifsal*, disqualified: the idol is ruled out of the range of
-legitimate worship.
+legitimate worship. The root פ-ס-ל technically means hewing: as a verb it
+describes hewing stones for the Beis HaMikdash (Melachim I 5:32) and hewing idols
+from raw materials (Chavakuk 2:18). The discarded shavings of something hewn are
+disqualified from use in the finished object, which is why *pasul* in the legal
+sense means disqualified from a specific halachic purpose; and since idols are
+themselves disqualified by the Torah from ritual use, the finished idol is called
+a *pesel*, like the byproducts of the carving. Rav Hirsch (to Devarim 4:16)
+connects פ-ס-ל with פ-צ-ל (*pitzel*, peeling) and ב-צ-ל (*batzal*, onion), all
+three involving cutting or otherwise removing outer layers.
 
 ### masechah (מסכה)
 From *nisuch*, pouring: Malbim and Rabbi Shlomo Pappenheim, metal idols formed
@@ -138,4 +147,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Top Ten Words for Idols](https://articles.ohr.edu/articles/top-ten-words-for-idols)," *What's in a Word?*, Ohr Somayach, 30 March 2019.
 
-Cited in the essay: *Avos d'Rabbi Nosson* ch. 34; Vayikra 19:4 with Rashi and Ibn Ezra; Yirmiyahu 14:14; Zechariah 11:17; Iyov 13:4 with Rashi and Ramban; Shabbos 149a with Rashi, Rabbeinu Nissim and Ritva; Rabbeinu Shimshon of Shantz and *Pirush HaRaavad* to *Toras Kohanim*; *She'iltos d'Rav Achai Gaon*; the Netziv; Malbim; Rabbi Shlomo Pappenheim; Rabbi Eliyahu Benamozegh; Maharitatz.
+Rabbi Reuven Chaim Klein, "[Yisro: Write it down](https://articles.ohr.edu/articles/yisro-write-it-down)," *What's in a Word?*, Ohr Somayach, 15 February 2025.
+
+Cited in the essay: *Avos d'Rabbi Nosson* ch. 34; Vayikra 19:4 with Rashi and Ibn Ezra; Devarim 4:16 with Rav Hirsch; Melachim I 5:32; Yirmiyahu 14:14; Chavakuk 2:18; Zechariah 11:17; Iyov 13:4 with Rashi and Ramban; Shabbos 149a with Rashi, Rabbeinu Nissim and Ritva; Rabbeinu Shimshon of Shantz and *Pirush HaRaavad* to *Toras Kohanim*; *She'iltos d'Rav Achai Gaon*; the Netziv; Malbim; Rabbi Shlomo Pappenheim; Rabbi Eliyahu Benamozegh; Maharitatz.

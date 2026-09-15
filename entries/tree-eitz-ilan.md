@@ -16,7 +16,8 @@ words:
     distinct: seemingly Aramaic in origin, appearing in Tanach only in the Aramaic of Daniel 4; Chazal Hebraized it and reserved it for a tree still standing, leaving eitz for wood (Rabbi Chaim Hirschensohn)
 sources:
   - wiaw:7133 "Tree Words" (2017-02-11) https://articles.ohr.edu/articles/tree-words
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Chaim Hirschensohn, Rabbi Betzalel Stern]
+  - wiaw:8857 "The Strong Ones" (2020-09-12) https://articles.ohr.edu/articles/the-strong-ones
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Chaim Hirschensohn, Rabbi Betzalel Stern, Rabbi Moshe Shapiro]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -45,7 +46,10 @@ berachos.
 Countless times in Tanach: *eitz hadaas*, *eitz hachaim*, *atzei shittim*,
 *atzei levanah*. Rabbi Shlomo Pappenheim relates it to *atzum*, strong, and
 *etzem*, bone, as it denotes the strength and durability of a tree, against
-other, flimsy forms of flora such as grass.
+other, flimsy forms of flora such as grass. Rabbi Moshe Shapiro finds a common
+theme in all words containing ע-צ: an *eitz* contains within itself everything
+that will be created from it, as *etzem*, self, contains the sum total of one's
+potential.
 
 ### ilan (אילן) and ilana (אילנא)
 *Ilan* appears once in Tanach, at Daniel 4:7, and *ilana* several times in the
@@ -90,4 +94,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Tree Words](https://articles.ohr.edu/articles/tree-words)," *What's in a Word?*, Ohr Somayach, 11 February 2017.
 
-Cited in the essay: Daniel 4:7, 4:8, 4:11, 4:17, 4:20, 4:23; Berachos 6:1; Rabbi Shlomo Pappenheim; Rabbi Chaim Hirschensohn; Rabbi Betzalel Stern, Responsa *Be'tzel HaChochmah*.
+Rabbi Reuven Chaim Klein, "[The Strong Ones](https://articles.ohr.edu/articles/the-strong-ones)," *What's in a Word?*, Ohr Somayach, 12 September 2020.
+
+Cited in the essay: Daniel 4:7, 4:8, 4:11, 4:17, 4:20, 4:23; Berachos 6:1; Rabbi Shlomo Pappenheim; Rabbi Chaim Hirschensohn; Rabbi Betzalel Stern, Responsa *Be'tzel HaChochmah*; Rabbi Moshe Shapiro.

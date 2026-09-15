@@ -10,7 +10,8 @@ words:
     nk: חֵפֶץ
 sources:
   - wiaw:7292 "Deleterious Desires" (2017-06-10) https://articles.ohr.edu/articles/deleterious-desires
-authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim]
+  - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
+authorities: [Vilna Gaon, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Tzvi Yehuda Kook, Rashi]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -81,6 +82,10 @@ Root ח-פ-ץ.
 - Malbim sets *chefetz* against *ratzon* rather than against these two:
   *chefetz* is an emotional desire, *ratzon* an intellectual one and usually
   positive.
+- Rabbi Tzvi Yehuda Kook also sets it against *ratzon*: *ratzon* is a person's
+  final goal or ultimate will, what he really wants deep down, while *chefetz* is
+  his more tangible, immediate goal. This is why tangible items are called
+  *chafetzim* in Mishnaic Hebrew (see Rashi to Koheles 3:1).
 
 The full treatment is in the *ratzon* / *chefetz* entry.
 
@@ -111,4 +116,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Deleterious Desires](https://articles.ohr.edu/articles/deleterious-desires)," *What's in a Word?*, Ohr Somayach, 10 June 2017.
 
-Cited in the essay: Bamidbar 11:4 and 11:10; Chagigah 11b; the Vilna Gaon on *taavah*, *chemdah* and *chefetz*; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Malbim on *taavah* and *chemdah*, and on *chefetz* and *ratzon*.
+Rabbi Reuven Chaim Klein, "[Seasoning the Land](https://articles.ohr.edu/articles/seasoning-the-land)," *What's in a Word?*, Ohr Somayach, 28 August 2021.
+
+Cited in the essay: Bamidbar 11:4 and 11:10; Koheles 3:1 with Rashi; Chagigah 11b; the Vilna Gaon on *taavah*, *chemdah* and *chefetz*; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Malbim on *taavah* and *chemdah*, and on *chefetz* and *ratzon*; Rabbi Tzvi Yehuda Kook on *chefetz* and *ratzon*.
