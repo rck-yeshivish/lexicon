@@ -63,19 +63,21 @@ how."
 ### zvul (זבול)
 Named at Leah's naming of Zevulun, "this time my husband will dwell with me
 (*yizbeleini*)" (Bereishis 30:20). Two further names in Tanach seem to be
-related: Zevul, the city official in Shechem who stayed loyal to
-Avimelech (Shoftim 9), and Izevel, the Tyrian princess who married Achav and
-pushed him toward avodah zarah. Rav Hirsch (there): *zvul* is not a mere
-dwelling but a home that fully answers every purpose of the one it is meant for.
-Hence its use for the Beis HaMikdash (so *Rosh Hashanah*
-17a; and see Melachim I 8:13, Divrei HaYamim II 6:2, Yeshayahu 63:15): the
-fitting place for the Shechinah to rest. He connects the Mishnaic *zevel*
-(fertilizer), which likewise readies the ground to be a fitting dwelling for
-seed so that it may flourish there. When Chavakuk, looking back at Yehoshua
-stopping the sun and moon (Yehoshua 10:13), says that the sun and moon stood in
-their *zvul* (3:11), the commentators, Targum and Radak among them, explain it as the place where they dwell,
-that is, they stood still in their tracks. The Gemara (Chagigah 12b) gives Zevul
-as the name of one of the seven heavens.
+related: Zevul, the city official in Shechem who stayed loyal to Avimelech
+(Shoftim 9), and Izevel, the Tyrian princess who married Achav and pushed him
+toward avodah zarah.
+
+- Rav Hirsch (there): *zvul* is not a mere dwelling but a home that fully
+  answers every purpose of the one it is meant for. Hence its use for the Beis
+  HaMikdash (so *Rosh Hashanah* 17a; and see Melachim I 8:13, Divrei HaYamim II
+  6:2, Yeshayahu 63:15): the fitting place for the Shechinah to rest. He
+  connects the Mishnaic *zevel* (fertilizer), which likewise readies the ground
+  to be a fitting dwelling for seed so that it may flourish there.
+- When Chavakuk, looking back at Yehoshua stopping the sun and moon (Yehoshua
+  10:13), says that the sun and moon stood in their *zvul* (3:11), the
+  commentators, Targum and Radak among them, explain it as the place where they
+  dwell, that is, they stood still in their tracks.
+- The Gemara (Chagigah 12b) gives Zevul as the name of one of the seven heavens.
 
 In Ugaritic, Akkadian and other Semitic languages, cognates of *zvul* (*zabalu*)
 mean to lift or to elevate. On that basis Rabbi Dovid Tzvi Hoffmann suggests
@@ -85,12 +87,14 @@ Arabic cognate that means butter or grease, oily food rising to the top when
 mixed with water.
 
 ### armon (ארמון)
-The most common word, 32 times in Tanach. Ibn Janach and Rabbi Shlomo Pappenheim
-put the root at ר-ו-ם, height, palaces being tall buildings. Radak cites that
-and then concludes that *armon* has a root of its own, א-ר-מ; Menachem Ibn Saruk
-assigns it the four-letter root א-ר-מ-נ. Ibn Janach, invoking the interchange of
-lamed and reish, holds that *almon* (Yechezkel 19:7, Yeshayahu 13:22) is the
-same word.
+The most common word, 32 times in Tanach.
+
+- Ibn Janach and Rabbi Shlomo Pappenheim put the root at ר-ו-ם, height, palaces
+  being tall buildings.
+- Radak cites that and then concludes that *armon* has a root of its own, א-ר-מ.
+- Menachem Ibn Saruk assigns it the four-letter root א-ר-מ-נ.
+- Ibn Janach, invoking the interchange of lamed and reish, holds that *almon*
+  (Yechezkel 19:7, Yeshayahu 13:22) is the same word.
 
 *Armon* appears both for a king's residence
 (Melachim I 16:18, Melachim II 15:25, Yirmiyahu 49:27) and for a fortified
@@ -106,11 +110,15 @@ Abaye's had fallen (Berachos 56a), in the debtor who owned two of them (Kesubos
 91b), and in the cases where Rav Nachman let creditors seize a man's *apadna*
 (Bava Kamma 21a, Bava Metzia 35a, Kesubos 50b).
 
-Its origin is disputed. Rabbi Ernest Klein
-takes *apadna* from Old Persian, a language of the Indo-European family. Dr.
-Chaim Tawil traces it instead to the Akkadian *appadanu*, which he understands
-as a colonnaded audience hall, and holds the word to be of Semitic origin and
-not Indo-European. An Arabic cognate, *fadan*, means palace or high tower.
+Its origin is disputed.
+
+- Rabbi Ernest Klein takes *apadna* from Old Persian, a language of the
+  Indo-European family.
+- Dr. Chaim Tawil traces it instead to the Akkadian *appadanu*, which he
+  understands as a colonnaded audience hall, and holds the word to be of Semitic
+  origin and not Indo-European.
+
+An Arabic cognate, *fadan*, means palace or high tower.
 
 Rabbi Pappenheim traces *apadna* to the biliteral פ-ד, redemption or freedom
 (as in *pidyon*, *pedus*). From that root he takes *eifod*, the vestment worn by
@@ -128,22 +136,25 @@ Shir HaShirim 8:9, Tehillim 69:26, Divrei HaYamim I 6:39), apparently an
 enclosed fort, perhaps a fortified village. Ibn Ezra (to Bereishis 25:16) says it means
 the same as *armon*.
 
-Rabbi Pappenheim puts its root at ט-ר, a straight line, which yields *tur*
-(row), *matarah* (target, shot at straight), and *matar* (rain, falling
-straight down); a *tirah* is typically built by arranging rows of boards. Radak likewise
-derives *tirah* from *tur*, adding that such structures are typically built of
-rows of hewn stone. Rabbi Pappenheim offers a second route from the same root, through
-*netirah* (guarding, keeping watch), since watching over something requires
-keeping one's thoughts straight on it without deviating; related are *tahor*
-(pure, a state kept only by watching) and *iter* (shut, so closely guarded that
-it is locked up entirely). On this second reading a *tirah* is an impenetrable
-fortress that none can enter or leave. Rabbi David Chaim Chelouche writes
-similarly that *tirah* is from ט-ר in the sense of guarding, a fort built to
-protect a king's subjects, generally walled about, and so akin to *atarah*
-(crown), the ornament that goes around a royal head, which he derives from a
-combination of the roots ע-ט, cover, and ט-ר, guard. Rabbi Chelouche, the late
-Chief Rabbi of Netanya, also claims that the English *tower* comes from *tirah*,
-though linguists derive *tower* from the Latin *turris*.
+- Rabbi Pappenheim puts its root at ט-ר, a straight line, which yields *tur*
+  (row), *matarah* (target, shot at straight), and *matar* (rain, falling
+  straight down); a *tirah* is typically built by arranging rows of boards.
+- Radak likewise derives *tirah* from *tur*, adding that such structures are
+  typically built of rows of hewn stone.
+- Rabbi Pappenheim offers a second route from the same root, through *netirah*
+  (guarding, keeping watch), since watching over something requires keeping
+  one's thoughts straight on it without deviating; related are *tahor* (pure, a
+  state kept only by watching) and *iter* (shut, so closely guarded that it is
+  locked up entirely). On this second reading a *tirah* is an impenetrable
+  fortress that none can enter or leave.
+- Rabbi David Chaim Chelouche writes similarly that *tirah* is from ט-ר in the
+  sense of guarding, a fort built to protect a king's subjects, generally walled
+  about, and so akin to *atarah* (crown), the ornament that goes around a royal
+  head, which he derives from a combination of the roots ע-ט, cover, and ט-ר,
+  guard.
+- Rabbi Chelouche, the late Chief Rabbi of Netanya, also claims that the English
+  *tower* comes from *tirah*, though linguists derive *tower* from the Latin
+  *turris*.
 
 ### paltin / paltrin (פלטין)
 The late Hebrew word (Sanhedrin 2:3, 10:5), the cognate of the English *palace*.

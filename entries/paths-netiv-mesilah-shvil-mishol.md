@@ -88,31 +88,36 @@ street. In a second use, *rechovah shel ir* is the open square within a town
 In Modern Hebrew it is a traffic lane.
 
 ### mesilah (מסילה)
-Malbim: a paved path, and usually the pedestrian walk at a street's edge. The
-word *maslul*, a planned route or itinerary, is related to it. Wertheimer adds
-that it is generally straight as well as paved. The stars are said to travel in
-a *mesilah* (Shoftim 5:20) because they appear to travel in a straight,
-pre-planned course. The word choice in Bamidbar carries weight: Bnei Yisrael
-first ask Edom for passage on his *derech* (20:17) and, after the refusal, ask
-instead for his *mesilah* (20:19), and are refused again. Why the second wording
-should have been more acceptable to Edom Rabbi Klein does not know; he offers,
-with a question mark, that perhaps it would not have affected traffic.
+
+- Malbim: a paved path, and usually the pedestrian walk at a street's edge. The
+  word *maslul*, a planned route or itinerary, is related to it.
+- Wertheimer adds that it is generally straight as well as paved. The stars are
+  said to travel in a *mesilah* (Shoftim 5:20) because they appear to travel in
+  a straight, pre-planned course.
+
+The word choice in Bamidbar carries weight: Bnei Yisrael first ask Edom for
+passage on his *derech* (20:17) and, after the refusal, ask instead for his
+*mesilah* (20:19), and are refused again. Why the second wording should have
+been more acceptable to Edom Rabbi Klein does not know; he offers, with a
+question mark, that perhaps it would not have affected traffic.
 
 ### maagal (מעגל)
-The Vilna Gaon: from *igul*, a circle, so a *maagal* is a roundabout road.
-Wertheimer: this circular road bears no utilitarian function in getting a man
-from one place to another. It is the scenic route, where the journey is the
-destination; the racetrack; the ground for military training.
+
+- The Vilna Gaon: from *igul*, a circle, so a *maagal* is a roundabout road.
+- Wertheimer: this circular road bears no utilitarian function in getting a man
+  from one place to another. It is the scenic route, where the journey is the
+  destination; the racetrack; the ground for military training.
 
 ### mishol (משעול)
 A *hapax legomenon*, appearing once in Tanach, in the *mishol hakeramim* that
-Bilam's donkey walked (Bamidbar 22:24). The root ש-ע-ל is a step or the bottom of
-the foot (Melachim I 20:10, Yeshayahu 40:12), so a footpath. Rabbi Shlomo
-Pappenheim of Breslau (1740-1814): a road that will carry pedestrians or a
-mounted rider but not the weight of a caravan or wagon. Rabbi Moshe Shapiro
-(1935-2017) alternatively ties *mishol* to *shual*, a fox, and reads it as the
-track foxes cut through a vineyard as they partially destroy it (Shir HaShirim
-2:15).
+Bilam's donkey walked (Bamidbar 22:24). The root ש-ע-ל is a step or the bottom
+of the foot (Melachim I 20:10, Yeshayahu 40:12), so a footpath.
+
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814): a road that will carry
+  pedestrians or a mounted rider but not the weight of a caravan or wagon.
+- Rabbi Moshe Shapiro (1935-2017) alternatively ties *mishol* to *shual*, a fox,
+  and reads it as the track foxes cut through a vineyard as they partially
+  destroy it (Shir HaShirim 2:15).
 
 ### shvil (שביל)
 - Rav Hirsch (1808-1888): related to *shafel*, lowly, a path on a steep downward

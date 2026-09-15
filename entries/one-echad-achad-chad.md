@@ -77,11 +77,14 @@ not so much as taken a donkey from *hekdesh*, unlike the standard practice of
 political leaders, and was certainly not guilty of Korach's charge.
 
 ### the dispute the two forms answer
-Rashi and Targum Onkelos read that first clause as "a donkey of one of them,"
-with *echad* meaning one of the people. Other commentators, among them Rashi's
-own grandson Rashbam, and Chizkuni and Ramban, read it otherwise: "I did not take one
-donkey from them," *echad* attaching to the donkey and not to the people, since
-otherwise the Torah should have written *achad* as it does in the second clause.
+
+- Rashi and Targum Onkelos read that first clause as "a donkey of one of them,"
+  with *echad* meaning one of the people.
+- Other commentators, among them Rashi's own grandson Rashbam, and Chizkuni and
+  Ramban, read it otherwise: "I did not take one donkey from them," *echad*
+  attaching to the donkey and not to the people, since otherwise the Torah
+  should have written *achad* as it does in the second clause.
+
 It is against that objection that Rabbi Wolf Heidenheim defends Rashi, and his
 two forms of *achad* are the defense. (His explanation is quoted by Rabbi Yaakov
 Tzvi Mecklenburg, *HaKtav VaHaKabbalah* to Bamidbar 16:15; see also Rabbi Shlomo
@@ -121,11 +124,13 @@ it should mean the opposite, which implies that Malbim did not accept
 Heidenheim's explanation.
 
 ### ach (אח)
-Normally "brother" (also an exclamation of grief, and an "oven"). Rabbi Yonah
-Ibn Janach and Radak (to Yechezkel 18:10 and in *Sefer HaShorashim*) insist that
-in that one pasuk it means "one." Other commentators, Targum and Rashi among them, keep "brother" there. Ibn
-Janach finds a second case in Tehillim 49:8; Radak rejects it and reads
-"brother."
+Normally "brother" (also an exclamation of grief, and an "oven").
+
+- Rabbi Yonah Ibn Janach and Radak (to Yechezkel 18:10 and in *Sefer
+  HaShorashim*) insist that in that one pasuk it means "one."
+- Other commentators, Targum and Rashi among them, keep "brother" there.
+- Ibn Janach finds a second case in Tehillim 49:8; Radak rejects it and reads
+  "brother."
 
 ### chad (חד) and chadah (חדה)
 Radak (to Yechezkel 33:30 and *Sefer HaShorashim*): *chad* is *echad* with the
@@ -135,26 +140,33 @@ other five are the Aramaic of Daniel (2:31, 3:19, 6:3, 7:5, 7:16). Feminine
 the definite *aleph* is not in Tanach but is common in the Bavli and Targumim.
 
 ### achat / echat (אחת)
-The feminine. Ibn Janach (*Sefer HaShorashim*): feminine of *echad*/*achad*,
-where the expected *echadet* drops its *dalet* (probably, Rabbi Klein suggests, to
-avoid *dalet* and *tav* back to back). Radak in *Sefer HaShorashim* disagrees, making *achat*/*echat* the
-feminine of *ach* and holding that *echad*/*achad* have no true feminine; in his
-*Michlol* he treats all of them as one stock, *ach* being *echad* minus the
-*dalet* and *chad* being *echad* minus the *aleph*. Practically, *achat* (over
-200 times) is the standard form and *echat* (under 70) the positional variant,
-typically at the end of a pasuk or under an *esnachta*, so the pair is one word
-and not two senses.
+The feminine.
+
+- Ibn Janach (*Sefer HaShorashim*): feminine of *echad*/*achad*, where the
+  expected *echadet* drops its *dalet* (probably, Rabbi Klein suggests, to avoid
+  *dalet* and *tav* back to back).
+- Radak in *Sefer HaShorashim* disagrees, making *achat*/*echat* the feminine of
+  *ach* and holding that *echad*/*achad* have no true feminine; in his *Michlol*
+  he treats all of them as one stock, *ach* being *echad* minus the *dalet* and
+  *chad* being *echad* minus the *aleph*.
+
+Practically, *achat* (over 200 times) is the standard form and *echat*
+(under 70) the positional variant, typically at the end of a pasuk or under
+an *esnachta*, so the pair is one word and not two senses.
 
 ### the biliteral reading
-Rabbi Shlomo Pappenheim traces *echad*, *achad* and *chad* to the two-letter
-root ח-ד, "singularity," what has no counterpart to make it two. From it he
-derives *yachad* ("together," many sub-units become one), *chad*/*chidud*
-("sharp," the whole force brought onto one point), and *chidah* ("riddle," which
-takes all of one's mental force sharpened onto a single question). Pappenheim
-does not treat *ach* here, seemingly because he holds it never means "one."
-Biliteralists in the mold of Menachem Ibn Saruk and Pappenheim keep *ach* ("brother," א-ח) separate from the *one* words, which they
-trace to (א-)ח-ד; Rabbi Shmuel Yehudah Steiger (*Avnei Shayish*) joins them, all
-of them naming a closeness and joining together, like brotherhood.
+
+- Rabbi Shlomo Pappenheim traces *echad*, *achad* and *chad* to the two-letter
+  root ח-ד, "singularity," what has no counterpart to make it two. From it he
+  derives *yachad* ("together," many sub-units become one), *chad*/*chidud*
+  ("sharp," the whole force brought onto one point), and *chidah* ("riddle,"
+  which takes all of one's mental force sharpened onto a single question).
+  Pappenheim does not treat *ach* here, seemingly because he holds it never
+  means "one."
+- Biliteralists in the mold of Menachem Ibn Saruk and Pappenheim keep *ach*
+  ("brother," א-ח) separate from the *one* words, which they trace to (א-)ח-ד.
+- Rabbi Shmuel Yehudah Steiger (*Avnei Shayish*) joins them, all of them naming
+  a closeness and joining together, like brotherhood.
 
 ### the aleph of echad
 Rabbi Yehonosson Eybeschutz writes that Adam spoke Hebrew before eating from the

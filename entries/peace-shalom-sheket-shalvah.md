@@ -62,13 +62,15 @@ English "peace" and may also be an ancestor of the Mishnaic Hebrew *piyus*,
 Shlomo HaMelech, whose very name is a cognate of *shalom*.
 
 ### shalom (שלום)
-Root ש-ל-ם; Pappenheim takes it back to ש-ל, removed or taken away (שַׁל נעליך,
-Shemos 3:5; *sheol*, *shalal*): *shalem* is that from which nothing removed is
-still missing, complete, and *shalom* is having every good needed for prosperity
-with nothing lacking. Elsewhere he defines it as the absence of friction among
-multiple parties; Hashem is *Adon HaShalom* (Maariv of Shabbos) and *Melech
-SheHaShalom Shelo* (Shir HaShirim Rabbah 3:14) because He has no conflicting
-parts and is at peace with Himself.
+Root ש-ל-ם.
+
+- Pappenheim takes it back to ש-ל, removed or taken away (שַׁל נעליך, Shemos
+  3:5; *sheol*, *shalal*): *shalem* is that from which nothing removed is still
+  missing, complete, and *shalom* is having every good needed for prosperity
+  with nothing lacking. Elsewhere he defines it as the absence of friction among
+  multiple parties; Hashem is *Adon HaShalom* (Maariv of Shabbos) and *Melech
+  SheHaShalom Shelo* (Shir HaShirim Rabbah 3:14) because He has no conflicting
+  parts and is at peace with Himself.
 - Bedersi (Divrei HaYamim I 22:9): the opposite of war, the cessation of
   hostilities.
 - Wertheimer: *shalom* (with *shalvah*) is total peace and harmony.
@@ -76,23 +78,35 @@ parts and is at peace with Himself.
   the sense of inner peace.
 
 ### shalvah (שלוה)
-Root ש-ל-ה, from Pappenheim's ש-ל: the state in which every disturbance has been
-removed; hence *moshel* and *memshalah*, the rulers whose task is to keep it.
-Bedersi ranks it with *shalom*; Wertheimer groups the two as total peace. Why
-do both of them pair the words? Rabbi Klein suggests that the answer may lie in their shared etymological root, the biliteral ש-ל.
-Pappenheim, after entertaining synonymy, concludes that *shalom* is the more
-all-encompassing state, which can show itself in all sorts of harmonious
-relationships, while *shalvah* is one peaceful relationship within a wider discord. Malbim: *shalvah* is inner peace, *shalom*
-external. The verb *shalu* sometimes means to be at ease (Rashi and Ibn Ezra to
-Eichah 1:5) and sometimes to sin unwittingly (Melachim II 4:28, Shmuel II 6:7, Divrei HaYamim II
-29:11; the Targumim typically render *shogeg* as *shaluta*, and see Daniel 6:5,
-Rashi to Rus 2:16 and Ramban to Bereishis 38:5). How do the two meanings converge in
-one word? Bedersi: the complacency of
-*shalvah* easily breeds indolence, which leaves a man not careful enough to avoid
-sin; Rav Hirsch (Bereishis 8:1, Vayikra 5:4) similarly reads the double meaning as
-an allusion to the possible negative side of tranquility, since a man can become
-content with his present spiritual stature, stop striving for greater perfection,
-smugly keep to his tried and tested ways, and so start down the slope toward sin.
+
+- Root ש-ל-ה, from Pappenheim's ש-ל: the state in which every disturbance has
+  been removed; hence *moshel* and *memshalah*, the rulers whose task is to keep
+  it.
+- Bedersi ranks it with *shalom*.
+- Wertheimer groups the two as total peace.
+
+Why do both of them pair the words? Rabbi Klein suggests that the answer may lie
+in their shared etymological root, the biliteral ש-ל.
+
+- Pappenheim, after entertaining synonymy, concludes that *shalom* is the more
+  all-encompassing state, which can show itself in all sorts of harmonious
+  relationships, while *shalvah* is one peaceful relationship within a wider
+  discord.
+- Malbim: *shalvah* is inner peace, *shalom* external.
+
+The verb *shalu* sometimes means to be at ease (Rashi and Ibn Ezra to Eichah
+1:5) and sometimes to sin unwittingly (Melachim II 4:28, Shmuel II 6:7, Divrei
+HaYamim II 29:11; the Targumim typically render *shogeg* as *shaluta*, and see
+Daniel 6:5, Rashi to Rus 2:16 and Ramban to Bereishis 38:5). How do the two
+meanings converge in one word?
+
+- Bedersi: the complacency of *shalvah* easily breeds indolence, which leaves a
+  man not careful enough to avoid sin.
+- Rav Hirsch (Bereishis 8:1, Vayikra 5:4) similarly reads the double meaning as
+  an allusion to the possible negative side of tranquility, since a man can
+  become content with his present spiritual stature, stop striving for greater
+  perfection, smugly keep to his tried and tested ways, and so start down the
+  slope toward sin.
 
 ### sheket (שקט)
 Root ש-ק-ט.

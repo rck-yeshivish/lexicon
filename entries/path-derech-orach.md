@@ -134,11 +134,12 @@ The street of a settled place. Some explain that a *derech* is specifically an
 intercity road and a *rechov* specifically an intracity one.
 
 ### netiv (נתיב)
-Two distinctions, both drawn against *derech*. First, others explain that a
-*derech* denotes the longer and/or wider road and a *netiv* the shorter and/or
-narrower one. Second, an approach found in the Zohar: a *derech* is open to
-the public, while a *netiv* is for private use and is open only to select
-individuals.
+Two distinctions, both drawn against *derech*.
+
+- First, others explain that a *derech* denotes the longer and/or wider road and
+  a *netiv* the shorter and/or narrower one.
+- Second, an approach found in the Zohar: a *derech* is open to the public,
+  while a *netiv* is for private use and is open only to select individuals.
 
 ### mesilah (מסילה)
 A paved road: a *mesilah* is said to refer specifically to a paved path.

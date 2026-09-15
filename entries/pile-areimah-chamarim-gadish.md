@@ -80,26 +80,32 @@ carries "cleverness" (Bereishis 3:1, Iyov 5:12, Mishlei 19:25) and "nakedness."
   none along its length, so that it looks "naked."
 
 ### chamarim (חמרים)
-Seemingly from the root ח-מ-ר. Three times in Tanach for "piles": twice in Shemos 8:10 (the dead
-frogs gathered *chamarim chamarim*) and once in Bamidbar 11:32. In the Mishnah
-at *Uktzin* 2:5, a heap of onions amassed into one grouping (*chamran*); Rabbi
-Sherirah Gaon (906-1006) notes in commenting there that the verb used for
-amassing the onions cognates with the biblical *chamarim chamarim*, as does
-Rambam in his commentary there. Rav Hirsch (to Bereishis 1:22-23
-and 11:3) reads ח-מ-ר as unification and conglomeration of many components,
-which is why *chomer* is "matter," *chamarim* are piles of like items, and
-*cheimar* is the mortar that unifies bricks (Bereishis 11:3, 14:10, Shemos 2:3).
+Seemingly from the root ח-מ-ר. Three times in Tanach for "piles": twice in
+Shemos 8:10 (the dead frogs gathered *chamarim chamarim*) and once in Bamidbar
+11:32. In the Mishnah at *Uktzin* 2:5, a heap of onions amassed into one
+grouping (*chamran*).
+
+- Rabbi Sherirah Gaon (906-1006) notes in commenting there that the verb used
+  for amassing the onions cognates with the biblical *chamarim chamarim*, as
+  does Rambam in his commentary there.
+- Rav Hirsch (to Bereishis 1:22-23 and 11:3) reads ח-מ-ר as unification and
+  conglomeration of many components, which is why *chomer* is "matter,"
+  *chamarim* are piles of like items, and *cheimar* is the mortar that unifies
+  bricks (Bereishis 11:3, 14:10, Shemos 2:3).
 
 ### gadish (גדיש) and omer (עמר)
-Rambam (to *Peah* 6:2 and *Eduyos* 4:4) defines a *gadish* as an *areimah* of
-*amarim*, that is, a stack made of sheaves; Rabbi Klein reads him as having
-chosen those two related words on purpose because they are indeed synonymous,
-citing Rabbi Yaakov Emden's *Mishneh Lechem* to *Peah* 5:1. Rabbi Shlomo
-Pappenheim distinguishes them: a *gadish* is grain still inside the sheaf, an
-*areimah* is grain already threshed out and so revealed. Rabbi Klein notes that
-this runs contra Rambam, who seems to equate *gadish* and *areimah*. Rav Hirsch groups *omer/amar* ("bundling" stalks) with *chamarim*
-and with *amar* ("statement," many words gathered on one theme), all through
-the interchange of aleph, ches and ayin.
+
+- Rambam (to *Peah* 6:2 and *Eduyos* 4:4) defines a *gadish* as an *areimah* of
+  *amarim*, that is, a stack made of sheaves; Rabbi Klein reads him as having
+  chosen those two related words on purpose because they are indeed synonymous,
+  citing Rabbi Yaakov Emden's *Mishneh Lechem* to *Peah* 5:1.
+- Rabbi Shlomo Pappenheim distinguishes them: a *gadish* is grain still inside
+  the sheaf, an *areimah* is grain already threshed out and so revealed. Rabbi
+  Klein notes that this runs contra Rambam, who seems to equate *gadish* and
+  *areimah*.
+- Rav Hirsch groups *omer/amar* ("bundling" stalks) with *chamarim* and with
+  *amar* ("statement," many words gathered on one theme), all through the
+  interchange of aleph, ches and ayin.
 
 ### The relation between areimah and chamarim
 Rabbi Klein proposes, without a source, that the connection "does seem tenable"

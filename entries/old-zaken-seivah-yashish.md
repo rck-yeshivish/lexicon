@@ -70,13 +70,15 @@ reliability, not "old."
 
 ### zaken (זקן)
 The Mishnah's stage list (*Avos* 5:24) sets *zaken* at sixty and *seivah* at
-seventy. Rabbi Avraham Bedersi HaPenini concludes from this,
-and from two pesukim which imply that a man is a *zaken* before he reaches *seivah*
-(Shmuel I 12:2; Yeshayahu 46:4), that *seivah* is the later stage. Rabbi Yehuda
-Leib Shapira-Frankfurter (*HaRechasim LeVik'ah*): *zaken* belongs to people and
-animals, not to plants; Iyov 14:8, which calls a plant's root *zaken*, is a
-borrowed usage and not the word's primary sense. The Targumim tend to render *zaken*
-either *kashish* or *sav*.
+seventy.
+
+- Rabbi Avraham Bedersi HaPenini concludes from this, and from two pesukim which
+  imply that a man is a *zaken* before he reaches *seivah* (Shmuel I 12:2;
+  Yeshayahu 46:4), that *seivah* is the later stage.
+- Rabbi Yehuda Leib Shapira-Frankfurter (*HaRechasim LeVik'ah*): *zaken* belongs
+  to people and animals, not to plants; Iyov 14:8, which calls a plant's root
+  *zaken*, is a borrowed usage and not the word's primary sense.
+- The Targumim tend to render *zaken* either *kashish* or *sav*.
 
 ### seivah (שיבה)
 Old age at seventy. Rabbi Eliezer Reines
@@ -86,22 +88,28 @@ Old age at seventy. Rabbi Eliezer Reines
 *saba*, an old man or a grandfather.
 
 ### yashish (ישיש)
-Radak (*Sefer HaShorashim*) places *yashish* after *seivah* on the strength of
-Iyov 15:10, so *yashish* marks a more advanced age than *seivah*; Bedersi
-suggests it may name the Mishnah's next stage, ninety, "bent over." Radak
-derives it from *yesh*: one who has existed a very long time. The word appears
-only four times in Tanach, all in Iyov (12:12, 15:10, 29:8, 32:6).
+
+- Radak (*Sefer HaShorashim*) places *yashish* after *seivah* on the strength of
+  Iyov 15:10, so *yashish* marks a more advanced age than *seivah*.
+- Bedersi suggests it may name the Mishnah's next stage, ninety, "bent over."
+- Radak derives it from *yesh*: one who has existed a very long time.
+
+The word appears only four times in Tanach, all in Iyov (12:12, 15:10, 29:8,
+32:6).
 
 ### kashish (קשיש)
 The Aramaic equivalent, the Targum's standing rendering of *yashish* and one of
-its two usual renderings of *zaken*. Rabbeinu Chananel (Bava Metzia 109b) and Rabbi
-Nosson of Rome (*Sefer HeAruch*): Aramaic *kash* derives from *kashish*, which
-carries the same sense as *yashish*. As for how the two words connect
-etymologically, Rabbi Reuven Chaim Klein reports that the only idea he could
-find is an unlikely one, proposed by Rabbi Mordechai Tzvi Herzka (*Divrei
-Chachamim*): that aleph, yud and kuf can interchange because in gematria they are the first number of
-the ones, the tens and the hundreds respectively, so the yud of Hebrew *yashish*
-becomes the kuf of Aramaic *kashish*.
+its two usual renderings of *zaken*.
+
+- Rabbeinu Chananel (Bava Metzia 109b) and Rabbi Nosson of Rome (*Sefer
+  HeAruch*): Aramaic *kash* derives from *kashish*, which carries the same sense
+  as *yashish*.
+- As for how the two words connect etymologically, Rabbi Reuven Chaim Klein
+  reports that the only idea he could find is an unlikely one, proposed by Rabbi
+  Mordechai Tzvi Herzka (*Divrei Chachamim*): that aleph, yud and kuf can
+  interchange because in gematria they are the first number of the ones, the
+  tens and the hundreds respectively, so the yud of Hebrew *yashish* becomes the
+  kuf of Aramaic *kashish*.
 
 ### yashan (ישן)
 Old of plants rather than of persons. Shapira-Frankfurter pairs it against

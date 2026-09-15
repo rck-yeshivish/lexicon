@@ -54,44 +54,53 @@ difference between the words does not lie in the extent of their impact.
 The fifth *makkah*, the sudden death of Egypt's horses, donkeys, camels, cattle
 and sheep, and the word Moshe uses twice in warning about the tenth (Shemos 5:3,
 9:15). That *dever* denotes a plague bringing death finds support in the cognate
-languages: in other Semitic languages words spelled DBR mean "death." Rabbi Shlomo Pappenheim of Breslau (1740-1814) links *dever* to *devorah*
-("bee"), because *dever* raises lesions on the body before it kills, and those
-lesions somewhat resemble the inflammation of an allergic reaction to a bee sting;
-his understanding, Rabbi Klein observes, seems consistent with descriptions of the
-bubonic plague, which is held responsible for the death of about half of Europe's
-population in the fourteenth-century outbreak known as the Black Death, and which
-turns inflamed lymph nodes into black, blister-like buboes. Rabbi Yair Chaim
-Bachrach (1639-1702, *Chavos Yair*): *dever* is any deadly
-sickness that is contagious and can pass easily from person to person or family
-to family. The idea is found in the Mishnah (*Taanis* 3:4), which calls for fasts
-when there is *dever* in a city and defines it as three deaths in three days in
-a city of five hundred adult men, on the assumption that so many deaths in so
-short a span must mean an infectious disease (against a world death rate per day,
-reported by the Ecology Global Network, of eight per thousand people);
-and in the Gemara (*Bava Kama* 60b), which advises staying indoors when
-there is *dever* in the city. By contrast with *mageifah* (below), *dever* is the sudden death by
-pestilence that leaves no visible wound on any one part of the body.
+languages: in other Semitic languages words spelled DBR mean "death."
+
+- Rabbi Shlomo Pappenheim of Breslau (1740-1814) links *dever* to *devorah*
+  ("bee"), because *dever* raises lesions on the body before it kills, and those
+  lesions somewhat resemble the inflammation of an allergic reaction to a bee
+  sting; his understanding, Rabbi Klein observes, seems consistent with
+  descriptions of the bubonic plague, which is held responsible for the death of
+  about half of Europe's population in the fourteenth-century outbreak known as
+  the Black Death, and which turns inflamed lymph nodes into black, blister-like
+  buboes.
+- Rabbi Yair Chaim Bachrach (1639-1702, *Chavos Yair*): *dever* is any deadly
+  sickness that is contagious and can pass easily from person to person or
+  family to family. The idea is found in the Mishnah (*Taanis* 3:4), which calls
+  for fasts when there is *dever* in a city and defines it as three deaths in
+  three days in a city of five hundred adult men, on the assumption that so many
+  deaths in so short a span must mean an infectious disease (against a world
+  death rate per day, reported by the Ecology Global Network, of eight per
+  thousand people); and in the Gemara (*Bava Kama* 60b), which advises staying
+  indoors when there is *dever* in the city. By contrast with *mageifah*
+  (below), *dever* is the sudden death by pestilence that leaves no visible
+  wound on any one part of the body.
 
 ### mageifah (מגפה)
-Root ג-פ-ה (the strong letters are gimmel and peh). Rashi (to Shemos 7:27):
-*mageifah* does not denote death at all but striking, smiting, pushing; he says
-the same to Shemos 21:22 and 21:35 and at *Bava Kama* 2b. This is how he answers
-why *tzfardea* counts as a *mageifah* when frogs do not kill: the word never
-required death in the first place. Abarbanel rejects that premise, holds that
-*mageifah* is inherently lethal, and is therefore driven to Rabbeinu Chananel's
-reading that *tzfardea* are crocodiles rather than frogs. On Rashi's line, as
-Rabbi Klein explains it, *mageifah* is the general term for any striking of an
-opponent. Rabbi Yair Chaim Bachrach gives it a narrower sense: an infected wound
-that can spread like venom through the limbs and the bloodstream, which fits the
-ג-פ-ה family of words for striking one particular part of the body and sometimes
-letting the harm travel from there. *Mageifah*, as against *dever*, describes what the striker does in
-bringing the plague, rather than what the victim contracts.
+Root ג-פ-ה (the strong letters are gimmel and peh).
+
+- Rashi (to Shemos 7:27): *mageifah* does not denote death at all but striking,
+  smiting, pushing; he says the same to Shemos 21:22 and 21:35 and at *Bava
+  Kama* 2b. This is how he answers why *tzfardea* counts as a *mageifah* when
+  frogs do not kill: the word never required death in the first place.
+- Abarbanel rejects that premise, holds that *mageifah* is inherently lethal,
+  and is therefore driven to Rabbeinu Chananel's reading that *tzfardea* are
+  crocodiles rather than frogs.
+- On Rashi's line, as Rabbi Klein explains it, *mageifah* is the general term
+  for any striking of an opponent.
+- Rabbi Yair Chaim Bachrach gives it a narrower sense: an infected wound that
+  can spread like venom through the limbs and the bloodstream, which fits the
+  ג-פ-ה family of words for striking one particular part of the body and
+  sometimes letting the harm travel from there. *Mageifah*, as against *dever*,
+  describes what the striker does in bringing the plague, rather than what the
+  victim contracts.
 
 ### negef (נגף)
-The exception inside the ג-פ-ה family. Malbim: *negef* does denote a plague that
-brings certain death. Rashi (to Shemos 30:12) defines *negef* as *dever*, and
-Rabbi Menachem ibn Saruk runs the definition the other way, defining *dever* as
-*negef*.
+The exception inside the ג-פ-ה family.
+
+- Malbim: *negef* does denote a plague that brings certain death.
+- Rashi (to Shemos 30:12) defines *negef* as *dever*, and Rabbi Menachem ibn
+  Saruk runs the definition the other way, defining *dever* as *negef*.
 
 ### The rejected view
 Rabbi Yair Chaim Bachrach cites an anonymous sage who held that *dever* and

@@ -56,15 +56,15 @@ without it one would think Paroh was the king's personal name and the butler had
 used it to his face, which would be an insolence. Ibn Ezra there makes a similar
 point.
 
-As to what the word means, Abarbanel (1437-1508) and Rabbi Avraham Menachem
-Rappaport (1520-1596) read it as a contraction marking the king's depravity,
-either *po'el ra*, doer of evil, or *peh ra*, bad mouth. Rabbi Eliezer ben
-Eliyahu Ashkenazi (1515-1585) claims in *Maaseh Hashem* that the Egyptians spoke
-Latin or Italian, and on that premise that Paroh means "master" in Italian;
-Rabbi Klein reports that after consulting experts he remains unable to confirm
-this, and that it is virtually a historical fact that the Egyptians spoke
-Egyptian, not Latin. Academia tends to explain that Paroh means "the great
-house."
+- As to what the word means, Abarbanel (1437-1508) and Rabbi Avraham Menachem
+  Rappaport (1520-1596) read it as a contraction marking the king's depravity,
+  either *po'el ra*, doer of evil, or *peh ra*, bad mouth.
+- Rabbi Eliezer ben Eliyahu Ashkenazi (1515-1585) claims in *Maaseh Hashem* that
+  the Egyptians spoke Latin or Italian, and on that premise that Paroh means
+  "master" in Italian; Rabbi Klein reports that after consulting experts he
+  remains unable to confirm this, and that it is virtually a historical fact
+  that the Egyptians spoke Egyptian, not Latin.
+- Academia tends to explain that Paroh means "the great house."
 
 ### Melech Mitzrayim (מלך מצרים)
 The King of Egypt, the office as the nation's head. It appears close to fifty
