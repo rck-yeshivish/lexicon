@@ -520,7 +520,7 @@ def main():
     <p class="wm-sub">Synonyms in the Hebrew Language</p>
     <p class="wm-by">By Rabbi Reuven Chaim Klein</p>
   </div>
-  <p class="lede">Search in Hebrew or in English. {n_words:,} words in {n_entries} groups of
+  <p class="lede">Search in Hebrew or in English. <span class="tally" data-to="{n_words}">{n_words:,}</span> words in <span class="tally" data-to="{n_entries}">{n_entries}</span> groups of
   near-synonyms, each with its own meaning and the source that draws the line.</p>
   <div class="bigsearch">
     <svg viewBox="0 0 24 24" class="mag" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
@@ -741,6 +741,7 @@ header.bare .brand{flex:1}
 @media (max-width:640px){.wm{font-size:34px}.wm-sub{font-size:16px}.wm-by{font-size:16px}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
 .lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
+.tally{font-variant-numeric:tabular-nums;display:inline-block;text-align:right;color:var(--ink);font-weight:500}
 /* margin:0 here would drop the auto side-margins that centre the block, leaving the text centred inside a left-hugging box rather than on the page */
 .browse .lede[lang="he"]{font-family:var(--heb);font-size:22px;margin:0 auto}
 .bigsearch{position:relative;max-width:620px;margin:0 auto}
@@ -1205,9 +1206,31 @@ function wireTabs(){
   }));
 }
 
+// The home page's word and group counts add themselves up from zero. The real
+// numbers are in the HTML, so a crawler, a reader without scripts, or anyone
+// who has asked the system to reduce motion simply sees them as they are.
+function tally(){
+  const els = document.querySelectorAll(".tally[data-to]");
+  if(!els.length || document.hidden || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  const fmt = n => n.toLocaleString("en-US");
+  const dur = 1300, t0 = performance.now();
+  const settle = () => els.forEach(el => { el.textContent = fmt(+el.dataset.to); });
+  els.forEach(el => { el.style.minWidth = el.offsetWidth + "px"; el.textContent = "0"; });
+  const step = now => {
+    const p = Math.min(1, (now - t0) / dur), e = 1 - Math.pow(1 - p, 3);
+    els.forEach(el => { el.textContent = fmt(Math.round(+el.dataset.to * e)); });
+    if(p < 1) requestAnimationFrame(step);
+  };
+  requestAnimationFrame(step);
+  // A browser pauses animation frames in a background tab; the real numbers
+  // must never be left showing zero.
+  setTimeout(settle, dur + 150);
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   wire();
   wireTabs();
+  tally();
   // Focus the home search without the browser scrolling the headline off-screen,
   // which is what plain autofocus does on a short viewport.
   const big = document.querySelector(".bigsearch #q");
