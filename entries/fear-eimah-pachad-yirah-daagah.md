@@ -5,6 +5,23 @@ roots: [א-י-ם, פ-ח-ד, י-ר-א, ד-א-ג]
 translit: [eimah, eima, aimah, aima, pachad, pachas, morah, mora, yirah, yira, yir'ah, daagah, da'agah, deagah, deaga]
 english: [dread, terror, fright, fear, worry, anxiety]
 domain: emotion
+words:
+  - he: אימה
+    tr: eimah
+    en: dread, terror
+    distinct: the felt emotion of being afraid, as against pachad, its outward manifestation (Ibn Ezra); for Rashi, eimah and pachad differ as fear of a distant threat and of a near one, the versions disagreeing on which is which
+  - he: פחד
+    tr: pachad
+    en: fright, fear
+    distinct: the sudden start of fear (Rashi), short-lived and so the less intense, and only of human beings, who grasp what a danger implies (Wertheimer); the outward manifestation of fear (Ibn Ezra)
+  - he: יראה
+    tr: yirah
+    en: fear
+    distinct: the general word, with its noun morah; fear pent up over time (Rashi), continual and building on itself, so the more intense (Wertheimer); fear of what might happen, as against daagah (Beis HaLevi)
+  - he: דאגה
+    tr: daagah
+    en: worry, anxiety
+    distinct: fear of losing what one has, or of a frightening situation arriving (Rashi); worry over what is foreseen as certain (Beis HaLevi); the despondency of one steeped in anxious fright (Wertheimer); an apprehension on slight grounds, from dag (Pappenheim)
 sources:
   - wiaw:7018 "Afraid of Fright or Ready to Fight" (2016-11-26) https://articles.ohr.edu/articles/afraid-of-fright-or-ready-to-fight
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
@@ -24,6 +41,15 @@ and its noun *morah* are the sustained fear that has built up over time: **fear*
 anxiety**. Rashi contrasts *pachad* as sudden with *morah* as pent up over time;
 for Rabbi Shlomo Aharon Wertheimer *pachad* is brief and *morah* continual and
 therefore the more intense.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אימה | eimah | dread, terror | the inner feeling of fear (Ibn Ezra); far or near threat, versions disagree (Rashi) |
+| פחד | pachad | fright, fear | sudden and brief (Rashi, Wertheimer); humans only (Wertheimer); fear's outward show (Ibn Ezra) |
+| יראה | yirah | fear | the general word; sustained, pent-up fear (Rashi), the more intense (Wertheimer) |
+| דאגה | daagah | worry, anxiety | fear of loss or coming evil (Rashi); what will surely happen (Beis HaLevi) |
 
 ## Distinctions
 

@@ -6,6 +6,14 @@ translit: [meitzach, metzach, meizach, mitzcho, padachat, padachas, padachta, pe
 english: [forehead, brow, top of the head]
 domain: body
 words:
+  - he: מצח
+    tr: meitzach
+    en: forehead, top of the head
+    distinct: the biblical word; the forehead, one with padachat (Rav Hai Gaon, Rabbeinu Chananel); in Tanach perhaps the top of the head, or including it (Ritva, Tosafos Yeshanim); tied to netzach (Pappenheim) or to tzach, smooth (Chelouche)
+  - he: פדחת
+    tr: padachat
+    en: forehead
+    distinct: the word of Chazal, absent from Tanach; the same as meitzach (Rav Hai Gaon, Rabbeinu Chananel, Rashi), against Tosafos HaShalem; perhaps taking in the temples (Rabbi Yosef de Jong); of Persian origin (Alexander Kohut) or Semitic
   - he: ציץ
     nk: צִיץ
 sources:
@@ -28,6 +36,13 @@ the *tzitz* sat above the forehead where the *tefillin* go, the Ritva and
 *Tosafos Yeshanim* either read the pasuk as "above his *meitzach*" or take
 biblical *meitzach* as **the top of the head**, or at least as including the top
 of the head along with the forehead.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מצח | meitzach | forehead, top of the head | biblical; in Tanach perhaps the top of the head (Ritva, Tosafos Yeshanim) |
+| פדחת | padachat | forehead | the word of Chazal; the same as *meitzach* (Rav Hai Gaon, Rashi) |
 
 ## Distinctions
 

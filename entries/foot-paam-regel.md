@@ -6,8 +6,15 @@ translit: [paam, paamim, peamim, paamosav, paamotav, paamon, poem, regel, raglay
 english: [foot, step, corner, time, instance, pilgrimage festival]
 domain: body
 words:
+  - he: פעם
+    tr: paam
+    en: step, time
+    distinct: the foot as it strikes the ground, a step, and so any occurrence (Rabbi Shlomo Pappenheim), step being primary (Rabbi Shmuel Dovid Walkin); or at core a corner, the feet being a man's lower corner (Malbim); man's moving feet, against the malachim's fixed regel (Walkin)
   - he: רגל
+    tr: regel
+    en: foot
     nk: רֶגֶל
+    distinct: the plain foot, the limb; as instance only for Bilaam's donkey and the three festivals, where the pilgrims came up on foot; the malachim's single regel, fixed, without growth (Walkin)
 sources:
   - wiaw:7828 "Foot Festivals" (2018-06-30) https://articles.ohr.edu/articles/foot-festivals
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Targum Onkelos, Rashi, Ibn Ezra, Ramban, Rabbi Shmuel Dovid Walkin]
@@ -26,6 +33,13 @@ likewise takes "step" as its primary sense. For Malbim its core sense is
 mean "three times." *Regel* in the sense of "instance" occurs in Tanach in only
 two contexts, Bilaam's donkey (Bamidbar 22:28 and 32) and the three festivals
 (Shemos 23:14); elsewhere it is usually the limb.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| פעם | paam | step, time | the foot striking the ground, a step (Pappenheim, Walkin); a corner (Malbim) |
+| רגל | regel | foot | the plain limb; as instance only for Bilaam's donkey and the festivals |
 
 ## Distinctions
 

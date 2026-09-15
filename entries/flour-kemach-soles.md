@@ -5,6 +5,23 @@ roots: [ק-מ-ח, ס-ל-ת, ס-ל, ג-ר-ש, ג-ר-ס]
 translit: [kemach, soles, solet, solta, geres, geress, semida, semidah, kamah, kimchis, kimchit, misalsel, mesilah, sal]
 english: [flour, whole wheat flour, fine flour, white flour, groats, semolina]
 domain: other
+words:
+  - he: קמח
+    tr: kemach
+    en: flour, whole wheat flour
+    distinct: ordinary flour ground with bran and germ still in it, as against white soles (Rav Hirsch); everything is mixed into it (Rashi); adulterated flour carrying subpar material (Rabbi Yaakov Tzvi Mecklenburg); the lesser stock in metaphor
+  - he: סולת
+    tr: soles
+    en: fine flour
+    distinct: the sifted, refined grade made of the endosperm alone (Rav Hirsch), better than kemach (Rashi); always wheat flour (Rashi, Rashbam), though Rabbi Shlomo Pappenheim objects that soles alone does not fix the species
+  - he: גרש
+    tr: geres
+    en: groats
+    distinct: for barley what soles is for wheat (Rashi); defined with the word soles (Ibn Janach); from a root of breaking or grinding (Menachem, Ibn Janach, Radak)
+  - he: סמידא
+    tr: semida
+    en: fine flour
+    distinct: Aramaic for soles (Rashi), white flour (Ibn Ezra); yet the Targum attributed to Rabbi Yonasan ben Uziel renders kemach as semida; ancestor of the English semolina
 sources:
   - wiaw:9275 "Flour Power" (2021-07-03) https://articles.ohr.edu/articles/flour-power
 authorities: [Rashi, Rashbam, Ibn Ezra, Radak, Rabbeinu Yonah ibn Janach, Menachem Ibn Saruk, Donash Ibn Labrat, Ibn Sheshes, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras]
@@ -23,6 +40,15 @@ grind is per se, but the difference between whole wheat flour and white flour,
 *soles* being made of the endosperm alone. So *kemach* has everything in it and
 *soles* has been sifted clean. Rashi (Bava Metzia 87a)
 states that *soles* is better than *kemach*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| קמח | kemach | flour, whole wheat flour | whole wheat flour, bran and germ still in (Rav Hirsch); the lesser stock |
+| סולת | soles | fine flour | sifted white flour of the endosperm (Rav Hirsch); better than *kemach* (Rashi) |
+| גרש | geres | groats | the barley counterpart of *soles* (Rashi) |
+| סמידא | semida | fine flour | Aramaic for *soles* (Rashi), white flour (Ibn Ezra); source of semolina |
 
 ## Distinctions
 

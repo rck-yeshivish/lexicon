@@ -6,8 +6,23 @@ translit: [olam, leolam, le'olam, netzach, netzah, selah, sela, vaed, va'ed, vaa
 english: [forever, everlasting, perpetual, eternity, for all time]
 domain: time
 words:
+  - he: עולם
+    tr: olam
+    en: for all time
+    distinct: a very long but bounded span, for the bondsman only to the Yovel (Rashi, Maharsha); a flat synonym of the others (Menachem ibn Saruk, Rabbi Yosef Kimchi); tied to al, above (Mecklenburg)
   - he: נצח
+    tr: netzach
+    en: forever, everlasting
     nk: נֶצַח
+    distinct: truly unbounded (Maharsha); the continuous, unchanging permanence, as against selah's continual (Wertheimer); from tzach, pristine, the soul's final state (Mecklenburg)
+  - he: סלה
+    tr: selah
+    en: forever
+    distinct: "disputed: forever, without end (Rashi, Meiri), the ever-repeating continual (Wertheimer); an interjection closing an idea (Radak, Malbim), a pause to take it in (Rabbi Chaim Friedlander); an affirmation, so it is (Ibn Ezra)"
+  - he: ועד
+    tr: va'ed
+    en: for all eternity
+    distinct: infinite duration, ad being until left hanging with no object (Wertheimer); linked to adi'im, the soul's eternal adornments (Mecklenburg); forever everywhere (Maharsha) or only beside olam (Rabbi Avraham ben Ezriel of Vienna)
   - he: עד
     nk: עַד
 sources:
@@ -29,6 +44,15 @@ Avraham ben Ezriel of Vienna limits the Gemara's finding to the verses where
 these words stand beside *olam*. Rashi to Shemos 21:6 caps *le'olam* at the
 fifty-year Yovel cycle, and the Maharsha builds on that. For the Maharsha, when
 *olam* stands beside one of the other three, the second word is doing work.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עולם | olam | for all time | long but bounded, only to the Yovel (Rashi, Maharsha) |
+| נצח | netzach | forever, everlasting | unbounded; continuous, unchanging permanence (Wertheimer) |
+| סלה | selah | forever | disputed: forever (Rashi, Meiri) or an interjection closing an idea (Radak, Malbim) |
+| ועד | va'ed | for all eternity | unbounded: *ad*, until, left with no end named (Wertheimer) |
 
 ## Distinctions
 

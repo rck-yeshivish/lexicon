@@ -6,6 +6,14 @@ translit: [shachach, shakach, shichachah, shichecha, tishkach, nashah, nasha, na
 english: [forget, forgetting, forgetfulness, lapse, blot out, deny]
 domain: cognition
 words:
+  - he: שכח
+    tr: shachach
+    en: forget
+    distinct: the ordinary word, used throughout Devarim; what is forgotten can still be recalled (Malbim); forgetting inadvertently, or because attention went elsewhere (Rav Hirsch); no different from nashah (Rabbi Eliyahu Katz)
+  - he: נשה
+    tr: nashah
+    en: forget entirely
+    distinct: "rare and heavier: irretrievable (Malbim); the forgetting of one who held the matter lightly and so bears more blame, or a weakened memory (Rav Hirsch); simply the Aramaic way of saying shachach (Rabbi Eliyahu Katz)"
   - he: כחש
     nk: כַּחַשׁ
 sources:
@@ -26,6 +34,13 @@ mind for good**. Malbim: what is *shachach* can still be recalled, what is
 who held the thing lightly, so he bears more of the blame for the forgetting.
 Rabbi Eliyahu Katz disagrees with both of them and denies that there is any
 difference at all.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שכח | shachach | forget | ordinary forgetting; recoverable (Malbim); inadvertent (Rav Hirsch) |
+| נשה | nashah | forget entirely | irretrievable (Malbim); blameworthy, held lightly (Rav Hirsch); no different (Katz) |
 
 ## Distinctions
 

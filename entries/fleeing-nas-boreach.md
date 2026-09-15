@@ -7,7 +7,22 @@ english: [flee, run away, escape, take flight, run]
 domain: action
 words:
   - he: נס
+    tr: nas
+    en: flee
     nk: נָס
+    distinct: fleeing an active threat or a real pursuer (Sforno), openly in visible terror, even from a mindless danger (Malbim); seeking refuge at a destination (Wertheimer); to somewhere near (Sefer HaChochmah)
+  - he: רץ
+    tr: ratz
+    en: run
+    distinct: running, like nas, but running toward where nas is running from (Malbim); Rabbi Naftali Hertz Treves finds cognates of nas that mean running toward as well
+  - he: בורח
+    tr: boreach
+    en: run away
+    distinct: running from a feared future threat with nobody in pursuit (Sforno); clandestine, from a danger not yet immediate, and from an intelligent being (Malbim); attends only to the place fled from (Wertheimer); to somewhere far (Sefer HaChochmah)
+  - he: ערק
+    tr: arak
+    en: run away
+    distinct: the one Aramaic word for running away, drawing none of the Hebrew distinctions; most Targumim use it for both nas and boreach, though Onkelos often renders boreach as azil
 sources:
   - wiaw:7779 "Running Away" (2018-06-02) https://articles.ohr.edu/articles/running-away
 authorities: [Sforno, Malbim, Sefer HaChochmah (Rabbi Elazar Rokeach of Worms), Rabbi Naftali Hertz Treves (Sefer HaGur), Rabbi Shlomo Aharon Wertheimer, Targum Onkelos]
@@ -23,6 +38,15 @@ updated: 2026-09-10
 in pursuit, and usually done quietly so as not to be seen. Sforno and Malbim
 agree on that core. *Boreach* is the one that carries stealth and a threat not
 yet arrived.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נס | nas | flee | fleeing an immediate danger, openly in terror (Sforno, Malbim) |
+| רץ | ratz | run | running toward, where *nas* is running from (Malbim) |
+| בורח | boreach | run away | running quietly from a future threat, nobody chasing (Sforno, Malbim) |
+| ערק | arak | run away | Aramaic for both *nas* and *boreach*; draws no distinction |
 
 ## Distinctions
 

@@ -5,6 +5,15 @@ roots: [א-נ-כ, א-נ]
 translit: [anochi, anoki, ani, anoch, anach]
 english: [I, I myself, plumb line]
 domain: speech
+words:
+  - he: אני
+    tr: ani
+    en: I
+    distinct: the plain first person, without stress (Maharal); the news is in the predicate (Malbim, Pappenheim); marks the speaker off from the one addressed (Rav Hirsch); speaks for the soul (Rabbi Yehuda Leib Edel); from Hashem, it can be a Name (Mecklenburg)
+  - he: אנכי
+    tr: anochi
+    en: I myself
+    distinct: the emphatic, weightier and rarer form, one stressing himself (Maharal); the news is in the subject, I and no other (Malbim, Pappenheim), or rather nearness to the one addressed (Rav Hirsch); kabbalistic weight (Rabbeinu Bachya); the body, from anach, a plumb line (Edel)
 sources:
   - wiaw:7144 "Myself and I" (2017-02-18) https://articles.ohr.edu/articles/myself-and-i
 authorities: [Maharal, Rabbi Shlomo Pappenheim, Malbim, Rav Hirsch, Rabbeinu Bachya, Ibn Ezra, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg]
@@ -24,6 +33,13 @@ against something else I might have done). But that is
 not the only reading in the field: Rav Hirsch takes *anochi*'s force to be
 nearness rather than exclusion, and Rabbi Edel takes the pair to name body and
 soul. The distinction is applied to *Anochi Hashem Elokecha*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אני | ani | I | plain, unstressed I (Maharal); the news is in the predicate (Malbim, Pappenheim) |
+| אנכי | anochi | I myself | emphatic: I and no other (Malbim, Pappenheim); or nearness (Rav Hirsch) |
 
 ## Distinctions
 

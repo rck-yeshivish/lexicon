@@ -6,8 +6,39 @@ translit: [aish, esh, eish, ur, or, ohr, lahav, lehavah, lahavah, shalhevet, sha
 english: [fire, flame, blaze, torch, lamp, candle, blade]
 domain: nature
 words:
+  - he: אש
+    tr: aish
+    en: fire
+    distinct: the general, ordinary word for fire; the Targumim usually render it aisha, sometimes nura, the latter tending where a fire burns or roasts something (Rabbi Eliyahu HaBachur)
+  - he: אור
+    tr: ur
+    en: fire
+    distinct: spelled like ohr, light, but pointed differently; a smaller fire than aish (Malbim); rare in Tanach but the preferred word in the Mishnah
+  - he: להב
+    tr: lahav
+    en: flame, blade
+    distinct: the flame that spurts outward from a larger fire, its outlet for spreading; hence also the blade of a knife or sword, the part that acts on things outside itself (Rabbi Shlomo Pappenheim); not a bigger fire than aish
+  - he: שלהבת
+    tr: shalheves
+    en: flame
+    distinct: a flame attached to something tangible, mixed with the material it is burning up, linked to lahav and to meshulav, mixed (Rabbi Shlomo Pappenheim)
   - he: להט
+    tr: lahat
+    en: blaze
     nk: לַהַט
+    distinct: the fast movement of fire, spreading like wildfire; related to the root of bending; like lahav it can mean flame or blade, and is borrowed for enthusiasm
+  - he: לפיד
+    tr: lapid
+    en: torch
+    distinct: used when the focus is the object carrying the fire rather than the fire itself; Radak reads aish pladot as another way of saying lapid aish
+  - he: אבוקה
+    tr: avukah
+    en: multi-wick torch
+    distinct: post-biblical; first a bundle of twigs for fuelling a fire, then any candle or torch with more than one wick; Havdalah calls for one, where bedikas chametz and neros Chanukah call for a ner
+  - he: נר
+    tr: ner
+    en: lamp, candle
+    distinct: the single-wick lamp or candle, as for bedikas chametz and neros Chanukah; the object holding the source of light (Rabbi Shlomo Pappenheim); rendered shraga by the Targumim
 sources:
   - wiaw:8007 "Playing with Fire" (2018-12-01) https://articles.ohr.edu/articles/playing-with-fire-2
 authorities: [Rabbi Eliyahu HaBachur (Meturgeman), Rabbi Shlomo Pappenheim, Malbim, Radak, Alexander Beider]
@@ -25,6 +56,19 @@ gripping some material it is consuming. *Lahat* is fire moving fast, a
 **blaze**. *Lapid* is a **torch**, the object carrying the fire, and *avukah* a
 multi-wick torch against *ner*, the single-wick **lamp**. *Lehavah* is not a
 bigger fire than *aish*; it is the outward-reaching part of one.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אש | aish | fire | the general word; Targum *aisha*, or *nura* for burning (Eliyahu HaBachur) |
+| אור | ur | fire | a smaller fire than *aish* (Malbim); rare in Tanach, common in the Mishnah |
+| להב | lahav | flame, blade | the flame shooting outward from a fire; hence a blade (Pappenheim) |
+| שלהבת | shalheves | flame | a flame gripping the material it consumes, from *meshulav*, mixed (Pappenheim) |
+| להט | lahat | blaze | fire moving fast, like wildfire; also flame, blade or enthusiasm |
+| לפיד | lapid | torch | a torch, the object carrying the fire rather than the fire itself |
+| אבוקה | avukah | multi-wick torch | post-biblical torch of more than one wick; used for Havdalah |
+| נר | ner | lamp, candle | the single-wick lamp or candle; Targum *shraga* |
 
 ## Distinctions
 

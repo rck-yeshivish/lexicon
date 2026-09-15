@@ -6,10 +6,44 @@ translit: [ochel, ochl, maachal, machal, mazon, mezonos, mezonot, yevul, yvul, t
 english: [food, sustenance, produce, crop, grain, provisions]
 domain: nature
 words:
+  - he: אוכל
+    tr: ochel
+    en: food
+    distinct: anything eaten, the widest word; its root covers consuming and destroying generally, traced to the biliteral of utter destruction (Rabbi Shlomo Pappenheim)
+  - he: מזון
+    tr: mazon
+    en: sustenance
+    distinct: narrower than ochel, food that actually nourishes, giving the body what it needs
+  - he: יבול
+    tr: yevul
+    en: produce
+    distinct: "produce as decomposing: all produce, since the seed decays to let the plant come up, or the especially perishable produce that rots if not looked after (Rabbi Shlomo Pappenheim)"
+  - he: תבואה
+    tr: tevuah
+    en: crop
+    distinct: whatever comes forth from seed or tree, even before full ripeness (Wertheimer); produce that comes in at set times (Ibn Janach); this year's grain, as against avur (Radak); the choicest produce, brought into the house (Rav Hirsch)
+  - he: תנובה
+    tr: tenuvah
+    en: ripe produce
+    distinct: fully developed products, so specifically ripe produce, the root also of niv sefasayim, well-formed speech (Pappenheim)
+  - he: דגן
+    tr: dagan
+    en: grain
+    distinct: the five grains once ripened, reaped and heaped into a smooth pile (Wertheimer); from ד-ג, fecundity, like dag (Pappenheim), though Menachem Ibn Saruk, Ibn Janach and Radak give it its own root
   - he: בר
+    tr: bar
+    en: grain cleaned of its chaff
     nk: בָּר
+    distinct: grain already separated from its chaff, from ב-ר, separating (Pappenheim); chosen or refined grain, stored that way for room (Rabbi Yitzchok of Volozhin)
   - he: שבר
+    tr: shever
+    en: provisions
     nk: שֶׁבֶר
+    distinct: grain that breaks the famine (Radak, Meiri); food as a purchased commodity (Ibn Saruk, Peirush HaRokeach, Rabbeinu Bachaya); grain with its chaff, alluding to bad and good together (Rabbeinu Bachaya)
+  - he: עבור
+    tr: avur
+    en: grain
+    distinct: the Aramaic leveller rendering ochel, bar, shever and dagan alike (Onkelos); in Hebrew, last year's grain, going with avar, past (Radak)
 sources:
   - wiaw:8546 "A Biblical Feast" (2020-01-04) https://articles.ohr.edu/articles/a-biblical-feast
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
@@ -27,6 +61,20 @@ comes forth (ripe or not); *tenuvah* is **ripe produce**; *yevul* is
 **produce** seen as perishable; *dagan* is threshed **grain**; *bar* is grain
 **cleaned of its chaff**; *shever* is **provisions**, grain bought in a famine.
 Onkelos renders *ochel*, *bar*, *shever* and *dagan* all by *avur*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אוכל | ochel | food | anything eaten; the widest word |
+| מזון | mazon | sustenance | food that actually nourishes, giving the body what it needs |
+| יבול | yevul | produce | produce as perishable, from ב-ל, decomposition (Pappenheim) |
+| תבואה | tevuah | crop | what comes forth, ripe or not (Wertheimer); this year's crop (Radak) |
+| תנובה | tenuvah | ripe produce | fully developed, ripe produce, like *niv sefasayim* (Pappenheim) |
+| דגן | dagan | grain | the five grains, reaped and heaped (Wertheimer); from ד-ג, fecundity (Pappenheim) |
+| בר | bar | grain cleaned of its chaff | grain separated from its chaff (Pappenheim, Rabbi Yitzchok of Volozhin) |
+| שבר | shever | provisions | grain that breaks the famine (Radak); a purchased commodity (Rabbeinu Bachaya) |
+| עבור | avur | grain | Onkelos's one word for them all; last year's grain (Radak) |
 
 ## Distinctions
 

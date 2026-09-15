@@ -5,6 +5,23 @@ roots: [ח-ל-ב, ש-מ-נ, פ-ד-ר, ר-ב-ה]
 translit: [cheilev, chelev, chelavim, chelvei hatamid, shuman, shumman, pader, peder, tarba, tarbah, chalav, shemen, prisuta dtarba]
 english: [fat, forbidden fat, permitted fat, suet, membrane, choicest]
 domain: body
+words:
+  - he: חלב
+    tr: cheilev
+    en: fat, forbidden fat
+    distinct: fat in the plain sense, and in halachic contexts the hard visceral fat offered on the mizbeach and forbidden to eat (Ramban, Rabbeinu Bachya); borrowed for the choicest part of anything (Rashi); the energy the body stores aside for future use (Rav Hirsch)
+  - he: שומן
+    tr: shuman
+    en: permitted fat
+    distinct: post-biblical, coined by Chazal for the permitted fats so the two could be told apart (Rashi); the soft intermuscular fat attached to the meat (Ramban, Rabbeinu Bachya); the more pourable, oil-like fat, from shemen (Pappenheim)
+  - he: תרבא
+    tr: tarba
+    en: fat
+    distinct: Targumic Aramaic for cheilev (Onkelos), though Rashi once defines the Gemara's tarba as shuman; from Aramaic rav, growing, since fat accrues the more one eats (Chizkuni)
+  - he: פדר
+    tr: pader
+    en: fat, fatty membrane
+    distinct: "disputed: plain fat, a synonym of cheilev (Menachem Ibn Saruk, Radak, Rashi, Ibn Ezra, Rashbam); the thin membrane dividing the innards (Ramban); a spread of fat that covers (Rabbi Shaul Goldman); the organ cluster of trachea, lungs, heart and liver (Rabbi Saadia Gaon, Ibn Janach)"
 sources:
   - wiaw:11314 "Tzav: Good Fat, Bad Fat" (2024-03-30) https://articles.ohr.edu/articles/tzav-good-fat-bad-fat
 authorities: [Rashi, Ramban, Rabbeinu Bachya, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Menachem Ibn Saruk, Radak, Ibn Ezra, Rashbam, Rabbi Shlomo of Urbino, Rabbeinu Gershom, Rabbi Saadia Gaon, Ibn Janach, Ibn Parchon, Rabbi Eliyahu HaBachur, Rabbi David Chaim Chelouche, Rabbi Shaul Goldman, Rambam]
@@ -25,6 +42,15 @@ altogether for the **organ cluster** of trachea, lungs, heart, and liver.
 *Tarba* is the Aramaic standing in for *cheilev*. *Cheilev* is also sometimes
 borrowed for **the choicest part** of a non-animal thing, where it does not
 refer to animal fat at all.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חלב | cheilev | fat, forbidden fat | fat; in halachah the forbidden visceral fat (Ramban); also the choicest (Rashi) |
+| שומן | shuman | permitted fat | post-biblical; the permitted soft fat attached to the meat (Rashi, Ramban) |
+| תרבא | tarba | fat | Targumic Aramaic for *cheilev* (Onkelos); from *rav*, growing (Chizkuni) |
+| פדר | pader | fat, fatty membrane | disputed: plain fat (Radak, Rashi); membrane (Ramban); organ cluster (Rabbi Saadia Gaon) |
 
 ## Distinctions
 

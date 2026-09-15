@@ -5,6 +5,35 @@ roots: [ד-ג, ד-ג-ה, ד-א-ג, ד-ג-נ]
 translit: [dag, dagim, dagah, daga, digas, digat, digei, dayag, davag, dugah, vayidgu, daagah, dagan, dugmah, nuna, munini, gildna, tarit, taris, avruma, avdumah, tzachanta, sultanit]
 english: [fish, fishes, small fish, fisherman, shoal]
 domain: nature
+words:
+  - he: דג
+    tr: dag
+    en: a fish
+    distinct: the plain singular; from the biliteral ד-ג, fecundity, fish being famously prolific (Rabbi Shlomo Pappenheim); for Chazal a big fish, as against dagah; for others a male fish (Rashi) or a living one (Zohar)
+  - he: דגה
+    tr: dagah
+    en: fish
+    distinct: "disputed: big and small fish alike (Chazal); a female fish (Rashi, Yalkut Shimoni); a dead fish (Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi); fish as a collective species (Ibn Ezra); one particular Egyptian fish (Rabbi Mordechai Gimpel Yaffe)"
+  - he: אברומא
+    tr: avruma
+    en: small fish
+    distinct: an Aramaic word Rashi glosses as small fish; given as avdumah in Sefer HaAruch
+  - he: מוניני
+    tr: munini
+    en: small fish, brine
+    distinct: small fish (Rashi), also fish brine and by extension brine as such; a diminutive mem plus Aramaic nun, fish (Rabbi David Golumb), or mei nuna, fish water (Rabbi Moshe Batzri)
+  - he: גילדנא
+    tr: gildna
+    en: small fish
+    distinct: elsewhere small fish (Rashi), elsewhere a particular fish (Rashi, Rabbeinu Gershom, Rashbam); identified with the flathead grey mullet or gilt-head bream by ichthyologists that Dr. Moshe Raanan mentions
+  - he: צחנתא
+    tr: tzachanta
+    en: small fish
+    distinct: small fish (Rashi); the Bavel name for the tarit (Yerushalmi Nedarim 6:3); identified with sardines or anchovies by modern scholars that Dr. Raanan cites
+  - he: טרית
+    tr: tarit
+    en: tuna
+    distinct: identified by Rashi as tuna, like sultanit and the Spanish kulyis; called tzachanta in Bavel (Yerushalmi Nedarim 6:3)
 sources:
   - wiaw:9228 "Fishy Words (Part 1/2)" (2021-05-29) https://articles.ohr.edu/articles/fishy-words-part-12
 authorities: [Rashi, Zohar, Rabbeinu Bachaya, Rabbi Avraham bar Chiya HaNasi, Ibn Ezra, Malbim, Rabbi Mordechai Gimpel Yaffe, Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rabbi Yehuda Ibn Balaam, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Aharon Marcus, Sefer HaAruch, Rabbeinu Gershom, Rashbam, Rabbi David Golumb, Rabbi Moshe Batzri, Moshe Raanan]
@@ -22,6 +51,18 @@ species rather than the individual (Ibn Ezra). Most of the sources that take up
 the difference focus on the switch from *dag* to *dagah* in Yonah 2:1 and 2:2.
 Rashi glosses several Aramaic words in the Gemara (*avruma*, *munini*, *gildna*,
 *tzachanta*) as **small fish**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| דג | dag | a fish | the plain singular; from ד-ג, fecundity (Pappenheim) |
+| דגה | dagah | fish | disputed: big or small (Chazal); female (Rashi); dead (Zohar); collective (Ibn Ezra) |
+| אברומא | avruma | small fish | Aramaic, small fish (Rashi); *avdumah* in the *Aruch* |
+| מוניני | munini | small fish, brine | small fish (Rashi); also fish brine, and brine as such |
+| גילדנא | gildna | small fish | small fish, or a particular fish (Rashi, Rabbeinu Gershom, Rashbam) |
+| צחנתא | tzachanta | small fish | small fish (Rashi); the Bavel name for the *tarit* (Yerushalmi) |
+| טרית | tarit | tuna | tuna (Rashi); called *tzachanta* in Bavel (Yerushalmi) |
 
 ## Distinctions
 
