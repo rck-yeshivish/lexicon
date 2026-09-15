@@ -6,8 +6,23 @@ translit: [chet, cheit, chait, chatas, chatat, chataim, chatati, chatasi, avon, 
 english: [sin, inadvertent sin, iniquity, willful sin, rebellious sin, transgression]
 domain: action
 words:
+  - he: חטא
+    tr: chet
+    en: sin, inadvertent sin
+    distinct: the general and lightest word; inadvertent (Gemara, Peirush HaRokeach); a lack, failing a positive mitzvah (Vilna Gaon); a goal missed (Rabbi Moshe Shapiro); knowingly indulging physical temptation (Malbim); alone, any sin (Rabbi Netanel Weil)
+  - he: עון
+    tr: avon
+    en: iniquity
+    distinct: the wanton or intentional sin (Gemara); thinking too much and wrongly concluding that sinning is proper (Pappenheim); the intellect persuaded astray (Malbim); a sin one gained benefit from (Peirush HaRokeach); alone, any sin (Rabbi Netanel Weil)
   - he: פשע
+    tr: pesha
+    en: rebellious sin
     nk: פֶּשַׁע
+    distinct: the sin done to rebel against Hashem (Gemara, Malbim); at root negligence through laziness, borrowed for rebellion as a slight to the King (Pappenheim); simply the willful sin (Peirush HaRokeach)
+  - he: עבירה
+    tr: aveirah
+    en: transgression
+    distinct: the Rabbinic catch-all, not in Tanach, once for crimes of indecency; passing over one's own thoughts (Rabbi Yaakov Tzvi Mecklenburg); crossing a Rabbinic red line (Rabbi Klein)
 sources:
   - wiaw:7940 "Degrees of Sin" (2018-09-15) https://articles.ohr.edu/articles/degrees-of-sin
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
@@ -27,6 +42,15 @@ have sinned, I have done iniquity, I have rebelled." Rabbi Netanel Weil: the
 difference between *chet* and *avon* holds only when the two stand together; a lone *chet* or *avon* covers
 every kind of sin and is simply "sin." *Aveirah*, the Rabbinic catch-all, is
 **transgression**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חטא | chet | sin, inadvertent sin | lightest: inadvertent (Gemara); a lack or a missed goal (Vilna Gaon, Rabbi Moshe Shapiro) |
+| עון | avon | iniquity | intentional sin (Gemara); a mind persuaded astray (Malbim); a sin for benefit (Rokeach) |
+| פשע | pesha | rebellious sin | rebellion (Gemara); at root lazy negligence, a slight to the King (Pappenheim) |
+| עבירה | aveirah | transgression | Rabbinic catch-all, not in Tanach; passing over one's thoughts (Mecklenburg) |
 
 ## The Kohen Gadol's vidui
 

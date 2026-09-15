@@ -5,6 +5,15 @@ roots: [ס-פ-ר]
 translit: [sofer, sofeir, sofrim, soferim, safra, lavlar, livlar, libler, libellarius, libellus, liblarios]
 english: [scribe, scribes, the Sofrim, the early Sages]
 domain: society
+words:
+  - he: סופר
+    tr: sofer
+    en: scribe
+    distinct: the Hebrew word, in Tanach and the Mishnah, one who produces a sefer, grown from counting (Dougherty); an official scribe in a bureaucratic post (Blau), though Krauss holds it the same as lavlar; plural sofrim often the early Sages
+  - he: לבלר
+    tr: lavlar
+    en: scribe
+    distinct: the later loanword from Latin libellarius, not in Tanach; a general term taking in even the freelance clerk (Blau), or effectively synonymous with sofer, perhaps more formal (Krauss); Rashi defines each by the other
 sources:
   - wiaw:10818 "Bishalach: Scribal Culture" (2023-02-04) https://articles.ohr.edu/articles/bishalach-scribal-culture
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
@@ -22,6 +31,13 @@ term, found in Mishnaic and Talmudic Hebrew and borrowed from Latin. Whether
 they differ in *meaning* is disputed between two named views (see below). In
 the plural, *sofrim* in rabbinic usage is often not "scribes" at all but **the
 Sofrim**, the early Sages.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| סופר | sofer | scribe | the Hebrew word; an official post (Blau), or the same as *lavlar* (Krauss) |
+| לבלר | lavlar | scribe | Latin loanword; any scribe, even a freelance clerk (Blau); Rashi equates it with *sofer* |
 
 ## Where the authorities disagree
 

@@ -6,6 +6,26 @@ translit: [sod, sohd, sodos, sodot, raz, roz, raza, razin, tamir, tomir, tumrah,
 english: [secret, counsel, council, hidden matter, mystery, hidden, stored away, hint]
 domain: other
 words:
+  - he: סוד
+    tr: sod
+    en: counsel, secret
+    distinct: in Tanach counsel or council, one sense (Radak) or two (Ibn Janach); a secret only in Chazal; the less-apparent conclusions drawn from yesodos (Pappenheim); a plan shared for mutual consultation (Rav Hirsch)
+  - he: דבר סתר
+    tr: dvar seter
+    en: hidden matter
+    distinct: the true Biblical word for a secret, Ehud's hidden matter for Eglon, from ס-ת-ר, hiding (Pappenheim)
+  - he: כמוס
+    tr: kamus
+    en: stored away, sealed up
+    distinct: a hapax, something stored away and sealed, known to Hashem alone; kin to kamatz, protected classified information (Rav Hirsch); kept close, by metathesis with samech-mem-kaf (Rabbi Avi Kobernick)
+  - he: רז
+    tr: raz
+    en: mystery
+    distinct: Aramaic, in Daniel, an idea hidden and closed off from the many (Rashi); common in the Dead Sea Scrolls for esoteric allusions, from Old Persian raza; perhaps a metathesis of zar, estranged (Rabbi Klein)
+  - he: טמיר
+    tr: tamir
+    en: hidden
+    distinct: Aramaic, the Targum's word for many Hebrew hiding-words, tamun, kisui, seter and mischabeh; cognate with Hebrew ט-מ-ן by nun-reish interchange (Rabbi Ernest Klein), or the reverse (Rabbi Reuven Chaim Klein)
   - he: סתר
     nk: סֵתֶר
 sources:
@@ -30,6 +50,16 @@ secret proper is *dvar seter*, **a hidden matter** (Pappenheim). *Kamus* is
 many Hebrew hiding-words. In a pasuk, סוד is
 usually "counsel" or "assembly," not "secret"; in a Gemara
 it is "secret."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| סוד | sod | counsel, secret | counsel or council in Tanach (Radak); a secret only in Chazal |
+| דבר סתר | dvar seter | hidden matter | the Biblical word for a secret proper, Ehud's hidden matter (Pappenheim) |
+| כמוס | kamus | stored away, sealed up | sealed away, a hapax; classified information (Rav Hirsch) |
+| רז | raz | mystery | Aramaic mystery, closed off from the masses (Rashi); from Old Persian |
+| טמיר | tamir | hidden | Aramaic hidden, the Targum's rendering of many Hebrew hiding-words |
 
 ## Distinctions
 

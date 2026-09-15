@@ -6,6 +6,22 @@ translit: [yeshuah, yeshua, yeshuos, yeshuot, teshuah, teshua, teshuos, teshuot,
 english: [salvation, deliverance, rescue, redemption, saving, victory]
 domain: action
 words:
+  - he: ישועה
+    tr: yeshuah
+    en: salvation
+    distinct: salvation answering a cry for help; from a danger to one's very being, kin to yesh, exists (Rav Hirsch); total release from oppression (Peirush HaRokeach); the saving alone, without the further protection of hatzalah (Malbim)
+  - he: תשועה
+    tr: teshuah
+    en: salvation
+    distinct: salvation answering a cry (shav'ah) for help; kin to ש-פ-ע, it concerns property and economic freedom, so often military victory over outside conquerors (Rav Hirsch)
+  - he: הצלה
+    tr: hatzalah
+    en: rescue
+    distinct: being pulled out of danger, separated from what endangers one (Rav Hirsch, Pappenheim); a partial or temporary respite (Peirush HaRokeach), or the saving plus protection from future troubles (Malbim); from any threat (Heilpern)
+  - he: פורקן
+    tr: purkan
+    en: redemption
+    distinct: Aramaic, the Targum's word for pidyon, being bought back, as Hashem redeemed us from the Greeks; also slipping off a yoke; deliverance from financial ruin (Rabbi Yitzchak Eliyahu Landau of Dubno)
   - he: שועה
     nk: שַׁוְעָה
 sources:
@@ -25,6 +41,15 @@ cry (*shav'ah*) for help, and for the Rokeach total release from oppression.
 *yeshuah*; Malbim has it carrying more, protection from future troubles on top
 of the saving. *Purkan*
 (Aramaic, the Targum's *pidyon*) is **redemption**, being bought back.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ישועה | yeshuah | salvation | salvation answering a cry; rescue of one's very existence (Rav Hirsch); total release (Rokeach) |
+| תשועה | teshuah | salvation | answers a cry; saves property and freedom, often military victory (Rav Hirsch) |
+| הצלה | hatzalah | rescue | pulled out of danger; partial (Rokeach), or saving plus future protection (Malbim) |
+| פורקן | purkan | redemption | Aramaic for *pidyon*, bought back; deliverance from financial ruin (Landau of Dubno) |
 
 ## Distinctions
 

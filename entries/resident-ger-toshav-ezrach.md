@@ -6,8 +6,23 @@ translit: [ger, gerim, gur, lagur, garti, toshav, toshavim, ezrach, ezrachi, zar
 english: [sojourner, resident, native, citizen, stranger, convert]
 domain: society
 words:
+  - he: גר
+    tr: ger
+    en: sojourner
+    distinct: cut off from his place of origin and living somewhere temporarily, the opposite of both ezrach and toshav (Wertheimer); detachment from one's roots (Rav Hirsch, Ibn Ezra); primarily one who repudiates avodah zarah (Rabbi Eliyahu HaBachur)
+  - he: תושב
+    tr: toshav
+    en: resident
+    distinct: the settled resident there for the long term, from י-ש-ב, sitting and settling (Radak); a permanent dwelling with no need to return elsewhere (Pappenheim); settling where one owns or has rights to the land, against gar who does not (Rabbi Shmuel Modiliano)
+  - he: אזרח
+    tr: ezrach
+    en: native, citizen
+    distinct: the native whose identity and family are out in the open, as light makes all visible, from ז-ר-ח, shining (Radak); the easterner properly oriented within civilization, hence citizen (Rabbi David Chaim Chelouche)
   - he: זר
+    tr: zar
+    en: stranger
     nk: זָר
+    distinct: the plain stranger; zayin and gimmel can interchange (Rabbi Yosef Kimchi, Radak), a rule Rabbi Klein applies to zar and ger to find an affinity between them, as Shadal's Ohev Ger also presumes
 sources:
   - wiaw:9199 "Behar - Bechukotai: Settled Citizens" (2021-05-08) https://articles.ohr.edu/articles/behar-bechukotai-settled-citizens
 authorities: [Malbim, Rav Hirsch, Ibn Ezra, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Moshe Kimchi, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Yonah Ibn Janach, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Eliyahu HaBachur, Rashi, Ramban, Mizrachi, Rabbi Yisrael Yaakov Algazi, Rabbi Shmuel Modiliano, Rabbi David Chaim Chelouche, Shadal]
@@ -26,6 +41,15 @@ Aharon Wertheimer's capsulization: a *ger* is the opposite of an *ezrach* and th
 *toshav*, neither a full-fledged citizen of this land nor an alien resident, but
 simply living here as one stop in a greater journey. On Mizrachi's reading *ger
 v'toshav* of Vayikra 25:35 is one person, a *ger toshav*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גר | ger | sojourner | temporary, cut off from his roots (Rav Hirsch); opposite of *ezrach* and *toshav* (Wertheimer) |
+| תושב | toshav | resident | settled long-term resident (Radak); owns or has rights to the land (Modiliano) |
+| אזרח | ezrach | native, citizen | native whose family is known to all, from shining (Radak); easterner, hence citizen (Chelouche) |
+| זר | zar | stranger | the plain stranger; akin to *ger* by the zayin-gimmel interchange (Rabbi Klein) |
 
 ## Distinctions
 

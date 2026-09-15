@@ -6,10 +6,24 @@ translit: [tzur, tzor, tzurim, tzarur, tzorer, tzayir, chalamish, halamish, sela
 english: [flintrock, hard rock, flint, crag, stone, source, bedrock]
 domain: nature
 words:
-  - he: אבן
-    nk: אֶבֶן
+  - he: צור
+    tr: tzur
+    en: flintrock, hard rock
+    distinct: harder than sela (Pappenheim, Malbim), too hard to hold water, the stone that gives fire (Rabbi Chaim Vital); a sharp stone (Rabbi Yosef Kimchi); also the quarry or source (Rambam), hence a divine epithet
+  - he: חלמיש
+    tr: chalamish
+    en: flint
+    distinct: conventionally flint; a sub-category of tzur covering the very hardest stones, even diamond (Pappenheim); bound to tzur in construct, tzur hachalamish
   - he: סלע
+    tr: sela
+    en: crag
     nk: סֶלַע
+    distinct: hard, but less so than tzur (Pappenheim, Malbim); the porous kind that can hold water inside, where a tzur cannot (Malbim)
+  - he: אבן
+    tr: even
+    en: stone
+    nk: אֶבֶן
+    distinct: the general term for any rock; the stones themselves, as against tzur, the source they are cut from (Rabbi Moshe Teitelbaum)
 sources:
   - wiaw:8000 "Like a Rock (Part 2)" (2018-11-24) https://articles.ohr.edu/articles/like-a-rock-part-2
 authorities: [Rabbi Shlomo Pappenheim, Malbim, Rabbi Yosef Kimchi, Rabbi Chaim Vital, Rabbi Yisrael Menachem Mendel Sacharov, Rabbi Chaim Friedlander, Rambam, Rabbi Moshe Teitelbaum, Radak]
@@ -29,6 +43,15 @@ but Rabbi Shlomo Pappenheim makes it a subdivision of *tzur*, the very hardest
 stones. On Malbim's account a *sela* is porous and can hold water and
 a *tzur* cannot, which fits neatly with Rabbi Chaim Vital's calling a *tzur* the
 stone that gives fire.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| צור | tzur | flintrock, hard rock | harder than *sela*, holds no water (Malbim); also the quarry, a source (Rambam) |
+| חלמיש | chalamish | flint | conventionally flint; the hardest stones within *tzur*, even diamond (Pappenheim) |
+| סלע | sela | crag | hard but porous, can hold water, unlike *tzur* (Malbim) |
+| אבן | even | stone | general term for any rock; the stones themselves, not their source (Teitelbaum) |
 
 ## Distinctions
 

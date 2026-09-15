@@ -6,8 +6,35 @@ translit: [raah, ra'ah, roeh, hibit, hibbit, habatah, hashkafah, mashkif, hishki
 english: [see, look, gaze, peer, peek, watch, oversee, anticipate]
 domain: cognition
 words:
+  - he: ראה
+    tr: ra'ah
+    en: see
+    distinct: the eye's plain function, including a sight one stumbles on without intending it (Malbim); seeing at the surface, what a quick glance takes in (Vilna Gaon)
+  - he: הביט
+    tr: hibit
+    en: look
+    distinct: seeing what a glance would miss, so deliberate looking (Vilna Gaon); the look of one above at what is below (Bereishis Rabbah), both accepted (Malbim); turning the head toward, not deliberate in itself (Rabbi Yaakov Tzvi Mecklenburg)
+  - he: השקיף
+    tr: hishkif
+    en: look out, look down
+    distinct: looking down from a height (Rabbi Elazar Rokeach of Worms), one who sees without being seen (Radak); in the Torah boding ill, except Devarim 26:15 (Rashi, Wertheimer); the truly deliberate looking (Mecklenburg)
+  - he: צופה
+    tr: tzofeh
+    en: gaze
+    distinct: gazing at what is not physically present, hence the navi as tzofeh and awaiting as mitzapeh (Malbim); the sentry watching over time (Wertheimer); seeing from afar (Vilna Gaon)
   - he: שור
+    tr: shur
+    en: see from afar
     nk: שׁוּר
+    distinct: seeing something far away, in time or in space (Malbim); aimed sight, linked to yashar, straight, the eyes set on one view alone (Pappenheim)
+  - he: מציץ
+    tr: metzitz
+    en: peek
+    distinct: a borrowed term whose literal sense is stretching, craning the neck for a better view (Malbim); looking through a constricted field of vision (Wertheimer)
+  - he: משגיח
+    tr: mashgiach
+    en: watch over
+    distinct: always in a good sense, unlike mashkif (Wertheimer); one who watches actively and steps in to set things right, as in Hashem's hashgachah (Rabbi Moshe Shapiro)
 sources:
   - wiaw:7463 "Seeing is Believing" (2017-11-04) https://articles.ohr.edu/articles/seeing-is-believing
 authorities: [Malbim, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rashi, Radak, Rabbi Shlomo Aharon Wertheimer, Rabbi Elazar Rokeach of Worms, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro]
@@ -27,6 +54,18 @@ takes it as boding ill. *Tzofeh* is **gazing** at what is not present to the eye
 which is why a navi is sometimes called a *tzofeh* and why waiting for what has not yet come is
 *mitzapeh*. *Shur* is seeing from far off, *metzitz* is **peeking** through a
 narrow opening, and *mashgiach* is watching that acts on what it sees.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ראה | ra'ah | see | plain sight, even unintended (Malbim); a surface glance (Vilna Gaon) |
+| הביט | hibit | look | deliberate look (Vilna Gaon); from above (Midrash); turning the head (Mecklenburg) |
+| השקיף | hishkif | look out, look down | looks down unseen from a height (Radak); in the Torah bodes ill (Rashi) |
+| צופה | tzofeh | gaze | gazes at what is not present: the navi, the one waiting (Malbim) |
+| שור | shur | see from afar | seeing far off (Malbim); sight aimed straight at one view (Pappenheim) |
+| מציץ | metzitz | peek | craning to see (Malbim); peeking through a narrow opening (Wertheimer) |
+| משגיח | mashgiach | watch over | active watching that intervenes (Rabbi Moshe Shapiro); always good (Wertheimer) |
 
 ## Distinctions
 

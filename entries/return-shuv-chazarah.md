@@ -6,6 +6,18 @@ translit: [shuv, shuva, shuvah, teshuva, teshuvah, hashava, hashavah, lehashiv, 
 english: [return, repentance, revert, turn back, go back, retrace]
 domain: action
 words:
+  - he: שוב
+    tr: shuv
+    en: return
+    distinct: returning to a prior place or situation, or reverting to one's natural state even where one was never before (Pappenheim); it names the destination, the goal of getting back to where one used to be (Rabbi Klein)
+  - he: תשובה
+    tr: teshuvah
+    en: repentance
+    distinct: repentance precisely because it is a return, to man's natural sin-free state whether or not he was ever there before (Rabbi Klein); it goes back to past deeds to make amends, as hashavah fills a hole
+  - he: חזרה
+    tr: chazarah
+    en: turning back, reverting
+    distinct: the about-face itself, turning back from where one now stands; Mishnaic, never in Tanach; the Targumim's word for going around (Rabbi Eliyahu HaBachur); getting out of the rut rather than the goal (Rabbi Klein)
   - he: שבת
     nk: שַׁבָּת
 sources:
@@ -24,6 +36,14 @@ updated: 2026-09-10
 *Chazarah* is the about-face itself, the act of **turning back** or **reverting**
 from where one now stands. *Shuv* names the destination, *chazarah* names the
 U-turn. *Chazarah* is Mishnaic; it never appears in Tanach.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שוב | shuv | return | return to a prior or natural state (Pappenheim); names the destination, not the U-turn |
+| תשובה | teshuvah | repentance | repentance as return to man's natural righteousness, even if never there before (Rabbi Klein) |
+| חזרה | chazarah | turning back, reverting | the U-turn from where one now stands; Mishnaic, never in Tanach |
 
 ## Distinctions
 

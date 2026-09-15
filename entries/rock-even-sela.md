@@ -7,11 +7,20 @@ english: [stone, rock, crag, brick]
 domain: nature
 words:
   - he: אבן
+    tr: even
+    en: stone
     nk: אֶבֶן
+    distinct: the general word, any naturally occurring stone, against the man-made leveinah (Malbim); the umbrella term that includes sela (Pappenheim); detached, loose enough to pick up (Rabbi Immanuel Chai Ricci)
   - he: לבנה
+    tr: leveinah
+    en: brick
     nk: לְבֵנָה
+    distinct: the brick a man makes by mixing mortar, set against even, the stone formed by nature (Malbim)
   - he: סלע
+    tr: sela
+    en: crag
     nk: סֶלַע
+    distinct: a hard rock fixed in the ground, often a rocky height, and later a coin; attached to the ground (Rabbi Immanuel Chai Ricci); harder calcite-bound rock whose pieces fly outward (Pappenheim); rising up out of the ground (Rabbi Aharon Marcus)
 sources:
   - wiaw:7990 "Like a Rock (Part 1)" (2018-11-17) https://articles.ohr.edu/articles/like-a-rock-part-1
   - wiaw:8000 "Like a Rock (Part 2)" (2018-11-24) https://articles.ohr.edu/articles/like-a-rock-part-2
@@ -32,6 +41,14 @@ puts the difference in attachment
 (*sela* joined to the ground, *even* loose enough to pick up); Rabbi Shlomo
 Pappenheim puts it in hardness, with *even* the hypernym that includes *sela*.
 The Mishnah at *Zevachim* 13:3 sets *even* and *sela* side by side.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אבן | even | stone | general, natural stone (Malbim); hypernym including *sela* (Pappenheim); loose enough to pick up (Ricci) |
+| לבנה | leveinah | brick | man-made brick, against natural *even* (Malbim) |
+| סלע | sela | crag | hard crag fixed in the ground (Ricci); set apart by hardness (Pappenheim); later a coin |
 
 ## Distinctions
 

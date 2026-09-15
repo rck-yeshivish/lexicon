@@ -6,12 +6,61 @@ translit: [seh, tzon, tzon, eiz, ez, izzim, tayish, tayesh, gedi, gediya, seir, 
 english: [lamb, flock, she-goat, he-goat, kid, ram, ewe, young sheep, buck, fatling]
 domain: nature
 words:
-  - he: איל
-    nk: אַיִל
-  - he: יובל
-    nk: יוֹבֵל
+  - he: שה
+    tr: seh
+    en: lamb, kid
+    distinct: gender-neutral, a single young animal of either species, which the Torah often pairs with a more specific word saying which species is meant
+  - he: צאן
+    tr: tzon
+    en: flock
+    distinct: the collective, a flock of sheep and goats together; from going out, since these lighter animals go out even in winter (Pappenheim)
   - he: עז
+    tr: eiz
+    en: she-goat
     nk: עֵז
+    distinct: female goat, possibly only an adult, from eight days to two years absent a stated age (Rabbi David Ibn Zimra); from the stable and unwavering, for its sure footing (Pappenheim)
+  - he: תיש
+    tr: tayish
+    en: he-goat
+    distinct: adult male goat, a billy or buck; the polar opposite of tav-shin weakening, an animal so strong it is the very opposite of weakness (Pappenheim)
+  - he: גדי
+    tr: gedi
+    en: kid
+    distinct: a young goat, a kid, up to a year old; with tleh, an animal still nursing (Rabbi Meir Mazuz)
+  - he: שעיר
+    tr: seir
+    en: kid
+    distinct: a young goat at any age; from tzair, young (Abarbanel), or se'ar, hair (Rav Hirsch); the texts of the Rambam divide over whether seir alone names a goat in its second year (Rashi) or only seir izzim
+  - he: רחל
+    tr: rachel
+    en: ewe
+    distinct: adult female sheep, in its second year or older (Rashi); related to the Akkadian lahru by metathesis
+  - he: איל
+    tr: ayil
+    en: ram
+    nk: אַיִל
+    distinct: the ram, the rachel's counterpart, a male sheep more than a month into its second year; the strongest of a flimsy species, from aleph-lamed, power (Pappenheim)
+  - he: יובל
+    tr: yovel
+    en: ram
+    nk: יוֹבֵל
+    distinct: also means ram (Gemara), borrowed then for the ram's horn and then for the fiftieth year when such a horn is blown, whence English jubilee
+  - he: כבש
+    tr: keves
+    en: lamb
+    distinct: a sheep within its first year, always young (Malbim, Rabbi Shmuel Strashun, Rabbi Meir Simcha of Dvinsk); expounded from kevisah, laundering, the lamb washing away sin (Pesikta Rabbasi)
+  - he: כשב
+    tr: kesev
+    en: lamb
+    distinct: an exact metathesis of keves with the same meaning (Radak, Ibn Ezra, Ibn Parchon), a bigger or older sheep (Baal HaTurim, Netziv), or a general term for sheep of any age (Malbim, Strashun)
+  - he: טלה
+    tr: tleh
+    en: lamb
+    distinct: another young sheep, and can name a young human, like English kid (Rav Hirsch); from tal, dew (Pappenheim); an animal still nursing (Rabbi Meir Mazuz)
+  - he: עתוד
+    tr: atud
+    en: he-goat
+    distinct: "the most obscure: a larger, stronger he-goat leading the flock (Ibn Ezra); tayish or gedi in Targum Onkelos; fattened young sheep (Peirush HaTur HaAruch, Rabbi Yosef Chiyyun); any adult male of either species (Ramban)"
 sources:
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
 authorities: [Rabbi Shlomo Pappenheim, Rabbi David Ibn Zimra, Abarbanel, Rav Hirsch, Rambam, Rashi, Radak, Ibn Ezra, Ibn Parchon, Rabbi Yishaya of Trani, Turei Zahav, Panei'ach Raza, Baal HaTurim, Peirush HaRokeach, Netziv, Rabbi Shmuel Strashun, Malbim, Rabbi Meir Simcha of Dvinsk, Rabbi Aharon Marcus, Rabbi Yisrael David Miller of Grodno, Ramban, Rabbi Yosef Chiyyun, Rabbi Meir Mazuz, Aruch HaShulchan HeAsid, Pesikta Rabbasi, Peirush HaTur HaAruch]
@@ -29,6 +78,24 @@ The words sort by species. General (either species):
 on one reading, an exact metathesis of *keves*, and on others a slightly older or more general sheep. *Atud* is the word whose meaning is
 most obscured: it might be any goat, or an extra-large adult goat, or a fat young
 sheep, or any adult male of either species.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שה | seh | lamb, kid | one young animal of either species, sex unstated |
+| צאן | tzon | flock | collective flock of both species; they go out even in winter (Pappenheim) |
+| עז | eiz | she-goat | female goat, eight days to two years (Ibn Zimra); sure-footed (Pappenheim) |
+| תיש | tayish | he-goat | adult male goat; the very opposite of weakness (Pappenheim) |
+| גדי | gedi | kid | young goat up to a year; still nursing (Mazuz) |
+| שעיר | seir | kid | young goat at any age; from young (Abarbanel) or hair (Rav Hirsch) |
+| רחל | rachel | ewe | adult ewe, in its second year or older (Rashi) |
+| איל | ayil | ram | male sheep past a year and a month; strongest of its species (Pappenheim) |
+| יובל | yovel | ram | ram (Gemara); borrowed for the ram's horn and the fiftieth year |
+| כבש | keves | lamb | sheep in its first year; washes away sin (Pesikta Rabbasi) |
+| כשב | kesev | lamb | disputed: metathesis of *keves* (Radak), older sheep (Netziv), any age (Malbim) |
+| טלה | tleh | lamb | young sheep, also a young human (Rav Hirsch); still nursing (Mazuz) |
+| עתוד | atud | he-goat | most obscure: large lead he-goat (Ibn Ezra), fat young sheep, or any male (Ramban) |
 
 ## Distinctions
 

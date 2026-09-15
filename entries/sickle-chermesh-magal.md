@@ -5,6 +5,15 @@ roots: [ח-ר-מ, ג-ל, ח-ר, מ-ש]
 translit: [chermesh, chermeish, magal, maggal, magla, magal yad, magal kotzer]
 english: [sickle, scythe, reaping hook]
 domain: other
+words:
+  - he: חרמש
+    tr: chermesh
+    en: sickle
+    distinct: the older, purely Hebrew word, in Devarim only and never in the Mishnah; the tool for destroying, from cherem (Rav Hirsch, Mandelkorn); the realm of din (Rabbi Moshe David Valle); its gematria matches the Angel of Death (Rabbi Chaim Vital)
+  - he: מגל
+    tr: magal
+    en: sickle
+    distinct: the same tool under its later, Aramaic-influenced name (Sifrei, Targum), used by the later nevi'im and the Mishnah (Yeivin); from ג-ל, round, for the curved blade (Pappenheim); fits the Pesach theme of galus and geulah (Rabbi Klein)
 sources:
   - wiaw:9153 "Pesach: The Sickle and the Exile" (2021-03-27) https://articles.ohr.edu/articles/pesach-the-sickle-and-the-exile
 authorities: [Sifrei, Targum, Radak, Rambam, Rav Hirsch, Rabbi David Chaim Chelouche, Rabbi Moshe David Valle, Rabbi Chaim Vital, Rabbi Shlomo Pappenheim, Dr. Shmuel Yeivin, Dr. Shlomo Mandelkorn]
@@ -21,6 +30,13 @@ a Hebraicized form of the Aramaic *magla*. That is why the Torah says *meihachel
 16:9) while the Mishnah's ceremony of cutting the Omer asks the crowd twice
 *magal zeh?* (Menachos 10:3). The proposal that one is a "sickle" and the other a
 "scythe" was made by some scholars and rejected by Dr. Shmuel Yeivin.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חרמש | chermesh | sickle | the older Hebrew word, Devarim only; from *cherem*, destroying (Rav Hirsch) |
+| מגל | magal | sickle | the same tool, later Aramaic name (Sifrei); curved like a circle (Pappenheim) |
 
 ## Why the Mishnah says magal
 

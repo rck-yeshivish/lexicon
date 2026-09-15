@@ -6,6 +6,26 @@ translit: [gamad, gamadim, gomed, gemed, namuch, namoch, nemucha, gutz, gutza, n
 english: [short, dwarf, low, stunted, truncated]
 domain: body
 words:
+  - he: גומד
+    tr: gomed
+    en: measure
+    distinct: a unit of length, the same as an amah (Rashbam, Radak), or a truncated amah (Rashi, Mahari Kara, Sefer HeAruch), which Rashi reads as a metathesis of gidem, cut off (Rabbi Yehoshua Steinberg)
+  - he: גמד
+    tr: gamad
+    en: dwarf
+    distinct: the gamadim of Yechezkel 27:11, sounders of the sea's depth (Mahari Kara) or short people an amah tall (Radak), both in Rashi; a nation of dwarfs (Rabbi Eliyahu Bachur); in Talmudic Hebrew, contracting or shrinking
+  - he: נמוך
+    tr: namuch
+    en: low
+    distinct: the plain Rabbinic word for short in height, of a person or a fence alike, not in Tanach; a secondary form of the nifal of mach, lowered (Rabbi Dr. Ernest Klein, Bachur)
+  - he: גוץ
+    tr: gutz
+    en: stunted
+    distinct: a Gemara word, neither Biblical nor Mishnaic; from Greek (Mussafia), akin to French court (Kohut), or more plausibly Aramaic cutting off, height cut short (Rabbi Reuven Chaim Klein, Sokoloff)
+  - he: ננס
+    tr: nanas
+    en: dwarf
+    distinct: the standing Rabbinic word for a dwarf, used also of short boards and low walls (Rashi); equated with Latin nano, from Greek nanos (Bachur, Aruch HaShaleim)
   - he: מך
     nk: מָךְ
 sources:
@@ -30,6 +50,16 @@ boards or low walls. *Gamad*, *namuch* and *nanas* are not confined to people.
 The Gemara (Moed Katan 18a) says that the Pharaoh of Moshe's day was but one
 *amah* tall, which, Rabbi Reuven Chaim Klein observes, gives a different spin to the scene of
 Moshe and Aharon standing before him.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גומד | gomed | measure | a length: an *amah* (Rashbam, Radak) or a cut-down *amah* (Rashi) |
+| גמד | gamad | dwarf | disputed: sea-sounders (Mahari Kara) or dwarfs an *amah* tall (Radak); both in Rashi |
+| נמוך | namuch | low | plain Rabbinic low, of a man or a fence; from *mach* (Ernest Klein) |
+| גוץ | gutz | stunted | the Gemara's word; height cut short, from Aramaic cutting off (Sokoloff) |
+| ננס | nanas | dwarf | Rabbinic dwarf, also low boards and walls (Rashi); from Greek *nanos* (Bachur) |
 
 ## Distinctions
 
