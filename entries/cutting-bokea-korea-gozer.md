@@ -6,10 +6,68 @@ translit: [bokea, bekiah, bakia, korea, kriah, kriyah, keriah, gozer, gezirah, g
 english: [splitting, tearing, cutting, severing, chopping, slicing]
 domain: action
 words:
-  - he: כרת
-    nk: כָּרֵת
+  - he: בקיעה
+    tr: bokea
+    en: split open
+    distinct: splitting from the inside outward, as a hatchling bursts out of its egg; the Written Torah's verb for the sea, split from within at Hashem's word (Rabbi Shmuel Borenstein of Sochatchov)
+  - he: קריעה
+    tr: korea
+    en: tear
+    distinct: tearing something soft that comes apart easily, whence kriah (Pappenheim); ripping apart what was once separate (Shulchan Aruch HaRav), hence kriyas Yam Suf (Rabbi Yitzchok Meir Alter of Ger); acted upon from outside (Rabbi Shmuel Borenstein of Sochatchov)
+  - he: גזירה
+    tr: gozer
+    en: cut, decree
+    distinct: precision cutting with a blade, sawing back and forth through something thick, whence gezeirah, a decree (Pappenheim); chosen for the sea because it means deciding as well as cutting (Rav Hirsch)
+  - he: חתיכה
+    tr: chatichah
+    en: cut
+    distinct: primarily cutting down the middle into two halves (Pappenheim); widened in Rabbinic Hebrew to the general word for cutting of every sort
+  - he: בתר
+    tr: batar
+    en: cut in half
+    distinct: cutting an animal in two for a covenant, the parties passing between the halves; kin to bris, with the same three consonants (Pappenheim)
+  - he: נתח
+    tr: netach
+    en: cut into pieces
+    distinct: cutting an animal into many pieces rather than two, and not for a covenant, the eye on the whole body being cut up (Pappenheim)
+  - he: פתיתה
+    tr: petitah
+    en: break up
+    distinct: breaking something up by hand, whence pas, the eye on the pieces produced rather than the whole (Pappenheim)
   - he: מילה
+    tr: milah
+    en: cut off the top
     nk: מִילָה
+    distinct: cutting off the top of something, the foreskin, the tops of stalks or grass, the tips of arrows; whence mohel
+  - he: פלח
+    tr: poleach
+    en: cut open
+    distinct: cutting open, with pelach the piece cut out, shaped to show its origin in something round, a wedge or sector (Pappenheim)
+  - he: קטב
+    tr: ketev
+    en: cut into
+    distinct: a cut that slices into the thickness without severing through, like a paper cut; in Tanach always an illness that cuts the innards
+  - he: פרימה
+    tr: primah
+    en: unravel
+    distinct: one act that starts many pieces coming away at once, as a loosely woven fabric unravels, against kriah, which removes one piece per tear (Pappenheim)
+  - he: גדע
+    tr: gada
+    en: truncate
+    distinct: truncating in order to destroy or render useless
+  - he: קציצה
+    tr: ketzitzah
+    en: chop
+    distinct: chopping with a single strong blow, from the root meaning end, since chopping creates two new ends
+  - he: קטיפה
+    tr: ketifah
+    en: pluck
+    distinct: severing what was only flimsily attached, the word for plucking a flower
+  - he: כרת
+    tr: kares
+    en: cut, excise
+    nk: כָּרֵת
+    distinct: spiritual excision; a general word for cutting, whether or not it severs, as a sefer krisus (Pappenheim); also ratifying a covenant, once marked by cutting animals in half
 sources:
   - wiaw:8098 "Cut it Out! (Part 1 of 2)" (2019-01-19) https://articles.ohr.edu/articles/cut-it-out-part-1-of-2
   - wiaw:8107 "Cut it Out! (Part 2 of 2)" (2019-01-26) https://articles.ohr.edu/articles/cut-it-out-part-2-of-2
@@ -28,6 +86,26 @@ and specifically of something soft, by a force from outside. *Gozer* is
 *Chatichah* is the ordinary Rabbinic word for **cutting**, originally cutting in
 half. The splitting of the sea is called by all three verbs in different sources, each
 saying something different about who did what to what.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| בקיעה | bokea | split open | splitting from the inside out (Shem MiShmuel) |
+| קריעה | korea | tear | tearing something soft (Pappenheim); from outside (Shem MiShmuel) |
+| גזירה | gozer | cut, decree | a blade sawing through something thick (Pappenheim); also deciding (Rav Hirsch) |
+| חתיכה | chatichah | cut | cutting in half (Pappenheim); the general Rabbinic word |
+| בתר | batar | cut in half | halving an animal for a covenant (Pappenheim) |
+| נתח | netach | cut into pieces | into many pieces, the eye on the whole (Pappenheim) |
+| פתיתה | petitah | break up | breaking up by hand, the eye on the pieces (Pappenheim) |
+| מילה | milah | cut off the top | cutting off the top of something; whence *mohel* |
+| פלח | poleach | cut open | cutting open; *pelach*, a wedge from something round (Pappenheim) |
+| קטב | ketev | cut into | slices into without severing, like a paper cut |
+| פרימה | primah | unravel | many pieces coming away at once, against *kriah* (Pappenheim) |
+| גדע | gada | truncate | truncating to destroy or render useless |
+| קציצה | ketzitzah | chop | chopping with a single strong blow |
+| קטיפה | ketifah | pluck | severing what was flimsily attached, as a flower |
+| כרת | kares | cut, excise | spiritual excision; cutting with or without severance (Pappenheim); ratifying a covenant |
 
 ## Distinctions
 

@@ -7,7 +7,18 @@ english: [coriander, cilantro, coriander seed, mustard seed, delicacy]
 domain: nature
 words:
   - he: גד
+    tr: gad
+    en: coriander
     nk: גַּד
+    distinct: the seed the man resembled; coriander (Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi); mustard seed (Rav Hai Gaon), with Ibn Ezra leaving it open and Onkelos not translating; the seed itself is not white (Rashi, Rashbam, Radak), though the Ralbag holds it was
+  - he: כוסברתא
+    tr: kusbarta
+    en: coriander
+    distinct: the Mishnaic and Aramaic word for coriander; parsed from two Hebrew roots meaning cut up or chewed (Rabbi Dovid Golumb); the double sense of Rebbi's coded answer to Antoninus (Rabbeinu Chananel, Rashi)
+  - he: גודגדניות
+    tr: gudgedaniyos
+    en: a Talmudic food
+    distinct: a Talmudic food that Rashi renders with his Old French word for coriander, suggesting a tie to gad; a clover or a cherry (Jastrow)
 sources:
   - wiaw:8735 "A Coriander Conundrum" (2020-06-06) https://articles.ohr.edu/articles/a-coriander-conundrum
 authorities: [Targum Onkelos, Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi, Rashbam, Ralbag, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rav Hai Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Krinsky, Rabbi Dovid Golumb, Rabbeinu Chananel, Rabbi Natan of Rome, Tosafos Rabbeinu Elchanan, Tosafos HaRosh, Nimukei Yosef, Wilhelm Gesenius]
@@ -25,6 +36,14 @@ Rav Hai Gaon, quoted by Rabbi Yehudah Ibn Balaam, says **mustard seed** instead,
 and Ibn Ezra records both and leaves it open. Onkelos declines to translate at
 all. "White *gad* seed" does not mean the seed is white. Rashi, the Rashbam, and Radak all say the man was white and only its shape
 was like a *gad* seed, and that *gad* seeds are not white.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| גד | gad | coriander | coriander (Targum Yonasan, Rashi) against mustard seed (Rav Hai Gaon); not itself white |
+| כוסברתא | kusbarta | coriander | the Mishnaic and Aramaic word for coriander; Rebbi's coded answer to Antoninus |
+| גודגדניות | gudgedaniyos | a Talmudic food | Rashi's coriander word, tying it to *gad*; clover or cherry (Jastrow) |
 
 ## Distinctions
 

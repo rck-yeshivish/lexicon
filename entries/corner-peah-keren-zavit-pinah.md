@@ -6,11 +6,40 @@ translit: [peah, pe'ah, peot, peyot, paat, keren, qeren, karnayim, zavit, zavis,
 english: [corner, edge, side, angle, cornerstone, prominence]
 domain: other
 words:
+  - he: פאה
+    tr: peah
+    en: corner, side
+    distinct: the broad corner or side of an area, and in most pesukim a cardinal direction, rendered ruach by Onkelos; a wide corner (Pappenheim); anything cut off and set apart, even in mid-field (Rabbi Mecklenburg); the edge of an area (Rabbi David Chaim Chelouche)
+  - he: קרן
+    tr: keren
+    en: horn
+    nk: קֶרֶן
+    distinct: a horn, and a corner as something that juts out from a smooth surface (Malbim, Rabbi Mecklenburg); where two sides collide, from the root of strong impact (Pappenheim); in Tanach the corners of the Altar
+  - he: זוית
+    tr: zavit
+    en: inner corner
+    distinct: the inner face of a corner (Pappenheim, as Rabbi Klein understands him), linked to ziv, radiance; the word Onkelos uses for several other corner words; a synonym of pinah (Rashba)
+  - he: פינה
+    tr: pinah
+    en: corner, prominence
+    distinct: the outer face of a corner, exposed and built stronger, whence leaders are pinos (Pappenheim); the edge where two sides meet (Rabbi David Chaim Chelouche); primarily a raised place, whence the cornerstone (Mordechai Zer-Kavod); a synonym of zavit (Rashba)
+  - he: מקצוע
+    tr: miktzoa
+    en: angle
+    distinct: the sharp, acute angle where two sides converge at a single point, not an area spread out (Pappenheim); rendered zavit by Onkelos like the rest; in Modern Hebrew a profession
+  - he: קצה
+    tr: katzeh
+    en: edge, end
+    distinct: the right-angled corner, a spacious area like peah rather than a point, but above, below, in front or behind where peah is at the side (Pappenheim); rendered zavit by Onkelos
   - he: אתיק
     tr: atik
+    en: corner
     nk: אַתִּיק
-  - he: קרן
-    nk: קֶרֶן
+    distinct: a biblical rarity (Yechezkel 41:15, 42:3); of a quadriliteral root of its own (Ibn Saruk), from the root of disengaging (Ibn Janach, Radak), or static, a panel holding a wall in place (Pappenheim)
+  - he: דמשק
+    tr: demeshek
+    en: corner of a bed
+    distinct: a hapax (Amos 3:12); the corner of a bed, taken from the context (Radak); explained as though it meant Damesek, the city (Rashi)
 sources:
   - wiaw:10884 "Vayakhel-Pekudai: Turning the Corner (Part 1/2)" (2023-03-18) https://articles.ohr.edu/articles/vayakhel-pekudai-turning-the-corner-part-12
   - wiaw:10883 "Vayikra: Turning the Corner (Part 2/2)" (2023-03-25) https://articles.ohr.edu/articles/vayikra-turning-the-corner-part-22
@@ -33,6 +62,19 @@ actually "corner" but a raised place, a **prominence** (hence the
 sides meet at a point, and *katzeh*, from a root meaning **edge/end**, a
 right-angled corner. Onkelos renders *pinah*, *miktzoa*, *katzeh*
 and *paam* as *zavit*, and *peah* too at the corners of the Shulchan.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| פאה | peah | corner, side | broad corner or side, mostly a direction; anything set apart (Mecklenburg) |
+| קרן | keren | horn | a horn; a corner that juts out (Malbim); in Tanach the Altar's corners |
+| זוית | zavit | inner corner | the inner face of a corner (Pappenheim); Onkelos's word for the others |
+| פינה | pinah | corner, prominence | the outer corner (Pappenheim); primarily a raised place (Zer-Kavod) |
+| מקצוע | miktzoa | angle | the sharp angle at a single point (Pappenheim) |
+| קצה | katzeh | edge, end | the right-angled corner, above, below, before or behind (Pappenheim) |
+| אתיק | atik | corner | a biblical rarity; a panel holding a wall in place (Pappenheim) |
+| דמשק | demeshek | corner of a bed | a hapax; corner of a bed (Radak) or Damesek (Rashi) |
 
 ## Distinctions
 

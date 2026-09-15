@@ -5,6 +5,19 @@ roots: [פ-ג-ר, נ-ב-ל, ח-ל-ל, ב-ל-ה]
 translit: [peger, pegarim, peggar, neveilah, nevelah, nevela, challal, chalal, chalalim, chalil, chalulim, chullin, chalal kohen, chalus, chalot, pigul, balah, po gar]
 english: [corpse, carcass, cadaver, the slain, remains]
 domain: body
+words:
+  - he: פגר
+    tr: peger
+    en: corpse
+    distinct: a human body, specifically the rotting body of a wicked man (Rabbi Eliyahu HaBachur); related to pigul, disgusting (Rashi); po gar, here he lives (Pappenheim)
+  - he: נבלה
+    tr: neveilah
+    en: carcass
+    distinct: an animal that died without shechitah, from balah, worn out; names human remains only where the person was killed by an outside force (Rabbi Eliyahu HaBachur); in halachah a fixed status
+  - he: חלל
+    tr: challal
+    en: the slain, hollow
+    distinct: literally empty or hollow, a body emptied of its soul like an emptied vessel; the root of chalil, chullin and a kohen's disqualified chalal
 sources:
   - wiaw:7788 "Of Corpses and Carcasses" (2018-06-09) https://articles.ohr.edu/articles/of-corpses-and-carcasses
 authorities: [Rabbi Eliyahu HaBachur, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yosef Teomim]
@@ -21,6 +34,14 @@ and by the same authority it can name a human body too, but only one killed by
 an outside force. *Challal* literally means **empty** or **cavity**: a body
 emptied of its soul is like an empty vessel. *Neveilah* in a halachic passage
 is a technical term.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| פגר | peger | corpse | a human body, the rotting body of a rasha (Eliyahu HaBachur) |
+| נבלה | neveilah | carcass | unslaughtered animal; human remains only if killed by outside force (Eliyahu HaBachur) |
+| חלל | challal | the slain, hollow | literally empty: a body emptied of its soul |
 
 ## Distinctions
 

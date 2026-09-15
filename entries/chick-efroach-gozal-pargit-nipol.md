@@ -5,6 +5,23 @@ roots: [פ-ר-ח, ג-ז-ל, נ-פ-ל]
 translit: [efroach, efroah, efroch, gozal, gozel, gozla, pargit, pargis, pargiyot, pargiyos, nipol, naful, nafil]
 english: [hatchling, fledgling, nestling, young dove, chick, chicken]
 domain: nature
+words:
+  - he: אפרוח
+    tr: efroach
+    en: hatchling
+    distinct: the bird that has just flowered out of its egg, from the root of perach (Ibn Janach, Radak); where contrasted with gozal, the younger stage, still needing its mother and unable to fly (Rabbi Yaakov Kamenetsky, Rabbi Shmuel Ashkenazi)
+  - he: גוזל
+    tr: gozal
+    en: fledgling
+    distinct: primarily a young dove, widened to any young bird (Ibn Janach, Radak); in Biblical Hebrew simply a dove (Rabbi Yehonasan HaKohen of Lunel); the older stage, able to fly a little (Rabbi Yaakov Kamenetsky, Rabbi Shmuel Ashkenazi); tied to gezel, the young bird stealing itself away from its mother (Rav Hirsch)
+  - he: פרגית
+    tr: pargit
+    en: young chicken
+    distinct: a Rabbinic word only; tied to the Arabic fyruj (Rabbi Nosson of Rome) or to the Greek pterix, a winged creature (Rabbi Ernest Klein); not the Modern Hebrew sense of cuts of chicken meat
+  - he: ניפול
+    tr: nipol
+    en: fallen nestling
+    distinct: a young bird found near a dovecote, defined by the halachic case and not the species; one that fell from its cote (Rabbeinu Gershom, Rambam); glossed as a gozal (Rashi), though not a synonym; a species of grasshopper (Rabbi Shlomo Ganzfried)
 sources:
   - wiaw:9906 "Ki Saytzei: Flowering Chicklings" (2022-09-10) https://articles.ohr.edu/articles/ki-saytzei-flowering-chicklings
 authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rav Hirsch, Rabbi Yehuda Aryeh Leib of Carpentras, Rabbi Yehonasan HaKohen of Lunel, Rabbi Yitzchak Sarim, Rabbi Shlomo Kohen of Lissa, Rabbi Yaakov Kamenetsky, Rabbi Shmuel Ashkenazi, Rashi, Rabbeinu Gershom, Rambam, Rabbi Shlomo Ganzfried, Rabbi Nosson of Rome, Rabbi Ernest Klein, Rabbi Dr. Asher Weiser, Dr. Moshe Raanan, Academy of the Hebrew Language]
@@ -23,6 +40,15 @@ its mother, and the *gozal* the older, already able to fly in some limited way. 
 Rabbinic word for a **young chicken**. *Nipol* is, per Rabbeinu Gershom and Rambam, a **fallen nestling**, defined
 by the halachic case, not the species. The whole point of a passage may be
 which stage is meant.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אפרוח | efroach | hatchling | just flowered out of the egg (Ibn Janach, Radak); the younger stage, not yet flying (Kamenetsky) |
+| גוזל | gozal | fledgling | young dove, widened to any young bird (Radak); older, flying a little (Kamenetsky) |
+| פרגית | pargit | young chicken | Rabbinic only; from Arabic *fyruj* (Rabbi Nosson of Rome) or Greek *pterix* (Ernest Klein) |
+| ניפול | nipol | fallen nestling | a bird fallen from its cote (Rabbeinu Gershom, Rambam); a grasshopper (Ganzfried) |
 
 ## Distinctions
 

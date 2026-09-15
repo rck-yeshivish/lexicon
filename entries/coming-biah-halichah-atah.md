@@ -6,10 +6,20 @@ translit: [bo, boh, biah, bi'ah, lavo, lehavi, lech, leich, halichah, halicha, h
 english: [come, coming, go, going, arrive, arrival]
 domain: action
 words:
+  - he: בוא
+    tr: bo
+    en: come
+    distinct: looks at the destination and covers both arriving and being on the way (Rabbi Pappenheim); implies going inside (Tosafists, Zohar); coming repeatedly and willingly (Rabbi Elimelech of Lizhensk)
   - he: הלך
+    tr: lech
+    en: go
     nk: הָלַךְ
+    distinct: going somewhere without the sense of entering (Tosafists); a single occasion, the bare physical act, even against one's will (Rabbi Elimelech of Lizhensk); perhaps fixing on the place of departure, or naming the act of walking (Rabbi Klein)
   - he: אתה
+    tr: atah
+    en: arrive
     nk: אָתָה
+    distinct: like bo faces the destination but names only the arrival, never the way there, a coming with more finality (Rabbi Pappenheim, cited by Malbim); at Devarim 33:2 the Aramaic synonym of ba
 sources:
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
@@ -33,6 +43,14 @@ these theories pans out. *Atah* is
 **arrive**: like *bo* it faces the destination, but it names only the arrival
 and never the journey (Rabbi Pappenheim, cited by Malbim). *Bo* and *atah*
 are not interchangeable.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| בוא | bo | come | faces the destination, arriving or on the way (Pappenheim); implies entering (Tosafists) |
+| הלך | lech | go | going without entering (Tosafists); the bare act, even unwilling (Rabbi Elimelech of Lizhensk) |
+| אתה | atah | arrive | only the arrival, never the way there (Pappenheim, cited by Malbim) |
 
 ## Distinctions
 

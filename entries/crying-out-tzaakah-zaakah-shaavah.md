@@ -6,8 +6,19 @@ translit: [tzaakah, tzeakah, tzaaka, tzaak, vayitzak, zaakah, zeakah, zaaka, vay
 english: [cry out, outcry, cry for help, plea]
 domain: speech
 words:
+  - he: צעקה
+    tr: tzaakah
+    en: cry out
+    distinct: one word with zaakah, the opening letters interchangeable (Rashi, Ramban, Zohar, Pappenheim); not a complaint and not of many (Rabbi Elazar Rokeach of Worms); the graver cry (Wertheimer, Malbim); voices the pain without asking (Rabbi Mecklenburg)
+  - he: זעקה
+    tr: zaakah
+    en: cry out
+    distinct: the same word as tzaakah for most (Rashi, Ramban, Zohar, Pappenheim); a cry that lodges a complaint and implies many people crying (Rabbi Elazar Rokeach of Worms); the shorter sound, of those pinned in place (Rabbi Emmanuel Chai Ricci)
   - he: שועה
+    tr: shaavah
+    en: cry for help
     nk: שַׁוְעָה
+    distinct: addressed only to Hashem (Rabbi Yehuda Leib Shapira-Frankfurter); tied to yeshuah, a call expecting rescue (Pappenheim); says outright what he wants (Rabbi Mecklenburg); spoken tefillah (Zohar); a cry for salvation, not a complaint (Rav Hirsch)
 sources:
   - wiaw:7655 "For Crying Out Loud" (2018-02-24) https://articles.ohr.edu/articles/for-crying-out-loud
   - wiaw:9464 "Seeking Salvation" (2021-11-27) https://articles.ohr.edu/articles/seeking-salvation
@@ -27,6 +38,14 @@ and *zaakah* the sufferer voices his pain, while in
 *shaavah* he asks outright to be saved (Rabbi Yaakov Tzvi Mecklenburg). Among those who
 do separate *tzaakah* from *zaakah*, Rabbi Shlomo Aharon Wertheimer and Malbim
 make *tzaakah* the graver of the two.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| צעקה | tzaakah | cry out | same as *zaakah* (Rashi, Pappenheim); the graver cry (Wertheimer, Malbim) |
+| זעקה | zaakah | cry out | same as *tzaakah* (Rashi, Pappenheim); a complaint, by many (Rokeach) |
+| שועה | shaavah | cry for help | asks outright to be saved (Mecklenburg); only to Hashem (Shapira-Frankfurter) |
 
 ## Distinctions
 

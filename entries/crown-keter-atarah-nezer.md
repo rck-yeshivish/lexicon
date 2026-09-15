@@ -6,8 +6,28 @@ translit: [keter, kesser, kether, atarah, atara, ateres, nezer, neizer, zer, kli
 english: [crown, royal crown, wreath, coronet, diadem, tiara]
 domain: society
 words:
+  - he: כתר
+    tr: keter
+    en: royal crown
+    distinct: the crown of royalty, always keser malchus in Tanach; encircles the head without rising above it, a coronet (Malbim); some make it the general word
+  - he: עטרה
+    tr: atarah
+    en: crown, wreath
+    distinct: the general crown, of any wearer, encircling the head and rising above it (Malbim); for others, marked by being covered on top
+  - he: נזר
+    tr: nezer
+    en: crown of consecration
+    distinct: the crown that marks a man off as set apart, worn by the nazir and the Kohen Gadol, not merely an honor; kin to zer, a golden band; encircles only half the head, a tiara (Malbim)
   - he: זר
     nk: זֵר
+  - he: כליל
+    tr: klil
+    en: crown
+    distinct: the Aramaic for crown, what encompasses something; source of kallah, a bride wholly surrounded by her ornaments (Rabbi Yaakov Tzvi Mecklenburg)
+  - he: תג
+    tr: tag
+    en: crown
+    distinct: the word for crown in rabbinic idiom, and the tagin drawn atop letters in a sefer Torah; claimed by linguists as a Persian loanword taken into Aramaic
 sources:
   - wiaw:6876 "A Crown is a Crown" (2016-07-30) https://articles.ohr.edu/articles/a-crown-is-a-crown
 authorities: [Malbim, Rabbi Yaakov Tzvi Mecklenburg]
@@ -27,6 +47,16 @@ is the crown of **consecration and separation**, worn by the nazir and the Kohen
 Gadol, which is why the word marks a man off as set apart, not merely as
 honored. Some hold *keter* is the general word and the other two are particular
 kinds, but most read all three as distinct kinds.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כתר | keter | royal crown | the royal crown; circles the head without rising above it (Malbim) |
+| עטרה | atarah | crown, wreath | any wearer's crown; rises above the head (Malbim) |
+| נזר | nezer | crown of consecration | marks the wearer as set apart (nazir, Kohen Gadol); half the head (Malbim) |
+| כליל | klil | crown | Aramaic, what encompasses; source of *kallah* (Mecklenburg) |
+| תג | tag | crown | the rabbinic idiom's crown; the *tagin* atop letters |
 
 ## Distinctions
 

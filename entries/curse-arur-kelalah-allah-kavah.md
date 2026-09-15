@@ -5,6 +5,23 @@ roots: [א-ר-ר, ק-ל-ל, א-ל-ה, ק-ב-ב, מ-א-ר]
 translit: [arur, arrur, kelalah, klalah, kellala, kilel, alah, allah, kavah, kabah, nakav, meerah, mearah, kal]
 english: [curse, imprecation, oath-curse, disparagement, blight]
 domain: speech
+words:
+  - he: ארור
+    tr: arur
+    en: cursed, a curse
+    distinct: the true, intense curse, used for cursing a king (Vilna Gaon); broad and all-inclusive, able to stand alone (Rabbi Mecklenburg); narrowly, the working-out of a curse in one specific thing (Malbim)
+  - he: קללה
+    tr: kelalah
+    en: disparagement, curse
+    distinct: from kal, light, a belittling rather than a true curse, used for cursing a judge (Vilna Gaon); the specific curse that must name its effect, only of what physically exists (Rabbi Mecklenburg)
+  - he: אלה
+    tr: allah
+    en: oath-curse, imprecation
+    distinct: a curse expressly invoking Hashem (Radak); a conditional curse laid down with a stipulation (Rabbi Mecklenburg); a conflict in which one wishes ill on another, kin to elach (Rav Hirsch)
+  - he: קבה
+    tr: kavah
+    en: public curse
+    distinct: a general curse on a man and all that is his, uttered in public with his name stated explicitly, which arur does not connote (Malbim)
 sources:
   - wiaw:7049 "Clarifying a Collection of Curses" (2016-12-17) https://articles.ohr.edu/articles/clarifying-a-collection-of-curses
   - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
@@ -24,6 +41,15 @@ on its target. *Allah* is the curse that invokes Hashem by name (Radak) or, for 
 Mecklenburg, one laid down conditionally: **oath-curse, imprecation**. *Kavah* is the curse pronounced
 in public with the victim named outright. *Arur* and *kelalah* are not one
 word; Shemos 22:27 uses both of them in a single pasuk.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ארור | arur | cursed, a curse | the intense, open-ended curse (Vilna Gaon, Mecklenburg); narrow and specific (Malbim) |
+| קללה | kelalah | disparagement, curse | from *kal*, belittling (Vilna Gaon); must name its effect (Mecklenburg) |
+| אלה | allah | oath-curse, imprecation | invokes Hashem (Radak); conditional (Mecklenburg) |
+| קבה | kavah | public curse | cursed in public, the victim named outright (Malbim) |
 
 ## Distinctions
 

@@ -5,6 +5,19 @@ roots: [ק-ר, ק-ו-ר, צ-נ, צ-נ-ן]
 translit: [kor, kar, karim, mayim karim, tzinah, tzina, tzinim, tzninim, tzonen, tzonein, metzunan, metzunenes, metzunenet, tzintzenes, tzintzenet]
 english: [cold, coldness, chill, biting cold, cool]
 domain: nature
+words:
+  - he: קור
+    tr: kor
+    en: bitter cold, freezing
+    distinct: the severe cold that hurts, felt on the coldest winter days or in touching cold metal, from the root of strong impact (Pappenheim); the drop in temperature itself (Rabbi Yehoshua Steinberg)
+  - he: צנה
+    tr: tzinah
+    en: cold, chill
+    distinct: ordinary, natural coldness that neither sickens nor injures, though from the root of a thorn, the sting of frost (Pappenheim); primarily a painful cold (Rav Hirsch); an all-encompassing cold that envelops a person like snow (Rabbi Yehoshua Steinberg); also a shield
+  - he: צונן
+    tr: tzonen
+    en: cold, cool
+    distinct: the rabbinic form, with the final nun doubled (Radak); in the Mishnah coldness, usually as the opposite of hot
 sources:
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
 authorities: [Rashi, Ibn Ezra, Radak, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi, Rabbi Yishaya of Trani, Rashbam, Abarbanel, Rabbi Yosef Nechemias, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Dovid Golumb, Rabbi Yehoshua Steinberg, Shoresh Yesha]
@@ -20,6 +33,14 @@ chill**. *Kor* is the severe kind, the cold that hurts: **bitter cold,
 freezing** (Rabbi Shlomo Pappenheim). Rabbi Yehoshua Steinberg draws the line
 differently: *kor* is the drop in temperature, *tzinah* is a cold that
 surrounds and envelops a person like snow. Both words are rare in Tanach.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| קור | kor | bitter cold, freezing | the severe cold that hurts (Pappenheim); the drop in temperature (Steinberg) |
+| צנה | tzinah | cold, chill | ordinary cold that does not injure (Pappenheim); enveloping cold, like snow (Steinberg) |
+| צונן | tzonen | cold, cool | the rabbinic form (Radak); cold as the opposite of hot |
 
 ## Distinctions
 

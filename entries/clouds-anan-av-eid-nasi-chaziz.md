@@ -5,6 +5,35 @@ roots: [ע, ע-ב, ד, נ-ש-א, ח-ז, נ-ב-ל, כ-פ]
 translit: [anan, ananim, av, avim, eid, ed, eidim, edim, nasi, nesiim, nesi'im, chaziz, chazizim, neivel, nevel, nivlei shamayim, kaf, kapayim, nod, shadayim]
 english: [cloud, thundercloud, thick cloud, mist, rain cloud, vapor]
 domain: nature
+words:
+  - he: ענן
+    tr: anan
+    en: cloud
+    distinct: the plain, general word, close to a hundred times in Tanach; Chazal tie it to anavim, humble, or aniyim, poor; the cloud the wind sets moving (Pappenheim); the clouds that block sunlight (Sefer HaChochmah)
+  - he: עב
+    tr: av
+    en: thick cloud
+    distinct: the heavy cloud that darkens the sky by blocking the sun, from me'avev (Chazal); especially thick, dense with water (Pappenheim, Sefer HaChochmah)
+  - he: אד
+    tr: eid
+    en: rising vapor, mist
+    distinct: clouds formed from water that evaporated out of a larger body (Pappenheim), water vapor (Rabbeinu Bachya); a smoky cloud (Ibn Ezra); the cloud that comes with thunder (Sefer HaChochmah); for Chazal, what breaks the price-gouger's festival
+  - he: נשיא
+    tr: nasi
+    en: rain cloud
+    distinct: literally prince, since clouds seem to choose whose field prospers (Chazal); from the root of carrying, either carrying rainwater from place to place or light enough to rise (Pappenheim)
+  - he: חזיז
+    tr: chaziz
+    en: thundercloud
+    distinct: the cloud that comes with thunder, tied to sight because it flashes lightning (Pappenheim); from chazon, sight, or clouds sent as signs in Heaven (Chazal); colorful clouds (Sefer HaChochmah)
+  - he: נבל
+    tr: nivlei shamayim
+    en: clouds
+    distinct: one of the two words Rabbi Shlomo of Urbino adds beyond the five; explained as clouds (Rashi, Ibn Ezra); clouds as jugs, neivel, that pour out water (Ibn Saruk, Ibn Janach, Ibn Balaam)
+  - he: כף
+    tr: kapayim
+    en: clouds, or the sky
+    distinct: taken as clouds by many commentators, Rashi among them, clouds being a kippah over one's head (Metzudas Tzion); the sky as a whole (Pappenheim)
 sources:
   - wiaw:8287 "On Clouds" (2019-06-15) https://articles.ohr.edu/articles/on-clouds
 authorities: [Talmud Yerushalmi, Midrash Tehillim, Bereishis Rabbah, Rashi, Ibn Ezra, Rabbeinu Bachya, Sefer HaChochmah, Peirush HaRokeach, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Rabbi Yehudah Ibn Balaam, Midrash Lekach Tov, Metzudas Tzion, Rabbi Yaakov Chaim Sofer, Zohar]
@@ -20,6 +49,18 @@ updated: 2026-09-10
 or mist that clouds are formed from. *Nasi* is the **rain cloud**, for Pappenheim either the one that carries
 water or the one light enough to be lifted. *Chaziz* is the **thundercloud** that comes with
 lightning (Pappenheim). Chazal count these five as the words for cloud.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ענן | anan | cloud | the plain, general word; the cloud the wind sets moving (Pappenheim) |
+| עב | av | thick cloud | heavy cloud that darkens the sky (Chazal); dense with water (Pappenheim) |
+| אד | eid | rising vapor, mist | vapor drawn out of a larger body of water (Pappenheim, Rabbeinu Bachya) |
+| נשיא | nasi | rain cloud | the prince-maker (Chazal); carries rainwater, or light enough to rise (Pappenheim) |
+| חזיז | chaziz | thundercloud | the cloud with thunder, tied to sight by its lightning (Pappenheim) |
+| נבל | nivlei shamayim | clouds | beyond the five (Rabbi Shlomo of Urbino); clouds as jugs pouring water (Ibn Janach) |
+| כף | kapayim | clouds, or the sky | clouds as a *kippah* overhead (Metzudas Tzion); the whole sky (Pappenheim) |
 
 ## Distinctions
 

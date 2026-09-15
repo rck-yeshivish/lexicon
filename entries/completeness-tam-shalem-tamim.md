@@ -6,8 +6,15 @@ translit: [tam, tamim, temimah, temimos, temimot, temimus, temimut, tom, tumah, 
 english: [complete, whole, wholeness, completeness, unblemished, wholehearted, wholesome, perfect]
 domain: other
 words:
+  - he: תם
+    tr: tam
+    en: whole
+    distinct: whole in quality, an exact match with nothing missing and nothing extra, the inside like the outside (Rabbeinu Bachaya, Pappenheim); undivided intention (Malbim); qualitative completion that includes the quantitative (Wertheimer); a positive completion (Bedersi); completion in one aspect, mostly spiritual (Rabbi Shimon Dov Ber Analak)
   - he: שלם
+    tr: shalem
+    en: complete, whole
     nk: שָׁלֵם
+    distinct: quantitative completeness, nothing now lacking, and having more than enough does not disqualify it (Pappenheim); exclusively quantitative (Wertheimer); neutral, with no value judgment (Bedersi); a more overall completion (Rabbi Shimon Dov Ber Analak)
   - he: שלום
     nk: שָׁלוֹם
 sources:
@@ -26,6 +33,13 @@ disqualify it. *Tam* / *tamim* is **whole** in quality: an exact match with
 nothing missing and nothing extra (Rabbeinu Bachaya; Pappenheim); of a korban
 **unblemished**, of a person **wholehearted** or **wholesome**, of the Torah
 **perfect**. *Shleimus* is **completeness** or **wholeness**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תם | tam | whole | qualitative; an exact match, nothing missing or extra (Rabbeinu Bachaya, Pappenheim) |
+| שלם | shalem | complete, whole | quantitative; nothing lacking, excess allowed (Pappenheim) |
 
 ## Distinctions
 
