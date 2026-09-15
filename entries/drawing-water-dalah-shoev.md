@@ -93,7 +93,7 @@ serves for lifting generally: *"aromimcha Hashem ki dilisani,"* "I will exalt
 You, Hashem, for You have lifted me up" (Tehillim 30:2). Hence *d'li*, the pail
 (Bamidbar 24:7, Yeshayahu 40:15), and *daliyot*, the branches at a tree's top,
 eight times in Tanach (Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7,
-31:9, 31:12). Rav Hirsch (to Bereishis 6:10, 30:32) brings *delet*, a door, into
+31:9, 31:12). Rav Hirsch (to Bereishis 6:10, 19:6) brings *delet*, a door, into
 the same family: the door gathers everyone in the house into one place, as the
 *d'li* gathers water into one vessel.
 
@@ -171,4 +171,4 @@ Rabbi Reuven Chaim Klein, "[Shemos: Drawing Water](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[Shemos: Pulling & Drawing](https://articles.ohr.edu/articles/shemos-pulling-drawing)," *What's in a Word?*, Ohr Somayach, 6 January 2024.
 
-Cited in the essay: Shemos 2:16-19; Tehillim 30:2; Bamidbar 24:7; Yeshayahu 40:15 and 12:3; Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7, 31:9, 31:12; Mishlei 20:5; Bereishis 24:11-45 and Shadal to 24:13; Rav Hirsch to Bereishis 24:65 and Devarim 28:22; Ramban to Bereishis 24:17; Targum Onkelos; Rabbi Yaakov Berger, *Milon Leshon Mikra*; *Bereishis Rabbah* 60:5; Sotah 47a, Sanhedrin 107b and Avodah Zarah 44a (*even shoeves*, the magnet); Wilhelm Gesenius on ד-ל.
+Cited in the essay: Shemos 2:16-19; Tehillim 30:2; Bamidbar 24:7; Yeshayahu 40:15 and 12:3; Yirmiyahu 11:16; Yechezkel 17:6-7, 17:23, 19:11, 31:7, 31:9, 31:12; Mishlei 20:5; Bereishis 24:11-45 and Shadal to 24:13; Rav Hirsch to Bereishis 6:10, 19:6, 24:65 and Devarim 28:22; Ramban to Bereishis 24:17; Targum Onkelos; Rabbi Yaakov Berger, *Milon Leshon Mikra*; *Bereishis Rabbah* 60:5; Sotah 47a, Sanhedrin 107b and Avodah Zarah 44a (*even shoeves*, the magnet); Wilhelm Gesenius on ד-ל.

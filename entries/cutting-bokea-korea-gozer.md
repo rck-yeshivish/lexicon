@@ -32,7 +32,7 @@ saying something different about who did what to what.
 ## Distinctions
 
 ### bokea (בקיעה)
-The Torah's verb for the sea opening (Shemos 14:15, 14:21). Rabbi Shmuel
+The Torah's verb for the sea opening (Shemos 14:16, 14:21). Rabbi Shmuel
 Borenstein of Sochatchov (*Shem MiShmuel*): *bokea* is a splitting from the
 inside out, as a hatchling bursts out of its egg (Yeshayahu 34:15) or wine bursts
 a flask (*Gittin* 26a). On his reading the Written Torah, in which Hashem
@@ -171,4 +171,4 @@ Rabbi Reuven Chaim Klein, "[Cut it Out! (Part 2 of 2)](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Karet and Ariri](https://articles.ohr.edu/articles/karet-and-ariri)," *What's in a Word?*, Ohr Somayach, 1 June 2019.
 
-Cited in the essay: Shemos 14:15, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17; Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7; Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24; Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 24:1, 32:24; Yeshayahu 28:2; Hoshea 13:14; Rav Hirsch to Tehillim 136:13; Rabbi Shlomo Pappenheim, *Yerios Shlomo*.
+Cited in the essay: Shemos 14:16, 14:21; *Shulchan Aruch HaRav*, *Orach Chaim* 340:17; Yeshayahu 34:15; *Gittin* 26a; Tehillim 136:13, 72:6, 37:2, 58:8, 91:6, 141:7; Bereishis 15, 15:17, 31:19, 38:12; Melachim I 3:25; Melachim II 6:4; Daniel 9:24; Yirmiyahu 34:18-19; Shir HaShirim 2:17, 4:3; Vayikra 2:6, 13:45, 21:10; Iyov 18:16, 24:24; Mishlei 7:23; Shmuel I 30:12; Devarim 24:1, 32:24; Yeshayahu 28:2; Hoshea 13:14; Rav Hirsch to Tehillim 136:13; Rabbi Shlomo Pappenheim, *Yerios Shlomo*.
