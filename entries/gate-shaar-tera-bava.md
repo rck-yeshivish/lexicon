@@ -49,14 +49,16 @@ and Rabbi Klein thinks it not farfetched to say the same of *bava*.
 
 ## Where the authorities disagree
 
-**Why *tera* means gate.** The obvious answer is that it is *shaar* Aramaicized,
-Hebrew *shin* becoming Aramaic *tav* with *ayin* and *reish* transposed. Rabbi
-Eliyahu HaBachur (*Meturgaman*) suggests another, which Rabbi Klein finds more
-convincing: the Targumim use *tera* to render Hebrew words for demolition,
-destruction, rupturing and breaching (Vayikra 14:45; Devarim 12:3; Shmuel II
-6:8; Yechezkel 22:30), so a gate is seemingly nothing more than a break in the
-wall; that they also use it for *pesach*, "opening" (Bereishis 18:1; Shemos
-33:9; Shoftim 4:20), supports this.
+**Why *tera* means gate.**
+
+- The obvious answer is that it is *shaar* Aramaicized, Hebrew *shin* becoming
+  Aramaic *tav* with *ayin* and *reish* transposed.
+- Rabbi Eliyahu HaBachur (*Meturgaman*) suggests another, which Rabbi Klein
+  finds more convincing: the Targumim use *tera* to render Hebrew words for
+  demolition, destruction, rupturing and breaching (Vayikra 14:45; Devarim 12:3;
+  Shmuel II 6:8; Yechezkel 22:30), so a gate is seemingly nothing more than a
+  break in the wall; that they also use it for *pesach*, "opening" (Bereishis
+  18:1; Shemos 33:9; Shoftim 4:20), supports this.
 
 **Why a section of a sefer is called a *bava* or a *shaar*.** Rabbi Uriel Frank
 of Mitzpe Yericho, founder of the Maane Lashon Society, says the truth is that
@@ -84,11 +86,13 @@ Rabbi Klein's own suggestion, offered as "not farfetched."
 that Bava Kamma, Bava Metzia, and Bava Basra were once one thirty-perek
 masechta, Nezikin, split into three tens, as *Tosefta Keilim* and *Seder Olam*
 were. (The Cambridge manuscript of the Mishnah calls the middle one *Bava
-Tinyana*, "the second *bava*.") *Tosafos Yom Tov* (introduction to Seder
-Nezikin) reads the name as gates: the Mishnah is the gateway into the Torah's
-laws, the Oral Torah opening that body of knowledge to the learner. Others tie
-it to the judges at the city gate, which fits civil law but does not explain
-*Tosefta Keilim* or *Seder Olam*.
+Tinyana*, "the second *bava*.")
+
+- *Tosafos Yom Tov* (introduction to Seder Nezikin) reads the name as gates:
+  the Mishnah is the gateway into the Torah's laws, the Oral Torah opening that
+  body of knowledge to the learner.
+- Others tie it to the judges at the city gate, which fits civil law but does
+  not explain *Tosefta Keilim* or *Seder Olam*.
 
 ## Distinctions
 
@@ -116,22 +120,24 @@ Absent from Biblical Aramaic, and never used by the Targumim to render anything,
 though it appears in Targum to Esther 5:14 in an addition to the text. In the
 Gemara Rashi renders it *shaar* (Moed Katan 22a) or, far more often, *pesach*
 (Shabbos 32a; Yoma 56a; Kesubos 62a; Gittin 68b), and sometimes *deles*, a door
-(Eruvin 104a). Shadal derives it from the root ב-ב, continuing the approach of
-Rabbi Shlomo Pappenheim, who gives the one-letter root *beis* the sense "in,
-inside," the plain force of the letter as a prefix; to it he assigns *navuv*,
-hollowed through (Shemos 27:8), the Mishnaic *biv*, the pipe into which waste
-flows (Eruvin 8:10), and the family of *bo* and *biah*, coming in, hence
-*mavoy*, *tevuah*, and *navi*. Shadal adds *levav*, the heart, and *bavas ayin*,
-the pupil; Rabbi Klein suggests why: possibly because the heart sits deep inside
-the chest, and the pupil is a hole light enters through. Menachem Ibn Saruk had
-filed *bavas ayin* and *yevavah*, weeping, under either the one-letter root
-*beis* or the two-letter ב-ב, and Rabbi Jeremy Steinberg of the Veromemanu
-Foundation clarifies, on Rashi to Shoftim 5:28, that both belong to the eye, the
-pupil being part of it and weeping its most visible act. On Shadal's derivation,
-*bava* is presumably the opening one comes in through. Rav Hirsch (to Tehillim
-17:8) reads *bavas* as the eyelid rather than the pupil (see Rashi to Bechoros
-38b), the gate that opens and shuts the eye, and says outright that it is
-connected to the Aramaic *bava*.
+(Eruvin 104a).
+
+- Shadal derives it from the root ב-ב, continuing the approach of Rabbi Shlomo
+  Pappenheim, who gives the one-letter root *beis* the sense "in, inside," the
+  plain force of the letter as a prefix; to it he assigns *navuv*, hollowed
+  through (Shemos 27:8), the Mishnaic *biv*, the pipe into which waste flows
+  (Eruvin 8:10), and the family of *bo* and *biah*, coming in, hence *mavoy*,
+  *tevuah*, and *navi*. Shadal adds *levav*, the heart, and *bavas ayin*, the
+  pupil; Rabbi Klein suggests why: possibly because the heart sits deep inside
+  the chest, and the pupil is a hole light enters through. Menachem Ibn Saruk
+  had filed *bavas ayin* and *yevavah*, weeping, under either the one-letter
+  root *beis* or the two-letter ב-ב, and Rabbi Jeremy Steinberg of the
+  Veromemanu Foundation clarifies, on Rashi to Shoftim 5:28, that both belong to
+  the eye, the pupil being part of it and weeping its most visible act. On
+  Shadal's derivation, *bava* is presumably the opening one comes in through.
+- Rav Hirsch (to Tehillim 17:8) reads *bavas* as the eyelid rather than the
+  pupil (see Rashi to Bechoros 38b), the gate that opens and shuts the eye, and
+  says outright that it is connected to the Aramaic *bava*.
 
 ## Rendering guidance
 

@@ -56,11 +56,15 @@ stronghold, and unrefined ore are all live readings of Iyov 22:24. Tehillim
 
 ## Where the authorities disagree
 
-**Whether paz is gold at all.** Nine occurrences. Most read it as gold, and
-Radak (to Tehillim 19:11) specifies good, unadulterated gold; Rabbi Shlomo
-Aharon Wertheimer calls it the finest and rarest gold there is. Ibn Ezra (to
-Tehillim 19:11 and Shir HaShirim 5:11) reads it as a precious stone. Rabbi Moshe
-David Valle takes it as royal jewels that happened to be made of gold.
+**Whether paz is gold at all.** Nine occurrences.
+
+- Most read it as gold, and Radak (to Tehillim 19:11) specifies good,
+  unadulterated gold; Rabbi Shlomo Aharon Wertheimer calls it the finest and
+  rarest gold there is.
+- Ibn Ezra (to Tehillim 19:11 and Shir HaShirim 5:11) reads it as a precious
+  stone.
+- Rabbi Moshe David Valle takes it as royal jewels that happened to be made of
+  gold.
 
 **Where paz comes from.**
 - Rabbi Shlomo Pappenheim: the biliteral פ-ז means quick movement, which is why
@@ -88,15 +92,20 @@ The pasuk has Elifaz the Temani telling Iyov that if he repents he will have a
 *betzer* "on the ground" and Ophir, that is gold, "with the rocks of the
 brooks."
 
-**Whether charutz is gold or a gemstone.** In *yerakrak charutz* (Tehillim
-68:14) Menachem Ibn Saruk reads a gemstone; Donash Ibn Labrat and others read
-gold, so the phrase means greenish gold (see *Tosafos* to Nedarim 32a), which
-Rabbi Klein guesses may be electrum or gold alloyed with cadmium. Radak defines
-it as gold while recording the gemstone view.
+**Whether charutz is gold or a gemstone.**
 
-**What kesem means.** Most read gold. Ibn Janach first defines it as jewels and
-then concludes it is more likely gold. Rabbi Moshe Ibn Ezra holds that in Iyov
-31:24 specifically it means silver, while agreeing it is gold elsewhere.
+- In *yerakrak charutz* (Tehillim 68:14) Menachem Ibn Saruk reads a gemstone.
+- Donash Ibn Labrat and others read gold, so the phrase means greenish gold (see
+  *Tosafos* to Nedarim 32a), which Rabbi Klein guesses may be electrum or gold
+  alloyed with cadmium.
+- Radak defines it as gold while recording the gemstone view.
+
+**What kesem means.** Most read gold.
+
+- Ibn Janach first defines it as jewels and then concludes it is more likely
+  gold.
+- Rabbi Moshe Ibn Ezra holds that in Iyov 31:24 specifically it means silver,
+  while agreeing it is gold elsewhere.
 
 **How zahav is derived.**
 - Rabbi Aharon Marcus: from ז-ה, or perhaps from the letter zayin alone, meaning

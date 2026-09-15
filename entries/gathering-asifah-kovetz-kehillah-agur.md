@@ -82,13 +82,18 @@ gathered are **bound** into one unit. *Kehillah* is an **assembly** of people,
 
 The first two agree that *asifah* brings in.
 
-**Whether asifah of death means arrival or reunion.** Rashi (Bereishis 49:29;
-see 49:33, Bamidbar 27:13): the soul is gathered into the store where souls are
-kept. Radak: he is gathered to his fathers, a reunion.
+**Whether asifah of death means arrival or reunion.**
 
-**Kehillah against eidah.** Rabbi Avraham Bedersi HaPenini: *kehillah* is any
-gathering of people, *eidah* a body joined for a specific cause. Along the same
-lines, the Vilna Gaon (Mishlei 5:14): *eidah* is a gathering of the righteous.
+- Rashi (Bereishis 49:29; see 49:33, Bamidbar 27:13): the soul is gathered into
+  the store where souls are kept.
+- Radak: he is gathered to his fathers, a reunion.
+
+**Kehillah against eidah.**
+
+- Rabbi Avraham Bedersi HaPenini: *kehillah* is any gathering of people,
+  *eidah* a body joined for a specific cause.
+- Along the same lines, the Vilna Gaon (Mishlei 5:14): *eidah* is a gathering
+  of the righteous.
 
 ## Distinctions
 
@@ -113,18 +118,22 @@ of wisdom (Rashi, Koheles 1:1).
 ### agur (אגר)
 Shlomo's other name, Agur (Mishlei 30:1), for having gathered up the Torah's
 wisdom; *Midrash Agur* 4 reads both names as a sign that the nation was gathered
-as one in his days. Rabbi Shlomo Aharon Wertheimer: gathering little by little
-for long-term storage; similarly Rabbi Shlomo Pappenheim: collecting or
-stockpiling for later use. Rabbi Avraham Bedersi: inanimate objects only, wine
-(Devarim 28:39) or silver (Shmuel I 2:36), while *asifah*, *kovetz* and
-*kehillah* also take living things. Rabbi Shlomo Pappenheim's root is ג-ר,
-temporary residence, whence *ger*, a sojourner, and *goren*, the granary that
-houses the grain until its processing is done; and, in the gathering sense,
-*gargir*, a grape with the juice gathered inside it, and the small coin *geirah*
-(Shemos 30:13), also called *agurah* (Shmuel I 2:36), which is worth almost
-nothing singly and has value only collected together. (The Aramaic *agra*, wages
-or reward, as in Avos 5:22 and Targum Onkelos to Bereishis 15:1, may derive from
-*agurah*; and a hundred Modern Hebrew *agurot* make a shekel.)
+as one in his days.
+
+- Rabbi Shlomo Aharon Wertheimer: gathering little by little for long-term
+  storage; similarly Rabbi Shlomo Pappenheim: collecting or stockpiling for
+  later use.
+- Rabbi Avraham Bedersi: inanimate objects only, wine (Devarim 28:39) or silver
+  (Shmuel I 2:36), while *asifah*, *kovetz* and *kehillah* also take living
+  things.
+- Rabbi Shlomo Pappenheim's root is ג-ר, temporary residence, whence *ger*, a
+  sojourner, and *goren*, the granary that houses the grain until its processing
+  is done; and, in the gathering sense, *gargir*, a grape with the juice
+  gathered inside it, and the small coin *geirah* (Shemos 30:13), also called
+  *agurah* (Shmuel I 2:36), which is worth almost nothing singly and has value
+  only collected together. (The Aramaic *agra*, wages or reward, as in Avos 5:22
+  and Targum Onkelos to Bereishis 15:1, may derive from *agurah*; and a hundred
+  Modern Hebrew *agurot* make a shekel.)
 
 ## Rendering guidance
 

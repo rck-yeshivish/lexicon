@@ -88,36 +88,41 @@ the *Korban Minchah*, in which the giver shows plainly that he is handing over
 the little he has.
 
 ### matanah (מתנה)
-Some twenty appearances. Wertheimer: *matan* and *matanah* are formed from the
-verb of giving itself, and the word fixes on the giving. English *gift* and
-*give* likewise share an etymology, on the interchange of the f and v sounds. A
-*matanah* is given where the recipient needs something and the giver gains
-nothing from it beyond having filled that need, which is why it builds
-friendship and camaraderie, and why it is mandated on Purim, *matanos
-la'evyonim* (Esther 9:22). Rabbi Mecklenburg writes that it is inappropriate to
-use *matanah* of an offering to Hashem and leaves the reason unstated; Rabbi
-Klein supplies what seems to him the obvious reason, that a *matanah* fills a
-need and Hashem, being complete, has none.
+Some twenty appearances.
+
+- Wertheimer: *matan* and *matanah* are formed from the verb of giving itself,
+  and the word fixes on the giving. English *gift* and *give* likewise share an
+  etymology, on the interchange of the f and v sounds. A *matanah* is given
+  where the recipient needs something and the giver gains nothing from it beyond
+  having filled that need, which is why it builds friendship and camaraderie,
+  and why it is mandated on Purim, *matanos la'evyonim* (Esther 9:22).
+- Rabbi Mecklenburg writes that it is inappropriate to use *matanah* of an
+  offering to Hashem and leaves the reason unstated; Rabbi Klein supplies what
+  seems to him the obvious reason, that a *matanah* fills a need and Hashem,
+  being complete, has none.
 
 ### shai (שי)
-Three appearances: Yeshayahu 18:7, Tehillim 76:12, Tehillim 68:30. Rabbi Avraham
-Bedersi HaPenini: *shai* is *yesh* ("there is") reversed, because a *shai* is a
-gift of real substance. Wertheimer: it is a gift the giver holds to be
-significant while for the receiver it is nothing special, which is why every
-appearance of *shai* in Tanach is a gift to Hashem and the word never occurs in
-any other setting.
+Three appearances: Yeshayahu 18:7, Tehillim 76:12, Tehillim 68:30.
+
+- Rabbi Avraham Bedersi HaPenini: *shai* is *yesh* ("there is") reversed,
+  because a *shai* is a gift of real substance.
+- Wertheimer: it is a gift the giver holds to be significant while for the
+  receiver it is nothing special, which is why every appearance of *shai* in
+  Tanach is a gift to Hashem and the word never occurs in any other setting.
 
 ### teshurah (תשורה)
-A *hapax legomenon*, Shmuel I 9:7. *Midrash Shocher Tov* (Tehillim 87) expounds
-it as the sort of tribute that people look at and sing praises over. Wertheimer
-reads the Midrash as splitting the root two ways: *shur*, a kind of seeing, and
-*shir*, a song. A *teshurah* is the most honorable and eye-catching present one
-can bring. Malbim narrows the setting: it is the gift presented on greeting an
-eminent figure, a kind of *minchah*, given when one comes to a navi or a holy man
-for a berachah or a prophecy. Its purpose is to settle the receiver's body so
-that he can rise past his physical limits and let his spiritual influence flow
-back to the giver, so that giver and receiver trade places. This is why Yitzchak
-asked Esav for a meal before blessing him (Bereishis 27).
+A *hapax legomenon*, Shmuel I 9:7.
+
+- *Midrash Shocher Tov* (Tehillim 87) expounds it as the sort of tribute that
+  people look at and sing praises over. Wertheimer reads the Midrash as
+  splitting the root two ways: *shur*, a kind of seeing, and *shir*, a song. A
+  *teshurah* is the most honorable and eye-catching present one can bring.
+- Malbim narrows the setting: it is the gift presented on greeting an eminent
+  figure, a kind of *minchah*, given when one comes to a navi or a holy man for
+  a berachah or a prophecy. Its purpose is to settle the receiver's body so that
+  he can rise past his physical limits and let his spiritual influence flow back
+  to the giver, so that giver and receiver trade places. This is why Yitzchak
+  asked Esav for a meal before blessing him (Bereishis 27).
 
 ### eshkar (אשכר)
 Twice in Tanach (Tehillim 72:10, Yechezkel 27:15) and obscure.

@@ -67,18 +67,20 @@ the Yarden with it (Melachim II 2:8), and Elisha takes up the *aderes* that fell
 from him as the sign of the succession (Melachim II 2:13-14).
 
 Rashi (Zechariah 13:4) and Ibn Janach and Radak in their respective *Sifrei
-HaShorashim* define *aderes* as a *tallis*, a shawl. Radak ties it to the root
-aleph-dalet-reish, *adir*, greatness and power: the *aderes* displays its
-wearer's importance. Rabbi Shlomo Pappenheim treats the opening aleph and
-closing tav as accretions and traces the word to the two-letter element
-dalet-reish, freedom from restraint, whose family he gives as *dror*
-(emancipation), *dardar* (a thorn growing wild on ownerless ground), *dirah* (a
-home, where a man may act as he wishes), *dor* (a generation, the span of one's
-residence in this world), *medurah* (a bonfire spreading unchecked), *doher* (a
-horse's neighing when let out to roam), *neder* (an obligation freely
-self-imposed), and *adir* (unrestrained power). He offers two ways to fit the
-*aderes* into this: either it hangs loosely on the body, unlike fitted clothing,
-or only the *adirim* wear it.
+HaShorashim* define *aderes* as a *tallis*, a shawl.
+
+- Radak ties it to the root aleph-dalet-reish, *adir*, greatness and power: the
+  *aderes* displays its wearer's importance.
+- Rabbi Shlomo Pappenheim treats the opening aleph and closing tav as accretions
+  and traces the word to the two-letter element dalet-reish, freedom from
+  restraint, whose family he gives as *dror* (emancipation), *dardar* (a thorn
+  growing wild on ownerless ground), *dirah* (a home, where a man may act as he
+  wishes), *dor* (a generation, the span of one's residence in this world),
+  *medurah* (a bonfire spreading unchecked), *doher* (a horse's neighing when
+  let out to roam), *neder* (an obligation freely self-imposed), and *adir*
+  (unrestrained power). He offers two ways to fit the *aderes* into this: either
+  it hangs loosely on the body, unlike fitted clothing, or only the *adirim*
+  wear it.
 
 Targum Onkelos renders *aderes* at Bereishis 25:25 as *gelem*, cognate to
 *glima*; Targum Yonasan at Yehoshua 7:21 and 7:24 renders it *itztala*.
@@ -94,12 +96,14 @@ matter, and which gives *golem*, the Mishnah's opposite of the *chacham* (*Avos*
 5:7), a man not yet formed; the famous legend of the Golem is of a soulless man
 with the outer trappings of a human being and no intellect from a soul.
 
-Shabbos 77b expounds *glima* as "made like a *golem*." Rashi there: a garment
-not cut to the shape of the limbs but essentially a flat sheet covering the
-whole body, unfitted and therefore shapeless beside tailored clothing. Rabbi
-Nosson of Rome (*Sefer HeAruch*) reads it the other way: a man wrapped up in a
-*glima* is somewhat stuck in place and unable to move freely, and so resembles a
-*golem*.
+Shabbos 77b expounds *glima* as "made like a *golem*."
+
+- Rashi there: a garment not cut to the shape of the limbs but essentially a
+  flat sheet covering the whole body, unfitted and therefore shapeless beside
+  tailored clothing.
+- Rabbi Nosson of Rome (*Sefer HeAruch*) reads it the other way: a man wrapped
+  up in a *glima* is somewhat stuck in place and unable to move freely, and so
+  resembles a *golem*.
 
 Rashi's own glosses vary. Once he defines *glima* as *aderes* (Shabbos 10a),
 once as *sudar* (Bava Metzia 47a), in at least one place as *tachrichin*, where
@@ -115,9 +119,10 @@ a *golem* lacks shape, so the humiliated man feels stripped of his form, part of
 his humanity taken from him. Rabbi Golumb notes the parallel to Chazal's reading
 of *levush* as *lo bushah*, no shame.
 
-As for the word's outside origins, Dr. Michael Sokoloff, in his dictionary of
-Jewish Babylonian Aramaic, relates *glima* to an apparent Akkadian cognate
-*gulenu*, "coat"; Dr. Alexander Kohut takes it as Persian, "as he often does."
+- As for the word's outside origins, Dr. Michael Sokoloff, in his dictionary of
+  Jewish Babylonian Aramaic, relates *glima* to an apparent Akkadian cognate
+  *gulenu*, "coat".
+- Dr. Alexander Kohut takes it as Persian, "as he often does."
 
 ### itztala (איצטלא)
 An outer garment worn as a mark of status. Targum renders Achan's Babylonian

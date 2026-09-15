@@ -138,13 +138,15 @@ Messianic times, Kesubos 111b expounds *sorekah* of Bereishis 49:11, spelled
 with a sin, as though it were *srak* with a samech; read literally as it appears
 before us, the passage says that even trees that bear no fruit will yet bear
 fruit. That reading has seemingly nothing to do with grapevines, so why is it
-tied to *sorekah*? Maharsha (Rabbi
-Shmuel Eidels, 1555 to 1631): the rabbis expounded the word as though it were
-spelled with a samech, in an allusion to a *srak* tree, and he concedes that
-the plain sense of the pasuk they expound is about grapevines, not other trees.
-Alternatively Rivan there, Rashi's son-in-law (see also *Shitah Mekubetzes*
-there in Rashi's name): even grapevines that would otherwise count as barren
-will still yield a plentitude of grapes.
+tied to *sorekah*?
+
+- Maharsha (Rabbi Shmuel Eidels, 1555 to 1631): the rabbis expounded the word
+  as though it were spelled with a samech, in an allusion to a *srak* tree, and
+  he concedes that the plain sense of the pasuk they expound is about
+  grapevines, not other trees.
+- Alternatively Rivan there, Rashi's son-in-law (see also *Shitah Mekubetzes*
+  there in Rashi's name): even grapevines that would otherwise count as barren
+  will still yield a plentitude of grapes.
 
 ## Rendering guidance
 

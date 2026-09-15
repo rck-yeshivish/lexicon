@@ -47,24 +47,33 @@ Rabbi Shlomo Aharon Wertheimer both set them in this order.
 ## Distinctions
 
 ### amis (עמית)
-Rabbi Elazar Rokeach of Worms (commentary to the Siddur): one who comes now and
-then, not often, so it carries less intimacy than *chaver*. Rabbi Wertheimer:
-*amis*, unlike *chaver*, is not built on a word for connection at all; it
-denotes the man with whom one has business dealings.
+
+- Rabbi Elazar Rokeach of Worms (commentary to the Siddur): one who comes now
+  and then, not often, so it carries less intimacy than *chaver*.
+- Rabbi Wertheimer: *amis*, unlike *chaver*, is not built on a word for
+  connection at all; it denotes the man with whom one has business dealings.
 
 ### chaver (חבר)
-Root ח-ב-ר, joining. Rokeach: a *chaver* is one who has left his original place
-and attached himself (*chibur*) elsewhere, as a member of a body is called a
-*chaver* of it; alternatively, two who were apart and have now drawn close,
-old friends reunited. Wertheimer: connection in one shared respect, the way two
-men are friends because they learn in the same place. Chazal apply *chaver* to
-a wife as well (Shabbos 63a). One of Yisro's seven names is Chever, because he
-became a *chaver* of Hashem.
+Root ח-ב-ר, joining.
+
+- Rokeach: a *chaver* is one who has left his original place and attached
+  himself (*chibur*) elsewhere, as a member of a body is called a *chaver* of
+  it; alternatively, two who were apart and have now drawn close, old friends
+  reunited.
+- Wertheimer: connection in one shared respect, the way two men are friends
+  because they learn in the same place.
+
+Chazal apply *chaver* to a wife as well (Shabbos 63a). One of Yisro's seven
+names is Chever, because he became a *chaver* of Hashem.
 
 ### reya (רע)
-The most intimate. Rokeach: the one you are with frequently and to whom you
-reveal your secrets. Wertheimer: it tends to denote complete affection, the
-highest form of companionship. Tanach itself implies as much: *reiacha asher
+The most intimate.
+
+- Rokeach: the one you are with frequently and to whom you reveal your secrets.
+- Wertheimer: it tends to denote complete affection, the highest form of
+  companionship.
+
+Tanach itself implies as much: *reiacha asher
 kenafshecha*, "your friend who is as your own self" (Devarim 13:7), among those
 whose influence might draw a man to avodah zarah; and *ve'ahavta lereiacha
 kamocha* (Vayikra 19:18). Chazal in places apply the mitzvah of loving one's *reya* as oneself to one's

@@ -63,14 +63,17 @@ in Esther 1:6, of the tax exemption Achashverosh granted (Megillah 12a).
 
 ### chofesh (חופש)
 Root ח-פ-ש. The Tanach's other slave-freeing word (Shemos 21, Devarim 15,
-Yirmiyahu 34); in modern Hebrew it has drifted to "vacation." Rabbi Shlomo
-Aharon Wertheimer draws the line: *chofshi* is freedom from an obligation to
-work, while *dror* is freedom from subjugation to a particular person who lords
-over him. Rabbi Lord Jonathan Sacks, building on the British philosopher Isaiah
-Berlin's distinction between "negative liberty" and "positive liberty," reads
-*chofesh* against *chafetz* ("desire") and *chapess* ("search out"): *chofshi* is
-what a slave becomes when he goes free, able to do whatever his heart desires,
-which Rabbi Sacks identifies as negative liberty, the mere absence of coercion.
+Yirmiyahu 34); in modern Hebrew it has drifted to "vacation."
+
+- Rabbi Shlomo Aharon Wertheimer draws the line: *chofshi* is freedom from an
+  obligation to work, while *dror* is freedom from subjugation to a particular
+  person who lords over him.
+- Rabbi Lord Jonathan Sacks, building on the British philosopher Isaiah
+  Berlin's distinction between "negative liberty" and "positive liberty," reads
+  *chofesh* against *chafetz* ("desire") and *chapess* ("search out"): *chofshi*
+  is what a slave becomes when he goes free, able to do whatever his heart
+  desires, which Rabbi Sacks identifies as negative liberty, the mere absence of
+  coercion.
 
 ### cheirus (חירות)
 Root ח-ר-ר. Absent from Tanach in the sense of freedom, yet the standard word

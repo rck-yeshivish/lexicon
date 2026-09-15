@@ -66,29 +66,34 @@ fringe** of a garment. *Tzitzis* and *tallis* are not interchangeable.
 ### tzitzis (ציצית)
 The classical lexicographers of the triliteral school trace *tzitzis* to צ-י-צ,
 a root that yields "sprouting," "peeking," "branch, wing, fin," and *tzitz*, the
-Kohen Gadol's forehead plate. Rashi (to Bamidbar 15:38) connects *tzitzis* both
-to the hair that juts from the side of the head (Yechezkel 8:3, the word's only
-other appearance in Tanach) and to "peeking." Rashi (to Yirmiyahu 48:9):
-anything that juts out from a body is a *tzitz*. Malbim (*Sefer HaCarmel*): a
-*tzitz* protrudes from the main body in a way that makes it highly visible. In
-the very same way the strings protrude from the garment. In Mishnaic Hebrew the
-shreds of foreskin left after a milah are *tzitzin* (Shabbos 19:6) for the same
-reason.
+Kohen Gadol's forehead plate.
 
-Rabbi Shlomo Pappenheim traces the word to the single letter צ, whose core sense
-is "exiting, outwardness." In *Yerios Shlomo* the path runs through "peeking": a
-sapling mid-sprout is only partly visible, and so is the eye of a man squinting
-to see better, and from there *tzitzis* and the Kohen Gadol's *tzitz* are highly
-visible ornaments that people end up looking at. In *Cheshek Shlomo* he takes
-the shorter path, that the *tzitzis* appear to "exit" the garment they are tied
-to. Menachem Ibn Saruk (*Machberes Menachem*) implies the same monoliteral root,
-although he does not actually list *tzitzis* as a declension of it. Rav Hirsch
-(to Shemos 28:36), by his phonetic method, links צ-י-צ to ש-י-ש (*sasson*,
-gladness as the outward showing of inner happiness) and to ז-י-ז (*ziz*, the
-mammary gland as the outward showing of the inner motherly instinct to provide
-nourishment), so that *tzitz* is what protrudes from a surface and becomes
-visible to all; he notes this is close to the "growth" sense, a plant
-flourishing outward from its seed.
+- Rashi (to Bamidbar 15:38) connects *tzitzis* both to the hair that juts from
+  the side of the head (Yechezkel 8:3, the word's only other appearance in
+  Tanach) and to "peeking."
+- Rashi (to Yirmiyahu 48:9): anything that juts out from a body is a *tzitz*.
+- Malbim (*Sefer HaCarmel*): a *tzitz* protrudes from the main body in a way
+  that makes it highly visible. In the very same way the strings protrude from
+  the garment.
+
+In Mishnaic Hebrew the shreds of foreskin left after a milah are *tzitzin*
+(Shabbos 19:6) for the same reason.
+
+- Rabbi Shlomo Pappenheim traces the word to the single letter צ, whose core
+  sense is "exiting, outwardness." In *Yerios Shlomo* the path runs through
+  "peeking": a sapling mid-sprout is only partly visible, and so is the eye of a
+  man squinting to see better, and from there *tzitzis* and the Kohen Gadol's
+  *tzitz* are highly visible ornaments that people end up looking at. In
+  *Cheshek Shlomo* he takes the shorter path, that the *tzitzis* appear to
+  "exit" the garment they are tied to.
+- Menachem Ibn Saruk (*Machberes Menachem*) implies the same monoliteral root,
+  although he does not actually list *tzitzis* as a declension of it.
+- Rav Hirsch (to Shemos 28:36), by his phonetic method, links צ-י-צ to ש-י-ש
+  (*sasson*, gladness as the outward showing of inner happiness) and to ז-י-ז
+  (*ziz*, the mammary gland as the outward showing of the inner motherly
+  instinct to provide nourishment), so that *tzitz* is what protrudes from a
+  surface and becomes visible to all; he notes this is close to the "growth"
+  sense, a plant flourishing outward from its seed.
 
 A prominent nobleman of Yerushalayim in the generation before the Churban was
 called Ben Tzitzis (Bereishis Rabbah 42:1, Pirkei DeRabbi Eliezer ch. 3, Avos
@@ -106,9 +111,11 @@ him.
 Appears once for the mitzvah, "you shall make yourself *gedilim* on the four
 corners of your garment" (Devarim 22:12), and once for a braided metal chain
 (Melachim I 7:17). All the early lexicographers (Ibn Saruk, Ibn Janach, Ibn
-Parchon, Radak) put it in ג-ד-ל, the root of *gadol*. Ibn Janach defines
-*gedilim* as *tzitzis*; Radak refines it to free-hanging *tzitzis*; Ibn Parchon
-defines it by *petil*; Ibn Saruk by *chut*, "string."
+Parchon, Radak) put it in ג-ד-ל, the root of *gadol*.
+
+- Ibn Janach defines *gedilim* as *tzitzis*.
+- Radak refines it to free-hanging *tzitzis*.
+- Ibn Parchon defines it by *petil*; Ibn Saruk by *chut*, "string."
 
 - Rav Hirsch (to Bamidbar 15:38): a braided rope is a *gedil* because braiding
   makes it thicker than a single string, so it appears to have "grown" and
@@ -196,17 +203,20 @@ Etymologies:
 
 ### kruspidin (כרוספדין)
 The Targum renders both *tzitzis* and *gedilim* as *kruspeda* (plural
-*kruspidin*). Rabbi Binyamin Mussafia (*Musaf HeAruch*): an Aramaic loanword
-from the Greek *kraspedon* (κράσπεδον). *Kraspedon* is the fringe, edge, hem, or
-embroidered border of a garment, that is, the prominent extension added to a
-core frame, and it is also the standard Koine Greek word for *tzitzis* in the
-Christian Bible. Classicists trace *kraspedon* as a portmanteau of Greek *karé*
-("head, top, peak") and *pédon* ("foot, bottom, edge"), and Rabbi Shaul Goldman
-draws that etymology out: the term itself implies that the most prominent
-feature of a four-cornered garment is neither its top nor its center but the
-strings protruding outward at its bottom edge. Dr. Alexander Kohut (*HeAruch
-HaShaleim*) rejects the Greek origin here too and prefers Persian, as he often
-does.
+*kruspidin*).
+
+- Rabbi Binyamin Mussafia (*Musaf HeAruch*): an Aramaic loanword from the Greek
+  *kraspedon* (κράσπεδον). *Kraspedon* is the fringe, edge, hem, or embroidered
+  border of a garment, that is, the prominent extension added to a core frame,
+  and it is also the standard Koine Greek word for *tzitzis* in the Christian
+  Bible.
+- Classicists trace *kraspedon* as a portmanteau of Greek *karé* ("head, top,
+  peak") and *pédon* ("foot, bottom, edge"), and Rabbi Shaul Goldman draws that
+  etymology out: the term itself implies that the most prominent feature of a
+  four-cornered garment is neither its top nor its center but the strings
+  protruding outward at its bottom edge.
+- Dr. Alexander Kohut (*HeAruch HaShaleim*) rejects the Greek origin here too
+  and prefers Persian, as he often does.
 
 There is an Amora called Rav Kruspedai, cited four times in Bavli, most famously
 that on Rosh Hashanah Hashem opens three books, of the wholly righteous, the

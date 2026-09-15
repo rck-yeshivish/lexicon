@@ -82,25 +82,31 @@ HeAruch*); *Lotir* is the Rishonim's own **Rhineland**; *Almenia* is
   Almenia.
 - Radak reads both Gomer and Ashkenaz as Alemania.
 
-**Whether Germamia glosses Gomer or Magog.** Yoma 10a and Yerushalmi Megillah 1:9
-give Germamia for Gomer, close to an anagram of the name, and the Vilna Gaon
-emends to Germania, the Roman province (see also Negaim 2:1, and *Hagahos
-Yaavetz* to Megillah 6a). But Targum pseudo-Yonasan and Targum Yerushalmi to
-Bereishis 10:2, and Targum Rav Yosef to Divrei HaYamim I 1:5, appear to use it
-for Magog, Gomer's brother (so *Yefeh Einayim* to Yoma 10a). Rabbi Nathan of
-Rome settles the practical question in *Sefer HeAruch*: Germamia is the Land of
-Ashkenaz. In Modern Hebrew the standard word for Germany is *Germaniya*.
+**Whether Germamia glosses Gomer or Magog.**
+
+- Yoma 10a and Yerushalmi Megillah 1:9 give Germamia for Gomer, close to an
+  anagram of the name, and the Vilna Gaon emends to Germania, the Roman province
+  (see also Negaim 2:1, and *Hagahos Yaavetz* to Megillah 6a).
+- But Targum pseudo-Yonasan and Targum Yerushalmi to Bereishis 10:2, and Targum
+  Rav Yosef to Divrei HaYamim I 1:5, appear to use it for Magog, Gomer's brother
+  (so *Yefeh Einayim* to Yoma 10a).
+
+Rabbi Nathan of Rome settles the practical question in *Sefer HeAruch*:
+Germamia is the Land of Ashkenaz. In Modern Hebrew the standard word for Germany
+is *Germaniya*.
 
 **Whether Ashkenaz has a Hebrew etymology at all.** Of all the sources Rabbi
 Reuven Chaim Klein consulted, only two parse the word as though it were natively
-Hebrew or Semitic. Rabbi Yaakov Emden (*Eim L'Binah*) reads it as a portmanteau
-of *mishkan* and *ziv*, ostensibly the dwelling place of the crown jewels of
-Klal Yisrael; Rabbi Yaakov Emden himself lived in the area colloquially called
-Ashkenaz. The second is Alfred Jones, *The Proper Names of the Old Testament
-Scriptures Expounded and Illustrated* (London, 1856), who claims it means "so
-fire is scattered," from *aish*, the letter kaf, and *nazah*; Rabbi Reuven Chaim
-Klein would like to know Jones's source and what other etymologies have been
-proposed.
+Hebrew or Semitic.
+
+- Rabbi Yaakov Emden (*Eim L'Binah*) reads it as a portmanteau of *mishkan* and
+  *ziv*, ostensibly the dwelling place of the crown jewels of Klal Yisrael;
+  Rabbi Yaakov Emden himself lived in the area colloquially called Ashkenaz.
+- The second is Alfred Jones, *The Proper Names of the Old Testament Scriptures
+  Expounded and Illustrated* (London, 1856), who claims it means "so fire is
+  scattered," from *aish*, the letter kaf, and *nazah*; Rabbi Reuven Chaim Klein
+  would like to know Jones's source and what other etymologies have been
+  proposed.
 
 The German philologist Wilhelm Gesenius, whom Rabbi Reuven Chaim Klein calls
 anti-Semitic, citing his remark ("The modern Jews understand it to be *Germany*,
