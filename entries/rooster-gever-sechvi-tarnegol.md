@@ -1,7 +1,7 @@
 ---
 cluster: rooster
 hebrew: [גבר, שכוי, זיז שדי, תרנגול]
-roots: [ג-ב-ר, ס-ח, ז-י-ז, ת-ר-נ-ג-ל]
+roots: [ג-ב-ר, ס-ך, ז-י-ז, ת-ר-נ-ג-ל]
 translit: [gever, gevurah, sechvi, sekhvi, sechavi, ziz sadai, ziz saday, tarnegol, tarnegola, tarnegol bara, socheh, soche, nergal, sukkos benos, tar-lugallu, lugal, tor]
 english: [rooster, cock, heart, mind, skull, wild fowl]
 domain: nature
@@ -65,7 +65,7 @@ Three positions.
    Hashanah 26a), Rashi and Ibn Ezra (to Iyov 38:36), Radak (*Sefer
    HaShorashim* and to Tehillim 73:7), Rosh (Berachos 9:23), Tur (*Orach
    Chaim* 46), and others. *Siddur HaRokeach* reads it as the neshamah.
-3. **The skull.** Rabbi Shlomo Pappenheim traces it to ס-ח, covering or barrier,
+3. **The skull.** Rabbi Shlomo Pappenheim traces it to ס-ך, covering or barrier,
    the root of *sukkah* (a covered enclosure), *nesech* (a libation covering a
    spot with liquid), and *sichah* (smearing with oil); the *sechvi* is the
    skull that covers and shields the brain.
@@ -136,7 +136,7 @@ hoopoe (see Gittin 68b).
 
 ### tarnegol (תרנגול)
 Not in Tanach; ubiquitous in the Mishnah (Terumos 11:9, Maasros 3:7, Shabbos
-5:4, 18:2 and 24:3, Pesachim 2:7 and 5:7, Nedarim 5:1, Bava Kama 2:1, 7:7 and
+5:4, 18:2 and 24:3, Pesachim 2:7 and 4:7, Nedarim 5:1, Bava Kama 2:1, 7:7 and
 10:9, Bava Metzia 5:4, Bava Basra 3:5, Eduyos 6:1, Avodah Zarah 1:5, Chullin 3:5
 and 12:1, Meilah 3:5, Keilim 8:5, Parah 5:6, Taharos 3:8). The word also turns
 up in the Dead Sea Scrolls (11QT[c]) in connection with the prohibition on
@@ -175,4 +175,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Welcome to Rooster City](https://articles.ohr.edu/articles/welcome-to-rooster-city)," *What's in a Word?*, Ohr Somayach, 10 July 2021.
 
-Cited in the essay: Bamidbar 24:3 with Rabbeinu Bachya, 24:15, and 33:35-36 with Targum Yonasan; Vayikra 11:19; Devarim 2:8; Shmuel I 17:42 and Yeshayahu 21:8 with Targum; Melachim I 9:26, 22:49; Melachim II 17:30; Tehillim 50:11 and 80:14 with Targum, and 73:7 with Radak; Iyov 38:36 with Rashi, Ibn Ezra and *Daas Mikra*; Divrei HaYamim II 8:17, 20:36; Berachos 7a, 22a, 60b; Rosh Hashanah 26a with Rabbeinu Chananel; Yoma 20b; Gittin 68b; Sanhedrin 63b; Yerushalmi Berachos 9:1 and Avodah Zarah 3:2; *Vayikra Rabbah* 25:5; Mishnah Yoma 1:8, Sukkah 5:4, Tamid 1:2, Terumos 11:9, Maasros 3:7, Shabbos 5:4, 18:2, 24:3, Pesachim 2:7, 5:7, Nedarim 5:1, Bava Kama 2:1, 7:7, 10:9, Bava Metzia 5:4, Bava Basra 3:5, Eduyos 6:1, Avodah Zarah 1:5, Chullin 3:5, 12:1, Meilah 3:5, Keilim 8:5, Parah 5:6, Taharos 3:8; Rosh to Berachos 9:23; Tur *Orach Chaim* 46; *Perek Shirah* ch. 4; Rabbeinu Efrayim; *Peirush HaRokeach*; *Siddur HaRokeach*; Rabbi Menachem Tziyyoni; Ibn Janach and Radak, *Sefer HaShorashim*; Abudarham; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Meir HaLevi Abulafia; Rabbi Chaim Futernik; Rabbi Dr. Yehuda Felix; Rabbi Dr. Ernest Klein; the Dead Sea Scrolls (11QT[c]); Dr. Jessica L. Lamont, 2021 paper on chickens in Greek curse ritual.
+Cited in the essay: Bamidbar 24:3 with Rabbeinu Bachya, 24:15, and 33:35-36 with Targum Yonasan; Vayikra 11:19; Devarim 2:8; Shmuel I 17:42 and Yeshayahu 21:8 with Targum; Melachim I 9:26, 22:49; Melachim II 17:30; Tehillim 50:11 and 80:14 with Targum, and 73:7 with Radak; Iyov 38:36 with Rashi, Ibn Ezra and *Daas Mikra*; Divrei HaYamim II 8:17, 20:36; Berachos 7a, 22a, 60b; Rosh Hashanah 26a with Rabbeinu Chananel; Yoma 20b; Gittin 68b; Sanhedrin 63b; Yerushalmi Berachos 9:1 and Avodah Zarah 3:2; *Vayikra Rabbah* 25:5; Mishnah Yoma 1:8, Sukkah 5:4, Tamid 1:2, Terumos 11:9, Maasros 3:7, Shabbos 5:4, 18:2, 24:3, Pesachim 2:7, 4:7, Nedarim 5:1, Bava Kama 2:1, 7:7, 10:9, Bava Metzia 5:4, Bava Basra 3:5, Eduyos 6:1, Avodah Zarah 1:5, Chullin 3:5, 12:1, Meilah 3:5, Keilim 8:5, Parah 5:6, Taharos 3:8; Rosh to Berachos 9:23; Tur *Orach Chaim* 46; *Perek Shirah* ch. 4; Rabbeinu Efrayim; *Peirush HaRokeach*; *Siddur HaRokeach*; Rabbi Menachem Tziyyoni; Ibn Janach and Radak, *Sefer HaShorashim*; Abudarham; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Meir HaLevi Abulafia; Rabbi Chaim Futernik; Rabbi Dr. Yehuda Felix; Rabbi Dr. Ernest Klein; the Dead Sea Scrolls (11QT[c]); Dr. Jessica L. Lamont, 2021 paper on chickens in Greek curse ritual.

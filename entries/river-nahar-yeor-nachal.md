@@ -35,7 +35,7 @@ when they appear together, so that Rashi's canal is what *yeor* means beside a
   mountain, *herayon*, pregnancy, and *yuharah*, haughtiness: a *nahar* is the
   river into which smaller streams flow, which makes the bigger river stick out
   vis-a-vis those tributaries.
-- Malbim (to Yirmiyahu 46:10): a *nahar* and a *nachal* alike keep their water
+- Malbim (to Yirmiyahu 46:7): a *nahar* and a *nachal* alike keep their water
   within their banks, simply pushing it along a forward current and not past the
   banks, as against the *yeor*, which tends to overflow. In another discussion
   Malbim (to Yeshayahu 19:5) sizes the three: a *nahar* is shallow, short and
@@ -120,4 +120,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Down by the River](https://articles.ohr.edu/articles/down-by-the-river)," *What's in a Word?*, Ohr Somayach, 5 January 2019.
 
-Cited in the essay: Bereishis 2:11; Shemos 7:19 with Rashi; Yeshayahu 19:5 and Yirmiyahu 46:10 with Malbim; Koheles 1:7; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo Aharon Wertheimer; Rabbi Malkiel Tzvi Tannenbaum of Lomzha, *Divrei Malkiel*.
+Cited in the essay: Bereishis 2:11; Shemos 7:19 with Rashi; Yeshayahu 19:5 and Yirmiyahu 46:7 with Malbim; Koheles 1:7; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo Aharon Wertheimer; Rabbi Malkiel Tzvi Tannenbaum of Lomzha, *Divrei Malkiel*.

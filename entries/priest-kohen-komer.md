@@ -67,7 +67,7 @@ which a Kohen is not, the legitimate Kohanim in the Mikdash having worn white.
 Rabbi Eliyahu HaBachur (1469-1549, *Sefer HaTishbi*) argues that *komer*
 literally means closed, clustered, cloistered, citing the Targum to Tehillim
 77:10 and finding his evidence in the Talmudic *komer shel anavim*, a mass of
-grapes all clustered together (Bechoros 31a); on his reading a *komer* is
+grapes all clustered together (Bechoros 31b); on his reading a *komer* is
 specifically an idolatrous priest secluded and clustered in a monastery, that
 is, a monk, while *kohen* is the more general word.
 
@@ -128,4 +128,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Holy Priests vs. Unholy Priests](https://articles.ohr.edu/articles/holy-priests-vs-unholy-priests)," *What's in a Word?*, Ohr Somayach, 28 December 2019.
 
-Cited in the essay: Bereishis 41:50, 43:30, 47:22; Shemos 2:16, 3:1; Shoftim 18:4; Shmuel II 8:18; Melachim II 23:5-9 with Radak; Yeshayahu 19:8, 51:20, 61:10; Tzefaniah 1:4 with Targum, Rashi, Radak and Rabbi Yosef Ibn Kaspi; Malachi 2:7; Eichah 5:10; Tehillim 77:10 with Targum; Bechoros 31a; Targum Onkelos; Rashi; Radak, *Sefer HaShorashim*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus; Dr. Chaim Tawil; the Elephantine Papyri.
+Cited in the essay: Bereishis 41:50, 43:30, 47:22; Shemos 2:16, 3:1; Shoftim 18:4; Shmuel II 8:18; Melachim II 23:5-9 with Radak; Yeshayahu 19:8, 51:20, 61:10; Tzefaniah 1:4 with Targum, Rashi, Radak and Rabbi Yosef Ibn Kaspi; Malachi 2:7; Eichah 5:10; Tehillim 77:10 with Targum; Bechoros 31b; Targum Onkelos; Rashi; Radak, *Sefer HaShorashim*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Aharon Marcus; Dr. Chaim Tawil; the Elephantine Papyri.

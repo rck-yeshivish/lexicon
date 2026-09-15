@@ -154,8 +154,8 @@ the masechta.
 In Tanach usually a week of seven days (Bereishis 29:27-28; Vayikra 12:5;
 Devarim 16:9), and so in the Mishnah (*Bava Metzia* 9:11, *Erachin* 2:1, and
 throughout *Negaim*). But every time it appears in Daniel it seemingly means a
-period of seven years (4:24,
-9:25-27, 10:2-3), and so in several mishnayos (*Sheviis* 4:7-9, *Bava Metzia*
+period of seven years (9:24-27,
+10:2-3), and so in several mishnayos (*Sheviis* 4:7-9, *Bava Metzia*
 9:10, *Sanhedrin* 5:1, *Makkos* 1:10, *Parah* 8:9), as Rashi repeatedly points
 out (*Pesachim* 12a, 86a; *Moed Katan* 12a; *Sotah* 44a; *Bava Metzia* 110b;
 *Sanhedrin* 97a). In Biblical Hebrew the plural of *shavua* as a seven-day
@@ -215,4 +215,4 @@ Rabbi Reuven Chaim Klein, "[The Year of Seven (Part 2 of 2)](https://articles.oh
 
 Rabbi Reuven Chaim Klein, "[Stop! It's Shavuot!](https://articles.ohr.edu/articles/stop-itas-shavuot)" *What's in a Word?*, Ohr Somayach, 19 May 2018.
 
-Cited in the essay: Bereishis 4:24 with Rasag's *Tafsir*, 21:23-33 with Rav Hirsch to 21:23 and Ibn Ezra to 21:31, 24:9 with Targum Onkelos, 29:27-28; Shemos 23:11; Vayikra 12:5, 23:15-16 with Ibn Ezra, Ramban and Targum Onkelos, 25:2, 25:4, 25:6, 25:8, 25:20, 26:18, 26:24, 26:28, 26:34-35; Bamidbar 30:3 with Ramban; Devarim 6:13, 10:20, 15:12, 16:9; Tehillim 90:10; Mishlei 24:16 with Rasag, Ibn Ezra and Ralbag; Daniel 4:24, 9:25-27, 10:2-3; Nechemiah 10:32; Divrei HaYamim II 15:11-15, 36:21; Mishnah *Sheviis* 2:6, 4:7-9, *Taanis* 4:7, *Megillah* 3:4, *Kesubos* 1:1, 5:6-7, *Nedarim* 8:1, *Bava Metzia* 9:10, 9:11, *Bava Basra* 5:10, *Sanhedrin* 5:1, *Makkos* 1:10, *Eduyos* 4:10, *Erachin* 2:1, *Negaim*, *Parah* 8:9, *Niddah* 4:5; *Shevuos* 36a with Rashi; Rashi to *Pesachim* 12a, 86a, *Moed Katan* 12a, *Sotah* 44a, *Bava Metzia* 110b, *Sanhedrin* 97a; *Sefer Yetzirah* 4:2-3; *Sefer HaChinuch*, mitzvah 330; Rambam's count of the 613 mitzvos; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Moshe Elyakim Briah Hopstein; Rabbi Dr. Alter HaLevi Hilowitz; Rabbi Moshe Zuriel; Rabbi Yitzchok Avigdor Lubchansky; the Shelah; the Brown-Driver-Briggs lexicon.
+Cited in the essay: Bereishis 4:24 with Rasag's *Tafsir*, 21:23-33 with Rav Hirsch to 21:23 and Ibn Ezra to 21:31, 24:9 with Targum Onkelos, 29:27-28; Shemos 23:11; Vayikra 12:5, 23:15-16 with Ibn Ezra, Ramban and Targum Onkelos, 25:2, 25:4, 25:6, 25:8, 25:20, 26:18, 26:24, 26:28, 26:34-35; Bamidbar 30:3 with Ramban; Devarim 6:13, 10:20, 15:12, 16:9; Tehillim 90:10; Mishlei 24:16 with Rasag, Ibn Ezra and Ralbag; Daniel 9:24-27, 10:2-3; Nechemiah 10:32; Divrei HaYamim II 15:11-15, 36:21; Mishnah *Sheviis* 2:6, 4:7-9, *Taanis* 4:7, *Megillah* 3:4, *Kesubos* 1:1, 5:6-7, *Nedarim* 8:1, *Bava Metzia* 9:10, 9:11, *Bava Basra* 5:10, *Sanhedrin* 5:1, *Makkos* 1:10, *Eduyos* 4:10, *Erachin* 2:1, *Negaim*, *Parah* 8:9, *Niddah* 4:5; *Shevuos* 36a with Rashi; Rashi to *Pesachim* 12a, 86a, *Moed Katan* 12a, *Sotah* 44a, *Bava Metzia* 110b, *Sanhedrin* 97a; *Sefer Yetzirah* 4:2-3; *Sefer HaChinuch*, mitzvah 330; Rambam's count of the 613 mitzvos; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Moshe Elyakim Briah Hopstein; Rabbi Dr. Alter HaLevi Hilowitz; Rabbi Moshe Zuriel; Rabbi Yitzchok Avigdor Lubchansky; the Shelah; the Brown-Driver-Briggs lexicon.

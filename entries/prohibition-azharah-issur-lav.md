@@ -28,7 +28,7 @@ the rule that ties a person's hands and takes the act off the table. *Lav* is
 simply a **negative commandment**, a "no-no" people are enjoined from
 committing, named for the word *lo*. *Azharah* and *issur* are not two names
 for one thing. *Azharah* often names the warning
-aspect of a prohibition as against its punishment aspect (*Yevamos* 2b);
+aspect of a prohibition as against its punishment aspect (*Yevamos* 3b);
 *issur* is the substantive prohibited status.
 
 ## Distinctions
@@ -38,9 +38,9 @@ Root ז-ה-ר. Cognates appear some twenty-two times in Tanach, among them Yisro
 advice, "and you shall forewarn (*ve'hizhartah*) them concerning the statutes
 and the teachings" (Shemos 18:20). The noun *azharah* in the sense of a
 prohibition first appears in the Mishnah, where it occurs a handful of times
-(*Pesachim* 3:1 and 4:1, *Sanhedrin* 7:7, *Kerisos* 3:10), and it often denotes
+(*Pesachim* 3:1, *Sanhedrin* 7:7, *Kerisos* 3:10), and it often denotes
 the warning aspect of a prohibition, the "thou shall not," as against the
-punishment aspect (for example, *Yevamos* 2b and *Sifrei Naso* 1).
+punishment aspect (for example, *Yevamos* 3b and *Sifrei Naso* 1).
 
 The early lexicographers (Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak,
 and Rabbi Shlomo Ibn Parchon, the twelfth-century author of
@@ -143,4 +143,4 @@ Rabbi Reuven Chaim Klein, "[Shavuot: Brilliant Prohibitions](https://articles.oh
 
 Rabbi Reuven Chaim Klein, "[All Tied Up](https://articles.ohr.edu/articles/all-tied-up)," *What's in a Word?*, Ohr Somayach, 3 June 2023.
 
-Cited in the essay: Bereishis 39:20, 40:3; Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Yechezkel 3:17; Tehillim 106:27; Rus 3:2; Koheles 4:14; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1 and 4:1, *Sanhedrin* 7:7, *Kerisos* 3:10; *Yevamos* 2b; *Sifrei Naso* 1; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Radak; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*; Rabbi Avraham Maimuni; Rabbeinu Efrayim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Yehuda Ibn Chayyuj; Rabbi Jose Faur; Malbim.
+Cited in the essay: Bereishis 39:20, 40:3; Shemos 18:20, 32:20; Vayikra 15:31, 26:33; Bamidbar 30:3; Yechezkel 3:17; Tehillim 106:27; Rus 3:2; Koheles 4:14; Divrei HaYamim II 19:10; Mishnah *Pesachim* 3:1, *Sanhedrin* 7:7, *Kerisos* 3:10; *Yevamos* 3b; *Sifrei Naso* 1; Menachem Ibn Saruk; Rabbi Yonah Ibn Janach; Radak; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*; Rabbi Avraham Maimuni; Rabbeinu Efrayim; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Yehuda Ibn Chayyuj; Rabbi Jose Faur; Malbim.
