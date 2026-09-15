@@ -88,4 +88,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Subtleties of Simcha and Sasson](https://articles.ohr.edu/articles/subtleties-of-simcha-and-sasson)," *What's in a Word?*, Ohr Somayach, 9 July 2016.
 
-Cited in the essay: Sukkah 48b; Esther 8:16; Yeshayahu 35:10; Malbim's synonym notes on *simchah*, *sasson*, *gilah* and their antonyms; the Vilna Gaon on *simchah* and *sasson*; Bereishis Rabbah 63:1; Machzor Vitry on the wedding berachos.
+Cited in the essay: Sukkah 48b; Esther 8:16; Yeshayahu 35:10; Malbim's synonym notes on *simchah*, *sasson*, *gilah* and their antonyms; the Vilna Gaon on *simchah* and *sasson*; Bereishis Rabbah 63:1; Machzor Vitry on *Yitzchak yeranen* in the Shabbos Minchah *Atah Echad*.

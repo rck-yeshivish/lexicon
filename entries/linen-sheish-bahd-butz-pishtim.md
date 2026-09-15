@@ -16,7 +16,7 @@ sources:
   - wiaw:8140 "Is Cotton a Type of Linen?" (2019-02-16) https://articles.ohr.edu/articles/is-cotton-a-type-of-linen
   - wiaw:9031 "Marshes, Marshes, Marshes" (2021-01-16) https://articles.ohr.edu/articles/marshes-marshes-marshes
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
-authorities: [Ralbag, Abarbanel, Rambam, Daas Zekeinim, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi, Professor Edward Yechezkel Kutscher, Sir Godfrey Rolles Driver, Rabbi Saadia Gaon, Ibn Janach, Ibn Ezra, Radak, Rabbi Yosef Nechemias, Targum Rishon, Targum Sheini, Rabbi Ernest Klein]
+authorities: [Ralbag, Abarbanel, Rambam, Daas Mikra, Rabbi Shlomo Pappenheim, Rabbi Yaakov Zev Lev, Rabbi Moshe Mordechai Schulsinger, Steipler Gaon, Rabbi Dov Landau, Rashi, Professor Edward Yechezkel Kutscher, Sir Godfrey Rolles Driver, Rabbi Saadia Gaon, Ibn Janach, Ibn Ezra, Radak, Rabbi Yosef Nechemias, Targum Rishon, Targum Sheini, Rabbi Ernest Klein]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -47,7 +47,7 @@ further, to the flax while it is still growing in the ground.
   (*sheish*, six); Rambam draws the same distinction in Hilchos Klei HaMikdash
   8:14.
 - Some say that *sheish* is actually an Egyptian word for the choicest grade of
-  linen, with *butz* as its Aramaic-Hebrew rendering (see *Daas Zekeinim* to
+  linen, with *butz* as its Aramaic-Hebrew rendering (see *Daas Mikra* to
   Bereishis 41:42).
 - Pappenheim reads *sheish* as combed linen strands not yet spun into thread,
   and ties the word to *shayish*, marble or limestone, for its smoothness.
@@ -153,4 +153,4 @@ Rabbi Reuven Chaim Klein, "[Marshes, Marshes, Marshes](https://articles.ohr.edu/
 
 Rabbi Reuven Chaim Klein, "[Metzorah/Shabbos HaGadol: Veggies for the Dipping](https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping)," *What's in a Word?*, Ohr Somayach, 20 April 2024.
 
-Cited in the essay: Yoma 71b; Zevachim 18b; Targum to Shemos 9:31; Ralbag and Abarbanel to Shemos 25:4; Rambam, Hilchos Klei HaMikdash 8:14, and his commentary to Mishnah Kilayim 7:2; *Daas Zekeinim* to Bereishis 41:42; Pappenheim; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Vayikra 16:4; Rabbi Moshe Mordechai Schulsinger, *Mishmar HaLevi*, with the replies of the Steipler Gaon and Rabbi Dov Landau; Esther 1:6 with Rabbi Saadia Gaon's *Tafsir*, Targum Rishon, Targum Sheini, Rashi, Ibn Ezra, Radak, Ralbag and Rabbi Yosef Nechemias, and 8:15; Yechezkel 27:16; Ibn Janach, *Sefer HaShorashim*; Megillah 12a; Rabbi Ernest Klein's etymological dictionary; Shabbos 105a; Rashi to Berachos 28b, Shabbos 21a, Shabbos 110b and Niddah 17a; Professor Edward Yechezkel Kutscher; Sir Godfrey Rolles Driver.
+Cited in the essay: Yoma 71b; Zevachim 18b; Targum to Shemos 9:31; Ralbag and Abarbanel to Shemos 25:4; Rambam, Hilchos Klei HaMikdash 8:14, and his commentary to Mishnah Kilayim 7:2; *Daas Mikra* to Bereishis 41:42; Pappenheim; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Vayikra 16:4; Rabbi Moshe Mordechai Schulsinger, *Mishmar HaLevi*, with the replies of the Steipler Gaon and Rabbi Dov Landau; Esther 1:6 with Rabbi Saadia Gaon's *Tafsir*, Targum Rishon, Targum Sheini, Rashi, Ibn Ezra, Radak, Ralbag and Rabbi Yosef Nechemias, and 8:15; Yechezkel 27:16; Ibn Janach, *Sefer HaShorashim*; Megillah 12a; Rabbi Ernest Klein's etymological dictionary; Shabbos 105a; Rashi to Berachos 28b, Shabbos 21a, Shabbos 110b and Niddah 17a; Professor Edward Yechezkel Kutscher; Sir Godfrey Rolles Driver.

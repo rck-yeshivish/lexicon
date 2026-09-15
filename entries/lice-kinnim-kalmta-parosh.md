@@ -25,7 +25,7 @@ words:
   - he: פרעש
     tr: parosh
     en: flea
-    distinct: a black kinah that jumps, in ordinary speech a flea (*Metzudas Tziyon* to Shmuel I 24:14), the creature David compares himself to before Shaul
+    distinct: a black kinah that jumps, in ordinary speech a flea (*Metzudas Tziyon* to Shmuel I 24:15), the creature David compares himself to before Shaul
   - he: כן
     nk: כֵּן
 sources:
@@ -161,7 +161,7 @@ root instead.
 
 ### parosh (פרעש)
 David tells Shaul it is beneath a king to pursue him, comparing himself to a
-*parosh* (Shmuel I 24:14, 26:20). *Metzudas Tziyon* (to 24:14): a black *kinah*
+*parosh* (Shmuel I 24:15, 26:20). *Metzudas Tziyon* (to 24:15): a black *kinah*
 that jumps, which in ordinary speech is a flea. Ibn Saruk, Ibn Janach, and Radak
 treat the root as the four-letter פ-ר-ע-ש; Rav Hirsch (to Bereishis 25:6)
 includes it among four-letter roots that are really three-letter roots with a
@@ -190,4 +190,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[VaEra: Lice Ain't Nice](https://articles.ohr.edu/articles/vaera-lice-aint-nice)," *What's in a Word?*, Ohr Somayach, 25 January 2025.
 
-Cited in the essay: Shemos 8:12 to 14 with Rashbam, Ibn Ezra, and Rav Hirsch; Tehillim 105:31; Bamidbar 13:33 with Malbim; Yeshayahu 51:6 with Targum Yonasan and Malbim, and 19:6, 33:9; Shmuel I 24:14 with *Metzudas Tziyon*, and 26:20; Bereishis 25:6 with Rav Hirsch; Ezra 2:3, 8:3, 10:25; Nechemiah 3:25, 7:8, 10:15; *Parah* 9:2; Shabbos 12a with Tosafos and *Tosafos HaRosh*, 12b, 107b; Berachos 51b with Rashi; Niddah 20b; Chullin 105b; Eruvin 65a; Chagigah 5a; Bava Metzia 107b; Zevachim 19a; *Sefer HeAruch* s.v. ס-ר-ק and כ-ל-ם; Kohut, *He'Aruch HaShaleim*; Pappenheim, *Cheshek Shlomo*; the 2022 Canaanite ivory comb inscription reported by Dr. Daniel Vainstub; the Sefire treaty inscriptions, with Prof. Chaim Tawil; Ludovicus de Dieu; Shadal, with Rosenmuller and Gesenius; Avraham Even-Shoshan's concordance.
+Cited in the essay: Shemos 8:12 to 14 with Rashbam, Ibn Ezra, and Rav Hirsch; Tehillim 105:31; Bamidbar 13:33 with Malbim; Yeshayahu 51:6 with Targum Yonasan and Malbim, and 19:6, 33:9; Shmuel I 24:15 with *Metzudas Tziyon*, and 26:20; Bereishis 25:6 with Rav Hirsch; Ezra 2:3, 8:3, 10:25; Nechemiah 3:25, 7:8, 10:15; *Parah* 9:2; Shabbos 12a with Tosafos and *Tosafos HaRosh*, 12b, 107b; Berachos 51b with Rashi; Niddah 20b; Chullin 105b; Eruvin 65a; Chagigah 5a; Bava Metzia 107b; Zevachim 19a; *Sefer HeAruch* s.v. ס-ר-ק and כ-ל-ם; Kohut, *He'Aruch HaShaleim*; Pappenheim, *Cheshek Shlomo*; the 2022 Canaanite ivory comb inscription reported by Dr. Daniel Vainstub; the Sefire treaty inscriptions, with Prof. Chaim Tawil; Ludovicus de Dieu; Shadal, with Rosenmuller and Gesenius; Avraham Even-Shoshan's concordance.

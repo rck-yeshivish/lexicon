@@ -58,7 +58,7 @@ Bartenura cites both views and openly accepts Rambam's; Rabbi Yisrael Lipschitz
 takes issue with the Rash. Bartenura's counter-cases, which he says seem to
 contradict the Rash: a goat that jumps off a roof is *kofetz* (Bava Kama 2:3),
 and so is the marten that jumps from the ladder to the dovecote (Bava Basra
-2:4), while a man permitted to jump over graves to greet a king is *midaleg*
+2:5), while a man permitted to jump over graves to greet a king is *midaleg*
 (Berachos 19b). These suggest that *doleg* is not confined to animals nor
 *kofetz* to people. Moreover, Shir HaShirim 2:8 proves it, since there both
 verbs apply to one subject.
@@ -117,4 +117,4 @@ Rabbi Reuven Chaim Klein, "[Jumping for Passover: Part 1](https://articles.ohr.e
 
 Rabbi Reuven Chaim Klein, "[Jumping for Passover: Part 2](https://articles.ohr.edu/articles/jumping-for-passover-part-2)," *What's in a Word?*, Ohr Somayach, 8 April 2017.
 
-Cited in the essay: Rashi to Shemos 12:11, 12:13 and Yeshayahu 31:5; Shir HaShirim 2:8; Yerushalmi Beitzah 5:2 with the Vilna Gaon; Mishnah Ohalos 8:5 with Rambam, the Rosh, the Rash of Shantz, Bartenura and Tiferes Yisrael; Mishnah Bava Kama 2:3; Mishnah Bava Basra 2:4; Berachos 19b.
+Cited in the essay: Rashi to Shemos 12:11, 12:13 and Yeshayahu 31:5; Shir HaShirim 2:8; Yerushalmi Beitzah 5:2 with the Vilna Gaon; Mishnah Ohalos 8:5 with Rambam, the Rosh, the Rash of Shantz, Bartenura and Tiferes Yisrael; Mishnah Bava Kama 2:3; Mishnah Bava Basra 2:5; Berachos 19b.
