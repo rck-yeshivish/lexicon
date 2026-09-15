@@ -7,9 +7,15 @@ english: [land, country, earth, ground, soil]
 domain: nature
 words:
   - he: ארץ
+    tr: eretz
+    en: land
     nk: אֶרֶץ
+    distinct: land as territory, a nation's settled land or country (Vilna Gaon); the whole planet down to its core (Malbim); reaches what lies underground, so bread comes from it (Rabbi Moravsky); land in its unblemished state (Pri Megadim); the Maharshal inverts it, confining eretz to the surface
   - he: אדמה
+    tr: adamah
+    en: ground
     nk: אֲדָמָה
+    distinct: the arable surface, uninhabited land set aside for agriculture (Vilna Gaon); only the thin top layer that is farmed (Malbim, Rabbi Moravsky); the ground cursed for Adam's sin (Pri Megadim); passive while plants grow on it (Pappenheim); for the Maharshal the broader word, taking in the depths
 sources:
   - wiaw:7313 "The Land Down Under" (2017-06-24) https://articles.ohr.edu/articles/the-land-down-under
   - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
@@ -26,6 +32,13 @@ extension the earth itself down to its core. *Adamah* is **ground**: the arable
 surface, the soil worked for crops. The Gra, Malbim and Rabbi Moravsky make
 *eretz* the broader word, and the last two confine *adamah* to the thin top
 layer; the Maharshal inverts it.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ארץ | eretz | land | territory, a nation's country (Vilna Gaon); reaches down to the core (Malbim); surface only (Maharshal) |
+| אדמה | adamah | ground | farmland (Vilna Gaon); thin top layer only (Malbim); ground cursed for Adam's sin (Pri Megadim) |
 
 ## Distinctions
 

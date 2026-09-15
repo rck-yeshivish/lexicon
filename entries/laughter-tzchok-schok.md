@@ -5,6 +5,15 @@ roots: [צ-ח-ק, ש-ח-ק]
 translit: [tzchok, tzechok, tzchoq, metzachek, vayitzchak, yitzchak, schok, sechok, sechoq, yischak, yishak, mesachek, sasson, simchah]
 english: [laughter, laughing, play, sport, mockery, derision]
 domain: emotion
+words:
+  - he: צחוק
+    tr: tzchok
+    en: laughter
+    distinct: the same word as s'chok, with no difference of meaning (Ibn Saruk, Ibn Janach, Pappenheim); laughter as an involuntary response to something from outside, running from laughing and playing to deriding and mocking (Pappenheim); the spelling of the name Yitzchak in all but four places in Tanach
+  - he: שחוק
+    tr: s'chok
+    en: laughter
+    distinct: the same word as tzchok, sin and tzadi interchanging (Ibn Saruk, Ibn Janach, Pappenheim); in the spelling Yischak it hints at din (Rabbeinu Bachaya) or at sasson and simchah (Rabbi Yehuda Moscato); the holy laughter reserved for the future (Rabbi Shmuel Borenstein)
 sources:
   - wiaw:8903 "A Laughing Matter" (2020-10-31) https://articles.ohr.edu/articles/a-laughing-matter
 authorities: [Menachem Ibn Saruk, Ibn Janach, Rabbi Shlomo Pappenheim, Rav Hirsch, Malbim, Onkelos, Rashi, Rabbeinu Bachaya, Rabbi Shmuel Feivish Kahane, Rabbi Yehuda Moscato, Rabbi Shmuel Borenstein, Vilna Gaon, Arizal]
@@ -20,6 +29,13 @@ interchanging, and the lexicographers find no difference of meaning between
 them. Both run the full range from laughing and playing to mocking and deriding.
 The whole discussion of *Yitzchak* against *Yischak* is therefore not lexical
 but homiletical and kabbalistic.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| צחוק | tzchok | laughter | laughter, from play to mockery; identical in meaning to *s'chok* (Pappenheim) |
+| שחוק | s'chok | laughter | same word with sin for tzadi (Ibn Janach); holy laughter reserved for the future (Borenstein) |
 
 ## Distinctions
 

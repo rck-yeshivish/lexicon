@@ -6,8 +6,15 @@ translit: [melech, moshel, meloch, timshol, meluchah, melucha, memshalah, malchu
 english: [king, ruler, kingship, dominion]
 domain: society
 words:
+  - he: מלך
+    tr: melech
+    en: king
+    distinct: king by the people's willing acceptance, commissioned by them; rises from within the masses with no inherent advantage, their equal once their recognition is gone (Vilna Gaon); the popular sovereign his constituents accepted (Ibn Ezra)
   - he: מושל
+    tr: moshel
+    en: ruler
     nk: מוֹשֵׁל
+    distinct: holds power by force or proven superiority, accepted or not; leads by his abilities and seizes his constituency, as Gideon was offered (Vilna Gaon); a dictator who rules whether or not his people object (Ibn Ezra); some explain instead a governor or deputy under the king
   - he: מלוכה
     nk: מְלוּכָה
 sources:
@@ -26,6 +33,13 @@ there. A *melech* is **king** by the people's willing acceptance. A *moshel* is
 a **ruler** who holds them by force or by proven superiority, accepted or not.
 Where Yosef's brothers set them side by side (Bereishis 37:8), the second word
 is not mere repetition.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מלך | melech | king | king by the people's willing acceptance; their equal without it (Vilna Gaon) |
+| מושל | moshel | ruler | rules by force or proven ability, accepted or not (Vilna Gaon); some say a deputy |
 
 ## Distinctions
 

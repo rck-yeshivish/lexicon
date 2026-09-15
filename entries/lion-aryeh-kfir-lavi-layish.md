@@ -5,6 +5,35 @@ roots: [א-ר-י, כ-פ-ר, ל-ב-א, ל-י-ש, ש-ח-ל, ש-ח-ץ, ג-ו-ר]
 translit: [ari, aryeh, arye, kfir, kefir, lavi, laviyah, layish, laish, shachal, shachatz, gur, gur aryeh, namer]
 english: [lion, lion cub, young lion, lioness, leopard]
 domain: nature
+words:
+  - he: אריה
+    tr: aryeh
+    en: lion
+    distinct: named for yirah, since everyone fears it (Rabbi Levi); a large lion (Rashi); the middle stage, when its roar frightens (Vilna Gaon); after kfir and before lavi and layish (Radak); an older lion, one with layish and lavi (Abarbanel)
+  - he: כפיר
+    tr: kfir
+    en: young lion
+    distinct: whoever sees it denies his own life (Rabbi Levi); an adolescent that denies his parents (Avos d'Rabbi Nasan); young but strong (Rashi); the cub whose teeth frighten (Vilna Gaon); less fierce, still too young to hunt (Rabbi Yechiel Michel Stern); a small, weak lion (Zohar)
+  - he: לביא
+    tr: lavi
+    en: lion, lioness
+    distinct: its roar seizes men's hearts (Rabbi Levi), or it eats the heart first (Rabbi Menachem Azariah of Fano); younger than an ari (Baal HaTurim); after aryeh, before layish (Radak); a lioness that has borne young (Vilna Gaon); another species (Rabbi Yishaya of Trani), a leopard (Pappenheim)
+  - he: ליש
+    tr: layish
+    en: old lion, lioness
+    distinct: its teeth knead a man's skin like dough (Rabbi Levi); the last and strongest stage (Radak); a lioness that has not yet borne young (Vilna Gaon); a leopard (Rabbi Pinchas Eliyahu Horowitz)
+  - he: שחל
+    tr: shachal
+    en: lion
+    distinct: men fall sick from fear before it (Rabbi Levi); a middling lion (Rashi); the old lion whose ordinary voice frightens (Vilna Gaon); a panther (Rabbi Pinchas Eliyahu Horowitz) or a spotted leopard (Pappenheim)
+  - he: שחץ
+    tr: shachatz
+    en: lion
+    distinct: named because its teeth are sharp as arrows, cheitz (Rabbi Levi); a word for lion even for Rabbi Yishaya of Trani
+  - he: גור
+    tr: gur
+    en: lion cub
+    distinct: the cub still nursing (Radak); a synonym of kfir for a young lion (Abarbanel); allied to ger, the agile cub always on the move (Rabbi Yosef Ibn Kaspi); faster and stronger than a grown lion (Rashbam); an expression of fear (Rabbi Chaim Palagi)
 sources:
   - wiaw:8039 "Crouching Lion, Hidden Blessing" (2018-12-22) https://articles.ohr.edu/articles/crouching-lion-hidden-blessing
 authorities: [Rabbi Yochanan, Rabbi Levi, Tikkunei Zohar, Rabbi Menachem Azariah of Fano, Rabbi Chaim Palagi, Rashi, the Vilna Gaon, Baal HaTurim, Radak, Abarbanel, Rabbi Yosef Ibn Kaspi, Rashbam, Rabbi Yechiel Michel Stern, Rabbi Yishaya of Trani, Rabbi Pinchas Eliyahu Horowitz, Rabbi Shlomo Pappenheim]
@@ -26,6 +55,18 @@ does not say where *shachal* fits; the Vilna Gaon has three stages only, *kfir*,
 *aryeh*, *shachal*; Abarbanel flattens the set to two, *gur* and *kfir* young,
 *aryeh*, *layish* and *lavi* grown. Others still read some of these words as other
 animals altogether.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| אריה | aryeh | lion | named for *yirah*, fear (Rabbi Levi); middle-aged, its roar frightens (Vilna Gaon) |
+| כפיר | kfir | young lion | young lion, less fierce, too young to hunt (Stern); the cub (Vilna Gaon) |
+| לביא | lavi | lion, lioness | seizes hearts (Rabbi Levi); lioness that has borne young (Vilna Gaon); leopard (Pappenheim) |
+| ליש | layish | old lion, lioness | oldest, strongest stage (Radak); lioness yet to bear young (Vilna Gaon); leopard (Horowitz) |
+| שחל | shachal | lion | middling (Rashi) or old, its voice frightens (Vilna Gaon); panther (Horowitz) |
+| שחץ | shachatz | lion | teeth sharp as arrows, *cheitz* (Rabbi Levi) |
+| גור | gur | lion cub | nursing cub (Radak); faster and stronger than a grown lion (Rashbam) |
 
 ## Distinctions
 

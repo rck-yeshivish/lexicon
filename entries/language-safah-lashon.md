@@ -5,6 +5,15 @@ roots: [ש-פ-ה, ל-ש-ן]
 translit: [safah, safa, sfat, sefat, lashon, loshon, leshon, lashon hakodesh, loshon hakodesh, leshon ivri]
 english: [language, tongue, lip, speech]
 domain: speech
+words:
+  - he: שפה
+    tr: safah
+    en: language, lip
+    distinct: literally the lip, the outer organ; a language whose speakers hold only its technical, outward features and not its core values, as the generation of the Haflagah had one safah (Rav Dessler); in modern Hebrew the ordinary word for language
+  - he: לשון
+    tr: lashon
+    en: language, tongue
+    distinct: literally the tongue, the inner organ; a language whose speakers have taken its inner content and values into themselves (Rav Dessler), hence Lashon HaKodesh
 sources:
   - wiaw:7548 "Speaking in Tongues" (2017-12-23) https://articles.ohr.edu/articles/speaking-in-tongues
 authorities: [Rav Dessler, Rashi, Ramban, Chasam Sofer]
@@ -22,6 +31,13 @@ content into themselves, while a *safah* is one they hold only externally, its
 mechanics without its values. That is why Hebrew is *Lashon HaKodesh*, and why
 the generation of the Haflagah, who spoke the same words with none of their
 content, had one *safah* (Bereishis 11:1).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שפה | safah | language, lip | the outer lip; a language held externally, mechanics without values (Rav Dessler) |
+| לשון | lashon | language, tongue | the inner tongue; a language whose values are internalized (Rav Dessler); *Lashon HaKodesh* |
 
 ## Distinctions
 

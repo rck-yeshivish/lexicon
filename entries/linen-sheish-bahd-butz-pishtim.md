@@ -6,10 +6,28 @@ translit: [sheish, shesh, bahd, bad, butz, buts, pishtah, pishtan, pishtim, kitn
 english: [linen, flax, fine linen, byssus, cotton]
 domain: other
 words:
+  - he: פשתים
+    tr: pishtim
+    en: flax
+    distinct: the flax plant and the fiber it yields, linen as a material rather than a particular thread (Ralbag, Abarbanel); the flax while it is still growing in the ground (Pappenheim)
+  - he: שש
+    tr: sheish
+    en: fine linen
+    distinct: a thread of six fibers, named for the number (Ralbag, Abarbanel, Rambam); perhaps the Egyptian word for the choicest linen (Daas Mikra); combed strands not yet spun, smooth as shayish (Pappenheim); a whitish color (Steipler Gaon) or any dignified garment (Rabbi Dov Landau)
   - he: בד
-    nk: בַּד
+    tr: bahd
+    en: linen
+    nk: בַּד
+    distinct: a single-fiber linen thread, from bad, alone (Ralbag, Abarbanel); a linen garment, called alone because linen was never blended with another material (Pappenheim); the word for the Kohen Gadol's white garments on Yom Kippur
   - he: בוץ
+    tr: butz
+    en: fine linen
     nk: בּוּץ
+    distinct: fine linen as a material (Ralbag, Abarbanel), the later Hebrew and Aramaic word, on one view rendering the Egyptian sheish (Daas Mikra); linen already worked, against kitna (Rabbi Yaakov Zev Lev); a flax that grows in watery soil (Pappenheim)
+  - he: כיתנא
+    tr: kitna
+    en: linen
+    distinct: the Talmud's Aramaic for linen, by which Yoma 71b and Zevachim 18b define sheish and bahd; flax unprocessed and still in the ground, against worked butz (Rabbi Yaakov Zev Lev); not the source of modern kotna, cotton (Kutscher)
   - he: כרפס
     nk: כַּרְפַּס
 sources:
@@ -33,6 +51,16 @@ Kohen Gadol's white garments on Yom Kippur. Cotton is not in this family at all:
 it did not exist in the ancient Near East, and where Rabbinic Hebrew needs it,
 it says *tzemer gefen*. The modern *kotna* is not the Semitic *kitna*, "linen";
 Kutscher traces it to *katan*, "small."
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| פשתים | pishtim | flax | flax, the raw material (Ralbag, Abarbanel); still growing in the ground (Pappenheim) |
+| שש | sheish | fine linen | six-fiber thread (Ralbag, Abarbanel); perhaps a whitish color (Steipler Gaon) |
+| בד | bahd | linen | single-fiber thread, from *bad*, alone (Ralbag, Abarbanel); unblended linen (Pappenheim) |
+| בוץ | butz | fine linen | later word for fine linen, already worked (Rabbi Yaakov Zev Lev); grows in marshy soil (Pappenheim) |
+| כיתנא | kitna | linen | Talmudic Aramaic for linen; unprocessed flax in the ground (Rabbi Yaakov Zev Lev) |
 
 ## Distinctions
 

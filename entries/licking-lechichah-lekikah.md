@@ -6,6 +6,14 @@ translit: [lechichah, lechicha, lechikhah, lichach, lakak, lekikah, lekika, yalo
 english: [lick, lap up, lick away, lick clean]
 domain: action
 words:
+  - he: לחיכה
+    tr: lechichah
+    en: lick away
+    distinct: licking something less liquid, with a harder sound, as the ox licks the field bare (Rabbi Moshe Tedeschi-Ashkenazi); from cheich, the palate (Rabbi Yaakov Berger, Rabbi Zilberberg); eating quickly (Ibn Parchon); Ibn Saruk and Radak define it by lekikah; Chazal extend it to fire
+  - he: לקיקה
+    tr: lekikah
+    en: lap up
+    distinct: lapping up liquid, imitating the slurp, hence Gideon's soldiers at the water (Rabbi Moshe Tedeschi-Ashkenazi); drinking without a vessel (Ibn Parchon); detaching something small from something larger, a little at a time (Pappenheim); a synonym of lechichah for Ibn Saruk and Radak
   - he: ילק
     nk: יֶלֶק
 sources:
@@ -25,6 +33,13 @@ firmer, an ox stripping a field bare (Bamidbar 22:4). English "lick" in the
 sense of *defeat* grew out of Bamidbar 22:4 itself; that the English word's two
 senses, smiting and licking, resemble ל-ק-ה and ל-ק-ק is something linguists
 would probably put down to chance.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| לחיכה | lechichah | lick away | licking away something firmer, the ox in the field (Tedeschi-Ashkenazi); eating quickly (Ibn Parchon) |
+| לקיקה | lekikah | lap up | lapping liquid, the dog's slurp (Tedeschi-Ashkenazi); taking a little at a time (Pappenheim) |
 
 ## Distinctions
 

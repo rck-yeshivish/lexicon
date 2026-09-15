@@ -6,8 +6,19 @@ translit: [sheker, shekker, kazav, kozev, chazav, kachash, kichesh, michachesh, 
 english: [falsehood, lie, deceit, fabrication, denial]
 domain: speech
 words:
+  - he: שקר
+    tr: sheker
+    en: falsehood
+    distinct: a statement out of joint with reality, false already when said (Albo); a lie the whole time (Vilna Gaon); whether it must be knowing is disputed, deliberate deceit (Rabbi Edel, Mecklenburg) or any objective untruth as Rabbi Klein defends Albo; outside the real, like a drunkard's imagining (Rav Hirsch)
+  - he: כזב
+    tr: kazav
+    en: a lie that time exposes
+    distinct: sounded true and only later proves false, a broken word (Vilna Gaon, Bechor Shor, Malbim); the mouth saying what the heart does not hold (Albo); the mistaken lie (Mecklenburg); fabrication, saying of what is not that it is (Rabbi Wilheimer); kin to witchcraft (Rav Hirsch)
   - he: כחש
+    tr: kachash
+    en: denial
     nk: כַּחַשׁ
+    distinct: a false answer to a claim already standing, contradicted before it is uttered (Malbim); a manufactured reaction of denial to a warranted claim (Rav Hirsch); saying of what is that it is not (Rabbi Wilheimer); plausible but not refutable outright (Wertheimer)
 sources:
   - wiaw:9080 "Mishpatim: Feeding the Lie" (2021-02-13) https://articles.ohr.edu/articles/mishpatim-feeding-the-lie
 authorities: [Rabbi Yosef Albo, Rabbi Yehuda Leib Edel, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbeinu Yosef Bechor Shor, Rabbi Yehuda Leib Shapira-Frankfurter, Malbim, Rabbi Yonah Wilheimer, Rabbi Shlomo Aharon Wertheimer]
@@ -27,6 +38,14 @@ false (the Gra: he meant it when he said it and then did not keep his word).
 *Kachash* is **denial**, a false answer to a claim already standing against
 him. The three are not interchangeable; the Yom Kippur confession *b'kachash
 uvchazav* names two of them side by side.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שקר | sheker | falsehood | false when said; knowing (Rabbi Edel, Mecklenburg) or any untruth (Albo) |
+| כזב | kazav | a lie that time exposes | true-seeming, exposed later; a broken word (Vilna Gaon); mouth against heart (Albo) |
+| כחש | kachash | denial | denial against a claim already made (Malbim); says of what is that it is not (Wilheimer) |
 
 ## Distinctions
 

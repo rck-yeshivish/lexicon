@@ -5,6 +5,19 @@ roots: [ד-ר-ג, ע-ל-ה, ס-ל-ם]
 translit: [madreigah, madreiga, madrega, madregah, madreigos, madreigot, madregot, maalah, ma'alah, maala, maalos, maalot, ma'alot, sulam, darga, dargin, maalyuta, shir hamaalos, shir hamaalot]
 english: [level, step, stair, ascent, degree, terrace, ladder]
 domain: other
+words:
+  - he: מעלה
+    tr: maalah
+    en: step, virtue
+    distinct: a step up, from the root of aliyah, naming stairs by their upward use; in the abstract an advantage or virtue; the ordinary word in Tanach, a free-standing stair in a house or courtyard, hence the altar prohibition (Wertheimer); perhaps the Hebrew word against a foreign madreigos (Rabbi Klein)
+  - he: מדרגה
+    tr: madreigah
+    en: level, degree
+    distinct: a graded step or terrace, in later Hebrew any degree or level of attainment; in Tanach a walkway built up a mountainside, a terraced rampart (Wertheimer); kin to derech, a path (Rav Hirsch); only twice in Tanach
+  - he: סולם
+    tr: sulam
+    en: ladder
+    distinct: a ladder, though Rashi defines it by maalos and madreigos alike; perhaps moveable or nearer vertical than a stair; cognate of Akkadian simmiltu, stairway (Tawil, Landsberger), or from ס-ל-ל, a paved path up (Rav Hirsch, Gesenius), or from ע-ל, the root of maalos (Rabbi Aharon Marcus)
 sources:
   - wiaw:11245 "Yisro: Stairs to Above" (2024-02-03) https://articles.ohr.edu/articles/yisro-stairs-to-above
 authorities: [Rambam, Rashi, pseudo-Rashi, Targum Yonasan, Targum Rav Yosef, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Rav Hirsch, Rabbi Yitzchak of Zeldin (Shoresh Yesha), Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Wilhelm Gesenius, Rabbi Dr. Ernest Klein, Avraham Even-Shoshan, Chaim Tawil, Benno Landsberger, Kohut, Brown-Driver-Briggs]
@@ -25,6 +38,14 @@ Shlomo Aharon Wertheimer, who alone here separates them by sense, makes
 *madreigos* a terraced way cut up a mountainside and *maalos* a free-standing
 stair in a house or courtyard; that is why the altar prohibition says *maalos*
 (Shemos 20:23).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מעלה | maalah | step, virtue | a step up, the root of *aliyah*; a free-standing stair (Wertheimer) |
+| מדרגה | madreigah | level, degree | graded terrace up a mountainside (Wertheimer); later any level of attainment; akin to *derech* (Rav Hirsch) |
+| סולם | sulam | ladder | a ladder, glossed by Rashi as steps; perhaps from ס-ל-ל, a paved path (Rav Hirsch) |
 
 ## Distinctions
 

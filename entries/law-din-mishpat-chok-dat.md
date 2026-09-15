@@ -6,8 +6,27 @@ translit: [din, deen, mishpat, mishpot, chok, chuk, chukim, chukkim, chukos, chu
 english: [law, judgment, verdict, statute, decree, ordinance, edict, custom, rule]
 domain: society
 words:
+  - he: חק
+    tr: chok
+    en: statute, decree
+    distinct: a law whose reason is not revealed (Yoma 67b, Rambam); engraved, so set and unchanging, often joined to forever, and apt to be written down (Pappenheim); obedience engraved in the person (Rabbi Margules); kin to chag, a circle (Rav Hirsch); the Written Torah (Zera Beirach) or the Oral (Zohar)
+  - he: משפט
+    tr: mishpat
+    en: ordinance, judgment
+    distinct: the rational, mostly interpersonal law (Yoma 67b, Rambam); a decision between two viable options, as a judge weighs two litigants (Rabbi Moshe Shapiro); the verdict that settles the dispute (Bedersi); what ethics demands, a worker's wage (Pappenheim); the judiciary's discretion (Wertheimer)
   - he: דין
-    nk: דִּין
+    tr: din
+    en: judgment, law
+    nk: דִּין
+    distinct: the dispute between two litigants, whence baal din (Bedersi); the penal system that metes out punishment (Wertheimer); judicial decision and its execution, whence dayan and medinah (Pappenheim); law the intellect presumes true, or civil law (Maharal); the letter of the law (Rabbi Yosef Nechemias)
+  - he: דת
+    tr: dat
+    en: law, edict
+    distinct: the king's law or edict in Megillas Esther, not religion (Rabbi Klein); against din, what was done in practice (Rabbi Yosef Nechemias), the law of the land (Ibn Ezra), or the ruler's fiat beyond reason (Rabbi Tzadok HaKohen); practice by force of custom (Pappenheim); perhaps a Persian loanword (Gesenius)
+  - he: נימוס
+    tr: nimus
+    en: law, rule
+    distinct: Rabbinic, a loanword from Greek nomos; the rules and regulations society sets, against dat as what Hashem commands (Rabbi Nissim of Marseilles); Targum uses it for chok, mishpat and torah (Rabbi Eliyahu Bachur); in modern Hebrew, manners
 sources:
   - wiaw:11715 "Tetzaveh/Purim: Do the Din" (2025-03-08) https://articles.ohr.edu/articles/tetzavehpurim-do-the-din
   - wiaw:8315 "Laws and Orders" (2019-07-06) https://articles.ohr.edu/articles/laws-and-orders
@@ -35,6 +54,16 @@ have been offered over the generations, many of them differing from each other
 only in nuance; what he gives is a simplified overview, and doing the question
 justice, he says, would mean working through every instance of both words in
 Tanach to see which answer is most convincing. Nothing below is presented as settled.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חק | chok | statute, decree | unexplained law (Yoma 67b, Rambam); engraved, fixed and unchanging (Pappenheim) |
+| משפט | mishpat | ordinance, judgment | rational, interpersonal law (Rambam); the verdict weighing two sides (Rabbi Moshe Shapiro) |
+| דין | din | judgment, law | the dispute itself (Bedersi); the penal outcome (Wertheimer); the letter of the law (Nechemias) |
+| דת | dat | law, edict | edict, the king's law, not religion (Rabbi Klein); practice against *din*'s letter (Nechemias) |
+| נימוס | nimus | law, rule | Rabbinic, from Greek *nomos*; society's rules, against *dat* as Hashem's command (Rabbi Nissim) |
 
 ## Distinctions
 

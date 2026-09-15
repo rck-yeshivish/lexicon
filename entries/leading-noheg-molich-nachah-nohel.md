@@ -5,6 +5,23 @@ roots: [נ-ה-ג, ה-ג, ה-ל-ך, נ-ח-ה, נ-ח, נ-ה-ל, ה-ל, נ-ה]
 translit: [noheg, nohaig, nihag, vayinhag, yinhagu, manhig, minhag, nahag, hege, molich, yolech, holech, nachah, nacham, nachisa, lanchosam, nechei, nocheh, nohel, neihalta, vayenahaleim, esnahalah, menahel, hanhalah, menuchah, nachas]
 english: [lead, drive, guide, take, conduct, sustain]
 domain: action
+words:
+  - he: נוהג
+    tr: noheg
+    en: drive
+    distinct: leading from power and strength (Wertheimer), holding charges to a consistent course (Pappenheim); deliberate, heavy-handed intervention (Malbim); blind following (Rav Hirsch); can lead to ruin, unlike nachah and nohel (Shapira-Frankfurter); Rabbi Goldblit makes it the protective leading, Rabbi Tedeschi-Ashkenazi a passive one
+  - he: מוליך
+    tr: molich
+    en: take, bring
+    distinct: an inflection of holech, going; the leader's part in getting his charges from one place or situation to another (Wertheimer); leading is a borrowed sense, not the root's own (Pappenheim)
+  - he: נחה
+    tr: nachah
+    en: guide
+    distinct: leading that keeps its charges clear of mishap and brings them to rest, tied to menuchah (Pappenheim); leading with nachas (Malbim); a shared mind, the led wanting the goal (Rav Hirsch); leading all the way to the final destination (Rabbi Tedeschi-Ashkenazi)
+  - he: נהל
+    tr: nohel
+    en: lead with care
+    distinct: caring leading that supplies what those led need to thrive (Wertheimer); not only saves from harm but nurtures, bringing them in to the holy abode (Pappenheim); used of leading the tired (Malbim); the active leading that advances them (Rabbi Goldblit, Rabbi Tedeschi-Ashkenazi)
 sources:
   - wiaw:11677 "Bo: Follow the Leader (Part 1/2)" (2025-02-01) https://articles.ohr.edu/articles/bo-follow-the-leader-part-12
   - wiaw:11678 "Beshalach: Follow the Leader (Part 2/2)" (2025-02-08) https://articles.ohr.edu/articles/beshalach-follow-the-leader-part-22
@@ -25,6 +42,15 @@ shields those led from harm and brings them to rest. *Nohel* is to **lead with
 care**, the leader who not only shields but provides and sustains. Shiras HaYam
 sets *nachisa* and *neihalta* in one pasuk (Shemos 15:13), and Rabbi Pappenheim
 reads the pasuk as built on the contrast between them.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נוהג | noheg | drive | leading by force, holding a fixed course (Pappenheim); can lead to ruin (Shapira-Frankfurter) |
+| מוליך | molich | take, bring | a form of *holech*; moving people from one place or state to another (Wertheimer) |
+| נחה | nachah | guide | shields from harm and brings to rest, from *menuchah* (Pappenheim); a shared goal (Rav Hirsch) |
+| נהל | nohel | lead with care | provides and sustains, not only shields (Pappenheim, Wertheimer); leads the tired (Malbim) |
 
 ## Distinctions
 

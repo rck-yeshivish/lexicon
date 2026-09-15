@@ -6,10 +6,40 @@ translit: [arbeh, arbe, gazam, yelek, yelak, chasil, chagav, chagavim, salam, sa
 english: [locust, grasshopper, cricket, katydid, swarm]
 domain: nature
 words:
+  - he: ארבה
+    tr: arbeh
+    en: locust
+    distinct: named for its multitudes, from harbeh (Radak); both one species and the umbrella word for every kind; heads the four permitted species of Vayikra 11:22; Aramaic govai (Chullin 65a)
   - he: גזם
-    nk: גָּזָם
+    tr: gazam
+    en: cutter locust
+    nk: גָּזָם
+    distinct: the cutter, from gozez, because it cuts the grain (Radak); first in Yoel's sequence; eats some produce and leaves the rest, from the biliteral ג-ז (Pappenheim); a crawling thing (Targum)
   - he: ילק
+    tr: yelek
+    en: licking locust
     nk: יֶלֶק
+    distinct: the licker, from melakek, licking and chewing at the grass (Radak); third in Yoel's sequence; spreads out and flies away, born a worm, then a cocoon, then winged (Malbim), which Rabbi Klein could not confirm; a flying thing (Targum)
+  - he: חסיל
+    tr: chasil
+    en: finishing locust
+    distinct: the finisher, from chasal, eating whatever produce remains (Radak); last in Yoel's sequence; shmota (Targum)
+  - he: חגב
+    tr: chagav
+    en: kosher grasshopper
+    distinct: one of the four permitted species, and also the general term for all kosher grasshoppers (Meiri, Rabbi Shmuel ben Meshullam of Gerona); eight hundred kinds (Chullin 63b); Aramaic gadyan
+  - he: צפוני
+    tr: tzfoni
+    en: grasshopper
+    distinct: another word for these pests, so called because they usually migrate from the north, tzafon (Rashi, Radak); what Hashem promises to distance if the people repent (Yoel 2:20)
+  - he: צלצל
+    tr: tzlatzel
+    en: locust
+    distinct: disputed; another kind of grasshopper (Rashi), named for its din like cymbals (Rabbeinu Bachya) or for the shadow a swarm casts (Pirush HaRokeach); butterflies (Rav Saadia Gaon), worms (Ralbag), or the clamor of enemy armies (Ramban)
+  - he: חנמל
+    tr: chanamal
+    en: grasshopper
+    distinct: in the retelling of the makkos (Tehillim 78:47); grasshoppers (Rashi), against other meforshim who read a kind of hail; the eighth kind in the plague of arbeh (Rabbi Menachem Tzioni)
 sources:
   - wiaw:7592 "Army of Grasshoppers" (2018-01-20) https://articles.ohr.edu/articles/army-of-grasshoppers
   - wiaw:9756 "Empty Exaggerations" (2022-07-02) https://articles.ohr.edu/articles/empty-exaggerations
@@ -29,6 +59,19 @@ they arrive in a fixed order, *gazam*, *arbeh*, *yelek*, *chasil*, each eating
 what the one before left. *Chagav* is also the general term for **kosher**
 grasshoppers (Meiri, *Beis HaBechirah*, and Rabbi Shmuel ben Meshullam of Gerona,
 *Ohel Mo'ed*). In a plague context the sense is a devouring swarm.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ארבה | arbeh | locust | the swarm, from *harbeh* (Radak); one species and also the umbrella word |
+| גזם | gazam | cutter locust | the cutter, from *gozez* (Radak); first in Yoel's order; eats some, leaves some (Pappenheim) |
+| ילק | yelek | licking locust | the licker (Radak); third in Yoel's order; worm, cocoon, then winged (Malbim) |
+| חסיל | chasil | finishing locust | the finisher, from *chasal* (Radak); last in Yoel's order, eats what remains |
+| חגב | chagav | kosher grasshopper | a permitted species; also the class name for kosher grasshoppers (Meiri) |
+| צפוני | tzfoni | grasshopper | from the north, *tzafon*, whence they migrate (Rashi, Radak) |
+| צלצל | tzlatzel | locust | disputed: grasshopper (Rashi), butterflies (Saadia Gaon), clamor of armies (Ramban) |
+| חנמל | chanamal | grasshopper | disputed: grasshoppers (Rashi) or a kind of hail (other *meforshim*) |
 
 ## Distinctions
 
