@@ -781,6 +781,18 @@ header.bare .brand{flex:1}
 .ac .c{color:var(--faint);font-size:13px}
 .ac .none{padding:16px;color:var(--dim);font-size:15px}
 .ac-cap{padding:9px 16px 8px;font-size:12.5px;color:var(--faint);border-bottom:1px solid var(--line)}
+.ac .row{grid-template-columns:96px minmax(0,1fr) auto}
+.ac .top-line{display:flex;flex-wrap:wrap;align-items:baseline;gap:0 8px}
+.ac .cmp{font-size:13px;color:var(--accent);border:1px solid var(--accent);border-radius:999px;
+  padding:3px 11px;white-space:nowrap;justify-self:end}
+.ac .row:hover .cmp,.ac .row.sel .cmp{background:var(--accent);color:var(--panel)}
+.ac .row.top{grid-template-columns:96px minmax(0,1fr);align-items:start;padding:14px 16px 16px;
+  background:color-mix(in srgb,var(--accent-soft) 45%,var(--panel))}
+.ac .row.top .h{font-size:24px;padding-top:2px}
+.ac .row.top .d{color:var(--dim);font-size:14.5px;line-height:1.45;margin-top:2px;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ac .cta{align-self:flex-start;margin-top:8px;font-size:13.5px;color:var(--panel);background:var(--accent);
+  border-radius:999px;padding:4px 13px;white-space:nowrap}
 /* The chevron is always visible and always in the accent colour. It used to
    light up only on hover, which a phone does not have, so on a phone nothing
    said the row opened anything. */
@@ -835,7 +847,12 @@ header.bare .brand{flex:1}
   .rows .h{text-align:right}
   .rows.en3 .r{grid-template-columns:minmax(0,1fr) auto 18px;grid-template-areas:"en h go" "cl cl go";row-gap:2px}
   .rows.en3 .en{grid-area:en}.rows.en3 .h{grid-area:h}.rows.en3 .cl{grid-area:cl}.rows.en3 .go{grid-area:go}
-  .ac .row{grid-template-columns:76px minmax(0,1fr) 18px;gap:12px;padding:12px 14px}
+  .ac .row{grid-template-columns:64px minmax(0,1fr) auto;gap:10px;padding:12px 14px}
+  .ac .row.top{grid-template-columns:64px minmax(0,1fr)}
+  /* On a phone the word "Compare" squeezed the text column to a sliver; the
+     row already says "vs.", so the button shrinks to its arrow. */
+  .ac .cmp{font-size:0;padding:2px 10px}
+  .ac .cmp span{font-size:18px}
   /* A word's distinction line ran six lines on a phone. Two, with an ellipsis,
      keeps the list scannable and the ellipsis itself says there is more. */
   .rows .d{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
@@ -909,6 +926,11 @@ JS = r"""// Lexicon: client-side search and browse. One data.json, fetched once.
 const UP = document.body.dataset.up || "";
 const FINALS = {"ך":"כ","ם":"מ","ן":"נ","ף":"פ","ץ":"צ"};
 let DATA = null, dataP = null;
+let SIBS_ = null;
+const SIBS = () => {
+  if(!SIBS_){ SIBS_ = {}; for(const x of DATA.words) (SIBS_[x.s] = SIBS_[x.s] || []).push(x); }
+  return SIBS_;
+};
 
 // Fold a Hebrew query the way the build folded the headwords: drop nikud and
 // normalise final letters, so typing a word as it ends a sentence still matches.
@@ -1002,10 +1024,15 @@ function search(q, limit=12){
       // the word the matched transliteration actually names comes first
       const bonus = a && namesWord(a.text, w.k) ? -1.2 : 0;
       if(t === k || en === k) out.push([0 + own(w), w]);
+      // A group named exactly what was typed ("bread") is the answer, even for
+      // its words that carry no English of their own; before this, the bread
+      // group ranked below a basket whose glosses happened to mention bread.
+      else if(foldLat(e.c) === k) out.push([0.9 + own(w), w]);
       else if(t.startsWith(k)) out.push([1 + own(w), w]);
       else if(a !== undefined) out.push([1.6 + a.r + bonus + own(w), w]);
       else if(en.startsWith(k)) out.push([2 + own(w), w]);
       else if(t.includes(k) || en.includes(k)) out.push([3 + own(w), w]);
+      else if((e.g || []).some(x => foldLat(x) === k)) out.push([2.5 + own(w), w]);
       else if(g.includes(k)) out.push([5 + own(w), w]);
       else if(foldLat(e.c).includes(k)) out.push([6 + own(w), w]);
     }
@@ -1040,15 +1067,44 @@ function wire(){
     // One row shape everywhere: the word, a text block, a chevron. A word's own
     // meaning is bold only where it has one; otherwise the line names its group
     // and the group's words, so the group's glosses never read as this word's.
-    ac.innerHTML = '<div class="ac-cap">Pick a word to see its deeper meaning</div>' + list.map((w,i) => {
-      const E = ent(w), tr = w.t ? `<span class="tr">${esc(w.t)}</span> · ` : "";
-      const txt = w.e
-        ? `<span class="e">${esc(w.e)}</span><span class="c">${tr}in the ${esc(E.c)} group</span>`
-        : `<span class="c">${tr}in the ${esc(E.c)} group: ${esc((E.g || []).slice(0,4).join(", "))}</span>`;
+    // The results used to read as a dictionary: the word, its English, done.
+    // People took the gloss for the whole answer and never opened a page. So
+    // every result now says what the site is for, that the word has
+    // near-synonyms and differs from them: the top match as a card with the
+    // start of its distinction and a button, the rest as comparisons.
+    const group = w => SIBS()[w.s] || [];
+    const heb = x => `<span dir="rtl" lang="he">${esc(x.n || x.h)}</span>`;
+    const oneGroup = list.every(w => w.s === list[0].s);
+    const cap = oneGroup
+      ? `${group(list[0]).length} words in the ${esc(ent(list[0]).c)} group, each with its own shade`
+      : "Each word has near-synonyms. Open one to see how they differ";
+    ac.innerHTML = `<div class="ac-cap">${cap}</div>` + list.map((w,i) => {
+      const E = ent(w), tr = w.t ? `<span class="tr">${esc(w.t)}</span>` : "";
+      const others = group(w).filter(x => x.k !== w.k);
+      if(i === 0){
+        const teaser = w.d
+          ? `<span class="d">${esc(w.d)}</span>`
+          : `<span class="d">in the ${esc(E.c)} group: ${esc((E.g || []).slice(0,4).join(", "))}</span>`;
+        const n = group(w).length;
+        return `<a class="row top${i===sel?" sel":""}" href="${href(w)}">
+         <span class="h">${esc(w.n || w.h)}</span>
+         <span class="tx">
+           <span class="top-line">${w.e ? `<span class="e">${esc(w.e)}</span>` : ""}${tr}</span>
+           ${teaser}
+           <span class="cta">See how the ${n > 1 ? n + " words" : "words"} differ <span aria-hidden="true">›</span></span>
+         </span>
+       </a>`;
+      }
+      const vs = others.length
+        ? `vs. ${others.slice(0,3).map(heb).join(", ")}${others.length > 3 ? "…" : ""}`
+        : `in the ${esc(E.c)} group`;
       return `<a class="row${i===sel?" sel":""}" href="${href(w)}">
          <span class="h">${esc(w.n || w.h)}</span>
-         <span class="tx">${txt}</span>
-         <span class="go" aria-hidden="true">›</span>
+         <span class="tx">
+           <span class="top-line">${w.e ? `<span class="e">${esc(w.e)}</span>` : `<span class="e">${esc(E.c)}</span>`}${tr}</span>
+           <span class="c">${vs}</span>
+         </span>
+         <span class="cmp">Compare <span aria-hidden="true">›</span></span>
        </a>`;
     }).join("");
     ac.hidden = false;
