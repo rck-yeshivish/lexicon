@@ -85,15 +85,21 @@ and the Gemara equates several of them (*belo* is *gulgalta*, which is *karga*;
 
 ### mas (מס)
 Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) offers three possible
-etymologies. In *Yerios Shlomo*, from the single letter *samech*, rejection and
-disassociation (whence *nas*, fleeing, and *ma'us*, disgusting): paying a tax is
-disassociating oneself from that money and handing it over to the authorities.
-In *Cheshek Shlomo*, from מ-ס, melting or disintegrating: taxes melt a man's
-assets away. Also in *Cheshek Shlomo*, from ש-א, carrying or lifting: a tax is a
-burden one must carry. Rabbi Klein adds that the *Oxford English Dictionary*
-gives the English noun *tax* two definitions, "a compulsory contribution to
-state revenue" and "a strain or heavy demand"; if Rabbi Pappenheim is correct,
-the second meaning is actually the basis for the first.
+etymologies.
+
+- In *Yerios Shlomo*, from the single letter *samech*, rejection and
+  disassociation (whence *nas*, fleeing, and *ma'us*, disgusting): paying a tax
+  is disassociating oneself from that money and handing it over to the
+  authorities.
+- In *Cheshek Shlomo*, from מ-ס, melting or disintegrating: taxes melt a man's
+  assets away.
+- Also in *Cheshek Shlomo*, from ש-א, carrying or lifting: a tax is a burden one
+  must carry.
+
+Rabbi Klein adds that the *Oxford English Dictionary* gives the English noun
+*tax* two definitions, "a compulsory contribution to state revenue" and "a
+strain or heavy demand"; if Rabbi Pappenheim is correct, the second meaning is
+actually the basis for the first.
 
 Although *mas* is typically translated "tax," some scholars argue that a more
 accurate translation would be "corvée work," a system of compulsory, unpaid
@@ -112,13 +118,14 @@ loanword from the Akkadian *miksu* ("dues" or "tributes"), from the Akkadian
 verb *makasu* ("to collect a share from a rented field, to collect taxes,
 duty"). Others, however, have found a Hebrew basis for the word.
 
-Menachem ibn Saruk (920 to 970) gives the root as כ-ס; Rabbi Yehuda ibn
-Chayyuj, Rabbi Yonah ibn Janach (990 to 1050) and Radak (1160 to 1235) give
-כ-ס-ס. Either way these roots mean number. This explains how *meches* was
-borrowed to mean a tax, since a rate is usually a function of numbers. The
-grammarians point to *michsas* (Shemos 12:4), the
-number of people collectively offering a single korban Pesach, as evidence that
-the root means number.
+- Menachem ibn Saruk (920 to 970) gives the root as כ-ס.
+- Rabbi Yehuda ibn Chayyuj, Rabbi Yonah ibn Janach (990 to 1050) and Radak (1160
+  to 1235) give כ-ס-ס.
+
+Either way these roots mean number. This explains how *meches* was borrowed to
+mean a tax, since a rate is usually a function of numbers. The grammarians point
+to *michsas* (Shemos 12:4), the number of people collectively offering a single
+korban Pesach, as evidence that the root means number.
 
 Rabbi Pappenheim agrees that the root is כ-ס but argues that its core meaning is
 not number but covering. *Kis*, a pocket, is a covered space into which one puts
@@ -131,14 +138,18 @@ korban.
 
 ### the Aramaic terms in Tanach
 The exemption in Ezra 7:24 releases its beneficiaries from *mindah*, *belo* and
-*halach*, all Aramaic words. Rabbi Baruch Avraham Toledano (1825 to 1917):
-*mindah* is related to *middah*, measure, the fee imposed as a function of the
-measurement of one's property; *belo* is an expression of wearing out and refers
-to food, which is digested and "worn out"; *halach* is related to *holech*,
-walking or travelling, taxes for the upkeep of roads, bridges and the like.
-Bava Basra 8a and Nedarim 62b give a different set: *mindah* is *menas
-hamelech*, the king's portion; *belo* is *gulgalta* money; *halach* is
-*arnona*. Rabbi Klein remarks that the Gemara's *mindah* seems to be the Aramaic
+*halach*, all Aramaic words.
+
+- Rabbi Baruch Avraham Toledano (1825 to 1917): *mindah* is related to *middah*,
+  measure, the fee imposed as a function of the measurement of one's property;
+  *belo* is an expression of wearing out and refers to food, which is digested
+  and "worn out"; *halach* is related to *holech*, walking or travelling, taxes
+  for the upkeep of roads, bridges and the like.
+- Bava Basra 8a and Nedarim 62b give a different set: *mindah* is *menas
+  hamelech*, the king's portion; *belo* is *gulgalta* money; *halach* is
+  *arnona*.
+
+Rabbi Klein remarks that the Gemara's *mindah* seems to be the Aramaic
 equivalent of *meches* as Rabbi Pappenheim explains it, a tax for the king's
 personal profit.
 
@@ -149,19 +160,20 @@ Metzia 73b). As the Gemara's ensuing discussion shows, *gulgalta* means the same
 thing, and *gulgalta* is an Aramaicization of the Hebrew *gulgoles*, skull,
 since the tax fell on each head.
 
-*Arnona* is a crop tax levied on farmers: Rashi (Pesachim 6a, Bava Basra 8a) has
-it as a tenth of one's animals and grain every year. Rabbi Klein adds that
-historians record a tax in the Roman Empire called *annona*, used to supply
-grain and other foodstuffs to the city of Rome, and named from the Latin
-*annus*, year (whence English *annual*), because it was calculated from the sum
-total of the year's harvests. Alternatively, Rabbi Nosson of Rome (*Sefer
-HaAruch*) explains *arnona* as the meal each city had to supply to the king or
-army travelling through it (Rabbi Klein glosses the travelling as *halach*,
-going). Rabbeinu Nissim (Nedarim 62b) offers two ways of fitting that
-explanation to the word: *arnona* is Greek for a meal; or it means partnership,
-as the Arnon river was the border between Moav and the Emori (Bamidbar 21:13),
-in effect joining the two territories. Maharam Chalavah and Meiri (to Pesachim
-6a) also cite these two explanations.
+- *Arnona* is a crop tax levied on farmers: Rashi (Pesachim 6a, Bava Basra 8a)
+  has it as a tenth of one's animals and grain every year.
+- Rabbi Klein adds that historians record a tax in the Roman Empire called
+  *annona*, used to supply grain and other foodstuffs to the city of Rome, and
+  named from the Latin *annus*, year (whence English *annual*), because it was
+  calculated from the sum total of the year's harvests.
+- Alternatively, Rabbi Nosson of Rome (*Sefer HaAruch*) explains *arnona* as the
+  meal each city had to supply to the king or army travelling through it (Rabbi
+  Klein glosses the travelling as *halach*, going). Rabbeinu Nissim (Nedarim
+  62b) offers two ways of fitting that explanation to the word: *arnona* is
+  Greek for a meal; or it means partnership, as the Arnon river was the border
+  between Moav and the Emori (Bamidbar 21:13), in effect joining the two
+  territories. Maharam Chalavah and Meiri (to Pesachim 6a) also cite these two
+  explanations.
 
 *Taska* is a property tax (see Rashi to Gittin 58b, Bava Metzia 73b and 108a).
 Elsewhere the word means a sack (Rashi to Megillah 7b) or a basket (Tosafos to

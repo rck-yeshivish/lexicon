@@ -51,15 +51,17 @@ was not necessarily totally enveloped.
 
 ## Where the authorities disagree
 
-**What separates sarid from palit.** Malbim (Rabbi Meir Leibush Weiser, 1809 to
-1879): a *palit* was in the trenches of war or another calamity and was able to
-flee, saving himself (in Rabbi Klein's terms, "spit out" of harm's way); a
-*sarid* was caught in the middle, unable to escape, and somehow survived
-anyway. Rabbi Avraham Bedersi (13th century) presents the same explanation in
-brief in *Chotam Tochnit*. So *palit* is "refugee," *sarid* more accurately
-"survivor" or "remnant." The Vilna Gaon (to Yeshayahu 1:9) implies that *sarid*
-has a quantitative aspect: a member of the exclusive few who survived when the
-vast majority did not.
+**What separates sarid from palit.**
+
+- Malbim (Rabbi Meir Leibush Weiser, 1809 to 1879): a *palit* was in the
+  trenches of war or another calamity and was able to flee, saving himself (in
+  Rabbi Klein's terms, "spit out" of harm's way); a *sarid* was caught in the
+  middle, unable to escape, and somehow survived anyway. Rabbi Avraham Bedersi
+  (13th century) presents the same explanation in brief in *Chotam Tochnit*. So
+  *palit* is "refugee," *sarid* more accurately "survivor" or "remnant."
+- The Vilna Gaon (to Yeshayahu 1:9) implies that *sarid* has a quantitative
+  aspect: a member of the exclusive few who survived when the vast majority did
+  not.
 
 Rabbi Avraham Yitzchak Shain notices another pattern: in general, a survivor
 of a war waged by non-Jews is a *palit* in Tanach (e.g. Bereishis 14:13;
@@ -77,18 +79,21 @@ neither *sarid* nor *palit* from Ai (Yehoshua 8:22), Rabbi Shain explains that t
 used the humanitarian corridor to attack the Jewish army, so the army was
 allowed to surround them on all sides.
 
-**Where klitah and pleitah come from.** Rabbi Yitzchak of Zeldin (*Shoresh
-Yesha*): ק-ל-ט is a metathesis of ל-ק-ט, "gathering" (*leket*, *yalkut*), since
-those sheltered together are as if gathered up into a safe spot. Rabbi Yehoshua
-Steinberg of the Veromemanu Foundation takes a different approach: a metathesis
-of ק-ט-ל, "killing," since *klitah* often refers to those received by a
-sanctuary and so escaping death. Most philologists and lexicographers trace
-*pleitah* to the triliteral פ-ל-ט, as Rabbi Klein himself does, but some take
-the פ as not part of the core root: Rabbi Moshe Tedeschi-Ashkenazi
-(1821 to 1898, *Otzar Nirdafim* §380) derives *pleitah* from the two-letter ל-ט,
-and Rabbi Steinberg, in an essay titled "Run, Lot Run," connects *pleitah* and
-many other words to that biliteral root; he even derives *klitah* from it, so
-that on his view the two words share an etymological source.
+**Where klitah and pleitah come from.**
+
+- Rabbi Yitzchak of Zeldin (*Shoresh Yesha*): ק-ל-ט is a metathesis of ל-ק-ט,
+  "gathering" (*leket*, *yalkut*), since those sheltered together are as if
+  gathered up into a safe spot.
+- Rabbi Yehoshua Steinberg of the Veromemanu Foundation takes a different
+  approach: a metathesis of ק-ט-ל, "killing," since *klitah* often refers to
+  those received by a sanctuary and so escaping death.
+- Most philologists and lexicographers trace *pleitah* to the triliteral פ-ל-ט,
+  as Rabbi Klein himself does, but some take the פ as not part of the core root:
+  Rabbi Moshe Tedeschi-Ashkenazi (1821 to 1898, *Otzar Nirdafim* §380) derives
+  *pleitah* from the two-letter ל-ט, and Rabbi Steinberg, in an essay titled
+  "Run, Lot Run," connects *pleitah* and many other words to that biliteral
+  root; he even derives *klitah* from it, so that on his view the two words
+  share an etymological source.
 
 **Bigdei srad (Shemos 31:10, 35:19, 39:1, 39:41).**
 - Rashi and his grandson Rashbam (to Shemos 31:10): not the bigdei kehunah,

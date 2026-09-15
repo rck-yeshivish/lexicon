@@ -126,11 +126,12 @@ teacher Shadal notes there) and the Mishnah's *malitin*, force-feeding (Shabbos
 24:3), and relates these roots as well to ל-ע-ס, to chew, in Rabbinic Hebrew
 (Shabbos 19:2, Pesachim 2:7, Niddah 9:7).
 
-Rabbi Shlomo Ibn Parchon (twelfth century, *Machberes HaAruch*) instead makes
-*mesalos*/*malteos* especially long teeth protruding from a wild animal's mouth,
-that is, fangs. A third way of differentiating, given without an author: *shein*
-is the general term for teeth of every kind, and *mesalos*/*malteos* the
-specific one, whether fangs, tusks, or molars.
+- Rabbi Shlomo Ibn Parchon (twelfth century, *Machberes HaAruch*) instead makes
+  *mesalos*/*malteos* especially long teeth protruding from a wild animal's
+  mouth, that is, fangs.
+- A third way of differentiating, given without an author: *shein* is the
+  general term for teeth of every kind, and *mesalos*/*malteos* the specific
+  one, whether fangs, tusks, or molars.
 
 ### kaka (ככא) and nivi (ניבי)
 The Targumim consistently render *shein* into Aramaic as *kaka* (e.g. Tehillim
@@ -138,13 +139,16 @@ The Targumim consistently render *shein* into Aramaic as *kaka* (e.g. Tehillim
 leave it untranslated (e.g. Shemos 21:24; Mishlei 10:26, 30:14; Yoel 1:6; Amos
 4:6), but they render *mesalos*/*malteos* as *nivi* (Mishlei 30:14, Iyov 29:17,
 Yoel 1:6, Tehillim 58:7). Rabbi Klein finds the difference between the Hebrew
-words evident from the split. In the Gemara *kaka* is a tooth (Pesachim 113a,
-Yoma 84a), and when Rava told Bar Hedya that he dreamed his *shein* and *kaka*
-all fell out (Berachos 56a), Rashi explains *kaka* there as the inner teeth,
-molars, implying *shein* is the outer ones. Tosafos (to Avodah Zarah 28a,
-Gittin 69a) dispute the notion that *kaka* could mean the gums and read it as
-large teeth, again molars. In a borrowed sense *kaka* is also the "teeth" of a
-wooden key (Shabbos 89b).
+words evident from the split.
+
+- In the Gemara *kaka* is a tooth (Pesachim 113a, Yoma 84a), and when Rava told
+  Bar Hedya that he dreamed his *shein* and *kaka* all fell out (Berachos 56a),
+  Rashi explains *kaka* there as the inner teeth, molars, implying *shein* is
+  the outer ones.
+- Tosafos (to Avodah Zarah 28a, Gittin 69a) dispute the notion that *kaka* could
+  mean the gums and read it as large teeth, again molars.
+
+In a borrowed sense *kaka* is also the "teeth" of a wooden key (Shabbos 89b).
 
 *Nivi* in the Gemara is not readily understood: on Chullin 59a, where an
 animal's kosher status is read from its *shein* and *nivi*, Rashi gives two
@@ -190,11 +194,14 @@ elephant's "tooth," and because a comb has "teeth," and takes the find as
 evidence that Rabbinic Hebrew preserved ancient Semitic words that predate the
 Bible yet do not appear in it.
 
-On the etymology: Dr. Alexander Kohut (*HaAruch HaShaleim*) derives *chit* from
-ח-ט-ט, to dig or peck, the tooth digging into food and cutting it into smaller
-digestible pieces. Rabbi Klein offers his own guess, that *chit* is related to
-*chitah*, wheat, whose spikelets protrude from the stalk somewhat as teeth
-protrude from the gums.
+On the etymology:
+
+- Dr. Alexander Kohut (*HaAruch HaShaleim*) derives *chit* from ח-ט-ט, to dig or
+  peck, the tooth digging into food and cutting it into smaller digestible
+  pieces.
+- Rabbi Klein offers his own guess, that *chit* is related to *chitah*, wheat,
+  whose spikelets protrude from the stalk somewhat as teeth protrude from the
+  gums.
 
 ## Rendering guidance
 

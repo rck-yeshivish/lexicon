@@ -85,17 +85,24 @@ of *passurum*), itself borrowed from the Sumerian *bansur*, "table"; in his
 dictionary of Jewish Babylonian Aramaic of the Talmudic and Geonic periods he
 notes that the etymology of *taka* is unknown.
 
-**Whether tavla is a shulchan.** Rabbi Eliyahu HaBachur (1469 to 1549, *Sefer
-HaTishbi*): *tavla* is the Rabbinic Hebrew equivalent of the Biblical
-*shulchan*. Nonetheless, Rash MiShantz (Rabbi Shimshon of Sens, to Ohalos 15:2)
-writes that they differ: a *shulchan* is a flat surface attached to four legs
-that hold it up, while a *tavla* is a table top not attached to legs, so it can
-even be a flat board or plank. Rabbi Klein leaves the two views standing.
+**Whether tavla is a shulchan.**
 
-**The root of shulchan.** Ibn Janach (990 to 1050) and Radak (1160 to 1235): the
-triliteral ש-ל-ח, "dispatch, send away, sword," though exactly how it connects
-to those meanings is not readily apparent. Menachem Ibn Saruk (920 to 970,
-*Machberes Menachem*): a quadriliteral ש-ל-ח-נ of its own.
+- Rabbi Eliyahu HaBachur (1469 to 1549, *Sefer HaTishbi*): *tavla* is the
+  Rabbinic Hebrew equivalent of the Biblical *shulchan*.
+- Nonetheless, Rash MiShantz (Rabbi Shimshon of Sens, to Ohalos 15:2) writes
+  that they differ: a *shulchan* is a flat surface attached to four legs that
+  hold it up, while a *tavla* is a table top not attached to legs, so it can
+  even be a flat board or plank.
+
+Rabbi Klein leaves the two views standing.
+
+**The root of shulchan.**
+
+- Ibn Janach (990 to 1050) and Radak (1160 to 1235): the triliteral ש-ל-ח,
+  "dispatch, send away, sword," though exactly how it connects to those meanings
+  is not readily apparent.
+- Menachem Ibn Saruk (920 to 970, *Machberes Menachem*): a quadriliteral ש-ל-ח-נ
+  of its own.
 
 ## Distinctions
 
@@ -109,24 +116,27 @@ worked from behind a table on which he laid the money. The Gemara also uses *shu
 euphemistically for marital intimacy (Nedarim 20a-b).
 
 ### petora (פתורא)
-The Targumim consistently render *shulchan* as *petora*, and Rashi (Beitzah
-29b) defines Talmudic *petorah* as *shulchan*; just so, Aramaic *petoraah* is
-Hebrew *shulchani*, a moneychanger (see Rashi to Chullin 54b). Balak sent for
-Bilaam *pesorah* (Bamidbar 22:5), literally "to Pethor"; the Midrash (Bamidbar
-Rabbah 20:7; Tanchuma Balak 4) and Rashi there explain that Bilaam functioned,
-after a fashion, like a moneychanger, all the kings running to him to do
-business as merchants run to a moneychanger. The *Matnos Kehunah* explains the
-connection: *petora* in Aramaic is "table," and the Mishnah's word for a
-moneychanger, *shulchani*, comes from *shulchan*. Rabbi Avraham Menachem
-Rappaport (1520 to 1596, *Minchah Belulah* to Bamidbar 22:5) offers two more
-readings of *pesorah*: from *pisaron*, interpretation, for Bilaam's occupation
-as a dream interpreter; and from *petora*, table, since Bilaam's pagan rites
-included "setting a table for Gad" (Yeshayahu 65:11):
-as the Mikdash had a ritual *shulchan* for the holy service of Hashem, the
-idolaters set a ritual table for their deities, the holy and the unholy often
-paralleling each other as mirror images. Shabbos 36a records that *patora* and
-its diminutive *patorta* once meant a large table and a small one respectively,
-and that after the Churban the two senses switched.
+The Targumim consistently render *shulchan* as *petora*, and Rashi (Beitzah 29b)
+defines Talmudic *petorah* as *shulchan*; just so, Aramaic *petoraah* is Hebrew
+*shulchani*, a moneychanger (see Rashi to Chullin 54b).
+
+- Balak sent for Bilaam *pesorah* (Bamidbar 22:5), literally "to Pethor"; the
+  Midrash (Bamidbar Rabbah 20:7; Tanchuma Balak 4) and Rashi there explain that
+  Bilaam functioned, after a fashion, like a moneychanger, all the kings running
+  to him to do business as merchants run to a moneychanger. The *Matnos Kehunah*
+  explains the connection: *petora* in Aramaic is "table," and the Mishnah's
+  word for a moneychanger, *shulchani*, comes from *shulchan*.
+- Rabbi Avraham Menachem Rappaport (1520 to 1596, *Minchah Belulah* to Bamidbar
+  22:5) offers two more readings of *pesorah*: from *pisaron*, interpretation,
+  for Bilaam's occupation as a dream interpreter; and from *petora*, table,
+  since Bilaam's pagan rites included "setting a table for Gad" (Yeshayahu
+  65:11): as the Mikdash had a ritual *shulchan* for the holy service of Hashem,
+  the idolaters set a ritual table for their deities, the holy and the unholy
+  often paralleling each other as mirror images.
+
+Shabbos 36a records that *patora* and its diminutive *patorta* once meant a
+large table and a small one respectively, and that after the Churban the two
+senses switched.
 
 ### taka (טכא)
 Rashi glosses it *shulchan* (Berachos 46b, Gittin 67b, Kiddushin 81a). The word
@@ -147,21 +157,25 @@ directives and receive His blessings, as a guest at his host's.
 
 ### tavla (טבלא)
 Mishnaic (Eruvin 5:1, Yoma 3:10, Keilim 2:3, 16:8, 25:1, 27:1, Mikvaos 4:2) and
-Talmudic (e.g. Pesachim 57a). Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) equates
-it with *shulchan*, and in his entry connects it to the Latin *tabula*, the
-forebear of English *table*, *tablet*, *tabulate*, *tabloid* and more; Rash
-MiShantz distinguishes it, as above.
+Talmudic (e.g. Pesachim 57a).
 
-Rabbeinu Manoach (to Rambam, Hilchos Chametz uMatzah 6:7) relates *tevel*,
-produce not yet tithed, to *tavla*: as one does not eat a table but eats from
-it, so one may not eat *tevel* but must separate the tithes and eat only from a
-subset of it. Alternatively he takes *tevel* as a portmanteau of *tav*, good,
-and *lo*, not, an explanation also offered by *Sefer HaAruch*, Bartenura (to
-Berachos 7:1), Rabbi Chaim Vital (*Eitz Chaim*, Shaar 50 ch. 3) and *Kli Yakar*
-(to Shoftim 11:3). He also suggests that *tevel* is related to the Arabic
-*mitabel*, food with something mixed into it, which, Rabbi Klein notes though
-Rabbeinu Manoach does not, is a cognate of Hebrew *tavlin*, spice (see also
-*HaKsav VeHaKabbalah* to Shemos 22:28).
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) equates it with *shulchan*, and in
+  his entry connects it to the Latin *tabula*, the forebear of English *table*,
+  *tablet*, *tabulate*, *tabloid* and more.
+- Rash MiShantz distinguishes it, as above.
+
+- Rabbeinu Manoach (to Rambam, Hilchos Chametz uMatzah 6:7) relates *tevel*,
+  produce not yet tithed, to *tavla*: as one does not eat a table but eats from
+  it, so one may not eat *tevel* but must separate the tithes and eat only from
+  a subset of it.
+- Alternatively he takes *tevel* as a portmanteau of *tav*, good, and *lo*, not,
+  an explanation also offered by *Sefer HaAruch*, Bartenura (to Berachos 7:1),
+  Rabbi Chaim Vital (*Eitz Chaim*, Shaar 50 ch. 3) and *Kli Yakar* (to Shoftim
+  11:3).
+- He also suggests that *tevel* is related to the Arabic *mitabel*, food with
+  something mixed into it, which, Rabbi Klein notes though Rabbeinu Manoach does
+  not, is a cognate of Hebrew *tavlin*, spice (see also *HaKsav VeHaKabbalah* to
+  Shemos 22:28).
 
 Names: the Gemara has sages named for *petora* (Ben Petora, also spelled
 Betorah) and *tavla* (Rav Tavla, Bava Basra 111a, Chullin 132b), but none for

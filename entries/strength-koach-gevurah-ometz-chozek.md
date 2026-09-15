@@ -177,27 +177,28 @@ ability by which one person stands out above the rest, and calling someone
 *chazak* means he is more powerful than someone else (see *adir*, below).
 
 ### otzem (עצם) and oz (עז)
-Rabbi Dr. Asher Weiser (editor of the Mossad HaRav Kook edition of Ibn Ezra on
-the Torah): *ometz* is related to *otzem*, the aleph interchanging with the ayin
-and the other two consonants switching places by metathesis. Rabbi Yehuda Leib
-Edel (1760 to 1828): *otzem*/*etzem* is growth in added quantity (see Shemos 1:20;
-Devarim 7:1; Yoel 2:2; Tehillim 35:18), strength through
-numbers, and from there the word expanded to inherent strength, added quality
-and not only quantity. Alternatively, it is borrowed from *etzem*, bone, the
-strongest part of the body.
+- Rabbi Dr. Asher Weiser (editor of the Mossad HaRav Kook edition of Ibn Ezra on
+  the Torah): *ometz* is related to *otzem*, the aleph interchanging with the
+  ayin and the other two consonants switching places by metathesis.
+- Rabbi Yehuda Leib Edel (1760 to 1828): *otzem*/*etzem* is growth in added
+  quantity (see Shemos 1:20; Devarim 7:1; Yoel 2:2; Tehillim 35:18), strength
+  through numbers, and from there the word expanded to inherent strength, added
+  quality and not only quantity. Alternatively, it is borrowed from *etzem*,
+  bone, the strongest part of the body.
 
-Rabbi Moshe Shapiro (1935 to 2017) finds a common theme in all words with ע-צ:
-*eitz*, a tree, contains within itself everything that will come from it;
-*etzem*, self, the sum of one's potential; *atzuv*, sad, one who retreats into
-himself and does not expand outward; *atzel*, lazy, who keeps his potential
-bottled up; *otzer*, stop, holding something back from expanding; *eitzah*,
-advice, which an honest advisor can give only as far as he grasps the *etzem* of
-the matter. So *otzem* is potential strength pent up within a person and not yet
-outwardly expressed. (Rabbi Pappenheim offers a similar exposition of ע-צ.)
-Rabbi Aharon Marcus (1843 to 1916): a tree is *eitz* for its hard, strong trunk,
-and *atzuv* is related to *eitz* as wood, a dry state bereft of life and
-happiness; in a fascinating twist he connects *otzem* and *eitz* to *oz*, all
-meaning strong or hard, by the interchange of tzadi and zayin.
+- Rabbi Moshe Shapiro (1935 to 2017) finds a common theme in all words with ע-צ:
+  *eitz*, a tree, contains within itself everything that will come from it;
+  *etzem*, self, the sum of one's potential; *atzuv*, sad, one who retreats into
+  himself and does not expand outward; *atzel*, lazy, who keeps his potential
+  bottled up; *otzer*, stop, holding something back from expanding; *eitzah*,
+  advice, which an honest advisor can give only as far as he grasps the *etzem*
+  of the matter. So *otzem* is potential strength pent up within a person and
+  not yet outwardly expressed. (Rabbi Pappenheim offers a similar exposition of
+  ע-צ.)
+- Rabbi Aharon Marcus (1843 to 1916): a tree is *eitz* for its hard, strong
+  trunk, and *atzuv* is related to *eitz* as wood, a dry state bereft of life
+  and happiness; in a fascinating twist he connects *otzem* and *eitz* to *oz*,
+  all meaning strong or hard, by the interchange of tzadi and zayin.
 
 Rabbi Wertheimer compares *oz*/*izuz* to *az*, strong or bold: ע-ז is strength of
 spirit, a resolve others cannot easily dissuade or deter. A person's *oz* is so
@@ -237,32 +238,36 @@ elsewhere to identify Eitan HaEzrachi (Tehillim 89:1) with Avraham, the
 15a). Rabbi Klein holds that five words for power, *eitan*, *koach*, *gevurah*,
 *adir* and *kabir*, are not true synonyms.
 
-*Nachal eitan* (Devarim 21:4): for Rashi *nachal* is a valley or wadi and
-*eitan* strong or hard, a rocky place; for Rambam (Hilchos Rotzeach 9:2)
-*nachal* is a river and *eitan* strong-flowing. Rabbi Edel, without referring to
-either, reconciles their views: *eitan* is literally the river bank, which seems
-to hold the waters back from passing its threshold, and that restraint takes
-great strength, so *eitan* came to mean strength and power. *Eitan* describes
-Yosef's unshakeable righteousness (Bereishis 49:24) and the rocky habitat of
-Yisro's descendants (Bamidbar 24:21), who, Rabbi Klein notes, like Avraham
-showed strong discipline and self-control. Rav Samson Raphael Hirsch
-(to Shemos 14:27) adds that *eitan* is something strong and durable that has
-lasted a long time, like bedrock. On Tishrei, the Gemara there adds that even if
-the Avos were not born in it, the month is "powerful" for being blessed with
-more timely mitzvos than other months; Metzudas David (to Melachim I 8:2): it
-is a powerful month for its many holidays that serve self-perfection. Rabbi
-Klein's lesson: Tishrei can make a person a firm, strongly anchored stalwart,
-as hard to budge as rock.
+- *Nachal eitan* (Devarim 21:4): for Rashi *nachal* is a valley or wadi and
+  *eitan* strong or hard, a rocky place; for Rambam (Hilchos Rotzeach 9:2)
+  *nachal* is a river and *eitan* strong-flowing.
+- Rabbi Edel, without referring to either, reconciles their views: *eitan* is
+  literally the river bank, which seems to hold the waters back from passing its
+  threshold, and that restraint takes great strength, so *eitan* came to mean
+  strength and power. *Eitan* describes Yosef's unshakeable righteousness
+  (Bereishis 49:24) and the rocky habitat of Yisro's descendants (Bamidbar
+  24:21), who, Rabbi Klein notes, like Avraham showed strong discipline and
+  self-control.
+- Rav Samson Raphael Hirsch (to Shemos 14:27) adds that *eitan* is something
+  strong and durable that has lasted a long time, like bedrock.
 
-Rabbi Pappenheim admits he is unsure how to break the word down. In *Yerios
-Shlomo* he takes the root as ת-ן, "give": *eitan* is a concentration of
-strength that can only be a Divine gift, which no one could mistake for
-something natural. In *Cheshek Shlomo* he connects it to א-ת, reduced further to
-ת, "connection" (*es* connects a verb to its object and sometimes means "with";
-*os*, a sign, connects the sign and the signified): *eitan* is power
-concentrated by the extreme compression of many connected components, as in
-rock. He also makes *eitan* inherent, qualitative strength, strong in itself
-even if compressed from smaller parts, as against *kabir*.
+On Tishrei, the Gemara there adds that even if the Avos were not born in it, the
+month is "powerful" for being blessed with more timely mitzvos than other
+months; Metzudas David (to Melachim I 8:2): it is a powerful month for its many
+holidays that serve self-perfection. Rabbi Klein's lesson: Tishrei can make a
+person a firm, strongly anchored stalwart, as hard to budge as rock.
+
+Rabbi Pappenheim admits he is unsure how to break the word down.
+
+- In *Yerios Shlomo* he takes the root as ת-ן, "give": *eitan* is a
+  concentration of strength that can only be a Divine gift, which no one could
+  mistake for something natural.
+- In *Cheshek Shlomo* he connects it to א-ת, reduced further to ת, "connection"
+  (*es* connects a verb to its object and sometimes means "with"; *os*, a sign,
+  connects the sign and the signified): *eitan* is power concentrated by the
+  extreme compression of many connected components, as in rock. He also makes
+  *eitan* inherent, qualitative strength, strong in itself even if compressed
+  from smaller parts, as against *kabir*.
 
 ### kabir (כביר), adir (אדיר), takif (תקיף)
 *Kabir* (Rabbi Pappenheim): quantitative strength, strong for being made of many
@@ -271,26 +276,30 @@ power of communal prayer). He then divides quantitative strength: *otzem* where
 the sub-units do not necessarily contribute an equal force, *kabir* where the
 components are equally powerful.
 
-*Adir*: Rabbi Pappenheim, calling someone *chazak* means he is more powerful
-than someone else, *adir* that he is the most powerful of a whole group. It is
-thus quite apt that Hashem is described as *adir* (see Shemos 15:6;
-Tehillim 8:2, 93:4). Rabbi Pappenheim traces *adir* to ד-ר, freedom of motion
-without limitation or constriction. Hashem is certainly free of subjection to
-any other force, having created everything. Rabbi Edel: *adir* is related to *adar*/*hadar*, beauty and glory,
-since Hashem's acts of strength bring Him honor and glory by showing man His
-omnipotence.
+- *Adir*: Rabbi Pappenheim, calling someone *chazak* means he is more powerful
+  than someone else, *adir* that he is the most powerful of a whole group. It is
+  thus quite apt that Hashem is described as *adir* (see Shemos 15:6; Tehillim
+  8:2, 93:4). Rabbi Pappenheim traces *adir* to ד-ר, freedom of motion without
+  limitation or constriction. Hashem is certainly free of subjection to any
+  other force, having created everything.
+- Rabbi Edel: *adir* is related to *adar*/*hadar*, beauty and glory, since
+  Hashem's acts of strength bring Him honor and glory by showing man His
+  omnipotence.
 
 *Takif*: the standard Aramaic of the Targumim for *chozek* and *oz*, and also a
-Hebrew word in Tanach (see Esther 9:29, 10:2; Koheles 4:12; Daniel 4:27). Rabbi
-Pappenheim traces it to ק-פ, a complete circle (*hakafah*/*heikef*,
-circumference, encircle; *kafah*/*kafui*, frozen, since the outer perimeter of a
-liquid freezes first; he also relates *kof*, monkey, to this root but admits he
-does not know how to explain the connection). His etymology recalls his tracing
-of *chayil*, strength, to ח-ל, circular motion: *tokef*/*takif* is strength that
-can totally surround and overpower another. Rabbi Edel: describing Hashem as
-*takif* invokes His all-encompassing power and sovereignty. The Talmud's
-Aramaic *matkif* is one sage "attacking" or overpowering another's position
-with a persuasive argument.
+Hebrew word in Tanach (see Esther 9:29, 10:2; Koheles 4:12; Daniel 4:27).
+
+- Rabbi Pappenheim traces it to ק-פ, a complete circle (*hakafah*/*heikef*,
+  circumference, encircle; *kafah*/*kafui*, frozen, since the outer perimeter of
+  a liquid freezes first; he also relates *kof*, monkey, to this root but admits
+  he does not know how to explain the connection). His etymology recalls his
+  tracing of *chayil*, strength, to ח-ל, circular motion: *tokef*/*takif* is
+  strength that can totally surround and overpower another.
+- Rabbi Edel: describing Hashem as *takif* invokes His all-encompassing power
+  and sovereignty.
+
+The Talmud's Aramaic *matkif* is one sage "attacking" or overpowering another's
+position with a persuasive argument.
 
 ## Rendering guidance
 

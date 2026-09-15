@@ -57,16 +57,18 @@ them), and Shadal reads a whole tragedy in Tanach off the difference.
 ## Distinctions
 
 ### hora'ah (הוראה)
-Ibn Janach and Radak: from the root yud-reish-hey, which yields three meanings,
-throwing (*yarah vayam*, Shemos 15:4), teaching (*yoreh dei'ah*, Yeshayahu
-28:9), and rain (*yoreh* and *moreh*, Devarim 11:14; Yoel 2:23). Menachem Ibn
-Saruk traces these to the one-letter root reish and adds a fourth sense, spittle
-or bodily discharge (*rir*, *rar*: Vayikra 15:3; Shmuel I 21:14; Iyov 6:6). None
-of the grammarians intimates a thematic connection among the four; Rabbi Klein
-proposes his own, unidirectional movement (like a *ray* in English): throwing
-away from oneself, rain and spittle only downward, and teaching from teacher to
-pupil and not back, as in a lecture where the teacher "throws" information and
-hopes the student catches it.
+- Ibn Janach and Radak: from the root yud-reish-hey, which yields three
+  meanings, throwing (*yarah vayam*, Shemos 15:4), teaching (*yoreh dei'ah*,
+  Yeshayahu 28:9), and rain (*yoreh* and *moreh*, Devarim 11:14; Yoel 2:23).
+- Menachem Ibn Saruk traces these to the one-letter root reish and adds a fourth
+  sense, spittle or bodily discharge (*rir*, *rar*: Vayikra 15:3; Shmuel I
+  21:14; Iyov 6:6).
+
+None of the grammarians intimates a thematic connection among the four; Rabbi
+Klein proposes his own, unidirectional movement (like a *ray* in English):
+throwing away from oneself, rain and spittle only downward, and teaching from
+teacher to pupil and not back, as in a lecture where the teacher "throws"
+information and hopes the student catches it.
 
 In Mishnaic Hebrew *hora'ah* is specifically the ability and responsibility to
 render halachic decisions (*Avos* 4:7 and 6:6; *Horayos* 1:1 and 1:4; *Parah*
@@ -120,36 +122,38 @@ Rabbinic Hebrew, deriving such a lesson is *yalfusa* (verb *yalif*), usually
 inferring an idea from a pasuk or a derashah; Modern Hebrew *ulpan* comes from
 the same root.
 
-Menachem Ibn Saruk (*Machberes Menachem*) gives the root as aleph-lamed-peh,
-with the aleph sometimes dropping so that lamed-peh serves as well; on that
-basis he and Radak suggest that *talpiyos* (Shir HaShirim 4:4, its only
-occurrence) belongs to this root. The word's meaning there is obscure; Chazal
-read *talpiyos* as *tel* and *piyos*, the mound to which all mouths direct their
-prayers, that is, the Beis HaMikdash (Berachos 30a). Rabbi Shlomo Pappenheim
-traces *alef* to the two-letter element lamed-peh, a strong hold hard to break
-free of: hence *yalefes*, a boil leaving a scar that can never be removed
-(Vayikra 21:20); *aluf*, a chieftain ruling from strength; and *elef*, a
-thousand, the number of constituents a warlord needs to claim the title. The
-lamed-peh-tav verbs of grasping (Shoftim 16:29; Rus 3:8) and *lefes*, the
-turnip of Rabbinic Hebrew, firmly entrenched in the ground, carry the same
-theme. On this account the learning called *alef* is the learner's firm grasp
-of material won by repeated instruction. Like Menachem and Radak, Rabbi
-Pappenheim connects *talpiyos* to *alef*, but unlike them he explains the
-connection: a tower for instructing young soldiers in the art of war, a sort of
-shooting range. Malbim explains *aluf* as a powerful leader who must teach his
-constituents how to act. (In Modern Hebrew *aluf* is a sporting
-champion and the rank of Major-General.)
+- Menachem Ibn Saruk (*Machberes Menachem*) gives the root as aleph-lamed-peh,
+  with the aleph sometimes dropping so that lamed-peh serves as well; on that
+  basis he and Radak suggest that *talpiyos* (Shir HaShirim 4:4, its only
+  occurrence) belongs to this root. The word's meaning there is obscure; Chazal
+  read *talpiyos* as *tel* and *piyos*, the mound to which all mouths direct
+  their prayers, that is, the Beis HaMikdash (Berachos 30a).
+- Rabbi Shlomo Pappenheim traces *alef* to the two-letter element lamed-peh, a
+  strong hold hard to break free of: hence *yalefes*, a boil leaving a scar that
+  can never be removed (Vayikra 21:20); *aluf*, a chieftain ruling from
+  strength; and *elef*, a thousand, the number of constituents a warlord needs
+  to claim the title. The lamed-peh-tav verbs of grasping (Shoftim 16:29; Rus
+  3:8) and *lefes*, the turnip of Rabbinic Hebrew, firmly entrenched in the
+  ground, carry the same theme. On this account the learning called *alef* is
+  the learner's firm grasp of material won by repeated instruction. Like
+  Menachem and Radak, Rabbi Pappenheim connects *talpiyos* to *alef*, but unlike
+  them he explains the connection: a tower for instructing young soldiers in the
+  art of war, a sort of shooting range.
+- Malbim explains *aluf* as a powerful leader who must teach his constituents
+  how to act. (In Modern Hebrew *aluf* is a sporting champion and the rank of
+  Major-General.)
 
 *Alef* also names the ox (Devarim 7:13, 28:4, 28:18, 28:51; Tehillim 8:8, 50:10;
-Mishlei 14:4; Yeshayahu 30:24). Malbim: a *trained* ox, one that has learned to
-work the land. The Vilna Gaon reads *alafim* in Mishlei 14:4 as students,
-drawing on *alef*'s sense of teaching, so that "for want of oxen the trough is
-an empty pit" warns the teacher that without students he will become an empty
-vessel; with students to answer for, a teacher is more likely to fill himself
-with knowledge.
-About this Rabbi Yehuda HaNasi said, "I learned much from my teachers, more from
-my colleagues, and from my students most of all" (Makkos 10a); Taanis 7a has
-the same saying from Rabbi Chanina.
+Mishlei 14:4; Yeshayahu 30:24).
+
+- Malbim: a *trained* ox, one that has learned to work the land.
+- The Vilna Gaon reads *alafim* in Mishlei 14:4 as students, drawing on *alef*'s
+  sense of teaching, so that "for want of oxen the trough is an empty pit" warns
+  the teacher that without students he will become an empty vessel; with
+  students to answer for, a teacher is more likely to fill himself with
+  knowledge. About this Rabbi Yehuda HaNasi said, "I learned much from my
+  teachers, more from my colleagues, and from my students most of all" (Makkos
+  10a); Taanis 7a has the same saying from Rabbi Chanina.
 
 ### hadrachah (הדרכה)
 Malbim's contrast term. The common thread of *hora'ah* and *limmud* is the

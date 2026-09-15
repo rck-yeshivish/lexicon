@@ -48,35 +48,44 @@ everyone tastes to what one person happens to love.
 
 ## Where the authorities disagree
 
-**What na'im names.** The Vilna Gaon: *na'im* and *noam* are visual appeal, as
-*matok* is gustatory appeal. Rabbi Shlomo Pappenheim of Breslau: *na'im* names
-no physical property at all but the transcendent pleasure one derives from
-enjoying something sweet, so that *matok* and *areiv* refer to the physical and
-*na'im* to the sublime. Rabbi Klein sets the two side by side and does not
-choose between them.
+**What na'im names.**
 
-**Where areiv comes from.** According to etymologists, the origin of *areiv* is
-unknown, though some linguists suggest it first meant "to be well-mixed,"
-related to *arev*, mixed: a glass of wine properly mixed with the right
-proportion of water is pleasant and especially appealing, and on
-their view that is the basis of *areiv* as "sweet." Rabbi Klein, for his part,
-argues from the whole ע-ר-ב family, which in his view always denotes a form of
-connection (see Distinctions). The Vilna Gaon does not directly address *areiv*.
+- The Vilna Gaon: *na'im* and *noam* are visual appeal, as *matok* is gustatory
+  appeal.
+- Rabbi Shlomo Pappenheim of Breslau: *na'im* names no physical property at all
+  but the transcendent pleasure one derives from enjoying something sweet, so
+  that *matok* and *areiv* refer to the physical and *na'im* to the sublime.
+
+Rabbi Klein sets the two side by side and does not choose between them.
+
+**Where areiv comes from.**
+
+- According to etymologists, the origin of *areiv* is unknown, though some
+  linguists suggest it first meant "to be well-mixed," related to *arev*, mixed:
+  a glass of wine properly mixed with the right proportion of water is pleasant
+  and especially appealing, and on their view that is the basis of *areiv* as
+  "sweet."
+- Rabbi Klein, for his part, argues from the whole ע-ר-ב family, which in his
+  view always denotes a form of connection (see Distinctions).
+
+The Vilna Gaon does not directly address *areiv*.
 
 ## Distinctions
 
 ### matok (מתוק)
-Root מ-ת-ק. At Marah Hashem had Moshe cast a tree into the bitter (*mar*)
-waters and made them *matok*. How does *matok* differ from *areiv*? The Vilna
-Gaon does not directly address that question, but distinguishes *matok*,
-gustatory appeal, from *na'im*/*noam*, visual appeal. In Tanach, words related
-to *matok* or *metek* commonly refer to culinary sweetness. Rabbi Shlomo
-Pappenheim: *matok* is the objective measure of taste, the kind everyone
-recognizes as sweet, found in honey, figs and dates, and the polar opposite of
-bitter. From there it was borrowed for anything one
-might argue is good, desirable, or worthwhile. Pappenheim adds a reading of the
-waters of Marah (Shemos 15:25): they are called *matok* not because they became
-objectively sweet but by contrast, because the bitterness they had was gone.
+Root מ-ת-ק. At Marah Hashem had Moshe cast a tree into the bitter (*mar*) waters
+and made them *matok*. How does *matok* differ from *areiv*?
+
+- The Vilna Gaon does not directly address that question, but distinguishes
+  *matok*, gustatory appeal, from *na'im*/*noam*, visual appeal.
+- In Tanach, words related to *matok* or *metek* commonly refer to culinary
+  sweetness. Rabbi Shlomo Pappenheim: *matok* is the objective measure of taste,
+  the kind everyone recognizes as sweet, found in honey, figs and dates, and the
+  polar opposite of bitter. From there it was borrowed for anything one might
+  argue is good, desirable, or worthwhile. Pappenheim adds a reading of the
+  waters of Marah (Shemos 15:25): they are called *matok* not because they
+  became objectively sweet but by contrast, because the bitterness they had was
+  gone.
 
 ### areiv (ערב)
 Root ע-ר-ב. Pappenheim: against *matok*, *areiv* is a *subjective* sweetness, an
@@ -102,12 +111,15 @@ link, is related to the words for binding. He frames this as parallel to Rabbi
 Pappenheim's *na'im*.
 
 ### na'im (נעים)
-Root נ-ע-ם. Vilna Gaon: visual appeal. Pappenheim: not a physical property but
-the transcendent pleasure of enjoying something sweet, so that *matok* and
-*areiv* speak of the physical and *na'im* of the sublime. He notes that the last
-two letters of the root spell *im*, "with," since the soul tends to bond with
-what it finds pleasant; so *na'im*/*noam* is the spiritual pleasantness that
-binds disparate entities and joins them together.
+Root נ-ע-ם.
+
+- Vilna Gaon: visual appeal.
+- Pappenheim: not a physical property but the transcendent pleasure of enjoying
+  something sweet, so that *matok* and *areiv* speak of the physical and *na'im*
+  of the sublime. He notes that the last two letters of the root spell *im*,
+  "with," since the soul tends to bond with what it finds pleasant; so
+  *na'im*/*noam* is the spiritual pleasantness that binds disparate entities and
+  joins them together.
 
 ## Rendering guidance
 

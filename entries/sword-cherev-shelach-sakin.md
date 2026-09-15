@@ -79,12 +79,13 @@ Arabic (Rashi, Rabbeinu Shimshon of Shantz) or Greek (Bartenura).
 ## Distinctions
 
 ### cherev (חרב)
-Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) relates *cherev* to *churban*, the
-destruction of something not itself damaged but cut off from an outside element it
-needs to flourish: an intact but abandoned town, or *charbah*, a dry land infertile
-not through its own fault but for want of water from outside. The sword, an ancient
-tool for reducing a population, brings that destruction. Linguists note that an
-Akkadian word like *cherev* means a kind of plow.
+- Rabbi Shlomo Pappenheim of Breslau (1740 to 1814) relates *cherev* to
+  *churban*, the destruction of something not itself damaged but cut off from an
+  outside element it needs to flourish: an intact but abandoned town, or
+  *charbah*, a dry land infertile not through its own fault but for want of
+  water from outside. The sword, an ancient tool for reducing a population,
+  brings that destruction.
+- Linguists note that an Akkadian word like *cherev* means a kind of plow.
 
 ### shelach (שלח)
 Malbim: a *shelach* is for stabbing, as against a *cherev*, which he implies is
