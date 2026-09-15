@@ -36,7 +36,7 @@ into a single whole. Chazal read a connotation of importance into it: *Megillah*
 28a derives from "the *one* sheep shall you offer in the morning" (Bamidbar
 28:4) that the *Korban Tamid* must come from the choicest animal, *echad*
 marking the pick of the flock. So too "and *one* of the lads answered" (Shmuel I
-17:18), which Rashi, citing *Sanhedrin* 93b, reads as the outstanding member of
+16:18), which Rashi, citing *Sanhedrin* 93b, reads as the outstanding member of
 Shaul's entourage, namely Doeg the Edomite. The word is bound up with Hashem
 Himself: *Hashem Elokeinu Hashem Echad* (Devarim 6:4). On that strength the
 Midrash (*Bamidbar Rabbah* 18:10; *Tanchuma Korach* 7) reads Moshe's "I did not
@@ -162,4 +162,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Korach: The One and Only](https://articles.ohr.edu/articles/korach-the-one-and-only)," *What's in a Word?*, Ohr Somayach, 17 June 2023.
 
-Cited in the essay: Bamidbar 16:15 with Rashi, Targum Onkelos, Rashbam, Chizkuni and Ramban, and 28:4; Devarim 6:4; Bereishis 3:22, 22:2, 26:10, 49:16; Vayikra 13:2; Shmuel I 9:3 and 17:18; Yechezkel 18:10 and 33:30; Tehillim 49:8; Daniel 2:31, 3:19, 6:3, 7:5, 7:16; *Megillah* 28a; *Sanhedrin* 93b; *Bamidbar Rabbah* 18:10; *Tanchuma Korach* 7; *Bereishis Rabbah* 98:13; Radak, *Sefer HaShorashim* and *Michlol*; Ibn Janach, *Sefer HaShorashim*; Rabbi Wolf Heidenheim as quoted by *HaKtav VaHaKabbalah* to Bamidbar 16:15; Rabbi Shlomo Zalman Hanau, *Shaarei Tefillah* 11; Malbim, *Ayelet HaShachar* introduction to Vayikra 69 and *Artzos HaChaim* Orach Chaim 6:1; Rabbi Shmuel Yehudah Steiger, *Avnei Shayish*; Rabbi Yehonosson Eybeschutz on Adam's language.
+Cited in the essay: Bamidbar 16:15 with Rashi, Targum Onkelos, Rashbam, Chizkuni and Ramban, and 28:4; Devarim 6:4; Bereishis 3:22, 22:2, 26:10, 49:16; Vayikra 13:2; Shmuel I 9:3 and 16:18; Yechezkel 18:10 and 33:30; Tehillim 49:8; Daniel 2:31, 3:19, 6:3, 7:5, 7:16; *Megillah* 28a; *Sanhedrin* 93b; *Bamidbar Rabbah* 18:10; *Tanchuma Korach* 7; *Bereishis Rabbah* 98:13; Radak, *Sefer HaShorashim* and *Michlol*; Ibn Janach, *Sefer HaShorashim*; Rabbi Wolf Heidenheim as quoted by *HaKtav VaHaKabbalah* to Bamidbar 16:15; Rabbi Shlomo Zalman Hanau, *Shaarei Tefillah* 11; Malbim, *Ayelet HaShachar* introduction to Vayikra 69 and *Artzos HaChaim* Orach Chaim 6:1; Rabbi Shmuel Yehudah Steiger, *Avnei Shayish*; Rabbi Yehonosson Eybeschutz on Adam's language.

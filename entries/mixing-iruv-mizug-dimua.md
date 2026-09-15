@@ -7,7 +7,7 @@ english: [mixing, intermingling, blending, diluting, admixture, tear, confusion,
 domain: action
 sources:
   - wiaw:11480 "Devarim: All Mixed Up" (2024-08-10) https://articles.ohr.edu/articles/devarim-all-mixed-up
-authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Shapira, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro, Ritva, Rashba, Maharsha, Yaavetz]
+authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Epstein, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro, Ritva, Rashba, Maharsha, Yaavetz]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -161,7 +161,7 @@ what Yeshayahu opens with, *nachamu nachamu ami* (Yeshayahu 40:1).
   and Rabbi Dovid Tzvi Hoffmann prefers this since the Gemara said *b'dema* and
   not *b'dima'os*; or letters written mixed up and unreadable until after his
   death, so the Vilna Gaon (*HaKesav VeHaKabbalah* to Devarim 34:5; *Kol
-  Eliyahu*), with Rabbi Kalonymos Kalman Shapira reading *dema* as Moshe's own
+  Eliyahu*), with Rabbi Kalonymos Kalman Epstein reading *dema* as Moshe's own
   mind clouded as at no other prophecy.
 
 ## Notes for a project

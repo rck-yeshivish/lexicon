@@ -62,7 +62,7 @@ lamed and reish, holds that *almon* (Yechezkel 19:7, Yeshayahu 13:22) is the
 same word.
 
 *Armon* appears both for a king's residence
-(Melachim II 16:18, Melachim I 15:25, Yirmiyahu 49:27) and for a fortified
+(Melachim I 16:18, Melachim II 15:25, Yirmiyahu 49:27) and for a fortified
 stronghold (Mishlei 18:19, Eichah 2:5, Michah 5:4). It therefore straddles both
 English words.
 
@@ -162,4 +162,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Castle in the Sky](https://articles.ohr.edu/articles/castle-in-the-sky)," *What's in a Word?*, Ohr Somayach, 28 November 2020.
 
-Cited in the essay: Bereishis 30:20, 25:16, 31:18, 35:26, 46:15; Melachim I 8:13, 15:25; Melachim II 16:18; Divrei HaYamim II 6:2; Yeshayahu 63:15, 13:22; Chavakuk 3:11; Yechezkel 19:7, 25:4, 46:23; Mishlei 18:19; Eichah 2:5; Michah 5:4; Yirmiyahu 49:27; Daniel 11:45; Shir HaShirim 8:9; Tehillim 69:26; Divrei HaYamim I 6:39; Chagigah 12b; Rashi to Bava Metzia 35a, Bava Basra 6b, Shabbos 77b; Berachos 56a, Kesubos 91b, 50b, Bava Kamma 21a; Mishnah Sanhedrin 2:3, 10:5; Rav Hirsch to Bereishis 30:20; Ibn Ezra to Bereishis 25:16; Bamidbar 31:10; Shoftim 9; Yehoshua 10:13; *Rosh Hashanah* 17a; Rabbi Dovid Tzvi Hoffmann; Rabbi Ernest Klein; Dr. Chaim Tawil.
+Cited in the essay: Bereishis 30:20, 25:16, 31:18, 35:26, 46:15; Melachim I 8:13, 16:18; Melachim II 15:25; Divrei HaYamim II 6:2; Yeshayahu 63:15, 13:22; Chavakuk 3:11; Yechezkel 19:7, 25:4, 46:23; Mishlei 18:19; Eichah 2:5; Michah 5:4; Yirmiyahu 49:27; Daniel 11:45; Shir HaShirim 8:9; Tehillim 69:26; Divrei HaYamim I 6:39; Chagigah 12b; Rashi to Bava Metzia 35a, Bava Basra 6b, Shabbos 77b; Berachos 56a, Kesubos 91b, 50b, Bava Kamma 21a; Mishnah Sanhedrin 2:3, 10:5; Rav Hirsch to Bereishis 30:20; Ibn Ezra to Bereishis 25:16; Bamidbar 31:10; Shoftim 9; Yehoshua 10:13; *Rosh Hashanah* 17a; Rabbi Dovid Tzvi Hoffmann; Rabbi Ernest Klein; Dr. Chaim Tawil.

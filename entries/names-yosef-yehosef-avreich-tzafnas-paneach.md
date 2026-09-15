@@ -131,7 +131,7 @@ him then; birth made him forget, and Gavriel restored him to Yehosef.
   elsewhere (Menachos 38b) derives Aryoch from *aryeh*, the lion to which
   Yehudah is compared (Bereishis 49:9). The name Aryoch is borne in Tanach by
   the king of Elasar, one of the four kings Avraham fought (Bereishis 14:1,
-  14:9), and by a minister of Nevuchadnetzar (Daniel 2:4, 2:15, 2:24-25).
+  14:9), and by a minister of Nevuchadnetzar (Daniel 2:14, 2:15, 2:24-25).
 
 ## Distinctions
 
@@ -183,4 +183,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayeshev: The Amazing Multi-Named Joseph](https://articles.ohr.edu/articles/vayeshev-the-amazing-multi-named-joseph)," *What's in a Word?*, Ohr Somayach, 17 December 2022.
 
-Cited in the essay: Bereishis 29:17, 30:23-24, 41:43, 41:45, 49:9; Bamidbar 13:7; Devarim 28:56; Shmuel II 3:39; Tehillim 81:6; Divrei HaYamim I 25:9; Ezra 10:42; Nechemiah 12:14; Sotah 10b and 36b; Niddah 30b; Shabbos 53a; Menachos 38b; Bava Basra 4a; *Bereishis Rabbah* 90:3 and 90:4; *Sifrei Devarim* 1; Rambam, *Hilchos Klei HaMikdash* 9:9, with *Minchas Chinuch* 99; *Divrei Dovid* to Bereishis 41:43; *Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19; *Emunas Avraham* to Bereishis 29:17; *Sefer Russiana* to Bereishis 29:17; Bereishis 14:1, 14:9; Daniel 2:4, 2:15, 2:24-25; the piyyut *Even Choger*; *Lashon HaKodesh: History, Holiness, & Hebrew* on *Tzafnas Paneach*.
+Cited in the essay: Bereishis 29:17, 30:23-24, 41:43, 41:45, 49:9; Bamidbar 13:7; Devarim 28:56; Shmuel II 3:39; Tehillim 81:6; Divrei HaYamim I 25:9; Ezra 10:42; Nechemiah 12:14; Sotah 10b and 36b; Niddah 30b; Shabbos 53a; Menachos 38b; Bava Basra 4a; *Bereishis Rabbah* 90:3 and 90:4; *Sifrei Devarim* 1; Rambam, *Hilchos Klei HaMikdash* 9:9, with *Minchas Chinuch* 99; *Divrei Dovid* to Bereishis 41:43; *Pri Eitz Chaim*, *Shaar HaYichudim* ch. 19; *Emunas Avraham* to Bereishis 29:17; *Sefer Russiana* to Bereishis 29:17; Bereishis 14:1, 14:9; Daniel 2:14, 2:15, 2:24-25; the piyyut *Even Choger*; *Lashon HaKodesh: History, Holiness, & Hebrew* on *Tzafnas Paneach*.

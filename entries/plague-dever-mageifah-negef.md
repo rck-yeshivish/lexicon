@@ -34,7 +34,7 @@ difference between the words does not lie in the extent of their impact.
 ### dever (דבר)
 The fifth *makkah*, the sudden death of Egypt's horses, donkeys, camels, cattle
 and sheep, and the word Moshe uses twice in warning about the tenth (Shemos 5:3,
-9:14). That *dever* denotes a plague bringing death finds support in the cognate
+9:15). That *dever* denotes a plague bringing death finds support in the cognate
 languages: in other Semitic languages words spelled DBR mean "death." Rabbi Shlomo Pappenheim of Breslau (1740-1814) links *dever* to *devorah*
 ("bee"), because *dever* raises lesions on the body before it kills, and those
 lesions somewhat resemble the inflammation of an allergic reaction to a bee sting;
@@ -93,9 +93,9 @@ cannot lie in the extent of their impact.
 - נגף: "plague" too, but if *negef* and *mageifah* stand together, render
   *negef* "deadly plague" and *mageifah* "affliction" so Malbim's distinction
   survives.
-- Trap: English "plague" absorbs all three. Shemos 9:14 puts *mageifos* and
-  *dever* in one pasuk ("all My plagues... stricken you with *dever*"); render
-  the first "plagues" and the second "pestilence," or the pasuk collapses into
+- Trap: English "plague" absorbs all three. Shemos 9:14-15 puts *mageifos* and
+  *dever* side by side ("all My plagues... stricken you with *dever*"); render
+  the first "plagues" and the second "pestilence," or the passage collapses into
   a tautology.
 - Trap: do not translate *mageifah* as though it reports a death toll. It
   reports what the striker did; the toll, if any, is elsewhere in the pasuk.
@@ -108,4 +108,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Plague of Plagues](https://articles.ohr.edu/articles/plague-of-plagues)," *What's in a Word?*, Ohr Somayach, 13 January 2018.
 
-Cited in the essay: Shemos 5:3, 7:27, 9:14, 21:22, 21:35, 30:12; Bamidbar 25:9; Shmuel II 24:15; Mishnah *Taanis* 3:4; *Bava Kama* 2b and 60b; Rashi to Shemos 7:27 and 30:12; Abarbanel and Rabbeinu Chananel on *tzfardea*; Rabbi Yair Chaim Bachrach, *Chavos Yair*; the Ecology Global Network.
+Cited in the essay: Shemos 5:3, 7:27, 9:14-15, 21:22, 21:35, 30:12; Bamidbar 25:9; Shmuel II 24:15; Mishnah *Taanis* 3:4; *Bava Kama* 2b and 60b; Rashi to Shemos 7:27 and 30:12; Abarbanel and Rabbeinu Chananel on *tzfardea*; Rabbi Yair Chaim Bachrach, *Chavos Yair*; the Ecology Global Network.

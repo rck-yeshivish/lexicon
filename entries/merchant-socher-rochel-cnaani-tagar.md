@@ -39,7 +39,7 @@ the **peddler** who buys from the *socher* and goes door to door. Standing alone
 **merchant** (Rashi, Eruvin 55a, makes him the local seller against the
 travelling *socher*). *Cnaani*, in a string of pesukim (Bereishis 38:2,
 Yeshayahu 23:8, Mishlei 31:24, Zechariah 14:21 as most commentators read it, and
-with Rashi at Yechezkel 16:29, Hoshea 12:8, Iyov 41:30), means "trader," not
+with Rashi at Yechezkel 16:29, Hoshea 12:8, Iyov 40:30), means "trader," not
 "Canaanite."
 
 ## At a glance
@@ -220,7 +220,7 @@ be a cognate of *maleh*, "full," yet Rashi defines it as *sechorah* (Pesachim
   *socher* and *cnaani* stand in one sentence; render "merchants" and "traders,"
   not "merchants" twice.
 - כנעני in Bereishis 38:2, Mishlei 31:24, Yeshayahu 23:8, Yechezkel 16:29, Hoshea
-  12:8, and Iyov 41:30 is "merchant." Writing "Canaanite" at Bereishis 38:2
+  12:8, and Iyov 40:30 is "merchant." Writing "Canaanite" at Bereishis 38:2
   contradicts Pesachim 50a.
 - רכילות stays "talebearing," not "peddling." Where a source pairs *socher* with
   *tagar* (Eruvin 55a), keep "travelling merchants" against "local dealers."
