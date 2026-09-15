@@ -13,7 +13,9 @@ words:
 sources:
   - wiaw:11857 "Shelach: Growing the Fringes (Part 1/2)" (2025-06-21) https://articles.ohr.edu/articles/shelach-growing-the-fringes-part-12
   - wiaw:11856 "Korach: Growing the Fringes (Part 2/2)" (2025-06-28) https://articles.ohr.edu/articles/korach-growing-the-fringes-part-22
-authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rav Hirsch, Ibn Janach, Ibn Parchon, Radak, Rabbi Yosef Kimchi, Rabbi Nosson of Rome, Rav Matzliach Gaon, Rabbeinu Bachaya, Rabbi Nosson Shapiro, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Tanchum HaYerushalmi, Rabbi Ernest Klein, Dr. Alexander Kohut, David Curwin, Rabbi Dr. Seth Mandel, Rabbi Shaul Goldman, Ramban, Rashbam, Rabbi Avraham Maimuni, Rabbi Moshe HaDarshan, Rabbeinu Chaim Paltiel]
+  - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
+  - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
+authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rav Hirsch, Ibn Janach, Ibn Parchon, Radak, Rabbi Yosef Kimchi, Rabbi Nosson of Rome, Rav Matzliach Gaon, Rabbeinu Bachaya, Rabbi Nosson Shapiro, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Tanchum HaYerushalmi, Rabbi Ernest Klein, Dr. Alexander Kohut, David Curwin, Rabbi Dr. Seth Mandel, Rabbi Shaul Goldman, Ramban, Rashbam, Rabbi Avraham Maimuni, Rabbi Moshe HaDarshan, Rabbeinu Chaim Paltiel, Paneach Raza, Baal HaTurim, Targum Onkelos]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -107,7 +109,7 @@ Korach's rebellion is set beside the parashah of *tzitzis*: Korach argued that a
 it is obligated (see Menachos 41b).
 
 The Torah requires one *petil* of *techeiles* among the strings (Bamidbar
-15:38). The root פ-ת-ל denotes snug attachment or twistedness, as in *tzamid
+15:38); Targum Onkelos there renders *petil* as *chut*, "string." The root פ-ת-ל denotes snug attachment or twistedness, as in *tzamid
 pasil*, the tightly sealed vessel whose contents are saved from tumah (Bamidbar
 19:15); a string is made by twisting fibers snugly together. Rav Hirsch (to
 Bereishis 30:8, Bamidbar 15:38) reads the root as "separateness" instead,
@@ -121,7 +123,9 @@ his belt according to some commentators, such as Ibn Janach, Rabbi Avraham
 Maimuni and Rashbam, or his cloak according to Radak; others read it as his
 *tallis*/*tzitzis* (Rabbi Moshe HaDarshan, *Bereishis Rabbasi* to 38:25, and
 Rabbeinu Chaim Paltiel to 38:18 in the name of Rashbam), which Ramban (to 38:18)
-rejects. In Mishnaic Hebrew *petilah* is a lamp wick, in some ways just a string
+rejects. Some commentators explain that it was his *tefillin*, since *petil* can be
+read as an anagram of *tefillin* (see *Paneach Raza* and *Baal HaTurim* to 38:18).
+In Mishnaic Hebrew *petilah* is a lamp wick, in some ways just a string
 fastened in place to hold a fire (Shabbos 2:4-5, Beitzah 4:4, Keilim 3:2), and
 in Sanhedrin 7:2 it seems to mean a lead rod.
 
@@ -215,4 +219,8 @@ Rabbi Reuven Chaim Klein, "[Shelach: Growing the Fringes (Part 1/2)](https://art
 
 Rabbi Reuven Chaim Klein, "[Korach: Growing the Fringes (Part 2/2)](https://articles.ohr.edu/articles/korach-growing-the-fringes-part-22)," *What's in a Word?*, Ohr Somayach, 28 June 2025.
 
-Cited in the essay: Bamidbar 15:37-41 with Rashi, Rabbeinu Bachaya and Rav Hirsch; Devarim 22:12; Yechezkel 8:3; Yirmiyahu 48:9 with Rashi; Melachim I 7:17; Bamidbar 19:15; Shemos 28:36 with Rav Hirsch; Bereishis 8:21 and 50:13 in Targum, 30:8 with Rav Hirsch, 38:18 with Ramban and Rabbeinu Chaim Paltiel, 38:25 in *Bereishis Rabbasi*; Daniel 4:9, 7:4; Nechemiah 3:15; Menachos 39a, 41b; Mishnah Shabbos 2:4-5, 19:6, 24:5, Beitzah 4:4, Nedarim 3:5, 4:1, Kiddushin 4:14, Bava Metzia 1:1, Bava Kamma 10:10, Sanhedrin 7:2, Meilah 5:1, Keilim 3:2, 10:4, 28:7, Ohalos 8:5, Negaim 11:5-6, Taharos 9:9, Zavim 4:7; Rosh Hashanah 16a; Sanhedrin 44a with Rashi, 69a; Bechoros 34b; Kerisus 24a; Niddah 46a; Bamidbar Rabbah 18:3; Bereishis Rabbah 42:1; Pirkei DeRabbi Eliezer ch. 3; Avos D'Rabbi Nasan 6:3; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach; Ibn Parchon; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Malbim, *Sefer HaCarmel*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbeinu Bachaya, *Kad HaKemach*; Rabbi Avraham Maimuni; Rashbam; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Nosson of Rome, *Sefer HeAruch*, citing Rav Matzliach Gaon; Rabbi Binyamin Mussafia, *Musaf HeAruch*; Rabbi Nosson Shapiro, *Matzas Shimurin*; Rabbi Ernest Klein; Dr. Alexander Kohut, *HeAruch HaShaleim*; David Curwin in the name of Rabbi Dr. Seth Mandel; Rabbi Shaul Goldman.
+Rabbi Reuven Chaim Klein, "[Bo: Filling your Phylacteries](https://articles.ohr.edu/articles/bo-filling-your-phylacteries)," *What's in a Word?*, Ohr Somayach, 20 January 2024.
+
+Rabbi Reuven Chaim Klein, "[Shelach: Learning the Ropes](https://articles.ohr.edu/articles/shelach-learning-the-ropes)," *What's in a Word?*, Ohr Somayach, 10 June 2023.
+
+Cited in the essay: Bamidbar 15:37-41 with Rashi, Rabbeinu Bachaya and Rav Hirsch, 15:38 with Targum Onkelos; Devarim 22:12; Yechezkel 8:3; Yirmiyahu 48:9 with Rashi; Melachim I 7:17; Bamidbar 19:15; Shemos 28:36 with Rav Hirsch; Bereishis 8:21 and 50:13 in Targum, 30:8 with Rav Hirsch, 38:18 with Ramban, Rabbeinu Chaim Paltiel, *Paneach Raza* and *Baal HaTurim*, 38:25 in *Bereishis Rabbasi*; Daniel 4:9, 7:4; Nechemiah 3:15; Menachos 39a, 41b; Mishnah Shabbos 2:4-5, 19:6, 24:5, Beitzah 4:4, Nedarim 3:5, 4:1, Kiddushin 4:14, Bava Metzia 1:1, Bava Kamma 10:10, Sanhedrin 7:2, Meilah 5:1, Keilim 3:2, 10:4, 28:7, Ohalos 8:5, Negaim 11:5-6, Taharos 9:9, Zavim 4:7; Rosh Hashanah 16a; Sanhedrin 44a with Rashi, 69a; Bechoros 34b; Kerisus 24a; Niddah 46a; Bamidbar Rabbah 18:3; Bereishis Rabbah 42:1; Pirkei DeRabbi Eliezer ch. 3; Avos D'Rabbi Nasan 6:3; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach; Ibn Parchon; Radak, *Sefer HaShorashim*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Malbim, *Sefer HaCarmel*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Rabbeinu Bachaya, *Kad HaKemach*; Rabbi Avraham Maimuni; Rashbam; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Nosson of Rome, *Sefer HeAruch*, citing Rav Matzliach Gaon; Rabbi Binyamin Mussafia, *Musaf HeAruch*; Rabbi Nosson Shapiro, *Matzas Shimurin*; Rabbi Ernest Klein; Dr. Alexander Kohut, *HeAruch HaShaleim*; David Curwin in the name of Rabbi Dr. Seth Mandel; Rabbi Shaul Goldman.

@@ -14,7 +14,8 @@ words:
     nk: בְּהֵמָה
 sources:
   - wiaw:6999 "Don't be a Behemah or a Chayah!" (2016-11-12) https://articles.ohr.edu/articles/dont-be-a-behemah-or-a-chayah
-authorities: [Ibn Ezra, Radak, Ramban, Netziv, Rabbi Chaim Kanievsky]
+  - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
+authorities: [Ibn Ezra, Radak, Ramban, Netziv, Rabbi Chaim Kanievsky, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -40,7 +41,12 @@ brought as *korbanos*: the bovine, ovine and caprine families, that is cattle,
 sheep, and goats. The category is not only kosher, though: other, non-kosher
 animals such as pigs, camels, and donkeys are seemingly *behemos* as well, which
 is why the sacrificial list alone does not define the word. Ramban instead defines *behemos* as the herbivores, animals
-that feed solely on plants and other flora.
+that feed solely on plants and other flora. Rabbi Yaakov Tzvi Mecklenburg relates
+the word itself to the noises animals make, building *behemah* on ה-מ(-ה),
+incoherent noise; Rabbi Aharon Marcus similarly derives it from ב-ה-ה, an
+onomatopoeic rendering of a common animal sound. Either way, the *behemah* differs
+from man, who is sometimes called a *middaber*, a speaker: people produce
+understandable speech, while animals just make sounds.
 
 ### chayah (חיה)
 Ibn Ezra and Radak: the wild animals, which live in uninhabited country, lions
@@ -82,4 +88,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Don't be a Behemah or a Chayah!](https://articles.ohr.edu/articles/dont-be-a-behemah-or-a-chayah)" *What's in a Word?*, Ohr Somayach, 12 November 2016.
 
-Cited in the essay: Ibn Ezra and Radak; Ramban; the Netziv, from Bava Kamma 19b; Rabbi Chaim Kanievsky, letter to Rabbi Chaim Tzvi Lehrfeld.
+Rabbi Reuven Chaim Klein, "[Vayakhel/Pekudei: Animal Sounds](https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds)," *What's in a Word?*, Ohr Somayach, 13 March 2021.
+
+Cited in the essay: Ibn Ezra and Radak; Ramban; the Netziv, from Bava Kamma 19b; Rabbi Chaim Kanievsky, letter to Rabbi Chaim Tzvi Lehrfeld; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Aharon Marcus.

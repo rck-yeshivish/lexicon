@@ -12,6 +12,8 @@ words:
     nk: כֵּן
 sources:
   - wiaw:11462 "Pinchas: Performance Platforms" (2024-07-27) https://articles.ohr.edu/articles/pinchas-performance-platforms
+  - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
+  - wiaw:11024 "Don't Trample On Me" (2023-07-22) https://articles.ohr.edu/articles/dont-trample-on-me
 authorities: [Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Yaakov Emden, Rabbi Tzvi Hirsch Ferber, Rabbi Baruch HaLevi Epstein, Rabbi Menachem Kasher, Rashi, Rambam, Rabbi Ernest Klein, Even Shoshan, Professor Edward Yechezkel Kutscher, Max Weinreich, Julius Pokorny]
 status: reviewed
 updated: 2026-09-10
@@ -107,7 +109,13 @@ Biblical Hebrew *bamah*, for all that a *bamah* is a high place used for
 sacrificial worship and so resembles what a *bimah* is. *Bamah*, he writes, is a
 native Hebrew word, appearing over a hundred times in Tanach and attested in
 other Semitic languages, Arabic *buhma*, Aramaic *bamata*, Moabite *bamat*,
-Akkadian *bamtu*, Ugaritic *bmt*.
+Akkadian *bamtu*, Ugaritic *bmt*. Rabbi Shlomo Pappenheim derives *bamah*,
+private altar, from the biliteral ב-מ, as in *bam*, "in them," which he takes
+to denote the meeting point of multiple parties: the *bamah* was a site at which
+many people gathered in communal worship. *Bamah* also denotes a "high place,"
+which many commentators understand to be the word's original meaning, because
+such gatherings typically took place on elevated spots to increase their
+visibility.
 
 ### basis (בסיס)
 A loanword, in the Mishnah once, for the base of a candelabrum (Keilim 11:7).
@@ -116,7 +124,12 @@ serving as the base for a forbidden one and thereby becoming forbidden itself
 (Shabbos 47a, 117a, 120b, 125b, 142a; Pesachim 83a; Chullin 125). The loan is
 from the Latin and Greek *basis*, base, step, pedestal, foot, going, the
 forebear of English *basis*, *base* and *basic*, and, through the
-interchangeability of *s* and *t*, of *diabetes* and *acrobat* as well. The
+interchangeability of *s* and *t*, of *diabetes* and *acrobat* as well. Rabbi
+Shlomo Pappenheim instead traces *basis* to ב-ס, the root of *boss*, to trample:
+the base is the bottom part of an object on which the rest of it rests, and so
+is conceptually similar to the ground one treads on, which lies at the bottom
+with something more significant on top of it. Rabbi Reuven Chaim Klein
+nonetheless finds the Latin and Greek *basis* the more convincing etymology. The
 Modern Hebrew *besisi*, basic or fundamental, and *basis* in the sense of an
 army base come from the same word.
 
@@ -161,5 +174,9 @@ None yet.
 ## Sources
 
 Rabbi Reuven Chaim Klein, "[Pinchas: Performance Platforms](https://articles.ohr.edu/articles/pinchas-performance-platforms)," *What's in a Word?*, Ohr Somayach, 27 July 2024.
+
+Rabbi Reuven Chaim Klein, "[Sort of Siblings](https://articles.ohr.edu/articles/sort-of-siblings)," *What's in a Word?*, Ohr Somayach, 21 August 2021.
+
+Rabbi Reuven Chaim Klein, "[Don't Trample On Me](https://articles.ohr.edu/articles/dont-trample-on-me)," *What's in a Word?*, Ohr Somayach, 22 July 2023.
 
 Cited in the essay: Shemos 30:18, 30:28, 31:9, 35:16, 38:8, 39:39, 40:11; Vayikra 8:11; Bereishis 40:13, 41:13; Bamidbar 6:23 with *Kerem Tzvi*; Mishnah Yoma 5:3-4, Arachin 2:6, Middos 2:6, Kiddushin 4:5, Sotah 7:8, Avodah Zarah 1:7, Keilim 11:7, Pesachim 1:5, Shekalim 8:4, Sukkah 4:4, Niddah 9:3; Taanis 29a; Arachin 11a-11b; Yoma 15b; Sukkah 51a; Megillah 24b; Shabbos 47a, 117a, 118b, 120b, 125b, 142a; Pesachim 83a; Chullin 125; Rosh Hashanah 28b, 31b; Sotah 38b, 40a, 48a; Menachos 44a; Kiddushin 71a; Bava Basra 21 with Rashi; Rashi to Sukkah 51b, Avodah Zarah 16a, Sotah 41a, Taanis 29a and Arachin 11b; Rambam to Keilim 2:3; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, with Rabbi Yaakov Emden's *Ezer Ohr*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Degel HaTorah* §11 and *Mekor Baruch* vol. 3 p. 1442; *Torah Shleimah* vol. 26 p. 289; Even Shoshan's concordance; Rabbi Ernest Klein's etymological dictionary of Hebrew; Professor Edward Yechezkel Kutscher, *Milim V'Toldoteihen*; Julius Pokorny's Proto-Indo-European dictionary; Max Weinreich.

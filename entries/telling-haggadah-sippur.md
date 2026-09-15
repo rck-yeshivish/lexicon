@@ -10,7 +10,8 @@ words:
     nk: מְסַפֵּר
 sources:
   - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
-authorities: [Ramban, Rashi, Ibn Ezra, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Eliyahu HaBachur, Netziv, Rabbi Dovid Abudraham, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Shapiro, Peirush HaRokeach, Rabbi Chaim Soloveitchik, Brisker Rav, Rabbi Aryeh Pomeranchik, Rabbi Yechiel Michel Feinstein, Rabbi Nosson Gestetner, Rabbi Dr. Ari Bergmann, Alshich]
+  - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
+authorities: [Ramban, Rashi, Ibn Ezra, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Eliyahu HaBachur, Netziv, Rabbi Dovid Abudraham, Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Moshe Shapiro, Peirush HaRokeach, Rabbi Chaim Soloveitchik, Brisker Rav, Rabbi Aryeh Pomeranchik, Rabbi Yechiel Michel Feinstein, Rabbi Nosson Gestetner, Rabbi Dr. Ari Bergmann, Alshich, Rabbi David Golumb]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -115,7 +116,12 @@ counting, are the system in which the numbers are bound together in an orderly,
 logical way. Rabbi Klein adds that telling and counting are paired in other
 languages too: in German and Yiddish (*zahlen*, to count), and in English
 *tell*, *tale* and *recount*, and some etymologists take the *tell* of "to tell
-time" as counting.
+time" as counting. Rabbi David Golumb (*Targumna* to Shemos 9:29 and Vayikra
+14:9) instead sees the core meaning of ס-פ-ר as "circle" or "round," relating the
+words to the Greek *sphere*: *l'saper* and *sippur* describe the way a story
+gains traction as people go around and around telling it; a city on the *sfar*,
+the border, is typically surrounded by a protecting wall; and a *sapar*, barber,
+cuts the hair from one ear to the other in a circular motion.
 
 Rabbi Pomeranchik also reports from the Brisker Rav in Rav Chaim's name two
 ways the Pesach-night mitzvah differs from the daily mention: it must take a
@@ -176,4 +182,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Pesach: Telling the Story](https://articles.ohr.edu/articles/pesach-telling-the-story)," *What's in a Word?*, Ohr Somayach, 13 April 2019.
 
-Cited in the essay: Bereishis 3:11, 24:23, 37:28; Shemos 10:2, 13:8, 19:3, 19:9; Vayikra 5:1; Devarim 26:3; Esther 2:20; the Haggadah; Ramban to Devarim 26:3; Rashi to Shemos 19:3; Ibn Ezra to Shemos 19:9; Radak, *Sefer HaShorashim*; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yehuda Leib Edel; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Targum to Bereishis 37:28; the Netziv; Rabbi Dovid Abudraham; Rabbi Dr. Ari Bergmann; Alshich to Bereishis 24:23; Rabbi Aryeh Pomeranchik, reporting the Brisker Rav in the name of Rav Chaim Soloveitchik; Malbim; Rabbi Shlomo Aharon Wertheimer; Rav Moshe Shapiro; *Peirush HaRokeach*; Rabbi Yechiel Michel Feinstein; Rabbi Nosson Gestetner.
+Rabbi Reuven Chaim Klein, "[Haircut Time](https://articles.ohr.edu/articles/haircut-time)," *What's in a Word?*, Ohr Somayach, 2 April 2022.
+
+Cited in the essay: Bereishis 3:11, 24:23, 37:28; Shemos 10:2, 13:8, 19:3, 19:9; Vayikra 5:1; Devarim 26:3; Esther 2:20; the Haggadah; Ramban to Devarim 26:3; Rashi to Shemos 19:3; Ibn Ezra to Shemos 19:9; Radak, *Sefer HaShorashim*; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Rav Hirsch; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yehuda Leib Edel; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Targum to Bereishis 37:28; the Netziv; Rabbi Dovid Abudraham; Rabbi Dr. Ari Bergmann; Alshich to Bereishis 24:23; Rabbi Aryeh Pomeranchik, reporting the Brisker Rav in the name of Rav Chaim Soloveitchik; Malbim; Rabbi Shlomo Aharon Wertheimer; Rav Moshe Shapiro; *Peirush HaRokeach*; Rabbi Yechiel Michel Feinstein; Rabbi Nosson Gestetner; Rabbi David Golumb, *Targumna* to Shemos 9:29 and Vayikra 14:9.

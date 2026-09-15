@@ -14,7 +14,8 @@ words:
     nk: שׁוֹר
 sources:
   - wiaw:8333 "Bovine Words: Cows and Cowboys" (2019-07-20) https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys
-authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg, Julian Mason]
+  - wiaw:9308 "The Ultimate Teacher" (2021-07-24) https://articles.ohr.edu/articles/the-ultimate-teacher
+authorities: [Rabbi Eliezer HaKallir, Peirush HaRokeach, Rabbeinu Efrayim, Rabbi Zalman Hanau, Rabbi Shlomo Pappenheim, Rashi, Radak, Rabbi Yonah Merzbach, the Vilna Gaon, Rabbi Yehoshua Steinberg, Julian Mason, Malbim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -96,7 +97,8 @@ hold over those under him is an *aluf*, and the number one must command to earn
 that title is an *elef*, a thousand; an *aleph* is on that reckoning the
 strongest sort of ox. The Vilna Gaon (to Mishlei 14:4) instead connects *aleph*
 to the Aramaic *yalif*, to learn, though his account of how *aleph* differs from
-*shor* is involved.
+*shor* is involved. Malbim likewise ties the word to learning: an *aleph* is a
+*trained* ox, one that has already learned how to work the land.
 
 ### bakar (בקר)
 The collective, cattle. Radak (*Sefer HaShorashim*): the root ב-ק-ר means
@@ -140,4 +142,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Bovine Words: Cows and Cowboys](https://articles.ohr.edu/articles/bovine-words-cows-and-cowboys)," *What's in a Word?*, Ohr Somayach, 20 July 2019.
 
-Cited in the essay: Shemos 21:37 with *Peirush HaRokeach* and Rabbeinu Efrayim; Vayikra 22:24, 22:27; Devarim 7:13, 28:4, 28:18, 28:51; Yeshayahu 30:24; Amos 7:14; Tehillim 8:8, 50:10, 69:32 with Rashi and Radak; Mishlei 3:8, 14:4 with the Vilna Gaon; Yechezkel 16:4; Iyov 40:16; Parah 1:1; Chullin 60a; Avodah Zarah 8a; Rabbi Eliezer HaKallir's *piyut* for the second day of Pesach; *Tzohar HaTeivah*; Radak, *Sefer HaShorashim*; Rabbi Yonah Merzbach; Rabbi Yehoshua Steinberg; Dr. Julian Mason.
+Rabbi Reuven Chaim Klein, "[The Ultimate Teacher](https://articles.ohr.edu/articles/the-ultimate-teacher)," *What's in a Word?*, Ohr Somayach, 24 July 2021.
+
+Cited in the essay: Shemos 21:37 with *Peirush HaRokeach* and Rabbeinu Efrayim; Vayikra 22:24, 22:27; Devarim 7:13, 28:4, 28:18, 28:51; Yeshayahu 30:24; Amos 7:14; Tehillim 8:8, 50:10, 69:32 with Rashi and Radak; Mishlei 3:8, 14:4 with the Vilna Gaon; Yechezkel 16:4; Iyov 40:16; Parah 1:1; Chullin 60a; Avodah Zarah 8a; Rabbi Eliezer HaKallir's *piyut* for the second day of Pesach; *Tzohar HaTeivah*; Radak, *Sefer HaShorashim*; Rabbi Yonah Merzbach; Rabbi Yehoshua Steinberg; Dr. Julian Mason; Malbim.

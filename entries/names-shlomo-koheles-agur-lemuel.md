@@ -42,7 +42,8 @@ words:
     distinct: at Mishlei 30:15, literally a leech; the Rid counts it an eighth name, for one who drank in every kind of wisdom, and Tosafos deny it can be Shlomo since it is not among the seven
 sources:
   - wiaw:8149 "Solomon's Seven Names" (2019-02-23) https://articles.ohr.edu/articles/solomons-seven-names
-authorities: [Rabbi Yehoshua ben Levi, Targum Sheini, Rashi, Ibn Ezra, Ralbag, Rabbi Yishaya of Trani (the Rid), Tosafos, Tosafos Shantz, Midrash Agur]
+  - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
+authorities: [Rabbi Yehoshua ben Levi, Targum Sheini, Rashi, Ibn Ezra, Ralbag, Rabbi Yishaya of Trani (the Rid), Tosafos, Tosafos Shantz, Midrash Agur, Maharal]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -119,7 +120,9 @@ that he gathered up (*agar*) the Torah's wisdom.
 sucked up and drank in every form of wisdom. Tosafos (to Eruvin 19a) and Tosafos
 and Tosafos Shantz (to Avodah Zarah 17a) grant that *Alukah* is somebody's name
 but hold it cannot be Shlomo's, precisely because it is not one of the seven the
-Midrash lists.
+Midrash lists. Tosafos also cite several sources that presume *alukah* is a
+name for Gehinnom, which the Maharal explains: as a leech sucks out a person's
+blood, so Gehinnom sucks out a person's soul.
 
 ## Distinctions
 
@@ -176,4 +179,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Solomon's Seven Names](https://articles.ohr.edu/articles/solomons-seven-names)," *What's in a Word?*, Ohr Somayach, 23 February 2019.
 
-Cited in the essay: Shmuel II 12:24-25; Divrei HaYamim I 22:9; Melachim I 8:1; Koheles 1:1 with Rashi; Mishlei 30:1, 30:15, 31:1, 31:4; Devarim 17:16-17, 33:12; Yirmiyahu 11:15, 12:7; Yeshayahu 5:1; Tehillim 84:2; Menachos 53; Sanhedrin 70b with Rashi; Tosafos to Eruvin 19a; Tosafos and Tosafos Shantz to Avodah Zarah 17a; Ralbag and Ibn Ezra to Mishlei 30:1 and 31:1; *Targum Sheini*; *Midrash Agur* §4; Rabbi Yehoshua ben Levi.
+Rabbi Reuven Chaim Klein, "[Names of the Underworld](https://articles.ohr.edu/articles/names-of-the-underworld)," *What's in a Word?*, Ohr Somayach, 29 June 2019.
+
+Cited in the essay: Shmuel II 12:24-25; Divrei HaYamim I 22:9; Melachim I 8:1; Koheles 1:1 with Rashi; Mishlei 30:1, 30:15, 31:1, 31:4; Devarim 17:16-17, 33:12; Yirmiyahu 11:15, 12:7; Yeshayahu 5:1; Tehillim 84:2; Menachos 53; Sanhedrin 70b with Rashi; Tosafos to Eruvin 19a; Tosafos and Tosafos Shantz to Avodah Zarah 17a; Ralbag and Ibn Ezra to Mishlei 30:1 and 31:1; *Targum Sheini*; *Midrash Agur* §4; Rabbi Yehoshua ben Levi; the Maharal.

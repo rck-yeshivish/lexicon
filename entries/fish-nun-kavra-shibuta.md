@@ -26,7 +26,8 @@ words:
     nk: תַּנִּין
 sources:
   - wiaw:9234 "Fun with Fish (Part 2/2)" (2021-06-05) https://articles.ohr.edu/articles/fun-with-fish-part-22
-authorities: [Rashi, Rivan, Meiri, Tosafos, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Ron Yosef Chaim Masoud Abuchatzeira, Rabbi Avraham Rivlin, Rabbi Nissim Paniri, Rabbi Aryeh Moshe Teicholtz, Rabbi Yitzchak Yishaya Weiss, Minchas Chinuch, Marcus Jastrow, Zohar Amar, Ari Zivotofsky]
+  - wiaw:7321 "Slithering Serpents and Sea Snakes - Part 1" (2017-07-01) https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1
+authorities: [Rashi, Rivan, Meiri, Tosafos, Radak, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Ron Yosef Chaim Masoud Abuchatzeira, Rabbi Avraham Rivlin, Rabbi Nissim Paniri, Rabbi Aryeh Moshe Teicholtz, Rabbi Yitzchak Yishaya Weiss, Minchas Chinuch, Marcus Jastrow, Zohar Amar, Ari Zivotofsky, Vilna Gaon]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -128,7 +129,10 @@ is not part of the root, leaving *nun* at the core, and explicitly rejects the s
 speculation that *taninim* is a Sanskrit loanword. Rav Hirsch (to Bereishis 1:21) also
 suggests that *tannin* derives from *nun*, but adds that *nun* itself derives from *nin*,
 offspring (in Modern Hebrew, great-grandchild), comparing this to *dag*, whose primary
-sense is fecundity.
+sense is fecundity. The Vilna Gaon writes that *nachash* is to land as *tanin* is to
+sea, an analogy which suggests that *tanin* is a sea snake (possibly an eel or something
+similar); Rashi (to Bereishis 1:21 and Niddah 22b) simply writes that a *tanin* is a big
+fish.
 
 ## Rendering guidance
 
@@ -151,4 +155,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Fun with Fish (Part 2/2)](https://articles.ohr.edu/articles/fun-with-fish-part-22)," *What's in a Word?*, Ohr Somayach, 5 June 2021.
 
-Cited in the essay: Bereishis 1:21 with Rav Hirsch, 2:2-3; Divrei HaYamim I 7:27; Berachos 20a; Kiddushin 25a, 41a; Moed Katan 11a with Tosafos; Chullin 109b; Niddah 25b with Rashi; Yevamos 12b with Rivan and Meiri; Kesuvos 39a with Rashi; Yerushalmi Niddah 3:4 and Taanis 4:5; Mishnah Bechoros 8:1, Kerisos 1:3, Niddah 3:4; Sheviis 10:7, Bava Basra 5:3, Keilim 8:1, 15:1, 22:10, Ohalos 5:6, 8:1, 8:3, 9:1 (Mishnah, on *kaveres*); Radak to Bereishis 2:3; *Yalkut Reuveni*; *Megaleh Amukos* 27; *Midrash HaBiur*; *Minchas Chinuch* 550:2; *Megadim Chadashim* to Shabbos 119a; *Shevet Mussar* ch. 11; Rabbi Aharon Marcus; Rabbi Ron Yosef Chaim Masoud Abuchatzeira; Rabbi Avraham Rivlin; Rabbi Nissim Paniri; Rabbi Aryeh Moshe Teicholtz; Rabbi Yitzchak Yishaya Weiss; Dr. Marcus Jastrow; Drs. Zohar Amar and Ari Zivotofsky.
+Rabbi Reuven Chaim Klein, "[Slithering Serpents and Sea Snakes - Part 1](https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1)," *What's in a Word?*, Ohr Somayach, 1 July 2017.
+
+Cited in the essay: Bereishis 1:21 with Rav Hirsch and Rashi, 2:2-3; Divrei HaYamim I 7:27; Berachos 20a; Kiddushin 25a, 41a; Moed Katan 11a with Tosafos; Chullin 109b; Niddah 22b and 25b with Rashi; the Vilna Gaon; Yevamos 12b with Rivan and Meiri; Kesuvos 39a with Rashi; Yerushalmi Niddah 3:4 and Taanis 4:5; Mishnah Bechoros 8:1, Kerisos 1:3, Niddah 3:4; Sheviis 10:7, Bava Basra 5:3, Keilim 8:1, 15:1, 22:10, Ohalos 5:6, 8:1, 8:3, 9:1 (Mishnah, on *kaveres*); Radak to Bereishis 2:3; *Yalkut Reuveni*; *Megaleh Amukos* 27; *Midrash HaBiur*; *Minchas Chinuch* 550:2; *Megadim Chadashim* to Shabbos 119a; *Shevet Mussar* ch. 11; Rabbi Aharon Marcus; Rabbi Ron Yosef Chaim Masoud Abuchatzeira; Rabbi Avraham Rivlin; Rabbi Nissim Paniri; Rabbi Aryeh Moshe Teicholtz; Rabbi Yitzchak Yishaya Weiss; Dr. Marcus Jastrow; Drs. Zohar Amar and Ari Zivotofsky.

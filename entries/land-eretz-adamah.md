@@ -12,7 +12,8 @@ words:
     nk: אֲדָמָה
 sources:
   - wiaw:7313 "The Land Down Under" (2017-06-24) https://articles.ohr.edu/articles/the-land-down-under
-authorities: [Vilna Gaon, Malbim, Rabbeinu Bachaya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer]
+  - wiaw:9346 "Seasoning the Land" (2021-08-28) https://articles.ohr.edu/articles/seasoning-the-land
+authorities: [Vilna Gaon, Malbim, Rabbeinu Bachaya, Ritva, Rabbi Yechiel Michel Moravsky of Lublin, Rabbi Yisrael Lipschitz, Maharshal, Rabbi Yitzchok Dov Bamberger, Pri Megadim, Rabbi Yaakov Chaim Sofer, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -34,6 +35,10 @@ construct it names a particular nation's land, so "country" fits it well; an
 unqualified *eretz* often means Eretz Yisrael in particular. Malbim: *eretz*
 takes in the whole planet, from the surface down to the innermost core, while
 *adamah* generally means only the crust whose dirt is farmed.
+
+Bereishis Rabbah 5:8 relates *eretz* to *ratzon* and *ratz*, running: when the
+world was created the land wanted to do Hashem's will, and ran to cover as much
+of the earth's surface as it could until Hashem told it to stop.
 
 The berachos put the difference on display. Over bread one says that Hashem
 brings forth bread *min ha'aretz*, from the land; over vegetables, that He
@@ -62,6 +67,15 @@ looks back before the sin, when whole loaves rose from the earth, and forward to
 the days of Mashiach when they will again (Shabbos 30b), and so says *eretz*,
 the land that will by then break free of its curse and return to its pure,
 unblemished state.
+
+Rabbi Shlomo Pappenheim derives *adamah* from the biliteral ד-מ, similarity,
+whence *domem*, inactive: the *adamah* is where plants grow and are active, while
+the *adamah* itself remains passive. Rabbi Yaakov Tzvi Mecklenburg builds on this
+to explain why an unqualified *eretz* in the Torah often means the Holy Land and
+*adamah* the lands outside it. *Eretz* derives from ר-ץ, persistency, alluding to
+the earth's persistent motion, and in the Holy Land people must be constantly
+active to fulfill the agricultural mitzvos; outside it they remain inactive with
+respect to those mitzvos, and the land is *adamah*.
 
 ### the dissent
 The Maharshal holds the reverse: *eretz* is limited to the surface and the
@@ -106,4 +120,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Land Down Under](https://articles.ohr.edu/articles/the-land-down-under)," *What's in a Word?*, Ohr Somayach, 24 June 2017.
 
-Cited in the essay: Bamidbar 16:30-34, 26:10; Devarim 11:6; Tehillim 104:14; Bereishis 3:17; Rashi to Bereishis 6:13; Yerushalmi Taanis 1:3; Shabbos 30b; the berachos of *hamotzi lechem min ha'aretz* and *borei pri ha'adamah*.
+Rabbi Reuven Chaim Klein, "[Seasoning the Land](https://articles.ohr.edu/articles/seasoning-the-land)," *What's in a Word?*, Ohr Somayach, 28 August 2021.
+
+Cited in the essay: Bamidbar 16:30-34, 26:10; Devarim 11:6; Tehillim 104:14; Bereishis 3:17; Rashi to Bereishis 6:13; Yerushalmi Taanis 1:3; Shabbos 30b; the berachos of *hamotzi lechem min ha'aretz* and *borei pri ha'adamah*; Bereishis Rabbah 5:8; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg.

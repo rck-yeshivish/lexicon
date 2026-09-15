@@ -25,6 +25,7 @@ words:
     distinct: the biblical word for a feather itself, as against the wing (Vayikra 1:16; Yechezkel 17:3, 17:7; Iyov 39:13)
 sources:
   - wiaw:9070 "Yitro: Just Winging It" (2021-02-06) https://articles.ohr.edu/articles/yitro-just-winging-it
+  - wiaw:7009 "Fowl Language and Poultry" (2016-11-19) https://articles.ohr.edu/articles/fowl-language-and-poultry
 authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Shlomo Pappenheim, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rashi, Rashbam, Chaim Tawil]
 status: reviewed
 updated: 2026-09-10
@@ -112,7 +113,10 @@ be the limb by which a bird reaches toward the *kapayim*.
 
 ### kanaf (כנף)
 Root כ-נ-ף. Primarily the wing of a flying creature, and by extension birds
-themselves (Bereishis 7:14). Bedersi: because the wing sits at the edge of the
+themselves (Bereishis 7:14). Rashi there reads *kol kanaf* as including all
+winged creatures, such as grasshoppers, which *kol tzipor* does not cover; Radak
+(to Bereishis 7:14), expanding on Rashi, makes *kanaf* a specific class, winged
+insects like grasshoppers, wasps and flies. Bedersi: because the wing sits at the edge of the
 bird's body, *kanaf* came to mean whatever lies at the periphery or edge, of a
 thing (Devarim 22:12; Shmuel I 24:5) or of a place (Yeshayahu 11:12, 24:16;
 Yechezkel 7:2; Iyov 37:3, 38:13). Rabbi Shlomo Aharon Wertheimer (1866 to 1935)
@@ -169,4 +173,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Yitro: Just Winging It](https://articles.ohr.edu/articles/yitro-just-winging-it)," *What's in a Word?*, Ohr Somayach, 6 February 2021.
 
-Cited in the essay: Bereishis 1:21 and 7:14 with Rav Hirsch; Bereishis 17:4 with Rav Hirsch; Shemos 19:4; Shemos 25:25 with the Targumim; Vayikra 1:16; Vayikra 19:11 with Rav Hirsch; Bamidbar 15:30 with Rav Hirsch; Devarim 22:12, 23:1, 32:11; Shmuel I 24:5; Yeshayahu 11:12, 24:16; Yechezkel 7:2, 12:14, 17:3, 17:7, 17:21, 38:6, 38:22, 39:4; Yechezkel 43:17 with the Targum; Malachi 3:20; Mishlei 9:3; Iyov 37:3, 38:13, 39:13; Rus 2:12, 3:9; Daniel 7:4, 7:6; Makkos 23b; Pesachim 22b; Kesubos 105b; Chullin 22b; Yoma 84a with Rashi; Bava Basra 73b with Rashbam; Succah 20b with Rashi; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer; *Machberes Menachem*; Ibn Janach and Radak; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Chaim Tawil.
+Rabbi Reuven Chaim Klein, "[Fowl Language and Poultry](https://articles.ohr.edu/articles/fowl-language-and-poultry)," *What's in a Word?*, Ohr Somayach, 19 November 2016.
+
+Cited in the essay: Bereishis 1:21 and 7:14 with Rav Hirsch, 7:14 with Rashi and Radak; Bereishis 17:4 with Rav Hirsch; Shemos 19:4; Shemos 25:25 with the Targumim; Vayikra 1:16; Vayikra 19:11 with Rav Hirsch; Bamidbar 15:30 with Rav Hirsch; Devarim 22:12, 23:1, 32:11; Shmuel I 24:5; Yeshayahu 11:12, 24:16; Yechezkel 7:2, 12:14, 17:3, 17:7, 17:21, 38:6, 38:22, 39:4; Yechezkel 43:17 with the Targum; Malachi 3:20; Mishlei 9:3; Iyov 37:3, 38:13, 39:13; Rus 2:12, 3:9; Daniel 7:4, 7:6; Makkos 23b; Pesachim 22b; Kesubos 105b; Chullin 22b; Yoma 84a with Rashi; Bava Basra 73b with Rashbam; Succah 20b with Rashi; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Aharon Wertheimer; *Machberes Menachem*; Ibn Janach and Radak; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Chaim Tawil.

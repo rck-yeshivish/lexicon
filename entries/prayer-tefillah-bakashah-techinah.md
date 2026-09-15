@@ -12,7 +12,8 @@ words:
     nk: תְּפִילָּה
 sources:
   - wiaw:7090 "Say your Prayers" (2017-01-14) https://articles.ohr.edu/articles/say-your-prayers
-authorities: [Targum Onkelos, Rabbi Simcha Maimon, Rabbi Shmuel Laniado, Rabbi Yaakov Tzvi Mecklenburg]
+  - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
+authorities: [Targum Onkelos, Rabbi Simcha Maimon, Rabbi Shmuel Laniado, Rabbi Yaakov Tzvi Mecklenburg, Maharal]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -46,7 +47,10 @@ suggests they are not the same thing.
 Root פ-ל-ל. Rabbi Yaakov Tzvi Mecklenburg derives *tefillah* from *pelilah*,
 arbitration or judgment (in Modern Hebrew the word means "criminal"): the one who
 prays presses his case before Hashem, demanding that He address a perceived
-injustice. Rabbi Simcha Maimon, a prominent Rosh Yeshiva in Yerushalayim, gives
+injustice. The Maharal (*Be'er HaGolah* §4:2) proposes instead that the core
+meaning of פ-ל-ל is intellectuality or thoughtfulness: *tefillah* is a thoughtful
+plea and appeal to the One Above, as judges are called *pelilim* (Shemos 21:22)
+because they use their minds to figure out how to decide the law. Rabbi Simcha Maimon, a prominent Rosh Yeshiva in Yerushalayim, gives
 two readings against *bakashah*. First, *tefillah* is the "flattering" side of
 prayer, in which one praises Hashem, while *bakashah* is the "wishful" side, in
 which one asks Him for one's needs. Second, *tefillah* is formal, instituted
@@ -97,4 +101,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Say your Prayers](https://articles.ohr.edu/articles/say-your-prayers)," *What's in a Word?*, Ohr Somayach, 14 January 2017.
 
-Cited in the essay: Bereishis 27:22, 48:22 with Targum Onkelos; *Bava Basra* 123a; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Simcha Maimon; Rabbi Shmuel Laniado.
+Rabbi Reuven Chaim Klein, "[Bo: Filling your Phylacteries](https://articles.ohr.edu/articles/bo-filling-your-phylacteries)," *What's in a Word?*, Ohr Somayach, 20 January 2024.
+
+Cited in the essay: Bereishis 27:22, 48:22 with Targum Onkelos; *Bava Basra* 123a; Shemos 21:22; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Simcha Maimon; Rabbi Shmuel Laniado; the Maharal, *Be'er HaGolah* §4:2.

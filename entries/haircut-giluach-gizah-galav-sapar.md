@@ -12,7 +12,8 @@ words:
     nk: תַּעַר
 sources:
   - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
-authorities: [Rav Hirsch, Rabbi David Golumb, Rabbi Shlomo Pappenheim, Radak, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rashi, Mahari Kara, Rabbi Avraham Abulafia, Dr. Alexander Kohut, Dr. Chaim Tawil]
+  - wiaw:7251 "When Just Counting Doesn't Count" (2017-05-13) https://articles.ohr.edu/articles/when-just-counting-doesnt-count
+authorities: [Rav Hirsch, Rabbi David Golumb, Rabbi Shlomo Pappenheim, Radak, Rabbi Nosson of Rome, Rabbi Eliyahu HaBachur, Rashi, Mahari Kara, Rabbi Avraham Abulafia, Dr. Alexander Kohut, Dr. Chaim Tawil, Rabbi Yaakov Tzvi Mecklenburg]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -136,6 +137,11 @@ it goes around and around; *sfar*, a border city surrounded by its protecting
 wall; and *sapar*, the barber who cuts around the head from one ear to the
 other.
 
+Rabbi Yaakov Tzvi Mecklenburg reads ס-פ-ר, as in *mispar*, as a number used as
+a limit, and the same pair is explained that way: the Aramaic *sapar*, barber,
+limits the growth of his client's hair, as the Aramaic *sfar*, a border, limits a
+nation's territory.
+
 ## Rendering guidance
 
 - *Metzora* and Nazir passages: "shave," never "cut his hair." Sotah 16a's "like
@@ -160,4 +166,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Haircut Time](https://articles.ohr.edu/articles/haircut-time)," *What's in a Word?*, Ohr Somayach, 2 April 2022.
 
-Cited in the essay: Vayikra 14:8 and 14:9; Bamidbar 6:9, 6:18 and 6:19; Rav Hirsch to Bereishis 9:21 and Tehillim 74:6; Bereishis 41:14; Vayikra 21:5; Bereishis 38:12 and 31:19; Devarim 18:4; Iyov 1:20; Tehillim 72:6; Yechezkel 5:1 with Radak, Rashi and Mahari Kara; Radak, *Sefer HaShorashim*; Bereishis Rabbah 41:2 and 18:3; Yerushalmi Sotah 3:4; Targum Yonasan to Vayikra 19:27, Bamidbar 6:19, 8:7, Yehoshua 5:2, Yirmiyahu 48:37; Bereishis Rabbah 31:8; Bamidbar 21:29, 26:33, 27:1, 36:11; Yehoshua 15:6, 17:3, 18:19, 18:21; Bamidbar 6:5; Shoftim 13:5; Mishnah Taanis 2:7 and 4:7, Sanhedrin 2:5, Avodah Zarah 2:2, Kilayim 9:3, Shevi'is 8:5, Shabbos 1:2, Pesachim 4:6, Moed Katan 3:2, Keilim 3:3, 13:1, 16:8 and 24:5; Tosefta Beitzah 3:19; Beitzah 34a; Sotah 16a; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Golumb, *Targumna*; Rabbi Eliyahu HaBachur, *Meturgaman*; *Sefer HaAruch*; Dr. Alexander Kohut and Dr. Chaim Tawil.
+Rabbi Reuven Chaim Klein, "[When Just Counting Doesn't Count](https://articles.ohr.edu/articles/when-just-counting-doesnt-count)," *What's in a Word?*, Ohr Somayach, 13 May 2017.
+
+Cited in the essay: Vayikra 14:8 and 14:9; Bamidbar 6:9, 6:18 and 6:19; Rav Hirsch to Bereishis 9:21 and Tehillim 74:6; Bereishis 41:14; Vayikra 21:5; Bereishis 38:12 and 31:19; Devarim 18:4; Iyov 1:20; Tehillim 72:6; Yechezkel 5:1 with Radak, Rashi and Mahari Kara; Radak, *Sefer HaShorashim*; Bereishis Rabbah 41:2 and 18:3; Yerushalmi Sotah 3:4; Targum Yonasan to Vayikra 19:27, Bamidbar 6:19, 8:7, Yehoshua 5:2, Yirmiyahu 48:37; Bereishis Rabbah 31:8; Bamidbar 21:29, 26:33, 27:1, 36:11; Yehoshua 15:6, 17:3, 18:19, 18:21; Bamidbar 6:5; Shoftim 13:5; Mishnah Taanis 2:7 and 4:7, Sanhedrin 2:5, Avodah Zarah 2:2, Kilayim 9:3, Shevi'is 8:5, Shabbos 1:2, Pesachim 4:6, Moed Katan 3:2, Keilim 3:3, 13:1, 16:8 and 24:5; Tosefta Beitzah 3:19; Beitzah 34a; Sotah 16a; Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Golumb, *Targumna*; Rabbi Eliyahu HaBachur, *Meturgaman*; *Sefer HaAruch*; Dr. Alexander Kohut and Dr. Chaim Tawil; Rabbi Yaakov Tzvi Mecklenburg.

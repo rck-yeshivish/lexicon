@@ -7,7 +7,8 @@ english: [curse, imprecation, oath-curse, disparagement, blight]
 domain: speech
 sources:
   - wiaw:7049 "Clarifying a Collection of Curses" (2016-12-17) https://articles.ohr.edu/articles/clarifying-a-collection-of-curses
-authorities: [Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Radak]
+  - wiaw:11413 "Shavuos: Getting Dirty" (2024-06-08) https://articles.ohr.edu/articles/shavuos-getting-dirty
+authorities: [Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Radak, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -60,6 +61,10 @@ all-encompassing *arur* from Above.
 Radak: an *allah* is the curse in which one expressly invokes Hashem to bring the
 misfortune about. Rabbi Mecklenburg disagrees: an *allah* is a conditional curse,
 laid down with a stipulation, as in "whoever does such and such shall be cursed."
+Rav Hirsch (to Tehillim 14:3) relates א-ל-ה to א-ל-ח, the root of *elach*,
+becoming soiled, through the interchange of *hei* and *ches*: *allah* describes a
+conflict in which one person wishes ill on another, much as *elach* describes the
+conflict or incompatibility created when one element is introduced into another.
 
 ### kavah (קבה)
 Malbim: a general curse declaring a man and everything of his cursed, uttered in
@@ -92,4 +97,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Clarifying a Collection of Curses](https://articles.ohr.edu/articles/clarifying-a-collection-of-curses)," *What's in a Word?*, Ohr Somayach, 17 December 2016.
 
-Cited in the essay: Shemos 22:27; Bereishis 12:3; Devarim 28:20 (*me'erah*); Bamidbar 1:17; the Vilna Gaon; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*; Malbim; Radak.
+Rabbi Reuven Chaim Klein, "[Shavuos: Getting Dirty](https://articles.ohr.edu/articles/shavuos-getting-dirty)," *What's in a Word?*, Ohr Somayach, 8 June 2024.
+
+Cited in the essay: Shemos 22:27; Bereishis 12:3; Devarim 28:20 (*me'erah*); Bamidbar 1:17; the Vilna Gaon; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*; Malbim; Radak; Rav Hirsch to Tehillim 14:3.

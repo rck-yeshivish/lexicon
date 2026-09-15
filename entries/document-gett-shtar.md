@@ -10,7 +10,8 @@ words:
     nk: שְׁטָר
 sources:
   - wiaw:8704 "Divorce Bills and Other Documents" (2020-05-16) https://articles.ohr.edu/articles/divorce-bills-and-other-documents
-authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Aryeh Leib Tzintz, Rabbi David Tzvi Fetene, Rabbi Eliezer Herstik, Chaim Tawil]
+  - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
+authorities: [Rashi, Rabbeinu Tam, Tosafos, Rambam, Maharsha, Maharam Shiff, Elyah Rabbah, Tosafos Yom Tov, Rabbi Eliyahu HaBachur, Rabbi Yisrael Yaakov Algazi, Vilna Gaon, Rabbi Chaim of Friedburg, Rabbi Meir Mazuz, Rabbi Chaim Kanievsky, Rabbi Yehoshua Boaz, Chasam Sofer, Levush, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Aryeh Leib Tzintz, Rabbi David Tzvi Fetene, Rabbi Eliezer Herstik, Chaim Tawil, Ritva]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -95,7 +96,10 @@ including the Bar Kochba Letters and the Mishnah, and often specified by its
 type: *shtar chov*, *shtar erusin* (Kesuvos 102b; Kiddushin 9b), *shtar nisuin*
 and *shtar arisus* (Bava Basra 167b), *shtar amanah* (Kesuvos 19a; Gittin 19b;
 Bava Basra 49a, 154b), *shtar berurin* (Moed Katan 18b), *shtar mivrachas*
-(Kesuvos 79a). Whether it is the same root as *shoter*, the officer, is
+(Kesuvos 79a). Ritva distinguishes a *shtar* from an *iggeret*: a *shtar* is
+written with the intention that it last a long time (ostensibly so as to serve as
+evidence of the transaction or event it records), while an *iggeret* is not
+intended as long-term documentation. Whether it is the same root as *shoter*, the officer, is
 disputed.
 - Rabbi Eliyahu HaBachur (*Meturgaman*) gives ש-ט-ר two separate entries, the
   enforcing officer and the document, and treats the two senses as separate.
@@ -147,4 +151,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Divorce Bills and Other Documents](https://articles.ohr.edu/articles/divorce-bills-and-other-documents)," *What's in a Word?*, Ohr Somayach, 16 May 2020.
 
-Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesuvos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgaman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik.
+Rabbi Reuven Chaim Klein, "[Between Books and Scrolls](https://articles.ohr.edu/articles/between-books-and-scrolls)," *What's in a Word?*, Ohr Somayach, 19 February 2022.
+
+Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesuvos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgaman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik; Ritva.

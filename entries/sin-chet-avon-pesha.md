@@ -10,6 +10,7 @@ words:
     nk: פֶּשַׁע
 sources:
   - wiaw:7940 "Degrees of Sin" (2018-09-15) https://articles.ohr.edu/articles/degrees-of-sin
+  - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
 authorities: [Rashi, Vilna Gaon, Rabbi Yechezkel Landau, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Malbim, Peirush HaRokeach, Rabbi Netanel Weil, Rambam, Rabbi Yosef Babad, Rabbi Elazar Menachem Mann Shach, Rabbi Yaakov Tzvi Mecklenburg]
 status: reviewed
 updated: 2026-09-10
@@ -86,6 +87,16 @@ out anyway in order to rebel against Hashem. Malbim: the iniquities of one who
 shamelessly sins as a way of rebelling against Hashem. *Peirush HaRokeach*:
 simply the willful sin (having given *avon* the sense of benefit).
 
+In another account, Rabbi Shlomo Pappenheim asserts that rebellion is not the
+primary meaning of *pesha* at all: it primarily denotes negligence that comes
+about through laziness. The *poshea* does not try to rebel against or anger the
+one he sins against; his indolence shows that he does not care about the
+repercussions of his actions, as the term *poshea* is used of a watchman who did
+not live up to the vigilance expected of him (see Shemos 22:8; Bava Kamma 21b,
+29a). Before a king, and especially before the King of kings, a higher degree
+of mindfulness is expected, and laziness and apathy slight the king's honor; it
+is in this sense that *pesha* was borrowed to mean rebellion.
+
 ### aveirah (עבירה)
 A fourth term, in Rabbinic sources but not in Tanach. It literally means
 "transgression" or "violation," and although it once referred specifically to
@@ -145,4 +156,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Degrees of Sin](https://articles.ohr.edu/articles/degrees-of-sin)," *What's in a Word?*, Ohr Somayach, 15 September 2018.
 
-Cited in the essay: Melachim I 1:21 with Rashi; Mishlei 1:10 and 13:6 with the Vilna Gaon; Mishnah Yoma 4:2; Yoma 36b; Shabbos 40a; Rambam, *Hilchos Teshuvah*, with Rabbi Yosef Babad, *Minchas Chinuch*, and Rabbi Elazar Menachem Mann Shach; Rabbi Yechezkel Landau; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim; Malbim; *Peirush HaRokeach*; Rabbi Netanel Weil; Rabbi Yaakov Tzvi Mecklenburg.
+Rabbi Reuven Chaim Klein, "[Revolting Revolutions](https://articles.ohr.edu/articles/revolting-revolutions)," *What's in a Word?*, Ohr Somayach, 12 June 2021.
+
+Cited in the essay: Melachim I 1:21 with Rashi; Shemos 22:8; Bava Kamma 21b, 29a; Mishlei 1:10 and 13:6 with the Vilna Gaon; Mishnah Yoma 4:2; Yoma 36b; Shabbos 40a; Rambam, *Hilchos Teshuvah*, with Rabbi Yosef Babad, *Minchas Chinuch*, and Rabbi Elazar Menachem Mann Shach; Rabbi Yechezkel Landau; Rabbi Moshe Shapiro; Rabbi Shlomo Pappenheim; Malbim; *Peirush HaRokeach*; Rabbi Netanel Weil; Rabbi Yaakov Tzvi Mecklenburg.

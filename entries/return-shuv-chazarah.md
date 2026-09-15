@@ -10,7 +10,8 @@ words:
     nk: שַׁבָּת
 sources:
   - wiaw:8422 "Return to Sender: The True Meaning of Teshuva" (2019-10-05) https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachaya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi]
+  - wiaw:9694 "The Year of Seven (Part 2 of 2)" (2022-05-21) https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Menachem Ricanati, Rabbeinu Bachaya, Rabbi David Ibn Zimra, Rabbi Yosef Ibn Kaspi, Rabbi Yaakov Tzvi Mecklenburg]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -47,7 +48,11 @@ can mean reverting to one's **natural** state even where that was never one's
 prior state. So *Shabbos* is a return to man's natural condition of rest even
 for someone who has never rested; so too *lasheves*, to sit, and *shevi* /
 *shevuyah*, a captive whose freedom of movement has been curtailed by his
-captors, as if stuck in a position of rest.
+captors, as if stuck in a position of rest. Rabbi Yaakov Tzvi Mecklenburg also
+traces *Shabbos*, together with *shavua*, week, to ש-ב, returning, along a
+different path: as a *shevuyah*, a captive, is stuck within a closed system that
+repeats itself and constantly returns to the beginning, so *Shabbos* and *shavua*
+are circular periods of time that restart when they reach seven.
 
 Similarly, Avraham's servant, charged with finding a wife for Yitzchak in
 Avraham's homeland Charan,
@@ -128,4 +133,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Return to Sender: The True Meaning of Teshuva](https://articles.ohr.edu/articles/return-to-sender-the-true-meaning-of-teshuva)," *What's in a Word?*, Ohr Somayach, 5 October 2019.
 
-Cited in the essay: Bereishis 24:5; Vayikra 5:23, 11:2; Devarim 22:1, 30:2; Yechezkel 18:21-27, 33:18-19; Hoshea 14:2; Berachos 29a; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur (Elias Levita); Rabbi Menachem Ricanati to Vayikra 11:2; Rabbeinu Bachaya; Rabbi David Ibn Zimra; Rabbi Yosef Ibn Kaspi.
+Rabbi Reuven Chaim Klein, "[The Year of Seven (Part 2 of 2)](https://articles.ohr.edu/articles/the-year-of-seven-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 21 May 2022.
+
+Cited in the essay: Bereishis 24:5; Vayikra 5:23, 11:2; Devarim 22:1, 30:2; Yechezkel 18:21-27, 33:18-19; Hoshea 14:2; Berachos 29a; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur (Elias Levita); Rabbi Menachem Ricanati to Vayikra 11:2; Rabbeinu Bachaya; Rabbi David Ibn Zimra; Rabbi Yosef Ibn Kaspi; Rabbi Yaakov Tzvi Mecklenburg.

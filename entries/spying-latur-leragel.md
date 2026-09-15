@@ -30,7 +30,8 @@ words:
     distinct: Devarim 1:22, digging deliberately for damning information; kin to cherpah, disgrace (Rabbi Yaakov Tzvi Mecklenburg)
 sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
-authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKtav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson]
+  - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
+authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKtav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -83,6 +84,11 @@ spoke about forty years later, describes the men's actions with other words:
 The first is the verb of digging, the deliberate mining of damning information,
 and Rabbi Mecklenburg points out that *chafirah*, digging, is related to
 *cherpah*, disgrace: here, digging for negative information about the Land.
+Rav Hirsch understands *chafirah* as digging so deep that one reaches the depths
+of the earth and can bring up the spring waters embedded there. Beyond that
+concrete sense the word also means to scout, spy or investigate: as digging deep
+retrieves the waters at the planet's nadir, spying or investigating retrieves
+information otherwise hidden from view.
 Rabbi Klein adds that perhaps *leragel* derives from
 *regel*, the foot, the body's lowest part, and so fits a search for a place's
 lowest features.
@@ -121,4 +127,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," *What's in a Word?*, Ohr Somayach, 17 June 2017.
 
-Cited in the essay: Bereishis 42; Bamidbar 13-14; Devarim 1:22, 1:24; Yehoshua 2:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKtav VeHaKabbalah*; the Midrash; Pseudo-Philo; Dr. Isaac Elchanan Mozeson; David Curwin.
+Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/digging-deeper)," *What's in a Word?*, Ohr Somayach, 29 January 2022.
+
+Cited in the essay: Bereishis 42; Bamidbar 13-14; Devarim 1:22, 1:24; Yehoshua 2:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKtav VeHaKabbalah*; the Midrash; Pseudo-Philo; Dr. Isaac Elchanan Mozeson; David Curwin; Rav Hirsch.

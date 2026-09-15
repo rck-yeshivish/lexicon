@@ -12,7 +12,10 @@ words:
     nk: כִּכָּר
 sources:
   - wiaw:7815 "Let Them Eat Bread" (2018-06-23) https://articles.ohr.edu/articles/let-them-eat-bread
-authorities: [Radak, Rabbi Nosson of Rome, Targum Onkelos, Rabbi Dr. Guy Matalon, Jastrow]
+  - wiaw:11363 "Pesach: Eating Cake" (2024-04-27) https://articles.ohr.edu/articles/pesach-eating-cake
+  - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
+  - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
+authorities: [Radak, Rabbi Nosson of Rome, Targum Onkelos, Rabbi Dr. Guy Matalon, Jastrow, Ibn Ezra, Netziv, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -42,7 +45,14 @@ gives *lochem*, to
 wage war, and *milchamah*; wars were often fought over the food supply, and the root
 also carries soldering or pressing things together, which fits both bread, whose
 parts are fused in baking, and combatants closing with each other on a
-battlefield. At Bamidbar 21:5 the Manna is called *lechem haklokel*, the
+battlefield. The Netziv (*Haamek Davar* to Bamidbar 28:2) relates *lechem* to
+*halchamah*, soldering, in the sense that food cements the connection between
+body and soul by keeping a person alive, and explains that korbanos are called
+*lechem* because they likewise cement the bond between Klal Yisrael and Hashem;
+he does not connect it to *milchamah*. Rabbi Shlomo Pappenheim, discussing the
+biliteral ל-ח, whose core sense he takes as moisture, lists *lechem*, bread or
+meat, among its derivatives, as what sustains and rejuvenates a person's inner
+moisture. At Bamidbar 21:5 the Manna is called *lechem haklokel*, the
 insubstantial bread.
 
 ### kikar (ככר)
@@ -55,7 +65,8 @@ alone, and there *kikar* for bread is frequent, where in Tanach it is not.
 
 ### challah (חלה)
 A baked cake of flour; Jastrow renders it specifically a rolled or rounded
-meal-cake. Nearly every occurrence in Tanach is a meal-cake offered
+meal-cake. *Challah*, like *kikar*, implies a round shape (see Ibn Ezra to
+Vayikra 2:4). Nearly every occurrence in Tanach is a meal-cake offered
 as a korban; the one exception is Bamidbar 15:20, the mitzvah to separate a
 special tithe for the kohen, taken from every dough destined for a meal-cake,
 and in the Mishnah, above all in *maseches Challah*, the word generally means
@@ -112,4 +123,10 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Let Them Eat Bread](https://articles.ohr.edu/articles/let-them-eat-bread)," *What's in a Word?*, Ohr Somayach, 23 June 2018.
 
-Cited in the essay: Bamidbar 21:5 (*lechem haklokel*) and 15:20; Shemos 29:23 with Targum Onkelos; Shoftim 8:5; Shmuel I 10:3 and 2:36 with Radak; Yirmiyahu 37:21; Mishlei 6:26 and 27:22; Divrei HaYamim I 16:3; Vayikra 2:6; Shmuel II 17:19; *maseches Challah*; Rabbi Nosson of Rome, *Sefer HeAruch*, s.v. *rifta*; Jastrow on *challah*; Rabbi Dr. Guy Matalon.
+Rabbi Reuven Chaim Klein, "[Pesach: Eating Cake](https://articles.ohr.edu/articles/pesach-eating-cake)," *What's in a Word?*, Ohr Somayach, 27 April 2024.
+
+Rabbi Reuven Chaim Klein, "[Chukas: Words for War](https://articles.ohr.edu/articles/chukas-words-for-war)," *What's in a Word?*, Ohr Somayach, 5 July 2025.
+
+Rabbi Reuven Chaim Klein, "[Titzaveh: Wet Words](https://articles.ohr.edu/articles/titzaveh-wet-words)," *What's in a Word?*, Ohr Somayach, 24 February 2024.
+
+Cited in the essay: Bamidbar 21:5 (*lechem haklokel*) and 15:20; Shemos 29:23 with Targum Onkelos; Shoftim 8:5; Shmuel I 10:3 and 2:36 with Radak; Yirmiyahu 37:21; Mishlei 6:26 and 27:22; Divrei HaYamim I 16:3; Vayikra 2:6; Shmuel II 17:19; *maseches Challah*; Rabbi Nosson of Rome, *Sefer HeAruch*, s.v. *rifta*; Jastrow on *challah*; Rabbi Dr. Guy Matalon; Ibn Ezra to Vayikra 2:4; the Netziv, *Haamek Davar* to Bamidbar 28:2; Rabbi Shlomo Pappenheim.

@@ -7,7 +7,8 @@ english: [because, in order that, on account of, for the sake of]
 domain: other
 sources:
   - wiaw:7110 "Just Because" (2017-01-28) https://articles.ohr.edu/articles/just-because
-authorities: [Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim]
+  - wiaw:7917 "On the Straight and Narrow" (2018-09-01) https://articles.ohr.edu/articles/on-the-straight-and-narrow
+authorities: [Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -54,7 +55,10 @@ Yonah's warning and do teshuvah.)
 ### bishvil (בשביל)
 Not in Tanach at all; it enters with Chazal, appearing close to fifty times in
 the Mishnah. Literally it can mean *bi-shvil*, "on the path," which may itself picture the
-road running from a cause to its effect. It usually does the work of *biglal*,
+road running from a cause to its effect. Rabbi Shlomo Pappenheim observes that
+*eikev* means both "ankle" and "because," and that on the strength of that double
+meaning the Rabbis adopted *shvil*, the road associated with ankles, to mean
+"because" as well: *bishvil*. It usually does the work of *biglal*,
 though in at least one case (Bava Metzia 5:10) it carries the sense of *baavur*.
 Neither *biglal* nor
 *baavur* appears in the Mishnah in its own voice; *baavur* shows up once only,
@@ -82,4 +86,6 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Just Because](https://articles.ohr.edu/articles/just-because)," *What's in a Word?*, Ohr Somayach, 28 January 2017.
 
-Cited in the essay: Shemos 9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43; Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and Malbim.
+Rabbi Reuven Chaim Klein, "[On the Straight and Narrow](https://articles.ohr.edu/articles/on-the-straight-and-narrow)," *What's in a Word?*, Ohr Somayach, 1 September 2018.
+
+Cited in the essay: Shemos 9:16; Mishnah Bava Metzia 5:10; Pirkei d'Rabbi Eliezer, chapters 42 and 43; Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg and Malbim; Rabbi Shlomo Pappenheim.
