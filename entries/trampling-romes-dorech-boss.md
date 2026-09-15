@@ -12,7 +12,7 @@ words:
     distinct: treading that destroys what is underfoot; the destructive counterpart to neutral dorech (Malbim), and the heaviest of the samech/sin/zayin family (Rav Hirsch)
   - he: דורך
     tr: dorech
-    en: tread, step
+    en: tread, step, press
     distinct: neutral treading, kin to derech (a path); carries no damage, and covers constructive treading such as pressing olives and grapes (Malbim)
   - he: בוס
     tr: boss
