@@ -72,9 +72,9 @@ Hebrew and the second Aramaic, and the Torah uses the Aramaic word here to
 allude to Hashem's having first offered the Torah to the other nations before
 giving it to Klal Yisrael. Rabbi Shlomo Pappenheim, whose explanation Malbim
 cites in *Yair Ohr*, does distinguish them: *biah* can mean both reaching one's
-destination and the journey toward it, while *atah*, which also focuses on the
+destination and travelling toward it, while *atah*, which also focuses on the
 destination, is a coming with more finality, referring only to arriving and
-never to the journey there.
+never to the way there.
 
 ### davar (דבר)
 The premise itself. Other languages' words are a consensus among speakers that
