@@ -72,23 +72,25 @@ Absent from Tanach, frequent from the Mishnah on: loving Hashem "with all your
 the exemption of one liable to death from monetary payment (Kesubos 3:2), and
 Rabbi Yishmael's advice that one who wants to grow wise should occupy himself
 with *dinei mammonos* (Bava Basra 10:8). Rabbi Natan of Rome (*Sefer HeAruch*)
-and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, *Meturgaman*): *mammon* is Targum's
-standard Aramaic for the Biblical *hon* (wealth) and *rechush* (property).
-Etymologies: *Bamidbar Rabbah* 22:8 reads it as *mah atah moneh, eino klum*, what
-are you counting, it is nothing, an exegesis that partly suggests the root מ-נ-ה,
-counting. Rabbi Ernest Klein, in his etymological dictionaries of Hebrew and of
-English, writes that it most probably derives from *ma'amon*, a deposit or
-trust, from א-מ-נ, true or trustworthy, with the opening mem added to the core
-root.
-The word also appears in the Christian Bible as a personification and
-deification of the greedy pursuit of wealth; and Rabbi Yitzchok Schmelkes of
-Lvov (1827-1905, responsa *Beis Yitzchak*, Yoreh Deah vol. 1 §152) explains
-that Mammon was originally the name of the pagan god of silver and money, and
-only afterward became an ordinary word for money. On a more esoteric plane,
-Rabbi Chaim Yosef David Azulai, the Chida, notes that each letter of ממון is
-spelled with its own letter doubled, hinting at "one who loves money is never
-sated with money" (Koheles 5:9): having one mem he wants a second; compare
-*Hafla'ah* to Kesubos 66b.
+and Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, *Meturgaman*): *mammon* is
+Targum's standard Aramaic for the Biblical *hon* (wealth) and *rechush*
+(property). Etymologies:
+
+- *Bamidbar Rabbah* 22:8 reads it as *mah atah moneh, eino klum*, what are you
+  counting, it is nothing, an exegesis that partly suggests the root מ-נ-ה,
+  counting.
+- Rabbi Ernest Klein, in his etymological dictionaries of Hebrew and of English,
+  writes that it most probably derives from *ma'amon*, a deposit or trust, from
+  א-מ-נ, true or trustworthy, with the opening mem added to the core root.
+- The word also appears in the Christian Bible as a personification and
+  deification of the greedy pursuit of wealth; and Rabbi Yitzchok Schmelkes of
+  Lvov (1827-1905, responsa *Beis Yitzchak*, Yoreh Deah vol. 1 §152) explains
+  that Mammon was originally the name of the pagan god of silver and money, and
+  only afterward became an ordinary word for money.
+- On a more esoteric plane, Rabbi Chaim Yosef David Azulai, the Chida, notes
+  that each letter of ממון is spelled with its own letter doubled, hinting at
+  "one who loves money is never sated with money" (Koheles 5:9): having one mem
+  he wants a second; compare *Hafla'ah* to Kesubos 66b.
 
 ### damim (דמים)
 Money in Rabbinic Hebrew, generally understood not to occur in this sense in

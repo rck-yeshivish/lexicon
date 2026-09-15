@@ -51,14 +51,18 @@ of a thing, and *tabur*, the **navel** or central point of a land.
 ## Distinctions
 
 ### emtza (אמצע)
-Everywhere in the Mishnah, nowhere in Tanach. Rabbi Eliyahu HaBachur (*Sefer
-HaTishbi*, his lexicon of rabbinic Hebrew) traces the root to מ-צ-ע. The
-classical lexicographers (Menachem Ibn Saruk, Ibn Janach, Ibn Parchon in
-*Machberes HeAruch*, Radak) hold there is no such root in Biblical Hebrew at
-all: the one candidate word, *matza*, a mat (Yeshayahu 28:20), they derive from
-י-צ-ע, spreading out or laying out bedding. Rabbi Reuven Chaim Klein suggests that perhaps
-HaBachur saw the link exactly there, since unfurling a folded or rolled sheet
-reveals the inside, the "middle," of the material.
+Everywhere in the Mishnah, nowhere in Tanach.
+
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, his lexicon of rabbinic Hebrew)
+  traces the root to מ-צ-ע.
+- The classical lexicographers (Menachem Ibn Saruk, Ibn Janach, Ibn Parchon in
+  *Machberes HeAruch*, Radak) hold there is no such root in Biblical Hebrew at
+  all: the one candidate word, *matza*, a mat (Yeshayahu 28:20), they derive
+  from י-צ-ע, spreading out or laying out bedding.
+
+Rabbi Reuven Chaim Klein suggests that perhaps HaBachur saw the link exactly
+there, since unfurling a folded or rolled sheet reveals the inside, the
+"middle," of the material.
 
 Two dissents from the secular lexicographer Avraham Even-Shoshan (1906-1984).
 In his concordance of Biblical Hebrew he does

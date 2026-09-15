@@ -64,17 +64,19 @@ lo* for each of the Four Cups (Pesachim 10:2, 10:4, 10:7), also Nazir 2:3 and
 Demai 7:2, with *mezigah* (Shabbos 8:1), *mozeg* (Avodah Zarah 5:5), *mozgin*
 (Berachos 8:2), *mazug* (Negaim 1:2, Niddah 2:6-7) and *limzog* (Pesachim 7:13,
 Sukkah 2:9); two original modern uses are *mezeg avir* (weather, literally the
-mixing of air) and *mazgan* (air conditioner). As early as Menachem Ibn Saruk,
-a thousand years ago, it has been suggested that the root is really the
-two-letter ז-ג, the *mem* not belonging to it; *zag* is the seed or skin of a
-grape (Nazir 6:2), though how that connects to *mizug* is not so clear. Rabbi
-Shlomo Pappenheim accounts for the connection: *mizug* is the mixing that pours
-a drink from one vessel into another, and when a juice such as wine is stored
-in a receptacle that vessel stands in for the natural skin of the fruit the
-juice was drawn from, so the *mizug* takes the place of the *zag*. Rabbi
-Yehudah Aryeh of Carpentras (*Aholei Yehudah*) makes a similar point: *mizug*
-preserves the wine's taste as the *zag* naturally does. Analak: *mizug* is for
-**liquid** ingredients, wine mixed with water.
+mixing of air) and *mazgan* (air conditioner). As early as Menachem Ibn Saruk, a
+thousand years ago, it has been suggested that the root is really the two-letter
+ז-ג, the *mem* not belonging to it; *zag* is the seed or skin of a grape (Nazir
+6:2), though how that connects to *mizug* is not so clear.
+
+- Rabbi Shlomo Pappenheim accounts for the connection: *mizug* is the mixing
+  that pours a drink from one vessel into another, and when a juice such as wine
+  is stored in a receptacle that vessel stands in for the natural skin of the
+  fruit the juice was drawn from, so the *mizug* takes the place of the *zag*.
+- Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) makes a similar point:
+  *mizug* preserves the wine's taste as the *zag* naturally does.
+
+Analak: *mizug* is for **liquid** ingredients, wine mixed with water.
 
 ### dimua (דימוע)
 Root ד-מ-ע. The Mishnaic term for mixing, used for instance of terumah mixed
@@ -133,34 +135,38 @@ losing something of what is its own.
 
 ### navoch (נבוך) and bocheh (בוכה)
 Pharaoh, chasing after the Jews, took heart from their seeming lost: *nevuchim
-hem ba'aretz* (Shemos 14:3). The Mechilta there explicates *nevuchim* as an
-expression of mixture, Pharaoh thinking they were confused and mixed up about
-where they were headed; alternatively it reads *nevuchim* as related to
-*bocheh*, weeping, Pharaoh foreseeing that they were destined to cry in the
-wilderness (Bamidbar 14:1). Rabbi Klein holds there is reason to think the two
-explanations are actually related. Rabbi Yisroel Yaakov Algazi (*Kehillas
-Yaakov*) explains *navochah* of Shushan (Esther 3:15) similarly: on the
-simple level the Jews were confused as to what the future held, and Algazi adds
-that *navochah* also bears on *bocheh*, one of the last avenues left them being
-to cry out to Hashem to save them. Rabbi Shlomo Pappenheim of Breslau (*Cheshek
-Shlomo*) likewise traces both *bocheh* and *navoch* to the biliteral ב-כ, whose
-core sense he sees as confusion and perplexity, weeping being the involuntary
-outward reflex of confused feelings (cited too in *HaKesav VeHaKabbalah* to
-Bereishis 50:3). Rabbi Eliyahu Menachem Margulies (*Emunas Eliezer*) develops
-the point that crying comes of a man's being unclear about what the future
-holds: as tears blur a man's sight, so he cries precisely because his view of
-the future is blurred, and this is hinted at in the tie of *dimah* to *dimua*,
-since it is the mixture of possibilities before him that brings him to tears.
-He sees a further allusion in *bocheh* being related to the root of *navoch*,
-perplexed, as in the Rambam's *Moreh Nevuchim*; and since the tzaddik can live
-through the uncertainty by relying on Hashem to set everything right in the
-end, the pasuk says *hazorim b'dimah b'rinah yiktzoru*, those who sow in tears
-will reap in joy (Tehillim 126:5). Rabbi Moshe Shapiro: the antidote to crying
-is *nechamah*, which per Rashi (Bereishis 5:29, 6:6, 27:42; Shemos 32:12) is
-not only comfort but a shift in thinking, the word used even of Hashem's
-"regretting" (so to speak) the making of man (Bereishis 6:6); it is the clear
-view of the future that removes the need to cry, and just such a clear view is
-what Yeshayahu opens with, *nachamu nachamu ami* (Yeshayahu 40:1).
+hem ba'aretz* (Shemos 14:3).
+
+- The Mechilta there explicates *nevuchim* as an expression of mixture, Pharaoh
+  thinking they were confused and mixed up about where they were headed;
+  alternatively it reads *nevuchim* as related to *bocheh*, weeping, Pharaoh
+  foreseeing that they were destined to cry in the wilderness (Bamidbar 14:1).
+  Rabbi Klein holds there is reason to think the two explanations are actually
+  related.
+- Rabbi Yisroel Yaakov Algazi (*Kehillas Yaakov*) explains *navochah* of Shushan
+  (Esther 3:15) similarly: on the simple level the Jews were confused as to what
+  the future held, and Algazi adds that *navochah* also bears on *bocheh*, one
+  of the last avenues left them being to cry out to Hashem to save them.
+- Rabbi Shlomo Pappenheim of Breslau (*Cheshek Shlomo*) likewise traces both
+  *bocheh* and *navoch* to the biliteral ב-כ, whose core sense he sees as
+  confusion and perplexity, weeping being the involuntary outward reflex of
+  confused feelings (cited too in *HaKesav VeHaKabbalah* to Bereishis 50:3).
+- Rabbi Eliyahu Menachem Margulies (*Emunas Eliezer*) develops the point that
+  crying comes of a man's being unclear about what the future holds: as tears
+  blur a man's sight, so he cries precisely because his view of the future is
+  blurred, and this is hinted at in the tie of *dimah* to *dimua*, since it is
+  the mixture of possibilities before him that brings him to tears. He sees a
+  further allusion in *bocheh* being related to the root of *navoch*, perplexed,
+  as in the Rambam's *Moreh Nevuchim*; and since the tzaddik can live through
+  the uncertainty by relying on Hashem to set everything right in the end, the
+  pasuk says *hazorim b'dimah b'rinah yiktzoru*, those who sow in tears will
+  reap in joy (Tehillim 126:5).
+- Rabbi Moshe Shapiro: the antidote to crying is *nechamah*, which per Rashi
+  (Bereishis 5:29, 6:6, 27:42; Shemos 32:12) is not only comfort but a shift in
+  thinking, the word used even of Hashem's "regretting" (so to speak) the making
+  of man (Bereishis 6:6); it is the clear view of the future that removes the
+  need to cry, and just such a clear view is what Yeshayahu opens with, *nachamu
+  nachamu ami* (Yeshayahu 40:1).
 
 ## Rendering guidance
 

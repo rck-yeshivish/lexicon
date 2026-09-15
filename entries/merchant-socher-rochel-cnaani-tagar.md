@@ -112,15 +112,17 @@ Seventeen times, mostly in Yechezkel, with a feminine *rocheles*. The adjacent
 19:16 and in five other passages (Yirmiyahu 6:28, 9:3; Yechezkel 22:9; Mishlei
 11:13, 20:19), because merchants who travelled from place to place were often
 taken for tale-mongers, carrying news and rumor from one town to the next.
-Rashi (to Vayikra 19:16) reads the *kaf* as interchangeable with *gimmel*,
-linking *rochel* to *regel*, "foot," and *meragel*, "spy"; Rabbi Avraham
-Bedersi (*Chosam Tochnis*) explains that a merchant has in some ways to
-function like a spy, going place to place to scout out the best merchandise to
-buy and sell. Rabbi Klein adds his own suggestion, that perhaps a *rochel* would
-typically travel by foot to hawk his goods, which bears similarities to the
-"around" in *socher*. Rashbam (to Bava Basra 29b) sharpens the definition
-further: the *rochel* goes around the various towns and comes back to his home
-city only after a while.
+
+- Rashi (to Vayikra 19:16) reads the *kaf* as interchangeable with *gimmel*,
+  linking *rochel* to *regel*, "foot," and *meragel*, "spy"; Rabbi Avraham
+  Bedersi (*Chosam Tochnis*) explains that a merchant has in some ways to
+  function like a spy, going place to place to scout out the best merchandise to
+  buy and sell.
+- Rabbi Klein adds his own suggestion, that perhaps a *rochel* would typically
+  travel by foot to hawk his goods, which bears similarities to the "around" in
+  *socher*.
+- Rashbam (to Bava Basra 29b) sharpens the definition further: the *rochel* goes
+  around the various towns and comes back to his home city only after a while.
 
 ### cnaani (כנעני)
 Pesachim 50a holds that Yehudah's father-in-law could not have been a literal
@@ -167,18 +169,20 @@ herself: Targum Rav Yosef to Divrei HaYamim there renders *cnaanis* as
 *pragmatita*, a Greek term for a female merchant, which supports Chazal's
 reading of the father's *cnaani* as well.
 
-The Zohar (Lech Lecha 80a) says the *yetzer hara* is called *cnaani* because it
-serves as a sort of merchant, supplying its customers with (evil) sustenance
-like a sleazy salesman who hawks poor merchandise and convinces his buyers they
-cannot live without it. In line with this, though without citing it, Meiri (to
-Mishlei 31:24) explains the Woman of Valor's selling a sash to the *cnaani* as
-her setting boundaries around the *yetzer hara* to rein it in. *Tanchuma*
-(Masei 9) explains that the Holy Land is called *Eretz Cnaan* because it is the
-land of merchandise; Rabbi Shlomo Fischer (1932-2021) clarifies that this is
-not any physical commodity or natural resource but Torah, which is more
-precious than any article of trade (Mishlei 3:14). This conjures the idea that
-the land is especially suited to Torah study. Either way, *cnaan* there is being expounded
-as merchants and merchandise, not genealogical Canaanites.
+- The Zohar (Lech Lecha 80a) says the *yetzer hara* is called *cnaani* because
+  it serves as a sort of merchant, supplying its customers with (evil)
+  sustenance like a sleazy salesman who hawks poor merchandise and convinces his
+  buyers they cannot live without it. In line with this, though without citing
+  it, Meiri (to Mishlei 31:24) explains the Woman of Valor's selling a sash to
+  the *cnaani* as her setting boundaries around the *yetzer hara* to rein it in.
+- *Tanchuma* (Masei 9) explains that the Holy Land is called *Eretz Cnaan*
+  because it is the land of merchandise; Rabbi Shlomo Fischer (1932-2021)
+  clarifies that this is not any physical commodity or natural resource but
+  Torah, which is more precious than any article of trade (Mishlei 3:14). This
+  conjures the idea that the land is especially suited to Torah study.
+
+Either way, *cnaan* there is being expounded as merchants and merchandise, not
+genealogical Canaanites.
 
 ### tagar (תגר)
 The word Chazal use when they gloss *cnaani*: Targum Onkelos and Targum
@@ -186,13 +190,13 @@ pseudo-Yonasan to Bereishis 38:2, *Bereishis Rabbah* 85:4, Pesachim 50a, Rashi
 to Bereishis 38:2, and others; Targum also uses it for *socher* (Melachim I
 10:28; Yeshayahu 23:8) and for *rochel* (Melachim I 10:15).
 
-Rabbi Eliyahu Bachur (1469-1549), in his lexicon of Rabbinic Hebrew *Sefer
-HaTishbi*, gives ת-ג-ר two separate entries, *tagar* ("merchant") and *teigar*
-("dispute," "controversy," "fight"), and the fact that he divided them shows he
-took the two as unrelated. Dr. Alexander Kohut (1842-1894) writes in *Aruch
-HaShaleim* to the same effect: *tagar* derives from the triliteral Aramaic root
-ת-ג-ר, while *teigar* derives from the biblical Hebrew root ג-ר-(ה), to
-instigate or incite.
+- Rabbi Eliyahu Bachur (1469-1549), in his lexicon of Rabbinic Hebrew *Sefer
+  HaTishbi*, gives ת-ג-ר two separate entries, *tagar* ("merchant") and *teigar*
+  ("dispute," "controversy," "fight"), and the fact that he divided them shows
+  he took the two as unrelated.
+- Dr. Alexander Kohut (1842-1894) writes in *Aruch HaShaleim* to the same
+  effect: *tagar* derives from the triliteral Aramaic root ת-ג-ר, while *teigar*
+  derives from the biblical Hebrew root ג-ר-(ה), to instigate or incite.
 
 On that basis Rabbi Klein argues his own point, that although *tagar* is
 semantically synonymous with *socher*, the two cannot strictly be called

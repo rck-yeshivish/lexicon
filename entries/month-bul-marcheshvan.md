@@ -72,30 +72,37 @@ deserve blessing.
 (In modern Hebrew *bul* means "exactly," which seems to be a borrowing of the
 English "bull's eye," and also "stamp," borrowed from Arabic.)
 
-**Whether mar is a separate element of Marcheshvan.** Before the Babylonian inscriptions
-were found there was much speculation in traditional sources about the name, some sages
-taking the *mar* as separate. Those who parse it: Rabbi Yechiel Michel Epstein (1829-1907)
-in the *Aruch HaShulchan*, who speculates that *mar* means switch, as in *temurah*, for
-Yeravam's switching the seventh month for the eighth (according to this, *mar* is also a
-double entendre for the bitterness his act brought on the Jewish People afterward), though he concludes that we
-cannot expound the month-names this way, the more so where halachah turns on it (his case:
-writing *Mar Cheshvan* as two words in a *get*; and see *Pischei Teshuvah*, Even HaEzer
-§126:12, on a *get* that says Cheshvan rather than Marcheshvan); and Rabbi Chizkiyahu
-Medini of Hebron (1834-1904), who records that in some communities there is a custom not
-to make weddings in Marcheshvan, because *mar* at the head of the name means bitter and
-the name is therefore a bad omen. Against them, others, following the *Pri Chadash* (Even HaEzer §126),
-take *mar* as drops of rain (Yeshayahu 40:15), or as the bitterness of a month with no
-yom tov, or of the passing of the Imahos, Sarah and/or Rachel, which would mean there is
-no reason to refrain from weddings. Moreover, Rabbi Betzalel Stern (1911-1988) concludes
-that *mar* is not even Hebrew and is no omen for anything. Rabbi Shmuel ben David Halevi
-(1625-1681) in the *Nachalas Shivah* first offers that *mar* is a term of importance, like
-the honorific Mar of Mar Zutra and *amar Mar*, and like modern Hebrew "mister," since the
-date on which Marcheshvan begins is important for reckoning the whole year's calendar,
-but he too ultimately rejects the approach and concludes that Marcheshvan is one proper
-name whose *mar* is not to be interpreted on its own. Rabbi Chaim Dov Lieman of Kiryat
-Sefer (*Otzar Peninim* §28) defends the wedding custom from Rashi to Bereishis Rabbah
-48:9, who held the month-names were not taken verbatim from the Babylonian calendar but
-revealed through nevuah, so that expounding the *mar* is entirely in place.
+**Whether mar is a separate element of Marcheshvan.** Before the Babylonian
+inscriptions were found there was much speculation in traditional sources about
+the name, some sages taking the *mar* as separate.
+
+- Those who parse it: Rabbi Yechiel Michel Epstein (1829-1907) in the *Aruch
+  HaShulchan*, who speculates that *mar* means switch, as in *temurah*, for
+  Yeravam's switching the seventh month for the eighth (according to this, *mar*
+  is also a double entendre for the bitterness his act brought on the Jewish
+  People afterward), though he concludes that we cannot expound the month-names
+  this way, the more so where halachah turns on it (his case: writing *Mar
+  Cheshvan* as two words in a *get*; and see *Pischei Teshuvah*, Even HaEzer
+  §126:12, on a *get* that says Cheshvan rather than Marcheshvan); and Rabbi
+  Chizkiyahu Medini of Hebron (1834-1904), who records that in some communities
+  there is a custom not to make weddings in Marcheshvan, because *mar* at the
+  head of the name means bitter and the name is therefore a bad omen.
+- Against them, others, following the *Pri Chadash* (Even HaEzer §126), take
+  *mar* as drops of rain (Yeshayahu 40:15), or as the bitterness of a month with
+  no yom tov, or of the passing of the Imahos, Sarah and/or Rachel, which would
+  mean there is no reason to refrain from weddings.
+- Moreover, Rabbi Betzalel Stern (1911-1988) concludes that *mar* is not even
+  Hebrew and is no omen for anything.
+- Rabbi Shmuel ben David Halevi (1625-1681) in the *Nachalas Shivah* first
+  offers that *mar* is a term of importance, like the honorific Mar of Mar Zutra
+  and *amar Mar*, and like modern Hebrew "mister," since the date on which
+  Marcheshvan begins is important for reckoning the whole year's calendar, but
+  he too ultimately rejects the approach and concludes that Marcheshvan is one
+  proper name whose *mar* is not to be interpreted on its own.
+- Rabbi Chaim Dov Lieman of Kiryat Sefer (*Otzar Peninim* §28) defends the
+  wedding custom from Rashi to Bereishis Rabbah 48:9, who held the month-names
+  were not taken verbatim from the Babylonian calendar but revealed through
+  nevuah, so that expounding the *mar* is entirely in place.
 
 **What Cheshvan means, for those who parse it.**
 - Rav Hirsch (1808-1888) drops the *mar* and reads Cheshvan from ח-ש-ה, quiet:
@@ -117,29 +124,36 @@ revealed through nevuah, so that expounding the *mar* is entirely in place.
 - Rabbi Yisrael Friedman of Ruzhin (1796-1850): our lips are still *rocheshes*
   from the tefillos of the month before.
 
-**Where the name came from.** The Yerushalmi and Ramban (to Shemos 12:2) hold the names in
-use today came up from Bavel, a different nomenclature having been in use before the
-exile. It seems the original names mirrored the months the Canaanites used: on the
-sarcophagus of the Tyrian (Canaanite) king Ashmunezer II the king refers to the month Bul.
-Old Assyrian and Babylonian inscriptions name the eighth month Arahsamna (Akkadian
-*warahsamna*), which scholars parse as *arah*, cognate with the Hebrew *yerach*, month,
-plus *samna*, cognate with *shemonah*, eight, so that the name means "eighth month"; this
-seems to be the most widely accepted etymology of Marcheshvan. Rabbi Dr. Ernest
-Klein follows it, explaining that the mem of the Babylonian form turned into a vav, much as
-Hebrew *argaman* becomes Aramaic *argavan*, and Rabbi Dr. Ari Zivotofsky notes in support
-that Yemenite Jews pronounce the name Marach-Shwan rather than Mar-Cheshvan. But the
-scholar Avraham Epstein (1841-1918) questions the theory, since no other month in the
-Babylonian calendar is named ordinally, all of them being named for a pagan deity; he
-suggests instead that Arahsamna, and so Marcheshvan, was named for the Canaanite moon-god
-Yarikh (cognate with *yerach*) together with the Tyrian deity Eshmun, who may himself have
-been named for being eighth in birth order, depending on which version of the myth one
-takes. Rabbi Shaul Goldman suggests instead a link to *shemen* and the olive pressing. In
-Jewish numerology seven is a complete unit and eight the new beginning past a completed
-cycle; in the Maharal's system seven stands for nature and eight for what is above
-nature, and *shemonah* bears on *shemen* because oil rises above water, the most
-instrumental element of natural life, as the supernatural rises above the natural. In
-light of this, Rabbi Reuven Chaim Klein concludes, whether Marcheshvan goes with
-*shemonah* or with *shemen*, the two ideas hold together.
+**Where the name came from.** The Yerushalmi and Ramban (to Shemos 12:2) hold
+the names in use today came up from Bavel, a different nomenclature having been
+in use before the exile. It seems the original names mirrored the months the
+Canaanites used: on the sarcophagus of the Tyrian (Canaanite) king Ashmunezer II
+the king refers to the month Bul.
+
+- Old Assyrian and Babylonian inscriptions name the eighth month Arahsamna
+  (Akkadian *warahsamna*), which scholars parse as *arah*, cognate with the
+  Hebrew *yerach*, month, plus *samna*, cognate with *shemonah*, eight, so that
+  the name means "eighth month"; this seems to be the most widely accepted
+  etymology of Marcheshvan. Rabbi Dr. Ernest Klein follows it, explaining that
+  the mem of the Babylonian form turned into a vav, much as Hebrew *argaman*
+  becomes Aramaic *argavan*, and Rabbi Dr. Ari Zivotofsky notes in support that
+  Yemenite Jews pronounce the name Marach-Shwan rather than Mar-Cheshvan.
+- But the scholar Avraham Epstein (1841-1918) questions the theory, since no
+  other month in the Babylonian calendar is named ordinally, all of them being
+  named for a pagan deity; he suggests instead that Arahsamna, and so
+  Marcheshvan, was named for the Canaanite moon-god Yarikh (cognate with
+  *yerach*) together with the Tyrian deity Eshmun, who may himself have been
+  named for being eighth in birth order, depending on which version of the myth
+  one takes.
+- Rabbi Shaul Goldman suggests instead a link to *shemen* and the olive
+  pressing.
+
+In Jewish numerology seven is a complete unit and eight the new beginning past a
+completed cycle; in the Maharal's system seven stands for nature and eight for
+what is above nature, and *shemonah* bears on *shemen* because oil rises above
+water, the most instrumental element of natural life, as the supernatural rises
+above the natural. In light of this, Rabbi Reuven Chaim Klein concludes, whether
+Marcheshvan goes with *shemonah* or with *shemen*, the two ideas hold together.
 
 The Hebrew Wikipedia says that several medieval Ashkenazi manuscripts call the month
 simply "Shvan"; Rabbi Reuven Chaim Klein was not able to learn more by press time.

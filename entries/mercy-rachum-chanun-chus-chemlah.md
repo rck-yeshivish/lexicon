@@ -121,13 +121,16 @@ Hashem, these are presented as such.
 - Ibn Ramoch: *chanun* grants intellectual gifts by which a man helps himself.
 
 ### chus (חוס) and chemlah (חמלה)
-Neither is among the Thirteen Attributes. Malbim: both can be felt toward any
-entity, not only an intelligent one (English calls this "caring"); *chus* is refusing
-to let a thing be destroyed because one would lose the benefit one has from it
-(the *chas* of *chas v'shalom*). *Chemlah* is refusing to let a thing be ruined
-because of an innate quality in it, a beauty or a completeness one does not
-want to see spoiled. Wertheimer: *chemlah* can extend to pitying one who cannot
-ask for help, a child or one without the faculties to ask.
+Neither is among the Thirteen Attributes.
+
+- Malbim: both can be felt toward any entity, not only an intelligent one
+  (English calls this "caring"); *chus* is refusing to let a thing be destroyed
+  because one would lose the benefit one has from it (the *chas* of *chas
+  v'shalom*). *Chemlah* is refusing to let a thing be ruined because of an
+  innate quality in it, a beauty or a completeness one does not want to see
+  spoiled.
+- Wertheimer: *chemlah* can extend to pitying one who cannot ask for help, a
+  child or one without the faculties to ask.
 
 ## Rendering guidance
 

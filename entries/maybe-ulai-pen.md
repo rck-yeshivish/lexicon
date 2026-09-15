@@ -71,10 +71,12 @@ Some experts explain *ulai* as a portmanteau of *oh lo* ("or not"), or relate
 it to Hebrew *lu* or Aramaic *levai* ("if only").
 
 ### pen (פן)
-HaBachur and Benevento: *pen* introduces a possibility the speaker raises in
-order to guard against it, hoping it will not come about. Rabbi Yaakov Tzvi
-Mecklenburg ties *pen* to *panah*, "turned away," since the speaker hopes his
-listener will turn away from the possibility he has just named.
+
+- HaBachur and Benevento: *pen* introduces a possibility the speaker raises in
+  order to guard against it, hoping it will not come about.
+- Rabbi Yaakov Tzvi Mecklenburg ties *pen* to *panah*, "turned away," since the
+  speaker hopes his listener will turn away from the possibility he has just
+  named.
 
 ### the test case: Bereishis 24:39 and 27:12
 The Vilna Gaon made the idea famous by applying it to exegesis, and to Rashi in

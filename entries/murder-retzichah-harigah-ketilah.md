@@ -49,22 +49,26 @@ plants.
 
 ## Where the authorities disagree
 
-**Whether retzichah and harigah differ at all.** Rabbi Nathan Adler cites the two
-standing side by side in Tehillim 94:6 as evidence that they are synonymous.
-Rashbam, Rabbi Shlomo Pappenheim and Rabbi Avraham Bedersi (*Chotam Tochnit*)
-hold they are not: the *rotzeach* of Bamidbar
-35:16-18 and Devarim 19:4-6 is the murderer, whether *b'mezid* or *b'shogeg*,
-and Eliyahu's rebuke to Achav is *haratzachta v'gam yarashta* (Melachim I
-21:19). *Harigah*, by contrast, sits on both sides of the line: the woman put to
-death by beis din for bestiality is killed with *harigah* (Vayikra 20:16),
-because that execution is legally justified, and so is Kayin's killing of Hevel
-(Bereishis 4:8), which was the first homicide and a murder.
+**Whether retzichah and harigah differ at all.**
 
-**Whether retzichah reaches indirect killing.** Bedersi: *retzichah* is only for
-the one who did the deed himself, while *harigah* covers causing a death at a
-remove, which is why Shaul is said to have killed (*harag*) the kohanim of Nov
-(Shmuel I 22:21) and why Nosson tells David *oso haragta b'cherev bnei Ammon*
-(Shmuel II 12:9). Abarbanel (to Shemos 20:13) disagrees, citing Shoftim 20:4.
+- Rabbi Nathan Adler cites the two standing side by side in Tehillim 94:6 as
+  evidence that they are synonymous.
+- Rashbam, Rabbi Shlomo Pappenheim and Rabbi Avraham Bedersi (*Chotam Tochnit*)
+  hold they are not: the *rotzeach* of Bamidbar 35:16-18 and Devarim 19:4-6 is
+  the murderer, whether *b'mezid* or *b'shogeg*, and Eliyahu's rebuke to Achav
+  is *haratzachta v'gam yarashta* (Melachim I 21:19). *Harigah*, by contrast,
+  sits on both sides of the line: the woman put to death by beis din for
+  bestiality is killed with *harigah* (Vayikra 20:16), because that execution is
+  legally justified, and so is Kayin's killing of Hevel (Bereishis 4:8), which
+  was the first homicide and a murder.
+
+**Whether retzichah reaches indirect killing.**
+
+- Bedersi: *retzichah* is only for the one who did the deed himself, while
+  *harigah* covers causing a death at a remove, which is why Shaul is said to
+  have killed (*harag*) the kohanim of Nov (Shmuel I 22:21) and why Nosson tells
+  David *oso haragta b'cherev bnei Ammon* (Shmuel II 12:9).
+- Abarbanel (to Shemos 20:13) disagrees, citing Shoftim 20:4.
 
 **What separates them, if not legality.** Rabbi Shlomo Aharon Wertheimer, citing
 Rabbi Shlomo Galblum's concordance *Sefer HaMilim*: *retzichah* is the death
@@ -101,31 +105,35 @@ alone would have implied animals; Rabbi Adler, only striking.
 Root ר-צ-ח. The one exception to the rule is Bamidbar 35:27, 35:30, where the
 *go'el hadam* who kills the accidental killer is described with *retzichah*
 though the killing is permitted; Rav Hirsch (to Shemos 20:13) addresses it.
-Bedersi draws the practical conclusion from the word's restriction to people:
-the Aseres HaDibros says *lo tirtzach* rather than a form of *harigah* so that
-the prohibition governs killing people and not animals or plants (contrast
-Vayikra 20:15, 20:16; Bamidbar 22:29; Yeshayahu 22:13, 27:1 for animals;
-Tehillim 78:47 for plants). Rabbi Pappenheim reaches it
-from the other side: only human beings form societies with laws. Rav Hirsch,
-working his system of etymological links between roots with phonetically similar
-letters, connects ר-צ-ח to ר-ש-ע, wickedness, which leads him to class murder as
-the ultimate act of evil and the most heinous of crimes; and to ר-צ-ה, "will,"
-and the Aramaic ר-ש-ה, "permission," so that murder is an illegitimate
-expression of a man's free will, though otherwise he has permission to want
-whatever he chooses. Rabbi Yaakov Berger suggests reading ר-צ-ח as a
-metathesized form of ח-ר-צ, "cutting," the murderer cutting off another's
-life.
+
+- Bedersi draws the practical conclusion from the word's restriction to people:
+  the Aseres HaDibros says *lo tirtzach* rather than a form of *harigah* so that
+  the prohibition governs killing people and not animals or plants (contrast
+  Vayikra 20:15, 20:16; Bamidbar 22:29; Yeshayahu 22:13, 27:1 for animals;
+  Tehillim 78:47 for plants).
+- Rabbi Pappenheim reaches it from the other side: only human beings form
+  societies with laws.
+- Rav Hirsch, working his system of etymological links between roots with
+  phonetically similar letters, connects ר-צ-ח to ר-ש-ע, wickedness, which leads
+  him to class murder as the ultimate act of evil and the most heinous of
+  crimes; and to ר-צ-ה, "will," and the Aramaic ר-ש-ה, "permission," so that
+  murder is an illegitimate expression of a man's free will, though otherwise he
+  has permission to want whatever he chooses.
+- Rabbi Yaakov Berger suggests reading ר-צ-ח as a metathesized form of ח-ר-צ,
+  "cutting," the murderer cutting off another's life.
 
 ### harigah (הריגה)
-Root ה-ר-ג. Rabbi Pappenheim traces it to the biliteral ר-ג, subduing something
-completely by closing or choking it off, since the killer subdues his victim in
-the most absolute way there is; from the same root he takes *regimah*, stoning,
-and *arigah*, weaving. Rav Hirsch (to Shemos 35:25) hints at the same
-*harigah*/*arigah* link, and (to Bereishis 30:27) connects ה-ר-ג with ע-ר-ג,
-"desiring/yearning"; Rabbi Aharon Marcus takes the ר-ג family further, to
-*regev* (a clump of dirt), *regel* (foot), *rogez* (anger) and *regesh*
-(feeling), all of them bound up, in one way or another, with subduing,
-conquering or trampling.
+Root ה-ר-ג.
+
+- Rabbi Pappenheim traces it to the biliteral ר-ג, subduing something completely
+  by closing or choking it off, since the killer subdues his victim in the most
+  absolute way there is; from the same root he takes *regimah*, stoning, and
+  *arigah*, weaving.
+- Rav Hirsch (to Shemos 35:25) hints at the same *harigah*/*arigah* link, and
+  (to Bereishis 30:27) connects ה-ר-ג with ע-ר-ג, "desiring/yearning".
+- Rabbi Aharon Marcus takes the ר-ג family further, to *regev* (a clump of
+  dirt), *regel* (foot), *rogez* (anger) and *regesh* (feeling), all of them
+  bound up, in one way or another, with subduing, conquering or trampling.
 
 ### ketilah (קטילה)
 The standard Targumic rendering of both Hebrew words, seven times in the Aramaic

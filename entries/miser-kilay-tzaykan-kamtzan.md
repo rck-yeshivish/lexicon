@@ -53,15 +53,18 @@ Radak among them (there and in *Sefer HaShorashim*), read it from the contrast w
 open-handed: the *kilay* is the opposite, careful to a fault about what he gives,
 laying out money or effort only by exact measure.
 
-Roots. Radak and Ibn Janach in their respective *Sifrei HaShorashim* assign it to
-כ-י-ל, of which it is the sole derivative; Radak alternatively to כ-ו-ל, a
-measured quantity. Rabbi Shlomo Pappenheim takes the biliteral כ-ל,
-"all-encompassing," whence *kele* (jail, which detains the whole man), and reads
-*kilay* as one who jails his own money and goods so nobody else benefits. His
-other derivatives of כ-ל: *kol*, *kallah* (typically adorned with every sort of ornament),
-*kalkalah* (providing for all one's needs), *makoles*, *keli* (what surrounds its
-contents on all sides), *heichal*, *kalos* (finishing, coming to be or being
-destroyed entirely), and *achilah*.
+Roots.
+
+- Radak and Ibn Janach in their respective *Sifrei HaShorashim* assign it to
+  כ-י-ל, of which it is the sole derivative; Radak alternatively to כ-ו-ל, a
+  measured quantity.
+- Rabbi Shlomo Pappenheim takes the biliteral כ-ל, "all-encompassing," whence
+  *kele* (jail, which detains the whole man), and reads *kilay* as one who jails
+  his own money and goods so nobody else benefits. His other derivatives of כ-ל:
+  *kol*, *kallah* (typically adorned with every sort of ornament), *kalkalah*
+  (providing for all one's needs), *makoles*, *keli* (what surrounds its
+  contents on all sides), *heichal*, *kalos* (finishing, coming to be or being
+  destroyed entirely), and *achilah*.
 
 Ibn Ezra (to Yeshayahu 32:5) writes that on an exegetical plane we may read
 *kilay* as a portmanteau of *ki yomar sheli sheli*, "when a man says, what is
@@ -89,15 +92,18 @@ been completed. Rashi has another gloss elsewhere (to Sotah 41b): a desirous
 man who always wants to drink wine.
 
 *Bereishis Rabbah* 51:1 refers to an animal called a *kilay*, and there are
-several ways of identifying it. One is that it is a sort of snail, the
-understanding preferred by the Maskillic writer Shalom Yaakov Abramowitz
-(1836-1917), better known as Mendele Mocher Seforim, in his scientific
-encyclopedia *Toldos HaTeva*, and Dr. Alexander Kohut (1842-1894) also seems to
-favor it. Some write that the *kilay* is a *Schildkröte*, the German for
-turtle. Either way both creatures carry a shell about with them, and on that
-basis Solomon Rabinowitz of New York (d. 1943) in his *Sefer HaMishkalim* draws
-the comparison to the cheapskate: as the cheapskate retreats into himself and
-is not generous with others, so the snail or turtle sometimes retreats into its shell
+several ways of identifying it.
+
+- One is that it is a sort of snail, the understanding preferred by the
+  Maskillic writer Shalom Yaakov Abramowitz (1836-1917), better known as Mendele
+  Mocher Seforim, in his scientific encyclopedia *Toldos HaTeva*, and Dr.
+  Alexander Kohut (1842-1894) also seems to favor it.
+- Some write that the *kilay* is a *Schildkröte*, the German for turtle.
+
+Either way both creatures carry a shell about with them, and on that basis
+Solomon Rabinowitz of New York (d. 1943) in his *Sefer HaMishkalim* draws the
+comparison to the cheapskate: as the cheapskate retreats into himself and is not
+generous with others, so the snail or turtle sometimes retreats into its shell
 rather than deal with the world; and as those creatures might lock themselves
 in, so the cheapskate locks himself into his belongings and comes out only when
 the coast is clear. Rabinowitz conjectures from this that perhaps the Midrash's
@@ -112,15 +118,17 @@ them as ungenerous, using a cognate of *atzar*, stopping, for how they stop thei
 money from reaching anyone else; so too Rashi and Rabbeinu Chananel to Eruvin
 49a.
 
-Etymology is not readily obvious. Rabbi Dr. Ernest Klein (no relation to Rabbi
-Reuven Chaim Klein) theorizes that *tzaykan* derives from *tzuk*/*tzok*, a narrow strait
-or pressure, in the sense of the miser's narrow-mindedness about which causes
-deserve his money. Another possible etymology is *mutzak*, a hard metal, his
-hardness relating to the *tzaykan*'s hard-headed stubbornness about parting
-with what is his; Pappenheim, as is his way, traces both words back to the
-biliteral צ-ק. The word is rare but not dead:
-*Orchos Tzaddikim* titles its chapter on frugality *Shaar HaTzaykanus*, where the
-trait is a virtue, not a vice.
+Etymology is not readily obvious.
+
+- Rabbi Dr. Ernest Klein (no relation to Rabbi Reuven Chaim Klein) theorizes
+  that *tzaykan* derives from *tzuk*/*tzok*, a narrow strait or pressure, in the
+  sense of the miser's narrow-mindedness about which causes deserve his money.
+- Another possible etymology is *mutzak*, a hard metal, his hardness relating to
+  the *tzaykan*'s hard-headed stubbornness about parting with what is his.
+- Pappenheim, as is his way, traces both words back to the biliteral צ-ק.
+
+The word is rare but not dead: *Orchos Tzaddikim* titles its chapter on
+frugality *Shaar HaTzaykanus*, where the trait is a virtue, not a vice.
 
 ### kamtzan (קמצן)
 Post-Mishnaic and the living word today. It appears already in some girsaos of

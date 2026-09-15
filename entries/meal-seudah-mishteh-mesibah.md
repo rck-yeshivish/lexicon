@@ -77,15 +77,17 @@ verb *shoseh*, to drink.
   brought gladness for generations and is celebrated each year on Purim.
 
 ### mesibah (מסיבה)
-Arguably once in Tanach (Rashbam to Shir HaShirim 1:12). Rashi (to Amos 2:8):
-the word names the fact that those at the meal would recline, the practice of
-*haseibah*. The Mah Nishtanah preserves the usage: on other nights we eat
-*bein yoshvin uvein mesubin*, sitting or reclining, and tonight only reclining.
-So a *mesibah* is a meal taken slouched on couches rather than sitting upright,
-and from there the word was borrowed for any gathering or party. One
-contemporary linguist argues instead that *mesibah* is related to
-*sovev*/*sevivah*, "around," and names the fact that everyone gathers around
-for a party; Rabbi Klein answers that this claim remains unsubstantiated.
+Arguably once in Tanach (Rashbam to Shir HaShirim 1:12).
+
+- Rashi (to Amos 2:8): the word names the fact that those at the meal would
+  recline, the practice of *haseibah*. The Mah Nishtanah preserves the usage: on
+  other nights we eat *bein yoshvin uvein mesubin*, sitting or reclining, and
+  tonight only reclining. So a *mesibah* is a meal taken slouched on couches
+  rather than sitting upright, and from there the word was borrowed for any
+  gathering or party.
+- One contemporary linguist argues instead that *mesibah* is related to
+  *sovev*/*sevivah*, "around," and names the fact that everyone gathers around
+  for a party; Rabbi Klein answers that this claim remains unsubstantiated.
 
 ## Rendering guidance
 
