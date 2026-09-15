@@ -438,8 +438,23 @@ def entry_page(e):
     parts = [f'''<article class="entry">
 {anchors}
 <p class="eyebrow">{html.escape(e["domain"])}</p>
-<h1>{html.escape(e["cluster"])}</h1>
-<p class="heb-title">{heb}</p>''']
+<h1>{html.escape(e["cluster"])}</h1>''']
+    # Where the entry has word cards they come first: they are the easiest thing
+    # on the page to read, and the Bottom line mostly restates them. It follows
+    # as a plain "In short" for what the cards do not carry (how the words
+    # relate, and any dispute). The cards also show every Hebrew word, so the
+    # Hebrew line under the title is left off those pages rather than doubled.
+    # The markdown keeps its order either way.
+    has_cards = any(h == "At a glance" and glance_cards(m) for h, m in e["sections"])
+    if not has_cards:
+        parts[0] += f'\n<p class="heb-title">{heb}</p>'
+    # Each word's own distinction reads before the disputes about them.
+    secs = list(e["sections"])
+    names = [h for h, _ in secs]
+    if "Distinctions" in names and "Where the authorities disagree" in names \
+            and names.index("Distinctions") > names.index("Where the authorities disagree"):
+        d = secs.pop(names.index("Distinctions"))
+        secs.insert(names.index("Where the authorities disagree"), d)
     # "On this page": one link per section the entry actually has, and under
     # Distinctions one per word, so a long entry can be crossed in a click.
     # Shown only on wide screens; see .toc in the CSS.
@@ -465,13 +480,8 @@ def entry_page(e):
             return f'<h3 id="d-{n}">{text}</h3>'
         return re.sub(r"<h3>(.*?)</h3>", tag, block), subs
 
-    # Where the entry has word cards they come first: they are the easiest thing
-    # on the page to read, and the Bottom line mostly restates them. It follows
-    # as a plain "In short" for what the cards do not carry (how the words
-    # relate, and any dispute). The markdown keeps its order either way.
-    has_cards = any(h == "At a glance" and glance_cards(m) for h, m in e["sections"])
     deferred = None
-    for headname, mdtext in e["sections"]:
+    for headname, mdtext in secs:
         if headname == "Notes for a project" and mdtext.strip() in ("None yet.", ""):
             continue
         if headname == "Bottom line" and has_cards:
@@ -967,14 +977,15 @@ header.bare .brand{flex:1}
 .entry h1{font-size:38px;letter-spacing:-.021em;font-weight:600;margin:0 0 6px;text-transform:capitalize}
 .heb-title{font-family:var(--heb);font-size:30px;font-weight:400;line-height:1.3;
   color:color-mix(in srgb,var(--ink) 72%,var(--bg));margin:2px 0 30px;direction:ltr;text-align:left;display:flex;flex-wrap:wrap;align-items:baseline;gap:0 28px}
-.wcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
-.wcard{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px 16px}
-.wh{font-family:var(--heb);font-size:34px;font-weight:500;line-height:1.15;text-align:right}
+.entry h1+.glance{margin-top:34px}
+.wcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px}
+.wcard{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 14px 13px}
+.wh{font-family:var(--heb);font-size:26px;font-weight:500;line-height:1.15;text-align:right}
 .wmeta{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:0 10px;
   margin:6px 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line)}
-.we{font-weight:600;font-size:16px}
-.wt{font-style:italic;color:var(--dim);font-size:15px}
-.wd{font-size:15px;line-height:1.5;color:var(--dim)}
+.we{font-weight:600;font-size:15px}
+.wt{font-style:italic;color:var(--dim);font-size:14px}
+.wd{font-size:14px;line-height:1.5;color:var(--dim)}
 .wd .who{color:var(--ink)}
 /* On this page. Wide screens only: on anything narrower there is no margin to
    put it in, and a phone reader scrolls. The layout widens main just enough for
@@ -1002,7 +1013,7 @@ header.bare .brand{flex:1}
   .toc .th+.tt{font-size:12.5px;color:var(--faint);font-style:italic}
 }
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
-@media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:30px}.heb-title{font-size:26px;gap:0 22px}}
+@media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:24px}.heb-title{font-size:26px;gap:0 22px}}
 .entry section{margin:0 0 34px}
 .entry h2{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
   font-weight:600;margin:0 0 12px;padding-bottom:8px;border-bottom:1px solid var(--line)}
