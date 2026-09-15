@@ -93,14 +93,16 @@ tradition he later did teshuvah and the decree was lifted, and some sources have
 Mashiach descending from him). And twice as *aririm*, the penalty for the
 forbidden marriages of Vayikra 20:20 and 20:21.
 
-Rashi (to Shabbos 25b), like Ibn Ezra, holds that just as *karet* can bring a
-man's own early death, it can also reach his children; every *karet* therefore
-potentially includes *ariri*. Riva, a Tosafist (probably Rabbi Yitzchak ben
-Asher HaLevi, a talmid of Rashi), disputes this: *karet* does not touch the
-sinner's children at all, and *ariri* is a separate punishment attaching only to
-the forbidden marriages (Tosafos to Yevamos 2a). Even Rashi grants that grown
-children who do not follow their father in his sin are not affected by his
-*karet* (Tosafos Yeshanim to Yevamos 2a).
+- Rashi (to Shabbos 25b), like Ibn Ezra, holds that just as *karet* can bring a
+  man's own early death, it can also reach his children; every *karet* therefore
+  potentially includes *ariri*.
+- Riva, a Tosafist (probably Rabbi Yitzchak ben Asher HaLevi, a talmid of
+  Rashi), disputes this: *karet* does not touch the sinner's children at all,
+  and *ariri* is a separate punishment attaching only to the forbidden marriages
+  (Tosafos to Yevamos 2a).
+
+Even Rashi grants that grown children who do not follow their father in his sin
+are not affected by his *karet* (Tosafos Yeshanim to Yevamos 2a).
 
 ## Rendering guidance
 

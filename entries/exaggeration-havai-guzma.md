@@ -87,16 +87,19 @@ derivation for each:
   Hashem* (Tehillim 134:1).
 
 ### guzma (גוזמא)
-Neither in Tanach nor in the Mishnah; it is the Gemara's word. Rashi (to Bava
-Metzia 38a, Chullin 90b, and Erchin 11a) explains it as extra words, speech that
-does not answer to the fact. At Beitzah 4a the Gemara asks why a *baraisa*
-troubled to permit two obviously permitted things, and answers that the
-*baraisa* is a *guzma*; Rashi there takes *guzma* as a rhetorical device, adding
-to a matter in order to press it home, so that rulings entirely true were framed
-as though they were novel. Rabbi Eliyahu HaBachur (*Sefer HaTishbi*), gathering
-these sugyos, declares that *guzma* and *havai* mean exactly the same thing, the
-act of overstating something in a way that is not literally true. On where the
-word comes from:
+Neither in Tanach nor in the Mishnah; it is the Gemara's word.
+
+- Rashi (to Bava Metzia 38a, Chullin 90b, and Erchin 11a) explains it as extra
+  words, speech that does not answer to the fact. At Beitzah 4a the Gemara asks
+  why a *baraisa* troubled to permit two obviously permitted things, and answers
+  that the *baraisa* is a *guzma*; Rashi there takes *guzma* as a rhetorical
+  device, adding to a matter in order to press it home, so that rulings entirely
+  true were framed as though they were novel.
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*), gathering these sugyos, declares
+  that *guzma* and *havai* mean exactly the same thing, the act of overstating
+  something in a way that is not literally true.
+
+On where the word comes from:
 
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) and Rabbi Binyamin Mussafia (*Mussaf
   HaAruch*) hold it is a Greek loanword. Rabbi Klein reports that after some
@@ -137,19 +140,23 @@ Chazal's examples are from the Mishnah, and the Gemara calls some or all of them
 *divrei havai* or *guzma*: the *tamid* drinking from a golden cup (Tamid 3:4),
 three hundred *kor* of ash sometimes piled on the Mizbeach (Tamid 2:2), the
 Golden Vine that took three hundred Kohanim to move (Middos 3:8), the *paroches*
-that took three hundred Kohanim to immerse (Shekalim 8:5). Rabbi Yissachar Ber
-Eilenberg notes that these are a sample of rabbinic hyperbole in the Mishnah,
-not a complete list. Rabbi Yaakov Emden insists that the Mishnah is not lying:
-what it says is not to be taken literally exactly as it sounds, but is still true
-when properly understood. Three hundred Kohanim really were involved with the
-Golden Vine, and it took that many, Rabbi Emden assumes, because as some tired
-under the weight others had to take their place; only the impression that all
-three hundred were needed at one time is the *guzma*. Rabbi Eliyahu HaKohen of Izmir reads the spies' cities "in the
-heavens" the same way, since anything very tall looks to the eye as though it
-reaches the sky. Rabbi Meir Pozna of London adds a further point on that pasuk:
-the spies themselves said only that the cities were great and fortified (Bamidbar
-13:28), and it was Moshe Rabbeinu who reported them as saying "in the heavens"
-(Devarim 1:28, and again 9:1), so the *havai* is his framing of their report.
+that took three hundred Kohanim to immerse (Shekalim 8:5).
+
+- Rabbi Yissachar Ber Eilenberg notes that these are a sample of rabbinic
+  hyperbole in the Mishnah, not a complete list.
+- Rabbi Yaakov Emden insists that the Mishnah is not lying: what it says is not
+  to be taken literally exactly as it sounds, but is still true when properly
+  understood. Three hundred Kohanim really were involved with the Golden Vine,
+  and it took that many, Rabbi Emden assumes, because as some tired under the
+  weight others had to take their place; only the impression that all three
+  hundred were needed at one time is the *guzma*.
+- Rabbi Eliyahu HaKohen of Izmir reads the spies' cities "in the heavens" the
+  same way, since anything very tall looks to the eye as though it reaches the
+  sky.
+- Rabbi Meir Pozna of London adds a further point on that pasuk: the spies
+  themselves said only that the cities were great and fortified (Bamidbar
+  13:28), and it was Moshe Rabbeinu who reported them as saying "in the heavens"
+  (Devarim 1:28, and again 9:1), so the *havai* is his framing of their report.
 
 ## Rendering guidance
 

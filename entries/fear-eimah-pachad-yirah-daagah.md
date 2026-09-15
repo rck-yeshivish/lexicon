@@ -54,14 +54,17 @@ therefore the more intense.
 ## Distinctions
 
 ### eimah (אימה)
-Root א-י-ם. Ibn Ezra (Shemos 23:27): *eimah* is the emotive feeling of being afraid,
-as against *pachad*, the outward manifestation of fear. Rashi (Shemos 15:16): *eimah*
-and *pachad* differ as fear of a distant threat differs from fear of one close at
-hand; the versions of Rashi and the other commentators disagree on which is which.
-Either way, Rabbi
-Klein observes, a man reacts differently to hearing news of a threat than to
-meeting one, and Hebrew registers those differing fight-or-flight responses in
-two otherwise synonymous words.
+Root א-י-ם.
+
+- Ibn Ezra (Shemos 23:27): *eimah* is the emotive feeling of being afraid, as
+  against *pachad*, the outward manifestation of fear.
+- Rashi (Shemos 15:16): *eimah* and *pachad* differ as fear of a distant threat
+  differs from fear of one close at hand; the versions of Rashi and the other
+  commentators disagree on which is which.
+
+Either way, Rabbi Klein observes, a man reacts differently to hearing news of a
+threat than to meeting one, and Hebrew registers those differing fight-or-flight
+responses in two otherwise synonymous words.
 
 ### pachad (פחד)
 Root פ-ח-ד.
@@ -75,11 +78,14 @@ Root פ-ח-ד.
 - Ibn Ezra: the outward manifestation of fear.
 
 ### yirah / morah (יראה / מורא)
-Root י-ר-א. Rashi (Devarim 11:25): the fear that has remained pent up for some time.
-Wertheimer: the more intense type, because it is continual and builds on itself. The
-Beis HaLevi (Rabbi Yosef Dov Soloveitchik, parashas Vayigash): *yirah* is fear of
-what one anticipates *might* happen, as against *daagah*, worry over what one
-foresees *will* happen.
+Root י-ר-א.
+
+- Rashi (Devarim 11:25): the fear that has remained pent up for some time.
+- Wertheimer: the more intense type, because it is continual and builds on
+  itself.
+- The Beis HaLevi (Rabbi Yosef Dov Soloveitchik, parashas Vayigash): *yirah* is
+  fear of what one anticipates *might* happen, as against *daagah*, worry over
+  what one foresees *will* happen.
 
 ### daagah (דאגה)
 Root ד-א-ג.

@@ -59,30 +59,37 @@ kinsman, from the "flesh" sense of the word, and it too can mean **wife**.
 ## Distinctions
 
 ### mishpachah (משפחה)
-Ibn Saruk, Ibn Janach, and Radak trace it to ש-פ-ח but split the root's sense in
-two, unconnected: "maidservant" (*shifchah*) and "family/clan" (*mishpachah*).
-Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*), tracing the word instead to
-the root sin/samech-peh-ches, reads a single core sense of "attachment": a family is a set of people attached to one another by
-common descent, and a *shifchah* is a woman attached to her mistress's
-household. *HaKtav V'HaKabbalah* (to Bereishis 24:38) and Rav Hirsch (to Vayikra
-25:5) take the same line. Rabbi Aharon Marcus and Rabbi Zev Hoberman sharpen it
-to an *appendage* attached to something else, as in *sapachas*, a form of
-tzaraas (Vayikra 13:2); on that reading the children are like appendages ascribed
-to the patriarch, and the *shifchah* like an adjunct to an otherwise complete household.
+
+- Ibn Saruk, Ibn Janach, and Radak trace it to ש-פ-ח but split the root's sense
+  in two, unconnected: "maidservant" (*shifchah*) and "family/clan"
+  (*mishpachah*).
+- Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehuda*), tracing the word instead
+  to the root sin/samech-peh-ches, reads a single core sense of "attachment": a
+  family is a set of people attached to one another by common descent, and a
+  *shifchah* is a woman attached to her mistress's household. *HaKtav
+  V'HaKabbalah* (to Bereishis 24:38) and Rav Hirsch (to Vayikra 25:5) take the
+  same line.
+- Rabbi Aharon Marcus and Rabbi Zev Hoberman sharpen it to an *appendage*
+  attached to something else, as in *sapachas*, a form of tzaraas (Vayikra
+  13:2); on that reading the children are like appendages ascribed to the
+  patriarch, and the *shifchah* like an adjunct to an otherwise complete
+  household.
 
 ### bayis (בית)
-Primarily "house," the building. Radak (*Sefer HaShorashim*) explains that in
-"you and your *bayis* shall rejoice" (Devarim 14:26) the word means the members
-of the household, not the structure; so too Rashi to Bereishis 42:19 and 45:2.
-Ibn Janach narrows it further: *bayis* there is one's wife. That matches Rabbi
-Yose, who said he never called his wife *ishti* but *baisi* (Gittin 52a); Rashi
-explains that he was recognizing her as the mainstay of the house. Rabbi Klein
-adds an alternative of his own, offered as a "perhaps": that Rabbi Yose called
-her *baisi* because she modestly kept within the confines of her home, and that
-the word *bayis* may itself evoke that idea, since Rabbi Pappenheim traces
-*bayis* to the monoliteral root ב, "inside," and indeed *bayis* itself means
-"inside" (Bereishis 6:14, Shemos 25:11, 37:2, Melachim I 7:9), like the prefix
-ב.
+Primarily "house," the building.
+
+- Radak (*Sefer HaShorashim*) explains that in "you and your *bayis* shall
+  rejoice" (Devarim 14:26) the word means the members of the household, not the
+  structure; so too Rashi to Bereishis 42:19 and 45:2.
+- Ibn Janach narrows it further: *bayis* there is one's wife. That matches Rabbi
+  Yose, who said he never called his wife *ishti* but *baisi* (Gittin 52a);
+  Rashi explains that he was recognizing her as the mainstay of the house.
+- Rabbi Klein adds an alternative of his own, offered as a "perhaps": that Rabbi
+  Yose called her *baisi* because she modestly kept within the confines of her
+  home, and that the word *bayis* may itself evoke that idea, since Rabbi
+  Pappenheim traces *bayis* to the monoliteral root ב, "inside," and indeed
+  *bayis* itself means "inside" (Bereishis 6:14, Shemos 25:11, 37:2, Melachim I
+  7:9), like the prefix ב.
 
 ### machaneh (מחנה)
 The grammarians are unanimous that the root means "dwelling" or "stopping over":

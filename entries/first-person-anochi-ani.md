@@ -58,11 +58,13 @@ speech; *anochi* by contrast sounds somewhat archaic today.
   Name of His.
 
 ### anochi (אנכי)
-The emphatic form. Maharal: reflexive first person, one who is stressing
-himself, "I myself." Malbim and Rabbi Pappenheim: the novelty is in the
-subject, so *anochi omed* means "I, and not another, am standing." Applied to
-the opening of the Aseres HaDibros, this is why the Dibrah begins *Anochi*
-(Shemos 20:2): He and no other is the God who took us out of Mitzrayim.
+The emphatic form.
+
+- Maharal: reflexive first person, one who is stressing himself, "I myself."
+- Malbim and Rabbi Pappenheim: the novelty is in the subject, so *anochi omed*
+  means "I, and not another, am standing." Applied to the opening of the Aseres
+  HaDibros, this is why the Dibrah begins *Anochi* (Shemos 20:2): He and no
+  other is the God who took us out of Mitzrayim.
 
 Rav Hirsch reads the emphasis differently, and warmly: *anochi* carries the
 speaker's closeness to the one he addresses, in his standing as benefactor. On

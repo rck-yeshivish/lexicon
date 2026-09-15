@@ -87,29 +87,35 @@ times in Tanach by Even Shoshan's concordance.
   energy the body stores aside for future use rather than present need.
 
 ### shuman (שומן)
-Not in Tanach at all; it enters with the Mishnah (*Kerisus* 4:1). Rabbi Shlomo
-Aharon Wertheimer ties it to the biblical root shin-mem-nun, oily, familiar from
-*shemen*. Rashi (Chullin 45b): *cheilev* is the general Hebrew word covering
-both forbidden and permitted fats, and *shuman* was coined by Chazal for the
-permitted fats specifically, so that the two could be told apart. Mammals do in
-fact carry two kinds of fat: visceral fats, usually large
-independent pieces of blubber, denser and harder from fascia compression, and
-intermuscular fats, attached to the meat and softer. Ramban and Rabbeinu Bachya
-(Vayikra 3:9) expand on this: *cheilev* is the visceral fat,
-the globs not attached to muscle, which the Torah forbids, while *shuman* is the
-intermuscular fat, the strips one meets in a kosher cut, which is permitted. Pappenheim: *shuman* is from *shemen* because it is the more
-pourable, oil-like fat.
+Not in Tanach at all; it enters with the Mishnah (*Kerisus* 4:1).
+
+- Rabbi Shlomo Aharon Wertheimer ties it to the biblical root shin-mem-nun,
+  oily, familiar from *shemen*.
+- Rashi (Chullin 45b): *cheilev* is the general Hebrew word covering both
+  forbidden and permitted fats, and *shuman* was coined by Chazal for the
+  permitted fats specifically, so that the two could be told apart. Mammals do
+  in fact carry two kinds of fat: visceral fats, usually large independent
+  pieces of blubber, denser and harder from fascia compression, and
+  intermuscular fats, attached to the meat and softer.
+- Ramban and Rabbeinu Bachya (Vayikra 3:9) expand on this: *cheilev* is the
+  visceral fat, the globs not attached to muscle, which the Torah forbids, while
+  *shuman* is the intermuscular fat, the strips one meets in a kosher cut, which
+  is permitted.
+- Pappenheim: *shuman* is from *shemen* because it is the more pourable,
+  oil-like fat.
 
 ### tarba (תרבא)
 Targumic Aramaic for *cheilev* (Onkelos to Shemos 23:18, 29:13; Vayikra 3:3,
 7:24, 8:26), with the exception of Hevel's korban, where Onkelos renders it with
 a form of *shuman* / *shemen* (Bereishis 4:4; so too Targum to Tehillim 73:7).
-Rashi often defines the Gemara's *tarba* as *cheilev* (Shabbos 133b, 136b;
-Avodah Zarah 28b; Chullin 93a; Bechoros 30a), though at Bava Metzia 83b he
-defines it as *shuman*. Chizkuni (Vayikra 3:3) and *Tirgem Avraham*: *tarba* is from the
-Aramaic *rav*, big or growing, since the more a person or animal eats the more
-fat accrues. That Aramaic term is in turn probably related to the Hebrew
-reish-beis-(hey) of multiplying.
+
+- Rashi often defines the Gemara's *tarba* as *cheilev* (Shabbos 133b, 136b;
+  Avodah Zarah 28b; Chullin 93a; Bechoros 30a), though at Bava Metzia 83b he
+  defines it as *shuman*.
+- Chizkuni (Vayikra 3:3) and *Tirgem Avraham*: *tarba* is from the Aramaic
+  *rav*, big or growing, since the more a person or animal eats the more fat
+  accrues. That Aramaic term is in turn probably related to the Hebrew
+  reish-beis-(hey) of multiplying.
 
 ### pader (פדר)
 A word that seemingly means "fat," vocalized *pader* or perhaps *peder*. Three

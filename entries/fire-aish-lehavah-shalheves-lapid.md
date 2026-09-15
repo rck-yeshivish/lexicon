@@ -136,13 +136,15 @@ calls for an *avukah*, while *bedikas chametz* and *neros Chanukah* call for a
 ### ner (נר) and shraga (שרגא)
 *Ner* is the lamp or candle; the Targumim generally render it *shraga*, which
 later became a popular Jewish name, much as the Arabic name Siraj is popular in
-the Arab world. Its Yiddish counterpart is Feivish. Some
-scholars associate Feivish, like Shraga, with light, arguing that it derives
-from the Greek and Latin name Phoebus, the name of the Greek and Roman god of
-light, and Rabbi Klein remarks on the turn of events by which a pagan god's name was
-adopted as a Jewish personal name. Dr. Alexander Beider dismisses that
-explanation as folk etymology and argues that Feivish comes from Latin *vivus*,
-"life," which would tie it to the name Chaim rather than to Shraga.
+the Arab world. Its Yiddish counterpart is Feivish.
+
+- Some scholars associate Feivish, like Shraga, with light, arguing that it
+  derives from the Greek and Latin name Phoebus, the name of the Greek and Roman
+  god of light, and Rabbi Klein remarks on the turn of events by which a pagan
+  god's name was adopted as a Jewish personal name.
+- Dr. Alexander Beider dismisses that explanation as folk etymology and argues
+  that Feivish comes from Latin *vivus*, "life," which would tie it to the name
+  Chaim rather than to Shraga.
 
 ## Rendering guidance
 
