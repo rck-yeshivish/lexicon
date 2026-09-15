@@ -68,27 +68,34 @@ separate derashos.
 
 ## Where the authorities disagree
 
-**beged against kesus.** *Beged* is the general term (Malbim) and
-*kesus* the draped covering. The Maharik (Rabbi Yosef Kolon) reverses the axis:
-*beged* is a plain cloth like a tallis, unfitted to its wearer, while *kesus* is
-a garment specially sewn to his shape and dimensions. Rabbi Shlomo Aharon
-Wertheimer is the one who points out that the two stand in contrast.
+**beged against kesus.**
+
+- *Beged* is the general term (Malbim) and *kesus* the draped covering.
+- The Maharik (Rabbi Yosef Kolon) reverses the axis: *beged* is a plain cloth
+  like a tallis, unfitted to its wearer, while *kesus* is a garment specially
+  sewn to his shape and dimensions.
+
+Rabbi Shlomo Aharon Wertheimer is the one who points out that the two stand in
+contrast.
 
 **What kesus names.** The manner of wearing, draped rather than donned; or, for
 Rabbi Shlomo Pappenheim, the function, protection from heat, cold or anything
 else.
 
-**simlah against salmah.** The consensus treats them as one word with the lamed
-and mem transposed. Ibn Ezra (to Shemos 22:25) dissents: *simlah* is the general
-category and *salmah* one item within it.
+**simlah against salmah.**
+
+- The consensus treats them as one word with the lamed and mem transposed.
+- Ibn Ezra (to Shemos 22:25) dissents: *simlah* is the general category and
+  *salmah* one item within it.
 
 ## Distinctions
 
 ### beged (בגד)
-Malbim: the general term, taking in every sort of clothing, against the other
-words, which each name a type. Rabbi Moshe Shapiro: *beged* is kin to *begidah*,
-treachery, since a man who puts one on conceals his inner self and shows the
-world a front.
+
+- Malbim: the general term, taking in every sort of clothing, against the other
+  words, which each name a type.
+- Rabbi Moshe Shapiro: *beged* is kin to *begidah*, treachery, since a man who
+  puts one on conceals his inner self and shows the world a front.
 
 ### levush (לבוש) and malbush (מלבוש)
 Neither inherently names clothing, as many commentators note: both are

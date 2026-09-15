@@ -71,27 +71,30 @@ then Iyov 39:30 and Tehillim 84:4; three times in the Mishnah (*Shabbos* 18:2,
   growth.
 
 ### gozal (גוזל)
-Twice in Tanach, at Bereishis 15:9 (the Covenant Between the Pieces) and
-Devarim 32:11 (the eagle hovering over its young), and several times in the
-Mishnah (*Bikkurim* 3:5, *Shekalim* 8:5 and 9:1, *Bava Metzia* 1:4 and 2:3,
-*Kinnim* 2:1, *Taharos* 8:6).
-Root ג-ז-ל, the root of *gezel*, theft. By tradition the *gozal* Avraham was
-told to take was a dove (*Bereishis Rabbah* 44:14, Targum Onkelos to Bereishis
-15:9), since besides the pigeon that is the only bird fit for offerings, and
-that covenant was a sort of offering (see Ibn Ezra there). Ibn Janach and Radak (each in his *Sefer
-HaShorashim*): *gozal* primarily means a young dove, but the sense widened to
-any young bird, which is how it can be a young eagle at Devarim 32:11. Rabbi
-Yehonasan HaKohen of Lunel: in Biblical Hebrew *gozal* is simply a dove, as
-*yonah* is, while *efroach* is a young bird of no particular species; in
-Rabbinic Hebrew *gozal* shifted slightly, to a young dove specifically. Rabbi
-Reuven Chaim Klein observes that Rabbi Yehonasan's account leaves the eagle verse out of the reckoning,
-and guesses that Rabbi Yehonasan may have taken that usage as merely borrowed rather than as
-a real shift in the word's sense. Rabbi Klein adds the further observation that *gozal*,
-on this showing, carries both "dove" and "stealing," much as *yonah* is
-explained by some as tied to *ona'ah*, cheating or verbal abuse. On the tie to theft, Rabbi
-Yehuda Aryeh Leib of Carpentras: this dove steals from other people's fields.
-Rav Hirsch (to Shemos 23:19): the hatchling begins as its mother's charge, and
-when it matures enough to leave the nest it "steals" itself away from her.
+Twice in Tanach, at Bereishis 15:9 (the Covenant Between the Pieces) and Devarim
+32:11 (the eagle hovering over its young), and several times in the Mishnah
+(*Bikkurim* 3:5, *Shekalim* 8:5 and 9:1, *Bava Metzia* 1:4 and 2:3, *Kinnim*
+2:1, *Taharos* 8:6). Root ג-ז-ל, the root of *gezel*, theft. By tradition the
+*gozal* Avraham was told to take was a dove (*Bereishis Rabbah* 44:14, Targum
+Onkelos to Bereishis 15:9), since besides the pigeon that is the only bird fit
+for offerings, and that covenant was a sort of offering (see Ibn Ezra there).
+
+- Ibn Janach and Radak (each in his *Sefer HaShorashim*): *gozal* primarily
+  means a young dove, but the sense widened to any young bird, which is how it
+  can be a young eagle at Devarim 32:11.
+- Rabbi Yehonasan HaKohen of Lunel: in Biblical Hebrew *gozal* is simply a dove,
+  as *yonah* is, while *efroach* is a young bird of no particular species; in
+  Rabbinic Hebrew *gozal* shifted slightly, to a young dove specifically. Rabbi
+  Reuven Chaim Klein observes that Rabbi Yehonasan's account leaves the eagle
+  verse out of the reckoning, and guesses that Rabbi Yehonasan may have taken
+  that usage as merely borrowed rather than as a real shift in the word's sense.
+  Rabbi Klein adds the further observation that *gozal*, on this showing,
+  carries both "dove" and "stealing," much as *yonah* is explained by some as
+  tied to *ona'ah*, cheating or verbal abuse.
+- On the tie to theft, Rabbi Yehuda Aryeh Leib of Carpentras: this dove steals
+  from other people's fields.
+- Rav Hirsch (to Shemos 23:19): the hatchling begins as its mother's charge, and
+  when it matures enough to leave the nest it "steals" itself away from her.
 
 A cryptic remark of Ibn Ezra at Devarim 32:11 on how *gozal* and *efroach*
 relate is read three ways:
@@ -121,13 +124,16 @@ words are not two stages in one bird's growth but two kinds of bird.
 
 ### pargit (פרגית)
 Rabbinic only: *Berachos* 39b, *Bava Metzia* 24b, *Bereishis Rabbah* 18:17,
-*Vayikra Rabbah* 34:14, *Perek Shirah* ch. 4. A young chicken. Rabbi Nosson of
-Rome (*Sefer HeAruch*) ties it to the Arabic *fyruj*; Rabbi Ernest Klein traces
-it instead to the Greek *pterix*, a wing or winged creature, which he takes back
-in turn to the Proto-Indo-European root *pet-*, to fly, the source also of the
-English *feather*, *fetter*, *partridge*, *pterodactyl* and *helicopter*. In
-Modern Hebrew it often refers to
-cuts of chicken meat, which is not the Rabbinic sense.
+*Vayikra Rabbah* 34:14, *Perek Shirah* ch. 4. A young chicken.
+
+- Rabbi Nosson of Rome (*Sefer HeAruch*) ties it to the Arabic *fyruj*.
+- Rabbi Ernest Klein traces it instead to the Greek *pterix*, a wing or winged
+  creature, which he takes back in turn to the Proto-Indo-European root *pet-*,
+  to fly, the source also of the English *feather*, *fetter*, *partridge*,
+  *pterodactyl* and *helicopter*.
+
+In Modern Hebrew it often refers to cuts of chicken meat, which is not the
+Rabbinic sense.
 
 ### nipol (ניפול)
 From the Mishnah at *Bava Basra* 2:6 (see 23b): a young bird found near a

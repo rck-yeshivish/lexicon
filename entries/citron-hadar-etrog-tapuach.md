@@ -91,9 +91,11 @@ Rabbi Shlomo Pappenheim and Rabbi Aharon Marcus trace various Hebrew words
 to a core biliteral ר-ג (ravishing, subduing, cancelling) without ever thinking
 to connect the Mishnaic *esrog* to it.
 
-**The gematria route.** The Baal HaTurim (to Vayikra 23:40): *pri eitz hadar*
-and *esrogim* match in gematria (659 and 660 respectively, so the match
-needs the kollel); Rabbi Meir Mazuz: *trung* likewise comes to 659.
+**The gematria route.**
+
+- The Baal HaTurim (to Vayikra 23:40): *pri eitz hadar* and *esrogim* match in
+  gematria (659 and 660 respectively, so the match needs the kollel).
+- Rabbi Meir Mazuz: *trung* likewise comes to 659.
 
 ## Distinctions
 

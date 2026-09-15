@@ -52,39 +52,55 @@ Mishnah.
 
 ## Where the authorities disagree
 
-**The root of kisse.** The classical lexicographers take it as the triliteral כ-ס-א.
-Rabbi Shlomo Pappenheim traces it to the biliteral כ-ס, "covering," which for him also
-yields *kisui*, *michaseh*, *kesus* (clothing), *kos* (a covered cup), *kis* (a pocket),
-*meches* (a tax paid into the king's pocket), *nechasim* and *michsah*.
+**The root of kisse.**
 
-**What the "covering" covers.** Rabbi Avraham Abulafia: *Kisse HaKavod* means not
-something enveloped (*mukaf*) but something that envelopes (*makif*), Hashem's
-all-encompassing Providence. Rav Hirsch (to Bereishis 41:40) reads it the other way:
-*kisse* is kin to *kisui*, *katzeh* and *miktzoa*, all about cutting off, so a throne
-raises a man above the rest and puts him out of reach. Hirsch gets there through the interchange of kaf with kuf, samech with tzadi, and aleph
-with hey and ayin. Rabbi David Chaim Chelouche
-similarly explains that the king is set apart, covered and hidden away.
+- The classical lexicographers take it as the triliteral כ-ס-א.
+- Rabbi Shlomo Pappenheim traces it to the biliteral כ-ס, "covering," which for
+  him also yields *kisui*, *michaseh*, *kesus* (clothing), *kos* (a covered
+  cup), *kis* (a pocket), *meches* (a tax paid into the king's pocket),
+  *nechasim* and *michsah*.
 
-**Keis Yah: one word or two.** An Amoraic dispute in Pesachim 117a; *Minchas Shai* (to
-Shemos 17:16) records that the later Masoretes divided the same way. Some early manuscripts,
-the Leningrad Codex and Sassoon 507, write two words, which is the accepted practice; the Aleppo Codex and
-Sassoon 1053 write one. Radak (*Sefer HaShorashim*) explains the missing aleph by the one-word
-reading; the Midrash keeps the absence as a statement in its own right. On either
-reading the phrase means "the throne of Yah."
+**What the "covering" covers.**
 
-**The reish in kursa.** Rabbi Reuven Chaim Klein put the question to linguists and got two answers.
-The first, which he says seems to be the case: *kisse* without the reish is the older
-form and the Aramaic with it a later development, or corruption. The comparative
-evidence lines up neatly, on this view: Dr. Chaim Tawil relates Hebrew *kisse* to the
-Akkadian *kussu*, both of them very early Semitic and neither carrying a reish, while
-the Arabic cognate *kursiyy* does carry it, Arabic being later and, as Rabbi Ernest
-Klein notes, having probably borrowed the word from Aramaic. The reish's insertion the
-experts explained as dissimilation, and Rabbi Ernest Klein explains the rhotic as inserted (by
-epenthesis) to stand in for a doubled consonant, here the doubled samech marked by the
-dagesh. Other linguists hold that the rhotic form *kursa* may instead be
-the more original, Hebrew having dropped the reish, in which case the dagesh in the
-samech marks where the reish went, and the phenomenon is assimilation. The meaning
-of the word does not turn on it.
+- Rabbi Avraham Abulafia: *Kisse HaKavod* means not something enveloped
+  (*mukaf*) but something that envelopes (*makif*), Hashem's all-encompassing
+  Providence.
+- Rav Hirsch (to Bereishis 41:40) reads it the other way: *kisse* is kin to
+  *kisui*, *katzeh* and *miktzoa*, all about cutting off, so a throne raises a
+  man above the rest and puts him out of reach. Hirsch gets there through the
+  interchange of kaf with kuf, samech with tzadi, and aleph with hey and ayin.
+- Rabbi David Chaim Chelouche similarly explains that the king is set apart,
+  covered and hidden away.
+
+**Keis Yah: one word or two.** An Amoraic dispute in Pesachim 117a; *Minchas
+Shai* (to Shemos 17:16) records that the later Masoretes divided the same way.
+
+- Some early manuscripts, the Leningrad Codex and Sassoon 507, write two words,
+  which is the accepted practice; the Aleppo Codex and Sassoon 1053 write one.
+- Radak (*Sefer HaShorashim*) explains the missing aleph by the one-word
+  reading.
+- the Midrash keeps the absence as a statement in its own right.
+
+On either reading the phrase means "the throne of Yah."
+
+**The reish in kursa.** Rabbi Reuven Chaim Klein put the question to linguists
+and got two answers.
+
+- The first, which he says seems to be the case: *kisse* without the reish is
+  the older form and the Aramaic with it a later development, or corruption. The
+  comparative evidence lines up neatly, on this view: Dr. Chaim Tawil relates
+  Hebrew *kisse* to the Akkadian *kussu*, both of them very early Semitic and
+  neither carrying a reish, while the Arabic cognate *kursiyy* does carry it,
+  Arabic being later and, as Rabbi Ernest Klein notes, having probably borrowed
+  the word from Aramaic. The reish's insertion the experts explained as
+  dissimilation, and Rabbi Ernest Klein explains the rhotic as inserted (by
+  epenthesis) to stand in for a doubled consonant, here the doubled samech
+  marked by the dagesh.
+- Other linguists hold that the rhotic form *kursa* may instead be the more
+  original, Hebrew having dropped the reish, in which case the dagesh in the
+  samech marks where the reish went, and the phenomenon is assimilation.
+
+The meaning of the word does not turn on it.
 
 ## Distinctions
 

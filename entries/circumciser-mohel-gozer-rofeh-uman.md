@@ -53,29 +53,34 @@ also bled and healed a *rofeh* or an *uman*.
 **Whether mohel comes from the root of milah.** The Biblical verb is *mal*, root
 מ-ו-ל, with no hei; *mohel* has a hei that behaves like a root letter, pointing
 to מ-ה-ל, which occurs once in Tanach, a *hapax legomenon* at Yeshayahu 1:22,
-"your wine is *mahul* in water." One approach keeps the two apart. Scholars have
-already pointed out that the hei is not part of the Biblical root for
-circumcising but a new feature of Rabbinic Hebrew, a point made at length by the
-Maskilic scholar Solomon Dubno (*Tikkun Sofrim* to Bereishis 17:13, printed in
-*Netivos HaShalom* alongside Moses Mendelssohn's *Beiur*), who holds that the
-two roots simply exist in two different strands of the language. (As an aside,
-Rabbi Shlomo Pappenheim traces *mal* and *milah* to the
-biliteral מ-ל but *mahul* to the biliteral ה-ל.) The other approach bridges
-them. Shadal (to Yeshayahu 1:22) observes that in both Arabic and Latin idiom
-one is said to kill, slaughter, wound or cut wine when one waters it, since
-watering cuts its sharpness and potency, and on that thematic affinity he holds
-the roots for cutting and for diluting to be etymologically related. The German
-linguist Wilhelm Gesenius and Dr. Alexander Kohut accept this
-approach as well. Shadal also brings several Semitic roots in Hebrew and Aramaic
-that are semantically interchangeable, one form with a middle vav and the other
-with a middle hei; that would make the post-Biblical *mohel* after all the agent
-noun of *milah*, though Rabbi Klein judges that none of Shadal's examples is that
-clear-cut.
+"your wine is *mahul* in water."
 
-**What rofeh means in the sugya.** Rashi to Menachos 42a and the Mainz
-commentary attributed to Rabbeinu Gershom: *rofeh* there is the surgeon serving
-as circumciser, so the word does duty for "circumciser." Rashi to Avodah Zarah
-26b: it means a physician who also knows how to perform one.
+- One approach keeps the two apart. Scholars have already pointed out that the
+  hei is not part of the Biblical root for circumcising but a new feature of
+  Rabbinic Hebrew, a point made at length by the Maskilic scholar Solomon Dubno
+  (*Tikkun Sofrim* to Bereishis 17:13, printed in *Netivos HaShalom* alongside
+  Moses Mendelssohn's *Beiur*), who holds that the two roots simply exist in two
+  different strands of the language. (As an aside, Rabbi Shlomo Pappenheim
+  traces *mal* and *milah* to the biliteral מ-ל but *mahul* to the biliteral
+  ה-ל.)
+- The other approach bridges them. Shadal (to Yeshayahu 1:22) observes that in
+  both Arabic and Latin idiom one is said to kill, slaughter, wound or cut wine
+  when one waters it, since watering cuts its sharpness and potency, and on that
+  thematic affinity he holds the roots for cutting and for diluting to be
+  etymologically related. The German linguist Wilhelm Gesenius and Dr. Alexander
+  Kohut accept this approach as well. Shadal also brings several Semitic roots
+  in Hebrew and Aramaic that are semantically interchangeable, one form with a
+  middle vav and the other with a middle hei; that would make the post-Biblical
+  *mohel* after all the agent noun of *milah*, though Rabbi Klein judges that
+  none of Shadal's examples is that clear-cut.
+
+**What rofeh means in the sugya.**
+
+- Rashi to Menachos 42a and the Mainz commentary attributed to Rabbeinu Gershom:
+  *rofeh* there is the surgeon serving as circumciser, so the word does duty for
+  "circumciser."
+- Rashi to Avodah Zarah 26b: it means a physician who also knows how to perform
+  one.
 
 **Why two thirteenth-century Ashkenazi authorities were called HaGozer.** Rabbi
 Yissachar Tamar first suggests continuity, an Eretz Yisrael usage preserved in

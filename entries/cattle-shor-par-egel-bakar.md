@@ -129,29 +129,35 @@ Eight appearances in Tanach for cattle (Devarim 7:13, 28:4, 28:18, 28:51;
 Tehillim 8:8, 50:10; Mishlei 14:4; Yeshayahu 30:24). The letter aleph in the
 original paleo-Hebrew script (*ksav ivri*) looked like an ox; that script was
 borrowed by the Phoenicians and then by the Greeks, and became the standard
-alphabet. Rabbi Shlomo Pappenheim
-connects it to the biliteral lamed-peh, a strong hold: the chieftain with a firm
-hold over those under him is an *aluf*, and the number one must command to earn
-that title is an *elef*, a thousand; an *aleph* is on that reckoning the
-strongest sort of ox. The Vilna Gaon (to Mishlei 14:4) instead connects *aleph*
-to the Aramaic *yalif*, to learn, though his account of how *aleph* differs from
-*shor* is involved. Malbim likewise ties the word to learning: an *aleph* is a
-*trained* ox, one that has already learned how to work the land.
+alphabet.
+
+- Rabbi Shlomo Pappenheim connects it to the biliteral lamed-peh, a strong hold:
+  the chieftain with a firm hold over those under him is an *aluf*, and the
+  number one must command to earn that title is an *elef*, a thousand; an
+  *aleph* is on that reckoning the strongest sort of ox.
+- The Vilna Gaon (to Mishlei 14:4) instead connects *aleph* to the Aramaic
+  *yalif*, to learn, though his account of how *aleph* differs from *shor* is
+  involved.
+- Malbim likewise ties the word to learning: an *aleph* is a *trained* ox, one
+  that has already learned how to work the land.
 
 ### bakar (בקר)
-The collective, cattle. Radak (*Sefer HaShorashim*): the root ב-ק-ר means
-investigating, seeking, probing. *Boker*, morning, is from it, the hour light
-comes and one can begin to discern; *bikur cholim* likewise is not merely
-visiting but finding out how the sick man is and what can be done for him. Rabbi
-Yehoshua Steinberg: *bakar* is domesticated cattle precisely because such animals
-need watching, supervision and defense from marauders, and that is the work of
-the *boker* or *voker*, the "cowboy" (Amos 7:14), who must
-also seek out greener pasture for them. Some have claimed the English slang
-*buckaroo*, a cowboy, comes from that same *boker*/*voker*; but most linguists
-agree it derives from the Spanish *vaquero*, from *vaca*,
-"cow." Dr. Julian Mason, of the University of North Carolina, argued instead
-that *buckaroo* comes from Gullah, the Creole spoken by African-Americans in
-coastal South Carolina and Georgia, in which *buckra* means "white man."
+The collective, cattle.
+
+- Radak (*Sefer HaShorashim*): the root ב-ק-ר means investigating, seeking,
+  probing. *Boker*, morning, is from it, the hour light comes and one can begin
+  to discern; *bikur cholim* likewise is not merely visiting but finding out how
+  the sick man is and what can be done for him.
+- Rabbi Yehoshua Steinberg: *bakar* is domesticated cattle precisely because
+  such animals need watching, supervision and defense from marauders, and that
+  is the work of the *boker* or *voker*, the "cowboy" (Amos 7:14), who must also
+  seek out greener pasture for them.
+- Some have claimed the English slang *buckaroo*, a cowboy, comes from that same
+  *boker*/*voker*; but most linguists agree it derives from the Spanish
+  *vaquero*, from *vaca*, "cow."
+- Dr. Julian Mason, of the University of North Carolina, argued instead that
+  *buckaroo* comes from Gullah, the Creole spoken by African-Americans in
+  coastal South Carolina and Georgia, in which *buckra* means "white man."
 
 ## Rendering guidance
 

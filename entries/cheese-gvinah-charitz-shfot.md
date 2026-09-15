@@ -157,10 +157,15 @@ Targum Yonasan again renders *guvnin d'chalav*.
   identified with Shaar HaAshpah, on the strength of that link between *ashpah*
   and *shfot*.
 
-Dissenting: Ibn Janach again offers milk in the udder; Radak the udders
-themselves; Rabbi Avraham ben Shlomo butter, which Rabbi Klein finds difficult,
-since *chemah* is already named in the pasuk. See *Chasam Sofer* 6:22 on why
-Bechoros 6b did not bring this pasuk as its proof.
+Dissenting:
+
+- Ibn Janach again offers milk in the udder.
+- Radak the udders themselves.
+- Rabbi Avraham ben Shlomo butter, which Rabbi Klein finds difficult, since
+  *chemah* is already named in the pasuk.
+
+See *Chasam Sofer* 6:22 on why Bechoros 6b did not bring this pasuk as its
+proof.
 
 ## Rendering guidance
 

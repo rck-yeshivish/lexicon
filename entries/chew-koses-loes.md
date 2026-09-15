@@ -58,26 +58,31 @@ wheat may still be *lachus* raw wheat. Berachos 36b and Yoma 81a use *kas* for
 chewing dry pepper or ginger on Yom Kippur, which Rava holds is not biblically
 "eating." Megillah 7b has Abaye so hungry he could be *koses* the plate.
 
-Rashi gives two definitions. To Megillah 7b, Kesubos 77a, Berachos 36b, Yoma
-81a and Chullin 15a: *kesisah* is eating in any abnormal or non-standard way.
-(Maharsha to Megillah 7b suggests the plate there may simply have been edible.)
-To Beitzah 26b: whatever can be eaten raw, eating it raw is *koses*. Rabbi Reuven Chaim
-Klein calls this second one a slightly different definition.
+Rashi gives two definitions.
+
+- To Megillah 7b, Kesubos 77a, Berachos 36b, Yoma 81a and Chullin 15a: *kesisah*
+  is eating in any abnormal or non-standard way. (Maharsha to Megillah 7b
+  suggests the plate there may simply have been edible.)
+- To Beitzah 26b: whatever can be eaten raw, eating it raw is *koses*.
+
+Rabbi Reuven Chaim Klein calls this second one a slightly different definition.
 
 Etymology: several philologists, among them Dr. Asher Weiser and Rabbi Yaakov
-Yehudah Zilberberg (*Di Kasif*), tie
-rabbinic כ-ס-ס to biblical ק-ס-ס, which occurs once, *yikoses*, of cutting down
-a metaphoric tree's fruit (Yechezkel 17:9). Rashi there links ק-ס-ס to ק-צ-ץ
-(cutting) by the samech/tzadi interchange; Mahari Kara links it to כ-ת-ת
-(smashing) by kuf/kaf and samech/tav. Ibn Janach and Radak take the root as
-triliteral; Menachem Ibn Saruk takes it as the biliteral ק-ס. Rabbi Shlomo
-Pappenheim (*Cheshek Shlomo*) implicitly follows the biliteral and defines ק-ס as "a cut
-tube": *yikoses* takes the cutting side; *keses* (a scribe's stylus, Yechezkel
-9:2, 9:11), *kesem* (a magic wand, or magical writings written with a *keses*),
-and *kisam* (toothpick) take the tube side, tubes cut
-lengthwise, while the *kesavos* of the Shulchan (Shemos 25:29, Bamidbar 4:7)
-are tubes cut across their width. He includes *kaskeses*, the scale of a kosher
-fish, in the same family.
+Yehudah Zilberberg (*Di Kasif*), tie rabbinic כ-ס-ס to biblical ק-ס-ס, which
+occurs once, *yikoses*, of cutting down a metaphoric tree's fruit (Yechezkel
+17:9).
+
+- Rashi there links ק-ס-ס to ק-צ-ץ (cutting) by the samech/tzadi interchange.
+- Mahari Kara links it to כ-ת-ת (smashing) by kuf/kaf and samech/tav.
+- Ibn Janach and Radak take the root as triliteral.
+- Menachem Ibn Saruk takes it as the biliteral ק-ס.
+- Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) implicitly follows the biliteral
+  and defines ק-ס as "a cut tube": *yikoses* takes the cutting side; *keses* (a
+  scribe's stylus, Yechezkel 9:2, 9:11), *kesem* (a magic wand, or magical
+  writings written with a *keses*), and *kisam* (toothpick) take the tube side,
+  tubes cut lengthwise, while the *kesavos* of the Shulchan (Shemos 25:29,
+  Bamidbar 4:7) are tubes cut across their width. He includes *kaskeses*, the
+  scale of a kosher fish, in the same family.
 
 Two extensions. *Kaskasa* is to crunch or crush between the teeth; the piyut
 *Elokei HaRuchos* of Rabbi Yosef Tuv-Elem of Bonfils, recited in some
@@ -110,13 +115,15 @@ chopped into small bits and mixed together.
 
 Also from this root, *kisnin*: Targum renders the biblical *nikkudim*, food
 provisions (Yehoshua 9:5, 9:12; Melachim I 14:3), as *kasnin*, and the halachic
-*pas haba'ah b'kisnin* (Berachos 42a) uses the same word. Radak (to Melachim I
-14:3) relates *kisnin* to *koses*: they are the sorts of treats one munches at
-a party or a wedding. Comparable definitions are cited in the name of Rabbeinu
-Chananel (*Ohr Zarua, Hilchos Berachos* 149) and Rav Hai Gaon (*Sefer HaNer* to
-Berachos 42a). Rabbi Moshe Tedeschi-Ashkenazi (*Ho'il Moshe* to Melachim I
-14:3) suggests a different tie to *koses*, since *kisnin* are a food that
-crumbles into small pieces.
+*pas haba'ah b'kisnin* (Berachos 42a) uses the same word.
+
+- Radak (to Melachim I 14:3) relates *kisnin* to *koses*: they are the sorts of
+  treats one munches at a party or a wedding. Comparable definitions are cited
+  in the name of Rabbeinu Chananel (*Ohr Zarua, Hilchos Berachos* 149) and Rav
+  Hai Gaon (*Sefer HaNer* to Berachos 42a).
+- Rabbi Moshe Tedeschi-Ashkenazi (*Ho'il Moshe* to Melachim I 14:3) suggests a
+  different tie to *koses*, since *kisnin* are a food that crumbles into small
+  pieces.
 
 ### lo'es / le'isah (לעס, לעיסה)
 Three times in the Mishnah. *Shabbos* 19:2: if cumin was not ground before
@@ -127,16 +134,18 @@ become chametz. Berachos 44b: spleen is good for the teeth and bad for the
 bowels, so chew it and spit it out, again with *lo'es*.
 
 Rashi twice defines it by the other word, to Pesachim 39b and to Berachos 44b:
-*lo'es* is *koses*. The root ל-ע-ס is Aramaic and Syriac for chewing and
-appears in Targum (to Koheles 12:3); beyond that its origin is obscure. Rabbi
-Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) explains *mitalot*, the molars that
-grind food right before one swallows, as a fusion of the biliterals ת-ל,
-hanging, and ל-ע, swallowing; he notes an affinity between that root and ל-ע-ט,
-to guzzle or gulp (*haliteini*, Bereishis 25:30, as his teacher Shadal notes
-there; *malitin*, force-feed, Mishnah *Shabbos* 24:3), and relates these roots
-as well to ל-ע-ס. Rabbi
-Avi Kobernick (*Hipuch Otiyos*) offers a speculative metathesis of ס-ל-ע, rock:
-a *sela* is what will not break down, and *lo'es* is precisely breaking down.
+*lo'es* is *koses*. The root ל-ע-ס is Aramaic and Syriac for chewing and appears
+in Targum (to Koheles 12:3); beyond that its origin is obscure.
+
+- Rabbi Moshe Tedeschi-Ashkenazi (*Otzar Nirdafim*) explains *mitalot*, the
+  molars that grind food right before one swallows, as a fusion of the
+  biliterals ת-ל, hanging, and ל-ע, swallowing; he notes an affinity between
+  that root and ל-ע-ט, to guzzle or gulp (*haliteini*, Bereishis 25:30, as his
+  teacher Shadal notes there; *malitin*, force-feed, Mishnah *Shabbos* 24:3),
+  and relates these roots as well to ל-ע-ס.
+- Rabbi Avi Kobernick (*Hipuch Otiyos*) offers a speculative metathesis of
+  ס-ל-ע, rock: a *sela* is what will not break down, and *lo'es* is precisely
+  breaking down.
 
 ### Are they synonyms?
 Rabbi Reuven Chaim Klein's own suggestion is that perhaps the two need no semantic

@@ -65,18 +65,22 @@ themselves see [youth](youth-naar-almah-elem.html).
 
 ## Where the authorities disagree
 
-**Whether naar and elem are one stage or two.** Ibn Janach and Radak (each in
-his *Sefer HaShorashim*): *naarah* and *almah* mean the same thing. Rabbi
-Shlomo Pappenheim's two roots also seem, on the surface, to land both words at the same point in life.
-Rabbi Yaakov Tzvi Mecklenburg, summarizing Pappenheim, grants that the stage is
-the same but splits the focus: *elem* names the showing of physical maturity,
-*naar* the coming of intellectual and spiritual maturity.
+**Whether naar and elem are one stage or two.**
 
-**The order of the stages.** Pappenheim's account runs *olel*, growing through
-childhood, then *elem*. *Midrash Tadshe* (ch. 6) instead sets *elem* after
-*naar* and inserts *roveh* between them, listing the stages of life as *yeled*,
-*naar*, *roveh*, *elem*, *ish*, *sav*, *zaken*. In the Midrash's list *yeled* is
-the earliest stage.
+- Ibn Janach and Radak (each in his *Sefer HaShorashim*): *naarah* and *almah*
+  mean the same thing.
+- Rabbi Shlomo Pappenheim's two roots also seem, on the surface, to land both
+  words at the same point in life.
+- Rabbi Yaakov Tzvi Mecklenburg, summarizing Pappenheim, grants that the stage
+  is the same but splits the focus: *elem* names the showing of physical
+  maturity, *naar* the coming of intellectual and spiritual maturity.
+
+**The order of the stages.**
+
+- Pappenheim's account runs *olel*, growing through childhood, then *elem*.
+- *Midrash Tadshe* (ch. 6) instead sets *elem* after *naar* and inserts *roveh*
+  between them, listing the stages of life as *yeled*, *naar*, *roveh*, *elem*,
+  *ish*, *sav*, *zaken*. In the Midrash's list *yeled* is the earliest stage.
 
 **How old a yeled is.**
 - Pappenheim: not necessarily any specific age, and Yishmael is called a *yeled*
@@ -114,16 +118,17 @@ yet reached twenty and was therefore not yet liable to punishment in the
 Heavenly Court.
 
 ### olel (עולל) and elem (עלם)
-Both from Pappenheim's biliteral ע-ל, "on top", the root behind *al*, *elyon*,
-*l'maalah*, *oleh*, *aleh* (a leaf, which grows on the branch), *ol* (a yoke,
-placed on the animal), *me'il* (a tunic worn over other clothes), and *na'al*
-(a shoe worn on the foot). An *olel* is the child already weaned from his
-mother's milk who now gets himself up to find or ask for food; he grows through
-childhood until he is an *elem*, grown up to nearly his full size. According to
-many commentators, *elem* and *almah* are related instead to *eilum* and
-*ne'elam*, hidden; Rav Hirsch (to Bereishis 13:15) explains that an *elem* is a
-young *naar* who has not yet matured, so that his potential remains hidden and
-unrealized.
+
+- Both from Pappenheim's biliteral ע-ל, "on top", the root behind *al*, *elyon*,
+  *l'maalah*, *oleh*, *aleh* (a leaf, which grows on the branch), *ol* (a yoke,
+  placed on the animal), *me'il* (a tunic worn over other clothes), and *na'al*
+  (a shoe worn on the foot). An *olel* is the child already weaned from his
+  mother's milk who now gets himself up to find or ask for food; he grows
+  through childhood until he is an *elem*, grown up to nearly his full size.
+- According to many commentators, *elem* and *almah* are related instead to
+  *eilum* and *ne'elam*, hidden; Rav Hirsch (to Bereishis 13:15) explains that
+  an *elem* is a young *naar* who has not yet matured, so that his potential
+  remains hidden and unrealized.
 
 ### naar (נער), for the contrast
 Pappenheim's root here is ע-ר, revealing: *va'te'ar* for emptying a jug and so

@@ -110,12 +110,14 @@ Bereishis 2:6.
   home, *nod* being the gear one takes along.
 
 ### nasi (נשיא)
-Literally "prince." Chazal: clouds play a sort of kingmaker, since whose field
-gets rain decides who prospers; because they appear to choose the "princes,"
-Tanach sometimes calls them *nesiim* (Tehillim 135:7, Mishlei 25:14).
-Pappenheim: the root is ש-א, carrying or lifting, either because these clouds
-carry rainwater from place to place, or because they are light enough to rise,
-as against heavy clouds that tend to come down like fog.
+Literally "prince."
+
+- Chazal: clouds play a sort of kingmaker, since whose field gets rain decides
+  who prospers; because they appear to choose the "princes," Tanach sometimes
+  calls them *nesiim* (Tehillim 135:7, Mishlei 25:14).
+- Pappenheim: the root is ש-א, carrying or lifting, either because these clouds
+  carry rainwater from place to place, or because they are light enough to rise,
+  as against heavy clouds that tend to come down like fog.
 
 ### chaziz (חזיז)
 Iyov 28:26, Zechariah 10:1.

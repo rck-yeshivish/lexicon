@@ -84,16 +84,17 @@ an extraneous alef: a call gets attention and so brings about a meeting, an
 impact; likewise *likras*, moving toward a meeting.
 
 On *keri* in Vayikra 26 (26:21, 26:23, 26:24, 26:27-28, 26:40-41, and nowhere
-else in Tanach) there are two readings. Many commentators, Rav Hirsch (to
-Bereishis 42:4 and
-Vayikra 26:21) among them: *keri* is serving Hashem in a
-non-deliberate, glib way, and the measure-for-measure is that Hashem deals
-back offhandedly. Rabbi Shlomo Pappenheim takes a slightly different approach:
-*keri* is the sinner's
-antagonistic posture, an attempt to anger Hashem through his actions, so that
-the problem is twofold, the sin itself and the attitude behind it; the
-word then carries his "stronger impact" and draws a stronger response. Rabbi
-Klein leaves both standing.
+else in Tanach) there are two readings.
+
+- Many commentators, Rav Hirsch (to Bereishis 42:4 and Vayikra 26:21) among
+  them: *keri* is serving Hashem in a non-deliberate, glib way, and the
+  measure-for-measure is that Hashem deals back offhandedly.
+- Rabbi Shlomo Pappenheim takes a slightly different approach: *keri* is the
+  sinner's antagonistic posture, an attempt to anger Hashem through his actions,
+  so that the problem is twofold, the sin itself and the attitude behind it; the
+  word then carries his "stronger impact" and draws a stronger response.
+
+Rabbi Klein leaves both standing.
 
 In the Mishnah *keri* means a seminal emission (*Berachos* 3:4-6, *Terumos*
 1:6, *Avodah Zarah* 3:4, *Avos* 5:5, *Tamid* 1:1, *Middos* 1:9, *Keilim* 1:5,
@@ -117,18 +118,22 @@ Root א-נ-ה. Tanach uses the verb: "no evil shall befall you" (Tehillim 91:10)
 "no misfortune will befall the righteous" (Mishlei 12:21), and *inah l'yado* of
 the inadvertent killer whose exile Hashem arranges (Shemos 21:13). Rashi there
 describes the arrangement: Hashem brings the deliberate murderer and the
-inadvertent killer together so that each receives his due. Malbim (*Sefer
-HaCarmel*): *mikreh* is the meeting-point of things, while
-*te'unah* is the confluence of an incident's **causes**. Rabbi Klein glosses the
-first as perhaps the more physical impact of Rabbi Pappenheim's reading, and the
-second as seemingly a more abstract coming-together of factors. Malbim illustrates
-the distinction from Shemos 21:13: Hashem does not
-transport the killer to the Ir Miklat, He assembles the circumstances that will
-send him there. The same root א-נ-ה yields
-*anah*, "where?", of an unknown location, and Rabbi Shaul Goldman accounts for the pairing by saying
-that *te'unah* looks not so much at an event's causes or effects as at the
-unpredictability of its landing place, the arbitrary "where" of it. Modern Hebrew
-*te'unas derachim*, literally an occurrence of the roads, is this word.
+inadvertent killer together so that each receives his due.
+
+- Malbim (*Sefer HaCarmel*): *mikreh* is the meeting-point of things, while
+  *te'unah* is the confluence of an incident's **causes**. Rabbi Klein glosses
+  the first as perhaps the more physical impact of Rabbi Pappenheim's reading,
+  and the second as seemingly a more abstract coming-together of factors. Malbim
+  illustrates the distinction from Shemos 21:13: Hashem does not transport the
+  killer to the Ir Miklat, He assembles the circumstances that will send him
+  there.
+- The same root א-נ-ה yields *anah*, "where?", of an unknown location, and Rabbi
+  Shaul Goldman accounts for the pairing by saying that *te'unah* looks not so
+  much at an event's causes or effects as at the unpredictability of its landing
+  place, the arbitrary "where" of it.
+
+Modern Hebrew *te'unas derachim*, literally an occurrence of the roads, is this
+word.
 
 ### i'rua (אירוע)
 Root א-ר-ע. Not in Tanach; the verb is Mishnaic. Five things *ir'u* on the
