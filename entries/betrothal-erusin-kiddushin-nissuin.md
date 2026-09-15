@@ -10,7 +10,7 @@ words:
     nk: אֲרוּסָה
 sources:
   - wiaw:8883 "Holy Matrimony" (2020-10-03) https://articles.ohr.edu/articles/holy-matrimony
-authorities: [Rabbanan Savorai, Tosafos, Rashi, Rav Hirsch, Rabbi Yitzchak Vana, Rabbi Alexander Sender Shor, Rabbi Elazar Moshe Horowitz, Taz, Rabbi Avraham HaLevi of Barcelona, Rabbi Yosef Ibn Ezra, Rabbi Eliezer Ashkenazi, Rabbi Shalom Mansoura, Rabbi Yitzchak Ratzabi, Rabbi Baruch HaLevi Epstein, Shamma Friedman, Michael Satlow]
+authorities: [Rabbanan Savorai, Tosafos, Rashi, Rav Hirsch, Rabbi Yitzchak Vana, Rabbi Alexander Sender Shor, Rabbi Elazar Moshe Horowitz, Taz, Rabbi Aharon HaLevi of Barcelona, Rabbi Yosef Ibn Ezra, Rabbi Eliezer Ashkenazi, Rabbi Shalom Mansoura, Rabbi Yitzchak Ratzabi, Rabbi Baruch HaLevi Epstein, Shamma Friedman, Michael Satlow]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -83,7 +83,7 @@ to the Akkadian *qadistu*, "woman of special status," a definition that fits
 both a harlot and a wife, which led Professor Shamma Friedman of the Academy of
 the Hebrew Language to entertain it as a possible etymology for *kiddushin*
 itself. Either way, these approaches hold that *kiddushin* has nothing to do
-with holiness or consecration as such. Two supports: Rabbi Avraham HaLevi of Barcelona
+with holiness or consecration as such. Two supports: Rabbi Aharon HaLevi of Barcelona
 (*Chiddushei HaRa'ah* to *Kiddushin* 2b) and Rabbi Yosef Ibn Ezra (*Atzmos
 Yosef*) note that if *mekudeshes* meant consecrated, the groom would be
 forbidding her to himself, which he plainly does not intend; and Rabbi Eliezer

@@ -7,7 +7,7 @@ english: [almond, almond tree, hazel, watchful, diligent, vigilant]
 domain: nature
 sources:
   - wiaw:9436 "Almonds in the Bible" (2021-11-13) https://articles.ohr.edu/articles/almonds-in-the-bible
-authorities: [Rabbi Saadia Gaon, Radak, Ibn Ezra, Menachem Ibn Saruk, Rashi, Tosafos, Ibn Janach, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Targum Onkelos, Targum Yonasan, Targum Neofiti, Rabbi J. D. Eisenstein, Avraham Even-Shoshan, Gary Rensburg, Joshua D. Klein, Solomon Löwisohn]
+authorities: [Rabbi Saadia Gaon, Radak, Ibn Ezra, Menachem Ibn Saruk, Rashi, Tosafos, Ibn Janach, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Targum Onkelos, Targum Yonasan, Targum Neofiti, Rabbi J. D. Eisenstein, Avraham Even-Shoshan, Gary Rendsburg, Joshua D. Klein, Solomon Löwisohn]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -77,7 +77,7 @@ render the *shekeidim* of Bereishis 43:11 as *meshach diluzin*, almond oil or
 butter, and the *shekeidim* of Bamidbar 17:23 as *luzin*.
 
 On that reading, Rabbi Klein says, it seems *luz* is Aramaic and *shaked* Hebrew,
-and the two mean exactly the same thing. Dr. Gary Rensburg of Rutgers University
+and the two mean exactly the same thing. Dr. Gary Rendsburg of Rutgers University
 adds that the Torah nonetheless uses the Aramaic *luz* in the story of how Lavan
 the Aramean tried to swindle Yaakov because the story happened in Aram, the home
 of Aramaic, so that an Aramaic word in an Aramean setting lends the account
@@ -166,4 +166,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Almonds in the Bible](https://articles.ohr.edu/articles/almonds-in-the-bible)," *What's in a Word?*, Ohr Somayach, 13 November 2021.
 
-Cited in the essay: Bereishis 24:65, 28:19, 30:37 to 38, 37:19, 43:11; Shemos 25:33 to 34, 37:19 to 20; Bamidbar 17:23; Shoftim 1:23 to 26; Yirmiyahu 1:11 to 12 with Rashi; Yechezkel 36:35; Zecharyah 2:8; Koheles 12:5 in Targum; Bechoros 8a with Rashi and Tosafos; Yerushalmi Taanis 4:5; *Bereishis Rabbah* 69:8; Midrash *Sechel Tov*; *Mateh Moshe* 513; Targum Onkelos, Targum Yonasan and Targum Neofiti to Bereishis 43:11 and Bamidbar 17:23; Radak and Ibn Ezra to Bereishis 30:37, citing Rabbi Saadia Gaon; *Machberes Menachem*; Even-Shoshan's dictionary; Dr. Gary Rensburg; Dr. Joshua D. Klein; Solomon Löwisohn.
+Cited in the essay: Bereishis 24:65, 28:19, 30:37 to 38, 37:19, 43:11; Shemos 25:33 to 34, 37:19 to 20; Bamidbar 17:23; Shoftim 1:23 to 26; Yirmiyahu 1:11 to 12 with Rashi; Yechezkel 36:35; Zecharyah 2:8; Koheles 12:5 in Targum; Bechoros 8a with Rashi and Tosafos; Yerushalmi Taanis 4:5; *Bereishis Rabbah* 69:8; Midrash *Sechel Tov*; *Mateh Moshe* 513; Targum Onkelos, Targum Yonasan and Targum Neofiti to Bereishis 43:11 and Bamidbar 17:23; Radak and Ibn Ezra to Bereishis 30:37, citing Rabbi Saadia Gaon; *Machberes Menachem*; Even-Shoshan's dictionary; Dr. Gary Rendsburg; Dr. Joshua D. Klein; Solomon Löwisohn.
