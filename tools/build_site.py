@@ -455,7 +455,8 @@ def entry_page(e):
             n = len(subs) + 1
             text = m.group(1)
             he = re.search(r"\(([^()]*[֐-׿][^()]*)\)\s*$", text)
-            if he:
+            # Only "name (Hebrew)"; a heading naming two words keeps its text.
+            if he and "(" not in text[:he.start()]:
                 label = (f'<span class="th" dir="rtl" lang="he">{he.group(1)}</span>'
                          f'<span class="tt">{text[:he.start()].strip()}</span>')
             else:
@@ -464,8 +465,18 @@ def entry_page(e):
             return f'<h3 id="d-{n}">{text}</h3>'
         return re.sub(r"<h3>(.*?)</h3>", tag, block), subs
 
+    # Where the entry has word cards they come first: they are the easiest thing
+    # on the page to read, and the Bottom line mostly restates them. It follows
+    # as a plain "In short" for what the cards do not carry (how the words
+    # relate, and any dispute). The markdown keeps its order either way.
+    has_cards = any(h == "At a glance" and glance_cards(m) for h, m in e["sections"])
+    deferred = None
     for headname, mdtext in e["sections"]:
         if headname == "Notes for a project" and mdtext.strip() in ("None yet.", ""):
+            continue
+        if headname == "Bottom line" and has_cards:
+            deferred = (f'<section class="inshort" id="s-in-short"><h2>In short</h2>{md(mdtext)}</section>',
+                        ("s-in-short", "In short", []))
             continue
         if headname == "Sources" and XREF.get(e["slug"]):
             # Other entries that discuss the same word or root, so a reader can
@@ -491,6 +502,10 @@ def entry_page(e):
         if headname == "At a glance" and glance_cards(mdtext):
             parts.append(f'<section class="glance" id="{i}"><h2>At a glance</h2>{glance_cards(mdtext)}</section>')
             toc.append((i, headname, []))
+            if deferred:
+                parts.append(deferred[0])
+                toc.append(deferred[1])
+                deferred = None
             continue
         body, subs = md(mdtext), []
         if headname == "Distinctions":
@@ -599,7 +614,7 @@ def main():
     <input id="q" type="search" placeholder="Type Hebrew or English&hellip;" autocomplete="off" spellcheck="false" dir="auto">
     <div id="ac" class="ac" hidden></div>
   </div>
-  <p class="hint">Try <button class="chip" data-q="בושה">בושה</button>
+  <p class="hint">Try <button class="chip" lang="he" data-q="בושה">בושה</button>
     <button class="chip" data-q="chochmah">chochmah</button>
     <button class="chip" data-q="humiliation">humiliation</button></p>
   <script type="application/json" id="try-pool">{try_pool}</script>
@@ -950,8 +965,8 @@ header.bare .brand{flex:1}
 .prose h3{font-size:18px}
 .eyebrow{color:var(--faint);font-size:13px;text-transform:uppercase;letter-spacing:.07em;margin:0 0 8px}
 .entry h1{font-size:38px;letter-spacing:-.021em;font-weight:600;margin:0 0 6px;text-transform:capitalize}
-.heb-title{font-family:var(--heb);font-size:32px;font-weight:500;line-height:1.3;color:var(--ink);
-  margin:0 0 30px;direction:ltr;text-align:left;display:flex;flex-wrap:wrap;align-items:baseline;gap:0 28px}
+.heb-title{font-family:var(--heb);font-size:30px;font-weight:400;line-height:1.3;
+  color:color-mix(in srgb,var(--ink) 72%,var(--bg));margin:2px 0 30px;direction:ltr;text-align:left;display:flex;flex-wrap:wrap;align-items:baseline;gap:0 28px}
 .wcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px}
 .wcard{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px 16px}
 .wh{font-family:var(--heb);font-size:34px;font-weight:500;line-height:1.15;text-align:right}
@@ -987,7 +1002,7 @@ header.bare .brand{flex:1}
   .toc .th+.tt{font-size:12.5px;color:var(--faint);font-style:italic}
 }
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
-@media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:30px}.heb-title{font-size:27px;gap:0 22px}}
+@media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:30px}.heb-title{font-size:26px;gap:0 22px}}
 .entry section{margin:0 0 34px}
 .entry h2{font-size:13px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
   font-weight:600;margin:0 0 12px;padding-bottom:8px;border-bottom:1px solid var(--line)}
@@ -1003,6 +1018,12 @@ header.bare .brand{flex:1}
   padding:22px 24px 8px;box-shadow:var(--shadow)}
 .bottomline h2{border:0;padding:0}
 .bottomline p{font-size:18px}
+.inshort p{color:var(--ink)}
+/* Hebrew inside English text (a gloss in a sentence, the Also-discussed roots,
+   the Hebrew "Try" chip) takes the Hebrew face too, a touch larger, since a
+   serif Hebrew set at the sans size reads small beside it. */
+[lang="he"]{font-family:var(--heb)}
+:not([lang="he"]) > bdi[lang="he"]{font-size:1.08em;line-height:1}
 .disagree{border-left:3px solid var(--line);padding-left:20px}
 .tablewrap{overflow-x:auto;margin:0 0 16px}
 details.guide{margin:28px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
