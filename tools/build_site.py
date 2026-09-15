@@ -443,10 +443,12 @@ def entry_page(e):
     heb = "".join(f'<span dir="rtl">{html.escape(h)}</span>' for h in e["hebrew"][:6])
     anchors = "".join(
         f'<span id="{html.escape(strip_heb(h))}"></span>' for h in e["hebrew"])
+    # "other" is the catch-all domain and tells a reader nothing, so it gets no label.
+    title = e["cluster"]
+    eyebrow = "" if e["domain"] == "other" else f'<p class="eyebrow">{html.escape(e["domain"])}</p>\n'
     parts = [f'''<article class="entry">
 {anchors}
-<p class="eyebrow">{html.escape(e["domain"])}</p>
-<h1>{html.escape(e["cluster"])}</h1>''']
+{eyebrow}<h1>{html.escape(title)}</h1>''']
     # Where the entry has word cards they come first: they are the easiest thing
     # on the page to read, and the Bottom line mostly restates them. It follows
     # as a plain "In short" for what the cards do not carry (how the words
@@ -476,7 +478,10 @@ def entry_page(e):
 
         def tag(m):
             n = len(subs) + 1
-            text = m.group(1)
+            # Some entries open a heading lowercase ("tzvi (צבי)", "the two-letter
+            # root"), others capitalised ("Sinai (סיני)"); shown, they start with
+            # a capital like every other heading and link on the page.
+            text = re.sub(r"^((?:<[^>]+>)*)([a-z])", lambda mm: mm.group(1) + mm.group(2).upper(), m.group(1))
             # The heading as written, in one style for every link. Pulling the
             # Hebrew out to the front only worked for "name (Hebrew)" headings,
             # and the rail came out mixed wherever a heading was shaped otherwise.
@@ -537,7 +542,7 @@ def entry_page(e):
     nav = (f'<nav class="toc" aria-label="On this page"><p class="toc-h">On this page</p>'
            f'<ul>{"".join(links)}</ul></nav>')
     page = f'<div class="entry-layout">{nav}\n' + "\n".join(parts) + "</div>"
-    return shell(f'{e["cluster"]} — What’s in a Word?', page, depth=1, active="")
+    return shell(f'{title} — What’s in a Word?', page, depth=1, active="")
 
 
 # ------------------------------------------------------------------------ build
