@@ -46,8 +46,9 @@ Root פ-ד-ה.
 
 A note on spelling: *podeh* is
 generally spelled with a heh, but in one place (Iyov 33:24) Scripture replaces
-the heh with an ayin (פדע). Rashi there and Ramban (to Shemos 21:14) explain
-that ayin and heh are interchangeable letters, so it is the same word. Ibn
+the heh with an ayin (פדע). Rashi there reads *pedaehu* as *pedahu*, the ayin
+standing for an interchangeable aleph, and Ramban (to Shemos 21:14) likewise
+treats it as the same word. Ibn
 Janach, Menachem ibn Saruk, and Radak, however, have separate entries for the
 heh form and the ayin form in their lexicons of Hebrew roots, implying that they
 understand the latter to be a separate word; and to this effect Malbim writes
