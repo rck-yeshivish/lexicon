@@ -70,32 +70,36 @@ the **hatchets**, both appearing once only, together in one pasuk. *Maatzad* and
 Four-letter roots are generally reckoned rare in Hebrew and are often explained
 by the commentators as loanwords from foreign languages.
 
-**What a *kardum* is.** The Mishnah's description (Keilim 13:3) suggests a
-double-sided tool, adze one way and axe the other, and Radak (to Shmuel I 13:20)
-says the same applies to the Biblical *kardum*. Ibn Janach defines it a
-"spade," which Radak rejects; Rabbi Klein suggests that the later Rabbinic
-digging sense is likely what led Ibn Janach there. That
-digging sense is Rabbinic and not attested in Tanach: Avos 4:5 warns against
-making Torah a *kardum* to dig with.
+**What a *kardum* is.**
+- The Mishnah's description (Keilim 13:3) suggests a double-sided tool, adze one
+  way and axe the other, and Radak (to Shmuel I 13:20) says the same applies to
+  the Biblical *kardum*.
+- Ibn Janach defines it a "spade," which Radak rejects; Rabbi Klein suggests
+  that the later Rabbinic digging sense is likely what led Ibn Janach there.
+
+That digging sense is Rabbinic and not attested in Tanach: Avos 4:5 warns
+against making Torah a *kardum* to dig with.
 
 **How *garzen* and *kardum* divide the work.** Dr. Aaron J. Koller argues from the
 principle that languages tend to avoid absolute synonyms that *garzen* is the
 "large ax" used to fell a tree, while *kardum* is the "smaller ax" used to cut
 the fallen log into pieces and chop off protruding branches.
 
-**Whose tool the *maatzad* is.** Rashi (to Yeshayahu 44:12) makes it one of the
-blacksmith's tools, and elsewhere (to Shabbos 102b) a type of large *kurnas*.
-Against this, Dr. Koller notes that the Mishnah always has the *maatzad* in a
-woodworker's hand (Shabbos 12:1, Bava Kamma 10:10, Erchin 6:3, Keilim 13:4,
-29:6). Both of its appearances in Tanach, too, are in the prophets' mockery of
-idol-makers, where a carpenter is carving wood (Yeshayahu 44:12, Yirmiyahu 10:3).
-Koller's resolution of the Yeshayahu context is that the tool is *made* by a
-blacksmith even though it is *used* by the woodworker.
+**Whose tool the *maatzad* is.**
+- Rashi (to Yeshayahu 44:12) makes it one of the blacksmith's tools, and
+  elsewhere (to Shabbos 102b) a type of large *kurnas*.
+- Against this, Dr. Koller notes that the Mishnah always has the *maatzad* in a
+  woodworker's hand (Shabbos 12:1, Bava Kamma 10:10, Erchin 6:3, Keilim 13:4,
+  29:6). Both of its appearances in Tanach, too, are in the prophets' mockery of
+  idol-makers, where a carpenter is carving wood (Yeshayahu 44:12, Yirmiyahu
+  10:3). Koller's resolution of the Yeshayahu context is that the tool is *made*
+  by a blacksmith even though it is *used* by the woodworker.
 
-**What *kashil* and *keilapot* are.** Menachem Ibn Saruk understands both as
-names of weapons. Donash Ibn Labrat disagrees and, in Rabbi Klein's judgment,
-correctly identifies them as woodcutters' tools; the Mishnah (Bava Kamma 10:10)
-uses *kashil* beside *maatzad* for a woodworker's tools.
+**What *kashil* and *keilapot* are.**
+- Menachem Ibn Saruk understands both as names of weapons.
+- Donash Ibn Labrat disagrees and, in Rabbi Klein's judgment, correctly
+  identifies them as woodcutters' tools; the Mishnah (Bava Kamma 10:10) uses
+  *kashil* beside *maatzad* for a woodworker's tools.
 
 ## Distinctions
 

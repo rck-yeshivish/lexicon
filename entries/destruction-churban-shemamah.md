@@ -50,29 +50,36 @@ both in one pasuk: "I will make your cities a ruin (*charbah*) and lay your sanc
 ## Distinctions
 
 ### churban (חורבן), charbah (חרבה)
-Root ח-ר-ב. Malbim: *churban* is the word commonly applied to the destruction of
-a built-up urban area, and it is the milder of the pair. Rabbi Shlomo Pappenheim (1740 to
-1814) reads it differently: *churban* names a thing that is not
-damaged in itself but has been severed from something outside it that it needed
-in order to thrive. A ghost town wholly intact but abandoned can be considered
-a *churban*; it is destroyed with nothing about it looking destroyed. On the same logic an arid
-land is a *charbah*, its barrenness owing not to a defect in the soil but to its
-being cut off from rain. *Shoresh Yesha* takes the core of ח-ר-ב as destruction,
-the opposite of something living and thriving, which accounts for the root's
-other senses: *cherev*, the sword, is the implement that brings destruction about,
-and dryness belongs because what is totally dry and juiceless withers away and
-fails to live and thrive. Rabbi Pappenheim puts forth an explanation similar to
-this one.
+Root ח-ר-ב.
+
+- Malbim: *churban* is the word commonly applied to the destruction of a
+  built-up urban area, and it is the milder of the pair.
+- Rabbi Shlomo Pappenheim (1740 to 1814) reads it differently: *churban* names a
+  thing that is not damaged in itself but has been severed from something
+  outside it that it needed in order to thrive. A ghost town wholly intact but
+  abandoned can be considered a *churban*; it is destroyed with nothing about it
+  looking destroyed. On the same logic an arid land is a *charbah*, its
+  barrenness owing not to a defect in the soil but to its being cut off from
+  rain.
+- *Shoresh Yesha* takes the core of ח-ר-ב as destruction, the opposite of
+  something living and thriving, which accounts for the root's other senses:
+  *cherev*, the sword, is the implement that brings destruction about, and
+  dryness belongs because what is totally dry and juiceless withers away and
+  fails to live and thrive. Rabbi Pappenheim puts forth an explanation similar
+  to this one.
 
 ### shemamah (שממה)
-Root ש-מ-ם. Malbim: the general term for the utter desolation of a land, and
-more severe than *churban*. Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865):
-*shemamah* is specifically destruction that shows, so a land or building
-physically wrecked is *shamem*, because whoever sees it registers the ruin at
-once. Radak (*Sefer HaShorashim*) notes that the root carries two senses,
-destruction and astonishment, the latter in *mishtomem*, a man taken aback.
-Mecklenburg joins them: one who comes upon utter ruin stands dumbfounded at the
-sight. *Shemamah* is destruction in the eye of the beholder.
+Root ש-מ-ם.
+
+- Malbim: the general term for the utter desolation of a land, and more severe
+  than *churban*.
+- Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865): *shemamah* is specifically
+  destruction that shows, so a land or building physically wrecked is *shamem*,
+  because whoever sees it registers the ruin at once. Radak (*Sefer
+  HaShorashim*) notes that the root carries two senses, destruction and
+  astonishment, the latter in *mishtomem*, a man taken aback. Mecklenburg joins
+  them: one who comes upon utter ruin stands dumbfounded at the sight.
+  *Shemamah* is destruction in the eye of the beholder.
 
 ### the two words on the Beis HaMikdash
 Just as a man's *neshamah* is his lifeline to the Upper

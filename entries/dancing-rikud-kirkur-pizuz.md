@@ -72,11 +72,14 @@ side-to-side shake of a sieve looks like the side-to-side motion of a dancer.
   spread.
 
 A near-variant is *tiratzdun*, "why do you dance, O peaks" (Tehillim 68:17),
-root ר-צ-ד, a *hapax*. Menachem Ibn Saruk and Radak both define it with
-*rekidah* (see also *Megillah* 29a); Tedeschi-Ashkenazi sees it as a
-morphological variant of ר-ק-ד, on the presumed interchangeability of the
-consecutive letters *tzadi* and *kuf*, pointing to the near-synonymity of
-*tzalui* ("roasted") and *kalui* ("burnt, toasted") as another example.
+root ר-צ-ד, a *hapax*.
+
+- Menachem Ibn Saruk and Radak both define it with *rekidah* (see also
+  *Megillah* 29a).
+- Tedeschi-Ashkenazi sees it as a morphological variant of ר-ק-ד, on the
+  presumed interchangeability of the consecutive letters *tzadi* and *kuf*,
+  pointing to the near-synonymity of *tzalui* ("roasted") and *kalui* ("burnt,
+  toasted") as another example.
 
 The Gemara's uses of *rikud* are worth knowing: the Satan dances between the
 horns of a black ox coming out of the marsh in Nisan (*Berachos* 33a, *Pesachim*
@@ -154,13 +157,14 @@ dance with all their might. Coming off that, Rabbi Tanchum HaYerushalmi reads th
 Yosef pasuk as his strengthening himself to defeat his *yetzer hara* and not
 accede to the wife of Potifar.
 
-Rashbam (to Bereishis 49:24) divides the two: *mifazez* is the
-movements of the hands, *micharker* the movements of the feet. Rabbi Tanchum
-explains similarly, that *mifazez* is not merely bopping about with the body as
-*miraked* is, but also the moving of the hands and fingers in time with the feet,
-and snapping the fingers to produce a rhythm fitting the tempo of the dance and
-the song. *Bamidbar Rabbah* 4:20 seems to read David's *mifazez* the same way,
-of the rhythmic jingling of his golden garments as he swayed.
+- Rashbam (to Bereishis 49:24) divides the two: *mifazez* is the movements of
+  the hands, *micharker* the movements of the feet.
+- Rabbi Tanchum explains similarly, that *mifazez* is not merely bopping about
+  with the body as *miraked* is, but also the moving of the hands and fingers in
+  time with the feet, and snapping the fingers to produce a rhythm fitting the
+  tempo of the dance and the song.
+- *Bamidbar Rabbah* 4:20 seems to read David's *mifazez* the same way, of the
+  rhythmic jingling of his golden garments as he swayed.
 
 ## Rendering guidance
 

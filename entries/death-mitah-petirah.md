@@ -41,13 +41,16 @@ continuation. *Nifter* is "passed away" or "departed."
 ## Distinctions
 
 ### mitah (מיתה), maves (מות), meis (מת)
-*Maves* is a good test case for how the lexicographers found roots. The
-triliteralists (Rabbi Yehuda Chayyuj, Ibn Janach, Ibn Parchon, Radak) trace it to
-מ-ו-ת; the biliteralists (Menachem ibn Saruk in *Machberes Menachem*, Rabbi
-Shlomo Pappenheim in *Yerios Shlomo* and *Cheshek Shlomo*) to מ-ת. Cognates of
-these roots appear close to a thousand times in Tanach, by Even Shoshan's
-concordance. Declensions of *maves*/*mitah* occur twenty-four times in Acharei
-Mos and Kedoshim (Vayikra 16-20), more than in any other two consecutive
+*Maves* is a good test case for how the lexicographers found roots.
+
+- The triliteralists (Rabbi Yehuda Chayyuj, Ibn Janach, Ibn Parchon, Radak)
+  trace it to מ-ו-ת.
+- the biliteralists (Menachem ibn Saruk in *Machberes Menachem*, Rabbi Shlomo
+  Pappenheim in *Yerios Shlomo* and *Cheshek Shlomo*) to מ-ת.
+
+Cognates of these roots appear close to a thousand times in Tanach, by Even
+Shoshan's concordance. Declensions of *maves*/*mitah* occur twenty-four times in
+Acharei Mos and Kedoshim (Vayikra 16-20), more than in any other two consecutive
 parshiyos, and the sidra opens *acharei mos* the two sons of Aharon (Vayikra
 16:1).
 

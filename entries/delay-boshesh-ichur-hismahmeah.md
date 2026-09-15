@@ -49,11 +49,13 @@ Pappenheim reads it as the one delay that can be right. Shemos 32:1 says
 ## Distinctions
 
 ### ichur (איחור)
-From *achar*, after. Rabbi Shlomo Pappenheim: *ichur* is neutral, meaning only
-that a point in time has passed, with no verdict on whether the tardiness was
-excusable. Malbim: *ichur* is anything past a pre-set time. Rabbi Yehuda Leib
-Shapira-Frankfurter (*HaRechasim LeVik'ah*): *ichur* is an acceptable
-lateness, what we would call fashionably late.
+From *achar*, after.
+
+- Rabbi Shlomo Pappenheim: *ichur* is neutral, meaning only that a point in time
+  has passed, with no verdict on whether the tardiness was excusable.
+- Malbim: *ichur* is anything past a pre-set time.
+- Rabbi Yehuda Leib Shapira-Frankfurter (*HaRechasim LeVik'ah*): *ichur* is an
+  acceptable lateness, what we would call fashionably late.
 
 Rabbi Yaakov Tzvi Mecklenburg quotes an elaborate discussion of these words from
 the writings of R' Naftali Hertz (Wessely) Weisel, a figure often maligned as a
@@ -67,21 +69,25 @@ reality his delay is better characterized as an *ichur*, since he was
 deliberately staying to bask in Torah.
 
 ### boshesh (בושש)
-Rashi (to Shemos 32:1) glosses *boshesh* as an expression of *ichur* without
-saying what separates them. Rabbi Yehuda Leib Shapira-Frankfurter: *boshesh* is
-an excessive delay, hours upon hours; Malbim similarly, a lateness beyond
-the lateness. Rabbi Shlomo Pappenheim: *boshesh* is the delay one ought to be
-ashamed of, tying it directly to *bushah*.
+- Rashi (to Shemos 32:1) glosses *boshesh* as an expression of *ichur* without
+  saying what separates them.
+- Rabbi Yehuda Leib Shapira-Frankfurter: *boshesh* is an excessive delay, hours
+  upon hours.
+- Malbim similarly, a lateness beyond the lateness.
+- Rabbi Shlomo Pappenheim: *boshesh* is the delay one ought to be ashamed of,
+  tying it directly to *bushah*.
 
 The Midrash (*Bereishis Rabbah* 18:6) parses *boshesh* as *ba'u shesh sha'os*,
-"six hours have come," the people reckoning that midday had passed and Moshe
-was still not there. Rabbi Chanoch Zundel of Bialystok (*Eitz Yosef*) explains
-the derashah's warrant: the Torah's use of *boshesh* where *ichur* was expected
-screams for further interpretation, and the Midrash fills that lacuna. Rabbi
-Yehuda Leib Shapira-Frankfurter, on his own supposition that *boshesh* denotes
-excessive lateness, suggests that perhaps the appearance of this word is what led
-Chazal to assume the people thought Moshe was late by many hours: not late, but
-very late.
+"six hours have come," the people reckoning that midday had passed and Moshe was
+still not there.
+
+- Rabbi Chanoch Zundel of Bialystok (*Eitz Yosef*) explains the derashah's
+  warrant: the Torah's use of *boshesh* where *ichur* was expected screams for
+  further interpretation, and the Midrash fills that lacuna.
+- Rabbi Yehuda Leib Shapira-Frankfurter, on his own supposition that *boshesh*
+  denotes excessive lateness, suggests that perhaps the appearance of this word
+  is what led Chazal to assume the people thought Moshe was late by many hours:
+  not late, but very late.
 
 Rabbi Avraham Saba (*Tzror HaMor*) reads *boshesh* against Aramaic *bshash*,
 food without salt or seasoning, and hears in the word choice the Erev Rav's
@@ -94,14 +100,15 @@ Shemos 32:1, while Rashi proves it from Shoftim 5:28, and *Maadanei Yom Tov*
 asks why Rashi passed over the pasuk in Shemos.
 
 ### hismahmeah (התמהמה)
-Rabbi Yehuda Leib Shapira-Frankfurter: a delay caused by moving slower than
-one should, dawdling where speed was called for. His cases are Lot dragging his
-feet leaving Sedom (Bereishis 19:16) and David holding back his flight from
-Avshalom to hear from Achimaatz (Shmuel II 15:28). Rabbi Shlomo Pappenheim
-looks at it differently: *hismahmeah* is a delay that is positive and at
-times the right thing to do. He ties it to the biliteral מ-ה, *mah*, "what," an
-expression of uncertainty: one who is *hismahmeah* is standing about doing
-nothing in particular because he is still asking himself what he ought to do.
+- Rabbi Yehuda Leib Shapira-Frankfurter: a delay caused by moving slower than
+  one should, dawdling where speed was called for. His cases are Lot dragging
+  his feet leaving Sedom (Bereishis 19:16) and David holding back his flight
+  from Avshalom to hear from Achimaatz (Shmuel II 15:28).
+- Rabbi Shlomo Pappenheim looks at it differently: *hismahmeah* is a delay that
+  is positive and at times the right thing to do. He ties it to the biliteral
+  מ-ה, *mah*, "what," an expression of uncertainty: one who is *hismahmeah* is
+  standing about doing nothing in particular because he is still asking himself
+  what he ought to do.
 
 ### boshesh and bushah
 Five accounts of why the same root gives lateness and shame.

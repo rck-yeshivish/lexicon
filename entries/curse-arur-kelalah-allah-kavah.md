@@ -70,27 +70,29 @@ word; Shemos 22:27 uses both of them in a single pasuk.
   man's yield.
 
 ### kelalah (קללה)
-The Vilna Gaon: *kelalah* is colloquially "curse" but literally a diminutive,
-something one invokes to belittle another and not truly a curse at all, from
-*kal*, light or easy; one who utters a *kelalah* about another dismisses him as
-unimportant. The Torah uses it for cursing a judge, since the harm a judge can
-do a man is not usually so damaging, the more so as society always strives to
-appoint upright judges, and the wronged party will make do with disparaging him
-rather than actually cursing him.
-Rabbi Mecklenburg: *kelalah* is the specific curse and cannot stand alone; the
-one who curses must say in what way the curse should take effect. On his reading
-it applies only to something that physically exists. This is how he reads
-Bereishis 12:3, that whoever curses Avraham with a specific *kelalah* receives an
-all-encompassing *arur* from Above.
+- The Vilna Gaon: *kelalah* is colloquially "curse" but literally a diminutive,
+  something one invokes to belittle another and not truly a curse at all, from
+  *kal*, light or easy; one who utters a *kelalah* about another dismisses him
+  as unimportant. The Torah uses it for cursing a judge, since the harm a judge
+  can do a man is not usually so damaging, the more so as society always strives
+  to appoint upright judges, and the wronged party will make do with disparaging
+  him rather than actually cursing him.
+- Rabbi Mecklenburg: *kelalah* is the specific curse and cannot stand alone; the
+  one who curses must say in what way the curse should take effect. On his
+  reading it applies only to something that physically exists. This is how he
+  reads Bereishis 12:3, that whoever curses Avraham with a specific *kelalah*
+  receives an all-encompassing *arur* from Above.
 
 ### allah (אלה)
-Radak: an *allah* is the curse in which one expressly invokes Hashem to bring the
-misfortune about. Rabbi Mecklenburg disagrees: an *allah* is a conditional curse,
-laid down with a stipulation, as in "whoever does such and such shall be cursed."
-Rav Hirsch (to Tehillim 14:3) relates א-ל-ה to א-ל-ח, the root of *elach*,
-becoming soiled, through the interchange of *hei* and *ches*: *allah* describes a
-conflict in which one person wishes ill on another, much as *elach* describes the
-conflict or incompatibility created when one element is introduced into another.
+- Radak: an *allah* is the curse in which one expressly invokes Hashem to bring
+  the misfortune about.
+- Rabbi Mecklenburg disagrees: an *allah* is a conditional curse, laid down with
+  a stipulation, as in "whoever does such and such shall be cursed."
+- Rav Hirsch (to Tehillim 14:3) relates א-ל-ה to א-ל-ח, the root of *elach*,
+  becoming soiled, through the interchange of *hei* and *ches*: *allah*
+  describes a conflict in which one person wishes ill on another, much as
+  *elach* describes the conflict or incompatibility created when one element is
+  introduced into another.
 
 ### kavah (קבה)
 Malbim: a general curse declaring a man and everything of his cursed, uttered in

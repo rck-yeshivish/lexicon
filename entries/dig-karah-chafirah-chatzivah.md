@@ -121,11 +121,14 @@ Bava Kamma 5:5, Bava Basra 2:12).
   (*karah*) but not complete the project without the leaders.
 
 ### chatzivah (חציבה)
-Root ח-צ-ב. Malbim: in contrast to the digging terms, quarrying, excavating with a hammer
-that chisels rock or hard ground. Rabbi Yosef Kara (to Yeshayahu 5:2): a
-synonym of *karah* and *chofer*, except that it names the digging of a round pit.
-He seems to relate the Biblical *chatzivah* to the Rabbinic *chatzav*, a jug or
-pitcher, which is invariably a round-shaped vessel.
+Root ח-צ-ב.
+
+- Malbim: in contrast to the digging terms, quarrying, excavating with a hammer
+  that chisels rock or hard ground.
+- Rabbi Yosef Kara (to Yeshayahu 5:2): a synonym of *karah* and *chofer*, except
+  that it names the digging of a round pit. He seems to relate the Biblical
+  *chatzivah* to the Rabbinic *chatzav*, a jug or pitcher, which is invariably a
+  round-shaped vessel.
 
 ## Rendering guidance
 

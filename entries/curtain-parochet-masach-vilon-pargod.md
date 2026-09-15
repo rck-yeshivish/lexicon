@@ -54,32 +54,33 @@ between Hashem and what is below. On Rabbi Shlomo Pappenheim's reading,
 ## Distinctions
 
 ### paroches (פרוכת)
-Rashi (to Shemos 26:31): a *paroches* is the curtain separating a king from his
-people; in the Mishkan it divides the Kodesh from the Kodesh HaKodashim (Shemos
-26:31-33). Rabbi Shlomo Pappenheim derives it from פ-ר-כ, a breaking off whose
-point is to begin something new. So *avodas perech* (Shemos 1:13) was torture
-because the Egyptians kept interrupting the Jews mid-task and pushing them onto
-something else, and a *pircha* in the language of the Gemara is the question
-that breaks the flow of a sugya and turns it elsewhere. On this reading a
-*paroches* is a partition that breaks off one area and announces the start of
-another: up to here the Kodesh, from here something new and holier. Rabbi
-Shlomo Pappenheim concludes that *paroches* does not inherently mean "curtain"
-at all, but any barrier that sets the border between two domains.
-
-*Shoresh Yesha* reads *paroches* as glory, on two possible derivations: from
-*pe'er* ("glory"), or by taking the peh as interchangeable with beis and
-rearranging the letters to *rechev* ("vehicle"), so that the *paroches* is a
-feature of Hashem's glory as the *merkavah* and the *keruvim* are.
+- Rashi (to Shemos 26:31): a *paroches* is the curtain separating a king from
+  his people; in the Mishkan it divides the Kodesh from the Kodesh HaKodashim
+  (Shemos 26:31-33).
+- Rabbi Shlomo Pappenheim derives it from פ-ר-כ, a breaking off whose point is
+  to begin something new. So *avodas perech* (Shemos 1:13) was torture because
+  the Egyptians kept interrupting the Jews mid-task and pushing them onto
+  something else, and a *pircha* in the language of the Gemara is the question
+  that breaks the flow of a sugya and turns it elsewhere. On this reading a
+  *paroches* is a partition that breaks off one area and announces the start of
+  another: up to here the Kodesh, from here something new and holier. Rabbi
+  Shlomo Pappenheim concludes that *paroches* does not inherently mean "curtain"
+  at all, but any barrier that sets the border between two domains.
+- *Shoresh Yesha* reads *paroches* as glory, on two possible derivations: from
+  *pe'er* ("glory"), or by taking the peh as interchangeable with beis and
+  rearranging the letters to *rechev* ("vehicle"), so that the *paroches* is a
+  feature of Hashem's glory as the *merkavah* and the *keruvim* are.
 
 ### masach (מסך)
-Rashi (to Shemos 26:36, and see Shemos 35:12): a *masach* is the curtain
-covering the entrance to a building or a room. Rabbi Shlomo Pappenheim derives
-it from ס-כ, "covering," the root behind *sukkah* (covered with *sechach*) and
-the Modern Hebrew *maseichah* ("mask," covering the face). A *masach* is thus a
-screen that keeps a thing from the eyes of onlookers, and more broadly any thick
-cloth used for protection, whether laid over something as a cover (Shmuel II
-17:19, Tehillim 105:39) or hung down its side as a curtain. In Modern Hebrew
-*masach* is any sort of "screen," a computer monitor included.
+- Rashi (to Shemos 26:36, and see Shemos 35:12): a *masach* is the curtain
+  covering the entrance to a building or a room.
+- Rabbi Shlomo Pappenheim derives it from ס-כ, "covering," the root behind
+  *sukkah* (covered with *sechach*) and the Modern Hebrew *maseichah* ("mask,"
+  covering the face). A *masach* is thus a screen that keeps a thing from the
+  eyes of onlookers, and more broadly any thick cloth used for protection,
+  whether laid over something as a cover (Shmuel II 17:19, Tehillim 105:39) or
+  hung down its side as a curtain. In Modern Hebrew *masach* is any sort of
+  "screen," a computer monitor included.
 
 ### paroches hamasach (Shemos 35:12)
 Rabbi Shlomo Pappenheim reads the doubled name as carrying both senses at once:
@@ -98,25 +99,31 @@ terminology for a thin veil-like membrane, and the English *reveal* and *unveil*
 literally mean to undo a veiling.
 
 ### pargod (פרגוד)
-The Rabbinic word used where Tanach has *paroches*. Rabbi Nosson of Rome in
-*Sefer HaAruch*: a *pargod* is the curtain separating a *chasan* from everyone
-else. This mirrors the *paroches* separating a king from the people and the
-Kodesh HaKodashim from the Kodesh. Rav Hai Gaon, on the Mishnah's *pargod*
-(*Keilim* 29:1), glosses it simply as *paroches*. Like *vilon*, it also has
-some heavenly connotations: the Gemara (*Chagigah* 15a) relates that the apostate Elisha
-ben Avuyah claimed he heard from beyond the *pargod* a call for everyone else to
-return except him, and the Yom Kippur Mussaf piyut has Rabbi Yishmael ben Elisha
-ascending and reporting what he heard from beyond the *pargod* about the decree
-of the Ten Martyrs. In similar contexts Rashi defines it twice, at *Bava Metzia*
-59a as the separation between Hashem and the *malachim*, and at *Berachos* 18b
-as the separation between Hashem and His Holy Presence. Rabbi Ernest Klein derives *pargod* from the Greek
-*paragaudos*/*paragaudion* and the Latin *paragauda*, a "laced garment" or
-"tunic," the lattice of a curtain somewhat resembling that weave. Others explain
-it from the Latin *pergere* ("come," "go forward"), which in turn might
-ultimately derive from the Akkadian *paraku* ("to go across"), naming the
-curtain's position at an entrance and the fact that one passes through it to
-enter. (Another derivative of *pergere* is the Latin *pergola*, a roof that
-protrudes from elsewhere, whence the English *pergola*.)
+The Rabbinic word used where Tanach has *paroches*.
+
+- Rabbi Nosson of Rome in *Sefer HaAruch*: a *pargod* is the curtain separating
+  a *chasan* from everyone else. This mirrors the *paroches* separating a king
+  from the people and the Kodesh HaKodashim from the Kodesh.
+- Rav Hai Gaon, on the Mishnah's *pargod* (*Keilim* 29:1), glosses it simply as
+  *paroches*.
+
+Like *vilon*, it also has some heavenly connotations: the Gemara (*Chagigah*
+15a) relates that the apostate Elisha ben Avuyah claimed he heard from beyond
+the *pargod* a call for everyone else to return except him, and the Yom Kippur
+Mussaf piyut has Rabbi Yishmael ben Elisha ascending and reporting what he heard
+from beyond the *pargod* about the decree of the Ten Martyrs. In similar
+contexts Rashi defines it twice, at *Bava Metzia* 59a as the separation between
+Hashem and the *malachim*, and at *Berachos* 18b as the separation between
+Hashem and His Holy Presence.
+
+- Rabbi Ernest Klein derives *pargod* from the Greek *paragaudos*/*paragaudion*
+  and the Latin *paragauda*, a "laced garment" or "tunic," the lattice of a
+  curtain somewhat resembling that weave.
+- Others explain it from the Latin *pergere* ("come," "go forward"), which in
+  turn might ultimately derive from the Akkadian *paraku* ("to go across"),
+  naming the curtain's position at an entrance and the fact that one passes
+  through it to enter. (Another derivative of *pergere* is the Latin *pergola*,
+  a roof that protrudes from elsewhere, whence the English *pergola*.)
 
 ## Rendering guidance
 

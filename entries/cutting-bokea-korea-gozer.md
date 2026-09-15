@@ -138,18 +138,20 @@ something that tears easily.
 
 ### gozer (גזירה)
 Tehillim 136:13 calls the sea "cut into cuts" (*l'gezarim*), and Maariv thanks
-Hashem for passing His children between the *gizrei* Yam Suf. Rabbi Pappenheim
-gives two accounts, in two separate discussions: *gozer* is
-precision cutting with an instrument, so that whatever is deliberately cut out of
-a larger whole is *nigzar* or a *gizrah*; and *gozer* is the sawing motion of a
-blade applied continuously, drawn back and forth until it has cut through
-something especially **thick**, as with people (Melachim I 3:25), animals
-(Bereishis 15:17), or wood (Melachim II 6:4). The sea, being reckoned eminently
-thick, takes this verb. From the first
-sense comes *gezeirah*, a decree, the ruling cut out of the surrounding
-give-and-take and left to stand alone. Rav Hirsch (to Tehillim 136:13): the
-Psalmist chose *gozer* precisely because it means deciding as well as cutting,
-since at the sea two nations' fates were decided.
+Hashem for passing His children between the *gizrei* Yam Suf.
+
+- Rabbi Pappenheim gives two accounts, in two separate discussions: *gozer* is
+  precision cutting with an instrument, so that whatever is deliberately cut out
+  of a larger whole is *nigzar* or a *gizrah*; and *gozer* is the sawing motion
+  of a blade applied continuously, drawn back and forth until it has cut through
+  something especially **thick**, as with people (Melachim I 3:25), animals
+  (Bereishis 15:17), or wood (Melachim II 6:4). The sea, being reckoned
+  eminently thick, takes this verb. From the first sense comes *gezeirah*, a
+  decree, the ruling cut out of the surrounding give-and-take and left to stand
+  alone.
+- Rav Hirsch (to Tehillim 136:13): the Psalmist chose *gozer* precisely because
+  it means deciding as well as cutting, since at the sea two nations' fates were
+  decided.
 
 Rabbi Pappenheim and others trace *gozer* to the biliteral ג-ז, primarily
 "shaving" or "trimming," a cut that leaves part attached and part detached:
