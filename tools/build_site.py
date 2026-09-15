@@ -830,8 +830,8 @@ def main():
     <p class="wm-sub">Synonyms in the Hebrew Language</p>
     <hr class="wm-rule">
   </div>
-  <p class="lede">Search in Hebrew or in English. <span class="tally" data-to="{n_words}">{n_words:,}</span> words in <span class="tally" data-to="{n_entries}">{n_entries}</span> groups of
-  near-synonyms, each with its own meaning and the source that draws the line.</p>
+  <p class="lede"><span class="tally" data-to="{n_words}">{n_words:,}</span> words in <span class="tally" data-to="{n_entries}">{n_entries}</span> groups of
+  near-synonyms, each word with its own meaning clarified and the sources that discuss it.</p>
   <div class="bigsearch">
     <svg viewBox="0 0 24 24" class="mag" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
     <input id="q" type="search" placeholder="Type Hebrew or English&hellip;" autocomplete="off" spellcheck="false" dir="auto">
