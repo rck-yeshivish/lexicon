@@ -6,12 +6,45 @@ translit: [ani, oni, evyon, evyonim, misken, miskein, rash, dal, dakh, dach, mac
 english: [poor, destitute, needy, unfortunate, dispossessed, crushed, downtrodden, wanderer]
 domain: society
 words:
+  - he: עני
+    tr: ani
+    en: poor
+    distinct: the general word, poor but still proud and too ashamed to ask (Bava Metzia 111b); anyone afflicted, from inui (Bedersi); one who works hard all his life for a meager living (Kalatz)
+  - he: אביון
+    tr: evyon
+    en: destitute
+    distinct: worse off than the ani and past the shame of asking; full of wants he cannot fill, from ta'av, so even a rich man who wants more is one (Bedersi); lazy, having brought it on himself (Kalatz)
+  - he: מסכן
+    tr: misken
+    en: wretched, unfortunate
+    distinct: poor and despised with it, the only one with contempt built in; tied to sakanah, danger; mocked when he looks for support (Kalatz), or taken for a madman (Wertheimer)
+  - he: רש
+    tr: rash
+    en: dispossessed
+    distinct: tied to yerushah, inheritance, in two directions; one whose property others dispossessed, or a poor man son of a poor man, poor from the cradle (Wertheimer)
   - he: דל
+    tr: dal
+    en: reduced
     nk: דַּל
-  - he: הלך
-    nk: הֵלֶךְ
+    distinct: one who lost money, even if not poor enough for charity (Malbim), specifically a rich man who lost his wealth (Kalatz); a well emptied of its water, from deli, a pail (Pappenheim)
+  - he: דך
+    tr: dach
+    en: emaciated
+    distinct: physically crushed, sharing a root with medochah, a pestle, gaunt from want of food; even a rich man made thin by illness (Bedersi)
   - he: מך
+    tr: mach
+    en: downtrodden
     nk: מָךְ
+    distinct: crushed abstractly rather than physically, by subordination to others; pressed by obligations beyond his means, whatever his income (Bedersi); struck by bad mazal (Pappenheim)
+  - he: איש תככים
+    tr: ish techachim
+    en: stricken
+    distinct: "listed in only some midrashic lists; the dispute is in the root: from the kaf element, stricken like mach, or from toch, a man of means or of middling circumstances, not poor at all (Wertheimer)"
+  - he: הלך
+    tr: heilech
+    en: itinerant
+    nk: הֵלֶךְ
+    distinct: from going, once in Tanach in this sense (Shmuel II 12:4); the door-to-door beggar, or one whose assets have all gone, or any itinerant peddler whatever his means
 sources:
   - wiaw:8245 "The Poor and Unfortunate" (2019-05-18) https://articles.ohr.edu/articles/the-poor-and-unfortunate
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
@@ -33,6 +66,20 @@ updated: 2026-09-10
 circumstance). *Heilech* is the **itinerant**, a door-to-door beggar or
 wanderer. The Gemara seems to grade *ani* and *evyon*, and *evyon* is the
 lower of the two.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עני | ani | poor | the general word; still proud, too ashamed to ask (Bava Metzia 111b) |
+| אביון | evyon | destitute | worse off, unashamed to ask; full of unmet wants (Bedersi) |
+| מסכן | misken | wretched, unfortunate | poor and despised; mocked (Kalatz) or taken for a madman (Wertheimer) |
+| רש | rash | dispossessed | dispossessed of property, or poor from the cradle (Wertheimer) |
+| דל | dal | reduced | has lost money, not necessarily a charity case (Malbim); an emptied well (Pappenheim) |
+| דך | dach | emaciated | physically crushed, gaunt; even a rich man thinned by illness (Bedersi) |
+| מך | mach | downtrodden | crushed by circumstance; obligations beyond his means (Bedersi) |
+| איש תככים | ish techachim | stricken | disputed root: stricken like *mach*, or a man of means (Wertheimer) |
+| הלך | heilech | itinerant | door-to-door beggar or wanderer; perhaps any peddler, whatever his means |
 
 ## Distinctions
 

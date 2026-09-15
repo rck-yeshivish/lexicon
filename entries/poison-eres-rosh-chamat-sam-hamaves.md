@@ -6,8 +6,35 @@ translit: [eres, iras, sam hamaves, sam hamavet, sam hachaim, samim, rosh, rowsh
 english: [venom, poison, deadly drug, snake venom, wormwood]
 domain: nature
 words:
+  - he: ארס
+    tr: eres
+    en: venom
+    distinct: venom, most often a snake's, Talmudic and not Biblical, and not the general word for poison; derived from Latin virus (Kohut, Ernest Klein, Even-Shoshan), which the Comprehensive Aramaic Lexicon calls highly dubious
+  - he: סם המות
+    tr: sam hamaves
+    en: poison
+    distinct: the general word, literally the potion of death, covering any lethal preparation and naming none in particular; never venom, since Chullin 3:5 lists it beside a snakebite
   - he: ראש
+    tr: rosh
+    en: poison
     nk: רֹאשׁ
+    distinct: Biblical poison, drawn from a snake's head and so essentially venom (Targum, Rashi), or a poisonous plant extract such as poppy (Feliks, Pappenheim); from either kingdom (Rav Hirsch)
+  - he: חמת
+    tr: chamat
+    en: venom
+    distinct: venom as what a snake emits when its cheimah, its anger, is aroused, as chamat taninim, the venom of serpents
+  - he: רעל
+    tr: ra'al
+    en: poison, reeling draught
+    distinct: commonly rendered poison, but a concoction that leaves a man weak and immobile as though tied (Rashi), or shaking, akin to ro'ed (Radak); deadly poison in Modern Hebrew
+  - he: עכס
+    tr: eches
+    en: venom
+    distinct: snake venom for Rashi, perhaps under the Greek echis, viper (Kohut); special shoes, the verb their noise (Ibn Ezra, Radak); shoes enclosed in snakeskin (Vilna Gaon); a ball and chain (Rabbi Yeshayah of Trani)
+  - he: לענה
+    tr: la'anah
+    en: wormwood
+    distinct: very bitter but not said to be deadly (Rashi, Radak); counted a synonym of rosh, chamat and ra'al, all poison, by Rabbi Shlomo of Urbino, which is quite novel
 sources:
   - wiaw:9603 "Pick Your Poison" (2022-03-05) https://articles.ohr.edu/articles/pick-your-poison
   - wiaw:11562 "Bereishis: In the Beginning..." (2024-10-26) https://articles.ohr.edu/articles/bereishis-in-the-beginning
@@ -25,6 +52,18 @@ never venom. *Rosh* is **poison** in Tanach, drawn either from a snake's head or
 a poisonous plant. *Chamat* is **venom** as what an angered snake emits. *Ra'al*
 is disputed: poison, or a draught that leaves a man limp and reeling. Chullin
 3:5 shows that *sam hamaves* is not venom.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ארס | eres | venom | snake venom, Talmudic not Biblical; perhaps from Latin *virus* (Kohut) |
+| סם המות | sam hamaves | poison | the general poison, any lethal preparation; never venom (Chullin 3:5) |
+| ראש | rosh | poison | Biblical poison; from a snake's head (Rashi) or a plant (Feliks) |
+| חמת | chamat | venom | venom an angered snake emits, from *cheimah* |
+| רעל | ra'al | poison, reeling draught | disputed: poison, or a draught leaving one limp (Rashi) or shaking (Radak) |
+| עכס | eches | venom | disputed: snake venom (Rashi) against noisy shoes (Ibn Ezra, Radak) |
+| לענה | la'anah | wormwood | very bitter, not deadly (Rashi, Radak); poison (Rabbi Shlomo of Urbino) |
 
 ## Distinctions
 

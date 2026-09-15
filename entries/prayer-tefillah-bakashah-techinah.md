@@ -9,7 +9,18 @@ words:
   - he: חן
     nk: חֵן
   - he: תפילה
+    tr: tefillah
+    en: prayer
     nk: תְּפִילָּה
+    distinct: prayer proper; its praising side, or fixed formal prayer with set formulae and halachos, against ad hoc bakashah (Rabbi Simcha Maimon); pressing a claim of injustice, from pelilah (Mecklenburg), or a thoughtful plea (Maharal)
+  - he: בקשה
+    tr: bakashah
+    en: request
+    distinct: the unscripted request for one's needs in one's own words; Yaakov's bow, powerful not in its words but in the urgency behind it (Rabbi Simcha Maimon), reaching Heaven from afar (Rabbi Shmuel Laniado)
+  - he: תחינה
+    tr: techinah
+    en: supplication
+    distinct: the appeal of one who admits he is unworthy and asks to be granted anyway, out of chen, favor; the opposite footing from tefillah, disclaiming a claim rather than pressing one (Mecklenburg)
 sources:
   - wiaw:7090 "Say your Prayers" (2017-01-14) https://articles.ohr.edu/articles/say-your-prayers
   - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
@@ -32,6 +43,14 @@ unjust. *Bakashah* is the **request**, the unscripted asking for one's needs.
 given anyway, out of *chen*, favor. Where Yaakov's sword and bow are darshened
 (*Bava Basra* 123a), *tefillah* and *bakashah* stand side by side, which suggests
 they are not the same thing.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תפילה | tefillah | prayer | fixed, formal prayer (Rabbi Simcha Maimon); pressing a claim for justice (Mecklenburg) |
+| בקשה | bakashah | request | unscripted asking in one's own words; its power is urgency (Maimon) |
+| תחינה | techinah | supplication | admits he has no claim and asks for favor, *chen* (Mecklenburg) |
 
 ## Distinctions
 

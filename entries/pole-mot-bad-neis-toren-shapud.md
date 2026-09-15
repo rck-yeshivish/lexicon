@@ -6,10 +6,32 @@ translit: [mot, mott, motah, motot, motos, bad, badd, badim, baddim, neis, nes, 
 english: [carrying pole, stave, banner pole, mast, skewer, branch]
 domain: other
 words:
+  - he: מוט
+    tr: mot
+    en: carrying pole, yoke-bar
+    distinct: a pole for carrying, as the spies' pole, and in the feminine motah the bar of a yoke; a synonym of bad (Rabbi Shlomo of Urbino); for Pappenheim a thick low pole or a sideways branch, or a reinforced mateh
+  - he: זמורה
+    tr: zemorah
+    en: branch
+    distinct: the branch the spies cut; the same piece of wood called mot once cut (Zohar), or a second object beside the pole (Mecklenburg)
   - he: בד
+    tr: bad
+    en: stave
     nk: בַּד
+    distinct: the carrying staves of the Mishkan vessels; from ב-ד-ד, alone, the branch singled out among its peers, or the thick low branch that looks like a tree standing alone (Pappenheim)
   - he: נס
+    tr: neis
+    en: banner, sail
     nk: נֵס
+    distinct: a tall pole or flagpole, and on a ship the sail; a tall mot, lifted above the rest of the tree, from ש-א (Pappenheim); tied to fleeing, since an army fled when its flagbearer fell (Radak)
+  - he: תורן
+    tr: toren
+    en: mast
+    distinct: the ship's mast that holds up the neis; ת-ר-ן with no other derivatives (Ibn Saruk, Ibn Janach, Radak), or from ת-ר, the mast held fast by ropes (Pappenheim)
+  - he: שפוד
+    tr: shapud
+    en: skewer, spit
+    distinct: Mishnaic, usually a wooden pole with a sharpened end, a spit or skewer; a loanword from Greek spodos (Rabbi Ernest Klein), and perhaps cognate with English spit (Rabbi Reuven Chaim Klein)
 sources:
   - wiaw:11433 "Shelach: Message on a Pole" (2024-06-29) https://articles.ohr.edu/articles/shelach-message-on-a-pole
 authorities: [Rabbi Yaakov Tzvi Mecklenburg, Zohar, Rabbeinu Yonah Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Shlomo of Urbino, Rav Hirsch, Rambam, Rashi, Rabbi Ernest Klein, Rabbi Tzvi Matisyahu Abrahams, Midrash Tanchuma, Mechilta, Even Shoshan, Doron Yaakov]
@@ -26,6 +48,17 @@ makes a synonym of *mot*, is the carrying pole of the Mishkan vessels:
 **stave**. *Neis* is a high pole or flagpole (**banner, standard**), and on a
 ship the **sail**. *Toren* is the **mast** that holds the *neis* up. *Shapud* is a
 pointed **skewer** or spit.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מוט | mot | carrying pole, yoke-bar | carrying pole; *motah*, a yoke-bar; synonym of *bad* (Rabbi Shlomo of Urbino) |
+| זמורה | zemorah | branch | the same wood as *mot* while still on the tree (Zohar) |
+| בד | bad | stave | the Mishkan vessels' carrying stave; the branch singled out, alone (Pappenheim) |
+| נס | neis | banner, sail | tall flagpole or banner, a ship's sail; lifted above the rest (Pappenheim) |
+| תורן | toren | mast | a ship's mast, holding up the *neis*; held by ropes (Pappenheim) |
+| שפוד | shapud | skewer, spit | Mishnaic pointed skewer or spit; from Greek *spodos* (Rabbi Ernest Klein) |
 
 ## Distinctions
 

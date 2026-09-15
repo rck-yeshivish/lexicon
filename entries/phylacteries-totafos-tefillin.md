@@ -8,6 +8,14 @@ domain: ritual
 words:
   - he: תפילה
     nk: תְּפִילָּה
+  - he: טוטפות
+    tr: totafos
+    en: frontlets
+    distinct: "the Chumash word, used three times and only of the head tefillin; its origin is disputed: a forehead ornament (Tosafos, Radak), something to do with seeing (Chizkuni), secondary straps on a hat (Pappenheim), or a foreign word (Rabbi Akiva)"
+  - he: תפילין
+    tr: tefillin
+    en: tefillin
+    distinct: the Mishnaic word, plural because it names the pair of head and arm, one box being tefillah; from פ-ל-ל, proof or argument (Tosafos, the Rosh), thoughtfulness (Maharal), or ת-פ-ל, attached (Kohut); the word the berachah uses (Meyers, Shayo)
 sources:
   - wiaw:11218 "Bo: Filling your Phylacteries" (2024-01-20) https://articles.ohr.edu/articles/bo-filling-your-phylacteries
 authorities: [Targum Onkelos, Targum Yonasan, Targum Neofiti, Peshitta, Ibn Ezra, Tosafos, Ibn Janach, Radak, Rashbam, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Menachem Ibn Saruk, Rashi, Chizkuni, Rabbi Yosef Bechor Shor, Rabbi Yissocher Ber Eilenberg, Rabbi Mordechai Yaffe, Daas Mikra, Rabbi Shlomo Pappenheim, Rabbi Akiva, Rabbeinu Chaim Paltiel, Rabbi Avraham Saba, Abarbanel, Professor Hubert Grimme, Professor Jeffrey H. Tigay, the Rosh, the Tur, Maharal, Rabbi Yaakov Emden, Tiferes Yisrael, Rabbi Nosson of Rome, Sefer HeAruch, Rabbi Eliyahu Bachur, Dr. Alexander Kohut, Pri Megadim, Rabbi Mordechai Abadi, Paneach Raza, Baal HaTurim, Noam Elimelech, Professor Moshe Weinfeld, Rabbi Pinchas Avraham Meyers, Rabbi Moshe Rachamim Shayo]
@@ -24,6 +32,13 @@ The Torah never calls the arm box *totafos*, which is one
 of the two reasons Rabbi Pinchas Avraham Meyers and Rabbi Moshe Rachamim Shayo
 give for the berachah before laying them saying *tefillin* and not the biblical
 term.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| טוטפות | totafos | frontlets | the Chumash word, head tefillin only; a forehead ornament (Tosafos) or foreign (Rabbi Akiva) |
+| תפילין | tefillin | tefillin | Mishnaic plural naming the head-and-arm pair; the berachah's word (Meyers, Shayo) |
 
 ## Distinctions
 

@@ -7,7 +7,18 @@ english: [pestilence, plague, epidemic, smiting, blow]
 domain: body
 words:
   - he: דבר
+    tr: dever
+    en: pestilence
     nk: דֶּבֶר
+    distinct: a deadly contagious sickness passing from person to person, sudden death with no visible wound (Bachrach); named from devorah for lesions like a bee sting (Pappenheim); for Rabbi Klein an especially deadly plague
+  - he: מגפה
+    tr: mageifah
+    en: plague, blow
+    distinct: from striking, and by itself not fatal (Rashi), against Abarbanel, who holds it inherently lethal; an infected wound spreading from one struck part (Bachrach); names what the striker does, not what the victim contracts
+  - he: נגף
+    tr: negef
+    en: deadly plague
+    distinct: the exception in the ג-פ-ה family, a plague that brings certain death (Malbim); Rashi defines it as dever, and Menachem ibn Saruk defines dever as negef
 sources:
   - wiaw:7579 "Plague of Plagues" (2018-01-13) https://articles.ohr.edu/articles/plague-of-plagues
 authorities: [Rashi, Abarbanel, Rabbeinu Chananel, Malbim, Rabbi Menachem ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach (Chavos Yair)]
@@ -28,6 +39,14 @@ any striking and *dever* as a plague that brings death, though Abarbanel holds
 a plague while a *dever* is an especially deadly one. Rabbi Yair Chaim Bachrach,
 against a sage who made *mageifah* the deadlier of the two, shows that the
 difference between the words does not lie in the extent of their impact.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| דבר | dever | pestilence | deadly and contagious, no visible wound (Bachrach); the especially deadly plague |
+| מגפה | mageifah | plague, blow | a striking, not necessarily fatal (Rashi); inherently lethal (Abarbanel) |
+| נגף | negef | deadly plague | brings certain death (Malbim); defined as *dever* (Rashi) |
 
 ## Distinctions
 

@@ -5,6 +5,19 @@ roots: [ק-ו-ם, א-ת-ר, ד-ו-כ, א-ש-ר]
 translit: [makom, mokom, mekomot, mekomos, atar, atra, asra, atarim, haatarim, duchta, ducha, duch, asher, komah, kumah, kiyum, nekamah]
 english: [place, site, location, spot]
 domain: other
+words:
+  - he: מקום
+    tr: makom
+    en: place
+    distinct: the only native Hebrew word for place, some four hundred times in Tanach; from ק-ו-ם (Ibn Janach, Radak), height, the spot in which a thing is planted and firmly established (Pappenheim)
+  - he: אתר
+    tr: atar
+    en: place
+    distinct: the standard Aramaic word, the Targumim's regular rendering of makom (Rabbi Eliyahu HaBachur); in Hebrew only in derech ha'atarim, which most read from spying; related to Arabic and Ethiopic verbs of tracing or tracking (Ernest Klein, Greenblatt)
+  - he: דוכתא
+    tr: duchta
+    en: place
+    distinct: an Aramaic word common in the Bavli, glossed by Rashi as makom; perhaps borrowed from Old Persian dahyu, country (Perles, Kohut), which would leave atar as Aramaic's only native word for place
 sources:
   - wiaw:10994 "Chukas: The Right Site" (2023-06-17) https://articles.ohr.edu/articles/chukas-the-right-site
 authorities: [Targum Onkelos, Rashi, Rashbam, Rabbeinu Yosef Bechor Shor, Ibn Ezra, Eichah Rabbah, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Toviah ben Eliezer, Rabbeinu Meyuchas, Rabbi Menachem Ricanati, Rabbi Eliyahu HaBachur, Rabbi Yaakov Yehudah de Kassif, Rabbi Aharon Marcus, Rabbi Dr. Ernest Klein, Rabbi Dr. Yitzchak Greenblatt, Rabbi Joseph Perles, Dr. Alexander Kohut, Rabbi Shaul Goldman, HaKsav VeHaKabbalah]
@@ -21,6 +34,14 @@ standard Aramaic word for the same thing, the Targum's regular rendering of
 which Rabbi Reuven Chaim Klein suggests, if the derivation holds, may itself be
 an Old Persian loanword rather than native Aramaic. These are not shades of
 meaning but shades of *language*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מקום | makom | place | the only native Hebrew word; a thing's firmly established spot (Pappenheim) |
+| אתר | atar | place | the standard Aramaic word, Targum's rendering of *makom* (Rabbi Eliyahu HaBachur) |
+| דוכתא | duchta | place | common in the Bavli; perhaps borrowed Old Persian, not native Aramaic (Perles) |
 
 ## Distinctions
 

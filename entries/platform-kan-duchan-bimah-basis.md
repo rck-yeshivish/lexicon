@@ -9,7 +9,26 @@ words:
   - he: במה
     nk: בָּמָה
   - he: כן
+    tr: kan
+    en: base, stand
     nk: כֵּן
+    distinct: the Biblical word for the base or pedestal on which something rests, as of the kiyor, and by extension a man's post; from כ-נ, the footing of a thing, kin to kein and nachon (Pappenheim)
+  - he: דוכן
+    tr: duchan
+    en: platform
+    distinct: Mishnaic, the platform the Leviim sang from and, in the Gemara, the one the Kohanim bless from; a noun, not a verb (Rabbi Eliyahu HaBachur); kin to Aramaic duchta, place (Rabbi Yaakov Emden), or from ד-ו-כ, flattening (Ferber)
+  - he: בימה
+    tr: bimah
+    en: stage, dais
+    distinct: the Mishnaic stage or dais, as the king's at Hakhel, and the shul's reading table; from Greek bema, and unrelated to the native Biblical bamah (Kutscher)
+  - he: בסיס
+    tr: basis
+    en: base
+    distinct: a loanword, once in the Mishnah for the base of a candelabrum, and in halachah the base of a forbidden object; from Latin and Greek basis (Rabbi Reuven Chaim Klein), against ב-ס, to trample (Pappenheim)
+  - he: אצטבא
+    tr: itztaba
+    en: platform, colonnade
+    distinct: a raised platform, mostly in the Beis HaMikdash; Rashi seemingly takes it as synonymous with duchan, while Rabbi Ernest Klein gives it five senses, colonnade to wall bench, from Greek stoa
 sources:
   - wiaw:11462 "Pinchas: Performance Platforms" (2024-07-27) https://articles.ohr.edu/articles/pinchas-performance-platforms
   - wiaw:9338 "Sort of Siblings" (2021-08-21) https://articles.ohr.edu/articles/sort-of-siblings
@@ -29,6 +48,16 @@ Yiddish *duchenen*); it is a noun, not a verb. *Bimah* is the **stage** or
 **dais**, and *basis* the **base** of a vessel, both Mishnaic. *Itztaba* is a
 raised **platform** or **colonnade**, mostly in the Beis HaMikdash. *Duchan* is not an
 action; a Kohen goes up *to* the *duchan*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כן | kan | base, stand | Biblical base or pedestal, and a man's post; footing, kin to *kein* (Pappenheim) |
+| דוכן | duchan | platform | platform of the Leviim and Kohanim; a noun, not a verb (HaBachur) |
+| בימה | bimah | stage, dais | stage or dais, from Greek *bema*; unrelated to *bamah* (Kutscher) |
+| בסיס | basis | base | a base, as of a candelabrum; Greek loanword, or from trampling (Pappenheim) |
+| אצטבא | itztaba | platform, colonnade | raised platform, mostly in the Mikdash; synonymous with *duchan* (Rashi) |
 
 ## Distinctions
 

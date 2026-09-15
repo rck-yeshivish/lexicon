@@ -8,6 +8,42 @@ domain: speech
 words:
   - he: נצח
     nk: נֶצַח
+  - he: להודות
+    tr: lehodos
+    en: to thank
+    distinct: admitting that another did one a good turn and is owed gratitude; from hod, what lies beneath the surface, brought forward in words; set before lauding, since personal gratitude precedes the general duty to praise (Wertheimer)
+  - he: להלל
+    tr: lehallel
+    en: to praise
+    distinct: relaying another's virtue to a third party, as against thanking him for a good turn or dwelling on his good traits as such
+  - he: לשבח
+    tr: leshabei'ach
+    en: to laud
+    distinct: dwelling on another's good traits as such, apart from any dealing one had with him; it stands after thanking in the list (Wertheimer)
+  - he: לפאר
+    tr: lefa'er
+    en: to glorify
+    distinct: fixing on one specific praiseworthy aspect, as against lehader, which stresses the whole (Rabbi Shimshon Pincus)
+  - he: להדר
+    tr: lehader
+    en: to beautify
+    distinct: stressing the whole, the symmetrical and all-encompassing praiseworthiness in every aspect (Rabbi Shimshon Pincus); in Nusach Sefard followed by lenatzei'ach (Arizal)
+  - he: לרומם
+    tr: leromem
+    en: to extol
+    distinct: raising Hashem's standing by admitting that He is above us, as against le'aleh, above everything (Rabbi Shimshon Pincus)
+  - he: לעלה
+    tr: le'aleh
+    en: to raise high
+    distinct: raising Hashem's standing by admitting that He is above everything, as against leromem, above us (Rabbi Shimshon Pincus)
+  - he: לברך
+    tr: levarech
+    en: to bless
+    distinct: not blessing the Creator as He blesses man, which a mortal cannot do, but acknowledging Him as the source of all blessing (Rabbi Chaim Volozhiner); left out by Abudraham
+  - he: לקלס
+    tr: lekales
+    en: to exalt
+    distinct: Rabbinic to exalt, though in Biblical Hebrew to disparage, so some omit it; kilus is praise with a negative edge, embellished, inverted or exaggerated to denigrate (Pappenheim)
 sources:
   - wiaw:6934 "Ten Expressions of Praise" (2016-09-17) https://articles.ohr.edu/articles/ten-expressions-of-praise
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
@@ -28,6 +64,20 @@ adds *lenatzei'ach* **to eternalize** after *lehader*, Nusach Ashkenaz
 (Maharal) omits it. Thanking generally comes before lauding because personal
 gratitude precedes the general duty (Wertheimer), and *lekales* here is **to
 exalt**, not to disparage, though the Biblical verb means the latter.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| להודות | lehodos | to thank | admitting a debt of gratitude; comes before lauding (Wertheimer) |
+| להלל | lehallel | to praise | relaying another's virtue to a third party |
+| לשבח | leshabei'ach | to laud | dwelling on another's good traits, apart from any dealings with him |
+| לפאר | lefa'er | to glorify | fixing on one praiseworthy aspect (Rabbi Shimshon Pincus) |
+| להדר | lehader | to beautify | stressing the whole, praiseworthy in every aspect (Pincus) |
+| לרומם | leromem | to extol | admitting Hashem is above *us* (Pincus) |
+| לעלה | le'aleh | to raise high | admitting Hashem is above *everything* (Pincus) |
+| לברך | levarech | to bless | acknowledging Hashem as the source of all blessing (Rabbi Chaim Volozhiner) |
+| לקלס | lekales | to exalt | Rabbinic exalting, Biblical disparaging; praise with a negative edge (Pappenheim) |
 
 ## Distinctions
 

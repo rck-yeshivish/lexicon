@@ -6,8 +6,19 @@ translit: [natan, nasan, sam, sim, som, shat, shas, shes, samim, bosem, besamim,
 english: [place, put, set, lay, install]
 domain: action
 words:
+  - he: נתן
+    tr: natan
+    en: put
+    distinct: the loosest and most haphazard placing, anywhere at all (Pappenheim); often interchangeable with sam; the sockets and bars of the Mishkan, where it did not matter which went where
   - he: שם
+    tr: sam
+    en: place
     nk: שָׂם
+    distinct: placing into a spot designated for it, deliberately, as part of a plan, with no implication of how long it stays (Pappenheim), as the lettered beams of the Mishkan; more often positive or neutral in connotation (Rabbi Avraham Shick)
+  - he: שת
+    tr: shat
+    en: set, lay
+    distinct: placing into an order meant to stay indefinitely (Pappenheim), as the lasting enmity of Bereishis 3:15 and the plagues etched on those who lived through them (Mecklenburg); mostly in a negative context (Rabbi Avraham Shick)
 sources:
   - wiaw:9523 "Put in Place" (2022-01-08) https://articles.ohr.edu/articles/put-in-place
 authorities: [Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Moshe Zuriel, Rabbi Avraham Shick of Slonim (Eshed HaNechalim), Even-Shoshan concordance]
@@ -23,6 +34,14 @@ placing is. *Natan* is the loosest: **put** something down, anywhere. *Sam* is
 **place**, into a spot designated for it, as part of a plan, but for no stated
 duration. *Shat* is **set** or **lay**, placed into an order and meant to stay
 there indefinitely.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נתן | natan | put | put down anywhere, haphazardly (Pappenheim); the sockets and bars of the Mishkan |
+| שם | sam | place | into its designated spot, by plan, for no stated duration (Pappenheim) |
+| שת | shat | set, lay | set to stay indefinitely (Pappenheim); usually in a negative context (Shick) |
 
 ## Distinctions
 

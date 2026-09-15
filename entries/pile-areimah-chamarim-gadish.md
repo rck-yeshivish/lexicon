@@ -5,6 +5,23 @@ roots: [ע-ר-ם, ח-מ-ר, ג-ד-ש, ע-מ-ר, ע-ר]
 translit: [areimah, aremah, aremot, areimos, chamarim, chomer, cheimar, chamran, gadish, omer, amar, eir, armon, arum]
 english: [pile, heap, stack, sheaf, bundle, mound]
 domain: quantity
+words:
+  - he: ערמה
+    tr: areimah
+    en: pile, heap
+    distinct: the standard word for a pile in Tanach and Mishnaic Hebrew alike; grain already threshed and so revealed, against unthreshed gadish (Pappenheim), though Rambam seems to equate the two; no source distinguishes it from chamarim
+  - he: חמרים
+    tr: chamarim
+    en: heaps upon heaps
+    distinct: heaps upon heaps, a mass gathered together, doubled in Shemos 8:10; from ח-מ-ר, the unifying of many like components, as in chomer and cheimar (Rav Hirsch); no source distinguishes it from areimah in meaning
+  - he: גדיש
+    tr: gadish
+    en: stack
+    distinct: a stack of grain still in the sheaf; for Pappenheim unthreshed grain, against threshed areimah, while Rambam defines it as an areimah of sheaves and seems to equate the two
+  - he: עמר
+    tr: omer
+    en: bundle, sheaf
+    distinct: the bundle or sheaf itself, of which a gadish is stacked (Rambam); grouped with chamarim and with amar, a statement, as a gathering of many into one (Rav Hirsch)
 sources:
   - wiaw:9534 "Piles and Piles" (2022-01-15) https://articles.ohr.edu/articles/piles-and-piles
 authorities: [Rambam, Rabbi Sherirah Gaon, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Machberet Menachem, Rasag, Donash Ibn Librat, Ibn Ezra, Rashbam, Rashi, Targum Onkelos, Chizkuni, Rabbi Chaim Paltiel, Sefer HaGan, Rabbi Aharon Marcus]
@@ -23,6 +40,15 @@ to equate *areimah* and *gadish*, but Rabbi Shlomo
 Pappenheim separates them: the difference is threshed grain (*areimah*)
 against unthreshed (*gadish*). Rabbi Klein reports that he has found no source that
 distinguishes *areimah* from *chamarim* in meaning.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ערמה | areimah | pile, heap | the standard word; threshed grain, against unthreshed *gadish* (Pappenheim) |
+| חמרים | chamarim | heaps upon heaps | heaps upon heaps, often doubled; many like items unified (Rav Hirsch) |
+| גדיש | gadish | stack | stack of sheaves, grain unthreshed (Pappenheim); equated with *areimah* (Rambam) |
+| עמר | omer | bundle, sheaf | the single bundle or sheaf; a gathering, kin to *chamarim* (Rav Hirsch) |
 
 ## Distinctions
 

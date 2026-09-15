@@ -5,6 +5,23 @@ roots: [ע-ד-ן, ע-נ-ג, פ-נ-ק]
 translit: [eden, edna, ednah, maadanim, ma'adanim, maadanei melech, adin, adinah, oneg, oneg shabbos, oneg shabbat, anug, pinuk, mefanek, mefunak, tafnukim, tafnukei]
 english: [sensual pleasure, delight of the senses, delicacies, delight, enjoyment, pampering, indulgence]
 domain: emotion
+words:
+  - he: עדן
+    tr: eden
+    en: sensual pleasure, delight of the senses
+    distinct: pleasure of the body and the five senses, in Tanach almost always of taste and touch; it joins the one enjoying to the object, from ע-ד (Pappenheim), and stays physical even when it yields spiritual pleasure
+  - he: מעדנים
+    tr: maadanim
+    en: delicacies
+    distinct: the delicacies of a king's table, as Asher's maadanei melech; the Targumim render them with tafnukei, a pinuk word, and in Mah Yedidus the two stand together
+  - he: עונג
+    tr: oneg
+    en: delight, enjoyment
+    distinct: pleasure of the soul, mind and heart, even when it arrives by way of the body, as oneg Shabbos (Pappenheim); for Rav Hirsch, being surrounded by favorable conditions, like anak, a necklace
+  - he: פינוק
+    tr: pinuk
+    en: pampering, indulgence
+    distinct: once in Tanach (Mishlei 29:21); for Pappenheim not pleasure at all but playfulness and flattery, though the Targumim use pinuk words to render both oneg and eden
 sources:
   - wiaw:8295 "Indulging in Pleasure" (2019-06-22) https://articles.ohr.edu/articles/indulging-in-pleasure
 authorities: [Rabbi Shlomo Pappenheim, Targum Onkelos, Radak, Ibn Ezra, Rabbi Yehuda Chalava, Rav Hirsch, Rabbi Yaakov Tzvi Mecklenburg, Sefer HaYashar]
@@ -25,6 +42,15 @@ Shabbos, which may come through good food, not physical pleasure. Rav Hirsch rea
 *Pinuk* is for Pappenheim not pleasure at all but playfulness and flattery, a
 claim that fits the one pasuk but does not account for the Targumim, which use
 *pinuk* words for both *oneg* and *eden*: **pampering, indulgence**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| עדן | eden | sensual pleasure, delight of the senses | bodily pleasure of the senses, chiefly taste and touch (Pappenheim) |
+| מעדנים | maadanim | delicacies | delicacies of a king's table, *maadanei melech* |
+| עונג | oneg | delight, enjoyment | delight of the soul, even through the body (Pappenheim); favorable surroundings (Rav Hirsch) |
+| פינוק | pinuk | pampering, indulgence | playfulness and flattery, not pleasure (Pappenheim); Targum's word for *oneg* and *eden* |
 
 ## Distinctions
 
