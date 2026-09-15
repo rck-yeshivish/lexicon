@@ -5,6 +5,19 @@ roots: [צ-ע-פ, ר-ד-ד, ר-ד, ע-פ]
 translit: [tzaif, tza'if, tzeif, tzanif, redid, radid, redidim, merudad, eifa, eipha, sudar, sudarin]
 english: [veil, shawl, wrap, headcloth, cloak]
 domain: other
+words:
+  - he: צעיף
+    tr: tza'if
+    en: veil, shawl, headcloth
+    distinct: the covering of Rivkah and Tamar, parsed as spread or floating on her face (Rabbi Menachem ben Shlomo, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia al Damari); from a root of wrapping (Gesenius, Shadal); what a woman primarily wore going outside (Rabbi Yitzchak Ratzabi)
+  - he: רדיד
+    tr: redid
+    en: shawl, wrap
+    distinct: a thin tza'if for the head (Sefer HaAruch); a thin garment (Radak); akin to a tallis (Ibn Ezra); from ר-ד, hanging down, or the inner covering lowered beneath the outer (Rabbi Shlomo Pappenheim); the wrap without which women did not appear in public (Rambam)
+  - he: סודר
+    tr: sudar
+    en: shawl
+    distinct: the Talmud's term for a shawl worn by a man, as against the woman's tza'if and redid; also a cloth waved as a signal; from the Greek soudarion and Latin sudarium (Rabbi Ernest Klein)
 sources:
   - wiaw:11584 "Chayei Sarah: All Wrapped Up" (2024-11-23) https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up
 authorities: [Targum Onkelos, Targum Yonasan, Targum Yerushalmi, Rabbi Menachem ben Shlomo, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia al Damari, Rabbi Avraham Vilner, Rabbi Yaakov Zev Lev, Rabbi Yehoshua Steinberg, Rabbi Yitzchak Ratzabi, Ibn Saruk, Ibn Janach, Gesenius, Shadal, Rav Hirsch, Samuel Shaviv, Sefer HaAruch, Ibn Ezra, Radak, Metzudas Tzion, Rabbi Shlomo Pappenheim, Rambam, Rabbi Ernest Klein]
@@ -26,6 +39,14 @@ HaAruch*), a thin garment (Radak), something like a tallis (Ibn Ezra, on the
 Arabic), and in Rambam the wrap without which women by custom did not appear in
 public. Targum pseudo-Yonasan and Targum Yerushalmi always render *tza'if* as
 *redida*, and Onkelos consistently as *eifa*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| צעיף | tza'if | veil, shawl, headcloth | spread on her face (Midrash Sechel Tov, Carpentras, al Damari); wrapping (Gesenius, Shadal); worn going outside (Rabbi Yitzchak Ratzabi) |
+| רדיד | redid | shawl, wrap | thin head covering (Sefer HaAruch, Radak); like a tallis (Ibn Ezra); hangs down (Rabbi Shlomo Pappenheim); worn in public (Rambam) |
+| סודר | sudar | shawl | a man's shawl, unlike *tza'if* and *redid*; a signal cloth; from *sudarium* (Rabbi Ernest Klein) |
 
 ## Distinctions
 

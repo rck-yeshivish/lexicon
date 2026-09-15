@@ -5,6 +5,19 @@ roots: [ע-ב-ר, ג-ל-ל, ש-ב-ל]
 translit: [baavur, ba'avur, bavur, avur, biglal, bishvil, bi-shvil, shvil]
 english: [because, in order that, on account of, for the sake of]
 domain: other
+words:
+  - he: בגלל
+    tr: biglal
+    en: on account of, because of
+    distinct: "the backward-looking because: a reason that already exists before the act and justifies it (Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim)"
+  - he: בעבור
+    tr: baavur
+    en: in order that, so that
+    distinct: "the forward-looking because: the reason does not yet exist and is the intended outcome (Rabbi Wolf Heidenheim, Rabbi Yaakov Tzvi Mecklenburg, Malbim); hence baavur zos of Pharaoh, who had no standing merit to justify sparing him"
+  - he: בשביל
+    tr: bishvil
+    en: because
+    distinct: not in Tanach, entering with Chazal; usually does the work of biglal, though once with the sense of baavur; from shvil, the road of ankles, as eikev is both ankle and because (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:7110 "Just Because" (2017-01-28) https://articles.ohr.edu/articles/just-because
   - wiaw:7917 "On the Straight and Narrow" (2018-09-01) https://articles.ohr.edu/articles/on-the-straight-and-narrow
@@ -22,6 +35,14 @@ the forward-looking one: the reason **does not yet exist** and is the intended
 outcome, so it means **in order that** or **so that**. *Bishvil* is
 post-Biblical, usually equal to *biglal*, and is the everyday word in modern
 speech.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| בגלל | biglal | on account of, because of | a reason already on the ground that justifies the act (Heidenheim, Mecklenburg, Malbim) |
+| בעבור | baavur | in order that, so that | the reason is the intended outcome, not yet in existence (Heidenheim, Mecklenburg, Malbim) |
+| בשביל | bishvil | because | post-Biblical; usually equal to *biglal*; *shvil*, the road of ankles, as *eikev* (Rabbi Shlomo Pappenheim) |
 
 ## Distinctions
 

@@ -7,9 +7,39 @@ english: [book, scroll, letter, epistle, document, deed, codex, pamphlet, sheet]
 domain: other
 words:
   - he: ספר
+    tr: sefer
+    en: book
     nk: סֵפֶר
+    distinct: the generic book or written document, in early medieval usage the scroll; binds all it contains into one entity (Rabbi Moshe Shapiro); an officially published work that may be copied (Rabbi Jose Faur); only the older synonym of iggeret (Avi Hurvitz)
+  - he: מגילה
+    tr: megillah
+    en: scroll
+    distinct: sheets of parchment sewn together and rolled up, from ג-ל, round (Rabbi Shlomo Pappenheim); written to be rolled (Malbim); unqualified it means Megillas Esther, marking that Esther be written on its own scroll (Rabbi Shmuel Strashun)
+  - he: גליון
+    tr: gilayon
+    en: sheet, gloss
+    distinct: a single sheet written on and rolled, whence the margins and then the glosses in them (Rabbi Shlomo Pappenheim); against that, written to be revealed (gilui), not rolled or folded (Malbim)
+  - he: אגרת
+    tr: iggeret
+    en: letter, epistle
+    distinct: a letter, only the later synonym of sefer (Avi Hurvitz); a decision read aloud by a herald with no copies (Rabbi Jose Faur); sent from one beis din to another (Rabbeinu Tam); not written to last (Ritva), though Wertheimer takes it from agur, a document preserved; a document between two parties (Malbim)
   - he: שטר
+    tr: shtar
+    en: deed
     nk: שְׁטָר
+    distinct: a document written to last, ostensibly to serve as evidence of what it records, as against the iggeret, which is not (Ritva)
+  - he: כתב
+    tr: ksav
+    en: anything written
+    distinct: anything written at all, the general term beside the more specific sefer, megillah, gilayon and iggeret (Malbim)
+  - he: מחזור
+    tr: machzor
+    en: codex
+    distinct: in early medieval sources the Tanach codex, from ח-ז-ר, to return, since one can return to its beginning at once, unlike a scroll; later the yom tov siddur
+  - he: קונטרס
+    tr: kuntres
+    en: pamphlet
+    distinct: a short treatise not weighty enough to stand as its own sefer; the Tosafists' name for Rashi's Gemara commentary; from the Greek (Rabbi Binyamin Mussafia, Rabbi Ernest Klein, Rabbi Daniel Sperber) or from the Latin quinternus, a quire (Rabbi Eliyahu HaBachur)
 sources:
   - wiaw:9581 "Between Books and Scrolls" (2022-02-19) https://articles.ohr.edu/articles/between-books-and-scrolls
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Ritva, Rabbeinu Tam, Rabbi Shmuel Strashun, Rabbi Elimelech of Lizhensk, Rabbi Moshe Shapiro, Rabbi Shlomo Aharon Wertheimer, Rabbi Yosef Dov Soloveitchik, Rabbi Jose Faur, Radak, the Vilna Gaon, Rabbi Eliyahu HaBachur, Rabbi Binyamin Mussafia, Rabbi Daniel Sperber, Rabbi Ernest Klein, Rabbi Moshe Chaim Leiter, Raymond P. Dougherty, Avi Hurvitz]
@@ -28,6 +58,19 @@ up, and unqualified it means Megillas Esther. *Iggeret* is a **letter** or
 last; *machzor* originally the **codex**, later the yom tov siddur; *kuntres* a
 **pamphlet**. Esther is called all three of *sefer*, *megillah* and *iggeret*,
 and each name carries a halachah.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| ספר | sefer | book | generic book or document, once the scroll; one entity (Rabbi Moshe Shapiro); published and copyable (Rabbi Jose Faur); older form of *iggeret* (Hurvitz) |
+| מגילה | megillah | scroll | sheets sewn and rolled (Rabbi Shlomo Pappenheim, Malbim); unqualified, Megillas Esther on its own scroll (Rabbi Shmuel Strashun) |
+| גליון | gilayon | sheet, gloss | a single rolled sheet, then margin, then gloss (Rabbi Shlomo Pappenheim); revealed, not rolled (Malbim) |
+| אגרת | iggeret | letter, epistle | the later word for *sefer* (Hurvitz); read aloud, never copied (Rabbi Jose Faur); short-lived (Ritva), or preserved (Wertheimer); between two parties (Malbim) |
+| שטר | shtar | deed | written to last, as evidence, unlike an *iggeret* (Ritva) |
+| כתב | ksav | anything written | anything written, the general term (Malbim) |
+| מחזור | machzor | codex | the medieval codex, returned to at once unlike a scroll; later the yom tov siddur |
+| קונטרס | kuntres | pamphlet | a treatise too slight for a *sefer*; Greek (Mussafia, Rabbi Ernest Klein, Sperber) or Latin *quinternus* (Rabbi Eliyahu HaBachur) |
 
 ## Distinctions
 

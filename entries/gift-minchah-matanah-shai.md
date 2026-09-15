@@ -5,6 +5,31 @@ roots: [נ-ח, מ-נ-ח, נ-ת-ן, ש-י, ש-ו-ר, א-ש-כ-ר, ש-כ-ר]
 translit: [minchah, mincha, matanah, matana, matan, matanos, matanot, shai, teshurah, teshura, eshkar, doron, sheichar, shikur, sachar]
 english: [gift, tribute, homage, present, offering, token]
 domain: society
+words:
+  - he: מנחה
+    tr: minchah
+    en: homage, tribute
+    distinct: a gift of homage that serves the giver, showing his subservience and dependence (Rav Hirsch); a gift that gains the giver atonement (Wertheimer); can be an outright tax paid to a master, and the more submission it shows the more it deserves the name (Rabbi Mecklenburg)
+  - he: מתנה
+    tr: matanah
+    en: gift
+    distinct: formed from the verb of giving; serves the receiver's need, the giver gaining nothing beyond filling it (Wertheimer); the word of matanos la'evyonim; inappropriate for an offering to Hashem (Rabbi Mecklenburg), since Hashem has no needs (Rabbi Klein)
+  - he: שי
+    tr: shai
+    en: weighty gift
+    distinct: yesh reversed, a gift of real substance (Bedersi); significant in the giver's eyes though nothing special to the receiver, so every shai in Tanach is a gift to Hashem (Wertheimer)
+  - he: תשורה
+    tr: teshurah
+    en: showpiece gift
+    distinct: a hapax; the tribute people look at (shur) and sing (shir) over, the most honorable and eye-catching present (Midrash Shocher Tov, Wertheimer); a kind of minchah given on coming to a navi or holy man for a berachah or a prophecy (Malbim)
+  - he: אשכר
+    tr: eshkar
+    en: gift (no settled English)
+    distinct: obscure and disputed; the root four letters or the last three, ש-כ-ר (Radak); choice fruits, as against a minchah of gold and silver (Ibn Ramoch); a gift of aesthetic worth that leaves the receiver as though drunk, shikur (Wertheimer); from sachar, reward (Malbim)
+  - he: דורון
+    tr: doron
+    en: gift
+    distinct: not in Tanach and not Hebrew or Aramaic but the Greek word for gift (Rabbi Eliyahu HaBachur); Targum Yonasan's rendering of the minchah Yaakov sent Esav
 sources:
   - wiaw:7982 "The Gift of Giving" (2018-12-01) https://articles.ohr.edu/articles/the-gift-of-giving
 authorities: [Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Radak, Rabbi Avraham Bedersi HaPenini, Rabbi Avraham ben Chaim Ibn Ramoch, Malbim, Midrash Shocher Tov, Rabbi Eliyahu HaBachur]
@@ -27,6 +52,17 @@ brought when one comes before a great man. *Eshkar* is obscure and disputed.
 *Doron* is not Hebrew at all; it is the Greek word for "gift" that the Targum
 uses. *Minchah* is not "meal-offering," it is "gift," and only the sacrificial
 context narrows it (Rabbi Mecklenburg).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מנחה | minchah | homage, tribute | serves the giver, showing subservience (Rav Hirsch); gains atonement (Wertheimer); even a tax, the more submissive the more fitting (Rabbi Mecklenburg) |
+| מתנה | matanah | gift | fills the receiver's need, nothing coming back (Wertheimer); not for an offering to Hashem (Rabbi Mecklenburg), who has no needs (Rabbi Klein) |
+| שי | shai | weighty gift | *yesh* reversed, a gift of substance (Bedersi); weighty to the giver, not the receiver, so always given to Hashem (Wertheimer) |
+| תשורה | teshurah | showpiece gift | the eye-catching present people look at and sing over (Midrash Shocher Tov, Wertheimer); brought on greeting a navi or holy man (Malbim) |
+| אשכר | eshkar | gift (no settled English) | obscure; root uncertain (Radak); choice fruits (Ibn Ramoch); aesthetic worth that intoxicates the receiver (Wertheimer); from *sachar*, reward (Malbim) |
+| דורון | doron | gift | not in Tanach; Greek for gift (Rabbi Eliyahu HaBachur); Targum Yonasan's word for Yaakov's *minchah* |
 
 ## Distinctions
 

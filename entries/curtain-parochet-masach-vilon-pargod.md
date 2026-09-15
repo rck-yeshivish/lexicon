@@ -7,7 +7,22 @@ english: [curtain, partition, screen, veil, divider]
 domain: ritual
 words:
   - he: פרוכת
+    tr: paroches
+    en: dividing curtain
     nk: פָּרוֹכֶת
+    distinct: the curtain separating a king from his people, in the Mishkan the Kodesh from the Kodesh HaKodashim (Rashi); from פ-ר-כ, a breaking off to begin something new, so any barrier setting the border between two domains, not a fabric (Rabbi Shlomo Pappenheim); a feature of Hashem's glory (Shoresh Yesha)
+  - he: מסך
+    tr: masach
+    en: screen
+    distinct: the curtain covering the entrance to a building or room (Rashi); from ס-כ, covering, a heavy cloth that keeps a thing from onlookers' eyes or protects it, laid over it or hung at its side (Rabbi Shlomo Pappenheim)
+  - he: וילון
+    tr: vilon
+    en: curtain
+    distinct: a later Rabbinic word for a plain curtain, four times in the Mishnah; a loanword, velum, related to English veil; also the name of the first heaven, the curtain over the entrance to the heavens
+  - he: פרגוד
+    tr: pargod
+    en: partition curtain
+    distinct: "the Rabbinic word where Tanach has paroches: the curtain separating a chasan from everyone else (Sefer HaAruch), glossed simply as paroches (Rav Hai Gaon); in aggadah the separation between Hashem and the malachim, or His Holy Presence (Rashi)"
 sources:
   - wiaw:8157 "Raise the Curtain" (2019-03-02) https://articles.ohr.edu/articles/raise-the-curtain
 authorities: [Rashi, Rabbi Shlomo Pappenheim, Shoresh Yesha, Sefer HaAruch, Rav Hai Gaon, Rabbi Ernest Klein]
@@ -26,6 +41,15 @@ Rabbinic words: *vilon* a plain **curtain**, *pargod* a **partition curtain**
 standing where the *paroches* stands, and in aggadic contexts the screen
 between Hashem and what is below. On Rabbi Shlomo Pappenheim's reading,
 *paroches* names a function, not a fabric.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| פרוכת | paroches | dividing curtain | divides king from people, Kodesh from Kodesh HaKodashim (Rashi); any border between two domains, a function not a fabric (Rabbi Shlomo Pappenheim) |
+| מסך | masach | screen | covers an entrance (Rashi); heavy cloth that shields from view, from ס-כ, covering (Rabbi Shlomo Pappenheim) |
+| וילון | vilon | curtain | plain Rabbinic curtain; a loanword, *velum*, kin to *veil*; the first of the seven heavens |
+| פרגוד | pargod | partition curtain | stands where *paroches* stands (Rav Hai Gaon); separates a *chasan* (Sefer HaAruch); in aggadah, what screens Hashem (Rashi) |
 
 ## Distinctions
 

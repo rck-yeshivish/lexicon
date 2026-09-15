@@ -5,6 +5,31 @@ roots: [נ-ת-ב, ר-ח-ב, ס-ל-ל, ע-ג-ל, ש-ע-ל, ש-ב-ל]
 translit: [netiv, nesiv, netivot, nesivos, rechov, rechovot, rechovos, mesilah, mesila, maslul, maagal, magal, mishol, mish'ol, shvil, shvill, shevil, bishvil, shevel, shual]
 english: [path, street, highway, roundabout way, footpath, trail]
 domain: other
+words:
+  - he: רחוב
+    tr: rechov
+    en: city street
+    distinct: the street inside a city, as against the derachim between cities (Rabbi Meshullam); also rechovah shel ir, the open square within a town
+  - he: נתיב
+    tr: netiv
+    en: path
+    distinct: a very narrow road against the wide derech (Rabbeinu Bachya); the approach road to a derech (Vilna Gaon); shorter and not open to the public (Malbim); only for select individuals (Zohar); a private shortcut (Wertheimer)
+  - he: מסילה
+    tr: mesilah
+    en: paved road
+    distinct: a paved path, usually the pedestrian walk at a street's edge (Malbim); generally straight as well as paved, so the stars travel in one (Wertheimer)
+  - he: מעגל
+    tr: maagal
+    en: roundabout way
+    distinct: from igul, a circle, a roundabout road (Vilna Gaon); a circular road with no use in getting a man from one place to another, the scenic route or the racetrack (Wertheimer)
+  - he: משעול
+    tr: mishol
+    en: footpath
+    distinct: a hapax, from ש-ע-ל, the bottom of the foot; carries pedestrians or a rider but not a caravan or wagon (Rabbi Shlomo Pappenheim); or the track foxes (shual) cut through a vineyard (Rabbi Moshe Shapiro)
+  - he: שביל
+    tr: shvil
+    en: trail
+    distinct: a path on a steep downward incline, from shafel (Rav Hirsch); from shevel, the leg, and narrower than a netiv (Malbim); the narrowest path, wide enough for one ankle at a time (Wertheimer); the road of ankles, giving bishvil (Pappenheim)
 sources:
   - wiaw:7917 "On the Straight and Narrow" (2018-09-01) https://articles.ohr.edu/articles/on-the-straight-and-narrow
 authorities: [Rabbi Meshullam, Rabbeinu Bachya, Vilna Gaon, Malbim, Zohar, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rav Hirsch]
@@ -21,6 +46,17 @@ road, *netiv* the narrow **path** that only some people use, *mishol* the
 ankle at a time, and *maagal* a **roundabout way** that goes nowhere in
 particular. On width, Rabbeinu Bachya makes a *netiv* narrower than a *derech*,
 and Malbim and others make a *shvil* narrower than a *netiv*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| רחוב | rechov | city street | a street within a city (Rabbi Meshullam); also a town square |
+| נתיב | netiv | path | narrow (Rabbeinu Bachya); an approach road (Vilna Gaon); not public (Malbim, Zohar); a private shortcut (Wertheimer) |
+| מסילה | mesilah | paved road | paved, usually the walk at a street's edge (Malbim); straight (Wertheimer) |
+| מעגל | maagal | roundabout way | circular (Vilna Gaon); goes nowhere useful, the scenic route (Wertheimer) |
+| משעול | mishol | footpath | for feet or a rider, not a wagon (Rabbi Shlomo Pappenheim); a fox track (Rabbi Moshe Shapiro) |
+| שביל | shvil | trail | a steep downward path (Rav Hirsch); narrower than a *netiv* (Malbim); one ankle wide (Wertheimer) |
 
 ## Distinctions
 

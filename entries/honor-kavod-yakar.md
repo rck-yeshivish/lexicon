@@ -5,6 +5,15 @@ roots: [כ-ב-ד, י-ק-ר]
 translit: [kavod, kovod, koved, kaved, kabed, l'chabed, lechabed, kibud, kibbud, yakar, yekar, yikar, y'kar, yakir, yekarah, yikrah, v'yikar, veyikar, yakrus]
 english: [honor, esteem, glory, precious, preciousness, rare, dear, costly]
 domain: society
+words:
+  - he: כבוד
+    tr: kavod
+    en: honor
+    distinct: weight, sharing its root with heavy; honor owed to a thing for its own inherent properties, the sage who earned his wisdom (Malbim); or the reverse, one's importance relative to others (Rabbi Avraham Vilner)
+  - he: יקר
+    tr: yakar
+    en: precious, esteem
+    distinct: value from rarity and impact, from ק-ר, strong impact (Rabbi Pappenheim); rare, importance from circumstance and not inherent worth (Malbim); or inherent value needing no comparison (Rabbi Avraham Vilner); possibly kavod in Aramaic (Rabbi Klein)
 sources:
   - wiaw:11724 "Ki Sisa/Purim: Heavy Honors" (2025-03-15) https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors
 authorities: [Rabbi Eliyahu Bachur, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Malbim, Rabbi Avraham Vilner, Rabbi Benzion Meir Chai Uziel, Rabbi Baruch HaLevi Epstein, Rabbi Yosef Shaul Nathansohn, Yad Ramah, Maharsha, Aruch L'Ner, Rabbi Efrayim Zalman Margulies, Sfas Emes, Rabbi Zvi Hirsch Chajes, Rabbi Eliezer Harstik, Rabbi Naftali Maskileison, Rabbi Dr. Ephraim Kanarfogel]
@@ -24,6 +33,13 @@ on which of the two is inherent: Malbim gives that to *kavod*, Rabbi Avraham
 Vilner to *yakar*, and Rabbi Klein says we are back to
 square one. *Yakar* means "rare" (Shmuel I 3:1), "costly"
 (Tehillim 116:15) or "dear" (Yirmiyahu 31:19), by context.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כבוד | kavod | honor | weight; inherent worth (Malbim); or importance relative to others (Rabbi Avraham Vilner) |
+| יקר | yakar | precious, esteem | rarity and impact (Rabbi Pappenheim); circumstance, not inherent worth (Malbim); or inherent worth (Rabbi Avraham Vilner); perhaps Aramaic *kavod* (Rabbi Klein) |
 
 ## Distinctions
 

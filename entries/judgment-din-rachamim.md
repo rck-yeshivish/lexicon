@@ -7,9 +7,15 @@ english: [judgment, mercy, unbroken blast, broken blast, giver, receiver]
 domain: other
 words:
   - he: דין
+    tr: din
+    en: judgment
     nk: דִּין
+    distinct: focus on the receiver, so the flow is measured out by what he deserves and can be curtailed, delayed or portioned; not punishment, since Hashem gives under din too; its Name is Elokim (Rabbi Reuven Chaim Klein)
   - he: רחמים
+    tr: rachamim
+    en: mercy
     nk: רַחֲמִים
+    distinct: focus on the Giver, so the flow is constant and unearned; tradition ties it to the four-letter Name (Rabbi Reuven Chaim Klein); from motherly protection, joining rechem to the dominant trait of a protective mother (Rav Hirsch)
 sources:
   - wiaw:8411 "Rosh Hashana: A Tale of Two Beginnings" (2019-09-28) https://articles.ohr.edu/articles/rosh-hashana-a-tale-of-two-beginnings
   - wiaw:11715 "Tetzaveh/Purim: Do the Din" (2025-03-08) https://articles.ohr.edu/articles/tetzavehpurim-do-the-din
@@ -30,6 +36,13 @@ is not punishment: Hashem gives under *din* too. The Divine Name of *din* is *El
 four-letter Name is the Name of *rachamim*. In the shofar, *tekiah* (one
 unbroken sound) answers to *rachamim* and *teruah* (a broken, fragmented sound)
 to *din*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| דין | din | judgment | focus on the receiver, giving measured by desert; not punishment; the Name *Elokim* (Rabbi Reuven Chaim Klein) |
+| רחמים | rachamim | mercy | focus on the Giver, giving constant and unearned; the four-letter Name (Rabbi Reuven Chaim Klein); motherly protection (Rav Hirsch) |
 
 ## Distinctions
 

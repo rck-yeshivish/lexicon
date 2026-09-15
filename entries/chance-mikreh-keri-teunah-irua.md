@@ -5,6 +5,27 @@ roots: [ק-ר-ה, ק-ר, א-נ-ה, א-ר-ע, מ-צ-א]
 translit: [mikreh, mikre, keri, keriy, kri, koreh, korot, karahu, vayiker, teunah, teuna, teunat, inah, iruah, irua, ira, metziah, metzia, motzaot]
 english: [occurrence, happenstance, chance, accident, event, mishap, finding]
 domain: other
+words:
+  - he: מקרה
+    tr: mikreh
+    en: occurrence, happenstance
+    distinct: the sudden collision of a person with new circumstances, from ק-ר, strong impact (Rabbi Shlomo Pappenheim); the meeting-point of things, and a happening whose cause is unknown or irregular (Malbim)
+  - he: קרי
+    tr: keri
+    en: offhandedness, flippancy
+    distinct: in Vayikra 26, serving Hashem in a glib, non-deliberate way, answered in kind (Rav Hirsch), or the sinner's antagonistic posture meant to anger Hashem (Rabbi Shlomo Pappenheim); in the Mishnah, a seminal emission
+  - he: מציאה
+    tr: metziah
+    en: finding
+    distinct: almost synonymous with mikreh, but a happening whose cause is not out of the ordinary, as spies sent out to find things report motza'os (Malbim)
+  - he: תאונה
+    tr: te'unah
+    en: mishap, befalling
+    distinct: the confluence of an incident's causes, as against mikreh's meeting-point (Malbim); the unpredictability of where an event lands, as anah means where (Rabbi Shaul Goldman)
+  - he: אירוע
+    tr: i'rua
+    en: event, incident
+    distinct: post-biblical, a plain event, the verb Mishnaic; from the root of ar'a, land, so something landing on the ground (Rabbi Shaul Goldman)
 sources:
   - wiaw:11821 "Bamidbar/Shavuot: Coincidence or Happenstance? (Part 1/2)" (2025-05-31) https://articles.ohr.edu/articles/bamidbarshavuot-coincidence-or-happenstance-part-12
   - wiaw:11822 "Naso: Coincidence or Happenstance? (Part 2/2)" (2025-06-07) https://articles.ohr.edu/articles/naso-coincidence-or-happenstance-part-22
@@ -25,6 +46,16 @@ seminal emission. *Te'unah* is a **mishap** or
 **befalling**, named, on Malbim's reading, for the causes that converge rather than the point of
 contact. *I'rua* is post-biblical, a plain **event** or **incident**. The whole
 argument of Vayikra 26 is about attitude, not chance.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מקרה | mikreh | occurrence, happenstance | a sudden collision with circumstances (Rabbi Shlomo Pappenheim); the meeting-point; cause unknown or irregular (Malbim) |
+| קרי | keri | offhandedness, flippancy | glib service, answered in kind (Rav Hirsch); a provoking posture (Rabbi Shlomo Pappenheim); Mishnaic euphemism for an emission |
+| מציאה | metziah | finding | a happening from an ordinary cause (Malbim) |
+| תאונה | te'unah | mishap, befalling | the confluence of causes (Malbim); an unpredictable landing place (Rabbi Shaul Goldman) |
+| אירוע | i'rua | event, incident | post-biblical plain event; something landing on the ground (Rabbi Shaul Goldman) |
 
 ## Distinctions
 

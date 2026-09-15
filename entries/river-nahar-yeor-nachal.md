@@ -5,6 +5,19 @@ roots: [נ-ה-ר, ה-ר, י-א-ר, ר, נ-ח-ל, ח-ל]
 translit: [nahar, neharot, neharos, yeor, yeior, yor, yeorim, yeorot, nachal, nachalim, nechalim, nachlei]
 english: [river, canal, stream, brook, wadi, watercourse]
 domain: nature
+words:
+  - he: נהר
+    tr: nahar
+    en: river
+    distinct: the default river, fed by smaller streams that make it stand out, from ה-ר (Rabbi Shlomo Pappenheim); keeps its water within its banks, unlike the yeor (Malbim); the natural river as against the man-made yeor when the two stand together (Rashi, Rabbi Malkiel Tzvi Tannenbaum)
+  - he: יאור
+    tr: yeor
+    en: irrigation canal, the River
+    distinct: a man-made irrigation canal (Rashi), a sense held only where it stands beside nahar (Rabbi Malkiel Tzvi Tannenbaum); a river that overflows its banks, mostly the Nile (Malbim); a river whose waters shoot downstream with violent force (Rabbi Pappenheim)
+  - he: נחל
+    tr: nachal
+    en: brook, wadi
+    distinct: both a river and a valley; the river that erodes a valley, or the seasonal runoff as against the year-round nahar (anonymous accounts); only a river that flows into a sea (Wertheimer); from ח-ל, circular motion (Rabbi Pappenheim)
 sources:
   - wiaw:8076 "Down by the River" (2019-01-05) https://articles.ohr.edu/articles/down-by-the-river
 authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Rabbi Malkiel Tzvi Tannenbaum]
@@ -24,6 +37,14 @@ runs to the sea, and the same word
 names the valley itself. Rabbi Malkiel Tzvi Tannenbaum *proposes* that *nahar* and *yeor* are only sharply distinguished
 when they appear together, so that Rashi's canal is what *yeor* means beside a
 *nahar*; apart, on his proposal, either word can mean a river of any kind.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| נהר | nahar | river | the ordinary river, standing out above its tributaries (Rabbi Shlomo Pappenheim); stays within its banks (Malbim); natural beside a *yeor* (Rashi, Tannenbaum) |
+| יאור | yeor | irrigation canal, the River | irrigation canal (Rashi), only beside *nahar* (Tannenbaum); overflows its banks, mostly the Nile (Malbim); violent current (Rabbi Pappenheim) |
+| נחל | nachal | brook, wadi | river and valley at once; eroding river or seasonal runoff; only a river flowing to the sea (Wertheimer); circular motion (Rabbi Pappenheim) |
 
 ## Distinctions
 
