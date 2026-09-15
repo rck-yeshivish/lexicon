@@ -15,6 +15,10 @@ entries use a known, narrow subset (headings, tables, lists, bold, italic,
 links, code) and a build that needs no install is one less thing to break.
 """
 import re, sys, json, html, shutil, pathlib, unicodedata, datetime, hashlib
+from collections import Counter
+
+sys.path.insert(0, str(pathlib.Path(__file__).parent))
+import refs  # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 ENTRIES = ROOT / "entries"
@@ -270,6 +274,7 @@ def collect():
             "translit": fm.get("translit", []),
             "english": fm.get("english", []),
             "authorities": fm.get("authorities", []),
+            "roots": fm.get("roots", []),
             "status": fm.get("status", "draft"),
             "sources": fm.get("sources", []),
             "bottom_md": bottom,
@@ -441,6 +446,119 @@ def glance_cards(mdtext):
     return f'<div class="wcards{" stack" if stack else ""}">' + "".join(cards) + "</div>"
 
 
+# Hebrew texts of the pesukim and mishnayos the entries cite (references/
+# pesukim.json, from tools/fetch_pesukim.py); filled in main(). STOP holds word
+# forms so common across those texts (כלם, all) that a root match on them is
+# more likely coincidence than the word itself.
+PESUKIM = {"meta": {}, "verses": {}}
+STOP = set()
+STOP_AT = 12
+
+
+class Cites:
+    """Links an entry's Tanach and Mishnah citations and gathers what the
+    pesukim panel shows for each: the text, with the entry's own words marked."""
+
+    def __init__(self, e):
+        self.words = []
+        for h in e["hebrew"]:
+            b = refs.bare(h)
+            if not b or " " in b:
+                continue
+            root = next((refs.root_letters(r) for r in e["roots"]
+                         if refs.matches_root(b, refs.root_letters(r))), None)
+            self.words.append((show_heb(h), b, root))
+        self.cards = {}
+
+    def mark(self, word):
+        b = re.sub(r"[^א-ת]", "", refs.bare(word))
+        if not b:
+            return ""
+        for disp, hb, root in self.words:
+            # The headword itself, with up to two prefix letters (וְסַלּוֹנִים:
+            # ו + סלון + ים) and up to three inflection letters after it.
+            i = b.find(hb)
+            if i != -1 and i <= 2 and all(c in refs.PREFIX for c in b[:i]):
+                tail = b[i + len(hb):]
+                if len(tail) <= 3 and all(c in refs.SUFFIX for c in tail):
+                    return disp
+        if b in STOP:
+            return ""
+        for disp, hb, root in self.words:
+            if root and refs.matches_root(b, root):
+                return disp
+        return ""
+
+    def card(self, label, keys, mishnah):
+        texts = [PESUKIM["verses"].get(k) for k in keys]
+        if not all(texts):
+            return None
+        toks = []
+        for t in texts:
+            # A maqaf-joined pair (וְגַם־נִכְלְמוּ) is two tokens, so only the
+            # word itself is marked; a token ending in maqaf joins the next.
+            for w in t.split(" "):
+                for piece in re.split(r"(?<=־)", w):
+                    if piece:
+                        toks.append([piece, self.mark(piece)])
+        order = [d for d, _, _ in self.words]
+        found = sorted({m for _, m in toks if m}, key=order.index)
+        # Mishnah numbering and spelling vary between editions; a mishnah is
+        # shown only where the entry's word is actually in it.
+        if mishnah and not found:
+            return None
+        return {"l": label, "w": toks, "t": found if len(found) >= 2 else []}
+
+    def link(self, fragment):
+        out, skip = [], 0
+        for p in re.split(r"(<[^>]+>)", fragment):
+            if p.startswith("<"):
+                if re.match(r"<(a|h2|h3)[\s>]", p):
+                    skip += 1
+                elif re.match(r"</(a|h2|h3)>", p):
+                    skip = max(0, skip - 1)
+                out.append(p)
+                continue
+            runs = refs.find(p) if not skip else []
+            if not runs:
+                out.append(p)
+                continue
+            s, pos = [], 0
+            for start, _end, book, name, pieces in runs:
+                mishnah = book.startswith("Mishnah") or book == "Pirkei Avot"
+                for n, (ps, pe, keys) in enumerate(pieces):
+                    a = start if n == 0 else ps
+                    k = "|".join(keys)
+                    if k not in self.cards:
+                        label = p[a:pe] if n == 0 else f"{name} {p[ps:pe]}"
+                        self.cards[k] = self.card(label, keys, mishnah)
+                    if not self.cards[k]:
+                        continue
+                    s.append(p[pos:a])
+                    s.append(f'<a class="cite" href="#" data-k="{html.escape(k)}">{p[a:pe]}</a>')
+                    pos = pe
+            s.append(p[pos:])
+            out.append("".join(s))
+        return "".join(out)
+
+    def rail(self):
+        used = {k: c for k, c in self.cards.items() if c}
+        if not used:
+            return ""
+        versions = []
+        for k in used:
+            book = k.split("|")[0].rsplit(".", 2)[0]
+            meta = PESUKIM["meta"].get(book, {})
+            v = f'{meta.get("version")} ({meta.get("license")})'
+            if meta and v not in versions:
+                versions.append(v)
+        data = json.dumps(used, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+        return (f'<aside class="prail" aria-label="In the pesukim"><p class="prail-h">In the pesukim</p>'
+                f'<div class="prail-f" hidden></div><div class="prail-list"></div>'
+                f'<p class="prail-credit">Texts from Sefaria: {html.escape("; ".join(versions))}</p></aside>'
+                f'<script type="application/json" id="pesukim-data">{data}</script>')
+
+
 def entry_page(e):
     # Lay the words out left to right in the same order as the At-a-glance table,
     # with each word marked RTL on its own. A single dir="rtl" block would be
@@ -509,12 +627,13 @@ def entry_page(e):
             return f'<h3 id="d-{n}">{text}</h3>'
         return re.sub(r"<h3>(.*?)</h3>", tag, block), subs
 
+    cites = Cites(e)
     deferred = None
     for headname, mdtext in secs:
         if headname == "Notes for a project" and mdtext.strip() in ("None yet.", ""):
             continue
         if headname == "Bottom line" and has_cards:
-            deferred = (f'<section class="inshort" id="s-in-short"><h2>In short</h2>{md(mdtext)}</section>',
+            deferred = (f'<section class="inshort" id="s-in-short"><h2>In short</h2>{cites.link(md(mdtext))}</section>',
                         ("s-in-short", "In short", []))
             continue
         if headname == "Sources" and XREF.get(e["slug"]):
@@ -535,7 +654,7 @@ def entry_page(e):
             # group. <details> needs no script, and a crawler or an LLM reading
             # the HTML still gets the full text.
             parts.append(f'<details class="guide" id="{i}"><summary><h2>{html.escape(headname)}</h2>'
-                         f'<span class="guide-hint">For translators</span></summary>{md(mdtext)}</details>')
+                         f'<span class="guide-hint">For translators</span></summary>{cites.link(md(mdtext))}</details>')
             toc.append((i, headname, []))
             continue
         if headname == "At a glance" and glance_cards(mdtext):
@@ -549,6 +668,8 @@ def entry_page(e):
         body, subs = md(mdtext), []
         if headname == "Distinctions":
             body, subs = distinction_ids(body)
+        if headname != "Sources":
+            body = cites.link(body)
         parts.append(f'<section class="{cls}" id="{i}"><h2>{html.escape(headname)}</h2>{body}</section>')
         toc.append((i, headname, subs))
     parts.append("</article>")
@@ -560,7 +681,9 @@ def entry_page(e):
                      + (f'<ul>{sub}</ul>' if sub else "") + "</li>")
     nav = (f'<nav class="toc" aria-label="On this page"><p class="toc-h">On this page</p>'
            f'<ul>{"".join(links)}</ul></nav>')
-    page = f'<div class="entry-layout">{nav}\n' + "\n".join(parts) + "</div>"
+    rail = cites.rail()
+    page = (f'<div class="entry-layout{" has-rail" if rail else ""}">{nav}\n'
+            + "\n".join(parts) + rail + "</div>")
     return shell(f'{title} — What’s in a Word?', page, depth=1, active="")
 
 
@@ -581,6 +704,12 @@ def main():
                 XREF.setdefault(p["b"], []).append((clusters[p["a"]], p["a"], p["word"]))
         for v in XREF.values():
             v.sort(key=lambda x: x[0].lower())
+    pes = ROOT / "references" / "pesukim.json"
+    if pes.exists():
+        PESUKIM.update(json.loads(pes.read_text(encoding="utf-8")))
+        freq = Counter(re.sub(r"[^א-ת]", "", refs.bare(w))
+                       for v in PESUKIM["verses"].values() for w in re.split(r"[\s־]+", v))
+        STOP.update(w for w, c in freq.items() if c >= STOP_AT)
     # Write in place and sweep stale files afterwards, rather than deleting the
     # tree first: on a OneDrive-synced folder the sync client holds directory
     # handles and rmtree fails with WinError 5 half way through.
@@ -1044,6 +1173,36 @@ header.bare .brand{flex:1}
   .toc .tt{overflow:hidden;text-overflow:ellipsis}
   .toc bdi[lang="he"]{font-size:1.12em}
 }
+/* Pesukim panel. A citation the entry makes (Yeshayahu 45:16) is a quiet link;
+   on a wide screen the panel on the right shows the pesukim cited in the part
+   of the entry being read, and on anything narrower the pasuk opens under the
+   line when the citation is tapped. */
+.entry a.cite{color:inherit;text-decoration:none;border-bottom:1px dotted var(--accent);cursor:pointer}
+.entry a.cite:hover,.entry a.cite.lit{color:var(--accent);background:var(--accent-soft);border-radius:3px;text-decoration:none}
+.prail{display:none}
+.pcard{border:1px solid var(--line);border-radius:12px;background:var(--panel);padding:9px 12px 10px;margin:0 0 10px;cursor:pointer}
+.pcard.on{border-color:var(--accent)}
+.pref{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:2px 8px;font-size:12.5px;color:var(--dim)}
+.ptog{font-size:11.5px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:1px 8px;white-space:nowrap}
+.ptog bdi{font-family:var(--heb);font-size:13px}
+.pv{font-family:var(--heb);font-size:18px;line-height:1.6;text-align:right;margin-top:3px;color:var(--ink)}
+.pv mark{background:none;color:var(--accent);font-weight:600}
+.pell{color:var(--faint)}
+.prail-h{font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);font-weight:600;margin:0 0 10px}
+.prail-f{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px}
+.prail-f button{font-family:var(--heb);font-size:15px;border:1px solid var(--line);background:var(--panel);
+  border-radius:999px;padding:0 10px;cursor:pointer;color:var(--dim)}
+.prail-f button.on{border-color:var(--accent);color:var(--accent)}
+.prail-none{font-size:13px;color:var(--faint);margin:0}
+.prail-credit{font-size:11.5px;line-height:1.4;color:var(--faint);margin:12px 0 0}
+.ppop{margin:8px 0 6px}
+.ppop .pcard{cursor:default;margin:0}
+@media (min-width:1360px){
+  main:has(.entry-layout.has-rail){max-width:1320px}
+  .entry-layout.has-rail{grid-template-columns:180px minmax(0,760px) 250px;gap:0 40px}
+  .prail{display:block;position:sticky;top:76px;align-self:start;margin-top:52px;
+    max-height:calc(100vh - 96px);overflow-y:auto;scrollbar-width:thin}
+}
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
 @media (max-width:520px){.wcards{grid-template-columns:1fr}.wh{font-size:24px}.heb-title{font-size:26px;gap:0 22px}}
 .entry section{margin:0 0 34px}
@@ -1428,10 +1587,126 @@ function wireToc(){
   spy();
 }
 
+// The pesukim panel: the pesukim cited in the part of the entry on screen,
+// pesukim holding two of the cluster's words first, each shown as a short
+// excerpt around the marked word that opens in full on a click. Narrow screens
+// have no panel; a citation opens its pasuk under the line instead.
+function wirePesukim(){
+  const data = document.getElementById("pesukim-data"), rail = document.querySelector(".prail");
+  if(!data || !rail) return;
+  const P = JSON.parse(data.textContent);
+  const list = rail.querySelector(".prail-list"), filt = rail.querySelector(".prail-f");
+  const cites = [...document.querySelectorAll(".entry a.cite")].filter(c => P[c.dataset.k]);
+  const wide = matchMedia("(min-width:1360px)");
+  const targets = [...document.querySelectorAll(".toc a")]
+    .map(a => document.getElementById(a.getAttribute("href").slice(1))).filter(Boolean);
+  cites.forEach(c => {
+    c._r = -1;
+    targets.forEach((t, i) => { if(t.compareDocumentPosition(c) & Node.DOCUMENT_POSITION_FOLLOWING) c._r = i; });
+  });
+  const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
+  const lit = (k, on) => cites.forEach(c => { if(c.dataset.k === k) c.classList.toggle("lit", on); });
+  const verse = (d, full) => {
+    const w = d.w;
+    let a = 0, b = w.length;
+    if(!full && w.length > 10){
+      const m = Math.max(0, w.findIndex(x => x[1]));
+      a = Math.max(0, m - 3); b = Math.min(w.length, a + 8); a = Math.max(0, b - 8);
+    }
+    const body = w.slice(a, b).map((x, i, s) => (x[1] ? `<mark>${esc(x[0])}</mark>` : esc(x[0]))
+      + (i < s.length - 1 && !x[0].endsWith("־") ? " " : "")).join("");
+    return (a > 0 ? '<span class="pell">… </span>' : "") + body + (b < w.length ? '<span class="pell"> …</span>' : "");
+  };
+  const card = (k, full) => {
+    const d = P[k], div = document.createElement("div");
+    div.className = "pcard";
+    div.dataset.k = k;
+    const tog = d.t.length ? `<span class="ptog"><bdi lang="he">${esc(d.t.join(" + "))}</bdi> together</span>` : "";
+    div.innerHTML = `<div class="pref"><span>${esc(d.l)}</span>${tog}</div><div class="pv" dir="rtl" lang="he">${verse(d, full)}</div>`;
+    if(!full){
+      div.title = "Show the whole pasuk";
+      div.addEventListener("click", () => {
+        div._full = !div._full;
+        div.querySelector(".pv").innerHTML = verse(d, div._full);
+        div.title = div._full ? "" : "Show the whole pasuk";
+      });
+    }
+    div.addEventListener("mouseenter", () => lit(k, true));
+    div.addEventListener("mouseleave", () => lit(k, false));
+    return div;
+  };
+  let shown = null, filter = "";
+  const render = (r, active) => {
+    const keys = [...new Set(cites.filter(c => c._r === r).map(c => c.dataset.k))];
+    keys.sort((x, y) => (P[y].t.length > 0) - (P[x].t.length > 0));
+    // At most six filter words, the ones marked in the most pesukim here.
+    const count = {};
+    keys.forEach(k => new Set(P[k].w.filter(x => x[1]).map(x => x[1])).forEach(h => { count[h] = (count[h] || 0) + 1; }));
+    const heads = Object.keys(count).sort((x, y) => count[y] - count[x]).slice(0, 6);
+    if(!heads.includes(filter)) filter = "";
+    filt.innerHTML = "";
+    filt.hidden = !(keys.length > 5 && heads.length > 1);
+    if(!filt.hidden) heads.forEach(h => {
+      const b = document.createElement("button");
+      b.type = "button"; b.lang = "he"; b.textContent = h;
+      b.classList.toggle("on", h === filter);
+      b.addEventListener("click", () => { filter = filter === h ? "" : h; render(r, active); });
+      filt.appendChild(b);
+    });
+    list.innerHTML = "";
+    const vis = keys.filter(k => !filter || P[k].w.some(x => x[1] === filter));
+    if(!vis.length) list.innerHTML = '<p class="prail-none">No pesukim are cited in this part of the entry.</p>';
+    vis.forEach(k => { const c = card(k, false); if(k === active) c.classList.add("on"); list.appendChild(c); });
+    shown = r;
+  };
+  const current = () => {
+    let cur = -1;
+    targets.forEach((t, i) => { if(t.getBoundingClientRect().top < 110) cur = i; });
+    // Before the first section is reached, show the first part that cites anything.
+    return cur < 0 && cites.length ? cites[0]._r : cur;
+  };
+  let ticking = false;
+  const onScroll = () => {
+    ticking = false;
+    if(!wide.matches) return;
+    const r = current();
+    if(r !== shown) render(r);
+  };
+  addEventListener("scroll", () => { if(!ticking){ ticking = true; requestAnimationFrame(onScroll); } }, {passive:true});
+  wide.addEventListener("change", onScroll);
+  cites.forEach(c => c.addEventListener("click", ev => {
+    ev.preventDefault();
+    const k = c.dataset.k;
+    if(wide.matches){
+      render(c._r, k);
+      const on = list.querySelector(".pcard.on");
+      if(on) on.scrollIntoView({block:"nearest"});
+      return;
+    }
+    const host = c.closest("li, p") || c.parentElement;
+    const inside = host.tagName === "LI";
+    const open = inside ? host.querySelector(":scope > .ppop")
+      : (host.nextElementSibling && host.nextElementSibling.classList.contains("ppop") ? host.nextElementSibling : null);
+    if(open){
+      const same = open.dataset.k === k;
+      open.remove();
+      c.setAttribute("aria-expanded", "false");
+      if(same) return;
+    }
+    const pop = document.createElement("div");
+    pop.className = "ppop"; pop.dataset.k = k;
+    pop.appendChild(card(k, true));
+    inside ? host.appendChild(pop) : host.after(pop);
+    c.setAttribute("aria-expanded", "true");
+  }));
+  onScroll();
+}
+
 document.addEventListener("DOMContentLoaded", () => {
   wire();
   wireTabs();
   wireToc();
+  wirePesukim();
   tally();
   // Focus the home search without the browser scrolling the headline off-screen,
   // which is what plain autofocus does on a short viewport.
