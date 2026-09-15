@@ -828,7 +828,7 @@ def main():
   <div class="banner">
     <h1 class="wm">What&rsquo;s in a Word?</h1>
     <p class="wm-sub">Synonyms in the Hebrew Language</p>
-    <p class="wm-by">By Rabbi Reuven Chaim Klein</p>
+    <hr class="wm-rule">
   </div>
   <p class="lede">Search in Hebrew or in English. <span class="tally" data-to="{n_words}">{n_words:,}</span> words in <span class="tally" data-to="{n_entries}">{n_entries}</span> groups of
   near-synonyms, each with its own meaning and the source that draws the line.</p>
@@ -1043,12 +1043,14 @@ header.bare .brand{flex:1}
 /* home -------------------------------------------------------------------- */
 .hero{padding:64px 0 30px;text-align:center}
 .banner{margin:0 0 30px}
-.wm{font-weight:800;color:var(--brand);font-size:52px;line-height:1.02;
-  letter-spacing:-.025em;margin:0 0 6px}
-.wm-sub{color:var(--brand-sub);font-size:20px;font-weight:600;margin:0 0 14px;
-  letter-spacing:-.005em}
-.wm-by{color:var(--ink);font-size:19px;margin:0;font-weight:400}
-@media (max-width:640px){.wm{font-size:34px}.wm-sub{font-size:16px}.wm-by{font-size:16px}}
+/* A serif wordmark over a letterspaced small-caps line and a short rule. The
+   byline moved to the footer: "By Rabbi Klein" under the title read as though
+   he wrote this site, and the footer says exactly what the site owes him. */
+.hero .wm{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:56px;line-height:1.05;
+  letter-spacing:-.01em;margin:0 0 12px}
+.wm-sub{color:var(--dim);font-size:13px;font-weight:600;margin:0;letter-spacing:.18em;text-transform:uppercase}
+.wm-rule{width:48px;height:1px;background:var(--line);margin:22px auto 0;border:0}
+@media (max-width:640px){.hero .wm{font-size:38px}.wm-sub{font-size:11.5px;letter-spacing:.14em}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
 .lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
 .tally{font-variant-numeric:tabular-nums;display:inline-block;text-align:right;color:var(--ink);font-weight:500}
