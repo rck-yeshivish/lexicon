@@ -418,11 +418,19 @@ def glance_cards(mdtext):
         # Attributions in parentheses, "(Malbim)", sit a shade darker so the
         # authority behind each line can be picked out at a glance.
         dhtml = re.sub(r"\(([A-Z][^()]*)\)", r'(<span class="who">\1</span>)', inline(d))
-        cards.append(f'<div class="wcard"><div class="wh" dir="rtl" lang="he">{inline(he)}</div>'
-                     f'<div class="wmeta"><span class="we">{inline(en)}</span>'
+        # The transliteration sits beside the Hebrew it spells out, and the
+        # English gets a line of its own. Paired with the English, a long gloss
+        # pushed the transliteration onto a second line on some cards only.
+        cards.append(f'<div class="wcard"><div class="wtop">'
+                     f'<span class="wh" dir="rtl" lang="he">{inline(he)}</span>'
                      f'<span class="wt">{inline(tr)}</span></div>'
+                     f'<div class="we">{inline(en)}</div>'
                      f'<div class="wd">{dhtml}</div></div>')
-    return '<div class="wcards">' + "".join(cards) + "</div>"
+    # A multi-word name (הר האלהים, Har HaElokim) cannot share a row with its
+    # transliteration in a narrow card. Rather than wrap on those cards alone,
+    # every card on that page puts the transliteration under the Hebrew.
+    stack = any(" " in he.strip() or len(he.strip()) + len(tr.strip()) > 16 for he, tr, _, _ in rows[2:])
+    return f'<div class="wcards{" stack" if stack else ""}">' + "".join(cards) + "</div>"
 
 
 def entry_page(e):
@@ -977,10 +985,14 @@ header.bare .brand{flex:1}
 .entry h1+.glance{margin-top:34px}
 .wcards{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px}
 .wcard{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px 14px 13px}
-.wh{font-family:var(--heb);font-size:26px;font-weight:500;line-height:1.15;text-align:right}
-.wmeta{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:0 10px;
-  margin:6px 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line)}
-.we{font-weight:600;font-size:15px}
+/* row-reverse keeps the Hebrew at the right; if a long name and its
+   transliteration cannot share the row, the transliteration drops under it. */
+.wtop{display:flex;flex-direction:row-reverse;justify-content:space-between;align-items:baseline;
+  flex-wrap:wrap;gap:0 10px}
+.wcards.stack .wtop{flex-direction:column;align-items:flex-end}
+.wh{font-family:var(--heb);font-size:26px;font-weight:500;line-height:1.15}
+.we{font-weight:600;font-size:15px;line-height:1.35;margin:4px 0 10px;padding-bottom:8px;
+  border-bottom:1px solid var(--line)}
 .wt{font-style:italic;color:var(--dim);font-size:14px}
 .wd{font-size:14px;line-height:1.5;color:var(--dim)}
 .wd .who{color:var(--ink)}
