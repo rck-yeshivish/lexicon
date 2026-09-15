@@ -7,7 +7,54 @@ english: [cherubim, living beings, wheels, angels, fiery ones, watchers]
 domain: other
 words:
   - he: חיות
+    tr: chayos
+    en: living beings
     nk: חַיּוֹת
+    distinct: the highest created rank (Rambam); seen by Yechezkel as wild animals, since even the highest creature Above is as an animal beside Hashem, or so called because through them chiyus, the life-force, reaches all lower creations (the anonymous commentator to Rambam)
+  - he: אופנים
+    tr: ofanim
+    en: wheels
+    distinct: the second rank; the word also means wheel, the wheel that carries the chariot of the Divine glory; the inside of the wheel, against the galgal its outside (the school of Rabbi Elazar Rokeach); synonymous with galgalim (Rabbi Dovid Luria)
+  - he: אראלים
+    tr: erelim
+    en: rank of angels (no settled English)
+    distinct: the third rank; something strong or important, as the Mikdash and the Mizbeach are called Ariel and Harel (the anonymous commentator); those who tell the other angels Hashem's decrees (the school of the Rokeach); in Kesubos 104a, those charged with carrying out the decree
+  - he: חשמלים
+    tr: chashmalim
+    en: rank of angels (no settled English)
+    distinct: the fourth rank, revealed to the nevi'im in fiery flashes of light; chash, quiet, and mal, speak, at times speaking of Hashem's glory and at times silent (Chagigah 13b); chashuv plus mal (the school of the Rokeach); in Modern Hebrew, electricity
+  - he: שרפים
+    tr: serafim
+    en: fiery ones
+    distinct: the fifth rank; named for an appearance so awesome that one who gazes on them is automatically burned up, saruf (the anonymous commentator to Rambam)
+  - he: מלאכים
+    tr: malachim
+    en: angels
+    distinct: the sixth rank and also the general word for every rank, as Taharos names both a seder and a masechta (the anonymous commentator to Rambam); the angels sent to this world on particular missions (the school of the Rokeach)
+  - he: אלהים
+    tr: elohim
+    en: rank of angels (no settled English)
+    distinct: the seventh rank; names any entity in a position of power or authority, and is used of an angel, a judge, a navi, and of Hashem Himself
+  - he: בני אלהים
+    tr: bnei elohim
+    en: rank of angels (no settled English)
+    distinct: the eighth rank, just below the elohim in Rambam's count; so called because they are secondary to the elohim
+  - he: כרובים
+    tr: kruvim
+    en: cherubim
+    distinct: the ninth rank; from Aramaic ravia, a lad, with a kaf of simile, so the kruvim on the Aron looked like children (Chagigah 13b, Sukkah 5b); also the destructive angels guarding the path to the Eitz HaChaim (Rashi)
+  - he: אישים
+    tr: ishim
+    en: men
+    distinct: the lowest rank (Rambam), the angels who speak with human nevi'im, literally men because their level is close to that of the nevi'im; they sometimes act like men (Rabbi Mordechai Shlomo Movshovitz); ish implies a more abstract, immaterial existence (Rabbi Yaakov Tzvi Mecklenburg)
+  - he: עירין
+    tr: irin
+    en: watchers
+    distinct: not on Rambam's list; sent to the cities (ir) of this world to observe men's deeds and give particular dreams (the school of the Rokeach); from eir, awake, always watching what people do (Rabbi Yaakov Tzvi Mecklenburg)
+  - he: קדישין
+    tr: kadishin
+    en: holy ones
+    distinct: not on Rambam's list; holy and set apart in that they do not carry out decrees themselves but tell the other angels what to do (the school of the Rokeach)
 sources:
   - wiaw:8129 "Cherubic Children and Other Angels" (2019-02-09) https://articles.ohr.edu/articles/cherubic-children-and-other-angels
   - wiaw:8444 "Bereishet - Be a Man" (2019-10-26) https://articles.ohr.edu/articles/bereishet-be-a-man
@@ -25,6 +72,23 @@ the bottom: *chayos*, *ofanim*, *erelim*, *chashmalim*, *serafim*, *malachim*,
 *elohim*, *bnei elohim*, *kruvim*, *ishim*. *Kruvim* are the **cherubim**. One
 rank does double duty: *malachim*, which is both a rank of its own and the
 general word for **angels**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חיות | chayos | living beings | highest created rank (Rambam); givers of *chiyus*, life-force |
+| אופנים | ofanim | wheels | second rank; the wheel of the chariot; its inside, against the *galgal* |
+| אראלים | erelim | rank of angels (no settled English) | third rank; strong or important; announce Hashem's decrees to the other angels |
+| חשמלים | chashmalim | rank of angels (no settled English) | fourth rank, seen in fiery flashes; *chash*, quiet, and *mal*, speak |
+| שרפים | serafim | fiery ones | fifth rank; so awesome that one who gazes on them is burned |
+| מלאכים | malachim | angels | sixth rank, and also the general word for every rank |
+| אלהים | elohim | rank of angels (no settled English) | seventh rank; any entity in a position of power or authority |
+| בני אלהים | bnei elohim | rank of angels (no settled English) | eighth rank; secondary to the *elohim* |
+| כרובים | kruvim | cherubim | ninth rank; from Aramaic *ravia*, lad, so shaped like children |
+| אישים | ishim | men | lowest rank (Rambam), speaking with nevi'im; they sometimes act like men (Movshovitz) |
+| עירין | irin | watchers | not in Rambam; sent to the cities to observe, or always awake (Mecklenburg) |
+| קדישין | kadishin | holy ones | not in Rambam; set apart, directing other angels rather than acting |
 
 ## Distinctions
 

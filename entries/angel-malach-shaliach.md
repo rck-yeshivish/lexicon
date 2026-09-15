@@ -6,6 +6,22 @@ translit: [malach, mal'ach, malachim, malochim, shaliach, shliach, sheliach, shl
 english: [angel, messenger, agent, emissary, envoy, proxy]
 domain: other
 words:
+  - he: מלאך
+    tr: malach
+    en: messenger, angel
+    distinct: a messenger charged with a task the sender would do himself, a position of honor (Pappenheim, Malbim), not required to report back (Malbim); the messenger's role in replacing his sender (Rav Hirsch); of Hashem's messengers, an angel, though Ralbag reads every malach as a prophet
+  - he: שליח
+    tr: shaliach
+    en: agent, emissary
+    distinct: not in Tanach; simply one who is sent, a messenger (Rav Hirsch); one given the choice to accept the mission, who then acts of his own volition, so that a malach is a kind of shaliach (Rabbi Yaakov Lorberbaum of Lissa)
+  - he: משחית
+    tr: mashchis
+    en: destroyer, destroying angel
+    distinct: one of Hashem's angelic forces named by its task, a mashchis for malevolent missions as a malach is for benevolent ones (Rabbi Yaakov Lorberbaum of Lissa)
+  - he: ציר
+    tr: tzir
+    en: envoy
+    distinct: always a messenger in a diplomatic setting, an envoy or ambassador; a professional courier used many times (Vilna Gaon); the attaching of distant political entities (Pappenheim); one who must report back to his dispatcher, unlike a malach (Malbim)
   - he: מלאכה
     nk: מְלָאכָה
   - he: שלח
@@ -31,6 +47,15 @@ sender would do himself (Pappenheim, Malbim); of Hashem's messengers it is an
 messenger; the Lissa Rav: one who chose to accept the mission). *Tzir* is an
 **envoy**, a diplomatic messenger, and for Malbim one who reports back. *Malach* is not automatically an angel: the Midrash disputes whether
 Yaakov's *malachim* were angels or men.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מלאך | malach | messenger, angel | stands in for the sender, an honor (Pappenheim, Malbim); of Hashem, an angel |
+| שליח | shaliach | agent, emissary | simply one sent (Rav Hirsch); chooses to accept the mission (Lorberbaum) |
+| משחית | mashchis | destroyer, destroying angel | an angel sent on a malevolent mission, against *malach* (Lorberbaum) |
+| ציר | tzir | envoy | a diplomatic messenger; a professional courier (Vilna Gaon); reports back (Malbim) |
 
 ## Distinctions
 

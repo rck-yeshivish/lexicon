@@ -5,6 +5,23 @@ roots: [ח-מ-ש, ח-ל-צ, ז-י-ן, ז-נ, ר-ק, א-ז-ן]
 translit: [chamush, chamushim, chomesh, chimesh, chalutz, chalutzim, chalatzim, chalitzah, mezuyan, mezuyanim, zayin, klei zayin, neshek, vayarek, azenecha, azeinecha, zariz, tachmoshes]
 english: [armed, arms, weapon, vanguard, mustered, equipped]
 domain: action
+words:
+  - he: חמוש
+    tr: chamush
+    en: armed
+    distinct: the Chumash's word; armed with a weapon girded at the chomesh (Ibn Janach, Ibn Ezra, Radak); tied to chamesh, five, as five weapons in the Yerushalmi or one in five who left (Rashi); formations of fifty (Malbim); rendered zariz, ready, by Targum
+  - he: חלוץ
+    tr: chalutz
+    en: vanguard
+    distinct: the units drawn out of the formation to serve at the front (Rabbi Shlomo Pappenheim); men slipped off and separated from the nation (Malbim); armed at the loins (Ibn Ezra); removed from the nation as soldiers (Radak); shedding civilian clothing (Ibn Janach); equated with mezuyanim (Rashi)
+  - he: מזוין
+    tr: mezuyan
+    en: armed
+    distinct: post-biblical, common in Gemara, from Aramaic zayin, a weapon, Targum's word for neshek; zayin glossed by German waffen and Latin arma (Rabbi Eliyahu HaBachur); equated with chamushim in the Mechilta and Shemos Rabbah
+  - he: ויירק
+    tr: vayarek
+    en: mustered
+    distinct: a verb where the others are adjectives, Avraham mustering his men, listed beside chalutz and chamush (Rabbi Shlomo of Urbino); rendered zariz by Onkelos; from ר-ק, emptying, as drawing a sword empties its sheath (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:11613 "Bishalach: Armed and Ready" (2024-01-27) https://articles.ohr.edu/articles/bishalach-armed-and-ready
 authorities: [Rashi, Ramban, Menachem Ibn Saruk, Yonah Ibn Janach, Shlomo Ibn Parchon, Radak, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rashbam, Daas Zekeinim, Malbim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Shlomo of Urbino, Korban HaEidah, Torah Temimah, Rabbi Chaim Kanievsky, Baal HaTurim, Rabbi Ernest Klein, Wilhelm Gesenius, David Curwin, Rabbi Elimelech Bleiberg, Rabbi Itamar Habshush, David Assaf, Yisrael Bartel]
@@ -27,6 +44,15 @@ Targum renders *chamush* in all four places by *zariz*, ready at a moment's
 notice, and often renders *chalutz* the same way; Onkelos gives *vayarek* of
 Avraham by *zariz* too. At Shemos 13:18 "armed" and "a fifth of them" are
 both live readings of one word.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חמוש | chamush | armed | armed at the *chomesh* (Radak); from *chamesh*, five (Rashi) |
+| חלוץ | chalutz | vanguard | units drawn out to the front (Pappenheim); separated from the nation (Malbim) |
+| מזוין | mezuyan | armed | post-biblical, from Aramaic *zayin*, a weapon; common in Gemara |
+| ויירק | vayarek | mustered | a verb, Avraham's mustering (Rabbi Shlomo of Urbino); from emptying the sheath (Pappenheim) |
 
 ## Distinctions
 

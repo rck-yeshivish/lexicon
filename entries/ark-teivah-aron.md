@@ -7,7 +7,14 @@ english: [ark, box, chest, basket, coffin, closet]
 domain: other
 words:
   - he: תיבה
+    tr: teivah
+    en: ark, basket
     nk: תֵּיבָה
+    distinct: Noach's ark and the infant Moshe's basket; perhaps a container kept afloat, or one holding a living person, like a home, kin to bayis (Rabbi Aharon Marcus), a temporary domicile from י-ש-ב (Rav Hirsch); in Rabbinic Hebrew near-interchangeable with aron
+  - he: ארון
+    tr: aron
+    en: ark, chest, coffin
+    distinct: the Aron HaBris and Yosef's coffin, neither afloat nor holding a living person; in the Yerushalmi built of three teivos; in Modern Hebrew a closet, against teivah the storage chest
 sources:
   - wiaw:6943 "A Tale of Two Arks" (2016-09-24) https://articles.ohr.edu/articles/a-tale-of-two-arks
   - wiaw:9405 "Words for Words" (2021-10-23) https://articles.ohr.edu/articles/words-for-words
@@ -25,6 +32,13 @@ the Covenant and Yosef's coffin. *Teivah* is an **ark** or **basket** (on the tw
 proposals offered below, a floating vessel or a container for a living person),
 and *aron* an **ark**, **chest**, or **coffin**. In Rabbinic Hebrew the two words are used almost interchangeably, so a Mishnaic
 *teivah* may well be an *aron*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| תיבה | teivah | ark, basket | Noach's ark, Moshe's basket; perhaps afloat, or holding a living person |
+| ארון | aron | ark, chest, coffin | the Aron HaBris and Yosef's coffin; neither afloat nor holding the living |
 
 ## Distinctions
 

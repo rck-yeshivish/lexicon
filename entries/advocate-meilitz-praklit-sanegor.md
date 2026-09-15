@@ -5,6 +5,27 @@ roots: [מ-ל-צ, ל-ו-צ, ל-צ]
 translit: [meilitz, melitz, meilitz yosher, melitz yosher, praklit, peraklit, paraklet, parakilit, sanegor, sanigor, synagor, kategor, kateigor, katigor, kitrug, meltzar, meltzer, leitzanut, leitz, leitzan]
 english: [defender, advocate, intercessor, character witness, accuser, prosecutor, go-between]
 domain: society
+words:
+  - he: מליץ
+    tr: meilitz
+    en: go-between, interpreter
+    distinct: the only native Hebrew word of the three; an interpreter standing between two parties, more broadly a middle-man; named for the smooth, fluent speech or the reasoning an advocate needs (Ibn Janach, Radak); logical verbalization turned to good, against leitzanus (Rabbi Shlomo Pappenheim)
+  - he: מליץ יושר
+    tr: meilitz yosher
+    en: defending advocate
+    distinct: one who speaks up for a man's uprightness, from the meilitz angel of Iyov 33:23-24; the Hebrew term by which praklit (Rashi, Machzor Vitri, Rambam) and sanegor (Rashi, Rabbeinu Chananel) are both defined
+  - he: פרקליט
+    tr: praklit
+    en: patron, character witness
+    distinct: a Greek loanword, parakletos, one called in from outside to defend a man (Tiferet Yisrael); per the historians, the patron or character witness who vouches for the defendant rather than arguing his case, some saying he helped silently by showing up
+  - he: סניגור
+    tr: sanegor
+    en: defense counsel
+    distinct: a Greek loanword, synegoros, the legal expert who argued a defendant's case before the assembly; exegetically sani plus tigra, one who hates strife and quiets the accuser (Rashi, Machzor Vitri, Rabbeinu Elyakim, Moshav Zekanim); the usual antonym of kategor
+  - he: קטגור
+    tr: kategor
+    en: accuser, prosecutor
+    distinct: Greek kata plus agora, one who speaks against another before an assembly; a slanderer or informer (Rabbeinu Chananel, Rambam, Rashbatz, Rabbi Yaakov bar Shimshon); ketata plus tigra (Machzor Vitri); antonym of praklit in Avos 4:11 and of sanegor elsewhere
 sources:
   - wiaw:9368 "Calling the Defender - Vayelech / Yom Kippur" (2021-09-11) https://articles.ohr.edu/articles/calling-the-defender-vayelech-yom-kippur
 authorities: [Rashi, Machzor Vitri, Rambam, Rabbeinu Chananel, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rashbatz, Tiferet Yisrael, Melechet Shlomo, Rabbi Eliyahu HaBachur, Rabbi Yaakov Yehuda Zilberberg, Rabbeinu Elyakim, Moshav Zekanim, Rabbi Yaakov bar Shimshon, Chaim Tawil]
@@ -31,6 +52,16 @@ Yaakov's, that one who performs a single mitzvah acquires for himself one
 (*Avos* 4:11); in other cases the antonym of *kategor* is *sanegor*. In Modern
 Hebrew a *praklit* is a state attorney, who is actually a prosecutor, not a
 defender.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| מליץ | meilitz | go-between, interpreter | the native Hebrew word; a go-between; smooth speech or reasoning (Ibn Janach, Radak) |
+| מליץ יושר | meilitz yosher | defending advocate | speaks up for uprightness; the term that defines *praklit* and *sanegor* (Rashi) |
+| פרקליט | praklit | patron, character witness | Greek *parakletos*; vouches for the defendant rather than arguing his case |
+| סניגור | sanegor | defense counsel | Greek *synegoros*, argues before the assembly; *sani* plus *tigra*, hater of strife (Rashi) |
+| קטגור | kategor | accuser, prosecutor | speaks against another before an assembly; a slanderer (Rambam); antonym of *sanegor* |
 
 ## Distinctions
 

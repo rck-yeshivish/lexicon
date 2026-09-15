@@ -6,16 +6,79 @@ translit: [kaas, ka'as, kaas, cheimah, cheima, chemah, chema, charon, charon af,
 english: [anger, wrath, burning anger, fierce anger, fury, rage, indignation, agitation, upset]
 domain: emotion
 words:
+  - he: כעס
+    tr: kaas
+    en: anger
+    distinct: the commonest, most generic term and the simplest, lowest grade (Pappenheim); anger pent up in the heart and never brought into action (Malbim); a metathesis of eches, poison in the heart (Rabbeinu Efrayim), or eches from kaas, a snake's venom released in anger (Rashi)
   - he: חמה
+    tr: cheimah
+    en: wrath
     nk: חֵמָה
-  - he: אף
-    nk: אַף
-  - he: אנף
-    nk: אָנַף
+    distinct: from cham, hot, the angry man heated up (Rabbeinu Efrayim); the one anger word used of animals too (Bedersi); held in the heart long without an act of rage (Malbim); the developed stage and anger in action, where af is the beginning and anger in thought (Vilna Gaon)
+  - he: חרון
+    tr: charon
+    en: burning anger
+    distinct: past heat to burning, greater than cheimah as burnt is beyond hot (Bedersi); from chor, a hole, the heat piercing the body (Rabbeinu Efrayim); from nechirim, nostrils (Pappenheim); alone merely upset (Peirush HaRokeach); arouses the thirst for vengeance (Rambam)
+  - he: חרון אף
+    tr: charon af
+    en: fierce anger
+    distinct: the idiom for anger, since a person's anger can be discerned on his nose as it fumes in fury (Rashi); anger proper, where charon alone is only upset (Peirush HaRokeach)
+  - he: רוגז
+    tr: rogez
+    en: agitation
+    distinct: anger that arouses the whole body, as shaking and fear do (Rabbeinu Efrayim); sometimes shaking out of fear, not anger (Bedersi); the tranquil man suddenly bursting out (Rokeach); allows no respite (Malbim); primarily physical trembling, then any agitation (Shadal); in Biblical Aramaic, anger (Rashbam)
   - he: עברה
+    tr: evrah
+    en: fury
     nk: עֶבְרָה
+    distinct: anger that passes beyond its bounds onto those who did not act against him (Malbim); from oveir, violating one's own and one's Creator's expectations (Rabbeinu Efrayim); tied to me'uberes, pregnant (Peirush HaRokeach); the highest grade, the body distended with fury (Pappenheim)
+  - he: זעם
+    tr: zaam
+    en: indignation
+    distinct: anger that stems from disgust or contempt for another (Ibn Janach, Bedersi); literally to curse, the angry man cursing his object (Malbim); suppressed anger (Vilna Gaon); from shaking and sweat (Rabbeinu Efrayim); kin to zuhamah, filth, the rejection of another (Rav Hirsch)
+  - he: קצף
+    tr: ketzef
+    en: rage
+    distinct: anger at the boil, the word also naming the bubbles of boiling water (Ibn Ezra, Radak); visible in the sweat on the face (Rokeach); the most extreme form (Eitz Yosef); outward anger coolly formulated by the intellect, even for a third party (Malbim); foam at the lips (Pappenheim)
+  - he: אף
+    tr: af
+    en: anger
+    nk: אַף
+    distinct: nose or face; anger physically visible in the face, typically born of emotion and at times roused spontaneously (Malbim); the nose emitting smoke (Rabbeinu Efrayim); the beginning of anger and anger in thought, against cheimah (Vilna Gaon)
+  - he: אנף
+    tr: anaf
+    en: anger
+    nk: אָנַף
+    distinct: the same word as af with an extra nun (Rabbeinu Efrayim), or the true root of af, whose nun sometimes drops out (Radak); anger that spurs one to immediate revenge (Rokeach); from נ-פ, the body convulsing with anger (Pappenheim)
+  - he: עשן
+    tr: ashan
+    en: smoke, anger
+    distinct: smoke, a borrowed term that came to mean anger because smoke is a byproduct of burning fire and the words for anger are tied to boiling, heat and fire (Radak)
   - he: פנים
+    tr: panim
+    en: face, anger
     nk: פָּנִים
+    distinct: face, likewise a borrowed term for anger, since a man's emotional state can often be readily seen on his face
+  - he: זעף
+    tr: zaaf
+    en: anger (no settled English)
+    distinct: ז-ע, shaking and moving, joined to א-ף, face, a level of anger that brings on a furious facial twitch (Pappenheim)
+  - he: נאץ
+    tr: naatz
+    en: anger (no settled English)
+    distinct: disputed; contempt tolerated only so long before the annoyance goes out into openly expressed anger (Pappenheim); against that, anger that leads one to reject and push another away as disgusting (Malbim)
+  - he: עצבות
+    tr: atzvus
+    en: upset, disappointed
+    distinct: upset or disappointment, feelings that can lead to anger but are not anger, and elsewhere sadness; unlike charon it does not arouse the thirst for vengeance (Rambam)
+  - he: רעם
+    tr: raam
+    en: roar
+    distinct: also noise or roar, since the angrier a man is the likelier he is to lash out by yelling; tied to the Mishnaic taromes, complaint, both verbal dissatisfaction (Rashi)
+  - he: שצף
+    tr: shetzef
+    en: anger, a little bit
+    distinct: a hapax paired with ketzef, its meaning not completely clear; anger, like ketzef (Menachem, Rabbeinu Tam); a little bit (Targum Yonatan, Donash, Ibn Janach, Radak); a fleeting moment (Donash) or speed (Peirush HaRokeach)
 sources:
   - wiaw:9296 "Anger Issues" (2021-07-17) https://articles.ohr.edu/articles/anger-issues
   - wiaw:9603 "Pick Your Poison" (2022-03-05) https://articles.ohr.edu/articles/pick-your-poison
@@ -38,6 +101,28 @@ idiom *charon af*, **fierce anger**. *Evrah* overflows its object onto others:
 shaken out of its calm: **agitation**. *Af* is anger on the face: **anger**. Rabbi
 Shlomo Pappenheim ranks them by intensity (kaas, zaam, cheimah, charon, charon af,
 ketzef, evrah).
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| כעס | kaas | anger | the generic, lowest grade (Pappenheim); pent up, never acted on (Malbim) |
+| חמה | cheimah | wrath | held long in the heart (Malbim); anger in action, beyond *af* (Vilna Gaon) |
+| חרון | charon | burning anger | burnt, hotter than *cheimah* (Bedersi); arouses the thirst for vengeance (Rambam) |
+| חרון אף | charon af | fierce anger | anger seen on the fuming nose (Rashi) |
+| רוגז | rogez | agitation | the whole body shaken (Rabbeinu Efrayim); sometimes fear, not anger (Bedersi) |
+| עברה | evrah | fury | overflows onto those who did nothing (Malbim); the highest grade (Pappenheim) |
+| זעם | zaam | indignation | contempt for another (Ibn Janach, Bedersi); cursing (Malbim) |
+| קצף | ketzef | rage | anger at the boil, like bubbles (Radak); coolly reasoned (Malbim) |
+| אף | af | anger | anger visible on the face (Malbim); the first stage, anger in thought (Vilna Gaon) |
+| אנף | anaf | anger | *af* with an added nun (Rabbeinu Efrayim), or its true root (Radak) |
+| עשן | ashan | smoke, anger | smoke, borrowed for anger since anger words are tied to fire (Radak) |
+| פנים | panim | face, anger | face, borrowed for anger, where the emotion shows |
+| זעף | zaaf | anger (no settled English) | anger that brings on a furious facial twitch (Pappenheim) |
+| נאץ | naatz | anger (no settled English) | disputed: contempt breaking into open anger (Pappenheim) against rejection as disgusting (Malbim) |
+| עצבות | atzvus | upset, disappointed | upset that can lead to anger but is not anger; seeks no vengeance (Rambam) |
+| רעם | raam | roar | noise or roar, the angry man lashing out by yelling |
+| שצף | shetzef | anger, a little bit | a hapax beside *ketzef*; anger (Rabbeinu Tam) or a little bit (Radak) |
 
 ## Distinctions
 

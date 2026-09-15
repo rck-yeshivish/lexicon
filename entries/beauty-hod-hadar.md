@@ -6,8 +6,15 @@ translit: [hod, hodaah, hoda'ah, karnei hod, hod malchus, hod malchut, hadar, ha
 english: [splendor, majesty, glory, inner glory, outward glory]
 domain: other
 words:
+  - he: הוד
+    tr: hod
+    en: splendor, majesty
+    distinct: inner, owned beauty not seen with the eye, the sun's own light (Vilna Gaon); beauty of character that only the intellect beholds (Malbim); the full sovereignty of kingship (Sifrei); of Hashem, His essence (Rav Hirsch); written first in hod v'hadar
   - he: הדר
+    tr: hadar
+    en: glory
     nk: הָדָר
+    distinct: outward, visible, reflected beauty, the moon's light (Vilna Gaon); the esrog's fruit, beautiful to the eye (Malbim); kingship's trappings without its essence (Rabbi Simcha Maimon); from Aramaic for returning (Rabbi Moshe Shapiro); of Hashem, His role in the world (Rav Hirsch)
 sources:
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
 authorities: [Sefer HaKushyos, Rabbi Shlomo of Urbino, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shmuel Dovid Luzzatto, Malbim, Rabbi Simcha Maimon, Sifrei, Rav Hirsch]
@@ -27,6 +34,13 @@ comes like all the month-names from the Babylonian calendar, where it was
 Addaru, and seems, on the interchange of the Aramaic aleph with the Hebrew hei,
 to be correlated with *hadar*. In the fixed pair הוד והדר, *hod* comes first:
 **splendor and glory**.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| הוד | hod | splendor, majesty | inner beauty (Malbim), the sun's own light (Vilna Gaon) |
+| הדר | hadar | glory | outward beauty (Malbim), reflected like the moon's light (Vilna Gaon) |
 
 ## Distinctions
 

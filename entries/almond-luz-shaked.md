@@ -5,6 +5,15 @@ roots: [ל-ו-ז, ש-ק-ד]
 translit: [luz, luzin, shaked, shakeid, shekeidim, shkedim, meshukadim, shoked, halaz, shkediyah]
 english: [almond, almond tree, hazel, watchful, diligent, vigilant]
 domain: nature
+words:
+  - he: שקד
+    tr: shaked
+    en: almond
+    distinct: the genuinely Hebrew word for the almond; its root means watchful and diligent, the almond being zealous to blossom before other trees (Ibn Janach, Radak) or diligent in hanging on the tree (Dr. Joshua D. Klein); the pun of Yirmiyahu 1:11 to 12 (Rashi)
+  - he: לוז
+    tr: luz
+    en: almond, hazel
+    distinct: almond, as in Arabic (Rabbi Saadia Gaon), and on Rabbi Klein's hedged upshot the Aramaic word for what shaked names in Hebrew; hazel (Rashi, Tosafos); the silverleaf poplar in another version of Rabbi Saadia Gaon; related to the cedar (Menachem Ibn Saruk); never Onkelos's rendering of shaked
 sources:
   - wiaw:9436 "Almonds in the Bible" (2021-11-13) https://articles.ohr.edu/articles/almonds-in-the-bible
 authorities: [Rabbi Saadia Gaon, Radak, Ibn Ezra, Menachem Ibn Saruk, Rashi, Tosafos, Ibn Janach, Rabbi Shlomo Pappenheim, Midrash Sechel Tov, Targum Onkelos, Targum Yonasan, Targum Neofiti, Rabbi J. D. Eisenstein, Avraham Even-Shoshan, Gary Rendsburg, Joshua D. Klein, Solomon Löwisohn]
@@ -25,6 +34,13 @@ Onkelos never once renders *shaked* as *luz*. Rabbi Klein's upshot is a
 hedged one: it seems that *luz* is an Aramaic word and *shaked* a genuinely
 Hebrew one, in which case the two mean exactly the same thing and differ only by
 language.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| שקד | shaked | almond | the Hebrew word; root of watchfulness, quick to blossom (Ibn Janach, Radak) |
+| לוז | luz | almond, hazel | almond, as in Arabic (Rabbi Saadia Gaon); hazel (Rashi); perhaps Aramaic for *shaked* |
 
 ## Distinctions
 

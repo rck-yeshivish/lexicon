@@ -6,12 +6,18 @@ translit: [behemah, beheimah, behema, behemot, behemos, beheimos, chayah, chaya,
 english: [animal, beast, domesticated animal, wild animal, livestock]
 domain: nature
 words:
+  - he: בהמה
+    tr: behemah
+    en: domesticated animal
+    nk: בְּהֵמָה
+    distinct: the domesticated animal that lives among people and has a use for them, for meat or burden (Ibn Ezra, Radak); against that, the herbivore that feeds only on plants (Ramban); named for the sounds animals make (Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus)
   - he: חיה
+    tr: chayah
+    en: wild animal
     nk: חַיָּה
+    distinct: the wild animal of uninhabited country (Ibn Ezra, Radak), favored by the Netziv; against that, the carnivore (Ramban), which the Netziv rejects from the deer and Rabbi Chaim Kanievsky defends, since a deer eats insects
   - he: חיות
     nk: חַיּוֹת
-  - he: בהמה
-    nk: בְּהֵמָה
 sources:
   - wiaw:6999 "Don't be a Behemah or a Chayah!" (2016-11-12) https://articles.ohr.edu/articles/dont-be-a-behemah-or-a-chayah
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
@@ -30,6 +36,13 @@ and Radak). Ramban suggests a different line, by diet: *behemos* eat only plants
 Rabbi Chaim Kanievsky defending him. These are halachic categories before they
 are descriptions:
 *cheilev* is forbidden only in a *behemah*, and *kisui hadam* applies, among animals, only to a *chayah*.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| בהמה | behemah | domesticated animal | lives among people and serves them (Ibn Ezra, Radak); the herbivore (Ramban) |
+| חיה | chayah | wild animal | lives in open country (Ibn Ezra, Radak); the carnivore (Ramban) |
 
 ## Distinctions
 

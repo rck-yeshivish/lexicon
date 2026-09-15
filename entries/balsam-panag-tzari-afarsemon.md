@@ -5,6 +5,39 @@ roots: [פ-נ-ג, צ-ר-י, נ-ט-ף, ק-ט-ף, ב-ש-ם]
 translit: [panag, pannag, tzari, tzori, tzri, nataf, notef, ketaf, ketef, bosem, bousem, besamim, besomim, basmat, afarsemon, afarsema, apharsemon, balsam, balsamon, opopalsamun, opopalsamum, besumei]
 english: [balsam, balsam oil, balm, fragrance, spices, the dripping resin]
 domain: nature
+words:
+  - he: פנג
+    tr: panag
+    en: balsam oil (disputed)
+    distinct: a hapax at Yechezkel 27:17; balsam oil (Yossiphon), cited by Rashi, though Radak objects that Yechezkel lists it apart from tzari; pinuk, pleasure (Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shmuel David Luzzatto, Zohar); oneg (Shoresh Yesha)
+  - he: צרי
+    tr: tzari
+    en: balm, balsam
+    distinct: a scented potion used medicinally, the balsam resin of Tanach and the ketores (Rambam, Bereishis Rabbah) or theriaca (Rashi); what drips from the ketaf tree (Rabban Shimon ben Gamliel), or on Ramban's reading of Rambam a piece of the tree itself
+  - he: נטף
+    tr: nataf
+    en: the dripping one
+    distinct: the incense passage's own name for tzari, the one that drips, which suits balsam, whose oil is sap dripping from the tree; rendered ketaf by Onkelos and al-balasan (Rabbi Saadia Gaon, Rabbi Avraham Maimuni)
+  - he: קטף
+    tr: ketaf
+    en: balsam tree
+    distinct: the tree from which tzari drips (Rabban Shimon ben Gamliel), glossed as the balsam tree (Rambam); Onkelos's rendering of both tzari and nataf, naming the tree where nataf names the manner
+  - he: בלסם
+    tr: balsam
+    en: balsam
+    distinct: the Rabbinic Hebrew word by which Bereishis Rabbah identifies the tzari Yaakov sent, from Greek balsamon and Latin balsamum; seemingly borrowed straight from Greek, where afarsemon came through Old Persian
+  - he: בושם
+    tr: bosem
+    en: fragrance, spices
+    distinct: the wide word for fragrant goods, never balsam in particular in Tanach, though Greek balsamon seems to derive from it; bo plus sam, an elixir in it (Ramban); from ס-ם, a thing put in its designated place (Rabbi Shlomo Pappenheim)
+  - he: אפרסמון
+    tr: afarsemon
+    en: balsam oil
+    distinct: the commonest Rabbinic word for balsam oil, absent from the Mishnah, used to anoint kings without the shemen hamishchah; the foremost oil (Rashi); from Old Persian, or from pirsum, publicized (Rabbi Yosef Teomim-Frankel); in Modern Hebrew persimmon
+  - he: אפופלסמון
+    tr: opopalsamun
+    en: balsam
+    distinct: a third Rabbinic term, in Bereishis Rabbah, for balsam with a strong smell, most likely from Greek opobalsamum, flowing fragrant, and so bound up in the end with balsamon
 sources:
   - wiaw:10824 "Ki Sisa: Awesome Balsam" (2023-03-11) https://articles.ohr.edu/articles/ki-sisa-awesome-balsam
 authorities: [Rashi, Radak, Rabbi Yosef Kara, Rabbi Eliezer of Beaugency, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Shmuel David Luzzatto, Zohar, Shoresh Yesha, Rambam, Ramban, Rabbi Saadia Gaon, Rabbi Avraham Maimuni, Rabban Shimon ben Gamliel, Rabbi Yosef Teomim-Frankel, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Moshe ben Yekutiel of Rome, Rabbi Yosef of Saragossa, Zohar Amar, Marcus Jastrow, Alexander Kohut, Richard C. Steiner, Josephus]
@@ -24,6 +57,19 @@ legomenon* at Yechezkel 27:17; *Yossiphon* reads it as balsam and Rashi cites
 that, presumably endorsing it, but
 Radak objects that if *tzari* is balsam, *panag* is unlikely to be, since
 Yechezkel lists *panag* and *tzari* separately.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| פנג | panag | balsam oil (disputed) | disputed hapax: balsam oil (Rashi) against *pinuk*, pleasure (Tedeschi-Ashkenazi) |
+| צרי | tzari | balm, balsam | the balsam resin (Rambam) or theriaca (Rashi) |
+| נטף | nataf | the dripping one | the incense passage's name for *tzari*: sap that drips from the tree |
+| קטף | ketaf | balsam tree | the tree *tzari* drips from; the balsam tree (Rambam); Onkelos's word for *tzari* |
+| בלסם | balsam | balsam | the Rabbinic word from Greek *balsamon* (Bereishis Rabbah) |
+| בושם | bosem | fragrance, spices | the wide word for fragrant goods, never balsam in Tanach |
+| אפרסמון | afarsemon | balsam oil | the commonest Rabbinic word for balsam oil; the foremost oil (Rashi) |
+| אפופלסמון | opopalsamun | balsam | a third Rabbinic term, from Greek *opobalsamum*, flowing fragrant |
 
 ## Distinctions
 

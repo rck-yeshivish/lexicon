@@ -6,8 +6,23 @@ translit: [charash, choresh, charashim, choshev, maaseh choshev, rokem, roikem, 
 english: [craftsman, artisan, designer, brocader, embroiderer, master craftsman]
 domain: action
 words:
+  - he: חשב
+    tr: choshev
+    en: designer
+    distinct: plans and combines finished materials into a figured work; embroidery by weaving with two faces (Yoma 72b), a different figure on each side (Rashi) or one image reading alike from both (Rambam, Abarbanel); arranges without changing the material, named for thought and cheshbon (Pappenheim)
+  - he: רקם
+    tr: rokem
+    en: embroiderer
+    distinct: works in colors, embroidery by stitching with one face (Yoma 72b), the harder symmetrical image (Rashi) or work on one face only (Rambam, Abarbanel); first a needleless patchwork (Shadal); foreground piled on background, like regem (Rav Hirsch); a multicolored textile (Radak)
   - he: חרש
+    tr: charash
+    en: craftsman
     nk: חָרָשׁ
+    distinct: changes raw wood, stone or metal out of its natural state, where the choshev only arranges; from plowing, the preparatory labor (Rabbi Shlomo Pappenheim); from cheiresh, mute, since he works in silence (Rabbi Yehudah Aryeh of Carpentras); in Aramaic a sorcerer
+  - he: אמן
+    tr: uman
+    en: craftsman, expert
+    distinct: Onkelos's rendering of charash, common in Mishnah but not in Tanach; any craftsman (Machberes Menachem) or only an expert (Radak); in the Gemara a bloodletter or barber (Rashi), and a circumciser
 sources:
   - wiaw:11298 "Pekudai: Crafty Artisans" (2024-03-16) https://articles.ohr.edu/articles/pekudai-crafty-artisans
   - wiaw:11342 "Tazria: The Cutter" (2024-04-13) https://articles.ohr.edu/articles/tazria-the-cutter
@@ -26,6 +41,15 @@ material, wood, stone or metal. *Choshev* is the **designer**, who plans and
 combines finished materials into a figured work, hence *maaseh choshev* brocade.
 *Rokem* is the **embroiderer**, working in colors. Both are embroidery, and the
 Gemara (Yoma 72b) distinguishes them by how many faces the work shows.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| חשב | choshev | designer | arranges finished materials into a figured work; weaving with two faces (Yoma 72b) |
+| רקם | rokem | embroiderer | embroiders in colors, stitching with one face (Yoma 72b) |
+| חרש | charash | craftsman | reshapes raw wood, stone or metal; from plowing, preparatory labor (Pappenheim) |
+| אמן | uman | craftsman, expert | Onkelos's word for *charash*; any craftsman (Menachem) or only an expert (Radak) |
 
 ## Distinctions
 

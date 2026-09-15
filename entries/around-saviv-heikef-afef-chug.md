@@ -5,6 +5,23 @@ roots: [ס-ב-ב, נ-ק-ף, ע-ו-ף, ח-ו-ג]
 translit: [saviv, sovev, sivuv, sevivon, sav, saba, soveh, heikef, hekef, haikef, hakafah, hakafot, hakafos, kafui, afef, afefuni, chug, machug, chag, chagorah, ugah, agil, sachor, socher]
 english: [around, about, encircle, circuit, circumference, circle, envelop, orbit]
 domain: other
+words:
+  - he: סביב
+    tr: saviv
+    en: around, about
+    distinct: moving around a center with no guarantee of completing the circle, so a semicircle, an arc or a detour qualifies (Rabbi Shlomo Pappenheim); not necessarily a complete circuit, though doubled as saviv saviv it is (Malbim)
+  - he: היקף
+    tr: heikef
+    en: circuit, circumference
+    distinct: always a complete circuit, the circumference of a circle, hence the hakafos; kin to kafui, congealed, closed within the bounds of its present state (Pappenheim)
+  - he: עפף
+    tr: afef
+    en: envelop, beset
+    distinct: an encircling that closes in from every corner at once, bound up with pe'ah, a corner, and always carrying a negative sense (Malbim)
+  - he: חוג
+    tr: chug
+    en: circle, orbit
+    distinct: what orbits around another body, as a planet does (Radak); a circle, or machug, considered from its center (Malbim)
 sources:
   - wiaw:7530 "Around in Concentric Circles" (2017-12-09) https://articles.ohr.edu/articles/around-in-concentric-circles
 authorities: [Malbim, Rabbi Shlomo Pappenheim, Radak, Rabbi Yom Tov Lipmann Heller, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Wolf Heidenheim, Sefer HeAruch]
@@ -22,6 +39,15 @@ speaking; doubled as *saviv saviv* it does mean all the way around (Malbim).
 *Afef* is encircling that closes in on a man from every side, and Malbim holds it
 is always for the worse: **envelop**, **beset**. *Chug* is a circle seen from its
 center, an orbit. Bare *saviv* may concede only an arc.
+
+## At a glance
+
+| Hebrew | translit | English | what sets it apart |
+|---|---|---|---|
+| סביב | saviv | around, about | around a center without completing the circle, even a detour (Pappenheim) |
+| היקף | heikef | circuit, circumference | always a complete circuit, hence *hakafos* |
+| עפף | afef | envelop, beset | closing in from every corner; always for the worse (Malbim) |
+| חוג | chug | circle, orbit | what orbits another body (Radak); a circle seen from its center (Malbim) |
 
 ## Distinctions
 
