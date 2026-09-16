@@ -829,6 +829,7 @@ def main():
     <h1 class="wm">What&rsquo;s in a Word?</h1>
     <p class="wm-sub">Synonyms in the Hebrew Language</p>
     <hr class="wm-rule">
+    <p class="wm-sub wm-credit">From the essays of <span class="nw">Rabbi Reuven Chaim Klein</span></p>
   </div>
   <p class="lede"><span class="tally" data-to="{n_words}">{n_words:,}</span> words in <span class="tally" data-to="{n_entries}">{n_entries}</span> groups of
   near-synonyms, each word with its own meaning clarified and the sources that discuss it.</p>
@@ -1051,7 +1052,11 @@ header.bare .brand{flex:1}
 .hero .wm{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:56px;line-height:1.05;
   letter-spacing:-.01em;margin:0 0 12px}
 .wm-sub{color:var(--dim);font-size:13px;font-weight:600;margin:0;letter-spacing:.18em;text-transform:uppercase}
-.wm-rule{width:48px;height:1px;background:var(--line);margin:22px auto 0;border:0}
+.wm-rule{width:48px;height:1px;background:var(--line);margin:18px auto;border:0}
+/* The credit mirrors the subtitle across the rule. */
+.wm-credit{margin-bottom:26px}
+/* On a phone the credit breaks before his name, never inside it. */
+.nw{white-space:nowrap}
 @media (max-width:640px){.hero .wm{font-size:38px}.wm-sub{font-size:11.5px;letter-spacing:.14em}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
 .lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
