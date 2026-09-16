@@ -85,7 +85,7 @@ The same root as a noun for drink.
   "your *sava* is diluted with water") take *sava* as wine; so does Rashi to
   Hoshea 4:18.
 - Elsewhere Rashi seems to treat it as a general term for drinks (Yeshayahu
-  1:22, Nachum 1:10; and *savyuta*, wine merchants, at *Avodah Zarah* 77a).
+  1:22, Nachum 1:10; and *savyuta*, wine merchants, at *Avodah Zarah* 71a).
 - Rabbi Yosef Nechemias (to Mishlei 23:20): because drunkards are called
   *sovim*, the word *sava* came to refer to wine itself.
 - Rabbi Shlomo Aharon Wertheimer explains the Yeshayahu charge sharply: a man
@@ -166,4 +166,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Ki Seitzei: Getting Drunk](https://articles.ohr.edu/articles/ki-seitzei-getting-drunk)," *What's in a Word?*, Ohr Somayach, 14 September 2024.
 
-Cited in the essay: Devarim 21:20 with *Sanhedrin* 8:2 and 71a and *Sifrei Ki Seitzei* 219; Rambam, *Hilchos Mamrim* 7:1; Mishlei 23:20 with Rabbi Yosef Nechemias; Yeshayahu 1:22 with Targum, Rashi to *Bava Basra* 15b and Rabbi Yosef Kara; Hoshea 4:18; Nachum 1:10; *Avodah Zarah* 77a; Bereishis 10:7 and Divrei HaYamim I 1:9; Yeshayahu 43:3 and 45:14; Yechezkel 23:42 with Radak and Targum Yonasan; Bereishis 9:21; Yirmiyahu 13:13; Yechezkel 23:33 and 39:19; Yehoshua 15:11; Bamidbar 6:3 and 28:7 with Targum Onkelos and Rashi; *Zevachim* 91a; Vayikra 10:9 with *Nazir* 4a, *Kerisus* 13b and Ramban; *Pesachim* 3:1; Rav Hirsch to Bereishis 24:25, Shemos 13:12 and Devarim 21:19; Shmuel II 6:14 and 6:16; Shulchan Aruch Orach Chaim 175:2; Dr. Lawrence Resnick, *1,000 Words*; Even-Shoshan's biblical concordance.
+Cited in the essay: Devarim 21:20 with *Sanhedrin* 8:2 and 71a and *Sifrei Ki Seitzei* 219; Rambam, *Hilchos Mamrim* 7:1; Mishlei 23:20 with Rabbi Yosef Nechemias; Yeshayahu 1:22 with Targum, Rashi to *Bava Basra* 15b and Rabbi Yosef Kara; Hoshea 4:18; Nachum 1:10; *Avodah Zarah* 71a; Bereishis 10:7 and Divrei HaYamim I 1:9; Yeshayahu 43:3 and 45:14; Yechezkel 23:42 with Radak and Targum Yonasan; Bereishis 9:21; Yirmiyahu 13:13; Yechezkel 23:33 and 39:19; Yehoshua 15:11; Bamidbar 6:3 and 28:7 with Targum Onkelos and Rashi; *Zevachim* 91a; Vayikra 10:9 with *Nazir* 4a, *Kerisus* 13b and Ramban; *Pesachim* 3:1; Rav Hirsch to Bereishis 24:25, Shemos 13:12 and Devarim 21:19; Shmuel II 6:14 and 6:16; Shulchan Aruch Orach Chaim 175:2; Dr. Lawrence Resnick, *1,000 Words*; Even-Shoshan's biblical concordance.

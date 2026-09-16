@@ -301,7 +301,7 @@ paired with *ketzef*.
 - רוגז: check whether the pasuk means anger at all (Bedersi: sometimes fear or
   trembling); "agitation" is safe when the sense is uncertain.
 - Trap: "wrath" swallows *cheimah*, *charon*, *evrah*, and *ketzef* alike, and
-  "anger" swallows all sixteen; where the passage lists, pairs, or darshens the
+  "anger" swallows all seventeen; where the passage lists, pairs, or darshens the
   words, give each its own English in Pappenheim's order.
 - Trap: *zaam* is not "wrath"; it carries contempt (Ibn Janach, Bedersi) and cursing
   (Malbim), so "indignation." *Atzvus* beside *charon* is "upset."

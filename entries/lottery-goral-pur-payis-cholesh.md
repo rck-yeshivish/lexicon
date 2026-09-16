@@ -57,7 +57,7 @@ both the drawing and the thing drawn.
 | גורל | goral | lot, portion | the general word, the drawing and the portion drawn; beneficial (Lorberbaum) |
 | פור | pur | lot | the Megillah's own gloss for *goral*, called Persian; cast in malice (Lorberbaum) |
 | פייס | payis | lottery | Mishnaic lottery among the *kohanim*; from *piyus*, appeasing all entrants (Tosafos Yom Tov) |
-| חולש | cholesh | casting lots | rare, drawing lots daily (Yeshayahu 14:12); from *lachash*, whisper (HaAdani), or *chalash*, weak (Rain) |
+| חולש | cholesh | casting lots | rare (Yeshayahu 14:12); drawing lots daily (Shabbos 149b); from *lachash*, whisper (HaAdani), or *chalash*, weak (Rain) |
 | קלפי | kalpi | lot box | the box the lots are drawn from; Greek *kalpe*, an urn; today a ballot box |
 | חבל | chevel | portion | a plot measured by rope (Pappenheim); the lot of time to come, *chevlei leidah* (Midrash) |
 

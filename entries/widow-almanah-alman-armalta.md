@@ -121,9 +121,10 @@ parse the word as *al* plus *manah*.
   gematria of *almanah* equals that of the Aramaic *meah zuzin*.
 - The Chasam Sofer adds that the allusion must be to a post-Biblical enactment,
   since the *manah* currency came only after the Biblical period, and raises
-  difficulties: it is illogical to name a widow for the sum written in her
-  kesubah if she remarries, which would fit a remarried widow rather than the
-  widow herself; and the derashah does not explain why a widower is called
+  difficulties: it is illogical to name a widow for a sum her kesubah pays her
+  only if she remarries, since the derashah would fit a woman widowed and then
+  remarried, not a widow who has not remarried at all; and it does not explain
+  why a widower is called
   *alman*. These and other difficulties lead him to his own reading above.
 
 **What almenos means in Yeshayahu 13:22** ("cats will inhabit their *almenos*").

@@ -144,9 +144,9 @@ whose counterpart *duchus* appears in rabbinic idiom (*Berachos* 32b, *Sanhedrin
 duce, duchess, duchy, and ducat, duct, conduce, deduce, induce, produce, seduce
 and educate. Asked by Rabbi Reuven Chaim Klein about a link between the Aramaic
 *duchta* and the Latin *dux*, ChatGPT replied that the proposal has some merit on
-shared conceptual grounds (he adds a possible allusion in *Bereishis Rabbah* 5:3
-expounding Tehillim 93:3); nonetheless, he writes, it is difficult to confirm any
-actual etymological link between the two conclusively.
+shared conceptual grounds; Rabbi Klein points to *Bereishis Rabbah* 5:3, expounding
+Tehillim 93:3, as a possible allusion to such a connection. Nonetheless, it is
+difficult to confirm any actual etymological link between the two conclusively.
 
 ### asher (אשר)
 The common Biblical conjunction, appearing thousands of times and meaning
