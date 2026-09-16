@@ -2,7 +2,7 @@
 cluster: month
 hebrew: [חדש, ירח, ירח]
 roots: [ח-ד-ש, י-ר-ח]
-translit: [chodesh, chodesh, chadash, chiddush, rosh chodesh, yerach, yeirach, yareach, yerachim, oraiach, itrachish]
+translit: [chodesh, chadash, chiddush, rosh chodesh, yerach, yeirach, yareach, yerachim, oraiach, itrachish]
 english: [month, new moon, lunar month]
 domain: time
 words:

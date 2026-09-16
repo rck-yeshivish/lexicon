@@ -83,7 +83,7 @@ river's edge before makkas dam (Shemos 7:15).
   though constantly standing before one), *tzava* (an army, men stationed in
   formation), *tzavah* (bloated, stuck in place), *tzav* (turtle, whose shell makes it look swollen) and *tzav*
   (covered wagon, shaped like a turtle). Parts of this are cited by Rabbi Yaakov
-  Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) and by the Malbim (*Yair Ohr*).
+  Tzvi Mecklenburg (*HaKsav VeHaKabbalah*) and by the Malbim (*Yair Ohr*).
 - Malbim, echoing Pappenheim: *nitzav* is actively and purposefully standing and
   presenting oneself, and so typically implies exerting special effort to
   remain standing, whether standing up to enemies, standing before someone
@@ -159,4 +159,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Parshas Bo: Please Stand Up](https://articles.ohr.edu/articles/parshas-bo-please-stand-up)," *What's in a Word?*, Ohr Somayach, 28 January 2023.
 
-Cited in the essay: Bereishis 18:22, 24:13, 24:30, 28:12, 28:13; Shemos 2:4, 5:20, 7:15, 8:16, 14:13, 18:13-14, 26:15, 34:2; Yehoshua 10:13; Shmuel I 1:26, 19:20; Yeshayahu 3:13; Divrei HaYamim II 20:17; Esther 3:14; Nedarim 64b; *Bereishis Rabbah* 48:7; *Shir HaShirim Rabbah* 2:21; *Shocher Tov* to Tehillim 22:19; *Pesikta Rabbasi* 15 (*HaChodesh*); Targum; *Targum Sheini* to Esther 3:14; Rashi to Yeshayahu 3:13; Rabbi Tzvi Elimelech Shapiro of Dinov; Rabbi Shlomo Pappenheim; Malbim, *Yair Ohr* and to Divrei HaYamim II 20:17; Radak to Shmuel I 19:20; *Metzudas David* to Divrei HaYamim II 20:17; Rabbi Shimon Dov Ber Analak; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*; Rabbi Shlomo Aharon Wertheimer; Rambam, Hilchos Talmud Torah 4:2.
+Cited in the essay: Bereishis 18:22, 24:13, 24:30, 28:12, 28:13; Shemos 2:4, 5:20, 7:15, 8:16, 14:13, 18:13-14, 26:15, 34:2; Yehoshua 10:13; Shmuel I 1:26, 19:20; Yeshayahu 3:13; Divrei HaYamim II 20:17; Esther 3:14; Nedarim 64b; *Bereishis Rabbah* 48:7; *Shir HaShirim Rabbah* 2:21; *Shocher Tov* to Tehillim 22:19; *Pesikta Rabbasi* 15 (*HaChodesh*); Targum; *Targum Sheini* to Esther 3:14; Rashi to Yeshayahu 3:13; Rabbi Tzvi Elimelech Shapiro of Dinov; Rabbi Shlomo Pappenheim; Malbim, *Yair Ohr* and to Divrei HaYamim II 20:17; Radak to Shmuel I 19:20; *Metzudas David* to Divrei HaYamim II 20:17; Rabbi Shimon Dov Ber Analak; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Rabbi Shlomo Aharon Wertheimer; Rambam, Hilchos Talmud Torah 4:2.

@@ -2,7 +2,7 @@
 cluster: leprosy
 hebrew: [צרעת, נגע, צרוע, מצורע, צרעה]
 roots: [צ-ר-ע, נ-ג-ע, ג-ע]
-translit: [tzaraas, tzaraat, tzara'at, nega, nego, negaim, negoim, tzarua, tzaruah, metzora, metzoras, metzoraas, tzirah, tzirah]
+translit: [tzaraas, tzaraat, tzara'at, nega, nego, negaim, negoim, tzarua, tzaruah, metzora, metzoras, metzoraas, tzirah]
 english: [leprosy, affliction, spot, plague-spot, leper, hornet]
 domain: body
 words:
@@ -24,7 +24,7 @@ words:
     distinct: still applies once the spot is healed, until the purification is finished (Perlmutter); for Shadal, one who has multiple negaim; Chazal expound it as motzi shem ra, one who defames (Erachin 15b)
 sources:
   - wiaw:11793 "Tazria/Metzora: Spot on (Tzar'at)" (2025-05-03) https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat
-authorities: [Arizal, Rav Hirsch, Rabbi Shlomo Pappenheim, Ibn Ezra, Rabbi Yonah Ibn Janach, Menachem Ibn Saruk, Radak, Peirush HaRokeach, Rabbi Menachem Deutsch, Rabbi Shlomo Tzvi Shick, Rabbi Eliezer Perlmutter, Shadal, Rabbi Moshe David Valle, Rabbi Yehuda Aryeh of Carpentras, Rabbi Tzvi Hirsch Ferber, Rabbi Avi Kobernick, Midrash Tadshe, pseudo-Rashi, Moshe Ossi, Gesenius, Alfred Jones]
+authorities: [Arizal, Rav Hirsch, Rabbi Shlomo Pappenheim, Ibn Ezra, Rabbi Yonah Ibn Janach, Menachem Ibn Saruk, Radak, Peirush HaRokeach, Rabbi Menachem Deutsch, Rabbi Shlomo Tzvi Shick, Rabbi Eliezer Perlmutter, Shadal, Rabbi Moshe David Valle, Rabbi Yehudah Aryeh of Carpentras, Rabbi Tzvi Hirsch Ferber, Rabbi Avi Kobernick, Midrash Tadshe, pseudo-Rashi, Moshe Ossi, Gesenius, Alfred Jones]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -76,7 +76,7 @@ the two is in view.
   surmises that the two are connected by content: a hornet's sting is venomous
   and can prove lethal, as *tzaraas* can be poisonous and detrimental to a man's
   health.
-- Rabbi Yehuda Aryeh of Carpentras (*Ohalei Yehudah*) reads *tzirah* instead as
+- Rabbi Yehudah Aryeh of Carpentras (*Ohalei Yehudah*) reads *tzirah* instead as
   a fusion of *tzar*, enemy, and *ra*, bad, swarms of wasps or bees being a
   peculiarly formidable enemy in that they cannot be fought with sword and
   spear.
@@ -206,4 +206,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Tazria/Metzora: Spot on (Tzar'at)](https://articles.ohr.edu/articles/tazriametzora-spot-on-tzarat)," *What's in a Word?*, Ohr Somayach, 3 May 2025.
 
-Cited in the essay: Vayikra 13:2-3, 13:9, 13:19, 13:20, 13:25, 13:27, 13:44-45, 13:47, 13:49, 13:59, 14:2-3, 14:32, 14:34, 21:18, 22:4, 22:23; Shemos 4:6, 23:28; Bamidbar 5:2, 12:10; Devarim 7:20, 24:8; Yeshayahu 28:20; Yehoshua 24:12; Melachim I 11:26; Melachim II 5:1-27, 15:5; Divrei HaYamim II 4:17, 26:19-23; *Erachin* 15b, 16a; *Vayikra Rabbah* 17:3; *Toras Kohanim* to Vayikra 13:2; *Zohar Balak* 206a; *Tanchuma Metzora* 4; *Midrash Tadshe* (*Otzar Midrashim* p. 481); Arizal, *Shaar HaMitzvos*, *Tazria*; Ibn Ezra to Shemos 23:28, Devarim 7:20 and Vayikra 13:19; Ibn Janach, *Sefer HaShorashim*; Radak; Menachem Ibn Saruk; Pappenheim, *Yerios Shlomo*; Rav Hirsch to Vayikra 13:2 and Bereishis 20:5; Shadal to Vayikra 13:45; *Peirush HaRokeach* to Vayikra 13:45 with *Tosafos HaShaleim*; Rabbi Shlomo Tzvi Shick, *Torah Shleimah*, *Metzora* 1, citing Rabbi Menachem Deutsch; Rabbi Eliezer Perlmutter, *Even Moshe*; Rabbi Yehuda Aryeh of Carpentras, *Ohalei Yehudah*; Rabbi Moshe David Valle, *Kise Nachon* to Melachim I 11:26; Rabbi Tzvi Hirsch Ferber; pseudo-Rashi to Divrei HaYamim II 4:17; Rabbi Avi Kobernick; Moshe Ossi, *Al Katzeh HaLashon*; Gesenius; Alfred Jones, *The Proper Names of the Old Testament Scriptures Expounded and Illustrated*, p. 376.
+Cited in the essay: Vayikra 13:2-3, 13:9, 13:19, 13:20, 13:25, 13:27, 13:44-45, 13:47, 13:49, 13:59, 14:2-3, 14:32, 14:34, 21:18, 22:4, 22:23; Shemos 4:6, 23:28; Bamidbar 5:2, 12:10; Devarim 7:20, 24:8; Yeshayahu 28:20; Yehoshua 24:12; Melachim I 11:26; Melachim II 5:1-27, 15:5; Divrei HaYamim II 4:17, 26:19-23; *Erachin* 15b, 16a; *Vayikra Rabbah* 17:3; *Toras Kohanim* to Vayikra 13:2; *Zohar Balak* 206a; *Tanchuma Metzora* 4; *Midrash Tadshe* (*Otzar Midrashim* p. 481); Arizal, *Shaar HaMitzvos*, *Tazria*; Ibn Ezra to Shemos 23:28, Devarim 7:20 and Vayikra 13:19; Ibn Janach, *Sefer HaShorashim*; Radak; Menachem Ibn Saruk; Pappenheim, *Yerios Shlomo*; Rav Hirsch to Vayikra 13:2 and Bereishis 20:5; Shadal to Vayikra 13:45; *Peirush HaRokeach* to Vayikra 13:45 with *Tosafos HaShaleim*; Rabbi Shlomo Tzvi Shick, *Torah Shleimah*, *Metzora* 1, citing Rabbi Menachem Deutsch; Rabbi Eliezer Perlmutter, *Even Moshe*; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Rabbi Moshe David Valle, *Kise Nachon* to Melachim I 11:26; Rabbi Tzvi Hirsch Ferber; pseudo-Rashi to Divrei HaYamim II 4:17; Rabbi Avi Kobernick; Moshe Ossi, *Al Katzeh HaLashon*; Gesenius; Alfred Jones, *The Proper Names of the Old Testament Scriptures Expounded and Illustrated*, p. 376.

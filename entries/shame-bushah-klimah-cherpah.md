@@ -27,7 +27,7 @@ sources:
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
-authorities: [Radak, Rabbeinu Yonah, Rabbi Avraham Bedersi, Rabbi David Chaim Chelouche, Rabbi Dovid Golumb, Malbim, Rav Hirsch, Isaac Satanow, Rabbi Shlomo Aharon Wertheimer, Rabbi Yehuda Leib Edel, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Eliyahu HaBachur, Maggid of Kozhnitz, Maharal, Rabbi Yosef Kimchi, Rabbi Yaakov Tzvi Mecklenburg]
+authorities: [Radak, Rabbeinu Yonah, Rabbi Avraham Bedersi, Rabbi David Chaim Chelouche, Rabbi David Golumb, Malbim, Rav Hirsch, Isaac Satanow, Rabbi Shlomo Aharon Wertheimer, Rabbi Yehuda Leib Edel, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Eliyahu HaBachur, Maggid of Kozhnitz, Maharal, Rabbi Yosef Kimchi, Rabbi Yaakov Tzvi Mecklenburg]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -127,7 +127,7 @@ Root כ-ל-ם.
   shame at being caught.
 - Malbim and Rabbi Shlomo Aharon Wertheimer (1866 to 1935): *klimah* is shame
   that comes from outside, from another person humiliating him.
-- Rabbi Dovid Golumb (1861 to 1935) relates the root KAF-LAMMED-MEM to
+- Rabbi David Golumb (1861 to 1935) relates the root KAF-LAMMED-MEM to
   KAF-LAMMED-ALEPH, whence *kele* ("jail, incarceration"): a shamed man retreats
   into himself and locks himself up, in some sense, to avoid the outside world.
 - Rav Hirsch (to Vayikra 13:59, Tehillim 139:16) similarly sees the root as
@@ -208,4 +208,4 @@ Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/di
 
 Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/spy-versus-spy)," *What's in a Word?*, Ohr Somayach, 17 June 2017.
 
-Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Devarim 1:22; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim*; Rabbeinu Yonah, *Shaarei Teshuvah*; Rabbi Avraham Bedersi, *Chotam Tochnit*; Isaac Satanow; Rabbi Yehuda Leib Shapira-Frankfurter; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche; Rabbi Yehuda Leib Edel; Rabbi Dovid Golumb; Rabbi Yaakov Tzvi Mecklenburg; Targum; Rabbi Eliyahu HaBachur, *Meturgaman*; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.
+Cited in the essay: Vayikra 13:59 with Rav Hirsch, and 19:20; Devarim 1:22; Yeshayahu 45:16 with Radak; Yirmiyahu 2:26; Tzefaniah 2:1 with Rabbi Yosef Kimchi; Tehillim 139:16 with Rav Hirsch; *Bava Metzia* 58b; Radak, *Sefer HaShorashim*; Rabbeinu Yonah, *Shaarei Teshuvah*; Rabbi Avraham Bedersi, *Chotam Tochnit*; Isaac Satanow; Rabbi Yehuda Leib Shapira-Frankfurter; Malbim; Rabbi Shlomo Aharon Wertheimer; Rabbi David Chaim Chelouche; Rabbi Yehuda Leib Edel; Rabbi David Golumb; Rabbi Yaakov Tzvi Mecklenburg; Targum; Rabbi Eliyahu HaBachur, *Meturgaman*; the Maggid of Kozhnitz; Maharal, *Netivos Olam*, *Nesiv HaOsher*, ch. 2.

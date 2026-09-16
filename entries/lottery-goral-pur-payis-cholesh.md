@@ -18,7 +18,7 @@ words:
   - he: פייס
     tr: payis
     en: lottery
-    distinct: the Mishnaic word for drawing lots, above all the lottery among the kohanim in the Beis HaMikdash; from a Persian or Greek word for a small rock for some linguists, or from piyus, appeasement, since all have an equal chance (Tosafos Yom Tov, Meiri, Sefer HaAruch)
+    distinct: the Mishnaic word for drawing lots, above all the lottery among the kohanim in the Beis HaMikdash; from a Persian or Greek word for a small rock for some linguists, or from piyus, appeasement, since all have an equal chance (Tosafos Yom Tov, Meiri, Sefer HeAruch)
   - he: חולש
     tr: cholesh
     en: casting lots
@@ -35,7 +35,7 @@ words:
 sources:
   - wiaw:8181 "Playing the Lottery" (2019-03-16) https://articles.ohr.edu/articles/playing-the-lottery
   - wiaw:10974 "Shelach: Learning the Ropes" (2023-06-10) https://articles.ohr.edu/articles/shelach-learning-the-ropes
-authorities: [Maharitatz (Rabbi Yom Tov Tzahalon), Rabbi Yaakov Lorberbaum of Lissa, Midrash Lekach Tov, Rashbam, Ibn Ezra, Ramban, Rabbi Yosef ben Yosef Ibn Nachmias, Rabbi Shlomo Pappenheim, Tosafos Yom Tov, Meiri, Sefer HaAruch, Rabbi Shlomo HaAdani (Meleches Shlomo), Rabbi Yosef Yishai Rain]
+authorities: [Maharitatz (Rabbi Yom Tov Tzahalon), Rabbi Yaakov Lorberbaum of Lissa, Midrash Lekach Tov, Rashbam, Ibn Ezra, Ramban, Rabbi Yosef ben Yosef Ibn Nachmias, Rabbi Shlomo Pappenheim, Tosafos Yom Tov, Meiri, Sefer HeAruch, Rabbi Shlomo HaAdani (Meleches Shlomo), Rabbi Yosef Yishai Rain]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -120,7 +120,7 @@ lottery deciding which *kohanim* serve (*Yoma* 2:2-4).
   23:2) argues the etymology is Hebrew, from *piyus* ("appeasement"): the
   randomness of a lottery appeases everyone, since all have an equal chance.
 - The Meiri (*Beis HaBechirah* to *Yoma* 22a) proposed a similar understanding,
-  and earlier than both Rabbi Nosson of Rome in *Sefer HaAruch*, that a *payis*
+  and earlier than both Rabbi Nosson of Rome in *Sefer HeAruch*, that a *payis*
   is a lottery whose purpose is to appease the entrants.
 
 In Modern Hebrew *payis* is the national lotto.

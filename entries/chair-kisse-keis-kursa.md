@@ -138,12 +138,12 @@ Amalek's descendants remain, Hashem's Name and throne are, so to speak, incomple
 ### kursa (כורסא) and kathedra (קתדרא)
 *Kursa* three times, all in the Aramaic of Daniel (5:20, 7:9). Rabbi Eliyahu HaBachur
 (*Meturgaman*): Targum renders every Hebrew *kisse* as *kursa*; Rashi (to Daniel 7:9,
-Yevamos 118b, Kesuvos 75a, Gittin 35a) glosses *kursa* as *kisse*. Modern Hebrew has
+Yevamos 118b, Kesubos 75a, Gittin 35a) glosses *kursa* as *kisse*. Modern Hebrew has
 narrowed it to an armchair or recliner, no guide to the Aramaic. English "chair" comes
 from the French *chaiere*, "seat," "throne," which first meant a bishop's throne, and
 that from the Latin *cathedra* and the Greek *kathedra*, which are also the etymons of
 "cathedral," the church where the bishop's throne stands. That Greek *kathedra* appears
-four times in Mishnah: at Kesuvos 5:5, where a woman who brought four maidservants into
+four times in Mishnah: at Kesubos 5:5, where a woman who brought four maidservants into
 her marriage need do no housework but may simply sit on her *kathedra*, and at Keilim
 4:3, 22:3 and 24:2, on vessels and their susceptibility to tumah.
 
@@ -169,4 +169,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Chair of Thrones](https://articles.ohr.edu/articles/chair-of-thrones)," *What's in a Word?*, Ohr Somayach, 22 April 2023.
 
-Cited in the essay: Yeshayahu 66:1; Shemos 12:4, 17:16; Bereishis 41:40 with Rav Hirsch; Melachim I 10:19; Iyov 26:9; Tehillim 81:4 with Rav Hirsch; Daniel 5:20, 7:9; Pesachim 117a; Tanchuma *Ki Seitzei* §11 with Rashi to Shemos 17:16; Rashi to Daniel 7:9, Yevamos 118b, Kesuvos 75a, Gittin 35a; Radak, *Sefer HaShorashim*; Rambam, *Moreh Nevuchim* 1:9; Rabbi Eliyahu HaBachur, *Meturgaman*; *Minchas Shai* to Shemos 17:16; Mishnah Kesuvos 5:5 and Keilim 4:3, 22:3, 24:2; Rabbi Shlomo Pappenheim; Rabbi Avraham Abulafia; Rabbi David Chaim Chelouche; Rabbi Menachem Mendel of Shklov; Dr. Chaim Tawil on the Akkadian *kussu*; Rabbi Ernest Klein on the Arabic *kursiyy* and on epenthesis; the unnamed linguists the column consulted on the reish.
+Cited in the essay: Yeshayahu 66:1; Shemos 12:4, 17:16; Bereishis 41:40 with Rav Hirsch; Melachim I 10:19; Iyov 26:9; Tehillim 81:4 with Rav Hirsch; Daniel 5:20, 7:9; Pesachim 117a; Tanchuma *Ki Seitzei* §11 with Rashi to Shemos 17:16; Rashi to Daniel 7:9, Yevamos 118b, Kesubos 75a, Gittin 35a; Radak, *Sefer HaShorashim*; Rambam, *Moreh Nevuchim* 1:9; Rabbi Eliyahu HaBachur, *Meturgaman*; *Minchas Shai* to Shemos 17:16; Mishnah Kesubos 5:5 and Keilim 4:3, 22:3, 24:2; Rabbi Shlomo Pappenheim; Rabbi Avraham Abulafia; Rabbi David Chaim Chelouche; Rabbi Menachem Mendel of Shklov; Dr. Chaim Tawil on the Akkadian *kussu*; Rabbi Ernest Klein on the Arabic *kursiyy* and on epenthesis; the unnamed linguists the column consulted on the reish.

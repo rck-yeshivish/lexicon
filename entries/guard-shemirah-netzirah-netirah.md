@@ -21,7 +21,7 @@ words:
 sources:
   - wiaw:11813 "Acharei Mos/Kedoshim: The Watchers and Guardians" (2025-05-10) https://articles.ohr.edu/articles/acharei-moskedoshim-the-watchers-and-guardians
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
-authorities: [Rashi, Malbim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Siddur HaRokeach, Rabbi Shimon Dov Ber Analak, Rabbi Dr. Asher Weiser, Mahari Kara, Rabbi Eliyahu Bachur, Vayikra Rabbah, Rabbi Shlomo Pappenheim]
+authorities: [Rashi, Malbim, Vilna Gaon, Rabbi Shlomo Aharon Wertheimer, Siddur HaRokeach, Rabbi Shimon Dov Ber Analak, Rabbi Dr. Asher Weiser, Mahari Kara, Rabbi Eliyahu HaBachur, Vayikra Rabbah, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -130,7 +130,7 @@ totally locked up and cannot function.
 
 ### The Aramaic collapse
 The Targumim render *shemirah*, *netzirah* and *netirah* indiscriminately with
-נ-ט-ר forms (see Rabbi Eliyahu Bachur, *Meturgeman*), which might mean that
+נ-ט-ר forms (see Rabbi Eliyahu HaBachur, *Meturgeman*), which might mean that
 whatever nuances hold in Hebrew disappear entirely in Aramaic, the meanings
 melding together; *neturei karta* is simply "the guardians of the city."
 Rabbi Dr. Asher Weiser (*Mikra V'Lashon*) goes so far as to write that נ-צ-ר
@@ -181,4 +181,4 @@ Rabbi Reuven Chaim Klein, "[Acharei Mos/Kedoshim: The Watchers and Guardians](ht
 
 Rabbi Reuven Chaim Klein, "[Castle in the Sky](https://articles.ohr.edu/articles/castle-in-the-sky)," *What's in a Word?*, Ohr Somayach, 28 November 2020.
 
-Cited in the essay: Vayikra 19:18 with Rashi and Malbim; Shemos 22:6; Bereishis 37:11 with Mahari Kara to Koheles 5:7; Devarim 32:10; Yehoshua 1:8, 11:1, 12:20, 15:48, 19:15; Shoftim 10:1 to 10:2; Shmuel I 1:12; Yeshayahu 11:1, 14:19, 60:21; Yirmiyahu 3:5; Tehillim 40:12, 103:9, 105:45, 121:7, 130:3; Mishlei 2:8 with the Vilna Gaon; Shir HaShirim 1:6; Daniel 7:28, 11:7; Ezra 4:10, 4:17; Berachos 3a; Sukkah 52a; Malbim, *Sefer HaCarmel*; Rabbi Shlomo Aharon Wertheimer, *Biurei Shemos HaNirdafim*; *Siddur HaRokeach*; Rabbi Eliyahu Bachur, *Meturgeman*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon*; *Vayikra Rabbah* 19:6; Rabbi Shlomo Pappenheim on the biliteral ט-ר.
+Cited in the essay: Vayikra 19:18 with Rashi and Malbim; Shemos 22:6; Bereishis 37:11 with Mahari Kara to Koheles 5:7; Devarim 32:10; Yehoshua 1:8, 11:1, 12:20, 15:48, 19:15; Shoftim 10:1 to 10:2; Shmuel I 1:12; Yeshayahu 11:1, 14:19, 60:21; Yirmiyahu 3:5; Tehillim 40:12, 103:9, 105:45, 121:7, 130:3; Mishlei 2:8 with the Vilna Gaon; Shir HaShirim 1:6; Daniel 7:28, 11:7; Ezra 4:10, 4:17; Berachos 3a; Sukkah 52a; Malbim, *Sefer HaCarmel*; Rabbi Shlomo Aharon Wertheimer, *Biurei Shemos HaNirdafim*; *Siddur HaRokeach*; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Dr. Asher Weiser, *Mikra V'Lashon*; *Vayikra Rabbah* 19:6; Rabbi Shlomo Pappenheim on the biliteral ט-ר.

@@ -89,7 +89,7 @@ Root נ-ג-ש. Avraham *vayigash* to argue for Sedom (Bereishis 18:23); Yehudah
 so complete that the parties touch, as in *nigsheshah*, the blind man groping for
 what he cannot see (Yeshayahu 59:10). Rabbi Yaakov Tzvi Mecklenburg follows this
 into contact: Targum Yerushalmi renders an ox goring as *yigash* (Shemos 21:28),
-and a boat scraping the seabed in shallow water is *goshesh* (Bava Kama 116b;
+and a boat scraping the seabed in shallow water is *goshesh* (Bava Kamma 116b;
 Bava Metzia 79b). The same root gives *gush*, a compacted clod of earth (Iyov
 7:5), which Rabbi Shlomo Pappenheim suggests may lie behind the name Goshen,
 the one part of Egypt with packed soil rather than sand, and behind *geshem*: in
@@ -147,4 +147,4 @@ Rabbi Reuven Chaim Klein, "[Vayigash: Coming Close](https://articles.ohr.edu/art
 
 Rabbi Reuven Chaim Klein, "[Chukas: Words for War](https://articles.ohr.edu/articles/chukas-words-for-war)," *What's in a Word?*, Ohr Somayach, 5 July 2025.
 
-Cited in the essay: Bereishis 18:23, 20:4, 44:18; Shemos 14:10, 19:15, 21:28, 22:7; Vayikra 1:2, 2:8, 18:6, 22:3; Devarim 2:19, 20:10, 22:14, 25:1; Yeshayahu 8:3, 59:10; Malachi 3:5; Tehillim 32:9; Iyov 7:5; Bava Kama 116b; Bava Metzia 79b; Rav Hirsch to Vayikra 21:17; Ramban to *Sefer HaMitzvos*, lo saaseh 353; Abarbanel to *Moreh Nevuchim* 1:18; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Ohalei Yehuda*.
+Cited in the essay: Bereishis 18:23, 20:4, 44:18; Shemos 14:10, 19:15, 21:28, 22:7; Vayikra 1:2, 2:8, 18:6, 22:3; Devarim 2:19, 20:10, 22:14, 25:1; Yeshayahu 8:3, 59:10; Malachi 3:5; Tehillim 32:9; Iyov 7:5; Bava Kamma 116b; Bava Metzia 79b; Rav Hirsch to Vayikra 21:17; Ramban to *Sefer HaMitzvos*, lo saaseh 353; Abarbanel to *Moreh Nevuchim* 1:18; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; *Ohalei Yehuda*.

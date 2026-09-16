@@ -2,7 +2,7 @@
 cluster: names of Moshe
 hebrew: [משה, ירד, אבי גדור, חבר, אבי סוכו, יקותיאל, אבי זנוח]
 roots: [מ-ש-ה, י-ר-ד, ג-ד-ר, ח-ב-ר, ס-כ-כ, ק-ו-ה, ז-נ-ח]
-translit: [moshe, mosheh, yered, yered, avigdor, avi gedor, chever, chaver, avi socho, avi sokho, yekusiel, yekutiel, avi zanoach, toviah, tuviah, shemayah, shemaiah, ben nesanel, ben netanel, levi, heiman, raya mehemna]
+translit: [moshe, mosheh, yered, avigdor, avi gedor, chever, chaver, avi socho, avi sokho, yekusiel, yekutiel, avi zanoach, toviah, tuviah, shemayah, shemaiah, ben nesanel, ben netanel, levi, heiman, raya mehemna]
 english: [Moshe, Yered, Avigdor, Chever, Avi-Socho, Yekusiel, Avi-Zanoach]
 domain: other
 words:

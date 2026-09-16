@@ -22,7 +22,7 @@ words:
     tr: avarah
     en: ferry
     nk: עֲבָרָה
-    distinct: the ferry (Shmuel II 19:19), from l'avor, to cross over; in the Gemara ma'abara or mavra (Shabbos 32a, Bava Kama 116a)
+    distinct: the ferry (Shmuel II 19:19), from l'avor, to cross over; in the Gemara ma'abara or mavra (Shabbos 32a, Bava Kamma 116a)
   - he: דוגית
     tr: dugit
     en: fishing skiff
@@ -138,7 +138,7 @@ the Old Danish *rafft*, a stick or beam.
 
 ### the smaller and Aramaic craft
 *Avarah*, the ferry (Shmuel II 19:19), from *l'avor*, appears in the Gemara as
-*ma'abara* or *mavra* (Shabbos 32a, Bava Kama 116a). *Siros dugah* are fishing
+*ma'abara* or *mavra* (Shabbos 32a, Bava Kamma 116a). *Siros dugah* are fishing
 boats (Rashi and Radak to Amos 4:2), the Mishnaic equivalent being *dugit* (Bava
 Basra 73a); Rabbi Dr. Daniel Sperber derives *dugit* from *dag*, fish, and
 identifies it with the fisherman's boat the Greeks called a *lembus*. *Tzi* and
@@ -153,7 +153,7 @@ which is conceptually the same idea as dryness. In Aramaic the Targumim render *
 Tehillim 48:8, 104:26) and sometimes *sefinah*/*sefinta* (Bereishis 49:13;
 Devarim 28:68; Melachim I 9:26), and Rashi glosses *ilfa* as *sefinah* in one
 place (Avodah Zarah 10b) and as *oniah* in another (Eruvin 53b); Ilfa is also the
-name of a sage (*Kesuvos* 69b). *Arva*, a small boat or yacht in Aramaic, is
+name of a sage (*Kesubos* 69b). *Arva*, a small boat or yacht in Aramaic, is
 spelled sometimes with an *ayin* and sometimes with an *aleph*, which Rabbi
 Yaakov ben Yehudah Chazzan of London (*Eitz Chaim*) gives as an example of
 Rashi's remark (to Shabbos 103b) that people sometimes write the one letter for
@@ -183,4 +183,4 @@ Rabbi Reuven Chaim Klein, "[Vayechi: Boats, Ships and Nautical Rhapsody](https:/
 
 Rabbi Reuven Chaim Klein, "[Bamidbar: Out in the Wild](https://articles.ohr.edu/articles/bamidbar-out-in-the-wild)," *What's in a Word?*, Ohr Somayach, 20 May 2023.
 
-Cited in the essay: Bereishis 49:13; Yonah 1:5, 1:3; Iyov 9:26 with Rashi, Ibn Ezra, and Ralbag; Melachim I 5:23, 9:26, 10:22, 22:49; Divrei HaYamim II 2:15; Amos 4:2 with Rashi and Radak; Shmuel II 17:28, 19:19; Mishlei 31:14; Tehillim 48:8, 104:26; Yeshayahu 2:16, 23:13, 33:21; Devarim 28:68, 33:19 with Abarbanel; Bamidbar 24:24; Shemos 12:22; Bava Basra 73a; *Sanhedrin* 106a; *Kesuvos* 69b; *Rosh HaShanah* 23a; *Bava Metzia* 80b; Shabbos 19b, 32a, 103b, 156b; Bava Kama 116a; *Tosefta* Bava Basra 4:1 and Succah 3:2; Yerushalmi Bava Basra 5:1; Rambam to Keilim 15:1; *Eitz Chaim*; Rav Hirsch to Bereishis 16:8; Radak, *Sefer HaShorashim*; *Shoresh Yesha*.
+Cited in the essay: Bereishis 49:13; Yonah 1:5, 1:3; Iyov 9:26 with Rashi, Ibn Ezra, and Ralbag; Melachim I 5:23, 9:26, 10:22, 22:49; Divrei HaYamim II 2:15; Amos 4:2 with Rashi and Radak; Shmuel II 17:28, 19:19; Mishlei 31:14; Tehillim 48:8, 104:26; Yeshayahu 2:16, 23:13, 33:21; Devarim 28:68, 33:19 with Abarbanel; Bamidbar 24:24; Shemos 12:22; Bava Basra 73a; *Sanhedrin* 106a; *Kesubos* 69b; *Rosh HaShanah* 23a; *Bava Metzia* 80b; Shabbos 19b, 32a, 103b, 156b; Bava Kamma 116a; *Tosefta* Bava Basra 4:1 and Succah 3:2; Yerushalmi Bava Basra 5:1; Rambam to Keilim 15:1; *Eitz Chaim*; Rav Hirsch to Bereishis 16:8; Radak, *Sefer HaShorashim*; *Shoresh Yesha*.

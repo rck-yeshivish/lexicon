@@ -76,7 +76,7 @@ mistake.
 - Radak yet again writes that the tav and tet words both mean the same thing,
   the former being the preferred orthography in Scripture and the latter in
   Rabbinic sources. In Rabbinic literature *ta'us* always refers to a mistake.
-- Rabbi Yaakov Zev Lev of Sanhedria HaMurchevet (*Me'as Tzari*) reconciles the
+- Rabbi Yaakov Zev Lev of Sanhedria HaMurchevet (*Me'at Tzari*) reconciles the
   difference of opinions: in Hebrew there is a difference between the tav and
   tet words, but in Aramaic there is only one word, spelled with a tet, carrying
   both meanings. Rabbi Klein adds that Rabbi Eliyahu HaBachur himself already
@@ -132,4 +132,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Lost or Mistaken](https://articles.ohr.edu/articles/lost-or-mistaken)," *What's in a Word?*, Ohr Somayach, 16 June 2018.
 
-Cited in the essay: Bereishis 21:14 with Targum Onkelos; Bamidbar 5:12 with *Kli Yakar*; Yechezkel 13:10; Hoshea 4:12; Tehillim 95:10; the *Uva LeTzion* prayer; Pirkei DeRabbi Eliezer ch. 30 with Rabbi Avraham Aharon Broide, *Bayis HaGadol*; Rabbi Eliyahu HaBachur, glosses to Radak's *Sefer HaShorashim*, and *Meturgaman*; Radak, *Sefer HaShorashim* s.v. תף; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Yaakov Zev Lev, *Me'as Tzari*; Rabbi Shlomo Aharon Wertheimer, *Bi'urei Shemos HaNirdafim* (first edition, second volume); Rambam, Hilchos Avodah Zarah ch. 1; the Targumim.
+Cited in the essay: Bereishis 21:14 with Targum Onkelos; Bamidbar 5:12 with *Kli Yakar*; Yechezkel 13:10; Hoshea 4:12; Tehillim 95:10; the *Uva LeTzion* prayer; Pirkei DeRabbi Eliezer ch. 30 with Rabbi Avraham Aharon Broide, *Bayis HaGadol*; Rabbi Eliyahu HaBachur, glosses to Radak's *Sefer HaShorashim*, and *Meturgaman*; Radak, *Sefer HaShorashim* s.v. תף; Rabbi Yosef Kimchi, *Sefer Zikaron*; Rabbi Yaakov Zev Lev, *Me'at Tzari*; Rabbi Shlomo Aharon Wertheimer, *Bi'urei Shemos HaNirdafim* (first edition, second volume); Rambam, Hilchos Avodah Zarah ch. 1; the Targumim.

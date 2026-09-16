@@ -22,7 +22,7 @@ words:
     nk: מִיתָה
 sources:
   - wiaw:10820 "Yisro: Murder He Wrote" (2023-02-11) https://articles.ohr.edu/articles/yisro-murder-he-wrote
-authorities: [Rashbam, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Abarbanel, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Galblum, Rabbi Nathan Adler, Menachem Ibn Saruk, Rashi, Targum Onkelos, Sefer Yeraim, Sefer HaChachmah, Rabbi Aharon Marcus, Rabbi Yaakov Berger]
+authorities: [Rashbam, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Abarbanel, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Galblum, Rabbi Nathan Adler, Menachem Ibn Saruk, Rashi, Targum Onkelos, Sefer Yeraim, Sefer HaChochmah, Rabbi Aharon Marcus, Rabbi Yaakov Berger]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -92,7 +92,7 @@ was meant about the word or about the halachah, and leaves it open.
   on the verge of death, so that though he may technically still be alive he has
   effectively been killed; he takes the root as a portmanteau of the biliterals
   ק-ט, "cutting/submitting," and ט-ל, "throwing/lowering." Rabbi Klein adds that
-  there may be some support for this in *Sefer HaChachmah* (ascribed to Rabbi
+  there may be some support for this in *Sefer HaChochmah* (ascribed to Rabbi
   Elazar Rokeach of Worms), which has *ketilah* as killing in a prolonged and
   tortuous way rather than at one stroke.
 
@@ -180,4 +180,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Yisro: Murder He Wrote](https://articles.ohr.edu/articles/yisro-murder-he-wrote)," *What's in a Word?*, Ohr Somayach, 11 February 2023.
 
-Cited in the essay: Shemos 20:13; Devarim 5:17 and 19:4-6; Bereishis 4:8, 30:27; Shemos 35:25; Vayikra 20:15, 20:16; Bamidbar 22:29, 35:16-18, 35:27, 35:30; Shoftim 20:4; Shmuel I 22:21; Shmuel II 12:9; Melachim I 21:19; Yeshayahu 22:13, 27:1; Ovadiah 1:9; Tehillim 78:47, 94:6, 139:19; Iyov 13:15, 24:14; Daniel 2:13-14, 3:22, 5:19, 5:30, 7:11; Mishnah Shabbos 6:1, Sotah 1:6, Avodah Zarah 1:8, Meilah 5:1, Keilim 11:8; Shabbos 57b, 98a; Eruvin 28b; Pesachim 111a; Moed Katan 12b; Yevamos 121b; Sotah 7b; Gittin 59a; Bava Kamma 23b, 65a, 96a; Bava Metzia 95a; Sanhedrin 33a, 74b; Shevuos 46a; Chullin 11b, 35b; Bechoros 8b; Niddah 20b, 55b; *Chotam Tochnit*; *Sefer HaMilim*; *Sefer Yeraim* §175; *Sefer HaChachmah*; *Machberes Menachem*.
+Cited in the essay: Shemos 20:13; Devarim 5:17 and 19:4-6; Bereishis 4:8, 30:27; Shemos 35:25; Vayikra 20:15, 20:16; Bamidbar 22:29, 35:16-18, 35:27, 35:30; Shoftim 20:4; Shmuel I 22:21; Shmuel II 12:9; Melachim I 21:19; Yeshayahu 22:13, 27:1; Ovadiah 1:9; Tehillim 78:47, 94:6, 139:19; Iyov 13:15, 24:14; Daniel 2:13-14, 3:22, 5:19, 5:30, 7:11; Mishnah Shabbos 6:1, Sotah 1:6, Avodah Zarah 1:8, Meilah 5:1, Keilim 11:8; Shabbos 57b, 98a; Eruvin 28b; Pesachim 111a; Moed Katan 12b; Yevamos 121b; Sotah 7b; Gittin 59a; Bava Kamma 23b, 65a, 96a; Bava Metzia 95a; Sanhedrin 33a, 74b; Shevuos 46a; Chullin 11b, 35b; Bechoros 8b; Niddah 20b, 55b; *Chotam Tochnit*; *Sefer HaMilim*; *Sefer Yeraim* §175; *Sefer HaChochmah*; *Machberes Menachem*.

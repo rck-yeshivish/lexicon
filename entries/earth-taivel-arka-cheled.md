@@ -9,7 +9,7 @@ words:
   - he: תבל
     tr: taivel
     en: the inhabited world
-    distinct: the settled parts, as against eretz for the uninhabited parts (Metzudas Tziyon) or the globe entire (Malbim), or everywhere but Eretz Yisrael (Rashi); from BET-LAMED, mixing, "spiced with everything" or with Torah (Avos d'Rabbi Nasan)
+    distinct: the settled parts, as against eretz for the uninhabited parts (Metzudas Tzion) or the globe entire (Malbim), or everywhere but Eretz Yisrael (Rashi); from BET-LAMED, mixing, "spiced with everything" or with Torah (Avos d'Rabbi Nasan)
   - he: ארקא
     tr: arka
     en: earth
@@ -36,7 +36,7 @@ words:
     nk: חֶדֶל
 sources:
   - wiaw:9359 "Seasoning the Land (Part 2) - Nitzavim / Rosh Hashanah:" (2021-09-04) https://articles.ohr.edu/articles/seasoning-the-land-part-2-nitzavim-rosh-hashanah
-authorities: [Avos d'Rabbi Nasan, Metzudas Tziyon, Malbim, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yom Tov Tzahalon, Rabbi Shmuel Yaffe-Ashkenazi, Midrash Mishlei, Rabban Shimon ben Gamliel, Bereishis Rabbah, Radak, Ibn Ezra, Yerushalmi Shabbos, Rabbi David Chaim Chelouche, Rav Hirsch, Rabbi Avraham Bedersi]
+authorities: [Avos d'Rabbi Nasan, Metzudas Tzion, Malbim, Rashi, Rabbi Shlomo Pappenheim, Rabbi Yom Tov Tzahalon, Rabbi Shmuel Yaffe-Ashkenazi, Midrash Mishlei, Rabban Shimon ben Gamliel, Bereishis Rabbah, Radak, Ibn Ezra, Yerushalmi Shabbos, Rabbi David Chaim Chelouche, Rav Hirsch, Rabbi Avraham Bedersi]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -56,7 +56,7 @@ letters, different nikud, one root. And *karka* is not on this list at all.
 
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
-| תבל | taivel | the inhabited world | the settled parts (Malbim, Metzudas Tziyon); Rashi: everywhere but Eretz Yisrael |
+| תבל | taivel | the inhabited world | the settled parts (Malbim, Metzudas Tzion); Rashi: everywhere but Eretz Yisrael |
 | ארקא | arka | earth | once only, Yirmiyahu 10:11, in Aramaic context |
 | חלד | cheled | the transient world | the earth as subject to time (Radak); *chadal*, to cease; *chaludah*, rust (Rav Hirsch) |
 | חרבה | charavah | dry land | named for absorbing the waters of the Mabul (Avos d'Rabbi Nasan) |
@@ -67,7 +67,7 @@ letters, different nikud, one root. And *karka* is not on this list at all.
 
 **What *taivel* is against *eretz*.**
 
-- Where the two stand together (Tehillim 90:2, 24:1), *Metzudas Tziyon*: *eretz*
+- Where the two stand together (Tehillim 90:2, 24:1), *Metzudas Tzion*: *eretz*
   is the uninhabited parts and *taivel* the inhabited.
 - Malbim similarly: *eretz* is the globe entire, *taivel* only what is settled.
 - Rashi (to Tehillim 24:1): *eretz* is Eretz Yisrael and *taivel* the rest of

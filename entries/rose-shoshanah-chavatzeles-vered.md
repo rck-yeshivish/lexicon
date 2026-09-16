@@ -64,7 +64,7 @@ Shir HaShirim 2:1 sets
   rachamim, and on the same page it has five "strong" petals, which is why the
   five fingers should encircle the kos shel berachah. Elsewhere (*Vayechi* 221a,
   *Emor* 105a) the Zohar says six.
-- Rabbi Eliyahu HaBachur (*Sefer Tishbi*) records the white-six-petal-lily
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) records the white-six-petal-lily
   reading and rejects it: Shir HaShirim has the *shoshanah* growing among thorns
   (2:2), and lilies do not.
 
@@ -90,7 +90,7 @@ defines *chavatzeles* outright as *rosa*, a rose, and explicitly links it to
    plant, *shoshanah* the mature red and white one. Rabbi Daniel Frisch (*Masok
    MiDvash*) reads those colors kabbalistically rather than botanically, green as
    unmitigated din and red-and-white as din blended with rachamim.
-3. **The same flower in two places.** The Vilna Gaon (*Beiur HaGra* to Shir
+3. **The same flower in two places.** The Vilna Gaon (*Biur HaGra* to Shir
    HaShirim 2:1): grown on the open Sharon plain in full sun the flower dries
    and yellows, and is called *chavatzeles*; grown in a valley it keeps its
    moisture and its natural whitish-reddish-pink, and is called *shoshanah*.
@@ -163,7 +163,7 @@ a *chavatzeles*" (35:1).
 - *Shir HaShirim Rabbah* 2:1 reads it as *chaviv* (dear) plus *tzel*, and
   develops several ways in which comparing Israel to the *chavatzeles* is
   praise.
-- Rabbi Moshe Tedeschi-Ashkenazi (*Ho'il Moshe*) sees the string *batzel*, an
+- Rabbi Moshe Tedeschi-Ashkenazi (*Hoil Moshe*) sees the string *batzel*, an
   onion, inside the five-letter word, so a flower that grows from an onion; he
   then adds a comment in Italian that a *chavatzeles* is a lily or a hyacinth.
 - Rabbi Ernest Klein surmises that *chavatzeles* is somehow related to the
@@ -174,7 +174,7 @@ Not in Tanach; Mishnaic (Sheviis 7:6-7, Maasros 2:5, Shabbos 14:4) and the
 Targumic rendering of *shoshanah*. Modern Hebrew's *varod*, pink, comes from it.
 Rabbi Eliyahu HaBachur derives the Mishnaic *vradin*, the veins inside an
 animal's neck (Chullin 2:1), from *vered* as something likewise red; Rabbi Yaakov
-Emden (*Ezer Ohr* to *Sefer Tishbi*) finds that connection too far-fetched.
+Emden (*Ezer Ohr* to *Sefer HaTishbi*) finds that connection too far-fetched.
 Rabbi Ernest Klein traces *vered* itself to the Aramaic *varda*, *vardina* in
 some dialects, which he takes as a loanword from the Old Iranian *wrda*; he
 explains that word as the etymon of the Greek *rodon* and the Latin *rosa*, so
@@ -205,4 +205,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Emor: Rose by Another Name](https://articles.ohr.edu/articles/emor-rose-by-another-name)," *What's in a Word?*, Ohr Somayach, 18 May 2024.
 
-Cited in the essay: Shir HaShirim 2:1 with Rashi, Ibn Ezra, Targum and *Beiur HaGra*, 2:2, 4:3, 5:13, 6:2; Yeshayahu 35:1; Tehillim 45:1, 69:1, 80:1; Mishnah Kilayim 5:8, Taharos 3:7, Sheviis 7:6-7, Maasros 2:5, Shabbos 14:4, Chullin 2:1; Berachos 43b with Rashi; Nedarim 9b; *Shir HaShirim Rabbah* 2:1 and 2:3, with *Matnos Kehunah*, *Eitz Yosef* and *Maharzu*; *Vayikra Rabbah* 19:6, 23:3; Zohar *Hakdamah* 1a, *Vayechi* 221a, *Emor* 105a, *Ki Sisa* 189b; Ibn Janach, *Sefer HaShorashim*, with Rav Yehudai Gaon; Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer Tishbi*, with Rabbi Yaakov Emden, *Ezer Ohr*; Rabbi Saadia Gaon, *Tafsir*; *Kaftor VaFerach* ch. 56 with Rav Hai Gaon; Rabbi Shemaryah ben Elchanan; Rambam, *Hilchos Berachos* 9:6, with *Kesef Mishneh* and *Maaseh Rokeach*, and Rambam to Mishnah Sheviis 7:6; *Shulchan Aruch*, *Orach Chaim* 216:9; Rabbeinu Yonah, Berachos 31b in the Alfasi pagination; *Sefer HeAruch*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos HaNirdafim*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Rabbi Moshe Tedeschi-Ashkenazi, *Ho'il Moshe*; Rabbi Daniel Frisch, *Masok MiDvash*; Rabbi Yirmiyahu Low, *Divrei Yirmiyahu*; *Peirush HaRokeach*; *Peirush Chachmei Tzarfas*; the Peshitta, the Septuagint and the Vulgate; Rabbi Ernest Klein.
+Cited in the essay: Shir HaShirim 2:1 with Rashi, Ibn Ezra, Targum and *Biur HaGra*, 2:2, 4:3, 5:13, 6:2; Yeshayahu 35:1; Tehillim 45:1, 69:1, 80:1; Mishnah Kilayim 5:8, Taharos 3:7, Sheviis 7:6-7, Maasros 2:5, Shabbos 14:4, Chullin 2:1; Berachos 43b with Rashi; Nedarim 9b; *Shir HaShirim Rabbah* 2:1 and 2:3, with *Matnos Kehunah*, *Eitz Yosef* and *Maharzu*; *Vayikra Rabbah* 19:6, 23:3; Zohar *Hakdamah* 1a, *Vayechi* 221a, *Emor* 105a, *Ki Sisa* 189b; Ibn Janach, *Sefer HaShorashim*, with Rav Yehudai Gaon; Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*, with Rabbi Yaakov Emden, *Ezer Ohr*; Rabbi Saadia Gaon, *Tafsir*; *Kaftor VaFerach* ch. 56 with Rav Hai Gaon; Rabbi Shemaryah ben Elchanan; Rambam, *Hilchos Berachos* 9:6, with *Kesef Mishneh* and *Maaseh Rokeach*, and Rambam to Mishnah Sheviis 7:6; *Shulchan Aruch*, *Orach Chaim* 216:9; Rabbeinu Yonah, Berachos 31b in the Alfasi pagination; *Sefer HeAruch*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Shlomo Aharon Wertheimer, *Beiurei Shemos HaNirdafim*; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Rabbi Moshe Tedeschi-Ashkenazi, *Hoil Moshe*; Rabbi Daniel Frisch, *Masok MiDvash*; Rabbi Yirmiyahu Low, *Divrei Yirmiyahu*; *Peirush HaRokeach*; *Peirush Chachmei Tzarfas*; the Peshitta, the Septuagint and the Vulgate; Rabbi Ernest Klein.

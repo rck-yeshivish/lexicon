@@ -13,7 +13,7 @@ words:
   - he: גמד
     tr: gamad
     en: dwarf
-    distinct: the gamadim of Yechezkel 27:11, sounders of the sea's depth (Mahari Kara) or short people an amah tall (Radak), both in Rashi; a nation of dwarfs (Rabbi Eliyahu Bachur); in Talmudic Hebrew, contracting or shrinking
+    distinct: the gamadim of Yechezkel 27:11, sounders of the sea's depth (Mahari Kara) or short people an amah tall (Radak), both in Rashi; a nation of dwarfs (Rabbi Eliyahu HaBachur); in Talmudic Hebrew, contracting or shrinking
   - he: נמוך
     tr: namuch
     en: low
@@ -25,12 +25,12 @@ words:
   - he: ננס
     tr: nanas
     en: dwarf
-    distinct: the standing Rabbinic word for a dwarf, used also of short boards and low walls (Rashi); equated with Latin nano, from Greek nanos (Bachur, Aruch HaShaleim)
+    distinct: the standing Rabbinic word for a dwarf, used also of short boards and low walls (Rashi); equated with Latin nano, from Greek nanos (Bachur, Aruch HaShalem)
   - he: מך
     nk: מָךְ
 sources:
   - wiaw:11205 "Vaera: The Vertically-Challenged" (2024-01-13) https://articles.ohr.edu/articles/vaera-the-vertically-challenged
-authorities: [Rashbam, Radak, Sefer HeAruch, Rashi, Mahari Kara, Rabbi Yehoshua Steinberg, Targum Yonasan, Rabbi Eliyahu Bachur, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Dr. Ernest Klein, Dr. Alexander Kohut, Professor Michael Sokoloff]
+authorities: [Rashbam, Radak, Sefer HeAruch, Rashi, Mahari Kara, Rabbi Yehoshua Steinberg, Targum Yonasan, Rabbi Eliyahu HaBachur, Ibn Janach, Ibn Chayyuj, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Binyamin Mussafia, Rabbi Dr. Ernest Klein, Dr. Alexander Kohut, Professor Michael Sokoloff]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -84,7 +84,7 @@ watchtowers of Tyre.
 - Subsequently Rashi, and Radak there and in *Sefer HaShorashim*, explain
   *gamadim* as short people, no more than an *amah* tall.
 - Targum Yonasan there renders *gamadim* as Cappadocians.
-- Rabbi Eliyahu Bachur (1469-1549) in *Sefer Tishbi* merges the Targum with
+- Rabbi Eliyahu HaBachur (1469-1549) in *Sefer HaTishbi* merges the Targum with
   Rashi's second explanation to posit that the Cappadocians were a nation of
   dwarfs, which Rabbi Reuven Chaim Klein likens in an aside to the Lilliputians
   of *Gulliver's Travels*.
@@ -105,7 +105,7 @@ word for a short person.
 ### namuch (נמוך)
 Not in Tanach; several times in the Mishnah (*Kilayim* 4:7, *Eruvin* 9:1,
 *Zevachim* 1:2), and like *gamad* used of anything low, a short fence as readily
-as a short man. Rabbi Dr. Ernest Klein, echoing Bachur's *Sefer Tishbi*, explains
+as a short man. Rabbi Dr. Ernest Klein, echoing Bachur's *Sefer HaTishbi*, explains
 *namuch* as a secondary base form of the *nifal* of biblical *mach*, poor or
 lowered: the grammatical nun prefixed to *mach* denotes one who has become
 lowered, and the resulting word, which Bachur vocalizes *namoch*, is then handled
@@ -129,9 +129,9 @@ son be neither too tall nor too short, too skinny nor too fat, too white nor too
 reddish, too intelligent nor too senseless.
 
 Three etymologies are on the table.
-- Rabbi Binyamin Mussafia (1606-1675) in *Musaf HeAruch* writes that *gutz*
+- Rabbi Binyamin Mussafia (1606-1675) in *Mussaf HeAruch* writes that *gutz*
   actually comes from Greek.
-- Dr. Alexander Kohut (1842-1894) in *Aruch HaShaleim* disagrees with that
+- Dr. Alexander Kohut (1842-1894) in *Aruch HaShalem* disagrees with that
   supposition, comparing the Hebrew and Aramaic *gutz* to the French *court* /
   *curt* and the Hungarian *kisci*, "small," which Rabbi Reuven Chaim Klein
   suggests may be due to the interchange of the gimmel and kuf sounds together
@@ -166,10 +166,10 @@ name, or perhaps a nickname: Ben Nanas (*Kesubos* 10:5, *Gittin* 8:10, *Bava
 Basra* 7:3 and 10:8, *Shevuos* 7:5) and Rabbi Shimon ben Nanas (*Bikkurim* 3:9,
 *Shabbos* 16:5, *Eruvin* 10:15, *Bava Basra* 10:8).
 
-Bachur in *Sefer Tishbi*, having said that the native Hebrew term for a short
+Bachur in *Sefer HaTishbi*, having said that the native Hebrew term for a short
 person is *gomed*, equates the Rabbinic *nanas* with the Latin *nano* and with
 *ninio*, "baby" in Spanish; those Latinate words derive in turn from the Greek
-*nanos* (so *Aruch HaShaleim*), which English speakers will recognize as the
+*nanos* (so *Aruch HaShalem*), which English speakers will recognize as the
 prefix in nanosecond, nanogram and nanotechnology. *Nanas*
 is entirely unrelated to the Modern Hebrew *ananas*, pineapple, which derives
 from the Peruvian *nanas* by way of Spanish.
@@ -200,4 +200,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vaera: The Vertically-Challenged](https://articles.ohr.edu/articles/vaera-the-vertically-challenged)," *What's in a Word?*, Ohr Somayach, 13 January 2024.
 
-Cited in the essay: Shoftim 3:16 with Radak, Rashi, Mahari Kara and *Sefer HeAruch*; Yechezkel 27:11 with Rashi, Mahari Kara, Radak and Targum Yonasan, and 40:43 with Rashi; Moed Katan 18a; Gittin 57a; Beitzah 15a; Pesachim 64a with Rashi, and 111a; Chullin 43a; Yevamos 106b; Bava Metzia 27b, 59a; Bava Basra 100a with Rashbam; Megillah 27b; Berachos 31b; Bechoros 45b; Yoma 16b with Rashi; Mishnah *Kilayim* 4:7, *Bikkurim* 3:9, *Shabbos* 16:5, *Eruvin* 9:1, 10:15, *Kesubos* 10:5, *Gittin* 8:10, *Bava Basra* 7:3, 10:8, *Shevuos* 7:5, *Zevachim* 1:2; *Pesikta DeRav Kahana* §13:5; *Yalkut Shimoni* to Daniel §1062; Radak, *Sefer HaShorashim*; Rabbi Yehoshua Steinberg; Rabbi Eliyahu Bachur, *Sefer Tishbi*; Ibn Janach; Ibn Chayyuj; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Rabbi Binyamin Mussafia, *Musaf HeAruch*; Dr. Alexander Kohut, *Aruch HaShaleim*; Rabbi Dr. Ernest Klein; Professor Michael Sokoloff, *A Dictionary of Jewish Babylonian Aramaic of the Talmudic and Geonic Periods*.
+Cited in the essay: Shoftim 3:16 with Radak, Rashi, Mahari Kara and *Sefer HeAruch*; Yechezkel 27:11 with Rashi, Mahari Kara, Radak and Targum Yonasan, and 40:43 with Rashi; Moed Katan 18a; Gittin 57a; Beitzah 15a; Pesachim 64a with Rashi, and 111a; Chullin 43a; Yevamos 106b; Bava Metzia 27b, 59a; Bava Basra 100a with Rashbam; Megillah 27b; Berachos 31b; Bechoros 45b; Yoma 16b with Rashi; Mishnah *Kilayim* 4:7, *Bikkurim* 3:9, *Shabbos* 16:5, *Eruvin* 9:1, 10:15, *Kesubos* 10:5, *Gittin* 8:10, *Bava Basra* 7:3, 10:8, *Shevuos* 7:5, *Zevachim* 1:2; *Pesikta DeRav Kahana* §13:5; *Yalkut Shimoni* to Daniel §1062; Radak, *Sefer HaShorashim*; Rabbi Yehoshua Steinberg; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Ibn Janach; Ibn Chayyuj; Menachem Ibn Saruk; Rabbi Shlomo Pappenheim; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Dr. Alexander Kohut, *Aruch HaShalem*; Rabbi Dr. Ernest Klein; Professor Michael Sokoloff, *A Dictionary of Jewish Babylonian Aramaic of the Talmudic and Geonic Periods*.

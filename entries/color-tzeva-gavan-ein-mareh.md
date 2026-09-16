@@ -25,7 +25,7 @@ words:
     distinct: from ra'ah, to see; the whole picture a thing presents, which could include its color, not the color alone (Malbim to Vayikra 13:5); a sight that may include more than one color (Shadal)
 sources:
   - wiaw:11705 "Terumah: Color Me" (2025-03-01) https://articles.ohr.edu/articles/terumah-color-me
-authorities: [Radak, Rashi, Malbim, Shadal, Maharal, Raavad I, Rambam, Menachem Ibn Saruk, Rabbi Natan of Rome, Rabbi Eliyahu Bachur, Rabbi Aharon Fuld, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shmuel Yehudah Steiger, Rabbi Meir Hellman, Rabbi Shalom Pushinsky, Rabbi Ernest Klein, Alexander Kohut, Aharon Aaronsohn]
+authorities: [Radak, Rashi, Malbim, Shadal, Maharal, Raavad I, Rambam, Menachem Ibn Saruk, Rabbi Natan of Rome, Rabbi Eliyahu HaBachur, Rabbi Aharon Fuld, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehoshua Steinberg, Rabbi Shmuel Yehudah Steiger, Rabbi Meir Hellman, Rabbi Shalom Pushinsky, Rabbi Ernest Klein, Alexander Kohut, Aharon Aaronsohn]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -96,12 +96,12 @@ being a microcosm of something.
    Indo-Iranian branch of Indo-European and share a common ancestor.
 
 **Whether the Aramaic root ג-ו-נ has one meaning or three.** Rabbi Eliyahu
-Bachur (*Sefer Tishbi*, *Meturgaman*) gives three separate entries: form or
+Bachur (*Sefer HaTishbi*, *Meturgaman*) gives three separate entries: form or
 likeness (Targum of *k'demus*, Tehillim 58:5), color, and topic or subject
 (Targum of *inyan*, Koheles 1:13, 2:23). Rabbi Aharon Fuld, in his glosses to
-*Sefer Tishbi*, holds them to be one idea in three shades: color distinguishes
+*Sefer HaTishbi*, holds them to be one idea in three shades: color distinguishes
 things to the eye, likeness distinguishes them in form, and topic distinguishes
-them thematically. Rabbi Eliyahu Bachur adds that the ordinary *k'gon* ("for
+them thematically. Rabbi Eliyahu HaBachur adds that the ordinary *k'gon* ("for
 example," *k'gavna* in Zoharic Aramaic) comes from this root.
 
 ## Distinctions
@@ -132,7 +132,7 @@ solution, the root came to cover soaking of every kind. Menachem Ibn Saruk
 (*Machberes Menachem*) and Rabbi Natan of Rome (*Sefer HeAruch*) already imply
 this, listing both senses under one root without their usual separation.
 
-Dr. Alexander Kohut (*HeAruch HaShaleim*) ties צ-ב-ע to ט-ב-ע, which
+Dr. Alexander Kohut (*Aruch HaShalem*) ties צ-ב-ע to ט-ב-ע, which
 means sinking or drowning, and also stamping, and also nature, the link seemingly
 resting on the interchangeability of tzadi and tes. Rabbi Reuven Chaim Klein supplies the
 reasoning Kohut presumably had: dyeing immerses an object in liquid much as a sinking thing is
@@ -179,7 +179,7 @@ Bavli and Targum: the man selling a *tallis* asked what *gavan* it is (*Eruvin*
 140a). Targum renders *tachash* as *sasgevana* (to Bamidbar 4:6), which Rashi
 reads as *sas* (glad) with *gavan* (color), the creature rejoicing in its many
 colors, and renders *chur* as *gavan chivar*, white color (Targum to Esther 1:6,
-cited by Rabbi Eliyahu Bachur in *Sefer Tishbi*). The one possible Mishnaic case
+cited by Rabbi Eliyahu HaBachur in *Sefer HaTishbi*). The one possible Mishnaic case
 is *Niddah* 3:3, the sac full of water, blood, or *genunim*; the Gemara (*Niddah*
 24b) concludes with Rabbi Ada bar Ahavah that it be read *gavanim*, tissue of
 varied colors, as Rashi there defines it and as *Sefer HeAruch* seems to do as
@@ -207,4 +207,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Terumah: Color Me](https://articles.ohr.edu/articles/terumah-color-me)," *What's in a Word?*, Ohr Somayach, 1 March 2025.
 
-Cited in the essay: Shoftim 5:30 with Radak; Yirmiyahu 12:9; Bereishis 36 (the name Tziv'on); Nechemiah 11:34 and Shmuel I 13:18 (Tzevo'im); Shemos 8:15, 24:17, 31:18; Vayikra 4:6, 4:25, 11:25, 13:5 with Malbim and the Maharal's *Gur Aryeh*, 15:17; Bamidbar 4:6 with Rashi, 9:15, 11:7; Yechezkel 1:27, 8:2; Tehillim 58:5; Koheles 1:13, 2:23; Esther 1:6; Daniel 4:12, 4:20, 4:22, 4:30, 5:21; *Shabbos* 140a; *Mishnah Yoma* 2:1; *Bava Kamma* 9:4; *Orlah* 3:1; *Niddah* 3:3, 9:6, 24b; *Eruvin* 53b; *Sotah* 22b with Rashi; *Tanchuma Tazria* 2; *Bereishis Rabbah* 7:4; Rambam, *Yesodei HaTorah* 3:3, *Avodah Zarah* 12:10, *Tzitzis* 2:3, *Shabbos* 9:13-14, *Issurei Biah* 9:36, *Metamei Mishkav U'Moshav* 4:11, *Tumas Tzaraas* 16:10, *Mechirah* 22:14, *Shemittah* 5:1; Raavad I, *Emunah HaRamah* 1:6; Shadal; *Machberes Menachem*; *Sefer HeAruch*; Rabbi Eliyahu Bachur, *Sefer Tishbi* and *Meturgaman*, with Rabbi Aharon Fuld's glosses; *HaKsav VeHaKabbalah* to Shemos 8:15, 31:18, Vayikra 4:25; Rabbi Shmuel Yehudah Steiger, *Avnei Shayish*; Rabbi Meir Hellman, *Levush HeAron*; Rabbi Shalom Pushinsky; Rabbi Yehoshua Steinberg; Dr. Alexander Kohut, *HeAruch HaShaleim*; Rabbi Ernest Klein's etymological dictionary; Aharon Aaronsohn.
+Cited in the essay: Shoftim 5:30 with Radak; Yirmiyahu 12:9; Bereishis 36 (the name Tziv'on); Nechemiah 11:34 and Shmuel I 13:18 (Tzevo'im); Shemos 8:15, 24:17, 31:18; Vayikra 4:6, 4:25, 11:25, 13:5 with Malbim and the Maharal's *Gur Aryeh*, 15:17; Bamidbar 4:6 with Rashi, 9:15, 11:7; Yechezkel 1:27, 8:2; Tehillim 58:5; Koheles 1:13, 2:23; Esther 1:6; Daniel 4:12, 4:20, 4:22, 4:30, 5:21; *Shabbos* 140a; *Mishnah Yoma* 2:1; *Bava Kamma* 9:4; *Orlah* 3:1; *Niddah* 3:3, 9:6, 24b; *Eruvin* 53b; *Sotah* 22b with Rashi; *Tanchuma Tazria* 2; *Bereishis Rabbah* 7:4; Rambam, *Yesodei HaTorah* 3:3, *Avodah Zarah* 12:10, *Tzitzis* 2:3, *Shabbos* 9:13-14, *Issurei Biah* 9:36, *Metamei Mishkav U'Moshav* 4:11, *Tumas Tzaraas* 16:10, *Mechirah* 22:14, *Shemittah* 5:1; Raavad I, *Emunah HaRamah* 1:6; Shadal; *Machberes Menachem*; *Sefer HeAruch*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgaman*, with Rabbi Aharon Fuld's glosses; *HaKsav VeHaKabbalah* to Shemos 8:15, 31:18, Vayikra 4:25; Rabbi Shmuel Yehudah Steiger, *Avnei Shayish*; Rabbi Meir Hellman, *Levush HeAron*; Rabbi Shalom Pushinsky; Rabbi Yehoshua Steinberg; Dr. Alexander Kohut, *Aruch HaShalem*; Rabbi Ernest Klein's etymological dictionary; Aharon Aaronsohn.

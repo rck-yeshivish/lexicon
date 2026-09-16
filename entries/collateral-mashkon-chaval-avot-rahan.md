@@ -26,10 +26,10 @@ words:
   - he: אפותיקי
     tr: apoteiki
     en: designated property, hypothec
-    distinct: never held by the creditor, but a specific asset earmarked for collection on default, "from here you shall collect" (Rashi; Sefer HaAruch)
+    distinct: never held by the creditor, but a specific asset earmarked for collection on default, "from here you shall collect" (Rashi; Sefer HeAruch)
 sources:
   - wiaw:11066 "Taking Collateral" (2023-08-26) https://articles.ohr.edu/articles/taking-collateral
-authorities: [Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rav Hirsch, Rashi, Tosafos Yom Tov, Rambam, Sefer HaAruch, Daniel Sperber]
+authorities: [Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rabbi Yonah Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rav Hirsch, Rashi, Tosafos Yom Tov, Rambam, Sefer HeAruch, Daniel Sperber]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -51,7 +51,7 @@ never surrendered. *Chaval* is taken, *avot* and *rahan* given.
 | חבל | chaval | distrain, seize as security | forcible, and after the debt falls due (Rashi; Tedeschi-Ashkenazi) |
 | עבוט | avot | pledge, security | given by mutual agreement (Tedeschi-Ashkenazi); binds the borrower like an *eved* (Rav Hirsch) |
 | רהן | rahan | deposit given up front | given before the loan and left continuously (Tosafos Yom Tov; Rav Hirsch) |
-| אפותיקי | apoteiki | designated property | earmarked for collection, not surrendered (Rashi; Sefer HaAruch) |
+| אפותיקי | apoteiki | designated property | earmarked for collection, not surrendered (Rashi; Sefer HeAruch) |
 
 ## Where the authorities disagree
 
@@ -77,7 +77,7 @@ never surrendered. *Chaval* is taken, *avot* and *rahan* given.
   collateral, as a tangible token of the borrower's responsibility, ties the
   borrower to his debt as a rope ties a thing down.
 
-**What apoteiki is.** Rashi (Bava Kamma 11b, Bava Basra 44b) and *Sefer HaAruch*
+**What apoteiki is.** Rashi (Bava Kamma 11b, Bava Basra 44b) and *Sefer HeAruch*
 read it as a portmanteau of the Aramaic *a'po te'hei ka'i*, "upon here shall you
 be," that is, a declaration to the creditor that he is to collect his debt from
 here, from this particular item.
@@ -173,4 +173,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Taking Collateral](https://articles.ohr.edu/articles/taking-collateral)," *What's in a Word?*, Ohr Somayach, 26 August 2023.
 
-Cited in the essay: Shemos 22:25 with Rashi and Rav Hirsch; Devarim 15:6, 15:8, 24:6, 24:10-13, 24:17; Yechezkel 18:7; Mishlei 22:7; Tehillim 2:3, 37:35; Yoel 2:7; Chavakuk 2:6; Mishnah Sheviis 10:2, Bava Metzia 5:7 and 6:7, Shevuos 6:7, Eduyos 8:2 with Tosafos Yom Tov, Gittin 4:4, Keilim 23:2, Taharos 10:4-5, Peah 8:8, Kesubos 11:3, Arachin 5:6; Bava Kamma 11b and 115a, Bava Basra 44b, Gittin 40b, Kesubos 54a, with Rashi; Rambam, *Hilchos Maaser Sheini* 3:18; *Sefer HaAruch*; *Sefer HaTishbi* and *Meturgaman*; Menachem Ibn Saruk, Rabbi Yonah Ibn Janach and Radak; Rabbi Shlomo Pappenheim; Tedeschi-Ashkenazi, *Otzar Nirdafim*; Even-Shoshan's concordance; Rabbi Dr. Daniel Sperber, *Dictionary of Greek and Latin Legal Terms in Rabbinic Literature*; Merriam-Webster.
+Cited in the essay: Shemos 22:25 with Rashi and Rav Hirsch; Devarim 15:6, 15:8, 24:6, 24:10-13, 24:17; Yechezkel 18:7; Mishlei 22:7; Tehillim 2:3, 37:35; Yoel 2:7; Chavakuk 2:6; Mishnah Sheviis 10:2, Bava Metzia 5:7 and 6:7, Shevuos 6:7, Eduyos 8:2 with Tosafos Yom Tov, Gittin 4:4, Keilim 23:2, Taharos 10:4-5, Peah 8:8, Kesubos 11:3, Arachin 5:6; Bava Kamma 11b and 115a, Bava Basra 44b, Gittin 40b, Kesubos 54a, with Rashi; Rambam, *Hilchos Maaser Sheini* 3:18; *Sefer HeAruch*; *Sefer HaTishbi* and *Meturgaman*; Menachem Ibn Saruk, Rabbi Yonah Ibn Janach and Radak; Rabbi Shlomo Pappenheim; Tedeschi-Ashkenazi, *Otzar Nirdafim*; Even-Shoshan's concordance; Rabbi Dr. Daniel Sperber, *Dictionary of Greek and Latin Legal Terms in Rabbinic Literature*; Merriam-Webster.

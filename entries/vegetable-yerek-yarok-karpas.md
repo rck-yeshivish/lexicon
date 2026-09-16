@@ -21,7 +21,7 @@ words:
     distinct: not a synonym of yerek but one particular plant, parsley in the Yerushalmi, though the matter is far from settled (Rabbi Klein); in Esther a fabric, silk (Rabbi Saadia Gaon) or fine linen (Rabbi Dr. Ernest Klein), or a color, green (Radak)
 sources:
   - wiaw:11353 "Metzorah/Shabbos HaGadol: Veggies for the Dipping" (2024-04-20) https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia Gaon, Ibn Parchon, Ibn Ezra, Rabbi Tanchum HaYerushalmi, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias, Rabbi Baruch Epstein, Rabbi Dr. Ernest Klein, Aquila, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Alan Yuter, Rabbeinu Manoach, Maharil, Ibn Shuaib, Ben Ish Chai, Rabbi Shmuel of Falaise, Rabbi Yosef Tuv-Elem, Rabbi Yaakov Yisroel Stahl]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rabbi Avraham Bedersi, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia Gaon, Ibn Parchon, Ibn Ezra, Rabbi Tanchum HaYerushalmi, Ralbag, Ibn Yachya, Rabbi Yosef Nechemias, Rabbi Baruch Epstein, Rabbi Dr. Ernest Klein, Aquila, Dr. Alexander Kohut, Rabbi Shaul Goldman, Rabbi Alan Yuter, Rabbeinu Manoach, Maharil, Ibn Shuaib, Ben Ish Chai, Rabbi Shmuel of Falaise, Rabbi Yosef Tuv-Elem, Rabbi Yaakov Yisroel Stahl]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -70,7 +70,7 @@ the root as י-ר-ק.
 
 Technically, Rabbinic *yarok* covers a range from yellow to green to blue (see
 Rabbi Tanchum HaYerushalmi's *HaMadrich HaMaspik*, *Teshuvos Maharam
-MeRothenberg*, Prague ed. §631, and *Beiur HaGra* to *Tikkunei Zohar*, Tikkun
+MeRothenberg*, Prague ed. §631, and *Biur HaGra* to *Tikkunei Zohar*, Tikkun
 21).
 
 - Rabbi Shlomo Pappenheim takes *yarok* itself to the biliteral ר-ק, emptying or
@@ -125,7 +125,7 @@ What sort is disputed:
 - Ibn Janach (*Sefer HaShorashim*) cites and rejects that and explains *karpas*
   as a color; Rashi, Ibn Ezra, and Rabbi Tanchum HaYerushalmi adopt the same
   explanation. Radak follows it and specifies green (see also *Midrash Lekach
-  Tov* to Esther 1:6), as do Ralbag, Ibn Yachya, and Rabbi Yosef Nechmias. On
+  Tov* to Esther 1:6), as do Ralbag, Ibn Yachya, and Rabbi Yosef Nechemias. On
   this view, Rabbi Reuven Chaim Klein concludes, the Biblical *karpas* is not a
   vegetable but the basic hue of vegetables, just as *yarok* is related to
   *yerek*.
@@ -201,4 +201,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Metzorah/Shabbos HaGadol: Veggies for the Dipping](https://articles.ohr.edu/articles/metzorahshabbos-hagadol-veggies-for-the-dipping)," *What's in a Word?*, Ohr Somayach, 20 April 2024.
 
-Cited in the essay: Bereishis 1:30, 9:3, 37:3; Bamidbar 22:4; Devarim 11:10; Melachim I 21:2; Melachim II 19:26; Yeshayahu 15:6, 16:1, 37:27; Tehillim 37:2; Mishlei 15:17; Esther 1:6 with Targum Rishon, Targum Sheini, Rashi, Ibn Ezra, Radak, Ralbag, Ibn Yachya, Rabbi Yosef Nechmias, *Midrash Lekach Tov*, *Esther Rabbah*, and Rabbi Saadia Gaon's *Tafsir* (cited also by Ibn Parchon); *Pesachim* 10:3-4 with Rashi to Pesachim 114a; *Berachos* 6:1; *Shevi'is* 9:1 with Sukkah 39b and the Yerushalmi there; Kesubos 61a; Megillah 12a; Rosh HaShanah 26a; Menachem Ibn Saruk; Ibn Janach, *Sefer HaShorashim*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; *Teshuvos Maharam MeRothenberg*, Prague ed. §631; *Beiur HaGra* to *Tikkunei Zohar* 21; Rabbi Shlomo Pappenheim; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Rabbeinu Manoach to *Hilchos Chametz U'Matzah* 8:2; Dr. Alexander Kohut; Rabbi Shaul Goldman; Rabbi Alan Yuter; Rabbi Baruch Epstein, *Toseses Berachah* to Esther 1:6; Rabbi Dr. Ernest Klein's etymological dictionary of Hebrew; Aquila; *Tur* and *Shulchan Aruch*, Orach Chaim 473; Rabbi Yaakov Yisroel Stahl; *Machzor Vitri*; Rabbi Yosef Tuv-Elem, *Elokei HaRuchos*, with Rabbi Shmuel of Falaise's commentary in *Ohr Zarua*, *Hilchos Pesachim* §256; *Sefer Maharil*; Ibn Shuaib to Tzav; *Ben Ish Chai*, Year 1, Tzav §32; *Chasam Sofer*, Orach Chaim 132; *Aruch HaShulchan*, Orach Chaim 473:10; *Piskei Teshuvos* to Orach Chaim 473.
+Cited in the essay: Bereishis 1:30, 9:3, 37:3; Bamidbar 22:4; Devarim 11:10; Melachim I 21:2; Melachim II 19:26; Yeshayahu 15:6, 16:1, 37:27; Tehillim 37:2; Mishlei 15:17; Esther 1:6 with Targum Rishon, Targum Sheini, Rashi, Ibn Ezra, Radak, Ralbag, Ibn Yachya, Rabbi Yosef Nechemias, *Midrash Lekach Tov*, *Esther Rabbah*, and Rabbi Saadia Gaon's *Tafsir* (cited also by Ibn Parchon); *Pesachim* 10:3-4 with Rashi to Pesachim 114a; *Berachos* 6:1; *Shevi'is* 9:1 with Sukkah 39b and the Yerushalmi there; Kesubos 61a; Megillah 12a; Rosh HaShanah 26a; Menachem Ibn Saruk; Ibn Janach, *Sefer HaShorashim*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; *Teshuvos Maharam MeRothenberg*, Prague ed. §631; *Biur HaGra* to *Tikkunei Zohar* 21; Rabbi Shlomo Pappenheim; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Rabbeinu Manoach to *Hilchos Chametz U'Matzah* 8:2; Dr. Alexander Kohut; Rabbi Shaul Goldman; Rabbi Alan Yuter; Rabbi Baruch Epstein, *Toseses Berachah* to Esther 1:6; Rabbi Dr. Ernest Klein's etymological dictionary of Hebrew; Aquila; *Tur* and *Shulchan Aruch*, Orach Chaim 473; Rabbi Yaakov Yisroel Stahl; *Machzor Vitri*; Rabbi Yosef Tuv-Elem, *Elokei HaRuchos*, with Rabbi Shmuel of Falaise's commentary in *Ohr Zarua*, *Hilchos Pesachim* §256; *Sefer Maharil*; Ibn Shuaib to Tzav; *Ben Ish Chai*, Year 1, Tzav §32; *Chasam Sofer*, Orach Chaim 132; *Aruch HaShulchan*, Orach Chaim 473:10; *Piskei Teshuvos* to Orach Chaim 473.

@@ -105,7 +105,7 @@ Rashi (41a) calls a round water pit; the *ugiyos* one may not make around a grap
 Chol HaMoed (Moed Katan 1:1), small round water pits; and Choni HaMe'agel's *ug ugah*,
 the circle he drew and would not leave until rain fell (Taanis 23a). Philologists such
 as Shadal (to
-Bereishis 18:6) and Dr. Alexander Kohut (*Aruch HaShaleim*) relate *ugah* to *chugah*,
+Bereishis 18:6) and Dr. Alexander Kohut (*Aruch HaShalem*) relate *ugah* to *chugah*,
 circle or circuit; others, like Rabbi Aharon Marcus, connect it to *igul*.
 
 *Chararah* itself is in the Mishnah a baked good of some sort (*Shabbos* 1:10, *Bava
@@ -177,4 +177,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Pesach: Eating Cake](https://articles.ohr.edu/articles/pesach-eating-cake)," *What's in a Word?*, Ohr Somayach, 27 April 2024.
 
-Cited in the essay: Bereishis 3:21 with Rabbi Yitzchak of Pira, 18:6 with Shadal; Shemos 12:39 with Rashi and the *Mechilta*, 29:2, 29:23; Vayikra 2:4 with Ibn Ezra, 7:12-13, 8:26, 24:5; Bamidbar 6:15, 6:19, 11:8, 15:20; Shmuel I 2:36; Shmuel II 6:19; Melachim I 17:13 with Targum, 19:6; Yirmiyahu 37:21; Yechezkel 4:12; Hoshea 7:8; Mishlei 6:26; Divrei HaYamim I 16:3; Mishnah *Shabbos* 1:10, *Bava Kamma* 2:3, *Peah* 5:8 with the Yerushalmi, *Chullin* 2:9, *Moed Katan* 1:1; Shabbos 30b; Chullin 41a with Rashi, 64a; Taanis 23a; Pesachim 6b, 74b, 76b; Kesubos 111b; Eruvin 68a; Avodah Zarah 66b; *Bereishis Rabbah* §42:8, §48:12, §88:2; *Chemdas Yamim*; *Yehudah Ya'aleh* Orach Chaim vol. 1 §157; *HaDrash V'HaIyun*, Tzav §29; *Aruch HaShulchan* Orach Chaim 429:8; *Mussaf HeAruch*; Kohut, *Aruch HaShaleim*; Rabbi Aharon Marcus; Rabbi Ernest Klein; HALOT; Even-Shoshan; Julius Pokorny.
+Cited in the essay: Bereishis 3:21 with Rabbi Yitzchak of Pira, 18:6 with Shadal; Shemos 12:39 with Rashi and the *Mechilta*, 29:2, 29:23; Vayikra 2:4 with Ibn Ezra, 7:12-13, 8:26, 24:5; Bamidbar 6:15, 6:19, 11:8, 15:20; Shmuel I 2:36; Shmuel II 6:19; Melachim I 17:13 with Targum, 19:6; Yirmiyahu 37:21; Yechezkel 4:12; Hoshea 7:8; Mishlei 6:26; Divrei HaYamim I 16:3; Mishnah *Shabbos* 1:10, *Bava Kamma* 2:3, *Peah* 5:8 with the Yerushalmi, *Chullin* 2:9, *Moed Katan* 1:1; Shabbos 30b; Chullin 41a with Rashi, 64a; Taanis 23a; Pesachim 6b, 74b, 76b; Kesubos 111b; Eruvin 68a; Avodah Zarah 66b; *Bereishis Rabbah* §42:8, §48:12, §88:2; *Chemdas Yamim*; *Yehudah Ya'aleh* Orach Chaim vol. 1 §157; *HaDrash V'HaIyun*, Tzav §29; *Aruch HaShulchan* Orach Chaim 429:8; *Mussaf HeAruch*; Kohut, *Aruch HaShalem*; Rabbi Aharon Marcus; Rabbi Ernest Klein; HALOT; Even-Shoshan; Julius Pokorny.

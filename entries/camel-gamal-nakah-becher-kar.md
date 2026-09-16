@@ -28,7 +28,7 @@ words:
     distinct: a prominent kind of camel (Ibn Ezra), any fast-running animal (Radak), or skipping young calves (Rabbi Yosef Bechor Shor)
 sources:
   - wiaw:11619 "Vayishlach: Go Camel" (2024-12-14) https://articles.ohr.edu/articles/vayishlach-go-camel
-authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehuda Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum, Rabbi Ernest Klein, Rabbi Aharon Marcus, Avraham Even-Shoshan, Michael Sokoloff]
+authorities: [Menachem Ibn Saruk, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yitzchak Avineri, Radak, Rabbi Shlomo Pappenheim, Rashi, Ibn Janach, Rabbi Saadia Gaon, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Tanchum HaYerushalmi, Rabbi Shlomo Ibn Parchon, Rabbi Yosef Kimchi, Rabbi Yosef Bechor Shor, Rabbi Nosson of Rome, Mahari Kara, Targum, Rabbi Ernest Klein, Rabbi Aharon Marcus, Avraham Even-Shoshan, Michael Sokoloff]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -72,7 +72,7 @@ a young camel.
 
 **What kar means.**
 - Ibn Ezra himself appears to give two answers in two places. To Yeshayahu 16:1
-  it is a kind of camel that runs very fast; Rabbi Yehuda Ibn Balaam links this
+  it is a kind of camel that runs very fast; Rabbi Yehudah Ibn Balaam links this
   to the Gemara's *gamla parcha*, the "flying camel" (Yevamos 116a, Sanhedrin
   107b). To Bereishis 31:34, where Rachel hides Lavan's terafim in the *kar
   hagamal*, it is the camel's saddle-basket. Rabbi Tanchum HaYerushalmi
@@ -187,7 +187,7 @@ Greek εὐγενής (*eugenes*), "noble," "of good stock," from *eu*, "well," 
 same root. The related
 Talmudic *mehugan* or *hagun* carries the sense of worthy, of good stock
 (Kiddushin 70a, Eruvin 100b, Nedarim 20a, Yevamos 108a, Kesubos 22a and 54a,
-Bava Kama 80a).
+Bava Kamma 80a).
 
 *Becher*/*bichrah* also surfaces where one would least expect it.
 
@@ -222,4 +222,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayishlach: Go Camel](https://articles.ohr.edu/articles/vayishlach-go-camel)," *What's in a Word?*, Ohr Somayach, 14 December 2024.
 
-Cited in the essay: Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16 with Rashi; Vayikra 11:18; Bamidbar 1:10, 2:20, 7:3, 7:54, 7:59, 10:12, 13:12, 17:23; Shmuel I 1:23, 24:18; Divrei HaYamim I 24:17; Yeshayahu 16:1, 18:5, 28:9, 60:6, 66:20; Yirmiyahu 2:23; Hoshea 1:8; Tehillim 7:5, 13:6, 116:12; Mishlei 31:12; Mishnah Shabbos 5:1, Keilim 23:2, Yoma 3:9, Yevamos 6:4, Shekalim 3:2; Sanhedrin 52a and 107b; Yevamos 108a and 116a; Bava Basra 5b; Kiddushin 70a; Eruvin 100b; Nedarim 20a; Kesubos 22a and 54a; Bava Kama 80a; Yerushalmi Chagigah 2:1; *Bereishis Rabbah* 76:7; Rabbi Saadia Gaon's Tafsir; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*; *Keses HaSofer* to Bereishis 10:2; Even-Shoshan's concordance; Rabbi Ernest Klein; Dr. Michael Sokoloff's dictionary of Jewish Babylonian Aramaic; the Oxford English Dictionary.
+Cited in the essay: Bereishis 10:2, 12:16, 21:8, 24:17, 31:34, 32:16 with Rashi; Vayikra 11:18; Bamidbar 1:10, 2:20, 7:3, 7:54, 7:59, 10:12, 13:12, 17:23; Shmuel I 1:23, 24:18; Divrei HaYamim I 24:17; Yeshayahu 16:1, 18:5, 28:9, 60:6, 66:20; Yirmiyahu 2:23; Hoshea 1:8; Tehillim 7:5, 13:6, 116:12; Mishlei 31:12; Mishnah Shabbos 5:1, Keilim 23:2, Yoma 3:9, Yevamos 6:4, Shekalim 3:2; Sanhedrin 52a and 107b; Yevamos 108a and 116a; Bava Basra 5b; Kiddushin 70a; Eruvin 100b; Nedarim 20a; Kesubos 22a and 54a; Bava Kamma 80a; Yerushalmi Chagigah 2:1; *Bereishis Rabbah* 76:7; Rabbi Saadia Gaon's Tafsir; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *Machberes HeAruch*; *HaMadrich HaMaspik*; *Aholei Yehudah*; *Keses HaSofer* to Bereishis 10:2; Even-Shoshan's concordance; Rabbi Ernest Klein; Dr. Michael Sokoloff's dictionary of Jewish Babylonian Aramaic; the Oxford English Dictionary.

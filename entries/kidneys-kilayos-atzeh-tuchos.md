@@ -20,7 +20,7 @@ words:
     distinct: twice only (Tehillim 51:8; Iyov 38:36); the kidneys (Rosh Hashanah 26a; Targum, Rashi, Radak), or the innards generally (Ibn Ezra)
 sources:
   - wiaw:11307 "Vayikra: The Kidneys Advisory" (2024-03-23) https://articles.ohr.edu/articles/vayikra-the-kidneys-advisory
-authorities: [Rashi, Rashbam, Radak, Ibn Ezra, Ibn Janach, Menachem Ibn Saruk, Ramban, Rav Hirsch, Chizkuni, Rabbeinu Bachya, Shadal, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Elazar Rokeach of Worms, Rabbi Shes ben Yefes HaRofeh, Rabbi Avraham Ibn Ramoch, Metzudas Zion, Chochmas Manoach, Targum Onkelos, Daas Mikra, Brown-Driver-Briggs, David J. A. Clines, Rabbi Natan Slifkin]
+authorities: [Rashi, Rashbam, Radak, Ibn Ezra, Ibn Janach, Menachem Ibn Saruk, Ramban, Rav Hirsch, Chizkuni, Rabbeinu Bachya, Shadal, Rabbi Shlomo Pappenheim, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Elazar Rokeach of Worms, Rabbi Shes ben Yefes HaRofeh, Rabbi Avraham Ibn Ramoch, Metzudas Tzion, Chochmas Manoach, Targum Onkelos, Daas Mikra, Brown-Driver-Briggs, David J. A. Clines, Rabbi Natan Slifkin]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -96,7 +96,7 @@ heart or a rooster.
 - *Machberes Menachem* and Rashi (to Tehillim 51:8 and Rosh Hashanah 26a): from
   ט-ח, "smooth," the root also of *mitachavei*, a target (Bereishis 21:16),
   since an arrow needs a clear run at its mark.
-- Radak, Rabbi Avraham Ibn Ramoch, and *Metzudas Zion*: from the "smearing"
+- Radak, Rabbi Avraham Ibn Ramoch, and *Metzudas Tzion*: from the "smearing"
   sense of the same root, since the kidneys are coated in fat.
 - *Chochmas Manoach* merges the two.
 

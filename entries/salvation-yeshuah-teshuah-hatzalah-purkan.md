@@ -26,7 +26,7 @@ words:
     nk: שַׁוְעָה
 sources:
   - wiaw:9464 "Seeking Salvation" (2021-11-27) https://articles.ohr.edu/articles/seeking-salvation
-authorities: [Rabbi Yitzchak Eliyahu Landau of Dubno, Rav Hirsch, Rabbi Shlomo Pappenheim, Sefer HaAruch, Rashi, Tosafos, Peirush HaRokeach, Malbim, Rabbi Yechiel Michel Heilpern, Rabbi Chanoch Zundel of Bialystok, Radak, Ibn Janach]
+authorities: [Rabbi Yitzchak Eliyahu Landau of Dubno, Rav Hirsch, Rabbi Shlomo Pappenheim, Sefer HeAruch, Rashi, Tosafos, Peirush HaRokeach, Malbim, Rabbi Yechiel Michel Heilpern, Rabbi Chanoch Zundel of Bialystok, Radak, Ibn Janach]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -87,7 +87,7 @@ salvation through military victory over outside conquerors.
   itself, without the further protection *hatzalah* implies.
 
 Bava Kamma 80a mentions a ceremony called *Yeshua HaBen* without saying what it
-is. *Sefer HaAruch* and Rashi explain it as the festive meal of a *pidyon haben*
+is. *Sefer HeAruch* and Rashi explain it as the festive meal of a *pidyon haben*
 (see also Tosafos there), on the grounds that the Targumim render cognates of
 both *yeshuah* and *pidyon* with words of *purkan*.
 
@@ -152,4 +152,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Seeking Salvation](https://articles.ohr.edu/articles/seeking-salvation)," *What's in a Word?*, Ohr Somayach, 27 November 2021.
 
-Cited in the essay: *Al HaNissim*; Shemos 2:17, and 3:22 and 14:13 with Rav Hirsch; Devarim 22:27, and 32:2 with Rav Hirsch; Yirmiyahu 15:20 with Malbim; Eichah 5:8; Tehillim 136:24; Bava Kamma 80a with Rashi, Tosafos and *Sefer HaAruch*; *Shemos Rabbah* 1:32; Radak and Ibn Janach on נ-צ-ל; Rabbi Shlomo Pappenheim; *Peirush HaRokeach*; Rabbi Yechiel Michel Heilpern; Rabbi Chanoch Zundel of Bialystok; Rabbi Yitzchak Eliyahu Landau of Dubno.
+Cited in the essay: *Al HaNissim*; Shemos 2:17, and 3:22 and 14:13 with Rav Hirsch; Devarim 22:27, and 32:2 with Rav Hirsch; Yirmiyahu 15:20 with Malbim; Eichah 5:8; Tehillim 136:24; Bava Kamma 80a with Rashi, Tosafos and *Sefer HeAruch*; *Shemos Rabbah* 1:32; Radak and Ibn Janach on נ-צ-ל; Rabbi Shlomo Pappenheim; *Peirush HaRokeach*; Rabbi Yechiel Michel Heilpern; Rabbi Chanoch Zundel of Bialystok; Rabbi Yitzchak Eliyahu Landau of Dubno.

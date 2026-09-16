@@ -20,7 +20,7 @@ words:
     distinct: the wild, fast part of the dance (Metzudas David); the hands and fingers moving with the feet (Rashbam, Rabbi Tanchum HaYerushalmi); the extra verb at Shmuel II 6:16, the wildness that galled Michal (Rabbi Zev Atlas)
 sources:
   - wiaw:11784 "Shemini: Dancing Away" (2025-04-26) https://articles.ohr.edu/articles/shemini-dancing-away
-authorities: [Talmud Yerushalmi, Rabbi Aharon Marcus, Rabbi Moshe Tedeschi-Ashkenazi, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, Rabbi Tanchum HaYerushalmi, Rabbeinu Yonah Ibn Janach, Rabbeinu Avraham ben Shlomo, Targum, Rambam, Rabbi Yehuda Aryeh of Carpentras, Metzudas David, Rabbi Zev Atlas, Rashbam, Shadal, Yehoshua Yaron]
+authorities: [Talmud Yerushalmi, Rabbi Aharon Marcus, Rabbi Moshe Tedeschi-Ashkenazi, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Yosef Kara, Rabbi Tanchum HaYerushalmi, Rabbeinu Yonah Ibn Janach, Rabbeinu Avraham ben Shlomo, Targum, Rambam, Rabbi Yehudah Aryeh of Carpentras, Metzudas David, Rabbi Zev Atlas, Rashbam, Shadal, Yehoshua Yaron]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -127,13 +127,13 @@ strengthening.
   biliteral פ-ז that gives *paz*, a kind of gold: as the sparkle of gold gives
   the impression that the light bouncing off it is dancing in all directions, so
   *mifazez* is wild dancing in many directions. Rabbi Shlomo Pappenheim
-  (*Cheishek Shlomo*) likewise traces both terms to פ-ז, whose core sense he
+  (*Cheshek Shlomo*) likewise traces both terms to פ-ז, whose core sense he
   defines as quick movement, in the sense of dancing and of shining alike. The
   English *pizzaz*/*pizazz* ("sparkle," "showiness," "glamor") seems to have
   been coined in the 1930s, and the *Oxford English Dictionary* calls it of
   unknown origin; Rabbi Klein wonders whether perhaps it rests on the Hebrew
   *mifazez*.
-- Rabbi Yehuda Aryeh of Carpentras, in an explanation somewhat reminiscent of
+- Rabbi Yehudah Aryeh of Carpentras, in an explanation somewhat reminiscent of
   Tedeschi-Ashkenazi on *miraked*: *paz* is the gold that stands metaphorically
   above the other metals, matching the dancer's gestures, which are often
   upward.
@@ -144,7 +144,7 @@ strengthening.
   by it (*Shabbos* 55b on Bereishis 49:4), and a Sadducee sneered at Israel as
   an *ama peziza*, a hasty nation, for saying *na'aseh* before *nishma*
   (*Kesubos* 112a, *Shabbos* 88a, on Shemos 24:7).
-- Tedeschi-Ashkenazi (*Ho'il Moshe* to Shmuel II 6:16) links פ-ז-ז to פ-צ-צ, to
+- Tedeschi-Ashkenazi (*Hoil Moshe* to Shmuel II 6:16) links פ-ז-ז to פ-צ-צ, to
   burst or scatter: the dancer seems to explode from place to place; and he
   suggests that perhaps fine gold is called *paz* because beating it into a thin
   sheet sends little pieces flying, as though the metal were exploding.
@@ -192,4 +192,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shemini: Dancing Away](https://articles.ohr.edu/articles/shemini-dancing-away)," *What's in a Word?*, Ohr Somayach, 26 April 2025.
 
-Cited in the essay: Bereishis 11:9, 13:10, 49:4, 49:24; Shemos 24:7; Shmuel II 6:12-23, particularly 6:14 and 6:16; Divrei HaYamim I 15:29; Yeshayahu 13:21; Tehillim 29:6, 68:17, 114:4, 114:6; Koheles 3:4; Mishnah *Beitzah* 5:2, *Sukkah* 5:4, *Shabbos* 7:2, *Shevi'is* 5:9, *Gittin* 5:9, *Menachos* 11:3; Yerushalmi *Beitzah* 5:2; *Berachos* 33a, *Pesachim* 112b, *Yoma* 69b, *Sanhedrin* 64a, *Bava Basra* 16a, *Shabbos* 55b and 88a, *Kesubos* 112a, *Megillah* 29a; *Bamidbar Rabbah* 4:20; Rambam, *Hilchos Lulav* 8:13-14; Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* and *Ho'il Moshe*; Mr. Yehoshua Yaron, *Mevo L'Midrash HaLashon*; Shadal to Bereishis 11:9 and 13:10.
+Cited in the essay: Bereishis 11:9, 13:10, 49:4, 49:24; Shemos 24:7; Shmuel II 6:12-23, particularly 6:14 and 6:16; Divrei HaYamim I 15:29; Yeshayahu 13:21; Tehillim 29:6, 68:17, 114:4, 114:6; Koheles 3:4; Mishnah *Beitzah* 5:2, *Sukkah* 5:4, *Shabbos* 7:2, *Shevi'is* 5:9, *Gittin* 5:9, *Menachos* 11:3; Yerushalmi *Beitzah* 5:2; *Berachos* 33a, *Pesachim* 112b, *Yoma* 69b, *Sanhedrin* 64a, *Bava Basra* 16a, *Shabbos* 55b and 88a, *Kesubos* 112a, *Megillah* 29a; *Bamidbar Rabbah* 4:20; Rambam, *Hilchos Lulav* 8:13-14; Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* and *Hoil Moshe*; Mr. Yehoshua Yaron, *Mevo L'Midrash HaLashon*; Shadal to Bereishis 11:9 and 13:10.

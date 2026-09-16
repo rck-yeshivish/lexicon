@@ -117,10 +117,10 @@ Jews were first ghettoized in exile and slavery in biblical times.
 ### shtar (שטר)
 Root ש-ט-ר. Absent from Tanach but quite common in later rabbinic literature,
 including the Bar Kochba Letters and the Mishnah, and often specified by its
-type: *shtar chov*, *shtar erusin* (Kesuvos 102b; Kiddushin 9b), *shtar nisuin*
-and *shtar arisus* (Bava Basra 167b), *shtar amanah* (Kesuvos 19a; Gittin 19b;
+type: *shtar chov*, *shtar erusin* (Kesubos 102b; Kiddushin 9b), *shtar nisuin*
+and *shtar arisus* (Bava Basra 167b), *shtar amanah* (Kesubos 19a; Gittin 19b;
 Bava Basra 49a, 154b), *shtar berurin* (Moed Katan 18b), *shtar mivrachas*
-(Kesuvos 79a). Ritva distinguishes a *shtar* from an *iggeret*: a *shtar* is
+(Kesubos 79a). Ritva distinguishes a *shtar* from an *iggeret*: a *shtar* is
 written with the intention that it last a long time (ostensibly so as to serve as
 evidence of the transaction or event it records), while an *iggeret* is not
 intended as long-term documentation. Whether it is the same root as *shoter*, the officer, is
@@ -177,4 +177,4 @@ Rabbi Reuven Chaim Klein, "[Divorce Bills and Other Documents](https://articles.
 
 Rabbi Reuven Chaim Klein, "[Between Books and Scrolls](https://articles.ohr.edu/articles/between-books-and-scrolls)," *What's in a Word?*, Ohr Somayach, 19 February 2022.
 
-Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesuvos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgaman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik; Ritva.
+Cited in the essay: Devarim 24:1-3; Yeshayahu 50:1; Yirmiyahu 32; Yechezkel 22:25; Shemos 5:6; Gittin 2a, 10a, 19b, 65b; Bava Kamma 95a; Bava Basra 49a, 154b, 160a, 167b; Kesubos 19a, 79a, 102b; Kiddushin 9b; Moed Katan 18b; Berachos 56a; Mishnah Gittin 2:5 with Rambam; *Sefer HaChaim*; *Sefer HaTishbi*; *Meturgaman*; *Divrei Eliyahu*; *Taama DeKra* to Devarim 24:1; *Levush*, Even HaEzer 125:11; *Kolbo* 76; Dr. Chaim Tawil; Rabbi Eliezer Herstik; Ritva.

@@ -104,7 +104,7 @@ first plague, and that is what the meforshim are commenting on.
 - Menachem Ibn Saruk lists it under ל-ה-ט, a root carrying two senses, "flame or
   blade" and "a type of *kishuf*." Radak also entertains this possibility,
   suggesting that some forms of magic call for a sharp sword. Menachem never
-  lists *lat* at all in *Machberet Menachem*, so there is no telling which root
+  lists *lat* at all in *Machberes Menachem*, so there is no telling which root
   he would have put it under.
 - Rashi (to Shemos 7:11) connects the magical sense to the *lahat hacherev
   hamis'hapeches* of Bereishis 3:24: the ever-turning sword looks to an onlooker

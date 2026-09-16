@@ -16,7 +16,7 @@ words:
     distinct: value from rarity and impact, from ק-ר, strong impact (Rabbi Pappenheim); rare, importance from circumstance and not inherent worth (Malbim); or inherent value needing no comparison (Rabbi Avraham Vilner); possibly kavod in Aramaic (Rabbi Klein)
 sources:
   - wiaw:11724 "Ki Sisa/Purim: Heavy Honors" (2025-03-15) https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors
-authorities: [Rabbi Eliyahu Bachur, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Malbim, Rabbi Avraham Vilner, Rabbi Benzion Meir Chai Uziel, Rabbi Baruch HaLevi Epstein, Rabbi Yosef Shaul Nathansohn, Yad Ramah, Maharsha, Aruch L'Ner, Rabbi Efrayim Zalman Margulies, Sfas Emes, Rabbi Zvi Hirsch Chajes, Rabbi Eliezer Harstik, Rabbi Naftali Maskileison, Rabbi Dr. Ephraim Kanarfogel]
+authorities: [Rabbi Eliyahu HaBachur, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shlomo Pappenheim, Malbim, Rabbi Avraham Vilner, Rabbi Benzion Meir Chai Uziel, Rabbi Baruch HaLevi Epstein, Rabbi Yosef Shaul Nathansohn, Yad Ramah, Maharsha, Aruch L'Ner, Rabbi Efrayim Zalman Margulies, Sfas Emes, Rabbi Zvi Hirsch Chajes, Rabbi Eliezer Harstik, Rabbi Naftali Maskileison, Rabbi Dr. Ephraim Kanarfogel]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -67,7 +67,7 @@ Rabbinic *l'chabed* also means to sweep or clean, and in contemporary usage
 
 ### yakar (יקר)
 Root י-ק-ר: precious, expensive, honorable.
-- Rabbi Eliyahu Bachur (*Sefer HaTishbi*): whatever is precious becomes
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*): whatever is precious becomes
   expensive. Indeed, by the law of supply and demand, the rarer a thing the
   higher its price.
 - Rabbi Pappenheim, explaining the initial yod as radical, traces it to ק-ר, a
@@ -90,7 +90,7 @@ display (1:4), wives giving *yikar* to husbands (1:20), the *yikar* due
 Mordechai (6:3, 6:6), and the Jews' *yikar* at the resolution (8:16).
 
 ### The Aramaic question
-Rabbi Eliyahu Bachur (*Meturgeman*): Targum tends to render כ-ב-ד, both "heavy"
+Rabbi Eliyahu HaBachur (*Meturgeman*): Targum tends to render כ-ב-ד, both "heavy"
 (Shemos 4:10, 7:14; Shmuel II 14:26) and "honor" (Shemos 20:11; Shmuel I 2:29;
 Yeshayahu 43:23), with Aramaic י-ק-ר; so one simple line, which Rabbi Klein
 raises as a possibility, might be that *yakar* is *kavod* in Aramaic and the
@@ -158,4 +158,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Ki Sisa/Purim: Heavy Honors](https://articles.ohr.edu/articles/ki-sisapurim-heavy-honors)," *What's in a Word?*, Ohr Somayach, 15 March 2025.
 
-Cited in the essay: Esther 1:4, 1:20, 6:3, 6:6, 8:16; Rabbi Eliyahu Bachur, *Sefer HaTishbi* s.v. יקר and *Meturgeman* on Targum to Shemos 4:10, 7:14, 20:11, Shmuel I 2:29, Shmuel II 14:26, Yeshayahu 43:23; *Aholei Yehudah* on the liver with Berachos 60b; Rabbi Pappenheim, *Yerios Shlomo* introduction, with Yechezkel 27:22, Shmuel I 3:1, Tehillim 116:15; Malbim, *Sefer HaCarmel* and *Yair Ohr*; *Be'er Avraham* to Esther 1:4; Megillah 9a and Sanhedrin 38b with Tehillim 139:17, Yad Ramah to Sanhedrin 38b, Maharsha to Bava Basra 75b, Aruch L'Ner to Sanhedrin 38b, and Rabbi Uziel's glosses; *Beis Efrayim* OC 70; Sfas Emes to Megillah 9a, Maharatz Chajes to Megillah 9a and Sanhedrin 38b; *Raglei Mevasser* to *Sefer HaTishbi*; *Safah LaNe'emanim* pp. 34-35; *Beis Shaul* and *Miskenos Naftali* to Yadayim 4:5; Yirmiyahu 31:19; *Tosafos* to Eruvin 40b, Avodah Zarah 68a, Chullin 47a; Bereishis 25:27, 49:22.
+Cited in the essay: Esther 1:4, 1:20, 6:3, 6:6, 8:16; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* s.v. יקר and *Meturgeman* on Targum to Shemos 4:10, 7:14, 20:11, Shmuel I 2:29, Shmuel II 14:26, Yeshayahu 43:23; *Aholei Yehudah* on the liver with Berachos 60b; Rabbi Pappenheim, *Yerios Shlomo* introduction, with Yechezkel 27:22, Shmuel I 3:1, Tehillim 116:15; Malbim, *Sefer HaCarmel* and *Yair Ohr*; *Be'er Avraham* to Esther 1:4; Megillah 9a and Sanhedrin 38b with Tehillim 139:17, Yad Ramah to Sanhedrin 38b, Maharsha to Bava Basra 75b, Aruch L'Ner to Sanhedrin 38b, and Rabbi Uziel's glosses; *Beis Efrayim* OC 70; Sfas Emes to Megillah 9a, Maharatz Chajes to Megillah 9a and Sanhedrin 38b; *Raglei Mevasser* to *Sefer HaTishbi*; *Safah LaNe'emanim* pp. 34-35; *Beis Shaul* and *Miskenos Naftali* to Yadayim 4:5; Yirmiyahu 31:19; *Tosafos* to Eruvin 40b, Avodah Zarah 68a, Chullin 47a; Bereishis 25:27, 49:22.

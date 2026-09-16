@@ -124,4 +124,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Crown is a Crown](https://articles.ohr.edu/articles/a-crown-is-a-crown)," *What's in a Word?*, Ohr Somayach, 30 July 2016.
 
-Cited in the essay: Esther 1:11, 2:17, 6:8; Bamidbar 6:7; Vayikra 21:12; the *zer zahav* of the Mishkan kelim in Shemos; the Malbim; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*; unnamed linguists on *tag*.
+Cited in the essay: Esther 1:11, 2:17, 6:8; Bamidbar 6:7; Vayikra 21:12; the *zer zahav* of the Mishkan kelim in Shemos; the Malbim; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; unnamed linguists on *tag*.

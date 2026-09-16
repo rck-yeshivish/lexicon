@@ -24,7 +24,7 @@ words:
     distinct: the navel in the Mishnah, and in Tanach only tabur ha'aretz, the middle of the land; the same move from organ to middle as with lev, the navel sustaining a fetus as the heart sustains life
 sources:
   - wiaw:9785 "In the Middle" (2022-07-16) https://articles.ohr.edu/articles/in-the-middle
-authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Rabbi Eliyahu HaBachur, Rabbi Shmuel Ibn Tibbon, Rabbi Dovid Golumb, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Ramban, Avraham Even-Shoshan]
+authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Rabbi Eliyahu HaBachur, Rabbi Shmuel Ibn Tibbon, Rabbi David Golumb, Rabbi Ernest Klein, Rabbi Yehoshua Steinberg, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Shlomo Pappenheim, Ramban, Avraham Even-Shoshan]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -80,7 +80,7 @@ yields Germanic *midja* and Latin *medius*, and through them the English
 In Talmudic and Targumic Aramaic the initial *aleph* drops and the word is
 *metzia* or *metziyasa* (Targum to Bereishis 1:6, 2:9; Shemos 26:28; Shoftim
 16:29; Iyov 20:13; Tehillim 45:10, 135:9). Hence *Bava Metzia*, the Middle Gate,
-beside *Bava Kama* and *Bava Basra*, and not *Bava Emtzai*.
+beside *Bava Kamma* and *Bava Basra*, and not *Bava Emtzai*.
 
 ### merkaz (מרכז)
 Seemingly from ר-כ-ז, concentrating; modern Hebrew *rikuz* covers both a juice
@@ -97,7 +97,7 @@ spot for tying"), which in turn derives from the Akkadian *rakasu* ("to
 fasten").
 
 Despite Ibn Tibbon's admission that the word comes from Arabic, Rabbi Reuven
-Chaim Klein holds there is still room to see something Hebraic in it. Rabbi Dovid Golumb
+Chaim Klein holds there is still room to see something Hebraic in it. Rabbi David Golumb
 (1861-1935, *Targumna*) conjectures that the late root ר-כ-ז actually comes
 from the earlier ר-כ-ס through the interchange of *zayin* and *samech*; Rabbi
 Ernest Klein, in his *A Comprehensive Etymological Dictionary of the Hebrew

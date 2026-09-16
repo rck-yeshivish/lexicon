@@ -24,7 +24,7 @@ words:
     distinct: Aramaic for soles (Rashi), white flour (Ibn Ezra); yet the Targum attributed to Rabbi Yonasan ben Uziel renders kemach as semida; ancestor of the English semolina
 sources:
   - wiaw:9275 "Flour Power" (2021-07-03) https://articles.ohr.edu/articles/flour-power
-authorities: [Rashi, Rashbam, Ibn Ezra, Radak, Rabbeinu Yonah ibn Janach, Menachem Ibn Saruk, Donash Ibn Labrat, Ibn Sheshes, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras]
+authorities: [Rashi, Rashbam, Ibn Ezra, Radak, Rabbeinu Yonah Ibn Janach, Menachem Ibn Saruk, Donash Ibn Labrat, Ibn Sheshes, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Yehudah Aryeh of Carpentras]
 status: reviewed
 updated: 2026-09-10
 ---

@@ -17,7 +17,7 @@ words:
   - he: לביא
     tr: lavi
     en: lion, lioness
-    distinct: its roar seizes men's hearts (Rabbi Levi), or it eats the heart first (Rabbi Menachem Azariah of Fano); younger than an ari (Baal HaTurim); after aryeh, before layish (Radak); a lioness that has borne young (Vilna Gaon); another species (Rabbi Yishaya of Trani), a leopard (Pappenheim)
+    distinct: its roar seizes men's hearts (Rabbi Levi), or it eats the heart first (Rabbi Menachem Azariah of Fano); younger than an ari (Baal HaTurim); after aryeh, before layish (Radak); a lioness that has borne young (Vilna Gaon); another species (Rabbi Yeshayah of Trani), a leopard (Pappenheim)
   - he: ליש
     tr: layish
     en: old lion, lioness
@@ -29,14 +29,14 @@ words:
   - he: שחץ
     tr: shachatz
     en: lion
-    distinct: named because its teeth are sharp as arrows, cheitz (Rabbi Levi); a word for lion even for Rabbi Yishaya of Trani
+    distinct: named because its teeth are sharp as arrows, cheitz (Rabbi Levi); a word for lion even for Rabbi Yeshayah of Trani
   - he: גור
     tr: gur
     en: lion cub
     distinct: the cub still nursing (Radak); a synonym of kfir for a young lion (Abarbanel); allied to ger, the agile cub always on the move (Rabbi Yosef Ibn Kaspi); faster and stronger than a grown lion (Rashbam); an expression of fear (Rabbi Chaim Palagi)
 sources:
   - wiaw:8039 "Crouching Lion, Hidden Blessing" (2018-12-22) https://articles.ohr.edu/articles/crouching-lion-hidden-blessing
-authorities: [Rabbi Yochanan, Rabbi Levi, Tikkunei Zohar, Rabbi Menachem Azariah of Fano, Rabbi Chaim Palagi, Rashi, the Vilna Gaon, Baal HaTurim, Radak, Abarbanel, Rabbi Yosef Ibn Kaspi, Rashbam, Rabbi Yechiel Michel Stern, Rabbi Yishaya of Trani, Rabbi Pinchas Eliyahu Horowitz, Rabbi Shlomo Pappenheim]
+authorities: [Rabbi Yochanan, Rabbi Levi, Tikkunei Zohar, Rabbi Menachem Azariah of Fano, Rabbi Chaim Palagi, Rashi, the Vilna Gaon, Baal HaTurim, Radak, Abarbanel, Rabbi Yosef Ibn Kaspi, Rashbam, Rabbi Yechiel Michel Stern, Rabbi Yeshayah of Trani, Rabbi Pinchas Eliyahu Horowitz, Rabbi Shlomo Pappenheim]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -126,7 +126,7 @@ d'Rabbi Nasan*, version 2, ch. 43.
 - *Zohar* (Terumah 143a): a *kfir* is a small, weak lion.
 
 ### not lions at all
-- The Italian scholar Rabbi Yishaya of Trani (to Hoshea 13:8): *lavi* and
+- The Italian scholar Rabbi Yeshayah of Trani (to Hoshea 13:8): *lavi* and
   *laviyah* are a different species from lions altogether, though he himself
   admits that *shachal* and *shachatz* are words for lion.
 - Rabbi Pinchas Eliyahu Horowitz of Vilna, in his scientific almanac *Sefer

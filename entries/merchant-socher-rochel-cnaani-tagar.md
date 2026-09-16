@@ -24,7 +24,7 @@ words:
     distinct: the standard Aramaic word, used by Targum for both socher and rochel; Rashi (Eruvin 55a) makes him the one who stays in his own town, against the travelling socher
 sources:
   - wiaw:11160 "Vayeshev: Mercantile Man" (2023-12-09) https://articles.ohr.edu/articles/vayeshev-mercantile-man
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rashbam, Ramban, Ibn Ezra, Ralbag, Malbim, Meiri, Metzudas Zion, Rabbi Avraham Bedersi, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Eliyahu Bachur, Rabbi Shlomo Fischer, Alexander Kohut]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rashi, Rashbam, Ramban, Ibn Ezra, Ralbag, Malbim, Meiri, Metzudas Tzion, Rabbi Avraham Bedersi, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shimon Yehuda Leib Goldblit, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Eliyahu HaBachur, Rabbi Shlomo Fischer, Alexander Kohut]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -136,7 +136,7 @@ incidentally lived in the land of Canaan, and see Radak there.
 The reading is less farfetched than it sounds, since *cnaani* means "merchant"
 in a number of pesukim. Yeshayahu 23:8 calls Tyre "the magnificent, whose
 merchants (*socher*) are princes, whose *cnaanim* are the esteemed of the
-earth," which Rashi and Radak read as merchants, *Metzudas Zion* adding that
+earth," which Rashi and Radak read as merchants, *Metzudas Tzion* adding that
 *socher* and *cnaan* are synonyms set side by side for poetic effect. Tyre is associated with the Canaanite sub-group known as
 Phoenician/Punic, a community largely made up of traders who won a reputation
 in the ancient world for their success in overseas commerce. Echoing that,
@@ -190,11 +190,11 @@ pseudo-Yonasan to Bereishis 38:2, *Bereishis Rabbah* 85:4, Pesachim 50a, Rashi
 to Bereishis 38:2, and others; Targum also uses it for *socher* (Melachim I
 10:28; Yeshayahu 23:8) and for *rochel* (Melachim I 10:15).
 
-- Rabbi Eliyahu Bachur (1469-1549), in his lexicon of Rabbinic Hebrew *Sefer
+- Rabbi Eliyahu HaBachur (1469-1549), in his lexicon of Rabbinic Hebrew *Sefer
   HaTishbi*, gives ת-ג-ר two separate entries, *tagar* ("merchant") and *teigar*
   ("dispute," "controversy," "fight"), and the fact that he divided them shows
   he took the two as unrelated.
-- Dr. Alexander Kohut (1842-1894) writes in *Aruch HaShaleim* to the same
+- Dr. Alexander Kohut (1842-1894) writes in *Aruch HaShalem* to the same
   effect: *tagar* derives from the triliteral Aramaic root ת-ג-ר, while *teigar*
   derives from the biblical Hebrew root ג-ר-(ה), to instigate or incite.
 
@@ -237,4 +237,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayeshev: Mercantile Man](https://articles.ohr.edu/articles/vayeshev-mercantile-man)," *What's in a Word?*, Ohr Somayach, 9 December 2023.
 
-Cited in the essay: Bereishis 24:3, 24:37, 27:46, 28:1, 28:6, 37:28, 38:2; Vayikra 19:16 with Rashi; Mishlei 3:14, 11:13, 20:19, 31:24; Yirmiyahu 6:28, 9:3; Yeshayahu 23:8 with Rashi, Radak and *Metzudas Zion*; Yechezkel 17:4 and 27:3 with Malbim, and 22:9; Zechariah 14:21 with Rashi; Tehillim 38:11; Melachim I 10:15, 10:28; Divrei HaYamim I 2:3 with Targum Rav Yosef; Pesachim 50a and 53b; Eruvin 55a and Erchin 23b with Rashi; Shabbos 13a, 56a, 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a; Bava Kamma 82a; Bava Basra 22a; Nazir 21a (pseudo-Rashi); Moed Katan 10b; Sotah 47b; Bava Basra 29b with Rashbam; *Bereishis Rabbah* 85:4; *Tanchuma* Masei 9 with Rabbi Shlomo Fischer; Zohar Lech Lecha 80a with Meiri to Mishlei 31:24; *Chosam Tochnis*; *Sefer HaTishbi*; *Aruch HaShaleim*.
+Cited in the essay: Bereishis 24:3, 24:37, 27:46, 28:1, 28:6, 37:28, 38:2; Vayikra 19:16 with Rashi; Mishlei 3:14, 11:13, 20:19, 31:24; Yirmiyahu 6:28, 9:3; Yeshayahu 23:8 with Rashi, Radak and *Metzudas Tzion*; Yechezkel 17:4 and 27:3 with Malbim, and 22:9; Zechariah 14:21 with Rashi; Tehillim 38:11; Melachim I 10:15, 10:28; Divrei HaYamim I 2:3 with Targum Rav Yosef; Pesachim 50a and 53b; Eruvin 55a and Erchin 23b with Rashi; Shabbos 13a, 56a, 90a, 91b; Yevamos 24b, 63b; Kiddushin 82a; Bava Kamma 82a; Bava Basra 22a; Nazir 21a (pseudo-Rashi); Moed Katan 10b; Sotah 47b; Bava Basra 29b with Rashbam; *Bereishis Rabbah* 85:4; *Tanchuma* Masei 9 with Rabbi Shlomo Fischer; Zohar Lech Lecha 80a with Meiri to Mishlei 31:24; *Chosam Tochnis*; *Sefer HaTishbi*; *Aruch HaShalem*.

@@ -21,7 +21,7 @@ words:
     distinct: the two nostrils as openings, once in Tanach (Iyov 41:12); from נ-ח-ר, which also yields snorting (Menachem Ibn Saruk, Ibn Janach, Radak), or from ח-ר by way of chor, a hole, a nostril being a hole in the face (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
-authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rabbi Aharon Marcus, Rashi, Rabbi Eliyahu Bachur, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yehudah Ibn Balaam, Rabbi Yosef Kara, Ibn Ezra, Zohar, Maharsha, Rabbi Binyamin Mussafia, Rabbi Moshe Yair Weinstock, Rabbi Shlomo Ibn Parchon, Peirush HaRokeach, Rabbi David Conforte, Ben Ish Chai, Rabbi Avraham Nissan Orenstein, Prof. Edward Yechezkel Kutscher]
+authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Radak, Rabbi Aharon Marcus, Rashi, Rabbi Eliyahu HaBachur, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yehudah Ibn Balaam, Rabbi Yosef Kara, Ibn Ezra, Zohar, Maharsha, Rabbi Binyamin Mussafia, Rabbi Moshe Yair Weinstock, Rabbi Shlomo Ibn Parchon, Peirush HaRokeach, Rabbi David Conforte, Ben Ish Chai, Rabbi Avraham Nissan Orenstein, Prof. Edward Yechezkel Kutscher]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -57,7 +57,7 @@ although," and baking. In general, singular *af* is one nose; the dual *apayim*,
 the whole face. Rabbi Aharon Marcus: the face divides on a left-right axis
 matching the two sides of the nose. Rashi glosses *af* now with *nichirayim*
 (to Shemos 15:8, Yirmiyahu 17:4) and now with *chotem* (to Yeshayahu 48:9,
-Yechezkel 8:17, *Berachos* 61b). Rabbi Eliyahu Bachur (*Meturgeman*) records a
+Yechezkel 8:17, *Berachos* 61b). Rabbi Eliyahu HaBachur (*Meturgeman*) records a
 telling pattern in Targum: where *af* means face, Targum typically gives *anaf*;
 where it means nose, Targum gives a form of *nechar*. The Aramaic
 *anaf* is itself likely a cognate of the Hebrew *af*, with a nun inserted in
@@ -70,7 +70,7 @@ is the same nose-anger link again.
   flares.
 - Some have argued that since the nose is a person's most distinguishing and
   outstanding facial feature, the words for face and nose are related to one
-  another (see Rabbi Shlomo Pappenheim, *Cheishek Shlomo* s.v. *af*); and see
+  another (see Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. *af*); and see
   Rashi (to Yechezkel 23:25, *Shabbos* 151b) on the *chotem* as one of the
   centerpieces of a person's appearance.
 - Rabbi Yehudah Aryeh of Carpentras (*Aholei Yehudah*) reverses the priority:
@@ -212,4 +212,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shemini: The Nosey Truth](https://articles.ohr.edu/articles/shemini-the-nosey-truth)," *What's in a Word?*, Ohr Somayach, 6 April 2024.
 
-Cited in the essay: Bereishis 2:7, 50:9; Shemos 15:8; Vayikra 10:1-2, 11:30, 21:18; Devarim 23:4, 29:19; Shmuel II 22:9, 23:37; Yeshayahu 3:21, 48:9; Yirmiyahu 6:29, 8:16, 17:4; Yechezkel 8:17, 23:25; Tehillim 18:9; Iyov 39:20, 41:12; Shir HaShirim 7:5; Daniel 6:23; Ezra 5:10, 6:5; Divrei HaYamim I 11:39; Mishnah *Yevamos* 16:3, *Nega'im* 6:7-8, *Machshirin* 6:5, *Middos* 3:2, *Keilim* 11:8 and 14:8, *Sanhedrin* 10:6, *Sotah* 1:9, *Yadayim* 4:4, *Avos* 4:1 and 5:2; *Tosefta Shabbos* 8:28 and *Zavim* 5:2; *Sanhedrin* 52a, *Niddah* 25a and 47a, *Sukkah* 35b, *Taanis* 29a, *Berachos* 56b and 61b, *Shabbos* 151b; *Bamidbar Rabbah* 5:6; Zohar *Mishpatim* 122b, *Naso* 130b, *Haazinu* 289a and 294a; Rabbi Eliyahu Bachur, *Meturgeman*; *Torah Lishmah* 421; Prof. Edward Yechezkel Kutscher; Even-Shoshan's concordance.
+Cited in the essay: Bereishis 2:7, 50:9; Shemos 15:8; Vayikra 10:1-2, 11:30, 21:18; Devarim 23:4, 29:19; Shmuel II 22:9, 23:37; Yeshayahu 3:21, 48:9; Yirmiyahu 6:29, 8:16, 17:4; Yechezkel 8:17, 23:25; Tehillim 18:9; Iyov 39:20, 41:12; Shir HaShirim 7:5; Daniel 6:23; Ezra 5:10, 6:5; Divrei HaYamim I 11:39; Mishnah *Yevamos* 16:3, *Nega'im* 6:7-8, *Machshirin* 6:5, *Middos* 3:2, *Keilim* 11:8 and 14:8, *Sanhedrin* 10:6, *Sotah* 1:9, *Yadayim* 4:4, *Avos* 4:1 and 5:2; *Tosefta Shabbos* 8:28 and *Zavim* 5:2; *Sanhedrin* 52a, *Niddah* 25a and 47a, *Sukkah* 35b, *Taanis* 29a, *Berachos* 56b and 61b, *Shabbos* 151b; *Bamidbar Rabbah* 5:6; Zohar *Mishpatim* 122b, *Naso* 130b, *Haazinu* 289a and 294a; Rabbi Eliyahu HaBachur, *Meturgeman*; *Torah Lishmah* 421; Prof. Edward Yechezkel Kutscher; Even-Shoshan's concordance.

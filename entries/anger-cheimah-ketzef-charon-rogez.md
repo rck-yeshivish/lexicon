@@ -2,7 +2,7 @@
 cluster: anger
 hebrew: [כעס, חמה, חרון, חרון אף, רוגז, עברה, זעם, זעף, קצף, אף, אנף, עשן, פנים, נאץ, עצבות, רעם, שצף]
 roots: [כ-ע-ס, ח-מ-ה, ח-ר-ה, ר-ג-ז, ע-ב-ר, ז-ע-ם, ז-ע-ף, ק-צ-ף, א-נ-ף, ע-ש-ן, פ-נ-ה, נ-א-ץ, ע-צ-ב, ר-ע-ם, ש-צ-ף]
-translit: [kaas, ka'as, kaas, cheimah, cheima, chemah, chema, charon, charon af, charon-af, rogez, rogeiz, b'rogez, broiges, evrah, evra, ivrah, zaam, za'am, zaaf, za'af, ketzef, ketsef, af, anaf, ashan, panim, naatz, na'atz, atzvus, atzvut, raam, ra'am, shetzef, ritcha]
+translit: [kaas, ka'as, cheimah, cheima, chemah, chema, charon, charon af, charon-af, rogez, rogeiz, b'rogez, broiges, evrah, evra, ivrah, zaam, za'am, zaaf, za'af, ketzef, ketsef, af, anaf, ashan, panim, naatz, na'atz, atzvus, atzvut, raam, ra'am, shetzef, ritcha]
 english: [anger, wrath, burning anger, fierce anger, fury, rage, indignation, agitation, upset]
 domain: emotion
 words:

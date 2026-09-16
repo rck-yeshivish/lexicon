@@ -106,4 +106,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Myself and I](https://articles.ohr.edu/articles/myself-and-i)," *What's in a Word?*, Ohr Somayach, 18 February 2017.
 
-Cited in the essay: Shemos 20:2; Amos 7:7-8; Maharal; Rabbi Shlomo Pappenheim; Malbim; Rav Hirsch; Rabbeinu Bachya; Ibn Ezra; Rabbi Yehuda Leib Edel; Rabbi Yaakov Tzvi Mecklenburg, *HaKtav VeHaKabbalah*; the Midrashic tradition on Egyptian *anoch*.
+Cited in the essay: Shemos 20:2; Amos 7:7-8; Maharal; Rabbi Shlomo Pappenheim; Malbim; Rav Hirsch; Rabbeinu Bachya; Ibn Ezra; Rabbi Yehuda Leib Edel; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; the Midrashic tradition on Egyptian *anoch*.

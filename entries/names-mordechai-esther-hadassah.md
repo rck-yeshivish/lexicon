@@ -30,7 +30,7 @@ sources:
   - wiaw:11285 "Ki Sisa/Purim Katan: Myrrh & Myrtle (Part 1)" (2024-03-02) https://articles.ohr.edu/articles/ki-sisapurim-katan-myrrh-myrtle-part-1
   - wiaw:11286 "Vayakhel: Myrrh & Myrtle (Part 2)" (2024-03-09) https://articles.ohr.edu/articles/vayakhel-myrrh-myrtle-part-2
   - wiaw:11326 "Vayakhel: Myrrh & Myrtle (Part 2)" (2024-03-09) https://articles.ohr.edu/articles/vayakhel-myrrh-myrtle-part-2-2
-authorities: [Rashi, Ibn Ezra, Ralbag, Maharsha, Keren Orah, Vilna Gaon, Sefer HeAruch, Targum Sheini, Chachmei Tzarfas, Peirush HaRokeach, Rabbi Avigdor Katz, Rabbi Tanchum HaYerushalmi, Rabbi Yitzchak Arama, Rabbi Shlomo Alkabetz, Rabbi Eliezer Ashkenazi, Rabbi Yaakov Emden, Rabbi Yosef Nechmias, Rabbi Yehonatan Eybeschutz, Rabbi Chaim Palagi, Torah Temimah, Rabbi Tzadok HaKohen of Lublin, Rabbi Yekusiel Yehuda Halberstam, Rabbi Meir Mazuz, Rabbi Refael Berdugo, Rabbi Dovid Oppenheim, Pri Megadim, Rambam, Melechet Shlomo, Rabbi Yitzchak Epstein, Dr. Alexander Kohut, Yitzchak Ber Levinsohn, Dr. Herbert C. Dobrinsky]
+authorities: [Rashi, Ibn Ezra, Ralbag, Maharsha, Keren Orah, Vilna Gaon, Sefer HeAruch, Targum Sheini, Chachmei Tzarfas, Peirush HaRokeach, Rabbi Avigdor Katz, Rabbi Tanchum HaYerushalmi, Rabbi Yitzchak Arama, Rabbi Shlomo Alkabetz, Rabbi Eliezer Ashkenazi, Rabbi Yaakov Emden, Rabbi Yosef Nechemias, Rabbi Yehonatan Eybeschutz, Rabbi Chaim Palagi, Torah Temimah, Rabbi Tzadok HaKohen of Lublin, Rabbi Yekusiel Yehuda Halberstam, Rabbi Meir Mazuz, Rabbi Refael Berdugo, Rabbi Dovid Oppenheim, Pri Megadim, Rambam, Melechet Shlomo, Rabbi Yitzchak Epstein, Dr. Alexander Kohut, Yitzchak Ber Levinsohn, Dr. Herbert C. Dobrinsky]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -76,7 +76,7 @@ court.
   Rabbi Nechemiah's statement reads explicitly that the idolaters called her
   after Venus, which they called Istahar, and *Targum Sheini*, which explains
   the name by the astrological force of *Nogah*, Venus.
-- Rabbi Yosef Nechmias (to Esther 2:7) has Istahar as the *sun*; Rabbi Klein
+- Rabbi Yosef Nechemias (to Esther 2:7) has Istahar as the *sun*; Rabbi Klein
   says outright that this is incorrect, though in some pagan mythologies the
   counterpart of Istahar may have been the wife or consort of the sun god.
 
@@ -153,7 +153,7 @@ society, were rooted in the god's name, and that once such names became ordinary
 one bears them without being named for an idol, much as people today are called
 Mark or Veronica without a thought for Mars or Nike.
 
-Dr. Alexander Kohut, in *HeAruch HaShaleim*, suggests instead that Mordechai
+Dr. Alexander Kohut, in *Aruch HaShalem*, suggests instead that Mordechai
 means "small person" in Persian, a name given him by others in appreciation of
 his exceptional humility. (Rabbi Klein adds that he had once taken the Irish and
 Scottish name Murdoch for a corruption of Mordechai, but on looking further found
@@ -264,4 +264,4 @@ Rabbi Reuven Chaim Klein, "[Vayakhel: Myrrh & Myrtle (Part 2)](https://articles.
 
 Rabbi Reuven Chaim Klein, "[Vayakhel: Myrrh & Myrtle (Part 2)](https://articles.ohr.edu/articles/vayakhel-myrrh-myrtle-part-2-2)," *What's in a Word?*, Ohr Somayach, 9 March 2024.
 
-Cited in the essay: Shemos 30:23, 32:32; Devarim 31:18; Melachim II 20:12, 25:27; Yeshayahu 39:1, 55:13; Yirmiyahu 50:2; Zechariah 1:8; Iyov 31:26; Esther 2:5, 2:7, 2:20, 2:21, 3:7, 8:1, 9:24; Ezra 2:2, 10:23; Nechemiah 7:7, 9:5, 11:24; Divrei HaYamim I 24:16; Berachos 57a; Megillah 10b, 13a, 13b, 15a, 16b; Menachos 64b-65a; Chullin 139b; Mishnah Shekalim 5:1, Pesachim 2:6; Yerushalmi Shekalim 5:1; *Bereishis Rabbah* 39:13; *Midrash Panim Acheirim* version 2 §2; *Yalkut Shimoni* Esther §1053; *Targum Sheini*, Targum and *Biur HaGra* to Esther 2:7; *Peirush HaRokeach* to Shemos 30:23; Maharsha and *Keren Orah* to Menachos 65a; *Manos HaLevi*; *Yosef Lekach*; *Sansan L'Yair*; *Shorashei Levanon*; *HeAruch HaShaleim*; *Melechet Shlomo*; *Torah Temimah* to Shemos 30:23 §48 and Esther 2:5 §11; *Yaaros Dvash* vol. 2 drush 13; Rambam's introduction to *Yad HaChazakah*.
+Cited in the essay: Shemos 30:23, 32:32; Devarim 31:18; Melachim II 20:12, 25:27; Yeshayahu 39:1, 55:13; Yirmiyahu 50:2; Zechariah 1:8; Iyov 31:26; Esther 2:5, 2:7, 2:20, 2:21, 3:7, 8:1, 9:24; Ezra 2:2, 10:23; Nechemiah 7:7, 9:5, 11:24; Divrei HaYamim I 24:16; Berachos 57a; Megillah 10b, 13a, 13b, 15a, 16b; Menachos 64b-65a; Chullin 139b; Mishnah Shekalim 5:1, Pesachim 2:6; Yerushalmi Shekalim 5:1; *Bereishis Rabbah* 39:13; *Midrash Panim Acheirim* version 2 §2; *Yalkut Shimoni* Esther §1053; *Targum Sheini*, Targum and *Biur HaGra* to Esther 2:7; *Peirush HaRokeach* to Shemos 30:23; Maharsha and *Keren Orah* to Menachos 65a; *Manos HaLevi*; *Yosef Lekach*; *Sansan L'Yair*; *Shorashei Levanon*; *Aruch HaShalem*; *Melechet Shlomo*; *Torah Temimah* to Shemos 30:23 §48 and Esther 2:5 §11; *Yaaros Dvash* vol. 2 drush 13; Rambam's introduction to *Yad HaChazakah*.

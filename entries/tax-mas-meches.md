@@ -45,7 +45,7 @@ words:
     distinct: a property tax (see Rashi to Gittin 58b); elsewhere a sack or a basket, so the tax sense seems borrowed; replaced by arnona in Modern Hebrew
 sources:
   - wiaw:8339 "Heavy Taxes and Empty Pockets" (2019-07-27) https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets
-authorities: [Rabbi Shlomo Pappenheim, Dr. Chaim Tawil, Menachem Ibn Saruk, Rabbi Yehuda ibn Chayyuj, Rabbi Yonah ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri]
+authorities: [Rabbi Shlomo Pappenheim, Dr. Chaim Tawil, Menachem Ibn Saruk, Rabbi Yehuda Ibn Chayyuj, Rabbi Yonah Ibn Janach, Radak, Rabbi Baruch Avraham Toledano, Rashi, Rabbi Nosson of Rome, Rabbeinu Nissim, Maharam Chalavah, Meiri]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -61,7 +61,7 @@ Mitzrayim, Shlomo HaMelech's conscription). *Meches* is the other Biblical
 Hebrew word that sometimes means tax: six times, all in Bamidbar 31, of the
 consecrated share of the Midianite booty given to Hashem. Its origin is
 disputed three ways: an Akkadian loanword for dues or tributes (Dr. Chaim
-Tawil); a Hebrew root meaning number (Menachem ibn Saruk, Chayyuj, Ibn Janach,
+Tawil); a Hebrew root meaning number (Menachem Ibn Saruk, Chayyuj, Ibn Janach,
 Radak); a Hebrew root meaning covering, whence the pocket, so the tax that goes
 into the king's own purse (Rabbi Pappenheim). The Aramaic terms are technical,
 and the Gemara equates several of them (*belo* is *gulgalta*, which is *karga*;
@@ -118,8 +118,8 @@ loanword from the Akkadian *miksu* ("dues" or "tributes"), from the Akkadian
 verb *makasu* ("to collect a share from a rented field, to collect taxes,
 duty"). Others, however, have found a Hebrew basis for the word.
 
-- Menachem ibn Saruk (920 to 970) gives the root as כ-ס.
-- Rabbi Yehuda ibn Chayyuj, Rabbi Yonah ibn Janach (990 to 1050) and Radak (1160
+- Menachem Ibn Saruk (920 to 970) gives the root as כ-ס.
+- Rabbi Yehuda Ibn Chayyuj, Rabbi Yonah Ibn Janach (990 to 1050) and Radak (1160
   to 1235) give כ-ס-ס.
 
 Either way these roots mean number. This explains how *meches* was borrowed to
@@ -166,7 +166,7 @@ since the tax fell on each head.
   *annona*, used to supply grain and other foodstuffs to the city of Rome, and
   named from the Latin *annus*, year (whence English *annual*), because it was
   calculated from the sum total of the year's harvests.
-- Alternatively, Rabbi Nosson of Rome (*Sefer HaAruch*) explains *arnona* as the
+- Alternatively, Rabbi Nosson of Rome (*Sefer HeAruch*) explains *arnona* as the
   meal each city had to supply to the king or army travelling through it (Rabbi
   Klein glosses the travelling as *halach*, going). Rabbeinu Nissim (Nedarim
   62b) offers two ways of fitting that explanation to the word: *arnona* is
@@ -209,4 +209,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Heavy Taxes and Empty Pockets](https://articles.ohr.edu/articles/heavy-taxes-and-empty-pockets)," *What's in a Word?*, Ohr Somayach, 27 July 2019.
 
-Cited in the essay: Shemos 1:11, 12:4; Bamidbar 21:13, 31:28-41; Melachim I 5:27; Ezra 7:24; Pesachim 6a; Megillah 7b; Nedarim 62b; Gittin 58b; Bava Metzia 73b, 108a; Bava Basra 8a; Rashi to Pesachim 6a, Megillah 7b, Gittin 58b, Bava Metzia 73b and 108a, and Bava Basra 8a; Tosafos to Avodah Zarah 14b; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Dr. Chaim Tawil; Menachem ibn Saruk; Rabbi Yehuda ibn Chayyuj; Rabbi Yonah ibn Janach; Radak; Rabbi Baruch Avraham Toledano; Rabbi Nosson of Rome, *Sefer HaAruch*; Rabbeinu Nissim to Nedarim 62b; Maharam Chalavah and Meiri to Pesachim 6a; the *Oxford English Dictionary*.
+Cited in the essay: Shemos 1:11, 12:4; Bamidbar 21:13, 31:28-41; Melachim I 5:27; Ezra 7:24; Pesachim 6a; Megillah 7b; Nedarim 62b; Gittin 58b; Bava Metzia 73b, 108a; Bava Basra 8a; Rashi to Pesachim 6a, Megillah 7b, Gittin 58b, Bava Metzia 73b and 108a, and Bava Basra 8a; Tosafos to Avodah Zarah 14b; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Dr. Chaim Tawil; Menachem Ibn Saruk; Rabbi Yehuda Ibn Chayyuj; Rabbi Yonah Ibn Janach; Radak; Rabbi Baruch Avraham Toledano; Rabbi Nosson of Rome, *Sefer HeAruch*; Rabbeinu Nissim to Nedarim 62b; Maharam Chalavah and Meiri to Pesachim 6a; the *Oxford English Dictionary*.

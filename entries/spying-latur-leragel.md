@@ -31,7 +31,7 @@ words:
 sources:
   - wiaw:7302 "Spy versus Spy" (2017-06-17) https://articles.ohr.edu/articles/spy-versus-spy
   - wiaw:9554 "Digging Deeper" (2022-01-29) https://articles.ohr.edu/articles/digging-deeper
-authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKtav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson, Rav Hirsch]
+authorities: [Rabbi Yaakov Tzvi Mecklenburg (HaKsav VeHaKabbalah), Midrash, Pseudo-Philo, David Curwin, Dr. Isaac Elchanan Mozeson, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -132,4 +132,4 @@ Rabbi Reuven Chaim Klein, "[Spy versus Spy](https://articles.ohr.edu/articles/sp
 
 Rabbi Reuven Chaim Klein, "[Digging Deeper](https://articles.ohr.edu/articles/digging-deeper)," *What's in a Word?*, Ohr Somayach, 29 January 2022.
 
-Cited in the essay: Bereishis 42; Bamidbar 13-14; Devarim 1:22, 1:24; Yehoshua 2:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKtav VeHaKabbalah*; the Midrash; Pseudo-Philo; Dr. Isaac Elchanan Mozeson; David Curwin; Rav Hirsch.
+Cited in the essay: Bereishis 42; Bamidbar 13-14; Devarim 1:22, 1:24; Yehoshua 2:1; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; the Midrash; Pseudo-Philo; Dr. Isaac Elchanan Mozeson; David Curwin; Rav Hirsch.

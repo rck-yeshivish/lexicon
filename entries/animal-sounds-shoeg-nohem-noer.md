@@ -21,7 +21,7 @@ words:
   - he: נוער
     tr: noer
     en: lets out a roar
-    distinct: said of a lion cub in Tanach and borrowed for a donkey in the Gemara (Sefer HaAruch); from ע-ר, revealing, a sound suddenly disclosed (Rabbi Shlomo Pappenheim)
+    distinct: said of a lion cub in Tanach and borrowed for a donkey in the Gemara (Sefer HeAruch); from ע-ר, revealing, a sound suddenly disclosed (Rabbi Shlomo Pappenheim)
   - he: שוקק
     tr: shokek
     en: roars (of a bear)
@@ -33,7 +33,7 @@ words:
     distinct: the wild donkey's cry; from ק, expulsion, moaning that clears the heart of its suffering (Rabbi Shlomo Pappenheim)
 sources:
   - wiaw:9126 "Vayakhel/Pekudei: Animal Sounds" (2021-03-13) https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds
-authorities: [Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, Rabbi Nosson of Rome (Sefer HaAruch), Vilna Gaon, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yechiel Michel Stern, Rabbi David Chaim Chelouche, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Aharon Marcus]
+authorities: [Donash Ibn Labrat, Menachem Ibn Saruk, Rashi, Rabbi Nosson of Rome (Sefer HeAruch), Vilna Gaon, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Yechiel Michel Stern, Rabbi David Chaim Chelouche, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Aharon Marcus]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -62,7 +62,7 @@ they differ.
 | שואג | shoeg | roars | the hungry lion frightening its prey (Vilna Gaon); an almost involuntary outburst, from ש-ג "inadvertent" (Pappenheim) |
 | נוהם | nohem | growls | the sated lion gone berserk with plenty (Rashi); storminess vented deliberately (Pappenheim) |
 | יהגה | yehegeh | moans | shared by lion and dove (Donash); consistent, sustained sound (Pappenheim) |
-| נוער | noer | roars (suddenly) | a lion cub in Tanach, borrowed for a donkey in the Gemara (Sefer HaAruch); "revealing" (Pappenheim) |
+| נוער | noer | roars (suddenly) | a lion cub in Tanach, borrowed for a donkey in the Gemara (Sefer HeAruch); "revealing" (Pappenheim) |
 | שוקק | shokek | roars / saunters | disputed: bear's roar (Vilna Gaon) against bear's gait (Ibn Janach, Radak), from *shok* (Radak) |
 | נוהק | nohek | brays | the wild donkey clearing its heart of suffering (Pappenheim) |
 
@@ -140,7 +140,7 @@ turmoil, though done more deliberately than *shoeg*.
 
 ### noer (נוער)
 Root נ-ע-ר. In Tanach it appears once, of a lion cub (Yirmiyahu 51:38); in
-Berachos 3a it is the donkey's bray. Rabbi Nosson of Rome (*Sefer HaAruch*)
+Berachos 3a it is the donkey's bray. Rabbi Nosson of Rome (*Sefer HeAruch*)
 resolves this: the verb properly belongs to the cub, and Chazal used it of a
 donkey in a borrowed sense. Rabbi Pappenheim's ע-ר, "revealing," is the root
 behind *ohr* (skin, the visible part of the body), *ervah* (nakedness), *taar*
@@ -186,7 +186,7 @@ dove.
   "Moans" carries both; "murmurs" fits the dove alone and loses the lion.
 - Never translate an animal verb by the animal's English convention when the
   Hebrew has deliberately borrowed a different animal's verb. Berachos 3a's
-  *noer* of a donkey is a borrowing (*Sefer HaAruch*), and flattening it to
+  *noer* of a donkey is a borrowing (*Sefer HeAruch*), and flattening it to
   "brays" erases the point.
 - An apocryphal Midrash on the enchanted animals etched into Shlomo HaMelech's
   throne (cited by the kabbalistic *Sodi Razi*, *Hilchos Kisei*, ascribed to
@@ -205,4 +205,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Vayakhel/Pekudei: Animal Sounds](https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds)," *What's in a Word?*, Ohr Somayach, 13 March 2021.
 
-Cited in the essay: Donash Ibn Labrat's response to Menachem Ibn Saruk, lines 82 to 83; *Machberes Menachem* s.v. ג-ע; Rashi to Yeshayahu 8:19 and 29:4, Yoel 1:20, Tehillim 42:2, Mishlei 28:15, Iyov 6:5, Chullin 53a and 79a, Sotah 42a, Sanhedrin 102a, Berachos 32a; *Sefer HaAruch* s.v. נער; Vilna Gaon to Mishlei 28:15; Rav Hirsch to Devarim 25:18; Berachos 3a; *Targum Sheini* to Esther 1:2; Yechezkel 21:20; Rabbi Aharon Marcus.
+Cited in the essay: Donash Ibn Labrat's response to Menachem Ibn Saruk, lines 82 to 83; *Machberes Menachem* s.v. ג-ע; Rashi to Yeshayahu 8:19 and 29:4, Yoel 1:20, Tehillim 42:2, Mishlei 28:15, Iyov 6:5, Chullin 53a and 79a, Sotah 42a, Sanhedrin 102a, Berachos 32a; *Sefer HeAruch* s.v. נער; Vilna Gaon to Mishlei 28:15; Rav Hirsch to Devarim 25:18; Berachos 3a; *Targum Sheini* to Esther 1:2; Yechezkel 21:20; Rabbi Aharon Marcus.

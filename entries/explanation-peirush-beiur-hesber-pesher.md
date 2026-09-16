@@ -21,7 +21,7 @@ words:
   - he: פשר
     tr: pesher
     en: interpretation
-    distinct: the solving of an enigma, once in the Hebrew of Tanach and often in Daniel's Aramaic for dreams; defined as pitaron (Ibn Saruk, Ibn Janach, Radak); untying a knot (Rabbi Moshe Tedeschi-Ashkenazi); peirush metathesized (Rabbi Eliyahu Bachur)
+    distinct: the solving of an enigma, once in the Hebrew of Tanach and often in Daniel's Aramaic for dreams; defined as pitaron (Ibn Saruk, Ibn Janach, Radak); untying a knot (Rabbi Moshe Tedeschi-Ashkenazi); peirush metathesized (Rabbi Eliyahu HaBachur)
   - he: פתרון
     tr: pitaron
     en: interpretation
@@ -30,7 +30,7 @@ sources:
   - wiaw:11170 "Miketz: Say it Clear (Part 1/2)" (2023-12-16) https://articles.ohr.edu/articles/miketz-say-it-clear-part-12
   - wiaw:11178 "Vayigash: Say it Clear (Part 2/2)" (2023-12-23) https://articles.ohr.edu/articles/vayigash-say-it-clear-part-22
   - wiaw:10832 "Mishpatim: Boorish Animals" (2023-02-18) https://articles.ohr.edu/articles/mishpatim-boorish-animals
-authorities: [Radak, Malbim, Ibn Janach, Menachem ibn Saruk, Donash Ibn Labrat, Shadal, Rav Hirsch, Rabbi Avraham Bedersi, Rabbi Yehudah Aryeh of Carpentras, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Eliyahu Bachur, Rabbi Shlomo Ibn Melech, Rabbi Avraham Vilner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Reuven Subar, Rashi, Rashbam, Rabbeinu Tam, Rambam, Maharal, Meiri, Rabbi Tzvi Hirsch Ferber, Alexander Kohut, Rabbi Chaim Gelernter, Rabbi Ernest Klein, Rabbi Dr. Asher Weiser]
+authorities: [Radak, Malbim, Ibn Janach, Menachem Ibn Saruk, Donash Ibn Labrat, Shadal, Rav Hirsch, Rabbi Avraham Bedersi, Rabbi Yehudah Aryeh of Carpentras, Rabbi Moshe Tedeschi-Ashkenazi, Rabbi Eliyahu HaBachur, Rabbi Shlomo Ibn Melech, Rabbi Avraham Vilner, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Reuven Subar, Rashi, Rashbam, Rabbeinu Tam, Rambam, Maharal, Meiri, Rabbi Tzvi Hirsch Ferber, Alexander Kohut, Rabbi Chaim Gelernter, Rabbi Ernest Klein, Rabbi Dr. Asher Weiser]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -225,7 +225,7 @@ otherwise.
   or any enigma, is untying a knot. On his account *pesher* and *pitaron* are
   cognates, with *pesher*, which he holds to be the Aramaic word, the etymon of
   the later Hebrew *pitaron*.
-- Rabbi Eliyahu Bachur (*Sefer HaTishbi*, and in his glosses to Radak's *Sefer
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*, and in his glosses to Radak's *Sefer
   HaShorashim*) relates *pesher* to *poser* by the interchange of shin and tav,
   a Hebrew shin often becoming an Aramaic tav (*shemonah*/*tamnei*,
   *shor*/*tor*, *yeshivah*/*metivta*), which seems to point the opposite way,
@@ -246,7 +246,7 @@ possible, on the assumption that its opening aleph is extraneous to the root.
   *pesher*, since a *pesher* solves a conundrum and what is merely "possible" is
   itself something of a conundrum, lying between the necessary and the
   impossible.
-- Dr. Alexander Kohut (*Aruch HaShaleim*) likewise derives *efshar* from
+- Dr. Alexander Kohut (*Aruch HaShalem*) likewise derives *efshar* from
   *pitaron* or *pesher*, as does Rabbi Chaim Gelernter of Kitov in his glosses
   to *Raglei Mivaser* on *Sefer HaTishbi*.
 - Rabbi Dr. Ernest Klein rejects the etymology.
@@ -288,4 +288,4 @@ Rabbi Reuven Chaim Klein, "[Vayigash: Say it Clear (Part 2/2)](https://articles.
 
 Rabbi Reuven Chaim Klein, "[Mishpatim: Boorish Animals](https://articles.ohr.edu/articles/mishpatim-boorish-animals)," *What's in a Word?*, Ohr Somayach, 18 February 2023.
 
-Cited in the essay: Radak, *Sefer HaShorashim* s.v. פתר, פשר, באר, שבר; Malbim, *Yair Ohr*; Bereishis 4:14, 13:6, 40-41; Berachos 55b; Eruvin 32b; Kesubos 107b; Chullin 54b; Bamidbar 22:5 with *Bamidbar Rabbah* 20:7, *Tanchuma Balak* 4, Rashi, and *Gur Aryeh*; Koheles 8:1 with Rashi and *Michlal Yofi*; Daniel 3:25, 5:6, 5:12, 7:25; Esther 3:14, 4:8, 8:13, 9:1; Devarim 1:5, 22:17, 27:8 with Rashi; Vayikra 11:3 and 24:12 with Targum Onkelos; Bamidbar 11:12, 15:34; Shemos 13:2, 16:21, 25:39; Yeshayahu 40:11, 63:9; Chavakuk 2:2; Tehillim 104:27, 119:166, 145:15, 146:5; Mishnah Yadayim 4:6 to 8, Shabbos 20:3, Menachos 5:2, Parah 8:9, Niddah 7:1, Kesubos 10:6 with Rambam's commentary; Rav Hirsch to Shemos 13:2, 25:39 and Tehillim 145:15; Avos 1:15 with Meiri; *Otzar Nirdafim*; *Sefer HaTishbi* with *Raglei Mivaser*; *Chosam Tochnis*; *Ohalei Yehuda*; *Tirgem Avraham*; *Aruch HaShaleim*; Rabbi Dr. Ernest Klein; Rabbi Tzvi Hirsch Ferber; Rabbi Dr. Asher Weiser.
+Cited in the essay: Radak, *Sefer HaShorashim* s.v. פתר, פשר, באר, שבר; Malbim, *Yair Ohr*; Bereishis 4:14, 13:6, 40-41; Berachos 55b; Eruvin 32b; Kesubos 107b; Chullin 54b; Bamidbar 22:5 with *Bamidbar Rabbah* 20:7, *Tanchuma Balak* 4, Rashi, and *Gur Aryeh*; Koheles 8:1 with Rashi and *Michlal Yofi*; Daniel 3:25, 5:6, 5:12, 7:25; Esther 3:14, 4:8, 8:13, 9:1; Devarim 1:5, 22:17, 27:8 with Rashi; Vayikra 11:3 and 24:12 with Targum Onkelos; Bamidbar 11:12, 15:34; Shemos 13:2, 16:21, 25:39; Yeshayahu 40:11, 63:9; Chavakuk 2:2; Tehillim 104:27, 119:166, 145:15, 146:5; Mishnah Yadayim 4:6 to 8, Shabbos 20:3, Menachos 5:2, Parah 8:9, Niddah 7:1, Kesubos 10:6 with Rambam's commentary; Rav Hirsch to Shemos 13:2, 25:39 and Tehillim 145:15; Avos 1:15 with Meiri; *Otzar Nirdafim*; *Sefer HaTishbi* with *Raglei Mivaser*; *Chosam Tochnis*; *Ohalei Yehuda*; *Tirgem Avraham*; *Aruch HaShalem*; Rabbi Dr. Ernest Klein; Rabbi Tzvi Hirsch Ferber; Rabbi Dr. Asher Weiser.

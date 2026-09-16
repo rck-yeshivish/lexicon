@@ -18,7 +18,7 @@ words:
     tr: chemer
     en: wine (red wine)
     nk: חֶמֶר
-    distinct: three times in Tanach and the standard Aramaic word; Rabbi Moshe Ibn Ezra and Rabbi Yehuda Ibn Balaam read it as "red," an adjective hardened into a noun, and Radak ties it to the redness of wine
+    distinct: three times in Tanach and the standard Aramaic word; Rabbi Moshe Ibn Ezra and Rabbi Yehudah Ibn Balaam read it as "red," an adjective hardened into a noun, and Radak ties it to the redness of wine
   - he: שכר
     tr: shechar
     en: strong drink
@@ -31,7 +31,7 @@ words:
 sources:
   - wiaw:9616 "Words for Wine (Part 1)" (2022-03-12) https://articles.ohr.edu/articles/words-for-wine-part-1
   - wiaw:9632 "Words for Wine (Part 2)" (2022-03-26) https://articles.ohr.edu/articles/words-for-wine-part-2
-authorities: [Rashi, Radak, Ramban, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rabbi Moshe Ibn Ezra, Ibn Ezra, Rabbi Yehuda Ibn Balaam, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Yaakov Emden, Rabbeinu Elyakim, Rabbeinu Bachaya, Rabbi Avraham Bedersi, Rabbi Yosef Kara, the Vilna Gaon, Maharal, Maharil, Rabbi Shlomo of Urbino, Rabbi Dr. Yehuda Felix, Rambam, Rashbam, Rabbi Yosef Bechor Shor, Ritva, Rabbi Yehuda Aryeh of Carpentras, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Yaakov Yosef Katz of Polonne, Rabbi Yitzchak of Zeldin, Rabbi Yitzchak Sarim, Edward Yechezkel Kutscher]
+authorities: [Rashi, Radak, Ramban, Rabbi Yosef Kimchi, Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rabbi Moshe Ibn Ezra, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Aharon Marcus, Rabbi Yaakov Emden, Rabbeinu Elyakim, Rabbeinu Bachaya, Rabbi Avraham Bedersi, Rabbi Yosef Kara, the Vilna Gaon, Maharal, Maharil, Rabbi Shlomo of Urbino, Rabbi Dr. Yehuda Felix, Rambam, Rashbam, Rabbi Yosef Bechor Shor, Ritva, Rabbi Yehudah Aryeh of Carpentras, Rabbi Yosef Nechemias, Rabbi David Chaim Chelouche, Rabbi Yaakov Yosef Katz of Polonne, Rabbi Yitzchak of Zeldin, Rabbi Yitzchak Sarim, Edward Yechezkel Kutscher]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -141,7 +141,7 @@ is no longer current (responsa *Divrei Malkiel* 6:18).
   Tehillim 75:9, where it qualifies *yayin*), and since most wines are reddish
   it became a noun for wine itself; he also claims Arabic has over a hundred
   words for wine, most named for a feature such as quality, quantity or hue.
-  Rabbi Yehuda Ibn Balaam (1000 to 1070) says similarly.
+  Rabbi Yehudah Ibn Balaam (1000 to 1070) says similarly.
 - Radak (to Yeshayahu 27:2, Tehillim 75:9, and *Sefer HaShorashim*) writes that
   redness is a special feature of wine, which he says is why Arabic *achmar*,
   "red," derives from Arabic *khamr*, "wine," itself clearly related to
@@ -223,7 +223,7 @@ and Demons in the Bible* has an entry on him.
   conceding it is unrelated to that root's core meaning; Menachem gives no root
   for it at all; Rabbi Pappenheim traces י-ר-ש itself to ר-ש, since an heir
   becomes an estate's head.
-- Rabbi Yehuda Aryeh of Carpentras, in *Ohalei Yehuda*, offers two original
+- Rabbi Yehudah Aryeh of Carpentras, in *Ohalei Yehuda*, offers two original
   etymologies: י-ו-ר, "shoot," with א-ש, "fire," as though wine kindles a fire
   within; or, by metathesis, ש-י-ר, "song," since wine rouses people to sing.
 
@@ -330,4 +330,4 @@ Rabbi Reuven Chaim Klein, "[Words for Wine (Part 1)](https://articles.ohr.edu/ar
 
 Rabbi Reuven Chaim Klein, "[Words for Wine (Part 2)](https://articles.ohr.edu/articles/words-for-wine-part-2)," *What's in a Word?*, Ohr Somayach, 26 March 2022.
 
-Cited in the essay: Bereishis 1:22-23, 9:20, 11:3 and 21:10 with Rav Hirsch; Bereishis 27:28 with Midrash Sechel Tov; Bereishis 43:30; Shemos 15:9 with Rav Hirsch; Shemos 22:28 with Targum Yonasan, Rashbam, Bechor Shor and *Midrash Chefetz*; Vayikra 10:9 with the Targumim; Bamidbar 6:3 with the Targumim, Rabbeinu Bachaya and Ibn Ezra; Bamidbar 6:4, 18:27; Devarim 14:5; Devarim 14:22 with Ramban; Devarim 21:20 with Onkelos; Devarim 22:9; Devarim 32:14 with Rashi and Rav Hirsch; Shoftim 13:14; Melachim I 5:3; Yeshayahu 1:22 with the Targum and Rabbi Yosef Kara; Yeshayahu 27:2 and Tehillim 75:9 with Radak; Yeshayahu 29:2; Yirmiyahu 46:16 with Rashi and Rabbi Yosef Kara; Hoshea 4:11 with Rabbi Yosef Kara, Radak and the Vilna Gaon; Mishlei 23:20 with Rabbi Yosef Nechemias; Shir HaShirim 2:13, 2:15, 7:13; Eichah 2:5; Daniel 5:1-2, 5:4, 5:23; Ezra 6:9, 7:22; Mishnah Sanhedrin 8:2, Orlah 1:7, Gittin 3:8; Yoma 76b with Rashi and *Tosafos Rid*; Menachos 86b with Rashi; Eruvin 53b; Pesachim 42b; Bava Basra 15b with Rashi, 58b; Avodah Zarah 71a with Rashi; Sanhedrin 38a; Kesubos 65a; Bava Metzia 77b with Ritva; Yerushalmi Nedarim 7:1; *Sifrei* Naso §23; Midrash Tanchuma, Shemini 5; *Pittum HaKetores*; Rambam, *Hilchos Nezirus* 5:1; *Aruch HaShulchan HeAsid*, *Hilchos Nezirus* 13:1-6; *Beis Yosef*, *Choshen Mishpat* 190; *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Moshe Ibn Ezra, *Shiras Yisrael*; Rabbi Yehuda Ibn Balaam; Rabbeinu Elyakim; Rabbi Yaakov Emden; Rabbi Shlomo Pappenheim; Rabbi Yehuda Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Aharon Marcus; Rabbi Dr. Yehuda Felix; Rabbi David Chaim Chelouche; Maharil; Maharal, *Gur Aryeh* to Shemos 4:20, *Netzach Yisrael* ch. 31, *Gevuros Hashem* ch. 29; Rabbi Yaakov Yosef Katz of Polonne, *Toldos Yaakov Yosef*; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Yitzchak Sarim; Rabbi Avraham Bedersi, *Chotam Tochnit*; Rabbi Shlomo of Urbino, *Ohel Moed*; Menachem Ibn Saruk; *Torah Shleimah* to Shemos 22:28 §478; responsa *Divrei Malkiel* 6:18; Edward Yechezkel Kutscher; Symmachus; the Samaria Ostracon; *Dictionary of Deities and Demons in the Bible*; *Oxford English Dictionary*, s.v. *wine*.
+Cited in the essay: Bereishis 1:22-23, 9:20, 11:3 and 21:10 with Rav Hirsch; Bereishis 27:28 with Midrash Sechel Tov; Bereishis 43:30; Shemos 15:9 with Rav Hirsch; Shemos 22:28 with Targum Yonasan, Rashbam, Bechor Shor and *Midrash Chefetz*; Vayikra 10:9 with the Targumim; Bamidbar 6:3 with the Targumim, Rabbeinu Bachaya and Ibn Ezra; Bamidbar 6:4, 18:27; Devarim 14:5; Devarim 14:22 with Ramban; Devarim 21:20 with Onkelos; Devarim 22:9; Devarim 32:14 with Rashi and Rav Hirsch; Shoftim 13:14; Melachim I 5:3; Yeshayahu 1:22 with the Targum and Rabbi Yosef Kara; Yeshayahu 27:2 and Tehillim 75:9 with Radak; Yeshayahu 29:2; Yirmiyahu 46:16 with Rashi and Rabbi Yosef Kara; Hoshea 4:11 with Rabbi Yosef Kara, Radak and the Vilna Gaon; Mishlei 23:20 with Rabbi Yosef Nechemias; Shir HaShirim 2:13, 2:15, 7:13; Eichah 2:5; Daniel 5:1-2, 5:4, 5:23; Ezra 6:9, 7:22; Mishnah Sanhedrin 8:2, Orlah 1:7, Gittin 3:8; Yoma 76b with Rashi and *Tosafos Rid*; Menachos 86b with Rashi; Eruvin 53b; Pesachim 42b; Bava Basra 15b with Rashi, 58b; Avodah Zarah 71a with Rashi; Sanhedrin 38a; Kesubos 65a; Bava Metzia 77b with Ritva; Yerushalmi Nedarim 7:1; *Sifrei* Naso §23; Midrash Tanchuma, Shemini 5; *Pittum HaKetores*; Rambam, *Hilchos Nezirus* 5:1; *Aruch HaShulchan HeAsid*, *Hilchos Nezirus* 13:1-6; *Beis Yosef*, *Choshen Mishpat* 190; *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Moshe Ibn Ezra, *Shiras Yisrael*; Rabbi Yehudah Ibn Balaam; Rabbeinu Elyakim; Rabbi Yaakov Emden; Rabbi Shlomo Pappenheim; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Aharon Marcus; Rabbi Dr. Yehuda Felix; Rabbi David Chaim Chelouche; Maharil; Maharal, *Gur Aryeh* to Shemos 4:20, *Netzach Yisrael* ch. 31, *Gevuros Hashem* ch. 29; Rabbi Yaakov Yosef Katz of Polonne, *Toldos Yaakov Yosef*; Rabbi Yitzchak of Zeldin, *Shoresh Yesha*; Rabbi Yitzchak Sarim; Rabbi Avraham Bedersi, *Chotam Tochnit*; Rabbi Shlomo of Urbino, *Ohel Moed*; Menachem Ibn Saruk; *Torah Shleimah* to Shemos 22:28 §478; responsa *Divrei Malkiel* 6:18; Edward Yechezkel Kutscher; Symmachus; the Samaria Ostracon; *Dictionary of Deities and Demons in the Bible*; *Oxford English Dictionary*, s.v. *wine*.

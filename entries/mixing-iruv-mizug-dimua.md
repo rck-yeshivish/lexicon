@@ -20,7 +20,7 @@ words:
     distinct: the Mishnaic term for mixing, above all terumah fallen into chullin; Shemos 22:28's dimah read as terumah, for its one-in-a-hundred rule (Rashi) or as something wet (Tosafos); one root with dimah, tear, connected by most but not Ibn Janach
 sources:
   - wiaw:11480 "Devarim: All Mixed Up" (2024-08-10) https://articles.ohr.edu/articles/devarim-all-mixed-up
-authorities: [Menachem Ibn Saruk, Rabbeinu Yonah ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Epstein, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro, Ritva, Rashba, Maharsha, Yaavetz]
+authorities: [Menachem Ibn Saruk, Rabbeinu Yonah Ibn Janach, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, Maharal, Rabbi Shlomo Pappenheim, Rabbi Yehudah Aryeh of Carpentras, Rabbi Shimon Dov Ber Analak of Shidlitz, Rabbi Meir Posner, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Vilna Gaon, Rabbi Dovid Tzvi Hoffmann, Rabbi Kalonymos Kalman Epstein, Rabbi Yisroel Yaakov Algazi, Rabbi Eliyahu Menachem Margulies, Rabbi Moshe Shapiro, Ritva, Rashba, Maharsha, Yaavetz]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -101,7 +101,7 @@ one-in-a-hundred rule as Biblical anyway.
 Root ד-מ-ע again, eleven times in Tanach as the noun and twice as a verb
 (Yirmiyahu 13:17), and in Mishnaic Hebrew too (Sotah 7:8, of Agrippa weeping at
 the pasuk barring a foreign king, Devarim 17:15).
-- Rabbeinu Yonah ibn Janach (*Sefer HaShorashim*): the two senses are unrelated
+- Rabbeinu Yonah Ibn Janach (*Sefer HaShorashim*): the two senses are unrelated
   meanings of one root.
 - Menachem Ibn Saruk (*Machberes Menachem*): as tears are pristine liquid from
   the eye, so *dimah* is pristine liquid produce, wine or oil without sediment.
@@ -112,7 +112,7 @@ the pasuk barring a foreign king, Devarim 17:15).
   kind.
 - Maharal (*Gur Aryeh*): terumah is *dimah* because it applies once the wine or
   oil has separated from the fruit, as a tear separates from the eye.
-- Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah*) bridges the two
+- Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah*) bridges the two
   meanings: mixture is the core sense, as it more commonly is in Mishnaic
   Hebrew, and tears show outwardly how mixed up a man's feelings are.
 
@@ -150,7 +150,7 @@ hem ba'aretz* (Shemos 14:3).
 - Rabbi Shlomo Pappenheim of Breslau (*Cheshek Shlomo*) likewise traces both
   *bocheh* and *navoch* to the biliteral ב-כ, whose core sense he sees as
   confusion and perplexity, weeping being the involuntary outward reflex of
-  confused feelings (cited too in *HaKesav VeHaKabbalah* to Bereishis 50:3).
+  confused feelings (cited too in *HaKsav VeHaKabbalah* to Bereishis 50:3).
 - Rabbi Eliyahu Menachem Margulies (*Emunas Eliezer*) develops the point that
   crying comes of a man's being unclear about what the future holds: as tears
   blur a man's sight, so he cries precisely because his view of the future is
@@ -187,7 +187,7 @@ hem ba'aretz* (Shemos 14:3).
   vol. 1 §13; in tears instead of ink, so Rashba and Maharsha,
   and Rabbi Dovid Tzvi Hoffmann prefers this since the Gemara said *b'dema* and
   not *b'dima'os*; or letters written mixed up and unreadable until after his
-  death, so the Vilna Gaon (*HaKesav VeHaKabbalah* to Devarim 34:5; *Kol
+  death, so the Vilna Gaon (*HaKsav VeHaKabbalah* to Devarim 34:5; *Kol
   Eliyahu*), with Rabbi Kalonymos Kalman Epstein reading *dema* as Moshe's own
   mind clouded as at no other prophecy.
 
@@ -199,4 +199,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Devarim: All Mixed Up](https://articles.ohr.edu/articles/devarim-all-mixed-up)," *What's in a Word?*, Ohr Somayach, 10 August 2024.
 
-Cited in the essay: Mishlei 14:10, 20:19, 24:21; Tehillim 106:35, 126:5; Ezra 9:2; Daniel 2:41, 2:43; Shir HaShirim 7:3; Pesachim 10:2, 10:4, 10:7, 44a; Nazir 2:3, 6:2; Demai 7:2; Shemos 22:28 with Temurah 4a, the Mechilta, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, *Gur Aryeh*, *HaKesav VeHaKabbalah* and Rav Hirsch; Yirmiyahu 13:17; Sotah 7:8 on Devarim 17:15; Kesubos 10b; Bava Basra 15a with Ritva, Rashba and Maharsha, and *Sheilas Yaavetz* vol. 1 §13; Bereishis 49:11 and Devarim 32:14; Shemos 14:3 with the Mechilta; Bamidbar 14:1; Esther 3:15; Bereishis 50:3; Bereishis 5:29, 6:6, 27:42; Shemos 32:12; Yeshayahu 40:1; Rav Hirsch to Vayikra 7:19, 11:43 and Bamidbar 18:29.
+Cited in the essay: Mishlei 14:10, 20:19, 24:21; Tehillim 106:35, 126:5; Ezra 9:2; Daniel 2:41, 2:43; Shir HaShirim 7:3; Pesachim 10:2, 10:4, 10:7, 44a; Nazir 2:3, 6:2; Demai 7:2; Shemos 22:28 with Temurah 4a, the Mechilta, Rashi, Tosafos, Ibn Ezra, Radak, Ramban, *Gur Aryeh*, *HaKsav VeHaKabbalah* and Rav Hirsch; Yirmiyahu 13:17; Sotah 7:8 on Devarim 17:15; Kesubos 10b; Bava Basra 15a with Ritva, Rashba and Maharsha, and *Sheilas Yaavetz* vol. 1 §13; Bereishis 49:11 and Devarim 32:14; Shemos 14:3 with the Mechilta; Bamidbar 14:1; Esther 3:15; Bereishis 50:3; Bereishis 5:29, 6:6, 27:42; Shemos 32:12; Yeshayahu 40:1; Rav Hirsch to Vayikra 7:19, 11:43 and Bamidbar 18:29.

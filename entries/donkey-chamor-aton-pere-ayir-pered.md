@@ -87,7 +87,7 @@ horse bred to a female donkey.
 First at Bereishis 12:16, among Pharaoh's gifts to Avraham, and roughly a
 hundred times after. Grammatically masculine, but Radak (*Michlol*, *Shaar
 Dikduk HaPe'alim*, and to Shmuel II 19:27) holds it covers a donkey of either
-sex. Rabbi Yaakov Tzvi Mecklenburg (*HaKesav VeHaKabbalah* to Vayikra 22:28)
+sex. Rabbi Yaakov Tzvi Mecklenburg (*HaKsav VeHaKabbalah* to Vayikra 22:28)
 supports him from *peter chamor* (Shemos 13:13, 34:20): the firstborn comes from
 the womb of a *chamor*, and the mother is necessarily female. Rabbinic Hebrew
 coined the explicit feminine *chamorah*, once in the Mishnah (Bechoros 1:2) and
@@ -254,4 +254,4 @@ Rabbi Reuven Chaim Klein, "[Balak: An Asinine Essay (Part 1/2)](https://articles
 
 Rabbi Reuven Chaim Klein, "[Pinchas: An Asinine Essay (Part 2/2)](https://articles.ohr.edu/articles/pinchas-an-asinine-essay-part-22)," *What's in a Word?*, Ohr Somayach, 19 July 2025.
 
-Cited in the essay: Bereishis 12:16, 16:12, 32:16, 33-34, 36:24, 49:11; Shemos 13:13, 14:27, 34:20; Vayikra 22:28; Bamidbar 22:21-23, 22:25, 22:27-30, 22:32-33; Devarim 2:10-11; Yehoshua 24:32; Shoftim 5:10, 9:28, 10:4, 12:14; Shmuel II 19:27; Melachim II 4:24; Yechezkel 23:20; Zecharyah 9:9; Daniel 5:21; Mishnah Kilayim 1:6 and 8:6, Bechoros 1:2; Berachos 9b and 33a; Rosh Hashanah 3a with Rashi; Bava Kamma 37a; Chullin 59a, 127a; Menachos 103b; Bava Basra 78b with Rashbam; Chullin 7b; Yerushalmi Berachos 8:5; Radak, *Michlol* and *Sefer HaShorashim*; Rav Hirsch to Bereishis 12:16 and 16:11; *HaKesav VeHaKabbalah*; Pappenheim, *Cheshek Shlomo*; Shadal; Rabbi David Chaim Chelouche, *Ohr Chadash*; Rabbi Ernest Klein's etymological dictionaries of Hebrew and English.
+Cited in the essay: Bereishis 12:16, 16:12, 32:16, 33-34, 36:24, 49:11; Shemos 13:13, 14:27, 34:20; Vayikra 22:28; Bamidbar 22:21-23, 22:25, 22:27-30, 22:32-33; Devarim 2:10-11; Yehoshua 24:32; Shoftim 5:10, 9:28, 10:4, 12:14; Shmuel II 19:27; Melachim II 4:24; Yechezkel 23:20; Zecharyah 9:9; Daniel 5:21; Mishnah Kilayim 1:6 and 8:6, Bechoros 1:2; Berachos 9b and 33a; Rosh Hashanah 3a with Rashi; Bava Kamma 37a; Chullin 59a, 127a; Menachos 103b; Bava Basra 78b with Rashbam; Chullin 7b; Yerushalmi Berachos 8:5; Radak, *Michlol* and *Sefer HaShorashim*; Rav Hirsch to Bereishis 12:16 and 16:11; *HaKsav VeHaKabbalah*; Pappenheim, *Cheshek Shlomo*; Shadal; Rabbi David Chaim Chelouche, *Ohr Chadash*; Rabbi Ernest Klein's etymological dictionaries of Hebrew and English.

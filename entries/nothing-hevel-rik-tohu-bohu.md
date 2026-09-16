@@ -117,7 +117,7 @@ the most intense. The one time *hevel* and *rik* appear side by side (Yeshayahu
 exist (*yesh*) but has no purpose (*to'eles*), while *rik* is something that
 does not even exist.
 
-Shadal (Rabbi Shmuel Dovid Luzzatto) offers a comprehensive study of these
+Shadal (Rabbi Shmuel David Luzzatto) offers a comprehensive study of these
 apparent synonyms. *Hevel* is specifically what appears on the surface to be
 advantageous or otherwise valuable but will ultimately be shown to be worthless;
 so beauty, which on the surface has some import, is *hevel* (Mishlei 31:30). In

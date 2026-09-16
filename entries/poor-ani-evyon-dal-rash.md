@@ -49,7 +49,7 @@ sources:
   - wiaw:8245 "The Poor and Unfortunate" (2019-05-18) https://articles.ohr.edu/articles/the-poor-and-unfortunate
   - wiaw:10786 "Shemos: Drawing Water" (2023-01-14) https://articles.ohr.edu/articles/shemos-drawing-water
   - wiaw:11205 "Vaera: The Vertically-Challenged" (2024-01-13) https://articles.ohr.edu/articles/vaera-the-vertically-challenged
-authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach, Midrash Tanchuma, Midrash Mishlei, Vayikra Rabbah, Dr. Leon Aryeh Feldman, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Menachem Ibn Saruk, Wilhelm Gesenius, Ibn Janach, Radak, Ibn Chayyuj, Rabbi Dr. Ernest Klein, Rabbi Eliyahu Bachur]
+authorities: [Rabbi Avraham Bedersi HaPenini, Rabbi Yehuda Kalatz, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yair Chaim Bachrach, Rabbi Moshe Sternbuch, Rabbi Yechiel Michel Epstein, Rav Chaim Kanievsky, Rabbi Avraham ben Yitzchak HaLevi Tamach, Midrash Tanchuma, Midrash Mishlei, Vayikra Rabbah, Dr. Leon Aryeh Feldman, Rabbi Moshe Tedeschi-Ashkenazi (Hoil Moshe), Menachem Ibn Saruk, Wilhelm Gesenius, Ibn Janach, Radak, Ibn Chayyuj, Rabbi Dr. Ernest Klein, Rabbi Eliyahu HaBachur]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -175,7 +175,7 @@ illness has made him thin.
   *mazal*.
 - Others give the root as מ-ו-כ (Ibn Janach and Radak), מ-כ-כ (Ibn Chayyuj) or
   מ-כ (Menachem Ibn Saruk).
-- Rabbi Dr. Ernest Klein, echoing Rabbi Eliyahu Bachur's *Sefer Tishbi*,
+- Rabbi Dr. Ernest Klein, echoing Rabbi Eliyahu Bachur's *Sefer HaTishbi*,
   explains the Rabbinic *namuch*, low, as a secondary base form of the nifal of
   *mach*: the grammatical nun denotes one who has become lowered, and the
   resulting word came to be treated as though the nun were part of the root.
@@ -227,4 +227,4 @@ Rabbi Reuven Chaim Klein, "[Shemos: Drawing Water](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[Vaera: The Vertically-Challenged](https://articles.ohr.edu/articles/vaera-the-vertically-challenged)," *What's in a Word?*, Ohr Somayach, 13 January 2024.
 
-Cited in the essay: *Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22; *Vayikra Rabbah* §34:6; Bava Metzia 111b; *Avos* 4:1; Mishlei 29:13, 31:20; Shmuel II 12:4; Rabbi Avraham Bedersi HaPenini; Rabbi Yehuda Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham ben Yitzchak HaLevi Tamach's commentary to *Eishes Chayil*, published by Dr. Leon Aryeh Feldman in a 1971 *Sefer Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach; Rabbi Moshe Sternbuch; Rabbi Yechiel Michel Epstein; Rav Chaim Kanievsky; Rabbi Moshe Tedeschi-Ashkenazi, *Hoil Moshe*; Menachem Ibn Saruk; Wilhelm Gesenius on ד-ל; Ibn Janach; Radak; Ibn Chayyuj; Rabbi Dr. Ernest Klein; Rabbi Eliyahu Bachur, *Sefer Tishbi*.
+Cited in the essay: *Midrash Tanchuma*, *Behar* §3; *Midrash Mishlei* ch. 22; *Vayikra Rabbah* §34:6; Bava Metzia 111b; *Avos* 4:1; Mishlei 29:13, 31:20; Shmuel II 12:4; Rabbi Avraham Bedersi HaPenini; Rabbi Yehuda Kalatz, *Sefer HaMussar*; Malbim; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Avraham ben Yitzchak HaLevi Tamach's commentary to *Eishes Chayil*, published by Dr. Leon Aryeh Feldman in a 1971 *Sefer Zikaron* for Dr. Shmuel Mirsky; Rabbi Yair Chaim Bachrach; Rabbi Moshe Sternbuch; Rabbi Yechiel Michel Epstein; Rav Chaim Kanievsky; Rabbi Moshe Tedeschi-Ashkenazi, *Hoil Moshe*; Menachem Ibn Saruk; Wilhelm Gesenius on ד-ל; Ibn Janach; Radak; Ibn Chayyuj; Rabbi Dr. Ernest Klein; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*.

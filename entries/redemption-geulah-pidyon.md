@@ -16,7 +16,7 @@ words:
     distinct: by sheer force, with no payment (Vilna Gaon); a change of ownership (Rabbi Chaim of Brisk); positive, raised above one's circumstances (Chatam Sofer); born of closeness, as goel hadam (Malbim); the profane brought into holiness, or the nation (Stern)
 sources:
   - wiaw:7742 "Words of Redemption" (2018-05-05) https://articles.ohr.edu/articles/words-of-redemption
-authorities: [Vilna Gaon, Rabbi Chaim Soloveitchik of Brisk, Chatam Sofer, Rabbi Menachem Mendel Hager of Kosov, Malbim, Rabbi Shmuel Tuvia Stern, Rashi, Ramban, Ibn Janach, Menachem ibn Saruk, Radak]
+authorities: [Vilna Gaon, Rabbi Chaim Soloveitchik of Brisk, Chatam Sofer, Rabbi Menachem Mendel Hager of Kosov, Malbim, Rabbi Shmuel Tuvia Stern, Rashi, Ramban, Ibn Janach, Menachem Ibn Saruk, Radak]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -66,7 +66,7 @@ A note on spelling: *podeh* is generally spelled with a heh, but in one place
 - Rashi there reads *pedaehu* as *pedahu*, the ayin standing for an
   interchangeable aleph, and Ramban (to Shemos 21:14) likewise treats it as the
   same word.
-- Ibn Janach, Menachem ibn Saruk, and Radak, however, have separate entries for
+- Ibn Janach, Menachem Ibn Saruk, and Radak, however, have separate entries for
   the heh form and the ayin form in their lexicons of Hebrew roots, implying
   that they understand the latter to be a separate word; and to this effect
   Malbim writes that *podeh* with an ayin *may* be related to a similar-sounding
@@ -129,4 +129,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Words of Redemption](https://articles.ohr.edu/articles/words-of-redemption)," *What's in a Word?*, Ohr Somayach, 5 May 2018.
 
-Cited in the essay: Vayikra 25:25-55, 27:9-34; Bamidbar 35:19; Iyov 33:24 with Rashi; Ramban to Shemos 21:14; the Vilna Gaon; Rabbi Chaim Soloveitchik of Brisk; the Chatam Sofer; Rabbi Menachem Mendel Hager of Kosov; Malbim; Rabbi Shmuel Tuvia Stern; Ibn Janach, Menachem ibn Saruk and Radak.
+Cited in the essay: Vayikra 25:25-55, 27:9-34; Bamidbar 35:19; Iyov 33:24 with Rashi; Ramban to Shemos 21:14; the Vilna Gaon; Rabbi Chaim Soloveitchik of Brisk; the Chatam Sofer; Rabbi Menachem Mendel Hager of Kosov; Malbim; Rabbi Shmuel Tuvia Stern; Ibn Janach, Menachem Ibn Saruk and Radak.

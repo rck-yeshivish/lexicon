@@ -2,7 +2,7 @@
 cluster: cheese
 hebrew: [גבינה, חריץ, שפות, גבן, גב, גבנונים]
 roots: [ג-ב-ן, ג-ב, ח-ר-ץ, ש-פ]
-translit: [gvinah, gevinah, gvina, charitz, charitzei hechalav, shfot, shefot, shfot bakar, giben, gav, gavnunim, gavnunim, gavoah, charutz]
+translit: [gvinah, gevinah, gvina, charitz, charitzei hechalav, shfot, shefot, shfot bakar, giben, gav, gavnunim, gavoah, charutz]
 english: [cheese, curds, soft cheese, hunchback, back, bulge]
 domain: nature
 words:

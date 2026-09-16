@@ -2,7 +2,7 @@
 cluster: pulling and drawing
 hebrew: [משה, משך, שאב, שאף, משי]
 roots: [מ-ש-ה, מ-ש-ך, ש-א-ב, ש-א-ף, ש-ה, ש-ך]
-translit: [moshe, mashah, mishitihu, yamsheini, mashui, moshech, meshech, moshech, shoev, shoeiv, shaav, shoef, sheifah, meshi]
+translit: [moshe, mashah, mishitihu, yamsheini, mashui, moshech, meshech, shoev, shoeiv, shaav, shoef, sheifah, meshi]
 english: [draw out of water, pull, draw, draw water, inhale, yearn, silk]
 domain: action
 words:
@@ -157,7 +157,7 @@ Many commentators have asked why he is called Moshe, "he who pulls," rather than
 *Mashui*, "he who was pulled out." Was he not the one who *was* pulled from the
 water?
 
-- Rabbi Shlomo Ibn Parchon (*Machberes He'Aruch*) raises the question
+- Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*) raises the question
   implicitly, asserting that Moshe should have been called Mashui and that the
   one who did the saving, Paroh's daughter, should have been the *Moshe*; he
   does not explain why the name came out as it did.
@@ -220,4 +220,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shemos: Pulling & Drawing](https://articles.ohr.edu/articles/shemos-pulling-drawing)," *What's in a Word?*, Ohr Somayach, 6 January 2024.
 
-Cited in the essay: Bereishis 24:11, 24:17, 24:65; Shemos 2:10; Devarim 28:22; Shoftim 5:14; Shmuel II 22:17; Yeshayahu 42:14, 63:11; Yirmiyahu 2:24, 14:6; Tehillim 18:17, 119:131; Iyov 7:2, 36:20; Koheles 1:5; Mishnah *Shabbos* 2:4; Sotah 47a; Sanhedrin 107b; Avodah Zarah 44a; Rashi, Rashbam, Ibn Ezra, Shadal, Rabbi Moshe Alshich, Chizkuni, Rav Hirsch, *Peirush HaTur* (in the name of Rabbi Yosef Kimchi), *Peirush HaRokeach*, *Moshav Zekanim* and *Midrash HaGadol* to Shemos 2:10; Targum, Rashi, Mahari Kara, Ibn Ezra and Radak to Yeshayahu 63:11; Radak, *Sefer HaShorashim* s.v. משה; Ibn Chayyuj; Ibn Janach; Menachem Ibn Saruk; Rav Hirsch to Bereishis 24:65 and Devarim 28:22; Ramban to Bereishis 24:17; Targum Onkelos; *Midrash Sechel Tov* to Bereishis 24:11; Rabbi Shlomo Ibn Parchon, *Machberes He'Aruch*; Rabbi David Chaim Chelouche; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Zalman Ehrenreich; Rabbi Menachem Mendel Kasher, *Torah Shleimah*; Rabbi Yaakov Berger, *Milon Leshon Mikra*; Even Shoshan's concordance.
+Cited in the essay: Bereishis 24:11, 24:17, 24:65; Shemos 2:10; Devarim 28:22; Shoftim 5:14; Shmuel II 22:17; Yeshayahu 42:14, 63:11; Yirmiyahu 2:24, 14:6; Tehillim 18:17, 119:131; Iyov 7:2, 36:20; Koheles 1:5; Mishnah *Shabbos* 2:4; Sotah 47a; Sanhedrin 107b; Avodah Zarah 44a; Rashi, Rashbam, Ibn Ezra, Shadal, Rabbi Moshe Alshich, Chizkuni, Rav Hirsch, *Peirush HaTur* (in the name of Rabbi Yosef Kimchi), *Peirush HaRokeach*, *Moshav Zekanim* and *Midrash HaGadol* to Shemos 2:10; Targum, Rashi, Mahari Kara, Ibn Ezra and Radak to Yeshayahu 63:11; Radak, *Sefer HaShorashim* s.v. משה; Ibn Chayyuj; Ibn Janach; Menachem Ibn Saruk; Rav Hirsch to Bereishis 24:65 and Devarim 28:22; Ramban to Bereishis 24:17; Targum Onkelos; *Midrash Sechel Tov* to Bereishis 24:11; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Rabbi David Chaim Chelouche; Rabbi Shlomo Pappenheim; Rabbi Shlomo Aharon Wertheimer; Rabbi Shlomo Zalman Ehrenreich; Rabbi Menachem Mendel Kasher, *Torah Shleimah*; Rabbi Yaakov Berger, *Milon Leshon Mikra*; Even Shoshan's concordance.

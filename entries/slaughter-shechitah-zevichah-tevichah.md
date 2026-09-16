@@ -29,7 +29,7 @@ words:
 sources:
   - wiaw:8023 "Slaughtering and Butchering" (2018-12-08) https://articles.ohr.edu/articles/slaughtering-and-butchering
   - wiaw:11327 "Shemini: The Nosey Truth" (2024-04-06) https://articles.ohr.edu/articles/shemini-the-nosey-truth
-authorities: [Malbim, Ralbag, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Yonah ibn Janach, Rashi, Ibn Ezra, Ramban, Targum Onkelos, Rabbi Binyamin Mussafia]
+authorities: [Malbim, Ralbag, Rabbi Shlomo Pappenheim, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Aharon Wertheimer, Rabbi Yonah Ibn Janach, Rashi, Ibn Ezra, Ramban, Targum Onkelos, Rabbi Binyamin Mussafia]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -111,7 +111,7 @@ thief who slaughtered it to eat the meat rather than to make a profit could
 excuse himself. The word blocks the excuse, and the fourfold or fivefold payment
 stands.
 
-Rabbi Yonah ibn Janach (990-1050), cited by Wertheimer, dissents on the word
+Rabbi Yonah Ibn Janach (990-1050), cited by Wertheimer, dissents on the word
 entirely: *tevichah* means **cooking** (compare Arabic *tovech*), so Yosef told
 his steward to cook, not to slaughter. Wertheimer answers that in a wide range of
 rabbinic sources *tevichah* plainly means slaughtering. In later Hebrew a
@@ -169,4 +169,4 @@ Rabbi Reuven Chaim Klein, "[Slaughtering and Butchering](https://articles.ohr.ed
 
 Rabbi Reuven Chaim Klein, "[Shemini: The Nosey Truth](https://articles.ohr.edu/articles/shemini-the-nosey-truth)," *What's in a Word?*, Ohr Somayach, 6 April 2024.
 
-Cited in the essay: Bereishis 37:36 with Rashi, Ibn Ezra, Ramban and Targum Onkelos, and 43:16; Shemos 21:37, 22:3; Vayikra 1:1 with Ralbag; Bamidbar 14:16, and 22:40 with Targum Yonasan; Devarim 12:21 with Ralbag, and 28:31; Melachim II and Yirmiyahu on Nevuzaradan; Daniel 2:14 with Ibn Ezra; Mishnah Eduyos 8:4; Chullin 17a; Pesachim 17a; Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Yonah ibn Janach; Rabbi Binyamin Mussafia.
+Cited in the essay: Bereishis 37:36 with Rashi, Ibn Ezra, Ramban and Targum Onkelos, and 43:16; Shemos 21:37, 22:3; Vayikra 1:1 with Ralbag; Bamidbar 14:16, and 22:40 with Targum Yonasan; Devarim 12:21 with Ralbag, and 28:31; Melachim II and Yirmiyahu on Nevuzaradan; Daniel 2:14 with Ibn Ezra; Mishnah Eduyos 8:4; Chullin 17a; Pesachim 17a; Malbim; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Aharon Wertheimer; Rabbi Yonah Ibn Janach; Rabbi Binyamin Mussafia.

@@ -24,7 +24,7 @@ words:
     distinct: Yechezkel 16:4, the smoothing that bathing gives the skin (Radak); Menachem Ibn Saruk and Rashi read it instead from shaashua, bathing for pleasure
 sources:
   - wiaw:8497 "Smooth Sliding and Glad Gliding" (2019-11-30) https://articles.ohr.edu/articles/smooth-sliding-and-glad-gliding
-authorities: [Targum Onkelos, Rashi, Tosafos, Rambam, Radak, Menachem Ibn Saruk, Rabbi Avraham Vilner (Tirgem Avraham), Rabbi Yaakov Tzvi Mecklenburg (HaKtav VeHaKabbalah)]
+authorities: [Targum Onkelos, Rashi, Tosafos, Rambam, Radak, Menachem Ibn Saruk, Rabbi Avraham Vilner (Tirgem Avraham), Rabbi Yaakov Tzvi Mecklenburg (HaKsav VeHaKabbalah)]
 status: reviewed
 updated: 2026-09-10
 ---

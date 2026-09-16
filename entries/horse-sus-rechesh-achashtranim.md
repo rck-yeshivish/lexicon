@@ -177,7 +177,7 @@ king's horse the name Shifrigaz, which Rabbi Eliyahu HaBachur vocalizes in
 - Rabbi Yaakov Daniel Amash derives Shifrigaz from a portmanteau of *shapir*,
   beautiful, and *gaz*, transporting (see Rashi to Tehillim 90:10): the horse
   was apparently beautiful, and a horse's work is to carry its rider.
-- Dr. Alexander Kohut (1842-1894), in *HaAruch HaShaleim*, renders the name on
+- Dr. Alexander Kohut (1842-1894), in *Aruch HaShalem*, renders the name on
   his understanding of Persian into German as *rothweisses Pferd*, the red-white
   horse.
 - Dr. Dan Shapira, a linguist and philologist at Bar Ilan, in a letter to Rabbi
@@ -223,4 +223,4 @@ Rabbi Reuven Chaim Klein, "[Purim/Trumah: Speedy Horsepower (Part 1/2)](https://
 
 Rabbi Reuven Chaim Klein, "[Purim/Titzaveh: Speedy Horsepower (Part 2/2)](https://articles.ohr.edu/articles/purimtitzaveh-speedy-horsepower-part-22)," *What's in a Word?*, Ohr Somayach, 11 February 2023.
 
-Cited in the essay: Esther 3:13-15, 8:1, 8:10, 8:14; Melachim I 5:8; Michah 1:13; Bereishis 1:21, 1:25, 2:19, 2:20, 12:5; Bamidbar 13:11; Yeshayahu 38:14; Shir HaShirim 1:9 and Shir HaShirim Rabbah 1:49; Megillah 18a; Pesachim 113b; Kesubos 55b; Bava Basra 152a; Taanis 23a with Rashi; Yerushalmi Kiddushin 1:5; Kilayim 8:5 with Rambam's commentary, and Yerushalmi Kilayim 8:4; Rambam, Hilchos Kilayim 9:5; *Teshuvos HaRan* 79 and *Teshuvos HaRivash* 390-391; Ezra 1:4; Tehillim 90:10 with Rashi; Esther 6:10 with Targum Sheini, and 9:4; *Peirush HaRokeach* to Bereishis 1:25 and Esther 8:10, 9:4; *Midrash Lekach Tov*; *Sefer HaGalui*; *Tzror HaMor* to Bereishis 2:20; *Tzeina U'Reinah* to Bereishis; *Ohr Chadash* to Esther 8:1; *Shenos Eliyahu* to Kilayim 8:5 and *Gilyonei HaShas*; *Sefer HaMishkalim*; *Meturgeman*; *HaAruch HaShaleim*.
+Cited in the essay: Esther 3:13-15, 8:1, 8:10, 8:14; Melachim I 5:8; Michah 1:13; Bereishis 1:21, 1:25, 2:19, 2:20, 12:5; Bamidbar 13:11; Yeshayahu 38:14; Shir HaShirim 1:9 and Shir HaShirim Rabbah 1:49; Megillah 18a; Pesachim 113b; Kesubos 55b; Bava Basra 152a; Taanis 23a with Rashi; Yerushalmi Kiddushin 1:5; Kilayim 8:5 with Rambam's commentary, and Yerushalmi Kilayim 8:4; Rambam, Hilchos Kilayim 9:5; *Teshuvos HaRan* 79 and *Teshuvos HaRivash* 390-391; Ezra 1:4; Tehillim 90:10 with Rashi; Esther 6:10 with Targum Sheini, and 9:4; *Peirush HaRokeach* to Bereishis 1:25 and Esther 8:10, 9:4; *Midrash Lekach Tov*; *Sefer HaGalui*; *Tzror HaMor* to Bereishis 2:20; *Tzeina U'Reinah* to Bereishis; *Ohr Chadash* to Esther 8:1; *Shenos Eliyahu* to Kilayim 8:5 and *Gilyonei HaShas*; *Sefer HaMishkalim*; *Meturgeman*; *Aruch HaShalem*.

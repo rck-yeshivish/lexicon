@@ -20,7 +20,7 @@ words:
     distinct: the rabbinic form, with the final nun doubled (Radak); in the Mishnah coldness, usually as the opposite of hot
 sources:
   - wiaw:9482 "Freezing Cold" (2021-12-11) https://articles.ohr.edu/articles/freezing-cold
-authorities: [Rashi, Ibn Ezra, Radak, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi, Rabbi Yishaya of Trani, Rashbam, Abarbanel, Rabbi Yosef Nechemias, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi Dovid Golumb, Rabbi Yehoshua Steinberg, Shoresh Yesha]
+authorities: [Rashi, Ibn Ezra, Radak, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi, Rabbi Yeshayah of Trani, Rashbam, Abarbanel, Rabbi Yosef Nechemias, Rabbi Shlomo Pappenheim, Rav Hirsch, Rabbi David Golumb, Rabbi Yehoshua Steinberg, Shoresh Yesha]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -65,7 +65,7 @@ In this sense the word seems to appear only once: "like the *tzinas sheleg* on a
 harvest day, so is a trusty messenger to those who send him" (Mishlei 25:13).
 - Rashi: the longing in harvest heat for the cold of the snow season.
 - Rabbi Yosef Kimchi: a cool winter breeze blowing on a summer day.
-- Ibn Ezra and Rabbi Yishaya of Trani: the point of the mashal is that a touch
+- Ibn Ezra and Rabbi Yeshayah of Trani: the point of the mashal is that a touch
   of icy cold on a summer day gives the same relief as being able to rely on
   one's agent.
 
@@ -89,7 +89,7 @@ that simply feels cold, a natural cold that neither sickens nor injures.
 
 Three further words are read by some as cognates: the *Midbar Tzin* (Bamidbar
 13:21, 20:1, 27:14, 33:36, 34:3; Devarim 32:51; Yehoshua 15:1), which Rabbi
-Dovid Golumb (*Targumna* to Shemos 17:1) explains as a notably cold place; the
+David Golumb (*Targumna* to Shemos 17:1) explains as a notably cold place; the
 *tzintzenes* that held the manna (Shemos 16:33), which Rav Hirsch describes as
 an ice box keeping the manna cold; and *tzinim* in Mishlei 22:5, thorns to most
 commentators but cold to Rabbi Yosef Nechemias and to Radak in *Sefer
@@ -143,4 +143,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Freezing Cold](https://articles.ohr.edu/articles/freezing-cold)," *What's in a Word?*, Ohr Somayach, 11 December 2021.
 
-Cited in the essay: Bereishis 8:22; Yirmiyahu 18:14; Mishlei 22:5, 25:13 with Rashi, Ibn Ezra, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi and Rabbi Yishaya of Trani, 25:25; Amos 4:2 with Abarbanel; Shemos 16:33 with Rav Hirsch, 17:1 with *Targumna*; Bamidbar 13:21, 20:1, 27:14, 33:36, 33:55 with Rashbam, 34:3; Devarim 32:51; Yehoshua 15:1; Mishnah Maasros 4:4, Shabbos 3:4-5, 22:4, 22:6, Pesachim 3:3-4, Yoma 3:5, Nedarim 8:7, Zevachim 11:7, Chullin 3:5, Keilim 3:7, Mikvaos 10:6, Machshirin 5:10; Chullin 58b with Rashi; Sanhedrin 39b; Radak, *Sefer HaShorashim*; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Yosef Nechemias; Rabbi Yehoshua Steinberg.
+Cited in the essay: Bereishis 8:22; Yirmiyahu 18:14; Mishlei 22:5, 25:13 with Rashi, Ibn Ezra, Rabbi Yosef Kimchi, Rabbi Moshe Kimchi and Rabbi Yeshayah of Trani, 25:25; Amos 4:2 with Abarbanel; Shemos 16:33 with Rav Hirsch, 17:1 with *Targumna*; Bamidbar 13:21, 20:1, 27:14, 33:36, 33:55 with Rashbam, 34:3; Devarim 32:51; Yehoshua 15:1; Mishnah Maasros 4:4, Shabbos 3:4-5, 22:4, 22:6, Pesachim 3:3-4, Yoma 3:5, Nedarim 8:7, Zevachim 11:7, Chullin 3:5, Keilim 3:7, Mikvaos 10:6, Machshirin 5:10; Chullin 58b with Rashi; Sanhedrin 39b; Radak, *Sefer HaShorashim*; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Yosef Nechemias; Rabbi Yehoshua Steinberg.

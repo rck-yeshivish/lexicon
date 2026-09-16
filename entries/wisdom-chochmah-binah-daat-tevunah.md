@@ -2,7 +2,7 @@
 cluster: wisdom
 hebrew: [חכמה, בינה, תבונה, דעת, חכם, נבון]
 roots: [ח-כ-ם, ב-י-ן, י-ד-ע]
-translit: [chochmah, chochma, chachmah, chokhmah, binah, bina, tevunah, tevuna, daat, daas, da'at, da'as, chacham, chochom, navon, meivin, yodea, ChaBaD, chabad]
+translit: [chochmah, chochma, chachmah, chokhmah, binah, bina, tevunah, tevuna, daat, daas, da'at, da'as, chacham, chochom, navon, meivin, yodea, ChaBaD]
 english: [wisdom, understanding, insight, knowledge, discernment]
 domain: cognition
 words:

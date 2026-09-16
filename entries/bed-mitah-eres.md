@@ -19,7 +19,7 @@ words:
     nk: עֲרִיסָה
 sources:
   - wiaw:8364 "Beds of the Righteous" (2019-08-10) https://articles.ohr.edu/articles/beds-of-the-righteous
-authorities: [Ramchal, Menachem ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover]
+authorities: [Ramchal, Menachem Ibn Saruk, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashbam, Rabbi Nosson of Rome, Rabbi Yaakov Tzvi Mecklenburg, Rav Hirsch, Rabbi Shlomo Aharon Wertheimer, Malbim, Rabbi Aviad Sar-Shalom Basilea, Rabbi Tzvi Hirsch Kaidanover]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -48,9 +48,9 @@ cited do not treat them as fully synonymous.
 ### mitah (מטה)
 The common word. The root is disputed:
 
-- Menachem ibn Saruk gives mem-tes.
+- Menachem Ibn Saruk gives mem-tes.
 - Radak (*Sefer HaShorashim*) gives mem-tes-tes or נ-ט-ה.
-- Rabbi Shlomo Pappenheim (*Yerios Shlomo*, *Cheishek Shlomo*) gives tes-hei.
+- Rabbi Shlomo Pappenheim (*Yerios Shlomo*, *Cheshek Shlomo*) gives tes-hei.
 - Rabbi Aharon Marcus suggests the single letter tes, which he reads as movement
   to the side, gathering under it *stiyah* (deviation), *natah* (to incline),
   *titah* (turn aside), *tata* (broom), *tach* (plastering), *taah* (erred), and
@@ -152,4 +152,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Beds of the Righteous](https://articles.ohr.edu/articles/beds-of-the-righteous)," *What's in a Word?*, Ohr Somayach, 10 August 2019.
 
-Cited in the essay: Devarim 3:11; Bamidbar 15:21; Tehillim 41:4; Mishlei 7:16; Berachos 37b; Kesubos 103a; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheishek Shlomo*; *Sefer HeAruch*; *Emunas Chachamim*; *Kav HaYashar*.
+Cited in the essay: Devarim 3:11; Bamidbar 15:21; Tehillim 41:4; Mishlei 7:16; Berachos 37b; Kesubos 103a; Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; *Sefer HeAruch*; *Emunas Chachamim*; *Kav HaYashar*.

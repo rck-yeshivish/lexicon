@@ -189,7 +189,7 @@ Bereishis 10:3, writes that Runic script was distinguished from Latin script by
 calling it *diutisc*.) Grimm's Law accounts for the t of *taytsh*, *teutonic*
 and *tedeschi* against the d of *deutsch*, and *Dutch* shares the origin though
 it now names a different people. So *Tedeschi* and *Ashkenazi* both mean
-"German," which is why Rabbi Moshe Tedeschi-Ashkenazi, author of *Ho'il Moshe*
+"German," which is why Rabbi Moshe Tedeschi-Ashkenazi, author of *Hoil Moshe*
 and *Otzar Nirdafim*, carries both. The Yiddish *yekke*, for a Jew of Germany
 and sometimes of Western Europe generally, stereotyped as unbending and punctual
 to a fault, is traditionally understood to come from German *yak*, jacket,

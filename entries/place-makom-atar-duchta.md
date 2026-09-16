@@ -92,7 +92,7 @@ On *derech ha'atarim* itself the commentators split.
   site-seeing.
 
 Rashi himself glosses *atar* with *makom* elsewhere (to Daniel 2:38; Ezra 6:3,
-6:8, 8:15; *Kesuvos* 68a; *Bava Metzia* 67a; *Bava Basra* 29a, 103a; *Avodah
+6:8, 8:15; *Kesubos* 68a; *Bava Metzia* 67a; *Bava Basra* 29a, 103a; *Avodah
 Zarah* 7b, 31b). Those same exegetes make a point of noting that *atar* is an
 Aramaic word while *makom* is Hebrew; so, Rabbi Reuven Chaim Klein infers, the
 two are not quite synonyms even where they might mean the same thing.
@@ -109,7 +109,7 @@ off from the rest of the world.
 ### duchta (דוכתא)
 An Aramaic word for "place," quite common in the Bavli, with the shortened *duch* at
 *Berachos* 42b. Rashi defines both with the word *makom* (to *Moed Katan* 16b,
-*Kesuvos* 77a, *Sanhedrin* 96b). Rabbi Eliyahu HaBachur's *Meturgaman* has no
+*Kesubos* 77a, *Sanhedrin* 96b). Rabbi Eliyahu HaBachur's *Meturgaman* has no
 entry for *duchta* or *duch*, though, so far as Rabbi Reuven Chaim Klein knows, *duchta* does
 render *makom* at least once in Targum (Mishlei 27:8), and *ducha* in Targum to
 Melachim I 14:28 and Divrei HaYamim II 12:11.
@@ -194,4 +194,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Chukas: The Right Site](https://articles.ohr.edu/articles/chukas-the-right-site)," *What's in a Word?*, Ohr Somayach, 17 June 2023.
 
-Cited in the essay: Bamidbar 21:1; *Eichah Rabbah* 1:21; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Pappenheim on ק-ם; Rabbi Eliyahu HaBachur, *Meturgaman*; Daniel 2:35, 2:38; Ezra 5:15, 6:3, 6:5, 6:7, 6:8, 8:15; Mishlei 27:8; Shmuel I 23:13; Yechezkel 23:40; Melachim I 14:28; Divrei HaYamim II 12:11; *Berachos* 32b and 42b; *Sanhedrin* 39a; *Sotah* 14a; *Avodah Zarah* 11a; *Bereishis Rabbah* 5:3 on Tehillim 93:3; *HaKsav VeHaKabbalah* to Shemos 33:21; Rabbi Aharon Marcus; Rabbi Joseph Perles, *Etymologische Studien zur Kunde der rabbinischen Sprache und Alterthümer*; Dr. Alexander Kohut, *Aruch HaShaleim*; the Kuntillet Ajrud inscription.
+Cited in the essay: Bamidbar 21:1; *Eichah Rabbah* 1:21; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Pappenheim on ק-ם; Rabbi Eliyahu HaBachur, *Meturgaman*; Daniel 2:35, 2:38; Ezra 5:15, 6:3, 6:5, 6:7, 6:8, 8:15; Mishlei 27:8; Shmuel I 23:13; Yechezkel 23:40; Melachim I 14:28; Divrei HaYamim II 12:11; *Berachos* 32b and 42b; *Sanhedrin* 39a; *Sotah* 14a; *Avodah Zarah* 11a; *Bereishis Rabbah* 5:3 on Tehillim 93:3; *HaKsav VeHaKabbalah* to Shemos 33:21; Rabbi Aharon Marcus; Rabbi Joseph Perles, *Etymologische Studien zur Kunde der rabbinischen Sprache und Alterthümer*; Dr. Alexander Kohut, *Aruch HaShalem*; the Kuntillet Ajrud inscription.

@@ -36,7 +36,7 @@ sources:
   - wiaw:11608 "Vayeitzei: Name of the Plain" (2024-12-07) https://articles.ohr.edu/articles/vayeitzei-name-of-the-plain
   - wiaw:7815 "Let Them Eat Bread" (2018-06-23) https://articles.ohr.edu/articles/let-them-eat-bread
   - wiaw:8941 "Castle in the Sky" (2020-11-28) https://articles.ohr.edu/articles/castle-in-the-sky
-authorities: [Rashi, Ibn Ezra, Targum Onkelos, Bereishis Rabbah, Ramban, Ibn Janach, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Rabbi Shmuel Masnuth, Rabbi Hai Gaon, Sefer HaAruch, Rabbi Shlomo of Urbino, Rambam, Rabbi Yishaya of Trani, Rabbi Yosef Kara, pseudo-Rashbam, Shadal, Rabbi David Tzvi Hoffmann, Rabbi Ernest Klein, Rabbi Aharon Marcus, Even-Shoshan concordance]
+authorities: [Rashi, Ibn Ezra, Targum Onkelos, Bereishis Rabbah, Ramban, Ibn Janach, Radak, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Rav Hirsch, Chizkuni, Rabbi Shmuel Masnuth, Rabbi Hai Gaon, Sefer HeAruch, Rabbi Shlomo of Urbino, Rambam, Rabbi Yeshayah of Trani, Rabbi Yosef Kara, pseudo-Rashbam, Shadal, Rabbi David Tzvi Hoffmann, Rabbi Ernest Klein, Rabbi Aharon Marcus, Even-Shoshan concordance]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -111,10 +111,10 @@ plain.
 
 **Whether sharon is a common noun.**
 
-- Many commentators, among them Ibn Ezra, Rabbi Yishaya of Trani, Rabbi Yosef
+- Many commentators, among them Ibn Ezra, Rabbi Yeshayah of Trani, Rabbi Yosef
   Kara and pseudo-Rashbam, gloss *sharon* in Shir HaShirim 2:1 as *mishor*, a
   plain (see also Rambam's commentary to Bava Basra 6:2).
-- Rabbi Hai Gaon (to Niddah 2:7) and *Sefer HaAruch* take it as the flatlands of
+- Rabbi Hai Gaon (to Niddah 2:7) and *Sefer HeAruch* take it as the flatlands of
   Eretz Yisrael as against the hills around Yerushalayim (compare Tehillim
   125:2), which is a place-name.
 
@@ -237,4 +237,4 @@ Rabbi Reuven Chaim Klein, "[Let Them Eat Bread](https://articles.ohr.edu/article
 
 Rabbi Reuven Chaim Klein, "[Castle in the Sky](https://articles.ohr.edu/articles/castle-in-the-sky)," *What's in a Word?*, Ohr Somayach, 28 November 2020.
 
-Cited in the essay: Bereishis 12:6, 13:10-11, 13:18, 14:6, 14:13, 18:1, 25:20, 31:18, 35:26, 46:15, 49:21; Bamidbar 33:49; Yehoshua 11:17; Hoshea 12:13; Shir HaShirim 2:1; Tehillim 125:2; Yechezkel 16:4; Mishlei 3:8; Iyov 40:16; Targum Onkelos and *Bereishis Rabbah* 42:6 to Bereishis 14:6; Rashi and Ramban to Bereishis 14:6; Zohar *Vayera* 97b; Rambam to Bava Basra 6:2; Rabbi Hai Gaon to Niddah 2:7; *Sefer HaAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *HaKsav VeHaKabbalah* to Bereishis 18:1, 49:21 and Vayikra 1:9; *Cheshek Shlomo* and *Yerios Shlomo*; *Ohel Moed*; *Bereishis Zuta* to Bereishis 14:6; Bereishis 36:2, 46:14; Bamidbar 21:25, 22:41, 26:26; Yehoshua 12:7, 13:5; Shoftim 12:11-12; Melachim I 16:6, 16:8, 16:13-14; Melachim II 15:30, 17:1, 18:1, 18:9; Divrei HaYamim I 4:15, 4:37, 9:8; Shadal and Rabbi David Tzvi Hoffmann to Bereishis 25:20; Rabbi Ernest Klein's etymological dictionary; Avraham Even-Shoshan's concordance.
+Cited in the essay: Bereishis 12:6, 13:10-11, 13:18, 14:6, 14:13, 18:1, 25:20, 31:18, 35:26, 46:15, 49:21; Bamidbar 33:49; Yehoshua 11:17; Hoshea 12:13; Shir HaShirim 2:1; Tehillim 125:2; Yechezkel 16:4; Mishlei 3:8; Iyov 40:16; Targum Onkelos and *Bereishis Rabbah* 42:6 to Bereishis 14:6; Rashi and Ramban to Bereishis 14:6; Zohar *Vayera* 97b; Rambam to Bava Basra 6:2; Rabbi Hai Gaon to Niddah 2:7; *Sefer HeAruch*; *Sifrei HaShorashim* of Ibn Janach and Radak; *HaKsav VeHaKabbalah* to Bereishis 18:1, 49:21 and Vayikra 1:9; *Cheshek Shlomo* and *Yerios Shlomo*; *Ohel Moed*; *Bereishis Zuta* to Bereishis 14:6; Bereishis 36:2, 46:14; Bamidbar 21:25, 22:41, 26:26; Yehoshua 12:7, 13:5; Shoftim 12:11-12; Melachim I 16:6, 16:8, 16:13-14; Melachim II 15:30, 17:1, 18:1, 18:9; Divrei HaYamim I 4:15, 4:37, 9:8; Shadal and Rabbi David Tzvi Hoffmann to Bereishis 25:20; Rabbi Ernest Klein's etymological dictionary; Avraham Even-Shoshan's concordance.

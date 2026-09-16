@@ -14,7 +14,7 @@ words:
   - he: שחר
     tr: shachar
     en: dawn, daybreak
-    distinct: the first rays breaking through the night's darkness, arriving all at once (Rabbi Shlomo Alkabetz); a point that comes before boker; also seeking (Rabbi Menachem ibn Saruk, Malbim), and kin to shachor, black (Rabbi Wolf Heidenheim, Peirush HaRokeach)
+    distinct: the first rays breaking through the night's darkness, arriving all at once (Rabbi Shlomo Alkabetz); a point that comes before boker; also seeking (Rabbi Menachem Ibn Saruk, Malbim), and kin to shachor, black (Rabbi Wolf Heidenheim, Peirush HaRokeach)
   - he: צפרא
     tr: tzafra
     en: morning
@@ -26,7 +26,7 @@ words:
     distinct: the Targum's word for shachar in Iyov, Mishlei and Tehillim (Rabbi Eliyahu HaBachur); perhaps related to kritzah, winking, dawn being the small sign that daylight is coming (Rabbi Moshe Kosover of Beit Chilkiyah)
 sources:
   - wiaw:8518 "Good Morning Sunshine" (2019-12-14) https://articles.ohr.edu/articles/good-morning-sunshine
-authorities: [Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Alkabetz, Rashi, Rabbi Menachem ibn Saruk, Ibn Ezra, Radak, Rabbi Wolf Heidenheim, Peirush HaRokeach, Zohar, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Eliyahu HaBachur, Ramban, Rabbi Aharon Marcus, Rabbi Yaakov Zev Lev, Rabbi Moshe Kosover of Beit Chilkiyah, Thomas Fuller]
+authorities: [Malbim, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Alkabetz, Rashi, Rabbi Menachem Ibn Saruk, Ibn Ezra, Radak, Rabbi Wolf Heidenheim, Peirush HaRokeach, Zohar, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Eliyahu HaBachur, Ramban, Rabbi Aharon Marcus, Rabbi Yaakov Zev Lev, Rabbi Moshe Kosover of Beit Chilkiyah, Thomas Fuller]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -80,7 +80,7 @@ hashachar* because it is often visible before sunrise.)
 
 Two further senses of the root:
 1. **Seeking.** Rashi to Tehillim 22:1 gives "morning," then cites Rabbi Menachem
-   ibn Saruk that the root's core sense is examining and discerning, as in
+   Ibn Saruk that the root's core sense is examining and discerning, as in
    *shocher tov* (Mishlei 11:27), one who seeks out good. Malbim: the searching
    of *shachar* is the persistent, consistent kind, like the sun coming up every
    single morning without fail. Ibn Ezra (Tehillim 63:2) says outright that

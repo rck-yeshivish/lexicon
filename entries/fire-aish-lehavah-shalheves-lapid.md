@@ -89,7 +89,7 @@ Spelled like *ohr* but pointed differently, and plainly meaning fire; Rabbi
 Pappenheim does not explicitly mention it. Six times
 in Tanach, only in Yeshayahu and Yechezkel, and the preferred word in the
 Mishnah, where it is common (*Challah* 4:8; *Shabbos* 1:11, 8:7, 16:5; *Yoma*
-6:7; *Beitzah* 4:4 and 4:7; *Rosh Hashanah* 2:3; *Bava Kama* 6:4 and 9:4;
+6:7; *Beitzah* 4:4 and 4:7; *Rosh Hashanah* 2:3; *Bava Kamma* 6:4 and 9:4;
 *Sanhedrin* 9:1; *Avodah Zarah* 5:12; *Avos* 2:10; *Zevachim* 12:6; *Menachos*
 10:4; *Chullin* 3:3; *Tamid* 1:3; *Keilim* 5:11 and 29:8; *Ohalos* 11:7). Ur was
 also the name of an ancient Mesopotamian city where Avraham Avinu lived, and
@@ -175,4 +175,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Playing with Fire](https://articles.ohr.edu/articles/playing-with-fire-2)," *What's in a Word?*, Ohr Somayach, 1 December 2018.
 
-Cited in the essay: Ovadiah 1:18; Shemos 7:11, 7:22, 8:3, 26:17; Melachim I 7:29; Nachum 2:4 with Radak; Malbim to Yechezkel 5:2; Mishnah *Challah* 4:8, *Shabbos* 1:11, 8:7, 16:5, *Yoma* 6:7, *Beitzah* 4:4 and 4:7, *Rosh Hashanah* 2:3, *Bava Kama* 6:4 and 9:4, *Sanhedrin* 9:1, *Avodah Zarah* 5:12, *Avos* 2:10, *Zevachim* 12:6, *Menachos* 10:4, *Chullin* 3:3, *Tamid* 1:3, *Keilim* 5:11 and 29:8, *Ohalos* 11:7; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Dr. Alexander Beider on the name Feivish.
+Cited in the essay: Ovadiah 1:18; Shemos 7:11, 7:22, 8:3, 26:17; Melachim I 7:29; Nachum 2:4 with Radak; Malbim to Yechezkel 5:2; Mishnah *Challah* 4:8, *Shabbos* 1:11, 8:7, 16:5, *Yoma* 6:7, *Beitzah* 4:4 and 4:7, *Rosh Hashanah* 2:3, *Bava Kamma* 6:4 and 9:4, *Sanhedrin* 9:1, *Avodah Zarah* 5:12, *Avos* 2:10, *Zevachim* 12:6, *Menachos* 10:4, *Chullin* 3:3, *Tamid* 1:3, *Keilim* 5:11 and 29:8, *Ohalos* 11:7; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Dr. Alexander Beider on the name Feivish.

@@ -91,7 +91,7 @@ Root ס-פ-ן, spelled with samech (Devarim 33:21; Melachim I 6:9, 7:3) or sin
 - Rashi (to Devarim 33:19) notes that the two spellings are interchangeable, and
   Rabbi Yosef Kimchi (*Sefer Zikaron*) explains it by the samech/sin
   interchange.
-- Menachem Ibn Saruk (*Machberet Menachem*) actually uses *tzafun* to define
+- Menachem Ibn Saruk (*Machberes Menachem*) actually uses *tzafun* to define
   *safun*.
 - Pappenheim: from SAMECH-PEH, "edge, end," seemingly meaning that what is
   usually a thing's external, outer side is obscured by something covering it,
@@ -212,4 +212,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Mishpatim: Hidden Things](https://articles.ohr.edu/articles/mishpatim-hidden-things)," *What's in a Word?*, Ohr Somayach, 22 February 2025.
 
-Cited in the essay: Shemos 22:5 with Mechilta and Bava Kamma 60a-62a; Yirmiyahu 18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6, 140:6, 142:4; Bereishis 35:4, 41:36; Shemos 2:2, 2:12; Yehoshua 2:6; Shabbos 2:7, 4:1-2, 9:6, 16:1; Beitzah 2:6; Eduyos 3:10; Sanhedrin 10:6; Devarim 33:19 with Rashi, 33:21; Melachim I 6:9, 7:3; Rabbi Yosef Kimchi, *Sefer Zikaron*; Menachem Ibn Saruk, *Machberet Menachem*; Rabbi Shlomo Pappenheim; Shadal to Vayikra 11:5; Yechezkel 27:24; Esther 3:9, 4:7; Divrei HaYamim I 28:11; Ezra 1:8, 5:17, 6:1, 7:20, 7:21; Yeshayahu 39:6; Shmuel I 25:29; Pesachim 4:9; Middos 1:6; Shekalim 6:1-2; Bava Basra 11a; Daniel 3:2-3; Yeshayahu 4:6; Eichah 3:10; Midrash Shmuel 28:1; Midrash Shocher Tov to Tehillim 114; Bamidbar Rabbah 20:22; Tanchuma Lech Lecha 19 and Vayera 5; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LaVikah*, cited in *HaKsav VeHaKabbalah* to Bereishis 49:6; Hillel Halkin (Philologos), *Forward*, 19 August 2012.
+Cited in the essay: Shemos 22:5 with Mechilta and Bava Kamma 60a-62a; Yirmiyahu 18:22; Tehillim 9:16, 31:5, 35:7-8, 64:6, 140:6, 142:4; Bereishis 35:4, 41:36; Shemos 2:2, 2:12; Yehoshua 2:6; Shabbos 2:7, 4:1-2, 9:6, 16:1; Beitzah 2:6; Eduyos 3:10; Sanhedrin 10:6; Devarim 33:19 with Rashi, 33:21; Melachim I 6:9, 7:3; Rabbi Yosef Kimchi, *Sefer Zikaron*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim; Shadal to Vayikra 11:5; Yechezkel 27:24; Esther 3:9, 4:7; Divrei HaYamim I 28:11; Ezra 1:8, 5:17, 6:1, 7:20, 7:21; Yeshayahu 39:6; Shmuel I 25:29; Pesachim 4:9; Middos 1:6; Shekalim 6:1-2; Bava Basra 11a; Daniel 3:2-3; Yeshayahu 4:6; Eichah 3:10; Midrash Shmuel 28:1; Midrash Shocher Tov to Tehillim 114; Bamidbar Rabbah 20:22; Tanchuma Lech Lecha 19 and Vayera 5; Rabbi Yehuda Leib Shapira-Frankfurter, *HaRechasim LaVikah*, cited in *HaKsav VeHaKabbalah* to Bereishis 49:6; Hillel Halkin (Philologos), *Forward*, 19 August 2012.

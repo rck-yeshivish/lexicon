@@ -164,4 +164,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shemot: Hard Work and Hard Hearts](https://articles.ohr.edu/articles/shemot-hard-work-and-hard-hearts)," *What's in a Word?*, Ohr Somayach, 9 January 2021.
 
-Cited in the essay: Shemos 1:13-14, 6:9, 7:3, 25:31 with Rashi, 26:31, 37:22; Bamidbar 8:4; Vayikra 25:43 with *Toras Kohanim*, 25:53; Iyov 39:16 with Ibn Ezra; Yeshayahu 63:17 with *Michlal Yofi* and *Metzudas Tzion*; *Chullin* 46b; Tosafos to *Sukkah* 29b; Targum Onkelos to Shemos 1:13-14 and Vayikra 25:53; Radak, *Sefer HaShorashim*; *Ohel Moed* of Rabbi Shlomo of Urbino; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*.
+Cited in the essay: Shemos 1:13-14, 6:9, 7:3, 25:31 with Rashi, 26:31, 37:22; Bamidbar 8:4; Vayikra 25:43 with *Toras Kohanim*, 25:53; Iyov 39:16 with Ibn Ezra; Yeshayahu 63:17 with *Michlal Yofi* and *Metzudas Tzion*; *Chullin* 46b; Tosafos to *Sukkah* 29b; Targum Onkelos to Shemos 1:13-14 and Vayikra 25:53; Radak, *Sefer HaShorashim*; *Ohel Moed* of Rabbi Shlomo of Urbino; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*.

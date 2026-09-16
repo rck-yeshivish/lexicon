@@ -9,7 +9,7 @@ words:
   - he: שריקה
     tr: shreikah
     en: whistle
-    distinct: puckering the lips and exhaling (Ibn Prachon); the hiss through the teeth at a ruin once thriving (Rashi), and the call by which Hashem gathers the masses and His people home; with the mouth alone (Rabbi Yaakov Berger)
+    distinct: puckering the lips and exhaling (Ibn Parchon); the hiss through the teeth at a ruin once thriving (Rashi), and the call by which Hashem gathers the masses and His people home; with the mouth alone (Rabbi Yaakov Berger)
   - he: משרוקיתא
     tr: mashrokita
     en: whistling instrument
@@ -22,7 +22,7 @@ words:
     nk: שׁוּרֶק
 sources:
   - wiaw:11898 "Voeschanan - A Time to Whistle" (2025-08-09) https://articles.ohr.edu/articles/voeschanan-a-time-to-whistle
-authorities: [Rashi, Radak, Rabbi Shlomo Ibn Prachon, Menachem Ibn Saruk, Ibn Janach, Rabbi Moshe Kimchi, Rabbi Shlomo Pappenheim, Ibn Ezra, Maharsha, Rabbi Avraham Palagi, Rabbi Shlomo Tapiero, Ramban, Rema, Aruch HaShulchan, Tur, Rabbi Yaakov Berger, Rabbi Shaul Goldman, Rabbi Yissachar Shlomo Teichtal, Rabbi Amitai Ben-David, the Lubavitcher Rebbe, Rashaz, Rabbi Efrayim Greenblatt, Chazon Ish, Rabbi Chaim Kanievsky, Rabbi Yosef Yitzchok Lerner]
+authorities: [Rashi, Radak, Rabbi Shlomo Ibn Parchon, Menachem Ibn Saruk, Ibn Janach, Rabbi Moshe Kimchi, Rabbi Shlomo Pappenheim, Ibn Ezra, Maharsha, Rabbi Avraham Palagi, Rabbi Shlomo Tapiero, Ramban, Rema, Aruch HaShulchan, Tur, Rabbi Yaakov Berger, Rabbi Shaul Goldman, Rabbi Yissachar Shlomo Teichtal, Rabbi Amitai Ben-David, the Lubavitcher Rebbe, Rashaz, Rabbi Efrayim Greenblatt, Chazon Ish, Rabbi Chaim Kanievsky, Rabbi Yosef Yitzchok Lerner]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -55,7 +55,7 @@ Root ש-ר-ק.
 
 - Radak (*Sefer HaShorashim*, and to Zechariah 10:8) quite prosaically defines
   it broadly as moving the lips to produce a sound.
-- Rabbi Shlomo Ibn Prachon (*Machberes HeAruch*) expands on it: specifically
+- Rabbi Shlomo Ibn Parchon (*Machberes HeAruch*) expands on it: specifically
   puckering the lips and exhaling air through them; he adds that the vowel
   *shuruk* is related to the root because the mouth puckers to make its *oo*
   sound as though about to whistle.
@@ -209,4 +209,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Voeschanan - A Time to Whistle](https://articles.ohr.edu/articles/voeschanan-a-time-to-whistle)," *What's in a Word?*, Ohr Somayach, 9 August 2025.
 
-Cited in the essay: Bereishis 49:11; Vayikra 11:18, 14:4 (Rashi and Ramban); Devarim 14:17; Melachim I 9:8; Yeshayahu 5:26, 7:18, 8:19, 10:14, 29:4, 38:14, 52:7; Yirmiyahu 19:8, 25:9, 29:18, 50:13; Yechezkel 17:5 (Rabbi Moshe Kimchi); Zechariah 10:8 (Rashi, Radak); Eichah 2:15 to 16 (Rashi); Daniel 3:5 (Ibn Ezra, Rashi), 3:7, 3:10, 3:15; *Chullin* 63a; *Perek Shirah*; *Tur, Orach Chaim* §286; Rema and *Aruch HaShulchan, Orach Chaim* §338:1; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Ibn Prachon, *Machberes HeAruch*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shaul Goldman; Rabbi Yaakov Berger, *Milon Leshon Mikra* (unpublished); Maharsha to *Chullin* 63a; Rabbi Avraham Palagi, *Avraham Anochi* to Yeshayahu §52; Rabbi Shlomo Tapiero, *Mikveh HaMayim* to Yeshayahu 52:7; Rabbi Yissachar Shlomo Teichtal, *Eim HaBanim Semeichah* 2:12; Rabbi Amitai Ben-David, *Sichas Chullin* to *Chullin* 63a; the Lubavitcher Rebbe; the Rashaz, *Ohr Torah* to Bereishis 49:11; Rabbi Efrayim Greenblatt, *Rivevos Efrayim* 8:604; the *Chazon Ish*, cited in *Orchos Shabbos* ch. 21 fn. 60; Rabbi Chaim Kanievsky, in *Aliba D'Hilchasa* vol. 69 p. 83; Rabbi Yosef Yitzchok Lerner, *Shemiras HaGuf VeHaNefesh Tinyana* p. 454.
+Cited in the essay: Bereishis 49:11; Vayikra 11:18, 14:4 (Rashi and Ramban); Devarim 14:17; Melachim I 9:8; Yeshayahu 5:26, 7:18, 8:19, 10:14, 29:4, 38:14, 52:7; Yirmiyahu 19:8, 25:9, 29:18, 50:13; Yechezkel 17:5 (Rabbi Moshe Kimchi); Zechariah 10:8 (Rashi, Radak); Eichah 2:15 to 16 (Rashi); Daniel 3:5 (Ibn Ezra, Rashi), 3:7, 3:10, 3:15; *Chullin* 63a; *Perek Shirah*; *Tur, Orach Chaim* §286; Rema and *Aruch HaShulchan, Orach Chaim* §338:1; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shaul Goldman; Rabbi Yaakov Berger, *Milon Leshon Mikra* (unpublished); Maharsha to *Chullin* 63a; Rabbi Avraham Palagi, *Avraham Anochi* to Yeshayahu §52; Rabbi Shlomo Tapiero, *Mikveh HaMayim* to Yeshayahu 52:7; Rabbi Yissachar Shlomo Teichtal, *Eim HaBanim Semeichah* 2:12; Rabbi Amitai Ben-David, *Sichas Chullin* to *Chullin* 63a; the Lubavitcher Rebbe; the Rashaz, *Ohr Torah* to Bereishis 49:11; Rabbi Efrayim Greenblatt, *Rivevos Efrayim* 8:604; the *Chazon Ish*, cited in *Orchos Shabbos* ch. 21 fn. 60; Rabbi Chaim Kanievsky, in *Aliba D'Hilchasa* vol. 69 p. 83; Rabbi Yosef Yitzchok Lerner, *Shemiras HaGuf VeHaNefesh Tinyana* p. 454.

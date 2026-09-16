@@ -59,7 +59,7 @@ Root נ-ה-ג by the classical lexicographers (Ibn Saruk, Ibn Janach, Ibn Parcho
 Radak), about thirty times in Tanach, three of them in Shemos (3:1, 10:13,
 14:25). Rabbi Shlomo Pappenheim, as is his way, takes it back to the biliteral
 ה-ג, treating the opening nun as extraneous. He explains that two-letter root
-two ways, once in *Yerios Shlomo* and once in *Chesheik Shlomo*; Rabbi Klein
+two ways, once in *Yerios Shlomo* and once in *Cheshek Shlomo*; Rabbi Klein
 presents only the latter, which in his opinion is easier to follow. There the
 core sense is consistent action: *hogeh*/*hagus*/*higayon* is sustained thinking
 (Yehoshua 1:8, Mishlei 15:28, Tehillim 19:15, 49:4), and *hegeh* is sustained
@@ -247,4 +247,4 @@ Rabbi Reuven Chaim Klein, "[Bo: Follow the Leader (Part 1/2)](https://articles.o
 
 Rabbi Reuven Chaim Klein, "[Beshalach: Follow the Leader (Part 2/2)](https://articles.ohr.edu/articles/beshalach-follow-the-leader-part-22)," *What's in a Word?*, Ohr Somayach, 8 February 2025.
 
-Cited in the essay: Shemos 3:1, 10:13, 13:17, 13:21, 14:21, 14:25, 15:13, 32:34; Bereishis 31:26, 33:14, 36:31, 47:17; Vayikra 19:24; Devarim 8:2, 8:15; Yehoshua 1:8; Yeshayahu 2:2, 31:4, 38:14, 59:3, 59:11; Yirmiyahu 2:6, 31:12, 51:44; Michah 4:1; Tehillim 19:15, 31:4, 37:30, 49:4, 71:24, 77:21, 78:52, 136:16; Mishlei 8:7, 15:28; Iyov 24:3; Melachim II 9:20; Shmuel I 7:2; Nechemiah 9:12; Divrei HaYamim I 20:1; Rabbi Pappenheim, *Chesheik Shlomo* and *Yerios Shlomo*; Malbim to Shemos 10:13 and Tehillim 31:4; Rav Hirsch to Shemos 13:17; Rabbi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 47:17; Shadal to Bereishis 36:31; *Ohel Moed*; *Peirush HaMilos HaZaros*; Rabbi Shmuel Yehudah Steiger, *Avnei Shayish*; Mr. Yehoshua Yaron, *Mevo L'Midrash HaLashon*.
+Cited in the essay: Shemos 3:1, 10:13, 13:17, 13:21, 14:21, 14:25, 15:13, 32:34; Bereishis 31:26, 33:14, 36:31, 47:17; Vayikra 19:24; Devarim 8:2, 8:15; Yehoshua 1:8; Yeshayahu 2:2, 31:4, 38:14, 59:3, 59:11; Yirmiyahu 2:6, 31:12, 51:44; Michah 4:1; Tehillim 19:15, 31:4, 37:30, 49:4, 71:24, 77:21, 78:52, 136:16; Mishlei 8:7, 15:28; Iyov 24:3; Melachim II 9:20; Shmuel I 7:2; Nechemiah 9:12; Divrei HaYamim I 20:1; Rabbi Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Malbim to Shemos 10:13 and Tehillim 31:4; Rav Hirsch to Shemos 13:17; Rabbi Mecklenburg, *HaKsav VeHaKabbalah* to Bereishis 47:17; Shadal to Bereishis 36:31; *Ohel Moed*; *Peirush HaMilos HaZaros*; Rabbi Shmuel Yehudah Steiger, *Avnei Shayish*; Mr. Yehoshua Yaron, *Mevo L'Midrash HaLashon*.

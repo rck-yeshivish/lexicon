@@ -23,7 +23,7 @@ words:
 sources:
   - wiaw:7707 "Defining Freedom" (2018-03-31) https://articles.ohr.edu/articles/defining-freedom
   - wiaw:11687 "Yisro: Write it down" (2025-02-15) https://articles.ohr.edu/articles/yisro-write-it-down
-authorities: [Rashi, Ibn Ezra, Radak, Rabbeinu Yonah ibn Janach, Ramban, Sefer HaAruch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yitzchok Dov Bamberger, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Jonathan Sacks, Isaiah Berlin, Menachem Ibn Saruk]
+authorities: [Rashi, Ibn Ezra, Radak, Rabbeinu Yonah Ibn Janach, Ramban, Sefer HeAruch, Rabbi Shlomo Aharon Wertheimer, Rabbi Yitzchok Dov Bamberger, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Jonathan Sacks, Isaiah Berlin, Menachem Ibn Saruk]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -53,11 +53,11 @@ Root ד-ר-ר. First appears at the freeing of slaves in the Yovel year (Vayikra
 25:10). Rashi, following Rosh Hashanah 9b, ties it to *dar*, "dwells": the
 freed man dwells in his own domain and falls under no one else's control.
 The *dror* bird carries the same idea: Ibn Ezra says it sings when left to
-itself and starves rather than live in a man's domain, and *Sefer HaAruch*
+itself and starves rather than live in a man's domain, and *Sefer HeAruch*
 records the same; Radak (*Sefer HaShorashim*) says it nests in people's houses
 unafraid of capture, so free it does not reckon with being caught (see also
 Beitzah 24a). *Dror* also means "pure" of the myrrh of the anointing oil
-(Shemos 30:23): Rabbeinu Yonah ibn Janach and Ramban explain that the myrrh
+(Shemos 30:23): Rabbeinu Yonah Ibn Janach and Ramban explain that the myrrh
 must be free of adulteration. The word can sometimes be shortened to *dar*, as
 in Esther 1:6, of the tax exemption Achashverosh granted (Megillah 12a).
 
@@ -143,4 +143,4 @@ Rabbi Reuven Chaim Klein, "[Defining Freedom](https://articles.ohr.edu/articles/
 
 Rabbi Reuven Chaim Klein, "[Yisro: Write it down](https://articles.ohr.edu/articles/yisro-write-it-down)," *What's in a Word?*, Ohr Somayach, 15 February 2025.
 
-Cited in the essay: Vayikra 25:10 with Rashi; Rosh Hashanah 9b; Beitzah 24a; Radak, *Sefer HaShorashim* s.v. דרר; Eruvin 54a; *Shemos Rabbah* 32:1; Menachem Ibn Saruk; Shemos 30:23 with Ibn Janach and Ramban; Esther 1:6 with Megillah 12a; Shemos 21; Devarim 15; Yirmiyahu 34; Avos 6:2 on Shemos 32:16; Yirmiyahu 27:20 with Rashi; Rashi to Sotah 49a; Ibn Ezra; *Sefer HaAruch*; Rabbi Shlomo Aharon Wertheimer; Rabbi Yitzchok Dov Bamberger; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Jonathan Sacks; Isaiah Berlin.
+Cited in the essay: Vayikra 25:10 with Rashi; Rosh Hashanah 9b; Beitzah 24a; Radak, *Sefer HaShorashim* s.v. דרר; Eruvin 54a; *Shemos Rabbah* 32:1; Menachem Ibn Saruk; Shemos 30:23 with Ibn Janach and Ramban; Esther 1:6 with Megillah 12a; Shemos 21; Devarim 15; Yirmiyahu 34; Avos 6:2 on Shemos 32:16; Yirmiyahu 27:20 with Rashi; Rashi to Sotah 49a; Ibn Ezra; *Sefer HeAruch*; Rabbi Shlomo Aharon Wertheimer; Rabbi Yitzchok Dov Bamberger; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Jonathan Sacks; Isaiah Berlin.

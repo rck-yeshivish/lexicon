@@ -25,12 +25,12 @@ words:
   - he: פרעש
     tr: parosh
     en: flea
-    distinct: a black kinah that jumps, in ordinary speech a flea (*Metzudas Tziyon* to Shmuel I 24:15), the creature David compares himself to before Shaul
+    distinct: a black kinah that jumps, in ordinary speech a flea (*Metzudas Tzion* to Shmuel I 24:15), the creature David compares himself to before Shaul
   - he: כן
     nk: כֵּן
 sources:
   - wiaw:11666 "VaEra: Lice Ain't Nice" (2025-01-25) https://articles.ohr.edu/articles/vaera-lice-aint-nice
-authorities: [Ibn Janach, Menachem Ibn Saruk, Ibn Parchon, Radak, Rashbam, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Targum Onkelos, Targum Yonasan, Rashi, Metzudas Tziyon, Malbim, Rabbi Dovid Tzvi Hoffmann, Tosafos, Tosafos HaRosh, Sefer HeAruch, Rabbi Nosson of Rome, Ludovicus de Dieu, Shadal, Rosenmuller, Gesenius, Avraham Even-Shoshan, Alexander Kohut, Peretz Smolenskin, Chaim Tawil, Daniel Vainstub, Rabbi Dr. Yitzchak Greenblatt, Rabbi Shaul Goldman]
+authorities: [Ibn Janach, Menachem Ibn Saruk, Ibn Parchon, Radak, Rashbam, Ibn Ezra, Rabbi Shlomo Pappenheim, Rav Hirsch, Targum Onkelos, Targum Yonasan, Rashi, Metzudas Tzion, Malbim, Rabbi Dovid Tzvi Hoffmann, Tosafos, Tosafos HaRosh, Sefer HeAruch, Rabbi Nosson of Rome, Ludovicus de Dieu, Shadal, Rosenmuller, Gesenius, Avraham Even-Shoshan, Alexander Kohut, Peretz Smolenskin, Chaim Tawil, Daniel Vainstub, Rabbi Dr. Yitzchak Greenblatt, Rabbi Shaul Goldman]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -41,7 +41,7 @@ updated: 2026-09-10
 *Kinnim* is **lice**, the plural; *kinam* is the same creature named as a
 **species**; *kinah* is a single **louse**, a word of the Mishnah and Gemara
 rather than of Tanach. The Aramaic is *kalmta*, and in the Gemara *kalmei*. A
-*parosh* is a **flea**, for *Metzudas Tziyon* a black *kinah* that jumps. At
+*parosh* is a **flea**, for *Metzudas Tzion* a black *kinah* that jumps. At
 Yeshayahu 51:6 and Bamidbar 13:33 the standard reading of *kein* is "so,
 likewise"; certain commentators read it as "louse", a possibility first proposed
 at Yeshayahu 51:6 by the seventeenth century Dutch Protestant scholar Ludovicus
@@ -55,7 +55,7 @@ de Dieu and taken up by others, Malbim among them.
 | כנם | kinam | the lice | the species as a whole, not a count (the same lexicographers) |
 | כנה | kinah | a louse | the singular, Mishnaic and Talmudic only; at *Parah* 9:2, a grain pest |
 | קלמתא | kalmta | lice (Aramaic) | the Targum's rendering; the Gemara's *kalmei* is the same word (Rashi to Berachos 51b); Akkadian *kalmatu*, Canaanite and Arabic *qml* |
-| פרעש | parosh | flea | jumps and is black (*Metzudas Tziyon*) |
+| פרעש | parosh | flea | jumps and is black (*Metzudas Tzion*) |
 
 ## Where the authorities disagree
 
@@ -92,7 +92,7 @@ Hirsch's is the simpler explanation.
   hold two distinct words, *kinnim*, the plural of *kinah*, and *kinam*, cognate
   with the Aramaic. Rabbi Klein consulted Rabbi Dr. Yitzchak (Jared) Greenblatt
   and Rabbi Shaul Goldman, who agreed the supposition is tenable; and Dr.
-  Alexander Kohut, in *He'Aruch HaShaleim*, cites the maskilic scholar Peretz
+  Alexander Kohut, in *Aruch HaShalem*, cites the maskilic scholar Peretz
   Smolenskin that Talmudic Aramaic KAF-LAMMED-MEM is cognate with Biblical
   Hebrew KAF-NUN-MEM. Rabbi Klein puts his conclusion conditionally: if the
   supposition is correct, then KAF-NUN-MEM (Biblical Hebrew), KUF-MEM-LAMMED
@@ -168,7 +168,7 @@ root instead.
 David tells Shaul it is beneath a king to pursue him, comparing himself to a
 *parosh* (Shmuel I 24:15, 26:20).
 
-- *Metzudas Tziyon* (to 24:15): a black *kinah* that jumps, which in ordinary
+- *Metzudas Tzion* (to 24:15): a black *kinah* that jumps, which in ordinary
   speech is a flea.
 - Ibn Saruk, Ibn Janach, and Radak treat the root as the four-letter פ-ר-ע-ש.
 - Rav Hirsch (to Bereishis 25:6) includes it among four-letter roots that are
@@ -199,4 +199,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[VaEra: Lice Ain't Nice](https://articles.ohr.edu/articles/vaera-lice-aint-nice)," *What's in a Word?*, Ohr Somayach, 25 January 2025.
 
-Cited in the essay: Shemos 8:12 to 14 with Rashbam, Ibn Ezra, and Rav Hirsch; Tehillim 105:31; Bamidbar 13:33 with Malbim; Yeshayahu 51:6 with Targum Yonasan and Malbim, and 19:6, 33:9; Shmuel I 24:15 with *Metzudas Tziyon*, and 26:20; Bereishis 25:6 with Rav Hirsch; Ezra 2:3, 8:3, 10:25; Nechemiah 3:25, 7:8, 10:15; *Parah* 9:2; Shabbos 12a with Tosafos and *Tosafos HaRosh*, 12b, 107b; Berachos 51b with Rashi; Niddah 20b; Chullin 105b; Eruvin 65a; Chagigah 5a; Bava Metzia 107b; Zevachim 19a; *Sefer HeAruch* s.v. ס-ר-ק and כ-ל-ם; Kohut, *He'Aruch HaShaleim*; Pappenheim, *Cheshek Shlomo*; the 2022 Canaanite ivory comb inscription reported by Dr. Daniel Vainstub; the Sefire treaty inscriptions, with Prof. Chaim Tawil; Ludovicus de Dieu; Shadal, with Rosenmuller and Gesenius; Avraham Even-Shoshan's concordance.
+Cited in the essay: Shemos 8:12 to 14 with Rashbam, Ibn Ezra, and Rav Hirsch; Tehillim 105:31; Bamidbar 13:33 with Malbim; Yeshayahu 51:6 with Targum Yonasan and Malbim, and 19:6, 33:9; Shmuel I 24:15 with *Metzudas Tzion*, and 26:20; Bereishis 25:6 with Rav Hirsch; Ezra 2:3, 8:3, 10:25; Nechemiah 3:25, 7:8, 10:15; *Parah* 9:2; Shabbos 12a with Tosafos and *Tosafos HaRosh*, 12b, 107b; Berachos 51b with Rashi; Niddah 20b; Chullin 105b; Eruvin 65a; Chagigah 5a; Bava Metzia 107b; Zevachim 19a; *Sefer HeAruch* s.v. ס-ר-ק and כ-ל-ם; Kohut, *Aruch HaShalem*; Pappenheim, *Cheshek Shlomo*; the 2022 Canaanite ivory comb inscription reported by Dr. Daniel Vainstub; the Sefire treaty inscriptions, with Prof. Chaim Tawil; Ludovicus de Dieu; Shadal, with Rosenmuller and Gesenius; Avraham Even-Shoshan's concordance.

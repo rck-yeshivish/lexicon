@@ -14,14 +14,14 @@ words:
   - he: כוסברתא
     tr: kusbarta
     en: coriander
-    distinct: the Mishnaic and Aramaic word for coriander; parsed from two Hebrew roots meaning cut up or chewed (Rabbi Dovid Golumb); the double sense of Rebbi's coded answer to Antoninus (Rabbeinu Chananel, Rashi)
+    distinct: the Mishnaic and Aramaic word for coriander; parsed from two Hebrew roots meaning cut up or chewed (Rabbi David Golumb); the double sense of Rebbi's coded answer to Antoninus (Rabbeinu Chananel, Rashi)
   - he: גודגדניות
     tr: gudgedaniyos
     en: a Talmudic food
     distinct: a Talmudic food that Rashi renders with his Old French word for coriander, suggesting a tie to gad; a clover or a cherry (Jastrow)
 sources:
   - wiaw:8735 "A Coriander Conundrum" (2020-06-06) https://articles.ohr.edu/articles/a-coriander-conundrum
-authorities: [Targum Onkelos, Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi, Rashbam, Ralbag, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rav Hai Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Krinsky, Rabbi Dovid Golumb, Rabbeinu Chananel, Rabbi Natan of Rome, Tosafos Rabbeinu Elchanan, Tosafos HaRosh, Nimukei Yosef, Wilhelm Gesenius]
+authorities: [Targum Onkelos, Targum Yonasan, Menachem Ibn Saruk, Radak, Rashi, Rashbam, Ralbag, Ibn Ezra, Rabbi Yehudah Ibn Balaam, Rav Hai Gaon, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Krinsky, Rabbi David Golumb, Rabbeinu Chananel, Rabbi Natan of Rome, Tosafos Rabbeinu Elchanan, Tosafos HaRosh, Nimukei Yosef, Wilhelm Gesenius]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -93,7 +93,7 @@ in *Pesachim* 39a among the vegetables usable for maror), *Maasros* 3:9 and 4:5.
 - Linguists recognize both *kusbara* and *coriander* as belonging to very
   ancient languages, tracing *kusbara* to the Sanskrit *kustumbari*/*kustumburu*
   and *coriander* to *korijadana* in the proto-Greek known as Linear B.
-- That said, Rabbi Dovid Golumb (*Targumna*) parses *kusbara* from two Hebrew
+- That said, Rabbi David Golumb (*Targumna*) parses *kusbara* from two Hebrew
   roots meaning cut up, chewed or masticated, כ-ו-ס (or perhaps כ-ס-ס) and ב-ר
   (see Yechezkel 23:47).
 
@@ -164,4 +164,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[A Coriander Conundrum](https://articles.ohr.edu/articles/a-coriander-conundrum)," *What's in a Word?*, Ohr Somayach, 6 June 2020.
 
-Cited in the essay: Shemos 16:14 and 16:31, Bamidbar 11:7, with Targum Onkelos, Targum Yonasan, Rashi, the Rashbam, Radak, Ibn Ezra, and the Ralbag; *Machberes Menachem* and Radak's *Sefer HaShorashim* s.v. גד; Rav Hai Gaon as quoted by Rabbi Yehudah Ibn Balaam; Rabbi Yehuda Leib Krinsky, *Yahel Ohr*; Mishnah *Sheviis* 9:1, *Kilayim* 1:2, *Maasros* 3:9 and 4:5; *Pesachim* 39a and 63a; *Avodah Zarah* 10b with Rabbeinu Chananel, *Sefer HeAruch*, Rashi, *Tosafos Rabbeinu Elchanan*, *Tosafos HaRosh*, and *Nimukei Yosef*; *Shabbos* 109a; *Yoma* 75a; *Eruvin* 28a and *Gittin* 70a with Rashi; *Berachos* 57b; *Sefer HaTishbi*; Jastrow; Devarim 33:13-14; Shir HaShirim 4:13; Bereishis 24:53; Yechezkel 23:47; Rabbi Shlomo Pappenheim; Rabbi Dovid Golumb, *Targumna*; Wilhelm Gesenius; Dr. Ariel Shaveh; Rabbi Tzvi Mordechai Libber.
+Cited in the essay: Shemos 16:14 and 16:31, Bamidbar 11:7, with Targum Onkelos, Targum Yonasan, Rashi, the Rashbam, Radak, Ibn Ezra, and the Ralbag; *Machberes Menachem* and Radak's *Sefer HaShorashim* s.v. גד; Rav Hai Gaon as quoted by Rabbi Yehudah Ibn Balaam; Rabbi Yehuda Leib Krinsky, *Yahel Ohr*; Mishnah *Sheviis* 9:1, *Kilayim* 1:2, *Maasros* 3:9 and 4:5; *Pesachim* 39a and 63a; *Avodah Zarah* 10b with Rabbeinu Chananel, *Sefer HeAruch*, Rashi, *Tosafos Rabbeinu Elchanan*, *Tosafos HaRosh*, and *Nimukei Yosef*; *Shabbos* 109a; *Yoma* 75a; *Eruvin* 28a and *Gittin* 70a with Rashi; *Berachos* 57b; *Sefer HaTishbi*; Jastrow; Devarim 33:13-14; Shir HaShirim 4:13; Bereishis 24:53; Yechezkel 23:47; Rabbi Shlomo Pappenheim; Rabbi David Golumb, *Targumna*; Wilhelm Gesenius; Dr. Ariel Shaveh; Rabbi Tzvi Mordechai Libber.

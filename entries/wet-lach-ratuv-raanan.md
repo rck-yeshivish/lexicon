@@ -32,7 +32,7 @@ words:
     distinct: a Bavli word of fish and stones; wet (Rashi) against hearty, plump, or fat (the Aruch, Jastrow); Rabbi Klein suggests Rashi means sodden, so saturated as to be bloated; mysterious, from palmoni (Ralbag)
 sources:
   - wiaw:11276 "Titzaveh: Wet Words" (2024-02-24) https://articles.ohr.edu/articles/titzaveh-wet-words
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Parchon, Rabbi Moshe Tedeschi-Ashkenazi, Rashi, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rav Hirsch, Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno, Metzudas Zion, Malbim, Rabbi Nosson of Rome, Marcus Jastrow, Alexander Kohut, Ralbag, Rema, Ben Yehoyada, Rabbi Chaim Kanievsky]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Ibn Parchon, Rabbi Moshe Tedeschi-Ashkenazi, Rashi, Ibn Ezra, Rabbi Shlomo Pappenheim, Rabbi Avraham Bedersi, Rav Hirsch, Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno, Metzudas Tzion, Malbim, Rabbi Nosson of Rome, Marcus Jastrow, Alexander Kohut, Ralbag, Rema, Ben Yehoyada, Rabbi Chaim Kanievsky]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -152,7 +152,7 @@ more often in foreign loanwords, and the commentators instead relate it to
   reish-tes-peh, equal to *ratuv*'s reish-tes-beis by the peh-beis interchange.
 - A portmanteau of *ratuv* and *pash*, expansion: those who implicitly or
   explicitly follow this include Rabbi Yosef Kara, Rabbi Yosef Kimchi, Sforno,
-  *Metzudas Zion* (Iyov 33:25), Radak (Tehillim 103:5), and pseudo-Rashi
+  *Metzudas Tzion* (Iyov 33:25), Radak (Tehillim 103:5), and pseudo-Rashi
   (Nedarim 41a).
 - Malbim (Iyov 33:25), similarly, a portmanteau of *ratuv* and *tafash*,
   smeared.
@@ -184,7 +184,7 @@ Kanievsky's *Derech Chochmah* to the Rambam, *Hilchos Beis HaBechirah* 1:92).
 
 On the etymology, Dr. Marcus Jastrow (1829 to 1903) takes it as a cognate of
 Arabic *tafailam*, whose meaning is comparable with the *Aruch*'s definition.
-Dr. Alexander Kohut (1842 to 1894), in *HeAruch HaShaleim*, suggests the root
+Dr. Alexander Kohut (1842 to 1894), in *Aruch HaShalem*, suggests the root
 derives either from the Persian for a clump of dirt or from Greek *piloma*,
 *piloga*, *pilos* ("clay, mud, pile"), treated as though Hebrew. The Greek
 *piloma* in fact appears in some versions of Mishnah *Shabbos* 22:6 (the
@@ -226,4 +226,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Titzaveh: Wet Words](https://articles.ohr.edu/articles/titzaveh-wet-words)," *What's in a Word?*, Ohr Somayach, 24 February 2024.
 
-Cited in the essay: Bereishis 1:2 (Ralbag), 25:6 (Rav Hirsch), 30:37; Bamidbar 6:3; Devarim 12:2 (Ibn Ezra), 34:7; Shoftim 6:19-20, 16:7-8; Yechezkel 17:24, 21:3; Iyov 8:16, 24:8, 33:25; Tehillim 92:11, 92:15, 103:5 (Radak); Daniel 8:13; Esther 2:1; Mishnah *Demai* 2:3, *Nedarim* 7:1, 7:6, *Eduyos* 4:6, 5:4, *Menachos* 9:2, *Bechoros* 6:3, *Mikvaos* 9:2, *Niddah* 4:3, 7:2, *Tevul Yom* 3:6, *Uktzin* 2:2, *Pesachim* 7:2, *Zevachim* 3:4, *Chullin* 7:5, 9:1, *Taharos* 1:4, 1:9, 3:1, 8:8-9, *Keilim* 8:3-4, 10:8, *Machshirin* 3:5, *Shabbos* 22:6; Sukkah 10b; Berachos 25b; Yoma 78a; Beitzah 24b; Chagigah 12a; Zevachim 54a; Nedarim 41a, 52a; Rashi and Ibn Ezra to Iyov; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Moshe Tedeschi-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Yosef Kara; Rabbi Yosef Kimchi; Sforno; *Metzudas Zion*; Malbim; Rabbi Nosson of Rome, *Sefer HeAruch*; Marcus Jastrow; Alexander Kohut, *HeAruch HaShaleim*; Rabbi Chaim Kanievsky, *Derech Chochmah* to *Hilchos Beis HaBechirah* 1:92; the Rema, *Mechir Yayin* and *Toras HaOlah*; *Ben Yehoyada* to Chagigah 12a.
+Cited in the essay: Bereishis 1:2 (Ralbag), 25:6 (Rav Hirsch), 30:37; Bamidbar 6:3; Devarim 12:2 (Ibn Ezra), 34:7; Shoftim 6:19-20, 16:7-8; Yechezkel 17:24, 21:3; Iyov 8:16, 24:8, 33:25; Tehillim 92:11, 92:15, 103:5 (Radak); Daniel 8:13; Esther 2:1; Mishnah *Demai* 2:3, *Nedarim* 7:1, 7:6, *Eduyos* 4:6, 5:4, *Menachos* 9:2, *Bechoros* 6:3, *Mikvaos* 9:2, *Niddah* 4:3, 7:2, *Tevul Yom* 3:6, *Uktzin* 2:2, *Pesachim* 7:2, *Zevachim* 3:4, *Chullin* 7:5, 9:1, *Taharos* 1:4, 1:9, 3:1, 8:8-9, *Keilim* 8:3-4, 10:8, *Machshirin* 3:5, *Shabbos* 22:6; Sukkah 10b; Berachos 25b; Yoma 78a; Beitzah 24b; Chagigah 12a; Zevachim 54a; Nedarim 41a, 52a; Rashi and Ibn Ezra to Iyov; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach and Radak, *Sifrei HaShorashim*; Ibn Parchon, *Machberes HeAruch*; Rabbi Moshe Tedeschi-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*; Rabbi Avraham Bedersi, *Chosam Tochnis*; Rabbi Yosef Kara; Rabbi Yosef Kimchi; Sforno; *Metzudas Tzion*; Malbim; Rabbi Nosson of Rome, *Sefer HeAruch*; Marcus Jastrow; Alexander Kohut, *Aruch HaShalem*; Rabbi Chaim Kanievsky, *Derech Chochmah* to *Hilchos Beis HaBechirah* 1:92; the Rema, *Mechir Yayin* and *Toras HaOlah*; *Ben Yehoyada* to Chagigah 12a.

@@ -28,7 +28,7 @@ words:
     distinct: a Bavli hapax, Gavriel's kenigia with the Leviasan; war (Rabbeinu Gershom, Rashba) against hunting (Rashbam), which the Greek kynigia, hunting, supports
 sources:
   - wiaw:11889 "Chukas: Words for War" (2025-07-05) https://articles.ohr.edu/articles/chukas-words-for-war
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Theological Dictionary of the Old Testament, Netziv, Rabbi Yehudah Aryeh of Carpentras, Rabbi Binyamin Mussafia, Matnos Kehunah, Rabbi Natan of Rome, Dr. Alexander Kohut, Rabbeinu Gershom, Rashba, Rashbam, Rashi, Rabbi Shaul Goodman]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rav Hirsch, Rabbi Shlomo Pappenheim, Theological Dictionary of the Old Testament, Netziv, Rabbi Yehudah Aryeh of Carpentras, Rabbi Binyamin Mussafia, Matnos Kehunah, Rabbi Natan of Rome, Dr. Alexander Kohut, Rabbeinu Gershom, Rashba, Rashbam, Rashi, Rabbi Shaul Goldman]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -137,7 +137,7 @@ sukkah; the Gemara asks how mitzvos can be given then, and answers that Hashem
 does not come *b'tarunya* with His creations. Rabbi Klein says he always
 understood the word as *batrunya*, "battle," Hashem not fighting against His
 creations, but on further investigation it appears it should be read
-*b'tarunya*, the beis a preposition. Rabbi Binyamin Mussafia (*Musaf HeAruch*)
+*b'tarunya*, the beis a preposition. Rabbi Binyamin Mussafia (*Mussaf HeAruch*)
 writes that *tarunya* is a Hebraization of the Greek *tyronia*, tyranny. On this
 reading, Rabbi Klein explains, Hashem does not impose His will like a dictator,
 but in His benevolence always gives people another chance. The same Greek word
@@ -147,7 +147,7 @@ and 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7, 29:7, Divrei HaYamim I 12:20) as
 Rabbah 42:4 says Rome imposed a *tironya* on the nations; *Matnos Kehunah* there
 reads it as tyranny, that is, sovereignty or lordship, while Rabbi Natan of Rome
 (*Sefer HeAruch*) reads it as a tax for military funding, and Dr. Alexander
-Kohut (*HeAruch HaShaleim*) writes at great length to defend that reading.
+Kohut (*Aruch HaShalem*) writes at great length to defend that reading.
 
 ### kenigia (קניגיא)
 A hapax in the Bavli, so its precise meaning is not readily apparent: Gavriel is
@@ -168,7 +168,7 @@ original k to h in the Germanic languages (Greek *kardia*, *keras*, Latin
 *centum*; English *heart*, *horn*, *hundred*), *kyon* is related to English
 *hound* and Yiddish and German *hunt*, and *kynigia* to English *hunt*. Rabbi
 Klein once thought *kenigia* might be related to English *king*, German *Koenig*, and
-Yiddish *kenig*; Rabbi Shaul Goodman assured him that those belong with *kin*,
+Yiddish *kenig*; Rabbi Shaul Goldman assured him that those belong with *kin*,
 *kind*, and *genus*, for the regent's rightful parentage.
 
 ## Rendering guidance
@@ -180,7 +180,7 @@ Yiddish *kenig*; Rabbi Shaul Goodman assured him that those belong with *kin*,
   or literally "instruments of battle."
 - *Pulmus* with a Roman name attached: "the war of Vespasian," or "the Vespasian
   campaign." Never "the polemic," and never "the controversy."
-- *B'tarunya* in *Avodah Zarah* 3a: follow the *Musaf HeAruch*, as Rabbi Klein does, and render "Hashem does not act tyrannically toward His creatures,"
+- *B'tarunya* in *Avodah Zarah* 3a: follow the *Mussaf HeAruch*, as Rabbi Klein does, and render "Hashem does not act tyrannically toward His creatures,"
   noting the reading *batrunya*, "does not enter into battle with them," which
   Rabbi Klein says he once held, if the passage turns on it.
 - *Kenigia*: "do battle with" follows Rabbeinu Gershom and the Rashba; "hunt"
@@ -200,4 +200,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Chukas: Words for War](https://articles.ohr.edu/articles/chukas-words-for-war)," *What's in a Word?*, Ohr Somayach, 5 July 2025.
 
-Cited in the essay: Menachem Ibn Saruk, *Machberes Menachem*, and the *Sefer HaShorashim* of Ibn Janach and of Radak, s.v. ל-ח-ם; Rav Hirsch to Bereishis 3:19, 10:9, 14:2 and Tehillim 140:2; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ח-ם; *Theological Dictionary of the Old Testament*, vol. 7; Yerushalmi Beitzah 1:5; Vayikra Rabbah 3:3; Shir HaShirim Rabbah 4:30, 5:10; the Netziv, *Haamek Davar* to Bamidbar 28:2; Divrei HaYamim I 20:5; Eruvin 63b; Shemos 14:10; Devarim 2:19, 20:10; Bereishis 20:4; Vayikra 18:6; Devarim 22:14; Yeshayahu 8:3; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Zecharyah 14:3; Tehillim 78:9; Iyov 38:23; Koheles 9:18; *Sotah* 9:14; *Avodah Zarah* 2b-3a; Rabbi Binyamin Mussafia, *Musaf HeAruch*; Yehoshua 13:3, Shoftim 3:3, 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7, 29:7, Divrei HaYamim I 12:20 with the Targumim; Bereishis Rabbah 42:4 with *Matnos Kehunah*; Rabbi Natan of Rome, *Sefer HeAruch*; Dr. Alexander Kohut, *HeAruch HaShaleim*; *Bava Basra* 74b-75a with Rabbeinu Gershom, Rashbam, and Rashba; *Chullin* 60b with Rashi and Rabbeinu Gershom; Rabbi Shaul Goodman.
+Cited in the essay: Menachem Ibn Saruk, *Machberes Menachem*, and the *Sefer HaShorashim* of Ibn Janach and of Radak, s.v. ל-ח-ם; Rav Hirsch to Bereishis 3:19, 10:9, 14:2 and Tehillim 140:2; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* s.v. ח-ם; *Theological Dictionary of the Old Testament*, vol. 7; Yerushalmi Beitzah 1:5; Vayikra Rabbah 3:3; Shir HaShirim Rabbah 4:30, 5:10; the Netziv, *Haamek Davar* to Bamidbar 28:2; Divrei HaYamim I 20:5; Eruvin 63b; Shemos 14:10; Devarim 2:19, 20:10; Bereishis 20:4; Vayikra 18:6; Devarim 22:14; Yeshayahu 8:3; Rabbi Yehudah Aryeh of Carpentras, *Aholei Yehudah*; Zecharyah 14:3; Tehillim 78:9; Iyov 38:23; Koheles 9:18; *Sotah* 9:14; *Avodah Zarah* 2b-3a; Rabbi Binyamin Mussafia, *Mussaf HeAruch*; Yehoshua 13:3, Shoftim 3:3, 16:5-27, Shmuel I 5:8-11, 6:4, 6:16, 7:7, 29:7, Divrei HaYamim I 12:20 with the Targumim; Bereishis Rabbah 42:4 with *Matnos Kehunah*; Rabbi Natan of Rome, *Sefer HeAruch*; Dr. Alexander Kohut, *Aruch HaShalem*; *Bava Basra* 74b-75a with Rabbeinu Gershom, Rashbam, and Rashba; *Chullin* 60b with Rashi and Rabbeinu Gershom; Rabbi Shaul Goldman.

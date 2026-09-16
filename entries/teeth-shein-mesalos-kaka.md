@@ -126,7 +126,7 @@ teacher Shadal notes there) and the Mishnah's *malitin*, force-feeding (Shabbos
 24:3), and relates these roots as well to ל-ע-ס, to chew, in Rabbinic Hebrew
 (Shabbos 19:2, Pesachim 2:7, Niddah 9:7).
 
-- Rabbi Shlomo Ibn Parchon (twelfth century, *Machberes HaAruch*) instead makes
+- Rabbi Shlomo Ibn Parchon (twelfth century, *Machberes HeAruch*) instead makes
   *mesalos*/*malteos* especially long teeth protruding from a wild animal's
   mouth, that is, fangs.
 - A third way of differentiating, given without an author: *shein* is the
@@ -180,7 +180,7 @@ blemish in a *bechor* an outer *chit* that is deficient or cut, or an inner
   belong and the inner where the molars belong.
 - The Mainz commentary ascribed to Rabbeinu Gershom (there) reads *chit* as the
   teeth themselves, incisors and molars respectively, and Rabbi Nosson of Rome
-  (1035 to 1106) adopts that reading in *Sefer HaAruch*.
+  (1035 to 1106) adopts that reading in *Sefer HeAruch*.
 - The Rambam (to Bechoros 6:4) and others have a different girsa, *chut*, with a
   vav.
 
@@ -196,7 +196,7 @@ Bible yet do not appear in it.
 
 On the etymology:
 
-- Dr. Alexander Kohut (*HaAruch HaShaleim*) derives *chit* from ח-ט-ט, to dig or
+- Dr. Alexander Kohut (*Aruch HaShalem*) derives *chit* from ח-ט-ט, to dig or
   peck, the tooth digging into food and cutting it into smaller digestible
   pieces.
 - Rabbi Klein offers his own guess, that *chit* is related to *chitah*, wheat,
@@ -229,4 +229,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Showing Teeth](https://articles.ohr.edu/articles/showing-teeth)," *What's in a Word?*, Ohr Somayach, 22 April 2023.
 
-Cited in the essay: Bereishis 25:30; Shemos 21:24; Melachim I 10:18, 14:10, 22:39; Yeshayahu 57:19; Yoel 1:6; Amos 3:15, 4:6, 6:4; Malachi 1:12; Tehillim 3:8, 35:16, 45:9, 58:7; Mishlei 10:26, 23:2, 30:14, 31:9; Iyov 19:20, 29:17; Shir HaShirim 7:5; Ezra 5:8, 6:4; Divrei HaYamim II 9:17; Mishnah Shabbos 6:5, 19:2, 24:3, Pesachim 2:7, Rosh Hashanah 2:8, Bava Kamma 1:4, 2:2, 2:5, Chullin 1:2, Bechoros 6:4, 6:12, Keilim 13:2-8, Niddah 9:7; Berachos 56a; Shabbos 63b, 89b; Pesachim 113a; Yoma 84a; Kesubos 71a, 111b; Gittin 69a; Bava Kamma 2b, 3a, 83a; Avodah Zarah 28a; Chullin 59a; Bechoros 35a; Sifra, *Emor parshasa* 7:12; the Haggadah; Shulchan Aruch, Yoreh Deah 79:1; the Targumim; Menachem Ibn Saruk; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim; *Shoresh Yesha*; Rabbi David Chaim Chelouche; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Shadal to Bereishis 25:30; Rashi to Yoel 1:6, Mishlei 30:14, Berachos 56a, Shabbos 63b, Bava Kamma 3a and 83a, Chullin 59a and Bechoros 35a; *Biur HaGra* to Mishlei 31:9; Rabbi Shlomo Ibn Parchon, *Machberes HaAruch*; Tosafos to Bava Kamma 2b, Gittin 69a, Avodah Zarah 28a and Chullin 59a; Rabbeinu Chananel; the Mainz commentary ascribed to Rabbeinu Gershom to Bechoros 35a; Rabbi Nosson of Rome, *Sefer HaAruch*; Rambam to Bechoros 6:4; Dr. Daniel Vainstub and colleagues, *Jerusalem Journal of Archaeology* (2022); Dr. Alexander Kohut, *HaAruch HaShaleim*.
+Cited in the essay: Bereishis 25:30; Shemos 21:24; Melachim I 10:18, 14:10, 22:39; Yeshayahu 57:19; Yoel 1:6; Amos 3:15, 4:6, 6:4; Malachi 1:12; Tehillim 3:8, 35:16, 45:9, 58:7; Mishlei 10:26, 23:2, 30:14, 31:9; Iyov 19:20, 29:17; Shir HaShirim 7:5; Ezra 5:8, 6:4; Divrei HaYamim II 9:17; Mishnah Shabbos 6:5, 19:2, 24:3, Pesachim 2:7, Rosh Hashanah 2:8, Bava Kamma 1:4, 2:2, 2:5, Chullin 1:2, Bechoros 6:4, 6:12, Keilim 13:2-8, Niddah 9:7; Berachos 56a; Shabbos 63b, 89b; Pesachim 113a; Yoma 84a; Kesubos 71a, 111b; Gittin 69a; Bava Kamma 2b, 3a, 83a; Avodah Zarah 28a; Chullin 59a; Bechoros 35a; Sifra, *Emor parshasa* 7:12; the Haggadah; Shulchan Aruch, Yoreh Deah 79:1; the Targumim; Menachem Ibn Saruk; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim; *Shoresh Yesha*; Rabbi David Chaim Chelouche; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim*; Shadal to Bereishis 25:30; Rashi to Yoel 1:6, Mishlei 30:14, Berachos 56a, Shabbos 63b, Bava Kamma 3a and 83a, Chullin 59a and Bechoros 35a; *Biur HaGra* to Mishlei 31:9; Rabbi Shlomo Ibn Parchon, *Machberes HeAruch*; Tosafos to Bava Kamma 2b, Gittin 69a, Avodah Zarah 28a and Chullin 59a; Rabbeinu Chananel; the Mainz commentary ascribed to Rabbeinu Gershom to Bechoros 35a; Rabbi Nosson of Rome, *Sefer HeAruch*; Rambam to Bechoros 6:4; Dr. Daniel Vainstub and colleagues, *Jerusalem Journal of Archaeology* (2022); Dr. Alexander Kohut, *Aruch HaShalem*.

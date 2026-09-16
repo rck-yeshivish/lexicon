@@ -9,7 +9,7 @@ words:
   - he: עולם
     tr: olam
     en: for all time
-    distinct: a very long but bounded span, for the bondsman only to the Yovel (Rashi, Maharsha); a flat synonym of the others (Menachem ibn Saruk, Rabbi Yosef Kimchi); tied to al, above (Mecklenburg)
+    distinct: a very long but bounded span, for the bondsman only to the Yovel (Rashi, Maharsha); a flat synonym of the others (Menachem Ibn Saruk, Rabbi Yosef Kimchi); tied to al, above (Mecklenburg)
   - he: נצח
     tr: netzach
     en: forever, everlasting
@@ -27,7 +27,7 @@ words:
     nk: עַד
 sources:
   - wiaw:7633 "Forever and Ever" (2018-02-10) https://articles.ohr.edu/articles/forever-and-ever
-authorities: [Rashi, Rabbi Menachem ibn Saruk, Rabbi Yosef Kimchi, Maharsha, Rabbi Avraham ben Ezriel of Vienna, Rabbi Avraham ben Natan HaYarchi, Abudraham, Rabbi Yitzchak Abuhab, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Radak, Malbim, Meiri, Ibn Ezra, Rabbi Aviad Sar-Shalom Basilea, Rabbi Yaakov Emden, Rabbi Chaim Friedlander]
+authorities: [Rashi, Rabbi Menachem Ibn Saruk, Rabbi Yosef Kimchi, Maharsha, Rabbi Avraham ben Ezriel of Vienna, Rabbi Avraham ben Natan HaYarchi, Abudraham, Rabbi Yitzchak Abuhab, Rabbi Shlomo Aharon Wertheimer, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shlomo Pappenheim, Radak, Malbim, Meiri, Ibn Ezra, Rabbi Aviad Sar-Shalom Basilea, Rabbi Yaakov Emden, Rabbi Chaim Friedlander]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -39,7 +39,7 @@ On the Maharsha's reading of Eruvin 54a, *olam* is a very long but bounded span:
 **for all time**, and for the Hebrew bondsman "until the Yovel," not literally
 forever; *netzach*, *selah*, and *va'ed* are the truly unbounded words:
 **forever**, **everlasting**, **for all eternity**. That reading is not the only
-one: ibn Saruk and Rabbi Yosef Kimchi treat all four as flat synonyms, and Rabbi
+one: Ibn Saruk and Rabbi Yosef Kimchi treat all four as flat synonyms, and Rabbi
 Avraham ben Ezriel of Vienna limits the Gemara's finding to the verses where
 these words stand beside *olam*. Rashi to Shemos 21:6 caps *le'olam* at the
 fifty-year Yovel cycle, and the Maharsha builds on that. For the Maharsha, when
@@ -111,8 +111,8 @@ disputed:
 - Rabbi Avraham ben Ezriel of Vienna limits the Gemara's ruling to verses where
   they stand next to *olam*.
 - Maharsha takes it as a general lexical finding.
-- Rabbi Menachem ibn Saruk (*Machaberes Menachem*) and Rabbi Yosef Kimchi
-  (*Sefer HaGilui*) treat them as flat synonyms; Kimchi leaves *selah* off the
+- Rabbi Menachem Ibn Saruk (*Machberes Menachem*) and Rabbi Yosef Kimchi
+  (*Sefer HaGalui*) treat them as flat synonyms; Kimchi leaves *selah* off the
   list.
 - Rashi's own account of Eruvin 54a is the simple one: they mean the same
   because they appear together.
@@ -144,4 +144,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Forever and Ever](https://articles.ohr.edu/articles/forever-and-ever)," *What's in a Word?*, Ohr Somayach, 10 February 2018.
 
-Cited in the essay: Shemos 21:6 with Rashi; Eruvin 54a with Rashi and Maharsha; Tehillim 3:3 with Rashi, Meiri, Radak, Malbim and Ibn Ezra; Chavakuk 3:3 (Malbim); Iyov 28:16 (*suleh*); Targum Yonasan, Aquilas and the Peshitta; Radak, *Sefer HaShorashim*; ibn Saruk, *Machaberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGilui*; Rabbi Avraham ben Ezriel of Vienna; Rabbi Avraham ben Natan HaYarchi; Abudraham; Rabbi Yitzchak Abuhab; Rabbi Shlomo Aharon Wertheimer; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Aviad Sar-Shalom Basilea, *Emunas Chachamim*; Rabbi Yaakov Emden; Rabbi Chaim Friedlander.
+Cited in the essay: Shemos 21:6 with Rashi; Eruvin 54a with Rashi and Maharsha; Tehillim 3:3 with Rashi, Meiri, Radak, Malbim and Ibn Ezra; Chavakuk 3:3 (Malbim); Iyov 28:16 (*suleh*); Targum Yonasan, Aquilas and the Peshitta; Radak, *Sefer HaShorashim*; Ibn Saruk, *Machberes Menachem*; Rabbi Yosef Kimchi, *Sefer HaGalui*; Rabbi Avraham ben Ezriel of Vienna; Rabbi Avraham ben Natan HaYarchi; Abudraham; Rabbi Yitzchak Abuhab; Rabbi Shlomo Aharon Wertheimer; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Shlomo Pappenheim; Rabbi Aviad Sar-Shalom Basilea, *Emunas Chachamim*; Rabbi Yaakov Emden; Rabbi Chaim Friedlander.

@@ -17,7 +17,7 @@ words:
     distinct: outward, visible, reflected beauty, the moon's light (Vilna Gaon); the esrog's fruit, beautiful to the eye (Malbim); kingship's trappings without its essence (Rabbi Simcha Maimon); from Aramaic for returning (Rabbi Moshe Shapiro); of Hashem, His role in the world (Rav Hirsch)
 sources:
   - wiaw:7644 "The Beauty of Adar" (2018-02-17) https://articles.ohr.edu/articles/the-beauty-of-adar
-authorities: [Sefer HaKushyos, Rabbi Shlomo of Urbino, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shmuel Dovid Luzzatto, Malbim, Rabbi Simcha Maimon, Sifrei, Rav Hirsch]
+authorities: [Sefer HaKushyos, Rabbi Shlomo of Urbino, Vilna Gaon, Rabbi Moshe Shapiro, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Shmuel David Luzzatto, Malbim, Rabbi Simcha Maimon, Sifrei, Rav Hirsch]
 status: reviewed
 updated: 2026-09-10
 ---

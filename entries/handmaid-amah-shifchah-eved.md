@@ -71,7 +71,7 @@ words cross the line.
 - Rabbi Yaakov Tzvi Mecklenburg: the root, which he writes with a shin, sin or
   samech before peh and ches, denotes connection or addition, so a *shifchah* is
   joined to the mistress of the house, both expected to perform services for the
-  master (compare Kesuvos 59b, that a woman who brings a hundred *shefachos* into
+  master (compare Kesubos 59b, that a woman who brings a hundred *shefachos* into
   her marriage still owes certain chores herself); *mishpachah*, a family, is
   otherwise separate individuals connected by familial relations.
 - Others, including Rabbi Aharon Marcus and Rabbi Zev Hoberman: the root refers
@@ -146,4 +146,4 @@ Rabbi Reuven Chaim Klein, "[The Handmaid's Deal](https://articles.ohr.edu/articl
 
 Rabbi Reuven Chaim Klein, "[Family Matters](https://articles.ohr.edu/articles/family-matters)," *What's in a Word?*, Ohr Somayach, 20 November 2021.
 
-Cited in the essay: Bereishis 16, 20:17, 21, 25:12, 32:23, 33:2, 33:6; Shemos 21:4, 21:8-9; Vayikra 13:2, 25:44; Shmuel I 25; Kesuvos 59b; *Moshav Zekeinim* to Shemos 21:4; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Eliezer Reines, *Maftechos HaDamesek* (Warsaw 1898).
+Cited in the essay: Bereishis 16, 20:17, 21, 25:12, 32:23, 33:2, 33:6; Shemos 21:4, 21:8-9; Vayikra 13:2, 25:44; Shmuel I 25; Kesubos 59b; *Moshav Zekeinim* to Shemos 21:4; Rabbi Avraham Bedersi HaPenini; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Eliezer Reines, *Maftechos HaDamesek* (Warsaw 1898).

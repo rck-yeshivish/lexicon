@@ -24,7 +24,7 @@ words:
     distinct: the bundle or sheaf itself, of which a gadish is stacked (Rambam); grouped with chamarim and with amar, a statement, as a gathering of many into one (Rav Hirsch)
 sources:
   - wiaw:9534 "Piles and Piles" (2022-01-15) https://articles.ohr.edu/articles/piles-and-piles
-authorities: [Rambam, Rabbi Sherirah Gaon, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Machberet Menachem, Rasag, Donash Ibn Librat, Ibn Ezra, Rashbam, Rashi, Targum Onkelos, Chizkuni, Rabbi Chaim Paltiel, Sefer HaGan, Rabbi Aharon Marcus]
+authorities: [Rambam, Rabbi Sherirah Gaon, Rabbi Yaakov Emden, Rav Hirsch, Rabbi Shlomo Pappenheim, Machberes Menachem, Rasag, Donash Ibn Librat, Ibn Ezra, Rashbam, Rashi, Targum Onkelos, Chizkuni, Rabbi Chaim Paltiel, Sefer HaGan, Rabbi Aharon Marcus]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -58,7 +58,7 @@ including Yirmiyahu 50:26, Chaggai 2:16, Rus 3:7, Nechemiah 3:34 and 13:15, Shir
 HaShirim 7:3, and a cluster in Divrei HaYamim II 31:6-9; in Mishnaic Hebrew at
 *Terumos* 2:1, *Maasros* 1:5-6 and 5:7, and *Beitzah* 4:1. The same root also
 carries "cleverness" (Bereishis 3:1, Iyov 5:12, Mishlei 19:25) and "nakedness."
-- *Machberet Menachem* lists all three senses without intimating a connection
+- *Machberes Menachem* lists all three senses without intimating a connection
   between them.
 - Rav Hirsch (1808-1888, to Bereishis 2:25) ties "pile" to "cleverness": a pile
   is typically many items, each worth little alone, that can become something

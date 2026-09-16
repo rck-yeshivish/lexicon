@@ -17,7 +17,7 @@ words:
   - he: מאמר
     tr: maamar
     en: saying
-    distinct: the word for the Ten Sayings of creation (Avos 5:1), needing no raised voice with no listeners yet (Rabbi Klein); needing a listener to turn it into reality (Rav Hirsch); setting the framework for a dibbur (Sefer HaChachmah); Hashem's gift, taken as love (Rabbi Klein)
+    distinct: the word for the Ten Sayings of creation (Avos 5:1), needing no raised voice with no listeners yet (Rabbi Klein); needing a listener to turn it into reality (Rav Hirsch); setting the framework for a dibbur (Sefer HaChochmah); Hashem's gift, taken as love (Rabbi Klein)
   - he: דיברות
     tr: dibros
     en: sayings, Decalogue
@@ -25,7 +25,7 @@ words:
 sources:
   - wiaw:8272 "Shavuot Special Feature!" (2019-06-08) https://articles.ohr.edu/articles/shavuot-special-feature
   - wiaw:10940 "Bamidbar: Out in the Wild" (2023-05-20) https://articles.ohr.edu/articles/bamidbar-out-in-the-wild
-authorities: [Rashi, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Moshav Zekanim, Zohar, Sefer HaChachmah, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachaya, Vilna Gaon, Rabbi Pinchas Horowitz of Frankfurt, Netziv, Malbim, Rabbi Moshe Feinstein, Rabbi Shmuel Jaffa-Ashkenazi of Istanbul, Rabbi Shlomo Pappenheim, Rabbi Wolf Heidenheim, Ibn Ezra, Rabbi Yoel Ibn Shuaib, Rav Hirsch, Rav Saadia Gaon, Dunash ibn Labrat, Raavan, Rabbi Yonah Isaac Neiman of Makow, Rabbi Shmuel Shmelka Horowitz of Nikolsburg, Rabbi Kalonymus Kalman Epstein of Krakow, Rabbi Yaakov Yosef of Ostrog, Rabbi Shimon Maryles of Jaroslaw, Sifsei Chachamim, Bartenura, Targum, Menachem Ibn Saruk, Radak]
+authorities: [Rashi, Rabbi Yaakov Tzvi Mecklenburg, Maharal, Moshav Zekanim, Zohar, Sefer HaChochmah, Rabbi Elazar Rokeach of Worms, Rabbeinu Bachaya, Vilna Gaon, Rabbi Pinchas Horowitz of Frankfurt, Netziv, Malbim, Rabbi Moshe Feinstein, Rabbi Shmuel Jaffa-Ashkenazi of Istanbul, Rabbi Shlomo Pappenheim, Rabbi Wolf Heidenheim, Ibn Ezra, Rabbi Yoel Ibn Shuaib, Rav Hirsch, Rav Saadia Gaon, Dunash ibn Labrat, Raavan, Rabbi Yonah Isaac Neiman of Makow, Rabbi Shmuel Shmelka Horowitz of Nikolsburg, Rabbi Kalonymus Kalman Epstein of Krakow, Rabbi Yaakov Yosef of Ostrog, Rabbi Shimon Maryles of Jaroslaw, Sifsei Chachamim, Bartenura, Targum, Menachem Ibn Saruk, Radak]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -136,7 +136,7 @@ Why *Asarah Maamaros* for creation (*Avos* 5:1) and *Aseres HaDibros* at Sinai?
   creation each utterance took effect at once, while *dibbur* exists
   independently of the listener, the Decalogue being Hashem's revelation of His
   absolute will, which continues to exist whether or not anybody follows it.
-- *Sefer HaChachmah* (ascribed to the late twelfth century Ashkenazic scholar
+- *Sefer HaChochmah* (ascribed to the late twelfth century Ashkenazic scholar
   Rabbi Elazar Rokeach of Worms): *amirah* denotes setting up a framework and
   context within which a *dibbur* can be said, so on this understanding the
   *Asarah Maamaros* set up a reality within which the *Aseres HaDibros* can have
@@ -262,4 +262,4 @@ Rabbi Reuven Chaim Klein, "[Shavuot Special Feature!](https://articles.ohr.edu/a
 
 Rabbi Reuven Chaim Klein, "[Bamidbar: Out in the Wild](https://articles.ohr.edu/articles/bamidbar-out-in-the-wild)," *What's in a Word?*, Ohr Somayach, 20 May 2023.
 
-Cited in the essay: Bereishis 34:3, 42:30; Shemos 6:2, 13:1, 19:3, 32:7; Vayikra 10:19, 21:1; Bamidbar 12:1, 15:37, 22:5; Devarim 2:16, 26:17-18, 32:1; Yeshayahu 17:6; Tehillim 19:4, 47:4, 94:4; *Avos* 5:1; *Makkos* 11a; *Berachos* 6a; Zohar, *Idra Rabbah* (Naso) 132b, Bereishis 239b and Shemos 161a; Rashi to Shemos 6:2, 19:3, 32:7, Vayikra 10:19, Bamidbar 12:1 and Devarim 26:17-18; Rabbi Yaakov Tzvi Mecklenburg; Maharal, *Nesivos Olam*; *Moshav Zekanim* to Shemos 6:2; *Sefer HaChachmah*; Rabbeinu Bachaya to Shemos 13:1; the Vilna Gaon, including to Bamidbar 22:5; Rabbi Pinchas Horowitz of Frankfurt; the Netziv; Malbim; Rabbi Moshe Feinstein; Rabbi Shmuel Jaffa-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, with Rabbi Wolf Heidenheim's notes; Ibn Ezra and Rabbi Yoel Ibn Shuaib to Tehillim 19:4; Ibn Ezra to Devarim 26:17; Rav Hirsch; Rav Saadia Gaon; Dunash ibn Labrat; *Sifsei Chachamim* to Devarim 2:16; Bartenura to *Shekalim* 5:3; the Targumim; Raavan; Rabbi Yonah Isaac Neiman of Makow on *Akdamus*; Rabbi Shmuel Shmelka Horowitz of Nikolsburg; Rabbi Kalonymus Kalman Epstein of Krakow; Rabbi Yaakov Yosef of Ostrog; Rabbi Shimon Maryles of Jaroslaw; Menachem Ibn Saruk; Radak.
+Cited in the essay: Bereishis 34:3, 42:30; Shemos 6:2, 13:1, 19:3, 32:7; Vayikra 10:19, 21:1; Bamidbar 12:1, 15:37, 22:5; Devarim 2:16, 26:17-18, 32:1; Yeshayahu 17:6; Tehillim 19:4, 47:4, 94:4; *Avos* 5:1; *Makkos* 11a; *Berachos* 6a; Zohar, *Idra Rabbah* (Naso) 132b, Bereishis 239b and Shemos 161a; Rashi to Shemos 6:2, 19:3, 32:7, Vayikra 10:19, Bamidbar 12:1 and Devarim 26:17-18; Rabbi Yaakov Tzvi Mecklenburg; Maharal, *Nesivos Olam*; *Moshav Zekanim* to Shemos 6:2; *Sefer HaChochmah*; Rabbeinu Bachaya to Shemos 13:1; the Vilna Gaon, including to Bamidbar 22:5; Rabbi Pinchas Horowitz of Frankfurt; the Netziv; Malbim; Rabbi Moshe Feinstein; Rabbi Shmuel Jaffa-Ashkenazi; Rabbi Shlomo Pappenheim, *Yerios Shlomo*, with Rabbi Wolf Heidenheim's notes; Ibn Ezra and Rabbi Yoel Ibn Shuaib to Tehillim 19:4; Ibn Ezra to Devarim 26:17; Rav Hirsch; Rav Saadia Gaon; Dunash ibn Labrat; *Sifsei Chachamim* to Devarim 2:16; Bartenura to *Shekalim* 5:3; the Targumim; Raavan; Rabbi Yonah Isaac Neiman of Makow on *Akdamus*; Rabbi Shmuel Shmelka Horowitz of Nikolsburg; Rabbi Kalonymus Kalman Epstein of Krakow; Rabbi Yaakov Yosef of Ostrog; Rabbi Shimon Maryles of Jaroslaw; Menachem Ibn Saruk; Radak.

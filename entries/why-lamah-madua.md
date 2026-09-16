@@ -13,10 +13,10 @@ words:
   - he: מדוע
     tr: madua
     en: why, on what grounds
-    distinct: a contraction of mah deah, "what thinking" (Rabbeinu Yonah ibn Janach), so it asks what reasoning stands behind the thing; neutral for Rabbi Wertheimer, and for others the question that seeks an answer in earnest
+    distinct: a contraction of mah deah, "what thinking" (Rabbeinu Yonah Ibn Janach), so it asks what reasoning stands behind the thing; neutral for Rabbi Wertheimer, and for others the question that seeks an answer in earnest
 sources:
   - wiaw:7039 "Why? Which \"Why\"?" (2016-12-10) https://articles.ohr.edu/articles/why-which-why
-authorities: [Ibn Parchon, Radak, Rabbeinu Yonah ibn Janach, Ibn Ezra, Ramban, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Shlomo Aharon Wertheimer]
+authorities: [Ibn Parchon, Radak, Rabbeinu Yonah Ibn Janach, Ibn Ezra, Ramban, Rabbi Yaakov Tzvi Mecklenburg, Malbim, Rabbi Shlomo Aharon Wertheimer]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -75,7 +75,7 @@ command.
 ## Distinctions
 
 ### madua (מדוע)
-Rabbeinu Yonah ibn Janach (990 to 1050; *Sefer Rikmah*), cited also by Radak,
+Rabbeinu Yonah Ibn Janach (990 to 1050; *Sefer Rikmah*), cited also by Radak,
 reads it as a contraction of *mah deah*, "what thinking," as if asking what
 thinking or rationale lies behind an occurrence or an act. The explanation is
 also found in Ibn Ezra (to Shemos 18:14), and Ramban (to Bereishis 30:20)
@@ -109,4 +109,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Why? Which 'Why'?](https://articles.ohr.edu/articles/why-which-why)" *What's in a Word?*, Ohr Somayach, 10 December 2016.
 
-Cited in the essay: Ibn Parchon; Radak; Rabbeinu Yonah ibn Janach, *Sefer Rikmah* (cited also by Radak); Ibn Ezra to Shemos 18:14; Ramban to Bereishis 30:20; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah* to Shemos 5:4; the Malbim; Rabbi Shlomo Aharon Wertheimer.
+Cited in the essay: Ibn Parchon; Radak; Rabbeinu Yonah Ibn Janach, *Sefer Rikmah* (cited also by Radak); Ibn Ezra to Shemos 18:14; Ramban to Bereishis 30:20; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 5:4; the Malbim; Rabbi Shlomo Aharon Wertheimer.

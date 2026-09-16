@@ -2,7 +2,7 @@
 cluster: sheep and goats
 hebrew: [שה, צאן, עז, תיש, גדי, שעיר, רחל, איל, כבש, כשב, טלה, עתוד, יובל]
 roots: [ש-ה, צ-א-נ, ע-ז, ת-י-ש, ג-ד-י, ש-ע-ר, ר-ח-ל, א-י-ל, כ-ב-ש, כ-ש-ב, ט-ל-ה, ע-ת-ד, י-ב-ל]
-translit: [seh, tzon, tzon, eiz, ez, izzim, tayish, tayesh, gedi, gediya, seir, sair, seirah, seir izzim, tzfir, rachel, rechelim, ayil, eilim, keves, kevesh, kivsah, kesev, kisbah, tleh, tle, taleh, atud, atudim, yovel, karim, meri, meriim, zachar shel rechalim]
+translit: [seh, tzon, eiz, ez, izzim, tayish, tayesh, gedi, gediya, seir, sair, seirah, seir izzim, tzfir, rachel, rechelim, ayil, eilim, keves, kevesh, kivsah, kesev, kisbah, tleh, tle, taleh, atud, atudim, yovel, karim, meri, meriim, zachar shel rechalim]
 english: [lamb, flock, she-goat, he-goat, kid, ram, ewe, young sheep, buck, fatling]
 domain: nature
 words:
@@ -63,7 +63,7 @@ words:
     distinct: "the most obscure: a larger, stronger he-goat leading the flock (Ibn Ezra); tayish or gedi in Targum Onkelos; fattened young sheep (Peirush HaTur HaAruch, Rabbi Yosef Chiyyun); any adult male of either species (Ramban)"
 sources:
   - wiaw:8505 "The Ovine and Caprine Families" (2019-12-07) https://articles.ohr.edu/articles/the-ovine-and-caprine-families
-authorities: [Rabbi Shlomo Pappenheim, Rabbi David Ibn Zimra, Abarbanel, Rav Hirsch, Rambam, Rashi, Radak, Ibn Ezra, Ibn Parchon, Rabbi Yishaya of Trani, Turei Zahav, Panei'ach Raza, Baal HaTurim, Peirush HaRokeach, Netziv, Rabbi Shmuel Strashun, Malbim, Rabbi Meir Simcha of Dvinsk, Rabbi Aharon Marcus, Rabbi Yisrael David Miller of Grodno, Ramban, Rabbi Yosef Chiyyun, Rabbi Meir Mazuz, Aruch HaShulchan HeAsid, Pesikta Rabbasi, Peirush HaTur HaAruch]
+authorities: [Rabbi Shlomo Pappenheim, Rabbi David Ibn Zimra, Abarbanel, Rav Hirsch, Rambam, Rashi, Radak, Ibn Ezra, Ibn Parchon, Rabbi Yeshayah of Trani, Turei Zahav, Panei'ach Raza, Baal HaTurim, Peirush HaRokeach, Netziv, Rabbi Shmuel Strashun, Malbim, Rabbi Meir Simcha of Dvinsk, Rabbi Aharon Marcus, Rabbi Yisrael David Miller of Grodno, Ramban, Rabbi Yosef Chiyyun, Rabbi Meir Mazuz, Aruch HaShulchan HeAsid, Pesikta Rabbasi, Peirush HaTur HaAruch]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -157,7 +157,7 @@ The ram, plural *eilim*, the *rachel*'s counterpart (Menachos 13:7); *Parah* 1:3
 sets it at a male sheep more than a month into its second year. Pappenheim
 traces it to the aleph-lamed element of power, the ram being the strongest of a
 species that otherwise tends to be flimsy. Rabbinic Hebrew sometimes says *zachar shel rechalim*,
-"a male of the ewes," instead (*Parah* 3:3; *Bechoros* 5:3; Bava Kama 50a;
+"a male of the ewes," instead (*Parah* 3:3; *Bechoros* 5:3; Bava Kamma 50a;
 Yevamos 121b); the difference between that term and *ayil*
 is not readily apparent. Rabbi Yisrael David Miller of Grodno (1839-1913)
 suggests Chazal use it where a reader might otherwise confuse *ayil* with *ayal*,
@@ -171,7 +171,7 @@ year when such a horn is blown; the English "jubilee" derives from *yovel*.
 Rabbasi* expounds *keves* as though from *kevisah*, laundering, the sacrificial
 lamb washing away sin. In fourteen places the Torah writes *kesev* / *kisbah*
 instead. Three readings:
-- Ibn Parchon, Rabbi Yishaya of Trani, Radak, Ibn Ezra and other authorities cite
+- Ibn Parchon, Rabbi Yeshayah of Trani, Radak, Ibn Ezra and other authorities cite
   the pair as a quintessential case of metathesis, the two words meaning exactly
   the same thing. (Even so, *Turei Zahav*, *Orach Chaim* §143:2, rules a sefer
   Torah unfit if one is written for the other.)
@@ -247,4 +247,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[The Ovine and Caprine Families](https://articles.ohr.edu/articles/the-ovine-and-caprine-families)," *What's in a Word?*, Ohr Somayach, 7 December 2019.
 
-Cited in the essay: Bereishis 30:32 with Rav Hirsch, and 31:10 with Targum Onkelos, Ramban and *Peirush HaTur HaAruch*; Shemos 12:5, 23:19; Vayikra 1:10 with the Netziv, *HaEmek Davar*, 3:7 with *Panei'ach Raza* and *Baal HaTurim*, 4:32 with *Peirush HaRokeach*, and 16:5 with Abarbanel; Bamidbar 7:17 with Targum Onkelos, 15:11, and 15:25 with Ibn Ezra; Devarim 14:4, 32:2 with Rav Hirsch, 32:14; Yehoshua 6:4-5; Shmuel I 7:9; Yeshayahu 1:11 with Rashi and Ibn Ezra; Yirmiyahu 50:8, 51:40; Yechezkel 27:21; Tehillim 50:13 with Rabbi Yosef Chiyyun; Daniel 8:8, 8:21; Mishnah *Menachos* 13:7, *Bechoros* 5:3, *Parah* 1:3, 3:3; Rashi to Menachos 91b, 107b and to Megillah 5b; Bava Kama 50a; Yevamos 121b; Rosh Hashanah 26a; *Pesikta Rabbasi*; Rambam, *Hilchos Maaseh HaKorbanos* 1:14; *Aruch HaShulchan HeAsid*; *Turei Zahav*, *Orach Chaim* 143:2; Ibn Parchon; Rabbi Yishaya of Trani; Radak; Rabbi Shlomo Pappenheim; Rabbi David Ibn Zimra; Rabbi Shmuel Strashun; Malbim; Rabbi Meir Simcha of Dvinsk; Rabbi Aharon Marcus; Rabbi Yisrael David Miller of Grodno; Rabbi Meir Mazuz.
+Cited in the essay: Bereishis 30:32 with Rav Hirsch, and 31:10 with Targum Onkelos, Ramban and *Peirush HaTur HaAruch*; Shemos 12:5, 23:19; Vayikra 1:10 with the Netziv, *HaEmek Davar*, 3:7 with *Panei'ach Raza* and *Baal HaTurim*, 4:32 with *Peirush HaRokeach*, and 16:5 with Abarbanel; Bamidbar 7:17 with Targum Onkelos, 15:11, and 15:25 with Ibn Ezra; Devarim 14:4, 32:2 with Rav Hirsch, 32:14; Yehoshua 6:4-5; Shmuel I 7:9; Yeshayahu 1:11 with Rashi and Ibn Ezra; Yirmiyahu 50:8, 51:40; Yechezkel 27:21; Tehillim 50:13 with Rabbi Yosef Chiyyun; Daniel 8:8, 8:21; Mishnah *Menachos* 13:7, *Bechoros* 5:3, *Parah* 1:3, 3:3; Rashi to Menachos 91b, 107b and to Megillah 5b; Bava Kamma 50a; Yevamos 121b; Rosh Hashanah 26a; *Pesikta Rabbasi*; Rambam, *Hilchos Maaseh HaKorbanos* 1:14; *Aruch HaShulchan HeAsid*; *Turei Zahav*, *Orach Chaim* 143:2; Ibn Parchon; Rabbi Yeshayah of Trani; Radak; Rabbi Shlomo Pappenheim; Rabbi David Ibn Zimra; Rabbi Shmuel Strashun; Malbim; Rabbi Meir Simcha of Dvinsk; Rabbi Aharon Marcus; Rabbi Yisrael David Miller of Grodno; Rabbi Meir Mazuz.

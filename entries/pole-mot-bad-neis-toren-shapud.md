@@ -86,7 +86,7 @@ Roots:
   *mem* as extraneous and works from ט-ה, whose core sense is changing the
   present situation by inclining or turning: *natah*, *lematah*, *matah*,
   *mitah* (one inclines to lie down), *mateh* (leaned on while walking). In
-  *Cheishek Shlomo* he offers two readings of *mot* and says the pesukim cannot
+  *Cheshek Shlomo* he offers two readings of *mot* and says the pesukim cannot
   decide between them: either a thick pole, typically from the lower part of a
   tree, hence *lematah*, or a pole typically taken from a branch that turns out
   sideways from the trunk, hence *natah*. In *Yerios Shlomo* he simply calls a
@@ -121,7 +121,7 @@ gather in our exiles."
   The nearby triliteral נ-ס-ה is testing or training, as with Avraham (Bereishis
   22:1); *Machberes Menachem* takes even that word back to a one-letter root,
   samech.
-- Pappenheim (*Cheishek Shlomo*) traces *neis* instead to ש-א, whose main
+- Pappenheim (*Cheshek Shlomo*) traces *neis* instead to ש-א, whose main
   derivative is *nasa*, to lift and carry, with *sin* and *samech*
   interchanging: a *neis* as miracle is an event lifted out of the ordinary
   order of nature, and a *neis* as pole is the branch lifted above the rest of
@@ -217,4 +217,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shelach: Message on a Pole](https://articles.ohr.edu/articles/shelach-message-on-a-pole)," *What's in a Word?*, Ohr Somayach, 29 June 2024.
 
-Cited in the essay: Bereishis 17:20, 22:1, 39:12; Shemos 15:25, 25:13-15, 25:28, 27:7, 30:4, 37:5, 37:14, 37:27, 38:7; Vayikra 26:13; Bamidbar 4:10, 4:12, 13:23, 21:8-9; Yeshayahu 30:17, 33:23, 58:6; Yechezkel 27:5, 27:7, 30:18; Nachum 1:13; Tehillim 4:7; Zohar *Shelach* 160b; *Mechilta* to Shemos 15:25; *Tanchuma Vayeira* 43; Mishnah *Shabbos* 1:9, *Pesachim* 7:1-2, *Sukkah* 1:8, *Nedarim* 3:2, *Bava Kamma* 8:1, *Bava Metzia* 10:4, *Bava Basra* 1:6, 4:4-5, 5:1, *Shevuos* 3:8, *Avodah Zarah* 5:12, *Zevachim* 11:7, *Keilim* 5:5, 7:3, 12:3, 20:3, *Ohalos* 1:3, *Taharos* 10:1-2, 10:8, *Zavim* 4:7; Rambam's commentary to *Bava Basra* 5:1; Rashi to *Bava Basra* 73a and to Yeshayahu 30:17; Rav Hirsch to Bereishis 17:20, 22:1 and Tehillim 4:7; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Ibn Janach and Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheishek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; the Kaufmann manuscript of the Mishnah; Even Shoshan's concordance; Rabbi Ernest Klein; Doron Yaakov, *Academ* vol. 40 pp. 2-3; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* 120-125.
+Cited in the essay: Bereishis 17:20, 22:1, 39:12; Shemos 15:25, 25:13-15, 25:28, 27:7, 30:4, 37:5, 37:14, 37:27, 38:7; Vayikra 26:13; Bamidbar 4:10, 4:12, 13:23, 21:8-9; Yeshayahu 30:17, 33:23, 58:6; Yechezkel 27:5, 27:7, 30:18; Nachum 1:13; Tehillim 4:7; Zohar *Shelach* 160b; *Mechilta* to Shemos 15:25; *Tanchuma Vayeira* 43; Mishnah *Shabbos* 1:9, *Pesachim* 7:1-2, *Sukkah* 1:8, *Nedarim* 3:2, *Bava Kamma* 8:1, *Bava Metzia* 10:4, *Bava Basra* 1:6, 4:4-5, 5:1, *Shevuos* 3:8, *Avodah Zarah* 5:12, *Zevachim* 11:7, *Keilim* 5:5, 7:3, 12:3, 20:3, *Ohalos* 1:3, *Taharos* 10:1-2, 10:8, *Zavim* 4:7; Rambam's commentary to *Bava Basra* 5:1; Rashi to *Bava Basra* 73a and to Yeshayahu 30:17; Rav Hirsch to Bereishis 17:20, 22:1 and Tehillim 4:7; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*; Ibn Janach and Radak, *Sefer HaShorashim*; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo* and *Yerios Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; the Kaufmann manuscript of the Mishnah; Even Shoshan's concordance; Rabbi Ernest Klein; Doron Yaakov, *Academ* vol. 40 pp. 2-3; Rabbi Tzvi Matisyahu Abrahams, *Root Connections in the Torah* 120-125.

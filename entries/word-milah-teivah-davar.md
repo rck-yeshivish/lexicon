@@ -59,7 +59,7 @@ and in the Aramaic of Daniel. *Teivah* in the sense of "word" first appears
 only in later rabbinic writing.
 
 - Rabbi Eliyahu HaBachur (1469 to 1549, also known as Elias Levita), in *Mesores
-  HaMesores* and *Sefer Tishbi*, notes that many treat the two as identical and
+  HaMesores* and *Sefer HaTishbi*, notes that many treat the two as identical and
   disagrees: *milah* is the spoken word, *teivah* the written one.
 - Rabbi Yosef Teomim (1727 to 1792) differs slightly: *milah* covers both
   written and spoken, while *teivah* is written only.
@@ -179,4 +179,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Words for Words](https://articles.ohr.edu/articles/words-for-words)," *What's in a Word?*, Ohr Somayach, 23 October 2021.
 
-Cited in the essay: Bereishis 6 to 9; Bereishis 6:14 with Rav Hirsch; Bereishis 21:7 with Rabbeinu Efrayim; Shemos 2:3; Shmuel II 23:2; Tehillim 19:5, 106:2, 139:4; Mishlei 23:9; Iyov 8:2, 33:3; the Aramaic chapters of Daniel; *Megillah* 18a; *Yevamos* 13b; *Shabbos* 58b; *Sefer Yetzirah*; Rabbi Eliyahu HaBachur, *Mesores HaMesores* and *Sefer Tishbi*; Rabbi Yosef Teomim; Rabbi Shlomo Zalman of Hanau; *Peirush HaRokeach* and *Siddur HaRokeach*; Rabbi Yehuda Leib Shapira-Frankfurter; Rabbi Shlomo Pappenheim; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Aharon Marcus; Rabbi Shimon Yehuda Leib Goldblit; Alexander Kohut; Rabbi Moshe Shapiro; Rabbi Akiva Tatz; Rabbi Matityahu Glazerson; Faigy Peritzman, *Mishpacha*, 1 April 2020.
+Cited in the essay: Bereishis 6 to 9; Bereishis 6:14 with Rav Hirsch; Bereishis 21:7 with Rabbeinu Efrayim; Shemos 2:3; Shmuel II 23:2; Tehillim 19:5, 106:2, 139:4; Mishlei 23:9; Iyov 8:2, 33:3; the Aramaic chapters of Daniel; *Megillah* 18a; *Yevamos* 13b; *Shabbos* 58b; *Sefer Yetzirah*; Rabbi Eliyahu HaBachur, *Mesores HaMesores* and *Sefer HaTishbi*; Rabbi Yosef Teomim; Rabbi Shlomo Zalman of Hanau; *Peirush HaRokeach* and *Siddur HaRokeach*; Rabbi Yehuda Leib Shapira-Frankfurter; Rabbi Shlomo Pappenheim; Ibn Janach and Radak, *Sefer HaShorashim*; Rabbi Aharon Marcus; Rabbi Shimon Yehuda Leib Goldblit; Alexander Kohut; Rabbi Moshe Shapiro; Rabbi Akiva Tatz; Rabbi Matityahu Glazerson; Faigy Peritzman, *Mishpacha*, 1 April 2020.

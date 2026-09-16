@@ -9,7 +9,7 @@ words:
   - he: טוב
     tr: tov
     en: good
-    distinct: the plain and general word, the hypernym; Bedersi defines shefer as tov; Targum often renders it shapir, for approval and for physical beauty (Rabbi Eliyahu Bachur)
+    distinct: the plain and general word, the hypernym; Bedersi defines shefer as tov; Targum often renders it shapir, for approval and for physical beauty (Rabbi Eliyahu HaBachur)
   - he: נעם
     tr: noam
     en: pleasant
@@ -28,7 +28,7 @@ sources:
   - wiaw:7611 "Sweet and Pleasant" (2018-01-27) https://articles.ohr.edu/articles/sweet-and-pleasant
   - wiaw:9992 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-17) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn
   - wiaw:10060 "Nitzavim/Vayelech/RH: The Shofar's Horn" (2022-09-24) https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2
-authorities: [Rabbi Eliyahu Bachur, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rav Hirsch, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Shaul Goldman, Rabbi Reuven Chaim Klein, Vilna Gaon]
+authorities: [Rabbi Eliyahu HaBachur, Rabbi Moshe Shapiro, Rabbi Shlomo Pappenheim, Rav Hirsch, Ibn Janach, Radak, Menachem Ibn Saruk, Rabbi Avraham Bedersi, Rabbi Shaul Goldman, Rabbi Reuven Chaim Klein, Vilna Gaon]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -60,7 +60,7 @@ one pasuk (Bereishis 49:14).
 ## Distinctions
 
 ### tov (טוב)
-Root ט-ו-ב. The hypernym. Rabbi Eliyahu Bachur (*Meturgeman*): Targum often
+Root ט-ו-ב. The hypernym. Rabbi Eliyahu HaBachur (*Meturgeman*): Targum often
 renders *tov* as *shapir* in two kinds of place, approval, something "good in
 his eyes" (Vayikra 10:20; Bamidbar 24:1; some Targum texts read *takin*), and
 physical beauty (Bereishis 6:2; Shmuel I 8:16, 9:2; Melachim I 20:3), where it
@@ -187,4 +187,4 @@ Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://art
 
 Rabbi Reuven Chaim Klein, "[Nitzavim/Vayelech/RH: The Shofar's Horn](https://articles.ohr.edu/articles/nitzavimvayelechrh-the-shofars-horn-2)," *What's in a Word?*, Ohr Somayach, 24 September 2022.
 
-Cited in the essay: Bereishis 4:22, 30:3-9, 30:14-18, 46:13, 49:14, 49:21; Melachim I 14:21, 14:31; Melachim II 5:2-27; Divrei HaYamim II 12:13; Tehillim 16:6; Iyov 26:13; Daniel 3:32, 4:24, 6:2; Rabbi Eliyahu Bachur, *Meturgeman*, on Targum to Vayikra 10:20, Bamidbar 24:1, Bereishis 6:2, 12:11, 29:17, 41:2, Shmuel I 8:16, 9:2, Melachim I 20:3; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo* s.v. נעם; Rav Hirsch to Bereishis 5:30, and to 5:1 and 49:11; the Vilna Gaon on *naim* and *matok*; Ibn Janach and Radak, *Sefer HaShorashim* s.v. שפר and נעם; *Machberes Menachem*; Bedersi, *Chotam Tochnit* s.v. שפר / נעם; Rabbi Moshe Shapiro; Bereishis Rabbah 98:12; Zohar Vayechi 242b; Midrash Shocher Tov to Tehillim 81:4; Sotah 13a; Midrash Aggadah to Bereishis 49:21; Kiddushin 22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim 21:11; Divrei HaYamim I 12:33; Yoma 26a; Targum Yonasan to Bereishis 46:13; Rabbi Shaul Goldman in private correspondence with the author.
+Cited in the essay: Bereishis 4:22, 30:3-9, 30:14-18, 46:13, 49:14, 49:21; Melachim I 14:21, 14:31; Melachim II 5:2-27; Divrei HaYamim II 12:13; Tehillim 16:6; Iyov 26:13; Daniel 3:32, 4:24, 6:2; Rabbi Eliyahu HaBachur, *Meturgeman*, on Targum to Vayikra 10:20, Bamidbar 24:1, Bereishis 6:2, 12:11, 29:17, 41:2, Shmuel I 8:16, 9:2, Melachim I 20:3; Rabbi Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo* s.v. נעם; Rav Hirsch to Bereishis 5:30, and to 5:1 and 49:11; the Vilna Gaon on *naim* and *matok*; Ibn Janach and Radak, *Sefer HaShorashim* s.v. שפר and נעם; *Machberes Menachem*; Bedersi, *Chotam Tochnit* s.v. שפר / נעם; Rabbi Moshe Shapiro; Bereishis Rabbah 98:12; Zohar Vayechi 242b; Midrash Shocher Tov to Tehillim 81:4; Sotah 13a; Midrash Aggadah to Bereishis 49:21; Kiddushin 22a; Sifrei Ki Seitzei 211; Ibn Ezra to Devarim 21:11; Divrei HaYamim I 12:33; Yoma 26a; Targum Yonasan to Bereishis 46:13; Rabbi Shaul Goldman in private correspondence with the author.

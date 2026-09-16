@@ -17,7 +17,7 @@ words:
     distinct: literally exiting, taking leave; the Rabbinic word for leaving This World for the Next, generally reserved for the righteous and implying continuation, the body left exempt once the soul departs (Rabbi Klein); the tzaddik exempted from suffering (Rabbi Avraham Chaim Schor)
 sources:
   - wiaw:10907 "Acharei Mos: Confronting Death" (2024-05-04) https://articles.ohr.edu/articles/acharei-mos-confronting-death
-authorities: [Rabbi Yehuda Chayyuj, Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Menachem ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Avraham Chaim Schor]
+authorities: [Rabbi Yehuda Chayyuj, Ibn Janach, Rabbi Shlomo Ibn Parchon, Radak, Menachem Ibn Saruk, Rabbi Shlomo Pappenheim, Rabbi Moshe Shapiro, Rabbi Avraham Chaim Schor]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -45,7 +45,7 @@ continuation. *Nifter* is "passed away" or "departed."
 
 - The triliteralists (Rabbi Yehuda Chayyuj, Ibn Janach, Ibn Parchon, Radak)
   trace it to מ-ו-ת.
-- the biliteralists (Menachem ibn Saruk in *Machberes Menachem*, Rabbi Shlomo
+- the biliteralists (Menachem Ibn Saruk in *Machberes Menachem*, Rabbi Shlomo
   Pappenheim in *Yerios Shlomo* and *Cheshek Shlomo*) to מ-ת.
 
 Cognates of these roots appear close to a thousand times in Tanach, by Even

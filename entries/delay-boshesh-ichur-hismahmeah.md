@@ -23,7 +23,7 @@ words:
 sources:
   - wiaw:8644 "Better Late Than …….." (2020-03-14) https://articles.ohr.edu/articles/better-late-than-aeuraeur
   - wiaw:9907 "An Utter Embarrassment" (2022-09-17) https://articles.ohr.edu/articles/an-utter-embarrassment
-authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Saba, Rav Hirsch, Rabbi Dovid Golumb, Rabbi Aharon Marcus, Rabbi Chanoch Zundel of Bialystok, Piskei HaRosh, Talmidei Rabbeinu Yonah, Maadanei Yom Tov, Isaac Satanow]
+authorities: [Rashi, Malbim, Rabbi Shlomo Pappenheim, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Avraham Saba, Rav Hirsch, Rabbi David Golumb, Rabbi Aharon Marcus, Rabbi Chanoch Zundel of Bialystok, Piskei HaRosh, Talmidei Rabbeinu Yonah, Maadanei Yom Tov, Isaac Satanow]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -116,7 +116,7 @@ Five accounts of why the same root gives lateness and shame.
 - Rav Hirsch: the root's core is disappointment, and shame is disappointment in
   oneself upon seeing one's own shortcoming, while *boshesh* is a delay so long
   that those waiting are disappointed in the man and give up on him.
-- Rabbi Dovid Golumb (*Targumna*): one who is shamed is so belittled and ashamed
+- Rabbi David Golumb (*Targumna*): one who is shamed is so belittled and ashamed
   that nobody views him as important, and the upshot is that he is no longer
   deemed worth waiting for when he is delayed (*boshesh*).
 - Rabbi Aharon Marcus: the core of ב-ש is something being delayed or withheld,

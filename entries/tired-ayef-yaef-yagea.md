@@ -50,7 +50,7 @@ persistence of *ayef*.
 **Whether ayef and yaef differ at all.**
 
 - Some explain that they do not: the two are one word by metathesis, the ayin
-  and yud trading places. Rabbi Yishaya of Trani, the Rid, compares the case to
+  and yud trading places. Rabbi Yeshayah of Trani, the Rid, compares the case to
   another well-known pair of metathetical synonyms, *kesev* and *keves*, both
   "lamb" in Tanach.
 - Rabbi Shimon Schwab says they differ in degree, and reads the morning berachah
@@ -120,4 +120,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Energizing the Tired and Exhausted](https://articles.ohr.edu/articles/energizing-the-tired-and-exhausted)," *What's in a Word?*, Ohr Somayach, 28 October 2017.
 
-Cited in the essay: Yeshayahu 40:29; Devarim 25:18; Shmuel II 17:2; Koheles 1:8; Iyov 22:7; Tehillim 63:2; the Rid (Rabbi Yishaya of Trani), comparing *kesev* and *keves*; Rabbi Shimon Schwab on *ha'nosen la'yaef koach*; Rabbi Shlomo Aharon Wertheimer; Radak, *Sefer HaShorashim*; Rabbi Yosef of Saragossa; Malbim.
+Cited in the essay: Yeshayahu 40:29; Devarim 25:18; Shmuel II 17:2; Koheles 1:8; Iyov 22:7; Tehillim 63:2; the Rid (Rabbi Yeshayah of Trani), comparing *kesev* and *keves*; Rabbi Shimon Schwab on *ha'nosen la'yaef koach*; Rabbi Shlomo Aharon Wertheimer; Radak, *Sefer HaShorashim*; Rabbi Yosef of Saragossa; Malbim.

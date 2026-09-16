@@ -2,7 +2,7 @@
 cluster: second month
 hebrew: [זו, זיו, אייר, אויר]
 roots: [ז-ו, ז-י-ו]
-translit: [ziv, ziw, iyar, iyyar, iyar, avir, aveir, zivsanei olam, zivtanei olam]
+translit: [ziv, ziw, iyar, iyyar, avir, aveir, zivsanei olam, zivtanei olam]
 english: [Ziv, radiance, splendor, Iyar, air]
 domain: time
 words:

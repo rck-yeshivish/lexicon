@@ -30,7 +30,7 @@ words:
     distinct: a retinue or court, mostly Hashem's angelic host but also a human court; Greek for camp (Rambam), or Latin familia (Rabbi Eliyahu HaBachur, Alexander Kohut)
 sources:
   - wiaw:9448 "Family Matters" (2021-11-20) https://articles.ohr.edu/articles/family-matters
-authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Yehudah Aryeh of Carpentras, HaKtav V'HaKabbalah, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Rambam, Sefer HaAruch, Rabbi Eliyahu HaBachur, Rabbi Gedaliah Lipschutz, Rabbi Eliezer Herstik, Alexander Kohut]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Ibn Chayyuj, Radak, Rashi, Rabbi Shlomo Pappenheim, Rabbi Samson Raphael Hirsch, Rabbi Yehudah Aryeh of Carpentras, HaKtav V'HaKabbalah, Rabbi Aharon Marcus, Rabbi Zev Hoberman, Rambam, Sefer HeAruch, Rabbi Eliyahu HaBachur, Rabbi Gedaliah Lipschutz, Rabbi Eliezer Herstik, Alexander Kohut]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -142,7 +142,7 @@ On its origin:
 - Rambam (*Moreh Nevuchim* 2:6) says it is the Greek for "camp" (rendered
   *machaneh* in the standard Hebrew, *tzava* in the Kapach edition), and *Sefer
   HaAruch* defines it as a company of soldiers.
-- Rabbi Eliyahu HaBachur (*Sefer Tishbi*) reads it with an initial feh rather
+- Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) reads it with an initial feh rather
   than peh and a chirik under the mem rather than a patach, and on that reading
   identifies the word with Latin *familia*. Alexander Kohut bolsters the
   connection by noting that the Yerushalmi spells the word with a yod between
@@ -188,4 +188,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Family Matters](https://articles.ohr.edu/articles/family-matters)," *What's in a Word?*, Ohr Somayach, 20 November 2021.
 
-Cited in the essay: Bereishis 2:23, 6:14, 24:38 with *HaKtav V'HaKabbalah*, 32:9, 33:8, 35:2, 42:19 and 45:2 with Rashi; Shemos 21:10, 25:11, 37:2; Vayikra 13:2, 18:6, 21:2; Bamidbar 27:11; Devarim 14:26; Melachim I 7:9; Berachos 16b-17a with Rashi; Gittin 52a with Rashi; Kesubos 47b; Sotah 11a; Chagigah 13b; Yevamos 22b; Bava Basra 109b; Sanhedrin 38b, 67b, 99b; Chullin 7b; Yerushalmi Sotah 5:6; Rav Hirsch to Bereishis 32:3 and Vayikra 25:5; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak, *Sefer HaShorashim*; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Zev Hoberman; Rambam, *Moreh Nevuchim* 2:6; *Sefer HaAruch* s.v. פמליא; Rabbi Eliyahu HaBachur, *Sefer Tishbi*; Rabbi Gedaliah Lipschutz, *Regel Yesharah* to Derech Eretz Zuta ch. 4; Rabbi Eliezer Herstik; Alexander Kohut; *Oxford English Dictionary*.
+Cited in the essay: Bereishis 2:23, 6:14, 24:38 with *HaKtav V'HaKabbalah*, 32:9, 33:8, 35:2, 42:19 and 45:2 with Rashi; Shemos 21:10, 25:11, 37:2; Vayikra 13:2, 18:6, 21:2; Bamidbar 27:11; Devarim 14:26; Melachim I 7:9; Berachos 16b-17a with Rashi; Gittin 52a with Rashi; Kesubos 47b; Sotah 11a; Chagigah 13b; Yevamos 22b; Bava Basra 109b; Sanhedrin 38b, 67b, 99b; Chullin 7b; Yerushalmi Sotah 5:6; Rav Hirsch to Bereishis 32:3 and Vayikra 25:5; Menachem Ibn Saruk; Ibn Chayyuj; Ibn Janach; Radak, *Sefer HaShorashim*; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehuda*; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Zev Hoberman; Rambam, *Moreh Nevuchim* 2:6; *Sefer HeAruch* s.v. פמליא; Rabbi Eliyahu HaBachur, *Sefer HaTishbi*; Rabbi Gedaliah Lipschutz, *Regel Yesharah* to Derech Eretz Zuta ch. 4; Rabbi Eliezer Herstik; Alexander Kohut; *Oxford English Dictionary*.

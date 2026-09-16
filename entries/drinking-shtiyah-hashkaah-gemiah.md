@@ -68,7 +68,7 @@ Menachem*) gives the biliteral ש-ת. Rabbi Shlomo Pappenheim reads that biliter
 as putting a thing in its proper place, gathering *shasos* (a foundation
 deliberately set beneath a structure, Tehillim 11:3), *shes* (the body's own
 foundation), *shesi* (the warp running the length of a weave; Rav Hirsch to
-Vayikra 13:48), and *mashtin* and *shesen*. In *Cheishek Shlomo* he applies it to
+Vayikra 13:48), and *mashtin* and *shesen*. In *Cheshek Shlomo* he applies it to
 drinking: liquid helps the digestive system settle food into its place and draw
 its full nourishment, which is why wherever Tanach juxtaposes the two verbs,
 drinking follows eating. In *Yerios Shlomo* he puts it slightly differently:
@@ -188,4 +188,4 @@ Rabbi Reuven Chaim Klein, "[Chayei Sarah: Take a Drink](https://articles.ohr.edu
 
 Rabbi Reuven Chaim Klein, "[Vayakhel/Pekudei: Animal Sounds](https://articles.ohr.edu/articles/vayakhelpekudei-animal-sounds)," *What's in a Word?*, Ohr Somayach, 13 March 2021.
 
-Cited in the essay: Bereishis 2:6, 15:2, 24:14-24:46, 40:23; Vayikra 13:48; Bamidbar 33:52; Yeshayahu 33:4; Tehillim 11:3; Mishlei 28:15 with the Vilna Gaon; Iyov 39:30; Shabbos 8:1, 14:4, and 77a; Chullin 2:9; Parah 2:5; *Machberes Menachem*; *Cheishek Shlomo*; *Yerios Shlomo*; Shadal, citing Antoine-Chrysostome Quatremère de Quincy; Rabbi Ernest Klein.
+Cited in the essay: Bereishis 2:6, 15:2, 24:14-24:46, 40:23; Vayikra 13:48; Bamidbar 33:52; Yeshayahu 33:4; Tehillim 11:3; Mishlei 28:15 with the Vilna Gaon; Iyov 39:30; Shabbos 8:1, 14:4, and 77a; Chullin 2:9; Parah 2:5; *Machberes Menachem*; *Cheshek Shlomo*; *Yerios Shlomo*; Shadal, citing Antoine-Chrysostome Quatremère de Quincy; Rabbi Ernest Klein.

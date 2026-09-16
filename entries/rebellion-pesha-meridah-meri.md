@@ -15,7 +15,7 @@ words:
     tr: meridah
     en: revolt
     nk: מְרִידָה
-    distinct: revolt as a counter-response, throwing off a present ruler; the subjects asserting control, mem reversing ר-ד, lording over (Pappenheim); shares letters with merudim, downtrodden, joined by Rav Hirsch and split by Machberet Menachem
+    distinct: revolt as a counter-response, throwing off a present ruler; the subjects asserting control, mem reversing ר-ד, lording over (Pappenheim); shares letters with merudim, downtrodden, joined by Rav Hirsch and split by Machberes Menachem
   - he: מרי
     tr: meri
     en: defiance
@@ -25,7 +25,7 @@ words:
     nk: מוֹרֶה
 sources:
   - wiaw:9245 "Revolting Revolutions" (2021-06-12) https://articles.ohr.edu/articles/revolting-revolutions
-authorities: [Rashi, Midrash Tanchuma, Rabbi Shlomo Pappenheim, Targum, Rabbi Yonah Ibn Janach, Radak, Machberet Menachem (Rabbi Menachem Ibn Saruk), Rav Hirsch, Rabbi Aharon Marcus, Sifrei]
+authorities: [Rashi, Midrash Tanchuma, Rabbi Shlomo Pappenheim, Targum, Rabbi Yonah Ibn Janach, Radak, Machberes Menachem (Rabbi Menachem Ibn Saruk), Rav Hirsch, Rabbi Aharon Marcus, Sifrei]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -64,7 +64,7 @@ this matches the biblical usage.
 Rabbi Shlomo Pappenheim denies that rebellion is the primary sense. A *poshea*
 is at bottom one who is negligent out of indolence. He is not trying to defy or
 provoke; he simply does not care enough about the consequences. Hence the
-*poshea* of Shemos 22:8 and *Bava Kama* 21b and 29a, the watchman who failed the
+*poshea* of Shemos 22:8 and *Bava Kamma* 21b and 29a, the watchman who failed the
 vigilance expected of him without ever meaning to undermine anyone's property
 rights.
 
@@ -89,7 +89,7 @@ Bereishis 14:4, Melachim II 18:20, Yeshayahu 36:5, Yechezkel 2:3.)
   too unimportant for his mistreatment to provoke a response. Yerushalayim after
   the churban of the first Beis HaMikdash is described in just that state
   (Eichah 1:7).
-- *Machberet Menachem* splits them instead: *meridah* from מ-ר-ד, but *merudim*
+- *Machberes Menachem* splits them instead: *meridah* from מ-ר-ד, but *merudim*
   from the biliteral ר-ד, downward motion, the crushed pauper having fallen from
   the standing of a respected human being.
 - Rabbi Shlomo Pappenheim also takes ר-ד as the root, the root of *rodeh*,
@@ -111,7 +111,7 @@ Moshe calls the nation *mamrim* for refusing Hashem's word (Devarim 9:7, 9:24,
   not tell us the etymological basis of *mamre*.
 - Ibn Janach and Radak give the roots מ-ר-ה and מ-ר-ר, both of which can refer
   to rebelling or to changing from what one was commanded.
-- *Machberet Menachem*, as one would expect, links them all to the biliteral
+- *Machberes Menachem*, as one would expect, links them all to the biliteral
   מ-ר.
 
 Rabbi Shlomo Pappenheim develops מ-ר as changing, switching, clearing one thing
@@ -165,4 +165,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Revolting Revolutions](https://articles.ohr.edu/articles/revolting-revolutions)," *What's in a Word?*, Ohr Somayach, 12 June 2021.
 
-Cited in the essay: Bereishis 1:28, 14:4; Shemos 22:8; Vayikra 25:43; Bamidbar 16:1 with Rashi and *Midrash Tanchuma*; Devarim 9:7, 9:24, 21:18, 31:27; Yehoshua 1:18; Melachim II 3:4-5, 8:22, 18:20; Yeshayahu 1:2, 36:5, 58:7; Yirmiyahu 33:8; Yechezkel 2:3; Mishlei 18:19; Eichah 1:7; Divrei HaYamim II 36:13; Mishnah *Sanhedrin* 11:2; *Yoma* 36b; *Shabbos* 69a, 87a; *Eruvin* 69a-b; *Yevamos* 47b; *Bava Kama* 21b, 29a; *Sanhedrin* 49a; *Sifrei*, *Ki Seitzei* 218; Targum; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; *Machberet Menachem*; Rabbi Shlomo Pappenheim; Rav Hirsch to Bereishis 14:4; Rabbi Aharon Marcus; the Mesha Stele.
+Cited in the essay: Bereishis 1:28, 14:4; Shemos 22:8; Vayikra 25:43; Bamidbar 16:1 with Rashi and *Midrash Tanchuma*; Devarim 9:7, 9:24, 21:18, 31:27; Yehoshua 1:18; Melachim II 3:4-5, 8:22, 18:20; Yeshayahu 1:2, 36:5, 58:7; Yirmiyahu 33:8; Yechezkel 2:3; Mishlei 18:19; Eichah 1:7; Divrei HaYamim II 36:13; Mishnah *Sanhedrin* 11:2; *Yoma* 36b; *Shabbos* 69a, 87a; *Eruvin* 69a-b; *Yevamos* 47b; *Bava Kamma* 21b, 29a; *Sanhedrin* 49a; *Sifrei*, *Ki Seitzei* 218; Targum; Rabbi Yonah Ibn Janach and Radak, *Sefer HaShorashim*; *Machberes Menachem*; Rabbi Shlomo Pappenheim; Rav Hirsch to Bereishis 14:4; Rabbi Aharon Marcus; the Mesha Stele.

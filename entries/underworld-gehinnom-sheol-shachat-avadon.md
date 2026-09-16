@@ -125,7 +125,7 @@ Tehillim 16:10, 55:24. In many pesukim *shachat* means simply a pit.
 ### bor shaon (בור שאון)
 Tehillim 40:3, literally "the Pit of Noise."
 
-- Rabbi Yonah ibn Janach and others explain that *shaon* (a ruckus of noise) and
+- Rabbi Yonah Ibn Janach and others explain that *shaon* (a ruckus of noise) and
   *sha'anan* (quiet) are related, an example of the common phenomenon in which
   Hebrew words of diametrically opposed meaning sometimes have related roots. In
   light of this, Rabbi Klein suggests, *bor shaon* might actually mean the Pit

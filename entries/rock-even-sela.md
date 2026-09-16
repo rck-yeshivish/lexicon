@@ -100,7 +100,7 @@ In most instances in Tanach a *sela* is a hard rock protruding from the
 ground, or even a rocky mountain. Because it is so hard and cannot easily be
 chipped, it became the recognized standard for determining weights and
 currencies, and in the time of the Mishnah *sela* is also the name of a specific
-coin. Rabbi Yaakov Tzvi Mecklenburg (1785-1865), in *HaKesav VeHaKabbalah* on
+coin. Rabbi Yaakov Tzvi Mecklenburg (1785-1865), in *HaKsav VeHaKabbalah* on
 Shemos 4:25 and Devarim 9:9, cites Rabbi Pappenheim's explanation and adds to it
 a layer of exegetical interpretation about the Luchos.
 
@@ -138,4 +138,4 @@ Rabbi Reuven Chaim Klein, "[Like a Rock (Part 1)](https://articles.ohr.edu/artic
 
 Rabbi Reuven Chaim Klein, "[Like a Rock (Part 2)](https://articles.ohr.edu/articles/like-a-rock-part-2)," *What's in a Word?*, Ohr Somayach, 24 November 2018.
 
-Cited in the essay: Bereishis 28:11, 28:18, 29:10, 49:24; Yehoshua 10:11; Yirmiyahu 23:29; Mishnah *Zevachim* 13:3; Malbim; Rabbi Immanuel Chai Ricci; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah* to Shemos 4:25 and Devarim 9:9; Rabbi Aharon Marcus; Aaron Kahn.
+Cited in the essay: Bereishis 28:11, 28:18, 29:10, 49:24; Yehoshua 10:11; Yirmiyahu 23:29; Mishnah *Zevachim* 13:3; Malbim; Rabbi Immanuel Chai Ricci; Rabbi Shlomo Pappenheim; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah* to Shemos 4:25 and Devarim 9:9; Rabbi Aharon Marcus; Aaron Kahn.

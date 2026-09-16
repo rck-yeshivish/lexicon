@@ -43,7 +43,7 @@ words:
 sources:
   - wiaw:8149 "Solomon's Seven Names" (2019-02-23) https://articles.ohr.edu/articles/solomons-seven-names
   - wiaw:8304 "Names of the Underworld" (2019-06-29) https://articles.ohr.edu/articles/names-of-the-underworld
-authorities: [Rabbi Yehoshua ben Levi, Targum Sheini, Rashi, Ibn Ezra, Ralbag, Rabbi Yishaya of Trani (the Rid), Tosafos, Tosafos Shantz, Midrash Agur, Maharal]
+authorities: [Rabbi Yehoshua ben Levi, Targum Sheini, Rashi, Ibn Ezra, Ralbag, Rabbi Yeshayah of Trani (the Rid), Tosafos, Tosafos Shantz, Midrash Agur, Maharal]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -126,7 +126,7 @@ The second reading is similar to the Midrash on *Agur*, that he gathered up
 
 **Whether *Alukah* is an eighth name.**
 
-- Rabbi Yishaya of Trani (the Rid) reads *Alukah* at Mishlei 30:15, literally a
+- Rabbi Yeshayah of Trani (the Rid) reads *Alukah* at Mishlei 30:15, literally a
   leech, as another name for Shlomo, who sucked up and drank in every form of
   wisdom.
 - Tosafos (to Eruvin 19a) and Tosafos and Tosafos Shantz (to Avodah Zarah 17a)

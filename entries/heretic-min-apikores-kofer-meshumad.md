@@ -29,7 +29,7 @@ words:
     distinct: from מ-ו-ר, to switch, the tamer word censors substituted for meshumad; one who changed religion willingly (Luzzatto); one who traded the Torah for something passing, even in one mitzvah (Chasam Sofer)
 sources:
   - wiaw:11438 "Korach: Of Heretics and Apostates" (2024-07-06) https://articles.ohr.edu/articles/korach-of-heretics-and-apostates
-authorities: [Rambam, Rashba, Rabbi Yishaya of Trani, Rabbi Eliyahu HaBachur, Rabbi Shmuel David Luzzatto, Rabbi Binyamin Mussafia, Rabbi J. D. Eisenstein, Rabbi Shlomo Tzvi Shick, Ramban, Rav Hai Gaon, Rabbi Moshe Ibn Ezra, Rabbi Shlomo Ibn Parchon, Rashbatz, Kuzari, Rabbi Tanchum HaYerushalmi, Rabbi Yair Chaim Bachrach, Chasam Sofer, Rabbi Ernest Klein, Friedrich Delitzsch, Avraham Even-Shoshan, Peshitta]
+authorities: [Rambam, Rashba, Rabbi Yeshayah of Trani, Rabbi Eliyahu HaBachur, Rabbi Shmuel David Luzzatto, Rabbi Binyamin Mussafia, Rabbi J. D. Eisenstein, Rabbi Shlomo Tzvi Shick, Ramban, Rav Hai Gaon, Rabbi Moshe Ibn Ezra, Rabbi Shlomo Ibn Parchon, Rashbatz, Kuzari, Rabbi Tanchum HaYerushalmi, Rabbi Yair Chaim Bachrach, Chasam Sofer, Rabbi Ernest Klein, Friedrich Delitzsch, Avraham Even-Shoshan, Peshitta]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -66,7 +66,7 @@ says God did not create everything, one who serves an intermediary. *Avodah
 Zarah* 26b: the *min* transgresses to anger Hashem, the *meshumad* for pleasure.
 
 There are many theories as to how sectarians came to be called *minim*.
-- Rabbi Yishaya of Trani associates *min* with the pagan deity Meni (Yeshayahu
+- Rabbi Yeshayah of Trani associates *min* with the pagan deity Meni (Yeshayahu
   65:11).
 - Rabbi Eliyahu HaBachur (*Sefer HaTishbi*) argues that Manes, also called Mani
   or Manichaeus, and Apikores were Greek philosophers who rejected conventional

@@ -21,10 +21,10 @@ words:
   - he: אותיום
     tr: otyom
     en: immediately thereafter
-    distinct: once in the Mishnah (Niddah 2:2), its identity disputed; a Hebrew abbreviation (Rabbi Emmanuel Chai Ricci), or the Greek eutheos (Rav Hai Gaon, Sefer HaAruch, Rashi, Rashba), which Rabbi Betzalel Ronsberg prefers
+    distinct: once in the Mishnah (Niddah 2:2), its identity disputed; a Hebrew abbreviation (Rabbi Emmanuel Chai Ricci), or the Greek eutheos (Rav Hai Gaon, Sefer HeAruch, Rashi, Rashba), which Rabbi Betzalel Ronsberg prefers
 sources:
   - wiaw:7426 "Forthwith in the Fourth Dimension" (2017-09-16) https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension
-authorities: [Maharal of Prague, Rabbi Yishaya Pick-Berlin, Rabbi Yaakov Emden, Rabbi Emmanuel Chai Ricci, Rabbi Betzalel Ronsberg, Rav Hai Gaon, Sefer HaAruch, Rashi, Rashba]
+authorities: [Maharal of Prague, Rabbi Yishaya Pick-Berlin, Rabbi Yaakov Emden, Rabbi Emmanuel Chai Ricci, Rabbi Betzalel Ronsberg, Rav Hai Gaon, Sefer HeAruch, Rashi, Rashba]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -88,7 +88,7 @@ thereafter"; some argue the vocalization should really be *evteos*.
   of "immediately" in that sugya.
 - Rabbi Betzalel Ronsberg (1762-1821) disagrees, pointing out that it does not
   square with the Gemara's conclusions about that definition, and prefers Rav
-  Hai Gaon (in the commentary to Niddah ascribed to him), *Sefer HaAruch*, Rashi
+  Hai Gaon (in the commentary to Niddah ascribed to him), *Sefer HeAruch*, Rashi
   (Yoma 6a, Kerisos 17b) and Rashba (*Toras HaBayis* 7:3), who all write that
   *otyom* is actually a Greek word. Indeed, the Ancient Greek εὐθέως, *eutheos*,
   means "immediately."
@@ -118,4 +118,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Forthwith in the Fourth Dimension](https://articles.ohr.edu/articles/forthwith-in-the-fourth-dimension)," *What's in a Word?*, Ohr Somayach, 16 September 2017.
 
-Cited in the essay: Mishnah Niddah 2:2; Rashi to Yoma 6a and Kerisos 17b; Rashba, *Toras HaBayis* 7:3; Rav Hai Gaon to Niddah; *Sefer HaAruch*; the Maharal of Prague; Rabbi Yishaya Pick-Berlin; Rabbi Yaakov Emden; Rabbi Emmanuel Chai Ricci's commentary to the Mishnah; Rabbi Betzalel Ronsberg.
+Cited in the essay: Mishnah Niddah 2:2; Rashi to Yoma 6a and Kerisos 17b; Rashba, *Toras HaBayis* 7:3; Rav Hai Gaon to Niddah; *Sefer HeAruch*; the Maharal of Prague; Rabbi Yishaya Pick-Berlin; Rabbi Yaakov Emden; Rabbi Emmanuel Chai Ricci's commentary to the Mishnah; Rabbi Betzalel Ronsberg.

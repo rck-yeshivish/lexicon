@@ -107,7 +107,7 @@ necessarily repulsive in itself; ketchup is desirable as food until it lands on
 a shirt. So too the lover of Shir HaShirim: the dirt on the floor may not be
 undesirable in itself, but clinging to her newly washed feet it makes them feel dirty. In a
 separate discussion Pappenheim derives *tinuf* from the biblical two-letter
-root ט-פ. *Machberet Menachem* lists four categories of words as coming from
+root ט-פ. *Machberes Menachem* lists four categories of words as coming from
 that root: *taf*, children; *notef*/*tipah*, dripping; *netifos*, adornments
 and niceties; and *matif*, speech or preaching. Pappenheim gives the core sense
 of the root as "secondary, subordinate," and reads *tinuf* accordingly: the
@@ -208,4 +208,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Shavuos: Getting Dirty](https://articles.ohr.edu/articles/shavuos-getting-dirty)," *What's in a Word?*, Ohr Somayach, 8 June 2024.
 
-Cited in the essay: Iyov 15:16, 33:20; Tehillim 14:3, 53:4, 7:12, 26:10; Shir HaShirim 5:3; Daniel 1:8; Yeshayahu 59:3, 63:3; Eichah 4:14; Tzefaniah 3:1; Divrei HaYamim II 11:19; Bamidbar 35:33; Mishnah *Mikvaos* 9:4, *Bava Basra* 6:2, *Bechoros* 3:1 and 6:12, *Machshirin* 4:5, *Terumos* 10:1, *Shevi'is* 2:4; *Shabbos* 146a, *Yevamos* 103b, *Avodah Zarah* 26b, *Nedarim* 66b, *Chullin* 105a, *Berachos* 53b; Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Tzemach Duran, *Yachin U'Boaz* I §114; *Machberet Menachem*; Alexander Kohut, *HeAruch HaShaleim*; Even-Shoshan's concordance; Wilhelm Gesenius and Rabbi Shlomo Ibn Parchon, per Shadal to Bamidbar 35:33; the Arabic cognate *zahuma*.
+Cited in the essay: Iyov 15:16, 33:20; Tehillim 14:3, 53:4, 7:12, 26:10; Shir HaShirim 5:3; Daniel 1:8; Yeshayahu 59:3, 63:3; Eichah 4:14; Tzefaniah 3:1; Divrei HaYamim II 11:19; Bamidbar 35:33; Mishnah *Mikvaos* 9:4, *Bava Basra* 6:2, *Bechoros* 3:1 and 6:12, *Machshirin* 4:5, *Terumos* 10:1, *Shevi'is* 2:4; *Shabbos* 146a, *Yevamos* 103b, *Avodah Zarah* 26b, *Nedarim* 66b, *Chullin* 105a, *Berachos* 53b; Radak, *Sefer HaShorashim*; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*; Rabbi Tzemach Duran, *Yachin U'Boaz* I §114; *Machberes Menachem*; Alexander Kohut, *Aruch HaShalem*; Even-Shoshan's concordance; Wilhelm Gesenius and Rabbi Shlomo Ibn Parchon, per Shadal to Bamidbar 35:33; the Arabic cognate *zahuma*.

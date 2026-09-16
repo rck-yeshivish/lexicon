@@ -136,7 +136,7 @@ basis some sources connect *shibuta*, spelled with a tes, to *Shabbos*, spelled 
 tav, identifying the *shibuta* as that fish (*Megadim Chadashim* to Shabbos 119a).
 *Sandal*: the Mishnah (Bechoros 8:1, Kerisos 1:3, Niddah 3:4) discusses the halachic
 status of a miscarriage shaped like a *sandal*; Niddah 25b explains that the shape is
-that of a sea-fish, and Rashi (there and to Kesuvos 39a), his son-in-law Rivan (to
+that of a sea-fish, and Rashi (there and to Kesubos 39a), his son-in-law Rivan (to
 Yevamos 12b) and, by implication, the Yerushalmi (Niddah 3:4) take *sandal* as an actual
 fish by that name; Meiri (to Yevamos 12b) adds that it resembles a free-floating piece
 of meat with no clear limbs, on which Rabbi Klein wonders in passing whether a jellyfish
@@ -180,4 +180,4 @@ Rabbi Reuven Chaim Klein, "[Fun with Fish (Part 2/2)](https://articles.ohr.edu/a
 
 Rabbi Reuven Chaim Klein, "[Slithering Serpents and Sea Snakes - Part 1](https://articles.ohr.edu/articles/slithering-serpents-and-sea-snakes-part-1)," *What's in a Word?*, Ohr Somayach, 1 July 2017.
 
-Cited in the essay: Bereishis 1:21 with Rav Hirsch and Rashi, 2:2-3; Divrei HaYamim I 7:27; Berachos 20a; Kiddushin 25a, 41a; Moed Katan 11a with Tosafos; Chullin 109b; Niddah 22b and 25b with Rashi; the Vilna Gaon; Yevamos 12b with Rivan and Meiri; Kesuvos 39a with Rashi; Yerushalmi Niddah 3:4 and Taanis 4:5; Mishnah Bechoros 8:1, Kerisos 1:3, Niddah 3:4; Sheviis 10:7, Bava Basra 5:3, Keilim 8:1, 15:1, 22:10, Ohalos 5:6, 8:1, 8:3, 9:1 (Mishnah, on *kaveres*); Radak to Bereishis 2:3; *Yalkut Reuveni*; *Megaleh Amukos* 27; *Midrash HaBiur*; *Minchas Chinuch* 550:2; *Megadim Chadashim* to Shabbos 119a; *Shevet Mussar* ch. 11; Rabbi Aharon Marcus; Rabbi Ron Yosef Chaim Masoud Abuchatzeira; Rabbi Avraham Rivlin; Rabbi Nissim Paniri; Rabbi Aryeh Moshe Teicholtz; Rabbi Yitzchak Yishaya Weiss; Dr. Marcus Jastrow; Drs. Zohar Amar and Ari Zivotofsky.
+Cited in the essay: Bereishis 1:21 with Rav Hirsch and Rashi, 2:2-3; Divrei HaYamim I 7:27; Berachos 20a; Kiddushin 25a, 41a; Moed Katan 11a with Tosafos; Chullin 109b; Niddah 22b and 25b with Rashi; the Vilna Gaon; Yevamos 12b with Rivan and Meiri; Kesubos 39a with Rashi; Yerushalmi Niddah 3:4 and Taanis 4:5; Mishnah Bechoros 8:1, Kerisos 1:3, Niddah 3:4; Sheviis 10:7, Bava Basra 5:3, Keilim 8:1, 15:1, 22:10, Ohalos 5:6, 8:1, 8:3, 9:1 (Mishnah, on *kaveres*); Radak to Bereishis 2:3; *Yalkut Reuveni*; *Megaleh Amukos* 27; *Midrash HaBiur*; *Minchas Chinuch* 550:2; *Megadim Chadashim* to Shabbos 119a; *Shevet Mussar* ch. 11; Rabbi Aharon Marcus; Rabbi Ron Yosef Chaim Masoud Abuchatzeira; Rabbi Avraham Rivlin; Rabbi Nissim Paniri; Rabbi Aryeh Moshe Teicholtz; Rabbi Yitzchak Yishaya Weiss; Dr. Marcus Jastrow; Drs. Zohar Amar and Ari Zivotofsky.

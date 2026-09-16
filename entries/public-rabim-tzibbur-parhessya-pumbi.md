@@ -28,7 +28,7 @@ words:
     distinct: an affair made deliberately conspicuous, from Greek pompe, a procession, not from parrhesia; means the same as pirsum (Eliyahu HaBachur); the showy first luchos were destroyed (Tanchuma)
 sources:
   - wiaw:11449 "Chukas: Out in Public" (2024-07-13) https://articles.ohr.edu/articles/chukas-out-in-public
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Sefer HaAruch, Rabbi David Golumb, Rav Hirsch, Rabbi Ernest Klein]
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Eliyahu HaBachur, Sefer HeAruch, Rabbi David Golumb, Rav Hirsch, Rabbi Ernest Klein]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -72,7 +72,7 @@ to "public" is short: "I will thank Hashem greatly with my mouth, and in the
 midst of the *rabim* I will praise Him" (Tehillim 109:30). The Mishnah's *yadua
 l'rabim*, a vow known to the masses (Gittin 4:7), is the same usage.
 
-Rabbi Shlomo Pappenheim (*Chesheik Shlomo*) traces *rabim* to the biliteral
+Rabbi Shlomo Pappenheim (*Cheshek Shlomo*) traces *rabim* to the biliteral
 ר-ב, which he defines as quantitative increase: *rav*/*harbeh* (many), *arbeh*
 (grasshoppers, since locusts tend to swarm in multitudes), *arubah* (a sunroof or
 skylight, letting in much light), *rahav* (haughtiness, more self-pride than is
@@ -95,7 +95,7 @@ The word itself is not in Tanach, but its root is: צ-ב-ר occurs seven times
 is an amassing of people.
 
 ### parhessya (פרהסיא) and pirsum (פרסום)
-Rabbi Eliyahu HaBachur (*Sefer Tishbi*): the two mean the same thing, but
+Rabbi Eliyahu HaBachur (*Sefer HaTishbi*): the two mean the same thing, but
 *parhessya* is a noun used for "publicity," while *pirsum* is a verb naming the
 act of publicizing something or someone. Neither appears in Tanach or in the
 Mishnah; both are common in the Bavli, while *parhessya* appears in only one
@@ -152,7 +152,7 @@ speak.
 
 ### pumbi (פומבי)
 Also absent from Tanach and Mishnah, and rare in Shas: twice in the Bavli and
-twice in the Yerushalmi. Avodah Zarah 54b, as *Sefer HaAruch* reads it, speaks of
+twice in the Yerushalmi. Avodah Zarah 54b, as *Sefer HeAruch* reads it, speaks of
 wicked men who sin *b'pumbi*, in public affairs, through illicit relations that
 produce illegitimate children; the Gemara there laments that these evildoers also
 "trouble" Hashem by making Him grant souls to those children, so as not to
@@ -181,7 +181,7 @@ ceremony of a public procession. Such ornate spectacles were held out in the
 open, so it is easy to see how the Late Hebrew *pumbi* came to mean things
 transpiring in the public eye. The English *pomp*, as in "pomp and circumstance,"
 likewise derives from *pompe*, by way of the Latin *pompa*; and Rabbi Eliyahu
-HaBachur in *Sefer Tishbi* had already noted that *pumbi* is the same as the
+HaBachur in *Sefer HaTishbi* had already noted that *pumbi* is the same as the
 Latin *pompa*. The etymology rests on the interchangeability of the *b*-sound and
 the *p*-sound. Related English words include *pompous*, the
 sort of person who commands a stately air and makes his presence a spectacle to
@@ -215,4 +215,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Chukas: Out in Public](https://articles.ohr.edu/articles/chukas-out-in-public)," *What's in a Word?*, Ohr Somayach, 13 July 2024.
 
-Cited in the essay: Bereishis 41:35, 41:49; Shemos 8:10; Bamidbar 13:30, 20:12; Shoftim 3:19; Amos 6:10; Chavakuk 1:10, 2:20; Tzefaniah 1:7; Zecharyah 2:17, 9:3; Tehillim 39:7, 68:7, 80:14, 109:30; Iyov 5:23, 27:16; Mishnah Avos 3:11, Peah 2:1, Kilayim 4:7, Eruvin 5:6, Megillah 3:1, Bechoros 1:1, Parah 12:4, Gittin 4:7, Berachos 5:5, Rosh Hashanah 4:9, Pesachim 6:5, 7:4, Shekalim 3:1, 4:1, Yoma 2:7, Sukkah 5:7, Zevachim 5:5, Menachos 2:2, Temurah 1:6, Kerisus 1:6; Eruvin 69a; Sukkah 49b; Beitzah 16a; Taanis 16b; Kesubos 103b; Gittin 38a; Sotah 10b, 36b; Bava Metzia 46b; Bava Basra 42a, 145b; Sanhedrin 26b, 74a-75a; Avodah Zarah 27b, 36b, 54a, 54b; Zevachim 88b; Erchin 16a-16b; Yerushalmi Peah 1:1, Sanhedrin 10:1, Yoma 4:1, Shekalim 1:1; Midrash Tanchuma, Ki Sisa §31 and Naso §17; *Sefer HaAruch*; Rabbi Eliyahu HaBachur, *Sefer Tishbi* and *Meturgaman*; Rabbi Shlomo Pappenheim, *Chesheik Shlomo*; Rabbi Aharon Marcus; Rabbi David Golumb, *HaTorah VeHaTalmud* vol. 1 p. 39; Rav Hirsch to Tehillim 80:14; Rabbi Ernest Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language*.
+Cited in the essay: Bereishis 41:35, 41:49; Shemos 8:10; Bamidbar 13:30, 20:12; Shoftim 3:19; Amos 6:10; Chavakuk 1:10, 2:20; Tzefaniah 1:7; Zecharyah 2:17, 9:3; Tehillim 39:7, 68:7, 80:14, 109:30; Iyov 5:23, 27:16; Mishnah Avos 3:11, Peah 2:1, Kilayim 4:7, Eruvin 5:6, Megillah 3:1, Bechoros 1:1, Parah 12:4, Gittin 4:7, Berachos 5:5, Rosh Hashanah 4:9, Pesachim 6:5, 7:4, Shekalim 3:1, 4:1, Yoma 2:7, Sukkah 5:7, Zevachim 5:5, Menachos 2:2, Temurah 1:6, Kerisus 1:6; Eruvin 69a; Sukkah 49b; Beitzah 16a; Taanis 16b; Kesubos 103b; Gittin 38a; Sotah 10b, 36b; Bava Metzia 46b; Bava Basra 42a, 145b; Sanhedrin 26b, 74a-75a; Avodah Zarah 27b, 36b, 54a, 54b; Zevachim 88b; Erchin 16a-16b; Yerushalmi Peah 1:1, Sanhedrin 10:1, Yoma 4:1, Shekalim 1:1; Midrash Tanchuma, Ki Sisa §31 and Naso §17; *Sefer HeAruch*; Rabbi Eliyahu HaBachur, *Sefer HaTishbi* and *Meturgaman*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Aharon Marcus; Rabbi David Golumb, *HaTorah VeHaTalmud* vol. 1 p. 39; Rav Hirsch to Tehillim 80:14; Rabbi Ernest Klein, *A Comprehensive Etymological Dictionary of the Hebrew Language*.

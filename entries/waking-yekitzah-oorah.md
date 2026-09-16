@@ -108,7 +108,7 @@ standing in for the Hebrew YOD as the reflexive. The Gemara's term for one
 half-asleep is *nim v'lo nim, tir v'lo tir*, "asleep and not asleep, awake and
 not awake" (*Pesachim* 120b; *Taanis* 12b).
 
-- Rashi (to *Taanis* 12b, and see Rashi to *Bava Kama* 117b) derives *tir* from
+- Rashi (to *Taanis* 12b, and see Rashi to *Bava Kamma* 117b) derives *tir* from
   the Targumic *v'isar* (as though, Rabbi Klein notes, the tav were part of the
   root) and reads it as a sleeper on the edge of waking.
 - Tosafos (to *Taanis* 12b, and see Tosafos to *Niddah* 63a) explain it the
@@ -158,4 +158,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Wake-up Time](https://articles.ohr.edu/articles/wake-up-time)," *What's in a Word?*, Ohr Somayach, 4 December 2021.
 
-Cited in the essay: Bereishis 6:13, 9:24 (Rav Hirsch), 23:9, 28:16, 41:4 (Rav Hirsch), 41:7; Shemos 39:3; Devarim 25:12; Melachim I 3:15; Melachim II 7:8; Yeshayahu 29:8; Yoel 1:5; Chavakuk 2:19 (Malbim); Tehillim 44:24, 73:20, 78:65, 119:96; Mishlei 23:35; Shir HaShirim 5:2; Daniel 11:35, 12:13; *Pesachim* 120b; *Taanis* 12b with Rashi and Tosafos; Rashi to *Bava Kama* 117b; Tosafos to *Niddah* 63a; the Targumim; Ibn Chayyuj, Ibn Janach, and Radak; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; *Shoresh Yesha*; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yechezkel Pannet; Malbim; *Nishmas*.
+Cited in the essay: Bereishis 6:13, 9:24 (Rav Hirsch), 23:9, 28:16, 41:4 (Rav Hirsch), 41:7; Shemos 39:3; Devarim 25:12; Melachim I 3:15; Melachim II 7:8; Yeshayahu 29:8; Yoel 1:5; Chavakuk 2:19 (Malbim); Tehillim 44:24, 73:20, 78:65, 119:96; Mishlei 23:35; Shir HaShirim 5:2; Daniel 11:35, 12:13; *Pesachim* 120b; *Taanis* 12b with Rashi and Tosafos; Rashi to *Bava Kamma* 117b; Tosafos to *Niddah* 63a; the Targumim; Ibn Chayyuj, Ibn Janach, and Radak; Menachem Ibn Saruk, *Machberes Menachem*; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; *Shoresh Yesha*; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Yechezkel Pannet; Malbim; *Nishmas*.

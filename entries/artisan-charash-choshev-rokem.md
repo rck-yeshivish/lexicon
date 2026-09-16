@@ -94,7 +94,7 @@ was written in Judeo-Arabic and only later translated into Hebrew.)
 
 ### charash (חרש)
 Rabbi Shlomo Pappenheim, cited in part by Rabbi Yaakov Tzvi Mecklenburg
-(*HaKesav VeHaKabbalah* to Shemos 35:35): the root ח-ר-ש means plowing, the
+(*HaKsav VeHaKabbalah* to Shemos 35:35): the root ח-ר-ש means plowing, the
 preparatory labor of almost any agricultural endeavor, never the farmer's object
 in itself. Because plowing mattered so much, the root was extended to other
 crafts of preparing materials: the metalworker (Bereishis 4:22, Yeshayahu 44:12, Ezra 3:7, Divrei
@@ -164,7 +164,7 @@ uses it that way too (Rashi to Berachos 62a, Shabbos 75a, Pesachim 110a, Bava
 Metzia 29b, Chullin 84b).
 - The Yemenite poet Rabbi Shalom Shabazi ties this to the mute sense, since
   spells were often cast in a whisper.
-- Dr. Alexander Kohut, in *He'Aruch HaShaleim*, cites the Maskilic scholar
+- Dr. Alexander Kohut, in *Aruch HaShalem*, cites the Maskilic scholar
   Peretz Smolenskin as tying it instead to the thinking and deliberating sense
   of the root, since the dark arts were typically performed in a state of
   deliberate intent.
@@ -202,4 +202,4 @@ Rabbi Reuven Chaim Klein, "[Tazria: The Cutter](https://articles.ohr.edu/article
 
 Rabbi Reuven Chaim Klein, "[Yisro: Write it down](https://articles.ohr.edu/articles/yisro-write-it-down)," *What's in a Word?*, Ohr Somayach, 15 February 2025.
 
-Cited in the essay: Bereishis 4:22; Shemos 22:17, 26:1, 26:31, 28:11, 31:5, 35:33, 35:35, 38:23; Shoftim 5:30, 16:2; Shmuel I 23:9; Shmuel II 5:11; Melachim II 12:12, 24:14, 24:16; Yeshayahu 3:3, 44:12-13; Yirmiyahu 29:2; Yechezkel 17:3; Mishlei 3:29; Iyov 4:8; Shir HaShirim 7:2; Ezra 3:7; Divrei HaYamim I 22:15, II 24:12; Shabbos 133b; Taanis 21b; Yoma 72b; Gittin 88a; Bava Basra 21a with Rashi; Sanhedrin 38a; Rambam, *Hilchos Klei HaMikdash* 8:15; Ibn Janach's introduction to *Sefer HaDikduk*; Dr. Alexander Kohut, *He'Aruch HaShaleim*, citing Peretz Smolenskin.
+Cited in the essay: Bereishis 4:22; Shemos 22:17, 26:1, 26:31, 28:11, 31:5, 35:33, 35:35, 38:23; Shoftim 5:30, 16:2; Shmuel I 23:9; Shmuel II 5:11; Melachim II 12:12, 24:14, 24:16; Yeshayahu 3:3, 44:12-13; Yirmiyahu 29:2; Yechezkel 17:3; Mishlei 3:29; Iyov 4:8; Shir HaShirim 7:2; Ezra 3:7; Divrei HaYamim I 22:15, II 24:12; Shabbos 133b; Taanis 21b; Yoma 72b; Gittin 88a; Bava Basra 21a with Rashi; Sanhedrin 38a; Rambam, *Hilchos Klei HaMikdash* 8:15; Ibn Janach's introduction to *Sefer HaDikduk*; Dr. Alexander Kohut, *Aruch HaShalem*, citing Peretz Smolenskin.

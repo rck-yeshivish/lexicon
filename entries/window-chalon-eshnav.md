@@ -16,7 +16,7 @@ words:
     distinct: twice in Tanach; a small window (Rabbi Yosef Kara, Meiri), a peephole narrow outside and wide within (Rid), or a latticed one (Menachem Ibn Saruk, Rabbi Moshe David Valle)
 sources:
   - wiaw:9056 "Beshalach: Through the Looking Window" (2021-01-30) https://articles.ohr.edu/articles/beshalach-through-the-looking-window
-authorities: [Rabbi Shlomo Pappenheim, Radak, Rabbeinu Yonah Ibn Janach, Rashi, Rabbi Yosef Kara, Meiri, Rabbi Yishaya of Trani, Rabbi Shaul Goldman, Malbim, Rabbi Shmuel Landiado, Menachem Ibn Saruk, Rabbi Moshe David Valle, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Shmuel Yeivin, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein, Rabbi Elazar Reines, Rabbi Chaim Futernik, Abarbanel, Alshich]
+authorities: [Rabbi Shlomo Pappenheim, Radak, Rabbeinu Yonah Ibn Janach, Rashi, Rabbi Yosef Kara, Meiri, Rabbi Yeshayah of Trani, Rabbi Shaul Goldman, Malbim, Rabbi Shmuel Landiado, Menachem Ibn Saruk, Rabbi Moshe David Valle, Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, Shmuel Yeivin, Rabbi Aharon Marcus, Rabbi Baruch HaLevi Epstein, Rabbi Ernest Klein, Rabbi Elazar Reines, Rabbi Chaim Futernik, Abarbanel, Alshich]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -57,7 +57,7 @@ window taken up below:
 1. **Smaller.** Rabbi Yosef Kara (to Shoftim 5:28) and the Meiri (to Mishlei
    7:6): an *eshnav* is a small window, while *chalon*, presumably, is the
    general term for any window.
-2. **A peephole.** Rabbi Yishaya of Trani (1180 to 1250): smaller at the end
+2. **A peephole.** Rabbi Yeshayah of Trani (1180 to 1250): smaller at the end
    that opens to the outside and wider at the end that opens to the inside. He
    then gives a Latin or Italian translation of the word, which Rabbi Shaul
    Goldman reads as *balustraria*, a narrow opening or slit from which arrows
@@ -171,4 +171,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Beshalach: Through the Looking Window](https://articles.ohr.edu/articles/beshalach-through-the-looking-window)," *What's in a Word?*, Ohr Somayach, 30 January 2021.
 
-Cited in the essay: Shoftim 5:28 with Rashi, Rabbi Yosef Kara, Malbim, Abarbanel, Alshich and *Kli Yakar*; Mishlei 7:6 with the Meiri and Malbim; Bereishis 26:8 with *Tzror HaMor*; *Zohar* Toldos 140b; *Sefer HaIkkarim* 4:43; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Rabbi Yishaya of Trani; Rabbi Shaul Goldman; Rabbi Moshe David Valle; Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, *Hoil Moshe*; Shmuel Yeivin, *Leshonenu* (1959); Rabbi Aharon Marcus; Rabbi Baruch HaLevi Epstein; Rabbi Ernest Klein; Malbim, *Yair Ohr*; Rabbi Chaim Futernik; Rabbi Elazar Reines, *Shorashei Leshon HaKodesh* and *Mishlei Shlomo*.
+Cited in the essay: Shoftim 5:28 with Rashi, Rabbi Yosef Kara, Malbim, Abarbanel, Alshich and *Kli Yakar*; Mishlei 7:6 with the Meiri and Malbim; Bereishis 26:8 with *Tzror HaMor*; *Zohar* Toldos 140b; *Sefer HaIkkarim* 4:43; Radak and Ibn Janach, *Sefer HaShorashim*; Rabbi Shlomo Pappenheim, *Yerios Shlomo* and *Cheshek Shlomo*; Menachem Ibn Saruk; Rabbi Yeshayah of Trani; Rabbi Shaul Goldman; Rabbi Moshe David Valle; Rabbi Moshe Yitzchak Tedeschi-Ashkenazi, *Hoil Moshe*; Shmuel Yeivin, *Leshonenu* (1959); Rabbi Aharon Marcus; Rabbi Baruch HaLevi Epstein; Rabbi Ernest Klein; Malbim, *Yair Ohr*; Rabbi Chaim Futernik; Rabbi Elazar Reines, *Shorashei Leshon HaKodesh* and *Mishlei Shlomo*.

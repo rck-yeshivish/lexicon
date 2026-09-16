@@ -2,7 +2,7 @@
 cluster: mask
 hebrew: [מסוה, מסכה, פרצוף, סותה, מסכת]
 roots: [ס-ו-ה, נ-ס-כ, מ-ס-כ]
-translit: [masveh, masveh, masechah, masecha, masekhah, partzuf, partzufim, partzufa, suto, sutot, masechet, maseches, nesech]
+translit: [masveh, masechah, masecha, masekhah, partzuf, partzufim, partzufa, suto, sutot, masechet, maseches, nesech]
 english: [mask, veil, molten image, face, garment]
 domain: body
 words:

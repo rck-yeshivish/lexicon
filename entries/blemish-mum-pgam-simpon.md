@@ -24,7 +24,7 @@ sources:
   - wiaw:9138 "A Perfect Sacrifice" (2021-03-20) https://articles.ohr.edu/articles/a-perfect-sacrifice
   - wiaw:8696 "Blemished Imperfections" (2020-05-09) https://articles.ohr.edu/articles/blemished-imperfections
   - wiaw:11087 "An Article About Nothing (Part 2 of 2)" (2023-09-16) https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2
-authorities: [Rabbi Shlomo Pappenheim, Rabbi Ernest Klein, Rav Hirsch, Rabbi Eliyahu HaBachur, Rashi, Sefer HaAruch, Rabbi Binyamin Mussafia, Rabbi Yaakov Dienna, Rabbi Yehudah Aryeh of Carpentras, Wilhelm Gesenius]
+authorities: [Rabbi Shlomo Pappenheim, Rabbi Ernest Klein, Rav Hirsch, Rabbi Eliyahu HaBachur, Rashi, Sefer HeAruch, Rabbi Binyamin Mussafia, Rabbi Yaakov Dienna, Rabbi Yehudah Aryeh of Carpentras, Wilhelm Gesenius]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -130,7 +130,7 @@ already in the days of Daniel, citing *sumponia* there (Daniel 3:5, 3:10, 3:15).
 1. A bronchial vessel branching from the lung (Mishnah *Chullin* 3:1), from
    *siphon*, a pipe.
 2. A musical instrument of some sort, possibly a bagpipe or a virginal (Daniel;
-   Mishnah *Keilim* 11:6), from *symphonia*; the *Sefer HaAruch* describes it as
+   Mishnah *Keilim* 11:6), from *symphonia*; the *Sefer HeAruch* describes it as
    a wind instrument built on a hollow pipe, which joins this sense to the first.
 3. Additional clauses appended to a legal document (Mishnah *Bava Metzia* 1:8),
    from *symphoneo*, agreement, and from there any stipulation, even one not
@@ -181,4 +181,4 @@ Rabbi Reuven Chaim Klein, "[Blemished Imperfections](https://articles.ohr.edu/ar
 
 Rabbi Reuven Chaim Klein, "[An Article About Nothing (Part 2 of 2)](https://articles.ohr.edu/articles/an-article-about-nothing-part-2-of-2)," *What's in a Word?*, Ohr Somayach, 16 September 2023.
 
-Cited in the essay: Bereishis 22:12, 30:31, 39:23, 45:26; Vayikra 21:16 to 23, 22:17 to 25; Devarim 32:5; Melachim I 10:21; Mishlei 9:7; Iyov 31:7; Shir HaShirim 2:13; Daniel 1:4, 3:5, 3:10, 3:15; *Rosh HaShanah* 23b; *Yoma* 70a; *Pesachim* 106a; *Kiddushin* 10b; *Kesubos* 57b, 84a, and Mishnah *Kesubos* 3:4, 3:7, 5:3, 9:7 to 8; *Sanhedrin* 36b, 73a; *Avodah Zarah* 67a; *Chullin* 10a, 17a, and Mishnah *Chullin* 3:1; Mishnah *Keilim* 11:6; Mishnah *Bava Metzia* 1:8 and *Bava Metzia* 20a; Tosefta *Shevuos* 6:5; *Sefer HaAruch*; Rabbi Binyamin Mussafia; *Patshegen* of Rabbi Yaakov Dienna on Targum Onkelos; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Wilhelm Gesenius, lexicon of Biblical Hebrew and Aramaic.
+Cited in the essay: Bereishis 22:12, 30:31, 39:23, 45:26; Vayikra 21:16 to 23, 22:17 to 25; Devarim 32:5; Melachim I 10:21; Mishlei 9:7; Iyov 31:7; Shir HaShirim 2:13; Daniel 1:4, 3:5, 3:10, 3:15; *Rosh HaShanah* 23b; *Yoma* 70a; *Pesachim* 106a; *Kiddushin* 10b; *Kesubos* 57b, 84a, and Mishnah *Kesubos* 3:4, 3:7, 5:3, 9:7 to 8; *Sanhedrin* 36b, 73a; *Avodah Zarah* 67a; *Chullin* 10a, 17a, and Mishnah *Chullin* 3:1; Mishnah *Keilim* 11:6; Mishnah *Bava Metzia* 1:8 and *Bava Metzia* 20a; Tosefta *Shevuos* 6:5; *Sefer HeAruch*; Rabbi Binyamin Mussafia; *Patshegen* of Rabbi Yaakov Dienna on Targum Onkelos; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Wilhelm Gesenius, lexicon of Biblical Hebrew and Aramaic.

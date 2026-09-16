@@ -26,11 +26,11 @@ words:
   - he: נימוס
     tr: nimus
     en: law, rule
-    distinct: Rabbinic, a loanword from Greek nomos; the rules and regulations society sets, against dat as what Hashem commands (Rabbi Nissim of Marseilles); Targum uses it for chok, mishpat and torah (Rabbi Eliyahu Bachur); in modern Hebrew, manners
+    distinct: Rabbinic, a loanword from Greek nomos; the rules and regulations society sets, against dat as what Hashem commands (Rabbi Nissim of Marseilles); Targum uses it for chok, mishpat and torah (Rabbi Eliyahu HaBachur); in modern Hebrew, manners
 sources:
   - wiaw:11715 "Tetzaveh/Purim: Do the Din" (2025-03-08) https://articles.ohr.edu/articles/tetzavehpurim-do-the-din
   - wiaw:8315 "Laws and Orders" (2019-07-06) https://articles.ohr.edu/articles/laws-and-orders
-authorities: [Rabbi Avraham Bedersi, Ibn Janach, Targum Onkelos, Rabbi Yosef Nechemias, Ibn Ezra, Rabbi Moshe Chalavah, Rabbi Shmuel Laniado, Maharal of Prague, Rabbi Yosef Zecharia Stern, Rabbi Shlomo Aharon Wertheimer, Rabbi Tzadok HaKohen of Lublin, Rabbi Shlomo Pappenheim, Rabbi Eliyahu Bachur, Rabbi Nissim of Marseilles, Menachem Ibn Saruk, Ibn Parchon, Nachmanides, Rashi, Abarbanel, Rav Hirsch, Shadal, Rabbi Moshe Tedeschi, Abu Omar Ibn Yaqwi, Rabbi Eliyahu Benamozegh, Peirush HaRokeach, Maimonides, Rabbeinu Bachaya, Ibn Yachya, Radak, Rabbi Eliyahu Menachem Margules, Rabbi Moshe Shapiro, Rabbi Yisrael Salanter, Rabbi Berachiah Beirach Shapiro, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Shemos Rabbah, Old Midrash Tanchuma, Yalkut Shimoni, Gesenius, Avraham Even-Shoshan, Yehoshua Yaron, Benjamin J. Noonan]
+authorities: [Rabbi Avraham Bedersi, Ibn Janach, Targum Onkelos, Rabbi Yosef Nechemias, Ibn Ezra, Rabbi Moshe Chalavah, Rabbi Shmuel Laniado, Maharal of Prague, Rabbi Yosef Zecharia Stern, Rabbi Shlomo Aharon Wertheimer, Rabbi Tzadok HaKohen of Lublin, Rabbi Shlomo Pappenheim, Rabbi Eliyahu HaBachur, Rabbi Nissim of Marseilles, Menachem Ibn Saruk, Ibn Parchon, Nachmanides, Rashi, Abarbanel, Rav Hirsch, Shadal, Rabbi Moshe Tedeschi, Abu Omar Ibn Yaqwi, Rabbi Eliyahu Benamozegh, Peirush HaRokeach, Maimonides, Rabbeinu Bachaya, Ibn Yachya, Radak, Rabbi Eliyahu Menachem Margules, Rabbi Moshe Shapiro, Rabbi Yisrael Salanter, Rabbi Berachiah Beirach Shapiro, Zohar, Rabbi Yaakov Tzvi Mecklenburg, Shemos Rabbah, Old Midrash Tanchuma, Yalkut Shimoni, Gesenius, Avraham Even-Shoshan, Yehoshua Yaron, Benjamin J. Noonan]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -302,7 +302,7 @@ once in Mishnah: a husband must tell his agent plainly to write and give a *get*
 and "free her," "sustain her," "do for her as the *nimus*" or "do for her as is
 fit" are hints too vague to authorize it (Gittin 6:5), *nimus* there meaning the
 law. It occurs elsewhere in both Talmuds, as in Mordechai being "crowned by his
-*nimusim*" (Megillah 12b). Rabbi Eliyahu Bachur (*Meturgaman*, *Sefer Tishbi*):
+*nimusim*" (Megillah 12b). Rabbi Eliyahu HaBachur (*Meturgaman*, *Sefer HaTishbi*):
 Targum uses it for *chok* (Vayikra 18:3), *mishpat* (Shmuel I 2:13, Melachim I
 18:28, Yechezkel 5:7 and 20:18), and *torah* (Tehillim 1:2, Mishlei 1:8). Many
 of the sources above on *dat* in fact use *nimus* to define it; Rabbi Nissim of

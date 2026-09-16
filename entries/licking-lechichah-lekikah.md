@@ -49,7 +49,7 @@ the congregation will *lick away* everything around us as an ox licks away the
 grass of the field (Bamidbar 22:4). Four further times in Tanach (Melachim I
 18:38; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9).
 
-- Rabbi Yaakov Berger of Kiryat Sefer (*Milon Leshon HaMikra*) conjectures that
+- Rabbi Yaakov Berger of Kiryat Sefer (*Milon Leshon Mikra*) conjectures that
   the word derives from *cheich*, the palate, taking the initial *lammed* as no
   part of the core.
 - Rabbi Yaakov Yehudah Zilberberg (*Leshonenu HaKedoshah* p. 304) connects it to
@@ -159,4 +159,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Balak: Lick It Up](https://articles.ohr.edu/articles/balak-lick-it-up)," *What's in a Word?*, Ohr Somayach, 20 July 2024.
 
-Cited in the essay: Bamidbar 22:4; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9; Shoftim 7:5-7; Melachim I 18:38, 21:19, 22:38; Vayikra 1:15 and 5:8; Shmuel I 19:20; Nachum 3:16; Yoel 1:4 and 2:25; Bava Kamma 6a and Yerushalmi Bava Kamma 6:5; *Esther Rabbah* 8:7; *Tanchuma*, Ki Seitzei 9; *Pesikta D'Rav Kahana*, Zachor 8; *Machberes Menachem*; Ibn Parchon, *Machberes He'Aruch*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 175; Targum to Malachi 3:19; *Midrash Aggadah* to Balak; *Baal HaTurim*; *Sefer Russiana*; *Gesenius' Hebrew Grammar*, Introduction §1:4; Ibn Ezra to Yoel 1:4 citing Yefet ben Ali.
+Cited in the essay: Bamidbar 22:4; Michah 7:17; Yeshayahu 49:23; Tehillim 72:9; Shoftim 7:5-7; Melachim I 18:38, 21:19, 22:38; Vayikra 1:15 and 5:8; Shmuel I 19:20; Nachum 3:16; Yoel 1:4 and 2:25; Bava Kamma 6a and Yerushalmi Bava Kamma 6:5; *Esther Rabbah* 8:7; *Tanchuma*, Ki Seitzei 9; *Pesikta D'Rav Kahana*, Zachor 8; *Machberes Menachem*; Ibn Parchon, *Machberes HeAruch*; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Shlomo of Urbino, *Ohel Moed*; Rabbi Moshe Tedeschi-Ashkenazi, *Otzar Nirdafim* 175; Targum to Malachi 3:19; *Midrash Aggadah* to Balak; *Baal HaTurim*; *Sefer Russiana*; *Gesenius' Hebrew Grammar*, Introduction §1:4; Ibn Ezra to Yoel 1:4 citing Yefet ben Ali.

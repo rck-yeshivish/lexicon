@@ -21,14 +21,14 @@ words:
   - he: חרוץ
     tr: charutz
     en: gold (mined)
-    distinct: gold got by digging, from ח-ר-צ, cutting with a sharp tool (Rabbi Aharon Marcus, Wertheimer); or gold that makes a man diligent, charutz in its other sense (Rabbi Yishaya of Trani)
+    distinct: gold got by digging, from ח-ר-צ, cutting with a sharp tool (Rabbi Aharon Marcus, Wertheimer); or gold that makes a man diligent, charutz in its other sense (Rabbi Yeshayah of Trani)
   - he: בצר
     tr: betzer
     en: gold ore
-    distinct: gold (Ibn Janach, Radak, Ralbag), silver (Ibn Ezra), a stronghold (Menachem, Rashi), or the crude ore that yields gold when refined (Rabbi Yishaya of Trani)
+    distinct: gold (Ibn Janach, Radak, Ralbag), silver (Ibn Ezra), a stronghold (Menachem, Rashi), or the crude ore that yields gold when refined (Rabbi Yeshayah of Trani)
 sources:
   - wiaw:8724 "Where's The Gold?" (2020-05-30) https://articles.ohr.edu/articles/wheres-the-gold
-authorities: [Radak, Ibn Janach, Ibn Ezra, Rashi, Menachem Ibn Saruk, Donash Ibn Labrat, Ramban, Ralbag, Rabbi Yishaya of Trani, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe David Valle, Rabbi Moshe Ibn Ezra, Peirush HaRokeach, Rabbi Todros Abulafia, Rabbi Binyamin HaRofeh Anav, Maharal, Rabbi Eliezer Papo, Rabbi Pinchas Eliyahu Horowitz, Rabbi Yosef Chaim of Baghdad, Dr. Chaim Tawil, William Foxwell Albright, Dr. Shmuel Yeivin]
+authorities: [Radak, Ibn Janach, Ibn Ezra, Rashi, Menachem Ibn Saruk, Donash Ibn Labrat, Ramban, Ralbag, Rabbi Yeshayah of Trani, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rav Hirsch, Rabbi Moshe David Valle, Rabbi Moshe Ibn Ezra, Peirush HaRokeach, Rabbi Todros Abulafia, Rabbi Binyamin HaRofeh Anav, Maharal, Rabbi Eliezer Papo, Rabbi Pinchas Eliyahu Horowitz, Rabbi Yosef Chaim of Baghdad, Dr. Chaim Tawil, William Foxwell Albright, Dr. Shmuel Yeivin]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -51,8 +51,8 @@ stronghold, and unrefined ore are all live readings of Iyov 22:24. Tehillim
 | זהב | zahav | gold | the ordinary term; seven grades in Yoma 44b-45a; borrowed for anything pristine (Ibn Janach, Radak) |
 | פז | paz | fine gold | good and unadulterated (Radak), best and rarest (Wertheimer); shimmering as though dancing (Pappenheim); a gemstone for Ibn Ezra |
 | כתם | kesem | fine gold | pure enough to beat paper-thin, hence conspicuous, hence also a stain (Pappenheim) |
-| חרוץ | charutz | mined gold | dug from the earth (Marcus, Wertheimer); or gold that drives men to diligence (Rabbi Yishaya of Trani) |
-| בצר | betzer | gold ore | gold (Ibn Janach, Radak, Ralbag) / silver (Ibn Ezra) / a stronghold (Rashi) / crude ore (Rabbi Yishaya of Trani) |
+| חרוץ | charutz | mined gold | dug from the earth (Marcus, Wertheimer); or gold that drives men to diligence (Rabbi Yeshayah of Trani) |
+| בצר | betzer | gold ore | gold (Ibn Janach, Radak, Ralbag) / silver (Ibn Ezra) / a stronghold (Rashi) / crude ore (Rabbi Yeshayah of Trani) |
 
 ## Where the authorities disagree
 
@@ -85,7 +85,7 @@ stronghold, and unrefined ore are all live readings of Iyov 22:24. Tehillim
 - Ibn Janach, Radak, and Ralbag: gold.
 - Ibn Ezra: silver.
 - Menachem, followed by Rashi: a stronghold.
-- Rabbi Yishaya of Trani: not gold itself but the crude ore from which gold is
+- Rabbi Yeshayah of Trani: not gold itself but the crude ore from which gold is
   refined.
 
 The pasuk has Elifaz the Temani telling Iyov that if he repents he will have a
@@ -175,7 +175,7 @@ Six occurrences as gold.
 - Against that, Rabbi Aharon Marcus: from ח-ר-צ, cutting or digging with a sharp
   instrument, since gold is dug out of the earth; Rabbi Wertheimer says the
   same.
-- Rabbi Yishaya of Trani takes it from the word's other sense: gold is called
+- Rabbi Yeshayah of Trani takes it from the word's other sense: gold is called
   *charutz* because chasing it makes a man diligent and industrious.
 
 ### Color as the distinction
@@ -214,4 +214,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Where's The Gold?](https://articles.ohr.edu/articles/wheres-the-gold)," *What's in a Word?*, Ohr Somayach, 30 May 2020.
 
-Cited in the essay: Bereishis 2:11-12 with Ramban, 10:29, 49:23-24 with Rav Hirsch; Melachim I 6 and 7, 9:28, 10:11, 10:16-18, 22:49; Divrei HaYamim I 1:23, 29:4; Divrei HaYamim II 3:6, 4, 9:10, 9:15-16; Yeshayahu 13:12; Yirmiyahu 2:22, 10:9, 51:7; Zechariah 4:12; Tehillim 19:11 with Radak, Ibn Ezra and Rav Hirsch, 45:10, 68:14, 119:72, 119:127; Iyov 22:24-25, 28:16, 31:24, 36:19; Shir HaShirim 5:11 with Ibn Ezra; Shmuel II 6:16; Daniel 10:5; Mishlei 25:11; Yoma 44b-45a and Mishnah Yoma 4:4; Mishnah Niddah 8:1; *Tosafos* to Nedarim 32a; *Shemos Rabbah* 35:1; *Tikkunei Zohar* *Tikkun* 70; Rabbi Pinchas Eliyahu Horowitz, *Sefer HaBris*; Menachem Ibn Saruk; Donash Ibn Labrat; Ibn Janach; Radak; Ralbag; Rashi; Rabbi Yishaya of Trani; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe David Valle; Rabbi Moshe Ibn Ezra; *Peirush HaRokeach*; Rabbi Todros Abulafia; Rabbi Binyamin HaRofeh Anav; the Maharal; Rabbi Eliezer Papo; Rabbi Yosef Chaim of Baghdad; Dr. Chaim Tawil; William Foxwell Albright; Dr. Shmuel Yeivin; the *Oxford English Dictionary*.
+Cited in the essay: Bereishis 2:11-12 with Ramban, 10:29, 49:23-24 with Rav Hirsch; Melachim I 6 and 7, 9:28, 10:11, 10:16-18, 22:49; Divrei HaYamim I 1:23, 29:4; Divrei HaYamim II 3:6, 4, 9:10, 9:15-16; Yeshayahu 13:12; Yirmiyahu 2:22, 10:9, 51:7; Zechariah 4:12; Tehillim 19:11 with Radak, Ibn Ezra and Rav Hirsch, 45:10, 68:14, 119:72, 119:127; Iyov 22:24-25, 28:16, 31:24, 36:19; Shir HaShirim 5:11 with Ibn Ezra; Shmuel II 6:16; Daniel 10:5; Mishlei 25:11; Yoma 44b-45a and Mishnah Yoma 4:4; Mishnah Niddah 8:1; *Tosafos* to Nedarim 32a; *Shemos Rabbah* 35:1; *Tikkunei Zohar* *Tikkun* 70; Rabbi Pinchas Eliyahu Horowitz, *Sefer HaBris*; Menachem Ibn Saruk; Donash Ibn Labrat; Ibn Janach; Radak; Ralbag; Rashi; Rabbi Yeshayah of Trani; Rabbi Shlomo Pappenheim; Rabbi Aharon Marcus; Rabbi Shlomo Aharon Wertheimer; Rabbi Moshe David Valle; Rabbi Moshe Ibn Ezra; *Peirush HaRokeach*; Rabbi Todros Abulafia; Rabbi Binyamin HaRofeh Anav; the Maharal; Rabbi Eliezer Papo; Rabbi Yosef Chaim of Baghdad; Dr. Chaim Tawil; William Foxwell Albright; Dr. Shmuel Yeivin; the *Oxford English Dictionary*.

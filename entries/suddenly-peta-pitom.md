@@ -2,7 +2,7 @@
 cluster: suddenly
 hebrew: [פתע, פתאום, פתי, פתוי]
 roots: [פ-ת-ע, פ-ת-ם, פ-ת-ה]
-translit: [peta, feta, pesa, pitom, pitom, pitomi, pisom, peti, pesi, petaim, pitui, pituy, haftaah, hafta'ah]
+translit: [peta, feta, pesa, pitom, pitomi, pisom, peti, pesi, petaim, pitui, pituy, haftaah, hafta'ah]
 english: [suddenly, all at once, unforeseen, simple-minded, persuading]
 domain: time
 words:

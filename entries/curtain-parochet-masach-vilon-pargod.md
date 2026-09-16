@@ -22,10 +22,10 @@ words:
   - he: פרגוד
     tr: pargod
     en: partition curtain
-    distinct: "the Rabbinic word where Tanach has paroches: the curtain separating a chasan from everyone else (Sefer HaAruch), glossed simply as paroches (Rav Hai Gaon); in aggadah the separation between Hashem and the malachim, or His Holy Presence (Rashi)"
+    distinct: "the Rabbinic word where Tanach has paroches: the curtain separating a chasan from everyone else (Sefer HeAruch), glossed simply as paroches (Rav Hai Gaon); in aggadah the separation between Hashem and the malachim, or His Holy Presence (Rashi)"
 sources:
   - wiaw:8157 "Raise the Curtain" (2019-03-02) https://articles.ohr.edu/articles/raise-the-curtain
-authorities: [Rashi, Rabbi Shlomo Pappenheim, Shoresh Yesha, Sefer HaAruch, Rav Hai Gaon, Rabbi Ernest Klein]
+authorities: [Rashi, Rabbi Shlomo Pappenheim, Shoresh Yesha, Sefer HeAruch, Rav Hai Gaon, Rabbi Ernest Klein]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -101,7 +101,7 @@ literally mean to undo a veiling.
 ### pargod (פרגוד)
 The Rabbinic word used where Tanach has *paroches*.
 
-- Rabbi Nosson of Rome in *Sefer HaAruch*: a *pargod* is the curtain separating
+- Rabbi Nosson of Rome in *Sefer HeAruch*: a *pargod* is the curtain separating
   a *chasan* from everyone else. This mirrors the *paroches* separating a king
   from the people and the Kodesh HaKodashim from the Kodesh.
 - Rav Hai Gaon, on the Mishnah's *pargod* (*Keilim* 29:1), glosses it simply as
@@ -150,4 +150,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Raise the Curtain](https://articles.ohr.edu/articles/raise-the-curtain)," *What's in a Word?*, Ohr Somayach, 2 March 2019.
 
-Cited in the essay: Shemos 1:13, 26:31, 26:31-33, 26:36, 35:12; Shmuel II 17:19; Tehillim 105:39; *Keilim* 20:6, 24:13, 27:9, 29:1; *Negaim* 11:11; *Chagigah* 12b and 15a; *Bava Metzia* 59a; *Berachos* 18b; Rashi to Shemos 26:31, 26:36 and 35:12; *Sefer HaAruch* s.v. *pargod*; Rav Hai Gaon to *Keilim* 29:1; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Ernest Klein.
+Cited in the essay: Shemos 1:13, 26:31, 26:31-33, 26:36, 35:12; Shmuel II 17:19; Tehillim 105:39; *Keilim* 20:6, 24:13, 27:9, 29:1; *Negaim* 11:11; *Chagigah* 12b and 15a; *Bava Metzia* 59a; *Berachos* 18b; Rashi to Shemos 26:31, 26:36 and 35:12; *Sefer HeAruch* s.v. *pargod*; Rav Hai Gaon to *Keilim* 29:1; *Shoresh Yesha*; Rabbi Shlomo Pappenheim; Rabbi Ernest Klein.

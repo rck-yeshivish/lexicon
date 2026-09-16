@@ -13,14 +13,14 @@ words:
   - he: רדיד
     tr: redid
     en: shawl, wrap
-    distinct: a thin tza'if for the head (Sefer HaAruch); a thin garment (Radak); akin to a tallis (Ibn Ezra); from ר-ד, hanging down, or the inner covering lowered beneath the outer (Rabbi Shlomo Pappenheim); the wrap without which women did not appear in public (Rambam)
+    distinct: a thin tza'if for the head (Sefer HeAruch); a thin garment (Radak); akin to a tallis (Ibn Ezra); from ר-ד, hanging down, or the inner covering lowered beneath the outer (Rabbi Shlomo Pappenheim); the wrap without which women did not appear in public (Rambam)
   - he: סודר
     tr: sudar
     en: shawl
     distinct: the Talmud's term for a shawl worn by a man, as against the woman's tza'if and redid; also a cloth waved as a signal; from the Greek soudarion and Latin sudarium (Rabbi Ernest Klein)
 sources:
   - wiaw:11584 "Chayei Sarah: All Wrapped Up" (2024-11-23) https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up
-authorities: [Targum Onkelos, Targum Yonasan, Targum Yerushalmi, Rabbi Menachem ben Shlomo, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia al Damari, Rabbi Avraham Vilner, Rabbi Yaakov Zev Lev, Rabbi Yehoshua Steinberg, Rabbi Yitzchak Ratzabi, Ibn Saruk, Ibn Janach, Gesenius, Shadal, Rav Hirsch, Samuel Shaviv, Sefer HaAruch, Ibn Ezra, Radak, Metzudas Tzion, Rabbi Shlomo Pappenheim, Rambam, Rabbi Ernest Klein]
+authorities: [Targum Onkelos, Targum Yonasan, Targum Yerushalmi, Rabbi Menachem ben Shlomo, Rabbi Yehudah Aryeh of Carpentras, Rabbi Saadia al Damari, Rabbi Avraham Vilner, Rabbi Yaakov Zev Lev, Rabbi Yehoshua Steinberg, Rabbi Yitzchak Ratzabi, Ibn Saruk, Ibn Janach, Gesenius, Shadal, Rav Hirsch, Samuel Shaviv, Sefer HeAruch, Ibn Ezra, Radak, Metzudas Tzion, Rabbi Shlomo Pappenheim, Rambam, Rabbi Ernest Klein]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -45,7 +45,7 @@ public. Targum pseudo-Yonasan and Targum Yerushalmi always render *tza'if* as
 | Hebrew | translit | English | what sets it apart |
 |---|---|---|---|
 | צעיף | tza'if | veil, shawl, headcloth | spread over her face (Midrash Sechel Tov); worn going outside (Rabbi Ratzabi) |
-| רדיד | redid | shawl, wrap | a thin head covering (Sefer HaAruch, Radak); worn in public (Rambam) |
+| רדיד | redid | shawl, wrap | a thin head covering (Sefer HeAruch, Radak); worn in public (Rambam) |
 | סודר | sudar | shawl | a man's shawl, unlike *tza'if* and *redid*; also a signal cloth |
 
 ## Distinctions
@@ -118,12 +118,12 @@ destruction of the First Temple.
 Once in the Mishnah, on how much of a string hanging from a *redid* counts as
 part of it for tumah (Keilim 29:1).
 
-- In that context Rabbi Nosson of Rome (*Sefer HaAruch*) defines a *radid* as a
+- In that context Rabbi Nosson of Rome (*Sefer HeAruch*) defines a *radid* as a
   thin *tza'if* that women use to cover their heads.
 - Ibn Ezra (to Yeshayahu 3:23 and Shir HaShirim 5:7) explains that in Arabic
   *redid* is something akin to a tallis, a shawl, and Radak (there) similarly
   calls it a thin garment.
-- Radak relates the Hebrew *redid* to the Arabic *arid*; *Sefer HaAruch* and
+- Radak relates the Hebrew *redid* to the Arabic *arid*; *Sefer HeAruch* and
   others connect it with the Arabic *rida*, a fabric for wrapping the upper
   body.
 
@@ -198,4 +198,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Chayei Sarah: All Wrapped Up](https://articles.ohr.edu/articles/chayei-sarah-all-wrapped-up)," *What's in a Word?*, Ohr Somayach, 23 November 2024.
 
-Cited in the essay: Bereishis 24:65, 25:4, 38:14, 38:19, 40:6; Divrei HaYamim I 1:33; Yeshayahu 3:23; Shir HaShirim 1:12, 4:13, 4:14, 5:7; Targum pseudo-Yonasan, Targum Yerushalmi, and Onkelos to Bereishis 24:65, 38:14, 38:19; Targum Onkelos to Shemos 26:9, 28:16, 39:3; Rabbi Menachem ben Shlomo, *Midrash Sechel Tov* to Bereishis 24:65; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Rabbi Saadia al Damari, *Midrash HaBeiur* to Bereishis 24:65; Rabbi Avraham Vilner, *Tirgem Avraham* to Bereishis 24:65; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Bereishis 38:14; Ibn Saruk, Ibn Janach, and Radak; Shadal to Bereishis 24:65, citing Gesenius; Rav Hirsch to Bereishis 24:65 and 40:6; Rabbi Yehoshua Steinberg; Rabbi Yitzchak Ratzabi; Samuel Shaviv's 1984 essay in *Beit Mikra*; Mishnah Keilim 29:1, and for *sudar* Shabbos 3:3, 20:2, Yoma 6:8, Sanhedrin 6:1, 7:2-3, Tamid 7:3; *Sefer HaAruch* s.v. *radid*; Ibn Ezra to Yeshayahu 3:23 and Shir HaShirim 5:7; Radak to Yeshayahu 3:23; Rambam, *Hilchos Ishus* 13:11 and 24:12, *Hilchos Sotah* 3:5, *Hilchos Sanhedrin* 23:3; *Metzudas Tzion* to Yeshayahu 3:23; Rabbi Shlomo Pappenheim; Rabbi Ernest Klein's etymological dictionary of Hebrew, s.v. *sudar*.
+Cited in the essay: Bereishis 24:65, 25:4, 38:14, 38:19, 40:6; Divrei HaYamim I 1:33; Yeshayahu 3:23; Shir HaShirim 1:12, 4:13, 4:14, 5:7; Targum pseudo-Yonasan, Targum Yerushalmi, and Onkelos to Bereishis 24:65, 38:14, 38:19; Targum Onkelos to Shemos 26:9, 28:16, 39:3; Rabbi Menachem ben Shlomo, *Midrash Sechel Tov* to Bereishis 24:65; Rabbi Yehudah Aryeh of Carpentras, *Ohalei Yehudah*; Rabbi Saadia al Damari, *Midrash HaBeiur* to Bereishis 24:65; Rabbi Avraham Vilner, *Tirgem Avraham* to Bereishis 24:65; Rabbi Yaakov Zev Lev, *Me'at Tzari* to Bereishis 38:14; Ibn Saruk, Ibn Janach, and Radak; Shadal to Bereishis 24:65, citing Gesenius; Rav Hirsch to Bereishis 24:65 and 40:6; Rabbi Yehoshua Steinberg; Rabbi Yitzchak Ratzabi; Samuel Shaviv's 1984 essay in *Beit Mikra*; Mishnah Keilim 29:1, and for *sudar* Shabbos 3:3, 20:2, Yoma 6:8, Sanhedrin 6:1, 7:2-3, Tamid 7:3; *Sefer HeAruch* s.v. *radid*; Ibn Ezra to Yeshayahu 3:23 and Shir HaShirim 5:7; Radak to Yeshayahu 3:23; Rambam, *Hilchos Ishus* 13:11 and 24:12, *Hilchos Sotah* 3:5, *Hilchos Sanhedrin* 23:3; *Metzudas Tzion* to Yeshayahu 3:23; Rabbi Shlomo Pappenheim; Rabbi Ernest Klein's etymological dictionary of Hebrew, s.v. *sudar*.

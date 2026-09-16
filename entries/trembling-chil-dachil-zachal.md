@@ -21,7 +21,7 @@ words:
     distinct: two discrete senses, fear and crawling (Menachem Ibn Saruk); at Devarim 32:24 crawling snakes (Rashi) or the fear they cause (Ibn Ezra); in the fear sense perhaps a Hebraicized dachil (Metzudas Tzion); Elihu's zachalti also read as delay (Rabbi Yosef Kara)
 sources:
   - wiaw:11544 "Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)" (2024-09-21) https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13
-authorities: [Rav Hirsch, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonasan, Rabbi Eliyahu Bachur, Menachem Ibn Saruk, Rashi, Ibn Ezra, Ibn Janach, Rabbi Yosef Kara, Sforno, Metzudas Tzion, Rabbi David Golumb, Rabbi Asher Weiser, Toras Chaim, Rabbi Shaul Goldman, Dr. Tzvi Langermann]
+authorities: [Rav Hirsch, Rabbi Shlomo Pappenheim, Targum Onkelos, Targum Yonasan, Rabbi Eliyahu HaBachur, Menachem Ibn Saruk, Rashi, Ibn Ezra, Ibn Janach, Rabbi Yosef Kara, Sforno, Metzudas Tzion, Rabbi David Golumb, Rabbi Asher Weiser, Toras Chaim, Rabbi Shaul Goldman, Dr. Tzvi Langermann]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -83,7 +83,7 @@ cramping or spasming of the entire body in reaction to something frightening.
 Root ד-ח-ל, absent from Biblical Hebrew but six times in the Aramaic parts of
 Daniel (2:31, 4:2, 5:19, 6:27, 7:7, 7:19), most famously the fourth beast,
 *dechilah*, "scary" (Daniel 7:7). Targum typically uses this root to render
-Hebrew *yirah*, *nora* and *pachad* (for examples, Rabbi Eliyahu Bachur,
+Hebrew *yirah*, *nora* and *pachad* (for examples, Rabbi Eliyahu HaBachur,
 *Meturgeman*); Onkelos renders *chil* at Shemos 15:14 and *chalu* at Devarim 2:25
 with *dachla*.
 
@@ -191,4 +191,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Nitzavim-Vayelech: Shake & Quake (Pt. 1/3)](https://articles.ohr.edu/articles/nitzavim-vayelech-shake-quake-pt-13)," *What's in a Word?*, Ohr Somayach, 21 September 2024.
 
-Cited in the essay: Shemos 15:14 (with Rav Hirsch), 20:20 (Onkelos); Bamidbar 21:35 (Targum Yonasan); Devarim 2:25 (Onkelos), 32:24 (Rashi, Ibn Ezra, Rav Hirsch); Yeshayahu 21:3; Yirmiyahu 6:24, 22:23, 50:43; Yechezkel 30:4, 30:9; Michah 4:9, 7:17; Tehillim 48:7; Iyov 32:6 (Rashi, Ibn Ezra, *Metzudas Tzion*, Rabbi Yosef Kara, Sforno); Esther 4:4; Daniel 2:31, 4:2, 5:19, 6:27, 7:7, 7:19; Megillah 15a; Bava Basra 27b with *Toras Chaim*; Yerushalmi *Sanhedrin* 11:4; *Esther Rabbah* 7:14 and 8:3; *Koheles Rabbah* 8:1; *Tosefta Chullin* 3:25; *Eruvin* 10:6, *Bava Basra* 2:5 and 3:6, *Eduyos* 7:3 to 4, *Mikvaos* 1:8, 5:4, 5:5, *Parah* 8:8; Rabbi Shlomo Pappenheim; Rabbi Eliyahu Bachur, *Meturgeman*; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Rabbi David Golumb; Rabbi Asher Weiser; Rabbi Yekusiel bar Moshe, *Yarasi Befitzchi Si*; Rabbi Shaul Goldman and Dr. Tzvi Langermann (communications to the author).
+Cited in the essay: Shemos 15:14 (with Rav Hirsch), 20:20 (Onkelos); Bamidbar 21:35 (Targum Yonasan); Devarim 2:25 (Onkelos), 32:24 (Rashi, Ibn Ezra, Rav Hirsch); Yeshayahu 21:3; Yirmiyahu 6:24, 22:23, 50:43; Yechezkel 30:4, 30:9; Michah 4:9, 7:17; Tehillim 48:7; Iyov 32:6 (Rashi, Ibn Ezra, *Metzudas Tzion*, Rabbi Yosef Kara, Sforno); Esther 4:4; Daniel 2:31, 4:2, 5:19, 6:27, 7:7, 7:19; Megillah 15a; Bava Basra 27b with *Toras Chaim*; Yerushalmi *Sanhedrin* 11:4; *Esther Rabbah* 7:14 and 8:3; *Koheles Rabbah* 8:1; *Tosefta Chullin* 3:25; *Eruvin* 10:6, *Bava Basra* 2:5 and 3:6, *Eduyos* 7:3 to 4, *Mikvaos* 1:8, 5:4, 5:5, *Parah* 8:8; Rabbi Shlomo Pappenheim; Rabbi Eliyahu HaBachur, *Meturgeman*; Menachem Ibn Saruk, *Machberes Menachem*; Ibn Janach, *Sefer HaShorashim*; Rabbi David Golumb; Rabbi Asher Weiser; Rabbi Yekusiel bar Moshe, *Yarasi Befitzchi Si*; Rabbi Shaul Goldman and Dr. Tzvi Langermann (communications to the author).

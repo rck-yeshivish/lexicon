@@ -2,7 +2,7 @@
 cluster: outer garment
 hebrew: [אדרת, גלימא, איצטלא, תכריך, טלית, גולם]
 roots: [א-ד-ר, ג-ל-מ, כ-ר-כ, ט-ל-ל]
-translit: [aderet, aderes, adderet, glima, gelima, gelem, itztala, itztela, istala, istalvan, itztala drabbanan, tachrich, tachrichin, tachrichim, tallit, tallis, golem, gelem, adir, adirim, sudar]
+translit: [aderet, aderes, adderet, glima, gelima, gelem, itztala, itztela, istala, istalvan, itztala drabbanan, tachrich, tachrichin, tachrichim, tallit, tallis, golem, adir, adirim, sudar]
 english: [mantle, cloak, robe, wrap, shroud, shawl]
 domain: society
 words:
@@ -109,7 +109,7 @@ Rashi's own glosses vary. Once he defines *glima* as *aderes* (Shabbos 10a),
 once as *sudar* (Bava Metzia 47a), in at least one place as *tachrichin*, where
 the sugya concerns a corpse's clothing (Shabbos 150b), but in the great majority
 of places as *tallis* (Shabbos 110b, 138b; Eruvin 94a, 96b, 102b; Kesubos 79b;
-Bava Kama 119b; Bava Metzia 28a, 114b; Bava Basra 128a; Sanhedrin 7a; Chullin
+Bava Kamma 119b; Bava Metzia 28a, 114b; Bava Basra 128a; Sanhedrin 7a; Chullin
 127a).
 
 Rabbi David Golumb (*Targumna* to Bereishis 49:26) and Rav Hirsch (Vayikra
@@ -204,4 +204,4 @@ Rabbi Reuven Chaim Klein, "[Toldot: Noble Clothes](https://articles.ohr.edu/arti
 
 Rabbi Reuven Chaim Klein, "[Korach: Growing the Fringes (Part 2/2)](https://articles.ohr.edu/articles/korach-growing-the-fringes-part-22)," *What's in a Word?*, Ohr Somayach, 28 June 2025.
 
-Cited in the essay: Bereishis 25:25 with Targum Onkelos, 45:22 in Targum, 49:26 with Rabbi David Golumb, *Targumna*; Vayikra 13:59 and Tehillim 139:16 with Rav Hirsch; Yehoshua 7:21, 7:24 with Targum Yonasan; Melachim I 19:13; Melachim II 1:8, 2:8, 2:13-14; Yechezkel 27:24; Zechariah 13:4 with Rashi; Esther 7:6 and 8:15 in Targum; *Avos* 5:7; *Gittin* 6:5; Shabbos 10a, 77b, 110b, 138b, 150b; Eruvin 94a, 96b, 102b; Yevamos 66b; Kesubos 79b; Bava Kama 119b; Bava Metzia 17a, 28a, 47a, 114b; Bava Basra 128a; Sanhedrin 7a, 44a; Shevuos 31a; Bechoros 34b; Chullin 127a; Ibn Janach and Radak, *Sifrei HaShorashim*; Rabbi Shlomo Pappenheim; Rabbi Nosson of Rome, *Sefer HeAruch*; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Yosef Chaim of Baghdad, *Torah Lishmah* 327; Dr. Michael Sokoloff; Dr. Alexander Kohut; *The American Heritage Dictionary of Indo-European Roots*; the *Comprehensive Aramaic Lexicon Project*; David Curwin, *Balashon*, citing Rabbi Dr. Seth Mandel; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*.
+Cited in the essay: Bereishis 25:25 with Targum Onkelos, 45:22 in Targum, 49:26 with Rabbi David Golumb, *Targumna*; Vayikra 13:59 and Tehillim 139:16 with Rav Hirsch; Yehoshua 7:21, 7:24 with Targum Yonasan; Melachim I 19:13; Melachim II 1:8, 2:8, 2:13-14; Yechezkel 27:24; Zechariah 13:4 with Rashi; Esther 7:6 and 8:15 in Targum; *Avos* 5:7; *Gittin* 6:5; Shabbos 10a, 77b, 110b, 138b, 150b; Eruvin 94a, 96b, 102b; Yevamos 66b; Kesubos 79b; Bava Kamma 119b; Bava Metzia 17a, 28a, 47a, 114b; Bava Basra 128a; Sanhedrin 7a, 44a; Shevuos 31a; Bechoros 34b; Chullin 127a; Ibn Janach and Radak, *Sifrei HaShorashim*; Rabbi Shlomo Pappenheim; Rabbi Nosson of Rome, *Sefer HeAruch*; Rabbi Eliyahu HaBachur, *Meturgeman*; Rabbi Yosef Chaim of Baghdad, *Torah Lishmah* 327; Dr. Michael Sokoloff; Dr. Alexander Kohut; *The American Heritage Dictionary of Indo-European Roots*; the *Comprehensive Aramaic Lexicon Project*; David Curwin, *Balashon*, citing Rabbi Dr. Seth Mandel; Rabbi Tanchum HaYerushalmi, *HaMadrich HaMaspik*.

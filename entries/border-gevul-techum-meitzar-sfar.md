@@ -9,7 +9,7 @@ words:
   - he: גבול
     tr: gevul
     en: border, territory
-    distinct: the Biblical word, at its core the whole area within the borders, not just the edge (Rav Hirsch); the point of convergence that both separates and merges (HaKtav VeHaKabbalah); the border that unites a land as one (Rabbi Rivlin); cognate with Arabic jabal, mountain (Gesenius)
+    distinct: the Biblical word, at its core the whole area within the borders, not just the edge (Rav Hirsch); the point of convergence that both separates and merges (HaKsav VeHaKabbalah); the border that unites a land as one (Rabbi Rivlin); cognate with Arabic jabal, mountain (Gesenius)
   - he: תחום
     tr: techum
     en: bounded area
@@ -29,7 +29,7 @@ sources:
   - wiaw:11471 "Matos/Masei: On the Border" (2024-08-03) https://articles.ohr.edu/articles/matosmasei-on-the-border
   - wiaw:9642 "Haircut Time" (2022-04-02) https://articles.ohr.edu/articles/haircut-time
   - wiaw:8217 "Pesach: Telling the Story" (2019-04-13) https://articles.ohr.edu/articles/pesach-telling-the-story
-authorities: [Rashi, Targum Onkelos, Mahari Kara, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Radak, Rav Hirsch, HaKtav VeHaKabbalah, Rabbi Shlomo Pappenheim, Rabbi Yehoshua Steinberg, Rabbi David Golumb, Rabbi Avraham Rivlin, Rabbi Benzion Chaim Lubetzki, Ramak, Rabbi Saadia Gaon, Rabbi Avraham Yitzchok Shain, Rabbi Pinchas of Koretz, Rabbi Ernest Klein, Wilhelm Gesenius, Rabbi Moshe Shapiro]
+authorities: [Rashi, Targum Onkelos, Mahari Kara, Ibn Ezra, Rabbi Yehuda Ibn Kuraish, Radak, Rav Hirsch, HaKsav VeHaKabbalah, Rabbi Shlomo Pappenheim, Rabbi Yehoshua Steinberg, Rabbi David Golumb, Rabbi Avraham Rivlin, Rabbi Benzion Chaim Lubetzki, Ramak, Rabbi Saadia Gaon, Rabbi Avraham Yitzchok Shain, Rabbi Pinchas of Koretz, Rabbi Ernest Klein, Wilhelm Gesenius, Rabbi Moshe Shapiro]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -64,7 +64,7 @@ boundaries."
 Root ג-ב-ל. The Torah uses *gevul* and its inflections fourteen times in the
 twelve pesukim laying out the borders of Eretz Yisrael (Bamidbar 34:1-12). The
 root also means to limit: Hashem tells Moshe to bound the people off
-(*v'higbalta*) around Har Sinai (Shemos 19:12; *HaKtav VeHaKabbalah* there).
+(*v'higbalta*) around Har Sinai (Shemos 19:12; *HaKsav VeHaKabbalah* there).
 
 Rav Hirsch (to Shemos 7:27) makes the key point: *gevul* at its core is the
 area within the borders, not just the edge. Hashem strikes Pharaoh's whole *gevul*
@@ -72,7 +72,7 @@ with frogs (Shemos 7:27) and brings locusts into his *gevul* (Shemos 10:4);
 chametz is forbidden "in all your borders" (Shemos 13:7). The frogs are not
 confined to Egypt's edges but fill the whole country, and the last two cases
 likewise take in a whole country, not just the border region (see *Yerios
-Shlomo* p. 836 and *HaKtav VeHaKabbalah* to Shemos 13:7). Rav Hirsch links
+Shlomo* p. 836 and *HaKsav VeHaKabbalah* to Shemos 13:7). Rav Hirsch links
 *gevul* to *yevul*, produce, what one brings inside one's bounds, on the
 gimmel/yod interchange.
 
@@ -86,7 +86,7 @@ fortifying. Rabbi Avraham Rivlin raises the opposite problem: in Rabbinic
 Hebrew the same root means to knead and mix (*Ohalos* 2:2, *Shabbos* 24:3,
 *Bava Metzia* 10:5, *Parah* 9:5), which unifies rather than divides. He answers
 that the border separating one land from another is what unites that land as
-one; *HaKtav VeHaKabbalah* (to Shemos 19:12) answers that a *gevul* is the
+one; *HaKsav VeHaKabbalah* (to Shemos 19:12) answers that a *gevul* is the
 point of convergence, where one domain ends the other begins, so that it both
 separates and merges. Rabbi Reuven Chaim Klein adds a third possibility of his own: Hebrew
 roots not uncommonly carry a sense and its opposite, *shoresh* (root) beside
@@ -149,7 +149,7 @@ near the *sfar* (*Sotah* 9:2). Targum uses it likewise (Bereishis 49:13, Devarim
 later Rabbinic Hebrew; there is one possible Biblical appearance, *sefarah* in
 Bereishis 10:30, where the land of Shem's descendants stretches from Meisha
 (Mecca, per Rabbi Saadia Gaon) to its *sfar* at Har HaKedem, and Targum Onkelos
-renders with *sfar*. On that basis Rabbi Mecklenburg (*HaKtav VeHaKabbalah* to
+renders with *sfar*. On that basis Rabbi Mecklenburg (*HaKsav VeHaKabbalah* to
 Vayikra 23:16; *Iyun Tefillah* to Tehillim 147:5) calls it the only instance of
 *sfar* in Biblical Hebrew, though most other commentators appear to take
 *sefarah* there as a place name.
@@ -202,4 +202,4 @@ Rabbi Reuven Chaim Klein, "[Haircut Time](https://articles.ohr.edu/articles/hair
 
 Rabbi Reuven Chaim Klein, "[Pesach: Telling the Story](https://articles.ohr.edu/articles/pesach-telling-the-story)," *What's in a Word?*, Ohr Somayach, 13 April 2019.
 
-Cited in the essay: Eichah 1:3 with *Eichah Rabbah* 1:29, Rashi, Ibn Ezra, Targum and Mahari Kara; Bamidbar 34:1-12; Shemos 7:27 with Rav Hirsch, 10:4, 13:7, 19:12, 19:23; Bereishis 10:6, 10:19, 10:30, 23:17, 49:13; Devarim 1:7, 19:4; Melachim I 5:32; Yechezkel 27:9; Tzefaniah 2:5-6; Amos 5:9; Tehillim 39:14, 118:5, 147:5; Iyov 9:27, 10:20; Divrei HaYamim I 1:8; Kesubos 44a; Mishnah *Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3 and 9:2, *Sanhedrin* 1:5, *Ohalos* 2:2, *Shabbos* 24:3, *Bava Metzia* 10:5, *Parah* 9:5; Radak, *Sefer HaShorashim*; Rabbi Yehuda Ibn Kuraish, *Risala*; *Yerios Shlomo* p. 836; *Cheshek Shlomo*; *HaKtav VeHaKabbalah* to Shemos 13:7, 19:12 and Vayikra 23:16; *Iyun Tefillah* to Tehillim 147:5; *Targumna* to Shemos 9:29 and Vayikra 14:9; *Midrash Safah Echas*; *Birkas Ish*; *Pardes Rimonim* shaar 8 ch. 2; Rabbi Ernest Klein's etymological dictionary; Wilhelm Gesenius.
+Cited in the essay: Eichah 1:3 with *Eichah Rabbah* 1:29, Rashi, Ibn Ezra, Targum and Mahari Kara; Bamidbar 34:1-12; Shemos 7:27 with Rav Hirsch, 10:4, 13:7, 19:12, 19:23; Bereishis 10:6, 10:19, 10:30, 23:17, 49:13; Devarim 1:7, 19:4; Melachim I 5:32; Yechezkel 27:9; Tzefaniah 2:5-6; Amos 5:9; Tehillim 39:14, 118:5, 147:5; Iyov 9:27, 10:20; Divrei HaYamim I 1:8; Kesubos 44a; Mishnah *Eruvin* 5:5, *Beitzah* 4:2, *Sotah* 5:3 and 9:2, *Sanhedrin* 1:5, *Ohalos* 2:2, *Shabbos* 24:3, *Bava Metzia* 10:5, *Parah* 9:5; Radak, *Sefer HaShorashim*; Rabbi Yehuda Ibn Kuraish, *Risala*; *Yerios Shlomo* p. 836; *Cheshek Shlomo*; *HaKsav VeHaKabbalah* to Shemos 13:7, 19:12 and Vayikra 23:16; *Iyun Tefillah* to Tehillim 147:5; *Targumna* to Shemos 9:29 and Vayikra 14:9; *Midrash Safah Echas*; *Birkas Ish*; *Pardes Rimonim* shaar 8 ch. 2; Rabbi Ernest Klein's etymological dictionary; Wilhelm Gesenius.

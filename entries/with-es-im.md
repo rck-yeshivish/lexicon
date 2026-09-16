@@ -81,7 +81,7 @@ was an equal.
 
 ### Rabbi Shlomo Pappenheim and Rabbi Yaakov Tzvi Mecklenburg: es is the stronger
 Rabbi Shlomo Pappenheim of Breslau (1740 to 1814), in *Cheshek Shlomo*, and
-Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865), in *HaKesav VeHaKabbalah*, take
+Rabbi Yaakov Tzvi Mecklenburg (1785 to 1865), in *HaKsav VeHaKabbalah*, take
 the opposite approach: *es* denotes a stronger and more equal "with" than *im*.
 In Rabbi Pappenheim's words, *im* is "with" circumstantially, two who happen to
 be together, and *es* is "with" deliberately and absolutely. Rabbi Mecklenburg
@@ -127,4 +127,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Are You Really 'With Me'?](https://articles.ohr.edu/articles/are-you-really-with-me)," *What's in a Word?*, Ohr Somayach, 13 July 2019.
 
-Cited in the essay: Bereishis 12:4 and 13:14 with Malbim and *HaKesav VeHaKabbalah*; Bereishis 24:32, 24:54, 50:7 and 50:9 with *HaKesav VeHaKabbalah*; Bereishis 37:18 with Rashi; Bereishis 40:4, 44:4, 44:24; Vayikra 13:49, 22:17; Bamidbar 13:17, 35:26; Bamidbar 22:12, 22:20, 22:21-22 with the Vilna Gaon; Shmuel II 12:6; Melachim I 9:25; *Zohar* Bereishis 78b; Ibn Janach and Radak; Rabbi Nachman Marcuson; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Tzvi Mecklenburg, *HaKesav VeHaKabbalah*.
+Cited in the essay: Bereishis 12:4 and 13:14 with Malbim and *HaKsav VeHaKabbalah*; Bereishis 24:32, 24:54, 50:7 and 50:9 with *HaKsav VeHaKabbalah*; Bereishis 37:18 with Rashi; Bereishis 40:4, 44:4, 44:24; Vayikra 13:49, 22:17; Bamidbar 13:17, 35:26; Bamidbar 22:12, 22:20, 22:21-22 with the Vilna Gaon; Shmuel II 12:6; Melachim I 9:25; *Zohar* Bereishis 78b; Ibn Janach and Radak; Rabbi Nachman Marcuson; Rabbi Shlomo Pappenheim, *Cheshek Shlomo*; Rabbi Yaakov Tzvi Mecklenburg, *HaKsav VeHaKabbalah*.

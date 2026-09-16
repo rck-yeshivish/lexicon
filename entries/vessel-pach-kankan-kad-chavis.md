@@ -29,7 +29,7 @@ words:
     distinct: not a container but a pipe-like item, typically hollow in the middle; for Rabbi Reuven Chaim Klein hollowness characterizes it, and Rashbam and Ibn Ezra write that the Menorah's kanim ought to be hollow
 sources:
   - wiaw:10751 "Miketz: Cans of Oil" (2022-12-17) https://articles.ohr.edu/articles/miketz-cans-of-oil
-authorities: [Rashi, Radak, Machberet Menachem, Rabbi Shlomo Pappenheim, Tosafot, Tosafos Yom Tov, Daas Zekeinim, Hadar Zekeinim, Rabbeinu Bachya, Rabbi Tzvi Elimelech Shapiro of Dinov, Dr. Alexander Kohut, Oxford English Dictionary, Rabbi Ernest Klein, Rambam, Rabbi Yosef Karo, Aruch HaShulchan HeAsid, Mabit, Rabbi Massoud Chai Rokach, Rabbi Avraham Dovber Kahane-Shapiro, Rashbam, Ibn Ezra, Jastrow]
+authorities: [Rashi, Radak, Machberes Menachem, Rabbi Shlomo Pappenheim, Tosafot, Tosafos Yom Tov, Daas Zekeinim, Hadar Zekeinim, Rabbeinu Bachya, Rabbi Tzvi Elimelech Shapiro of Dinov, Dr. Alexander Kohut, Oxford English Dictionary, Rabbi Ernest Klein, Rambam, Rabbi Yosef Karo, Aruch HaShulchan HeAsid, Mabit, Rabbi Massoud Chai Rokach, Rabbi Avraham Dovber Kahane-Shapiro, Rashbam, Ibn Ezra, Jastrow]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -67,7 +67,7 @@ typically hollow.
 - The early lexicographers derive *pach* from *mefakim*, the flow of liquid
   (Yechezkel 47:2, Shekalim 6:3, Middos 2:6), the *pach* being what liquid flows
   or is poured from. The triliteralists take the root as פ-כ-ה (Radak, *Sefer
-  HaShorashim*), the biliteralists as a two-letter פ-כ (*Machberet Menachem*,
+  HaShorashim*), the biliteralists as a two-letter פ-כ (*Machberes Menachem*,
   Rashi to Yechezkel 47:2).
 - Rabbi Shlomo Pappenheim also takes the root as פ-כ but gives it the sense of
   *reversal*, parent of *hafuch*: a flask with a narrow opening, which must be
@@ -77,7 +77,7 @@ typically hollow.
   *nofech* (Shemos 28:18, 39:11, Yechezkel 28:13) were borrowed from the
   cosmetic *puch*, the stones resembling its color.
 
-**The etymology of kankan.** Dr. Alexander Kohut (*HaAruch HaShaleim*) claims
+**The etymology of kankan.** Dr. Alexander Kohut (*Aruch HaShalem*) claims
 that Mishnaic *kankan* is a loanword from Latin *kanne*/*canna* ("reed," "cane,"
 "pipe," "tube," "small vessel"), probably by reduplication. The *Oxford English
 Dictionary* derives English *can* from the same Latin; other English words said
@@ -179,4 +179,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Miketz: Cans of Oil](https://articles.ohr.edu/articles/miketz-cans-of-oil)," *What's in a Word?*, Ohr Somayach, 17 December 2022.
 
-Cited in the essay: Bereishis 32:25 with Rashi, *Daas Zekeinim*, *Hadar Zekeinim*, and Rabbeinu Bachya; Shemos 25:31-36 (Rashbam and Ibn Ezra to 25:32), 28:18, 37:18-22, 39:11; I Shmuel 10:1; II Melachim 9:1, 9:3, 9:30; Yeshayahu 54:11; Yirmiyahu 4:30; Yechezkel 28:13, 47:2 (with Rashi); Divrei HaYamim I 29:2; Mishnah Shabbos 17:5, Beitzah 1:7, Bava Kamma 3:1, 3:5, 8:6, 10:4, Keilim 2:2, 3:2, 5:3, Negaim 12:5, Maaser Sheini 1:3-4, 3:12-13, Avodah Zarah 2:4, Kesubos 13:4 (with *Tosafos Yom Tov*), Bava Metzia 3:8, Shevuos 6:3, Mikvaos 2:7, 2:9, Terumos 11:7-8, Demai 7:8, Shekalim 6:3, Middos 2:6; Bava Kamma 27a; Chullin 91a; Avodah Zarah 32a (Tosafot), 71b (Rashi); Radak, *Sefer HaShorashim*; *Machberet Menachem*; Rabbi Shlomo Pappenheim; Dr. Alexander Kohut, *HaAruch HaShaleim*; the *Oxford English Dictionary*; Rabbi Ernest David Klein, *Comprehensive Etymological Dictionary of the English Language*; Jastrow; *Maoz Tzur*; Rabbi Tzvi Elimelech Shapiro of Dinov; Rambam, *Hilchos Beis HaBechirah* 3:4; Rabbi Yosef Karo; *Aruch HaShulchan HeAsid*; Mabit, *Kiryas Sefer*; Rabbi Massoud Chai Rokach; Rabbi Avraham Dovber Kahane-Shapiro.
+Cited in the essay: Bereishis 32:25 with Rashi, *Daas Zekeinim*, *Hadar Zekeinim*, and Rabbeinu Bachya; Shemos 25:31-36 (Rashbam and Ibn Ezra to 25:32), 28:18, 37:18-22, 39:11; I Shmuel 10:1; II Melachim 9:1, 9:3, 9:30; Yeshayahu 54:11; Yirmiyahu 4:30; Yechezkel 28:13, 47:2 (with Rashi); Divrei HaYamim I 29:2; Mishnah Shabbos 17:5, Beitzah 1:7, Bava Kamma 3:1, 3:5, 8:6, 10:4, Keilim 2:2, 3:2, 5:3, Negaim 12:5, Maaser Sheini 1:3-4, 3:12-13, Avodah Zarah 2:4, Kesubos 13:4 (with *Tosafos Yom Tov*), Bava Metzia 3:8, Shevuos 6:3, Mikvaos 2:7, 2:9, Terumos 11:7-8, Demai 7:8, Shekalim 6:3, Middos 2:6; Bava Kamma 27a; Chullin 91a; Avodah Zarah 32a (Tosafot), 71b (Rashi); Radak, *Sefer HaShorashim*; *Machberes Menachem*; Rabbi Shlomo Pappenheim; Dr. Alexander Kohut, *Aruch HaShalem*; the *Oxford English Dictionary*; Rabbi Ernest David Klein, *Comprehensive Etymological Dictionary of the English Language*; Jastrow; *Maoz Tzur*; Rabbi Tzvi Elimelech Shapiro of Dinov; Rambam, *Hilchos Beis HaBechirah* 3:4; Rabbi Yosef Karo; *Aruch HaShulchan HeAsid*; Mabit, *Kiryas Sefer*; Rabbi Massoud Chai Rokach; Rabbi Avraham Dovber Kahane-Shapiro.

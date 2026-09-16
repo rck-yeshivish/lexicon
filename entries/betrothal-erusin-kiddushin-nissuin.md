@@ -89,7 +89,7 @@ forbids her to all others as consecration forbids all men to benefit.
   with her.
 - Rabbi Alexander Sender Shor and Rabbi Elazar Moshe Horowitz: mid'oraisa the
   betrothed couple may already live together, and only the rabbinic enactment
-  forbids her to her own husband until nissuin (*Kallah* 1:1, Rashi to *Kesuvos*
+  forbids her to her own husband until nissuin (*Kallah* 1:1, Rashi to *Kesubos*
   8a); so only after that enactment does she resemble *hekdesh*, forbidden to
   everyone including her husband, and that is why the term is the Rabbis' and
   not the Torah's.
@@ -165,4 +165,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Holy Matrimony](https://articles.ohr.edu/articles/holy-matrimony)," *What's in a Word?*, Ohr Somayach, 3 October 2020.
 
-Cited in the essay: Devarim 33:4 with *Berachos* 57a and *Pesachim* 49b; Shemos 22:15 with Rav Hirsch; Devarim 20:7, 22:23-27, 28:30; *Kiddushin* 2b and 7b with Tosafos; Mishnah *Kiddushin* 2:1; *Kesubos* 4:5 and Rashi to *Kesuvos* 8a; Maseches *Kallah* 1:1; *Turei Zahav* to *Even HaEzer* 34:2; Shemos 19:10, Bamidbar 11:18; Rashi to Bereishis 38:21 and Devarim 23:18; Yechezkel 27:24.
+Cited in the essay: Devarim 33:4 with *Berachos* 57a and *Pesachim* 49b; Shemos 22:15 with Rav Hirsch; Devarim 20:7, 22:23-27, 28:30; *Kiddushin* 2b and 7b with Tosafos; Mishnah *Kiddushin* 2:1; *Kesubos* 4:5 and Rashi to *Kesubos* 8a; Maseches *Kallah* 1:1; *Turei Zahav* to *Even HaEzer* 34:2; Shemos 19:10, Bamidbar 11:18; Rashi to Bereishis 38:21 and Devarim 23:18; Yechezkel 27:24.

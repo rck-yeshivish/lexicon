@@ -2,7 +2,7 @@
 cluster: rebuke
 hebrew: [מוסר, תוכחה, תוכחת, יסורים]
 roots: [י-ס-ר, י-כ-ח]
-translit: [mussar, musar, mosar, yissurin, yisurin, yissurim, yisurim, tochachah, tochacha, tochechah, tochecha, tochachas, tochachat, tochechet, tochachos, tochachot, hochachah, hochacha, vikuach, vikuach, nochach, lehasir, assur, asur]
+translit: [mussar, musar, mosar, yissurin, yisurin, yissurim, yisurim, tochachah, tochacha, tochechah, tochecha, tochachas, tochachat, tochechet, tochachos, tochachot, hochachah, hochacha, vikuach, nochach, lehasir, assur, asur]
 english: [reproof, rebuke, discipline, chastisement, correction, moral instruction]
 domain: action
 words:

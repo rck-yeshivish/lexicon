@@ -18,7 +18,7 @@ words:
     nk: צִיץ
 sources:
   - wiaw:8622 "Foreheads and Fadihot" (2020-02-29) https://articles.ohr.edu/articles/foreheads-and-fadihot
-authorities: [Targum Yonasan, Rashi, Ritva, Tosafos Yeshanim, Tosafos HaShalem, Rav Hai Gaon, Rabbeinu Chananel, Sefer HaAruch, Rabbi Zecharia Aghmati, Rabbi Shlomo Pappenheim, Rabbi David Chaim Chelouche, Rabbi Yaakov Yehuda Zilberberg, Rabbi Yehoshua Steinberg, Rabbi Yosef de Jong, Rabbi Shaul Goldman, Alexander Kohut]
+authorities: [Targum Yonasan, Rashi, Ritva, Tosafos Yeshanim, Tosafos HaShalem, Rav Hai Gaon, Rabbeinu Chananel, Sefer HeAruch, Rabbi Zecharia Aghmati, Rabbi Shlomo Pappenheim, Rabbi David Chaim Chelouche, Rabbi Yaakov Yehuda Zilberberg, Rabbi Yehoshua Steinberg, Rabbi Yosef de Jong, Rabbi Shaul Goldman, Alexander Kohut]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -29,7 +29,7 @@ updated: 2026-09-10
 *Meitzach* is the biblical word, some thirteen times in Tanach; *padachat* is the
 word of Chazal, absent from Tanach. From the Geonim onward they are treated as
 the same thing in two strata of the language (Rav Hai Gaon; Rabbeinu Chananel;
-*Sefer HaAruch*), and Rashi's glossing *padachat* as *meitzach* every time
+*Sefer HeAruch*), and Rashi's glossing *padachat* as *meitzach* every time
 suggests that he too took them as synonyms, so on that view both are
 **forehead**. At Shemos 28:38, since most authorities hold
 the *tzitz* sat above the forehead where the *tefillin* go, the Ritva and
@@ -83,7 +83,7 @@ sake of permitting his widow only when the *padachat* and the face are intact
   his commentary to Niddah 3:5, and his student to Shabbos 80b; Rabbi Zecharia
   Aghmati (*Sefer HaNer* to Shabbos 80b) citing Rav Hai; then Rabbeinu Chananel
   to Shabbos 80b and the *Aruch*.
-- Rashi glosses *padachat* as *meitzach* at Shabbos 151b, Yevamos 120a, Kesuvos
+- Rashi glosses *padachat* as *meitzach* at Shabbos 151b, Yevamos 120a, Kesubos
   75a, and Bechoros 46b, without exception, which Rabbi Klein takes as
   suggesting that he too understood the two to be perfectly synonymous.
 - (Rabbi Yosef de Jong suggests that *meitzach* is specifically the front of the
@@ -95,7 +95,7 @@ sake of permitting his widow only when the *padachat* and the face are intact
 
 Where the word came from is unsettled. Its root seems to be פ-ד-ח, and such
 a root is not attested anywhere else in Hebrew. Dr. Alexander Kohut writes in
-*Aruch HaShaleim* that *padachat* is of Persian origin, and Rabbi Klein supports
+*Aruch HaShalem* that *padachat* is of Persian origin, and Rabbi Klein supports
 him from the Comprehensive Aramaic Lexicon Project, which shows that the few
 places *padachat* appears in the Gemara and rabbinic literature are the only
 instances of the word in Aramaic at all; this suggests it is not really an
@@ -164,4 +164,4 @@ None yet.
 
 Rabbi Reuven Chaim Klein, "[Foreheads and Fadihot](https://articles.ohr.edu/articles/foreheads-and-fadihot)," *What's in a Word?*, Ohr Somayach, 29 February 2020.
 
-Cited in the essay: Shemos 28:38 with Targum Yonasan; Shemos 39:28 with *Tosafos HaShalem*; Yoma 71b with *Chiddushei HaRitva* and *Tosafos Yeshanim*; Mishnah Niddah 3:5 with Rav Hai Gaon; Shabbos 80b with Rabbeinu Chananel and *Sefer HaNer*; Shabbos 151b, Yevamos 120a, Kesuvos 75a, and Bechoros 46b with Rashi; *Sefer HaAruch*; Alexander Kohut, *Aruch HaShaleim*; the Comprehensive Aramaic Lexicon Project; the Academy of the Hebrew Language's anatomical dictionary; Rabbi Shlomo Pappenheim; Rabbi David Chaim Chelouche; Rabbi Yaakov Yehuda Zilberberg de Kassif; Rabbi Yehoshua Steinberg; Rabbi Yosef de Jong; Rabbi Shaul Goldman.
+Cited in the essay: Shemos 28:38 with Targum Yonasan; Shemos 39:28 with *Tosafos HaShalem*; Yoma 71b with *Chiddushei HaRitva* and *Tosafos Yeshanim*; Mishnah Niddah 3:5 with Rav Hai Gaon; Shabbos 80b with Rabbeinu Chananel and *Sefer HaNer*; Shabbos 151b, Yevamos 120a, Kesubos 75a, and Bechoros 46b with Rashi; *Sefer HeAruch*; Alexander Kohut, *Aruch HaShalem*; the Comprehensive Aramaic Lexicon Project; the Academy of the Hebrew Language's anatomical dictionary; Rabbi Shlomo Pappenheim; Rabbi David Chaim Chelouche; Rabbi Yaakov Yehuda Zilberberg de Kassif; Rabbi Yehoshua Steinberg; Rabbi Yosef de Jong; Rabbi Shaul Goldman.
