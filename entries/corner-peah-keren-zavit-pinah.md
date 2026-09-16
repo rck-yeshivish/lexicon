@@ -60,8 +60,8 @@ the inside of a corner and *pinah* is the outside of it, whence leaders are
 actually "corner" but a raised place, a **prominence** (hence the
 **cornerstone**). For Pappenheim, *miktzoa* is the sharp **angle** where two
 sides meet at a point, and *katzeh*, from a root meaning **edge/end**, a
-right-angled corner. Onkelos renders *pinah*, *miktzoa*, *katzeh*
-and *paam* as *zavit*, and *peah* too at the corners of the Shulchan.
+right-angled corner. Onkelos renders *pinah*, *miktzoa* and *katzeh*
+as *zavit*, and *peah* too at the corners of the Shulchan.
 
 ## At a glance
 
@@ -228,7 +228,7 @@ thing will bring about the end of his life), *ketzitzah*, *kayitz*, *yekitzah*
 and *kotz*; the full family is set out in [waking](waking-yekitzah-oorah.html).
 
 *Paam* is a further biblical word for corner, which Onkelos likewise renders
-*zavit*.
+*zavit* (Shemos 25:12); it is set out in [foot](foot-paam-regel.html).
 
 Two biblical rarities complete the set: *atik* (Yechezkel 41:15, 42:3), which Ibn Saruk gives a quadriliteral
 root of its own, א-ת-י-ק, Ibn Janach and Radak trace to נ-ת-ק (disengaging,

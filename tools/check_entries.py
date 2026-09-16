@@ -8,6 +8,15 @@ lines warns, over 240 fails.
 import re, sys, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
+NIKUD = re.compile("[֑-ׇ]")
+FINALS = str.maketrans("ךםןףץ", "כמנפצ")
+
+
+def bare(s):
+    """A Hebrew word for comparison: no nikud, final letters folded."""
+    return NIKUD.sub("", s).translate(FINALS).strip()
+
+
 KEYS = ["cluster", "hebrew", "roots", "translit", "english", "domain", "sources", "authorities", "status", "updated"]
 HEADINGS = ["## Bottom line", "## Distinctions", "## Rendering guidance", "## Notes for a project", "## Sources"]
 DOMAINS = {"emotion", "cognition", "speech", "body", "action", "nature", "ritual", "society", "time", "quantity", "other"}
@@ -97,6 +106,24 @@ def check(p):
     # legitimately lengthen one; 223 is the longest real one so far.
     if bl and len(bl.group(1).split()) > 300:
         errs.append("Bottom line over 300 words")
+    # A word's Hebrew has to read the same in all three places it is written:
+    # the hebrew: list a reader searches, the words: block the cards are built
+    # from, and the At-a-glance row. Three headwords that matched nothing else
+    # reached the index unnoticed (עגם, השקיף, פזז), so a mismatch fails here.
+    hm = re.search(r"^hebrew: \[(.*)\]", fm, re.M)
+    listed = {bare(x) for x in hm.group(1).split(",")} if hm else set()
+    block = [bare(m.group(1)) for m in re.finditer(r"^  - he: (.+)$", fm, re.M)]
+    for he in block:
+        if listed and he not in listed:
+            errs.append(f"words: `{he}` is not in the hebrew: list")
+    glance = re.search(r"## At a glance\s*\n(.*?)\n## ", body, re.S)
+    if glance:
+        rows = [l.strip().strip("|").split("|") for l in glance.group(1).split("\n")
+                if l.strip().startswith("|")]
+        for r in rows[2:]:
+            # A cell may show two forms of one word ("איה / אי"); one has to match.
+            if len(r) == 4 and not any(bare(x) in block for x in r[0].split("/")):
+                errs.append(f"At a glance row `{r[0].strip()}` has no words: entry")
     return errs, warn
 
 

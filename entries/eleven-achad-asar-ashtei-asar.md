@@ -1,6 +1,6 @@
 ---
 cluster: eleven
-hebrew: [אחד עשר, אחת עשרה, עשתי עשר, עשתי עשרה]
+hebrew: [אחד עשר, אחת עשרה, עשתי עשר, עשתי עשרה, עשתי]
 roots: [א-ח-ד, ע-ש-ת]
 translit: [achad asar, achad-asar, achat esreh, achat-esrei, ashtei asar, ashtei-asar, ashtei esreh, ashtei-esrei, ashtei, eshet, ashtonot]
 english: [eleven, eleventh]

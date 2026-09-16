@@ -1,6 +1,6 @@
 ---
 cluster: seeing
-hebrew: [ראה, הביט, השקיף, צופה, שור, מציץ, משגיח]
+hebrew: [ראה, הביט, משקיף, השקיף, צופה, שור, מציץ, משגיח]
 roots: [ר-א-ה, נ-ב-ט, ש-ק-ף, צ-פ-ה, ש-ו-ר, צ-ו-ץ, ש-ג-ח]
 translit: [raah, ra'ah, roeh, hibit, hibbit, habatah, hashkafah, mashkif, hishkif, tzofeh, tzofim, mitzapeh, shur, shar, metzitz, meitzitz, mashgiach, hashgachah]
 english: [see, look, gaze, peer, peek, watch, oversee, anticipate]
@@ -14,8 +14,8 @@ words:
     tr: hibit
     en: look
     distinct: seeing what a glance would miss, so deliberate looking (Vilna Gaon); the look of one above at what is below (Bereishis Rabbah), both accepted (Malbim); turning the head toward, not deliberate in itself (Rabbi Yaakov Tzvi Mecklenburg)
-  - he: השקיף
-    tr: hishkif
+  - he: משקיף
+    tr: mashkif
     en: look out, look down
     distinct: looking down from a height (Rabbi Elazar Rokeach of Worms), one who sees without being seen (Radak); in the Torah boding ill, except Devarim 26:15 (Rashi, Wertheimer); the truly deliberate looking (Mecklenburg)
   - he: צופה
@@ -61,7 +61,7 @@ narrow opening, and *mashgiach* is watching that acts on what it sees.
 |---|---|---|---|
 | ראה | ra'ah | see | plain sight, even unintended (Malbim); a surface glance (Vilna Gaon) |
 | הביט | hibit | look | deliberate look (Vilna Gaon); from above (Midrash); turning the head (Mecklenburg) |
-| השקיף | hishkif | look out, look down | looks down unseen from a height (Radak); in the Torah bodes ill (Rashi) |
+| משקיף | mashkif | look out, look down | looks down unseen from a height (Radak); in the Torah bodes ill (Rashi) |
 | צופה | tzofeh | gaze | gazes at what is not present: the navi, the one waiting (Malbim) |
 | שור | shur | see from afar | seeing far off (Malbim); sight aimed straight at one view (Pappenheim) |
 | מציץ | metzitz | peek | craning to see (Malbim); peeking through a narrow opening (Wertheimer) |

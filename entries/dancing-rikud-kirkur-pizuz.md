@@ -1,6 +1,6 @@
 ---
 cluster: dancing
-hebrew: [ריקוד, כרכור, פזז, רקד, מרקד, מכרכר, מפזז]
+hebrew: [ריקוד, כרכור, פיזוז, פזז, רקד, מרקד, מכרכר, מפזז]
 roots: [ר-ק-ד, כ-ר-כ-ר, כ-ר, פ-ז-ז, פ-ז, ר-צ-ד]
 translit: [rikud, rikkud, rikod, rekidah, miraked, mirakedin, kirkur, micharker, mecharker, micharkerin, mifazez, mefazez, mifazezin, paz, tiratzdun, kefitzah]
 english: [dance, whirl, caper, prance, leap]
@@ -14,7 +14,7 @@ words:
     tr: kirkur
     en: whirling, capering
     distinct: a specific act of dancing, the footwork; circular motion (Rabbi Yosef Kara), as young animals move in circles (Tedeschi-Ashkenazi); the movements of the feet, against mifazez of the hands (Rashbam)
-  - he: פזז
+  - he: פיזוז
     tr: pizuz
     en: prancing, leaping about
     distinct: the wild, fast part of the dance (Metzudas David); the hands and fingers moving with the feet (Rashbam, Rabbi Tanchum HaYerushalmi); the extra verb at Shmuel II 6:16, the wildness that galled Michal (Rabbi Zev Atlas)
@@ -43,7 +43,7 @@ names what truly irked Michal.
 |---|---|---|---|
 | ריקוד | rikud | dancing | the general word; the joy behind the dance (Tedeschi-Ashkenazi); one foot stays down (Yerushalmi) |
 | כרכור | kirkur | whirling, capering | whirling footwork; circular motion (Rabbi Yosef Kara); the feet, not the hands (Rashbam) |
-| פזז | pizuz | prancing, leaping about | wild, fast dancing (Metzudas David); the hands move too (Rashbam); what galled Michal (Atlas) |
+| פיזוז | pizuz | prancing, leaping about | wild, fast dancing (Metzudas David); the hands move too (Rashbam); what galled Michal (Atlas) |
 
 ## Distinctions
 
