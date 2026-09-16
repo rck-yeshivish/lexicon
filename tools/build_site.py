@@ -988,28 +988,28 @@ a:hover{text-decoration:underline}
 main{max-width:940px;margin:0 auto;padding:0 22px 96px}
 
 /* header ------------------------------------------------------------------ */
-header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:18px;
-  padding:11px 22px;background:color-mix(in srgb,var(--bg) 82%,transparent);
+header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap:26px;
+  padding:15px 26px;background:color-mix(in srgb,var(--bg) 82%,transparent);
   backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);
   border-bottom:1px solid var(--line)}
 /* The same serif wordmark as the home page. */
-.brand{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:19px;flex:0 0 auto;
+.brand{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:26px;flex:0 0 auto;
   white-space:nowrap}
 .brand:hover{text-decoration:none;opacity:.75}
 .hsearch{flex:1 1 auto;position:relative;max-width:520px;margin:0 auto}
-.hsearch input{width:100%;height:36px;padding:0 14px;border:1px solid var(--line);
+.hsearch input{width:100%;height:40px;padding:0 14px;border:1px solid var(--line);
   border-radius:10px;background:var(--panel);color:var(--ink);font-size:15px;outline:none}
 .hsearch input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
 header.bare .brand{flex:1}
-.navs{display:flex;align-items:center;gap:16px;flex:0 0 auto}
+.navs{display:flex;align-items:center;gap:22px;flex:0 0 auto}
 .seg{display:inline-flex;gap:2px;padding:2px;background:var(--line);border-radius:9px}
 /* Quieter than the browse control: it is a different kind of page, not a third
    way of looking at the same list. */
-.meth{color:var(--faint);font-size:14px;font-weight:500;white-space:nowrap}
+.meth{color:var(--dim);font-size:16px;font-weight:500;white-space:nowrap}
 .meth:hover{color:var(--ink);text-decoration:none}
 .meth.on{color:var(--ink)}
-.seg a.ix{font-family:var(--heb);font-size:16px;line-height:1.15}
-.seg a{position:relative;padding:5px 14px;border-radius:7px;font-size:14px;color:var(--dim);font-weight:500}
+.seg a.ix{font-family:var(--heb);font-size:19px;line-height:1.15;position:relative;top:1px}
+.seg a{position:relative;padding:6px 18px;border-radius:7px;font-size:16px;color:var(--dim);font-weight:500}
 .seg a:hover{text-decoration:none;color:var(--ink);background:rgba(255,255,255,.55)}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
 /* A hairline between the two segments. On an entry page neither is selected,
