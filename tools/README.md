@@ -69,6 +69,13 @@ pieces in:
   form in each pasuk) and its citations as `.ref` spans, which is what makes
   a long entry readable. `--reformat` reads again any entry stored without
   `html`, and `--homonyms` any root stored before second entries were kept.
+- **`check_glosses.py`** checks `references/radak-gloss.json`, the English the
+  roots page shows above Radak's Hebrew, against his own entries: every Hebrew
+  phrase quoted must be in the entry, every pasuk cited must be one he cites,
+  every authority named must be one he names. It cannot tell whether the
+  English renders the Hebrew rightly, which is what a human review is for, so a
+  gloss stays `draft` until a person has read it against the source. Run it
+  with `check_entries.py` after writing any.
 - **`fetch_radak_pesukim.py [--refresh]`** saves the pesukim Radak cites, the
   ones `pesukim.json` does not already hold, to `references/radak-pesukim.json`,
   so the roots page can show a citation's text. Run it after
