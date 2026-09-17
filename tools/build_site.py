@@ -382,6 +382,34 @@ def essay_span(entries):
     return len(ids), min(years) if years else ""
 
 
+BASE = str.maketrans("ךםןףץ", "כמנפצ")
+
+
+def root_key(root):
+    """The root's letters, final forms folded: ב-ר-ך -> ברכ. Used for the
+    anchor a link points at, so both spellings land in the same place."""
+    return "".join(c for c in root if "\u05d0" <= c <= "\u05ea").translate(BASE)
+
+
+def root_sort(root):
+    order = {c: i for i, c in enumerate(ALEFBET)}
+    letters = root_key(root)
+    return ([order.get(c, 99) for c in letters], len(letters))
+
+
+def root_map(entries):
+    """root as written -> [(cluster, slug)], and each root's letters folded."""
+    out = {}
+    for e in entries:
+        for r in e["roots"]:
+            if not root_key(r):
+                continue
+            out.setdefault(r, []).append((e["cluster"], e["slug"]))
+    for v in out.values():
+        v.sort(key=lambda x: x[0].lower())
+    return out
+
+
 def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
     up = "../" * depth
     return f"""<!doctype html>
@@ -406,6 +434,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
     <span class="seg">
       <a href="{up}hebrew.html" lang="he" title="Browse the Hebrew index" class="ix {'on' if active == 'he' else ''}">א–ת</a>
       <a href="{up}english.html" title="Browse the English index" class="{'on' if active == 'en' else ''}">A–Z</a>
+      <a href="{up}roots.html" lang="he" title="Browse by root" class="ix {'on' if active == 'roots' else ''}">שרש</a>
     </span>
   </nav>
 </header>
@@ -776,6 +805,18 @@ def questions_html(items):
                    f'<span class="chev" aria-hidden="true">&rsaquo;</span></a>' for a in items)
 
 
+def root_line(e):
+    """The entry's roots under its title, each linking to the root's place in
+    the root index. The method essay has none."""
+    roots = [r for r in e.get("roots", []) if root_key(r)]
+    if not roots:
+        return ""
+    links = " &middot; ".join(
+        f'<a href="../roots.html#r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</a>'
+        for r in sorted(roots, key=root_sort))
+    return f'\n<p class="rootline">{links}</p>'
+
+
 def entry_page(e):
     # Lay the words out left to right in the same order as the At-a-glance table,
     # with each word marked RTL on its own. A single dir="rtl" block would be
@@ -791,7 +832,7 @@ def entry_page(e):
     eyebrow = '<p class="eyebrow">method</p>\n' if e["slug"] == METHOD else "" if e["domain"] == "other" else f'<p class="eyebrow">{html.escape(e["domain"])}</p>\n'
     parts = [f'''<article class="entry">
 {anchors}
-{eyebrow}<h1>{html.escape(title)}</h1>''']
+{eyebrow}<h1>{html.escape(title)}</h1>{root_line(e)}''']
     # Where the entry has word cards they come first: they are the easiest thing
     # on the page to read, and the Bottom line mostly restates them. It follows
     # as a plain "In short" for what the cards do not carry (how the words
@@ -1032,6 +1073,8 @@ def main():
     <p><bdi lang="he">א&#1523; ועד ת&#1523;</bdi> &middot; {n_words:,} words</p></a>
   <a class="card" href="english.html"><h3>Browse English<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
     <p>A to Z &middot; {len(english):,} terms</p></a>
+  <a class="card" href="roots.html"><h3>Browse roots<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
+    <p><bdi lang="he">שרשים</bdi> &middot; {len(root_map(entries)):,} roots</p></a>
 </section>'''
     emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
 
@@ -1057,6 +1100,24 @@ def main():
 </section>'''
     emit("english.html", shell("English — What’s in a Word?", en_body, active="en",
                                extra_js='<script>initBrowse("en");</script>'))
+
+    rmap = root_map(entries)
+    rrows = []
+    for r in sorted(rmap, key=root_sort):
+        links = " &middot; ".join(f'<a href="entries/{s}.html">{html.escape(c)}</a>' for c, s in rmap[r])
+        first = root_key(r)[:1]
+        rrows.append(f'<div class="r" data-l="{first}">'
+                     f'<span class="h" id="r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</span>'
+                     f'<span class="tx rlinks">{links}</span></div>')
+    roots_body = f'''<section class="browse">
+  <h1>Roots</h1>
+  <p class="lede">Every root the entries name, and the groups whose words come from it.</p>
+  <div class="letters heb">{letters}</div>
+  <p class="count" id="count">{len(rmap):,} roots</p>
+  <div id="list" class="rows roots">{"".join(rrows)}</div>
+</section>'''
+    emit("roots.html", shell("Roots — What’s in a Word?", roots_body, active="roots",
+                             extra_js='<script>initBrowse("roots");</script>'))
 
     method_src = ROOT / "references" / "how-synonyms-differ.md"
     pdf_src = ROOT / "sources" / "klein-babel-2020" / "synonyms-in-language.pdf"
@@ -1310,7 +1371,7 @@ header.bare .brand{flex:1}
 .asks-list a:hover{text-decoration:none;border-color:var(--accent)}
 .asks-list a i{color:var(--dim)}
 @media (max-width:640px){.asks-list{grid-template-columns:1fr}.taste-q{font-size:18px}}
-.split{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:40px}
+.split{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:40px}
 @media (max-width:860px){.split{grid-template-columns:1fr}}
 @media (max-width:640px){.hero h1{font-size:33px}.hero{padding:52px 0 20px}}
 /* The two browse cards are the page's other clickable panels, so they are
@@ -1376,6 +1437,13 @@ header.bare .brand{flex:1}
 .rows .r{display:grid;grid-template-columns:120px minmax(0,1fr) 20px;gap:18px;align-items:center;
   padding:10px 6px;border-bottom:1px solid var(--line)}
 .rows.en3 .r{grid-template-columns:minmax(0,260px) minmax(0,150px) minmax(0,1fr) 20px}
+.rows.roots .r{grid-template-columns:120px minmax(0,1fr);align-items:baseline;padding:9px 6px}
+.rows.roots .h{font-size:20px;line-height:1.3}
+.rlinks{color:var(--dim);font-size:14px;line-height:1.5}
+.rlinks a{color:var(--ink)}
+.rootline{margin:-4px 0 14px;font-size:15px;color:var(--dim)}
+.rootline a{color:var(--dim);font-family:var(--heb);font-size:1.08em}
+.rootline a:hover{color:var(--accent)}
 .rows.en3 .cl{text-align:right}
 .rows .tx{min-width:0}
 .rows .r{color:var(--ink)}
@@ -1816,7 +1884,7 @@ function initBrowse(mode){
   const have = new Set(rows.map(r => r.dataset.l));
   btns.forEach(b => { if(!have.has(b.dataset.l)) b.disabled = true; });
 
-  const noun = mode === "en" ? "terms" : "words";
+  const noun = mode === "en" ? "terms" : mode === "roots" ? "roots" : "words";
   const show = l => {
     btns.forEach(b => b.classList.toggle("on", b.dataset.l === l));
     let n = 0;
