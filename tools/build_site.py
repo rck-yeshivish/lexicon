@@ -403,6 +403,29 @@ def radak(root):
     return (SHORASHIM["roots"].get(root_key(root)) or {}).get("text", "")
 
 
+def radak_html(root):
+    """The same entry with the edition's markup: the root's form bold in each
+    pasuk, each citation in a .ref span. tools/fetch_shorashim.py has already
+    cut it down to those two tags, so it goes into the page as it stands."""
+    e = SHORASHIM["roots"].get(root_key(root)) or {}
+    parts = [e] + e.get("more", []) if e else []
+    if len(parts) == 1 and not e.get("under"):
+        return e.get("html") or html.escape(e.get("text", ""))
+    # More than one entry answers to these letters, or Radak files the word
+    # under another root. Either way each entry is named by his own headword.
+    # The edition marks sin with a holam on the shin; give it its own dot.
+    out = []
+    for p in parts:
+        hw = html.escape(p["hw"].replace("שֹ", "שׂ"))
+        note = "Radak has this under the root" if p.get("under") else "Radak’s root"
+        body = p.get("html") or html.escape(p.get("text", ""))
+        if p.get("found"):                            # the form he cites, so it can be found in a long entry
+            body = body.replace(p["found"], f'<mark>{p["found"]}</mark>', 1)
+        out.append(f'<p class="rad-hw" dir="ltr" lang="en">{note} <bdi lang="he">{hw}</bdi></p>'
+                   f'<p>{body}</p>')
+    return "".join(out)
+
+
 def radak_opening(text, n=120):
     """The first words of an entry, cut at a space so nothing breaks mid-word."""
     if len(text) <= n:
@@ -836,7 +859,7 @@ def root_line(e):
         for r in sorted(roots, key=root_sort))
     blocks = "".join(
         f'<h4 dir="rtl" lang="he">{html.escape(r)}</h4>'
-        f'<p class="rad-text" dir="rtl" lang="he">{html.escape(radak(r))}</p>'
+        f'<div class="rad-text" dir="rtl" lang="he">{radak_html(r)}</div>'
         for r in sorted(roots, key=root_sort) if radak(r))
     more = (f'<details class="radak"><summary>Radak on {"this root" if blocks.count("<h4") == 1 else "these roots"}'
             f'</summary>{blocks}<p class="radak-credit">{RADAK_CREDIT}</p></details>') if blocks else ""
@@ -1142,9 +1165,10 @@ def main():
                      f'<span class="tx rlinks">{links}</span>{rad}</div>')
     roots_body = f'''<section class="browse">
   <h1>Roots</h1>
-  <p class="lede">Every root the entries name, and the groups whose words come from it.</p>
+  <p class="lede">Every root the entries name, and the groups whose words come from it. The Hebrew beside a root is how Radak opens his entry for it in <em>Sefer HaShorashim</em>; open the row to read the entry whole.</p>
   <div class="letters heb">{letters}</div>
   <p class="count" id="count">{len(rmap):,} roots</p>
+  <div class="rhead" aria-hidden="true"><span>Root</span><span>Groups</span><span>Radak, <em>Sefer HaShorashim</em></span></div>
   <div id="list" class="rows roots">{"".join(rrows)}</div>
   <p class="radak-credit">{RADAK_CREDIT}</p>
 </section>'''
@@ -1152,7 +1176,7 @@ def main():
     for r in rmap:
         text = radak(r)
         if text:
-            chunks.setdefault(root_key(r)[:1], {})[root_key(r)] = text
+            chunks.setdefault(root_key(r)[:1], {})[root_key(r)] = radak_html(r)
     for letter, part in chunks.items():
         emit(f"shorashim/{letter}.json", json.dumps(part, ensure_ascii=False, separators=(",", ":")))
     emit("roots.html", shell("Roots — What’s in a Word?", roots_body, active="roots",
@@ -1480,14 +1504,32 @@ header.bare .brand{flex:1}
 .rows.roots .r.has-rad{cursor:pointer}
 .rows.roots .r.has-rad:hover{background:var(--panel)}
 .rad{font-family:var(--heb);font-size:16px;line-height:1.5;color:var(--dim);overflow:hidden}
-.rad-open{grid-column:1/-1;font-family:var(--heb);font-size:18px;line-height:1.75;color:var(--ink);
-  padding:10px 0 4px;text-align:right}
+.rhead{display:grid;grid-template-columns:110px minmax(0,220px) minmax(0,1fr);gap:18px;padding:0 6px 6px;
+  border-bottom:1px solid var(--line);color:var(--faint);font-size:12px;letter-spacing:.04em;text-transform:uppercase}
+.rhead span:last-child{text-align:right}
+.rhead em{font-style:normal}
+.rad-open{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  padding:16px 22px 20px;margin:4px 0 14px}
+.rad-who{margin:0 0 10px;color:var(--dim);font-size:13px}
+.rad-who bdi{font-family:var(--heb);font-size:16px;color:var(--accent)}
+.rad-body,.rad-text{font-family:var(--heb);font-size:19px;line-height:1.9;color:var(--ink);text-align:right;
+  max-width:38em;margin-left:auto}
+.rad-body strong,.rad-text strong{font-weight:700;color:var(--accent)}
+.rad-body .ref,.rad-text .ref{font-size:.72em;color:var(--faint);white-space:nowrap}
+.rad-body p,.rad-text p{margin:0 0 14px}
+.rad-body p:last-child,.rad-text p:last-child{margin-bottom:0}
+p.rad-hw{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;font-size:13px;line-height:1.5;color:var(--dim);text-align:left;margin:0 0 4px}
+.rad-body mark,.rad-text mark{background:var(--accent-soft);color:inherit;border-radius:4px;padding:0 3px}
+p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .radak-credit{color:var(--faint);font-size:13px;margin:22px 0 0;line-height:1.5}
 .radak{margin:0 0 18px}
 .radak summary{cursor:pointer;color:var(--dim);font-size:15px}
 .radak h4{font-family:var(--heb);font-size:19px;margin:14px 0 2px;color:var(--accent)}
-.rad-text{font-family:var(--heb);font-size:18px;line-height:1.75;margin:0;text-align:right}
+.rad-text{margin:0 0 0 auto}
 @media (max-width:760px){.rows.roots .r{grid-template-columns:90px minmax(0,1fr);row-gap:4px}
+  .rhead{display:none}
+  .rad-open{padding:14px 16px 16px}
+  .rad-body,.rad-text{font-size:18px;line-height:1.8}
   .rows.roots .rad{grid-column:1/-1}}
 .rows.roots .h{font-size:20px;line-height:1.3}
 .rlinks{color:var(--dim);font-size:14px;line-height:1.5}
@@ -1943,8 +1985,12 @@ function wireRoots(){
     }
     const text = cache[letter][key];
     if(!text) return;
+    // The text was cut down to <strong> and .ref spans when it was fetched.
     const el = document.createElement("div");
-    el.className = "rad-open"; el.dir = "rtl"; el.lang = "he"; el.textContent = text;
+    el.className = "rad-open";
+    el.innerHTML = `<p class="rad-who">Radak, <em>Sefer HaShorashim</em>, on the root `
+      + `<bdi lang="he">${row.querySelector(".h").textContent}</bdi></p>`
+      + `<div class="rad-body" dir="rtl" lang="he">${text}</div>`;
     row.after(el);
     row.setAttribute("aria-expanded", "true");
   };

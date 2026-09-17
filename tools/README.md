@@ -52,9 +52,20 @@ pieces in:
   (following Rabbi Klein's book, with its `ADJUST` list for the few plain
   misfits) and what each week shows. Run it after new entries land or the
   calendar is refetched, then `build_site.py`.
-- **`fetch_shorashim.py [--refresh] [--retry-empty]`** saves Radak's
-  *Sefer HaShorashim* for each root of three letters or more to
+- **`fetch_shorashim.py [--refresh] [--retry-empty] [--reformat] [--homonyms]`**
+  saves Radak's *Sefer HaShorashim* for each root of three letters or more to
   `references/shorashim.json`. Sefaria carries the Berlin 1847 edition, which
-  is public domain, so the site shows his own Hebrew with a credit. A root is
-  looked up twice, folded and with its last letter in final form, because the
-  dictionary spells it ברך and our entries fold it to ברכ.
+  is public domain, so the site shows his own Hebrew with a credit. It reads
+  the edition's whole headword list first (2,101 of them), which settles three
+  things. The dictionary spells a root ברך where our entries fold it to ברכ.
+  Radak has the same letters twice where they are two roots, mostly shin and
+  sin (חרשׁ, חרשׂ); both are kept, the one that cites the entry's word first.
+  And he files some words elsewhere than our entries do (צאן under צון, מטה
+  under נטה and מטט); those filings are the `FILED_UNDER` table in the tool,
+  each read in his text before it went in, and each used only if his entry
+  there cites the word. A new root that comes up empty and is Biblical wants
+  a line there, after looking. Each entry is kept twice: `text` plain, for the
+  opening shown in a row, and `html` with the edition's own bold (the root's
+  form in each pasuk) and its citations as `.ref` spans, which is what makes
+  a long entry readable. `--reformat` reads again any entry stored without
+  `html`, and `--homonyms` any root stored before second entries were kept.
