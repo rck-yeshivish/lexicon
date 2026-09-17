@@ -1186,7 +1186,7 @@ header.site{position:sticky;top:0;z-index:50;display:flex;align-items:center;gap
   backdrop-filter:saturate(180%) blur(20px);-webkit-backdrop-filter:saturate(180%) blur(20px);
   border-bottom:1px solid var(--line)}
 /* The same serif wordmark as the home page. */
-.brand{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:26px;flex:0 0 auto;
+.brand{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:24px;flex:0 0 auto;
   white-space:nowrap}
 .brand:hover{text-decoration:none;opacity:.75}
 .hsearch{flex:1 1 auto;position:relative;max-width:520px;margin:0 auto}
@@ -1201,7 +1201,7 @@ header.bare .brand{flex:1}
 .meth{color:var(--dim);font-size:17px;font-weight:500;white-space:nowrap}
 .meth:hover{color:var(--ink);text-decoration:none}
 .meth.on{color:var(--ink)}
-.seg a.ix{font-family:var(--heb);font-size:1.08em;line-height:1.15;position:relative;top:1px}
+.seg a.ix{font-family:var(--heb);font-size:1.08em;line-height:1.15;position:relative;top:2px}
 .seg a{position:relative;padding:6px 18px;border-radius:7px;font-size:17px;color:var(--dim);font-weight:500}
 .seg a:hover{text-decoration:none;color:var(--ink);background:rgba(255,255,255,.55)}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
