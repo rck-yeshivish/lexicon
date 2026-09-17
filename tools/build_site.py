@@ -988,7 +988,7 @@ def main():
   <ol class="how-steps">
     <li><b>The idea</b>Hebrew seldom has two words for exactly the same thing: near-synonyms each carry a shade of their own.</li>
     <li><b>The sources</b>Rashi, Radak, Malbim, Rav Hirsch and many others say where the line between them falls.</li>
-    <li><b>The page</b>Each group sets out every word&rsquo;s meaning, who says so, and where they disagree.</li>
+    <li><b>The page</b>Each group sets out every word&rsquo;s meaning, who says what, and where they disagree.</li>
   </ol>
 </section>
 <section class="asks" aria-labelledby="asks-h">
@@ -1338,7 +1338,8 @@ header.bare .brand{flex:1}
 .rows{display:flex;flex-direction:column}
 .rows .r{display:grid;grid-template-columns:120px minmax(0,1fr) 20px;gap:18px;align-items:center;
   padding:10px 6px;border-bottom:1px solid var(--line)}
-.rows.en3 .r{grid-template-columns:minmax(0,230px) minmax(0,130px) minmax(0,1fr) 20px}
+.rows.en3 .r{grid-template-columns:minmax(0,260px) minmax(0,150px) minmax(0,1fr) 20px}
+.rows.en3 .cl{text-align:right}
 .rows .tx{min-width:0}
 .rows .r{color:var(--ink)}
 /* The browse filter hides rows with el.hidden, which leans on the browser's
@@ -1367,7 +1368,7 @@ header.bare .brand{flex:1}
   .rows .r{grid-template-columns:88px minmax(0,1fr) 18px;gap:12px;padding:10px 4px}
   .rows .h{text-align:right}
   .rows.en3 .r{grid-template-columns:minmax(0,1fr) auto 18px;grid-template-areas:"en h go" "cl cl go";row-gap:2px}
-  .rows.en3 .en{grid-area:en}.rows.en3 .h{grid-area:h}.rows.en3 .cl{grid-area:cl}.rows.en3 .go{grid-area:go}
+  .rows.en3 .en{grid-area:en}.rows.en3 .h{grid-area:h}.rows.en3 .cl{grid-area:cl;text-align:left}.rows.en3 .go{grid-area:go}
   .ac .row{grid-template-columns:64px minmax(0,1fr) auto;gap:10px;padding:12px 14px}
   .ac .row.top{grid-template-columns:64px minmax(0,1fr)}
   /* On a phone the word "Compare" squeezed the text column to a sliver; the
