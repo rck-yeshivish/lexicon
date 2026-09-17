@@ -680,17 +680,6 @@ def home_pools(entries):
     return taste, asks
 
 
-def essay_span(entries):
-    ids, years = set(), []
-    for e in entries:
-        for s in e["sources"]:
-            m = re.match(r"wiaw:(\d+) \"[^\"]*\" \((\d{4})-", s)
-            if m:
-                ids.add(m.group(1))
-                years.append(m.group(2))
-    return len(ids), min(years) if years else ""
-
-
 # How many of a group's entries a week can draw on. Elul has twenty, and a
 # reader who comes back on Wednesday should not meet Monday's three again.
 POOL_PER_GROUP = 8
@@ -978,7 +967,6 @@ def main():
     # The method essay is a page, not a group of synonyms.
     n_words, n_entries = len(words), sum(1 for e in entries if e["slug"] != METHOD)
     taste_pool, question_pool = home_pools(entries)
-    n_essays, first_year = essay_span(entries)
     taste_json = json.dumps(taste_pool, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     questions_json = json.dumps(question_pool, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     weeks = week_data(entries)
@@ -1021,10 +1009,11 @@ def main():
   <div id="taste">{taste_html(first_taste)}</div>
   <script type="application/json" id="taste-pool">{taste_json}</script>
 </section>
-<p class="about-line">Built on Rabbi Reuven Chaim Klein&rsquo;s column <em>What&rsquo;s in a Word?</em>, published by Ohr Somayach since {first_year}: {n_essays} essays gathered into one guide, word by word, every entry linked to the essays it draws on. <a href="method.html">About</a></p>
 <section class="split">
-  <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">א&#1523; ועד ת&#1523;</p></a>
-  <a class="card" href="english.html"><h3>Browse English</h3><p>A to Z, from the English back to the Hebrew.</p></a>
+  <a class="card" href="hebrew.html"><h3>Browse Hebrew<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
+    <p><bdi lang="he">א&#1523; ועד ת&#1523;</bdi> &middot; {n_words:,} words</p></a>
+  <a class="card" href="english.html"><h3>Browse English<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
+    <p>A to Z &middot; {len(english):,} terms</p></a>
 </section>'''
     emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
 
@@ -1193,11 +1182,11 @@ header.bare .brand{flex:1}
 .seg{display:inline-flex;gap:2px;padding:2px;background:var(--line);border-radius:9px}
 /* Quieter than the browse control: it is a different kind of page, not a third
    way of looking at the same list. */
-.meth{color:var(--dim);font-size:16px;font-weight:500;white-space:nowrap}
+.meth{color:var(--dim);font-size:17px;font-weight:500;white-space:nowrap}
 .meth:hover{color:var(--ink);text-decoration:none}
 .meth.on{color:var(--ink)}
-.seg a.ix{font-family:var(--heb);font-size:19px;line-height:1.15;position:relative;top:1px}
-.seg a{position:relative;padding:6px 18px;border-radius:7px;font-size:16px;color:var(--dim);font-weight:500}
+.seg a.ix{font-family:var(--heb);font-size:1.08em;line-height:1.15;position:relative;top:1px}
+.seg a{position:relative;padding:6px 18px;border-radius:7px;font-size:17px;color:var(--dim);font-weight:500}
 .seg a:hover{text-decoration:none;color:var(--ink);background:rgba(255,255,255,.55)}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
 /* A hairline between the two segments. On an entry page neither is selected,
@@ -1253,7 +1242,7 @@ header.bare .brand{flex:1}
 /* margin:0 here would drop the auto side-margins that centre the block, leaving the text centred inside a left-hugging box rather than on the page */
 .browse .lede[lang="he"]{font-family:var(--heb);font-size:22px;margin:0 auto}
 .bigsearch{position:relative;max-width:620px;margin:0 auto}
-.bigsearch input{width:100%;height:60px;padding:0 22px 0 54px;font-size:19px;
+.bigsearch input{width:100%;height:60px;padding:0 22px 0 54px;font-size:17px;
   border:1px solid var(--line);border-radius:16px;background:var(--panel);color:var(--ink);
   box-shadow:var(--shadow);outline:none;transition:border-color .15s,box-shadow .15s}
 .bigsearch input:focus{border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft),var(--shadow)}
@@ -1295,17 +1284,18 @@ header.bare .brand{flex:1}
   padding:13px 16px;color:var(--ink);font-size:15px;line-height:1.45;transition:border-color .15s}
 .asks-list a:hover{text-decoration:none;border-color:var(--accent)}
 .asks-list a i{color:var(--dim)}
-.about-line{margin:36px auto 0;max-width:680px;text-align:center;color:var(--dim);font-size:14px;line-height:1.55}
 @media (max-width:640px){.asks-list{grid-template-columns:1fr}.taste-q{font-size:18px}}
-.split{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:40px}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:40px}
 @media (max-width:860px){.split{grid-template-columns:1fr}}
 @media (max-width:640px){.hero h1{font-size:33px}.hero{padding:52px 0 20px}}
-.card{display:block;padding:24px;border:1px solid var(--line);border-radius:var(--radius);
-  background:var(--panel);color:var(--ink);transition:transform .15s,box-shadow .15s}
-.card:hover{text-decoration:none;transform:translateY(-2px);box-shadow:var(--shadow)}
-.card h3{margin:0 0 6px;font-size:18px;font-weight:600}
-.card p{margin:0;color:var(--dim);font-size:15px}
-.card p.he{font-family:var(--heb);font-size:19px;line-height:1.3;text-align:left}
+/* The two browse cards are the page's other clickable panels, so they are
+   built like the question cards rather than as a pair of billboards. */
+.card{display:block;padding:13px 16px;border:1px solid var(--line);border-radius:12px;
+  background:var(--panel);color:var(--ink);transition:border-color .15s}
+.card:hover{text-decoration:none;border-color:var(--accent)}
+.card h3{margin:0 0 3px;font-size:15px;font-weight:600;display:flex;justify-content:space-between;align-items:baseline}
+.card .chev{color:var(--accent);font-weight:400}
+.card p{margin:0;color:var(--dim);font-size:14px}
 
 /* autocomplete ------------------------------------------------------------ */
 .ac{position:absolute;left:0;right:0;top:calc(100% + 8px);background:var(--panel);
