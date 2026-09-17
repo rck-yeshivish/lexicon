@@ -954,15 +954,23 @@ def main():
     <button class="chip" data-q="humiliation">humiliation</button></p>
   <script type="application/json" id="try-pool">{try_pool}</script>
 </section>
-<section class="taste" aria-labelledby="taste-h">
-  <p class="home-h" id="taste-h">A taste</p>
-  <div id="taste">{taste_html(first_taste)}</div>
-  <script type="application/json" id="taste-pool">{taste_json}</script>
+<section class="how" aria-labelledby="how-h">
+  <p class="home-h" id="how-h">How it works</p>
+  <ol class="how-steps">
+    <li><b>The idea</b>Hebrew seldom has two words for exactly the same thing: near-synonyms each carry a shade of their own.</li>
+    <li><b>The sources</b>Rashi, Radak, Malbim, Rav Hirsch and many others say where the line between them falls.</li>
+    <li><b>The page</b>Each group sets out every word&rsquo;s meaning, who says so, and where they disagree.</li>
+  </ol>
 </section>
 <section class="asks" aria-labelledby="asks-h">
   <p class="home-h" id="asks-h">Questions to explore</p>
   <div class="asks-list" id="asks">{questions_html(question_pool[:6])}</div>
   <script type="application/json" id="ask-pool">{questions_json}</script>
+</section>
+<section class="taste" aria-labelledby="taste-h">
+  <p class="home-h" id="taste-h">A taste</p>
+  <div id="taste">{taste_html(first_taste)}</div>
+  <script type="application/json" id="taste-pool">{taste_json}</script>
 </section>
 <p class="about-line">Built on Rabbi Reuven Chaim Klein&rsquo;s column <em>What&rsquo;s in a Word?</em>, published by Ohr Somayach since {first_year}: {n_essays} essays gathered into one guide, word by word, every entry linked to the essays it draws on. <a href="method.html">About</a></p>
 <section class="split">
@@ -1206,7 +1214,15 @@ header.bare .brand{flex:1}
 .chip:hover{color:var(--ink);border-color:var(--dim)}
 .home-h{font-size:12.5px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);font-weight:600;
   margin:0 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line)}
-.taste{margin-top:44px}
+.how{margin-top:44px}
+.how-steps{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,1fr);gap:10px;counter-reset:step}
+.how-steps li{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:13px 16px;
+  font-size:15px;line-height:1.5;color:var(--dim);counter-increment:step}
+.how-steps b{display:block;color:var(--accent);font-size:12.5px;text-transform:uppercase;letter-spacing:.07em;
+  font-weight:600;margin-bottom:4px}
+.how-steps b::before{content:counter(step) " \00b7  "}
+@media (max-width:760px){.how-steps{grid-template-columns:1fr}}
+.taste{margin-top:40px}
 .taste-q{font-size:20px;margin:0 0 14px;line-height:1.35}
 .taste-go{margin:12px 0 0;font-size:15px}
 .asks{margin-top:40px}
