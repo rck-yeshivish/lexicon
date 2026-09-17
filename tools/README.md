@@ -44,3 +44,11 @@ pieces in:
   once. Run it after `build_index.py`. It writes in place and sweeps stale
   files rather than deleting the tree, because a OneDrive-synced folder holds
   directory handles and `rmtree` fails part way through.
+- **`fetch_calendar.py [first] [last]`** saves the diaspora parshiyos and
+  Yamim Tovim from Hebcal to `references/calendar.json`. It covers four years
+  by default; run it again before they run out.
+- **`build_seasons.py [--sample]`** writes `references/seasons.json`, the home
+  page's "This week" line: which entries go with each parsha and Yom Tov
+  (following Rabbi Klein's book, with its `ADJUST` list for the few plain
+  misfits) and what each week shows. Run it after new entries land or the
+  calendar is refetched, then `build_site.py`.

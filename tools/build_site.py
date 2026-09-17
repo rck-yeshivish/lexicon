@@ -399,7 +399,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 </main>
 <footer>
   <p>Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
-  <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach.</p>
+  <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach. Parsha and Yom Tov dates from <a href="https://www.hebcal.com/">Hebcal</a> (CC BY 4.0).</p>
 </footer>
 <script src="{up}assets/{ASSETS["js"]}"></script>
 {extra_js}
@@ -691,6 +691,50 @@ def essay_span(entries):
     return len(ids), min(years) if years else ""
 
 
+def week_rows(entries):
+    """[[Sunday, label, [[slug, name], ...]], ...] from references/seasons.json
+    (tools/build_seasons.py), from last week on. Three links a week, taken in
+    turn from the Yom Tov, the parsha and the season, so each gets a place."""
+    path = ROOT / "references" / "seasons.json"
+    if not path.exists():
+        return []
+    s = json.loads(path.read_text(encoding="utf-8"))
+    names = {e["slug"]: e["cluster"] for e in entries if e["slug"] != METHOD}
+    # A Hebrew word shown beside the name ("שופר horn"): the card for the word
+    # the slug leads with (praise-hallel -> להלל), else the first card.
+    heb = {}
+    for e in entries:
+        rows = glance_rows(next((m for h, m in e["sections"] if h == "At a glance"), ""))
+        if rows:
+            lead = re.sub(r"[^a-z]", "", (e["slug"].split("-") + [""])[1])
+            row = next((r for r in rows if lead and lead in re.sub(r"[^a-z]", "", r[1].lower())), rows[0])
+            heb[e["slug"]] = row[0].split("/")[0].strip()
+    since = (datetime.date.today() - datetime.timedelta(days=7)).isoformat()
+    rows = []
+    for w in s["weeks"]:
+        if w["from"] < since:
+            continue
+        lists = [[x for x in s["groups"].get(g, []) if x in names] for g in w["lead"] + w["parsha"] + w["mix"]]
+        picks = []
+        while len(picks) < 3 and any(lists):
+            for l in lists:
+                while l and l[0] in picks:
+                    l.pop(0)
+                if l and len(picks) < 3:
+                    picks.append(l.pop(0))
+        if picks:
+            rows.append([w["from"], w["label"], [[x, names[x], heb.get(x, "")] for x in picks]])
+    return rows
+
+
+def week_html(row):
+    if not row:
+        return ""
+    links = "".join(f'<a href="entries/{s}.html"><bdi lang="he">{html.escape(h)}</bdi>{html.escape(n)}</a>'
+                    for s, n, h in row[2])
+    return f'<span class="week-h">This week &middot; <b>{html.escape(row[1])}</b></span><span class="week-l">{links}</span>'
+
+
 def taste_html(x):
     if not x:
         return ""
@@ -913,6 +957,11 @@ def main():
     n_essays, first_year = essay_span(entries)
     taste_json = json.dumps(taste_pool, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     questions_json = json.dumps(question_pool, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    weeks = week_rows(entries)
+    today = datetime.date.today()
+    this_sunday = (today - datetime.timedelta(days=(today.weekday() + 1) % 7)).isoformat()
+    this_week = next((w for w in weeks if w[0] == this_sunday), None)
+    weeks_json = json.dumps(weeks, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     first_taste = next((x for x in taste_pool if x["s"].startswith("wisdom-")), taste_pool[0] if taste_pool else None)
     home = f'''<section class="hero">
   <div class="banner">
@@ -928,6 +977,8 @@ def main():
     <input id="q" type="search" placeholder="Type Hebrew or English&hellip;" autocomplete="off" spellcheck="false" dir="auto">
     <div id="ac" class="ac" hidden></div>
   </div>
+  <div class="week" id="week"{'' if this_week else ' hidden'}>{week_html(this_week)}</div>
+  <script type="application/json" id="week-data">{weeks_json}</script>
 </section>
 <section class="how" aria-label="How it works">
   <ol class="how-steps">
@@ -1184,6 +1235,14 @@ header.bare .brand{flex:1}
   stroke:var(--faint);stroke-width:2;stroke-linecap:round;pointer-events:none}
 .home-h{font-size:12.5px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);font-weight:600;
   margin:0 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+.week{margin:22px auto 0;max-width:620px}
+.week-h{display:block;font-size:12.5px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);font-weight:600;margin-bottom:10px}
+.week-h b{color:var(--accent);font-weight:600}
+.week-l{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+.week-l a{display:inline-flex;align-items:baseline;gap:8px;border:1px solid var(--line);background:var(--panel);border-radius:999px;
+  padding:5px 14px 6px;color:var(--ink);font-size:15px;transition:border-color .15s}
+.week-l a:hover{text-decoration:none;border-color:var(--accent)}
+.week-l bdi{font-size:18px;line-height:1;color:var(--accent)}
 .how{margin-top:20px}
 .how-steps{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,1fr);counter-reset:step}
 .how-steps li{padding:2px 22px;font-size:15px;line-height:1.5;color:var(--dim);counter-increment:step}
@@ -1890,6 +1949,24 @@ function wirePesukim(){
   onScroll();
 }
 
+// Home: this week's line, by the reader's date (a week starts on Sunday). The
+// build writes the week it was built in; a page cached across a Sunday updates here.
+function wireWeek(){
+  const el = document.getElementById("week"), data = document.getElementById("week-data");
+  if(!el || !data) return;
+  try{
+    const d = new Date(); d.setDate(d.getDate() - d.getDay());
+    const pad = n => String(n).padStart(2, "0");
+    const key = `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+    const w = JSON.parse(data.textContent).find(x => x[0] === key);
+    if(!w){ el.hidden = true; return; }
+    const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
+    el.innerHTML = `<span class="week-h">This week &middot; <b>${esc(w[1])}</b></span><span class="week-l">`
+      + w[2].map(([s, n, h]) => `<a href="entries/${esc(s)}.html"><bdi lang="he">${esc(h)}</bdi>${esc(n)}</a>`).join("") + `</span>`;
+    el.hidden = false;
+  }catch(err){}
+}
+
 // Home: a different group for "A taste" and six different questions each visit.
 function wireHome(){
   const tp = document.getElementById("taste-pool"), ap = document.getElementById("ask-pool");
@@ -1910,6 +1987,7 @@ function wireHome(){
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  wireWeek();
   wireHome();
   wire();
   wireTabs();

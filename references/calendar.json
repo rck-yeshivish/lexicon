@@ -1,0 +1,3250 @@
+{
+ "source": "Hebcal (hebcal.com), diaspora, CC BY 4.0",
+ "fetched": "2026-09-17",
+ "years": [
+  2026,
+  2029
+ ],
+ "items": [
+  {
+   "date": "2026-01-03",
+   "category": "parashat",
+   "title": "Parashat Vayechi",
+   "hebrew": "פרשת ויחי"
+  },
+  {
+   "date": "2026-01-10",
+   "category": "parashat",
+   "title": "Parashat Shemot",
+   "hebrew": "פרשת שמות"
+  },
+  {
+   "date": "2026-01-17",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Sh’vat",
+   "hebrew": "מברכים חודש שבט"
+  },
+  {
+   "date": "2026-01-17",
+   "category": "parashat",
+   "title": "Parashat Vaera",
+   "hebrew": "פרשת וארא"
+  },
+  {
+   "date": "2026-01-19",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Sh’vat",
+   "hebrew": "ראש חודש שבט"
+  },
+  {
+   "date": "2026-01-24",
+   "category": "parashat",
+   "title": "Parashat Bo",
+   "hebrew": "פרשת בא"
+  },
+  {
+   "date": "2026-01-31",
+   "category": "parashat",
+   "title": "Parashat Beshalach",
+   "hebrew": "פרשת בשלח"
+  },
+  {
+   "date": "2026-01-31",
+   "category": "holiday",
+   "title": "Shabbat Shirah",
+   "hebrew": "שבת שירה"
+  },
+  {
+   "date": "2026-02-02",
+   "category": "holiday",
+   "title": "Tu BiShvat",
+   "hebrew": "ט״ו בשבט"
+  },
+  {
+   "date": "2026-02-07",
+   "category": "parashat",
+   "title": "Parashat Yitro",
+   "hebrew": "פרשת יתרו"
+  },
+  {
+   "date": "2026-02-14",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Adar",
+   "hebrew": "מברכים חודש אדר"
+  },
+  {
+   "date": "2026-02-14",
+   "category": "parashat",
+   "title": "Parashat Mishpatim",
+   "hebrew": "פרשת משפטים"
+  },
+  {
+   "date": "2026-02-14",
+   "category": "holiday",
+   "title": "Shabbat Shekalim",
+   "hebrew": "שבת שקלים"
+  },
+  {
+   "date": "2026-02-17",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar",
+   "hebrew": "ראש חודש אדר"
+  },
+  {
+   "date": "2026-02-18",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar",
+   "hebrew": "ראש חודש אדר"
+  },
+  {
+   "date": "2026-02-21",
+   "category": "parashat",
+   "title": "Parashat Terumah",
+   "hebrew": "פרשת תרומה"
+  },
+  {
+   "date": "2026-02-28",
+   "category": "parashat",
+   "title": "Parashat Tetzaveh",
+   "hebrew": "פרשת תצוה"
+  },
+  {
+   "date": "2026-02-28",
+   "category": "holiday",
+   "title": "Shabbat Zachor",
+   "hebrew": "שבת זכור"
+  },
+  {
+   "date": "2026-03-02",
+   "category": "holiday",
+   "title": "Erev Purim",
+   "hebrew": "ערב פורים"
+  },
+  {
+   "date": "2026-03-03",
+   "category": "holiday",
+   "title": "Purim",
+   "hebrew": "פורים"
+  },
+  {
+   "date": "2026-03-04",
+   "category": "holiday",
+   "title": "Shushan Purim",
+   "hebrew": "שושן פורים"
+  },
+  {
+   "date": "2026-03-07",
+   "category": "parashat",
+   "title": "Parashat Ki Tisa",
+   "hebrew": "פרשת כי תשא"
+  },
+  {
+   "date": "2026-03-07",
+   "category": "holiday",
+   "title": "Shabbat Parah",
+   "hebrew": "שבת פרה"
+  },
+  {
+   "date": "2026-03-14",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Nisan",
+   "hebrew": "מברכים חודש ניסן"
+  },
+  {
+   "date": "2026-03-14",
+   "category": "parashat",
+   "title": "Parashat Vayakhel-Pekudei",
+   "hebrew": "פרשת ויקהל־פקודי"
+  },
+  {
+   "date": "2026-03-14",
+   "category": "holiday",
+   "title": "Shabbat HaChodesh",
+   "hebrew": "שבת החדש"
+  },
+  {
+   "date": "2026-03-19",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Nisan",
+   "hebrew": "ראש חודש ניסן"
+  },
+  {
+   "date": "2026-03-21",
+   "category": "parashat",
+   "title": "Parashat Vayikra",
+   "hebrew": "פרשת ויקרא"
+  },
+  {
+   "date": "2026-03-28",
+   "category": "parashat",
+   "title": "Parashat Tzav",
+   "hebrew": "פרשת צו"
+  },
+  {
+   "date": "2026-03-28",
+   "category": "holiday",
+   "title": "Shabbat HaGadol",
+   "hebrew": "שבת הגדול"
+  },
+  {
+   "date": "2026-04-01",
+   "category": "holiday",
+   "title": "Erev Pesach",
+   "hebrew": "ערב פסח"
+  },
+  {
+   "date": "2026-04-02",
+   "category": "holiday",
+   "title": "Pesach I",
+   "hebrew": "פסח א׳"
+  },
+  {
+   "date": "2026-04-03",
+   "category": "holiday",
+   "title": "Pesach II",
+   "hebrew": "פסח ב׳"
+  },
+  {
+   "date": "2026-04-04",
+   "category": "holiday",
+   "title": "Pesach III (CH’’M)",
+   "hebrew": "פסח ג׳ (חוה״מ)"
+  },
+  {
+   "date": "2026-04-05",
+   "category": "holiday",
+   "title": "Pesach IV (CH’’M)",
+   "hebrew": "פסח ד׳ (חוה״מ)"
+  },
+  {
+   "date": "2026-04-06",
+   "category": "holiday",
+   "title": "Pesach V (CH’’M)",
+   "hebrew": "פסח ה׳ (חוה״מ)"
+  },
+  {
+   "date": "2026-04-07",
+   "category": "holiday",
+   "title": "Pesach VI (CH’’M)",
+   "hebrew": "פסח ו׳ (חוה״מ)"
+  },
+  {
+   "date": "2026-04-08",
+   "category": "holiday",
+   "title": "Pesach VII",
+   "hebrew": "פסח ז׳"
+  },
+  {
+   "date": "2026-04-09",
+   "category": "holiday",
+   "title": "Pesach VIII",
+   "hebrew": "פסח ח׳"
+  },
+  {
+   "date": "2026-04-11",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Iyyar",
+   "hebrew": "מברכים חודש אייר"
+  },
+  {
+   "date": "2026-04-11",
+   "category": "parashat",
+   "title": "Parashat Shmini",
+   "hebrew": "פרשת שמיני"
+  },
+  {
+   "date": "2026-04-17",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר"
+  },
+  {
+   "date": "2026-04-18",
+   "category": "parashat",
+   "title": "Parashat Tazria-Metzora",
+   "hebrew": "פרשת תזריע־מצרע"
+  },
+  {
+   "date": "2026-04-18",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר"
+  },
+  {
+   "date": "2026-04-25",
+   "category": "parashat",
+   "title": "Parashat Achrei Mot-Kedoshim",
+   "hebrew": "פרשת אחרי מות־קדשים"
+  },
+  {
+   "date": "2026-05-01",
+   "category": "holiday",
+   "title": "Pesach Sheni",
+   "hebrew": "פסח שני"
+  },
+  {
+   "date": "2026-05-02",
+   "category": "parashat",
+   "title": "Parashat Emor",
+   "hebrew": "פרשת אמור"
+  },
+  {
+   "date": "2026-05-05",
+   "category": "holiday",
+   "title": "Lag BaOmer",
+   "hebrew": "ל״ג בעומר"
+  },
+  {
+   "date": "2026-05-09",
+   "category": "parashat",
+   "title": "Parashat Behar-Bechukotai",
+   "hebrew": "פרשת בהר־בחקתי"
+  },
+  {
+   "date": "2026-05-16",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Sivan",
+   "hebrew": "מברכים חודש סיון"
+  },
+  {
+   "date": "2026-05-16",
+   "category": "parashat",
+   "title": "Parashat Bamidbar",
+   "hebrew": "פרשת במדבר"
+  },
+  {
+   "date": "2026-05-17",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Sivan",
+   "hebrew": "ראש חודש סיון"
+  },
+  {
+   "date": "2026-05-21",
+   "category": "holiday",
+   "title": "Erev Shavuot",
+   "hebrew": "ערב שבועות"
+  },
+  {
+   "date": "2026-05-22",
+   "category": "holiday",
+   "title": "Shavuot I",
+   "hebrew": "שבועות א׳"
+  },
+  {
+   "date": "2026-05-23",
+   "category": "holiday",
+   "title": "Shavuot II",
+   "hebrew": "שבועות ב׳"
+  },
+  {
+   "date": "2026-05-30",
+   "category": "parashat",
+   "title": "Parashat Nasso",
+   "hebrew": "פרשת נשא"
+  },
+  {
+   "date": "2026-06-06",
+   "category": "parashat",
+   "title": "Parashat Beha’alotcha",
+   "hebrew": "פרשת בהעלתך"
+  },
+  {
+   "date": "2026-06-13",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Tamuz",
+   "hebrew": "מברכים חודש תמוז"
+  },
+  {
+   "date": "2026-06-13",
+   "category": "parashat",
+   "title": "Parashat Sh’lach",
+   "hebrew": "פרשת שלח־לך"
+  },
+  {
+   "date": "2026-06-15",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז"
+  },
+  {
+   "date": "2026-06-16",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז"
+  },
+  {
+   "date": "2026-06-20",
+   "category": "parashat",
+   "title": "Parashat Korach",
+   "hebrew": "פרשת קורח"
+  },
+  {
+   "date": "2026-06-27",
+   "category": "parashat",
+   "title": "Parashat Chukat-Balak",
+   "hebrew": "פרשת חוקת־בלק"
+  },
+  {
+   "date": "2026-07-04",
+   "category": "parashat",
+   "title": "Parashat Pinchas",
+   "hebrew": "פרשת פינחס"
+  },
+  {
+   "date": "2026-07-11",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Av",
+   "hebrew": "מברכים חודש אב"
+  },
+  {
+   "date": "2026-07-11",
+   "category": "parashat",
+   "title": "Parashat Matot-Masei",
+   "hebrew": "פרשת מטות־מסעי"
+  },
+  {
+   "date": "2026-07-15",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Av",
+   "hebrew": "ראש חודש אב"
+  },
+  {
+   "date": "2026-07-18",
+   "category": "parashat",
+   "title": "Parashat Devarim",
+   "hebrew": "פרשת דברים"
+  },
+  {
+   "date": "2026-07-18",
+   "category": "holiday",
+   "title": "Shabbat Chazon",
+   "hebrew": "שבת חזון"
+  },
+  {
+   "date": "2026-07-22",
+   "category": "holiday",
+   "title": "Erev Tish’a B’Av",
+   "hebrew": "ערב תשעה באב"
+  },
+  {
+   "date": "2026-07-23",
+   "category": "holiday",
+   "title": "Tish’a B’Av",
+   "hebrew": "תשעה באב"
+  },
+  {
+   "date": "2026-07-25",
+   "category": "parashat",
+   "title": "Parashat Vaetchanan",
+   "hebrew": "פרשת ואתחנן"
+  },
+  {
+   "date": "2026-07-25",
+   "category": "holiday",
+   "title": "Shabbat Nachamu",
+   "hebrew": "שבת נחמו"
+  },
+  {
+   "date": "2026-07-29",
+   "category": "holiday",
+   "title": "Tu B’Av",
+   "hebrew": "ט״ו באב"
+  },
+  {
+   "date": "2026-08-01",
+   "category": "parashat",
+   "title": "Parashat Eikev",
+   "hebrew": "פרשת עקב"
+  },
+  {
+   "date": "2026-08-08",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Elul",
+   "hebrew": "מברכים חודש אלול"
+  },
+  {
+   "date": "2026-08-08",
+   "category": "parashat",
+   "title": "Parashat Re’eh",
+   "hebrew": "פרשת ראה"
+  },
+  {
+   "date": "2026-08-13",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Elul",
+   "hebrew": "ראש חודש אלול"
+  },
+  {
+   "date": "2026-08-14",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Elul",
+   "hebrew": "ראש חודש אלול"
+  },
+  {
+   "date": "2026-08-14",
+   "category": "holiday",
+   "title": "Rosh Hashana LaBehemot",
+   "hebrew": "ראש השנה למעשר בהמה"
+  },
+  {
+   "date": "2026-08-15",
+   "category": "parashat",
+   "title": "Parashat Shoftim",
+   "hebrew": "פרשת שופטים"
+  },
+  {
+   "date": "2026-08-22",
+   "category": "parashat",
+   "title": "Parashat Ki Teitzei",
+   "hebrew": "פרשת כי־תצא"
+  },
+  {
+   "date": "2026-08-29",
+   "category": "parashat",
+   "title": "Parashat Ki Tavo",
+   "hebrew": "פרשת כי־תבוא"
+  },
+  {
+   "date": "2026-09-05",
+   "category": "holiday",
+   "title": "Leil Selichot",
+   "hebrew": "סליחות"
+  },
+  {
+   "date": "2026-09-05",
+   "category": "parashat",
+   "title": "Parashat Nitzavim-Vayeilech",
+   "hebrew": "פרשת נצבים־וילך"
+  },
+  {
+   "date": "2026-09-11",
+   "category": "holiday",
+   "title": "Erev Rosh Hashana",
+   "hebrew": "ערב ראש השנה"
+  },
+  {
+   "date": "2026-09-12",
+   "category": "holiday",
+   "title": "Rosh Hashana 5787",
+   "hebrew": "ראש השנה 5787"
+  },
+  {
+   "date": "2026-09-13",
+   "category": "holiday",
+   "title": "Rosh Hashana II",
+   "hebrew": "ראש השנה ב׳"
+  },
+  {
+   "date": "2026-09-19",
+   "category": "parashat",
+   "title": "Parashat Ha’azinu",
+   "hebrew": "פרשת האזינו"
+  },
+  {
+   "date": "2026-09-19",
+   "category": "holiday",
+   "title": "Shabbat Shuva",
+   "hebrew": "שבת שובה"
+  },
+  {
+   "date": "2026-09-20",
+   "category": "holiday",
+   "title": "Erev Yom Kippur",
+   "hebrew": "ערב יום כיפור"
+  },
+  {
+   "date": "2026-09-21",
+   "category": "holiday",
+   "title": "Yom Kippur",
+   "hebrew": "יום כיפור"
+  },
+  {
+   "date": "2026-09-25",
+   "category": "holiday",
+   "title": "Erev Sukkot",
+   "hebrew": "ערב סוכות"
+  },
+  {
+   "date": "2026-09-26",
+   "category": "holiday",
+   "title": "Sukkot I",
+   "hebrew": "סוכות א׳"
+  },
+  {
+   "date": "2026-09-27",
+   "category": "holiday",
+   "title": "Sukkot II",
+   "hebrew": "סוכות ב׳"
+  },
+  {
+   "date": "2026-09-28",
+   "category": "holiday",
+   "title": "Sukkot III (CH’’M)",
+   "hebrew": "סוכות ג׳ (חוה״מ)"
+  },
+  {
+   "date": "2026-09-29",
+   "category": "holiday",
+   "title": "Sukkot IV (CH’’M)",
+   "hebrew": "סוכות ד׳ (חוה״מ)"
+  },
+  {
+   "date": "2026-09-30",
+   "category": "holiday",
+   "title": "Sukkot V (CH’’M)",
+   "hebrew": "סוכות ה׳ (חוה״מ)"
+  },
+  {
+   "date": "2026-10-01",
+   "category": "holiday",
+   "title": "Sukkot VI (CH’’M)",
+   "hebrew": "סוכות ו׳ (חוה״מ)"
+  },
+  {
+   "date": "2026-10-02",
+   "category": "holiday",
+   "title": "Sukkot VII (Hoshana Raba)",
+   "hebrew": "סוכות ז׳ (הושענא רבה)"
+  },
+  {
+   "date": "2026-10-03",
+   "category": "holiday",
+   "title": "Shmini Atzeret",
+   "hebrew": "שמיני עצרת"
+  },
+  {
+   "date": "2026-10-04",
+   "category": "holiday",
+   "title": "Simchat Torah",
+   "hebrew": "שמחת תורה"
+  },
+  {
+   "date": "2026-10-10",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Cheshvan",
+   "hebrew": "מברכים חודש חשון"
+  },
+  {
+   "date": "2026-10-10",
+   "category": "parashat",
+   "title": "Parashat Bereshit",
+   "hebrew": "פרשת בראשית"
+  },
+  {
+   "date": "2026-10-11",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון"
+  },
+  {
+   "date": "2026-10-12",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון"
+  },
+  {
+   "date": "2026-10-17",
+   "category": "parashat",
+   "title": "Parashat Noach",
+   "hebrew": "פרשת נח"
+  },
+  {
+   "date": "2026-10-24",
+   "category": "parashat",
+   "title": "Parashat Lech-Lecha",
+   "hebrew": "פרשת לך־לך"
+  },
+  {
+   "date": "2026-10-31",
+   "category": "parashat",
+   "title": "Parashat Vayera",
+   "hebrew": "פרשת וירא"
+  },
+  {
+   "date": "2026-11-07",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Kislev",
+   "hebrew": "מברכים חודש כסלו"
+  },
+  {
+   "date": "2026-11-07",
+   "category": "parashat",
+   "title": "Parashat Chayei Sara",
+   "hebrew": "פרשת חיי שרה"
+  },
+  {
+   "date": "2026-11-10",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Kislev",
+   "hebrew": "ראש חודש כסלו"
+  },
+  {
+   "date": "2026-11-11",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Kislev",
+   "hebrew": "ראש חודש כסלו"
+  },
+  {
+   "date": "2026-11-14",
+   "category": "parashat",
+   "title": "Parashat Toldot",
+   "hebrew": "פרשת תולדות"
+  },
+  {
+   "date": "2026-11-21",
+   "category": "parashat",
+   "title": "Parashat Vayetzei",
+   "hebrew": "פרשת ויצא"
+  },
+  {
+   "date": "2026-11-28",
+   "category": "parashat",
+   "title": "Parashat Vayishlach",
+   "hebrew": "פרשת וישלח"
+  },
+  {
+   "date": "2026-12-04",
+   "category": "holiday",
+   "title": "Chanukah: 1 Candle",
+   "hebrew": "חנוכה: א׳ נר"
+  },
+  {
+   "date": "2026-12-05",
+   "category": "holiday",
+   "title": "Chanukah: 2 Candles",
+   "hebrew": "חנוכה: ב׳ נרות"
+  },
+  {
+   "date": "2026-12-05",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Tevet",
+   "hebrew": "מברכים חודש טבת"
+  },
+  {
+   "date": "2026-12-05",
+   "category": "parashat",
+   "title": "Parashat Vayeshev",
+   "hebrew": "פרשת וישב"
+  },
+  {
+   "date": "2026-12-06",
+   "category": "holiday",
+   "title": "Chanukah: 3 Candles",
+   "hebrew": "חנוכה: ג׳ נרות"
+  },
+  {
+   "date": "2026-12-07",
+   "category": "holiday",
+   "title": "Chanukah: 4 Candles",
+   "hebrew": "חנוכה: ד׳ נרות"
+  },
+  {
+   "date": "2026-12-08",
+   "category": "holiday",
+   "title": "Chanukah: 5 Candles",
+   "hebrew": "חנוכה: ה׳ נרות"
+  },
+  {
+   "date": "2026-12-09",
+   "category": "holiday",
+   "title": "Chanukah: 6 Candles",
+   "hebrew": "חנוכה: ו׳ נרות"
+  },
+  {
+   "date": "2026-12-10",
+   "category": "holiday",
+   "title": "Chag HaBanot",
+   "hebrew": "חג הבנות"
+  },
+  {
+   "date": "2026-12-10",
+   "category": "holiday",
+   "title": "Chanukah: 7 Candles",
+   "hebrew": "חנוכה: ז׳ נרות"
+  },
+  {
+   "date": "2026-12-10",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tevet",
+   "hebrew": "ראש חודש טבת"
+  },
+  {
+   "date": "2026-12-11",
+   "category": "holiday",
+   "title": "Chanukah: 8 Candles",
+   "hebrew": "חנוכה: ח׳ נרות"
+  },
+  {
+   "date": "2026-12-11",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tevet",
+   "hebrew": "ראש חודש טבת"
+  },
+  {
+   "date": "2026-12-12",
+   "category": "holiday",
+   "title": "Chanukah: 8th Day",
+   "hebrew": "חנוכה: יום ח׳"
+  },
+  {
+   "date": "2026-12-12",
+   "category": "parashat",
+   "title": "Parashat Miketz",
+   "hebrew": "פרשת מקץ"
+  },
+  {
+   "date": "2026-12-19",
+   "category": "parashat",
+   "title": "Parashat Vayigash",
+   "hebrew": "פרשת ויגש"
+  },
+  {
+   "date": "2026-12-26",
+   "category": "parashat",
+   "title": "Parashat Vayechi",
+   "hebrew": "פרשת ויחי"
+  },
+  {
+   "date": "2027-01-02",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Sh’vat",
+   "hebrew": "מברכים חודש שבט"
+  },
+  {
+   "date": "2027-01-02",
+   "category": "parashat",
+   "title": "Parashat Shemot",
+   "hebrew": "פרשת שמות"
+  },
+  {
+   "date": "2027-01-09",
+   "category": "parashat",
+   "title": "Parashat Vaera",
+   "hebrew": "פרשת וארא"
+  },
+  {
+   "date": "2027-01-09",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Sh’vat",
+   "hebrew": "ראש חודש שבט"
+  },
+  {
+   "date": "2027-01-16",
+   "category": "parashat",
+   "title": "Parashat Bo",
+   "hebrew": "פרשת בא"
+  },
+  {
+   "date": "2027-01-23",
+   "category": "parashat",
+   "title": "Parashat Beshalach",
+   "hebrew": "פרשת בשלח"
+  },
+  {
+   "date": "2027-01-23",
+   "category": "holiday",
+   "title": "Shabbat Shirah",
+   "hebrew": "שבת שירה"
+  },
+  {
+   "date": "2027-01-23",
+   "category": "holiday",
+   "title": "Tu BiShvat",
+   "hebrew": "ט״ו בשבט"
+  },
+  {
+   "date": "2027-01-30",
+   "category": "parashat",
+   "title": "Parashat Yitro",
+   "hebrew": "פרשת יתרו"
+  },
+  {
+   "date": "2027-02-06",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Adar I",
+   "hebrew": "מברכים חודש אדר א׳"
+  },
+  {
+   "date": "2027-02-06",
+   "category": "parashat",
+   "title": "Parashat Mishpatim",
+   "hebrew": "פרשת משפטים"
+  },
+  {
+   "date": "2027-02-07",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar I",
+   "hebrew": "ראש חודש אדר א׳"
+  },
+  {
+   "date": "2027-02-08",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar I",
+   "hebrew": "ראש חודש אדר א׳"
+  },
+  {
+   "date": "2027-02-13",
+   "category": "parashat",
+   "title": "Parashat Terumah",
+   "hebrew": "פרשת תרומה"
+  },
+  {
+   "date": "2027-02-20",
+   "category": "parashat",
+   "title": "Parashat Tetzaveh",
+   "hebrew": "פרשת תצוה"
+  },
+  {
+   "date": "2027-02-21",
+   "category": "holiday",
+   "title": "Purim Katan",
+   "hebrew": "פורים קטן"
+  },
+  {
+   "date": "2027-02-22",
+   "category": "holiday",
+   "title": "Shushan Purim Katan",
+   "hebrew": "שושן פורים קטן"
+  },
+  {
+   "date": "2027-02-27",
+   "category": "parashat",
+   "title": "Parashat Ki Tisa",
+   "hebrew": "פרשת כי תשא"
+  },
+  {
+   "date": "2027-03-06",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Adar II",
+   "hebrew": "מברכים חודש אדר ב׳"
+  },
+  {
+   "date": "2027-03-06",
+   "category": "parashat",
+   "title": "Parashat Vayakhel",
+   "hebrew": "פרשת ויקהל"
+  },
+  {
+   "date": "2027-03-06",
+   "category": "holiday",
+   "title": "Shabbat Shekalim",
+   "hebrew": "שבת שקלים"
+  },
+  {
+   "date": "2027-03-09",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar II",
+   "hebrew": "ראש חודש אדר ב׳"
+  },
+  {
+   "date": "2027-03-10",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar II",
+   "hebrew": "ראש חודש אדר ב׳"
+  },
+  {
+   "date": "2027-03-13",
+   "category": "parashat",
+   "title": "Parashat Pekudei",
+   "hebrew": "פרשת פקודי"
+  },
+  {
+   "date": "2027-03-20",
+   "category": "parashat",
+   "title": "Parashat Vayikra",
+   "hebrew": "פרשת ויקרא"
+  },
+  {
+   "date": "2027-03-20",
+   "category": "holiday",
+   "title": "Shabbat Zachor",
+   "hebrew": "שבת זכור"
+  },
+  {
+   "date": "2027-03-22",
+   "category": "holiday",
+   "title": "Erev Purim",
+   "hebrew": "ערב פורים"
+  },
+  {
+   "date": "2027-03-23",
+   "category": "holiday",
+   "title": "Purim",
+   "hebrew": "פורים"
+  },
+  {
+   "date": "2027-03-24",
+   "category": "holiday",
+   "title": "Shushan Purim",
+   "hebrew": "שושן פורים"
+  },
+  {
+   "date": "2027-03-27",
+   "category": "parashat",
+   "title": "Parashat Tzav",
+   "hebrew": "פרשת צו"
+  },
+  {
+   "date": "2027-03-27",
+   "category": "holiday",
+   "title": "Shabbat Parah",
+   "hebrew": "שבת פרה"
+  },
+  {
+   "date": "2027-04-03",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Nisan",
+   "hebrew": "מברכים חודש ניסן"
+  },
+  {
+   "date": "2027-04-03",
+   "category": "parashat",
+   "title": "Parashat Shmini",
+   "hebrew": "פרשת שמיני"
+  },
+  {
+   "date": "2027-04-03",
+   "category": "holiday",
+   "title": "Shabbat HaChodesh",
+   "hebrew": "שבת החדש"
+  },
+  {
+   "date": "2027-04-08",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Nisan",
+   "hebrew": "ראש חודש ניסן"
+  },
+  {
+   "date": "2027-04-10",
+   "category": "parashat",
+   "title": "Parashat Tazria",
+   "hebrew": "פרשת תזריע"
+  },
+  {
+   "date": "2027-04-17",
+   "category": "parashat",
+   "title": "Parashat Metzora",
+   "hebrew": "פרשת מצרע"
+  },
+  {
+   "date": "2027-04-17",
+   "category": "holiday",
+   "title": "Shabbat HaGadol",
+   "hebrew": "שבת הגדול"
+  },
+  {
+   "date": "2027-04-21",
+   "category": "holiday",
+   "title": "Erev Pesach",
+   "hebrew": "ערב פסח"
+  },
+  {
+   "date": "2027-04-22",
+   "category": "holiday",
+   "title": "Pesach I",
+   "hebrew": "פסח א׳"
+  },
+  {
+   "date": "2027-04-23",
+   "category": "holiday",
+   "title": "Pesach II",
+   "hebrew": "פסח ב׳"
+  },
+  {
+   "date": "2027-04-24",
+   "category": "holiday",
+   "title": "Pesach III (CH’’M)",
+   "hebrew": "פסח ג׳ (חוה״מ)"
+  },
+  {
+   "date": "2027-04-25",
+   "category": "holiday",
+   "title": "Pesach IV (CH’’M)",
+   "hebrew": "פסח ד׳ (חוה״מ)"
+  },
+  {
+   "date": "2027-04-26",
+   "category": "holiday",
+   "title": "Pesach V (CH’’M)",
+   "hebrew": "פסח ה׳ (חוה״מ)"
+  },
+  {
+   "date": "2027-04-27",
+   "category": "holiday",
+   "title": "Pesach VI (CH’’M)",
+   "hebrew": "פסח ו׳ (חוה״מ)"
+  },
+  {
+   "date": "2027-04-28",
+   "category": "holiday",
+   "title": "Pesach VII",
+   "hebrew": "פסח ז׳"
+  },
+  {
+   "date": "2027-04-29",
+   "category": "holiday",
+   "title": "Pesach VIII",
+   "hebrew": "פסח ח׳"
+  },
+  {
+   "date": "2027-05-01",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Iyyar",
+   "hebrew": "מברכים חודש אייר"
+  },
+  {
+   "date": "2027-05-01",
+   "category": "parashat",
+   "title": "Parashat Achrei Mot",
+   "hebrew": "פרשת אחרי מות"
+  },
+  {
+   "date": "2027-05-07",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר"
+  },
+  {
+   "date": "2027-05-08",
+   "category": "parashat",
+   "title": "Parashat Kedoshim",
+   "hebrew": "פרשת קדשים"
+  },
+  {
+   "date": "2027-05-08",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר"
+  },
+  {
+   "date": "2027-05-15",
+   "category": "parashat",
+   "title": "Parashat Emor",
+   "hebrew": "פרשת אמור"
+  },
+  {
+   "date": "2027-05-21",
+   "category": "holiday",
+   "title": "Pesach Sheni",
+   "hebrew": "פסח שני"
+  },
+  {
+   "date": "2027-05-22",
+   "category": "parashat",
+   "title": "Parashat Behar",
+   "hebrew": "פרשת בהר"
+  },
+  {
+   "date": "2027-05-25",
+   "category": "holiday",
+   "title": "Lag BaOmer",
+   "hebrew": "ל״ג בעומר"
+  },
+  {
+   "date": "2027-05-29",
+   "category": "parashat",
+   "title": "Parashat Bechukotai",
+   "hebrew": "פרשת בחקתי"
+  },
+  {
+   "date": "2027-06-05",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Sivan",
+   "hebrew": "מברכים חודש סיון"
+  },
+  {
+   "date": "2027-06-05",
+   "category": "parashat",
+   "title": "Parashat Bamidbar",
+   "hebrew": "פרשת במדבר"
+  },
+  {
+   "date": "2027-06-06",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Sivan",
+   "hebrew": "ראש חודש סיון"
+  },
+  {
+   "date": "2027-06-10",
+   "category": "holiday",
+   "title": "Erev Shavuot",
+   "hebrew": "ערב שבועות"
+  },
+  {
+   "date": "2027-06-11",
+   "category": "holiday",
+   "title": "Shavuot I",
+   "hebrew": "שבועות א׳"
+  },
+  {
+   "date": "2027-06-12",
+   "category": "holiday",
+   "title": "Shavuot II",
+   "hebrew": "שבועות ב׳"
+  },
+  {
+   "date": "2027-06-19",
+   "category": "parashat",
+   "title": "Parashat Nasso",
+   "hebrew": "פרשת נשא"
+  },
+  {
+   "date": "2027-06-26",
+   "category": "parashat",
+   "title": "Parashat Beha’alotcha",
+   "hebrew": "פרשת בהעלתך"
+  },
+  {
+   "date": "2027-07-03",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Tamuz",
+   "hebrew": "מברכים חודש תמוז"
+  },
+  {
+   "date": "2027-07-03",
+   "category": "parashat",
+   "title": "Parashat Sh’lach",
+   "hebrew": "פרשת שלח־לך"
+  },
+  {
+   "date": "2027-07-05",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז"
+  },
+  {
+   "date": "2027-07-06",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז"
+  },
+  {
+   "date": "2027-07-10",
+   "category": "parashat",
+   "title": "Parashat Korach",
+   "hebrew": "פרשת קורח"
+  },
+  {
+   "date": "2027-07-17",
+   "category": "parashat",
+   "title": "Parashat Chukat-Balak",
+   "hebrew": "פרשת חוקת־בלק"
+  },
+  {
+   "date": "2027-07-24",
+   "category": "parashat",
+   "title": "Parashat Pinchas",
+   "hebrew": "פרשת פינחס"
+  },
+  {
+   "date": "2027-07-31",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Av",
+   "hebrew": "מברכים חודש אב"
+  },
+  {
+   "date": "2027-07-31",
+   "category": "parashat",
+   "title": "Parashat Matot-Masei",
+   "hebrew": "פרשת מטות־מסעי"
+  },
+  {
+   "date": "2027-08-04",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Av",
+   "hebrew": "ראש חודש אב"
+  },
+  {
+   "date": "2027-08-07",
+   "category": "parashat",
+   "title": "Parashat Devarim",
+   "hebrew": "פרשת דברים"
+  },
+  {
+   "date": "2027-08-07",
+   "category": "holiday",
+   "title": "Shabbat Chazon",
+   "hebrew": "שבת חזון"
+  },
+  {
+   "date": "2027-08-11",
+   "category": "holiday",
+   "title": "Erev Tish’a B’Av",
+   "hebrew": "ערב תשעה באב"
+  },
+  {
+   "date": "2027-08-12",
+   "category": "holiday",
+   "title": "Tish’a B’Av",
+   "hebrew": "תשעה באב"
+  },
+  {
+   "date": "2027-08-14",
+   "category": "parashat",
+   "title": "Parashat Vaetchanan",
+   "hebrew": "פרשת ואתחנן"
+  },
+  {
+   "date": "2027-08-14",
+   "category": "holiday",
+   "title": "Shabbat Nachamu",
+   "hebrew": "שבת נחמו"
+  },
+  {
+   "date": "2027-08-18",
+   "category": "holiday",
+   "title": "Tu B’Av",
+   "hebrew": "ט״ו באב"
+  },
+  {
+   "date": "2027-08-21",
+   "category": "parashat",
+   "title": "Parashat Eikev",
+   "hebrew": "פרשת עקב"
+  },
+  {
+   "date": "2027-08-28",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Elul",
+   "hebrew": "מברכים חודש אלול"
+  },
+  {
+   "date": "2027-08-28",
+   "category": "parashat",
+   "title": "Parashat Re’eh",
+   "hebrew": "פרשת ראה"
+  },
+  {
+   "date": "2027-09-02",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Elul",
+   "hebrew": "ראש חודש אלול"
+  },
+  {
+   "date": "2027-09-03",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Elul",
+   "hebrew": "ראש חודש אלול"
+  },
+  {
+   "date": "2027-09-03",
+   "category": "holiday",
+   "title": "Rosh Hashana LaBehemot",
+   "hebrew": "ראש השנה למעשר בהמה"
+  },
+  {
+   "date": "2027-09-04",
+   "category": "parashat",
+   "title": "Parashat Shoftim",
+   "hebrew": "פרשת שופטים"
+  },
+  {
+   "date": "2027-09-11",
+   "category": "parashat",
+   "title": "Parashat Ki Teitzei",
+   "hebrew": "פרשת כי־תצא"
+  },
+  {
+   "date": "2027-09-18",
+   "category": "parashat",
+   "title": "Parashat Ki Tavo",
+   "hebrew": "פרשת כי־תבוא"
+  },
+  {
+   "date": "2027-09-25",
+   "category": "holiday",
+   "title": "Leil Selichot",
+   "hebrew": "סליחות"
+  },
+  {
+   "date": "2027-09-25",
+   "category": "parashat",
+   "title": "Parashat Nitzavim-Vayeilech",
+   "hebrew": "פרשת נצבים־וילך"
+  },
+  {
+   "date": "2027-10-01",
+   "category": "holiday",
+   "title": "Erev Rosh Hashana",
+   "hebrew": "ערב ראש השנה"
+  },
+  {
+   "date": "2027-10-02",
+   "category": "holiday",
+   "title": "Rosh Hashana 5788",
+   "hebrew": "ראש השנה 5788"
+  },
+  {
+   "date": "2027-10-03",
+   "category": "holiday",
+   "title": "Rosh Hashana II",
+   "hebrew": "ראש השנה ב׳"
+  },
+  {
+   "date": "2027-10-09",
+   "category": "parashat",
+   "title": "Parashat Ha’azinu",
+   "hebrew": "פרשת האזינו"
+  },
+  {
+   "date": "2027-10-09",
+   "category": "holiday",
+   "title": "Shabbat Shuva",
+   "hebrew": "שבת שובה"
+  },
+  {
+   "date": "2027-10-10",
+   "category": "holiday",
+   "title": "Erev Yom Kippur",
+   "hebrew": "ערב יום כיפור"
+  },
+  {
+   "date": "2027-10-11",
+   "category": "holiday",
+   "title": "Yom Kippur",
+   "hebrew": "יום כיפור"
+  },
+  {
+   "date": "2027-10-15",
+   "category": "holiday",
+   "title": "Erev Sukkot",
+   "hebrew": "ערב סוכות"
+  },
+  {
+   "date": "2027-10-16",
+   "category": "holiday",
+   "title": "Sukkot I",
+   "hebrew": "סוכות א׳"
+  },
+  {
+   "date": "2027-10-17",
+   "category": "holiday",
+   "title": "Sukkot II",
+   "hebrew": "סוכות ב׳"
+  },
+  {
+   "date": "2027-10-18",
+   "category": "holiday",
+   "title": "Sukkot III (CH’’M)",
+   "hebrew": "סוכות ג׳ (חוה״מ)"
+  },
+  {
+   "date": "2027-10-19",
+   "category": "holiday",
+   "title": "Sukkot IV (CH’’M)",
+   "hebrew": "סוכות ד׳ (חוה״מ)"
+  },
+  {
+   "date": "2027-10-20",
+   "category": "holiday",
+   "title": "Sukkot V (CH’’M)",
+   "hebrew": "סוכות ה׳ (חוה״מ)"
+  },
+  {
+   "date": "2027-10-21",
+   "category": "holiday",
+   "title": "Sukkot VI (CH’’M)",
+   "hebrew": "סוכות ו׳ (חוה״מ)"
+  },
+  {
+   "date": "2027-10-22",
+   "category": "holiday",
+   "title": "Sukkot VII (Hoshana Raba)",
+   "hebrew": "סוכות ז׳ (הושענא רבה)"
+  },
+  {
+   "date": "2027-10-23",
+   "category": "holiday",
+   "title": "Shmini Atzeret",
+   "hebrew": "שמיני עצרת"
+  },
+  {
+   "date": "2027-10-24",
+   "category": "holiday",
+   "title": "Simchat Torah",
+   "hebrew": "שמחת תורה"
+  },
+  {
+   "date": "2027-10-30",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Cheshvan",
+   "hebrew": "מברכים חודש חשון"
+  },
+  {
+   "date": "2027-10-30",
+   "category": "parashat",
+   "title": "Parashat Bereshit",
+   "hebrew": "פרשת בראשית"
+  },
+  {
+   "date": "2027-10-31",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון"
+  },
+  {
+   "date": "2027-11-01",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון"
+  },
+  {
+   "date": "2027-11-06",
+   "category": "parashat",
+   "title": "Parashat Noach",
+   "hebrew": "פרשת נח"
+  },
+  {
+   "date": "2027-11-13",
+   "category": "parashat",
+   "title": "Parashat Lech-Lecha",
+   "hebrew": "פרשת לך־לך"
+  },
+  {
+   "date": "2027-11-20",
+   "category": "parashat",
+   "title": "Parashat Vayera",
+   "hebrew": "פרשת וירא"
+  },
+  {
+   "date": "2027-11-27",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Kislev",
+   "hebrew": "מברכים חודש כסלו"
+  },
+  {
+   "date": "2027-11-27",
+   "category": "parashat",
+   "title": "Parashat Chayei Sara",
+   "hebrew": "פרשת חיי שרה"
+  },
+  {
+   "date": "2027-11-30",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Kislev",
+   "hebrew": "ראש חודש כסלו"
+  },
+  {
+   "date": "2027-12-01",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Kislev",
+   "hebrew": "ראש חודש כסלו"
+  },
+  {
+   "date": "2027-12-04",
+   "category": "parashat",
+   "title": "Parashat Toldot",
+   "hebrew": "פרשת תולדות"
+  },
+  {
+   "date": "2027-12-11",
+   "category": "parashat",
+   "title": "Parashat Vayetzei",
+   "hebrew": "פרשת ויצא"
+  },
+  {
+   "date": "2027-12-18",
+   "category": "parashat",
+   "title": "Parashat Vayishlach",
+   "hebrew": "פרשת וישלח"
+  },
+  {
+   "date": "2027-12-24",
+   "category": "holiday",
+   "title": "Chanukah: 1 Candle",
+   "hebrew": "חנוכה: א׳ נר"
+  },
+  {
+   "date": "2027-12-25",
+   "category": "holiday",
+   "title": "Chanukah: 2 Candles",
+   "hebrew": "חנוכה: ב׳ נרות"
+  },
+  {
+   "date": "2027-12-25",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Tevet",
+   "hebrew": "מברכים חודש טבת"
+  },
+  {
+   "date": "2027-12-25",
+   "category": "parashat",
+   "title": "Parashat Vayeshev",
+   "hebrew": "פרשת וישב"
+  },
+  {
+   "date": "2027-12-26",
+   "category": "holiday",
+   "title": "Chanukah: 3 Candles",
+   "hebrew": "חנוכה: ג׳ נרות"
+  },
+  {
+   "date": "2027-12-27",
+   "category": "holiday",
+   "title": "Chanukah: 4 Candles",
+   "hebrew": "חנוכה: ד׳ נרות"
+  },
+  {
+   "date": "2027-12-28",
+   "category": "holiday",
+   "title": "Chanukah: 5 Candles",
+   "hebrew": "חנוכה: ה׳ נרות"
+  },
+  {
+   "date": "2027-12-29",
+   "category": "holiday",
+   "title": "Chanukah: 6 Candles",
+   "hebrew": "חנוכה: ו׳ נרות"
+  },
+  {
+   "date": "2027-12-30",
+   "category": "holiday",
+   "title": "Chag HaBanot",
+   "hebrew": "חג הבנות"
+  },
+  {
+   "date": "2027-12-30",
+   "category": "holiday",
+   "title": "Chanukah: 7 Candles",
+   "hebrew": "חנוכה: ז׳ נרות"
+  },
+  {
+   "date": "2027-12-30",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tevet",
+   "hebrew": "ראש חודש טבת"
+  },
+  {
+   "date": "2027-12-31",
+   "category": "holiday",
+   "title": "Chanukah: 8 Candles",
+   "hebrew": "חנוכה: ח׳ נרות"
+  },
+  {
+   "date": "2027-12-31",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tevet",
+   "hebrew": "ראש חודש טבת"
+  },
+  {
+   "date": "2028-01-01",
+   "category": "holiday",
+   "title": "Chanukah: 8th Day",
+   "hebrew": "חנוכה: יום ח׳"
+  },
+  {
+   "date": "2028-01-01",
+   "category": "parashat",
+   "title": "Parashat Miketz",
+   "hebrew": "פרשת מקץ"
+  },
+  {
+   "date": "2028-01-08",
+   "category": "parashat",
+   "title": "Parashat Vayigash",
+   "hebrew": "פרשת ויגש"
+  },
+  {
+   "date": "2028-01-15",
+   "category": "parashat",
+   "title": "Parashat Vayechi",
+   "hebrew": "פרשת ויחי"
+  },
+  {
+   "date": "2028-01-22",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Sh’vat",
+   "hebrew": "מברכים חודש שבט"
+  },
+  {
+   "date": "2028-01-22",
+   "category": "parashat",
+   "title": "Parashat Shemot",
+   "hebrew": "פרשת שמות"
+  },
+  {
+   "date": "2028-01-29",
+   "category": "parashat",
+   "title": "Parashat Vaera",
+   "hebrew": "פרשת וארא"
+  },
+  {
+   "date": "2028-01-29",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Sh’vat",
+   "hebrew": "ראש חודש שבט"
+  },
+  {
+   "date": "2028-02-05",
+   "category": "parashat",
+   "title": "Parashat Bo",
+   "hebrew": "פרשת בא"
+  },
+  {
+   "date": "2028-02-12",
+   "category": "parashat",
+   "title": "Parashat Beshalach",
+   "hebrew": "פרשת בשלח"
+  },
+  {
+   "date": "2028-02-12",
+   "category": "holiday",
+   "title": "Shabbat Shirah",
+   "hebrew": "שבת שירה"
+  },
+  {
+   "date": "2028-02-12",
+   "category": "holiday",
+   "title": "Tu BiShvat",
+   "hebrew": "ט״ו בשבט"
+  },
+  {
+   "date": "2028-02-19",
+   "category": "parashat",
+   "title": "Parashat Yitro",
+   "hebrew": "פרשת יתרו"
+  },
+  {
+   "date": "2028-02-26",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Adar",
+   "hebrew": "מברכים חודש אדר"
+  },
+  {
+   "date": "2028-02-26",
+   "category": "parashat",
+   "title": "Parashat Mishpatim",
+   "hebrew": "פרשת משפטים"
+  },
+  {
+   "date": "2028-02-26",
+   "category": "holiday",
+   "title": "Shabbat Shekalim",
+   "hebrew": "שבת שקלים"
+  },
+  {
+   "date": "2028-02-27",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar",
+   "hebrew": "ראש חודש אדר"
+  },
+  {
+   "date": "2028-02-28",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar",
+   "hebrew": "ראש חודש אדר"
+  },
+  {
+   "date": "2028-03-04",
+   "category": "parashat",
+   "title": "Parashat Terumah",
+   "hebrew": "פרשת תרומה"
+  },
+  {
+   "date": "2028-03-11",
+   "category": "holiday",
+   "title": "Erev Purim",
+   "hebrew": "ערב פורים"
+  },
+  {
+   "date": "2028-03-11",
+   "category": "parashat",
+   "title": "Parashat Tetzaveh",
+   "hebrew": "פרשת תצוה"
+  },
+  {
+   "date": "2028-03-11",
+   "category": "holiday",
+   "title": "Shabbat Zachor",
+   "hebrew": "שבת זכור"
+  },
+  {
+   "date": "2028-03-12",
+   "category": "holiday",
+   "title": "Purim",
+   "hebrew": "פורים"
+  },
+  {
+   "date": "2028-03-13",
+   "category": "holiday",
+   "title": "Shushan Purim",
+   "hebrew": "שושן פורים"
+  },
+  {
+   "date": "2028-03-18",
+   "category": "parashat",
+   "title": "Parashat Ki Tisa",
+   "hebrew": "פרשת כי תשא"
+  },
+  {
+   "date": "2028-03-18",
+   "category": "holiday",
+   "title": "Shabbat Parah",
+   "hebrew": "שבת פרה"
+  },
+  {
+   "date": "2028-03-25",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Nisan",
+   "hebrew": "מברכים חודש ניסן"
+  },
+  {
+   "date": "2028-03-25",
+   "category": "parashat",
+   "title": "Parashat Vayakhel-Pekudei",
+   "hebrew": "פרשת ויקהל־פקודי"
+  },
+  {
+   "date": "2028-03-25",
+   "category": "holiday",
+   "title": "Shabbat HaChodesh",
+   "hebrew": "שבת החדש"
+  },
+  {
+   "date": "2028-03-28",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Nisan",
+   "hebrew": "ראש חודש ניסן"
+  },
+  {
+   "date": "2028-04-01",
+   "category": "parashat",
+   "title": "Parashat Vayikra",
+   "hebrew": "פרשת ויקרא"
+  },
+  {
+   "date": "2028-04-08",
+   "category": "parashat",
+   "title": "Parashat Tzav",
+   "hebrew": "פרשת צו"
+  },
+  {
+   "date": "2028-04-08",
+   "category": "holiday",
+   "title": "Shabbat HaGadol",
+   "hebrew": "שבת הגדול"
+  },
+  {
+   "date": "2028-04-10",
+   "category": "holiday",
+   "title": "Erev Pesach",
+   "hebrew": "ערב פסח"
+  },
+  {
+   "date": "2028-04-11",
+   "category": "holiday",
+   "title": "Pesach I",
+   "hebrew": "פסח א׳"
+  },
+  {
+   "date": "2028-04-12",
+   "category": "holiday",
+   "title": "Pesach II",
+   "hebrew": "פסח ב׳"
+  },
+  {
+   "date": "2028-04-13",
+   "category": "holiday",
+   "title": "Pesach III (CH’’M)",
+   "hebrew": "פסח ג׳ (חוה״מ)"
+  },
+  {
+   "date": "2028-04-14",
+   "category": "holiday",
+   "title": "Pesach IV (CH’’M)",
+   "hebrew": "פסח ד׳ (חוה״מ)"
+  },
+  {
+   "date": "2028-04-15",
+   "category": "holiday",
+   "title": "Pesach V (CH’’M)",
+   "hebrew": "פסח ה׳ (חוה״מ)"
+  },
+  {
+   "date": "2028-04-16",
+   "category": "holiday",
+   "title": "Pesach VI (CH’’M)",
+   "hebrew": "פסח ו׳ (חוה״מ)"
+  },
+  {
+   "date": "2028-04-17",
+   "category": "holiday",
+   "title": "Pesach VII",
+   "hebrew": "פסח ז׳"
+  },
+  {
+   "date": "2028-04-18",
+   "category": "holiday",
+   "title": "Pesach VIII",
+   "hebrew": "פסח ח׳"
+  },
+  {
+   "date": "2028-04-22",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Iyyar",
+   "hebrew": "מברכים חודש אייר"
+  },
+  {
+   "date": "2028-04-22",
+   "category": "parashat",
+   "title": "Parashat Shmini",
+   "hebrew": "פרשת שמיני"
+  },
+  {
+   "date": "2028-04-26",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר"
+  },
+  {
+   "date": "2028-04-27",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר"
+  },
+  {
+   "date": "2028-04-29",
+   "category": "parashat",
+   "title": "Parashat Tazria-Metzora",
+   "hebrew": "פרשת תזריע־מצרע"
+  },
+  {
+   "date": "2028-05-06",
+   "category": "parashat",
+   "title": "Parashat Achrei Mot-Kedoshim",
+   "hebrew": "פרשת אחרי מות־קדשים"
+  },
+  {
+   "date": "2028-05-10",
+   "category": "holiday",
+   "title": "Pesach Sheni",
+   "hebrew": "פסח שני"
+  },
+  {
+   "date": "2028-05-13",
+   "category": "parashat",
+   "title": "Parashat Emor",
+   "hebrew": "פרשת אמור"
+  },
+  {
+   "date": "2028-05-14",
+   "category": "holiday",
+   "title": "Lag BaOmer",
+   "hebrew": "ל״ג בעומר"
+  },
+  {
+   "date": "2028-05-20",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Sivan",
+   "hebrew": "מברכים חודש סיון"
+  },
+  {
+   "date": "2028-05-20",
+   "category": "parashat",
+   "title": "Parashat Behar-Bechukotai",
+   "hebrew": "פרשת בהר־בחקתי"
+  },
+  {
+   "date": "2028-05-26",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Sivan",
+   "hebrew": "ראש חודש סיון"
+  },
+  {
+   "date": "2028-05-27",
+   "category": "parashat",
+   "title": "Parashat Bamidbar",
+   "hebrew": "פרשת במדבר"
+  },
+  {
+   "date": "2028-05-30",
+   "category": "holiday",
+   "title": "Erev Shavuot",
+   "hebrew": "ערב שבועות"
+  },
+  {
+   "date": "2028-05-31",
+   "category": "holiday",
+   "title": "Shavuot I",
+   "hebrew": "שבועות א׳"
+  },
+  {
+   "date": "2028-06-01",
+   "category": "holiday",
+   "title": "Shavuot II",
+   "hebrew": "שבועות ב׳"
+  },
+  {
+   "date": "2028-06-03",
+   "category": "parashat",
+   "title": "Parashat Nasso",
+   "hebrew": "פרשת נשא"
+  },
+  {
+   "date": "2028-06-10",
+   "category": "parashat",
+   "title": "Parashat Beha’alotcha",
+   "hebrew": "פרשת בהעלתך"
+  },
+  {
+   "date": "2028-06-17",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Tamuz",
+   "hebrew": "מברכים חודש תמוז"
+  },
+  {
+   "date": "2028-06-17",
+   "category": "parashat",
+   "title": "Parashat Sh’lach",
+   "hebrew": "פרשת שלח־לך"
+  },
+  {
+   "date": "2028-06-24",
+   "category": "parashat",
+   "title": "Parashat Korach",
+   "hebrew": "פרשת קורח"
+  },
+  {
+   "date": "2028-06-24",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז"
+  },
+  {
+   "date": "2028-06-25",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז"
+  },
+  {
+   "date": "2028-07-01",
+   "category": "parashat",
+   "title": "Parashat Chukat",
+   "hebrew": "פרשת חוקת"
+  },
+  {
+   "date": "2028-07-08",
+   "category": "parashat",
+   "title": "Parashat Balak",
+   "hebrew": "פרשת בלק"
+  },
+  {
+   "date": "2028-07-15",
+   "category": "parashat",
+   "title": "Parashat Pinchas",
+   "hebrew": "פרשת פינחס"
+  },
+  {
+   "date": "2028-07-22",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Av",
+   "hebrew": "מברכים חודש אב"
+  },
+  {
+   "date": "2028-07-22",
+   "category": "parashat",
+   "title": "Parashat Matot-Masei",
+   "hebrew": "פרשת מטות־מסעי"
+  },
+  {
+   "date": "2028-07-24",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Av",
+   "hebrew": "ראש חודש אב"
+  },
+  {
+   "date": "2028-07-29",
+   "category": "parashat",
+   "title": "Parashat Devarim",
+   "hebrew": "פרשת דברים"
+  },
+  {
+   "date": "2028-07-29",
+   "category": "holiday",
+   "title": "Shabbat Chazon",
+   "hebrew": "שבת חזון"
+  },
+  {
+   "date": "2028-07-31",
+   "category": "holiday",
+   "title": "Erev Tish’a B’Av",
+   "hebrew": "ערב תשעה באב"
+  },
+  {
+   "date": "2028-08-01",
+   "category": "holiday",
+   "title": "Tish’a B’Av",
+   "hebrew": "תשעה באב"
+  },
+  {
+   "date": "2028-08-05",
+   "category": "parashat",
+   "title": "Parashat Vaetchanan",
+   "hebrew": "פרשת ואתחנן"
+  },
+  {
+   "date": "2028-08-05",
+   "category": "holiday",
+   "title": "Shabbat Nachamu",
+   "hebrew": "שבת נחמו"
+  },
+  {
+   "date": "2028-08-07",
+   "category": "holiday",
+   "title": "Tu B’Av",
+   "hebrew": "ט״ו באב"
+  },
+  {
+   "date": "2028-08-12",
+   "category": "parashat",
+   "title": "Parashat Eikev",
+   "hebrew": "פרשת עקב"
+  },
+  {
+   "date": "2028-08-19",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Elul",
+   "hebrew": "מברכים חודש אלול"
+  },
+  {
+   "date": "2028-08-19",
+   "category": "parashat",
+   "title": "Parashat Re’eh",
+   "hebrew": "פרשת ראה"
+  },
+  {
+   "date": "2028-08-22",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Elul",
+   "hebrew": "ראש חודש אלול"
+  },
+  {
+   "date": "2028-08-23",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Elul",
+   "hebrew": "ראש חודש אלול"
+  },
+  {
+   "date": "2028-08-23",
+   "category": "holiday",
+   "title": "Rosh Hashana LaBehemot",
+   "hebrew": "ראש השנה למעשר בהמה"
+  },
+  {
+   "date": "2028-08-26",
+   "category": "parashat",
+   "title": "Parashat Shoftim",
+   "hebrew": "פרשת שופטים"
+  },
+  {
+   "date": "2028-09-02",
+   "category": "parashat",
+   "title": "Parashat Ki Teitzei",
+   "hebrew": "פרשת כי־תצא"
+  },
+  {
+   "date": "2028-09-09",
+   "category": "parashat",
+   "title": "Parashat Ki Tavo",
+   "hebrew": "פרשת כי־תבוא"
+  },
+  {
+   "date": "2028-09-16",
+   "category": "holiday",
+   "title": "Leil Selichot",
+   "hebrew": "סליחות"
+  },
+  {
+   "date": "2028-09-16",
+   "category": "parashat",
+   "title": "Parashat Nitzavim-Vayeilech",
+   "hebrew": "פרשת נצבים־וילך"
+  },
+  {
+   "date": "2028-09-20",
+   "category": "holiday",
+   "title": "Erev Rosh Hashana",
+   "hebrew": "ערב ראש השנה"
+  },
+  {
+   "date": "2028-09-21",
+   "category": "holiday",
+   "title": "Rosh Hashana 5789",
+   "hebrew": "ראש השנה 5789"
+  },
+  {
+   "date": "2028-09-22",
+   "category": "holiday",
+   "title": "Rosh Hashana II",
+   "hebrew": "ראש השנה ב׳"
+  },
+  {
+   "date": "2028-09-23",
+   "category": "parashat",
+   "title": "Parashat Ha’azinu",
+   "hebrew": "פרשת האזינו"
+  },
+  {
+   "date": "2028-09-23",
+   "category": "holiday",
+   "title": "Shabbat Shuva",
+   "hebrew": "שבת שובה"
+  },
+  {
+   "date": "2028-09-29",
+   "category": "holiday",
+   "title": "Erev Yom Kippur",
+   "hebrew": "ערב יום כיפור"
+  },
+  {
+   "date": "2028-09-30",
+   "category": "holiday",
+   "title": "Yom Kippur",
+   "hebrew": "יום כיפור"
+  },
+  {
+   "date": "2028-10-04",
+   "category": "holiday",
+   "title": "Erev Sukkot",
+   "hebrew": "ערב סוכות"
+  },
+  {
+   "date": "2028-10-05",
+   "category": "holiday",
+   "title": "Sukkot I",
+   "hebrew": "סוכות א׳"
+  },
+  {
+   "date": "2028-10-06",
+   "category": "holiday",
+   "title": "Sukkot II",
+   "hebrew": "סוכות ב׳"
+  },
+  {
+   "date": "2028-10-07",
+   "category": "holiday",
+   "title": "Sukkot III (CH’’M)",
+   "hebrew": "סוכות ג׳ (חוה״מ)"
+  },
+  {
+   "date": "2028-10-08",
+   "category": "holiday",
+   "title": "Sukkot IV (CH’’M)",
+   "hebrew": "סוכות ד׳ (חוה״מ)"
+  },
+  {
+   "date": "2028-10-09",
+   "category": "holiday",
+   "title": "Sukkot V (CH’’M)",
+   "hebrew": "סוכות ה׳ (חוה״מ)"
+  },
+  {
+   "date": "2028-10-10",
+   "category": "holiday",
+   "title": "Sukkot VI (CH’’M)",
+   "hebrew": "סוכות ו׳ (חוה״מ)"
+  },
+  {
+   "date": "2028-10-11",
+   "category": "holiday",
+   "title": "Sukkot VII (Hoshana Raba)",
+   "hebrew": "סוכות ז׳ (הושענא רבה)"
+  },
+  {
+   "date": "2028-10-12",
+   "category": "holiday",
+   "title": "Shmini Atzeret",
+   "hebrew": "שמיני עצרת"
+  },
+  {
+   "date": "2028-10-13",
+   "category": "holiday",
+   "title": "Simchat Torah",
+   "hebrew": "שמחת תורה"
+  },
+  {
+   "date": "2028-10-14",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Cheshvan",
+   "hebrew": "מברכים חודש חשון"
+  },
+  {
+   "date": "2028-10-14",
+   "category": "parashat",
+   "title": "Parashat Bereshit",
+   "hebrew": "פרשת בראשית"
+  },
+  {
+   "date": "2028-10-20",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון"
+  },
+  {
+   "date": "2028-10-21",
+   "category": "parashat",
+   "title": "Parashat Noach",
+   "hebrew": "פרשת נח"
+  },
+  {
+   "date": "2028-10-21",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון"
+  },
+  {
+   "date": "2028-10-28",
+   "category": "parashat",
+   "title": "Parashat Lech-Lecha",
+   "hebrew": "פרשת לך־לך"
+  },
+  {
+   "date": "2028-11-04",
+   "category": "parashat",
+   "title": "Parashat Vayera",
+   "hebrew": "פרשת וירא"
+  },
+  {
+   "date": "2028-11-11",
+   "category": "parashat",
+   "title": "Parashat Chayei Sara",
+   "hebrew": "פרשת חיי שרה"
+  },
+  {
+   "date": "2028-11-18",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Kislev",
+   "hebrew": "מברכים חודש כסלו"
+  },
+  {
+   "date": "2028-11-18",
+   "category": "parashat",
+   "title": "Parashat Toldot",
+   "hebrew": "פרשת תולדות"
+  },
+  {
+   "date": "2028-11-19",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Kislev",
+   "hebrew": "ראש חודש כסלו"
+  },
+  {
+   "date": "2028-11-25",
+   "category": "parashat",
+   "title": "Parashat Vayetzei",
+   "hebrew": "פרשת ויצא"
+  },
+  {
+   "date": "2028-12-02",
+   "category": "parashat",
+   "title": "Parashat Vayishlach",
+   "hebrew": "פרשת וישלח"
+  },
+  {
+   "date": "2028-12-09",
+   "category": "parashat",
+   "title": "Parashat Vayeshev",
+   "hebrew": "פרשת וישב"
+  },
+  {
+   "date": "2028-12-12",
+   "category": "holiday",
+   "title": "Chanukah: 1 Candle",
+   "hebrew": "חנוכה: א׳ נר"
+  },
+  {
+   "date": "2028-12-13",
+   "category": "holiday",
+   "title": "Chanukah: 2 Candles",
+   "hebrew": "חנוכה: ב׳ נרות"
+  },
+  {
+   "date": "2028-12-14",
+   "category": "holiday",
+   "title": "Chanukah: 3 Candles",
+   "hebrew": "חנוכה: ג׳ נרות"
+  },
+  {
+   "date": "2028-12-15",
+   "category": "holiday",
+   "title": "Chanukah: 4 Candles",
+   "hebrew": "חנוכה: ד׳ נרות"
+  },
+  {
+   "date": "2028-12-16",
+   "category": "holiday",
+   "title": "Chanukah: 5 Candles",
+   "hebrew": "חנוכה: ה׳ נרות"
+  },
+  {
+   "date": "2028-12-16",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Tevet",
+   "hebrew": "מברכים חודש טבת"
+  },
+  {
+   "date": "2028-12-16",
+   "category": "parashat",
+   "title": "Parashat Miketz",
+   "hebrew": "פרשת מקץ"
+  },
+  {
+   "date": "2028-12-17",
+   "category": "holiday",
+   "title": "Chanukah: 6 Candles",
+   "hebrew": "חנוכה: ו׳ נרות"
+  },
+  {
+   "date": "2028-12-18",
+   "category": "holiday",
+   "title": "Chag HaBanot",
+   "hebrew": "חג הבנות"
+  },
+  {
+   "date": "2028-12-18",
+   "category": "holiday",
+   "title": "Chanukah: 7 Candles",
+   "hebrew": "חנוכה: ז׳ נרות"
+  },
+  {
+   "date": "2028-12-18",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tevet",
+   "hebrew": "ראש חודש טבת"
+  },
+  {
+   "date": "2028-12-19",
+   "category": "holiday",
+   "title": "Chanukah: 8 Candles",
+   "hebrew": "חנוכה: ח׳ נרות"
+  },
+  {
+   "date": "2028-12-19",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tevet",
+   "hebrew": "ראש חודש טבת"
+  },
+  {
+   "date": "2028-12-20",
+   "category": "holiday",
+   "title": "Chanukah: 8th Day",
+   "hebrew": "חנוכה: יום ח׳"
+  },
+  {
+   "date": "2028-12-23",
+   "category": "parashat",
+   "title": "Parashat Vayigash",
+   "hebrew": "פרשת ויגש"
+  },
+  {
+   "date": "2028-12-30",
+   "category": "parashat",
+   "title": "Parashat Vayechi",
+   "hebrew": "פרשת ויחי"
+  },
+  {
+   "date": "2029-01-06",
+   "category": "parashat",
+   "title": "Parashat Shemot",
+   "hebrew": "פרשת שמות"
+  },
+  {
+   "date": "2029-01-13",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Sh’vat",
+   "hebrew": "מברכים חודש שבט"
+  },
+  {
+   "date": "2029-01-13",
+   "category": "parashat",
+   "title": "Parashat Vaera",
+   "hebrew": "פרשת וארא"
+  },
+  {
+   "date": "2029-01-17",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Sh’vat",
+   "hebrew": "ראש חודש שבט"
+  },
+  {
+   "date": "2029-01-20",
+   "category": "parashat",
+   "title": "Parashat Bo",
+   "hebrew": "פרשת בא"
+  },
+  {
+   "date": "2029-01-27",
+   "category": "parashat",
+   "title": "Parashat Beshalach",
+   "hebrew": "פרשת בשלח"
+  },
+  {
+   "date": "2029-01-27",
+   "category": "holiday",
+   "title": "Shabbat Shirah",
+   "hebrew": "שבת שירה"
+  },
+  {
+   "date": "2029-01-31",
+   "category": "holiday",
+   "title": "Tu BiShvat",
+   "hebrew": "ט״ו בשבט"
+  },
+  {
+   "date": "2029-02-03",
+   "category": "parashat",
+   "title": "Parashat Yitro",
+   "hebrew": "פרשת יתרו"
+  },
+  {
+   "date": "2029-02-10",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Adar",
+   "hebrew": "מברכים חודש אדר"
+  },
+  {
+   "date": "2029-02-10",
+   "category": "parashat",
+   "title": "Parashat Mishpatim",
+   "hebrew": "פרשת משפטים"
+  },
+  {
+   "date": "2029-02-10",
+   "category": "holiday",
+   "title": "Shabbat Shekalim",
+   "hebrew": "שבת שקלים"
+  },
+  {
+   "date": "2029-02-15",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar",
+   "hebrew": "ראש חודש אדר"
+  },
+  {
+   "date": "2029-02-16",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Adar",
+   "hebrew": "ראש חודש אדר"
+  },
+  {
+   "date": "2029-02-17",
+   "category": "parashat",
+   "title": "Parashat Terumah",
+   "hebrew": "פרשת תרומה"
+  },
+  {
+   "date": "2029-02-24",
+   "category": "parashat",
+   "title": "Parashat Tetzaveh",
+   "hebrew": "פרשת תצוה"
+  },
+  {
+   "date": "2029-02-24",
+   "category": "holiday",
+   "title": "Shabbat Zachor",
+   "hebrew": "שבת זכור"
+  },
+  {
+   "date": "2029-02-28",
+   "category": "holiday",
+   "title": "Erev Purim",
+   "hebrew": "ערב פורים"
+  },
+  {
+   "date": "2029-03-01",
+   "category": "holiday",
+   "title": "Purim",
+   "hebrew": "פורים"
+  },
+  {
+   "date": "2029-03-02",
+   "category": "holiday",
+   "title": "Shushan Purim",
+   "hebrew": "שושן פורים"
+  },
+  {
+   "date": "2029-03-03",
+   "category": "parashat",
+   "title": "Parashat Ki Tisa",
+   "hebrew": "פרשת כי תשא"
+  },
+  {
+   "date": "2029-03-10",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Nisan",
+   "hebrew": "מברכים חודש ניסן"
+  },
+  {
+   "date": "2029-03-10",
+   "category": "parashat",
+   "title": "Parashat Vayakhel-Pekudei",
+   "hebrew": "פרשת ויקהל־פקודי"
+  },
+  {
+   "date": "2029-03-10",
+   "category": "holiday",
+   "title": "Shabbat Parah",
+   "hebrew": "שבת פרה"
+  },
+  {
+   "date": "2029-03-17",
+   "category": "parashat",
+   "title": "Parashat Vayikra",
+   "hebrew": "פרשת ויקרא"
+  },
+  {
+   "date": "2029-03-17",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Nisan",
+   "hebrew": "ראש חודש ניסן"
+  },
+  {
+   "date": "2029-03-17",
+   "category": "holiday",
+   "title": "Shabbat HaChodesh",
+   "hebrew": "שבת החדש"
+  },
+  {
+   "date": "2029-03-24",
+   "category": "parashat",
+   "title": "Parashat Tzav",
+   "hebrew": "פרשת צו"
+  },
+  {
+   "date": "2029-03-24",
+   "category": "holiday",
+   "title": "Shabbat HaGadol",
+   "hebrew": "שבת הגדול"
+  },
+  {
+   "date": "2029-03-30",
+   "category": "holiday",
+   "title": "Erev Pesach",
+   "hebrew": "ערב פסח"
+  },
+  {
+   "date": "2029-03-31",
+   "category": "holiday",
+   "title": "Pesach I",
+   "hebrew": "פסח א׳"
+  },
+  {
+   "date": "2029-04-01",
+   "category": "holiday",
+   "title": "Pesach II",
+   "hebrew": "פסח ב׳"
+  },
+  {
+   "date": "2029-04-02",
+   "category": "holiday",
+   "title": "Pesach III (CH’’M)",
+   "hebrew": "פסח ג׳ (חוה״מ)"
+  },
+  {
+   "date": "2029-04-03",
+   "category": "holiday",
+   "title": "Pesach IV (CH’’M)",
+   "hebrew": "פסח ד׳ (חוה״מ)"
+  },
+  {
+   "date": "2029-04-04",
+   "category": "holiday",
+   "title": "Pesach V (CH’’M)",
+   "hebrew": "פסח ה׳ (חוה״מ)"
+  },
+  {
+   "date": "2029-04-05",
+   "category": "holiday",
+   "title": "Pesach VI (CH’’M)",
+   "hebrew": "פסח ו׳ (חוה״מ)"
+  },
+  {
+   "date": "2029-04-06",
+   "category": "holiday",
+   "title": "Pesach VII",
+   "hebrew": "פסח ז׳"
+  },
+  {
+   "date": "2029-04-07",
+   "category": "holiday",
+   "title": "Pesach VIII",
+   "hebrew": "פסח ח׳"
+  },
+  {
+   "date": "2029-04-14",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Iyyar",
+   "hebrew": "מברכים חודש אייר"
+  },
+  {
+   "date": "2029-04-14",
+   "category": "parashat",
+   "title": "Parashat Shmini",
+   "hebrew": "פרשת שמיני"
+  },
+  {
+   "date": "2029-04-15",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר"
+  },
+  {
+   "date": "2029-04-16",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Iyyar",
+   "hebrew": "ראש חודש אייר"
+  },
+  {
+   "date": "2029-04-21",
+   "category": "parashat",
+   "title": "Parashat Tazria-Metzora",
+   "hebrew": "פרשת תזריע־מצרע"
+  },
+  {
+   "date": "2029-04-28",
+   "category": "parashat",
+   "title": "Parashat Achrei Mot-Kedoshim",
+   "hebrew": "פרשת אחרי מות־קדשים"
+  },
+  {
+   "date": "2029-04-29",
+   "category": "holiday",
+   "title": "Pesach Sheni",
+   "hebrew": "פסח שני"
+  },
+  {
+   "date": "2029-05-03",
+   "category": "holiday",
+   "title": "Lag BaOmer",
+   "hebrew": "ל״ג בעומר"
+  },
+  {
+   "date": "2029-05-05",
+   "category": "parashat",
+   "title": "Parashat Emor",
+   "hebrew": "פרשת אמור"
+  },
+  {
+   "date": "2029-05-12",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Sivan",
+   "hebrew": "מברכים חודש סיון"
+  },
+  {
+   "date": "2029-05-12",
+   "category": "parashat",
+   "title": "Parashat Behar-Bechukotai",
+   "hebrew": "פרשת בהר־בחקתי"
+  },
+  {
+   "date": "2029-05-15",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Sivan",
+   "hebrew": "ראש חודש סיון"
+  },
+  {
+   "date": "2029-05-19",
+   "category": "holiday",
+   "title": "Erev Shavuot",
+   "hebrew": "ערב שבועות"
+  },
+  {
+   "date": "2029-05-19",
+   "category": "parashat",
+   "title": "Parashat Bamidbar",
+   "hebrew": "פרשת במדבר"
+  },
+  {
+   "date": "2029-05-20",
+   "category": "holiday",
+   "title": "Shavuot I",
+   "hebrew": "שבועות א׳"
+  },
+  {
+   "date": "2029-05-21",
+   "category": "holiday",
+   "title": "Shavuot II",
+   "hebrew": "שבועות ב׳"
+  },
+  {
+   "date": "2029-05-26",
+   "category": "parashat",
+   "title": "Parashat Nasso",
+   "hebrew": "פרשת נשא"
+  },
+  {
+   "date": "2029-06-02",
+   "category": "parashat",
+   "title": "Parashat Beha’alotcha",
+   "hebrew": "פרשת בהעלתך"
+  },
+  {
+   "date": "2029-06-09",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Tamuz",
+   "hebrew": "מברכים חודש תמוז"
+  },
+  {
+   "date": "2029-06-09",
+   "category": "parashat",
+   "title": "Parashat Sh’lach",
+   "hebrew": "פרשת שלח־לך"
+  },
+  {
+   "date": "2029-06-13",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז"
+  },
+  {
+   "date": "2029-06-14",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tamuz",
+   "hebrew": "ראש חודש תמוז"
+  },
+  {
+   "date": "2029-06-16",
+   "category": "parashat",
+   "title": "Parashat Korach",
+   "hebrew": "פרשת קורח"
+  },
+  {
+   "date": "2029-06-23",
+   "category": "parashat",
+   "title": "Parashat Chukat",
+   "hebrew": "פרשת חוקת"
+  },
+  {
+   "date": "2029-06-30",
+   "category": "parashat",
+   "title": "Parashat Balak",
+   "hebrew": "פרשת בלק"
+  },
+  {
+   "date": "2029-07-07",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Av",
+   "hebrew": "מברכים חודש אב"
+  },
+  {
+   "date": "2029-07-07",
+   "category": "parashat",
+   "title": "Parashat Pinchas",
+   "hebrew": "פרשת פינחס"
+  },
+  {
+   "date": "2029-07-13",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Av",
+   "hebrew": "ראש חודש אב"
+  },
+  {
+   "date": "2029-07-14",
+   "category": "parashat",
+   "title": "Parashat Matot-Masei",
+   "hebrew": "פרשת מטות־מסעי"
+  },
+  {
+   "date": "2029-07-21",
+   "category": "holiday",
+   "title": "Erev Tish’a B’Av",
+   "hebrew": "ערב תשעה באב"
+  },
+  {
+   "date": "2029-07-21",
+   "category": "parashat",
+   "title": "Parashat Devarim",
+   "hebrew": "פרשת דברים"
+  },
+  {
+   "date": "2029-07-21",
+   "category": "holiday",
+   "title": "Shabbat Chazon",
+   "hebrew": "שבת חזון"
+  },
+  {
+   "date": "2029-07-22",
+   "category": "holiday",
+   "title": "Tish’a B’Av (observed)",
+   "hebrew": "(תשעה באב (נדחה"
+  },
+  {
+   "date": "2029-07-27",
+   "category": "holiday",
+   "title": "Tu B’Av",
+   "hebrew": "ט״ו באב"
+  },
+  {
+   "date": "2029-07-28",
+   "category": "parashat",
+   "title": "Parashat Vaetchanan",
+   "hebrew": "פרשת ואתחנן"
+  },
+  {
+   "date": "2029-07-28",
+   "category": "holiday",
+   "title": "Shabbat Nachamu",
+   "hebrew": "שבת נחמו"
+  },
+  {
+   "date": "2029-08-04",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Elul",
+   "hebrew": "מברכים חודש אלול"
+  },
+  {
+   "date": "2029-08-04",
+   "category": "parashat",
+   "title": "Parashat Eikev",
+   "hebrew": "פרשת עקב"
+  },
+  {
+   "date": "2029-08-11",
+   "category": "parashat",
+   "title": "Parashat Re’eh",
+   "hebrew": "פרשת ראה"
+  },
+  {
+   "date": "2029-08-11",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Elul",
+   "hebrew": "ראש חודש אלול"
+  },
+  {
+   "date": "2029-08-12",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Elul",
+   "hebrew": "ראש חודש אלול"
+  },
+  {
+   "date": "2029-08-12",
+   "category": "holiday",
+   "title": "Rosh Hashana LaBehemot",
+   "hebrew": "ראש השנה למעשר בהמה"
+  },
+  {
+   "date": "2029-08-18",
+   "category": "parashat",
+   "title": "Parashat Shoftim",
+   "hebrew": "פרשת שופטים"
+  },
+  {
+   "date": "2029-08-25",
+   "category": "parashat",
+   "title": "Parashat Ki Teitzei",
+   "hebrew": "פרשת כי־תצא"
+  },
+  {
+   "date": "2029-09-01",
+   "category": "holiday",
+   "title": "Leil Selichot",
+   "hebrew": "סליחות"
+  },
+  {
+   "date": "2029-09-01",
+   "category": "parashat",
+   "title": "Parashat Ki Tavo",
+   "hebrew": "פרשת כי־תבוא"
+  },
+  {
+   "date": "2029-09-08",
+   "category": "parashat",
+   "title": "Parashat Nitzavim",
+   "hebrew": "פרשת נצבים"
+  },
+  {
+   "date": "2029-09-09",
+   "category": "holiday",
+   "title": "Erev Rosh Hashana",
+   "hebrew": "ערב ראש השנה"
+  },
+  {
+   "date": "2029-09-10",
+   "category": "holiday",
+   "title": "Rosh Hashana 5790",
+   "hebrew": "ראש השנה 5790"
+  },
+  {
+   "date": "2029-09-11",
+   "category": "holiday",
+   "title": "Rosh Hashana II",
+   "hebrew": "ראש השנה ב׳"
+  },
+  {
+   "date": "2029-09-15",
+   "category": "parashat",
+   "title": "Parashat Vayeilech",
+   "hebrew": "פרשת וילך"
+  },
+  {
+   "date": "2029-09-15",
+   "category": "holiday",
+   "title": "Shabbat Shuva",
+   "hebrew": "שבת שובה"
+  },
+  {
+   "date": "2029-09-18",
+   "category": "holiday",
+   "title": "Erev Yom Kippur",
+   "hebrew": "ערב יום כיפור"
+  },
+  {
+   "date": "2029-09-19",
+   "category": "holiday",
+   "title": "Yom Kippur",
+   "hebrew": "יום כיפור"
+  },
+  {
+   "date": "2029-09-22",
+   "category": "parashat",
+   "title": "Parashat Ha’azinu",
+   "hebrew": "פרשת האזינו"
+  },
+  {
+   "date": "2029-09-23",
+   "category": "holiday",
+   "title": "Erev Sukkot",
+   "hebrew": "ערב סוכות"
+  },
+  {
+   "date": "2029-09-24",
+   "category": "holiday",
+   "title": "Sukkot I",
+   "hebrew": "סוכות א׳"
+  },
+  {
+   "date": "2029-09-25",
+   "category": "holiday",
+   "title": "Sukkot II",
+   "hebrew": "סוכות ב׳"
+  },
+  {
+   "date": "2029-09-26",
+   "category": "holiday",
+   "title": "Sukkot III (CH’’M)",
+   "hebrew": "סוכות ג׳ (חוה״מ)"
+  },
+  {
+   "date": "2029-09-27",
+   "category": "holiday",
+   "title": "Sukkot IV (CH’’M)",
+   "hebrew": "סוכות ד׳ (חוה״מ)"
+  },
+  {
+   "date": "2029-09-28",
+   "category": "holiday",
+   "title": "Sukkot V (CH’’M)",
+   "hebrew": "סוכות ה׳ (חוה״מ)"
+  },
+  {
+   "date": "2029-09-29",
+   "category": "holiday",
+   "title": "Sukkot VI (CH’’M)",
+   "hebrew": "סוכות ו׳ (חוה״מ)"
+  },
+  {
+   "date": "2029-09-30",
+   "category": "holiday",
+   "title": "Sukkot VII (Hoshana Raba)",
+   "hebrew": "סוכות ז׳ (הושענא רבה)"
+  },
+  {
+   "date": "2029-10-01",
+   "category": "holiday",
+   "title": "Shmini Atzeret",
+   "hebrew": "שמיני עצרת"
+  },
+  {
+   "date": "2029-10-02",
+   "category": "holiday",
+   "title": "Simchat Torah",
+   "hebrew": "שמחת תורה"
+  },
+  {
+   "date": "2029-10-06",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Cheshvan",
+   "hebrew": "מברכים חודש חשון"
+  },
+  {
+   "date": "2029-10-06",
+   "category": "parashat",
+   "title": "Parashat Bereshit",
+   "hebrew": "פרשת בראשית"
+  },
+  {
+   "date": "2029-10-09",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון"
+  },
+  {
+   "date": "2029-10-10",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Cheshvan",
+   "hebrew": "ראש חודש חשון"
+  },
+  {
+   "date": "2029-10-13",
+   "category": "parashat",
+   "title": "Parashat Noach",
+   "hebrew": "פרשת נח"
+  },
+  {
+   "date": "2029-10-20",
+   "category": "parashat",
+   "title": "Parashat Lech-Lecha",
+   "hebrew": "פרשת לך־לך"
+  },
+  {
+   "date": "2029-10-27",
+   "category": "parashat",
+   "title": "Parashat Vayera",
+   "hebrew": "פרשת וירא"
+  },
+  {
+   "date": "2029-11-03",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Kislev",
+   "hebrew": "מברכים חודש כסלו"
+  },
+  {
+   "date": "2029-11-03",
+   "category": "parashat",
+   "title": "Parashat Chayei Sara",
+   "hebrew": "פרשת חיי שרה"
+  },
+  {
+   "date": "2029-11-08",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Kislev",
+   "hebrew": "ראש חודש כסלו"
+  },
+  {
+   "date": "2029-11-10",
+   "category": "parashat",
+   "title": "Parashat Toldot",
+   "hebrew": "פרשת תולדות"
+  },
+  {
+   "date": "2029-11-17",
+   "category": "parashat",
+   "title": "Parashat Vayetzei",
+   "hebrew": "פרשת ויצא"
+  },
+  {
+   "date": "2029-11-24",
+   "category": "parashat",
+   "title": "Parashat Vayishlach",
+   "hebrew": "פרשת וישלח"
+  },
+  {
+   "date": "2029-12-01",
+   "category": "holiday",
+   "title": "Chanukah: 1 Candle",
+   "hebrew": "חנוכה: א׳ נר"
+  },
+  {
+   "date": "2029-12-01",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Tevet",
+   "hebrew": "מברכים חודש טבת"
+  },
+  {
+   "date": "2029-12-01",
+   "category": "parashat",
+   "title": "Parashat Vayeshev",
+   "hebrew": "פרשת וישב"
+  },
+  {
+   "date": "2029-12-02",
+   "category": "holiday",
+   "title": "Chanukah: 2 Candles",
+   "hebrew": "חנוכה: ב׳ נרות"
+  },
+  {
+   "date": "2029-12-03",
+   "category": "holiday",
+   "title": "Chanukah: 3 Candles",
+   "hebrew": "חנוכה: ג׳ נרות"
+  },
+  {
+   "date": "2029-12-04",
+   "category": "holiday",
+   "title": "Chanukah: 4 Candles",
+   "hebrew": "חנוכה: ד׳ נרות"
+  },
+  {
+   "date": "2029-12-05",
+   "category": "holiday",
+   "title": "Chanukah: 5 Candles",
+   "hebrew": "חנוכה: ה׳ נרות"
+  },
+  {
+   "date": "2029-12-06",
+   "category": "holiday",
+   "title": "Chanukah: 6 Candles",
+   "hebrew": "חנוכה: ו׳ נרות"
+  },
+  {
+   "date": "2029-12-07",
+   "category": "holiday",
+   "title": "Chag HaBanot",
+   "hebrew": "חג הבנות"
+  },
+  {
+   "date": "2029-12-07",
+   "category": "holiday",
+   "title": "Chanukah: 7 Candles",
+   "hebrew": "חנוכה: ז׳ נרות"
+  },
+  {
+   "date": "2029-12-07",
+   "category": "roshchodesh",
+   "title": "Rosh Chodesh Tevet",
+   "hebrew": "ראש חודש טבת"
+  },
+  {
+   "date": "2029-12-08",
+   "category": "holiday",
+   "title": "Chanukah: 8 Candles",
+   "hebrew": "חנוכה: ח׳ נרות"
+  },
+  {
+   "date": "2029-12-08",
+   "category": "parashat",
+   "title": "Parashat Miketz",
+   "hebrew": "פרשת מקץ"
+  },
+  {
+   "date": "2029-12-09",
+   "category": "holiday",
+   "title": "Chanukah: 8th Day",
+   "hebrew": "חנוכה: יום ח׳"
+  },
+  {
+   "date": "2029-12-15",
+   "category": "parashat",
+   "title": "Parashat Vayigash",
+   "hebrew": "פרשת ויגש"
+  },
+  {
+   "date": "2029-12-22",
+   "category": "parashat",
+   "title": "Parashat Vayechi",
+   "hebrew": "פרשת ויחי"
+  },
+  {
+   "date": "2029-12-29",
+   "category": "mevarchim",
+   "title": "Mevarchim Chodesh Sh’vat",
+   "hebrew": "מברכים חודש שבט"
+  },
+  {
+   "date": "2029-12-29",
+   "category": "parashat",
+   "title": "Parashat Shemot",
+   "hebrew": "פרשת שמות"
+  }
+ ]
+}
