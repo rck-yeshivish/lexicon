@@ -459,14 +459,19 @@ def gloss(part, field):
 
 
 def gloss_block(part):
-    """The English above his Hebrew in the panel, labelled as ours, not his."""
-    sense, note = gloss(part, "sense"), gloss(part, "note")
+    """The English above his Hebrew in the panel, labelled as ours, not his.
+    Each part of "more" is one thing his entry holds, under its own heading, so
+    a long entry reads as a few short answers rather than a paragraph."""
+    sense = gloss(part, "sense")
     if not sense:
         return ""
+    more = "".join(
+        f'<div class="rad-en-p"><p class="rad-en-t">{html.escape(m["h"])}</p>'
+        f'<p class="rad-en-b">{html.escape(m["t"])}</p></div>'
+        for m in gloss(part, "more") or [])
     return (f'<div class="rad-en" dir="ltr" lang="en">'
             f'<p class="rad-en-h">In English, our summary of his entry</p>'
-            f'<p class="rad-en-s">{html.escape(sense)}</p>'
-            + (f'<p class="rad-en-n">{html.escape(note)}</p>' if note else "") + "</div>")
+            f'<p class="rad-en-s">{html.escape(sense)}</p>{more}</div>')
 
 
 def radak_opening(text, n=120):
@@ -1211,6 +1216,15 @@ def main():
         e = SHORASHIM["roots"].get(root_key(r)) or {}
         if e and not e.get("under"):
             owner.setdefault(e["hw"], r)
+    # An expand control on the right of the row, so it is plain that the row
+    # opens on to something rather than being a line of text.
+    # The other browse pages' rows are links, and carry the chevron that means
+    # go. This row expands in place, so it takes the plus and minus that mean
+    # open and close, and never the chevron.
+    chev = ('<span class="rexp" aria-hidden="true"><svg viewBox="0 0 24 24" width="15" height="15" '
+            'fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round">'
+            '<line x1="5" y1="12" x2="19" y2="12"></line>'
+            '<line class="rexp-v" x1="12" y1="5" x2="12" y2="19"></line></svg></span>')
     rrows = []
     for r in sorted(rmap, key=root_sort):
         links = " &middot; ".join(f'<a href="entries/{s}.html">{html.escape(c)}</a>' for c, s in rmap[r])
@@ -1233,7 +1247,8 @@ def main():
         rrows.append(f'<div class="r{" has-rad" if text else ""}" data-l="{first}" data-k="{root_key(r)}"'
                      f'{" tabindex=0 role=button aria-expanded=false" if text else ""}>'
                      f'<span class="h" id="r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</span>'
-                     f'<span class="tx rlinks">{links}</span>{rad}</div>')
+                     f'<span class="tx rlinks">{links}</span>{rad}'
+                     f'{chev if text and not under else "<span></span>"}</div>')
     roots_body = f'''<section class="browse">
   <h1>Roots</h1>
   <p class="lede">Every root the entries name, and the groups whose words come from it. Beside each root is what Radak gives it in <em>Sefer HaShorashim</em>; open the row for the rest of his entry, in English and in his own Hebrew.</p>
@@ -1584,19 +1599,33 @@ header.bare .brand{flex:1}
 .rows .r{display:grid;grid-template-columns:120px minmax(0,1fr) 20px;gap:18px;align-items:center;
   padding:10px 6px;border-bottom:1px solid var(--line)}
 .rows.en3 .r{grid-template-columns:minmax(0,260px) minmax(0,150px) minmax(0,1fr) 20px}
-.rows.roots .r{grid-template-columns:110px minmax(0,220px) minmax(0,1fr);align-items:baseline;padding:9px 6px}
+.rows.roots .r{grid-template-columns:110px minmax(0,200px) minmax(0,1fr) auto;align-items:baseline;
+  padding:9px 6px;gap:16px}
+.rexp{display:inline-flex;align-items:center;justify-content:center;width:27px;height:27px;
+  border:1px solid var(--line);border-radius:999px;color:var(--dim);background:var(--panel);
+  align-self:center;transition:color .15s,border-color .15s,background .15s}
+.rows.roots .r:hover .rexp{color:var(--accent);border-color:var(--accent)}
+.rows.roots .r[aria-expanded="true"] .rexp{color:var(--accent);border-color:var(--accent);
+  background:var(--accent-soft)}
+.rexp-v{transform-origin:center;transition:opacity .15s,transform .15s}
+.rows.roots .r[aria-expanded="true"] .rexp-v{opacity:0;transform:rotate(90deg)}
 .rows.roots .r.has-rad{cursor:pointer}
 .rows.roots .r.has-rad:hover{background:var(--panel)}
 .rad{font-family:var(--heb);font-size:16px;line-height:1.5;color:var(--dim);overflow:hidden}
 .rad.sense{font:400 15px/1.5 var(--ui);color:var(--ink);text-align:left}
 .rad.points{font:400 14px/1.5 var(--ui);color:var(--faint);text-align:left}
 .rad.points a{font-size:16px;color:var(--dim)}
-.rad-en{font-family:var(--ui);margin:0 0 18px;padding:0 0 16px;text-align:left;max-width:33em;
-  border-bottom:1px solid var(--line)}
+/* It sits inside his Hebrew, which is RTL, so a narrow block would be held to
+   the right; these margins keep the English at the left edge of the card. */
+.rad-en{font-family:var(--ui);direction:ltr;margin:0 auto 18px 0;padding:0 0 16px;text-align:left;
+  max-width:33em;border-bottom:1px solid var(--line)}
 .rad-en-h{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);
   font-weight:600;margin:0 0 8px}
 .rad-en-s{font:400 16.5px/1.5 var(--ui);color:var(--ink);margin:0}
-.rad-en-n{font:400 15px/1.6 var(--ui);color:var(--dim);margin:9px 0 0}
+.rad-en-p{margin:13px 0 0}
+.rad-en-t{font:600 12.5px/1.4 var(--ui);color:var(--ink);margin:0 0 2px}
+.rad-en-b{font:400 15px/1.62 var(--ui);color:var(--dim);margin:0}
+.rad-en-b bdi,.rad-en-b [lang="he"]{font-family:var(--heb)}
 .rad-en bdi,.rad-en-s bdi{font-family:var(--heb)}
 .rhead{display:grid;grid-template-columns:110px minmax(0,220px) minmax(0,1fr);gap:18px;padding:0 6px 6px;
   border-bottom:1px solid var(--line);color:var(--faint);font-size:12px;letter-spacing:.04em;text-transform:uppercase}
@@ -1606,30 +1635,25 @@ header.bare .brand{flex:1}
   padding:16px 22px 20px;margin:4px 0 14px}
 .rad-who{margin:0 0 10px;color:var(--dim);font-size:13px}
 .rad-who bdi{font-family:var(--heb);font-size:16px;color:var(--accent)}
-.rad-body,.rad-text{font-family:var(--heb);font-size:19px;line-height:1.9;color:var(--ink);text-align:right;
-  max-width:38em;margin-left:auto}
+.rad-body,.rad-text{font-family:var(--heb);font-size:19px;line-height:1.9;color:var(--ink);text-align:right}
+/* The measure belongs to his Hebrew, not to the English above it, which starts
+   at the left edge of the card as the label does. */
+.rad-body>p:not(.rad-hw),.rad-text>p:not(.rad-hw){max-width:46em;margin-left:auto}
 .rad-body strong,.rad-text strong{font-weight:700;color:var(--accent)}
 .rad-body .ref,.rad-text .ref{font-size:.72em;color:var(--faint);white-space:nowrap}
 .rad-body .ref.has-p{cursor:pointer;border-bottom:1px dotted var(--accent)}
 .rad-body .ref.has-p:hover{color:var(--accent)}
 .rad-body .ref.on{color:var(--accent);background:var(--accent-soft);border-radius:3px}
-.rad-grid{display:block}
-.rad-src{margin:16px 0 0;padding:14px 0 0;border-top:1px solid var(--line)}
-.rad-src{font-family:var(--ui)}
-.rad-src-h{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);
-  font-weight:600;margin:0 0 9px;text-align:left}
-.rad-src-none{font-size:13px;line-height:1.5;color:var(--faint);margin:0;text-align:left}
-.rad-inline{margin:4px 0 12px}
-/* Wide enough for both: his text keeps its measure and the pasuk sits beside it. */
-@media (min-width:1100px){
-  .rad-grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:0 34px;align-items:start}
-  .rad-src{margin:0;padding:0 0 0 30px;border-top:0;border-left:1px solid var(--line);
-    position:sticky;top:78px}
-  .rad-inline{display:none}
-}
+/* The pasuk opens as a block where it is cited, so his text keeps the whole
+   width of the card and carries on under it. */
+.rad-pasuk{display:block;margin:10px 0;padding:10px 14px;background:var(--bg);
+  border:1px solid var(--line);border-radius:10px;text-align:right}
+.rad-pasuk-r{display:block;font:400 12px/1.4 var(--ui);color:var(--faint);
+  direction:rtl;margin:0 0 4px}
+.rad-pasuk-t{display:block;font-family:var(--heb);font-size:18px;line-height:1.7;color:var(--ink)}
 .rad-body p,.rad-text p{margin:0 0 14px}
 .rad-body p:last-child,.rad-text p:last-child{margin-bottom:0}
-p.rad-hw{font-family:var(--ui);font-size:13px;line-height:1.5;color:var(--dim);text-align:left;margin:0 0 4px}
+p.rad-hw{font-family:var(--ui);direction:ltr;font-size:13px;line-height:1.5;color:var(--dim);text-align:left;margin:0 0 4px}
 .rad-body mark,.rad-text mark{background:var(--accent-soft);color:inherit;border-radius:4px;padding:0 3px}
 p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .radak-credit{color:var(--faint);font-size:13px;margin:22px 0 0;line-height:1.5}
@@ -1637,7 +1661,8 @@ p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .radak summary{cursor:pointer;color:var(--dim);font-size:15px}
 .radak h4{font-family:var(--heb);font-size:19px;margin:14px 0 2px;color:var(--accent)}
 .rad-text{margin:0 0 0 auto}
-@media (max-width:760px){.rows.roots .r{grid-template-columns:90px minmax(0,1fr);row-gap:4px}
+@media (max-width:760px){.rows.roots .r{grid-template-columns:90px minmax(0,1fr) auto;row-gap:4px;gap:10px}
+  .rows.roots .rexp{grid-column:3;grid-row:1}
   .rhead{display:none}
   .rad-open{padding:14px 16px 16px}
   .rad-body,.rad-text{font-size:18px;line-height:1.8}
@@ -2101,10 +2126,7 @@ function wireRoots(){
     el.className = "rad-open";
     el.innerHTML = `<p class="rad-who">Radak, <em>Sefer HaShorashim</em>, on the root `
       + `<bdi lang="he">${row.querySelector(".h").textContent}</bdi></p>`
-      + `<div class="rad-grid"><div class="rad-body" dir="rtl" lang="he">${text}</div>`
-      + `<aside class="rad-src" aria-label="In the sources"><p class="rad-src-h">In the sources</p>`
-      + `<p class="rad-src-none">Press any pasuk he cites to read it here.</p>`
-      + `<div class="rad-src-list"></div></aside></div>`;
+      + `<div class="rad-body" dir="rtl" lang="he">${text}</div>`;
     row.after(el);
     wireCites(el, letter);
     row.setAttribute("aria-expanded", "true");
@@ -2118,8 +2140,6 @@ function wireRoots(){
   // first citation in that letter is pressed.
   const pes = {};
   async function wireCites(card, letter){
-    const shownIn = card.querySelector(".rad-src-list"), none = card.querySelector(".rad-src-none");
-    const wide = matchMedia("(min-width:1100px)");
     const show = async span => {
       if(!pes[letter]){
         try{ pes[letter] = await fetch(`pesukim/${encodeURIComponent(letter)}.json`).then(r => r.json()); }
@@ -2129,17 +2149,16 @@ function wireRoots(){
       if(!t) return;
       const was = span.classList.contains("on");
       card.querySelectorAll(".ref.on").forEach(x => x.classList.remove("on"));
-      card.querySelectorAll(".rad-inline").forEach(x => x.remove());
-      if(was){ shownIn.innerHTML = ""; none.hidden = false; return; }
+      card.querySelectorAll(".rad-pasuk").forEach(x => x.remove());
+      if(was) return;
       span.classList.add("on");
-      const html = `<div class="pcard"><div class="pref"><span>${span.textContent.replace(/^\(|\)$/g, "")}</span></div>`
-        + `<div class="pv" dir="rtl" lang="he">${t.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}</div></div>`;
-      if(wide.matches){ shownIn.innerHTML = html; none.hidden = true; }
-      else {
-        const d = document.createElement("div");
-        d.className = "rad-inline"; d.dir = "ltr"; d.innerHTML = html;
-        span.closest("p").after(d);
-      }
+      // A block inside his paragraph, so the pasuk opens where it is cited and
+      // his text carries on under it at the full width of the card.
+      const d = document.createElement("div");
+      d.className = "rad-pasuk"; d.dir = "rtl"; d.lang = "he";
+      d.innerHTML = `<span class="rad-pasuk-r">${span.textContent.replace(/^\(|\)$/g, "")}</span>`
+        + `<span class="rad-pasuk-t">${t.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}</span>`;
+      span.after(d);
     };
     card.addEventListener("click", e => {
       const span = e.target.closest(".ref.has-p");
