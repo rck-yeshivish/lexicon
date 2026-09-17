@@ -47,7 +47,7 @@ charge.
 |---|---|---|---|
 | אדון | adon | master | the Hebrew master; a standing title, hence *Adonai* a Name (Fischer) |
 | רבון | ribbon | Master | Aramaic for *adon* (Onkelos); only with a subordinate in his charge (Fischer) |
-| רב | rav | master, chief | Mishnaic owner of a slave; in Tanach only construct, chief of |
+| רב | rav | master, chief | Mishnaic owner of a slave; in Tanach only in construct, as in rav tabachim |
 | רבי | rebbi | Rebbi, Rabbi | my master; a Torah teacher or a bandit leader (Bava Metzia 84a) |
 
 ## Distinctions

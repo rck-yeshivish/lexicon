@@ -1283,9 +1283,13 @@ header.bare .brand{flex:1}
 .how-steps b{display:block;color:var(--accent);font-size:12.5px;text-transform:uppercase;letter-spacing:.07em;
   font-weight:600;margin-bottom:4px}
 .how-steps b::before{content:counter(step) " \00b7  "}
+/* On a phone the three steps stack, so the label runs into its line instead of
+   sitting over it: three lines a step became two, and the questions come up a
+   screen sooner. */
 @media (max-width:760px){.how-steps{grid-template-columns:1fr}
-  .how-steps li{padding:10px 0}.how-steps li:first-child{padding-top:0}.how-steps li:last-child{padding-bottom:0}
-  .how-steps li+li{border-left:0;border-top:1px solid var(--line)}}
+  .how-steps li{padding:9px 0}.how-steps li:first-child{padding-top:0}.how-steps li:last-child{padding-bottom:0}
+  .how-steps li+li{border-left:0;border-top:1px solid var(--line)}
+  .how-steps b{display:inline;margin:0 7px 0 0}}
 .taste{margin-top:40px}
 .taste-q{font-size:20px;margin:0 0 14px;line-height:1.35}
 .taste-go{display:block;color:var(--ink)}
