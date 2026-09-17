@@ -429,14 +429,14 @@ def glance_cards(mdtext):
             or any(len(r) != 4 for r in rows[2:]):
         return ""
     cards = []
-    for he, tr, en, d in rows[2:]:
+    for i, (he, tr, en, d) in enumerate(rows[2:]):
         # Attributions in parentheses, "(Malbim)", sit a shade darker so the
         # authority behind each line can be picked out at a glance.
         dhtml = re.sub(r"\(([A-Z][^()]*)\)", r'(<span class="who">\1</span>)', inline(d))
         # The transliteration sits beside the Hebrew it spells out, and the
         # English gets a line of its own. Paired with the English, a long gloss
         # pushed the transliteration onto a second line on some cards only.
-        cards.append(f'<div class="wcard"><div class="wtop">'
+        cards.append(f'<div class="wcard w{i % 8}"><div class="wtop">'
                      f'<span class="wh" dir="rtl" lang="he">{inline(he)}</span>'
                      f'<span class="wt">{inline(tr)}</span></div>'
                      f'<div class="we">{inline(en)}</div>'
@@ -463,7 +463,8 @@ class Cites:
     """Links an entry's Tanach and Mishnah citations and gathers what the
     pesukim panel shows for each: the text, with the entry's own words marked."""
 
-    def __init__(self, e):
+    def __init__(self, e, wmap=None):
+        self.wmap = wmap or {}
         self.words = []
         for h in e["hebrew"]:
             b = refs.bare(h)
@@ -601,10 +602,36 @@ class Cites:
                     titles[meta["version"]] = lic if lic and lic != "unknown" else titles.get(meta["version"])
         versions = [f"{t} ({l})" if l else t for t, l in titles.items()]
         data = json.dumps(used, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+        colors = json.dumps({d: self.wmap[hb] for d, hb, _ in self.words if hb in self.wmap},
+                            ensure_ascii=False, separators=(",", ":"))
         return (f'<aside class="prail" aria-label="In the sources"><p class="prail-h">In the sources</p>'
                 f'<div class="prail-f" hidden></div><div class="prail-list"></div>'
                 f'<p class="prail-credit">Texts from Sefaria: {html.escape("; ".join(versions))}</p></aside>'
-                f'<script type="application/json" id="pesukim-data">{data}</script>')
+                f'<script type="application/json" id="pesukim-data">{data}</script>'
+                f'<script type="application/json" id="word-colors">{colors}</script>')
+
+
+def word_colors(e):
+    """Hebrew form (bare) -> colour index, from the order of the word cards.
+    A form listed for search that has no card of its own (a verb, a plural)
+    takes the colour of the card whose root it shares."""
+    glance = next((m for h, m in e["sections"] if h == "At a glance"), "")
+    if not glance_cards(glance):
+        return {}
+    rows = [l.strip().strip("|").split("|") for l in glance.strip().split("\n") if l.strip().startswith("|")][2:]
+    cards = [refs.bare(x) for r in rows for x in [r[0].split("/")[0]]]
+    out = {c: i % 8 for i, c in enumerate(cards)}
+    roots = [refs.root_letters(r) for r in e["roots"]]
+    card_root = {c: next((rt for rt in roots if refs.matches_root(c, rt)), None) for c in cards}
+    for h in e["hebrew"]:
+        b = refs.bare(h)
+        if b in out or " " in b:
+            continue
+        rt = next((rt for rt in roots if refs.matches_root(b, rt)), None)
+        hit = next((c for c in cards if rt and card_root[c] == rt), None)
+        if hit is not None:
+            out[b] = out[hit]
+    return out
 
 
 def entry_page(e):
@@ -630,6 +657,7 @@ def entry_page(e):
     # Hebrew line under the title is left off those pages rather than doubled.
     # The markdown keeps its order either way.
     has_cards = any(h == "At a glance" and glance_cards(m) for h, m in e["sections"])
+    wmap = word_colors(e)
     if e["slug"] == METHOD:
         # The method essay's words are three example pairs from different
         # groups; laid out as a header they read as one group of synonyms.
@@ -672,10 +700,13 @@ def entry_page(e):
             # and the rail came out mixed wherever a heading was shaped otherwise.
             label = f'<span class="tt">{text}</span>'
             subs.append((f"d-{n}", label, re.sub(r"<[^>]+>", "", text)))
+            text = re.sub(r'<bdi lang="he">([^<]+)</bdi>',
+                          lambda mm: (f'<bdi lang="he" class="w{wmap[refs.bare(mm.group(1))]}">{mm.group(1)}</bdi>'
+                                      if refs.bare(mm.group(1)) in wmap else mm.group(0)), text)
             return f'<h3 id="d-{n}">{text}</h3>'
         return re.sub(r"<h3>(.*?)</h3>", tag, block), subs
 
-    cites = Cites(e)
+    cites = Cites(e, wmap)
     deferred = None
     for headname, mdtext in secs:
         if headname == "Notes for a project" and mdtext.strip() in ("None yet.", ""):
@@ -760,10 +791,17 @@ def main():
     for key in TALMUD["passages"]:
         if " on " in key:
             TALMUD_COMMS.setdefault(key.split(" on ", 1)[1], []).append(key)
-    texts = list(PESUKIM["verses"].values()) + [s for segs in TALMUD["passages"].values() for s in segs]
-    freq = Counter(re.sub(r"[^א-ת]", "", refs.bare(w))
-                   for v in texts for w in re.split(r"[\s־]+", v))
-    STOP.update(w for w, c in freq.items() if c >= STOP_AT * max(1, len(texts) // 5000))
+    # Counted per corpus: the Gemara texts are several times the size of the
+    # pesukim, and pooling them raised the bar until כלם (all) passed again.
+    verses = list(PESUKIM["verses"].values())
+    segs = [s for ss in TALMUD["passages"].values() for s in ss]
+    for corpus in (verses, segs):
+        if not corpus:
+            continue
+        freq = Counter(re.sub(r"[^א-ת]", "", refs.bare(w))
+                       for v in corpus for w in re.split(r"[\s־]+", v))
+        bar = STOP_AT * max(1, len(corpus) // max(1, len(verses)))
+        STOP.update(w for w, c in freq.items() if c >= bar)
     # Write in place and sweep stale files afterwards, rather than deleting the
     # tree first: on a OneDrive-synced folder the sync client holds directory
     # handles and rmtree fails with WinError 5 half way through.
@@ -969,15 +1007,23 @@ its neighbours' glosses are its own meaning.
 
 
 CSS = r""":root{
-  --bg:#fbfbfd; --panel:#fff; --ink:#1d1d1f; --dim:#6e6e73; --faint:#86868b;
-  --line:#e3e3e6; --accent:#0066cc; --accent-soft:#e8f0fe; --shadow:0 1px 3px rgba(0,0,0,.06),0 8px 28px rgba(0,0,0,.05);
+  /* A hint of warm paper behind white panels; the name's green is the one
+     site colour (links, buttons, focus); gold marks only the together tag.
+     The w0..w7 tones follow a word through its card, its marks in the
+     sources panel and its heading, so a group can be read by colour. */
+  --bg:#fbf9f4; --panel:#fff; --ink:#1d1d1f; --dim:#6b675f; --faint:#8f8a7e;
+  --line:#ebe6da; --accent:#1d6b2a; --accent-soft:#e6efe2; --shadow:0 1px 3px rgba(60,50,30,.06),0 8px 28px rgba(60,50,30,.05);
   --radius:14px; --heb:"Frank Ruhl Libre","SF Hebrew","Noto Sans Hebrew","Arial Hebrew","Times New Roman",serif;
   --brand:#14601f; --brand-sub:#2f6b3a;
+  --gold:#8a6d2a; --gold-soft:#f2e8cf;
+  --w0:#3f6690; --w1:#98583a; --w2:#2f7a72; --w3:#7a4f86; --w4:#6d7431; --w5:#9a4a5e; --w6:#4b5aa0; --w7:#8a5a24;
 }
 @media (prefers-color-scheme:dark){:root{
-  --bg:#000; --panel:#1c1c1e; --ink:#f5f5f7; --dim:#a1a1a6; --faint:#8a8a8e;
-  --line:#2c2c2e; --accent:#409cff; --accent-soft:#12243c; --shadow:0 1px 3px rgba(0,0,0,.5);
-  --brand:#5fbf72; --brand-sub:#89c996;
+  --bg:#12110e; --panel:#1c1a16; --ink:#f3efe6; --dim:#b1aa9c; --faint:#8f887a;
+  --line:#2f2b24; --accent:#6cc27d; --accent-soft:#1c2a1e; --shadow:0 1px 3px rgba(0,0,0,.5);
+  --brand:#6cc27d; --brand-sub:#8fcf9b;
+  --gold:#d9b86b; --gold-soft:#2c2616;
+  --w0:#8fb1d8; --w1:#e0a07e; --w2:#72c2b8; --w3:#c29bd0; --w4:#b8c070; --w5:#df95a8; --w6:#9aa8e6; --w7:#d9a36a;
 }}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -1213,6 +1259,12 @@ header.bare .brand{flex:1}
 .wt{font-style:italic;color:var(--dim);font-size:14px}
 .wd{font-size:14px;line-height:1.5;color:var(--dim)}
 .wd .who{color:var(--ink)}
+.wcard.w0{--wc:var(--w0)}.wcard.w1{--wc:var(--w1)}.wcard.w2{--wc:var(--w2)}.wcard.w3{--wc:var(--w3)}
+.wcard.w4{--wc:var(--w4)}.wcard.w5{--wc:var(--w5)}.wcard.w6{--wc:var(--w6)}.wcard.w7{--wc:var(--w7)}
+.wcard[class*=" w"]{border-top:3px solid var(--wc)}
+.wcard[class*=" w"] .wh{color:var(--wc)}
+.pv mark.w0,bdi.w0{color:var(--w0)}.pv mark.w1,bdi.w1{color:var(--w1)}.pv mark.w2,bdi.w2{color:var(--w2)}.pv mark.w3,bdi.w3{color:var(--w3)}
+.pv mark.w4,bdi.w4{color:var(--w4)}.pv mark.w5,bdi.w5{color:var(--w5)}.pv mark.w6,bdi.w6{color:var(--w6)}.pv mark.w7,bdi.w7{color:var(--w7)}
 /* On this page. Wide screens only: on anything narrower there is no margin to
    put it in, and a phone reader scrolls. The layout widens main just enough for
    the rail, so the article column itself stays 760px. */
@@ -1246,7 +1298,7 @@ header.bare .brand{flex:1}
 .pcard{border:1px solid var(--line);border-radius:12px;background:var(--panel);padding:9px 12px 10px;margin:0 0 10px}
 .pcard.on{border-color:var(--accent)}
 .pref{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:2px 8px;font-size:12.5px;color:var(--dim)}
-.ptog{font-size:11.5px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:1px 8px;white-space:nowrap}
+.ptog{font-size:11.5px;color:var(--gold);background:var(--gold-soft);border-radius:999px;padding:1px 8px;white-space:nowrap}
 .ptog bdi{font-family:var(--heb);font-size:13px}
 .pv{font-family:var(--heb);font-size:18px;line-height:1.6;text-align:right;margin-top:3px;color:var(--ink)}
 .pv mark{background:none;color:var(--accent);font-weight:600}
@@ -1672,6 +1724,8 @@ function wirePesukim(){
   const data = document.getElementById("pesukim-data"), rail = document.querySelector(".prail");
   if(!data || !rail) return;
   const P = JSON.parse(data.textContent);
+  const colorEl = document.getElementById("word-colors");
+  const C = colorEl ? JSON.parse(colorEl.textContent) : {};
   const list = rail.querySelector(".prail-list"), filt = rail.querySelector(".prail-f");
   const cites = [...document.querySelectorAll(".entry a.cite")].filter(c => P[c.dataset.k]);
   const wide = matchMedia("(min-width:1360px)");
@@ -1686,7 +1740,7 @@ function wirePesukim(){
   // The whole text, always: a pasuk or mishnah in full, and for the Gemara the
   // segments that hold the entry's words, with "…" where the rest is left out.
   const verse = d => d.w.map((x, i, s) => (x[0] === "…" ? '<span class="pell">…</span>'
-      : x[1] ? `<mark>${esc(x[0])}</mark>` : esc(x[0]))
+      : x[1] ? `<mark${x[1] in C ? ` class="w${C[x[1]]}"` : ""}>${esc(x[0])}</mark>` : esc(x[0]))
     + (i < s.length - 1 && !x[0].endsWith("־") ? " " : "")).join("");
   const card = k => {
     const d = P[k], div = document.createElement("div");

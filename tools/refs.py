@@ -159,7 +159,7 @@ SUFFIX = set("והתימנכ")
 
 
 def bare(w):
-    return NIKUD.sub("", w).translate(FINALS)
+    return NIKUD.sub("", w).translate(FINALS).strip()
 
 
 def root_letters(root):
