@@ -41,7 +41,10 @@ NAMED = {
     "Onkelos": ["אנקלוס"],
     "Rabbi Yaakov ben Elazar": ["רבי יעקב בן אלעזר"],
     "Rav Yitzchak ibn Giat": ["יצחק אבן גיאת"],
+    "Rashi": ["רבינו שלמה", "רש\"י"],
+    "the Gaon": ["הגאון"],
     "his father": ["אדוני אבי"],
+    "Chachamim": ["רבותינו"],
     "Chazal": ["רבותינו", "משנה", "פרק"],
 }
 
@@ -61,6 +64,50 @@ def entry_text(parts):
 
 def entry_refs(parts):
     return {r for p in parts for r in re.findall(r'data-r="([^"]+)"', p.get("html", ""))}
+
+
+GEM = {"א": 1, "ב": 2, "ג": 3, "ד": 4, "ה": 5, "ו": 6, "ז": 7, "ח": 8, "ט": 9,
+       "י": 10, "כ": 20, "ל": 30, "מ": 40, "נ": 50, "ס": 60, "ע": 70, "פ": 80, "צ": 90,
+       "ק": 100, "ר": 200, "ש": 300, "ת": 400}
+# The edition's own Hebrew book names, including the spellings Sefaria does not
+# link (שפטים for שופטים), so a citation can be read whether or not it is a link.
+BOOKS = {
+    "בראשית": "Genesis", "שמות": "Exodus", "ויקרא": "Leviticus", "במדבר": "Numbers",
+    "דברים": "Deuteronomy", "יהושע": "Joshua", "שופטים": "Judges", "שפטים": "Judges",
+    "שמואל א": "I Samuel", "שמואל ב": "II Samuel", "מלכים א": "I Kings", "מלכים ב": "II Kings",
+    "ישעיה": "Isaiah", "ירמיה": "Jeremiah", "יחזקאל": "Ezekiel", "הושע": "Hosea",
+    "יואל": "Joel", "עמוס": "Amos", "עובדיה": "Obadiah", "עבדיה": "Obadiah",
+    "יונה": "Jonah", "מיכה": "Micah", "נחום": "Nahum", "חבקוק": "Habakkuk",
+    "צפניה": "Zephaniah", "חגי": "Haggai", "זכריה": "Zechariah", "מלאכי": "Malachi",
+    "תהלים": "Psalms", "משלי": "Proverbs", "איוב": "Job", "שיר השירים": "Song of Songs",
+    "רות": "Ruth", "איכה": "Lamentations", "קהלת": "Ecclesiastes", "אסתר": "Esther",
+    "דניאל": "Daniel", "עזרא": "Ezra", "נחמיה": "Nehemiah",
+    "דברי הימים א": "I Chronicles", "דברי הימים ב": "II Chronicles",
+}
+BOOK_RX = "|".join(sorted((re.escape(b) for b in BOOKS), key=len, reverse=True))
+# A citation as the edition prints it: "(ישעיה נז, א)", or "(שם לב, כו)" for an ibid.
+HEB_CITE = re.compile(r"\(\s*(%s)?[^()]{0,12}?([א-ת]{1,6})'?,\s*([א-ת]{1,6})'?\s*\)" % BOOK_RX)
+
+
+def gematria(s):
+    n = sum(GEM.get(c, 0) for c in s if c in GEM)
+    return n if n else None
+
+
+def numbered(text):
+    """Every citation the edition prints in Hebrew, whether or not Sefaria
+    linked it: he writes שם for ibid constantly, and prints some book names in
+    spellings the linker misses. Returns the full keys where the book is named
+    and the bare chapter and pasuk where it is not."""
+    keys, pairs = set(), set()
+    for m in HEB_CITE.finditer(text):
+        c, v = gematria(m.group(2)), gematria(m.group(3))
+        if not (c and v):
+            continue
+        pairs.add((c, v))
+        if m.group(1):
+            keys.add(f"{BOOKS[m.group(1)]}.{c}.{v}")
+    return keys, pairs
 
 
 def cited_keys(text):
@@ -91,6 +138,10 @@ def main():
             say("no entry of his answers to this headword")
             continue
         text, cites = entry_text([part]), entry_refs([part])
+        raw = re.sub(r"<[^>]+>", " ", part.get("html", ""))
+        printed, pairs = numbered(raw)
+        cites |= printed
+        books = {r.rsplit(".", 2)[0] for r in cites}
         if not isinstance(gl.get("sense"), str) or not gl["sense"].strip():
             say("no sense line")
             continue
@@ -115,7 +166,11 @@ def main():
                 if len(f.replace(" ", "")) > 2 and f not in text:
                     say(f"{where}: {phrase!r} is not in his entry")
             for key in cited_keys(s) - cites:
-                say(f"{where}: he does not cite {key}")
+                book, c, v = key.rsplit(".", 2)
+                # He may cite it as שם, which carries no link: take it if the
+                # book is one this entry cites and the numbers are printed here.
+                if not (book in books and (int(c), int(v)) in pairs):
+                    say(f"{where}: he does not cite {key}")
             for name, hebrew in NAMED.items():
                 # The entry's text is compared flattened, so the needles are too,
                 # or אבן עזרא would never be found in אבנ עזרא.
