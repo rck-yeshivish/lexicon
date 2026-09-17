@@ -51,7 +51,8 @@ NAMED = {
     # Only where his father is the one saying something: a son's father in plain
     # English, as in a son's inheritance from his father, claims nothing.
     "his father (?:reads|takes|explains|holds|says|writes|sets|glosses|brings|puts)":
-        ["אדוני אבי"],
+        # The edition prints it plene in most entries and defective in some.
+        ["אדוני אבי", "אדני אבי"],
     "Chachamim": ["רבותינו"],
     "Chazal": ["רבותינו", "משנה", "פרק"],
 }
