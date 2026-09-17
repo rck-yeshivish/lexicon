@@ -1328,8 +1328,8 @@ header.bare .brand{flex:1}
 .ltr.on{background:var(--accent);border-color:var(--accent);color:#fff}
 .ltr[disabled]{opacity:.3;cursor:default}
 .rows{display:flex;flex-direction:column}
-.rows .r{display:grid;grid-template-columns:130px minmax(0,1fr) 20px;gap:18px;align-items:center;
-  padding:15px 6px;border-bottom:1px solid var(--line)}
+.rows .r{display:grid;grid-template-columns:120px minmax(0,1fr) 20px;gap:18px;align-items:center;
+  padding:10px 6px;border-bottom:1px solid var(--line)}
 .rows.en3 .r{grid-template-columns:minmax(0,230px) minmax(0,130px) minmax(0,1fr) 20px}
 .rows .tx{min-width:0}
 .rows .r{color:var(--ink)}
@@ -1345,18 +1345,18 @@ header.bare .brand{flex:1}
 .rows .rhead:hover{background:none}
 .rows .r:hover{background:var(--panel);text-decoration:none}
 .rows .r:active{background:var(--accent-soft)}
-.rows .h{font-family:var(--heb);font-size:24px;direction:rtl;text-align:left}
-.rows .en{font-family:inherit;font-size:19px;font-weight:600;direction:ltr;text-align:left}
-.rows .t{color:var(--dim);font-style:italic;font-size:15px}
-.rows .e{font-weight:500}
-.rows .d{color:var(--dim);font-size:15px;display:block;margin-top:2px}
-.rows .cl{color:var(--faint);font-size:14px}
+.rows .h{font-family:var(--heb);font-size:21px;direction:rtl;text-align:left}
+.rows .en{font-family:inherit;font-size:17px;font-weight:600;direction:ltr;text-align:left}
+.rows .t{color:var(--dim);font-style:italic;font-size:14px}
+.rows .e{font-weight:500;font-size:16px}
+.rows .d{color:var(--dim);font-size:14px;line-height:1.45;display:block;margin-top:1px}
+.rows .cl{color:var(--faint);font-size:13.5px}
 /* Phones: one tidy line per row, word then text then chevron, instead of the
    word stacked over its text with nothing to tap toward. The search dropdown
    drops its fixed transliteration column, which left a wide empty gap and
    squeezed the English to one word per line. */
 @media (max-width:700px){
-  .rows .r{grid-template-columns:88px minmax(0,1fr) 18px;gap:12px;padding:14px 4px}
+  .rows .r{grid-template-columns:88px minmax(0,1fr) 18px;gap:12px;padding:10px 4px}
   .rows .h{text-align:right}
   .rows.en3 .r{grid-template-columns:minmax(0,1fr) auto 18px;grid-template-areas:"en h go" "cl cl go";row-gap:2px}
   .rows.en3 .en{grid-area:en}.rows.en3 .h{grid-area:h}.rows.en3 .cl{grid-area:cl}.rows.en3 .go{grid-area:go}
@@ -1373,6 +1373,7 @@ header.bare .brand{flex:1}
 /* Where the group line is a row's only text it is the row's content, not a
    footnote, and in the faint grey it read as disabled. */
 .rows .tx > .cl:only-child,.ac .tx > .c:only-child{color:var(--dim);font-size:15px}
+.rows .tx > .cl:only-child{font-size:14px}
 .count{color:var(--faint);font-size:14px;margin:0 0 14px}
 
 /* entry ------------------------------------------------------------------- */
