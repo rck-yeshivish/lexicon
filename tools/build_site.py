@@ -756,7 +756,8 @@ def week_html(data, week):
     if not week:
         return ""
     links = "".join(f'<a href="entries/{s}.html"><bdi lang="he">{html.escape(data["e"][s][1])}</bdi>'
-                    f'{html.escape(data["e"][s][0])}</a>' for s in week_picks(data, week, 3))
+                    f'{html.escape(data["e"][s][0])}<span class="chev" aria-hidden="true">&rsaquo;</span></a>'
+                    for s in week_picks(data, week, 3))
     return f'<span class="week-h">This week &middot; <b>{html.escape(week[1])}</b></span><span class="week-l">{links}</span>'
 
 
@@ -771,7 +772,8 @@ def taste_html(x):
 
 
 def questions_html(items):
-    return "".join(f'<a href="entries/{a["s"]}.html">{a["q"]}</a>' for a in items)
+    return "".join(f'<a href="entries/{a["s"]}.html"><span>{a["q"]}</span>'
+                   f'<span class="chev" aria-hidden="true">&rsaquo;</span></a>' for a in items)
 
 
 def entry_page(e):
@@ -1273,6 +1275,7 @@ header.bare .brand{flex:1}
 .week-l a{display:inline-flex;align-items:baseline;gap:8px;border:1px solid var(--line);background:var(--panel);border-radius:999px;
   padding:5px 14px 6px;color:var(--ink);font-size:15px;transition:border-color .15s}
 .week-l a:hover{text-decoration:none;border-color:var(--accent)}
+.week-l .chev{color:var(--accent)}
 .week-l bdi{font-size:18px;line-height:1;color:var(--accent)}
 .how{margin-top:20px}
 .how-steps{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,1fr);counter-reset:step}
@@ -1300,8 +1303,10 @@ header.bare .brand{flex:1}
 .taste-go:hover .wcard{border-color:var(--dim)}
 .asks{margin-top:40px}
 .asks-list{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.asks-list a{display:block;background:var(--panel);border:1px solid var(--line);border-radius:12px;
+.asks-list a{display:flex;gap:12px;justify-content:space-between;align-items:baseline;
+  background:var(--panel);border:1px solid var(--line);border-radius:12px;
   padding:13px 16px;color:var(--ink);font-size:15px;line-height:1.45;transition:border-color .15s}
+.asks-list .chev{color:var(--accent);flex:0 0 auto}
 .asks-list a:hover{text-decoration:none;border-color:var(--accent)}
 .asks-list a i{color:var(--dim)}
 @media (max-width:640px){.asks-list{grid-template-columns:1fr}.taste-q{font-size:18px}}
@@ -2023,7 +2028,8 @@ function wireWeek(){
     weekShown = new Set(weekPicks.slice(0, 3));
     const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
     el.innerHTML = `<span class="week-h">This week &middot; <b>${esc(w[1])}</b></span><span class="week-l">`
-      + weekPicks.slice(0, 3).map(s => `<a href="entries/${esc(s)}.html"><bdi lang="he">${esc(D.e[s][1])}</bdi>${esc(D.e[s][0])}</a>`).join("")
+      + weekPicks.slice(0, 3).map(s => `<a href="entries/${esc(s)}.html"><bdi lang="he">${esc(D.e[s][1])}</bdi>${esc(D.e[s][0])}`
+          + `<span class="chev" aria-hidden="true">&rsaquo;</span></a>`).join("")
       + `</span>`;
     el.hidden = false;
   }catch(err){}
@@ -2051,7 +2057,8 @@ function wireHome(){
   // Keep one or two of the written questions in each set when there are any.
   const curated = rest.filter(a => !a.q.startsWith("What")), plain = rest.filter(a => a.q.startsWith("What"));
   const four = seasonal.concat(curated.slice(0, seasonal.length ? 1 : 2), plain).slice(0, 4);
-  document.getElementById("asks").innerHTML = four.map(a => `<a href="entries/${esc(a.s)}.html">${a.q}</a>`).join("");
+  document.getElementById("asks").innerHTML = four.map(a =>
+    `<a href="entries/${esc(a.s)}.html"><span>${a.q}</span><span class="chev" aria-hidden="true">&rsaquo;</span></a>`).join("");
 }
 
 document.addEventListener("DOMContentLoaded", () => {
