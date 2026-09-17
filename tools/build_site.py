@@ -715,15 +715,16 @@ def week_rows(entries):
         if w["from"] < since:
             continue
         lists = [[x for x in s["groups"].get(g, []) if x in names] for g in w["lead"] + w["parsha"] + w["mix"]]
+        # Three for the line, and the next few for "Questions to explore".
         picks = []
-        while len(picks) < 3 and any(lists):
+        while len(picks) < 9 and any(lists):
             for l in lists:
                 while l and l[0] in picks:
                     l.pop(0)
-                if l and len(picks) < 3:
+                if l and len(picks) < 9:
                     picks.append(l.pop(0))
         if picks:
-            rows.append([w["from"], w["label"], [[x, names[x], heb.get(x, "")] for x in picks]])
+            rows.append([w["from"], w["label"], [[x, names[x], heb.get(x, "")] for x in picks[:3]], picks[3:]])
     return rows
 
 
@@ -989,7 +990,7 @@ def main():
 </section>
 <section class="asks" aria-labelledby="asks-h">
   <p class="home-h" id="asks-h">Questions to explore</p>
-  <div class="asks-list" id="asks">{questions_html(question_pool[:6])}</div>
+  <div class="asks-list" id="asks">{questions_html(question_pool[:4])}</div>
   <script type="application/json" id="ask-pool">{questions_json}</script>
 </section>
 <section class="taste" aria-labelledby="taste-h">
@@ -1951,6 +1952,7 @@ function wirePesukim(){
 
 // Home: this week's line, by the reader's date (a week starts on Sunday). The
 // build writes the week it was built in; a page cached across a Sunday updates here.
+let thisWeek = null;
 function wireWeek(){
   const el = document.getElementById("week"), data = document.getElementById("week-data");
   if(!el || !data) return;
@@ -1960,6 +1962,7 @@ function wireWeek(){
     const key = `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
     const w = JSON.parse(data.textContent).find(x => x[0] === key);
     if(!w){ el.hidden = true; return; }
+    thisWeek = w;
     const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
     el.innerHTML = `<span class="week-h">This week &middot; <b>${esc(w[1])}</b></span><span class="week-l">`
       + w[2].map(([s, n, h]) => `<a href="entries/${esc(s)}.html"><bdi lang="he">${esc(h)}</bdi>${esc(n)}</a>`).join("") + `</span>`;
@@ -1967,23 +1970,28 @@ function wireWeek(){
   }catch(err){}
 }
 
-// Home: a different group for "A taste" and six different questions each visit.
+// Home: a different group for "A taste" and four different questions each visit;
+// two of the questions come from this week's entries, after the three in its line.
 function wireHome(){
   const tp = document.getElementById("taste-pool"), ap = document.getElementById("ask-pool");
   if(!tp || !ap) return;
   const taste = JSON.parse(tp.textContent), asks = JSON.parse(ap.textContent);
   const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
-  const pick = taste.length ? taste[Math.floor(Math.random() * taste.length)] : null;
+  const inLine = new Set(thisWeek ? thisWeek[2].map(x => x[0]) : []);
+  const tastes = taste.filter(x => !inLine.has(x.s));
+  const pick = tastes.length ? tastes[Math.floor(Math.random() * tastes.length)] : null;
   if(pick){
     document.getElementById("taste").innerHTML = `<p class="taste-q">${pick.q}</p>${pick.cards}`
       + `<p class="taste-go"><a href="entries/${esc(pick.s)}.html">See the whole ${esc(pick.c)} entry &rsaquo;</a></p>`;
   }
-  const rest = asks.filter(a => !pick || a.s !== pick.s);
+  const open = asks.filter(a => (!pick || a.s !== pick.s) && !inLine.has(a.s));
+  const seasonal = thisWeek ? thisWeek[3].map(s => open.find(a => a.s === s)).filter(Boolean).slice(0, 2) : [];
+  const rest = open.filter(a => !seasonal.includes(a));
   for(let i = rest.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [rest[i], rest[j]] = [rest[j], rest[i]]; }
   // Keep one or two of the written questions in each set when there are any.
   const curated = rest.filter(a => !a.q.startsWith("What")), plain = rest.filter(a => a.q.startsWith("What"));
-  const six = curated.slice(0, 2).concat(plain).slice(0, 6);
-  document.getElementById("asks").innerHTML = six.map(a => `<a href="entries/${esc(a.s)}.html">${a.q}</a>`).join("");
+  const four = seasonal.concat(curated.slice(0, seasonal.length ? 1 : 2), plain).slice(0, 4);
+  document.getElementById("asks").innerHTML = four.map(a => `<a href="entries/${esc(a.s)}.html">${a.q}</a>`).join("");
 }
 
 document.addEventListener("DOMContentLoaded", () => {
