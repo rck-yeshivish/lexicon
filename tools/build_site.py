@@ -737,16 +737,13 @@ def week_html(row):
 
 
 def taste_html(x):
+    """The whole taste is one link to its entry: the question, then the cards.
+    A chevron on the question is the only thing that says so; a "Read the
+    entry" line under the cards said it twice."""
     if not x:
         return ""
-    return f'<p class="taste-q">{x["q"]}</p>{x["cards"]}'
-
-
-def taste_link(x):
-    """The link to the taste's entry, which sits at the right of the section heading."""
-    if not x:
-        return ""
-    return f'<a id="taste-go" href="entries/{x["s"]}.html">Read the entry &rsaquo;</a>'
+    return (f'<a class="taste-go" href="entries/{x["s"]}.html" aria-label="Read the {html.escape(x["c"])} entry">'
+            f'<p class="taste-q">{x["q"]}<span class="chev" aria-hidden="true">&rsaquo;</span></p>{x["cards"]}</a>')
 
 
 def questions_html(items):
@@ -1000,7 +997,7 @@ def main():
   <script type="application/json" id="ask-pool">{questions_json}</script>
 </section>
 <section class="taste" aria-labelledby="taste-h">
-  <p class="home-h taste-head"><span id="taste-h">A taste</span>{taste_link(first_taste)}</p>
+  <p class="home-h" id="taste-h">A taste</p>
   <div id="taste">{taste_html(first_taste)}</div>
   <script type="application/json" id="taste-pool">{taste_json}</script>
 </section>
@@ -1264,8 +1261,12 @@ header.bare .brand{flex:1}
   .how-steps li+li{border-left:0;border-top:1px solid var(--line)}}
 .taste{margin-top:40px}
 .taste-q{font-size:20px;margin:0 0 14px;line-height:1.35}
-.taste-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;column-gap:16px}
-.taste-head a{text-transform:none;letter-spacing:0;font-size:15px;font-weight:500;color:var(--accent)}
+.taste-go{display:block;color:var(--ink)}
+.taste-go:hover{text-decoration:none}
+.taste-go .chev{color:var(--accent);margin-left:10px;display:inline-block;transition:transform .15s}
+.taste-go:hover .chev{transform:translateX(3px)}
+.taste-go:hover .taste-q{color:var(--accent)}
+.taste-go:hover .wcard{border-color:var(--dim)}
 .asks{margin-top:40px}
 .asks-list{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .asks-list a{display:block;background:var(--panel);border:1px solid var(--line);border-radius:12px;
@@ -1989,9 +1990,9 @@ function wireHome(){
   const tastes = taste.filter(x => !inLine.has(x.s));
   const pick = tastes.length ? tastes[Math.floor(Math.random() * tastes.length)] : null;
   if(pick){
-    document.getElementById("taste").innerHTML = `<p class="taste-q">${pick.q}</p>${pick.cards}`;
-    const go = document.getElementById("taste-go");
-    if(go) go.href = `entries/${pick.s}.html`;
+    document.getElementById("taste").innerHTML =
+      `<a class="taste-go" href="entries/${esc(pick.s)}.html" aria-label="Read the ${esc(pick.c)} entry">`
+      + `<p class="taste-q">${pick.q}<span class="chev" aria-hidden="true">&rsaquo;</span></p>${pick.cards}</a>`;
   }
   const open = asks.filter(a => (!pick || a.s !== pick.s) && !inLine.has(a.s));
   const seasonal = thisWeek ? thisWeek[3].map(s => open.find(a => a.s === s)).filter(Boolean).slice(0, 2) : [];
