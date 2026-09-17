@@ -634,6 +634,74 @@ def word_colors(e):
     return out
 
 
+# Questions written for particular groups; any group with cards can also be
+# asked about in the plain form, "What's the difference between x and y?".
+CURATED_QUESTIONS = {
+    "speech-dibbur-amirah": "Why does the Torah say <i>vayomer</i> here and <i>vayidaber</i> there?",
+    "sinai-chorev-gavnunim-bashan": "How many names does Mount Sinai have?",
+    "month-bul-marcheshvan": "Why is the eighth month called Bul?",
+    "names-moshe-yered-avigdor-yekusiel": "How many names did Moshe have?",
+    "second-month-ziv-iyar": "Why was Iyar once called Ziv?",
+    "rain-geshem-matar-yoreh-malkosh": "What are the <i>yoreh</i> and the <i>malkosh</i>?",
+}
+
+
+def glance_rows(mdtext):
+    """The At-a-glance table as (he, tr, en, line) rows, or [] if it is not the standard table."""
+    if not glance_cards(mdtext):
+        return []
+    lines = [l.strip() for l in mdtext.strip().split("\n") if l.strip()]
+    return [tuple(c.strip() for c in l.strip("|").split("|")) for l in lines[2:]]
+
+
+def difference_question(trs):
+    names = [f"<i>{html.escape(x)}</i>" for x in trs]
+    joined = names[0] if len(names) == 1 else ", ".join(names[:-1]) + " and " + names[-1]
+    return f"What&rsquo;s the difference between {joined}?"
+
+
+def home_pools(entries):
+    """Groups for "A taste" (2 to 4 cards with short lines) and the question pool."""
+    taste, asks = [], []
+    for e in entries:
+        if e["slug"] == METHOD or e["slug"] in ROOT_FAMILY:
+            continue
+        glance = next((m for h, m in e["sections"] if h == "At a glance"), "")
+        rows = glance_rows(glance)
+        if len(rows) < 2:
+            continue
+        trs = [r[1] for r in rows[:3]]
+        asks.append({"s": e["slug"], "q": CURATED_QUESTIONS.get(e["slug"]) or difference_question(trs[:2])})
+        if 2 <= len(rows) <= 4 and all(len(r[3].split()) <= 16 for r in rows):
+            taste.append({"s": e["slug"], "c": e["cluster"], "q": difference_question([r[1] for r in rows]),
+                          "cards": glance_cards(glance)})
+    # Curated questions first, so a first visit without script shows them.
+    asks.sort(key=lambda a: a["s"] not in CURATED_QUESTIONS)
+    return taste, asks
+
+
+def essay_span(entries):
+    ids, years = set(), []
+    for e in entries:
+        for s in e["sources"]:
+            m = re.match(r"wiaw:(\d+) \"[^\"]*\" \((\d{4})-", s)
+            if m:
+                ids.add(m.group(1))
+                years.append(m.group(2))
+    return len(ids), min(years) if years else ""
+
+
+def taste_html(x):
+    if not x:
+        return ""
+    return (f'<p class="taste-q">{x["q"]}</p>{x["cards"]}'
+            f'<p class="taste-go"><a href="entries/{x["s"]}.html">See the whole {html.escape(x["c"])} entry &rsaquo;</a></p>')
+
+
+def questions_html(items):
+    return "".join(f'<a href="entries/{a["s"]}.html">{a["q"]}</a>' for a in items)
+
+
 def entry_page(e):
     # Lay the words out left to right in the same order as the At-a-glance table,
     # with each word marked RTL on its own. A single dir="rtl" block would be
@@ -862,6 +930,11 @@ def main():
 
     # The method essay is a page, not a group of synonyms.
     n_words, n_entries = len(words), sum(1 for e in entries if e["slug"] != METHOD)
+    taste_pool, question_pool = home_pools(entries)
+    n_essays, first_year = essay_span(entries)
+    taste_json = json.dumps(taste_pool, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    questions_json = json.dumps(question_pool, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    first_taste = next((x for x in taste_pool if x["s"].startswith("wisdom-")), taste_pool[0] if taste_pool else None)
     home = f'''<section class="hero">
   <div class="banner">
     <h1 class="wm">What&rsquo;s in a Word?</h1>
@@ -881,6 +954,17 @@ def main():
     <button class="chip" data-q="humiliation">humiliation</button></p>
   <script type="application/json" id="try-pool">{try_pool}</script>
 </section>
+<section class="taste" aria-labelledby="taste-h">
+  <p class="home-h" id="taste-h">A taste</p>
+  <div id="taste">{taste_html(first_taste)}</div>
+  <script type="application/json" id="taste-pool">{taste_json}</script>
+</section>
+<section class="asks" aria-labelledby="asks-h">
+  <p class="home-h" id="asks-h">Questions to explore</p>
+  <div class="asks-list" id="asks">{questions_html(question_pool[:6])}</div>
+  <script type="application/json" id="ask-pool">{questions_json}</script>
+</section>
+<p class="about-line">Built on Rabbi Reuven Chaim Klein&rsquo;s column <em>What&rsquo;s in a Word?</em>, published by Ohr Somayach since {first_year}: {n_essays} essays gathered into one guide, word by word, every entry linked to the essays it draws on. <a href="method.html">About</a></p>
 <section class="split">
   <a class="card" href="hebrew.html"><h3>Browse Hebrew</h3><p class="he" dir="rtl" lang="he">א&#1523; ועד ת&#1523;</p></a>
   <a class="card" href="english.html"><h3>Browse English</h3><p>A to Z, from the English back to the Hebrew.</p></a>
@@ -1120,7 +1204,20 @@ header.bare .brand{flex:1}
 .chip{border:1px solid var(--line);background:var(--panel);color:var(--dim);
   border-radius:999px;padding:4px 12px;font:inherit;font-size:14px;cursor:pointer;margin:0 3px}
 .chip:hover{color:var(--ink);border-color:var(--dim)}
-.split{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:56px}
+.home-h{font-size:12.5px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);font-weight:600;
+  margin:0 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+.taste{margin-top:44px}
+.taste-q{font-size:20px;margin:0 0 14px;line-height:1.35}
+.taste-go{margin:12px 0 0;font-size:15px}
+.asks{margin-top:40px}
+.asks-list{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.asks-list a{display:block;background:var(--panel);border:1px solid var(--line);border-radius:12px;
+  padding:13px 16px;color:var(--ink);font-size:15.5px;line-height:1.4;transition:border-color .15s}
+.asks-list a:hover{text-decoration:none;border-color:var(--accent)}
+.asks-list a i{color:var(--dim)}
+.about-line{margin:36px auto 0;max-width:680px;text-align:center;color:var(--dim);font-size:14.5px;line-height:1.55}
+@media (max-width:640px){.asks-list{grid-template-columns:1fr}.taste-q{font-size:18px}}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:40px}
 @media (max-width:860px){.split{grid-template-columns:1fr}}
 @media (max-width:640px){.hero h1{font-size:33px}.hero{padding:52px 0 20px}}
 .card{display:block;padding:24px;border:1px solid var(--line);border-radius:var(--radius);
@@ -1827,7 +1924,27 @@ function wirePesukim(){
   onScroll();
 }
 
+// Home: a different group for "A taste" and six different questions each visit.
+function wireHome(){
+  const tp = document.getElementById("taste-pool"), ap = document.getElementById("ask-pool");
+  if(!tp || !ap) return;
+  const taste = JSON.parse(tp.textContent), asks = JSON.parse(ap.textContent);
+  const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
+  const pick = taste.length ? taste[Math.floor(Math.random() * taste.length)] : null;
+  if(pick){
+    document.getElementById("taste").innerHTML = `<p class="taste-q">${pick.q}</p>${pick.cards}`
+      + `<p class="taste-go"><a href="entries/${esc(pick.s)}.html">See the whole ${esc(pick.c)} entry &rsaquo;</a></p>`;
+  }
+  const rest = asks.filter(a => !pick || a.s !== pick.s);
+  for(let i = rest.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [rest[i], rest[j]] = [rest[j], rest[i]]; }
+  // Keep one or two of the written questions in each set when there are any.
+  const curated = rest.filter(a => !a.q.startsWith("What")), plain = rest.filter(a => a.q.startsWith("What"));
+  const six = curated.slice(0, 2).concat(plain).slice(0, 6);
+  document.getElementById("asks").innerHTML = six.map(a => `<a href="entries/${esc(a.s)}.html">${a.q}</a>`).join("");
+}
+
 document.addEventListener("DOMContentLoaded", () => {
+  wireHome();
   wire();
   wireTabs();
   wireToc();
