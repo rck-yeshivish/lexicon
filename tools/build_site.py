@@ -691,10 +691,16 @@ def essay_span(entries):
     return len(ids), min(years) if years else ""
 
 
-def week_rows(entries):
-    """[[Sunday, label, [[slug, name], ...]], ...] from references/seasons.json
-    (tools/build_seasons.py), from last week on. Three links a week, taken in
-    turn from the Yom Tov, the parsha and the season, so each gets a place."""
+# How many of a group's entries a week can draw on. Elul has twenty, and a
+# reader who comes back on Wednesday should not meet Monday's three again.
+POOL_PER_GROUP = 8
+
+
+def week_data(entries):
+    """{"w": [[Sunday, label, [group keys]], ...], "g": {group: [slugs]},
+    "e": {slug: [name, Hebrew]}} from references/seasons.json, from last week
+    on. The page takes its links in turn from the Yom Tov, the parsha and the
+    season, so each gets a place, and shuffles within each."""
     path = ROOT / "references" / "seasons.json"
     if not path.exists():
         return []
@@ -710,30 +716,44 @@ def week_rows(entries):
             row = next((r for r in rows if lead and lead in re.sub(r"[^a-z]", "", r[1].lower())), rows[0])
             heb[e["slug"]] = row[0].split("/")[0].strip()
     since = (datetime.date.today() - datetime.timedelta(days=7)).isoformat()
-    rows = []
+    # The week names its groups; the groups hold their best entries, and the
+    # page draws a fresh set from them on every visit. A week is kept small:
+    # the groups and the names are written once, not once a week.
+    weeks, keep, used = [], {}, set()
     for w in s["weeks"]:
         if w["from"] < since:
             continue
-        lists = [[x for x in s["groups"].get(g, []) if x in names] for g in w["lead"] + w["parsha"] + w["mix"]]
-        # Three for the line, and the next few for "Questions to explore".
-        picks = []
-        while len(picks) < 9 and any(lists):
-            for l in lists:
-                while l and l[0] in picks:
-                    l.pop(0)
-                if l and len(picks) < 9:
-                    picks.append(l.pop(0))
-        if picks:
-            rows.append([w["from"], w["label"], [[x, names[x], heb.get(x, "")] for x in picks[:3]], picks[3:]])
-    return rows
+        keys = [g for g in w["lead"] + w["parsha"] + w["mix"] if s["groups"].get(g)]
+        if not keys:
+            continue
+        weeks.append([w["from"], w["label"], keys])
+        for g in keys:
+            if g not in keep:
+                keep[g] = [x for x in s["groups"][g] if x in names][:POOL_PER_GROUP]
+                used.update(keep[g])
+    return {"w": weeks, "g": keep, "e": {x: [names[x], heb.get(x, "")] for x in sorted(used)}}
 
 
-def week_html(row):
-    if not row:
+def week_picks(data, week, count):
+    """Entries for a week, one group after another. The build takes the first
+    of each; the page shuffles first, which is where the rotation comes from."""
+    lists = [list(data["g"].get(g, [])) for g in week[2]]
+    picks = []
+    while len(picks) < count and any(lists):
+        for l in lists:
+            while l and l[0] in picks:
+                l.pop(0)
+            if l and len(picks) < count:
+                picks.append(l.pop(0))
+    return picks
+
+
+def week_html(data, week):
+    if not week:
         return ""
-    links = "".join(f'<a href="entries/{s}.html"><bdi lang="he">{html.escape(h)}</bdi>{html.escape(n)}</a>'
-                    for s, n, h in row[2])
-    return f'<span class="week-h">This week &middot; <b>{html.escape(row[1])}</b></span><span class="week-l">{links}</span>'
+    links = "".join(f'<a href="entries/{s}.html"><bdi lang="he">{html.escape(data["e"][s][1])}</bdi>'
+                    f'{html.escape(data["e"][s][0])}</a>' for s in week_picks(data, week, 3))
+    return f'<span class="week-h">This week &middot; <b>{html.escape(week[1])}</b></span><span class="week-l">{links}</span>'
 
 
 def taste_html(x):
@@ -961,18 +981,18 @@ def main():
     n_essays, first_year = essay_span(entries)
     taste_json = json.dumps(taste_pool, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     questions_json = json.dumps(question_pool, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-    weeks = week_rows(entries)
+    weeks = week_data(entries)
     today = datetime.date.today()
     this_sunday = (today - datetime.timedelta(days=(today.weekday() + 1) % 7)).isoformat()
-    this_week = next((w for w in weeks if w[0] == this_sunday), None)
+    this_week = next((w for w in weeks["w"] if w[0] == this_sunday), None)
     weeks_json = json.dumps(weeks, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     first_taste = next((x for x in taste_pool if x["s"].startswith("wisdom-")), taste_pool[0] if taste_pool else None)
     home = f'''<section class="hero">
   <div class="banner">
     <h1 class="wm">What&rsquo;s in a Word?</h1>
     <p class="wm-sub">Synonyms in the Hebrew Language</p>
-    <hr class="wm-rule">
     <p class="wm-sub wm-credit">From the essays of <span class="nw">Rabbi Reuven Chaim Klein</span></p>
+    <hr class="wm-rule">
   </div>
   <p class="lede"><span class="tally" data-to="{n_words}">{n_words:,}</span> words in <span class="tally" data-to="{n_entries}">{n_entries}</span> groups of
   near-synonyms, each word with its own meaning clarified and the sources that discuss it.</p>
@@ -981,7 +1001,7 @@ def main():
     <input id="q" type="search" placeholder="Type Hebrew or English&hellip;" autocomplete="off" spellcheck="false" dir="auto">
     <div id="ac" class="ac" hidden></div>
   </div>
-  <div class="week" id="week"{'' if this_week else ' hidden'}>{week_html(this_week)}</div>
+  <div class="week" id="week"{'' if this_week else ' hidden'}>{week_html(weeks, this_week)}</div>
   <script type="application/json" id="week-data">{weeks_json}</script>
 </section>
 <section class="how" aria-label="How it works">
@@ -1219,9 +1239,9 @@ header.bare .brand{flex:1}
 .hero .wm{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:56px;line-height:1.05;
   letter-spacing:-.01em;margin:0 0 12px}
 .wm-sub{color:var(--dim);font-size:13px;font-weight:600;margin:0;letter-spacing:.18em;text-transform:uppercase}
-.wm-rule{width:48px;height:1px;background:var(--line);margin:18px auto;border:0}
-/* The credit mirrors the subtitle across the rule. */
-.wm-credit{margin-bottom:26px}
+.wm-rule{width:48px;height:1px;background:var(--line);margin:20px auto 26px;border:0}
+/* The credit sits under the subtitle, and the rule closes the block. */
+.wm-credit{margin-top:10px}
 /* On a phone the credit breaks before his name, never inside it. */
 .nw{white-space:nowrap}
 @media (max-width:640px){.hero .wm{font-size:38px}.wm-sub{font-size:11.5px;letter-spacing:.14em}}
@@ -1962,20 +1982,37 @@ function wirePesukim(){
 
 // Home: this week's line, by the reader's date (a week starts on Sunday). The
 // build writes the week it was built in; a page cached across a Sunday updates here.
-let thisWeek = null;
+let weekPicks = [];         // this week's entries, in a fresh order each visit
+let weekShown = new Set();  // the three already in the line, so nothing repeats below
+function shuffled(list){
+  const a = list.slice();
+  for(let i = a.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+  return a;
+}
 function wireWeek(){
   const el = document.getElementById("week"), data = document.getElementById("week-data");
   if(!el || !data) return;
   try{
+    const D = JSON.parse(data.textContent);
     const d = new Date(); d.setDate(d.getDate() - d.getDay());
     const pad = n => String(n).padStart(2, "0");
     const key = `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
-    const w = JSON.parse(data.textContent).find(x => x[0] === key);
+    const w = D.w.find(x => x[0] === key);
     if(!w){ el.hidden = true; return; }
-    thisWeek = w;
+    // One from the Yom Tov, one from the parsha, one from the season, and on
+    // round again; each group shuffled, so a second visit brings another three.
+    const lists = w[2].map(g => shuffled(D.g[g] || []));
+    while(weekPicks.length < 8 && lists.some(l => l.length)){
+      for(const l of lists){
+        while(l.length && weekPicks.includes(l[0])) l.shift();
+        if(l.length && weekPicks.length < 8) weekPicks.push(l.shift());
+      }
+    }
+    weekShown = new Set(weekPicks.slice(0, 3));
     const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
     el.innerHTML = `<span class="week-h">This week &middot; <b>${esc(w[1])}</b></span><span class="week-l">`
-      + w[2].map(([s, n, h]) => `<a href="entries/${esc(s)}.html"><bdi lang="he">${esc(h)}</bdi>${esc(n)}</a>`).join("") + `</span>`;
+      + weekPicks.slice(0, 3).map(s => `<a href="entries/${esc(s)}.html"><bdi lang="he">${esc(D.e[s][1])}</bdi>${esc(D.e[s][0])}</a>`).join("")
+      + `</span>`;
     el.hidden = false;
   }catch(err){}
 }
@@ -1987,7 +2024,7 @@ function wireHome(){
   if(!tp || !ap) return;
   const taste = JSON.parse(tp.textContent), asks = JSON.parse(ap.textContent);
   const esc = s => s.replace(/[&<>"]/g, ch => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[ch]));
-  const inLine = new Set(thisWeek ? thisWeek[2].map(x => x[0]) : []);
+  const inLine = weekShown;
   const tastes = taste.filter(x => !inLine.has(x.s));
   const pick = tastes.length ? tastes[Math.floor(Math.random() * tastes.length)] : null;
   if(pick){
@@ -1996,7 +2033,7 @@ function wireHome(){
       + `<p class="taste-q">${pick.q}<span class="chev" aria-hidden="true">&rsaquo;</span></p>${pick.cards}</a>`;
   }
   const open = asks.filter(a => (!pick || a.s !== pick.s) && !inLine.has(a.s));
-  const seasonal = thisWeek ? thisWeek[3].map(s => open.find(a => a.s === s)).filter(Boolean).slice(0, 2) : [];
+  const seasonal = weekPicks.slice(3).map(s => open.find(a => a.s === s)).filter(Boolean).slice(0, 2);
   const rest = open.filter(a => !seasonal.includes(a));
   for(let i = rest.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [rest[i], rest[j]] = [rest[j], rest[i]]; }
   // Keep one or two of the written questions in each set when there are any.
