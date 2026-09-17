@@ -1012,7 +1012,7 @@ def main():
 </section>
 <section class="how" aria-label="How it works">
   <ol class="how-steps">
-    <li><b>The idea</b>Hebrew seldom has two words for exactly the same thing: near-synonyms each carry a shade of their own.</li>
+    <li><b>The idea</b>Two Hebrew words almost never mean exactly the same thing: near-synonyms each carry a shade of their own.</li>
     <li><b>The sources</b>Rashi, Radak, Malbim, Rav Hirsch and many others say where the line between them falls.</li>
     <li><b>The page</b>Each group sets out every word&rsquo;s meaning, who says what, and where they disagree.</li>
   </ol>
