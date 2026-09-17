@@ -365,6 +365,21 @@ def en_rows(terms):
 # ------------------------------------------------------------------ page shells
 
 ASSETS = {"css": "app.css", "js": "app.js"}   # filled in at build time with hashed names
+# How many essays the guide rests on, and the year the column started: the
+# footer's answer to a first-time reader asking how much is behind this.
+ESSAYS = {"n": 0, "from": ""}
+
+
+def essay_span(entries):
+    """(essays cited across the guide, the earliest year)."""
+    ids, years = set(), []
+    for e in entries:
+        for s in e["sources"]:
+            m = re.match(r"wiaw:(\d+) \"[^\"]*\" \((\d{4})-", s)
+            if m:
+                ids.add(m.group(1))
+                years.append(m.group(2))
+    return len(ids), min(years) if years else ""
 
 
 def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
@@ -399,7 +414,7 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
 </main>
 <footer>
   <p>Every distinction is attributed; where the authorities disagree, the entry names the views.</p>
-  <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach. Parsha and Yom Tov dates from <a href="https://www.hebcal.com/">Hebcal</a> (CC BY 4.0).</p>
+  <p class="muted">Built on <em>What&rsquo;s in a Word?</em> by Rabbi Reuven Chaim Klein, published by Ohr Somayach since {ESSAYS["from"]}: {ESSAYS["n"]} essays, and each entry links to the essay it rests on. This is an independent rendering guide: the entries are written here, and the site is not published by or affiliated with Ohr Somayach. Parsha and Yom Tov dates from <a href="https://www.hebcal.com/">Hebcal</a> (CC BY 4.0).</p>
 </footer>
 <script src="{up}assets/{ASSETS["js"]}"></script>
 {extra_js}
@@ -661,7 +676,7 @@ def difference_question(trs):
 
 
 def home_pools(entries):
-    """Groups for "A taste" (2 to 4 cards with short lines) and the question pool."""
+    """Groups for "Inside an entry" (2 to 4 cards with short lines) and the question pool."""
     taste, asks = [], []
     for e in entries:
         if e["slug"] == METHOD or e["slug"] in ROOT_FAMILY:
@@ -900,6 +915,7 @@ def main():
         ASSETS[kind] = f"app.{h}.{kind}"
 
     entries, words, english = collect()
+    ESSAYS["n"], ESSAYS["from"] = essay_span(entries)
     clusters = {e["slug"]: e["cluster"] for e in entries}
     xref_file = ROOT / "xref.json"
     if xref_file.exists():
@@ -1005,7 +1021,7 @@ def main():
   <script type="application/json" id="ask-pool">{questions_json}</script>
 </section>
 <section class="taste" aria-labelledby="taste-h">
-  <p class="home-h" id="taste-h">A taste</p>
+  <p class="home-h" id="taste-h">Inside an entry</p>
   <div id="taste">{taste_html(first_taste)}</div>
   <script type="application/json" id="taste-pool">{taste_json}</script>
 </section>
@@ -2009,7 +2025,7 @@ function wireWeek(){
   }catch(err){}
 }
 
-// Home: a different group for "A taste" and four different questions each visit;
+// Home: a different group for "Inside an entry" and four questions each visit;
 // two of the questions come from this week's entries, after the three in its line.
 function wireHome(){
   const tp = document.getElementById("taste-pool"), ap = document.getElementById("ask-pool");
