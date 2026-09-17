@@ -1,6 +1,7 @@
 """Check references/radak-gloss.json against Radak's own entries.
 
-  python tools/check_glosses.py [--verbose]
+  python tools/check_glosses.py                     # the whole file
+  python tools/check_glosses.py --file batch.json   # one batch, before merging
 
 The glosses are English written from his Hebrew, and the danger in writing 859
 of them is a sentence that reads well and says something he never said. This
@@ -44,10 +45,13 @@ NAMED = {
     "Rabbi Yaakov ben Elazar": ["רבי יעקב בן אלעזר", "רבי יעקב בן אילעזר"],
     "Rav Saadiah Gaon": ["רבי סעדיה", "סעדיה"],
     "the Mesorah": ["המסורת", "המסורה"],
-    "Rav Yitzchak ibn Giat": ["יצחק אבן גיאת"],
+    "Rav Yitzchak ibn Giat": ["אבן גיאת"],
     "Rashi": ["רבינו שלמה", "רש\"י"],
     "the Gaon": ["הגאון"],
-    "his father": ["אדוני אבי"],
+    # Only where his father is the one saying something: a son's father in plain
+    # English, as in a son's inheritance from his father, claims nothing.
+    "his father (?:reads|takes|explains|holds|says|writes|sets|glosses|brings|puts)":
+        ["אדוני אבי"],
     "Chachamim": ["רבותינו"],
     "Chazal": ["רבותינו", "משנה", "פרק"],
 }
@@ -126,8 +130,14 @@ def cited_keys(text):
 
 
 def main():
-    verbose = "--verbose" in sys.argv
-    g = json.loads(GLOSS.read_text(encoding="utf-8"))
+    # --file lints a batch on its own, before it is merged, so whoever drafts it
+    # can put their own work right first. The file is either {"glosses": {...}}
+    # or the bare mapping of headword to gloss.
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    flag = "--file" in sys.argv
+    g = json.loads((pathlib.Path(args[0]) if flag else GLOSS).read_text(encoding="utf-8"))
+    if "glosses" not in g:
+        g = {"glosses": g}
     roots = json.loads(SHORASHIM.read_text(encoding="utf-8"))["roots"]
     byhw = {}
     for v in roots.values():
@@ -178,15 +188,18 @@ def main():
             for name, hebrew in NAMED.items():
                 # The entry's text is compared flattened, so the needles are too,
                 # or אבן עזרא would never be found in אבנ עזרא.
-                if re.search(rf"\b{re.escape(name)}\b", s) and not any(flat(h) in text for h in hebrew):
+                # A key may be a small pattern rather than a bare name.
+                if re.search(rf"\b{name}\b", s, re.I) and not any(flat(h) in text for h in hebrew):
                     say(f"{where}: names {name}, whom his entry does not")
-    n = len(g["glosses"])
+    for b in bad:
+        print("  " + b)
+    if flag:
+        print(f"{len(g['glosses'])} glosses over {checked} blocks, {len(bad)} problems")
+        return 1 if bad else 0
     done = sum(1 for v in roots.values() if v and any(
         p["hw"] in g["glosses"] for p in [v] + v.get("more", [])))
     have = sum(1 for v in roots.values() if v)
-    for b in bad:
-        print("  " + b)
-    print(f"{n} glosses over {checked} blocks, {len(bad)} problems; "
+    print(f"{len(g['glosses'])} glosses over {checked} blocks, {len(bad)} problems; "
           f"{done} of {have} roots have English ({done / have:.0%})")
     return 1 if bad else 0
 
