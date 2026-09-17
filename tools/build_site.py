@@ -1297,7 +1297,7 @@ header.bare .brand{flex:1}
 .taste-q{font-size:20px;margin:0 0 14px;line-height:1.35}
 .taste-go{display:block;color:var(--ink)}
 .taste-go:hover{text-decoration:none}
-.taste-go .chev{color:var(--accent);margin-left:10px;display:inline-block;transition:transform .15s}
+.taste-go .chev{color:var(--accent);font-size:15px;margin-left:10px;display:inline-block;transition:transform .15s}
 .taste-go:hover .chev{transform:translateX(3px)}
 .taste-go:hover .taste-q{color:var(--accent)}
 .taste-go:hover .wcard{border-color:var(--dim)}
