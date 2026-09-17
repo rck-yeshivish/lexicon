@@ -1238,13 +1238,15 @@ header.bare .brand{flex:1}
    he wrote this site, and the footer says exactly what the site owes him. */
 .hero .wm{font-family:"Frank Ruhl Libre",Georgia,serif;font-weight:700;color:var(--brand);font-size:56px;line-height:1.05;
   letter-spacing:-.01em;margin:0 0 12px}
-.wm-sub{color:var(--dim);font-size:13px;font-weight:600;margin:0;letter-spacing:.18em;text-transform:uppercase}
+.wm-sub{color:var(--dim);font-size:12.5px;font-weight:600;margin:0;letter-spacing:.18em;text-transform:uppercase}
 .wm-rule{width:48px;height:1px;background:var(--line);margin:20px auto 26px;border:0}
-/* The credit sits under the subtitle, and the rule closes the block. */
-.wm-credit{margin-top:10px}
+/* The credit sits under the subtitle and the rule closes the block, so it is
+   set a step quieter: two small-caps lines at one size read as two subtitles. */
+.wm-credit{margin-top:11px;font-size:11.5px;font-weight:500;letter-spacing:.12em;color:var(--faint)}
 /* On a phone the credit breaks before his name, never inside it. */
 .nw{white-space:nowrap}
-@media (max-width:640px){.hero .wm{font-size:38px}.wm-sub{font-size:11.5px;letter-spacing:.14em}}
+@media (max-width:640px){.hero .wm{font-size:38px}.wm-sub{font-size:11.5px;letter-spacing:.14em}
+  .wm-credit{font-size:10.5px;letter-spacing:.1em}}
 .hero h1{font-size:44px;line-height:1.08;letter-spacing:-.022em;font-weight:600;margin:0 0 14px}
 .lede{color:var(--dim);font-size:17px;max-width:620px;margin:0 auto 30px}
 .tally{font-variant-numeric:tabular-nums;display:inline-block;text-align:right;color:var(--ink);font-weight:500}
@@ -1290,10 +1292,10 @@ header.bare .brand{flex:1}
 .asks{margin-top:40px}
 .asks-list{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .asks-list a{display:block;background:var(--panel);border:1px solid var(--line);border-radius:12px;
-  padding:13px 16px;color:var(--ink);font-size:15.5px;line-height:1.4;transition:border-color .15s}
+  padding:13px 16px;color:var(--ink);font-size:15px;line-height:1.45;transition:border-color .15s}
 .asks-list a:hover{text-decoration:none;border-color:var(--accent)}
 .asks-list a i{color:var(--dim)}
-.about-line{margin:36px auto 0;max-width:680px;text-align:center;color:var(--dim);font-size:14.5px;line-height:1.55}
+.about-line{margin:36px auto 0;max-width:680px;text-align:center;color:var(--dim);font-size:14px;line-height:1.55}
 @media (max-width:640px){.asks-list{grid-template-columns:1fr}.taste-q{font-size:18px}}
 .split{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:40px}
 @media (max-width:860px){.split{grid-template-columns:1fr}}
