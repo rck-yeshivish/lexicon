@@ -167,6 +167,11 @@ def main():
             if len(m["h"]) > 40:
                 say(f"heading over 40 characters: {m['h']!r}")
             blocks += [(f"more[{i}].h", m["h"]), (f"more[{i}].t", m["t"])]
+        # The sense line stands in a table row beside 1,126 others. Past about
+        # this length it stops being a line and becomes the paragraph the row
+        # was meant to spare the reader.
+        if len(gl["sense"]) > 170:
+            say(f"the row's line runs {len(gl['sense'])} characters; keep it under 170")
         if BINYAN.search(gl["sense"]):
             say("the row's line names a binyan; say what the form does instead")
         for where, s in blocks:
