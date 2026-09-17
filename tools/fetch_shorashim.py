@@ -82,6 +82,15 @@ HEAD = re.compile(r"^\s*<strong>\s*<big>.*?</big>\s*</strong>\s*")
 REF = re.compile(r'data-ref="([^"]+)"')
 
 
+def ref_key(ref):
+    """Sefaria's "I Chronicles 10:10" as references/pesukim.json keys it,
+    "I Chronicles.10.10": the book keeps its spaces, and only the chapter and
+    the pasuk are split off with dots."""
+    ref = ref.replace(":", " ").strip()
+    parts = ref.rsplit(" ", 2)
+    return ".".join(parts) if len(parts) == 3 else ref
+
+
 def markup(raw):
     """The edition's own markup, cut down to what helps a reader: the bold it
     sets on the root's form in each pasuk, and its citations, which become
@@ -99,7 +108,7 @@ def markup(raw):
             continue
         if not closing:
             ref = REF.search(m.group(0))
-            ref = html.unescape(ref.group(1)).replace(" ", ".").replace(":", ".") if ref else ""
+            ref = ref_key(html.unescape(ref.group(1))) if ref else ""
             out.append(f'<span class="ref" data-r="{html.escape(ref, quote=True)}">'
                        if name == "span" and ref else
                        '<span class="ref">' if name == "span" else "<strong>")

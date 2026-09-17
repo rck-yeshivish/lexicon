@@ -69,3 +69,9 @@ pieces in:
   form in each pasuk) and its citations as `.ref` spans, which is what makes
   a long entry readable. `--reformat` reads again any entry stored without
   `html`, and `--homonyms` any root stored before second entries were kept.
+- **`fetch_radak_pesukim.py [--refresh]`** saves the pesukim Radak cites, the
+  ones `pesukim.json` does not already hold, to `references/radak-pesukim.json`,
+  so the roots page can show a citation's text. Run it after
+  `fetch_shorashim.py`. The two stores are kept apart because `pesukim.json`
+  answers to the entries: `fetch_pesukim.py` rebuilds it from what they cite,
+  and Radak's nine thousand would be swept out on the next refresh.

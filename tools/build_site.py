@@ -418,13 +418,39 @@ def radak_html(root):
     for p in parts:
         hw = html.escape(p["hw"].replace("שֹ", "שׂ"))
         note = "Radak has this under the root" if p.get("under") else "Radak’s root"
-        body = p.get("html") or html.escape(p.get("text", ""))
+        body = citable(p.get("html") or html.escape(p.get("text", "")))
         if p.get("found"):                            # the form he cites, so it can be found in a long entry
             body = body.replace(p["found"], f'<mark>{p["found"]}</mark>', 1)
         out.append(f'{gloss_block(p)}'
                    f'<p class="rad-hw" dir="ltr" lang="en">{note} <bdi lang="he">{hw}</bdi></p>'
                    f'<p>{body}</p>')
     return "".join(out)
+
+
+def pasuk(ref):
+    """The text of a pasuk he cites, from either store, or "" if neither has it."""
+    return PESUKIM["verses"].get(ref) or RADAK_PESUKIM["verses"].get(ref) or ""
+
+
+CITE = re.compile(r'<span class="ref" data-r="([^"]+)">')
+
+
+def citable(body):
+    """His citations, as buttons where the pasuk can be shown and plain text
+    where it cannot (his Talmud references, which the page does not carry)."""
+    return CITE.sub(lambda m: (f'<span class="ref has-p" role="button" tabindex="0" data-r="{m.group(1)}">'
+                               if pasuk(m.group(1)) else '<span class="ref">'), body)
+
+
+def pesukim_credit():
+    """The editions the pesukim come from, each named once with its licence."""
+    seen = {}
+    for meta in (PESUKIM["meta"], RADAK_PESUKIM["meta"]):
+        for m in meta.values():
+            if m.get("version"):
+                seen.setdefault(m["version"], m.get("license"))
+    return "; ".join(f"{html.escape(v)} ({html.escape(l)})" if l and l != "unknown" else html.escape(v)
+                     for v, l in sorted(seen.items()))
 
 
 def gloss(part, field):
@@ -558,6 +584,9 @@ SHORASHIM = {"meta": {}, "roots": {}}
 # his headword: "sense" for the root's row, "note" for the open panel. Draft,
 # and the page says whose summary it is.
 GLOSS = {"meta": {}, "glosses": {}}
+# The pesukim he cites that the entries do not (references/radak-pesukim.json,
+# from tools/fetch_radak_pesukim.py). The entries' own store answers first.
+RADAK_PESUKIM = {"meta": {}, "verses": {}}
 RADAK_CREDIT = ('Radak, <em>Sefer HaShorashim</em>, Berlin 1847. Public domain, '
                 'digitised by <a href="https://www.sefaria.org/">Sefaria</a> '
                 'from the National Library of Israel.')
@@ -1039,7 +1068,8 @@ def main():
         for v in XREF.values():
             v.sort(key=lambda x: x[0].lower())
     for name, store in (("pesukim.json", PESUKIM), ("talmud.json", TALMUD),
-                        ("shorashim.json", SHORASHIM), ("radak-gloss.json", GLOSS)):
+                        ("shorashim.json", SHORASHIM), ("radak-gloss.json", GLOSS),
+                        ("radak-pesukim.json", RADAK_PESUKIM)):
         f = ROOT / "references" / name
         if f.exists():
             store.update(json.loads(f.read_text(encoding="utf-8")))
@@ -1144,7 +1174,7 @@ def main():
     <p><bdi lang="he">א&#1523; ועד ת&#1523;</bdi> &middot; {n_words:,} words</p></a>
   <a class="card" href="english.html"><h3>Browse English<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
     <p>A to Z &middot; {len(english):,} terms</p></a>
-  <a class="card" href="roots.html"><h3>Browse roots<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
+  <a class="card" href="roots.html"><h3>Browse Roots<span class="chev" aria-hidden="true">&rsaquo;</span></h3>
     <p><bdi lang="he">שרשים</bdi> &middot; {len(root_map(entries)):,} roots</p></a>
 </section>'''
     emit("index.html", shell("What’s in a Word? — Synonyms in the Hebrew Language", home, header_search=False))
@@ -1199,15 +1229,25 @@ def main():
   <p class="count" id="count">{len(rmap):,} roots</p>
   <div class="rhead" aria-hidden="true"><span>Root</span><span>Groups</span><span>Radak, <em>Sefer HaShorashim</em></span></div>
   <div id="list" class="rows roots">{"".join(rrows)}</div>
-  <p class="radak-credit">{RADAK_CREDIT}</p>
+  <p class="radak-credit">{RADAK_CREDIT} The pesukim he cites are from
+    Sefaria: {pesukim_credit()}.</p>
 </section>'''
     chunks = {}
     for r in rmap:
         text = radak(r)
         if text:
             chunks.setdefault(root_key(r)[:1], {})[root_key(r)] = radak_html(r)
+    verses = {}
+    for r in rmap:
+        e = SHORASHIM["roots"].get(root_key(r)) or {}
+        for part in ([e] + e.get("more", [])) if e else []:
+            for ref in CITE.findall(part.get("html", "")):
+                if pasuk(ref):
+                    verses.setdefault(root_key(r)[:1], {})[ref] = pasuk(ref)
     for letter, part in chunks.items():
         emit(f"shorashim/{letter}.json", json.dumps(part, ensure_ascii=False, separators=(",", ":")))
+    for letter, part in verses.items():
+        emit(f"pesukim/{letter}.json", json.dumps(part, ensure_ascii=False, separators=(",", ":")))
     emit("roots.html", shell("Roots — What’s in a Word?", roots_body, active="roots",
                              extra_js='<script>initBrowse("roots");wireRoots();</script>'))
 
@@ -1554,6 +1594,22 @@ header.bare .brand{flex:1}
   max-width:38em;margin-left:auto}
 .rad-body strong,.rad-text strong{font-weight:700;color:var(--accent)}
 .rad-body .ref,.rad-text .ref{font-size:.72em;color:var(--faint);white-space:nowrap}
+.rad-body .ref.has-p{cursor:pointer;border-bottom:1px dotted var(--accent)}
+.rad-body .ref.has-p:hover{color:var(--accent)}
+.rad-body .ref.on{color:var(--accent);background:var(--accent-soft);border-radius:3px}
+.rad-grid{display:block}
+.rad-src{margin:16px 0 0;padding:14px 0 0;border-top:1px solid var(--line)}
+.rad-src-h{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
+  font-weight:600;margin:0 0 9px;text-align:left}
+.rad-src-none{font-size:13px;color:var(--faint);margin:0;text-align:left}
+.rad-inline{margin:4px 0 12px}
+/* Wide enough for both: his text keeps its measure and the pasuk sits beside it. */
+@media (min-width:1100px){
+  .rad-grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:0 34px;align-items:start}
+  .rad-src{margin:0;padding:0 0 0 30px;border-top:0;border-left:1px solid var(--line);
+    position:sticky;top:78px}
+  .rad-inline{display:none}
+}
 .rad-body p,.rad-text p{margin:0 0 14px}
 .rad-body p:last-child,.rad-text p:last-child{margin-bottom:0}
 p.rad-hw{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;font-size:13px;line-height:1.5;color:var(--dim);text-align:left;margin:0 0 4px}
@@ -2028,14 +2084,56 @@ function wireRoots(){
     el.className = "rad-open";
     el.innerHTML = `<p class="rad-who">Radak, <em>Sefer HaShorashim</em>, on the root `
       + `<bdi lang="he">${row.querySelector(".h").textContent}</bdi></p>`
-      + `<div class="rad-body" dir="rtl" lang="he">${text}</div>`;
+      + `<div class="rad-grid"><div class="rad-body" dir="rtl" lang="he">${text}</div>`
+      + `<aside class="rad-src" aria-label="In the sources"><p class="rad-src-h">In the sources</p>`
+      + `<p class="rad-src-none">Press any pasuk he cites to read it here.</p>`
+      + `<div class="rad-src-list"></div></aside></div>`;
     row.after(el);
+    wireCites(el, letter);
     row.setAttribute("aria-expanded", "true");
   };
   list.addEventListener("click", e => {
     const row = e.target.closest(".r.has-rad");
     if(row && !e.target.closest("a")) open(row);
   });
+  // A pasuk he cites, shown beside his text on a wide screen and under the
+  // line on anything narrower. A letter's pesukim are fetched once, when the
+  // first citation in that letter is pressed.
+  const pes = {};
+  async function wireCites(card, letter){
+    const shownIn = card.querySelector(".rad-src-list"), none = card.querySelector(".rad-src-none");
+    const wide = matchMedia("(min-width:1100px)");
+    const show = async span => {
+      if(!pes[letter]){
+        try{ pes[letter] = await fetch(`pesukim/${encodeURIComponent(letter)}.json`).then(r => r.json()); }
+        catch(err){ pes[letter] = {}; }
+      }
+      const t = pes[letter][span.dataset.r];
+      if(!t) return;
+      const was = span.classList.contains("on");
+      card.querySelectorAll(".ref.on").forEach(x => x.classList.remove("on"));
+      card.querySelectorAll(".rad-inline").forEach(x => x.remove());
+      if(was){ shownIn.innerHTML = ""; none.hidden = false; return; }
+      span.classList.add("on");
+      const html = `<div class="pcard"><div class="pref"><span>${span.textContent.replace(/^\(|\)$/g, "")}</span></div>`
+        + `<div class="pv" dir="rtl" lang="he">${t.replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}</div></div>`;
+      if(wide.matches){ shownIn.innerHTML = html; none.hidden = true; }
+      else {
+        const d = document.createElement("div");
+        d.className = "rad-inline"; d.dir = "ltr"; d.innerHTML = html;
+        span.closest("p").after(d);
+      }
+    };
+    card.addEventListener("click", e => {
+      const span = e.target.closest(".ref.has-p");
+      if(span) show(span);
+    });
+    card.addEventListener("keydown", e => {
+      if(e.key !== "Enter" && e.key !== " ") return;
+      const span = e.target.closest(".ref.has-p");
+      if(span){ e.preventDefault(); show(span); }
+    });
+  }
   list.addEventListener("keydown", e => {
     if(e.key !== "Enter" && e.key !== " ") return;
     const row = e.target.closest(".r.has-rad");
