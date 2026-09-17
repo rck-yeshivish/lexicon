@@ -79,13 +79,16 @@ def headwords():
 
 TAG = re.compile(r"<(/?)([a-zA-Z]+)[^>]*>")
 HEAD = re.compile(r"^\s*<strong>\s*<big>.*?</big>\s*</strong>\s*")
+REF = re.compile(r'data-ref="([^"]+)"')
 
 
 def markup(raw):
     """The edition's own markup, cut down to what helps a reader: the bold it
     sets on the root's form in each pasuk, and its citations, which become
-    <span class="ref">. Everything else is escaped or dropped, so the result is
-    safe to place in a page as it stands."""
+    <span class="ref">. A citation keeps where it points, as data-r, in the
+    Book.Chapter.Verse form references/pesukim.json is keyed by, so the site can
+    show the pasuk itself. Everything else is escaped or dropped, so the result
+    is safe to place in a page as it stands."""
     out, stack, pos = [], [], 0
     for m in TAG.finditer(raw):
         out.append(html.escape(html.unescape(raw[pos:m.start()]), quote=False))
@@ -95,7 +98,11 @@ def markup(raw):
         if name not in ("strong", "span"):
             continue
         if not closing:
-            out.append('<span class="ref">' if name == "span" else "<strong>")
+            ref = REF.search(m.group(0))
+            ref = html.unescape(ref.group(1)).replace(" ", ".").replace(":", ".") if ref else ""
+            out.append(f'<span class="ref" data-r="{html.escape(ref, quote=True)}">'
+                       if name == "span" and ref else
+                       '<span class="ref">' if name == "span" else "<strong>")
             stack.append(name)
         elif stack and stack[-1] == name:
             out.append(f"</{stack.pop()}>")
@@ -103,7 +110,7 @@ def markup(raw):
     out.extend(f"</{n}>" for n in reversed(stack))
     s = re.sub(r"\s+", " ", "".join(out)).strip()
     # The brackets sit outside the citation in the edition; bring them in.
-    return re.sub(r'\(\s*<span class="ref">(.*?)</span>\s*\)', r'<span class="ref">(\1)</span>', s)
+    return re.sub(r'\(\s*<span class="ref"([^>]*)>(.*?)</span>\s*\)', r'<span class="ref"\1>(\2)</span>', s)
 
 
 def entry(hw):

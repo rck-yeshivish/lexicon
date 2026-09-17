@@ -1,0 +1,66 @@
+{
+ "meta": {
+  "what": "English for each entry of Radak's Sefer HaShorashim the site shows. 'sense' is the line that stands in the root's row, so a reader scanning the list sees what the root means before opening anything. 'note' is what the open panel adds above his Hebrew: the rest of what the entry holds. Both are the guide's summary of his entry, not his words and not a translation, and the page says so.",
+  "rules": "Report only what the entry holds. Where he names a view and its holder, name both. Where he disputes one, say so and say whom. Nothing from outside the entry.",
+  "status": "draft",
+  "keyed_by": "Radak's headword as references/shorashim.json stores it, so an entry serving two roots (גרז for both גרז and גרזן) is glossed once."
+ },
+ "glosses": {
+  "אבד": {
+   "sense": "To be lost or to perish; in the hif'il and the pi'el, to destroy.",
+   "note": "He reads אֲרַמִּי אֹבֵד אָבִי of Yaakov himself, who was the one lost, and who is called an Arami because he lived in Aram, twenty years there in great distress; the proof he brings is Yaakov's own complaint to Lavan, הָיִיתִי בַיּוֹם אֲכָלַנִי חֹרֶב וְקֶרַח בַּלָּיְלָה (Bereishis 31:40). The nouns are אֲבֵדָה, a lost object, אֲבַדּוֹן and אַבְדָן. He brings Rabbi Yaakov ben Elazar for reading עֲדֵי אֹבֵד (Bamidbar 24:20) as a noun of another pattern."
+  },
+  "צון": {
+   "sense": "The small livestock, the sheep and the goats.",
+   "note": "Sometimes the word takes in both together (Vayikra 3:6), sometimes one of them alone (at Shmuel I 25:2 it is the sheep, since the goats are counted beside them), sometimes the females (Bereishis 30:39), and sometimes the small livestock and the cattle together (Shmuel I 8:17, where the parsha names no cattle). It is a collective with no plural of its own, which is why the pesukim say וּשְׁתֵּי צֹאן and וְאַרְבַּע צֹאן. It is written with an alef and read as a vav, and appears as צֹנֶה without the alef."
+  },
+  "רמס": {
+   "sense": "To tread down hard and lay waste, with the noun מִרְמָס.",
+   "note": "Of the word spelled with a sin he says its sense is close to this one, and brings תִּרְמֹשׂ הָאֲדָמָה (Bereishis 9:2), כָּל רֹמֵשׂ בָּאֲדָמָה (Devarim 4:18) and הָרֹמֶשֶׂת עַל הָאָרֶץ (Bereishis 1:28), with the noun רֶמֶשׂ, glossing them as treading and going."
+  },
+  "גרז": {
+   "sense": "To be cut off; the גַּרְזֶן, the axe, is named from it, because it cuts the trees.",
+   "note": "The whole entry is that one line, on נִגְרַזְתִּי מִנֶּגֶד עֵינֶיךָ (Tehillim 31:23)."
+  },
+  "אחה": {
+   "sense": "אָח, a brother, and אָחוֹת, a sister; and a second sense, אָחוּ, the marsh grass.",
+   "note": "Almost all of it is the forms of אָח: the construct אֲחִי, the plurals אַחִים and אַחְיוֹת, and which vowel the alef takes under each suffix. He notes that in אָחוֹת the vav stands in for the heh of the root. The second sense comes at the end, יִשְׂגֶּה אָחוּ בְלִי מָיִם (Iyov 8:11), where the vav again stands for that heh."
+  },
+  "ענה": {
+   "sense": "To answer; and by further senses to bear witness, to raise the voice in song, to afflict, whence עָנִי, the poor man, and עָנָו, the humble.",
+   "note": "The answering is mostly a reply, though sometimes it opens the speech (וַיַּעַן אִיּוֹב, Iyov 3:2). In the nif'al, נַעֲנֶה and נַעֲנֵיתִי mean to be entreated, which he says he will take up again under the root עתר; on אֲנִי ה' נַעֲנֵיתִי לוֹ (Yechezkel 14:4) he sets the Targum beside his own reading and says where the two part. Witness is לֹא תַעֲנֶה בְרֵעֲךָ עֵד שָׁקֶר, and the raised voice is וַתַּעַן לָהֶם מִרְיָם, in mourning as well, as in Chazal's מְעַנּוֹת in Moed Katan. To afflicting belong עָנִי and the poor, and לֶחֶם עֹנִי, named for the affliction in Mitzrayim; close to it he sets עָנָו and עֲנָוָה, lowliness of spirit, reading עָנִי וְרֹכֵב עַל חֲמוֹר (Zechariah 9:9) that way with Targum Yonasan. A further sense is a matter one is occupied with, עִנְיָן in Koheles, where he brings his father, Rabbi Yonah and Rav Yitzchak ibn Giat, and differs from Rabbi Yonah on אֶעֱנֶה אֶת הַשָּׁמַיִם (Hoshea 2:23), which he takes in the first sense, of speech. Last is מַעֲנָה, the furrow a plowman cuts."
+  },
+  "כבשֹ": {
+   "sense": "כֶּבֶשׂ, a lamb, with כַּבְשָׂה and כִּבְשָׂה for the ewe.",
+   "note": "It is called a כבש while it is within its first year, he says, because one older than a year is called אַיִל."
+  },
+  "כבשׁ": {
+   "sense": "To subdue and to seize by force; also כֶּבֶשׁ, a ramp, and כִּבְשָׁן, a kiln.",
+   "note": "The verb runs through the kal, the nif'al and the pi'el. On וְכָבְשׁוּ אַבְנֵי קֶלַע (Zechariah 9:15) he brings Rabbi Yonah, that they subdued their enemies with slingstones, and sets his own reading beside it. The ramp he explains from Chazal in Zevachim as a single sloping rise and not steps of stone or wood set one above another, which is why the mizbeach was given a kevesh, steps being forbidden by וְלֹא תַעֲלֶה בְמַעֲלֹת (Shemos 20:23). The kiln is where stones are burnt for lime or earthenware is fired, as against the תַּנּוּר, in which bread is baked by sticking it to the wall."
+  },
+  "חרשֹ": {
+   "sense": "חֶרֶשׂ, earthenware and a potsherd.",
+   "note": "As in כְּלִי חֶרֶשׂ (Vayikra 6:21) and יָבֵשׁ כַּחֶרֶשׂ כֹּחִי (Tehillim 22:15). On וַיִּקַּח לוֹ חֶרֶשׂ לְהִתְגָּרֵד בּוֹ (Iyov 2:8) he reads a potsherd to scratch with, the Satan having struck him with a dry boil; he brings those who read חֶרֶשׂ as the name of the illness itself, which Iyov chose for himself out of all illnesses because scratching it gives some relief, and says that reading is far-fetched."
+  },
+  "חרשׁ": {
+   "sense": "To be silent and to be deaf, with חֵרֵשׁ for a deaf man; and a second sense, to plow.",
+   "note": "One who keeps quiet is as though he does not hear what is said, and makes himself deaf. He reads יַחֲרִישׁ בְּאַהֲבָתוֹ (Tzefaniah 3:17) as Hashem keeping silent, out of love, over sins already done, and takes רוּחַ קָדִים חֲרִישִׁית (Yonah 4:8) as a wind so strong that men are made deaf by it, which is how Targum Yonasan renders it, שְׁתִיקָא."
+  },
+  "נטה": {
+   "sense": "To turn aside or incline, and to lean toward someone.",
+   "note": "On כִּי יוֹאָב נָטָה אַחֲרֵי אֲדֹנִיָּה (Melachim I 2:28) he explains Yoav's part in the two rebellions, and differs with Rabbi Yonah, who read אַבְשָׁלוֹם in that pasuk as Shlomo: one man, he says, is never named in place of another. He holds the same against him on זֶרַע יַעֲקוֹב וְדָוִד (Yirmiyahu 33:26), and brings the Ibn Ezra's reading beside his own."
+  },
+  "מטט": {
+   "sense": "The root of מִטָּה, a bed; and of נָמוֹטּוּ, to be shaken, where the letter is doubled.",
+   "note": "Of בַּל נָמוֹטּוּ פְעָמָי (Tehillim 17:5) he says that in the sefarim where the letter is doubled the word belongs here, and where it is not it belongs to מוט, which he has written there. The bed is וַיֵּשֶׁב עַל הַמִּטָּה (Bereishis 48:2), מִטָּתוֹ שֶׁלִּשְׁלֹמֹה (Shir HaShirim 3:7) and מִטּוֹת זָהָב וָכֶסֶף (Esther 1:6), and he adds that they are written under נָטָה as well. He weighs whether מַטָּה, below, belongs here too, and ends that it may be from נָטָה, where he has written it."
+  },
+  "שֹבע": {
+   "sense": "To be sated and to have one's fill, and not of food alone.",
+   "note": "Also לֹא תִשְׂבַּע עַיִן לִרְאוֹת (Koheles 1:8), שָׂבְעָה בְרָעוֹת נַפְשִׁי (Tehillim 88:4), כִּי רַב שָׂבַעְנוּ בוּז (Tehillim 123:3), and דָּוִיד זָקֵן וְשָׂבַע יָמִים (Divrei HaYamim I 23:1). The nouns are שָׂבְעָה, שֹׂבַע and הַשָּׂבָע, the years of plenty."
+  },
+  "שׁבע": {
+   "sense": "Seven, and the seventh.",
+   "note": "He argues with Rabbi Yonah twice here. On בַּיּוֹם הַשְּׁבִיעִי (Shoftim 14:15) he holds it is the Shabbos, the fourth of the days of the feast and not the seventh of them, and that שביעי never means רביעי, since a word is not found standing for its opposite; he brings the other reading as well, that it is the seventh of the feast days, and what follows from it. On דָּוִיד הַשְּׁבִעִי (Divrei HaYamim I 2:15) he holds against him likewise that the seventh is not the eighth, and settles Shmuel I 16:10 by saying Yishai may have had a son from another wife, the brothers from David's own mother being seven with him. Also שִׁבְעָתַיִם, sevenfold."
+  }
+ }
+}

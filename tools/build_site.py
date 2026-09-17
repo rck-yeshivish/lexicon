@@ -409,7 +409,7 @@ def radak_html(root):
     cut it down to those two tags, so it goes into the page as it stands."""
     e = SHORASHIM["roots"].get(root_key(root)) or {}
     parts = [e] + e.get("more", []) if e else []
-    if len(parts) == 1 and not e.get("under"):
+    if len(parts) == 1 and not e.get("under") and not gloss(e, "sense"):
         return e.get("html") or html.escape(e.get("text", ""))
     # More than one entry answers to these letters, or Radak files the word
     # under another root. Either way each entry is named by his own headword.
@@ -421,9 +421,26 @@ def radak_html(root):
         body = p.get("html") or html.escape(p.get("text", ""))
         if p.get("found"):                            # the form he cites, so it can be found in a long entry
             body = body.replace(p["found"], f'<mark>{p["found"]}</mark>', 1)
-        out.append(f'<p class="rad-hw" dir="ltr" lang="en">{note} <bdi lang="he">{hw}</bdi></p>'
+        out.append(f'{gloss_block(p)}'
+                   f'<p class="rad-hw" dir="ltr" lang="en">{note} <bdi lang="he">{hw}</bdi></p>'
                    f'<p>{body}</p>')
     return "".join(out)
+
+
+def gloss(part, field):
+    """The guide's English for one of his entries, or "" where none is written."""
+    return (GLOSS["glosses"].get(part.get("hw", "")) or {}).get(field, "")
+
+
+def gloss_block(part):
+    """The English above his Hebrew in the panel, labelled as ours, not his."""
+    sense, note = gloss(part, "sense"), gloss(part, "note")
+    if not sense:
+        return ""
+    return (f'<div class="rad-en" dir="ltr" lang="en">'
+            f'<p class="rad-en-h">In English, our summary of his entry</p>'
+            f'<p class="rad-en-s">{html.escape(sense)}</p>'
+            + (f'<p class="rad-en-n">{html.escape(note)}</p>' if note else "") + "</div>")
 
 
 def radak_opening(text, n=120):
@@ -469,9 +486,9 @@ def shell(title, body, *, depth=0, header_search=True, active="", extra_js=""):
   <nav class="navs">
     <a class="meth {'on' if active == 'me' else ''}" href="{up}method.html">About</a>
     <span class="seg">
+      <a href="{up}roots.html" lang="he" title="Browse by root" class="ix {'on' if active == 'roots' else ''}">שרשים</a>
       <a href="{up}hebrew.html" lang="he" title="Browse the Hebrew index" class="ix {'on' if active == 'he' else ''}">א–ת</a>
       <a href="{up}english.html" title="Browse the English index" class="{'on' if active == 'en' else ''}">A–Z</a>
-      <a href="{up}roots.html" lang="he" title="Browse by root" class="ix {'on' if active == 'roots' else ''}">שרש</a>
     </span>
   </nav>
 </header>
@@ -537,6 +554,10 @@ PESUKIM = {"meta": {}, "verses": {}}
 # Radak's Sefer HaShorashim by root letters (references/shorashim.json, from
 # tools/fetch_shorashim.py). Public domain, so the site carries his own words.
 SHORASHIM = {"meta": {}, "roots": {}}
+# The guide's English for his entries (references/radak-gloss.json), keyed by
+# his headword: "sense" for the root's row, "note" for the open panel. Draft,
+# and the page says whose summary it is.
+GLOSS = {"meta": {}, "glosses": {}}
 RADAK_CREDIT = ('Radak, <em>Sefer HaShorashim</em>, Berlin 1847. Public domain, '
                 'digitised by <a href="https://www.sefaria.org/">Sefaria</a> '
                 'from the National Library of Israel.')
@@ -1018,7 +1039,7 @@ def main():
         for v in XREF.values():
             v.sort(key=lambda x: x[0].lower())
     for name, store in (("pesukim.json", PESUKIM), ("talmud.json", TALMUD),
-                        ("shorashim.json", SHORASHIM)):
+                        ("shorashim.json", SHORASHIM), ("radak-gloss.json", GLOSS)):
         f = ROOT / "references" / name
         if f.exists():
             store.update(json.loads(f.read_text(encoding="utf-8")))
@@ -1157,7 +1178,15 @@ def main():
         links = " &middot; ".join(f'<a href="entries/{s}.html">{html.escape(c)}</a>' for c, s in rmap[r])
         first = root_key(r)[:1]
         text = radak(r)
-        rad = (f'<span class="rad" dir="rtl" lang="he">{html.escape(radak_opening(text))}</span>'
+        # The English says what the root means, which is what a reader scanning
+        # the list wants; his Hebrew opening stands in until one is written.
+        # Where the letters carry two of his roots, the row says both: folded,
+        # שׂבע and שׁבע are one word, and neither is the row's answer alone.
+        e = SHORASHIM["roots"].get(root_key(r)) or {}
+        sense = "  ".join(x for x in (gloss(part, "sense")
+                                      for part in ([e] + e.get("more", []) if e else [])) if x)
+        rad = (f'<span class="rad en">{html.escape(sense)}</span>' if sense else
+               f'<span class="rad" dir="rtl" lang="he">{html.escape(radak_opening(text))}</span>'
                if text else '<span class="rad"></span>')
         rrows.append(f'<div class="r{" has-rad" if text else ""}" data-l="{first}" data-k="{root_key(r)}"'
                      f'{" tabindex=0 role=button aria-expanded=false" if text else ""}>'
@@ -1165,7 +1194,7 @@ def main():
                      f'<span class="tx rlinks">{links}</span>{rad}</div>')
     roots_body = f'''<section class="browse">
   <h1>Roots</h1>
-  <p class="lede">Every root the entries name, and the groups whose words come from it. The Hebrew beside a root is how Radak opens his entry for it in <em>Sefer HaShorashim</em>; open the row to read the entry whole.</p>
+  <p class="lede">Every root the entries name, and the groups whose words come from it. Beside each root is what Radak gives it in <em>Sefer HaShorashim</em>; open the row for the rest of his entry, in English and in his own Hebrew.</p>
   <div class="letters heb">{letters}</div>
   <p class="count" id="count">{len(rmap):,} roots</p>
   <div class="rhead" aria-hidden="true"><span>Root</span><span>Groups</span><span>Radak, <em>Sefer HaShorashim</em></span></div>
@@ -1327,7 +1356,9 @@ header.bare .brand{flex:1}
 .meth{color:var(--dim);font-size:17px;font-weight:500;white-space:nowrap}
 .meth:hover{color:var(--ink);text-decoration:none}
 .meth.on{color:var(--ink)}
-.seg a.ix{font-family:var(--heb);font-size:1.08em;line-height:1.15;position:relative;top:2px}
+/* Frank Ruhl Libre runs small beside the interface face, so the Hebrew tabs take
+   a size of their own to sit level with A-Z rather than under it. */
+.seg a.ix{font-family:var(--heb);font-size:1.2em;line-height:1.15;position:relative;top:1px}
 .seg a{position:relative;padding:6px 18px;border-radius:7px;font-size:17px;color:var(--dim);font-weight:500}
 .seg a:hover{text-decoration:none;color:var(--ink);background:rgba(255,255,255,.55)}
 .seg a.on{background:var(--panel);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
@@ -1504,6 +1535,13 @@ header.bare .brand{flex:1}
 .rows.roots .r.has-rad{cursor:pointer}
 .rows.roots .r.has-rad:hover{background:var(--panel)}
 .rad{font-family:var(--heb);font-size:16px;line-height:1.5;color:var(--dim);overflow:hidden}
+.rad.en{font-family:inherit;font-size:14.5px;line-height:1.5;text-align:left}
+.rad-en{margin:0 0 18px;padding:0 0 15px;border-bottom:1px solid var(--line);text-align:left;
+  max-width:34em}
+.rad-en-h{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
+  font-weight:600;margin:0 0 7px}
+.rad-en-s{font-size:16px;line-height:1.55;color:var(--ink);margin:0}
+.rad-en-n{font-size:14.5px;line-height:1.65;color:var(--dim);margin:8px 0 0}
 .rhead{display:grid;grid-template-columns:110px minmax(0,220px) minmax(0,1fr);gap:18px;padding:0 6px 6px;
   border-bottom:1px solid var(--line);color:var(--faint);font-size:12px;letter-spacing:.04em;text-transform:uppercase}
 .rhead span:last-child{text-align:right}
