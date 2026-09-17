@@ -1203,6 +1203,14 @@ def main():
                                extra_js='<script>initBrowse("en");</script>'))
 
     rmap = root_map(entries)
+    # Where Radak files one of our roots under another that the list also
+    # carries (גרזן under גרז), his entry belongs to the root that owns it, and
+    # the second row points there rather than printing the same words again.
+    owner = {}
+    for r in rmap:
+        e = SHORASHIM["roots"].get(root_key(r)) or {}
+        if e and not e.get("under"):
+            owner.setdefault(e["hw"], r)
     rrows = []
     for r in sorted(rmap, key=root_sort):
         links = " &middot; ".join(f'<a href="entries/{s}.html">{html.escape(c)}</a>' for c, s in rmap[r])
@@ -1213,11 +1221,15 @@ def main():
         # Where the letters carry two of his roots, the row says both: folded,
         # שׂבע and שׁבע are one word, and neither is the row's answer alone.
         e = SHORASHIM["roots"].get(root_key(r)) or {}
-        sense = "  ".join(x for x in (gloss(part, "sense")
-                                      for part in ([e] + e.get("more", []) if e else [])) if x)
-        rad = (f'<span class="rad en">{html.escape(sense)}</span>' if sense else
+        under = owner.get(e.get("hw", "")) if e.get("under") else None
+        sense = "" if under and under != r else "  ".join(
+            x for x in (gloss(part, "sense") for part in ([e] + e.get("more", []) if e else [])) if x)
+        rad = (f'<span class="rad points">Radak has this under '
+               f'<a href="#r-{root_key(under)}" dir="rtl" lang="he">{html.escape(under)}</a></span>'
+               if under and under != r else
+               f'<span class="rad sense">{html.escape(sense)}</span>' if sense else
                f'<span class="rad" dir="rtl" lang="he">{html.escape(radak_opening(text))}</span>'
-               if text else '<span class="rad"></span>')
+               if text and not under else '<span class="rad"></span>')
         rrows.append(f'<div class="r{" has-rad" if text else ""}" data-l="{first}" data-k="{root_key(r)}"'
                      f'{" tabindex=0 role=button aria-expanded=false" if text else ""}>'
                      f'<span class="h" id="r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</span>'
@@ -1354,6 +1366,7 @@ CSS = r""":root{
      sources panel and its heading, so a group can be read by colour. */
   --bg:#fbf9f4; --panel:#fff; --ink:#1d1d1f; --dim:#6b675f; --faint:#8f8a7e;
   --line:#ebe6da; --accent:#1d6b2a; --accent-soft:#e6efe2; --shadow:0 1px 3px rgba(60,50,30,.06),0 8px 28px rgba(60,50,30,.05);
+  --ui:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Inter,system-ui,sans-serif;
   --radius:14px; --heb:"Frank Ruhl Libre","SF Hebrew","Noto Sans Hebrew","Arial Hebrew","Times New Roman",serif;
   --brand:#14601f; --brand-sub:#2f6b3a;
   --gold:#8a6d2a; --gold-soft:#f2e8cf;
@@ -1575,13 +1588,16 @@ header.bare .brand{flex:1}
 .rows.roots .r.has-rad{cursor:pointer}
 .rows.roots .r.has-rad:hover{background:var(--panel)}
 .rad{font-family:var(--heb);font-size:16px;line-height:1.5;color:var(--dim);overflow:hidden}
-.rad.en{font-family:inherit;font-size:14.5px;line-height:1.5;text-align:left}
-.rad-en{margin:0 0 18px;padding:0 0 15px;border-bottom:1px solid var(--line);text-align:left;
-  max-width:34em}
-.rad-en-h{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
-  font-weight:600;margin:0 0 7px}
-.rad-en-s{font-size:16px;line-height:1.55;color:var(--ink);margin:0}
-.rad-en-n{font-size:14.5px;line-height:1.65;color:var(--dim);margin:8px 0 0}
+.rad.sense{font:400 15px/1.5 var(--ui);color:var(--ink);text-align:left}
+.rad.points{font:400 14px/1.5 var(--ui);color:var(--faint);text-align:left}
+.rad.points a{font-size:16px;color:var(--dim)}
+.rad-en{font-family:var(--ui);margin:0 0 18px;padding:0 0 16px;text-align:left;max-width:33em;
+  border-bottom:1px solid var(--line)}
+.rad-en-h{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);
+  font-weight:600;margin:0 0 8px}
+.rad-en-s{font:400 16.5px/1.5 var(--ui);color:var(--ink);margin:0}
+.rad-en-n{font:400 15px/1.6 var(--ui);color:var(--dim);margin:9px 0 0}
+.rad-en bdi,.rad-en-s bdi{font-family:var(--heb)}
 .rhead{display:grid;grid-template-columns:110px minmax(0,220px) minmax(0,1fr);gap:18px;padding:0 6px 6px;
   border-bottom:1px solid var(--line);color:var(--faint);font-size:12px;letter-spacing:.04em;text-transform:uppercase}
 .rhead span:last-child{text-align:right}
@@ -1599,9 +1615,10 @@ header.bare .brand{flex:1}
 .rad-body .ref.on{color:var(--accent);background:var(--accent-soft);border-radius:3px}
 .rad-grid{display:block}
 .rad-src{margin:16px 0 0;padding:14px 0 0;border-top:1px solid var(--line)}
-.rad-src-h{font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);
+.rad-src{font-family:var(--ui)}
+.rad-src-h{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);
   font-weight:600;margin:0 0 9px;text-align:left}
-.rad-src-none{font-size:13px;color:var(--faint);margin:0;text-align:left}
+.rad-src-none{font-size:13px;line-height:1.5;color:var(--faint);margin:0;text-align:left}
 .rad-inline{margin:4px 0 12px}
 /* Wide enough for both: his text keeps its measure and the pasuk sits beside it. */
 @media (min-width:1100px){
@@ -1612,7 +1629,7 @@ header.bare .brand{flex:1}
 }
 .rad-body p,.rad-text p{margin:0 0 14px}
 .rad-body p:last-child,.rad-text p:last-child{margin-bottom:0}
-p.rad-hw{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;font-size:13px;line-height:1.5;color:var(--dim);text-align:left;margin:0 0 4px}
+p.rad-hw{font-family:var(--ui);font-size:13px;line-height:1.5;color:var(--dim);text-align:left;margin:0 0 4px}
 .rad-body mark,.rad-text mark{background:var(--accent-soft);color:inherit;border-radius:4px;padding:0 3px}
 p.rad-hw bdi{font-family:var(--heb);font-size:17px;color:var(--accent)}
 .radak-credit{color:var(--faint);font-size:13px;margin:22px 0 0;line-height:1.5}
