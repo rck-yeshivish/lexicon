@@ -30,8 +30,10 @@ HEB = re.compile(r"[א-ת][א-ת֑-ׇ־ ]*[א-ת]")
 MARKS = re.compile(r"[֑-ׇ]")
 BASE = str.maketrans("ךםןףץ", "כמנפצ")
 BINYAN = re.compile(r"\b(hif'?il|pi'?el|nif'?al|pu'?al|hitpa'?el|hishtaf'?el|binyan)\b", re.I)
+# The house rule bars journey as a figure, not a day's journey, which is what
+# מהלך יום plainly is.
 AI = re.compile(r"\b(delve|leverage|underscore\w*|a testament to|it'?s worth noting|"
-                r"navigat\w+|journey|tapestry|realm)\b", re.I)
+                r"navigat\w+|(?<!day's )(?<!days' )journey|tapestry|realm)\b", re.I)
 # Authorities he may be said to bring, and how his Hebrew names them.
 NAMED = {
     "Rabbi Yonah": ["רבי יונה"],
@@ -39,7 +41,9 @@ NAMED = {
     "Targum Yonasan": ["תרגום יונתן", "תרגם יונתן"],
     "Targum": ["תרגום", "תרגם", "התרגום"],
     "Onkelos": ["אנקלוס"],
-    "Rabbi Yaakov ben Elazar": ["רבי יעקב בן אלעזר"],
+    "Rabbi Yaakov ben Elazar": ["רבי יעקב בן אלעזר", "רבי יעקב בן אילעזר"],
+    "Rav Saadiah Gaon": ["רבי סעדיה", "סעדיה"],
+    "the Mesorah": ["המסורת", "המסורה"],
     "Rav Yitzchak ibn Giat": ["יצחק אבן גיאת"],
     "Rashi": ["רבינו שלמה", "רש\"י"],
     "the Gaon": ["הגאון"],
