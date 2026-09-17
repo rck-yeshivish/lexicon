@@ -1,7 +1,7 @@
 ---
 cluster: horse
 hebrew: [סוס, רכש, אחשתרנים, רמכים, רמך]
-roots: [ס-ו-ס, ר-כ-ש, א-ח-ש-ת-ר-ן, ר-מ-כ]
+roots: [ס-ו-ס, ר-כ-ש, א-ח-ש-ת-ר-ן, ר-מ-ך]
 translit: [sus, susim, sussim, rechesh, rechashim, richashei, achashtranim, achashtran, remachim, ramach, ramachim, sasson]
 english: [horse, courier horse, steed, mule, mare]
 domain: nature

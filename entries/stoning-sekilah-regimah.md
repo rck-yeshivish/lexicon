@@ -1,7 +1,7 @@
 ---
 cluster: stoning
 hebrew: [סקילה, רגימה, מרגמה, רגם]
-roots: [ס-ק-ל, ר-ג-מ, ר-ג]
+roots: [ס-ק-ל, ר-ג-ם, ר-ג]
 translit: [sekilah, skilah, sakal, saklu, sakel, regimah, regem, ragam, ragmuhu, regimaso, margeimah, targum, argaman]
 english: [stoning, pelting, clearing of stones, sling]
 domain: action

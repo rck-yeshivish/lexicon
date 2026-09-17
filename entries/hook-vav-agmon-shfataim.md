@@ -1,7 +1,7 @@
 ---
 cluster: hook
 hebrew: [וו, ווים, אגמון, שפתים, אנקליות, אגם, גמא]
-roots: [ו-ו, א-ג-ם, ש-פ-ת, ש-פ, ג-מ]
+roots: [ו-ו, א-ג-ם, ש-פ-ת, ש-ף, ג-ם]
 translit: [vav, vavim, vavin, agmon, agmonim, shfataim, shefataim, shefatayim, ankliyot, onkliyot, ankliyos, agam, gome, gomeh, shefi, ashafim, shefifon, hegmon]
 english: [hook, hanger, hooked reed, ledge, hearth]
 domain: other

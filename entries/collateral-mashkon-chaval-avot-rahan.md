@@ -1,7 +1,7 @@
 ---
 cluster: collateral
 hebrew: [משכון, חבל, עבוט, רהן, אפותיקי]
-roots: [ש-כ-נ, ח-ב-ל, ע-ב-ט, ר-ה-נ]
+roots: [ש-כ-ן, ח-ב-ל, ע-ב-ט, ר-ה-ן]
 translit: [mashkon, maskon, mashkanta, lemashken, chaval, chavol, choveil, chavalah, avot, avote, ivet, rahan, rahon, apoteiki, apotiki, apotekai, upoteke]
 english: [collateral, pledge, security, distrain, deposit, designated property]
 domain: society

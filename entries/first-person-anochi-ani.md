@@ -1,7 +1,7 @@
 ---
 cluster: first person
 hebrew: [אנכי, אני, אנך]
-roots: [א-נ-כ, א-נ]
+roots: [א-נ-ך, א-ן]
 translit: [anochi, anoki, ani, anoch, anach]
 english: [I, I myself, plumb line]
 domain: speech

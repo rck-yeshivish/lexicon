@@ -1,7 +1,7 @@
 ---
 cluster: money
 hebrew: [ממון, דמים, מעות, זוז, כסף, מחיר, הון, רכוש]
-roots: [מ-נ-ה, א-מ-נ, ד-מ-ה, ז-ו-ז, כ-ס-ף, מ-כ-ר]
+roots: [מ-נ-ה, א-מ-ן, ד-מ-ה, ז-ו-ז, כ-ס-ף, מ-כ-ר]
 translit: [mammon, mamon, mammonos, mammonot, damim, damin, dmei, demei, maos, maot, maah, zuz, zuzim, kesef, mechir, mecher, hon, rechush, geirah, gera, maneh, maos chitim]
 english: [money, funds, price, value, cash, coin, silver]
 domain: society

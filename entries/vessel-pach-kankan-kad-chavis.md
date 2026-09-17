@@ -1,7 +1,7 @@
 ---
 cluster: vessel
 hebrew: [פך, קנקן, כד, חבית, קנה]
-roots: [פ-כ-ה, פ-כ, ק-נ-ק-ן, כ-ד, ח-ב-ת, ק-נ-ה]
+roots: [פ-כ-ה, פ-ך, ק-נ-ק-ן, כ-ד, ח-ב-ת, ק-נ-ה]
 translit: [pach, pachim, kankan, kankanim, kad, kadim, chavit, chavis, chaviyot, kaneh, kanim, puch, nofech, mefakim]
 english: [flask, jug, jar, pitcher, barrel, reed, tube]
 domain: other

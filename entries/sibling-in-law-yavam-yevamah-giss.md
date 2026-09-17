@@ -1,7 +1,7 @@
 ---
 cluster: sibling-in-law
 hebrew: [יבם, יבמה, ייבום, גיס, גיסה, חתן, במה]
-roots: [י-ב-ם, ב-מ, ג-ס, ח-ת-ן]
+roots: [י-ב-ם, ב-ם, ג-ס, ח-ת-ן]
 translit: [yavam, yevamah, yevamos, yevamot, yibbum, yibum, giss, gis, gass, agiss, gisa, gissa, gissim, choten, chosen, bamah, gassus, gassut ruach]
 english: [brother-in-law, sister-in-law, levirate marriage, father-in-law, private altar, high place]
 domain: society

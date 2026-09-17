@@ -1,7 +1,7 @@
 ---
 cluster: plain
 hebrew: [מישור, שרון, איל, ככר, אבל, פדן]
-roots: [י-ש-ר, ש-ר-ה, א-ל, כ-ר, א-ב-ל, פ-ד-נ]
+roots: [י-ש-ר, ש-ר-ה, א-ל, כ-ר, א-ב-ל, פ-ד-ן]
 translit: [mishor, meishar, mishur, sharon, sharona, eil, eil paran, elon, eilonei, alon, elah, ayil, ayalah, kikar, kar, avel, aveil, padan, padan aram, yashar, shdeimah, emek, bikah]
 english: [plain, flatland, level ground, grassland, prairie, field]
 domain: nature

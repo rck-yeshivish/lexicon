@@ -1,7 +1,7 @@
 ---
 cluster: garden
 hebrew: [גן, גנה, פרדס, בוסתן, קן, מגן]
-roots: [ג-נ, ג-נ-נ, ג, פ-ר-ד-ס, פ-ר-ד]
+roots: [ג-ן, ג-נ-ן, ג, פ-ר-ד-ס, פ-ר-ד]
 translit: [gan, ginah, gina, ginot, ginos, ginunyita, pardes, pardeis, pardesim, pardeisim, bustan, bustana, bostan, haganah, hagana, magen, yagen, migen, agan, niggun, nigun, ken, kan tzipor]
 english: [garden, orchard, park, enclosure, paradise]
 domain: nature

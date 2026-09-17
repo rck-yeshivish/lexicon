@@ -1,7 +1,7 @@
 ---
 cluster: clouds
 hebrew: [ענן, עב, אד, נשיא, חזיז, נבל, כף, נוד]
-roots: [ע, ע-ב, ד, נ-ש-א, ח-ז, נ-ב-ל, כ-פ]
+roots: [ע, ע-ב, ד, נ-ש-א, ח-ז, נ-ב-ל, כ-ף]
 translit: [anan, ananim, av, avim, eid, ed, eidim, edim, nasi, nesiim, nesi'im, chaziz, chazizim, neivel, nevel, nivlei shamayim, kaf, kapayim, nod, shadayim]
 english: [cloud, thundercloud, thick cloud, mist, rain cloud, vapor]
 domain: nature

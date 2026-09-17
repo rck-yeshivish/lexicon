@@ -1,7 +1,7 @@
 ---
 cluster: curtain
 hebrew: [פרוכת, מסך, וילון, פרגוד]
-roots: [פ-ר-כ, ס-כ, פ-ר-ג-ד]
+roots: [פ-ר-ך, ס-ך, פ-ר-ג-ד]
 translit: [parochet, paroches, poroches, masach, massach, vilon, vilan, pargod, pargodim, perech, pircha, maseichah, sechach, sukkah]
 english: [curtain, partition, screen, veil, divider]
 domain: ritual

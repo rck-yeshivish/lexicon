@@ -1,7 +1,7 @@
 ---
 cluster: cattle
 hebrew: [שור, פר, פרה, עגל, עגלה, אלף, בקר, בוקר]
-roots: [ש-ו-ר, ש-ר, פ-ר, ע-ג-ל, א-ל-פ, ל-פ, ב-ק-ר]
+roots: [ש-ו-ר, ש-ר, פ-ר, ע-ג-ל, א-ל-ף, ל-ף, ב-ק-ר]
 translit: [shor, tor, par, parah, para, egel, eglah, egla, aleph, elef, aluf, alafim, bakar, boker, voker, igul, shar, sharir]
 english: [ox, bull, cow, heifer, calf, cattle, herdsman]
 domain: nature

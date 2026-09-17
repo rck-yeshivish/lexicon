@@ -1,7 +1,7 @@
 ---
 cluster: tree
 hebrew: [עץ, אילן, אילנא]
-roots: [ע-צ, ע-צ-ם, א-י-ל-ן]
+roots: [ע-ץ, ע-צ-ם, א-י-ל-ן]
 translit: [eitz, etz, atzei, eitzim, ilan, ilana, ilanos, ilanot, atzum, etzem]
 english: [tree, wood, timber]
 domain: nature

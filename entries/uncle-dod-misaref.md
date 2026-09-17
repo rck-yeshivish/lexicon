@@ -1,7 +1,7 @@
 ---
 cluster: uncle
 hebrew: [דוד, דודה, מסרפו, מסרף, שרף, אחבוה, חביבי]
-roots: [ד, ד-ו-ד, ס-ר-פ, ש-ר-פ]
+roots: [ד, ד-ו-ד, ס-ר-ף, ש-ר-ף]
 translit: [dod, dode, dodah, doda, misaref, mesaref, misarfo, mesarfo, seraf, saraf, achvuhi, achvuh, chaviv, chabib, chavivi, sarapf, sarif]
 english: [uncle, paternal uncle, maternal uncle, aunt, kinsman]
 domain: society

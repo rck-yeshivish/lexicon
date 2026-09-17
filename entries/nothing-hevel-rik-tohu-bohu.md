@@ -1,7 +1,7 @@
 ---
 cluster: nothing
 hebrew: [הבל, ריק, אפס, תהו, בהו, בלימה, מאומה, כלום, מה, בלי]
-roots: [ה-ב-ל, ב-ל, ר-י-ק, ר-ק, א-פ-ס, פ-ס, ס-פ, ת-ה-ה, ת, ב, מ-ה, מ-מ, ב-ל-ם]
+roots: [ה-ב-ל, ב-ל, ר-י-ק, ר-ק, א-פ-ס, פ-ס, ס-ף, ת-ה-ה, ת, ב, מ-ה, מ-ם, ב-ל-ם]
 translit: [hevel, hevle, havel, rik, reik, reikanya, larik, varik, reikam, efes, afes, tohu, sohu, bohu, vohu, toheh, tohe, tahiya, bahiya, blimah, blima, bli, meumah, meuma, meum, klum, mah, mahshehu, kolshehu, tehom]
 english: [futility, vanity, emptiness, for naught, formless, void, nothing, anything, nothingness]
 domain: other

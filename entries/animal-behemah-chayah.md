@@ -1,7 +1,7 @@
 ---
 cluster: animal
 hebrew: [בהמה, בהמות, חיה, חיות]
-roots: [ב-ה-מ, ח-י-ה]
+roots: [ב-ה-ם, ח-י-ה]
 translit: [behemah, beheimah, behema, behemot, behemos, beheimos, chayah, chaya, chayot, chayos]
 english: [animal, beast, domesticated animal, wild animal, livestock]
 domain: nature

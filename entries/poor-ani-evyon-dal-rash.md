@@ -1,7 +1,7 @@
 ---
 cluster: poverty
 hebrew: [עני, אביון, מסכן, רש, דל, דך, מך, איש תככים, הלך]
-roots: [ע-נ-י, א-ב-ה, ס-כ-נ, י-ר-ש, ד-ל-ל, ד-כ-כ, מ-כ-כ, ת-כ-כ, ה-ל-כ]
+roots: [ע-נ-י, א-ב-ה, ס-כ-ן, י-ר-ש, ד-ל-ל, ד-כ-ך, מ-כ-ך, ת-כ-ך, ה-ל-ך]
 translit: [ani, oni, evyon, evyonim, misken, miskein, rash, dal, dakh, dach, mach, mak, ish techachim, ish tochachim, heilech, helech, matanos laevyonim, matanot laevyonim, inui, taav, sakanah, deli]
 english: [poor, destitute, needy, unfortunate, dispossessed, crushed, downtrodden, wanderer]
 domain: society

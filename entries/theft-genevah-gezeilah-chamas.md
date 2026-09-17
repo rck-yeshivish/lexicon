@@ -1,7 +1,7 @@
 ---
 cluster: theft
 hebrew: [גניבה, גנב, גזילה, גזלן, חמס, חמסן, חמצן, לסטים]
-roots: [ג-נ-ב, ג-ז, ג-ז-ל, ח-מ-ס, ח-מ-צ]
+roots: [ג-נ-ב, ג-ז, ג-ז-ל, ח-מ-ס, ח-מ-ץ]
 translit: [genevah, genivah, geneivah, ganav, gannav, gezeilah, gezelah, gezel, gazlan, gozel, chamas, chamsan, chometz, chamtzan, listim, listin, lilastem]
 english: [stealing, theft, robbery, plunder, violence, extortion, brigand]
 domain: action

@@ -1,7 +1,7 @@
 ---
 cluster: names of Mordechai and Esther
 hebrew: [מרדכי, פתחיה, בלשן, אסתר, הדסה]
-roots: [פ-ת-ח, ל-ש-נ, ס-ת-ר, ה-ד-ס]
+roots: [פ-ת-ח, ל-ש-ן, ס-ת-ר, ה-ד-ס]
 translit: [mordechai, mordecai, merodach, petachyah, pesachyah, bilshan, esther, ester, istahar, hadassah, hadasa, hadas, assa]
 english: [Mordechai, Petachyah, Bilshan, Esther, Hadassah]
 domain: other

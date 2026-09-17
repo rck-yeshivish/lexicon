@@ -1,7 +1,7 @@
 ---
 cluster: phylacteries
 hebrew: [טוטפות, טוטפת, תפילין, תפילה, נטיפות]
-roots: [ט-ט-פ, ט-פ, פ-ל-ל, ת-פ-ל, פ-ת-ל]
+roots: [ט-ט-ף, ט-ף, פ-ל-ל, ת-פ-ל, פ-ת-ל]
 translit: [totafot, totafos, totefes, totafta, tefillin, tefilin, tefillah, tefilah, tefillav, netifos, ptil, pesil]
 english: [phylacteries, tefillin, frontlets, head-ornament]
 domain: ritual

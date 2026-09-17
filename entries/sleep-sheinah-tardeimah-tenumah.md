@@ -1,7 +1,7 @@
 ---
 cluster: sleep
 hebrew: [שינה, תרדמה, תנומה, לינה, דורמיטא, ישן, שכיבה]
-roots: [י-ש-נ, ש-נ, ר-ד-ם, ר-ד, נ-ו-ם, נ-ם, ל-ו-נ, ל-י-נ]
+roots: [י-ש-ן, ש-ן, ר-ד-ם, ר-ד, נ-ו-ם, נ-ם, ל-ו-ן, ל-י-ן]
 translit: [sheinah, sheina, sheintah, yashein, yashen, yashan, tardeimah, tardema, radum, tenumah, tenuma, misnamnem, mitnamnem, nim, linah, lina, lalin, lalun, malon, durmitah, durmita, shechivah, hozim]
 english: [sleep, slumber, deep sleep, dozing, drowsiness, lodging overnight]
 domain: body

@@ -1,7 +1,7 @@
 ---
 cluster: teaching
 hebrew: [הוראה, למוד, אלף, הדרכה, תורה, תלפיות, אלוף]
-roots: [י-ר-ה, ל-מ-ד, א-ל-פ, ד-ר-כ, ת-ו-ר]
+roots: [י-ר-ה, ל-מ-ד, א-ל-ף, ד-ר-ך, ת-ו-ר]
 translit: [horaah, hora'ah, lhorot, lehorot, yoreh, moreh, limmud, limud, lelamed, llamed, melamed, malmad, alef, aleph, alaf, yalif, yalfuta, ulpan, hadrachah, madrich, derech, torah, orayta, talpiyot, talpiyos, aluf, elef, yalefes, yalefet, lefet]
 english: [instruction, teaching, drilling, training, guidance, counsel, ruling]
 domain: cognition

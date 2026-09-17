@@ -1,7 +1,7 @@
 ---
 cluster: disgrace
 hebrew: [בזיון, קלון, זלזול, גנאי, גנות]
-roots: [ב-ז-ה, ב-ז, ק-ל-ן, ק-ל, ז-ל-ז-ל, ז-ל, ג-נ-ה, ג-נ]
+roots: [ב-ז-ה, ב-ז, ק-ל-ן, ק-ל, ז-ל-ז-ל, ז-ל, ג-נ-ה, ג-ן]
 translit: [bizayon, bizayyon, bizzayon, vayivez, bazui, bozeh, bozei, kalon, mekaleh, kal, kelalah, klalah, zilzul, zilzel, zal, zolel, zalzal, zol, gnai, genai, genus, genut, megunah, meguneh]
 english: [disparagement, disgrace, dishonor, cheapening, shame, insult]
 domain: speech

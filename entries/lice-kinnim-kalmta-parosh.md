@@ -1,7 +1,7 @@
 ---
 cluster: lice
 hebrew: [כנים, כנם, כנה, כן, קלמתא, כלמי, פרעש]
-roots: [כ-נ, כ-נ-ם, ק-ל-ם, פ-ר-ע-ש]
+roots: [כ-ן, כ-נ-ם, ק-ל-ם, פ-ר-ע-ש]
 translit: [kinnim, kinim, kinam, kinah, kein, ken, kalmta, kalmei, kalmi, parosh, paros, kinui, kan, kavanah, hachanah]
 english: [lice, louse, flea, nit]
 domain: nature

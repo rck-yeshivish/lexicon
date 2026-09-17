@@ -1,7 +1,7 @@
 ---
 cluster: species
 hebrew: [מין, זן, סוג, מינים, תמונה]
-roots: [מ-נ, מ-י-ן, ז-נ, ס-ג, ג-ס]
+roots: [מ-ן, מ-י-ן, ז-ן, ס-ג, ג-ס]
 translit: [min, minim, minnim, minei, zan, zen, znim, zenei, sug, sugim, temunah, temuna, minyan, moneh]
 english: [species, kind, type, sort, category, genus]
 domain: nature

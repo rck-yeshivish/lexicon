@@ -1,7 +1,7 @@
 ---
 cluster: place
 hebrew: [מקום, אתר, דוכתא, אשר]
-roots: [ק-ו-ם, א-ת-ר, ד-ו-כ, א-ש-ר]
+roots: [ק-ו-ם, א-ת-ר, ד-ו-ך, א-ש-ר]
 translit: [makom, mokom, mekomot, mekomos, atar, atra, asra, atarim, haatarim, duchta, ducha, duch, asher, komah, kumah, kiyum, nekamah]
 english: [place, site, location, spot]
 domain: other

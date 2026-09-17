@@ -1,7 +1,7 @@
 ---
 cluster: bone
 hebrew: [עצם, גרם, גרמא, גרמני]
-roots: [ע-צ-מ, ג-ר-מ, ג-ר]
+roots: [ע-צ-ם, ג-ר-ם, ג-ר]
 translit: [etzem, atzamos, atzamot, atzmi, atzmo, atzmus, gerem, garem, garmei, geramim, grama, garmi, gorem, germani, garmani, hagramah, yigarem]
 english: [bone, self, itself, strength, causation, indirect cause, white-skinned]
 domain: body

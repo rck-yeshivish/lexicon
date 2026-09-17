@@ -1,7 +1,7 @@
 ---
 cluster: grapevine
 hebrew: [גפן, שורק, שורקה, שדמה, שריג, סרק]
-roots: [ג-פ-נ, ג-פ, ש-ר-ק, ש-ד-ם, ש-ד, ש-ר-ג, ס-ר-ק]
+roots: [ג-פ-ן, ג-ף, ש-ר-ק, ש-ד-ם, ש-ד, ש-ר-ג, ס-ר-ק]
 translit: [gefen, gafna, sorek, soreik, sorekah, shdeimah, shedeimah, shdeimot, shdeimos, sarig, sarigim, srak, serak, gaf, guf, agaf, mageifah]
 english: [grapevine, vine, choice vine, tendril, field, barren tree]
 domain: nature

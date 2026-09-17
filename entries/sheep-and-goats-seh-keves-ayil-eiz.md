@@ -1,7 +1,7 @@
 ---
 cluster: sheep and goats
 hebrew: [שה, צאן, עז, תיש, גדי, שעיר, רחל, איל, כבש, כשב, טלה, עתוד, יובל]
-roots: [ש-ה, צ-א-נ, ע-ז, ת-י-ש, ג-ד-י, ש-ע-ר, ר-ח-ל, א-י-ל, כ-ב-ש, כ-ש-ב, ט-ל-ה, ע-ת-ד, י-ב-ל]
+roots: [ש-ה, צ-א-ן, ע-ז, ת-י-ש, ג-ד-י, ש-ע-ר, ר-ח-ל, א-י-ל, כ-ב-ש, כ-ש-ב, ט-ל-ה, ע-ת-ד, י-ב-ל]
 translit: [seh, tzon, eiz, ez, izzim, tayish, tayesh, gedi, gediya, seir, sair, seirah, seir izzim, tzfir, rachel, rechelim, ayil, eilim, keves, kevesh, kivsah, kesev, kisbah, tleh, tle, taleh, atud, atudim, yovel, karim, meri, meriim, zachar shel rechalim]
 english: [lamb, flock, she-goat, he-goat, kid, ram, ewe, young sheep, buck, fatling]
 domain: nature

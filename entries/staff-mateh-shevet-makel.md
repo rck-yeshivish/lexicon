@@ -1,7 +1,7 @@
 ---
 cluster: staff and tribe
 hebrew: [מטה, שבט, משענת, מקל, שרביט, חוטר, חוטרא]
-roots: [נ-ט-ה, ש-ב-ט, ש-ע-נ, מ-ק-ל, ש-ר-ב, ח-ט-ר]
+roots: [נ-ט-ה, ש-ב-ט, ש-ע-ן, מ-ק-ל, ש-ר-ב, ח-ט-ר]
 translit: [mateh, matot, matos, mattos, shevet, shevatim, shvatim, mishenet, mishenes, mishan, makel, maklot, maklos, malkot, malkos, makkot, sharvit, sharvis, choter, chutra, shotim, shoteir]
 english: [staff, rod, tribe, cane, stick, scepter, branch]
 domain: society

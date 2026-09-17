@@ -1,7 +1,7 @@
 ---
 cluster: worm
 hebrew: [רימה, תולעה, תולע, תולעת, מתלעות, לע]
-roots: [ר-מ-ם, ר-מ, ת-ל-ע, ל-ע]
+roots: [ר-מ-ם, ר-ם, ת-ל-ע, ל-ע]
 translit: [rimah, rima, toleah, tolea, tola, tolaas, tolaat, tolaim, mitalot, mesalos, metalot, loa, vayarum]
 english: [maggot, worm, larva, teeth, throat]
 domain: nature

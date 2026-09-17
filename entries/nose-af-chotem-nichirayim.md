@@ -1,7 +1,7 @@
 ---
 cluster: nose
 hebrew: [אף, חוטם, נחירים, חור, אפים]
-roots: [א-פ, א-נ-פ, ח-ט-ם, נ-ח-ר, ח-ר]
+roots: [א-ף, א-נ-ף, ח-ט-ם, נ-ח-ר, ח-ר]
 translit: [af, ahf, apayim, appayim, anpin, chotem, chotam, chotmin, chotmim, echetam, nichirayim, nechirayim, nechirah, chor, chomet, charum, charon af, erech apayim]
 english: [nose, nostril, face, anger]
 domain: body

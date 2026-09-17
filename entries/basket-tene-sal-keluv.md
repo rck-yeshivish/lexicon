@@ -1,7 +1,7 @@
 ---
 cluster: basket
 hebrew: [טנא, סל, כלוב, דוד, כלכלה, כפיפה]
-roots: [ט-נ, ס-ל, כ-ל-ב, ד-ו-ד, כ-ל-כ-ל, כ-פ-ף]
+roots: [ט-ן, ס-ל, כ-ל-ב, ד-ו-ד, כ-ל-כ-ל, כ-פ-ף]
 translit: [tene, teneh, teni, sal, salim, sala, keluv, kluv, dud, dudim, kalkalah, kalkala, kefifah, kefifa, kfifah, eitun]
 english: [basket, fruit basket, bread basket, cage, hamper, wicker basket]
 domain: other

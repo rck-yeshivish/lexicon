@@ -1,7 +1,7 @@
 ---
 cluster: table
 hebrew: [שולחן, פתורא, טכא, טבלא]
-roots: [ש-ל-ח, ש-ל-ח-נ, ט-ב-ל]
+roots: [ש-ל-ח, ש-ל-ח-ן, ט-ב-ל]
 translit: [shulchan, shulchani, petora, petorah, patora, patorta, petoraah, taka, takka, tuku, tavla, tabla, tavlah]
 english: [table, board, tray-table, moneychanger]
 domain: other

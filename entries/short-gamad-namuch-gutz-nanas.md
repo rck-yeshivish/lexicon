@@ -1,7 +1,7 @@
 ---
 cluster: shortness of stature
 hebrew: [גמד, גומד, נמוך, גוץ, ננס, גדם, מך]
-roots: [ג-מ-ד, מ-כ, ג-ו-צ, נ-נ-ס]
+roots: [ג-מ-ד, מ-ך, ג-ו-ץ, נ-נ-ס]
 translit: [gamad, gamadim, gomed, gemed, namuch, namoch, nemucha, gutz, gutza, nanas, nanaset, nanasin, gidem, mach, gamda]
 english: [short, dwarf, low, stunted, truncated]
 domain: body

@@ -1,7 +1,7 @@
 ---
 cluster: wine
 hebrew: [יין, תירוש, חמר, חמרא, שכר, עסיס, מלאה, סבא, דמע, סמדר]
-roots: [י-י-ן, י-נ, י-נ-ה, ת-י-ר-ש, ר-ש, י-ר-ש, ח-מ-ר, ח-מ, ש-כ-ר, ס-ב-א, ס-ב, ע-ס-ס]
+roots: [י-י-ן, י-ן, י-נ-ה, ת-י-ר-ש, ר-ש, י-ר-ש, ח-מ-ר, ח-ם, ש-כ-ר, ס-ב-א, ס-ב, ע-ס-ס]
 translit: [yayin, yayn, yain, tirosh, tiroush, chemer, chamer, chamar, chamra, shechar, sheichar, sove, sava, assis, asis, melayah, dima, smadar, semadar]
 english: [wine, new wine, unfermented grape juice, red wine, strong drink, pressed juice]
 domain: other

@@ -1,7 +1,7 @@
 ---
 cluster: famine
 hebrew: [רעב, כפן, בצורת]
-roots: [ר-ע-ב, כ-פ-נ, ב-צ-ר]
+roots: [ר-ע-ב, כ-פ-ן, ב-צ-ר]
 translit: [raav, raavon, kafan, kefan, kafna, kefina, kafnah, batzores, batzoret, shnas batzores, shnat batzoret, ultzan, ultzana, kefiyah]
 english: [famine, hunger, starvation, drought, dearth]
 domain: nature

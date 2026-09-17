@@ -1,7 +1,7 @@
 ---
 cluster: pressure
 hebrew: [לחץ, דחק, נגישה, נוגשים, אץ, אלץ]
-roots: [ל-ח-צ, ד-ח-ק, נ-ג-ש, ג-ש, א-צ, צ, א-ל-צ, ל-צ]
+roots: [ל-ח-ץ, ד-ח-ק, נ-ג-ש, ג-ש, א-ץ, צ, א-ל-ץ, ל-ץ]
 translit: [lachatz, lochatzim, lochatz, dchak, dechak, d'chak, negisah, negisha, nogsim, noges, yigos, nosheh, atz, atzim, vayaitzu, alatz, vateiltzeihu]
 english: [pressure, squeeze, crowding, pressing, driving, urging]
 domain: action

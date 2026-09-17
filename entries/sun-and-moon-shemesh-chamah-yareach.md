@@ -1,7 +1,7 @@
 ---
 cluster: sun and moon
 hebrew: [שמש, חמה, חרס, ירח, לבנה, סהר]
-roots: [ש-מ-ש, ח-מ, ח-ר-ס, י-ר-ח, א-ר-ח, ל-ב-ן, ס-ה-ר]
+roots: [ש-מ-ש, ח-ם, ח-ר-ס, י-ר-ח, א-ר-ח, ל-ב-ן, ס-ה-ר]
 translit: [shemesh, shamash, shimush, chamah, chama, chamanim, cheres, charas, yareach, yaraiach, yerach, orach, oreach, levanah, levana, lavan, sahar, sohar, saharonim, maor]
 english: [sun, moon, the hot one, the white one, crescent]
 domain: nature

@@ -1,7 +1,7 @@
 ---
 cluster: angel classes
 hebrew: [כרובים, חיות, אופנים, אראלים, חשמלים, שרפים, מלאכים, אלהים, בני אלהים, אישים, עירין, קדישין, גלגלים]
-roots: [כ-ר-ב, ח-י-ה, א-פ-נ, א-ר-ל, ח-ש-מ-ל, ש-ר-פ, מ-ל-א-ך, א-י-ש, ע-י-ר]
+roots: [כ-ר-ב, ח-י-ה, א-פ-ן, א-ר-ל, ח-ש-מ-ל, ש-ר-ף, מ-ל-א-ך, א-י-ש, ע-י-ר]
 translit: [kruvim, keruvim, keruv, kruv, chayos, chayot, chayos hakodesh, ofanim, ophanim, ofan, erelim, erel, chashmalim, chashmal, serafim, seraphim, malachim, malach, elohim, elokim, bnei elohim, ishim, irin, kadishin, galgalim, ravia, abirim]
 english: [cherubim, living beings, wheels, angels, fiery ones, watchers]
 domain: other

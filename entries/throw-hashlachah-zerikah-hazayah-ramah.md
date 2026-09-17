@@ -1,7 +1,7 @@
 ---
 cluster: throwing
 hebrew: [השלכה, זריקה, הזיה, רמה]
-roots: [ש-ל-כ, ז-ר-ק, נ-ז-ה, ר-מ-ה]
+roots: [ש-ל-ך, ז-ר-ק, נ-ז-ה, ר-מ-ה]
 translit: [hashlachah, hashlacha, vayashlech, vatashlech, zerikah, zerika, zarak, zarko, hazayah, hazaya, ramah, rama]
 english: [throw away, drop, cast, throw, sprinkle, hurl, shoot]
 domain: action

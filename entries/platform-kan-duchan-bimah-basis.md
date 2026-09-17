@@ -1,7 +1,7 @@
 ---
 cluster: platform
 hebrew: [כן, דוכן, בימה, בסיס, אצטבא, במה]
-roots: [כ-נ, ד-ו-כ, ב-מ-ה]
+roots: [כ-ן, ד-ו-ך, ב-מ-ה]
 translit: [kan, kein, ken, duchan, duchen, duchenen, duchta, bimah, bima, bamah, almemar, almemor, basis, besisi, itztaba, itztava, istaba, nachon, tochnit, tochnis, hachanah, kavanah, kohen]
 english: [base, pedestal, stand, post, platform, stage, dais]
 domain: other

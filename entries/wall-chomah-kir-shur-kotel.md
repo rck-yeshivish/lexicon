@@ -1,7 +1,7 @@
 ---
 cluster: wall
 hebrew: [חומה, קיר, שור, חיל, חיץ, כותל, מחיצה]
-roots: [ח-מ, ק-ר, ש-ר, ח-ל, ח-צ, כ-ת-ל]
+roots: [ח-ם, ק-ר, ש-ר, ח-ל, ח-ץ, כ-ת-ל]
 translit: [chomah, choma, chomos, chomot, kir, kiros, shur, shura, shor, cheil, cheyl, chayitz, chaitz, kotel, kosel, ktal, mechitzah, mechitza, karkar, korah, tikrah, shoresh, yashar]
 english: [wall, city wall, rampart, partition, structural wall]
 domain: other

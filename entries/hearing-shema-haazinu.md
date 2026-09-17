@@ -1,7 +1,7 @@
 ---
 cluster: hearing
 hebrew: [שמע, האזין, אוזן]
-roots: [ש-מ-ע, א-ז-נ]
+roots: [ש-מ-ע, א-ז-ן]
 translit: [shema, shma, tishma, shamoa, shomea, haazinu, haazin, haazanah, ozen]
 english: [hear, hearken, listen, give ear]
 domain: cognition

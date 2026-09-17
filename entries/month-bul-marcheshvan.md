@@ -1,7 +1,7 @@
 ---
 cluster: the eighth month
 hebrew: [בול, מרחשון, חשון, מבול, גשם]
-roots: [ב-ל, ר-ח-ש, ח-ש-ה, ג-ש-מ]
+roots: [ב-ל, ר-ח-ש, ח-ש-ה, ג-ש-ם]
 translit: [bul, marcheshvan, mar cheshvan, cheshvan, marachshwan, shvan, mabul, geshem, yevul, bilui, bolel, mar]
 english: [Bul, Marcheshvan, Cheshvan, flood, rain]
 domain: time

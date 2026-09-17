@@ -1,7 +1,7 @@
 ---
 cluster: pushing
 hebrew: [פוצר, דוחה, דוחף, הדף, דופק]
-roots: [פ-צ-ר, ד-ח-ה, ד-ח-פ, ה-ד-פ, ד-פ-ק]
+roots: [פ-צ-ר, ד-ח-ה, ד-ח-ף, ה-ד-ף, ד-פ-ק]
 translit: [potzer, potzeir, patzar, docheh, dochech, dachah, dechitani, dechi, nidach, dochef, nidchaf, dachuf, hadof, hodef, dofek, dafak, defakum, mitdapkim, dofi, dofan, daf, dchak]
 english: [press, urge, push away, hurry, thrust, knock]
 domain: action

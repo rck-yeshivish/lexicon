@@ -1,7 +1,7 @@
 ---
 cluster: the Egyptian monarch
 hebrew: [פרעה, מלך מצרים, פרעה מלך מצרים]
-roots: [פ-ר-ע, מ-ל-כ]
+roots: [פ-ר-ע, מ-ל-ך]
 translit: [paroh, pharaoh, paro, melech mitzrayim, melech mitzraim, paroh melech mitzrayim, poel ra, peh ra, shishak, necho, chafra, melol, adikam]
 english: [Pharaoh, King of Egypt]
 domain: society

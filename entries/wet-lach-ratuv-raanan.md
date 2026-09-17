@@ -1,7 +1,7 @@
 ---
 cluster: wetness
 hebrew: [לח, רטוב, רענן, רטפש, טופח, מפולם]
-roots: [ל-ח, ר-ט-ב, ר-ע-נ, ר-ט-פ-ש, ט-פ-ח, פ-ל-מ]
+roots: [ל-ח, ר-ט-ב, ר-ע-ן, ר-ט-פ-ש, ט-פ-ח, פ-ל-ם]
 translit: [lach, leicho, lachim, ratuv, ratov, yirtavu, rotev, roteiv, raanan, ra'anan, rutfash, tofeach, tofei'ach, mefulam, mefulamot, mefulamos, marak, lechi, luach, lechem, melach]
 english: [moist, wet, soaked, fresh, sodden, damp]
 domain: nature

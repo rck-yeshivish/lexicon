@@ -1,7 +1,7 @@
 ---
 cluster: waking
 hebrew: [יקיצה, עורה, ויקץ, מקיץ, מעורר, ער, נעור]
-roots: [י-ק-צ, ק-צ, ע-ו-ר, ע-ר]
+roots: [י-ק-ץ, ק-ץ, ע-ו-ר, ע-ר]
 translit: [yekitzah, yekitza, hakitzah, vayikatz, mekitz, hekitz, oorah, urah, ori, orer, me'orer, meorer, hisorerus, hitorerut, er, itar, tir, noer, irin]
 english: [wake up, awaken, rouse, stir, be awake]
 domain: body

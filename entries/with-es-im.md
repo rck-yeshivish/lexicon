@@ -1,7 +1,7 @@
 ---
 cluster: with
 hebrew: [את, אתו, אתי, עם, עמו, עמי]
-roots: [א-ת, ע-מ]
+roots: [א-ת, ע-ם]
 translit: [es, et, ito, itto, iti, itti, itah, itam, im, imo, imi, imah, imahem, imam]
 english: [with, alongside, together with, in company with]
 domain: other

@@ -1,7 +1,7 @@
 ---
 cluster: gold
 hebrew: [זהב, פז, כתם, חרוץ, בצר]
-roots: [ז-ה-ב, פ-ז, כ-ת-ם, ח-ר-צ, ב-צ-ר]
+roots: [ז-ה-ב, פ-ז, כ-ת-ם, ח-ר-ץ, ב-צ-ר]
 translit: [zahav, zohov, dahav, paz, mufaz, meufaz, ufaz, mifazez, kesem, kessem, ketem, kosem, charutz, chorutz, betzer, betezer, batzar, katom, tapuz]
 english: [gold, fine gold, pure gold, ore, stronghold]
 domain: quantity

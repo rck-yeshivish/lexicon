@@ -1,7 +1,7 @@
 ---
 cluster: idols
 hebrew: [אלילים, פסל, מסכה, מצבה, עצבים, גלולים, תרפים, שקוצים, חמנים, אשרים]
-roots: [א-ל-ל, פ-ס-ל, נ-ס-כ, נ-צ-ב, ע-צ-ב, ג-ל-ל, ת-ר-פ, ש-ק-צ, ח-מ-מ, א-ש-ר]
+roots: [א-ל-ל, פ-ס-ל, נ-ס-ך, נ-צ-ב, ע-צ-ב, ג-ל-ל, ת-ר-ף, ש-ק-ץ, ח-מ-ם, א-ש-ר]
 translit: [elilim, elil, pesel, pesilim, masechah, masecha, matzeivah, matzevah, matzeivos, atzabim, atzavim, gilulim, gillulim, terafim, teraphim, shikutzim, shikkutzim, sheketz, chamanim, asherim, asherah, chalulim, chalalim, megualim, glalim, ishur]
 english: [idols, graven image, molten image, pillar, images, dung-idols, abominations, sun-pillars]
 domain: ritual

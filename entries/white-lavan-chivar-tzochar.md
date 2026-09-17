@@ -1,7 +1,7 @@
 ---
 cluster: white
 hebrew: [לבן, חיור, צחר, חלבון]
-roots: [ל-ב-נ, ח-ו-ר, צ-ח-ר, ח-ל-ב]
+roots: [ל-ב-ן, ח-ו-ר, צ-ח-ר, ח-ל-ב]
 translit: [lavan, laban, livnah, libbun, chivar, chiver, chivaryan, chur, chori, chorin, tzochar, tzachor, tzchorot, tzachar, chelbon, chalav, cheilev]
 english: [white, whitened, pale, pristine, combed, white wine]
 domain: nature

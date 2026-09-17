@@ -1,7 +1,7 @@
 ---
 cluster: son
 hebrew: [בן, בר, בת, ברת, בנות]
-roots: [ב-נ, ב-ר]
+roots: [ב-ן, ב-ר]
 translit: [ben, bar, bat, bas, banos, barat, beris, bar mitzvah, bas mitzvah, bar minan, binyan, binah, tevunah, avnayim]
 english: [son, daughter, child of]
 domain: society

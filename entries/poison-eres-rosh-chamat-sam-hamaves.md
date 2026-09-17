@@ -1,7 +1,7 @@
 ---
 cluster: poison
 hebrew: [ארס, סם המות, ראש, רוש, חמת, רעל, תרעלה, עכס, לענה]
-roots: [א-ר-ס, ס-מ, ר-ש, ח-מ, ר-ע-ל, ע-כ-ס]
+roots: [א-ר-ס, ס-ם, ר-ש, ח-ם, ר-ע-ל, ע-כ-ס]
 translit: [eres, iras, sam hamaves, sam hamavet, sam hachaim, samim, rosh, rowsh, chamat, chemat, raal, ra'al, tarelah, tarela, eches, achsa, laanah, la'anah]
 english: [venom, poison, deadly drug, snake venom, wormwood]
 domain: nature

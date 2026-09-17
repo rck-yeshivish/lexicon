@@ -1,7 +1,7 @@
 ---
 cluster: rock
 hebrew: [אבן, סלע, לבנה]
-roots: [א-ב-נ, ס-ל-ע, ל-ב-נ]
+roots: [א-ב-ן, ס-ל-ע, ל-ב-ן]
 translit: [even, ehven, avanim, avnei, sela, selah, slaim, selaim, leveinah, levenah]
 english: [stone, rock, crag, brick]
 domain: nature

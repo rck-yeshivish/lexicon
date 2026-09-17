@@ -1,7 +1,7 @@
 ---
 cluster: throat
 hebrew: [גרון, גרגרת, קנה, ושט, גרגרן]
-roots: [ג-ר, ג-ר-נ, ק-נ, ו-ש-ט]
+roots: [ג-ר, ג-ר-ן, ק-ן, ו-ש-ט]
 translit: [garon, garone, gargeres, gargeret, gargeros, gargerot, kaneh, kane, veshet, veshes, gargaran, gargeran]
 english: [throat, neck, windpipe, trachea, food pipe, esophagus, glutton]
 domain: body

@@ -1,7 +1,7 @@
 ---
 cluster: fat
 hebrew: [חלב, שומן, פדר, תרבא, חלב]
-roots: [ח-ל-ב, ש-מ-נ, פ-ד-ר, ר-ב-ה]
+roots: [ח-ל-ב, ש-מ-ן, פ-ד-ר, ר-ב-ה]
 translit: [cheilev, chelev, chelavim, chelvei hatamid, shuman, shumman, pader, peder, tarba, tarbah, chalav, shemen, prisuta dtarba]
 english: [fat, forbidden fat, permitted fat, suet, membrane, choicest]
 domain: body

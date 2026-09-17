@@ -1,7 +1,7 @@
 ---
 cluster: wing
 hebrew: [כנף, אבר, אגף, גף, גדפא, נוצה]
-roots: [כ-נ-ף, כ-פ, א-ב-ר, ב-ר, א-ג-ף, ג-פ]
+roots: [כ-נ-ף, כ-ף, א-ב-ר, ב-ר, א-ג-ף, ג-ף]
 translit: [kanaf, kenaf, kanfei, ever, eiver, evrah, avir, abir, agaf, agapav, gaf, gapin, gadfa, gadfin, gadnaf, notzah, notza]
 english: [wing, pinion, edge, periphery, flank, feather]
 domain: body

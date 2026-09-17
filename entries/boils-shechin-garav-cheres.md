@@ -1,7 +1,7 @@
 ---
 cluster: boils
 hebrew: [שחין, גרב, חרס, ילפת, אבעבועות]
-roots: [ש-ח-נ, ג-ר-ב, ח-ר-ס, י-ל-פ, ב-ע]
+roots: [ש-ח-ן, ג-ר-ב, ח-ר-ס, י-ל-ף, ב-ע]
 translit: [shechin, shchin, shichana, garav, gerev, cheres, charas, yalefet, yalefes, avabuot, avabuos, shechunah]
 english: [boil, inflamed sore, scab, dry eruption, blisters]
 domain: body

@@ -1,7 +1,7 @@
 ---
 cluster: fish
 hebrew: [דג, דגה, דאג, נונא, מוניני, גילדנא, טרית, אברומא, צחנתא]
-roots: [ד-ג, ד-ג-ה, ד-א-ג, ד-ג-נ]
+roots: [ד-ג, ד-ג-ה, ד-א-ג, ד-ג-ן]
 translit: [dag, dagim, dagah, daga, digas, digat, digei, dayag, davag, dugah, vayidgu, daagah, dagan, dugmah, nuna, munini, gildna, tarit, taris, avruma, avdumah, tzachanta, sultanit]
 english: [fish, fishes, small fish, fisherman, shoal]
 domain: nature

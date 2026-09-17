@@ -1,7 +1,7 @@
 ---
 cluster: names of Yosef
 hebrew: [יוסף, יהוסף, צפנת פענח, אברך, רך]
-roots: [י-ס-פ, ס-פ, צ-פ-נ, ב-ר-כ, ר-כ-כ]
+roots: [י-ס-ף, ס-ף, צ-פ-ן, ב-ר-ך, ר-כ-ך]
 translit: [yosef, yoseif, yehosef, yehoseif, tzafnas paneach, tzafnat paneach, paneach, paneiach, avreich, avrech, avreikh, rach, rakot, rakos, harakah, aryoch, asaf, sof]
 english: [Yosef, Yehosef, revealer of mysteries, father to the king, young sage]
 domain: other

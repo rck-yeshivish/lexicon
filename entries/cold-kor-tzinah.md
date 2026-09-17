@@ -1,7 +1,7 @@
 ---
 cluster: cold
 hebrew: [קור, קר, צנה, צנים, צננים, צונן, מצונן]
-roots: [ק-ר, ק-ו-ר, צ-נ, צ-נ-ן]
+roots: [ק-ר, ק-ו-ר, צ-ן, צ-נ-ן]
 translit: [kor, kar, karim, mayim karim, tzinah, tzina, tzinim, tzninim, tzonen, tzonein, metzunan, metzunenes, metzunenet, tzintzenes, tzintzenet]
 english: [cold, coldness, chill, biting cold, cool]
 domain: nature

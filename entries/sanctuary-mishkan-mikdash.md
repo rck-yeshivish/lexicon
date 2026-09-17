@@ -1,7 +1,7 @@
 ---
 cluster: sanctuary
 hebrew: [משכן, מקדש, בית המקדש]
-roots: [ש-כ-נ, ק-ד-ש]
+roots: [ש-כ-ן, ק-ד-ש]
 translit: [mishkan, mishkon, mikdash, beis hamikdash, bet hamikdash, batei mikdash, shechinah, shechina, leshaken]
 english: [Mishkan, Tabernacle, Mikdash, Temple, Beis HaMikdash]
 domain: ritual

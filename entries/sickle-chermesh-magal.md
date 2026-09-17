@@ -1,7 +1,7 @@
 ---
 cluster: sickle
 hebrew: [חרמש, מגל]
-roots: [ח-ר-מ, ג-ל, ח-ר, מ-ש]
+roots: [ח-ר-ם, ג-ל, ח-ר, מ-ש]
 translit: [chermesh, chermeish, magal, maggal, magla, magal yad, magal kotzer]
 english: [sickle, scythe, reaping hook]
 domain: other

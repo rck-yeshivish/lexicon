@@ -1,7 +1,7 @@
 ---
 cluster: in-laws
 hebrew: [חם, חמות, חתן, חותן, חותנת, מחותנים]
-roots: [ח-מ, ח-ת, ח-ת-ן]
+roots: [ח-ם, ח-ת, ח-ת-ן]
 translit: [cham, chami, chamos, chamot, chosen, choten, chosni, chotni, choseness, chotenet, chasan, chatan, mechutanim, mechutan, mori vchami]
 english: [father-in-law, mother-in-law, parents-in-law, groom]
 domain: society

@@ -1,7 +1,7 @@
 ---
 cluster: purple
 hebrew: [ארגמן, ארגון, סגול, לילך]
-roots: [א-ר-ג, ר-ג-מ, ס-ג-ל]
+roots: [א-ר-ג, ר-ג-ם, ס-ג-ל]
 translit: [argaman, argamon, argavan, argevan, argevana, argamana, segol, sagol, siglei, sigla, lilach, lilac]
 english: [purple, red-dyed wool, crimson, violet, lilac]
 domain: nature

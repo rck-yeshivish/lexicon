@@ -1,7 +1,7 @@
 ---
 cluster: color
 hebrew: [צבע, גוון, עין, מראה]
-roots: [צ-ב-ע, ג-ו-נ, ע-י-נ, ר-א-ה]
+roots: [צ-ב-ע, ג-ו-ן, ע-י-ן, ר-א-ה]
 translit: [tzeva, tzeva', tzova, tzovea, tzovei'a, tzivonim, tzavua, gavan, gaven, gavna, gvanim, ein, ayin, mareh, marei, mar'eh]
 english: [color, dye, colorant, shade, hue, appearance, sight]
 domain: nature

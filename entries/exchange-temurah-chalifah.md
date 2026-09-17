@@ -1,7 +1,7 @@
 ---
 cluster: exchange
 hebrew: [תמורה, חליפה, חלף, המר ימיר]
-roots: [מ-ר, מ-ו-ר, מ-י-ר, ח-ל-פ]
+roots: [מ-ר, מ-ו-ר, מ-י-ר, ח-ל-ף]
 translit: [temurah, temura, hamer yamir, yamir, vayamiru, chalifah, chalifa, chalipha, chelef, chalaf, yachalof]
 english: [substitution, exchange, replacement, swap]
 domain: action
