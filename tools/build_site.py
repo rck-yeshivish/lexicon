@@ -907,27 +907,6 @@ def main():
     for e in entries:
         emit(f'entries/{e["slug"]}.html', entry_page(e))
 
-    # "Try" examples: a Hebrew word, a transliteration and an English concept, each
-    # from a different entry, chosen in the browser on every visit. The pool is a
-    # few kilobytes inlined in the page, so the home page does not fetch data.json
-    # just to fill three buttons, and the static three stay for anyone without
-    # scripts. Only words with their own ruling go in, so every pick finds something.
-    def strip_nikud(s):
-        return "".join(ch for ch in s if not (0x0591 <= ord(ch) <= 0x05C7))
-    heb_word = re.compile("[" + chr(0x05D0) + "-" + chr(0x05EA) + "]{2,6}")
-    pool = {"h": {}, "t": {}, "e": {}}
-    for w in words:
-        if not w["d"]:
-            continue
-        if heb_word.fullmatch(w["k"]) and heb_word.fullmatch(strip_nikud(w["h"])):
-            pool["h"].setdefault(w["s"], strip_nikud(w["h"]))
-        if re.fullmatch("[a-z][a-z']{2,11}", w["t"] or ""):
-            pool["t"].setdefault(w["s"], w["t"])
-        if re.fullmatch("[a-z]{4,14}", w["e"] or ""):
-            pool["e"].setdefault(w["s"], w["e"])
-    try_pool = json.dumps({k: [[v, s] for s, v in d.items()] for k, d in pool.items()},
-                          ensure_ascii=False, separators=(",", ":"))
-
     # The method essay is a page, not a group of synonyms.
     n_words, n_entries = len(words), sum(1 for e in entries if e["slug"] != METHOD)
     taste_pool, question_pool = home_pools(entries)
@@ -949,10 +928,6 @@ def main():
     <input id="q" type="search" placeholder="Type Hebrew or English&hellip;" autocomplete="off" spellcheck="false" dir="auto">
     <div id="ac" class="ac" hidden></div>
   </div>
-  <p class="hint">Try <button class="chip" lang="he" data-q="בושה">בושה</button>
-    <button class="chip" data-q="chochmah">chochmah</button>
-    <button class="chip" data-q="humiliation">humiliation</button></p>
-  <script type="application/json" id="try-pool">{try_pool}</script>
 </section>
 <section class="how" aria-label="How it works">
   <ol class="how-steps">
@@ -1207,13 +1182,9 @@ header.bare .brand{flex:1}
 .bigsearch input:focus{border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft),var(--shadow)}
 .mag{position:absolute;left:20px;top:20px;width:20px;height:20px;fill:none;
   stroke:var(--faint);stroke-width:2;stroke-linecap:round;pointer-events:none}
-.hint{margin-top:18px;color:var(--faint);font-size:14px}
-.chip{border:1px solid var(--line);background:var(--panel);color:var(--dim);
-  border-radius:999px;padding:4px 12px;font:inherit;font-size:14px;cursor:pointer;margin:0 3px}
-.chip:hover{color:var(--ink);border-color:var(--dim)}
 .home-h{font-size:12.5px;text-transform:uppercase;letter-spacing:.08em;color:var(--faint);font-weight:600;
   margin:0 0 10px;padding-bottom:8px;border-bottom:1px solid var(--line)}
-.how{margin-top:40px}
+.how{margin-top:20px}
 .how-steps{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(3,1fr);counter-reset:step}
 .how-steps li{padding:2px 22px;font-size:15px;line-height:1.5;color:var(--dim);counter-increment:step}
 .how-steps li:first-child{padding-left:0}
@@ -1463,7 +1434,7 @@ li > .ppop{margin-inline-start:-1.4em}
   padding:14px 18px;margin:14px 0 32px}
 .method-note p{margin:0;font-size:16px;line-height:1.55}
 /* Hebrew inside English text (a gloss in a sentence, the Also-discussed roots,
-   the Hebrew "Try" chip) takes the Hebrew face too, a touch larger, since a
+   a word card) takes the Hebrew face too, a touch larger, since a
    serif Hebrew set at the sans size reads small beside it. */
 [lang="he"]{font-family:var(--heb)}
 :not([lang="he"]) > bdi[lang="he"]{font-size:1.08em;line-height:1}
@@ -1722,34 +1693,10 @@ function wire(){
       if(pick){ e.preventDefault(); location.href = href(pick); }
     } else if(e.key === "Escape"){ close(); q.blur(); }
   });
-  // A click outside the search closes the list, but not a click on a "Try"
-  // chip: the chip has just opened it, and the same click reaching here used to
-  // close it again before the reader could see it.
+  // A click outside the search closes the list.
   document.addEventListener("click", e => {
-    if(!ac.contains(e.target) && e.target !== q && !e.target.closest(".chip")) close();
+    if(!ac.contains(e.target) && e.target !== q) close();
   });
-  // Swap the three static examples for a fresh set on every visit: one Hebrew
-  // word, one transliteration, one English concept, from three different entries.
-  const pool = document.getElementById("try-pool");
-  if(pool){
-    try{
-      const P = JSON.parse(pool.textContent), used = new Set();
-      const chips = document.querySelectorAll(".hint .chip");
-      const pick = list => {
-        const ok = (list || []).filter(x => !used.has(x[1]));
-        if(!ok.length) return null;
-        const x = ok[Math.floor(Math.random() * ok.length)];
-        used.add(x[1]);
-        return x;
-      };
-      ["h", "t", "e"].forEach((k, i) => {
-        const x = pick(P[k]);
-        if(x && chips[i]){ chips[i].textContent = x[0]; chips[i].dataset.q = x[0]; }
-      });
-    }catch(err){}
-  }
-  document.querySelectorAll(".chip").forEach(b =>
-    b.addEventListener("click", () => { q.value = b.dataset.q; q.focus(); run(); }));
 }
 
 function initBrowse(mode){
