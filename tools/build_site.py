@@ -397,6 +397,20 @@ def root_sort(root):
     return ([order.get(c, 99) for c in letters], len(letters))
 
 
+def radak(root):
+    """Radak's entry for a root, or "" if his dictionary has none. He covers
+    Biblical Hebrew, so an Aramaic or Mishnaic root simply has no entry."""
+    return (SHORASHIM["roots"].get(root_key(root)) or {}).get("text", "")
+
+
+def radak_opening(text, n=120):
+    """The first words of an entry, cut at a space so nothing breaks mid-word."""
+    if len(text) <= n:
+        return text
+    cut = text[:n]
+    return cut[:cut.rfind(" ")] + "\u2009\u2026" if " " in cut else cut + "\u2009\u2026"
+
+
 def root_map(entries):
     """root as written -> [(cluster, slug)], and each root's letters folded."""
     out = {}
@@ -497,6 +511,12 @@ def glance_cards(mdtext):
 # forms so common across those texts (כלם, all) that a root match on them is
 # more likely coincidence than the word itself.
 PESUKIM = {"meta": {}, "verses": {}}
+# Radak's Sefer HaShorashim by root letters (references/shorashim.json, from
+# tools/fetch_shorashim.py). Public domain, so the site carries his own words.
+SHORASHIM = {"meta": {}, "roots": {}}
+RADAK_CREDIT = ('Radak, <em>Sefer HaShorashim</em>, Berlin 1847. Public domain, '
+                'digitised by <a href="https://www.sefaria.org/">Sefaria</a> '
+                'from the National Library of Israel.')
 TALMUD = {"meta": {}, "passages": {}}
 TALMUD_COMMS = {}   # daf -> the commentaries on it held in TALMUD
 STOP = set()
@@ -814,7 +834,13 @@ def root_line(e):
     links = " &middot; ".join(
         f'<a href="../roots.html#r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</a>'
         for r in sorted(roots, key=root_sort))
-    return f'\n<p class="rootline">{links}</p>'
+    blocks = "".join(
+        f'<h4 dir="rtl" lang="he">{html.escape(r)}</h4>'
+        f'<p class="rad-text" dir="rtl" lang="he">{html.escape(radak(r))}</p>'
+        for r in sorted(roots, key=root_sort) if radak(r))
+    more = (f'<details class="radak"><summary>Radak on {"this root" if blocks.count("<h4") == 1 else "these roots"}'
+            f'</summary>{blocks}<p class="radak-credit">{RADAK_CREDIT}</p></details>') if blocks else ""
+    return f'\n<p class="rootline">{links}</p>{more}'
 
 
 def entry_page(e):
@@ -968,7 +994,8 @@ def main():
                 XREF.setdefault(p["b"], []).append((clusters[p["a"]], p["a"], p["word"]))
         for v in XREF.values():
             v.sort(key=lambda x: x[0].lower())
-    for name, store in (("pesukim.json", PESUKIM), ("talmud.json", TALMUD)):
+    for name, store in (("pesukim.json", PESUKIM), ("talmud.json", TALMUD),
+                        ("shorashim.json", SHORASHIM)):
         f = ROOT / "references" / name
         if f.exists():
             store.update(json.loads(f.read_text(encoding="utf-8")))
@@ -1106,18 +1133,30 @@ def main():
     for r in sorted(rmap, key=root_sort):
         links = " &middot; ".join(f'<a href="entries/{s}.html">{html.escape(c)}</a>' for c, s in rmap[r])
         first = root_key(r)[:1]
-        rrows.append(f'<div class="r" data-l="{first}">'
+        text = radak(r)
+        rad = (f'<span class="rad" dir="rtl" lang="he">{html.escape(radak_opening(text))}</span>'
+               if text else '<span class="rad"></span>')
+        rrows.append(f'<div class="r{" has-rad" if text else ""}" data-l="{first}" data-k="{root_key(r)}"'
+                     f'{" tabindex=0 role=button aria-expanded=false" if text else ""}>'
                      f'<span class="h" id="r-{root_key(r)}" dir="rtl" lang="he">{html.escape(r)}</span>'
-                     f'<span class="tx rlinks">{links}</span></div>')
+                     f'<span class="tx rlinks">{links}</span>{rad}</div>')
     roots_body = f'''<section class="browse">
   <h1>Roots</h1>
   <p class="lede">Every root the entries name, and the groups whose words come from it.</p>
   <div class="letters heb">{letters}</div>
   <p class="count" id="count">{len(rmap):,} roots</p>
   <div id="list" class="rows roots">{"".join(rrows)}</div>
+  <p class="radak-credit">{RADAK_CREDIT}</p>
 </section>'''
+    chunks = {}
+    for r in rmap:
+        text = radak(r)
+        if text:
+            chunks.setdefault(root_key(r)[:1], {})[root_key(r)] = text
+    for letter, part in chunks.items():
+        emit(f"shorashim/{letter}.json", json.dumps(part, ensure_ascii=False, separators=(",", ":")))
     emit("roots.html", shell("Roots — What’s in a Word?", roots_body, active="roots",
-                             extra_js='<script>initBrowse("roots");</script>'))
+                             extra_js='<script>initBrowse("roots");wireRoots();</script>'))
 
     method_src = ROOT / "references" / "how-synonyms-differ.md"
     pdf_src = ROOT / "sources" / "klein-babel-2020" / "synonyms-in-language.pdf"
@@ -1437,7 +1476,19 @@ header.bare .brand{flex:1}
 .rows .r{display:grid;grid-template-columns:120px minmax(0,1fr) 20px;gap:18px;align-items:center;
   padding:10px 6px;border-bottom:1px solid var(--line)}
 .rows.en3 .r{grid-template-columns:minmax(0,260px) minmax(0,150px) minmax(0,1fr) 20px}
-.rows.roots .r{grid-template-columns:120px minmax(0,1fr);align-items:baseline;padding:9px 6px}
+.rows.roots .r{grid-template-columns:110px minmax(0,220px) minmax(0,1fr);align-items:baseline;padding:9px 6px}
+.rows.roots .r.has-rad{cursor:pointer}
+.rows.roots .r.has-rad:hover{background:var(--panel)}
+.rad{font-family:var(--heb);font-size:16px;line-height:1.5;color:var(--dim);overflow:hidden}
+.rad-open{grid-column:1/-1;font-family:var(--heb);font-size:18px;line-height:1.75;color:var(--ink);
+  padding:10px 0 4px;text-align:right}
+.radak-credit{color:var(--faint);font-size:13px;margin:22px 0 0;line-height:1.5}
+.radak{margin:0 0 18px}
+.radak summary{cursor:pointer;color:var(--dim);font-size:15px}
+.radak h4{font-family:var(--heb);font-size:19px;margin:14px 0 2px;color:var(--accent)}
+.rad-text{font-family:var(--heb);font-size:18px;line-height:1.75;margin:0;text-align:right}
+@media (max-width:760px){.rows.roots .r{grid-template-columns:90px minmax(0,1fr);row-gap:4px}
+  .rows.roots .rad{grid-column:1/-1}}
 .rows.roots .h{font-size:20px;line-height:1.3}
 .rlinks{color:var(--dim);font-size:14px;line-height:1.5}
 .rlinks a{color:var(--ink)}
@@ -1874,6 +1925,40 @@ function wire(){
   });
 }
 
+// The roots page: open a row to read Radak on that root. His dictionary is
+// two megabytes, so a letter's worth is fetched the first time it is wanted.
+function wireRoots(){
+  const list = document.getElementById("list");
+  if(!list || !list.classList.contains("roots")) return;
+  const cache = {};
+  const open = async row => {
+    const had = row.nextElementSibling;
+    if(had && had.classList.contains("rad-open")){
+      had.remove(); row.setAttribute("aria-expanded", "false"); return;
+    }
+    const letter = row.dataset.l, key = row.dataset.k;
+    if(!cache[letter]){
+      try{ cache[letter] = await fetch(`shorashim/${encodeURIComponent(letter)}.json`).then(r => r.json()); }
+      catch(err){ return; }
+    }
+    const text = cache[letter][key];
+    if(!text) return;
+    const el = document.createElement("div");
+    el.className = "rad-open"; el.dir = "rtl"; el.lang = "he"; el.textContent = text;
+    row.after(el);
+    row.setAttribute("aria-expanded", "true");
+  };
+  list.addEventListener("click", e => {
+    const row = e.target.closest(".r.has-rad");
+    if(row && !e.target.closest("a")) open(row);
+  });
+  list.addEventListener("keydown", e => {
+    if(e.key !== "Enter" && e.key !== " ") return;
+    const row = e.target.closest(".r.has-rad");
+    if(row){ e.preventDefault(); open(row); }
+  });
+}
+window.wireRoots = wireRoots;
 function initBrowse(mode){
   // The rows are already in the HTML, so this only filters them. That is what
   // lets the page work with scripts off and gives a crawler real links.

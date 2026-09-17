@@ -52,3 +52,9 @@ pieces in:
   (following Rabbi Klein's book, with its `ADJUST` list for the few plain
   misfits) and what each week shows. Run it after new entries land or the
   calendar is refetched, then `build_site.py`.
+- **`fetch_shorashim.py [--refresh] [--retry-empty]`** saves Radak's
+  *Sefer HaShorashim* for each root of three letters or more to
+  `references/shorashim.json`. Sefaria carries the Berlin 1847 edition, which
+  is public domain, so the site shows his own Hebrew with a credit. A root is
+  looked up twice, folded and with its last letter in final form, because the
+  dictionary spells it ברך and our entries fold it to ברכ.
