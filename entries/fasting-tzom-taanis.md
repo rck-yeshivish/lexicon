@@ -20,7 +20,7 @@ words:
     distinct: the Torah's own term for what is required on Yom Kippur (Vayikra 23:27 to 32, Bamidbar 29:7), of which not eating and drinking is one part
 sources:
   - wiaw:7332 "United We Fast" (2017-07-08) https://articles.ohr.edu/articles/united-we-fast
-authorities: [Radak, Rabbi Yosef Kimchi, Rabbi Akiva Shlomo Deutsch-Dayan of Geneva, Rabbi Avraham Etiel Gurwitz, Rambam, Rema, Rabbi Yechiel Heilpern, Rabbi Moshe Di'Segovia Benveniste]
+authorities: [Radak, Rabbi Akiva Shlomo Deutsch-Dayan of Geneva, Rabbi Avraham Etiel Gurwitz, Rambam, Rema, Rabbi Yechiel Heilpern, Rabbi Moshe Di'Segovia Benveniste]
 status: reviewed
 updated: 2026-09-10
 ---

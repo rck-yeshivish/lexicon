@@ -91,6 +91,20 @@ Mars, the red planet; *adamdemes*, rubella in Modern Hebrew; and Edom, the secon
 name of Esav and his descendants, on account of the red lentils (Bereishis
 25:30).
 
+Rav Hirsch (to Bereishis 1:26) turns the usual derivation around: *adamah* comes
+from *adam*, and not *adam* from *adamah*, since being formed of the earth is
+nothing peculiar to man, the animals sharing it. What sets man apart is a
+corporeal body joined to a supernal soul, which makes him the more like Hashem,
+who is wholly incorporeal. On that reading *adam* is tied to *adom*: red lies at
+the edge of the visible spectrum and is the colour nearest the invisible light
+beyond it, as man stands nearest the divine. By his theory of phonetic
+interchangeability Rav Hirsch further ties א-ד-ם to *hadom*, a footstool, on the
+alef and heh interchange, man serving as Hashem's footstool in this world, and to
+*chasam*, a seal, on the alef with ches and the dalet with tav, man's presence
+being Hashem's signature on creation; and he reads *adam* itself as the alef, one
+in gematria, with *dam*, similar, man's free will making him similar to the One
+who created him.
+
 ### shani (שני) and tola'as shani (תולעת שני)
 The dyed wool of the *parah adumah* (Bamidbar 19:6), of the metzora's taharah
 (Vayikra 14:4, 14:6, 14:49, 14:51-52), and of the Mishkan throughout Shemos; also

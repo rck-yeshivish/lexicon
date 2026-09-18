@@ -17,7 +17,7 @@ words:
 sources:
   - wiaw:6817 "Introduction - Synonyms in the Hebrew Language" (2016-06-25) https://articles.ohr.edu/articles/introduction-synonyms-in-the-hebrew-language
   - wiaw:9039 "Bo: Come To Pharaoh" (2021-01-23) https://articles.ohr.edu/articles/bo-come-to-pharaoh
-authorities: [Malbim, Ibn Ezra, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Yehuda Leib Edel, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim]
+authorities: [Malbim, Ibn Ezra, Vilna Gaon, Rabbi Yaakov Tzvi Mecklenburg, Rabbi Aharon Marcus, Rabbi Shlomo Aharon Wertheimer, Rabbi Shlomo Pappenheim, Tosafos, Zohar]
 status: reviewed
 updated: 2026-09-10
 ---
@@ -78,6 +78,18 @@ multitudes."
   travelling toward it, while *atah*, which also focuses on the destination, is
   a coming with more finality, referring only to arriving and never to the way
   there.
+- Rabbi Yaakov Tzvi Mecklenburg reads *bo el Paroh* (Shemos 10:1) as "bring
+  [this message] to Pharaoh," since *l'havi*, to bring, is itself a conjugation
+  of *bo*: to bring a thing from one place to another is to cause it to go. In
+  the same vein Rabbi Shlomo Pappenheim derives *navi*, a prophet, from the
+  two-letter root of *bo*, because a *navi* brings Hashem's words to those who
+  hear him.
+- Rabbi Shlomo Pappenheim and Rabbi Aharon Marcus trace *bo* and *biah* to the
+  one-letter root ב, inside, which also fits the work of the *beis* as a prefix:
+  one who comes to a place goes inside it and stops coming, having arrived,
+  though *bo* may still be used of him while he is on the way. Rabbi Klein takes
+  this as accounting for the assumption of the Tosafists and the *Zohar* that
+  *bo* implies going inside.
 
 ### davar (דבר)
 The premise itself. Other languages' words are a consensus among speakers that
@@ -112,4 +124,4 @@ Rabbi Reuven Chaim Klein, "[Introduction: Synonyms in the Hebrew Language](https
 
 Rabbi Reuven Chaim Klein, "[Bo: Come To Pharaoh](https://articles.ohr.edu/articles/bo-come-to-pharaoh)," *What's in a Word?*, Ohr Somayach, 23 January 2021.
 
-Cited in the essay: Devarim 33:2; Tehillim 22:29 with Ibn Ezra; Malbim; the *meforshim* on Devarim 33:2; Rabbi Shlomo Pappenheim; Malbim, *Yair Ohr*.
+Cited in the essay: Devarim 33:2; Tehillim 22:29 with Ibn Ezra; Shemos 10:1; Bereishis 29:9, 37:19; Malbim; the *meforshim* on Devarim 33:2; Rabbi Shlomo Pappenheim; Malbim, *Yair Ohr*; Rabbi Yaakov Tzvi Mecklenburg; Rabbi Aharon Marcus; the Tosafists and the *Zohar* on *bo*; Rabbi Yehuda Leib Edel, Rabbi Aharon Marcus and Rabbi Shlomo Aharon Wertheimer, named as writers on Hebrew synonyms.

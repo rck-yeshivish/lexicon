@@ -24,7 +24,7 @@ words:
     distinct: once only, and disputed; hooks (Targum, Rashi, Rabbi Shlomo of Urbino), the stovetop place where pots sit unlifted until cooked (Radak, Abarbanel, Pappenheim), or a ledge around the Table (Rabbi Eliezer of Beaugency)
 sources:
   - wiaw:9565 "On Hooks and Hangers" (2022-02-05) https://articles.ohr.edu/articles/on-hooks-and-hangers
-authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashi, Rabbi Shlomo of Urbino, Abarbanel, Rabbi Eliezer of Beaugency, Targum Onkelos, Targum Yonasan, Shadal, A. E. Silverstone]
+authorities: [Menachem Ibn Saruk, Ibn Janach, Radak, Rabbi Shlomo Pappenheim, Rabbi Aharon Marcus, Rashi, Rabbi Shlomo of Urbino, Abarbanel, Rabbi Eliezer of Beaugency, Targum Onkelos, Shadal, A. E. Silverstone]
 status: reviewed
 updated: 2026-09-10
 ---

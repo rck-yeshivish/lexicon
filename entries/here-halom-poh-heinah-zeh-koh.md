@@ -32,7 +32,7 @@ words:
     distinct: the Mishnaic word, understood to be a cognate of koh; Rabbinic Hebrew folds both poh and halom into it, kan for poh and l'kan for halom (Rabbi Shlomo Pappenheim, Cheshek Shlomo)
 sources:
   - wiaw:11665 "Shemot: Here We Go" (2025-01-18) https://articles.ohr.edu/articles/shemot-here-we-go
-authorities: [Rabbi Avraham Bedersi, Rabbi Shmuel David Luzzatto, Malbim, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Radak, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Ibn Parchon, Maharsha, HaKsav VeHaKabbalah, Rabbi Yosef Grayever, Rabbi Chaim Yehoshua Kasovsky, Dr. Lawrence Resnick, Rabbi Eliezer Cohn, Targum]
+authorities: [Rabbi Avraham Bedersi, Rabbi Shmuel David Luzzatto, Rav Hirsch, Rabbi Yehuda Leib Shapira-Frankfurter, Rabbi Shlomo Pappenheim, Rabbi Shlomo Aharon Wertheimer, Radak, Ibn Janach, Menachem Ibn Saruk, Rabbi Shlomo Ibn Parchon, Maharsha, HaKsav VeHaKabbalah, Rabbi Yosef Grayever, Rabbi Chaim Yehoshua Kasovsky, Dr. Lawrence Resnick, Rabbi Eliezer Cohn, Targum]
 status: reviewed
 updated: 2026-09-10
 ---

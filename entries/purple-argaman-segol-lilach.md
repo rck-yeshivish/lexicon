@@ -24,7 +24,7 @@ words:
     distinct: also modern, the lilac flower's name extended to the color, as with the modern words for lavender and mauve
 sources:
   - wiaw:9575 "The Color Purple" (2022-02-12) https://articles.ohr.edu/articles/the-color-purple
-authorities: [Rambam, Raavad, Bartenura, Rabbi Avraham Maimuni, Rabbi Tanchum HaYerushalmi, Radak, Rasag, Rashi, Ibn Ezra, Menachem Ibn Saruk, Rabbi Yosef Kurkis, Rabbi Yosef Karo, Rabbi Yechiel Michel Epstein, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Zohar, Ohalei Yehudah, Rabbi Yisrael Rosenberg, Chaim Tawil, William Foxwell Albright, Athalya Brenner-Idan]
+authorities: [Rambam, Raavad, Bartenura, Rabbi Avraham Maimuni, Rabbi Tanchum HaYerushalmi, Radak, Rasag, Rashi, Ibn Ezra, Menachem Ibn Saruk, Rabbi Yosef Kurkis, Rabbi Yosef Karo, Rabbi Yechiel Michel Epstein, Rabbi Eliyahu HaBachur, Rabbi Ernest Klein, Zohar, Ohalei Yehudah, Chaim Tawil, William Foxwell Albright, Athalya Brenner-Idan]
 status: reviewed
 updated: 2026-09-10
 ---

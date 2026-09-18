@@ -66,9 +66,11 @@ female demon, adding that *sheidim* have the faces of men and wings besides.
 that the *sheidim* the builders of the Tower turned into were a kind without
 wings, though *sheidim* in general do have them.
 
-**Whether the female demon has hair.** The *Zohar* (*Bereishis* 54b) and *Sefer
-Chassidim* (§1155) hold that female demons have no hair, which is why Boaz knew
-his visitor was a woman. On that, Rabbi Yehudah Fatiyah (1859 to 1942) reads
+**Whether the female demon has hair.** *Ruth Rabbah*, and Rashi with it, read
+Boaz's fright at midnight (Rus 3:8) as a fear of a *sheid*: he sensed someone at
+his feet and suspected a demon had come to him. The *Zohar* (*Bereishis* 54b) and
+*Sefer Chassidim* (§1155) hold that female demons have no hair, which is why Boaz
+knew from his visitor's head that she was a woman. On that, Rabbi Yehudah Fatiyah (1859 to 1942) reads
 Rashi to *Eruvin* 100b precisely: Rashi wrote that a Lilis is a kind of *sheid*
 and not a kind of *sheidah*, because only the males have hair. Others hold that
 Lilis is the exception, a female demon who does have hair on her head, and

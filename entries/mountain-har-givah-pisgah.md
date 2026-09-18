@@ -20,7 +20,7 @@ words:
     distinct: the uncommon third word, taller than an ordinary mountain and so the one fit to be a lookout (the commentators)
 sources:
   - toi:behar-making-mountains-out-of-hills "Behar: Making Mountains Out of Hills" (2019-05-15) https://blogs.timesofisrael.com/behar-making-mountains-out-of-hills
-authorities: [the Vilna Gaon, Radak, Malbim, Rabbi Eliyahu Margules, Rabbi Shlomo Aharon Wertheimer]
+authorities: [the Vilna Gaon, Radak, Malbim, Rabbi Eliyahu Margules]
 status: draft
 updated: 2026-09-18
 ---

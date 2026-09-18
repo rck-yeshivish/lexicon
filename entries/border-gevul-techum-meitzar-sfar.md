@@ -134,7 +134,12 @@ the three weeks bookended by Shivah Asar B'Tammuz and Tishah B'Av, taking
 *mitzarim* as a cognate of *tzarah*, "sorrow," "suffering"; he then gives the
 contextual, plain-sense reading, that the Jews were caught where they could not
 escape, penned between two fences, and glosses with *gevul*, while Targum and
-Mahari Kara gloss with *techum*. Rabbi Avraham Yitzchok Shain (*Birkas Ish*)
+Mahari Kara gloss with *techum*. Rabbi Pinchas of Koretz turns on the same
+narrowness: there is no Zohar on Matos, Masei and Devarim, the three parshiyos
+always read in the *bein hametzarim*, because in those weeks our minds are
+constricted and made small by mourning the tragedies we have suffered, and a
+narrowed mind is no place for the hidden parts of the Torah. Rabbi Avraham
+Yitzchok Shain (*Birkas Ish*)
 theorizes that the name Mitzrayim (Bereishis 10:6, Divrei HaYamim I 1:8) comes
 from this sense of boundary: Cham, set on sparing his sons the in-fighting he
 had known with his own brothers, and that Kayin and Hevel had known, took pains
