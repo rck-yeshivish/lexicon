@@ -514,9 +514,15 @@ def gloss(part, field):
 # Ending it at the consonant left the vowel outside the span, where a combining
 # mark with nothing to sit on renders as a bare dotted circle: חֻקֶּיךָ lost its
 # final kamatz that way.
-HEB_RUN = re.compile("[א-ת][א-ת֑-ׇ־\"' ]*"
-                     "[א-ת][֑-ׇ]*"
-                     "|[א-ת][֑-ׇ]*")
+# Its own name, not HEB_RUN. Defined here it used to rebind the module level
+# HEB_RUN above, so the entry body got this one too, and this one does not know
+# the ASCII hyphen that joins a root's letters: it holds the maqaf instead. ל-צ
+# was matched as two single letters, each isolated in its own bdi, and two
+# isolates in an English paragraph lay out left to right. The root was stored
+# correctly and rendered backwards, reading צל on the page.
+GLOSS_HEB_RUN = re.compile("[א-ת][א-ת֑-ׇ־\"' ]*"
+                           "[א-ת][֑-ׇ]*"
+                           "|[א-ת][֑-ׇ]*")
 
 
 def en_text(s):
@@ -524,8 +530,8 @@ def en_text(s):
     takes the Hebrew face and its own direction. Quotes are left alone, since
     this is text and not an attribute, and escaping them would cut a word like
     רז"ל in two."""
-    return HEB_RUN.sub(lambda m: f'<bdi lang="he">{m.group(0)}</bdi>',
-                       html.escape(s, quote=False))
+    return GLOSS_HEB_RUN.sub(lambda m: f'<bdi lang="he">{m.group(0)}</bdi>',
+                             html.escape(s, quote=False))
 
 
 def gloss_block(part, heading=True, summary=False, with_sense=True):
